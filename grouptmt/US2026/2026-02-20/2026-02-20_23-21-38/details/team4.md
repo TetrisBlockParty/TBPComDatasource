@@ -42,8 +42,8 @@
 | 34 | 114 | Jessica Cagle |
 | 35 | 113 | Degenerate |
 | 36 | 112 | Chirpy Basepiece |
-| 37 | 111 | Gwendolyn Pitcairn |
-| 38 | 111 | Denise Carlson |
+| 37 | 111 | Denise Carlson |
+| 38 | 111 | Gwendolyn Pitcairn |
 | 39 | 109 | Brittney Orengo |
 | 40 | 109 | Lucille Truesdale |
 | 41 | 108 | Mr. Party |
@@ -274,7 +274,7 @@
 | 266 | 21 | Daws |
 | 267 | 21 | TheNeesh50 |
 | 268 | 20 | Bad company |
-| 269 | 20 | Lucky2Guns |
+| 269 | 20 | Neirrah B Olailjeel |
 | 270 | 20 | Desi Desporte |
 | 271 | 20 | Lucky2Guns |
 | 272 | 20 | Nig |

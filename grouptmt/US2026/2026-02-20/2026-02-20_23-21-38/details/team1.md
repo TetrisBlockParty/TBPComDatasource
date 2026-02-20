@@ -135,8 +135,8 @@
 | 127 | 47 | Christy Jones |
 | 128 | 47 | Kellie |
 | 129 | 46 | Robert Benito |
-| 130 | 45 | Logan McFarland |
-| 131 | 45 | Vivian Bush |
+| 130 | 45 | Vivian Bush |
+| 131 | 45 | Logan McFarland |
 | 132 | 45 | Mindy Gloska |
 | 133 | 44 | Alenoush Karimian |
 | 134 | 44 | Brian Richardsson |
