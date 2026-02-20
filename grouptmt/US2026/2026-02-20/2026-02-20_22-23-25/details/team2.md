@@ -186,8 +186,8 @@
 | 178 | 148 | Brittany Radaszewski |
 | 179 | 148 | Shannon Byrd |
 | 180 | 146 | Deborah Miller |
-| 181 | 145 | Cappin You |
-| 182 | 145 | Alexandra Weir |
+| 181 | 145 | Alexandra Weir |
+| 182 | 145 | Cappin You |
 | 183 | 145 | Scott Rackley |
 | 184 | 143 | Diallo Sparkman |
 | 185 | 142 | Angela Lynn |

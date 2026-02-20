@@ -24,16 +24,16 @@
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
 | 18 | 141 | Edward White |
-| 19 | 133 | Devinlee Brown |
-| 20 | 133 | Alicia Bass |
+| 19 | 133 | Alicia Bass |
+| 20 | 133 | Devinlee Brown |
 | 21 | 130 | Casey Jeffcoat |
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
 | 24 | 124 | Jay28 |
 | 25 | 123 | Nugget |
 | 26 | 117 | Lauren Scott |
-| 27 | 116 | Sherri |
-| 28 | 116 | Dee Kay |
+| 27 | 116 | Dee Kay |
+| 28 | 116 | Sherri |
 | 29 | 114 | Jessica Cagle |
 | 30 | 113 | Degenerate |
 | 31 | 112 | Chirpy Basepiece |
@@ -75,8 +75,8 @@
 | 67 | 64 | Marcus Todd |
 | 68 | 64 | Damn Libra |
 | 69 | 61 | Jenna Ingersoll |
-| 70 | 61 | Alee Marie |
-| 71 | 61 | Shauna Havard |
+| 70 | 61 | Shauna Havard |
+| 71 | 61 | Alee Marie |
 | 72 | 60 | Girl |
 | 73 | 56 | Stephanie Jones |
 | 74 | 55 | mini |
