@@ -30,8 +30,8 @@
 | 22 | 181 | Tdub |
 | 23 | 176 | Jazzy Framezone |
 | 24 | 169 | Erez Yosef |
-| 25 | 151 | Standia Civil |
-| 26 | 151 | Hyper |
+| 25 | 151 | Hyper |
+| 26 | 151 | Standia Civil |
 | 27 | 146 | Abbey Crespo |
 | 28 | 144 | Jessie Lynn |
 | 29 | 144 | Tana |
@@ -51,17 +51,17 @@
 | 43 | 110 | Heidi Feurer |
 | 44 | 109 | Dandy Basegrid |
 | 45 | 105 | Barry Mac'Ockner |
-| 46 | 103 | Jayme Sellers |
-| 47 | 103 | Sharon Reynolds |
+| 46 | 103 | Sharon Reynolds |
+| 47 | 103 | Jayme Sellers |
 | 48 | 100 | Frothy Pattern |
 | 49 | 98 | Flashy Rotator |
 | 50 | 97 | Ly Phethmany |
 | 51 | 95 | Jennifer Cates |
 | 52 | 95 | Jodee Woods |
 | 53 | 94 | Bindi |
-| 54 | 93 | Uhog SF |
-| 55 | 93 | Ty Brown |
-| 56 | 93 | Ash Galvan |
+| 54 | 93 | Ty Brown |
+| 55 | 93 | Ash Galvan |
+| 56 | 93 | Uhog SF |
 | 57 | 91 | Spunky Piecebuilder |
 | 58 | 90 | Madison Wicks |
 | 59 | 90 | comrade fish |
@@ -73,9 +73,9 @@
 | 65 | 81 | Bob |
 | 66 | 80 | Matt Cinelli |
 | 67 | 79 | Chris65 |
-| 68 | 78 | Carrie Beck Geartz |
-| 69 | 78 | Guest |
-| 70 | 78 | TSwag |
+| 68 | 78 | TSwag |
+| 69 | 78 | Carrie Beck Geartz |
+| 70 | 78 | Guest |
 | 71 | 75 | Tyler L Hunt |
 | 72 | 73 | Witty Builderfit |
 | 73 | 72 | Tipsy Strikerpiece |

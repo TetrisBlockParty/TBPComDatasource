@@ -33,8 +33,8 @@
 | 25 | 677 | Kimberly Michelle Brown |
 | 26 | 674 | Dannette Goldberg-Richards |
 | 27 | 668 | Eboni Banks |
-| 28 | 658 | Dreamy Blast |
-| 29 | 658 | Vistabrat |
+| 28 | 658 | Vistabrat |
+| 29 | 658 | Dreamy Blast |
 | 30 | 648 | Jill Stroehlein |
 | 31 | 640 | Rob Riggin |
 | 32 | 615 | Vo'Landa Reels |
@@ -94,8 +94,8 @@
 | 86 | 270 | Juanita Lyons |
 | 87 | 268 | Vanessa Moreno |
 | 88 | 265 | Wuntayk |
-| 89 | 263 | Oscar Bernie |
-| 90 | 263 | Shiny Rollzone |
+| 89 | 263 | Shiny Rollzone |
+| 90 | 263 | Oscar Bernie |
 | 91 | 261 | Priscilla Noel |
 | 92 | 261 | MrsClaudette Will'sIam Matthews |
 | 93 | 260 | Autumn Schaeffer |
@@ -122,8 +122,8 @@
 | 114 | 223 | Matt Johnson |
 | 115 | 223 | Steven Marshaun |
 | 116 | 222 | snkylnk |
-| 117 | 220 | Venechia Berry |
-| 118 | 220 | BYM4L |
+| 117 | 220 | BYM4L |
+| 118 | 220 | Venechia Berry |
 | 119 | 217 | Donna Chandler |
 | 120 | 215 | Mary Marie |
 | 121 | 214 | Mischelle Clay |
@@ -141,8 +141,8 @@
 | 133 | 200 | Sarah Ridenour |
 | 134 | 199 | Gary Stash |
 | 135 | 198 | Richard Horton |
-| 136 | 197 | Smashanator |
-| 137 | 197 | James Zaragoza |
+| 136 | 197 | James Zaragoza |
+| 137 | 197 | Smashanator |
 | 138 | 196 | Bubbly Snapfit |
 | 139 | 194 | bru |
 | 140 | 194 | Shameika Trail |
@@ -363,8 +363,8 @@
 | 355 | 87 | Anita Rose Green |
 | 356 | 86 | Chipper Risebuilder |
 | 357 | 86 | Alice Ball |
-| 358 | 85 | Jennifer Riley |
-| 359 | 85 | Ryan Kluck |
+| 358 | 85 | Ryan Kluck |
+| 359 | 85 | Jennifer Riley |
 | 360 | 84 | Jes Norris |
 | 361 | 83 | Paula TexasMomma |
 | 362 | 83 | Philbro114 |
@@ -393,7 +393,7 @@
 | 385 | 77 | El Chaopo |
 | 386 | 77 | Tina Wright-Quigley |
 | 387 | 76 | Shelley Thornburgh Wright |
-| 388 | 76 | Tony Lea |
+| 388 | 76 | Carla Cervantes |
 | 389 | 76 | Block Master |
 | 390 | 76 | Katrina Willmon |
 | 391 | 76 | Deanna Morton |
