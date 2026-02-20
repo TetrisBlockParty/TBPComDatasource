@@ -41,8 +41,8 @@
 | 33 | 307 | Peggi Charon |
 | 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
-| 36 | 291 | Laura Melton |
-| 37 | 291 | Tasha Schriewer |
+| 36 | 291 | Tasha Schriewer |
+| 37 | 291 | Laura Melton |
 | 38 | 272 | Mahman |
 | 39 | 240 | Ebony West-Cundiff |
 | 40 | 239 | Lush Buildout |
@@ -71,8 +71,8 @@
 | 63 | 127 | mjl574 |
 | 64 | 126 | ren |
 | 65 | 125 | Stephanie Simpson |
-| 66 | 122 | Jennifer Willis |
-| 67 | 122 | Emma |
+| 66 | 122 | Emma |
+| 67 | 122 | Jennifer Willis |
 | 68 | 120 | Zippy Strikesnap |
 | 69 | 120 | Michael Latasha Gray |
 | 70 | 119 | Jessica |
