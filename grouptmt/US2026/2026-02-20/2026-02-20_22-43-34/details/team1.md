@@ -56,8 +56,8 @@
 | 48 | 100 | Frothy Pattern |
 | 49 | 98 | Flashy Rotator |
 | 50 | 97 | Ly Phethmany |
-| 51 | 95 | Jennifer Cates |
-| 52 | 95 | Jodee Woods |
+| 51 | 95 | Jodee Woods |
+| 52 | 95 | Jennifer Cates |
 | 53 | 94 | Bindi |
 | 54 | 93 | Uhog SF |
 | 55 | 93 | Ty Brown |
@@ -87,9 +87,9 @@
 | 79 | 66 | Giggly Builderline |
 | 80 | 65 | Trippy Redd |
 | 81 | 64 | Jessi Sauer |
-| 82 | 63 | Lincon |
-| 83 | 63 | Mitchel White |
-| 84 | 63 | Margo Wagner |
+| 82 | 63 | Margo Wagner |
+| 83 | 63 | Lincon |
+| 84 | 63 | Mitchel White |
 | 85 | 62 | Tofy |
 | 86 | 62 | Sarah Henniker |
 | 87 | 60 | Tina Englert |

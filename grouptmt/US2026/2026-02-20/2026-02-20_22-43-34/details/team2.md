@@ -88,8 +88,8 @@
 | 80 | 284 | Brittney Jean |
 | 81 | 283 | Poppy Snap |
 | 82 | 281 | Robert Diddle |
-| 83 | 280 | Christina Lewis-Vickers |
-| 84 | 280 | Kimberly Schall |
+| 83 | 280 | Kimberly Schall |
+| 84 | 280 | Christina Lewis-Vickers |
 | 85 | 276 | Lisa Ongtowasruk |
 | 86 | 271 | Ann Marie Davis |
 | 87 | 270 | Juanita Lyons |
@@ -106,8 +106,8 @@
 | 98 | 255 | Santana Miyagi |
 | 99 | 255 | Lonne Emade |
 | 100 | 254 | Libby Hicks |
-| 101 | 253 | RdRydnHd |
-| 102 | 253 | Joseph Musick |
+| 101 | 253 | Joseph Musick |
+| 102 | 253 | RdRydnHd |
 | 103 | 252 | Alezandra Smith |
 | 104 | 250 | Barbra Miller |
 | 105 | 247 | Fancy Twister |
@@ -189,8 +189,8 @@
 | 181 | 155 | Nika Bee |
 | 182 | 151 | D'Aaron Black |
 | 183 | 151 | Dizzy Zone |
-| 184 | 150 | Tiffney Wroten |
-| 185 | 150 | Justin Hines |
+| 184 | 150 | Justin Hines |
+| 185 | 150 | Tiffney Wroten |
 | 186 | 148 | Brittany Radaszewski |
 | 187 | 148 | Shannon Byrd |
 | 188 | 146 | Deborah Miller |
