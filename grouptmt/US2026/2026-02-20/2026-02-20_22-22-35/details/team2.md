@@ -41,8 +41,8 @@
 | 33 | 600 | Cool Snapclear |
 | 34 | 567 | Anna Edwards |
 | 35 | 528 | Melissa Lanteigne |
-| 36 | 518 | Sean Dugar |
-| 37 | 518 | Pacynthia Williams |
+| 36 | 518 | Pacynthia Williams |
+| 37 | 518 | Sean Dugar |
 | 38 | 515 | Real Ri |
 | 39 | 509 | Kelli Wells |
 | 40 | 496 | Shannon Joslin |
@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Alyssaaelena |
-| 64 | 345 | Rhianna DiLorenzo |
+| 63 | 345 | Rhianna DiLorenzo |
+| 64 | 345 | Alyssaaelena |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 337 | Alisha Peoples |
@@ -84,8 +84,8 @@
 | 76 | 284 | Brittney Jean |
 | 77 | 283 | Poppy Snap |
 | 78 | 281 | Robert Diddle |
-| 79 | 280 | Kimberly Schall |
-| 80 | 280 | Christina Lewis-Vickers |
+| 79 | 280 | Christina Lewis-Vickers |
+| 80 | 280 | Kimberly Schall |
 | 81 | 276 | Lisa Ongtowasruk |
 | 82 | 271 | Ann Marie Davis |
 | 83 | 270 | Juanita Lyons |
@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | RdRydnHd |
-| 97 | 253 | Joseph Musick |
+| 96 | 253 | Joseph Musick |
+| 97 | 253 | RdRydnHd |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
@@ -111,8 +111,8 @@
 | 103 | 239 | Tee Jaleesa |
 | 104 | 238 | Ann Matzkanin |
 | 105 | 236 | Frisky Riserbuilder |
-| 106 | 231 | Dylan Thomason |
-| 107 | 231 | Ginger |
+| 106 | 231 | Ginger |
+| 107 | 231 | Dylan Thomason |
 | 108 | 226 | Steve Grotto |
 | 109 | 223 | Steven Marshaun |
 | 110 | 222 | snkylnk |

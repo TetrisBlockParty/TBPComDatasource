@@ -71,9 +71,9 @@
 | 63 | 81 | Garcia Bailey |
 | 64 | 80 | Matt Cinelli |
 | 65 | 79 | Chris65 |
-| 66 | 78 | Guest |
-| 67 | 78 | Carrie Beck Geartz |
-| 68 | 78 | TSwag |
+| 66 | 78 | Carrie Beck Geartz |
+| 67 | 78 | TSwag |
+| 68 | 78 | Guest |
 | 69 | 75 | Tyler L Hunt |
 | 70 | 73 | Witty Builderfit |
 | 71 | 72 | Adryane Schnase |
