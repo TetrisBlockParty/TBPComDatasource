@@ -39,8 +39,8 @@
 | 31 | 332 | Liv Whetson |
 | 32 | 331 | Gracie |
 | 33 | 320 | Or Reznitsky |
-| 34 | 307 | Kristie |
-| 35 | 307 | Peggi Charon |
+| 34 | 307 | Peggi Charon |
+| 35 | 307 | Kristie |
 | 36 | 300 | Sherika C. McDaniels |
 | 37 | 295 | Clever Roll |
 | 38 | 291 | Tasha Schriewer |
@@ -73,8 +73,8 @@
 | 65 | 130 | Tessina Dewey-Mancino |
 | 66 | 130 | Zippy Strikesnap |
 | 67 | 129 | Giddy Twistbuilder |
-| 68 | 127 | mjl574 |
-| 69 | 127 | Dolores Falco |
+| 68 | 127 | Dolores Falco |
+| 69 | 127 | mjl574 |
 | 70 | 126 | ren |
 | 71 | 125 | Stephanie Simpson |
 | 72 | 122 | Emma |
@@ -147,11 +147,11 @@
 | 139 | 68 | Funky Jumper |
 | 140 | 68 | Crystel b520 |
 | 141 | 67 | Rebecca Funderburk Kirby |
-| 142 | 66 | Oliver Neal II |
+| 142 | 66 | Valerie Gendron |
 | 143 | 66 | Carina Ortega |
-| 144 | 66 | Valerie Gendron |
-| 145 | 65 | LaKisha Legrone |
-| 146 | 65 | Kristie McFarland |
+| 144 | 66 | Oliver Neal II |
+| 145 | 65 | Kristie McFarland |
+| 146 | 65 | LaKisha Legrone |
 | 147 | 64 | Lush Risebuilder |
 | 148 | 64 | Leticia Lynn Lowe |
 | 149 | 64 | Tommy Proctor |

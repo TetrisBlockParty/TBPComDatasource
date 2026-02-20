@@ -78,8 +78,8 @@
 | 70 | 351 | Giggy Blocker |
 | 71 | 346 | Gene Mills |
 | 72 | 345 | Brenda Messer |
-| 73 | 345 | Alyssaaelena |
-| 74 | 345 | Rhianna DiLorenzo |
+| 73 | 345 | Rhianna DiLorenzo |
+| 74 | 345 | Alyssaaelena |
 | 75 | 343 | Jennifer Peachey |
 | 76 | 342 | Tracy Wise |
 | 77 | 341 | Sam McKenzie |
@@ -143,8 +143,8 @@
 | 135 | 217 | Donna Chandler |
 | 136 | 215 | Mary Marie |
 | 137 | 214 | Mischelle Clay |
-| 138 | 207 | Lindsey Leigh |
-| 139 | 207 | Melissa McCall |
+| 138 | 207 | Melissa McCall |
+| 139 | 207 | Lindsey Leigh |
 | 140 | 206 | RAEPR05 |
 | 141 | 205 | ElizabethAnn Dickinson |
 | 142 | 203 | Claire |
@@ -552,7 +552,7 @@
 | 544 | 63 | Kat Sproule |
 | 545 | 62 | Stephanie Jones |
 | 546 | 62 | Kii |
-| 547 | 62 | Connor Gaughran |
+| 547 | 62 | Seth Wrieden |
 | 548 | 62 | Poppy Zonepiece |
 | 549 | 62 | NickyBrooks |
 | 550 | 62 | Connor Gaughran |
