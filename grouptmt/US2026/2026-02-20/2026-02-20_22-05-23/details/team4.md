@@ -55,13 +55,13 @@
 | 47 | 81 | Michelle Parker |
 | 48 | 80 | Shelly Chandler |
 | 49 | 76 | Kristin MacDonald |
-| 50 | 75 | Rosemary Foster |
-| 51 | 75 | Avy Absol |
+| 50 | 75 | Avy Absol |
+| 51 | 75 | Rosemary Foster |
 | 52 | 74 | Chair |
 | 53 | 73 | Lauren Lamb |
 | 54 | 72 | Kesha Brady |
 | 55 | 71 | Kim Hunt |
-| 56 | 70 | Valerie Roberts |
+| 56 | 70 | Christina Black |
 | 57 | 70 | Joshua Cuellar |
 | 58 | 70 | Valerie Roberts |
 | 59 | 68 | LS |

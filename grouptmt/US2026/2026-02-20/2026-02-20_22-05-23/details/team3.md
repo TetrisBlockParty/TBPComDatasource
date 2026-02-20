@@ -59,8 +59,8 @@
 | 51 | 147 | Shiny Zonebuilder |
 | 52 | 141 | Denita Mungro |
 | 53 | 135 | Trisha Balmer |
-| 54 | 128 | Giddy Twistbuilder |
-| 55 | 128 | Nerdy Riseclear |
+| 54 | 128 | Nerdy Riseclear |
+| 55 | 128 | Giddy Twistbuilder |
 | 56 | 127 | mjl574 |
 | 57 | 126 | Dolores Falco |
 | 58 | 126 | ren |
@@ -121,9 +121,9 @@
 | 113 | 72 | Melissa Orth Hunter |
 | 114 | 72 | Christian Luna |
 | 115 | 69 | Jen Lewis |
-| 116 | 69 | Jess Reppert |
+| 116 | 69 | Kevin Russell |
 | 117 | 69 | Chasity |
-| 118 | 69 | Kevin Russell |
+| 118 | 69 | Jess Reppert |
 | 119 | 69 | Whitney Manuel |
 | 120 | 68 | Crystel b520 |
 | 121 | 66 | Oliver Neal II |
