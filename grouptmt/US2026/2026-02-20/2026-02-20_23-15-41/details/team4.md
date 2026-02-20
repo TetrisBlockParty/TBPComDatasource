@@ -76,12 +76,12 @@
 | 68 | 68 | LS |
 | 69 | 68 | Sam Middleton |
 | 70 | 66 | Smiley Tiltbuilder |
-| 71 | 65 | Angela Geist Jusinski |
-| 72 | 65 | YoMomma |
-| 73 | 64 | Damn Libra |
-| 74 | 64 | Marcus Todd |
-| 75 | 61 | Shauna Havard |
-| 76 | 61 | Alee Marie |
+| 71 | 65 | YoMomma |
+| 72 | 65 | Angela Geist Jusinski |
+| 73 | 64 | Marcus Todd |
+| 74 | 64 | Damn Libra |
+| 75 | 61 | Alee Marie |
+| 76 | 61 | Shauna Havard |
 | 77 | 60 | Girl |
 | 78 | 59 | Lucille Truesdale |
 | 79 | 59 | Joseph Pace |

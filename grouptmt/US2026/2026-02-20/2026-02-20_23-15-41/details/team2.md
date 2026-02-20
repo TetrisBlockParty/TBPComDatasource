@@ -132,8 +132,8 @@
 | 124 | 236 | Frisky Riserbuilder |
 | 125 | 231 | Dylan Thomason |
 | 126 | 231 | Ginger |
-| 127 | 230 | Shameika Trail |
-| 128 | 230 | Janel Turley-Garner |
+| 127 | 230 | Janel Turley-Garner |
+| 128 | 230 | Shameika Trail |
 | 129 | 227 | Alyssia Tancredi |
 | 130 | 223 | Steven Marshaun |
 | 131 | 223 | Matt Johnson |
@@ -193,13 +193,13 @@
 | 185 | 164 | Jamie Stevey |
 | 186 | 163 | Dedra Steward |
 | 187 | 162 | Nick Jensen |
-| 188 | 161 | Mema |
-| 189 | 161 | Ashle Scranton |
+| 188 | 161 | Ashle Scranton |
+| 189 | 161 | Mema |
 | 190 | 160 | Rhonda Petro |
 | 191 | 160 | Cynthia Ward |
-| 192 | 158 | Austin Wilson |
+| 192 | 158 | RaeVan Worthington |
 | 193 | 158 | Matthew Turner |
-| 194 | 158 | RaeVan Worthington |
+| 194 | 158 | Austin Wilson |
 | 195 | 157 | Klee |
 | 196 | 157 | HarleyJane |
 | 197 | 157 | Dineisha Carpenter |
@@ -301,7 +301,7 @@
 | 293 | 110 | Britni Deas |
 | 294 | 109 | Jessie McDougald |
 | 295 | 109 | BeenRich Theceo |
-| 296 | 109 | Jessie McDougald |
+| 296 | 109 | Jroc |
 | 297 | 108 | Sean Kinsey |
 | 298 | 107 | Layla LS |
 | 299 | 107 | Aleasha M Brown |
@@ -352,7 +352,7 @@
 | 344 | 97 | Ada Ellis |
 | 345 | 97 | Brave Gridzone |
 | 346 | 97 | Charity Boitnott |
-| 347 | 96 | Adeeb Ahmed |
+| 347 | 96 | Hunter Connors |
 | 348 | 96 | Alexandra Eryn |
 | 349 | 96 | Adeeb Ahmed |
 | 350 | 96 | Mack |

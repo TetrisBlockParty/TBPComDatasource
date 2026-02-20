@@ -43,8 +43,8 @@
 | 35 | 307 | Peggi Charon |
 | 36 | 300 | Sherika C. McDaniels |
 | 37 | 295 | Clever Roll |
-| 38 | 291 | Laura Melton |
-| 39 | 291 | Tasha Schriewer |
+| 38 | 291 | Tasha Schriewer |
+| 39 | 291 | Laura Melton |
 | 40 | 288 | Natasha Jones |
 | 41 | 272 | Mahman |
 | 42 | 260 | Ebony West-Cundiff |
@@ -83,8 +83,8 @@
 | 75 | 118 | Bea Miles |
 | 76 | 113 | Jennifer Alvey |
 | 77 | 111 | Joy Petroski |
-| 78 | 110 | Tiff Vs Tiffany |
-| 79 | 110 | Connie Mohler-Fair |
+| 78 | 110 | Connie Mohler-Fair |
+| 79 | 110 | Tiff Vs Tiffany |
 | 80 | 110 | Stella |
 | 81 | 108 | Grams |
 | 82 | 107 | Bryan Byrd |
@@ -106,8 +106,8 @@
 | 98 | 89 | Hyper Bridger |
 | 99 | 89 | Annie Déè |
 | 100 | 88 | Martin Bernier |
-| 101 | 87 | Brian Battjes |
-| 102 | 87 | Sherry Ogden |
+| 101 | 87 | Sherry Ogden |
+| 102 | 87 | Brian Battjes |
 | 103 | 87 | Lys |
 | 104 | 86 | Dan Rob |
 | 105 | 85 | Delilah belle |
