@@ -23,8 +23,8 @@
 | 15 | 167 | Rachel Anne |
 | 16 | 165 | Koshin Abdirahman |
 | 17 | 165 | Jamie Mann-Deichmann |
-| 18 | 133 | Alicia Bass |
-| 19 | 133 | Devinlee Brown |
+| 18 | 133 | Devinlee Brown |
+| 19 | 133 | Alicia Bass |
 | 20 | 130 | Casey Jeffcoat |
 | 21 | 129 | Samantha Peterson |
 | 22 | 128 | Robin Watters |
@@ -118,7 +118,7 @@
 | 110 | 40 | Alexis Kelly |
 | 111 | 40 | Nicole Silvers |
 | 112 | 39 | Heather Bruce |
-| 113 | 39 | Meli  Jackson |
+| 113 | 39 | BertMofo |
 | 114 | 39 | Tyler Terrific |
 | 115 | 39 | Meli  Jackson |
 | 116 | 38 | Melvin Baird |

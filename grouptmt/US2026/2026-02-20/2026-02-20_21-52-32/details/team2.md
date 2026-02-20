@@ -71,8 +71,8 @@
 | 63 | 339 | Giggy Blocker |
 | 64 | 332 | Sarah Freitas |
 | 65 | 328 | Marie Boyd Faulk |
-| 66 | 323 | Danielle Simmons |
-| 67 | 323 | Daphne Jordan |
+| 66 | 323 | Daphne Jordan |
+| 67 | 323 | Danielle Simmons |
 | 68 | 321 | Vistabrat |
 | 69 | 311 | Slip |
 | 70 | 296 | Laura Marie Pelletier |
@@ -92,8 +92,8 @@
 | 84 | 262 | E_Money04 |
 | 85 | 261 | MrsClaudette Will'sIam Matthews |
 | 86 | 260 | Lisa Ongtowasruk |
-| 87 | 259 | Melissa Holsinger |
-| 88 | 259 | Autumn Schaeffer |
+| 87 | 259 | Autumn Schaeffer |
+| 88 | 259 | Melissa Holsinger |
 | 89 | 257 | Alex Hill |
 | 90 | 255 | Santana Miyagi |
 | 91 | 254 | Libby Hicks |
