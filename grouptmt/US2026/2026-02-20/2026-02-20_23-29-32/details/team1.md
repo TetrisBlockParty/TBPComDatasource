@@ -59,8 +59,8 @@
 | 51 | 102 | Zerin Graham |
 | 52 | 100 | Frothy Pattern |
 | 53 | 98 | Flashy Rotator |
-| 54 | 95 | Jennifer Cates |
-| 55 | 95 | Jodee Woods |
+| 54 | 95 | Jodee Woods |
+| 55 | 95 | Jennifer Cates |
 | 56 | 94 | Bindi |
 | 57 | 93 | Ty Brown |
 | 58 | 93 | Ash Galvan |

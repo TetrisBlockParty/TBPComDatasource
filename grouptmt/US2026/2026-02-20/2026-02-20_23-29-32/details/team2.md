@@ -90,8 +90,8 @@
 | 82 | 337 | Alisha Peoples |
 | 83 | 336 | Laura Marie Pelletier |
 | 84 | 328 | Marie Boyd Faulk |
-| 85 | 323 | Danielle Simmons |
-| 86 | 323 | Daphne Jordan |
+| 85 | 323 | Daphne Jordan |
+| 86 | 323 | Danielle Simmons |
 | 87 | 317 | bru |
 | 88 | 297 | James Zaragoza |
 | 89 | 295 | Zany Clusterbuilder |
