@@ -76,9 +76,9 @@
 | 68 | 113 | Jennifer Alvey |
 | 69 | 112 | MissTaylor |
 | 70 | 111 | Joy Petroski |
-| 71 | 110 | Connie Mohler-Fair |
-| 72 | 110 | Stella |
-| 73 | 110 | Tiff Vs Tiffany |
+| 71 | 110 | Tiff Vs Tiffany |
+| 72 | 110 | Connie Mohler-Fair |
+| 73 | 110 | Stella |
 | 74 | 108 | Grams |
 | 75 | 107 | Bryan Byrd |
 | 76 | 105 | Tessina Dewey-Mancino |
