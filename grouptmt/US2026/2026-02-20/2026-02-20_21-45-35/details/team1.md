@@ -70,8 +70,8 @@
 | 62 | 75 | Bob |
 | 63 | 75 | TSwag |
 | 64 | 75 | Tyler L Hunt |
-| 65 | 72 | Tipsy Strikerpiece |
-| 66 | 72 | Adryane Schnase |
+| 65 | 72 | Adryane Schnase |
+| 66 | 72 | Tipsy Strikerpiece |
 | 67 | 71 | Teddy Alexander |
 | 68 | 69 | Christina Torres |
 | 69 | 67 | Loony Fitzone |

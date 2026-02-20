@@ -79,8 +79,8 @@
 | 71 | 285 | MrsCandyfine As Wine Truss |
 | 72 | 283 | Poppy Snap |
 | 73 | 281 | Robert Diddle |
-| 74 | 280 | Christina Lewis-Vickers |
-| 75 | 280 | Kimberly Schall |
+| 74 | 280 | Kimberly Schall |
+| 75 | 280 | Christina Lewis-Vickers |
 | 76 | 275 | Vistabrat |
 | 77 | 271 | Ann Marie Davis |
 | 78 | 270 | Juanita Lyons |
@@ -106,8 +106,8 @@
 | 98 | 239 | Tee Jaleesa |
 | 99 | 237 | Ann Matzkanin |
 | 100 | 236 | Frisky Riserbuilder |
-| 101 | 231 | Brittney Jean |
-| 102 | 231 | Ginger |
+| 101 | 231 | Ginger |
+| 102 | 231 | Brittney Jean |
 | 103 | 229 | Mighty Shatterfit |
 | 104 | 223 | Steven Marshaun |
 | 105 | 222 | snkylnk |
@@ -150,8 +150,8 @@
 | 142 | 166 | Taryece Gause |
 | 143 | 166 | Jessica Kaye DeAguero |
 | 144 | 162 | Nick Jensen |
-| 145 | 160 | Mema |
-| 146 | 160 | Rhonda Petro |
+| 145 | 160 | Rhonda Petro |
+| 146 | 160 | Mema |
 | 147 | 159 | Lively Catcher |
 | 148 | 158 | Mike Aprilliano |
 | 149 | 158 | RaeVan Worthington |
