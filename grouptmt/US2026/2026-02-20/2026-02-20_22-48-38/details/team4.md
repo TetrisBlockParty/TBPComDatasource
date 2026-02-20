@@ -24,8 +24,8 @@
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
 | 18 | 141 | Edward White |
-| 19 | 133 | Alicia Bass |
-| 20 | 133 | Devinlee Brown |
+| 19 | 133 | Devinlee Brown |
+| 20 | 133 | Alicia Bass |
 | 21 | 130 | Casey Jeffcoat |
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
@@ -48,8 +48,8 @@
 | 40 | 91 | Gwendolyn Pitcairn |
 | 41 | 90 | Duck |
 | 42 | 88 | Jenna McGeorge |
-| 43 | 87 | Jen Caldwell |
-| 44 | 87 | Brandi Durig |
+| 43 | 87 | Brandi Durig |
+| 44 | 87 | Jen Caldwell |
 | 45 | 86 | amy |
 | 46 | 85 | Mimi |
 | 47 | 84 | Epic Curvetile |

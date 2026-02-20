@@ -56,8 +56,8 @@
 | 48 | 103 | Sharon Reynolds |
 | 49 | 100 | Frothy Pattern |
 | 50 | 98 | Flashy Rotator |
-| 51 | 95 | Jodee Woods |
-| 52 | 95 | Jennifer Cates |
+| 51 | 95 | Jennifer Cates |
+| 52 | 95 | Jodee Woods |
 | 53 | 94 | Bindi |
 | 54 | 93 | Ash Galvan |
 | 55 | 93 | Ty Brown |
@@ -70,8 +70,8 @@
 | 62 | 84 | Charla Pross-Fugleberg |
 | 63 | 83 | Death |
 | 64 | 82 | Melissa Lemmon |
-| 65 | 81 | Bob |
-| 66 | 81 | Garcia Bailey |
+| 65 | 81 | Garcia Bailey |
+| 66 | 81 | Bob |
 | 67 | 80 | Matt Cinelli |
 | 68 | 79 | Chris65 |
 | 69 | 78 | TSwag |

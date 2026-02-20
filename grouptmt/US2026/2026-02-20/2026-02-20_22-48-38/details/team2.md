@@ -181,8 +181,8 @@
 | 173 | 158 | RaeVan Worthington |
 | 174 | 158 | Austin Wilson |
 | 175 | 158 | Matthew Turner |
-| 176 | 157 | Klee |
-| 177 | 157 | HarleyJane |
+| 176 | 157 | HarleyJane |
+| 177 | 157 | Klee |
 | 178 | 157 | Dineisha Carpenter |
 | 179 | 156 | Nuggets |
 | 180 | 156 | Ramone Armstrong |
@@ -223,8 +223,8 @@
 | 215 | 128 | Angela Murgia-Owen |
 | 216 | 128 | Arwa Fatimah |
 | 217 | 128 | Maddy Petersen |
-| 218 | 127 | Ellie Jonas |
-| 219 | 127 | Amy Ross |
+| 218 | 127 | Amy Ross |
+| 219 | 127 | Ellie Jonas |
 | 220 | 126 | Ethan Stienbarger |
 | 221 | 126 | Angela Kummer |
 | 222 | 126 | Kyle Saunders |
