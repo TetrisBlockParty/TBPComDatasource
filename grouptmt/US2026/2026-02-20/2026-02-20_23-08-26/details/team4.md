@@ -35,17 +35,17 @@
 | 27 | 124 | Jay28 |
 | 28 | 123 | Nugget |
 | 29 | 117 | Lauren Scott |
-| 30 | 116 | Sherri |
-| 31 | 116 | Courtney Cicoria |
-| 32 | 116 | Dee Kay |
+| 30 | 116 | Dee Kay |
+| 31 | 116 | Sherri |
+| 32 | 116 | Courtney Cicoria |
 | 33 | 114 | Jessica Cagle |
 | 34 | 113 | Degenerate |
 | 35 | 112 | Chirpy Basepiece |
 | 36 | 109 | Brittney Orengo |
 | 37 | 108 | Mr. Party |
 | 38 | 107 | Denise Carlson |
-| 39 | 100 | Andria Lynn |
-| 40 | 100 | Diana Houts |
+| 39 | 100 | Diana Houts |
+| 40 | 100 | Andria Lynn |
 | 41 | 100 | Michelle Morris |
 | 42 | 99 | Gwendolyn Pitcairn |
 | 43 | 98 | Stephme310 |
@@ -65,8 +65,8 @@
 | 57 | 75 | Chair |
 | 58 | 75 | Rosemary Foster |
 | 59 | 73 | Lauren Lamb |
-| 60 | 72 | Joshua Cuellar |
-| 61 | 72 | Kesha Brady |
+| 60 | 72 | Kesha Brady |
+| 61 | 72 | Joshua Cuellar |
 | 62 | 71 | Zesty Twistbuilder |
 | 63 | 70 | Christina Black |
 | 64 | 70 | Valerie Roberts |

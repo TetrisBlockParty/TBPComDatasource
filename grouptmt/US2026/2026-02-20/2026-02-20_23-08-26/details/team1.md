@@ -36,9 +36,9 @@
 | 28 | 151 | Hyper |
 | 29 | 146 | Abbey Crespo |
 | 30 | 145 | Lachelle Dillon |
-| 31 | 144 | Tana |
-| 32 | 144 | Jessie Lynn |
-| 33 | 144 | Tanya Carpenter-Reynolds |
+| 31 | 144 | Tanya Carpenter-Reynolds |
+| 32 | 144 | Tana |
+| 33 | 144 | Jessie Lynn |
 | 34 | 134 | Plucky Ziggy |
 | 35 | 129 | Mandyy Rae |
 | 36 | 127 | Veronica Eve |
@@ -81,8 +81,8 @@
 | 73 | 78 | Guest |
 | 74 | 75 | Tyler L Hunt |
 | 75 | 73 | Witty Builderfit |
-| 76 | 72 | Adryane Schnase |
-| 77 | 72 | Tipsy Strikerpiece |
+| 76 | 72 | Tipsy Strikerpiece |
+| 77 | 72 | Adryane Schnase |
 | 78 | 71 | Teddy Alexander |
 | 79 | 69 | Christina Torres |
 | 80 | 67 | Loony Fitzone |
