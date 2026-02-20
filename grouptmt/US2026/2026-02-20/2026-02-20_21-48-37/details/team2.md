@@ -86,12 +86,12 @@
 | 78 | 270 | Juanita Lyons |
 | 79 | 268 | Vanessa Moreno |
 | 80 | 265 | Wuntayk |
-| 81 | 263 | Oscar Bernie |
-| 82 | 263 | Shiny Rollzone |
+| 81 | 263 | Shiny Rollzone |
+| 82 | 263 | Oscar Bernie |
 | 83 | 262 | E_Money04 |
 | 84 | 261 | MrsClaudette Will'sIam Matthews |
-| 85 | 259 | Melissa Holsinger |
-| 86 | 259 | Autumn Schaeffer |
+| 85 | 259 | Autumn Schaeffer |
+| 86 | 259 | Melissa Holsinger |
 | 87 | 257 | Alex Hill |
 | 88 | 255 | Santana Miyagi |
 | 89 | 254 | Libby Hicks |
@@ -168,8 +168,8 @@
 | 160 | 155 | Fi Ne |
 | 161 | 151 | D'Aaron Black |
 | 162 | 151 | Ashle Scranton |
-| 163 | 150 | Tiffney Wroten |
-| 164 | 150 | Justin Hines |
+| 163 | 150 | Justin Hines |
+| 164 | 150 | Tiffney Wroten |
 | 165 | 148 | Brittany Radaszewski |
 | 166 | 148 | Shannon Byrd |
 | 167 | 146 | Deborah Miller |

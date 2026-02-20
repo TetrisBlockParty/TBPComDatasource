@@ -55,8 +55,8 @@
 | 47 | 93 | Ty Brown |
 | 48 | 93 | Uhog SF |
 | 49 | 91 | Spunky Piecebuilder |
-| 50 | 90 | Ash Galvan |
-| 51 | 90 | Madison Wicks |
+| 50 | 90 | Madison Wicks |
+| 51 | 90 | Ash Galvan |
 | 52 | 90 | comrade fish |
 | 53 | 85 | Ananda Mendez |
 | 54 | 84 | Charla Pross-Fugleberg |

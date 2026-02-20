@@ -65,8 +65,8 @@
 | 57 | 120 | Zippy Strikesnap |
 | 58 | 120 | Michael Latasha Gray |
 | 59 | 119 | Emma |
-| 60 | 118 | Trezure Gonzalez |
-| 61 | 118 | Bea Miles |
+| 60 | 118 | Bea Miles |
+| 61 | 118 | Trezure Gonzalez |
 | 62 | 117 | Jessica |
 | 63 | 113 | Jennifer Alvey |
 | 64 | 112 | MissTaylor |
@@ -120,8 +120,8 @@
 | 112 | 69 | Jess Reppert |
 | 113 | 69 | Chasity |
 | 114 | 68 | Crystel b520 |
-| 115 | 66 | Oliver Neal II |
-| 116 | 66 | Valerie Gendron |
+| 115 | 66 | Valerie Gendron |
+| 116 | 66 | Oliver Neal II |
 | 117 | 65 | gremicx |
 | 118 | 64 | Lush Risebuilder |
 | 119 | 63 | Hasty Wipebuilder |
