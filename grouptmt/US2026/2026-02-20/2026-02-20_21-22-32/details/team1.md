@@ -59,8 +59,8 @@
 | 51 | 82 | Lachelle Dillon |
 | 52 | 81 | Garcia Bailey |
 | 53 | 80 | Matt Cinelli |
-| 54 | 79 | Chris65 |
-| 55 | 79 | Melissa Lemmon |
+| 54 | 79 | Melissa Lemmon |
+| 55 | 79 | Chris65 |
 | 56 | 78 | Guest |
 | 57 | 77 | Ananda Mendez |
 | 58 | 75 | Jennifer Cates |
@@ -68,8 +68,8 @@
 | 60 | 73 | TSwag |
 | 61 | 72 | Adryane Schnase |
 | 62 | 72 | Tipsy Strikerpiece |
-| 63 | 71 | Bob |
-| 64 | 71 | Teddy Alexander |
+| 63 | 71 | Teddy Alexander |
+| 64 | 71 | Bob |
 | 65 | 69 | Christina Torres |
 | 66 | 67 | Loony Fitzone |
 | 67 | 66 | Todd Welch |
@@ -87,8 +87,8 @@
 | 79 | 58 | Carolyn Smith |
 | 80 | 58 | Jason Cox |
 | 81 | 56 | Ly Phethmany |
-| 82 | 56 | Colleen Wise |
-| 83 | 56 | Lehrin Maria |
+| 82 | 56 | Lehrin Maria |
+| 83 | 56 | Colleen Wise |
 | 84 | 53 | J.D3D.D |
 | 85 | 52 | Sid Castro |
 | 86 | 51 | Lis |
