@@ -52,8 +52,8 @@
 | 44 | 81 | Michelle Parker |
 | 45 | 80 | Shelly Chandler |
 | 46 | 75 | Rosemary Foster |
-| 47 | 73 | Lauren Lamb |
-| 48 | 73 | Degenerate |
+| 47 | 73 | Degenerate |
+| 48 | 73 | Lauren Lamb |
 | 49 | 72 | Kesha Brady |
 | 50 | 71 | Kim Hunt |
 | 51 | 70 | Christina Black |

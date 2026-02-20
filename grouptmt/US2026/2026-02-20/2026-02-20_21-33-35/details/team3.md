@@ -119,7 +119,7 @@
 | 111 | 65 | gremicx |
 | 112 | 64 | Lush Risebuilder |
 | 113 | 63 | Hasty Wipebuilder |
-| 114 | 61 | Sarah Moyer |
+| 114 | 61 | Jessica Rose-Morgan |
 | 115 | 61 | Rebel124 |
 | 116 | 61 | Sarah Moyer |
 | 117 | 60 | Loony Slider |

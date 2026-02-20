@@ -48,12 +48,12 @@
 | 40 | 405 | Samantha Jo |
 | 41 | 391 | Chilly Bridgepiece |
 | 42 | 390 | Dustin Rains |
-| 43 | 382 | CoolKat |
-| 44 | 382 | Sparkles |
+| 43 | 382 | Sparkles |
+| 44 | 382 | CoolKat |
 | 45 | 380 | Joshua Mandel |
 | 46 | 377 | Eboni Banks |
-| 47 | 374 | Sommer Shope |
-| 48 | 374 | Sam |
+| 47 | 374 | Sam |
+| 48 | 374 | Sommer Shope |
 | 49 | 369 | Calandra Shaya Robinson |
 | 50 | 366 | KellyDyan |
 | 51 | 363 | William Meussner |
@@ -71,14 +71,14 @@
 | 63 | 323 | Daphne Jordan |
 | 64 | 311 | Slip |
 | 65 | 303 | Giggy Blocker |
-| 66 | 296 | Jose Vega |
-| 67 | 296 | Laura Marie Pelletier |
+| 66 | 296 | Laura Marie Pelletier |
+| 67 | 296 | Jose Vega |
 | 68 | 295 | Zany Clusterbuilder |
 | 69 | 285 | June E Hanson |
 | 70 | 283 | Poppy Snap |
 | 71 | 281 | Robert Diddle |
-| 72 | 280 | Kimberly Schall |
-| 73 | 280 | Christina Lewis-Vickers |
+| 72 | 280 | Christina Lewis-Vickers |
+| 73 | 280 | Kimberly Schall |
 | 74 | 271 | Ann Marie Davis |
 | 75 | 270 | Juanita Lyons |
 | 76 | 268 | Vanessa Moreno |
@@ -102,8 +102,8 @@
 | 94 | 238 | Barbra Miller |
 | 95 | 236 | Frisky Riserbuilder |
 | 96 | 233 | Ann Matzkanin |
-| 97 | 231 | Brittney Jean |
-| 98 | 231 | Ginger |
+| 97 | 231 | Ginger |
+| 98 | 231 | Brittney Jean |
 | 99 | 229 | Mighty Shatterfit |
 | 100 | 225 | MrsCandyfine As Wine Truss |
 | 101 | 223 | Steven Marshaun |
