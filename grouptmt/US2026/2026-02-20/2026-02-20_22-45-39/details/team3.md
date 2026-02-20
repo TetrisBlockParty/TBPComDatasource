@@ -38,8 +38,8 @@
 | 30 | 333 | Silly Twist |
 | 31 | 331 | Gracie |
 | 32 | 320 | Or Reznitsky |
-| 33 | 307 | Kristie |
-| 34 | 307 | Peggi Charon |
+| 33 | 307 | Peggi Charon |
+| 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 291 | Laura Melton |
 | 37 | 291 | Tasha Schriewer |

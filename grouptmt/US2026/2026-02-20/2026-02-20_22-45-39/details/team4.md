@@ -70,8 +70,8 @@
 | 62 | 68 | Sam Middleton |
 | 63 | 68 | LS |
 | 64 | 67 | Zesty Twistbuilder |
-| 65 | 65 | YoMomma |
-| 66 | 65 | Angela Geist Jusinski |
+| 65 | 65 | Angela Geist Jusinski |
+| 66 | 65 | YoMomma |
 | 67 | 64 | Marcus Todd |
 | 68 | 64 | Damn Libra |
 | 69 | 61 | Shauna Havard |
@@ -95,8 +95,8 @@
 | 87 | 51 | Bryan Hodgins |
 | 88 | 50 | Brandon Crabbs |
 | 89 | 50 | Richard-April Kice |
-| 90 | 49 | Justin Hannigan |
-| 91 | 49 | Lakesha Johnson |
+| 90 | 49 | Lakesha Johnson |
+| 91 | 49 | Justin Hannigan |
 | 92 | 47 | Amy Sanford |
 | 93 | 47 | Chastity Mitchell |
 | 94 | 46 | Jeff Brian Gates |

@@ -114,14 +114,14 @@
 | 106 | 244 | Debra Williams |
 | 107 | 243 | Brandy Andre |
 | 108 | 239 | Tee Jaleesa |
-| 109 | 238 | Cheech Dta |
-| 110 | 238 | Ann Matzkanin |
+| 109 | 238 | Ann Matzkanin |
+| 110 | 238 | Cheech Dta |
 | 111 | 236 | Frisky Riserbuilder |
 | 112 | 231 | Ginger |
 | 113 | 231 | Dylan Thomason |
 | 114 | 223 | Matt Johnson |
-| 115 | 223 | Christopher Sanders |
-| 116 | 223 | Steven Marshaun |
+| 115 | 223 | Steven Marshaun |
+| 116 | 223 | Christopher Sanders |
 | 117 | 222 | snkylnk |
 | 118 | 222 | bru |
 | 119 | 220 | BYM4L |
@@ -189,8 +189,8 @@
 | 181 | 155 | Nika Bee |
 | 182 | 151 | D'Aaron Black |
 | 183 | 151 | Dizzy Zone |
-| 184 | 150 | Justin Hines |
-| 185 | 150 | Tiffney Wroten |
+| 184 | 150 | Tiffney Wroten |
+| 185 | 150 | Justin Hines |
 | 186 | 148 | Brittany Radaszewski |
 | 187 | 148 | Shannon Byrd |
 | 188 | 146 | Robin |
@@ -199,8 +199,8 @@
 | 191 | 145 | Alexandra Weir |
 | 192 | 145 | Scott Rackley |
 | 193 | 143 | Joyce Johnson Vaughn |
-| 194 | 142 | Frisky Clearpiece |
-| 195 | 142 | Angela Lynn |
+| 194 | 142 | Angela Lynn |
+| 195 | 142 | Frisky Clearpiece |
 | 196 | 141 | Markisha Poyndexter |
 | 197 | 140 | Peter Palestino |
 | 198 | 140 | Anthony Huebel |
