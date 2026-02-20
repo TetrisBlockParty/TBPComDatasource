@@ -57,8 +57,8 @@
 | 49 | 390 | Dustin Rains |
 | 50 | 382 | Sparkles |
 | 51 | 380 | Joshua Mandel |
-| 52 | 374 | Sommer Shope |
-| 53 | 374 | Sam |
+| 52 | 374 | Sam |
+| 53 | 374 | Sommer Shope |
 | 54 | 370 | Jose Vega |
 | 55 | 369 | Calandra Shaya Robinson |
 | 56 | 366 | KellyDyan |
@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Rhianna DiLorenzo |
-| 64 | 345 | Alyssaaelena |
+| 63 | 345 | Alyssaaelena |
+| 64 | 345 | Rhianna DiLorenzo |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 337 | Alisha Peoples |
@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | RdRydnHd |
-| 97 | 253 | Joseph Musick |
+| 96 | 253 | Joseph Musick |
+| 97 | 253 | RdRydnHd |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
@@ -235,8 +235,8 @@
 | 227 | 117 | Cody Kelsey |
 | 228 | 116 | Peppy Zone |
 | 229 | 116 | Amanda Diegel |
-| 230 | 115 | Witty Piecebuilder |
-| 231 | 115 | Kati Russeau |
+| 230 | 115 | Kati Russeau |
+| 231 | 115 | Witty Piecebuilder |
 | 232 | 114 | Tommy Stuck |
 | 233 | 114 | Melissa Maples |
 | 234 | 114 | Starrs Dcct |

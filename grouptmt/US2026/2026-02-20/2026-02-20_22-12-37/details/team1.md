@@ -56,7 +56,7 @@
 | 48 | 93 | Ty Brown |
 | 49 | 93 | Uhog SF |
 | 50 | 91 | Spunky Piecebuilder |
-| 51 | 90 | Madison Wicks |
+| 51 | 90 | Ash Galvan |
 | 52 | 90 | comrade fish |
 | 53 | 90 | Madison Wicks |
 | 54 | 89 | Marianne Louise West |
@@ -64,8 +64,8 @@
 | 56 | 84 | Charla Pross-Fugleberg |
 | 57 | 83 | Death |
 | 58 | 82 | Melissa Lemmon |
-| 59 | 81 | Bob |
-| 60 | 81 | Garcia Bailey |
+| 59 | 81 | Garcia Bailey |
+| 60 | 81 | Bob |
 | 61 | 80 | Irual Hctrab |
 | 62 | 80 | Matt Cinelli |
 | 63 | 79 | Chris65 |
@@ -79,18 +79,18 @@
 | 71 | 71 | Teddy Alexander |
 | 72 | 69 | Christina Torres |
 | 73 | 67 | Loony Fitzone |
-| 74 | 66 | Todd Welch |
-| 75 | 66 | Archie Ware |
-| 76 | 66 | Giggly Builderline |
+| 74 | 66 | Giggly Builderline |
+| 75 | 66 | Todd Welch |
+| 76 | 66 | Archie Ware |
 | 77 | 64 | Jessi Sauer |
 | 78 | 63 | Lincon |
 | 79 | 63 | Mitchel White |
 | 80 | 62 | Tofy |
 | 81 | 62 | Sarah Henniker |
-| 82 | 60 | Susanna Guerry |
+| 82 | 60 | Karin Gillen |
 | 83 | 60 | BigWeenie69 |
-| 84 | 60 | Tina Englert |
-| 85 | 60 | Karin Gillen |
+| 84 | 60 | Susanna Guerry |
+| 85 | 60 | Tina Englert |
 | 86 | 59 | Mel Hogan |
 | 87 | 58 | Shiny Gridmatch |
 | 88 | 58 | Jason Cox |

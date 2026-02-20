@@ -62,15 +62,15 @@
 | 54 | 72 | Kesha Brady |
 | 55 | 71 | Kim Hunt |
 | 56 | 70 | Valerie Roberts |
-| 57 | 70 | Christina Black |
-| 58 | 70 | Joshua Cuellar |
+| 57 | 70 | Joshua Cuellar |
+| 58 | 70 | Christina Black |
 | 59 | 68 | Alyssa Papen |
 | 60 | 68 | LS |
 | 61 | 68 | Sam Middleton |
 | 62 | 67 | Zesty Twistbuilder |
-| 63 | 65 | Angela Geist Jusinski |
-| 64 | 65 | YoMomma |
-| 65 | 64 | TinyLegoRose |
+| 63 | 65 | YoMomma |
+| 64 | 65 | Angela Geist Jusinski |
+| 65 | 64 | Marcus Todd |
 | 66 | 64 | Damn Libra |
 | 67 | 64 | TinyLegoRose |
 | 68 | 61 | Jenna Ingersoll |
