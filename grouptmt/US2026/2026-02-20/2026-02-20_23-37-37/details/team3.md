@@ -41,8 +41,8 @@
 | 33 | 333 | Silly Twist |
 | 34 | 329 | Danielle Rhoades |
 | 35 | 320 | Or Reznitsky |
-| 36 | 307 | Peggi Charon |
-| 37 | 307 | Kristie |
+| 36 | 307 | Kristie |
+| 37 | 307 | Peggi Charon |
 | 38 | 300 | Sherika C. McDaniels |
 | 39 | 296 | Tasha Schriewer |
 | 40 | 295 | Clever Roll |

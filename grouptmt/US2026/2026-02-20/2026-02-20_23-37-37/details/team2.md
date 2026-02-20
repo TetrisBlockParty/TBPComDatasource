@@ -134,8 +134,8 @@
 | 126 | 243 | Brandy Andre |
 | 127 | 241 | Sabrina Burton |
 | 128 | 239 | Tee Jaleesa |
-| 129 | 238 | Cheech Dta |
-| 130 | 238 | Ann Matzkanin |
+| 129 | 238 | Ann Matzkanin |
+| 130 | 238 | Cheech Dta |
 | 131 | 238 | Dany Murillo |
 | 132 | 236 | Frisky Riserbuilder |
 | 133 | 234 | Steven Marshaun |

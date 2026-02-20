@@ -40,15 +40,15 @@
 | 32 | 123 | Nugget |
 | 33 | 121 | Smiley Tiltbuilder |
 | 34 | 117 | Lauren Scott |
-| 35 | 116 | Courtney Cicoria |
-| 36 | 116 | Sherri |
+| 35 | 116 | Sherri |
+| 36 | 116 | Courtney Cicoria |
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
 | 40 | 111 | Gwendolyn Pitcairn |
 | 41 | 111 | Denise Carlson |
-| 42 | 109 | Epic Curvetile |
-| 43 | 109 | Brittney Orengo |
+| 42 | 109 | Brittney Orengo |
+| 43 | 109 | Epic Curvetile |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Michelle Morris |
@@ -80,8 +80,8 @@
 | 72 | 70 | YoMomma |
 | 73 | 70 | Christina Black |
 | 74 | 70 | Valerie Roberts |
-| 75 | 68 | Sam Middleton |
-| 76 | 68 | LS |
+| 75 | 68 | LS |
+| 76 | 68 | Sam Middleton |
 | 77 | 67 | Girl |
 | 78 | 65 | Angela Geist Jusinski |
 | 79 | 64 | Bryan Hodgins |
