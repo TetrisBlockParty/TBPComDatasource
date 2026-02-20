@@ -51,8 +51,8 @@
 | 43 | 382 | Sparkles |
 | 44 | 382 | CoolKat |
 | 45 | 380 | Joshua Mandel |
-| 46 | 374 | Sam |
-| 47 | 374 | Sommer Shope |
+| 46 | 374 | Sommer Shope |
+| 47 | 374 | Sam |
 | 48 | 369 | Calandra Shaya Robinson |
 | 49 | 366 | KellyDyan |
 | 50 | 363 | William Meussner |
@@ -201,7 +201,7 @@
 | 193 | 122 | Scott Treadway |
 | 194 | 121 | Jessica Szymecki |
 | 195 | 121 | Jessicah Myers |
-| 196 | 120 | Samantha Williams-Bittner |
+| 196 | 120 | Alexis Richardson |
 | 197 | 120 | Michael Tate |
 | 198 | 120 | Howard Forest |
 | 199 | 120 | Samantha Williams-Bittner |
@@ -217,7 +217,7 @@
 | 209 | 114 | Melissa Maples |
 | 210 | 114 | Tommy Stuck |
 | 211 | 114 | Dandy Drop |
-| 212 | 114 | Melissa Maples |
+| 212 | 114 | James Smith |
 | 213 | 113 | Della Hole |
 | 214 | 112 | Slinky Risegrid |
 | 215 | 111 | Ri St |

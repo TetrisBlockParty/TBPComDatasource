@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 680 | Tyler Alcock |
 | 2 | 559 | Cheeky Twistslam |
-| 3 | 371 | Jorge Andrade |
-| 4 | 371 | Colena Davenport |
+| 3 | 371 | Colena Davenport |
+| 4 | 371 | Jorge Andrade |
 | 5 | 329 | Sevens4L |
 | 6 | 320 | Felicia Haynes |
 | 7 | 289 | Drew Magnus |

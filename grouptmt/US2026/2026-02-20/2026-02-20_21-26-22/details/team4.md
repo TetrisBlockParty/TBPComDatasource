@@ -70,8 +70,8 @@
 | 62 | 61 | Jenna Ingersoll |
 | 63 | 61 | Shauna Havard |
 | 64 | 60 | Girl |
-| 65 | 57 | Angela Geist Jusinski |
-| 66 | 57 | Mimi |
+| 65 | 57 | Mimi |
+| 66 | 57 | Angela Geist Jusinski |
 | 67 | 56 | Stephanie Jones |
 | 68 | 55 | Chris Alexinas |
 | 69 | 55 | mini |
