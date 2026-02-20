@@ -79,8 +79,8 @@
 | 71 | 81 | Garcia Bailey |
 | 72 | 81 | Bob |
 | 73 | 80 | Matt Cinelli |
-| 74 | 79 | TSwag |
-| 75 | 79 | Chris65 |
+| 74 | 79 | Chris65 |
+| 75 | 79 | TSwag |
 | 76 | 78 | Carrie Beck Geartz |
 | 77 | 75 | Tyler L Hunt |
 | 78 | 73 | Witty Builderfit |
@@ -97,8 +97,8 @@
 | 89 | 63 | Lincon |
 | 90 | 63 | Mitchel White |
 | 91 | 62 | Tofy |
-| 92 | 62 | Anaid Sanchez |
-| 93 | 62 | Sarah Henniker |
+| 92 | 62 | Sarah Henniker |
+| 93 | 62 | Anaid Sanchez |
 | 94 | 61 | Carolyn Smith |
 | 95 | 60 | Susanna Guerry |
 | 96 | 60 | Josie Kirt |

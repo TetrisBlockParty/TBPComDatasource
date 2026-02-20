@@ -105,13 +105,13 @@
 | 97 | 98 | Ashley Tookes |
 | 98 | 98 | Jocelyne Baca |
 | 99 | 96 | Boldy Corner |
-| 100 | 95 | Brooke Bauer |
-| 101 | 95 | Demetrious Shaw Sr. |
+| 100 | 95 | Demetrious Shaw Sr. |
+| 101 | 95 | Brooke Bauer |
 | 102 | 92 | Skinny Baldez |
 | 103 | 91 | D3NO |
 | 104 | 90 | Tiffany Kaupang |
-| 105 | 89 | Hyper Bridger |
-| 106 | 89 | Annie Déè |
+| 105 | 89 | Annie Déè |
+| 106 | 89 | Hyper Bridger |
 | 107 | 88 | Martin Bernier |
 | 108 | 88 | Funky Jumper |
 | 109 | 87 | Lys |
@@ -173,8 +173,8 @@
 | 165 | 60 | Ashley Rufus Bythcez |
 | 166 | 60 | Angie Harper |
 | 167 | 59 | Cary M. Fong |
-| 168 | 58 | Erzulie |
-| 169 | 58 | David Kozen |
+| 168 | 58 | David Kozen |
+| 169 | 58 | Erzulie |
 | 170 | 57 | Mana |
 | 171 | 56 | Heather De Vries Cobb |
 | 172 | 56 | Bastian Campbell |

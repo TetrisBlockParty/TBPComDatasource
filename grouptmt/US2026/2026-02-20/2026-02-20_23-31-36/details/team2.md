@@ -144,8 +144,8 @@
 | 136 | 227 | Alyssia Tancredi |
 | 137 | 226 | Jojo Momma |
 | 138 | 225 | Lindsey Leigh |
-| 139 | 223 | Steven Marshaun |
-| 140 | 223 | Matt Johnson |
+| 139 | 223 | Matt Johnson |
+| 140 | 223 | Steven Marshaun |
 | 141 | 222 | snkylnk |
 | 142 | 220 | Mari Ac |
 | 143 | 220 | BYM4L |
@@ -205,8 +205,8 @@
 | 197 | 160 | Austin Wilson |
 | 198 | 160 | Cynthia Ward |
 | 199 | 158 | Toni Roberson |
-| 200 | 158 | Matthew Turner |
-| 201 | 158 | RaeVan Worthington |
+| 200 | 158 | RaeVan Worthington |
+| 201 | 158 | Matthew Turner |
 | 202 | 157 | Klee |
 | 203 | 157 | HarleyJane |
 | 204 | 157 | Dineisha Carpenter |
@@ -220,8 +220,8 @@
 | 212 | 150 | Tiffney Wroten |
 | 213 | 150 | Justin Hines |
 | 214 | 149 | Alexandra Weir |
-| 215 | 148 | Brittany Radaszewski |
-| 216 | 148 | Cappin You |
+| 215 | 148 | Cappin You |
+| 216 | 148 | Brittany Radaszewski |
 | 217 | 148 | Shannon Byrd |
 | 218 | 145 | Charvi' Carter |
 | 219 | 145 | Scott Rackley |
@@ -281,8 +281,8 @@
 | 273 | 120 | Cheeky Brickmatch |
 | 274 | 119 | Alison Emmons |
 | 275 | 119 | RavensBeard |
-| 276 | 119 | Perry Hubert |
-| 277 | 119 | Mandi Douglas Hilt |
+| 276 | 119 | Mandi Douglas Hilt |
+| 277 | 119 | Perry Hubert |
 | 278 | 118 | Poppy Gridder |
 | 279 | 117 | Myleaha Holley |
 | 280 | 117 | Cody Kelsey |
@@ -297,8 +297,8 @@
 | 289 | 114 | Slinky Risegrid |
 | 290 | 114 | Starrs Dcct |
 | 291 | 113 | Elisheva Mizrachi |
-| 292 | 113 | Della Hole |
-| 293 | 113 | Brave Gridzone |
+| 292 | 113 | Brave Gridzone |
+| 293 | 113 | Della Hole |
 | 294 | 112 | Poppy Snapper |
 | 295 | 111 | Angel |
 | 296 | 111 | Lively Brickfit |
@@ -343,7 +343,7 @@
 | 335 | 101 | Janet Marie Vega |
 | 336 | 101 | April Bennett |
 | 337 | 100 | IdRatherbeaNinja |
-| 338 | 100 | Jessica Wayne Cornwall |
+| 338 | 100 | Cortnie King |
 | 339 | 100 | DrenJess Smith |
 | 340 | 100 | Jessica Wayne Cornwall |
 | 341 | 99 | Stacey N Kelly Lee |
