@@ -71,19 +71,19 @@
 | 63 | 79 | Zesty Twistbuilder |
 | 64 | 79 | Bryan Hodgins |
 | 65 | 78 | Chilly Line |
-| 66 | 77 | Kim Hunt |
-| 67 | 77 | Girl |
+| 66 | 77 | Girl |
+| 67 | 77 | Kim Hunt |
 | 68 | 76 | Kristin MacDonald |
-| 69 | 75 | Avy Absol |
+| 69 | 75 | Chair |
 | 70 | 75 | Rosemary Foster |
-| 71 | 75 | Chair |
+| 71 | 75 | Avy Absol |
 | 72 | 74 | Kimyatta Cavin |
 | 73 | 73 | Lauren Lamb |
 | 74 | 72 | Joshua Cuellar |
 | 75 | 72 | Kesha Brady |
 | 76 | 71 | Kimberly Love |
-| 77 | 70 | Valerie Roberts |
-| 78 | 70 | Christina Black |
+| 77 | 70 | Christina Black |
+| 78 | 70 | Valerie Roberts |
 | 79 | 68 | Sam Middleton |
 | 80 | 68 | LS |
 | 81 | 65 | Angela Geist Jusinski |

@@ -128,7 +128,7 @@
 | 120 | 83 | LaTanya GeminiondaRise Johnson |
 | 121 | 82 | Clever Clearbuilder |
 | 122 | 82 | Jimmie Clemons |
-| 123 | 82 | Clever Clearbuilder |
+| 123 | 82 | Donna |
 | 124 | 81 | Danielle Becker |
 | 125 | 80 | Chris Bell |
 | 126 | 80 | Vixen Queen |

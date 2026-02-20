@@ -35,8 +35,8 @@
 | 27 | 176 | Jazzy Framezone |
 | 28 | 169 | Erez Yosef |
 | 29 | 153 | Standia Civil |
-| 30 | 151 | Hyper |
-| 31 | 151 | Thorne Shumate |
+| 30 | 151 | Thorne Shumate |
+| 31 | 151 | Hyper |
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |

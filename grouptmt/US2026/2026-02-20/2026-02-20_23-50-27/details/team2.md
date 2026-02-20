@@ -38,8 +38,8 @@
 | 30 | 679 | Gold Rose |
 | 31 | 677 | Kimberly Michelle Brown |
 | 32 | 674 | Dannette Goldberg-Richards |
-| 33 | 658 | Vistabrat |
-| 34 | 658 | Dreamy Blast |
+| 33 | 658 | Dreamy Blast |
+| 34 | 658 | Vistabrat |
 | 35 | 656 | Pacynthia Williams |
 | 36 | 648 | Jill Stroehlein |
 | 37 | 622 | E_Money04 |
@@ -87,8 +87,8 @@
 | 79 | 350 | Chris Harr |
 | 80 | 346 | Gene Mills |
 | 81 | 345 | Brenda Messer |
-| 82 | 345 | Rhianna DiLorenzo |
-| 83 | 345 | Alyssaaelena |
+| 82 | 345 | Alyssaaelena |
+| 83 | 345 | Rhianna DiLorenzo |
 | 84 | 342 | Tracy Wise |
 | 85 | 341 | Sam McKenzie |
 | 86 | 341 | Sarah Freitas |
@@ -138,8 +138,8 @@
 | 130 | 243 | Shameika Trail |
 | 131 | 241 | Sabrina Burton |
 | 132 | 239 | Tee Jaleesa |
-| 133 | 238 | Ann Matzkanin |
-| 134 | 238 | Cheech Dta |
+| 133 | 238 | Cheech Dta |
+| 134 | 238 | Ann Matzkanin |
 | 135 | 238 | Dany Murillo |
 | 136 | 236 | Frisky Riserbuilder |
 | 137 | 235 | TF Dyer |
@@ -178,8 +178,8 @@
 | 170 | 194 | Mike Aprilliano |
 | 171 | 193 | Ariel |
 | 172 | 191 | Deana |
-| 173 | 190 | Jessie McDougald |
-| 174 | 190 | Alyssa Dean |
+| 173 | 190 | Alyssa Dean |
+| 174 | 190 | Jessie McDougald |
 | 175 | 189 | Sanaa Nounoussa |
 | 176 | 187 | Wendy Harder Gage |
 | 177 | 184 | Rebecca Doughman |
@@ -192,10 +192,10 @@
 | 184 | 180 | Ali Gralski |
 | 185 | 179 | Cat |
 | 186 | 179 | Desiree Harris Rosch |
-| 187 | 177 | John |
-| 188 | 177 | Osun Anuket Esu |
-| 189 | 176 | Besma Ao |
-| 190 | 176 | Missie Lawson Gebhardt |
+| 187 | 177 | Osun Anuket Esu |
+| 188 | 177 | John |
+| 189 | 176 | Missie Lawson Gebhardt |
+| 190 | 176 | Besma Ao |
 | 191 | 175 | Tina Blessed Cage |
 | 192 | 173 | Macy Williams |
 | 193 | 170 | Darlene Bowman |
@@ -205,8 +205,8 @@
 | 197 | 168 | Robin |
 | 198 | 167 | Fi Ne |
 | 199 | 166 | Jessica Kaye DeAguero |
-| 200 | 165 | Cathy Bitters |
-| 201 | 165 | Mema |
+| 200 | 165 | Mema |
+| 201 | 165 | Cathy Bitters |
 | 202 | 164 | Jamie Stevey |
 | 203 | 163 | Dedra Steward |
 | 204 | 162 | Nick Jensen |
@@ -223,8 +223,8 @@
 | 215 | 157 | Klee |
 | 216 | 157 | Jánine Riggs |
 | 217 | 157 | Dineisha Carpenter |
-| 218 | 156 | Ramone Armstrong |
-| 219 | 156 | Nuggets |
+| 218 | 156 | Nuggets |
+| 219 | 156 | Ramone Armstrong |
 | 220 | 156 | Deanna Morton |
 | 221 | 155 | Alexandra Weir |
 | 222 | 155 | Nika Bee |
