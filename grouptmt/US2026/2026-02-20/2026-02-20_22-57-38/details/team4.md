@@ -30,8 +30,8 @@
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
 | 24 | 124 | Jay28 |
-| 25 | 123 | Dustin Robert |
-| 26 | 123 | Nugget |
+| 25 | 123 | Nugget |
+| 26 | 123 | Dustin Robert |
 | 27 | 117 | Lauren Scott |
 | 28 | 116 | Courtney Cicoria |
 | 29 | 116 | Dee Kay |
@@ -43,9 +43,9 @@
 | 35 | 108 | Alyssa Papen |
 | 36 | 108 | Mr. Party |
 | 37 | 107 | Denise Carlson |
-| 38 | 100 | Michelle Morris |
+| 38 | 100 | Andria Lynn |
 | 39 | 100 | Diana Houts |
-| 40 | 100 | Andria Lynn |
+| 40 | 100 | Michelle Morris |
 | 41 | 98 | Stephme310 |
 | 42 | 91 | Gwendolyn Pitcairn |
 | 43 | 90 | Duck |
@@ -93,8 +93,8 @@
 | 85 | 53 | Julian Garcia |
 | 86 | 52 | Nicole Silvers |
 | 87 | 52 | Allison Judith |
-| 88 | 51 | Chaz Duncan |
-| 89 | 51 | Bryan Hodgins |
+| 88 | 51 | Bryan Hodgins |
+| 89 | 51 | Chaz Duncan |
 | 90 | 50 | Richard-April Kice |
 | 91 | 50 | Brandon Crabbs |
 | 92 | 49 | Lakesha Johnson |

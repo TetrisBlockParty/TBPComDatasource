@@ -71,12 +71,12 @@
 | 63 | 353 | Charie Holland |
 | 64 | 351 | Giggy Blocker |
 | 65 | 346 | Gene Mills |
-| 66 | 345 | Rhianna DiLorenzo |
-| 67 | 345 | Alyssaaelena |
+| 66 | 345 | Alyssaaelena |
+| 67 | 345 | Rhianna DiLorenzo |
 | 68 | 343 | Jennifer Peachey |
 | 69 | 342 | Tracy Wise |
-| 70 | 341 | Sarah Freitas |
-| 71 | 341 | Sam McKenzie |
+| 70 | 341 | Sam McKenzie |
+| 71 | 341 | Sarah Freitas |
 | 72 | 337 | Alisha Peoples |
 | 73 | 328 | Marie Boyd Faulk |
 | 74 | 324 | MrsCandyfine As Wine Truss |

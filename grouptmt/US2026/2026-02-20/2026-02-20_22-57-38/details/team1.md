@@ -101,8 +101,8 @@
 | 93 | 60 | BigWeenie69 |
 | 94 | 60 | Tina Englert |
 | 95 | 59 | Mel Hogan |
-| 96 | 58 | Shiny Gridmatch |
-| 97 | 58 | Jason Cox |
+| 96 | 58 | Jason Cox |
+| 97 | 58 | Shiny Gridmatch |
 | 98 | 56 | Lehrin Maria |
 | 99 | 55 | Sweet Baker |
 | 100 | 55 | Yvonne Marie |

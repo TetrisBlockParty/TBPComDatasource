@@ -41,8 +41,8 @@
 | 33 | 307 | Peggi Charon |
 | 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
-| 36 | 291 | Tasha Schriewer |
-| 37 | 291 | Laura Melton |
+| 36 | 291 | Laura Melton |
+| 37 | 291 | Tasha Schriewer |
 | 38 | 272 | Mahman |
 | 39 | 244 | Clever Roll |
 | 40 | 240 | Ebony West-Cundiff |
@@ -82,8 +82,8 @@
 | 74 | 117 | Amy Fuller Heaton |
 | 75 | 113 | Jennifer Alvey |
 | 76 | 111 | Joy Petroski |
-| 77 | 110 | Connie Mohler-Fair |
-| 78 | 110 | Stella |
+| 77 | 110 | Stella |
+| 78 | 110 | Connie Mohler-Fair |
 | 79 | 110 | Tiff Vs Tiffany |
 | 80 | 108 | Grams |
 | 81 | 107 | Bryan Byrd |
@@ -149,9 +149,9 @@
 | 141 | 65 | LaKisha Legrone |
 | 142 | 64 | Lush Risebuilder |
 | 143 | 64 | Leticia Lynn Lowe |
-| 144 | 63 | BugMansMom |
-| 145 | 63 | Hasty Wipebuilder |
-| 146 | 63 | Eileen Brady Thurber |
+| 144 | 63 | Eileen Brady Thurber |
+| 145 | 63 | BugMansMom |
+| 146 | 63 | Hasty Wipebuilder |
 | 147 | 62 | Cherry Parker |
 | 148 | 61 | Jessica Rose-Morgan |
 | 149 | 61 | Rebel124 |
