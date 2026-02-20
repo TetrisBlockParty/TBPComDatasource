@@ -56,12 +56,12 @@
 | 48 | 100 | Frothy Pattern |
 | 49 | 98 | Flashy Rotator |
 | 50 | 97 | Ly Phethmany |
-| 51 | 95 | Jodee Woods |
-| 52 | 95 | Jennifer Cates |
+| 51 | 95 | Jennifer Cates |
+| 52 | 95 | Jodee Woods |
 | 53 | 94 | Bindi |
-| 54 | 93 | Ash Galvan |
+| 54 | 93 | Uhog SF |
 | 55 | 93 | Ty Brown |
-| 56 | 93 | Uhog SF |
+| 56 | 93 | Ash Galvan |
 | 57 | 91 | Spunky Piecebuilder |
 | 58 | 90 | Madison Wicks |
 | 59 | 90 | comrade fish |
@@ -98,8 +98,8 @@
 | 90 | 60 | BigWeenie69 |
 | 91 | 59 | Mel Hogan |
 | 92 | 58 | Shiny Gridmatch |
-| 93 | 58 | Jason Cox |
-| 94 | 58 | Carolyn Smith |
+| 93 | 58 | Carolyn Smith |
+| 94 | 58 | Jason Cox |
 | 95 | 56 | Lehrin Maria |
 | 96 | 55 | Sweet Baker |
 | 97 | 53 | J.D3D.D |

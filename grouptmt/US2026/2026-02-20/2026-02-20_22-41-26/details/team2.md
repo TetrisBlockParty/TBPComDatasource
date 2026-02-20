@@ -76,8 +76,8 @@
 | 68 | 337 | Alisha Peoples |
 | 69 | 328 | Marie Boyd Faulk |
 | 70 | 327 | Gene Mills |
-| 71 | 323 | Daphne Jordan |
-| 72 | 323 | Danielle Simmons |
+| 71 | 323 | Danielle Simmons |
+| 72 | 323 | Daphne Jordan |
 | 73 | 305 | MrsCandyfine As Wine Truss |
 | 74 | 301 | Sam McKenzie |
 | 75 | 301 | Priscilla Noel |

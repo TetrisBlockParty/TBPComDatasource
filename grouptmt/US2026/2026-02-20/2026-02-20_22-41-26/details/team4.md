@@ -24,8 +24,8 @@
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
 | 18 | 141 | Edward White |
-| 19 | 133 | Devinlee Brown |
-| 20 | 133 | Alicia Bass |
+| 19 | 133 | Alicia Bass |
+| 20 | 133 | Devinlee Brown |
 | 21 | 130 | Casey Jeffcoat |
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
@@ -72,11 +72,11 @@
 | 64 | 67 | Zesty Twistbuilder |
 | 65 | 65 | Angela Geist Jusinski |
 | 66 | 65 | YoMomma |
-| 67 | 64 | Marcus Todd |
-| 68 | 64 | Damn Libra |
-| 69 | 61 | Alee Marie |
-| 70 | 61 | Shauna Havard |
-| 71 | 61 | Jenna Ingersoll |
+| 67 | 64 | Damn Libra |
+| 68 | 64 | Marcus Todd |
+| 69 | 61 | Shauna Havard |
+| 70 | 61 | Jenna Ingersoll |
+| 71 | 61 | Alee Marie |
 | 72 | 60 | Girl |
 | 73 | 56 | Stephanie Jones |
 | 74 | 55 | Chris Alexinas |

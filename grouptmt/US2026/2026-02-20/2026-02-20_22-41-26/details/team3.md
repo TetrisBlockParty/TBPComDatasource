@@ -68,8 +68,8 @@
 | 60 | 130 | Zippy Strikesnap |
 | 61 | 130 | Tessina Dewey-Mancino |
 | 62 | 129 | Giddy Twistbuilder |
-| 63 | 127 | mjl574 |
-| 64 | 127 | Dolores Falco |
+| 63 | 127 | Dolores Falco |
+| 64 | 127 | mjl574 |
 | 65 | 126 | ren |
 | 66 | 125 | Stephanie Simpson |
 | 67 | 122 | Emma |
