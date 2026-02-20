@@ -80,8 +80,8 @@
 | 72 | 337 | Alisha Peoples |
 | 73 | 328 | Marie Boyd Faulk |
 | 74 | 324 | MrsCandyfine As Wine Truss |
-| 75 | 323 | Danielle Simmons |
-| 76 | 323 | Daphne Jordan |
+| 75 | 323 | Daphne Jordan |
+| 76 | 323 | Danielle Simmons |
 | 77 | 296 | Laura Marie Pelletier |
 | 78 | 295 | Zany Clusterbuilder |
 | 79 | 294 | Kristen Sceurman |

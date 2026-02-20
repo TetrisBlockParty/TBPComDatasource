@@ -33,15 +33,15 @@
 | 25 | 124 | Jay28 |
 | 26 | 123 | Nugget |
 | 27 | 117 | Lauren Scott |
-| 28 | 116 | Sherri |
-| 29 | 116 | Courtney Cicoria |
-| 30 | 116 | Dee Kay |
+| 28 | 116 | Courtney Cicoria |
+| 29 | 116 | Dee Kay |
+| 30 | 116 | Sherri |
 | 31 | 114 | Jessica Cagle |
 | 32 | 113 | Degenerate |
 | 33 | 112 | Chirpy Basepiece |
 | 34 | 109 | Brittney Orengo |
-| 35 | 108 | Mr. Party |
-| 36 | 108 | Alyssa Papen |
+| 35 | 108 | Alyssa Papen |
+| 36 | 108 | Mr. Party |
 | 37 | 107 | Denise Carlson |
 | 38 | 100 | Diana Houts |
 | 39 | 100 | Michelle Morris |
@@ -60,8 +60,8 @@
 | 52 | 80 | Shelly Chandler |
 | 53 | 77 | Kim Hunt |
 | 54 | 76 | Kristin MacDonald |
-| 55 | 75 | Avy Absol |
-| 56 | 75 | Rosemary Foster |
+| 55 | 75 | Rosemary Foster |
+| 56 | 75 | Avy Absol |
 | 57 | 74 | Chair |
 | 58 | 73 | Lauren Lamb |
 | 59 | 72 | Kesha Brady |
@@ -76,9 +76,9 @@
 | 68 | 65 | YoMomma |
 | 69 | 64 | Marcus Todd |
 | 70 | 64 | Damn Libra |
-| 71 | 61 | Shauna Havard |
+| 71 | 61 | Jenna Ingersoll |
 | 72 | 61 | Alee Marie |
-| 73 | 61 | Jenna Ingersoll |
+| 73 | 61 | Shauna Havard |
 | 74 | 60 | Girl |
 | 75 | 57 | Kimberly Love |
 | 76 | 56 | Stephanie Jones |

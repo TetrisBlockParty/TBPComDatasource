@@ -82,9 +82,9 @@
 | 74 | 118 | Bea Miles |
 | 75 | 113 | Jennifer Alvey |
 | 76 | 111 | Joy Petroski |
-| 77 | 110 | Tiff Vs Tiffany |
-| 78 | 110 | Connie Mohler-Fair |
-| 79 | 110 | Stella |
+| 77 | 110 | Connie Mohler-Fair |
+| 78 | 110 | Stella |
+| 79 | 110 | Tiff Vs Tiffany |
 | 80 | 108 | Grams |
 | 81 | 107 | Bryan Byrd |
 | 82 | 105 | Hoppy Buildout |
