@@ -66,8 +66,8 @@
 | 58 | 81 | Garcia Bailey |
 | 59 | 80 | Matt Cinelli |
 | 60 | 79 | Chris65 |
-| 61 | 78 | Carrie Beck Geartz |
-| 62 | 78 | Guest |
+| 61 | 78 | Guest |
+| 62 | 78 | Carrie Beck Geartz |
 | 63 | 76 | Ly Phethmany |
 | 64 | 75 | Bob |
 | 65 | 75 | Tyler L Hunt |

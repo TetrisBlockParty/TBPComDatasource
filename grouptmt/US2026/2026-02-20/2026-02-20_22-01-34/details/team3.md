@@ -140,9 +140,9 @@
 | 132 | 60 | Loony Slider |
 | 133 | 59 | Leticia Lynn Lowe |
 | 134 | 57 | Mana |
-| 135 | 56 | Heather De Vries Cobb |
-| 136 | 56 | Cary M. Fong |
-| 137 | 56 | Bastian Campbell |
+| 135 | 56 | Cary M. Fong |
+| 136 | 56 | Bastian Campbell |
+| 137 | 56 | Heather De Vries Cobb |
 | 138 | 55 | Carina Ortega |
 | 139 | 55 | Melissa Parlow-Callaway |
 | 140 | 55 | Flashy Climber |
