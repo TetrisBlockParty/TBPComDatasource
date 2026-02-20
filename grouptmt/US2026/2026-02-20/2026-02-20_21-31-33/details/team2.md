@@ -91,8 +91,8 @@
 | 83 | 257 | Alex Hill |
 | 84 | 255 | Santana Miyagi |
 | 85 | 254 | Libby Hicks |
-| 86 | 253 | Joseph Musick |
-| 87 | 253 | RdRydnHd |
+| 86 | 253 | RdRydnHd |
+| 87 | 253 | Joseph Musick |
 | 88 | 252 | Alezandra Smith |
 | 89 | 250 | Lonne Emade |
 | 90 | 247 | Fancy Twister |
@@ -122,8 +122,8 @@
 | 114 | 200 | Sarah Ridenour |
 | 115 | 198 | Cheech Dta |
 | 116 | 198 | Richard Horton |
-| 117 | 197 | Smashanator |
-| 118 | 197 | James Zaragoza |
+| 117 | 197 | James Zaragoza |
+| 118 | 197 | Smashanator |
 | 119 | 196 | Gary Stash |
 | 120 | 194 | Tammy Allen |
 | 121 | 194 | Shameika Trail |
@@ -136,8 +136,8 @@
 | 128 | 181 | Jordan Petro |
 | 129 | 180 | Ali Gralski |
 | 130 | 179 | Desiree Harris Rosch |
-| 131 | 177 | Osun Anuket Esu |
-| 132 | 177 | John |
+| 131 | 177 | John |
+| 132 | 177 | Osun Anuket Esu |
 | 133 | 175 | Ann Knutson Anderson |
 | 134 | 173 | Vistabrat |
 | 135 | 170 | Mari Ac |
