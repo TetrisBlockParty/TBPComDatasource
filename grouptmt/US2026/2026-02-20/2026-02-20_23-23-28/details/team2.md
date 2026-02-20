@@ -290,9 +290,9 @@
 | 282 | 114 | Dandy Drop |
 | 283 | 114 | Melissa Maples |
 | 284 | 114 | James Smith |
-| 285 | 114 | Slinky Risegrid |
-| 286 | 113 | Brave Gridzone |
-| 287 | 113 | Della Hole |
+| 285 | 114 | Tommy Stuck |
+| 286 | 113 | Della Hole |
+| 287 | 113 | Brave Gridzone |
 | 288 | 113 | Elisheva Mizrachi |
 | 289 | 112 | Poppy Snapper |
 | 290 | 111 | Sabrena Yeisley |

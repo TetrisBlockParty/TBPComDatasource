@@ -18,8 +18,8 @@
 | 10 | 399 | Drew Magnus |
 | 11 | 371 | Colena Davenport |
 | 12 | 294 | Jacqueline Williams |
-| 13 | 281 | Kathi Snustad |
-| 14 | 281 | Nancy Green |
+| 13 | 281 | Nancy Green |
+| 14 | 281 | Kathi Snustad |
 | 15 | 263 | Andrea Dañielle Ortiz |
 | 16 | 234 | Tipsy Column |
 | 17 | 215 | Sarah Roberts |
@@ -58,8 +58,8 @@
 | 50 | 103 | Sharon Reynolds |
 | 51 | 100 | Frothy Pattern |
 | 52 | 98 | Flashy Rotator |
-| 53 | 95 | Jodee Woods |
-| 54 | 95 | Jennifer Cates |
+| 53 | 95 | Jennifer Cates |
+| 54 | 95 | Jodee Woods |
 | 55 | 94 | Bindi |
 | 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
@@ -73,8 +73,8 @@
 | 65 | 84 | Charla Pross-Fugleberg |
 | 66 | 83 | Death |
 | 67 | 82 | Melissa Lemmon |
-| 68 | 81 | Bob |
-| 69 | 81 | Garcia Bailey |
+| 68 | 81 | Garcia Bailey |
+| 69 | 81 | Bob |
 | 70 | 80 | Matt Cinelli |
 | 71 | 79 | Chris65 |
 | 72 | 79 | TSwag |

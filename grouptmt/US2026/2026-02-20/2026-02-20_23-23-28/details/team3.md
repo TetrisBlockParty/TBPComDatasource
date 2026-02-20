@@ -70,8 +70,8 @@
 | 62 | 141 | Denita Mungro |
 | 63 | 135 | Danielle Cutler |
 | 64 | 134 | DanceLuvLaugh |
-| 65 | 130 | Tessina Dewey-Mancino |
-| 66 | 130 | Zippy Strikesnap |
+| 65 | 130 | Zippy Strikesnap |
+| 66 | 130 | Tessina Dewey-Mancino |
 | 67 | 129 | Giddy Twistbuilder |
 | 68 | 127 | Dolores Falco |
 | 69 | 127 | mjl574 |
@@ -154,8 +154,8 @@
 | 146 | 66 | Oliver Neal II |
 | 147 | 65 | Kristie McFarland |
 | 148 | 65 | LaKisha Legrone |
-| 149 | 64 | Tommy Proctor |
-| 150 | 64 | Lush Risebuilder |
+| 149 | 64 | Lush Risebuilder |
+| 150 | 64 | Tommy Proctor |
 | 151 | 64 | Leticia Lynn Lowe |
 | 152 | 63 | BugMansMom |
 | 153 | 63 | Hasty Wipebuilder |
@@ -188,10 +188,10 @@
 | 180 | 54 | Ivie Halftown |
 | 181 | 54 | Christine Ann Eras |
 | 182 | 53 | Payden Dover |
-| 183 | 52 | Kristina Marie |
-| 184 | 52 | Josiah Fam |
-| 185 | 52 | Jesse Olive |
-| 186 | 52 | Duane Miller |
+| 183 | 52 | Jesse Olive |
+| 184 | 52 | Kristina Marie |
+| 185 | 52 | Duane Miller |
+| 186 | 52 | Josiah Fam |
 | 187 | 51 | Richard Rowell |
 | 188 | 51 | Kari Gibson Simmons |
 | 189 | 51 | Rufus Lincoln |

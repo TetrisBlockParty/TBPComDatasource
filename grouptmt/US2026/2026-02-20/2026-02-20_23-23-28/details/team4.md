@@ -29,8 +29,8 @@
 | 21 | 148 | Jenna Ingersoll |
 | 22 | 148 | Alyssa Papen |
 | 23 | 141 | Edward White |
-| 24 | 133 | Alicia Bass |
-| 25 | 133 | Devinlee Brown |
+| 24 | 133 | Devinlee Brown |
+| 25 | 133 | Alicia Bass |
 | 26 | 130 | Casey Jeffcoat |
 | 27 | 129 | Samantha Peterson |
 | 28 | 128 | Robin Watters |
@@ -55,9 +55,9 @@
 | 47 | 98 | Stephme310 |
 | 48 | 90 | Duck |
 | 49 | 88 | Jenna McGeorge |
-| 50 | 87 | Jen Caldwell |
+| 50 | 87 | Brandi Durig |
 | 51 | 87 | Malakai Darien Fox |
-| 52 | 87 | Brandi Durig |
+| 52 | 87 | Jen Caldwell |
 | 53 | 86 | amy |
 | 54 | 85 | Mimi |
 | 55 | 84 | Epic Curvetile |
@@ -99,16 +99,16 @@
 | 91 | 54 | Destiney Carter |
 | 92 | 54 | Carter Jones |
 | 93 | 53 | Zany Twisterfit |
-| 94 | 53 | Julian Garcia |
-| 95 | 53 | Jackson Karen |
-| 96 | 52 | Nicole Silvers |
-| 97 | 52 | Allison Judith |
+| 94 | 53 | Jackson Karen |
+| 95 | 53 | Julian Garcia |
+| 96 | 52 | Allison Judith |
+| 97 | 52 | Nicole Silvers |
 | 98 | 51 | Chaz Duncan |
-| 99 | 50 | Brandon Crabbs |
+| 99 | 50 | Richard-April Kice |
 | 100 | 50 | GBR |
-| 101 | 50 | Richard-April Kice |
-| 102 | 49 | Justin Hannigan |
-| 103 | 49 | Lakesha Johnson |
+| 101 | 50 | Brandon Crabbs |
+| 102 | 49 | Lakesha Johnson |
+| 103 | 49 | Justin Hannigan |
 | 104 | 47 | Amy Sanford |
 | 105 | 47 | Chastity Mitchell |
 | 106 | 46 | Natalie;) |
