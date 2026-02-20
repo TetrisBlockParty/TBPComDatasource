@@ -72,13 +72,13 @@
 | 64 | 113 | Jennifer Alvey |
 | 65 | 112 | MissTaylor |
 | 66 | 110 | Tiff Vs Tiffany |
-| 67 | 110 | Connie Mohler-Fair |
-| 68 | 110 | Stella |
+| 67 | 110 | Stella |
+| 68 | 110 | Connie Mohler-Fair |
 | 69 | 108 | Grams |
 | 70 | 107 | Bryan Byrd |
-| 71 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 72 | 101 | Mykal Burton |
-| 73 | 101 | Joy Petroski |
+| 71 | 101 | Joy Petroski |
+| 72 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 73 | 101 | Mykal Burton |
 | 74 | 100 | Bobbi Moore |
 | 75 | 98 | Ashley Tookes |
 | 76 | 97 | Fredd Thomas |
@@ -89,8 +89,8 @@
 | 81 | 89 | Annie Déè |
 | 82 | 88 | Martin Bernier |
 | 83 | 85 | Delilah belle |
-| 84 | 84 | Eon Harris |
-| 85 | 84 | Skinny Baldez |
+| 84 | 84 | Skinny Baldez |
+| 85 | 84 | Eon Harris |
 | 86 | 83 | Nichol Graham |
 | 87 | 82 | Clever Clearbuilder |
 | 88 | 82 | Donna |
@@ -121,8 +121,8 @@
 | 113 | 69 | Chasity |
 | 114 | 69 | Jen Lewis |
 | 115 | 68 | Crystel b520 |
-| 116 | 66 | Oliver Neal II |
-| 117 | 66 | Valerie Gendron |
+| 116 | 66 | Valerie Gendron |
+| 117 | 66 | Oliver Neal II |
 | 118 | 65 | gremicx |
 | 119 | 64 | Lush Risebuilder |
 | 120 | 63 | Hasty Wipebuilder |
