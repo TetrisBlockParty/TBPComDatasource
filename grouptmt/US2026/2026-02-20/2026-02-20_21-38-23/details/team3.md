@@ -51,8 +51,8 @@
 | 43 | 171 | Speedy Bridger |
 | 44 | 161 | Crimson |
 | 45 | 158 | Peggi Charon |
-| 46 | 149 | Fallorina Susana |
-| 47 | 149 | Shannon Matthew Byers |
+| 46 | 149 | Shannon Matthew Byers |
+| 47 | 149 | Fallorina Susana |
 | 48 | 148 | Clever Shiftsnap |
 | 49 | 146 | Liv Whetson |
 | 50 | 141 | Denita Mungro |
@@ -106,7 +106,7 @@
 | 98 | 76 | Jessica Bechler |
 | 99 | 75 | Janelle Goetz |
 | 100 | 74 | Clever Roll |
-| 101 | 72 | Melissa Orth Hunter |
+| 101 | 72 | Christian Luna |
 | 102 | 72 | Ryan Williams |
 | 103 | 72 | FuzzyNavel |
 | 104 | 72 | Melissa Orth Hunter |

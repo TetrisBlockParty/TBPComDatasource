@@ -44,8 +44,8 @@
 | 36 | 471 | Pacynthia Williams |
 | 37 | 464 | Ashley Collins |
 | 38 | 448 | Jill Stroehlein |
-| 39 | 426 | Eboni Banks |
-| 40 | 426 | Kaylee McCafferty |
+| 39 | 426 | Kaylee McCafferty |
+| 40 | 426 | Eboni Banks |
 | 41 | 405 | Samantha Jo |
 | 42 | 391 | Chilly Bridgepiece |
 | 43 | 390 | Dustin Rains |
@@ -86,8 +86,8 @@
 | 78 | 263 | Oscar Bernie |
 | 79 | 262 | E_Money04 |
 | 80 | 261 | MrsClaudette Will'sIam Matthews |
-| 81 | 259 | Melissa Holsinger |
-| 82 | 259 | Autumn Schaeffer |
+| 81 | 259 | Autumn Schaeffer |
+| 82 | 259 | Melissa Holsinger |
 | 83 | 257 | Alex Hill |
 | 84 | 255 | Santana Miyagi |
 | 85 | 254 | Libby Hicks |
@@ -104,8 +104,8 @@
 | 96 | 236 | Frisky Riserbuilder |
 | 97 | 235 | MrsCandyfine As Wine Truss |
 | 98 | 233 | Ann Matzkanin |
-| 99 | 231 | Brittney Jean |
-| 100 | 231 | Ginger |
+| 99 | 231 | Ginger |
+| 100 | 231 | Brittney Jean |
 | 101 | 229 | Mighty Shatterfit |
 | 102 | 223 | Steven Marshaun |
 | 103 | 222 | snkylnk |

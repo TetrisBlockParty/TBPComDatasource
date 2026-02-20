@@ -94,12 +94,12 @@
 | 86 | 55 | Sweet Baker |
 | 87 | 53 | J.D3D.D |
 | 88 | 52 | Sid Castro |
-| 89 | 51 | Nathan William |
-| 90 | 51 | Lis |
-| 91 | 51 | Tipsy Riseclear |
-| 92 | 51 | Danielle Mae |
-| 93 | 50 | Lavon Usher |
-| 94 | 50 | Daring Fitclear |
+| 89 | 51 | Lis |
+| 90 | 51 | Tipsy Riseclear |
+| 91 | 51 | Danielle Mae |
+| 92 | 51 | Nathan William |
+| 93 | 50 | Daring Fitclear |
+| 94 | 50 | Lavon Usher |
 | 95 | 49 | Nikki Fridley |
 | 96 | 49 | Jennifer Chilton-Metlock |
 | 97 | 48 | Dino |
