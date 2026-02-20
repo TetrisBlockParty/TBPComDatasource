@@ -115,8 +115,8 @@
 | 107 | 58 | Shiny Gridmatch |
 | 108 | 58 | Basment Living |
 | 109 | 57 | Larry Tilton |
-| 110 | 56 | Lehrin Maria |
-| 111 | 56 | Lis |
+| 110 | 56 | Lis |
+| 111 | 56 | Lehrin Maria |
 | 112 | 55 | Yvonne Marie |
 | 113 | 54 | Speedy Snapfall |
 | 114 | 54 | Ariel Whittington |

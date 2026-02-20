@@ -419,8 +419,8 @@
 | 411 | 88 | Lorie Richardson |
 | 412 | 88 | Breana Valdez |
 | 413 | 88 | Chilly Rollblock |
-| 414 | 87 | Kayla Krol |
-| 415 | 87 | Anita Rose Green |
+| 414 | 87 | Anita Rose Green |
+| 415 | 87 | Kayla Krol |
 | 416 | 86 | Chipper Risebuilder |
 | 417 | 86 | Katelyn Fitzsimmons |
 | 418 | 86 | Patrick Fleming |

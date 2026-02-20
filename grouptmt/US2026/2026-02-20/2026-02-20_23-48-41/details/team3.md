@@ -51,8 +51,8 @@
 | 43 | 272 | Mahman |
 | 44 | 260 | Ebony West-Cundiff |
 | 45 | 239 | Lush Buildout |
-| 46 | 227 | Denise Nardoni |
-| 47 | 227 | Amber Hughes |
+| 46 | 227 | Amber Hughes |
+| 47 | 227 | Denise Nardoni |
 | 48 | 215 | Shari Garber |
 | 49 | 214 | Amy Fuller Heaton |
 | 50 | 207 | rnr junky |

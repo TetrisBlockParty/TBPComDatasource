@@ -45,10 +45,10 @@
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
-| 40 | 111 | Denise Carlson |
-| 41 | 111 | Gwendolyn Pitcairn |
-| 42 | 109 | Epic Curvetile |
-| 43 | 109 | Brittney Orengo |
+| 40 | 111 | Gwendolyn Pitcairn |
+| 41 | 111 | Denise Carlson |
+| 42 | 109 | Brittney Orengo |
+| 43 | 109 | Epic Curvetile |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Diana Houts |
@@ -109,7 +109,7 @@
 | 101 | 53 | Zany Twisterfit |
 | 102 | 53 | Jackson Karen |
 | 103 | 52 | Nicole Silvers |
-| 104 | 52 | ZeeZee |
+| 104 | 52 | Allison Judith |
 | 105 | 51 | Swanky Fitline |
 | 106 | 50 | Brandon Crabbs |
 | 107 | 50 | Richard-April Kice |
