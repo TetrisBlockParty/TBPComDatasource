@@ -81,11 +81,11 @@
 | 73 | 345 | Brenda Messer |
 | 74 | 345 | Rhianna DiLorenzo |
 | 75 | 345 | Alyssaaelena |
-| 76 | 343 | Jennifer Peachey |
-| 77 | 343 | MrsCandyfine As Wine Truss |
+| 76 | 343 | MrsCandyfine As Wine Truss |
+| 77 | 343 | Jennifer Peachey |
 | 78 | 342 | Tracy Wise |
-| 79 | 341 | Sam McKenzie |
-| 80 | 341 | Sarah Freitas |
+| 79 | 341 | Sarah Freitas |
+| 80 | 341 | Sam McKenzie |
 | 81 | 340 | Kimberly Randesi |
 | 82 | 337 | Alisha Peoples |
 | 83 | 336 | Laura Marie Pelletier |
@@ -165,8 +165,8 @@
 | 157 | 198 | Julio A Laracuente |
 | 158 | 197 | Smashanator |
 | 159 | 196 | Bubbly Snapfit |
-| 160 | 194 | Tammy Allen |
-| 161 | 194 | Mike Aprilliano |
+| 160 | 194 | Mike Aprilliano |
+| 161 | 194 | Tammy Allen |
 | 162 | 193 | Ariel |
 | 163 | 192 | Rosa Franklin |
 | 164 | 192 | Ann Knutson Anderson |
@@ -182,8 +182,8 @@
 | 174 | 180 | YiFei |
 | 175 | 180 | Ali Gralski |
 | 176 | 179 | Desiree Harris Rosch |
-| 177 | 177 | John |
-| 178 | 177 | Osun Anuket Esu |
+| 177 | 177 | Osun Anuket Esu |
+| 178 | 177 | John |
 | 179 | 176 | Missie Lawson Gebhardt |
 | 180 | 176 | Besma Ao |
 | 181 | 175 | Tina Blessed Cage |
@@ -284,8 +284,8 @@
 | 276 | 118 | Jessie McDougald |
 | 277 | 117 | Myleaha Holley |
 | 278 | 117 | Cody Kelsey |
-| 279 | 116 | Amanda Diegel |
-| 280 | 116 | Ty Quarles |
+| 279 | 116 | Ty Quarles |
+| 280 | 116 | Amanda Diegel |
 | 281 | 115 | Heather Schelkopf |
 | 282 | 115 | Kati Russeau |
 | 283 | 114 | Melissa Maples |
@@ -323,7 +323,7 @@
 | 315 | 105 | bigskyeffect |
 | 316 | 104 | Marcie McLain Dodd |
 | 317 | 104 | Raffaella Dowling |
-| 318 | 103 | Chareen Lauritzen |
+| 318 | 103 | Maria Escobar |
 | 319 | 103 | Andrew W |
 | 320 | 103 | Chareen Lauritzen |
 | 321 | 103 | Cool Grabber |
@@ -402,11 +402,11 @@
 | 394 | 87 | Kayla Krol |
 | 395 | 87 | Anita Rose Green |
 | 396 | 86 | Chipper Risebuilder |
-| 397 | 86 | Alice Ball |
-| 398 | 86 | Frilly Fallzone |
-| 399 | 85 | Ryan Kluck |
-| 400 | 85 | El Chaopo |
-| 401 | 85 | Ebony Deloach Bryant |
+| 397 | 86 | Frilly Fallzone |
+| 398 | 86 | Alice Ball |
+| 399 | 85 | Ebony Deloach Bryant |
+| 400 | 85 | Ryan Kluck |
+| 401 | 85 | El Chaopo |
 | 402 | 84 | Jes Norris |
 | 403 | 84 | Deidre Shaffer |
 | 404 | 83 | Offonar Facey |

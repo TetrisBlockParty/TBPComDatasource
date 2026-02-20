@@ -75,8 +75,8 @@
 | 67 | 83 | Death |
 | 68 | 83 | Guest |
 | 69 | 82 | Melissa Lemmon |
-| 70 | 81 | Bob |
-| 71 | 81 | Garcia Bailey |
+| 70 | 81 | Garcia Bailey |
+| 71 | 81 | Bob |
 | 72 | 80 | Matt Cinelli |
 | 73 | 79 | TSwag |
 | 74 | 79 | Chris65 |
@@ -92,8 +92,8 @@
 | 84 | 66 | Giggly Builderline |
 | 85 | 66 | Archie Ware |
 | 86 | 65 | Trippy Redd |
-| 87 | 63 | Lincon |
-| 88 | 63 | Margo Wagner |
+| 87 | 63 | Margo Wagner |
+| 88 | 63 | Lincon |
 | 89 | 63 | Mitchel White |
 | 90 | 62 | Sarah Henniker |
 | 91 | 62 | Tofy |

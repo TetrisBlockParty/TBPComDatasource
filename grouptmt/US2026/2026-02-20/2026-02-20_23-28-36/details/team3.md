@@ -40,8 +40,8 @@
 | 32 | 331 | Gracie |
 | 33 | 320 | Or Reznitsky |
 | 34 | 308 | Natasha Jones |
-| 35 | 307 | Peggi Charon |
-| 36 | 307 | Kristie |
+| 35 | 307 | Kristie |
+| 36 | 307 | Peggi Charon |
 | 37 | 300 | Sherika C. McDaniels |
 | 38 | 295 | Clever Roll |
 | 39 | 291 | Laura Melton |
