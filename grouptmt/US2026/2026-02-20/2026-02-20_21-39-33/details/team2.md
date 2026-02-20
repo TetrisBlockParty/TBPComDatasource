@@ -53,16 +53,16 @@
 | 45 | 382 | Sparkles |
 | 46 | 380 | Joshua Mandel |
 | 47 | 378 | Thomas Hedrick |
-| 48 | 374 | Sam |
-| 49 | 374 | Sommer Shope |
+| 48 | 374 | Sommer Shope |
+| 49 | 374 | Sam |
 | 50 | 369 | Calandra Shaya Robinson |
 | 51 | 366 | KellyDyan |
 | 52 | 363 | William Meussner |
 | 53 | 360 | Becky Weeks-Garry |
 | 54 | 355 | Tommy Tha Boss Gunz |
 | 55 | 353 | Charie Holland |
-| 56 | 345 | Rhianna DiLorenzo |
-| 57 | 345 | Alyssaaelena |
+| 56 | 345 | Alyssaaelena |
+| 57 | 345 | Rhianna DiLorenzo |
 | 58 | 343 | Jennifer Peachey |
 | 59 | 342 | Tracy Wise |
 | 60 | 332 | Sarah Freitas |
