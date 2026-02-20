@@ -77,8 +77,8 @@
 | 69 | 285 | June E Hanson |
 | 70 | 283 | Poppy Snap |
 | 71 | 281 | Robert Diddle |
-| 72 | 280 | Christina Lewis-Vickers |
-| 73 | 280 | Kimberly Schall |
+| 72 | 280 | Kimberly Schall |
+| 73 | 280 | Christina Lewis-Vickers |
 | 74 | 271 | Ann Marie Davis |
 | 75 | 270 | Juanita Lyons |
 | 76 | 268 | Vanessa Moreno |

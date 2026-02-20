@@ -26,8 +26,8 @@
 | 18 | 176 | Jazzy Framezone |
 | 19 | 172 | Dee Perry |
 | 20 | 169 | Erez Yosef |
-| 21 | 151 | Hyper |
-| 22 | 151 | Standia Civil |
+| 21 | 151 | Standia Civil |
+| 22 | 151 | Hyper |
 | 23 | 146 | Abbey Crespo |
 | 24 | 144 | Tana |
 | 25 | 144 | Jessie Lynn |
