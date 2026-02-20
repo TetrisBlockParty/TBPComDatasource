@@ -71,8 +71,8 @@
 | 63 | 352 | E_Money04 |
 | 64 | 351 | Giggy Blocker |
 | 65 | 346 | Gene Mills |
-| 66 | 345 | Alyssaaelena |
-| 67 | 345 | Rhianna DiLorenzo |
+| 66 | 345 | Rhianna DiLorenzo |
+| 67 | 345 | Alyssaaelena |
 | 68 | 343 | Jennifer Peachey |
 | 69 | 342 | Tracy Wise |
 | 70 | 341 | Sam McKenzie |

@@ -41,8 +41,8 @@
 | 33 | 307 | Kristie |
 | 34 | 307 | Peggi Charon |
 | 35 | 300 | Sherika C. McDaniels |
-| 36 | 291 | Laura Melton |
-| 37 | 291 | Tasha Schriewer |
+| 36 | 291 | Tasha Schriewer |
+| 37 | 291 | Laura Melton |
 | 38 | 272 | Mahman |
 | 39 | 244 | Clever Roll |
 | 40 | 240 | Ebony West-Cundiff |
@@ -97,8 +97,8 @@
 | 89 | 98 | Jocelyne Baca |
 | 90 | 98 | Ashley Tookes |
 | 91 | 96 | Boldy Corner |
-| 92 | 95 | Brooke Bauer |
-| 93 | 95 | Demetrious Shaw Sr. |
+| 92 | 95 | Demetrious Shaw Sr. |
+| 93 | 95 | Brooke Bauer |
 | 94 | 90 | Tiffany Kaupang |
 | 95 | 89 | Annie Déè |
 | 96 | 89 | Skinny Baldez |
@@ -106,9 +106,9 @@
 | 98 | 88 | Martin Bernier |
 | 99 | 87 | Sherry Ogden |
 | 100 | 86 | Dan Rob |
-| 101 | 85 | Delilah belle |
-| 102 | 85 | Shari Garber |
-| 103 | 85 | Danielle Cutler |
+| 101 | 85 | Shari Garber |
+| 102 | 85 | Danielle Cutler |
+| 103 | 85 | Delilah belle |
 | 104 | 84 | Eon Harris |
 | 105 | 83 | Nichol Graham |
 | 106 | 82 | Clever Clearbuilder |
