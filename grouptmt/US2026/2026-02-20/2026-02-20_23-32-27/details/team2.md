@@ -103,8 +103,8 @@
 | 95 | 283 | Poppy Snap |
 | 96 | 282 | Jerilyn Andrina |
 | 97 | 281 | Robert Diddle |
-| 98 | 280 | Christina Lewis-Vickers |
-| 99 | 280 | Kimberly Schall |
+| 98 | 280 | Kimberly Schall |
+| 99 | 280 | Christina Lewis-Vickers |
 | 100 | 273 | Venechia Berry |
 | 101 | 271 | Ann Marie Davis |
 | 102 | 268 | Vanessa Moreno |
@@ -185,8 +185,8 @@
 | 177 | 179 | Desiree Harris Rosch |
 | 178 | 177 | Osun Anuket Esu |
 | 179 | 177 | John |
-| 180 | 176 | Missie Lawson Gebhardt |
-| 181 | 176 | Besma Ao |
+| 180 | 176 | Besma Ao |
+| 181 | 176 | Missie Lawson Gebhardt |
 | 182 | 175 | Tina Blessed Cage |
 | 183 | 173 | Macy Williams |
 | 184 | 170 | Darlene Bowman |

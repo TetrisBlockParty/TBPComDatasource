@@ -18,8 +18,8 @@
 | 10 | 399 | Drew Magnus |
 | 11 | 371 | Colena Davenport |
 | 12 | 294 | Jacqueline Williams |
-| 13 | 281 | Kathi Snustad |
-| 14 | 281 | Nancy Green |
+| 13 | 281 | Nancy Green |
+| 14 | 281 | Kathi Snustad |
 | 15 | 263 | Andrea Dañielle Ortiz |
 | 16 | 234 | Tipsy Column |
 | 17 | 215 | Sarah Roberts |
