@@ -68,8 +68,8 @@
 | 60 | 68 | Alyssa Papen |
 | 61 | 68 | LS |
 | 62 | 67 | Zesty Twistbuilder |
-| 63 | 65 | Angela Geist Jusinski |
-| 64 | 65 | YoMomma |
+| 63 | 65 | YoMomma |
+| 64 | 65 | Angela Geist Jusinski |
 | 65 | 64 | Marcus Todd |
 | 66 | 64 | Damn Libra |
 | 67 | 61 | Jenna Ingersoll |

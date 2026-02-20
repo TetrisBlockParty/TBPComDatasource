@@ -205,8 +205,8 @@
 | 197 | 42 | Loony Dashgrid |
 | 198 | 42 | Adriana M. Del Valle |
 | 199 | 41 | Rania Zaqout |
-| 200 | 40 | Lauretta Archer Norman |
-| 201 | 40 | Will Miller |
+| 200 | 40 | Will Miller |
+| 201 | 40 | Lauretta Archer Norman |
 | 202 | 40 | Bethany Baughman |
 | 203 | 39 | Gloria Holmes |
 | 204 | 39 | PerkyCascade |

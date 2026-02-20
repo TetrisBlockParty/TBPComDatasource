@@ -92,8 +92,8 @@
 | 84 | 60 | BigWeenie69 |
 | 85 | 60 | Karin Gillen |
 | 86 | 59 | Mel Hogan |
-| 87 | 58 | Jason Cox |
-| 88 | 58 | Carolyn Smith |
+| 87 | 58 | Carolyn Smith |
+| 88 | 58 | Jason Cox |
 | 89 | 56 | Lehrin Maria |
 | 90 | 55 | Sweet Baker |
 | 91 | 53 | J.D3D.D |

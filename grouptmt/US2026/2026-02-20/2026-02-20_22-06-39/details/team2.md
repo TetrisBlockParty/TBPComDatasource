@@ -83,8 +83,8 @@
 | 75 | 285 | June E Hanson |
 | 76 | 283 | Poppy Snap |
 | 77 | 281 | Robert Diddle |
-| 78 | 280 | Kimberly Schall |
-| 79 | 280 | Christina Lewis-Vickers |
+| 78 | 280 | Christina Lewis-Vickers |
+| 79 | 280 | Kimberly Schall |
 | 80 | 276 | Brittney Jean |
 | 81 | 271 | Ann Marie Davis |
 | 82 | 270 | Juanita Lyons |
@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | Joseph Musick |
-| 97 | 253 | RdRydnHd |
+| 96 | 253 | RdRydnHd |
+| 97 | 253 | Joseph Musick |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
@@ -157,8 +157,8 @@
 | 149 | 165 | Lively Catcher |
 | 150 | 163 | Dedra Steward |
 | 151 | 162 | Nick Jensen |
-| 152 | 161 | Priscilla Noel |
-| 153 | 161 | Mema |
+| 152 | 161 | Mema |
+| 153 | 161 | Priscilla Noel |
 | 154 | 160 | Rhonda Petro |
 | 155 | 160 | BYM4L |
 | 156 | 160 | Cynthia Ward |
@@ -217,13 +217,13 @@
 | 209 | 122 | Scott Treadway |
 | 210 | 121 | Jessicah Myers |
 | 211 | 121 | Jessica Szymecki |
-| 212 | 120 | Howard Forest |
-| 213 | 120 | Michael Tate |
-| 214 | 120 | Samantha Williams-Bittner |
-| 215 | 120 | Alexis Richardson |
+| 212 | 120 | Alexis Richardson |
+| 213 | 120 | Samantha Williams-Bittner |
+| 214 | 120 | Michael Tate |
+| 215 | 120 | Howard Forest |
 | 216 | 119 | RavensBeard |
-| 217 | 119 | Perry Hubert |
-| 218 | 119 | Caitlin Johnson |
+| 217 | 119 | Caitlin Johnson |
+| 218 | 119 | Perry Hubert |
 | 219 | 119 | Alexandra Reese |
 | 220 | 118 | Deana |
 | 221 | 117 | Cody Kelsey |
