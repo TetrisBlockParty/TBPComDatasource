@@ -281,8 +281,8 @@
 | 273 | 120 | Cheeky Brickmatch |
 | 274 | 119 | Alison Emmons |
 | 275 | 119 | RavensBeard |
-| 276 | 119 | Mandi Douglas Hilt |
-| 277 | 119 | Perry Hubert |
+| 276 | 119 | Perry Hubert |
+| 277 | 119 | Mandi Douglas Hilt |
 | 278 | 118 | Poppy Gridder |
 | 279 | 118 | Amy Sayers |
 | 280 | 117 | Cody Kelsey |
