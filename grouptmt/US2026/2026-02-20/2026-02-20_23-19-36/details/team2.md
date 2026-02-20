@@ -87,8 +87,8 @@
 | 79 | 339 | MrsCandyfine As Wine Truss |
 | 80 | 337 | Alisha Peoples |
 | 81 | 328 | Marie Boyd Faulk |
-| 82 | 323 | Danielle Simmons |
-| 83 | 323 | Daphne Jordan |
+| 82 | 323 | Daphne Jordan |
+| 83 | 323 | Danielle Simmons |
 | 84 | 320 | Kimberly Randesi |
 | 85 | 317 | bru |
 | 86 | 297 | James Zaragoza |
@@ -226,8 +226,8 @@
 | 218 | 141 | Shorty |
 | 219 | 141 | Kyle LeRoy Harris |
 | 220 | 141 | Markisha Poyndexter |
-| 221 | 140 | Peter Palestino |
-| 222 | 140 | Anthony Huebel |
+| 221 | 140 | Anthony Huebel |
+| 222 | 140 | Peter Palestino |
 | 223 | 139 | Noel Tarmy |
 | 224 | 139 | Alexandra Reese |
 | 225 | 137 | Chummy Blockbuilder |
@@ -274,7 +274,7 @@
 | 266 | 119 | RavensBeard |
 | 267 | 119 | Perry Hubert |
 | 268 | 118 | Poppy Gridder |
-| 269 | 117 | Cody Kelsey |
+| 269 | 117 | Myleaha Holley |
 | 270 | 117 | Alyssa Dean |
 | 271 | 117 | Cody Kelsey |
 | 272 | 116 | Ty Quarles |
@@ -416,7 +416,7 @@
 | 408 | 81 | Kathryn Townsley |
 | 409 | 81 | ItsJennifer Neriss |
 | 410 | 81 | Leslie |
-| 411 | 81 | Kathryn Townsley |
+| 411 | 81 | Katelyn Fitzsimmons |
 | 412 | 81 | GgReignz |
 | 413 | 80 | Edward Scissorhand |
 | 414 | 80 | Snappy Block |

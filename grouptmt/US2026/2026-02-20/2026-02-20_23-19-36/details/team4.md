@@ -28,8 +28,8 @@
 | 20 | 148 | Alyssa Papen |
 | 21 | 141 | Edward White |
 | 22 | 137 | Jenna Ingersoll |
-| 23 | 133 | Alicia Bass |
-| 24 | 133 | Devinlee Brown |
+| 23 | 133 | Devinlee Brown |
+| 24 | 133 | Alicia Bass |
 | 25 | 130 | Casey Jeffcoat |
 | 26 | 129 | Samantha Peterson |
 | 27 | 128 | Robin Watters |

@@ -40,8 +40,8 @@
 | 32 | 331 | Gracie |
 | 33 | 320 | Or Reznitsky |
 | 34 | 308 | Natasha Jones |
-| 35 | 307 | Peggi Charon |
-| 36 | 307 | Kristie |
+| 35 | 307 | Kristie |
+| 36 | 307 | Peggi Charon |
 | 37 | 300 | Sherika C. McDaniels |
 | 38 | 295 | Clever Roll |
 | 39 | 291 | Laura Melton |
@@ -64,8 +64,8 @@
 | 56 | 170 | Nerdy Riseclear |
 | 57 | 154 | Danielle Mogg |
 | 58 | 152 | Shiny Zonebuilder |
-| 59 | 149 | Fallorina Susana |
-| 60 | 149 | Shannon Matthew Byers |
+| 59 | 149 | Shannon Matthew Byers |
+| 60 | 149 | Fallorina Susana |
 | 61 | 145 | Trisha Balmer |
 | 62 | 141 | Denita Mungro |
 | 63 | 135 | Danielle Cutler |

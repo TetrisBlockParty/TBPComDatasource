@@ -25,8 +25,8 @@
 | 17 | 215 | Sarah Roberts |
 | 18 | 197 | Jayme Sellers |
 | 19 | 196 | Elaine Elaine |
-| 20 | 193 | Lexuriuos Lifestlye |
-| 21 | 193 | Tdub |
+| 20 | 193 | Tdub |
+| 21 | 193 | Lexuriuos Lifestlye |
 | 22 | 190 | Sweetts |
 | 23 | 187 | Dee Perry |
 | 24 | 183 | Ly Phethmany |
@@ -61,8 +61,8 @@
 | 53 | 95 | Jodee Woods |
 | 54 | 95 | Jennifer Cates |
 | 55 | 94 | Bindi |
-| 56 | 93 | Ty Brown |
-| 57 | 93 | Uhog SF |
+| 56 | 93 | Uhog SF |
+| 57 | 93 | Ty Brown |
 | 58 | 93 | Ash Galvan |
 | 59 | 91 | COOL as Icer |
 | 60 | 91 | Spunky Piecebuilder |
@@ -72,13 +72,13 @@
 | 64 | 84 | Charla Pross-Fugleberg |
 | 65 | 83 | Death |
 | 66 | 82 | Melissa Lemmon |
-| 67 | 81 | Bob |
-| 68 | 81 | Garcia Bailey |
+| 67 | 81 | Garcia Bailey |
+| 68 | 81 | Bob |
 | 69 | 80 | Matt Cinelli |
 | 70 | 79 | Chris65 |
 | 71 | 78 | Carrie Beck Geartz |
-| 72 | 78 | TSwag |
-| 73 | 78 | Guest |
+| 72 | 78 | Guest |
+| 73 | 78 | TSwag |
 | 74 | 75 | Tyler L Hunt |
 | 75 | 73 | Witty Builderfit |
 | 76 | 72 | Tipsy Strikerpiece |
