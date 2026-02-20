@@ -39,8 +39,8 @@
 | 31 | 658 | Vistabrat |
 | 32 | 658 | Dreamy Blast |
 | 33 | 656 | Pacynthia Williams |
-| 34 | 648 | Rob Riggin |
-| 35 | 648 | Jill Stroehlein |
+| 34 | 648 | Jill Stroehlein |
+| 35 | 648 | Rob Riggin |
 | 36 | 615 | Vo'Landa Reels |
 | 37 | 600 | Cool Snapclear |
 | 38 | 567 | Anna Edwards |

@@ -104,8 +104,8 @@
 | 96 | 60 | Josie Kirt |
 | 97 | 60 | Tina Englert |
 | 98 | 59 | Mel Hogan |
-| 99 | 58 | Shiny Gridmatch |
-| 100 | 58 | Jason Cox |
+| 99 | 58 | Jason Cox |
+| 100 | 58 | Shiny Gridmatch |
 | 101 | 56 | Lehrin Maria |
 | 102 | 56 | Lis |
 | 103 | 55 | Sweet Baker |
