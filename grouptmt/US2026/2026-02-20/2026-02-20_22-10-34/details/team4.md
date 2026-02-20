@@ -23,8 +23,8 @@
 | 15 | 174 | Jamie Mann-Deichmann |
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
-| 18 | 133 | Devinlee Brown |
-| 19 | 133 | Alicia Bass |
+| 18 | 133 | Alicia Bass |
+| 19 | 133 | Devinlee Brown |
 | 20 | 130 | Casey Jeffcoat |
 | 21 | 129 | Samantha Peterson |
 | 22 | 128 | Robin Watters |
@@ -68,10 +68,10 @@
 | 60 | 68 | Sam Middleton |
 | 61 | 68 | LS |
 | 62 | 67 | Zesty Twistbuilder |
-| 63 | 65 | YoMomma |
-| 64 | 65 | Angela Geist Jusinski |
-| 65 | 64 | Marcus Todd |
-| 66 | 64 | Damn Libra |
+| 63 | 65 | Angela Geist Jusinski |
+| 64 | 65 | YoMomma |
+| 65 | 64 | Damn Libra |
+| 66 | 64 | Marcus Todd |
 | 67 | 62 | TinyLegoRose |
 | 68 | 61 | Jenna Ingersoll |
 | 69 | 61 | Alee Marie |

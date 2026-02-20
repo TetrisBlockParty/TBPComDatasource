@@ -85,12 +85,12 @@
 | 77 | 64 | Jessi Sauer |
 | 78 | 63 | Mitchel White |
 | 79 | 63 | Lincon |
-| 80 | 62 | Tofy |
-| 81 | 62 | Sarah Henniker |
-| 82 | 60 | Karin Gillen |
-| 83 | 60 | BigWeenie69 |
-| 84 | 60 | Susanna Guerry |
-| 85 | 60 | Tina Englert |
+| 80 | 62 | Sarah Henniker |
+| 81 | 62 | Tofy |
+| 82 | 60 | Susanna Guerry |
+| 83 | 60 | Tina Englert |
+| 84 | 60 | BigWeenie69 |
+| 85 | 60 | Karin Gillen |
 | 86 | 59 | Mel Hogan |
 | 87 | 58 | Jason Cox |
 | 88 | 58 | Carolyn Smith |
