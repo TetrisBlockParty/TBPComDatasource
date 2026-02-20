@@ -85,8 +85,8 @@
 | 77 | 126 | ren |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 122 | Emma |
-| 80 | 120 | Michael Latasha Gray |
-| 81 | 120 | Jessica |
+| 80 | 120 | Jessica |
+| 81 | 120 | Michael Latasha Gray |
 | 82 | 118 | Bea Miles |
 | 83 | 113 | Jennifer Alvey |
 | 84 | 111 | Joy Petroski |

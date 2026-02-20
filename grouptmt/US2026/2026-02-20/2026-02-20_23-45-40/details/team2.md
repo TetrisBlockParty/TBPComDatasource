@@ -94,8 +94,8 @@
 | 86 | 340 | Kimberly Randesi |
 | 87 | 337 | Alisha Peoples |
 | 88 | 328 | Marie Boyd Faulk |
-| 89 | 323 | Daphne Jordan |
-| 90 | 323 | Danielle Simmons |
+| 89 | 323 | Danielle Simmons |
+| 90 | 323 | Daphne Jordan |
 | 91 | 317 | Debra Williams |
 | 92 | 317 | bru |
 | 93 | 297 | James Zaragoza |

@@ -27,8 +27,8 @@
 | 19 | 201 | Zerin Graham |
 | 20 | 197 | Jayme Sellers |
 | 21 | 196 | Elaine Elaine |
-| 22 | 193 | Lexuriuos Lifestlye |
-| 23 | 193 | Tdub |
+| 22 | 193 | Tdub |
+| 23 | 193 | Lexuriuos Lifestlye |
 | 24 | 190 | Sweetts |
 | 25 | 187 | Dee Perry |
 | 26 | 183 | Ly Phethmany |
