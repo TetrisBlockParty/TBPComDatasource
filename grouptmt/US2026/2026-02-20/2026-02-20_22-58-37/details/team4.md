@@ -50,8 +50,8 @@
 | 42 | 91 | Gwendolyn Pitcairn |
 | 43 | 90 | Duck |
 | 44 | 88 | Jenna McGeorge |
-| 45 | 87 | Brandi Durig |
-| 46 | 87 | Jen Caldwell |
+| 45 | 87 | Jen Caldwell |
+| 46 | 87 | Brandi Durig |
 | 47 | 86 | amy |
 | 48 | 85 | Mimi |
 | 49 | 84 | Epic Curvetile |

@@ -30,8 +30,8 @@
 | 22 | 181 | Tdub |
 | 23 | 176 | Jazzy Framezone |
 | 24 | 169 | Erez Yosef |
-| 25 | 153 | Standia Civil |
-| 26 | 153 | Jayme Sellers |
+| 25 | 153 | Jayme Sellers |
+| 26 | 153 | Standia Civil |
 | 27 | 151 | Hyper |
 | 28 | 146 | Abbey Crespo |
 | 29 | 145 | Lachelle Dillon |
@@ -81,8 +81,8 @@
 | 73 | 75 | Tyler L Hunt |
 | 74 | 74 | Tavia |
 | 75 | 73 | Witty Builderfit |
-| 76 | 72 | Adryane Schnase |
-| 77 | 72 | Tipsy Strikerpiece |
+| 76 | 72 | Tipsy Strikerpiece |
+| 77 | 72 | Adryane Schnase |
 | 78 | 71 | Teddy Alexander |
 | 79 | 69 | Christina Torres |
 | 80 | 67 | Loony Fitzone |
