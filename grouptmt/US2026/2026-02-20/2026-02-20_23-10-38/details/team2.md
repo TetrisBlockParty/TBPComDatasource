@@ -106,8 +106,8 @@
 | 98 | 268 | Vanessa Moreno |
 | 99 | 266 | Joyce Johnson Vaughn |
 | 100 | 265 | Wuntayk |
-| 101 | 263 | Oscar Bernie |
-| 102 | 263 | Shiny Rollzone |
+| 101 | 263 | Shiny Rollzone |
+| 102 | 263 | Oscar Bernie |
 | 103 | 263 | Lonne Emade |
 | 104 | 261 | MrsClaudette Will'sIam Matthews |
 | 105 | 260 | Autumn Schaeffer |

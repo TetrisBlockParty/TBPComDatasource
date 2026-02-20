@@ -18,8 +18,8 @@
 | 10 | 399 | Drew Magnus |
 | 11 | 371 | Colena Davenport |
 | 12 | 294 | Jacqueline Williams |
-| 13 | 281 | Kathi Snustad |
-| 14 | 281 | Nancy Green |
+| 13 | 281 | Nancy Green |
+| 14 | 281 | Kathi Snustad |
 | 15 | 263 | Andrea Dañielle Ortiz |
 | 16 | 234 | Tipsy Column |
 | 17 | 215 | Sarah Roberts |
@@ -86,8 +86,8 @@
 | 78 | 71 | Teddy Alexander |
 | 79 | 69 | Christina Torres |
 | 80 | 67 | Loony Fitzone |
-| 81 | 66 | Archie Ware |
-| 82 | 66 | Giggly Builderline |
+| 81 | 66 | Giggly Builderline |
+| 82 | 66 | Archie Ware |
 | 83 | 65 | Trippy Redd |
 | 84 | 64 | Jessi Sauer |
 | 85 | 63 | Margo Wagner |
