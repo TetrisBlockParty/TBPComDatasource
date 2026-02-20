@@ -28,8 +28,8 @@
 | 20 | 176 | Jazzy Framezone |
 | 21 | 169 | Erez Yosef |
 | 22 | 165 | Tipsy Column |
-| 23 | 151 | Standia Civil |
-| 24 | 151 | Hyper |
+| 23 | 151 | Hyper |
+| 24 | 151 | Standia Civil |
 | 25 | 146 | Abbey Crespo |
 | 26 | 144 | Tana |
 | 27 | 144 | Tanya Carpenter-Reynolds |

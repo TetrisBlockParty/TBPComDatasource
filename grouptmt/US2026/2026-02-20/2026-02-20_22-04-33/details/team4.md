@@ -41,8 +41,8 @@
 | 33 | 109 | Brittney Orengo |
 | 34 | 108 | Mr. Party |
 | 35 | 107 | Denise Carlson |
-| 36 | 100 | Diana Houts |
-| 37 | 100 | Michelle Morris |
+| 36 | 100 | Michelle Morris |
+| 37 | 100 | Diana Houts |
 | 38 | 95 | Stephme310 |
 | 39 | 91 | Andria Lynn |
 | 40 | 90 | Duck |
@@ -77,7 +77,7 @@
 | 69 | 61 | Shauna Havard |
 | 70 | 60 | Girl |
 | 71 | 56 | Stephanie Jones |
-| 72 | 55 | RiahRose |
+| 72 | 55 | Chris Alexinas |
 | 73 | 55 | mini |
 | 74 | 55 | RiahRose |
 | 75 | 54 | Jennifer Perkins |
@@ -87,8 +87,8 @@
 | 79 | 53 | Jackson Karen |
 | 80 | 53 | Zany Twisterfit |
 | 81 | 52 | Allison Judith |
-| 82 | 51 | Bryan Hodgins |
-| 83 | 51 | Chaz Duncan |
+| 82 | 51 | Chaz Duncan |
+| 83 | 51 | Bryan Hodgins |
 | 84 | 50 | Richard-April Kice |
 | 85 | 50 | Nicole Silvers |
 | 86 | 50 | Brandon Crabbs |

@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | RdRydnHd |
-| 97 | 253 | Joseph Musick |
+| 96 | 253 | Joseph Musick |
+| 97 | 253 | RdRydnHd |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
