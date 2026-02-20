@@ -38,8 +38,8 @@
 | 30 | 112 | Chirpy Basepiece |
 | 31 | 110 | Courtney Cicoria |
 | 32 | 109 | Brittney Orengo |
-| 33 | 107 | Denise Carlson |
-| 34 | 107 | Mr. Party |
+| 33 | 107 | Mr. Party |
+| 34 | 107 | Denise Carlson |
 | 35 | 103 | Degenerate |
 | 36 | 100 | Diana Houts |
 | 37 | 95 | Michelle Morris |
@@ -140,7 +140,7 @@
 | 132 | 35 | JEan Price |
 | 133 | 34 | Shane Kalamata Platoon |
 | 134 | 33 | Speedy Wipeblock |
-| 135 | 32 | Tamika Starkey |
+| 135 | 32 | Wacky Shatterline |
 | 136 | 32 | Cranky Glidebuilder |
 | 137 | 32 | Lori Walker |
 | 138 | 32 | Tamika Starkey |

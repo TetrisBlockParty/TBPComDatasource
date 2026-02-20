@@ -27,8 +27,8 @@
 | 19 | 177 | Fancy Shuffler |
 | 20 | 176 | Jazzy Framezone |
 | 21 | 169 | Erez Yosef |
-| 22 | 151 | Hyper |
-| 23 | 151 | Standia Civil |
+| 22 | 151 | Standia Civil |
+| 23 | 151 | Hyper |
 | 24 | 146 | Abbey Crespo |
 | 25 | 144 | Tanya Carpenter-Reynolds |
 | 26 | 144 | Tana |
