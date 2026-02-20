@@ -70,16 +70,16 @@
 | 62 | 93 | Ash Galvan |
 | 63 | 91 | COOL as Icer |
 | 64 | 91 | Spunky Piecebuilder |
-| 65 | 90 | Madison Wicks |
-| 66 | 90 | comrade fish |
+| 65 | 90 | comrade fish |
+| 66 | 90 | Madison Wicks |
 | 67 | 87 | Jessi Sauer |
 | 68 | 85 | Ananda Mendez |
 | 69 | 84 | Charla Pross-Fugleberg |
 | 70 | 83 | Death |
 | 71 | 83 | Guest |
 | 72 | 82 | Melissa Lemmon |
-| 73 | 81 | Garcia Bailey |
-| 74 | 81 | Bob |
+| 73 | 81 | Bob |
+| 74 | 81 | Garcia Bailey |
 | 75 | 80 | Matt Cinelli |
 | 76 | 79 | Chris65 |
 | 77 | 79 | TSwag |

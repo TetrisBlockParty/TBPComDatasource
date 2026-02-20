@@ -51,11 +51,11 @@
 | 43 | 109 | Brittney Orengo |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
-| 46 | 100 | Andria Lynn |
+| 46 | 100 | Diana Houts |
 | 47 | 100 | Michelle Morris |
-| 48 | 100 | Diana Houts |
-| 49 | 98 | Stephme310 |
-| 50 | 98 | Duck |
+| 48 | 100 | Andria Lynn |
+| 49 | 98 | Duck |
+| 50 | 98 | Stephme310 |
 | 51 | 96 | Zappy Snaplink |
 | 52 | 88 | Jenna McGeorge |
 | 53 | 87 | Brandi Durig |
