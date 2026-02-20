@@ -76,12 +76,12 @@
 | 68 | 135 | Danielle Cutler |
 | 69 | 135 | Latoya Mayne |
 | 70 | 134 | DanceLuvLaugh |
-| 71 | 130 | Zippy Strikesnap |
-| 72 | 130 | Tessina Dewey-Mancino |
+| 71 | 130 | Tessina Dewey-Mancino |
+| 72 | 130 | Zippy Strikesnap |
 | 73 | 129 | Giddy Twistbuilder |
 | 74 | 128 | Angel Mendez |
-| 75 | 127 | mjl574 |
-| 76 | 127 | Dolores Falco |
+| 75 | 127 | Dolores Falco |
+| 76 | 127 | mjl574 |
 | 77 | 126 | ren |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 122 | Emma |
@@ -108,8 +108,8 @@
 | 100 | 98 | Ryan Williams |
 | 101 | 98 | Jocelyne Baca |
 | 102 | 96 | Boldy Corner |
-| 103 | 95 | Brooke Bauer |
-| 104 | 95 | Demetrious Shaw Sr. |
+| 103 | 95 | Demetrious Shaw Sr. |
+| 104 | 95 | Brooke Bauer |
 | 105 | 92 | Skinny Baldez |
 | 106 | 91 | Lys |
 | 107 | 91 | D3NO |
@@ -142,8 +142,8 @@
 | 134 | 75 | Janelle Goetz |
 | 135 | 75 | Patti Skiles |
 | 136 | 74 | Whitney Manuel |
-| 137 | 72 | Jess Reppert |
-| 138 | 72 | Christian Luna |
+| 137 | 72 | FuzzyNavel |
+| 138 | 72 | Jess Reppert |
 | 139 | 72 | Michael Nowogorski |
 | 140 | 72 | Christian Luna |
 | 141 | 70 | gremicx |

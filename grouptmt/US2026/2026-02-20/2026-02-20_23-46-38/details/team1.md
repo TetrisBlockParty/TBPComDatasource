@@ -61,8 +61,8 @@
 | 53 | 103 | Sharon Reynolds |
 | 54 | 100 | Frothy Pattern |
 | 55 | 98 | Flashy Rotator |
-| 56 | 95 | Jodee Woods |
-| 57 | 95 | Jennifer Cates |
+| 56 | 95 | Jennifer Cates |
+| 57 | 95 | Jodee Woods |
 | 58 | 94 | Bindi |
 | 59 | 93 | Uhog SF |
 | 60 | 93 | Adryane Schnase |
@@ -115,8 +115,8 @@
 | 107 | 58 | Shiny Gridmatch |
 | 108 | 58 | Jason Cox |
 | 109 | 57 | Larry Tilton |
-| 110 | 56 | Lis |
-| 111 | 56 | Lehrin Maria |
+| 110 | 56 | Lehrin Maria |
+| 111 | 56 | Lis |
 | 112 | 55 | Yvonne Marie |
 | 113 | 54 | Michelle |
 | 114 | 54 | Speedy Snapfall |

@@ -83,8 +83,8 @@
 | 75 | 71 | Kimberly Love |
 | 76 | 70 | Christina Black |
 | 77 | 70 | Valerie Roberts |
-| 78 | 68 | LS |
-| 79 | 68 | Sam Middleton |
+| 78 | 68 | Sam Middleton |
+| 79 | 68 | LS |
 | 80 | 65 | Angela Geist Jusinski |
 | 81 | 64 | Marcus Todd |
 | 82 | 64 | Damn Libra |

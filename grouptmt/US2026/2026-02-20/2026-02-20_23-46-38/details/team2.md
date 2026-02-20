@@ -58,8 +58,8 @@
 | 50 | 489 | Alisha |
 | 51 | 483 | CoolKat |
 | 52 | 470 | Ashley Collins |
-| 53 | 441 | MrsCandyfine As Wine Truss |
-| 54 | 441 | Priscilla Noel |
+| 53 | 441 | Priscilla Noel |
+| 54 | 441 | MrsCandyfine As Wine Truss |
 | 55 | 431 | Slip |
 | 56 | 426 | Kaylee McCafferty |
 | 57 | 418 | RdRydnHd |
@@ -232,8 +232,8 @@
 | 224 | 151 | D'Aaron Black |
 | 225 | 151 | Dizzy Zone |
 | 226 | 150 | Tiffney Wroten |
-| 227 | 148 | Brittany Radaszewski |
-| 228 | 148 | Cappin You |
+| 227 | 148 | Cappin You |
+| 228 | 148 | Brittany Radaszewski |
 | 229 | 148 | Shannon Byrd |
 | 230 | 145 | William Hughes |
 | 231 | 145 | Scott Rackley |
@@ -265,7 +265,7 @@
 | 257 | 129 | Angela Kummer |
 | 258 | 128 | Arwa Fatimah |
 | 259 | 128 | Melissa Kay Gibson |
-| 260 | 128 | Arwa Fatimah |
+| 260 | 128 | Angela Murgia-Owen |
 | 261 | 128 | Maddy Petersen |
 | 262 | 127 | Ellie Jonas |
 | 263 | 127 | Amy Ross |
