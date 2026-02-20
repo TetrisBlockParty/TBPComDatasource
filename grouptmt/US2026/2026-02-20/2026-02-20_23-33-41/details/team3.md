@@ -58,13 +58,13 @@
 | 50 | 192 | Jennifer Willis |
 | 51 | 187 | Speedy Bridger |
 | 52 | 184 | Jennie Beranek |
-| 53 | 180 | joclisa |
-| 54 | 180 | Crimson |
+| 53 | 180 | Crimson |
+| 54 | 180 | joclisa |
 | 55 | 179 | Daira Largen |
 | 56 | 170 | Nerdy Riseclear |
 | 57 | 166 | Danielle Mogg |
-| 58 | 152 | Shannon Matthew Byers |
-| 59 | 152 | Shiny Zonebuilder |
+| 58 | 152 | Shiny Zonebuilder |
+| 59 | 152 | Shannon Matthew Byers |
 | 60 | 149 | Fallorina Susana |
 | 61 | 146 | Shari Garber |
 | 62 | 145 | Trisha Balmer |
@@ -83,14 +83,14 @@
 | 75 | 126 | ren |
 | 76 | 125 | Stephanie Simpson |
 | 77 | 122 | Emma |
-| 78 | 120 | Michael Latasha Gray |
-| 79 | 120 | Jessica |
+| 78 | 120 | Jessica |
+| 79 | 120 | Michael Latasha Gray |
 | 80 | 118 | Bea Miles |
 | 81 | 113 | Jennifer Alvey |
 | 82 | 111 | Joy Petroski |
 | 83 | 110 | Stella |
-| 84 | 110 | Tiff Vs Tiffany |
-| 85 | 110 | Connie Mohler-Fair |
+| 84 | 110 | Connie Mohler-Fair |
+| 85 | 110 | Tiff Vs Tiffany |
 | 86 | 108 | Grams |
 | 87 | 107 | Bryan Byrd |
 | 88 | 105 | Hoppy Buildout |
@@ -173,8 +173,8 @@
 | 165 | 60 | Loony Slider |
 | 166 | 60 | Angie Harper |
 | 167 | 59 | Cary M. Fong |
-| 168 | 58 | David Kozen |
-| 169 | 58 | Erzulie |
+| 168 | 58 | Erzulie |
+| 169 | 58 | David Kozen |
 | 170 | 57 | Mana |
 | 171 | 56 | Bastian Campbell |
 | 172 | 56 | Heather De Vries Cobb |

@@ -85,8 +85,8 @@
 | 77 | 345 | Rhianna DiLorenzo |
 | 78 | 345 | Alyssaaelena |
 | 79 | 342 | Tracy Wise |
-| 80 | 341 | Sarah Freitas |
-| 81 | 341 | Sam McKenzie |
+| 80 | 341 | Sam McKenzie |
+| 81 | 341 | Sarah Freitas |
 | 82 | 340 | Kimberly Randesi |
 | 83 | 337 | Alisha Peoples |
 | 84 | 328 | Marie Boyd Faulk |
@@ -94,8 +94,8 @@
 | 86 | 323 | Daphne Jordan |
 | 87 | 317 | bru |
 | 88 | 297 | James Zaragoza |
-| 89 | 295 | Zany Clusterbuilder |
-| 90 | 295 | Diallo Sparkman |
+| 89 | 295 | Diallo Sparkman |
+| 90 | 295 | Zany Clusterbuilder |
 | 91 | 292 | Steve Grotto |
 | 92 | 286 | Juanita Lyons |
 | 93 | 285 | June E Hanson |
@@ -162,8 +162,8 @@
 | 154 | 200 | Adam Erikson |
 | 155 | 200 | Howard Forest |
 | 156 | 200 | Sarah Ridenour |
-| 157 | 199 | Gary Stash |
-| 158 | 199 | Ann Knutson Anderson |
+| 157 | 199 | Ann Knutson Anderson |
+| 158 | 199 | Gary Stash |
 | 159 | 198 | Richard Horton |
 | 160 | 198 | Julio A Laracuente |
 | 161 | 197 | Rosa Franklin |

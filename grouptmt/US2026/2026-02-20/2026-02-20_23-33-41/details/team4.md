@@ -27,8 +27,8 @@
 | 19 | 174 | Jamie Mann-Deichmann |
 | 20 | 168 | Anthony Magaraci |
 | 21 | 167 | Rachel Anne |
-| 22 | 165 | Dee Kay |
-| 23 | 165 | Koshin Abdirahman |
+| 22 | 165 | Koshin Abdirahman |
+| 23 | 165 | Dee Kay |
 | 24 | 153 | Lucille Truesdale |
 | 25 | 141 | Edward White |
 | 26 | 133 | Alicia Bass |
@@ -47,8 +47,8 @@
 | 39 | 112 | Chirpy Basepiece |
 | 40 | 111 | Denise Carlson |
 | 41 | 111 | Gwendolyn Pitcairn |
-| 42 | 109 | Epic Curvetile |
-| 43 | 109 | Brittney Orengo |
+| 42 | 109 | Brittney Orengo |
+| 43 | 109 | Epic Curvetile |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Michelle Morris |
@@ -68,14 +68,14 @@
 | 60 | 80 | Shelly Chandler |
 | 61 | 77 | Kim Hunt |
 | 62 | 76 | Kristin MacDonald |
-| 63 | 75 | Rosemary Foster |
-| 64 | 75 | Chair |
-| 65 | 75 | Avy Absol |
+| 63 | 75 | Avy Absol |
+| 64 | 75 | Rosemary Foster |
+| 65 | 75 | Chair |
 | 66 | 73 | Lauren Lamb |
-| 67 | 72 | Kesha Brady |
-| 68 | 72 | Joshua Cuellar |
-| 69 | 71 | Kimberly Love |
-| 70 | 71 | Zesty Twistbuilder |
+| 67 | 72 | Joshua Cuellar |
+| 68 | 72 | Kesha Brady |
+| 69 | 71 | Zesty Twistbuilder |
+| 70 | 71 | Kimberly Love |
 | 71 | 70 | Valerie Roberts |
 | 72 | 70 | Christina Black |
 | 73 | 69 | YoMomma |
