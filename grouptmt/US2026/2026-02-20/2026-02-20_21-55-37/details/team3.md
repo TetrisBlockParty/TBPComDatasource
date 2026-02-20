@@ -80,8 +80,8 @@
 | 72 | 101 | Mykal Burton |
 | 73 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 74 | 100 | Bobbi Moore |
-| 75 | 98 | Jocelyne Baca |
-| 76 | 98 | Ashley Tookes |
+| 75 | 98 | Ashley Tookes |
+| 76 | 98 | Jocelyne Baca |
 | 77 | 97 | Fredd Thomas |
 | 78 | 96 | Boldy Corner |
 | 79 | 95 | Brooke Bauer |

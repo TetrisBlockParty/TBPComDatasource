@@ -52,8 +52,8 @@
 | 44 | 98 | Flashy Rotator |
 | 45 | 95 | Jennifer Cates |
 | 46 | 94 | Bindi |
-| 47 | 93 | Uhog SF |
-| 48 | 93 | Ty Brown |
+| 47 | 93 | Ty Brown |
+| 48 | 93 | Uhog SF |
 | 49 | 91 | Spunky Piecebuilder |
 | 50 | 90 | Madison Wicks |
 | 51 | 90 | Ash Galvan |

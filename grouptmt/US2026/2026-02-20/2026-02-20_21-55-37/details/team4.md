@@ -21,8 +21,8 @@
 | 13 | 236 | Isabella Blanco |
 | 14 | 175 | Nope Young |
 | 15 | 167 | Rachel Anne |
-| 16 | 165 | Koshin Abdirahman |
-| 17 | 165 | Jamie Mann-Deichmann |
+| 16 | 165 | Jamie Mann-Deichmann |
+| 17 | 165 | Koshin Abdirahman |
 | 18 | 133 | Devinlee Brown |
 | 19 | 133 | Alicia Bass |
 | 20 | 130 | Casey Jeffcoat |
@@ -42,8 +42,8 @@
 | 34 | 107 | Denise Carlson |
 | 35 | 103 | Degenerate |
 | 36 | 100 | Diana Houts |
-| 37 | 95 | Michelle Morris |
-| 38 | 95 | Stephme310 |
+| 37 | 95 | Stephme310 |
+| 38 | 95 | Michelle Morris |
 | 39 | 91 | Andria Lynn |
 | 40 | 90 | Duck |
 | 41 | 89 | Gwendolyn Pitcairn |
@@ -69,8 +69,8 @@
 | 61 | 67 | Zesty Twistbuilder |
 | 62 | 67 | Kristin MacDonald |
 | 63 | 65 | YoMomma |
-| 64 | 64 | Marcus Todd |
-| 65 | 64 | Damn Libra |
+| 64 | 64 | Damn Libra |
+| 65 | 64 | Marcus Todd |
 | 66 | 61 | Shauna Havard |
 | 67 | 61 | Jenna Ingersoll |
 | 68 | 60 | Girl |
@@ -87,8 +87,8 @@
 | 79 | 53 | Julian Garcia |
 | 80 | 53 | Zany Twisterfit |
 | 81 | 52 | Allison Judith |
-| 82 | 51 | Chaz Duncan |
-| 83 | 51 | Bryan Hodgins |
+| 82 | 51 | Bryan Hodgins |
+| 83 | 51 | Chaz Duncan |
 | 84 | 50 | Richard-April Kice |
 | 85 | 49 | Lakesha Johnson |
 | 86 | 49 | Justin Hannigan |

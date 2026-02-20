@@ -128,14 +128,14 @@
 | 120 | 200 | Adam Erikson |
 | 121 | 200 | Sarah Ridenour |
 | 122 | 200 | Claire |
-| 123 | 200 | Sarah Ridenour |
-| 124 | 198 | Cheech Dta |
-| 125 | 198 | Richard Horton |
+| 123 | 200 | Tum |
+| 124 | 198 | Richard Horton |
+| 125 | 198 | Cheech Dta |
 | 126 | 197 | James Zaragoza |
 | 127 | 197 | Smashanator |
 | 128 | 196 | Gary Stash |
-| 129 | 194 | Tammy Allen |
-| 130 | 194 | Shameika Trail |
+| 129 | 194 | Shameika Trail |
+| 130 | 194 | Tammy Allen |
 | 131 | 190 | Mari Ac |
 | 132 | 189 | Sanaa Nounoussa |
 | 133 | 184 | Lindsey Leigh |
