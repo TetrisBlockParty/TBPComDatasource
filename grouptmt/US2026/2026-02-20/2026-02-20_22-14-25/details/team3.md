@@ -40,8 +40,8 @@
 | 32 | 307 | Peggi Charon |
 | 33 | 301 | Gracie |
 | 34 | 300 | Sherika C. McDaniels |
-| 35 | 291 | Laura Melton |
-| 36 | 291 | Tasha Schriewer |
+| 35 | 291 | Tasha Schriewer |
+| 36 | 291 | Laura Melton |
 | 37 | 272 | Mahman |
 | 38 | 240 | Ebony West-Cundiff |
 | 39 | 239 | Lush Buildout |
@@ -99,8 +99,8 @@
 | 91 | 87 | Sherry Ogden |
 | 92 | 85 | Delilah belle |
 | 93 | 84 | Tiffany Kaupang |
-| 94 | 84 | Eon Harris |
-| 95 | 84 | Skinny Baldez |
+| 94 | 84 | Skinny Baldez |
+| 95 | 84 | Eon Harris |
 | 96 | 83 | Nichol Graham |
 | 97 | 82 | Clever Clearbuilder |
 | 98 | 82 | Donna |
