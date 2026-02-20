@@ -40,8 +40,8 @@
 | 32 | 123 | Nugget |
 | 33 | 121 | Smiley Tiltbuilder |
 | 34 | 117 | Lauren Scott |
-| 35 | 116 | Sherri |
-| 36 | 116 | Courtney Cicoria |
+| 35 | 116 | Courtney Cicoria |
+| 36 | 116 | Sherri |
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
@@ -51,11 +51,11 @@
 | 43 | 109 | Epic Curvetile |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
-| 46 | 100 | Andria Lynn |
-| 47 | 100 | Michelle Morris |
-| 48 | 100 | Diana Houts |
-| 49 | 98 | Stephme310 |
-| 50 | 98 | Duck |
+| 46 | 100 | Michelle Morris |
+| 47 | 100 | Diana Houts |
+| 48 | 100 | Andria Lynn |
+| 49 | 98 | Duck |
+| 50 | 98 | Stephme310 |
 | 51 | 96 | Zappy Snaplink |
 | 52 | 88 | Jenna McGeorge |
 | 53 | 87 | Brandi Durig |
@@ -68,8 +68,8 @@
 | 60 | 80 | Shelly Chandler |
 | 61 | 77 | Kim Hunt |
 | 62 | 76 | Kristin MacDonald |
-| 63 | 75 | Rosemary Foster |
-| 64 | 75 | Avy Absol |
+| 63 | 75 | Avy Absol |
+| 64 | 75 | Rosemary Foster |
 | 65 | 75 | Chair |
 | 66 | 74 | Kimyatta Cavin |
 | 67 | 74 | YoMomma |
@@ -87,10 +87,10 @@
 | 79 | 65 | Angela Geist Jusinski |
 | 80 | 64 | Damn Libra |
 | 81 | 64 | Marcus Todd |
-| 82 | 61 | Alee Marie |
-| 83 | 61 | Shauna Havard |
-| 84 | 60 | Ahleek Mitchell |
-| 85 | 60 | Dustee Craddock-Harrison |
+| 82 | 61 | Shauna Havard |
+| 83 | 61 | Alee Marie |
+| 84 | 60 | Dustee Craddock-Harrison |
+| 85 | 60 | Ahleek Mitchell |
 | 86 | 59 | Joseph Pace |
 | 87 | 57 | Justin Hannigan |
 | 88 | 56 | Chastity Mitchell |

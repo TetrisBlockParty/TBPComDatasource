@@ -115,8 +115,8 @@
 | 107 | 268 | Vanessa Moreno |
 | 108 | 266 | Mighty Shatterfit |
 | 109 | 266 | Joyce Johnson Vaughn |
-| 110 | 265 | Joseph Musick |
-| 111 | 265 | Wuntayk |
+| 110 | 265 | Wuntayk |
+| 111 | 265 | Joseph Musick |
 | 112 | 264 | Lonne Emade |
 | 113 | 263 | Taylor Flowers |
 | 114 | 263 | Shiny Rollzone |

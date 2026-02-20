@@ -81,11 +81,11 @@
 | 73 | 81 | Bob |
 | 74 | 81 | Garcia Bailey |
 | 75 | 80 | Matt Cinelli |
-| 76 | 79 | TSwag |
-| 77 | 79 | Chris65 |
+| 76 | 79 | Chris65 |
+| 77 | 79 | TSwag |
 | 78 | 78 | Carrie Beck Geartz |
-| 79 | 75 | Tyler L Hunt |
-| 80 | 75 | pjbeta |
+| 79 | 75 | pjbeta |
+| 80 | 75 | Tyler L Hunt |
 | 81 | 73 | Witty Builderfit |
 | 82 | 72 | Tipsy Strikerpiece |
 | 83 | 71 | Teddy Alexander |
@@ -118,8 +118,8 @@
 | 110 | 56 | Lis |
 | 111 | 55 | Yvonne Marie |
 | 112 | 55 | Sweet Baker |
-| 113 | 54 | Bhelle Sumile |
-| 114 | 54 | Speedy Snapfall |
+| 113 | 54 | Speedy Snapfall |
+| 114 | 54 | Bhelle Sumile |
 | 115 | 54 | Ariel Whittington |
 | 116 | 53 | J.D3D.D |
 | 117 | 53 | Virginia Gray Floyd |

@@ -79,8 +79,8 @@
 | 71 | 130 | Zippy Strikesnap |
 | 72 | 129 | Giddy Twistbuilder |
 | 73 | 128 | Angel Mendez |
-| 74 | 127 | mjl574 |
-| 75 | 127 | Dolores Falco |
+| 74 | 127 | Dolores Falco |
+| 75 | 127 | mjl574 |
 | 76 | 126 | ren |
 | 77 | 125 | Stephanie Simpson |
 | 78 | 122 | Emma |
