@@ -18,15 +18,15 @@
 | 10 | 399 | Drew Magnus |
 | 11 | 371 | Colena Davenport |
 | 12 | 294 | Jacqueline Williams |
-| 13 | 281 | Nancy Green |
-| 14 | 281 | Kathi Snustad |
+| 13 | 281 | Kathi Snustad |
+| 14 | 281 | Nancy Green |
 | 15 | 263 | Andrea Dañielle Ortiz |
 | 16 | 234 | Tipsy Column |
 | 17 | 215 | Sarah Roberts |
 | 18 | 197 | Jayme Sellers |
 | 19 | 196 | Elaine Elaine |
-| 20 | 193 | Lexuriuos Lifestlye |
-| 21 | 193 | Tdub |
+| 20 | 193 | Tdub |
+| 21 | 193 | Lexuriuos Lifestlye |
 | 22 | 190 | Sweetts |
 | 23 | 187 | Dee Perry |
 | 24 | 183 | Ly Phethmany |

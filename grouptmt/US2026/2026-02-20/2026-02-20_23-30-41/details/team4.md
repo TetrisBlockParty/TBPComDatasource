@@ -24,15 +24,15 @@
 | 16 | 190 | Nope Young |
 | 17 | 177 | Dustin Robert |
 | 18 | 174 | Jamie Mann-Deichmann |
-| 19 | 168 | Alyssa Papen |
-| 20 | 168 | Anthony Magaraci |
+| 19 | 168 | Anthony Magaraci |
+| 20 | 168 | Alyssa Papen |
 | 21 | 167 | Rachel Anne |
 | 22 | 165 | Koshin Abdirahman |
 | 23 | 165 | Dee Kay |
 | 24 | 153 | Lucille Truesdale |
 | 25 | 141 | Edward White |
-| 26 | 133 | Alicia Bass |
-| 27 | 133 | Devinlee Brown |
+| 26 | 133 | Devinlee Brown |
+| 27 | 133 | Alicia Bass |
 | 28 | 130 | Casey Jeffcoat |
 | 29 | 129 | Samantha Peterson |
 | 30 | 128 | Robin Watters |
@@ -76,12 +76,12 @@
 | 68 | 72 | Joshua Cuellar |
 | 69 | 71 | Kimberly Love |
 | 70 | 71 | Zesty Twistbuilder |
-| 71 | 70 | Christina Black |
-| 72 | 70 | Valerie Roberts |
-| 73 | 69 | YoMomma |
-| 74 | 69 | Kimyatta Cavin |
-| 75 | 68 | LS |
-| 76 | 68 | Sam Middleton |
+| 71 | 70 | Valerie Roberts |
+| 72 | 70 | Christina Black |
+| 73 | 69 | Kimyatta Cavin |
+| 74 | 69 | YoMomma |
+| 75 | 68 | Sam Middleton |
+| 76 | 68 | LS |
 | 77 | 67 | Girl |
 | 78 | 65 | Angela Geist Jusinski |
 | 79 | 64 | Damn Libra |
