@@ -49,8 +49,8 @@
 | 41 | 405 | Samantha Jo |
 | 42 | 391 | Chilly Bridgepiece |
 | 43 | 390 | Dustin Rains |
-| 44 | 382 | CoolKat |
-| 45 | 382 | Sparkles |
+| 44 | 382 | Sparkles |
+| 45 | 382 | CoolKat |
 | 46 | 380 | Joshua Mandel |
 | 47 | 378 | Thomas Hedrick |
 | 48 | 374 | Sommer Shope |

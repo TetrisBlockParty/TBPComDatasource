@@ -65,8 +65,8 @@
 | 57 | 120 | Zippy Strikesnap |
 | 58 | 120 | Michael Latasha Gray |
 | 59 | 119 | Emma |
-| 60 | 118 | Bea Miles |
-| 61 | 118 | Trezure Gonzalez |
+| 60 | 118 | Trezure Gonzalez |
+| 61 | 118 | Bea Miles |
 | 62 | 117 | Jessica |
 | 63 | 113 | Jennifer Alvey |
 | 64 | 112 | MissTaylor |
@@ -106,7 +106,7 @@
 | 98 | 76 | Jessica Bechler |
 | 99 | 75 | Janelle Goetz |
 | 100 | 74 | Clever Roll |
-| 101 | 72 | FuzzyNavel |
+| 101 | 72 | Melissa Orth Hunter |
 | 102 | 72 | Ryan Williams |
 | 103 | 72 | FuzzyNavel |
 | 104 | 72 | Christian Luna |

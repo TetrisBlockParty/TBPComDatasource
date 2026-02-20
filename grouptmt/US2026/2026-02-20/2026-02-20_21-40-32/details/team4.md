@@ -68,11 +68,11 @@
 | 60 | 66 | Avy Absol |
 | 61 | 64 | Damn Libra |
 | 62 | 64 | Marcus Todd |
-| 63 | 61 | Shauna Havard |
-| 64 | 61 | Jenna Ingersoll |
+| 63 | 61 | Jenna Ingersoll |
+| 64 | 61 | Shauna Havard |
 | 65 | 60 | Girl |
-| 66 | 57 | Angela Geist Jusinski |
-| 67 | 57 | Mimi |
+| 66 | 57 | Mimi |
+| 67 | 57 | Angela Geist Jusinski |
 | 68 | 56 | Stephanie Jones |
 | 69 | 55 | mini |
 | 70 | 55 | Chris Alexinas |

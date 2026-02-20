@@ -80,9 +80,9 @@
 | 72 | 66 | Todd Welch |
 | 73 | 64 | Jessi Sauer |
 | 74 | 63 | Mitchel White |
-| 75 | 62 | Sarah Henniker |
-| 76 | 62 | Tofy |
-| 77 | 60 | BigWeenie69 |
+| 75 | 62 | Tofy |
+| 76 | 62 | Sarah Henniker |
+| 77 | 60 | Susanna Guerry |
 | 78 | 60 | Tina Englert |
 | 79 | 60 | BigWeenie69 |
 | 80 | 59 | Marianne Louise West |
