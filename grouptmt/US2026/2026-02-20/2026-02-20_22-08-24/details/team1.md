@@ -71,10 +71,10 @@
 | 63 | 78 | Carrie Beck Geartz |
 | 64 | 78 | Guest |
 | 65 | 77 | Irual Hctrab |
-| 66 | 75 | Tyler L Hunt |
-| 67 | 75 | TSwag |
-| 68 | 72 | Adryane Schnase |
-| 69 | 72 | Tipsy Strikerpiece |
+| 66 | 75 | TSwag |
+| 67 | 75 | Tyler L Hunt |
+| 68 | 72 | Tipsy Strikerpiece |
+| 69 | 72 | Adryane Schnase |
 | 70 | 71 | Teddy Alexander |
 | 71 | 69 | Christina Torres |
 | 72 | 67 | Loony Fitzone |

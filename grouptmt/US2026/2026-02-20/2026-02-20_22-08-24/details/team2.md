@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Rhianna DiLorenzo |
-| 64 | 345 | Alyssaaelena |
+| 63 | 345 | Alyssaaelena |
+| 64 | 345 | Rhianna DiLorenzo |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 337 | Alisha Peoples |
