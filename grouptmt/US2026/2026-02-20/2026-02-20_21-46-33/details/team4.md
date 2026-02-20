@@ -16,8 +16,8 @@
 | 8 | 299 | Isabel Aguilar |
 | 9 | 277 | KJ Pool |
 | 10 | 268 | HastyGrabber |
-| 11 | 256 | Carolyn Wallace |
-| 12 | 256 | Brittney Griggs |
+| 11 | 256 | Brittney Griggs |
+| 12 | 256 | Carolyn Wallace |
 | 13 | 236 | Isabella Blanco |
 | 14 | 175 | Nope Young |
 | 15 | 167 | Rachel Anne |

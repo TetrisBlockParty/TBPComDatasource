@@ -86,12 +86,12 @@
 | 78 | 270 | Juanita Lyons |
 | 79 | 268 | Vanessa Moreno |
 | 80 | 265 | Wuntayk |
-| 81 | 263 | Shiny Rollzone |
-| 82 | 263 | Oscar Bernie |
+| 81 | 263 | Oscar Bernie |
+| 82 | 263 | Shiny Rollzone |
 | 83 | 262 | E_Money04 |
 | 84 | 261 | MrsClaudette Will'sIam Matthews |
-| 85 | 259 | Autumn Schaeffer |
-| 86 | 259 | Melissa Holsinger |
+| 85 | 259 | Melissa Holsinger |
+| 86 | 259 | Autumn Schaeffer |
 | 87 | 257 | Alex Hill |
 | 88 | 255 | Santana Miyagi |
 | 89 | 254 | Libby Hicks |

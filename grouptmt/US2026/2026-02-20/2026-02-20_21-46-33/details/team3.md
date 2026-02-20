@@ -62,8 +62,8 @@
 | 54 | 127 | mjl574 |
 | 55 | 126 | Dolores Falco |
 | 56 | 125 | Stephanie Simpson |
-| 57 | 120 | Michael Latasha Gray |
-| 58 | 120 | Zippy Strikesnap |
+| 57 | 120 | Zippy Strikesnap |
+| 58 | 120 | Michael Latasha Gray |
 | 59 | 119 | Emma |
 | 60 | 118 | Bea Miles |
 | 61 | 118 | Trezure Gonzalez |
@@ -91,8 +91,8 @@
 | 83 | 84 | Eon Harris |
 | 84 | 84 | Skinny Baldez |
 | 85 | 83 | Nichol Graham |
-| 86 | 82 | Clever Clearbuilder |
-| 87 | 82 | Donna |
+| 86 | 82 | Donna |
+| 87 | 82 | Clever Clearbuilder |
 | 88 | 81 | Danielle Becker |
 | 89 | 80 | Danielle Mogg |
 | 90 | 80 | Chris Bell |
