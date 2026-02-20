@@ -92,8 +92,8 @@
 | 84 | 98 | Ryan Williams |
 | 85 | 97 | Fredd Thomas |
 | 86 | 96 | Boldy Corner |
-| 87 | 95 | Brooke Bauer |
-| 88 | 95 | Demetrious Shaw Sr. |
+| 87 | 95 | Demetrious Shaw Sr. |
+| 88 | 95 | Brooke Bauer |
 | 89 | 90 | Tiffany Kaupang |
 | 90 | 90 | Fancy Slam |
 | 91 | 89 | Annie Déè |

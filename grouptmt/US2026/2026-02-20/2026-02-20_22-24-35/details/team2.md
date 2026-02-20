@@ -41,8 +41,8 @@
 | 33 | 600 | Cool Snapclear |
 | 34 | 567 | Anna Edwards |
 | 35 | 528 | Melissa Lanteigne |
-| 36 | 518 | Pacynthia Williams |
-| 37 | 518 | Sean Dugar |
+| 36 | 518 | Sean Dugar |
+| 37 | 518 | Pacynthia Williams |
 | 38 | 515 | Real Ri |
 | 39 | 509 | Kelli Wells |
 | 40 | 496 | Shannon Joslin |
@@ -91,8 +91,8 @@
 | 83 | 270 | Juanita Lyons |
 | 84 | 268 | Vanessa Moreno |
 | 85 | 265 | Wuntayk |
-| 86 | 263 | Oscar Bernie |
-| 87 | 263 | Shiny Rollzone |
+| 86 | 263 | Shiny Rollzone |
+| 87 | 263 | Oscar Bernie |
 | 88 | 261 | MrsClaudette Will'sIam Matthews |
 | 89 | 260 | Autumn Schaeffer |
 | 90 | 259 | Melissa Holsinger |
@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | Joseph Musick |
-| 97 | 253 | RdRydnHd |
+| 96 | 253 | RdRydnHd |
+| 97 | 253 | Joseph Musick |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
@@ -156,9 +156,9 @@
 | 148 | 175 | Tina Blessed Cage |
 | 149 | 175 | Ann Knutson Anderson |
 | 150 | 173 | Macy Williams |
-| 151 | 167 | Diane Chenevert Shoemaker |
-| 152 | 167 | Fi Ne |
-| 153 | 167 | Rebecca Doughman |
+| 151 | 167 | Rebecca Doughman |
+| 152 | 167 | Diane Chenevert Shoemaker |
+| 153 | 167 | Fi Ne |
 | 154 | 166 | Taryece Gause |
 | 155 | 166 | Jessica Kaye DeAguero |
 | 156 | 165 | Lively Catcher |
@@ -331,7 +331,7 @@
 | 323 | 92 | Poppy Snapper |
 | 324 | 91 | Mystique89 |
 | 325 | 91 | Snappy Slamdrop |
-| 326 | 90 | Hong Tang |
+| 326 | 90 | Diona Burns |
 | 327 | 90 | Cheery Matchzone |
 | 328 | 90 | Hong Tang |
 | 329 | 90 | Fae-Bulous |
