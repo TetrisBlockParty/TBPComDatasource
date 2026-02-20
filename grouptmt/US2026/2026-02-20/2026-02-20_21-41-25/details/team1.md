@@ -26,8 +26,8 @@
 | 18 | 176 | Jazzy Framezone |
 | 19 | 172 | Dee Perry |
 | 20 | 169 | Erez Yosef |
-| 21 | 151 | Hyper |
-| 22 | 151 | Standia Civil |
+| 21 | 151 | Standia Civil |
+| 22 | 151 | Hyper |
 | 23 | 146 | Abbey Crespo |
 | 24 | 144 | Tana |
 | 25 | 144 | Jessie Lynn |
@@ -84,7 +84,7 @@
 | 76 | 62 | Tofy |
 | 77 | 60 | BigWeenie69 |
 | 78 | 60 | Tina Englert |
-| 79 | 60 | BigWeenie69 |
+| 79 | 60 | Susanna Guerry |
 | 80 | 59 | Marianne Louise West |
 | 81 | 59 | Mel Hogan |
 | 82 | 58 | Carolyn Smith |
@@ -98,12 +98,12 @@
 | 90 | 51 | Lis |
 | 91 | 51 | Tipsy Riseclear |
 | 92 | 51 | Danielle Mae |
-| 93 | 50 | Daring Fitclear |
-| 94 | 50 | Lavon Usher |
+| 93 | 50 | Lavon Usher |
+| 94 | 50 | Daring Fitclear |
 | 95 | 49 | Nikki Fridley |
 | 96 | 49 | Jennifer Chilton-Metlock |
-| 97 | 48 | Lincon |
-| 98 | 48 | Tami Luce Martin |
+| 97 | 48 | TristansDad |
+| 98 | 48 | Lincon |
 | 99 | 48 | Chuck Gannon |
 | 100 | 48 | MamaB24 |
 | 101 | 48 | Dino |
@@ -169,10 +169,10 @@
 | 161 | 30 | Lacey Breanna Smith |
 | 162 | 30 | Pamela Elliott |
 | 163 | 30 | Desiree Deschaine Havee |
-| 164 | 29 | Jessie |
+| 164 | 29 | Connie Balentine |
 | 165 | 29 | Amie Fields |
 | 166 | 29 | Larry Tilton |
-| 167 | 29 | Connie Balentine |
+| 167 | 29 | Jason Jones |
 | 168 | 29 | Purple |
 | 169 | 29 | Anthony Ray |
 | 170 | 29 | Jessie |

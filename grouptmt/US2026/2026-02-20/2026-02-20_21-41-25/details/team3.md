@@ -81,11 +81,11 @@
 | 73 | 100 | Bobbi Moore |
 | 74 | 98 | Ashley Tookes |
 | 75 | 97 | Fredd Thomas |
-| 76 | 95 | Brooke Bauer |
-| 77 | 95 | Demetrious Shaw Sr. |
+| 76 | 95 | Demetrious Shaw Sr. |
+| 77 | 95 | Brooke Bauer |
 | 78 | 93 | Boldy Corner |
-| 79 | 89 | Hyper Bridger |
-| 80 | 89 | Annie Déè |
+| 79 | 89 | Annie Déè |
+| 80 | 89 | Hyper Bridger |
 | 81 | 88 | Martin Bernier |
 | 82 | 85 | Delilah belle |
 | 83 | 84 | Eon Harris |
