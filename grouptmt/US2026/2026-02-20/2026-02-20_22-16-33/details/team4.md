@@ -44,8 +44,8 @@
 | 36 | 100 | Diana Houts |
 | 37 | 100 | Michelle Morris |
 | 38 | 95 | Stephme310 |
-| 39 | 91 | Gwendolyn Pitcairn |
-| 40 | 91 | Andria Lynn |
+| 39 | 91 | Andria Lynn |
+| 40 | 91 | Gwendolyn Pitcairn |
 | 41 | 90 | Duck |
 | 42 | 88 | Jenna McGeorge |
 | 43 | 87 | Jen Caldwell |
@@ -62,7 +62,7 @@
 | 54 | 73 | Lauren Lamb |
 | 55 | 72 | Kesha Brady |
 | 56 | 71 | Kim Hunt |
-| 57 | 70 | Christina Black |
+| 57 | 70 | Joshua Cuellar |
 | 58 | 70 | Valerie Roberts |
 | 59 | 70 | Christina Black |
 | 60 | 68 | Alyssa Papen |

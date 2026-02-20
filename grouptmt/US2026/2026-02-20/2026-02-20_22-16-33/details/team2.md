@@ -75,8 +75,8 @@
 | 67 | 337 | Alisha Peoples |
 | 68 | 332 | Sarah Freitas |
 | 69 | 328 | Marie Boyd Faulk |
-| 70 | 323 | Danielle Simmons |
-| 71 | 323 | Daphne Jordan |
+| 70 | 323 | Daphne Jordan |
+| 71 | 323 | Danielle Simmons |
 | 72 | 305 | MrsCandyfine As Wine Truss |
 | 73 | 296 | Laura Marie Pelletier |
 | 74 | 295 | Zany Clusterbuilder |
@@ -111,8 +111,8 @@
 | 103 | 239 | Tee Jaleesa |
 | 104 | 238 | Ann Matzkanin |
 | 105 | 236 | Frisky Riserbuilder |
-| 106 | 231 | Ginger |
-| 107 | 231 | Dylan Thomason |
+| 106 | 231 | Dylan Thomason |
+| 107 | 231 | Ginger |
 | 108 | 223 | Steven Marshaun |
 | 109 | 222 | snkylnk |
 | 110 | 221 | Sam McKenzie |
@@ -168,9 +168,9 @@
 | 160 | 161 | Mema |
 | 161 | 160 | Rhonda Petro |
 | 162 | 160 | Cynthia Ward |
-| 163 | 158 | Matthew Turner |
-| 164 | 158 | RaeVan Worthington |
-| 165 | 158 | Austin Wilson |
+| 163 | 158 | Austin Wilson |
+| 164 | 158 | Matthew Turner |
+| 165 | 158 | RaeVan Worthington |
 | 166 | 157 | HarleyJane |
 | 167 | 157 | Klee |
 | 168 | 157 | Dineisha Carpenter |
