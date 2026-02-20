@@ -33,8 +33,8 @@
 | 25 | 677 | Kimberly Michelle Brown |
 | 26 | 674 | Dannette Goldberg-Richards |
 | 27 | 668 | Eboni Banks |
-| 28 | 658 | Vistabrat |
-| 29 | 658 | Dreamy Blast |
+| 28 | 658 | Dreamy Blast |
+| 29 | 658 | Vistabrat |
 | 30 | 648 | Jill Stroehlein |
 | 31 | 624 | Rob Riggin |
 | 32 | 615 | Vo'Landa Reels |

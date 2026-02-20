@@ -55,8 +55,8 @@
 | 47 | 100 | Frothy Pattern |
 | 48 | 98 | Flashy Rotator |
 | 49 | 97 | Ly Phethmany |
-| 50 | 95 | Jodee Woods |
-| 51 | 95 | Jennifer Cates |
+| 50 | 95 | Jennifer Cates |
+| 51 | 95 | Jodee Woods |
 | 52 | 94 | Bindi |
 | 53 | 93 | Ash Galvan |
 | 54 | 93 | Ty Brown |
@@ -69,8 +69,8 @@
 | 61 | 84 | Charla Pross-Fugleberg |
 | 62 | 83 | Death |
 | 63 | 82 | Melissa Lemmon |
-| 64 | 81 | Bob |
-| 65 | 81 | Garcia Bailey |
+| 64 | 81 | Garcia Bailey |
+| 65 | 81 | Bob |
 | 66 | 80 | Matt Cinelli |
 | 67 | 79 | Chris65 |
 | 68 | 78 | Guest |
