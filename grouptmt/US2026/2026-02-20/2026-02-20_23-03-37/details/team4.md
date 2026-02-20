@@ -30,8 +30,8 @@
 | 22 | 133 | Alicia Bass |
 | 23 | 130 | Casey Jeffcoat |
 | 24 | 129 | Samantha Peterson |
-| 25 | 128 | Anthony Magaraci |
-| 26 | 128 | Robin Watters |
+| 25 | 128 | Robin Watters |
+| 26 | 128 | Anthony Magaraci |
 | 27 | 124 | Jay28 |
 | 28 | 123 | Nugget |
 | 29 | 117 | Lauren Scott |
