@@ -51,8 +51,8 @@
 | 43 | 382 | Sparkles |
 | 44 | 382 | CoolKat |
 | 45 | 380 | Joshua Mandel |
-| 46 | 374 | Sommer Shope |
-| 47 | 374 | Sam |
+| 46 | 374 | Sam |
+| 47 | 374 | Sommer Shope |
 | 48 | 369 | Calandra Shaya Robinson |
 | 49 | 366 | KellyDyan |
 | 50 | 363 | William Meussner |
@@ -100,8 +100,8 @@
 | 92 | 239 | Tee Jaleesa |
 | 93 | 236 | Frisky Riserbuilder |
 | 94 | 233 | Ann Matzkanin |
-| 95 | 231 | Brittney Jean |
-| 96 | 231 | Ginger |
+| 95 | 231 | Ginger |
+| 96 | 231 | Brittney Jean |
 | 97 | 229 | Mighty Shatterfit |
 | 98 | 223 | Steven Marshaun |
 | 99 | 217 | Donna Chandler |
@@ -193,8 +193,8 @@
 | 185 | 126 | Angela Kummer |
 | 186 | 124 | Monica Brown |
 | 187 | 123 | Ashlyn Berner |
-| 188 | 122 | Diallo Sparkman |
-| 189 | 122 | Gursharan Sandhu |
+| 188 | 122 | Gursharan Sandhu |
+| 189 | 122 | Diallo Sparkman |
 | 190 | 122 | Scott Treadway |
 | 191 | 121 | Jessicah Myers |
 | 192 | 121 | Jessica Szymecki |
