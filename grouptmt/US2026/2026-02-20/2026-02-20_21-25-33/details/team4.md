@@ -40,8 +40,8 @@
 | 32 | 107 | Mr. Party |
 | 33 | 99 | Denise Carlson |
 | 34 | 98 | Diana Houts |
-| 35 | 95 | Stephme310 |
-| 36 | 95 | Michelle Morris |
+| 35 | 95 | Michelle Morris |
+| 36 | 95 | Stephme310 |
 | 37 | 91 | Andria Lynn |
 | 38 | 90 | Duck |
 | 39 | 89 | Gwendolyn Pitcairn |
@@ -54,8 +54,8 @@
 | 46 | 73 | Lauren Lamb |
 | 47 | 72 | Kesha Brady |
 | 48 | 71 | Kim Hunt |
-| 49 | 70 | Valerie Roberts |
-| 50 | 70 | Christina Black |
+| 49 | 70 | Christina Black |
+| 50 | 70 | Valerie Roberts |
 | 51 | 69 | Chair |
 | 52 | 68 | LS |
 | 53 | 68 | Degenerate |
