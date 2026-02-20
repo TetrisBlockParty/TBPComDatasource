@@ -63,8 +63,8 @@
 | 55 | 79 | Melissa Lemmon |
 | 56 | 78 | Guest |
 | 57 | 77 | Ananda Mendez |
-| 58 | 75 | Jennifer Cates |
-| 59 | 75 | Tyler L Hunt |
+| 58 | 75 | Tyler L Hunt |
+| 59 | 75 | Jennifer Cates |
 | 60 | 73 | TSwag |
 | 61 | 72 | Adryane Schnase |
 | 62 | 72 | Tipsy Strikerpiece |
@@ -72,17 +72,17 @@
 | 64 | 71 | Teddy Alexander |
 | 65 | 69 | Christina Torres |
 | 66 | 67 | Loony Fitzone |
-| 67 | 66 | Todd Welch |
-| 68 | 66 | Giggly Builderline |
+| 67 | 66 | Giggly Builderline |
+| 68 | 66 | Todd Welch |
 | 69 | 66 | Archie Ware |
 | 70 | 64 | Jessi Sauer |
 | 71 | 63 | Mitchel White |
-| 72 | 62 | Sarah Henniker |
-| 73 | 62 | Tofy |
+| 72 | 62 | Tofy |
+| 73 | 62 | Sarah Henniker |
 | 74 | 61 | Spunky Piecebuilder |
-| 75 | 60 | Susanna Guerry |
-| 76 | 60 | Tina Englert |
-| 77 | 60 | BigWeenie69 |
+| 75 | 60 | BigWeenie69 |
+| 76 | 60 | Susanna Guerry |
+| 77 | 60 | Tina Englert |
 | 78 | 59 | Mel Hogan |
 | 79 | 58 | Carolyn Smith |
 | 80 | 58 | Jason Cox |
@@ -92,20 +92,20 @@
 | 84 | 53 | J.D3D.D |
 | 85 | 52 | Sid Castro |
 | 86 | 51 | Lis |
-| 87 | 51 | Nathan William |
-| 88 | 51 | Danielle Mae |
-| 89 | 51 | Tipsy Riseclear |
-| 90 | 50 | Daring Fitclear |
-| 91 | 50 | Lavon Usher |
-| 92 | 49 | Nikki Fridley |
-| 93 | 49 | Jennifer Chilton-Metlock |
-| 94 | 48 | MamaB24 |
-| 95 | 48 | Tami Luce Martin |
-| 96 | 48 | Chuck Gannon |
-| 97 | 48 | Dino |
-| 98 | 48 | TristansDad |
-| 99 | 47 | Christy Jones |
-| 100 | 47 | Kellie |
+| 87 | 51 | Danielle Mae |
+| 88 | 51 | Tipsy Riseclear |
+| 89 | 51 | Nathan William |
+| 90 | 50 | Lavon Usher |
+| 91 | 50 | Daring Fitclear |
+| 92 | 49 | Jennifer Chilton-Metlock |
+| 93 | 49 | Nikki Fridley |
+| 94 | 48 | Chuck Gannon |
+| 95 | 48 | Dino |
+| 96 | 48 | TristansDad |
+| 97 | 48 | MamaB24 |
+| 98 | 48 | Tami Luce Martin |
+| 99 | 47 | Kellie |
+| 100 | 47 | Christy Jones |
 | 101 | 46 | Robert Benito |
 | 102 | 45 | Logan McFarland |
 | 103 | 45 | Vivian Bush |
@@ -154,32 +154,32 @@
 | 146 | 33 | Snappy Brickbuilder |
 | 147 | 32 | Deweyy Devan Hill |
 | 148 | 32 | Howdi Duty |
-| 149 | 32 | Carrie Smith |
-| 150 | 32 | Deweyy Devan Hill |
-| 151 | 31 | MomOf2Angels |
-| 152 | 31 | MRdot Rooski |
-| 153 | 31 | Monica Rivas |
+| 149 | 32 | Amy N Clint Atchley |
+| 150 | 32 | Carrie Smith |
+| 151 | 31 | Monica Rivas |
+| 152 | 31 | MomOf2Angels |
+| 153 | 31 | MRdot Rooski |
 | 154 | 31 | Joyce Harrell-chavis |
 | 155 | 31 | Cryder Monique |
-| 156 | 30 | Pamela Elliott |
-| 157 | 30 | Desiree Deschaine Havee |
-| 158 | 30 | Lacey Breanna Smith |
-| 159 | 29 | Purple |
-| 160 | 29 | Amie Fields |
-| 161 | 29 | Jason Jones |
-| 162 | 29 | Jessie |
-| 163 | 29 | Larry Tilton |
-| 164 | 29 | Connie Balentine |
-| 165 | 29 | Anthony Ray |
-| 166 | 28 | Kiersten Frasier |
-| 167 | 28 | Ruthie Mahoney Saunders-Browne |
+| 156 | 30 | Lacey Breanna Smith |
+| 157 | 30 | Pamela Elliott |
+| 158 | 30 | Desiree Deschaine Havee |
+| 159 | 29 | Amie Fields |
+| 160 | 29 | Jessie |
+| 161 | 29 | Purple |
+| 162 | 29 | Connie Balentine |
+| 163 | 29 | Anthony Ray |
+| 164 | 29 | Larry Tilton |
+| 165 | 29 | Jason Jones |
+| 166 | 28 | Ruthie Mahoney Saunders-Browne |
+| 167 | 28 | Kiersten Frasier |
 | 168 | 28 | Armand Drayton |
-| 169 | 27 | Angela Ellyson |
+| 169 | 27 | Cool Bridgepiece |
 | 170 | 27 | Trippy Redd |
-| 171 | 27 | Cool Bridgepiece |
-| 172 | 27 | Carmen Estrada |
+| 171 | 27 | Carmen Estrada |
+| 172 | 27 | Pace |
 | 173 | 27 | Gilbert Ortiz Jr. |
-| 174 | 27 | Pace |
+| 174 | 27 | Angela Ellyson |
 | 175 | 26 | Jason Savage |
 | 176 | 26 | Kathy Langham |
 | 177 | 26 | Mark Zeitlin |

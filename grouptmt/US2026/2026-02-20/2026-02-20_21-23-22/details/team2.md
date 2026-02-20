@@ -67,8 +67,8 @@
 | 59 | 328 | Marie Boyd Faulk |
 | 60 | 323 | Daphne Jordan |
 | 61 | 323 | Danielle Simmons |
-| 62 | 296 | Jose Vega |
-| 63 | 296 | Laura Marie Pelletier |
+| 62 | 296 | Laura Marie Pelletier |
+| 63 | 296 | Jose Vega |
 | 64 | 295 | Zany Clusterbuilder |
 | 65 | 285 | June E Hanson |
 | 66 | 283 | Poppy Snap |

@@ -40,8 +40,8 @@
 | 32 | 103 | Dion Crommarty |
 | 33 | 99 | Denise Carlson |
 | 34 | 98 | Diana Houts |
-| 35 | 95 | Michelle Morris |
-| 36 | 95 | Stephme310 |
+| 35 | 95 | Stephme310 |
+| 36 | 95 | Michelle Morris |
 | 37 | 91 | Andria Lynn |
 | 38 | 90 | Duck |
 | 39 | 89 | Gwendolyn Pitcairn |
@@ -87,9 +87,9 @@
 | 79 | 50 | Richard-April Kice |
 | 80 | 49 | Lakesha Johnson |
 | 81 | 47 | Jennifer Perkins |
-| 82 | 46 | Aly Eggers |
-| 83 | 46 | Natalie;) |
-| 84 | 46 | Jeff Brian Gates |
+| 82 | 46 | Natalie;) |
+| 83 | 46 | Jeff Brian Gates |
+| 84 | 46 | Aly Eggers |
 | 85 | 45 | Dustin Robert |
 | 86 | 45 | Tammy Lewis |
 | 87 | 44 | mitch |
