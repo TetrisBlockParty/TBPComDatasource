@@ -108,8 +108,8 @@
 | 100 | 284 | Brittney Jean |
 | 101 | 283 | Poppy Snap |
 | 102 | 281 | Robert Diddle |
-| 103 | 280 | Kimberly Schall |
-| 104 | 280 | Christina Lewis-Vickers |
+| 103 | 280 | Christina Lewis-Vickers |
+| 104 | 280 | Kimberly Schall |
 | 105 | 274 | Melissa Holsinger |
 | 106 | 273 | Venechia Berry |
 | 107 | 271 | Ann Marie Davis |
@@ -182,11 +182,11 @@
 | 174 | 190 | Jessie McDougald |
 | 175 | 189 | Sanaa Nounoussa |
 | 176 | 187 | Wendy Harder Gage |
-| 177 | 184 | Rebecca Doughman |
-| 178 | 184 | Sassy Linkbuilder |
-| 179 | 184 | Jumpy Gridpiece |
-| 180 | 183 | Drwatson187 |
-| 181 | 183 | Ashle Scranton |
+| 177 | 184 | Sassy Linkbuilder |
+| 178 | 184 | Jumpy Gridpiece |
+| 179 | 184 | Rebecca Doughman |
+| 180 | 183 | Ashle Scranton |
+| 181 | 183 | Drwatson187 |
 | 182 | 181 | Jordan Petro |
 | 183 | 180 | YiFei |
 | 184 | 180 | Ali Gralski |

@@ -52,8 +52,8 @@
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Michelle Morris |
-| 47 | 100 | Diana Houts |
-| 48 | 100 | Andria Lynn |
+| 47 | 100 | Andria Lynn |
+| 48 | 100 | Diana Houts |
 | 49 | 98 | Stephme310 |
 | 50 | 98 | Duck |
 | 51 | 96 | Zappy Snaplink |

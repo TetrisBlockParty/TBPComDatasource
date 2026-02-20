@@ -60,8 +60,8 @@
 | 52 | 206 | MissTaylor |
 | 53 | 206 | Jennifer Willis |
 | 54 | 203 | Crimson |
-| 55 | 193 | Shunta Jacobs |
-| 56 | 193 | Clever Shiftsnap |
+| 55 | 193 | Clever Shiftsnap |
+| 56 | 193 | Shunta Jacobs |
 | 57 | 187 | Speedy Bridger |
 | 58 | 184 | Jennie Beranek |
 | 59 | 180 | joclisa |
