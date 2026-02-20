@@ -95,8 +95,8 @@
 | 87 | 340 | Kimberly Randesi |
 | 88 | 337 | Alisha Peoples |
 | 89 | 328 | Marie Boyd Faulk |
-| 90 | 323 | Daphne Jordan |
-| 91 | 323 | Danielle Simmons |
+| 90 | 323 | Danielle Simmons |
+| 91 | 323 | Daphne Jordan |
 | 92 | 317 | Debra Williams |
 | 93 | 317 | bru |
 | 94 | 300 | Mari Ac |
@@ -115,11 +115,11 @@
 | 107 | 273 | Venechia Berry |
 | 108 | 271 | Ann Marie Davis |
 | 109 | 268 | Vanessa Moreno |
-| 110 | 266 | Jojo Momma |
-| 111 | 266 | Mighty Shatterfit |
+| 110 | 266 | Mighty Shatterfit |
+| 111 | 266 | Jojo Momma |
 | 112 | 266 | Joyce Johnson Vaughn |
-| 113 | 265 | Wuntayk |
-| 114 | 265 | Joseph Musick |
+| 113 | 265 | Joseph Musick |
+| 114 | 265 | Wuntayk |
 | 115 | 264 | Lonne Emade |
 | 116 | 263 | Shiny Rollzone |
 | 117 | 263 | Oscar Bernie |
@@ -132,10 +132,10 @@
 | 124 | 252 | Alezandra Smith |
 | 125 | 250 | Barbra Miller |
 | 126 | 249 | Janel Turley-Garner |
-| 127 | 247 | Andrea Devery Beck |
-| 128 | 247 | Fancy Twister |
-| 129 | 243 | Shameika Trail |
-| 130 | 243 | Brandy Andre |
+| 127 | 247 | Fancy Twister |
+| 128 | 247 | Andrea Devery Beck |
+| 129 | 243 | Brandy Andre |
+| 130 | 243 | Shameika Trail |
 | 131 | 241 | Sabrina Burton |
 | 132 | 239 | Tee Jaleesa |
 | 133 | 238 | Steven Marshaun |
@@ -201,8 +201,8 @@
 | 193 | 170 | Darlene Bowman |
 | 194 | 169 | Lively Catcher |
 | 195 | 168 | Justin Hines |
-| 196 | 168 | Robin |
-| 197 | 168 | Taryece Gause |
+| 196 | 168 | Taryece Gause |
+| 197 | 168 | Robin |
 | 198 | 167 | Fi Ne |
 | 199 | 166 | Jessica Kaye DeAguero |
 | 200 | 165 | Cathy Bitters |
@@ -232,14 +232,14 @@
 | 224 | 151 | D'Aaron Black |
 | 225 | 151 | Dizzy Zone |
 | 226 | 150 | Tiffney Wroten |
-| 227 | 148 | Brittany Radaszewski |
-| 228 | 148 | Cappin You |
+| 227 | 148 | Cappin You |
+| 228 | 148 | Brittany Radaszewski |
 | 229 | 148 | Shannon Byrd |
 | 230 | 145 | William Hughes |
 | 231 | 145 | Scott Rackley |
 | 232 | 143 | Katrina Williams Balmir |
-| 233 | 142 | Frisky Clearpiece |
-| 234 | 142 | Kyle LeRoy Harris |
+| 233 | 142 | Kyle LeRoy Harris |
+| 234 | 142 | Frisky Clearpiece |
 | 235 | 142 | Angela Lynn |
 | 236 | 141 | Shorty |
 | 237 | 141 | Markisha Poyndexter |
@@ -256,8 +256,8 @@
 | 248 | 134 | Ashlyn Berner |
 | 249 | 134 | Sarah Massey |
 | 250 | 133 | coleksquad |
-| 251 | 132 | Paula Snyder |
-| 252 | 132 | Angela Murgia-Owen |
+| 251 | 132 | Angela Murgia-Owen |
+| 252 | 132 | Paula Snyder |
 | 253 | 132 | Ibiza Carolina LaRose |
 | 254 | 130 | Jasmine Kenney |
 | 255 | 130 | Nerdy Riserfit |

@@ -19,8 +19,8 @@
 | 11 | 399 | Drew Magnus |
 | 12 | 371 | Colena Davenport |
 | 13 | 294 | Jacqueline Williams |
-| 14 | 281 | Nancy Green |
-| 15 | 281 | Kathi Snustad |
+| 14 | 281 | Kathi Snustad |
+| 15 | 281 | Nancy Green |
 | 16 | 263 | Andrea Dañielle Ortiz |
 | 17 | 251 | Zerin Graham |
 | 18 | 234 | Tipsy Column |
@@ -35,8 +35,8 @@
 | 27 | 176 | Jazzy Framezone |
 | 28 | 169 | Erez Yosef |
 | 29 | 153 | Standia Civil |
-| 30 | 151 | Thorne Shumate |
-| 31 | 151 | Hyper |
+| 30 | 151 | Hyper |
+| 31 | 151 | Thorne Shumate |
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |
@@ -85,8 +85,8 @@
 | 77 | 79 | TSwag |
 | 78 | 79 | Chris65 |
 | 79 | 78 | Carrie Beck Geartz |
-| 80 | 75 | Tyler L Hunt |
-| 81 | 75 | Josie Kirt |
+| 80 | 75 | Josie Kirt |
+| 81 | 75 | Tyler L Hunt |
 | 82 | 74 | Grace Joanne Agnant |
 | 83 | 73 | Witty Builderfit |
 | 84 | 73 | Jennifer ManWarren |
@@ -303,30 +303,30 @@
 | 295 | 22 | Chadocho |
 | 296 | 21 | Dizzy Riseclear |
 | 297 | 21 | Dandy Towerbuilder |
-| 298 | 21 | Julie Marie Hernandez |
-| 299 | 21 | Rachael |
-| 300 | 21 | Jessica Russell |
-| 301 | 21 | Kryatal Poulin |
+| 298 | 21 | Kryatal Poulin |
+| 299 | 21 | Julie Marie Hernandez |
+| 300 | 21 | Mark Smith |
+| 301 | 21 | Jessica Russell |
 | 302 | 21 | Rick Clark |
-| 303 | 21 | Patrick Luckenbill |
-| 304 | 21 | Mark Smith |
-| 305 | 21 | Cynthia Bradley |
-| 306 | 21 | Katie Daniels |
-| 307 | 20 | Clinton Castle |
-| 308 | 20 | Shannan Porter |
-| 309 | 20 | Oliver Hollins |
-| 310 | 20 | Wolf Man |
-| 311 | 20 | Zany Gridclear |
-| 312 | 20 | Joe Coon |
-| 313 | 20 | Nicole Bryant |
-| 314 | 20 | Snippy Wipebuilder |
-| 315 | 20 | VaSharon Crenshaw |
-| 316 | 20 | Kaitlyn Mambro |
-| 317 | 20 | Larry Jackson |
-| 318 | 20 | Gina Bettikofer |
-| 319 | 20 | Frank |
-| 320 | 20 | Matthew Vd |
-| 321 | 20 | John Kim |
+| 303 | 21 | Cynthia Bradley |
+| 304 | 21 | Katie Daniels |
+| 305 | 21 | Rachael |
+| 306 | 21 | Patrick Luckenbill |
+| 307 | 20 | Snippy Wipebuilder |
+| 308 | 20 | Larry Jackson |
+| 309 | 20 | Matthew Vd |
+| 310 | 20 | Zany Gridclear |
+| 311 | 20 | Joe Coon |
+| 312 | 20 | Nicole Bryant |
+| 313 | 20 | Oliver Hollins |
+| 314 | 20 | Gina Bettikofer |
+| 315 | 20 | Frank |
+| 316 | 20 | John Kim |
+| 317 | 20 | Clinton Castle |
+| 318 | 20 | Shannan Porter |
+| 319 | 20 | Wolf Man |
+| 320 | 20 | Kaitlyn Mambro |
+| 321 | 20 | VaSharon Crenshaw |
 | 322 | 19 | Tinah Montanna |
 | 323 | 19 | Michele Baucom |
 | 324 | 19 | Diane Byrd |

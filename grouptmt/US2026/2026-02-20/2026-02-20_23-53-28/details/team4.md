@@ -71,8 +71,8 @@
 | 63 | 80 | Shelly Chandler |
 | 64 | 79 | Zesty Twistbuilder |
 | 65 | 78 | Chilly Line |
-| 66 | 77 | Girl |
-| 67 | 77 | Kim Hunt |
+| 66 | 77 | Kim Hunt |
+| 67 | 77 | Girl |
 | 68 | 76 | Kristin MacDonald |
 | 69 | 75 | Rosemary Foster |
 | 70 | 75 | Chair |

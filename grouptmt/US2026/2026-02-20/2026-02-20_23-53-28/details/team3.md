@@ -91,9 +91,9 @@
 | 83 | 118 | Bea Miles |
 | 84 | 113 | Jennifer Alvey |
 | 85 | 111 | Joy Petroski |
-| 86 | 110 | Tiff Vs Tiffany |
+| 86 | 110 | Stella |
 | 87 | 110 | Connie Mohler-Fair |
-| 88 | 110 | Stella |
+| 88 | 110 | Tiff Vs Tiffany |
 | 89 | 108 | Grams |
 | 90 | 107 | Bryan Byrd |
 | 91 | 105 | Hoppy Buildout |
@@ -109,7 +109,7 @@
 | 101 | 99 | Nichol Graham |
 | 102 | 98 | Jocelyne Baca |
 | 103 | 98 | Ryan Williams |
-| 104 | 98 | Jocelyne Baca |
+| 104 | 98 | mommablock |
 | 105 | 96 | Boldy Corner |
 | 106 | 95 | Demetrious Shaw Sr. |
 | 107 | 95 | Brooke Bauer |
