@@ -84,15 +84,15 @@
 | 76 | 284 | Brittney Jean |
 | 77 | 283 | Poppy Snap |
 | 78 | 281 | Robert Diddle |
-| 79 | 280 | Christina Lewis-Vickers |
-| 80 | 280 | Kimberly Schall |
+| 79 | 280 | Kimberly Schall |
+| 80 | 280 | Christina Lewis-Vickers |
 | 81 | 276 | Lisa Ongtowasruk |
 | 82 | 271 | Ann Marie Davis |
 | 83 | 270 | Juanita Lyons |
 | 84 | 268 | Vanessa Moreno |
 | 85 | 265 | Wuntayk |
-| 86 | 263 | Oscar Bernie |
-| 87 | 263 | Shiny Rollzone |
+| 86 | 263 | Shiny Rollzone |
+| 87 | 263 | Oscar Bernie |
 | 88 | 261 | MrsClaudette Will'sIam Matthews |
 | 89 | 260 | Autumn Schaeffer |
 | 90 | 259 | Melissa Holsinger |
@@ -182,8 +182,8 @@
 | 174 | 148 | Brittany Radaszewski |
 | 175 | 148 | Shannon Byrd |
 | 176 | 146 | Deborah Miller |
-| 177 | 145 | Cappin You |
-| 178 | 145 | Alexandra Weir |
+| 177 | 145 | Alexandra Weir |
+| 178 | 145 | Cappin You |
 | 179 | 145 | Scott Rackley |
 | 180 | 142 | Angela Lynn |
 | 181 | 142 | Frisky Clearpiece |

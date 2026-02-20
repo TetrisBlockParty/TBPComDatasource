@@ -53,8 +53,8 @@
 | 45 | 97 | Ly Phethmany |
 | 46 | 95 | Jennifer Cates |
 | 47 | 94 | Bindi |
-| 48 | 93 | Uhog SF |
-| 49 | 93 | Ty Brown |
+| 48 | 93 | Ty Brown |
+| 49 | 93 | Uhog SF |
 | 50 | 91 | Spunky Piecebuilder |
 | 51 | 90 | Madison Wicks |
 | 52 | 90 | comrade fish |
@@ -92,8 +92,8 @@
 | 84 | 60 | Tina Englert |
 | 85 | 60 | Karin Gillen |
 | 86 | 59 | Mel Hogan |
-| 87 | 58 | Jason Cox |
-| 88 | 58 | Carolyn Smith |
+| 87 | 58 | Carolyn Smith |
+| 88 | 58 | Jason Cox |
 | 89 | 56 | Lehrin Maria |
 | 90 | 55 | Sweet Baker |
 | 91 | 53 | J.D3D.D |

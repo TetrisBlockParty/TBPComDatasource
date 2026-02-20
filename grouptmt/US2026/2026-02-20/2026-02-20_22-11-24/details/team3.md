@@ -36,8 +36,8 @@
 | 28 | 333 | Silly Twist |
 | 29 | 331 | Patty Allen |
 | 30 | 320 | Or Reznitsky |
-| 31 | 307 | Peggi Charon |
-| 32 | 307 | Kristie |
+| 31 | 307 | Kristie |
+| 32 | 307 | Peggi Charon |
 | 33 | 300 | Sherika C. McDaniels |
 | 34 | 291 | Tasha Schriewer |
 | 35 | 281 | Gracie |
@@ -83,18 +83,18 @@
 | 75 | 107 | Bryan Byrd |
 | 76 | 105 | Tessina Dewey-Mancino |
 | 77 | 103 | Daira Largen |
-| 78 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 79 | 101 | Mykal Burton |
+| 78 | 101 | Mykal Burton |
+| 79 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 80 | 100 | Bobbi Moore |
 | 81 | 98 | Jocelyne Baca |
 | 82 | 98 | Ashley Tookes |
 | 83 | 97 | Fredd Thomas |
 | 84 | 96 | Boldy Corner |
-| 85 | 95 | Brooke Bauer |
-| 86 | 95 | Demetrious Shaw Sr. |
+| 85 | 95 | Demetrious Shaw Sr. |
+| 86 | 95 | Brooke Bauer |
 | 87 | 94 | Ryan Williams |
-| 88 | 89 | Annie Déè |
-| 89 | 89 | Hyper Bridger |
+| 88 | 89 | Hyper Bridger |
+| 89 | 89 | Annie Déè |
 | 90 | 88 | Martin Bernier |
 | 91 | 87 | Sherry Ogden |
 | 92 | 85 | Delilah belle |
