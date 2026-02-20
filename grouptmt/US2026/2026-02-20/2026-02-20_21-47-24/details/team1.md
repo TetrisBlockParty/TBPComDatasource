@@ -133,9 +133,9 @@
 | 125 | 40 | Swanky Crasher |
 | 126 | 40 | Mama Zelda |
 | 127 | 39 | Margo Wagner |
-| 128 | 39 | LD1 |
+| 128 | 39 | Agustin Duarte Orozco |
 | 129 | 39 | Keith Hiller |
-| 130 | 39 | Agustin Duarte Orozco |
+| 130 | 39 | LD1 |
 | 131 | 38 | Mavria Comeaux Hinton |
 | 132 | 38 | Alenoush Karimian |
 | 133 | 38 | Dustin Johnston |
