@@ -168,10 +168,10 @@
 | 160 | 198 | Julio A Laracuente |
 | 161 | 197 | Rosa Franklin |
 | 162 | 197 | Smashanator |
-| 163 | 196 | Bubbly Snapfit |
-| 164 | 196 | Alexandra Reese |
-| 165 | 194 | Tammy Allen |
-| 166 | 194 | Mike Aprilliano |
+| 163 | 196 | Alexandra Reese |
+| 164 | 196 | Bubbly Snapfit |
+| 165 | 194 | Mike Aprilliano |
+| 166 | 194 | Tammy Allen |
 | 167 | 193 | Ariel |
 | 168 | 191 | Deana |
 | 169 | 189 | Sanaa Nounoussa |
@@ -185,8 +185,8 @@
 | 177 | 180 | Ali Gralski |
 | 178 | 179 | Cat |
 | 179 | 179 | Desiree Harris Rosch |
-| 180 | 177 | Osun Anuket Esu |
-| 181 | 177 | John |
+| 180 | 177 | John |
+| 181 | 177 | Osun Anuket Esu |
 | 182 | 176 | Missie Lawson Gebhardt |
 | 183 | 176 | Besma Ao |
 | 184 | 175 | Tina Blessed Cage |
@@ -198,8 +198,8 @@
 | 190 | 167 | Fi Ne |
 | 191 | 166 | Taryece Gause |
 | 192 | 166 | Jessica Kaye DeAguero |
-| 193 | 165 | Mema |
-| 194 | 165 | Cathy Bitters |
+| 193 | 165 | Cathy Bitters |
+| 194 | 165 | Mema |
 | 195 | 164 | Jamie Stevey |
 | 196 | 163 | Dedra Steward |
 | 197 | 162 | Nick Jensen |

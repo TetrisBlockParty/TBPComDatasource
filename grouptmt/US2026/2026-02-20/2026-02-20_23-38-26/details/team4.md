@@ -40,8 +40,8 @@
 | 32 | 123 | Nugget |
 | 33 | 121 | Smiley Tiltbuilder |
 | 34 | 117 | Lauren Scott |
-| 35 | 116 | Courtney Cicoria |
-| 36 | 116 | Sherri |
+| 35 | 116 | Sherri |
+| 36 | 116 | Courtney Cicoria |
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |

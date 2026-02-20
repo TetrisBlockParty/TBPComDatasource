@@ -41,8 +41,8 @@
 | 33 | 333 | Silly Twist |
 | 34 | 329 | Danielle Rhoades |
 | 35 | 320 | Or Reznitsky |
-| 36 | 307 | Peggi Charon |
-| 37 | 307 | Kristie |
+| 36 | 307 | Kristie |
+| 37 | 307 | Peggi Charon |
 | 38 | 300 | Sherika C. McDaniels |
 | 39 | 296 | Tasha Schriewer |
 | 40 | 295 | Clever Roll |
@@ -84,8 +84,8 @@
 | 76 | 126 | ren |
 | 77 | 125 | Stephanie Simpson |
 | 78 | 122 | Emma |
-| 79 | 120 | Jessica |
-| 80 | 120 | Michael Latasha Gray |
+| 79 | 120 | Michael Latasha Gray |
+| 80 | 120 | Jessica |
 | 81 | 118 | Bea Miles |
 | 82 | 113 | Jennifer Alvey |
 | 83 | 111 | Joy Petroski |

@@ -75,14 +75,14 @@
 | 67 | 87 | Jessi Sauer |
 | 68 | 85 | Ananda Mendez |
 | 69 | 84 | Charla Pross-Fugleberg |
-| 70 | 83 | Death |
-| 71 | 83 | Guest |
+| 70 | 83 | Guest |
+| 71 | 83 | Death |
 | 72 | 82 | Melissa Lemmon |
 | 73 | 81 | Garcia Bailey |
 | 74 | 81 | Bob |
 | 75 | 80 | Matt Cinelli |
-| 76 | 79 | Chris65 |
-| 77 | 79 | TSwag |
+| 76 | 79 | TSwag |
+| 77 | 79 | Chris65 |
 | 78 | 78 | Carrie Beck Geartz |
 | 79 | 75 | pjbeta |
 | 80 | 75 | Tyler L Hunt |
