@@ -40,8 +40,8 @@
 | 32 | 123 | Nugget |
 | 33 | 121 | Smiley Tiltbuilder |
 | 34 | 117 | Lauren Scott |
-| 35 | 116 | Courtney Cicoria |
-| 36 | 116 | Sherri |
+| 35 | 116 | Sherri |
+| 36 | 116 | Courtney Cicoria |
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
@@ -96,8 +96,8 @@
 | 88 | 56 | Chastity Mitchell |
 | 89 | 56 | Stephanie Jones |
 | 90 | 55 | mini |
-| 91 | 55 | RiahRose |
-| 92 | 55 | Chris Alexinas |
+| 91 | 55 | Chris Alexinas |
+| 92 | 55 | RiahRose |
 | 93 | 54 | Carter Jones |
 | 94 | 54 | Jennifer Perkins |
 | 95 | 54 | Destiney Carter |

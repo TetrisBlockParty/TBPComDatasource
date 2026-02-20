@@ -38,8 +38,8 @@
 | 30 | 679 | Gold Rose |
 | 31 | 677 | Kimberly Michelle Brown |
 | 32 | 674 | Dannette Goldberg-Richards |
-| 33 | 658 | Dreamy Blast |
-| 34 | 658 | Vistabrat |
+| 33 | 658 | Vistabrat |
+| 34 | 658 | Dreamy Blast |
 | 35 | 656 | Pacynthia Williams |
 | 36 | 648 | Jill Stroehlein |
 | 37 | 615 | Vo'Landa Reels |
@@ -274,8 +274,8 @@
 | 266 | 124 | Monica Brown |
 | 267 | 123 | Sho Nuff |
 | 268 | 123 | Caitlin Johnson |
-| 269 | 122 | Gursharan Sandhu |
-| 270 | 122 | Scott Treadway |
+| 269 | 122 | Scott Treadway |
+| 270 | 122 | Gursharan Sandhu |
 | 271 | 121 | Amy Humphreys |
 | 272 | 121 | Jessica Szymecki |
 | 273 | 121 | Em Chen |

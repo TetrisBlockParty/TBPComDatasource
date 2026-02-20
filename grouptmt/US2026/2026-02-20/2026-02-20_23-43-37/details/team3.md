@@ -67,8 +67,8 @@
 | 59 | 170 | Nerdy Riseclear |
 | 60 | 167 | Denise Nardoni |
 | 61 | 166 | Danielle Mogg |
-| 62 | 152 | Shiny Zonebuilder |
-| 63 | 152 | Shannon Matthew Byers |
+| 62 | 152 | Shannon Matthew Byers |
+| 63 | 152 | Shiny Zonebuilder |
 | 64 | 149 | Fallorina Susana |
 | 65 | 145 | Trisha Balmer |
 | 66 | 141 | Denita Mungro |
@@ -90,8 +90,8 @@
 | 82 | 118 | Bea Miles |
 | 83 | 113 | Jennifer Alvey |
 | 84 | 111 | Joy Petroski |
-| 85 | 110 | Connie Mohler-Fair |
-| 86 | 110 | Stella |
+| 85 | 110 | Stella |
+| 86 | 110 | Connie Mohler-Fair |
 | 87 | 110 | Tiff Vs Tiffany |
 | 88 | 108 | Grams |
 | 89 | 107 | Bryan Byrd |

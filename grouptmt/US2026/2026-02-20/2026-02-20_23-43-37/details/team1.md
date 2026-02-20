@@ -94,8 +94,8 @@
 | 86 | 69 | Christina Torres |
 | 87 | 68 | Blaire Bruckoff |
 | 88 | 67 | Loony Fitzone |
-| 89 | 66 | Archie Ware |
-| 90 | 66 | Giggly Builderline |
+| 89 | 66 | Giggly Builderline |
+| 90 | 66 | Archie Ware |
 | 91 | 65 | Jennifer Olewnik Soborowski |
 | 92 | 65 | Trippy Redd |
 | 93 | 63 | Mitchel White |
