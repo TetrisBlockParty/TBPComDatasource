@@ -59,24 +59,24 @@
 | 51 | 102 | Zerin Graham |
 | 52 | 100 | Frothy Pattern |
 | 53 | 98 | Flashy Rotator |
-| 54 | 95 | Jodee Woods |
-| 55 | 95 | Jennifer Cates |
+| 54 | 95 | Jennifer Cates |
+| 55 | 95 | Jodee Woods |
 | 56 | 94 | Bindi |
 | 57 | 93 | Uhog SF |
 | 58 | 93 | Ash Galvan |
 | 59 | 93 | Ty Brown |
 | 60 | 91 | COOL as Icer |
 | 61 | 91 | Spunky Piecebuilder |
-| 62 | 90 | comrade fish |
-| 63 | 90 | Madison Wicks |
+| 62 | 90 | Madison Wicks |
+| 63 | 90 | comrade fish |
 | 64 | 87 | Jessi Sauer |
 | 65 | 85 | Ananda Mendez |
 | 66 | 84 | Charla Pross-Fugleberg |
 | 67 | 83 | Death |
 | 68 | 83 | Guest |
 | 69 | 82 | Melissa Lemmon |
-| 70 | 81 | Garcia Bailey |
-| 71 | 81 | Bob |
+| 70 | 81 | Bob |
+| 71 | 81 | Garcia Bailey |
 | 72 | 80 | Matt Cinelli |
 | 73 | 79 | Chris65 |
 | 74 | 79 | TSwag |
