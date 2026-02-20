@@ -37,8 +37,8 @@
 | 29 | 129 | Samantha Peterson |
 | 30 | 128 | Robin Watters |
 | 31 | 124 | Jay28 |
-| 32 | 123 | Nugget |
-| 33 | 123 | Courtney Cicoria |
+| 32 | 123 | Courtney Cicoria |
+| 33 | 123 | Nugget |
 | 34 | 121 | Smiley Tiltbuilder |
 | 35 | 117 | Lauren Scott |
 | 36 | 116 | Sherri |

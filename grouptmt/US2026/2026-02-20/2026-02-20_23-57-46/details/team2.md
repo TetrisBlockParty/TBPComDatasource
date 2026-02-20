@@ -118,8 +118,8 @@
 | 110 | 266 | Jojo Momma |
 | 111 | 266 | Mighty Shatterfit |
 | 112 | 266 | Joyce Johnson Vaughn |
-| 113 | 265 | Wuntayk |
-| 114 | 265 | Joseph Musick |
+| 113 | 265 | Joseph Musick |
+| 114 | 265 | Wuntayk |
 | 115 | 264 | Lonne Emade |
 | 116 | 263 | Oscar Bernie |
 | 117 | 263 | Taylor Flowers |
@@ -147,8 +147,8 @@
 | 139 | 236 | Frisky Riserbuilder |
 | 140 | 235 | TF Dyer |
 | 141 | 232 | Ann Knutson Anderson |
-| 142 | 231 | Dylan Thomason |
-| 143 | 231 | Ginger |
+| 142 | 231 | Ginger |
+| 143 | 231 | Dylan Thomason |
 | 144 | 231 | Ashley Lopez |
 | 145 | 227 | Alyssia Tancredi |
 | 146 | 225 | Lindsey Leigh |
@@ -310,7 +310,7 @@
 | 302 | 114 | Slinky Risegrid |
 | 303 | 114 | Melissa Maples |
 | 304 | 114 | Lively Brickfit |
-| 305 | 114 | James Smith |
+| 305 | 114 | Tommy Stuck |
 | 306 | 114 | Starrs Dcct |
 | 307 | 113 | Elisheva Mizrachi |
 | 308 | 113 | Amanda Perez |

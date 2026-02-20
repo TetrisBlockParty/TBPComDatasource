@@ -77,12 +77,12 @@
 | 69 | 135 | Latoya Mayne |
 | 70 | 135 | Danielle Cutler |
 | 71 | 134 | DanceLuvLaugh |
-| 72 | 130 | Tessina Dewey-Mancino |
-| 73 | 130 | Zippy Strikesnap |
+| 72 | 130 | Zippy Strikesnap |
+| 73 | 130 | Tessina Dewey-Mancino |
 | 74 | 129 | Giddy Twistbuilder |
 | 75 | 128 | Angel Mendez |
-| 76 | 127 | mjl574 |
-| 77 | 127 | Dolores Falco |
+| 76 | 127 | Dolores Falco |
+| 77 | 127 | mjl574 |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 124 | Delilah belle |
 | 80 | 122 | Emma |
@@ -179,11 +179,11 @@
 | 171 | 61 | Jessica Rose-Morgan |
 | 172 | 60 | Loony Slider |
 | 173 | 60 | Nikki Pags |
-| 174 | 60 | Loony Slider |
+| 174 | 60 | Ashley Rufus Bythcez |
 | 175 | 59 | Cary M. Fong |
-| 176 | 58 | David Kozen |
+| 176 | 58 | Erzulie |
 | 177 | 58 | Peachy Rollfit |
-| 178 | 58 | Erzulie |
+| 178 | 58 | David Kozen |
 | 179 | 57 | Mana |
 | 180 | 56 | Heather De Vries Cobb |
 | 181 | 56 | Brandon Givens |
