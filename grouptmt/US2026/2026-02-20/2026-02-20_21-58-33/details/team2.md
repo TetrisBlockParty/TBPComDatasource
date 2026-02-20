@@ -67,8 +67,8 @@
 | 59 | 355 | Tommy Tha Boss Gunz |
 | 60 | 353 | Charie Holland |
 | 61 | 348 | Giggy Blocker |
-| 62 | 345 | Rhianna DiLorenzo |
-| 63 | 345 | Alyssaaelena |
+| 62 | 345 | Alyssaaelena |
+| 63 | 345 | Rhianna DiLorenzo |
 | 64 | 343 | Jennifer Peachey |
 | 65 | 342 | Tracy Wise |
 | 66 | 337 | Alisha Peoples |
@@ -83,8 +83,8 @@
 | 75 | 285 | June E Hanson |
 | 76 | 283 | Poppy Snap |
 | 77 | 281 | Robert Diddle |
-| 78 | 280 | Kimberly Schall |
-| 79 | 280 | Christina Lewis-Vickers |
+| 78 | 280 | Christina Lewis-Vickers |
+| 79 | 280 | Kimberly Schall |
 | 80 | 271 | Ann Marie Davis |
 | 81 | 270 | Juanita Lyons |
 | 82 | 268 | Vanessa Moreno |
@@ -93,8 +93,8 @@
 | 85 | 263 | Oscar Bernie |
 | 86 | 263 | Shiny Rollzone |
 | 87 | 261 | MrsClaudette Will'sIam Matthews |
-| 88 | 259 | Melissa Holsinger |
-| 89 | 259 | Autumn Schaeffer |
+| 88 | 259 | Autumn Schaeffer |
+| 89 | 259 | Melissa Holsinger |
 | 90 | 257 | Alex Hill |
 | 91 | 255 | Santana Miyagi |
 | 92 | 254 | Libby Hicks |

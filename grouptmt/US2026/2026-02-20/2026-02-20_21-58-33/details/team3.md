@@ -66,8 +66,8 @@
 | 58 | 120 | Zippy Strikesnap |
 | 59 | 120 | Michael Latasha Gray |
 | 60 | 119 | Emma |
-| 61 | 118 | Trezure Gonzalez |
-| 62 | 118 | Bea Miles |
+| 61 | 118 | Bea Miles |
+| 62 | 118 | Trezure Gonzalez |
 | 63 | 117 | Jessica |
 | 64 | 113 | Jennifer Alvey |
 | 65 | 112 | MissTaylor |
