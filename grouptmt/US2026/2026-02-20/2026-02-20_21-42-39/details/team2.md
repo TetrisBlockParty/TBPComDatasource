@@ -49,8 +49,8 @@
 | 41 | 405 | Samantha Jo |
 | 42 | 391 | Chilly Bridgepiece |
 | 43 | 390 | Dustin Rains |
-| 44 | 382 | Sparkles |
-| 45 | 382 | CoolKat |
+| 44 | 382 | CoolKat |
+| 45 | 382 | Sparkles |
 | 46 | 380 | Joshua Mandel |
 | 47 | 378 | Thomas Hedrick |
 | 48 | 374 | Sam |
@@ -141,8 +141,8 @@
 | 133 | 180 | Ali Gralski |
 | 134 | 180 | ElizabethAnn Dickinson |
 | 135 | 179 | Desiree Harris Rosch |
-| 136 | 177 | Osun Anuket Esu |
-| 137 | 177 | John |
+| 136 | 177 | John |
+| 137 | 177 | Osun Anuket Esu |
 | 138 | 176 | Besma Ao |
 | 139 | 176 | Missie Lawson Gebhardt |
 | 140 | 175 | Ann Knutson Anderson |
@@ -164,16 +164,16 @@
 | 156 | 156 | Nuggets |
 | 157 | 155 | Fi Ne |
 | 158 | 155 | Nika Bee |
-| 159 | 151 | D'Aaron Black |
-| 160 | 151 | Ashle Scranton |
-| 161 | 150 | Tiffney Wroten |
-| 162 | 150 | Justin Hines |
+| 159 | 151 | Ashle Scranton |
+| 160 | 151 | D'Aaron Black |
+| 161 | 150 | Justin Hines |
+| 162 | 150 | Tiffney Wroten |
 | 163 | 148 | Brittany Radaszewski |
 | 164 | 148 | Shannon Byrd |
 | 165 | 146 | Deborah Miller |
 | 166 | 145 | Cappin You |
-| 167 | 142 | Frisky Clearpiece |
-| 168 | 142 | Angela Lynn |
+| 167 | 142 | Angela Lynn |
+| 168 | 142 | Frisky Clearpiece |
 | 169 | 140 | Peter Palestino |
 | 170 | 140 | Christopher Sanders |
 | 171 | 139 | Noel Tarmy |

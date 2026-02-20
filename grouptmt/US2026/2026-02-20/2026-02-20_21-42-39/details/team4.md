@@ -16,8 +16,8 @@
 | 8 | 299 | Isabel Aguilar |
 | 9 | 277 | KJ Pool |
 | 10 | 268 | HastyGrabber |
-| 11 | 256 | Carolyn Wallace |
-| 12 | 256 | Brittney Griggs |
+| 11 | 256 | Brittney Griggs |
+| 12 | 256 | Carolyn Wallace |
 | 13 | 236 | Isabella Blanco |
 | 14 | 175 | Nope Young |
 | 15 | 167 | Rachel Anne |
@@ -68,8 +68,8 @@
 | 60 | 66 | Avy Absol |
 | 61 | 64 | Damn Libra |
 | 62 | 64 | Marcus Todd |
-| 63 | 61 | Jenna Ingersoll |
-| 64 | 61 | Shauna Havard |
+| 63 | 61 | Shauna Havard |
+| 64 | 61 | Jenna Ingersoll |
 | 65 | 60 | Girl |
 | 66 | 57 | Angela Geist Jusinski |
 | 67 | 57 | Mimi |
