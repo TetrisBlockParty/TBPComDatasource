@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Alyssaaelena |
-| 64 | 345 | Rhianna DiLorenzo |
+| 63 | 345 | Rhianna DiLorenzo |
+| 64 | 345 | Alyssaaelena |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 337 | Alisha Peoples |
@@ -131,8 +131,8 @@
 | 123 | 200 | Adam Erikson |
 | 124 | 200 | Sarah Ridenour |
 | 125 | 200 | BYM4L |
-| 126 | 198 | Cheech Dta |
-| 127 | 198 | Richard Horton |
+| 126 | 198 | Richard Horton |
+| 127 | 198 | Cheech Dta |
 | 128 | 197 | Smashanator |
 | 129 | 197 | James Zaragoza |
 | 130 | 196 | Gary Stash |
@@ -157,15 +157,15 @@
 | 149 | 173 | Macy Williams |
 | 150 | 167 | Diane Chenevert Shoemaker |
 | 151 | 167 | Rebecca Doughman |
-| 152 | 167 | Diane Chenevert Shoemaker |
+| 152 | 167 | Fi Ne |
 | 153 | 166 | Taryece Gause |
 | 154 | 166 | Jessica Kaye DeAguero |
 | 155 | 165 | Lively Catcher |
 | 156 | 164 | Jamie Stevey |
 | 157 | 163 | Dedra Steward |
 | 158 | 162 | Nick Jensen |
-| 159 | 161 | Priscilla Noel |
-| 160 | 161 | Mema |
+| 159 | 161 | Mema |
+| 160 | 161 | Priscilla Noel |
 | 161 | 160 | Rhonda Petro |
 | 162 | 160 | Cynthia Ward |
 | 163 | 158 | Matthew Turner |
@@ -174,8 +174,8 @@
 | 166 | 157 | HarleyJane |
 | 167 | 157 | Klee |
 | 168 | 157 | Dineisha Carpenter |
-| 169 | 156 | Nuggets |
-| 170 | 156 | Ramone Armstrong |
+| 169 | 156 | Ramone Armstrong |
+| 170 | 156 | Nuggets |
 | 171 | 155 | Nika Bee |
 | 172 | 151 | D'Aaron Black |
 | 173 | 151 | Ashle Scranton |
@@ -188,11 +188,11 @@
 | 180 | 145 | Cappin You |
 | 181 | 145 | Alexandra Weir |
 | 182 | 145 | Scott Rackley |
-| 183 | 142 | Angela Lynn |
-| 184 | 142 | Frisky Clearpiece |
+| 183 | 142 | Frisky Clearpiece |
+| 184 | 142 | Angela Lynn |
 | 185 | 141 | Markisha Poyndexter |
-| 186 | 140 | Peter Palestino |
-| 187 | 140 | Christopher Sanders |
+| 186 | 140 | Christopher Sanders |
+| 187 | 140 | Peter Palestino |
 | 188 | 139 | Noel Tarmy |
 | 189 | 137 | Kyle LeRoy Harris |
 | 190 | 135 | Michelle Loar |
@@ -218,8 +218,8 @@
 | 210 | 126 | Angela Kummer |
 | 211 | 124 | Monica Brown |
 | 212 | 123 | Ariel |
-| 213 | 122 | Gursharan Sandhu |
-| 214 | 122 | Scott Treadway |
+| 213 | 122 | Scott Treadway |
+| 214 | 122 | Gursharan Sandhu |
 | 215 | 121 | Jessicah Myers |
 | 216 | 121 | Jessica Szymecki |
 | 217 | 120 | Michael Tate |

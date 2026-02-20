@@ -54,8 +54,8 @@
 | 46 | 97 | Ly Phethmany |
 | 47 | 95 | Jennifer Cates |
 | 48 | 94 | Bindi |
-| 49 | 93 | Uhog SF |
-| 50 | 93 | Ty Brown |
+| 49 | 93 | Ty Brown |
+| 50 | 93 | Uhog SF |
 | 51 | 91 | Spunky Piecebuilder |
 | 52 | 90 | comrade fish |
 | 53 | 90 | Madison Wicks |
