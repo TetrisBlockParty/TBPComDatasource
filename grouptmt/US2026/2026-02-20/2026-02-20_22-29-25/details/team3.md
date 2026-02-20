@@ -79,8 +79,8 @@
 | 71 | 118 | Bea Miles |
 | 72 | 113 | Jennifer Alvey |
 | 73 | 111 | Joy Petroski |
-| 74 | 110 | Connie Mohler-Fair |
-| 75 | 110 | Stella |
+| 74 | 110 | Stella |
+| 75 | 110 | Connie Mohler-Fair |
 | 76 | 110 | Tiff Vs Tiffany |
 | 77 | 108 | Grams |
 | 78 | 107 | Bryan Byrd |
@@ -93,8 +93,8 @@
 | 85 | 98 | Jocelyne Baca |
 | 86 | 97 | Fredd Thomas |
 | 87 | 96 | Boldy Corner |
-| 88 | 95 | Demetrious Shaw Sr. |
-| 89 | 95 | Brooke Bauer |
+| 88 | 95 | Brooke Bauer |
+| 89 | 95 | Demetrious Shaw Sr. |
 | 90 | 90 | Tiffany Kaupang |
 | 91 | 89 | Hyper Bridger |
 | 92 | 89 | Annie Déè |
@@ -170,9 +170,9 @@
 | 162 | 52 | Peachy Rollfit |
 | 163 | 51 | Richard Rowell |
 | 164 | 51 | Bekah Dietrich |
-| 165 | 51 | Richard Rowell |
-| 166 | 50 | Rainbow77375 |
-| 167 | 50 | Lisa Lisa |
+| 165 | 51 | Kari Gibson Simmons |
+| 166 | 50 | Lisa Lisa |
+| 167 | 50 | Rainbow77375 |
 | 168 | 49 | Kita A Jackson |
 | 169 | 48 | sapphomet |
 | 170 | 48 | Cheeky Blockline |
