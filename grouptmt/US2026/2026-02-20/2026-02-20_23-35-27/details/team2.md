@@ -322,8 +322,8 @@
 | 314 | 106 | Kristopher Miller |
 | 315 | 106 | Brave Gridpiece |
 | 316 | 105 | Heather Westrum |
-| 317 | 105 | Britney M. |
-| 318 | 105 | Eric Carlson |
+| 317 | 105 | Eric Carlson |
+| 318 | 105 | Britney M. |
 | 319 | 105 | bigskyeffect |
 | 320 | 104 | Marcie McLain Dodd |
 | 321 | 104 | Raffaella Dowling |

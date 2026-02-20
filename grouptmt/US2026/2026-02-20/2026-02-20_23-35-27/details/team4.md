@@ -27,12 +27,12 @@
 | 19 | 174 | Jamie Mann-Deichmann |
 | 20 | 168 | Anthony Magaraci |
 | 21 | 167 | Rachel Anne |
-| 22 | 165 | Koshin Abdirahman |
-| 23 | 165 | Dee Kay |
+| 22 | 165 | Dee Kay |
+| 23 | 165 | Koshin Abdirahman |
 | 24 | 153 | Lucille Truesdale |
 | 25 | 141 | Edward White |
-| 26 | 133 | Devinlee Brown |
-| 27 | 133 | Alicia Bass |
+| 26 | 133 | Alicia Bass |
+| 27 | 133 | Devinlee Brown |
 | 28 | 130 | Casey Jeffcoat |
 | 29 | 129 | Samantha Peterson |
 | 30 | 128 | Robin Watters |
@@ -45,10 +45,10 @@
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
-| 40 | 111 | Gwendolyn Pitcairn |
-| 41 | 111 | Denise Carlson |
-| 42 | 109 | Brittney Orengo |
-| 43 | 109 | Epic Curvetile |
+| 40 | 111 | Denise Carlson |
+| 41 | 111 | Gwendolyn Pitcairn |
+| 42 | 109 | Epic Curvetile |
+| 43 | 109 | Brittney Orengo |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Andria Lynn |
