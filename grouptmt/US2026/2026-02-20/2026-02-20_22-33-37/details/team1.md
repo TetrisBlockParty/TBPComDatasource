@@ -83,12 +83,12 @@
 | 75 | 71 | Teddy Alexander |
 | 76 | 69 | Christina Torres |
 | 77 | 67 | Loony Fitzone |
-| 78 | 66 | Giggly Builderline |
-| 79 | 66 | Archie Ware |
+| 78 | 66 | Archie Ware |
+| 79 | 66 | Giggly Builderline |
 | 80 | 64 | Jessi Sauer |
-| 81 | 63 | Margo Wagner |
-| 82 | 63 | Lincon |
-| 83 | 63 | Mitchel White |
+| 81 | 63 | Mitchel White |
+| 82 | 63 | Margo Wagner |
+| 83 | 63 | Lincon |
 | 84 | 62 | Sarah Henniker |
 | 85 | 62 | Tofy |
 | 86 | 60 | Susanna Guerry |

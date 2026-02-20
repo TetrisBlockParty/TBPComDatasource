@@ -61,8 +61,8 @@
 | 53 | 157 | MissTaylor |
 | 54 | 154 | Danielle Mogg |
 | 55 | 152 | Shiny Zonebuilder |
-| 56 | 149 | Fallorina Susana |
-| 57 | 149 | Shannon Matthew Byers |
+| 56 | 149 | Shannon Matthew Byers |
+| 57 | 149 | Fallorina Susana |
 | 58 | 145 | Trisha Balmer |
 | 59 | 141 | Denita Mungro |
 | 60 | 130 | Tessina Dewey-Mancino |
@@ -93,11 +93,11 @@
 | 85 | 98 | Ryan Williams |
 | 86 | 97 | Fredd Thomas |
 | 87 | 96 | Boldy Corner |
-| 88 | 95 | Demetrious Shaw Sr. |
-| 89 | 95 | Brooke Bauer |
+| 88 | 95 | Brooke Bauer |
+| 89 | 95 | Demetrious Shaw Sr. |
 | 90 | 90 | Tiffany Kaupang |
-| 91 | 89 | Hyper Bridger |
-| 92 | 89 | Annie Déè |
+| 91 | 89 | Annie Déè |
+| 92 | 89 | Hyper Bridger |
 | 93 | 88 | Martin Bernier |
 | 94 | 87 | Sherry Ogden |
 | 95 | 86 | Dan Rob |

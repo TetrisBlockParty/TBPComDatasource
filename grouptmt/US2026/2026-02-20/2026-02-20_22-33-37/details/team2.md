@@ -153,8 +153,8 @@
 | 145 | 181 | Jordan Petro |
 | 146 | 180 | Ali Gralski |
 | 147 | 179 | Desiree Harris Rosch |
-| 148 | 177 | John |
-| 149 | 177 | Osun Anuket Esu |
+| 148 | 177 | Osun Anuket Esu |
+| 149 | 177 | John |
 | 150 | 176 | Missie Lawson Gebhardt |
 | 151 | 176 | Besma Ao |
 | 152 | 175 | Tina Blessed Cage |

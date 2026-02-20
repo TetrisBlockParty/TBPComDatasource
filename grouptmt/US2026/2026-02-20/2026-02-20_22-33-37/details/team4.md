@@ -90,8 +90,8 @@
 | 82 | 53 | Julian Garcia |
 | 83 | 52 | Allison Judith |
 | 84 | 52 | Nicole Silvers |
-| 85 | 51 | Bryan Hodgins |
-| 86 | 51 | Chaz Duncan |
+| 85 | 51 | Chaz Duncan |
+| 86 | 51 | Bryan Hodgins |
 | 87 | 50 | Brandon Crabbs |
 | 88 | 50 | Richard-April Kice |
 | 89 | 49 | Dustin Robert |
