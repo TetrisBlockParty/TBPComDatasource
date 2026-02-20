@@ -61,8 +61,8 @@
 | 53 | 360 | Becky Weeks-Garry |
 | 54 | 355 | Tommy Tha Boss Gunz |
 | 55 | 353 | Charie Holland |
-| 56 | 345 | Alyssaaelena |
-| 57 | 345 | Rhianna DiLorenzo |
+| 56 | 345 | Rhianna DiLorenzo |
+| 57 | 345 | Alyssaaelena |
 | 58 | 343 | Jennifer Peachey |
 | 59 | 342 | Tracy Wise |
 | 60 | 332 | Sarah Freitas |

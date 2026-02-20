@@ -46,8 +46,8 @@
 | 38 | 103 | Sharon Reynolds |
 | 39 | 102 | Veronica Eve |
 | 40 | 100 | Frothy Pattern |
-| 41 | 98 | Dandy Basegrid |
-| 42 | 98 | Flashy Rotator |
+| 41 | 98 | Flashy Rotator |
+| 42 | 98 | Dandy Basegrid |
 | 43 | 95 | Kristen Roles Robben |
 | 44 | 94 | Bindi |
 | 45 | 93 | Uhog SF |

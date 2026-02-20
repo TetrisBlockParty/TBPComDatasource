@@ -62,8 +62,8 @@
 | 54 | 127 | mjl574 |
 | 55 | 126 | Dolores Falco |
 | 56 | 125 | Stephanie Simpson |
-| 57 | 120 | Michael Latasha Gray |
-| 58 | 120 | Zippy Strikesnap |
+| 57 | 120 | Zippy Strikesnap |
+| 58 | 120 | Michael Latasha Gray |
 | 59 | 119 | Emma |
 | 60 | 118 | Trezure Gonzalez |
 | 61 | 118 | Bea Miles |
@@ -111,9 +111,9 @@
 | 103 | 72 | FuzzyNavel |
 | 104 | 72 | Christian Luna |
 | 105 | 69 | Kevin Russell |
-| 106 | 69 | Chasity |
+| 106 | 69 | Jess Reppert |
 | 107 | 69 | Jen Lewis |
-| 108 | 69 | Jess Reppert |
+| 108 | 69 | Chasity |
 | 109 | 68 | Crystel b520 |
 | 110 | 67 | Ava Petito |
 | 111 | 66 | Oliver Neal II |
