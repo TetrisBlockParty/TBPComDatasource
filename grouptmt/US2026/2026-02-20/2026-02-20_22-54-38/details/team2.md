@@ -118,8 +118,8 @@
 | 110 | 244 | Debra Williams |
 | 111 | 243 | Brandy Andre |
 | 112 | 239 | Tee Jaleesa |
-| 113 | 238 | Ann Matzkanin |
-| 114 | 238 | Cheech Dta |
+| 113 | 238 | Cheech Dta |
+| 114 | 238 | Ann Matzkanin |
 | 115 | 236 | Frisky Riserbuilder |
 | 116 | 231 | Dylan Thomason |
 | 117 | 231 | Ginger |
@@ -134,8 +134,8 @@
 | 126 | 214 | Mischelle Clay |
 | 127 | 213 | Diallo Sparkman |
 | 128 | 208 | Andrea Devery Beck |
-| 129 | 207 | Melissa McCall |
-| 130 | 207 | Lindsey Leigh |
+| 129 | 207 | Lindsey Leigh |
+| 130 | 207 | Melissa McCall |
 | 131 | 206 | RAEPR05 |
 | 132 | 205 | ElizabethAnn Dickinson |
 | 133 | 203 | Kimberly Randesi |
