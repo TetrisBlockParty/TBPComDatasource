@@ -16,8 +16,8 @@
 | 8 | 299 | Isabel Aguilar |
 | 9 | 277 | KJ Pool |
 | 10 | 268 | HastyGrabber |
-| 11 | 256 | Brittney Griggs |
-| 12 | 256 | Carolyn Wallace |
+| 11 | 256 | Carolyn Wallace |
+| 12 | 256 | Brittney Griggs |
 | 13 | 236 | Isabella Blanco |
 | 14 | 175 | Nope Young |
 | 15 | 167 | Rachel Anne |
@@ -40,8 +40,8 @@
 | 32 | 107 | Mr. Party |
 | 33 | 100 | Diana Houts |
 | 34 | 99 | Denise Carlson |
-| 35 | 95 | Michelle Morris |
-| 36 | 95 | Stephme310 |
+| 35 | 95 | Stephme310 |
+| 36 | 95 | Michelle Morris |
 | 37 | 91 | Andria Lynn |
 | 38 | 90 | Duck |
 | 39 | 89 | Gwendolyn Pitcairn |

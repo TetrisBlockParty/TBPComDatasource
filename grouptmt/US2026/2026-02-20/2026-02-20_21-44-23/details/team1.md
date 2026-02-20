@@ -46,8 +46,8 @@
 | 38 | 109 | Dandy Basegrid |
 | 39 | 105 | Barry Mac'Ockner |
 | 40 | 103 | Sharon Reynolds |
-| 41 | 102 | Kristen Roles Robben |
-| 42 | 102 | Veronica Eve |
+| 41 | 102 | Veronica Eve |
+| 42 | 102 | Kristen Roles Robben |
 | 43 | 100 | Frothy Pattern |
 | 44 | 98 | Flashy Rotator |
 | 45 | 94 | Bindi |

@@ -49,8 +49,8 @@
 | 41 | 405 | Samantha Jo |
 | 42 | 391 | Chilly Bridgepiece |
 | 43 | 390 | Dustin Rains |
-| 44 | 382 | CoolKat |
-| 45 | 382 | Sparkles |
+| 44 | 382 | Sparkles |
+| 45 | 382 | CoolKat |
 | 46 | 380 | Joshua Mandel |
 | 47 | 378 | Thomas Hedrick |
 | 48 | 374 | Sommer Shope |
@@ -75,8 +75,8 @@
 | 67 | 296 | Laura Marie Pelletier |
 | 68 | 295 | Zany Clusterbuilder |
 | 69 | 290 | Laura McCarthey |
-| 70 | 285 | MrsCandyfine As Wine Truss |
-| 71 | 285 | June E Hanson |
+| 70 | 285 | June E Hanson |
+| 71 | 285 | MrsCandyfine As Wine Truss |
 | 72 | 283 | Poppy Snap |
 | 73 | 281 | Robert Diddle |
 | 74 | 280 | Christina Lewis-Vickers |
