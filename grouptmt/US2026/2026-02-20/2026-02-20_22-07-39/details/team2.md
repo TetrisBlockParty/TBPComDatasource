@@ -91,8 +91,8 @@
 | 83 | 270 | Juanita Lyons |
 | 84 | 268 | Vanessa Moreno |
 | 85 | 265 | Wuntayk |
-| 86 | 263 | Oscar Bernie |
-| 87 | 263 | Shiny Rollzone |
+| 86 | 263 | Shiny Rollzone |
+| 87 | 263 | Oscar Bernie |
 | 88 | 261 | MrsClaudette Will'sIam Matthews |
 | 89 | 260 | Autumn Schaeffer |
 | 90 | 259 | Melissa Holsinger |
