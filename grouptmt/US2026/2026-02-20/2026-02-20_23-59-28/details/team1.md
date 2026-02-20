@@ -20,8 +20,8 @@
 | 12 | 371 | Colena Davenport |
 | 13 | 301 | Zerin Graham |
 | 14 | 294 | Jacqueline Williams |
-| 15 | 281 | Kathi Snustad |
-| 16 | 281 | Nancy Green |
+| 15 | 281 | Nancy Green |
+| 16 | 281 | Kathi Snustad |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 234 | Tipsy Column |
 | 19 | 220 | Jayme Sellers |
@@ -35,14 +35,14 @@
 | 27 | 176 | Jazzy Framezone |
 | 28 | 169 | Erez Yosef |
 | 29 | 153 | Standia Civil |
-| 30 | 151 | Thorne Shumate |
-| 31 | 151 | Hyper |
+| 30 | 151 | Hyper |
+| 31 | 151 | Thorne Shumate |
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |
-| 35 | 144 | Tanya Carpenter-Reynolds |
-| 36 | 144 | Jessie Lynn |
-| 37 | 144 | Tana |
+| 35 | 144 | Tana |
+| 36 | 144 | Tanya Carpenter-Reynolds |
+| 37 | 144 | Jessie Lynn |
 | 38 | 143 | Veronica Eve |
 | 39 | 134 | Plucky Ziggy |
 | 40 | 133 | Brandi Huntington |
@@ -85,8 +85,8 @@
 | 77 | 79 | Chris65 |
 | 78 | 79 | TSwag |
 | 79 | 78 | Carrie Beck Geartz |
-| 80 | 75 | Tyler L Hunt |
-| 81 | 75 | Josie Kirt |
+| 80 | 75 | Josie Kirt |
+| 81 | 75 | Tyler L Hunt |
 | 82 | 74 | Grace Joanne Agnant |
 | 83 | 73 | Bhelle Sumile |
 | 84 | 73 | Loony Fitzone |

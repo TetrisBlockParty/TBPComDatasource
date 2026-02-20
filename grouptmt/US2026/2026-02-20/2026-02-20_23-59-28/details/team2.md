@@ -102,8 +102,8 @@
 | 94 | 317 | Debra Williams |
 | 95 | 317 | bru |
 | 96 | 297 | James Zaragoza |
-| 97 | 295 | Diallo Sparkman |
-| 98 | 295 | Zany Clusterbuilder |
+| 97 | 295 | Zany Clusterbuilder |
+| 98 | 295 | Diallo Sparkman |
 | 99 | 292 | Steve Grotto |
 | 100 | 286 | Juanita Lyons |
 | 101 | 285 | June E Hanson |
@@ -115,15 +115,15 @@
 | 107 | 274 | Melissa Holsinger |
 | 108 | 271 | Ann Marie Davis |
 | 109 | 268 | Vanessa Moreno |
-| 110 | 266 | Jojo Momma |
-| 111 | 266 | Mighty Shatterfit |
+| 110 | 266 | Mighty Shatterfit |
+| 111 | 266 | Jojo Momma |
 | 112 | 266 | Joyce Johnson Vaughn |
 | 113 | 265 | Joseph Musick |
 | 114 | 265 | Wuntayk |
 | 115 | 264 | Lonne Emade |
-| 116 | 263 | Taylor Flowers |
-| 117 | 263 | Shiny Rollzone |
-| 118 | 263 | Oscar Bernie |
+| 116 | 263 | Oscar Bernie |
+| 117 | 263 | Taylor Flowers |
+| 118 | 263 | Shiny Rollzone |
 | 119 | 261 | MrsClaudette Will'sIam Matthews |
 | 120 | 260 | Autumn Schaeffer |
 | 121 | 258 | Véronique Lévesque Sabourin |
