@@ -37,8 +37,8 @@
 | 29 | 679 | Gold Rose |
 | 30 | 677 | Kimberly Michelle Brown |
 | 31 | 674 | Dannette Goldberg-Richards |
-| 32 | 658 | Dreamy Blast |
-| 33 | 658 | Vistabrat |
+| 32 | 658 | Vistabrat |
+| 33 | 658 | Dreamy Blast |
 | 34 | 656 | Pacynthia Williams |
 | 35 | 648 | Rob Riggin |
 | 36 | 648 | Jill Stroehlein |
@@ -140,8 +140,8 @@
 | 132 | 225 | Lindsey Leigh |
 | 133 | 225 | Amber Shoemaker |
 | 134 | 224 | Taylor Flowers |
-| 135 | 223 | Matt Johnson |
-| 136 | 223 | Steven Marshaun |
+| 135 | 223 | Steven Marshaun |
+| 136 | 223 | Matt Johnson |
 | 137 | 222 | snkylnk |
 | 138 | 220 | Mari Ac |
 | 139 | 220 | BYM4L |
@@ -164,8 +164,8 @@
 | 156 | 198 | Julio A Laracuente |
 | 157 | 197 | Smashanator |
 | 158 | 196 | Bubbly Snapfit |
-| 159 | 194 | Tammy Allen |
-| 160 | 194 | Mike Aprilliano |
+| 159 | 194 | Mike Aprilliano |
+| 160 | 194 | Tammy Allen |
 | 161 | 193 | Ariel |
 | 162 | 192 | Ann Knutson Anderson |
 | 163 | 191 | Deana |
@@ -183,11 +183,11 @@
 | 175 | 177 | John |
 | 176 | 177 | Osun Anuket Esu |
 | 177 | 177 | Rosa Franklin |
-| 178 | 176 | Missie Lawson Gebhardt |
-| 179 | 176 | Besma Ao |
+| 178 | 176 | Besma Ao |
+| 179 | 176 | Missie Lawson Gebhardt |
 | 180 | 175 | Tina Blessed Cage |
-| 181 | 173 | Aleasha M Brown |
-| 182 | 173 | Macy Williams |
+| 181 | 173 | Macy Williams |
+| 182 | 173 | Aleasha M Brown |
 | 183 | 170 | Darlene Bowman |
 | 184 | 169 | Lively Catcher |
 | 185 | 168 | Robin |

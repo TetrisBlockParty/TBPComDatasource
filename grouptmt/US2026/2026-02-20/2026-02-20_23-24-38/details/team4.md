@@ -26,8 +26,8 @@
 | 18 | 167 | Rachel Anne |
 | 19 | 165 | Koshin Abdirahman |
 | 20 | 165 | Dee Kay |
-| 21 | 148 | Jenna Ingersoll |
-| 22 | 148 | Alyssa Papen |
+| 21 | 148 | Alyssa Papen |
+| 22 | 148 | Jenna Ingersoll |
 | 23 | 141 | Edward White |
 | 24 | 133 | Alicia Bass |
 | 25 | 133 | Devinlee Brown |

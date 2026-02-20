@@ -25,8 +25,8 @@
 | 17 | 215 | Sarah Roberts |
 | 18 | 197 | Jayme Sellers |
 | 19 | 196 | Elaine Elaine |
-| 20 | 193 | Lexuriuos Lifestlye |
-| 21 | 193 | Tdub |
+| 20 | 193 | Tdub |
+| 21 | 193 | Lexuriuos Lifestlye |
 | 22 | 190 | Sweetts |
 | 23 | 187 | Dee Perry |
 | 24 | 183 | Ly Phethmany |
