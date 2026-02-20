@@ -119,8 +119,8 @@
 | 111 | 80 | Vixen Queen |
 | 112 | 80 | Gumbo |
 | 113 | 79 | Denise Nardoni |
-| 114 | 78 | Karon Griffin |
-| 115 | 78 | Clever Patterner |
+| 114 | 78 | Clever Patterner |
+| 115 | 78 | Karon Griffin |
 | 116 | 76 | Jessica Bechler |
 | 117 | 75 | Janelle Goetz |
 | 118 | 74 | Whitney Manuel |

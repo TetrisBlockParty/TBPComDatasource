@@ -180,14 +180,14 @@
 | 172 | 161 | Ashle Scranton |
 | 173 | 160 | Rhonda Petro |
 | 174 | 160 | Cynthia Ward |
-| 175 | 158 | Austin Wilson |
-| 176 | 158 | Matthew Turner |
+| 175 | 158 | Matthew Turner |
+| 176 | 158 | Austin Wilson |
 | 177 | 158 | RaeVan Worthington |
 | 178 | 157 | HarleyJane |
 | 179 | 157 | Klee |
 | 180 | 157 | Dineisha Carpenter |
-| 181 | 156 | Ramone Armstrong |
-| 182 | 156 | Nuggets |
+| 181 | 156 | Nuggets |
+| 182 | 156 | Ramone Armstrong |
 | 183 | 155 | Nika Bee |
 | 184 | 153 | Robin |
 | 185 | 151 | D'Aaron Black |
@@ -212,8 +212,8 @@
 | 204 | 139 | Noel Tarmy |
 | 205 | 139 | Alexandra Reese |
 | 206 | 138 | Shorty |
-| 207 | 135 | Nancy Reid |
-| 208 | 135 | Michelle Loar |
+| 207 | 135 | Michelle Loar |
+| 208 | 135 | Nancy Reid |
 | 209 | 134 | Sarah Massey |
 | 210 | 133 | coleksquad |
 | 211 | 132 | Paula Snyder |

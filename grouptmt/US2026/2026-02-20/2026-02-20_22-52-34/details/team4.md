@@ -24,8 +24,8 @@
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
 | 18 | 141 | Edward White |
-| 19 | 133 | Devinlee Brown |
-| 20 | 133 | Alicia Bass |
+| 19 | 133 | Alicia Bass |
+| 20 | 133 | Devinlee Brown |
 | 21 | 130 | Casey Jeffcoat |
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
@@ -60,12 +60,12 @@
 | 52 | 80 | Alyssa Papen |
 | 53 | 77 | Kim Hunt |
 | 54 | 76 | Kristin MacDonald |
-| 55 | 75 | Rosemary Foster |
-| 56 | 75 | Avy Absol |
+| 55 | 75 | Avy Absol |
+| 56 | 75 | Rosemary Foster |
 | 57 | 74 | Chair |
 | 58 | 73 | Lauren Lamb |
-| 59 | 72 | Kesha Brady |
-| 60 | 72 | Joshua Cuellar |
+| 59 | 72 | Joshua Cuellar |
+| 60 | 72 | Kesha Brady |
 | 61 | 70 | Valerie Roberts |
 | 62 | 70 | Christina Black |
 | 63 | 68 | Sam Middleton |
@@ -83,8 +83,8 @@
 | 75 | 55 | RiahRose |
 | 76 | 55 | Chris Alexinas |
 | 77 | 55 | mini |
-| 78 | 54 | Carter Jones |
-| 79 | 54 | Destiney Carter |
+| 78 | 54 | Destiney Carter |
+| 79 | 54 | Carter Jones |
 | 80 | 54 | Jennifer Perkins |
 | 81 | 53 | Zany Twisterfit |
 | 82 | 53 | Julian Garcia |
