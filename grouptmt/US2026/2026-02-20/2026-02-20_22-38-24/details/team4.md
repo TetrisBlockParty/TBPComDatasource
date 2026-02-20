@@ -79,23 +79,23 @@
 | 71 | 61 | Shauna Havard |
 | 72 | 60 | Girl |
 | 73 | 56 | Stephanie Jones |
-| 74 | 55 | RiahRose |
+| 74 | 55 | mini |
 | 75 | 55 | Chris Alexinas |
-| 76 | 55 | mini |
-| 77 | 54 | Jennifer Perkins |
+| 76 | 55 | RiahRose |
+| 77 | 54 | Carter Jones |
 | 78 | 54 | Destiney Carter |
-| 79 | 54 | Carter Jones |
-| 80 | 53 | Jackson Karen |
+| 79 | 54 | Jennifer Perkins |
+| 80 | 53 | Zany Twisterfit |
 | 81 | 53 | Julian Garcia |
-| 82 | 53 | Zany Twisterfit |
+| 82 | 53 | Jackson Karen |
 | 83 | 52 | Allison Judith |
 | 84 | 52 | Nicole Silvers |
-| 85 | 51 | Chaz Duncan |
-| 86 | 51 | Bryan Hodgins |
-| 87 | 50 | Richard-April Kice |
-| 88 | 50 | Brandon Crabbs |
-| 89 | 49 | Justin Hannigan |
-| 90 | 49 | Dustin Robert |
+| 85 | 51 | Bryan Hodgins |
+| 86 | 51 | Chaz Duncan |
+| 87 | 50 | Brandon Crabbs |
+| 88 | 50 | Richard-April Kice |
+| 89 | 49 | Dustin Robert |
+| 90 | 49 | Justin Hannigan |
 | 91 | 49 | Lakesha Johnson |
 | 92 | 47 | Amy Sanford |
 | 93 | 47 | Chastity Mitchell |

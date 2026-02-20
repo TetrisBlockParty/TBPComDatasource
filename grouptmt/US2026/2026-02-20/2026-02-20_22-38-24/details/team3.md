@@ -41,8 +41,8 @@
 | 33 | 307 | Peggi Charon |
 | 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
-| 36 | 291 | Laura Melton |
-| 37 | 291 | Tasha Schriewer |
+| 36 | 291 | Tasha Schriewer |
+| 37 | 291 | Laura Melton |
 | 38 | 272 | Mahman |
 | 39 | 240 | Ebony West-Cundiff |
 | 40 | 239 | Lush Buildout |
@@ -61,8 +61,8 @@
 | 53 | 170 | Nerdy Riseclear |
 | 54 | 154 | Danielle Mogg |
 | 55 | 152 | Shiny Zonebuilder |
-| 56 | 149 | Shannon Matthew Byers |
-| 57 | 149 | Fallorina Susana |
+| 56 | 149 | Fallorina Susana |
+| 57 | 149 | Shannon Matthew Byers |
 | 58 | 145 | Trisha Balmer |
 | 59 | 141 | Denita Mungro |
 | 60 | 130 | Zippy Strikesnap |

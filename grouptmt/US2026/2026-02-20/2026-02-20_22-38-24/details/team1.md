@@ -38,8 +38,8 @@
 | 30 | 144 | Jessie Lynn |
 | 31 | 134 | Plucky Ziggy |
 | 32 | 129 | Mandyy Rae |
-| 33 | 127 | Lachelle Dillon |
-| 34 | 127 | Veronica Eve |
+| 33 | 127 | Veronica Eve |
+| 34 | 127 | Lachelle Dillon |
 | 35 | 126 | Cece Ibarra |
 | 36 | 125 | Thorne Shumate |
 | 37 | 123 | Rico Rico |
@@ -69,8 +69,8 @@
 | 61 | 84 | Charla Pross-Fugleberg |
 | 62 | 83 | Death |
 | 63 | 82 | Melissa Lemmon |
-| 64 | 81 | Garcia Bailey |
-| 65 | 81 | Bob |
+| 64 | 81 | Bob |
+| 65 | 81 | Garcia Bailey |
 | 66 | 80 | Matt Cinelli |
 | 67 | 79 | Chris65 |
 | 68 | 78 | Carrie Beck Geartz |

@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Rhianna DiLorenzo |
-| 64 | 345 | Alyssaaelena |
+| 63 | 345 | Alyssaaelena |
+| 64 | 345 | Rhianna DiLorenzo |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 341 | Sarah Freitas |
@@ -180,11 +180,11 @@
 | 172 | 158 | Austin Wilson |
 | 173 | 158 | Matthew Turner |
 | 174 | 158 | RaeVan Worthington |
-| 175 | 157 | HarleyJane |
-| 176 | 157 | Klee |
+| 175 | 157 | Klee |
+| 176 | 157 | HarleyJane |
 | 177 | 157 | Dineisha Carpenter |
-| 178 | 156 | Nuggets |
-| 179 | 156 | Ramone Armstrong |
+| 178 | 156 | Ramone Armstrong |
+| 179 | 156 | Nuggets |
 | 180 | 155 | Nika Bee |
 | 181 | 151 | D'Aaron Black |
 | 182 | 151 | Dizzy Zone |
@@ -200,8 +200,8 @@
 | 192 | 142 | Angela Lynn |
 | 193 | 142 | Frisky Clearpiece |
 | 194 | 141 | Markisha Poyndexter |
-| 195 | 140 | Anthony Huebel |
-| 196 | 140 | Peter Palestino |
+| 195 | 140 | Peter Palestino |
+| 196 | 140 | Anthony Huebel |
 | 197 | 139 | Noel Tarmy |
 | 198 | 139 | Alexandra Reese |
 | 199 | 137 | Kyle LeRoy Harris |
