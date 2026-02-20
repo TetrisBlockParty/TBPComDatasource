@@ -61,8 +61,8 @@
 | 53 | 127 | mjl574 |
 | 54 | 126 | Dolores Falco |
 | 55 | 125 | Stephanie Simpson |
-| 56 | 120 | Michael Latasha Gray |
-| 57 | 120 | Zippy Strikesnap |
+| 56 | 120 | Zippy Strikesnap |
+| 57 | 120 | Michael Latasha Gray |
 | 58 | 119 | Emma |
 | 59 | 118 | Bea Miles |
 | 60 | 118 | Trezure Gonzalez |

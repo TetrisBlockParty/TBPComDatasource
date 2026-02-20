@@ -82,8 +82,8 @@
 | 74 | 271 | Ann Marie Davis |
 | 75 | 270 | Juanita Lyons |
 | 76 | 268 | Vanessa Moreno |
-| 77 | 263 | Shiny Rollzone |
-| 78 | 263 | Oscar Bernie |
+| 77 | 263 | Oscar Bernie |
+| 78 | 263 | Shiny Rollzone |
 | 79 | 262 | E_Money04 |
 | 80 | 261 | MrsClaudette Will'sIam Matthews |
 | 81 | 259 | Autumn Schaeffer |
@@ -142,8 +142,8 @@
 | 134 | 175 | Ann Knutson Anderson |
 | 135 | 170 | Mari Ac |
 | 136 | 166 | Jessica Kaye DeAguero |
-| 137 | 163 | Taryece Gause |
-| 138 | 163 | Missie Lawson Gebhardt |
+| 137 | 163 | Missie Lawson Gebhardt |
+| 138 | 163 | Taryece Gause |
 | 139 | 162 | Nick Jensen |
 | 140 | 160 | Mema |
 | 141 | 160 | Rhonda Petro |
@@ -193,8 +193,8 @@
 | 185 | 127 | Amy Ross |
 | 186 | 127 | Ellie Jonas |
 | 187 | 126 | Angela Kummer |
-| 188 | 126 | Ethan Stienbarger |
-| 189 | 126 | Lisa Ongtowasruk |
+| 188 | 126 | Lisa Ongtowasruk |
+| 189 | 126 | Ethan Stienbarger |
 | 190 | 124 | Monica Brown |
 | 191 | 123 | Ashlyn Berner |
 | 192 | 122 | Scott Treadway |

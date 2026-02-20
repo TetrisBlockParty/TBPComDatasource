@@ -88,8 +88,8 @@
 | 80 | 50 | Richard-April Kice |
 | 81 | 50 | Sherri |
 | 82 | 49 | Lakesha Johnson |
-| 83 | 46 | Jeff Brian Gates |
-| 84 | 46 | Aly Eggers |
+| 83 | 46 | Aly Eggers |
+| 84 | 46 | Jeff Brian Gates |
 | 85 | 46 | Natalie;) |
 | 86 | 45 | Tammy Lewis |
 | 87 | 45 | Amy Sanford |

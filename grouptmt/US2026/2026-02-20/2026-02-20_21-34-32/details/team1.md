@@ -68,8 +68,8 @@
 | 60 | 75 | Jennifer Cates |
 | 61 | 75 | TSwag |
 | 62 | 74 | Bob |
-| 63 | 72 | Tipsy Strikerpiece |
-| 64 | 72 | Adryane Schnase |
+| 63 | 72 | Adryane Schnase |
+| 64 | 72 | Tipsy Strikerpiece |
 | 65 | 71 | Teddy Alexander |
 | 66 | 69 | Christina Torres |
 | 67 | 67 | Loony Fitzone |
