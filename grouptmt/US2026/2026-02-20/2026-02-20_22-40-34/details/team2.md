@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Alyssaaelena |
-| 64 | 345 | Rhianna DiLorenzo |
+| 63 | 345 | Rhianna DiLorenzo |
+| 64 | 345 | Alyssaaelena |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 341 | Sarah Freitas |
@@ -227,8 +227,8 @@
 | 219 | 126 | Kyle Saunders |
 | 220 | 126 | Angela Kummer |
 | 221 | 124 | Monica Brown |
-| 222 | 122 | Scott Treadway |
-| 223 | 122 | Gursharan Sandhu |
+| 222 | 122 | Gursharan Sandhu |
+| 223 | 122 | Scott Treadway |
 | 224 | 121 | Jessicah Myers |
 | 225 | 121 | Amy Humphreys |
 | 226 | 121 | Jessica Szymecki |
@@ -330,8 +330,8 @@
 | 322 | 96 | Taylor Flowers |
 | 323 | 95 | Kia Humphery |
 | 324 | 95 | Crafty Spinzone |
-| 325 | 94 | Ken Verne III |
-| 326 | 94 | Carrie Pike |
+| 325 | 94 | Carrie Pike |
+| 326 | 94 | Ken Verne III |
 | 327 | 93 | Moose Griffith |
 | 328 | 92 | Jelly |
 | 329 | 92 | Christy Miller Donham |
@@ -412,7 +412,7 @@
 | 404 | 74 | Janae Maria Hines |
 | 405 | 73 | Allison Hewitt |
 | 406 | 73 | Amanda Michelle Pigeon |
-| 407 | 73 | David Camron Howard |
+| 407 | 73 | Stephanie Matas |
 | 408 | 73 | mshir |
 | 409 | 73 | David Camron Howard |
 | 410 | 72 | Ashley Dow |

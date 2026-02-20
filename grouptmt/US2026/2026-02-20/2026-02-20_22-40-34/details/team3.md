@@ -72,8 +72,8 @@
 | 64 | 127 | Dolores Falco |
 | 65 | 126 | ren |
 | 66 | 125 | Stephanie Simpson |
-| 67 | 122 | Jennifer Willis |
-| 68 | 122 | Emma |
+| 67 | 122 | Emma |
+| 68 | 122 | Jennifer Willis |
 | 69 | 120 | Michael Latasha Gray |
 | 70 | 119 | Jessica |
 | 71 | 118 | Bea Miles |

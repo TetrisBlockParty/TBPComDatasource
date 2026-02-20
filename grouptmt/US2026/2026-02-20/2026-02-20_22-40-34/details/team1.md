@@ -88,14 +88,14 @@
 | 80 | 65 | Trippy Redd |
 | 81 | 64 | Jessi Sauer |
 | 82 | 63 | Margo Wagner |
-| 83 | 63 | Lincon |
-| 84 | 63 | Mitchel White |
-| 85 | 62 | Tofy |
-| 86 | 62 | Sarah Henniker |
-| 87 | 60 | Susanna Guerry |
+| 83 | 63 | Mitchel White |
+| 84 | 63 | Lincon |
+| 85 | 62 | Sarah Henniker |
+| 86 | 62 | Tofy |
+| 87 | 60 | Karin Gillen |
 | 88 | 60 | Tina Englert |
-| 89 | 60 | BigWeenie69 |
-| 90 | 60 | Karin Gillen |
+| 89 | 60 | Susanna Guerry |
+| 90 | 60 | BigWeenie69 |
 | 91 | 59 | Mel Hogan |
 | 92 | 58 | Shiny Gridmatch |
 | 93 | 58 | Jason Cox |
@@ -117,10 +117,10 @@
 | 109 | 48 | MamaB24 |
 | 110 | 48 | Chuck Gannon |
 | 111 | 48 | Tami Luce Martin |
-| 112 | 48 | TristansDad |
-| 113 | 48 | Chuck Gannon |
-| 114 | 47 | Kellie |
-| 115 | 47 | Christy Jones |
+| 112 | 48 | Dino |
+| 113 | 48 | TristansDad |
+| 114 | 47 | Christy Jones |
+| 115 | 47 | Kellie |
 | 116 | 46 | Robert Benito |
 | 117 | 45 | Josie Kirt |
 | 118 | 45 | Logan McFarland |
@@ -153,8 +153,8 @@
 | 145 | 38 | Alenoush Karimian |
 | 146 | 38 | Mavria Comeaux Hinton |
 | 147 | 38 | Aaron Garnett |
-| 148 | 37 | William Maix |
-| 149 | 37 | Loony Zoney |
+| 148 | 37 | Loony Zoney |
+| 149 | 37 | William Maix |
 | 150 | 37 | Steven Collins |
 | 151 | 36 | Missfortune |
 | 152 | 36 | Larry Tilton |
