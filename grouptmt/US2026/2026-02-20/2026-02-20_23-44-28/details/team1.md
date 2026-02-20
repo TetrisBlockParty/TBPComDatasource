@@ -75,7 +75,7 @@
 | 67 | 87 | Jessi Sauer |
 | 68 | 85 | Ananda Mendez |
 | 69 | 84 | Charla Pross-Fugleberg |
-| 70 | 83 | Melissa Lemmon |
+| 70 | 83 | Guest |
 | 71 | 83 | Death |
 | 72 | 83 | Melissa Lemmon |
 | 73 | 81 | Bob |

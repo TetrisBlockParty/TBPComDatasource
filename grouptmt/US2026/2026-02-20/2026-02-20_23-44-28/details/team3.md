@@ -76,12 +76,12 @@
 | 68 | 135 | Danielle Cutler |
 | 69 | 135 | Latoya Mayne |
 | 70 | 134 | DanceLuvLaugh |
-| 71 | 130 | Tessina Dewey-Mancino |
-| 72 | 130 | Zippy Strikesnap |
+| 71 | 130 | Zippy Strikesnap |
+| 72 | 130 | Tessina Dewey-Mancino |
 | 73 | 129 | Giddy Twistbuilder |
 | 74 | 128 | Angel Mendez |
-| 75 | 127 | Dolores Falco |
-| 76 | 127 | mjl574 |
+| 75 | 127 | mjl574 |
+| 76 | 127 | Dolores Falco |
 | 77 | 126 | ren |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 122 | Emma |
@@ -100,9 +100,9 @@
 | 92 | 102 | Sarah Moyer |
 | 93 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 94 | 101 | Mykal Burton |
-| 95 | 100 | Fancy Slam |
-| 96 | 100 | Bobbi Moore |
-| 97 | 100 | Fredd Thomas |
+| 95 | 100 | Bobbi Moore |
+| 96 | 100 | Fredd Thomas |
+| 97 | 100 | Fancy Slam |
 | 98 | 99 | Nichol Graham |
 | 99 | 98 | Ryan Williams |
 | 100 | 98 | Ashley Tookes |
@@ -114,10 +114,10 @@
 | 106 | 91 | D3NO |
 | 107 | 91 | Lys |
 | 108 | 90 | Tiffany Kaupang |
-| 109 | 89 | Hyper Bridger |
-| 110 | 89 | Annie Déè |
-| 111 | 88 | Funky Jumper |
-| 112 | 88 | Martin Bernier |
+| 109 | 89 | Annie Déè |
+| 110 | 89 | Hyper Bridger |
+| 111 | 88 | Martin Bernier |
+| 112 | 88 | Funky Jumper |
 | 113 | 87 | Delilah belle |
 | 114 | 87 | Sherry Ogden |
 | 115 | 86 | Dan Rob |
@@ -192,8 +192,8 @@
 | 184 | 55 | France Vézina |
 | 185 | 54 | Ivie Halftown |
 | 186 | 54 | Christine Ann Eras |
-| 187 | 54 | Peachy Rollfit |
-| 188 | 54 | Ivie Halftown |
+| 187 | 54 | Rania Zaqout |
+| 188 | 54 | Peachy Rollfit |
 | 189 | 54 | Ashley Raines |
 | 190 | 53 | Payden Dover |
 | 191 | 53 | Nikki Pags |

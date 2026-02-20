@@ -85,8 +85,8 @@
 | 77 | 350 | Chris Harr |
 | 78 | 346 | Gene Mills |
 | 79 | 345 | Brenda Messer |
-| 80 | 345 | Alyssaaelena |
-| 81 | 345 | Rhianna DiLorenzo |
+| 80 | 345 | Rhianna DiLorenzo |
+| 81 | 345 | Alyssaaelena |
 | 82 | 342 | Tracy Wise |
 | 83 | 341 | Sarah Freitas |
 | 84 | 341 | Sam McKenzie |
