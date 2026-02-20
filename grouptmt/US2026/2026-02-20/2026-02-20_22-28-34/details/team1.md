@@ -29,8 +29,8 @@
 | 21 | 181 | Tdub |
 | 22 | 176 | Jazzy Framezone |
 | 23 | 169 | Erez Yosef |
-| 24 | 151 | Standia Civil |
-| 25 | 151 | Hyper |
+| 24 | 151 | Hyper |
+| 25 | 151 | Standia Civil |
 | 26 | 146 | Abbey Crespo |
 | 27 | 144 | Jessie Lynn |
 | 28 | 144 | Tanya Carpenter-Reynolds |
@@ -72,9 +72,9 @@
 | 64 | 81 | Garcia Bailey |
 | 65 | 80 | Matt Cinelli |
 | 66 | 79 | Chris65 |
-| 67 | 78 | TSwag |
-| 68 | 78 | Guest |
-| 69 | 78 | Carrie Beck Geartz |
+| 67 | 78 | Guest |
+| 68 | 78 | Carrie Beck Geartz |
+| 69 | 78 | TSwag |
 | 70 | 75 | Tyler L Hunt |
 | 71 | 73 | Witty Builderfit |
 | 72 | 72 | Tipsy Strikerpiece |

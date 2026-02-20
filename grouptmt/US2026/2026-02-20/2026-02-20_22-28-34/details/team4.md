@@ -64,10 +64,10 @@
 | 56 | 73 | Lauren Lamb |
 | 57 | 72 | Kesha Brady |
 | 58 | 70 | Joshua Cuellar |
-| 59 | 70 | Christina Black |
-| 60 | 70 | Valerie Roberts |
-| 61 | 68 | LS |
-| 62 | 68 | Sam Middleton |
+| 59 | 70 | Valerie Roberts |
+| 60 | 70 | Christina Black |
+| 61 | 68 | Sam Middleton |
+| 62 | 68 | LS |
 | 63 | 68 | Alyssa Papen |
 | 64 | 67 | Zesty Twistbuilder |
 | 65 | 65 | Angela Geist Jusinski |
