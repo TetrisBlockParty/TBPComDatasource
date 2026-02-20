@@ -158,15 +158,15 @@
 | 150 | 176 | Missie Lawson Gebhardt |
 | 151 | 176 | Besma Ao |
 | 152 | 175 | Tina Blessed Cage |
-| 153 | 173 | Macy Williams |
-| 154 | 173 | Rebecca Doughman |
+| 153 | 173 | Rebecca Doughman |
+| 154 | 173 | Macy Williams |
 | 155 | 167 | Diane Chenevert Shoemaker |
 | 156 | 167 | Fi Ne |
 | 157 | 166 | Taryece Gause |
 | 158 | 166 | Jessica Kaye DeAguero |
 | 159 | 165 | Lively Catcher |
-| 160 | 164 | Jamie Stevey |
-| 161 | 164 | Diallo Sparkman |
+| 160 | 164 | Diallo Sparkman |
+| 161 | 164 | Jamie Stevey |
 | 162 | 163 | Dedra Steward |
 | 163 | 162 | Nick Jensen |
 | 164 | 161 | Priscilla Noel |
@@ -182,8 +182,8 @@
 | 174 | 157 | Dineisha Carpenter |
 | 175 | 156 | Nuggets |
 | 176 | 156 | Ramone Armstrong |
-| 177 | 155 | Christopher Sanders |
-| 178 | 155 | Nika Bee |
+| 177 | 155 | Nika Bee |
+| 178 | 155 | Christopher Sanders |
 | 179 | 153 | Ariel |
 | 180 | 151 | Dizzy Zone |
 | 181 | 151 | D'Aaron Black |
@@ -195,11 +195,11 @@
 | 187 | 145 | Cappin You |
 | 188 | 145 | Alexandra Weir |
 | 189 | 145 | Scott Rackley |
-| 190 | 142 | Angela Lynn |
-| 191 | 142 | Frisky Clearpiece |
+| 190 | 142 | Frisky Clearpiece |
+| 191 | 142 | Angela Lynn |
 | 192 | 141 | Markisha Poyndexter |
-| 193 | 140 | Anthony Huebel |
-| 194 | 140 | Peter Palestino |
+| 193 | 140 | Peter Palestino |
+| 194 | 140 | Anthony Huebel |
 | 195 | 139 | Noel Tarmy |
 | 196 | 139 | Alexandra Reese |
 | 197 | 137 | Kyle LeRoy Harris |
