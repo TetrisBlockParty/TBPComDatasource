@@ -61,8 +61,8 @@
 | 53 | 95 | Jodee Woods |
 | 54 | 95 | Jennifer Cates |
 | 55 | 94 | Bindi |
-| 56 | 93 | Uhog SF |
-| 57 | 93 | Ty Brown |
+| 56 | 93 | Ty Brown |
+| 57 | 93 | Uhog SF |
 | 58 | 93 | Ash Galvan |
 | 59 | 91 | COOL as Icer |
 | 60 | 91 | Spunky Piecebuilder |

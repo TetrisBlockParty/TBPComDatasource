@@ -35,11 +35,11 @@
 | 27 | 679 | Gold Rose |
 | 28 | 677 | Kimberly Michelle Brown |
 | 29 | 674 | Dannette Goldberg-Richards |
-| 30 | 658 | Dreamy Blast |
-| 31 | 658 | Vistabrat |
+| 30 | 658 | Vistabrat |
+| 31 | 658 | Dreamy Blast |
 | 32 | 656 | Pacynthia Williams |
-| 33 | 648 | Jill Stroehlein |
-| 34 | 648 | Rob Riggin |
+| 33 | 648 | Rob Riggin |
+| 34 | 648 | Jill Stroehlein |
 | 35 | 615 | Vo'Landa Reels |
 | 36 | 605 | Christopher Sanders |
 | 37 | 600 | Cool Snapclear |
@@ -233,8 +233,8 @@
 | 225 | 137 | Jessicah Myers |
 | 226 | 137 | Chummy Blockbuilder |
 | 227 | 136 | blarg |
-| 228 | 135 | Nancy Reid |
-| 229 | 135 | Michelle Loar |
+| 228 | 135 | Michelle Loar |
+| 229 | 135 | Nancy Reid |
 | 230 | 134 | Sarah Massey |
 | 231 | 133 | coleksquad |
 | 232 | 133 | Aleasha M Brown |

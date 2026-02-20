@@ -110,8 +110,8 @@
 | 102 | 87 | Sherry Ogden |
 | 103 | 87 | Lys |
 | 104 | 86 | Dan Rob |
-| 105 | 85 | Shari Garber |
-| 106 | 85 | Delilah belle |
+| 105 | 85 | Delilah belle |
+| 106 | 85 | Shari Garber |
 | 107 | 84 | Eon Harris |
 | 108 | 83 | LaTanya GeminiondaRise Johnson |
 | 109 | 82 | D3NO |
