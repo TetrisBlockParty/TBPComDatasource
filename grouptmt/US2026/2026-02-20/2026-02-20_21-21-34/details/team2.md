@@ -100,13 +100,13 @@
 | 92 | 239 | Tee Jaleesa |
 | 93 | 236 | Frisky Riserbuilder |
 | 94 | 233 | Ann Matzkanin |
-| 95 | 231 | Ginger |
-| 96 | 231 | Brittney Jean |
+| 95 | 231 | Brittney Jean |
+| 96 | 231 | Ginger |
 | 97 | 229 | Mighty Shatterfit |
 | 98 | 223 | Steven Marshaun |
 | 99 | 217 | Donna Chandler |
-| 100 | 214 | Mischelle Clay |
-| 101 | 214 | snkylnk |
+| 100 | 214 | snkylnk |
+| 101 | 214 | Mischelle Clay |
 | 102 | 208 | Andrea Devery Beck |
 | 103 | 207 | Melissa McCall |
 | 104 | 206 | RAEPR05 |
@@ -393,7 +393,7 @@
 | 385 | 65 | Jayce Johnson-Smith |
 | 386 | 65 | David Camron Howard |
 | 387 | 65 | Laura McConnell |
-| 388 | 65 | Tynequa Cox |
+| 388 | 65 | Snappy Slamdrop |
 | 389 | 65 | Cristy Richardson |
 | 390 | 65 | Alex Marie Desantiago |
 | 391 | 64 | Spunky Dash |

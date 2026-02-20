@@ -56,8 +56,8 @@
 | 48 | 136 | Shiny Zonebuilder |
 | 49 | 128 | Giddy Twistbuilder |
 | 50 | 127 | mjl574 |
-| 51 | 126 | Trisha Balmer |
-| 52 | 126 | Dolores Falco |
+| 51 | 126 | Dolores Falco |
+| 52 | 126 | Trisha Balmer |
 | 53 | 125 | Stephanie Simpson |
 | 54 | 120 | Michael Latasha Gray |
 | 55 | 120 | Zippy Strikesnap |
