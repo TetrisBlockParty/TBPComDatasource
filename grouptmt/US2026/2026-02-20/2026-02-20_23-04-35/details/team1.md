@@ -64,10 +64,10 @@
 | 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
 | 58 | 93 | Ash Galvan |
-| 59 | 91 | COOL as Icer |
-| 60 | 91 | Spunky Piecebuilder |
-| 61 | 90 | comrade fish |
-| 62 | 90 | Madison Wicks |
+| 59 | 91 | Spunky Piecebuilder |
+| 60 | 91 | COOL as Icer |
+| 61 | 90 | Madison Wicks |
+| 62 | 90 | comrade fish |
 | 63 | 85 | Ananda Mendez |
 | 64 | 84 | Charla Pross-Fugleberg |
 | 65 | 83 | Death |
@@ -90,7 +90,7 @@
 | 82 | 66 | Archie Ware |
 | 83 | 65 | Trippy Redd |
 | 84 | 64 | Jessi Sauer |
-| 85 | 63 | Mitchel White |
+| 85 | 63 | Margo Wagner |
 | 86 | 63 | Lincon |
 | 87 | 63 | Mitchel White |
 | 88 | 62 | Anaid Sanchez |

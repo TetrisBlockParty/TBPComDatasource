@@ -65,8 +65,8 @@
 | 57 | 75 | Rosemary Foster |
 | 58 | 75 | Chair |
 | 59 | 73 | Lauren Lamb |
-| 60 | 72 | Kesha Brady |
-| 61 | 72 | Joshua Cuellar |
+| 60 | 72 | Joshua Cuellar |
+| 61 | 72 | Kesha Brady |
 | 62 | 71 | Zesty Twistbuilder |
 | 63 | 70 | Valerie Roberts |
 | 64 | 70 | Christina Black |
@@ -76,19 +76,19 @@
 | 68 | 65 | Angela Geist Jusinski |
 | 69 | 64 | Damn Libra |
 | 70 | 64 | Marcus Todd |
-| 71 | 61 | Shauna Havard |
-| 72 | 61 | Alee Marie |
-| 73 | 61 | Jenna Ingersoll |
+| 71 | 61 | Jenna Ingersoll |
+| 72 | 61 | Shauna Havard |
+| 73 | 61 | Alee Marie |
 | 74 | 60 | Girl |
 | 75 | 59 | Joseph Pace |
 | 76 | 57 | Kimberly Love |
 | 77 | 56 | Stephanie Jones |
 | 78 | 55 | Chris Alexinas |
-| 79 | 55 | mini |
-| 80 | 55 | RiahRose |
+| 79 | 55 | RiahRose |
+| 80 | 55 | mini |
 | 81 | 54 | Jennifer Perkins |
-| 82 | 54 | Destiney Carter |
-| 83 | 54 | Carter Jones |
+| 82 | 54 | Carter Jones |
+| 83 | 54 | Destiney Carter |
 | 84 | 53 | Julian Garcia |
 | 85 | 53 | Zany Twisterfit |
 | 86 | 53 | Jackson Karen |

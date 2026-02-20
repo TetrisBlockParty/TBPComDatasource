@@ -42,8 +42,8 @@
 | 34 | 307 | Peggi Charon |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 295 | Clever Roll |
-| 37 | 291 | Laura Melton |
-| 38 | 291 | Tasha Schriewer |
+| 37 | 291 | Tasha Schriewer |
+| 38 | 291 | Laura Melton |
 | 39 | 272 | Mahman |
 | 40 | 260 | Ebony West-Cundiff |
 | 41 | 248 | Natasha Jones |
