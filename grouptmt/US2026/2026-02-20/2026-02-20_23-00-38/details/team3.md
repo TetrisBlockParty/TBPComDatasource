@@ -38,8 +38,8 @@
 | 30 | 333 | Silly Twist |
 | 31 | 331 | Gracie |
 | 32 | 320 | Or Reznitsky |
-| 33 | 307 | Kristie |
-| 34 | 307 | Peggi Charon |
+| 33 | 307 | Peggi Charon |
+| 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 295 | Clever Roll |
 | 37 | 291 | Laura Melton |
@@ -121,8 +121,8 @@
 | 113 | 80 | Vixen Queen |
 | 114 | 80 | Jimmie Clemons |
 | 115 | 79 | Denise Nardoni |
-| 116 | 78 | Clever Patterner |
-| 117 | 78 | Karon Griffin |
+| 116 | 78 | Karon Griffin |
+| 117 | 78 | Clever Patterner |
 | 118 | 77 | LaTanya GeminiondaRise Johnson |
 | 119 | 76 | Jessica Bechler |
 | 120 | 76 | D3NO |
