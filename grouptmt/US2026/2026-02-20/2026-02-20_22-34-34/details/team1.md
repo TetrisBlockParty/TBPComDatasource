@@ -29,8 +29,8 @@
 | 21 | 181 | Tdub |
 | 22 | 176 | Jazzy Framezone |
 | 23 | 169 | Erez Yosef |
-| 24 | 151 | Standia Civil |
-| 25 | 151 | Hyper |
+| 24 | 151 | Hyper |
+| 25 | 151 | Standia Civil |
 | 26 | 146 | Abbey Crespo |
 | 27 | 144 | Tana |
 | 28 | 144 | Jessie Lynn |
@@ -55,8 +55,8 @@
 | 47 | 100 | Frothy Pattern |
 | 48 | 98 | Flashy Rotator |
 | 49 | 97 | Ly Phethmany |
-| 50 | 95 | Jennifer Cates |
-| 51 | 95 | Jodee Woods |
+| 50 | 95 | Jodee Woods |
+| 51 | 95 | Jennifer Cates |
 | 52 | 94 | Bindi |
 | 53 | 93 | Jayme Sellers |
 | 54 | 93 | Ash Galvan |

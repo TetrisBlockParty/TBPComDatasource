@@ -79,9 +79,9 @@
 | 71 | 118 | Bea Miles |
 | 72 | 113 | Jennifer Alvey |
 | 73 | 111 | Joy Petroski |
-| 74 | 110 | Tiff Vs Tiffany |
+| 74 | 110 | Stella |
 | 75 | 110 | Connie Mohler-Fair |
-| 76 | 110 | Stella |
+| 76 | 110 | Tiff Vs Tiffany |
 | 77 | 108 | Grams |
 | 78 | 107 | Bryan Byrd |
 | 79 | 101 | Mykal Burton |

@@ -75,8 +75,8 @@
 | 67 | 341 | Sarah Freitas |
 | 68 | 337 | Alisha Peoples |
 | 69 | 328 | Marie Boyd Faulk |
-| 70 | 323 | Daphne Jordan |
-| 71 | 323 | Danielle Simmons |
+| 70 | 323 | Danielle Simmons |
+| 71 | 323 | Daphne Jordan |
 | 72 | 311 | Gene Mills |
 | 73 | 305 | MrsCandyfine As Wine Truss |
 | 74 | 296 | Laura Marie Pelletier |
@@ -112,8 +112,8 @@
 | 104 | 244 | Debra Williams |
 | 105 | 243 | Brandy Andre |
 | 106 | 239 | Tee Jaleesa |
-| 107 | 238 | Ann Matzkanin |
-| 108 | 238 | Cheech Dta |
+| 107 | 238 | Cheech Dta |
+| 108 | 238 | Ann Matzkanin |
 | 109 | 236 | Frisky Riserbuilder |
 | 110 | 231 | Ginger |
 | 111 | 231 | Dylan Thomason |
@@ -359,11 +359,11 @@
 | 351 | 87 | Anita Rose Green |
 | 352 | 86 | Chipper Risebuilder |
 | 353 | 86 | Alice Ball |
-| 354 | 85 | Ryan Kluck |
-| 355 | 85 | Jennifer Riley |
+| 354 | 85 | Jennifer Riley |
+| 355 | 85 | Ryan Kluck |
 | 356 | 84 | Jes Norris |
-| 357 | 83 | Paula TexasMomma |
-| 358 | 83 | Philbro114 |
+| 357 | 83 | Philbro114 |
+| 358 | 83 | Paula TexasMomma |
 | 359 | 82 | Jumpy Gridclear |
 | 360 | 81 | Hannah Johnson |
 | 361 | 81 | Leslie |
