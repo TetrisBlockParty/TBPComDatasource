@@ -68,8 +68,8 @@
 | 60 | 72 | Kesha Brady |
 | 61 | 70 | Valerie Roberts |
 | 62 | 70 | Christina Black |
-| 63 | 68 | Sam Middleton |
-| 64 | 68 | LS |
+| 63 | 68 | LS |
+| 64 | 68 | Sam Middleton |
 | 65 | 67 | Zesty Twistbuilder |
 | 66 | 65 | Angela Geist Jusinski |
 | 67 | 65 | YoMomma |

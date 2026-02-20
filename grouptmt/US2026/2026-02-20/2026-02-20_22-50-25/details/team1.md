@@ -103,8 +103,8 @@
 | 95 | 58 | Jason Cox |
 | 96 | 58 | Shiny Gridmatch |
 | 97 | 56 | Lehrin Maria |
-| 98 | 55 | Sweet Baker |
-| 99 | 55 | Yvonne Marie |
+| 98 | 55 | Yvonne Marie |
+| 99 | 55 | Sweet Baker |
 | 100 | 53 | J.D3D.D |
 | 101 | 52 | Lis |
 | 102 | 52 | Sid Castro |

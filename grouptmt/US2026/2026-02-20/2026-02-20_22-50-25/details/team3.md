@@ -61,8 +61,8 @@
 | 53 | 170 | Nerdy Riseclear |
 | 54 | 154 | Danielle Mogg |
 | 55 | 152 | Shiny Zonebuilder |
-| 56 | 149 | Shannon Matthew Byers |
-| 57 | 149 | Fallorina Susana |
+| 56 | 149 | Fallorina Susana |
+| 57 | 149 | Shannon Matthew Byers |
 | 58 | 145 | Trisha Balmer |
 | 59 | 141 | Denita Mungro |
 | 60 | 141 | Clever Roll |
