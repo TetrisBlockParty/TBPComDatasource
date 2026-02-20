@@ -53,8 +53,8 @@
 | 45 | 382 | Sparkles |
 | 46 | 380 | Joshua Mandel |
 | 47 | 378 | Thomas Hedrick |
-| 48 | 374 | Sam |
-| 49 | 374 | Sommer Shope |
+| 48 | 374 | Sommer Shope |
+| 49 | 374 | Sam |
 | 50 | 369 | Calandra Shaya Robinson |
 | 51 | 366 | KellyDyan |
 | 52 | 363 | William Meussner |
@@ -106,8 +106,8 @@
 | 98 | 239 | Tee Jaleesa |
 | 99 | 237 | Ann Matzkanin |
 | 100 | 236 | Frisky Riserbuilder |
-| 101 | 231 | Ginger |
-| 102 | 231 | Brittney Jean |
+| 101 | 231 | Brittney Jean |
+| 102 | 231 | Ginger |
 | 103 | 229 | Mighty Shatterfit |
 | 104 | 223 | Steven Marshaun |
 | 105 | 222 | snkylnk |

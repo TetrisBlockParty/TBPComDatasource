@@ -26,11 +26,11 @@
 | 18 | 181 | Tdub |
 | 19 | 176 | Jazzy Framezone |
 | 20 | 169 | Erez Yosef |
-| 21 | 151 | Standia Civil |
-| 22 | 151 | Hyper |
+| 21 | 151 | Hyper |
+| 22 | 151 | Standia Civil |
 | 23 | 146 | Abbey Crespo |
-| 24 | 144 | Jessie Lynn |
-| 25 | 144 | Tana |
+| 24 | 144 | Tana |
+| 25 | 144 | Jessie Lynn |
 | 26 | 143 | Fancy Shuffler |
 | 27 | 141 | Tanya Carpenter-Reynolds |
 | 28 | 134 | Plucky Ziggy |
@@ -75,9 +75,9 @@
 | 67 | 71 | Teddy Alexander |
 | 68 | 69 | Christina Torres |
 | 69 | 67 | Loony Fitzone |
-| 70 | 66 | Archie Ware |
-| 71 | 66 | Todd Welch |
-| 72 | 66 | Giggly Builderline |
+| 70 | 66 | Todd Welch |
+| 71 | 66 | Giggly Builderline |
+| 72 | 66 | Archie Ware |
 | 73 | 64 | Jessi Sauer |
 | 74 | 63 | Mitchel White |
 | 75 | 62 | Sarah Henniker |
@@ -224,8 +224,8 @@
 | 216 | 23 | Timothy Danaher |
 | 217 | 23 | Moo |
 | 218 | 22 | Heather Coleman |
-| 219 | 22 | Chadocho |
-| 220 | 22 | Stephanie Twoallbeefpattiez Johnson |
+| 219 | 22 | Stephanie Twoallbeefpattiez Johnson |
+| 220 | 22 | Chadocho |
 | 221 | 22 | Patricia Mills |
 | 222 | 21 | Nathan Sealander |
 | 223 | 21 | Julie Marie Hernandez |
