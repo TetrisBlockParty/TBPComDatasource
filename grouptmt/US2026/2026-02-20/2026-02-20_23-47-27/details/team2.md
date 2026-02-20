@@ -227,8 +227,8 @@
 | 219 | 156 | Ramone Armstrong |
 | 220 | 155 | Nika Bee |
 | 221 | 154 | Véronique Lévesque Sabourin |
-| 222 | 152 | Alexandra Weir |
-| 223 | 152 | Denise Rickman |
+| 222 | 152 | Denise Rickman |
+| 223 | 152 | Alexandra Weir |
 | 224 | 151 | D'Aaron Black |
 | 225 | 151 | Dizzy Zone |
 | 226 | 150 | Tiffney Wroten |

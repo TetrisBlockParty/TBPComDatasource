@@ -19,8 +19,8 @@
 | 11 | 399 | Drew Magnus |
 | 12 | 371 | Colena Davenport |
 | 13 | 294 | Jacqueline Williams |
-| 14 | 281 | Nancy Green |
-| 15 | 281 | Kathi Snustad |
+| 14 | 281 | Kathi Snustad |
+| 15 | 281 | Nancy Green |
 | 16 | 263 | Andrea Dañielle Ortiz |
 | 17 | 251 | Zerin Graham |
 | 18 | 234 | Tipsy Column |
@@ -35,8 +35,8 @@
 | 27 | 176 | Jazzy Framezone |
 | 28 | 169 | Erez Yosef |
 | 29 | 153 | Standia Civil |
-| 30 | 151 | Thorne Shumate |
-| 31 | 151 | Hyper |
+| 30 | 151 | Hyper |
+| 31 | 151 | Thorne Shumate |
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |
