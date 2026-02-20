@@ -79,9 +79,9 @@
 | 71 | 117 | Jessica |
 | 72 | 113 | Jennifer Alvey |
 | 73 | 111 | Joy Petroski |
-| 74 | 110 | Stella |
+| 74 | 110 | Tiff Vs Tiffany |
 | 75 | 110 | Connie Mohler-Fair |
-| 76 | 110 | Tiff Vs Tiffany |
+| 76 | 110 | Stella |
 | 77 | 108 | Grams |
 | 78 | 107 | Bryan Byrd |
 | 79 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -97,8 +97,8 @@
 | 89 | 89 | Hyper Bridger |
 | 90 | 89 | Annie Déè |
 | 91 | 88 | Martin Bernier |
-| 92 | 87 | Sherry Ogden |
-| 93 | 87 | Tiffany Kaupang |
+| 92 | 87 | Tiffany Kaupang |
+| 93 | 87 | Sherry Ogden |
 | 94 | 86 | Dan Rob |
 | 95 | 85 | Delilah belle |
 | 96 | 84 | Eon Harris |
@@ -117,8 +117,8 @@
 | 109 | 78 | Karon Griffin |
 | 110 | 78 | Clever Patterner |
 | 111 | 76 | Jessica Bechler |
-| 112 | 75 | Shari Garber |
-| 113 | 75 | Janelle Goetz |
+| 112 | 75 | Janelle Goetz |
+| 113 | 75 | Shari Garber |
 | 114 | 74 | Whitney Manuel |
 | 115 | 74 | Clever Roll |
 | 116 | 72 | Melissa Orth Hunter |

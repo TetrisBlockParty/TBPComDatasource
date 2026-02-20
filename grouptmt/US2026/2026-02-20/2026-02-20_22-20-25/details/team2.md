@@ -41,8 +41,8 @@
 | 33 | 588 | Vistabrat |
 | 34 | 567 | Anna Edwards |
 | 35 | 528 | Melissa Lanteigne |
-| 36 | 518 | Pacynthia Williams |
-| 37 | 518 | Sean Dugar |
+| 36 | 518 | Sean Dugar |
+| 37 | 518 | Pacynthia Williams |
 | 38 | 515 | Real Ri |
 | 39 | 509 | Kelli Wells |
 | 40 | 496 | Shannon Joslin |
@@ -254,9 +254,9 @@
 | 246 | 110 | Theresa Ring |
 | 247 | 110 | Angelica |
 | 248 | 110 | Martina Gabrielle LaPolla |
-| 249 | 109 | BeenRich Theceo |
+| 249 | 109 | Jroc |
 | 250 | 109 | Sabrena Yeisley |
-| 251 | 109 | Jroc |
+| 251 | 109 | BeenRich Theceo |
 | 252 | 108 | Sean Kinsey |
 | 253 | 107 | Sandy Aragon |
 | 254 | 107 | Layla LS |
