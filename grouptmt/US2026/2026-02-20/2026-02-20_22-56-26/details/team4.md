@@ -76,9 +76,9 @@
 | 68 | 65 | YoMomma |
 | 69 | 64 | Marcus Todd |
 | 70 | 64 | Damn Libra |
-| 71 | 61 | Jenna Ingersoll |
+| 71 | 61 | Shauna Havard |
 | 72 | 61 | Alee Marie |
-| 73 | 61 | Shauna Havard |
+| 73 | 61 | Jenna Ingersoll |
 | 74 | 60 | Girl |
 | 75 | 57 | Kimberly Love |
 | 76 | 56 | Stephanie Jones |
