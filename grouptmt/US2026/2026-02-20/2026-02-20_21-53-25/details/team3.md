@@ -71,8 +71,8 @@
 | 63 | 117 | Jessica |
 | 64 | 113 | Jennifer Alvey |
 | 65 | 112 | MissTaylor |
-| 66 | 110 | Connie Mohler-Fair |
-| 67 | 110 | Tiff Vs Tiffany |
+| 66 | 110 | Tiff Vs Tiffany |
+| 67 | 110 | Connie Mohler-Fair |
 | 68 | 110 | Stella |
 | 69 | 108 | Grams |
 | 70 | 107 | Bryan Byrd |

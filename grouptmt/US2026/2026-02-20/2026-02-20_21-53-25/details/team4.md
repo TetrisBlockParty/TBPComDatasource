@@ -31,8 +31,8 @@
 | 23 | 127 | Edward White |
 | 24 | 124 | Jay28 |
 | 25 | 123 | Nugget |
-| 26 | 116 | Sherri |
-| 27 | 116 | Dee Kay |
+| 26 | 116 | Dee Kay |
+| 27 | 116 | Sherri |
 | 28 | 115 | Lauren Scott |
 | 29 | 114 | Jessica Cagle |
 | 30 | 112 | Chirpy Basepiece |
@@ -54,8 +54,8 @@
 | 46 | 84 | Brandi Durig |
 | 47 | 81 | Michelle Parker |
 | 48 | 80 | Shelly Chandler |
-| 49 | 75 | Avy Absol |
-| 50 | 75 | Rosemary Foster |
+| 49 | 75 | Rosemary Foster |
+| 50 | 75 | Avy Absol |
 | 51 | 74 | Chair |
 | 52 | 73 | Lauren Lamb |
 | 53 | 72 | Kesha Brady |
