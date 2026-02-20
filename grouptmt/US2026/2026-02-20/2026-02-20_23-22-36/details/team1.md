@@ -25,8 +25,8 @@
 | 17 | 215 | Sarah Roberts |
 | 18 | 197 | Jayme Sellers |
 | 19 | 196 | Elaine Elaine |
-| 20 | 193 | Tdub |
-| 21 | 193 | Lexuriuos Lifestlye |
+| 20 | 193 | Lexuriuos Lifestlye |
+| 21 | 193 | Tdub |
 | 22 | 190 | Sweetts |
 | 23 | 187 | Dee Perry |
 | 24 | 183 | Ly Phethmany |
@@ -36,9 +36,9 @@
 | 28 | 151 | Hyper |
 | 29 | 146 | Abbey Crespo |
 | 30 | 145 | Lachelle Dillon |
-| 31 | 144 | Jessie Lynn |
-| 32 | 144 | Tana |
-| 33 | 144 | Tanya Carpenter-Reynolds |
+| 31 | 144 | Tana |
+| 32 | 144 | Tanya Carpenter-Reynolds |
+| 33 | 144 | Jessie Lynn |
 | 34 | 134 | Plucky Ziggy |
 | 35 | 129 | Mandyy Rae |
 | 36 | 127 | Veronica Eve |
@@ -61,9 +61,9 @@
 | 53 | 95 | Jodee Woods |
 | 54 | 95 | Jennifer Cates |
 | 55 | 94 | Bindi |
-| 56 | 93 | Ash Galvan |
+| 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
-| 58 | 93 | Ty Brown |
+| 58 | 93 | Ash Galvan |
 | 59 | 91 | COOL as Icer |
 | 60 | 91 | Spunky Piecebuilder |
 | 61 | 90 | comrade fish |
@@ -82,8 +82,8 @@
 | 74 | 78 | Guest |
 | 75 | 75 | Tyler L Hunt |
 | 76 | 73 | Witty Builderfit |
-| 77 | 72 | Tipsy Strikerpiece |
-| 78 | 72 | Adryane Schnase |
+| 77 | 72 | Adryane Schnase |
+| 78 | 72 | Tipsy Strikerpiece |
 | 79 | 71 | Teddy Alexander |
 | 80 | 69 | Christina Torres |
 | 81 | 68 | Blaire Bruckoff |
@@ -108,9 +108,9 @@
 | 100 | 58 | Jason Cox |
 | 101 | 56 | Lehrin Maria |
 | 102 | 56 | Lis |
-| 103 | 55 | Zerin Graham |
-| 104 | 55 | Yvonne Marie |
-| 105 | 55 | Sweet Baker |
+| 103 | 55 | Sweet Baker |
+| 104 | 55 | Zerin Graham |
+| 105 | 55 | Yvonne Marie |
 | 106 | 54 | Speedy Snapfall |
 | 107 | 54 | Ariel Whittington |
 | 108 | 53 | J.D3D.D |

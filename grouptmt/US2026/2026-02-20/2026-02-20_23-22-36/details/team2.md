@@ -82,14 +82,14 @@
 | 74 | 345 | Alyssaaelena |
 | 75 | 343 | Jennifer Peachey |
 | 76 | 342 | Tracy Wise |
-| 77 | 341 | Sarah Freitas |
-| 78 | 341 | Sam McKenzie |
+| 77 | 341 | Sam McKenzie |
+| 78 | 341 | Sarah Freitas |
 | 79 | 340 | Kimberly Randesi |
 | 80 | 339 | MrsCandyfine As Wine Truss |
 | 81 | 337 | Alisha Peoples |
 | 82 | 328 | Marie Boyd Faulk |
-| 83 | 323 | Danielle Simmons |
-| 84 | 323 | Daphne Jordan |
+| 83 | 323 | Daphne Jordan |
+| 84 | 323 | Danielle Simmons |
 | 85 | 317 | bru |
 | 86 | 297 | James Zaragoza |
 | 87 | 296 | Laura Marie Pelletier |
