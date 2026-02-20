@@ -74,9 +74,9 @@
 | 66 | 81 | Bob |
 | 67 | 80 | Matt Cinelli |
 | 68 | 79 | Chris65 |
-| 69 | 78 | TSwag |
-| 70 | 78 | Guest |
-| 71 | 78 | Carrie Beck Geartz |
+| 69 | 78 | Guest |
+| 70 | 78 | Carrie Beck Geartz |
+| 71 | 78 | TSwag |
 | 72 | 75 | Tyler L Hunt |
 | 73 | 73 | Witty Builderfit |
 | 74 | 72 | Tipsy Strikerpiece |
@@ -100,8 +100,8 @@
 | 92 | 60 | BigWeenie69 |
 | 93 | 60 | Susanna Guerry |
 | 94 | 59 | Mel Hogan |
-| 95 | 58 | Jason Cox |
-| 96 | 58 | Shiny Gridmatch |
+| 95 | 58 | Shiny Gridmatch |
+| 96 | 58 | Jason Cox |
 | 97 | 56 | Lehrin Maria |
 | 98 | 55 | Sweet Baker |
 | 99 | 55 | Yvonne Marie |

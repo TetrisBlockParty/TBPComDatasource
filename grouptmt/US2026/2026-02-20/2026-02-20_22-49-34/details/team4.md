@@ -32,8 +32,8 @@
 | 24 | 124 | Jay28 |
 | 25 | 123 | Nugget |
 | 26 | 117 | Lauren Scott |
-| 27 | 116 | Dee Kay |
-| 28 | 116 | Sherri |
+| 27 | 116 | Sherri |
+| 28 | 116 | Dee Kay |
 | 29 | 114 | Jessica Cagle |
 | 30 | 113 | Degenerate |
 | 31 | 112 | Chirpy Basepiece |
@@ -59,8 +59,8 @@
 | 51 | 80 | Alyssa Papen |
 | 52 | 77 | Kim Hunt |
 | 53 | 76 | Kristin MacDonald |
-| 54 | 75 | Rosemary Foster |
-| 55 | 75 | Avy Absol |
+| 54 | 75 | Avy Absol |
+| 55 | 75 | Rosemary Foster |
 | 56 | 74 | Chair |
 | 57 | 73 | Lauren Lamb |
 | 58 | 72 | Kesha Brady |
@@ -71,8 +71,8 @@
 | 63 | 68 | Sam Middleton |
 | 64 | 68 | LS |
 | 65 | 67 | Zesty Twistbuilder |
-| 66 | 65 | YoMomma |
-| 67 | 65 | Angela Geist Jusinski |
+| 66 | 65 | Angela Geist Jusinski |
+| 67 | 65 | YoMomma |
 | 68 | 64 | Damn Libra |
 | 69 | 64 | Marcus Todd |
 | 70 | 61 | Alee Marie |

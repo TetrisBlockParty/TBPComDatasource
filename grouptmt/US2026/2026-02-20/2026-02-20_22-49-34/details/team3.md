@@ -41,8 +41,8 @@
 | 33 | 307 | Peggi Charon |
 | 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
-| 36 | 291 | Tasha Schriewer |
-| 37 | 291 | Laura Melton |
+| 36 | 291 | Laura Melton |
+| 37 | 291 | Tasha Schriewer |
 | 38 | 272 | Mahman |
 | 39 | 240 | Ebony West-Cundiff |
 | 40 | 239 | Lush Buildout |

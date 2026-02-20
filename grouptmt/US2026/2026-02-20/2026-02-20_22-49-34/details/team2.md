@@ -89,8 +89,8 @@
 | 81 | 284 | Brittney Jean |
 | 82 | 283 | Poppy Snap |
 | 83 | 281 | Robert Diddle |
-| 84 | 280 | Kimberly Schall |
-| 85 | 280 | Christina Lewis-Vickers |
+| 84 | 280 | Christina Lewis-Vickers |
+| 85 | 280 | Kimberly Schall |
 | 86 | 276 | Lisa Ongtowasruk |
 | 87 | 273 | Venechia Berry |
 | 88 | 271 | Ann Marie Davis |
