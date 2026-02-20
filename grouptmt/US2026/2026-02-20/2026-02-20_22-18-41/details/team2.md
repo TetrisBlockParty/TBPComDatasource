@@ -111,8 +111,8 @@
 | 103 | 239 | Tee Jaleesa |
 | 104 | 238 | Ann Matzkanin |
 | 105 | 236 | Frisky Riserbuilder |
-| 106 | 231 | Dylan Thomason |
-| 107 | 231 | Ginger |
+| 106 | 231 | Ginger |
+| 107 | 231 | Dylan Thomason |
 | 108 | 223 | Steven Marshaun |
 | 109 | 222 | snkylnk |
 | 110 | 221 | Sam McKenzie |
@@ -136,15 +136,15 @@
 | 128 | 197 | Smashanator |
 | 129 | 197 | James Zaragoza |
 | 130 | 196 | Gary Stash |
-| 131 | 194 | Shameika Trail |
-| 132 | 194 | Tammy Allen |
+| 131 | 194 | Tammy Allen |
+| 132 | 194 | Shameika Trail |
 | 133 | 191 | Deana |
 | 134 | 190 | Mari Ac |
 | 135 | 189 | Sanaa Nounoussa |
 | 136 | 184 | Lindsey Leigh |
 | 137 | 183 | Drwatson187 |
-| 138 | 182 | Alyssia Tancredi |
-| 139 | 182 | Mike Aprilliano |
+| 138 | 182 | Mike Aprilliano |
+| 139 | 182 | Alyssia Tancredi |
 | 140 | 181 | Jordan Petro |
 | 141 | 180 | Ali Gralski |
 | 142 | 179 | Desiree Harris Rosch |
@@ -195,8 +195,8 @@
 | 187 | 140 | Christopher Sanders |
 | 188 | 139 | Noel Tarmy |
 | 189 | 137 | Kyle LeRoy Harris |
-| 190 | 135 | Michelle Loar |
-| 191 | 135 | Nancy Reid |
+| 190 | 135 | Nancy Reid |
+| 191 | 135 | Michelle Loar |
 | 192 | 133 | coleksquad |
 | 193 | 133 | Ariel |
 | 194 | 132 | Paula Snyder |

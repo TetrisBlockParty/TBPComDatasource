@@ -44,8 +44,8 @@
 | 36 | 100 | Michelle Morris |
 | 37 | 100 | Diana Houts |
 | 38 | 95 | Stephme310 |
-| 39 | 91 | Andria Lynn |
-| 40 | 91 | Gwendolyn Pitcairn |
+| 39 | 91 | Gwendolyn Pitcairn |
+| 40 | 91 | Andria Lynn |
 | 41 | 90 | Duck |
 | 42 | 88 | Jenna McGeorge |
 | 43 | 87 | Jen Caldwell |
