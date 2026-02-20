@@ -21,8 +21,8 @@
 | 13 | 175 | Nope Young |
 | 14 | 165 | Jamie Mann-Deichmann |
 | 15 | 161 | Koshin Abdirahman |
-| 16 | 133 | Devinlee Brown |
-| 17 | 133 | Alicia Bass |
+| 16 | 133 | Alicia Bass |
+| 17 | 133 | Devinlee Brown |
 | 18 | 130 | Casey Jeffcoat |
 | 19 | 129 | Samantha Peterson |
 | 20 | 127 | Rachel Anne |
@@ -39,8 +39,8 @@
 | 31 | 107 | Mr. Party |
 | 32 | 99 | Denise Carlson |
 | 33 | 98 | Diana Houts |
-| 34 | 95 | Stephme310 |
-| 35 | 95 | Michelle Morris |
+| 34 | 95 | Michelle Morris |
+| 35 | 95 | Stephme310 |
 | 36 | 91 | Andria Lynn |
 | 37 | 90 | Duck |
 | 38 | 89 | Gwendolyn Pitcairn |
@@ -52,8 +52,8 @@
 | 44 | 75 | Rosemary Foster |
 | 45 | 73 | Lauren Lamb |
 | 46 | 71 | Kim Hunt |
-| 47 | 70 | Valerie Roberts |
-| 48 | 70 | Christina Black |
+| 47 | 70 | Christina Black |
+| 48 | 70 | Valerie Roberts |
 | 49 | 69 | Chair |
 | 50 | 68 | LS |
 | 51 | 68 | Alyssa Papen |
@@ -77,9 +77,9 @@
 | 69 | 54 | Destiney Carter |
 | 70 | 54 | Joshua Cuellar |
 | 71 | 54 | Carter Jones |
-| 72 | 53 | Julian Garcia |
-| 73 | 53 | Jackson Karen |
-| 74 | 53 | Dion Crommarty |
+| 72 | 53 | Jackson Karen |
+| 73 | 53 | Dion Crommarty |
+| 74 | 53 | Julian Garcia |
 | 75 | 52 | Zany Twisterfit |
 | 76 | 51 | Chaz Duncan |
 | 77 | 51 | Bryan Hodgins |
@@ -87,7 +87,7 @@
 | 79 | 50 | Richard-April Kice |
 | 80 | 49 | Lakesha Johnson |
 | 81 | 47 | Jennifer Perkins |
-| 82 | 46 | Jeff Brian Gates |
+| 82 | 46 | Aly Eggers |
 | 83 | 46 | Natalie;) |
 | 84 | 46 | Jeff Brian Gates |
 | 85 | 45 | Dustin Robert |

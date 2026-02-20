@@ -154,8 +154,8 @@
 | 146 | 155 | Nika Bee |
 | 147 | 151 | Ashle Scranton |
 | 148 | 151 | D'Aaron Black |
-| 149 | 150 | Justin Hines |
-| 150 | 150 | Tiffney Wroten |
+| 149 | 150 | Tiffney Wroten |
+| 150 | 150 | Justin Hines |
 | 151 | 148 | Brittany Radaszewski |
 | 152 | 147 | HarleyJane |
 | 153 | 146 | Deborah Miller |
