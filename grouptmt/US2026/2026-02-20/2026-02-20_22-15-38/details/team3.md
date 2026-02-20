@@ -169,8 +169,8 @@
 | 161 | 50 | Fancy Slam |
 | 162 | 50 | Lisa Lisa |
 | 163 | 49 | Kita A Jackson |
-| 164 | 48 | Angeline Joseph |
-| 165 | 48 | sapphomet |
+| 164 | 48 | sapphomet |
+| 165 | 48 | Matty Ray |
 | 166 | 48 | Jennifer Willis |
 | 167 | 48 | Cheeky Blockline |
 | 168 | 48 | Angeline Joseph |
