@@ -59,8 +59,8 @@
 | 51 | 144 | Shiny Zonebuilder |
 | 52 | 141 | Denita Mungro |
 | 53 | 135 | Trisha Balmer |
-| 54 | 128 | Nerdy Riseclear |
-| 55 | 128 | Giddy Twistbuilder |
+| 54 | 128 | Giddy Twistbuilder |
+| 55 | 128 | Nerdy Riseclear |
 | 56 | 127 | mjl574 |
 | 57 | 126 | Dolores Falco |
 | 58 | 126 | ren |

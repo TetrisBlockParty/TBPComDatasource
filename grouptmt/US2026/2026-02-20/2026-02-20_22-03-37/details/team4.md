@@ -21,10 +21,10 @@
 | 13 | 236 | Isabella Blanco |
 | 14 | 175 | Nope Young |
 | 15 | 167 | Rachel Anne |
-| 16 | 165 | Jamie Mann-Deichmann |
-| 17 | 165 | Koshin Abdirahman |
-| 18 | 133 | Devinlee Brown |
-| 19 | 133 | Alicia Bass |
+| 16 | 165 | Koshin Abdirahman |
+| 17 | 165 | Jamie Mann-Deichmann |
+| 18 | 133 | Alicia Bass |
+| 19 | 133 | Devinlee Brown |
 | 20 | 130 | Casey Jeffcoat |
 | 21 | 129 | Samantha Peterson |
 | 22 | 128 | Robin Watters |

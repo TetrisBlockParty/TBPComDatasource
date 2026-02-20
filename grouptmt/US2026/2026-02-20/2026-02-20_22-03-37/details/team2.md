@@ -212,8 +212,8 @@
 | 204 | 126 | Ethan Stienbarger |
 | 205 | 126 | Angela Kummer |
 | 206 | 124 | Monica Brown |
-| 207 | 122 | Scott Treadway |
-| 208 | 122 | Gursharan Sandhu |
+| 207 | 122 | Gursharan Sandhu |
+| 208 | 122 | Scott Treadway |
 | 209 | 121 | Jessicah Myers |
 | 210 | 121 | Jessica Szymecki |
 | 211 | 120 | Samantha Williams-Bittner |
