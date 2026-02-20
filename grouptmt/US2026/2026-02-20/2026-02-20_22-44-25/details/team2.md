@@ -184,8 +184,8 @@
 | 176 | 157 | Klee |
 | 177 | 157 | HarleyJane |
 | 178 | 157 | Dineisha Carpenter |
-| 179 | 156 | Nuggets |
-| 180 | 156 | Ramone Armstrong |
+| 179 | 156 | Ramone Armstrong |
+| 180 | 156 | Nuggets |
 | 181 | 155 | Nika Bee |
 | 182 | 151 | D'Aaron Black |
 | 183 | 151 | Dizzy Zone |

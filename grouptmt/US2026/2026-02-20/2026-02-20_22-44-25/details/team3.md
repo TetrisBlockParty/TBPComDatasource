@@ -72,8 +72,8 @@
 | 64 | 127 | mjl574 |
 | 65 | 126 | ren |
 | 66 | 125 | Stephanie Simpson |
-| 67 | 122 | Jennifer Willis |
-| 68 | 122 | Emma |
+| 67 | 122 | Emma |
+| 68 | 122 | Jennifer Willis |
 | 69 | 120 | Michael Latasha Gray |
 | 70 | 119 | Jessica |
 | 71 | 118 | Bea Miles |
@@ -103,7 +103,7 @@
 | 95 | 88 | Martin Bernier |
 | 96 | 87 | Sherry Ogden |
 | 97 | 86 | Dan Rob |
-| 98 | 85 | Shari Garber |
+| 98 | 85 | Delilah belle |
 | 99 | 85 | Danielle Cutler |
 | 100 | 85 | Shari Garber |
 | 101 | 84 | Eon Harris |
