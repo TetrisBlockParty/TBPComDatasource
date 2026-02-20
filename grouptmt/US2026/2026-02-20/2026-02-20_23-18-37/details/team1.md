@@ -64,8 +64,8 @@
 | 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
 | 58 | 93 | Ash Galvan |
-| 59 | 91 | COOL as Icer |
-| 60 | 91 | Spunky Piecebuilder |
+| 59 | 91 | Spunky Piecebuilder |
+| 60 | 91 | COOL as Icer |
 | 61 | 90 | comrade fish |
 | 62 | 90 | Madison Wicks |
 | 63 | 85 | Ananda Mendez |

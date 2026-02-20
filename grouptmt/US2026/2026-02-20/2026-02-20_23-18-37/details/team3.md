@@ -83,9 +83,9 @@
 | 75 | 118 | Bea Miles |
 | 76 | 113 | Jennifer Alvey |
 | 77 | 111 | Joy Petroski |
-| 78 | 110 | Stella |
-| 79 | 110 | Connie Mohler-Fair |
-| 80 | 110 | Tiff Vs Tiffany |
+| 78 | 110 | Connie Mohler-Fair |
+| 79 | 110 | Tiff Vs Tiffany |
+| 80 | 110 | Stella |
 | 81 | 108 | Grams |
 | 82 | 108 | Angel Mendez |
 | 83 | 107 | Bryan Byrd |

@@ -129,8 +129,8 @@
 | 121 | 243 | Brandy Andre |
 | 122 | 241 | Sabrina Burton |
 | 123 | 239 | Tee Jaleesa |
-| 124 | 238 | Cheech Dta |
-| 125 | 238 | Ann Matzkanin |
+| 124 | 238 | Ann Matzkanin |
+| 125 | 238 | Cheech Dta |
 | 126 | 236 | Frisky Riserbuilder |
 | 127 | 231 | Ginger |
 | 128 | 231 | Dylan Thomason |
