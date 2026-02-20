@@ -36,8 +36,8 @@
 | 28 | 276 | Gracie |
 | 29 | 256 | Christine Filson |
 | 30 | 253 | Mahman |
-| 31 | 239 | Lush Buildout |
-| 32 | 239 | Rachel Bowers |
+| 31 | 239 | Rachel Bowers |
+| 32 | 239 | Lush Buildout |
 | 33 | 231 | Patty Allen |
 | 34 | 227 | Amber Hughes |
 | 35 | 213 | Briarblack |
@@ -48,8 +48,8 @@
 | 40 | 180 | joclisa |
 | 41 | 171 | Speedy Bridger |
 | 42 | 161 | Crimson |
-| 43 | 149 | Shannon Matthew Byers |
-| 44 | 149 | Fallorina Susana |
+| 43 | 149 | Fallorina Susana |
+| 44 | 149 | Shannon Matthew Byers |
 | 45 | 148 | Clever Shiftsnap |
 | 46 | 146 | Liv Whetson |
 | 47 | 141 | Denita Mungro |
@@ -65,15 +65,15 @@
 | 57 | 118 | Trezure Gonzalez |
 | 58 | 118 | Bea Miles |
 | 59 | 117 | Jessica |
-| 60 | 110 | Tiff Vs Tiffany |
-| 61 | 110 | Stella |
-| 62 | 108 | Jennifer Alvey |
-| 63 | 108 | Grams |
+| 60 | 110 | Stella |
+| 61 | 110 | Tiff Vs Tiffany |
+| 62 | 108 | Grams |
+| 63 | 108 | Jennifer Alvey |
 | 64 | 107 | Bryan Byrd |
 | 65 | 104 | Connie Mohler-Fair |
-| 66 | 101 | Mykal Burton |
-| 67 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 68 | 101 | Joy Petroski |
+| 66 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 67 | 101 | Joy Petroski |
+| 68 | 101 | Mykal Burton |
 | 69 | 100 | Bobbi Moore |
 | 70 | 98 | Ashley Tookes |
 | 71 | 95 | Brooke Bauer |
@@ -82,8 +82,8 @@
 | 74 | 88 | Martin Bernier |
 | 75 | 85 | Hyper Bridger |
 | 76 | 85 | Delilah belle |
-| 77 | 84 | Eon Harris |
-| 78 | 84 | Skinny Baldez |
+| 77 | 84 | Skinny Baldez |
+| 78 | 84 | Eon Harris |
 | 79 | 83 | Nichol Graham |
 | 80 | 82 | Donna |
 | 81 | 82 | Clever Clearbuilder |

@@ -15,23 +15,23 @@
 | 7 | 294 | Isabel Aguilar |
 | 8 | 277 | KJ Pool |
 | 9 | 268 | HastyGrabber |
-| 10 | 256 | Brittney Griggs |
-| 11 | 256 | Carolyn Wallace |
+| 10 | 256 | Carolyn Wallace |
+| 11 | 256 | Brittney Griggs |
 | 12 | 218 | Isabella Blanco |
 | 13 | 175 | Nope Young |
 | 14 | 165 | Jamie Mann-Deichmann |
 | 15 | 161 | Koshin Abdirahman |
-| 16 | 133 | Alicia Bass |
-| 17 | 133 | Devinlee Brown |
+| 16 | 133 | Devinlee Brown |
+| 17 | 133 | Alicia Bass |
 | 18 | 130 | Casey Jeffcoat |
 | 19 | 129 | Samantha Peterson |
 | 20 | 127 | Edward White |
 | 21 | 127 | Rachel Anne |
 | 22 | 124 | Jay28 |
 | 23 | 116 | Dee Kay |
-| 24 | 115 | Robin Watters |
+| 24 | 115 | Lauren Scott |
 | 25 | 115 | Nugget |
-| 26 | 115 | Lauren Scott |
+| 26 | 115 | Robin Watters |
 | 27 | 114 | Jessica Cagle |
 | 28 | 112 | Chirpy Basepiece |
 | 29 | 110 | Courtney Cicoria |
@@ -88,8 +88,8 @@
 | 80 | 49 | Lakesha Johnson |
 | 81 | 47 | Jennifer Perkins |
 | 82 | 46 | Natalie;) |
-| 83 | 46 | Jeff Brian Gates |
-| 84 | 46 | Aly Eggers |
+| 83 | 46 | Aly Eggers |
+| 84 | 46 | Jeff Brian Gates |
 | 85 | 45 | Tammy Lewis |
 | 86 | 45 | Dustin Robert |
 | 87 | 44 | mitch |
