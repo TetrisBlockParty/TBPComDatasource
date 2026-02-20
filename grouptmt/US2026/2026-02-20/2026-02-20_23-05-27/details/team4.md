@@ -61,9 +61,9 @@
 | 53 | 80 | Shelly Chandler |
 | 54 | 77 | Kim Hunt |
 | 55 | 76 | Kristin MacDonald |
-| 56 | 75 | Avy Absol |
-| 57 | 75 | Rosemary Foster |
-| 58 | 75 | Chair |
+| 56 | 75 | Rosemary Foster |
+| 57 | 75 | Chair |
+| 58 | 75 | Avy Absol |
 | 59 | 73 | Lauren Lamb |
 | 60 | 72 | Kesha Brady |
 | 61 | 72 | Joshua Cuellar |

@@ -38,8 +38,8 @@
 | 30 | 333 | Silly Twist |
 | 31 | 331 | Gracie |
 | 32 | 320 | Or Reznitsky |
-| 33 | 307 | Kristie |
-| 34 | 307 | Peggi Charon |
+| 33 | 307 | Peggi Charon |
+| 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 295 | Clever Roll |
 | 37 | 291 | Tasha Schriewer |
@@ -70,8 +70,8 @@
 | 62 | 141 | Denita Mungro |
 | 63 | 135 | Danielle Cutler |
 | 64 | 134 | DanceLuvLaugh |
-| 65 | 130 | Tessina Dewey-Mancino |
-| 66 | 130 | Zippy Strikesnap |
+| 65 | 130 | Zippy Strikesnap |
+| 66 | 130 | Tessina Dewey-Mancino |
 | 67 | 129 | Giddy Twistbuilder |
 | 68 | 127 | Dolores Falco |
 | 69 | 127 | mjl574 |
@@ -98,8 +98,8 @@
 | 90 | 98 | Ashley Tookes |
 | 91 | 98 | Ryan Williams |
 | 92 | 96 | Boldy Corner |
-| 93 | 95 | Demetrious Shaw Sr. |
-| 94 | 95 | Brooke Bauer |
+| 93 | 95 | Brooke Bauer |
+| 94 | 95 | Demetrious Shaw Sr. |
 | 95 | 92 | Skinny Baldez |
 | 96 | 90 | Tiffany Kaupang |
 | 97 | 89 | Hyper Bridger |

@@ -100,7 +100,7 @@
 | 92 | 60 | Karin Gillen |
 | 93 | 60 | Susanna Guerry |
 | 94 | 60 | Tina Englert |
-| 95 | 60 | Karin Gillen |
+| 95 | 60 | BigWeenie69 |
 | 96 | 59 | Mel Hogan |
 | 97 | 58 | Jason Cox |
 | 98 | 58 | Shiny Gridmatch |
