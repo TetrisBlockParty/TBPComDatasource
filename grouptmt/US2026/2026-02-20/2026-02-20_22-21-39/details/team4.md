@@ -24,8 +24,8 @@
 | 16 | 167 | Rachel Anne |
 | 17 | 165 | Koshin Abdirahman |
 | 18 | 141 | Edward White |
-| 19 | 133 | Alicia Bass |
-| 20 | 133 | Devinlee Brown |
+| 19 | 133 | Devinlee Brown |
+| 20 | 133 | Alicia Bass |
 | 21 | 130 | Casey Jeffcoat |
 | 22 | 129 | Samantha Peterson |
 | 23 | 128 | Robin Watters |
