@@ -51,8 +51,8 @@
 | 43 | 382 | Sparkles |
 | 44 | 382 | CoolKat |
 | 45 | 380 | Joshua Mandel |
-| 46 | 374 | Sommer Shope |
-| 47 | 374 | Sam |
+| 46 | 374 | Sam |
+| 47 | 374 | Sommer Shope |
 | 48 | 369 | Calandra Shaya Robinson |
 | 49 | 366 | KellyDyan |
 | 50 | 363 | William Meussner |
@@ -74,8 +74,8 @@
 | 66 | 283 | Poppy Snap |
 | 67 | 282 | Giggy Blocker |
 | 68 | 281 | Robert Diddle |
-| 69 | 280 | Kimberly Schall |
-| 70 | 280 | Christina Lewis-Vickers |
+| 69 | 280 | Christina Lewis-Vickers |
+| 70 | 280 | Kimberly Schall |
 | 71 | 276 | Thomas Hedrick |
 | 72 | 271 | Ann Marie Davis |
 | 73 | 270 | Juanita Lyons |
@@ -155,7 +155,7 @@
 | 147 | 155 | Nika Bee |
 | 148 | 155 | Taryece Gause |
 | 149 | 153 | Tina Blessed Cage |
-| 150 | 151 | Ashle Scranton |
+| 150 | 151 | Kimberly Randesi |
 | 151 | 151 | D'Aaron Black |
 | 152 | 151 | Ashle Scranton |
 | 153 | 150 | Tiffney Wroten |
