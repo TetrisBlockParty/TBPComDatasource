@@ -30,8 +30,8 @@
 | 22 | 181 | Tdub |
 | 23 | 176 | Jazzy Framezone |
 | 24 | 169 | Erez Yosef |
-| 25 | 151 | Hyper |
-| 26 | 151 | Standia Civil |
+| 25 | 151 | Standia Civil |
+| 26 | 151 | Hyper |
 | 27 | 146 | Abbey Crespo |
 | 28 | 144 | Tana |
 | 29 | 144 | Tanya Carpenter-Reynolds |

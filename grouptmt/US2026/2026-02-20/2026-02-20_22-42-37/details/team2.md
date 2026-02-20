@@ -174,8 +174,8 @@
 | 166 | 164 | Jamie Stevey |
 | 167 | 163 | Dedra Steward |
 | 168 | 162 | Nick Jensen |
-| 169 | 161 | Mema |
-| 170 | 161 | Ashle Scranton |
+| 169 | 161 | Ashle Scranton |
+| 170 | 161 | Mema |
 | 171 | 160 | Rhonda Petro |
 | 172 | 160 | Cynthia Ward |
 | 173 | 158 | Matthew Turner |

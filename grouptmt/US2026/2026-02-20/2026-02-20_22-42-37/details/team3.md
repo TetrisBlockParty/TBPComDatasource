@@ -65,8 +65,8 @@
 | 57 | 149 | Shannon Matthew Byers |
 | 58 | 145 | Trisha Balmer |
 | 59 | 141 | Denita Mungro |
-| 60 | 130 | Zippy Strikesnap |
-| 61 | 130 | Tessina Dewey-Mancino |
+| 60 | 130 | Tessina Dewey-Mancino |
+| 61 | 130 | Zippy Strikesnap |
 | 62 | 129 | Giddy Twistbuilder |
 | 63 | 127 | mjl574 |
 | 64 | 127 | Dolores Falco |
