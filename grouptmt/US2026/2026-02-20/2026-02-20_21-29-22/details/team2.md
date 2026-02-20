@@ -113,8 +113,8 @@
 | 105 | 208 | Andrea Devery Beck |
 | 106 | 207 | Melissa McCall |
 | 107 | 206 | RAEPR05 |
-| 108 | 205 | Wuntayk |
-| 109 | 205 | MrsCandyfine As Wine Truss |
+| 108 | 205 | MrsCandyfine As Wine Truss |
+| 109 | 205 | Wuntayk |
 | 110 | 203 | Kimberly Randesi |
 | 111 | 200 | Adam Erikson |
 | 112 | 200 | Tum |
@@ -160,8 +160,8 @@
 | 152 | 155 | Nika Bee |
 | 153 | 151 | D'Aaron Black |
 | 154 | 151 | Ashle Scranton |
-| 155 | 150 | Justin Hines |
-| 156 | 150 | Tiffney Wroten |
+| 155 | 150 | Tiffney Wroten |
+| 156 | 150 | Justin Hines |
 | 157 | 148 | Brittany Radaszewski |
 | 158 | 147 | HarleyJane |
 | 159 | 146 | Deborah Miller |
@@ -174,8 +174,8 @@
 | 166 | 139 | Alexandra Weir |
 | 167 | 137 | Kyle LeRoy Harris |
 | 168 | 137 | Rebecca Doughman |
-| 169 | 135 | Nancy Reid |
-| 170 | 135 | Michelle Loar |
+| 169 | 135 | Michelle Loar |
+| 170 | 135 | Nancy Reid |
 | 171 | 133 | Frisky Clearpiece |
 | 172 | 133 | coleksquad |
 | 173 | 132 | Paula Snyder |

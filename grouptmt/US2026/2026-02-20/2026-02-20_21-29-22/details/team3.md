@@ -254,7 +254,7 @@
 | 246 | 29 | Tipsy Dashgrid |
 | 247 | 28 | Zappy Glidebuilder |
 | 248 | 28 | MomOnBreak |
-| 249 | 28 | Zappy Glidebuilder |
+| 249 | 28 | Scott Doss |
 | 250 | 28 | Erika Thornton |
 | 251 | 28 | Kortnie Kincaid |
 | 252 | 28 | Karen Picaboo |
