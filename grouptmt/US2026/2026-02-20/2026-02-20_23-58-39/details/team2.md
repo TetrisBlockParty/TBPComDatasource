@@ -177,8 +177,8 @@
 | 169 | 196 | Magic steve |
 | 170 | 196 | Alexandra Reese |
 | 171 | 196 | Bubbly Snapfit |
-| 172 | 194 | Tammy Allen |
-| 173 | 194 | Mike Aprilliano |
+| 172 | 194 | Mike Aprilliano |
+| 173 | 194 | Tammy Allen |
 | 174 | 193 | Ariel |
 | 175 | 191 | Deana |
 | 176 | 190 | Alyssa Dean |
@@ -203,8 +203,8 @@
 | 195 | 173 | Justin Hines |
 | 196 | 170 | Darlene Bowman |
 | 197 | 169 | Lively Catcher |
-| 198 | 168 | Taryece Gause |
-| 199 | 168 | Robin |
+| 198 | 168 | Robin |
+| 199 | 168 | Taryece Gause |
 | 200 | 167 | Fi Ne |
 | 201 | 166 | Jessica Kaye DeAguero |
 | 202 | 165 | Mema |
@@ -219,11 +219,11 @@
 | 211 | 160 | Cynthia Ward |
 | 212 | 159 | Charvi' Carter |
 | 213 | 158 | Toni Roberson |
-| 214 | 158 | RaeVan Worthington |
-| 215 | 158 | Matthew Turner |
-| 216 | 157 | Jánine Riggs |
-| 217 | 157 | HarleyJane |
-| 218 | 157 | Klee |
+| 214 | 158 | Matthew Turner |
+| 215 | 158 | RaeVan Worthington |
+| 216 | 157 | Klee |
+| 217 | 157 | Jánine Riggs |
+| 218 | 157 | HarleyJane |
 | 219 | 157 | Dineisha Carpenter |
 | 220 | 156 | Nuggets |
 | 221 | 156 | Ramone Armstrong |
@@ -248,7 +248,7 @@
 | 240 | 142 | Angela Lynn |
 | 241 | 141 | Markisha Poyndexter |
 | 242 | 140 | Peter Palestino |
-| 243 | 140 | Julay |
+| 243 | 140 | Anthony Huebel |
 | 244 | 139 | Noel Tarmy |
 | 245 | 139 | Jackson Smith |
 | 246 | 138 | Ibiza Carolina LaRose |

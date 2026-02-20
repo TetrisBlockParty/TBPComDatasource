@@ -40,9 +40,9 @@
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |
-| 35 | 144 | Tanya Carpenter-Reynolds |
-| 36 | 144 | Jessie Lynn |
-| 37 | 144 | Tana |
+| 35 | 144 | Tana |
+| 36 | 144 | Tanya Carpenter-Reynolds |
+| 37 | 144 | Jessie Lynn |
 | 38 | 143 | Veronica Eve |
 | 39 | 134 | Plucky Ziggy |
 | 40 | 133 | Brandi Huntington |
