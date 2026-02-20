@@ -81,8 +81,8 @@
 | 73 | 78 | Carrie Beck Geartz |
 | 74 | 75 | Tyler L Hunt |
 | 75 | 73 | Witty Builderfit |
-| 76 | 72 | Tipsy Strikerpiece |
-| 77 | 72 | Adryane Schnase |
+| 76 | 72 | Adryane Schnase |
+| 77 | 72 | Tipsy Strikerpiece |
 | 78 | 71 | Teddy Alexander |
 | 79 | 69 | Christina Torres |
 | 80 | 67 | Loony Fitzone |

@@ -50,8 +50,8 @@
 | 42 | 248 | Natasha Jones |
 | 43 | 239 | Lush Buildout |
 | 44 | 227 | Amber Hughes |
-| 45 | 197 | Amy Fuller Heaton |
-| 46 | 197 | MissTaylor |
+| 45 | 197 | MissTaylor |
+| 46 | 197 | Amy Fuller Heaton |
 | 47 | 193 | Clever Shiftsnap |
 | 48 | 192 | Jennifer Willis |
 | 49 | 184 | Jennie Beranek |
@@ -83,14 +83,14 @@
 | 75 | 118 | Bea Miles |
 | 76 | 113 | Jennifer Alvey |
 | 77 | 111 | Joy Petroski |
-| 78 | 110 | Connie Mohler-Fair |
-| 79 | 110 | Tiff Vs Tiffany |
-| 80 | 110 | Stella |
+| 78 | 110 | Stella |
+| 79 | 110 | Connie Mohler-Fair |
+| 80 | 110 | Tiff Vs Tiffany |
 | 81 | 108 | Grams |
 | 82 | 107 | Bryan Byrd |
 | 83 | 105 | Hoppy Buildout |
-| 84 | 101 | Mykal Burton |
-| 85 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 84 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 85 | 101 | Mykal Burton |
 | 86 | 100 | Fredd Thomas |
 | 87 | 100 | Bobbi Moore |
 | 88 | 100 | Fancy Slam |
