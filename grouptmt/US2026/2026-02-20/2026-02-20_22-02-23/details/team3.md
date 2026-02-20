@@ -52,8 +52,8 @@
 | 44 | 171 | Speedy Bridger |
 | 45 | 161 | Crimson |
 | 46 | 154 | Danielle Mogg |
-| 47 | 149 | Shannon Matthew Byers |
-| 48 | 149 | Fallorina Susana |
+| 47 | 149 | Fallorina Susana |
+| 48 | 149 | Shannon Matthew Byers |
 | 49 | 148 | Clever Shiftsnap |
 | 50 | 146 | Liv Whetson |
 | 51 | 144 | Shiny Zonebuilder |
@@ -121,14 +121,14 @@
 | 113 | 72 | Melissa Orth Hunter |
 | 114 | 69 | Kevin Russell |
 | 115 | 69 | Whitney Manuel |
-| 116 | 69 | Chasity |
+| 116 | 69 | Jen Lewis |
 | 117 | 69 | Jess Reppert |
 | 118 | 69 | Chasity |
 | 119 | 68 | Crystel b520 |
-| 120 | 66 | Valerie Gendron |
-| 121 | 66 | Oliver Neal II |
-| 122 | 65 | Shari Garber |
-| 123 | 65 | gremicx |
+| 120 | 66 | Oliver Neal II |
+| 121 | 66 | Valerie Gendron |
+| 122 | 65 | gremicx |
+| 123 | 65 | Shari Garber |
 | 124 | 64 | Lush Risebuilder |
 | 125 | 63 | Hasty Wipebuilder |
 | 126 | 61 | Rebel124 |

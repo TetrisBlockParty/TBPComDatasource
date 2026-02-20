@@ -72,9 +72,9 @@
 | 64 | 64 | Damn Libra |
 | 65 | 64 | Marcus Todd |
 | 66 | 63 | Angela Geist Jusinski |
-| 67 | 61 | Shauna Havard |
+| 67 | 61 | Jenna Ingersoll |
 | 68 | 61 | Alee Marie |
-| 69 | 61 | Jenna Ingersoll |
+| 69 | 61 | Shauna Havard |
 | 70 | 60 | Girl |
 | 71 | 56 | Stephanie Jones |
 | 72 | 55 | Chris Alexinas |
