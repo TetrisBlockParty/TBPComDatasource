@@ -41,9 +41,9 @@
 | 33 | 109 | Brittney Orengo |
 | 34 | 108 | Mr. Party |
 | 35 | 107 | Denise Carlson |
-| 36 | 100 | Andria Lynn |
+| 36 | 100 | Michelle Morris |
 | 37 | 100 | Diana Houts |
-| 38 | 100 | Michelle Morris |
+| 38 | 100 | Andria Lynn |
 | 39 | 95 | Stephme310 |
 | 40 | 91 | Gwendolyn Pitcairn |
 | 41 | 90 | Duck |
@@ -63,7 +63,7 @@
 | 55 | 74 | Kim Hunt |
 | 56 | 73 | Lauren Lamb |
 | 57 | 72 | Kesha Brady |
-| 58 | 70 | Valerie Roberts |
+| 58 | 70 | Christina Black |
 | 59 | 70 | Joshua Cuellar |
 | 60 | 70 | Valerie Roberts |
 | 61 | 68 | Sam Middleton |
