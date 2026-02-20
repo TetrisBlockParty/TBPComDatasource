@@ -69,8 +69,8 @@
 | 61 | 145 | Trisha Balmer |
 | 62 | 141 | Denita Mungro |
 | 63 | 134 | DanceLuvLaugh |
-| 64 | 130 | Zippy Strikesnap |
-| 65 | 130 | Tessina Dewey-Mancino |
+| 64 | 130 | Tessina Dewey-Mancino |
+| 65 | 130 | Zippy Strikesnap |
 | 66 | 129 | Giddy Twistbuilder |
 | 67 | 127 | mjl574 |
 | 68 | 127 | Dolores Falco |
@@ -97,8 +97,8 @@
 | 89 | 98 | Jocelyne Baca |
 | 90 | 98 | Ryan Williams |
 | 91 | 96 | Boldy Corner |
-| 92 | 95 | Demetrious Shaw Sr. |
-| 93 | 95 | Brooke Bauer |
+| 92 | 95 | Brooke Bauer |
+| 93 | 95 | Demetrious Shaw Sr. |
 | 94 | 90 | Tiffany Kaupang |
 | 95 | 89 | Annie Déè |
 | 96 | 89 | Hyper Bridger |
@@ -107,9 +107,9 @@
 | 99 | 87 | Lys |
 | 100 | 87 | Sherry Ogden |
 | 101 | 86 | Dan Rob |
-| 102 | 85 | Delilah belle |
-| 103 | 85 | Shari Garber |
-| 104 | 85 | Danielle Cutler |
+| 102 | 85 | Shari Garber |
+| 103 | 85 | Danielle Cutler |
+| 104 | 85 | Delilah belle |
 | 105 | 84 | Eon Harris |
 | 106 | 83 | Nichol Graham |
 | 107 | 82 | Clever Clearbuilder |
