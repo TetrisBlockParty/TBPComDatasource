@@ -87,8 +87,8 @@
 | 79 | 350 | Chris Harr |
 | 80 | 346 | Gene Mills |
 | 81 | 345 | Brenda Messer |
-| 82 | 345 | Alyssaaelena |
-| 83 | 345 | Rhianna DiLorenzo |
+| 82 | 345 | Rhianna DiLorenzo |
+| 83 | 345 | Alyssaaelena |
 | 84 | 342 | Tracy Wise |
 | 85 | 341 | Sarah Freitas |
 | 86 | 341 | Sam McKenzie |
@@ -178,8 +178,8 @@
 | 170 | 194 | Mike Aprilliano |
 | 171 | 193 | Ariel |
 | 172 | 191 | Deana |
-| 173 | 190 | Alyssa Dean |
-| 174 | 190 | Jessie McDougald |
+| 173 | 190 | Jessie McDougald |
+| 174 | 190 | Alyssa Dean |
 | 175 | 189 | Sanaa Nounoussa |
 | 176 | 187 | Wendy Harder Gage |
 | 177 | 184 | Rebecca Doughman |
@@ -238,8 +238,8 @@
 | 230 | 145 | William Hughes |
 | 231 | 145 | Scott Rackley |
 | 232 | 143 | Katrina Williams Balmir |
-| 233 | 142 | Frisky Clearpiece |
-| 234 | 142 | Kyle LeRoy Harris |
+| 233 | 142 | Kyle LeRoy Harris |
+| 234 | 142 | Frisky Clearpiece |
 | 235 | 142 | Angela Lynn |
 | 236 | 141 | Markisha Poyndexter |
 | 237 | 141 | Shorty |

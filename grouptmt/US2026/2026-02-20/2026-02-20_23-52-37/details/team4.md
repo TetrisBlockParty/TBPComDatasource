@@ -28,8 +28,8 @@
 | 20 | 174 | Jamie Mann-Deichmann |
 | 21 | 168 | Anthony Magaraci |
 | 22 | 167 | Rachel Anne |
-| 23 | 165 | Koshin Abdirahman |
-| 24 | 165 | Dee Kay |
+| 23 | 165 | Dee Kay |
+| 24 | 165 | Koshin Abdirahman |
 | 25 | 153 | Lucille Truesdale |
 | 26 | 141 | Edward White |
 | 27 | 133 | Devinlee Brown |
@@ -61,8 +61,8 @@
 | 53 | 90 | ZeeZee |
 | 54 | 88 | Jenna McGeorge |
 | 55 | 87 | Jen Caldwell |
-| 56 | 87 | Brandi Durig |
-| 57 | 87 | Malakai Darien Fox |
+| 56 | 87 | Malakai Darien Fox |
+| 57 | 87 | Brandi Durig |
 | 58 | 86 | amy |
 | 59 | 85 | Mimi |
 | 60 | 83 | TinyLegoRose |
@@ -71,8 +71,8 @@
 | 63 | 80 | Shelly Chandler |
 | 64 | 79 | Zesty Twistbuilder |
 | 65 | 78 | Chilly Line |
-| 66 | 77 | Girl |
-| 67 | 77 | Kim Hunt |
+| 66 | 77 | Kim Hunt |
+| 67 | 77 | Girl |
 | 68 | 76 | Kristin MacDonald |
 | 69 | 75 | Rosemary Foster |
 | 70 | 75 | Chair |
