@@ -30,8 +30,8 @@
 | 22 | 151 | Hyper |
 | 23 | 151 | Standia Civil |
 | 24 | 146 | Abbey Crespo |
-| 25 | 144 | Jessie Lynn |
-| 26 | 144 | Tana |
+| 25 | 144 | Tana |
+| 26 | 144 | Jessie Lynn |
 | 27 | 142 | Tanya Carpenter-Reynolds |
 | 28 | 134 | Plucky Ziggy |
 | 29 | 130 | Tipsy Column |

@@ -70,8 +70,8 @@
 | 62 | 339 | Giggy Blocker |
 | 63 | 332 | Sarah Freitas |
 | 64 | 328 | Marie Boyd Faulk |
-| 65 | 323 | Daphne Jordan |
-| 66 | 323 | Danielle Simmons |
+| 65 | 323 | Danielle Simmons |
+| 66 | 323 | Daphne Jordan |
 | 67 | 321 | Vistabrat |
 | 68 | 311 | Slip |
 | 69 | 296 | Laura Marie Pelletier |
@@ -80,8 +80,8 @@
 | 72 | 285 | June E Hanson |
 | 73 | 283 | Poppy Snap |
 | 74 | 281 | Robert Diddle |
-| 75 | 280 | Christina Lewis-Vickers |
-| 76 | 280 | Kimberly Schall |
+| 75 | 280 | Kimberly Schall |
+| 76 | 280 | Christina Lewis-Vickers |
 | 77 | 271 | Ann Marie Davis |
 | 78 | 270 | Juanita Lyons |
 | 79 | 268 | Vanessa Moreno |
