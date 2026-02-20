@@ -32,8 +32,8 @@
 | 24 | 124 | Jay28 |
 | 25 | 123 | Nugget |
 | 26 | 117 | Lauren Scott |
-| 27 | 116 | Dee Kay |
-| 28 | 116 | Sherri |
+| 27 | 116 | Sherri |
+| 28 | 116 | Dee Kay |
 | 29 | 114 | Jessica Cagle |
 | 30 | 113 | Degenerate |
 | 31 | 112 | Chirpy Basepiece |
@@ -41,8 +41,8 @@
 | 33 | 109 | Brittney Orengo |
 | 34 | 108 | Mr. Party |
 | 35 | 107 | Denise Carlson |
-| 36 | 100 | Diana Houts |
-| 37 | 100 | Michelle Morris |
+| 36 | 100 | Michelle Morris |
+| 37 | 100 | Diana Houts |
 | 38 | 95 | Stephme310 |
 | 39 | 91 | Andria Lynn |
 | 40 | 91 | Gwendolyn Pitcairn |

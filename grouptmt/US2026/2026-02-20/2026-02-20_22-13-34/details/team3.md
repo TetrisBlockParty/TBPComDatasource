@@ -140,7 +140,7 @@
 | 132 | 60 | Ashley Rufus Bythcez |
 | 133 | 60 | Dan Rob |
 | 134 | 60 | Loony Slider |
-| 135 | 60 | Dan Rob |
+| 135 | 60 | Cherry Parker |
 | 136 | 59 | Leticia Lynn Lowe |
 | 137 | 58 | David Kozen |
 | 138 | 58 | Erzulie |
@@ -153,8 +153,8 @@
 | 145 | 55 | Melissa Parlow-Callaway |
 | 146 | 55 | Flashy Climber |
 | 147 | 54 | Ivie Halftown |
-| 148 | 54 | Ashley Raines |
-| 149 | 54 | Christine Ann Eras |
+| 148 | 54 | Christine Ann Eras |
+| 149 | 54 | Ashley Raines |
 | 150 | 53 | Danielle Cutler |
 | 151 | 53 | Payden Dover |
 | 152 | 52 | Jesse Olive |
