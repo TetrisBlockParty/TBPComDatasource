@@ -53,8 +53,8 @@
 | 45 | 214 | Amy Fuller Heaton |
 | 46 | 197 | MissTaylor |
 | 47 | 193 | Clever Shiftsnap |
-| 48 | 192 | rnr junky |
-| 49 | 192 | Jennifer Willis |
+| 48 | 192 | Jennifer Willis |
+| 49 | 192 | rnr junky |
 | 50 | 184 | Jennie Beranek |
 | 51 | 182 | Shunta Jacobs |
 | 52 | 180 | joclisa |
@@ -103,15 +103,15 @@
 | 95 | 95 | Demetrious Shaw Sr. |
 | 96 | 92 | Skinny Baldez |
 | 97 | 90 | Tiffany Kaupang |
-| 98 | 89 | Hyper Bridger |
-| 99 | 89 | Annie Déè |
+| 98 | 89 | Annie Déè |
+| 99 | 89 | Hyper Bridger |
 | 100 | 88 | Martin Bernier |
 | 101 | 87 | Brian Battjes |
 | 102 | 87 | Sherry Ogden |
 | 103 | 87 | Lys |
 | 104 | 86 | Dan Rob |
-| 105 | 85 | Delilah belle |
-| 106 | 85 | Shari Garber |
+| 105 | 85 | Shari Garber |
+| 106 | 85 | Delilah belle |
 | 107 | 84 | Eon Harris |
 | 108 | 83 | LaTanya GeminiondaRise Johnson |
 | 109 | 82 | Donna |

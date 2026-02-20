@@ -58,8 +58,8 @@
 | 50 | 103 | Sharon Reynolds |
 | 51 | 100 | Frothy Pattern |
 | 52 | 98 | Flashy Rotator |
-| 53 | 95 | Jodee Woods |
-| 54 | 95 | Jennifer Cates |
+| 53 | 95 | Jennifer Cates |
+| 54 | 95 | Jodee Woods |
 | 55 | 94 | Bindi |
 | 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
@@ -76,9 +76,9 @@
 | 68 | 81 | Bob |
 | 69 | 80 | Matt Cinelli |
 | 70 | 79 | Chris65 |
-| 71 | 78 | Guest |
-| 72 | 78 | TSwag |
-| 73 | 78 | Carrie Beck Geartz |
+| 71 | 78 | TSwag |
+| 72 | 78 | Carrie Beck Geartz |
+| 73 | 78 | Guest |
 | 74 | 75 | Tyler L Hunt |
 | 75 | 73 | Witty Builderfit |
 | 76 | 72 | Adryane Schnase |
