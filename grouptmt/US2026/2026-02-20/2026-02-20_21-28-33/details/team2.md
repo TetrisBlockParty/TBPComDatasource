@@ -196,7 +196,7 @@
 | 188 | 126 | Ethan Stienbarger |
 | 189 | 124 | Monica Brown |
 | 190 | 123 | Ashlyn Berner |
-| 191 | 122 | Scott Treadway |
+| 191 | 122 | Diallo Sparkman |
 | 192 | 122 | Gursharan Sandhu |
 | 193 | 122 | Scott Treadway |
 | 194 | 121 | Jessicah Myers |
@@ -237,7 +237,7 @@
 | 229 | 106 | Denise Rickman |
 | 230 | 106 | Brave Gridpiece |
 | 231 | 105 | Heather Westrum |
-| 232 | 104 | Marcie McLain Dodd |
+| 232 | 104 | Kristopher Miller |
 | 233 | 104 | Raffaella Dowling |
 | 234 | 104 | Marcie McLain Dodd |
 | 235 | 104 | ElizabethAnn Dickinson |
@@ -304,8 +304,8 @@
 | 296 | 88 | Lorie Richardson |
 | 297 | 88 | Ty Quarles |
 | 298 | 86 | Alice Ball |
-| 299 | 86 | Speedy Shatterfit |
-| 300 | 86 | Angela Murgia-Owen |
+| 299 | 86 | Angela Murgia-Owen |
+| 300 | 86 | Speedy Shatterfit |
 | 301 | 86 | Chipper Risebuilder |
 | 302 | 85 | Ryan Kluck |
 | 303 | 85 | Jennifer Riley |

@@ -31,8 +31,8 @@
 | 23 | 124 | Jay28 |
 | 24 | 123 | Nugget |
 | 25 | 116 | Dee Kay |
-| 26 | 115 | Robin Watters |
-| 27 | 115 | Lauren Scott |
+| 26 | 115 | Lauren Scott |
+| 27 | 115 | Robin Watters |
 | 28 | 114 | Jessica Cagle |
 | 29 | 112 | Chirpy Basepiece |
 | 30 | 110 | Courtney Cicoria |
@@ -70,8 +70,8 @@
 | 62 | 61 | Shauna Havard |
 | 63 | 61 | Jenna Ingersoll |
 | 64 | 60 | Girl |
-| 65 | 57 | Mimi |
-| 66 | 57 | Angela Geist Jusinski |
+| 65 | 57 | Angela Geist Jusinski |
+| 66 | 57 | Mimi |
 | 67 | 56 | Stephanie Jones |
 | 68 | 55 | mini |
 | 69 | 55 | Chris Alexinas |
