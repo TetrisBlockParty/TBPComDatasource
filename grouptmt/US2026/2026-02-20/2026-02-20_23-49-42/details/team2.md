@@ -95,13 +95,13 @@
 | 87 | 340 | Kimberly Randesi |
 | 88 | 337 | Alisha Peoples |
 | 89 | 328 | Marie Boyd Faulk |
-| 90 | 323 | Danielle Simmons |
-| 91 | 323 | Daphne Jordan |
+| 90 | 323 | Daphne Jordan |
+| 91 | 323 | Danielle Simmons |
 | 92 | 317 | Debra Williams |
 | 93 | 317 | bru |
 | 94 | 297 | James Zaragoza |
-| 95 | 295 | Zany Clusterbuilder |
-| 96 | 295 | Diallo Sparkman |
+| 95 | 295 | Diallo Sparkman |
+| 96 | 295 | Zany Clusterbuilder |
 | 97 | 292 | Steve Grotto |
 | 98 | 286 | Juanita Lyons |
 | 99 | 285 | June E Hanson |
@@ -232,11 +232,11 @@
 | 224 | 151 | D'Aaron Black |
 | 225 | 151 | Dizzy Zone |
 | 226 | 150 | Tiffney Wroten |
-| 227 | 148 | Cappin You |
-| 228 | 148 | Brittany Radaszewski |
+| 227 | 148 | Brittany Radaszewski |
+| 228 | 148 | Cappin You |
 | 229 | 148 | Shannon Byrd |
-| 230 | 145 | Scott Rackley |
-| 231 | 145 | William Hughes |
+| 230 | 145 | William Hughes |
+| 231 | 145 | Scott Rackley |
 | 232 | 143 | Katrina Williams Balmir |
 | 233 | 142 | Frisky Clearpiece |
 | 234 | 142 | Angela Lynn |
@@ -244,13 +244,13 @@
 | 236 | 141 | Markisha Poyndexter |
 | 237 | 141 | Shorty |
 | 238 | 140 | Peter Palestino |
-| 239 | 140 | Anthony Huebel |
-| 240 | 140 | Julay |
+| 239 | 140 | Julay |
+| 240 | 140 | Anthony Huebel |
 | 241 | 139 | Noel Tarmy |
 | 242 | 139 | Jackson Smith |
 | 243 | 137 | Chummy Blockbuilder |
-| 244 | 136 | blarg |
-| 245 | 136 | Magic steve |
+| 244 | 136 | Magic steve |
+| 245 | 136 | blarg |
 | 246 | 135 | Michelle Loar |
 | 247 | 135 | Nancy Reid |
 | 248 | 134 | Ashlyn Berner |
@@ -267,8 +267,8 @@
 | 259 | 128 | Arwa Fatimah |
 | 260 | 128 | Melissa Kay Gibson |
 | 261 | 128 | Maddy Petersen |
-| 262 | 127 | Amy Ross |
-| 263 | 127 | Ellie Jonas |
+| 262 | 127 | Ellie Jonas |
+| 263 | 127 | Amy Ross |
 | 264 | 126 | Kyle Saunders |
 | 265 | 126 | Ethan Stienbarger |
 | 266 | 125 | Peppy Zone |
@@ -463,7 +463,7 @@
 | 455 | 78 | Anita Ortiz |
 | 456 | 78 | Megan Ferguson Leone |
 | 457 | 77 | Tina Wright-Quigley |
-| 458 | 77 | Crissy |
+| 458 | 77 | Amanda Jean Gray |
 | 459 | 77 | ThunderSword |
 | 460 | 77 | Abby Klaski |
 | 461 | 77 | Crissy |

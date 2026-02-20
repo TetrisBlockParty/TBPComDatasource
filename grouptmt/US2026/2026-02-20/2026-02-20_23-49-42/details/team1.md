@@ -27,8 +27,8 @@
 | 19 | 215 | Sarah Roberts |
 | 20 | 197 | Jayme Sellers |
 | 21 | 196 | Elaine Elaine |
-| 22 | 193 | Lexuriuos Lifestlye |
-| 23 | 193 | Tdub |
+| 22 | 193 | Tdub |
+| 23 | 193 | Lexuriuos Lifestlye |
 | 24 | 190 | Sweetts |
 | 25 | 187 | Dee Perry |
 | 26 | 183 | Ly Phethmany |
@@ -40,8 +40,8 @@
 | 32 | 148 | Lawrence Belanger |
 | 33 | 146 | Abbey Crespo |
 | 34 | 145 | Lachelle Dillon |
-| 35 | 144 | Tana |
-| 36 | 144 | Jessie Lynn |
+| 35 | 144 | Jessie Lynn |
+| 36 | 144 | Tana |
 | 37 | 144 | Tanya Carpenter-Reynolds |
 | 38 | 143 | Veronica Eve |
 | 39 | 134 | Plucky Ziggy |

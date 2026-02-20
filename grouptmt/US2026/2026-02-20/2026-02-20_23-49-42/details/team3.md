@@ -76,8 +76,8 @@
 | 68 | 135 | Latoya Mayne |
 | 69 | 135 | Danielle Cutler |
 | 70 | 134 | DanceLuvLaugh |
-| 71 | 130 | Tessina Dewey-Mancino |
-| 72 | 130 | Zippy Strikesnap |
+| 71 | 130 | Zippy Strikesnap |
+| 72 | 130 | Tessina Dewey-Mancino |
 | 73 | 129 | Giddy Twistbuilder |
 | 74 | 128 | Angel Mendez |
 | 75 | 127 | Dolores Falco |
@@ -91,8 +91,8 @@
 | 83 | 118 | Bea Miles |
 | 84 | 113 | Jennifer Alvey |
 | 85 | 111 | Joy Petroski |
-| 86 | 110 | Stella |
-| 87 | 110 | Connie Mohler-Fair |
+| 86 | 110 | Connie Mohler-Fair |
+| 87 | 110 | Stella |
 | 88 | 110 | Tiff Vs Tiffany |
 | 89 | 108 | Grams |
 | 90 | 107 | Bryan Byrd |
