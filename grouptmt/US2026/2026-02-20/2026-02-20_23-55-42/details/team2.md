@@ -90,8 +90,8 @@
 | 82 | 345 | Rhianna DiLorenzo |
 | 83 | 345 | Alyssaaelena |
 | 84 | 342 | Tracy Wise |
-| 85 | 341 | Sam McKenzie |
-| 86 | 341 | Sarah Freitas |
+| 85 | 341 | Sarah Freitas |
+| 86 | 341 | Sam McKenzie |
 | 87 | 340 | Kimberly Randesi |
 | 88 | 337 | Alisha Peoples |
 | 89 | 328 | Marie Boyd Faulk |
@@ -118,8 +118,8 @@
 | 110 | 266 | Mighty Shatterfit |
 | 111 | 266 | Jojo Momma |
 | 112 | 266 | Joyce Johnson Vaughn |
-| 113 | 265 | Joseph Musick |
-| 114 | 265 | Wuntayk |
+| 113 | 265 | Wuntayk |
+| 114 | 265 | Joseph Musick |
 | 115 | 264 | Lonne Emade |
 | 116 | 263 | Oscar Bernie |
 | 117 | 263 | Taylor Flowers |

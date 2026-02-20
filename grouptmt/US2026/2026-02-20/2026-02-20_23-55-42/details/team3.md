@@ -118,17 +118,17 @@
 | 110 | 90 | Tiffany Kaupang |
 | 111 | 89 | Annie Déè |
 | 112 | 89 | Hyper Bridger |
-| 113 | 88 | Funky Jumper |
-| 114 | 88 | Martin Bernier |
+| 113 | 88 | Martin Bernier |
+| 114 | 88 | Funky Jumper |
 | 115 | 87 | Sherry Ogden |
-| 116 | 86 | Dan Rob |
-| 117 | 86 | rosy |
+| 116 | 86 | rosy |
+| 117 | 86 | Dan Rob |
 | 118 | 84 | Eon Harris |
 | 119 | 84 | Ava Petito |
 | 120 | 83 | LaTanya GeminiondaRise Johnson |
-| 121 | 82 | Donna |
-| 122 | 82 | Clever Clearbuilder |
-| 123 | 82 | Jimmie Clemons |
+| 121 | 82 | Clever Clearbuilder |
+| 122 | 82 | Jimmie Clemons |
+| 123 | 82 | Donna |
 | 124 | 81 | Danielle Becker |
 | 125 | 80 | Vixen Queen |
 | 126 | 80 | Chris Bell |

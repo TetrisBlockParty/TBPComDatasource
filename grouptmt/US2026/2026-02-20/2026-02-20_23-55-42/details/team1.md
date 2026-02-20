@@ -24,8 +24,8 @@
 | 16 | 281 | Kathi Snustad |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 234 | Tipsy Column |
-| 19 | 215 | Sarah Roberts |
-| 20 | 215 | Jayme Sellers |
+| 19 | 215 | Jayme Sellers |
+| 20 | 215 | Sarah Roberts |
 | 21 | 208 | Tdub |
 | 22 | 196 | Elaine Elaine |
 | 23 | 193 | Lexuriuos Lifestlye |
@@ -85,8 +85,8 @@
 | 77 | 79 | TSwag |
 | 78 | 79 | Chris65 |
 | 79 | 78 | Carrie Beck Geartz |
-| 80 | 75 | Josie Kirt |
-| 81 | 75 | Tyler L Hunt |
+| 80 | 75 | Tyler L Hunt |
+| 81 | 75 | Josie Kirt |
 | 82 | 74 | Grace Joanne Agnant |
 | 83 | 73 | Loony Fitzone |
 | 84 | 73 | Jennifer ManWarren |
@@ -104,7 +104,7 @@
 | 96 | 63 | Margo Wagner |
 | 97 | 62 | Tofy |
 | 98 | 62 | Anaid Sanchez |
-| 99 | 62 | Tofy |
+| 99 | 62 | Sarah Henniker |
 | 100 | 61 | Carolyn Smith |
 | 101 | 60 | Tina Englert |
 | 102 | 60 | Susanna Guerry |
@@ -116,8 +116,8 @@
 | 108 | 58 | Sweet Baker |
 | 109 | 58 | Jason Cox |
 | 110 | 57 | Larry Tilton |
-| 111 | 56 | Lehrin Maria |
-| 112 | 56 | Lis |
+| 111 | 56 | Lis |
+| 112 | 56 | Lehrin Maria |
 | 113 | 55 | Yvonne Marie |
 | 114 | 54 | Michelle |
 | 115 | 54 | Ariel Whittington |
