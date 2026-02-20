@@ -38,8 +38,8 @@
 | 30 | 333 | Silly Twist |
 | 31 | 331 | Gracie |
 | 32 | 320 | Or Reznitsky |
-| 33 | 307 | Kristie |
-| 34 | 307 | Peggi Charon |
+| 33 | 307 | Peggi Charon |
+| 34 | 307 | Kristie |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 291 | Tasha Schriewer |
 | 37 | 291 | Laura Melton |
@@ -64,18 +64,18 @@
 | 56 | 149 | Fallorina Susana |
 | 57 | 149 | Shannon Matthew Byers |
 | 58 | 145 | Trisha Balmer |
-| 59 | 141 | Denita Mungro |
-| 60 | 141 | Clever Roll |
+| 59 | 141 | Clever Roll |
+| 60 | 141 | Denita Mungro |
 | 61 | 134 | DanceLuvLaugh |
-| 62 | 130 | Tessina Dewey-Mancino |
-| 63 | 130 | Zippy Strikesnap |
+| 62 | 130 | Zippy Strikesnap |
+| 63 | 130 | Tessina Dewey-Mancino |
 | 64 | 129 | Giddy Twistbuilder |
-| 65 | 127 | Dolores Falco |
-| 66 | 127 | mjl574 |
+| 65 | 127 | mjl574 |
+| 66 | 127 | Dolores Falco |
 | 67 | 126 | ren |
 | 68 | 125 | Stephanie Simpson |
-| 69 | 122 | Emma |
-| 70 | 122 | Jennifer Willis |
+| 69 | 122 | Jennifer Willis |
+| 70 | 122 | Emma |
 | 71 | 120 | Michael Latasha Gray |
 | 72 | 119 | Jessica |
 | 73 | 118 | Bea Miles |

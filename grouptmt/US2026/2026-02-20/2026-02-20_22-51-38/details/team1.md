@@ -79,14 +79,14 @@
 | 71 | 78 | Carrie Beck Geartz |
 | 72 | 75 | Tyler L Hunt |
 | 73 | 73 | Witty Builderfit |
-| 74 | 72 | Adryane Schnase |
-| 75 | 72 | Tipsy Strikerpiece |
-| 76 | 72 | Miguel Teixeira |
+| 74 | 72 | Tipsy Strikerpiece |
+| 75 | 72 | Miguel Teixeira |
+| 76 | 72 | Adryane Schnase |
 | 77 | 71 | Teddy Alexander |
 | 78 | 69 | Christina Torres |
 | 79 | 67 | Loony Fitzone |
-| 80 | 66 | Archie Ware |
-| 81 | 66 | Giggly Builderline |
+| 80 | 66 | Giggly Builderline |
+| 81 | 66 | Archie Ware |
 | 82 | 65 | Trippy Redd |
 | 83 | 64 | Tavia |
 | 84 | 64 | Jessi Sauer |

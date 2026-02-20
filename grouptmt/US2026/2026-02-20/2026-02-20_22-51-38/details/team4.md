@@ -89,8 +89,8 @@
 | 81 | 53 | Zany Twisterfit |
 | 82 | 53 | Julian Garcia |
 | 83 | 53 | Jackson Karen |
-| 84 | 52 | Nicole Silvers |
-| 85 | 52 | Allison Judith |
+| 84 | 52 | Allison Judith |
+| 85 | 52 | Nicole Silvers |
 | 86 | 51 | Chaz Duncan |
 | 87 | 51 | Bryan Hodgins |
 | 88 | 50 | Brandon Crabbs |
