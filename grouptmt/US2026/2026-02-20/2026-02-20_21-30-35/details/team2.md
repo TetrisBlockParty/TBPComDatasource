@@ -82,8 +82,8 @@
 | 74 | 271 | Ann Marie Davis |
 | 75 | 270 | Juanita Lyons |
 | 76 | 268 | Vanessa Moreno |
-| 77 | 263 | Oscar Bernie |
-| 78 | 263 | Shiny Rollzone |
+| 77 | 263 | Shiny Rollzone |
+| 78 | 263 | Oscar Bernie |
 | 79 | 262 | E_Money04 |
 | 80 | 261 | MrsClaudette Will'sIam Matthews |
 | 81 | 259 | Melissa Holsinger |
@@ -142,8 +142,8 @@
 | 134 | 173 | Vistabrat |
 | 135 | 170 | Mari Ac |
 | 136 | 166 | Jessica Kaye DeAguero |
-| 137 | 163 | Missie Lawson Gebhardt |
-| 138 | 163 | Taryece Gause |
+| 137 | 163 | Taryece Gause |
+| 138 | 163 | Missie Lawson Gebhardt |
 | 139 | 162 | Nick Jensen |
 | 140 | 160 | Mema |
 | 141 | 160 | Rhonda Petro |

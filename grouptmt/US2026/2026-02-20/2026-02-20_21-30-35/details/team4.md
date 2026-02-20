@@ -31,8 +31,8 @@
 | 23 | 124 | Jay28 |
 | 24 | 123 | Nugget |
 | 25 | 116 | Dee Kay |
-| 26 | 115 | Lauren Scott |
-| 27 | 115 | Robin Watters |
+| 26 | 115 | Robin Watters |
+| 27 | 115 | Lauren Scott |
 | 28 | 114 | Jessica Cagle |
 | 29 | 112 | Chirpy Basepiece |
 | 30 | 110 | Courtney Cicoria |
@@ -40,8 +40,8 @@
 | 32 | 107 | Mr. Party |
 | 33 | 99 | Denise Carlson |
 | 34 | 98 | Diana Houts |
-| 35 | 95 | Stephme310 |
-| 36 | 95 | Michelle Morris |
+| 35 | 95 | Michelle Morris |
+| 36 | 95 | Stephme310 |
 | 37 | 91 | Andria Lynn |
 | 38 | 90 | Duck |
 | 39 | 89 | Gwendolyn Pitcairn |
@@ -70,8 +70,8 @@
 | 62 | 61 | Jenna Ingersoll |
 | 63 | 61 | Shauna Havard |
 | 64 | 60 | Girl |
-| 65 | 57 | Angela Geist Jusinski |
-| 66 | 57 | Mimi |
+| 65 | 57 | Mimi |
+| 66 | 57 | Angela Geist Jusinski |
 | 67 | 56 | Stephanie Jones |
 | 68 | 55 | RiahRose |
 | 69 | 55 | Chris Alexinas |

@@ -57,8 +57,8 @@
 | 49 | 90 | Ash Galvan |
 | 50 | 84 | Charla Pross-Fugleberg |
 | 51 | 83 | Death |
-| 52 | 82 | Melissa Lemmon |
-| 53 | 82 | Lachelle Dillon |
+| 52 | 82 | Lachelle Dillon |
+| 53 | 82 | Melissa Lemmon |
 | 54 | 81 | Garcia Bailey |
 | 55 | 80 | Matt Cinelli |
 | 56 | 79 | Chris65 |
@@ -87,8 +87,8 @@
 | 79 | 59 | Mel Hogan |
 | 80 | 58 | Jason Cox |
 | 81 | 58 | Carolyn Smith |
-| 82 | 56 | Ly Phethmany |
-| 83 | 56 | Lehrin Maria |
+| 82 | 56 | Lehrin Maria |
+| 83 | 56 | Ly Phethmany |
 | 84 | 55 | Sweet Baker |
 | 85 | 53 | J.D3D.D |
 | 86 | 52 | Sid Castro |

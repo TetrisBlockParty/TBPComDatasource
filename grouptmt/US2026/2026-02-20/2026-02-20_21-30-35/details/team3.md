@@ -69,8 +69,8 @@
 | 61 | 117 | Jessica |
 | 62 | 110 | Stella |
 | 63 | 110 | Tiff Vs Tiffany |
-| 64 | 108 | Jennifer Alvey |
-| 65 | 108 | Grams |
+| 64 | 108 | Grams |
+| 65 | 108 | Jennifer Alvey |
 | 66 | 107 | Bryan Byrd |
 | 67 | 104 | Connie Mohler-Fair |
 | 68 | 101 | Sabrina Ruth Archuletta-Gauna |
