@@ -89,11 +89,11 @@
 | 81 | 108 | Grams |
 | 82 | 107 | Bryan Byrd |
 | 83 | 105 | Hoppy Buildout |
-| 84 | 101 | Mykal Burton |
-| 85 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 86 | 100 | Bobbi Moore |
-| 87 | 100 | Fancy Slam |
-| 88 | 100 | Fredd Thomas |
+| 84 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 85 | 101 | Mykal Burton |
+| 86 | 100 | Fancy Slam |
+| 87 | 100 | Fredd Thomas |
+| 88 | 100 | Bobbi Moore |
 | 89 | 99 | Nichol Graham |
 | 90 | 98 | Ryan Williams |
 | 91 | 98 | Jocelyne Baca |
@@ -181,7 +181,7 @@
 | 173 | 54 | Ashley Raines |
 | 174 | 54 | Christine Ann Eras |
 | 175 | 54 | Rania Zaqout |
-| 176 | 54 | Christine Ann Eras |
+| 176 | 54 | Peachy Rollfit |
 | 177 | 53 | Payden Dover |
 | 178 | 53 | mzcatzy |
 | 179 | 52 | Kristina Marie |
