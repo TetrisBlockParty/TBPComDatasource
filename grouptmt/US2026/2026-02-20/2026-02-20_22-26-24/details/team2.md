@@ -137,10 +137,10 @@
 | 129 | 197 | Smashanator |
 | 130 | 197 | James Zaragoza |
 | 131 | 196 | Gary Stash |
-| 132 | 194 | Shameika Trail |
-| 133 | 194 | Tammy Allen |
-| 134 | 191 | Deana |
-| 135 | 191 | Mike Aprilliano |
+| 132 | 194 | Tammy Allen |
+| 133 | 194 | Shameika Trail |
+| 134 | 191 | Mike Aprilliano |
+| 135 | 191 | Deana |
 | 136 | 190 | Mari Ac |
 | 137 | 189 | Sanaa Nounoussa |
 | 138 | 186 | Ann Knutson Anderson |
@@ -257,13 +257,13 @@
 | 249 | 110 | Angelica |
 | 250 | 110 | Theresa Ring |
 | 251 | 110 | Britni Deas |
-| 252 | 109 | Sabrena Yeisley |
-| 253 | 109 | BeenRich Theceo |
+| 252 | 109 | BeenRich Theceo |
+| 253 | 109 | Sabrena Yeisley |
 | 254 | 109 | Jroc |
 | 255 | 108 | Sean Kinsey |
-| 256 | 107 | Sandy Aragon |
-| 257 | 107 | Layla LS |
-| 258 | 107 | Funky Riseclear |
+| 256 | 107 | Layla LS |
+| 257 | 107 | Funky Riseclear |
+| 258 | 107 | Sandy Aragon |
 | 259 | 106 | Denise Rickman |
 | 260 | 106 | Cassie Newton |
 | 261 | 106 | Brave Gridpiece |
