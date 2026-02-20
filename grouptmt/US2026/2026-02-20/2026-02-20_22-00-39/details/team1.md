@@ -27,8 +27,8 @@
 | 19 | 181 | Tdub |
 | 20 | 176 | Jazzy Framezone |
 | 21 | 169 | Erez Yosef |
-| 22 | 151 | Hyper |
-| 23 | 151 | Standia Civil |
+| 22 | 151 | Standia Civil |
+| 23 | 151 | Hyper |
 | 24 | 146 | Abbey Crespo |
 | 25 | 144 | Jessie Lynn |
 | 26 | 144 | Tana |
@@ -91,8 +91,8 @@
 | 83 | 60 | Karin Gillen |
 | 84 | 60 | Tina Englert |
 | 85 | 59 | Mel Hogan |
-| 86 | 58 | Carolyn Smith |
-| 87 | 58 | Jason Cox |
+| 86 | 58 | Jason Cox |
+| 87 | 58 | Carolyn Smith |
 | 88 | 56 | Lehrin Maria |
 | 89 | 55 | Sweet Baker |
 | 90 | 54 | Witty Builderfit |

@@ -32,8 +32,8 @@
 | 24 | 124 | Jay28 |
 | 25 | 123 | Nugget |
 | 26 | 117 | Lauren Scott |
-| 27 | 116 | Sherri |
-| 28 | 116 | Dee Kay |
+| 27 | 116 | Dee Kay |
+| 28 | 116 | Sherri |
 | 29 | 114 | Jessica Cagle |
 | 30 | 112 | Chirpy Basepiece |
 | 31 | 110 | Courtney Cicoria |
@@ -77,9 +77,9 @@
 | 69 | 61 | Shauna Havard |
 | 70 | 60 | Girl |
 | 71 | 56 | Stephanie Jones |
-| 72 | 55 | Chris Alexinas |
+| 72 | 55 | mini |
 | 73 | 55 | RiahRose |
-| 74 | 55 | mini |
+| 74 | 55 | Chris Alexinas |
 | 75 | 54 | Jennifer Perkins |
 | 76 | 54 | Carter Jones |
 | 77 | 54 | Destiney Carter |
@@ -92,8 +92,8 @@
 | 84 | 50 | Richard-April Kice |
 | 85 | 49 | Justin Hannigan |
 | 86 | 49 | Lakesha Johnson |
-| 87 | 46 | Natalie;) |
-| 88 | 46 | Aly Eggers |
+| 87 | 46 | Aly Eggers |
+| 88 | 46 | Natalie;) |
 | 89 | 46 | Jeff Brian Gates |
 | 90 | 45 | Dustin Robert |
 | 91 | 45 | Brandon Crabbs |
