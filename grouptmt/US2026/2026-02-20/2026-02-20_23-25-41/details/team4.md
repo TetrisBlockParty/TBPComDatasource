@@ -70,8 +70,8 @@
 | 62 | 75 | Rosemary Foster |
 | 63 | 75 | Chair |
 | 64 | 73 | Lauren Lamb |
-| 65 | 72 | Joshua Cuellar |
-| 66 | 72 | Kesha Brady |
+| 65 | 72 | Kesha Brady |
+| 66 | 72 | Joshua Cuellar |
 | 67 | 71 | Zesty Twistbuilder |
 | 68 | 71 | Kimberly Love |
 | 69 | 70 | Christina Black |

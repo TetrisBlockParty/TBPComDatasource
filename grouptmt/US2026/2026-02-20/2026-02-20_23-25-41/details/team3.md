@@ -70,8 +70,8 @@
 | 62 | 141 | Denita Mungro |
 | 63 | 135 | Danielle Cutler |
 | 64 | 134 | DanceLuvLaugh |
-| 65 | 130 | Zippy Strikesnap |
-| 66 | 130 | Tessina Dewey-Mancino |
+| 65 | 130 | Tessina Dewey-Mancino |
+| 66 | 130 | Zippy Strikesnap |
 | 67 | 129 | Giddy Twistbuilder |
 | 68 | 127 | Dolores Falco |
 | 69 | 127 | mjl574 |
