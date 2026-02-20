@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | Jennifer Willis |
-| 53 | 206 | MissTaylor |
+| 52 | 206 | MissTaylor |
+| 53 | 206 | Jennifer Willis |
 | 54 | 203 | Crimson |
 | 55 | 193 | Clever Shiftsnap |
 | 56 | 193 | Shunta Jacobs |
@@ -86,8 +86,8 @@
 | 78 | 125 | Stephanie Simpson |
 | 79 | 124 | Delilah belle |
 | 80 | 122 | Emma |
-| 81 | 120 | Jessica |
-| 82 | 120 | Michael Latasha Gray |
+| 81 | 120 | Michael Latasha Gray |
+| 82 | 120 | Jessica |
 | 83 | 118 | Bea Miles |
 | 84 | 113 | Jennifer Alvey |
 | 85 | 111 | Joy Petroski |

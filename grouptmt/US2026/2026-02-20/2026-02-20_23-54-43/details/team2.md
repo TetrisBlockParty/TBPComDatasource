@@ -39,8 +39,8 @@
 | 31 | 679 | Gold Rose |
 | 32 | 677 | Kimberly Michelle Brown |
 | 33 | 674 | Dannette Goldberg-Richards |
-| 34 | 658 | Vistabrat |
-| 35 | 658 | Dreamy Blast |
+| 34 | 658 | Dreamy Blast |
+| 35 | 658 | Vistabrat |
 | 36 | 656 | Pacynthia Williams |
 | 37 | 654 | Corrine Hawks Soriano |
 | 38 | 642 | E_Money04 |
@@ -109,8 +109,8 @@
 | 101 | 284 | Brittney Jean |
 | 102 | 283 | Poppy Snap |
 | 103 | 281 | Robert Diddle |
-| 104 | 280 | Christina Lewis-Vickers |
-| 105 | 280 | Kimberly Schall |
+| 104 | 280 | Kimberly Schall |
+| 105 | 280 | Christina Lewis-Vickers |
 | 106 | 274 | Melissa Holsinger |
 | 107 | 273 | Venechia Berry |
 | 108 | 271 | Ann Marie Davis |
@@ -192,10 +192,10 @@
 | 184 | 180 | Ali Gralski |
 | 185 | 179 | Cat |
 | 186 | 179 | Desiree Harris Rosch |
-| 187 | 177 | John |
-| 188 | 177 | Osun Anuket Esu |
-| 189 | 176 | Missie Lawson Gebhardt |
-| 190 | 176 | Besma Ao |
+| 187 | 177 | Osun Anuket Esu |
+| 188 | 177 | John |
+| 189 | 176 | Besma Ao |
+| 190 | 176 | Missie Lawson Gebhardt |
 | 191 | 175 | Tina Blessed Cage |
 | 192 | 173 | Macy Williams |
 | 193 | 170 | Darlene Bowman |
@@ -241,8 +241,8 @@
 | 233 | 142 | Frisky Clearpiece |
 | 234 | 142 | Kyle LeRoy Harris |
 | 235 | 142 | Angela Lynn |
-| 236 | 141 | Shorty |
-| 237 | 141 | Markisha Poyndexter |
+| 236 | 141 | Markisha Poyndexter |
+| 237 | 141 | Shorty |
 | 238 | 140 | Julay |
 | 239 | 140 | Peter Palestino |
 | 240 | 140 | Anthony Huebel |

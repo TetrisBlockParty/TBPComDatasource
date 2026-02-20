@@ -66,13 +66,13 @@
 | 58 | 95 | Jodee Woods |
 | 59 | 94 | Bindi |
 | 60 | 93 | Adryane Schnase |
-| 61 | 93 | Uhog SF |
-| 62 | 93 | Ty Brown |
+| 61 | 93 | Ty Brown |
+| 62 | 93 | Uhog SF |
 | 63 | 91 | Melissa Lemmon |
 | 64 | 91 | Spunky Piecebuilder |
 | 65 | 91 | COOL as Icer |
-| 66 | 90 | comrade fish |
-| 67 | 90 | Madison Wicks |
+| 66 | 90 | Madison Wicks |
+| 67 | 90 | comrade fish |
 | 68 | 87 | Jessi Sauer |
 | 69 | 85 | Ananda Mendez |
 | 70 | 84 | Charla Pross-Fugleberg |
@@ -88,8 +88,8 @@
 | 80 | 75 | Josie Kirt |
 | 81 | 75 | Tyler L Hunt |
 | 82 | 74 | Grace Joanne Agnant |
-| 83 | 73 | Witty Builderfit |
-| 84 | 73 | Jennifer ManWarren |
+| 83 | 73 | Jennifer ManWarren |
+| 84 | 73 | Witty Builderfit |
 | 85 | 73 | Loony Fitzone |
 | 86 | 72 | Tipsy Strikerpiece |
 | 87 | 71 | Teddy Alexander |
@@ -112,8 +112,8 @@
 | 104 | 60 | Tina Englert |
 | 105 | 59 | Mel Hogan |
 | 106 | 58 | Shiny Gridmatch |
-| 107 | 58 | Basment Living |
-| 108 | 58 | Jason Cox |
+| 107 | 58 | Jason Cox |
+| 108 | 58 | Basment Living |
 | 109 | 58 | Sweet Baker |
 | 110 | 57 | Larry Tilton |
 | 111 | 56 | Lehrin Maria |
