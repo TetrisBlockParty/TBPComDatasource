@@ -63,8 +63,8 @@
 | 55 | 93 | Ash Galvan |
 | 56 | 93 | Uhog SF |
 | 57 | 91 | Spunky Piecebuilder |
-| 58 | 90 | comrade fish |
-| 59 | 90 | Madison Wicks |
+| 58 | 90 | Madison Wicks |
+| 59 | 90 | comrade fish |
 | 60 | 85 | Ananda Mendez |
 | 61 | 84 | Charla Pross-Fugleberg |
 | 62 | 83 | Death |

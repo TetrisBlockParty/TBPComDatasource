@@ -113,8 +113,8 @@
 | 105 | 244 | Debra Williams |
 | 106 | 243 | Brandy Andre |
 | 107 | 239 | Tee Jaleesa |
-| 108 | 238 | Ann Matzkanin |
-| 109 | 238 | Cheech Dta |
+| 108 | 238 | Cheech Dta |
+| 109 | 238 | Ann Matzkanin |
 | 110 | 236 | Frisky Riserbuilder |
 | 111 | 231 | Dylan Thomason |
 | 112 | 231 | Ginger |
@@ -193,8 +193,8 @@
 | 185 | 148 | Brittany Radaszewski |
 | 186 | 148 | Shannon Byrd |
 | 187 | 146 | Deborah Miller |
-| 188 | 145 | Cappin You |
-| 189 | 145 | Alexandra Weir |
+| 188 | 145 | Alexandra Weir |
+| 189 | 145 | Cappin You |
 | 190 | 145 | Scott Rackley |
 | 191 | 143 | Robin |
 | 192 | 142 | Angela Lynn |

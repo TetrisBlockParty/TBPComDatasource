@@ -72,8 +72,8 @@
 | 64 | 127 | Dolores Falco |
 | 65 | 126 | ren |
 | 66 | 125 | Stephanie Simpson |
-| 67 | 122 | Emma |
-| 68 | 122 | Jennifer Willis |
+| 67 | 122 | Jennifer Willis |
+| 68 | 122 | Emma |
 | 69 | 120 | Michael Latasha Gray |
 | 70 | 119 | Jessica |
 | 71 | 118 | Bea Miles |
@@ -96,18 +96,18 @@
 | 88 | 95 | Brooke Bauer |
 | 89 | 95 | Demetrious Shaw Sr. |
 | 90 | 90 | Tiffany Kaupang |
-| 91 | 89 | Hyper Bridger |
-| 92 | 89 | Annie Déè |
+| 91 | 89 | Annie Déè |
+| 92 | 89 | Hyper Bridger |
 | 93 | 88 | Martin Bernier |
 | 94 | 87 | Sherry Ogden |
 | 95 | 86 | Dan Rob |
-| 96 | 85 | Delilah belle |
-| 97 | 85 | Danielle Cutler |
-| 98 | 85 | Skinny Baldez |
+| 96 | 85 | Skinny Baldez |
+| 97 | 85 | Delilah belle |
+| 98 | 85 | Danielle Cutler |
 | 99 | 84 | Eon Harris |
 | 100 | 83 | Nichol Graham |
-| 101 | 82 | Donna |
-| 102 | 82 | Clever Clearbuilder |
+| 101 | 82 | Clever Clearbuilder |
+| 102 | 82 | Donna |
 | 103 | 81 | Danielle Becker |
 | 104 | 81 | Ava Petito |
 | 105 | 80 | Chris Bell |

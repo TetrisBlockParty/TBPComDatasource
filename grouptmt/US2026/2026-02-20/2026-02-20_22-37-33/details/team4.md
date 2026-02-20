@@ -51,8 +51,8 @@
 | 43 | 87 | Jen Caldwell |
 | 44 | 86 | amy |
 | 45 | 85 | Mimi |
-| 46 | 84 | Epic Curvetile |
-| 47 | 84 | Brandi Durig |
+| 46 | 84 | Brandi Durig |
+| 47 | 84 | Epic Curvetile |
 | 48 | 83 | TinyLegoRose |
 | 49 | 81 | Michelle Parker |
 | 50 | 80 | Shelly Chandler |
