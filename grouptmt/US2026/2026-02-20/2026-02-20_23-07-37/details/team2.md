@@ -33,8 +33,8 @@
 | 25 | 679 | Gold Rose |
 | 26 | 677 | Kimberly Michelle Brown |
 | 27 | 674 | Dannette Goldberg-Richards |
-| 28 | 658 | Vistabrat |
-| 29 | 658 | Dreamy Blast |
+| 28 | 658 | Dreamy Blast |
+| 29 | 658 | Vistabrat |
 | 30 | 648 | Rob Riggin |
 | 31 | 648 | Jill Stroehlein |
 | 32 | 643 | Pacynthia Williams |

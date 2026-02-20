@@ -38,8 +38,8 @@
 | 30 | 333 | Silly Twist |
 | 31 | 331 | Gracie |
 | 32 | 320 | Or Reznitsky |
-| 33 | 307 | Peggi Charon |
-| 34 | 307 | Kristie |
+| 33 | 307 | Kristie |
+| 34 | 307 | Peggi Charon |
 | 35 | 300 | Sherika C. McDaniels |
 | 36 | 295 | Clever Roll |
 | 37 | 291 | Tasha Schriewer |
@@ -98,8 +98,8 @@
 | 90 | 98 | Ashley Tookes |
 | 91 | 98 | Jocelyne Baca |
 | 92 | 96 | Boldy Corner |
-| 93 | 95 | Brooke Bauer |
-| 94 | 95 | Demetrious Shaw Sr. |
+| 93 | 95 | Demetrious Shaw Sr. |
+| 94 | 95 | Brooke Bauer |
 | 95 | 92 | Skinny Baldez |
 | 96 | 90 | Tiffany Kaupang |
 | 97 | 89 | Annie Déè |

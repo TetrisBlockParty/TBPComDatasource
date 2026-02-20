@@ -58,8 +58,8 @@
 | 50 | 103 | Sharon Reynolds |
 | 51 | 100 | Frothy Pattern |
 | 52 | 98 | Flashy Rotator |
-| 53 | 95 | Jennifer Cates |
-| 54 | 95 | Jodee Woods |
+| 53 | 95 | Jodee Woods |
+| 54 | 95 | Jennifer Cates |
 | 55 | 94 | Bindi |
 | 56 | 93 | Ty Brown |
 | 57 | 93 | Uhog SF |
