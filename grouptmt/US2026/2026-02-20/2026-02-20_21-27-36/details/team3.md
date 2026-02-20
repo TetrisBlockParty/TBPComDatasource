@@ -48,8 +48,8 @@
 | 40 | 180 | joclisa |
 | 41 | 171 | Speedy Bridger |
 | 42 | 161 | Crimson |
-| 43 | 149 | Shannon Matthew Byers |
-| 44 | 149 | Fallorina Susana |
+| 43 | 149 | Fallorina Susana |
+| 44 | 149 | Shannon Matthew Byers |
 | 45 | 148 | Clever Shiftsnap |
 | 46 | 146 | Liv Whetson |
 | 47 | 141 | Denita Mungro |
@@ -98,8 +98,8 @@
 | 90 | 79 | Hoppy Buildout |
 | 91 | 78 | Fredd Thomas |
 | 92 | 78 | Clever Patterner |
-| 93 | 76 | Tiffany Kaupang |
-| 94 | 76 | Jessica Bechler |
+| 93 | 76 | Jessica Bechler |
+| 94 | 76 | Tiffany Kaupang |
 | 95 | 75 | Janelle Goetz |
 | 96 | 74 | Clever Roll |
 | 97 | 73 | Danielle Becker |

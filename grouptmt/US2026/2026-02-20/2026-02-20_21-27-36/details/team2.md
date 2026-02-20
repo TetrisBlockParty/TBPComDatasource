@@ -192,8 +192,8 @@
 | 184 | 127 | Ellie Jonas |
 | 185 | 127 | Amy Ross |
 | 186 | 126 | Angela Kummer |
-| 187 | 126 | Lisa Ongtowasruk |
-| 188 | 126 | Ethan Stienbarger |
+| 187 | 126 | Ethan Stienbarger |
+| 188 | 126 | Lisa Ongtowasruk |
 | 189 | 124 | Monica Brown |
 | 190 | 123 | Ashlyn Berner |
 | 191 | 122 | Scott Treadway |
@@ -220,7 +220,7 @@
 | 212 | 114 | Dandy Drop |
 | 213 | 113 | Della Hole |
 | 214 | 112 | Slinky Risegrid |
-| 215 | 111 | Ri St |
+| 215 | 111 | Angel |
 | 216 | 111 | Mandi Douglas Hilt |
 | 217 | 111 | Ri St |
 | 218 | 110 | Angelica |
@@ -239,7 +239,7 @@
 | 231 | 105 | Heather Westrum |
 | 232 | 104 | Marcie McLain Dodd |
 | 233 | 104 | Raffaella Dowling |
-| 234 | 104 | Marcie McLain Dodd |
+| 234 | 104 | Kristopher Miller |
 | 235 | 104 | ElizabethAnn Dickinson |
 | 236 | 103 | Chareen Lauritzen |
 | 237 | 103 | Cool Grabber |
