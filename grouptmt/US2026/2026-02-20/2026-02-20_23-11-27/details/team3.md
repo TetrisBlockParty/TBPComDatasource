@@ -99,8 +99,8 @@
 | 91 | 98 | Ashley Tookes |
 | 92 | 98 | Ryan Williams |
 | 93 | 96 | Boldy Corner |
-| 94 | 95 | Demetrious Shaw Sr. |
-| 95 | 95 | Brooke Bauer |
+| 94 | 95 | Brooke Bauer |
+| 95 | 95 | Demetrious Shaw Sr. |
 | 96 | 92 | Skinny Baldez |
 | 97 | 90 | Tiffany Kaupang |
 | 98 | 89 | Annie Déè |
@@ -146,9 +146,9 @@
 | 138 | 68 | Funky Jumper |
 | 139 | 68 | Crystel b520 |
 | 140 | 67 | Rebecca Funderburk Kirby |
-| 141 | 66 | Carina Ortega |
-| 142 | 66 | Valerie Gendron |
-| 143 | 66 | Oliver Neal II |
+| 141 | 66 | Oliver Neal II |
+| 142 | 66 | Carina Ortega |
+| 143 | 66 | Valerie Gendron |
 | 144 | 65 | Kristie McFarland |
 | 145 | 65 | LaKisha Legrone |
 | 146 | 64 | Leticia Lynn Lowe |

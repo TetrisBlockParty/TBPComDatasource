@@ -85,8 +85,8 @@
 | 77 | 331 | MrsCandyfine As Wine Truss |
 | 78 | 328 | Marie Boyd Faulk |
 | 79 | 325 | RdRydnHd |
-| 80 | 323 | Danielle Simmons |
-| 81 | 323 | Daphne Jordan |
+| 80 | 323 | Daphne Jordan |
+| 81 | 323 | Danielle Simmons |
 | 82 | 317 | bru |
 | 83 | 310 | Lisa Ongtowasruk |
 | 84 | 297 | James Zaragoza |
@@ -128,8 +128,8 @@
 | 120 | 238 | Cheech Dta |
 | 121 | 238 | Ann Matzkanin |
 | 122 | 236 | Frisky Riserbuilder |
-| 123 | 231 | Ginger |
-| 124 | 231 | Dylan Thomason |
+| 123 | 231 | Dylan Thomason |
+| 124 | 231 | Ginger |
 | 125 | 230 | Janel Turley-Garner |
 | 126 | 230 | Shameika Trail |
 | 127 | 227 | Alyssia Tancredi |
