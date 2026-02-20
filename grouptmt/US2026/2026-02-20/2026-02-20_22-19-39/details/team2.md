@@ -57,8 +57,8 @@
 | 49 | 390 | Dustin Rains |
 | 50 | 382 | Sparkles |
 | 51 | 380 | Joshua Mandel |
-| 52 | 374 | Sommer Shope |
-| 53 | 374 | Sam |
+| 52 | 374 | Sam |
+| 53 | 374 | Sommer Shope |
 | 54 | 370 | Jose Vega |
 | 55 | 369 | Calandra Shaya Robinson |
 | 56 | 366 | KellyDyan |
@@ -68,8 +68,8 @@
 | 60 | 353 | Charie Holland |
 | 61 | 352 | E_Money04 |
 | 62 | 351 | Giggy Blocker |
-| 63 | 345 | Rhianna DiLorenzo |
-| 64 | 345 | Alyssaaelena |
+| 63 | 345 | Alyssaaelena |
+| 64 | 345 | Rhianna DiLorenzo |
 | 65 | 343 | Jennifer Peachey |
 | 66 | 342 | Tracy Wise |
 | 67 | 337 | Alisha Peoples |
@@ -101,8 +101,8 @@
 | 93 | 255 | Santana Miyagi |
 | 94 | 255 | Lonne Emade |
 | 95 | 254 | Libby Hicks |
-| 96 | 253 | Joseph Musick |
-| 97 | 253 | RdRydnHd |
+| 96 | 253 | RdRydnHd |
+| 97 | 253 | Joseph Musick |
 | 98 | 252 | Alezandra Smith |
 | 99 | 250 | Barbra Miller |
 | 100 | 247 | Fancy Twister |
@@ -164,12 +164,12 @@
 | 156 | 164 | Jamie Stevey |
 | 157 | 163 | Dedra Steward |
 | 158 | 162 | Nick Jensen |
-| 159 | 161 | Mema |
-| 160 | 161 | Priscilla Noel |
+| 159 | 161 | Priscilla Noel |
+| 160 | 161 | Mema |
 | 161 | 160 | Rhonda Petro |
 | 162 | 160 | Cynthia Ward |
-| 163 | 158 | RaeVan Worthington |
-| 164 | 158 | Matthew Turner |
+| 163 | 158 | Matthew Turner |
+| 164 | 158 | RaeVan Worthington |
 | 165 | 158 | Austin Wilson |
 | 166 | 157 | Klee |
 | 167 | 157 | HarleyJane |
@@ -188,8 +188,8 @@
 | 180 | 145 | Cappin You |
 | 181 | 145 | Alexandra Weir |
 | 182 | 145 | Scott Rackley |
-| 183 | 142 | Frisky Clearpiece |
-| 184 | 142 | Angela Lynn |
+| 183 | 142 | Angela Lynn |
+| 184 | 142 | Frisky Clearpiece |
 | 185 | 141 | Markisha Poyndexter |
 | 186 | 140 | Christopher Sanders |
 | 187 | 140 | Peter Palestino |
