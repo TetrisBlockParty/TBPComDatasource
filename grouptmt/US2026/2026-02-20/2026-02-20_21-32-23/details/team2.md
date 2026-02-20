@@ -67,8 +67,8 @@
 | 59 | 342 | Tracy Wise |
 | 60 | 332 | Sarah Freitas |
 | 61 | 328 | Marie Boyd Faulk |
-| 62 | 323 | Daphne Jordan |
-| 63 | 323 | Danielle Simmons |
+| 62 | 323 | Danielle Simmons |
+| 63 | 323 | Daphne Jordan |
 | 64 | 311 | Slip |
 | 65 | 303 | Giggy Blocker |
 | 66 | 296 | Jose Vega |
@@ -86,8 +86,8 @@
 | 78 | 263 | Shiny Rollzone |
 | 79 | 262 | E_Money04 |
 | 80 | 261 | MrsClaudette Will'sIam Matthews |
-| 81 | 259 | Autumn Schaeffer |
-| 82 | 259 | Melissa Holsinger |
+| 81 | 259 | Melissa Holsinger |
+| 82 | 259 | Autumn Schaeffer |
 | 83 | 257 | Alex Hill |
 | 84 | 255 | Santana Miyagi |
 | 85 | 254 | Libby Hicks |
@@ -221,14 +221,14 @@
 | 213 | 114 | James Smith |
 | 214 | 114 | Melissa Maples |
 | 215 | 113 | Della Hole |
-| 216 | 111 | Mandi Douglas Hilt |
-| 217 | 111 | Ri St |
+| 216 | 111 | Ri St |
+| 217 | 111 | Mandi Douglas Hilt |
 | 218 | 111 | Angel |
 | 219 | 110 | Angelica |
 | 220 | 110 | Theresa Ring |
-| 221 | 109 | Jroc |
-| 222 | 109 | BeenRich Theceo |
-| 223 | 109 | Sabrena Yeisley |
+| 221 | 109 | BeenRich Theceo |
+| 222 | 109 | Sabrena Yeisley |
+| 223 | 109 | Jroc |
 | 224 | 108 | Sean Kinsey |
 | 225 | 108 | Starrs Dcct |
 | 226 | 107 | Layla LS |
