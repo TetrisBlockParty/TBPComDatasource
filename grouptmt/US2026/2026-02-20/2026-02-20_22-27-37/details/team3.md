@@ -93,8 +93,8 @@
 | 85 | 98 | Ryan Williams |
 | 86 | 97 | Fredd Thomas |
 | 87 | 96 | Boldy Corner |
-| 88 | 95 | Brooke Bauer |
-| 89 | 95 | Demetrious Shaw Sr. |
+| 88 | 95 | Demetrious Shaw Sr. |
+| 89 | 95 | Brooke Bauer |
 | 90 | 90 | Tiffany Kaupang |
 | 91 | 89 | Hyper Bridger |
 | 92 | 89 | Annie Déè |
