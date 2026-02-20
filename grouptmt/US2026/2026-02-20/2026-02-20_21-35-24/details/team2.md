@@ -52,8 +52,8 @@
 | 44 | 382 | CoolKat |
 | 45 | 380 | Joshua Mandel |
 | 46 | 377 | Eboni Banks |
-| 47 | 374 | Sam |
-| 48 | 374 | Sommer Shope |
+| 47 | 374 | Sommer Shope |
+| 48 | 374 | Sam |
 | 49 | 369 | Calandra Shaya Robinson |
 | 50 | 366 | KellyDyan |
 | 51 | 363 | William Meussner |
@@ -61,8 +61,8 @@
 | 53 | 358 | Thomas Hedrick |
 | 54 | 355 | Tommy Tha Boss Gunz |
 | 55 | 353 | Charie Holland |
-| 56 | 345 | Rhianna DiLorenzo |
-| 57 | 345 | Alyssaaelena |
+| 56 | 345 | Alyssaaelena |
+| 57 | 345 | Rhianna DiLorenzo |
 | 58 | 343 | Jennifer Peachey |
 | 59 | 342 | Tracy Wise |
 | 60 | 332 | Sarah Freitas |
