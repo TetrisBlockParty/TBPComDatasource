@@ -63,8 +63,8 @@
 | 55 | 173 | Crimson |
 | 56 | 170 | Nerdy Riseclear |
 | 57 | 166 | Danielle Mogg |
-| 58 | 152 | Shiny Zonebuilder |
-| 59 | 152 | Shannon Matthew Byers |
+| 58 | 152 | Shannon Matthew Byers |
+| 59 | 152 | Shiny Zonebuilder |
 | 60 | 149 | Fallorina Susana |
 | 61 | 145 | Trisha Balmer |
 | 62 | 141 | Denita Mungro |
@@ -101,8 +101,8 @@
 | 93 | 100 | Bobbi Moore |
 | 94 | 99 | Nichol Graham |
 | 95 | 98 | Ashley Tookes |
-| 96 | 98 | Ryan Williams |
-| 97 | 98 | Jocelyne Baca |
+| 96 | 98 | Jocelyne Baca |
+| 97 | 98 | Ryan Williams |
 | 98 | 96 | Boldy Corner |
 | 99 | 95 | Demetrious Shaw Sr. |
 | 100 | 95 | Brooke Bauer |

@@ -40,8 +40,8 @@
 | 32 | 658 | Vistabrat |
 | 33 | 658 | Dreamy Blast |
 | 34 | 656 | Pacynthia Williams |
-| 35 | 648 | Jill Stroehlein |
-| 36 | 648 | Rob Riggin |
+| 35 | 648 | Rob Riggin |
+| 36 | 648 | Jill Stroehlein |
 | 37 | 615 | Vo'Landa Reels |
 | 38 | 600 | Cool Snapclear |
 | 39 | 567 | Anna Edwards |
@@ -112,8 +112,8 @@
 | 104 | 266 | Joyce Johnson Vaughn |
 | 105 | 265 | Wuntayk |
 | 106 | 264 | Lonne Emade |
-| 107 | 263 | Oscar Bernie |
-| 108 | 263 | Shiny Rollzone |
+| 107 | 263 | Shiny Rollzone |
+| 108 | 263 | Oscar Bernie |
 | 109 | 261 | MrsClaudette Will'sIam Matthews |
 | 110 | 260 | Autumn Schaeffer |
 | 111 | 259 | Melissa Holsinger |
