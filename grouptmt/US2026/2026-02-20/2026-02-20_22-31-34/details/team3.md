@@ -80,12 +80,12 @@
 | 72 | 113 | Jennifer Alvey |
 | 73 | 111 | Joy Petroski |
 | 74 | 110 | Connie Mohler-Fair |
-| 75 | 110 | Tiff Vs Tiffany |
-| 76 | 110 | Stella |
+| 75 | 110 | Stella |
+| 76 | 110 | Tiff Vs Tiffany |
 | 77 | 108 | Grams |
 | 78 | 107 | Bryan Byrd |
-| 79 | 101 | Mykal Burton |
-| 80 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 79 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 80 | 101 | Mykal Burton |
 | 81 | 100 | Fancy Slam |
 | 82 | 100 | Bobbi Moore |
 | 83 | 98 | Jocelyne Baca |
@@ -93,8 +93,8 @@
 | 85 | 98 | Ashley Tookes |
 | 86 | 97 | Fredd Thomas |
 | 87 | 96 | Boldy Corner |
-| 88 | 95 | Brooke Bauer |
-| 89 | 95 | Demetrious Shaw Sr. |
+| 88 | 95 | Demetrious Shaw Sr. |
+| 89 | 95 | Brooke Bauer |
 | 90 | 90 | Tiffany Kaupang |
 | 91 | 89 | Annie Déè |
 | 92 | 89 | Hyper Bridger |
@@ -119,8 +119,8 @@
 | 111 | 79 | Denise Nardoni |
 | 112 | 78 | Clever Patterner |
 | 113 | 78 | Karon Griffin |
-| 114 | 76 | Clever Roll |
-| 115 | 76 | Jessica Bechler |
+| 114 | 76 | Jessica Bechler |
+| 115 | 76 | Clever Roll |
 | 116 | 75 | Janelle Goetz |
 | 117 | 74 | Whitney Manuel |
 | 118 | 72 | FuzzyNavel |
@@ -135,11 +135,11 @@
 | 127 | 69 | Hyper Matchzone |
 | 128 | 68 | Crystel b520 |
 | 129 | 67 | Rebecca Funderburk Kirby |
-| 130 | 66 | Oliver Neal II |
-| 131 | 66 | Valerie Gendron |
+| 130 | 66 | Valerie Gendron |
+| 131 | 66 | Oliver Neal II |
 | 132 | 65 | gremicx |
-| 133 | 64 | Leticia Lynn Lowe |
-| 134 | 64 | Lush Risebuilder |
+| 133 | 64 | Lush Risebuilder |
+| 134 | 64 | Leticia Lynn Lowe |
 | 135 | 63 | Eileen Brady Thurber |
 | 136 | 63 | BugMansMom |
 | 137 | 63 | Hasty Wipebuilder |
