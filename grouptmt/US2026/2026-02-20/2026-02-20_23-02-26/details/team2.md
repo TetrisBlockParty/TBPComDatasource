@@ -75,8 +75,8 @@
 | 67 | 345 | Alyssaaelena |
 | 68 | 343 | Jennifer Peachey |
 | 69 | 342 | Tracy Wise |
-| 70 | 341 | Sarah Freitas |
-| 71 | 341 | Sam McKenzie |
+| 70 | 341 | Sam McKenzie |
+| 71 | 341 | Sarah Freitas |
 | 72 | 337 | Alisha Peoples |
 | 73 | 328 | MrsCandyfine As Wine Truss |
 | 74 | 328 | Marie Boyd Faulk |
@@ -102,8 +102,8 @@
 | 94 | 271 | Ann Marie Davis |
 | 95 | 268 | Vanessa Moreno |
 | 96 | 267 | James Zaragoza |
-| 97 | 266 | Joyce Johnson Vaughn |
-| 98 | 266 | Brenda Messer |
+| 97 | 266 | Brenda Messer |
+| 98 | 266 | Joyce Johnson Vaughn |
 | 99 | 265 | Wuntayk |
 | 100 | 263 | Shiny Rollzone |
 | 101 | 263 | Oscar Bernie |

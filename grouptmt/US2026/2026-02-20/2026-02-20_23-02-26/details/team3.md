@@ -64,8 +64,8 @@
 | 56 | 168 | Amy Fuller Heaton |
 | 57 | 154 | Danielle Mogg |
 | 58 | 152 | Shiny Zonebuilder |
-| 59 | 149 | Fallorina Susana |
-| 60 | 149 | Shannon Matthew Byers |
+| 59 | 149 | Shannon Matthew Byers |
+| 60 | 149 | Fallorina Susana |
 | 61 | 145 | Trisha Balmer |
 | 62 | 141 | Denita Mungro |
 | 63 | 134 | DanceLuvLaugh |

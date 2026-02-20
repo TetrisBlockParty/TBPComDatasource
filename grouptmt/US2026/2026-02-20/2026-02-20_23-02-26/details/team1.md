@@ -127,7 +127,7 @@
 | 119 | 47 | Christy Jones |
 | 120 | 47 | Kellie |
 | 121 | 46 | Robert Benito |
-| 122 | 45 | Vivian Bush |
+| 122 | 45 | Josie Kirt |
 | 123 | 45 | Logan McFarland |
 | 124 | 45 | Vivian Bush |
 | 125 | 44 | Mindy Gloska |
