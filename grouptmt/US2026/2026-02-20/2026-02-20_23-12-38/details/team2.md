@@ -207,8 +207,8 @@
 | 199 | 155 | Amber Shoemaker |
 | 200 | 151 | Dizzy Zone |
 | 201 | 151 | D'Aaron Black |
-| 202 | 150 | Justin Hines |
-| 203 | 150 | Tiffney Wroten |
+| 202 | 150 | Tiffney Wroten |
+| 203 | 150 | Justin Hines |
 | 204 | 149 | Dany Murillo |
 | 205 | 148 | Shannon Byrd |
 | 206 | 148 | Alexandra Weir |
@@ -227,8 +227,8 @@
 | 219 | 139 | Noel Tarmy |
 | 220 | 139 | Alexandra Reese |
 | 221 | 138 | Shorty |
-| 222 | 137 | Jessicah Myers |
-| 223 | 137 | Chummy Blockbuilder |
+| 222 | 137 | Chummy Blockbuilder |
+| 223 | 137 | Jessicah Myers |
 | 224 | 136 | blarg |
 | 225 | 135 | Nancy Reid |
 | 226 | 135 | Michelle Loar |

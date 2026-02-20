@@ -35,9 +35,9 @@
 | 27 | 124 | Jay28 |
 | 28 | 123 | Nugget |
 | 29 | 117 | Lauren Scott |
-| 30 | 116 | Courtney Cicoria |
-| 31 | 116 | Sherri |
-| 32 | 116 | Dee Kay |
+| 30 | 116 | Dee Kay |
+| 31 | 116 | Courtney Cicoria |
+| 32 | 116 | Sherri |
 | 33 | 114 | Jessica Cagle |
 | 34 | 113 | Degenerate |
 | 35 | 112 | Chirpy Basepiece |
