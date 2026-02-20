@@ -273,8 +273,8 @@
 | 265 | 109 | BeenRich Theceo |
 | 266 | 109 | Sabrena Yeisley |
 | 267 | 108 | Sean Kinsey |
-| 268 | 107 | Sandy Aragon |
-| 269 | 107 | Funky Riseclear |
+| 268 | 107 | Funky Riseclear |
+| 269 | 107 | Sandy Aragon |
 | 270 | 107 | Layla LS |
 | 271 | 106 | Cassie Newton |
 | 272 | 106 | Brave Gridpiece |
@@ -376,7 +376,7 @@
 | 368 | 83 | Brenda Messer |
 | 369 | 83 | Tee Davis |
 | 370 | 82 | Jumpy Gridclear |
-| 371 | 81 | ItsJennifer Neriss |
+| 371 | 81 | Kathryn Townsley |
 | 372 | 81 | Hannah Johnson |
 | 373 | 81 | Katelyn Fitzsimmons |
 | 374 | 81 | Amanda Perez |

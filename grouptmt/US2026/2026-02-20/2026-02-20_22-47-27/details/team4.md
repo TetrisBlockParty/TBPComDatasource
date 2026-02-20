@@ -41,9 +41,9 @@
 | 33 | 109 | Brittney Orengo |
 | 34 | 108 | Mr. Party |
 | 35 | 107 | Denise Carlson |
-| 36 | 100 | Diana Houts |
-| 37 | 100 | Andria Lynn |
-| 38 | 100 | Michelle Morris |
+| 36 | 100 | Andria Lynn |
+| 37 | 100 | Michelle Morris |
+| 38 | 100 | Diana Houts |
 | 39 | 95 | Stephme310 |
 | 40 | 91 | Gwendolyn Pitcairn |
 | 41 | 90 | Duck |
