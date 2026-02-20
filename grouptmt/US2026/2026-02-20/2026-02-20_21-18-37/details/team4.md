@@ -83,8 +83,8 @@
 | 75 | 52 | Zany Twisterfit |
 | 76 | 51 | Chaz Duncan |
 | 77 | 51 | Bryan Hodgins |
-| 78 | 50 | Sherri |
-| 79 | 50 | Richard-April Kice |
+| 78 | 50 | Richard-April Kice |
+| 79 | 50 | Sherri |
 | 80 | 49 | Lakesha Johnson |
 | 81 | 47 | Jennifer Perkins |
 | 82 | 46 | Natalie;) |

@@ -72,8 +72,8 @@
 | 64 | 71 | Teddy Alexander |
 | 65 | 69 | Christina Torres |
 | 66 | 67 | Loony Fitzone |
-| 67 | 66 | Archie Ware |
-| 68 | 66 | Giggly Builderline |
+| 67 | 66 | Giggly Builderline |
+| 68 | 66 | Archie Ware |
 | 69 | 66 | Todd Welch |
 | 70 | 64 | Jessi Sauer |
 | 71 | 63 | Mitchel White |
