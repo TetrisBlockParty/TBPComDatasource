@@ -73,8 +73,8 @@
 | 65 | 353 | Charie Holland |
 | 66 | 351 | Giggy Blocker |
 | 67 | 346 | Gene Mills |
-| 68 | 345 | Alyssaaelena |
-| 69 | 345 | Rhianna DiLorenzo |
+| 68 | 345 | Rhianna DiLorenzo |
+| 69 | 345 | Alyssaaelena |
 | 70 | 343 | Jennifer Peachey |
 | 71 | 342 | Tracy Wise |
 | 72 | 341 | Sam McKenzie |
@@ -424,8 +424,8 @@
 | 416 | 78 | Allison Travis |
 | 417 | 78 | King Shamell Young |
 | 418 | 78 | Anita Ortiz |
-| 419 | 78 | Megan Ferguson Leone |
-| 420 | 78 | Jane Crew |
+| 419 | 78 | Jane Crew |
+| 420 | 78 | Megan Ferguson Leone |
 | 421 | 77 | Tina Wright-Quigley |
 | 422 | 77 | Amanda Jean Gray |
 | 423 | 77 | Patrick Fleming |
