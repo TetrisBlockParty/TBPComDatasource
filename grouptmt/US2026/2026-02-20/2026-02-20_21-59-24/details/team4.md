@@ -42,8 +42,8 @@
 | 34 | 107 | Denise Carlson |
 | 35 | 103 | Degenerate |
 | 36 | 100 | Diana Houts |
-| 37 | 95 | Michelle Morris |
-| 38 | 95 | Stephme310 |
+| 37 | 95 | Stephme310 |
+| 38 | 95 | Michelle Morris |
 | 39 | 91 | Andria Lynn |
 | 40 | 90 | Duck |
 | 41 | 89 | Gwendolyn Pitcairn |
