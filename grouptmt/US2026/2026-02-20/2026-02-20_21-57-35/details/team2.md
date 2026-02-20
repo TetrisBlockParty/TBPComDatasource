@@ -134,8 +134,8 @@
 | 126 | 197 | Smashanator |
 | 127 | 197 | James Zaragoza |
 | 128 | 196 | Gary Stash |
-| 129 | 194 | Shameika Trail |
-| 130 | 194 | Tammy Allen |
+| 129 | 194 | Tammy Allen |
+| 130 | 194 | Shameika Trail |
 | 131 | 190 | Mari Ac |
 | 132 | 189 | Sanaa Nounoussa |
 | 133 | 184 | Lindsey Leigh |

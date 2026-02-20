@@ -52,8 +52,8 @@
 | 44 | 98 | Flashy Rotator |
 | 45 | 95 | Jennifer Cates |
 | 46 | 94 | Bindi |
-| 47 | 93 | Ty Brown |
-| 48 | 93 | Uhog SF |
+| 47 | 93 | Uhog SF |
+| 48 | 93 | Ty Brown |
 | 49 | 91 | Spunky Piecebuilder |
 | 50 | 90 | Madison Wicks |
 | 51 | 90 | comrade fish |
@@ -72,8 +72,8 @@
 | 64 | 75 | Tyler L Hunt |
 | 65 | 75 | Bob |
 | 66 | 73 | Ly Phethmany |
-| 67 | 72 | Tipsy Strikerpiece |
-| 68 | 72 | Adryane Schnase |
+| 67 | 72 | Adryane Schnase |
+| 68 | 72 | Tipsy Strikerpiece |
 | 69 | 71 | Teddy Alexander |
 | 70 | 69 | Christina Torres |
 | 71 | 67 | Loony Fitzone |

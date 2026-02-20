@@ -42,8 +42,8 @@
 | 34 | 107 | Denise Carlson |
 | 35 | 103 | Degenerate |
 | 36 | 100 | Diana Houts |
-| 37 | 95 | Stephme310 |
-| 38 | 95 | Michelle Morris |
+| 37 | 95 | Michelle Morris |
+| 38 | 95 | Stephme310 |
 | 39 | 91 | Andria Lynn |
 | 40 | 90 | Duck |
 | 41 | 89 | Gwendolyn Pitcairn |
@@ -61,10 +61,10 @@
 | 53 | 72 | Kesha Brady |
 | 54 | 71 | Kim Hunt |
 | 55 | 70 | Joshua Cuellar |
-| 56 | 70 | Valerie Roberts |
-| 57 | 70 | Christina Black |
-| 58 | 68 | Sam Middleton |
-| 59 | 68 | Alyssa Papen |
+| 56 | 70 | Christina Black |
+| 57 | 70 | Valerie Roberts |
+| 58 | 68 | Alyssa Papen |
+| 59 | 68 | Sam Middleton |
 | 60 | 68 | LS |
 | 61 | 67 | Zesty Twistbuilder |
 | 62 | 67 | Kristin MacDonald |
