@@ -265,8 +265,8 @@
 | 257 | 107 | Layla LS |
 | 258 | 107 | Funky Riseclear |
 | 259 | 106 | Denise Rickman |
-| 260 | 106 | Cassie Newton |
-| 261 | 106 | Brave Gridpiece |
+| 260 | 106 | Brave Gridpiece |
+| 261 | 106 | Cassie Newton |
 | 262 | 105 | Heather Westrum |
 | 263 | 105 | Amber Shoemaker |
 | 264 | 104 | Raffaella Dowling |

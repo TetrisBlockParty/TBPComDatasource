@@ -68,7 +68,7 @@
 | 60 | 70 | Joshua Cuellar |
 | 61 | 68 | LS |
 | 62 | 68 | Alyssa Papen |
-| 63 | 68 | LS |
+| 63 | 68 | Sam Middleton |
 | 64 | 67 | Zesty Twistbuilder |
 | 65 | 65 | YoMomma |
 | 66 | 65 | Angela Geist Jusinski |

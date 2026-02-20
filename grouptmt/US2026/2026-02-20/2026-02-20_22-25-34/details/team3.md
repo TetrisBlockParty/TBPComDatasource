@@ -40,8 +40,8 @@
 | 32 | 307 | Kristie |
 | 33 | 307 | Peggi Charon |
 | 34 | 300 | Sherika C. McDaniels |
-| 35 | 291 | Tasha Schriewer |
-| 36 | 291 | Laura Melton |
+| 35 | 291 | Laura Melton |
+| 36 | 291 | Tasha Schriewer |
 | 37 | 272 | Mahman |
 | 38 | 240 | Ebony West-Cundiff |
 | 39 | 239 | Lush Buildout |
@@ -71,17 +71,17 @@
 | 63 | 127 | Dolores Falco |
 | 64 | 126 | ren |
 | 65 | 125 | Stephanie Simpson |
-| 66 | 122 | Jennifer Willis |
-| 67 | 122 | Emma |
-| 68 | 120 | Zippy Strikesnap |
-| 69 | 120 | Michael Latasha Gray |
+| 66 | 122 | Emma |
+| 67 | 122 | Jennifer Willis |
+| 68 | 120 | Michael Latasha Gray |
+| 69 | 120 | Zippy Strikesnap |
 | 70 | 118 | Bea Miles |
 | 71 | 117 | Jessica |
 | 72 | 113 | Jennifer Alvey |
 | 73 | 111 | Joy Petroski |
-| 74 | 110 | Connie Mohler-Fair |
-| 75 | 110 | Stella |
-| 76 | 110 | Tiff Vs Tiffany |
+| 74 | 110 | Stella |
+| 75 | 110 | Tiff Vs Tiffany |
+| 76 | 110 | Connie Mohler-Fair |
 | 77 | 108 | Grams |
 | 78 | 107 | Bryan Byrd |
 | 79 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -102,8 +102,8 @@
 | 94 | 87 | Sherry Ogden |
 | 95 | 86 | Dan Rob |
 | 96 | 85 | Delilah belle |
-| 97 | 84 | Skinny Baldez |
-| 98 | 84 | Eon Harris |
+| 97 | 84 | Eon Harris |
+| 98 | 84 | Skinny Baldez |
 | 99 | 83 | Nichol Graham |
 | 100 | 82 | Donna |
 | 101 | 82 | Clever Clearbuilder |
