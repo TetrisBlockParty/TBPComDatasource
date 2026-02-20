@@ -118,8 +118,8 @@
 | 110 | 56 | Lis |
 | 111 | 55 | Yvonne Marie |
 | 112 | 55 | Sweet Baker |
-| 113 | 54 | Bhelle Sumile |
-| 114 | 54 | Speedy Snapfall |
+| 113 | 54 | Speedy Snapfall |
+| 114 | 54 | Bhelle Sumile |
 | 115 | 54 | Ariel Whittington |
 | 116 | 53 | J.D3D.D |
 | 117 | 53 | Virginia Gray Floyd |

@@ -85,8 +85,8 @@
 | 77 | 350 | Chris Harr |
 | 78 | 346 | Gene Mills |
 | 79 | 345 | Brenda Messer |
-| 80 | 345 | Rhianna DiLorenzo |
-| 81 | 345 | Alyssaaelena |
+| 80 | 345 | Alyssaaelena |
+| 81 | 345 | Rhianna DiLorenzo |
 | 82 | 342 | Tracy Wise |
 | 83 | 341 | Sarah Freitas |
 | 84 | 341 | Sam McKenzie |
@@ -115,8 +115,8 @@
 | 107 | 268 | Vanessa Moreno |
 | 108 | 266 | Mighty Shatterfit |
 | 109 | 266 | Joyce Johnson Vaughn |
-| 110 | 265 | Joseph Musick |
-| 111 | 265 | Wuntayk |
+| 110 | 265 | Wuntayk |
+| 111 | 265 | Joseph Musick |
 | 112 | 264 | Lonne Emade |
 | 113 | 263 | Shiny Rollzone |
 | 114 | 263 | Taylor Flowers |

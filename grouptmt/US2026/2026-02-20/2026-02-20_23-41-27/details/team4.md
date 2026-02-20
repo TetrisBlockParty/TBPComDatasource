@@ -87,10 +87,10 @@
 | 79 | 65 | Angela Geist Jusinski |
 | 80 | 64 | Damn Libra |
 | 81 | 64 | Marcus Todd |
-| 82 | 61 | Alee Marie |
-| 83 | 61 | Shauna Havard |
-| 84 | 60 | Ahleek Mitchell |
-| 85 | 60 | Dustee Craddock-Harrison |
+| 82 | 61 | Shauna Havard |
+| 83 | 61 | Alee Marie |
+| 84 | 60 | Dustee Craddock-Harrison |
+| 85 | 60 | Ahleek Mitchell |
 | 86 | 59 | Joseph Pace |
 | 87 | 57 | Justin Hannigan |
 | 88 | 56 | Stephanie Jones |
