@@ -66,8 +66,8 @@
 | 58 | 120 | Michael Latasha Gray |
 | 59 | 120 | Zippy Strikesnap |
 | 60 | 119 | Emma |
-| 61 | 118 | Bea Miles |
-| 62 | 118 | Trezure Gonzalez |
+| 61 | 118 | Trezure Gonzalez |
+| 62 | 118 | Bea Miles |
 | 63 | 117 | Jessica |
 | 64 | 113 | Jennifer Alvey |
 | 65 | 112 | MissTaylor |
@@ -84,16 +84,16 @@
 | 76 | 98 | Ashley Tookes |
 | 77 | 97 | Fredd Thomas |
 | 78 | 96 | Boldy Corner |
-| 79 | 95 | Brooke Bauer |
-| 80 | 95 | Demetrious Shaw Sr. |
-| 81 | 89 | Annie Déè |
-| 82 | 89 | Hyper Bridger |
+| 79 | 95 | Demetrious Shaw Sr. |
+| 80 | 95 | Brooke Bauer |
+| 81 | 89 | Hyper Bridger |
+| 82 | 89 | Annie Déè |
 | 83 | 88 | Martin Bernier |
 | 84 | 87 | Ryan Williams |
 | 85 | 87 | Sherry Ogden |
 | 86 | 85 | Delilah belle |
-| 87 | 84 | Skinny Baldez |
-| 88 | 84 | Eon Harris |
+| 87 | 84 | Eon Harris |
+| 88 | 84 | Skinny Baldez |
 | 89 | 83 | Nichol Graham |
 | 90 | 82 | Clever Clearbuilder |
 | 91 | 82 | Donna |
