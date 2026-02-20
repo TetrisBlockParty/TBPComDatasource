@@ -107,8 +107,8 @@
 | 99 | 284 | Brittney Jean |
 | 100 | 283 | Poppy Snap |
 | 101 | 281 | Robert Diddle |
-| 102 | 280 | Christina Lewis-Vickers |
-| 103 | 280 | Kimberly Schall |
+| 102 | 280 | Kimberly Schall |
+| 103 | 280 | Christina Lewis-Vickers |
 | 104 | 274 | Melissa Holsinger |
 | 105 | 273 | Venechia Berry |
 | 106 | 271 | Ann Marie Davis |
@@ -135,8 +135,8 @@
 | 127 | 243 | Brandy Andre |
 | 128 | 241 | Sabrina Burton |
 | 129 | 239 | Tee Jaleesa |
-| 130 | 238 | Cheech Dta |
-| 131 | 238 | Ann Matzkanin |
+| 130 | 238 | Ann Matzkanin |
+| 131 | 238 | Cheech Dta |
 | 132 | 238 | Dany Murillo |
 | 133 | 236 | Frisky Riserbuilder |
 | 134 | 234 | Steven Marshaun |

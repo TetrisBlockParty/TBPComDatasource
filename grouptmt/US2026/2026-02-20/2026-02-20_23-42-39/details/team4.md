@@ -45,10 +45,10 @@
 | 37 | 114 | Jessica Cagle |
 | 38 | 113 | Degenerate |
 | 39 | 112 | Chirpy Basepiece |
-| 40 | 111 | Denise Carlson |
-| 41 | 111 | Gwendolyn Pitcairn |
-| 42 | 109 | Epic Curvetile |
-| 43 | 109 | Brittney Orengo |
+| 40 | 111 | Gwendolyn Pitcairn |
+| 41 | 111 | Denise Carlson |
+| 42 | 109 | Brittney Orengo |
+| 43 | 109 | Epic Curvetile |
 | 44 | 108 | Mr. Party |
 | 45 | 102 | Johnathan Martinez |
 | 46 | 100 | Michelle Morris |

@@ -56,8 +56,8 @@
 | 48 | 207 | rnr junky |
 | 49 | 206 | MissTaylor |
 | 50 | 203 | Crimson |
-| 51 | 193 | Clever Shiftsnap |
-| 52 | 193 | Shunta Jacobs |
+| 51 | 193 | Shunta Jacobs |
+| 52 | 193 | Clever Shiftsnap |
 | 53 | 192 | Jennifer Willis |
 | 54 | 187 | Speedy Bridger |
 | 55 | 185 | Shari Garber |
