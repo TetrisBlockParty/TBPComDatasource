@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3315 | Cassie Donica |
@@ -81,8 +81,8 @@
 | 73 | 672 | Wendy Harder Gage |
 | 74 | 665 | Dineisha Carpenter |
 | 75 | 658 | Pacynthia Williams |
-| 76 | 658 | Vistabrat |
-| 77 | 658 | Dreamy Blast |
+| 76 | 658 | Dreamy Blast |
+| 77 | 658 | Vistabrat |
 | 78 | 649 | Stephanie Chapman |
 | 79 | 649 | Anna Edwards |
 | 80 | 633 | Becky Weeks-Garry |
@@ -131,8 +131,8 @@
 | 123 | 455 | Alicia Parrish |
 | 124 | 453 | Osun Anuket Esu |
 | 125 | 450 | Giggy Blocker |
-| 126 | 448 | Jojo Momma |
-| 127 | 448 | Nick Jensen |
+| 126 | 448 | Nick Jensen |
+| 127 | 448 | Jojo Momma |
 | 128 | 447 | Butta |
 | 129 | 442 | Daphne Jordan |
 | 130 | 440 | BYM4L |
@@ -236,8 +236,8 @@
 | 228 | 263 | August Hale |
 | 229 | 262 | Taren Cowan |
 | 230 | 261 | Leah |
-| 231 | 261 | MrsClaudette Will'sIam Matthews |
-| 232 | 261 | Ann Matzkanin |
+| 231 | 261 | Ann Matzkanin |
+| 232 | 261 | MrsClaudette Will'sIam Matthews |
 | 233 | 260 | Dapper Dasher |
 | 234 | 257 | Shameika Trail |
 | 235 | 257 | Lyndi Robinson Wakefield |
@@ -255,8 +255,8 @@
 | 247 | 248 | Leah Keesling |
 | 248 | 248 | Bubbly Snapfit |
 | 249 | 248 | Chummy Blockbuilder |
-| 250 | 247 | Andrea Devery Beck |
-| 251 | 247 | Fancy Twister |
+| 250 | 247 | Fancy Twister |
+| 251 | 247 | Andrea Devery Beck |
 | 252 | 246 | Ashley Lopez |
 | 253 | 245 | Rachael Senard |
 | 254 | 245 | Mischelle Clay |
@@ -306,8 +306,8 @@
 | 298 | 205 | Lylymom |
 | 299 | 204 | Ali Gralski |
 | 300 | 204 | Rebecca Doughman |
-| 301 | 203 | Gary Stash |
-| 302 | 203 | coleksquad |
+| 301 | 203 | coleksquad |
+| 302 | 203 | Gary Stash |
 | 303 | 202 | Christina Ashley |
 | 304 | 201 | Zombi3 |
 | 305 | 201 | Peppy Snapfall |
@@ -370,8 +370,8 @@
 | 362 | 169 | Eddie Perez |
 | 363 | 169 | Lively Catcher |
 | 364 | 169 | Fi Ne |
-| 365 | 168 | Seth Wrieden |
-| 366 | 168 | Kati Russeau |
+| 365 | 168 | Kati Russeau |
+| 366 | 168 | Seth Wrieden |
 | 367 | 168 | Robin |
 | 368 | 167 | Wacky Cascade |
 | 369 | 167 | Sabrena Yeisley |

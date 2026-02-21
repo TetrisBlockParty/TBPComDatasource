@@ -110,20 +110,20 @@
 | 102 | 172 | Ryan Williams |
 | 103 | 166 | Danielle Mogg |
 | 104 | 164 | rosy |
-| 105 | 159 | Jone |
-| 106 | 159 | Morgan Martinez |
+| 105 | 159 | Morgan Martinez |
+| 106 | 159 | Jone |
 | 107 | 158 | Grams |
 | 108 | 156 | Joey Banks |
-| 109 | 155 | BŘŰŤİÇŨŚ |
-| 110 | 155 | Shannon Matthew Byers |
+| 109 | 155 | Shannon Matthew Byers |
+| 110 | 155 | BŘŰŤİÇŨŚ |
 | 111 | 154 | Angela M. Fletcher |
 | 112 | 153 | Beth Ingham |
 | 113 | 152 | Shiny Zonebuilder |
 | 114 | 151 | Justin Ritter |
 | 115 | 149 | Trisha Balmer |
 | 116 | 149 | Bea Miles |
-| 117 | 146 | Denita Mungro |
-| 118 | 146 | Latoya Mayne |
+| 117 | 146 | Latoya Mayne |
+| 118 | 146 | Denita Mungro |
 | 119 | 140 | Jay Horn |
 | 120 | 138 | Gumbo |
 | 121 | 135 | Nicole Flippo |
@@ -157,7 +157,7 @@
 | 149 | 115 | Sarajane Lokan |
 | 150 | 114 | Nicholas Roddy |
 | 151 | 114 | Louise Stacy Sisson |
-| 152 | 114 | Nicholas Roddy |
+| 152 | 114 | Jessica Bechler |
 | 153 | 113 | Valerie Gendron |
 | 154 | 110 | Elissa S-k |
 | 155 | 110 | Tiff Vs Tiffany |

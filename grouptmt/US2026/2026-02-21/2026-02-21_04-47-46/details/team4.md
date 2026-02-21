@@ -23,8 +23,8 @@
 | 15 | 411 | Valerie Roberts |
 | 16 | 402 | Samantha Peterson |
 | 17 | 390 | Alicia Bass |
-| 18 | 383 | Carmethia Clemons Haslerig |
-| 19 | 383 | Johnathan Martinez |
+| 18 | 383 | Johnathan Martinez |
+| 19 | 383 | Carmethia Clemons Haslerig |
 | 20 | 348 | Rodney McMath Jr. |
 | 21 | 345 | Ancient Intuition |
 | 22 | 339 | LisaJo Picken Buchanan |
@@ -195,8 +195,8 @@
 | 187 | 61 | Alee Marie |
 | 188 | 61 | Jackson Karen |
 | 189 | 60 | Ahleek Mitchell |
-| 190 | 59 | Chastity Mitchell |
-| 191 | 59 | Jasmine S Caldwell |
+| 190 | 59 | Jasmine S Caldwell |
+| 191 | 59 | Chastity Mitchell |
 | 192 | 58 | Breannah Grafe |
 | 193 | 58 | Autumn Kumzi |
 | 194 | 57 | Raegan Lane-Ross |
