@@ -44,8 +44,8 @@
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
 | 38 | 215 | Felicia Lewis |
-| 39 | 212 | Tdub |
-| 40 | 212 | Jaimie Lynn |
+| 39 | 212 | Jaimie Lynn |
+| 40 | 212 | Tdub |
 | 41 | 211 | Deanna L Hermanson |
 | 42 | 208 | Carrie Beck Geartz |
 | 43 | 206 | Elaine Elaine |

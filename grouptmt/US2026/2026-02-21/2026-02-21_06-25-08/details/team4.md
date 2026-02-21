@@ -80,19 +80,19 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Chirpy Basepiece |
-| 76 | 134 | Jessica Bohlken |
+| 75 | 134 | Jessica Bohlken |
+| 76 | 134 | Chirpy Basepiece |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Jenna McGeorge |
 | 79 | 132 | Degenerate |
 | 80 | 132 | Melissa Priest Sellers |
 | 81 | 131 | Zany Twisterfit |
 | 82 | 131 | Mr. Party |
-| 83 | 131 | Zany Twisterfit |
+| 83 | 131 | Dana Scott |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | John Brunetti |
-| 87 | 129 | Landon Keith Graffeo |
+| 86 | 129 | Landon Keith Graffeo |
+| 87 | 129 | John Brunetti |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Nugget |

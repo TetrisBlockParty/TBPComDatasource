@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Suzieq |
-| 32 | 587 | Danielle Becker |
+| 31 | 587 | Danielle Becker |
+| 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
 | 34 | 546 | Dolores Falco |
 | 35 | 546 | Snappy Glidepiece |
@@ -153,8 +153,8 @@
 | 145 | 134 | Emma |
 | 146 | 134 | DanceLuvLaugh |
 | 147 | 131 | Jl |
-| 148 | 127 | Aerian Preston |
-| 149 | 127 | Marquita Sheard |
+| 148 | 127 | Marquita Sheard |
+| 149 | 127 | Aerian Preston |
 | 150 | 126 | Dan Rob |
 | 151 | 126 | Stephanie Burtin |
 | 152 | 125 | CeceGeGe |
