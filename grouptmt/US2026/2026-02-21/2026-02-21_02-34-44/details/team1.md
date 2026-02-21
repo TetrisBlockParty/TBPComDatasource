@@ -97,12 +97,12 @@
 | 89 | 96 | Melissa Lemmon |
 | 90 | 96 | Nery Martinez |
 | 91 | 94 | Bindi |
-| 92 | 93 | Adryane Schnase |
-| 93 | 93 | Loony Fitzone |
+| 92 | 93 | Loony Fitzone |
+| 93 | 93 | Adryane Schnase |
 | 94 | 91 | Spunky Piecebuilder |
 | 95 | 90 | Madison Wicks |
-| 96 | 87 | Jessi Sauer |
-| 97 | 87 | TSwag |
+| 96 | 87 | TSwag |
+| 97 | 87 | Jessi Sauer |
 | 98 | 85 | Steve Schneider |
 | 99 | 84 | Charla Pross-Fugleberg |
 | 100 | 84 | Yvonne Marie |
@@ -121,16 +121,16 @@
 | 113 | 77 | Teddy Alexander |
 | 114 | 76 | Kerry Lee Powell |
 | 115 | 76 | Archie Ware |
-| 116 | 75 | Fresno Beotoni |
-| 117 | 75 | Tyler L Hunt |
+| 116 | 75 | Tyler L Hunt |
+| 117 | 75 | Fresno Beotoni |
 | 118 | 74 | Grace Joanne Agnant |
 | 119 | 74 | Eddie Dillon |
 | 120 | 73 | Witty Builderfit |
 | 121 | 72 | Tipsy Strikerpiece |
 | 122 | 71 | John Kim |
 | 123 | 70 | Daring Fitclear |
-| 124 | 69 | Christina Torres |
-| 125 | 69 | Tipsy Riseclear |
+| 124 | 69 | Tipsy Riseclear |
+| 125 | 69 | Christina Torres |
 | 126 | 68 | Blaire Bruckoff |
 | 127 | 66 | Melissa Bires Hussar |
 | 128 | 65 | OneCrazyGator |

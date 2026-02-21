@@ -40,8 +40,8 @@
 | 32 | 185 | loulou |
 | 33 | 174 | Jamie Mann-Deichmann |
 | 34 | 171 | Rachel Anne |
-| 35 | 170 | Leah Kutz Zirbel |
-| 36 | 170 | Girl |
+| 35 | 170 | Girl |
+| 36 | 170 | Leah Kutz Zirbel |
 | 37 | 169 | Kimyatta Cavin |
 | 38 | 168 | Anthony Magaraci |
 | 39 | 153 | Lucille Truesdale |
@@ -51,8 +51,8 @@
 | 43 | 140 | Shannon Ferrari |
 | 44 | 140 | Carter Jones |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Jessica Bohlken |
-| 47 | 133 | Robin Watters |
+| 46 | 133 | Robin Watters |
+| 47 | 133 | Jessica Bohlken |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
@@ -73,7 +73,7 @@
 | 65 | 111 | Gwendolyn Pitcairn |
 | 66 | 110 | John Brunetti |
 | 67 | 110 | Diana Houts |
-| 68 | 110 | John Brunetti |
+| 68 | 110 | H.R. Block |
 | 69 | 109 | Bryan Hodgins |
 | 70 | 107 | Marcus Todd |
 | 71 | 103 | Sam Middleton |

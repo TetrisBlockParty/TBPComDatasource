@@ -174,8 +174,8 @@
 | 166 | 84 | Amanda L Baker |
 | 167 | 83 | LaTanya GeminiondaRise Johnson |
 | 168 | 83 | Tasha Wesson-Torrence |
-| 169 | 82 | Crystel b520 |
-| 170 | 82 | Clever Clearbuilder |
+| 169 | 82 | Clever Clearbuilder |
+| 170 | 82 | Crystel b520 |
 | 171 | 81 | Tina Baurdau |
 | 172 | 80 | Cheeky Match |
 | 173 | 80 | Vixen Queen |
