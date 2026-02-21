@@ -89,12 +89,12 @@
 | 81 | 135 | Latoya Mayne |
 | 82 | 134 | DanceLuvLaugh |
 | 83 | 131 | Emma |
-| 84 | 129 | Giddy Twistbuilder |
-| 85 | 129 | Ashley Tookes |
+| 84 | 129 | Ashley Tookes |
+| 85 | 129 | Giddy Twistbuilder |
 | 86 | 128 | Angel Mendez |
 | 87 | 127 | mjl574 |
-| 88 | 125 | Stephanie Simpson |
-| 89 | 125 | Felicia Doxey |
+| 88 | 125 | Felicia Doxey |
+| 89 | 125 | Stephanie Simpson |
 | 90 | 124 | Marquita Sheard |
 | 91 | 122 | Aerian Preston |
 | 92 | 120 | Calista Jo Dickson |

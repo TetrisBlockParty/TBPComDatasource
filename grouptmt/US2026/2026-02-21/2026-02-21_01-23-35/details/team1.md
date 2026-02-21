@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Kathi Snustad |
-| 18 | 281 | Nancy Green |
+| 17 | 281 | Nancy Green |
+| 18 | 281 | Kathi Snustad |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |
@@ -56,8 +56,8 @@
 | 48 | 143 | Veronica Eve |
 | 49 | 141 | Susanna Guerry |
 | 50 | 133 | Brandi Huntington |
-| 51 | 126 | Marianne Louise West |
-| 52 | 126 | Cece Ibarra |
+| 51 | 126 | Cece Ibarra |
+| 52 | 126 | Marianne Louise West |
 | 53 | 125 | Rico Rico |
 | 54 | 120 | BigWeenie69 |
 | 55 | 120 | Giggly Builderline |
