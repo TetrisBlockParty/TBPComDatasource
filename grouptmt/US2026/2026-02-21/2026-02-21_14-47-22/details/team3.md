@@ -296,8 +296,8 @@
 | 288 | 98 | Armi |
 | 289 | 98 | Shicken Nuggit |
 | 290 | 97 | Paula Little |
-| 291 | 96 | D3NO |
-| 292 | 96 | Christopher Woost |
+| 291 | 96 | Christopher Woost |
+| 292 | 96 | D3NO |
 | 293 | 95 | Brooke Bauer |
 | 294 | 95 | FATTY |
 | 295 | 94 | Tracey Cox |

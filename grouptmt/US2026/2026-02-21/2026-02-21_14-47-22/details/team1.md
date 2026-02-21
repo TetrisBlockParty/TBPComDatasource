@@ -210,8 +210,8 @@
 | 202 | 88 | MommaKFC |
 | 203 | 88 | Sam Williams |
 | 204 | 88 | Larry Tilton |
-| 205 | 87 | Jenny Gingrich Fuentes |
-| 206 | 87 | Jessi Sauer |
+| 205 | 87 | Jessi Sauer |
+| 206 | 87 | Jenny Gingrich Fuentes |
 | 207 | 86 | Basment Living |
 | 208 | 85 | John Barron |
 | 209 | 84 | Speedy Snapfall |

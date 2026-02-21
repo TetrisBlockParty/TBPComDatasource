@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -74,8 +74,8 @@
 | 66 | 1013 | Sarah Freitas |
 | 67 | 983 | Samantha Roberts |
 | 68 | 975 | Alisha Peoples |
-| 69 | 973 | Kim Dean |
-| 70 | 973 | Zappy Cascade |
+| 69 | 973 | Zappy Cascade |
+| 70 | 973 | Kim Dean |
 | 71 | 962 | Janel Turley-Garner |
 | 72 | 946 | Carrie Trigg |
 | 73 | 928 | Howard Forest |
@@ -359,8 +359,8 @@
 | 351 | 279 | Glitzy Stackzone |
 | 352 | 278 | Deana |
 | 353 | 278 | Noel Tarmy |
-| 354 | 278 | Peachy Blockbuilder |
-| 355 | 278 | Demeka Dangerous-kisses Johnson |
+| 354 | 278 | Demeka Dangerous-kisses Johnson |
+| 355 | 278 | Peachy Blockbuilder |
 | 356 | 276 | Lindsey Leigh |
 | 357 | 276 | Vonceial Boone |
 | 358 | 275 | Cheeky Brickmatch |
