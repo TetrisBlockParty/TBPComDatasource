@@ -295,8 +295,8 @@
 | 287 | 215 | Jordan Petro |
 | 288 | 212 | Aleasha M Brown |
 | 289 | 212 | Amanda Canterbury |
-| 290 | 208 | Mema |
-| 291 | 208 | Smashanator |
+| 290 | 208 | Smashanator |
+| 291 | 208 | Mema |
 | 292 | 207 | Melissa McCall |
 | 293 | 206 | Denise Rickman |
 | 294 | 206 | RAEPR05 |
@@ -583,8 +583,8 @@
 | 575 | 110 | Cranky Pattern |
 | 576 | 110 | Theresa Ring |
 | 577 | 110 | Manny Trindade |
-| 578 | 110 | Sarah Dean |
-| 579 | 110 | Britni Deas |
+| 578 | 110 | Britni Deas |
+| 579 | 110 | Sarah Dean |
 | 580 | 109 | Scott |
 | 581 | 109 | Brittany Sizemore |
 | 582 | 109 | Raffaella Dowling |
