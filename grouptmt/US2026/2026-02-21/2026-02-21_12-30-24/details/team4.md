@@ -30,8 +30,8 @@
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
 | 24 | 494 | Rodney McMath Jr. |
-| 25 | 486 | LisaJo Picken Buchanan |
-| 26 | 486 | Anthony Magaraci |
+| 25 | 486 | Anthony Magaraci |
+| 26 | 486 | LisaJo Picken Buchanan |
 | 27 | 469 | Carmethia Clemons Haslerig |
 | 28 | 465 | Dawn Alexander |
 | 29 | 449 | Shelly Chandler |
@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -117,8 +117,8 @@
 | 109 | 132 | Jenna McGeorge |
 | 110 | 132 | Degenerate |
 | 111 | 131 | Mr. Party |
-| 112 | 130 | Casey Jeffcoat |
-| 113 | 130 | Lucas J Sutton |
+| 112 | 130 | Lucas J Sutton |
+| 113 | 130 | Casey Jeffcoat |
 | 114 | 129 | Landon Keith Graffeo |
 | 115 | 129 | John Brunetti |
 | 116 | 128 | Rio Rocha |
@@ -137,8 +137,8 @@
 | 129 | 118 | Leslie Nicole |
 | 130 | 116 | Stephme310 |
 | 131 | 116 | Diana Houts |
-| 132 | 115 | Jayk |
-| 133 | 115 | Ultramarine |
+| 132 | 115 | Ultramarine |
+| 133 | 115 | Jayk |
 | 134 | 113 | Andria Lynn |
 | 135 | 113 | Adam Randall |
 | 136 | 112 | Jackie Marie |
