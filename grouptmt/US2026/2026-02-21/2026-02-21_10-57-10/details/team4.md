@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -214,12 +214,12 @@
 | 206 | 78 | Zesty Linkgrid |
 | 207 | 77 | Zippy Gridlock |
 | 208 | 77 | Marvin Lou Martin |
-| 209 | 77 | Chris Alexinas |
-| 210 | 77 | Zippy Gridlock |
-| 211 | 76 | Crystal Lynn |
-| 212 | 76 | Bethany Ison |
-| 213 | 76 | Madison Sweere |
-| 214 | 76 | Sammy Noguera |
+| 209 | 77 | Twisty Cascadezone |
+| 210 | 77 | Chris Alexinas |
+| 211 | 76 | Bethany Ison |
+| 212 | 76 | Crystal Lynn |
+| 213 | 76 | Sammy Noguera |
+| 214 | 76 | Madison Sweere |
 | 215 | 75 | Christina Black |
 | 216 | 75 | Rosemary Foster |
 | 217 | 74 | Tyler Terrific |

@@ -206,8 +206,8 @@
 | 198 | 385 | Sam |
 | 199 | 385 | Arwa Fatimah |
 | 200 | 381 | Amanda Ferrell |
-| 201 | 380 | Calandra Shaya Robinson |
-| 202 | 380 | Joshua Mandel |
+| 201 | 380 | Joshua Mandel |
+| 202 | 380 | Calandra Shaya Robinson |
 | 203 | 378 | Cody Nishimura |
 | 204 | 377 | Roy Salyer |
 | 205 | 364 | Shinette Dobson |
@@ -268,8 +268,8 @@
 | 260 | 299 | Deborah Miller |
 | 261 | 299 | Christy Krissie |
 | 262 | 297 | Brenda Utphall |
-| 263 | 296 | Jennifer Casey-Kay |
-| 264 | 296 | Amber Gray |
+| 263 | 296 | Amber Gray |
+| 264 | 296 | Jennifer Casey-Kay |
 | 265 | 296 | Jennifer Darby |
 | 266 | 295 | Zany Clusterbuilder |
 | 267 | 295 | Angela Bonquiqui Dinish |
@@ -413,8 +413,8 @@
 | 405 | 204 | Rebecca Doughman |
 | 406 | 203 | Gary Stash |
 | 407 | 201 | Peppy Snapfall |
-| 408 | 200 | LaWanda Powell |
-| 409 | 200 | Sarah Ridenour |
+| 408 | 200 | Sarah Ridenour |
+| 409 | 200 | LaWanda Powell |
 | 410 | 199 | Fi Ne |
 | 411 | 199 | Jenny Castro |
 | 412 | 199 | Jessica Sutter |
@@ -428,16 +428,16 @@
 | 420 | 195 | Snappy Shatterfit |
 | 421 | 194 | Hoppy Brickmatch |
 | 422 | 194 | Kimberly Ann |
-| 423 | 193 | Matthew Turner |
-| 424 | 193 | Kelly Ann McCormick |
+| 423 | 193 | Kelly Ann McCormick |
+| 424 | 193 | Matthew Turner |
 | 425 | 193 | Alishac Marie |
 | 426 | 191 | Lauren Fitzgerald Thomas |
 | 427 | 191 | John Quiring |
 | 428 | 191 | Deana |
-| 429 | 190 | Jessica Kaye DeAguero |
-| 430 | 190 | Layna Lyons |
-| 431 | 188 | Michael Artis |
-| 432 | 188 | Seth Wrieden |
+| 429 | 190 | Layna Lyons |
+| 430 | 190 | Jessica Kaye DeAguero |
+| 431 | 188 | Seth Wrieden |
+| 432 | 188 | Michael Artis |
 | 433 | 188 | Justin Hines |
 | 434 | 187 | Stefanie Zonzini-Gagliardi |
 | 435 | 186 | Joshua Mullings |
