@@ -108,9 +108,9 @@
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Chirpy Basepiece |
-| 104 | 134 | Jessica Bohlken |
-| 105 | 134 | Serena Goodridge |
+| 103 | 134 | Jessica Bohlken |
+| 104 | 134 | Serena Goodridge |
+| 105 | 134 | Chirpy Basepiece |
 | 106 | 133 | Robin Watters |
 | 107 | 132 | Degenerate |
 | 108 | 132 | Jenna McGeorge |
@@ -124,8 +124,8 @@
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
-| 119 | 123 | Cherrish Duren |
-| 120 | 123 | TinyLegoRose |
+| 119 | 123 | TinyLegoRose |
+| 120 | 123 | Cherrish Duren |
 | 121 | 123 | Bubbly Puzzler |
 | 122 | 122 | Sherri |
 | 123 | 121 | Megan Cutshaw |
@@ -292,7 +292,7 @@
 | 284 | 61 | Chilly Crasher |
 | 285 | 61 | Jackson Karen |
 | 286 | 61 | Plucky Patternblock |
-| 287 | 61 | Chilly Crasher |
+| 287 | 61 | Alee Marie |
 | 288 | 60 | Adam Stephanie Parker |
 | 289 | 60 | Kris Zulch |
 | 290 | 59 | Chris Bernstein |

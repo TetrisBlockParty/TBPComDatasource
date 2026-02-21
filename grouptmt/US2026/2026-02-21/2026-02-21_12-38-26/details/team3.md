@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Shane Wilson Jr. |
-| 31 | 810 | Zippy Strikesnap |
+| 30 | 810 | Zippy Strikesnap |
+| 31 | 810 | Shane Wilson Jr. |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -148,8 +148,8 @@
 | 140 | 175 | Logan Naccarato |
 | 141 | 167 | Raven Dudley |
 | 142 | 166 | Betty Rosas |
-| 143 | 166 | Danielle Mogg |
-| 144 | 166 | Rebel124 |
+| 143 | 166 | Rebel124 |
+| 144 | 166 | Danielle Mogg |
 | 145 | 166 | Kelly Ann Child |
 | 146 | 165 | Kali Kelz Williams |
 | 147 | 164 | rosy |
@@ -181,8 +181,8 @@
 | 173 | 146 | Latoya Mayne |
 | 174 | 145 | Bryan Byrd |
 | 175 | 142 | Erica Anderson |
-| 176 | 140 | Carrie Huskey |
-| 177 | 140 | Jay Horn |
+| 176 | 140 | Jay Horn |
+| 177 | 140 | Carrie Huskey |
 | 178 | 140 | Gumbo |
 | 179 | 135 | Cheryl Hinch Tenbrook |
 | 180 | 135 | Connie Mohler-Fair |
@@ -234,7 +234,7 @@
 | 226 | 107 | Sherry Ogden |
 | 227 | 107 | France Vézina |
 | 228 | 106 | Noettín Kan Zasnemoore |
-| 229 | 105 | Nikki Pags |
+| 229 | 105 | Carol Cain Thurman |
 | 230 | 105 | Emi |
 | 231 | 105 | Nikki Pags |
 | 232 | 104 | Sarah Moyer |
@@ -254,8 +254,8 @@
 | 246 | 100 | Bobbi Moore |
 | 247 | 100 | Demetrious Shaw Sr. |
 | 248 | 100 | Edwin Calvillo Jr. |
-| 249 | 99 | MizzMonick Smith |
-| 250 | 99 | Michael Nowogorski |
+| 249 | 99 | Michael Nowogorski |
+| 250 | 99 | MizzMonick Smith |
 | 251 | 99 | Nichol Graham |
 | 252 | 98 | Jocelyne Baca |
 | 253 | 98 | Erika Thornton |
@@ -360,7 +360,7 @@
 | 352 | 73 | Nerdy Wipeout |
 | 353 | 73 | Rainbow77375 |
 | 354 | 73 | Loopy Fallmatch |
-| 355 | 73 | Rainbow77375 |
+| 355 | 73 | punky monkey buttky |
 | 356 | 73 | Elyse Grabowsky |
 | 357 | 73 | Spicy Caster |
 | 358 | 72 | Barbara Bennett |

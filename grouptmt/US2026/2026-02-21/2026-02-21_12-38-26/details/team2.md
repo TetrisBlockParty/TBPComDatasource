@@ -507,10 +507,10 @@
 | 499 | 175 | Lucero Ramirez |
 | 500 | 174 | Jason Garnatz |
 | 501 | 174 | Veronica Guerra |
-| 502 | 173 | kippykay |
+| 502 | 173 | Robin |
 | 503 | 173 | Nuke Morris |
-| 504 | 173 | Robin |
-| 505 | 173 | Lazy Riseclear |
+| 504 | 173 | Lazy Riseclear |
+| 505 | 173 | kippykay |
 | 506 | 173 | Ocean-Brianna McGregor |
 | 507 | 171 | William Hunt |
 | 508 | 171 | Cappin You |
