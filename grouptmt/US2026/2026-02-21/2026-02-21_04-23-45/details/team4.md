@@ -98,8 +98,8 @@
 | 90 | 107 | Marcus Todd |
 | 91 | 106 | Jonathan Kimbrough |
 | 92 | 103 | Sam Middleton |
-| 93 | 102 | Faja |
-| 94 | 102 | YoMomma |
+| 93 | 102 | YoMomma |
+| 94 | 102 | Faja |
 | 95 | 101 | Michelle Morris |
 | 96 | 100 | Jeff Brian Gates |
 | 97 | 100 | Stephme310 |

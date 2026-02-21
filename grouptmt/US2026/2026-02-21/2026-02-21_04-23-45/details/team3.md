@@ -53,8 +53,8 @@
 | 45 | 372 | Patty Allen |
 | 46 | 371 | Jesse Olive |
 | 47 | 370 | yoyo |
-| 48 | 369 | Kristie |
-| 49 | 369 | Rachel Bowers |
+| 48 | 369 | Rachel Bowers |
+| 49 | 369 | Kristie |
 | 50 | 364 | Christine Filson |
 | 51 | 362 | Liv Whetson |
 | 52 | 360 | Ebony West-Cundiff |
@@ -111,8 +111,8 @@
 | 103 | 159 | Morgan Martinez |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
-| 106 | 155 | Shannon Matthew Byers |
-| 107 | 155 | BŘŰŤİÇŨŚ |
+| 106 | 155 | BŘŰŤİÇŨŚ |
+| 107 | 155 | Shannon Matthew Byers |
 | 108 | 154 | Angela M. Fletcher |
 | 109 | 153 | Beth Ingham |
 | 110 | 152 | Shiny Zonebuilder |
@@ -258,9 +258,9 @@
 | 250 | 72 | Kellie Montgomery |
 | 251 | 71 | Gimmegimmebeer |
 | 252 | 71 | Snazzy Filler |
-| 253 | 71 | Gimmegimmebeer |
-| 254 | 70 | Willow |
-| 255 | 70 | Leticia Lynn Lowe |
+| 253 | 71 | LaKisha Legrone |
+| 254 | 70 | Leticia Lynn Lowe |
+| 255 | 70 | Willow |
 | 256 | 69 | Jen Lewis |
 | 257 | 68 | Weerae |
 | 258 | 67 | Romeo |

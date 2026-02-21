@@ -201,8 +201,8 @@
 | 193 | 288 | Deborah Miller |
 | 194 | 287 | Claire |
 | 195 | 286 | Ryan Gunther |
-| 196 | 285 | June E Hanson |
-| 197 | 285 | Oscar Bernie |
+| 196 | 285 | Oscar Bernie |
+| 197 | 285 | June E Hanson |
 | 198 | 284 | Macy Williams |
 | 199 | 284 | Mamachelle Eisweirth |
 | 200 | 283 | Davetta Sanford |
@@ -352,15 +352,15 @@
 | 344 | 173 | Wakanda Forever |
 | 345 | 171 | kippykay |
 | 346 | 171 | Cappin You |
-| 347 | 170 | Dedra Steward |
-| 348 | 170 | Darlene Bowman |
+| 347 | 170 | Darlene Bowman |
+| 348 | 170 | Dedra Steward |
 | 349 | 170 | Kenya Felix |
 | 350 | 169 | Eddie Perez |
 | 351 | 169 | Lively Catcher |
 | 352 | 169 | Fi Ne |
-| 353 | 168 | Seth Wrieden |
-| 354 | 168 | Robin |
-| 355 | 168 | Kati Russeau |
+| 353 | 168 | Kati Russeau |
+| 354 | 168 | Seth Wrieden |
+| 355 | 168 | Robin |
 | 356 | 167 | Sabrena Yeisley |
 | 357 | 165 | Cathy Bitters |
 | 358 | 165 | Austin Wilson |

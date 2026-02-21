@@ -82,8 +82,8 @@
 | 74 | 132 | Davery Spencer Adair |
 | 75 | 130 | Dandy Basegrid |
 | 76 | 129 | Trina Gee |
-| 77 | 128 | Gary Gobin |
-| 78 | 128 | Uhog SF |
+| 77 | 128 | Uhog SF |
+| 78 | 128 | Gary Gobin |
 | 79 | 126 | Cece Ibarra |
 | 80 | 123 | Happy Snapbuild |
 | 81 | 120 | Kristen Roles Robben |
@@ -135,8 +135,8 @@
 | 127 | 83 | Guest |
 | 128 | 81 | Alenoush Karimian |
 | 129 | 81 | Bob |
-| 130 | 80 | pjbeta |
-| 131 | 80 | Larry Tilton |
+| 130 | 80 | Larry Tilton |
+| 131 | 80 | pjbeta |
 | 132 | 80 | Matt Cinelli |
 | 133 | 79 | LD1 |
 | 134 | 79 | Chris65 |
