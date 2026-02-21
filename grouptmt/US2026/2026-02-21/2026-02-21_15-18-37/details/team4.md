@@ -92,8 +92,8 @@
 | 84 | 191 | loulou |
 | 85 | 189 | Calvin Dennis |
 | 86 | 187 | Swanky Fitline |
-| 87 | 185 | shar |
-| 88 | 185 | Andy Cabral |
+| 87 | 185 | Andy Cabral |
+| 88 | 185 | shar |
 | 89 | 181 | Carter Jones |
 | 90 | 180 | Leah Kutz Zirbel |
 | 91 | 179 | Epic Curvetile |

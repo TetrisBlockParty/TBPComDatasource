@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 752 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -102,8 +102,8 @@
 | 94 | 320 | Or Reznitsky |
 | 95 | 316 | Fancy Cascader |
 | 96 | 313 | Elaine Webb Graves |
-| 97 | 309 | CeceGeGe |
-| 98 | 309 | Rich LeBlanc |
+| 97 | 309 | Rich LeBlanc |
+| 98 | 309 | CeceGeGe |
 | 99 | 307 | Peggi Charon |
 | 100 | 307 | Blocked |
 | 101 | 306 | Speedy Bridger |
@@ -171,8 +171,8 @@
 | 163 | 175 | DanceLuvLaugh |
 | 164 | 174 | Danielle Mogg |
 | 165 | 169 | Brandon Givens |
-| 166 | 168 | rosy |
-| 167 | 168 | Angie Harper |
+| 166 | 168 | Angie Harper |
+| 167 | 168 | rosy |
 | 168 | 167 | Raven Dudley |
 | 169 | 166 | Loopy Fallmatch |
 | 170 | 166 | Kelly Ann Child |
@@ -184,8 +184,8 @@
 | 176 | 161 | BŘŰŤİÇŨŚ |
 | 177 | 161 | Nikki Pags |
 | 178 | 160 | Tiffany Davie |
-| 179 | 159 | Stephanie Whitefield |
-| 180 | 159 | Jone |
+| 179 | 159 | Jone |
+| 180 | 159 | Stephanie Whitefield |
 | 181 | 158 | Grams |
 | 182 | 157 | Patricia Gadsden |
 | 183 | 157 | Nicholas Roddy |

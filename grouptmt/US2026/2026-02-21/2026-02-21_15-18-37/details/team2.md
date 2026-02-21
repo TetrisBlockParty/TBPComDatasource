@@ -295,8 +295,8 @@
 | 287 | 340 | Lawanda Forbes |
 | 288 | 338 | Mr. Street Stack |
 | 289 | 335 | Brooke Leigh Strube |
-| 290 | 334 | Missie Lawson Gebhardt |
-| 291 | 334 | Felicia Lynn |
+| 290 | 334 | Felicia Lynn |
+| 291 | 334 | Missie Lawson Gebhardt |
 | 292 | 334 | Moni Foxe |
 | 293 | 333 | ShinyRose |
 | 294 | 333 | Brittney Jean |
@@ -331,8 +331,8 @@
 | 323 | 309 | James Zaragoza |
 | 324 | 307 | Catina Hutchison |
 | 325 | 306 | Kristopher Miller |
-| 326 | 305 | Tum |
-| 327 | 305 | Zany Clusterbuilder |
+| 326 | 305 | Zany Clusterbuilder |
+| 327 | 305 | Tum |
 | 328 | 305 | Libby Hicks |
 | 329 | 303 | Davetta Sanford |
 | 330 | 303 | Crystal Greene |
@@ -359,8 +359,8 @@
 | 351 | 283 | Byung Bae Park |
 | 352 | 282 | Shaun Church |
 | 353 | 282 | Carl Bradshaw |
-| 354 | 281 | Jaycee |
-| 355 | 281 | Ellie Jonas |
+| 354 | 281 | Ellie Jonas |
+| 355 | 281 | Jaycee |
 | 356 | 280 | Shorty |
 | 357 | 280 | Lonne Emade |
 | 358 | 280 | SwampRebel |
@@ -532,15 +532,15 @@
 | 524 | 192 | Michael Artis |
 | 525 | 190 | Jessica Kaye DeAguero |
 | 526 | 189 | Nate Skidmore |
-| 527 | 188 | B-rad B-rad |
-| 528 | 188 | Irene Jones |
-| 529 | 188 | Seth Wrieden |
+| 527 | 188 | Irene Jones |
+| 528 | 188 | Seth Wrieden |
+| 529 | 188 | B-rad B-rad |
 | 530 | 187 | Josh Dill |
 | 531 | 186 | Kiorah Blaze |
 | 532 | 186 | Wacky Cascade |
 | 533 | 186 | Joshua Mullings |
-| 534 | 185 | Lively Edgepiece |
-| 535 | 185 | Lively Catcher |
+| 534 | 185 | Lively Catcher |
+| 535 | 185 | Lively Edgepiece |
 | 536 | 185 | Jason H Baker |
 | 537 | 185 | AgileDragon |
 | 538 | 184 | HarleyJane |
@@ -978,10 +978,10 @@
 | 970 | 108 | John-Jessica Manongdo |
 | 971 | 107 | Foxxo |
 | 972 | 107 | Dara |
-| 973 | 107 | Rain |
-| 974 | 107 | Eileen Hale |
-| 975 | 107 | Northphilly Fly |
-| 976 | 107 | Wil Allen |
+| 973 | 107 | Eileen Hale |
+| 974 | 107 | Northphilly Fly |
+| 975 | 107 | Rain |
+| 976 | 107 | Hunter Connors |
 | 977 | 107 | Trista Carter |
 | 978 | 107 | Traci Johnson |
 | 979 | 107 | Wil Allen |
@@ -990,7 +990,7 @@
 | 982 | 106 | Amandacolle |
 | 983 | 106 | Brian Baesler |
 | 984 | 106 | Damien Reinbold |
-| 985 | 106 | Jai |
+| 985 | 106 | Mystique89 |
 | 986 | 106 | Andrew Biswell |
 | 987 | 106 | Jai |
 | 988 | 105 | Mike Welz |
