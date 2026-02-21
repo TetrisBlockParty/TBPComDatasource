@@ -153,8 +153,8 @@
 | 145 | 394 | Tammy Allen |
 | 146 | 394 | Poppy Snapper |
 | 147 | 391 | Chilly Bridgepiece |
-| 148 | 386 | Ashie Ann |
-| 149 | 386 | Jumpy Gridpiece |
+| 148 | 386 | Jumpy Gridpiece |
+| 149 | 386 | Ashie Ann |
 | 150 | 385 | Sam |
 | 151 | 381 | Amanda Ferrell |
 | 152 | 380 | Joshua Mandel |
@@ -253,8 +253,8 @@
 | 245 | 251 | Ann Knutson Anderson |
 | 246 | 250 | Barbra Miller |
 | 247 | 249 | SwampRebel |
-| 248 | 248 | Dany Murillo |
-| 249 | 248 | Leah Keesling |
+| 248 | 248 | Leah Keesling |
+| 249 | 248 | Dany Murillo |
 | 250 | 248 | Bubbly Snapfit |
 | 251 | 248 | Chummy Blockbuilder |
 | 252 | 247 | Fancy Twister |
@@ -270,11 +270,11 @@
 | 262 | 241 | Peppy Zone |
 | 263 | 241 | Em Chen |
 | 264 | 241 | Sabrina Burton |
-| 265 | 240 | Adam Erikson |
-| 266 | 240 | Johnny Yeates |
-| 267 | 240 | Angie Marie |
-| 268 | 238 | Cheech Dta |
-| 269 | 238 | Cheery Matchzone |
+| 265 | 240 | Angie Marie |
+| 266 | 240 | Adam Erikson |
+| 267 | 240 | Johnny Yeates |
+| 268 | 238 | Cheery Matchzone |
+| 269 | 238 | Cheech Dta |
 | 270 | 237 | Altamirano Michael |
 | 271 | 236 | Frisky Riserbuilder |
 | 272 | 235 | Kimberly Mitchell |
@@ -442,8 +442,8 @@
 | 434 | 148 | Shannon Byrd |
 | 435 | 147 | Juliana Marques Do Nascimento Gordy |
 | 436 | 146 | Sherry Aguinaga |
-| 437 | 145 | Scott Rackley |
-| 438 | 145 | William Hughes |
+| 437 | 145 | William Hughes |
+| 438 | 145 | Scott Rackley |
 | 439 | 145 | Catina Hutchison |
 | 440 | 144 | Porsche' Nicole |
 | 441 | 144 | Alexis Richardson |

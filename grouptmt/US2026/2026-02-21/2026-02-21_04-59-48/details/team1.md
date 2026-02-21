@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Gary Gobin |
-| 83 | 128 | Uhog SF |
+| 82 | 128 | Uhog SF |
+| 83 | 128 | Gary Gobin |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Irual Hctrab |
@@ -130,8 +130,8 @@
 | 122 | 89 | Mizzledagod |
 | 123 | 89 | Mara Hilker |
 | 124 | 87 | Jessi Sauer |
-| 125 | 86 | Basment Living |
-| 126 | 86 | Desiree Deschaine Havee |
+| 125 | 86 | Desiree Deschaine Havee |
+| 126 | 86 | Basment Living |
 | 127 | 85 | Steve Schneider |
 | 128 | 84 | Charla Pross-Fugleberg |
 | 129 | 84 | Yvonne Marie |
@@ -175,9 +175,9 @@
 | 167 | 68 | Unelanuhi Belladonna Mystikal Bomar |
 | 168 | 67 | Mitchel White |
 | 169 | 66 | Angela Fairbank |
-| 170 | 65 | MamaB24 |
-| 171 | 65 | Giddy Glider |
-| 172 | 65 | OneCrazyGator |
+| 170 | 65 | Giddy Glider |
+| 171 | 65 | OneCrazyGator |
+| 172 | 65 | MamaB24 |
 | 173 | 65 | Jennifer Olewnik Soborowski |
 | 174 | 64 | Tyler Hertzog |
 | 175 | 64 | Chantelle Ceno |

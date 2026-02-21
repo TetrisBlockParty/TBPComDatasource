@@ -40,8 +40,8 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Jenna Ingersoll |
-| 36 | 231 | Michelle Marie |
+| 35 | 231 | Michelle Marie |
+| 36 | 231 | Jenna Ingersoll |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
@@ -52,8 +52,8 @@
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Girl |
-| 48 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Leah Kutz Zirbel |
+| 48 | 170 | Girl |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Casey Grabner |
 | 51 | 165 | Courtney Cicoria |
