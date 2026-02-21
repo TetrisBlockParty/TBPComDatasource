@@ -76,14 +76,14 @@
 | 68 | 256 | Brittney Griggs |
 | 69 | 252 | Bubbly Puzzler |
 | 70 | 244 | Isabella Blanco |
-| 71 | 237 | Lori Walker |
-| 72 | 237 | Jamie Mann-Deichmann |
+| 71 | 237 | Jamie Mann-Deichmann |
+| 72 | 237 | Lori Walker |
 | 73 | 230 | Autum Leigh |
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Dizzy Tiley |
-| 78 | 211 | Casey Grabner |
+| 77 | 211 | Casey Grabner |
+| 78 | 211 | Dizzy Tiley |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -125,8 +125,8 @@
 | 117 | 146 | Peachy Fall |
 | 118 | 146 | Klo |
 | 119 | 145 | Jessica Bohlken |
-| 120 | 144 | Mr. Party |
-| 121 | 144 | Shainne Brewer |
+| 120 | 144 | Shainne Brewer |
+| 121 | 144 | Mr. Party |
 | 122 | 143 | Nugget |
 | 123 | 141 | Malakai Darien Fox |
 | 124 | 140 | Shannon Ferrari |
@@ -134,8 +134,8 @@
 | 126 | 139 | Robin Watters |
 | 127 | 136 | Tanner Lund |
 | 128 | 135 | ĥuf |
-| 129 | 134 | Chirpy Basepiece |
-| 130 | 134 | Serena Goodridge |
+| 129 | 134 | Serena Goodridge |
+| 130 | 134 | Chirpy Basepiece |
 | 131 | 132 | Jessica Cagle |
 | 132 | 132 | Degenerate |
 | 133 | 132 | Melissa Priest Sellers |
@@ -166,15 +166,15 @@
 | 158 | 115 | Ultramarine |
 | 159 | 115 | Jayk |
 | 160 | 113 | Adam Randall |
-| 161 | 112 | Austin Owens |
+| 161 | 112 | Bryan Hodgins |
 | 162 | 112 | Jackie Marie |
 | 163 | 112 | Austin Owens |
 | 164 | 111 | Michelle Morris |
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Marcus Todd |
-| 169 | 107 | Rafael Valentin |
+| 168 | 107 | Rafael Valentin |
+| 169 | 107 | Marcus Todd |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | 🥔🥔 Spudz |
 | 172 | 105 | TheNeesh50 |
@@ -212,8 +212,8 @@
 | 204 | 94 | DonMega |
 | 205 | 93 | Matt Dell'Olio |
 | 206 | 92 | Lindsey Gonzalez |
-| 207 | 90 | No Strings Attached Ra |
-| 208 | 90 | Amy Suckarieh |
+| 207 | 90 | Amy Suckarieh |
+| 208 | 90 | No Strings Attached Ra |
 | 209 | 89 | shark tato |
 | 210 | 88 | Heather Tushner |
 | 211 | 88 | Kesha Brady |

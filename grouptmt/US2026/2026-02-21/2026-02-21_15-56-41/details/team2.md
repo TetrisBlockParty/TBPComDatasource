@@ -277,8 +277,8 @@
 | 269 | 364 | Brandon Armstrong |
 | 270 | 363 | William Meussner |
 | 271 | 362 | AkaLefty |
-| 272 | 359 | Johnny Yeates |
-| 273 | 359 | Mighty Shatterfit |
+| 272 | 359 | Mighty Shatterfit |
+| 273 | 359 | Johnny Yeates |
 | 274 | 358 | Smashanator |
 | 275 | 358 | Alyssaaelena |
 | 276 | 357 | Shannon Byrd |
@@ -343,8 +343,8 @@
 | 335 | 307 | Offonar Facey |
 | 336 | 307 | Catina Hutchison |
 | 337 | 306 | Kristopher Miller |
-| 338 | 305 | Tum |
-| 339 | 305 | Zany Clusterbuilder |
+| 338 | 305 | Zany Clusterbuilder |
+| 339 | 305 | Tum |
 | 340 | 305 | Libby Hicks |
 | 341 | 303 | Crystal Greene |
 | 342 | 303 | Amanda Schaffer |
@@ -391,7 +391,7 @@
 | 383 | 274 | Melissa Holsinger |
 | 384 | 274 | August Hale |
 | 385 | 274 | AISlop |
-| 386 | 274 | August Hale |
+| 386 | 274 | Jamie Stevey |
 | 387 | 273 | Vanessa Moreno |
 | 388 | 273 | Ray Ray Prado |
 | 389 | 273 | Jenna Nance |
@@ -458,8 +458,8 @@
 | 450 | 233 | Jumpy Gridclear |
 | 451 | 233 | Daring Matchfit |
 | 452 | 232 | Aleasha M Brown |
-| 453 | 232 | Amber Brion |
-| 454 | 232 | Quirky Twistline |
+| 453 | 232 | Quirky Twistline |
+| 454 | 232 | Amber Brion |
 | 455 | 231 | Hong Tang |
 | 456 | 231 | Brave Gridpiece |
 | 457 | 231 | Dylan Thomason |

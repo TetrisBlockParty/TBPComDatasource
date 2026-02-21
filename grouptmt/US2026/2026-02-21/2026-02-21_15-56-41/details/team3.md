@@ -286,8 +286,8 @@
 | 278 | 104 | El Chapa |
 | 279 | 104 | Samantha Lynn |
 | 280 | 103 | Wetwet |
-| 281 | 103 | Lisa Lisa |
-| 282 | 103 | Kate Farok |
+| 281 | 103 | Kate Farok |
+| 282 | 103 | Lisa Lisa |
 | 283 | 102 | Christian Luna |
 | 284 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 285 | 101 | Hyper Bridger |

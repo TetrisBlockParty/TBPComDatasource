@@ -85,16 +85,16 @@
 | 77 | 206 | Billie Dawn Sparks |
 | 78 | 205 | Trippy Redd |
 | 79 | 204 | Lexuriuos Lifestlye |
-| 80 | 201 | Ananda Mendez |
-| 81 | 201 | Anaid Sanchez |
+| 80 | 201 | Anaid Sanchez |
+| 81 | 201 | Ananda Mendez |
 | 82 | 200 | Giggly Builderline |
 | 83 | 198 | Happy Snapbuild |
 | 84 | 198 | Brandi Huntington |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
-| 88 | 191 | Jazzy Framezone |
-| 89 | 191 | Diane Byrd |
+| 88 | 191 | Diane Byrd |
+| 89 | 191 | Jazzy Framezone |
 | 90 | 190 | Thorne Shumate |
 | 91 | 190 | Sweetts |
 | 92 | 189 | Happy Basegrid |
@@ -130,8 +130,8 @@
 | 122 | 144 | femmefatale |
 | 123 | 144 | Plucky Ziggy |
 | 124 | 143 | Sarah Marie |
-| 125 | 142 | Dandy Basegrid |
-| 126 | 142 | Colleen Wise |
+| 125 | 142 | Colleen Wise |
+| 126 | 142 | Dandy Basegrid |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
 | 129 | 138 | Michael |
