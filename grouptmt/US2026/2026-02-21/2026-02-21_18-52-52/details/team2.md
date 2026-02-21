@@ -197,8 +197,8 @@
 | 189 | 541 | Giggy Blocker |
 | 190 | 541 | SaraMarie Eveland |
 | 191 | 535 | Jessie McDougald |
-| 192 | 534 | Teresa Gillmore |
-| 193 | 534 | Stephen Stephen |
+| 192 | 534 | Stephen Stephen |
+| 193 | 534 | Teresa Gillmore |
 | 194 | 531 | Chris Wanner |
 | 195 | 528 | Brownie Sheena |
 | 196 | 527 | Stacy Stickle |
@@ -927,8 +927,8 @@
 | 919 | 136 | Mindy Folsom |
 | 920 | 136 | Hasty Riseclear |
 | 921 | 136 | B |
-| 922 | 136 | Lazy Builderfit |
-| 923 | 136 | Cynthia Louann Rose |
+| 922 | 136 | Cynthia Louann Rose |
+| 923 | 136 | Lazy Builderfit |
 | 924 | 135 | Atara James |
 | 925 | 135 | Michelle Loar |
 | 926 | 135 | Angela Kummer |
@@ -941,10 +941,10 @@
 | 933 | 135 | Guy Fisher |
 | 934 | 134 | Jennifer Zeigler |
 | 935 | 134 | Ashley Hair |
-| 936 | 134 | Slinky Risegrid |
-| 937 | 134 | Speedy Pivoty |
-| 938 | 133 | Mia Muse Best |
-| 939 | 133 | Jackie Avila |
+| 936 | 134 | Speedy Pivoty |
+| 937 | 134 | Slinky Risegrid |
+| 938 | 133 | Hillary Franklin |
+| 939 | 133 | Mia Muse Best |
 | 940 | 133 | Cody Kelsey |
 | 941 | 133 | Emilie Victoria Cordero |
 | 942 | 133 | Jackie Avila |

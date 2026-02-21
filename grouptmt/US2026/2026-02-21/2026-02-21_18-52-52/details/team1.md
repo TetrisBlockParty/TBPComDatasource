@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Colena Davenport |
-| 36 | 510 | Lawrence Belanger |
+| 35 | 510 | Lawrence Belanger |
+| 36 | 510 | Colena Davenport |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -167,8 +167,8 @@
 | 159 | 133 | Breanna Luna |
 | 160 | 132 | Cody Gates |
 | 161 | 132 | Davery Spencer Adair |
-| 162 | 131 | Uhog SF |
-| 163 | 131 | Kimberly Garcia |
+| 162 | 131 | Kimberly Garcia |
+| 163 | 131 | Uhog SF |
 | 164 | 130 | Aimee Horton |
 | 165 | 130 | Gilbert Ortiz Jr. |
 | 166 | 130 | LD1 |
