@@ -63,8 +63,8 @@
 | 55 | 133 | Robin Watters |
 | 56 | 132 | Jenna McGeorge |
 | 57 | 131 | Dustee Craddock-Harrison |
-| 58 | 130 | Sarah Neathery |
-| 59 | 130 | Casey Jeffcoat |
+| 58 | 130 | Casey Jeffcoat |
+| 59 | 130 | Sarah Neathery |
 | 60 | 125 | Lauren Scott |
 | 61 | 124 | Jay28 |
 | 62 | 123 | Nugget |

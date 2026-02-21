@@ -48,8 +48,8 @@
 | 40 | 194 | Sharon Reynolds |
 | 41 | 192 | Mandyy Rae |
 | 42 | 191 | Jazzy Framezone |
-| 43 | 190 | Sweetts |
-| 44 | 190 | Thorne Shumate |
+| 43 | 190 | Thorne Shumate |
+| 44 | 190 | Sweetts |
 | 45 | 189 | Happy Basegrid |
 | 46 | 185 | Karin Gillen |
 | 47 | 173 | Frothy Pattern |
@@ -105,15 +105,15 @@
 | 97 | 99 | Bhelle Sumile |
 | 98 | 99 | Ty Brown |
 | 99 | 99 | Melissa Bires Hussar |
-| 100 | 96 | Melissa Lemmon |
-| 101 | 96 | Nery Martinez |
+| 100 | 96 | Nery Martinez |
+| 101 | 96 | Melissa Lemmon |
 | 102 | 95 | Spunky Piecebuilder |
 | 103 | 94 | Bindi |
 | 104 | 94 | Luciano Moreira |
-| 105 | 93 | Loony Fitzone |
-| 106 | 93 | Adryane Schnase |
-| 107 | 90 | Madison Wicks |
-| 108 | 90 | TSwag |
+| 105 | 93 | Adryane Schnase |
+| 106 | 93 | Loony Fitzone |
+| 107 | 90 | TSwag |
+| 108 | 90 | Madison Wicks |
 | 109 | 87 | Jessi Sauer |
 | 110 | 86 | Basment Living |
 | 111 | 86 | Desiree Deschaine Havee |
@@ -191,7 +191,7 @@
 | 183 | 57 | Lis |
 | 184 | 57 | Felicia Lewis |
 | 185 | 57 | Howdi Duty |
-| 186 | 57 | Logan McFarland |
+| 186 | 57 | .running. |
 | 187 | 56 | Henry Lanier |
 | 188 | 55 | Panda Thagreat |
 | 189 | 55 | Tami Luce Martin |

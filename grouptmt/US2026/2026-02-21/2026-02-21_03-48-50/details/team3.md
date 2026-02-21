@@ -129,8 +129,8 @@
 | 121 | 125 | Stephanie Simpson |
 | 122 | 125 | Felicia Doxey |
 | 123 | 123 | Kristie McFarland |
-| 124 | 122 | Terry Jo Jones |
-| 125 | 122 | Shimika Enay Wallace |
+| 124 | 122 | Shimika Enay Wallace |
+| 125 | 122 | Terry Jo Jones |
 | 126 | 121 | Michael Latasha Gray |
 | 127 | 121 | Boldy Corner |
 | 128 | 120 | Jessica |
@@ -186,11 +186,11 @@
 | 178 | 90 | Eon Harris |
 | 179 | 90 | Tiffany Kaupang |
 | 180 | 90 | Rebel124 |
-| 181 | 89 | Danielle Becker |
-| 182 | 89 | Shicken Nuggit |
+| 181 | 89 | Shicken Nuggit |
+| 182 | 89 | Danielle Becker |
 | 183 | 89 | Hyper Bridger |
-| 184 | 88 | Martin Bernier |
-| 185 | 88 | Brandon Givens |
+| 184 | 88 | Brandon Givens |
+| 185 | 88 | Martin Bernier |
 | 186 | 87 | Boldy Blocker |
 | 187 | 86 | Stephanie Blkpep Davidson |
 | 188 | 85 | Sashay Tapae Simpson |
@@ -198,8 +198,8 @@
 | 190 | 85 | Peachy Rollfit |
 | 191 | 85 | Chris Bell |
 | 192 | 84 | Ava Petito |
-| 193 | 84 | Flashy Rumbler |
-| 194 | 84 | Amanda L Baker |
+| 193 | 84 | Amanda L Baker |
+| 194 | 84 | Flashy Rumbler |
 | 195 | 83 | Michael Nowogorski |
 | 196 | 82 | Clever Clearbuilder |
 | 197 | 82 | Crystel b520 |
