@@ -168,8 +168,8 @@
 | 160 | 705 | Roger Grabbit |
 | 161 | 703 | Lola Contreras |
 | 162 | 703 | Debra Williams |
-| 163 | 700 | Beverly Owens |
-| 164 | 700 | Rosemadder |
+| 163 | 700 | Rosemadder |
+| 164 | 700 | Beverly Owens |
 | 165 | 700 | Vincent Petrella |
 | 166 | 697 | Real Ri |
 | 167 | 694 | Vo'Landa Reels |

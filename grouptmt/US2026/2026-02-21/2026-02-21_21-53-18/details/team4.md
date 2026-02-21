@@ -103,16 +103,16 @@
 | 95 | 228 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
 | 103 | 212 | Calvin Cannon |
 | 104 | 211 | Dizzy Tiley |
 | 105 | 210 | Damn Libra |
-| 106 | 208 | Chastity Mitchell |
-| 107 | 208 | Twisty Cascadezone |
+| 106 | 208 | Twisty Cascadezone |
+| 107 | 208 | Chastity Mitchell |
 | 108 | 206 | Mylo Lipscomb |
 | 109 | 205 | Sarah Neathery |
 | 110 | 204 | Dana Scott |
@@ -178,11 +178,11 @@
 | 170 | 134 | Chirpy Basepiece |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
-| 173 | 132 | Melissa Priest Sellers |
-| 174 | 132 | Jessica Cagle |
-| 175 | 132 | Degenerate |
-| 176 | 131 | Michelle Morris |
-| 177 | 131 | TinyLegoRose |
+| 173 | 132 | Jessica Cagle |
+| 174 | 132 | Degenerate |
+| 175 | 132 | Melissa Priest Sellers |
+| 176 | 131 | TinyLegoRose |
+| 177 | 131 | Michelle Morris |
 | 178 | 130 | Carlos Ramirez |
 | 179 | 130 | Shukee Lo |
 | 180 | 129 | Dreamy Snapgrid |
@@ -217,7 +217,7 @@
 | 209 | 115 | Ultramarine |
 | 210 | 115 | Tyler Terrific |
 | 211 | 115 | Nubian1 |
-| 212 | 115 | Tyler Terrific |
+| 212 | 115 | Sam Middleton |
 | 213 | 114 | Circuit8 |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 113 | Adam Randall |
@@ -253,9 +253,9 @@
 | 245 | 101 | Zesty Linkgrid |
 | 246 | 100 | Alexandra Karavias |
 | 247 | 100 | Jacob Richard |
-| 248 | 100 | Blessedmama |
-| 249 | 100 | Maureen Flanigan |
-| 250 | 100 | Jennifer Perkins |
+| 248 | 100 | Maureen Flanigan |
+| 249 | 100 | Jennifer Perkins |
+| 250 | 100 | Blessedmama |
 | 251 | 99 | Michael Orris |
 | 252 | 98 | Bradley Reeves |
 | 253 | 98 | Perky Piecegrid |
@@ -287,7 +287,7 @@
 | 279 | 88 | Michelle Parker |
 | 280 | 88 | Kesha Brady |
 | 281 | 87 | Alan George LaRage |
-| 282 | 86 | Jason Frehner |
+| 282 | 86 | amy |
 | 283 | 86 | Destiney Carter |
 | 284 | 86 | Jason Frehner |
 | 285 | 86 | BigSammy420 |
@@ -356,10 +356,10 @@
 | 348 | 71 | Dapper Climber |
 | 349 | 70 | James Hurley Jr. |
 | 350 | 70 | Lee Silpe |
-| 351 | 70 | Robert Rangel |
-| 352 | 70 | Brittany Price |
+| 351 | 70 | Niome Encinias |
+| 352 | 70 | Robert Rangel |
 | 353 | 70 | PlatinumRose |
-| 354 | 70 | Niome Encinias |
+| 354 | 70 | Brittany Price |
 | 355 | 69 | Beth Helms |
 | 356 | 69 | Jessica Wells |
 | 357 | 69 | Meli  Jackson |
