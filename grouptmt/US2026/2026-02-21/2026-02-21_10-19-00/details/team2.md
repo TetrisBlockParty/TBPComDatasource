@@ -287,8 +287,8 @@
 | 279 | 278 | Noel Tarmy |
 | 280 | 278 | Peachy Blockbuilder |
 | 281 | 276 | Lindsey Leigh |
-| 282 | 276 | Vonceial Boone |
-| 283 | 276 | SwampRebel |
+| 282 | 276 | SwampRebel |
+| 283 | 276 | Vonceial Boone |
 | 284 | 275 | Cheeky Brickmatch |
 | 285 | 275 | Ann Matzkanin |
 | 286 | 275 | Shiny Rollzone |
@@ -410,8 +410,8 @@
 | 402 | 200 | LaWanda Powell |
 | 403 | 200 | Sarah Ridenour |
 | 404 | 199 | Fi Ne |
-| 405 | 199 | Jessica Sutter |
-| 406 | 199 | Jenny Castro |
+| 405 | 199 | Jenny Castro |
+| 406 | 199 | Jessica Sutter |
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Alyssa Dean |
 | 409 | 197 | Alyssa Nadine Medelez |
@@ -423,8 +423,8 @@
 | 415 | 195 | Snappy Shatterfit |
 | 416 | 194 | Hoppy Brickmatch |
 | 417 | 194 | Kimberly Ann |
-| 418 | 193 | Kelly Ann McCormick |
-| 419 | 193 | Matthew Turner |
+| 418 | 193 | Matthew Turner |
+| 419 | 193 | Kelly Ann McCormick |
 | 420 | 192 | Steve Man |
 | 421 | 191 | John Quiring |
 | 422 | 191 | Deana |
@@ -603,8 +603,8 @@
 | 595 | 138 | Iris Angelica Perez Cantos |
 | 596 | 138 | Gursharan Sandhu |
 | 597 | 138 | Dee |
-| 598 | 138 | Joshua Self |
-| 599 | 138 | Kiely Tomaskovich |
+| 598 | 138 | Kiely Tomaskovich |
+| 599 | 138 | Joshua Self |
 | 600 | 137 | Jannan Haimour |
 | 601 | 137 | Arlet Alba |
 | 602 | 136 | Tamara Slaten |
@@ -689,8 +689,8 @@
 | 681 | 125 | NickyBrooks |
 | 682 | 125 | Connor Gaughran |
 | 683 | 125 | Tina Marie |
-| 684 | 125 | Binyah-Binyah |
-| 685 | 125 | Goofy Blockfall |
+| 684 | 125 | Goofy Blockfall |
+| 685 | 125 | Binyah-Binyah |
 | 686 | 125 | Jamie Frank Karolyi |
 | 687 | 124 | Jazzy Grabber |
 | 688 | 124 | Witty Piecebuilder |

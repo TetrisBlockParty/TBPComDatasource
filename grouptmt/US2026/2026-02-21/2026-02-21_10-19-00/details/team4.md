@@ -99,8 +99,8 @@
 | 91 | 138 | Shainne Brewer |
 | 92 | 137 | 030Synner |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Chirpy Basepiece |
-| 95 | 134 | Jessica Bohlken |
+| 94 | 134 | Jessica Bohlken |
+| 95 | 134 | Chirpy Basepiece |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Melissa Priest Sellers |
 | 98 | 132 | Jessica Cagle |
@@ -108,7 +108,7 @@
 | 100 | 132 | Jenna McGeorge |
 | 101 | 131 | Zany Twisterfit |
 | 102 | 131 | Mr. Party |
-| 103 | 131 | Zany Twisterfit |
+| 103 | 131 | Dana Scott |
 | 104 | 130 | Lucas J Sutton |
 | 105 | 130 | Casey Jeffcoat |
 | 106 | 129 | Landon Keith Graffeo |
@@ -126,8 +126,8 @@
 | 118 | 120 | Joshua Guess |
 | 119 | 119 | Kristin Manee |
 | 120 | 118 | Leslie Nicole |
-| 121 | 116 | Serena Goodridge |
-| 122 | 116 | Diana Houts |
+| 121 | 116 | Diana Houts |
+| 122 | 116 | Serena Goodridge |
 | 123 | 115 | Jayk |
 | 124 | 115 | Ultramarine |
 | 125 | 113 | Stephme310 |
@@ -151,8 +151,8 @@
 | 143 | 104 | Adam Randall |
 | 144 | 102 | Faja |
 | 145 | 102 | ĥuf |
-| 146 | 101 | Saulc1991 |
-| 147 | 101 | Michelle Morris |
+| 146 | 101 | Michelle Morris |
+| 147 | 101 | Saulc1991 |
 | 148 | 100 | Alexandra Karavias |
 | 149 | 99 | KM8 |
 | 150 | 98 | Chaz |
