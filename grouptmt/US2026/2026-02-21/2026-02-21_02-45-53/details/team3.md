@@ -33,8 +33,8 @@
 | 25 | 546 | Dolores Falco |
 | 26 | 528 | Natasha Jones |
 | 27 | 507 | Stephanie Allmon |
-| 28 | 476 | Jennifer Willis |
-| 29 | 476 | Susan Valentino |
+| 28 | 476 | Susan Valentino |
+| 29 | 476 | Jennifer Willis |
 | 30 | 466 | Kay |
 | 31 | 446 | Kathryn Keenan-Taggart |
 | 32 | 432 | Nate Burnside |
@@ -172,8 +172,8 @@
 | 164 | 88 | Martin Bernier |
 | 165 | 88 | Funky Jumper |
 | 166 | 87 | Tasha Wesson-Torrence |
-| 167 | 85 | Chris Bell |
-| 168 | 85 | Kevin Russell |
+| 167 | 85 | Kevin Russell |
+| 168 | 85 | Chris Bell |
 | 169 | 84 | Ava Petito |
 | 170 | 84 | Amanda L Baker |
 | 171 | 84 | Flashy Rumbler |
@@ -237,12 +237,12 @@
 | 229 | 63 | Eileen Brady Thurber |
 | 230 | 63 | BugMansMom |
 | 231 | 63 | Loopy Fallmatch |
-| 232 | 63 | Kali Kelz Williams |
+| 232 | 63 | Crystal Woodward |
 | 233 | 63 | Hasty Wipebuilder |
-| 234 | 63 | Crystal Woodward |
-| 235 | 62 | Bekah Dietrich |
+| 234 | 63 | Kali Kelz Williams |
+| 235 | 62 | Mcathen |
 | 236 | 62 | Danielle Weikel |
-| 237 | 62 | Mcathen |
+| 237 | 62 | Bekah Dietrich |
 | 238 | 62 | Melissa Snyder |
 | 239 | 61 | Jessica Rose-Morgan |
 | 240 | 61 | punky monkey buttky |

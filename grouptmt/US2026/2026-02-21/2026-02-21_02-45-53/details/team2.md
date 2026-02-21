@@ -160,8 +160,8 @@
 | 152 | 297 | James Zaragoza |
 | 153 | 296 | Jennifer Casey-Kay |
 | 154 | 296 | Brittney Jean |
-| 155 | 295 | Diallo Sparkman |
-| 156 | 295 | Zany Clusterbuilder |
+| 155 | 295 | Zany Clusterbuilder |
+| 156 | 295 | Diallo Sparkman |
 | 157 | 290 | Jessie McDougald |
 | 158 | 289 | Juanita Lyons |
 | 159 | 287 | Claire |
@@ -186,12 +186,12 @@
 | 178 | 266 | Joyce Johnson Vaughn |
 | 179 | 265 | Wuntayk |
 | 180 | 264 | Mamachelle Eisweirth |
-| 181 | 263 | Taylor Flowers |
-| 182 | 263 | Oscar Bernie |
+| 181 | 263 | Oscar Bernie |
+| 182 | 263 | Taylor Flowers |
 | 183 | 261 | MrsClaudette Will'sIam Matthews |
 | 184 | 260 | Mindy Leigh Head |
-| 185 | 257 | Shameika Trail |
-| 186 | 257 | Alex Hill |
+| 185 | 257 | Alex Hill |
+| 186 | 257 | Shameika Trail |
 | 187 | 257 | Roy Salyer |
 | 188 | 256 | Dapper Dasher |
 | 189 | 255 | Santana Miyagi |
@@ -213,8 +213,8 @@
 | 205 | 244 | Elisheva Mizrachi |
 | 206 | 243 | Brandy Andre |
 | 207 | 241 | Sabrina Burton |
-| 208 | 240 | Angie Marie |
-| 209 | 240 | Adam Erikson |
+| 208 | 240 | Adam Erikson |
+| 209 | 240 | Angie Marie |
 | 210 | 239 | Tee Jaleesa |
 | 211 | 238 | Cheery Matchzone |
 | 212 | 238 | Cheech Dta |
@@ -266,8 +266,8 @@
 | 258 | 196 | Besma Ao |
 | 259 | 196 | Alexandra Reese |
 | 260 | 196 | Cass Shirley |
-| 261 | 194 | Mike Aprilliano |
-| 262 | 194 | Kimberly Ann |
+| 261 | 194 | Kimberly Ann |
+| 262 | 194 | Mike Aprilliano |
 | 263 | 193 | Johnny Yeates |
 | 264 | 193 | Nika Bee |
 | 265 | 191 | Deana |

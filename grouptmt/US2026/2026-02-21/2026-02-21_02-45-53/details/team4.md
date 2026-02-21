@@ -41,8 +41,8 @@
 | 33 | 185 | loulou |
 | 34 | 174 | Jamie Mann-Deichmann |
 | 35 | 171 | Rachel Anne |
-| 36 | 170 | Girl |
-| 37 | 170 | Leah Kutz Zirbel |
+| 36 | 170 | Leah Kutz Zirbel |
+| 37 | 170 | Girl |
 | 38 | 169 | Kimyatta Cavin |
 | 39 | 168 | Anthony Magaraci |
 | 40 | 153 | Jae Job |
@@ -68,8 +68,8 @@
 | 60 | 119 | Sherri |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
-| 63 | 113 | Degenerate |
-| 64 | 113 | Leslie Nicole |
+| 63 | 113 | Leslie Nicole |
+| 64 | 113 | Degenerate |
 | 65 | 112 | Mr. Party |
 | 66 | 112 | Chirpy Basepiece |
 | 67 | 111 | Gwendolyn Pitcairn |
@@ -113,8 +113,8 @@
 | 105 | 80 | Judy Cox |
 | 106 | 80 | Melissa Adams |
 | 107 | 79 | Shainne Brewer |
-| 108 | 78 | Chair |
-| 109 | 78 | Zesty Linkgrid |
+| 108 | 78 | Zesty Linkgrid |
+| 109 | 78 | Chair |
 | 110 | 77 | Destiney Carter |
 | 111 | 76 | Jessica Miller |
 | 112 | 76 | Bethany Ison |

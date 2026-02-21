@@ -59,11 +59,11 @@
 | 51 | 151 | Hyper |
 | 52 | 148 | Jessie Lynn |
 | 53 | 147 | Veronica Eve |
-| 54 | 145 | BigWeenie69 |
-| 55 | 145 | Lachelle Dillon |
-| 56 | 144 | Tana |
+| 54 | 145 | Lachelle Dillon |
+| 55 | 145 | BigWeenie69 |
+| 56 | 144 | Tanya Carpenter-Reynolds |
 | 57 | 144 | Plucky Ziggy |
-| 58 | 144 | Tanya Carpenter-Reynolds |
+| 58 | 144 | Tana |
 | 59 | 141 | Susanna Guerry |
 | 60 | 137 | Nadine Velardo |
 | 61 | 134 | Josie Kirt |
@@ -113,8 +113,8 @@
 | 105 | 83 | Cody Gates |
 | 106 | 81 | Jennifer ManWarren |
 | 107 | 81 | Bob |
-| 108 | 80 | pjbeta |
-| 109 | 80 | Larry Tilton |
+| 108 | 80 | Larry Tilton |
+| 109 | 80 | pjbeta |
 | 110 | 80 | Matt Cinelli |
 | 111 | 79 | LD1 |
 | 112 | 79 | Chris65 |
