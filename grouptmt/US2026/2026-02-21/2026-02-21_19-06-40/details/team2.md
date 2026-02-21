@@ -225,8 +225,8 @@
 | 217 | 510 | Laquetta Royston |
 | 218 | 509 | Kelli Wells |
 | 219 | 505 | Jelly |
-| 220 | 504 | Gene Mills |
-| 221 | 504 | Cherica Taylor |
+| 220 | 504 | Cherica Taylor |
+| 221 | 504 | Gene Mills |
 | 222 | 503 | tejas25 |
 | 223 | 503 | AISlop |
 | 224 | 502 | Magic steve |
@@ -242,8 +242,8 @@
 | 234 | 483 | Osun Anuket Esu |
 | 235 | 482 | Eckoman518 |
 | 236 | 475 | Khalil Lowe |
-| 237 | 474 | Auntie B |
-| 238 | 474 | Ashley Collins |
+| 237 | 474 | Ashley Collins |
+| 238 | 474 | Auntie B |
 | 239 | 474 | Calandra Shaya Robinson |
 | 240 | 470 | Jerry Tempelmeyer |
 | 241 | 469 | Ashley Rose Frederick |

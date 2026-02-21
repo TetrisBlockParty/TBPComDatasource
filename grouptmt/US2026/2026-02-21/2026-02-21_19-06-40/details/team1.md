@@ -129,8 +129,8 @@
 | 121 | 171 | Greg Premoe |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
-| 124 | 166 | Rico Rico |
-| 125 | 166 | Tana |
+| 124 | 166 | Tana |
+| 125 | 166 | Rico Rico |
 | 126 | 165 | Veronica Eve |
 | 127 | 164 | Tinah Montanna |
 | 128 | 163 | Tyler Whitley |

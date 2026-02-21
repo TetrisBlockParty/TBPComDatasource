@@ -107,8 +107,8 @@
 | 99 | 367 | Nerdy Riseclear |
 | 100 | 366 | Speedy Bridger |
 | 101 | 356 | Adrian Marcel Pate |
-| 102 | 350 | Tiff Vs Tiffany |
-| 103 | 350 | Shannon Matthew Byers |
+| 102 | 350 | Shannon Matthew Byers |
+| 103 | 350 | Tiff Vs Tiffany |
 | 104 | 348 | CeceGeGe |
 | 105 | 346 | Groovy Catcher |
 | 106 | 332 | Chauntee Alfrey-Cardinale |
@@ -157,8 +157,8 @@
 | 149 | 217 | Jess Bissett |
 | 150 | 216 | Marci Mize Fandrich |
 | 151 | 216 | Aaron Pitkin |
-| 152 | 214 | Jenny Hrndz |
-| 153 | 214 | Amy Fuller Heaton |
+| 152 | 214 | Amy Fuller Heaton |
+| 153 | 214 | Jenny Hrndz |
 | 154 | 214 | Leah Barnett |
 | 155 | 212 | Nikki Pags |
 | 156 | 212 | Krystal Gerstberger |
@@ -193,8 +193,8 @@
 | 185 | 181 | Nicholas Roddy |
 | 186 | 179 | Ashley Jones |
 | 187 | 179 | Daira Largen |
-| 188 | 178 | Ryan Williams |
-| 189 | 178 | AlsoJess |
+| 188 | 178 | AlsoJess |
+| 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Tasha Wesson-Torrence |
 | 192 | 175 | Connie Mohler-Fair |
@@ -265,8 +265,8 @@
 | 257 | 130 | Melissa Orth Hunter |
 | 258 | 129 | Juliana Dottore |
 | 259 | 129 | Samantha Lynn |
-| 260 | 128 | Jen Lewis |
-| 261 | 128 | MizzMonick Smith |
+| 260 | 128 | MizzMonick Smith |
+| 261 | 128 | Jen Lewis |
 | 262 | 127 | mzcatzy |
 | 263 | 126 | Pam Holt Powell |
 | 264 | 126 | RickyG |
@@ -319,8 +319,8 @@
 | 311 | 107 | Bouncy Blockbuilder |
 | 312 | 106 | Cheeky Snapper |
 | 313 | 106 | Saucy Buildout |
-| 314 | 105 | Emi |
-| 315 | 105 | FATTY |
+| 314 | 105 | FATTY |
+| 315 | 105 | Emi |
 | 316 | 104 | bean |
 | 317 | 104 | Ashley Rufus Bythcez |
 | 318 | 103 | Lisa Lisa |
