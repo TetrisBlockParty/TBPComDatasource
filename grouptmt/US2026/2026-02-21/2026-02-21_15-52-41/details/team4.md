@@ -141,11 +141,11 @@
 | 133 | 132 | Melissa Priest Sellers |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 124 | Leslie Nicole |
 | 143 | 123 | Angela Geist Jusinski |
@@ -208,8 +208,8 @@
 | 200 | 95 | Meagan Nicole |
 | 201 | 95 | Berklie Apedaile |
 | 202 | 94 | DonMega |
-| 203 | 94 | Kim Hunt |
-| 204 | 94 | Chastity Mitchell |
+| 203 | 94 | Chastity Mitchell |
+| 204 | 94 | Kim Hunt |
 | 205 | 93 | Matt Dell'Olio |
 | 206 | 92 | Lindsey Gonzalez |
 | 207 | 90 | Amy Suckarieh |

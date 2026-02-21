@@ -208,9 +208,9 @@
 | 200 | 94 | Brad MG |
 | 201 | 93 | Kayla Marie Stevenson |
 | 202 | 92 | Timothy Dew |
-| 203 | 91 | Sleepysloath5745 |
-| 204 | 91 | Owicked1 |
-| 205 | 90 | Grace Joanne Agnant |
+| 203 | 91 | Owicked1 |
+| 204 | 91 | Sleepysloath5745 |
+| 205 | 90 | John Kim |
 | 206 | 90 | Steve Schneider |
 | 207 | 90 | Grace Joanne Agnant |
 | 208 | 89 | Isodor |
@@ -297,7 +297,7 @@
 | 289 | 67 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 290 | 67 | Jasmine Riley |
 | 291 | 66 | Tiffany Daboss Seymour |
-| 292 | 66 | Dede |
+| 292 | 66 | Zappy Pivoty |
 | 293 | 66 | Al Smith Jr |
 | 294 | 66 | Dede |
 | 295 | 65 | OneCrazyGator |

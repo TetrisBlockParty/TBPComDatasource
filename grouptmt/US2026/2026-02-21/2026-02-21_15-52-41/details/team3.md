@@ -145,8 +145,8 @@
 | 137 | 211 | Katrina Schroeder |
 | 138 | 210 | Jenny Hrndz |
 | 139 | 208 | Jay Horn |
-| 140 | 207 | rnr junky |
-| 141 | 207 | Chris Bell |
+| 140 | 207 | Chris Bell |
+| 141 | 207 | rnr junky |
 | 142 | 206 | Chasity |
 | 143 | 202 | Twisty Brick LT |
 | 144 | 199 | joclisa |
@@ -167,8 +167,8 @@
 | 159 | 181 | Karon Griffin |
 | 160 | 181 | Aerian Preston |
 | 161 | 179 | Joye Sims Binion |
-| 162 | 179 | Ashley Jones |
-| 163 | 179 | Daira Largen |
+| 162 | 179 | Daira Largen |
+| 163 | 179 | Ashley Jones |
 | 164 | 178 | Khaleada McGill Banks |
 | 165 | 178 | Ryan Williams |
 | 166 | 178 | AlsoJess |
@@ -191,15 +191,15 @@
 | 183 | 160 | Tiffany Davie |
 | 184 | 159 | Jone |
 | 185 | 158 | Grams |
-| 186 | 157 | Patricia Gadsden |
-| 187 | 157 | Nicholas Roddy |
+| 186 | 157 | Nicholas Roddy |
+| 187 | 157 | Patricia Gadsden |
 | 188 | 156 | Bea Miles |
 | 189 | 153 | Beth Ingham |
 | 190 | 152 | Shiny Zonebuilder |
 | 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Alexis Taylor |
 | 197 | 149 | Desiree Gold |
@@ -270,8 +270,8 @@
 | 262 | 108 | Rachel Napper |
 | 263 | 108 | LaTanya GeminiondaRise Johnson |
 | 264 | 107 | Bouncy Blockbuilder |
-| 265 | 107 | Jumpy Wrecker |
-| 266 | 107 | Rachel |
+| 265 | 107 | Rachel |
+| 266 | 107 | Jumpy Wrecker |
 | 267 | 106 | Noettín Kan Zasnemoore |
 | 268 | 106 | Cheeky Snapper |
 | 269 | 105 | Emi |

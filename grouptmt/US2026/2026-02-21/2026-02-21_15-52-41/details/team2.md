@@ -211,8 +211,8 @@
 | 203 | 469 | Ashley Rose Frederick |
 | 204 | 467 | Scott Treadway |
 | 205 | 465 | Drwatson187 |
-| 206 | 464 | Ryan Gunther |
-| 207 | 464 | Ariel |
+| 206 | 464 | Ariel |
+| 207 | 464 | Ryan Gunther |
 | 208 | 463 | Sue Leard |
 | 209 | 463 | Osun Anuket Esu |
 | 210 | 460 | Cody Smith-Candelaria |
@@ -244,8 +244,8 @@
 | 236 | 405 | Christy Krissie |
 | 237 | 402 | Joshua Mandel |
 | 238 | 400 | Tammy Allen |
-| 239 | 400 | Rhonda Milstead |
-| 240 | 400 | Crystie Hicks |
+| 239 | 400 | Crystie Hicks |
+| 240 | 400 | Rhonda Milstead |
 | 241 | 397 | Ashley Guernsey-Martin |
 | 242 | 397 | Leslie Ann Carter |
 | 243 | 397 | coleksquad |
@@ -549,8 +549,8 @@
 | 541 | 188 | Seth Wrieden |
 | 542 | 187 | Josh Dill |
 | 543 | 186 | Joshua Mullings |
-| 544 | 185 | Lively Edgepiece |
-| 545 | 185 | Lively Catcher |
+| 544 | 185 | Lively Catcher |
+| 545 | 185 | Lively Edgepiece |
 | 546 | 185 | Jason H Baker |
 | 547 | 185 | AgileDragon |
 | 548 | 184 | Tina Blessed Cage |
