@@ -33,8 +33,8 @@
 | 25 | 546 | Dolores Falco |
 | 26 | 528 | Natasha Jones |
 | 27 | 507 | Stephanie Allmon |
-| 28 | 476 | Jennifer Willis |
-| 29 | 476 | Susan Valentino |
+| 28 | 476 | Susan Valentino |
+| 29 | 476 | Jennifer Willis |
 | 30 | 466 | Kay |
 | 31 | 456 | MissTaylor |
 | 32 | 446 | Kathryn Keenan-Taggart |

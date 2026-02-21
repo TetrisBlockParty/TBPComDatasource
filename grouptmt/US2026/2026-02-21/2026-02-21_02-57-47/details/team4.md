@@ -63,8 +63,8 @@
 | 55 | 125 | Lauren Scott |
 | 56 | 124 | Jay28 |
 | 57 | 123 | Nugget |
-| 58 | 122 | Sherri |
-| 59 | 122 | Shelly Chandler |
+| 58 | 122 | Shelly Chandler |
+| 59 | 122 | Sherri |
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
@@ -83,8 +83,8 @@
 | 75 | 103 | Sam Middleton |
 | 76 | 102 | Faja |
 | 77 | 101 | Michelle Morris |
-| 78 | 100 | Jeff Brian Gates |
-| 79 | 100 | Stephme310 |
+| 78 | 100 | Stephme310 |
+| 79 | 100 | Jeff Brian Gates |
 | 80 | 99 | YoMomma |
 | 81 | 98 | Duck |
 | 82 | 98 | Allen Lloyd |
@@ -98,7 +98,7 @@
 | 90 | 88 | Heather Tushner |
 | 91 | 87 | Malakai Darien Fox |
 | 92 | 87 | Jen Caldwell |
-| 93 | 87 | Malakai Darien Fox |
+| 93 | 87 | Lauren Lamb |
 | 94 | 86 | amy |
 | 95 | 85 | Megan Cutshaw |
 | 96 | 85 | Mimi |
