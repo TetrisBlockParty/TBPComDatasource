@@ -85,8 +85,8 @@
 | 77 | 207 | Jae Job |
 | 78 | 205 | Sarah Neathery |
 | 79 | 204 | Brittney Orengo |
-| 80 | 198 | Mike Solo |
-| 81 | 198 | Dustee Craddock-Harrison |
+| 80 | 198 | Dustee Craddock-Harrison |
+| 81 | 198 | Mike Solo |
 | 82 | 194 | Jamie Mann-Deichmann |
 | 83 | 193 | Monica Daley |
 | 84 | 191 | loulou |
@@ -101,8 +101,8 @@
 | 93 | 177 | Andria Lynn |
 | 94 | 176 | Misty Hollibaugh |
 | 95 | 174 | Zethra Prenisha Rahming |
-| 96 | 173 | Justin Hannigan |
-| 97 | 173 | Jeff Brian Gates |
+| 96 | 173 | Jeff Brian Gates |
+| 97 | 173 | Justin Hannigan |
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 167 | Denise Carlson |
@@ -161,8 +161,8 @@
 | 153 | 119 | Gwendolyn Pitcairn |
 | 154 | 118 | Leslie Nicole |
 | 155 | 116 | Diana Houts |
-| 156 | 115 | Jayk |
-| 157 | 115 | Ultramarine |
+| 156 | 115 | Ultramarine |
+| 157 | 115 | Jayk |
 | 158 | 113 | Adam Randall |
 | 159 | 112 | Austin Owens |
 | 160 | 112 | Bryan Hodgins |
@@ -172,8 +172,8 @@
 | 164 | 110 | AyeKay |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
-| 167 | 107 | Rafael Valentin |
-| 168 | 107 | Marcus Todd |
+| 167 | 107 | Marcus Todd |
+| 168 | 107 | Rafael Valentin |
 | 169 | 106 | Avy Absol |
 | 170 | 105 | Sam Middleton |
 | 171 | 105 | TheNeesh50 |

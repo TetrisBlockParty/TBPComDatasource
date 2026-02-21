@@ -153,8 +153,8 @@
 | 145 | 193 | Duane Bright |
 | 146 | 191 | Giddy Twistbuilder |
 | 147 | 191 | Scott Carleton |
-| 148 | 189 | Staci George Fitzsimmons |
-| 149 | 189 | Sissy Lowery Davis |
+| 148 | 189 | Sissy Lowery Davis |
+| 149 | 189 | Staci George Fitzsimmons |
 | 150 | 189 | Fallorina Susana |
 | 151 | 188 | Angie Harper |
 | 152 | 184 | Jennie Beranek |
