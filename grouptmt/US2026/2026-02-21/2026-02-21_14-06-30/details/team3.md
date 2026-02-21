@@ -37,8 +37,8 @@
 | 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Shane Wilson Jr. |
-| 33 | 810 | Zippy Strikesnap |
+| 32 | 810 | Zippy Strikesnap |
+| 33 | 810 | Shane Wilson Jr. |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 714 | Amber Jones |

@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -82,8 +82,8 @@
 | 74 | 195 | Dustee Craddock-Harrison |
 | 75 | 194 | Jamie Mann-Deichmann |
 | 76 | 187 | Swanky Fitline |
-| 77 | 185 | Andy Cabral |
-| 78 | 185 | loulou |
+| 77 | 185 | loulou |
+| 78 | 185 | Andy Cabral |
 | 79 | 184 | Dizzy Tiley |
 | 80 | 182 | shar |
 | 81 | 180 | Leah Kutz Zirbel |
@@ -134,8 +134,8 @@
 | 126 | 126 | Klo |
 | 127 | 126 | TinyLegoRose |
 | 128 | 124 | Allen Lloyd |
-| 129 | 123 | Angela Geist Jusinski |
-| 130 | 123 | Cherrish Duren |
+| 129 | 123 | Cherrish Duren |
+| 130 | 123 | Angela Geist Jusinski |
 | 131 | 122 | Sherri |
 | 132 | 121 | Smiley Tiltbuilder |
 | 133 | 121 | Zany Shatterer |
@@ -146,8 +146,8 @@
 | 138 | 119 | Kristin Manee |
 | 139 | 118 | Leslie Nicole |
 | 140 | 116 | Diana Houts |
-| 141 | 115 | Jayk |
-| 142 | 115 | Ultramarine |
+| 141 | 115 | Ultramarine |
+| 142 | 115 | Jayk |
 | 143 | 113 | Adam Randall |
 | 144 | 113 | Andria Lynn |
 | 145 | 112 | Jackie Marie |
@@ -157,8 +157,8 @@
 | 149 | 111 | Lazy Blocker |
 | 150 | 111 | ĥuf |
 | 151 | 111 | Gwendolyn Pitcairn |
-| 152 | 110 | YoMomma |
-| 153 | 110 | H.R. Block |
+| 152 | 110 | H.R. Block |
+| 153 | 110 | YoMomma |
 | 154 | 108 | Ali Ian |
 | 155 | 107 | Marcus Todd |
 | 156 | 106 | Avy Absol |
@@ -189,7 +189,7 @@
 | 181 | 95 | Victoria Faniel |
 | 182 | 94 | DonMega |
 | 183 | 94 | Kim Hunt |
-| 184 | 94 | DonMega |
+| 184 | 94 | Chastity Mitchell |
 | 185 | 93 | Zesty Twistbuilder |
 | 186 | 92 | Misty Hollibaugh |
 | 187 | 90 | Lauren Lamb |
