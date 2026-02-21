@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | Jonathan Kimbrough |
-| 50 | 411 | TeeJ |
+| 49 | 411 | TeeJ |
+| 50 | 411 | Jonathan Kimbrough |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -99,7 +99,7 @@
 | 91 | 205 | Sarah Neathery |
 | 92 | 204 | Brittney Orengo |
 | 93 | 202 | shar |
-| 94 | 202 | Dustee Craddock-Harrison |
+| 94 | 202 | Monica Daley |
 | 95 | 200 | Holly Jolly |
 | 96 | 198 | Mike Solo |
 | 97 | 198 | Denise Carlson |
@@ -108,8 +108,8 @@
 | 100 | 194 | Zany Twisterfit |
 | 101 | 192 | Crystal Carroll |
 | 102 | 192 | Shauna Havard |
-| 103 | 191 | Melvin Baird |
-| 104 | 191 | loulou |
+| 103 | 191 | loulou |
+| 104 | 191 | Melvin Baird |
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
@@ -398,13 +398,13 @@
 | 390 | 61 | Chilly Crasher |
 | 391 | 61 | Ayanna James |
 | 392 | 60 | Joyce Fees |
-| 393 | 60 | Gdiguy |
-| 394 | 60 | Amanda Maciel Clarke |
-| 395 | 60 | Kris Zulch |
-| 396 | 60 | Groovy Gridlock |
-| 397 | 59 | Ziggy |
+| 393 | 60 | Groovy Gridlock |
+| 394 | 60 | Gdiguy |
+| 395 | 60 | Amanda Maciel Clarke |
+| 396 | 60 | Kris Zulch |
+| 397 | 59 | Amy Sanford |
 | 398 | 59 | Jasmine S Caldwell |
-| 399 | 59 | Amy Sanford |
+| 399 | 59 | Ziggy |
 | 400 | 59 | Albert Walker III |
 | 401 | 58 | Angela Srubar-Norman |
 | 402 | 58 | Paige Kittles |

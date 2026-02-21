@@ -271,8 +271,8 @@
 | 263 | 129 | Juliana Dottore |
 | 264 | 129 | Samantha Lynn |
 | 265 | 128 | Beppy |
-| 266 | 128 | MizzMonick Smith |
-| 267 | 128 | Jen Lewis |
+| 266 | 128 | Jen Lewis |
+| 267 | 128 | MizzMonick Smith |
 | 268 | 127 | mzcatzy |
 | 269 | 126 | Pam Holt Powell |
 | 270 | 126 | RickyG |
