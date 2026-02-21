@@ -155,8 +155,8 @@
 | 147 | 228 | Morgan Martinez |
 | 148 | 226 | Grego Daniel |
 | 149 | 223 | Jeana Gilbert |
-| 150 | 222 | Hoppy Buildout |
-| 151 | 222 | Jimmie Clemons |
+| 150 | 222 | Jimmie Clemons |
+| 151 | 222 | Hoppy Buildout |
 | 152 | 220 | Katrina Schroeder |
 | 153 | 219 | Shunta Jacobs |
 | 154 | 218 | Rochelle Hazelett |
@@ -175,8 +175,8 @@
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
 | 169 | 197 | Staci George Fitzsimmons |
-| 170 | 195 | Nicha Hooker |
-| 171 | 195 | Michael Lucado |
+| 170 | 195 | Michael Lucado |
+| 171 | 195 | Nicha Hooker |
 | 172 | 194 | glichmod |
 | 173 | 193 | Clever Shiftsnap |
 | 174 | 193 | Duane Bright |

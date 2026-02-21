@@ -405,8 +405,8 @@
 | 397 | 325 | Daniel Amos |
 | 398 | 325 | Lewis Sturgeon |
 | 399 | 323 | Jroc |
-| 400 | 323 | KhaosLord |
-| 401 | 323 | Briana Alexander |
+| 400 | 323 | Briana Alexander |
+| 401 | 323 | KhaosLord |
 | 402 | 322 | NanDa Cruzan VI |
 | 403 | 321 | Tamara Bailey |
 | 404 | 319 | Rose Fx |
@@ -476,8 +476,8 @@
 | 468 | 277 | Anthony Mignacca |
 | 469 | 276 | Vonceial Boone |
 | 470 | 276 | Lindsey Leigh |
-| 471 | 274 | August Hale |
-| 472 | 274 | Jamie Stevey |
+| 471 | 274 | Jamie Stevey |
+| 472 | 274 | August Hale |
 | 473 | 274 | Michelle Sager |
 | 474 | 273 | Jenna Nance |
 | 475 | 273 | Candy Pitts |

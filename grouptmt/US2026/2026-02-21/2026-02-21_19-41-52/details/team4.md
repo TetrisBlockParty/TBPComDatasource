@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -98,8 +98,8 @@
 | 90 | 210 | Damn Libra |
 | 91 | 205 | Sarah Neathery |
 | 92 | 204 | Brittney Orengo |
-| 93 | 202 | Monica Daley |
-| 94 | 202 | shar |
+| 93 | 202 | shar |
+| 94 | 202 | Monica Daley |
 | 95 | 200 | Holly Jolly |
 | 96 | 198 | Denise Carlson |
 | 97 | 198 | Mike Solo |
@@ -133,13 +133,13 @@
 | 125 | 164 | Chaz Duncan |
 | 126 | 164 | 030Synner |
 | 127 | 160 | ZeeZee |
-| 128 | 157 | quicksand420 |
-| 129 | 157 | Jenna McGeorge |
+| 128 | 157 | Jenna McGeorge |
+| 129 | 157 | quicksand420 |
 | 130 | 156 | Jessica Bohlken |
 | 131 | 156 | Holly |
 | 132 | 153 | Empress Oasis |
-| 133 | 151 | Bethany Ison |
-| 134 | 151 | Dana Scott |
+| 133 | 151 | Dana Scott |
+| 134 | 151 | Bethany Ison |
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
