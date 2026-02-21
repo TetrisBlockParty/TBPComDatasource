@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -216,9 +216,9 @@
 | 208 | 110 | Danielle Weikel |
 | 209 | 109 | Brave Brickster |
 | 210 | 109 | Fredd Thomas |
-| 211 | 109 | Brave Brickster |
-| 212 | 108 | Rachel Napper |
-| 213 | 108 | LaTanya GeminiondaRise Johnson |
+| 211 | 109 | Diana Ibarra |
+| 212 | 108 | LaTanya GeminiondaRise Johnson |
+| 213 | 108 | Rachel Napper |
 | 214 | 107 | Sherry Ogden |
 | 215 | 106 | Desiree Gold |
 | 216 | 106 | Noettín Kan Zasnemoore |

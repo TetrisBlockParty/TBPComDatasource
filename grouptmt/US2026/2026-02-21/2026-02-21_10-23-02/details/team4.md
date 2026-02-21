@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -171,8 +171,8 @@
 | 163 | 94 | Chastity Mitchell |
 | 164 | 93 | Zesty Twistbuilder |
 | 165 | 91 | Andy Cabral |
-| 166 | 90 | No Strings Attached Ra |
-| 167 | 90 | Judy Cox |
+| 166 | 90 | Judy Cox |
+| 167 | 90 | No Strings Attached Ra |
 | 168 | 89 | mike |
 | 169 | 89 | shark tato |
 | 170 | 88 | Kesha Brady |

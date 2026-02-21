@@ -36,8 +36,8 @@
 | 28 | 399 | Drew Magnus |
 | 29 | 380 | Robert Beck |
 | 30 | 365 | Karin Gillen |
-| 31 | 348 | Stef Hu |
-| 32 | 348 | Chipper Gridlock |
+| 31 | 348 | Chipper Gridlock |
+| 32 | 348 | Stef Hu |
 | 33 | 338 | Stephanie Zahn |
 | 34 | 301 | Zerin Graham |
 | 35 | 298 | Angel Fowler |
@@ -96,8 +96,8 @@
 | 88 | 155 | David DeSantis |
 | 89 | 153 | Shiny Gridmatch |
 | 90 | 152 | Jacqueline Unique |
-| 91 | 149 | Arianna O'Brien |
-| 92 | 149 | Tana |
+| 91 | 149 | Tana |
+| 92 | 149 | Arianna O'Brien |
 | 93 | 148 | Shauntina Burke |
 | 94 | 147 | Veronica Eve |
 | 95 | 145 | BigWeenie69 |

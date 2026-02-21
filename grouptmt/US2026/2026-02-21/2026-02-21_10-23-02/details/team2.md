@@ -107,8 +107,8 @@
 | 99 | 674 | Dannette Goldberg-Richards |
 | 100 | 672 | Wendy Harder Gage |
 | 101 | 665 | Dineisha Carpenter |
-| 102 | 658 | Vistabrat |
-| 103 | 658 | Pacynthia Williams |
+| 102 | 658 | Pacynthia Williams |
+| 103 | 658 | Vistabrat |
 | 104 | 653 | Becky Weeks-Garry |
 | 105 | 649 | Stephanie Chapman |
 | 106 | 649 | Anna Edwards |
@@ -355,8 +355,8 @@
 | 347 | 240 | Angie Marie |
 | 348 | 239 | Roger Grabbit |
 | 349 | 238 | Cheery Matchzone |
-| 350 | 236 | Frisky Riserbuilder |
-| 351 | 236 | snkylnk |
+| 350 | 236 | snkylnk |
+| 351 | 236 | Frisky Riserbuilder |
 | 352 | 236 | Niceday |
 | 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
@@ -375,8 +375,8 @@
 | 367 | 227 | Demeka Dangerous-kisses Johnson |
 | 368 | 227 | JacJac |
 | 369 | 227 | Sanaa Nounoussa |
-| 370 | 226 | Juliana Marques Do Nascimento Gordy |
-| 371 | 226 | Mary Marie |
+| 370 | 226 | Mary Marie |
+| 371 | 226 | Juliana Marques Do Nascimento Gordy |
 | 372 | 226 | Leslie Ann Carter |
 | 373 | 223 | Kristi Biddinger |
 | 374 | 223 | LegoCarpet |
