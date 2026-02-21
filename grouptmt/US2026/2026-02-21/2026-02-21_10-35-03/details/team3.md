@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 339 | Mendoza Lee Christy |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
@@ -115,8 +115,8 @@
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
 | 109 | 212 | Kristie McFarland |
-| 110 | 211 | Shunta Jacobs |
-| 111 | 211 | Katrina Schroeder |
+| 110 | 211 | Katrina Schroeder |
+| 111 | 211 | Shunta Jacobs |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
 | 114 | 204 | Aaron Pitkin |
@@ -127,8 +127,8 @@
 | 119 | 195 | Nicha Hooker |
 | 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Scott Carleton |
 | 126 | 189 | Fallorina Susana |

@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -345,8 +345,8 @@
 | 337 | 247 | Fancy Twister |
 | 338 | 247 | Andrea Devery Beck |
 | 339 | 246 | Kathryn Townsley |
-| 340 | 246 | Stephanie Lumanlan |
-| 341 | 246 | Ashley Lopez |
+| 340 | 246 | Ashley Lopez |
+| 341 | 246 | Stephanie Lumanlan |
 | 342 | 245 | Rachael Senard |
 | 343 | 245 | Sanaa Nounoussa |
 | 344 | 244 | Aimee Byrom |
@@ -417,8 +417,8 @@
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |
-| 412 | 196 | Alexandra Reese |
-| 413 | 196 | Cass Shirley |
+| 412 | 196 | Cass Shirley |
+| 413 | 196 | Alexandra Reese |
 | 414 | 196 | Besma Ao |
 | 415 | 195 | Emily Lyric Converse |
 | 416 | 195 | Snappy Shatterfit |

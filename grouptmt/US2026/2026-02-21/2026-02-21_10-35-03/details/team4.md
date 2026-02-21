@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -86,14 +86,14 @@
 | 78 | 165 | Casey Grabner |
 | 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Holly Jolly |
-| 82 | 159 | Justin Hannigan |
+| 81 | 159 | Justin Hannigan |
+| 82 | 159 | Holly Jolly |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
 | 86 | 150 | ZeeZee |
-| 87 | 147 | 030Synner |
-| 88 | 147 | Jay28 |
+| 87 | 147 | Jay28 |
+| 88 | 147 | 030Synner |
 | 89 | 146 | Peachy Fall |
 | 90 | 141 | Malakai Darien Fox |
 | 91 | 140 | Shannon Ferrari |
@@ -259,8 +259,8 @@
 | 251 | 64 | Joseph Edmonson |
 | 252 | 64 | Sarah Brown |
 | 253 | 64 | Mousey406 |
-| 254 | 63 | Cristy Duerksen |
-| 255 | 63 | Cheery Risebuilder |
+| 254 | 63 | Gilles Lanctot |
+| 255 | 63 | Cristy Duerksen |
 | 256 | 63 | Zesty Snapmatch |
 | 257 | 63 | Cheery Risebuilder |
 | 258 | 62 | Glitzy Crasher |
