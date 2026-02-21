@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -95,8 +95,8 @@
 | 87 | 213 | Billie Dawn Sparks |
 | 88 | 212 | Mandyy Rae |
 | 89 | 212 | Jaimie Lynn |
-| 90 | 211 | Marianita Garcia |
-| 91 | 211 | june october |
+| 90 | 211 | june october |
+| 91 | 211 | Marianita Garcia |
 | 92 | 210 | Ly Phethmany |
 | 93 | 210 | Tipsy Strikerpiece |
 | 94 | 205 | Frothy Pattern |
@@ -108,14 +108,14 @@
 | 100 | 193 | Lachelle Dillon |
 | 101 | 192 | Shaykmia |
 | 102 | 191 | Diane Byrd |
-| 103 | 190 | Thorne Shumate |
-| 104 | 190 | Sweetts |
+| 103 | 190 | Sweetts |
+| 104 | 190 | Thorne Shumate |
 | 105 | 189 | Happy Basegrid |
 | 106 | 188 | Sam Williams |
 | 107 | 186 | Jennifer Olewnik Soborowski |
 | 108 | 185 | Ash Galvan |
-| 109 | 182 | Spunky Piecebuilder |
-| 110 | 182 | cc |
+| 109 | 182 | cc |
+| 110 | 182 | Spunky Piecebuilder |
 | 111 | 180 | Erez Yosef |
 | 112 | 179 | Danielle Little-Daugherty |
 | 113 | 178 | Chad Atchley |
@@ -140,8 +140,8 @@
 | 132 | 152 | Jacqueline Unique |
 | 133 | 152 | Speedy Snapfall |
 | 134 | 150 | Adele Rahman |
-| 135 | 149 | Jennifer ManWarren |
-| 136 | 149 | Arianna O'Brien |
+| 135 | 149 | Arianna O'Brien |
+| 136 | 149 | Jennifer ManWarren |
 | 137 | 148 | Shauntina Burke |
 | 138 | 147 | Leslie Bush Yarbrough |
 | 139 | 146 | Christy Jones |

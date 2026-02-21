@@ -170,8 +170,8 @@
 | 162 | 195 | Michael Lucado |
 | 163 | 194 | glichmod |
 | 164 | 193 | Duane Bright |
-| 165 | 193 | Stephanie Burtin |
-| 166 | 193 | Clever Shiftsnap |
+| 165 | 193 | Clever Shiftsnap |
+| 166 | 193 | Stephanie Burtin |
 | 167 | 191 | Ashley Muncey |
 | 168 | 191 | Scott Carleton |
 | 169 | 191 | Giddy Twistbuilder |
@@ -232,8 +232,8 @@
 | 224 | 148 | Jennifer Alvey |
 | 225 | 147 | Ashley Lynn Marchese |
 | 226 | 147 | Cheryl Hinch Tenbrook |
-| 227 | 146 | Carrie Huskey |
-| 228 | 146 | Latoya Mayne |
+| 227 | 146 | Latoya Mayne |
+| 228 | 146 | Carrie Huskey |
 | 229 | 146 | Denita Mungro |
 | 230 | 145 | Emma |
 | 231 | 145 | Bryan Byrd |

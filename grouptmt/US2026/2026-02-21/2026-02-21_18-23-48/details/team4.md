@@ -162,8 +162,8 @@
 | 154 | 131 | Diana Houts |
 | 155 | 131 | Angela Geist Jusinski |
 | 156 | 130 | Casey Jeffcoat |
-| 157 | 128 | Stephme310 |
-| 158 | 128 | Rio Rocha |
+| 157 | 128 | Rio Rocha |
+| 158 | 128 | Stephme310 |
 | 159 | 127 | Dreamy Snapgrid |
 | 160 | 126 | TinyLegoRose |
 | 161 | 125 | AyeKay |

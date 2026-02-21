@@ -136,12 +136,12 @@
 | 128 | 720 | Mischelle Clay |
 | 129 | 714 | Ariel |
 | 130 | 709 | Jerilyn Andrina |
-| 131 | 705 | Nika Bee |
-| 132 | 705 | Roger Grabbit |
+| 131 | 705 | Roger Grabbit |
+| 132 | 705 | Nika Bee |
 | 133 | 704 | Nerdy Clearfit |
 | 134 | 700 | Vincent Petrella |
-| 135 | 700 | Rosemadder |
-| 136 | 700 | Beverly Owens |
+| 135 | 700 | Beverly Owens |
+| 136 | 700 | Rosemadder |
 | 137 | 698 | Lola Contreras |
 | 138 | 697 | Real Ri |
 | 139 | 694 | Vo'Landa Reels |
@@ -198,12 +198,12 @@
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |
 | 192 | 527 | Adira Brown |
-| 193 | 526 | Ashley Guernsey-Martin |
-| 194 | 526 | April Dawn Gussler |
-| 195 | 525 | Tommy Tha Boss Gunz |
-| 196 | 525 | Desiree Anderson |
-| 197 | 522 | Slip |
-| 198 | 522 | Mema |
+| 193 | 526 | April Dawn Gussler |
+| 194 | 526 | Ashley Guernsey-Martin |
+| 195 | 525 | Desiree Anderson |
+| 196 | 525 | Tommy Tha Boss Gunz |
+| 197 | 522 | Mema |
+| 198 | 522 | Slip |
 | 199 | 521 | Joce Lynn |
 | 200 | 519 | Rob Brown |
 | 201 | 516 | Missie Lawson Gebhardt |
@@ -212,8 +212,8 @@
 | 204 | 511 | Ramone Armstrong |
 | 205 | 511 | Dizzy Zone |
 | 206 | 511 | Laura Mclean |
-| 207 | 510 | Cheech Dta |
-| 208 | 510 | Lisa Ongtowasruk |
+| 207 | 510 | Lisa Ongtowasruk |
+| 208 | 510 | Cheech Dta |
 | 209 | 509 | Kelli Wells |
 | 210 | 504 | Cherica Taylor |
 | 211 | 503 | AISlop |
