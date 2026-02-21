@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -170,8 +170,8 @@
 | 162 | 495 | Poppy Snap |
 | 163 | 488 | Teresa Gillmore |
 | 164 | 486 | MrsCandyfine As Wine Truss |
-| 165 | 485 | Gene Mills |
-| 166 | 485 | Leah Keesling |
+| 165 | 485 | Leah Keesling |
+| 166 | 485 | Gene Mills |
 | 167 | 484 | Suki Kaur |
 | 168 | 483 | Jordan Kaiser |
 | 169 | 482 | Eckoman518 |
@@ -185,8 +185,8 @@
 | 177 | 456 | Drwatson187 |
 | 178 | 454 | Casey Schumacher |
 | 179 | 453 | Em Chen |
-| 180 | 453 | Mischelle Clay |
-| 181 | 453 | Osun Anuket Esu |
+| 180 | 453 | Osun Anuket Esu |
+| 181 | 453 | Mischelle Clay |
 | 182 | 452 | Alezandra Smith |
 | 183 | 450 | Giggy Blocker |
 | 184 | 450 | Cheech Dta |
@@ -205,8 +205,8 @@
 | 197 | 409 | Sparkles |
 | 198 | 406 | Erin StFrancis |
 | 199 | 402 | Joshua Mandel |
-| 200 | 400 | Rhonda Milstead |
-| 201 | 400 | Crystie Hicks |
+| 200 | 400 | Crystie Hicks |
+| 201 | 400 | Rhonda Milstead |
 | 202 | 400 | Tammy Allen |
 | 203 | 397 | Ashley Guernsey-Martin |
 | 204 | 397 | coleksquad |
@@ -403,8 +403,8 @@
 | 395 | 236 | Niceday |
 | 396 | 236 | Julio A Laracuente |
 | 397 | 235 | Kimberly Mitchell |
-| 398 | 234 | Manny Trindade |
-| 399 | 234 | Jennifer Leigh |
+| 398 | 234 | Jennifer Leigh |
+| 399 | 234 | Manny Trindade |
 | 400 | 234 | Jaybee Nguyen |
 | 401 | 233 | Mema |
 | 402 | 233 | Jumpy Gridclear |
@@ -418,8 +418,8 @@
 | 410 | 229 | Kimmy Newman |
 | 411 | 228 | Michelle Sager |
 | 412 | 227 | JacJac |
-| 413 | 226 | Juliana Marques Do Nascimento Gordy |
-| 414 | 226 | Mary Marie |
+| 413 | 226 | Mary Marie |
+| 414 | 226 | Juliana Marques Do Nascimento Gordy |
 | 415 | 226 | Leslie Ann Carter |
 | 416 | 224 | Justin Hines |
 | 417 | 223 | LegoCarpet |
@@ -769,8 +769,8 @@
 | 761 | 123 | Cool Slam |
 | 762 | 123 | Renee Griffith |
 | 763 | 122 | Chere Kelly |
-| 764 | 122 | Shakena Tuggle |
-| 765 | 122 | Cassie Newton |
+| 764 | 122 | Cassie Newton |
+| 765 | 122 | Shakena Tuggle |
 | 766 | 121 | Pam Doughty |
 | 767 | 121 | g |
 | 768 | 120 | Lush Link |
@@ -991,7 +991,7 @@
 | 983 | 97 | Tj Ball |
 | 984 | 97 | Mighty Towerer |
 | 985 | 97 | William Bresee |
-| 986 | 97 | Nat |
+| 986 | 97 | Pixie Stixs |
 | 987 | 97 | Mikey |
 | 988 | 97 | Nat |
 | 989 | 96 | Isabela Shaw |
@@ -1056,10 +1056,10 @@
 | 1048 | 91 | Moist_B-hole |
 | 1049 | 91 | Kayla Southern |
 | 1050 | 91 | Sienna Parsons |
-| 1051 | 90 | Apollo |
-| 1052 | 90 | Nicole Sanqui |
-| 1053 | 90 | Adria Meeks |
-| 1054 | 90 | Philbro114 |
+| 1051 | 90 | Philbro114 |
+| 1052 | 90 | Apollo |
+| 1053 | 90 | Nicole Sanqui |
+| 1054 | 90 | Adria Meeks |
 | 1055 | 90 | Wedance Fong |
 | 1056 | 90 | Lakie Fogle |
 | 1057 | 90 | Dude |

@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Nicha Hooker |
-| 125 | 195 | Jenny Hrndz |
+| 124 | 195 | Jenny Hrndz |
+| 125 | 195 | Nicha Hooker |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -143,8 +143,8 @@
 | 135 | 184 | Jennie Beranek |
 | 136 | 182 | Hyper Matchzone |
 | 137 | 182 | Ashley Tookes |
-| 138 | 179 | Daira Largen |
-| 139 | 179 | Joye Sims Binion |
+| 138 | 179 | Joye Sims Binion |
+| 139 | 179 | Daira Largen |
 | 140 | 178 | AlsoJess |
 | 141 | 178 | Khaleada McGill Banks |
 | 142 | 176 | Ryan Williams |
@@ -200,8 +200,8 @@
 | 192 | 128 | David Bardo |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
-| 195 | 125 | Shimika Enay Wallace |
-| 196 | 125 | Felicia Doxey |
+| 195 | 125 | Felicia Doxey |
+| 196 | 125 | Shimika Enay Wallace |
 | 197 | 124 | Cesar Barraza |
 | 198 | 123 | Marci Mize Fandrich |
 | 199 | 123 | Terry Jo Jones |

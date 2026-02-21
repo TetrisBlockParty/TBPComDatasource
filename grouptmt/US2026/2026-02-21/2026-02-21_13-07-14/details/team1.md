@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Jen Sartain |
-| 23 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Amanda Summey Schoemer |
+| 23 | 511 | Jen Sartain |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -51,8 +51,8 @@
 | 43 | 291 | Nancy Green |
 | 44 | 277 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Theo Pinnow |
-| 47 | 274 | Sweet Baker |
+| 46 | 274 | Sweet Baker |
+| 47 | 274 | Theo Pinnow |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
@@ -69,8 +69,8 @@
 | 61 | 212 | Jaimie Lynn |
 | 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Mandyy Rae |
-| 65 | 208 | Carrie Beck Geartz |
+| 64 | 208 | Carrie Beck Geartz |
+| 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
 | 67 | 204 | Ly Phethmany |
 | 68 | 204 | Lexuriuos Lifestlye |
@@ -84,14 +84,14 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Thorne Shumate |
-| 80 | 190 | Sweetts |
+| 79 | 190 | Sweetts |
+| 80 | 190 | Thorne Shumate |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | june october |
-| 85 | 173 | Frothy Pattern |
-| 86 | 173 | Jennifer Olewnik Soborowski |
+| 84 | 173 | Jennifer Olewnik Soborowski |
+| 85 | 173 | june october |
+| 86 | 173 | Frothy Pattern |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Redlicious 1 |
 | 89 | 166 | Rico Rico |
