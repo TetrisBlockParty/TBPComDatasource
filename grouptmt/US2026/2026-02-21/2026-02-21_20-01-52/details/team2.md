@@ -153,8 +153,8 @@
 | 145 | 705 | Nika Bee |
 | 146 | 704 | Nerdy Clearfit |
 | 147 | 700 | Vincent Petrella |
-| 148 | 700 | Beverly Owens |
-| 149 | 700 | Rosemadder |
+| 148 | 700 | Rosemadder |
+| 149 | 700 | Beverly Owens |
 | 150 | 698 | Lola Contreras |
 | 151 | 697 | Real Ri |
 | 152 | 695 | Debra Williams |
@@ -481,8 +481,8 @@
 | 473 | 280 | Giddy Gridclear |
 | 474 | 280 | Lonne Emade |
 | 475 | 279 | Glitzy Stackzone |
-| 476 | 278 | Ray Ray Prado |
-| 477 | 278 | Demeka Dangerous-kisses Johnson |
+| 476 | 278 | Demeka Dangerous-kisses Johnson |
+| 477 | 278 | Ray Ray Prado |
 | 478 | 277 | Anthony Mignacca |
 | 479 | 276 | Spunkysmom |
 | 480 | 276 | Vonceial Boone |

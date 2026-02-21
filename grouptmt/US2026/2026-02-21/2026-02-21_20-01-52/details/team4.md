@@ -131,8 +131,8 @@
 | 123 | 173 | blockstar |
 | 124 | 173 | Ren Mc |
 | 125 | 170 | Girl |
-| 126 | 164 | ThaEviLJeNiuZ |
-| 127 | 164 | 030Synner |
+| 126 | 164 | 030Synner |
+| 127 | 164 | ThaEviLJeNiuZ |
 | 128 | 160 | ZeeZee |
 | 129 | 158 | Shane Kalamata Platoon |
 | 130 | 157 | quicksand420 |

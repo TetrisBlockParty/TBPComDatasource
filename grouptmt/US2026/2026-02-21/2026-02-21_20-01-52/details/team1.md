@@ -104,8 +104,8 @@
 | 96 | 222 | Kristen Gideon |
 | 97 | 214 | Billie Dawn Sparks |
 | 98 | 213 | Lexuriuos Lifestlye |
-| 99 | 212 | Jaimie Lynn |
-| 100 | 212 | Mandyy Rae |
+| 99 | 212 | Mandyy Rae |
+| 100 | 212 | Jaimie Lynn |
 | 101 | 211 | Marianita Garcia |
 | 102 | 210 | Ly Phethmany |
 | 103 | 204 | Ananda Mendez |
@@ -116,9 +116,9 @@
 | 108 | 193 | Lachelle Dillon |
 | 109 | 192 | Shaykmia |
 | 110 | 191 | Diane Byrd |
-| 111 | 190 | Gracie |
-| 112 | 190 | Thorne Shumate |
-| 113 | 190 | Sweetts |
+| 111 | 190 | Thorne Shumate |
+| 112 | 190 | Sweetts |
+| 113 | 190 | Gracie |
 | 114 | 189 | Happy Basegrid |
 | 115 | 188 | Sam Williams |
 | 116 | 187 | Plucky Ziggy |
@@ -162,8 +162,8 @@
 | 154 | 146 | Christy Jones |
 | 155 | 145 | Agustin Duarte Orozco |
 | 156 | 145 | Angela Fairbank |
-| 157 | 144 | Gary Gobin |
-| 158 | 144 | femmefatale |
+| 157 | 144 | femmefatale |
+| 158 | 144 | Gary Gobin |
 | 159 | 143 | Sarah Marie |
 | 160 | 142 | Colleen Wise |
 | 161 | 141 | Blaire Bruckoff |
@@ -195,8 +195,8 @@
 | 187 | 122 | Melissa Lemmon |
 | 188 | 122 | Margo Wagner |
 | 189 | 121 | April Carroll |
-| 190 | 120 | Alenoush Karimian |
-| 191 | 120 | Kimmie Kimms |
+| 190 | 120 | Kimmie Kimms |
+| 191 | 120 | Alenoush Karimian |
 | 192 | 119 | Tater |
 | 193 | 118 | SavageBooty98 |
 | 194 | 117 | Larry Tilton |
@@ -229,8 +229,8 @@
 | 221 | 106 | Chantelle Ceno |
 | 222 | 105 | J.F. Fields |
 | 223 | 105 | Ty Brown |
-| 224 | 105 | Funky Piecebuilder |
-| 225 | 105 | Brad MG |
+| 224 | 105 | Brad MG |
+| 225 | 105 | Funky Piecebuilder |
 | 226 | 104 | Bindi |
 | 227 | 104 | Charla Pross-Fugleberg |
 | 228 | 103 | Kayla Marie Stevenson |

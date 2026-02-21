@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Tasha Schriewer |
-| 99 | 378 | Makelini Mausia |
+| 98 | 378 | Makelini Mausia |
+| 99 | 378 | Tasha Schriewer |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -124,8 +124,8 @@
 | 116 | 316 | Fancy Cascader |
 | 117 | 312 | Jay Horn |
 | 118 | 309 | Rich LeBlanc |
-| 119 | 307 | Blocked |
-| 120 | 307 | Peggi Charon |
+| 119 | 307 | Peggi Charon |
+| 120 | 307 | Blocked |
 | 121 | 305 | Tessina Dewey-Mancino |
 | 122 | 300 | Sherika C. McDaniels |
 | 123 | 293 | Poppy Splitter |
@@ -168,9 +168,9 @@
 | 160 | 214 | Jenny Hrndz |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
-| 163 | 207 | Jessica |
-| 164 | 207 | Nicole Myers |
-| 165 | 207 | rnr junky |
+| 163 | 207 | Nicole Myers |
+| 164 | 207 | rnr junky |
+| 165 | 207 | Jessica |
 | 166 | 207 | Chris Bell |
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
@@ -260,11 +260,11 @@
 | 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
-| 255 | 135 | Erykah |
-| 256 | 135 | Terry Jo Jones |
-| 257 | 134 | Cesar Barraza |
-| 258 | 134 | Skinny Baldez |
-| 259 | 134 | FuzzyNavel |
+| 255 | 135 | Terry Jo Jones |
+| 256 | 135 | Erykah |
+| 257 | 134 | FuzzyNavel |
+| 258 | 134 | Cesar Barraza |
+| 259 | 134 | Skinny Baldez |
 | 260 | 134 | Kristian Thurman |
 | 261 | 133 | Sharisse Baltimore |
 | 262 | 133 | Weerae |
