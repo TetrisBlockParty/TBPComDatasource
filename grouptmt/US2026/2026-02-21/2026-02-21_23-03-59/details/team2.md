@@ -318,8 +318,8 @@
 | 310 | 451 | Daphne Jordan |
 | 311 | 450 | Maegan Beaule |
 | 312 | 450 | Glitzy Stackzone |
-| 313 | 449 | Davetta Sanford |
-| 314 | 449 | Shelley Thornburgh Wright |
+| 313 | 449 | Shelley Thornburgh Wright |
+| 314 | 449 | Davetta Sanford |
 | 315 | 448 | Jojo Momma |
 | 316 | 447 | Lourisha |
 | 317 | 447 | Heather Schelkopf |
@@ -502,8 +502,8 @@
 | 494 | 303 | Crystal Greene |
 | 495 | 303 | Audra Williams |
 | 496 | 303 | Amanda Schaffer |
-| 497 | 303 | Candy Pitts |
-| 498 | 303 | Angie Marie |
+| 497 | 303 | Angie Marie |
+| 498 | 303 | Candy Pitts |
 | 499 | 302 | stacey |
 | 500 | 301 | Funky Caster |
 | 501 | 299 | Megan Phillips |

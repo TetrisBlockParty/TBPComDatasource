@@ -121,21 +121,21 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Mandyy Rae |
-| 117 | 212 | Jaimie Lynn |
+| 116 | 212 | Jaimie Lynn |
+| 117 | 212 | Mandyy Rae |
 | 118 | 211 | Marianita Garcia |
 | 119 | 208 | MRdot Rooski |
 | 120 | 207 | Leslie Bush Yarbrough |
 | 121 | 204 | Ananda Mendez |
-| 122 | 203 | GATOR |
-| 123 | 203 | Giggly Builderline |
+| 122 | 203 | Giggly Builderline |
+| 123 | 203 | GATOR |
 | 124 | 198 | Happy Snapbuild |
-| 125 | 194 | Ash Galvan |
-| 126 | 194 | Tyler Werts |
+| 125 | 194 | Tyler Werts |
+| 126 | 194 | Ash Galvan |
 | 127 | 193 | Lachelle Dillon |
 | 128 | 192 | Spunky Piecebuilder |
-| 129 | 192 | Shaykmia |
-| 130 | 192 | Jessica Sheehan |
+| 129 | 192 | Jessica Sheehan |
+| 130 | 192 | Shaykmia |
 | 131 | 191 | Diane Byrd |
 | 132 | 190 | Thorne Shumate |
 | 133 | 190 | Sweetts |
