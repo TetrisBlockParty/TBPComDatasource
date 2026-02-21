@@ -126,11 +126,11 @@
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
 | 120 | 115 | Ultramarine |
-| 121 | 113 | Stephme310 |
-| 122 | 113 | Andria Lynn |
-| 123 | 112 | Brittany Marsh |
-| 124 | 112 | Austin Owens |
-| 125 | 112 | Bryan Hodgins |
+| 121 | 113 | Andria Lynn |
+| 122 | 113 | Stephme310 |
+| 123 | 112 | Bryan Hodgins |
+| 124 | 112 | Brittany Marsh |
+| 125 | 112 | Austin Owens |
 | 126 | 111 | Lazy Blocker |
 | 127 | 111 | Gwendolyn Pitcairn |
 | 128 | 110 | H.R. Block |
@@ -203,8 +203,8 @@
 | 195 | 77 | Zippy Gridlock |
 | 196 | 76 | Madison Sweere |
 | 197 | 76 | Bethany Ison |
-| 198 | 75 | Christina Black |
-| 199 | 75 | Rosemary Foster |
+| 198 | 75 | Rosemary Foster |
+| 199 | 75 | Christina Black |
 | 200 | 74 | Bradley Reeves |
 | 201 | 74 | Krs |
 | 202 | 73 | Lynn Marie |
@@ -236,8 +236,8 @@
 | 228 | 66 | Rebecca Blake |
 | 229 | 66 | Terrance Fung |
 | 230 | 65 | BlockBabe |
-| 231 | 65 | Asher |
-| 232 | 65 | Lee Silpe |
+| 231 | 65 | Lee Silpe |
+| 232 | 65 | Asher |
 | 233 | 65 | Angela Geist Jusinski |
 | 234 | 64 | rebel4lyfe |
 | 235 | 64 | Joseph Edmonson |
@@ -298,8 +298,8 @@
 | 290 | 52 | Nerdy Twisterfit |
 | 291 | 52 | Chassidy Martin |
 | 292 | 52 | Nicole Silvers |
-| 293 | 51 | Frank Cook |
-| 294 | 51 | George Nutt |
+| 293 | 51 | George Nutt |
+| 294 | 51 | Frank Cook |
 | 295 | 50 | Christian Torres |
 | 296 | 50 | Elie Pean |
 | 297 | 50 | Kelly Duncan |

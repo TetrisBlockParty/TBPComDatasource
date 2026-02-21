@@ -85,8 +85,8 @@
 | 77 | 322 | Mendoza Lee Christy |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | Rich LeBlanc |
-| 81 | 309 | CeceGeGe |
+| 80 | 309 | CeceGeGe |
+| 81 | 309 | Rich LeBlanc |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -177,7 +177,7 @@
 | 169 | 125 | Felicia Doxey |
 | 170 | 125 | Shimika Enay Wallace |
 | 171 | 124 | Cesar Barraza |
-| 172 | 123 | Terry Jo Jones |
+| 172 | 123 | Sarajane Lokan |
 | 173 | 123 | Kristie McFarland |
 | 174 | 123 | Terry Jo Jones |
 | 175 | 122 | Katrina E Jelks |

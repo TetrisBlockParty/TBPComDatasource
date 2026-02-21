@@ -121,8 +121,8 @@
 | 113 | 545 | Brittany Alicia |
 | 114 | 542 | Rosa Franklin |
 | 115 | 541 | SaraMarie Eveland |
-| 116 | 540 | Charvi' Carter |
-| 117 | 540 | YiFei |
+| 116 | 540 | YiFei |
+| 117 | 540 | Charvi' Carter |
 | 118 | 534 | Poppy Snapper |
 | 119 | 531 | Chris Wanner |
 | 120 | 529 | Tonya Morgan |
@@ -255,8 +255,8 @@
 | 247 | 293 | David Holliday |
 | 248 | 291 | Jennifer Darby |
 | 249 | 290 | Jessie McDougald |
-| 250 | 288 | Elisheva Mizrachi |
-| 251 | 288 | Megan Phillips |
+| 250 | 288 | Megan Phillips |
+| 251 | 288 | Elisheva Mizrachi |
 | 252 | 286 | Ryan Gunther |
 | 253 | 285 | June E Hanson |
 | 254 | 284 | Mamachelle Eisweirth |
@@ -267,8 +267,8 @@
 | 259 | 280 | Shorty |
 | 260 | 278 | Noel Tarmy |
 | 261 | 276 | Lindsey Leigh |
-| 262 | 276 | Vonceial Boone |
-| 263 | 276 | SwampRebel |
+| 262 | 276 | SwampRebel |
+| 263 | 276 | Vonceial Boone |
 | 264 | 275 | Cheeky Brickmatch |
 | 265 | 275 | Ann Matzkanin |
 | 266 | 275 | Shiny Rollzone |
@@ -369,8 +369,8 @@
 | 361 | 216 | Tum |
 | 362 | 215 | Jordan Petro |
 | 363 | 215 | Ashlyn Berner |
-| 364 | 212 | Amanda Canterbury |
-| 365 | 212 | BK Queen |
+| 364 | 212 | BK Queen |
+| 365 | 212 | Amanda Canterbury |
 | 366 | 212 | Aleasha M Brown |
 | 367 | 209 | Jerry Tempelmeyer |
 | 368 | 208 | Nancy Pohlman |
@@ -411,8 +411,8 @@
 | 403 | 191 | Deana |
 | 404 | 191 | John Quiring |
 | 405 | 190 | blarg |
-| 406 | 190 | Jessica Kaye DeAguero |
-| 407 | 190 | Layna Lyons |
+| 406 | 190 | Layna Lyons |
+| 407 | 190 | Jessica Kaye DeAguero |
 | 408 | 188 | Seth Wrieden |
 | 409 | 188 | Justin Hines |
 | 410 | 187 | Stefanie Zonzini-Gagliardi |

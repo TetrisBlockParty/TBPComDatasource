@@ -84,8 +84,8 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Arianna O'Brien |
@@ -107,8 +107,8 @@
 | 99 | 133 | Brandi Huntington |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
-| 102 | 128 | lil mickey |
-| 103 | 128 | Uhog SF |
+| 102 | 128 | Uhog SF |
+| 103 | 128 | lil mickey |
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 125 | comrade fish |
@@ -116,8 +116,8 @@
 | 108 | 123 | june october |
 | 109 | 123 | LaQuetta Faith Hines |
 | 110 | 121 | Bouncy Grid |
-| 111 | 119 | April Carroll |
-| 112 | 119 | Irual Hctrab |
+| 111 | 119 | Irual Hctrab |
+| 112 | 119 | April Carroll |
 | 113 | 119 | Tater |
 | 114 | 118 | Barry Mac'Ockner |
 | 115 | 116 | Evie Khalil |
