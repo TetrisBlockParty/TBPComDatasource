@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Mandyy Rae |
-| 120 | 212 | Jaimie Lynn |
+| 119 | 212 | Jaimie Lynn |
+| 120 | 212 | Mandyy Rae |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
@@ -198,8 +198,8 @@
 | 190 | 139 | Mel Hogan |
 | 191 | 139 | Barry Mac'Ockner |
 | 192 | 138 | Death |
-| 193 | 137 | Witty Builderfit |
-| 194 | 137 | Cody Gates |
+| 193 | 137 | Cody Gates |
+| 194 | 137 | Witty Builderfit |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Giddy Cascade |
 | 197 | 135 | Guest |

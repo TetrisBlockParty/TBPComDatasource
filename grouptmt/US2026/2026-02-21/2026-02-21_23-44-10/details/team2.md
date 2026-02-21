@@ -411,12 +411,12 @@
 | 403 | 369 | Tony Lea |
 | 404 | 369 | Tara Lynn Janes |
 | 405 | 367 | Deyawn Smith |
-| 406 | 366 | Courtney Burcham |
+| 406 | 366 | Darcy Mae |
 | 407 | 366 | Smashanator |
-| 408 | 366 | Darcy Mae |
-| 409 | 365 | Kayla |
+| 408 | 366 | Courtney Burcham |
+| 409 | 365 | Christina Lewis-Vickers |
 | 410 | 365 | Audrey Jones |
-| 411 | 365 | Christina Lewis-Vickers |
+| 411 | 365 | Kayla |
 | 412 | 364 | Lively Edgepiece |
 | 413 | 364 | Shinette Dobson |
 | 414 | 363 | Happy Caster |

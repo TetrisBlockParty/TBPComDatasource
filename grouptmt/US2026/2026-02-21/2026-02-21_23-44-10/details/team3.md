@@ -47,8 +47,8 @@
 | 39 | 998 | Liv Whetson |
 | 40 | 996 | Danielle Cutler |
 | 41 | 989 | Kay |
-| 42 | 928 | Snappy Fitzone |
-| 43 | 928 | Stephanie Rice |
+| 42 | 928 | Stephanie Rice |
+| 43 | 928 | Snappy Fitzone |
 | 44 | 915 | Fancy Slam |
 | 45 | 879 | Shonna Roberts |
 | 46 | 874 | Jessica Pineda-Lopez |
@@ -116,8 +116,8 @@
 | 108 | 392 | Michelle |
 | 109 | 391 | Calista Jo Dickson |
 | 110 | 390 | Hasty Cascadefit |
-| 111 | 389 | Jessica Bechler |
-| 112 | 389 | FuzzyNavel |
+| 111 | 389 | FuzzyNavel |
+| 112 | 389 | Jessica Bechler |
 | 113 | 386 | Katie Knaus |
 | 114 | 384 | Shannon Matthew Byers |
 | 115 | 380 | Jennifer Petrie |
