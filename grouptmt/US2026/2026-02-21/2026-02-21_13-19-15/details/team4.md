@@ -83,8 +83,8 @@
 | 75 | 179 | Epic Curvetile |
 | 76 | 178 | Lori |
 | 77 | 175 | Dustee Craddock-Harrison |
-| 78 | 173 | Zethra Prenisha Rahming |
-| 79 | 173 | Jeff Brian Gates |
+| 78 | 173 | Jeff Brian Gates |
+| 79 | 173 | Zethra Prenisha Rahming |
 | 80 | 171 | Melvin Baird |
 | 81 | 170 | Justin Hannigan |
 | 82 | 170 | Girl |
@@ -125,8 +125,8 @@
 | 117 | 129 | John Brunetti |
 | 118 | 129 | Landon Keith Graffeo |
 | 119 | 128 | Rio Rocha |
-| 120 | 126 | Dihcheese444 |
-| 121 | 126 | Klo |
+| 120 | 126 | Klo |
+| 121 | 126 | Dihcheese444 |
 | 122 | 125 | Lauren Scott |
 | 123 | 123 | Bubbly Puzzler |
 | 124 | 123 | Cherrish Duren |

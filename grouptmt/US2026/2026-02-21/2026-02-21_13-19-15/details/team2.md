@@ -350,8 +350,8 @@
 | 342 | 270 | Angela Lynn |
 | 343 | 269 | Reece Smith |
 | 344 | 268 | Chummy Blockbuilder |
-| 345 | 266 | Mighty Shatterfit |
-| 346 | 266 | Mike Aprilliano |
+| 345 | 266 | Mike Aprilliano |
+| 346 | 266 | Mighty Shatterfit |
 | 347 | 264 | Dapper Dasher |
 | 348 | 264 | Giddy Gridclear |
 | 349 | 263 | Taylor Flowers |
@@ -466,8 +466,8 @@
 | 458 | 198 | Angie Bolton Workman |
 | 459 | 198 | Alyssa Dean |
 | 460 | 196 | Besma Ao |
-| 461 | 196 | Cass Shirley |
-| 462 | 196 | Alexandra Reese |
+| 461 | 196 | Alexandra Reese |
+| 462 | 196 | Cass Shirley |
 | 463 | 195 | Snappy Shatterfit |
 | 464 | 195 | Darlene Bowman |
 | 465 | 194 | Kitybox |
@@ -529,15 +529,15 @@
 | 521 | 171 | William Hunt |
 | 522 | 170 | BTA |
 | 523 | 170 | Kenya Felix |
-| 524 | 170 | Bee |
+| 524 | 170 | Sherisse Bigelow-Staples |
 | 525 | 170 | Dedra Steward |
-| 526 | 170 | Sherisse Bigelow-Staples |
+| 526 | 170 | Bee |
 | 527 | 169 | Eddie Perez |
 | 528 | 168 | Phil J. Grombliniak |
 | 529 | 168 | Nicol Craven |
 | 530 | 168 | Kati Russeau |
-| 531 | 167 | mshir |
-| 532 | 167 | Sabrena Yeisley |
+| 531 | 167 | Sabrena Yeisley |
+| 532 | 167 | mshir |
 | 533 | 166 | Lakeela Wise |
 | 534 | 166 | suuny |
 | 535 | 166 | Morgan Easter |

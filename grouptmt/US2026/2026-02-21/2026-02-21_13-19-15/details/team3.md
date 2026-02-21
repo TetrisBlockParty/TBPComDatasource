@@ -138,12 +138,12 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Staci George Fitzsimmons |
-| 134 | 189 | Fallorina Susana |
+| 133 | 189 | Fallorina Susana |
+| 134 | 189 | Staci George Fitzsimmons |
 | 135 | 185 | Logan Naccarato |
 | 136 | 184 | Jennie Beranek |
-| 137 | 182 | Hyper Matchzone |
-| 138 | 182 | Ashley Tookes |
+| 137 | 182 | Ashley Tookes |
+| 138 | 182 | Hyper Matchzone |
 | 139 | 181 | Jessica Bechler |
 | 140 | 179 | Joye Sims Binion |
 | 141 | 179 | Daira Largen |
@@ -202,8 +202,8 @@
 | 194 | 128 | Jen Lewis |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
-| 197 | 125 | Shimika Enay Wallace |
-| 198 | 125 | Felicia Doxey |
+| 197 | 125 | Felicia Doxey |
+| 198 | 125 | Shimika Enay Wallace |
 | 199 | 124 | Cesar Barraza |
 | 200 | 123 | Terry Jo Jones |
 | 201 | 123 | Marci Mize Fandrich |
@@ -305,9 +305,9 @@
 | 297 | 88 | Kate Farok |
 | 298 | 88 | Kelly Koenig |
 | 299 | 88 | Dapper Towerfit |
-| 300 | 87 | Kellie Montgomery |
-| 301 | 87 | FATTY |
-| 302 | 86 | Clever Clearbuilder |
+| 300 | 87 | FATTY |
+| 301 | 87 | Kellie Montgomery |
+| 302 | 86 | Criss |
 | 303 | 86 | Salena Whitlock |
 | 304 | 86 | Clever Clearbuilder |
 | 305 | 85 | Crystel b520 |
@@ -329,7 +329,7 @@
 | 321 | 80 | Vixen Queen |
 | 322 | 79 | Jessie Chung |
 | 323 | 79 | Brittany K Ward |
-| 324 | 79 | Jessie Chung |
+| 324 | 79 | Bleu Sun Beams |
 | 325 | 79 | Amanda Neal |
 | 326 | 78 | El Chapa |
 | 327 | 78 | Clever Patterner |
