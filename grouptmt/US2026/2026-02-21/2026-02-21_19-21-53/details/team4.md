@@ -30,8 +30,8 @@
 | 22 | 676 | Lucille Truesdale |
 | 23 | 647 | Robin Watters |
 | 24 | 636 | Rachel Anne |
-| 25 | 625 | GreenJeepGirl |
-| 26 | 625 | Kimyatta Cavin |
+| 25 | 625 | Kimyatta Cavin |
+| 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
 | 29 | 590 | Valerie Roberts |
@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -286,7 +286,7 @@
 | 278 | 84 | Jennifer Renee |
 | 279 | 83 | Daresha Fair |
 | 280 | 83 | Abigail Murphy |
-| 281 | 82 | Jason Frehner |
+| 281 | 82 | Nick Gray |
 | 282 | 82 | bloat princess |
 | 283 | 82 | Jason Frehner |
 | 284 | 82 | Kametsunoyaiba |
@@ -402,7 +402,7 @@
 | 394 | 60 | Joyce Fees |
 | 395 | 59 | Ziggy |
 | 396 | 59 | Amy Sanford |
-| 397 | 59 | Ziggy |
+| 397 | 59 | Jasmine S Caldwell |
 | 398 | 59 | Albert Walker III |
 | 399 | 58 | Angela Srubar-Norman |
 | 400 | 58 | Tracey Oger |

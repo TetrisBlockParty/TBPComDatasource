@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Colena Davenport |
-| 36 | 510 | Lawrence Belanger |
+| 35 | 510 | Lawrence Belanger |
+| 36 | 510 | Colena Davenport |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -113,16 +113,16 @@
 | 105 | 192 | Shaykmia |
 | 106 | 191 | Diane Byrd |
 | 107 | 190 | Gracie |
-| 108 | 190 | Sweetts |
-| 109 | 190 | Thorne Shumate |
+| 108 | 190 | Thorne Shumate |
+| 109 | 190 | Sweetts |
 | 110 | 189 | Happy Basegrid |
 | 111 | 188 | Sam Williams |
 | 112 | 187 | Snippy Wipebuilder |
 | 113 | 186 | Jennifer Olewnik Soborowski |
 | 114 | 185 | Ash Galvan |
 | 115 | 182 | Spunky Piecebuilder |
-| 116 | 180 | BigWeenie69 |
-| 117 | 180 | Erez Yosef |
+| 116 | 180 | Erez Yosef |
+| 117 | 180 | BigWeenie69 |
 | 118 | 179 | Danielle Little-Daugherty |
 | 119 | 178 | Chad Atchley |
 | 120 | 176 | Basment Living |

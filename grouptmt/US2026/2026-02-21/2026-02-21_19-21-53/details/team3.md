@@ -113,8 +113,8 @@
 | 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Sherry Ogden |
-| 109 | 323 | Ashley Raines |
+| 108 | 323 | Ashley Raines |
+| 109 | 323 | Sherry Ogden |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
@@ -157,10 +157,10 @@
 | 149 | 222 | Jimmie Clemons |
 | 150 | 219 | Shunta Jacobs |
 | 151 | 217 | Jess Bissett |
-| 152 | 216 | Aaron Pitkin |
-| 153 | 216 | Nikki Pags |
-| 154 | 214 | Jenny Hrndz |
-| 155 | 214 | Amy Fuller Heaton |
+| 152 | 216 | Nikki Pags |
+| 153 | 216 | Aaron Pitkin |
+| 154 | 214 | Amy Fuller Heaton |
+| 155 | 214 | Jenny Hrndz |
 | 156 | 213 | Fallorina Susana |
 | 157 | 212 | Krystal Gerstberger |
 | 158 | 211 | Katrina Turner |
@@ -176,9 +176,9 @@
 | 168 | 195 | Michael Lucado |
 | 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
-| 171 | 193 | Stephanie Burtin |
-| 172 | 193 | Clever Shiftsnap |
-| 173 | 193 | Duane Bright |
+| 171 | 193 | Duane Bright |
+| 172 | 193 | Stephanie Burtin |
+| 173 | 193 | Clever Shiftsnap |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
 | 176 | 191 | Scott Carleton |
@@ -216,8 +216,8 @@
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | Irene Arreguin |
 | 210 | 161 | BŘŰŤİÇŨŚ |
-| 211 | 160 | Marquita Sheard |
-| 212 | 160 | Tiffany Davie |
+| 211 | 160 | Tiffany Davie |
+| 212 | 160 | Marquita Sheard |
 | 213 | 159 | Jone |
 | 214 | 157 | Patricia Gadsden |
 | 215 | 156 | Bea Miles |
