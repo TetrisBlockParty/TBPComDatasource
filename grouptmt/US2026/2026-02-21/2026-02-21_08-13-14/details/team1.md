@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Chipper Gridlock |
-| 30 | 348 | Stef Hu |
+| 29 | 348 | Stef Hu |
+| 30 | 348 | Chipper Gridlock |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -61,8 +61,8 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Anaid Sanchez |
-| 57 | 201 | Ananda Mendez |
+| 56 | 201 | Ananda Mendez |
+| 57 | 201 | Anaid Sanchez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Billie Dawn Sparks |
 | 60 | 198 | Happy Snapbuild |
@@ -70,8 +70,8 @@
 | 62 | 194 | Sharon Reynolds |
 | 63 | 192 | Mandyy Rae |
 | 64 | 192 | Shaykmia |
-| 65 | 191 | Jazzy Framezone |
-| 66 | 191 | Giggly Builderline |
+| 65 | 191 | Giggly Builderline |
+| 66 | 191 | Jazzy Framezone |
 | 67 | 190 | Thorne Shumate |
 | 68 | 190 | Sweetts |
 | 69 | 189 | Happy Basegrid |

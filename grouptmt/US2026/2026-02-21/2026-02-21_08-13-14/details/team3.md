@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -118,8 +118,8 @@
 | 110 | 200 | Twisty Brick LT |
 | 111 | 199 | joclisa |
 | 112 | 196 | Speedy Bridger |
-| 113 | 195 | Nicha Hooker |
-| 114 | 195 | Jenny Hrndz |
+| 113 | 195 | Jenny Hrndz |
+| 114 | 195 | Nicha Hooker |
 | 115 | 194 | glichmod |
 | 116 | 193 | Clever Shiftsnap |
 | 117 | 192 | Chasity |
@@ -162,8 +162,8 @@
 | 154 | 140 | Gumbo |
 | 155 | 135 | Cheryl Hinch Tenbrook |
 | 156 | 135 | Nicole Flippo |
-| 157 | 134 | Emma |
-| 158 | 134 | DanceLuvLaugh |
+| 157 | 134 | DanceLuvLaugh |
+| 158 | 134 | Emma |
 | 159 | 131 | Jl |
 | 160 | 129 | Stephanie Burtin |
 | 161 | 127 | Aerian Preston |
@@ -177,8 +177,8 @@
 | 169 | 125 | Felicia Doxey |
 | 170 | 124 | Cesar Barraza |
 | 171 | 123 | Sarajane Lokan |
-| 172 | 123 | Kristie McFarland |
-| 173 | 123 | Terry Jo Jones |
+| 172 | 123 | Terry Jo Jones |
+| 173 | 123 | Kristie McFarland |
 | 174 | 122 | Giggly Brickroll |
 | 175 | 122 | Katrina E Jelks |
 | 176 | 121 | Boldy Corner |
@@ -208,8 +208,8 @@
 | 200 | 108 | LaTanya GeminiondaRise Johnson |
 | 201 | 108 | Rachel Napper |
 | 202 | 107 | Sherry Ogden |
-| 203 | 106 | Desiree Gold |
-| 204 | 106 | Eon Harris |
+| 203 | 106 | Eon Harris |
+| 204 | 106 | Desiree Gold |
 | 205 | 105 | Emi |
 | 206 | 105 | Carol Cain Thurman |
 | 207 | 104 | Beppy |

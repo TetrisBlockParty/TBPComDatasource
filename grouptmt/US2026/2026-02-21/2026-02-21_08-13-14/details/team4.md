@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -93,8 +93,8 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Chirpy Basepiece |
-| 89 | 134 | Jessica Bohlken |
+| 88 | 134 | Jessica Bohlken |
+| 89 | 134 | Chirpy Basepiece |
 | 90 | 133 | Robin Watters |
 | 91 | 133 | Shainne Brewer |
 | 92 | 132 | Jessica Cagle |
@@ -165,10 +165,10 @@
 | 157 | 89 | shark tato |
 | 158 | 88 | Kesha Brady |
 | 159 | 88 | Heather Tushner |
-| 160 | 87 | Jen Caldwell |
-| 161 | 87 | Lauren Lamb |
-| 162 | 86 | Destiney Carter |
-| 163 | 86 | amy |
+| 160 | 87 | Lauren Lamb |
+| 161 | 87 | Jen Caldwell |
+| 162 | 86 | amy |
+| 163 | 86 | Destiney Carter |
 | 164 | 85 | Mimi |
 | 165 | 85 | Dizzy Tiley |
 | 166 | 85 | Marcus TheeyoungWoe Gilmore |

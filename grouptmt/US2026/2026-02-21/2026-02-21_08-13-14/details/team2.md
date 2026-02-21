@@ -446,12 +446,12 @@
 | 438 | 176 | Jennifer Malloy - Cardy |
 | 439 | 175 | Snippy Rumbler |
 | 440 | 175 | Lucero Ramirez |
-| 441 | 175 | Tina Blessed Cage |
-| 442 | 175 | Shandrica Lowe |
+| 441 | 175 | Shandrica Lowe |
+| 442 | 175 | Tina Blessed Cage |
 | 443 | 174 | Jason Garnatz |
 | 444 | 173 | Ocean-Brianna McGregor |
-| 445 | 173 | kippykay |
-| 446 | 173 | Robin |
+| 445 | 173 | Robin |
+| 446 | 173 | kippykay |
 | 447 | 172 | HarleyJane |
 | 448 | 171 | Cappin You |
 | 449 | 170 | Dedra Steward |
