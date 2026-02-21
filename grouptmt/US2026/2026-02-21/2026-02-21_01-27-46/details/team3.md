@@ -64,8 +64,8 @@
 | 56 | 210 | Zippy Strikesnap |
 | 57 | 207 | rnr junky |
 | 58 | 203 | Crimson |
-| 59 | 193 | Clever Shiftsnap |
-| 60 | 193 | Shunta Jacobs |
+| 59 | 193 | Shunta Jacobs |
+| 60 | 193 | Clever Shiftsnap |
 | 61 | 187 | Speedy Bridger |
 | 62 | 185 | Danielle Cutler |
 | 63 | 184 | Jennie Beranek |
