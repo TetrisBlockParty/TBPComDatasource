@@ -141,8 +141,8 @@
 | 133 | 112 | Bryan Hodgins |
 | 134 | 111 | Lazy Blocker |
 | 135 | 111 | Gwendolyn Pitcairn |
-| 136 | 110 | Andy Cabral |
-| 137 | 110 | H.R. Block |
+| 136 | 110 | H.R. Block |
+| 137 | 110 | Andy Cabral |
 | 138 | 108 | Rio Rocha |
 | 139 | 107 | Marcus Todd |
 | 140 | 106 | Adam Randall |

@@ -126,8 +126,8 @@
 | 118 | 121 | Bouncy Grid |
 | 119 | 120 | Alenoush Karimian |
 | 120 | 120 | Kimmie Kimms |
-| 121 | 119 | Irual Hctrab |
-| 122 | 119 | April Carroll |
+| 121 | 119 | April Carroll |
+| 122 | 119 | Irual Hctrab |
 | 123 | 119 | Tater |
 | 124 | 118 | Barry Mac'Ockner |
 | 125 | 116 | Evie Khalil |
@@ -138,8 +138,8 @@
 | 130 | 112 | Miguel Teixeira |
 | 131 | 112 | Kristen Gideon |
 | 132 | 112 | Nicole Roseberry Weber |
-| 133 | 111 | Agustin Duarte Orozco |
-| 134 | 111 | Jessica Russell |
+| 133 | 111 | Jessica Russell |
+| 134 | 111 | Agustin Duarte Orozco |
 | 135 | 110 | Garcia Bailey |
 | 136 | 108 | Tavia |
 | 137 | 107 | Jodee Woods |

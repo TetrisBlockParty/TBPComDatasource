@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -127,23 +127,23 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
-| 125 | 191 | Scott Carleton |
-| 126 | 191 | Giddy Twistbuilder |
+| 125 | 191 | Giddy Twistbuilder |
+| 126 | 191 | Scott Carleton |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Kelly Ann Child |
+| 137 | 166 | Kelly Ann Child |
+| 138 | 166 | Danielle Mogg |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
@@ -185,8 +185,8 @@
 | 177 | 127 | Connie Mohler-Fair |
 | 178 | 127 | Aerian Preston |
 | 179 | 126 | Brandon Givens |
-| 180 | 125 | Felicia Doxey |
-| 181 | 125 | Shimika Enay Wallace |
+| 180 | 125 | Shimika Enay Wallace |
+| 181 | 125 | Felicia Doxey |
 | 182 | 124 | Cesar Barraza |
 | 183 | 123 | Terry Jo Jones |
 | 184 | 123 | Marci Mize Fandrich |
@@ -211,8 +211,8 @@
 | 203 | 115 | Daring Builder |
 | 204 | 115 | Jennifer Alvey |
 | 205 | 114 | Jessica Bechler |
-| 206 | 113 | Valerie Gendron |
-| 207 | 113 | Brian Battjes |
+| 206 | 113 | Brian Battjes |
+| 207 | 113 | Valerie Gendron |
 | 208 | 111 | Stephanie Zahm |
 | 209 | 110 | Stella |
 | 210 | 110 | Danielle Weikel |
