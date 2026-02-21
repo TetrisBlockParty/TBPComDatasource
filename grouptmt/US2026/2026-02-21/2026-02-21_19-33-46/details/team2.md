@@ -148,8 +148,8 @@
 | 140 | 705 | Roger Grabbit |
 | 141 | 704 | Nerdy Clearfit |
 | 142 | 700 | Vincent Petrella |
-| 143 | 700 | Rosemadder |
-| 144 | 700 | Beverly Owens |
+| 143 | 700 | Beverly Owens |
+| 144 | 700 | Rosemadder |
 | 145 | 698 | Lola Contreras |
 | 146 | 697 | Real Ri |
 | 147 | 694 | Vo'Landa Reels |
@@ -175,14 +175,14 @@
 | 167 | 630 | L3sli3 |
 | 168 | 620 | BYM4L |
 | 169 | 619 | Jamie Otero |
-| 170 | 608 | Sommer Shope |
-| 171 | 608 | John Bednarik |
+| 170 | 608 | John Bednarik |
+| 171 | 608 | Sommer Shope |
 | 172 | 604 | Amber Shoemaker |
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |
 | 175 | 597 | Erica Williams |
-| 176 | 596 | Ellie Jonas |
-| 177 | 596 | Jelly |
+| 176 | 596 | Jelly |
+| 177 | 596 | Ellie Jonas |
 | 178 | 592 | Ashle Scranton |
 | 179 | 591 | Alisha |
 | 180 | 591 | Diana Fitzwater |
@@ -275,8 +275,8 @@
 | 267 | 442 | Joshua Mandel |
 | 268 | 440 | Heather Westrum |
 | 269 | 440 | Liberty |
-| 270 | 439 | Joseph Musick |
-| 271 | 439 | Alisa Lamb |
+| 270 | 439 | Alisa Lamb |
+| 271 | 439 | Joseph Musick |
 | 272 | 439 | Foxxo |
 | 273 | 438 | Hyper Cluster |
 | 274 | 437 | Melissa Holsinger |
@@ -402,8 +402,8 @@
 | 394 | 325 | bru |
 | 395 | 325 | Daniel Amos |
 | 396 | 325 | Lewis Sturgeon |
-| 397 | 323 | Briana Alexander |
-| 398 | 323 | KhaosLord |
+| 397 | 323 | KhaosLord |
+| 398 | 323 | Briana Alexander |
 | 399 | 322 | NanDa Cruzan VI |
 | 400 | 321 | Tamara Bailey |
 | 401 | 319 | Rose Fx |

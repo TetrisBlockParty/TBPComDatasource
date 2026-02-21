@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Lawrence Belanger |
-| 36 | 510 | Colena Davenport |
+| 35 | 510 | Colena Davenport |
+| 36 | 510 | Lawrence Belanger |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 486 | Sarah Lombardo |
@@ -75,8 +75,8 @@
 | 67 | 288 | Tipsy Strikerpiece |
 | 68 | 287 | Hyper |
 | 69 | 283 | cc |
-| 70 | 281 | Patrick Luckenbill |
-| 71 | 281 | Shauna Loe |
+| 70 | 281 | Shauna Loe |
+| 71 | 281 | Patrick Luckenbill |
 | 72 | 277 | Timothy Dew |
 | 73 | 274 | Theo Pinnow |
 | 74 | 270 | Jennifer ManWarren |
@@ -94,8 +94,8 @@
 | 86 | 239 | Cynthia Bradley |
 | 87 | 238 | John J. Cronin |
 | 88 | 230 | Frothy Pattern |
-| 89 | 228 | Kellie |
-| 90 | 228 | Trippy Redd |
+| 89 | 228 | Trippy Redd |
+| 90 | 228 | Kellie |
 | 91 | 226 | Sharon Reynolds |
 | 92 | 224 | TSwag |
 | 93 | 222 | Kristen Gideon |
@@ -122,8 +122,8 @@
 | 114 | 186 | Jennifer Olewnik Soborowski |
 | 115 | 185 | Ash Galvan |
 | 116 | 182 | Spunky Piecebuilder |
-| 117 | 180 | Erez Yosef |
-| 118 | 180 | BigWeenie69 |
+| 117 | 180 | BigWeenie69 |
+| 118 | 180 | Erez Yosef |
 | 119 | 179 | Danielle Little-Daugherty |
 | 120 | 178 | Chad Atchley |
 | 121 | 176 | Basment Living |

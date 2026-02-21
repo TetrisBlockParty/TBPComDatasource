@@ -159,8 +159,8 @@
 | 151 | 219 | Shunta Jacobs |
 | 152 | 218 | Rochelle Hazelett |
 | 153 | 217 | Jess Bissett |
-| 154 | 216 | Nikki Pags |
-| 155 | 216 | Aaron Pitkin |
+| 154 | 216 | Aaron Pitkin |
+| 155 | 216 | Nikki Pags |
 | 156 | 214 | Amy Fuller Heaton |
 | 157 | 214 | Jenny Hrndz |
 | 158 | 212 | Krystal Gerstberger |
@@ -173,8 +173,8 @@
 | 165 | 203 | Twisty Brick LT |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Michael Lucado |
-| 169 | 195 | Nicha Hooker |
+| 168 | 195 | Nicha Hooker |
+| 169 | 195 | Michael Lucado |
 | 170 | 194 | glichmod |
 | 171 | 193 | Clever Shiftsnap |
 | 172 | 193 | Stephanie Burtin |

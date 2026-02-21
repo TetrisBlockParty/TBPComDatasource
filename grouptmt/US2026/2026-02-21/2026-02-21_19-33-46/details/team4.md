@@ -150,11 +150,11 @@
 | 142 | 145 | Daria Rycewicz |
 | 143 | 144 | Mr. Party |
 | 144 | 141 | Malakai Darien Fox |
-| 145 | 141 | ĥuf |
-| 146 | 141 | Kathy Allen |
-| 147 | 140 | Roger Coulter |
-| 148 | 140 | Shannon Ferrari |
-| 149 | 140 | John Brunetti |
+| 145 | 141 | Kathy Allen |
+| 146 | 141 | ĥuf |
+| 147 | 140 | Shannon Ferrari |
+| 148 | 140 | John Brunetti |
+| 149 | 140 | Roger Coulter |
 | 150 | 137 | PeaceOs |
 | 151 | 136 | Tanner Lund |
 | 152 | 136 | Serena Goodridge |
@@ -217,9 +217,9 @@
 | 209 | 106 | Rebecca Morris |
 | 210 | 105 | Brandi Durig |
 | 211 | 104 | Chris Alexinas |
-| 212 | 103 | Chris Bernstein |
+| 212 | 103 | Richard-April Kice |
 | 213 | 103 | Lauren Lamb |
-| 214 | 103 | Richard-April Kice |
+| 214 | 103 | Chris Bernstein |
 | 215 | 103 | Kate |
 | 216 | 102 | Faja |
 | 217 | 102 | Autumn Kumzi |
