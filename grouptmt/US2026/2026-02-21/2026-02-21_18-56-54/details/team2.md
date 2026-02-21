@@ -326,8 +326,8 @@
 | 318 | 366 | Mike Aprilliano |
 | 319 | 366 | Wuntayk |
 | 320 | 365 | Christina Lewis-Vickers |
-| 321 | 365 | Mar Q Thomas |
-| 322 | 365 | Audrey Jones |
+| 321 | 365 | Audrey Jones |
+| 322 | 365 | Mar Q Thomas |
 | 323 | 365 | Kayla |
 | 324 | 364 | Brandon Armstrong |
 | 325 | 364 | Shinette Dobson |

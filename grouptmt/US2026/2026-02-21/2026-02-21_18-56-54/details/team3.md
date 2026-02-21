@@ -111,8 +111,8 @@
 | 103 | 348 | CeceGeGe |
 | 104 | 342 | Tiff Vs Tiffany |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
-| 106 | 323 | Sherry Ogden |
-| 107 | 323 | Ashley Raines |
+| 106 | 323 | Ashley Raines |
+| 107 | 323 | Sherry Ogden |
 | 108 | 321 | Dapper Snap |
 | 109 | 320 | Or Reznitsky |
 | 110 | 318 | Chasity |
@@ -318,12 +318,12 @@
 | 310 | 106 | Cheeky Snapper |
 | 311 | 106 | Saucy Buildout |
 | 312 | 105 | Donna |
-| 313 | 105 | Emi |
-| 314 | 105 | FATTY |
+| 313 | 105 | FATTY |
+| 314 | 105 | Emi |
 | 315 | 104 | Ashley Rufus Bythcez |
 | 316 | 104 | bean |
-| 317 | 103 | Andrew Thorson |
-| 318 | 103 | Kate Farok |
+| 317 | 103 | Kate Farok |
+| 318 | 103 | Andrew Thorson |
 | 319 | 103 | Lisa Lisa |
 | 320 | 102 | Criss |
 | 321 | 102 | Christian Luna |
@@ -334,7 +334,7 @@
 | 326 | 101 | Shicken Nuggit |
 | 327 | 100 | Angela Scott |
 | 328 | 100 | Bobbi Moore |
-| 329 | 100 | Angela Scott |
+| 329 | 100 | Edwin Calvillo Jr. |
 | 330 | 100 | Crystal Hine |
 | 331 | 99 | Michelle Ramirez |
 | 332 | 99 | Melissa Orth Hunter |

@@ -126,8 +126,8 @@
 | 118 | 173 | Ren Mc |
 | 119 | 170 | Girl |
 | 120 | 170 | Peachy Fall |
-| 121 | 164 | shark tato |
-| 122 | 164 | ThaEviLJeNiuZ |
+| 121 | 164 | ThaEviLJeNiuZ |
+| 122 | 164 | shark tato |
 | 123 | 160 | ZeeZee |
 | 124 | 160 | Stacey Stano |
 | 125 | 157 | quicksand420 |
