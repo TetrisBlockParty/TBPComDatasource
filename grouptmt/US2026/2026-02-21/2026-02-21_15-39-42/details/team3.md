@@ -100,11 +100,11 @@
 | 92 | 338 | Danielle Rhoades |
 | 93 | 332 | Chauntee Alfrey-Cardinale |
 | 94 | 323 | Ashley Raines |
-| 95 | 320 | Or Reznitsky |
-| 96 | 320 | Elaine Webb Graves |
+| 95 | 320 | Elaine Webb Graves |
+| 96 | 320 | Or Reznitsky |
 | 97 | 316 | Fancy Cascader |
-| 98 | 309 | Rich LeBlanc |
-| 99 | 309 | CeceGeGe |
+| 98 | 309 | CeceGeGe |
+| 99 | 309 | Rich LeBlanc |
 | 100 | 307 | Peggi Charon |
 | 101 | 307 | Blocked |
 | 102 | 306 | Speedy Bridger |
@@ -157,8 +157,8 @@
 | 149 | 193 | Duane Bright |
 | 150 | 191 | Giddy Twistbuilder |
 | 151 | 191 | Scott Carleton |
-| 152 | 189 | Sissy Lowery Davis |
-| 153 | 189 | Staci George Fitzsimmons |
+| 152 | 189 | Staci George Fitzsimmons |
+| 153 | 189 | Sissy Lowery Davis |
 | 154 | 189 | Fallorina Susana |
 | 155 | 188 | Angie Harper |
 | 156 | 184 | Jennie Beranek |
@@ -178,8 +178,8 @@
 | 170 | 168 | rosy |
 | 171 | 167 | Raven Dudley |
 | 172 | 166 | Loopy Fallmatch |
-| 173 | 166 | Kelly Ann Child |
-| 174 | 166 | Betty Rosas |
+| 173 | 166 | Betty Rosas |
+| 174 | 166 | Kelly Ann Child |
 | 175 | 165 | Kali Kelz Williams |
 | 176 | 163 | Stephanie Hill |
 | 177 | 163 | Trisha Balmer |
@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Danielle Weikel |
-| 253 | 110 | Tye Stovall |
+| 252 | 110 | Tye Stovall |
+| 253 | 110 | Danielle Weikel |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | mommablock |
@@ -434,7 +434,7 @@
 | 426 | 71 | Marcey Peneaux |
 | 427 | 71 | Goofy Fall |
 | 428 | 70 | Brave Bruno |
-| 429 | 70 | Nicole Summers-Nelson |
+| 429 | 70 | Ruggergamer1 |
 | 430 | 70 | Pizzi |
 | 431 | 70 | Nicole Summers-Nelson |
 | 432 | 70 | Leticia Lynn Lowe |

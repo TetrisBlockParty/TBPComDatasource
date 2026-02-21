@@ -87,8 +87,8 @@
 | 79 | 201 | Anaid Sanchez |
 | 80 | 201 | Ananda Mendez |
 | 81 | 200 | Giggly Builderline |
-| 82 | 198 | Happy Snapbuild |
-| 83 | 198 | Brandi Huntington |
+| 82 | 198 | Brandi Huntington |
+| 83 | 198 | Happy Snapbuild |
 | 84 | 197 | Cynthia Bradley |
 | 85 | 193 | Lachelle Dillon |
 | 86 | 192 | Shaykmia |
@@ -134,9 +134,9 @@
 | 126 | 142 | Dandy Basegrid |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
-| 129 | 138 | Cranky Pattern |
-| 130 | 138 | Gary Gobin |
-| 131 | 138 | Michael |
+| 129 | 138 | Gary Gobin |
+| 130 | 138 | Michael |
+| 131 | 138 | Cranky Pattern |
 | 132 | 137 | Nadine Velardo |
 | 133 | 135 | Giddy Cascade |
 | 134 | 135 | Cody Slav |

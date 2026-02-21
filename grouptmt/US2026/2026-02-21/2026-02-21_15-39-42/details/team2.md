@@ -210,8 +210,8 @@
 | 202 | 469 | Ashley Rose Frederick |
 | 203 | 467 | Scott Treadway |
 | 204 | 465 | Drwatson187 |
-| 205 | 464 | Ariel |
-| 206 | 464 | Ryan Gunther |
+| 205 | 464 | Ryan Gunther |
+| 206 | 464 | Ariel |
 | 207 | 463 | Sue Leard |
 | 208 | 463 | Osun Anuket Esu |
 | 209 | 460 | Cody Smith-Candelaria |
