@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 778 | Jessica Ann |
 | 29 | 772 | Corie A. Brinson |
 | 30 | 733 | Chummy Shatterer |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Peggi Charon |
 | 86 | 300 | Sherika C. McDaniels |
 | 87 | 299 | Cynthia Castros-Hampton |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |
@@ -182,7 +182,7 @@
 | 174 | 125 | Shimika Enay Wallace |
 | 175 | 125 | Felicia Doxey |
 | 176 | 124 | Cesar Barraza |
-| 177 | 123 | Terry Jo Jones |
+| 177 | 123 | Kristie McFarland |
 | 178 | 123 | Sarajane Lokan |
 | 179 | 123 | Terry Jo Jones |
 | 180 | 122 | Katrina E Jelks |
@@ -239,7 +239,7 @@
 | 231 | 99 | Nichol Graham |
 | 232 | 99 | Michael Nowogorski |
 | 233 | 99 | Lys |
-| 234 | 98 | Jocelyne Baca |
+| 234 | 98 | Daring Builder |
 | 235 | 98 | Funky Jumper |
 | 236 | 98 | Armi |
 | 237 | 98 | Erika Thornton |

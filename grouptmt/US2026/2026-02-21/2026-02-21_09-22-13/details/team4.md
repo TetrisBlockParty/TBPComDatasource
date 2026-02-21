@@ -81,8 +81,8 @@
 | 73 | 170 | Girl |
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Holly Jolly |
 | 80 | 159 | Justin Hannigan |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Degenerate |
+| 94 | 132 | Jessica Cagle |
 | 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Jessica Cagle |
+| 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
@@ -156,8 +156,8 @@
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
-| 151 | 95 | Meagan Nicole |
-| 152 | 95 | Victoria Faniel |
+| 151 | 95 | Victoria Faniel |
+| 152 | 95 | Meagan Nicole |
 | 153 | 94 | Jeremy Steines |
 | 154 | 94 | DonMega |
 | 155 | 93 | Zesty Twistbuilder |
@@ -182,8 +182,8 @@
 | 174 | 85 | Chirpy Slammer |
 | 175 | 85 | Mimi |
 | 176 | 83 | Avy Absol |
-| 177 | 83 | Holly |
-| 178 | 83 | Abigail Murphy |
+| 177 | 83 | Abigail Murphy |
+| 178 | 83 | Holly |
 | 179 | 83 | Joseph Gray |
 | 180 | 82 | Jason Frehner |
 | 181 | 82 | Kim Hunt |
