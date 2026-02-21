@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Cody Slav |
-| 45 | 503 | Redlicious 1 |
+| 44 | 503 | Redlicious 1 |
+| 45 | 503 | Cody Slav |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Trina Gee |
-| 67 | 348 | Stef Hu |
+| 66 | 348 | Stef Hu |
+| 67 | 348 | Trina Gee |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -129,8 +129,8 @@
 | 121 | 203 | GATOR |
 | 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
-| 124 | 194 | Tyler Werts |
-| 125 | 194 | Ash Galvan |
+| 124 | 194 | Ash Galvan |
+| 125 | 194 | Tyler Werts |
 | 126 | 193 | Lachelle Dillon |
 | 127 | 192 | Jessica Sheehan |
 | 128 | 192 | Shaykmia |
@@ -157,8 +157,8 @@
 | 149 | 170 | Cartier |
 | 150 | 169 | Abbey Crespo |
 | 151 | 168 | Standia Civil |
-| 152 | 166 | Katie Daniels |
-| 153 | 166 | Rico Rico |
+| 152 | 166 | Rico Rico |
+| 153 | 166 | Katie Daniels |
 | 154 | 165 | Nadine Velardo |
 | 155 | 164 | Tanya Carpenter-Reynolds |
 | 156 | 163 | Tyler Whitley |

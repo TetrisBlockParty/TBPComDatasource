@@ -107,16 +107,16 @@
 | 99 | 403 | Christine Filson |
 | 100 | 402 | Stephanie Simpson |
 | 101 | 397 | Mcathen |
-| 102 | 394 | joclisa |
-| 103 | 394 | Annie Déè |
+| 102 | 394 | Annie Déè |
+| 103 | 394 | joclisa |
 | 104 | 392 | Michelle |
 | 105 | 391 | Calista Jo Dickson |
 | 106 | 390 | Hasty Cascadefit |
 | 107 | 389 | Jessica Bechler |
 | 108 | 386 | Katie Knaus |
 | 109 | 384 | Shannon Matthew Byers |
-| 110 | 378 | Makelini Mausia |
-| 111 | 378 | Tasha Schriewer |
+| 110 | 378 | Tasha Schriewer |
+| 111 | 378 | Makelini Mausia |
 | 112 | 377 | Jesse Olive |
 | 113 | 368 | Stephanie Woods |
 | 114 | 368 | Stephanie Blkpep Davidson |

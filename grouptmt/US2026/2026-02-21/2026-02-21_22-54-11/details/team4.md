@@ -147,8 +147,8 @@
 | 139 | 178 | Lori |
 | 140 | 176 | Klo |
 | 141 | 175 | Ren Mc |
-| 142 | 174 | Zethra Prenisha Rahming |
-| 143 | 174 | Dihcheese444 |
+| 142 | 174 | Dihcheese444 |
+| 143 | 174 | Zethra Prenisha Rahming |
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
@@ -169,14 +169,14 @@
 | 161 | 147 | Jay28 |
 | 162 | 145 | Daria Rycewicz |
 | 163 | 141 | Kathy Allen |
-| 164 | 141 | ĥuf |
-| 165 | 141 | Marcus Todd |
+| 164 | 141 | Marcus Todd |
+| 165 | 141 | ĥuf |
 | 166 | 140 | John Brunetti |
 | 167 | 140 | Stephme310 |
-| 168 | 137 | PeaceOs |
-| 169 | 137 | Zany Shatterer |
-| 170 | 136 | Tanner Lund |
-| 171 | 136 | Sarah Brown |
+| 168 | 137 | Zany Shatterer |
+| 169 | 137 | PeaceOs |
+| 170 | 136 | Sarah Brown |
+| 171 | 136 | Tanner Lund |
 | 172 | 136 | Chaz |
 | 173 | 135 | Meagan Nicole |
 | 174 | 135 | Victoria Faniel |
