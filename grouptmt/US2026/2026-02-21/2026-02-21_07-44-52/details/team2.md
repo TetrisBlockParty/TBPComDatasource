@@ -131,8 +131,8 @@
 | 123 | 520 | Kimberly Schall |
 | 124 | 519 | Maria Escobar |
 | 125 | 517 | Debra Williams |
-| 126 | 515 | Real Ri |
-| 127 | 515 | Kaylee McCafferty |
+| 126 | 515 | Kaylee McCafferty |
+| 127 | 515 | Real Ri |
 | 128 | 513 | Butta |
 | 129 | 510 | Ashley House |
 | 130 | 509 | Kelli Wells |
@@ -169,8 +169,8 @@
 | 161 | 406 | Erin StFrancis |
 | 162 | 405 | Peppy Zone |
 | 163 | 401 | Poppy Snap |
-| 164 | 400 | Tammy Allen |
-| 165 | 400 | Crystie Hicks |
+| 164 | 400 | Crystie Hicks |
+| 165 | 400 | Tammy Allen |
 | 166 | 397 | Ashley Guernsey-Martin |
 | 167 | 391 | Chilly Bridgepiece |
 | 168 | 391 | Steven Marshaun |
@@ -486,7 +486,7 @@
 | 478 | 158 | Toni Roberson |
 | 479 | 158 | Laura Freeman Hagen |
 | 480 | 158 | Groovy Puzzle |
-| 481 | 158 | Toni Roberson |
+| 481 | 158 | Ashley Cooper Tharin |
 | 482 | 157 | Andrew Bratton-Tomes |
 | 483 | 157 | Twisty Tetriblast |
 | 484 | 157 | Nicol Craven |

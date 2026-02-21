@@ -98,8 +98,8 @@
 | 90 | 144 | Tanya Carpenter-Reynolds |
 | 91 | 143 | Sarah Marie |
 | 92 | 141 | Blaire Bruckoff |
-| 93 | 138 | Shauntina Burke |
-| 94 | 138 | Gary Gobin |
+| 93 | 138 | Gary Gobin |
+| 94 | 138 | Shauntina Burke |
 | 95 | 137 | Nadine Velardo |
 | 96 | 134 | Trina Gee |
 | 97 | 133 | Brandi Huntington |

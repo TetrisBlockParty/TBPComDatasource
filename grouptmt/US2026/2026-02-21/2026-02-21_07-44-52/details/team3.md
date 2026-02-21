@@ -168,10 +168,10 @@
 | 160 | 127 | Aerian Preston |
 | 161 | 127 | Marquita Sheard |
 | 162 | 127 | Connie Mohler-Fair |
-| 163 | 126 | Dan Rob |
-| 164 | 126 | Brandon Givens |
-| 165 | 125 | Shimika Enay Wallace |
-| 166 | 125 | Felicia Doxey |
+| 163 | 126 | Brandon Givens |
+| 164 | 126 | Dan Rob |
+| 165 | 125 | Felicia Doxey |
+| 166 | 125 | Shimika Enay Wallace |
 | 167 | 124 | Cesar Barraza |
 | 168 | 123 | Sarajane Lokan |
 | 169 | 123 | Kristie McFarland |

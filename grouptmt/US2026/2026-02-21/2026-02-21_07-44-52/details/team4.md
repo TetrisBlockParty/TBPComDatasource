@@ -96,9 +96,9 @@
 | 88 | 134 | Chirpy Basepiece |
 | 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
-| 91 | 132 | Jenna McGeorge |
-| 92 | 132 | Melissa Priest Sellers |
-| 93 | 132 | Jessica Cagle |
+| 91 | 132 | Melissa Priest Sellers |
+| 92 | 132 | Jessica Cagle |
+| 93 | 132 | Jenna McGeorge |
 | 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
 | 96 | 131 | Mr. Party |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Rosemary Foster |
-| 194 | 75 | Christina Black |
+| 193 | 75 | Christina Black |
+| 194 | 75 | Rosemary Foster |
 | 195 | 74 | Krs |
 | 196 | 73 | Lynn Marie |
 | 197 | 73 | Rheanda Weaskus |
