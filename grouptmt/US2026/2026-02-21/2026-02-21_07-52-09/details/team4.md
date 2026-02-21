@@ -108,9 +108,9 @@
 | 100 | 129 | John Brunetti |
 | 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
-| 103 | 123 | Nugget |
+| 103 | 123 | Bubbly Puzzler |
 | 104 | 123 | Cherrish Duren |
-| 105 | 123 | Bubbly Puzzler |
+| 105 | 123 | Nugget |
 | 106 | 122 | Sherri |
 | 107 | 121 | Smiley Tiltbuilder |
 | 108 | 121 | 030Synner |
@@ -166,8 +166,8 @@
 | 158 | 88 | Heather Tushner |
 | 159 | 87 | Jen Caldwell |
 | 160 | 87 | Lauren Lamb |
-| 161 | 86 | amy |
-| 162 | 86 | Destiney Carter |
+| 161 | 86 | Destiney Carter |
+| 162 | 86 | amy |
 | 163 | 85 | Mimi |
 | 164 | 85 | Chastity Mitchell |
 | 165 | 85 | Marcus TheeyoungWoe Gilmore |
@@ -194,12 +194,12 @@
 | 186 | 78 | Zesty Linkgrid |
 | 187 | 77 | Marvin Lou Martin |
 | 188 | 77 | Twisty Cascadezone |
-| 189 | 77 | Marvin Lou Martin |
+| 189 | 77 | Zippy Gridlock |
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Rosemary Foster |
-| 194 | 75 | Christina Black |
+| 193 | 75 | Christina Black |
+| 194 | 75 | Rosemary Foster |
 | 195 | 74 | Krs |
 | 196 | 73 | April Rondinone |
 | 197 | 73 | Rheanda Weaskus |

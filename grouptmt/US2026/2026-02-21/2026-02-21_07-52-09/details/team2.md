@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -297,9 +297,9 @@
 | 289 | 256 | CC |
 | 290 | 256 | Smashanator |
 | 291 | 255 | Santana Miyagi |
-| 292 | 254 | Elizabeth Diraffaele |
-| 293 | 254 | Rose Fx |
-| 294 | 254 | Julie Hamilton |
+| 292 | 254 | Julie Hamilton |
+| 293 | 254 | Elizabeth Diraffaele |
+| 294 | 254 | Rose Fx |
 | 295 | 253 | Tansaria Couch-Butler |
 | 296 | 252 | Cheech Dta |
 | 297 | 252 | Matt Johnson |
@@ -361,8 +361,8 @@
 | 353 | 216 | Tum |
 | 354 | 215 | Jordan Petro |
 | 355 | 215 | Ashlyn Berner |
-| 356 | 212 | BK Queen |
-| 357 | 212 | Amanda Canterbury |
+| 356 | 212 | Amanda Canterbury |
+| 357 | 212 | BK Queen |
 | 358 | 212 | Aleasha M Brown |
 | 359 | 209 | Jerry Tempelmeyer |
 | 360 | 208 | Mema |
@@ -512,8 +512,8 @@
 | 504 | 152 | Anthony Mignacca |
 | 505 | 152 | JP Parks |
 | 506 | 151 | Jennifer Rajek |
-| 507 | 151 | Kia Humphery |
-| 508 | 151 | D'Aaron Black |
+| 507 | 151 | D'Aaron Black |
+| 508 | 151 | Kia Humphery |
 | 509 | 150 | Jodi Mitnick |
 | 510 | 150 | Candace Noel |
 | 511 | 150 | Greenshades00 |

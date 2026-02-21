@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 567 | Chummy Shatterer |
 | 38 | 546 | Dolores Falco |
@@ -73,8 +73,8 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
@@ -127,8 +127,8 @@
 | 119 | 184 | Jennie Beranek |
 | 120 | 182 | Hyper Matchzone |
 | 121 | 182 | Ashley Tookes |
-| 122 | 180 | Tessina Dewey-Mancino |
-| 123 | 180 | Fallorina Susana |
+| 122 | 180 | Fallorina Susana |
+| 123 | 180 | Tessina Dewey-Mancino |
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
@@ -149,9 +149,9 @@
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
-| 144 | 149 | Trisha Balmer |
-| 145 | 149 | Bea Miles |
-| 146 | 149 | Angel Mendez |
+| 144 | 149 | Bea Miles |
+| 145 | 149 | Angel Mendez |
+| 146 | 149 | Trisha Balmer |
 | 147 | 147 | Sashay Tapae Simpson |
 | 148 | 146 | Latoya Mayne |
 | 149 | 146 | Denita Mungro |
@@ -200,11 +200,11 @@
 | 192 | 109 | Fredd Thomas |
 | 193 | 109 | Diana Ibarra |
 | 194 | 109 | Brave Brickster |
-| 195 | 108 | Rachel Napper |
-| 196 | 108 | LaTanya GeminiondaRise Johnson |
+| 195 | 108 | LaTanya GeminiondaRise Johnson |
+| 196 | 108 | Rachel Napper |
 | 197 | 107 | Sherry Ogden |
-| 198 | 106 | Desiree Gold |
-| 199 | 106 | Eon Harris |
+| 198 | 106 | Eon Harris |
+| 199 | 106 | Desiree Gold |
 | 200 | 105 | Carol Cain Thurman |
 | 201 | 105 | Hoppy Buildout |
 | 202 | 105 | Emi |
