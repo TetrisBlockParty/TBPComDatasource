@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jenna McGeorge |
-| 116 | 196 | Jeff Brian Gates |
+| 115 | 196 | Jeff Brian Gates |
+| 116 | 196 | Jenna McGeorge |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -170,8 +170,8 @@
 | 162 | 140 | Stephme310 |
 | 163 | 140 | John Brunetti |
 | 164 | 137 | PeaceOs |
-| 165 | 136 | Tanner Lund |
-| 166 | 136 | Sarah Brown |
+| 165 | 136 | Sarah Brown |
+| 166 | 136 | Tanner Lund |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
 | 169 | 134 | Chirpy Basepiece |
@@ -201,8 +201,8 @@
 | 193 | 122 | 🥔🥔 Spudz |
 | 194 | 122 | Sherri |
 | 195 | 121 | Megan Cutshaw |
-| 196 | 121 | Smiley Tiltbuilder |
-| 197 | 121 | Joseph Pace |
+| 196 | 121 | Joseph Pace |
+| 197 | 121 | Smiley Tiltbuilder |
 | 198 | 120 | Joshua Guess |
 | 199 | 120 | Jackie Marie |
 | 200 | 120 | KayM |
@@ -280,8 +280,8 @@
 | 272 | 92 | Zippy Gridlock |
 | 273 | 91 | Sunny Filler |
 | 274 | 91 | wombat |
-| 275 | 90 | Thomas Hettenhaus |
-| 276 | 90 | Carol Ricks Raymond |
+| 275 | 90 | Carol Ricks Raymond |
+| 276 | 90 | Thomas Hettenhaus |
 | 277 | 90 | Hyper Builder |
 | 278 | 89 | Jonathan Mahfood |
 | 279 | 89 | bloat princess |
@@ -330,8 +330,8 @@
 | 322 | 77 | Marvin Lou Martin |
 | 323 | 77 | JPW |
 | 324 | 77 | Carrie Brian |
-| 325 | 76 | Sharyn Lemire |
-| 326 | 76 | Cristy Duerksen |
+| 325 | 76 | Cristy Duerksen |
+| 326 | 76 | Sharyn Lemire |
 | 327 | 76 | Rebecca Blake |
 | 328 | 76 | Kevin Bush |
 | 329 | 76 | Crystal Lynn |

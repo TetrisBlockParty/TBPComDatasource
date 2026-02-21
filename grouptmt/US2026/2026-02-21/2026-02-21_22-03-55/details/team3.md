@@ -91,8 +91,8 @@
 | 83 | 454 | Brandon Green |
 | 84 | 447 | Mykal Burton |
 | 85 | 446 | Danielle Rhoades |
-| 86 | 445 | Silly Twist |
-| 87 | 445 | Kristie McFarland |
+| 86 | 445 | Kristie McFarland |
+| 87 | 445 | Silly Twist |
 | 88 | 442 | Christine Niles |
 | 89 | 430 | Patricia White |
 | 90 | 416 | Mary Pellegrino |
@@ -205,8 +205,8 @@
 | 197 | 191 | Rebel124 |
 | 198 | 191 | Brenda Lee Vander Molen |
 | 199 | 191 | Rebecca Funderburk Kirby |
-| 200 | 189 | Sissy Lowery Davis |
-| 201 | 189 | Connie Mohler-Fair |
+| 200 | 189 | Connie Mohler-Fair |
+| 201 | 189 | Sissy Lowery Davis |
 | 202 | 188 | JerseyJess |
 | 203 | 186 | Sunny Rotater |
 | 204 | 186 | Loopy Clusterer |

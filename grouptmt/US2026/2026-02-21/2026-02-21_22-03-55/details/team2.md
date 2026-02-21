@@ -473,8 +473,8 @@
 | 465 | 309 | Autumn Schaeffer |
 | 466 | 307 | Kitybox |
 | 467 | 306 | Frisky Clearpiece |
-| 468 | 305 | Zany Clusterbuilder |
-| 469 | 305 | Tum |
+| 468 | 305 | Tum |
+| 469 | 305 | Zany Clusterbuilder |
 | 470 | 305 | Libby Hicks |
 | 471 | 304 | Michelle Shrum |
 | 472 | 304 | Melissa McCall |
