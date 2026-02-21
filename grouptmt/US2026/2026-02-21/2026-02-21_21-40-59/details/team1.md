@@ -44,8 +44,8 @@
 | 36 | 539 | Karin Gillen |
 | 37 | 521 | Hyp James NObettadanluvarat |
 | 38 | 518 | comrade fish |
-| 39 | 517 | Jen Sartain |
-| 40 | 517 | Felicia Lewis |
+| 39 | 517 | Felicia Lewis |
+| 40 | 517 | Jen Sartain |
 | 41 | 510 | Colena Davenport |
 | 42 | 508 | Michelle Nicole |
 | 43 | 505 | Kristen Roles Robben |
@@ -132,8 +132,8 @@
 | 124 | 190 | Thorne Shumate |
 | 125 | 190 | Sweetts |
 | 126 | 188 | Sam Williams |
-| 127 | 187 | Plucky Ziggy |
-| 128 | 187 | Snippy Wipebuilder |
+| 127 | 187 | Snippy Wipebuilder |
+| 128 | 187 | Plucky Ziggy |
 | 129 | 186 | Jennifer Olewnik Soborowski |
 | 130 | 182 | Spunky Piecebuilder |
 | 131 | 180 | BigWeenie69 |
@@ -143,8 +143,8 @@
 | 135 | 177 | ParisandCory Champagne |
 | 136 | 177 | Michael |
 | 137 | 176 | Basment Living |
-| 138 | 171 | David DeSantis |
-| 139 | 171 | Greg Premoe |
+| 138 | 171 | Greg Premoe |
+| 139 | 171 | David DeSantis |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
@@ -156,8 +156,8 @@
 | 148 | 162 | Tanya Carpenter-Reynolds |
 | 149 | 161 | Jessie Lynn |
 | 150 | 159 | Cece Ibarra |
-| 151 | 156 | Arianna O'Brien |
-| 152 | 156 | Tyler Werts |
+| 151 | 156 | Tyler Werts |
+| 152 | 156 | Arianna O'Brien |
 | 153 | 154 | Irual Hctrab |
 | 154 | 153 | Shiny Gridmatch |
 | 155 | 152 | Trina Gee |

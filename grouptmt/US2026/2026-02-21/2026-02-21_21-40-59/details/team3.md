@@ -79,8 +79,8 @@
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
 | 73 | 504 | Jay Horn |
-| 74 | 502 | Justin Ritter |
-| 75 | 502 | Joey Banks |
+| 74 | 502 | Joey Banks |
+| 75 | 502 | Justin Ritter |
 | 76 | 493 | Mandy Smith Oldham |
 | 77 | 485 | Susan Valentino |
 | 78 | 480 | Nate Burnside |

@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Lazy Blocker |
-| 217 | 111 | Kristin MacDonald |
+| 216 | 111 | Kristin MacDonald |
+| 217 | 111 | Lazy Blocker |
 | 218 | 109 | Frank Cook |
 | 219 | 109 | Ak Jones |
 | 220 | 108 | Rebecca Morris |

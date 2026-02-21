@@ -260,7 +260,7 @@
 | 252 | 509 | Jordan Kaiser |
 | 253 | 506 | AISlop |
 | 254 | 504 | Gene Mills |
-| 255 | 504 | ShinyRose |
+| 255 | 504 | Cherica Taylor |
 | 256 | 503 | tejas25 |
 | 257 | 502 | Magic steve |
 | 258 | 502 | Poppy Snap |
@@ -302,8 +302,8 @@
 | 294 | 447 | Maegan Beaule |
 | 295 | 447 | Lourisha |
 | 296 | 445 | Mar Q Thomas |
-| 297 | 442 | Daphne Jordan |
-| 298 | 442 | Leah |
+| 297 | 442 | Leah |
+| 298 | 442 | Daphne Jordan |
 | 299 | 442 | Joshua Mandel |
 | 300 | 440 | Liberty |
 | 301 | 439 | Alisa Lamb |
@@ -313,10 +313,10 @@
 | 305 | 436 | Melissa Kay Gibson |
 | 306 | 435 | Kimberly Randesi |
 | 307 | 433 | Victor Obiakarije |
-| 308 | 428 | Rhonda Milstead |
-| 309 | 428 | Crystie Hicks |
-| 310 | 427 | Destiny Cozier |
-| 311 | 427 | Amanda Ferrell |
+| 308 | 428 | Crystie Hicks |
+| 309 | 428 | Rhonda Milstead |
+| 310 | 427 | Amanda Ferrell |
+| 311 | 427 | Destiny Cozier |
 | 312 | 425 | Skyler Morgan |
 | 313 | 425 | Julay |
 | 314 | 423 | Shaun Church |
@@ -325,8 +325,8 @@
 | 317 | 421 | Vanessa Moreno |
 | 318 | 418 | Shelley Thornburgh Wright |
 | 319 | 416 | Lina Sanders |
-| 320 | 414 | Kara Gillen |
-| 321 | 414 | Sabrina Burton |
+| 320 | 414 | Sabrina Burton |
+| 321 | 414 | Kara Gillen |
 | 322 | 414 | Emily Lyric Converse |
 | 323 | 414 | John |
 | 324 | 413 | Sam |
@@ -558,8 +558,8 @@
 | 550 | 256 | Tee Jaleesa |
 | 551 | 256 | Eric Carlson |
 | 552 | 256 | Amy Humphreys |
-| 553 | 256 | Brenna Yearian |
-| 554 | 256 | Quirky Twistline |
+| 553 | 256 | Quirky Twistline |
+| 554 | 256 | Brenna Yearian |
 | 555 | 255 | Hillary Crawford |
 | 556 | 255 | Danielle Ayoub |
 | 557 | 254 | Elizabeth Diraffaele |
@@ -588,8 +588,8 @@
 | 580 | 245 | Mary Boss |
 | 581 | 245 | Sanaa Nounoussa |
 | 582 | 244 | Maxwell Escalera |
-| 583 | 244 | Nakiiya Dreamcatcher Gore |
-| 584 | 244 | Court |
+| 583 | 244 | Court |
+| 584 | 244 | Nakiiya Dreamcatcher Gore |
 | 585 | 243 | JacJac |
 | 586 | 242 | Lianne Giandalone LaBounty |
 | 587 | 242 | Donna Chandler |
@@ -610,9 +610,9 @@
 | 602 | 234 | Kay Stevenson |
 | 603 | 234 | Jennifer Leigh |
 | 604 | 234 | Jaybee Nguyen |
-| 605 | 233 | Nutty Matchline |
-| 606 | 233 | Myleaha Holley |
-| 607 | 233 | Epic Spinfit |
+| 605 | 233 | Epic Spinfit |
+| 606 | 233 | Nutty Matchline |
+| 607 | 233 | Myleaha Holley |
 | 608 | 233 | Jumpy Gridclear |
 | 609 | 232 | Tom Steffen |
 | 610 | 232 | Bella Novia |
@@ -628,8 +628,8 @@
 | 620 | 226 | Cassie Newton |
 | 621 | 226 | Jodi Mitnick |
 | 622 | 226 | Christina Wsn |
-| 623 | 225 | BK Queen |
-| 624 | 225 | Meganator42 |
+| 623 | 225 | Meganator42 |
+| 624 | 225 | BK Queen |
 | 625 | 225 | Blacc Blac |
 | 626 | 225 | Stanley Vanekelenburg |
 | 627 | 223 | Jess Morrison |
@@ -643,8 +643,8 @@
 | 635 | 220 | Jennifer Coe |
 | 636 | 220 | Katrina Weston |
 | 637 | 220 | Brenna Ann |
-| 638 | 219 | Trista Carter |
-| 639 | 219 | Cathy Bitters |
+| 638 | 219 | Cathy Bitters |
+| 639 | 219 | Trista Carter |
 | 640 | 219 | Josh Webster |
 | 641 | 218 | Twisty Tetriblast |
 | 642 | 218 | Shylee Tilman |
