@@ -14,8 +14,8 @@
 | 6 | 579 | Cheeky Twistslam |
 | 7 | 555 | Jayme Sellers |
 | 8 | 532 | Andrea Dañielle Ortiz |
-| 9 | 497 | Fancy Shuffler |
-| 10 | 497 | Lawrence Belanger |
+| 9 | 497 | Lawrence Belanger |
+| 10 | 497 | Fancy Shuffler |
 | 11 | 473 | Sevens4L |
 | 12 | 455 | Jen Sartain |
 | 13 | 451 | Jorge Andrade |
@@ -97,8 +97,8 @@
 | 89 | 96 | Nery Martinez |
 | 90 | 96 | Melissa Lemmon |
 | 91 | 94 | Bindi |
-| 92 | 93 | Adryane Schnase |
-| 93 | 93 | Loony Fitzone |
+| 92 | 93 | Loony Fitzone |
+| 93 | 93 | Adryane Schnase |
 | 94 | 91 | Spunky Piecebuilder |
 | 95 | 90 | Madison Wicks |
 | 96 | 87 | TSwag |

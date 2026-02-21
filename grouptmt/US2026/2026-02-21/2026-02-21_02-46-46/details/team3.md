@@ -58,8 +58,8 @@
 | 50 | 320 | Or Reznitsky |
 | 51 | 316 | Fancy Cascader |
 | 52 | 311 | Kristie |
-| 53 | 307 | Clever Roll |
-| 54 | 307 | Peggi Charon |
+| 53 | 307 | Peggi Charon |
+| 54 | 307 | Clever Roll |
 | 55 | 303 | Tasha Schriewer |
 | 56 | 300 | Sherika C. McDaniels |
 | 57 | 297 | Delilah belle |

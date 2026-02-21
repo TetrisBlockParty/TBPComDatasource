@@ -68,9 +68,9 @@
 | 60 | 674 | Dannette Goldberg-Richards |
 | 61 | 672 | Wendy Harder Gage |
 | 62 | 671 | Vo'Landa Reels |
-| 63 | 658 | Vistabrat |
-| 64 | 658 | Pacynthia Williams |
-| 65 | 658 | Dreamy Blast |
+| 63 | 658 | Pacynthia Williams |
+| 64 | 658 | Dreamy Blast |
+| 65 | 658 | Vistabrat |
 | 66 | 656 | E_Money04 |
 | 67 | 649 | Stephanie Chapman |
 | 68 | 639 | Anna Edwards |
@@ -103,8 +103,8 @@
 | 95 | 465 | Tommy Tha Boss Gunz |
 | 96 | 459 | Lisa Ongtowasruk |
 | 97 | 450 | Mari Ac |
-| 98 | 448 | Jojo Momma |
-| 99 | 448 | Nick Jensen |
+| 98 | 448 | Nick Jensen |
+| 99 | 448 | Jojo Momma |
 | 100 | 442 | Daphne Jordan |
 | 101 | 440 | Becky Weeks-Garry |
 | 102 | 440 | BYM4L |
@@ -225,8 +225,8 @@
 | 217 | 233 | Alyssia Tancredi |
 | 218 | 231 | Dylan Thomason |
 | 219 | 231 | Ginger |
-| 220 | 231 | Ashley Lopez |
-| 221 | 231 | Maegan Beaule |
+| 220 | 231 | Maegan Beaule |
+| 221 | 231 | Ashley Lopez |
 | 222 | 227 | Nutty Matchline |
 | 223 | 226 | Tammy Allen |
 | 224 | 224 | snkylnk |
@@ -246,8 +246,8 @@
 | 238 | 207 | Melissa McCall |
 | 239 | 207 | Loopy Clusterbuilder |
 | 240 | 206 | RAEPR05 |
-| 241 | 205 | Lylymom |
-| 242 | 205 | ElizabethAnn Dickinson |
+| 241 | 205 | ElizabethAnn Dickinson |
+| 242 | 205 | Lylymom |
 | 243 | 204 | Ali Gralski |
 | 244 | 204 | Johnny Yeates |
 | 245 | 204 | Rebecca Doughman |
@@ -329,7 +329,7 @@
 | 321 | 157 | Klee |
 | 322 | 156 | Ramone Armstrong |
 | 323 | 156 | Deanna Morton |
-| 324 | 156 | Ramone Armstrong |
+| 324 | 156 | Nuggets |
 | 325 | 156 | Ashlyn Berner |
 | 326 | 155 | Chelle |
 | 327 | 155 | Monarca26 |
