@@ -79,13 +79,13 @@
 | 71 | 134 | Chirpy Basepiece |
 | 72 | 134 | Jessica Bohlken |
 | 73 | 133 | Robin Watters |
-| 74 | 132 | Jenna McGeorge |
-| 75 | 132 | Degenerate |
+| 74 | 132 | Degenerate |
+| 75 | 132 | Jenna McGeorge |
 | 76 | 131 | Zany Twisterfit |
-| 77 | 130 | Lucas J Sutton |
-| 78 | 130 | Casey Jeffcoat |
-| 79 | 129 | John Brunetti |
-| 80 | 129 | Landon Keith Graffeo |
+| 77 | 130 | Casey Jeffcoat |
+| 78 | 130 | Lucas J Sutton |
+| 79 | 129 | Landon Keith Graffeo |
+| 80 | 129 | John Brunetti |
 | 81 | 126 | Tanner Lund |
 | 82 | 125 | Lauren Scott |
 | 83 | 123 | Nugget |
@@ -129,10 +129,10 @@
 | 121 | 96 | Zappy Snaplink |
 | 122 | 93 | Zesty Twistbuilder |
 | 123 | 92 | Kristin MacDonald |
-| 124 | 90 | Judy Cox |
-| 125 | 90 | Bubbly Puzzler |
-| 126 | 89 | Brandi Durig |
-| 127 | 89 | Jeremy Steines |
+| 124 | 90 | Bubbly Puzzler |
+| 125 | 90 | Judy Cox |
+| 126 | 89 | Jeremy Steines |
+| 127 | 89 | Brandi Durig |
 | 128 | 88 | Heather Tushner |
 | 129 | 88 | Kesha Brady |
 | 130 | 87 | Lauren Lamb |

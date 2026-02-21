@@ -165,8 +165,8 @@
 | 157 | 381 | Amanda Ferrell |
 | 158 | 380 | Calandra Shaya Robinson |
 | 159 | 380 | Joshua Mandel |
-| 160 | 377 | Roy Salyer |
-| 161 | 377 | Liberty |
+| 160 | 377 | Liberty |
+| 161 | 377 | Roy Salyer |
 | 162 | 365 | April Dawn Gussler |
 | 163 | 364 | Stephanie Neuburger |
 | 164 | 364 | Shinette Dobson |
@@ -217,8 +217,8 @@
 | 209 | 293 | David Holliday |
 | 210 | 292 | Nashu |
 | 211 | 291 | Arwa Fatimah |
-| 212 | 290 | Jessie McDougald |
-| 213 | 290 | Victoria Moore-Smith |
+| 212 | 290 | Victoria Moore-Smith |
+| 213 | 290 | Jessie McDougald |
 | 214 | 288 | Elisheva Mizrachi |
 | 215 | 287 | Claire |
 | 216 | 286 | Ryan Gunther |
@@ -241,8 +241,8 @@
 | 233 | 271 | Toni Lynn |
 | 234 | 270 | Angela Lynn |
 | 235 | 270 | Alexandra Weir |
-| 236 | 268 | Vanessa Moreno |
-| 237 | 268 | Chummy Blockbuilder |
+| 236 | 268 | Chummy Blockbuilder |
+| 237 | 268 | Vanessa Moreno |
 | 238 | 267 | Mindy Leigh Head |
 | 239 | 266 | Autumn Schaeffer |
 | 240 | 266 | Mighty Shatterfit |

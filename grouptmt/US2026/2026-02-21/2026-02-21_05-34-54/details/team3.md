@@ -117,8 +117,8 @@
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Jone |
-| 113 | 159 | Morgan Martinez |
+| 112 | 159 | Morgan Martinez |
+| 113 | 159 | Jone |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
@@ -215,9 +215,9 @@
 | 207 | 94 | Angie Harper |
 | 208 | 93 | Tiffany Ford |
 | 209 | 92 | Jennifer Caputo |
-| 210 | 90 | Rebel124 |
+| 210 | 90 | Nichole Greene |
 | 211 | 90 | Tiffany Kaupang |
-| 212 | 90 | Nichole Greene |
+| 212 | 90 | Rebel124 |
 | 213 | 89 | Shicken Nuggit |
 | 214 | 88 | Ava Petito |
 | 215 | 88 | RickyG |
