@@ -47,8 +47,8 @@
 | 39 | 497 | Anthony Bryan Riva |
 | 40 | 494 | Rodney McMath Jr. |
 | 41 | 486 | Landon Keith Graffeo |
-| 42 | 483 | Kimberly Love |
-| 43 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Carmethia Clemons Haslerig |
+| 43 | 483 | Kimberly Love |
 | 44 | 470 | Carolyn Wallace |
 | 45 | 465 | Dawn Alexander |
 | 46 | 463 | Lisa Davis |
@@ -151,8 +151,8 @@
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Bethany Ison |
 | 145 | 151 | Avy Absol |
-| 146 | 149 | Diana Houts |
-| 147 | 149 | Roger Coulter |
+| 146 | 149 | Roger Coulter |
+| 147 | 149 | Diana Houts |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
 | 150 | 147 | Jay28 |

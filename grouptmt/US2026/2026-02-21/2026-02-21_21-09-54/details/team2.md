@@ -215,8 +215,8 @@
 | 207 | 571 | Thomas Hedrick |
 | 208 | 569 | Vaniel Glover |
 | 209 | 569 | Jánine Riggs |
-| 210 | 563 | goofinoff |
-| 211 | 563 | Auntie B |
+| 210 | 563 | Auntie B |
+| 211 | 563 | goofinoff |
 | 212 | 561 | Kristopher Miller |
 | 213 | 556 | Shavonna Haynes |
 | 214 | 553 | Leslie Ann Carter |
@@ -294,8 +294,8 @@
 | 286 | 445 | Mar Q Thomas |
 | 287 | 445 | Dedra Steward |
 | 288 | 442 | Joshua Mandel |
-| 289 | 442 | Leah |
-| 290 | 442 | Daphne Jordan |
+| 289 | 442 | Daphne Jordan |
+| 290 | 442 | Leah |
 | 291 | 440 | Liberty |
 | 292 | 439 | Alisa Lamb |
 | 293 | 439 | Joseph Musick |
@@ -479,8 +479,8 @@
 | 471 | 301 | Funky Caster |
 | 472 | 299 | Megan Phillips |
 | 473 | 299 | Diallo Sparkman |
-| 474 | 298 | Snappy Shatterfit |
-| 475 | 298 | RetroLemur |
+| 474 | 298 | RetroLemur |
+| 475 | 298 | Snappy Shatterfit |
 | 476 | 297 | Peachy Blockbuilder |
 | 477 | 296 | Jennifer Darby |
 | 478 | 296 | Jennifer Casey-Kay |
@@ -606,7 +606,7 @@
 | 598 | 234 | Jennifer Leigh |
 | 599 | 234 | Jaybee Nguyen |
 | 600 | 233 | Jumpy Gridclear |
-| 601 | 233 | Nutty Matchline |
+| 601 | 233 | Epic Spinfit |
 | 602 | 233 | Myleaha Holley |
 | 603 | 233 | Nutty Matchline |
 | 604 | 232 | Bella Novia |
@@ -1210,7 +1210,7 @@
 | 1202 | 116 | Zach Doiron |
 | 1203 | 116 | Kiana Serrao |
 | 1204 | 116 | Carla Cervantes |
-| 1205 | 116 | Zach Doiron |
+| 1205 | 116 | Loony Dashy |
 | 1206 | 115 | Melissa Schwager |
 | 1207 | 115 | Kayla Krol |
 | 1208 | 115 | Robert Smith |

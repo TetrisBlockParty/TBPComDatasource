@@ -78,8 +78,8 @@
 | 70 | 528 | Giddy Drop |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Justin Ritter |
-| 74 | 502 | Joey Banks |
+| 73 | 502 | Joey Banks |
+| 74 | 502 | Justin Ritter |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 480 | Nate Burnside |
@@ -102,8 +102,8 @@
 | 94 | 394 | joclisa |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
-| 97 | 390 | Annie Déè |
-| 98 | 390 | Hasty Cascadefit |
+| 97 | 390 | Hasty Cascadefit |
+| 98 | 390 | Annie Déè |
 | 99 | 389 | Elissa S-k |
 | 100 | 387 | Jay Horn |
 | 101 | 386 | Katie Knaus |
@@ -132,8 +132,8 @@
 | 124 | 307 | Peggi Charon |
 | 125 | 307 | Blocked |
 | 126 | 305 | Tessina Dewey-Mancino |
-| 127 | 300 | Stephanie Blkpep Davidson |
-| 128 | 300 | Sherika C. McDaniels |
+| 127 | 300 | Sherika C. McDaniels |
+| 128 | 300 | Stephanie Blkpep Davidson |
 | 129 | 293 | Poppy Splitter |
 | 130 | 287 | Logan Naccarato |
 | 131 | 286 | Jacqueline Rodriguez |
@@ -314,10 +314,10 @@
 | 306 | 122 | Nichol Graham |
 | 307 | 121 | Fredd Thomas |
 | 308 | 120 | Shicken Nuggit |
-| 309 | 119 | BugMansMom |
-| 310 | 119 | Tasha Gillespie |
+| 309 | 119 | Tasha Gillespie |
+| 310 | 119 | BugMansMom |
 | 311 | 119 | Daring Builder |
-| 312 | 118 | Damian Reid |
+| 312 | 118 | Michael Nowogorski |
 | 313 | 118 | Fancy Curver |
 | 314 | 118 | Damian Reid |
 | 315 | 117 | Dee Pratt |
@@ -392,7 +392,7 @@
 | 384 | 93 | Kellie Montgomery |
 | 385 | 92 | Jennifer Caputo |
 | 386 | 92 | Alison Baus |
-| 387 | 92 | Jennifer Caputo |
+| 387 | 92 | Jackie-Lynne Goertzen |
 | 388 | 92 | Melanie Sherwood |
 | 389 | 91 | G |
 | 390 | 91 | Chenoa Urban Sophicated Redy |

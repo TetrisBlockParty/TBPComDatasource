@@ -141,8 +141,8 @@
 | 133 | 177 | Michael |
 | 134 | 177 | ParisandCory Champagne |
 | 135 | 176 | Basment Living |
-| 136 | 171 | David DeSantis |
-| 137 | 171 | Greg Premoe |
+| 136 | 171 | Greg Premoe |
+| 137 | 171 | David DeSantis |
 | 138 | 170 | Veronica Eve |
 | 139 | 169 | Abbey Crespo |
 | 140 | 169 | Austin James |
