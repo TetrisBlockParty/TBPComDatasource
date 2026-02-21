@@ -111,8 +111,8 @@
 | 103 | 129 | John Brunetti |
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
-| 106 | 123 | Nugget |
-| 107 | 123 | Bubbly Puzzler |
+| 106 | 123 | Bubbly Puzzler |
+| 107 | 123 | Nugget |
 | 108 | 123 | Cherrish Duren |
 | 109 | 122 | Sherri |
 | 110 | 121 | Megan Cutshaw |
@@ -586,8 +586,8 @@
 | 578 | 23 | Hediyuda |
 | 579 | 22 | Ernest Maxwell |
 | 580 | 22 | Christina O'Dell-Ishau |
-| 581 | 22 | Ernest Maxwell |
-| 582 | 22 | Patrick Cookson |
+| 581 | 22 | Carlos Hernandez |
+| 582 | 22 | Kelly Williams |
 | 583 | 22 | Glitzy Corner |
 | 584 | 22 | Patrick Cookson |
 | 585 | 22 | Thomas R. Phillips |

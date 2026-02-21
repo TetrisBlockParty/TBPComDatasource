@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Annie Déè |
-| 71 | 342 | Trezure Gonzalez |
+| 70 | 342 | Trezure Gonzalez |
+| 71 | 342 | Annie Déè |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -210,8 +210,8 @@
 | 202 | 108 | Rachel Napper |
 | 203 | 108 | LaTanya GeminiondaRise Johnson |
 | 204 | 107 | Sherry Ogden |
-| 205 | 106 | Eon Harris |
-| 206 | 106 | Desiree Gold |
+| 205 | 106 | Desiree Gold |
+| 206 | 106 | Eon Harris |
 | 207 | 105 | Emi |
 | 208 | 105 | Carol Cain Thurman |
 | 209 | 104 | bean |
