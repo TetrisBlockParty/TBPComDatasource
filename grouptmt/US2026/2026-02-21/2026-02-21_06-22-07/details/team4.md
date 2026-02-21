@@ -91,8 +91,8 @@
 | 83 | 131 | Dana Scott |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | Landon Keith Graffeo |
-| 87 | 129 | John Brunetti |
+| 86 | 129 | John Brunetti |
+| 87 | 129 | Landon Keith Graffeo |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Nugget |
@@ -110,8 +110,8 @@
 | 102 | 114 | Jessica Cagle |
 | 103 | 114 | Zany Shatterer |
 | 104 | 113 | Andria Lynn |
-| 105 | 112 | Bryan Hodgins |
-| 106 | 112 | Austin Owens |
+| 105 | 112 | Austin Owens |
+| 106 | 112 | Bryan Hodgins |
 | 107 | 112 | Brittany Marsh |
 | 108 | 111 | Lazy Blocker |
 | 109 | 111 | Gwendolyn Pitcairn |
