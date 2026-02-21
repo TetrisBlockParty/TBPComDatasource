@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
 | 85 | 307 | Blocked |
 | 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
@@ -167,8 +167,8 @@
 | 159 | 142 | Erica Anderson |
 | 160 | 140 | Gumbo |
 | 161 | 140 | Jay Horn |
-| 162 | 135 | Cheryl Hinch Tenbrook |
-| 163 | 135 | Nicole Flippo |
+| 162 | 135 | Nicole Flippo |
+| 163 | 135 | Cheryl Hinch Tenbrook |
 | 164 | 134 | Emma |
 | 165 | 134 | DanceLuvLaugh |
 | 166 | 131 | Jl |
@@ -258,9 +258,9 @@
 | 250 | 95 | MizzMonick Smith |
 | 251 | 94 | Angie Harper |
 | 252 | 93 | Tiffany Ford |
-| 253 | 92 | Trice Thomas |
+| 253 | 92 | Ava Petito |
 | 254 | 92 | Jennifer Caputo |
-| 255 | 92 | Ava Petito |
+| 255 | 92 | Trice Thomas |
 | 256 | 91 | Martin Bernier |
 | 257 | 90 | Tiffany Kaupang |
 | 258 | 90 | Whitney Manuel |
@@ -279,7 +279,7 @@
 | 271 | 88 | Kelly Koenig |
 | 272 | 87 | FATTY |
 | 273 | 87 | Kellie Montgomery |
-| 274 | 87 | FATTY |
+| 274 | 87 | Boldy Blocker |
 | 275 | 86 | Clever Clearbuilder |
 | 276 | 86 | Criss |
 | 277 | 85 | Crystel b520 |

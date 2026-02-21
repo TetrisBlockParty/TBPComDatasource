@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Sweet Baker |
-| 41 | 274 | Theo Pinnow |
+| 40 | 274 | Theo Pinnow |
+| 41 | 274 | Sweet Baker |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Tipsy Column |
 | 44 | 256 | Shauna Loe |
@@ -67,17 +67,17 @@
 | 59 | 201 | Ananda Mendez |
 | 60 | 201 | Anaid Sanchez |
 | 61 | 200 | Lexuriuos Lifestlye |
-| 62 | 198 | Billie Dawn Sparks |
-| 63 | 198 | Happy Snapbuild |
+| 62 | 198 | Happy Snapbuild |
+| 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Giggly Builderline |
-| 66 | 194 | Sharon Reynolds |
+| 65 | 194 | Sharon Reynolds |
+| 66 | 194 | Giggly Builderline |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 192 | Mandyy Rae |
 | 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
-| 71 | 190 | Thorne Shumate |
-| 72 | 190 | Sweetts |
+| 71 | 190 | Sweetts |
+| 72 | 190 | Thorne Shumate |
 | 73 | 189 | Happy Basegrid |
 | 74 | 180 | Erez Yosef |
 | 75 | 173 | june october |

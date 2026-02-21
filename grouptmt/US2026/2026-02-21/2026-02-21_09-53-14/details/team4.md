@@ -124,8 +124,8 @@
 | 116 | 120 | Joshua Guess |
 | 117 | 119 | Kristin Manee |
 | 118 | 118 | Leslie Nicole |
-| 119 | 116 | Serena Goodridge |
-| 120 | 116 | Diana Houts |
+| 119 | 116 | Diana Houts |
+| 120 | 116 | Serena Goodridge |
 | 121 | 115 | Jayk |
 | 122 | 115 | Ultramarine |
 | 123 | 113 | Stephme310 |
@@ -133,8 +133,8 @@
 | 125 | 112 | Austin Owens |
 | 126 | 112 | Brittany Marsh |
 | 127 | 112 | Bryan Hodgins |
-| 128 | 111 | Lazy Blocker |
-| 129 | 111 | Gwendolyn Pitcairn |
+| 128 | 111 | Gwendolyn Pitcairn |
+| 129 | 111 | Lazy Blocker |
 | 130 | 110 | H.R. Block |
 | 131 | 108 | Rio Rocha |
 | 132 | 107 | TinyLegoRose |

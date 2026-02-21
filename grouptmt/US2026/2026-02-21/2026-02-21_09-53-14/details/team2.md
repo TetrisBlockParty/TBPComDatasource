@@ -259,8 +259,8 @@
 | 251 | 299 | Christy Krissie |
 | 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
-| 254 | 296 | Jennifer Casey-Kay |
-| 255 | 296 | Amber Gray |
+| 254 | 296 | Amber Gray |
+| 255 | 296 | Jennifer Casey-Kay |
 | 256 | 296 | Jennifer Darby |
 | 257 | 295 | Zany Clusterbuilder |
 | 258 | 295 | Diallo Sparkman |
@@ -297,8 +297,8 @@
 | 289 | 272 | Mikayala Szaz |
 | 290 | 271 | Ann Marie Davis |
 | 291 | 271 | Toni Lynn |
-| 292 | 270 | Christina Ashley |
-| 293 | 270 | Angela Lynn |
+| 292 | 270 | Angela Lynn |
+| 293 | 270 | Christina Ashley |
 | 294 | 270 | Alexandra Weir |
 | 295 | 269 | Reece Smith |
 | 296 | 268 | Chummy Blockbuilder |
@@ -353,8 +353,8 @@
 | 345 | 238 | Cheery Matchzone |
 | 346 | 236 | snkylnk |
 | 347 | 236 | Frisky Riserbuilder |
-| 348 | 236 | Niceday |
-| 349 | 236 | Julio A Laracuente |
+| 348 | 236 | Julio A Laracuente |
+| 349 | 236 | Niceday |
 | 350 | 235 | Kimberly Mitchell |
 | 351 | 234 | Jennifer Leigh |
 | 352 | 234 | Manny Trindade |
@@ -404,8 +404,8 @@
 | 396 | 200 | LaWanda Powell |
 | 397 | 200 | Sarah Ridenour |
 | 398 | 199 | Fi Ne |
-| 399 | 199 | Jenny Castro |
-| 400 | 199 | Jessica Sutter |
+| 399 | 199 | Jessica Sutter |
+| 400 | 199 | Jenny Castro |
 | 401 | 198 | Angie Bolton Workman |
 | 402 | 198 | Alyssa Dean |
 | 403 | 197 | Alyssa Nadine Medelez |
@@ -543,8 +543,8 @@
 | 535 | 150 | Jodi Mitnick |
 | 536 | 150 | Candace Noel |
 | 537 | 150 | Greenshades00 |
-| 538 | 149 | Melissa Rebbe-Lehman |
-| 539 | 149 | Brianna Cerney |
+| 538 | 149 | Brianna Cerney |
+| 539 | 149 | Melissa Rebbe-Lehman |
 | 540 | 149 | Leslie Porter |
 | 541 | 149 | Boldy Cascadepiece |
 | 542 | 148 | AgileDragon |
@@ -616,8 +616,8 @@
 | 608 | 134 | Slinky Risegrid |
 | 609 | 134 | Swanky Columnbuilder |
 | 610 | 134 | Dandy Drop |
-| 611 | 134 | Quinn |
-| 612 | 134 | Leebo Slice |
+| 611 | 134 | Leebo Slice |
+| 612 | 134 | Christina Jones |
 | 613 | 134 | Sarah Massey |
 | 614 | 134 | Quinn |
 | 615 | 133 | Jess Orosz |
@@ -633,8 +633,8 @@
 | 625 | 132 | Paula Snyder |
 | 626 | 132 | Chilly Rollblock |
 | 627 | 132 | Mr. Street Stack |
-| 628 | 131 | Kerry Miller |
-| 629 | 131 | Lazy Builderfit |
+| 628 | 131 | Lazy Builderfit |
+| 629 | 131 | Kerry Miller |
 | 630 | 131 | Deidre Shaffer |
 | 631 | 131 | Jennie Lee Huntley |
 | 632 | 131 | Carson Goldminc |
@@ -682,8 +682,8 @@
 | 674 | 125 | Jamie Frank Karolyi |
 | 675 | 125 | Binyah-Binyah |
 | 676 | 125 | Goofy Blockfall |
-| 677 | 124 | Tommy Stuck |
-| 678 | 124 | Kendall Fullerton |
+| 677 | 124 | Kendall Fullerton |
+| 678 | 124 | Tommy Stuck |
 | 679 | 124 | Witty Piecebuilder |
 | 680 | 124 | Jazzy Grabber |
 | 681 | 124 | Samantha Williams-Bittner |
