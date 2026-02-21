@@ -347,8 +347,8 @@
 | 339 | 383 | Arkei Luster |
 | 340 | 382 | David Holliday |
 | 341 | 381 | Bubbly Snapfit |
-| 342 | 378 | Christina Ashley |
-| 343 | 378 | TF Dyer |
+| 342 | 378 | TF Dyer |
+| 343 | 378 | Christina Ashley |
 | 344 | 378 | Cody Nishimura |
 | 345 | 377 | Roy Salyer |
 | 346 | 376 | Caitlin Schmid |
@@ -638,7 +638,7 @@
 | 630 | 214 | Dawn L Washington-Feuquay |
 | 631 | 214 | Cass Shirley |
 | 632 | 212 | BK Queen |
-| 633 | 212 | Denelle Wendt-Ramalho |
+| 633 | 212 | Gina Justbeingme Chillis |
 | 634 | 212 | Laura Mcfee |
 | 635 | 212 | Denelle Wendt-Ramalho |
 | 636 | 212 | Josh Webster |

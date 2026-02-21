@@ -166,8 +166,8 @@
 | 158 | 219 | Shunta Jacobs |
 | 159 | 218 | LaNette Morgan |
 | 160 | 217 | Jess Bissett |
-| 161 | 214 | Jenny Hrndz |
-| 162 | 214 | Amy Fuller Heaton |
+| 161 | 214 | Amy Fuller Heaton |
+| 162 | 214 | Jenny Hrndz |
 | 163 | 212 | Krystal Gerstberger |
 | 164 | 211 | Katrina Turner |
 | 165 | 207 | Nicole Myers |
@@ -246,7 +246,7 @@
 | 238 | 149 | Peachy Rollfit |
 | 239 | 149 | Angel Mendez |
 | 240 | 148 | Wetwet |
-| 241 | 148 | Gumbo |
+| 241 | 148 | Jennifer Alvey |
 | 242 | 148 | Sabrina Hardrick |
 | 243 | 148 | Gumbo |
 | 244 | 147 | Cheryl Hinch Tenbrook |
