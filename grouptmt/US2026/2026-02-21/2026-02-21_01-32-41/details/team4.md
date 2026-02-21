@@ -74,8 +74,8 @@
 | 66 | 98 | Duck |
 | 67 | 98 | Stephme310 |
 | 68 | 97 | YoMomma |
-| 69 | 96 | Zappy Snaplink |
-| 70 | 96 | TinyLegoRose |
+| 69 | 96 | TinyLegoRose |
+| 70 | 96 | Zappy Snaplink |
 | 71 | 94 | Chilly Line |
 | 72 | 92 | Kristin MacDonald |
 | 73 | 90 | ZeeZee |

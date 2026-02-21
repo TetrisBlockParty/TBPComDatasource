@@ -49,10 +49,10 @@
 | 41 | 151 | Hyper |
 | 42 | 146 | Abbey Crespo |
 | 43 | 145 | Lachelle Dillon |
-| 44 | 144 | Tanya Carpenter-Reynolds |
-| 45 | 144 | Plucky Ziggy |
-| 46 | 144 | Jessie Lynn |
-| 47 | 144 | Tana |
+| 44 | 144 | Tana |
+| 45 | 144 | Jessie Lynn |
+| 46 | 144 | Plucky Ziggy |
+| 47 | 144 | Tanya Carpenter-Reynolds |
 | 48 | 143 | Veronica Eve |
 | 49 | 141 | Susanna Guerry |
 | 50 | 137 | Nadine Velardo |
