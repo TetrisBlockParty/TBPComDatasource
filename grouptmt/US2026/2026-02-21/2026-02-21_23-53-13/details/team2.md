@@ -230,8 +230,8 @@
 | 222 | 619 | Jamie Otero |
 | 223 | 618 | Gabby Jenner |
 | 224 | 612 | Brandon Armstrong |
-| 225 | 608 | goofinoff |
-| 226 | 608 | Sommer Shope |
+| 225 | 608 | Sommer Shope |
+| 226 | 608 | goofinoff |
 | 227 | 606 | Ellie Jonas |
 | 228 | 605 | Jelly |
 | 229 | 603 | Cassie Maynard |

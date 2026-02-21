@@ -86,8 +86,8 @@
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
-| 81 | 305 | Plucky Ziggy |
-| 82 | 305 | Patrick Luckenbill |
+| 81 | 305 | Patrick Luckenbill |
+| 82 | 305 | Plucky Ziggy |
 | 83 | 304 | Nicole Roseberry Weber |
 | 84 | 303 | Maria C. Hernandez |
 | 85 | 301 | Hyper |
@@ -116,8 +116,8 @@
 | 108 | 244 | Franswa |
 | 109 | 240 | Tana |
 | 110 | 240 | Chelsea Dahlquist |
-| 111 | 238 | John J. Cronin |
-| 112 | 238 | Steve Schneider |
+| 111 | 238 | Steve Schneider |
+| 112 | 238 | John J. Cronin |
 | 113 | 230 | Frothy Pattern |
 | 114 | 228 | Trippy Redd |
 | 115 | 222 | Kristen Gideon |
@@ -276,8 +276,8 @@
 | 268 | 101 | Owicked1 |
 | 269 | 101 | Loony Fitzone |
 | 270 | 100 | Jessica Weed |
-| 271 | 100 | Plucky Fallzone |
-| 272 | 100 | Debbie Davis |
+| 271 | 100 | Debbie Davis |
+| 272 | 100 | Plucky Fallzone |
 | 273 | 98 | DoodleBug |
 | 274 | 98 | Jeanna Dunn |
 | 275 | 98 | Virginia Gray Floyd |

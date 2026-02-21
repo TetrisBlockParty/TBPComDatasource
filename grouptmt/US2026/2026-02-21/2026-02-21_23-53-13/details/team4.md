@@ -50,8 +50,8 @@
 | 42 | 526 | Goatimus Lombardi |
 | 43 | 519 | Anthony Bryan Riva |
 | 44 | 504 | Ash |
-| 45 | 500 | Savannah Overdorf |
-| 46 | 500 | Rodney McMath Jr. |
+| 45 | 500 | Rodney McMath Jr. |
+| 46 | 500 | Savannah Overdorf |
 | 47 | 496 | Carolyn Wallace |
 | 48 | 491 | Casey Jeffcoat |
 | 49 | 486 | Landon Keith Graffeo |
@@ -251,7 +251,7 @@
 | 243 | 111 | Lazy Blocker |
 | 244 | 110 | Zach Kerbs |
 | 245 | 109 | LS |
-| 246 | 109 | Ak Jones |
+| 246 | 109 | Jessica Miller |
 | 247 | 109 | Frank Cook |
 | 248 | 108 | Ali Ian |
 | 249 | 108 | Rebecca Morris |

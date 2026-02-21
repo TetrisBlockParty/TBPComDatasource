@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Jacqueline Rodriguez |
-| 146 | 286 | Marci Mize Fandrich |
+| 145 | 286 | Marci Mize Fandrich |
+| 146 | 286 | Jacqueline Rodriguez |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
@@ -177,8 +177,8 @@
 | 169 | 243 | Rochelle Hazelett |
 | 170 | 243 | Cynthia Herrmann Egland |
 | 171 | 240 | Jimmie Clemons |
-| 172 | 237 | Rebecca Funderburk Kirby |
-| 173 | 237 | Brandon Givens |
+| 172 | 237 | Brandon Givens |
+| 173 | 237 | Rebecca Funderburk Kirby |
 | 174 | 236 | Fallorina Susana |
 | 175 | 233 | Ray Lader |
 | 176 | 231 | Nikki Pags |
@@ -248,8 +248,8 @@
 | 240 | 169 | Daryn Elliott |
 | 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
-| 243 | 166 | Betty Rosas |
-| 244 | 166 | Beth Ingham |
+| 243 | 166 | Beth Ingham |
+| 244 | 166 | Betty Rosas |
 | 245 | 165 | Kali Kelz Williams |
 | 246 | 165 | Irene Arreguin |
 | 247 | 163 | Christine Trester |
