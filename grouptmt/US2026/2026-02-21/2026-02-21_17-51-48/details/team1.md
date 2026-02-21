@@ -157,8 +157,8 @@
 | 149 | 138 | Death |
 | 150 | 137 | Nadine Velardo |
 | 151 | 136 | Dino |
-| 152 | 135 | Giddy Cascade |
-| 153 | 135 | Cody Slav |
+| 152 | 135 | Cody Slav |
+| 153 | 135 | Giddy Cascade |
 | 154 | 134 | Trina Gee |
 | 155 | 133 | Breanna Luna |
 | 156 | 132 | Davery Spencer Adair |

@@ -29,8 +29,8 @@
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 615 | Breannah Grafe |
 | 23 | 608 | Denny Shives |
-| 24 | 590 | Dee Kay |
-| 25 | 590 | Valerie Roberts |
+| 24 | 590 | Valerie Roberts |
+| 25 | 590 | Dee Kay |
 | 26 | 589 | Chilly Line |
 | 27 | 546 | LisaJo Picken Buchanan |
 | 28 | 541 | Rebecca Moulton Pinciaro |
@@ -98,15 +98,15 @@
 | 90 | 194 | Zany Twisterfit |
 | 91 | 194 | Calvin Cannon |
 | 92 | 192 | Shauna Havard |
-| 93 | 191 | loulou |
-| 94 | 191 | Jeff Brian Gates |
-| 95 | 191 | Melvin Baird |
+| 93 | 191 | Melvin Baird |
+| 94 | 191 | loulou |
+| 95 | 191 | Jeff Brian Gates |
 | 96 | 189 | Calvin Dennis |
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leah Kutz Zirbel |
-| 101 | 180 | Leslie Nicole |
+| 100 | 180 | Leslie Nicole |
+| 101 | 180 | Leah Kutz Zirbel |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -115,11 +115,11 @@
 | 107 | 173 | Ren Mc |
 | 108 | 173 | blockstar |
 | 109 | 171 | Denise Carlson |
-| 110 | 170 | Girl |
-| 111 | 170 | Peachy Fall |
+| 110 | 170 | Peachy Fall |
+| 111 | 170 | Girl |
 | 112 | 164 | ThaEviLJeNiuZ |
-| 113 | 160 | Crystal Carroll |
-| 114 | 160 | Stacey Stano |
+| 113 | 160 | Stacey Stano |
+| 114 | 160 | Crystal Carroll |
 | 115 | 160 | ZeeZee |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
@@ -134,8 +134,8 @@
 | 126 | 147 | Nugget |
 | 127 | 147 | 030Synner |
 | 128 | 146 | Klo |
-| 129 | 144 | Shainne Brewer |
-| 130 | 144 | Mr. Party |
+| 129 | 144 | Mr. Party |
+| 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
 | 132 | 140 | Shannon Ferrari |
 | 133 | 140 | John Brunetti |

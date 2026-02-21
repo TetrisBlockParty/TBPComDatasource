@@ -373,8 +373,8 @@
 | 365 | 88 | Romeo |
 | 366 | 86 | Salena Whitlock |
 | 367 | 86 | Mariah Williams |
-| 368 | 85 | Mike Spritzer |
-| 369 | 85 | Heather De Vries Cobb |
+| 368 | 85 | Heather De Vries Cobb |
+| 369 | 85 | Mike Spritzer |
 | 370 | 85 | Sheila M Frazier |
 | 371 | 85 | Lush Risebuilder |
 | 372 | 85 | Crystel b520 |
@@ -382,13 +382,13 @@
 | 374 | 84 | Spunky Racker |
 | 375 | 84 | gremicx |
 | 376 | 84 | Shalanda Hardy |
-| 377 | 83 | Deseree Ewing |
-| 378 | 83 | Glitzy Slide |
+| 377 | 83 | Glitzy Slide |
+| 378 | 83 | Deseree Ewing |
 | 379 | 82 | Justice 4 P |
-| 380 | 82 | Carrie Linkous |
-| 381 | 82 | Rebecca Funderburk Kirby |
-| 382 | 82 | Moimyzean |
-| 383 | 82 | lema ean |
+| 380 | 82 | Rebecca Funderburk Kirby |
+| 381 | 82 | Carrie Linkous |
+| 382 | 82 | lema ean |
+| 383 | 82 | Moimyzean |
 | 384 | 82 | Eileen Brady Thurber |
 | 385 | 81 | Joseph Vargas |
 | 386 | 81 | Philip Rock |
