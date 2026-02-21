@@ -101,8 +101,8 @@
 | 93 | 193 | Lachelle Dillon |
 | 94 | 192 | Shaykmia |
 | 95 | 191 | Diane Byrd |
-| 96 | 190 | Sweetts |
-| 97 | 190 | Thorne Shumate |
+| 96 | 190 | Thorne Shumate |
+| 97 | 190 | Sweetts |
 | 98 | 189 | Happy Basegrid |
 | 99 | 186 | Jennifer Olewnik Soborowski |
 | 100 | 185 | Ash Galvan |
@@ -114,8 +114,8 @@
 | 106 | 175 | GATOR |
 | 107 | 175 | Nicole Roseberry Weber |
 | 108 | 173 | Frothy Pattern |
-| 109 | 171 | David DeSantis |
-| 110 | 171 | Greg Premoe |
+| 109 | 171 | Greg Premoe |
+| 110 | 171 | David DeSantis |
 | 111 | 169 | Abbey Crespo |
 | 112 | 168 | Standia Civil |
 | 113 | 166 | Rico Rico |
@@ -222,8 +222,8 @@
 | 214 | 100 | Debbie Davis |
 | 215 | 99 | Barrbaric |
 | 216 | 97 | Steve Bomkamp |
-| 217 | 96 | Howdi Duty |
-| 218 | 96 | MommaKFC |
+| 217 | 96 | MommaKFC |
+| 218 | 96 | Howdi Duty |
 | 219 | 94 | Sleepysloath5745 |
 | 220 | 94 | Brad MG |
 | 221 | 90 | Dizzy Riseclear |

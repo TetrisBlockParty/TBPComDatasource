@@ -98,15 +98,15 @@
 | 90 | 194 | Calvin Cannon |
 | 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
-| 93 | 191 | Melvin Baird |
-| 94 | 191 | loulou |
+| 93 | 191 | loulou |
+| 94 | 191 | Melvin Baird |
 | 95 | 191 | Jeff Brian Gates |
 | 96 | 189 | Calvin Dennis |
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leah Kutz Zirbel |
-| 101 | 180 | Leslie Nicole |
+| 100 | 180 | Leslie Nicole |
+| 101 | 180 | Leah Kutz Zirbel |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -114,8 +114,8 @@
 | 106 | 174 | Zethra Prenisha Rahming |
 | 107 | 173 | Ren Mc |
 | 108 | 173 | blockstar |
-| 109 | 170 | Girl |
-| 110 | 170 | Peachy Fall |
+| 109 | 170 | Peachy Fall |
+| 110 | 170 | Girl |
 | 111 | 167 | Denise Carlson |
 | 112 | 164 | ThaEviLJeNiuZ |
 | 113 | 160 | Stacey Stano |
@@ -153,17 +153,17 @@
 | 145 | 131 | Diana Houts |
 | 146 | 130 | Casey Jeffcoat |
 | 147 | 129 | John Brunetti |
-| 148 | 128 | Rio Rocha |
-| 149 | 128 | Stephme310 |
+| 148 | 128 | Stephme310 |
+| 149 | 128 | Rio Rocha |
 | 150 | 127 | Dreamy Snapgrid |
 | 151 | 126 | Dihcheese444 |
 | 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
-| 156 | 122 | 🥔🥔 Spudz |
+| 156 | 122 | Sherri |
 | 157 | 122 | Carlos Ramirez |
-| 158 | 122 | Sherri |
+| 158 | 122 | 🥔🥔 Spudz |
 | 159 | 121 | Smiley Tiltbuilder |
 | 160 | 121 | Megan Cutshaw |
 | 161 | 120 | Joshua Guess |
@@ -179,8 +179,8 @@
 | 171 | 112 | Bryan Hodgins |
 | 172 | 112 | Jeremy Steines |
 | 173 | 112 | Zesty Twistbuilder |
-| 174 | 111 | Lazy Blocker |
-| 175 | 111 | Michelle Morris |
+| 174 | 111 | Michelle Morris |
+| 175 | 111 | Lazy Blocker |
 | 176 | 110 | H.R. Block |
 | 177 | 108 | Ali Ian |
 | 178 | 107 | Rafael Valentin |
@@ -202,8 +202,8 @@
 | 194 | 101 | Saulc1991 |
 | 195 | 101 | mike |
 | 196 | 101 | Nerdy Twisterfit |
-| 197 | 100 | Alexandra Karavias |
-| 198 | 100 | Rebecca Morris |
+| 197 | 100 | Rebecca Morris |
+| 198 | 100 | Alexandra Karavias |
 | 199 | 100 | Cheery Risebuilder |
 | 200 | 99 | Michael Orris |
 | 201 | 98 | Duck |

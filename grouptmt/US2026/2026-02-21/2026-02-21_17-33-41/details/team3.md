@@ -161,13 +161,13 @@
 | 153 | 201 | Rochelle Hazelett |
 | 154 | 195 | Nicha Hooker |
 | 155 | 194 | glichmod |
-| 156 | 193 | Duane Bright |
-| 157 | 193 | Clever Shiftsnap |
-| 158 | 193 | Stephanie Burtin |
+| 156 | 193 | Clever Shiftsnap |
+| 157 | 193 | Stephanie Burtin |
+| 158 | 193 | Duane Bright |
 | 159 | 191 | Scott Carleton |
 | 160 | 191 | Giddy Twistbuilder |
-| 161 | 189 | Sissy Lowery Davis |
-| 162 | 189 | Staci George Fitzsimmons |
+| 161 | 189 | Staci George Fitzsimmons |
+| 162 | 189 | Sissy Lowery Davis |
 | 163 | 189 | Fallorina Susana |
 | 164 | 188 | Angie Harper |
 | 165 | 186 | Khaleada McGill Banks |
@@ -338,8 +338,8 @@
 | 330 | 96 | Oliver Neal II |
 | 331 | 96 | D3NO |
 | 332 | 95 | Brooke Bauer |
-| 333 | 94 | Tracey Cox |
-| 334 | 94 | Nichole Greene |
+| 333 | 94 | Nichole Greene |
+| 334 | 94 | Tracey Cox |
 | 335 | 93 | Tiffany Ford |
 | 336 | 93 | Martin Bernier |
 | 337 | 93 | Kevin Russell |
@@ -369,8 +369,8 @@
 | 361 | 88 | Kelly Koenig |
 | 362 | 86 | Mariah Williams |
 | 363 | 86 | Salena Whitlock |
-| 364 | 85 | Crystel b520 |
-| 365 | 85 | Wancharlene Hercules |
+| 364 | 85 | Wancharlene Hercules |
+| 365 | 85 | Crystel b520 |
 | 366 | 85 | Lush Risebuilder |
 | 367 | 85 | Mike Spritzer |
 | 368 | 85 | Heather De Vries Cobb |
