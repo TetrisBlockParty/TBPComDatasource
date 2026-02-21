@@ -93,8 +93,8 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Jessica Bohlken |
-| 89 | 134 | Chirpy Basepiece |
+| 88 | 134 | Chirpy Basepiece |
+| 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Jessica Cagle |
 | 92 | 132 | Jenna McGeorge |
@@ -132,7 +132,7 @@
 | 124 | 108 | Rio Rocha |
 | 125 | 107 | Marcus Todd |
 | 126 | 106 | Jonathan Kimbrough |
-| 127 | 105 | TinyLegoRose |
+| 127 | 105 | TheNeesh50 |
 | 128 | 105 | 🥔🥔 Spudz |
 | 129 | 105 | TinyLegoRose |
 | 130 | 105 | Sam Middleton |
@@ -147,8 +147,8 @@
 | 139 | 101 | Saulc1991 |
 | 140 | 100 | Alexandra Karavias |
 | 141 | 100 | Megan Cutshaw |
-| 142 | 98 | Chaz |
-| 143 | 98 | Duck |
+| 142 | 98 | Duck |
+| 143 | 98 | Chaz |
 | 144 | 98 | Allen Lloyd |
 | 145 | 97 | Brandi Durig |
 | 146 | 96 | Zappy Snaplink |
@@ -253,8 +253,8 @@
 | 245 | 61 | Chilly Crasher |
 | 246 | 61 | Plucky Patternblock |
 | 247 | 60 | Ahleek Mitchell |
-| 248 | 59 | Jasmine S Caldwell |
-| 249 | 59 | Lori |
+| 248 | 59 | Lori |
+| 249 | 59 | Jasmine S Caldwell |
 | 250 | 59 | Jen Mattei |
 | 251 | 58 | Rebecca Morris |
 | 252 | 58 | Gilles Lanctot |

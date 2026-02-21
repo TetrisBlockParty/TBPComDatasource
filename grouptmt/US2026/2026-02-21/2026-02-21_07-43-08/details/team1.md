@@ -64,8 +64,8 @@
 | 56 | 201 | Anaid Sanchez |
 | 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
-| 59 | 198 | Billie Dawn Sparks |
-| 60 | 198 | Happy Snapbuild |
+| 59 | 198 | Happy Snapbuild |
+| 60 | 198 | Billie Dawn Sparks |
 | 61 | 197 | Cynthia Bradley |
 | 62 | 194 | Sharon Reynolds |
 | 63 | 192 | Mandyy Rae |

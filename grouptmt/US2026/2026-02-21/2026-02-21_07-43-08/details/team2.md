@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -179,8 +179,8 @@
 | 171 | 386 | Ashie Ann |
 | 172 | 385 | Sam |
 | 173 | 381 | Amanda Ferrell |
-| 174 | 380 | Joshua Mandel |
-| 175 | 380 | Calandra Shaya Robinson |
+| 174 | 380 | Calandra Shaya Robinson |
+| 175 | 380 | Joshua Mandel |
 | 176 | 379 | Auntie B |
 | 177 | 378 | Cody Nishimura |
 | 178 | 377 | Liberty |
@@ -223,8 +223,8 @@
 | 215 | 323 | Briana Alexander |
 | 216 | 318 | Trista Dumais |
 | 217 | 317 | Heather Westrum |
-| 218 | 317 | Dizzy Zone |
-| 219 | 317 | bru |
+| 218 | 317 | bru |
+| 219 | 317 | Dizzy Zone |
 | 220 | 314 | Amanda West |
 | 221 | 314 | niecy |
 | 222 | 312 | Michelle Pike |
