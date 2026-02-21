@@ -295,8 +295,8 @@
 | 287 | 262 | Taren Cowan |
 | 288 | 261 | Leah |
 | 289 | 261 | MrsClaudette Will'sIam Matthews |
-| 290 | 260 | Denise Rickman |
-| 291 | 260 | Ebony Deloach Bryant |
+| 290 | 260 | Ebony Deloach Bryant |
+| 291 | 260 | Denise Rickman |
 | 292 | 257 | Shameika Trail |
 | 293 | 257 | Lyndi Robinson Wakefield |
 | 294 | 256 | Giddy Gridclear |
@@ -454,8 +454,8 @@
 | 446 | 175 | Shandrica Lowe |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
-| 449 | 173 | Robin |
-| 450 | 173 | kippykay |
+| 449 | 173 | kippykay |
+| 450 | 173 | Robin |
 | 451 | 172 | HarleyJane |
 | 452 | 171 | Cappin You |
 | 453 | 170 | Dedra Steward |
@@ -525,10 +525,10 @@
 | 517 | 150 | Candace Noel |
 | 518 | 150 | Josh Dill |
 | 519 | 150 | Greenshades00 |
-| 520 | 149 | Brianna Cerney |
-| 521 | 149 | Melissa Rebbe-Lehman |
-| 522 | 149 | Leslie Porter |
-| 523 | 149 | Boldy Cascadepiece |
+| 520 | 149 | Melissa Rebbe-Lehman |
+| 521 | 149 | Brianna Cerney |
+| 522 | 149 | Boldy Cascadepiece |
+| 523 | 149 | Leslie Porter |
 | 524 | 148 | AgileDragon |
 | 525 | 147 | F-X |
 | 526 | 147 | Jeremy Parodi |
@@ -563,8 +563,8 @@
 | 555 | 140 | Kimberly Ann |
 | 556 | 140 | Brandy Sutton |
 | 557 | 140 | Sheretta Holmes Lil'bit |
-| 558 | 140 | Jasmine Kenney |
-| 559 | 140 | King Shamell Young |
+| 558 | 140 | King Shamell Young |
+| 559 | 140 | Jasmine Kenney |
 | 560 | 139 | Octavio Garza |
 | 561 | 139 | Jackson Smith |
 | 562 | 138 | ItsJennifer Neriss |

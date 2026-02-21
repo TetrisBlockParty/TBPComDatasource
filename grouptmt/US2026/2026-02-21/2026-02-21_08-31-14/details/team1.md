@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -55,22 +55,22 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Jaimie Lynn |
-| 51 | 212 | Tdub |
+| 50 | 212 | Tdub |
+| 51 | 212 | Jaimie Lynn |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Ananda Mendez |
-| 57 | 201 | Anaid Sanchez |
+| 56 | 201 | Anaid Sanchez |
+| 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Happy Snapbuild |
 | 60 | 198 | Billie Dawn Sparks |
 | 61 | 197 | Cynthia Bradley |
-| 62 | 194 | Giggly Builderline |
-| 63 | 194 | Sharon Reynolds |
-| 64 | 192 | Mandyy Rae |
-| 65 | 192 | Shaykmia |
+| 62 | 194 | Sharon Reynolds |
+| 63 | 194 | Giggly Builderline |
+| 64 | 192 | Shaykmia |
+| 65 | 192 | Mandyy Rae |
 | 66 | 191 | Jazzy Framezone |
 | 67 | 190 | Sweetts |
 | 68 | 190 | Thorne Shumate |
@@ -90,8 +90,8 @@
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Arianna O'Brien |
 | 84 | 149 | Tana |
-| 85 | 148 | Shauntina Burke |
-| 86 | 148 | Jessie Lynn |
+| 85 | 148 | Jessie Lynn |
+| 86 | 148 | Shauntina Burke |
 | 87 | 147 | Veronica Eve |
 | 88 | 145 | Lachelle Dillon |
 | 89 | 145 | BigWeenie69 |
@@ -113,8 +113,8 @@
 | 105 | 127 | Michael |
 | 106 | 126 | Cece Ibarra |
 | 107 | 124 | Cartier |
-| 108 | 123 | june october |
-| 109 | 123 | LaQuetta Faith Hines |
+| 108 | 123 | LaQuetta Faith Hines |
+| 109 | 123 | june october |
 | 110 | 121 | Bouncy Grid |
 | 111 | 119 | Tater |
 | 112 | 119 | April Carroll |

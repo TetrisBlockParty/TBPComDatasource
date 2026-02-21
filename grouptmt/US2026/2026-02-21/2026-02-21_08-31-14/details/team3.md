@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 576 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
 | 39 | 546 | Dolores Falco |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -103,8 +103,8 @@
 | 95 | 239 | Lush Buildout |
 | 96 | 234 | Louise Stacy Sisson |
 | 97 | 232 | Poppy Splitter |
-| 98 | 224 | Judi Dobson |
-| 99 | 224 | Mykal Burton |
+| 98 | 224 | Mykal Burton |
+| 99 | 224 | Judi Dobson |
 | 100 | 223 | Jeana Gilbert |
 | 101 | 222 | Jimmie Clemons |
 | 102 | 218 | mjl574 |
@@ -195,10 +195,10 @@
 | 187 | 116 | Skinny Baldez |
 | 188 | 115 | Hoppy Buildout |
 | 189 | 115 | Jennifer Alvey |
-| 190 | 114 | Nicholas Roddy |
-| 191 | 114 | Jessica Bechler |
-| 192 | 113 | Brian Battjes |
-| 193 | 113 | Valerie Gendron |
+| 190 | 114 | Jessica Bechler |
+| 191 | 114 | Nicholas Roddy |
+| 192 | 113 | Valerie Gendron |
+| 193 | 113 | Brian Battjes |
 | 194 | 112 | Jessica Ann |
 | 195 | 110 | Tye Stovall |
 | 196 | 110 | Stella |

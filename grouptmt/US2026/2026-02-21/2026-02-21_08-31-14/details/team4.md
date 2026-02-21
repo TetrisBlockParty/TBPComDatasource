@@ -275,7 +275,7 @@
 | 267 | 57 | Carlos G Reyes |
 | 268 | 56 | Brittany Little |
 | 269 | 56 | Brandon Crabbs |
-| 270 | 56 | Brittany Little |
+| 270 | 56 | Cj Lewis-haut |
 | 271 | 56 | Crystal Lynn |
 | 272 | 55 | Keshia Lyons |
 | 273 | 55 | Mylo Lipscomb |
