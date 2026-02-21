@@ -400,8 +400,8 @@
 | 392 | 207 | Shylee Tilman |
 | 393 | 206 | RAEPR05 |
 | 394 | 206 | Neko Preston |
-| 395 | 205 | ElizabethAnn Dickinson |
-| 396 | 205 | Lylymom |
+| 395 | 205 | Lylymom |
+| 396 | 205 | ElizabethAnn Dickinson |
 | 397 | 204 | Ali Gralski |
 | 398 | 204 | Rebecca Doughman |
 | 399 | 203 | Gary Stash |
@@ -689,8 +689,8 @@
 | 681 | 125 | NickyBrooks |
 | 682 | 125 | Connor Gaughran |
 | 683 | 125 | Tina Marie |
-| 684 | 125 | Binyah-Binyah |
-| 685 | 125 | Goofy Blockfall |
+| 684 | 125 | Goofy Blockfall |
+| 685 | 125 | Binyah-Binyah |
 | 686 | 125 | Jamie Frank Karolyi |
 | 687 | 124 | Jazzy Grabber |
 | 688 | 124 | Witty Piecebuilder |

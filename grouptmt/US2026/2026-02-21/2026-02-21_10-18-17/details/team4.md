@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Mike Solo |
-| 63 | 198 | Lori Walker |
+| 62 | 198 | Lori Walker |
+| 63 | 198 | Mike Solo |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -99,8 +99,8 @@
 | 91 | 138 | Shainne Brewer |
 | 92 | 137 | 030Synner |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Chirpy Basepiece |
-| 95 | 134 | Jessica Bohlken |
+| 94 | 134 | Jessica Bohlken |
+| 95 | 134 | Chirpy Basepiece |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Jessica Cagle |
 | 98 | 132 | Degenerate |
@@ -155,10 +155,10 @@
 | 147 | 101 | Michelle Morris |
 | 148 | 100 | Alexandra Karavias |
 | 149 | 99 | KM8 |
-| 150 | 98 | Allen Lloyd |
-| 151 | 98 | Chaz |
-| 152 | 98 | Duck |
-| 153 | 98 | Jeremy Steines |
+| 150 | 98 | Chaz |
+| 151 | 98 | Jeremy Steines |
+| 152 | 98 | Allen Lloyd |
+| 153 | 98 | Duck |
 | 154 | 97 | Brandi Durig |
 | 155 | 96 | Shauna Havard |
 | 156 | 96 | Zappy Snaplink |
