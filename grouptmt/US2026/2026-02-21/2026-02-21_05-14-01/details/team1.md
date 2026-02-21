@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
 | 28 | 274 | Theo Pinnow |
 | 29 | 265 | Jennifer Cates |
 | 30 | 256 | Robert Benito |
@@ -52,8 +52,8 @@
 | 44 | 201 | Ananda Mendez |
 | 45 | 201 | Anaid Sanchez |
 | 46 | 200 | Lexuriuos Lifestlye |
-| 47 | 198 | Happy Snapbuild |
-| 48 | 198 | Billie Dawn Sparks |
+| 47 | 198 | Billie Dawn Sparks |
+| 48 | 198 | Happy Snapbuild |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
 | 51 | 191 | Giggly Builderline |

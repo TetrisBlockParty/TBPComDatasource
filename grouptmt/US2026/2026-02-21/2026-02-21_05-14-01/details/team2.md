@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |

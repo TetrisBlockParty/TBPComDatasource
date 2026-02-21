@@ -38,8 +38,8 @@
 | 30 | 587 | Suzieq |
 | 31 | 568 | Shonna Roberts |
 | 32 | 553 | Clever Roll |
-| 33 | 546 | Dolores Falco |
-| 34 | 546 | Snappy Glidepiece |
+| 33 | 546 | Snappy Glidepiece |
+| 34 | 546 | Dolores Falco |
 | 35 | 541 | MissTaylor |
 | 36 | 533 | Sarah Fehring |
 | 37 | 528 | Natasha Jones |
@@ -113,20 +113,20 @@
 | 105 | 172 | Ryan Williams |
 | 106 | 166 | Danielle Mogg |
 | 107 | 164 | rosy |
-| 108 | 159 | Jone |
-| 109 | 159 | Hyper Matchzone |
-| 110 | 159 | Morgan Martinez |
+| 108 | 159 | Hyper Matchzone |
+| 109 | 159 | Morgan Martinez |
+| 110 | 159 | Jone |
 | 111 | 158 | Grams |
 | 112 | 156 | Joey Banks |
-| 113 | 155 | BŘŰŤİÇŨŚ |
-| 114 | 155 | Shannon Matthew Byers |
+| 113 | 155 | Shannon Matthew Byers |
+| 114 | 155 | BŘŰŤİÇŨŚ |
 | 115 | 154 | Angela M. Fletcher |
 | 116 | 153 | Beth Ingham |
 | 117 | 152 | Shiny Zonebuilder |
-| 118 | 149 | Trisha Balmer |
-| 119 | 149 | Bea Miles |
-| 120 | 146 | Denita Mungro |
-| 121 | 146 | Latoya Mayne |
+| 118 | 149 | Bea Miles |
+| 119 | 149 | Trisha Balmer |
+| 120 | 146 | Latoya Mayne |
+| 121 | 146 | Denita Mungro |
 | 122 | 140 | Gumbo |
 | 123 | 140 | Jay Horn |
 | 124 | 139 | Angel Mendez |
