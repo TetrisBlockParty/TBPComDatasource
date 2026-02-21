@@ -51,13 +51,13 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Theo Pinnow |
-| 47 | 274 | Sweet Baker |
+| 46 | 274 | Sweet Baker |
+| 47 | 274 | Theo Pinnow |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -101,9 +101,9 @@
 | 93 | 162 | Patrick Luckenbill |
 | 94 | 161 | Abbey Crespo |
 | 95 | 156 | Jessie Lynn |
-| 96 | 155 | Cece Ibarra |
-| 97 | 155 | Standia Civil |
-| 98 | 155 | David DeSantis |
+| 96 | 155 | David DeSantis |
+| 97 | 155 | Cece Ibarra |
+| 98 | 155 | Standia Civil |
 | 99 | 153 | Shiny Gridmatch |
 | 100 | 152 | Jacqueline Unique |
 | 101 | 149 | Arianna O'Brien |
@@ -141,8 +141,8 @@
 | 133 | 119 | Tater |
 | 134 | 118 | Barry Mac'Ockner |
 | 135 | 116 | Evie Khalil |
-| 136 | 115 | Chuck Gannon |
-| 137 | 115 | Mrs.Patrica |
+| 136 | 115 | Mrs.Patrica |
+| 137 | 115 | Chuck Gannon |
 | 138 | 114 | Giddy Cascade |
 | 139 | 113 | Desiree Deschaine Havee |
 | 140 | 112 | Carolyn Smith |

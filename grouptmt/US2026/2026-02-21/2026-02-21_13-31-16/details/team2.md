@@ -188,9 +188,9 @@
 | 180 | 456 | Drwatson187 |
 | 181 | 456 | Marie Boyd Faulk |
 | 182 | 454 | Casey Schumacher |
-| 183 | 453 | Mischelle Clay |
+| 183 | 453 | Em Chen |
 | 184 | 453 | Osun Anuket Esu |
-| 185 | 453 | Em Chen |
+| 185 | 453 | Mischelle Clay |
 | 186 | 452 | Alezandra Smith |
 | 187 | 450 | Giggy Blocker |
 | 188 | 450 | Cheech Dta |
@@ -544,8 +544,8 @@
 | 536 | 167 | Sabrena Yeisley |
 | 537 | 166 | Lakeela Wise |
 | 538 | 166 | suuny |
-| 539 | 166 | Rhonda Petro |
-| 540 | 166 | Morgan Easter |
+| 539 | 166 | Morgan Easter |
+| 540 | 166 | Rhonda Petro |
 | 541 | 165 | Catherine Varea |
 | 542 | 165 | Austin Wilson |
 | 543 | 164 | Jessica Vega |

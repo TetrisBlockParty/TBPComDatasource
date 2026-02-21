@@ -93,8 +93,8 @@
 | 85 | 320 | Or Reznitsky |
 | 86 | 316 | Fancy Cascader |
 | 87 | 313 | Elaine Webb Graves |
-| 88 | 309 | CeceGeGe |
-| 89 | 309 | Rich LeBlanc |
+| 88 | 309 | Rich LeBlanc |
+| 89 | 309 | CeceGeGe |
 | 90 | 307 | Peggi Charon |
 | 91 | 307 | Blocked |
 | 92 | 300 | Sherika C. McDaniels |
@@ -114,8 +114,8 @@
 | 106 | 232 | Poppy Splitter |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Judi Dobson |
-| 110 | 224 | Mykal Burton |
+| 109 | 224 | Mykal Burton |
+| 110 | 224 | Judi Dobson |
 | 111 | 223 | Jeana Gilbert |
 | 112 | 222 | Jimmie Clemons |
 | 113 | 222 | Nicole Flippo |
@@ -140,8 +140,8 @@
 | 132 | 191 | Giddy Twistbuilder |
 | 133 | 191 | Scott Carleton |
 | 134 | 189 | Sissy Lowery Davis |
-| 135 | 189 | Staci George Fitzsimmons |
-| 136 | 189 | Fallorina Susana |
+| 135 | 189 | Fallorina Susana |
+| 136 | 189 | Staci George Fitzsimmons |
 | 137 | 185 | Logan Naccarato |
 | 138 | 184 | Jennie Beranek |
 | 139 | 182 | Hyper Matchzone |
@@ -396,7 +396,7 @@
 | 388 | 71 | Goofy Fall |
 | 389 | 71 | Katheline Lazo Luizaga |
 | 390 | 70 | Brave Bruno |
-| 391 | 70 | Leticia Lynn Lowe |
+| 391 | 70 | cherry 🍒pie |
 | 392 | 70 | Willow |
 | 393 | 70 | Kristin Delibac Corrigan |
 | 394 | 70 | Leticia Lynn Lowe |

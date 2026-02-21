@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 535 | Rebecca Moulton Pinciaro |
@@ -113,8 +113,8 @@
 | 105 | 139 | Robin Watters |
 | 106 | 138 | Shainne Brewer |
 | 107 | 136 | Tanner Lund |
-| 108 | 134 | Chirpy Basepiece |
-| 109 | 134 | Jessica Bohlken |
+| 108 | 134 | Jessica Bohlken |
+| 109 | 134 | Chirpy Basepiece |
 | 110 | 134 | Serena Goodridge |
 | 111 | 132 | Jenna McGeorge |
 | 112 | 132 | Degenerate |
