@@ -108,16 +108,16 @@
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
-| 103 | 367 | mjl574 |
-| 104 | 367 | Nerdy Riseclear |
+| 103 | 367 | Nerdy Riseclear |
+| 104 | 367 | mjl574 |
 | 105 | 366 | Speedy Bridger |
 | 106 | 356 | Adrian Marcel Pate |
 | 107 | 352 | Shannon Matthew Byers |
 | 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
-| 111 | 323 | Sherry Ogden |
-| 112 | 323 | Ashley Raines |
+| 111 | 323 | Ashley Raines |
+| 112 | 323 | Sherry Ogden |
 | 113 | 321 | Dapper Snap |
 | 114 | 320 | Or Reznitsky |
 | 115 | 318 | Chasity |
@@ -168,9 +168,9 @@
 | 160 | 214 | Amy Fuller Heaton |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
-| 163 | 207 | Nicole Myers |
-| 164 | 207 | rnr junky |
-| 165 | 207 | Jessica |
+| 163 | 207 | rnr junky |
+| 164 | 207 | Jessica |
+| 165 | 207 | Nicole Myers |
 | 166 | 207 | Chris Bell |
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
@@ -213,14 +213,14 @@
 | 205 | 167 | Raven Dudley |
 | 206 | 167 | Grams |
 | 207 | 166 | Betty Rosas |
-| 208 | 166 | Beth Ingham |
-| 209 | 166 | Kelly Ann Child |
+| 208 | 166 | Kelly Ann Child |
+| 209 | 166 | Beth Ingham |
 | 210 | 165 | Kali Kelz Williams |
 | 211 | 163 | Christine Trester |
 | 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | BŘŰŤİÇŨŚ |
-| 215 | 161 | Irene Arreguin |
+| 214 | 161 | Irene Arreguin |
+| 215 | 161 | BŘŰŤİÇŨŚ |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -256,8 +256,8 @@
 | 248 | 142 | Danielle Allison |
 | 249 | 142 | Erica Anderson |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Erykah |

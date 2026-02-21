@@ -35,8 +35,8 @@
 | 27 | 625 | GreenJeepGirl |
 | 28 | 608 | Denny Shives |
 | 29 | 597 | Chilly Line |
-| 30 | 590 | Dee Kay |
-| 31 | 590 | Valerie Roberts |
+| 30 | 590 | Valerie Roberts |
+| 31 | 590 | Dee Kay |
 | 32 | 546 | LisaJo Picken Buchanan |
 | 33 | 541 | Rebecca Moulton Pinciaro |
 | 34 | 530 | Clarence Patawaran |
@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -118,8 +118,8 @@
 | 110 | 187 | TheNeesh50 |
 | 111 | 185 | Peachy Fall |
 | 112 | 185 | Andy Cabral |
-| 113 | 181 | Andria Lynn |
-| 114 | 181 | Carter Jones |
+| 113 | 181 | Carter Jones |
+| 114 | 181 | Andria Lynn |
 | 115 | 180 | Leah Kutz Zirbel |
 | 116 | 180 | Justin Hannigan |
 | 117 | 179 | Epic Curvetile |
@@ -143,8 +143,8 @@
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
-| 138 | 147 | Chair |
-| 139 | 147 | Jay28 |
+| 138 | 147 | Jay28 |
+| 139 | 147 | Chair |
 | 140 | 147 | Shainne Brewer |
 | 141 | 146 | Klo |
 | 142 | 145 | Amy Suckarieh |
@@ -160,8 +160,8 @@
 | 152 | 137 | Avy Absol |
 | 153 | 137 | PeaceOs |
 | 154 | 136 | Tanner Lund |
-| 155 | 136 | Sarah Brown |
-| 156 | 136 | Serena Goodridge |
+| 155 | 136 | Serena Goodridge |
+| 156 | 136 | Sarah Brown |
 | 157 | 135 | Stephme310 |
 | 158 | 135 | Victoria Faniel |
 | 159 | 134 | Kim Klutz Olson |

@@ -155,10 +155,10 @@
 | 147 | 150 | David Miller |
 | 148 | 150 | Adele Rahman |
 | 149 | 149 | Arianna O'Brien |
-| 150 | 148 | Shauntina Burke |
-| 151 | 148 | Bouncy Grid |
-| 152 | 147 | Davery Spencer Adair |
-| 153 | 147 | Leslie Bush Yarbrough |
+| 150 | 148 | Bouncy Grid |
+| 151 | 148 | Shauntina Burke |
+| 152 | 147 | Leslie Bush Yarbrough |
+| 153 | 147 | Davery Spencer Adair |
 | 154 | 146 | Christy Jones |
 | 155 | 145 | Agustin Duarte Orozco |
 | 156 | 145 | Angela Fairbank |
@@ -168,19 +168,19 @@
 | 160 | 142 | Colleen Wise |
 | 161 | 141 | Blaire Bruckoff |
 | 162 | 140 | Miguel Teixeira |
-| 163 | 138 | Cranky Pattern |
-| 164 | 138 | Death |
+| 163 | 138 | Death |
+| 164 | 138 | Cranky Pattern |
 | 165 | 137 | Cody Gates |
 | 166 | 136 | Dino |
-| 167 | 135 | Cody Slav |
-| 168 | 135 | Giddy Cascade |
-| 169 | 135 | Guest |
+| 167 | 135 | Giddy Cascade |
+| 168 | 135 | Guest |
+| 169 | 135 | Cody Slav |
 | 170 | 134 | Witty Builderfit |
 | 171 | 133 | Luciano Moreira |
 | 172 | 133 | Breanna Luna |
 | 173 | 132 | Mel Hogan |
-| 174 | 131 | Kimberly Garcia |
-| 175 | 131 | Uhog SF |
+| 174 | 131 | Uhog SF |
+| 175 | 131 | Kimberly Garcia |
 | 176 | 130 | Gilbert Ortiz Jr. |
 | 177 | 130 | Aimee Horton |
 | 178 | 130 | LD1 |
