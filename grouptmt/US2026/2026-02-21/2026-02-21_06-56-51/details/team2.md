@@ -260,9 +260,9 @@
 | 252 | 271 | Toni Lynn |
 | 253 | 270 | Angela Lynn |
 | 254 | 270 | Alexandra Weir |
-| 255 | 268 | Tanya Parsons |
-| 256 | 268 | Vanessa Moreno |
-| 257 | 268 | Tanya Parsons |
+| 255 | 268 | Vanessa Moreno |
+| 256 | 268 | Tanya Parsons |
+| 257 | 268 | Chummy Blockbuilder |
 | 258 | 267 | Mindy Leigh Head |
 | 259 | 266 | Mighty Shatterfit |
 | 260 | 266 | Autumn Schaeffer |
@@ -298,8 +298,8 @@
 | 290 | 246 | Ashley Lopez |
 | 291 | 246 | Stephanie Lumanlan |
 | 292 | 245 | Rachael Senard |
-| 293 | 245 | Taryece Gause |
-| 294 | 245 | Mischelle Clay |
+| 293 | 245 | Mischelle Clay |
+| 294 | 245 | Taryece Gause |
 | 295 | 244 | Aimee Byrom |
 | 296 | 243 | Brandy Andre |
 | 297 | 242 | Donna Chandler |
@@ -341,8 +341,8 @@
 | 333 | 212 | Amanda Canterbury |
 | 334 | 212 | BK Queen |
 | 335 | 208 | Mema |
-| 336 | 207 | Melissa McCall |
-| 337 | 207 | Brave Gridpiece |
+| 336 | 207 | Brave Gridpiece |
+| 337 | 207 | Melissa McCall |
 | 338 | 207 | Shylee Tilman |
 | 339 | 206 | RAEPR05 |
 | 340 | 205 | Lylymom |
@@ -422,8 +422,8 @@
 | 414 | 173 | kippykay |
 | 415 | 173 | Robin |
 | 416 | 171 | Cappin You |
-| 417 | 170 | Darlene Bowman |
-| 418 | 170 | Dedra Steward |
+| 417 | 170 | Dedra Steward |
+| 418 | 170 | Darlene Bowman |
 | 419 | 170 | Kenya Felix |
 | 420 | 169 | Eddie Perez |
 | 421 | 169 | Hyper Cluster |

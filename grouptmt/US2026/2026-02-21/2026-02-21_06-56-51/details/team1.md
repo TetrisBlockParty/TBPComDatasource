@@ -47,8 +47,8 @@
 | 39 | 244 | Franswa |
 | 40 | 243 | Sarah Roberts |
 | 41 | 241 | Kristen Roles Robben |
-| 42 | 212 | Jaimie Lynn |
-| 43 | 212 | Tdub |
+| 42 | 212 | Tdub |
+| 43 | 212 | Jaimie Lynn |
 | 44 | 211 | Deanna L Hermanson |
 | 45 | 208 | Carrie Beck Geartz |
 | 46 | 206 | Elaine Elaine |
@@ -91,8 +91,8 @@
 | 83 | 144 | Tanya Carpenter-Reynolds |
 | 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Blaire Bruckoff |
-| 87 | 141 | Susanna Guerry |
+| 86 | 141 | Susanna Guerry |
+| 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -102,11 +102,11 @@
 | 94 | 128 | Uhog SF |
 | 95 | 128 | lil mickey |
 | 96 | 127 | Michael |
-| 97 | 126 | Cece Ibarra |
-| 98 | 126 | Rachael |
+| 97 | 126 | Rachael |
+| 98 | 126 | Cece Ibarra |
 | 99 | 121 | Bouncy Grid |
-| 100 | 119 | Irual Hctrab |
-| 101 | 119 | Tater |
+| 100 | 119 | Tater |
+| 101 | 119 | Irual Hctrab |
 | 102 | 118 | Barry Mac'Ockner |
 | 103 | 116 | Evie Khalil |
 | 104 | 115 | comrade fish |

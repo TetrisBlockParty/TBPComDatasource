@@ -56,8 +56,8 @@
 | 48 | 226 | Breannah Grafe |
 | 49 | 207 | Alyssa Papen |
 | 50 | 205 | Sarah Neathery |
-| 51 | 204 | Lisa Davis |
-| 52 | 204 | David Lay |
+| 51 | 204 | David Lay |
+| 52 | 204 | Lisa Davis |
 | 53 | 204 | Brittney Orengo |
 | 54 | 198 | Mike Solo |
 | 55 | 197 | Autum Leigh |
@@ -133,8 +133,8 @@
 | 125 | 104 | Adam Randall |
 | 126 | 104 | YoMomma |
 | 127 | 102 | Faja |
-| 128 | 101 | Michelle Morris |
-| 129 | 101 | Stephme310 |
+| 128 | 101 | Stephme310 |
+| 129 | 101 | Michelle Morris |
 | 130 | 101 | Saulc1991 |
 | 131 | 100 | Zethra Prenisha Rahming |
 | 132 | 100 | Alexandra Karavias |
@@ -177,11 +177,11 @@
 | 169 | 81 | Blessedmama |
 | 170 | 81 | Chair |
 | 171 | 80 | Melissa Adams |
-| 172 | 79 | Kametsunoyaiba |
-| 173 | 79 | Perky Piecegrid |
+| 172 | 79 | Perky Piecegrid |
+| 173 | 79 | Kametsunoyaiba |
 | 174 | 79 | Joseph Pace |
-| 175 | 78 | Jessica Miller |
-| 176 | 78 | Zesty Linkgrid |
+| 175 | 78 | Zesty Linkgrid |
+| 176 | 78 | Jessica Miller |
 | 177 | 77 | Marvin Lou Martin |
 | 178 | 77 | Twisty Cascadezone |
 | 179 | 77 | Chris Alexinas |
