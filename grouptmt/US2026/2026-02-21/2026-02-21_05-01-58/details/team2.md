@@ -86,8 +86,8 @@
 | 78 | 658 | Pacynthia Williams |
 | 79 | 658 | Vistabrat |
 | 80 | 653 | Becky Weeks-Garry |
-| 81 | 649 | Anna Edwards |
-| 82 | 649 | Stephanie Chapman |
+| 81 | 649 | Stephanie Chapman |
+| 82 | 649 | Anna Edwards |
 | 83 | 631 | Loopy Clusterbuilder |
 | 84 | 608 | John Bednarik |
 | 85 | 601 | Nancy Reid |
@@ -134,8 +134,8 @@
 | 126 | 455 | Alicia Parrish |
 | 127 | 453 | Osun Anuket Esu |
 | 128 | 450 | Giggy Blocker |
-| 129 | 448 | Jojo Momma |
-| 130 | 448 | Nick Jensen |
+| 129 | 448 | Nick Jensen |
+| 130 | 448 | Jojo Momma |
 | 131 | 442 | Daphne Jordan |
 | 132 | 440 | BYM4L |
 | 133 | 431 | Slip |
@@ -239,10 +239,10 @@
 | 231 | 263 | Taylor Flowers |
 | 232 | 262 | Taren Cowan |
 | 233 | 261 | Leah |
-| 234 | 261 | Ann Matzkanin |
-| 235 | 261 | MrsClaudette Will'sIam Matthews |
-| 236 | 260 | Dapper Dasher |
-| 237 | 260 | Denise Rickman |
+| 234 | 261 | MrsClaudette Will'sIam Matthews |
+| 235 | 261 | Ann Matzkanin |
+| 236 | 260 | Denise Rickman |
+| 237 | 260 | Dapper Dasher |
 | 238 | 257 | Shameika Trail |
 | 239 | 257 | Lyndi Robinson Wakefield |
 | 240 | 256 | Tee Jaleesa |
@@ -300,14 +300,14 @@
 | 292 | 214 | Jamie Stevey |
 | 293 | 212 | Aleasha M Brown |
 | 294 | 212 | Amanda Canterbury |
-| 295 | 208 | Smashanator |
-| 296 | 208 | Mema |
+| 295 | 208 | Mema |
+| 296 | 208 | Smashanator |
 | 297 | 207 | Melissa McCall |
 | 298 | 207 | Brave Gridpiece |
 | 299 | 206 | RAEPR05 |
 | 300 | 206 | Julio A Laracuente |
-| 301 | 205 | Lylymom |
-| 302 | 205 | ElizabethAnn Dickinson |
+| 301 | 205 | ElizabethAnn Dickinson |
+| 302 | 205 | Lylymom |
 | 303 | 204 | Ali Gralski |
 | 304 | 204 | Rebecca Doughman |
 | 305 | 203 | coleksquad |

@@ -123,16 +123,16 @@
 | 115 | 152 | Shiny Zonebuilder |
 | 116 | 149 | Bea Miles |
 | 117 | 149 | Trisha Balmer |
-| 118 | 146 | Latoya Mayne |
-| 119 | 146 | Denita Mungro |
+| 118 | 146 | Denita Mungro |
+| 119 | 146 | Latoya Mayne |
 | 120 | 140 | Jay Horn |
 | 121 | 138 | Gumbo |
 | 122 | 135 | Nicole Flippo |
 | 123 | 134 | DanceLuvLaugh |
 | 124 | 134 | Emma |
 | 125 | 133 | Giddy Twistbuilder |
-| 126 | 131 | Jl |
-| 127 | 131 | Elaine Webb Graves |
+| 126 | 131 | Elaine Webb Graves |
+| 127 | 131 | Jl |
 | 128 | 128 | Angel Mendez |
 | 129 | 127 | Marquita Sheard |
 | 130 | 127 | Aerian Preston |
@@ -153,14 +153,14 @@
 | 145 | 119 | Hyper Matchzone |
 | 146 | 118 | Fancy Curver |
 | 147 | 117 | Louise Stacy Sisson |
-| 148 | 116 | Josiah Fam |
+| 148 | 116 | Joy Petroski |
 | 149 | 116 | Connie Mohler-Fair |
 | 150 | 116 | Josiah Fam |
 | 151 | 116 | Cesar Barraza |
 | 152 | 115 | Sarajane Lokan |
 | 153 | 115 | Jennifer Alvey |
-| 154 | 114 | Jessica Bechler |
-| 155 | 114 | Nicholas Roddy |
+| 154 | 114 | Nicholas Roddy |
+| 155 | 114 | Jessica Bechler |
 | 156 | 113 | Valerie Gendron |
 | 157 | 110 | Stella |
 | 158 | 110 | Tiff Vs Tiffany |
@@ -172,10 +172,10 @@
 | 164 | 107 | Sherry Ogden |
 | 165 | 106 | Desiree Gold |
 | 166 | 106 | Stephanie Blkpep Davidson |
-| 167 | 105 | Emi |
-| 168 | 105 | Hoppy Buildout |
-| 169 | 104 | Sarah Moyer |
-| 170 | 104 | mommablock |
+| 167 | 105 | Hoppy Buildout |
+| 168 | 105 | Emi |
+| 169 | 104 | mommablock |
+| 170 | 104 | Sarah Moyer |
 | 171 | 103 | BabyTonj Evans |
 | 172 | 102 | Kali Kelz Williams |
 | 173 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -226,8 +226,8 @@
 | 218 | 84 | Amanda L Baker |
 | 219 | 84 | Flashy Rumbler |
 | 220 | 83 | Michael Nowogorski |
-| 221 | 82 | Crystel b520 |
-| 222 | 82 | Stephanie Whitefield |
+| 221 | 82 | Stephanie Whitefield |
+| 222 | 82 | Crystel b520 |
 | 223 | 81 | Tina Baurdau |
 | 224 | 80 | Oliver Neal II |
 | 225 | 80 | Vixen Queen |

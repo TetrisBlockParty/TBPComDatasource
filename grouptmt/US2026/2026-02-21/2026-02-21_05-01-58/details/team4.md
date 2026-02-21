@@ -47,8 +47,8 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Rachel Anne |
-| 43 | 194 | Jamie Mann-Deichmann |
+| 42 | 194 | Jamie Mann-Deichmann |
+| 43 | 194 | Rachel Anne |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
@@ -71,8 +71,8 @@
 | 63 | 142 | Justin Hannigan |
 | 64 | 141 | Malakai Darien Fox |
 | 65 | 140 | Shannon Ferrari |
-| 66 | 134 | Chirpy Basepiece |
-| 67 | 134 | Jessica Bohlken |
+| 66 | 134 | Jessica Bohlken |
+| 67 | 134 | Chirpy Basepiece |
 | 68 | 133 | Robin Watters |
 | 69 | 132 | Jenna McGeorge |
 | 70 | 132 | Degenerate |
@@ -153,8 +153,8 @@
 | 145 | 78 | Jessica Miller |
 | 146 | 77 | Chris Alexinas |
 | 147 | 76 | Bethany Ison |
-| 148 | 75 | 🥔🥔 Spudz |
-| 149 | 75 | Rosemary Foster |
+| 148 | 75 | Rosemary Foster |
+| 149 | 75 | 🥔🥔 Spudz |
 | 150 | 74 | Krs |
 | 151 | 74 | Christina Black |
 | 152 | 74 | Melvin Baird |

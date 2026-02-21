@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Maria C. Hernandez |
-| 27 | 281 | Nancy Green |
+| 26 | 281 | Nancy Green |
+| 27 | 281 | Maria C. Hernandez |
 | 28 | 274 | Theo Pinnow |
 | 29 | 265 | Jennifer Cates |
 | 30 | 256 | Robert Benito |
@@ -75,10 +75,10 @@
 | 67 | 149 | Tana |
 | 68 | 148 | Jessie Lynn |
 | 69 | 147 | Veronica Eve |
-| 70 | 145 | BigWeenie69 |
-| 71 | 145 | Lachelle Dillon |
-| 72 | 144 | Plucky Ziggy |
-| 73 | 144 | Tanya Carpenter-Reynolds |
+| 70 | 145 | Lachelle Dillon |
+| 71 | 145 | BigWeenie69 |
+| 72 | 144 | Tanya Carpenter-Reynolds |
+| 73 | 144 | Plucky Ziggy |
 | 74 | 144 | femmefatale |
 | 75 | 143 | Sarah Marie |
 | 76 | 141 | Susanna Guerry |
