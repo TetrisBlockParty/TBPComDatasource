@@ -44,8 +44,8 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Suzieq |
-| 40 | 587 | Danielle Becker |
+| 39 | 587 | Danielle Becker |
+| 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
 | 43 | 546 | Dolores Falco |
@@ -92,8 +92,8 @@
 | 84 | 313 | Elaine Webb Graves |
 | 85 | 309 | Rich LeBlanc |
 | 86 | 309 | CeceGeGe |
-| 87 | 307 | Blocked |
-| 88 | 307 | Peggi Charon |
+| 87 | 307 | Peggi Charon |
+| 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -116,8 +116,8 @@
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |

@@ -344,8 +344,8 @@
 | 336 | 254 | Julie Hamilton |
 | 337 | 253 | Tansaria Couch-Butler |
 | 338 | 252 | Matt Johnson |
-| 339 | 252 | Catina Hutchison |
-| 340 | 252 | Alyssia Tancredi |
+| 339 | 252 | Alyssia Tancredi |
+| 340 | 252 | Catina Hutchison |
 | 341 | 251 | Ann Knutson Anderson |
 | 342 | 250 | Barbra Miller |
 | 343 | 250 | Steve Man |
@@ -372,10 +372,10 @@
 | 364 | 240 | Angie Marie |
 | 365 | 240 | Adam Erikson |
 | 366 | 238 | Cheery Matchzone |
-| 367 | 236 | snkylnk |
-| 368 | 236 | Frisky Riserbuilder |
-| 369 | 236 | Niceday |
-| 370 | 236 | Julio A Laracuente |
+| 367 | 236 | Frisky Riserbuilder |
+| 368 | 236 | snkylnk |
+| 369 | 236 | Julio A Laracuente |
+| 370 | 236 | Niceday |
 | 371 | 235 | Kimberly Mitchell |
 | 372 | 234 | Manny Trindade |
 | 373 | 234 | Jennifer Leigh |
@@ -516,8 +516,8 @@
 | 508 | 166 | suuny |
 | 509 | 165 | Austin Wilson |
 | 510 | 165 | Catherine Varea |
-| 511 | 164 | Sara Pennington |
-| 512 | 164 | Arkei Luster |
+| 511 | 164 | Arkei Luster |
+| 512 | 164 | Sara Pennington |
 | 513 | 164 | Jessica Vega |
 | 514 | 163 | Danielle Ayoub |
 | 515 | 163 | Lakeela Wise |
@@ -557,16 +557,16 @@
 | 549 | 155 | Monarca26 |
 | 550 | 155 | Chelle |
 | 551 | 155 | Cris cris |
-| 552 | 155 | Angela Murgia-Owen |
-| 553 | 155 | Jacob Huffman |
-| 554 | 154 | Cini |
-| 555 | 154 | Tiffney Wroten |
-| 556 | 154 | Lydia Greenman |
+| 552 | 155 | Jacob Huffman |
+| 553 | 155 | Angela Murgia-Owen |
+| 554 | 154 | Tiffney Wroten |
+| 555 | 154 | Lydia Greenman |
+| 556 | 154 | Cini |
 | 557 | 154 | Bryan Werleman |
 | 558 | 154 | Lori Maring |
 | 559 | 153 | Luna |
-| 560 | 153 | Poppy Gridder |
-| 561 | 153 | Leslie |
+| 560 | 153 | Leslie |
+| 561 | 153 | Poppy Gridder |
 | 562 | 152 | James Smith |
 | 563 | 152 | Kristin King |
 | 564 | 152 | JP Parks |
@@ -736,9 +736,9 @@
 | 728 | 123 | Ri St |
 | 729 | 123 | Sleepypanda67 |
 | 730 | 122 | Chere Kelly |
-| 731 | 122 | Shakena Tuggle |
-| 732 | 122 | Tammie Siegfried |
-| 733 | 122 | Cassie Newton |
+| 731 | 122 | Cassie Newton |
+| 732 | 122 | Shakena Tuggle |
+| 733 | 122 | Tammie Siegfried |
 | 734 | 121 | Pam Doughty |
 | 735 | 121 | g |
 | 736 | 120 | Rebecca Crosby |

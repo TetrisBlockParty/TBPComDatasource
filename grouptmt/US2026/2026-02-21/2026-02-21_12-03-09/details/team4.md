@@ -98,8 +98,8 @@
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
-| 93 | 147 | Jay28 |
-| 94 | 147 | 030Synner |
+| 93 | 147 | 030Synner |
+| 94 | 147 | Jay28 |
 | 95 | 146 | Peachy Fall |
 | 96 | 143 | Nugget |
 | 97 | 141 | Malakai Darien Fox |
