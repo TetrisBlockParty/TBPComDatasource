@@ -87,8 +87,8 @@
 | 79 | 320 | Or Reznitsky |
 | 80 | 316 | Fancy Cascader |
 | 81 | 312 | Elaine Webb Graves |
-| 82 | 309 | CeceGeGe |
-| 83 | 309 | Rich LeBlanc |
+| 82 | 309 | Rich LeBlanc |
+| 83 | 309 | CeceGeGe |
 | 84 | 307 | Peggi Charon |
 | 85 | 300 | Sherika C. McDaniels |
 | 86 | 299 | Cynthia Castros-Hampton |
@@ -211,8 +211,8 @@
 | 203 | 108 | Rachel Napper |
 | 204 | 108 | LaTanya GeminiondaRise Johnson |
 | 205 | 107 | Sherry Ogden |
-| 206 | 106 | Desiree Gold |
-| 207 | 106 | Eon Harris |
+| 206 | 106 | Eon Harris |
+| 207 | 106 | Desiree Gold |
 | 208 | 105 | Carol Cain Thurman |
 | 209 | 105 | Emi |
 | 210 | 104 | Melissa Snyder |

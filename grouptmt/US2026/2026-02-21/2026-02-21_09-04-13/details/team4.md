@@ -125,8 +125,8 @@
 | 117 | 118 | Leslie Nicole |
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
-| 120 | 115 | Jayk |
-| 121 | 115 | Ultramarine |
+| 120 | 115 | Ultramarine |
+| 121 | 115 | Jayk |
 | 122 | 113 | Stephme310 |
 | 123 | 113 | Andria Lynn |
 | 124 | 112 | Austin Owens |
@@ -156,8 +156,8 @@
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
-| 151 | 95 | Victoria Faniel |
-| 152 | 95 | Meagan Nicole |
+| 151 | 95 | Meagan Nicole |
+| 152 | 95 | Victoria Faniel |
 | 153 | 94 | DonMega |
 | 154 | 93 | Zesty Twistbuilder |
 | 155 | 92 | Kristin MacDonald |
