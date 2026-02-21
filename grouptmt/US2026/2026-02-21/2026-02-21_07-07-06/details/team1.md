@@ -91,8 +91,8 @@
 | 83 | 144 | femmefatale |
 | 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Susanna Guerry |
-| 87 | 141 | Blaire Bruckoff |
+| 86 | 141 | Blaire Bruckoff |
+| 87 | 141 | Susanna Guerry |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -117,9 +117,9 @@
 | 109 | 112 | Miguel Teixeira |
 | 110 | 112 | Nicole Roseberry Weber |
 | 111 | 111 | Agustin Duarte Orozco |
-| 112 | 110 | Heidi Feurer |
-| 113 | 110 | Bhelle Sumile |
-| 114 | 110 | Garcia Bailey |
+| 112 | 110 | Bhelle Sumile |
+| 113 | 110 | Garcia Bailey |
+| 114 | 110 | Heidi Feurer |
 | 115 | 108 | Tavia |
 | 116 | 107 | Jodee Woods |
 | 117 | 106 | Ash Galvan |

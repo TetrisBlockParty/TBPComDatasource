@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3223 | Trisha Gill |
@@ -151,8 +151,8 @@
 | 143 | 453 | Osun Anuket Esu |
 | 144 | 452 | Alezandra Smith |
 | 145 | 450 | Giggy Blocker |
-| 146 | 448 | Jojo Momma |
-| 147 | 448 | Nick Jensen |
+| 146 | 448 | Nick Jensen |
+| 147 | 448 | Jojo Momma |
 | 148 | 442 | Daphne Jordan |
 | 149 | 427 | Destiny Cozier |
 | 150 | 426 | Magic steve |
@@ -208,8 +208,8 @@
 | 200 | 327 | Danielle Simmons |
 | 201 | 323 | Juanita Lyons |
 | 202 | 323 | Briana Alexander |
-| 203 | 318 | Trista Dumais |
-| 204 | 318 | Arwa Fatimah |
+| 203 | 318 | Arwa Fatimah |
+| 204 | 318 | Trista Dumais |
 | 205 | 317 | Heather Westrum |
 | 206 | 317 | bru |
 | 207 | 314 | Amanda West |
@@ -261,9 +261,9 @@
 | 253 | 271 | Toni Lynn |
 | 254 | 270 | Angela Lynn |
 | 255 | 270 | Alexandra Weir |
-| 256 | 268 | Tanya Parsons |
-| 257 | 268 | Vanessa Moreno |
-| 258 | 268 | Chummy Blockbuilder |
+| 256 | 268 | Chummy Blockbuilder |
+| 257 | 268 | Tanya Parsons |
+| 258 | 268 | Vanessa Moreno |
 | 259 | 267 | Mindy Leigh Head |
 | 260 | 266 | Mighty Shatterfit |
 | 261 | 266 | Autumn Schaeffer |
@@ -344,8 +344,8 @@
 | 336 | 212 | Aleasha M Brown |
 | 337 | 209 | Jerry Tempelmeyer |
 | 338 | 208 | Mema |
-| 339 | 207 | Brave Gridpiece |
-| 340 | 207 | Melissa McCall |
+| 339 | 207 | Melissa McCall |
+| 340 | 207 | Brave Gridpiece |
 | 341 | 207 | Shylee Tilman |
 | 342 | 206 | RAEPR05 |
 | 343 | 205 | Lylymom |
@@ -374,12 +374,12 @@
 | 366 | 194 | Kimberly Ann |
 | 367 | 194 | Mike Aprilliano |
 | 368 | 193 | Nika Bee |
-| 369 | 193 | Matthew Turner |
-| 370 | 193 | Kelly Ann McCormick |
+| 369 | 193 | Kelly Ann McCormick |
+| 370 | 193 | Matthew Turner |
 | 371 | 191 | Lauren Fitzgerald Thomas |
-| 372 | 191 | John Quiring |
-| 373 | 191 | Sho Nuff |
-| 374 | 191 | Deana |
+| 372 | 191 | Sho Nuff |
+| 373 | 191 | Deana |
+| 374 | 191 | John Quiring |
 | 375 | 190 | blarg |
 | 376 | 190 | Jennifer Leigh |
 | 377 | 190 | Jessica Kaye DeAguero |
@@ -391,8 +391,8 @@
 | 383 | 186 | Jackie Jackie Lee |
 | 384 | 185 | JacJac |
 | 385 | 185 | Alyssa Nadine Medelez |
-| 386 | 184 | Regina Unruh |
-| 387 | 184 | Sassy Linkbuilder |
+| 386 | 184 | Sassy Linkbuilder |
+| 387 | 184 | Regina Unruh |
 | 388 | 184 | Brittany Radaszewski |
 | 389 | 183 | Wakanda Forever |
 | 390 | 183 | Ys Muhammed |
@@ -400,14 +400,14 @@
 | 392 | 182 | Niceday |
 | 393 | 182 | Donna M Carter |
 | 394 | 181 | Julay |
-| 395 | 181 | Fi Ne |
-| 396 | 181 | Wacky Cascade |
+| 395 | 181 | Wacky Cascade |
+| 396 | 181 | Fi Ne |
 | 397 | 180 | Jackie Lucas |
 | 398 | 180 | Peter Palestino |
 | 399 | 179 | Desiree Harris Rosch |
 | 400 | 179 | Elizabeth Pearson |
-| 401 | 179 | Bette Prieto |
-| 402 | 179 | Cat |
+| 401 | 179 | Cat |
+| 402 | 179 | Bette Prieto |
 | 403 | 177 | Facuetoo |
 | 404 | 177 | John |
 | 405 | 177 | Juliana Marques Do Nascimento Gordy |
@@ -660,8 +660,8 @@
 | 652 | 114 | Biggest thing |
 | 653 | 114 | James Louie |
 | 654 | 114 | Kimberly Mcmullen |
-| 655 | 113 | Della Hole |
-| 656 | 113 | Hillary Franklin |
+| 655 | 113 | Hillary Franklin |
+| 656 | 113 | Della Hole |
 | 657 | 113 | Brave Gridzone |
 | 658 | 112 | Leroy Jenkins |
 | 659 | 112 | Emily Lyric Converse |

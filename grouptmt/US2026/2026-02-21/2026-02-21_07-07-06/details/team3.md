@@ -112,8 +112,8 @@
 | 104 | 200 | Twisty Brick LT |
 | 105 | 199 | joclisa |
 | 106 | 196 | Speedy Bridger |
-| 107 | 195 | Nicha Hooker |
-| 108 | 195 | Jenny Hrndz |
+| 107 | 195 | Jenny Hrndz |
+| 108 | 195 | Nicha Hooker |
 | 109 | 194 | glichmod |
 | 110 | 193 | Shunta Jacobs |
 | 111 | 193 | Clever Shiftsnap |
@@ -264,9 +264,9 @@
 | 256 | 86 | Clever Clearbuilder |
 | 257 | 85 | Crystel b520 |
 | 258 | 85 | Chris Bell |
-| 259 | 84 | Flashy Rumbler |
+| 259 | 84 | gremicx |
 | 260 | 84 | Amanda L Baker |
-| 261 | 84 | gremicx |
+| 261 | 84 | Flashy Rumbler |
 | 262 | 83 | Deseree Ewing |
 | 263 | 81 | Tina Baurdau |
 | 264 | 80 | Josh Borquez |
