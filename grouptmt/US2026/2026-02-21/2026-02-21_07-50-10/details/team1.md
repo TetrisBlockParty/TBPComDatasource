@@ -53,8 +53,8 @@
 | 45 | 243 | Sarah Roberts |
 | 46 | 241 | Kristen Roles Robben |
 | 47 | 240 | Rachael |
-| 48 | 212 | Tdub |
-| 49 | 212 | Jaimie Lynn |
+| 48 | 212 | Jaimie Lynn |
+| 49 | 212 | Tdub |
 | 50 | 212 | Elaine Elaine |
 | 51 | 211 | Deanna L Hermanson |
 | 52 | 208 | Carrie Beck Geartz |

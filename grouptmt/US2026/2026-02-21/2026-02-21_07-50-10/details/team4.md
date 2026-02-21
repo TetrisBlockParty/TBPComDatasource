@@ -173,7 +173,7 @@
 | 165 | 85 | Chastity Mitchell |
 | 166 | 85 | Dizzy Tiley |
 | 167 | 85 | Marcus TheeyoungWoe Gilmore |
-| 168 | 85 | Chastity Mitchell |
+| 168 | 85 | Tim Knight-ten |
 | 169 | 85 | Shukee Lo |
 | 170 | 83 | Abigail Murphy |
 | 171 | 83 | Joseph Gray |
@@ -669,7 +669,7 @@
 | 661 | 16 | Ron |
 | 662 | 16 | Danelle Sulentic |
 | 663 | 16 | George Tzouganos |
-| 664 | 16 | Danelle Sulentic |
+| 664 | 16 | Allison Rose |
 | 665 | 16 | Spicy Cascadezone |
 | 666 | 15 | Sunny Roll |
 | 667 | 15 | Frilly Blocky |

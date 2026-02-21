@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -118,8 +118,8 @@
 | 110 | 545 | Brittany Alicia |
 | 111 | 542 | Rosa Franklin |
 | 112 | 541 | SaraMarie Eveland |
-| 113 | 540 | Charvi' Carter |
-| 114 | 540 | YiFei |
+| 113 | 540 | YiFei |
+| 114 | 540 | Charvi' Carter |
 | 115 | 534 | Poppy Snapper |
 | 116 | 531 | Chris Wanner |
 | 117 | 529 | Tonya Morgan |
@@ -249,8 +249,8 @@
 | 241 | 293 | Scott Treadway |
 | 242 | 293 | David Holliday |
 | 243 | 290 | Jessie McDougald |
-| 244 | 288 | Elisheva Mizrachi |
-| 245 | 288 | Megan Phillips |
+| 244 | 288 | Megan Phillips |
+| 245 | 288 | Elisheva Mizrachi |
 | 246 | 286 | Ryan Gunther |
 | 247 | 285 | June E Hanson |
 | 248 | 284 | Mamachelle Eisweirth |
@@ -438,8 +438,8 @@
 | 430 | 177 | Ryan Meilleur |
 | 431 | 177 | Angel |
 | 432 | 177 | John |
-| 433 | 176 | Jennifer Malloy - Cardy |
-| 434 | 176 | Trisha Gallagher |
+| 433 | 176 | Trisha Gallagher |
+| 434 | 176 | Jennifer Malloy - Cardy |
 | 435 | 175 | Lucero Ramirez |
 | 436 | 175 | Tina Blessed Cage |
 | 437 | 175 | Shandrica Lowe |
@@ -551,8 +551,8 @@
 | 543 | 140 | King Shamell Young |
 | 544 | 140 | Sheretta Holmes Lil'bit |
 | 545 | 140 | Brandy Sutton |
-| 546 | 140 | Kimberly Ann |
-| 547 | 140 | Preya Patel |
+| 546 | 140 | Preya Patel |
+| 547 | 140 | Kimberly Ann |
 | 548 | 139 | Jackson Smith |
 | 549 | 139 | Octavio Garza |
 | 550 | 139 | Josh Dill |
