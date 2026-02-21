@@ -34,8 +34,8 @@
 | 26 | 528 | Natasha Jones |
 | 27 | 507 | Stephanie Allmon |
 | 28 | 496 | MissTaylor |
-| 29 | 476 | Susan Valentino |
-| 30 | 476 | Jennifer Willis |
+| 29 | 476 | Jennifer Willis |
+| 30 | 476 | Susan Valentino |
 | 31 | 466 | Kay |
 | 32 | 446 | Kathryn Keenan-Taggart |
 | 33 | 432 | Nate Burnside |
@@ -143,8 +143,8 @@
 | 135 | 107 | Sherry Ogden |
 | 136 | 105 | Hoppy Buildout |
 | 137 | 104 | Sarah Moyer |
-| 138 | 102 | mommablock |
-| 139 | 102 | Jenny Hrndz |
+| 138 | 102 | Jenny Hrndz |
+| 139 | 102 | mommablock |
 | 140 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 141 | 100 | Donna |
 | 142 | 100 | Bobbi Moore |
@@ -154,8 +154,8 @@
 | 146 | 99 | Lys |
 | 147 | 98 | Jocelyne Baca |
 | 148 | 98 | Armi |
-| 149 | 96 | D3NO |
-| 150 | 96 | Skinny Baldez |
+| 149 | 96 | Skinny Baldez |
+| 150 | 96 | D3NO |
 | 151 | 95 | Brooke Bauer |
 | 152 | 95 | Tasha Wesson-Torrence |
 | 153 | 95 | Katie Knaus |
@@ -181,7 +181,7 @@
 | 173 | 85 | Kevin Russell |
 | 174 | 85 | Chris Bell |
 | 175 | 84 | Ava Petito |
-| 176 | 84 | Kali Kelz Williams |
+| 176 | 84 | Flashy Rumbler |
 | 177 | 84 | Amanda L Baker |
 | 178 | 84 | Kali Kelz Williams |
 | 179 | 82 | Clever Clearbuilder |

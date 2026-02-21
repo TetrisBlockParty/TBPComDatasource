@@ -73,8 +73,8 @@
 | 65 | 658 | Pacynthia Williams |
 | 66 | 658 | Dreamy Blast |
 | 67 | 658 | Vistabrat |
-| 68 | 649 | Anna Edwards |
-| 69 | 649 | Stephanie Chapman |
+| 68 | 649 | Stephanie Chapman |
+| 69 | 649 | Anna Edwards |
 | 70 | 608 | John Bednarik |
 | 71 | 601 | Nancy Reid |
 | 72 | 600 | Cool Snapclear |
@@ -106,8 +106,8 @@
 | 98 | 465 | Tommy Tha Boss Gunz |
 | 99 | 459 | Lisa Ongtowasruk |
 | 100 | 450 | Mari Ac |
-| 101 | 448 | Nick Jensen |
-| 102 | 448 | Jojo Momma |
+| 101 | 448 | Jojo Momma |
+| 102 | 448 | Nick Jensen |
 | 103 | 442 | Daphne Jordan |
 | 104 | 440 | Becky Weeks-Garry |
 | 105 | 440 | BYM4L |
@@ -187,8 +187,8 @@
 | 179 | 272 | Drwatson187 |
 | 180 | 271 | Ann Marie Davis |
 | 181 | 271 | Toni Lynn |
-| 182 | 270 | Linda Pierce |
-| 183 | 270 | Lonne Emade |
+| 182 | 270 | Lonne Emade |
+| 183 | 270 | Linda Pierce |
 | 184 | 268 | Vanessa Moreno |
 | 185 | 266 | Autumn Schaeffer |
 | 186 | 266 | Mighty Shatterfit |
@@ -199,8 +199,8 @@
 | 191 | 261 | MrsClaudette Will'sIam Matthews |
 | 192 | 260 | Mindy Leigh Head |
 | 193 | 260 | Dapper Dasher |
-| 194 | 257 | Alex Hill |
-| 195 | 257 | Shameika Trail |
+| 194 | 257 | Shameika Trail |
+| 195 | 257 | Alex Hill |
 | 196 | 255 | Santana Miyagi |
 | 197 | 254 | Libby Hicks |
 | 198 | 252 | Alezandra Smith |
@@ -228,8 +228,8 @@
 | 220 | 238 | Cheery Matchzone |
 | 221 | 236 | Frisky Riserbuilder |
 | 222 | 235 | Chummy Blockbuilder |
-| 223 | 233 | Alyssia Tancredi |
-| 224 | 233 | Robin Kerby |
+| 223 | 233 | Robin Kerby |
+| 224 | 233 | Alyssia Tancredi |
 | 225 | 233 | Maegan Beaule |
 | 226 | 231 | Ashley Lopez |
 | 227 | 231 | Ginger |
