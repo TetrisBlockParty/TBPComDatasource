@@ -120,8 +120,8 @@
 | 112 | 318 | Chasity |
 | 113 | 316 | Fancy Cascader |
 | 114 | 309 | Rich LeBlanc |
-| 115 | 307 | Blocked |
-| 116 | 307 | Peggi Charon |
+| 115 | 307 | Peggi Charon |
+| 116 | 307 | Blocked |
 | 117 | 300 | Sherika C. McDaniels |
 | 118 | 300 | Tessina Dewey-Mancino |
 | 119 | 293 | Poppy Splitter |
@@ -173,12 +173,12 @@
 | 165 | 202 | Fallorina Susana |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Nicha Hooker |
-| 169 | 195 | Michael Lucado |
+| 168 | 195 | Michael Lucado |
+| 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Duane Bright |
-| 172 | 193 | Clever Shiftsnap |
-| 173 | 193 | Stephanie Burtin |
+| 172 | 193 | Stephanie Burtin |
+| 173 | 193 | Clever Shiftsnap |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
 | 176 | 191 | Scott Carleton |
@@ -196,9 +196,9 @@
 | 188 | 178 | AlsoJess |
 | 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
-| 191 | 175 | DanceLuvLaugh |
+| 191 | 175 | Tasha Wesson-Torrence |
 | 192 | 175 | Connie Mohler-Fair |
-| 193 | 175 | Tasha Wesson-Torrence |
+| 193 | 175 | DanceLuvLaugh |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
 | 196 | 173 | Sarajane Lokan |
@@ -211,13 +211,13 @@
 | 203 | 166 | Kelly Ann Child |
 | 204 | 166 | Emma |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Stephanie Hill |
-| 207 | 163 | Christine Trester |
+| 206 | 163 | Christine Trester |
+| 207 | 163 | Stephanie Hill |
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | Irene Arreguin |
 | 210 | 161 | BŘŰŤİÇŨŚ |
-| 211 | 160 | Tiffany Davie |
-| 212 | 160 | Marquita Sheard |
+| 211 | 160 | Marquita Sheard |
+| 212 | 160 | Tiffany Davie |
 | 213 | 159 | Jone |
 | 214 | 157 | Patricia Gadsden |
 | 215 | 156 | Bea Miles |
@@ -265,8 +265,8 @@
 | 257 | 130 | Melissa Orth Hunter |
 | 258 | 129 | Juliana Dottore |
 | 259 | 129 | Samantha Lynn |
-| 260 | 128 | MizzMonick Smith |
-| 261 | 128 | Jen Lewis |
+| 260 | 128 | Jen Lewis |
+| 261 | 128 | MizzMonick Smith |
 | 262 | 127 | mzcatzy |
 | 263 | 126 | Pam Holt Powell |
 | 264 | 126 | RickyG |
