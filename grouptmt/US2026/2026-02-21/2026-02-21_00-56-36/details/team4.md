@@ -40,8 +40,8 @@
 | 32 | 167 | Rachel Anne |
 | 33 | 163 | Johnathan Martinez |
 | 34 | 153 | Lucille Truesdale |
-| 35 | 147 | Courtney Cicoria |
-| 36 | 147 | Kimyatta Cavin |
+| 35 | 147 | Kimyatta Cavin |
+| 36 | 147 | Courtney Cicoria |
 | 37 | 141 | Edward White |
 | 38 | 140 | GreenJeepGirl |
 | 39 | 140 | Carter Jones |
@@ -94,9 +94,9 @@
 | 86 | 72 | Joshua Cuellar |
 | 87 | 72 | Jae Job |
 | 88 | 71 | Joseph Pace |
-| 89 | 70 | Valerie Roberts |
+| 89 | 70 | Christina Black |
 | 90 | 70 | Melissa Adams |
-| 91 | 70 | Christina Black |
+| 91 | 70 | Valerie Roberts |
 | 92 | 69 | Carol Ricks Raymond |
 | 93 | 68 | LS |
 | 94 | 68 | Sam Middleton |
@@ -177,7 +177,7 @@
 | 169 | 41 | Metsfan |
 | 170 | 41 | Austin Owens |
 | 171 | 40 | Clarence Patawaran |
-| 172 | 40 | Alexis Kelly |
+| 172 | 40 | Lazy Blocker |
 | 173 | 40 | Melissa VanBourgondien |
 | 174 | 40 | Alexis Kelly |
 | 175 | 39 | Meli  Jackson |
