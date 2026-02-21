@@ -98,8 +98,8 @@
 | 90 | 186 | Jeff Brian Gates |
 | 91 | 185 | Andy Cabral |
 | 92 | 181 | Carter Jones |
-| 93 | 180 | Leslie Nicole |
-| 94 | 180 | Leah Kutz Zirbel |
+| 93 | 180 | Leah Kutz Zirbel |
+| 94 | 180 | Leslie Nicole |
 | 95 | 179 | Epic Curvetile |
 | 96 | 178 | Lori |
 | 97 | 177 | Andria Lynn |
@@ -152,8 +152,8 @@
 | 144 | 126 | TinyLegoRose |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
-| 147 | 123 | Cherrish Duren |
-| 148 | 123 | Angela Geist Jusinski |
+| 147 | 123 | Angela Geist Jusinski |
+| 148 | 123 | Cherrish Duren |
 | 149 | 122 | Sherri |
 | 150 | 122 | Carlos Ramirez |
 | 151 | 121 | Zany Shatterer |
@@ -183,9 +183,9 @@
 | 175 | 105 | TheNeesh50 |
 | 176 | 105 | Sam Middleton |
 | 177 | 104 | Damn Libra |
-| 178 | 103 | Judy Cox |
-| 179 | 103 | April Rondinone |
-| 180 | 103 | Lauren Lamb |
+| 178 | 103 | Lauren Lamb |
+| 179 | 103 | Judy Cox |
+| 180 | 103 | April Rondinone |
 | 181 | 102 | Faja |
 | 182 | 102 | Autumn Kumzi |
 | 183 | 101 | Zesty Linkgrid |

@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Shane Wilson Jr. |
-| 38 | 810 | Zippy Strikesnap |
+| 37 | 810 | Zippy Strikesnap |
+| 38 | 810 | Shane Wilson Jr. |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -117,8 +117,8 @@
 | 109 | 284 | Jay Horn |
 | 110 | 267 | Rufus Lincoln |
 | 111 | 264 | Tiff Vs Tiffany |
-| 112 | 263 | mjl574 |
-| 113 | 263 | Angeline Joseph |
+| 112 | 263 | Angeline Joseph |
+| 113 | 263 | mjl574 |
 | 114 | 262 | Joe-Maggie Mathews |
 | 115 | 259 | Louise Stacy Sisson |
 | 116 | 259 | opf |
@@ -159,8 +159,8 @@
 | 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Sissy Lowery Davis |
-| 155 | 189 | Staci George Fitzsimmons |
+| 154 | 189 | Staci George Fitzsimmons |
+| 155 | 189 | Sissy Lowery Davis |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -188,8 +188,8 @@
 | 180 | 163 | Stephanie Hill |
 | 181 | 163 | Sashay Tapae Simpson |
 | 182 | 162 | Stephanie Whitefield |
-| 183 | 161 | Nikki Pags |
-| 184 | 161 | BŘŰŤİÇŨŚ |
+| 183 | 161 | BŘŰŤİÇŨŚ |
+| 184 | 161 | Nikki Pags |
 | 185 | 160 | Tiffany Davie |
 | 186 | 159 | Jone |
 | 187 | 158 | Grams |
@@ -197,8 +197,8 @@
 | 189 | 157 | Patricia Gadsden |
 | 190 | 156 | Bea Miles |
 | 191 | 153 | Beth Ingham |
-| 192 | 152 | Katrina E Jelks |
-| 193 | 152 | Shiny Zonebuilder |
+| 192 | 152 | Shiny Zonebuilder |
+| 193 | 152 | Katrina E Jelks |
 | 194 | 152 | Cozy Snaplink |
 | 195 | 151 | MsBee |
 | 196 | 151 | Brenda Lee Vander Molen |
@@ -274,9 +274,9 @@
 | 266 | 108 | Rachel Napper |
 | 267 | 108 | LaTanya GeminiondaRise Johnson |
 | 268 | 108 | Hanna Kim |
-| 269 | 107 | Jumpy Wrecker |
-| 270 | 107 | Rachel |
-| 271 | 107 | Melissa Snyder |
+| 269 | 107 | Rachel |
+| 270 | 107 | Melissa Snyder |
+| 271 | 107 | Jumpy Wrecker |
 | 272 | 107 | Bouncy Blockbuilder |
 | 273 | 106 | Cheeky Snapper |
 | 274 | 106 | Noettín Kan Zasnemoore |

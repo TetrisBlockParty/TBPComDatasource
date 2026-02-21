@@ -49,8 +49,8 @@
 | 41 | 380 | Robert Beck |
 | 42 | 365 | Jennifer Cates |
 | 43 | 363 | Angel Fowler |
-| 44 | 349 | Jacqueline Williams |
-| 45 | 349 | Nancy Green |
+| 44 | 349 | Nancy Green |
+| 45 | 349 | Jacqueline Williams |
 | 46 | 348 | Stef Hu |
 | 47 | 338 | Stephanie Zahn |
 | 48 | 322 | Robert Benito |
@@ -70,8 +70,8 @@
 | 62 | 256 | Tipsy Column |
 | 63 | 252 | Dena Kayy |
 | 64 | 249 | Rachael |
-| 65 | 244 | Tdub |
-| 66 | 244 | Franswa |
+| 65 | 244 | Franswa |
+| 66 | 244 | Tdub |
 | 67 | 241 | Patrick Luckenbill |
 | 68 | 237 | Elaine Elaine |
 | 69 | 226 | Sharon Reynolds |
@@ -126,9 +126,9 @@
 | 118 | 149 | Arianna O'Brien |
 | 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
-| 121 | 146 | Christy Jones |
+| 121 | 146 | Dandy Basegrid |
 | 122 | 146 | Irual Hctrab |
-| 123 | 146 | Dandy Basegrid |
+| 123 | 146 | Christy Jones |
 | 124 | 145 | BigWeenie69 |
 | 125 | 144 | Plucky Ziggy |
 | 126 | 144 | femmefatale |
@@ -160,7 +160,7 @@
 | 152 | 124 | Cartier |
 | 153 | 124 | Flashy Rotator |
 | 154 | 122 | Melissa Lemmon |
-| 155 | 121 | April Carroll |
+| 155 | 121 | Bouncy Grid |
 | 156 | 121 | Tipsy Riseclear |
 | 157 | 121 | April Carroll |
 | 158 | 120 | Alenoush Karimian |

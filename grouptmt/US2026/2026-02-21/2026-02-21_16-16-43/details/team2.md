@@ -265,8 +265,8 @@
 | 257 | 391 | Qiana Sanders |
 | 258 | 390 | Kimberly Randesi |
 | 259 | 386 | Macy Williams |
-| 260 | 385 | Sam |
-| 261 | 385 | Skyler Morgan |
+| 260 | 385 | Skyler Morgan |
+| 261 | 385 | Sam |
 | 262 | 384 | Nett |
 | 263 | 383 | Arkei Luster |
 | 264 | 382 | David Holliday |
@@ -291,8 +291,8 @@
 | 283 | 357 | Julie Kresal |
 | 284 | 355 | Shandrica Lowe |
 | 285 | 355 | Kristen O'Neal |
-| 286 | 354 | Brave Dropmatch |
-| 287 | 354 | Tracy Wise |
+| 286 | 354 | Tracy Wise |
+| 287 | 354 | Brave Dropmatch |
 | 288 | 353 | Cheery Matchzone |
 | 289 | 352 | Juanita Lyons |
 | 290 | 352 | ruth |
@@ -471,8 +471,8 @@
 | 463 | 232 | Quirky Twistline |
 | 464 | 232 | Amber Brion |
 | 465 | 231 | Hong Tang |
-| 466 | 231 | Dylan Thomason |
-| 467 | 231 | Brave Gridpiece |
+| 466 | 231 | Brave Gridpiece |
+| 467 | 231 | Dylan Thomason |
 | 468 | 230 | Leslie Johnson Guinto |
 | 469 | 229 | Tonya Lee |
 | 470 | 228 | Michelle Sager |
@@ -545,15 +545,15 @@
 | 537 | 196 | Zak Dunn |
 | 538 | 196 | Tony Lea |
 | 539 | 196 | Alexandra Reese |
-| 540 | 195 | Synn |
-| 541 | 195 | Snappy Shatterfit |
+| 540 | 195 | Snappy Shatterfit |
+| 541 | 195 | Synn |
 | 542 | 195 | Darcy Mae |
 | 543 | 195 | Darlene Bowman |
 | 544 | 194 | Hoppy Brickmatch |
 | 545 | 193 | Kelly Ann McCormick |
 | 546 | 192 | Leroy Jenkins |
-| 547 | 192 | Beth Decker |
-| 548 | 192 | Michael Artis |
+| 547 | 192 | Michael Artis |
+| 548 | 192 | Beth Decker |
 | 549 | 190 | Jessica Kaye DeAguero |
 | 550 | 190 | Jackie Lucas |
 | 551 | 189 | Nate Skidmore |
