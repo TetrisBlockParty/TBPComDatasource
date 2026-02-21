@@ -82,12 +82,12 @@
 | 74 | 185 | loulou |
 | 75 | 185 | Andy Cabral |
 | 76 | 184 | Dizzy Tiley |
-| 77 | 180 | Leah Kutz Zirbel |
-| 78 | 180 | shar |
+| 77 | 180 | shar |
+| 78 | 180 | Leah Kutz Zirbel |
 | 79 | 179 | Epic Curvetile |
 | 80 | 178 | Lori |
-| 81 | 173 | Jeff Brian Gates |
-| 82 | 173 | Zethra Prenisha Rahming |
+| 81 | 173 | Zethra Prenisha Rahming |
+| 82 | 173 | Jeff Brian Gates |
 | 83 | 171 | Melvin Baird |
 | 84 | 170 | Justin Hannigan |
 | 85 | 170 | Girl |
@@ -95,8 +95,8 @@
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
 | 89 | 162 | Shauna Havard |
-| 90 | 160 | Carter Jones |
-| 91 | 160 | Stacey Stano |
+| 90 | 160 | Stacey Stano |
+| 91 | 160 | Carter Jones |
 | 92 | 159 | Holly Jolly |
 | 93 | 157 | quicksand420 |
 | 94 | 154 | Zany Twisterfit |
@@ -138,8 +138,8 @@
 | 130 | 121 | blockstar |
 | 131 | 121 | Megan Cutshaw |
 | 132 | 120 | Joshua Guess |
-| 133 | 119 | Carlton Unfiltered |
-| 134 | 119 | Kristin Manee |
+| 133 | 119 | Kristin Manee |
+| 134 | 119 | Carlton Unfiltered |
 | 135 | 118 | Leslie Nicole |
 | 136 | 116 | Stephme310 |
 | 137 | 116 | Diana Houts |

@@ -31,8 +31,8 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Delilah belle |
-| 27 | 867 | Briarblack |
+| 26 | 867 | Briarblack |
+| 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
 | 30 | 810 | Zippy Strikesnap |
@@ -204,8 +204,8 @@
 | 196 | 128 | Jen Lewis |
 | 197 | 127 | Marquita Sheard |
 | 198 | 126 | Brandon Givens |
-| 199 | 125 | Shimika Enay Wallace |
-| 200 | 125 | Felicia Doxey |
+| 199 | 125 | Felicia Doxey |
+| 200 | 125 | Shimika Enay Wallace |
 | 201 | 124 | Cesar Barraza |
 | 202 | 123 | Terry Jo Jones |
 | 203 | 123 | Sarajane Lokan |
@@ -241,8 +241,8 @@
 | 233 | 108 | Rachel Napper |
 | 234 | 108 | Hanna Kim |
 | 235 | 108 | LaTanya GeminiondaRise Johnson |
-| 236 | 107 | France Vézina |
-| 237 | 107 | Sherry Ogden |
+| 236 | 107 | Sherry Ogden |
+| 237 | 107 | France Vézina |
 | 238 | 107 | Bouncy Blockbuilder |
 | 239 | 106 | Rachel |
 | 240 | 106 | mommablock |
@@ -312,11 +312,11 @@
 | 304 | 86 | Criss |
 | 305 | 86 | Clever Clearbuilder |
 | 306 | 86 | Salena Whitlock |
-| 307 | 85 | Crystel b520 |
-| 308 | 85 | Lush Risebuilder |
-| 309 | 85 | Chris Bell |
-| 310 | 84 | Flashy Rumbler |
-| 311 | 84 | Spunky Racker |
+| 307 | 85 | Chris Bell |
+| 308 | 85 | Crystel b520 |
+| 309 | 85 | Lush Risebuilder |
+| 310 | 84 | Spunky Racker |
+| 311 | 84 | Flashy Rumbler |
 | 312 | 84 | gremicx |
 | 313 | 83 | Glitzy Slide |
 | 314 | 83 | Deseree Ewing |

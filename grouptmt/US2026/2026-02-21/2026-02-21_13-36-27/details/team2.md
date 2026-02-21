@@ -159,8 +159,8 @@
 | 151 | 522 | Slip |
 | 152 | 520 | Kimberly Schall |
 | 153 | 517 | Debra Williams |
-| 154 | 515 | Kaylee McCafferty |
-| 155 | 515 | Real Ri |
+| 154 | 515 | Real Ri |
+| 155 | 515 | Kaylee McCafferty |
 | 156 | 514 | Ashley House |
 | 157 | 511 | Dizzy Zone |
 | 158 | 511 | Ramone Armstrong |
@@ -173,8 +173,8 @@
 | 165 | 495 | Poppy Snap |
 | 166 | 488 | Teresa Gillmore |
 | 167 | 486 | MrsCandyfine As Wine Truss |
-| 168 | 485 | Leah Keesling |
-| 169 | 485 | Gene Mills |
+| 168 | 485 | Gene Mills |
+| 169 | 485 | Leah Keesling |
 | 170 | 484 | Suki Kaur |
 | 171 | 483 | Jordan Kaiser |
 | 172 | 482 | Eckoman518 |
@@ -304,8 +304,8 @@
 | 296 | 303 | Amanda Schaffer |
 | 297 | 303 | Crystal Greene |
 | 298 | 302 | Offonar Facey |
-| 299 | 301 | Claire |
-| 300 | 301 | Lawanda Forbes |
+| 299 | 301 | Lawanda Forbes |
+| 300 | 301 | Claire |
 | 301 | 299 | Deborah Miller |
 | 302 | 299 | Catina Hutchison |
 | 303 | 299 | Tara Lynn Janes |
@@ -379,8 +379,8 @@
 | 371 | 254 | Rose Fx |
 | 372 | 254 | Julie Hamilton |
 | 373 | 253 | Tansaria Couch-Butler |
-| 374 | 252 | Alyssia Tancredi |
-| 375 | 252 | Matt Johnson |
+| 374 | 252 | Matt Johnson |
+| 375 | 252 | Alyssia Tancredi |
 | 376 | 252 | Britt Stunkel |
 | 377 | 251 | Ann Knutson Anderson |
 | 378 | 250 | Steve Man |
