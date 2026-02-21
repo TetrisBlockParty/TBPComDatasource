@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 540 | Kimyatta Cavin |
 | 25 | 535 | Rebecca Moulton Pinciaro |
@@ -53,8 +53,8 @@
 | 45 | 345 | Ancient Intuition |
 | 46 | 342 | TeeJ |
 | 47 | 331 | Clarence Patawaran |
-| 48 | 308 | Jen Allison |
-| 49 | 308 | Carlton Unfiltered |
+| 48 | 308 | Carlton Unfiltered |
+| 49 | 308 | Jen Allison |
 | 50 | 306 | Lisa Davis |
 | 51 | 303 | Tammi Crnza |
 | 52 | 300 | David Lay |
@@ -68,8 +68,8 @@
 | 60 | 274 | Elizabeth Sallas |
 | 61 | 272 | YoMomma |
 | 62 | 269 | Desi Desporte |
-| 63 | 265 | Julian Garcia |
-| 64 | 265 | KM8 |
+| 63 | 265 | KM8 |
+| 64 | 265 | Julian Garcia |
 | 65 | 260 | Jason Hart |
 | 66 | 256 | Brittney Griggs |
 | 67 | 244 | Isabella Blanco |
@@ -143,8 +143,8 @@
 | 135 | 128 | Stephme310 |
 | 136 | 128 | Rio Rocha |
 | 137 | 127 | Dreamy Snapgrid |
-| 138 | 126 | TinyLegoRose |
-| 139 | 126 | Dihcheese444 |
+| 138 | 126 | Dihcheese444 |
+| 139 | 126 | TinyLegoRose |
 | 140 | 124 | Allen Lloyd |
 | 141 | 123 | Angela Geist Jusinski |
 | 142 | 123 | Cherrish Duren |

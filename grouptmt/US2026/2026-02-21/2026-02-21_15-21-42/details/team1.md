@@ -121,8 +121,8 @@
 | 113 | 153 | Shiny Gridmatch |
 | 114 | 153 | Carolyn Smith |
 | 115 | 152 | Jacqueline Unique |
-| 116 | 149 | Jennifer ManWarren |
-| 117 | 149 | Arianna O'Brien |
+| 116 | 149 | Arianna O'Brien |
+| 117 | 149 | Jennifer ManWarren |
 | 118 | 148 | Shauntina Burke |
 | 119 | 146 | Irual Hctrab |
 | 120 | 145 | BigWeenie69 |
