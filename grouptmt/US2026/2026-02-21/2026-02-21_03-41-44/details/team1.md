@@ -48,8 +48,8 @@
 | 40 | 194 | Sharon Reynolds |
 | 41 | 192 | Mandyy Rae |
 | 42 | 191 | Jazzy Framezone |
-| 43 | 190 | Thorne Shumate |
-| 44 | 190 | Sweetts |
+| 43 | 190 | Sweetts |
+| 44 | 190 | Thorne Shumate |
 | 45 | 189 | Happy Basegrid |
 | 46 | 185 | Karin Gillen |
 | 47 | 173 | Frothy Pattern |
