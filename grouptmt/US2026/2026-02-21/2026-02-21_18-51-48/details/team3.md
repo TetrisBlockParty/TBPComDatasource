@@ -152,8 +152,8 @@
 | 144 | 219 | Shunta Jacobs |
 | 145 | 219 | Tom Nault |
 | 146 | 217 | Jess Bissett |
-| 147 | 216 | Marci Mize Fandrich |
-| 148 | 216 | Aaron Pitkin |
+| 147 | 216 | Aaron Pitkin |
+| 148 | 216 | Marci Mize Fandrich |
 | 149 | 214 | Amy Fuller Heaton |
 | 150 | 214 | Jenny Hrndz |
 | 151 | 214 | Leah Barnett |

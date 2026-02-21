@@ -128,8 +128,8 @@
 | 120 | 171 | David DeSantis |
 | 121 | 169 | Abbey Crespo |
 | 122 | 168 | Standia Civil |
-| 123 | 166 | Rico Rico |
-| 124 | 166 | Tana |
+| 123 | 166 | Tana |
+| 124 | 166 | Rico Rico |
 | 125 | 165 | Veronica Eve |
 | 126 | 163 | Tyler Whitley |
 | 127 | 162 | Tanya Carpenter-Reynolds |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Cody Slav |
@@ -187,8 +187,8 @@
 | 179 | 122 | Margo Wagner |
 | 180 | 122 | Melissa Lemmon |
 | 181 | 121 | April Carroll |
-| 182 | 120 | Alenoush Karimian |
-| 183 | 120 | Kimmie Kimms |
+| 182 | 120 | Kimmie Kimms |
+| 183 | 120 | Alenoush Karimian |
 | 184 | 119 | Tater |
 | 185 | 116 | Jessica Russell |
 | 186 | 115 | Mrs.Patrica |
@@ -208,8 +208,8 @@
 | 200 | 108 | Tavia |
 | 201 | 108 | Dizzy Party |
 | 202 | 107 | Jodee Woods |
-| 203 | 106 | Alyssa Ingram |
-| 204 | 106 | Chantelle Ceno |
+| 203 | 106 | Chantelle Ceno |
+| 204 | 106 | Alyssa Ingram |
 | 205 | 106 | Bloknboy |
 | 206 | 105 | Ty Brown |
 | 207 | 105 | Funky Piecebuilder |
@@ -229,9 +229,9 @@
 | 221 | 100 | Jessica Weed |
 | 222 | 100 | Plucky Fallzone |
 | 223 | 100 | Debbie Davis |
-| 224 | 100 | Plucky Fallzone |
-| 225 | 99 | Barrbaric |
-| 226 | 99 | Brad MG |
+| 224 | 100 | Cheeky Pop |
+| 225 | 99 | Brad MG |
+| 226 | 99 | Barrbaric |
 | 227 | 98 | DoodleBug |
 | 228 | 97 | Steve Bomkamp |
 | 229 | 97 | Meechie |

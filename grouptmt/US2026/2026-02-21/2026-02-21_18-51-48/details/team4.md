@@ -34,8 +34,8 @@
 | 26 | 620 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -175,9 +175,9 @@
 | 167 | 124 | Allen Lloyd |
 | 168 | 124 | SammieJo Guy |
 | 169 | 123 | Cherrish Duren |
-| 170 | 122 | 🥔🥔 Spudz |
+| 170 | 122 | Sherri |
 | 171 | 122 | Carlos Ramirez |
-| 172 | 122 | Sherri |
+| 172 | 122 | 🥔🥔 Spudz |
 | 173 | 121 | Marcus Todd |
 | 174 | 121 | Megan Cutshaw |
 | 175 | 121 | Smiley Tiltbuilder |
