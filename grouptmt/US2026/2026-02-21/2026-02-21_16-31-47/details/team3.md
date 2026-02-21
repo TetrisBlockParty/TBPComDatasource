@@ -181,8 +181,8 @@
 | 173 | 173 | Sarajane Lokan |
 | 174 | 171 | rosy |
 | 175 | 170 | Trisha Balmer |
-| 176 | 167 | Sashay Tapae Simpson |
-| 177 | 167 | Raven Dudley |
+| 176 | 167 | Raven Dudley |
+| 177 | 167 | Sashay Tapae Simpson |
 | 178 | 166 | Loopy Fallmatch |
 | 179 | 166 | Beth Ingham |
 | 180 | 166 | Betty Rosas |
@@ -214,8 +214,8 @@
 | 206 | 148 | Gumbo |
 | 207 | 146 | Ashley Lynn Marchese |
 | 208 | 146 | Denita Mungro |
-| 209 | 146 | Carrie Huskey |
-| 210 | 146 | Latoya Mayne |
+| 209 | 146 | Latoya Mayne |
+| 210 | 146 | Carrie Huskey |
 | 211 | 145 | Emma |
 | 212 | 145 | Bryan Byrd |
 | 213 | 142 | Jl |
@@ -282,8 +282,8 @@
 | 274 | 106 | Cheeky Snapper |
 | 275 | 106 | Noettín Kan Zasnemoore |
 | 276 | 105 | Donna |
-| 277 | 105 | Emi |
-| 278 | 105 | Boldy Blocker |
+| 277 | 105 | Boldy Blocker |
+| 278 | 105 | Emi |
 | 279 | 104 | Samantha Lynn |
 | 280 | 104 | bean |
 | 281 | 104 | Ashley Rufus Bythcez |

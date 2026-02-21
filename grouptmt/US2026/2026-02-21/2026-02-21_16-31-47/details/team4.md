@@ -93,8 +93,8 @@
 | 85 | 198 | Dustee Craddock-Harrison |
 | 86 | 198 | Mike Solo |
 | 87 | 194 | Zany Twisterfit |
-| 88 | 191 | Melvin Baird |
-| 89 | 191 | loulou |
+| 88 | 191 | loulou |
+| 89 | 191 | Melvin Baird |
 | 90 | 189 | Calvin Dennis |
 | 91 | 187 | Joeliecea Cobb |
 | 92 | 187 | Swanky Fitline |

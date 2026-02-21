@@ -68,8 +68,8 @@
 | 60 | 270 | Sarah Roberts |
 | 61 | 261 | Bhelle Sumile |
 | 62 | 256 | Tipsy Column |
-| 63 | 252 | Tdub |
-| 64 | 252 | Dena Kayy |
+| 63 | 252 | Dena Kayy |
+| 64 | 252 | Tdub |
 | 65 | 249 | Rachael |
 | 66 | 245 | Jazzy Framezone |
 | 67 | 244 | Franswa |
@@ -270,8 +270,8 @@
 | 262 | 75 | Ric Hard Hernandez |
 | 263 | 75 | Gewb |
 | 264 | 74 | Cool Towerzone |
-| 265 | 74 | Jay Tressler |
-| 266 | 74 | Meechie |
+| 265 | 74 | Meechie |
+| 266 | 74 | Jay Tressler |
 | 267 | 74 | Jo Kerley |
 | 268 | 73 | Jason Cox |
 | 269 | 73 | Shanae Grant |

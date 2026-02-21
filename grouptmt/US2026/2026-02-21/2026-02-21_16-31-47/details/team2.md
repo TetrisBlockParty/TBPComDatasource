@@ -133,8 +133,8 @@
 | 125 | 699 | Anna Edwards |
 | 126 | 698 | Lola Contreras |
 | 127 | 697 | Real Ri |
-| 128 | 694 | Vo'Landa Reels |
-| 129 | 694 | Nancy Reid |
+| 128 | 694 | Nancy Reid |
+| 129 | 694 | Vo'Landa Reels |
 | 130 | 690 | Cool Clearer |
 | 131 | 688 | Dreamy Blast |
 | 132 | 679 | Gold Rose |
@@ -170,8 +170,8 @@
 | 162 | 580 | Steve Grotto |
 | 163 | 576 | Shannon Joslin |
 | 164 | 571 | Thomas Hedrick |
-| 165 | 569 | Vaniel Glover |
-| 166 | 569 | Gary Stash |
+| 165 | 569 | Gary Stash |
+| 166 | 569 | Vaniel Glover |
 | 167 | 563 | goofinoff |
 | 168 | 561 | Maria Escobar |
 | 169 | 550 | Jumpy Gridpiece |
@@ -196,8 +196,8 @@
 | 188 | 511 | Ramone Armstrong |
 | 189 | 511 | Dizzy Zone |
 | 190 | 511 | Laura Mclean |
-| 191 | 510 | Lisa Ongtowasruk |
-| 192 | 510 | Cheech Dta |
+| 191 | 510 | Cheech Dta |
+| 192 | 510 | Lisa Ongtowasruk |
 | 193 | 509 | Kelli Wells |
 | 194 | 509 | Ariel |
 | 195 | 504 | Cherica Taylor |
@@ -267,8 +267,8 @@
 | 259 | 391 | Qiana Sanders |
 | 260 | 390 | Kimberly Randesi |
 | 261 | 386 | Macy Williams |
-| 262 | 385 | Sam |
-| 263 | 385 | Skyler Morgan |
+| 262 | 385 | Skyler Morgan |
+| 263 | 385 | Sam |
 | 264 | 383 | Arkei Luster |
 | 265 | 382 | David Holliday |
 | 266 | 379 | Jánine Riggs |
@@ -374,8 +374,8 @@
 | 366 | 294 | Frisky Riserbuilder |
 | 367 | 294 | Barbra Miller |
 | 368 | 292 | Maegan Beaule |
-| 369 | 290 | Maya June |
-| 370 | 290 | Sabrina Burton |
+| 369 | 290 | Sabrina Burton |
+| 370 | 290 | Maya June |
 | 371 | 289 | Hyper Cluster |
 | 372 | 289 | Frisky Clearpiece |
 | 373 | 286 | Mandi Douglas Hilt |
@@ -402,8 +402,8 @@
 | 394 | 274 | Melissa Holsinger |
 | 395 | 273 | Vanessa Moreno |
 | 396 | 273 | Ray Ray Prado |
-| 397 | 273 | Giddy Gridclear |
-| 398 | 273 | Jenna Nance |
+| 397 | 273 | Jenna Nance |
+| 398 | 273 | Giddy Gridclear |
 | 399 | 272 | Mikayala Szaz |
 | 400 | 271 | Ann Marie Davis |
 | 401 | 271 | Tonya Lee |
@@ -428,8 +428,8 @@
 | 420 | 256 | Tee Jaleesa |
 | 421 | 254 | Ann Knutson Anderson |
 | 422 | 254 | Julie Hamilton |
-| 423 | 254 | Rose Fx |
-| 424 | 254 | Elizabeth Diraffaele |
+| 423 | 254 | Elizabeth Diraffaele |
+| 424 | 254 | Rose Fx |
 | 425 | 253 | Luna |
 | 426 | 253 | Kimmy Newman |
 | 427 | 253 | Tansaria Couch-Butler |
@@ -457,8 +457,8 @@
 | 449 | 246 | Pocho Zavala |
 | 450 | 245 | Rachael Senard |
 | 451 | 245 | Rob Surace |
-| 452 | 245 | Lewis Sturgeon |
-| 453 | 245 | Sanaa Nounoussa |
+| 452 | 245 | Sanaa Nounoussa |
+| 453 | 245 | Lewis Sturgeon |
 | 454 | 244 | Belle |
 | 455 | 244 | Nakiiya Dreamcatcher Gore |
 | 456 | 243 | JacJac |
