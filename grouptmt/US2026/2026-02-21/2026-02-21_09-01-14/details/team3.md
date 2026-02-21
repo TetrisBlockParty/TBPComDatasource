@@ -67,8 +67,8 @@
 | 59 | 387 | Nerdy Spinblock |
 | 60 | 385 | Brandon Green |
 | 61 | 372 | Patty Allen |
-| 62 | 371 | Tasha Schriewer |
-| 63 | 371 | Jesse Olive |
+| 62 | 371 | Jesse Olive |
+| 63 | 371 | Tasha Schriewer |
 | 64 | 370 | yoyo |
 | 65 | 367 | Tetris Master |
 | 66 | 362 | Liv Whetson |
@@ -147,8 +147,8 @@
 | 139 | 159 | Morgan Martinez |
 | 140 | 159 | Jone |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -194,13 +194,13 @@
 | 186 | 120 | Stephanie Hill |
 | 187 | 118 | Fancy Curver |
 | 188 | 118 | Logan Naccarato |
-| 189 | 118 | Fancy Curver |
+| 189 | 118 | Sabrina Hardrick |
 | 190 | 116 | BugMansMom |
 | 191 | 116 | Skinny Baldez |
-| 192 | 115 | Hoppy Buildout |
-| 193 | 115 | Jennifer Alvey |
-| 194 | 114 | Jessica Bechler |
-| 195 | 114 | Tiffany Davie |
+| 192 | 115 | Jennifer Alvey |
+| 193 | 115 | Hoppy Buildout |
+| 194 | 114 | Tiffany Davie |
+| 195 | 114 | Jessica Bechler |
 | 196 | 113 | Valerie Gendron |
 | 197 | 113 | Brian Battjes |
 | 198 | 110 | Stella |

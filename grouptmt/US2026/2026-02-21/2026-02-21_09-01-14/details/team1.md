@@ -44,8 +44,8 @@
 | 36 | 294 | Jacqueline Williams |
 | 37 | 291 | Nancy Green |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 263 | comrade fish |
 | 43 | 256 | Robert Benito |
@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 217 | Deanna L Hermanson |
 | 51 | 216 | Elaine Elaine |
-| 52 | 212 | Jaimie Lynn |
-| 53 | 212 | Tdub |
+| 52 | 212 | Tdub |
+| 53 | 212 | Jaimie Lynn |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -67,8 +67,8 @@
 | 59 | 201 | Anaid Sanchez |
 | 60 | 201 | Ananda Mendez |
 | 61 | 200 | Lexuriuos Lifestlye |
-| 62 | 198 | Billie Dawn Sparks |
-| 63 | 198 | Happy Snapbuild |
+| 62 | 198 | Happy Snapbuild |
+| 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
 | 65 | 194 | Sharon Reynolds |
 | 66 | 194 | Giggly Builderline |
@@ -162,9 +162,9 @@
 | 154 | 94 | Luciano Moreira |
 | 155 | 93 | Cody Gates |
 | 156 | 92 | Timothy Dew |
-| 157 | 90 | TSwag |
-| 158 | 90 | Dizzy Party |
-| 159 | 90 | Madison Wicks |
+| 157 | 90 | Dizzy Party |
+| 158 | 90 | Madison Wicks |
+| 159 | 90 | TSwag |
 | 160 | 89 | Mara Hilker |
 | 161 | 87 | Jessi Sauer |
 | 162 | 87 | Jenny Gingrich Fuentes |

@@ -112,8 +112,8 @@
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
-| 107 | 123 | Nugget |
-| 108 | 123 | Cherrish Duren |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Nugget |
 | 109 | 122 | Sherri |
 | 110 | 121 | Klo |
 | 111 | 121 | Zany Shatterer |
@@ -264,9 +264,9 @@
 | 256 | 61 | TeeJ |
 | 257 | 61 | Plucky Patternblock |
 | 258 | 60 | Ahleek Mitchell |
-| 259 | 59 | Jasmine S Caldwell |
+| 259 | 59 | Jen Mattei |
 | 260 | 59 | Lori |
-| 261 | 59 | Jen Mattei |
+| 261 | 59 | Jasmine S Caldwell |
 | 262 | 59 | Angelito |
 | 263 | 58 | Rebecca Morris |
 | 264 | 58 | Autumn Kumzi |

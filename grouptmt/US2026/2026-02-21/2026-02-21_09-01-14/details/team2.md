@@ -239,11 +239,11 @@
 | 231 | 315 | Alisa Lamb |
 | 232 | 314 | Amanda West |
 | 233 | 312 | Michelle Pike |
-| 234 | 311 | Véronique Lévesque Sabourin |
-| 235 | 311 | Dar |
-| 236 | 309 | Oscar Bernie |
-| 237 | 309 | Ginger |
-| 238 | 309 | James Zaragoza |
+| 234 | 311 | Dar |
+| 235 | 311 | Véronique Lévesque Sabourin |
+| 236 | 309 | James Zaragoza |
+| 237 | 309 | Oscar Bernie |
+| 238 | 309 | Ginger |
 | 239 | 306 | Kristopher Miller |
 | 240 | 305 | Ramone Armstrong |
 | 241 | 305 | Libby Hicks |
@@ -310,9 +310,9 @@
 | 302 | 256 | Tee Jaleesa |
 | 303 | 256 | Smashanator |
 | 304 | 255 | Santana Miyagi |
-| 305 | 254 | Julie Hamilton |
-| 306 | 254 | Rose Fx |
-| 307 | 254 | Elizabeth Diraffaele |
+| 305 | 254 | Rose Fx |
+| 306 | 254 | Elizabeth Diraffaele |
+| 307 | 254 | Julie Hamilton |
 | 308 | 253 | Tansaria Couch-Butler |
 | 309 | 252 | Matt Johnson |
 | 310 | 252 | Cheech Dta |
@@ -332,13 +332,13 @@
 | 324 | 246 | Stephanie Lumanlan |
 | 325 | 246 | Ashley Lopez |
 | 326 | 245 | Rachael Senard |
-| 327 | 245 | Mischelle Clay |
-| 328 | 245 | Taryece Gause |
+| 327 | 245 | Taryece Gause |
+| 328 | 245 | Mischelle Clay |
 | 329 | 244 | Aimee Byrom |
 | 330 | 243 | Brandy Andre |
 | 331 | 243 | Adira Brown |
-| 332 | 242 | Lawanda Forbes |
-| 333 | 242 | Donna Chandler |
+| 332 | 242 | Donna Chandler |
+| 333 | 242 | Lawanda Forbes |
 | 334 | 241 | Sabrina Burton |
 | 335 | 240 | Adam Erikson |
 | 336 | 240 | Angie Marie |
@@ -387,8 +387,8 @@
 | 379 | 207 | Shylee Tilman |
 | 380 | 206 | Neko Preston |
 | 381 | 206 | RAEPR05 |
-| 382 | 205 | Lylymom |
-| 383 | 205 | ElizabethAnn Dickinson |
+| 382 | 205 | ElizabethAnn Dickinson |
+| 383 | 205 | Lylymom |
 | 384 | 204 | Ali Gralski |
 | 385 | 204 | Rebecca Doughman |
 | 386 | 203 | Gary Stash |
