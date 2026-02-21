@@ -210,8 +210,8 @@
 | 202 | 658 | Erica Williams |
 | 203 | 654 | Mandi Douglas Hilt |
 | 204 | 651 | Roseanna Peloso |
-| 205 | 651 | Unica Rector |
-| 206 | 651 | ShinyRose |
+| 205 | 651 | ShinyRose |
+| 206 | 651 | Unica Rector |
 | 207 | 650 | Shiny Rollzone |
 | 208 | 647 | Ashle Scranton |
 | 209 | 641 | Joce Lynn |
@@ -307,9 +307,9 @@
 | 299 | 470 | Jerry Tempelmeyer |
 | 300 | 470 | Armonie Smith |
 | 301 | 469 | Jai Jackson |
-| 302 | 469 | Ashley Rose Frederick |
-| 303 | 469 | Amélie Cadieux |
-| 304 | 469 | Ashley Lopez |
+| 302 | 469 | Amélie Cadieux |
+| 303 | 469 | Ashley Lopez |
+| 304 | 469 | Ashley Rose Frederick |
 | 305 | 468 | Drwatson187 |
 | 306 | 467 | Dedra Steward |
 | 307 | 467 | Scott Treadway |
@@ -416,7 +416,7 @@
 | 408 | 366 | Courtney Burcham |
 | 409 | 365 | Christina Lewis-Vickers |
 | 410 | 365 | Audrey Jones |
-| 411 | 365 | Christina Lewis-Vickers |
+| 411 | 365 | Kayla |
 | 412 | 364 | Lively Edgepiece |
 | 413 | 364 | Shinette Dobson |
 | 414 | 363 | Happy Caster |
@@ -616,14 +616,14 @@
 | 608 | 255 | ElizabethAnn Dickinson |
 | 609 | 255 | Hillary Crawford |
 | 610 | 254 | Elizabeth Diraffaele |
-| 611 | 253 | Christine Bollig |
-| 612 | 253 | Tansaria Couch-Butler |
+| 611 | 253 | Tansaria Couch-Butler |
+| 612 | 253 | Christine Bollig |
 | 613 | 252 | Sheniya Spurgeon |
 | 614 | 252 | Aleasha M Brown |
 | 615 | 250 | James Smith |
 | 616 | 250 | Kiorah Blaze |
-| 617 | 250 | Kristi Biddinger |
-| 618 | 250 | sup |
+| 617 | 250 | sup |
+| 618 | 250 | Kristi Biddinger |
 | 619 | 250 | LeVeL27 |
 | 620 | 249 | Porsche' Nicole |
 | 621 | 249 | Nicky Jackson |

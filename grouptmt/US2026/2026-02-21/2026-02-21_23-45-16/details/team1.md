@@ -175,8 +175,8 @@
 | 167 | 161 | Jessie Lynn |
 | 168 | 161 | SavageBooty98 |
 | 169 | 159 | Bindi |
-| 170 | 158 | Arianna O'Brien |
-| 171 | 158 | Sarah Marie |
+| 170 | 158 | Sarah Marie |
+| 171 | 158 | Arianna O'Brien |
 | 172 | 157 | Angela Fairbank |
 | 173 | 154 | Christy Jones |
 | 174 | 152 | Speedy Snapfall |
@@ -192,8 +192,8 @@
 | 184 | 144 | Gary Gobin |
 | 185 | 144 | Miguel Teixeira |
 | 186 | 142 | Colleen Wise |
-| 187 | 141 | Dino |
-| 188 | 141 | Blaire Bruckoff |
+| 187 | 141 | Blaire Bruckoff |
+| 188 | 141 | Dino |
 | 189 | 139 | Flashy Rotator |
 | 190 | 139 | Mel Hogan |
 | 191 | 139 | Barry Mac'Ockner |

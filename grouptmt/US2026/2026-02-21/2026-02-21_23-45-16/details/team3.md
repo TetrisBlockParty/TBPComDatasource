@@ -98,8 +98,8 @@
 | 90 | 459 | Nerdy Riseclear |
 | 91 | 447 | Mykal Burton |
 | 92 | 446 | Danielle Rhoades |
-| 93 | 445 | Silly Twist |
-| 94 | 445 | Kristie McFarland |
+| 93 | 445 | Kristie McFarland |
+| 94 | 445 | Silly Twist |
 | 95 | 430 | Patricia White |
 | 96 | 428 | Elissa S-k |
 | 97 | 425 | Patty Allen |
@@ -111,8 +111,8 @@
 | 103 | 402 | Stephanie Simpson |
 | 104 | 400 | Luciana Braganca Vieira |
 | 105 | 397 | Mcathen |
-| 106 | 394 | Annie Déè |
-| 107 | 394 | joclisa |
+| 106 | 394 | joclisa |
+| 107 | 394 | Annie Déè |
 | 108 | 392 | Michelle |
 | 109 | 391 | Calista Jo Dickson |
 | 110 | 390 | Hasty Cascadefit |
@@ -155,10 +155,10 @@
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
-| 150 | 272 | rnr junky |
-| 151 | 272 | opf |
-| 152 | 271 | Ashley Muncey |
-| 153 | 271 | Leah Barnett |
+| 150 | 272 | opf |
+| 151 | 272 | rnr junky |
+| 152 | 271 | Leah Barnett |
+| 153 | 271 | Ashley Muncey |
 | 154 | 267 | Denise Nardoni |
 | 155 | 265 | DidIdothat |
 | 156 | 263 | Angeline Joseph |
@@ -217,8 +217,8 @@
 | 209 | 192 | Trisha Balmer |
 | 210 | 192 | Kelly Ann Child |
 | 211 | 191 | Brenda Lee Vander Molen |
-| 212 | 191 | Scott Carleton |
-| 213 | 191 | Rebel124 |
+| 212 | 191 | Rebel124 |
+| 213 | 191 | Scott Carleton |
 | 214 | 190 | Raven Dudley |
 | 215 | 189 | Araceli Parra |
 | 216 | 189 | Sissy Lowery Davis |
@@ -248,15 +248,15 @@
 | 240 | 169 | Daryn Elliott |
 | 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
-| 243 | 166 | Betty Rosas |
-| 244 | 166 | Beth Ingham |
+| 243 | 166 | Beth Ingham |
+| 244 | 166 | Betty Rosas |
 | 245 | 165 | Kali Kelz Williams |
 | 246 | 165 | Irene Arreguin |
-| 247 | 163 | Christine Trester |
-| 248 | 163 | Stephanie Hill |
+| 247 | 163 | Stephanie Hill |
+| 248 | 163 | Christine Trester |
 | 249 | 162 | Cesar Barraza |
-| 250 | 162 | Loopy Fallzone |
-| 251 | 162 | Stephanie Whitefield |
+| 250 | 162 | Stephanie Whitefield |
+| 251 | 162 | Loopy Fallzone |
 | 252 | 161 | Kristian Thurman |
 | 253 | 160 | Tiffany Davie |
 | 254 | 159 | Jone |
