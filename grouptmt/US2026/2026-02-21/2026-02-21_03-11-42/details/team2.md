@@ -39,8 +39,8 @@
 | 31 | 1050 | Corrine Hawks Soriano |
 | 32 | 1048 | KellyDyan |
 | 33 | 1043 | CoolKat |
-| 34 | 1010 | Karen Kman Van Heirseele |
-| 35 | 1010 | Sarah Freitas |
+| 34 | 1010 | Sarah Freitas |
+| 35 | 1010 | Karen Kman Van Heirseele |
 | 36 | 991 | Laura Marie Pelletier |
 | 37 | 990 | Crystalin Heath Lewis |
 | 38 | 902 | Venechia Berry |
@@ -150,8 +150,8 @@
 | 142 | 350 | Kimberly Randesi |
 | 143 | 348 | Cherica Taylor |
 | 144 | 345 | Brenda Messer |
-| 145 | 345 | Rhianna DiLorenzo |
-| 146 | 345 | Alyssaaelena |
+| 145 | 345 | Alyssaaelena |
+| 146 | 345 | Rhianna DiLorenzo |
 | 147 | 344 | Christina Lewis-Vickers |
 | 148 | 342 | Tracy Wise |
 | 149 | 328 | Marie Boyd Faulk |

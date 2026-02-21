@@ -44,8 +44,8 @@
 | 36 | 179 | Epic Curvetile |
 | 37 | 174 | Jamie Mann-Deichmann |
 | 38 | 171 | Rachel Anne |
-| 39 | 170 | Girl |
-| 40 | 170 | Leah Kutz Zirbel |
+| 39 | 170 | Leah Kutz Zirbel |
+| 40 | 170 | Girl |
 | 41 | 168 | Anthony Magaraci |
 | 42 | 153 | Jae Job |
 | 43 | 152 | Courtney Cicoria |
@@ -101,7 +101,7 @@
 | 93 | 87 | Lauren Lamb |
 | 94 | 87 | Jen Caldwell |
 | 95 | 87 | Malakai Darien Fox |
-| 96 | 87 | Lauren Lamb |
+| 96 | 87 | Chaz |
 | 97 | 86 | amy |
 | 98 | 85 | Mimi |
 | 99 | 85 | Megan Cutshaw |

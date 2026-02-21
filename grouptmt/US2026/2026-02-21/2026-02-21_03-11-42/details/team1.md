@@ -61,11 +61,11 @@
 | 53 | 148 | Josie Kirt |
 | 54 | 148 | Jessie Lynn |
 | 55 | 147 | Veronica Eve |
-| 56 | 145 | BigWeenie69 |
-| 57 | 145 | Lachelle Dillon |
+| 56 | 145 | Lachelle Dillon |
+| 57 | 145 | BigWeenie69 |
 | 58 | 144 | Plucky Ziggy |
-| 59 | 144 | Tanya Carpenter-Reynolds |
-| 60 | 144 | Tana |
+| 59 | 144 | Tana |
+| 60 | 144 | Tanya Carpenter-Reynolds |
 | 61 | 141 | Susanna Guerry |
 | 62 | 137 | Nadine Velardo |
 | 63 | 133 | Brandi Huntington |
@@ -91,12 +91,12 @@
 | 83 | 108 | Tavia |
 | 84 | 108 | comrade fish |
 | 85 | 107 | Jodee Woods |
-| 86 | 105 | Flashy Rotator |
-| 87 | 105 | Barry Mac'Ockner |
+| 86 | 105 | Barry Mac'Ockner |
+| 87 | 105 | Flashy Rotator |
 | 88 | 101 | Blaire Bruckoff |
 | 89 | 100 | Ash Galvan |
-| 90 | 99 | Bhelle Sumile |
-| 91 | 99 | Ty Brown |
+| 90 | 99 | Ty Brown |
+| 91 | 99 | Bhelle Sumile |
 | 92 | 98 | Gary Gobin |
 | 93 | 96 | Nery Martinez |
 | 94 | 96 | Melissa Lemmon |
