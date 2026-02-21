@@ -76,8 +76,8 @@
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
-| 71 | 237 | Timothy Dew |
-| 72 | 237 | Elaine Elaine |
+| 71 | 237 | Elaine Elaine |
+| 72 | 237 | Timothy Dew |
 | 73 | 235 | Dee Perry |
 | 74 | 232 | John J. Cronin |
 | 75 | 228 | Trippy Redd |
@@ -101,8 +101,8 @@
 | 93 | 193 | Lachelle Dillon |
 | 94 | 192 | Shaykmia |
 | 95 | 191 | Diane Byrd |
-| 96 | 190 | Sweetts |
-| 97 | 190 | Thorne Shumate |
+| 96 | 190 | Thorne Shumate |
+| 97 | 190 | Sweetts |
 | 98 | 189 | Happy Basegrid |
 | 99 | 186 | Jennifer Olewnik Soborowski |
 | 100 | 185 | Ash Galvan |
@@ -118,8 +118,8 @@
 | 110 | 171 | Greg Premoe |
 | 111 | 169 | Abbey Crespo |
 | 112 | 168 | Standia Civil |
-| 113 | 166 | Rico Rico |
-| 114 | 166 | Tana |
+| 113 | 166 | Tana |
+| 114 | 166 | Rico Rico |
 | 115 | 165 | Veronica Eve |
 | 116 | 163 | Kellie |
 | 117 | 163 | Tyler Whitley |
@@ -202,10 +202,10 @@
 | 194 | 107 | Tyler Hertzog |
 | 195 | 107 | Jodee Woods |
 | 196 | 106 | Chantelle Ceno |
-| 197 | 106 | Bloknboy |
-| 198 | 106 | Alyssa Ingram |
-| 199 | 105 | Funky Piecebuilder |
-| 200 | 105 | Ty Brown |
+| 197 | 106 | Alyssa Ingram |
+| 198 | 106 | Bloknboy |
+| 199 | 105 | Ty Brown |
+| 200 | 105 | Funky Piecebuilder |
 | 201 | 104 | Charla Pross-Fugleberg |
 | 202 | 104 | Bindi |
 | 203 | 103 | Kayla Marie Stevenson |

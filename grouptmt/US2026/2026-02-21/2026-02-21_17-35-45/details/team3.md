@@ -114,8 +114,8 @@
 | 106 | 320 | Or Reznitsky |
 | 107 | 318 | Chasity |
 | 108 | 316 | Fancy Cascader |
-| 109 | 309 | Rich LeBlanc |
-| 110 | 309 | CeceGeGe |
+| 109 | 309 | CeceGeGe |
+| 110 | 309 | Rich LeBlanc |
 | 111 | 307 | Peggi Charon |
 | 112 | 307 | Blocked |
 | 113 | 300 | Sherika C. McDaniels |
@@ -234,8 +234,8 @@
 | 226 | 142 | Erica Anderson |
 | 227 | 142 | David Bardo |
 | 228 | 138 | Boldy Corner |
-| 229 | 137 | Joy Petroski |
-| 230 | 137 | Cheryl Hinch Tenbrook |
+| 229 | 137 | Cheryl Hinch Tenbrook |
+| 230 | 137 | Joy Petroski |
 | 231 | 135 | Erykah |
 | 232 | 134 | Skinny Baldez |
 | 233 | 133 | Terry Jo Jones |

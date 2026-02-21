@@ -170,8 +170,8 @@
 | 162 | 592 | Ashle Scranton |
 | 163 | 591 | Alisha |
 | 164 | 589 | Erica Williams |
-| 165 | 583 | Jumpy Gridpiece |
-| 166 | 583 | Jessicah Myers |
+| 165 | 583 | Jessicah Myers |
+| 166 | 583 | Jumpy Gridpiece |
 | 167 | 580 | Steve Grotto |
 | 168 | 576 | Shannon Joslin |
 | 169 | 571 | Thomas Hedrick |
@@ -714,11 +714,11 @@
 | 706 | 163 | Jacob Huffman |
 | 707 | 163 | Angelica |
 | 708 | 162 | Alice Samm |
-| 709 | 162 | Nate Lee |
-| 710 | 162 | LC Hamilton |
+| 709 | 162 | LC Hamilton |
+| 710 | 162 | Nate Lee |
 | 711 | 162 | Chirpy Snapper |
-| 712 | 161 | Crystal Herndon |
-| 713 | 161 | Perry Hubert |
+| 712 | 161 | Perry Hubert |
+| 713 | 161 | Crystal Herndon |
 | 714 | 160 | Poppy Gridder |
 | 715 | 160 | Amy Reynolds |
 | 716 | 160 | Sharice Thompson |

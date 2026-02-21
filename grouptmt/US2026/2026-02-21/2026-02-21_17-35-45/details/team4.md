@@ -134,11 +134,11 @@
 | 126 | 147 | 030Synner |
 | 127 | 147 | Jay28 |
 | 128 | 146 | Klo |
-| 129 | 144 | Mr. Party |
-| 130 | 144 | Shainne Brewer |
+| 129 | 144 | Shainne Brewer |
+| 130 | 144 | Mr. Party |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Jenna McGeorge |
-| 133 | 140 | Shannon Ferrari |
+| 132 | 140 | Shannon Ferrari |
+| 133 | 140 | Jenna McGeorge |
 | 134 | 137 | PeaceOs |
 | 135 | 137 | Roger Coulter |
 | 136 | 136 | Tanner Lund |
@@ -153,16 +153,16 @@
 | 145 | 131 | Diana Houts |
 | 146 | 130 | Casey Jeffcoat |
 | 147 | 129 | John Brunetti |
-| 148 | 128 | Rio Rocha |
-| 149 | 128 | Stephme310 |
+| 148 | 128 | Stephme310 |
+| 149 | 128 | Rio Rocha |
 | 150 | 127 | Dreamy Snapgrid |
 | 151 | 126 | Dihcheese444 |
 | 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
-| 156 | 122 | Carlos Ramirez |
-| 157 | 122 | Sherri |
+| 156 | 122 | Sherri |
+| 157 | 122 | Carlos Ramirez |
 | 158 | 122 | 🥔🥔 Spudz |
 | 159 | 121 | Smiley Tiltbuilder |
 | 160 | 121 | Megan Cutshaw |
@@ -175,16 +175,16 @@
 | 167 | 115 | Ultramarine |
 | 168 | 114 | Jackie Marie |
 | 169 | 113 | Adam Randall |
-| 170 | 112 | Austin Owens |
-| 171 | 112 | Bryan Hodgins |
-| 172 | 112 | Jeremy Steines |
-| 173 | 112 | Zesty Twistbuilder |
-| 174 | 111 | Lazy Blocker |
-| 175 | 111 | Michelle Morris |
+| 170 | 112 | Jeremy Steines |
+| 171 | 112 | Zesty Twistbuilder |
+| 172 | 112 | Bryan Hodgins |
+| 173 | 112 | Austin Owens |
+| 174 | 111 | Michelle Morris |
+| 175 | 111 | Lazy Blocker |
 | 176 | 110 | H.R. Block |
 | 177 | 108 | Ali Ian |
-| 178 | 107 | Rafael Valentin |
-| 179 | 107 | Marcus Todd |
+| 178 | 107 | Marcus Todd |
+| 179 | 107 | Rafael Valentin |
 | 180 | 106 | Avy Absol |
 | 181 | 105 | Dandy Cascadefit |
 | 182 | 105 | TheNeesh50 |
