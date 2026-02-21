@@ -77,15 +77,15 @@
 | 69 | 202 | Dee Perry |
 | 70 | 201 | Ananda Mendez |
 | 71 | 201 | Anaid Sanchez |
-| 72 | 198 | Billie Dawn Sparks |
-| 73 | 198 | Happy Snapbuild |
+| 72 | 198 | Happy Snapbuild |
+| 73 | 198 | Billie Dawn Sparks |
 | 74 | 197 | Cynthia Bradley |
 | 75 | 194 | Giggly Builderline |
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Thorne Shumate |
-| 80 | 190 | Sweetts |
+| 79 | 190 | Sweetts |
+| 80 | 190 | Thorne Shumate |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -105,8 +105,8 @@
 | 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 148 | Lehrin Maria |
 | 104 | 147 | Veronica Eve |
@@ -241,8 +241,8 @@
 | 233 | 74 | Jo Kerley |
 | 234 | 74 | BadG52 |
 | 235 | 73 | Shanae Grant |
-| 236 | 72 | Ric Hard Hernandez |
-| 237 | 72 | Tipsy Strikerpiece |
+| 236 | 72 | Tipsy Strikerpiece |
+| 237 | 72 | Ric Hard Hernandez |
 | 238 | 71 | Loneell Hyland |
 | 239 | 70 | Jennifer Duttry |
 | 240 | 70 | Nerdy Linkblock |

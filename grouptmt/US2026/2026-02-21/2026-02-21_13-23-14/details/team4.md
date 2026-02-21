@@ -76,8 +76,8 @@
 | 68 | 197 | Autum Leigh |
 | 69 | 194 | Jamie Mann-Deichmann |
 | 70 | 187 | Swanky Fitline |
-| 71 | 185 | Andy Cabral |
-| 72 | 185 | loulou |
+| 71 | 185 | loulou |
+| 72 | 185 | Andy Cabral |
 | 73 | 180 | Leah Kutz Zirbel |
 | 74 | 180 | shar |
 | 75 | 179 | Epic Curvetile |

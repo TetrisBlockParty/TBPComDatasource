@@ -45,8 +45,8 @@
 | 37 | 1339 | Freya |
 | 38 | 1282 | Elizabeth Hinkens |
 | 39 | 1257 | Crystalin Heath Lewis |
-| 40 | 1250 | Reese Nguyen |
-| 41 | 1250 | blackq |
+| 40 | 1250 | blackq |
+| 41 | 1250 | Reese Nguyen |
 | 42 | 1215 | Megan Garrick |
 | 43 | 1187 | Katrina Williams Balmir |
 | 44 | 1173 | Devin Lee |
@@ -90,8 +90,8 @@
 | 82 | 815 | blarg |
 | 83 | 814 | Whitney Nicole Waterman |
 | 84 | 801 | Tralonda Weeks |
-| 85 | 800 | Tonya Brooks-Johnson |
-| 86 | 800 | Tacara Cummings |
+| 85 | 800 | Tacara Cummings |
+| 86 | 800 | Tonya Brooks-Johnson |
 | 87 | 789 | James Simms III |
 | 88 | 787 | Laura McCarthey |
 | 89 | 780 | Amanda Grohmann |
@@ -172,8 +172,8 @@
 | 164 | 495 | Poppy Snap |
 | 165 | 488 | Teresa Gillmore |
 | 166 | 486 | MrsCandyfine As Wine Truss |
-| 167 | 485 | Leah Keesling |
-| 168 | 485 | Gene Mills |
+| 167 | 485 | Gene Mills |
+| 168 | 485 | Leah Keesling |
 | 169 | 484 | Suki Kaur |
 | 170 | 483 | Jordan Kaiser |
 | 171 | 482 | Eckoman518 |
@@ -185,8 +185,8 @@
 | 177 | 464 | Ryan Gunther |
 | 178 | 460 | Amélie Cadieux |
 | 179 | 460 | Cody Smith-Candelaria |
-| 180 | 456 | Drwatson187 |
-| 181 | 456 | Marie Boyd Faulk |
+| 180 | 456 | Marie Boyd Faulk |
+| 181 | 456 | Drwatson187 |
 | 182 | 454 | Casey Schumacher |
 | 183 | 453 | Mischelle Clay |
 | 184 | 453 | Osun Anuket Esu |
@@ -368,8 +368,8 @@
 | 360 | 257 | Lyndi Robinson Wakefield |
 | 361 | 256 | Alishac Marie |
 | 362 | 256 | Barbra Miller |
-| 363 | 256 | CC |
-| 364 | 256 | Tee Jaleesa |
+| 363 | 256 | Tee Jaleesa |
+| 364 | 256 | CC |
 | 365 | 255 | Kathryn Townsley |
 | 366 | 255 | Santana Miyagi |
 | 367 | 254 | Julie Hamilton |
@@ -466,8 +466,8 @@
 | 458 | 198 | Angie Bolton Workman |
 | 459 | 198 | Alyssa Dean |
 | 460 | 196 | Besma Ao |
-| 461 | 196 | Alexandra Reese |
-| 462 | 196 | Cass Shirley |
+| 461 | 196 | Cass Shirley |
+| 462 | 196 | Alexandra Reese |
 | 463 | 195 | Snappy Shatterfit |
 | 464 | 195 | Darlene Bowman |
 | 465 | 194 | Kitybox |

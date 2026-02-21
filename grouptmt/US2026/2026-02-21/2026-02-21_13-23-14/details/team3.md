@@ -35,8 +35,8 @@
 | 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Shane Wilson Jr. |
-| 31 | 810 | Zippy Strikesnap |
+| 30 | 810 | Zippy Strikesnap |
+| 31 | 810 | Shane Wilson Jr. |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -93,8 +93,8 @@
 | 85 | 320 | Or Reznitsky |
 | 86 | 316 | Fancy Cascader |
 | 87 | 313 | Elaine Webb Graves |
-| 88 | 309 | CeceGeGe |
-| 89 | 309 | Rich LeBlanc |
+| 88 | 309 | Rich LeBlanc |
+| 89 | 309 | CeceGeGe |
 | 90 | 307 | Peggi Charon |
 | 91 | 307 | Blocked |
 | 92 | 300 | Sherika C. McDaniels |
@@ -117,8 +117,8 @@
 | 109 | 224 | Judi Dobson |
 | 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Nicole Flippo |
-| 113 | 222 | Jimmie Clemons |
+| 112 | 222 | Jimmie Clemons |
+| 113 | 222 | Nicole Flippo |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -202,8 +202,8 @@
 | 194 | 128 | Jen Lewis |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
-| 197 | 125 | Felicia Doxey |
-| 198 | 125 | Shimika Enay Wallace |
+| 197 | 125 | Shimika Enay Wallace |
+| 198 | 125 | Felicia Doxey |
 | 199 | 124 | Cesar Barraza |
 | 200 | 123 | Marci Mize Fandrich |
 | 201 | 123 | Sarajane Lokan |
