@@ -278,9 +278,9 @@
 | 270 | 94 | DonMega |
 | 271 | 94 | Christina Black |
 | 272 | 93 | No Strings Attached Ra |
-| 273 | 92 | TRCuse |
+| 273 | 92 | Zippy Gridlock |
 | 274 | 92 | Scott Jameson |
-| 275 | 92 | Zippy Gridlock |
+| 275 | 92 | TRCuse |
 | 276 | 91 | wombat |
 | 277 | 91 | Sunny Filler |
 | 278 | 90 | Hyper Builder |
@@ -292,9 +292,9 @@
 | 284 | 88 | Kesha Brady |
 | 285 | 88 | Michelle Parker |
 | 286 | 87 | Alan George LaRage |
-| 287 | 86 | BigSammy420 |
-| 288 | 86 | Joseph Edmonson |
-| 289 | 86 | Tony Pavelka |
+| 287 | 86 | Joseph Edmonson |
+| 288 | 86 | Tony Pavelka |
+| 289 | 86 | BigSammy420 |
 | 290 | 86 | Destiney Carter |
 | 291 | 86 | Jason Frehner |
 | 292 | 86 | amy |

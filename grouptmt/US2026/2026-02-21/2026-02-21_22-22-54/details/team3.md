@@ -169,9 +169,9 @@
 | 161 | 234 | Ashley Tookes |
 | 162 | 233 | Ray Lader |
 | 163 | 231 | Nikki Pags |
-| 164 | 228 | Jennifer Lynn Fahrenholtz-Summers |
-| 165 | 228 | Morgan Martinez |
-| 166 | 228 | Rochelle Hazelett |
+| 164 | 228 | Rochelle Hazelett |
+| 165 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 166 | 228 | Morgan Martinez |
 | 167 | 226 | Grego Daniel |
 | 168 | 224 | Nicole Myers |
 | 169 | 223 | Jeana Gilbert |
