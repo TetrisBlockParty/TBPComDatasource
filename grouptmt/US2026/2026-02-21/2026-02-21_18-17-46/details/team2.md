@@ -553,8 +553,8 @@
 | 545 | 217 | Natasha Edmonds |
 | 546 | 217 | Klee |
 | 547 | 216 | Courtney Burcham |
-| 548 | 215 | Trista Carter |
-| 549 | 215 | Ashlyn Berner |
+| 548 | 215 | Ashlyn Berner |
+| 549 | 215 | Trista Carter |
 | 550 | 214 | Dawn L Washington-Feuquay |
 | 551 | 214 | Cass Shirley |
 | 552 | 214 | James Smith |

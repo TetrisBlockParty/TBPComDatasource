@@ -191,8 +191,8 @@
 | 183 | 178 | Ryan Williams |
 | 184 | 178 | AlsoJess |
 | 185 | 176 | Trisha Balmer |
-| 186 | 175 | Connie Mohler-Fair |
-| 187 | 175 | DanceLuvLaugh |
+| 186 | 175 | DanceLuvLaugh |
+| 187 | 175 | Connie Mohler-Fair |
 | 188 | 174 | rosy |
 | 189 | 174 | Loopy Fallmatch |
 | 190 | 173 | Sarajane Lokan |
@@ -210,17 +210,17 @@
 | 202 | 160 | Tiffany Davie |
 | 203 | 159 | Jone |
 | 204 | 157 | Marquita Sheard |
-| 205 | 157 | Patricia Gadsden |
-| 206 | 157 | Nicholas Roddy |
+| 205 | 157 | Nicholas Roddy |
+| 206 | 157 | Patricia Gadsden |
 | 207 | 156 | Bea Miles |
 | 208 | 155 | Loopy Fallzone |
 | 209 | 154 | Laurie Allen |
-| 210 | 153 | Rachel Napper |
+| 210 | 153 | Tipsy Zonebuilder |
 | 211 | 153 | Cozy Snaplink |
 | 212 | 153 | Rachel Napper |
 | 213 | 152 | Katrina E Jelks |
 | 214 | 152 | Desiree Gold |
-| 215 | 152 | Katrina E Jelks |
+| 215 | 152 | Lesley Perez |
 | 216 | 152 | Shiny Zonebuilder |
 | 217 | 151 | Brenda Lee Vander Molen |
 | 218 | 150 | Valerie Gendron |
@@ -232,8 +232,8 @@
 | 224 | 148 | Jennifer Alvey |
 | 225 | 147 | Ashley Lynn Marchese |
 | 226 | 147 | Cheryl Hinch Tenbrook |
-| 227 | 146 | Latoya Mayne |
-| 228 | 146 | Carrie Huskey |
+| 227 | 146 | Carrie Huskey |
+| 228 | 146 | Latoya Mayne |
 | 229 | 146 | Denita Mungro |
 | 230 | 145 | Bryan Byrd |
 | 231 | 145 | Emma |
@@ -276,8 +276,8 @@
 | 268 | 120 | Lys |
 | 269 | 119 | BugMansMom |
 | 270 | 118 | Sabrina Hardrick |
-| 271 | 118 | Fancy Curver |
-| 272 | 118 | Damian Reid |
+| 271 | 118 | Damian Reid |
+| 272 | 118 | Fancy Curver |
 | 273 | 117 | Dee Pratt |
 | 274 | 117 | Rachel |
 | 275 | 116 | Denise Marie |
@@ -311,8 +311,8 @@
 | 303 | 105 | FATTY |
 | 304 | 105 | Boldy Blocker |
 | 305 | 105 | Emi |
-| 306 | 104 | Samantha Lynn |
-| 307 | 104 | bean |
+| 306 | 104 | bean |
+| 307 | 104 | Samantha Lynn |
 | 308 | 104 | Ashley Rufus Bythcez |
 | 309 | 103 | Lisa Lisa |
 | 310 | 103 | Wetwet |
@@ -342,8 +342,8 @@
 | 334 | 98 | Erika Thornton |
 | 335 | 97 | Paula Little |
 | 336 | 97 | Tina Baurdau |
-| 337 | 96 | Christopher Woost |
-| 338 | 96 | Oliver Neal II |
+| 337 | 96 | Oliver Neal II |
+| 338 | 96 | Christopher Woost |
 | 339 | 96 | D3NO |
 | 340 | 95 | Brooke Bauer |
 | 341 | 94 | Nichole Greene |

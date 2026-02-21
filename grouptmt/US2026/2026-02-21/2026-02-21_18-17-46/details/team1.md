@@ -164,8 +164,8 @@
 | 156 | 135 | Giddy Cascade |
 | 157 | 134 | Trina Gee |
 | 158 | 133 | Breanna Luna |
-| 159 | 132 | Cody Gates |
-| 160 | 132 | Davery Spencer Adair |
+| 159 | 132 | Davery Spencer Adair |
+| 160 | 132 | Cody Gates |
 | 161 | 131 | Kimberly Garcia |
 | 162 | 131 | Uhog SF |
 | 163 | 130 | LD1 |
@@ -905,10 +905,10 @@
 | 897 | 19 | Melidsa |
 | 898 | 19 | DENOTS42OSPOT |
 | 899 | 19 | Soany Barrera |
-| 900 | 19 | dhardy |
-| 901 | 19 | Zany Snapline |
-| 902 | 19 | Shy Lu |
-| 903 | 19 | Brian Ash |
+| 900 | 19 | Brian Ash |
+| 901 | 19 | Shy Lu |
+| 902 | 19 | Zany Snapline |
+| 903 | 19 | dhardy |
 | 904 | 19 | Cynthia Dalton |
 | 905 | 19 | Billy Furrer |
 | 906 | 19 | Edward Woodall |
