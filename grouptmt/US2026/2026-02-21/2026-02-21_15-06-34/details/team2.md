@@ -122,8 +122,8 @@
 | 114 | 704 | Nerdy Clearfit |
 | 115 | 700 | Vincent Petrella |
 | 116 | 698 | Lola Contreras |
-| 117 | 694 | Vo'Landa Reels |
-| 118 | 694 | Nancy Reid |
+| 117 | 694 | Nancy Reid |
+| 118 | 694 | Vo'Landa Reels |
 | 119 | 693 | YiFei |
 | 120 | 692 | Crystal Hoffman |
 | 121 | 688 | Dreamy Blast |
@@ -166,8 +166,8 @@
 | 158 | 534 | Poppy Snapper |
 | 159 | 534 | Stephen Stephen |
 | 160 | 531 | Chris Wanner |
-| 161 | 527 | Stacy Stickle |
-| 162 | 527 | Adira Brown |
+| 161 | 527 | Adira Brown |
+| 162 | 527 | Stacy Stickle |
 | 163 | 526 | April Dawn Gussler |
 | 164 | 525 | Tommy Tha Boss Gunz |
 | 165 | 525 | Desiree Anderson |
@@ -728,7 +728,7 @@
 | 720 | 140 | Michael Tate |
 | 721 | 140 | Helena Kelly |
 | 722 | 140 | Ms806 |
-| 723 | 140 | Helena Kelly |
+| 723 | 140 | King Shamell Young |
 | 724 | 139 | Squirrel |
 | 725 | 139 | Tamara Slaten |
 | 726 | 139 | Jackson Smith |

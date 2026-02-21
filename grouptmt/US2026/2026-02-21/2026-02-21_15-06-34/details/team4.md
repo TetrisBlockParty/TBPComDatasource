@@ -104,8 +104,8 @@
 | 96 | 171 | Melvin Baird |
 | 97 | 170 | Girl |
 | 98 | 167 | Denise Carlson |
-| 99 | 164 | ThaEviLJeNiuZ |
-| 100 | 164 | blockstar |
+| 99 | 164 | blockstar |
+| 100 | 164 | ThaEviLJeNiuZ |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
 | 103 | 160 | ZeeZee |
@@ -139,9 +139,9 @@
 | 131 | 128 | Stephme310 |
 | 132 | 128 | Rio Rocha |
 | 133 | 127 | Dreamy Snapgrid |
-| 134 | 126 | Klo |
-| 135 | 126 | TinyLegoRose |
-| 136 | 126 | Dihcheese444 |
+| 134 | 126 | TinyLegoRose |
+| 135 | 126 | Dihcheese444 |
+| 136 | 126 | Klo |
 | 137 | 124 | Allen Lloyd |
 | 138 | 123 | Angela Geist Jusinski |
 | 139 | 123 | Cherrish Duren |
@@ -181,8 +181,8 @@
 | 173 | 103 | Judy Cox |
 | 174 | 102 | Faja |
 | 175 | 102 | Autumn Kumzi |
-| 176 | 101 | Zesty Linkgrid |
-| 177 | 101 | Saulc1991 |
+| 176 | 101 | Saulc1991 |
+| 177 | 101 | Zesty Linkgrid |
 | 178 | 100 | Alexandra Karavias |
 | 179 | 99 | Michael Orris |
 | 180 | 99 | Anthony Bryan Riva |
