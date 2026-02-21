@@ -503,12 +503,12 @@
 | 495 | 207 | Melissa McCall |
 | 496 | 206 | RAEPR05 |
 | 497 | 206 | Neko Preston |
-| 498 | 205 | Tj Ball |
-| 499 | 205 | ElizabethAnn Dickinson |
+| 498 | 205 | ElizabethAnn Dickinson |
+| 499 | 205 | Tj Ball |
 | 500 | 204 | Ali Gralski |
 | 501 | 204 | Ryan Lauer |
-| 502 | 204 | Nicolle Danielle |
-| 503 | 204 | Brenna Ann |
+| 502 | 204 | Brenna Ann |
+| 503 | 204 | Nicolle Danielle |
 | 504 | 204 | Kimberly Ann |
 | 505 | 203 | Cass Shirley |
 | 506 | 202 | Angie Bolton Workman |

@@ -110,9 +110,9 @@
 | 102 | 164 | ThaEviLJeNiuZ |
 | 103 | 162 | Shauna Havard |
 | 104 | 161 | Joeliecea Cobb |
-| 105 | 160 | Stacey Stano |
-| 106 | 160 | ZeeZee |
-| 107 | 160 | Crystal Carroll |
+| 105 | 160 | ZeeZee |
+| 106 | 160 | Crystal Carroll |
+| 107 | 160 | Stacey Stano |
 | 108 | 159 | Holly Jolly |
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
@@ -144,8 +144,8 @@
 | 136 | 128 | Stephme310 |
 | 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | TinyLegoRose |
-| 140 | 126 | Dihcheese444 |
+| 139 | 126 | Dihcheese444 |
+| 140 | 126 | TinyLegoRose |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Chair |
 | 143 | 123 | Angela Geist Jusinski |
@@ -157,8 +157,8 @@
 | 149 | 121 | Smiley Tiltbuilder |
 | 150 | 120 | Joshua Guess |
 | 151 | 120 | Roger Coulter |
-| 152 | 119 | Gwendolyn Pitcairn |
-| 153 | 119 | Kristin Manee |
+| 152 | 119 | Kristin Manee |
+| 153 | 119 | Gwendolyn Pitcairn |
 | 154 | 118 | Leslie Nicole |
 | 155 | 116 | Diana Houts |
 | 156 | 115 | Jayk |

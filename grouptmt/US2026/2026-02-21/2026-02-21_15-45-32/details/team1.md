@@ -198,8 +198,8 @@
 | 190 | 100 | Jessica Weed |
 | 191 | 100 | Debbie Davis |
 | 192 | 99 | Tyler Hertzog |
-| 193 | 99 | Melissa Bires Hussar |
-| 194 | 99 | Mizzledagod |
+| 193 | 99 | Mizzledagod |
+| 194 | 99 | Melissa Bires Hussar |
 | 195 | 98 | Witty Builderfit |
 | 196 | 96 | Guest |
 | 197 | 96 | Howdi Duty |

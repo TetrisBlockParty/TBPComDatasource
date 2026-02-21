@@ -191,15 +191,15 @@
 | 183 | 160 | Sarajane Lokan |
 | 184 | 159 | Jone |
 | 185 | 158 | Grams |
-| 186 | 157 | Patricia Gadsden |
-| 187 | 157 | Nicholas Roddy |
+| 186 | 157 | Nicholas Roddy |
+| 187 | 157 | Patricia Gadsden |
 | 188 | 156 | Bea Miles |
 | 189 | 153 | Beth Ingham |
 | 190 | 152 | Katrina E Jelks |
 | 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Angel Mendez |
 | 197 | 149 | Alexis Taylor |
@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 113 | Brave Brickster |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 111 | France Vézina |
-| 253 | 111 | Jason-Ashley Ludlow |
+| 252 | 111 | Jason-Ashley Ludlow |
+| 253 | 111 | France Vézina |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 110 | Tye Stovall |
 | 256 | 110 | Danielle Weikel |
