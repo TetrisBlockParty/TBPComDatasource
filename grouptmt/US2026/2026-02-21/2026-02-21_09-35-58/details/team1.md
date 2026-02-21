@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Tdub |
-| 53 | 212 | Jaimie Lynn |
+| 52 | 212 | Jaimie Lynn |
+| 53 | 212 | Tdub |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -109,8 +109,8 @@
 | 101 | 138 | Gary Gobin |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
-| 104 | 133 | Breanna Luna |
-| 105 | 133 | Brandi Huntington |
+| 104 | 133 | Brandi Huntington |
+| 105 | 133 | Breanna Luna |
 | 106 | 132 | Davery Spencer Adair |
 | 107 | 132 | Lori Sanders- Davis |
 | 108 | 130 | Dandy Basegrid |
@@ -140,9 +140,9 @@
 | 132 | 110 | Heidi Feurer |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
-| 135 | 106 | Bloknboy |
-| 136 | 106 | Ash Galvan |
-| 137 | 106 | Aimee Horton |
+| 135 | 106 | Aimee Horton |
+| 136 | 106 | Bloknboy |
+| 137 | 106 | Ash Galvan |
 | 138 | 105 | Flashy Rotator |
 | 139 | 104 | Charla Pross-Fugleberg |
 | 140 | 103 | Adryane Schnase |
@@ -217,8 +217,8 @@
 | 209 | 74 | Owicked1 |
 | 210 | 74 | Grace Joanne Agnant |
 | 211 | 74 | Meechie |
-| 212 | 73 | Shanae Grant |
-| 213 | 73 | Silly Align |
+| 212 | 73 | Silly Align |
+| 213 | 73 | Shanae Grant |
 | 214 | 72 | Tipsy Strikerpiece |
 | 215 | 70 | Daring Fitclear |
 | 216 | 70 | Seth Wesson |

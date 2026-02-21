@@ -246,8 +246,8 @@
 | 238 | 312 | Michelle Pike |
 | 239 | 311 | Véronique Lévesque Sabourin |
 | 240 | 311 | Dar |
-| 241 | 309 | Oscar Bernie |
-| 242 | 309 | Ginger |
+| 241 | 309 | Ginger |
+| 242 | 309 | Oscar Bernie |
 | 243 | 309 | James Zaragoza |
 | 244 | 306 | Kristopher Miller |
 | 245 | 305 | Ramone Armstrong |
@@ -481,8 +481,8 @@
 | 473 | 166 | suuny |
 | 474 | 165 | Tara Lynn Janes |
 | 475 | 165 | Catherine Varea |
-| 476 | 165 | Cathy Bitters |
-| 477 | 165 | Austin Wilson |
+| 476 | 165 | Austin Wilson |
+| 477 | 165 | Cathy Bitters |
 | 478 | 164 | Jessica Vega |
 | 479 | 164 | Sara Pennington |
 | 480 | 163 | Lakeela Wise |

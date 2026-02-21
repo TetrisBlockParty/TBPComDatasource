@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Julian Garcia |
-| 53 | 265 | Clarence Patawaran |
+| 52 | 265 | Clarence Patawaran |
+| 53 | 265 | Julian Garcia |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -103,8 +103,8 @@
 | 95 | 132 | Melissa Priest Sellers |
 | 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Casey Jeffcoat |
 | 102 | 130 | Lucas J Sutton |
@@ -144,8 +144,8 @@
 | 136 | 105 | Sam Middleton |
 | 137 | 105 | 🥔🥔 Spudz |
 | 138 | 105 | AyeKay |
-| 139 | 104 | YoMomma |
-| 140 | 104 | Damn Libra |
+| 139 | 104 | Damn Libra |
+| 140 | 104 | YoMomma |
 | 141 | 104 | Adam Randall |
 | 142 | 102 | ĥuf |
 | 143 | 102 | Faja |
@@ -184,8 +184,8 @@
 | 176 | 85 | Dizzy Tiley |
 | 177 | 85 | Mimi |
 | 178 | 83 | Avy Absol |
-| 179 | 83 | Holly |
-| 180 | 83 | Joseph Gray |
+| 179 | 83 | Joseph Gray |
+| 180 | 83 | Holly |
 | 181 | 83 | Abigail Murphy |
 | 182 | 82 | Jason Frehner |
 | 183 | 82 | Kim Hunt |
@@ -211,8 +211,8 @@
 | 203 | 76 | Madison Sweere |
 | 204 | 76 | Bethany Ison |
 | 205 | 75 | Lindsey Gonzalez |
-| 206 | 75 | Christina Black |
-| 207 | 75 | Rosemary Foster |
+| 206 | 75 | Rosemary Foster |
+| 207 | 75 | Christina Black |
 | 208 | 74 | Krs |
 | 209 | 74 | Tyler Terrific |
 | 210 | 73 | Joshua Cuellar |
