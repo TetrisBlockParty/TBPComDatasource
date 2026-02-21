@@ -30,8 +30,8 @@
 | 22 | 625 | GreenJeepGirl |
 | 23 | 620 | Kimyatta Cavin |
 | 24 | 608 | Denny Shives |
-| 25 | 590 | Valerie Roberts |
-| 26 | 590 | Dee Kay |
+| 25 | 590 | Dee Kay |
+| 26 | 590 | Valerie Roberts |
 | 27 | 589 | Chilly Line |
 | 28 | 546 | LisaJo Picken Buchanan |
 | 29 | 541 | Rebecca Moulton Pinciaro |
@@ -92,8 +92,8 @@
 | 84 | 205 | Sarah Neathery |
 | 85 | 204 | Brittney Orengo |
 | 86 | 202 | Monica Daley |
-| 87 | 201 | shar |
-| 88 | 201 | Joseph Guthrie |
+| 87 | 201 | Joseph Guthrie |
+| 88 | 201 | shar |
 | 89 | 200 | Holly Jolly |
 | 90 | 198 | Mike Solo |
 | 91 | 198 | Dustee Craddock-Harrison |
@@ -147,8 +147,8 @@
 | 139 | 138 | TheNeesh50 |
 | 140 | 137 | Roger Coulter |
 | 141 | 137 | PeaceOs |
-| 142 | 136 | Serena Goodridge |
-| 143 | 136 | Tanner Lund |
+| 142 | 136 | Tanner Lund |
+| 143 | 136 | Serena Goodridge |
 | 144 | 135 | ĥuf |
 | 145 | 134 | Chirpy Basepiece |
 | 146 | 134 | Zany Shatterer |

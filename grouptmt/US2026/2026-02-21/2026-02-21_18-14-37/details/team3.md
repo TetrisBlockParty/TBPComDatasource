@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Shane Wilson Jr. |
-| 41 | 810 | Zippy Strikesnap |
+| 40 | 810 | Zippy Strikesnap |
+| 41 | 810 | Shane Wilson Jr. |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -210,12 +210,12 @@
 | 202 | 160 | Tiffany Davie |
 | 203 | 159 | Jone |
 | 204 | 157 | Marquita Sheard |
-| 205 | 157 | Nicholas Roddy |
-| 206 | 157 | Patricia Gadsden |
+| 205 | 157 | Patricia Gadsden |
+| 206 | 157 | Nicholas Roddy |
 | 207 | 156 | Bea Miles |
 | 208 | 155 | Loopy Fallzone |
 | 209 | 154 | Laurie Allen |
-| 210 | 153 | Tipsy Zonebuilder |
+| 210 | 153 | Rachel Napper |
 | 211 | 153 | Cozy Snaplink |
 | 212 | 153 | Tipsy Zonebuilder |
 | 213 | 152 | Katrina E Jelks |
@@ -250,15 +250,15 @@
 | 242 | 135 | Terry Jo Jones |
 | 243 | 135 | Erykah |
 | 244 | 134 | Cesar Barraza |
-| 245 | 134 | Skinny Baldez |
-| 246 | 134 | Sarah Moyer |
+| 245 | 134 | Sarah Moyer |
+| 246 | 134 | Skinny Baldez |
 | 247 | 133 | LaNette Morgan |
 | 248 | 132 | Daryn Elliott |
 | 249 | 131 | Darlene McMillan |
 | 250 | 130 | Weerae |
 | 251 | 129 | Juliana Dottore |
-| 252 | 128 | Jen Lewis |
-| 253 | 128 | MizzMonick Smith |
+| 252 | 128 | MizzMonick Smith |
+| 253 | 128 | Jen Lewis |
 | 254 | 127 | mzcatzy |
 | 255 | 126 | April Matthew Kibble |
 | 256 | 126 | Pam Holt Powell |
@@ -319,8 +319,8 @@
 | 311 | 103 | Andrew Thorson |
 | 312 | 103 | Wetwet |
 | 313 | 102 | Criss |
-| 314 | 102 | Christian Luna |
-| 315 | 102 | Rania Zaqout |
+| 314 | 102 | Rania Zaqout |
+| 315 | 102 | Christian Luna |
 | 316 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 317 | 101 | Hyper Bridger |
 | 318 | 100 | Edwin Calvillo Jr. |
@@ -346,8 +346,8 @@
 | 338 | 96 | Christopher Woost |
 | 339 | 96 | D3NO |
 | 340 | 95 | Brooke Bauer |
-| 341 | 94 | Tracey Cox |
-| 342 | 94 | Nichole Greene |
+| 341 | 94 | Nichole Greene |
+| 342 | 94 | Tracey Cox |
 | 343 | 93 | Tiffany Ford |
 | 344 | 93 | Martin Bernier |
 | 345 | 93 | Kevin Russell |

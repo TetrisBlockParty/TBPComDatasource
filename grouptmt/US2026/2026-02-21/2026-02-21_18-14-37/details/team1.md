@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -90,8 +90,8 @@
 | 82 | 226 | Sharon Reynolds |
 | 83 | 224 | TSwag |
 | 84 | 222 | Kristen Gideon |
-| 85 | 213 | Lexuriuos Lifestlye |
-| 86 | 213 | Billie Dawn Sparks |
+| 85 | 213 | Billie Dawn Sparks |
+| 86 | 213 | Lexuriuos Lifestlye |
 | 87 | 212 | Mandyy Rae |
 | 88 | 212 | Jaimie Lynn |
 | 89 | 211 | Marianita Garcia |
@@ -164,8 +164,8 @@
 | 156 | 135 | Cody Slav |
 | 157 | 134 | Trina Gee |
 | 158 | 133 | Breanna Luna |
-| 159 | 132 | Davery Spencer Adair |
-| 160 | 132 | Cody Gates |
+| 159 | 132 | Cody Gates |
+| 160 | 132 | Davery Spencer Adair |
 | 161 | 131 | Kimberly Garcia |
 | 162 | 131 | Uhog SF |
 | 163 | 130 | LD1 |
