@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Jae Job |
-| 80 | 215 | Alyssa Papen |
+| 79 | 215 | Alyssa Papen |
+| 80 | 215 | Jae Job |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | Ren Mc |
-| 108 | 173 | blockstar |
+| 107 | 173 | blockstar |
+| 108 | 173 | Ren Mc |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Girl |
 | 111 | 170 | Peachy Fall |
@@ -125,8 +125,8 @@
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |
 | 119 | 152 | Jessica Bohlken |
-| 120 | 151 | Dana Scott |
-| 121 | 151 | Bethany Ison |
+| 120 | 151 | Bethany Ison |
+| 121 | 151 | Dana Scott |
 | 122 | 148 | Brittany Marsh |
 | 123 | 148 | Janita Parrish |
 | 124 | 147 | Chair |
@@ -134,10 +134,10 @@
 | 126 | 147 | 030Synner |
 | 127 | 147 | Jay28 |
 | 128 | 146 | Klo |
-| 129 | 144 | Shainne Brewer |
-| 130 | 144 | Mr. Party |
+| 129 | 144 | Mr. Party |
+| 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | John Brunetti |
+| 132 | 140 | Shannon Ferrari |
 | 133 | 140 | Jenna McGeorge |
 | 134 | 140 | John Brunetti |
 | 135 | 137 | PeaceOs |
@@ -156,8 +156,8 @@
 | 148 | 128 | Rio Rocha |
 | 149 | 128 | Stephme310 |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | Dihcheese444 |
-| 152 | 126 | TinyLegoRose |
+| 151 | 126 | TinyLegoRose |
+| 152 | 126 | Dihcheese444 |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
@@ -171,17 +171,17 @@
 | 163 | 119 | Judy Cox |
 | 164 | 119 | Kristin Manee |
 | 165 | 115 | Jayk |
-| 166 | 115 | Ultramarine |
-| 167 | 115 | Sam Middleton |
+| 166 | 115 | Sam Middleton |
+| 167 | 115 | Ultramarine |
 | 168 | 114 | Jackie Marie |
 | 169 | 113 | Adam Randall |
 | 170 | 113 | Dandy Cascadefit |
-| 171 | 112 | Austin Owens |
-| 172 | 112 | Bryan Hodgins |
+| 171 | 112 | Bryan Hodgins |
+| 172 | 112 | Austin Owens |
 | 173 | 112 | Zesty Twistbuilder |
 | 174 | 112 | Jeremy Steines |
-| 175 | 111 | Michelle Morris |
-| 176 | 111 | Lazy Blocker |
+| 175 | 111 | Lazy Blocker |
+| 176 | 111 | Michelle Morris |
 | 177 | 110 | H.R. Block |
 | 178 | 108 | Ali Ian |
 | 179 | 107 | Rafael Valentin |
@@ -202,9 +202,9 @@
 | 194 | 101 | Saulc1991 |
 | 195 | 101 | mike |
 | 196 | 101 | Nerdy Twisterfit |
-| 197 | 100 | Alexandra Karavias |
+| 197 | 100 | Rebecca Morris |
 | 198 | 100 | Cheery Risebuilder |
-| 199 | 100 | Rebecca Morris |
+| 199 | 100 | Alexandra Karavias |
 | 200 | 99 | Michael Orris |
 | 201 | 98 | Shane Kalamata Platoon |
 | 202 | 98 | Perky Piecegrid |

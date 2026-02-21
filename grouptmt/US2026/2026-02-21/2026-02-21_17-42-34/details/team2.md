@@ -87,8 +87,8 @@
 | 79 | 995 | Samantha Roberts |
 | 80 | 984 | Nancy Reid |
 | 81 | 973 | Kim Dean |
-| 82 | 962 | Charie Holland |
-| 83 | 962 | Janel Turley-Garner |
+| 82 | 962 | Janel Turley-Garner |
+| 83 | 962 | Charie Holland |
 | 84 | 946 | Carrie Trigg |
 | 85 | 932 | Cool Clearer |
 | 86 | 918 | Mari Ac |
@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | James Simms III |
-| 108 | 789 | Stephanie Chapman |
+| 107 | 789 | Stephanie Chapman |
+| 108 | 789 | James Simms III |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -132,11 +132,11 @@
 | 124 | 705 | Roger Grabbit |
 | 125 | 705 | Nika Bee |
 | 126 | 704 | Nerdy Clearfit |
-| 127 | 703 | YiFei |
-| 128 | 703 | Cynthia Ward |
+| 127 | 703 | Cynthia Ward |
+| 128 | 703 | YiFei |
 | 129 | 700 | Vincent Petrella |
-| 130 | 700 | Rosemadder |
-| 131 | 700 | Beverly Owens |
+| 130 | 700 | Beverly Owens |
+| 131 | 700 | Rosemadder |
 | 132 | 698 | Lola Contreras |
 | 133 | 697 | Real Ri |
 | 134 | 694 | Vo'Landa Reels |
@@ -268,25 +268,25 @@
 | 260 | 405 | Sarah Massey |
 | 261 | 405 | Christy Krissie |
 | 262 | 402 | Joshua Mandel |
-| 263 | 400 | Rhonda Milstead |
-| 264 | 400 | Tammy Allen |
+| 263 | 400 | Tammy Allen |
+| 264 | 400 | Rhonda Milstead |
 | 265 | 398 | Mr. Street Stack |
 | 266 | 397 | coleksquad |
 | 267 | 396 | Steven Marshaun |
 | 268 | 396 | Stefanie Zonzini-Gagliardi |
 | 269 | 395 | Matt Johnson |
-| 270 | 395 | Julay |
-| 271 | 395 | Jessie McDougald |
+| 270 | 395 | Jessie McDougald |
+| 271 | 395 | Julay |
 | 272 | 393 | Altamirano Michael |
 | 273 | 393 | Taylor Flowers |
 | 274 | 392 | Maegan Beaule |
 | 275 | 391 | Qiana Sanders |
-| 276 | 391 | Brenda Utphall |
-| 277 | 391 | Chilly Bridgepiece |
+| 276 | 391 | Chilly Bridgepiece |
+| 277 | 391 | Brenda Utphall |
 | 278 | 390 | Kimberly Randesi |
 | 279 | 389 | Kristen O'Neal |
-| 280 | 386 | Macy Williams |
-| 281 | 386 | Deanna Morton |
+| 280 | 386 | Deanna Morton |
+| 281 | 386 | Macy Williams |
 | 282 | 385 | Sam |
 | 283 | 385 | Dedra Steward |
 | 284 | 383 | Arkei Luster |

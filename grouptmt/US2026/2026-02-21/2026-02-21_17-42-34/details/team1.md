@@ -172,8 +172,8 @@
 | 164 | 127 | Aimee Horton |
 | 165 | 126 | Nerdy Linkblock |
 | 166 | 125 | Tipsy Riseclear |
-| 167 | 124 | Flashy Rotator |
-| 168 | 124 | Cartier |
+| 167 | 124 | Cartier |
+| 168 | 124 | Flashy Rotator |
 | 169 | 124 | Witty Builderfit |
 | 170 | 122 | Margo Wagner |
 | 171 | 122 | Melissa Lemmon |

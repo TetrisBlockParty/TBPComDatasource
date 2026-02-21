@@ -103,8 +103,8 @@
 | 95 | 359 | Jessica Bechler |
 | 96 | 356 | Adrian Marcel Pate |
 | 97 | 352 | Trezure Gonzalez |
-| 98 | 350 | Shannon Matthew Byers |
-| 99 | 350 | Speedy Bridger |
+| 98 | 350 | Speedy Bridger |
+| 99 | 350 | Shannon Matthew Byers |
 | 100 | 344 | Joey Banks |
 | 101 | 342 | Tiff Vs Tiffany |
 | 102 | 332 | Chauntee Alfrey-Cardinale |
@@ -237,8 +237,8 @@
 | 229 | 142 | David Bardo |
 | 230 | 139 | Loopy Clusterer |
 | 231 | 138 | Boldy Corner |
-| 232 | 137 | Joy Petroski |
-| 233 | 137 | Cheryl Hinch Tenbrook |
+| 232 | 137 | Cheryl Hinch Tenbrook |
+| 233 | 137 | Joy Petroski |
 | 234 | 135 | Erykah |
 | 235 | 134 | Skinny Baldez |
 | 236 | 133 | LaNette Morgan |
@@ -340,8 +340,8 @@
 | 332 | 96 | Oliver Neal II |
 | 333 | 96 | D3NO |
 | 334 | 95 | Brooke Bauer |
-| 335 | 94 | Nichole Greene |
-| 336 | 94 | Tracey Cox |
+| 335 | 94 | Tracey Cox |
+| 336 | 94 | Nichole Greene |
 | 337 | 93 | Tiffany Ford |
 | 338 | 93 | Martin Bernier |
 | 339 | 93 | Kevin Russell |
