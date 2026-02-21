@@ -107,8 +107,8 @@
 | 99 | 205 | Sarah Neathery |
 | 100 | 204 | Dana Scott |
 | 101 | 203 | Denise Carlson |
-| 102 | 202 | Monica Daley |
-| 103 | 202 | shar |
+| 102 | 202 | shar |
+| 103 | 202 | Monica Daley |
 | 104 | 198 | Mike Solo |
 | 105 | 198 | Chaz Duncan |
 | 106 | 197 | Swanky Fitline |
@@ -125,9 +125,9 @@
 | 117 | 185 | Andy Cabral |
 | 118 | 184 | Justin Hannigan |
 | 119 | 182 | Shane Kalamata Platoon |
-| 120 | 181 | Carter Jones |
+| 120 | 181 | Andria Lynn |
 | 121 | 181 | Savannah Overdorf |
-| 122 | 181 | Andria Lynn |
+| 122 | 181 | Carter Jones |
 | 123 | 180 | Leah Kutz Zirbel |
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
@@ -195,13 +195,13 @@
 | 187 | 122 | Sherri |
 | 188 | 122 | 🥔🥔 Spudz |
 | 189 | 122 | Carlos Ramirez |
-| 190 | 121 | Joseph Pace |
+| 190 | 121 | Megan Cutshaw |
 | 191 | 121 | Smiley Tiltbuilder |
-| 192 | 121 | Megan Cutshaw |
+| 192 | 121 | Joseph Pace |
 | 193 | 120 | Zesty Twistbuilder |
 | 194 | 120 | Jackie Marie |
-| 195 | 120 | Joshua Guess |
-| 196 | 120 | KayM |
+| 195 | 120 | KayM |
+| 196 | 120 | Joshua Guess |
 | 197 | 119 | Kristin Manee |
 | 198 | 119 | Judy Cox |
 | 199 | 119 | Gwendolyn Pitcairn |
@@ -244,12 +244,12 @@
 | 236 | 101 | mike |
 | 237 | 101 | Saulc1991 |
 | 238 | 100 | Jacob Richard |
-| 239 | 100 | Maureen Flanigan |
-| 240 | 100 | Alexandra Karavias |
+| 239 | 100 | Alexandra Karavias |
+| 240 | 100 | Maureen Flanigan |
 | 241 | 99 | Michael Orris |
 | 242 | 98 | Perky Piecegrid |
-| 243 | 98 | Bradley Reeves |
-| 244 | 98 | Sam Bishop |
+| 243 | 98 | Sam Bishop |
+| 244 | 98 | Bradley Reeves |
 | 245 | 97 | Jen Caldwell |
 | 246 | 97 | Rosemary Foster |
 | 247 | 96 | Jessica Miller |
@@ -280,11 +280,11 @@
 | 272 | 88 | Michelle Parker |
 | 273 | 88 | Kesha Brady |
 | 274 | 87 | Alan George LaRage |
-| 275 | 86 | Destiney Carter |
-| 276 | 86 | amy |
-| 277 | 86 | Jason Frehner |
-| 278 | 86 | BigSammy420 |
-| 279 | 86 | Tony Pavelka |
+| 275 | 86 | Jason Frehner |
+| 276 | 86 | Destiney Carter |
+| 277 | 86 | amy |
+| 278 | 86 | Tony Pavelka |
+| 279 | 86 | BigSammy420 |
 | 280 | 85 | Tim Knight-ten |
 | 281 | 85 | Joseph Gray |
 | 282 | 85 | Circuit8 |

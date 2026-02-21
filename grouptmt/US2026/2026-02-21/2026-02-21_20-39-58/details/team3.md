@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -126,8 +126,8 @@
 | 118 | 316 | Fancy Cascader |
 | 119 | 312 | Jay Horn |
 | 120 | 309 | Rich LeBlanc |
-| 121 | 307 | Peggi Charon |
-| 122 | 307 | Blocked |
+| 121 | 307 | Blocked |
+| 122 | 307 | Peggi Charon |
 | 123 | 305 | Tessina Dewey-Mancino |
 | 124 | 300 | Sherika C. McDaniels |
 | 125 | 293 | Poppy Splitter |
@@ -156,8 +156,8 @@
 | 148 | 235 | DidIdothat |
 | 149 | 234 | Tom Nault |
 | 150 | 233 | Ray Lader |
-| 151 | 228 | Rochelle Hazelett |
-| 152 | 228 | Morgan Martinez |
+| 151 | 228 | Morgan Martinez |
+| 152 | 228 | Rochelle Hazelett |
 | 153 | 227 | Nikki Pags |
 | 154 | 226 | Grego Daniel |
 | 155 | 223 | Jeana Gilbert |
