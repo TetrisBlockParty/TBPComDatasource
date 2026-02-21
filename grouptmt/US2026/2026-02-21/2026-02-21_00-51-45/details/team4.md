@@ -133,10 +133,10 @@
 | 125 | 52 | Allison Judith |
 | 126 | 52 | Nicole Silvers |
 | 127 | 52 | Glitzy Crasher |
-| 128 | 51 | David Lay |
-| 129 | 51 | Swanky Fitline |
-| 130 | 51 | George Nutt |
-| 131 | 51 | BertMofo |
+| 128 | 51 | Swanky Fitline |
+| 129 | 51 | David Lay |
+| 130 | 51 | BertMofo |
+| 131 | 51 | George Nutt |
 | 132 | 50 | Landon Keith Graffeo |
 | 133 | 50 | Brandon Crabbs |
 | 134 | 50 | Smiley Linkgrid |

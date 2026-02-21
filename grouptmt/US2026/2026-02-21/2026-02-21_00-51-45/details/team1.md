@@ -48,7 +48,7 @@
 | 40 | 151 | Hyper |
 | 41 | 146 | Abbey Crespo |
 | 42 | 145 | Lachelle Dillon |
-| 43 | 144 | Jessie Lynn |
+| 43 | 144 | Tanya Carpenter-Reynolds |
 | 44 | 144 | Tana |
 | 45 | 144 | Jessie Lynn |
 | 46 | 144 | Plucky Ziggy |

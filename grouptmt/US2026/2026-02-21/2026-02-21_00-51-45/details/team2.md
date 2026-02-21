@@ -168,8 +168,8 @@
 | 160 | 238 | Dany Murillo |
 | 161 | 236 | Frisky Riserbuilder |
 | 162 | 232 | Ann Knutson Anderson |
-| 163 | 231 | Dylan Thomason |
-| 164 | 231 | Ginger |
+| 163 | 231 | Ginger |
+| 164 | 231 | Dylan Thomason |
 | 165 | 231 | Ashley Lopez |
 | 166 | 228 | Davetta Sanford |
 | 167 | 227 | Alyssia Tancredi |

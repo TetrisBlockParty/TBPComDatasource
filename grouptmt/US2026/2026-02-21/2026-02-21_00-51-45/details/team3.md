@@ -73,10 +73,10 @@
 | 65 | 170 | Delilah belle |
 | 66 | 166 | Danielle Mogg |
 | 67 | 159 | Morgan Martinez |
-| 68 | 154 | Shannon Matthew Byers |
-| 69 | 154 | Angela M. Fletcher |
-| 70 | 152 | Shiny Zonebuilder |
-| 71 | 152 | rosy |
+| 68 | 154 | Angela M. Fletcher |
+| 69 | 154 | Shannon Matthew Byers |
+| 70 | 152 | rosy |
+| 71 | 152 | Shiny Zonebuilder |
 | 72 | 147 | Trisha Balmer |
 | 73 | 144 | Denita Mungro |
 | 74 | 143 | ren |
@@ -127,9 +127,9 @@
 | 119 | 98 | Jocelyne Baca |
 | 120 | 96 | Sherry Ogden |
 | 121 | 96 | D3NO |
-| 122 | 95 | Katie Knaus |
-| 123 | 95 | Brooke Bauer |
-| 124 | 95 | Demetrious Shaw Sr. |
+| 122 | 95 | Demetrious Shaw Sr. |
+| 123 | 95 | Katie Knaus |
+| 124 | 95 | Brooke Bauer |
 | 125 | 93 | Tiffany Ford |
 | 126 | 92 | Skinny Baldez |
 | 127 | 90 | Tiffany Kaupang |
