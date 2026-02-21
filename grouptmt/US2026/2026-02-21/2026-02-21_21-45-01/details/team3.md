@@ -100,8 +100,8 @@
 | 92 | 408 | Patty Allen |
 | 93 | 403 | Christine Filson |
 | 94 | 402 | Stephanie Simpson |
-| 95 | 394 | Mcathen |
-| 96 | 394 | joclisa |
+| 95 | 394 | joclisa |
+| 96 | 394 | Mcathen |
 | 97 | 392 | Michelle |
 | 98 | 391 | Calista Jo Dickson |
 | 99 | 390 | Hasty Cascadefit |
@@ -165,8 +165,8 @@
 | 157 | 234 | Tom Nault |
 | 158 | 233 | Ray Lader |
 | 159 | 229 | Nikki Pags |
-| 160 | 228 | Rochelle Hazelett |
-| 161 | 228 | Morgan Martinez |
+| 160 | 228 | Morgan Martinez |
+| 161 | 228 | Rochelle Hazelett |
 | 162 | 226 | Grego Daniel |
 | 163 | 224 | Nicole Myers |
 | 164 | 223 | Jeana Gilbert |
@@ -189,8 +189,8 @@
 | 181 | 204 | Danielle Allison |
 | 182 | 203 | Twisty Brick LT |
 | 183 | 201 | Karon Griffin |
-| 184 | 200 | glichmod |
-| 185 | 200 | Sharisse Baltimore |
+| 184 | 200 | Sharisse Baltimore |
+| 185 | 200 | glichmod |
 | 186 | 197 | Staci George Fitzsimmons |
 | 187 | 195 | Michael Lucado |
 | 188 | 195 | Nicha Hooker |
@@ -234,16 +234,16 @@
 | 226 | 166 | Beth Ingham |
 | 227 | 166 | Betty Rosas |
 | 228 | 165 | Kali Kelz Williams |
-| 229 | 163 | Stephanie Hill |
-| 230 | 163 | Christine Trester |
+| 229 | 163 | Christine Trester |
+| 230 | 163 | Stephanie Hill |
 | 231 | 162 | Stephanie Whitefield |
 | 232 | 161 | Irene Arreguin |
 | 233 | 160 | Tiffany Davie |
 | 234 | 159 | Daryn Elliott |
 | 235 | 159 | Jone |
 | 236 | 157 | Sabrina Hardrick |
-| 237 | 157 | Patricia Gadsden |
-| 238 | 157 | Katrina E Jelks |
+| 237 | 157 | Katrina E Jelks |
+| 238 | 157 | Patricia Gadsden |
 | 239 | 155 | Loopy Fallzone |
 | 240 | 154 | Laurie Allen |
 | 241 | 153 | Rachel Napper |

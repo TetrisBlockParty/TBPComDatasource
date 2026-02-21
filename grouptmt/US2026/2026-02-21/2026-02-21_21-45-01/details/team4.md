@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | Marie-Pier Desjardins |
-| 64 | 376 | quicksand420 |
+| 63 | 376 | quicksand420 |
+| 64 | 376 | Marie-Pier Desjardins |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -96,8 +96,8 @@
 | 88 | 255 | Lindsay Ball |
 | 89 | 254 | Holly Jolly |
 | 90 | 237 | Lori Walker |
-| 91 | 230 | Autum Leigh |
-| 92 | 230 | Lucas J Sutton |
+| 91 | 230 | Lucas J Sutton |
+| 92 | 230 | Autum Leigh |
 | 93 | 228 | Brittney Orengo |
 | 94 | 224 | H.R. Block |
 | 95 | 223 | shar |
@@ -165,8 +165,8 @@
 | 157 | 141 | ĥuf |
 | 158 | 141 | Malakai Darien Fox |
 | 159 | 141 | Kathy Allen |
-| 160 | 140 | Shannon Ferrari |
-| 161 | 140 | John Brunetti |
+| 160 | 140 | John Brunetti |
+| 161 | 140 | Shannon Ferrari |
 | 162 | 138 | Stephme310 |
 | 163 | 137 | PeaceOs |
 | 164 | 136 | Serena Goodridge |
@@ -216,8 +216,8 @@
 | 208 | 115 | Jayk |
 | 209 | 115 | Ultramarine |
 | 210 | 115 | Nubian1 |
-| 211 | 115 | Tyler Terrific |
-| 212 | 115 | Sam Middleton |
+| 211 | 115 | Sam Middleton |
+| 212 | 115 | Tyler Terrific |
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
@@ -231,8 +231,8 @@
 | 223 | 106 | Brandi Durig |
 | 224 | 106 | Zappy Snaplink |
 | 225 | 105 | icequeenx |
-| 226 | 104 | Chris Alexinas |
-| 227 | 104 | Lindsey Gonzalez |
+| 226 | 104 | Lindsey Gonzalez |
+| 227 | 104 | Chris Alexinas |
 | 228 | 103 | Richard-April Kice |
 | 229 | 103 | Lauren Lamb |
 | 230 | 103 | Berklie Apedaile |
@@ -248,8 +248,8 @@
 | 240 | 101 | Nikki Rae Gordon |
 | 241 | 101 | Zach Kerbs |
 | 242 | 101 | Zesty Linkgrid |
-| 243 | 101 | Saulc1991 |
-| 244 | 101 | mike |
+| 243 | 101 | mike |
+| 244 | 101 | Saulc1991 |
 | 245 | 100 | Jacob Richard |
 | 246 | 100 | Alexandra Karavias |
 | 247 | 100 | Jennifer Perkins |
@@ -278,16 +278,16 @@
 | 270 | 92 | Zippy Gridlock |
 | 271 | 91 | Sunny Filler |
 | 272 | 91 | wombat |
-| 273 | 90 | Thomas Hettenhaus |
-| 274 | 90 | Carol Ricks Raymond |
+| 273 | 90 | Carol Ricks Raymond |
+| 274 | 90 | Thomas Hettenhaus |
 | 275 | 90 | Hyper Builder |
-| 276 | 89 | bloat princess |
-| 277 | 89 | Jonathan Mahfood |
-| 278 | 88 | Kesha Brady |
-| 279 | 88 | Michelle Parker |
+| 276 | 89 | Jonathan Mahfood |
+| 277 | 89 | bloat princess |
+| 278 | 88 | Michelle Parker |
+| 279 | 88 | Kesha Brady |
 | 280 | 87 | Alan George LaRage |
-| 281 | 86 | Jason Frehner |
-| 282 | 86 | amy |
+| 281 | 86 | amy |
+| 282 | 86 | Jason Frehner |
 | 283 | 86 | Destiney Carter |
 | 284 | 86 | Tony Pavelka |
 | 285 | 86 | BigSammy420 |

@@ -306,8 +306,8 @@
 | 298 | 442 | Daphne Jordan |
 | 299 | 442 | Joshua Mandel |
 | 300 | 440 | Liberty |
-| 301 | 439 | Joseph Musick |
-| 302 | 439 | Alisa Lamb |
+| 301 | 439 | Alisa Lamb |
+| 302 | 439 | Joseph Musick |
 | 303 | 439 | Nashu |
 | 304 | 437 | Arwa Fatimah |
 | 305 | 436 | Melissa Kay Gibson |
@@ -394,8 +394,8 @@
 | 386 | 355 | Shandrica Lowe |
 | 387 | 355 | Nickole Andrews |
 | 388 | 354 | Rickey Johnson |
-| 389 | 354 | Darlene Bowman |
-| 390 | 354 | Lawanda Forbes |
+| 389 | 354 | Lawanda Forbes |
+| 390 | 354 | Darlene Bowman |
 | 391 | 353 | Cheery Matchzone |
 | 392 | 352 | Juanita Lyons |
 | 393 | 352 | Tj Ball |
@@ -403,8 +403,8 @@
 | 395 | 352 | ruth |
 | 396 | 351 | Rebecca Miller |
 | 397 | 350 | Fi Ne |
-| 398 | 350 | Chris Harr |
-| 399 | 350 | F-X |
+| 398 | 350 | F-X |
+| 399 | 350 | Chris Harr |
 | 400 | 348 | Véronique Lévesque Sabourin |
 | 401 | 348 | Richard Horton |
 | 402 | 347 | Cheyenne Donovan |
@@ -467,8 +467,8 @@
 | 459 | 312 | Andrea Maher |
 | 460 | 310 | Cheeky Brickmatch |
 | 461 | 310 | Sharon Mills |
-| 462 | 309 | Autumn Schaeffer |
-| 463 | 309 | Glitzy Stackzone |
+| 462 | 309 | Glitzy Stackzone |
+| 463 | 309 | Autumn Schaeffer |
 | 464 | 307 | Kitybox |
 | 465 | 306 | Frisky Clearpiece |
 | 466 | 305 | Zany Clusterbuilder |
@@ -488,8 +488,8 @@
 | 480 | 301 | Funky Caster |
 | 481 | 299 | Megan Phillips |
 | 482 | 299 | Diallo Sparkman |
-| 483 | 298 | Snappy Shatterfit |
-| 484 | 298 | RetroLemur |
+| 483 | 298 | RetroLemur |
+| 484 | 298 | Snappy Shatterfit |
 | 485 | 297 | Peachy Blockbuilder |
 | 486 | 296 | Jennifer Darby |
 | 487 | 296 | Amber Gray |
@@ -530,15 +530,15 @@
 | 522 | 274 | Jamie Stevey |
 | 523 | 274 | Michelle Sager |
 | 524 | 273 | Jenna Nance |
-| 525 | 273 | Britt Stunkel |
-| 526 | 273 | Luna |
+| 525 | 273 | Luna |
+| 526 | 273 | Britt Stunkel |
 | 527 | 271 | Toni Lynn |
 | 528 | 271 | Ann Marie Davis |
 | 529 | 270 | Kathryn Townsley |
 | 530 | 270 | Tim Dyer |
 | 531 | 270 | Santana Miyagi |
-| 532 | 269 | Gauri Shrotriya |
-| 533 | 269 | Reece Smith |
+| 532 | 269 | Reece Smith |
+| 533 | 269 | Gauri Shrotriya |
 | 534 | 269 | Susan Arnburg |
 | 535 | 268 | Min |
 | 536 | 266 | Jason Garnatz |
@@ -568,12 +568,12 @@
 | 560 | 250 | LeVeL27 |
 | 561 | 250 | Mike73 |
 | 562 | 250 | Kristi Biddinger |
-| 563 | 250 | Mike73 |
+| 563 | 250 | sup |
 | 564 | 249 | Porsche' Nicole |
 | 565 | 249 | Nicky Jackson |
-| 566 | 248 | Angelina Marie |
+| 566 | 248 | Gursharan Sandhu |
 | 567 | 248 | James Smith |
-| 568 | 248 | Gursharan Sandhu |
+| 568 | 248 | Angelina Marie |
 | 569 | 248 | Warren Marleau |
 | 570 | 248 | Dany Murillo |
 | 571 | 248 | Maddy Petersen |
@@ -585,11 +585,11 @@
 | 577 | 246 | Robin L. Vial |
 | 578 | 246 | Morgan Easter |
 | 579 | 246 | Pocho Zavala |
-| 580 | 245 | Sanaa Nounoussa |
-| 581 | 245 | Mary Boss |
+| 580 | 245 | Mary Boss |
+| 581 | 245 | Sanaa Nounoussa |
 | 582 | 244 | Maxwell Escalera |
-| 583 | 244 | Court |
-| 584 | 244 | Nakiiya Dreamcatcher Gore |
+| 583 | 244 | Nakiiya Dreamcatcher Gore |
+| 584 | 244 | Court |
 | 585 | 243 | JacJac |
 | 586 | 242 | Donna Chandler |
 | 587 | 242 | Lianne Giandalone LaBounty |
@@ -643,11 +643,11 @@
 | 635 | 220 | Jennifer Coe |
 | 636 | 220 | Katrina Weston |
 | 637 | 220 | Brenna Ann |
-| 638 | 219 | Cathy Bitters |
-| 639 | 219 | Trista Carter |
+| 638 | 219 | Trista Carter |
+| 639 | 219 | Cathy Bitters |
 | 640 | 219 | Josh Webster |
-| 641 | 218 | Shylee Tilman |
-| 642 | 218 | Twisty Tetriblast |
+| 641 | 218 | Twisty Tetriblast |
+| 642 | 218 | Shylee Tilman |
 | 643 | 218 | Wacky Cascade |
 | 644 | 218 | Joy LaJeunesse |
 | 645 | 217 | Erika Meaux |
@@ -831,8 +831,8 @@
 | 823 | 170 | Fae-Bulous |
 | 824 | 169 | Frothy Shatter |
 | 825 | 169 | Fancy Glidezone |
-| 826 | 169 | Greenshades00 |
-| 827 | 169 | Kamilya Rembert |
+| 826 | 169 | Kamilya Rembert |
+| 827 | 169 | Greenshades00 |
 | 828 | 168 | Val Pal |
 | 829 | 168 | Jay Dreamer-x Shelly |
 | 830 | 168 | Joann |
