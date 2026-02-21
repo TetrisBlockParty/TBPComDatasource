@@ -139,8 +139,8 @@
 | 131 | 174 | Zethra Prenisha Rahming |
 | 132 | 174 | Dihcheese444 |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -210,8 +210,8 @@
 | 202 | 120 | Jackie Marie |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
-| 205 | 118 | Mary Ann Pabukis |
-| 206 | 118 | Chris Bernstein |
+| 205 | 118 | Chris Bernstein |
+| 206 | 118 | Mary Ann Pabukis |
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Jayk |
 | 209 | 115 | Ultramarine |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Lazy Blocker |
-| 217 | 111 | Kristin MacDonald |
+| 216 | 111 | Kristin MacDonald |
+| 217 | 111 | Lazy Blocker |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -254,8 +254,8 @@
 | 246 | 100 | Maureen Flanigan |
 | 247 | 100 | Blessedmama |
 | 248 | 99 | Michael Orris |
-| 249 | 98 | Bradley Reeves |
-| 250 | 98 | Perky Piecegrid |
+| 249 | 98 | Perky Piecegrid |
+| 250 | 98 | Bradley Reeves |
 | 251 | 98 | Sam Bishop |
 | 252 | 97 | Rosemary Foster |
 | 253 | 97 | Marcela Johnson |
@@ -410,7 +410,7 @@
 | 402 | 62 | Milan Markeisha |
 | 403 | 62 | Sunny Brickroll |
 | 404 | 62 | Twisty Risebuilder |
-| 405 | 62 | Nicole Silvers |
+| 405 | 62 | PennyCandee |
 | 406 | 62 | Stephanie Jones |
 | 407 | 62 | Nicole Silvers |
 | 408 | 61 | Denise B |

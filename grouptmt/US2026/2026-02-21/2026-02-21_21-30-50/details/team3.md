@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -123,8 +123,8 @@
 | 115 | 347 | Darlene McMillan |
 | 116 | 332 | Chauntee Alfrey-Cardinale |
 | 117 | 327 | Dapper Snap |
-| 118 | 323 | Sherry Ogden |
-| 119 | 323 | Ashley Raines |
+| 118 | 323 | Ashley Raines |
+| 119 | 323 | Sherry Ogden |
 | 120 | 320 | Or Reznitsky |
 | 121 | 318 | Chasity |
 | 122 | 316 | Fancy Cascader |
@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Ashley Muncey |
-| 138 | 271 | Leah Barnett |
+| 137 | 271 | Leah Barnett |
+| 138 | 271 | Ashley Muncey |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Angeline Joseph |
@@ -258,8 +258,8 @@
 | 250 | 148 | Wetwet |
 | 251 | 148 | Jennifer Alvey |
 | 252 | 147 | Cheryl Hinch Tenbrook |
-| 253 | 147 | Carrie Huskey |
-| 254 | 147 | Ashley Lynn Marchese |
+| 253 | 147 | Ashley Lynn Marchese |
+| 254 | 147 | Carrie Huskey |
 | 255 | 146 | Denita Mungro |
 | 256 | 145 | Bryan Byrd |
 | 257 | 145 | Jeni Dow |
@@ -276,10 +276,10 @@
 | 268 | 139 | Funky Jumper |
 | 269 | 138 | Boldy Corner |
 | 270 | 137 | Cesar Barraza |
-| 271 | 136 | Rachel |
-| 272 | 136 | Sabrina Mansfield |
-| 273 | 135 | Skinny Baldez |
-| 274 | 135 | Terry Jo Jones |
+| 271 | 136 | Sabrina Mansfield |
+| 272 | 136 | Rachel |
+| 273 | 135 | Terry Jo Jones |
+| 274 | 135 | Skinny Baldez |
 | 275 | 134 | Kristian Thurman |
 | 276 | 133 | Weerae |
 | 277 | 133 | Samantha Lynn |
