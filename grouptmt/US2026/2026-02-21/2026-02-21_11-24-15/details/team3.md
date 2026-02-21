@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |

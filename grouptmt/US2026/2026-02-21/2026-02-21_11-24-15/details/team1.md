@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Tdub |
-| 57 | 212 | Jaimie Lynn |
+| 56 | 212 | Jaimie Lynn |
+| 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 208 | Mandyy Rae |

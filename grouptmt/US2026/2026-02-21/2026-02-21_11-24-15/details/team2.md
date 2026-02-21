@@ -12,8 +12,8 @@
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3659 | Trisha Gill |
 | 6 | 3575 | Cassie Donica |
-| 7 | 3567 | Taylana Mincy |
-| 8 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Rickey Goins Jr. |
+| 8 | 3567 | Taylana Mincy |
 | 9 | 3460 | Poppy Snap |
 | 10 | 3453 | Tiaira Patrice' |
 | 11 | 3057 | Nicole Rowley |
@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -350,8 +350,8 @@
 | 342 | 247 | Fancy Twister |
 | 343 | 247 | Andrea Devery Beck |
 | 344 | 246 | Kathryn Townsley |
-| 345 | 246 | Stephanie Lumanlan |
-| 346 | 246 | Ashley Lopez |
+| 345 | 246 | Ashley Lopez |
+| 346 | 246 | Stephanie Lumanlan |
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
@@ -367,8 +367,8 @@
 | 359 | 236 | Niceday |
 | 360 | 236 | Julio A Laracuente |
 | 361 | 235 | Kimberly Mitchell |
-| 362 | 234 | Jennifer Leigh |
-| 363 | 234 | Manny Trindade |
+| 362 | 234 | Manny Trindade |
+| 363 | 234 | Jennifer Leigh |
 | 364 | 234 | Jaybee Nguyen |
 | 365 | 233 | Jumpy Gridclear |
 | 366 | 233 | Robin Kerby |
@@ -442,8 +442,8 @@
 | 434 | 191 | John Quiring |
 | 435 | 190 | Poldo Ilano |
 | 436 | 190 | Jessica Kaye DeAguero |
-| 437 | 188 | Seth Wrieden |
-| 438 | 188 | Michael Artis |
+| 437 | 188 | Michael Artis |
+| 438 | 188 | Seth Wrieden |
 | 439 | 188 | Justin Hines |
 | 440 | 187 | Stefanie Zonzini-Gagliardi |
 | 441 | 186 | Joshua Mullings |
