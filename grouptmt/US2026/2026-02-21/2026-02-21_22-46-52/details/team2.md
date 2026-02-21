@@ -221,8 +221,8 @@
 | 213 | 618 | Gabby Jenner |
 | 214 | 617 | Allan Wayne Lamia |
 | 215 | 610 | Auntie B |
-| 216 | 608 | Sommer Shope |
-| 217 | 608 | goofinoff |
+| 216 | 608 | goofinoff |
+| 217 | 608 | Sommer Shope |
 | 218 | 605 | Jelly |
 | 219 | 603 | Cassie Maynard |
 | 220 | 596 | Ellie Jonas |
@@ -270,8 +270,8 @@
 | 262 | 509 | Kelli Wells |
 | 263 | 509 | Jordan Kaiser |
 | 264 | 506 | AISlop |
-| 265 | 504 | Gene Mills |
-| 266 | 504 | Cherica Taylor |
+| 265 | 504 | Cherica Taylor |
+| 266 | 504 | Gene Mills |
 | 267 | 503 | tejas25 |
 | 268 | 502 | Magic steve |
 | 269 | 502 | Poppy Snap |
@@ -475,8 +475,8 @@
 | 467 | 316 | Gloria Ininahazwe |
 | 468 | 316 | Mikayala Szaz |
 | 469 | 315 | Ryan Meilleur |
-| 470 | 314 | Party d |
-| 471 | 314 | Amanda West |
+| 470 | 314 | Amanda West |
+| 471 | 314 | Party d |
 | 472 | 314 | James Zaragoza |
 | 473 | 312 | Michelle Pike |
 | 474 | 312 | Andrea Maher |

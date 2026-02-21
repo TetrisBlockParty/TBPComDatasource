@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Bhelle Sumile |
-| 95 | 270 | Jennifer ManWarren |
+| 94 | 270 | Jennifer ManWarren |
+| 95 | 270 | Bhelle Sumile |
 | 96 | 261 | Rachael |
 | 97 | 258 | Dandy Basegrid |
 | 98 | 255 | Cynthia Bradley |
@@ -126,8 +126,8 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | Giggly Builderline |
-| 122 | 203 | GATOR |
+| 121 | 203 | GATOR |
+| 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Tyler Werts |
 | 125 | 194 | Ash Galvan |

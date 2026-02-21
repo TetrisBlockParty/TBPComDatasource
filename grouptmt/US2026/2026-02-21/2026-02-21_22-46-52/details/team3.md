@@ -46,8 +46,8 @@
 | 38 | 998 | Liv Whetson |
 | 39 | 996 | Danielle Cutler |
 | 40 | 989 | Kay |
-| 41 | 928 | Stephanie Rice |
-| 42 | 928 | Snappy Fitzone |
+| 41 | 928 | Snappy Fitzone |
+| 42 | 928 | Stephanie Rice |
 | 43 | 915 | Fancy Slam |
 | 44 | 879 | Shonna Roberts |
 | 45 | 878 | Chummy Shatterer |
@@ -115,8 +115,8 @@
 | 107 | 389 | Jessica Bechler |
 | 108 | 386 | Katie Knaus |
 | 109 | 384 | Shannon Matthew Byers |
-| 110 | 378 | Makelini Mausia |
-| 111 | 378 | Tasha Schriewer |
+| 110 | 378 | Tasha Schriewer |
+| 111 | 378 | Makelini Mausia |
 | 112 | 377 | Jesse Olive |
 | 113 | 368 | Stephanie Woods |
 | 114 | 368 | Stephanie Blkpep Davidson |
@@ -203,16 +203,16 @@
 | 195 | 200 | Sharisse Baltimore |
 | 196 | 197 | Staci George Fitzsimmons |
 | 197 | 195 | Nicha Hooker |
-| 198 | 193 | Stephanie Burtin |
-| 199 | 193 | Angie Harper |
-| 200 | 193 | Clever Shiftsnap |
+| 198 | 193 | Clever Shiftsnap |
+| 199 | 193 | Stephanie Burtin |
+| 200 | 193 | Angie Harper |
 | 201 | 192 | Kelly Ann Child |
-| 202 | 191 | Giddy Twistbuilder |
-| 203 | 191 | Rebel124 |
+| 202 | 191 | Scott Carleton |
+| 203 | 191 | Giddy Twistbuilder |
 | 204 | 191 | Brenda Lee Vander Molen |
-| 205 | 191 | Scott Carleton |
-| 206 | 189 | Connie Mohler-Fair |
-| 207 | 189 | Sissy Lowery Davis |
+| 205 | 191 | Rebel124 |
+| 206 | 189 | Sissy Lowery Davis |
+| 207 | 189 | Connie Mohler-Fair |
 | 208 | 188 | JerseyJess |
 | 209 | 186 | Sunny Rotater |
 | 210 | 185 | Aerian Preston |
@@ -236,8 +236,8 @@
 | 228 | 174 | Marquita Sheard |
 | 229 | 173 | Betty Ivy |
 | 230 | 172 | Grams |
-| 231 | 169 | Emma |
-| 232 | 169 | BŘŰŤİÇŨŚ |
+| 231 | 169 | BŘŰŤİÇŨŚ |
+| 232 | 169 | Emma |
 | 233 | 168 | MsBee |
 | 234 | 166 | Betty Rosas |
 | 235 | 166 | Beth Ingham |
@@ -259,8 +259,8 @@
 | 251 | 154 | Desiree Gold |
 | 252 | 154 | Valerie Gendron |
 | 253 | 153 | Cozy Snaplink |
-| 254 | 153 | Rachel Napper |
-| 255 | 153 | Sheila M Frazier |
+| 254 | 153 | Sheila M Frazier |
+| 255 | 153 | Rachel Napper |
 | 256 | 152 | Shiny Zonebuilder |
 | 257 | 152 | Lesley Perez |
 | 258 | 150 | Steffi Chris Dacones |
@@ -273,8 +273,8 @@
 | 265 | 148 | Gumbo |
 | 266 | 147 | Carrie Huskey |
 | 267 | 147 | Ashley Lynn Marchese |
-| 268 | 146 | Denita Mungro |
-| 269 | 146 | Tony Waters |
+| 268 | 146 | Tony Waters |
+| 269 | 146 | Denita Mungro |
 | 270 | 145 | Bryan Byrd |
 | 271 | 144 | fraulila |
 | 272 | 144 | Tenisha Semidey |

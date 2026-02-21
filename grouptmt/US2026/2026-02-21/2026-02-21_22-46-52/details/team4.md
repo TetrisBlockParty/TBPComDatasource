@@ -275,8 +275,8 @@
 | 267 | 96 | Jessica Miller |
 | 268 | 96 | Marcus TheeyoungWoe Gilmore |
 | 269 | 96 | Sammy Noguera |
-| 270 | 95 | Patron Anderson |
-| 271 | 95 | Tina Martinez |
+| 270 | 95 | Tina Martinez |
+| 271 | 95 | Patron Anderson |
 | 272 | 94 | DonMega |
 | 273 | 94 | Madison Sweere |
 | 274 | 94 | Christina Black |
