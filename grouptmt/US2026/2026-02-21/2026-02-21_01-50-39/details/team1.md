@@ -32,8 +32,8 @@
 | 24 | 204 | Ly Phethmany |
 | 25 | 203 | Elaine Elaine |
 | 26 | 201 | Anaid Sanchez |
-| 27 | 200 | Lexuriuos Lifestlye |
-| 28 | 200 | Jennifer Cates |
+| 27 | 200 | Jennifer Cates |
+| 28 | 200 | Lexuriuos Lifestlye |
 | 29 | 194 | Sharon Reynolds |
 | 30 | 192 | Mandyy Rae |
 | 31 | 190 | Thorne Shumate |

@@ -126,8 +126,8 @@
 | 118 | 351 | Giggy Blocker |
 | 119 | 350 | Chris Harr |
 | 120 | 345 | Brenda Messer |
-| 121 | 345 | Alyssaaelena |
-| 122 | 345 | Rhianna DiLorenzo |
+| 121 | 345 | Rhianna DiLorenzo |
+| 122 | 345 | Alyssaaelena |
 | 123 | 344 | Christina Lewis-Vickers |
 | 124 | 343 | Cherica Taylor |
 | 125 | 342 | Tracy Wise |
@@ -415,7 +415,7 @@
 | 407 | 113 | Della Hole |
 | 408 | 113 | Brave Gridzone |
 | 409 | 113 | Christina Eckert |
-| 410 | 113 | Brave Gridzone |
+| 410 | 113 | Amanda Perez |
 | 411 | 112 | Kristopher Miller |
 | 412 | 112 | Ashley Bacote |
 | 413 | 111 | Ashley M. Davis |
@@ -426,8 +426,8 @@
 | 418 | 110 | Britni Deas |
 | 419 | 109 | Scott |
 | 420 | 109 | Jroc |
-| 421 | 109 | Nicolle Danielle |
-| 422 | 109 | Cranky Pattern |
+| 421 | 109 | Cranky Pattern |
+| 422 | 109 | Nicolle Danielle |
 | 423 | 109 | Lazy Riseclear |
 | 424 | 108 | Sean Kinsey |
 | 425 | 107 | Northphilly Fly |

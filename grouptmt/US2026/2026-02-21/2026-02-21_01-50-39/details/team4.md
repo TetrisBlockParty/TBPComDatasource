@@ -38,12 +38,12 @@
 | 30 | 190 | Brittney Orengo |
 | 31 | 185 | loulou |
 | 32 | 174 | Jamie Mann-Deichmann |
-| 33 | 170 | Girl |
-| 34 | 170 | Leah Kutz Zirbel |
+| 33 | 170 | Leah Kutz Zirbel |
+| 34 | 170 | Girl |
 | 35 | 168 | Anthony Magaraci |
 | 36 | 167 | Rachel Anne |
-| 37 | 153 | Lucille Truesdale |
-| 38 | 153 | Kimyatta Cavin |
+| 37 | 153 | Kimyatta Cavin |
+| 38 | 153 | Lucille Truesdale |
 | 39 | 147 | Courtney Cicoria |
 | 40 | 141 | Edward White |
 | 41 | 140 | Shannon Ferrari |
@@ -74,10 +74,10 @@
 | 66 | 100 | Jeff Brian Gates |
 | 67 | 100 | Andria Lynn |
 | 68 | 99 | YoMomma |
-| 69 | 98 | Stephme310 |
-| 70 | 98 | Duck |
-| 71 | 96 | Zappy Snaplink |
-| 72 | 96 | TinyLegoRose |
+| 69 | 98 | Duck |
+| 70 | 98 | Stephme310 |
+| 71 | 96 | TinyLegoRose |
+| 72 | 96 | Zappy Snaplink |
 | 73 | 92 | Kristin MacDonald |
 | 74 | 90 | ZeeZee |
 | 75 | 89 | Zesty Twistbuilder |
