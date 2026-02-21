@@ -247,8 +247,8 @@
 | 239 | 243 | Brandy Andre |
 | 240 | 241 | Sabrina Burton |
 | 241 | 240 | Angie Marie |
-| 242 | 240 | Johnny Yeates |
-| 243 | 240 | Adam Erikson |
+| 242 | 240 | Adam Erikson |
+| 243 | 240 | Johnny Yeates |
 | 244 | 239 | Tee Jaleesa |
 | 245 | 238 | Cheery Matchzone |
 | 246 | 238 | Cheech Dta |
@@ -294,8 +294,8 @@
 | 286 | 202 | Christina Ashley |
 | 287 | 200 | Cheeky Brickmatch |
 | 288 | 200 | Sarah Ridenour |
-| 289 | 199 | Jessica Sutter |
-| 290 | 199 | Jenny Castro |
+| 289 | 199 | Jenny Castro |
+| 290 | 199 | Jessica Sutter |
 | 291 | 198 | Andea Beck |
 | 292 | 198 | Peppy Zone |
 | 293 | 198 | Alyssa Dean |
@@ -331,8 +331,8 @@
 | 323 | 176 | Trisha Gallagher |
 | 324 | 176 | Jessica Kaye DeAguero |
 | 325 | 176 | Nancy Pohlman |
-| 326 | 175 | Tina Blessed Cage |
-| 327 | 175 | Shandrica Lowe |
+| 326 | 175 | Shandrica Lowe |
+| 327 | 175 | Tina Blessed Cage |
 | 328 | 174 | Jason Garnatz |
 | 329 | 173 | Wakanda Forever |
 | 330 | 172 | Joshua Mullings |

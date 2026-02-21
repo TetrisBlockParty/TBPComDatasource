@@ -26,8 +26,8 @@
 | 18 | 345 | Ancient Intuition |
 | 19 | 339 | LisaJo Picken Buchanan |
 | 20 | 338 | Nope Young |
-| 21 | 330 | Johnathan Martinez |
-| 22 | 330 | Samantha Peterson |
+| 21 | 330 | Samantha Peterson |
+| 22 | 330 | Johnathan Martinez |
 | 23 | 324 | Isabel Aguilar |
 | 24 | 320 | Kimyatta Cavin |
 | 25 | 315 | Carolyn Wallace |
