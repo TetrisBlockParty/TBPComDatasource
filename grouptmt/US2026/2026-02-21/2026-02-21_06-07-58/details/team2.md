@@ -157,8 +157,8 @@
 | 149 | 409 | Sparkles |
 | 150 | 406 | Erin StFrancis |
 | 151 | 401 | Poppy Snap |
-| 152 | 400 | Crystie Hicks |
-| 153 | 400 | Tammy Allen |
+| 152 | 400 | Tammy Allen |
+| 153 | 400 | Crystie Hicks |
 | 154 | 397 | Ashley Guernsey-Martin |
 | 155 | 391 | Chilly Bridgepiece |
 | 156 | 391 | Steven Marshaun |
@@ -191,8 +191,8 @@
 | 183 | 337 | Joseph Musick |
 | 184 | 336 | Tralonda Weeks |
 | 185 | 334 | Missie Lawson Gebhardt |
-| 186 | 334 | Moni Foxe |
-| 187 | 334 | Nashu |
+| 186 | 334 | Nashu |
+| 187 | 334 | Moni Foxe |
 | 188 | 332 | TF Dyer |
 | 189 | 331 | Brave Dropmatch |
 | 190 | 330 | Victoria Moore-Smith |
@@ -216,8 +216,8 @@
 | 208 | 303 | Crystal Greene |
 | 209 | 299 | Deborah Miller |
 | 210 | 299 | Christy Krissie |
-| 211 | 296 | Amber Gray |
-| 212 | 296 | Jennifer Casey-Kay |
+| 211 | 296 | Jennifer Casey-Kay |
+| 212 | 296 | Amber Gray |
 | 213 | 295 | Angela Bonquiqui Dinish |
 | 214 | 295 | Zany Clusterbuilder |
 | 215 | 295 | Diallo Sparkman |
@@ -339,8 +339,8 @@
 | 331 | 203 | coleksquad |
 | 332 | 203 | Gary Stash |
 | 333 | 202 | Christina Ashley |
-| 334 | 201 | Ashlyn Berner |
-| 335 | 201 | Zombi3 |
+| 334 | 201 | Zombi3 |
+| 335 | 201 | Ashlyn Berner |
 | 336 | 201 | Peppy Snapfall |
 | 337 | 200 | Sarah Ridenour |
 | 338 | 200 | Cheeky Brickmatch |
@@ -357,8 +357,8 @@
 | 349 | 194 | Kimberly Ann |
 | 350 | 194 | Mike Aprilliano |
 | 351 | 193 | Nika Bee |
-| 352 | 193 | Matthew Turner |
-| 353 | 193 | Kelly Ann McCormick |
+| 352 | 193 | Kelly Ann McCormick |
+| 353 | 193 | Matthew Turner |
 | 354 | 191 | Lauren Fitzgerald Thomas |
 | 355 | 191 | John Quiring |
 | 356 | 191 | Deana |

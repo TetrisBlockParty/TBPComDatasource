@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Carmethia Clemons Haslerig |
-| 20 | 383 | Johnathan Martinez |
+| 19 | 383 | Johnathan Martinez |
+| 20 | 383 | Carmethia Clemons Haslerig |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 344 | Rachel Anne |
@@ -45,8 +45,8 @@
 | 37 | 256 | Brittney Griggs |
 | 38 | 256 | Dustin Robert |
 | 39 | 244 | Isabella Blanco |
-| 40 | 231 | Michelle Marie |
-| 41 | 231 | Jenna Ingersoll |
+| 40 | 231 | Jenna Ingersoll |
+| 41 | 231 | Michelle Marie |
 | 42 | 226 | Breannah Grafe |
 | 43 | 220 | Julian Garcia |
 | 44 | 207 | Alyssa Papen |
@@ -63,11 +63,11 @@
 | 55 | 168 | Anthony Magaraci |
 | 56 | 167 | Dustee Craddock-Harrison |
 | 57 | 166 | Denise Carlson |
-| 58 | 165 | Courtney Cicoria |
-| 59 | 165 | Casey Grabner |
+| 58 | 165 | Casey Grabner |
+| 59 | 165 | Courtney Cicoria |
 | 60 | 160 | Carter Jones |
-| 61 | 159 | Holly Jolly |
-| 62 | 159 | Justin Hannigan |
+| 61 | 159 | Justin Hannigan |
+| 62 | 159 | Holly Jolly |
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 152 | Clarence Patawaran |
@@ -223,10 +223,10 @@
 | 215 | 61 | TeeJ |
 | 216 | 61 | Plucky Patternblock |
 | 217 | 60 | Ahleek Mitchell |
-| 218 | 59 | Jasmine S Caldwell |
-| 219 | 59 | Jen Mattei |
-| 220 | 58 | BlockBabe |
-| 221 | 58 | Autumn Kumzi |
+| 218 | 59 | Jen Mattei |
+| 219 | 59 | Jasmine S Caldwell |
+| 220 | 58 | Autumn Kumzi |
+| 221 | 58 | BlockBabe |
 | 222 | 58 | Paige Kittles |
 | 223 | 58 | Gilles Lanctot |
 | 224 | 57 | Perky Piecegrid |

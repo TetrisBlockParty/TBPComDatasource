@@ -98,8 +98,8 @@
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
-| 93 | 119 | Irual Hctrab |
-| 94 | 119 | Tater |
+| 93 | 119 | Tater |
+| 94 | 119 | Irual Hctrab |
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
@@ -140,8 +140,8 @@
 | 132 | 89 | Mara Hilker |
 | 133 | 89 | Mizzledagod |
 | 134 | 87 | Jessi Sauer |
-| 135 | 86 | Desiree Deschaine Havee |
-| 136 | 86 | Basment Living |
+| 135 | 86 | Basment Living |
+| 136 | 86 | Desiree Deschaine Havee |
 | 137 | 85 | Steve Schneider |
 | 138 | 84 | Charla Pross-Fugleberg |
 | 139 | 84 | Yvonne Marie |

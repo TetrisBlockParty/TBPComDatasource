@@ -138,8 +138,8 @@
 | 130 | 149 | Angel Mendez |
 | 131 | 146 | Denita Mungro |
 | 132 | 146 | Latoya Mayne |
-| 133 | 142 | Erica Anderson |
-| 134 | 142 | Blocked |
+| 133 | 142 | Blocked |
+| 134 | 142 | Erica Anderson |
 | 135 | 140 | Jay Horn |
 | 136 | 140 | Gumbo |
 | 137 | 135 | Nicole Flippo |
