@@ -394,8 +394,8 @@
 | 386 | 67 | Romeo |
 | 387 | 67 | Daryn Elliott |
 | 388 | 67 | Will Miller |
-| 389 | 67 | Cozy Stagger |
-| 390 | 67 | Wendy Dearden |
+| 389 | 67 | Wendy Dearden |
+| 390 | 67 | Cozy Stagger |
 | 391 | 66 | Jess Meyers |
 | 392 | 66 | Carina Ortega |
 | 393 | 66 | Christen Cannon Layhew |

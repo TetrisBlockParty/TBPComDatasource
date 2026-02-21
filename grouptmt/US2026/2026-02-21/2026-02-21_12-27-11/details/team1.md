@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Amanda Summey Schoemer |
-| 22 | 511 | Jen Sartain |
+| 21 | 511 | Jen Sartain |
+| 22 | 511 | Amanda Summey Schoemer |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 311 | Michelle Nicole |
 | 38 | 303 | Maria C. Hernandez |
@@ -48,8 +48,8 @@
 | 40 | 294 | Jacqueline Williams |
 | 41 | 291 | Nancy Green |
 | 42 | 290 | Jennifer Cates |
-| 43 | 274 | Sweet Baker |
-| 44 | 274 | Theo Pinnow |
+| 43 | 274 | Theo Pinnow |
+| 44 | 274 | Sweet Baker |
 | 45 | 272 | Adam Byrd |
 | 46 | 267 | Adryane Schnase |
 | 47 | 264 | Shauna Loe |
@@ -74,8 +74,8 @@
 | 66 | 204 | Ly Phethmany |
 | 67 | 202 | Dee Perry |
 | 68 | 202 | Hyper |
-| 69 | 201 | Ananda Mendez |
-| 70 | 201 | Anaid Sanchez |
+| 69 | 201 | Anaid Sanchez |
+| 70 | 201 | Ananda Mendez |
 | 71 | 200 | Lexuriuos Lifestlye |
 | 72 | 198 | Billie Dawn Sparks |
 | 73 | 198 | Happy Snapbuild |
@@ -100,9 +100,9 @@
 | 92 | 162 | Patrick Luckenbill |
 | 93 | 161 | Abbey Crespo |
 | 94 | 156 | Jessie Lynn |
-| 95 | 155 | Cece Ibarra |
-| 96 | 155 | Standia Civil |
-| 97 | 155 | David DeSantis |
+| 95 | 155 | Standia Civil |
+| 96 | 155 | David DeSantis |
+| 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
 | 100 | 149 | Tana |

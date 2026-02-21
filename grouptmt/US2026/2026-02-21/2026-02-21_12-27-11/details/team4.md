@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -124,9 +124,9 @@
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
-| 119 | 123 | Bubbly Puzzler |
+| 119 | 123 | Cherrish Duren |
 | 120 | 123 | TinyLegoRose |
-| 121 | 123 | Cherrish Duren |
+| 121 | 123 | Bubbly Puzzler |
 | 122 | 122 | Sherri |
 | 123 | 121 | Zany Shatterer |
 | 124 | 121 | Smiley Tiltbuilder |
