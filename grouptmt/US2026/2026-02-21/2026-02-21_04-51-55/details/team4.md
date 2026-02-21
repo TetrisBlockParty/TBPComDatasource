@@ -23,8 +23,8 @@
 | 15 | 431 | Valerie Roberts |
 | 16 | 402 | Samantha Peterson |
 | 17 | 390 | Alicia Bass |
-| 18 | 383 | Johnathan Martinez |
-| 19 | 383 | Carmethia Clemons Haslerig |
+| 18 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Johnathan Martinez |
 | 20 | 348 | Rodney McMath Jr. |
 | 21 | 345 | Ancient Intuition |
 | 22 | 339 | LisaJo Picken Buchanan |
@@ -47,8 +47,8 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |

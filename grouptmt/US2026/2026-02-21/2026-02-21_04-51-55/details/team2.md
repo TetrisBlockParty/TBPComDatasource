@@ -280,8 +280,8 @@
 | 272 | 233 | Robin Kerby |
 | 273 | 233 | Alyssia Tancredi |
 | 274 | 232 | Amber Brion |
-| 275 | 231 | Dylan Thomason |
-| 276 | 231 | Ginger |
+| 275 | 231 | Ginger |
+| 276 | 231 | Dylan Thomason |
 | 277 | 230 | snkylnk |
 | 278 | 228 | Michelle Sager |
 | 279 | 227 | Amber Gray |

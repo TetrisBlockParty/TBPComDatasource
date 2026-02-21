@@ -119,8 +119,8 @@
 | 111 | 96 | Melissa Lemmon |
 | 112 | 96 | Nery Martinez |
 | 113 | 95 | Spunky Piecebuilder |
-| 114 | 94 | Luciano Moreira |
-| 115 | 94 | Bindi |
+| 114 | 94 | Bindi |
+| 115 | 94 | Luciano Moreira |
 | 116 | 93 | Aimee Horton |
 | 117 | 93 | Loony Fitzone |
 | 118 | 92 | Jessica Russell |
@@ -128,8 +128,8 @@
 | 120 | 90 | Madison Wicks |
 | 121 | 89 | Mizzledagod |
 | 122 | 87 | Jessi Sauer |
-| 123 | 86 | Desiree Deschaine Havee |
-| 124 | 86 | Basment Living |
+| 123 | 86 | Basment Living |
+| 124 | 86 | Desiree Deschaine Havee |
 | 125 | 85 | Steve Schneider |
 | 126 | 84 | Speedy Snapfall |
 | 127 | 84 | Charla Pross-Fugleberg |

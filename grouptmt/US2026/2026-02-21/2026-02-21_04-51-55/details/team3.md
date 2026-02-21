@@ -94,8 +94,8 @@
 | 86 | 203 | Crimson |
 | 87 | 199 | joclisa |
 | 88 | 195 | Nicha Hooker |
-| 89 | 193 | Shunta Jacobs |
-| 90 | 193 | Clever Shiftsnap |
+| 89 | 193 | Clever Shiftsnap |
+| 90 | 193 | Shunta Jacobs |
 | 91 | 192 | Chasity |
 | 92 | 188 | Twisty Brick LT |
 | 93 | 187 | Speedy Bridger |
@@ -120,8 +120,8 @@
 | 112 | 153 | Beth Ingham |
 | 113 | 152 | Shiny Zonebuilder |
 | 114 | 151 | Justin Ritter |
-| 115 | 149 | Trisha Balmer |
-| 116 | 149 | Bea Miles |
+| 115 | 149 | Bea Miles |
+| 116 | 149 | Trisha Balmer |
 | 117 | 146 | Latoya Mayne |
 | 118 | 146 | Denita Mungro |
 | 119 | 140 | Jay Horn |
