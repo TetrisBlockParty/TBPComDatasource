@@ -18,8 +18,8 @@
 | 10 | 500 | Lawrence Belanger |
 | 11 | 497 | Fancy Shuffler |
 | 12 | 473 | Sevens4L |
-| 13 | 455 | Jen Sartain |
-| 14 | 455 | Marianne Louise West |
+| 13 | 455 | Marianne Louise West |
+| 14 | 455 | Jen Sartain |
 | 15 | 451 | Jorge Andrade |
 | 16 | 413 | COOL as Icer |
 | 17 | 399 | Drew Magnus |

@@ -127,10 +127,10 @@
 | 119 | 418 | Mighty Patternzone |
 | 120 | 402 | Sparkles |
 | 121 | 401 | Poppy Snap |
-| 122 | 400 | Thomas Hedrick |
-| 123 | 400 | Crystie Hicks |
-| 124 | 397 | Destiny Cozier |
-| 125 | 397 | Ashley Guernsey-Martin |
+| 122 | 400 | Crystie Hicks |
+| 123 | 400 | Thomas Hedrick |
+| 124 | 397 | Ashley Guernsey-Martin |
+| 125 | 397 | Destiny Cozier |
 | 126 | 391 | Chilly Bridgepiece |
 | 127 | 390 | Dustin Rains |
 | 128 | 386 | Osun Anuket Esu |
@@ -174,8 +174,8 @@
 | 166 | 297 | Julie Kresal |
 | 167 | 296 | Brittney Jean |
 | 168 | 296 | Jennifer Casey-Kay |
-| 169 | 295 | Zany Clusterbuilder |
-| 170 | 295 | Angela Bonquiqui Dinish |
+| 169 | 295 | Angela Bonquiqui Dinish |
+| 170 | 295 | Zany Clusterbuilder |
 | 171 | 295 | Diallo Sparkman |
 | 172 | 294 | Ariel |
 | 173 | 291 | Stacy Stickle |

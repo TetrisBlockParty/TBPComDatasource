@@ -115,8 +115,8 @@
 | 107 | 131 | Emma |
 | 108 | 129 | Giddy Twistbuilder |
 | 109 | 128 | Angel Mendez |
-| 110 | 127 | Aerian Preston |
-| 111 | 127 | Marquita Sheard |
+| 110 | 127 | Marquita Sheard |
+| 111 | 127 | Aerian Preston |
 | 112 | 126 | Dan Rob |
 | 113 | 126 | Brandon Green |
 | 114 | 125 | Stephanie Simpson |
