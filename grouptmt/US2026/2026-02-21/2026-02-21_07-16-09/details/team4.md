@@ -47,8 +47,8 @@
 | 39 | 274 | Elizabeth Sallas |
 | 40 | 272 | Livvy |
 | 41 | 265 | Julian Garcia |
-| 42 | 256 | Dustin Robert |
-| 43 | 256 | Brittney Griggs |
+| 42 | 256 | Brittney Griggs |
+| 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
 | 46 | 231 | Jenna Ingersoll |
@@ -100,8 +100,8 @@
 | 92 | 131 | Dana Scott |
 | 93 | 130 | Lucas J Sutton |
 | 94 | 130 | Casey Jeffcoat |
-| 95 | 129 | Landon Keith Graffeo |
-| 96 | 129 | John Brunetti |
+| 95 | 129 | John Brunetti |
+| 96 | 129 | Landon Keith Graffeo |
 | 97 | 125 | Lauren Scott |
 | 98 | 123 | Bubbly Puzzler |
 | 99 | 123 | Nugget |
@@ -118,11 +118,11 @@
 | 110 | 116 | Diana Houts |
 | 111 | 116 | Serena Goodridge |
 | 112 | 113 | Andria Lynn |
-| 113 | 112 | Bryan Hodgins |
-| 114 | 112 | Austin Owens |
+| 113 | 112 | Austin Owens |
+| 114 | 112 | Bryan Hodgins |
 | 115 | 112 | Brittany Marsh |
-| 116 | 111 | Gwendolyn Pitcairn |
-| 117 | 111 | Lazy Blocker |
+| 116 | 111 | Lazy Blocker |
+| 117 | 111 | Gwendolyn Pitcairn |
 | 118 | 110 | H.R. Block |
 | 119 | 108 | Rio Rocha |
 | 120 | 107 | Marcus Todd |

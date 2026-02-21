@@ -60,8 +60,8 @@
 | 52 | 201 | Anaid Sanchez |
 | 53 | 201 | Ananda Mendez |
 | 54 | 200 | Lexuriuos Lifestlye |
-| 55 | 198 | Happy Snapbuild |
-| 56 | 198 | Billie Dawn Sparks |
+| 55 | 198 | Billie Dawn Sparks |
+| 56 | 198 | Happy Snapbuild |
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
@@ -103,8 +103,8 @@
 | 95 | 128 | Uhog SF |
 | 96 | 128 | lil mickey |
 | 97 | 127 | Michael |
-| 98 | 126 | Rachael |
-| 99 | 126 | Cece Ibarra |
+| 98 | 126 | Cece Ibarra |
+| 99 | 126 | Rachael |
 | 100 | 123 | LaQuetta Faith Hines |
 | 101 | 121 | Bouncy Grid |
 | 102 | 119 | Irual Hctrab |
@@ -119,8 +119,8 @@
 | 111 | 112 | Miguel Teixeira |
 | 112 | 111 | Agustin Duarte Orozco |
 | 113 | 110 | Garcia Bailey |
-| 114 | 110 | Heidi Feurer |
-| 115 | 110 | Bhelle Sumile |
+| 114 | 110 | Bhelle Sumile |
+| 115 | 110 | Heidi Feurer |
 | 116 | 108 | Tavia |
 | 117 | 107 | Jodee Woods |
 | 118 | 106 | Ash Galvan |

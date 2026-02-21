@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Annie Déè |
-| 68 | 342 | Trezure Gonzalez |
+| 67 | 342 | Trezure Gonzalez |
+| 68 | 342 | Annie Déè |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -124,8 +124,8 @@
 | 116 | 184 | Jennie Beranek |
 | 117 | 182 | Hyper Matchzone |
 | 118 | 182 | Ashley Tookes |
-| 119 | 180 | Tessina Dewey-Mancino |
-| 120 | 180 | Fallorina Susana |
+| 119 | 180 | Fallorina Susana |
+| 120 | 180 | Tessina Dewey-Mancino |
 | 121 | 179 | Daira Largen |
 | 122 | 178 | Khaleada McGill Banks |
 | 123 | 176 | Ryan Williams |
@@ -133,8 +133,8 @@
 | 125 | 166 | Danielle Mogg |
 | 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
-| 128 | 159 | Morgan Martinez |
-| 129 | 159 | Jone |
+| 128 | 159 | Jone |
+| 129 | 159 | Morgan Martinez |
 | 130 | 158 | Grams |
 | 131 | 156 | Joey Banks |
 | 132 | 155 | BŘŰŤİÇŨŚ |
@@ -150,8 +150,8 @@
 | 142 | 149 | Bea Miles |
 | 143 | 149 | Trisha Balmer |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Denita Mungro |
-| 146 | 146 | Latoya Mayne |
+| 145 | 146 | Latoya Mayne |
+| 146 | 146 | Denita Mungro |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Jay Horn |
 | 149 | 140 | Gumbo |

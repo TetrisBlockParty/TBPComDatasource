@@ -94,8 +94,8 @@
 | 86 | 658 | Vistabrat |
 | 87 | 658 | Pacynthia Williams |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Anna Edwards |
-| 90 | 649 | Stephanie Chapman |
+| 89 | 649 | Stephanie Chapman |
+| 90 | 649 | Anna Edwards |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -177,8 +177,8 @@
 | 169 | 381 | Amanda Ferrell |
 | 170 | 380 | Joshua Mandel |
 | 171 | 380 | Calandra Shaya Robinson |
-| 172 | 377 | Roy Salyer |
-| 173 | 377 | Liberty |
+| 172 | 377 | Liberty |
+| 173 | 377 | Roy Salyer |
 | 174 | 365 | April Dawn Gussler |
 | 175 | 364 | Shinette Dobson |
 | 176 | 363 | William Meussner |
@@ -214,8 +214,8 @@
 | 206 | 323 | Briana Alexander |
 | 207 | 318 | Trista Dumais |
 | 208 | 317 | Heather Westrum |
-| 209 | 317 | Dizzy Zone |
-| 210 | 317 | bru |
+| 209 | 317 | bru |
+| 210 | 317 | Dizzy Zone |
 | 211 | 314 | Amanda West |
 | 212 | 313 | Brittany Alicia |
 | 213 | 312 | Michelle Pike |
@@ -251,8 +251,8 @@
 | 243 | 278 | Noel Tarmy |
 | 244 | 276 | Lindsey Leigh |
 | 245 | 276 | Vonceial Boone |
-| 246 | 275 | Ann Matzkanin |
-| 247 | 275 | Shiny Rollzone |
+| 246 | 275 | Shiny Rollzone |
+| 247 | 275 | Ann Matzkanin |
 | 248 | 274 | Jamie Stevey |
 | 249 | 274 | Melissa Holsinger |
 | 250 | 274 | Lonne Emade |
@@ -457,10 +457,10 @@
 | 449 | 162 | Brenna Ann |
 | 450 | 161 | Brandon McDonald |
 | 451 | 161 | Snippy Rumbler |
-| 452 | 160 | Cynthia Ward |
+| 452 | 160 | Gary Schaffner Jr. |
 | 453 | 160 | Amy Reynolds |
-| 454 | 160 | Gary Schaffner Jr. |
-| 455 | 160 | Rhonda Petro |
+| 454 | 160 | Rhonda Petro |
+| 455 | 160 | Cynthia Ward |
 | 456 | 160 | Marcie McLain Dodd |
 | 457 | 159 | Bee |
 | 458 | 159 | Ebony Deloach Bryant |
