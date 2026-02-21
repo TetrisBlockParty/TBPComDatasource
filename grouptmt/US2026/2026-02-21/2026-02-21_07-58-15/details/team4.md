@@ -124,8 +124,8 @@
 | 116 | 116 | Diana Houts |
 | 117 | 115 | Ultramarine |
 | 118 | 113 | Andria Lynn |
-| 119 | 112 | Bryan Hodgins |
-| 120 | 112 | Brittany Marsh |
+| 119 | 112 | Brittany Marsh |
+| 120 | 112 | Bryan Hodgins |
 | 121 | 112 | Austin Owens |
 | 122 | 111 | Gwendolyn Pitcairn |
 | 123 | 111 | Lazy Blocker |
@@ -159,9 +159,9 @@
 | 151 | 92 | Kristin MacDonald |
 | 152 | 90 | Judy Cox |
 | 153 | 90 | No Strings Attached Ra |
-| 154 | 89 | Jeremy Steines |
-| 155 | 89 | shark tato |
-| 156 | 89 | mike |
+| 154 | 89 | mike |
+| 155 | 89 | Jeremy Steines |
+| 156 | 89 | shark tato |
 | 157 | 88 | Kesha Brady |
 | 158 | 88 | Heather Tushner |
 | 159 | 87 | Jen Caldwell |
@@ -254,11 +254,11 @@
 | 246 | 61 | Shauna Havard |
 | 247 | 61 | Bradley Reeves |
 | 248 | 60 | Ahleek Mitchell |
-| 249 | 59 | Jasmine S Caldwell |
-| 250 | 59 | Lori |
+| 249 | 59 | Lori |
+| 250 | 59 | Jasmine S Caldwell |
 | 251 | 59 | Jen Mattei |
 | 252 | 58 | Rebecca Morris |
-| 253 | 58 | Gilles Lanctot |
+| 253 | 58 | Autumn Kumzi |
 | 254 | 58 | Paige Kittles |
 | 255 | 58 | Gilles Lanctot |
 | 256 | 57 | Susan Williams |

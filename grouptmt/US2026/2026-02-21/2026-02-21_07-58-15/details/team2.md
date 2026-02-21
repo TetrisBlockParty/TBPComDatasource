@@ -95,11 +95,11 @@
 | 87 | 674 | Dannette Goldberg-Richards |
 | 88 | 672 | Wendy Harder Gage |
 | 89 | 665 | Dineisha Carpenter |
-| 90 | 658 | Vistabrat |
-| 91 | 658 | Pacynthia Williams |
+| 90 | 658 | Pacynthia Williams |
+| 91 | 658 | Vistabrat |
 | 92 | 653 | Becky Weeks-Garry |
-| 93 | 649 | Anna Edwards |
-| 94 | 649 | Stephanie Chapman |
+| 93 | 649 | Stephanie Chapman |
+| 94 | 649 | Anna Edwards |
 | 95 | 631 | Loopy Clusterbuilder |
 | 96 | 620 | BYM4L |
 | 97 | 608 | John Bednarik |
@@ -225,8 +225,8 @@
 | 217 | 323 | Briana Alexander |
 | 218 | 318 | Trista Dumais |
 | 219 | 317 | Heather Westrum |
-| 220 | 317 | Dizzy Zone |
-| 221 | 317 | bru |
+| 220 | 317 | bru |
+| 221 | 317 | Dizzy Zone |
 | 222 | 314 | Deyawn Smith |
 | 223 | 314 | Amanda West |
 | 224 | 313 | Alisa Lamb |
@@ -730,7 +730,7 @@
 | 722 | 109 | hyperbole |
 | 723 | 109 | Stephanie Matas |
 | 724 | 108 | LML |
-| 725 | 108 | Beth Decker |
+| 725 | 108 | Sean Kinsey |
 | 726 | 108 | John-Jessica Manongdo |
 | 727 | 108 | Beth Decker |
 | 728 | 107 | Zesty Pivot |
@@ -738,9 +738,9 @@
 | 730 | 107 | Ashley MoBetta Humes |
 | 731 | 107 | Adrian Benitez |
 | 732 | 107 | Northphilly Fly |
-| 733 | 107 | Dara |
-| 734 | 107 | Funky Riseclear |
-| 735 | 107 | Eileen Hale |
+| 733 | 107 | Funky Riseclear |
+| 734 | 107 | Eileen Hale |
+| 735 | 107 | Dara |
 | 736 | 106 | Mystique89 |
 | 737 | 106 | Jessica Wayne Cornwall |
 | 738 | 106 | Damien Reinbold |
