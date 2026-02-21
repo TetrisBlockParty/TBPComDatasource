@@ -90,16 +90,16 @@
 | 82 | 205 | Sarah Neathery |
 | 83 | 204 | Brittney Orengo |
 | 84 | 201 | shar |
-| 85 | 200 | Monica Daley |
-| 86 | 200 | Holly Jolly |
-| 87 | 198 | Dustee Craddock-Harrison |
-| 88 | 198 | Mike Solo |
+| 85 | 200 | Holly Jolly |
+| 86 | 200 | Monica Daley |
+| 87 | 198 | Mike Solo |
+| 88 | 198 | Dustee Craddock-Harrison |
 | 89 | 194 | Calvin Cannon |
 | 90 | 194 | Zany Twisterfit |
 | 91 | 192 | Shauna Havard |
-| 92 | 191 | Melvin Baird |
-| 93 | 191 | Jeff Brian Gates |
-| 94 | 191 | loulou |
+| 92 | 191 | loulou |
+| 93 | 191 | Melvin Baird |
+| 94 | 191 | Jeff Brian Gates |
 | 95 | 189 | Calvin Dennis |
 | 96 | 187 | Swanky Fitline |
 | 97 | 185 | Andy Cabral |

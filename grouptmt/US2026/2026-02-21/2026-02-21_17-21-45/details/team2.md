@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | James Simms III |
-| 108 | 789 | Stephanie Chapman |
+| 107 | 789 | Stephanie Chapman |
+| 108 | 789 | James Simms III |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -149,8 +149,8 @@
 | 141 | 659 | Poldo Ilano |
 | 142 | 658 | Pacynthia Williams |
 | 143 | 651 | Unica Rector |
-| 144 | 650 | Claire Noland |
-| 145 | 650 | Shiny Rollzone |
+| 144 | 650 | Shiny Rollzone |
+| 145 | 650 | Claire Noland |
 | 146 | 641 | Ricardo Burton |
 | 147 | 632 | Beth |
 | 148 | 631 | Peppy Zone |
@@ -290,8 +290,8 @@
 | 282 | 374 | Lee Harper |
 | 283 | 369 | Tara Lynn Janes |
 | 284 | 367 | Deyawn Smith |
-| 285 | 366 | Wuntayk |
-| 286 | 366 | Mike Aprilliano |
+| 285 | 366 | Mike Aprilliano |
+| 286 | 366 | Wuntayk |
 | 287 | 365 | Christina Lewis-Vickers |
 | 288 | 365 | Audrey Jones |
 | 289 | 364 | Shinette Dobson |
@@ -299,8 +299,8 @@
 | 291 | 363 | William Meussner |
 | 292 | 362 | AkaLefty |
 | 293 | 360 | Brenda Messer |
-| 294 | 359 | Johnny Yeates |
-| 295 | 359 | Mighty Shatterfit |
+| 294 | 359 | Mighty Shatterfit |
+| 295 | 359 | Johnny Yeates |
 | 296 | 358 | Smashanator |
 | 297 | 358 | Alyssaaelena |
 | 298 | 357 | Shannon Byrd |

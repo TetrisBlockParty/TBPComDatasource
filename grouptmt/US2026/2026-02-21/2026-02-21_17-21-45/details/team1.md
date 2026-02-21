@@ -100,8 +100,8 @@
 | 92 | 193 | Lachelle Dillon |
 | 93 | 192 | Shaykmia |
 | 94 | 191 | Diane Byrd |
-| 95 | 190 | Sweetts |
-| 96 | 190 | Thorne Shumate |
+| 95 | 190 | Thorne Shumate |
+| 96 | 190 | Sweetts |
 | 97 | 189 | Happy Basegrid |
 | 98 | 186 | Jennifer Olewnik Soborowski |
 | 99 | 185 | Ash Galvan |
@@ -116,8 +116,8 @@
 | 108 | 171 | David DeSantis |
 | 109 | 169 | Abbey Crespo |
 | 110 | 168 | Standia Civil |
-| 111 | 166 | Tana |
-| 112 | 166 | Rico Rico |
+| 111 | 166 | Rico Rico |
+| 112 | 166 | Tana |
 | 113 | 165 | GATOR |
 | 114 | 165 | Veronica Eve |
 | 115 | 163 | Kellie |
@@ -180,8 +180,8 @@
 | 172 | 119 | Tater |
 | 173 | 116 | Jessica Russell |
 | 174 | 116 | Evie Khalil |
-| 175 | 115 | Chuck Gannon |
-| 176 | 115 | Mrs.Patrica |
+| 175 | 115 | Mrs.Patrica |
+| 176 | 115 | Chuck Gannon |
 | 177 | 113 | Desiree Deschaine Havee |
 | 178 | 112 | Chris65 |
 | 179 | 112 | pjbeta |

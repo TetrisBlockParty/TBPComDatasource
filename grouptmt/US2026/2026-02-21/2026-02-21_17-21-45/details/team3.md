@@ -113,10 +113,10 @@
 | 105 | 320 | Or Reznitsky |
 | 106 | 318 | Chasity |
 | 107 | 316 | Fancy Cascader |
-| 108 | 309 | CeceGeGe |
-| 109 | 309 | Rich LeBlanc |
-| 110 | 307 | Peggi Charon |
-| 111 | 307 | Blocked |
+| 108 | 309 | Rich LeBlanc |
+| 109 | 309 | CeceGeGe |
+| 110 | 307 | Blocked |
+| 111 | 307 | Peggi Charon |
 | 112 | 300 | Sherika C. McDaniels |
 | 113 | 300 | Tessina Dewey-Mancino |
 | 114 | 293 | Poppy Splitter |
@@ -154,8 +154,8 @@
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
 | 148 | 207 | Chris Bell |
-| 149 | 207 | rnr junky |
-| 150 | 207 | Jessica |
+| 149 | 207 | Jessica |
+| 150 | 207 | rnr junky |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 199 | Rochelle Hazelett |
@@ -195,16 +195,16 @@
 | 187 | 166 | Beth Ingham |
 | 188 | 166 | Betty Rosas |
 | 189 | 165 | Kali Kelz Williams |
-| 190 | 163 | Stephanie Hill |
-| 191 | 163 | Christine Trester |
+| 190 | 163 | Christine Trester |
+| 191 | 163 | Stephanie Hill |
 | 192 | 162 | Stephanie Whitefield |
 | 193 | 161 | BŘŰŤİÇŨŚ |
 | 194 | 160 | Tiffany Davie |
 | 195 | 159 | Jone |
 | 196 | 158 | Grams |
 | 197 | 157 | Marquita Sheard |
-| 198 | 157 | Nicholas Roddy |
-| 199 | 157 | Patricia Gadsden |
+| 198 | 157 | Patricia Gadsden |
+| 199 | 157 | Nicholas Roddy |
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
@@ -228,8 +228,8 @@
 | 220 | 145 | Bryan Byrd |
 | 221 | 145 | Emma |
 | 222 | 142 | Jl |
-| 223 | 142 | David Bardo |
-| 224 | 142 | Erica Anderson |
+| 223 | 142 | Erica Anderson |
+| 224 | 142 | David Bardo |
 | 225 | 138 | Boldy Corner |
 | 226 | 137 | Joy Petroski |
 | 227 | 137 | Cheryl Hinch Tenbrook |
@@ -293,8 +293,8 @@
 | 285 | 106 | Cheeky Snapper |
 | 286 | 106 | Noettín Kan Zasnemoore |
 | 287 | 105 | Donna |
-| 288 | 105 | Boldy Blocker |
-| 289 | 105 | Emi |
+| 288 | 105 | Emi |
+| 289 | 105 | Boldy Blocker |
 | 290 | 104 | bean |
 | 291 | 104 | Samantha Lynn |
 | 292 | 104 | RickyG |
