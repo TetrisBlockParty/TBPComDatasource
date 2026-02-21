@@ -53,8 +53,8 @@
 | 45 | 444 | Nate Burnside |
 | 46 | 416 | Fancy Slam |
 | 47 | 390 | Kristie |
-| 48 | 387 | Nerdy Spinblock |
-| 49 | 387 | Cherry Parker |
+| 48 | 387 | Cherry Parker |
+| 49 | 387 | Nerdy Spinblock |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
 | 52 | 372 | Patty Allen |
@@ -108,17 +108,17 @@
 | 100 | 192 | Chasity |
 | 101 | 187 | Speedy Bridger |
 | 102 | 184 | Jennie Beranek |
-| 103 | 182 | Hyper Matchzone |
-| 104 | 182 | Ashley Tookes |
-| 105 | 180 | Fallorina Susana |
-| 106 | 180 | Tessina Dewey-Mancino |
+| 103 | 182 | Ashley Tookes |
+| 104 | 182 | Hyper Matchzone |
+| 105 | 180 | Tessina Dewey-Mancino |
+| 106 | 180 | Fallorina Susana |
 | 107 | 179 | Daira Largen |
 | 108 | 178 | Khaleada McGill Banks |
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Morgan Martinez |
-| 113 | 159 | Jone |
+| 112 | 159 | Jone |
+| 113 | 159 | Morgan Martinez |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |

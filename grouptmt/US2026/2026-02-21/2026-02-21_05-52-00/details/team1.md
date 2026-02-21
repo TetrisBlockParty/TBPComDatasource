@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Maria C. Hernandez |
-| 27 | 281 | Nancy Green |
+| 26 | 281 | Nancy Green |
+| 27 | 281 | Maria C. Hernandez |
 | 28 | 274 | Sweet Baker |
 | 29 | 274 | Theo Pinnow |
 | 30 | 265 | Jennifer Cates |
