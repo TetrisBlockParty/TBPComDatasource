@@ -408,8 +408,8 @@
 | 400 | 357 | Shannon Byrd |
 | 401 | 356 | Adam Simmons |
 | 402 | 355 | Shandrica Lowe |
-| 403 | 354 | Lawanda Forbes |
-| 404 | 354 | Darlene Bowman |
+| 403 | 354 | Darlene Bowman |
+| 404 | 354 | Lawanda Forbes |
 | 405 | 354 | Rickey Johnson |
 | 406 | 353 | Cheery Matchzone |
 | 407 | 352 | ruth |
@@ -433,8 +433,8 @@
 | 425 | 342 | Amber Brion |
 | 426 | 342 | Ebony Deloach Bryant |
 | 427 | 341 | Daniel Amos |
-| 428 | 339 | Frisky Clearpiece |
-| 429 | 339 | Cool Rollpiece |
+| 428 | 339 | Cool Rollpiece |
+| 429 | 339 | Frisky Clearpiece |
 | 430 | 338 | Shorty |
 | 431 | 337 | Sassy Pattern |
 | 432 | 336 | Hong Tang |

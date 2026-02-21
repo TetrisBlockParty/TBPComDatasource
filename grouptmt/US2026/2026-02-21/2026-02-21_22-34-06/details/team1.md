@@ -121,8 +121,8 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Jaimie Lynn |
-| 117 | 212 | Mandyy Rae |
+| 116 | 212 | Mandyy Rae |
+| 117 | 212 | Jaimie Lynn |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |

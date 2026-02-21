@@ -68,8 +68,8 @@
 | 60 | 603 | Elaine Webb Graves |
 | 61 | 591 | Suzieq |
 | 62 | 588 | yoyo |
-| 63 | 582 | Katrina Schroeder |
-| 64 | 582 | Natasha Jones |
+| 63 | 582 | Natasha Jones |
+| 64 | 582 | Katrina Schroeder |
 | 65 | 581 | Danielle Mogg |
 | 66 | 580 | Amanda L Baker |
 | 67 | 566 | Dan Rob |
