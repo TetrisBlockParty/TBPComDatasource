@@ -58,8 +58,8 @@
 | 50 | 362 | Liv Whetson |
 | 51 | 360 | Ebony West-Cundiff |
 | 52 | 351 | Calista Jo Dickson |
-| 53 | 342 | Annie Déè |
-| 54 | 342 | Trezure Gonzalez |
+| 53 | 342 | Trezure Gonzalez |
+| 54 | 342 | Annie Déè |
 | 55 | 338 | Danielle Rhoades |
 | 56 | 337 | Silly Twist |
 | 57 | 325 | Shari Garber |
@@ -71,8 +71,8 @@
 | 63 | 304 | Tasha Schriewer |
 | 64 | 300 | Sherika C. McDaniels |
 | 65 | 298 | Ashley Raines |
-| 66 | 272 | Mahman |
-| 67 | 272 | Cherry Parker |
+| 66 | 272 | Cherry Parker |
+| 67 | 272 | Mahman |
 | 68 | 261 | Chauntee Alfrey-Cardinale |
 | 69 | 251 | Rufus Lincoln |
 | 70 | 249 | Denise Nardoni |
@@ -188,8 +188,8 @@
 | 180 | 95 | Elaine Webb Graves |
 | 181 | 95 | Demetrious Shaw Sr. |
 | 182 | 95 | Brooke Bauer |
-| 183 | 94 | Angie Harper |
-| 184 | 94 | Carrie Huskey |
+| 183 | 94 | Carrie Huskey |
+| 184 | 94 | Angie Harper |
 | 185 | 93 | Tiffany Ford |
 | 186 | 92 | Jennifer Caputo |
 | 187 | 90 | Eon Harris |

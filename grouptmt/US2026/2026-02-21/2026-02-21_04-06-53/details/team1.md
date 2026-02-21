@@ -53,8 +53,8 @@
 | 45 | 190 | Sweetts |
 | 46 | 189 | Happy Basegrid |
 | 47 | 186 | Billie Dawn Sparks |
-| 48 | 185 | Karin Gillen |
-| 49 | 185 | Giggly Builderline |
+| 48 | 185 | Giggly Builderline |
+| 49 | 185 | Karin Gillen |
 | 50 | 173 | Frothy Pattern |
 | 51 | 171 | Robert Beck |
 | 52 | 169 | Erez Yosef |
@@ -120,8 +120,8 @@
 | 112 | 90 | TSwag |
 | 113 | 90 | Madison Wicks |
 | 114 | 87 | Jessi Sauer |
-| 115 | 86 | Desiree Deschaine Havee |
-| 116 | 86 | Basment Living |
+| 115 | 86 | Basment Living |
+| 116 | 86 | Desiree Deschaine Havee |
 | 117 | 85 | Steve Schneider |
 | 118 | 84 | Charla Pross-Fugleberg |
 | 119 | 84 | Yvonne Marie |

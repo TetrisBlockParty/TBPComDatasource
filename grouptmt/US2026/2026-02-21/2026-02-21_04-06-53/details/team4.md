@@ -51,8 +51,8 @@
 | 43 | 185 | loulou |
 | 44 | 179 | Epic Curvetile |
 | 45 | 171 | Michelle Marie |
-| 46 | 170 | Girl |
-| 47 | 170 | Leah Kutz Zirbel |
+| 46 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Girl |
 | 48 | 169 | Julian Garcia |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 160 | Denise Carlson |

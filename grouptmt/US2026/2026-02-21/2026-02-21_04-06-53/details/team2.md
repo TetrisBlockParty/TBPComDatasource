@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -188,9 +188,9 @@
 | 180 | 309 | Tralonda Weeks |
 | 181 | 299 | Christy Krissie |
 | 182 | 296 | Jennifer Casey-Kay |
-| 183 | 295 | Diallo Sparkman |
-| 184 | 295 | Angela Bonquiqui Dinish |
-| 185 | 295 | Zany Clusterbuilder |
+| 183 | 295 | Angela Bonquiqui Dinish |
+| 184 | 295 | Zany Clusterbuilder |
+| 185 | 295 | Diallo Sparkman |
 | 186 | 293 | David Holliday |
 | 187 | 290 | Jessie McDougald |
 | 188 | 288 | Kristopher Miller |
@@ -222,8 +222,8 @@
 | 214 | 263 | Taylor Flowers |
 | 215 | 263 | August Hale |
 | 216 | 262 | Taren Cowan |
-| 217 | 261 | MrsClaudette Will'sIam Matthews |
-| 218 | 261 | Ann Matzkanin |
+| 217 | 261 | Ann Matzkanin |
+| 218 | 261 | MrsClaudette Will'sIam Matthews |
 | 219 | 260 | Dapper Dasher |
 | 220 | 257 | Shameika Trail |
 | 221 | 255 | Santana Miyagi |
@@ -408,8 +408,8 @@
 | 400 | 146 | Jennifer Leigh |
 | 401 | 146 | JacJac |
 | 402 | 145 | Catina Hutchison |
-| 403 | 145 | William Hughes |
-| 404 | 145 | Scott Rackley |
+| 403 | 145 | Scott Rackley |
+| 404 | 145 | William Hughes |
 | 405 | 144 | Bette Prieto |
 | 406 | 144 | Tee Davis |
 | 407 | 144 | Alexis Richardson |
