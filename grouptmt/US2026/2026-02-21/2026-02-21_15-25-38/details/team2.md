@@ -655,10 +655,10 @@
 | 647 | 157 | Britney M. |
 | 648 | 157 | Ty Quarles |
 | 649 | 157 | Andrew Bratton-Tomes |
-| 650 | 156 | Deanna Morton |
-| 651 | 156 | Gemini Washington |
-| 652 | 156 | Renee Bowers |
-| 653 | 156 | Elizabeth Cotton |
+| 650 | 156 | Gemini Washington |
+| 651 | 156 | Deanna Morton |
+| 652 | 156 | Elizabeth Cotton |
+| 653 | 156 | Renee Bowers |
 | 654 | 155 | Monarca26 |
 | 655 | 155 | Chelle |
 | 656 | 155 | Cris cris |

@@ -101,8 +101,8 @@
 | 93 | 178 | Lori |
 | 94 | 177 | Andria Lynn |
 | 95 | 174 | Zethra Prenisha Rahming |
-| 96 | 173 | Jeff Brian Gates |
-| 97 | 173 | Justin Hannigan |
+| 96 | 173 | Justin Hannigan |
+| 97 | 173 | Jeff Brian Gates |
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 167 | Denise Carlson |
@@ -110,8 +110,8 @@
 | 102 | 164 | ThaEviLJeNiuZ |
 | 103 | 162 | Shauna Havard |
 | 104 | 161 | Joeliecea Cobb |
-| 105 | 160 | ZeeZee |
-| 106 | 160 | Stacey Stano |
+| 105 | 160 | Stacey Stano |
+| 106 | 160 | ZeeZee |
 | 107 | 159 | Holly Jolly |
 | 108 | 157 | quicksand420 |
 | 109 | 156 | Holly |

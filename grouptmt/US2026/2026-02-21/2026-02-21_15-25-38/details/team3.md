@@ -102,8 +102,8 @@
 | 94 | 320 | Or Reznitsky |
 | 95 | 316 | Fancy Cascader |
 | 96 | 315 | Elaine Webb Graves |
-| 97 | 309 | Rich LeBlanc |
-| 98 | 309 | CeceGeGe |
+| 97 | 309 | CeceGeGe |
+| 98 | 309 | Rich LeBlanc |
 | 99 | 307 | Peggi Charon |
 | 100 | 307 | Blocked |
 | 101 | 306 | Speedy Bridger |
@@ -261,9 +261,9 @@
 | 253 | 110 | Tye Stovall |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
-| 256 | 109 | Diana Ibarra |
-| 257 | 109 | Brave Brickster |
-| 258 | 109 | mommablock |
+| 256 | 109 | Brave Brickster |
+| 257 | 109 | mommablock |
+| 258 | 109 | Diana Ibarra |
 | 259 | 108 | Rachel Napper |
 | 260 | 108 | Hanna Kim |
 | 261 | 108 | LaTanya GeminiondaRise Johnson |
