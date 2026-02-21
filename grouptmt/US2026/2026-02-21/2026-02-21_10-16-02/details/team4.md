@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -82,12 +82,12 @@
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 170 | Girl |
 | 76 | 167 | Denise Carlson |
-| 77 | 165 | Casey Grabner |
-| 78 | 165 | Courtney Cicoria |
+| 77 | 165 | Courtney Cicoria |
+| 78 | 165 | Casey Grabner |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -149,10 +149,10 @@
 | 141 | 104 | YoMomma |
 | 142 | 104 | Damn Libra |
 | 143 | 104 | Adam Randall |
-| 144 | 102 | Faja |
-| 145 | 102 | ĥuf |
-| 146 | 101 | Michelle Morris |
-| 147 | 101 | Saulc1991 |
+| 144 | 102 | ĥuf |
+| 145 | 102 | Faja |
+| 146 | 101 | Saulc1991 |
+| 147 | 101 | Michelle Morris |
 | 148 | 100 | Alexandra Karavias |
 | 149 | 99 | KM8 |
 | 150 | 98 | Duck |

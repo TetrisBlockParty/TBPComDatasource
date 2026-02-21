@@ -287,8 +287,8 @@
 | 279 | 278 | Noel Tarmy |
 | 280 | 278 | Peachy Blockbuilder |
 | 281 | 276 | Lindsey Leigh |
-| 282 | 276 | SwampRebel |
-| 283 | 276 | Vonceial Boone |
+| 282 | 276 | Vonceial Boone |
+| 283 | 276 | SwampRebel |
 | 284 | 275 | Cheeky Brickmatch |
 | 285 | 275 | Ann Matzkanin |
 | 286 | 275 | Shiny Rollzone |
@@ -346,8 +346,8 @@
 | 338 | 245 | Taryece Gause |
 | 339 | 244 | Aimee Byrom |
 | 340 | 243 | Brandy Andre |
-| 341 | 242 | Donna Chandler |
-| 342 | 242 | Lawanda Forbes |
+| 341 | 242 | Lawanda Forbes |
+| 342 | 242 | Donna Chandler |
 | 343 | 242 | Hyper Cluster |
 | 344 | 241 | Sabrina Burton |
 | 345 | 240 | Adam Erikson |
@@ -415,8 +415,8 @@
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Alyssa Dean |
 | 409 | 197 | Alyssa Nadine Medelez |
-| 410 | 196 | Cass Shirley |
-| 411 | 196 | Alexandra Reese |
+| 410 | 196 | Alexandra Reese |
+| 411 | 196 | Cass Shirley |
 | 412 | 196 | Besma Ao |
 | 413 | 195 | Emily Lyric Converse |
 | 414 | 195 | Unica Rector |
@@ -551,12 +551,12 @@
 | 543 | 150 | Candace Noel |
 | 544 | 149 | Leslie Porter |
 | 545 | 149 | Boldy Cascadepiece |
-| 546 | 149 | Brianna Cerney |
-| 547 | 149 | Melissa Rebbe-Lehman |
+| 546 | 149 | Melissa Rebbe-Lehman |
+| 547 | 149 | Brianna Cerney |
 | 548 | 148 | Cleo Sims |
 | 549 | 148 | AgileDragon |
-| 550 | 147 | Sassy Pivot |
-| 551 | 147 | Smiley Strike |
+| 550 | 147 | Smiley Strike |
+| 551 | 147 | Sassy Pivot |
 | 552 | 147 | Jeremy Parodi |
 | 553 | 146 | Ibiza Carolina LaRose |
 | 554 | 146 | Sherry Aguinaga |

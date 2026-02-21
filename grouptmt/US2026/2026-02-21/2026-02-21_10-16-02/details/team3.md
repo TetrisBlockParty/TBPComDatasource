@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -135,15 +135,15 @@
 | 127 | 182 | Hyper Matchzone |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Kelly Ann Child |
 | 134 | 166 | Danielle Mogg |
 | 135 | 165 | Kali Kelz Williams |
 | 136 | 164 | rosy |
-| 137 | 163 | Karon Griffin |
-| 138 | 163 | Giddy Twistbuilder |
+| 137 | 163 | Giddy Twistbuilder |
+| 138 | 163 | Karon Griffin |
 | 139 | 159 | Mcathen |
 | 140 | 159 | Morgan Martinez |
 | 141 | 159 | Jone |
@@ -211,14 +211,14 @@
 | 203 | 113 | Brian Battjes |
 | 204 | 113 | Valerie Gendron |
 | 205 | 111 | Stephanie Zahm |
-| 206 | 110 | Stella |
-| 207 | 110 | Tye Stovall |
-| 208 | 110 | Danielle Weikel |
+| 206 | 110 | Tye Stovall |
+| 207 | 110 | Danielle Weikel |
+| 208 | 110 | Stella |
 | 209 | 109 | Fredd Thomas |
 | 210 | 109 | Diana Ibarra |
 | 211 | 109 | Brave Brickster |
-| 212 | 108 | LaTanya GeminiondaRise Johnson |
-| 213 | 108 | Rachel Napper |
+| 212 | 108 | Rachel Napper |
+| 213 | 108 | LaTanya GeminiondaRise Johnson |
 | 214 | 107 | Sherry Ogden |
 | 215 | 106 | Eon Harris |
 | 216 | 106 | Desiree Gold |
@@ -234,8 +234,8 @@
 | 226 | 104 | Ashley Rufus Bythcez |
 | 227 | 103 | BabyTonj Evans |
 | 228 | 102 | Christian Luna |
-| 229 | 101 | Hyper Bridger |
-| 230 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 229 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 230 | 101 | Hyper Bridger |
 | 231 | 100 | Demetrious Shaw Sr. |
 | 232 | 100 | Bobbi Moore |
 | 233 | 100 | Edwin Calvillo Jr. |
@@ -261,8 +261,8 @@
 | 253 | 94 | Angie Harper |
 | 254 | 93 | Tiffany Ford |
 | 255 | 92 | Jennifer Caputo |
-| 256 | 92 | Ava Petito |
-| 257 | 92 | Trice Thomas |
+| 256 | 92 | Trice Thomas |
+| 257 | 92 | Ava Petito |
 | 258 | 91 | Martin Bernier |
 | 259 | 90 | Tiffany Kaupang |
 | 260 | 90 | Snazzy Brickzone |
