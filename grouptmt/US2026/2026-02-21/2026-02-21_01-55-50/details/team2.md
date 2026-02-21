@@ -366,8 +366,8 @@
 | 358 | 126 | Ethan Stienbarger |
 | 359 | 125 | Tina Marie |
 | 360 | 125 | Martina Gabrielle LaPolla |
-| 361 | 125 | Chilly Rollblock |
-| 362 | 125 | Marsha Sosa Kiech |
+| 361 | 125 | Marsha Sosa Kiech |
+| 362 | 125 | Chilly Rollblock |
 | 363 | 124 | Erica Williams |
 | 364 | 124 | Jazzy Grabber |
 | 365 | 124 | Samantha Williams-Bittner |

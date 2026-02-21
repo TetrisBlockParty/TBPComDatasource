@@ -118,8 +118,8 @@
 | 110 | 75 | Tyler L Hunt |
 | 111 | 75 | Fresno Beotoni |
 | 112 | 74 | Grace Joanne Agnant |
-| 113 | 73 | Witty Builderfit |
-| 114 | 73 | Loony Fitzone |
+| 113 | 73 | Loony Fitzone |
+| 114 | 73 | Witty Builderfit |
 | 115 | 72 | Tipsy Strikerpiece |
 | 116 | 71 | John Kim |
 | 117 | 69 | Christina Torres |

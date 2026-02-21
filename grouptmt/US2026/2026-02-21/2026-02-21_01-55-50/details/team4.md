@@ -42,8 +42,8 @@
 | 34 | 170 | Leah Kutz Zirbel |
 | 35 | 168 | Anthony Magaraci |
 | 36 | 167 | Rachel Anne |
-| 37 | 153 | Lucille Truesdale |
-| 38 | 153 | Kimyatta Cavin |
+| 37 | 153 | Kimyatta Cavin |
+| 38 | 153 | Lucille Truesdale |
 | 39 | 147 | Courtney Cicoria |
 | 40 | 141 | Edward White |
 | 41 | 140 | Carter Jones |

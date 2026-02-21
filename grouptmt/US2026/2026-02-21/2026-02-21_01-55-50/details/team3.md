@@ -117,9 +117,9 @@
 | 109 | 112 | Jimmie Clemons |
 | 110 | 112 | Connie Mohler-Fair |
 | 111 | 111 | Joy Petroski |
-| 112 | 110 | Jesse Olive |
-| 113 | 110 | Tiff Vs Tiffany |
-| 114 | 110 | Stella |
+| 112 | 110 | Stella |
+| 113 | 110 | Jesse Olive |
+| 114 | 110 | Tiff Vs Tiffany |
 | 115 | 108 | Grams |
 | 116 | 108 | Rachel Napper |
 | 117 | 107 | Bryan Byrd |
@@ -163,8 +163,8 @@
 | 155 | 84 | Flashy Rumbler |
 | 156 | 83 | LaTanya GeminiondaRise Johnson |
 | 157 | 82 | Crystel b520 |
-| 158 | 82 | Rebel124 |
-| 159 | 82 | Clever Clearbuilder |
+| 158 | 82 | Clever Clearbuilder |
+| 159 | 82 | Rebel124 |
 | 160 | 81 | Tina Baurdau |
 | 161 | 80 | Vixen Queen |
 | 162 | 80 | Chris Bell |
