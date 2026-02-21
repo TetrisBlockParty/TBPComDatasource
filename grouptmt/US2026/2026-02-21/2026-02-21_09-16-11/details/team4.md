@@ -20,8 +20,8 @@
 | 12 | 608 | Denny Shives |
 | 13 | 606 | Rachel Anne |
 | 14 | 594 | Lucille Truesdale |
-| 15 | 590 | Dee Kay |
-| 16 | 590 | Valerie Roberts |
+| 15 | 590 | Valerie Roberts |
+| 16 | 590 | Dee Kay |
 | 17 | 589 | Chilly Line |
 | 18 | 587 | Koshin Abdirahman |
 | 19 | 578 | Leah Gorsuch |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Degenerate |
-| 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Jessica Cagle |
+| 94 | 132 | Melissa Priest Sellers |
+| 95 | 132 | Jessica Cagle |
+| 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
 | 99 | 131 | Zany Twisterfit |
@@ -201,10 +201,10 @@
 | 193 | 79 | Kametsunoyaiba |
 | 194 | 78 | Jessica Miller |
 | 195 | 78 | Zesty Linkgrid |
-| 196 | 77 | Marvin Lou Martin |
-| 197 | 77 | Twisty Cascadezone |
-| 198 | 77 | Chris Alexinas |
-| 199 | 77 | Zippy Gridlock |
+| 196 | 77 | Chris Alexinas |
+| 197 | 77 | Zippy Gridlock |
+| 198 | 77 | Twisty Cascadezone |
+| 199 | 77 | Marvin Lou Martin |
 | 200 | 76 | Madison Sweere |
 | 201 | 76 | Bethany Ison |
 | 202 | 75 | Rosemary Foster |
