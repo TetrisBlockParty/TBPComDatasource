@@ -137,8 +137,8 @@
 | 129 | 178 | Chad Atchley |
 | 130 | 177 | Michael |
 | 131 | 176 | Basment Living |
-| 132 | 171 | Greg Premoe |
-| 133 | 171 | David DeSantis |
+| 132 | 171 | David DeSantis |
+| 133 | 171 | Greg Premoe |
 | 134 | 170 | Veronica Eve |
 | 135 | 169 | Luciano Moreira |
 | 136 | 169 | Abbey Crespo |
@@ -280,7 +280,7 @@
 | 272 | 88 | Colleen Pinette |
 | 273 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 274 | 86 | Steven Collins |
-| 275 | 85 | Lakeisha Chapman |
+| 275 | 85 | Angela Renea Lester |
 | 276 | 85 | Bob |
 | 277 | 85 | Timothy Danaher |
 | 278 | 85 | Lakeisha Chapman |

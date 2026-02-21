@@ -107,10 +107,10 @@
 | 99 | 205 | Sarah Neathery |
 | 100 | 204 | Dana Scott |
 | 101 | 203 | Denise Carlson |
-| 102 | 202 | Monica Daley |
-| 103 | 202 | shar |
-| 104 | 198 | Chaz Duncan |
-| 105 | 198 | Mike Solo |
+| 102 | 202 | shar |
+| 103 | 202 | Monica Daley |
+| 104 | 198 | Mike Solo |
+| 105 | 198 | Chaz Duncan |
 | 106 | 197 | Swanky Fitline |
 | 107 | 196 | Jeff Brian Gates |
 | 108 | 194 | Zany Twisterfit |
@@ -173,7 +173,7 @@
 | 165 | 134 | Zany Shatterer |
 | 166 | 134 | Kim Klutz Olson |
 | 167 | 133 | Angela Geist Jusinski |
-| 168 | 132 | Melissa Priest Sellers |
+| 168 | 132 | Degenerate |
 | 169 | 132 | Jessica Cagle |
 | 170 | 132 | Melissa Priest Sellers |
 | 171 | 131 | TinyLegoRose |

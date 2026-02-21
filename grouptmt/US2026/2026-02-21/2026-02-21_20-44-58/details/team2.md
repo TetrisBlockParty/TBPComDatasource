@@ -247,8 +247,8 @@
 | 239 | 510 | Laquetta Royston |
 | 240 | 509 | Kelli Wells |
 | 241 | 508 | Allan Wayne Lamia |
-| 242 | 504 | Cherica Taylor |
-| 243 | 504 | Gene Mills |
+| 242 | 504 | Gene Mills |
+| 243 | 504 | Cherica Taylor |
 | 244 | 503 | tejas25 |
 | 245 | 503 | AISlop |
 | 246 | 502 | Magic steve |
@@ -325,8 +325,8 @@
 | 317 | 409 | Sparkles |
 | 318 | 406 | Heather Schelkopf |
 | 319 | 406 | Erin StFrancis |
-| 320 | 405 | Sarah Massey |
-| 321 | 405 | Christy Krissie |
+| 320 | 405 | Christy Krissie |
+| 321 | 405 | Sarah Massey |
 | 322 | 402 | Brandy Andre |
 | 323 | 401 | Taylor Flowers |
 | 324 | 400 | Tammy Allen |
@@ -400,8 +400,8 @@
 | 392 | 344 | Glenn Cobbins |
 | 393 | 342 | Ebony Deloach Bryant |
 | 394 | 342 | Fi Ne |
-| 395 | 342 | Angi Harrison |
-| 396 | 342 | Sydney Busse |
+| 395 | 342 | Sydney Busse |
+| 396 | 342 | Angi Harrison |
 | 397 | 339 | Cool Rollpiece |
 | 398 | 337 | Sassy Pattern |
 | 399 | 335 | Brooke Leigh Strube |
