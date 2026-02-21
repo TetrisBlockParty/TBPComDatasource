@@ -138,8 +138,8 @@
 | 130 | 120 | Joshua Guess |
 | 131 | 119 | Kristin Manee |
 | 132 | 118 | Leslie Nicole |
-| 133 | 116 | Diana Houts |
-| 134 | 116 | Stephme310 |
+| 133 | 116 | Stephme310 |
+| 134 | 116 | Diana Houts |
 | 135 | 115 | Jayk |
 | 136 | 115 | Ultramarine |
 | 137 | 113 | Adam Randall |
@@ -251,7 +251,7 @@
 | 243 | 72 | Sam Bishop |
 | 244 | 71 | Marcela Johnson |
 | 245 | 71 | Ericca Eldridge |
-| 246 | 70 | Thomas Hettenhaus |
+| 246 | 70 | Niome Encinias |
 | 247 | 70 | Richard-April Kice |
 | 248 | 70 | Ahleek Mitchell |
 | 249 | 70 | Patron Anderson |

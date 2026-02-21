@@ -66,8 +66,8 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Jaimie Lynn |
-| 62 | 212 | Tdub |
+| 61 | 212 | Tdub |
+| 62 | 212 | Jaimie Lynn |
 | 63 | 211 | Marianita Garcia |
 | 64 | 208 | Carrie Beck Geartz |
 | 65 | 208 | Mandyy Rae |
@@ -142,8 +142,8 @@
 | 134 | 116 | Evie Khalil |
 | 135 | 115 | Chuck Gannon |
 | 136 | 115 | Mrs.Patrica |
-| 137 | 114 | Colleen Wise |
-| 138 | 114 | Giddy Cascade |
+| 137 | 114 | Giddy Cascade |
+| 138 | 114 | Colleen Wise |
 | 139 | 113 | Desiree Deschaine Havee |
 | 140 | 112 | Chris65 |
 | 141 | 112 | Nicole Roseberry Weber |
@@ -329,7 +329,7 @@
 | 321 | 56 | Skuba Cece |
 | 322 | 55 | Ruf Lowman |
 | 323 | 55 | David Lutcher |
-| 324 | 55 | Ruf Lowman |
+| 324 | 55 | Panda Thagreat |
 | 325 | 55 | Danielle Mae |
 | 326 | 54 | Theeranart Mahawan |
 | 327 | 54 | Michael Butler |

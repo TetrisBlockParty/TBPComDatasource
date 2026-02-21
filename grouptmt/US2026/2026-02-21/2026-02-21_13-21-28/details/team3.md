@@ -31,12 +31,12 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Delilah belle |
-| 27 | 867 | Briarblack |
+| 26 | 867 | Briarblack |
+| 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -198,8 +198,8 @@
 | 190 | 133 | Joy Petroski |
 | 191 | 131 | Jl |
 | 192 | 129 | Lesley Perez |
-| 193 | 128 | Jen Lewis |
-| 194 | 128 | David Bardo |
+| 193 | 128 | David Bardo |
+| 194 | 128 | Jen Lewis |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
 | 197 | 125 | Felicia Doxey |

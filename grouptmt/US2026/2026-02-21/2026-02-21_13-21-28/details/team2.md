@@ -209,8 +209,8 @@
 | 201 | 409 | Sparkles |
 | 202 | 406 | Erin StFrancis |
 | 203 | 402 | Joshua Mandel |
-| 204 | 400 | Rhonda Milstead |
-| 205 | 400 | Tammy Allen |
+| 204 | 400 | Tammy Allen |
+| 205 | 400 | Rhonda Milstead |
 | 206 | 400 | Crystie Hicks |
 | 207 | 397 | Ashley Guernsey-Martin |
 | 208 | 397 | coleksquad |
@@ -509,8 +509,8 @@
 | 501 | 179 | Cat |
 | 502 | 178 | Michelle Shrum |
 | 503 | 178 | Cathy Bitters |
-| 504 | 177 | Angel |
-| 505 | 177 | John |
+| 504 | 177 | John |
+| 505 | 177 | Angel |
 | 506 | 177 | Ryan Meilleur |
 | 507 | 177 | Facuetoo |
 | 508 | 176 | Jennifer Malloy - Cardy |
@@ -536,8 +536,8 @@
 | 528 | 168 | Phil J. Grombliniak |
 | 529 | 168 | Nicol Craven |
 | 530 | 168 | Kati Russeau |
-| 531 | 167 | Sabrena Yeisley |
-| 532 | 167 | mshir |
+| 531 | 167 | mshir |
+| 532 | 167 | Sabrena Yeisley |
 | 533 | 166 | Lakeela Wise |
 | 534 | 166 | suuny |
 | 535 | 166 | Morgan Easter |
@@ -775,11 +775,11 @@
 | 767 | 123 | Cool Slam |
 | 768 | 123 | Renee Griffith |
 | 769 | 122 | Chere Kelly |
-| 770 | 122 | Cassie Newton |
-| 771 | 122 | Shakena Tuggle |
+| 770 | 122 | Shakena Tuggle |
+| 771 | 122 | Cassie Newton |
 | 772 | 121 | Pam Doughty |
-| 773 | 121 | g |
-| 774 | 121 | Sweetheart81 |
+| 773 | 121 | Sweetheart81 |
+| 774 | 121 | g |
 | 775 | 120 | Rebecca Crosby |
 | 776 | 120 | Happy Tilebuilder |
 | 777 | 120 | Layla LS |
