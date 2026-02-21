@@ -115,8 +115,8 @@
 | 107 | 520 | Kimberly Schall |
 | 108 | 519 | Maria Escobar |
 | 109 | 517 | Debra Williams |
-| 110 | 515 | Kaylee McCafferty |
-| 111 | 515 | Real Ri |
+| 110 | 515 | Real Ri |
+| 111 | 515 | Kaylee McCafferty |
 | 112 | 513 | Butta |
 | 113 | 509 | Kelli Wells |
 | 114 | 505 | Danielle Johnson-Chandler |
@@ -252,7 +252,7 @@
 | 244 | 262 | Taren Cowan |
 | 245 | 261 | Leah |
 | 246 | 261 | Peppy Zone |
-| 247 | 261 | Ann Matzkanin |
+| 247 | 261 | MrsClaudette Will'sIam Matthews |
 | 248 | 260 | Denise Rickman |
 | 249 | 260 | Dapper Dasher |
 | 250 | 257 | Shameika Trail |
@@ -295,8 +295,8 @@
 | 287 | 233 | Alyssia Tancredi |
 | 288 | 232 | Amber Brion |
 | 289 | 232 | Maddy Petersen |
-| 290 | 231 | Ginger |
-| 291 | 231 | Dylan Thomason |
+| 290 | 231 | Dylan Thomason |
+| 291 | 231 | Ginger |
 | 292 | 230 | snkylnk |
 | 293 | 228 | Michelle Sager |
 | 294 | 227 | Nutty Matchline |

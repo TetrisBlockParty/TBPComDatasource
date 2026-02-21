@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Annie Déè |
-| 62 | 342 | Trezure Gonzalez |
+| 61 | 342 | Trezure Gonzalez |
+| 62 | 342 | Annie Déè |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -134,9 +134,9 @@
 | 126 | 140 | Gumbo |
 | 127 | 140 | Jay Horn |
 | 128 | 135 | Nicole Flippo |
-| 129 | 134 | DanceLuvLaugh |
-| 130 | 134 | Elaine Webb Graves |
-| 131 | 134 | Emma |
+| 129 | 134 | Emma |
+| 130 | 134 | DanceLuvLaugh |
+| 131 | 134 | Elaine Webb Graves |
 | 132 | 133 | Giddy Twistbuilder |
 | 133 | 131 | Jl |
 | 134 | 127 | Marquita Sheard |

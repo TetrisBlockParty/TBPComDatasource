@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Johnathan Martinez |
-| 20 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Johnathan Martinez |
 | 21 | 363 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -111,8 +111,8 @@
 | 103 | 108 | Rio Rocha |
 | 104 | 107 | Marcus Todd |
 | 105 | 106 | Jonathan Kimbrough |
-| 106 | 105 | TheNeesh50 |
-| 107 | 105 | Sam Middleton |
+| 106 | 105 | Sam Middleton |
+| 107 | 105 | TheNeesh50 |
 | 108 | 104 | YoMomma |
 | 109 | 102 | Faja |
 | 110 | 101 | Saulc1991 |

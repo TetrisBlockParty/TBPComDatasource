@@ -33,8 +33,8 @@
 | 25 | 294 | Jacqueline Williams |
 | 26 | 281 | Nancy Green |
 | 27 | 281 | Maria C. Hernandez |
-| 28 | 274 | Theo Pinnow |
-| 29 | 274 | Sweet Baker |
+| 28 | 274 | Sweet Baker |
+| 29 | 274 | Theo Pinnow |
 | 30 | 265 | Jennifer Cates |
 | 31 | 256 | Robert Benito |
 | 32 | 252 | Tipsy Column |
@@ -53,8 +53,8 @@
 | 45 | 201 | Ananda Mendez |
 | 46 | 201 | Anaid Sanchez |
 | 47 | 200 | Lexuriuos Lifestlye |
-| 48 | 198 | Billie Dawn Sparks |
-| 49 | 198 | Happy Snapbuild |
+| 48 | 198 | Happy Snapbuild |
+| 49 | 198 | Billie Dawn Sparks |
 | 50 | 194 | Sharon Reynolds |
 | 51 | 192 | Mandyy Rae |
 | 52 | 191 | Giggly Builderline |
@@ -116,8 +116,8 @@
 | 108 | 104 | Bhelle Sumile |
 | 109 | 103 | Adryane Schnase |
 | 110 | 102 | Jennifer ManWarren |
-| 111 | 99 | Ty Brown |
-| 112 | 99 | Aimee Horton |
+| 111 | 99 | Aimee Horton |
+| 112 | 99 | Ty Brown |
 | 113 | 99 | Melissa Bires Hussar |
 | 114 | 96 | Nery Martinez |
 | 115 | 96 | Melissa Lemmon |
