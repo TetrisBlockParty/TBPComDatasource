@@ -61,8 +61,8 @@
 | 53 | 272 | Adam Byrd |
 | 54 | 270 | Shauna Loe |
 | 55 | 257 | Sarah Roberts |
-| 56 | 256 | Robert Benito |
-| 57 | 256 | Tipsy Column |
+| 56 | 256 | Tipsy Column |
+| 57 | 256 | Robert Benito |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
 | 60 | 244 | Franswa |

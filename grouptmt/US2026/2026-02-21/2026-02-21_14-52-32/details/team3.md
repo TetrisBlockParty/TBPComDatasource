@@ -204,8 +204,8 @@
 | 196 | 145 | Ashley Lynn Marchese |
 | 197 | 145 | Rochelle Hazelett |
 | 198 | 142 | Erica Anderson |
-| 199 | 141 | Emma |
-| 200 | 141 | Connie Mohler-Fair |
+| 199 | 141 | Connie Mohler-Fair |
+| 200 | 141 | Emma |
 | 201 | 140 | Gumbo |
 | 202 | 140 | Jay Horn |
 | 203 | 136 | Joy Petroski |

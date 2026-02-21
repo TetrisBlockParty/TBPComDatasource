@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Leah Keesling |
-| 184 | 485 | Gene Mills |
+| 183 | 485 | Gene Mills |
+| 184 | 485 | Leah Keesling |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -294,8 +294,8 @@
 | 286 | 332 | TF Dyer |
 | 287 | 331 | Shelley Thornburgh Wright |
 | 288 | 330 | Dar |
-| 289 | 330 | Taryece Gause |
-| 290 | 330 | Victoria Moore-Smith |
+| 289 | 330 | Victoria Moore-Smith |
+| 290 | 330 | Taryece Gause |
 | 291 | 329 | Jessie McDougald |
 | 292 | 329 | Nicole Cannon |
 | 293 | 327 | Juanita Lyons |
@@ -319,8 +319,8 @@
 | 311 | 312 | Andrea Maher |
 | 312 | 311 | Véronique Lévesque Sabourin |
 | 313 | 310 | Brandy Andre |
-| 314 | 309 | Ginger |
-| 315 | 309 | Oscar Bernie |
+| 314 | 309 | Oscar Bernie |
+| 315 | 309 | Ginger |
 | 316 | 309 | James Zaragoza |
 | 317 | 306 | Kristopher Miller |
 | 318 | 305 | Zany Clusterbuilder |
@@ -505,8 +505,8 @@
 | 497 | 199 | Jessica Sutter |
 | 498 | 198 | Angie Bolton Workman |
 | 499 | 198 | Alyssa Dean |
-| 500 | 197 | Kati Russeau |
-| 501 | 197 | Jelly |
+| 500 | 197 | Jelly |
+| 501 | 197 | Kati Russeau |
 | 502 | 196 | Zak Dunn |
 | 503 | 196 | Tony Lea |
 | 504 | 196 | Cass Shirley |
@@ -751,8 +751,8 @@
 | 743 | 134 | Slinky Risegrid |
 | 744 | 134 | Speedy Pivoty |
 | 745 | 134 | Sveta Lana |
-| 746 | 133 | Rae Rae |
-| 747 | 133 | Epic Stackzone |
+| 746 | 133 | Epic Stackzone |
+| 747 | 133 | Rae Rae |
 | 748 | 133 | Gina Caulder |
 | 749 | 133 | Lively Piecebuilder |
 | 750 | 133 | Jess Orosz |
