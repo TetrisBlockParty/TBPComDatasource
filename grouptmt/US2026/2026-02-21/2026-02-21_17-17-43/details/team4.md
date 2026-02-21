@@ -63,8 +63,8 @@
 | 55 | 341 | Clarence Patawaran |
 | 56 | 309 | Lisa Davis |
 | 57 | 308 | Jen Allison |
-| 58 | 300 | David Lay |
-| 59 | 300 | Jason Hart |
+| 58 | 300 | Jason Hart |
+| 59 | 300 | David Lay |
 | 60 | 299 | Livvy |
 | 61 | 295 | Latisha Davis |
 | 62 | 293 | HastyGrabber |
@@ -104,8 +104,8 @@
 | 96 | 187 | Swanky Fitline |
 | 97 | 185 | Andy Cabral |
 | 98 | 181 | Carter Jones |
-| 99 | 180 | Leah Kutz Zirbel |
-| 100 | 180 | Leslie Nicole |
+| 99 | 180 | Leslie Nicole |
+| 100 | 180 | Leah Kutz Zirbel |
 | 101 | 179 | Epic Curvetile |
 | 102 | 178 | Lori |
 | 103 | 177 | Andria Lynn |
@@ -117,9 +117,9 @@
 | 109 | 167 | Denise Carlson |
 | 110 | 164 | ThaEviLJeNiuZ |
 | 111 | 162 | Peachy Fall |
-| 112 | 160 | Stacey Stano |
-| 113 | 160 | Crystal Carroll |
-| 114 | 160 | ZeeZee |
+| 112 | 160 | ZeeZee |
+| 113 | 160 | Stacey Stano |
+| 114 | 160 | Crystal Carroll |
 | 115 | 157 | quicksand420 |
 | 116 | 156 | Holly |
 | 117 | 153 | Empress Oasis |
@@ -164,8 +164,8 @@
 | 156 | 121 | Megan Cutshaw |
 | 157 | 121 | Smiley Tiltbuilder |
 | 158 | 120 | Joshua Guess |
-| 159 | 119 | Kristin Manee |
-| 160 | 119 | Judy Cox |
+| 159 | 119 | Judy Cox |
+| 160 | 119 | Kristin Manee |
 | 161 | 119 | Gwendolyn Pitcairn |
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Ultramarine |

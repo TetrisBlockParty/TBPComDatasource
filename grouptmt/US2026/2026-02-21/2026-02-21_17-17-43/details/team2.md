@@ -157,10 +157,10 @@
 | 149 | 620 | BYM4L |
 | 150 | 619 | Jamie Otero |
 | 151 | 614 | Robin Kerby |
-| 152 | 608 | Sommer Shope |
-| 153 | 608 | John Bednarik |
-| 154 | 604 | Danielle Johnson-Chandler |
-| 155 | 604 | Amber Shoemaker |
+| 152 | 608 | John Bednarik |
+| 153 | 608 | Sommer Shope |
+| 154 | 604 | Amber Shoemaker |
+| 155 | 604 | Danielle Johnson-Chandler |
 | 156 | 603 | Cassie Maynard |
 | 157 | 602 | L3sli3 |
 | 158 | 596 | Thomas Hughes |
@@ -184,8 +184,8 @@
 | 176 | 543 | Diana Fitzwater |
 | 177 | 541 | SaraMarie Eveland |
 | 178 | 534 | Stephen Stephen |
-| 179 | 534 | Poppy Snapper |
-| 180 | 534 | Teresa Gillmore |
+| 179 | 534 | Teresa Gillmore |
+| 180 | 534 | Poppy Snapper |
 | 181 | 531 | Chris Wanner |
 | 182 | 527 | Stacy Stickle |
 | 183 | 527 | Adira Brown |
@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Lylymom |
-| 210 | 485 | Leah Keesling |
+| 209 | 485 | Leah Keesling |
+| 210 | 485 | Lylymom |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -261,8 +261,8 @@
 | 253 | 405 | Christy Krissie |
 | 254 | 405 | Sarah Massey |
 | 255 | 402 | Joshua Mandel |
-| 256 | 400 | Rhonda Milstead |
-| 257 | 400 | Tammy Allen |
+| 256 | 400 | Tammy Allen |
+| 257 | 400 | Rhonda Milstead |
 | 258 | 398 | Mr. Street Stack |
 | 259 | 397 | coleksquad |
 | 260 | 396 | Steven Marshaun |

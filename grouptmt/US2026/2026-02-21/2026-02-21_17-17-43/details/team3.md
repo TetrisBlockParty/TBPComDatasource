@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -117,8 +117,8 @@
 | 109 | 309 | CeceGeGe |
 | 110 | 307 | Blocked |
 | 111 | 307 | Peggi Charon |
-| 112 | 300 | Sherika C. McDaniels |
-| 113 | 300 | Tessina Dewey-Mancino |
+| 112 | 300 | Tessina Dewey-Mancino |
+| 113 | 300 | Sherika C. McDaniels |
 | 114 | 293 | Poppy Splitter |
 | 115 | 284 | Jay Horn |
 | 116 | 277 | Logan Naccarato |
@@ -144,8 +144,8 @@
 | 136 | 222 | Jimmie Clemons |
 | 137 | 220 | Stephanie Blkpep Davidson |
 | 138 | 217 | Jess Bissett |
-| 139 | 216 | Tom Nault |
-| 140 | 216 | Aaron Pitkin |
+| 139 | 216 | Aaron Pitkin |
+| 140 | 216 | Tom Nault |
 | 141 | 214 | Amy Fuller Heaton |
 | 142 | 214 | Leah Barnett |
 | 143 | 213 | Morgan Martinez |
@@ -172,16 +172,16 @@
 | 164 | 188 | Angie Harper |
 | 165 | 186 | Rebel124 |
 | 166 | 182 | Hyper Matchzone |
-| 167 | 181 | Aerian Preston |
-| 168 | 181 | Karon Griffin |
+| 167 | 181 | Karon Griffin |
+| 168 | 181 | Aerian Preston |
 | 169 | 179 | Joye Sims Binion |
 | 170 | 179 | Ashley Jones |
 | 171 | 179 | Daira Largen |
 | 172 | 178 | Khaleada McGill Banks |
 | 173 | 178 | AlsoJess |
 | 174 | 178 | Ryan Williams |
-| 175 | 176 | Trisha Balmer |
-| 176 | 176 | Nikki Pags |
+| 175 | 176 | Nikki Pags |
+| 176 | 176 | Trisha Balmer |
 | 177 | 175 | DanceLuvLaugh |
 | 178 | 174 | rosy |
 | 179 | 174 | Danielle Mogg |

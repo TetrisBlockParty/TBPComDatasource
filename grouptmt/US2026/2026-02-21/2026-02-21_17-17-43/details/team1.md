@@ -37,8 +37,8 @@
 | 29 | 516 | comrade fish |
 | 30 | 511 | Jen Sartain |
 | 31 | 510 | Colena Davenport |
-| 32 | 508 | Michelle Nicole |
-| 33 | 508 | Lawrence Belanger |
+| 32 | 508 | Lawrence Belanger |
+| 33 | 508 | Michelle Nicole |
 | 34 | 486 | Sevens4L |
 | 35 | 483 | Ryan Lunnin |
 | 36 | 466 | Kathi Snustad |
@@ -107,10 +107,10 @@
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Danielle Little-Daugherty |
-| 103 | 178 | Chad Atchley |
-| 104 | 175 | Nicole Roseberry Weber |
-| 105 | 175 | Dandy Basegrid |
+| 102 | 178 | Chad Atchley |
+| 103 | 178 | Danielle Little-Daugherty |
+| 104 | 175 | Dandy Basegrid |
+| 105 | 175 | Nicole Roseberry Weber |
 | 106 | 173 | Frothy Pattern |
 | 107 | 171 | Greg Premoe |
 | 108 | 171 | David DeSantis |
