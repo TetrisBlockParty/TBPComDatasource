@@ -126,13 +126,13 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
-| 126 | 192 | Jessica Sheehan |
-| 127 | 192 | Shaykmia |
+| 126 | 192 | Shaykmia |
+| 127 | 192 | Jessica Sheehan |
 | 128 | 191 | Diane Byrd |
 | 129 | 190 | Thorne Shumate |
 | 130 | 190 | Sweetts |
@@ -149,14 +149,14 @@
 | 141 | 177 | ParisandCory Champagne |
 | 142 | 176 | Basment Living |
 | 143 | 175 | John Barron |
-| 144 | 171 | Greg Premoe |
-| 145 | 171 | David DeSantis |
-| 146 | 170 | Cartier |
-| 147 | 170 | Veronica Eve |
+| 144 | 171 | David DeSantis |
+| 145 | 171 | Greg Premoe |
+| 146 | 170 | Veronica Eve |
+| 147 | 170 | Cartier |
 | 148 | 169 | Abbey Crespo |
 | 149 | 168 | Standia Civil |
-| 150 | 166 | Katie Daniels |
-| 151 | 166 | Rico Rico |
+| 150 | 166 | Rico Rico |
+| 151 | 166 | Katie Daniels |
 | 152 | 165 | Nadine Velardo |
 | 153 | 163 | Tanya Carpenter-Reynolds |
 | 154 | 163 | Tyler Whitley |
@@ -223,8 +223,8 @@
 | 215 | 115 | Chuck Gannon |
 | 216 | 115 | Jessi Sauer |
 | 217 | 115 | Zany Tiler |
-| 218 | 114 | Tyler Hertzog |
-| 219 | 114 | Hector Cruz |
+| 218 | 114 | Hector Cruz |
+| 219 | 114 | Tyler Hertzog |
 | 220 | 113 | Desiree Deschaine Havee |
 | 221 | 112 | Crystal Joslin |
 | 222 | 112 | Chris65 |

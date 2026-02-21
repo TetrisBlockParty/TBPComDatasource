@@ -270,15 +270,15 @@
 | 262 | 509 | Kelli Wells |
 | 263 | 509 | Jordan Kaiser |
 | 264 | 506 | AISlop |
-| 265 | 504 | Cherica Taylor |
-| 266 | 504 | Gene Mills |
+| 265 | 504 | Gene Mills |
+| 266 | 504 | Cherica Taylor |
 | 267 | 503 | tejas25 |
-| 268 | 502 | Magic steve |
-| 269 | 502 | Poppy Snap |
+| 268 | 502 | Poppy Snap |
+| 269 | 502 | Magic steve |
 | 270 | 500 | Sarah Ridenour |
 | 271 | 500 | Em Chen |
-| 272 | 497 | Juliana Marques Do Nascimento Gordy |
-| 273 | 497 | Jeremy Parodi |
+| 272 | 497 | Jeremy Parodi |
+| 273 | 497 | Juliana Marques Do Nascimento Gordy |
 | 274 | 495 | Matt Johnson |
 | 275 | 493 | Lylymom |
 | 276 | 491 | Michael Buckner |
@@ -343,8 +343,8 @@
 | 335 | 421 | Vanessa Moreno |
 | 336 | 420 | Sparkles |
 | 337 | 416 | Lina Sanders |
-| 338 | 414 | Kara Gillen |
-| 339 | 414 | Sabrina Burton |
+| 338 | 414 | Sabrina Burton |
+| 339 | 414 | Kara Gillen |
 | 340 | 414 | Emily Lyric Converse |
 | 341 | 414 | John |
 | 342 | 411 | Ricky Fortune |

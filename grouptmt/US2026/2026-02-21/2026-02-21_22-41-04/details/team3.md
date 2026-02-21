@@ -147,10 +147,10 @@
 | 139 | 283 | Joye Sims Binion |
 | 140 | 278 | Rufus Lincoln |
 | 141 | 276 | Crimson |
-| 142 | 272 | opf |
-| 143 | 272 | rnr junky |
-| 144 | 271 | Leah Barnett |
-| 145 | 271 | Ashley Muncey |
+| 142 | 272 | rnr junky |
+| 143 | 272 | opf |
+| 144 | 271 | Ashley Muncey |
+| 145 | 271 | Leah Barnett |
 | 146 | 267 | Denise Nardoni |
 | 147 | 263 | Angeline Joseph |
 | 148 | 262 | Joe-Maggie Mathews |

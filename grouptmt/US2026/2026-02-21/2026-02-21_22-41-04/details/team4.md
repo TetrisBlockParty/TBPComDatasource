@@ -136,27 +136,27 @@
 | 128 | 185 | Peachy Fall |
 | 129 | 185 | Andy Cabral |
 | 130 | 184 | Justin Hannigan |
-| 131 | 181 | Andria Lynn |
-| 132 | 181 | Carter Jones |
+| 131 | 181 | Carter Jones |
+| 132 | 181 | Andria Lynn |
 | 133 | 180 | Leah Kutz Zirbel |
 | 134 | 178 | shark tato |
 | 135 | 178 | Lori |
 | 136 | 176 | Stacey Stano |
 | 137 | 176 | Klo |
 | 138 | 175 | Ren Mc |
-| 139 | 174 | Zethra Prenisha Rahming |
-| 140 | 174 | Dihcheese444 |
+| 139 | 174 | Dihcheese444 |
+| 140 | 174 | Zethra Prenisha Rahming |
 | 141 | 173 | blockstar |
 | 142 | 172 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
-| 144 | 164 | ThaEviLJeNiuZ |
-| 145 | 164 | 030Synner |
+| 144 | 164 | 030Synner |
+| 145 | 164 | ThaEviLJeNiuZ |
 | 146 | 160 | ZeeZee |
 | 147 | 156 | Holly |
 | 148 | 155 | AyeKay |
 | 149 | 153 | Empress Oasis |
-| 150 | 153 | Avy Absol |
-| 151 | 153 | Chair |
+| 150 | 153 | Chair |
+| 151 | 153 | Avy Absol |
 | 152 | 151 | Bethany Ison |
 | 153 | 149 | Shainne Brewer |
 | 154 | 149 | Jen Caldwell |
