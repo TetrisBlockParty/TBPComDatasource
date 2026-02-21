@@ -94,8 +94,8 @@
 | 86 | 674 | Dannette Goldberg-Richards |
 | 87 | 672 | Wendy Harder Gage |
 | 88 | 665 | Dineisha Carpenter |
-| 89 | 658 | Pacynthia Williams |
-| 90 | 658 | Vistabrat |
+| 89 | 658 | Vistabrat |
+| 90 | 658 | Pacynthia Williams |
 | 91 | 653 | Becky Weeks-Garry |
 | 92 | 649 | Stephanie Chapman |
 | 93 | 649 | Anna Edwards |
@@ -467,8 +467,8 @@
 | 459 | 164 | Sara Pennington |
 | 460 | 163 | Danielle Ayoub |
 | 461 | 163 | Albert McKnight |
-| 462 | 162 | LC Hamilton |
-| 463 | 162 | Michael Artis |
+| 462 | 162 | Michael Artis |
+| 463 | 162 | LC Hamilton |
 | 464 | 162 | Brenna Ann |
 | 465 | 161 | Brandon McDonald |
 | 466 | 161 | Snippy Rumbler |

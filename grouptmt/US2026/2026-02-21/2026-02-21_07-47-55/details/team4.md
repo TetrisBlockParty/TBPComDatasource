@@ -93,24 +93,24 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Jessica Bohlken |
-| 89 | 134 | Chirpy Basepiece |
+| 88 | 134 | Chirpy Basepiece |
+| 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Jenna McGeorge |
 | 92 | 132 | Jessica Cagle |
 | 93 | 132 | Melissa Priest Sellers |
 | 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
-| 96 | 131 | Zany Twisterfit |
-| 97 | 131 | Mr. Party |
+| 96 | 131 | Mr. Party |
+| 97 | 131 | Zany Twisterfit |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
 | 100 | 129 | John Brunetti |
 | 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Bubbly Puzzler |
-| 104 | 123 | Nugget |
-| 105 | 123 | Cherrish Duren |
+| 104 | 123 | Cherrish Duren |
+| 105 | 123 | Nugget |
 | 106 | 122 | Sherri |
 | 107 | 121 | Zany Shatterer |
 | 108 | 121 | Smiley Tiltbuilder |

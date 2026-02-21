@@ -44,11 +44,11 @@
 | 36 | 290 | Aaron Garnett |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
-| 42 | 256 | Tipsy Column |
-| 43 | 256 | Robert Benito |
+| 42 | 256 | Robert Benito |
+| 43 | 256 | Tipsy Column |
 | 44 | 244 | Franswa |
 | 45 | 243 | Sarah Roberts |
 | 46 | 241 | Kristen Roles Robben |
@@ -151,9 +151,9 @@
 | 143 | 94 | Tyler Hertzog |
 | 144 | 93 | Cody Gates |
 | 145 | 92 | Jessica Russell |
-| 146 | 90 | Dizzy Party |
-| 147 | 90 | Madison Wicks |
-| 148 | 90 | TSwag |
+| 146 | 90 | TSwag |
+| 147 | 90 | Dizzy Party |
+| 148 | 90 | Madison Wicks |
 | 149 | 89 | Mara Hilker |
 | 150 | 88 | Adam Byrd |
 | 151 | 87 | Jessi Sauer |
