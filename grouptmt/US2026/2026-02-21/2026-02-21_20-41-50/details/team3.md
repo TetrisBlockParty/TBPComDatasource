@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -110,8 +110,8 @@
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
-| 105 | 367 | mjl574 |
-| 106 | 367 | Nerdy Riseclear |
+| 105 | 367 | Nerdy Riseclear |
+| 106 | 367 | mjl574 |
 | 107 | 366 | Speedy Bridger |
 | 108 | 356 | Adrian Marcel Pate |
 | 109 | 350 | Tiff Vs Tiffany |
@@ -202,8 +202,8 @@
 | 194 | 179 | Daira Largen |
 | 195 | 179 | Tipsy Zonebuilder |
 | 196 | 179 | Ashley Jones |
-| 197 | 178 | AlsoJess |
-| 198 | 178 | Ryan Williams |
+| 197 | 178 | Ryan Williams |
+| 198 | 178 | AlsoJess |
 | 199 | 177 | Trisha Balmer |
 | 200 | 175 | DanceLuvLaugh |
 | 201 | 175 | Tasha Wesson-Torrence |
@@ -263,14 +263,14 @@
 | 255 | 142 | Erykah |
 | 256 | 142 | Erica Anderson |
 | 257 | 141 | IamJust Neyamijah Washington Sr. |
-| 258 | 139 | Joy Petroski |
-| 259 | 139 | Loopy Clusterer |
-| 260 | 139 | Funky Jumper |
+| 258 | 139 | Funky Jumper |
+| 259 | 139 | Joy Petroski |
+| 260 | 139 | Loopy Clusterer |
 | 261 | 138 | Boldy Corner |
 | 262 | 137 | Cesar Barraza |
 | 263 | 135 | Terry Jo Jones |
-| 264 | 134 | Kristian Thurman |
-| 265 | 134 | Skinny Baldez |
+| 264 | 134 | Skinny Baldez |
+| 265 | 134 | Kristian Thurman |
 | 266 | 133 | Weerae |
 | 267 | 132 | Rachel |
 | 268 | 132 | LaTanya GeminiondaRise Johnson |

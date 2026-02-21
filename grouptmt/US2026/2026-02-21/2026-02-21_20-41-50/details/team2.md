@@ -230,8 +230,8 @@
 | 222 | 528 | Brownie Sheena |
 | 223 | 527 | Stacy Stickle |
 | 224 | 527 | Ryan Gunther |
-| 225 | 527 | Adira Brown |
-| 226 | 527 | Heather Causey |
+| 225 | 527 | Heather Causey |
+| 226 | 527 | Adira Brown |
 | 227 | 526 | Ashley Guernsey-Martin |
 | 228 | 525 | Desiree Anderson |
 | 229 | 525 | Tommy Tha Boss Gunz |
@@ -291,8 +291,8 @@
 | 283 | 445 | Mar Q Thomas |
 | 284 | 445 | Dedra Steward |
 | 285 | 445 | Mr. Street Stack |
-| 286 | 442 | Leah |
-| 287 | 442 | Daphne Jordan |
+| 286 | 442 | Daphne Jordan |
+| 287 | 442 | Leah |
 | 288 | 442 | Joshua Mandel |
 | 289 | 440 | Liberty |
 | 290 | 439 | Joseph Musick |
@@ -628,8 +628,8 @@
 | 620 | 218 | Twisty Tetriblast |
 | 621 | 218 | Shylee Tilman |
 | 622 | 217 | Natasha Edmonds |
-| 623 | 217 | Layna Lyons |
-| 624 | 217 | Erika Meaux |
+| 623 | 217 | Erika Meaux |
+| 624 | 217 | Layna Lyons |
 | 625 | 217 | Dad |
 | 626 | 216 | Nerdy Riserfit |
 | 627 | 216 | Dee |

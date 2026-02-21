@@ -114,8 +114,8 @@
 | 106 | 197 | Swanky Fitline |
 | 107 | 196 | Jeff Brian Gates |
 | 108 | 194 | Zany Twisterfit |
-| 109 | 192 | Shauna Havard |
-| 110 | 192 | Crystal Carroll |
+| 109 | 192 | Crystal Carroll |
+| 110 | 192 | Shauna Havard |
 | 111 | 191 | loulou |
 | 112 | 191 | Melvin Baird |
 | 113 | 189 | Calvin Dennis |
@@ -126,8 +126,8 @@
 | 118 | 184 | Justin Hannigan |
 | 119 | 182 | Shane Kalamata Platoon |
 | 120 | 181 | Carter Jones |
-| 121 | 181 | Andria Lynn |
-| 122 | 181 | Savannah Overdorf |
+| 121 | 181 | Savannah Overdorf |
+| 122 | 181 | Andria Lynn |
 | 123 | 180 | Leah Kutz Zirbel |
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
@@ -146,8 +146,8 @@
 | 138 | 156 | Holly |
 | 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Avy Absol |
-| 142 | 151 | Bethany Ison |
+| 141 | 151 | Bethany Ison |
+| 142 | 151 | Avy Absol |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -213,7 +213,7 @@
 | 205 | 115 | Ultramarine |
 | 206 | 113 | Dandy Cascadefit |
 | 207 | 113 | Adam Randall |
-| 208 | 112 | Bryan Hodgins |
+| 208 | 112 | Austin Owens |
 | 209 | 112 | Jeremy Steines |
 | 210 | 112 | Bryan Hodgins |
 | 211 | 111 | Lazy Blocker |
@@ -277,8 +277,8 @@
 | 269 | 90 | No Strings Attached Ra |
 | 270 | 90 | Thomas Hettenhaus |
 | 271 | 89 | Jonathan Mahfood |
-| 272 | 88 | Michelle Parker |
-| 273 | 88 | Kesha Brady |
+| 272 | 88 | Kesha Brady |
+| 273 | 88 | Michelle Parker |
 | 274 | 87 | Alan George LaRage |
 | 275 | 86 | Jason Frehner |
 | 276 | 86 | Destiney Carter |
