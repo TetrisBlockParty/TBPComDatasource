@@ -216,11 +216,11 @@
 | 208 | 150 | Valerie Gendron |
 | 209 | 150 | Nicole Myers |
 | 210 | 149 | Angel Mendez |
-| 211 | 149 | Peachy Rollfit |
-| 212 | 149 | Alexis Taylor |
+| 211 | 149 | Alexis Taylor |
+| 212 | 149 | Peachy Rollfit |
 | 213 | 148 | Lesley Perez |
-| 214 | 148 | Gumbo |
-| 215 | 148 | Jennifer Alvey |
+| 214 | 148 | Jennifer Alvey |
+| 215 | 148 | Gumbo |
 | 216 | 146 | Denita Mungro |
 | 217 | 146 | Ashley Lynn Marchese |
 | 218 | 146 | Carrie Huskey |
@@ -228,8 +228,8 @@
 | 220 | 145 | Emma |
 | 221 | 145 | Bryan Byrd |
 | 222 | 142 | Jl |
-| 223 | 142 | David Bardo |
-| 224 | 142 | Erica Anderson |
+| 223 | 142 | Erica Anderson |
+| 224 | 142 | David Bardo |
 | 225 | 138 | Boldy Corner |
 | 226 | 137 | Cheryl Hinch Tenbrook |
 | 227 | 137 | Joy Petroski |
@@ -286,8 +286,8 @@
 | 278 | 109 | mommablock |
 | 279 | 108 | LaTanya GeminiondaRise Johnson |
 | 280 | 108 | Hanna Kim |
-| 281 | 107 | Melissa Snyder |
-| 282 | 107 | Jumpy Wrecker |
+| 281 | 107 | Jumpy Wrecker |
+| 282 | 107 | Melissa Snyder |
 | 283 | 107 | Bouncy Blockbuilder |
 | 284 | 106 | Cheeky Snapper |
 | 285 | 106 | Troy |

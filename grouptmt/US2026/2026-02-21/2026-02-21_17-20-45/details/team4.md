@@ -182,9 +182,9 @@
 | 174 | 111 | Lazy Blocker |
 | 175 | 110 | H.R. Block |
 | 176 | 108 | Ali Ian |
-| 177 | 107 | Marcus Todd |
-| 178 | 107 | Anthony Bryan Riva |
-| 179 | 107 | Rafael Valentin |
+| 177 | 107 | Rafael Valentin |
+| 178 | 107 | Marcus Todd |
+| 179 | 107 | Anthony Bryan Riva |
 | 180 | 106 | Avy Absol |
 | 181 | 105 | Kristin MacDonald |
 | 182 | 105 | TheNeesh50 |

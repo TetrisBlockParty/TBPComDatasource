@@ -100,24 +100,24 @@
 | 92 | 193 | Lachelle Dillon |
 | 93 | 192 | Shaykmia |
 | 94 | 191 | Diane Byrd |
-| 95 | 190 | Sweetts |
-| 96 | 190 | Thorne Shumate |
+| 95 | 190 | Thorne Shumate |
+| 96 | 190 | Sweetts |
 | 97 | 189 | Happy Basegrid |
 | 98 | 186 | Jennifer Olewnik Soborowski |
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Chad Atchley |
-| 103 | 178 | Danielle Little-Daugherty |
-| 104 | 175 | Dandy Basegrid |
-| 105 | 175 | Nicole Roseberry Weber |
+| 102 | 178 | Danielle Little-Daugherty |
+| 103 | 178 | Chad Atchley |
+| 104 | 175 | Nicole Roseberry Weber |
+| 105 | 175 | Dandy Basegrid |
 | 106 | 173 | Frothy Pattern |
-| 107 | 171 | David DeSantis |
-| 108 | 171 | Greg Premoe |
+| 107 | 171 | Greg Premoe |
+| 108 | 171 | David DeSantis |
 | 109 | 169 | Abbey Crespo |
 | 110 | 168 | Standia Civil |
-| 111 | 166 | Tana |
-| 112 | 166 | Rico Rico |
+| 111 | 166 | Rico Rico |
+| 112 | 166 | Tana |
 | 113 | 165 | GATOR |
 | 114 | 165 | Veronica Eve |
 | 115 | 163 | Kellie |

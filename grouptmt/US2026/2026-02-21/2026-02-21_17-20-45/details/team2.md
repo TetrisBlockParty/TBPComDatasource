@@ -149,8 +149,8 @@
 | 141 | 659 | Poldo Ilano |
 | 142 | 658 | Pacynthia Williams |
 | 143 | 651 | Unica Rector |
-| 144 | 650 | Claire Noland |
-| 145 | 650 | Shiny Rollzone |
+| 144 | 650 | Shiny Rollzone |
+| 145 | 650 | Claire Noland |
 | 146 | 641 | Ricardo Burton |
 | 147 | 632 | Beth |
 | 148 | 631 | Peppy Zone |
@@ -178,8 +178,8 @@
 | 170 | 569 | Gary Stash |
 | 171 | 563 | goofinoff |
 | 172 | 561 | Maria Escobar |
-| 173 | 549 | Charvi' Carter |
-| 174 | 549 | Kaylee McCafferty |
+| 173 | 549 | Kaylee McCafferty |
+| 174 | 549 | Charvi' Carter |
 | 175 | 545 | Leslie Ann Carter |
 | 176 | 543 | Diana Fitzwater |
 | 177 | 541 | SaraMarie Eveland |
@@ -230,8 +230,8 @@
 | 222 | 469 | Ashley Rose Frederick |
 | 223 | 467 | Scott Treadway |
 | 224 | 465 | Drwatson187 |
-| 225 | 464 | Ryan Gunther |
-| 226 | 464 | Nett |
+| 225 | 464 | Nett |
+| 226 | 464 | Ryan Gunther |
 | 227 | 463 | Sue Leard |
 | 228 | 460 | Amélie Cadieux |
 | 229 | 460 | Cody Smith-Candelaria |
@@ -307,9 +307,9 @@
 | 299 | 357 | Julie Kresal |
 | 300 | 355 | Shandrica Lowe |
 | 301 | 355 | Kristen O'Neal |
-| 302 | 354 | Brave Dropmatch |
+| 302 | 354 | Lawanda Forbes |
 | 303 | 354 | Tracy Wise |
-| 304 | 354 | Lawanda Forbes |
+| 304 | 354 | Brave Dropmatch |
 | 305 | 353 | Cheery Matchzone |
 | 306 | 352 | Juanita Lyons |
 | 307 | 352 | ruth |
@@ -391,8 +391,8 @@
 | 383 | 295 | Noel Tarmy |
 | 384 | 294 | Frisky Riserbuilder |
 | 385 | 294 | Barbra Miller |
-| 386 | 290 | Sabrina Burton |
-| 387 | 290 | Maya June |
+| 386 | 290 | Maya June |
+| 387 | 290 | Sabrina Burton |
 | 388 | 285 | June E Hanson |
 | 389 | 284 | Shorty |
 | 390 | 283 | Ann Knutson Anderson |
