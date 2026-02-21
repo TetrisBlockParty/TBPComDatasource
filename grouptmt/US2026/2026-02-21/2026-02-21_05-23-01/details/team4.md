@@ -127,8 +127,8 @@
 | 119 | 96 | Zappy Snaplink |
 | 120 | 93 | Zesty Twistbuilder |
 | 121 | 92 | Kristin MacDonald |
-| 122 | 90 | Bubbly Puzzler |
-| 123 | 90 | Judy Cox |
+| 122 | 90 | Judy Cox |
+| 123 | 90 | Bubbly Puzzler |
 | 124 | 89 | Jeremy Steines |
 | 125 | 89 | Brandi Durig |
 | 126 | 88 | Kesha Brady |

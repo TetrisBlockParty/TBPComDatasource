@@ -133,8 +133,8 @@
 | 125 | 140 | Gumbo |
 | 126 | 139 | Angel Mendez |
 | 127 | 135 | Nicole Flippo |
-| 128 | 134 | DanceLuvLaugh |
-| 129 | 134 | Emma |
+| 128 | 134 | Emma |
+| 129 | 134 | DanceLuvLaugh |
 | 130 | 133 | Giddy Twistbuilder |
 | 131 | 131 | Elaine Webb Graves |
 | 132 | 131 | Jl |

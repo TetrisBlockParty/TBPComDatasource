@@ -159,8 +159,8 @@
 | 151 | 394 | Poppy Snapper |
 | 152 | 391 | Chilly Bridgepiece |
 | 153 | 391 | Steven Marshaun |
-| 154 | 386 | Ashie Ann |
-| 155 | 386 | Jumpy Gridpiece |
+| 154 | 386 | Jumpy Gridpiece |
+| 155 | 386 | Ashie Ann |
 | 156 | 385 | Sam |
 | 157 | 381 | Amanda Ferrell |
 | 158 | 380 | Joshua Mandel |
@@ -288,8 +288,8 @@
 | 280 | 237 | Altamirano Michael |
 | 281 | 236 | Frisky Riserbuilder |
 | 282 | 235 | Kimberly Mitchell |
-| 283 | 233 | Alyssia Tancredi |
-| 284 | 233 | Robin Kerby |
+| 283 | 233 | Robin Kerby |
+| 284 | 233 | Alyssia Tancredi |
 | 285 | 232 | Amber Brion |
 | 286 | 231 | Ginger |
 | 287 | 231 | Dylan Thomason |
@@ -621,14 +621,14 @@
 | 613 | 109 | Nicolle Danielle |
 | 614 | 109 | Stephanie Matas |
 | 615 | 108 | Mikayala Szaz |
-| 616 | 108 | Beth Decker |
+| 616 | 108 | John-Jessica Manongdo |
 | 617 | 108 | Sean Kinsey |
-| 618 | 108 | John-Jessica Manongdo |
+| 618 | 108 | Beth Decker |
 | 619 | 107 | Zesty Pivot |
-| 620 | 107 | Dara |
-| 621 | 107 | Funky Riseclear |
-| 622 | 107 | Northphilly Fly |
-| 623 | 107 | Eileen Hale |
+| 620 | 107 | Northphilly Fly |
+| 621 | 107 | Eileen Hale |
+| 622 | 107 | Funky Riseclear |
+| 623 | 107 | Dara |
 | 624 | 106 | Arlet Alba |
 | 625 | 106 | Jessica Wayne Cornwall |
 | 626 | 106 | Zappy Stackbuilder |

@@ -52,12 +52,12 @@
 | 44 | 201 | Ananda Mendez |
 | 45 | 201 | Anaid Sanchez |
 | 46 | 200 | Lexuriuos Lifestlye |
-| 47 | 198 | Happy Snapbuild |
-| 48 | 198 | Billie Dawn Sparks |
+| 47 | 198 | Billie Dawn Sparks |
+| 48 | 198 | Happy Snapbuild |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
-| 51 | 191 | Jazzy Framezone |
-| 52 | 191 | Giggly Builderline |
+| 51 | 191 | Giggly Builderline |
+| 52 | 191 | Jazzy Framezone |
 | 53 | 190 | Sweetts |
 | 54 | 190 | Thorne Shumate |
 | 55 | 189 | Happy Basegrid |
