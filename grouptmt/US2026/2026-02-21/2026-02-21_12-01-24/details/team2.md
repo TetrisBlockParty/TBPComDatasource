@@ -94,8 +94,8 @@
 | 86 | 759 | Jose Mendoza |
 | 87 | 756 | Stephanie Neuburger |
 | 88 | 751 | Loony Snapper |
-| 89 | 734 | Tralonda Weeks |
-| 90 | 734 | Melissa Cole |
+| 89 | 734 | Melissa Cole |
+| 90 | 734 | Tralonda Weeks |
 | 91 | 722 | Tesha Oldaker |
 | 92 | 718 | Mari Ac |
 | 93 | 709 | Jerilyn Andrina |
@@ -118,8 +118,8 @@
 | 110 | 649 | Stephanie Chapman |
 | 111 | 641 | Ricardo Burton |
 | 112 | 632 | Beth |
-| 113 | 631 | Peppy Zone |
-| 114 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Loopy Clusterbuilder |
+| 114 | 631 | Peppy Zone |
 | 115 | 620 | BYM4L |
 | 116 | 608 | John Bednarik |
 | 117 | 601 | Nancy Reid |
@@ -178,8 +178,8 @@
 | 170 | 460 | Cody Smith-Candelaria |
 | 171 | 456 | Drwatson187 |
 | 172 | 454 | Casey Schumacher |
-| 173 | 453 | Mischelle Clay |
-| 174 | 453 | Osun Anuket Esu |
+| 173 | 453 | Osun Anuket Esu |
+| 174 | 453 | Mischelle Clay |
 | 175 | 452 | Alezandra Smith |
 | 176 | 450 | Cheech Dta |
 | 177 | 450 | Giggy Blocker |
@@ -229,8 +229,8 @@
 | 221 | 357 | Shannon Byrd |
 | 222 | 356 | Deyawn Smith |
 | 223 | 356 | Shameika Trail |
-| 224 | 354 | Tracy Wise |
-| 225 | 354 | Brave Dropmatch |
+| 224 | 354 | Brave Dropmatch |
+| 225 | 354 | Tracy Wise |
 | 226 | 353 | Joseph Musick |
 | 227 | 352 | ruth |
 | 228 | 350 | Chris Harr |
@@ -667,8 +667,8 @@
 | 659 | 133 | JinxxedMozzerella |
 | 660 | 133 | candy |
 | 661 | 133 | Ellie Jonas |
-| 662 | 133 | Epic Stackzone |
-| 663 | 133 | Rae Rae |
+| 662 | 133 | Rae Rae |
+| 663 | 133 | Epic Stackzone |
 | 664 | 132 | Mr. Street Stack |
 | 665 | 132 | Chilly Rollblock |
 | 666 | 132 | Samie Dayle |

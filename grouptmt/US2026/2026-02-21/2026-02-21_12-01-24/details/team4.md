@@ -110,10 +110,10 @@
 | 102 | 134 | Chirpy Basepiece |
 | 103 | 134 | Jessica Bohlken |
 | 104 | 133 | Robin Watters |
-| 105 | 132 | Jenna McGeorge |
-| 106 | 132 | Jessica Cagle |
-| 107 | 132 | Degenerate |
-| 108 | 132 | Melissa Priest Sellers |
+| 105 | 132 | Degenerate |
+| 106 | 132 | Jenna McGeorge |
+| 107 | 132 | Melissa Priest Sellers |
+| 108 | 132 | Jessica Cagle |
 | 109 | 131 | Mr. Party |
 | 110 | 130 | Lucas J Sutton |
 | 111 | 130 | Casey Jeffcoat |
@@ -123,8 +123,8 @@
 | 115 | 126 | Dihcheese444 |
 | 116 | 125 | Lauren Scott |
 | 117 | 123 | Cherrish Duren |
-| 118 | 123 | TinyLegoRose |
-| 119 | 123 | Bubbly Puzzler |
+| 118 | 123 | Bubbly Puzzler |
+| 119 | 123 | TinyLegoRose |
 | 120 | 122 | Sherri |
 | 121 | 121 | Megan Cutshaw |
 | 122 | 121 | Zany Shatterer |

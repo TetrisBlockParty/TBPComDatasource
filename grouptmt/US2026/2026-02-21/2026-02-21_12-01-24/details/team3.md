@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | AlsoJess |
@@ -190,8 +190,8 @@
 | 182 | 127 | Aerian Preston |
 | 183 | 127 | Marquita Sheard |
 | 184 | 126 | Brandon Givens |
-| 185 | 125 | Shimika Enay Wallace |
-| 186 | 125 | Felicia Doxey |
+| 185 | 125 | Felicia Doxey |
+| 186 | 125 | Shimika Enay Wallace |
 | 187 | 124 | Cesar Barraza |
 | 188 | 123 | Sarajane Lokan |
 | 189 | 123 | Terry Jo Jones |
@@ -212,14 +212,14 @@
 | 204 | 116 | LaNette Morgan |
 | 205 | 116 | BugMansMom |
 | 206 | 115 | Daring Builder |
-| 207 | 115 | Hoppy Buildout |
-| 208 | 115 | Jennifer Alvey |
+| 207 | 115 | Jennifer Alvey |
+| 208 | 115 | Hoppy Buildout |
 | 209 | 114 | Jessica Bechler |
-| 210 | 113 | Valerie Gendron |
-| 211 | 113 | Brian Battjes |
+| 210 | 113 | Brian Battjes |
+| 211 | 113 | Valerie Gendron |
 | 212 | 111 | Stephanie Zahm |
-| 213 | 110 | Stella |
-| 214 | 110 | Danielle Weikel |
+| 213 | 110 | Danielle Weikel |
+| 214 | 110 | Stella |
 | 215 | 110 | Tye Stovall |
 | 216 | 109 | Lys |
 | 217 | 109 | Brave Brickster |
@@ -242,8 +242,8 @@
 | 234 | 104 | mommablock |
 | 235 | 103 | BabyTonj Evans |
 | 236 | 102 | Christian Luna |
-| 237 | 101 | Hyper Bridger |
-| 238 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 237 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 238 | 101 | Hyper Bridger |
 | 239 | 100 | Demetrious Shaw Sr. |
 | 240 | 100 | Bobbi Moore |
 | 241 | 100 | Elizabeth Renee |
