@@ -194,8 +194,8 @@
 | 186 | 591 | Alisha |
 | 187 | 591 | Diana Fitzwater |
 | 188 | 586 | Stephen Stephen |
-| 189 | 583 | Jessicah Myers |
-| 190 | 583 | Steve Grotto |
+| 189 | 583 | Steve Grotto |
+| 190 | 583 | Jessicah Myers |
 | 191 | 579 | Gary Stash |
 | 192 | 576 | Shannon Joslin |
 | 193 | 571 | Thomas Hedrick |
@@ -235,9 +235,9 @@
 | 227 | 511 | Ramone Armstrong |
 | 228 | 511 | Laura Mclean |
 | 229 | 511 | Dizzy Zone |
-| 230 | 510 | Laquetta Royston |
+| 230 | 510 | Lisa Ongtowasruk |
 | 231 | 510 | Cheech Dta |
-| 232 | 510 | Lisa Ongtowasruk |
+| 232 | 510 | Laquetta Royston |
 | 233 | 509 | Kelli Wells |
 | 234 | 504 | Cherica Taylor |
 | 235 | 504 | Gene Mills |
@@ -481,8 +481,8 @@
 | 473 | 280 | Giddy Gridclear |
 | 474 | 280 | Audra Williams |
 | 475 | 279 | Glitzy Stackzone |
-| 476 | 278 | Demeka Dangerous-kisses Johnson |
-| 477 | 278 | Ray Ray Prado |
+| 476 | 278 | Ray Ray Prado |
+| 477 | 278 | Demeka Dangerous-kisses Johnson |
 | 478 | 277 | Anthony Mignacca |
 | 479 | 277 | August Hale |
 | 480 | 277 | NickyBrooks |
@@ -497,8 +497,8 @@
 | 489 | 273 | Hillary Franklin |
 | 490 | 273 | Dapper Dasher |
 | 491 | 271 | Ann Marie Davis |
-| 492 | 271 | Toni Lynn |
-| 493 | 271 | Loony Basepiece |
+| 492 | 271 | Loony Basepiece |
+| 493 | 271 | Toni Lynn |
 | 494 | 270 | Tim Dyer |
 | 495 | 269 | Reece Smith |
 | 496 | 269 | Gauri Shrotriya |
@@ -568,8 +568,8 @@
 | 560 | 240 | Kelly |
 | 561 | 240 | Brave Gridpiece |
 | 562 | 239 | Angelina Marie |
-| 563 | 237 | Kiorah Blaze |
-| 564 | 237 | Heather Piotrowski |
+| 563 | 237 | Heather Piotrowski |
+| 564 | 237 | Kiorah Blaze |
 | 565 | 237 | Breezy Tilt |
 | 566 | 237 | Ben Barkley |
 | 567 | 236 | Angela Yantz |

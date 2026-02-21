@@ -46,8 +46,8 @@
 | 38 | 511 | Jen Sartain |
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
-| 41 | 486 | Sevens4L |
-| 42 | 486 | Sarah Lombardo |
+| 41 | 486 | Sarah Lombardo |
+| 42 | 486 | Sevens4L |
 | 43 | 483 | Ryan Lunnin |
 | 44 | 469 | Kathi Snustad |
 | 45 | 460 | Kristen Roles Robben |
@@ -104,8 +104,8 @@
 | 96 | 222 | Kristen Gideon |
 | 97 | 214 | Billie Dawn Sparks |
 | 98 | 213 | Lexuriuos Lifestlye |
-| 99 | 212 | Mandyy Rae |
-| 100 | 212 | Jaimie Lynn |
+| 99 | 212 | Jaimie Lynn |
+| 100 | 212 | Mandyy Rae |
 | 101 | 211 | Marianita Garcia |
 | 102 | 210 | Ly Phethmany |
 | 103 | 204 | Ananda Mendez |
@@ -121,8 +121,8 @@
 | 113 | 190 | Gracie |
 | 114 | 189 | Happy Basegrid |
 | 115 | 188 | Sam Williams |
-| 116 | 187 | Plucky Ziggy |
-| 117 | 187 | Snippy Wipebuilder |
+| 116 | 187 | Snippy Wipebuilder |
+| 117 | 187 | Plucky Ziggy |
 | 118 | 186 | Jennifer Olewnik Soborowski |
 | 119 | 185 | Ash Galvan |
 | 120 | 182 | Spunky Piecebuilder |
@@ -133,8 +133,8 @@
 | 125 | 176 | Basment Living |
 | 126 | 175 | Nicole Roseberry Weber |
 | 127 | 174 | Michael |
-| 128 | 171 | Greg Premoe |
-| 129 | 171 | David DeSantis |
+| 128 | 171 | David DeSantis |
+| 129 | 171 | Greg Premoe |
 | 130 | 170 | Veronica Eve |
 | 131 | 169 | Abbey Crespo |
 | 132 | 168 | Standia Civil |

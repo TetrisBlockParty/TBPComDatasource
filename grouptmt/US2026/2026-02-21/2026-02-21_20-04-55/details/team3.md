@@ -216,8 +216,8 @@
 | 208 | 166 | Kelly Ann Child |
 | 209 | 166 | Betty Rosas |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Stephanie Hill |
-| 212 | 163 | Christine Trester |
+| 211 | 163 | Christine Trester |
+| 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | Irene Arreguin |
 | 215 | 161 | BŘŰŤİÇŨŚ |

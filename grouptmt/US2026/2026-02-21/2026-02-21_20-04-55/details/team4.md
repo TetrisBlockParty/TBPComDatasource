@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
