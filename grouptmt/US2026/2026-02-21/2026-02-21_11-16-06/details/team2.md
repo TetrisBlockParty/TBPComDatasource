@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -314,8 +314,8 @@
 | 306 | 272 | Mikayala Szaz |
 | 307 | 271 | Ann Marie Davis |
 | 308 | 271 | Toni Lynn |
-| 309 | 270 | Angela Lynn |
-| 310 | 270 | Christina Ashley |
+| 309 | 270 | Christina Ashley |
+| 310 | 270 | Angela Lynn |
 | 311 | 269 | Reece Smith |
 | 312 | 268 | Chummy Blockbuilder |
 | 313 | 268 | Tanya Parsons |
@@ -329,8 +329,8 @@
 | 321 | 260 | Denise Rickman |
 | 322 | 257 | Lyndi Robinson Wakefield |
 | 323 | 256 | Giddy Gridclear |
-| 324 | 256 | Tee Jaleesa |
-| 325 | 256 | CC |
+| 324 | 256 | CC |
+| 325 | 256 | Tee Jaleesa |
 | 326 | 255 | Santana Miyagi |
 | 327 | 254 | Elizabeth Diraffaele |
 | 328 | 254 | Rose Fx |
@@ -370,8 +370,8 @@
 | 362 | 234 | Jennifer Leigh |
 | 363 | 234 | Manny Trindade |
 | 364 | 234 | Jaybee Nguyen |
-| 365 | 233 | Robin Kerby |
-| 366 | 233 | Jumpy Gridclear |
+| 365 | 233 | Jumpy Gridclear |
+| 366 | 233 | Robin Kerby |
 | 367 | 233 | Nutty Matchline |
 | 368 | 232 | Amber Brion |
 | 369 | 231 | Dylan Thomason |
@@ -589,9 +589,9 @@
 | 581 | 144 | RavensBeard |
 | 582 | 143 | Jay Levy |
 | 583 | 143 | Angelica |
-| 584 | 142 | Melissa Kay Gibson |
-| 585 | 142 | Joy LaJeunesse |
-| 586 | 142 | Frisky Clearpiece |
+| 584 | 142 | Joy LaJeunesse |
+| 585 | 142 | Melissa Kay Gibson |
+| 586 | 142 | Amy Humphreys |
 | 587 | 142 | Zachary Boyarski |
 | 588 | 142 | Frisky Clearpiece |
 | 589 | 141 | Markisha Poyndexter |

@@ -78,8 +78,8 @@
 | 70 | 345 | Mendoza Lee Christy |
 | 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Trezure Gonzalez |
-| 74 | 342 | Annie Déè |
+| 73 | 342 | Annie Déè |
+| 74 | 342 | Trezure Gonzalez |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -184,8 +184,8 @@
 | 176 | 127 | Joy Petroski |
 | 177 | 127 | Connie Mohler-Fair |
 | 178 | 126 | Brandon Givens |
-| 179 | 125 | Shimika Enay Wallace |
-| 180 | 125 | Felicia Doxey |
+| 179 | 125 | Felicia Doxey |
+| 180 | 125 | Shimika Enay Wallace |
 | 181 | 124 | Cesar Barraza |
 | 182 | 123 | Terry Jo Jones |
 | 183 | 123 | Marci Mize Fandrich |
