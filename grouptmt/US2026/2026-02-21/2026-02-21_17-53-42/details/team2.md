@@ -118,8 +118,8 @@
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
 | 112 | 771 | Terri McKelvey McKinley |
-| 113 | 763 | Samantha Jo |
-| 114 | 763 | Robin Kerby |
+| 113 | 763 | Robin Kerby |
+| 114 | 763 | Samantha Jo |
 | 115 | 759 | Jose Mendoza |
 | 116 | 756 | Stephanie Neuburger |
 | 117 | 751 | Loony Snapper |

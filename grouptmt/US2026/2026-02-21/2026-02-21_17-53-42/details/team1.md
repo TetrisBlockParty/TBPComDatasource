@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -72,8 +72,8 @@
 | 64 | 274 | Theo Pinnow |
 | 65 | 270 | Sarah Roberts |
 | 66 | 263 | Bhelle Sumile |
-| 67 | 252 | Tdub |
-| 68 | 252 | Dena Kayy |
+| 67 | 252 | Dena Kayy |
+| 68 | 252 | Tdub |
 | 69 | 249 | Rachael |
 | 70 | 244 | Franswa |
 | 71 | 241 | Patrick Luckenbill |
@@ -132,8 +132,8 @@
 | 124 | 161 | Jessie Lynn |
 | 125 | 155 | Cece Ibarra |
 | 126 | 153 | Shiny Gridmatch |
-| 127 | 152 | Jacqueline Unique |
-| 128 | 152 | Speedy Snapfall |
+| 127 | 152 | Speedy Snapfall |
+| 128 | 152 | Jacqueline Unique |
 | 129 | 150 | Adele Rahman |
 | 130 | 149 | Snippy Wipebuilder |
 | 131 | 149 | Jennifer ManWarren |
