@@ -94,8 +94,8 @@
 | 86 | 154 | Angela M. Fletcher |
 | 87 | 152 | Shiny Zonebuilder |
 | 88 | 149 | Trisha Balmer |
-| 89 | 146 | mjl574 |
-| 90 | 146 | Denita Mungro |
+| 89 | 146 | Denita Mungro |
+| 90 | 146 | mjl574 |
 | 91 | 146 | Latoya Mayne |
 | 92 | 143 | ren |
 | 93 | 143 | Ashley Tookes |
@@ -125,8 +125,8 @@
 | 117 | 115 | Jennifer Alvey |
 | 118 | 114 | Jessica Bechler |
 | 119 | 111 | Joy Petroski |
-| 120 | 110 | Stella |
-| 121 | 110 | Tiff Vs Tiffany |
+| 120 | 110 | Tiff Vs Tiffany |
+| 121 | 110 | Stella |
 | 122 | 108 | Grams |
 | 123 | 108 | Rachel Napper |
 | 124 | 107 | Bryan Byrd |
@@ -141,9 +141,9 @@
 | 133 | 100 | Donna |
 | 134 | 100 | Elizabeth Renee |
 | 135 | 100 | Fredd Thomas |
-| 136 | 99 | Cherry Parker |
+| 136 | 99 | Lys |
 | 137 | 99 | Nichol Graham |
-| 138 | 99 | Lys |
+| 138 | 99 | Cherry Parker |
 | 139 | 98 | Ryan Williams |
 | 140 | 98 | Jocelyne Baca |
 | 141 | 98 | Armi |

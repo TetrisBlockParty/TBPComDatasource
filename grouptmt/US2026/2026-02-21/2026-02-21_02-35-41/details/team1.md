@@ -101,8 +101,8 @@
 | 93 | 93 | Loony Fitzone |
 | 94 | 91 | Spunky Piecebuilder |
 | 95 | 90 | Madison Wicks |
-| 96 | 87 | Jessi Sauer |
-| 97 | 87 | TSwag |
+| 96 | 87 | TSwag |
+| 97 | 87 | Jessi Sauer |
 | 98 | 85 | Steve Schneider |
 | 99 | 84 | Charla Pross-Fugleberg |
 | 100 | 84 | Yvonne Marie |
@@ -116,8 +116,8 @@
 | 108 | 80 | pjbeta |
 | 109 | 80 | Matt Cinelli |
 | 110 | 79 | Chris65 |
-| 111 | 78 | Sam Williams |
-| 112 | 78 | Carrie Beck Geartz |
+| 111 | 78 | Carrie Beck Geartz |
+| 112 | 78 | Sam Williams |
 | 113 | 77 | Teddy Alexander |
 | 114 | 76 | Archie Ware |
 | 115 | 76 | Kerry Lee Powell |
@@ -129,8 +129,8 @@
 | 121 | 72 | Tipsy Strikerpiece |
 | 122 | 71 | John Kim |
 | 123 | 70 | Daring Fitclear |
-| 124 | 69 | Christina Torres |
-| 125 | 69 | Tipsy Riseclear |
+| 124 | 69 | Tipsy Riseclear |
+| 125 | 69 | Christina Torres |
 | 126 | 68 | Blaire Bruckoff |
 | 127 | 66 | Melissa Bires Hussar |
 | 128 | 65 | Trippy Redd |

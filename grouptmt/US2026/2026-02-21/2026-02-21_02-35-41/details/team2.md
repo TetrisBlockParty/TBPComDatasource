@@ -100,8 +100,8 @@
 | 92 | 465 | Tommy Tha Boss Gunz |
 | 93 | 459 | Lisa Ongtowasruk |
 | 94 | 450 | Mari Ac |
-| 95 | 448 | Jojo Momma |
-| 96 | 448 | Nick Jensen |
+| 95 | 448 | Nick Jensen |
+| 96 | 448 | Jojo Momma |
 | 97 | 442 | Daphne Jordan |
 | 98 | 440 | Becky Weeks-Garry |
 | 99 | 440 | BYM4L |
