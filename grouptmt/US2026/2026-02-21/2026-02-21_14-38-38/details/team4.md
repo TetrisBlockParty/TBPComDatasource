@@ -132,8 +132,8 @@
 | 124 | 132 | Jenna McGeorge |
 | 125 | 130 | Casey Jeffcoat |
 | 126 | 129 | Landon Keith Graffeo |
-| 127 | 129 | John Brunetti |
-| 128 | 129 | Calvin Dennis |
+| 127 | 129 | Calvin Dennis |
+| 128 | 129 | John Brunetti |
 | 129 | 128 | Rio Rocha |
 | 130 | 126 | Dihcheese444 |
 | 131 | 126 | TinyLegoRose |

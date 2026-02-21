@@ -90,8 +90,8 @@
 | 82 | 193 | Lachelle Dillon |
 | 83 | 192 | Shaykmia |
 | 84 | 191 | Jazzy Framezone |
-| 85 | 190 | Thorne Shumate |
-| 86 | 190 | Sweetts |
+| 85 | 190 | Sweetts |
+| 86 | 190 | Thorne Shumate |
 | 87 | 189 | Happy Basegrid |
 | 88 | 187 | Redlicious 1 |
 | 89 | 180 | Erez Yosef |
