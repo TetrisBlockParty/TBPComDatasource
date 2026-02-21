@@ -95,8 +95,8 @@
 | 87 | 320 | Or Reznitsky |
 | 88 | 316 | Fancy Cascader |
 | 89 | 313 | Elaine Webb Graves |
-| 90 | 309 | CeceGeGe |
-| 91 | 309 | Rich LeBlanc |
+| 90 | 309 | Rich LeBlanc |
+| 91 | 309 | CeceGeGe |
 | 92 | 307 | Peggi Charon |
 | 93 | 307 | Blocked |
 | 94 | 300 | Sherika C. McDaniels |
@@ -118,8 +118,8 @@
 | 110 | 228 | Rachael McClain Owens |
 | 111 | 227 | Crimson |
 | 112 | 225 | Speedy Bridger |
-| 113 | 224 | Judi Dobson |
-| 114 | 224 | Mykal Burton |
+| 113 | 224 | Mykal Burton |
+| 114 | 224 | Judi Dobson |
 | 115 | 223 | Jeana Gilbert |
 | 116 | 222 | Jimmie Clemons |
 | 117 | 220 | Stephanie Blkpep Davidson |
@@ -132,12 +132,12 @@
 | 124 | 204 | Aaron Pitkin |
 | 125 | 202 | Twisty Brick LT |
 | 126 | 199 | joclisa |
-| 127 | 195 | Jenny Hrndz |
-| 128 | 195 | Nicha Hooker |
+| 127 | 195 | Nicha Hooker |
+| 128 | 195 | Jenny Hrndz |
 | 129 | 194 | glichmod |
 | 130 | 193 | Stephanie Burtin |
-| 131 | 193 | Duane Bright |
-| 132 | 193 | Clever Shiftsnap |
+| 131 | 193 | Clever Shiftsnap |
+| 132 | 193 | Duane Bright |
 | 133 | 192 | Chasity |
 | 134 | 191 | Giddy Twistbuilder |
 | 135 | 191 | Scott Carleton |
@@ -171,9 +171,9 @@
 | 163 | 163 | Stephanie Hill |
 | 164 | 161 | BŘŰŤİÇŨŚ |
 | 165 | 160 | Tiffany Davie |
-| 166 | 159 | Stephanie Whitefield |
-| 167 | 159 | Jone |
-| 168 | 159 | Morgan Martinez |
+| 166 | 159 | Morgan Martinez |
+| 167 | 159 | Stephanie Whitefield |
+| 168 | 159 | Jone |
 | 169 | 158 | Grams |
 | 170 | 157 | Nicholas Roddy |
 | 171 | 157 | Patricia Gadsden |
@@ -276,7 +276,7 @@
 | 268 | 100 | Bobbi Moore |
 | 269 | 100 | Demetrious Shaw Sr. |
 | 270 | 100 | Edwin Calvillo Jr. |
-| 271 | 99 | Michael Nowogorski |
+| 271 | 99 | Nichol Graham |
 | 272 | 99 | MizzMonick Smith |
 | 273 | 99 | Michael Nowogorski |
 | 274 | 98 | Erika Thornton |
@@ -354,8 +354,8 @@
 | 346 | 77 | Bekah Dietrich |
 | 347 | 77 | Tommy Proctor |
 | 348 | 77 | Tanesha BigBabby Darling |
-| 349 | 76 | JustLessie |
-| 350 | 76 | Kammy Hill |
+| 349 | 76 | Kammy Hill |
+| 350 | 76 | JustLessie |
 | 351 | 76 | Alma M Brown |
 | 352 | 76 | Snazzy Filler |
 | 353 | 76 | Alexi Pryor |

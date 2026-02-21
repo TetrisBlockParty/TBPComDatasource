@@ -82,18 +82,18 @@
 | 74 | 195 | Dustee Craddock-Harrison |
 | 75 | 194 | Jamie Mann-Deichmann |
 | 76 | 187 | Swanky Fitline |
-| 77 | 185 | Andy Cabral |
-| 78 | 185 | loulou |
+| 77 | 185 | loulou |
+| 78 | 185 | Andy Cabral |
 | 79 | 184 | Dizzy Tiley |
 | 80 | 182 | shar |
 | 81 | 180 | Leah Kutz Zirbel |
 | 82 | 179 | Epic Curvetile |
 | 83 | 178 | Lori |
-| 84 | 173 | Zethra Prenisha Rahming |
-| 85 | 173 | Jeff Brian Gates |
+| 84 | 173 | Jeff Brian Gates |
+| 85 | 173 | Zethra Prenisha Rahming |
 | 86 | 171 | Melvin Baird |
-| 87 | 170 | Justin Hannigan |
-| 88 | 170 | Girl |
+| 87 | 170 | Girl |
+| 88 | 170 | Justin Hannigan |
 | 89 | 168 | Jae Job |
 | 90 | 167 | Denise Carlson |
 | 91 | 167 | Carlton Unfiltered |
@@ -127,8 +127,8 @@
 | 119 | 132 | Melissa Priest Sellers |
 | 120 | 132 | Jessica Cagle |
 | 121 | 130 | Casey Jeffcoat |
-| 122 | 129 | Landon Keith Graffeo |
-| 123 | 129 | John Brunetti |
+| 122 | 129 | John Brunetti |
+| 123 | 129 | Landon Keith Graffeo |
 | 124 | 128 | Rio Rocha |
 | 125 | 126 | Dihcheese444 |
 | 126 | 126 | Klo |
@@ -162,7 +162,7 @@
 | 154 | 108 | Ali Ian |
 | 155 | 107 | Marcus Todd |
 | 156 | 106 | Avy Absol |
-| 157 | 105 | AyeKay |
+| 157 | 105 | TheNeesh50 |
 | 158 | 105 | Kristin MacDonald |
 | 159 | 105 | 🥔🥔 Spudz |
 | 160 | 105 | AyeKay |
@@ -188,8 +188,8 @@
 | 180 | 95 | Victoria Faniel |
 | 181 | 95 | Meagan Nicole |
 | 182 | 94 | Chastity Mitchell |
-| 183 | 94 | Kim Hunt |
-| 184 | 94 | DonMega |
+| 183 | 94 | DonMega |
+| 184 | 94 | Kim Hunt |
 | 185 | 93 | Zesty Twistbuilder |
 | 186 | 92 | Misty Hollibaugh |
 | 187 | 90 | Lauren Lamb |

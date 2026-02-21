@@ -53,8 +53,8 @@
 | 45 | 291 | Nancy Green |
 | 46 | 287 | Hyper |
 | 47 | 276 | Kristen Roles Robben |
-| 48 | 274 | Theo Pinnow |
-| 49 | 274 | Sweet Baker |
+| 48 | 274 | Sweet Baker |
+| 49 | 274 | Theo Pinnow |
 | 50 | 272 | Adam Byrd |
 | 51 | 264 | Shauna Loe |
 | 52 | 257 | Sarah Roberts |
@@ -116,8 +116,8 @@
 | 108 | 149 | Tana |
 | 109 | 149 | Jennifer ManWarren |
 | 110 | 148 | Shauntina Burke |
-| 111 | 146 | Irual Hctrab |
-| 112 | 146 | Tanya Carpenter-Reynolds |
+| 111 | 146 | Tanya Carpenter-Reynolds |
+| 112 | 146 | Irual Hctrab |
 | 113 | 145 | BigWeenie69 |
 | 114 | 144 | femmefatale |
 | 115 | 144 | Plucky Ziggy |
