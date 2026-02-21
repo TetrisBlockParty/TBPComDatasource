@@ -81,10 +81,10 @@
 | 73 | 87 | Malakai Darien Fox |
 | 74 | 86 | amy |
 | 75 | 85 | Mimi |
-| 76 | 81 | Michelle Parker |
-| 77 | 81 | Kesha Brady |
-| 78 | 79 | Zesty Twistbuilder |
-| 79 | 79 | Avy Absol |
+| 76 | 81 | Kesha Brady |
+| 77 | 81 | Michelle Parker |
+| 78 | 79 | Avy Absol |
+| 79 | 79 | Zesty Twistbuilder |
 | 80 | 77 | Kim Hunt |
 | 81 | 75 | Chair |
 | 82 | 75 | Rosemary Foster |
