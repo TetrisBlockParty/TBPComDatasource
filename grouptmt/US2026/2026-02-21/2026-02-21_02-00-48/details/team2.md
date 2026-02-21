@@ -154,8 +154,8 @@
 | 146 | 285 | June E Hanson |
 | 147 | 284 | Brittney Jean |
 | 148 | 280 | Kimberly Schall |
-| 149 | 280 | Joseph Musick |
-| 150 | 280 | TF Dyer |
+| 149 | 280 | TF Dyer |
+| 150 | 280 | Joseph Musick |
 | 151 | 278 | Noel Tarmy |
 | 152 | 276 | Lindsey Leigh |
 | 153 | 274 | Melissa Holsinger |
@@ -176,8 +176,8 @@
 | 168 | 258 | Steven Marshaun |
 | 169 | 257 | Alex Hill |
 | 170 | 256 | Dapper Dasher |
-| 171 | 255 | Michelle Pike |
-| 172 | 255 | Santana Miyagi |
+| 171 | 255 | Santana Miyagi |
+| 172 | 255 | Michelle Pike |
 | 173 | 254 | Libby Hicks |
 | 174 | 252 | Alezandra Smith |
 | 175 | 251 | Shameika Trail |
@@ -298,8 +298,8 @@
 | 290 | 158 | RaeVan Worthington |
 | 291 | 158 | Matthew Turner |
 | 292 | 157 | Jánine Riggs |
-| 293 | 157 | HarleyJane |
-| 294 | 157 | Klee |
+| 293 | 157 | Klee |
+| 294 | 157 | HarleyJane |
 | 295 | 156 | Ramone Armstrong |
 | 296 | 156 | Nuggets |
 | 297 | 156 | Deanna Morton |
@@ -333,8 +333,8 @@
 | 325 | 141 | Markisha Poyndexter |
 | 326 | 140 | Anthony Huebel |
 | 327 | 140 | Amber Gray |
-| 328 | 139 | Ashlyn Berner |
-| 329 | 139 | Jackson Smith |
+| 328 | 139 | Jackson Smith |
+| 329 | 139 | Ashlyn Berner |
 | 330 | 139 | Caitlin Johnson |
 | 331 | 138 | King Shamell Young |
 | 332 | 138 | Gursharan Sandhu |
@@ -371,9 +371,9 @@
 | 363 | 125 | Marsha Sosa Kiech |
 | 364 | 125 | Chilly Rollblock |
 | 365 | 124 | Erica Williams |
-| 366 | 124 | Monica Brown |
-| 367 | 124 | Jazzy Grabber |
-| 368 | 124 | Samantha Williams-Bittner |
+| 366 | 124 | Samantha Williams-Bittner |
+| 367 | 124 | Monica Brown |
+| 368 | 124 | Jazzy Grabber |
 | 369 | 124 | Witty Piecebuilder |
 | 370 | 123 | Amanda Diegel |
 | 371 | 122 | Scott Treadway |

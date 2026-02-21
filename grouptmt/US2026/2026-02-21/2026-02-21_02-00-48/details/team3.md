@@ -150,8 +150,8 @@
 | 142 | 92 | Jennifer Caputo |
 | 143 | 92 | Annie Déè |
 | 144 | 91 | Sarajane Lokan |
-| 145 | 90 | Tiffany Kaupang |
-| 146 | 90 | Eon Harris |
+| 145 | 90 | Eon Harris |
+| 146 | 90 | Tiffany Kaupang |
 | 147 | 89 | Hyper Bridger |
 | 148 | 89 | Rebel124 |
 | 149 | 88 | Funky Jumper |
@@ -174,11 +174,11 @@
 | 166 | 78 | Clever Patterner |
 | 167 | 77 | Lush Risebuilder |
 | 168 | 77 | Nikki Pags |
-| 169 | 76 | Chad Wilson |
-| 170 | 76 | Oliver Neal II |
+| 169 | 76 | Oliver Neal II |
+| 170 | 76 | Chad Wilson |
 | 171 | 76 | Melissa Orth Hunter |
-| 172 | 75 | Patti Skiles |
-| 173 | 75 | Janelle Goetz |
+| 172 | 75 | Janelle Goetz |
+| 173 | 75 | Patti Skiles |
 | 174 | 75 | Joey Banks |
 | 175 | 75 | Jack Bo |
 | 176 | 74 | Tasha Wesson-Torrence |
