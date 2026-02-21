@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Amanda Summey Schoemer |
-| 23 | 511 | Jen Sartain |
+| 22 | 511 | Jen Sartain |
+| 23 | 511 | Amanda Summey Schoemer |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -145,7 +145,7 @@
 | 137 | 114 | Colleen Wise |
 | 138 | 114 | Giddy Cascade |
 | 139 | 113 | Desiree Deschaine Havee |
-| 140 | 112 | Chris65 |
+| 140 | 112 | Nicole Roseberry Weber |
 | 141 | 112 | Kristen Gideon |
 | 142 | 112 | Flashy Rotator |
 | 143 | 112 | Chris65 |

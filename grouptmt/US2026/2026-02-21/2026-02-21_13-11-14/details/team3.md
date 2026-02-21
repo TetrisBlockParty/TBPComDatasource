@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 835 | Delilah belle |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Snappy Glidepiece |
-| 44 | 546 | Dolores Falco |
+| 43 | 546 | Dolores Falco |
+| 44 | 546 | Snappy Glidepiece |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -83,8 +83,8 @@
 | 75 | 360 | Ebony West-Cundiff |
 | 76 | 353 | Stephanie Woods |
 | 77 | 346 | Shannon Matthew Byers |
-| 78 | 342 | Annie Déè |
-| 79 | 342 | Trezure Gonzalez |
+| 78 | 342 | Trezure Gonzalez |
+| 79 | 342 | Annie Déè |
 | 80 | 338 | Danielle Rhoades |
 | 81 | 332 | Chauntee Alfrey-Cardinale |
 | 82 | 325 | Shari Garber |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Jenny Hrndz |
-| 125 | 195 | Nicha Hooker |
+| 124 | 195 | Nicha Hooker |
+| 125 | 195 | Jenny Hrndz |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -138,8 +138,8 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Staci George Fitzsimmons |
-| 134 | 189 | Fallorina Susana |
+| 133 | 189 | Fallorina Susana |
+| 134 | 189 | Staci George Fitzsimmons |
 | 135 | 184 | Jennie Beranek |
 | 136 | 182 | Hyper Matchzone |
 | 137 | 182 | Ashley Tookes |
@@ -164,10 +164,10 @@
 | 156 | 160 | Tiffany Davie |
 | 157 | 159 | Morgan Martinez |
 | 158 | 159 | Jone |
-| 159 | 158 | BŘŰŤİÇŨŚ |
-| 160 | 158 | Grams |
-| 161 | 157 | Patricia Gadsden |
-| 162 | 157 | Nicholas Roddy |
+| 159 | 158 | Grams |
+| 160 | 158 | BŘŰŤİÇŨŚ |
+| 161 | 157 | Nicholas Roddy |
+| 162 | 157 | Patricia Gadsden |
 | 163 | 156 | Joey Banks |
 | 164 | 154 | Angela M. Fletcher |
 | 165 | 153 | Stephanie Whitefield |
@@ -184,9 +184,9 @@
 | 176 | 146 | Denita Mungro |
 | 177 | 145 | Bryan Byrd |
 | 178 | 142 | Erica Anderson |
-| 179 | 140 | Jay Horn |
+| 179 | 140 | Gumbo |
 | 180 | 140 | Carrie Huskey |
-| 181 | 140 | Gumbo |
+| 181 | 140 | Jay Horn |
 | 182 | 138 | Jessica Bechler |
 | 183 | 137 | Aerian Preston |
 | 184 | 136 | Boldy Corner |
@@ -242,8 +242,8 @@
 | 234 | 107 | France Vézina |
 | 235 | 107 | Sherry Ogden |
 | 236 | 106 | Noettín Kan Zasnemoore |
-| 237 | 105 | Boldy Blocker |
-| 238 | 105 | Carol Cain Thurman |
+| 237 | 105 | Carol Cain Thurman |
+| 238 | 105 | Boldy Blocker |
 | 239 | 105 | Emi |
 | 240 | 104 | Sarah Moyer |
 | 241 | 104 | mommablock |

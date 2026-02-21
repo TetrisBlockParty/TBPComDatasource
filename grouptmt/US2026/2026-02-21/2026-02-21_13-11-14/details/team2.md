@@ -121,8 +121,8 @@
 | 113 | 649 | Anna Edwards |
 | 114 | 641 | Ricardo Burton |
 | 115 | 632 | Beth |
-| 116 | 631 | Peppy Zone |
-| 117 | 631 | Loopy Clusterbuilder |
+| 116 | 631 | Loopy Clusterbuilder |
+| 117 | 631 | Peppy Zone |
 | 118 | 620 | BYM4L |
 | 119 | 619 | Jamie Otero |
 | 120 | 608 | John Bednarik |
@@ -170,8 +170,8 @@
 | 162 | 495 | Poppy Snap |
 | 163 | 488 | Teresa Gillmore |
 | 164 | 486 | MrsCandyfine As Wine Truss |
-| 165 | 485 | Leah Keesling |
-| 166 | 485 | Gene Mills |
+| 165 | 485 | Gene Mills |
+| 166 | 485 | Leah Keesling |
 | 167 | 484 | Suki Kaur |
 | 168 | 483 | Jordan Kaiser |
 | 169 | 482 | Eckoman518 |
@@ -241,8 +241,8 @@
 | 233 | 356 | Shameika Trail |
 | 234 | 355 | Shandrica Lowe |
 | 235 | 355 | Kristen O'Neal |
-| 236 | 354 | Brave Dropmatch |
-| 237 | 354 | Tracy Wise |
+| 236 | 354 | Tracy Wise |
+| 237 | 354 | Brave Dropmatch |
 | 238 | 353 | Joseph Musick |
 | 239 | 352 | ruth |
 | 240 | 350 | Chris Harr |
@@ -358,8 +358,8 @@
 | 350 | 262 | Taren Cowan |
 | 351 | 262 | Min |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Ebony Deloach Bryant |
-| 354 | 260 | Denise Rickman |
+| 353 | 260 | Denise Rickman |
+| 354 | 260 | Ebony Deloach Bryant |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
 | 356 | 257 | Diana Fitzwater |
 | 357 | 257 | Lyndi Robinson Wakefield |
@@ -370,8 +370,8 @@
 | 362 | 255 | Kathryn Townsley |
 | 363 | 255 | Santana Miyagi |
 | 364 | 254 | Julie Hamilton |
-| 365 | 254 | Elizabeth Diraffaele |
-| 366 | 254 | Rose Fx |
+| 365 | 254 | Rose Fx |
+| 366 | 254 | Elizabeth Diraffaele |
 | 367 | 253 | Tansaria Couch-Butler |
 | 368 | 252 | Matt Johnson |
 | 369 | 252 | Alyssia Tancredi |
@@ -724,8 +724,8 @@
 | 716 | 129 | Jordyn Morrison |
 | 717 | 129 | snaps |
 | 718 | 129 | Kara Jennifer |
-| 719 | 128 | Russell J Gindlesperger II |
-| 720 | 128 | Mine |
+| 719 | 128 | Mine |
+| 720 | 128 | Russell J Gindlesperger II |
 | 721 | 128 | Adelina Roth |
 | 722 | 128 | Tammie Siegfried |
 | 723 | 128 | Amanda Diegel |
