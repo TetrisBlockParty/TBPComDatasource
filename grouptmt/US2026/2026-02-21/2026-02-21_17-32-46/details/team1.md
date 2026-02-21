@@ -139,8 +139,8 @@
 | 131 | 146 | Irual Hctrab |
 | 132 | 145 | Angela Fairbank |
 | 133 | 145 | BigWeenie69 |
-| 134 | 144 | femmefatale |
-| 135 | 144 | Plucky Ziggy |
+| 134 | 144 | Plucky Ziggy |
+| 135 | 144 | femmefatale |
 | 136 | 143 | Sarah Marie |
 | 137 | 142 | Gary Gobin |
 | 138 | 142 | pjbeta |

@@ -123,8 +123,8 @@
 | 115 | 756 | Stephanie Neuburger |
 | 116 | 751 | Loony Snapper |
 | 117 | 735 | Donnie Hunt |
-| 118 | 734 | Melissa Cole |
-| 119 | 734 | Robin Kerby |
+| 118 | 734 | Robin Kerby |
+| 119 | 734 | Melissa Cole |
 | 120 | 732 | Crystal Hoffman |
 | 121 | 722 | Tesha Oldaker |
 | 122 | 720 | Mischelle Clay |
@@ -134,8 +134,8 @@
 | 126 | 704 | Nerdy Clearfit |
 | 127 | 703 | YiFei |
 | 128 | 700 | Vincent Petrella |
-| 129 | 700 | Rosemadder |
-| 130 | 700 | Beverly Owens |
+| 129 | 700 | Beverly Owens |
+| 130 | 700 | Rosemadder |
 | 131 | 698 | Lola Contreras |
 | 132 | 697 | Real Ri |
 | 133 | 694 | Vo'Landa Reels |
@@ -179,14 +179,14 @@
 | 171 | 569 | Gary Stash |
 | 172 | 563 | goofinoff |
 | 173 | 561 | Maria Escobar |
-| 174 | 549 | Kaylee McCafferty |
-| 175 | 549 | Charvi' Carter |
+| 174 | 549 | Charvi' Carter |
+| 175 | 549 | Kaylee McCafferty |
 | 176 | 545 | Leslie Ann Carter |
 | 177 | 544 | Poppy Snapper |
 | 178 | 543 | Diana Fitzwater |
 | 179 | 541 | SaraMarie Eveland |
-| 180 | 534 | Stephen Stephen |
-| 181 | 534 | Teresa Gillmore |
+| 180 | 534 | Teresa Gillmore |
+| 181 | 534 | Stephen Stephen |
 | 182 | 531 | Chris Wanner |
 | 183 | 528 | Brownie Sheena |
 | 184 | 527 | Stacy Stickle |
@@ -263,8 +263,8 @@
 | 255 | 409 | Sparkles |
 | 256 | 408 | Amanda Ferrell |
 | 257 | 406 | Erin StFrancis |
-| 258 | 405 | Christy Krissie |
-| 259 | 405 | Sarah Massey |
+| 258 | 405 | Sarah Massey |
+| 259 | 405 | Christy Krissie |
 | 260 | 402 | Joshua Mandel |
 | 261 | 400 | Rhonda Milstead |
 | 262 | 400 | Tammy Allen |
@@ -458,8 +458,8 @@
 | 450 | 251 | Niceday |
 | 451 | 250 | Mike73 |
 | 452 | 250 | Steve Man |
-| 453 | 249 | Nicky Jackson |
-| 454 | 249 | Porsche' Nicole |
+| 453 | 249 | Porsche' Nicole |
+| 454 | 249 | Nicky Jackson |
 | 455 | 248 | Gursharan Sandhu |
 | 456 | 248 | Maddy Petersen |
 | 457 | 248 | Dany Murillo |

@@ -153,8 +153,8 @@
 | 145 | 212 | Shunta Jacobs |
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
-| 148 | 207 | rnr junky |
-| 149 | 207 | Chris Bell |
+| 148 | 207 | Chris Bell |
+| 149 | 207 | rnr junky |
 | 150 | 207 | Jessica |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
