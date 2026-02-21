@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -158,9 +158,9 @@
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
-| 153 | 149 | Trisha Balmer |
-| 154 | 149 | Angel Mendez |
-| 155 | 149 | Bea Miles |
+| 153 | 149 | Angel Mendez |
+| 154 | 149 | Bea Miles |
+| 155 | 149 | Trisha Balmer |
 | 156 | 147 | Sashay Tapae Simpson |
 | 157 | 146 | Denita Mungro |
 | 158 | 146 | Latoya Mayne |

@@ -96,8 +96,8 @@
 | 88 | 140 | Shannon Ferrari |
 | 89 | 138 | Shainne Brewer |
 | 90 | 136 | Tanner Lund |
-| 91 | 134 | Jessica Bohlken |
-| 92 | 134 | Chirpy Basepiece |
+| 91 | 134 | Chirpy Basepiece |
+| 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
 | 94 | 132 | Jenna McGeorge |
 | 95 | 132 | Melissa Priest Sellers |
@@ -126,10 +126,10 @@
 | 118 | 118 | Leslie Nicole |
 | 119 | 116 | Serena Goodridge |
 | 120 | 116 | Diana Houts |
-| 121 | 115 | Ultramarine |
-| 122 | 115 | Jayk |
-| 123 | 113 | Andria Lynn |
-| 124 | 113 | Stephme310 |
+| 121 | 115 | Jayk |
+| 122 | 115 | Ultramarine |
+| 123 | 113 | Stephme310 |
+| 124 | 113 | Andria Lynn |
 | 125 | 112 | Austin Owens |
 | 126 | 112 | Bryan Hodgins |
 | 127 | 112 | Brittany Marsh |
@@ -150,8 +150,8 @@
 | 142 | 104 | Damn Libra |
 | 143 | 102 | ĥuf |
 | 144 | 102 | Faja |
-| 145 | 101 | Saulc1991 |
-| 146 | 101 | Michelle Morris |
+| 145 | 101 | Michelle Morris |
+| 146 | 101 | Saulc1991 |
 | 147 | 100 | Alexandra Karavias |
 | 148 | 98 | Jeremy Steines |
 | 149 | 98 | Allen Lloyd |
@@ -179,7 +179,7 @@
 | 171 | 86 | Jacob Richard |
 | 172 | 86 | amy |
 | 173 | 86 | Destiney Carter |
-| 174 | 85 | Shukee Lo |
+| 174 | 85 | Chirpy Slammer |
 | 175 | 85 | Dizzy Tiley |
 | 176 | 85 | Shukee Lo |
 | 177 | 85 | Marcus TheeyoungWoe Gilmore |

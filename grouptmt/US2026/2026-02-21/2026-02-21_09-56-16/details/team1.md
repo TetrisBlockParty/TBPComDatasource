@@ -80,8 +80,8 @@
 | 72 | 190 | Thorne Shumate |
 | 73 | 189 | Happy Basegrid |
 | 74 | 180 | Erez Yosef |
-| 75 | 173 | Frothy Pattern |
-| 76 | 173 | june october |
+| 75 | 173 | june october |
+| 76 | 173 | Frothy Pattern |
 | 77 | 171 | Jennifer Olewnik Soborowski |
 | 78 | 167 | Adam Byrd |
 | 79 | 166 | Rico Rico |
@@ -122,8 +122,8 @@
 | 114 | 123 | LaQuetta Faith Hines |
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
-| 117 | 119 | Irual Hctrab |
-| 118 | 119 | April Carroll |
+| 117 | 119 | April Carroll |
+| 118 | 119 | Irual Hctrab |
 | 119 | 119 | Tater |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Evie Khalil |

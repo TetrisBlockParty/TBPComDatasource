@@ -367,8 +367,8 @@
 | 359 | 229 | Kimmy Newman |
 | 360 | 228 | Michelle Sager |
 | 361 | 227 | Nutty Matchline |
-| 362 | 227 | JacJac |
-| 363 | 227 | Sanaa Nounoussa |
+| 362 | 227 | Sanaa Nounoussa |
+| 363 | 227 | JacJac |
 | 364 | 227 | Demeka Dangerous-kisses Johnson |
 | 365 | 226 | Leslie Ann Carter |
 | 366 | 226 | Juliana Marques Do Nascimento Gordy |
@@ -485,8 +485,8 @@
 | 477 | 166 | suuny |
 | 478 | 165 | Tara Lynn Janes |
 | 479 | 165 | Catherine Varea |
-| 480 | 165 | Cathy Bitters |
-| 481 | 165 | Austin Wilson |
+| 480 | 165 | Austin Wilson |
+| 481 | 165 | Cathy Bitters |
 | 482 | 164 | Jessica Vega |
 | 483 | 164 | Sara Pennington |
 | 484 | 163 | Danielle Ayoub |
