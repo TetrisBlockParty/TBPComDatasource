@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 728 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -211,8 +211,8 @@
 | 203 | 108 | Rachel Napper |
 | 204 | 108 | LaTanya GeminiondaRise Johnson |
 | 205 | 107 | Sherry Ogden |
-| 206 | 106 | Eon Harris |
-| 207 | 106 | Desiree Gold |
+| 206 | 106 | Desiree Gold |
+| 207 | 106 | Eon Harris |
 | 208 | 105 | Emi |
 | 209 | 105 | Carol Cain Thurman |
 | 210 | 104 | mommablock |

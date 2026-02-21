@@ -147,8 +147,8 @@
 | 139 | 104 | Damn Libra |
 | 140 | 104 | YoMomma |
 | 141 | 102 | Faja |
-| 142 | 101 | Michelle Morris |
-| 143 | 101 | Saulc1991 |
+| 142 | 101 | Saulc1991 |
+| 143 | 101 | Michelle Morris |
 | 144 | 100 | Alexandra Karavias |
 | 145 | 99 | ĥuf |
 | 146 | 98 | Allen Lloyd |
@@ -520,7 +520,7 @@
 | 512 | 28 | Toots |
 | 513 | 28 | Chummy Towerzone |
 | 514 | 28 | Marta Savchuk |
-| 515 | 28 | Chummy Towerzone |
+| 515 | 28 | Crystal Nicolette Moore |
 | 516 | 27 | Samantha Kimes |
 | 517 | 27 | Robert Bolden |
 | 518 | 27 | Badatvs |

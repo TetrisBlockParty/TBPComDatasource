@@ -99,8 +99,8 @@
 | 91 | 674 | Dannette Goldberg-Richards |
 | 92 | 672 | Wendy Harder Gage |
 | 93 | 665 | Dineisha Carpenter |
-| 94 | 658 | Vistabrat |
-| 95 | 658 | Pacynthia Williams |
+| 94 | 658 | Pacynthia Williams |
+| 95 | 658 | Vistabrat |
 | 96 | 653 | Becky Weeks-Garry |
 | 97 | 649 | Anna Edwards |
 | 98 | 649 | Stephanie Chapman |
@@ -138,8 +138,8 @@
 | 130 | 520 | Kimberly Schall |
 | 131 | 519 | Maria Escobar |
 | 132 | 517 | Debra Williams |
-| 133 | 515 | Real Ri |
-| 134 | 515 | Kaylee McCafferty |
+| 133 | 515 | Kaylee McCafferty |
+| 134 | 515 | Real Ri |
 | 135 | 513 | Butta |
 | 136 | 512 | Tralonda Weeks |
 | 137 | 510 | Ashley House |
@@ -202,8 +202,8 @@
 | 194 | 363 | William Meussner |
 | 195 | 359 | Brainy Smurf |
 | 196 | 357 | Shannon Byrd |
-| 197 | 356 | Deyawn Smith |
-| 198 | 356 | Alyssaaelena |
+| 197 | 356 | Alyssaaelena |
+| 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
 | 201 | 350 | Chris Harr |
@@ -318,8 +318,8 @@
 | 310 | 251 | Ann Knutson Anderson |
 | 311 | 250 | Barbra Miller |
 | 312 | 250 | Peachy Blockbuilder |
-| 313 | 249 | Nicky Jackson |
-| 314 | 249 | Porsche' Nicole |
+| 313 | 249 | Porsche' Nicole |
+| 314 | 249 | Nicky Jackson |
 | 315 | 248 | Leah Keesling |
 | 316 | 248 | Bubbly Snapfit |
 | 317 | 248 | Maddy Petersen |
@@ -457,8 +457,8 @@
 | 449 | 175 | Shandrica Lowe |
 | 450 | 174 | Jason Garnatz |
 | 451 | 173 | Ocean-Brianna McGregor |
-| 452 | 173 | kippykay |
-| 453 | 173 | Robin |
+| 452 | 173 | Robin |
+| 453 | 173 | kippykay |
 | 454 | 172 | HarleyJane |
 | 455 | 171 | Cappin You |
 | 456 | 171 | William Hunt |
@@ -501,11 +501,11 @@
 | 493 | 158 | Groovy Puzzle |
 | 494 | 157 | Andrew Bratton-Tomes |
 | 495 | 157 | Twisty Tetriblast |
-| 496 | 157 | Nicol Craven |
-| 497 | 157 | Klee |
+| 496 | 157 | Klee |
+| 497 | 157 | Nicol Craven |
 | 498 | 157 | Ty Quarles |
-| 499 | 156 | Nuggets |
-| 500 | 156 | Deanna Morton |
+| 499 | 156 | Deanna Morton |
+| 500 | 156 | Nuggets |
 | 501 | 156 | RetroLemur |
 | 502 | 155 | Monarca26 |
 | 503 | 155 | Chelle |
