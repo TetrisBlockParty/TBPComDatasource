@@ -110,8 +110,8 @@
 | 102 | 1048 | PsychKIRAtrist |
 | 103 | 1035 | Donnie Hunt |
 | 104 | 1017 | Sarah Freitas |
-| 105 | 1011 | Brave Dropmatch |
-| 106 | 1011 | Amy Sayers |
+| 105 | 1011 | Amy Sayers |
+| 106 | 1011 | Brave Dropmatch |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
 | 109 | 983 | Adam Erikson |
@@ -440,9 +440,9 @@
 | 432 | 330 | Lucy Marshall |
 | 433 | 329 | Chummy Blockbuilder |
 | 434 | 329 | Jroc |
-| 435 | 327 | Danielle Simmons |
+| 435 | 327 | Ann Matzkanin |
 | 436 | 327 | Jean FU Jagielski |
-| 437 | 327 | Ann Matzkanin |
+| 437 | 327 | Danielle Simmons |
 | 438 | 327 | Kiana Boschh |
 | 439 | 326 | Morgan Easter |
 | 440 | 326 | Elisheva Mizrachi |

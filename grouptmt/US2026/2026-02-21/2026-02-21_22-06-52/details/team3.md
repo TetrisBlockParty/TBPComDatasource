@@ -133,8 +133,8 @@
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Blocked |
-| 129 | 307 | Peggi Charon |
+| 128 | 307 | Peggi Charon |
+| 129 | 307 | Blocked |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
@@ -168,8 +168,8 @@
 | 160 | 234 | Tom Nault |
 | 161 | 233 | Ray Lader |
 | 162 | 231 | Nikki Pags |
-| 163 | 228 | Morgan Martinez |
-| 164 | 228 | Rochelle Hazelett |
+| 163 | 228 | Rochelle Hazelett |
+| 164 | 228 | Morgan Martinez |
 | 165 | 226 | Grego Daniel |
 | 166 | 224 | Nicole Myers |
 | 167 | 223 | Jeana Gilbert |
@@ -229,8 +229,8 @@
 | 221 | 175 | Tasha Wesson-Torrence |
 | 222 | 174 | Marquita Sheard |
 | 223 | 172 | Grams |
-| 224 | 169 | BŘŰŤİÇŨŚ |
-| 225 | 169 | Emma |
+| 224 | 169 | Emma |
+| 225 | 169 | BŘŰŤİÇŨŚ |
 | 226 | 168 | MsBee |
 | 227 | 166 | Betty Rosas |
 | 228 | 166 | Betty Ivy |

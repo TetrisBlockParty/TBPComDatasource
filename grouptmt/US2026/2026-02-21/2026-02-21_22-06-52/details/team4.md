@@ -137,8 +137,8 @@
 | 129 | 180 | Serena Goodridge |
 | 130 | 180 | Leah Kutz Zirbel |
 | 131 | 178 | Lori |
-| 132 | 176 | Klo |
-| 133 | 176 | Stacey Stano |
+| 132 | 176 | Stacey Stano |
+| 133 | 176 | Klo |
 | 134 | 175 | Ren Mc |
 | 135 | 174 | shark tato |
 | 136 | 174 | Dihcheese444 |
@@ -154,12 +154,12 @@
 | 146 | 153 | Empress Oasis |
 | 147 | 151 | Bethany Ison |
 | 148 | 151 | Avy Absol |
-| 149 | 149 | Roger Coulter |
-| 150 | 149 | Shainne Brewer |
+| 149 | 149 | Shainne Brewer |
+| 150 | 149 | Roger Coulter |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
-| 153 | 147 | Jay28 |
-| 154 | 147 | Chair |
+| 153 | 147 | Chair |
+| 154 | 147 | Jay28 |
 | 155 | 145 | Daria Rycewicz |
 | 156 | 144 | Mr. Party |
 | 157 | 141 | Malakai Darien Fox |
@@ -198,8 +198,8 @@
 | 190 | 124 | SammieJo Guy |
 | 191 | 123 | Austin Owens |
 | 192 | 123 | Chaz |
-| 193 | 122 | 🥔🥔 Spudz |
-| 194 | 122 | Sherri |
+| 193 | 122 | Sherri |
+| 194 | 122 | 🥔🥔 Spudz |
 | 195 | 121 | Megan Cutshaw |
 | 196 | 121 | Joseph Pace |
 | 197 | 121 | Smiley Tiltbuilder |
@@ -283,8 +283,8 @@
 | 275 | 90 | Carol Ricks Raymond |
 | 276 | 90 | Thomas Hettenhaus |
 | 277 | 90 | Hyper Builder |
-| 278 | 89 | Jonathan Mahfood |
-| 279 | 89 | bloat princess |
+| 278 | 89 | bloat princess |
+| 279 | 89 | Jonathan Mahfood |
 | 280 | 88 | Kesha Brady |
 | 281 | 88 | Scott Jameson |
 | 282 | 88 | Michelle Parker |
@@ -362,8 +362,8 @@
 | 354 | 70 | Robert Rangel |
 | 355 | 70 | Brittany Price |
 | 356 | 69 | Beth Helms |
-| 357 | 69 | Meli  Jackson |
-| 358 | 69 | Frisky Column |
+| 357 | 69 | Frisky Column |
+| 358 | 69 | Jessica Wells |
 | 359 | 69 | Meli  Jackson |
 | 360 | 68 | Kelly Duncan |
 | 361 | 68 | zelda Morgan |
