@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Annie Déè |
-| 62 | 342 | Trezure Gonzalez |
+| 61 | 342 | Trezure Gonzalez |
+| 62 | 342 | Annie Déè |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -88,9 +88,9 @@
 | 80 | 224 | Mykal Burton |
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
-| 83 | 218 | Danielle Cutler |
-| 84 | 218 | mjl574 |
-| 85 | 218 | Judi Dobson |
+| 83 | 218 | mjl574 |
+| 84 | 218 | Judi Dobson |
+| 85 | 218 | Danielle Cutler |
 | 86 | 214 | Amy Fuller Heaton |
 | 87 | 207 | rnr junky |
 | 88 | 206 | Stephanie Blkpep Davidson |
@@ -229,8 +229,8 @@
 | 221 | 86 | Clever Clearbuilder |
 | 222 | 86 | Criss |
 | 223 | 85 | Chris Bell |
-| 224 | 84 | Flashy Rumbler |
-| 225 | 84 | Amanda L Baker |
+| 224 | 84 | Amanda L Baker |
+| 225 | 84 | Flashy Rumbler |
 | 226 | 83 | Trice Thomas |
 | 227 | 82 | Crystel b520 |
 | 228 | 82 | Erica Anderson |
@@ -328,8 +328,8 @@
 | 320 | 59 | Bastian Campbell |
 | 321 | 59 | kacihall |
 | 322 | 58 | Jess Meyers |
-| 323 | 58 | David Kozen |
-| 324 | 58 | Mandie Alexandra Adones |
+| 323 | 58 | Mandie Alexandra Adones |
+| 324 | 58 | David Kozen |
 | 325 | 58 | Erzulie |
 | 326 | 57 | Kiki |
 | 327 | 57 | DoomBlock |

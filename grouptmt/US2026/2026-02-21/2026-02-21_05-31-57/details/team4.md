@@ -193,7 +193,7 @@
 | 185 | 64 | Damn Libra |
 | 186 | 64 | rebel4lyfe |
 | 187 | 64 | Joseph Edmonson |
-| 188 | 63 | Ericca Eldridge |
+| 188 | 63 | Cheery Risebuilder |
 | 189 | 63 | Cristy Duerksen |
 | 190 | 63 | Ericca Eldridge |
 | 191 | 62 | Latisha Davis |

@@ -83,8 +83,8 @@
 | 75 | 144 | Plucky Ziggy |
 | 76 | 144 | Tanya Carpenter-Reynolds |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Blaire Bruckoff |
-| 79 | 141 | Susanna Guerry |
+| 78 | 141 | Susanna Guerry |
+| 79 | 141 | Blaire Bruckoff |
 | 80 | 137 | Nadine Velardo |
 | 81 | 133 | Brandi Huntington |
 | 82 | 132 | Davery Spencer Adair |
@@ -200,10 +200,10 @@
 | 192 | 61 | Jeremy Maubert |
 | 193 | 61 | Carolyn Smith |
 | 194 | 61 | Christine Sheridan |
-| 195 | 61 | Carolyn Smith |
-| 196 | 61 | Henry Lanier |
+| 195 | 61 | Henry Lanier |
+| 196 | 61 | Cheeky Pop |
 | 197 | 60 | Jason Cox |
-| 198 | 59 | Dino |
+| 198 | 59 | Tasha McCormack |
 | 199 | 59 | Mel Hogan |
 | 200 | 59 | Dino |
 | 201 | 58 | Steven Collins |

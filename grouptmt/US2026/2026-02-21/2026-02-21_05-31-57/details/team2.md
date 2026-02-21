@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Thomas Hedrick |
-| 101 | 540 | Charvi' Carter |
+| 100 | 540 | Charvi' Carter |
+| 101 | 540 | Thomas Hedrick |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -138,8 +138,8 @@
 | 130 | 455 | Alicia Parrish |
 | 131 | 453 | Osun Anuket Esu |
 | 132 | 450 | Giggy Blocker |
-| 133 | 448 | Nick Jensen |
-| 134 | 448 | Jojo Momma |
+| 133 | 448 | Jojo Momma |
+| 134 | 448 | Nick Jensen |
 | 135 | 442 | Daphne Jordan |
 | 136 | 440 | BYM4L |
 | 137 | 431 | Slip |
@@ -275,8 +275,8 @@
 | 267 | 247 | Fancy Twister |
 | 268 | 246 | Ashley Lopez |
 | 269 | 245 | Rachael Senard |
-| 270 | 245 | Taryece Gause |
-| 271 | 245 | Porsche' Nicole |
+| 270 | 245 | Porsche' Nicole |
+| 271 | 245 | Taryece Gause |
 | 272 | 245 | Mischelle Clay |
 | 273 | 244 | Shorty |
 | 274 | 243 | Brandy Andre |
@@ -403,8 +403,8 @@
 | 395 | 165 | Ashlyn Berner |
 | 396 | 164 | Sara Pennington |
 | 397 | 164 | Jessica Vega |
-| 398 | 163 | Danielle Ayoub |
-| 399 | 163 | HarleyJane |
+| 398 | 163 | HarleyJane |
+| 399 | 163 | Danielle Ayoub |
 | 400 | 163 | Albert McKnight |
 | 401 | 163 | Kelly Ann McCormick |
 | 402 | 162 | LC Hamilton |
