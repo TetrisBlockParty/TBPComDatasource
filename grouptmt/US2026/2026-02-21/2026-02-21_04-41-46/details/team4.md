@@ -152,7 +152,7 @@
 | 144 | 76 | Bethany Ison |
 | 145 | 75 | 🥔🥔 Spudz |
 | 146 | 75 | Rosemary Foster |
-| 147 | 74 | Melvin Baird |
+| 147 | 74 | Christina Black |
 | 148 | 74 | Krs |
 | 149 | 74 | Melvin Baird |
 | 150 | 73 | bloat princess |

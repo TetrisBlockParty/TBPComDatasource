@@ -29,8 +29,8 @@
 | 21 | 361 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Nancy Green |
-| 25 | 281 | Maria C. Hernandez |
+| 24 | 281 | Maria C. Hernandez |
+| 25 | 281 | Nancy Green |
 | 26 | 274 | Theo Pinnow |
 | 27 | 274 | Amanda Summey Schoemer |
 | 28 | 265 | Jennifer Cates |
@@ -93,8 +93,8 @@
 | 85 | 119 | Irual Hctrab |
 | 86 | 119 | Tater |
 | 87 | 115 | comrade fish |
-| 88 | 114 | Michael |
-| 89 | 114 | Giddy Cascade |
+| 88 | 114 | Giddy Cascade |
+| 89 | 114 | Michael |
 | 90 | 114 | Colleen Wise |
 | 91 | 113 | Evie Khalil |
 | 92 | 112 | Miguel Teixeira |
@@ -119,10 +119,10 @@
 | 111 | 96 | Nery Martinez |
 | 112 | 95 | Spunky Piecebuilder |
 | 113 | 95 | femmefatale |
-| 114 | 94 | Bindi |
-| 115 | 94 | Luciano Moreira |
-| 116 | 93 | Aimee Horton |
-| 117 | 93 | Loony Fitzone |
+| 114 | 94 | Luciano Moreira |
+| 115 | 94 | Bindi |
+| 116 | 93 | Loony Fitzone |
+| 117 | 93 | Aimee Horton |
 | 118 | 92 | Jessica Russell |
 | 119 | 90 | Madison Wicks |
 | 120 | 90 | TSwag |

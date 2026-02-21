@@ -305,8 +305,8 @@
 | 297 | 61 | Serenity |
 | 298 | 61 | Abigail Boyle |
 | 299 | 60 | Rainbow77375 |
-| 300 | 60 | Randy Clevenger |
-| 301 | 60 | Pizzi |
+| 300 | 60 | Tammy |
+| 301 | 60 | Randy Clevenger |
 | 302 | 60 | Pam Hilt |
 | 303 | 60 | Pizzi |
 | 304 | 59 | kacihall |
