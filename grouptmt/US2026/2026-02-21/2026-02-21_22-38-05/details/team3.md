@@ -107,8 +107,8 @@
 | 99 | 403 | Christine Filson |
 | 100 | 402 | Stephanie Simpson |
 | 101 | 397 | Mcathen |
-| 102 | 394 | Annie Déè |
-| 103 | 394 | joclisa |
+| 102 | 394 | joclisa |
+| 103 | 394 | Annie Déè |
 | 104 | 392 | Michelle |
 | 105 | 391 | Calista Jo Dickson |
 | 106 | 390 | Hasty Cascadefit |
@@ -147,8 +147,8 @@
 | 139 | 283 | Marci Mize Fandrich |
 | 140 | 278 | Rufus Lincoln |
 | 141 | 276 | Crimson |
-| 142 | 272 | rnr junky |
-| 143 | 272 | opf |
+| 142 | 272 | opf |
+| 143 | 272 | rnr junky |
 | 144 | 271 | Ashley Muncey |
 | 145 | 271 | Leah Barnett |
 | 146 | 267 | Denise Nardoni |
@@ -184,8 +184,8 @@
 | 176 | 219 | Shunta Jacobs |
 | 177 | 218 | LaNette Morgan |
 | 178 | 217 | Jess Bissett |
-| 179 | 214 | Amy Fuller Heaton |
-| 180 | 214 | Jenny Hrndz |
+| 179 | 214 | Jenny Hrndz |
+| 180 | 214 | Amy Fuller Heaton |
 | 181 | 212 | Krystal Gerstberger |
 | 182 | 211 | Katrina Turner |
 | 183 | 211 | Khaleada McGill Banks |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Raven Dudley |
-| 214 | 182 | Hyper Matchzone |
+| 213 | 182 | Hyper Matchzone |
+| 214 | 182 | Raven Dudley |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Ashley Jones |
@@ -235,8 +235,8 @@
 | 227 | 175 | Latoya Mayne |
 | 228 | 174 | Marquita Sheard |
 | 229 | 172 | Grams |
-| 230 | 169 | BŘŰŤİÇŨŚ |
-| 231 | 169 | Emma |
+| 230 | 169 | Emma |
+| 231 | 169 | BŘŰŤİÇŨŚ |
 | 232 | 168 | MsBee |
 | 233 | 166 | Betty Ivy |
 | 234 | 166 | Betty Rosas |

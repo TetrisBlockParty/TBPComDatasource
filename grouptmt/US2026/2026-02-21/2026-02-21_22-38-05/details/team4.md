@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Autum Leigh |
-| 102 | 230 | Lucas J Sutton |
+| 101 | 230 | Lucas J Sutton |
+| 102 | 230 | Autum Leigh |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -155,8 +155,8 @@
 | 147 | 156 | Holly |
 | 148 | 155 | AyeKay |
 | 149 | 153 | Empress Oasis |
-| 150 | 153 | Chair |
-| 151 | 153 | Avy Absol |
+| 150 | 153 | Avy Absol |
+| 151 | 153 | Chair |
 | 152 | 151 | Bethany Ison |
 | 153 | 149 | Roger Coulter |
 | 154 | 149 | Shainne Brewer |
@@ -176,7 +176,7 @@
 | 168 | 136 | Tanner Lund |
 | 169 | 136 | Sarah Brown |
 | 170 | 135 | Victoria Faniel |
-| 171 | 134 | Jen Caldwell |
+| 171 | 134 | Kim Klutz Olson |
 | 172 | 134 | Chirpy Basepiece |
 | 173 | 134 | Jen Caldwell |
 | 174 | 134 | Zany Shatterer |

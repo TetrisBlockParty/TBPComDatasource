@@ -247,8 +247,8 @@
 | 239 | 543 | Adira Brown |
 | 240 | 543 | Mema |
 | 241 | 537 | Slip |
-| 242 | 535 | Paul Huber |
-| 243 | 535 | Jessie McDougald |
+| 242 | 535 | Jessie McDougald |
+| 243 | 535 | Paul Huber |
 | 244 | 531 | Chris Wanner |
 | 245 | 528 | Brownie Sheena |
 | 246 | 527 | Stacy Stickle |
@@ -273,8 +273,8 @@
 | 265 | 504 | Gene Mills |
 | 266 | 504 | Cherica Taylor |
 | 267 | 503 | tejas25 |
-| 268 | 502 | Poppy Snap |
-| 269 | 502 | Magic steve |
+| 268 | 502 | Magic steve |
+| 269 | 502 | Poppy Snap |
 | 270 | 500 | Sarah Ridenour |
 | 271 | 500 | Em Chen |
 | 272 | 497 | Juliana Marques Do Nascimento Gordy |
@@ -739,8 +739,8 @@
 | 731 | 200 | Michelle Fleming Luna |
 | 732 | 200 | Sara Silvernail-Kay |
 | 733 | 199 | Michael David Hollis |
-| 734 | 199 | BeaNzMaMa |
-| 735 | 199 | Jenny Castro |
+| 734 | 199 | Jenny Castro |
+| 735 | 199 | BeaNzMaMa |
 | 736 | 199 | Alyssa Nadine Medelez |
 | 737 | 197 | Sarah Dean |
 | 738 | 197 | Kati Russeau |
