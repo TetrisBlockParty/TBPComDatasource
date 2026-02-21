@@ -45,12 +45,12 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
-| 43 | 256 | Tipsy Column |
-| 44 | 256 | Robert Benito |
-| 45 | 256 | Shauna Loe |
+| 43 | 256 | Robert Benito |
+| 44 | 256 | Shauna Loe |
+| 45 | 256 | Tipsy Column |
 | 46 | 244 | Franswa |
 | 47 | 243 | Sarah Roberts |
 | 48 | 241 | Kristen Roles Robben |
@@ -101,8 +101,8 @@
 | 93 | 147 | Veronica Eve |
 | 94 | 145 | BigWeenie69 |
 | 95 | 144 | Plucky Ziggy |
-| 96 | 144 | femmefatale |
-| 97 | 144 | Tanya Carpenter-Reynolds |
+| 96 | 144 | Tanya Carpenter-Reynolds |
+| 97 | 144 | femmefatale |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
 | 100 | 138 | Cranky Pattern |
