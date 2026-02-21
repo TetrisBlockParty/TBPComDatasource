@@ -548,10 +548,10 @@
 | 540 | 142 | Frisky Clearpiece |
 | 541 | 142 | Amy Humphreys |
 | 542 | 142 | Zachary Boyarski |
-| 543 | 142 | Joy LaJeunesse |
-| 544 | 142 | Melissa Kay Gibson |
-| 545 | 141 | Monica Brown |
-| 546 | 141 | Erika Meaux |
+| 543 | 142 | Melissa Kay Gibson |
+| 544 | 142 | Joy LaJeunesse |
+| 545 | 141 | Erika Meaux |
+| 546 | 141 | Monica Brown |
 | 547 | 141 | Markisha Poyndexter |
 | 548 | 140 | King Shamell Young |
 | 549 | 140 | Jasmine Kenney |

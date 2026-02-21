@@ -167,8 +167,8 @@
 | 159 | 88 | Kesha Brady |
 | 160 | 87 | Lauren Lamb |
 | 161 | 87 | Jen Caldwell |
-| 162 | 86 | Destiney Carter |
-| 163 | 86 | amy |
+| 162 | 86 | amy |
+| 163 | 86 | Destiney Carter |
 | 164 | 85 | Mimi |
 | 165 | 85 | Chirpy Slammer |
 | 166 | 85 | Marcus TheeyoungWoe Gilmore |
@@ -190,9 +190,9 @@
 | 182 | 81 | Nubian1 |
 | 183 | 80 | Melissa Adams |
 | 184 | 79 | Perky Piecegrid |
-| 185 | 79 | Kametsunoyaiba |
+| 185 | 79 | Joseph Pace |
 | 186 | 79 | Anthony Bryan Riva |
-| 187 | 79 | Joseph Pace |
+| 187 | 79 | Kametsunoyaiba |
 | 188 | 78 | Zesty Linkgrid |
 | 189 | 78 | Jessica Miller |
 | 190 | 77 | Zippy Gridlock |
@@ -241,9 +241,9 @@
 | 233 | 64 | rebel4lyfe |
 | 234 | 63 | Cheery Risebuilder |
 | 235 | 63 | Cristy Duerksen |
-| 236 | 62 | PennyCandee |
-| 237 | 62 | Jennifer Perkins |
-| 238 | 62 | Latisha Davis |
+| 236 | 62 | Jennifer Perkins |
+| 237 | 62 | PennyCandee |
+| 238 | 62 | Maureen Flanigan |
 | 239 | 62 | Glitzy Crasher |
 | 240 | 62 | Latisha Davis |
 | 241 | 62 | Jaycool |
@@ -256,8 +256,8 @@
 | 248 | 61 | Bradley Reeves |
 | 249 | 60 | ĥuf |
 | 250 | 60 | Ahleek Mitchell |
-| 251 | 59 | Jasmine S Caldwell |
-| 252 | 59 | Lori |
+| 251 | 59 | Lori |
+| 252 | 59 | Jasmine S Caldwell |
 | 253 | 59 | Jen Mattei |
 | 254 | 58 | Rebecca Morris |
 | 255 | 58 | Gilles Lanctot |
@@ -314,8 +314,8 @@
 | 306 | 48 | Mbeth Moore |
 | 307 | 48 | Csquared812 |
 | 308 | 48 | Porkobello |
-| 309 | 47 | Caitlyn Brown |
-| 310 | 47 | Amy Sanford |
+| 309 | 47 | Amy Sanford |
+| 310 | 47 | Caitlyn Brown |
 | 311 | 47 | JEan Price |
 | 312 | 47 | Cursed Hag |
 | 313 | 47 | James Philpot Ross |

@@ -147,11 +147,11 @@
 | 139 | 99 | Mizzledagod |
 | 140 | 99 | Aimee Horton |
 | 141 | 98 | Loony Fitzone |
-| 142 | 96 | Barrbaric |
-| 143 | 96 | Nery Martinez |
-| 144 | 96 | Melissa Lemmon |
-| 145 | 94 | Tyler Hertzog |
-| 146 | 94 | Bindi |
+| 142 | 96 | Nery Martinez |
+| 143 | 96 | Melissa Lemmon |
+| 144 | 96 | Barrbaric |
+| 145 | 94 | Bindi |
+| 146 | 94 | Tyler Hertzog |
 | 147 | 94 | Luciano Moreira |
 | 148 | 93 | Cody Gates |
 | 149 | 92 | Adam Byrd |
@@ -1031,13 +1031,13 @@
 | 1023 | 5 | Michelle Arteaga-Avila |
 | 1024 | 5 | BEARCAT |
 | 1025 | 5 | Spicy Brickline |
-| 1026 | 5 | BEARCAT |
-| 1027 | 5 | Michelle Beres |
-| 1028 | 5 | Lush Risebuilder |
-| 1029 | 5 | I Am |
-| 1030 | 5 | Camio30 |
-| 1031 | 5 | Koli |
-| 1032 | 5 | Mary Logan |
+| 1026 | 5 | Michelle Beres |
+| 1027 | 5 | Lush Risebuilder |
+| 1028 | 5 | Crystal Raffaele |
+| 1029 | 5 | Koli |
+| 1030 | 5 | ColombianNuttz |
+| 1031 | 5 | Mary Logan |
+| 1032 | 5 | Dropitliktithot |
 | 1033 | 5 | Angela Jones |
 | 1034 | 5 | Tinamarie Ann Brown |
 | 1035 | 5 | Kayla Gregory |

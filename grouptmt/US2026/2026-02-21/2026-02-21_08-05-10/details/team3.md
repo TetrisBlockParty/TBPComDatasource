@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -40,11 +40,11 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Suzieq |
-| 36 | 587 | Danielle Becker |
+| 35 | 587 | Danielle Becker |
+| 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Dolores Falco |
-| 39 | 546 | Snappy Glidepiece |
+| 38 | 546 | Snappy Glidepiece |
+| 39 | 546 | Dolores Falco |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -249,9 +249,9 @@
 | 241 | 94 | Angie Harper |
 | 242 | 94 | Carrie Huskey |
 | 243 | 93 | Tiffany Ford |
-| 244 | 92 | Trice Thomas |
-| 245 | 92 | Jennifer Caputo |
-| 246 | 92 | Ava Petito |
+| 244 | 92 | Ava Petito |
+| 245 | 92 | Trice Thomas |
+| 246 | 92 | Jennifer Caputo |
 | 247 | 91 | Martin Bernier |
 | 248 | 90 | Whitney Manuel |
 | 249 | 90 | Nichole Greene |
