@@ -154,8 +154,8 @@
 | 146 | 394 | Poppy Snapper |
 | 147 | 391 | Chilly Bridgepiece |
 | 148 | 391 | Steven Marshaun |
-| 149 | 386 | Ashie Ann |
-| 150 | 386 | Jumpy Gridpiece |
+| 149 | 386 | Jumpy Gridpiece |
+| 150 | 386 | Ashie Ann |
 | 151 | 385 | Sam |
 | 152 | 381 | Amanda Ferrell |
 | 153 | 380 | Joshua Mandel |
@@ -353,8 +353,8 @@
 | 345 | 181 | Julay |
 | 346 | 180 | Peter Palestino |
 | 347 | 180 | Niceday |
-| 348 | 179 | Cat |
-| 349 | 179 | Bette Prieto |
+| 348 | 179 | Bette Prieto |
+| 349 | 179 | Cat |
 | 350 | 179 | Desiree Harris Rosch |
 | 351 | 177 | Ryan Meilleur |
 | 352 | 177 | Angel |
