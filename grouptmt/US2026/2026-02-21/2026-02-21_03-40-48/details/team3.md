@@ -101,8 +101,8 @@
 | 93 | 175 | Jenny Hrndz |
 | 94 | 166 | Danielle Mogg |
 | 95 | 161 | rosy |
-| 96 | 159 | Jone |
-| 97 | 159 | Morgan Martinez |
+| 96 | 159 | Morgan Martinez |
+| 97 | 159 | Jone |
 | 98 | 156 | Joey Banks |
 | 99 | 155 | Shannon Matthew Byers |
 | 100 | 154 | Angela M. Fletcher |
@@ -120,11 +120,11 @@
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
-| 115 | 126 | Dan Rob |
-| 116 | 126 | Brandon Green |
-| 117 | 125 | Stephanie Simpson |
-| 118 | 125 | BŘŰŤİÇŨŚ |
-| 119 | 125 | Felicia Doxey |
+| 115 | 126 | Brandon Green |
+| 116 | 126 | Dan Rob |
+| 117 | 125 | BŘŰŤİÇŨŚ |
+| 118 | 125 | Felicia Doxey |
+| 119 | 125 | Stephanie Simpson |
 | 120 | 124 | Jeana Gilbert |
 | 121 | 123 | Kristie McFarland |
 | 122 | 122 | Shimika Enay Wallace |

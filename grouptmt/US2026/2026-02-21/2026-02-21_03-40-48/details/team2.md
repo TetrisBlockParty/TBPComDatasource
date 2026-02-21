@@ -312,8 +312,8 @@
 | 304 | 183 | Dizzy Zone |
 | 305 | 181 | Julay |
 | 306 | 180 | Peter Palestino |
-| 307 | 179 | Desiree Harris Rosch |
-| 308 | 179 | Denise Rickman |
+| 307 | 179 | Denise Rickman |
+| 308 | 179 | Desiree Harris Rosch |
 | 309 | 179 | Cat |
 | 310 | 177 | Amber Gray |
 | 311 | 177 | Kristi Biddinger |
