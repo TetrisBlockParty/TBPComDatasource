@@ -111,8 +111,8 @@
 | 103 | 129 | Landon Keith Graffeo |
 | 104 | 129 | John Brunetti |
 | 105 | 125 | Lauren Scott |
-| 106 | 123 | Cherrish Duren |
-| 107 | 123 | Nugget |
+| 106 | 123 | Nugget |
+| 107 | 123 | Cherrish Duren |
 | 108 | 123 | Bubbly Puzzler |
 | 109 | 122 | Sherri |
 | 110 | 121 | Zany Shatterer |
@@ -130,7 +130,7 @@
 | 122 | 113 | Andria Lynn |
 | 123 | 112 | Austin Owens |
 | 124 | 112 | Brittany Marsh |
-| 125 | 112 | Austin Owens |
+| 125 | 112 | Bryan Hodgins |
 | 126 | 111 | Gwendolyn Pitcairn |
 | 127 | 111 | Lazy Blocker |
 | 128 | 110 | H.R. Block |
@@ -143,8 +143,8 @@
 | 135 | 105 | TheNeesh50 |
 | 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | YoMomma |
-| 139 | 104 | Damn Libra |
+| 138 | 104 | Damn Libra |
+| 139 | 104 | YoMomma |
 | 140 | 102 | Faja |
 | 141 | 101 | Michelle Morris |
 | 142 | 101 | Saulc1991 |
@@ -182,8 +182,8 @@
 | 174 | 83 | Holly |
 | 175 | 83 | KM8 |
 | 176 | 83 | Joseph Gray |
-| 177 | 82 | Bradley Reeves |
-| 178 | 82 | Kim Hunt |
+| 177 | 82 | Kim Hunt |
+| 178 | 82 | Bradley Reeves |
 | 179 | 81 | Chair |
 | 180 | 81 | Carlos Ramirez |
 | 181 | 81 | Blessedmama |
@@ -204,8 +204,8 @@
 | 196 | 77 | Zippy Gridlock |
 | 197 | 76 | Madison Sweere |
 | 198 | 76 | Bethany Ison |
-| 199 | 75 | Rosemary Foster |
-| 200 | 75 | Christina Black |
+| 199 | 75 | Christina Black |
+| 200 | 75 | Rosemary Foster |
 | 201 | 74 | Krs |
 | 202 | 73 | Lynn Marie |
 | 203 | 73 | Staci Robinson Jones |

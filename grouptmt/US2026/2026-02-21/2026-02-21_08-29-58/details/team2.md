@@ -621,8 +621,8 @@
 | 613 | 129 | snaps |
 | 614 | 129 | Jean FU Jagielski |
 | 615 | 129 | Kara Jennifer |
-| 616 | 128 | Mine |
-| 617 | 128 | Russell J Gindlesperger II |
+| 616 | 128 | Russell J Gindlesperger II |
+| 617 | 128 | Mine |
 | 618 | 128 | Carrie Pike |
 | 619 | 128 | Amanda Diegel |
 | 620 | 128 | Leslie |

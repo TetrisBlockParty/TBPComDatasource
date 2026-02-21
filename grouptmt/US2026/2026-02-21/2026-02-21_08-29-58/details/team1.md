@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -61,8 +61,8 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Ananda Mendez |
-| 57 | 201 | Anaid Sanchez |
+| 56 | 201 | Anaid Sanchez |
+| 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Happy Snapbuild |
 | 60 | 198 | Billie Dawn Sparks |
@@ -113,8 +113,8 @@
 | 105 | 127 | Michael |
 | 106 | 126 | Cece Ibarra |
 | 107 | 124 | Cartier |
-| 108 | 123 | june october |
-| 109 | 123 | LaQuetta Faith Hines |
+| 108 | 123 | LaQuetta Faith Hines |
+| 109 | 123 | june october |
 | 110 | 121 | Bouncy Grid |
 | 111 | 119 | April Carroll |
 | 112 | 119 | Irual Hctrab |

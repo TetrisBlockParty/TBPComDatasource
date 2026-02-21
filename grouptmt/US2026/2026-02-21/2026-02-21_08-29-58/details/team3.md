@@ -129,8 +129,8 @@
 | 121 | 184 | Jennie Beranek |
 | 122 | 182 | Ashley Tookes |
 | 123 | 182 | Hyper Matchzone |
-| 124 | 180 | Tessina Dewey-Mancino |
-| 125 | 180 | Fallorina Susana |
+| 124 | 180 | Fallorina Susana |
+| 125 | 180 | Tessina Dewey-Mancino |
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
@@ -200,13 +200,13 @@
 | 192 | 113 | Brian Battjes |
 | 193 | 113 | Valerie Gendron |
 | 194 | 112 | Jessica Ann |
-| 195 | 110 | Stella |
-| 196 | 110 | Tye Stovall |
-| 197 | 109 | Diana Ibarra |
+| 195 | 110 | Tye Stovall |
+| 196 | 110 | Stella |
+| 197 | 109 | Fredd Thomas |
 | 198 | 109 | Brave Brickster |
-| 199 | 109 | Fredd Thomas |
-| 200 | 108 | LaTanya GeminiondaRise Johnson |
-| 201 | 108 | Rachel Napper |
+| 199 | 109 | Diana Ibarra |
+| 200 | 108 | Rachel Napper |
+| 201 | 108 | LaTanya GeminiondaRise Johnson |
 | 202 | 107 | Sherry Ogden |
 | 203 | 106 | Eon Harris |
 | 204 | 106 | Desiree Gold |
