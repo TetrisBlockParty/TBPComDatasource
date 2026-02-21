@@ -119,13 +119,13 @@
 | 111 | 96 | Melissa Lemmon |
 | 112 | 96 | Nery Martinez |
 | 113 | 95 | Spunky Piecebuilder |
-| 114 | 94 | Luciano Moreira |
-| 115 | 94 | Bindi |
+| 114 | 94 | Bindi |
+| 115 | 94 | Luciano Moreira |
 | 116 | 93 | Aimee Horton |
 | 117 | 93 | Loony Fitzone |
 | 118 | 92 | Jessica Russell |
-| 119 | 90 | TSwag |
-| 120 | 90 | Madison Wicks |
+| 119 | 90 | Madison Wicks |
+| 120 | 90 | TSwag |
 | 121 | 89 | Mizzledagod |
 | 122 | 87 | Jessi Sauer |
 | 123 | 86 | Desiree Deschaine Havee |

@@ -40,20 +40,20 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Michelle Marie |
-| 36 | 231 | Jenna Ingersoll |
+| 35 | 231 | Jenna Ingersoll |
+| 36 | 231 | Michelle Marie |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Leah Kutz Zirbel |
-| 48 | 170 | Girl |
+| 47 | 170 | Girl |
+| 48 | 170 | Leah Kutz Zirbel |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Casey Grabner |
 | 51 | 163 | Denise Carlson |
@@ -243,36 +243,36 @@
 | 235 | 48 | Mbeth Moore |
 | 236 | 47 | JEan Price |
 | 237 | 47 | Amy Sanford |
-| 238 | 46 | Carrie Brian |
-| 239 | 46 | Bob Moores |
-| 240 | 46 | emd |
-| 241 | 46 | Natalie;) |
-| 242 | 46 | Gilles Lanctot |
-| 243 | 46 | Aly Eggers |
-| 244 | 46 | Christina Hyde |
-| 245 | 46 | Lori Walker |
-| 246 | 45 | Chris Hartig |
-| 247 | 45 | Tammy Lewis |
-| 248 | 45 | Andrew Dang |
-| 249 | 45 | Lisa Davis |
-| 250 | 45 | Randy |
+| 238 | 46 | Gilles Lanctot |
+| 239 | 46 | Carrie Brian |
+| 240 | 46 | Bob Moores |
+| 241 | 46 | emd |
+| 242 | 46 | Natalie;) |
+| 243 | 46 | Christina Hyde |
+| 244 | 46 | Lori Walker |
+| 245 | 46 | Aly Eggers |
+| 246 | 45 | Andrew Dang |
+| 247 | 45 | Lee Silpe |
+| 248 | 45 | scott |
+| 249 | 45 | Asher |
+| 250 | 45 | Chris Hartig |
 | 251 | 45 | Ali Ian |
-| 252 | 45 | Asher |
-| 253 | 45 | Lee Silpe |
-| 254 | 45 | scott |
-| 255 | 44 | Brittany Little |
-| 256 | 44 | Susan Williams |
-| 257 | 44 | Roger Coulter |
-| 258 | 44 | PeaceOs |
-| 259 | 44 | Denise B |
-| 260 | 44 | Mary Miller |
-| 261 | 44 | Sam Bishop |
-| 262 | 44 | Shane Kalamata Platoon |
-| 263 | 44 | Meagan Nicole |
+| 252 | 45 | Randy |
+| 253 | 45 | Tammy Lewis |
+| 254 | 45 | Lisa Davis |
+| 255 | 44 | PeaceOs |
+| 256 | 44 | Denise B |
+| 257 | 44 | zelda Morgan |
+| 258 | 44 | Meagan Nicole |
+| 259 | 44 | Sam Bishop |
+| 260 | 44 | Shane Kalamata Platoon |
+| 261 | 44 | Brittany Little |
+| 262 | 44 | Mary Miller |
+| 263 | 44 | Roger Coulter |
 | 264 | 44 | Melissa VanBourgondien |
-| 265 | 44 | zelda Morgan |
-| 266 | 43 | Zocko Ellet |
-| 267 | 43 | Eric Wren |
+| 265 | 44 | Susan Williams |
+| 266 | 43 | Eric Wren |
+| 267 | 43 | Snappy Combofall |
 | 268 | 43 | Tammi Harne |
 | 269 | 43 | Zocko Ellet |
 | 270 | 42 | Kristina Black |

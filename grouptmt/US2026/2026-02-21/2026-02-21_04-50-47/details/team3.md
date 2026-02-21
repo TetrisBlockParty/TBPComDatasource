@@ -35,8 +35,8 @@
 | 27 | 588 | Jennifer Willis |
 | 28 | 587 | Suzieq |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Snappy Glidepiece |
-| 31 | 546 | Dolores Falco |
+| 30 | 546 | Dolores Falco |
+| 31 | 546 | Snappy Glidepiece |
 | 32 | 541 | MissTaylor |
 | 33 | 540 | Zippy Strikesnap |
 | 34 | 533 | Sarah Fehring |
@@ -102,16 +102,16 @@
 | 94 | 185 | Danielle Cutler |
 | 95 | 184 | Jennie Beranek |
 | 96 | 182 | Ashley Tookes |
-| 97 | 180 | Fallorina Susana |
-| 98 | 180 | Tessina Dewey-Mancino |
+| 97 | 180 | Tessina Dewey-Mancino |
+| 98 | 180 | Fallorina Susana |
 | 99 | 179 | Daira Largen |
 | 100 | 178 | Khaleada McGill Banks |
 | 101 | 175 | Jenny Hrndz |
 | 102 | 172 | Ryan Williams |
 | 103 | 166 | Danielle Mogg |
 | 104 | 164 | rosy |
-| 105 | 159 | Morgan Martinez |
-| 106 | 159 | Jone |
+| 105 | 159 | Jone |
+| 106 | 159 | Morgan Martinez |
 | 107 | 158 | Grams |
 | 108 | 156 | Joey Banks |
 | 109 | 155 | BŘŰŤİÇŨŚ |
@@ -122,8 +122,8 @@
 | 114 | 151 | Justin Ritter |
 | 115 | 149 | Trisha Balmer |
 | 116 | 149 | Bea Miles |
-| 117 | 146 | Latoya Mayne |
-| 118 | 146 | Denita Mungro |
+| 117 | 146 | Denita Mungro |
+| 118 | 146 | Latoya Mayne |
 | 119 | 140 | Jay Horn |
 | 120 | 138 | Gumbo |
 | 121 | 135 | Nicole Flippo |
