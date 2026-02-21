@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -92,11 +92,11 @@
 | 84 | 674 | Dannette Goldberg-Richards |
 | 85 | 672 | Wendy Harder Gage |
 | 86 | 665 | Dineisha Carpenter |
-| 87 | 658 | Vistabrat |
-| 88 | 658 | Pacynthia Williams |
+| 87 | 658 | Pacynthia Williams |
+| 88 | 658 | Vistabrat |
 | 89 | 653 | Becky Weeks-Garry |
-| 90 | 649 | Anna Edwards |
-| 91 | 649 | Stephanie Chapman |
+| 90 | 649 | Stephanie Chapman |
+| 91 | 649 | Anna Edwards |
 | 92 | 631 | Loopy Clusterbuilder |
 | 93 | 620 | BYM4L |
 | 94 | 608 | John Bednarik |
