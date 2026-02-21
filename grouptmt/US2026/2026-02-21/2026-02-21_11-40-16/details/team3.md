@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -127,8 +127,8 @@
 | 119 | 195 | Nicha Hooker |
 | 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -177,8 +177,8 @@
 | 169 | 140 | Jay Horn |
 | 170 | 138 | Stephanie Hill |
 | 171 | 135 | Cheryl Hinch Tenbrook |
-| 172 | 134 | DanceLuvLaugh |
-| 173 | 134 | Emma |
+| 172 | 134 | Emma |
+| 173 | 134 | DanceLuvLaugh |
 | 174 | 131 | Jl |
 | 175 | 131 | Tiffany Davie |
 | 176 | 129 | Logan Naccarato |
@@ -211,7 +211,7 @@
 | 203 | 116 | Eon Harris |
 | 204 | 115 | Hoppy Buildout |
 | 205 | 115 | Daring Builder |
-| 206 | 115 | Hoppy Buildout |
+| 206 | 115 | Jennifer Alvey |
 | 207 | 114 | Jessica Bechler |
 | 208 | 113 | Valerie Gendron |
 | 209 | 113 | Brian Battjes |

@@ -113,8 +113,8 @@
 | 105 | 658 | Vistabrat |
 | 106 | 658 | Pacynthia Williams |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Stephanie Chapman |
-| 109 | 649 | Anna Edwards |
+| 108 | 649 | Anna Edwards |
+| 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
 | 112 | 631 | Loopy Clusterbuilder |
@@ -149,8 +149,8 @@
 | 141 | 520 | Kimberly Schall |
 | 142 | 519 | Maria Escobar |
 | 143 | 517 | Debra Williams |
-| 144 | 515 | Kaylee McCafferty |
-| 145 | 515 | Real Ri |
+| 144 | 515 | Real Ri |
+| 145 | 515 | Kaylee McCafferty |
 | 146 | 513 | Butta |
 | 147 | 511 | Ramone Armstrong |
 | 148 | 511 | Dizzy Zone |
@@ -207,8 +207,8 @@
 | 199 | 391 | Qiana Sanders |
 | 200 | 386 | Ashie Ann |
 | 201 | 386 | Macy Williams |
-| 202 | 385 | Arwa Fatimah |
-| 203 | 385 | Sam |
+| 202 | 385 | Sam |
+| 203 | 385 | Arwa Fatimah |
 | 204 | 381 | Amanda Ferrell |
 | 205 | 380 | Calandra Shaya Robinson |
 | 206 | 380 | Joshua Mandel |
@@ -1197,8 +1197,8 @@
 | 1189 | 77 | Brea Nycole |
 | 1190 | 77 | Nutty Fitzone |
 | 1191 | 77 | Jenny Weidman Perrotta |
-| 1192 | 77 | Fredrick Burney |
-| 1193 | 77 | Amanda Jean Gray |
+| 1192 | 77 | Amanda Jean Gray |
+| 1193 | 77 | Tina Wright-Quigley |
 | 1194 | 77 | William Burnett |
 | 1195 | 77 | Jamie Diamond |
 | 1196 | 77 | Elena Vap |

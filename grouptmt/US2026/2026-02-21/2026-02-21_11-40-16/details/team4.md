@@ -134,8 +134,8 @@
 | 126 | 118 | Leslie Nicole |
 | 127 | 116 | Diana Houts |
 | 128 | 116 | Stephme310 |
-| 129 | 115 | Jayk |
-| 130 | 115 | Ultramarine |
+| 129 | 115 | Ultramarine |
+| 130 | 115 | Jayk |
 | 131 | 113 | Andria Lynn |
 | 132 | 112 | Austin Owens |
 | 133 | 112 | Brittany Marsh |

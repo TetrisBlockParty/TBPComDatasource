@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Tdub |
-| 57 | 212 | Jaimie Lynn |
+| 56 | 212 | Jaimie Lynn |
+| 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 208 | Mandyy Rae |
@@ -76,8 +76,8 @@
 | 68 | 198 | Happy Snapbuild |
 | 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
-| 71 | 194 | Giggly Builderline |
-| 72 | 194 | Sharon Reynolds |
+| 71 | 194 | Sharon Reynolds |
+| 72 | 194 | Giggly Builderline |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
@@ -95,8 +95,8 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | David DeSantis |
-| 91 | 155 | Standia Civil |
+| 90 | 155 | Standia Civil |
+| 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
 | 94 | 149 | Arianna O'Brien |
@@ -173,8 +173,8 @@
 | 165 | 93 | Cody Gates |
 | 166 | 92 | Timothy Dew |
 | 167 | 91 | Tyler Whitley |
-| 168 | 90 | Madison Wicks |
-| 169 | 90 | Dizzy Party |
+| 168 | 90 | Dizzy Party |
+| 169 | 90 | Madison Wicks |
 | 170 | 90 | TSwag |
 | 171 | 89 | Mara Hilker |
 | 172 | 89 | Brad MG |
