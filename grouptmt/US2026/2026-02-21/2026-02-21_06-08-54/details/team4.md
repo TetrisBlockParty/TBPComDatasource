@@ -42,8 +42,8 @@
 | 34 | 277 | KJ Pool |
 | 35 | 274 | Elizabeth Sallas |
 | 36 | 265 | Livvy |
-| 37 | 256 | Brittney Griggs |
-| 38 | 256 | Dustin Robert |
+| 37 | 256 | Dustin Robert |
+| 38 | 256 | Brittney Griggs |
 | 39 | 244 | Isabella Blanco |
 | 40 | 231 | Michelle Marie |
 | 41 | 231 | Jenna Ingersoll |
@@ -58,16 +58,16 @@
 | 50 | 188 | David Lay |
 | 51 | 185 | loulou |
 | 52 | 179 | Epic Curvetile |
-| 53 | 170 | Girl |
-| 54 | 170 | Leah Kutz Zirbel |
+| 53 | 170 | Leah Kutz Zirbel |
+| 54 | 170 | Girl |
 | 55 | 168 | Anthony Magaraci |
 | 56 | 167 | Dustee Craddock-Harrison |
 | 57 | 166 | Denise Carlson |
 | 58 | 165 | Courtney Cicoria |
 | 59 | 165 | Casey Grabner |
 | 60 | 160 | Carter Jones |
-| 61 | 159 | Holly Jolly |
-| 62 | 159 | Justin Hannigan |
+| 61 | 159 | Justin Hannigan |
+| 62 | 159 | Holly Jolly |
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 152 | Clarence Patawaran |

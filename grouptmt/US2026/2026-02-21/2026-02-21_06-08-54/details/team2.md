@@ -157,11 +157,11 @@
 | 149 | 409 | Sparkles |
 | 150 | 406 | Erin StFrancis |
 | 151 | 401 | Poppy Snap |
-| 152 | 400 | Crystie Hicks |
-| 153 | 400 | Tammy Allen |
+| 152 | 400 | Tammy Allen |
+| 153 | 400 | Crystie Hicks |
 | 154 | 397 | Ashley Guernsey-Martin |
-| 155 | 391 | Chilly Bridgepiece |
-| 156 | 391 | Steven Marshaun |
+| 155 | 391 | Steven Marshaun |
+| 156 | 391 | Chilly Bridgepiece |
 | 157 | 386 | Ashie Ann |
 | 158 | 386 | Andea Beck |
 | 159 | 385 | Sam |
@@ -282,8 +282,8 @@
 | 274 | 246 | Ashley Lopez |
 | 275 | 245 | Rachael Senard |
 | 276 | 245 | Mischelle Clay |
-| 277 | 245 | Porsche' Nicole |
-| 278 | 245 | Taryece Gause |
+| 277 | 245 | Taryece Gause |
+| 278 | 245 | Porsche' Nicole |
 | 279 | 244 | Shorty |
 | 280 | 243 | Brandy Andre |
 | 281 | 242 | Donna Chandler |
@@ -357,12 +357,12 @@
 | 349 | 194 | Kimberly Ann |
 | 350 | 194 | Mike Aprilliano |
 | 351 | 193 | Nika Bee |
-| 352 | 193 | Matthew Turner |
-| 353 | 193 | Kelly Ann McCormick |
+| 352 | 193 | Kelly Ann McCormick |
+| 353 | 193 | Matthew Turner |
 | 354 | 191 | Lauren Fitzgerald Thomas |
 | 355 | 191 | John Quiring |
-| 356 | 191 | Deana |
-| 357 | 191 | Sho Nuff |
+| 356 | 191 | Sho Nuff |
+| 357 | 191 | Deana |
 | 358 | 190 | blarg |
 | 359 | 190 | Jennifer Leigh |
 | 360 | 188 | Seth Wrieden |
@@ -416,14 +416,14 @@
 | 408 | 169 | Hyper Cluster |
 | 409 | 169 | William Hunt |
 | 410 | 169 | Fi Ne |
-| 411 | 168 | HarleyJane |
-| 412 | 168 | Kati Russeau |
+| 411 | 168 | Kati Russeau |
+| 412 | 168 | HarleyJane |
 | 413 | 168 | Phil J. Grombliniak |
 | 414 | 167 | Sabrena Yeisley |
-| 415 | 165 | Austin Wilson |
-| 416 | 165 | Cathy Bitters |
-| 417 | 164 | mshir |
-| 418 | 164 | Jessica Vega |
+| 415 | 165 | Cathy Bitters |
+| 416 | 165 | Austin Wilson |
+| 417 | 164 | Jessica Vega |
+| 418 | 164 | mshir |
 | 419 | 164 | Sara Pennington |
 | 420 | 163 | Albert McKnight |
 | 421 | 163 | Danielle Ayoub |
@@ -490,8 +490,8 @@
 | 482 | 143 | Jay Levy |
 | 483 | 143 | Angelica |
 | 484 | 143 | suuny |
-| 485 | 142 | Melissa Kay Gibson |
-| 486 | 142 | Joy LaJeunesse |
+| 485 | 142 | Joy LaJeunesse |
+| 486 | 142 | Melissa Kay Gibson |
 | 487 | 142 | Frisky Clearpiece |
 | 488 | 142 | Amy Humphreys |
 | 489 | 141 | Markisha Poyndexter |
