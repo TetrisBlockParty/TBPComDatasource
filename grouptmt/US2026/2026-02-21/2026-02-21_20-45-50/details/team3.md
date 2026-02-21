@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -97,8 +97,8 @@
 | 89 | 408 | Patty Allen |
 | 90 | 403 | Christine Filson |
 | 91 | 402 | Stephanie Simpson |
-| 92 | 394 | Mcathen |
-| 93 | 394 | joclisa |
+| 92 | 394 | joclisa |
+| 93 | 394 | Mcathen |
 | 94 | 392 | Michelle |
 | 95 | 391 | Calista Jo Dickson |
 | 96 | 390 | Annie Déè |
@@ -126,8 +126,8 @@
 | 118 | 316 | Fancy Cascader |
 | 119 | 312 | Jay Horn |
 | 120 | 309 | Rich LeBlanc |
-| 121 | 307 | Blocked |
-| 122 | 307 | Peggi Charon |
+| 121 | 307 | Peggi Charon |
+| 122 | 307 | Blocked |
 | 123 | 305 | Tessina Dewey-Mancino |
 | 124 | 300 | Sherika C. McDaniels |
 | 125 | 293 | Poppy Splitter |
@@ -137,8 +137,8 @@
 | 129 | 278 | Rufus Lincoln |
 | 130 | 276 | Crimson |
 | 131 | 272 | opf |
-| 132 | 271 | Leah Barnett |
-| 133 | 271 | Ashley Muncey |
+| 132 | 271 | Ashley Muncey |
+| 133 | 271 | Leah Barnett |
 | 134 | 270 | Stephanie Blkpep Davidson |
 | 135 | 267 | Denise Nardoni |
 | 136 | 266 | Mary Pellegrino |

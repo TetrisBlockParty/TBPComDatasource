@@ -143,8 +143,8 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Jessica Bohlken |
-| 139 | 156 | Holly |
+| 138 | 156 | Holly |
+| 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
 | 141 | 151 | Bethany Ison |
 | 142 | 151 | Avy Absol |
@@ -165,8 +165,8 @@
 | 157 | 140 | John Brunetti |
 | 158 | 137 | PeaceOs |
 | 159 | 136 | Sarah Brown |
-| 160 | 136 | Serena Goodridge |
-| 161 | 136 | Tanner Lund |
+| 160 | 136 | Tanner Lund |
+| 161 | 136 | Serena Goodridge |
 | 162 | 135 | Stephme310 |
 | 163 | 135 | Victoria Faniel |
 | 164 | 134 | Zany Shatterer |
@@ -216,8 +216,8 @@
 | 208 | 113 | Adam Randall |
 | 209 | 112 | Jeremy Steines |
 | 210 | 112 | Bryan Hodgins |
-| 211 | 111 | Kristin MacDonald |
-| 212 | 111 | Lazy Blocker |
+| 211 | 111 | Lazy Blocker |
+| 212 | 111 | Kristin MacDonald |
 | 213 | 110 | Adam Stephanie Parker |
 | 214 | 109 | Tyler Terrific |
 | 215 | 109 | Frank Cook |

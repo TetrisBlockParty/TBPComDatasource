@@ -123,12 +123,12 @@
 | 115 | 193 | Lachelle Dillon |
 | 116 | 192 | Shaykmia |
 | 117 | 191 | Diane Byrd |
-| 118 | 190 | Thorne Shumate |
-| 119 | 190 | Sweetts |
+| 118 | 190 | Sweetts |
+| 119 | 190 | Thorne Shumate |
 | 120 | 189 | Happy Basegrid |
 | 121 | 188 | Sam Williams |
-| 122 | 187 | Snippy Wipebuilder |
-| 123 | 187 | Plucky Ziggy |
+| 122 | 187 | Plucky Ziggy |
+| 123 | 187 | Snippy Wipebuilder |
 | 124 | 186 | Jennifer Olewnik Soborowski |
 | 125 | 182 | Spunky Piecebuilder |
 | 126 | 180 | Erez Yosef |
@@ -137,8 +137,8 @@
 | 129 | 178 | Chad Atchley |
 | 130 | 177 | Michael |
 | 131 | 176 | Basment Living |
-| 132 | 171 | Greg Premoe |
-| 133 | 171 | David DeSantis |
+| 132 | 171 | David DeSantis |
+| 133 | 171 | Greg Premoe |
 | 134 | 170 | Veronica Eve |
 | 135 | 169 | Luciano Moreira |
 | 136 | 169 | Abbey Crespo |
