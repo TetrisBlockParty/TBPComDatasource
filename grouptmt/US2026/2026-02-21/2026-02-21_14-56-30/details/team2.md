@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -122,8 +122,8 @@
 | 114 | 704 | Nerdy Clearfit |
 | 115 | 700 | Vincent Petrella |
 | 116 | 698 | Lola Contreras |
-| 117 | 694 | Nancy Reid |
-| 118 | 694 | Vo'Landa Reels |
+| 117 | 694 | Vo'Landa Reels |
+| 118 | 694 | Nancy Reid |
 | 119 | 693 | YiFei |
 | 120 | 688 | Dreamy Blast |
 | 121 | 679 | Gold Rose |
@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Gene Mills |
-| 184 | 485 | Leah Keesling |
+| 183 | 485 | Leah Keesling |
+| 184 | 485 | Gene Mills |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -375,7 +375,7 @@
 | 367 | 274 | Jamie Stevey |
 | 368 | 273 | Vanessa Moreno |
 | 369 | 273 | Ray Ray Prado |
-| 370 | 273 | Vanessa Moreno |
+| 370 | 273 | Jenna Nance |
 | 371 | 272 | Mikayala Szaz |
 | 372 | 271 | Ann Marie Davis |
 | 373 | 271 | Toni Lynn |
@@ -433,8 +433,8 @@
 | 425 | 236 | Julio A Laracuente |
 | 426 | 236 | snkylnk |
 | 427 | 235 | Kimberly Mitchell |
-| 428 | 234 | Manny Trindade |
-| 429 | 234 | Jennifer Leigh |
+| 428 | 234 | Jennifer Leigh |
+| 429 | 234 | Manny Trindade |
 | 430 | 234 | Jaybee Nguyen |
 | 431 | 233 | Nutty Matchline |
 | 432 | 233 | Daring Matchfit |
