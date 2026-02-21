@@ -136,8 +136,8 @@
 | 128 | 185 | Peachy Fall |
 | 129 | 185 | Andy Cabral |
 | 130 | 184 | Justin Hannigan |
-| 131 | 181 | Andria Lynn |
-| 132 | 181 | Carter Jones |
+| 131 | 181 | Carter Jones |
+| 132 | 181 | Andria Lynn |
 | 133 | 180 | Leah Kutz Zirbel |
 | 134 | 178 | Lori |
 | 135 | 176 | Stacey Stano |
@@ -158,8 +158,8 @@
 | 150 | 153 | Avy Absol |
 | 151 | 153 | Chair |
 | 152 | 151 | Bethany Ison |
-| 153 | 149 | Roger Coulter |
-| 154 | 149 | Shainne Brewer |
+| 153 | 149 | Shainne Brewer |
+| 154 | 149 | Roger Coulter |
 | 155 | 148 | Mr. Party |
 | 156 | 148 | Brittany Marsh |
 | 157 | 148 | Janita Parrish |
@@ -173,11 +173,11 @@
 | 165 | 140 | Stephme310 |
 | 166 | 140 | Shannon Ferrari |
 | 167 | 137 | PeaceOs |
-| 168 | 136 | Sarah Brown |
-| 169 | 136 | Tanner Lund |
+| 168 | 136 | Tanner Lund |
+| 169 | 136 | Sarah Brown |
 | 170 | 135 | Victoria Faniel |
-| 171 | 134 | Kim Klutz Olson |
-| 172 | 134 | Chirpy Basepiece |
+| 171 | 134 | Chirpy Basepiece |
+| 172 | 134 | Kim Klutz Olson |
 | 173 | 134 | Zany Shatterer |
 | 174 | 133 | Angela Geist Jusinski |
 | 175 | 132 | Jessica Cagle |
@@ -190,14 +190,14 @@
 | 182 | 129 | Dreamy Snapgrid |
 | 183 | 129 | Crystal Nicolette Moore |
 | 184 | 128 | Rio Rocha |
-| 185 | 128 | Ericca Eldridge |
-| 186 | 128 | April Rondinone |
+| 185 | 128 | April Rondinone |
+| 186 | 128 | Ericca Eldridge |
 | 187 | 127 | Chris Bernstein |
 | 188 | 126 | Nerdy Twisterfit |
 | 189 | 125 | Mary Ann Pabukis |
-| 190 | 125 | Duck |
-| 191 | 125 | Heather Tushner |
-| 192 | 125 | Judy Cox |
+| 190 | 125 | Heather Tushner |
+| 191 | 125 | Judy Cox |
+| 192 | 125 | Duck |
 | 193 | 124 | Allen Lloyd |
 | 194 | 124 | SammieJo Guy |
 | 195 | 123 | Austin Owens |

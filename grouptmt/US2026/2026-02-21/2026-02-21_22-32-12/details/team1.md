@@ -121,8 +121,8 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Mandyy Rae |
-| 117 | 212 | Jaimie Lynn |
+| 116 | 212 | Jaimie Lynn |
+| 117 | 212 | Mandyy Rae |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
@@ -134,8 +134,8 @@
 | 126 | 192 | Jessica Sheehan |
 | 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
-| 129 | 190 | Thorne Shumate |
-| 130 | 190 | Sweetts |
+| 129 | 190 | Sweetts |
+| 130 | 190 | Thorne Shumate |
 | 131 | 188 | Sam Williams |
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Jennifer Olewnik Soborowski |
@@ -158,8 +158,8 @@
 | 150 | 166 | Tyler Werts |
 | 151 | 166 | Rico Rico |
 | 152 | 165 | Nadine Velardo |
-| 153 | 163 | Tyler Whitley |
-| 154 | 163 | Tanya Carpenter-Reynolds |
+| 153 | 163 | Tanya Carpenter-Reynolds |
+| 154 | 163 | Tyler Whitley |
 | 155 | 161 | Jessie Lynn |
 | 156 | 160 | Nery Martinez |
 | 157 | 159 | Cece Ibarra |

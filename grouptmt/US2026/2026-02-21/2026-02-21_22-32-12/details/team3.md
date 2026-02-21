@@ -195,10 +195,10 @@
 | 187 | 205 | Sarah Moyer |
 | 188 | 204 | Danielle Allison |
 | 189 | 203 | Twisty Brick LT |
-| 190 | 201 | Karon Griffin |
-| 191 | 201 | IamJust Neyamijah Washington Sr. |
-| 192 | 200 | Sharisse Baltimore |
-| 193 | 200 | glichmod |
+| 190 | 201 | IamJust Neyamijah Washington Sr. |
+| 191 | 201 | Karon Griffin |
+| 192 | 200 | glichmod |
+| 193 | 200 | Sharisse Baltimore |
 | 194 | 197 | Staci George Fitzsimmons |
 | 195 | 195 | Nicha Hooker |
 | 196 | 193 | Angie Harper |
@@ -230,8 +230,8 @@
 | 222 | 178 | AlsoJess |
 | 223 | 177 | Sarajane Lokan |
 | 224 | 176 | rosy |
-| 225 | 175 | Tasha Wesson-Torrence |
-| 226 | 175 | Latoya Mayne |
+| 225 | 175 | Latoya Mayne |
+| 226 | 175 | Tasha Wesson-Torrence |
 | 227 | 174 | Marquita Sheard |
 | 228 | 172 | Grams |
 | 229 | 169 | Emma |
