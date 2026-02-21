@@ -51,8 +51,8 @@
 | 43 | 256 | Brittney Griggs |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Michelle Marie |
-| 47 | 231 | Jenna Ingersoll |
+| 46 | 231 | Jenna Ingersoll |
+| 47 | 231 | Michelle Marie |
 | 48 | 226 | Breannah Grafe |
 | 49 | 209 | Lisa Davis |
 | 50 | 207 | Alyssa Papen |
@@ -70,8 +70,8 @@
 | 62 | 170 | Girl |
 | 63 | 170 | Leah Kutz Zirbel |
 | 64 | 167 | Denise Carlson |
-| 65 | 165 | Casey Grabner |
-| 66 | 165 | Courtney Cicoria |
+| 65 | 165 | Courtney Cicoria |
+| 66 | 165 | Casey Grabner |
 | 67 | 160 | Carter Jones |
 | 68 | 159 | Justin Hannigan |
 | 69 | 159 | Holly Jolly |
@@ -177,8 +177,8 @@
 | 169 | 81 | Nubian1 |
 | 170 | 81 | Michelle Parker |
 | 171 | 80 | Melissa Adams |
-| 172 | 79 | Kametsunoyaiba |
-| 173 | 79 | Perky Piecegrid |
+| 172 | 79 | Perky Piecegrid |
+| 173 | 79 | Kametsunoyaiba |
 | 174 | 79 | Joseph Pace |
 | 175 | 78 | Zesty Linkgrid |
 | 176 | 78 | Jessica Miller |
@@ -224,8 +224,8 @@
 | 216 | 64 | rebel4lyfe |
 | 217 | 64 | Damn Libra |
 | 218 | 64 | Joseph Edmonson |
-| 219 | 63 | Cheery Risebuilder |
-| 220 | 63 | Asher |
+| 219 | 63 | Asher |
+| 220 | 63 | Cheery Risebuilder |
 | 221 | 63 | Cristy Duerksen |
 | 222 | 62 | Latisha Davis |
 | 223 | 62 | PennyCandee |

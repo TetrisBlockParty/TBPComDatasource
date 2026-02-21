@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Annie Déè |
-| 68 | 342 | Trezure Gonzalez |
+| 67 | 342 | Trezure Gonzalez |
+| 68 | 342 | Annie Déè |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -118,8 +118,8 @@
 | 110 | 193 | Shunta Jacobs |
 | 111 | 192 | Chasity |
 | 112 | 191 | Scott Carleton |
-| 113 | 187 | Katrina Schroeder |
-| 114 | 187 | Speedy Bridger |
+| 113 | 187 | Speedy Bridger |
+| 114 | 187 | Katrina Schroeder |
 | 115 | 184 | Jennie Beranek |
 | 116 | 182 | Hyper Matchzone |
 | 117 | 182 | Ashley Tookes |
@@ -129,11 +129,11 @@
 | 121 | 178 | Khaleada McGill Banks |
 | 122 | 176 | Ryan Williams |
 | 123 | 168 | Mendoza Lee Christy |
-| 124 | 166 | Kelly Ann Child |
-| 125 | 166 | Danielle Mogg |
+| 124 | 166 | Danielle Mogg |
+| 125 | 166 | Kelly Ann Child |
 | 126 | 164 | rosy |
-| 127 | 159 | Jone |
-| 128 | 159 | Morgan Martinez |
+| 127 | 159 | Morgan Martinez |
+| 128 | 159 | Jone |
 | 129 | 158 | Grams |
 | 130 | 156 | Joey Banks |
 | 131 | 155 | BŘŰŤİÇŨŚ |

@@ -91,8 +91,8 @@
 | 83 | 144 | Tanya Carpenter-Reynolds |
 | 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Blaire Bruckoff |
-| 87 | 141 | Susanna Guerry |
+| 86 | 141 | Susanna Guerry |
+| 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -105,8 +105,8 @@
 | 97 | 126 | Rachael |
 | 98 | 126 | Cece Ibarra |
 | 99 | 121 | Bouncy Grid |
-| 100 | 119 | Irual Hctrab |
-| 101 | 119 | Tater |
+| 100 | 119 | Tater |
+| 101 | 119 | Irual Hctrab |
 | 102 | 118 | Barry Mac'Ockner |
 | 103 | 116 | Evie Khalil |
 | 104 | 115 | comrade fish |
