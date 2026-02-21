@@ -44,8 +44,8 @@
 | 36 | 294 | Jacqueline Williams |
 | 37 | 291 | Nancy Green |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Sweet Baker |
-| 40 | 274 | Theo Pinnow |
+| 39 | 274 | Theo Pinnow |
+| 40 | 274 | Sweet Baker |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -107,8 +107,8 @@
 | 99 | 137 | Nadine Velardo |
 | 100 | 134 | Trina Gee |
 | 101 | 133 | Brandi Huntington |
-| 102 | 132 | Davery Spencer Adair |
-| 103 | 132 | Lori Sanders- Davis |
+| 102 | 132 | Lori Sanders- Davis |
+| 103 | 132 | Davery Spencer Adair |
 | 104 | 130 | Dandy Basegrid |
 | 105 | 128 | Uhog SF |
 | 106 | 128 | lil mickey |
@@ -225,8 +225,8 @@
 | 217 | 70 | Daring Fitclear |
 | 218 | 69 | Christy Jones |
 | 219 | 69 | Connie |
-| 220 | 68 | Ariel Whittington |
-| 221 | 68 | Pamela Elliott |
+| 220 | 68 | John Ramirez |
+| 221 | 68 | NicaOrlice |
 | 222 | 68 | Unelanuhi Belladonna Mystikal Bomar |
 | 223 | 68 | Ariel Whittington |
 | 224 | 68 | Pamela Elliott |

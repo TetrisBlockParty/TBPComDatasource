@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -125,8 +125,8 @@
 | 117 | 118 | Leslie Nicole |
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
-| 120 | 115 | Jayk |
-| 121 | 115 | Ultramarine |
+| 120 | 115 | Ultramarine |
+| 121 | 115 | Jayk |
 | 122 | 113 | Stephme310 |
 | 123 | 113 | Andria Lynn |
 | 124 | 112 | Brittany Marsh |
@@ -175,15 +175,15 @@
 | 167 | 86 | amy |
 | 168 | 86 | Destiney Carter |
 | 169 | 85 | Mimi |
-| 170 | 85 | Chastity Mitchell |
-| 171 | 85 | Shukee Lo |
-| 172 | 85 | Marcus TheeyoungWoe Gilmore |
-| 173 | 85 | Dizzy Tiley |
-| 174 | 85 | Tim Knight-ten |
+| 170 | 85 | Dizzy Tiley |
+| 171 | 85 | Chastity Mitchell |
+| 172 | 85 | Tim Knight-ten |
+| 173 | 85 | Marcus TheeyoungWoe Gilmore |
+| 174 | 85 | Shukee Lo |
 | 175 | 85 | Chirpy Slammer |
-| 176 | 83 | Holly |
-| 177 | 83 | Joseph Gray |
-| 178 | 83 | Abigail Murphy |
+| 176 | 83 | Abigail Murphy |
+| 177 | 83 | Holly |
+| 178 | 83 | Joseph Gray |
 | 179 | 83 | Avy Absol |
 | 180 | 82 | Kim Hunt |
 | 181 | 81 | Chair |

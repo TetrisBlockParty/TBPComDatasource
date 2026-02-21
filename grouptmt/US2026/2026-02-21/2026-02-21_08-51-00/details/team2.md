@@ -10,8 +10,8 @@
 | 2 | 4618 | Nick Jensen |
 | 3 | 4359 | Sean Dugar |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Rickey Goins Jr. |
-| 6 | 3567 | Taylana Mincy |
+| 5 | 3567 | Taylana Mincy |
+| 6 | 3567 | Rickey Goins Jr. |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -124,8 +124,8 @@
 | 116 | 545 | Jumpy Gridpiece |
 | 117 | 545 | Brittany Alicia |
 | 118 | 541 | SaraMarie Eveland |
-| 119 | 540 | YiFei |
-| 120 | 540 | Charvi' Carter |
+| 119 | 540 | Charvi' Carter |
+| 120 | 540 | YiFei |
 | 121 | 534 | Poppy Snapper |
 | 122 | 531 | Chris Wanner |
 | 123 | 529 | Tonya Morgan |
@@ -182,10 +182,10 @@
 | 174 | 400 | Crystie Hicks |
 | 175 | 400 | Tammy Allen |
 | 176 | 397 | Ashley Guernsey-Martin |
-| 177 | 391 | Rhonda Milstead |
-| 178 | 391 | Qiana Sanders |
-| 179 | 391 | Steven Marshaun |
-| 180 | 391 | Chilly Bridgepiece |
+| 177 | 391 | Qiana Sanders |
+| 178 | 391 | Rhonda Milstead |
+| 179 | 391 | Chilly Bridgepiece |
+| 180 | 391 | Steven Marshaun |
 | 181 | 388 | coleksquad |
 | 182 | 386 | Macy Williams |
 | 183 | 386 | Ashie Ann |
@@ -373,8 +373,8 @@
 | 365 | 216 | Tum |
 | 366 | 215 | Jordan Petro |
 | 367 | 215 | Ashlyn Berner |
-| 368 | 212 | Amanda Canterbury |
-| 369 | 212 | BK Queen |
+| 368 | 212 | BK Queen |
+| 369 | 212 | Amanda Canterbury |
 | 370 | 212 | Aleasha M Brown |
 | 371 | 209 | Jerry Tempelmeyer |
 | 372 | 208 | Mema |
@@ -382,8 +382,8 @@
 | 374 | 207 | Brave Gridpiece |
 | 375 | 207 | Melissa McCall |
 | 376 | 207 | Shylee Tilman |
-| 377 | 206 | Hyper Cluster |
-| 378 | 206 | Neko Preston |
+| 377 | 206 | Neko Preston |
+| 378 | 206 | Hyper Cluster |
 | 379 | 206 | RAEPR05 |
 | 380 | 206 | Jánine Riggs |
 | 381 | 205 | Lylymom |
@@ -407,8 +407,8 @@
 | 399 | 194 | Kimberly Ann |
 | 400 | 194 | Mike Aprilliano |
 | 401 | 194 | Hoppy Brickmatch |
-| 402 | 193 | Kelly Ann McCormick |
-| 403 | 193 | Matthew Turner |
+| 402 | 193 | Matthew Turner |
+| 403 | 193 | Kelly Ann McCormick |
 | 404 | 192 | Alyssa Nadine Medelez |
 | 405 | 191 | Lauren Fitzgerald Thomas |
 | 406 | 191 | John Quiring |
@@ -439,8 +439,8 @@
 | 431 | 180 | Peter Palestino |
 | 432 | 179 | Elizabeth Pearson |
 | 433 | 179 | Desiree Harris Rosch |
-| 434 | 179 | Cat |
-| 435 | 179 | Bette Prieto |
+| 434 | 179 | Bette Prieto |
+| 435 | 179 | Cat |
 | 436 | 178 | Michelle Shrum |
 | 437 | 177 | Facuetoo |
 | 438 | 177 | Glenn Cobbins |
@@ -528,8 +528,8 @@
 | 520 | 150 | Josh Dill |
 | 521 | 150 | Jodi Mitnick |
 | 522 | 150 | Greenshades00 |
-| 523 | 149 | Melissa Rebbe-Lehman |
-| 524 | 149 | Brianna Cerney |
+| 523 | 149 | Brianna Cerney |
+| 524 | 149 | Melissa Rebbe-Lehman |
 | 525 | 149 | Leslie Porter |
 | 526 | 149 | Boldy Cascadepiece |
 | 527 | 148 | AgileDragon |

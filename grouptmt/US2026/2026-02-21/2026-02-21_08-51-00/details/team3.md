@@ -44,8 +44,8 @@
 | 36 | 587 | Danielle Becker |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
-| 39 | 546 | Dolores Falco |
-| 40 | 546 | Snappy Glidepiece |
+| 39 | 546 | Snappy Glidepiece |
+| 40 | 546 | Dolores Falco |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Bea Miles |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Denita Mungro |
-| 157 | 146 | Latoya Mayne |
+| 156 | 146 | Latoya Mayne |
+| 157 | 146 | Denita Mungro |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Jay Horn |
 | 160 | 140 | Gumbo |
@@ -194,7 +194,7 @@
 | 186 | 120 | Stephanie Hill |
 | 187 | 118 | Fancy Curver |
 | 188 | 118 | Logan Naccarato |
-| 189 | 118 | Fancy Curver |
+| 189 | 118 | Sabrina Hardrick |
 | 190 | 116 | BugMansMom |
 | 191 | 116 | Skinny Baldez |
 | 192 | 115 | Hoppy Buildout |
@@ -345,8 +345,8 @@
 | 337 | 70 | cherry 🍒pie |
 | 338 | 70 | Willow |
 | 339 | 70 | Brave Bruno |
-| 340 | 69 | Tony Mia Christian |
-| 341 | 69 | Jen Lewis |
+| 340 | 69 | Jen Lewis |
+| 341 | 69 | Tony Mia Christian |
 | 342 | 69 | Spunky Combofall |
 | 343 | 68 | Reina Roth |
 | 344 | 67 | Wendy Dearden |
