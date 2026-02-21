@@ -85,8 +85,8 @@
 | 77 | 173 | Jeff Brian Gates |
 | 78 | 173 | Zethra Prenisha Rahming |
 | 79 | 171 | Melvin Baird |
-| 80 | 170 | Justin Hannigan |
-| 81 | 170 | Girl |
+| 80 | 170 | Girl |
+| 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
 | 83 | 165 | Courtney Cicoria |
 | 84 | 165 | Casey Grabner |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -211,7 +211,7 @@
 | 203 | 83 | Holly |
 | 204 | 83 | Joseph Gray |
 | 205 | 82 | Jason Frehner |
-| 206 | 81 | Nubian1 |
+| 206 | 81 | Jumpy Zonepiece |
 | 207 | 81 | Blessedmama |
 | 208 | 81 | Kathy Allen |
 | 209 | 81 | Nubian1 |
@@ -292,8 +292,8 @@
 | 284 | 62 | PennyCandee |
 | 285 | 61 | Plucky Patternblock |
 | 286 | 61 | Chilly Crasher |
-| 287 | 61 | Plucky Patternblock |
-| 288 | 61 | Jackson Karen |
+| 287 | 61 | Jackson Karen |
+| 288 | 61 | Alee Marie |
 | 289 | 60 | Adam Stephanie Parker |
 | 290 | 60 | Kris Zulch |
 | 291 | 59 | Jasmine S Caldwell |

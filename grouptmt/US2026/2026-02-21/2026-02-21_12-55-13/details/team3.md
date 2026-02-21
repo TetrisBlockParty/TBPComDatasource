@@ -81,8 +81,8 @@
 | 73 | 353 | Stephanie Woods |
 | 74 | 346 | Shannon Matthew Byers |
 | 75 | 345 | Christine Niles |
-| 76 | 342 | Annie Déè |
-| 77 | 342 | Trezure Gonzalez |
+| 76 | 342 | Trezure Gonzalez |
+| 77 | 342 | Annie Déè |
 | 78 | 338 | Danielle Rhoades |
 | 79 | 332 | Chauntee Alfrey-Cardinale |
 | 80 | 325 | Shari Garber |
@@ -155,8 +155,8 @@
 | 147 | 166 | Danielle Mogg |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
-| 150 | 164 | DanceLuvLaugh |
-| 151 | 164 | rosy |
+| 150 | 164 | rosy |
+| 151 | 164 | DanceLuvLaugh |
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Stephanie Hill |
 | 154 | 160 | Tiffany Davie |
@@ -169,8 +169,8 @@
 | 161 | 156 | Joey Banks |
 | 162 | 155 | BŘŰŤİÇŨŚ |
 | 163 | 154 | Angela M. Fletcher |
-| 164 | 153 | Beth Ingham |
-| 165 | 153 | Stephanie Whitefield |
+| 164 | 153 | Stephanie Whitefield |
+| 165 | 153 | Beth Ingham |
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |

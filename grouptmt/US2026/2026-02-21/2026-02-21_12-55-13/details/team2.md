@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Brandon Armstrong |
-| 222 | 364 | Shinette Dobson |
+| 221 | 364 | Shinette Dobson |
+| 222 | 364 | Brandon Armstrong |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -238,8 +238,8 @@
 | 230 | 356 | Shameika Trail |
 | 231 | 355 | Shandrica Lowe |
 | 232 | 355 | Kristen O'Neal |
-| 233 | 354 | Brave Dropmatch |
-| 234 | 354 | Tracy Wise |
+| 233 | 354 | Tracy Wise |
+| 234 | 354 | Brave Dropmatch |
 | 235 | 353 | Joseph Musick |
 | 236 | 352 | ruth |
 | 237 | 350 | Chris Harr |
@@ -879,8 +879,8 @@
 | 871 | 106 | Jessica Wayne Cornwall |
 | 872 | 106 | Mystique89 |
 | 873 | 106 | Damien Reinbold |
-| 874 | 105 | Amanda Allmon |
-| 875 | 105 | Jeremy Scott |
+| 874 | 105 | Jeremy Scott |
+| 875 | 105 | Amanda Allmon |
 | 876 | 105 | Krystal Tracy |
 | 877 | 105 | Denise Darknlovely Davis |
 | 878 | 105 | Heidi Perkins |
@@ -1065,8 +1065,8 @@
 | 1057 | 90 | Adria Meeks |
 | 1058 | 90 | Wedance Fong |
 | 1059 | 89 | Sparkles  Sabrina |
-| 1060 | 89 | Chirpy Staggerpiece |
-| 1061 | 89 | Tiffany Louise Eickleberry |
+| 1060 | 89 | Tiffany Louise Eickleberry |
+| 1061 | 89 | Chirpy Staggerpiece |
 | 1062 | 89 | Amanda Segura |
 | 1063 | 89 | Amanda Jean Gray |
 | 1064 | 89 | Joshua Sommerville |

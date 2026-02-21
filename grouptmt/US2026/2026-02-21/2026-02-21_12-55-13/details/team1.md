@@ -66,8 +66,8 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Jaimie Lynn |
-| 62 | 212 | Tdub |
+| 61 | 212 | Tdub |
+| 62 | 212 | Jaimie Lynn |
 | 63 | 211 | Marianita Garcia |
 | 64 | 208 | Carrie Beck Geartz |
 | 65 | 208 | Mandyy Rae |
@@ -77,8 +77,8 @@
 | 69 | 201 | Ananda Mendez |
 | 70 | 201 | Anaid Sanchez |
 | 71 | 200 | Lexuriuos Lifestlye |
-| 72 | 198 | Happy Snapbuild |
-| 73 | 198 | Billie Dawn Sparks |
+| 72 | 198 | Billie Dawn Sparks |
+| 73 | 198 | Happy Snapbuild |
 | 74 | 197 | Cynthia Bradley |
 | 75 | 194 | Giggly Builderline |
 | 76 | 193 | Lachelle Dillon |
