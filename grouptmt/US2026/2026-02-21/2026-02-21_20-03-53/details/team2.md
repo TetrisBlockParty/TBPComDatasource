@@ -194,8 +194,8 @@
 | 186 | 591 | Alisha |
 | 187 | 591 | Diana Fitzwater |
 | 188 | 586 | Stephen Stephen |
-| 189 | 583 | Jessicah Myers |
-| 190 | 583 | Steve Grotto |
+| 189 | 583 | Steve Grotto |
+| 190 | 583 | Jessicah Myers |
 | 191 | 579 | Gary Stash |
 | 192 | 576 | Shannon Joslin |
 | 193 | 571 | Thomas Hedrick |

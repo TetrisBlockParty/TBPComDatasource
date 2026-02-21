@@ -46,8 +46,8 @@
 | 38 | 511 | Jen Sartain |
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
-| 41 | 486 | Sevens4L |
-| 42 | 486 | Sarah Lombardo |
+| 41 | 486 | Sarah Lombardo |
+| 42 | 486 | Sevens4L |
 | 43 | 483 | Ryan Lunnin |
 | 44 | 469 | Kathi Snustad |
 | 45 | 460 | Kristen Roles Robben |
@@ -116,9 +116,9 @@
 | 108 | 193 | Lachelle Dillon |
 | 109 | 192 | Shaykmia |
 | 110 | 191 | Diane Byrd |
-| 111 | 190 | Gracie |
-| 112 | 190 | Thorne Shumate |
-| 113 | 190 | Sweetts |
+| 111 | 190 | Thorne Shumate |
+| 112 | 190 | Sweetts |
+| 113 | 190 | Gracie |
 | 114 | 189 | Happy Basegrid |
 | 115 | 188 | Sam Williams |
 | 116 | 187 | Plucky Ziggy |
@@ -133,8 +133,8 @@
 | 125 | 176 | Basment Living |
 | 126 | 175 | Nicole Roseberry Weber |
 | 127 | 174 | Michael |
-| 128 | 171 | Greg Premoe |
-| 129 | 171 | David DeSantis |
+| 128 | 171 | David DeSantis |
+| 129 | 171 | Greg Premoe |
 | 130 | 170 | Veronica Eve |
 | 131 | 169 | Abbey Crespo |
 | 132 | 168 | Standia Civil |
@@ -176,8 +176,8 @@
 | 168 | 135 | Cody Slav |
 | 169 | 135 | Guest |
 | 170 | 134 | Witty Builderfit |
-| 171 | 133 | Breanna Luna |
-| 172 | 133 | Luciano Moreira |
+| 171 | 133 | Luciano Moreira |
+| 172 | 133 | Breanna Luna |
 | 173 | 132 | Mel Hogan |
 | 174 | 131 | Uhog SF |
 | 175 | 131 | Kimberly Garcia |
