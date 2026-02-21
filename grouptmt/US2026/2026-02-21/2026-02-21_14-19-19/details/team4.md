@@ -101,8 +101,8 @@
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |
 | 95 | 161 | Joeliecea Cobb |
-| 96 | 160 | Stacey Stano |
-| 97 | 160 | Carter Jones |
+| 96 | 160 | Carter Jones |
+| 97 | 160 | Stacey Stano |
 | 98 | 159 | Holly Jolly |
 | 99 | 157 | quicksand420 |
 | 100 | 154 | Zany Twisterfit |
@@ -144,8 +144,8 @@
 | 136 | 121 | Smiley Tiltbuilder |
 | 137 | 121 | Zany Shatterer |
 | 138 | 120 | Joshua Guess |
-| 139 | 119 | Kristin Manee |
-| 140 | 119 | Stephme310 |
+| 139 | 119 | Stephme310 |
+| 140 | 119 | Kristin Manee |
 | 141 | 118 | Leslie Nicole |
 | 142 | 118 | YoMomma |
 | 143 | 116 | Diana Houts |

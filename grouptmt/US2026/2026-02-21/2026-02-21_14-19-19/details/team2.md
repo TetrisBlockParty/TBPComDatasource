@@ -136,8 +136,8 @@
 | 128 | 626 | Unica Rector |
 | 129 | 620 | BYM4L |
 | 130 | 619 | Jamie Otero |
-| 131 | 608 | Sommer Shope |
-| 132 | 608 | John Bednarik |
+| 131 | 608 | John Bednarik |
+| 132 | 608 | Sommer Shope |
 | 133 | 604 | Amber Shoemaker |
 | 134 | 603 | Cassie Maynard |
 | 135 | 602 | L3sli3 |
@@ -192,13 +192,13 @@
 | 184 | 470 | Jerry Tempelmeyer |
 | 185 | 469 | Ashley Rose Frederick |
 | 186 | 465 | Drwatson187 |
-| 187 | 464 | Ariel |
-| 188 | 464 | Ryan Gunther |
+| 187 | 464 | Ryan Gunther |
+| 188 | 464 | Ariel |
 | 189 | 460 | Amélie Cadieux |
 | 190 | 460 | Cody Smith-Candelaria |
 | 191 | 454 | Casey Schumacher |
-| 192 | 453 | Osun Anuket Esu |
-| 193 | 453 | Em Chen |
+| 192 | 453 | Em Chen |
+| 193 | 453 | Osun Anuket Esu |
 | 194 | 453 | Mischelle Clay |
 | 195 | 452 | Alezandra Smith |
 | 196 | 450 | Giggy Blocker |
@@ -308,8 +308,8 @@
 | 300 | 311 | Véronique Lévesque Sabourin |
 | 301 | 311 | Dar |
 | 302 | 310 | Brandy Andre |
-| 303 | 309 | Oscar Bernie |
-| 304 | 309 | Ginger |
+| 303 | 309 | Ginger |
+| 304 | 309 | Oscar Bernie |
 | 305 | 309 | James Zaragoza |
 | 306 | 306 | Kristopher Miller |
 | 307 | 305 | Zany Clusterbuilder |
@@ -432,8 +432,8 @@
 | 424 | 232 | Amber Brion |
 | 425 | 232 | Quirky Twistline |
 | 426 | 231 | Hong Tang |
-| 427 | 231 | Dylan Thomason |
-| 428 | 231 | Daring Matchfit |
+| 427 | 231 | Daring Matchfit |
+| 428 | 231 | Dylan Thomason |
 | 429 | 230 | Leslie Johnson Guinto |
 | 430 | 229 | Tonya Lee |
 | 431 | 229 | Kimmy Newman |
@@ -465,13 +465,13 @@
 | 457 | 209 | Dawn L Washington-Feuquay |
 | 458 | 209 | Samantha Morgan |
 | 459 | 208 | Nancy Pohlman |
-| 460 | 207 | Brave Gridpiece |
-| 461 | 207 | Melissa McCall |
+| 460 | 207 | Melissa McCall |
+| 461 | 207 | Brave Gridpiece |
 | 462 | 207 | Shylee Tilman |
 | 463 | 206 | Neko Preston |
 | 464 | 206 | RAEPR05 |
-| 465 | 205 | ElizabethAnn Dickinson |
-| 466 | 205 | Tj Ball |
+| 465 | 205 | Tj Ball |
+| 466 | 205 | ElizabethAnn Dickinson |
 | 467 | 204 | Ali Gralski |
 | 468 | 204 | Ryan Lauer |
 | 469 | 204 | Nicolle Danielle |

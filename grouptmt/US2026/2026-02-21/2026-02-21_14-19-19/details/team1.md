@@ -89,8 +89,8 @@
 | 81 | 192 | Shaykmia |
 | 82 | 191 | Jazzy Framezone |
 | 83 | 191 | Patrick Luckenbill |
-| 84 | 190 | Thorne Shumate |
-| 85 | 190 | Sweetts |
+| 84 | 190 | Sweetts |
+| 85 | 190 | Thorne Shumate |
 | 86 | 189 | Happy Basegrid |
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
@@ -107,8 +107,8 @@
 | 99 | 162 | Tyler Whitley |
 | 100 | 161 | Abbey Crespo |
 | 101 | 156 | Jessie Lynn |
-| 102 | 155 | Standia Civil |
-| 103 | 155 | Cece Ibarra |
+| 102 | 155 | Cece Ibarra |
+| 103 | 155 | Standia Civil |
 | 104 | 155 | David DeSantis |
 | 105 | 153 | Shiny Gridmatch |
 | 106 | 152 | Jacqueline Unique |
