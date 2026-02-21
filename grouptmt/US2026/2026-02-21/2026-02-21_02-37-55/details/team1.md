@@ -63,7 +63,7 @@
 | 55 | 145 | Lachelle Dillon |
 | 56 | 144 | Tanya Carpenter-Reynolds |
 | 57 | 144 | Tana |
-| 58 | 144 | Tanya Carpenter-Reynolds |
+| 58 | 144 | Plucky Ziggy |
 | 59 | 141 | Susanna Guerry |
 | 60 | 137 | Nadine Velardo |
 | 61 | 134 | Josie Kirt |

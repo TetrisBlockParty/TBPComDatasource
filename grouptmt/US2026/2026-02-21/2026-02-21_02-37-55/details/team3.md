@@ -78,8 +78,8 @@
 | 70 | 203 | Crimson |
 | 71 | 199 | joclisa |
 | 72 | 195 | Nicha Hooker |
-| 73 | 193 | Clever Shiftsnap |
-| 74 | 193 | Shunta Jacobs |
+| 73 | 193 | Shunta Jacobs |
+| 74 | 193 | Clever Shiftsnap |
 | 75 | 192 | Jimmie Clemons |
 | 76 | 187 | Speedy Bridger |
 | 77 | 185 | Danielle Cutler |

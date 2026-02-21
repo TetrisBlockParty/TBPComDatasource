@@ -66,9 +66,9 @@
 | 58 | 679 | Gold Rose |
 | 59 | 674 | Dannette Goldberg-Richards |
 | 60 | 672 | Wendy Harder Gage |
-| 61 | 658 | Dreamy Blast |
+| 61 | 658 | Pacynthia Williams |
 | 62 | 658 | Vistabrat |
-| 63 | 658 | Pacynthia Williams |
+| 63 | 658 | Dreamy Blast |
 | 64 | 656 | E_Money04 |
 | 65 | 639 | Anna Edwards |
 | 66 | 636 | Amy Sayers |
@@ -122,8 +122,8 @@
 | 114 | 390 | Dustin Rains |
 | 115 | 386 | Ashie Ann |
 | 116 | 385 | Sam |
-| 117 | 384 | Mighty Patternzone |
-| 118 | 384 | Lina Sanders |
+| 117 | 384 | Lina Sanders |
+| 118 | 384 | Mighty Patternzone |
 | 119 | 383 | Jordan Kaiser |
 | 120 | 380 | Joshua Mandel |
 | 121 | 374 | Sommer Shope |
@@ -368,8 +368,8 @@
 | 360 | 137 | Bette Prieto |
 | 361 | 136 | Joy LaJeunesse |
 | 362 | 135 | Robin L. Vial |
-| 363 | 135 | Michelle Loar |
-| 364 | 135 | Yemaja Obba Olokun |
+| 363 | 135 | Yemaja Obba Olokun |
+| 364 | 135 | Michelle Loar |
 | 365 | 134 | Candace Noel |
 | 366 | 134 | Sarah Massey |
 | 367 | 134 | Christina Jones |
