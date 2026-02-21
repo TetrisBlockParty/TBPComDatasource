@@ -47,8 +47,8 @@
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
 | 41 | 490 | Kristen Roles Robben |
-| 42 | 486 | Sarah Lombardo |
-| 43 | 486 | Sevens4L |
+| 42 | 486 | Sevens4L |
+| 43 | 486 | Sarah Lombardo |
 | 44 | 483 | Ryan Lunnin |
 | 45 | 469 | Kathi Snustad |
 | 46 | 421 | Christina Graham |
@@ -135,8 +135,8 @@
 | 127 | 178 | Chad Atchley |
 | 128 | 176 | Basment Living |
 | 129 | 174 | Michael |
-| 130 | 171 | David DeSantis |
-| 131 | 171 | Greg Premoe |
+| 130 | 171 | Greg Premoe |
+| 131 | 171 | David DeSantis |
 | 132 | 170 | Veronica Eve |
 | 133 | 169 | Abbey Crespo |
 | 134 | 168 | Standia Civil |

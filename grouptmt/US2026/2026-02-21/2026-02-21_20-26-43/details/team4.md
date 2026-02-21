@@ -55,8 +55,8 @@
 | 47 | 436 | Lisa Davis |
 | 48 | 433 | Isabel Aguilar |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | TeeJ |
-| 51 | 411 | Jonathan Kimbrough |
+| 50 | 411 | Jonathan Kimbrough |
+| 51 | 411 | TeeJ |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -145,13 +145,13 @@
 | 137 | 156 | Jessica Bohlken |
 | 138 | 156 | Holly |
 | 139 | 153 | Empress Oasis |
-| 140 | 151 | Avy Absol |
-| 141 | 151 | Bethany Ison |
+| 140 | 151 | Bethany Ison |
+| 141 | 151 | Avy Absol |
 | 142 | 149 | Diana Houts |
 | 143 | 148 | Brittany Marsh |
 | 144 | 148 | Janita Parrish |
-| 145 | 147 | Shainne Brewer |
-| 146 | 147 | Chair |
+| 145 | 147 | Chair |
+| 146 | 147 | Shainne Brewer |
 | 147 | 147 | Jay28 |
 | 148 | 145 | Daria Rycewicz |
 | 149 | 144 | Mr. Party |
@@ -169,8 +169,8 @@
 | 161 | 135 | Stephme310 |
 | 162 | 135 | Victoria Faniel |
 | 163 | 134 | Zany Shatterer |
-| 164 | 134 | Chirpy Basepiece |
-| 165 | 134 | Kim Klutz Olson |
+| 164 | 134 | Kim Klutz Olson |
+| 165 | 134 | Chirpy Basepiece |
 | 166 | 133 | Angela Geist Jusinski |
 | 167 | 132 | Jessica Cagle |
 | 168 | 132 | Melissa Priest Sellers |

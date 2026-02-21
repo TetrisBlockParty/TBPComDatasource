@@ -237,7 +237,7 @@
 | 229 | 153 | Desiree Gold |
 | 230 | 152 | Lesley Perez |
 | 231 | 152 | Shiny Zonebuilder |
-| 232 | 152 | Lesley Perez |
+| 232 | 152 | Katrina E Jelks |
 | 233 | 150 | Valerie Gendron |
 | 234 | 149 | Angel Mendez |
 | 235 | 149 | Alexis Taylor |
@@ -350,8 +350,8 @@
 | 342 | 103 | Lisa Lisa |
 | 343 | 102 | Crystal Hine |
 | 344 | 102 | Christian Luna |
-| 345 | 102 | Crystal Hine |
-| 346 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 345 | 102 | Sdot |
+| 346 | 101 | Megan Stanley |
 | 347 | 101 | Shicken Nuggit |
 | 348 | 101 | Hyper Bridger |
 | 349 | 101 | Sabrina Ruth Archuletta-Gauna |

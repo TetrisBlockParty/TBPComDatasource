@@ -389,9 +389,9 @@
 | 381 | 347 | Cheyenne Donovan |
 | 382 | 345 | Angie Bolton Workman |
 | 383 | 345 | Rhianna DiLorenzo |
-| 384 | 344 | Ginger |
+| 384 | 344 | Glenn Cobbins |
 | 385 | 344 | Felicia Lynn |
-| 386 | 344 | Glenn Cobbins |
+| 386 | 344 | Ginger |
 | 387 | 342 | Ebony Deloach Bryant |
 | 388 | 342 | Fi Ne |
 | 389 | 342 | Sydney Busse |
@@ -436,8 +436,8 @@
 | 428 | 314 | James Zaragoza |
 | 429 | 314 | Regina Young |
 | 430 | 312 | Michelle Pike |
-| 431 | 312 | Andrea Maher |
-| 432 | 312 | Justin Hines |
+| 431 | 312 | Justin Hines |
+| 432 | 312 | Andrea Maher |
 | 433 | 310 | Sharon Mills |
 | 434 | 309 | Autumn Schaeffer |
 | 435 | 307 | Kitybox |
@@ -465,8 +465,8 @@
 | 457 | 298 | Snappy Shatterfit |
 | 458 | 297 | Peachy Blockbuilder |
 | 459 | 296 | Jennifer Darby |
-| 460 | 296 | Amber Gray |
-| 461 | 296 | Jennifer Casey-Kay |
+| 460 | 296 | Jennifer Casey-Kay |
+| 461 | 296 | Amber Gray |
 | 462 | 295 | Noel Tarmy |
 | 463 | 294 | Barbra Miller |
 | 464 | 294 | Amanda Edwards |
