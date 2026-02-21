@@ -118,8 +118,8 @@
 | 110 | 228 | Rachael McClain Owens |
 | 111 | 227 | Crimson |
 | 112 | 225 | Speedy Bridger |
-| 113 | 224 | Mykal Burton |
-| 114 | 224 | Judi Dobson |
+| 113 | 224 | Judi Dobson |
+| 114 | 224 | Mykal Burton |
 | 115 | 223 | Jeana Gilbert |
 | 116 | 222 | Jimmie Clemons |
 | 117 | 220 | Stephanie Blkpep Davidson |
@@ -171,17 +171,17 @@
 | 163 | 163 | Stephanie Hill |
 | 164 | 161 | BŘŰŤİÇŨŚ |
 | 165 | 160 | Tiffany Davie |
-| 166 | 159 | Jone |
-| 167 | 159 | Morgan Martinez |
-| 168 | 159 | Stephanie Whitefield |
+| 166 | 159 | Stephanie Whitefield |
+| 167 | 159 | Jone |
+| 168 | 159 | Morgan Martinez |
 | 169 | 158 | Grams |
 | 170 | 157 | Nicholas Roddy |
 | 171 | 157 | Patricia Gadsden |
 | 172 | 156 | Joey Banks |
 | 173 | 154 | Angela M. Fletcher |
 | 174 | 153 | Beth Ingham |
-| 175 | 152 | Shiny Zonebuilder |
-| 176 | 152 | Katrina E Jelks |
+| 175 | 152 | Katrina E Jelks |
+| 176 | 152 | Shiny Zonebuilder |
 | 177 | 151 | MsBee |
 | 178 | 150 | Nicole Myers |
 | 179 | 149 | Angel Mendez |
@@ -196,8 +196,8 @@
 | 188 | 143 | Nikki Pags |
 | 189 | 142 | Erica Anderson |
 | 190 | 141 | Connie Mohler-Fair |
-| 191 | 140 | Jay Horn |
-| 192 | 140 | Gumbo |
+| 191 | 140 | Gumbo |
+| 192 | 140 | Jay Horn |
 | 193 | 139 | Ashley Lynn Marchese |
 | 194 | 137 | Chris Bell |
 | 195 | 136 | Boldy Corner |
@@ -206,8 +206,8 @@
 | 198 | 133 | Joy Petroski |
 | 199 | 131 | Jl |
 | 200 | 129 | Lesley Perez |
-| 201 | 128 | David Bardo |
-| 202 | 128 | Jen Lewis |
+| 201 | 128 | Jen Lewis |
+| 202 | 128 | David Bardo |
 | 203 | 127 | Marquita Sheard |
 | 204 | 126 | Brandon Givens |
 | 205 | 125 | Felicia Doxey |
@@ -239,8 +239,8 @@
 | 231 | 113 | Beppy |
 | 232 | 111 | France Vézina |
 | 233 | 111 | Stephanie Zahm |
-| 234 | 110 | Tye Stovall |
-| 235 | 110 | Danielle Weikel |
+| 234 | 110 | Danielle Weikel |
+| 235 | 110 | Tye Stovall |
 | 236 | 110 | Stella |
 | 237 | 109 | mommablock |
 | 238 | 109 | Fredd Thomas |

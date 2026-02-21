@@ -249,8 +249,8 @@
 | 241 | 368 | Deborah Miller |
 | 242 | 366 | Wuntayk |
 | 243 | 365 | Christina Lewis-Vickers |
-| 244 | 364 | Brandon Armstrong |
-| 245 | 364 | Shinette Dobson |
+| 244 | 364 | Shinette Dobson |
+| 245 | 364 | Brandon Armstrong |
 | 246 | 363 | William Meussner |
 | 247 | 362 | AkaLefty |
 | 248 | 359 | Brainy Smurf |
@@ -726,15 +726,15 @@
 | 718 | 135 | Yemaja Obba Olokun |
 | 719 | 134 | Slinky Risegrid |
 | 720 | 134 | Dandy Drop |
-| 721 | 134 | Slinky Risegrid |
+| 721 | 134 | Speedy Pivoty |
 | 722 | 134 | Leebo Slice |
 | 723 | 134 | Quinn |
 | 724 | 134 | Keila Adames |
 | 725 | 134 | Sveta Lana |
 | 726 | 133 | Epic Stackzone |
 | 727 | 133 | Rae Rae |
-| 728 | 133 | Hillary Franklin |
-| 729 | 133 | candy |
+| 728 | 133 | candy |
+| 729 | 133 | Hillary Franklin |
 | 730 | 133 | Gina Caulder |
 | 731 | 133 | JinxxedMozzerella |
 | 732 | 133 | Jess Orosz |

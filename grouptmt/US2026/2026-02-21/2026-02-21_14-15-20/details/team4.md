@@ -92,8 +92,8 @@
 | 84 | 173 | Jeff Brian Gates |
 | 85 | 173 | Zethra Prenisha Rahming |
 | 86 | 171 | Melvin Baird |
-| 87 | 170 | Girl |
-| 88 | 170 | Justin Hannigan |
+| 87 | 170 | Justin Hannigan |
+| 88 | 170 | Girl |
 | 89 | 168 | Jae Job |
 | 90 | 167 | Carlton Unfiltered |
 | 91 | 167 | Denise Carlson |
@@ -106,8 +106,8 @@
 | 98 | 159 | Holly Jolly |
 | 99 | 157 | quicksand420 |
 | 100 | 154 | Zany Twisterfit |
-| 101 | 151 | Dana Scott |
-| 102 | 151 | Bethany Ison |
+| 101 | 151 | Bethany Ison |
+| 102 | 151 | Dana Scott |
 | 103 | 150 | ZeeZee |
 | 104 | 147 | 030Synner |
 | 105 | 147 | Jay28 |
@@ -162,16 +162,16 @@
 | 154 | 108 | Ali Ian |
 | 155 | 107 | Marcus Todd |
 | 156 | 106 | Avy Absol |
-| 157 | 105 | Sam Middleton |
+| 157 | 105 | Kristin MacDonald |
 | 158 | 105 | 🥔🥔 Spudz |
 | 159 | 105 | AyeKay |
 | 160 | 105 | TheNeesh50 |
 | 161 | 105 | Sam Middleton |
 | 162 | 104 | Damn Libra |
 | 163 | 103 | Judy Cox |
-| 164 | 102 | April Rondinone |
+| 164 | 102 | Autumn Kumzi |
 | 165 | 102 | Faja |
-| 166 | 102 | Autumn Kumzi |
+| 166 | 102 | April Rondinone |
 | 167 | 101 | Michelle Morris |
 | 168 | 101 | Saulc1991 |
 | 169 | 100 | Alexandra Karavias |
@@ -190,7 +190,7 @@
 | 182 | 95 | Meagan Nicole |
 | 183 | 94 | Kim Hunt |
 | 184 | 94 | DonMega |
-| 185 | 94 | Kim Hunt |
+| 185 | 94 | Chastity Mitchell |
 | 186 | 93 | Zesty Twistbuilder |
 | 187 | 92 | Misty Hollibaugh |
 | 188 | 90 | No Strings Attached Ra |
