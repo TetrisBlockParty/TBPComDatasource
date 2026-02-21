@@ -138,8 +138,8 @@
 | 130 | 385 | Sam |
 | 131 | 384 | Lina Sanders |
 | 132 | 380 | Joshua Mandel |
-| 133 | 377 | Roy Salyer |
-| 134 | 377 | Liberty |
+| 133 | 377 | Liberty |
+| 134 | 377 | Roy Salyer |
 | 135 | 374 | Calandra Shaya Robinson |
 | 136 | 370 | Alex Hill |
 | 137 | 365 | April Dawn Gussler |
@@ -203,8 +203,8 @@
 | 195 | 266 | Joyce Johnson Vaughn |
 | 196 | 265 | Wuntayk |
 | 197 | 264 | Stacy Stickle |
-| 198 | 263 | Taylor Flowers |
-| 199 | 263 | Oscar Bernie |
+| 198 | 263 | Oscar Bernie |
+| 199 | 263 | Taylor Flowers |
 | 200 | 261 | MrsClaudette Will'sIam Matthews |
 | 201 | 261 | Maegan Beaule |
 | 202 | 260 | Dapper Dasher |
@@ -220,8 +220,8 @@
 | 212 | 248 | Leah Keesling |
 | 213 | 248 | Dany Murillo |
 | 214 | 248 | Bubbly Snapfit |
-| 215 | 247 | Andrea Devery Beck |
-| 216 | 247 | Fancy Twister |
+| 215 | 247 | Fancy Twister |
+| 216 | 247 | Andrea Devery Beck |
 | 217 | 245 | Mischelle Clay |
 | 218 | 245 | Rachael Senard |
 | 219 | 244 | Elisheva Mizrachi |
@@ -229,8 +229,8 @@
 | 221 | 243 | Brandy Andre |
 | 222 | 242 | Kristopher Miller |
 | 223 | 241 | Sabrina Burton |
-| 224 | 240 | Angie Marie |
-| 225 | 240 | Adam Erikson |
+| 224 | 240 | Adam Erikson |
+| 225 | 240 | Angie Marie |
 | 226 | 239 | Tee Jaleesa |
 | 227 | 238 | Cheech Dta |
 | 228 | 238 | Cheery Matchzone |
@@ -309,8 +309,8 @@
 | 301 | 176 | Jessica Kaye DeAguero |
 | 302 | 176 | Trisha Gallagher |
 | 303 | 175 | Lauren Fitzgerald Thomas |
-| 304 | 175 | Shandrica Lowe |
-| 305 | 175 | Tina Blessed Cage |
+| 304 | 175 | Tina Blessed Cage |
+| 305 | 175 | Shandrica Lowe |
 | 306 | 174 | Jason Garnatz |
 | 307 | 171 | Cappin You |
 | 308 | 170 | Darlene Bowman |

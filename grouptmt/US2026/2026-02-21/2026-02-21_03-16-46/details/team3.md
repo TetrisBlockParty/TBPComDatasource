@@ -130,8 +130,8 @@
 | 122 | 118 | Fancy Curver |
 | 123 | 115 | Connie Mohler-Fair |
 | 124 | 115 | Jennifer Alvey |
-| 125 | 114 | Jessica Bechler |
-| 126 | 114 | Joy Petroski |
+| 125 | 114 | Joy Petroski |
+| 126 | 114 | Jessica Bechler |
 | 127 | 112 | Boldy Corner |
 | 128 | 111 | Joey Banks |
 | 129 | 110 | Tiff Vs Tiffany |
@@ -164,9 +164,9 @@
 | 156 | 96 | D3NO |
 | 157 | 95 | Brooke Bauer |
 | 158 | 95 | Demetrious Shaw Sr. |
-| 159 | 95 | Daring Builder |
-| 160 | 95 | Katie Knaus |
-| 161 | 95 | Funky Jumper |
+| 159 | 95 | Funky Jumper |
+| 160 | 95 | Daring Builder |
+| 161 | 95 | Katie Knaus |
 | 162 | 94 | Carrie Huskey |
 | 163 | 93 | Tiffany Ford |
 | 164 | 92 | Jennifer Caputo |
@@ -183,8 +183,8 @@
 | 175 | 86 | Stephanie Blkpep Davidson |
 | 176 | 86 | Josiah Fam |
 | 177 | 85 | Sashay Tapae Simpson |
-| 178 | 85 | Chris Bell |
-| 179 | 85 | Kevin Russell |
+| 178 | 85 | Kevin Russell |
+| 179 | 85 | Chris Bell |
 | 180 | 84 | Ava Petito |
 | 181 | 84 | Flashy Rumbler |
 | 182 | 84 | Amanda L Baker |
