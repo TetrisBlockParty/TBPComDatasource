@@ -287,8 +287,8 @@
 | 279 | 445 | Mar Q Thomas |
 | 280 | 445 | Dedra Steward |
 | 281 | 445 | Mr. Street Stack |
-| 282 | 442 | Daphne Jordan |
-| 283 | 442 | Leah |
+| 282 | 442 | Leah |
+| 283 | 442 | Daphne Jordan |
 | 284 | 442 | Joshua Mandel |
 | 285 | 440 | Liberty |
 | 286 | 439 | Joseph Musick |
@@ -393,9 +393,9 @@
 | 385 | 344 | Felicia Lynn |
 | 386 | 344 | Glenn Cobbins |
 | 387 | 342 | Ebony Deloach Bryant |
-| 388 | 342 | Véronique Lévesque Sabourin |
+| 388 | 342 | Sydney Busse |
 | 389 | 342 | Angi Harrison |
-| 390 | 342 | Sydney Busse |
+| 390 | 342 | Véronique Lévesque Sabourin |
 | 391 | 341 | Melissa Rebbe-Lehman |
 | 392 | 340 | Dar |
 | 393 | 339 | Cool Rollpiece |
@@ -453,8 +453,8 @@
 | 445 | 304 | Michelle Shrum |
 | 446 | 304 | NFLPITMOM |
 | 447 | 303 | Amanda Schaffer |
-| 448 | 303 | Angie Marie |
-| 449 | 303 | Crystal Greene |
+| 448 | 303 | Crystal Greene |
+| 449 | 303 | Angie Marie |
 | 450 | 301 | Kia Humphery |
 | 451 | 301 | Claire |
 | 452 | 301 | Audra Williams |
@@ -465,8 +465,8 @@
 | 457 | 298 | RetroLemur |
 | 458 | 297 | Peachy Blockbuilder |
 | 459 | 296 | Jennifer Darby |
-| 460 | 296 | Amber Gray |
-| 461 | 296 | Jennifer Casey-Kay |
+| 460 | 296 | Jennifer Casey-Kay |
+| 461 | 296 | Amber Gray |
 | 462 | 295 | Noel Tarmy |
 | 463 | 294 | Barbra Miller |
 | 464 | 294 | Amanda Edwards |

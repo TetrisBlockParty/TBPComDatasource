@@ -136,8 +136,8 @@
 | 128 | 278 | Rufus Lincoln |
 | 129 | 276 | Crimson |
 | 130 | 272 | opf |
-| 131 | 271 | Ashley Muncey |
-| 132 | 271 | Leah Barnett |
+| 131 | 271 | Leah Barnett |
+| 132 | 271 | Ashley Muncey |
 | 133 | 270 | Stephanie Blkpep Davidson |
 | 134 | 267 | Denise Nardoni |
 | 135 | 263 | Angeline Joseph |
@@ -159,8 +159,8 @@
 | 151 | 227 | Nikki Pags |
 | 152 | 226 | Grego Daniel |
 | 153 | 223 | Jeana Gilbert |
-| 154 | 222 | Hoppy Buildout |
-| 155 | 222 | Jimmie Clemons |
+| 154 | 222 | Jimmie Clemons |
+| 155 | 222 | Hoppy Buildout |
 | 156 | 219 | Shunta Jacobs |
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |

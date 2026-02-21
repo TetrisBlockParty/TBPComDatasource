@@ -47,8 +47,8 @@
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
 | 41 | 490 | Kristen Roles Robben |
-| 42 | 486 | Sarah Lombardo |
-| 43 | 486 | Sevens4L |
+| 42 | 486 | Sevens4L |
+| 43 | 486 | Sarah Lombardo |
 | 44 | 483 | Ryan Lunnin |
 | 45 | 469 | Kathi Snustad |
 | 46 | 421 | Christina Graham |
@@ -159,16 +159,16 @@
 | 151 | 149 | Arianna O'Brien |
 | 152 | 148 | Shauntina Burke |
 | 153 | 148 | Bouncy Grid |
-| 154 | 147 | Davery Spencer Adair |
-| 155 | 147 | Leslie Bush Yarbrough |
+| 154 | 147 | Leslie Bush Yarbrough |
+| 155 | 147 | Davery Spencer Adair |
 | 156 | 146 | Christy Jones |
 | 157 | 145 | Agustin Duarte Orozco |
 | 158 | 145 | Angela Fairbank |
 | 159 | 144 | femmefatale |
 | 160 | 144 | Gary Gobin |
 | 161 | 143 | Sarah Marie |
-| 162 | 142 | Colleen Wise |
-| 163 | 142 | Luciano Moreira |
+| 162 | 142 | Luciano Moreira |
+| 163 | 142 | Colleen Wise |
 | 164 | 141 | Blaire Bruckoff |
 | 165 | 140 | Miguel Teixeira |
 | 166 | 138 | Death |
@@ -228,7 +228,7 @@
 | 220 | 108 | Tavia |
 | 221 | 107 | Sleepysloath5745 |
 | 222 | 107 | Fmp |
-| 223 | 106 | Chantelle Ceno |
+| 223 | 106 | Bloknboy |
 | 224 | 106 | Alyssa Ingram |
 | 225 | 106 | Chantelle Ceno |
 | 226 | 105 | Brad MG |

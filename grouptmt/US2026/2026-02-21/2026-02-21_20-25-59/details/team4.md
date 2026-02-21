@@ -81,8 +81,8 @@
 | 73 | 289 | Julian Garcia |
 | 74 | 287 | Robin Getchel |
 | 75 | 281 | Leslie Nicole |
-| 76 | 277 | KJ Pool |
-| 77 | 277 | Isabella Blanco |
+| 76 | 277 | Isabella Blanco |
+| 77 | 277 | KJ Pool |
 | 78 | 274 | Desi Desporte |
 | 79 | 255 | Lindsay Ball |
 | 80 | 254 | Holly Jolly |
@@ -207,8 +207,8 @@
 | 199 | 118 | Mary Ann Pabukis |
 | 200 | 115 | Nubian1 |
 | 201 | 115 | Sam Middleton |
-| 202 | 115 | Ultramarine |
-| 203 | 115 | Jayk |
+| 202 | 115 | Jayk |
+| 203 | 115 | Ultramarine |
 | 204 | 113 | Dandy Cascadefit |
 | 205 | 113 | Adam Randall |
 | 206 | 112 | Bryan Hodgins |
@@ -295,8 +295,8 @@
 | 287 | 84 | Jennifer Renee |
 | 288 | 83 | Daresha Fair |
 | 289 | 83 | Abigail Murphy |
-| 290 | 82 | bloat princess |
-| 291 | 82 | Kametsunoyaiba |
+| 290 | 82 | Kametsunoyaiba |
+| 291 | 82 | bloat princess |
 | 292 | 82 | Nick Gray |
 | 293 | 81 | Twisty Cascadezone |
 | 294 | 81 | TRCuse |
