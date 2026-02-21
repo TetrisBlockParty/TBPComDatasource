@@ -86,8 +86,8 @@
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
 | 80 | 311 | David Lay |
-| 81 | 308 | Jen Allison |
-| 82 | 308 | Livvy |
+| 81 | 308 | Livvy |
+| 82 | 308 | Jen Allison |
 | 83 | 303 | Lauren Scott |
 | 84 | 300 | Jason Hart |
 | 85 | 295 | Latisha Davis |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | 030Synner |
-| 153 | 164 | ThaEviLJeNiuZ |
+| 152 | 164 | ThaEviLJeNiuZ |
+| 153 | 164 | 030Synner |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
@@ -198,8 +198,8 @@
 | 190 | 132 | Melissa Priest Sellers |
 | 191 | 132 | Jessica Cagle |
 | 192 | 131 | Michelle Morris |
-| 193 | 130 | Shukee Lo |
-| 194 | 130 | Carlos Ramirez |
+| 193 | 130 | Carlos Ramirez |
+| 194 | 130 | Shukee Lo |
 | 195 | 130 | Chris Bernstein |
 | 196 | 129 | Dreamy Snapgrid |
 | 197 | 128 | Jackie Marie |
@@ -235,8 +235,8 @@
 | 227 | 117 | Lindsey Gonzalez |
 | 228 | 116 | Adam Stephanie Parker |
 | 229 | 115 | Sam Middleton |
-| 230 | 115 | Alexandra Karavias |
-| 231 | 115 | Jayk |
+| 230 | 115 | Jayk |
+| 231 | 115 | Alexandra Karavias |
 | 232 | 115 | Nubian1 |
 | 233 | 114 | KimoKoala |
 | 234 | 114 | Kesha Brady |
@@ -249,8 +249,8 @@
 | 241 | 111 | Rafael Valentin |
 | 242 | 111 | Lazy Blocker |
 | 243 | 110 | Zach Kerbs |
-| 244 | 109 | Jessica Miller |
-| 245 | 109 | LS |
+| 244 | 109 | LS |
+| 245 | 109 | Jessica Miller |
 | 246 | 109 | Ak Jones |
 | 247 | 109 | Frank Cook |
 | 248 | 108 | Ali Ian |
@@ -326,7 +326,7 @@
 | 318 | 85 | Tim Knight-ten |
 | 319 | 84 | Matt Gooder |
 | 320 | 84 | Jen Hallin |
-| 321 | 84 | Matt Gooder |
+| 321 | 84 | Montiette Mcglown |
 | 322 | 84 | Ruben Wheeler |
 | 323 | 84 | mini |
 | 324 | 83 | Lee Silpe |

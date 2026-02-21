@@ -383,7 +383,7 @@
 | 375 | 73 | san |
 | 376 | 73 | Phredda Compton |
 | 377 | 73 | Amber Stoker |
-| 378 | 73 | Bird Person |
+| 378 | 73 | John Ramirez |
 | 379 | 72 | Nutty Clusterline |
 | 380 | 71 | Snappy Brickbuilder |
 | 381 | 71 | J.D3D.D |

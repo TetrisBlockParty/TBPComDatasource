@@ -225,9 +225,9 @@
 | 217 | 190 | Raven Dudley |
 | 218 | 189 | Sissy Lowery Davis |
 | 219 | 188 | JerseyJess |
-| 220 | 186 | Hyper Matchzone |
+| 220 | 186 | Aerian Preston |
 | 221 | 186 | Sunny Rotater |
-| 222 | 186 | Aerian Preston |
+| 222 | 186 | Hyper Matchzone |
 | 223 | 184 | Troy |
 | 224 | 183 | Ashley Jones |
 | 225 | 181 | Nicholas Roddy |
@@ -281,7 +281,7 @@
 | 273 | 149 | Angel Mendez |
 | 274 | 149 | Peachy Rollfit |
 | 275 | 148 | Carrie Huskey |
-| 276 | 148 | Wetwet |
+| 276 | 148 | Gumbo |
 | 277 | 147 | Ashley Lynn Marchese |
 | 278 | 146 | Tony Waters |
 | 279 | 146 | Ava Petito |
