@@ -260,8 +260,8 @@
 | 252 | 126 | April Matthew Kibble |
 | 253 | 126 | Pam Holt Powell |
 | 254 | 126 | RickyG |
-| 255 | 125 | Shimika Enay Wallace |
-| 256 | 125 | Felicia Doxey |
+| 255 | 125 | Felicia Doxey |
+| 256 | 125 | Shimika Enay Wallace |
 | 257 | 124 | Funky Jumper |
 | 258 | 123 | mzcatzy |
 | 259 | 123 | Michael Latasha Gray |

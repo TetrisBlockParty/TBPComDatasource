@@ -29,8 +29,8 @@
 | 21 | 625 | GreenJeepGirl |
 | 22 | 620 | Kimyatta Cavin |
 | 23 | 608 | Denny Shives |
-| 24 | 590 | Dee Kay |
-| 25 | 590 | Valerie Roberts |
+| 24 | 590 | Valerie Roberts |
+| 25 | 590 | Dee Kay |
 | 26 | 589 | Chilly Line |
 | 27 | 585 | Bubbly Puzzler |
 | 28 | 546 | LisaJo Picken Buchanan |
@@ -116,8 +116,8 @@
 | 108 | 173 | blockstar |
 | 109 | 173 | Ren Mc |
 | 110 | 171 | Denise Carlson |
-| 111 | 170 | Peachy Fall |
-| 112 | 170 | Girl |
+| 111 | 170 | Girl |
+| 112 | 170 | Peachy Fall |
 | 113 | 164 | ThaEviLJeNiuZ |
 | 114 | 160 | ZeeZee |
 | 115 | 160 | Stacey Stano |

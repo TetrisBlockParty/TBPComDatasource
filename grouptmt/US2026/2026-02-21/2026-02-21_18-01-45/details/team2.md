@@ -119,8 +119,8 @@
 | 111 | 780 | Amanda Grohmann |
 | 112 | 772 | Megan Ferguson Leone |
 | 113 | 771 | Terri McKelvey McKinley |
-| 114 | 763 | Robin Kerby |
-| 115 | 763 | Samantha Jo |
+| 114 | 763 | Samantha Jo |
+| 115 | 763 | Robin Kerby |
 | 116 | 759 | Jose Mendoza |
 | 117 | 756 | Stephanie Neuburger |
 | 118 | 751 | Loony Snapper |
@@ -274,7 +274,7 @@
 | 266 | 405 | Christy Krissie |
 | 267 | 405 | Sarah Massey |
 | 268 | 402 | Joshua Mandel |
-| 269 | 400 | Tammy Allen |
+| 269 | 400 | Rhonda Milstead |
 | 270 | 400 | Maegan Beaule |
 | 271 | 400 | Tammy Allen |
 | 272 | 397 | Alisa Lamb |
@@ -447,8 +447,8 @@
 | 439 | 269 | Reece Smith |
 | 440 | 268 | Dapper Dasher |
 | 441 | 265 | Sassy Linkbuilder |
-| 442 | 262 | Min |
-| 443 | 262 | Taren Cowan |
+| 442 | 262 | Taren Cowan |
+| 443 | 262 | Min |
 | 444 | 262 | Jackie Lucas |
 | 445 | 261 | MrsClaudette Will'sIam Matthews |
 | 446 | 260 | Kathryn Townsley |
