@@ -55,8 +55,8 @@
 | 47 | 123 | Nugget |
 | 48 | 122 | Shelly Chandler |
 | 49 | 121 | Smiley Tiltbuilder |
-| 50 | 116 | Sherri |
-| 51 | 116 | Serena Goodridge |
+| 50 | 116 | Serena Goodridge |
+| 51 | 116 | Sherri |
 | 52 | 114 | Jessica Cagle |
 | 53 | 113 | Degenerate |
 | 54 | 112 | Chirpy Basepiece |
@@ -69,8 +69,8 @@
 | 61 | 102 | Zany Shatterer |
 | 62 | 101 | Michelle Morris |
 | 63 | 100 | Andria Lynn |
-| 64 | 98 | Duck |
-| 65 | 98 | Stephme310 |
+| 64 | 98 | Stephme310 |
+| 65 | 98 | Duck |
 | 66 | 97 | YoMomma |
 | 67 | 96 | TinyLegoRose |
 | 68 | 96 | Zappy Snaplink |
@@ -89,8 +89,8 @@
 | 81 | 82 | Dizzy Tiley |
 | 82 | 81 | Kesha Brady |
 | 83 | 81 | Michelle Parker |
-| 84 | 80 | Melissa Adams |
-| 85 | 80 | Leah Kutz Zirbel |
+| 84 | 80 | Leah Kutz Zirbel |
+| 85 | 80 | Melissa Adams |
 | 86 | 79 | Avy Absol |
 | 87 | 76 | Jessica Miller |
 | 88 | 75 | Chair |

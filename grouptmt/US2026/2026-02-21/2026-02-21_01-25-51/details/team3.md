@@ -77,16 +77,16 @@
 | 69 | 166 | Danielle Mogg |
 | 70 | 160 | Tessina Dewey-Mancino |
 | 71 | 159 | Morgan Martinez |
-| 72 | 154 | Angela M. Fletcher |
-| 73 | 154 | Shannon Matthew Byers |
+| 72 | 154 | Shannon Matthew Byers |
+| 73 | 154 | Angela M. Fletcher |
 | 74 | 152 | rosy |
 | 75 | 152 | Shiny Zonebuilder |
 | 76 | 151 | Rufus Lincoln |
 | 77 | 149 | Trisha Balmer |
 | 78 | 144 | Denita Mungro |
 | 79 | 143 | ren |
-| 80 | 135 | Latoya Mayne |
-| 81 | 135 | Nicole Flippo |
+| 80 | 135 | Nicole Flippo |
+| 81 | 135 | Latoya Mayne |
 | 82 | 134 | DanceLuvLaugh |
 | 83 | 131 | Emma |
 | 84 | 129 | Giddy Twistbuilder |

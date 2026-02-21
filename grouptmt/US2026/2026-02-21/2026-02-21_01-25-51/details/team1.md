@@ -64,10 +64,10 @@
 | 56 | 119 | Irual Hctrab |
 | 57 | 117 | David DeSantis |
 | 58 | 116 | Kristen Roles Robben |
-| 59 | 114 | Colleen Wise |
-| 60 | 114 | Giddy Cascade |
-| 61 | 112 | Miguel Teixeira |
-| 62 | 112 | Nicole Roseberry Weber |
+| 59 | 114 | Giddy Cascade |
+| 60 | 114 | Colleen Wise |
+| 61 | 112 | Nicole Roseberry Weber |
+| 62 | 112 | Miguel Teixeira |
 | 63 | 110 | Heidi Feurer |
 | 64 | 109 | Dandy Basegrid |
 | 65 | 108 | Tavia |
@@ -104,8 +104,8 @@
 | 96 | 78 | Carrie Beck Geartz |
 | 97 | 77 | Teddy Alexander |
 | 98 | 76 | Larry Tilton |
-| 99 | 75 | Fresno Beotoni |
-| 100 | 75 | Tyler L Hunt |
+| 99 | 75 | Tyler L Hunt |
+| 100 | 75 | Fresno Beotoni |
 | 101 | 74 | Grace Joanne Agnant |
 | 102 | 73 | Witty Builderfit |
 | 103 | 73 | Loony Fitzone |
