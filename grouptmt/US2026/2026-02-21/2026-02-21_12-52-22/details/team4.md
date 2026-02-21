@@ -169,7 +169,7 @@
 | 161 | 98 | Chaz |
 | 162 | 98 | Duck |
 | 163 | 97 | Rafael Valentin |
-| 164 | 97 | Kristin MacDonald |
+| 164 | 97 | Ali Ian |
 | 165 | 97 | Brandi Durig |
 | 166 | 97 | Kristin MacDonald |
 | 167 | 96 | Marcus TheeyoungWoe Gilmore |

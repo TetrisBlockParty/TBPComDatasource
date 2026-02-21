@@ -188,8 +188,8 @@
 | 180 | 453 | Osun Anuket Esu |
 | 181 | 453 | Mischelle Clay |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Giggy Blocker |
-| 184 | 450 | Cheech Dta |
+| 183 | 450 | Cheech Dta |
+| 184 | 450 | Giggy Blocker |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |
@@ -247,8 +247,8 @@
 | 239 | 348 | Richard Horton |
 | 240 | 345 | Rhianna DiLorenzo |
 | 241 | 345 | Brenda Messer |
-| 242 | 344 | Julie Kresal |
-| 243 | 344 | Glenn Cobbins |
+| 242 | 344 | Glenn Cobbins |
+| 243 | 344 | Julie Kresal |
 | 244 | 343 | F-X |
 | 245 | 341 | Joce Lynn |
 | 246 | 334 | Moni Foxe |

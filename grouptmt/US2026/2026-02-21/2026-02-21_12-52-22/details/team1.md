@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Jen Sartain |
-| 23 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Amanda Summey Schoemer |
+| 23 | 511 | Jen Sartain |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -183,8 +183,8 @@
 | 175 | 94 | Brad MG |
 | 176 | 93 | Tyler Whitley |
 | 177 | 92 | Timothy Dew |
-| 178 | 90 | Fmp |
-| 179 | 90 | TSwag |
+| 178 | 90 | TSwag |
+| 179 | 90 | Fmp |
 | 180 | 89 | Mara Hilker |
 | 181 | 88 | Sam Williams |
 | 182 | 88 | MommaKFC |
