@@ -45,8 +45,8 @@
 | 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
-| 40 | 546 | Snappy Glidepiece |
-| 41 | 546 | Dolores Falco |
+| 40 | 546 | Dolores Falco |
+| 41 | 546 | Snappy Glidepiece |
 | 42 | 541 | MissTaylor |
 | 43 | 533 | Sarah Fehring |
 | 44 | 528 | Natasha Jones |
@@ -130,8 +130,8 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Ashley Tookes |
-| 126 | 182 | Hyper Matchzone |
+| 125 | 182 | Hyper Matchzone |
+| 126 | 182 | Ashley Tookes |
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
@@ -143,17 +143,17 @@
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
-| 138 | 159 | Morgan Martinez |
-| 139 | 159 | Mcathen |
-| 140 | 159 | Jone |
+| 138 | 159 | Jone |
+| 139 | 159 | Morgan Martinez |
+| 140 | 159 | Mcathen |
 | 141 | 158 | Grams |
 | 142 | 157 | Nicholas Roddy |
 | 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Stephanie Whitefield |
-| 148 | 153 | Beth Ingham |
+| 147 | 153 | Beth Ingham |
+| 148 | 153 | Stephanie Whitefield |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Jay Horn |
 | 160 | 140 | Gumbo |

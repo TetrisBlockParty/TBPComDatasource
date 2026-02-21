@@ -106,8 +106,8 @@
 | 98 | 674 | Dannette Goldberg-Richards |
 | 99 | 672 | Wendy Harder Gage |
 | 100 | 665 | Dineisha Carpenter |
-| 101 | 658 | Pacynthia Williams |
-| 102 | 658 | Vistabrat |
+| 101 | 658 | Vistabrat |
+| 102 | 658 | Pacynthia Williams |
 | 103 | 653 | Becky Weeks-Garry |
 | 104 | 649 | Stephanie Chapman |
 | 105 | 649 | Anna Edwards |
@@ -430,8 +430,8 @@
 | 422 | 187 | Stefanie Zonzini-Gagliardi |
 | 423 | 186 | Joshua Mullings |
 | 424 | 186 | Jackie Jackie Lee |
-| 425 | 184 | Sassy Linkbuilder |
-| 426 | 184 | Theresa Sterrett |
+| 425 | 184 | Theresa Sterrett |
+| 426 | 184 | Sassy Linkbuilder |
 | 427 | 184 | Regina Unruh |
 | 428 | 184 | Brittany Radaszewski |
 | 429 | 183 | Wakanda Forever |

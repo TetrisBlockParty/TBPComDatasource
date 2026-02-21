@@ -132,7 +132,7 @@
 | 124 | 113 | Andria Lynn |
 | 125 | 112 | Bryan Hodgins |
 | 126 | 112 | Brittany Marsh |
-| 127 | 112 | Bryan Hodgins |
+| 127 | 112 | Austin Owens |
 | 128 | 111 | Gwendolyn Pitcairn |
 | 129 | 111 | Lazy Blocker |
 | 130 | 110 | H.R. Block |
@@ -143,8 +143,8 @@
 | 135 | 105 | TheNeesh50 |
 | 136 | 105 | AyeKay |
 | 137 | 105 | Sam Middleton |
-| 138 | 104 | YoMomma |
-| 139 | 104 | Damn Libra |
+| 138 | 104 | Damn Libra |
+| 139 | 104 | YoMomma |
 | 140 | 104 | Adam Randall |
 | 141 | 102 | Faja |
 | 142 | 102 | ĥuf |
@@ -164,8 +164,8 @@
 | 156 | 92 | Kristin MacDonald |
 | 157 | 90 | No Strings Attached Ra |
 | 158 | 90 | Judy Cox |
-| 159 | 89 | shark tato |
-| 160 | 89 | mike |
+| 159 | 89 | mike |
+| 160 | 89 | shark tato |
 | 161 | 88 | Heather Tushner |
 | 162 | 88 | Kesha Brady |
 | 163 | 87 | Jen Caldwell |
