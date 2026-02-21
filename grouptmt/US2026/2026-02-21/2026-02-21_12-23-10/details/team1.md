@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Jen Sartain |
-| 22 | 511 | Amanda Summey Schoemer |
+| 21 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Jen Sartain |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -53,8 +53,8 @@
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 257 | Sarah Roberts |
-| 48 | 256 | Robert Benito |
-| 49 | 256 | Tipsy Column |
+| 48 | 256 | Tipsy Column |
+| 49 | 256 | Robert Benito |
 | 50 | 253 | Bhelle Sumile |
 | 51 | 251 | Adryane Schnase |
 | 52 | 244 | Franswa |
@@ -119,10 +119,10 @@
 | 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
-| 114 | 133 | Brandi Huntington |
-| 115 | 133 | Breanna Luna |
-| 116 | 132 | Davery Spencer Adair |
-| 117 | 132 | LaQuetta Faith Hines |
+| 114 | 133 | Breanna Luna |
+| 115 | 133 | Brandi Huntington |
+| 116 | 132 | LaQuetta Faith Hines |
+| 117 | 132 | Davery Spencer Adair |
 | 118 | 131 | Uhog SF |
 | 119 | 130 | Dandy Basegrid |
 | 120 | 129 | Dino |
@@ -157,8 +157,8 @@
 | 149 | 106 | Ash Galvan |
 | 150 | 106 | Bloknboy |
 | 151 | 105 | Ty Brown |
-| 152 | 104 | Bindi |
-| 153 | 104 | Charla Pross-Fugleberg |
+| 152 | 104 | Charla Pross-Fugleberg |
+| 153 | 104 | Bindi |
 | 154 | 103 | Angela Fairbank |
 | 155 | 102 | Jennifer ManWarren |
 | 156 | 101 | Chantelle Ceno |

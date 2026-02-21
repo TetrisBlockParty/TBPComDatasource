@@ -90,10 +90,10 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Blocked |
-| 88 | 307 | Peggi Charon |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
+| 87 | 307 | Peggi Charon |
+| 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -135,13 +135,13 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 179 | Joye Sims Binion |
-| 135 | 178 | AlsoJess |
-| 136 | 178 | Khaleada McGill Banks |
+| 135 | 178 | Khaleada McGill Banks |
+| 136 | 178 | AlsoJess |
 | 137 | 176 | Ryan Williams |
 | 138 | 167 | Raven Dudley |
 | 139 | 166 | Danielle Mogg |

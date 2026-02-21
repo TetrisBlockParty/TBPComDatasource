@@ -115,8 +115,8 @@
 | 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
-| 110 | 649 | Anna Edwards |
-| 111 | 649 | Stephanie Chapman |
+| 110 | 649 | Stephanie Chapman |
+| 111 | 649 | Anna Edwards |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
 | 114 | 631 | Peppy Zone |
@@ -152,8 +152,8 @@
 | 144 | 520 | Kimberly Schall |
 | 145 | 519 | Maria Escobar |
 | 146 | 517 | Debra Williams |
-| 147 | 515 | Real Ri |
-| 148 | 515 | Kaylee McCafferty |
+| 147 | 515 | Kaylee McCafferty |
+| 148 | 515 | Real Ri |
 | 149 | 514 | Ashley House |
 | 150 | 513 | Butta |
 | 151 | 511 | Ramone Armstrong |
@@ -167,8 +167,8 @@
 | 159 | 495 | Poppy Snap |
 | 160 | 488 | Teresa Gillmore |
 | 161 | 486 | MrsCandyfine As Wine Truss |
-| 162 | 485 | Gene Mills |
-| 163 | 485 | Leah Keesling |
+| 162 | 485 | Leah Keesling |
+| 163 | 485 | Gene Mills |
 | 164 | 484 | Suki Kaur |
 | 165 | 483 | Jordan Kaiser |
 | 166 | 482 | Eckoman518 |
@@ -185,8 +185,8 @@
 | 177 | 453 | Mischelle Clay |
 | 178 | 453 | Osun Anuket Esu |
 | 179 | 452 | Alezandra Smith |
-| 180 | 450 | Giggy Blocker |
-| 181 | 450 | Cheech Dta |
+| 180 | 450 | Cheech Dta |
+| 181 | 450 | Giggy Blocker |
 | 182 | 448 | Jojo Momma |
 | 183 | 442 | Daphne Jordan |
 | 184 | 442 | Leah |
@@ -202,9 +202,9 @@
 | 194 | 409 | Sparkles |
 | 195 | 406 | Erin StFrancis |
 | 196 | 402 | Joshua Mandel |
-| 197 | 400 | Tammy Allen |
-| 198 | 400 | Rhonda Milstead |
-| 199 | 400 | Crystie Hicks |
+| 197 | 400 | Rhonda Milstead |
+| 198 | 400 | Crystie Hicks |
+| 199 | 400 | Tammy Allen |
 | 200 | 397 | Ashley Guernsey-Martin |
 | 201 | 397 | coleksquad |
 | 202 | 396 | Steven Marshaun |
@@ -274,8 +274,8 @@
 | 266 | 311 | Véronique Lévesque Sabourin |
 | 267 | 311 | Dar |
 | 268 | 310 | Brandy Andre |
-| 269 | 309 | Oscar Bernie |
-| 270 | 309 | Ginger |
+| 269 | 309 | Ginger |
+| 270 | 309 | Oscar Bernie |
 | 271 | 309 | James Zaragoza |
 | 272 | 306 | Kristopher Miller |
 | 273 | 305 | Libby Hicks |
@@ -289,8 +289,8 @@
 | 281 | 296 | Amber Gray |
 | 282 | 296 | Jennifer Darby |
 | 283 | 295 | Diallo Sparkman |
-| 284 | 295 | Angela Bonquiqui Dinish |
-| 285 | 295 | Zany Clusterbuilder |
+| 284 | 295 | Zany Clusterbuilder |
+| 285 | 295 | Angela Bonquiqui Dinish |
 | 286 | 293 | Scott Treadway |
 | 287 | 293 | David Holliday |
 | 288 | 290 | Maya June |
@@ -599,8 +599,8 @@
 | 591 | 146 | Sherry Aguinaga |
 | 592 | 146 | Ibiza Carolina LaRose |
 | 593 | 145 | Chareen Lauritzen |
-| 594 | 145 | William Hughes |
-| 595 | 145 | Scott Rackley |
+| 594 | 145 | Scott Rackley |
+| 595 | 145 | William Hughes |
 | 596 | 145 | Kiorah Blaze |
 | 597 | 145 | Anastacio Hernandez |
 | 598 | 144 | BamaGirlinTX |
