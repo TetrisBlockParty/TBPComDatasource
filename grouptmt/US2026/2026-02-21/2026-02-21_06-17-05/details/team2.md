@@ -37,8 +37,8 @@
 | 29 | 1257 | Crystalin Heath Lewis |
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
-| 32 | 1173 | Devin Lee |
-| 33 | 1173 | Katrina Williams Balmir |
+| 32 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Devin Lee |
 | 34 | 1160 | Dustin Rains |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
@@ -86,8 +86,8 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Vistabrat |
-| 82 | 658 | Pacynthia Williams |
+| 81 | 658 | Pacynthia Williams |
+| 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
 | 84 | 649 | Stephanie Chapman |
 | 85 | 649 | Anna Edwards |
@@ -267,8 +267,8 @@
 | 259 | 256 | Tee Jaleesa |
 | 260 | 255 | Santana Miyagi |
 | 261 | 254 | Julie Hamilton |
-| 262 | 252 | Alezandra Smith |
-| 263 | 252 | Matt Johnson |
+| 262 | 252 | Matt Johnson |
+| 263 | 252 | Alezandra Smith |
 | 264 | 251 | Ann Knutson Anderson |
 | 265 | 250 | Barbra Miller |
 | 266 | 249 | SwampRebel |
@@ -503,8 +503,8 @@
 | 495 | 140 | Preya Patel |
 | 496 | 139 | Jackson Smith |
 | 497 | 139 | Octavio Garza |
-| 498 | 138 | Iris Angelica Perez Cantos |
-| 499 | 138 | Gursharan Sandhu |
+| 498 | 138 | Gursharan Sandhu |
+| 499 | 138 | Iris Angelica Perez Cantos |
 | 500 | 136 | Brandy |
 | 501 | 136 | Ericka Marie Smith |
 | 502 | 136 | Britney M. |
