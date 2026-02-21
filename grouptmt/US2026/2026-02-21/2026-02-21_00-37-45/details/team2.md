@@ -162,8 +162,8 @@
 | 154 | 236 | Frisky Riserbuilder |
 | 155 | 233 | Bubbly Snapfit |
 | 156 | 232 | Ann Knutson Anderson |
-| 157 | 231 | Ginger |
-| 158 | 231 | Dylan Thomason |
+| 157 | 231 | Dylan Thomason |
+| 158 | 231 | Ginger |
 | 159 | 231 | Ashley Lopez |
 | 160 | 228 | Davetta Sanford |
 | 161 | 227 | Alyssia Tancredi |
@@ -178,8 +178,8 @@
 | 170 | 214 | Mischelle Clay |
 | 171 | 213 | Tammy Allen |
 | 172 | 212 | Aleasha M Brown |
-| 173 | 207 | Claire |
-| 174 | 207 | Melissa McCall |
+| 173 | 207 | Melissa McCall |
+| 174 | 207 | Claire |
 | 175 | 206 | RAEPR05 |
 | 176 | 205 | Osun Anuket Esu |
 | 177 | 205 | tejas25 |
@@ -266,12 +266,12 @@
 | 258 | 149 | Megan Ferguson Leone |
 | 259 | 148 | Shannon Byrd |
 | 260 | 148 | Brittany Radaszewski |
-| 261 | 145 | William Hughes |
-| 262 | 145 | Scott Rackley |
+| 261 | 145 | Scott Rackley |
+| 262 | 145 | William Hughes |
 | 263 | 143 | Angelica |
 | 264 | 143 | Allison Hewitt |
-| 265 | 142 | Kyle LeRoy Harris |
-| 266 | 142 | Frisky Clearpiece |
+| 265 | 142 | Frisky Clearpiece |
+| 266 | 142 | Kyle LeRoy Harris |
 | 267 | 142 | Angela Lynn |
 | 268 | 141 | Markisha Poyndexter |
 | 269 | 140 | Anthony Huebel |
