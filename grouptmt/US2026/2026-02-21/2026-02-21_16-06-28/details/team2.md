@@ -290,8 +290,8 @@
 | 282 | 357 | Julie Kresal |
 | 283 | 355 | Shandrica Lowe |
 | 284 | 355 | Kristen O'Neal |
-| 285 | 354 | Tracy Wise |
-| 286 | 354 | Brave Dropmatch |
+| 285 | 354 | Brave Dropmatch |
+| 286 | 354 | Tracy Wise |
 | 287 | 353 | Cheery Matchzone |
 | 288 | 352 | Juanita Lyons |
 | 289 | 352 | ruth |
@@ -316,11 +316,11 @@
 | 308 | 332 | TF Dyer |
 | 309 | 331 | Shelley Thornburgh Wright |
 | 310 | 330 | Dar |
-| 311 | 330 | Taryece Gause |
-| 312 | 330 | Victoria Moore-Smith |
-| 313 | 329 | Nicole Cannon |
+| 311 | 330 | Victoria Moore-Smith |
+| 312 | 330 | Taryece Gause |
+| 313 | 329 | Jessie McDougald |
 | 314 | 329 | Chummy Blockbuilder |
-| 315 | 329 | Jessie McDougald |
+| 315 | 329 | Nicole Cannon |
 | 316 | 327 | Danielle Simmons |
 | 317 | 327 | Kiana Boschh |
 | 318 | 326 | Elisheva Mizrachi |
@@ -466,8 +466,8 @@
 | 458 | 232 | Quirky Twistline |
 | 459 | 232 | Amber Brion |
 | 460 | 231 | Hong Tang |
-| 461 | 231 | Dylan Thomason |
-| 462 | 231 | Brave Gridpiece |
+| 461 | 231 | Brave Gridpiece |
+| 462 | 231 | Dylan Thomason |
 | 463 | 230 | Leslie Johnson Guinto |
 | 464 | 229 | Tonya Lee |
 | 465 | 228 | Michelle Sager |
@@ -1228,7 +1228,7 @@
 | 1220 | 91 | Richard Kennard |
 | 1221 | 91 | Vung Nguyen |
 | 1222 | 91 | Kat Sproule |
-| 1223 | 91 | Bob Logan |
+| 1223 | 91 | Gigi |
 | 1224 | 91 | Lady Luck |
 | 1225 | 91 | Peguero Joseph |
 | 1226 | 91 | Bob Logan |

@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Dizzy Tiley |
-| 78 | 211 | Casey Grabner |
+| 77 | 211 | Casey Grabner |
+| 78 | 211 | Dizzy Tiley |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -106,8 +106,8 @@
 | 98 | 173 | blockstar |
 | 99 | 171 | Melvin Baird |
 | 100 | 170 | Girl |
-| 101 | 167 | Denise Carlson |
-| 102 | 167 | Holly Jolly |
+| 101 | 167 | Holly Jolly |
+| 102 | 167 | Denise Carlson |
 | 103 | 164 | ThaEviLJeNiuZ |
 | 104 | 162 | Shauna Havard |
 | 105 | 161 | Joeliecea Cobb |
@@ -130,8 +130,8 @@
 | 122 | 144 | Shainne Brewer |
 | 123 | 143 | Nugget |
 | 124 | 141 | Malakai Darien Fox |
-| 125 | 140 | Shannon Ferrari |
-| 126 | 140 | Jenna McGeorge |
+| 125 | 140 | Jenna McGeorge |
+| 126 | 140 | Shannon Ferrari |
 | 127 | 139 | Robin Watters |
 | 128 | 138 | Leslie Nicole |
 | 129 | 137 | PeaceOs |
@@ -173,8 +173,8 @@
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Marcus Todd |
-| 169 | 107 | Rafael Valentin |
+| 168 | 107 | Rafael Valentin |
+| 169 | 107 | Marcus Todd |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | Sam Middleton |
 | 172 | 105 | TheNeesh50 |

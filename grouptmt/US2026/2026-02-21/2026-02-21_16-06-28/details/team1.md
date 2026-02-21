@@ -78,15 +78,15 @@
 | 70 | 222 | Kristen Gideon |
 | 71 | 217 | Deanna L Hermanson |
 | 72 | 216 | Dee Perry |
-| 73 | 212 | Jaimie Lynn |
-| 74 | 212 | Mandyy Rae |
+| 73 | 212 | Mandyy Rae |
+| 74 | 212 | Jaimie Lynn |
 | 75 | 211 | Marianita Garcia |
 | 76 | 210 | Billie Dawn Sparks |
 | 77 | 210 | Ly Phethmany |
 | 78 | 205 | Trippy Redd |
 | 79 | 204 | Lexuriuos Lifestlye |
-| 80 | 201 | Anaid Sanchez |
-| 81 | 201 | Ananda Mendez |
+| 80 | 201 | Ananda Mendez |
+| 81 | 201 | Anaid Sanchez |
 | 82 | 200 | Giggly Builderline |
 | 83 | 198 | Brandi Huntington |
 | 84 | 198 | Happy Snapbuild |
@@ -110,8 +110,8 @@
 | 102 | 171 | Greg Premoe |
 | 103 | 171 | David DeSantis |
 | 104 | 169 | Abbey Crespo |
-| 105 | 166 | Tana |
-| 106 | 166 | Rico Rico |
+| 105 | 166 | Rico Rico |
+| 106 | 166 | Tana |
 | 107 | 165 | Veronica Eve |
 | 108 | 165 | GATOR |
 | 109 | 163 | Tyler Whitley |
@@ -228,9 +228,9 @@
 | 220 | 84 | Cheeky Pop |
 | 221 | 84 | Eddie Dillon |
 | 222 | 83 | FableGray |
-| 223 | 83 | Bob |
+| 223 | 83 | Layzietyme |
 | 224 | 83 | Daring Fitclear |
-| 225 | 83 | Layzietyme |
+| 225 | 83 | Bob |
 | 226 | 82 | Sarah Lombardo |
 | 227 | 81 | Giddy Glider |
 | 228 | 81 | Brave Slice |

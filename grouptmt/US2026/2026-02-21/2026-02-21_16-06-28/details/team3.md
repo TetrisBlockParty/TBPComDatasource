@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | rnr junky |
-| 142 | 207 | Chris Bell |
+| 141 | 207 | Chris Bell |
+| 142 | 207 | rnr junky |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -159,8 +159,8 @@
 | 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Staci George Fitzsimmons |
-| 155 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Staci George Fitzsimmons |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -187,8 +187,8 @@
 | 179 | 163 | Stephanie Hill |
 | 180 | 163 | Sashay Tapae Simpson |
 | 181 | 162 | Stephanie Whitefield |
-| 182 | 161 | Nikki Pags |
-| 183 | 161 | BŘŰŤİÇŨŚ |
+| 182 | 161 | BŘŰŤİÇŨŚ |
+| 183 | 161 | Nikki Pags |
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 158 | Grams |
@@ -372,9 +372,9 @@
 | 364 | 80 | Me,Him,Yu |
 | 365 | 80 | Oliver Neal II |
 | 366 | 79 | Bleu Sun Beams |
-| 367 | 79 | Brittany K Ward |
+| 367 | 79 | Mike Spritzer |
 | 368 | 79 | Jessie Chung |
-| 369 | 79 | Mike Spritzer |
+| 369 | 79 | Brittany K Ward |
 | 370 | 78 | Nena Somerville Kelly |
 | 371 | 78 | Sabrina Mansfield |
 | 372 | 78 | Clever Patterner |
