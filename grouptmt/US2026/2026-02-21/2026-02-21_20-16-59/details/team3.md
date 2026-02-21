@@ -108,16 +108,16 @@
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
-| 103 | 367 | Nerdy Riseclear |
-| 104 | 367 | mjl574 |
+| 103 | 367 | mjl574 |
+| 104 | 367 | Nerdy Riseclear |
 | 105 | 366 | Speedy Bridger |
 | 106 | 358 | Shannon Matthew Byers |
 | 107 | 356 | Adrian Marcel Pate |
 | 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
-| 111 | 323 | Ashley Raines |
-| 112 | 323 | Sherry Ogden |
+| 111 | 323 | Sherry Ogden |
+| 112 | 323 | Ashley Raines |
 | 113 | 321 | Dapper Snap |
 | 114 | 320 | Or Reznitsky |
 | 115 | 318 | Chasity |
@@ -225,8 +225,8 @@
 | 217 | 161 | Irene Arreguin |
 | 218 | 160 | Tiffany Davie |
 | 219 | 159 | Jone |
-| 220 | 157 | Patricia Gadsden |
-| 221 | 157 | Sharisse Baltimore |
+| 220 | 157 | Sharisse Baltimore |
+| 221 | 157 | Patricia Gadsden |
 | 222 | 156 | Bea Miles |
 | 223 | 155 | Loopy Fallzone |
 | 224 | 154 | Laurie Allen |
@@ -259,8 +259,8 @@
 | 251 | 142 | Erica Anderson |
 | 252 | 142 | David Bardo |
 | 253 | 141 | IamJust Neyamijah Washington Sr. |
-| 254 | 139 | Funky Jumper |
-| 255 | 139 | Loopy Clusterer |
+| 254 | 139 | Loopy Clusterer |
+| 255 | 139 | Funky Jumper |
 | 256 | 138 | Boldy Corner |
 | 257 | 137 | Joy Petroski |
 | 258 | 135 | Erykah |

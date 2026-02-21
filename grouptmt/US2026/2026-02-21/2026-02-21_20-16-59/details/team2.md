@@ -490,8 +490,8 @@
 | 482 | 278 | Demeka Dangerous-kisses Johnson |
 | 483 | 278 | Ray Ray Prado |
 | 484 | 277 | Anthony Mignacca |
-| 485 | 277 | NickyBrooks |
-| 486 | 277 | August Hale |
+| 485 | 277 | August Hale |
+| 486 | 277 | NickyBrooks |
 | 487 | 276 | Lindsey Leigh |
 | 488 | 276 | Vonceial Boone |
 | 489 | 274 | Michelle Sager |
@@ -501,8 +501,8 @@
 | 493 | 273 | Candy Pitts |
 | 494 | 273 | Britt Stunkel |
 | 495 | 271 | Ann Marie Davis |
-| 496 | 271 | Toni Lynn |
-| 497 | 271 | Loony Basepiece |
+| 496 | 271 | Loony Basepiece |
+| 497 | 271 | Toni Lynn |
 | 498 | 270 | Tim Dyer |
 | 499 | 270 | snkylnk |
 | 500 | 269 | Gauri Shrotriya |

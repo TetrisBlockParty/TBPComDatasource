@@ -200,8 +200,8 @@
 | 192 | 120 | Jackie Marie |
 | 193 | 120 | Joshua Guess |
 | 194 | 119 | Kristin Manee |
-| 195 | 119 | Gwendolyn Pitcairn |
-| 196 | 119 | Judy Cox |
+| 195 | 119 | Judy Cox |
+| 196 | 119 | Gwendolyn Pitcairn |
 | 197 | 118 | Mary Ann Pabukis |
 | 198 | 115 | Nubian1 |
 | 199 | 115 | Sam Middleton |
@@ -290,8 +290,8 @@
 | 282 | 85 | Chris Hartig |
 | 283 | 85 | Joseph Gray |
 | 284 | 84 | Ruben Wheeler |
-| 285 | 84 | Jennifer Renee |
-| 286 | 84 | Jen Hallin |
+| 285 | 84 | Jen Hallin |
+| 286 | 84 | Jennifer Renee |
 | 287 | 83 | Daresha Fair |
 | 288 | 83 | Abigail Murphy |
 | 289 | 82 | Kametsunoyaiba |
@@ -337,7 +337,7 @@
 | 329 | 73 | Lynn Marie |
 | 330 | 72 | Raegan Lane-Ross |
 | 331 | 72 | Brave Spinbuilder |
-| 332 | 72 | Raegan Lane-Ross |
+| 332 | 72 | Jackson Karen |
 | 333 | 71 | Dapper Climber |
 | 334 | 71 | Speedy Wipeblock |
 | 335 | 70 | Robert Rangel |
@@ -348,8 +348,8 @@
 | 340 | 70 | PlatinumRose |
 | 341 | 69 | Meli  Jackson |
 | 342 | 69 | Jessica Wells |
-| 343 | 68 | Kelly Duncan |
-| 344 | 68 | zelda Morgan |
+| 343 | 68 | zelda Morgan |
+| 344 | 68 | mitch |
 | 345 | 68 | 中山成巳 |
 | 346 | 68 | Kelly Duncan |
 | 347 | 67 | Frank Joseph Epson |

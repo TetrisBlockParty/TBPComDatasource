@@ -127,8 +127,8 @@
 | 119 | 186 | Jennifer Olewnik Soborowski |
 | 120 | 185 | Ash Galvan |
 | 121 | 182 | Spunky Piecebuilder |
-| 122 | 180 | Erez Yosef |
-| 123 | 180 | BigWeenie69 |
+| 122 | 180 | BigWeenie69 |
+| 123 | 180 | Erez Yosef |
 | 124 | 179 | Danielle Little-Daugherty |
 | 125 | 178 | Chad Atchley |
 | 126 | 176 | Basment Living |
@@ -196,10 +196,10 @@
 | 188 | 124 | Cartier |
 | 189 | 122 | Margo Wagner |
 | 190 | 122 | Melissa Lemmon |
-| 191 | 121 | April Carroll |
-| 192 | 121 | Mark Smith |
-| 193 | 120 | Alenoush Karimian |
-| 194 | 120 | Kimmie Kimms |
+| 191 | 121 | Mark Smith |
+| 192 | 121 | April Carroll |
+| 193 | 120 | Kimmie Kimms |
+| 194 | 120 | Alenoush Karimian |
 | 195 | 119 | Tater |
 | 196 | 118 | SavageBooty98 |
 | 197 | 117 | Larry Tilton |
