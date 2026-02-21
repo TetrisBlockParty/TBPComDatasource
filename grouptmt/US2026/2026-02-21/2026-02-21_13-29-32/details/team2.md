@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -192,8 +192,8 @@
 | 184 | 453 | Osun Anuket Esu |
 | 185 | 453 | Em Chen |
 | 186 | 452 | Alezandra Smith |
-| 187 | 450 | Giggy Blocker |
-| 188 | 450 | Cheech Dta |
+| 187 | 450 | Cheech Dta |
+| 188 | 450 | Giggy Blocker |
 | 189 | 448 | Jojo Momma |
 | 190 | 442 | Daphne Jordan |
 | 191 | 442 | Leah |
@@ -247,11 +247,11 @@
 | 239 | 357 | Julie Kresal |
 | 240 | 357 | Shannon Byrd |
 | 241 | 356 | Deyawn Smith |
-| 242 | 355 | Kristen O'Neal |
-| 243 | 355 | Shandrica Lowe |
-| 244 | 354 | Tracy Wise |
-| 245 | 354 | Brave Dropmatch |
-| 246 | 354 | Arkei Luster |
+| 242 | 355 | Shandrica Lowe |
+| 243 | 355 | Kristen O'Neal |
+| 244 | 354 | Arkei Luster |
+| 245 | 354 | Tracy Wise |
+| 246 | 354 | Brave Dropmatch |
 | 247 | 352 | ruth |
 | 248 | 351 | Emily Lyric Converse |
 | 249 | 350 | Chris Harr |
@@ -635,7 +635,7 @@
 | 627 | 144 | Alexis Richardson |
 | 628 | 144 | Jamie Brickley |
 | 629 | 143 | Jay Levy |
-| 630 | 142 | Marsha Sosa Kiech |
+| 630 | 142 | Christina Jones |
 | 631 | 142 | Joy LaJeunesse |
 | 632 | 142 | Marsha Sosa Kiech |
 | 633 | 142 | Amy Humphreys |

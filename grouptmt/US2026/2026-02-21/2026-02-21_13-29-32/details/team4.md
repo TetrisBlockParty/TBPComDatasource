@@ -187,7 +187,7 @@
 | 179 | 94 | DonMega |
 | 180 | 93 | Zesty Twistbuilder |
 | 181 | 92 | Misty Hollibaugh |
-| 182 | 90 | No Strings Attached Ra |
+| 182 | 90 | Amy Suckarieh |
 | 183 | 90 | Lauren Lamb |
 | 184 | 90 | Joeliecea Cobb |
 | 185 | 90 | No Strings Attached Ra |

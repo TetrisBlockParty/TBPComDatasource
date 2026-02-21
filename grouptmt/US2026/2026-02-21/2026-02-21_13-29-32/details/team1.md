@@ -51,8 +51,8 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Sweet Baker |
-| 47 | 274 | Theo Pinnow |
+| 46 | 274 | Theo Pinnow |
+| 47 | 274 | Sweet Baker |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
