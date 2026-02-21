@@ -1018,14 +1018,14 @@
 | 1010 | 5 | Glitzy Grid |
 | 1011 | 5 | PeppyPenguin |
 | 1012 | 5 | Snappy Bridgepiece |
-| 1013 | 5 | Daring Patternbuilder |
-| 1014 | 5 | Neena AkaJaneen TheQueen |
-| 1015 | 5 | FFincher88 |
-| 1016 | 5 | Glitzy Grid |
-| 1017 | 5 | Jean Graziano |
-| 1018 | 5 | Kimberly Berry |
-| 1019 | 5 | Soo Fly |
-| 1020 | 5 | Spicy Brickline |
+| 1013 | 5 | Lisa Reynolds Adair |
+| 1014 | 5 | Becky Lynn Cramer-Ingram |
+| 1015 | 5 | Witty Frame |
+| 1016 | 5 | Kayla Gregory |
+| 1017 | 5 | Lush Risebuilder |
+| 1018 | 5 | Crystal Raffaele |
+| 1019 | 5 | Daring Patternbuilder |
+| 1020 | 5 | Neena AkaJaneen TheQueen |
 | 1021 | 5 | Michelle Arteaga-Avila |
 | 1022 | 5 | FFincher88 |
 | 1023 | 5 | Spicy Brickline |

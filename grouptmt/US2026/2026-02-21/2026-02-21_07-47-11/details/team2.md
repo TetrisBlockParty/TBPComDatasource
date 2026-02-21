@@ -376,8 +376,8 @@
 | 368 | 204 | Rebecca Doughman |
 | 369 | 203 | Gary Stash |
 | 370 | 201 | Peppy Snapfall |
-| 371 | 201 | Neko Preston |
-| 372 | 201 | Zombi3 |
+| 371 | 201 | Zombi3 |
+| 372 | 201 | Neko Preston |
 | 373 | 200 | Cheeky Brickmatch |
 | 374 | 200 | Sarah Ridenour |
 | 375 | 200 | LaWanda Powell |
@@ -386,8 +386,8 @@
 | 378 | 198 | Angie Bolton Workman |
 | 379 | 198 | Alyssa Dean |
 | 380 | 196 | Besma Ao |
-| 381 | 196 | Cass Shirley |
-| 382 | 196 | Alexandra Reese |
+| 381 | 196 | Alexandra Reese |
+| 382 | 196 | Cass Shirley |
 | 383 | 195 | Snappy Shatterfit |
 | 384 | 195 | Emily Lyric Converse |
 | 385 | 194 | Kimberly Ann |
@@ -403,8 +403,8 @@
 | 395 | 191 | Deana |
 | 396 | 191 | John Quiring |
 | 397 | 190 | blarg |
-| 398 | 190 | Jessica Kaye DeAguero |
-| 399 | 190 | Layna Lyons |
+| 398 | 190 | Layna Lyons |
+| 399 | 190 | Jessica Kaye DeAguero |
 | 400 | 189 | Ramone Armstrong |
 | 401 | 188 | Justin Hines |
 | 402 | 188 | Seth Wrieden |
@@ -577,7 +577,7 @@
 | 569 | 134 | Swanky Columnbuilder |
 | 570 | 134 | Dandy Drop |
 | 571 | 134 | Christina Jones |
-| 572 | 134 | Leebo Slice |
+| 572 | 134 | Sarah Massey |
 | 573 | 134 | Quinn |
 | 574 | 134 | Leebo Slice |
 | 575 | 133 | Britt Woolston |

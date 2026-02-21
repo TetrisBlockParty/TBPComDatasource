@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -105,16 +105,16 @@
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Bubbly Puzzler |
 | 104 | 123 | Nugget |
 | 105 | 123 | Cherrish Duren |
 | 106 | 122 | Sherri |
 | 107 | 121 | Smiley Tiltbuilder |
-| 108 | 121 | Klo |
-| 109 | 121 | 030Synner |
+| 108 | 121 | 030Synner |
+| 109 | 121 | Klo |
 | 110 | 121 | Zany Shatterer |
 | 111 | 120 | Joshua Guess |
 | 112 | 119 | Kristin Manee |

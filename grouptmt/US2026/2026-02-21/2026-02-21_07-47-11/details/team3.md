@@ -39,11 +39,11 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -73,14 +73,14 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
 | 73 | 323 | Ashley Raines |
-| 74 | 322 | Michelle |
-| 75 | 322 | Mendoza Lee Christy |
+| 74 | 322 | Mendoza Lee Christy |
+| 75 | 322 | Michelle |
 | 76 | 320 | Or Reznitsky |
 | 77 | 316 | Fancy Cascader |
 | 78 | 309 | CeceGeGe |
@@ -152,8 +152,8 @@
 | 144 | 149 | Angel Mendez |
 | 145 | 149 | Trisha Balmer |
 | 146 | 147 | Sashay Tapae Simpson |
-| 147 | 146 | Latoya Mayne |
-| 148 | 146 | Denita Mungro |
+| 147 | 146 | Denita Mungro |
+| 148 | 146 | Latoya Mayne |
 | 149 | 142 | Erica Anderson |
 | 150 | 140 | Jay Horn |
 | 151 | 140 | Gumbo |
@@ -165,10 +165,10 @@
 | 157 | 131 | Jl |
 | 158 | 129 | Stephanie Burtin |
 | 159 | 128 | Tiff Vs Tiffany |
-| 160 | 127 | Connie Mohler-Fair |
-| 161 | 127 | Aerian Preston |
-| 162 | 127 | Marquita Sheard |
-| 163 | 126 | Bryan Byrd |
+| 160 | 127 | Aerian Preston |
+| 161 | 127 | Marquita Sheard |
+| 162 | 127 | Connie Mohler-Fair |
+| 163 | 126 | Dan Rob |
 | 164 | 126 | Brandon Givens |
 | 165 | 126 | Bryan Byrd |
 | 166 | 125 | Felicia Doxey |
@@ -243,8 +243,8 @@
 | 235 | 95 | MizzMonick Smith |
 | 236 | 95 | Brooke Bauer |
 | 237 | 95 | AlsoJess |
-| 238 | 94 | Carrie Huskey |
-| 239 | 94 | Angie Harper |
+| 238 | 94 | Angie Harper |
+| 239 | 94 | Carrie Huskey |
 | 240 | 93 | Tiffany Ford |
 | 241 | 92 | Ava Petito |
 | 242 | 92 | Jennifer Caputo |
