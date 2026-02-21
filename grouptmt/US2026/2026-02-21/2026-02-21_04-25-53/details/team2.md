@@ -235,8 +235,8 @@
 | 227 | 257 | Shameika Trail |
 | 228 | 256 | Tee Jaleesa |
 | 229 | 255 | Santana Miyagi |
-| 230 | 254 | Libby Hicks |
-| 231 | 254 | Julie Hamilton |
+| 230 | 254 | Julie Hamilton |
+| 231 | 254 | Libby Hicks |
 | 232 | 252 | Alezandra Smith |
 | 233 | 251 | Ann Knutson Anderson |
 | 234 | 251 | Leah |

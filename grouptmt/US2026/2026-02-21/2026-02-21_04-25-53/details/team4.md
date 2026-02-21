@@ -141,8 +141,8 @@
 | 133 | 80 | Melissa Adams |
 | 134 | 79 | Shainne Brewer |
 | 135 | 78 | Jessica Miller |
-| 136 | 78 | Zesty Linkgrid |
-| 137 | 78 | Chair |
+| 136 | 78 | Chair |
+| 137 | 78 | Zesty Linkgrid |
 | 138 | 77 | Chris Alexinas |
 | 139 | 76 | Tim Knight-ten |
 | 140 | 76 | Joseph Gray |

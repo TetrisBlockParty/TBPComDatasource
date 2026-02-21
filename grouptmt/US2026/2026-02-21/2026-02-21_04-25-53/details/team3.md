@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 578 | Jennifer Willis |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Dolores Falco |
-| 31 | 546 | Snappy Glidepiece |
+| 30 | 546 | Snappy Glidepiece |
+| 31 | 546 | Dolores Falco |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -165,8 +165,8 @@
 | 157 | 107 | Bryan Byrd |
 | 158 | 107 | Sherry Ogden |
 | 159 | 106 | Desiree Gold |
-| 160 | 105 | Emi |
-| 161 | 105 | Hoppy Buildout |
+| 160 | 105 | Hoppy Buildout |
+| 161 | 105 | Emi |
 | 162 | 104 | Sarah Moyer |
 | 163 | 103 | Giggly Brickroll |
 | 164 | 102 | Kali Kelz Williams |
