@@ -296,8 +296,8 @@
 | 288 | 442 | Leah |
 | 289 | 442 | Joshua Mandel |
 | 290 | 440 | Liberty |
-| 291 | 439 | Joseph Musick |
-| 292 | 439 | Alisa Lamb |
+| 291 | 439 | Alisa Lamb |
+| 292 | 439 | Joseph Musick |
 | 293 | 439 | Nashu |
 | 294 | 437 | Arwa Fatimah |
 | 295 | 436 | Melissa Kay Gibson |
@@ -380,8 +380,8 @@
 | 372 | 357 | Shannon Byrd |
 | 373 | 356 | Adam Simmons |
 | 374 | 355 | Shandrica Lowe |
-| 375 | 354 | Darlene Bowman |
-| 376 | 354 | Lawanda Forbes |
+| 375 | 354 | Lawanda Forbes |
+| 376 | 354 | Darlene Bowman |
 | 377 | 354 | Rickey Johnson |
 | 378 | 353 | Cheery Matchzone |
 | 379 | 352 | Juanita Lyons |

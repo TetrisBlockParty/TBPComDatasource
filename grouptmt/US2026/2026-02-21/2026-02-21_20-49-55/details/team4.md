@@ -46,8 +46,8 @@
 | 38 | 494 | Rodney McMath Jr. |
 | 39 | 488 | Anthony Bryan Riva |
 | 40 | 486 | Landon Keith Graffeo |
-| 41 | 483 | Kimberly Love |
-| 42 | 483 | Carmethia Clemons Haslerig |
+| 41 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Kimberly Love |
 | 43 | 470 | Carolyn Wallace |
 | 44 | 469 | Cherrish Duren |
 | 45 | 465 | Dawn Alexander |
@@ -337,8 +337,8 @@
 | 329 | 74 | Asher |
 | 330 | 74 | Matt Gooder |
 | 331 | 74 | Dizzy Matchzone |
-| 332 | 73 | Rheanda Weaskus |
-| 333 | 73 | Lynn Marie |
+| 332 | 73 | Lynn Marie |
+| 333 | 73 | Rheanda Weaskus |
 | 334 | 73 | Jennifer Perkins |
 | 335 | 72 | Orchislactea |
 | 336 | 72 | Jackson Karen |
@@ -352,8 +352,8 @@
 | 344 | 70 | Lee Silpe |
 | 345 | 70 | PlatinumRose |
 | 346 | 69 | Beth Helms |
-| 347 | 69 | Meli  Jackson |
-| 348 | 69 | Jessica Wells |
+| 347 | 69 | Jessica Wells |
+| 348 | 69 | Meli  Jackson |
 | 349 | 69 | Frisky Column |
 | 350 | 68 | Kelly Duncan |
 | 351 | 68 | 中山成巳 |

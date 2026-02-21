@@ -109,8 +109,8 @@
 | 101 | 222 | Kristen Gideon |
 | 102 | 214 | Billie Dawn Sparks |
 | 103 | 213 | Lexuriuos Lifestlye |
-| 104 | 212 | Jaimie Lynn |
-| 105 | 212 | Mandyy Rae |
+| 104 | 212 | Mandyy Rae |
+| 105 | 212 | Jaimie Lynn |
 | 106 | 211 | Marianita Garcia |
 | 107 | 210 | Ly Phethmany |
 | 108 | 205 | Nicole Roseberry Weber |

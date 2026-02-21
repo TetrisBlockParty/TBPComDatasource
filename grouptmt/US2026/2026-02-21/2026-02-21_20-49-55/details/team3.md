@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -110,8 +110,8 @@
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
-| 105 | 367 | mjl574 |
-| 106 | 367 | Nerdy Riseclear |
+| 105 | 367 | Nerdy Riseclear |
+| 106 | 367 | mjl574 |
 | 107 | 366 | Speedy Bridger |
 | 108 | 356 | Hasty Cascadefit |
 | 109 | 356 | Adrian Marcel Pate |
@@ -119,8 +119,8 @@
 | 111 | 348 | CeceGeGe |
 | 112 | 332 | Chauntee Alfrey-Cardinale |
 | 113 | 327 | Dapper Snap |
-| 114 | 323 | Sherry Ogden |
-| 115 | 323 | Ashley Raines |
+| 114 | 323 | Ashley Raines |
+| 115 | 323 | Sherry Ogden |
 | 116 | 320 | Or Reznitsky |
 | 117 | 318 | Chasity |
 | 118 | 316 | Mary Pellegrino |
@@ -158,12 +158,12 @@
 | 150 | 234 | Tom Nault |
 | 151 | 233 | Ray Lader |
 | 152 | 229 | Nikki Pags |
-| 153 | 228 | Rochelle Hazelett |
-| 154 | 228 | Morgan Martinez |
+| 153 | 228 | Morgan Martinez |
+| 154 | 228 | Rochelle Hazelett |
 | 155 | 226 | Grego Daniel |
 | 156 | 223 | Jeana Gilbert |
-| 157 | 222 | Hoppy Buildout |
-| 158 | 222 | Jimmie Clemons |
+| 157 | 222 | Jimmie Clemons |
+| 158 | 222 | Hoppy Buildout |
 | 159 | 219 | Shunta Jacobs |
 | 160 | 218 | LaNette Morgan |
 | 161 | 217 | Jess Bissett |
@@ -242,7 +242,7 @@
 | 234 | 153 | Daryn Elliott |
 | 235 | 152 | Katrina E Jelks |
 | 236 | 152 | Lesley Perez |
-| 237 | 152 | Katrina E Jelks |
+| 237 | 152 | Shiny Zonebuilder |
 | 238 | 150 | Valerie Gendron |
 | 239 | 149 | Alexis Taylor |
 | 240 | 149 | Peachy Rollfit |
