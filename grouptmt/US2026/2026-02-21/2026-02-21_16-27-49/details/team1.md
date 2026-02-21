@@ -155,10 +155,10 @@
 | 147 | 131 | Kimberly Garcia |
 | 148 | 130 | LD1 |
 | 149 | 129 | Dino |
-| 150 | 128 | lil mickey |
-| 151 | 128 | Barry Mac'Ockner |
-| 152 | 127 | Brave Wrecker |
-| 153 | 127 | Aimee Horton |
+| 150 | 128 | Barry Mac'Ockner |
+| 151 | 128 | lil mickey |
+| 152 | 127 | Aimee Horton |
+| 153 | 127 | Brave Wrecker |
 | 154 | 126 | Nerdy Linkblock |
 | 155 | 124 | Cartier |
 | 156 | 124 | Flashy Rotator |
@@ -169,10 +169,10 @@
 | 161 | 120 | Kimmie Kimms |
 | 162 | 120 | Alenoush Karimian |
 | 163 | 119 | Tater |
-| 164 | 116 | Jessica Russell |
-| 165 | 116 | Evie Khalil |
-| 166 | 115 | Mrs.Patrica |
-| 167 | 115 | Chuck Gannon |
+| 164 | 116 | Evie Khalil |
+| 165 | 116 | Jessica Russell |
+| 166 | 115 | Chuck Gannon |
+| 167 | 115 | Mrs.Patrica |
 | 168 | 114 | Gilbert Ortiz Jr. |
 | 169 | 113 | Desiree Deschaine Havee |
 | 170 | 112 | Nicole Roseberry Weber |
@@ -217,8 +217,8 @@
 | 209 | 93 | Kayla Marie Stevenson |
 | 210 | 91 | Sleepysloath5745 |
 | 211 | 91 | Owicked1 |
-| 212 | 90 | Steve Schneider |
-| 213 | 90 | John Kim |
+| 212 | 90 | John Kim |
+| 213 | 90 | Steve Schneider |
 | 214 | 90 | Grace Joanne Agnant |
 | 215 | 89 | Isodor |
 | 216 | 88 | Sam Williams |

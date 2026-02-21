@@ -301,8 +301,8 @@
 | 293 | 350 | Chris Harr |
 | 294 | 348 | Richard Horton |
 | 295 | 347 | Cheyenne Donovan |
-| 296 | 345 | Angie Bolton Workman |
-| 297 | 345 | Brenda Messer |
+| 296 | 345 | Brenda Messer |
+| 297 | 345 | Angie Bolton Workman |
 | 298 | 345 | Rhianna DiLorenzo |
 | 299 | 344 | Glenn Cobbins |
 | 300 | 344 | Lawanda Forbes |
@@ -614,8 +614,8 @@
 | 606 | 176 | Jennifer Malloy - Cardy |
 | 607 | 176 | Stacy Harper |
 | 608 | 176 | Dandy Drop |
-| 609 | 176 | Andrew Bratton-Tomes |
-| 610 | 176 | William Hunt |
+| 609 | 176 | William Hunt |
+| 610 | 176 | Andrew Bratton-Tomes |
 | 611 | 175 | Lucero Ramirez |
 | 612 | 175 | Snippy Rumbler |
 | 613 | 175 | NickyBrooks |

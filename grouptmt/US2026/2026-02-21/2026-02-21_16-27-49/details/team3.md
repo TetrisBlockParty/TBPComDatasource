@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -166,8 +166,8 @@
 | 158 | 188 | Angie Harper |
 | 159 | 184 | Jennie Beranek |
 | 160 | 182 | Hyper Matchzone |
-| 161 | 181 | Aerian Preston |
-| 162 | 181 | Karon Griffin |
+| 161 | 181 | Karon Griffin |
+| 162 | 181 | Aerian Preston |
 | 163 | 179 | Joye Sims Binion |
 | 164 | 179 | Ashley Jones |
 | 165 | 179 | Daira Largen |
@@ -260,8 +260,8 @@
 | 252 | 115 | Daring Builder |
 | 253 | 114 | Amanda Neal |
 | 254 | 113 | Brave Brickster |
-| 255 | 113 | Brian Battjes |
-| 256 | 113 | Beppy |
+| 255 | 113 | Beppy |
+| 256 | 113 | Brian Battjes |
 | 257 | 111 | France Vézina |
 | 258 | 111 | Stephanie Zahm |
 | 259 | 111 | Jason-Ashley Ludlow |
@@ -282,8 +282,8 @@
 | 274 | 106 | Cheeky Snapper |
 | 275 | 106 | Noettín Kan Zasnemoore |
 | 276 | 105 | Donna |
-| 277 | 105 | Boldy Blocker |
-| 278 | 105 | Emi |
+| 277 | 105 | Emi |
+| 278 | 105 | Boldy Blocker |
 | 279 | 104 | Samantha Lynn |
 | 280 | 104 | Ashley Rufus Bythcez |
 | 281 | 104 | Peachy Rollfit |
