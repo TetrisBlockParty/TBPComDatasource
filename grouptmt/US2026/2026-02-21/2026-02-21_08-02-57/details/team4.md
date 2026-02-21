@@ -58,8 +58,8 @@
 | 50 | 256 | Brittney Griggs |
 | 51 | 244 | Isabella Blanco |
 | 52 | 241 | Desi Desporte |
-| 53 | 231 | Michelle Marie |
-| 54 | 231 | Jenna Ingersoll |
+| 53 | 231 | Jenna Ingersoll |
+| 54 | 231 | Michelle Marie |
 | 55 | 226 | Breannah Grafe |
 | 56 | 207 | Alyssa Papen |
 | 57 | 205 | Sarah Neathery |
@@ -294,8 +294,8 @@
 | 286 | 54 | Lisha Billups |
 | 287 | 53 | Allison Judith |
 | 288 | 53 | Poppy Brickmatch |
-| 289 | 52 | Chassidy Martin |
-| 290 | 52 | Nerdy Twisterfit |
+| 289 | 52 | Nerdy Twisterfit |
+| 290 | 52 | Chassidy Martin |
 | 291 | 52 | Nicole Silvers |
 | 292 | 51 | Frank Cook |
 | 293 | 51 | George Nutt |

@@ -132,8 +132,8 @@
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
-| 127 | 166 | Danielle Mogg |
-| 128 | 166 | Kelly Ann Child |
+| 127 | 166 | Kelly Ann Child |
+| 128 | 166 | Danielle Mogg |
 | 129 | 164 | rosy |
 | 130 | 163 | Karon Griffin |
 | 131 | 159 | Morgan Martinez |
@@ -153,8 +153,8 @@
 | 145 | 149 | Bea Miles |
 | 146 | 149 | Trisha Balmer |
 | 147 | 147 | Sashay Tapae Simpson |
-| 148 | 146 | Denita Mungro |
-| 149 | 146 | Latoya Mayne |
+| 148 | 146 | Latoya Mayne |
+| 149 | 146 | Denita Mungro |
 | 150 | 142 | Erica Anderson |
 | 151 | 140 | Jay Horn |
 | 152 | 140 | Gumbo |

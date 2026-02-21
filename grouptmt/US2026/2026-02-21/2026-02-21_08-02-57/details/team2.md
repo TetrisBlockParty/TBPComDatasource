@@ -299,9 +299,9 @@
 | 291 | 256 | Smashanator |
 | 292 | 256 | CC |
 | 293 | 255 | Santana Miyagi |
-| 294 | 254 | Julie Hamilton |
-| 295 | 254 | Elizabeth Diraffaele |
-| 296 | 254 | Rose Fx |
+| 294 | 254 | Elizabeth Diraffaele |
+| 295 | 254 | Rose Fx |
+| 296 | 254 | Julie Hamilton |
 | 297 | 253 | Tansaria Couch-Butler |
 | 298 | 252 | Matt Johnson |
 | 299 | 252 | Cheech Dta |
