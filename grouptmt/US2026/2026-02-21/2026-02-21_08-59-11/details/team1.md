@@ -91,7 +91,7 @@
 | 83 | 155 | Standia Civil |
 | 84 | 153 | Shiny Gridmatch |
 | 85 | 152 | Jacqueline Unique |
-| 86 | 149 | june october |
+| 86 | 149 | Arianna O'Brien |
 | 87 | 149 | Tana |
 | 88 | 149 | june october |
 | 89 | 148 | Shauntina Burke |

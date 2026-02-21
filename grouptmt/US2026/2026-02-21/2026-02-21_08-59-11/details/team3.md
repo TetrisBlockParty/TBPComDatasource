@@ -40,8 +40,8 @@
 | 32 | 613 | Amber Hughes |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Suzieq |
-| 36 | 587 | Danielle Becker |
+| 35 | 587 | Danielle Becker |
+| 36 | 587 | Suzieq |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
 | 39 | 546 | Dolores Falco |
@@ -178,8 +178,8 @@
 | 170 | 127 | Aerian Preston |
 | 171 | 126 | Brandon Givens |
 | 172 | 126 | Bryan Byrd |
-| 173 | 125 | Shimika Enay Wallace |
-| 174 | 125 | Felicia Doxey |
+| 173 | 125 | Felicia Doxey |
+| 174 | 125 | Shimika Enay Wallace |
 | 175 | 124 | Cesar Barraza |
 | 176 | 123 | Terry Jo Jones |
 | 177 | 123 | Sarajane Lokan |
@@ -348,7 +348,7 @@
 | 340 | 70 | cherry 🍒pie |
 | 341 | 69 | Tony Mia Christian |
 | 342 | 69 | Jen Lewis |
-| 343 | 69 | Tony Mia Christian |
+| 343 | 69 | Spunky Combofall |
 | 344 | 68 | Reina Roth |
 | 345 | 67 | Will Miller |
 | 346 | 67 | Wendy Dearden |

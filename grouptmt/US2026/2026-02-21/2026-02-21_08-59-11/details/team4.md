@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -172,8 +172,8 @@
 | 164 | 87 | KM8 |
 | 165 | 87 | Bradley Reeves |
 | 166 | 87 | Lauren Lamb |
-| 167 | 86 | Destiney Carter |
-| 168 | 86 | amy |
+| 167 | 86 | amy |
+| 168 | 86 | Destiney Carter |
 | 169 | 85 | Mimi |
 | 170 | 85 | Marcus TheeyoungWoe Gilmore |
 | 171 | 85 | Chirpy Slammer |
@@ -225,8 +225,8 @@
 | 217 | 70 | Patron Anderson |
 | 218 | 69 | Carol Ricks Raymond |
 | 219 | 69 | Jessica Wells |
-| 220 | 68 | LS |
-| 221 | 68 | GBR |
+| 220 | 68 | GBR |
+| 221 | 68 | LS |
 | 222 | 68 | 中山成巳 |
 | 223 | 67 | Frank Joseph Epson |
 | 224 | 67 | Laurie McGregor |

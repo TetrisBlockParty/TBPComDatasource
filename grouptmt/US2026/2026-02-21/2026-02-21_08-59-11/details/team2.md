@@ -261,8 +261,8 @@
 | 253 | 293 | Scott Treadway |
 | 254 | 293 | David Holliday |
 | 255 | 290 | Jessie McDougald |
-| 256 | 288 | Megan Phillips |
-| 257 | 288 | Elisheva Mizrachi |
+| 256 | 288 | Elisheva Mizrachi |
+| 257 | 288 | Megan Phillips |
 | 258 | 286 | Ryan Gunther |
 | 259 | 285 | June E Hanson |
 | 260 | 283 | Davetta Sanford |
@@ -431,8 +431,8 @@
 | 423 | 184 | Theresa Sterrett |
 | 424 | 183 | Lynzekwi |
 | 425 | 183 | Ys Muhammed |
-| 426 | 183 | Wakanda Forever |
-| 427 | 183 | Brenna Ann |
+| 426 | 183 | Brenna Ann |
+| 427 | 183 | Wakanda Forever |
 | 428 | 182 | Donna M Carter |
 | 429 | 182 | Tamara Bailey |
 | 430 | 181 | Wacky Cascade |
