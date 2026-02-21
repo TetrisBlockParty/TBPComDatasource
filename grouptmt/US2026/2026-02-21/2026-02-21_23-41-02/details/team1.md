@@ -145,8 +145,8 @@
 | 137 | 190 | Sweetts |
 | 138 | 188 | Sam Williams |
 | 139 | 187 | Snippy Wipebuilder |
-| 140 | 186 | Jennifer Olewnik Soborowski |
-| 141 | 186 | Margo Wagner |
+| 140 | 186 | Margo Wagner |
+| 141 | 186 | Jennifer Olewnik Soborowski |
 | 142 | 185 | Basment Living |
 | 143 | 180 | Michael |
 | 144 | 180 | BigWeenie69 |
@@ -198,8 +198,8 @@
 | 190 | 139 | Mel Hogan |
 | 191 | 139 | Barry Mac'Ockner |
 | 192 | 138 | Death |
-| 193 | 137 | Cody Gates |
-| 194 | 137 | Witty Builderfit |
+| 193 | 137 | Witty Builderfit |
+| 194 | 137 | Cody Gates |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Giddy Cascade |
 | 197 | 135 | Aimee Horton |
@@ -229,7 +229,7 @@
 | 221 | 116 | MomMom |
 | 222 | 116 | Daring Fitclear |
 | 223 | 115 | Zany Tiler |
-| 224 | 115 | Chuck Gannon |
+| 224 | 115 | Jessi Sauer |
 | 225 | 115 | Mrs.Patrica |
 | 226 | 115 | Chuck Gannon |
 | 227 | 114 | Tyler Hertzog |

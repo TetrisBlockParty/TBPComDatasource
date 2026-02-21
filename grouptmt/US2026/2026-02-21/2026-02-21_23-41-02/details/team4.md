@@ -163,8 +163,8 @@
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
 | 157 | 153 | Empress Oasis |
-| 158 | 153 | Avy Absol |
-| 159 | 153 | Chair |
+| 158 | 153 | Chair |
+| 159 | 153 | Avy Absol |
 | 160 | 152 | Mary Ann Pabukis |
 | 161 | 151 | Bethany Ison |
 | 162 | 149 | Shainne Brewer |
@@ -354,8 +354,8 @@
 | 346 | 78 | Amy C Brown |
 | 347 | 78 | Steph Marie |
 | 348 | 77 | JPW |
-| 349 | 77 | Marvin Lou Martin |
-| 350 | 77 | Mike |
+| 349 | 77 | Mike |
+| 350 | 77 | Marvin Lou Martin |
 | 351 | 76 | Cristy Duerksen |
 | 352 | 76 | Kevin Bush |
 | 353 | 76 | Rebecca Blake |
