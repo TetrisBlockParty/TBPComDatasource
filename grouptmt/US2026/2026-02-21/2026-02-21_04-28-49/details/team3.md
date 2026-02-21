@@ -101,8 +101,8 @@
 | 93 | 183 | Judi Dobson |
 | 94 | 182 | Ashley Tookes |
 | 95 | 180 | Tessina Dewey-Mancino |
-| 96 | 179 | Daira Largen |
-| 97 | 179 | Fallorina Susana |
+| 96 | 179 | Fallorina Susana |
+| 97 | 179 | Daira Largen |
 | 98 | 178 | Khaleada McGill Banks |
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
@@ -169,8 +169,8 @@
 | 161 | 105 | Hoppy Buildout |
 | 162 | 104 | Sarah Moyer |
 | 163 | 103 | Giggly Brickroll |
-| 164 | 102 | mommablock |
-| 165 | 102 | Kali Kelz Williams |
+| 164 | 102 | Kali Kelz Williams |
+| 165 | 102 | mommablock |
 | 166 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 167 | 100 | Elizabeth Renee |
 | 168 | 100 | Bobbi Moore |
@@ -301,7 +301,7 @@
 | 293 | 60 | Pam Hilt |
 | 294 | 60 | Pizzi |
 | 295 | 60 | Ashley Rufus Bythcez |
-| 296 | 60 | Pam Hilt |
+| 296 | 60 | Randy Clevenger |
 | 297 | 59 | MizzMonick Smith |
 | 298 | 59 | kacihall |
 | 299 | 58 | Mandie Alexandra Adones |

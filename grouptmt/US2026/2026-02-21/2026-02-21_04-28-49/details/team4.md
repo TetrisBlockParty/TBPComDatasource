@@ -71,8 +71,8 @@
 | 63 | 134 | Jessica Bohlken |
 | 64 | 134 | Chirpy Basepiece |
 | 65 | 133 | Robin Watters |
-| 66 | 132 | Degenerate |
-| 67 | 132 | Jenna McGeorge |
+| 66 | 132 | Jenna McGeorge |
+| 67 | 132 | Degenerate |
 | 68 | 131 | Dustee Craddock-Harrison |
 | 69 | 130 | Casey Jeffcoat |
 | 70 | 129 | John Brunetti |
@@ -213,7 +213,7 @@
 | 205 | 55 | David Phifer |
 | 206 | 54 | Joseph Bodon |
 | 207 | 54 | Hyper Builder |
-| 208 | 54 | Joseph Bodon |
+| 208 | 54 | Lisha Billups |
 | 209 | 53 | Allison Judith |
 | 210 | 53 | Courtney Halleck |
 | 211 | 52 | Nicole Silvers |
