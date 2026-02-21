@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -139,10 +139,10 @@
 | 131 | 182 | Ashley Tookes |
 | 132 | 182 | Hyper Matchzone |
 | 133 | 180 | Tessina Dewey-Mancino |
-| 134 | 179 | Daira Largen |
-| 135 | 179 | Joye Sims Binion |
-| 136 | 178 | Khaleada McGill Banks |
-| 137 | 178 | AlsoJess |
+| 134 | 179 | Joye Sims Binion |
+| 135 | 179 | Daira Largen |
+| 136 | 178 | AlsoJess |
+| 137 | 178 | Khaleada McGill Banks |
 | 138 | 176 | Ryan Williams |
 | 139 | 175 | Logan Naccarato |
 | 140 | 174 | Sissy Lowery Davis |
@@ -152,8 +152,8 @@
 | 144 | 166 | Betty Rosas |
 | 145 | 166 | Kelly Ann Child |
 | 146 | 165 | Kali Kelz Williams |
-| 147 | 164 | rosy |
-| 148 | 164 | DanceLuvLaugh |
+| 147 | 164 | DanceLuvLaugh |
+| 148 | 164 | rosy |
 | 149 | 163 | Karon Griffin |
 | 150 | 163 | Stephanie Hill |
 | 151 | 160 | Tiffany Davie |
@@ -166,8 +166,8 @@
 | 158 | 156 | Joey Banks |
 | 159 | 155 | BŘŰŤİÇŨŚ |
 | 160 | 154 | Angela M. Fletcher |
-| 161 | 153 | Stephanie Whitefield |
-| 162 | 153 | Beth Ingham |
+| 161 | 153 | Beth Ingham |
+| 162 | 153 | Stephanie Whitefield |
 | 163 | 152 | Shiny Zonebuilder |
 | 164 | 151 | MsBee |
 | 165 | 150 | Nicole Myers |
@@ -198,9 +198,9 @@
 | 190 | 125 | Felicia Doxey |
 | 191 | 125 | Shimika Enay Wallace |
 | 192 | 124 | Cesar Barraza |
-| 193 | 123 | Marci Mize Fandrich |
+| 193 | 123 | Terry Jo Jones |
 | 194 | 123 | Sarajane Lokan |
-| 195 | 123 | Terry Jo Jones |
+| 195 | 123 | Marci Mize Fandrich |
 | 196 | 122 | Katrina E Jelks |
 | 197 | 122 | Giggly Brickroll |
 | 198 | 121 | mzcatzy |
@@ -219,8 +219,8 @@
 | 211 | 115 | Hoppy Buildout |
 | 212 | 115 | Daring Builder |
 | 213 | 114 | Jessica Bechler |
-| 214 | 113 | Brian Battjes |
-| 215 | 113 | Valerie Gendron |
+| 214 | 113 | Valerie Gendron |
+| 215 | 113 | Brian Battjes |
 | 216 | 111 | Stephanie Zahm |
 | 217 | 110 | Tye Stovall |
 | 218 | 110 | Danielle Weikel |

@@ -115,8 +115,8 @@
 | 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
-| 110 | 649 | Anna Edwards |
-| 111 | 649 | Stephanie Chapman |
+| 110 | 649 | Stephanie Chapman |
+| 111 | 649 | Anna Edwards |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
 | 114 | 631 | Loopy Clusterbuilder |
@@ -186,8 +186,8 @@
 | 178 | 453 | Mischelle Clay |
 | 179 | 453 | Osun Anuket Esu |
 | 180 | 452 | Alezandra Smith |
-| 181 | 450 | Giggy Blocker |
-| 182 | 450 | Cheech Dta |
+| 181 | 450 | Cheech Dta |
+| 182 | 450 | Giggy Blocker |
 | 183 | 448 | Jojo Momma |
 | 184 | 442 | Daphne Jordan |
 | 185 | 442 | Leah |
@@ -244,8 +244,8 @@
 | 236 | 348 | Richard Horton |
 | 237 | 345 | Rhianna DiLorenzo |
 | 238 | 345 | Brenda Messer |
-| 239 | 344 | Glenn Cobbins |
-| 240 | 344 | Julie Kresal |
+| 239 | 344 | Julie Kresal |
+| 240 | 344 | Glenn Cobbins |
 | 241 | 343 | F-X |
 | 242 | 335 | Shandrica Lowe |
 | 243 | 334 | Missie Lawson Gebhardt |
@@ -342,8 +342,8 @@
 | 334 | 264 | Dapper Dasher |
 | 335 | 264 | Giddy Gridclear |
 | 336 | 263 | Taylor Flowers |
-| 337 | 262 | Min |
-| 338 | 262 | Taren Cowan |
+| 337 | 262 | Taren Cowan |
+| 338 | 262 | Min |
 | 339 | 261 | MrsClaudette Will'sIam Matthews |
 | 340 | 260 | Ebony Deloach Bryant |
 | 341 | 260 | Denise Rickman |
@@ -378,8 +378,8 @@
 | 370 | 245 | Robin Kerby |
 | 371 | 245 | Sanaa Nounoussa |
 | 372 | 244 | Aimee Byrom |
-| 373 | 242 | Lawanda Forbes |
-| 374 | 242 | Donna Chandler |
+| 373 | 242 | Donna Chandler |
+| 374 | 242 | Lawanda Forbes |
 | 375 | 241 | Sabrina Burton |
 | 376 | 240 | Adam Erikson |
 | 377 | 240 | Angie Marie |
@@ -404,8 +404,8 @@
 | 396 | 228 | Michelle Sager |
 | 397 | 227 | Demeka Dangerous-kisses Johnson |
 | 398 | 227 | JacJac |
-| 399 | 226 | Mary Marie |
-| 400 | 226 | Juliana Marques Do Nascimento Gordy |
+| 399 | 226 | Juliana Marques Do Nascimento Gordy |
+| 400 | 226 | Mary Marie |
 | 401 | 226 | Leslie Ann Carter |
 | 402 | 224 | Justin Hines |
 | 403 | 223 | LegoCarpet |
@@ -425,8 +425,8 @@
 | 417 | 211 | Ys Muhammed |
 | 418 | 209 | Dawn L Washington-Feuquay |
 | 419 | 208 | Nancy Pohlman |
-| 420 | 207 | Melissa McCall |
-| 421 | 207 | Brave Gridpiece |
+| 420 | 207 | Brave Gridpiece |
+| 421 | 207 | Melissa McCall |
 | 422 | 207 | Shylee Tilman |
 | 423 | 206 | Neko Preston |
 | 424 | 206 | RAEPR05 |
@@ -512,8 +512,8 @@
 | 504 | 173 | Ocean-Brianna McGregor |
 | 505 | 171 | William Hunt |
 | 506 | 171 | Cappin You |
-| 507 | 170 | Darlene Bowman |
-| 508 | 170 | Dedra Steward |
+| 507 | 170 | Dedra Steward |
+| 508 | 170 | Darlene Bowman |
 | 509 | 170 | BTA |
 | 510 | 170 | Kenya Felix |
 | 511 | 169 | Eddie Perez |

@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -124,9 +124,9 @@
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
-| 119 | 123 | Bubbly Puzzler |
-| 120 | 123 | Cherrish Duren |
-| 121 | 123 | TinyLegoRose |
+| 119 | 123 | TinyLegoRose |
+| 120 | 123 | Bubbly Puzzler |
+| 121 | 123 | Cherrish Duren |
 | 122 | 122 | Sherri |
 | 123 | 121 | Megan Cutshaw |
 | 124 | 121 | Klo |
@@ -159,8 +159,8 @@
 | 151 | 103 | Judy Cox |
 | 152 | 102 | Faja |
 | 153 | 102 | ĥuf |
-| 154 | 101 | Saulc1991 |
-| 155 | 101 | Michelle Morris |
+| 154 | 101 | Michelle Morris |
+| 155 | 101 | Saulc1991 |
 | 156 | 100 | Alexandra Karavias |
 | 157 | 99 | Anthony Bryan Riva |
 | 158 | 99 | April Rondinone |
@@ -271,7 +271,7 @@
 | 263 | 66 | mitch |
 | 264 | 66 | Rebecca Blake |
 | 265 | 65 | Angela Geist Jusinski |
-| 266 | 65 | Jen Mattei |
+| 266 | 65 | BlockBabe |
 | 267 | 65 | Lee Silpe |
 | 268 | 65 | Jen Mattei |
 | 269 | 64 | Joseph Edmonson |
