@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -54,8 +54,8 @@
 | 46 | 447 | Samantha Peterson |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 402 | Courtney Cicoria |
 | 52 | 399 | Jenna Ingersoll |
 | 53 | 396 | Alicia Bass |
@@ -99,15 +99,15 @@
 | 91 | 210 | Damn Libra |
 | 92 | 205 | Sarah Neathery |
 | 93 | 204 | Brittney Orengo |
-| 94 | 202 | Monica Daley |
-| 95 | 202 | shar |
+| 94 | 202 | shar |
+| 95 | 202 | Monica Daley |
 | 96 | 198 | Mike Solo |
 | 97 | 198 | Denise Carlson |
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
-| 101 | 192 | Shauna Havard |
-| 102 | 192 | Crystal Carroll |
+| 101 | 192 | Crystal Carroll |
+| 102 | 192 | Shauna Havard |
 | 103 | 191 | Melvin Baird |
 | 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
@@ -130,13 +130,13 @@
 | 122 | 173 | blockstar |
 | 123 | 170 | Girl |
 | 124 | 164 | Chaz Duncan |
-| 125 | 164 | ThaEviLJeNiuZ |
-| 126 | 164 | 030Synner |
+| 125 | 164 | 030Synner |
+| 126 | 164 | ThaEviLJeNiuZ |
 | 127 | 160 | ZeeZee |
-| 128 | 157 | quicksand420 |
-| 129 | 157 | Jenna McGeorge |
-| 130 | 156 | Holly |
-| 131 | 156 | Jessica Bohlken |
+| 128 | 157 | Jenna McGeorge |
+| 129 | 157 | quicksand420 |
+| 130 | 156 | Jessica Bohlken |
+| 131 | 156 | Holly |
 | 132 | 153 | Empress Oasis |
 | 133 | 151 | Bethany Ison |
 | 134 | 151 | Dana Scott |
@@ -213,15 +213,15 @@
 | 205 | 111 | Michelle Morris |
 | 206 | 110 | Adam Stephanie Parker |
 | 207 | 109 | Chaz |
-| 208 | 108 | Ali Ian |
-| 209 | 108 | Shane Kalamata Platoon |
+| 208 | 108 | Shane Kalamata Platoon |
+| 209 | 108 | Ali Ian |
 | 210 | 107 | Rafael Valentin |
-| 211 | 106 | Zappy Snaplink |
-| 212 | 106 | Rebecca Morris |
+| 211 | 106 | Rebecca Morris |
+| 212 | 106 | Zappy Snaplink |
 | 213 | 105 | Brandi Durig |
 | 214 | 104 | Chris Alexinas |
-| 215 | 103 | Lauren Lamb |
-| 216 | 103 | Chris Bernstein |
+| 215 | 103 | Chris Bernstein |
+| 216 | 103 | Lauren Lamb |
 | 217 | 103 | Richard-April Kice |
 | 218 | 103 | Kate |
 | 219 | 102 | Jumpy Zonepiece |
@@ -268,9 +268,9 @@
 | 260 | 90 | No Strings Attached Ra |
 | 261 | 90 | Thomas Hettenhaus |
 | 262 | 89 | Joseph Pace |
-| 263 | 88 | Michelle Parker |
-| 264 | 88 | Kesha Brady |
-| 265 | 88 | Michelle Parker |
+| 263 | 88 | Kesha Brady |
+| 264 | 88 | Michelle Parker |
+| 265 | 88 | Savannah Overdorf |
 | 266 | 87 | Alan George LaRage |
 | 267 | 87 | Hyper Builder |
 | 268 | 86 | Tony Pavelka |

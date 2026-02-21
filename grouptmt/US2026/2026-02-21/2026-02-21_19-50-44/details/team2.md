@@ -335,8 +335,8 @@
 | 327 | 383 | Arkei Luster |
 | 328 | 382 | David Holliday |
 | 329 | 381 | Bubbly Snapfit |
-| 330 | 378 | TF Dyer |
-| 331 | 378 | Christina Ashley |
+| 330 | 378 | Christina Ashley |
+| 331 | 378 | TF Dyer |
 | 332 | 378 | Cody Nishimura |
 | 333 | 377 | Roy Salyer |
 | 334 | 376 | Caitlin Schmid |
@@ -852,9 +852,9 @@
 | 844 | 154 | Brian Easterday |
 | 845 | 154 | Jai |
 | 846 | 153 | Ryan Kluck |
-| 847 | 153 | Squirrel |
-| 848 | 153 | Roman Lavochnik |
-| 849 | 153 | Zippy Stackzone |
+| 847 | 153 | Zippy Stackzone |
+| 848 | 153 | Squirrel |
+| 849 | 153 | Roman Lavochnik |
 | 850 | 152 | JP Parks |
 | 851 | 152 | Kristin King |
 | 852 | 152 | Jamie Brickley |
@@ -883,8 +883,8 @@
 | 875 | 149 | Betty Ruth Hale |
 | 876 | 149 | Melissa Licklider |
 | 877 | 149 | Gina Caulder |
-| 878 | 149 | Boldy Cascadepiece |
-| 879 | 149 | Markisha Poyndexter |
+| 878 | 149 | Markisha Poyndexter |
+| 879 | 149 | Boldy Cascadepiece |
 | 880 | 148 | Diona Burns |
 | 881 | 148 | Fancy Glidezone |
 | 882 | 148 | Mo Shine On |
@@ -2824,7 +2824,7 @@
 | 2816 | 49 | Bri |
 | 2817 | 49 | Ryan |
 | 2818 | 48 | Flashy Shatterer |
-| 2819 | 48 | Armani Walker |
+| 2819 | 48 | Will Wonder |
 | 2820 | 48 | babyboo |
 | 2821 | 48 | Cheyanne Encalade |
 | 2822 | 48 | Elisa Henry |

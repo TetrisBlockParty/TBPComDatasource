@@ -156,16 +156,16 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Jimmie Clemons |
-| 152 | 222 | Hoppy Buildout |
+| 151 | 222 | Hoppy Buildout |
+| 152 | 222 | Jimmie Clemons |
 | 153 | 219 | Shunta Jacobs |
-| 154 | 218 | Rochelle Hazelett |
-| 155 | 218 | LaNette Morgan |
+| 154 | 218 | LaNette Morgan |
+| 155 | 218 | Rochelle Hazelett |
 | 156 | 217 | Jess Bissett |
-| 157 | 216 | Aaron Pitkin |
-| 158 | 216 | Nikki Pags |
-| 159 | 214 | Amy Fuller Heaton |
-| 160 | 214 | Jenny Hrndz |
+| 157 | 216 | Nikki Pags |
+| 158 | 216 | Aaron Pitkin |
+| 159 | 214 | Jenny Hrndz |
+| 160 | 214 | Amy Fuller Heaton |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
 | 163 | 207 | rnr junky |
