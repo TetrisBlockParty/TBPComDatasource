@@ -86,8 +86,8 @@
 | 78 | 658 | Dreamy Blast |
 | 79 | 658 | Pacynthia Williams |
 | 80 | 653 | Becky Weeks-Garry |
-| 81 | 649 | Stephanie Chapman |
-| 82 | 649 | Anna Edwards |
+| 81 | 649 | Anna Edwards |
+| 82 | 649 | Stephanie Chapman |
 | 83 | 631 | Loopy Clusterbuilder |
 | 84 | 608 | John Bednarik |
 | 85 | 601 | Nancy Reid |
@@ -134,8 +134,8 @@
 | 126 | 455 | Alicia Parrish |
 | 127 | 453 | Osun Anuket Esu |
 | 128 | 450 | Giggy Blocker |
-| 129 | 448 | Nick Jensen |
-| 130 | 448 | Jojo Momma |
+| 129 | 448 | Jojo Momma |
+| 130 | 448 | Nick Jensen |
 | 131 | 442 | Daphne Jordan |
 | 132 | 440 | BYM4L |
 | 133 | 431 | Slip |
@@ -211,8 +211,8 @@
 | 203 | 288 | Deborah Miller |
 | 204 | 287 | Claire |
 | 205 | 286 | Ryan Gunther |
-| 206 | 285 | June E Hanson |
-| 207 | 285 | Oscar Bernie |
+| 206 | 285 | Oscar Bernie |
+| 207 | 285 | June E Hanson |
 | 208 | 284 | Macy Williams |
 | 209 | 284 | Mamachelle Eisweirth |
 | 210 | 283 | Davetta Sanford |

@@ -52,11 +52,11 @@
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Girl |
-| 48 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Leah Kutz Zirbel |
+| 48 | 170 | Girl |
 | 49 | 168 | Anthony Magaraci |
-| 50 | 165 | Courtney Cicoria |
-| 51 | 165 | Casey Grabner |
+| 50 | 165 | Casey Grabner |
+| 51 | 165 | Courtney Cicoria |
 | 52 | 163 | Denise Carlson |
 | 53 | 163 | Livvy |
 | 54 | 160 | Carter Jones |
@@ -71,8 +71,8 @@
 | 63 | 145 | Edward White |
 | 64 | 141 | Malakai Darien Fox |
 | 65 | 140 | Shannon Ferrari |
-| 66 | 134 | Jessica Bohlken |
-| 67 | 134 | Chirpy Basepiece |
+| 66 | 134 | Chirpy Basepiece |
+| 67 | 134 | Jessica Bohlken |
 | 68 | 133 | Robin Watters |
 | 69 | 132 | Degenerate |
 | 70 | 132 | Jenna McGeorge |
@@ -81,8 +81,8 @@
 | 73 | 129 | John Brunetti |
 | 74 | 125 | Lauren Scott |
 | 75 | 123 | Nugget |
-| 76 | 122 | Shelly Chandler |
-| 77 | 122 | Sherri |
+| 76 | 122 | Sherri |
+| 77 | 122 | Shelly Chandler |
 | 78 | 121 | Smiley Tiltbuilder |
 | 79 | 120 | Joshua Guess |
 | 80 | 119 | Kristin Manee |

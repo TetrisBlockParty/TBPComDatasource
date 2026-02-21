@@ -103,7 +103,7 @@
 | 95 | 112 | Nicole Roseberry Weber |
 | 96 | 112 | Kristen Gideon |
 | 97 | 112 | Christina Graham |
-| 98 | 112 | Kristen Gideon |
+| 98 | 112 | Miguel Teixeira |
 | 99 | 111 | Agustin Duarte Orozco |
 | 100 | 110 | Garcia Bailey |
 | 101 | 110 | Heidi Feurer |
@@ -115,15 +115,15 @@
 | 107 | 103 | Adryane Schnase |
 | 108 | 102 | Jennifer ManWarren |
 | 109 | 100 | Bhelle Sumile |
-| 110 | 99 | Melissa Bires Hussar |
-| 111 | 99 | Ty Brown |
-| 112 | 96 | Melissa Lemmon |
-| 113 | 96 | Nery Martinez |
+| 110 | 99 | Ty Brown |
+| 111 | 99 | Melissa Bires Hussar |
+| 112 | 96 | Nery Martinez |
+| 113 | 96 | Melissa Lemmon |
 | 114 | 95 | Spunky Piecebuilder |
 | 115 | 94 | Bindi |
 | 116 | 94 | Luciano Moreira |
-| 117 | 93 | Aimee Horton |
-| 118 | 93 | Loony Fitzone |
+| 117 | 93 | Loony Fitzone |
+| 118 | 93 | Aimee Horton |
 | 119 | 92 | Jessica Russell |
 | 120 | 90 | Madison Wicks |
 | 121 | 90 | TSwag |
