@@ -112,12 +112,12 @@
 | 104 | 318 | Chasity |
 | 105 | 317 | joclisa |
 | 106 | 316 | Fancy Cascader |
-| 107 | 309 | Rich LeBlanc |
-| 108 | 309 | CeceGeGe |
+| 107 | 309 | CeceGeGe |
+| 108 | 309 | Rich LeBlanc |
 | 109 | 307 | Blocked |
 | 110 | 307 | Peggi Charon |
-| 111 | 300 | Sherika C. McDaniels |
-| 112 | 300 | Tessina Dewey-Mancino |
+| 111 | 300 | Tessina Dewey-Mancino |
+| 112 | 300 | Sherika C. McDaniels |
 | 113 | 293 | Poppy Splitter |
 | 114 | 284 | Jay Horn |
 | 115 | 277 | Logan Naccarato |

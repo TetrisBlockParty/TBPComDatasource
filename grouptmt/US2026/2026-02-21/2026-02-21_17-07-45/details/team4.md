@@ -62,8 +62,8 @@
 | 54 | 341 | Clarence Patawaran |
 | 55 | 309 | Lisa Davis |
 | 56 | 308 | Jen Allison |
-| 57 | 300 | David Lay |
-| 58 | 300 | Jason Hart |
+| 57 | 300 | Jason Hart |
+| 58 | 300 | David Lay |
 | 59 | 299 | Livvy |
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
@@ -159,31 +159,31 @@
 | 151 | 125 | AyeKay |
 | 152 | 124 | Allen Lloyd |
 | 153 | 123 | Cherrish Duren |
-| 154 | 122 | Carlos Ramirez |
-| 155 | 122 | Sherri |
-| 156 | 121 | Megan Cutshaw |
-| 157 | 121 | Smiley Tiltbuilder |
+| 154 | 122 | Sherri |
+| 155 | 122 | Carlos Ramirez |
+| 156 | 121 | Smiley Tiltbuilder |
+| 157 | 121 | Megan Cutshaw |
 | 158 | 120 | Joshua Guess |
 | 159 | 119 | Gwendolyn Pitcairn |
 | 160 | 119 | Judy Cox |
 | 161 | 119 | Kristin Manee |
 | 162 | 116 | Diana Houts |
-| 163 | 115 | Ultramarine |
-| 164 | 115 | Jayk |
-| 165 | 114 | Jackie Marie |
-| 166 | 114 | 🥔🥔 Spudz |
+| 163 | 115 | Jayk |
+| 164 | 115 | Ultramarine |
+| 165 | 114 | 🥔🥔 Spudz |
+| 166 | 114 | Jackie Marie |
 | 167 | 113 | Adam Randall |
-| 168 | 112 | Jeremy Steines |
-| 169 | 112 | Austin Owens |
-| 170 | 112 | Bryan Hodgins |
-| 171 | 112 | Zesty Twistbuilder |
-| 172 | 111 | Lazy Blocker |
-| 173 | 111 | Michelle Morris |
+| 168 | 112 | Zesty Twistbuilder |
+| 169 | 112 | Bryan Hodgins |
+| 170 | 112 | Jeremy Steines |
+| 171 | 112 | Austin Owens |
+| 172 | 111 | Michelle Morris |
+| 173 | 111 | Lazy Blocker |
 | 174 | 110 | H.R. Block |
 | 175 | 108 | Ali Ian |
 | 176 | 108 | Sam Middleton |
-| 177 | 107 | Rafael Valentin |
-| 178 | 107 | Marcus Todd |
+| 177 | 107 | Marcus Todd |
+| 178 | 107 | Rafael Valentin |
 | 179 | 106 | Avy Absol |
 | 180 | 105 | TheNeesh50 |
 | 181 | 105 | Kristin MacDonald |

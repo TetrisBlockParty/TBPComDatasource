@@ -148,8 +148,8 @@
 | 140 | 659 | Poldo Ilano |
 | 141 | 658 | Pacynthia Williams |
 | 142 | 651 | Unica Rector |
-| 143 | 650 | Shiny Rollzone |
-| 144 | 650 | Claire Noland |
+| 143 | 650 | Claire Noland |
+| 144 | 650 | Shiny Rollzone |
 | 145 | 641 | Ricardo Burton |
 | 146 | 632 | Beth |
 | 147 | 632 | Chelle |
@@ -201,8 +201,8 @@
 | 193 | 511 | Ramone Armstrong |
 | 194 | 511 | Laura Mclean |
 | 195 | 511 | Dizzy Zone |
-| 196 | 510 | Lisa Ongtowasruk |
-| 197 | 510 | Cheech Dta |
+| 196 | 510 | Cheech Dta |
+| 197 | 510 | Lisa Ongtowasruk |
 | 198 | 509 | Kelli Wells |
 | 199 | 504 | Cherica Taylor |
 | 200 | 503 | Mema |
@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Leah Keesling |
-| 210 | 485 | Lylymom |
+| 209 | 485 | Lylymom |
+| 210 | 485 | Leah Keesling |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -227,8 +227,8 @@
 | 219 | 469 | Ashley Rose Frederick |
 | 220 | 467 | Scott Treadway |
 | 221 | 465 | Drwatson187 |
-| 222 | 464 | Ryan Gunther |
-| 223 | 464 | Nett |
+| 222 | 464 | Nett |
+| 223 | 464 | Ryan Gunther |
 | 224 | 463 | Sue Leard |
 | 225 | 460 | Amélie Cadieux |
 | 226 | 460 | Cody Smith-Candelaria |
@@ -405,8 +405,8 @@
 | 397 | 280 | Lonne Emade |
 | 398 | 279 | Glitzy Stackzone |
 | 399 | 278 | Deana |
-| 400 | 278 | Ray Ray Prado |
-| 401 | 278 | Demeka Dangerous-kisses Johnson |
+| 400 | 278 | Demeka Dangerous-kisses Johnson |
+| 401 | 278 | Ray Ray Prado |
 | 402 | 277 | Mary Marie |
 | 403 | 276 | Lindsey Leigh |
 | 404 | 276 | Vonceial Boone |
@@ -439,8 +439,8 @@
 | 431 | 256 | Quirky Twistline |
 | 432 | 255 | Snappy Shatterfit |
 | 433 | 254 | Julie Hamilton |
-| 434 | 254 | Elizabeth Diraffaele |
-| 435 | 254 | Rose Fx |
+| 434 | 254 | Rose Fx |
+| 435 | 254 | Elizabeth Diraffaele |
 | 436 | 254 | Ann Knutson Anderson |
 | 437 | 253 | Kimmy Newman |
 | 438 | 253 | Tansaria Couch-Butler |
