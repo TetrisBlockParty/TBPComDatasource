@@ -94,8 +94,8 @@
 | 86 | 145 | BigWeenie69 |
 | 87 | 145 | Lachelle Dillon |
 | 88 | 144 | femmefatale |
-| 89 | 144 | Tanya Carpenter-Reynolds |
-| 90 | 144 | Plucky Ziggy |
+| 89 | 144 | Plucky Ziggy |
+| 90 | 144 | Tanya Carpenter-Reynolds |
 | 91 | 143 | Sarah Marie |
 | 92 | 141 | Blaire Bruckoff |
 | 93 | 138 | Gary Gobin |
@@ -156,8 +156,8 @@
 | 148 | 90 | TSwag |
 | 149 | 89 | Mara Hilker |
 | 150 | 87 | Jessi Sauer |
-| 151 | 86 | Basment Living |
-| 152 | 86 | Desiree Deschaine Havee |
+| 151 | 86 | Desiree Deschaine Havee |
+| 152 | 86 | Basment Living |
 | 153 | 85 | Steve Schneider |
 | 154 | 84 | Eddie Dillon |
 | 155 | 84 | Kayla Marie Stevenson |

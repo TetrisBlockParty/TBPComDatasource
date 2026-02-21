@@ -182,8 +182,8 @@
 | 174 | 380 | Calandra Shaya Robinson |
 | 175 | 380 | Joshua Mandel |
 | 176 | 379 | Auntie B |
-| 177 | 377 | Roy Salyer |
-| 178 | 377 | Liberty |
+| 177 | 377 | Liberty |
+| 178 | 377 | Roy Salyer |
 | 179 | 369 | Rhonda Milstead |
 | 180 | 364 | Shinette Dobson |
 | 181 | 363 | William Meussner |

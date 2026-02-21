@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 613 | Amber Hughes |
@@ -115,8 +115,8 @@
 | 107 | 200 | Twisty Brick LT |
 | 108 | 199 | joclisa |
 | 109 | 196 | Speedy Bridger |
-| 110 | 195 | Nicha Hooker |
-| 111 | 195 | Jenny Hrndz |
+| 110 | 195 | Jenny Hrndz |
+| 111 | 195 | Nicha Hooker |
 | 112 | 194 | glichmod |
 | 113 | 193 | Clever Shiftsnap |
 | 114 | 192 | Chasity |
@@ -130,8 +130,8 @@
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Danielle Mogg |
-| 126 | 166 | Kelly Ann Child |
+| 125 | 166 | Kelly Ann Child |
+| 126 | 166 | Danielle Mogg |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
 | 129 | 159 | Mcathen |
@@ -142,8 +142,8 @@
 | 134 | 156 | Joey Banks |
 | 135 | 155 | BŘŰŤİÇŨŚ |
 | 136 | 154 | Angela M. Fletcher |
-| 137 | 153 | Giddy Twistbuilder |
-| 138 | 153 | Beth Ingham |
+| 137 | 153 | Beth Ingham |
+| 138 | 153 | Giddy Twistbuilder |
 | 139 | 152 | Shiny Zonebuilder |
 | 140 | 151 | MsBee |
 | 141 | 150 | Nicole Myers |

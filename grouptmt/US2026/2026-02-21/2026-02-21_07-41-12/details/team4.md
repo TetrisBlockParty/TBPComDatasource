@@ -123,8 +123,8 @@
 | 115 | 116 | Diana Houts |
 | 116 | 115 | Ultramarine |
 | 117 | 113 | Andria Lynn |
-| 118 | 112 | Brittany Marsh |
-| 119 | 112 | Bryan Hodgins |
+| 118 | 112 | Bryan Hodgins |
+| 119 | 112 | Brittany Marsh |
 | 120 | 112 | Austin Owens |
 | 121 | 111 | Lazy Blocker |
 | 122 | 111 | Gwendolyn Pitcairn |
@@ -266,10 +266,10 @@
 | 258 | 57 | Alan George LaRage |
 | 259 | 57 | Hyper Matchclear |
 | 260 | 57 | Heather Bruce |
-| 261 | 57 | Hyper Matchclear |
+| 261 | 57 | Stephanie Jones |
 | 262 | 56 | Brittany Little |
-| 263 | 56 | Crystal Lynn |
-| 264 | 56 | Brandon Crabbs |
+| 263 | 56 | Brandon Crabbs |
+| 264 | 56 | Crystal Lynn |
 | 265 | 56 | Cj Lewis-haut |
 | 266 | 55 | Keshia Lyons |
 | 267 | 55 | Gdiguy |
