@@ -151,8 +151,8 @@
 | 143 | 140 | Jay Horn |
 | 144 | 135 | Cheryl Hinch Tenbrook |
 | 145 | 135 | Nicole Flippo |
-| 146 | 134 | Emma |
-| 147 | 134 | DanceLuvLaugh |
+| 146 | 134 | DanceLuvLaugh |
+| 147 | 134 | Emma |
 | 148 | 131 | Jl |
 | 149 | 127 | Aerian Preston |
 | 150 | 127 | Marquita Sheard |
@@ -226,8 +226,8 @@
 | 218 | 96 | D3NO |
 | 219 | 96 | Tasha Wesson-Torrence |
 | 220 | 95 | Brooke Bauer |
-| 221 | 94 | Angie Harper |
-| 222 | 94 | Carrie Huskey |
+| 221 | 94 | Carrie Huskey |
+| 222 | 94 | Angie Harper |
 | 223 | 93 | Tiffany Ford |
 | 224 | 92 | Ava Petito |
 | 225 | 92 | Trice Thomas |
@@ -245,8 +245,8 @@
 | 237 | 88 | Kate Farok |
 | 238 | 88 | Dapper Towerfit |
 | 239 | 87 | FATTY |
-| 240 | 87 | Kevin Russell |
-| 241 | 87 | Kellie Montgomery |
+| 240 | 87 | Kellie Montgomery |
+| 241 | 87 | Kevin Russell |
 | 242 | 87 | Boldy Blocker |
 | 243 | 86 | Clever Clearbuilder |
 | 244 | 86 | Michael Nowogorski |

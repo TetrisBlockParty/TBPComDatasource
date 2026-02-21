@@ -48,8 +48,8 @@
 | 40 | 256 | Brittney Griggs |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
-| 43 | 231 | Jenna Ingersoll |
-| 44 | 231 | Michelle Marie |
+| 43 | 231 | Michelle Marie |
+| 44 | 231 | Jenna Ingersoll |
 | 45 | 226 | Breannah Grafe |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |

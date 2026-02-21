@@ -44,8 +44,8 @@
 | 36 | 244 | Franswa |
 | 37 | 243 | Sarah Roberts |
 | 38 | 241 | Kristen Roles Robben |
-| 39 | 212 | Tdub |
-| 40 | 212 | Jaimie Lynn |
+| 39 | 212 | Jaimie Lynn |
+| 40 | 212 | Tdub |
 | 41 | 211 | Deanna L Hermanson |
 | 42 | 208 | Carrie Beck Geartz |
 | 43 | 206 | Elaine Elaine |
@@ -89,8 +89,8 @@
 | 81 | 144 | Plucky Ziggy |
 | 82 | 144 | femmefatale |
 | 83 | 143 | Sarah Marie |
-| 84 | 141 | Blaire Bruckoff |
-| 85 | 141 | Susanna Guerry |
+| 84 | 141 | Susanna Guerry |
+| 85 | 141 | Blaire Bruckoff |
 | 86 | 138 | Gary Gobin |
 | 87 | 137 | Nadine Velardo |
 | 88 | 133 | Brandi Huntington |
@@ -190,11 +190,11 @@
 | 182 | 70 | Daring Fitclear |
 | 183 | 70 | Nerdy Linkblock |
 | 184 | 69 | Christy Jones |
-| 185 | 68 | Ariel Whittington |
-| 186 | 68 | NicaOrlice |
+| 185 | 68 | NicaOrlice |
+| 186 | 68 | Ariel Whittington |
 | 187 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 188 | 67 | Mitchel White |
-| 189 | 67 | Jennifer Duttry |
+| 188 | 67 | Jennifer Duttry |
+| 189 | 67 | Mitchel White |
 | 190 | 66 | Angela Fairbank |
 | 191 | 66 | Dede |
 | 192 | 65 | Dizzy Riseclear |
@@ -276,7 +276,7 @@
 | 268 | 51 | Loneell Hyland |
 | 269 | 50 | LaFontaine Leslie |
 | 270 | 50 | MommaKFC |
-| 271 | 50 | LaFontaine Leslie |
+| 271 | 50 | Unicorn |
 | 272 | 50 | Sarah Lyle |
 | 273 | 49 | Missy Broz McNees |
 | 274 | 49 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
