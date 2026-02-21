@@ -115,8 +115,8 @@
 | 107 | 658 | Vistabrat |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
-| 110 | 649 | Stephanie Chapman |
-| 111 | 649 | Anna Edwards |
+| 110 | 649 | Anna Edwards |
+| 111 | 649 | Stephanie Chapman |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
 | 114 | 631 | Loopy Clusterbuilder |
@@ -152,8 +152,8 @@
 | 144 | 520 | Kimberly Schall |
 | 145 | 519 | Maria Escobar |
 | 146 | 517 | Debra Williams |
-| 147 | 515 | Kaylee McCafferty |
-| 148 | 515 | Real Ri |
+| 147 | 515 | Real Ri |
+| 148 | 515 | Kaylee McCafferty |
 | 149 | 514 | Ashley House |
 | 150 | 513 | Butta |
 | 151 | 511 | Ramone Armstrong |
@@ -215,8 +215,8 @@
 | 207 | 390 | Lylymom |
 | 208 | 386 | Ashie Ann |
 | 209 | 386 | Macy Williams |
-| 210 | 385 | Arwa Fatimah |
-| 211 | 385 | Sam |
+| 210 | 385 | Sam |
+| 211 | 385 | Arwa Fatimah |
 | 212 | 381 | Amanda Ferrell |
 | 213 | 380 | Calandra Shaya Robinson |
 | 214 | 378 | Cody Nishimura |
@@ -243,8 +243,8 @@
 | 235 | 348 | Richard Horton |
 | 236 | 345 | Rhianna DiLorenzo |
 | 237 | 345 | Brenda Messer |
-| 238 | 344 | Julie Kresal |
-| 239 | 344 | Glenn Cobbins |
+| 238 | 344 | Glenn Cobbins |
+| 239 | 344 | Julie Kresal |
 | 240 | 343 | F-X |
 | 241 | 334 | Moni Foxe |
 | 242 | 334 | Felicia Lynn |
@@ -381,8 +381,8 @@
 | 373 | 236 | Julio A Laracuente |
 | 374 | 236 | Niceday |
 | 375 | 235 | Kimberly Mitchell |
-| 376 | 234 | Jennifer Leigh |
-| 377 | 234 | Manny Trindade |
+| 376 | 234 | Manny Trindade |
+| 377 | 234 | Jennifer Leigh |
 | 378 | 234 | Jaybee Nguyen |
 | 379 | 234 | L3sli3 |
 | 380 | 233 | Jumpy Gridclear |

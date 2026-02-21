@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -74,8 +74,8 @@
 | 66 | 372 | Patty Allen |
 | 67 | 371 | Jesse Olive |
 | 68 | 370 | yoyo |
-| 69 | 362 | Mendoza Lee Christy |
-| 70 | 362 | Liv Whetson |
+| 69 | 362 | Liv Whetson |
+| 70 | 362 | Mendoza Lee Christy |
 | 71 | 360 | Ebony West-Cundiff |
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |

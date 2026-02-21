@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 534 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Amanda Summey Schoemer |
-| 22 | 511 | Jen Sartain |
+| 21 | 511 | Jen Sartain |
+| 22 | 511 | Amanda Summey Schoemer |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 311 | Michelle Nicole |
 | 38 | 303 | Maria C. Hernandez |
@@ -57,8 +57,8 @@
 | 49 | 256 | Robert Benito |
 | 50 | 253 | Bhelle Sumile |
 | 51 | 244 | Franswa |
-| 52 | 241 | Kristen Roles Robben |
-| 53 | 241 | Adryane Schnase |
+| 52 | 241 | Adryane Schnase |
+| 53 | 241 | Kristen Roles Robben |
 | 54 | 240 | Rachael |
 | 55 | 225 | Elaine Elaine |
 | 56 | 217 | Deanna L Hermanson |
@@ -179,11 +179,11 @@
 | 171 | 93 | Tyler Whitley |
 | 172 | 92 | Timothy Dew |
 | 173 | 91 | Chuck Gannon |
-| 174 | 90 | Madison Wicks |
-| 175 | 90 | TSwag |
+| 174 | 90 | TSwag |
+| 175 | 90 | Madison Wicks |
 | 176 | 89 | Mara Hilker |
-| 177 | 88 | Larry Tilton |
-| 178 | 88 | MommaKFC |
+| 177 | 88 | MommaKFC |
+| 178 | 88 | Larry Tilton |
 | 179 | 87 | Jessi Sauer |
 | 180 | 87 | Jenny Gingrich Fuentes |
 | 181 | 86 | Basment Living |

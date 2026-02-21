@@ -24,8 +24,8 @@
 | 16 | 619 | Devinlee Brown |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Valerie Roberts |
-| 20 | 590 | Dee Kay |
+| 19 | 590 | Dee Kay |
+| 20 | 590 | Valerie Roberts |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
