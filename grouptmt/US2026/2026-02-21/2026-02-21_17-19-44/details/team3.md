@@ -203,8 +203,8 @@
 | 195 | 159 | Jone |
 | 196 | 158 | Grams |
 | 197 | 157 | Marquita Sheard |
-| 198 | 157 | Patricia Gadsden |
-| 199 | 157 | Nicholas Roddy |
+| 198 | 157 | Nicholas Roddy |
+| 199 | 157 | Patricia Gadsden |
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
@@ -231,8 +231,8 @@
 | 223 | 142 | David Bardo |
 | 224 | 142 | Erica Anderson |
 | 225 | 138 | Boldy Corner |
-| 226 | 137 | Cheryl Hinch Tenbrook |
-| 227 | 137 | Joy Petroski |
+| 226 | 137 | Joy Petroski |
+| 227 | 137 | Cheryl Hinch Tenbrook |
 | 228 | 135 | Erykah |
 | 229 | 134 | Skinny Baldez |
 | 230 | 133 | LaNette Morgan |
@@ -252,8 +252,8 @@
 | 244 | 123 | Michael Latasha Gray |
 | 245 | 122 | BabyTonj Evans |
 | 246 | 122 | Giggly Brickroll |
-| 247 | 121 | Loopy Clusterer |
-| 248 | 121 | Fredd Thomas |
+| 247 | 121 | Fredd Thomas |
+| 248 | 121 | Loopy Clusterer |
 | 249 | 121 | mzcatzy |
 | 250 | 120 | Lys |
 | 251 | 120 | Eon Harris |

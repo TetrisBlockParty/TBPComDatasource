@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | Stephanie Chapman |
-| 108 | 789 | James Simms III |
+| 107 | 789 | James Simms III |
+| 108 | 789 | Stephanie Chapman |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -157,10 +157,10 @@
 | 149 | 620 | BYM4L |
 | 150 | 619 | Jamie Otero |
 | 151 | 614 | Robin Kerby |
-| 152 | 608 | Sommer Shope |
-| 153 | 608 | John Bednarik |
-| 154 | 604 | Danielle Johnson-Chandler |
-| 155 | 604 | Amber Shoemaker |
+| 152 | 608 | John Bednarik |
+| 153 | 608 | Sommer Shope |
+| 154 | 604 | Amber Shoemaker |
+| 155 | 604 | Danielle Johnson-Chandler |
 | 156 | 603 | Cassie Maynard |
 | 157 | 602 | L3sli3 |
 | 158 | 596 | Thomas Hughes |
@@ -261,8 +261,8 @@
 | 253 | 405 | Sarah Massey |
 | 254 | 405 | Christy Krissie |
 | 255 | 402 | Joshua Mandel |
-| 256 | 400 | Rhonda Milstead |
-| 257 | 400 | Tammy Allen |
+| 256 | 400 | Tammy Allen |
+| 257 | 400 | Rhonda Milstead |
 | 258 | 398 | Mr. Street Stack |
 | 259 | 397 | coleksquad |
 | 260 | 396 | Steven Marshaun |
@@ -271,8 +271,8 @@
 | 263 | 393 | Altamirano Michael |
 | 264 | 393 | Taylor Flowers |
 | 265 | 391 | Qiana Sanders |
-| 266 | 391 | Chilly Bridgepiece |
-| 267 | 391 | Brenda Utphall |
+| 266 | 391 | Brenda Utphall |
+| 267 | 391 | Chilly Bridgepiece |
 | 268 | 390 | Kimberly Randesi |
 | 269 | 389 | Matt Johnson |
 | 270 | 386 | Macy Williams |
@@ -313,8 +313,8 @@
 | 305 | 353 | Cheery Matchzone |
 | 306 | 352 | Juanita Lyons |
 | 307 | 352 | ruth |
-| 308 | 351 | Maegan Beaule |
-| 309 | 351 | Davetta Sanford |
+| 308 | 351 | Davetta Sanford |
+| 309 | 351 | Maegan Beaule |
 | 310 | 350 | Chris Harr |
 | 311 | 348 | Richard Horton |
 | 312 | 348 | Alexandra Weir |

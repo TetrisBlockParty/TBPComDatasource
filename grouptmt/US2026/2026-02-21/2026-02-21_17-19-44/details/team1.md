@@ -30,8 +30,8 @@
 | 22 | 618 | Amanda Summey Schoemer |
 | 23 | 547 | Marianne Louise West |
 | 24 | 543 | Aaron Garnett |
-| 25 | 541 | Drew Magnus |
-| 26 | 541 | Jorge Andrade |
+| 25 | 541 | Jorge Andrade |
+| 26 | 541 | Drew Magnus |
 | 27 | 521 | Hyp James NObettadanluvarat |
 | 28 | 517 | Felicia Lewis |
 | 29 | 516 | comrade fish |

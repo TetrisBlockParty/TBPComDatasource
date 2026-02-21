@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Dee Kay |
-| 24 | 590 | Valerie Roberts |
+| 23 | 590 | Valerie Roberts |
+| 24 | 590 | Dee Kay |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 521 | LisaJo Picken Buchanan |
@@ -111,8 +111,8 @@
 | 103 | 177 | Andria Lynn |
 | 104 | 176 | Justin Hannigan |
 | 105 | 174 | Zethra Prenisha Rahming |
-| 106 | 173 | blockstar |
-| 107 | 173 | Ren Mc |
+| 106 | 173 | Ren Mc |
+| 107 | 173 | blockstar |
 | 108 | 170 | Girl |
 | 109 | 167 | Denise Carlson |
 | 110 | 164 | ThaEviLJeNiuZ |
@@ -132,8 +132,8 @@
 | 124 | 147 | Jay28 |
 | 125 | 147 | Chair |
 | 126 | 146 | Klo |
-| 127 | 144 | Mr. Party |
-| 128 | 144 | Shainne Brewer |
+| 127 | 144 | Shainne Brewer |
+| 128 | 144 | Mr. Party |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
 | 131 | 140 | Jenna McGeorge |
