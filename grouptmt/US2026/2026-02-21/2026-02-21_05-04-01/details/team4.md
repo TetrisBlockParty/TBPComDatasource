@@ -40,8 +40,8 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Michelle Marie |
-| 36 | 231 | Jenna Ingersoll |
+| 35 | 231 | Jenna Ingersoll |
+| 36 | 231 | Michelle Marie |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
@@ -102,8 +102,8 @@
 | 94 | 108 | Rio Rocha |
 | 95 | 107 | Marcus Todd |
 | 96 | 106 | Jonathan Kimbrough |
-| 97 | 105 | TheNeesh50 |
-| 98 | 105 | Sam Middleton |
+| 97 | 105 | Sam Middleton |
+| 98 | 105 | TheNeesh50 |
 | 99 | 104 | YoMomma |
 | 100 | 103 | Zany Twisterfit |
 | 101 | 102 | Faja |

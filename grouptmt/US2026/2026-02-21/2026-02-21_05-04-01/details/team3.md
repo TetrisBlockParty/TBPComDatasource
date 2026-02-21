@@ -66,8 +66,8 @@
 | 58 | 351 | Calista Jo Dickson |
 | 59 | 349 | Justin Ritter |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |

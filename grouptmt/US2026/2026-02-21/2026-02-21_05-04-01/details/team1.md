@@ -110,8 +110,8 @@
 | 102 | 108 | Tavia |
 | 103 | 107 | Jodee Woods |
 | 104 | 106 | Ash Galvan |
-| 105 | 105 | Barry Mac'Ockner |
-| 106 | 105 | Flashy Rotator |
+| 105 | 105 | Flashy Rotator |
+| 106 | 105 | Barry Mac'Ockner |
 | 107 | 103 | Adryane Schnase |
 | 108 | 102 | Jennifer ManWarren |
 | 109 | 100 | Bhelle Sumile |
@@ -125,8 +125,8 @@
 | 117 | 93 | Aimee Horton |
 | 118 | 93 | Loony Fitzone |
 | 119 | 92 | Jessica Russell |
-| 120 | 90 | Madison Wicks |
-| 121 | 90 | TSwag |
+| 120 | 90 | TSwag |
+| 121 | 90 | Madison Wicks |
 | 122 | 89 | Mizzledagod |
 | 123 | 89 | Mara Hilker |
 | 124 | 87 | Jessi Sauer |
