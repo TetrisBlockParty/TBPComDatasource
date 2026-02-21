@@ -146,8 +146,8 @@
 | 138 | 173 | blockstar |
 | 139 | 171 | Diana Houts |
 | 140 | 170 | Amy Suckarieh |
-| 141 | 164 | ThaEviLJeNiuZ |
-| 142 | 164 | 030Synner |
+| 141 | 164 | 030Synner |
+| 142 | 164 | ThaEviLJeNiuZ |
 | 143 | 160 | ZeeZee |
 | 144 | 156 | Jessica Bohlken |
 | 145 | 156 | Holly |
@@ -158,8 +158,8 @@
 | 150 | 149 | Roger Coulter |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
-| 153 | 147 | Chair |
-| 154 | 147 | Jay28 |
+| 153 | 147 | Jay28 |
+| 154 | 147 | Chair |
 | 155 | 145 | Daria Rycewicz |
 | 156 | 144 | Mr. Party |
 | 157 | 141 | Marcus Todd |
@@ -170,12 +170,12 @@
 | 162 | 140 | John Brunetti |
 | 163 | 140 | Stephme310 |
 | 164 | 137 | PeaceOs |
-| 165 | 136 | Tanner Lund |
-| 166 | 136 | Sarah Brown |
+| 165 | 136 | Sarah Brown |
+| 166 | 136 | Tanner Lund |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
-| 169 | 134 | Kim Klutz Olson |
-| 170 | 134 | Chirpy Basepiece |
+| 169 | 134 | Chirpy Basepiece |
+| 170 | 134 | Kim Klutz Olson |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
 | 173 | 132 | Jessica Cagle |
@@ -269,8 +269,8 @@
 | 261 | 96 | Sammy Noguera |
 | 262 | 95 | Patron Anderson |
 | 263 | 95 | LS |
-| 264 | 95 | Tina Martinez |
-| 265 | 95 | Meagan Nicole |
+| 264 | 95 | Meagan Nicole |
+| 265 | 95 | Tina Martinez |
 | 266 | 94 | Madison Sweere |
 | 267 | 94 | DonMega |
 | 268 | 94 | Christina Black |

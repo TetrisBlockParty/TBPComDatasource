@@ -91,8 +91,8 @@
 | 83 | 454 | Brandon Green |
 | 84 | 447 | Mykal Burton |
 | 85 | 446 | Danielle Rhoades |
-| 86 | 445 | Silly Twist |
-| 87 | 445 | Kristie McFarland |
+| 86 | 445 | Kristie McFarland |
+| 87 | 445 | Silly Twist |
 | 88 | 442 | Christine Niles |
 | 89 | 430 | Patricia White |
 | 90 | 416 | Patty Allen |
@@ -113,12 +113,12 @@
 | 105 | 378 | Makelini Mausia |
 | 106 | 377 | Jesse Olive |
 | 107 | 372 | Jessica Bechler |
-| 108 | 368 | Stephanie Woods |
-| 109 | 368 | Stephanie Blkpep Davidson |
+| 108 | 368 | Stephanie Blkpep Davidson |
+| 109 | 368 | Stephanie Woods |
 | 110 | 367 | Nerdy Riseclear |
 | 111 | 367 | mjl574 |
-| 112 | 366 | Speedy Bridger |
-| 113 | 366 | Adrian Marcel Pate |
+| 112 | 366 | Adrian Marcel Pate |
+| 113 | 366 | Speedy Bridger |
 | 114 | 363 | Domo Washington |
 | 115 | 354 | Laurie Allen |
 | 116 | 350 | Tiff Vs Tiffany |
@@ -168,8 +168,8 @@
 | 160 | 234 | Tom Nault |
 | 161 | 233 | Ray Lader |
 | 162 | 231 | Nikki Pags |
-| 163 | 228 | Rochelle Hazelett |
-| 164 | 228 | Morgan Martinez |
+| 163 | 228 | Morgan Martinez |
+| 164 | 228 | Rochelle Hazelett |
 | 165 | 226 | Grego Daniel |
 | 166 | 224 | Nicole Myers |
 | 167 | 223 | Jeana Gilbert |
@@ -179,8 +179,8 @@
 | 171 | 219 | Shunta Jacobs |
 | 172 | 218 | LaNette Morgan |
 | 173 | 217 | Jess Bissett |
-| 174 | 214 | Amy Fuller Heaton |
-| 175 | 214 | Jenny Hrndz |
+| 174 | 214 | Jenny Hrndz |
+| 175 | 214 | Amy Fuller Heaton |
 | 176 | 212 | Krystal Gerstberger |
 | 177 | 211 | Katrina Turner |
 | 178 | 211 | Khaleada McGill Banks |
@@ -229,8 +229,8 @@
 | 221 | 175 | Tasha Wesson-Torrence |
 | 222 | 174 | Marquita Sheard |
 | 223 | 172 | Grams |
-| 224 | 169 | Emma |
-| 225 | 169 | BŘŰŤİÇŨŚ |
+| 224 | 169 | BŘŰŤİÇŨŚ |
+| 225 | 169 | Emma |
 | 226 | 168 | MsBee |
 | 227 | 166 | Betty Ivy |
 | 228 | 166 | Betty Rosas |

@@ -114,8 +114,8 @@
 | 106 | 1011 | Brave Dropmatch |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
-| 109 | 983 | Adam Erikson |
-| 110 | 983 | Anna Edwards |
+| 109 | 983 | Anna Edwards |
+| 110 | 983 | Adam Erikson |
 | 111 | 973 | Janel Turley-Garner |
 | 112 | 973 | Kim Dean |
 | 113 | 964 | Poppy Snapper |
@@ -208,8 +208,8 @@
 | 200 | 608 | Sommer Shope |
 | 201 | 604 | Danielle Johnson-Chandler |
 | 202 | 603 | Cassie Maynard |
-| 203 | 596 | Ellie Jonas |
-| 204 | 596 | Jelly |
+| 203 | 596 | Jelly |
+| 204 | 596 | Ellie Jonas |
 | 205 | 592 | Ashle Scranton |
 | 206 | 590 | Desiree Harris Rosch |
 | 207 | 589 | Thomas Hedrick |
@@ -436,8 +436,8 @@
 | 428 | 332 | Nicole Cannon |
 | 429 | 331 | Kia Humphery |
 | 430 | 330 | Moose Griffith |
-| 431 | 330 | CC |
-| 432 | 330 | Lucy Marshall |
+| 431 | 330 | Lucy Marshall |
+| 432 | 330 | CC |
 | 433 | 329 | Chummy Blockbuilder |
 | 434 | 329 | Jroc |
 | 435 | 327 | Ann Matzkanin |
@@ -539,8 +539,8 @@
 | 531 | 270 | Kathryn Townsley |
 | 532 | 270 | Tim Dyer |
 | 533 | 270 | Santana Miyagi |
-| 534 | 269 | Reece Smith |
-| 535 | 269 | Gauri Shrotriya |
+| 534 | 269 | Gauri Shrotriya |
+| 535 | 269 | Reece Smith |
 | 536 | 269 | Susan Arnburg |
 | 537 | 268 | Min |
 | 538 | 266 | Jason Garnatz |
@@ -557,8 +557,8 @@
 | 549 | 260 | Kelsey Sullivan |
 | 550 | 257 | Jackie Jackie Lee |
 | 551 | 257 | Julie Hamilton |
-| 552 | 256 | Quirky Twistline |
-| 553 | 256 | Brenna Yearian |
+| 552 | 256 | Brenna Yearian |
+| 553 | 256 | Quirky Twistline |
 | 554 | 256 | Tee Jaleesa |
 | 555 | 256 | Eric Carlson |
 | 556 | 256 | Amy Humphreys |
@@ -664,8 +664,8 @@
 | 656 | 217 | Layna Lyons |
 | 657 | 217 | Binyah-Binyah |
 | 658 | 215 | Ashlyn Berner |
-| 659 | 214 | Dawn L Washington-Feuquay |
-| 660 | 214 | Cass Shirley |
+| 659 | 214 | Cass Shirley |
+| 660 | 214 | Dawn L Washington-Feuquay |
 | 661 | 213 | Janai Vrabel |
 | 662 | 213 | Traci Johnson |
 | 663 | 212 | Gina Justbeingme Chillis |
