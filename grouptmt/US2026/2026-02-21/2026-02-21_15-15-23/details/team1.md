@@ -47,8 +47,8 @@
 | 39 | 380 | Robert Beck |
 | 40 | 363 | Angel Fowler |
 | 41 | 355 | Jennifer Cates |
-| 42 | 348 | Chipper Gridlock |
-| 43 | 348 | Stef Hu |
+| 42 | 348 | Stef Hu |
+| 43 | 348 | Chipper Gridlock |
 | 44 | 345 | Adryane Schnase |
 | 45 | 338 | Stephanie Zahn |
 | 46 | 337 | Jacqueline Williams |

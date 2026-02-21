@@ -156,8 +156,8 @@
 | 148 | 189 | Sissy Lowery Davis |
 | 149 | 189 | Fallorina Susana |
 | 150 | 184 | Jennie Beranek |
-| 151 | 182 | Ashley Tookes |
-| 152 | 182 | Hyper Matchzone |
+| 151 | 182 | Hyper Matchzone |
+| 152 | 182 | Ashley Tookes |
 | 153 | 181 | Karon Griffin |
 | 154 | 181 | Aerian Preston |
 | 155 | 179 | Daira Largen |
@@ -221,9 +221,9 @@
 | 213 | 131 | Jl |
 | 214 | 131 | Darlene McMillan |
 | 215 | 129 | Lesley Perez |
-| 216 | 128 | David Bardo |
+| 216 | 128 | Cesar Barraza |
 | 217 | 128 | Jen Lewis |
-| 218 | 128 | Cesar Barraza |
+| 218 | 128 | David Bardo |
 | 219 | 127 | Marquita Sheard |
 | 220 | 127 | Jennifer Alvey |
 | 221 | 125 | Felicia Doxey |

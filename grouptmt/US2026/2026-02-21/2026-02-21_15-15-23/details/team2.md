@@ -406,8 +406,8 @@
 | 398 | 256 | Barbra Miller |
 | 399 | 256 | Alishac Marie |
 | 400 | 256 | Tee Jaleesa |
-| 401 | 254 | Elizabeth Diraffaele |
-| 402 | 254 | Rose Fx |
+| 401 | 254 | Rose Fx |
+| 402 | 254 | Elizabeth Diraffaele |
 | 403 | 254 | Julie Hamilton |
 | 404 | 253 | Tansaria Couch-Butler |
 | 405 | 252 | Matt Johnson |
@@ -607,8 +607,8 @@
 | 599 | 167 | mshir |
 | 600 | 166 | Rhonda Petro |
 | 601 | 166 | suuny |
-| 602 | 165 | Fae-Bulous |
-| 603 | 165 | Austin Wilson |
+| 602 | 165 | Austin Wilson |
+| 603 | 165 | Fae-Bulous |
 | 604 | 165 | Catherine Varea |
 | 605 | 164 | Danielle DeLozier Plesec |
 | 606 | 164 | Jessica Vega |

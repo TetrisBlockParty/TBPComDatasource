@@ -68,8 +68,8 @@
 | 60 | 274 | Elizabeth Sallas |
 | 61 | 272 | YoMomma |
 | 62 | 269 | Desi Desporte |
-| 63 | 265 | KM8 |
-| 64 | 265 | Julian Garcia |
+| 63 | 265 | Julian Garcia |
+| 64 | 265 | KM8 |
 | 65 | 260 | Jason Hart |
 | 66 | 256 | Brittney Griggs |
 | 67 | 244 | Isabella Blanco |
@@ -105,12 +105,12 @@
 | 97 | 171 | Melvin Baird |
 | 98 | 170 | Girl |
 | 99 | 167 | Denise Carlson |
-| 100 | 164 | blockstar |
-| 101 | 164 | ThaEviLJeNiuZ |
+| 100 | 164 | ThaEviLJeNiuZ |
+| 101 | 164 | blockstar |
 | 102 | 162 | Shauna Havard |
 | 103 | 161 | Joeliecea Cobb |
-| 104 | 160 | ZeeZee |
-| 105 | 160 | Stacey Stano |
+| 104 | 160 | Stacey Stano |
+| 105 | 160 | ZeeZee |
 | 106 | 159 | Holly Jolly |
 | 107 | 157 | quicksand420 |
 | 108 | 154 | Zany Twisterfit |
