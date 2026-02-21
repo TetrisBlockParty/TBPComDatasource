@@ -26,8 +26,8 @@
 | 18 | 792 | LaQuetta Faith Hines |
 | 19 | 781 | Robert Beck |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Zappy Curvetile |
-| 22 | 770 | Adryane Schnase |
+| 21 | 770 | Adryane Schnase |
+| 22 | 770 | Zappy Curvetile |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 658 | Carolyn Smith |
@@ -153,8 +153,8 @@
 | 145 | 163 | Tyler Whitley |
 | 146 | 162 | Tanya Carpenter-Reynolds |
 | 147 | 161 | Jessie Lynn |
-| 148 | 156 | Tyler Werts |
-| 149 | 156 | Arianna O'Brien |
+| 148 | 156 | Arianna O'Brien |
+| 149 | 156 | Tyler Werts |
 | 150 | 155 | Cece Ibarra |
 | 151 | 154 | Irual Hctrab |
 | 152 | 153 | Shiny Gridmatch |
@@ -177,8 +177,8 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Death |
-| 173 | 138 | Cranky Pattern |
+| 172 | 138 | Cranky Pattern |
+| 173 | 138 | Death |
 | 174 | 137 | Cody Gates |
 | 175 | 136 | Breanna Luna |
 | 176 | 136 | Dino |
@@ -200,8 +200,8 @@
 | 192 | 125 | Larry Tilton |
 | 193 | 125 | Fmp |
 | 194 | 124 | Cartier |
-| 195 | 122 | Margo Wagner |
-| 196 | 122 | Melissa Lemmon |
+| 195 | 122 | Melissa Lemmon |
+| 196 | 122 | Margo Wagner |
 | 197 | 121 | Mark Smith |
 | 198 | 120 | Kimmie Kimms |
 | 199 | 120 | Alenoush Karimian |

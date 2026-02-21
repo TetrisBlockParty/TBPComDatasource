@@ -248,15 +248,15 @@
 | 240 | 513 | Angela Bonquiqui Dinish |
 | 241 | 511 | Laura Mclean |
 | 242 | 511 | Dizzy Zone |
-| 243 | 510 | Laquetta Royston |
-| 244 | 510 | Lisa Ongtowasruk |
+| 243 | 510 | Lisa Ongtowasruk |
+| 244 | 510 | Laquetta Royston |
 | 245 | 509 | Kelli Wells |
 | 246 | 506 | AISlop |
 | 247 | 504 | Gene Mills |
 | 248 | 504 | Cherica Taylor |
 | 249 | 503 | tejas25 |
-| 250 | 502 | Poppy Snap |
-| 251 | 502 | Magic steve |
+| 250 | 502 | Magic steve |
+| 251 | 502 | Poppy Snap |
 | 252 | 500 | Sarah Ridenour |
 | 253 | 497 | Juliana Marques Do Nascimento Gordy |
 | 254 | 497 | Jeremy Parodi |
@@ -365,14 +365,14 @@
 | 357 | 369 | Tara Lynn Janes |
 | 358 | 369 | AkaLefty |
 | 359 | 367 | Deyawn Smith |
-| 360 | 366 | Wuntayk |
-| 361 | 366 | Jaycee |
+| 360 | 366 | Jaycee |
+| 361 | 366 | Wuntayk |
 | 362 | 365 | Christina Lewis-Vickers |
 | 363 | 365 | Audrey Jones |
 | 364 | 365 | Kayla |
 | 365 | 364 | Julie Kresal |
-| 366 | 364 | Shinette Dobson |
-| 367 | 364 | Lively Edgepiece |
+| 366 | 364 | Lively Edgepiece |
+| 367 | 364 | Shinette Dobson |
 | 368 | 362 | Tracy Wise |
 | 369 | 360 | Brenda Messer |
 | 370 | 358 | Alyssaaelena |
@@ -387,8 +387,8 @@
 | 379 | 354 | Rickey Johnson |
 | 380 | 353 | Cheery Matchzone |
 | 381 | 352 | Juanita Lyons |
-| 382 | 352 | Tj Ball |
-| 383 | 352 | ruth |
+| 382 | 352 | ruth |
+| 383 | 352 | Tj Ball |
 | 384 | 351 | Rebecca Miller |
 | 385 | 350 | Fi Ne |
 | 386 | 350 | F-X |
