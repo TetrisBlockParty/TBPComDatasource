@@ -41,8 +41,8 @@
 | 33 | 587 | Marianne Louise West |
 | 34 | 585 | Jennifer Cates |
 | 35 | 543 | Aaron Garnett |
-| 36 | 541 | Drew Magnus |
-| 37 | 541 | Kristen Roles Robben |
+| 36 | 541 | Kristen Roles Robben |
+| 37 | 541 | Drew Magnus |
 | 38 | 539 | Karin Gillen |
 | 39 | 523 | comrade fish |
 | 40 | 521 | Hyp James NObettadanluvarat |
@@ -130,8 +130,8 @@
 | 122 | 203 | GATOR |
 | 123 | 203 | Giggly Builderline |
 | 124 | 198 | Happy Snapbuild |
-| 125 | 194 | Ash Galvan |
-| 126 | 194 | Tyler Werts |
+| 125 | 194 | Tyler Werts |
+| 126 | 194 | Ash Galvan |
 | 127 | 193 | Lachelle Dillon |
 | 128 | 192 | Spunky Piecebuilder |
 | 129 | 192 | Shaykmia |

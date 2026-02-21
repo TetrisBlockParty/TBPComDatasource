@@ -158,8 +158,8 @@
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
 | 152 | 153 | Empress Oasis |
-| 153 | 153 | Avy Absol |
-| 154 | 153 | Chair |
+| 153 | 153 | Chair |
+| 154 | 153 | Avy Absol |
 | 155 | 151 | Bethany Ison |
 | 156 | 149 | Shainne Brewer |
 | 157 | 149 | Roger Coulter |
@@ -192,8 +192,8 @@
 | 184 | 131 | TinyLegoRose |
 | 185 | 131 | Michelle Morris |
 | 186 | 130 | Chris Bernstein |
-| 187 | 130 | Carlos Ramirez |
-| 188 | 130 | Shukee Lo |
+| 187 | 130 | Shukee Lo |
+| 188 | 130 | Carlos Ramirez |
 | 189 | 129 | Dreamy Snapgrid |
 | 190 | 129 | Crystal Nicolette Moore |
 | 191 | 128 | Rio Rocha |
@@ -249,7 +249,7 @@
 | 241 | 106 | Zappy Snaplink |
 | 242 | 106 | Brandi Durig |
 | 243 | 105 | Kim Hunt |
-| 244 | 104 | Maureen Flanigan |
+| 244 | 104 | Cheery Risebuilder |
 | 245 | 104 | Chris Alexinas |
 | 246 | 104 | Maureen Flanigan |
 | 247 | 103 | Richard-April Kice |

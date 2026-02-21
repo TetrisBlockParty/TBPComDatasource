@@ -122,8 +122,8 @@
 | 114 | 1000 | Megan Ferguson Leone |
 | 115 | 995 | Samantha Roberts |
 | 116 | 986 | RAEPR05 |
-| 117 | 983 | Adam Erikson |
-| 118 | 983 | Anna Edwards |
+| 117 | 983 | Anna Edwards |
+| 118 | 983 | Adam Erikson |
 | 119 | 973 | Janel Turley-Garner |
 | 120 | 973 | Kim Dean |
 | 121 | 964 | Poppy Snapper |
@@ -570,8 +570,8 @@
 | 562 | 267 | Lauren Fitzgerald Thomas |
 | 563 | 266 | Jason Garnatz |
 | 564 | 265 | Venita Ray |
-| 565 | 265 | Steve Man |
-| 566 | 265 | Sandra Link-Gable |
+| 565 | 265 | Sandra Link-Gable |
+| 566 | 265 | Steve Man |
 | 567 | 264 | Brave Gridpiece |
 | 568 | 263 | Alyssia Tancredi |
 | 569 | 263 | Sara Pennington |
@@ -590,10 +590,10 @@
 | 582 | 256 | Tee Jaleesa |
 | 583 | 256 | Robin L. Vial |
 | 584 | 256 | Quirky Twistline |
-| 585 | 256 | Robin L. Vial |
+| 585 | 256 | Brenna Yearian |
 | 586 | 255 | Hillary Crawford |
-| 587 | 254 | Ben Barkley |
-| 588 | 254 | Elizabeth Diraffaele |
+| 587 | 254 | Elizabeth Diraffaele |
+| 588 | 254 | Ben Barkley |
 | 589 | 254 | Jennifer Monroe Kelly |
 | 590 | 253 | Tansaria Couch-Butler |
 | 591 | 252 | Sheniya Spurgeon |
@@ -678,8 +678,8 @@
 | 670 | 222 | Lazy Riseclear |
 | 671 | 221 | Michelle Lee |
 | 672 | 220 | Jennifer Coe |
-| 673 | 219 | Trista Carter |
-| 674 | 219 | Cathy Bitters |
+| 673 | 219 | Cathy Bitters |
+| 674 | 219 | Trista Carter |
 | 675 | 219 | Josh Webster |
 | 676 | 218 | Shylee Tilman |
 | 677 | 218 | Wacky Cascade |

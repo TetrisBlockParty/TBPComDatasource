@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Silly Twist |
-| 93 | 445 | Kristie McFarland |
+| 92 | 445 | Kristie McFarland |
+| 93 | 445 | Silly Twist |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -191,8 +191,8 @@
 | 183 | 214 | Amy Fuller Heaton |
 | 184 | 214 | Jenny Hrndz |
 | 185 | 212 | Krystal Gerstberger |
-| 186 | 211 | Khaleada McGill Banks |
-| 187 | 211 | Katrina Turner |
+| 186 | 211 | Katrina Turner |
+| 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
 | 189 | 207 | Chris Bell |
 | 190 | 207 | Jessica |
@@ -220,8 +220,8 @@
 | 212 | 185 | Aerian Preston |
 | 213 | 184 | Troy |
 | 214 | 183 | Trisha Balmer |
-| 215 | 182 | Raven Dudley |
-| 216 | 182 | Hyper Matchzone |
+| 215 | 182 | Hyper Matchzone |
+| 216 | 182 | Raven Dudley |
 | 217 | 181 | Nicholas Roddy |
 | 218 | 180 | Loopy Fallmatch |
 | 219 | 179 | Ashley Jones |
@@ -238,15 +238,15 @@
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | Emma |
-| 234 | 169 | BŘŰŤİÇŨŚ |
+| 233 | 169 | BŘŰŤİÇŨŚ |
+| 234 | 169 | Emma |
 | 235 | 168 | MsBee |
 | 236 | 166 | Betty Rosas |
 | 237 | 166 | Beth Ingham |
 | 238 | 165 | Irene Arreguin |
 | 239 | 165 | Kali Kelz Williams |
-| 240 | 163 | Stephanie Hill |
-| 241 | 163 | Christine Trester |
+| 240 | 163 | Christine Trester |
+| 241 | 163 | Stephanie Hill |
 | 242 | 162 | Stephanie Whitefield |
 | 243 | 161 | Kristian Thurman |
 | 244 | 160 | Tiffany Davie |
