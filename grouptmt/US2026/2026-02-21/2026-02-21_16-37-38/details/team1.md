@@ -108,8 +108,8 @@
 | 100 | 178 | Danielle Little-Daugherty |
 | 101 | 178 | Chad Atchley |
 | 102 | 173 | Frothy Pattern |
-| 103 | 171 | Greg Premoe |
-| 104 | 171 | David DeSantis |
+| 103 | 171 | David DeSantis |
+| 104 | 171 | Greg Premoe |
 | 105 | 169 | Abbey Crespo |
 | 106 | 166 | Rico Rico |
 | 107 | 166 | Tana |

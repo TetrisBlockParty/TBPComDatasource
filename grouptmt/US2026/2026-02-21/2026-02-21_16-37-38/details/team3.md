@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Shane Wilson Jr. |
-| 38 | 810 | Zippy Strikesnap |
+| 37 | 810 | Zippy Strikesnap |
+| 38 | 810 | Shane Wilson Jr. |
 | 39 | 803 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |

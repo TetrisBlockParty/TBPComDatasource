@@ -157,21 +157,21 @@
 | 149 | 609 | Robin Kerby |
 | 150 | 608 | John Bednarik |
 | 151 | 608 | Sommer Shope |
-| 152 | 604 | Amber Shoemaker |
-| 153 | 604 | Danielle Johnson-Chandler |
+| 152 | 604 | Danielle Johnson-Chandler |
+| 153 | 604 | Amber Shoemaker |
 | 154 | 603 | Cassie Maynard |
 | 155 | 602 | L3sli3 |
 | 156 | 596 | Thomas Hughes |
 | 157 | 592 | Ashle Scranton |
-| 158 | 591 | Rebecca Doughman |
-| 159 | 591 | Alisha |
+| 158 | 591 | Alisha |
+| 159 | 591 | Rebecca Doughman |
 | 160 | 589 | Erica Williams |
 | 161 | 583 | Jessicah Myers |
 | 162 | 580 | Steve Grotto |
 | 163 | 576 | Shannon Joslin |
 | 164 | 571 | Thomas Hedrick |
-| 165 | 569 | Vaniel Glover |
-| 166 | 569 | Gary Stash |
+| 165 | 569 | Gary Stash |
+| 166 | 569 | Vaniel Glover |
 | 167 | 563 | goofinoff |
 | 168 | 561 | Maria Escobar |
 | 169 | 550 | Jumpy Gridpiece |
@@ -263,8 +263,8 @@
 | 255 | 396 | Stefanie Zonzini-Gagliardi |
 | 256 | 393 | Taylor Flowers |
 | 257 | 393 | Altamirano Michael |
-| 258 | 391 | Chilly Bridgepiece |
-| 259 | 391 | Brenda Utphall |
+| 258 | 391 | Brenda Utphall |
+| 259 | 391 | Chilly Bridgepiece |
 | 260 | 391 | Qiana Sanders |
 | 261 | 390 | Kimberly Randesi |
 | 262 | 386 | Macy Williams |
@@ -285,16 +285,16 @@
 | 277 | 364 | Brandon Armstrong |
 | 278 | 363 | William Meussner |
 | 279 | 362 | AkaLefty |
-| 280 | 359 | Mighty Shatterfit |
-| 281 | 359 | Johnny Yeates |
+| 280 | 359 | Johnny Yeates |
+| 281 | 359 | Mighty Shatterfit |
 | 282 | 358 | Smashanator |
 | 283 | 358 | Alyssaaelena |
 | 284 | 357 | Shannon Byrd |
 | 285 | 357 | Julie Kresal |
 | 286 | 355 | Shandrica Lowe |
 | 287 | 355 | Kristen O'Neal |
-| 288 | 354 | Brave Dropmatch |
-| 289 | 354 | Tracy Wise |
+| 288 | 354 | Tracy Wise |
+| 289 | 354 | Brave Dropmatch |
 | 290 | 353 | Cheery Matchzone |
 | 291 | 352 | Juanita Lyons |
 | 292 | 352 | ruth |
@@ -328,8 +328,8 @@
 | 320 | 327 | Danielle Simmons |
 | 321 | 327 | Kiana Boschh |
 | 322 | 326 | Elisheva Mizrachi |
-| 323 | 326 | Denise Rickman |
-| 324 | 326 | Ginger |
+| 323 | 326 | Ginger |
+| 324 | 326 | Denise Rickman |
 | 325 | 324 | Offonar Facey |
 | 326 | 323 | Briana Alexander |
 | 327 | 323 | KhaosLord |
@@ -510,8 +510,8 @@
 | 502 | 216 | Courtney Burcham |
 | 503 | 215 | Ashlyn Berner |
 | 504 | 214 | Cass Shirley |
-| 505 | 214 | James Smith |
-| 506 | 214 | Blacc Blac |
+| 505 | 214 | Blacc Blac |
+| 506 | 214 | James Smith |
 | 507 | 213 | Kitybox |
 | 508 | 212 | Angela Yantz |
 | 509 | 212 | BK Queen |
@@ -620,8 +620,8 @@
 | 612 | 176 | Stacy Harper |
 | 613 | 176 | Jennifer Malloy - Cardy |
 | 614 | 176 | Dandy Drop |
-| 615 | 176 | William Hunt |
-| 616 | 176 | Andrew Bratton-Tomes |
+| 615 | 176 | Andrew Bratton-Tomes |
+| 616 | 176 | William Hunt |
 | 617 | 175 | Lucero Ramirez |
 | 618 | 175 | Snippy Rumbler |
 | 619 | 174 | Khalil Lowe |
@@ -1020,8 +1020,8 @@
 | 1012 | 111 | Crystal Cornelius |
 | 1013 | 111 | Ashley M. Davis |
 | 1014 | 111 | Michele Barry |
-| 1015 | 111 | Flashy Patternzone |
-| 1016 | 111 | April Bennett |
+| 1015 | 111 | April Bennett |
+| 1016 | 111 | Flashy Patternzone |
 | 1017 | 111 | LaDonna Wann |
 | 1018 | 110 | Michael David Hollis |
 | 1019 | 110 | Abhishek Mutha |
