@@ -124,8 +124,8 @@
 | 116 | 186 | Jennifer Olewnik Soborowski |
 | 117 | 185 | Ash Galvan |
 | 118 | 182 | Spunky Piecebuilder |
-| 119 | 180 | Erez Yosef |
-| 120 | 180 | BigWeenie69 |
+| 119 | 180 | BigWeenie69 |
+| 120 | 180 | Erez Yosef |
 | 121 | 179 | Danielle Little-Daugherty |
 | 122 | 178 | Chad Atchley |
 | 123 | 176 | Basment Living |

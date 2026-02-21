@@ -178,7 +178,7 @@
 | 170 | 195 | Nicha Hooker |
 | 171 | 195 | Michael Lucado |
 | 172 | 194 | glichmod |
-| 173 | 193 | Duane Bright |
+| 173 | 193 | Clever Shiftsnap |
 | 174 | 193 | Stephanie Burtin |
 | 175 | 193 | Karon Griffin |
 | 176 | 193 | Duane Bright |
@@ -216,8 +216,8 @@
 | 208 | 166 | Rebecca Funderburk Kirby |
 | 209 | 166 | Betty Rosas |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Christine Trester |
-| 212 | 163 | Stephanie Hill |
+| 211 | 163 | Stephanie Hill |
+| 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | Irene Arreguin |
 | 215 | 161 | BŘŰŤİÇŨŚ |
@@ -236,8 +236,8 @@
 | 228 | 152 | Katrina E Jelks |
 | 229 | 152 | Shiny Zonebuilder |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Alexis Taylor |
-| 232 | 149 | Peachy Rollfit |
+| 231 | 149 | Peachy Rollfit |
+| 232 | 149 | Alexis Taylor |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Gumbo |
 | 235 | 148 | Jennifer Alvey |

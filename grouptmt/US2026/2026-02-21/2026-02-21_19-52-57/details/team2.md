@@ -207,8 +207,8 @@
 | 199 | 549 | Charvi' Carter |
 | 200 | 541 | Giggy Blocker |
 | 201 | 541 | SaraMarie Eveland |
-| 202 | 535 | Paul Huber |
-| 203 | 535 | Jessie McDougald |
+| 202 | 535 | Jessie McDougald |
+| 203 | 535 | Paul Huber |
 | 204 | 534 | Teresa Gillmore |
 | 205 | 533 | Mema |
 | 206 | 531 | Chris Wanner |
@@ -313,8 +313,8 @@
 | 305 | 409 | Julay |
 | 306 | 409 | Sparkles |
 | 307 | 406 | Erin StFrancis |
-| 308 | 405 | Christy Krissie |
-| 309 | 405 | Sarah Massey |
+| 308 | 405 | Sarah Massey |
+| 309 | 405 | Christy Krissie |
 | 310 | 403 | Joshua Sommerville |
 | 311 | 402 | Davetta Sanford |
 | 312 | 402 | Brandy Andre |
@@ -335,8 +335,8 @@
 | 327 | 383 | Arkei Luster |
 | 328 | 382 | David Holliday |
 | 329 | 381 | Bubbly Snapfit |
-| 330 | 378 | TF Dyer |
-| 331 | 378 | Christina Ashley |
+| 330 | 378 | Christina Ashley |
+| 331 | 378 | TF Dyer |
 | 332 | 378 | Cody Nishimura |
 | 333 | 377 | Roy Salyer |
 | 334 | 376 | Caitlin Schmid |
