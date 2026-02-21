@@ -100,8 +100,8 @@
 | 92 | 194 | Calvin Cannon |
 | 93 | 192 | Crystal Carroll |
 | 94 | 192 | Shauna Havard |
-| 95 | 191 | Melvin Baird |
-| 96 | 191 | loulou |
+| 95 | 191 | loulou |
+| 96 | 191 | Melvin Baird |
 | 97 | 189 | Calvin Dennis |
 | 98 | 187 | Swanky Fitline |
 | 99 | 185 | Andy Cabral |

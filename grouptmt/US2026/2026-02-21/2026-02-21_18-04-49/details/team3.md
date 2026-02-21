@@ -170,8 +170,8 @@
 | 162 | 193 | Stephanie Burtin |
 | 163 | 193 | Clever Shiftsnap |
 | 164 | 191 | Giddy Twistbuilder |
-| 165 | 191 | Ashley Muncey |
-| 166 | 191 | Scott Carleton |
+| 165 | 191 | Scott Carleton |
+| 166 | 191 | Ashley Muncey |
 | 167 | 190 | Michael Lucado |
 | 168 | 189 | Fallorina Susana |
 | 169 | 189 | Staci George Fitzsimmons |
@@ -209,8 +209,8 @@
 | 201 | 160 | Tiffany Davie |
 | 202 | 159 | Jone |
 | 203 | 157 | Marquita Sheard |
-| 204 | 157 | Nicholas Roddy |
-| 205 | 157 | Patricia Gadsden |
+| 204 | 157 | Patricia Gadsden |
+| 205 | 157 | Nicholas Roddy |
 | 206 | 156 | Bea Miles |
 | 207 | 155 | Loopy Fallzone |
 | 208 | 153 | Cozy Snaplink |
@@ -246,8 +246,8 @@
 | 238 | 137 | Joy Petroski |
 | 239 | 136 | Troy |
 | 240 | 135 | Erykah |
-| 241 | 134 | Skinny Baldez |
-| 242 | 134 | Sarah Moyer |
+| 241 | 134 | Sarah Moyer |
+| 242 | 134 | Skinny Baldez |
 | 243 | 133 | Terry Jo Jones |
 | 244 | 133 | LaNette Morgan |
 | 245 | 132 | Daryn Elliott |
