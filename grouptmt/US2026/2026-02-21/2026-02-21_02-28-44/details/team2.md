@@ -322,8 +322,8 @@
 | 314 | 156 | Nuggets |
 | 315 | 156 | Ramone Armstrong |
 | 316 | 156 | Ashlyn Berner |
-| 317 | 155 | Alexandra Weir |
-| 318 | 155 | Angela Murgia-Owen |
+| 317 | 155 | Angela Murgia-Owen |
+| 318 | 155 | Alexandra Weir |
 | 319 | 154 | Tiffney Wroten |
 | 320 | 154 | Bryan Werleman |
 | 321 | 152 | Alisa Lamb |

@@ -48,8 +48,8 @@
 | 40 | 149 | Denise Carlson |
 | 41 | 147 | Courtney Cicoria |
 | 42 | 141 | Edward White |
-| 43 | 140 | Carter Jones |
-| 44 | 140 | Shannon Ferrari |
+| 43 | 140 | Shannon Ferrari |
+| 44 | 140 | Carter Jones |
 | 45 | 138 | BertMofo |
 | 46 | 133 | Jessica Bohlken |
 | 47 | 133 | Robin Watters |
@@ -93,8 +93,8 @@
 | 85 | 88 | Heather Tushner |
 | 86 | 88 | Brandi Durig |
 | 87 | 87 | Jen Caldwell |
-| 88 | 87 | Lauren Lamb |
-| 89 | 87 | Malakai Darien Fox |
+| 88 | 87 | Malakai Darien Fox |
+| 89 | 87 | Lauren Lamb |
 | 90 | 86 | amy |
 | 91 | 85 | Mimi |
 | 92 | 85 | Marcus TheeyoungWoe Gilmore |
@@ -118,12 +118,12 @@
 | 110 | 75 | Rosemary Foster |
 | 111 | 72 | Joshua Cuellar |
 | 112 | 71 | Christina Black |
-| 113 | 71 | Shukee Lo |
-| 114 | 71 | Joseph Pace |
-| 115 | 70 | Megan Cutshaw |
-| 116 | 70 | Valerie Roberts |
-| 117 | 69 | Carol Ricks Raymond |
-| 118 | 69 | Michelle Marie |
+| 113 | 71 | Joseph Pace |
+| 114 | 71 | Shukee Lo |
+| 115 | 70 | Valerie Roberts |
+| 116 | 70 | Megan Cutshaw |
+| 117 | 69 | Michelle Marie |
+| 118 | 69 | Carol Ricks Raymond |
 | 119 | 68 | LS |
 | 120 | 67 | Lindsey Gonzalez |
 | 121 | 67 | Cozy Framezone |

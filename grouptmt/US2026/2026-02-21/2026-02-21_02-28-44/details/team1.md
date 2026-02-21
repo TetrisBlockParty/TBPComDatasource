@@ -42,8 +42,8 @@
 | 34 | 195 | Lisa Marie |
 | 35 | 194 | Sharon Reynolds |
 | 36 | 192 | Mandyy Rae |
-| 37 | 190 | Sweetts |
-| 38 | 190 | Thorne Shumate |
+| 37 | 190 | Thorne Shumate |
+| 38 | 190 | Sweetts |
 | 39 | 189 | Happy Basegrid |
 | 40 | 187 | Dee Perry |
 | 41 | 185 | Karin Gillen |
@@ -113,7 +113,7 @@
 | 105 | 81 | Bob |
 | 106 | 80 | Larry Tilton |
 | 107 | 80 | pjbeta |
-| 108 | 80 | Larry Tilton |
+| 108 | 80 | Matt Cinelli |
 | 109 | 79 | Chris65 |
 | 110 | 78 | Carrie Beck Geartz |
 | 111 | 78 | Sam Williams |
@@ -122,8 +122,8 @@
 | 114 | 76 | Kerry Lee Powell |
 | 115 | 75 | Fresno Beotoni |
 | 116 | 75 | Tyler L Hunt |
-| 117 | 74 | Grace Joanne Agnant |
-| 118 | 74 | Eddie Dillon |
+| 117 | 74 | Eddie Dillon |
+| 118 | 74 | Grace Joanne Agnant |
 | 119 | 73 | Witty Builderfit |
 | 120 | 72 | Christina Graham |
 | 121 | 72 | Tipsy Strikerpiece |
