@@ -105,8 +105,8 @@
 | 97 | 112 | Connie Mohler-Fair |
 | 98 | 112 | Jimmie Clemons |
 | 99 | 111 | Joy Petroski |
-| 100 | 110 | Tiff Vs Tiffany |
-| 101 | 110 | Stella |
+| 100 | 110 | Stella |
+| 101 | 110 | Tiff Vs Tiffany |
 | 102 | 108 | Grams |
 | 103 | 107 | Bryan Byrd |
 | 104 | 105 | Hoppy Buildout |
@@ -128,8 +128,8 @@
 | 120 | 96 | D3NO |
 | 121 | 96 | Sherry Ogden |
 | 122 | 95 | Katie Knaus |
-| 123 | 95 | Demetrious Shaw Sr. |
-| 124 | 95 | Brooke Bauer |
+| 123 | 95 | Brooke Bauer |
+| 124 | 95 | Demetrious Shaw Sr. |
 | 125 | 93 | Tiffany Ford |
 | 126 | 92 | Skinny Baldez |
 | 127 | 90 | Tiffany Kaupang |
