@@ -117,8 +117,8 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Bethany Ison |
-| 113 | 151 | Dana Scott |
+| 112 | 151 | Dana Scott |
+| 113 | 151 | Bethany Ison |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |
@@ -173,8 +173,8 @@
 | 165 | 111 | Michelle Morris |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Rafael Valentin |
-| 169 | 107 | Marcus Todd |
+| 168 | 107 | Marcus Todd |
+| 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | Kristin MacDonald |
 | 172 | 105 | TheNeesh50 |

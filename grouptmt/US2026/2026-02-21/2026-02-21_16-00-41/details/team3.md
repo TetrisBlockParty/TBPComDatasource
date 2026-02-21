@@ -251,8 +251,8 @@
 | 243 | 118 | Fancy Curver |
 | 244 | 118 | Damian Reid |
 | 245 | 116 | BugMansMom |
-| 246 | 115 | Stella |
-| 247 | 115 | Daring Builder |
+| 246 | 115 | Daring Builder |
+| 247 | 115 | Stella |
 | 248 | 115 | Hoppy Buildout |
 | 249 | 114 | Amanda Neal |
 | 250 | 113 | Brave Brickster |
