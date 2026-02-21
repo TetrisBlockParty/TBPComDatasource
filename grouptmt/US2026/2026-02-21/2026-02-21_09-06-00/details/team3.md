@@ -76,8 +76,8 @@
 | 68 | 353 | Stephanie Woods |
 | 69 | 345 | Christine Niles |
 | 70 | 343 | Silly Twist |
-| 71 | 342 | Trezure Gonzalez |
-| 72 | 342 | Annie Déè |
+| 71 | 342 | Annie Déè |
+| 72 | 342 | Trezure Gonzalez |
 | 73 | 338 | Danielle Rhoades |
 | 74 | 332 | Chauntee Alfrey-Cardinale |
 | 75 | 331 | Mendoza Lee Christy |
@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Stephanie Whitefield |
-| 148 | 153 | Beth Ingham |
+| 147 | 153 | Beth Ingham |
+| 148 | 153 | Stephanie Whitefield |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -164,12 +164,12 @@
 | 156 | 146 | Denita Mungro |
 | 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
-| 159 | 140 | Jay Horn |
-| 160 | 140 | Gumbo |
+| 159 | 140 | Gumbo |
+| 160 | 140 | Jay Horn |
 | 161 | 135 | Cheryl Hinch Tenbrook |
 | 162 | 135 | Nicole Flippo |
-| 163 | 134 | Emma |
-| 164 | 134 | DanceLuvLaugh |
+| 163 | 134 | DanceLuvLaugh |
+| 164 | 134 | Emma |
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
 | 167 | 127 | Connie Mohler-Fair |
@@ -393,9 +393,9 @@
 | 385 | 61 | Kristin Delibac Corrigan |
 | 386 | 60 | Pam Hilt |
 | 387 | 60 | Vaners |
-| 388 | 60 | Kat Hess |
-| 389 | 60 | Bigz |
-| 390 | 60 | Pizzi |
+| 388 | 60 | Karen Picaboo |
+| 389 | 60 | Pizzi |
+| 390 | 60 | Kat Hess |
 | 391 | 60 | Randy Clevenger |
 | 392 | 60 | Bigz |
 | 393 | 59 | Michelle Ramirez |

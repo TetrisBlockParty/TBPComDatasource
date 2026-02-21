@@ -192,8 +192,8 @@
 | 184 | 388 | coleksquad |
 | 185 | 386 | Macy Williams |
 | 186 | 386 | Ashie Ann |
-| 187 | 385 | Sam |
-| 188 | 385 | Arwa Fatimah |
+| 187 | 385 | Arwa Fatimah |
+| 188 | 385 | Sam |
 | 189 | 381 | Amanda Ferrell |
 | 190 | 380 | Joshua Mandel |
 | 191 | 380 | Calandra Shaya Robinson |
@@ -204,8 +204,8 @@
 | 196 | 363 | William Meussner |
 | 197 | 359 | Brainy Smurf |
 | 198 | 357 | Shannon Byrd |
-| 199 | 356 | Deyawn Smith |
-| 200 | 356 | Alyssaaelena |
+| 199 | 356 | Alyssaaelena |
+| 200 | 356 | Deyawn Smith |
 | 201 | 354 | Tracy Wise |
 | 202 | 353 | Joseph Musick |
 | 203 | 352 | ruth |
@@ -279,8 +279,8 @@
 | 271 | 275 | Cheeky Brickmatch |
 | 272 | 275 | Ann Matzkanin |
 | 273 | 275 | Shiny Rollzone |
-| 274 | 274 | Jamie Stevey |
-| 275 | 274 | Melissa Holsinger |
+| 274 | 274 | Melissa Holsinger |
+| 275 | 274 | Jamie Stevey |
 | 276 | 274 | Lonne Emade |
 | 277 | 273 | Ray Ray Prado |
 | 278 | 273 | Jenna Nance |
@@ -317,8 +317,8 @@
 | 309 | 252 | Matt Johnson |
 | 310 | 252 | Cheech Dta |
 | 311 | 251 | Ann Knutson Anderson |
-| 312 | 250 | Johnny Yeates |
-| 313 | 250 | Barbra Miller |
+| 312 | 250 | Barbra Miller |
+| 313 | 250 | Johnny Yeates |
 | 314 | 250 | Peachy Blockbuilder |
 | 315 | 249 | Porsche' Nicole |
 | 316 | 249 | Nicky Jackson |
@@ -329,8 +329,8 @@
 | 321 | 247 | Andrea Devery Beck |
 | 322 | 247 | Fancy Twister |
 | 323 | 246 | Kathryn Townsley |
-| 324 | 246 | Ashley Lopez |
-| 325 | 246 | Stephanie Lumanlan |
+| 324 | 246 | Stephanie Lumanlan |
+| 325 | 246 | Ashley Lopez |
 | 326 | 245 | Rachael Senard |
 | 327 | 245 | Mischelle Clay |
 | 328 | 245 | Taryece Gause |
@@ -340,14 +340,14 @@
 | 332 | 242 | Donna Chandler |
 | 333 | 242 | Lawanda Forbes |
 | 334 | 241 | Sabrina Burton |
-| 335 | 240 | Angie Marie |
-| 336 | 240 | Adam Erikson |
+| 335 | 240 | Adam Erikson |
+| 336 | 240 | Angie Marie |
 | 337 | 239 | Roger Grabbit |
 | 338 | 238 | Cheery Matchzone |
 | 339 | 236 | snkylnk |
 | 340 | 236 | Frisky Riserbuilder |
-| 341 | 236 | Julio A Laracuente |
-| 342 | 236 | Niceday |
+| 341 | 236 | Niceday |
+| 342 | 236 | Julio A Laracuente |
 | 343 | 235 | Kimberly Mitchell |
 | 344 | 234 | Manny Trindade |
 | 345 | 234 | Jennifer Leigh |
@@ -399,8 +399,8 @@
 | 391 | 200 | LaWanda Powell |
 | 392 | 200 | Sarah Ridenour |
 | 393 | 199 | Fi Ne |
-| 394 | 199 | Jessica Sutter |
-| 395 | 199 | Jenny Castro |
+| 394 | 199 | Jenny Castro |
+| 395 | 199 | Jessica Sutter |
 | 396 | 198 | Angie Bolton Workman |
 | 397 | 198 | Alyssa Dean |
 | 398 | 196 | Besma Ao |
@@ -517,8 +517,8 @@
 | 509 | 155 | Cris cris |
 | 510 | 154 | Lori Maring |
 | 511 | 154 | Bryan Werleman |
-| 512 | 154 | Tiffney Wroten |
-| 513 | 154 | Cini |
+| 512 | 154 | Cini |
+| 513 | 154 | Tiffney Wroten |
 | 514 | 153 | Poppy Gridder |
 | 515 | 153 | Amanda Schaffer |
 | 516 | 153 | Luna |
@@ -1247,7 +1247,7 @@
 | 1239 | 70 | Matthew Joseph Acevedo |
 | 1240 | 69 | Jack Rippe |
 | 1241 | 69 | Brandy Fannon |
-| 1242 | 69 | Debbie Gerlib-Molinari Leigh |
+| 1242 | 69 | Rose Rossi |
 | 1243 | 69 | Peachy Edgefit |
 | 1244 | 69 | Jeremiah Stroud |
 | 1245 | 69 | Debbie Gerlib-Molinari Leigh |

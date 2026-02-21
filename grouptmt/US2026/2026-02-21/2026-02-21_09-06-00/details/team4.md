@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -106,10 +106,10 @@
 | 98 | 131 | Mr. Party |
 | 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
-| 101 | 130 | Casey Jeffcoat |
-| 102 | 130 | Lucas J Sutton |
-| 103 | 129 | Landon Keith Graffeo |
-| 104 | 129 | John Brunetti |
+| 101 | 130 | Lucas J Sutton |
+| 102 | 130 | Casey Jeffcoat |
+| 103 | 129 | John Brunetti |
+| 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
 | 107 | 123 | Nugget |
@@ -170,8 +170,8 @@
 | 162 | 88 | Heather Tushner |
 | 163 | 87 | Jen Caldwell |
 | 164 | 87 | KM8 |
-| 165 | 87 | Bradley Reeves |
-| 166 | 87 | Lauren Lamb |
+| 165 | 87 | Lauren Lamb |
+| 166 | 87 | Bradley Reeves |
 | 167 | 86 | Destiney Carter |
 | 168 | 86 | amy |
 | 169 | 85 | Mimi |
@@ -185,8 +185,8 @@
 | 177 | 83 | Joseph Gray |
 | 178 | 83 | Holly |
 | 179 | 83 | Avy Absol |
-| 180 | 82 | Jason Frehner |
-| 181 | 82 | Kim Hunt |
+| 180 | 82 | Kim Hunt |
+| 181 | 82 | Jason Frehner |
 | 182 | 81 | Chair |
 | 183 | 81 | Nubian1 |
 | 184 | 81 | Blessedmama |
