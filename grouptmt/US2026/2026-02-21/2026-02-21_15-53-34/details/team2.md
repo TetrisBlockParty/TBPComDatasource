@@ -104,8 +104,8 @@
 | 96 | 815 | blarg |
 | 97 | 801 | Tralonda Weeks |
 | 98 | 800 | Tacara Cummings |
-| 99 | 789 | James Simms III |
-| 100 | 789 | Stephanie Chapman |
+| 99 | 789 | Stephanie Chapman |
+| 100 | 789 | James Simms III |
 | 101 | 787 | Laura McCarthey |
 | 102 | 780 | Amanda Grohmann |
 | 103 | 772 | Megan Ferguson Leone |
@@ -211,8 +211,8 @@
 | 203 | 469 | Ashley Rose Frederick |
 | 204 | 467 | Scott Treadway |
 | 205 | 465 | Drwatson187 |
-| 206 | 464 | Ryan Gunther |
-| 207 | 464 | Ariel |
+| 206 | 464 | Ariel |
+| 207 | 464 | Ryan Gunther |
 | 208 | 463 | Sue Leard |
 | 209 | 463 | Osun Anuket Esu |
 | 210 | 460 | Cody Smith-Candelaria |
@@ -317,8 +317,8 @@
 | 309 | 327 | Kiana Boschh |
 | 310 | 326 | Elisheva Mizrachi |
 | 311 | 323 | Davetta Sanford |
-| 312 | 323 | KhaosLord |
-| 313 | 323 | Briana Alexander |
+| 312 | 323 | Briana Alexander |
+| 313 | 323 | KhaosLord |
 | 314 | 323 | Trista Dumais |
 | 315 | 318 | Alexandra Weir |
 | 316 | 318 | CC |
@@ -417,8 +417,8 @@
 | 409 | 256 | Alishac Marie |
 | 410 | 256 | Tee Jaleesa |
 | 411 | 254 | Julie Hamilton |
-| 412 | 254 | Rose Fx |
-| 413 | 254 | Elizabeth Diraffaele |
+| 412 | 254 | Elizabeth Diraffaele |
+| 413 | 254 | Rose Fx |
 | 414 | 253 | Kimmy Newman |
 | 415 | 253 | Tansaria Couch-Butler |
 | 416 | 252 | Matt Johnson |
@@ -458,8 +458,8 @@
 | 450 | 233 | Daring Matchfit |
 | 451 | 233 | Jumpy Gridclear |
 | 452 | 232 | Aleasha M Brown |
-| 453 | 232 | Quirky Twistline |
-| 454 | 232 | Amber Brion |
+| 453 | 232 | Amber Brion |
+| 454 | 232 | Quirky Twistline |
 | 455 | 231 | Hong Tang |
 | 456 | 231 | Brave Gridpiece |
 | 457 | 231 | Dylan Thomason |

@@ -104,8 +104,8 @@
 | 96 | 323 | Ashley Raines |
 | 97 | 320 | Or Reznitsky |
 | 98 | 316 | Fancy Cascader |
-| 99 | 309 | CeceGeGe |
-| 100 | 309 | Rich LeBlanc |
+| 99 | 309 | Rich LeBlanc |
+| 100 | 309 | CeceGeGe |
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |
@@ -154,8 +154,8 @@
 | 146 | 195 | Nicha Hooker |
 | 147 | 194 | glichmod |
 | 148 | 193 | Stephanie Burtin |
-| 149 | 193 | Clever Shiftsnap |
-| 150 | 193 | Duane Bright |
+| 149 | 193 | Duane Bright |
+| 150 | 193 | Clever Shiftsnap |
 | 151 | 191 | Giddy Twistbuilder |
 | 152 | 191 | Scott Carleton |
 | 153 | 189 | Staci George Fitzsimmons |
@@ -191,8 +191,8 @@
 | 183 | 160 | Tiffany Davie |
 | 184 | 159 | Jone |
 | 185 | 158 | Grams |
-| 186 | 157 | Patricia Gadsden |
-| 187 | 157 | Nicholas Roddy |
+| 186 | 157 | Nicholas Roddy |
+| 187 | 157 | Patricia Gadsden |
 | 188 | 156 | Bea Miles |
 | 189 | 153 | Beth Ingham |
 | 190 | 152 | Shiny Zonebuilder |
@@ -251,7 +251,7 @@
 | 243 | 118 | Fancy Curver |
 | 244 | 118 | Damian Reid |
 | 245 | 116 | BugMansMom |
-| 246 | 115 | Hoppy Buildout |
+| 246 | 115 | Daring Builder |
 | 247 | 115 | Stella |
 | 248 | 115 | Hoppy Buildout |
 | 249 | 113 | Brian Battjes |
@@ -270,8 +270,8 @@
 | 262 | 108 | LaTanya GeminiondaRise Johnson |
 | 263 | 108 | Rachel Napper |
 | 264 | 107 | Bouncy Blockbuilder |
-| 265 | 107 | Jumpy Wrecker |
-| 266 | 107 | Rachel |
+| 265 | 107 | Rachel |
+| 266 | 107 | Jumpy Wrecker |
 | 267 | 106 | Noettín Kan Zasnemoore |
 | 268 | 106 | Cheeky Snapper |
 | 269 | 105 | Emi |

@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -60,8 +60,8 @@
 | 52 | 326 | Carlton Unfiltered |
 | 53 | 308 | Jen Allison |
 | 54 | 306 | Lisa Davis |
-| 55 | 300 | Jason Hart |
-| 56 | 300 | David Lay |
+| 55 | 300 | David Lay |
+| 56 | 300 | Jason Hart |
 | 57 | 299 | Livvy |
 | 58 | 295 | Latisha Davis |
 | 59 | 291 | Leslie Thomas |
@@ -76,8 +76,8 @@
 | 68 | 256 | Brittney Griggs |
 | 69 | 252 | Bubbly Puzzler |
 | 70 | 244 | Isabella Blanco |
-| 71 | 237 | Jamie Mann-Deichmann |
-| 72 | 237 | Lori Walker |
+| 71 | 237 | Lori Walker |
+| 72 | 237 | Jamie Mann-Deichmann |
 | 73 | 230 | Autum Leigh |
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
@@ -166,15 +166,15 @@
 | 158 | 115 | Ultramarine |
 | 159 | 115 | AyeKay |
 | 160 | 113 | Adam Randall |
-| 161 | 112 | Bryan Hodgins |
-| 162 | 112 | Jackie Marie |
-| 163 | 112 | Austin Owens |
+| 161 | 112 | Jackie Marie |
+| 162 | 112 | Austin Owens |
+| 163 | 112 | Bryan Hodgins |
 | 164 | 111 | Lazy Blocker |
 | 165 | 111 | Michelle Morris |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Rafael Valentin |
-| 169 | 107 | Marcus Todd |
+| 168 | 107 | Marcus Todd |
+| 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | 🥔🥔 Spudz |
 | 172 | 105 | Sam Middleton |
