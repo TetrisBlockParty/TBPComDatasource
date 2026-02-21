@@ -114,8 +114,8 @@
 | 106 | 1011 | Brave Dropmatch |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
-| 109 | 983 | Adam Erikson |
-| 110 | 983 | Anna Edwards |
+| 109 | 983 | Anna Edwards |
+| 110 | 983 | Adam Erikson |
 | 111 | 973 | Janel Turley-Garner |
 | 112 | 973 | Kim Dean |
 | 113 | 964 | Poppy Snapper |
@@ -208,8 +208,8 @@
 | 200 | 608 | Sommer Shope |
 | 201 | 604 | Danielle Johnson-Chandler |
 | 202 | 603 | Cassie Maynard |
-| 203 | 596 | Ellie Jonas |
-| 204 | 596 | Jelly |
+| 203 | 596 | Jelly |
+| 204 | 596 | Ellie Jonas |
 | 205 | 592 | Ashle Scranton |
 | 206 | 590 | Desiree Harris Rosch |
 | 207 | 589 | Thomas Hedrick |
@@ -366,8 +366,8 @@
 | 358 | 382 | David Holliday |
 | 359 | 381 | Melissa Rebbe-Lehman |
 | 360 | 381 | Bubbly Snapfit |
-| 361 | 378 | Christina Ashley |
-| 362 | 378 | TF Dyer |
+| 361 | 378 | TF Dyer |
+| 362 | 378 | Christina Ashley |
 | 363 | 378 | Cody Nishimura |
 | 364 | 376 | Caitlin Schmid |
 | 365 | 374 | Lee Harper |
@@ -539,8 +539,8 @@
 | 531 | 270 | Kathryn Townsley |
 | 532 | 270 | Tim Dyer |
 | 533 | 270 | Santana Miyagi |
-| 534 | 269 | Reece Smith |
-| 535 | 269 | Gauri Shrotriya |
+| 534 | 269 | Gauri Shrotriya |
+| 535 | 269 | Reece Smith |
 | 536 | 269 | Susan Arnburg |
 | 537 | 268 | Min |
 | 538 | 266 | Jason Garnatz |
@@ -557,8 +557,8 @@
 | 549 | 260 | Kelsey Sullivan |
 | 550 | 257 | Jackie Jackie Lee |
 | 551 | 257 | Julie Hamilton |
-| 552 | 256 | Quirky Twistline |
-| 553 | 256 | Brenna Yearian |
+| 552 | 256 | Brenna Yearian |
+| 553 | 256 | Quirky Twistline |
 | 554 | 256 | Tee Jaleesa |
 | 555 | 256 | Eric Carlson |
 | 556 | 256 | Amy Humphreys |

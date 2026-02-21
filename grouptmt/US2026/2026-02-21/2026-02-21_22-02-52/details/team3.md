@@ -59,8 +59,8 @@
 | 51 | 702 | Stephanie Allmon |
 | 52 | 621 | Cherry Parker |
 | 53 | 618 | MissTaylor |
-| 54 | 614 | Gracie |
-| 55 | 614 | Jamie Furr |
+| 54 | 614 | Jamie Furr |
+| 55 | 614 | Gracie |
 | 56 | 613 | Amber Hughes |
 | 57 | 604 | Danielle Becker |
 | 58 | 597 | Elaine Webb Graves |
@@ -168,8 +168,8 @@
 | 160 | 234 | Ashley Tookes |
 | 161 | 233 | Ray Lader |
 | 162 | 231 | Nikki Pags |
-| 163 | 228 | Rochelle Hazelett |
-| 164 | 228 | Morgan Martinez |
+| 163 | 228 | Morgan Martinez |
+| 164 | 228 | Rochelle Hazelett |
 | 165 | 226 | Grego Daniel |
 | 166 | 224 | Nicole Myers |
 | 167 | 223 | Jeana Gilbert |
@@ -179,8 +179,8 @@
 | 171 | 219 | Shunta Jacobs |
 | 172 | 218 | LaNette Morgan |
 | 173 | 217 | Jess Bissett |
-| 174 | 214 | Amy Fuller Heaton |
-| 175 | 214 | Jenny Hrndz |
+| 174 | 214 | Jenny Hrndz |
+| 175 | 214 | Amy Fuller Heaton |
 | 176 | 212 | Krystal Gerstberger |
 | 177 | 211 | Khaleada McGill Banks |
 | 178 | 211 | Katrina Turner |
@@ -249,8 +249,8 @@
 | 241 | 155 | Loopy Fallzone |
 | 242 | 154 | RickyG |
 | 243 | 153 | Rachel Napper |
-| 244 | 153 | Desiree Gold |
-| 245 | 153 | Cozy Snaplink |
+| 244 | 153 | Cozy Snaplink |
+| 245 | 153 | Desiree Gold |
 | 246 | 152 | Lesley Perez |
 | 247 | 152 | Shiny Zonebuilder |
 | 248 | 150 | Valerie Gendron |
