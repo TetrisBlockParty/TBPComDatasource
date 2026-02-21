@@ -93,9 +93,9 @@
 | 85 | 99 | Ty Brown |
 | 86 | 98 | Billie Dawn Sparks |
 | 87 | 98 | Flashy Rotator |
-| 88 | 98 | Billie Dawn Sparks |
-| 89 | 96 | Nery Martinez |
-| 90 | 96 | Melissa Lemmon |
+| 88 | 98 | Gary Gobin |
+| 89 | 96 | Melissa Lemmon |
+| 90 | 96 | Nery Martinez |
 | 91 | 94 | Bindi |
 | 92 | 93 | Adryane Schnase |
 | 93 | 93 | Loony Fitzone |
@@ -112,12 +112,12 @@
 | 104 | 83 | Cody Gates |
 | 105 | 81 | Jennifer ManWarren |
 | 106 | 81 | Bob |
-| 107 | 80 | pjbeta |
-| 108 | 80 | Larry Tilton |
+| 107 | 80 | Larry Tilton |
+| 108 | 80 | pjbeta |
 | 109 | 80 | Matt Cinelli |
 | 110 | 79 | Chris65 |
-| 111 | 78 | Carrie Beck Geartz |
-| 112 | 78 | Sam Williams |
+| 111 | 78 | Sam Williams |
+| 112 | 78 | Carrie Beck Geartz |
 | 113 | 77 | Teddy Alexander |
 | 114 | 76 | Kerry Lee Powell |
 | 115 | 76 | Archie Ware |
@@ -230,8 +230,8 @@
 | 222 | 42 | Kristen Gideon |
 | 223 | 42 | Mister Reid |
 | 224 | 41 | Cynthia Bradley |
-| 225 | 41 | canbrick |
-| 226 | 41 | Tiffany Daboss Seymour |
+| 225 | 41 | Tiffany Daboss Seymour |
+| 226 | 41 | canbrick |
 | 227 | 41 | lisa |
 | 228 | 40 | Mama Zelda |
 | 229 | 40 | Michael Butler |

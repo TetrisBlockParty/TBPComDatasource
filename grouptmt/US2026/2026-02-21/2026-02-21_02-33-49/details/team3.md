@@ -107,9 +107,9 @@
 | 99 | 129 | Giddy Twistbuilder |
 | 100 | 128 | Angel Mendez |
 | 101 | 126 | Brandon Green |
-| 102 | 125 | Stephanie Simpson |
+| 102 | 125 | Felicia Doxey |
 | 103 | 125 | BŘŰŤİÇŨŚ |
-| 104 | 125 | Felicia Doxey |
+| 104 | 125 | Stephanie Simpson |
 | 105 | 124 | Marquita Sheard |
 | 106 | 123 | Kristie McFarland |
 | 107 | 122 | Shimika Enay Wallace |
@@ -145,8 +145,8 @@
 | 137 | 99 | Cherry Parker |
 | 138 | 99 | Nichol Graham |
 | 139 | 98 | Ryan Williams |
-| 140 | 98 | Armi |
-| 141 | 98 | Jocelyne Baca |
+| 140 | 98 | Jocelyne Baca |
+| 141 | 98 | Armi |
 | 142 | 96 | Sherry Ogden |
 | 143 | 96 | Skinny Baldez |
 | 144 | 96 | D3NO |
@@ -170,8 +170,8 @@
 | 162 | 85 | Kevin Russell |
 | 163 | 85 | Chris Bell |
 | 164 | 84 | Ava Petito |
-| 165 | 84 | Flashy Rumbler |
-| 166 | 84 | Amanda L Baker |
+| 165 | 84 | Amanda L Baker |
+| 166 | 84 | Flashy Rumbler |
 | 167 | 83 | LaTanya GeminiondaRise Johnson |
 | 168 | 83 | Tasha Wesson-Torrence |
 | 169 | 82 | Crystel b520 |

@@ -115,8 +115,8 @@
 | 107 | 76 | Bethany Ison |
 | 108 | 76 | Jessica Miller |
 | 109 | 76 | Dustee Craddock-Harrison |
-| 110 | 75 | Rosemary Foster |
-| 111 | 75 | 🥔🥔 Spudz |
+| 110 | 75 | 🥔🥔 Spudz |
+| 111 | 75 | Rosemary Foster |
 | 112 | 72 | Joshua Cuellar |
 | 113 | 71 | Joseph Pace |
 | 114 | 71 | Shukee Lo |

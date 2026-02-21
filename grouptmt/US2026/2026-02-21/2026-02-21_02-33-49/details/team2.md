@@ -303,8 +303,8 @@
 | 295 | 163 | Albert McKnight |
 | 296 | 163 | Taren Cowan |
 | 297 | 163 | Austin Wilson |
-| 298 | 162 | Elizabeth Pearson |
-| 299 | 162 | Cappin You |
+| 298 | 162 | Cappin You |
+| 299 | 162 | Elizabeth Pearson |
 | 300 | 161 | Dizzy Zone |
 | 301 | 160 | Rhonda Petro |
 | 302 | 160 | Cynthia Ward |
