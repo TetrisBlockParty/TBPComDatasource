@@ -115,8 +115,8 @@
 | 107 | 350 | Shannon Matthew Byers |
 | 108 | 348 | CeceGeGe |
 | 109 | 332 | Chauntee Alfrey-Cardinale |
-| 110 | 323 | Sherry Ogden |
-| 111 | 323 | Ashley Raines |
+| 110 | 323 | Ashley Raines |
+| 111 | 323 | Sherry Ogden |
 | 112 | 321 | Dapper Snap |
 | 113 | 320 | Or Reznitsky |
 | 114 | 318 | Chasity |
@@ -159,8 +159,8 @@
 | 151 | 222 | Hoppy Buildout |
 | 152 | 222 | Jimmie Clemons |
 | 153 | 219 | Shunta Jacobs |
-| 154 | 218 | LaNette Morgan |
-| 155 | 218 | Rochelle Hazelett |
+| 154 | 218 | Rochelle Hazelett |
+| 155 | 218 | LaNette Morgan |
 | 156 | 217 | Jess Bissett |
 | 157 | 216 | Nikki Pags |
 | 158 | 216 | Aaron Pitkin |
@@ -175,8 +175,8 @@
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
 | 169 | 197 | Staci George Fitzsimmons |
-| 170 | 195 | Michael Lucado |
-| 171 | 195 | Nicha Hooker |
+| 170 | 195 | Nicha Hooker |
+| 171 | 195 | Michael Lucado |
 | 172 | 194 | glichmod |
 | 173 | 193 | Duane Bright |
 | 174 | 193 | Clever Shiftsnap |
@@ -201,14 +201,14 @@
 | 193 | 175 | Tasha Wesson-Torrence |
 | 194 | 175 | Connie Mohler-Fair |
 | 195 | 175 | DanceLuvLaugh |
-| 196 | 174 | rosy |
-| 197 | 174 | Loopy Fallmatch |
+| 196 | 174 | Loopy Fallmatch |
+| 197 | 174 | rosy |
 | 198 | 173 | Sarajane Lokan |
 | 199 | 171 | Marquita Sheard |
 | 200 | 169 | Santeria Trece Candles |
 | 201 | 169 | Emma |
-| 202 | 168 | MsBee |
-| 203 | 168 | JerseyJess |
+| 202 | 168 | JerseyJess |
+| 203 | 168 | MsBee |
 | 204 | 167 | Raven Dudley |
 | 205 | 167 | Grams |
 | 206 | 166 | Betty Rosas |
@@ -256,12 +256,12 @@
 | 248 | 142 | Erica Anderson |
 | 249 | 142 | Danielle Allison |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
-| 255 | 135 | Erykah |
-| 256 | 135 | Terry Jo Jones |
+| 255 | 135 | Terry Jo Jones |
+| 256 | 135 | Erykah |
 | 257 | 134 | Cesar Barraza |
 | 258 | 134 | Skinny Baldez |
 | 259 | 132 | Tammy |
