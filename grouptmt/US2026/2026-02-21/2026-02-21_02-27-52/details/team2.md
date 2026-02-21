@@ -341,8 +341,8 @@
 | 333 | 145 | William Hughes |
 | 334 | 144 | Tee Davis |
 | 335 | 144 | Alexis Richardson |
-| 336 | 143 | Angelica |
-| 337 | 143 | Kyle LeRoy Harris |
+| 336 | 143 | Kyle LeRoy Harris |
+| 337 | 143 | Angelica |
 | 338 | 142 | Frisky Clearpiece |
 | 339 | 142 | Angela Lynn |
 | 340 | 141 | Erika Meaux |
