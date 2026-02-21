@@ -104,8 +104,8 @@
 | 96 | 230 | Autum Leigh |
 | 97 | 222 | Joeliecea Cobb |
 | 98 | 221 | Alyssa Papen |
-| 99 | 218 | Denise Carlson |
-| 100 | 218 | Casey Grabner |
+| 99 | 218 | Casey Grabner |
+| 100 | 218 | Denise Carlson |
 | 101 | 218 | Antony Dwayne Beasley |
 | 102 | 215 | Dustee Craddock-Harrison |
 | 103 | 213 | Chaz Duncan |
@@ -142,8 +142,8 @@
 | 134 | 176 | Stacey Stano |
 | 135 | 175 | Ren Mc |
 | 136 | 174 | shark tato |
-| 137 | 174 | Dihcheese444 |
-| 138 | 174 | Zethra Prenisha Rahming |
+| 137 | 174 | Zethra Prenisha Rahming |
+| 138 | 174 | Dihcheese444 |
 | 139 | 173 | blockstar |
 | 140 | 171 | Diana Houts |
 | 141 | 166 | Jessica Bohlken |

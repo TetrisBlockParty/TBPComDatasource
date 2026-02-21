@@ -133,8 +133,8 @@
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Blocked |
-| 129 | 307 | Peggi Charon |
+| 128 | 307 | Peggi Charon |
+| 129 | 307 | Blocked |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
@@ -181,8 +181,8 @@
 | 173 | 219 | Shunta Jacobs |
 | 174 | 218 | LaNette Morgan |
 | 175 | 217 | Jess Bissett |
-| 176 | 214 | Jenny Hrndz |
-| 177 | 214 | Amy Fuller Heaton |
+| 176 | 214 | Amy Fuller Heaton |
+| 177 | 214 | Jenny Hrndz |
 | 178 | 212 | Krystal Gerstberger |
 | 179 | 211 | Khaleada McGill Banks |
 | 180 | 211 | Katrina Turner |
@@ -193,8 +193,8 @@
 | 185 | 204 | Danielle Allison |
 | 186 | 203 | Twisty Brick LT |
 | 187 | 201 | Karon Griffin |
-| 188 | 200 | glichmod |
-| 189 | 200 | Sharisse Baltimore |
+| 188 | 200 | Sharisse Baltimore |
+| 189 | 200 | glichmod |
 | 190 | 197 | Staci George Fitzsimmons |
 | 191 | 195 | Michael Lucado |
 | 192 | 195 | Nicha Hooker |

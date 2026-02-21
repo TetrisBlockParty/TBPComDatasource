@@ -44,8 +44,8 @@
 | 36 | 539 | Karin Gillen |
 | 37 | 521 | Hyp James NObettadanluvarat |
 | 38 | 518 | comrade fish |
-| 39 | 517 | Jen Sartain |
-| 40 | 517 | Kristen Roles Robben |
+| 39 | 517 | Kristen Roles Robben |
+| 40 | 517 | Jen Sartain |
 | 41 | 517 | Felicia Lewis |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
@@ -178,14 +178,14 @@
 | 170 | 147 | ALFD |
 | 171 | 145 | Agustin Duarte Orozco |
 | 172 | 145 | Angela Fairbank |
-| 173 | 144 | Gary Gobin |
+| 173 | 144 | femmefatale |
 | 174 | 144 | Cranky Pattern |
-| 175 | 144 | femmefatale |
+| 175 | 144 | Gary Gobin |
 | 176 | 142 | Colleen Wise |
 | 177 | 141 | Blaire Bruckoff |
 | 178 | 140 | Miguel Teixeira |
-| 179 | 139 | Jenny Gingrich Fuentes |
-| 180 | 139 | Flashy Rotator |
+| 179 | 139 | Flashy Rotator |
+| 180 | 139 | Jenny Gingrich Fuentes |
 | 181 | 138 | Death |
 | 182 | 137 | Cody Gates |
 | 183 | 136 | Breanna Luna |
