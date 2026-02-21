@@ -193,9 +193,9 @@
 | 185 | 214 | Jenny Hrndz |
 | 186 | 214 | Amy Fuller Heaton |
 | 187 | 212 | Krystal Gerstberger |
-| 188 | 211 | Giddy Twistbuilder |
-| 189 | 211 | Katrina Turner |
-| 190 | 211 | Khaleada McGill Banks |
+| 188 | 211 | Khaleada McGill Banks |
+| 189 | 211 | Giddy Twistbuilder |
+| 190 | 211 | Katrina Turner |
 | 191 | 210 | Michael Lucado |
 | 192 | 209 | Twisty Brick LT |
 | 193 | 207 | Chris Bell |
@@ -206,8 +206,8 @@
 | 198 | 201 | Karon Griffin |
 | 199 | 200 | Sharisse Baltimore |
 | 200 | 200 | glichmod |
-| 201 | 197 | Staci George Fitzsimmons |
-| 202 | 197 | Connie Mohler-Fair |
+| 201 | 197 | Connie Mohler-Fair |
+| 202 | 197 | Staci George Fitzsimmons |
 | 203 | 195 | Nicha Hooker |
 | 204 | 193 | Angie Harper |
 | 205 | 193 | Stephanie Burtin |

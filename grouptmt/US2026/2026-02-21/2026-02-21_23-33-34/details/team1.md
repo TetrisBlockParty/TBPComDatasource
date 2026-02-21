@@ -129,8 +129,8 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | Giggly Builderline |
-| 125 | 203 | GATOR |
+| 124 | 203 | GATOR |
+| 125 | 203 | Giggly Builderline |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
@@ -148,9 +148,9 @@
 | 140 | 186 | Margo Wagner |
 | 141 | 186 | Jennifer Olewnik Soborowski |
 | 142 | 185 | Basment Living |
-| 143 | 180 | BigWeenie69 |
-| 144 | 180 | Michael |
-| 145 | 180 | Erez Yosef |
+| 143 | 180 | Erez Yosef |
+| 144 | 180 | BigWeenie69 |
+| 145 | 180 | Michael |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Chad Atchley |
 | 148 | 178 | Shiny Gridmatch |
@@ -165,14 +165,14 @@
 | 157 | 169 | Abbey Crespo |
 | 158 | 168 | Standia Civil |
 | 159 | 167 | Erin Hodges Plumb |
-| 160 | 166 | Katie Daniels |
-| 161 | 166 | Rico Rico |
+| 160 | 166 | Rico Rico |
+| 161 | 166 | Katie Daniels |
 | 162 | 165 | Nadine Velardo |
 | 163 | 163 | Jenny Gingrich Fuentes |
 | 164 | 163 | Tyler Whitley |
 | 165 | 162 | Cece Ibarra |
-| 166 | 161 | SavageBooty98 |
-| 167 | 161 | Jessie Lynn |
+| 166 | 161 | Jessie Lynn |
+| 167 | 161 | SavageBooty98 |
 | 168 | 160 | Nery Martinez |
 | 169 | 159 | Bindi |
 | 170 | 158 | Arianna O'Brien |
@@ -206,12 +206,12 @@
 | 198 | 135 | Aimee Horton |
 | 199 | 135 | Giddy Cascade |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Kimberly Garcia |
-| 202 | 133 | Fmp |
+| 201 | 133 | Fmp |
+| 202 | 133 | Kimberly Garcia |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
-| 205 | 130 | Gilbert Ortiz Jr. |
-| 206 | 130 | LD1 |
+| 205 | 130 | LD1 |
+| 206 | 130 | Gilbert Ortiz Jr. |
 | 207 | 129 | Larry Tilton |
 | 208 | 128 | lil mickey |
 | 209 | 126 | Tami Luce Martin |

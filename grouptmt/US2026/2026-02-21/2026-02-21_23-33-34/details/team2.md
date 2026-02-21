@@ -200,16 +200,16 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 661 | Claire Noland |
 | 199 | 660 | Bussyiano Page |
 | 200 | 659 | Poldo Ilano |
 | 201 | 658 | Erica Williams |
 | 202 | 654 | Mandi Douglas Hilt |
-| 203 | 651 | Unica Rector |
-| 204 | 651 | ShinyRose |
+| 203 | 651 | ShinyRose |
+| 204 | 651 | Unica Rector |
 | 205 | 651 | Roseanna Peloso |
 | 206 | 650 | Shiny Rollzone |
 | 207 | 641 | Joce Lynn |

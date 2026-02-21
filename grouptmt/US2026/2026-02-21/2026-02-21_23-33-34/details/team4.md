@@ -73,8 +73,8 @@
 | 65 | 391 | Ramel Rhodes |
 | 66 | 390 | Carlton Unfiltered |
 | 67 | 388 | YoMomma |
-| 68 | 376 | Marie-Pier Desjardins |
-| 69 | 376 | quicksand420 |
+| 68 | 376 | quicksand420 |
+| 69 | 376 | Marie-Pier Desjardins |
 | 70 | 373 | Joseph Guthrie |
 | 71 | 370 | Leslie Thomas |
 | 72 | 369 | Nope Young |
@@ -119,8 +119,8 @@
 | 111 | 218 | Casey Grabner |
 | 112 | 213 | Chaz Duncan |
 | 113 | 212 | Calvin Cannon |
-| 114 | 211 | Dizzy Tiley |
-| 115 | 211 | loulou |
+| 114 | 211 | loulou |
+| 115 | 211 | Dizzy Tiley |
 | 116 | 210 | Damn Libra |
 | 117 | 208 | Twisty Cascadezone |
 | 118 | 208 | Chastity Mitchell |
@@ -195,8 +195,8 @@
 | 187 | 132 | Degenerate |
 | 188 | 132 | Melissa Priest Sellers |
 | 189 | 131 | Michelle Morris |
-| 190 | 130 | Carlos Ramirez |
-| 191 | 130 | Shukee Lo |
+| 190 | 130 | Shukee Lo |
+| 191 | 130 | Carlos Ramirez |
 | 192 | 130 | Chris Bernstein |
 | 193 | 129 | Dreamy Snapgrid |
 | 194 | 128 | April Rondinone |
@@ -210,9 +210,9 @@
 | 202 | 125 | Duck |
 | 203 | 125 | Judy Cox |
 | 204 | 125 | Heather Tushner |
-| 205 | 124 | Allen Lloyd |
+| 205 | 124 | SammieJo Guy |
 | 206 | 124 | Kristina Black |
-| 207 | 124 | SammieJo Guy |
+| 207 | 124 | Allen Lloyd |
 | 208 | 123 | Austin Owens |
 | 209 | 123 | Tyler Terrific |
 | 210 | 123 | Matt Dell'Olio |
