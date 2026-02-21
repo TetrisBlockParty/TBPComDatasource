@@ -79,8 +79,8 @@
 | 71 | 566 | Dan Rob |
 | 72 | 565 | Dolores Falco |
 | 73 | 561 | Rachael McClain Owens |
-| 74 | 536 | Giddy Drop |
-| 75 | 536 | Joey Banks |
+| 74 | 536 | Joey Banks |
+| 75 | 536 | Giddy Drop |
 | 76 | 533 | Sarah Fehring |
 | 77 | 526 | Cynthia Castros-Hampton |
 | 78 | 510 | Dave Herzog |
@@ -196,7 +196,7 @@
 | 188 | 214 | Amy Fuller Heaton |
 | 189 | 211 | Giddy Twistbuilder |
 | 190 | 211 | Khaleada McGill Banks |
-| 191 | 211 | Giddy Twistbuilder |
+| 191 | 211 | Katrina Turner |
 | 192 | 210 | Michael Lucado |
 | 193 | 209 | Twisty Brick LT |
 | 194 | 207 | Jessica |
@@ -244,9 +244,9 @@
 | 236 | 174 | Marquita Sheard |
 | 237 | 172 | Grams |
 | 238 | 170 | Lesley Perez |
-| 239 | 169 | BŘŰŤİÇŨŚ |
-| 240 | 169 | Daryn Elliott |
-| 241 | 169 | Emma |
+| 239 | 169 | Daryn Elliott |
+| 240 | 169 | Emma |
+| 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
 | 243 | 166 | Betty Rosas |
 | 244 | 166 | Beth Ingham |
@@ -254,8 +254,8 @@
 | 246 | 165 | Kali Kelz Williams |
 | 247 | 163 | Christine Trester |
 | 248 | 163 | Stephanie Hill |
-| 249 | 162 | Loopy Fallzone |
-| 250 | 162 | Cesar Barraza |
+| 249 | 162 | Cesar Barraza |
+| 250 | 162 | Loopy Fallzone |
 | 251 | 162 | Stephanie Whitefield |
 | 252 | 161 | Kristian Thurman |
 | 253 | 160 | Tiffany Davie |
@@ -310,8 +310,8 @@
 | 302 | 136 | Blair Erin Waite |
 | 303 | 136 | Sabrina Mansfield |
 | 304 | 135 | sofaking |
-| 305 | 134 | Tammy |
-| 306 | 134 | Christian Werndl |
+| 305 | 134 | Christian Werndl |
+| 306 | 134 | Tammy |
 | 307 | 134 | Bleu Sun Beams |
 | 308 | 133 | Jen Lewis |
 | 309 | 133 | Weerae |

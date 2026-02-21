@@ -74,8 +74,8 @@
 | 66 | 367 | Jennifer ManWarren |
 | 67 | 364 | Jacqueline Williams |
 | 68 | 359 | Nerdy Linkblock |
-| 69 | 348 | Stef Hu |
-| 70 | 348 | Trina Gee |
+| 69 | 348 | Trina Gee |
+| 70 | 348 | Stef Hu |
 | 71 | 347 | pjbeta |
 | 72 | 338 | Stephanie Zahn |
 | 73 | 337 | Tipsy Strikerpiece |
@@ -114,8 +114,8 @@
 | 106 | 249 | Elaine Elaine |
 | 107 | 248 | Jason Jones |
 | 108 | 244 | Franswa |
-| 109 | 240 | Chelsea Dahlquist |
-| 110 | 240 | Tana |
+| 109 | 240 | Tana |
+| 110 | 240 | Chelsea Dahlquist |
 | 111 | 238 | Steve Schneider |
 | 112 | 238 | John J. Cronin |
 | 113 | 230 | Frothy Pattern |
@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
@@ -161,8 +161,8 @@
 | 153 | 171 | David DeSantis |
 | 154 | 171 | femmefatale |
 | 155 | 171 | Greg Premoe |
-| 156 | 170 | Cartier |
-| 157 | 170 | Veronica Eve |
+| 156 | 170 | Veronica Eve |
+| 157 | 170 | Cartier |
 | 158 | 169 | Abbey Crespo |
 | 159 | 168 | Katie Daniels |
 | 160 | 168 | Standia Civil |

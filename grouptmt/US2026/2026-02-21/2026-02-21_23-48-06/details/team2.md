@@ -542,8 +542,8 @@
 | 534 | 286 | Britney M. |
 | 535 | 286 | Ashley Criner |
 | 536 | 285 | June E Hanson |
-| 537 | 284 | Anita Rose Green |
-| 538 | 284 | BeQuo |
+| 537 | 284 | BeQuo |
+| 538 | 284 | Anita Rose Green |
 | 539 | 284 | Hillary Franklin |
 | 540 | 283 | Snippy Block |
 | 541 | 283 | Tash Bell |

@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | quicksand420 |
-| 70 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | quicksand420 |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -117,12 +117,12 @@
 | 109 | 230 | Daria Rycewicz |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
-| 112 | 218 | Casey Grabner |
-| 113 | 218 | Antony Dwayne Beasley |
+| 112 | 218 | Antony Dwayne Beasley |
+| 113 | 218 | Casey Grabner |
 | 114 | 213 | Chaz Duncan |
 | 115 | 212 | Calvin Cannon |
-| 116 | 211 | loulou |
-| 117 | 211 | Dizzy Tiley |
+| 116 | 211 | Dizzy Tiley |
+| 117 | 211 | loulou |
 | 118 | 210 | Damn Libra |
 | 119 | 208 | Chastity Mitchell |
 | 120 | 208 | Twisty Cascadezone |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | ThaEviLJeNiuZ |
-| 153 | 164 | 030Synner |
+| 152 | 164 | 030Synner |
+| 153 | 164 | ThaEviLJeNiuZ |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
@@ -169,8 +169,8 @@
 | 161 | 151 | Bethany Ison |
 | 162 | 149 | Shainne Brewer |
 | 163 | 148 | Mr. Party |
-| 164 | 148 | Brittany Marsh |
-| 165 | 148 | Janita Parrish |
+| 164 | 148 | Janita Parrish |
+| 165 | 148 | Brittany Marsh |
 | 166 | 147 | B Renee Desjardin |
 | 167 | 147 | Jay28 |
 | 168 | 142 | Zippy Gridlock |
