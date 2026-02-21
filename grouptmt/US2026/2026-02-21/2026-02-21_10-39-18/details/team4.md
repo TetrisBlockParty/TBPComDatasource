@@ -171,10 +171,10 @@
 | 163 | 94 | Kim Hunt |
 | 164 | 94 | Chastity Mitchell |
 | 165 | 93 | Zesty Twistbuilder |
-| 166 | 90 | No Strings Attached Ra |
-| 167 | 90 | Judy Cox |
-| 168 | 89 | shark tato |
-| 169 | 89 | mike |
+| 166 | 90 | Judy Cox |
+| 167 | 90 | No Strings Attached Ra |
+| 168 | 89 | mike |
+| 169 | 89 | shark tato |
 | 170 | 88 | Kesha Brady |
 | 171 | 88 | Heather Tushner |
 | 172 | 87 | Jen Caldwell |

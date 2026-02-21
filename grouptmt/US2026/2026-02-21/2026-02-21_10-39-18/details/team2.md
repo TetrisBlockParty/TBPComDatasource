@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Devin Lee |
-| 38 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Katrina Williams Balmir |
+| 38 | 1173 | Devin Lee |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1148 | Reese Nguyen |
@@ -108,15 +108,15 @@
 | 100 | 674 | Dannette Goldberg-Richards |
 | 101 | 672 | Wendy Harder Gage |
 | 102 | 665 | Dineisha Carpenter |
-| 103 | 658 | Vistabrat |
-| 104 | 658 | Pacynthia Williams |
+| 103 | 658 | Pacynthia Williams |
+| 104 | 658 | Vistabrat |
 | 105 | 653 | Becky Weeks-Garry |
 | 106 | 649 | Anna Edwards |
 | 107 | 649 | Stephanie Chapman |
 | 108 | 641 | Ricardo Burton |
 | 109 | 632 | Beth |
-| 110 | 631 | Peppy Zone |
-| 111 | 631 | Loopy Clusterbuilder |
+| 110 | 631 | Loopy Clusterbuilder |
+| 111 | 631 | Peppy Zone |
 | 112 | 620 | BYM4L |
 | 113 | 608 | John Bednarik |
 | 114 | 601 | Nancy Reid |
@@ -174,8 +174,8 @@
 | 166 | 454 | Casey Schumacher |
 | 167 | 453 | Osun Anuket Esu |
 | 168 | 452 | Alezandra Smith |
-| 169 | 450 | Cheech Dta |
-| 170 | 450 | Giggy Blocker |
+| 169 | 450 | Giggy Blocker |
+| 170 | 450 | Cheech Dta |
 | 171 | 448 | Jojo Momma |
 | 172 | 442 | Daphne Jordan |
 | 173 | 440 | Liberty |
@@ -202,11 +202,11 @@
 | 194 | 391 | Qiana Sanders |
 | 195 | 386 | Ashie Ann |
 | 196 | 386 | Macy Williams |
-| 197 | 385 | Arwa Fatimah |
-| 198 | 385 | Sam |
+| 197 | 385 | Sam |
+| 198 | 385 | Arwa Fatimah |
 | 199 | 381 | Amanda Ferrell |
-| 200 | 380 | Joshua Mandel |
-| 201 | 380 | Calandra Shaya Robinson |
+| 200 | 380 | Calandra Shaya Robinson |
+| 201 | 380 | Joshua Mandel |
 | 202 | 378 | Cody Nishimura |
 | 203 | 377 | Roy Salyer |
 | 204 | 370 | Mischelle Clay |
@@ -251,12 +251,12 @@
 | 243 | 317 | bru |
 | 244 | 315 | Alisa Lamb |
 | 245 | 314 | Amanda West |
-| 246 | 312 | Michelle Pike |
-| 247 | 312 | Felicia Lynn |
+| 246 | 312 | Felicia Lynn |
+| 247 | 312 | Michelle Pike |
 | 248 | 311 | Véronique Lévesque Sabourin |
 | 249 | 311 | Dar |
-| 250 | 309 | Ginger |
-| 251 | 309 | Oscar Bernie |
+| 250 | 309 | Oscar Bernie |
+| 251 | 309 | Ginger |
 | 252 | 309 | James Zaragoza |
 | 253 | 306 | Kristopher Miller |
 | 254 | 305 | Libby Hicks |
@@ -350,11 +350,11 @@
 | 342 | 245 | Rachael Senard |
 | 343 | 245 | Sanaa Nounoussa |
 | 344 | 244 | Aimee Byrom |
-| 345 | 242 | Lawanda Forbes |
-| 346 | 242 | Donna Chandler |
+| 345 | 242 | Donna Chandler |
+| 346 | 242 | Lawanda Forbes |
 | 347 | 241 | Sabrina Burton |
-| 348 | 240 | Angie Marie |
-| 349 | 240 | Adam Erikson |
+| 348 | 240 | Adam Erikson |
+| 349 | 240 | Angie Marie |
 | 350 | 239 | Roger Grabbit |
 | 351 | 238 | Cheery Matchzone |
 | 352 | 236 | snkylnk |
@@ -362,8 +362,8 @@
 | 354 | 236 | Niceday |
 | 355 | 236 | Julio A Laracuente |
 | 356 | 235 | Kimberly Mitchell |
-| 357 | 234 | Manny Trindade |
-| 358 | 234 | Jennifer Leigh |
+| 357 | 234 | Jennifer Leigh |
+| 358 | 234 | Manny Trindade |
 | 359 | 234 | Jaybee Nguyen |
 | 360 | 233 | Jumpy Gridclear |
 | 361 | 233 | Robin Kerby |
@@ -409,8 +409,8 @@
 | 401 | 204 | Rebecca Doughman |
 | 402 | 203 | Gary Stash |
 | 403 | 201 | Peppy Snapfall |
-| 404 | 200 | Sarah Ridenour |
-| 405 | 200 | LaWanda Powell |
+| 404 | 200 | LaWanda Powell |
+| 405 | 200 | Sarah Ridenour |
 | 406 | 199 | Fi Ne |
 | 407 | 199 | Jessica Sutter |
 | 408 | 199 | Jenny Castro |
@@ -470,8 +470,8 @@
 | 462 | 176 | Stacy Harper |
 | 463 | 175 | Snippy Rumbler |
 | 464 | 175 | Lucero Ramirez |
-| 465 | 175 | Shandrica Lowe |
-| 466 | 175 | Tina Blessed Cage |
+| 465 | 175 | Tina Blessed Cage |
+| 466 | 175 | Shandrica Lowe |
 | 467 | 174 | Veronica Guerra |
 | 468 | 174 | Heather Schelkopf |
 | 469 | 174 | Jason Garnatz |
@@ -487,12 +487,12 @@
 | 479 | 169 | Eddie Perez |
 | 480 | 168 | Phil J. Grombliniak |
 | 481 | 168 | Kati Russeau |
-| 482 | 167 | Sabrena Yeisley |
-| 483 | 167 | mshir |
+| 482 | 167 | mshir |
+| 483 | 167 | Sabrena Yeisley |
 | 484 | 166 | suuny |
 | 485 | 165 | Tara Lynn Janes |
-| 486 | 165 | Cathy Bitters |
-| 487 | 165 | Austin Wilson |
+| 486 | 165 | Austin Wilson |
+| 487 | 165 | Cathy Bitters |
 | 488 | 165 | Catherine Varea |
 | 489 | 164 | Sara Pennington |
 | 490 | 164 | Jessica Vega |
@@ -534,9 +534,9 @@
 | 526 | 155 | Cris cris |
 | 527 | 154 | Lori Maring |
 | 528 | 154 | Bryan Werleman |
-| 529 | 154 | Tiffney Wroten |
-| 530 | 154 | Cini |
-| 531 | 154 | Lydia Greenman |
+| 529 | 154 | Lydia Greenman |
+| 530 | 154 | Tiffney Wroten |
+| 531 | 154 | Cini |
 | 532 | 153 | Poppy Gridder |
 | 533 | 153 | Luna |
 | 534 | 152 | Kristin King |
@@ -560,8 +560,8 @@
 | 552 | 148 | AgileDragon |
 | 553 | 148 | Cleo Sims |
 | 554 | 147 | Jeremy Parodi |
-| 555 | 147 | Sassy Pivot |
-| 556 | 147 | Smiley Strike |
+| 555 | 147 | Smiley Strike |
+| 556 | 147 | Sassy Pivot |
 | 557 | 146 | Sherry Aguinaga |
 | 558 | 146 | Ibiza Carolina LaRose |
 | 559 | 145 | Chareen Lauritzen |
