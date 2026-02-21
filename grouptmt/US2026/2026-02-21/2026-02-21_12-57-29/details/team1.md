@@ -84,14 +84,14 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | Frothy Pattern |
-| 85 | 173 | june october |
-| 86 | 173 | Jennifer Olewnik Soborowski |
+| 84 | 173 | Jennifer Olewnik Soborowski |
+| 85 | 173 | Frothy Pattern |
+| 86 | 173 | june october |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Redlicious 1 |
 | 89 | 166 | Rico Rico |

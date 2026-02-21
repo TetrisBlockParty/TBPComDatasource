@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -169,8 +169,8 @@
 | 161 | 157 | Patricia Gadsden |
 | 162 | 156 | Joey Banks |
 | 163 | 154 | Angela M. Fletcher |
-| 164 | 153 | Stephanie Whitefield |
-| 165 | 153 | Beth Ingham |
+| 164 | 153 | Beth Ingham |
+| 165 | 153 | Stephanie Whitefield |
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |

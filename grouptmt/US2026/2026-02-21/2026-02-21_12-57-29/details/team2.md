@@ -116,12 +116,12 @@
 | 108 | 658 | Pacynthia Williams |
 | 109 | 653 | Becky Weeks-Garry |
 | 110 | 653 | Roger Grabbit |
-| 111 | 649 | Anna Edwards |
-| 112 | 649 | Stephanie Chapman |
+| 111 | 649 | Stephanie Chapman |
+| 112 | 649 | Anna Edwards |
 | 113 | 641 | Ricardo Burton |
 | 114 | 632 | Beth |
-| 115 | 631 | Peppy Zone |
-| 116 | 631 | Loopy Clusterbuilder |
+| 115 | 631 | Loopy Clusterbuilder |
+| 116 | 631 | Peppy Zone |
 | 117 | 620 | BYM4L |
 | 118 | 619 | Jamie Otero |
 | 119 | 608 | Sommer Shope |
@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Shinette Dobson |
-| 222 | 364 | Brandon Armstrong |
+| 221 | 364 | Brandon Armstrong |
+| 222 | 364 | Shinette Dobson |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -293,8 +293,8 @@
 | 285 | 300 | KhaosLord |
 | 286 | 300 | Arkei Luster |
 | 287 | 299 | Tara Lynn Janes |
-| 288 | 299 | Deborah Miller |
-| 289 | 299 | Christy Krissie |
+| 288 | 299 | Christy Krissie |
+| 289 | 299 | Deborah Miller |
 | 290 | 297 | Offonar Facey |
 | 291 | 296 | Amber Gray |
 | 292 | 296 | Jennifer Casey-Kay |
@@ -471,9 +471,9 @@
 | 463 | 191 | Lauren Fitzgerald Thomas |
 | 464 | 191 | John Quiring |
 | 465 | 190 | Jessica Kaye DeAguero |
-| 466 | 188 | Irene Jones |
-| 467 | 188 | Seth Wrieden |
-| 468 | 188 | Michael Artis |
+| 466 | 188 | Michael Artis |
+| 467 | 188 | Irene Jones |
+| 468 | 188 | Seth Wrieden |
 | 469 | 187 | Stefanie Zonzini-Gagliardi |
 | 470 | 186 | Joshua Mullings |
 | 471 | 186 | Jackie Jackie Lee |

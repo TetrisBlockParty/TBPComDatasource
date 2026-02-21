@@ -82,26 +82,26 @@
 | 74 | 179 | Epic Curvetile |
 | 75 | 178 | Lori |
 | 76 | 175 | Dustee Craddock-Harrison |
-| 77 | 173 | Jeff Brian Gates |
-| 78 | 173 | Zethra Prenisha Rahming |
+| 77 | 173 | Zethra Prenisha Rahming |
+| 78 | 173 | Jeff Brian Gates |
 | 79 | 171 | Melvin Baird |
-| 80 | 170 | Girl |
-| 81 | 170 | Justin Hannigan |
+| 80 | 170 | Justin Hannigan |
+| 81 | 170 | Girl |
 | 82 | 167 | Denise Carlson |
 | 83 | 165 | Casey Grabner |
 | 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Carter Jones |
-| 88 | 160 | Stacey Stano |
+| 87 | 160 | Stacey Stano |
+| 88 | 160 | Carter Jones |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | 030Synner |
-| 96 | 147 | Jay28 |
+| 95 | 147 | Jay28 |
+| 96 | 147 | 030Synner |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -117,10 +117,10 @@
 | 109 | 132 | Jenna McGeorge |
 | 110 | 132 | Melissa Priest Sellers |
 | 111 | 131 | Mr. Party |
-| 112 | 130 | Lucas J Sutton |
-| 113 | 130 | Casey Jeffcoat |
-| 114 | 129 | Landon Keith Graffeo |
-| 115 | 129 | John Brunetti |
+| 112 | 130 | Casey Jeffcoat |
+| 113 | 130 | Lucas J Sutton |
+| 114 | 129 | John Brunetti |
+| 115 | 129 | Landon Keith Graffeo |
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
