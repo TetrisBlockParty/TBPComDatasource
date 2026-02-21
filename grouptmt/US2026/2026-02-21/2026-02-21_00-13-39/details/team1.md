@@ -20,8 +20,8 @@
 | 12 | 371 | Colena Davenport |
 | 13 | 301 | Zerin Graham |
 | 14 | 294 | Jacqueline Williams |
-| 15 | 281 | Kathi Snustad |
-| 16 | 281 | Nancy Green |
+| 15 | 281 | Nancy Green |
+| 16 | 281 | Kathi Snustad |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 261 | Jayme Sellers |
 | 19 | 234 | Tipsy Column |
@@ -41,9 +41,9 @@
 | 33 | 148 | Lawrence Belanger |
 | 34 | 146 | Abbey Crespo |
 | 35 | 145 | Lachelle Dillon |
-| 36 | 144 | Tana |
+| 36 | 144 | Jessie Lynn |
 | 37 | 144 | Tanya Carpenter-Reynolds |
-| 38 | 144 | Jessie Lynn |
+| 38 | 144 | Tana |
 | 39 | 143 | Veronica Eve |
 | 40 | 135 | Jennifer Cates |
 | 41 | 134 | Plucky Ziggy |
@@ -54,24 +54,24 @@
 | 46 | 119 | Irual Hctrab |
 | 47 | 117 | David DeSantis |
 | 48 | 116 | Kristen Roles Robben |
-| 49 | 114 | Marianne Louise West |
-| 50 | 114 | Colleen Wise |
+| 49 | 114 | Colleen Wise |
+| 50 | 114 | Marianne Louise West |
 | 51 | 112 | Miguel Teixeira |
 | 52 | 110 | Heidi Feurer |
 | 53 | 109 | Dandy Basegrid |
 | 54 | 108 | Tavia |
 | 55 | 105 | Barry Mac'Ockner |
 | 56 | 103 | Sharon Reynolds |
-| 57 | 100 | Frothy Pattern |
-| 58 | 100 | Ash Galvan |
+| 57 | 100 | Ash Galvan |
+| 58 | 100 | Frothy Pattern |
 | 59 | 98 | Flashy Rotator |
 | 60 | 95 | Jodee Woods |
 | 61 | 94 | Bindi |
-| 62 | 93 | Adryane Schnase |
-| 63 | 93 | Uhog SF |
+| 62 | 93 | Uhog SF |
+| 63 | 93 | Adryane Schnase |
 | 64 | 93 | Ty Brown |
-| 65 | 91 | Spunky Piecebuilder |
-| 66 | 91 | Melissa Lemmon |
+| 65 | 91 | Melissa Lemmon |
+| 66 | 91 | Spunky Piecebuilder |
 | 67 | 90 | Madison Wicks |
 | 68 | 90 | comrade fish |
 | 69 | 87 | Ananda Mendez |
@@ -88,8 +88,8 @@
 | 80 | 80 | Matt Cinelli |
 | 81 | 79 | Chris65 |
 | 82 | 78 | Carrie Beck Geartz |
-| 83 | 75 | Tyler L Hunt |
-| 84 | 75 | Josie Kirt |
+| 83 | 75 | Josie Kirt |
+| 84 | 75 | Tyler L Hunt |
 | 85 | 74 | Grace Joanne Agnant |
 | 86 | 73 | Loony Fitzone |
 | 87 | 73 | Witty Builderfit |

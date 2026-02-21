@@ -75,8 +75,8 @@
 | 67 | 397 | Ashley Guernsey-Martin |
 | 68 | 395 | Tommy Tha Boss Gunz |
 | 69 | 391 | Chilly Bridgepiece |
-| 70 | 390 | Mari Ac |
-| 71 | 390 | Dustin Rains |
+| 70 | 390 | Dustin Rains |
+| 71 | 390 | Mari Ac |
 | 72 | 385 | Sam |
 | 73 | 380 | Joshua Mandel |
 | 74 | 374 | Sommer Shope |
@@ -90,8 +90,8 @@
 | 82 | 350 | Chris Harr |
 | 83 | 346 | Gene Mills |
 | 84 | 345 | Brenda Messer |
-| 85 | 345 | Alyssaaelena |
-| 86 | 345 | Rhianna DiLorenzo |
+| 85 | 345 | Rhianna DiLorenzo |
+| 86 | 345 | Alyssaaelena |
 | 87 | 344 | Sarah Freitas |
 | 88 | 342 | Tracy Wise |
 | 89 | 341 | Sam McKenzie |
@@ -153,8 +153,8 @@
 | 145 | 235 | TF Dyer |
 | 146 | 233 | Bubbly Snapfit |
 | 147 | 232 | Ann Knutson Anderson |
-| 148 | 231 | Dylan Thomason |
-| 149 | 231 | Ginger |
+| 148 | 231 | Ginger |
+| 149 | 231 | Dylan Thomason |
 | 150 | 231 | Ashley Lopez |
 | 151 | 227 | Alyssia Tancredi |
 | 152 | 225 | Lindsey Leigh |

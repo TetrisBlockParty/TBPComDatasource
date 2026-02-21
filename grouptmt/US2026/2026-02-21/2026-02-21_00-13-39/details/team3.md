@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | Jennifer Willis |
-| 53 | 206 | MissTaylor |
+| 52 | 206 | MissTaylor |
+| 53 | 206 | Jennifer Willis |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Clever Shiftsnap |
@@ -69,8 +69,8 @@
 | 61 | 179 | Daira Largen |
 | 62 | 166 | Danielle Mogg |
 | 63 | 160 | Fallorina Susana |
-| 64 | 152 | Shannon Matthew Byers |
-| 65 | 152 | Shiny Zonebuilder |
+| 64 | 152 | Shiny Zonebuilder |
+| 65 | 152 | Shannon Matthew Byers |
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
 | 68 | 141 | Denita Mungro |
@@ -81,13 +81,13 @@
 | 73 | 130 | Zippy Strikesnap |
 | 74 | 129 | Giddy Twistbuilder |
 | 75 | 128 | Angel Mendez |
-| 76 | 127 | Dolores Falco |
-| 77 | 127 | mjl574 |
+| 76 | 127 | mjl574 |
+| 77 | 127 | Dolores Falco |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 124 | Delilah belle |
 | 80 | 122 | Emma |
-| 81 | 120 | Jessica |
-| 82 | 120 | Michael Latasha Gray |
+| 81 | 120 | Michael Latasha Gray |
+| 82 | 120 | Jessica |
 | 83 | 118 | Bea Miles |
 | 84 | 114 | Terry Jo Jones |
 | 85 | 113 | Jennifer Alvey |
@@ -130,8 +130,8 @@
 | 122 | 87 | Jimmie Clemons |
 | 123 | 86 | Dan Rob |
 | 124 | 85 | Katie Knaus |
-| 125 | 84 | Eon Harris |
-| 126 | 84 | Ava Petito |
+| 125 | 84 | Ava Petito |
+| 126 | 84 | Eon Harris |
 | 127 | 83 | LaTanya GeminiondaRise Johnson |
 | 128 | 82 | Donna |
 | 129 | 82 | Clever Clearbuilder |
