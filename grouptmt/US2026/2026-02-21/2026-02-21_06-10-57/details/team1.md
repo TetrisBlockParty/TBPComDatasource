@@ -60,8 +60,8 @@
 | 52 | 196 | Felicia Lewis |
 | 53 | 194 | Sharon Reynolds |
 | 54 | 192 | Mandyy Rae |
-| 55 | 191 | Jazzy Framezone |
-| 56 | 191 | Giggly Builderline |
+| 55 | 191 | Giggly Builderline |
+| 56 | 191 | Jazzy Framezone |
 | 57 | 190 | Sweetts |
 | 58 | 190 | Thorne Shumate |
 | 59 | 189 | Happy Basegrid |

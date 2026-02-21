@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Johnathan Martinez |
-| 20 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Johnathan Martinez |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 364 | Rachel Anne |
 | 23 | 345 | Ancient Intuition |

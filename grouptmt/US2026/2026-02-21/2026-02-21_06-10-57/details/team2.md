@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3648 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -37,8 +37,8 @@
 | 29 | 1257 | Crystalin Heath Lewis |
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
-| 32 | 1173 | Devin Lee |
-| 33 | 1173 | Katrina Williams Balmir |
+| 32 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Devin Lee |
 | 34 | 1160 | Dustin Rains |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
@@ -86,11 +86,11 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Vistabrat |
-| 82 | 658 | Pacynthia Williams |
+| 81 | 658 | Pacynthia Williams |
+| 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Stephanie Chapman |
-| 85 | 649 | Anna Edwards |
+| 84 | 649 | Anna Edwards |
+| 85 | 649 | Stephanie Chapman |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 608 | John Bednarik |
 | 88 | 601 | Nancy Reid |
@@ -207,8 +207,8 @@
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
 | 201 | 312 | Michelle Pike |
-| 202 | 311 | Dizzy Zone |
-| 203 | 311 | Véronique Lévesque Sabourin |
+| 202 | 311 | Véronique Lévesque Sabourin |
+| 203 | 311 | Dizzy Zone |
 | 204 | 309 | James Zaragoza |
 | 205 | 309 | Oscar Bernie |
 | 206 | 306 | Kristopher Miller |
@@ -408,16 +408,16 @@
 | 400 | 173 | Robin |
 | 401 | 173 | kippykay |
 | 402 | 171 | Cappin You |
-| 403 | 170 | Darlene Bowman |
-| 404 | 170 | Dedra Steward |
+| 403 | 170 | Dedra Steward |
+| 404 | 170 | Darlene Bowman |
 | 405 | 170 | Kenya Felix |
 | 406 | 169 | Hyper Cluster |
 | 407 | 169 | Lively Catcher |
 | 408 | 169 | William Hunt |
 | 409 | 169 | Eddie Perez |
 | 410 | 169 | Fi Ne |
-| 411 | 168 | Kati Russeau |
-| 412 | 168 | HarleyJane |
+| 411 | 168 | HarleyJane |
+| 412 | 168 | Kati Russeau |
 | 413 | 168 | Phil J. Grombliniak |
 | 414 | 167 | Sabrena Yeisley |
 | 415 | 165 | Austin Wilson |
