@@ -131,11 +131,11 @@
 | 123 | 115 | Jayk |
 | 124 | 113 | Andria Lynn |
 | 125 | 113 | Stephme310 |
-| 126 | 112 | Brittany Marsh |
-| 127 | 112 | Austin Owens |
-| 128 | 112 | Bryan Hodgins |
-| 129 | 111 | Lazy Blocker |
-| 130 | 111 | Gwendolyn Pitcairn |
+| 126 | 112 | Bryan Hodgins |
+| 127 | 112 | Brittany Marsh |
+| 128 | 112 | Austin Owens |
+| 129 | 111 | Gwendolyn Pitcairn |
+| 130 | 111 | Lazy Blocker |
 | 131 | 110 | H.R. Block |
 | 132 | 108 | Rio Rocha |
 | 133 | 107 | TinyLegoRose |
@@ -150,8 +150,8 @@
 | 142 | 104 | Damn Libra |
 | 143 | 102 | ĥuf |
 | 144 | 102 | Faja |
-| 145 | 101 | Michelle Morris |
-| 146 | 101 | Saulc1991 |
+| 145 | 101 | Saulc1991 |
+| 146 | 101 | Michelle Morris |
 | 147 | 100 | Alexandra Karavias |
 | 148 | 98 | Chaz |
 | 149 | 98 | Jeremy Steines |

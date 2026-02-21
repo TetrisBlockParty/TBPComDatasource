@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -148,8 +148,8 @@
 | 140 | 159 | Mcathen |
 | 141 | 159 | Morgan Martinez |
 | 142 | 158 | Grams |
-| 143 | 157 | Nicholas Roddy |
-| 144 | 157 | Patricia Gadsden |
+| 143 | 157 | Patricia Gadsden |
+| 144 | 157 | Nicholas Roddy |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
@@ -163,8 +163,8 @@
 | 155 | 149 | Angel Mendez |
 | 156 | 149 | Bea Miles |
 | 157 | 147 | Sashay Tapae Simpson |
-| 158 | 146 | Latoya Mayne |
-| 159 | 146 | Denita Mungro |
+| 158 | 146 | Denita Mungro |
+| 159 | 146 | Latoya Mayne |
 | 160 | 145 | Bryan Byrd |
 | 161 | 142 | Erica Anderson |
 | 162 | 140 | Gumbo |

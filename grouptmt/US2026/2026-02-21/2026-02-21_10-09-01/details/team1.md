@@ -50,7 +50,7 @@
 | 42 | 274 | Sweet Baker |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Shauna Loe |
-| 45 | 256 | Robert Benito |
+| 45 | 256 | Tipsy Column |
 | 46 | 244 | Franswa |
 | 47 | 243 | Sarah Roberts |
 | 48 | 241 | Kristen Roles Robben |

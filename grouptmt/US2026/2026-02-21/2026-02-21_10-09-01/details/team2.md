@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Katrina Williams Balmir |
-| 38 | 1173 | Devin Lee |
+| 37 | 1173 | Devin Lee |
+| 38 | 1173 | Katrina Williams Balmir |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1143 | Lucky Ladybug |
@@ -110,8 +110,8 @@
 | 102 | 658 | Vistabrat |
 | 103 | 658 | Pacynthia Williams |
 | 104 | 653 | Becky Weeks-Garry |
-| 105 | 649 | Stephanie Chapman |
-| 106 | 649 | Anna Edwards |
+| 105 | 649 | Anna Edwards |
+| 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
 | 109 | 631 | Peppy Zone |
@@ -258,8 +258,8 @@
 | 250 | 303 | Crystal Greene |
 | 251 | 303 | Amanda Schaffer |
 | 252 | 301 | Claire |
-| 253 | 299 | Deborah Miller |
-| 254 | 299 | Christy Krissie |
+| 253 | 299 | Christy Krissie |
+| 254 | 299 | Deborah Miller |
 | 255 | 297 | Brenda Utphall |
 | 256 | 296 | Jennifer Casey-Kay |
 | 257 | 296 | Amber Gray |
@@ -527,8 +527,8 @@
 | 519 | 156 | Deanna Morton |
 | 520 | 155 | Angela Murgia-Owen |
 | 521 | 155 | Cris cris |
-| 522 | 155 | Chelle |
-| 523 | 155 | Monarca26 |
+| 522 | 155 | Monarca26 |
+| 523 | 155 | Chelle |
 | 524 | 154 | Bryan Werleman |
 | 525 | 154 | Cini |
 | 526 | 154 | Lydia Greenman |
