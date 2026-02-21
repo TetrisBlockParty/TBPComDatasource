@@ -147,8 +147,8 @@
 | 139 | 297 | Michelle Pike |
 | 140 | 297 | James Zaragoza |
 | 141 | 296 | Jennifer Casey-Kay |
-| 142 | 295 | Diallo Sparkman |
-| 143 | 295 | Zany Clusterbuilder |
+| 142 | 295 | Zany Clusterbuilder |
+| 143 | 295 | Diallo Sparkman |
 | 144 | 290 | Jessie McDougald |
 | 145 | 287 | Claire |
 | 146 | 287 | Megan Ferguson Leone |

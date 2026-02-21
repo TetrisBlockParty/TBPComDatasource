@@ -172,9 +172,9 @@
 | 164 | 81 | Ashley Raines |
 | 165 | 80 | Vixen Queen |
 | 166 | 79 | gremicx |
-| 167 | 78 | Karon Griffin |
-| 168 | 78 | Angie Harper |
-| 169 | 78 | Clever Patterner |
+| 167 | 78 | Clever Patterner |
+| 168 | 78 | Karon Griffin |
+| 169 | 78 | Angie Harper |
 | 170 | 77 | Lush Risebuilder |
 | 171 | 77 | Nikki Pags |
 | 172 | 76 | Melissa Orth Hunter |
@@ -386,7 +386,7 @@
 | 378 | 38 | Kelly Koenig |
 | 379 | 38 | Dee |
 | 380 | 37 | Niki Dalrymple |
-| 381 | 37 | Gwendolyn Sanders |
+| 381 | 37 | Cutie patootie |
 | 382 | 37 | Annie Marie |
 | 383 | 37 | Gwendolyn Sanders |
 | 384 | 37 | TheNikkiJ |

@@ -105,7 +105,7 @@
 | 97 | 84 | Yvonne Marie |
 | 98 | 83 | Death |
 | 99 | 83 | Timothy Dew |
-| 100 | 83 | Death |
+| 100 | 83 | Guest |
 | 101 | 83 | Cody Gates |
 | 102 | 81 | Bob |
 | 103 | 81 | Jennifer ManWarren |
@@ -254,9 +254,9 @@
 | 246 | 35 | Purple |
 | 247 | 35 | Lil H |
 | 248 | 35 | Blake Cobb |
-| 249 | 34 | Brandi Egbert |
+| 249 | 34 | Connie |
 | 250 | 34 | Jessicer |
-| 251 | 34 | Connie |
+| 251 | 34 | Brandi Egbert |
 | 252 | 34 | Luciano Moreira |
 | 253 | 33 | Billie Ann Eason |
 | 254 | 33 | Adele Rahman |
