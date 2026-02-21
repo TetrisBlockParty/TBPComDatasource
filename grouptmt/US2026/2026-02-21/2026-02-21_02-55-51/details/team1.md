@@ -94,8 +94,8 @@
 | 86 | 99 | Bhelle Sumile |
 | 87 | 99 | Ty Brown |
 | 88 | 98 | Gary Gobin |
-| 89 | 96 | Nery Martinez |
-| 90 | 96 | Melissa Lemmon |
+| 89 | 96 | Melissa Lemmon |
+| 90 | 96 | Nery Martinez |
 | 91 | 95 | Spunky Piecebuilder |
 | 92 | 94 | Bindi |
 | 93 | 93 | Adryane Schnase |
@@ -103,8 +103,8 @@
 | 95 | 90 | Madison Wicks |
 | 96 | 88 | TSwag |
 | 97 | 87 | Jessi Sauer |
-| 98 | 86 | Basment Living |
-| 99 | 86 | Trina Gee |
+| 98 | 86 | Trina Gee |
+| 99 | 86 | Basment Living |
 | 100 | 85 | Steve Schneider |
 | 101 | 84 | Yvonne Marie |
 | 102 | 84 | Charla Pross-Fugleberg |
@@ -124,8 +124,8 @@
 | 116 | 78 | Carrie Beck Geartz |
 | 117 | 78 | Sam Williams |
 | 118 | 77 | Teddy Alexander |
-| 119 | 76 | Archie Ware |
-| 120 | 76 | Kerry Lee Powell |
+| 119 | 76 | Kerry Lee Powell |
+| 120 | 76 | Archie Ware |
 | 121 | 75 | Fresno Beotoni |
 | 122 | 75 | Tyler L Hunt |
 | 123 | 74 | Eddie Dillon |

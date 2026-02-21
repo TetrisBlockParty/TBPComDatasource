@@ -68,10 +68,10 @@
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
-| 63 | 113 | Leslie Nicole |
-| 64 | 113 | Degenerate |
-| 65 | 112 | Chirpy Basepiece |
-| 66 | 112 | Mr. Party |
+| 63 | 113 | Degenerate |
+| 64 | 113 | Leslie Nicole |
+| 65 | 112 | Mr. Party |
+| 66 | 112 | Chirpy Basepiece |
 | 67 | 111 | Zany Shatterer |
 | 68 | 111 | Gwendolyn Pitcairn |
 | 69 | 110 | H.R. Block |

@@ -99,8 +99,8 @@
 | 91 | 155 | Shannon Matthew Byers |
 | 92 | 154 | Angela M. Fletcher |
 | 93 | 152 | Shiny Zonebuilder |
-| 94 | 149 | Trisha Balmer |
-| 95 | 149 | Bea Miles |
+| 94 | 149 | Bea Miles |
+| 95 | 149 | Trisha Balmer |
 | 96 | 146 | Denita Mungro |
 | 97 | 146 | mjl574 |
 | 98 | 146 | Latoya Mayne |
@@ -146,8 +146,8 @@
 | 138 | 102 | mommablock |
 | 139 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 140 | 100 | Donna |
-| 141 | 100 | Bobbi Moore |
-| 142 | 100 | Ryan Williams |
+| 141 | 100 | Ryan Williams |
+| 142 | 100 | Bobbi Moore |
 | 143 | 100 | Elizabeth Renee |
 | 144 | 99 | Lys |
 | 145 | 99 | Nichol Graham |
@@ -156,8 +156,8 @@
 | 148 | 96 | D3NO |
 | 149 | 96 | Skinny Baldez |
 | 150 | 95 | Brooke Bauer |
-| 151 | 95 | Katie Knaus |
-| 152 | 95 | Demetrious Shaw Sr. |
+| 151 | 95 | Demetrious Shaw Sr. |
+| 152 | 95 | Katie Knaus |
 | 153 | 93 | Tiffany Ford |
 | 154 | 92 | Jennifer Caputo |
 | 155 | 92 | Tasha Wesson-Torrence |

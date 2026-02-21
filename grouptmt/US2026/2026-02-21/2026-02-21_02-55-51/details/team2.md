@@ -372,14 +372,14 @@
 | 364 | 139 | RavensBeard |
 | 365 | 139 | Jackson Smith |
 | 366 | 139 | Octavio Garza |
-| 367 | 138 | King Shamell Young |
-| 368 | 138 | Gursharan Sandhu |
+| 367 | 138 | Gursharan Sandhu |
+| 368 | 138 | King Shamell Young |
 | 369 | 138 | Leah |
 | 370 | 138 | Ibiza Carolina LaRose |
 | 371 | 137 | Bette Prieto |
 | 372 | 135 | Robin L. Vial |
-| 373 | 135 | Michelle Loar |
-| 374 | 135 | Yemaja Obba Olokun |
+| 373 | 135 | Yemaja Obba Olokun |
+| 374 | 135 | Michelle Loar |
 | 375 | 134 | Candace Noel |
 | 376 | 134 | Christina Jones |
 | 377 | 134 | ruth |
