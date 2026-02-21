@@ -93,8 +93,8 @@
 | 85 | 454 | Brandon Green |
 | 86 | 447 | Mykal Burton |
 | 87 | 446 | Danielle Rhoades |
-| 88 | 445 | Silly Twist |
-| 89 | 445 | Kristie McFarland |
+| 88 | 445 | Kristie McFarland |
+| 89 | 445 | Silly Twist |
 | 90 | 442 | Christine Niles |
 | 91 | 430 | Patricia White |
 | 92 | 425 | Patty Allen |
@@ -128,8 +128,8 @@
 | 120 | 343 | Chasity |
 | 121 | 327 | Dapper Snap |
 | 122 | 324 | Fancy Cascader |
-| 123 | 323 | Sherry Ogden |
-| 124 | 323 | Ashley Raines |
+| 123 | 323 | Ashley Raines |
+| 124 | 323 | Sherry Ogden |
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |

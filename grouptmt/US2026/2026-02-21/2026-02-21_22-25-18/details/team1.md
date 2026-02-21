@@ -140,8 +140,8 @@
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Jennifer Olewnik Soborowski |
 | 134 | 182 | Spunky Piecebuilder |
-| 135 | 180 | BigWeenie69 |
-| 136 | 180 | Erez Yosef |
+| 135 | 180 | Erez Yosef |
+| 136 | 180 | BigWeenie69 |
 | 137 | 179 | Danielle Little-Daugherty |
 | 138 | 178 | Michael |
 | 139 | 178 | Chad Atchley |
@@ -1328,8 +1328,8 @@
 | 1320 | 6 | Mighty Patternline |
 | 1321 | 6 | Kelsey Baumer |
 | 1322 | 6 | Vicky Meanor |
-| 1323 | 6 | Manifold |
-| 1324 | 6 | Kelsey Baumer |
+| 1323 | 6 | Fatty Davis |
+| 1324 | 6 | ~Tintta~ |
 | 1325 | 6 | Mary Kaniuha |
 | 1326 | 6 | Jaime Sunshine |
 | 1327 | 6 | Dreamy Linkblock |
