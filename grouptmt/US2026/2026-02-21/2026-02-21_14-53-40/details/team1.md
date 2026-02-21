@@ -103,8 +103,8 @@
 | 95 | 173 | june october |
 | 96 | 171 | Greg Premoe |
 | 97 | 166 | Rico Rico |
-| 98 | 165 | GATOR |
-| 99 | 165 | Veronica Eve |
+| 98 | 165 | Veronica Eve |
+| 99 | 165 | GATOR |
 | 100 | 163 | Chad Atchley |
 | 101 | 162 | Tyler Whitley |
 | 102 | 161 | Abbey Crespo |
@@ -152,8 +152,8 @@
 | 144 | 124 | Cartier |
 | 145 | 123 | Kimberly Garcia |
 | 146 | 121 | Bouncy Grid |
-| 147 | 120 | Alenoush Karimian |
-| 148 | 120 | Kimmie Kimms |
+| 147 | 120 | Kimmie Kimms |
+| 148 | 120 | Alenoush Karimian |
 | 149 | 119 | April Carroll |
 | 150 | 119 | Tater |
 | 151 | 118 | Barry Mac'Ockner |

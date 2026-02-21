@@ -139,8 +139,8 @@
 | 131 | 631 | Peppy Zone |
 | 132 | 620 | BYM4L |
 | 133 | 619 | Jamie Otero |
-| 134 | 608 | John Bednarik |
-| 135 | 608 | Sommer Shope |
+| 134 | 608 | Sommer Shope |
+| 135 | 608 | John Bednarik |
 | 136 | 604 | Amber Shoemaker |
 | 137 | 603 | Cassie Maynard |
 | 138 | 602 | L3sli3 |
@@ -319,8 +319,8 @@
 | 311 | 312 | Andrea Maher |
 | 312 | 311 | Véronique Lévesque Sabourin |
 | 313 | 310 | Brandy Andre |
-| 314 | 309 | Ginger |
-| 315 | 309 | Oscar Bernie |
+| 314 | 309 | Oscar Bernie |
+| 315 | 309 | Ginger |
 | 316 | 309 | James Zaragoza |
 | 317 | 306 | Kristopher Miller |
 | 318 | 305 | Zany Clusterbuilder |
@@ -505,8 +505,8 @@
 | 497 | 199 | Alyssa Nadine Medelez |
 | 498 | 198 | Angie Bolton Workman |
 | 499 | 198 | Alyssa Dean |
-| 500 | 197 | Kati Russeau |
-| 501 | 197 | Jelly |
+| 500 | 197 | Jelly |
+| 501 | 197 | Kati Russeau |
 | 502 | 196 | Zak Dunn |
 | 503 | 196 | Tony Lea |
 | 504 | 196 | Alexandra Reese |
@@ -589,8 +589,8 @@
 | 581 | 169 | Sassy Linkroll |
 | 582 | 169 | Josh Dill |
 | 583 | 168 | Joel Rosado |
-| 584 | 168 | Nicol Craven |
-| 585 | 168 | Phil J. Grombliniak |
+| 584 | 168 | Phil J. Grombliniak |
+| 585 | 168 | Nicol Craven |
 | 586 | 167 | mshir |
 | 587 | 167 | Sabrena Yeisley |
 | 588 | 166 | Rhonda Petro |
@@ -600,8 +600,8 @@
 | 592 | 165 | Catherine Varea |
 | 593 | 164 | Sara Pennington |
 | 594 | 164 | Jessica Vega |
-| 595 | 163 | Tiffney Wroten |
-| 596 | 163 | Danielle Ayoub |
+| 595 | 163 | Danielle Ayoub |
+| 596 | 163 | Tiffney Wroten |
 | 597 | 163 | RetroLemur |
 | 598 | 163 | Angelica |
 | 599 | 162 | LC Hamilton |
@@ -997,8 +997,8 @@
 | 989 | 104 | Danni Lynne Chauncey |
 | 990 | 104 | Harley Williams |
 | 991 | 104 | sup |
-| 992 | 104 | Chelsea Gutierrez |
-| 993 | 104 | Jennifer Scott |
+| 992 | 104 | Jennifer Scott |
+| 993 | 104 | Chelsea Gutierrez |
 | 994 | 104 | Jessica Conaway |
 | 995 | 103 | Andrew Willis |
 | 996 | 103 | Melissa Gates |

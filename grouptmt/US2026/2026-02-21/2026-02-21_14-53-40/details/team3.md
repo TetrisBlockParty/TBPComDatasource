@@ -149,8 +149,8 @@
 | 141 | 193 | Duane Bright |
 | 142 | 191 | Giddy Twistbuilder |
 | 143 | 191 | Scott Carleton |
-| 144 | 189 | Angela M. Fletcher |
-| 145 | 189 | Sissy Lowery Davis |
+| 144 | 189 | Sissy Lowery Davis |
+| 145 | 189 | Angela M. Fletcher |
 | 146 | 189 | Staci George Fitzsimmons |
 | 147 | 189 | Fallorina Susana |
 | 148 | 188 | Morgan Martinez |
