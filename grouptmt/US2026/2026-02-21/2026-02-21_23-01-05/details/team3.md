@@ -131,15 +131,15 @@
 | 123 | 348 | CeceGeGe |
 | 124 | 347 | Darlene McMillan |
 | 125 | 343 | Chasity |
-| 126 | 328 | Aaron Pitkin |
-| 127 | 328 | Jeni Dow |
+| 126 | 328 | Jeni Dow |
+| 127 | 328 | Aaron Pitkin |
 | 128 | 327 | Dapper Snap |
 | 129 | 324 | Fancy Cascader |
 | 130 | 323 | Ashley Raines |
 | 131 | 320 | Or Reznitsky |
 | 132 | 309 | Rich LeBlanc |
-| 133 | 307 | Blocked |
-| 134 | 307 | Peggi Charon |
+| 133 | 307 | Peggi Charon |
+| 134 | 307 | Blocked |
 | 135 | 300 | Sherika C. McDaniels |
 | 136 | 293 | Poppy Splitter |
 | 137 | 290 | Logan Naccarato |
@@ -194,15 +194,15 @@
 | 186 | 211 | Katrina Turner |
 | 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Chris Bell |
-| 190 | 207 | Jessica |
+| 189 | 207 | Jessica |
+| 190 | 207 | Chris Bell |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |
 | 194 | 201 | IamJust Neyamijah Washington Sr. |
 | 195 | 201 | Karon Griffin |
-| 196 | 200 | Sharisse Baltimore |
-| 197 | 200 | glichmod |
+| 196 | 200 | glichmod |
+| 197 | 200 | Sharisse Baltimore |
 | 198 | 197 | Staci George Fitzsimmons |
 | 199 | 195 | Nicha Hooker |
 | 200 | 193 | Angie Harper |
@@ -238,8 +238,8 @@
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | Emma |
-| 234 | 169 | BŘŰŤİÇŨŚ |
+| 233 | 169 | BŘŰŤİÇŨŚ |
+| 234 | 169 | Emma |
 | 235 | 168 | MsBee |
 | 236 | 166 | Beth Ingham |
 | 237 | 166 | Betty Rosas |
@@ -260,9 +260,9 @@
 | 252 | 155 | Loopy Fallzone |
 | 253 | 154 | Valerie Gendron |
 | 254 | 154 | Desiree Gold |
-| 255 | 153 | Cozy Snaplink |
-| 256 | 153 | Sheila M Frazier |
-| 257 | 153 | Rachel Napper |
+| 255 | 153 | Sheila M Frazier |
+| 256 | 153 | Rachel Napper |
+| 257 | 153 | Cozy Snaplink |
 | 258 | 152 | Shiny Zonebuilder |
 | 259 | 152 | Lesley Perez |
 | 260 | 150 | Steffi Chris Dacones |

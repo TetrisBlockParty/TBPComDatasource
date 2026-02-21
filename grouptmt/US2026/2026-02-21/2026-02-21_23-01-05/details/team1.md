@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Cody Slav |
-| 45 | 503 | Redlicious 1 |
+| 44 | 503 | Redlicious 1 |
+| 45 | 503 | Cody Slav |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Trina Gee |
-| 67 | 348 | Stef Hu |
+| 66 | 348 | Stef Hu |
+| 67 | 348 | Trina Gee |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -109,10 +109,10 @@
 | 101 | 252 | Dena Kayy |
 | 102 | 249 | Elaine Elaine |
 | 103 | 244 | Franswa |
-| 104 | 240 | Tana |
-| 105 | 240 | Chelsea Dahlquist |
-| 106 | 238 | Steve Schneider |
-| 107 | 238 | John J. Cronin |
+| 104 | 240 | Chelsea Dahlquist |
+| 105 | 240 | Tana |
+| 106 | 238 | John J. Cronin |
+| 107 | 238 | Steve Schneider |
 | 108 | 237 | Seante Bullock |
 | 109 | 230 | Frothy Pattern |
 | 110 | 228 | Trippy Redd |
@@ -121,8 +121,8 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Jaimie Lynn |
-| 117 | 212 | Mandyy Rae |
+| 116 | 212 | Mandyy Rae |
+| 117 | 212 | Jaimie Lynn |
 | 118 | 211 | Marianita Garcia |
 | 119 | 208 | MRdot Rooski |
 | 120 | 207 | Leslie Bush Yarbrough |
@@ -130,8 +130,8 @@
 | 122 | 203 | GATOR |
 | 123 | 203 | Giggly Builderline |
 | 124 | 198 | Happy Snapbuild |
-| 125 | 194 | Tyler Werts |
-| 126 | 194 | Ash Galvan |
+| 125 | 194 | Ash Galvan |
+| 126 | 194 | Tyler Werts |
 | 127 | 193 | Lachelle Dillon |
 | 128 | 192 | Jessica Sheehan |
 | 129 | 192 | Spunky Piecebuilder |

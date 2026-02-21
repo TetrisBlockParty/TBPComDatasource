@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | Marie-Pier Desjardins |
-| 68 | 376 | quicksand420 |
+| 67 | 376 | quicksand420 |
+| 68 | 376 | Marie-Pier Desjardins |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -133,13 +133,13 @@
 | 125 | 196 | Jeff Brian Gates |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Calvin Dennis |
-| 129 | 189 | Stacey Stano |
+| 128 | 189 | Stacey Stano |
+| 129 | 189 | Calvin Dennis |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |
-| 133 | 185 | Andy Cabral |
-| 134 | 185 | Malakai Darien Fox |
+| 133 | 185 | Malakai Darien Fox |
+| 134 | 185 | Andy Cabral |
 | 135 | 184 | Justin Hannigan |
 | 136 | 181 | Andria Lynn |
 | 137 | 181 | Carter Jones |
@@ -152,8 +152,8 @@
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
-| 147 | 164 | ThaEviLJeNiuZ |
-| 148 | 164 | 030Synner |
+| 147 | 164 | 030Synner |
+| 148 | 164 | ThaEviLJeNiuZ |
 | 149 | 160 | ZeeZee |
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
@@ -181,8 +181,8 @@
 | 173 | 136 | Sarah Brown |
 | 174 | 136 | Chaz |
 | 175 | 135 | Victoria Faniel |
-| 176 | 134 | Kim Klutz Olson |
-| 177 | 134 | Chirpy Basepiece |
+| 176 | 134 | Chirpy Basepiece |
+| 177 | 134 | Kim Klutz Olson |
 | 178 | 133 | Angela Geist Jusinski |
 | 179 | 133 | Mary Ann Pabukis |
 | 180 | 132 | Melissa Priest Sellers |
@@ -245,9 +245,9 @@
 | 237 | 108 | Rebecca Morris |
 | 238 | 108 | Ali Ian |
 | 239 | 107 | Sam Bishop |
-| 240 | 106 | Brandi Durig |
-| 241 | 106 | Scott Jameson |
-| 242 | 106 | Zappy Snaplink |
+| 240 | 106 | Scott Jameson |
+| 241 | 106 | Zappy Snaplink |
+| 242 | 106 | Brandi Durig |
 | 243 | 105 | Kim Hunt |
 | 244 | 104 | Chris Alexinas |
 | 245 | 104 | Cheery Risebuilder |
@@ -278,8 +278,8 @@
 | 270 | 96 | Sammy Noguera |
 | 271 | 95 | Tina Martinez |
 | 272 | 95 | Patron Anderson |
-| 273 | 94 | Madison Sweere |
-| 274 | 94 | DonMega |
+| 273 | 94 | DonMega |
+| 274 | 94 | Madison Sweere |
 | 275 | 94 | Christina Black |
 | 276 | 93 | No Strings Attached Ra |
 | 277 | 92 | TRCuse |

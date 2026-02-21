@@ -122,8 +122,8 @@
 | 114 | 1000 | Megan Ferguson Leone |
 | 115 | 995 | Samantha Roberts |
 | 116 | 986 | RAEPR05 |
-| 117 | 983 | Adam Erikson |
-| 118 | 983 | Anna Edwards |
+| 117 | 983 | Anna Edwards |
+| 118 | 983 | Adam Erikson |
 | 119 | 973 | Janel Turley-Garner |
 | 120 | 973 | Kim Dean |
 | 121 | 964 | Poppy Snapper |
@@ -558,8 +558,8 @@
 | 550 | 272 | Kathryn Townsley |
 | 551 | 271 | Ann Marie Davis |
 | 552 | 270 | Tim Dyer |
-| 553 | 270 | Santana Miyagi |
-| 554 | 270 | Katrina Weston |
+| 553 | 270 | Katrina Weston |
+| 554 | 270 | Santana Miyagi |
 | 555 | 269 | Gauri Shrotriya |
 | 556 | 269 | Reece Smith |
 | 557 | 269 | Susan Arnburg |
@@ -576,8 +576,8 @@
 | 568 | 263 | Alyssia Tancredi |
 | 569 | 263 | Sara Pennington |
 | 570 | 262 | Taren Cowan |
-| 571 | 262 | Jackie Lucas |
-| 572 | 262 | Sarah block |
+| 571 | 262 | Sarah block |
+| 572 | 262 | Jackie Lucas |
 | 573 | 261 | MrsClaudette Will'sIam Matthews |
 | 574 | 261 | Fancy Twister |
 | 575 | 261 | Maria Hammett |
