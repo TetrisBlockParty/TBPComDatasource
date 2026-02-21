@@ -178,8 +178,8 @@
 | 170 | 563 | goofinoff |
 | 171 | 563 | Jumpy Gridpiece |
 | 172 | 561 | Maria Escobar |
-| 173 | 549 | Kaylee McCafferty |
-| 174 | 549 | Charvi' Carter |
+| 173 | 549 | Charvi' Carter |
+| 174 | 549 | Kaylee McCafferty |
 | 175 | 545 | Leslie Ann Carter |
 | 176 | 543 | Diana Fitzwater |
 | 177 | 541 | SaraMarie Eveland |
@@ -313,8 +313,8 @@
 | 305 | 353 | Cheery Matchzone |
 | 306 | 352 | Juanita Lyons |
 | 307 | 352 | ruth |
-| 308 | 351 | Maegan Beaule |
-| 309 | 351 | Davetta Sanford |
+| 308 | 351 | Davetta Sanford |
+| 309 | 351 | Maegan Beaule |
 | 310 | 350 | Chris Harr |
 | 311 | 348 | Richard Horton |
 | 312 | 348 | Alexandra Weir |

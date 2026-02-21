@@ -63,8 +63,8 @@
 | 55 | 341 | Clarence Patawaran |
 | 56 | 309 | Lisa Davis |
 | 57 | 308 | Jen Allison |
-| 58 | 300 | David Lay |
-| 59 | 300 | Jason Hart |
+| 58 | 300 | Jason Hart |
+| 59 | 300 | David Lay |
 | 60 | 299 | Livvy |
 | 61 | 295 | Latisha Davis |
 | 62 | 293 | HastyGrabber |
@@ -111,15 +111,15 @@
 | 103 | 177 | Andria Lynn |
 | 104 | 176 | Justin Hannigan |
 | 105 | 174 | Zethra Prenisha Rahming |
-| 106 | 173 | blockstar |
-| 107 | 173 | Ren Mc |
+| 106 | 173 | Ren Mc |
+| 107 | 173 | blockstar |
 | 108 | 170 | Girl |
 | 109 | 167 | Denise Carlson |
 | 110 | 164 | ThaEviLJeNiuZ |
 | 111 | 162 | Peachy Fall |
-| 112 | 160 | Stacey Stano |
-| 113 | 160 | Crystal Carroll |
-| 114 | 160 | ZeeZee |
+| 112 | 160 | ZeeZee |
+| 113 | 160 | Stacey Stano |
+| 114 | 160 | Crystal Carroll |
 | 115 | 157 | quicksand420 |
 | 116 | 156 | Holly |
 | 117 | 153 | Empress Oasis |
@@ -130,14 +130,14 @@
 | 122 | 148 | Brittany Marsh |
 | 123 | 147 | 030Synner |
 | 124 | 147 | Jay28 |
-| 125 | 147 | 030Synner |
+| 125 | 147 | Chair |
 | 126 | 146 | Klo |
-| 127 | 144 | Mr. Party |
-| 128 | 144 | Shainne Brewer |
+| 127 | 144 | Shainne Brewer |
+| 128 | 144 | Mr. Party |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Serena Goodridge |
 | 135 | 136 | Tanner Lund |

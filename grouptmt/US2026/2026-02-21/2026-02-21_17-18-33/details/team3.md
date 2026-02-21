@@ -117,8 +117,8 @@
 | 109 | 309 | CeceGeGe |
 | 110 | 307 | Blocked |
 | 111 | 307 | Peggi Charon |
-| 112 | 300 | Sherika C. McDaniels |
-| 113 | 300 | Tessina Dewey-Mancino |
+| 112 | 300 | Tessina Dewey-Mancino |
+| 113 | 300 | Sherika C. McDaniels |
 | 114 | 293 | Poppy Splitter |
 | 115 | 284 | Jay Horn |
 | 116 | 277 | Logan Naccarato |
@@ -180,8 +180,8 @@
 | 172 | 178 | AlsoJess |
 | 173 | 178 | Khaleada McGill Banks |
 | 174 | 178 | Ryan Williams |
-| 175 | 176 | Trisha Balmer |
-| 176 | 176 | Nikki Pags |
+| 175 | 176 | Nikki Pags |
+| 176 | 176 | Trisha Balmer |
 | 177 | 175 | DanceLuvLaugh |
 | 178 | 174 | rosy |
 | 179 | 174 | Danielle Mogg |
@@ -208,8 +208,8 @@
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
-| 203 | 152 | Katrina E Jelks |
-| 204 | 152 | Cozy Snaplink |
+| 203 | 152 | Cozy Snaplink |
+| 204 | 152 | Katrina E Jelks |
 | 205 | 151 | MsBee |
 | 206 | 151 | Brenda Lee Vander Molen |
 | 207 | 150 | Desiree Gold |
@@ -228,11 +228,11 @@
 | 220 | 145 | Emma |
 | 221 | 145 | Bryan Byrd |
 | 222 | 142 | Jl |
-| 223 | 142 | Erica Anderson |
-| 224 | 142 | David Bardo |
+| 223 | 142 | David Bardo |
+| 224 | 142 | Erica Anderson |
 | 225 | 138 | Boldy Corner |
-| 226 | 137 | Cheryl Hinch Tenbrook |
-| 227 | 137 | Joy Petroski |
+| 226 | 137 | Joy Petroski |
+| 227 | 137 | Cheryl Hinch Tenbrook |
 | 228 | 135 | Erykah |
 | 229 | 134 | Skinny Baldez |
 | 230 | 133 | Terry Jo Jones |

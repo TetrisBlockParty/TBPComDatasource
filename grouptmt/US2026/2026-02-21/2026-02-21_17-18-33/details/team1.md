@@ -37,8 +37,8 @@
 | 29 | 516 | comrade fish |
 | 30 | 511 | Jen Sartain |
 | 31 | 510 | Colena Davenport |
-| 32 | 508 | Michelle Nicole |
-| 33 | 508 | Lawrence Belanger |
+| 32 | 508 | Lawrence Belanger |
+| 33 | 508 | Michelle Nicole |
 | 34 | 486 | Sevens4L |
 | 35 | 483 | Ryan Lunnin |
 | 36 | 466 | Kathi Snustad |
@@ -127,11 +127,11 @@
 | 119 | 156 | Jessie Lynn |
 | 120 | 155 | Cece Ibarra |
 | 121 | 153 | Shiny Gridmatch |
-| 122 | 152 | Jacqueline Unique |
-| 123 | 152 | Speedy Snapfall |
+| 122 | 152 | Speedy Snapfall |
+| 123 | 152 | Jacqueline Unique |
 | 124 | 150 | Adele Rahman |
-| 125 | 149 | Jennifer ManWarren |
-| 126 | 149 | Arianna O'Brien |
+| 125 | 149 | Arianna O'Brien |
+| 126 | 149 | Jennifer ManWarren |
 | 127 | 148 | Shauntina Burke |
 | 128 | 146 | Christy Jones |
 | 129 | 146 | Irual Hctrab |
@@ -149,8 +149,8 @@
 | 141 | 138 | Gary Gobin |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Giddy Cascade |
-| 145 | 135 | Cody Slav |
+| 144 | 135 | Cody Slav |
+| 145 | 135 | Giddy Cascade |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Cody Gates |
