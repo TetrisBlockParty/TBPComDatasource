@@ -122,8 +122,8 @@
 | 114 | 59 | Jasmine S Caldwell |
 | 115 | 59 | Chaz Duncan |
 | 116 | 58 | Autumn Kumzi |
-| 117 | 57 | Carlos G Reyes |
-| 118 | 57 | Stephanie Jones |
+| 117 | 57 | Stephanie Jones |
+| 118 | 57 | Carlos G Reyes |
 | 119 | 57 | Justin Hannigan |
 | 120 | 56 | Cj Lewis-haut |
 | 121 | 56 | Maureen Flanigan |
@@ -172,7 +172,7 @@
 | 164 | 44 | zelda Morgan |
 | 165 | 44 | Mary Miller |
 | 166 | 44 | Elie Pean |
-| 167 | 44 | Mary Miller |
+| 167 | 44 | Peachy Fall |
 | 168 | 43 | Bethany Ison |
 | 169 | 43 | Tanner Lund |
 | 170 | 43 | Snappy Combofall |

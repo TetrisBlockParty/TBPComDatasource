@@ -62,8 +62,8 @@
 | 54 | 119 | Irual Hctrab |
 | 55 | 117 | David DeSantis |
 | 56 | 116 | Kristen Roles Robben |
-| 57 | 114 | Colleen Wise |
-| 58 | 114 | Giddy Cascade |
+| 57 | 114 | Giddy Cascade |
+| 58 | 114 | Colleen Wise |
 | 59 | 112 | Miguel Teixeira |
 | 60 | 112 | Nicole Roseberry Weber |
 | 61 | 110 | Heidi Feurer |

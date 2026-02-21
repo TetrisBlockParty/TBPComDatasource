@@ -230,8 +230,8 @@
 | 222 | 184 | Jumpy Gridpiece |
 | 223 | 182 | Mema |
 | 224 | 182 | Mindy Leigh Head |
-| 225 | 181 | Julay |
-| 226 | 181 | Jordan Petro |
+| 225 | 181 | Jordan Petro |
+| 226 | 181 | Julay |
 | 227 | 180 | Peter Palestino |
 | 228 | 179 | Desiree Harris Rosch |
 | 229 | 179 | Cat |
