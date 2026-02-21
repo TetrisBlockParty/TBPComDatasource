@@ -118,8 +118,8 @@
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
 | 112 | 771 | Terri McKelvey McKinley |
-| 113 | 763 | Robin Kerby |
-| 114 | 763 | Samantha Jo |
+| 113 | 763 | Samantha Jo |
+| 114 | 763 | Robin Kerby |
 | 115 | 759 | Jose Mendoza |
 | 116 | 756 | Stephanie Neuburger |
 | 117 | 751 | Loony Snapper |
@@ -297,8 +297,8 @@
 | 289 | 372 | Ellie Jonas |
 | 290 | 369 | Tara Lynn Janes |
 | 291 | 367 | Deyawn Smith |
-| 292 | 366 | Wuntayk |
-| 293 | 366 | Mike Aprilliano |
+| 292 | 366 | Mike Aprilliano |
+| 293 | 366 | Wuntayk |
 | 294 | 366 | ShinyRose |
 | 295 | 365 | Audrey Jones |
 | 296 | 365 | Christina Lewis-Vickers |
@@ -449,8 +449,8 @@
 | 441 | 256 | Alishac Marie |
 | 442 | 256 | Quirky Twistline |
 | 443 | 256 | Tee Jaleesa |
-| 444 | 254 | Rose Fx |
-| 445 | 254 | Elizabeth Diraffaele |
+| 444 | 254 | Elizabeth Diraffaele |
+| 445 | 254 | Rose Fx |
 | 446 | 254 | Julie Hamilton |
 | 447 | 253 | Tansaria Couch-Butler |
 | 448 | 253 | Kimmy Newman |

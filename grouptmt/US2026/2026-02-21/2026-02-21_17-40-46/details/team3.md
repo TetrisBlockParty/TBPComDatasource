@@ -61,8 +61,8 @@
 | 53 | 553 | Rachael McClain Owens |
 | 54 | 533 | Cherry Parker |
 | 55 | 533 | Sarah Fehring |
-| 56 | 528 | Giddy Drop |
-| 57 | 528 | Natasha Jones |
+| 56 | 528 | Natasha Jones |
+| 57 | 528 | Giddy Drop |
 | 58 | 520 | Gracie |
 | 59 | 506 | Dan Rob |
 | 60 | 493 | Mandy Smith Oldham |
@@ -391,13 +391,13 @@
 | 383 | 81 | Joseph Vargas |
 | 384 | 81 | Katheline Lazo Luizaga |
 | 385 | 80 | Nicole Summers-Nelson |
-| 386 | 80 | Josh Borquez |
-| 387 | 80 | Vixen Queen |
+| 386 | 80 | Vixen Queen |
+| 387 | 80 | Josh Borquez |
 | 388 | 80 | Me,Him,Yu |
 | 389 | 79 | Bleu Sun Beams |
-| 390 | 79 | Jessie Chung |
-| 391 | 79 | Brittany K Ward |
-| 392 | 79 | fraulila |
+| 390 | 79 | Brittany K Ward |
+| 391 | 79 | fraulila |
+| 392 | 79 | Jessie Chung |
 | 393 | 78 | Ky |
 | 394 | 78 | Nena Somerville Kelly |
 | 395 | 78 | Clever Patterner |

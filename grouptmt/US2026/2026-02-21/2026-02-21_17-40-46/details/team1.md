@@ -32,15 +32,15 @@
 | 24 | 590 | Robert Beck |
 | 25 | 547 | Marianne Louise West |
 | 26 | 543 | Aaron Garnett |
-| 27 | 541 | Jorge Andrade |
-| 28 | 541 | Drew Magnus |
+| 27 | 541 | Drew Magnus |
+| 28 | 541 | Jorge Andrade |
 | 29 | 521 | Hyp James NObettadanluvarat |
 | 30 | 517 | Felicia Lewis |
 | 31 | 516 | comrade fish |
 | 32 | 511 | Jen Sartain |
 | 33 | 510 | Colena Davenport |
-| 34 | 508 | Lawrence Belanger |
-| 35 | 508 | Michelle Nicole |
+| 34 | 508 | Michelle Nicole |
+| 35 | 508 | Lawrence Belanger |
 | 36 | 505 | Jennifer Cates |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |

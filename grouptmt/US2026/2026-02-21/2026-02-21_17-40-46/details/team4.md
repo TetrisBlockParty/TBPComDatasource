@@ -134,8 +134,8 @@
 | 126 | 147 | 030Synner |
 | 127 | 147 | Nugget |
 | 128 | 146 | Klo |
-| 129 | 144 | Shainne Brewer |
-| 130 | 144 | Mr. Party |
+| 129 | 144 | Mr. Party |
+| 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
 | 132 | 140 | Jenna McGeorge |
 | 133 | 140 | Shannon Ferrari |
@@ -222,8 +222,8 @@
 | 214 | 95 | Berklie Apedaile |
 | 215 | 95 | Meagan Nicole |
 | 216 | 94 | DonMega |
-| 217 | 94 | Mary Ann Pabukis |
-| 218 | 94 | Chastity Mitchell |
+| 217 | 94 | Chastity Mitchell |
+| 218 | 94 | Mary Ann Pabukis |
 | 219 | 94 | Kim Hunt |
 | 220 | 93 | Matt Dell'Olio |
 | 221 | 93 | Bradley Reeves |
