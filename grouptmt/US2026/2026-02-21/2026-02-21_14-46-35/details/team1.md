@@ -43,8 +43,8 @@
 | 35 | 382 | Lori Sanders- Davis |
 | 36 | 380 | Robert Beck |
 | 37 | 363 | Angel Fowler |
-| 38 | 348 | Chipper Gridlock |
-| 39 | 348 | Stef Hu |
+| 38 | 348 | Stef Hu |
+| 39 | 348 | Chipper Gridlock |
 | 40 | 345 | Adryane Schnase |
 | 41 | 338 | Stephanie Zahn |
 | 42 | 337 | Jacqueline Williams |
@@ -61,8 +61,8 @@
 | 53 | 270 | Shauna Loe |
 | 54 | 267 | Redlicious 1 |
 | 55 | 257 | Sarah Roberts |
-| 56 | 256 | Robert Benito |
-| 57 | 256 | Tipsy Column |
+| 56 | 256 | Tipsy Column |
+| 57 | 256 | Robert Benito |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
 | 60 | 244 | Franswa |
@@ -75,8 +75,8 @@
 | 67 | 216 | Dee Perry |
 | 68 | 212 | Jaimie Lynn |
 | 69 | 211 | Marianita Garcia |
-| 70 | 208 | Mandyy Rae |
-| 71 | 208 | Carrie Beck Geartz |
+| 70 | 208 | Carrie Beck Geartz |
+| 71 | 208 | Mandyy Rae |
 | 72 | 205 | Trippy Redd |
 | 73 | 204 | Ly Phethmany |
 | 74 | 204 | Lexuriuos Lifestlye |
@@ -113,8 +113,8 @@
 | 105 | 155 | David DeSantis |
 | 106 | 155 | Cece Ibarra |
 | 107 | 153 | Shiny Gridmatch |
-| 108 | 153 | Tanya Carpenter-Reynolds |
-| 109 | 153 | TSwag |
+| 108 | 153 | TSwag |
+| 109 | 153 | Tanya Carpenter-Reynolds |
 | 110 | 152 | Jacqueline Unique |
 | 111 | 149 | Arianna O'Brien |
 | 112 | 149 | Tana |

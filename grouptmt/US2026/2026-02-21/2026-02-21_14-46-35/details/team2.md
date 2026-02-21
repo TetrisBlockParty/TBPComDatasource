@@ -121,8 +121,8 @@
 | 113 | 700 | Vincent Petrella |
 | 114 | 698 | Lola Contreras |
 | 115 | 694 | Nika Bee |
-| 116 | 694 | Nancy Reid |
-| 117 | 694 | Vo'Landa Reels |
+| 116 | 694 | Vo'Landa Reels |
+| 117 | 694 | Nancy Reid |
 | 118 | 693 | YiFei |
 | 119 | 688 | Dreamy Blast |
 | 120 | 679 | Gold Rose |
@@ -199,8 +199,8 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ryan Gunther |
-| 195 | 464 | Ariel |
+| 194 | 464 | Ariel |
+| 195 | 464 | Ryan Gunther |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
@@ -258,8 +258,8 @@
 | 250 | 364 | Shinette Dobson |
 | 251 | 363 | William Meussner |
 | 252 | 362 | AkaLefty |
-| 253 | 359 | Sue Leard |
-| 254 | 359 | Brainy Smurf |
+| 253 | 359 | Brainy Smurf |
+| 254 | 359 | Sue Leard |
 | 255 | 359 | Johnny Yeates |
 | 256 | 358 | Smashanator |
 | 257 | 358 | Alyssaaelena |
@@ -284,8 +284,8 @@
 | 276 | 338 | Lawanda Forbes |
 | 277 | 335 | Brooke Leigh Strube |
 | 278 | 334 | Moni Foxe |
-| 279 | 334 | Missie Lawson Gebhardt |
-| 280 | 334 | Felicia Lynn |
+| 279 | 334 | Felicia Lynn |
+| 280 | 334 | Missie Lawson Gebhardt |
 | 281 | 333 | Brittney Jean |
 | 282 | 333 | ShinyRose |
 | 283 | 333 | Tara Lynn Janes |
@@ -396,16 +396,16 @@
 | 388 | 256 | Alishac Marie |
 | 389 | 256 | Barbra Miller |
 | 390 | 256 | Tee Jaleesa |
-| 391 | 254 | Rose Fx |
-| 392 | 254 | Elizabeth Diraffaele |
+| 391 | 254 | Elizabeth Diraffaele |
+| 392 | 254 | Rose Fx |
 | 393 | 254 | Julie Hamilton |
 | 394 | 253 | Tansaria Couch-Butler |
 | 395 | 252 | Alyssia Tancredi |
 | 396 | 252 | Matt Johnson |
 | 397 | 251 | Ann Knutson Anderson |
 | 398 | 250 | Steve Man |
-| 399 | 249 | Porsche' Nicole |
-| 400 | 249 | Nicky Jackson |
+| 399 | 249 | Nicky Jackson |
+| 400 | 249 | Porsche' Nicole |
 | 401 | 248 | Aimee Byrom |
 | 402 | 248 | Bubbly Snapfit |
 | 403 | 248 | Maddy Petersen |
@@ -448,9 +448,9 @@
 | 440 | 227 | JacJac |
 | 441 | 226 | Jodi Mitnick |
 | 442 | 226 | Mary Marie |
-| 443 | 226 | Christina Wsn |
-| 444 | 226 | Juliana Marques Do Nascimento Gordy |
-| 445 | 226 | Morgan Easter |
+| 443 | 226 | Juliana Marques Do Nascimento Gordy |
+| 444 | 226 | Morgan Easter |
+| 445 | 226 | Christina Wsn |
 | 446 | 224 | Besma Ao |
 | 447 | 224 | Alice Ball |
 | 448 | 224 | Ashle Scranton |
@@ -900,7 +900,7 @@
 | 892 | 116 | Meganator42 |
 | 893 | 115 | Melissa Schwager |
 | 894 | 115 | Angela KaplaSchwahn |
-| 895 | 115 | Mikey |
+| 895 | 115 | AsnPryBoy83 |
 | 896 | 115 | Jroc |
 | 897 | 115 | Mikey |
 | 898 | 114 | Jadelynn Sarbacher |

@@ -222,8 +222,8 @@
 | 214 | 127 | Jennifer Alvey |
 | 215 | 126 | Brandon Givens |
 | 216 | 125 | Felicia Doxey |
-| 217 | 125 | Darlene McMillan |
-| 218 | 125 | Shimika Enay Wallace |
+| 217 | 125 | Shimika Enay Wallace |
+| 218 | 125 | Darlene McMillan |
 | 219 | 124 | Funky Jumper |
 | 220 | 123 | Marci Mize Fandrich |
 | 221 | 123 | Sarajane Lokan |
@@ -273,10 +273,10 @@
 | 265 | 104 | Melissa Snyder |
 | 266 | 104 | Sarah Moyer |
 | 267 | 104 | Ashley Rufus Bythcez |
-| 268 | 104 | bean |
+| 268 | 104 | Jason-Ashley Ludlow |
 | 269 | 103 | Kate Farok |
-| 270 | 103 | Wetwet |
-| 271 | 103 | BabyTonj Evans |
+| 270 | 103 | BabyTonj Evans |
+| 271 | 103 | Wetwet |
 | 272 | 102 | Christian Luna |
 | 273 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 274 | 101 | Hyper Bridger |
@@ -296,13 +296,13 @@
 | 288 | 98 | Shicken Nuggit |
 | 289 | 98 | Armi |
 | 290 | 97 | Paula Little |
-| 291 | 96 | D3NO |
-| 292 | 96 | Christopher Woost |
+| 291 | 96 | Christopher Woost |
+| 292 | 96 | D3NO |
 | 293 | 95 | Brooke Bauer |
 | 294 | 95 | FATTY |
 | 295 | 94 | Tracey Cox |
-| 296 | 93 | Martin Bernier |
-| 297 | 93 | Tiffany Ford |
+| 296 | 93 | Tiffany Ford |
+| 297 | 93 | Martin Bernier |
 | 298 | 92 | Ava Petito |
 | 299 | 92 | Melanie Sherwood |
 | 300 | 92 | Jennifer Caputo |
@@ -315,10 +315,10 @@
 | 307 | 90 | Nichole Greene |
 | 308 | 90 | Snazzy Brickzone |
 | 309 | 89 | Zac Hudak |
-| 310 | 89 | Saucy Buildout |
-| 311 | 89 | Matty Ray |
+| 310 | 89 | Matty Ray |
+| 311 | 89 | Rania Zaqout |
 | 312 | 89 | Patti Skiles |
-| 313 | 89 | Rania Zaqout |
+| 313 | 89 | Saucy Buildout |
 | 314 | 88 | RickyG |
 | 315 | 88 | Kevin Russell |
 | 316 | 88 | Dapper Towerfit |

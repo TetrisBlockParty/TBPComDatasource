@@ -126,8 +126,8 @@
 | 118 | 138 | Shainne Brewer |
 | 119 | 136 | Tanner Lund |
 | 120 | 135 | ĥuf |
-| 121 | 134 | Chirpy Basepiece |
-| 122 | 134 | Serena Goodridge |
+| 121 | 134 | Serena Goodridge |
+| 122 | 134 | Chirpy Basepiece |
 | 123 | 132 | Melissa Priest Sellers |
 | 124 | 132 | Jessica Cagle |
 | 125 | 132 | Jenna McGeorge |
