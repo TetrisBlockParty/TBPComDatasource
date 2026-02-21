@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -165,8 +165,8 @@
 | 157 | 127 | Aerian Preston |
 | 158 | 126 | Stephanie Burtin |
 | 159 | 126 | Dan Rob |
-| 160 | 125 | Felicia Doxey |
-| 161 | 125 | Shimika Enay Wallace |
+| 160 | 125 | Shimika Enay Wallace |
+| 161 | 125 | Felicia Doxey |
 | 162 | 124 | Cesar Barraza |
 | 163 | 123 | Sarajane Lokan |
 | 164 | 123 | Terry Jo Jones |
@@ -185,8 +185,8 @@
 | 177 | 115 | Jennifer Alvey |
 | 178 | 114 | Nicholas Roddy |
 | 179 | 114 | Jessica Bechler |
-| 180 | 113 | Brian Battjes |
-| 181 | 113 | Valerie Gendron |
+| 180 | 113 | Valerie Gendron |
+| 181 | 113 | Brian Battjes |
 | 182 | 110 | Tiff Vs Tiffany |
 | 183 | 110 | Tye Stovall |
 | 184 | 110 | Stella |
@@ -260,8 +260,8 @@
 | 252 | 87 | Boldy Blocker |
 | 253 | 87 | Stephanie Whitefield |
 | 254 | 87 | Kellie Montgomery |
-| 255 | 86 | Clever Clearbuilder |
-| 256 | 86 | Criss |
+| 255 | 86 | Criss |
+| 256 | 86 | Clever Clearbuilder |
 | 257 | 85 | Crystel b520 |
 | 258 | 85 | Chris Bell |
 | 259 | 84 | gremicx |

@@ -57,8 +57,8 @@
 | 49 | 205 | Trippy Redd |
 | 50 | 204 | Ly Phethmany |
 | 51 | 202 | Dee Perry |
-| 52 | 201 | Ananda Mendez |
-| 53 | 201 | Anaid Sanchez |
+| 52 | 201 | Anaid Sanchez |
+| 53 | 201 | Ananda Mendez |
 | 54 | 200 | Lexuriuos Lifestlye |
 | 55 | 198 | Billie Dawn Sparks |
 | 56 | 198 | Happy Snapbuild |
