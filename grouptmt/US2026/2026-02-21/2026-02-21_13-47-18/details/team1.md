@@ -77,10 +77,10 @@
 | 69 | 204 | Lexuriuos Lifestlye |
 | 70 | 202 | Kristen Gideon |
 | 71 | 202 | Dee Perry |
-| 72 | 201 | Ananda Mendez |
-| 73 | 201 | Anaid Sanchez |
-| 74 | 198 | Billie Dawn Sparks |
-| 75 | 198 | Happy Snapbuild |
+| 72 | 201 | Anaid Sanchez |
+| 73 | 201 | Ananda Mendez |
+| 74 | 198 | Happy Snapbuild |
+| 75 | 198 | Billie Dawn Sparks |
 | 76 | 197 | Cynthia Bradley |
 | 77 | 194 | Giggly Builderline |
 | 78 | 193 | Lachelle Dillon |
@@ -243,8 +243,8 @@
 | 235 | 74 | BadG52 |
 | 236 | 73 | Mark Smith |
 | 237 | 73 | Shanae Grant |
-| 238 | 72 | Ric Hard Hernandez |
-| 239 | 72 | Tipsy Strikerpiece |
+| 238 | 72 | Tipsy Strikerpiece |
+| 239 | 72 | Ric Hard Hernandez |
 | 240 | 71 | Loneell Hyland |
 | 241 | 70 | Kenton Billings |
 | 242 | 70 | Jennifer Duttry |
@@ -261,8 +261,8 @@
 | 253 | 68 | John Ramirez |
 | 254 | 68 | NicaOrlice |
 | 255 | 68 | Pamela Elliott |
-| 256 | 67 | Brave Slice |
-| 257 | 67 | .running. |
+| 256 | 67 | .running. |
+| 257 | 67 | Brave Slice |
 | 258 | 67 | Jasmine Riley |
 | 259 | 66 | Al Smith Jr |
 | 260 | 66 | Dede |

@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -175,8 +175,8 @@
 | 167 | 495 | Poppy Snap |
 | 168 | 488 | Teresa Gillmore |
 | 169 | 486 | MrsCandyfine As Wine Truss |
-| 170 | 485 | Leah Keesling |
-| 171 | 485 | Gene Mills |
+| 170 | 485 | Gene Mills |
+| 171 | 485 | Leah Keesling |
 | 172 | 484 | Suki Kaur |
 | 173 | 483 | Jordan Kaiser |
 | 174 | 482 | Eckoman518 |
@@ -184,8 +184,8 @@
 | 176 | 473 | Ashley Collins |
 | 177 | 470 | Jerry Tempelmeyer |
 | 178 | 469 | Ashley Rose Frederick |
-| 179 | 464 | Ariel |
-| 180 | 464 | Ryan Gunther |
+| 179 | 464 | Ryan Gunther |
+| 180 | 464 | Ariel |
 | 181 | 460 | Amélie Cadieux |
 | 182 | 460 | Cody Smith-Candelaria |
 | 183 | 456 | Drwatson187 |

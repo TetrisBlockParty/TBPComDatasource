@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Briarblack |
-| 28 | 867 | Delilah belle |
+| 27 | 867 | Delilah belle |
+| 28 | 867 | Briarblack |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Shane Wilson Jr. |
@@ -131,8 +131,8 @@
 | 123 | 204 | Aaron Pitkin |
 | 124 | 202 | Twisty Brick LT |
 | 125 | 199 | joclisa |
-| 126 | 195 | Jenny Hrndz |
-| 127 | 195 | Nicha Hooker |
+| 126 | 195 | Nicha Hooker |
+| 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
 | 130 | 193 | Clever Shiftsnap |
@@ -145,8 +145,8 @@
 | 137 | 189 | Fallorina Susana |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
-| 140 | 182 | Ashley Tookes |
-| 141 | 182 | Hyper Matchzone |
+| 140 | 182 | Hyper Matchzone |
+| 141 | 182 | Ashley Tookes |
 | 142 | 179 | Daira Largen |
 | 143 | 179 | Joye Sims Binion |
 | 144 | 178 | Khaleada McGill Banks |
@@ -166,8 +166,8 @@
 | 158 | 163 | Trisha Balmer |
 | 159 | 163 | Stephanie Hill |
 | 160 | 160 | Tiffany Davie |
-| 161 | 159 | Morgan Martinez |
-| 162 | 159 | Jone |
+| 161 | 159 | Jone |
+| 162 | 159 | Morgan Martinez |
 | 163 | 159 | Stephanie Whitefield |
 | 164 | 158 | Grams |
 | 165 | 158 | BŘŰŤİÇŨŚ |
@@ -184,8 +184,8 @@
 | 176 | 149 | Angel Mendez |
 | 177 | 149 | Bea Miles |
 | 178 | 147 | Desiree Gold |
-| 179 | 146 | Denita Mungro |
-| 180 | 146 | Latoya Mayne |
+| 179 | 146 | Latoya Mayne |
+| 180 | 146 | Denita Mungro |
 | 181 | 145 | Bryan Byrd |
 | 182 | 145 | Rochelle Hazelett |
 | 183 | 143 | Nikki Pags |
@@ -196,8 +196,8 @@
 | 188 | 140 | Carrie Huskey |
 | 189 | 137 | Aerian Preston |
 | 190 | 136 | Boldy Corner |
-| 191 | 135 | Cheryl Hinch Tenbrook |
-| 192 | 135 | Connie Mohler-Fair |
+| 191 | 135 | Connie Mohler-Fair |
+| 192 | 135 | Cheryl Hinch Tenbrook |
 | 193 | 134 | Emma |
 | 194 | 133 | Joy Petroski |
 | 195 | 131 | Jl |
