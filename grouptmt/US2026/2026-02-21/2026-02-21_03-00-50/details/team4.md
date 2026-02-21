@@ -46,8 +46,8 @@
 | 38 | 170 | Leah Kutz Zirbel |
 | 39 | 170 | Girl |
 | 40 | 168 | Anthony Magaraci |
-| 41 | 153 | Jae Job |
-| 42 | 153 | Lucille Truesdale |
+| 41 | 153 | Lucille Truesdale |
+| 42 | 153 | Jae Job |
 | 43 | 152 | Denise Carlson |
 | 44 | 149 | Courtney Cicoria |
 | 45 | 148 | Carter Jones |
@@ -91,8 +91,8 @@
 | 83 | 97 | TinyLegoRose |
 | 84 | 96 | Zappy Snaplink |
 | 85 | 92 | Kristin MacDonald |
-| 86 | 90 | ZeeZee |
-| 87 | 90 | Judy Cox |
+| 86 | 90 | Judy Cox |
+| 87 | 90 | ZeeZee |
 | 88 | 89 | Zesty Twistbuilder |
 | 89 | 88 | Heather Tushner |
 | 90 | 88 | Brandi Durig |
@@ -119,15 +119,15 @@
 | 111 | 78 | Chair |
 | 112 | 77 | Chris Alexinas |
 | 113 | 77 | Destiney Carter |
-| 114 | 76 | Jessica Miller |
-| 115 | 76 | Bethany Ison |
+| 114 | 76 | Bethany Ison |
+| 115 | 76 | Jessica Miller |
 | 116 | 75 | Rosemary Foster |
 | 117 | 75 | 🥔🥔 Spudz |
 | 118 | 73 | April Rondinone |
 | 119 | 72 | Joshua Cuellar |
 | 120 | 72 | Shukee Lo |
-| 121 | 71 | Christina Black |
-| 122 | 71 | Joseph Pace |
+| 121 | 71 | Joseph Pace |
+| 122 | 71 | Christina Black |
 | 123 | 70 | Valerie Roberts |
 | 124 | 70 | Richard-April Kice |
 | 125 | 69 | Carol Ricks Raymond |

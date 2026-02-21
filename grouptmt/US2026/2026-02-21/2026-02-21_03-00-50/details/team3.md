@@ -83,8 +83,8 @@
 | 75 | 195 | Nicha Hooker |
 | 76 | 193 | Clever Shiftsnap |
 | 77 | 193 | Shunta Jacobs |
-| 78 | 192 | Chasity |
-| 79 | 192 | Jimmie Clemons |
+| 78 | 192 | Jimmie Clemons |
+| 79 | 192 | Chasity |
 | 80 | 187 | Speedy Bridger |
 | 81 | 185 | Danielle Cutler |
 | 82 | 184 | Jennie Beranek |
@@ -178,8 +178,8 @@
 | 170 | 86 | Josiah Fam |
 | 171 | 86 | Stephanie Blkpep Davidson |
 | 172 | 85 | Sashay Tapae Simpson |
-| 173 | 85 | Kevin Russell |
-| 174 | 85 | Chris Bell |
+| 173 | 85 | Chris Bell |
+| 174 | 85 | Kevin Russell |
 | 175 | 84 | Ava Petito |
 | 176 | 84 | Kali Kelz Williams |
 | 177 | 84 | Amanda L Baker |

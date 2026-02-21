@@ -119,12 +119,12 @@
 | 111 | 81 | Blaire Bruckoff |
 | 112 | 81 | Jennifer ManWarren |
 | 113 | 80 | Larry Tilton |
-| 114 | 80 | Matt Cinelli |
-| 115 | 80 | pjbeta |
+| 114 | 80 | pjbeta |
+| 115 | 80 | Matt Cinelli |
 | 116 | 79 | LD1 |
 | 117 | 79 | Chris65 |
-| 118 | 78 | Carrie Beck Geartz |
-| 119 | 78 | Sam Williams |
+| 118 | 78 | Sam Williams |
+| 119 | 78 | Carrie Beck Geartz |
 | 120 | 77 | Teddy Alexander |
 | 121 | 76 | Kerry Lee Powell |
 | 122 | 76 | Archie Ware |
