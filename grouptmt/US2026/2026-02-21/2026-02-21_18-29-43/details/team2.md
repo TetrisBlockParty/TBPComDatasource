@@ -213,8 +213,8 @@
 | 205 | 511 | Bussyiano Page |
 | 206 | 511 | Dizzy Zone |
 | 207 | 511 | Laura Mclean |
-| 208 | 510 | Cheech Dta |
-| 209 | 510 | Lisa Ongtowasruk |
+| 208 | 510 | Lisa Ongtowasruk |
+| 209 | 510 | Cheech Dta |
 | 210 | 509 | Kelli Wells |
 | 211 | 504 | Cherica Taylor |
 | 212 | 503 | Adam Erikson |
@@ -713,8 +713,8 @@
 | 705 | 171 | Bee |
 | 706 | 171 | Kii |
 | 707 | 171 | Ashley Cooper Tharin |
-| 708 | 170 | Kenya Felix |
-| 709 | 170 | AndrewandShela Gornik |
+| 708 | 170 | AndrewandShela Gornik |
+| 709 | 170 | Kenya Felix |
 | 710 | 170 | Fae-Bulous |
 | 711 | 169 | J.L. Roberts |
 | 712 | 169 | Greenshades00 |
@@ -752,13 +752,13 @@
 | 744 | 164 | Wungun Shun |
 | 745 | 163 | Angelica |
 | 746 | 163 | Christina Jones |
-| 747 | 163 | Jacob Huffman |
-| 748 | 163 | Tiffney Wroten |
+| 747 | 163 | Tiffney Wroten |
+| 748 | 163 | Jacob Huffman |
 | 749 | 163 | Ethan Stienbarger |
 | 750 | 162 | Teddi Notyalc |
-| 751 | 162 | Nate Lee |
+| 751 | 162 | Alice Samm |
 | 752 | 162 | LC Hamilton |
-| 753 | 162 | Alice Samm |
+| 753 | 162 | Nate Lee |
 | 754 | 162 | Chirpy Snapper |
 | 755 | 161 | Patrick Fleming |
 | 756 | 161 | Crystal Herndon |
@@ -949,8 +949,8 @@
 | 941 | 132 | Joann |
 | 942 | 132 | Paula Snyder |
 | 943 | 131 | BeenRich Theceo |
-| 944 | 131 | Kerry Miller |
-| 945 | 131 | Zeleana Perry |
+| 944 | 131 | Zeleana Perry |
+| 945 | 131 | Kerry Miller |
 | 946 | 131 | Jaadd |
 | 947 | 131 | Kendall Fullerton |
 | 948 | 130 | Sandy Aragon |

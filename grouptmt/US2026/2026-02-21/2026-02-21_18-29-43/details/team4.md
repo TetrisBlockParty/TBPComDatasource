@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
-| 84 | 215 | Alyssa Papen |
-| 85 | 215 | Jae Job |
+| 84 | 215 | Jae Job |
+| 85 | 215 | Alyssa Papen |
 | 86 | 212 | Calvin Cannon |
 | 87 | 211 | Dizzy Tiley |
 | 88 | 205 | Sarah Neathery |
@@ -98,8 +98,8 @@
 | 90 | 202 | Monica Daley |
 | 91 | 201 | shar |
 | 92 | 200 | Holly Jolly |
-| 93 | 198 | Dustee Craddock-Harrison |
-| 94 | 198 | Mike Solo |
+| 93 | 198 | Mike Solo |
+| 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 196 | Jeff Brian Gates |
 | 96 | 194 | Zany Twisterfit |
 | 97 | 192 | Crystal Carroll |
@@ -115,15 +115,15 @@
 | 107 | 180 | Justin Hannigan |
 | 108 | 180 | Denise Carlson |
 | 109 | 179 | Epic Curvetile |
-| 110 | 178 | Antony Dwayne Beasley |
-| 111 | 178 | Lori |
+| 110 | 178 | Lori |
+| 111 | 178 | Antony Dwayne Beasley |
 | 112 | 177 | Andria Lynn |
 | 113 | 174 | Zethra Prenisha Rahming |
 | 114 | 173 | Ren Mc |
 | 115 | 173 | blockstar |
 | 116 | 171 | Damn Libra |
-| 117 | 170 | Peachy Fall |
-| 118 | 170 | Girl |
+| 117 | 170 | Girl |
+| 118 | 170 | Peachy Fall |
 | 119 | 164 | ThaEviLJeNiuZ |
 | 120 | 164 | shark tato |
 | 121 | 160 | ZeeZee |

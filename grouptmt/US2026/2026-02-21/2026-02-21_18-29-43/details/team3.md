@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Zippy Strikesnap |
-| 41 | 810 | Shane Wilson Jr. |
+| 40 | 810 | Shane Wilson Jr. |
+| 41 | 810 | Zippy Strikesnap |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -211,8 +211,8 @@
 | 203 | 161 | BŘŰŤİÇŨŚ |
 | 204 | 160 | Tiffany Davie |
 | 205 | 159 | Jone |
-| 206 | 157 | Nicholas Roddy |
-| 207 | 157 | Patricia Gadsden |
+| 206 | 157 | Patricia Gadsden |
+| 207 | 157 | Nicholas Roddy |
 | 208 | 157 | Marquita Sheard |
 | 209 | 156 | Bea Miles |
 | 210 | 155 | Loopy Fallzone |
@@ -235,8 +235,8 @@
 | 227 | 146 | Carrie Huskey |
 | 228 | 146 | Latoya Mayne |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Bryan Byrd |
-| 231 | 145 | Emma |
+| 230 | 145 | Emma |
+| 231 | 145 | Bryan Byrd |
 | 232 | 145 | Jeni Dow |
 | 233 | 142 | Erica Anderson |
 | 234 | 142 | David Bardo |
@@ -258,8 +258,8 @@
 | 250 | 131 | Darlene McMillan |
 | 251 | 130 | Weerae |
 | 252 | 129 | Juliana Dottore |
-| 253 | 128 | Jen Lewis |
-| 254 | 128 | MizzMonick Smith |
+| 253 | 128 | MizzMonick Smith |
+| 254 | 128 | Jen Lewis |
 | 255 | 127 | mzcatzy |
 | 256 | 126 | Pam Holt Powell |
 | 257 | 126 | Rebecca Funderburk Kirby |
