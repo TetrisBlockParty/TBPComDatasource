@@ -102,8 +102,8 @@
 | 94 | 138 | Gary Gobin |
 | 95 | 137 | Nadine Velardo |
 | 96 | 134 | Trina Gee |
-| 97 | 133 | Bhelle Sumile |
-| 98 | 133 | Brandi Huntington |
+| 97 | 133 | Brandi Huntington |
+| 98 | 133 | Bhelle Sumile |
 | 99 | 132 | Davery Spencer Adair |
 | 100 | 131 | Arianna O'Brien |
 | 101 | 130 | Dandy Basegrid |

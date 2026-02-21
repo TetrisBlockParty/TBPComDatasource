@@ -102,8 +102,8 @@
 | 94 | 239 | Lush Buildout |
 | 95 | 234 | Louise Stacy Sisson |
 | 96 | 232 | Poppy Splitter |
-| 97 | 224 | Mykal Burton |
-| 98 | 224 | Judi Dobson |
+| 97 | 224 | Judi Dobson |
+| 98 | 224 | Mykal Burton |
 | 99 | 223 | Jeana Gilbert |
 | 100 | 222 | Jimmie Clemons |
 | 101 | 218 | mjl574 |

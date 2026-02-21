@@ -96,8 +96,8 @@
 | 88 | 134 | Jessica Bohlken |
 | 89 | 134 | Chirpy Basepiece |
 | 90 | 133 | Robin Watters |
-| 91 | 132 | Jenna McGeorge |
-| 92 | 132 | Jessica Cagle |
+| 91 | 132 | Jessica Cagle |
+| 92 | 132 | Jenna McGeorge |
 | 93 | 132 | Melissa Priest Sellers |
 | 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
@@ -105,8 +105,8 @@
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | Landon Keith Graffeo |
-| 101 | 129 | John Brunetti |
+| 100 | 129 | John Brunetti |
+| 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Cherrish Duren |
 | 104 | 123 | Bubbly Puzzler |
@@ -314,8 +314,8 @@
 | 306 | 48 | Mbeth Moore |
 | 307 | 48 | Csquared812 |
 | 308 | 48 | Porkobello |
-| 309 | 47 | Amy Sanford |
-| 310 | 47 | Caitlyn Brown |
+| 309 | 47 | Caitlyn Brown |
+| 310 | 47 | Amy Sanford |
 | 311 | 47 | JEan Price |
 | 312 | 47 | Kelli Steinmetz |
 | 313 | 47 | Cursed Hag |

@@ -472,8 +472,8 @@
 | 464 | 164 | Sara Pennington |
 | 465 | 163 | Danielle Ayoub |
 | 466 | 163 | Albert McKnight |
-| 467 | 162 | Michael Artis |
-| 468 | 162 | LC Hamilton |
+| 467 | 162 | LC Hamilton |
+| 468 | 162 | Michael Artis |
 | 469 | 162 | Brenna Ann |
 | 470 | 162 | Andrea Maher |
 | 471 | 161 | Brandon McDonald |
@@ -548,10 +548,10 @@
 | 540 | 142 | Frisky Clearpiece |
 | 541 | 142 | Amy Humphreys |
 | 542 | 142 | Zachary Boyarski |
-| 543 | 142 | Melissa Kay Gibson |
-| 544 | 142 | Joy LaJeunesse |
-| 545 | 141 | Erika Meaux |
-| 546 | 141 | Monica Brown |
+| 543 | 142 | Joy LaJeunesse |
+| 544 | 142 | Melissa Kay Gibson |
+| 545 | 141 | Monica Brown |
+| 546 | 141 | Erika Meaux |
 | 547 | 141 | Markisha Poyndexter |
 | 548 | 140 | King Shamell Young |
 | 549 | 140 | Jasmine Kenney |
