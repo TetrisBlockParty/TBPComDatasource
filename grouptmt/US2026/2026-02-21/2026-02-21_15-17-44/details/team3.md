@@ -148,12 +148,12 @@
 | 140 | 195 | Nicha Hooker |
 | 141 | 194 | glichmod |
 | 142 | 193 | Stephanie Burtin |
-| 143 | 193 | Clever Shiftsnap |
-| 144 | 193 | Duane Bright |
+| 143 | 193 | Duane Bright |
+| 144 | 193 | Clever Shiftsnap |
 | 145 | 191 | Giddy Twistbuilder |
 | 146 | 191 | Scott Carleton |
-| 147 | 189 | Sissy Lowery Davis |
-| 148 | 189 | Staci George Fitzsimmons |
+| 147 | 189 | Staci George Fitzsimmons |
+| 148 | 189 | Sissy Lowery Davis |
 | 149 | 189 | Fallorina Susana |
 | 150 | 184 | Jennie Beranek |
 | 151 | 182 | Hyper Matchzone |
@@ -184,8 +184,8 @@
 | 176 | 161 | BŘŰŤİÇŨŚ |
 | 177 | 161 | Nikki Pags |
 | 178 | 160 | Tiffany Davie |
-| 179 | 159 | Stephanie Whitefield |
-| 180 | 159 | Jone |
+| 179 | 159 | Jone |
+| 180 | 159 | Stephanie Whitefield |
 | 181 | 158 | Grams |
 | 182 | 157 | Patricia Gadsden |
 | 183 | 157 | Nicholas Roddy |
@@ -200,10 +200,10 @@
 | 192 | 151 | Brenda Lee Vander Molen |
 | 193 | 150 | Nicole Myers |
 | 194 | 149 | Desiree Gold |
-| 195 | 149 | Angel Mendez |
-| 196 | 149 | Alexis Taylor |
+| 195 | 149 | Alexis Taylor |
+| 196 | 149 | Angel Mendez |
 | 197 | 146 | Latoya Mayne |
-| 198 | 146 | Denita Mungro |
+| 198 | 146 | Carrie Huskey |
 | 199 | 146 | Ashley Lynn Marchese |
 | 200 | 146 | Denita Mungro |
 | 201 | 145 | Emma |

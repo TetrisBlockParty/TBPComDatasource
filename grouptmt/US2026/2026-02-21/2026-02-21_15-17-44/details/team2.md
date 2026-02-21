@@ -302,8 +302,8 @@
 | 294 | 333 | Brittney Jean |
 | 295 | 332 | TF Dyer |
 | 296 | 331 | Shelley Thornburgh Wright |
-| 297 | 330 | Taryece Gause |
-| 298 | 330 | Victoria Moore-Smith |
+| 297 | 330 | Victoria Moore-Smith |
+| 298 | 330 | Taryece Gause |
 | 299 | 330 | Dar |
 | 300 | 329 | Jessie McDougald |
 | 301 | 329 | Nicole Cannon |
@@ -322,8 +322,8 @@
 | 314 | 315 | Alisa Lamb |
 | 315 | 314 | Amanda West |
 | 316 | 314 | NanDa Cruzan VI |
-| 317 | 312 | Michelle Pike |
-| 318 | 312 | Andrea Maher |
+| 317 | 312 | Andrea Maher |
+| 318 | 312 | Michelle Pike |
 | 319 | 311 | Véronique Lévesque Sabourin |
 | 320 | 310 | Brandy Andre |
 | 321 | 309 | Oscar Bernie |
@@ -520,11 +520,11 @@
 | 512 | 196 | Tony Lea |
 | 513 | 196 | Cass Shirley |
 | 514 | 196 | Alexandra Reese |
-| 515 | 195 | Synn |
-| 516 | 195 | Snappy Shatterfit |
+| 515 | 195 | Snappy Shatterfit |
+| 516 | 195 | Synn |
 | 517 | 195 | Darcy Mae |
-| 518 | 195 | Darlene Bowman |
-| 519 | 195 | Brenna Ann |
+| 518 | 195 | Brenna Ann |
+| 519 | 195 | Darlene Bowman |
 | 520 | 194 | Kitybox |
 | 521 | 194 | Hoppy Brickmatch |
 | 522 | 193 | Kelly Ann McCormick |
@@ -539,8 +539,8 @@
 | 531 | 186 | Kiorah Blaze |
 | 532 | 186 | Wacky Cascade |
 | 533 | 186 | Joshua Mullings |
-| 534 | 185 | Lively Edgepiece |
-| 535 | 185 | Lively Catcher |
+| 534 | 185 | Lively Catcher |
+| 535 | 185 | Lively Edgepiece |
 | 536 | 185 | Jason H Baker |
 | 537 | 185 | AgileDragon |
 | 538 | 184 | Brittany Radaszewski |
@@ -910,8 +910,8 @@
 | 902 | 117 | Kelli Clark |
 | 903 | 117 | Funky Riseclear |
 | 904 | 117 | Luceros7 |
-| 905 | 116 | Patrick Langford |
-| 906 | 116 | Moua Ying |
+| 905 | 116 | Moua Ying |
+| 906 | 116 | Patrick Langford |
 | 907 | 116 | Carla Cervantes |
 | 908 | 116 | Slimkaite |
 | 909 | 115 | Melissa Schwager |
@@ -990,7 +990,7 @@
 | 982 | 106 | Amandacolle |
 | 983 | 106 | Michele Barry |
 | 984 | 106 | Damien Reinbold |
-| 985 | 106 | Jai |
+| 985 | 106 | Mystique89 |
 | 986 | 106 | Andrew Biswell |
 | 987 | 106 | Jai |
 | 988 | 105 | KwaDaGod |

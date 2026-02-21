@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 540 | Kimyatta Cavin |
 | 25 | 535 | Rebecca Moulton Pinciaro |
@@ -92,8 +92,8 @@
 | 84 | 191 | loulou |
 | 85 | 189 | Calvin Dennis |
 | 86 | 187 | Swanky Fitline |
-| 87 | 185 | shar |
-| 88 | 185 | Andy Cabral |
+| 87 | 185 | Andy Cabral |
+| 88 | 185 | shar |
 | 89 | 181 | Carter Jones |
 | 90 | 180 | Leah Kutz Zirbel |
 | 91 | 179 | Epic Curvetile |
