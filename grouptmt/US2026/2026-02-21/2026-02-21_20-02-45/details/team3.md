@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Tasha Schriewer |
-| 99 | 378 | Makelini Mausia |
+| 98 | 378 | Makelini Mausia |
+| 99 | 378 | Tasha Schriewer |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -124,8 +124,8 @@
 | 116 | 316 | Fancy Cascader |
 | 117 | 312 | Jay Horn |
 | 118 | 309 | Rich LeBlanc |
-| 119 | 307 | Blocked |
-| 120 | 307 | Peggi Charon |
+| 119 | 307 | Peggi Charon |
+| 120 | 307 | Blocked |
 | 121 | 305 | Tessina Dewey-Mancino |
 | 122 | 300 | Sherika C. McDaniels |
 | 123 | 293 | Poppy Splitter |
@@ -216,8 +216,8 @@
 | 208 | 166 | Betty Rosas |
 | 209 | 166 | Beth Ingham |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Stephanie Hill |
-| 212 | 163 | Christine Trester |
+| 211 | 163 | Christine Trester |
+| 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | Irene Arreguin |
 | 215 | 161 | BŘŰŤİÇŨŚ |
@@ -433,7 +433,7 @@
 | 425 | 81 | Philip Rock |
 | 426 | 81 | Katheline Lazo Luizaga |
 | 427 | 81 | Kristin Delibac Corrigan |
-| 428 | 81 | Katheline Lazo Luizaga |
+| 428 | 81 | Tanesha BigBabby Darling |
 | 429 | 81 | Joseph Vargas |
 | 430 | 80 | Nicole Summers-Nelson |
 | 431 | 80 | Linda Draper |

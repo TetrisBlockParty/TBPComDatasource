@@ -289,8 +289,8 @@
 | 281 | 440 | Liberty |
 | 282 | 439 | Alisa Lamb |
 | 283 | 439 | Joseph Musick |
-| 284 | 439 | Nashu |
-| 285 | 439 | Foxxo |
+| 284 | 439 | Foxxo |
+| 285 | 439 | Nashu |
 | 286 | 437 | Arwa Fatimah |
 | 287 | 436 | Melissa Kay Gibson |
 | 288 | 435 | Kimberly Randesi |
@@ -481,21 +481,21 @@
 | 473 | 280 | SwampRebel |
 | 474 | 280 | Audra Williams |
 | 475 | 279 | Glitzy Stackzone |
-| 476 | 278 | Ray Ray Prado |
-| 477 | 278 | Demeka Dangerous-kisses Johnson |
+| 476 | 278 | Demeka Dangerous-kisses Johnson |
+| 477 | 278 | Ray Ray Prado |
 | 478 | 277 | Anthony Mignacca |
 | 479 | 276 | Spunkysmom |
 | 480 | 276 | Vonceial Boone |
 | 481 | 276 | Lindsey Leigh |
-| 482 | 274 | Jamie Stevey |
-| 483 | 274 | August Hale |
+| 482 | 274 | August Hale |
+| 483 | 274 | Jamie Stevey |
 | 484 | 274 | Michelle Sager |
 | 485 | 273 | Jenna Nance |
 | 486 | 273 | Candy Pitts |
 | 487 | 273 | Britt Stunkel |
-| 488 | 273 | NickyBrooks |
+| 488 | 273 | Dapper Dasher |
 | 489 | 273 | Hillary Franklin |
-| 490 | 273 | Dapper Dasher |
+| 490 | 273 | NickyBrooks |
 | 491 | 271 | Ann Marie Davis |
 | 492 | 271 | Toni Lynn |
 | 493 | 271 | Loony Basepiece |
@@ -533,8 +533,8 @@
 | 525 | 252 | Alyssia Tancredi |
 | 526 | 252 | Aleasha M Brown |
 | 527 | 251 | Niceday |
-| 528 | 250 | Mike73 |
-| 529 | 250 | Kristi Biddinger |
+| 528 | 250 | Kristi Biddinger |
+| 529 | 250 | Mike73 |
 | 530 | 250 | Steve Man |
 | 531 | 250 | Teddi Notyalc |
 | 532 | 249 | Porsche' Nicole |
