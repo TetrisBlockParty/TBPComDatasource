@@ -121,8 +121,8 @@
 | 113 | 780 | Amanda Grohmann |
 | 114 | 772 | Megan Ferguson Leone |
 | 115 | 771 | Terri McKelvey McKinley |
-| 116 | 763 | Samantha Jo |
-| 117 | 763 | Robin Kerby |
+| 116 | 763 | Robin Kerby |
+| 117 | 763 | Samantha Jo |
 | 118 | 759 | Jose Mendoza |
 | 119 | 756 | Stephanie Neuburger |
 | 120 | 751 | Loony Snapper |
@@ -241,8 +241,8 @@
 | 233 | 467 | Scott Treadway |
 | 234 | 465 | Drwatson187 |
 | 235 | 465 | Maya June |
-| 236 | 464 | Nett |
-| 237 | 464 | Ryan Gunther |
+| 236 | 464 | Ryan Gunther |
+| 237 | 464 | Nett |
 | 238 | 463 | Sue Leard |
 | 239 | 460 | Amélie Cadieux |
 | 240 | 460 | Cody Smith-Candelaria |
@@ -339,8 +339,8 @@
 | 331 | 347 | Cheyenne Donovan |
 | 332 | 345 | Angie Bolton Workman |
 | 333 | 345 | Rhianna DiLorenzo |
-| 334 | 344 | Ginger |
-| 335 | 344 | Glenn Cobbins |
+| 334 | 344 | Glenn Cobbins |
+| 335 | 344 | Ginger |
 | 336 | 343 | F-X |
 | 337 | 342 | Ebony Deloach Bryant |
 | 338 | 341 | Jaycee |
@@ -374,10 +374,10 @@
 | 366 | 325 | bru |
 | 367 | 324 | CC |
 | 368 | 323 | Joshua Sommerville |
-| 369 | 323 | KhaosLord |
-| 370 | 323 | Briana Alexander |
-| 371 | 322 | NanDa Cruzan VI |
-| 372 | 322 | Brandy Andre |
+| 369 | 323 | Briana Alexander |
+| 370 | 323 | KhaosLord |
+| 371 | 322 | Brandy Andre |
+| 372 | 322 | NanDa Cruzan VI |
 | 373 | 321 | Tamara Bailey |
 | 374 | 320 | Sarah Ridenour |
 | 375 | 319 | Rose Fx |
@@ -476,8 +476,8 @@
 | 468 | 251 | Niceday |
 | 469 | 250 | Mike73 |
 | 470 | 250 | Steve Man |
-| 471 | 249 | Porsche' Nicole |
-| 472 | 249 | Nicky Jackson |
+| 471 | 249 | Nicky Jackson |
+| 472 | 249 | Porsche' Nicole |
 | 473 | 248 | Gursharan Sandhu |
 | 474 | 248 | Kimberly Mitchell |
 | 475 | 248 | Maddy Petersen |

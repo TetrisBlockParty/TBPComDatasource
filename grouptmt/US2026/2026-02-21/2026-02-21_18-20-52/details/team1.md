@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -108,8 +108,8 @@
 | 100 | 193 | Lachelle Dillon |
 | 101 | 192 | Shaykmia |
 | 102 | 191 | Diane Byrd |
-| 103 | 190 | Sweetts |
-| 104 | 190 | Thorne Shumate |
+| 103 | 190 | Thorne Shumate |
+| 104 | 190 | Sweetts |
 | 105 | 189 | Happy Basegrid |
 | 106 | 188 | Sam Williams |
 | 107 | 186 | Jennifer Olewnik Soborowski |
@@ -129,16 +129,16 @@
 | 121 | 166 | Rico Rico |
 | 122 | 166 | Tana |
 | 123 | 165 | Veronica Eve |
-| 124 | 163 | Tyler Whitley |
-| 125 | 163 | Michael |
-| 126 | 163 | Kellie |
+| 124 | 163 | Michael |
+| 125 | 163 | Kellie |
+| 126 | 163 | Tyler Whitley |
 | 127 | 162 | Tanya Carpenter-Reynolds |
 | 128 | 161 | Jessie Lynn |
 | 129 | 155 | Cece Ibarra |
 | 130 | 154 | Irual Hctrab |
 | 131 | 153 | Shiny Gridmatch |
-| 132 | 152 | Speedy Snapfall |
-| 133 | 152 | Jacqueline Unique |
+| 132 | 152 | Jacqueline Unique |
+| 133 | 152 | Speedy Snapfall |
 | 134 | 150 | Adele Rahman |
 | 135 | 149 | Arianna O'Brien |
 | 136 | 149 | Jennifer ManWarren |
@@ -170,11 +170,11 @@
 | 162 | 131 | Uhog SF |
 | 163 | 130 | LD1 |
 | 164 | 130 | Gilbert Ortiz Jr. |
-| 165 | 128 | lil mickey |
-| 166 | 128 | Barry Mac'Ockner |
-| 167 | 128 | Layzietyme |
-| 168 | 127 | Aimee Horton |
-| 169 | 127 | Brave Wrecker |
+| 165 | 128 | Layzietyme |
+| 166 | 128 | lil mickey |
+| 167 | 128 | Barry Mac'Ockner |
+| 168 | 127 | Brave Wrecker |
+| 169 | 127 | Aimee Horton |
 | 170 | 126 | Nerdy Linkblock |
 | 171 | 125 | Tipsy Riseclear |
 | 172 | 124 | Flashy Rotator |
@@ -204,7 +204,7 @@
 | 196 | 109 | Tyler Hertzog |
 | 197 | 108 | Dizzy Party |
 | 198 | 108 | Tavia |
-| 199 | 108 | Dizzy Party |
+| 199 | 108 | Melissa Bires Hussar |
 | 200 | 107 | Jodee Woods |
 | 201 | 106 | Chantelle Ceno |
 | 202 | 106 | Alyssa Ingram |

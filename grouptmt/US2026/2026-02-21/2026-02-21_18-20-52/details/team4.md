@@ -88,8 +88,8 @@
 | 80 | 230 | Lucas J Sutton |
 | 81 | 220 | Joeliecea Cobb |
 | 82 | 218 | Casey Grabner |
-| 83 | 215 | Alyssa Papen |
-| 84 | 215 | Jae Job |
+| 83 | 215 | Jae Job |
+| 84 | 215 | Alyssa Papen |
 | 85 | 211 | Dizzy Tiley |
 | 86 | 205 | Sarah Neathery |
 | 87 | 204 | Brittney Orengo |
@@ -130,8 +130,8 @@
 | 122 | 153 | Empress Oasis |
 | 123 | 152 | Jessica Bohlken |
 | 124 | 151 | Damn Libra |
-| 125 | 151 | Dana Scott |
-| 126 | 151 | Bethany Ison |
+| 125 | 151 | Bethany Ison |
+| 126 | 151 | Dana Scott |
 | 127 | 148 | Brittany Marsh |
 | 128 | 148 | Janita Parrish |
 | 129 | 147 | Chair |
@@ -167,9 +167,9 @@
 | 159 | 127 | Dreamy Snapgrid |
 | 160 | 126 | TinyLegoRose |
 | 161 | 125 | AyeKay |
-| 162 | 124 | SammieJo Guy |
-| 163 | 124 | Allen Lloyd |
-| 164 | 124 | Antony Dwayne Beasley |
+| 162 | 124 | Allen Lloyd |
+| 163 | 124 | Antony Dwayne Beasley |
+| 164 | 124 | SammieJo Guy |
 | 165 | 123 | Cherrish Duren |
 | 166 | 122 | Carlos Ramirez |
 | 167 | 122 | Sherri |
@@ -220,7 +220,7 @@
 | 212 | 100 | Alexandra Karavias |
 | 213 | 100 | Rebecca Morris |
 | 214 | 99 | Michael Orris |
-| 215 | 98 | Perky Piecegrid |
+| 215 | 98 | Duck |
 | 216 | 98 | Shane Kalamata Platoon |
 | 217 | 98 | Perky Piecegrid |
 | 218 | 97 | Nubian1 |
