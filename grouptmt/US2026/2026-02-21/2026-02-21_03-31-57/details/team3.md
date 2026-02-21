@@ -115,8 +115,8 @@
 | 107 | 135 | Nicole Flippo |
 | 108 | 134 | DanceLuvLaugh |
 | 109 | 131 | Emma |
-| 110 | 129 | Jenny Hrndz |
-| 111 | 129 | Giddy Twistbuilder |
+| 110 | 129 | Giddy Twistbuilder |
+| 111 | 129 | Jenny Hrndz |
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
@@ -180,12 +180,12 @@
 | 172 | 90 | Rebel124 |
 | 173 | 89 | Hyper Bridger |
 | 174 | 89 | Cesar Barraza |
-| 175 | 88 | Danielle Becker |
-| 176 | 88 | Shicken Nuggit |
-| 177 | 88 | Brandon Givens |
-| 178 | 88 | Martin Bernier |
-| 179 | 86 | Josiah Fam |
-| 180 | 86 | Stephanie Blkpep Davidson |
+| 175 | 88 | Shicken Nuggit |
+| 176 | 88 | Danielle Becker |
+| 177 | 88 | Martin Bernier |
+| 178 | 88 | Brandon Givens |
+| 179 | 86 | Stephanie Blkpep Davidson |
+| 180 | 86 | Josiah Fam |
 | 181 | 85 | Kevin Russell |
 | 182 | 85 | Sashay Tapae Simpson |
 | 183 | 85 | Chris Bell |

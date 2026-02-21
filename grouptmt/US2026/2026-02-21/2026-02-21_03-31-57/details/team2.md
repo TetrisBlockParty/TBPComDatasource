@@ -111,8 +111,8 @@
 | 103 | 469 | Ashley Rose Frederick |
 | 104 | 465 | Tommy Tha Boss Gunz |
 | 105 | 459 | Lisa Ongtowasruk |
-| 106 | 450 | Mari Ac |
-| 107 | 450 | Giggy Blocker |
+| 106 | 450 | Giggy Blocker |
+| 107 | 450 | Mari Ac |
 | 108 | 448 | Jojo Momma |
 | 109 | 448 | Nick Jensen |
 | 110 | 442 | Daphne Jordan |
@@ -164,8 +164,8 @@
 | 156 | 327 | Danielle Simmons |
 | 157 | 327 | Moni Foxe |
 | 158 | 319 | Jumpy Gridpiece |
-| 159 | 318 | Trista Dumais |
-| 160 | 318 | Juanita Lyons |
+| 159 | 318 | Juanita Lyons |
+| 160 | 318 | Trista Dumais |
 | 161 | 317 | bru |
 | 162 | 316 | ruth |
 | 163 | 316 | Maria Escobar |

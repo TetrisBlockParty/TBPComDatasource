@@ -70,8 +70,8 @@
 | 62 | 144 | Plucky Ziggy |
 | 63 | 144 | Tana |
 | 64 | 141 | Susanna Guerry |
-| 65 | 137 | Chad Atchley |
-| 66 | 137 | Nadine Velardo |
+| 65 | 137 | Nadine Velardo |
+| 66 | 137 | Chad Atchley |
 | 67 | 135 | Sarah Marie |
 | 68 | 133 | Brandi Huntington |
 | 69 | 132 | Davery Spencer Adair |
@@ -100,7 +100,7 @@
 | 92 | 105 | Barry Mac'Ockner |
 | 93 | 103 | Ash Galvan |
 | 94 | 101 | Agustin Duarte Orozco |
-| 95 | 99 | Ty Brown |
+| 95 | 99 | Melissa Bires Hussar |
 | 96 | 99 | Bhelle Sumile |
 | 97 | 99 | Ty Brown |
 | 98 | 96 | Melissa Lemmon |
