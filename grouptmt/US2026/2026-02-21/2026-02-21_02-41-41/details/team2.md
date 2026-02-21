@@ -346,8 +346,8 @@
 | 338 | 148 | Shannon Byrd |
 | 339 | 146 | Angie Bolton Workman |
 | 340 | 146 | JacJac |
-| 341 | 145 | Scott Rackley |
-| 342 | 145 | William Hughes |
+| 341 | 145 | William Hughes |
+| 342 | 145 | Scott Rackley |
 | 343 | 144 | Tee Davis |
 | 344 | 144 | Kyle LeRoy Harris |
 | 345 | 144 | Alexis Richardson |

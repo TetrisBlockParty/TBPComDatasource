@@ -121,12 +121,12 @@
 | 113 | 75 | 🥔🥔 Spudz |
 | 114 | 75 | Rosemary Foster |
 | 115 | 72 | Joshua Cuellar |
-| 116 | 71 | Joseph Pace |
-| 117 | 71 | Shukee Lo |
-| 118 | 71 | Christina Black |
+| 116 | 71 | Christina Black |
+| 117 | 71 | Joseph Pace |
+| 118 | 71 | Shukee Lo |
 | 119 | 70 | Valerie Roberts |
-| 120 | 69 | Michelle Marie |
-| 121 | 69 | Carol Ricks Raymond |
+| 120 | 69 | Carol Ricks Raymond |
+| 121 | 69 | Michelle Marie |
 | 122 | 68 | LS |
 | 123 | 67 | Cozy Framezone |
 | 124 | 67 | Lindsey Gonzalez |

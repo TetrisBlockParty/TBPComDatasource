@@ -84,8 +84,8 @@
 | 76 | 110 | Garcia Bailey |
 | 77 | 110 | Heidi Feurer |
 | 78 | 109 | Dandy Basegrid |
-| 79 | 108 | Tavia |
-| 80 | 108 | comrade fish |
+| 79 | 108 | comrade fish |
+| 80 | 108 | Tavia |
 | 81 | 107 | Jodee Woods |
 | 82 | 105 | Barry Mac'Ockner |
 | 83 | 100 | Ash Galvan |

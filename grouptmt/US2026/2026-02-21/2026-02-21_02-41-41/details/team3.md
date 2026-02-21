@@ -261,7 +261,7 @@
 | 253 | 57 | Mana |
 | 254 | 57 | Rachel |
 | 255 | 57 | Richard Rowell |
-| 256 | 56 | Snappy Glidepiece |
+| 256 | 56 | Bastian Campbell |
 | 257 | 56 | Robert Sibigtroth |
 | 258 | 56 | Snappy Glidepiece |
 | 259 | 56 | Heather De Vries Cobb |
