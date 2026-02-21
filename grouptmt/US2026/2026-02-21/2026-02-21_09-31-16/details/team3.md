@@ -32,8 +32,8 @@
 | 24 | 852 | cowboy25469 |
 | 25 | 821 | Jessica Ann |
 | 26 | 818 | Delilah belle |
-| 27 | 810 | Zippy Strikesnap |
-| 28 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Shane Wilson Jr. |
+| 28 | 810 | Zippy Strikesnap |
 | 29 | 772 | Corie A. Brinson |
 | 30 | 733 | Chummy Shatterer |
 | 31 | 714 | Amber Jones |
@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -233,12 +233,12 @@
 | 225 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 226 | 101 | Hyper Bridger |
 | 227 | 100 | Elizabeth Renee |
-| 228 | 100 | Demetrious Shaw Sr. |
-| 229 | 100 | Donna |
+| 228 | 100 | Donna |
+| 229 | 100 | Edwin Calvillo Jr. |
 | 230 | 100 | Bobbi Moore |
-| 231 | 100 | Edwin Calvillo Jr. |
-| 232 | 99 | Michael Nowogorski |
-| 233 | 99 | Lys |
+| 231 | 100 | Demetrious Shaw Sr. |
+| 232 | 99 | Lys |
+| 233 | 99 | Michael Nowogorski |
 | 234 | 99 | Nichol Graham |
 | 235 | 98 | Jocelyne Baca |
 | 236 | 98 | Daring Builder |

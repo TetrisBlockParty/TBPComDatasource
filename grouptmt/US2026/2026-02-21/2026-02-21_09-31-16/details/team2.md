@@ -188,8 +188,8 @@
 | 180 | 397 | Ashley Guernsey-Martin |
 | 181 | 394 | Em Chen |
 | 182 | 393 | Altamirano Michael |
-| 183 | 391 | Chilly Bridgepiece |
-| 184 | 391 | Steven Marshaun |
+| 183 | 391 | Steven Marshaun |
+| 184 | 391 | Chilly Bridgepiece |
 | 185 | 391 | Rhonda Milstead |
 | 186 | 391 | Qiana Sanders |
 | 187 | 388 | coleksquad |
