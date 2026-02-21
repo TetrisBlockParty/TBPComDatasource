@@ -350,8 +350,8 @@
 | 342 | 416 | Lina Sanders |
 | 343 | 414 | Kara Gillen |
 | 344 | 414 | Sabrina Burton |
-| 345 | 414 | John |
-| 346 | 414 | Emily Lyric Converse |
+| 345 | 414 | Emily Lyric Converse |
+| 346 | 414 | John |
 | 347 | 411 | Ricky Fortune |
 | 348 | 411 | Kristen O'Neal |
 | 349 | 406 | Erin StFrancis |
@@ -609,9 +609,9 @@
 | 601 | 249 | Porsche' Nicole |
 | 602 | 248 | Gursharan Sandhu |
 | 603 | 248 | Angelina Marie |
-| 604 | 248 | Warren Marleau |
+| 604 | 248 | Dany Murillo |
 | 605 | 248 | Kimberly Mitchell |
-| 606 | 248 | Dany Murillo |
+| 606 | 248 | Warren Marleau |
 | 607 | 248 | Twisty Tetriblast |
 | 608 | 247 | Chab |
 | 609 | 247 | Dolores Russworn |
@@ -622,12 +622,12 @@
 | 614 | 245 | Mary Boss |
 | 615 | 245 | Kiorah Blaze |
 | 616 | 244 | Maxwell Escalera |
-| 617 | 244 | Court |
-| 618 | 244 | Nakiiya Dreamcatcher Gore |
+| 617 | 244 | Nakiiya Dreamcatcher Gore |
+| 618 | 244 | Court |
 | 619 | 244 | Crystal Elam |
 | 620 | 243 | JacJac |
-| 621 | 242 | Lianne Giandalone LaBounty |
-| 622 | 242 | Donna Chandler |
+| 621 | 242 | Donna Chandler |
+| 622 | 242 | Lianne Giandalone LaBounty |
 | 623 | 241 | Ronda Cary |
 | 624 | 240 | Kelly |
 | 625 | 239 | BeQuo |
@@ -679,8 +679,8 @@
 | 671 | 222 | Lazy Riseclear |
 | 672 | 221 | Michelle Lee |
 | 673 | 220 | Jennifer Coe |
-| 674 | 219 | Trista Carter |
-| 675 | 219 | Cathy Bitters |
+| 674 | 219 | Cathy Bitters |
+| 675 | 219 | Trista Carter |
 | 676 | 219 | Josh Webster |
 | 677 | 218 | Shylee Tilman |
 | 678 | 218 | Joy LaJeunesse |
