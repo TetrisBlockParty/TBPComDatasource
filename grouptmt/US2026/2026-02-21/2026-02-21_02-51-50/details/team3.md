@@ -129,8 +129,8 @@
 | 121 | 115 | Jennifer Alvey |
 | 122 | 114 | Jessica Bechler |
 | 123 | 111 | Joy Petroski |
-| 124 | 110 | Tiff Vs Tiffany |
-| 125 | 110 | Stella |
+| 124 | 110 | Stella |
+| 125 | 110 | Tiff Vs Tiffany |
 | 126 | 109 | Fredd Thomas |
 | 127 | 108 | Rachel Napper |
 | 128 | 108 | Grams |
@@ -215,8 +215,8 @@
 | 207 | 70 | Boldy Blocker |
 | 208 | 70 | Rebecca Funderburk Kirby |
 | 209 | 69 | Hyper Matchzone |
-| 210 | 69 | Danielle Balcom |
-| 211 | 69 | Jen Lewis |
+| 210 | 69 | Jen Lewis |
+| 211 | 69 | Danielle Balcom |
 | 212 | 68 | Loopy Fallmatch |
 | 213 | 67 | Daryn Elliott |
 | 214 | 67 | Tommy Proctor |
@@ -234,8 +234,8 @@
 | 226 | 65 | mzcatzy |
 | 227 | 65 | Eunhye Lee |
 | 228 | 65 | LaKisha Legrone |
-| 229 | 64 | Bleu Sun Beams |
-| 230 | 64 | Loony Slider |
+| 229 | 64 | Loony Slider |
+| 230 | 64 | Bleu Sun Beams |
 | 231 | 64 | Saucy Buildout |
 | 232 | 63 | BugMansMom |
 | 233 | 63 | Eileen Brady Thurber |

@@ -51,11 +51,11 @@
 | 43 | 152 | Denise Carlson |
 | 44 | 147 | Courtney Cicoria |
 | 45 | 145 | Edward White |
-| 46 | 140 | Shannon Ferrari |
-| 47 | 140 | Carter Jones |
+| 46 | 140 | Carter Jones |
+| 47 | 140 | Shannon Ferrari |
 | 48 | 138 | BertMofo |
-| 49 | 133 | Jessica Bohlken |
-| 50 | 133 | Robin Watters |
+| 49 | 133 | Robin Watters |
+| 50 | 133 | Jessica Bohlken |
 | 51 | 132 | Jenna McGeorge |
 | 52 | 131 | Dustee Craddock-Harrison |
 | 53 | 130 | Casey Jeffcoat |
@@ -83,11 +83,11 @@
 | 75 | 103 | Sam Middleton |
 | 76 | 102 | Faja |
 | 77 | 101 | Michelle Morris |
-| 78 | 100 | Stephme310 |
-| 79 | 100 | Jeff Brian Gates |
+| 78 | 100 | Jeff Brian Gates |
+| 79 | 100 | Stephme310 |
 | 80 | 99 | YoMomma |
-| 81 | 98 | Allen Lloyd |
-| 82 | 98 | Duck |
+| 81 | 98 | Duck |
+| 82 | 98 | Allen Lloyd |
 | 83 | 97 | TinyLegoRose |
 | 84 | 96 | Zappy Snaplink |
 | 85 | 92 | Kristin MacDonald |

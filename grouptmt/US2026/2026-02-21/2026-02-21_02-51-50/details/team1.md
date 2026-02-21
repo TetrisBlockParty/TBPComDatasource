@@ -31,8 +31,8 @@
 | 23 | 281 | Nancy Green |
 | 24 | 269 | Theo Pinnow |
 | 25 | 265 | Jennifer Cates |
-| 26 | 243 | Sarah Roberts |
-| 27 | 243 | Tipsy Column |
+| 26 | 243 | Tipsy Column |
+| 27 | 243 | Sarah Roberts |
 | 28 | 221 | Maria C. Hernandez |
 | 29 | 216 | Robert Benito |
 | 30 | 212 | Tdub |
