@@ -62,8 +62,8 @@
 | 54 | 216 | Jennifer Willis |
 | 55 | 216 | Delilah belle |
 | 56 | 214 | Amy Fuller Heaton |
-| 57 | 210 | Zippy Strikesnap |
-| 58 | 210 | Fancy Slam |
+| 57 | 210 | Fancy Slam |
+| 58 | 210 | Zippy Strikesnap |
 | 59 | 207 | rnr junky |
 | 60 | 203 | Crimson |
 | 61 | 200 | Calista Jo Dickson |

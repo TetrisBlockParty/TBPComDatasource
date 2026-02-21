@@ -40,8 +40,8 @@
 | 32 | 170 | Leah Kutz Zirbel |
 | 33 | 170 | Girl |
 | 34 | 168 | Anthony Magaraci |
-| 35 | 167 | Rachel Anne |
-| 36 | 167 | Chilly Line |
+| 35 | 167 | Chilly Line |
+| 36 | 167 | Rachel Anne |
 | 37 | 153 | Lucille Truesdale |
 | 38 | 150 | Kimyatta Cavin |
 | 39 | 147 | Courtney Cicoria |
@@ -63,8 +63,8 @@
 | 55 | 114 | Jessica Cagle |
 | 56 | 113 | Degenerate |
 | 57 | 112 | Chirpy Basepiece |
-| 58 | 111 | Zany Shatterer |
-| 59 | 111 | Gwendolyn Pitcairn |
+| 58 | 111 | Gwendolyn Pitcairn |
+| 59 | 111 | Zany Shatterer |
 | 60 | 110 | H.R. Block |
 | 61 | 109 | Bryan Hodgins |
 | 62 | 109 | Epic Curvetile |

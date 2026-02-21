@@ -163,8 +163,8 @@
 | 155 | 266 | Autumn Schaeffer |
 | 156 | 266 | Joyce Johnson Vaughn |
 | 157 | 265 | Wuntayk |
-| 158 | 263 | Taylor Flowers |
-| 159 | 263 | Oscar Bernie |
+| 158 | 263 | Oscar Bernie |
+| 159 | 263 | Taylor Flowers |
 | 160 | 263 | Shiny Rollzone |
 | 161 | 261 | MrsClaudette Will'sIam Matthews |
 | 162 | 257 | Alex Hill |
@@ -180,8 +180,8 @@
 | 172 | 248 | Dany Murillo |
 | 173 | 247 | Fancy Twister |
 | 174 | 247 | Andrea Devery Beck |
-| 175 | 245 | Ann Matzkanin |
-| 176 | 245 | Mischelle Clay |
+| 175 | 245 | Mischelle Clay |
+| 176 | 245 | Ann Matzkanin |
 | 177 | 244 | Shorty |
 | 178 | 244 | Elisheva Mizrachi |
 | 179 | 243 | Bubbly Snapfit |
@@ -253,8 +253,8 @@
 | 245 | 180 | Peter Palestino |
 | 246 | 179 | Desiree Harris Rosch |
 | 247 | 179 | Cat |
-| 248 | 177 | Angel |
-| 249 | 177 | John |
+| 248 | 177 | John |
+| 249 | 177 | Angel |
 | 250 | 176 | Missie Lawson Gebhardt |
 | 251 | 176 | Besma Ao |
 | 252 | 176 | Jessica Kaye DeAguero |
