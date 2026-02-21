@@ -246,8 +246,8 @@
 | 238 | 312 | Michelle Pike |
 | 239 | 311 | Véronique Lévesque Sabourin |
 | 240 | 311 | Dar |
-| 241 | 309 | Oscar Bernie |
-| 242 | 309 | Ginger |
+| 241 | 309 | Ginger |
+| 242 | 309 | Oscar Bernie |
 | 243 | 309 | James Zaragoza |
 | 244 | 306 | Kristopher Miller |
 | 245 | 305 | Ramone Armstrong |
@@ -351,8 +351,8 @@
 | 343 | 240 | Angie Marie |
 | 344 | 239 | Roger Grabbit |
 | 345 | 238 | Cheery Matchzone |
-| 346 | 236 | Frisky Riserbuilder |
-| 347 | 236 | snkylnk |
+| 346 | 236 | snkylnk |
+| 347 | 236 | Frisky Riserbuilder |
 | 348 | 236 | Julio A Laracuente |
 | 349 | 236 | Niceday |
 | 350 | 235 | Kimberly Mitchell |
@@ -408,8 +408,8 @@
 | 400 | 198 | Angie Bolton Workman |
 | 401 | 198 | Alyssa Dean |
 | 402 | 196 | Besma Ao |
-| 403 | 196 | Cass Shirley |
-| 404 | 196 | Alexandra Reese |
+| 403 | 196 | Alexandra Reese |
+| 404 | 196 | Cass Shirley |
 | 405 | 195 | Snappy Shatterfit |
 | 406 | 195 | Emily Lyric Converse |
 | 407 | 194 | Kimberly Ann |
@@ -422,8 +422,8 @@
 | 414 | 191 | John Quiring |
 | 415 | 191 | Sho Nuff |
 | 416 | 191 | Deana |
-| 417 | 190 | Layna Lyons |
-| 418 | 190 | Jessica Kaye DeAguero |
+| 417 | 190 | Jessica Kaye DeAguero |
+| 418 | 190 | Layna Lyons |
 | 419 | 189 | Alishac Marie |
 | 420 | 188 | Seth Wrieden |
 | 421 | 188 | Justin Hines |
@@ -481,8 +481,8 @@
 | 473 | 166 | suuny |
 | 474 | 165 | Tara Lynn Janes |
 | 475 | 165 | Catherine Varea |
-| 476 | 165 | Cathy Bitters |
-| 477 | 165 | Austin Wilson |
+| 476 | 165 | Austin Wilson |
+| 477 | 165 | Cathy Bitters |
 | 478 | 164 | Jessica Vega |
 | 479 | 164 | Sara Pennington |
 | 480 | 163 | Lakeela Wise |
@@ -510,16 +510,16 @@
 | 502 | 158 | Laura Freeman Hagen |
 | 503 | 157 | Andrew Bratton-Tomes |
 | 504 | 157 | Ty Quarles |
-| 505 | 157 | Nicol Craven |
-| 506 | 157 | Klee |
+| 505 | 157 | Klee |
+| 506 | 157 | Nicol Craven |
 | 507 | 157 | Twisty Tetriblast |
 | 508 | 156 | RetroLemur |
 | 509 | 156 | Deanna Morton |
 | 510 | 156 | Nuggets |
 | 511 | 155 | Angela Murgia-Owen |
 | 512 | 155 | Cris cris |
-| 513 | 155 | Monarca26 |
-| 514 | 155 | Chelle |
+| 513 | 155 | Chelle |
+| 514 | 155 | Monarca26 |
 | 515 | 154 | Bryan Werleman |
 | 516 | 154 | Lydia Greenman |
 | 517 | 154 | Cini |

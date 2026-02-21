@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Tdub |
-| 53 | 212 | Jaimie Lynn |
+| 52 | 212 | Jaimie Lynn |
+| 53 | 212 | Tdub |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -140,9 +140,9 @@
 | 132 | 110 | Garcia Bailey |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
-| 135 | 106 | Bloknboy |
-| 136 | 106 | Ash Galvan |
-| 137 | 106 | Aimee Horton |
+| 135 | 106 | Aimee Horton |
+| 136 | 106 | Bloknboy |
+| 137 | 106 | Ash Galvan |
 | 138 | 105 | Flashy Rotator |
 | 139 | 104 | Charla Pross-Fugleberg |
 | 140 | 103 | Adryane Schnase |

@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -256,9 +256,9 @@
 | 248 | 95 | MizzMonick Smith |
 | 249 | 94 | Angie Harper |
 | 250 | 93 | Tiffany Ford |
-| 251 | 92 | Trice Thomas |
+| 251 | 92 | Jennifer Caputo |
 | 252 | 92 | Ava Petito |
-| 253 | 92 | Jennifer Caputo |
+| 253 | 92 | Trice Thomas |
 | 254 | 91 | Martin Bernier |
 | 255 | 90 | Snazzy Brickzone |
 | 256 | 90 | Whitney Manuel |
@@ -267,7 +267,7 @@
 | 259 | 90 | Tiffany Kaupang |
 | 260 | 90 | Rebel124 |
 | 261 | 89 | Shicken Nuggit |
-| 262 | 89 | Patti Skiles |
+| 262 | 89 | Zac Hudak |
 | 263 | 89 | Saucy Buildout |
 | 264 | 89 | Patti Skiles |
 | 265 | 88 | RickyG |
