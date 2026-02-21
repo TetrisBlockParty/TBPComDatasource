@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -94,8 +94,8 @@
 | 86 | 658 | Vistabrat |
 | 87 | 658 | Pacynthia Williams |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Stephanie Chapman |
-| 90 | 649 | Anna Edwards |
+| 89 | 649 | Anna Edwards |
+| 90 | 649 | Stephanie Chapman |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -125,8 +125,8 @@
 | 117 | 520 | Kimberly Schall |
 | 118 | 519 | Maria Escobar |
 | 119 | 517 | Debra Williams |
-| 120 | 515 | Real Ri |
-| 121 | 515 | Kaylee McCafferty |
+| 120 | 515 | Kaylee McCafferty |
+| 121 | 515 | Real Ri |
 | 122 | 513 | Butta |
 | 123 | 510 | Ashley House |
 | 124 | 509 | Kelli Wells |

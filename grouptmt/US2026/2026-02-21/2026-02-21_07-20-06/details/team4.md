@@ -51,8 +51,8 @@
 | 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Michelle Marie |
-| 47 | 231 | Jenna Ingersoll |
+| 46 | 231 | Jenna Ingersoll |
+| 47 | 231 | Michelle Marie |
 | 48 | 226 | Breannah Grafe |
 | 49 | 225 | Lisa Davis |
 | 50 | 215 | Christine Marie |
@@ -88,8 +88,8 @@
 | 80 | 141 | Malakai Darien Fox |
 | 81 | 140 | Shannon Ferrari |
 | 82 | 136 | Tanner Lund |
-| 83 | 134 | Jessica Bohlken |
-| 84 | 134 | Chirpy Basepiece |
+| 83 | 134 | Chirpy Basepiece |
+| 84 | 134 | Jessica Bohlken |
 | 85 | 133 | Robin Watters |
 | 86 | 132 | Degenerate |
 | 87 | 132 | Melissa Priest Sellers |
@@ -177,8 +177,8 @@
 | 169 | 83 | Abigail Murphy |
 | 170 | 83 | Avy Absol |
 | 171 | 82 | Kim Hunt |
-| 172 | 81 | Chair |
-| 173 | 81 | Jumpy Zonepiece |
+| 172 | 81 | Jumpy Zonepiece |
+| 173 | 81 | Nubian1 |
 | 174 | 81 | Michelle Parker |
 | 175 | 81 | Chair |
 | 176 | 81 | Blessedmama |
@@ -379,8 +379,8 @@
 | 371 | 38 | Vanessa Smart |
 | 372 | 38 | Wacky Blockclear |
 | 373 | 37 | Lynette Manning |
-| 374 | 37 | Patrick Cossette |
-| 375 | 37 | Ren Mc |
+| 374 | 37 | Ren Mc |
+| 375 | 37 | Patrick Cossette |
 | 376 | 37 | Flavoredsausage |
 | 377 | 36 | Shiny Zonepiece |
 | 378 | 36 | Tamika Starkey |

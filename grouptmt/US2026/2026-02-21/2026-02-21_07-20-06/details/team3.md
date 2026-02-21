@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -150,8 +150,8 @@
 | 142 | 149 | Trisha Balmer |
 | 143 | 149 | Bea Miles |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Latoya Mayne |
-| 146 | 146 | Denita Mungro |
+| 145 | 146 | Denita Mungro |
+| 146 | 146 | Latoya Mayne |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Jay Horn |
 | 149 | 140 | Gumbo |
@@ -162,8 +162,8 @@
 | 154 | 134 | DanceLuvLaugh |
 | 155 | 131 | Jl |
 | 156 | 129 | Stephanie Burtin |
-| 157 | 127 | Connie Mohler-Fair |
-| 158 | 127 | Aerian Preston |
+| 157 | 127 | Aerian Preston |
+| 158 | 127 | Connie Mohler-Fair |
 | 159 | 127 | Marquita Sheard |
 | 160 | 126 | Brandon Givens |
 | 161 | 126 | Dan Rob |
@@ -195,8 +195,8 @@
 | 187 | 109 | Brave Brickster |
 | 188 | 109 | Fredd Thomas |
 | 189 | 109 | Diana Ibarra |
-| 190 | 108 | Rachel Napper |
-| 191 | 108 | LaTanya GeminiondaRise Johnson |
+| 190 | 108 | LaTanya GeminiondaRise Johnson |
+| 191 | 108 | Rachel Napper |
 | 192 | 107 | Sherry Ogden |
 | 193 | 106 | Eon Harris |
 | 194 | 106 | Desiree Gold |
@@ -245,9 +245,9 @@
 | 237 | 92 | Jennifer Caputo |
 | 238 | 92 | Ava Petito |
 | 239 | 91 | Martin Bernier |
-| 240 | 90 | Tiffany Kaupang |
+| 240 | 90 | Rebel124 |
 | 241 | 90 | Whitney Manuel |
-| 242 | 90 | Rebel124 |
+| 242 | 90 | Tiffany Kaupang |
 | 243 | 90 | Nichole Greene |
 | 244 | 89 | Shicken Nuggit |
 | 245 | 89 | Saucy Buildout |

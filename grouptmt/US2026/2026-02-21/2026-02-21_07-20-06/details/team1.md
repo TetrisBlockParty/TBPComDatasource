@@ -103,8 +103,8 @@
 | 95 | 128 | lil mickey |
 | 96 | 128 | Uhog SF |
 | 97 | 127 | Michael |
-| 98 | 126 | Cece Ibarra |
-| 99 | 126 | Rachael |
+| 98 | 126 | Rachael |
+| 99 | 126 | Cece Ibarra |
 | 100 | 123 | LaQuetta Faith Hines |
 | 101 | 121 | Bouncy Grid |
 | 102 | 119 | Tater |
