@@ -112,8 +112,8 @@
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
-| 107 | 123 | Nugget |
-| 108 | 123 | Cherrish Duren |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Nugget |
 | 109 | 122 | Sherri |
 | 110 | 121 | Smiley Tiltbuilder |
 | 111 | 121 | Zany Shatterer |
@@ -144,8 +144,8 @@
 | 136 | 105 | AyeKay |
 | 137 | 105 | Sam Middleton |
 | 138 | 104 | Adam Randall |
-| 139 | 104 | YoMomma |
-| 140 | 104 | Damn Libra |
+| 139 | 104 | Damn Libra |
+| 140 | 104 | YoMomma |
 | 141 | 102 | Faja |
 | 142 | 101 | Michelle Morris |
 | 143 | 101 | Saulc1991 |
@@ -185,8 +185,8 @@
 | 177 | 83 | Holly |
 | 178 | 83 | Joseph Gray |
 | 179 | 83 | Avy Absol |
-| 180 | 82 | Kim Hunt |
-| 181 | 82 | Jason Frehner |
+| 180 | 82 | Jason Frehner |
+| 181 | 82 | Kim Hunt |
 | 182 | 81 | Chair |
 | 183 | 81 | Blessedmama |
 | 184 | 81 | Michelle Parker |
@@ -230,10 +230,10 @@
 | 222 | 68 | GBR |
 | 223 | 67 | Frank Joseph Epson |
 | 224 | 67 | Laurie McGregor |
-| 225 | 67 | Frank Joseph Epson |
+| 225 | 67 | Dennis Bradley |
 | 226 | 67 | Cozy Framezone |
-| 227 | 67 | mini |
-| 228 | 67 | JPW |
+| 227 | 67 | JPW |
+| 228 | 67 | mini |
 | 229 | 66 | mitch |
 | 230 | 66 | Rebecca Blake |
 | 231 | 66 | Moonsterix |

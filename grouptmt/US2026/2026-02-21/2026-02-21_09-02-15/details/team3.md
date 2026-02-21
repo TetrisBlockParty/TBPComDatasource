@@ -123,15 +123,15 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Beth Ingham |
-| 148 | 153 | Stephanie Whitefield |
+| 147 | 153 | Stephanie Whitefield |
+| 148 | 153 | Beth Ingham |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -254,9 +254,9 @@
 | 246 | 94 | Stephanie Zahm |
 | 247 | 94 | Angie Harper |
 | 248 | 93 | Tiffany Ford |
-| 249 | 92 | Jennifer Caputo |
+| 249 | 92 | Ava Petito |
 | 250 | 92 | Trice Thomas |
-| 251 | 92 | Ava Petito |
+| 251 | 92 | Jennifer Caputo |
 | 252 | 91 | Martin Bernier |
 | 253 | 90 | Whitney Manuel |
 | 254 | 90 | Nichole Greene |
@@ -279,8 +279,8 @@
 | 271 | 86 | Criss |
 | 272 | 85 | Chris Bell |
 | 273 | 85 | Crystel b520 |
-| 274 | 84 | Flashy Rumbler |
-| 275 | 84 | gremicx |
+| 274 | 84 | gremicx |
+| 275 | 84 | Flashy Rumbler |
 | 276 | 83 | Deseree Ewing |
 | 277 | 82 | Rebecca Funderburk Kirby |
 | 278 | 81 | Tina Baurdau |

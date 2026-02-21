@@ -10,8 +10,8 @@
 | 2 | 4618 | Nick Jensen |
 | 3 | 4359 | Sean Dugar |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Rickey Goins Jr. |
-| 6 | 3567 | Taylana Mincy |
+| 5 | 3567 | Taylana Mincy |
+| 6 | 3567 | Rickey Goins Jr. |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -103,8 +103,8 @@
 | 95 | 658 | Vistabrat |
 | 96 | 658 | Pacynthia Williams |
 | 97 | 653 | Becky Weeks-Garry |
-| 98 | 649 | Anna Edwards |
-| 99 | 649 | Stephanie Chapman |
+| 98 | 649 | Stephanie Chapman |
+| 99 | 649 | Anna Edwards |
 | 100 | 641 | Ricardo Burton |
 | 101 | 631 | Loopy Clusterbuilder |
 | 102 | 620 | BYM4L |
@@ -185,8 +185,8 @@
 | 177 | 400 | Crystie Hicks |
 | 178 | 397 | Ashley Guernsey-Martin |
 | 179 | 394 | Em Chen |
-| 180 | 391 | Steven Marshaun |
-| 181 | 391 | Chilly Bridgepiece |
+| 180 | 391 | Chilly Bridgepiece |
+| 181 | 391 | Steven Marshaun |
 | 182 | 391 | Qiana Sanders |
 | 183 | 391 | Rhonda Milstead |
 | 184 | 388 | coleksquad |
@@ -249,8 +249,8 @@
 | 241 | 305 | Libby Hicks |
 | 242 | 303 | Crystal Greene |
 | 243 | 301 | Claire |
-| 244 | 299 | Deborah Miller |
-| 245 | 299 | Christy Krissie |
+| 244 | 299 | Christy Krissie |
+| 245 | 299 | Deborah Miller |
 | 246 | 297 | Brenda Utphall |
 | 247 | 296 | Jennifer Darby |
 | 248 | 296 | Jennifer Casey-Kay |
@@ -261,8 +261,8 @@
 | 253 | 293 | Scott Treadway |
 | 254 | 293 | David Holliday |
 | 255 | 290 | Jessie McDougald |
-| 256 | 288 | Elisheva Mizrachi |
-| 257 | 288 | Megan Phillips |
+| 256 | 288 | Megan Phillips |
+| 257 | 288 | Elisheva Mizrachi |
 | 258 | 286 | Ryan Gunther |
 | 259 | 285 | June E Hanson |
 | 260 | 283 | Davetta Sanford |
@@ -282,10 +282,10 @@
 | 274 | 274 | Melissa Holsinger |
 | 275 | 274 | Jamie Stevey |
 | 276 | 274 | Lonne Emade |
-| 277 | 273 | Jenna Nance |
-| 278 | 273 | Ray Ray Prado |
-| 279 | 273 | Vanessa Moreno |
-| 280 | 273 | August Hale |
+| 277 | 273 | Ray Ray Prado |
+| 278 | 273 | Jenna Nance |
+| 279 | 273 | August Hale |
+| 280 | 273 | Vanessa Moreno |
 | 281 | 272 | Mikayala Szaz |
 | 282 | 271 | Ann Marie Davis |
 | 283 | 271 | Toni Lynn |
@@ -348,10 +348,10 @@
 | 340 | 236 | Julio A Laracuente |
 | 341 | 236 | Niceday |
 | 342 | 235 | Kimberly Mitchell |
-| 343 | 234 | Manny Trindade |
-| 344 | 234 | Jennifer Leigh |
-| 345 | 233 | Robin Kerby |
-| 346 | 233 | Alyssia Tancredi |
+| 343 | 234 | Jennifer Leigh |
+| 344 | 234 | Manny Trindade |
+| 345 | 233 | Alyssia Tancredi |
+| 346 | 233 | Robin Kerby |
 | 347 | 232 | Amber Brion |
 | 348 | 231 | Dylan Thomason |
 | 349 | 231 | Hong Tang |
@@ -464,8 +464,8 @@
 | 456 | 171 | Cappin You |
 | 457 | 171 | William Hunt |
 | 458 | 170 | Kenya Felix |
-| 459 | 170 | Dedra Steward |
-| 460 | 170 | Darlene Bowman |
+| 459 | 170 | Darlene Bowman |
+| 460 | 170 | Dedra Steward |
 | 461 | 169 | Lively Catcher |
 | 462 | 169 | Eddie Perez |
 | 463 | 168 | Phil J. Grombliniak |
@@ -474,14 +474,14 @@
 | 466 | 167 | mshir |
 | 467 | 166 | suuny |
 | 468 | 165 | Catherine Varea |
-| 469 | 165 | Cathy Bitters |
-| 470 | 165 | Austin Wilson |
+| 469 | 165 | Austin Wilson |
+| 470 | 165 | Cathy Bitters |
 | 471 | 164 | Jessica Vega |
 | 472 | 164 | Sara Pennington |
 | 473 | 163 | Danielle Ayoub |
 | 474 | 163 | Albert McKnight |
-| 475 | 162 | Michael Artis |
-| 476 | 162 | LC Hamilton |
+| 475 | 162 | LC Hamilton |
+| 476 | 162 | Michael Artis |
 | 477 | 162 | Andrea Maher |
 | 478 | 161 | Brandon McDonald |
 | 479 | 160 | Marcie McLain Dodd |
@@ -927,8 +927,8 @@
 | 919 | 92 | Jacqueline Muellerleile |
 | 920 | 92 | Loony Dashy |
 | 921 | 92 | Suzanne Wheeler |
-| 922 | 91 | Chilly Wrecker |
-| 923 | 91 | Chipper Snaplink |
+| 922 | 91 | Chipper Snaplink |
+| 923 | 91 | Chilly Wrecker |
 | 924 | 91 | Sienna Parsons |
 | 925 | 91 | Ængeli Haze |
 | 926 | 91 | Moist_B-hole |
