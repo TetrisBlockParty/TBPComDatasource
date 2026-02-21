@@ -111,8 +111,8 @@
 | 103 | 674 | Dannette Goldberg-Richards |
 | 104 | 672 | Wendy Harder Gage |
 | 105 | 665 | Dineisha Carpenter |
-| 106 | 658 | Pacynthia Williams |
-| 107 | 658 | Vistabrat |
+| 106 | 658 | Vistabrat |
+| 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
 | 110 | 649 | Anna Edwards |
@@ -202,9 +202,9 @@
 | 194 | 409 | Sparkles |
 | 195 | 406 | Erin StFrancis |
 | 196 | 402 | Joshua Mandel |
-| 197 | 400 | Rhonda Milstead |
-| 198 | 400 | Tammy Allen |
-| 199 | 400 | Crystie Hicks |
+| 197 | 400 | Tammy Allen |
+| 198 | 400 | Crystie Hicks |
+| 199 | 400 | Rhonda Milstead |
 | 200 | 397 | Ashley Guernsey-Martin |
 | 201 | 397 | coleksquad |
 | 202 | 396 | Steven Marshaun |
@@ -222,8 +222,8 @@
 | 214 | 378 | Cody Nishimura |
 | 215 | 377 | Roy Salyer |
 | 216 | 366 | Wuntayk |
-| 217 | 364 | Shinette Dobson |
-| 218 | 364 | Brandon Armstrong |
+| 217 | 364 | Brandon Armstrong |
+| 218 | 364 | Shinette Dobson |
 | 219 | 363 | William Meussner |
 | 220 | 362 | AkaLefty |
 | 221 | 359 | Brainy Smurf |
@@ -331,8 +331,8 @@
 | 323 | 266 | Mike Aprilliano |
 | 324 | 264 | Dapper Dasher |
 | 325 | 263 | Taylor Flowers |
-| 326 | 262 | Taren Cowan |
-| 327 | 262 | Min |
+| 326 | 262 | Min |
+| 327 | 262 | Taren Cowan |
 | 328 | 261 | MrsClaudette Will'sIam Matthews |
 | 329 | 260 | Ebony Deloach Bryant |
 | 330 | 260 | Denise Rickman |
@@ -363,8 +363,8 @@
 | 355 | 247 | Andrea Devery Beck |
 | 356 | 247 | Fancy Twister |
 | 357 | 246 | Kathryn Townsley |
-| 358 | 246 | Stephanie Lumanlan |
-| 359 | 246 | Ashley Lopez |
+| 358 | 246 | Ashley Lopez |
+| 359 | 246 | Stephanie Lumanlan |
 | 360 | 245 | Rachael Senard |
 | 361 | 245 | Sanaa Nounoussa |
 | 362 | 244 | Aimee Byrom |

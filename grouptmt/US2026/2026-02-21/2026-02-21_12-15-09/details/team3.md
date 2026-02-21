@@ -44,8 +44,8 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Suzieq |
-| 40 | 587 | Danielle Becker |
+| 39 | 587 | Danielle Becker |
+| 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
 | 43 | 546 | Snappy Glidepiece |
@@ -116,8 +116,8 @@
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Kristie McFarland |
-| 112 | 212 | Shunta Jacobs |
+| 111 | 212 | Shunta Jacobs |
+| 112 | 212 | Kristie McFarland |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -216,8 +216,8 @@
 | 208 | 115 | Jennifer Alvey |
 | 209 | 115 | Hoppy Buildout |
 | 210 | 114 | Jessica Bechler |
-| 211 | 113 | Brian Battjes |
-| 212 | 113 | Valerie Gendron |
+| 211 | 113 | Valerie Gendron |
+| 212 | 113 | Brian Battjes |
 | 213 | 111 | Stephanie Zahm |
 | 214 | 110 | Danielle Weikel |
 | 215 | 110 | Stella |
@@ -228,8 +228,8 @@
 | 220 | 109 | Lys |
 | 221 | 108 | Rachel Napper |
 | 222 | 108 | LaTanya GeminiondaRise Johnson |
-| 223 | 107 | France Vézina |
-| 224 | 107 | Sherry Ogden |
+| 223 | 107 | Sherry Ogden |
+| 224 | 107 | France Vézina |
 | 225 | 106 | Noettín Kan Zasnemoore |
 | 226 | 105 | Emi |
 | 227 | 105 | Carol Cain Thurman |
@@ -264,8 +264,8 @@
 | 256 | 96 | D3NO |
 | 257 | 96 | Jason-Ashley Ludlow |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Angie Harper |
-| 260 | 94 | Andrew Thorson |
+| 259 | 94 | Andrew Thorson |
+| 260 | 94 | Angie Harper |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Trice Thomas |
 | 263 | 92 | Ava Petito |
