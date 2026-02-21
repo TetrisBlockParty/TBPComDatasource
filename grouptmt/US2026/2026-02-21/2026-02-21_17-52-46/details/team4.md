@@ -245,8 +245,8 @@
 | 237 | 90 | Carol Ricks Raymond |
 | 238 | 90 | No Strings Attached Ra |
 | 239 | 89 | Katherine Crane |
-| 240 | 88 | Kesha Brady |
-| 241 | 88 | Sam Bishop |
+| 240 | 88 | Sam Bishop |
+| 241 | 88 | Kesha Brady |
 | 242 | 87 | Alan George LaRage |
 | 243 | 86 | Jacob Richard |
 | 244 | 86 | Tony Pavelka |
@@ -258,7 +258,7 @@
 | 250 | 85 | Mimi |
 | 251 | 85 | Joseph Gray |
 | 252 | 85 | Shukee Lo |
-| 253 | 85 | Staci Robinson Jones |
+| 253 | 85 | Chirpy Slammer |
 | 254 | 84 | Ruben Wheeler |
 | 255 | 84 | Hyper Builder |
 | 256 | 84 | Sarah Brown |
@@ -304,8 +304,8 @@
 | 296 | 73 | Lynn Marie |
 | 297 | 73 | JPW |
 | 298 | 72 | Raegan Lane-Ross |
-| 299 | 71 | Mylo Lipscomb |
-| 300 | 71 | Speedy Wipeblock |
+| 299 | 71 | Speedy Wipeblock |
+| 300 | 71 | Mylo Lipscomb |
 | 301 | 71 | Dapper Climber |
 | 302 | 71 | Vanessa Smart |
 | 303 | 70 | Lee Silpe |

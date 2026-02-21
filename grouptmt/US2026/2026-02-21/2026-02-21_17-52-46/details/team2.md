@@ -333,8 +333,8 @@
 | 325 | 345 | Angie Bolton Workman |
 | 326 | 345 | Victoria Moore-Smith |
 | 327 | 345 | Rhianna DiLorenzo |
-| 328 | 344 | Ginger |
-| 329 | 344 | Glenn Cobbins |
+| 328 | 344 | Glenn Cobbins |
+| 329 | 344 | Ginger |
 | 330 | 343 | F-X |
 | 331 | 341 | Melissa Rebbe-Lehman |
 | 332 | 340 | Felicia Lynn |
@@ -377,10 +377,10 @@
 | 369 | 316 | Oscar Bernie |
 | 370 | 315 | Kristopher Miller |
 | 371 | 314 | Lewis Sturgeon |
-| 372 | 314 | Party d |
-| 373 | 314 | Amanda West |
-| 374 | 312 | Andrea Maher |
-| 375 | 312 | Michelle Pike |
+| 372 | 314 | Amanda West |
+| 373 | 314 | Party d |
+| 374 | 312 | Michelle Pike |
+| 375 | 312 | Andrea Maher |
 | 376 | 309 | Catina Hutchison |
 | 377 | 309 | James Zaragoza |
 | 378 | 305 | Libby Hicks |

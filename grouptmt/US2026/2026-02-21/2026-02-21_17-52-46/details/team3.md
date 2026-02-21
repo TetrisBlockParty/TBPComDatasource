@@ -212,11 +212,11 @@
 | 204 | 157 | Nicholas Roddy |
 | 205 | 156 | Bea Miles |
 | 206 | 155 | Loopy Fallzone |
-| 207 | 153 | Rachel Napper |
-| 208 | 153 | Tipsy Zonebuilder |
-| 209 | 153 | Cozy Snaplink |
-| 210 | 152 | Desiree Gold |
-| 211 | 152 | Katrina E Jelks |
+| 207 | 153 | Tipsy Zonebuilder |
+| 208 | 153 | Cozy Snaplink |
+| 209 | 153 | Rachel Napper |
+| 210 | 152 | Katrina E Jelks |
+| 211 | 152 | Desiree Gold |
 | 212 | 152 | Shiny Zonebuilder |
 | 213 | 151 | Brenda Lee Vander Molen |
 | 214 | 150 | Michael Lucado |
