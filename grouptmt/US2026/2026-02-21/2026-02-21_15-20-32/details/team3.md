@@ -112,8 +112,8 @@
 | 104 | 292 | Jamie Furr |
 | 105 | 267 | Rufus Lincoln |
 | 106 | 264 | Tiff Vs Tiffany |
-| 107 | 263 | Angeline Joseph |
-| 108 | 263 | mjl574 |
+| 107 | 263 | mjl574 |
+| 108 | 263 | Angeline Joseph |
 | 109 | 262 | Joe-Maggie Mathews |
 | 110 | 259 | opf |
 | 111 | 256 | ren |
@@ -171,16 +171,16 @@
 | 163 | 175 | DanceLuvLaugh |
 | 164 | 174 | Danielle Mogg |
 | 165 | 169 | Brandon Givens |
-| 166 | 168 | Angie Harper |
-| 167 | 168 | rosy |
+| 166 | 168 | rosy |
+| 167 | 168 | Angie Harper |
 | 168 | 167 | Raven Dudley |
 | 169 | 166 | Loopy Fallmatch |
 | 170 | 166 | Betty Rosas |
 | 171 | 166 | Kelly Ann Child |
 | 172 | 165 | Kali Kelz Williams |
 | 173 | 163 | Stephanie Hill |
-| 174 | 163 | Trisha Balmer |
-| 175 | 163 | Sashay Tapae Simpson |
+| 174 | 163 | Sashay Tapae Simpson |
+| 175 | 163 | Trisha Balmer |
 | 176 | 161 | Nikki Pags |
 | 177 | 161 | BŘŰŤİÇŨŚ |
 | 178 | 160 | Tiffany Davie |
@@ -193,11 +193,11 @@
 | 185 | 156 | Bea Miles |
 | 186 | 155 | Sarajane Lokan |
 | 187 | 153 | Beth Ingham |
-| 188 | 152 | Katrina E Jelks |
-| 189 | 152 | Shiny Zonebuilder |
+| 188 | 152 | Shiny Zonebuilder |
+| 189 | 152 | Katrina E Jelks |
 | 190 | 151 | Connie Mohler-Fair |
-| 191 | 151 | Brenda Lee Vander Molen |
-| 192 | 151 | MsBee |
+| 191 | 151 | MsBee |
+| 192 | 151 | Brenda Lee Vander Molen |
 | 193 | 150 | Nicole Myers |
 | 194 | 149 | Alexis Taylor |
 | 195 | 149 | Angel Mendez |
@@ -211,8 +211,8 @@
 | 203 | 145 | Rochelle Hazelett |
 | 204 | 142 | Erica Anderson |
 | 205 | 141 | Loopy Fallzone |
-| 206 | 140 | Gumbo |
-| 207 | 140 | Jay Horn |
+| 206 | 140 | Jay Horn |
+| 207 | 140 | Gumbo |
 | 208 | 136 | Boldy Corner |
 | 209 | 136 | Joy Petroski |
 | 210 | 135 | Cheryl Hinch Tenbrook |

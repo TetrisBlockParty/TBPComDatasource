@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 540 | Kimyatta Cavin |
 | 25 | 535 | Rebecca Moulton Pinciaro |
@@ -68,8 +68,8 @@
 | 60 | 274 | Elizabeth Sallas |
 | 61 | 272 | YoMomma |
 | 62 | 269 | Desi Desporte |
-| 63 | 265 | Julian Garcia |
-| 64 | 265 | KM8 |
+| 63 | 265 | KM8 |
+| 64 | 265 | Julian Garcia |
 | 65 | 260 | Jason Hart |
 | 66 | 256 | Brittney Griggs |
 | 67 | 244 | Isabella Blanco |
@@ -85,8 +85,8 @@
 | 77 | 207 | Jae Job |
 | 78 | 205 | Sarah Neathery |
 | 79 | 204 | Brittney Orengo |
-| 80 | 198 | Dustee Craddock-Harrison |
-| 81 | 198 | Mike Solo |
+| 80 | 198 | Mike Solo |
+| 81 | 198 | Dustee Craddock-Harrison |
 | 82 | 194 | Jamie Mann-Deichmann |
 | 83 | 193 | Monica Daley |
 | 84 | 191 | loulou |

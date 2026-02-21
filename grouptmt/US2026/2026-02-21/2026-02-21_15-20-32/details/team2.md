@@ -359,8 +359,8 @@
 | 351 | 283 | Byung Bae Park |
 | 352 | 282 | Shaun Church |
 | 353 | 282 | Carl Bradshaw |
-| 354 | 281 | Jaycee |
-| 355 | 281 | Ellie Jonas |
+| 354 | 281 | Ellie Jonas |
+| 355 | 281 | Jaycee |
 | 356 | 280 | Shorty |
 | 357 | 280 | SwampRebel |
 | 358 | 280 | Lonne Emade |
@@ -410,8 +410,8 @@
 | 402 | 254 | Elizabeth Diraffaele |
 | 403 | 254 | Julie Hamilton |
 | 404 | 253 | Tansaria Couch-Butler |
-| 405 | 252 | Alyssia Tancredi |
-| 406 | 252 | Matt Johnson |
+| 405 | 252 | Matt Johnson |
+| 406 | 252 | Alyssia Tancredi |
 | 407 | 251 | Ann Knutson Anderson |
 | 408 | 250 | Steve Man |
 | 409 | 249 | Porsche' Nicole |

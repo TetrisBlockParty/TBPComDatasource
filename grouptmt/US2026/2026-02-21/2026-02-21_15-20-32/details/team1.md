@@ -59,8 +59,8 @@
 | 51 | 282 | Kristen Roles Robben |
 | 52 | 278 | Robert Benito |
 | 53 | 277 | Shauna Loe |
-| 54 | 274 | Theo Pinnow |
-| 55 | 274 | Sweet Baker |
+| 54 | 274 | Sweet Baker |
+| 55 | 274 | Theo Pinnow |
 | 56 | 272 | Adam Byrd |
 | 57 | 259 | Yvonne Marie |
 | 58 | 257 | Sarah Roberts |
@@ -121,13 +121,13 @@
 | 113 | 153 | Shiny Gridmatch |
 | 114 | 153 | Carolyn Smith |
 | 115 | 152 | Jacqueline Unique |
-| 116 | 149 | Jennifer ManWarren |
-| 117 | 149 | Arianna O'Brien |
+| 116 | 149 | Arianna O'Brien |
+| 117 | 149 | Jennifer ManWarren |
 | 118 | 148 | Shauntina Burke |
 | 119 | 146 | Irual Hctrab |
 | 120 | 145 | BigWeenie69 |
-| 121 | 144 | Plucky Ziggy |
-| 122 | 144 | femmefatale |
+| 121 | 144 | femmefatale |
+| 122 | 144 | Plucky Ziggy |
 | 123 | 143 | Sarah Marie |
 | 124 | 142 | Colleen Wise |
 | 125 | 141 | Blaire Bruckoff |
@@ -175,9 +175,9 @@
 | 167 | 110 | Garcia Bailey |
 | 168 | 110 | Madison Wicks |
 | 169 | 109 | Nery Martinez |
-| 170 | 108 | Dizzy Party |
-| 171 | 108 | Tavia |
-| 172 | 108 | Luciano Moreira |
+| 170 | 108 | Tavia |
+| 171 | 108 | Luciano Moreira |
+| 172 | 108 | Dizzy Party |
 | 173 | 107 | Jodee Woods |
 | 174 | 107 | Angela Fairbank |
 | 175 | 106 | Alyssa Ingram |
