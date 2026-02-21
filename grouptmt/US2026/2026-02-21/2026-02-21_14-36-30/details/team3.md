@@ -98,8 +98,8 @@
 | 90 | 320 | Or Reznitsky |
 | 91 | 316 | Fancy Cascader |
 | 92 | 313 | Elaine Webb Graves |
-| 93 | 309 | Rich LeBlanc |
-| 94 | 309 | CeceGeGe |
+| 93 | 309 | CeceGeGe |
+| 94 | 309 | Rich LeBlanc |
 | 95 | 307 | Peggi Charon |
 | 96 | 307 | Blocked |
 | 97 | 300 | Sherika C. McDaniels |

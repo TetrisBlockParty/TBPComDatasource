@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -131,9 +131,9 @@
 | 123 | 132 | Jenna McGeorge |
 | 124 | 132 | Melissa Priest Sellers |
 | 125 | 130 | Casey Jeffcoat |
-| 126 | 129 | Landon Keith Graffeo |
+| 126 | 129 | John Brunetti |
 | 127 | 129 | Calvin Dennis |
-| 128 | 129 | John Brunetti |
+| 128 | 129 | Landon Keith Graffeo |
 | 129 | 128 | Rio Rocha |
 | 130 | 126 | Klo |
 | 131 | 126 | Dihcheese444 |
@@ -151,8 +151,8 @@
 | 143 | 119 | Kristin Manee |
 | 144 | 118 | Leslie Nicole |
 | 145 | 116 | Diana Houts |
-| 146 | 115 | Ultramarine |
-| 147 | 115 | Jayk |
+| 146 | 115 | Jayk |
+| 147 | 115 | Ultramarine |
 | 148 | 113 | Adam Randall |
 | 149 | 112 | Jackie Marie |
 | 150 | 112 | Austin Owens |
@@ -189,11 +189,11 @@
 | 181 | 96 | Adam Stephanie Parker |
 | 182 | 96 | Zappy Snaplink |
 | 183 | 96 | Marcus TheeyoungWoe Gilmore |
-| 184 | 95 | Meagan Nicole |
-| 185 | 95 | Jen Caldwell |
-| 186 | 95 | Victoria Faniel |
-| 187 | 94 | Kim Hunt |
-| 188 | 94 | Chastity Mitchell |
+| 184 | 95 | Victoria Faniel |
+| 185 | 95 | Meagan Nicole |
+| 186 | 95 | Jen Caldwell |
+| 187 | 94 | Chastity Mitchell |
+| 188 | 94 | Kim Hunt |
 | 189 | 94 | DonMega |
 | 190 | 93 | Zesty Twistbuilder |
 | 191 | 93 | Chair |

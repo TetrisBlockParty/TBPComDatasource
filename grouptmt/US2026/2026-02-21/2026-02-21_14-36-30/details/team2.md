@@ -266,8 +266,8 @@
 | 258 | 356 | Deyawn Smith |
 | 259 | 355 | Kristen O'Neal |
 | 260 | 355 | Shandrica Lowe |
-| 261 | 354 | Brave Dropmatch |
-| 262 | 354 | Tracy Wise |
+| 261 | 354 | Tracy Wise |
+| 262 | 354 | Brave Dropmatch |
 | 263 | 353 | Cheery Matchzone |
 | 264 | 352 | ruth |
 | 265 | 350 | Chris Harr |
@@ -415,8 +415,8 @@
 | 407 | 247 | Andrea Devery Beck |
 | 408 | 246 | Justin Hines |
 | 409 | 246 | Pocho Zavala |
-| 410 | 246 | Stephanie Lumanlan |
-| 411 | 246 | Ashley Lopez |
+| 410 | 246 | Ashley Lopez |
+| 411 | 246 | Stephanie Lumanlan |
 | 412 | 245 | Rachael Senard |
 | 413 | 245 | Robin Kerby |
 | 414 | 245 | Sanaa Nounoussa |
@@ -428,8 +428,8 @@
 | 420 | 236 | Julio A Laracuente |
 | 421 | 236 | snkylnk |
 | 422 | 235 | Kimberly Mitchell |
-| 423 | 234 | Jennifer Leigh |
-| 424 | 234 | Manny Trindade |
+| 423 | 234 | Manny Trindade |
+| 424 | 234 | Jennifer Leigh |
 | 425 | 234 | Jaybee Nguyen |
 | 426 | 233 | Nutty Matchline |
 | 427 | 233 | Jumpy Gridclear |
