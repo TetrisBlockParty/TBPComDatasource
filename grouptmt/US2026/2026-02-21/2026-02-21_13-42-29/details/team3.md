@@ -141,8 +141,8 @@
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
 | 135 | 189 | Sissy Lowery Davis |
-| 136 | 189 | Staci George Fitzsimmons |
-| 137 | 189 | Fallorina Susana |
+| 136 | 189 | Fallorina Susana |
+| 137 | 189 | Staci George Fitzsimmons |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
 | 140 | 182 | Hyper Matchzone |

@@ -356,8 +356,8 @@
 | 348 | 270 | Angela Lynn |
 | 349 | 269 | Reece Smith |
 | 350 | 268 | Chummy Blockbuilder |
-| 351 | 266 | Mike Aprilliano |
-| 352 | 266 | Mighty Shatterfit |
+| 351 | 266 | Mighty Shatterfit |
+| 352 | 266 | Mike Aprilliano |
 | 353 | 264 | Dapper Dasher |
 | 354 | 264 | Giddy Gridclear |
 | 355 | 263 | Taylor Flowers |
@@ -411,8 +411,8 @@
 | 403 | 236 | Niceday |
 | 404 | 236 | Julio A Laracuente |
 | 405 | 235 | Kimberly Mitchell |
-| 406 | 234 | Jennifer Leigh |
-| 407 | 234 | Manny Trindade |
+| 406 | 234 | Manny Trindade |
+| 407 | 234 | Jennifer Leigh |
 | 408 | 234 | Jaybee Nguyen |
 | 409 | 233 | Jumpy Gridclear |
 | 410 | 233 | Nutty Matchline |

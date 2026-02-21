@@ -73,8 +73,8 @@
 | 65 | 208 | Carrie Beck Geartz |
 | 66 | 208 | Mandyy Rae |
 | 67 | 205 | Trippy Redd |
-| 68 | 204 | Ly Phethmany |
-| 69 | 204 | Lexuriuos Lifestlye |
+| 68 | 204 | Lexuriuos Lifestlye |
+| 69 | 204 | Ly Phethmany |
 | 70 | 202 | Dee Perry |
 | 71 | 201 | Ananda Mendez |
 | 72 | 201 | Anaid Sanchez |
