@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -181,8 +181,8 @@
 | 173 | 127 | Aerian Preston |
 | 174 | 127 | Connie Mohler-Fair |
 | 175 | 126 | Brandon Givens |
-| 176 | 125 | Shimika Enay Wallace |
-| 177 | 125 | Felicia Doxey |
+| 176 | 125 | Felicia Doxey |
+| 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
 | 179 | 123 | Kristie McFarland |
 | 180 | 123 | Sarajane Lokan |
@@ -260,9 +260,9 @@
 | 252 | 95 | MizzMonick Smith |
 | 253 | 94 | Angie Harper |
 | 254 | 93 | Tiffany Ford |
-| 255 | 92 | Jennifer Caputo |
-| 256 | 92 | Ava Petito |
-| 257 | 92 | Trice Thomas |
+| 255 | 92 | Ava Petito |
+| 256 | 92 | Trice Thomas |
+| 257 | 92 | Jennifer Caputo |
 | 258 | 91 | Martin Bernier |
 | 259 | 90 | Tiffany Kaupang |
 | 260 | 90 | Nichole Greene |

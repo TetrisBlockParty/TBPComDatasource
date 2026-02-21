@@ -251,8 +251,8 @@
 | 243 | 312 | Michelle Pike |
 | 244 | 311 | Véronique Lévesque Sabourin |
 | 245 | 311 | Dar |
-| 246 | 309 | Oscar Bernie |
-| 247 | 309 | Ginger |
+| 246 | 309 | Ginger |
+| 247 | 309 | Oscar Bernie |
 | 248 | 309 | James Zaragoza |
 | 249 | 306 | Kristopher Miller |
 | 250 | 305 | Libby Hicks |
@@ -393,10 +393,10 @@
 | 385 | 212 | Aleasha M Brown |
 | 386 | 209 | Jerry Tempelmeyer |
 | 387 | 209 | Dawn L Washington-Feuquay |
-| 388 | 208 | Nancy Pohlman |
-| 389 | 208 | Mema |
-| 390 | 207 | Melissa McCall |
-| 391 | 207 | Brave Gridpiece |
+| 388 | 208 | Mema |
+| 389 | 208 | Nancy Pohlman |
+| 390 | 207 | Brave Gridpiece |
+| 391 | 207 | Melissa McCall |
 | 392 | 207 | Shylee Tilman |
 | 393 | 206 | RAEPR05 |
 | 394 | 206 | Neko Preston |
@@ -410,13 +410,13 @@
 | 402 | 200 | LaWanda Powell |
 | 403 | 200 | Sarah Ridenour |
 | 404 | 199 | Fi Ne |
-| 405 | 199 | Jenny Castro |
-| 406 | 199 | Jessica Sutter |
+| 405 | 199 | Jessica Sutter |
+| 406 | 199 | Jenny Castro |
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Alyssa Dean |
 | 409 | 197 | Alyssa Nadine Medelez |
-| 410 | 196 | Cass Shirley |
-| 411 | 196 | Alexandra Reese |
+| 410 | 196 | Alexandra Reese |
+| 411 | 196 | Cass Shirley |
 | 412 | 196 | Besma Ao |
 | 413 | 195 | Emily Lyric Converse |
 | 414 | 195 | Unica Rector |
@@ -484,8 +484,8 @@
 | 476 | 169 | Eddie Perez |
 | 477 | 168 | Phil J. Grombliniak |
 | 478 | 168 | Kati Russeau |
-| 479 | 167 | Sabrena Yeisley |
-| 480 | 167 | mshir |
+| 479 | 167 | mshir |
+| 480 | 167 | Sabrena Yeisley |
 | 481 | 166 | suuny |
 | 482 | 165 | Tara Lynn Janes |
 | 483 | 165 | Catherine Varea |

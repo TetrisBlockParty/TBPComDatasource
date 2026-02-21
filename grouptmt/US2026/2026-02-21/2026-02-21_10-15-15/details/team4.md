@@ -86,8 +86,8 @@
 | 78 | 165 | Courtney Cicoria |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -99,8 +99,8 @@
 | 91 | 138 | Shainne Brewer |
 | 92 | 137 | 030Synner |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Jessica Bohlken |
-| 95 | 134 | Chirpy Basepiece |
+| 94 | 134 | Chirpy Basepiece |
+| 95 | 134 | Jessica Bohlken |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Jessica Cagle |
 | 98 | 132 | Jenna McGeorge |
@@ -151,8 +151,8 @@
 | 143 | 104 | Adam Randall |
 | 144 | 102 | Faja |
 | 145 | 102 | ĥuf |
-| 146 | 101 | Michelle Morris |
-| 147 | 101 | Saulc1991 |
+| 146 | 101 | Saulc1991 |
+| 147 | 101 | Michelle Morris |
 | 148 | 100 | Alexandra Karavias |
 | 149 | 99 | KM8 |
 | 150 | 98 | Chaz |

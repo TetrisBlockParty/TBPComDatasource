@@ -58,8 +58,8 @@
 | 50 | 238 | Bhelle Sumile |
 | 51 | 225 | Elaine Elaine |
 | 52 | 217 | Deanna L Hermanson |
-| 53 | 212 | Jaimie Lynn |
-| 54 | 212 | Tdub |
+| 53 | 212 | Tdub |
+| 54 | 212 | Jaimie Lynn |
 | 55 | 208 | Carrie Beck Geartz |
 | 56 | 205 | Trippy Redd |
 | 57 | 204 | Ly Phethmany |
@@ -131,11 +131,11 @@
 | 123 | 115 | Mrs.Patrica |
 | 124 | 114 | Giddy Cascade |
 | 125 | 114 | Colleen Wise |
-| 126 | 112 | Miguel Teixeira |
-| 127 | 112 | Nicole Roseberry Weber |
-| 128 | 112 | Kristen Gideon |
-| 129 | 111 | Agustin Duarte Orozco |
-| 130 | 111 | Jessica Russell |
+| 126 | 112 | Kristen Gideon |
+| 127 | 112 | Miguel Teixeira |
+| 128 | 112 | Nicole Roseberry Weber |
+| 129 | 111 | Jessica Russell |
+| 130 | 111 | Agustin Duarte Orozco |
 | 131 | 110 | Heidi Feurer |
 | 132 | 110 | Garcia Bailey |
 | 133 | 108 | Tavia |
@@ -160,8 +160,8 @@
 | 152 | 98 | Witty Builderfit |
 | 153 | 98 | Loony Fitzone |
 | 154 | 96 | Melissa Lemmon |
-| 155 | 96 | Nery Martinez |
-| 156 | 96 | Barrbaric |
+| 155 | 96 | Barrbaric |
+| 156 | 96 | Nery Martinez |
 | 157 | 94 | Luciano Moreira |
 | 158 | 93 | Cody Gates |
 | 159 | 92 | Timothy Dew |
