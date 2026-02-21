@@ -408,8 +408,8 @@
 | 400 | 335 | Brooke Leigh Strube |
 | 401 | 334 | Brittney Jean |
 | 402 | 334 | Peppy Snapfall |
-| 403 | 333 | Offonar Facey |
-| 404 | 333 | Tra Barnum |
+| 403 | 333 | Tra Barnum |
+| 404 | 333 | Offonar Facey |
 | 405 | 333 | LordZophar |
 | 406 | 332 | Nicole Cannon |
 | 407 | 331 | Kia Humphery |
@@ -674,8 +674,8 @@
 | 666 | 204 | Ali Gralski |
 | 667 | 204 | Janai Vrabel |
 | 668 | 204 | Ryan Lauer |
-| 669 | 204 | Kimberly Ann |
-| 670 | 204 | Brenna Ann |
+| 669 | 204 | Brenna Ann |
+| 670 | 204 | Kimberly Ann |
 | 671 | 203 | Alyssa Dean |
 | 672 | 203 | Sveta Lana |
 | 673 | 202 | Jennifer Coe |

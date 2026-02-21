@@ -46,8 +46,8 @@
 | 38 | 494 | Rodney McMath Jr. |
 | 39 | 488 | Anthony Bryan Riva |
 | 40 | 486 | Landon Keith Graffeo |
-| 41 | 483 | Carmethia Clemons Haslerig |
-| 42 | 483 | Kimberly Love |
+| 41 | 483 | Kimberly Love |
+| 42 | 483 | Carmethia Clemons Haslerig |
 | 43 | 470 | Carolyn Wallace |
 | 44 | 469 | Cherrish Duren |
 | 45 | 465 | Dawn Alexander |
@@ -91,13 +91,13 @@
 | 83 | 254 | Holly Jolly |
 | 84 | 252 | Girl |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Lucas J Sutton |
-| 87 | 230 | Autum Leigh |
+| 86 | 230 | Autum Leigh |
+| 87 | 230 | Lucas J Sutton |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |
-| 91 | 218 | Brittney Orengo |
-| 92 | 218 | Casey Grabner |
+| 91 | 218 | Casey Grabner |
+| 92 | 218 | Brittney Orengo |
 | 93 | 218 | Antony Dwayne Beasley |
 | 94 | 215 | Dustee Craddock-Harrison |
 | 95 | 212 | Calvin Cannon |
@@ -132,8 +132,8 @@
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
 | 126 | 176 | Stacey Stano |
-| 127 | 174 | shark tato |
-| 128 | 174 | Dihcheese444 |
+| 127 | 174 | Dihcheese444 |
+| 128 | 174 | shark tato |
 | 129 | 174 | Zethra Prenisha Rahming |
 | 130 | 173 | blockstar |
 | 131 | 173 | Ren Mc |
