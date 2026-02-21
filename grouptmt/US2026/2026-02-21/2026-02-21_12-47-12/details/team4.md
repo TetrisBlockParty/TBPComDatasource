@@ -108,9 +108,9 @@
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Serena Goodridge |
-| 104 | 134 | Chirpy Basepiece |
-| 105 | 134 | Jessica Bohlken |
+| 103 | 134 | Chirpy Basepiece |
+| 104 | 134 | Jessica Bohlken |
+| 105 | 134 | Serena Goodridge |
 | 106 | 133 | Robin Watters |
 | 107 | 132 | Jessica Cagle |
 | 108 | 132 | Degenerate |

@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -110,9 +110,9 @@
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | Plucky Ziggy |
+| 105 | 144 | Tanya Carpenter-Reynolds |
 | 106 | 144 | femmefatale |
-| 107 | 144 | Tanya Carpenter-Reynolds |
+| 107 | 144 | Plucky Ziggy |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 138 | Cranky Pattern |
@@ -188,8 +188,8 @@
 | 180 | 88 | MommaKFC |
 | 181 | 88 | Larry Tilton |
 | 182 | 87 | Jenny Gingrich Fuentes |
-| 183 | 87 | Jessi Sauer |
-| 184 | 87 | Carolyn Smith |
+| 183 | 87 | Carolyn Smith |
+| 184 | 87 | Jessi Sauer |
 | 185 | 86 | Basment Living |
 | 186 | 85 | John Barron |
 | 187 | 85 | Steve Schneider |

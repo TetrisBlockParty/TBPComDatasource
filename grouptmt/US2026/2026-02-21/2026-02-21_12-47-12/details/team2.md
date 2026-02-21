@@ -124,8 +124,8 @@
 | 116 | 631 | Peppy Zone |
 | 117 | 620 | BYM4L |
 | 118 | 619 | Jamie Otero |
-| 119 | 608 | Sommer Shope |
-| 120 | 608 | John Bednarik |
+| 119 | 608 | John Bednarik |
+| 120 | 608 | Sommer Shope |
 | 121 | 601 | Nancy Reid |
 | 122 | 597 | Andea Beck |
 | 123 | 591 | Alisha |
