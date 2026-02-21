@@ -191,8 +191,8 @@
 | 183 | 128 | Ericca Eldridge |
 | 184 | 128 | April Rondinone |
 | 185 | 126 | Nerdy Twisterfit |
-| 186 | 125 | Judy Cox |
-| 187 | 125 | Heather Tushner |
+| 186 | 125 | Heather Tushner |
+| 187 | 125 | Judy Cox |
 | 188 | 125 | Duck |
 | 189 | 124 | Allen Lloyd |
 | 190 | 124 | SammieJo Guy |
@@ -733,7 +733,7 @@
 | 725 | 30 | JD |
 | 726 | 29 | moneybagz |
 | 727 | 29 | Walter Beltran |
-| 728 | 29 | moneybagz |
+| 728 | 29 | Sarah Elizabeth Baker |
 | 729 | 29 | Jr McQue |
 | 730 | 29 | Denatrious Perry |
 | 731 | 29 | Penny Dean |
