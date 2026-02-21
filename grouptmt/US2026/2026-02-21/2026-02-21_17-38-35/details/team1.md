@@ -32,8 +32,8 @@
 | 24 | 590 | Robert Beck |
 | 25 | 547 | Marianne Louise West |
 | 26 | 543 | Aaron Garnett |
-| 27 | 541 | Drew Magnus |
-| 28 | 541 | Jorge Andrade |
+| 27 | 541 | Jorge Andrade |
+| 28 | 541 | Drew Magnus |
 | 29 | 521 | Hyp James NObettadanluvarat |
 | 30 | 517 | Felicia Lewis |
 | 31 | 516 | comrade fish |
@@ -101,8 +101,8 @@
 | 93 | 193 | Lachelle Dillon |
 | 94 | 192 | Shaykmia |
 | 95 | 191 | Diane Byrd |
-| 96 | 190 | Thorne Shumate |
-| 97 | 190 | Sweetts |
+| 96 | 190 | Sweetts |
+| 97 | 190 | Thorne Shumate |
 | 98 | 189 | Happy Basegrid |
 | 99 | 186 | Jennifer Olewnik Soborowski |
 | 100 | 185 | Ash Galvan |
@@ -183,8 +183,8 @@
 | 175 | 120 | Kimmie Kimms |
 | 176 | 119 | Tater |
 | 177 | 116 | Jessica Russell |
-| 178 | 115 | Chuck Gannon |
-| 179 | 115 | Mrs.Patrica |
+| 178 | 115 | Mrs.Patrica |
+| 179 | 115 | Chuck Gannon |
 | 180 | 113 | Desiree Deschaine Havee |
 | 181 | 112 | Chris65 |
 | 182 | 111 | Chirpy Smasher |

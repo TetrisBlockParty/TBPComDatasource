@@ -577,8 +577,8 @@
 | 569 | 201 | Stanley Vanekelenburg |
 | 570 | 201 | Lakeela Wise |
 | 571 | 201 | Twisty Tetriblast |
-| 572 | 200 | Sveta Lana |
-| 573 | 200 | Sara Silvernail-Kay |
+| 572 | 200 | Sara Silvernail-Kay |
+| 573 | 200 | Sveta Lana |
 | 574 | 200 | Biggest thing |
 | 575 | 200 | LaWanda Powell |
 | 576 | 199 | Jessica Sutter |
@@ -714,11 +714,11 @@
 | 706 | 163 | Jacob Huffman |
 | 707 | 163 | Angelica |
 | 708 | 162 | Alice Samm |
-| 709 | 162 | LC Hamilton |
-| 710 | 162 | Nate Lee |
+| 709 | 162 | Nate Lee |
+| 710 | 162 | LC Hamilton |
 | 711 | 162 | Chirpy Snapper |
-| 712 | 161 | Perry Hubert |
-| 713 | 161 | Crystal Herndon |
+| 712 | 161 | Crystal Herndon |
+| 713 | 161 | Perry Hubert |
 | 714 | 160 | Poppy Gridder |
 | 715 | 160 | Amy Reynolds |
 | 716 | 160 | Sharice Thompson |
@@ -743,7 +743,7 @@
 | 735 | 157 | Sassy Pivot |
 | 736 | 157 | Leslie |
 | 737 | 156 | Tara Creel |
-| 738 | 156 | Renee Bowers |
+| 738 | 156 | Elizabeth Cotton |
 | 739 | 156 | Delfina Marie Villasenor |
 | 740 | 156 | Renee Bowers |
 | 741 | 155 | Zachary Boyarski |
@@ -753,8 +753,8 @@
 | 745 | 154 | Lydia Greenman |
 | 746 | 154 | Bryan Werleman |
 | 747 | 154 | Ashe Corso |
-| 748 | 154 | Fancy Setter |
-| 749 | 154 | Brian Easterday |
+| 748 | 154 | Brian Easterday |
+| 749 | 154 | Fancy Setter |
 | 750 | 153 | Ryan Kluck |
 | 751 | 153 | Roman Lavochnik |
 | 752 | 152 | Roseanna Peloso |

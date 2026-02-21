@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 546 | LisaJo Picken Buchanan |
 | 27 | 541 | Rebecca Moulton Pinciaro |
@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Alyssa Papen |
-| 80 | 215 | Jae Job |
+| 79 | 215 | Jae Job |
+| 80 | 215 | Alyssa Papen |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -127,22 +127,22 @@
 | 119 | 152 | Jessica Bohlken |
 | 120 | 151 | Bethany Ison |
 | 121 | 151 | Dana Scott |
-| 122 | 148 | Brittany Marsh |
-| 123 | 148 | Janita Parrish |
-| 124 | 147 | Nugget |
+| 122 | 148 | Janita Parrish |
+| 123 | 148 | Brittany Marsh |
+| 124 | 147 | Chair |
 | 125 | 147 | 030Synner |
-| 126 | 147 | Jay28 |
-| 127 | 147 | Chair |
+| 126 | 147 | Nugget |
+| 127 | 147 | Jay28 |
 | 128 | 146 | Klo |
 | 129 | 144 | Mr. Party |
 | 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Shannon Ferrari |
-| 133 | 140 | Jenna McGeorge |
-| 134 | 137 | Roger Coulter |
-| 135 | 137 | PeaceOs |
-| 136 | 136 | Serena Goodridge |
-| 137 | 136 | Tanner Lund |
+| 132 | 140 | Jenna McGeorge |
+| 133 | 140 | Shannon Ferrari |
+| 134 | 137 | PeaceOs |
+| 135 | 137 | Roger Coulter |
+| 136 | 136 | Tanner Lund |
+| 137 | 136 | Serena Goodridge |
 | 138 | 135 | ĥuf |
 | 139 | 134 | Chirpy Basepiece |
 | 140 | 133 | Zany Shatterer |
@@ -153,11 +153,11 @@
 | 145 | 131 | Diana Houts |
 | 146 | 130 | Casey Jeffcoat |
 | 147 | 129 | John Brunetti |
-| 148 | 128 | Stephme310 |
-| 149 | 128 | Rio Rocha |
+| 148 | 128 | Rio Rocha |
+| 149 | 128 | Stephme310 |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | TinyLegoRose |
-| 152 | 126 | Dihcheese444 |
+| 151 | 126 | Dihcheese444 |
+| 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
