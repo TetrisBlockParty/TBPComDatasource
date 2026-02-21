@@ -111,9 +111,9 @@
 | 103 | 239 | Dustee Craddock-Harrison |
 | 104 | 237 | Lori Walker |
 | 105 | 232 | Meagan Nicole |
-| 106 | 230 | Daria Rycewicz |
-| 107 | 230 | Autum Leigh |
-| 108 | 230 | Lucas J Sutton |
+| 106 | 230 | Autum Leigh |
+| 107 | 230 | Lucas J Sutton |
+| 108 | 230 | Daria Rycewicz |
 | 109 | 224 | Sarah Brown |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
@@ -147,8 +147,8 @@
 | 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Andria Lynn |
-| 142 | 181 | Carter Jones |
-| 143 | 181 | Klo |
+| 142 | 181 | Klo |
+| 143 | 181 | Carter Jones |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
 | 146 | 176 | Zethra Prenisha Rahming |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | ThaEviLJeNiuZ |
-| 153 | 164 | 030Synner |
+| 152 | 164 | 030Synner |
+| 153 | 164 | ThaEviLJeNiuZ |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |

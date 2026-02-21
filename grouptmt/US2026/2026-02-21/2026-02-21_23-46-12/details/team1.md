@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
@@ -172,8 +172,8 @@
 | 164 | 165 | Nadine Velardo |
 | 165 | 163 | Tyler Whitley |
 | 166 | 162 | Cece Ibarra |
-| 167 | 161 | Jessie Lynn |
-| 168 | 161 | SavageBooty98 |
+| 167 | 161 | SavageBooty98 |
+| 168 | 161 | Jessie Lynn |
 | 169 | 159 | Bindi |
 | 170 | 158 | Arianna O'Brien |
 | 171 | 158 | Sarah Marie |

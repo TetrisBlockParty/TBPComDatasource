@@ -155,8 +155,8 @@
 | 147 | 808 | John Bednarik |
 | 148 | 807 | Khalil Lowe |
 | 149 | 802 | Robin Kerby |
-| 150 | 800 | Tacara Cummings |
-| 151 | 800 | Danielle Johnson-Chandler |
+| 150 | 800 | Danielle Johnson-Chandler |
+| 151 | 800 | Tacara Cummings |
 | 152 | 792 | Jumpy Gridpiece |
 | 153 | 791 | Chirpy Staggerpiece |
 | 154 | 789 | Stephanie Chapman |
@@ -317,8 +317,8 @@
 | 309 | 463 | Sue Leard |
 | 310 | 460 | Barbra Miller |
 | 311 | 460 | Cody Smith-Candelaria |
-| 312 | 459 | Brainy Smurf |
-| 313 | 459 | Doowop40 |
+| 312 | 459 | Doowop40 |
+| 313 | 459 | Brainy Smurf |
 | 314 | 458 | Maegan Beaule |
 | 315 | 454 | Nashu |
 | 316 | 454 | Casey Schumacher |
@@ -328,8 +328,8 @@
 | 320 | 452 | Alezandra Smith |
 | 321 | 451 | Daphne Jordan |
 | 322 | 451 | Dylan Thomason |
-| 323 | 449 | Shelley Thornburgh Wright |
-| 324 | 449 | Davetta Sanford |
+| 323 | 449 | Davetta Sanford |
+| 324 | 449 | Shelley Thornburgh Wright |
 | 325 | 448 | Jojo Momma |
 | 326 | 447 | Heather Schelkopf |
 | 327 | 447 | Lourisha |

@@ -199,14 +199,14 @@
 | 191 | 211 | Giddy Twistbuilder |
 | 192 | 210 | Michael Lucado |
 | 193 | 209 | Twisty Brick LT |
-| 194 | 207 | Jessica |
-| 195 | 207 | Chris Bell |
+| 194 | 207 | Chris Bell |
+| 195 | 207 | Jessica |
 | 196 | 205 | Sarah Moyer |
 | 197 | 204 | Danielle Allison |
 | 198 | 201 | IamJust Neyamijah Washington Sr. |
 | 199 | 201 | Karon Griffin |
-| 200 | 200 | Sharisse Baltimore |
-| 201 | 200 | glichmod |
+| 200 | 200 | glichmod |
+| 201 | 200 | Sharisse Baltimore |
 | 202 | 199 | Rania Zaqout |
 | 203 | 197 | Staci George Fitzsimmons |
 | 204 | 197 | Angie Harper |
@@ -244,8 +244,8 @@
 | 236 | 174 | Marquita Sheard |
 | 237 | 172 | Grams |
 | 238 | 170 | Lesley Perez |
-| 239 | 169 | Emma |
-| 240 | 169 | Daryn Elliott |
+| 239 | 169 | Daryn Elliott |
+| 240 | 169 | Emma |
 | 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
 | 243 | 166 | Betty Rosas |
@@ -283,9 +283,9 @@
 | 275 | 148 | Carrie Huskey |
 | 276 | 148 | Gumbo |
 | 277 | 147 | Ashley Lynn Marchese |
-| 278 | 146 | Rachel |
+| 278 | 146 | Tony Waters |
 | 279 | 146 | Ava Petito |
-| 280 | 146 | Tony Waters |
+| 280 | 146 | Rachel |
 | 281 | 145 | Bryan Byrd |
 | 282 | 144 | Tenisha Semidey |
 | 283 | 144 | fraulila |
@@ -318,8 +318,8 @@
 | 310 | 132 | April Matthew Kibble |
 | 311 | 132 | Angela Scott |
 | 312 | 132 | Melissa Snyder |
-| 313 | 131 | Noettín Kan Zasnemoore |
-| 314 | 131 | Beppy |
+| 313 | 131 | Beppy |
+| 314 | 131 | Noettín Kan Zasnemoore |
 | 315 | 131 | Danielle Balcom |
 | 316 | 130 | TotoCherue |
 | 317 | 130 | Karen Picaboo |
