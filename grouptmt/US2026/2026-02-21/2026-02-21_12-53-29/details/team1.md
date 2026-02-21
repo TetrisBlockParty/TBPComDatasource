@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Jen Sartain |
-| 23 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Amanda Summey Schoemer |
+| 23 | 511 | Jen Sartain |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -89,9 +89,9 @@
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | Jennifer Olewnik Soborowski |
-| 85 | 173 | Frothy Pattern |
-| 86 | 173 | june october |
+| 84 | 173 | Frothy Pattern |
+| 85 | 173 | june october |
+| 86 | 173 | Jennifer Olewnik Soborowski |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Redlicious 1 |
 | 89 | 166 | Rico Rico |
@@ -105,8 +105,8 @@
 | 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -127,8 +127,8 @@
 | 119 | 131 | Uhog SF |
 | 120 | 130 | Dandy Basegrid |
 | 121 | 129 | Dino |
-| 122 | 128 | lil mickey |
-| 123 | 128 | Cody Gates |
+| 122 | 128 | Cody Gates |
+| 123 | 128 | lil mickey |
 | 124 | 127 | Michael |
 | 125 | 124 | Cartier |
 | 126 | 121 | Bouncy Grid |

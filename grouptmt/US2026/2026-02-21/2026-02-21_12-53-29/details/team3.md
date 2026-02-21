@@ -367,8 +367,8 @@
 | 359 | 73 | Nerdy Wipeout |
 | 360 | 73 | Rainbow77375 |
 | 361 | 73 | punky monkey buttky |
-| 362 | 73 | Elyse Grabowsky |
-| 363 | 73 | Spicy Caster |
+| 362 | 73 | Spicy Caster |
+| 363 | 73 | Elyse Grabowsky |
 | 364 | 72 | Barbara Bennett |
 | 365 | 72 | Gimmegimmebeer |
 | 366 | 72 | Jodi Kaczynski-O'Dowd |
@@ -382,7 +382,7 @@
 | 374 | 71 | Tasha Gillespie |
 | 375 | 71 | Goofy Fall |
 | 376 | 71 | Julia Nicole |
-| 377 | 71 | Goofy Fall |
+| 377 | 71 | Katheline Lazo Luizaga |
 | 378 | 70 | Brave Bruno |
 | 379 | 70 | Ruggergamer1 |
 | 380 | 70 | cherry 🍒pie |
@@ -711,7 +711,7 @@
 | 703 | 38 | Snappy Balancer |
 | 704 | 38 | crystal |
 | 705 | 37 | Jennifer Tedder |
-| 706 | 37 | Marie Thomas |
+| 706 | 37 | Cdawn Langford |
 | 707 | 37 | Gary R Anderson |
 | 708 | 37 | TheNikkiJ |
 | 709 | 37 | Marie Thomas |

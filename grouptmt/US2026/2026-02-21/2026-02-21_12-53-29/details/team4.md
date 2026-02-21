@@ -92,8 +92,8 @@
 | 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Stacey Stano |
-| 88 | 160 | Carter Jones |
+| 87 | 160 | Carter Jones |
+| 88 | 160 | Stacey Stano |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
@@ -205,7 +205,7 @@
 | 197 | 85 | Mimi |
 | 198 | 84 | Chris Alexinas |
 | 199 | 84 | Perky Piecegrid |
-| 200 | 83 | Sunny Filler |
+| 200 | 83 | Alan George LaRage |
 | 201 | 83 | Joseph Gray |
 | 202 | 83 | Sunny Filler |
 | 203 | 83 | Abigail Murphy |
@@ -292,8 +292,8 @@
 | 284 | 62 | Glitzy Crasher |
 | 285 | 61 | Alee Marie |
 | 286 | 61 | Chilly Crasher |
-| 287 | 61 | Jackson Karen |
-| 288 | 61 | Alee Marie |
+| 287 | 61 | Plucky Patternblock |
+| 288 | 61 | Jackson Karen |
 | 289 | 60 | Adam Stephanie Parker |
 | 290 | 60 | Kris Zulch |
 | 291 | 59 | Porkobello |
