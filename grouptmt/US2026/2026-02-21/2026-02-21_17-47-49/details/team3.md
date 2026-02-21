@@ -167,8 +167,8 @@
 | 159 | 193 | Stephanie Burtin |
 | 160 | 193 | Duane Bright |
 | 161 | 193 | Clever Shiftsnap |
-| 162 | 191 | Giddy Twistbuilder |
-| 163 | 191 | Ashley Muncey |
+| 162 | 191 | Ashley Muncey |
+| 163 | 191 | Giddy Twistbuilder |
 | 164 | 191 | Scott Carleton |
 | 165 | 189 | Sissy Lowery Davis |
 | 166 | 189 | Staci George Fitzsimmons |
@@ -341,8 +341,8 @@
 | 333 | 96 | Oliver Neal II |
 | 334 | 96 | D3NO |
 | 335 | 95 | Brooke Bauer |
-| 336 | 94 | Tracey Cox |
-| 337 | 94 | Nichole Greene |
+| 336 | 94 | Nichole Greene |
+| 337 | 94 | Tracey Cox |
 | 338 | 93 | Tiffany Ford |
 | 339 | 93 | Martin Bernier |
 | 340 | 93 | Kevin Russell |

@@ -138,10 +138,10 @@
 | 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
 | 132 | 140 | John Brunetti |
-| 133 | 140 | Jenna McGeorge |
-| 134 | 140 | Shannon Ferrari |
-| 135 | 137 | Roger Coulter |
-| 136 | 137 | PeaceOs |
+| 133 | 140 | Shannon Ferrari |
+| 134 | 140 | Jenna McGeorge |
+| 135 | 137 | PeaceOs |
+| 136 | 137 | Roger Coulter |
 | 137 | 136 | Tanner Lund |
 | 138 | 136 | Serena Goodridge |
 | 139 | 135 | ĥuf |
@@ -501,7 +501,7 @@
 | 493 | 44 | Kimberly Paxton |
 | 494 | 44 | Jesus Garcia |
 | 495 | 44 | Amanda Slusser |
-| 496 | 44 | Kimberly Paxton |
+| 496 | 44 | Melissa VanBourgondien |
 | 497 | 44 | Ellen Durfee |
 | 498 | 43 | Eric Wren |
 | 499 | 43 | Bob N Alisha Hinojosa |
