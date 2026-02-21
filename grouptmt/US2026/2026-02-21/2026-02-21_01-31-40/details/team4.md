@@ -62,12 +62,12 @@
 | 54 | 113 | Degenerate |
 | 55 | 112 | Chirpy Basepiece |
 | 56 | 111 | Gwendolyn Pitcairn |
-| 57 | 110 | H.R. Block |
-| 58 | 110 | Zany Shatterer |
+| 57 | 110 | Zany Shatterer |
+| 58 | 110 | H.R. Block |
 | 59 | 109 | Epic Curvetile |
 | 60 | 109 | Bryan Hodgins |
-| 61 | 108 | Mr. Party |
-| 62 | 108 | Diana Houts |
+| 61 | 108 | Diana Houts |
+| 62 | 108 | Mr. Party |
 | 63 | 101 | Michelle Morris |
 | 64 | 100 | Jeff Brian Gates |
 | 65 | 100 | Andria Lynn |

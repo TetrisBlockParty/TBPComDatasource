@@ -64,8 +64,8 @@
 | 56 | 119 | Irual Hctrab |
 | 57 | 117 | David DeSantis |
 | 58 | 116 | Kristen Roles Robben |
-| 59 | 114 | Colleen Wise |
-| 60 | 114 | Giddy Cascade |
+| 59 | 114 | Giddy Cascade |
+| 60 | 114 | Colleen Wise |
 | 61 | 112 | Miguel Teixeira |
 | 62 | 112 | Nicole Roseberry Weber |
 | 63 | 111 | Maria C. Hernandez |
@@ -109,8 +109,8 @@
 | 101 | 75 | Tyler L Hunt |
 | 102 | 74 | Grace Joanne Agnant |
 | 103 | 74 | Gary Gobin |
-| 104 | 73 | Loony Fitzone |
-| 105 | 73 | Witty Builderfit |
+| 104 | 73 | Witty Builderfit |
+| 105 | 73 | Loony Fitzone |
 | 106 | 72 | Tipsy Strikerpiece |
 | 107 | 71 | John Kim |
 | 108 | 69 | Christina Torres |
