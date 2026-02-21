@@ -381,10 +381,10 @@
 | 373 | 151 | Marcie McLain Dodd |
 | 374 | 150 | Jodi Mitnick |
 | 375 | 150 | Hong Tang |
-| 376 | 149 | Leslie Porter |
-| 377 | 149 | Boldy Cascadepiece |
-| 378 | 148 | Shannon Byrd |
-| 379 | 148 | Alicia Parrish |
+| 376 | 149 | Boldy Cascadepiece |
+| 377 | 149 | Leslie Porter |
+| 378 | 148 | Alicia Parrish |
+| 379 | 148 | Shannon Byrd |
 | 380 | 146 | Angie Bolton Workman |
 | 381 | 146 | Sherry Aguinaga |
 | 382 | 146 | JacJac |
@@ -397,8 +397,8 @@
 | 389 | 143 | Angelica |
 | 390 | 142 | Frisky Clearpiece |
 | 391 | 142 | RavensBeard |
-| 392 | 142 | Joy LaJeunesse |
-| 393 | 142 | Angela Lynn |
+| 392 | 142 | Angela Lynn |
+| 393 | 142 | Joy LaJeunesse |
 | 394 | 141 | Erika Meaux |
 | 395 | 141 | Markisha Poyndexter |
 | 396 | 140 | Danielle Ayoub |

@@ -87,8 +87,8 @@
 | 79 | 200 | mjl574 |
 | 80 | 199 | joclisa |
 | 81 | 195 | Nicha Hooker |
-| 82 | 193 | Clever Shiftsnap |
-| 83 | 193 | Shunta Jacobs |
+| 82 | 193 | Shunta Jacobs |
+| 83 | 193 | Clever Shiftsnap |
 | 84 | 192 | Chasity |
 | 85 | 187 | Speedy Bridger |
 | 86 | 185 | Danielle Cutler |
@@ -115,8 +115,8 @@
 | 107 | 135 | Nicole Flippo |
 | 108 | 134 | DanceLuvLaugh |
 | 109 | 131 | Emma |
-| 110 | 129 | Giddy Twistbuilder |
-| 111 | 129 | Jenny Hrndz |
+| 110 | 129 | Jenny Hrndz |
+| 111 | 129 | Giddy Twistbuilder |
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
@@ -558,8 +558,8 @@
 | 550 | 29 | Irene Arreguin |
 | 551 | 29 | Shea Ladynick Henderson |
 | 552 | 29 | Crystal Hine |
-| 553 | 29 | Shea Ladynick Henderson |
-| 554 | 28 | Geoffrey Nash |
+| 553 | 29 | Logan Naccarato |
+| 554 | 28 | Scott Doss |
 | 555 | 28 | MentalBlock |
 | 556 | 28 | Geoffrey Nash |
 | 557 | 28 | Zappy Glidebuilder |

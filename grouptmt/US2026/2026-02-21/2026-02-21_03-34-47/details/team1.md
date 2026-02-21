@@ -70,8 +70,8 @@
 | 62 | 144 | Tana |
 | 63 | 144 | Tanya Carpenter-Reynolds |
 | 64 | 141 | Susanna Guerry |
-| 65 | 137 | Nadine Velardo |
-| 66 | 137 | Chad Atchley |
+| 65 | 137 | Chad Atchley |
+| 66 | 137 | Nadine Velardo |
 | 67 | 135 | Sarah Marie |
 | 68 | 133 | Brandi Huntington |
 | 69 | 132 | Davery Spencer Adair |
