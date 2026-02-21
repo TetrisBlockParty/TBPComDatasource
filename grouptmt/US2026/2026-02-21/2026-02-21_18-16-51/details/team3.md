@@ -235,8 +235,8 @@
 | 227 | 146 | Latoya Mayne |
 | 228 | 146 | Carrie Huskey |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Emma |
-| 231 | 145 | Bryan Byrd |
+| 230 | 145 | Bryan Byrd |
+| 231 | 145 | Emma |
 | 232 | 145 | Jeni Dow |
 | 233 | 142 | David Bardo |
 | 234 | 142 | Danielle Allison |
@@ -247,8 +247,8 @@
 | 239 | 138 | Boldy Corner |
 | 240 | 137 | Joy Petroski |
 | 241 | 136 | Troy |
-| 242 | 135 | Terry Jo Jones |
-| 243 | 135 | Erykah |
+| 242 | 135 | Erykah |
+| 243 | 135 | Terry Jo Jones |
 | 244 | 134 | Cesar Barraza |
 | 245 | 134 | Skinny Baldez |
 | 246 | 134 | Sarah Moyer |
@@ -268,10 +268,10 @@
 | 260 | 124 | Funky Jumper |
 | 261 | 123 | Michael Latasha Gray |
 | 262 | 122 | Eon Harris |
-| 263 | 122 | Giggly Brickroll |
-| 264 | 122 | BabyTonj Evans |
-| 265 | 121 | Fredd Thomas |
-| 266 | 121 | Noettín Kan Zasnemoore |
+| 263 | 122 | BabyTonj Evans |
+| 264 | 122 | Giggly Brickroll |
+| 265 | 121 | Noettín Kan Zasnemoore |
+| 266 | 121 | Fredd Thomas |
 | 267 | 121 | France Vézina |
 | 268 | 120 | Lys |
 | 269 | 119 | BugMansMom |

@@ -905,10 +905,10 @@
 | 897 | 19 | BeeDub |
 | 898 | 19 | Stephanie Randall |
 | 899 | 19 | Soany Barrera |
-| 900 | 19 | dhardy |
-| 901 | 19 | Zany Snapline |
-| 902 | 19 | Shy Lu |
-| 903 | 19 | Brian Ash |
+| 900 | 19 | Brian Ash |
+| 901 | 19 | Shy Lu |
+| 902 | 19 | Zany Snapline |
+| 903 | 19 | dhardy |
 | 904 | 19 | Cynthia Dalton |
 | 905 | 19 | Billy Furrer |
 | 906 | 19 | Edward Woodall |

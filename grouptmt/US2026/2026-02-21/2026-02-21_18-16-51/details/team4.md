@@ -68,8 +68,8 @@
 | 60 | 334 | Leslie Thomas |
 | 61 | 309 | Lisa Davis |
 | 62 | 308 | Jen Allison |
-| 63 | 300 | Jason Hart |
-| 64 | 300 | David Lay |
+| 63 | 300 | David Lay |
+| 64 | 300 | Jason Hart |
 | 65 | 299 | Livvy |
 | 66 | 298 | Nugget |
 | 67 | 295 | Latisha Davis |
@@ -617,8 +617,8 @@
 | 609 | 33 | giantslover514 |
 | 610 | 33 | StarChild |
 | 611 | 33 | Scott Jameson |
-| 612 | 33 | Goatimus Lombardi |
-| 613 | 33 | giantslover514 |
+| 612 | 33 | Paul Brown |
+| 613 | 33 | Goatimus Lombardi |
 | 614 | 33 | Deb Rubeck |
 | 615 | 33 | Mia |
 | 616 | 32 | RonRico Thomas |
