@@ -149,8 +149,8 @@
 | 141 | 659 | Poldo Ilano |
 | 142 | 658 | Pacynthia Williams |
 | 143 | 651 | Unica Rector |
-| 144 | 650 | Shiny Rollzone |
-| 145 | 650 | Claire Noland |
+| 144 | 650 | Claire Noland |
+| 145 | 650 | Shiny Rollzone |
 | 146 | 641 | Ricardo Burton |
 | 147 | 632 | Beth |
 | 148 | 631 | Peppy Zone |
@@ -699,7 +699,7 @@
 | 691 | 164 | Sara Pennington |
 | 692 | 164 | Angela Murgia-Owen |
 | 693 | 164 | Leslie Porter |
-| 694 | 163 | Jacob Huffman |
+| 694 | 163 | Danielle Ayoub |
 | 695 | 163 | Tiffney Wroten |
 | 696 | 163 | Jacob Huffman |
 | 697 | 163 | Ethan Stienbarger |
@@ -938,8 +938,8 @@
 | 930 | 126 | Fancy Chiseler |
 | 931 | 126 | Jackie Avila |
 | 932 | 126 | Stephanie Myers |
-| 933 | 126 | Mar Q Thomas |
-| 934 | 126 | Starrs Dcct |
+| 933 | 126 | Starrs Dcct |
+| 934 | 126 | Mar Q Thomas |
 | 935 | 125 | Goofy Blockfall |
 | 936 | 125 | Kristen Shields |
 | 937 | 125 | trabuco |

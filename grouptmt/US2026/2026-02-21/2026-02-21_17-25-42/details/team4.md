@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Dee Kay |
-| 24 | 590 | Valerie Roberts |
+| 23 | 590 | Valerie Roberts |
+| 24 | 590 | Dee Kay |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 528 | LisaJo Picken Buchanan |
@@ -137,8 +137,8 @@
 | 129 | 144 | Shainne Brewer |
 | 130 | 143 | Nugget |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Jenna McGeorge |
-| 133 | 140 | Shannon Ferrari |
+| 132 | 140 | Shannon Ferrari |
+| 133 | 140 | Jenna McGeorge |
 | 134 | 137 | PeaceOs |
 | 135 | 136 | Serena Goodridge |
 | 136 | 136 | Tanner Lund |

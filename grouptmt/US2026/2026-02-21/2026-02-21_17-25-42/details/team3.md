@@ -85,8 +85,8 @@
 | 77 | 411 | Cynthia Castros-Hampton |
 | 78 | 403 | Christine Filson |
 | 79 | 402 | Stephanie Simpson |
-| 80 | 394 | Shari Garber |
-| 81 | 394 | joclisa |
+| 80 | 394 | joclisa |
+| 81 | 394 | Shari Garber |
 | 82 | 392 | Michelle |
 | 83 | 391 | Calista Jo Dickson |
 | 84 | 390 | Annie Déè |

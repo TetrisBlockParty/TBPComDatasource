@@ -130,8 +130,8 @@
 | 122 | 152 | Jacqueline Unique |
 | 123 | 152 | Speedy Snapfall |
 | 124 | 150 | Adele Rahman |
-| 125 | 149 | Jennifer ManWarren |
-| 126 | 149 | Arianna O'Brien |
+| 125 | 149 | Arianna O'Brien |
+| 126 | 149 | Jennifer ManWarren |
 | 127 | 148 | Shauntina Burke |
 | 128 | 147 | Michael |
 | 129 | 146 | Irual Hctrab |
@@ -149,8 +149,8 @@
 | 141 | 138 | Death |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Giddy Cascade |
-| 145 | 135 | Cody Slav |
+| 144 | 135 | Cody Slav |
+| 145 | 135 | Giddy Cascade |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Cody Gates |
@@ -227,12 +227,12 @@
 | 219 | 94 | Brad MG |
 | 220 | 90 | Daring Fitclear |
 | 221 | 90 | John Kim |
-| 222 | 90 | Grace Joanne Agnant |
-| 223 | 90 | Daring Fitclear |
+| 222 | 90 | Steve Schneider |
+| 223 | 90 | Grace Joanne Agnant |
 | 224 | 89 | Isodor |
-| 225 | 88 | Larry Tilton |
+| 225 | 88 | Sam Williams |
 | 226 | 88 | DoodleBug |
-| 227 | 88 | Sam Williams |
+| 227 | 88 | Larry Tilton |
 | 228 | 87 | Jenny Gingrich Fuentes |
 | 229 | 86 | Basment Living |
 | 230 | 86 | ALFD |
