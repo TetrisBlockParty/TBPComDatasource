@@ -26,8 +26,8 @@
 | 18 | 618 | Leah Gorsuch |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 540 | Kimyatta Cavin |
 | 25 | 535 | Rebecca Moulton Pinciaro |
@@ -105,12 +105,12 @@
 | 97 | 171 | Melvin Baird |
 | 98 | 170 | Girl |
 | 99 | 167 | Denise Carlson |
-| 100 | 164 | blockstar |
-| 101 | 164 | ThaEviLJeNiuZ |
+| 100 | 164 | ThaEviLJeNiuZ |
+| 101 | 164 | blockstar |
 | 102 | 162 | Shauna Havard |
 | 103 | 161 | Joeliecea Cobb |
-| 104 | 160 | ZeeZee |
-| 105 | 160 | Stacey Stano |
+| 104 | 160 | Stacey Stano |
+| 105 | 160 | ZeeZee |
 | 106 | 159 | Holly Jolly |
 | 107 | 157 | quicksand420 |
 | 108 | 154 | Zany Twisterfit |

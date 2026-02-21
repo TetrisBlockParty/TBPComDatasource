@@ -137,8 +137,8 @@
 | 129 | 213 | Morgan Martinez |
 | 130 | 212 | Shunta Jacobs |
 | 131 | 211 | Katrina Schroeder |
-| 132 | 207 | rnr junky |
-| 133 | 207 | Chris Bell |
+| 132 | 207 | Chris Bell |
+| 133 | 207 | rnr junky |
 | 134 | 206 | Chasity |
 | 135 | 205 | Jenny Hrndz |
 | 136 | 204 | Aaron Pitkin |
@@ -148,20 +148,20 @@
 | 140 | 195 | Nicha Hooker |
 | 141 | 194 | glichmod |
 | 142 | 193 | Stephanie Burtin |
-| 143 | 193 | Clever Shiftsnap |
-| 144 | 193 | Duane Bright |
+| 143 | 193 | Duane Bright |
+| 144 | 193 | Clever Shiftsnap |
 | 145 | 191 | Giddy Twistbuilder |
 | 146 | 191 | Scott Carleton |
 | 147 | 189 | Sissy Lowery Davis |
 | 148 | 189 | Staci George Fitzsimmons |
 | 149 | 189 | Fallorina Susana |
 | 150 | 184 | Jennie Beranek |
-| 151 | 182 | Ashley Tookes |
-| 152 | 182 | Hyper Matchzone |
+| 151 | 182 | Hyper Matchzone |
+| 152 | 182 | Ashley Tookes |
 | 153 | 181 | Karon Griffin |
 | 154 | 181 | Aerian Preston |
-| 155 | 179 | Daira Largen |
-| 156 | 179 | Joye Sims Binion |
+| 155 | 179 | Joye Sims Binion |
+| 156 | 179 | Daira Largen |
 | 157 | 179 | Ashley Jones |
 | 158 | 178 | Khaleada McGill Banks |
 | 159 | 178 | Ryan Williams |

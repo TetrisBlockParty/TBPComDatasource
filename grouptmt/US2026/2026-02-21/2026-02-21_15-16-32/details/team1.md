@@ -76,8 +76,8 @@
 | 68 | 217 | Deanna L Hermanson |
 | 69 | 216 | Dee Perry |
 | 70 | 215 | Yvonne Marie |
-| 71 | 212 | Jaimie Lynn |
-| 72 | 212 | Mandyy Rae |
+| 71 | 212 | Mandyy Rae |
+| 72 | 212 | Jaimie Lynn |
 | 73 | 211 | Marianita Garcia |
 | 74 | 208 | Carrie Beck Geartz |
 | 75 | 205 | Trippy Redd |
@@ -142,8 +142,8 @@
 | 134 | 134 | Trina Gee |
 | 135 | 133 | Breanna Luna |
 | 136 | 132 | Cody Gates |
-| 137 | 132 | Davery Spencer Adair |
-| 138 | 132 | LaQuetta Faith Hines |
+| 137 | 132 | LaQuetta Faith Hines |
+| 138 | 132 | Davery Spencer Adair |
 | 139 | 131 | Uhog SF |
 | 140 | 130 | LD1 |
 | 141 | 130 | Dandy Basegrid |
@@ -163,10 +163,10 @@
 | 155 | 119 | April Carroll |
 | 156 | 116 | Evie Khalil |
 | 157 | 116 | Jessica Russell |
-| 158 | 115 | Chuck Gannon |
-| 159 | 115 | Mrs.Patrica |
+| 158 | 115 | Mrs.Patrica |
+| 159 | 115 | Chuck Gannon |
 | 160 | 113 | Desiree Deschaine Havee |
-| 161 | 112 | Chris65 |
+| 161 | 112 | Nicole Roseberry Weber |
 | 162 | 112 | Flashy Rotator |
 | 163 | 112 | Chris65 |
 | 164 | 111 | Agustin Duarte Orozco |
@@ -279,7 +279,7 @@
 | 271 | 70 | Kenton Billings |
 | 272 | 69 | Nathan Sealander |
 | 273 | 69 | Mary Love |
-| 274 | 69 | Strig |
+| 274 | 69 | Connie |
 | 275 | 69 | Gilbert Ortiz Jr. |
 | 276 | 69 | Strig |
 | 277 | 69 | Tina Englert |

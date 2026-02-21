@@ -310,8 +310,8 @@
 | 302 | 327 | Danielle Simmons |
 | 303 | 326 | Elisheva Mizrachi |
 | 304 | 324 | Kiana Boschh |
-| 305 | 323 | KhaosLord |
-| 306 | 323 | Briana Alexander |
+| 305 | 323 | Briana Alexander |
+| 306 | 323 | KhaosLord |
 | 307 | 323 | Trista Dumais |
 | 308 | 318 | Alexandra Weir |
 | 309 | 318 | CC |
@@ -331,8 +331,8 @@
 | 323 | 309 | James Zaragoza |
 | 324 | 307 | Catina Hutchison |
 | 325 | 306 | Kristopher Miller |
-| 326 | 305 | Zany Clusterbuilder |
-| 327 | 305 | Tum |
+| 326 | 305 | Tum |
+| 327 | 305 | Zany Clusterbuilder |
 | 328 | 305 | Libby Hicks |
 | 329 | 303 | Crystal Greene |
 | 330 | 303 | Amanda Schaffer |
@@ -406,12 +406,12 @@
 | 398 | 257 | Jackie Jackie Lee |
 | 399 | 256 | Alishac Marie |
 | 400 | 256 | Tee Jaleesa |
-| 401 | 254 | Elizabeth Diraffaele |
-| 402 | 254 | Rose Fx |
+| 401 | 254 | Rose Fx |
+| 402 | 254 | Elizabeth Diraffaele |
 | 403 | 254 | Julie Hamilton |
 | 404 | 253 | Tansaria Couch-Butler |
-| 405 | 252 | Matt Johnson |
-| 406 | 252 | Alyssia Tancredi |
+| 405 | 252 | Alyssia Tancredi |
+| 406 | 252 | Matt Johnson |
 | 407 | 251 | Ann Knutson Anderson |
 | 408 | 250 | Steve Man |
 | 409 | 249 | Porsche' Nicole |
@@ -422,7 +422,7 @@
 | 414 | 248 | Warren Marleau |
 | 415 | 248 | Dany Murillo |
 | 416 | 247 | Dolores Russworn |
-| 417 | 247 | Robin Kerby |
+| 417 | 247 | Fancy Twister |
 | 418 | 247 | Andrea Devery Beck |
 | 419 | 247 | Robin Kerby |
 | 420 | 246 | Pocho Zavala |
@@ -449,8 +449,8 @@
 | 441 | 232 | Amber Brion |
 | 442 | 232 | Quirky Twistline |
 | 443 | 231 | Hong Tang |
-| 444 | 231 | Dylan Thomason |
-| 445 | 231 | Brave Gridpiece |
+| 444 | 231 | Brave Gridpiece |
+| 445 | 231 | Dylan Thomason |
 | 446 | 230 | Leslie Johnson Guinto |
 | 447 | 229 | Tonya Lee |
 | 448 | 229 | Kimmy Newman |
@@ -910,8 +910,8 @@
 | 902 | 117 | Kelli Clark |
 | 903 | 117 | Funky Riseclear |
 | 904 | 117 | Luceros7 |
-| 905 | 116 | Patrick Langford |
-| 906 | 116 | Moua Ying |
+| 905 | 116 | Moua Ying |
+| 906 | 116 | Patrick Langford |
 | 907 | 116 | Carla Cervantes |
 | 908 | 116 | Slimkaite |
 | 909 | 115 | Melissa Schwager |
