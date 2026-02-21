@@ -72,11 +72,11 @@
 | 64 | 100 | Jeff Brian Gates |
 | 65 | 100 | Andria Lynn |
 | 66 | 99 | Chilly Line |
-| 67 | 98 | Stephme310 |
-| 68 | 98 | Duck |
+| 67 | 98 | Duck |
+| 68 | 98 | Stephme310 |
 | 69 | 97 | YoMomma |
-| 70 | 96 | Zappy Snaplink |
-| 71 | 96 | TinyLegoRose |
+| 70 | 96 | TinyLegoRose |
+| 71 | 96 | Zappy Snaplink |
 | 72 | 92 | Kristin MacDonald |
 | 73 | 90 | ZeeZee |
 | 74 | 89 | Zesty Twistbuilder |
@@ -109,8 +109,8 @@
 | 101 | 70 | Shukee Lo |
 | 102 | 70 | Valerie Roberts |
 | 103 | 69 | Carol Ricks Raymond |
-| 104 | 68 | Sam Middleton |
-| 105 | 68 | LS |
+| 104 | 68 | LS |
+| 105 | 68 | Sam Middleton |
 | 106 | 66 | Chris Alexinas |
 | 107 | 65 | Angela Geist Jusinski |
 | 108 | 64 | rebel4lyfe |

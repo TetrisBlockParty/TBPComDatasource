@@ -104,8 +104,8 @@
 | 96 | 124 | Marquita Sheard |
 | 97 | 122 | Aerian Preston |
 | 98 | 121 | Shimika Enay Wallace |
-| 99 | 120 | Michael Latasha Gray |
-| 100 | 120 | Jessica |
+| 99 | 120 | Jessica |
+| 100 | 120 | Michael Latasha Gray |
 | 101 | 119 | Terry Jo Jones |
 | 102 | 118 | Bea Miles |
 | 103 | 118 | Fancy Curver |
