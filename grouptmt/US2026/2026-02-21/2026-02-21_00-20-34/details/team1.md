@@ -47,8 +47,8 @@
 | 39 | 143 | Veronica Eve |
 | 40 | 135 | Jennifer Cates |
 | 41 | 134 | Plucky Ziggy |
-| 42 | 133 | Brandi Huntington |
-| 43 | 133 | Mandyy Rae |
+| 42 | 133 | Mandyy Rae |
+| 43 | 133 | Brandi Huntington |
 | 44 | 126 | Cece Ibarra |
 | 45 | 123 | Rico Rico |
 | 46 | 122 | Marianne Louise West |

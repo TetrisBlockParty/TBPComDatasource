@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | Jennifer Willis |
-| 53 | 206 | MissTaylor |
+| 52 | 206 | MissTaylor |
+| 53 | 206 | Jennifer Willis |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Shunta Jacobs |
@@ -100,8 +100,8 @@
 | 92 | 110 | Tiff Vs Tiffany |
 | 93 | 108 | Grams |
 | 94 | 107 | Bryan Byrd |
-| 95 | 105 | Hoppy Buildout |
-| 96 | 105 | Nicole Flippo |
+| 95 | 105 | Nicole Flippo |
+| 96 | 105 | Hoppy Buildout |
 | 97 | 103 | Brian Battjes |
 | 98 | 102 | Sarah Moyer |
 | 99 | 102 | mommablock |

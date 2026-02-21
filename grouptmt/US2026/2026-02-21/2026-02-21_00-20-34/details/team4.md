@@ -65,8 +65,8 @@
 | 57 | 98 | Duck |
 | 58 | 96 | Zappy Snaplink |
 | 59 | 94 | TinyLegoRose |
-| 60 | 93 | Serena Goodridge |
-| 61 | 93 | YoMomma |
+| 60 | 93 | YoMomma |
+| 61 | 93 | Serena Goodridge |
 | 62 | 90 | ZeeZee |
 | 63 | 88 | Jenna McGeorge |
 | 64 | 87 | Malakai Darien Fox |
@@ -74,8 +74,8 @@
 | 66 | 87 | Brandi Durig |
 | 67 | 86 | amy |
 | 68 | 85 | Mimi |
-| 69 | 81 | Kesha Brady |
-| 70 | 81 | Michelle Parker |
+| 69 | 81 | Michelle Parker |
+| 70 | 81 | Kesha Brady |
 | 71 | 80 | Shelly Chandler |
 | 72 | 79 | Zesty Twistbuilder |
 | 73 | 78 | Chilly Line |
