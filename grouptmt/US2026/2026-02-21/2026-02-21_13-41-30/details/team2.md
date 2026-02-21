@@ -252,13 +252,13 @@
 | 244 | 356 | Deyawn Smith |
 | 245 | 355 | Kristen O'Neal |
 | 246 | 355 | Shandrica Lowe |
-| 247 | 354 | Tracy Wise |
-| 248 | 354 | Brave Dropmatch |
+| 247 | 354 | Brave Dropmatch |
+| 248 | 354 | Tracy Wise |
 | 249 | 352 | ruth |
 | 250 | 350 | Chris Harr |
 | 251 | 349 | Johnny Yeates |
-| 252 | 348 | Mema |
-| 253 | 348 | Richard Horton |
+| 252 | 348 | Richard Horton |
+| 253 | 348 | Mema |
 | 254 | 345 | Rhianna DiLorenzo |
 | 255 | 345 | Brenda Messer |
 | 256 | 345 | Christy Krissie |
@@ -305,8 +305,8 @@
 | 297 | 303 | Crystal Greene |
 | 298 | 303 | Amanda Schaffer |
 | 299 | 302 | Offonar Facey |
-| 300 | 301 | Claire |
-| 301 | 301 | Lawanda Forbes |
+| 300 | 301 | Lawanda Forbes |
+| 301 | 301 | Claire |
 | 302 | 299 | Deborah Miller |
 | 303 | 299 | Catina Hutchison |
 | 304 | 299 | Tara Lynn Janes |
@@ -432,8 +432,8 @@
 | 424 | 223 | LegoCarpet |
 | 425 | 223 | Laura Wyatt |
 | 426 | 223 | Kristi Biddinger |
-| 427 | 222 | Jason Garnatz |
-| 428 | 222 | Amanda Canterbury |
+| 427 | 222 | Amanda Canterbury |
+| 428 | 222 | Jason Garnatz |
 | 429 | 220 | Katrina Weston |
 | 430 | 220 | Sho Nuff |
 | 431 | 219 | Ashle Scranton |

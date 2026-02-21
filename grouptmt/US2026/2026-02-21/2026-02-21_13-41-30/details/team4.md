@@ -141,8 +141,8 @@
 | 133 | 120 | Joshua Guess |
 | 134 | 119 | Kristin Manee |
 | 135 | 118 | Leslie Nicole |
-| 136 | 116 | Stephme310 |
-| 137 | 116 | Diana Houts |
+| 136 | 116 | Diana Houts |
+| 137 | 116 | Stephme310 |
 | 138 | 115 | Jayk |
 | 139 | 115 | Ultramarine |
 | 140 | 113 | Adam Randall |
@@ -165,8 +165,8 @@
 | 157 | 105 | Sam Middleton |
 | 158 | 104 | Damn Libra |
 | 159 | 103 | Judy Cox |
-| 160 | 102 | ĥuf |
-| 161 | 102 | Faja |
+| 160 | 102 | Faja |
+| 161 | 102 | ĥuf |
 | 162 | 102 | April Rondinone |
 | 163 | 101 | Saulc1991 |
 | 164 | 101 | Michelle Morris |

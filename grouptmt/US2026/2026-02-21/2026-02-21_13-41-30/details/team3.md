@@ -131,8 +131,8 @@
 | 123 | 202 | Twisty Brick LT |
 | 124 | 199 | joclisa |
 | 125 | 198 | Rachael McClain Owens |
-| 126 | 195 | Jenny Hrndz |
-| 127 | 195 | Nicha Hooker |
+| 126 | 195 | Nicha Hooker |
+| 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
 | 130 | 193 | Duane Bright |
@@ -284,11 +284,11 @@
 | 276 | 94 | Tracey Cox |
 | 277 | 94 | Angie Harper |
 | 278 | 93 | Tiffany Ford |
-| 279 | 92 | Ava Petito |
-| 280 | 92 | Jennifer Caputo |
-| 281 | 92 | Melanie Sherwood |
+| 279 | 92 | Jennifer Caputo |
+| 280 | 92 | Ava Petito |
+| 281 | 92 | Trice Thomas |
 | 282 | 92 | Jackie-Lynne Goertzen |
-| 283 | 92 | Trice Thomas |
+| 283 | 92 | Melanie Sherwood |
 | 284 | 91 | Martin Bernier |
 | 285 | 91 | Crystal Hine |
 | 286 | 90 | Alexis Ford |
