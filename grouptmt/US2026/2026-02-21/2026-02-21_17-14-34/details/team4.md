@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 511 | LisaJo Picken Buchanan |
@@ -63,8 +63,8 @@
 | 55 | 334 | KM8 |
 | 56 | 309 | Lisa Davis |
 | 57 | 308 | Jen Allison |
-| 58 | 300 | Jason Hart |
-| 59 | 300 | David Lay |
+| 58 | 300 | David Lay |
+| 59 | 300 | Jason Hart |
 | 60 | 299 | Livvy |
 | 61 | 295 | Latisha Davis |
 | 62 | 293 | HastyGrabber |
@@ -124,13 +124,13 @@
 | 116 | 156 | Holly |
 | 117 | 153 | Empress Oasis |
 | 118 | 152 | Jessica Bohlken |
-| 119 | 151 | Bethany Ison |
-| 120 | 151 | Dana Scott |
+| 119 | 151 | Dana Scott |
+| 120 | 151 | Bethany Ison |
 | 121 | 148 | Brittany Marsh |
 | 122 | 148 | Janita Parrish |
-| 123 | 147 | 030Synner |
-| 124 | 147 | Jay28 |
-| 125 | 147 | Chair |
+| 123 | 147 | Chair |
+| 124 | 147 | 030Synner |
+| 125 | 147 | Jay28 |
 | 126 | 146 | Klo |
 | 127 | 144 | Shainne Brewer |
 | 128 | 144 | Mr. Party |
@@ -164,9 +164,9 @@
 | 156 | 121 | Megan Cutshaw |
 | 157 | 121 | Smiley Tiltbuilder |
 | 158 | 120 | Joshua Guess |
-| 159 | 119 | Judy Cox |
-| 160 | 119 | Kristin Manee |
-| 161 | 119 | Gwendolyn Pitcairn |
+| 159 | 119 | Kristin Manee |
+| 160 | 119 | Gwendolyn Pitcairn |
+| 161 | 119 | Judy Cox |
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Sam Middleton |
 | 164 | 115 | Jayk |

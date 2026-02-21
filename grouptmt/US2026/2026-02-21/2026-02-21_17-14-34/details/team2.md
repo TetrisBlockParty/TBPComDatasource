@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -159,8 +159,8 @@
 | 151 | 614 | Robin Kerby |
 | 152 | 608 | John Bednarik |
 | 153 | 608 | Sommer Shope |
-| 154 | 604 | Amber Shoemaker |
-| 155 | 604 | Danielle Johnson-Chandler |
+| 154 | 604 | Danielle Johnson-Chandler |
+| 155 | 604 | Amber Shoemaker |
 | 156 | 603 | Cassie Maynard |
 | 157 | 602 | L3sli3 |
 | 158 | 596 | Thomas Hughes |
@@ -367,8 +367,8 @@
 | 359 | 310 | Kristopher Miller |
 | 360 | 309 | James Zaragoza |
 | 361 | 307 | Catina Hutchison |
-| 362 | 305 | Tum |
-| 363 | 305 | Zany Clusterbuilder |
+| 362 | 305 | Zany Clusterbuilder |
+| 363 | 305 | Tum |
 | 364 | 305 | Libby Hicks |
 | 365 | 304 | Frisky Clearpiece |
 | 366 | 303 | Crystal Greene |
@@ -396,8 +396,8 @@
 | 388 | 283 | Byung Bae Park |
 | 389 | 282 | Shaun Church |
 | 390 | 282 | Carl Bradshaw |
-| 391 | 281 | Ellie Jonas |
-| 392 | 281 | Justin Hines |
+| 391 | 281 | Justin Hines |
+| 392 | 281 | Ellie Jonas |
 | 393 | 280 | Shorty |
 | 394 | 280 | Lyndi Robinson Wakefield |
 | 395 | 280 | SwampRebel |
@@ -411,12 +411,12 @@
 | 403 | 276 | Lindsey Leigh |
 | 404 | 276 | Vonceial Boone |
 | 405 | 275 | Ann Matzkanin |
-| 406 | 274 | Jamie Stevey |
-| 407 | 274 | August Hale |
-| 408 | 274 | Melissa Holsinger |
+| 406 | 274 | Melissa Holsinger |
+| 407 | 274 | Jamie Stevey |
+| 408 | 274 | August Hale |
 | 409 | 273 | Vanessa Moreno |
-| 410 | 273 | Jenna Nance |
-| 411 | 273 | Giddy Gridclear |
+| 410 | 273 | Giddy Gridclear |
+| 411 | 273 | Jenna Nance |
 | 412 | 272 | Mikayala Szaz |
 | 413 | 271 | Ann Marie Davis |
 | 414 | 271 | Toni Lynn |
@@ -439,8 +439,8 @@
 | 431 | 256 | Tee Jaleesa |
 | 432 | 255 | Snappy Shatterfit |
 | 433 | 254 | Julie Hamilton |
-| 434 | 254 | Elizabeth Diraffaele |
-| 435 | 254 | Rose Fx |
+| 434 | 254 | Rose Fx |
+| 435 | 254 | Elizabeth Diraffaele |
 | 436 | 254 | Ann Knutson Anderson |
 | 437 | 253 | Kimmy Newman |
 | 438 | 253 | Tansaria Couch-Butler |

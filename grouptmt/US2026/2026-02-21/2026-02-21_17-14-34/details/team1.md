@@ -46,8 +46,8 @@
 | 38 | 406 | Christina Graham |
 | 39 | 405 | Karin Gillen |
 | 40 | 403 | Nancy Green |
-| 41 | 402 | Odell Barnett |
-| 42 | 402 | Mara Hilker |
+| 41 | 402 | Mara Hilker |
+| 42 | 402 | Odell Barnett |
 | 43 | 392 | Redlicious 1 |
 | 44 | 382 | Lori Sanders- Davis |
 | 45 | 380 | Robert Beck |
@@ -107,16 +107,16 @@
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Chad Atchley |
-| 103 | 178 | Danielle Little-Daugherty |
-| 104 | 175 | Dandy Basegrid |
-| 105 | 175 | Nicole Roseberry Weber |
+| 102 | 178 | Danielle Little-Daugherty |
+| 103 | 178 | Chad Atchley |
+| 104 | 175 | Nicole Roseberry Weber |
+| 105 | 175 | Dandy Basegrid |
 | 106 | 173 | Frothy Pattern |
 | 107 | 171 | Greg Premoe |
 | 108 | 171 | David DeSantis |
 | 109 | 169 | Abbey Crespo |
-| 110 | 166 | Rico Rico |
-| 111 | 166 | Tana |
+| 110 | 166 | Tana |
+| 111 | 166 | Rico Rico |
 | 112 | 165 | Veronica Eve |
 | 113 | 165 | GATOR |
 | 114 | 163 | Standia Civil |
@@ -153,8 +153,8 @@
 | 145 | 135 | Giddy Cascade |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
-| 148 | 132 | Cody Gates |
-| 149 | 132 | Davery Spencer Adair |
+| 148 | 132 | Davery Spencer Adair |
+| 149 | 132 | Cody Gates |
 | 150 | 131 | Uhog SF |
 | 151 | 131 | Kimberly Garcia |
 | 152 | 130 | LD1 |
