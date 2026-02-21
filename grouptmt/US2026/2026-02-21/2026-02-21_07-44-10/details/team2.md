@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -179,8 +179,8 @@
 | 171 | 386 | Ashie Ann |
 | 172 | 385 | Sam |
 | 173 | 381 | Amanda Ferrell |
-| 174 | 380 | Joshua Mandel |
-| 175 | 380 | Calandra Shaya Robinson |
+| 174 | 380 | Calandra Shaya Robinson |
+| 175 | 380 | Joshua Mandel |
 | 176 | 379 | Auntie B |
 | 177 | 378 | Cody Nishimura |
 | 178 | 377 | Roy Salyer |
@@ -428,8 +428,8 @@
 | 420 | 180 | Jackie Lucas |
 | 421 | 179 | Desiree Harris Rosch |
 | 422 | 179 | Elizabeth Pearson |
-| 423 | 179 | Cat |
-| 424 | 179 | Bette Prieto |
+| 423 | 179 | Bette Prieto |
+| 424 | 179 | Cat |
 | 425 | 178 | Michelle Shrum |
 | 426 | 178 | Lawanda Forbes |
 | 427 | 177 | Juliana Marques Do Nascimento Gordy |

@@ -132,8 +132,8 @@
 | 124 | 107 | Jodee Woods |
 | 125 | 106 | Ash Galvan |
 | 126 | 105 | Flashy Rotator |
-| 127 | 104 | Charla Pross-Fugleberg |
-| 128 | 104 | Alenoush Karimian |
+| 127 | 104 | Alenoush Karimian |
+| 128 | 104 | Charla Pross-Fugleberg |
 | 129 | 103 | Adryane Schnase |
 | 130 | 102 | Jennifer ManWarren |
 | 131 | 100 | Spunky Piecebuilder |
