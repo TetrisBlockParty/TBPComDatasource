@@ -44,16 +44,16 @@
 | 36 | 244 | Franswa |
 | 37 | 243 | Sarah Roberts |
 | 38 | 241 | Kristen Roles Robben |
-| 39 | 212 | Jaimie Lynn |
-| 40 | 212 | Tdub |
+| 39 | 212 | Tdub |
+| 40 | 212 | Jaimie Lynn |
 | 41 | 211 | Deanna L Hermanson |
 | 42 | 208 | Carrie Beck Geartz |
 | 43 | 206 | Elaine Elaine |
 | 44 | 205 | Trippy Redd |
 | 45 | 204 | Ly Phethmany |
 | 46 | 202 | Dee Perry |
-| 47 | 201 | Anaid Sanchez |
-| 48 | 201 | Ananda Mendez |
+| 47 | 201 | Ananda Mendez |
+| 48 | 201 | Anaid Sanchez |
 | 49 | 200 | Lexuriuos Lifestlye |
 | 50 | 198 | Billie Dawn Sparks |
 | 51 | 198 | Happy Snapbuild |
@@ -99,8 +99,8 @@
 | 91 | 130 | Dandy Basegrid |
 | 92 | 128 | Uhog SF |
 | 93 | 127 | Michael |
-| 94 | 126 | Rachael |
-| 95 | 126 | Cece Ibarra |
+| 94 | 126 | Cece Ibarra |
+| 95 | 126 | Rachael |
 | 96 | 121 | Bouncy Grid |
 | 97 | 119 | Tater |
 | 98 | 119 | Irual Hctrab |

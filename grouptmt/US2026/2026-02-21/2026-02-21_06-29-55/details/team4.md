@@ -44,8 +44,8 @@
 | 36 | 274 | Elizabeth Sallas |
 | 37 | 270 | Livvy |
 | 38 | 265 | Julian Garcia |
-| 39 | 256 | Brittney Griggs |
-| 40 | 256 | Dustin Robert |
+| 39 | 256 | Dustin Robert |
+| 40 | 256 | Brittney Griggs |
 | 41 | 244 | Isabella Blanco |
 | 42 | 231 | Michelle Marie |
 | 43 | 231 | Jenna Ingersoll |
@@ -60,13 +60,13 @@
 | 52 | 194 | Jamie Mann-Deichmann |
 | 53 | 185 | loulou |
 | 54 | 179 | Epic Curvetile |
-| 55 | 170 | Girl |
-| 56 | 170 | Leah Kutz Zirbel |
+| 55 | 170 | Leah Kutz Zirbel |
+| 56 | 170 | Girl |
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Courtney Cicoria |
-| 61 | 165 | Casey Grabner |
+| 60 | 165 | Casey Grabner |
+| 61 | 165 | Courtney Cicoria |
 | 62 | 160 | Carter Jones |
 | 63 | 159 | Justin Hannigan |
 | 64 | 159 | Swanky Fitline |
@@ -88,7 +88,7 @@
 | 80 | 132 | Melissa Priest Sellers |
 | 81 | 131 | Zany Twisterfit |
 | 82 | 131 | Mr. Party |
-| 83 | 131 | Zany Twisterfit |
+| 83 | 131 | Dana Scott |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
 | 86 | 129 | John Brunetti |
@@ -105,8 +105,8 @@
 | 97 | 120 | Joshua Guess |
 | 98 | 119 | Kristin Manee |
 | 99 | 118 | Leslie Nicole |
-| 100 | 116 | Diana Houts |
-| 101 | 116 | Serena Goodridge |
+| 100 | 116 | Serena Goodridge |
+| 101 | 116 | Diana Houts |
 | 102 | 115 | Jessica Cagle |
 | 103 | 114 | Zany Shatterer |
 | 104 | 113 | Andria Lynn |
@@ -120,12 +120,12 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | TinyLegoRose |
-| 116 | 105 | Sam Middleton |
-| 117 | 105 | TheNeesh50 |
+| 115 | 105 | Sam Middleton |
+| 116 | 105 | TheNeesh50 |
+| 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
-| 119 | 104 | YoMomma |
-| 120 | 104 | Adam Randall |
+| 119 | 104 | Adam Randall |
+| 120 | 104 | YoMomma |
 | 121 | 102 | Faja |
 | 122 | 101 | Stephme310 |
 | 123 | 101 | Michelle Morris |
@@ -165,10 +165,10 @@
 | 157 | 83 | Avy Absol |
 | 158 | 83 | Holly |
 | 159 | 82 | Kim Hunt |
-| 160 | 81 | Michelle Parker |
+| 160 | 81 | Blessedmama |
 | 161 | 81 | Jumpy Zonepiece |
-| 162 | 81 | Blessedmama |
-| 163 | 81 | Chair |
+| 162 | 81 | Chair |
+| 163 | 81 | Michelle Parker |
 | 164 | 80 | Melissa Adams |
 | 165 | 79 | Nubian1 |
 | 166 | 79 | Joseph Pace |
@@ -194,8 +194,8 @@
 | 186 | 71 | Marcela Johnson |
 | 187 | 70 | Richard-April Kice |
 | 188 | 69 | Carol Ricks Raymond |
-| 189 | 68 | LS |
-| 190 | 68 | 中山成巳 |
+| 189 | 68 | 中山成巳 |
+| 190 | 68 | LS |
 | 191 | 68 | GBR |
 | 192 | 67 | Frank Joseph Epson |
 | 193 | 67 | JPW |

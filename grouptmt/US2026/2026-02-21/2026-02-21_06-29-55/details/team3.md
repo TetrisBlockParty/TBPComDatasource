@@ -133,14 +133,14 @@
 | 125 | 156 | Joey Banks |
 | 126 | 155 | BŘŰŤİÇŨŚ |
 | 127 | 154 | Angela M. Fletcher |
-| 128 | 153 | Giddy Twistbuilder |
-| 129 | 153 | Beth Ingham |
+| 128 | 153 | Beth Ingham |
+| 129 | 153 | Giddy Twistbuilder |
 | 130 | 152 | Shiny Zonebuilder |
 | 131 | 152 | Karon Griffin |
 | 132 | 150 | Nicole Myers |
 | 133 | 149 | Angel Mendez |
-| 134 | 149 | Bea Miles |
-| 135 | 149 | Trisha Balmer |
+| 134 | 149 | Trisha Balmer |
+| 135 | 149 | Bea Miles |
 | 136 | 147 | Sashay Tapae Simpson |
 | 137 | 146 | Denita Mungro |
 | 138 | 146 | Latoya Mayne |
