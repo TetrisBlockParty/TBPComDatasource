@@ -144,8 +144,8 @@
 | 136 | 705 | Roger Grabbit |
 | 137 | 704 | Nerdy Clearfit |
 | 138 | 700 | Vincent Petrella |
-| 139 | 700 | Beverly Owens |
-| 140 | 700 | Rosemadder |
+| 139 | 700 | Rosemadder |
+| 140 | 700 | Beverly Owens |
 | 141 | 698 | Lola Contreras |
 | 142 | 697 | Real Ri |
 | 143 | 694 | Vo'Landa Reels |
@@ -242,8 +242,8 @@
 | 234 | 483 | Osun Anuket Esu |
 | 235 | 482 | Eckoman518 |
 | 236 | 475 | Khalil Lowe |
-| 237 | 474 | Ashley Collins |
-| 238 | 474 | Auntie B |
+| 237 | 474 | Auntie B |
+| 238 | 474 | Ashley Collins |
 | 239 | 474 | Calandra Shaya Robinson |
 | 240 | 470 | Jerry Tempelmeyer |
 | 241 | 469 | Ashley Rose Frederick |
@@ -529,8 +529,8 @@
 | 521 | 244 | Belle |
 | 522 | 244 | Nakiiya Dreamcatcher Gore |
 | 523 | 244 | Jason Garnatz |
-| 524 | 243 | JacJac |
-| 525 | 243 | James Smith |
+| 524 | 243 | James Smith |
+| 525 | 243 | JacJac |
 | 526 | 242 | Donna Chandler |
 | 527 | 240 | Brave Gridpiece |
 | 528 | 240 | Kelly |

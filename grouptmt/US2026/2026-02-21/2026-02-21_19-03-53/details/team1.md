@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
@@ -89,8 +89,8 @@
 | 81 | 240 | Elaine Elaine |
 | 82 | 235 | Dee Perry |
 | 83 | 233 | cc |
-| 84 | 232 | John J. Cronin |
-| 85 | 232 | Cynthia Bradley |
+| 84 | 232 | Cynthia Bradley |
+| 85 | 232 | John J. Cronin |
 | 86 | 230 | Frothy Pattern |
 | 87 | 228 | Trippy Redd |
 | 88 | 228 | Kellie |
@@ -129,8 +129,8 @@
 | 121 | 171 | David DeSantis |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
-| 124 | 166 | Tana |
-| 125 | 166 | Rico Rico |
+| 124 | 166 | Rico Rico |
+| 125 | 166 | Tana |
 | 126 | 165 | Veronica Eve |
 | 127 | 163 | Tyler Whitley |
 | 128 | 162 | Tanya Carpenter-Reynolds |
@@ -190,8 +190,8 @@
 | 182 | 122 | Melissa Lemmon |
 | 183 | 122 | Margo Wagner |
 | 184 | 121 | April Carroll |
-| 185 | 120 | Kimmie Kimms |
-| 186 | 120 | Alenoush Karimian |
+| 185 | 120 | Alenoush Karimian |
+| 186 | 120 | Kimmie Kimms |
 | 187 | 119 | Tater |
 | 188 | 116 | Jessica Russell |
 | 189 | 115 | Mrs.Patrica |
