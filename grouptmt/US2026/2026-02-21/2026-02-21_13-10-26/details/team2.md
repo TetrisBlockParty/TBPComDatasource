@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -121,8 +121,8 @@
 | 113 | 649 | Anna Edwards |
 | 114 | 641 | Ricardo Burton |
 | 115 | 632 | Beth |
-| 116 | 631 | Peppy Zone |
-| 117 | 631 | Loopy Clusterbuilder |
+| 116 | 631 | Loopy Clusterbuilder |
+| 117 | 631 | Peppy Zone |
 | 118 | 620 | BYM4L |
 | 119 | 619 | Jamie Otero |
 | 120 | 608 | John Bednarik |
@@ -170,8 +170,8 @@
 | 162 | 495 | Poppy Snap |
 | 163 | 488 | Teresa Gillmore |
 | 164 | 486 | MrsCandyfine As Wine Truss |
-| 165 | 485 | Leah Keesling |
-| 166 | 485 | Gene Mills |
+| 165 | 485 | Gene Mills |
+| 166 | 485 | Leah Keesling |
 | 167 | 484 | Suki Kaur |
 | 168 | 483 | Jordan Kaiser |
 | 169 | 482 | Eckoman518 |
@@ -184,12 +184,12 @@
 | 176 | 460 | Cody Smith-Candelaria |
 | 177 | 456 | Drwatson187 |
 | 178 | 454 | Casey Schumacher |
-| 179 | 453 | Mischelle Clay |
-| 180 | 453 | Em Chen |
+| 179 | 453 | Em Chen |
+| 180 | 453 | Mischelle Clay |
 | 181 | 453 | Osun Anuket Esu |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Cheech Dta |
-| 184 | 450 | Giggy Blocker |
+| 183 | 450 | Giggy Blocker |
+| 184 | 450 | Cheech Dta |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |
@@ -326,8 +326,8 @@
 | 318 | 280 | SwampRebel |
 | 319 | 280 | Shorty |
 | 320 | 278 | Deana |
-| 321 | 278 | Noel Tarmy |
-| 322 | 278 | Tanya Parsons |
+| 321 | 278 | Tanya Parsons |
+| 322 | 278 | Noel Tarmy |
 | 323 | 278 | Peachy Blockbuilder |
 | 324 | 276 | Lindsey Leigh |
 | 325 | 276 | Vonceial Boone |
@@ -358,8 +358,8 @@
 | 350 | 262 | Taren Cowan |
 | 351 | 262 | Min |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Ebony Deloach Bryant |
-| 354 | 260 | Denise Rickman |
+| 353 | 260 | Denise Rickman |
+| 354 | 260 | Ebony Deloach Bryant |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
 | 356 | 257 | Diana Fitzwater |
 | 357 | 257 | Lyndi Robinson Wakefield |
@@ -539,8 +539,8 @@
 | 531 | 167 | Sabrena Yeisley |
 | 532 | 166 | Lakeela Wise |
 | 533 | 166 | suuny |
-| 534 | 166 | Rhonda Petro |
-| 535 | 166 | Morgan Easter |
+| 534 | 166 | Morgan Easter |
+| 535 | 166 | Rhonda Petro |
 | 536 | 165 | Catherine Varea |
 | 537 | 165 | Austin Wilson |
 | 538 | 164 | Jessica Vega |

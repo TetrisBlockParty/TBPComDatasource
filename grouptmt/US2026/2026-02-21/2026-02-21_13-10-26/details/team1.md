@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Amanda Summey Schoemer |
-| 23 | 511 | Jen Sartain |
+| 22 | 511 | Jen Sartain |
+| 23 | 511 | Amanda Summey Schoemer |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -105,8 +105,8 @@
 | 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -133,11 +133,11 @@
 | 125 | 127 | Michael |
 | 126 | 124 | Cartier |
 | 127 | 121 | Bouncy Grid |
-| 128 | 120 | Alenoush Karimian |
-| 129 | 120 | Kimmie Kimms |
-| 130 | 119 | Irual Hctrab |
-| 131 | 119 | Tater |
-| 132 | 119 | April Carroll |
+| 128 | 120 | Kimmie Kimms |
+| 129 | 120 | Alenoush Karimian |
+| 130 | 119 | April Carroll |
+| 131 | 119 | Irual Hctrab |
+| 132 | 119 | Tater |
 | 133 | 118 | Barry Mac'Ockner |
 | 134 | 116 | Evie Khalil |
 | 135 | 115 | Chuck Gannon |

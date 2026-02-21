@@ -83,8 +83,8 @@
 | 75 | 360 | Ebony West-Cundiff |
 | 76 | 353 | Stephanie Woods |
 | 77 | 346 | Shannon Matthew Byers |
-| 78 | 342 | Annie Déè |
-| 79 | 342 | Trezure Gonzalez |
+| 78 | 342 | Trezure Gonzalez |
+| 79 | 342 | Annie Déè |
 | 80 | 338 | Danielle Rhoades |
 | 81 | 332 | Chauntee Alfrey-Cardinale |
 | 82 | 325 | Shari Garber |
