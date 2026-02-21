@@ -77,8 +77,8 @@
 | 69 | 170 | Leah Kutz Zirbel |
 | 70 | 170 | Girl |
 | 71 | 167 | Denise Carlson |
-| 72 | 165 | Courtney Cicoria |
-| 73 | 165 | Casey Grabner |
+| 72 | 165 | Casey Grabner |
+| 73 | 165 | Courtney Cicoria |
 | 74 | 160 | Carter Jones |
 | 75 | 160 | Zethra Prenisha Rahming |
 | 76 | 159 | Holly Jolly |
@@ -93,8 +93,8 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Jessica Bohlken |
-| 89 | 134 | Chirpy Basepiece |
+| 88 | 134 | Chirpy Basepiece |
+| 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Jessica Cagle |
 | 92 | 132 | Jenna McGeorge |
@@ -148,8 +148,8 @@
 | 140 | 101 | Saulc1991 |
 | 141 | 100 | Alexandra Karavias |
 | 142 | 100 | Megan Cutshaw |
-| 143 | 98 | Chaz |
-| 144 | 98 | Duck |
+| 143 | 98 | Duck |
+| 144 | 98 | Chaz |
 | 145 | 98 | Allen Lloyd |
 | 146 | 97 | Brandi Durig |
 | 147 | 96 | Zappy Snaplink |
@@ -235,11 +235,11 @@
 | 227 | 65 | BlockBabe |
 | 228 | 65 | Lee Silpe |
 | 229 | 65 | Angela Geist Jusinski |
-| 230 | 64 | rebel4lyfe |
-| 231 | 64 | Joseph Edmonson |
+| 230 | 64 | Joseph Edmonson |
+| 231 | 64 | rebel4lyfe |
 | 232 | 63 | Cheery Risebuilder |
-| 233 | 63 | Dawn Alexander |
-| 234 | 63 | Cristy Duerksen |
+| 233 | 63 | Cristy Duerksen |
+| 234 | 63 | Dawn Alexander |
 | 235 | 62 | Jennifer Perkins |
 | 236 | 62 | PennyCandee |
 | 237 | 62 | Glitzy Crasher |

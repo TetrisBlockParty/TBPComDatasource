@@ -407,13 +407,13 @@
 | 399 | 191 | John Quiring |
 | 400 | 191 | Deana |
 | 401 | 190 | blarg |
-| 402 | 190 | Jessica Kaye DeAguero |
-| 403 | 190 | Layna Lyons |
+| 402 | 190 | Layna Lyons |
+| 403 | 190 | Jessica Kaye DeAguero |
 | 404 | 189 | Ramone Armstrong |
 | 405 | 188 | Justin Hines |
 | 406 | 188 | Seth Wrieden |
-| 407 | 187 | Stephen Stephen |
-| 408 | 187 | Stefanie Zonzini-Gagliardi |
+| 407 | 187 | Stefanie Zonzini-Gagliardi |
+| 408 | 187 | Stephen Stephen |
 | 409 | 186 | Joshua Mullings |
 | 410 | 186 | Jackie Jackie Lee |
 | 411 | 185 | JacJac |

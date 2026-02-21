@@ -102,8 +102,8 @@
 | 94 | 239 | Lush Buildout |
 | 95 | 234 | Louise Stacy Sisson |
 | 96 | 232 | Poppy Splitter |
-| 97 | 224 | Judi Dobson |
-| 98 | 224 | Mykal Burton |
+| 97 | 224 | Mykal Burton |
+| 98 | 224 | Judi Dobson |
 | 99 | 223 | Jeana Gilbert |
 | 100 | 222 | Jimmie Clemons |
 | 101 | 218 | mjl574 |
@@ -117,8 +117,8 @@
 | 109 | 200 | Twisty Brick LT |
 | 110 | 199 | joclisa |
 | 111 | 196 | Speedy Bridger |
-| 112 | 195 | Jenny Hrndz |
-| 113 | 195 | Nicha Hooker |
+| 112 | 195 | Nicha Hooker |
+| 113 | 195 | Jenny Hrndz |
 | 114 | 194 | glichmod |
 | 115 | 193 | Clever Shiftsnap |
 | 116 | 192 | Chasity |
@@ -144,8 +144,8 @@
 | 136 | 156 | Joey Banks |
 | 137 | 155 | BŘŰŤİÇŨŚ |
 | 138 | 154 | Angela M. Fletcher |
-| 139 | 153 | Giddy Twistbuilder |
-| 140 | 153 | Beth Ingham |
+| 139 | 153 | Beth Ingham |
+| 140 | 153 | Giddy Twistbuilder |
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
@@ -186,10 +186,10 @@
 | 178 | 121 | Juliana Dottore |
 | 179 | 120 | Jessica |
 | 180 | 120 | Stephanie Hill |
-| 181 | 118 | Fancy Curver |
-| 182 | 118 | Logan Naccarato |
-| 183 | 116 | Skinny Baldez |
-| 184 | 116 | BugMansMom |
+| 181 | 118 | Logan Naccarato |
+| 182 | 118 | Fancy Curver |
+| 183 | 116 | BugMansMom |
+| 184 | 116 | Skinny Baldez |
 | 185 | 115 | Jennifer Alvey |
 | 186 | 114 | Nicholas Roddy |
 | 187 | 114 | Jessica Bechler |
@@ -199,7 +199,7 @@
 | 191 | 110 | Stella |
 | 192 | 109 | Fredd Thomas |
 | 193 | 109 | Diana Ibarra |
-| 194 | 109 | Fredd Thomas |
+| 194 | 109 | Brave Brickster |
 | 195 | 108 | LaTanya GeminiondaRise Johnson |
 | 196 | 108 | Rachel Napper |
 | 197 | 107 | Sherry Ogden |
