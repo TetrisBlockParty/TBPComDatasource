@@ -128,16 +128,16 @@
 | 120 | 151 | Bethany Ison |
 | 121 | 148 | Janita Parrish |
 | 122 | 148 | Brittany Marsh |
-| 123 | 147 | Chair |
-| 124 | 147 | 030Synner |
+| 123 | 147 | 030Synner |
+| 124 | 147 | Chair |
 | 125 | 147 | Jay28 |
 | 126 | 146 | Klo |
 | 127 | 144 | Mr. Party |
 | 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Tanner Lund |
 | 135 | 136 | Serena Goodridge |
@@ -182,8 +182,8 @@
 | 174 | 110 | H.R. Block |
 | 175 | 108 | Ali Ian |
 | 176 | 108 | Sam Middleton |
-| 177 | 107 | Rafael Valentin |
-| 178 | 107 | Marcus Todd |
+| 177 | 107 | Marcus Todd |
+| 178 | 107 | Rafael Valentin |
 | 179 | 106 | Avy Absol |
 | 180 | 105 | TheNeesh50 |
 | 181 | 105 | Kristin MacDonald |
@@ -192,8 +192,8 @@
 | 184 | 103 | Lauren Lamb |
 | 185 | 103 | April Rondinone |
 | 186 | 103 | Richard-April Kice |
-| 187 | 102 | Faja |
-| 188 | 102 | Autumn Kumzi |
+| 187 | 102 | Autumn Kumzi |
+| 188 | 102 | Faja |
 | 189 | 101 | Nikki Rae Gordon |
 | 190 | 101 | Chaz |
 | 191 | 101 | Saulc1991 |

@@ -66,13 +66,13 @@
 | 58 | 287 | Hyper |
 | 59 | 281 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Sweet Baker |
-| 62 | 274 | Theo Pinnow |
+| 61 | 274 | Theo Pinnow |
+| 62 | 274 | Sweet Baker |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
-| 66 | 252 | Tdub |
-| 67 | 252 | Dena Kayy |
+| 66 | 252 | Dena Kayy |
+| 67 | 252 | Tdub |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -169,11 +169,11 @@
 | 161 | 124 | Cartier |
 | 162 | 124 | Witty Builderfit |
 | 163 | 122 | Melissa Lemmon |
-| 164 | 121 | Bouncy Grid |
-| 165 | 121 | April Carroll |
-| 166 | 121 | Gilbert Ortiz Jr. |
-| 167 | 120 | Kimmie Kimms |
-| 168 | 120 | Alenoush Karimian |
+| 164 | 121 | April Carroll |
+| 165 | 121 | Gilbert Ortiz Jr. |
+| 166 | 121 | Bouncy Grid |
+| 167 | 120 | Alenoush Karimian |
+| 168 | 120 | Kimmie Kimms |
 | 169 | 119 | Tater |
 | 170 | 116 | Evie Khalil |
 | 171 | 116 | Jessica Russell |
