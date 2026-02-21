@@ -186,8 +186,8 @@
 | 178 | 473 | Ashley Collins |
 | 179 | 470 | Jerry Tempelmeyer |
 | 180 | 469 | Ashley Rose Frederick |
-| 181 | 464 | Ariel |
-| 182 | 464 | Ryan Gunther |
+| 181 | 464 | Ryan Gunther |
+| 182 | 464 | Ariel |
 | 183 | 460 | Amélie Cadieux |
 | 184 | 460 | Cody Smith-Candelaria |
 | 185 | 458 | goofinoff |
@@ -280,14 +280,14 @@
 | 272 | 332 | Skyler Morgan |
 | 273 | 332 | TF Dyer |
 | 274 | 331 | Shelley Thornburgh Wright |
-| 275 | 330 | Victoria Moore-Smith |
-| 276 | 330 | Taryece Gause |
+| 275 | 330 | Taryece Gause |
+| 276 | 330 | Victoria Moore-Smith |
 | 277 | 327 | Danielle Simmons |
 | 278 | 326 | Elisheva Mizrachi |
 | 279 | 323 | Briana Alexander |
 | 280 | 323 | KhaosLord |
-| 281 | 323 | Trista Dumais |
-| 282 | 323 | Juanita Lyons |
+| 281 | 323 | Juanita Lyons |
+| 282 | 323 | Trista Dumais |
 | 283 | 318 | Alexandra Weir |
 | 284 | 317 | Jessie McDougald |
 | 285 | 317 | Heather Westrum |
@@ -485,10 +485,10 @@
 | 477 | 196 | Cass Shirley |
 | 478 | 196 | Alexandra Reese |
 | 479 | 195 | Snappy Shatterfit |
-| 480 | 195 | Darlene Bowman |
-| 481 | 195 | Brenna Ann |
-| 482 | 194 | Kimberly Ann |
-| 483 | 194 | Kitybox |
+| 480 | 195 | Brenna Ann |
+| 481 | 195 | Darlene Bowman |
+| 482 | 194 | Kitybox |
+| 483 | 194 | Kimberly Ann |
 | 484 | 194 | Hoppy Brickmatch |
 | 485 | 193 | Kelly Ann McCormick |
 | 486 | 193 | Matthew Turner |

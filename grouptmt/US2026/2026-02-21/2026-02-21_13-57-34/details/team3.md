@@ -287,8 +287,8 @@
 | 279 | 94 | Tracey Cox |
 | 280 | 94 | Angie Harper |
 | 281 | 93 | Tiffany Ford |
-| 282 | 92 | Jennifer Caputo |
-| 283 | 92 | Ava Petito |
+| 282 | 92 | Ava Petito |
+| 283 | 92 | Jennifer Caputo |
 | 284 | 92 | Jackie-Lynne Goertzen |
 | 285 | 92 | Melanie Sherwood |
 | 286 | 92 | Trice Thomas |
@@ -348,7 +348,7 @@
 | 340 | 77 | Tommy Proctor |
 | 341 | 77 | Jess Reppert |
 | 342 | 77 | Tanesha BigBabby Darling |
-| 343 | 76 | Kammy Hill |
+| 343 | 76 | Alma M Brown |
 | 344 | 76 | JustLessie |
 | 345 | 76 | Kammy Hill |
 | 346 | 76 | Melissa Orth Hunter |

@@ -84,7 +84,7 @@
 | 76 | 185 | loulou |
 | 77 | 185 | Andy Cabral |
 | 78 | 184 | Dizzy Tiley |
-| 79 | 180 | Lauren Scott |
+| 79 | 180 | Leah Kutz Zirbel |
 | 80 | 180 | shar |
 | 81 | 180 | Lauren Scott |
 | 82 | 179 | Epic Curvetile |

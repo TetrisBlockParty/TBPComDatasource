@@ -53,8 +53,8 @@
 | 45 | 291 | Nancy Green |
 | 46 | 287 | Hyper |
 | 47 | 276 | Kristen Roles Robben |
-| 48 | 274 | Theo Pinnow |
-| 49 | 274 | Sweet Baker |
+| 48 | 274 | Sweet Baker |
+| 49 | 274 | Theo Pinnow |
 | 50 | 272 | Adam Byrd |
 | 51 | 264 | Shauna Loe |
 | 52 | 257 | Sarah Roberts |
@@ -149,8 +149,8 @@
 | 141 | 118 | Barry Mac'Ockner |
 | 142 | 117 | Adele Rahman |
 | 143 | 116 | Evie Khalil |
-| 144 | 115 | Mrs.Patrica |
-| 145 | 115 | Chuck Gannon |
+| 144 | 115 | Chuck Gannon |
+| 145 | 115 | Mrs.Patrica |
 | 146 | 113 | Desiree Deschaine Havee |
 | 147 | 112 | Chris65 |
 | 148 | 112 | Flashy Rotator |
