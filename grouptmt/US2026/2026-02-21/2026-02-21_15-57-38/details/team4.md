@@ -60,8 +60,8 @@
 | 52 | 326 | Carlton Unfiltered |
 | 53 | 308 | Jen Allison |
 | 54 | 306 | Lisa Davis |
-| 55 | 300 | David Lay |
-| 56 | 300 | Jason Hart |
+| 55 | 300 | Jason Hart |
+| 56 | 300 | David Lay |
 | 57 | 299 | Livvy |
 | 58 | 295 | Latisha Davis |
 | 59 | 291 | Leslie Thomas |
@@ -173,8 +173,8 @@
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Marcus Todd |
-| 169 | 107 | Rafael Valentin |
+| 168 | 107 | Rafael Valentin |
+| 169 | 107 | Marcus Todd |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | Sam Middleton |
 | 172 | 105 | TheNeesh50 |
@@ -345,7 +345,7 @@
 | 337 | 58 | Sandra Safford |
 | 338 | 58 | Marco |
 | 339 | 57 | Amy Sanford |
-| 340 | 57 | David V. Bowers |
+| 340 | 57 | Stephanie Jones |
 | 341 | 57 | Susan Williams |
 | 342 | 57 | Jackie Clark |
 | 343 | 57 | David V. Bowers |

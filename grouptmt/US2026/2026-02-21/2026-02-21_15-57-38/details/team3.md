@@ -109,14 +109,14 @@
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |
-| 104 | 300 | Tessina Dewey-Mancino |
-| 105 | 300 | Sherika C. McDaniels |
+| 104 | 300 | Sherika C. McDaniels |
+| 105 | 300 | Tessina Dewey-Mancino |
 | 106 | 293 | Poppy Splitter |
 | 107 | 286 | Joey Banks |
 | 108 | 267 | Rufus Lincoln |
 | 109 | 264 | Tiff Vs Tiffany |
-| 110 | 263 | mjl574 |
-| 111 | 263 | Angeline Joseph |
+| 110 | 263 | Angeline Joseph |
+| 111 | 263 | mjl574 |
 | 112 | 262 | Joe-Maggie Mathews |
 | 113 | 259 | opf |
 | 114 | 256 | ren |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | rnr junky |
-| 142 | 207 | Chris Bell |
+| 141 | 207 | Chris Bell |
+| 142 | 207 | rnr junky |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -155,12 +155,12 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Duane Bright |
-| 151 | 193 | Clever Shiftsnap |
+| 150 | 193 | Clever Shiftsnap |
+| 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Staci George Fitzsimmons |
-| 155 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Staci George Fitzsimmons |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -238,8 +238,8 @@
 | 230 | 124 | Danielle Allison |
 | 231 | 124 | Marci Mize Fandrich |
 | 232 | 123 | Michael Latasha Gray |
-| 233 | 122 | Giggly Brickroll |
-| 234 | 122 | BabyTonj Evans |
+| 233 | 122 | BabyTonj Evans |
+| 234 | 122 | Giggly Brickroll |
 | 235 | 121 | Loopy Clusterer |
 | 236 | 121 | mzcatzy |
 | 237 | 120 | Jessica |

@@ -130,8 +130,8 @@
 | 122 | 144 | femmefatale |
 | 123 | 144 | Plucky Ziggy |
 | 124 | 143 | Sarah Marie |
-| 125 | 142 | Dandy Basegrid |
-| 126 | 142 | Colleen Wise |
+| 125 | 142 | Colleen Wise |
+| 126 | 142 | Dandy Basegrid |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
 | 129 | 138 | Michael |
@@ -217,8 +217,8 @@
 | 209 | 89 | Isodor |
 | 210 | 89 | Kellie |
 | 211 | 88 | DoodleBug |
-| 212 | 88 | Larry Tilton |
-| 213 | 88 | Sam Williams |
+| 212 | 88 | Sam Williams |
+| 213 | 88 | Larry Tilton |
 | 214 | 87 | Jenny Gingrich Fuentes |
 | 215 | 86 | Basment Living |
 | 216 | 85 | John Barron |
