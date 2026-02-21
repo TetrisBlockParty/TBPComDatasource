@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -87,8 +87,8 @@
 | 79 | 658 | Dreamy Blast |
 | 80 | 658 | Pacynthia Williams |
 | 81 | 653 | Becky Weeks-Garry |
-| 82 | 649 | Anna Edwards |
-| 83 | 649 | Stephanie Chapman |
+| 82 | 649 | Stephanie Chapman |
+| 83 | 649 | Anna Edwards |
 | 84 | 631 | Loopy Clusterbuilder |
 | 85 | 608 | John Bednarik |
 | 86 | 601 | Nancy Reid |

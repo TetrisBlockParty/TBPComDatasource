@@ -56,8 +56,8 @@
 | 48 | 198 | Billie Dawn Sparks |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
-| 51 | 191 | Jazzy Framezone |
-| 52 | 191 | Giggly Builderline |
+| 51 | 191 | Giggly Builderline |
+| 52 | 191 | Jazzy Framezone |
 | 53 | 190 | Sweetts |
 | 54 | 190 | Thorne Shumate |
 | 55 | 189 | Happy Basegrid |
@@ -111,8 +111,8 @@
 | 103 | 108 | Tavia |
 | 104 | 107 | Jodee Woods |
 | 105 | 106 | Ash Galvan |
-| 106 | 105 | Barry Mac'Ockner |
-| 107 | 105 | Flashy Rotator |
+| 106 | 105 | Flashy Rotator |
+| 107 | 105 | Barry Mac'Ockner |
 | 108 | 103 | Adryane Schnase |
 | 109 | 102 | Jennifer ManWarren |
 | 110 | 100 | Bhelle Sumile |
@@ -126,13 +126,13 @@
 | 118 | 94 | Luciano Moreira |
 | 119 | 93 | Loony Fitzone |
 | 120 | 92 | Jessica Russell |
-| 121 | 90 | Madison Wicks |
-| 122 | 90 | TSwag |
-| 123 | 89 | Mizzledagod |
-| 124 | 89 | Mara Hilker |
+| 121 | 90 | TSwag |
+| 122 | 90 | Madison Wicks |
+| 123 | 89 | Mara Hilker |
+| 124 | 89 | Mizzledagod |
 | 125 | 87 | Jessi Sauer |
-| 126 | 86 | Basment Living |
-| 127 | 86 | Desiree Deschaine Havee |
+| 126 | 86 | Desiree Deschaine Havee |
+| 127 | 86 | Basment Living |
 | 128 | 85 | Steve Schneider |
 | 129 | 84 | Speedy Snapfall |
 | 130 | 84 | Charla Pross-Fugleberg |

@@ -156,13 +156,13 @@
 | 148 | 121 | Michael Latasha Gray |
 | 149 | 120 | Jessica |
 | 150 | 118 | Fancy Curver |
-| 151 | 116 | Josiah Fam |
+| 151 | 116 | Cesar Barraza |
 | 152 | 116 | Joy Petroski |
-| 153 | 116 | Cesar Barraza |
-| 154 | 115 | Jennifer Alvey |
-| 155 | 115 | Sarajane Lokan |
-| 156 | 114 | Jessica Bechler |
-| 157 | 114 | Nicholas Roddy |
+| 153 | 116 | Josiah Fam |
+| 154 | 115 | Sarajane Lokan |
+| 155 | 115 | Jennifer Alvey |
+| 156 | 114 | Nicholas Roddy |
+| 157 | 114 | Jessica Bechler |
 | 158 | 113 | Valerie Gendron |
 | 159 | 110 | Stella |
 | 160 | 110 | Tiff Vs Tiffany |
