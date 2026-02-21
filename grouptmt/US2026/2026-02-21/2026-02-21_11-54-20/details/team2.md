@@ -178,8 +178,8 @@
 | 170 | 460 | Cody Smith-Candelaria |
 | 171 | 456 | Drwatson187 |
 | 172 | 454 | Casey Schumacher |
-| 173 | 453 | Mischelle Clay |
-| 174 | 453 | Osun Anuket Esu |
+| 173 | 453 | Osun Anuket Esu |
+| 174 | 453 | Mischelle Clay |
 | 175 | 452 | Alezandra Smith |
 | 176 | 450 | Giggy Blocker |
 | 177 | 450 | Cheech Dta |
@@ -250,8 +250,8 @@
 | 242 | 333 | Brittney Jean |
 | 243 | 332 | TF Dyer |
 | 244 | 331 | Shelley Thornburgh Wright |
-| 245 | 330 | Victoria Moore-Smith |
-| 246 | 330 | Taryece Gause |
+| 245 | 330 | Taryece Gause |
+| 246 | 330 | Victoria Moore-Smith |
 | 247 | 329 | Christina Ashley |
 | 248 | 328 | Marie Boyd Faulk |
 | 249 | 327 | Danielle Simmons |
@@ -260,8 +260,8 @@
 | 252 | 318 | Elisheva Mizrachi |
 | 253 | 318 | Trista Dumais |
 | 254 | 317 | Heather Westrum |
-| 255 | 317 | bru |
-| 256 | 317 | Zombi3 |
+| 255 | 317 | Zombi3 |
+| 256 | 317 | bru |
 | 257 | 315 | Alisa Lamb |
 | 258 | 314 | Amanda West |
 | 259 | 313 | Brenda Utphall |
@@ -292,8 +292,8 @@
 | 284 | 289 | Hyper Cluster |
 | 285 | 288 | Megan Phillips |
 | 286 | 286 | Ryan Gunther |
-| 287 | 285 | Jánine Riggs |
-| 288 | 285 | June E Hanson |
+| 287 | 285 | June E Hanson |
+| 288 | 285 | Jánine Riggs |
 | 289 | 283 | Davetta Sanford |
 | 290 | 282 | Carl Bradshaw |
 | 291 | 282 | Shaun Church |
@@ -337,8 +337,8 @@
 | 329 | 256 | CC |
 | 330 | 256 | Tee Jaleesa |
 | 331 | 255 | Santana Miyagi |
-| 332 | 254 | Elizabeth Diraffaele |
-| 333 | 254 | Rose Fx |
+| 332 | 254 | Rose Fx |
+| 333 | 254 | Elizabeth Diraffaele |
 | 334 | 254 | Julie Hamilton |
 | 335 | 253 | Tansaria Couch-Butler |
 | 336 | 252 | Matt Johnson |
@@ -357,8 +357,8 @@
 | 349 | 247 | Andrea Devery Beck |
 | 350 | 247 | Fancy Twister |
 | 351 | 246 | Kathryn Townsley |
-| 352 | 246 | Stephanie Lumanlan |
-| 353 | 246 | Ashley Lopez |
+| 352 | 246 | Ashley Lopez |
+| 353 | 246 | Stephanie Lumanlan |
 | 354 | 245 | Rachael Senard |
 | 355 | 245 | Sanaa Nounoussa |
 | 356 | 245 | ShinyRose |
@@ -375,11 +375,11 @@
 | 367 | 236 | Julio A Laracuente |
 | 368 | 236 | Niceday |
 | 369 | 235 | Kimberly Mitchell |
-| 370 | 234 | Jennifer Leigh |
-| 371 | 234 | Manny Trindade |
+| 370 | 234 | Manny Trindade |
+| 371 | 234 | Jennifer Leigh |
 | 372 | 234 | Jaybee Nguyen |
-| 373 | 233 | Robin Kerby |
-| 374 | 233 | Jumpy Gridclear |
+| 373 | 233 | Jumpy Gridclear |
+| 374 | 233 | Robin Kerby |
 | 375 | 233 | Nutty Matchline |
 | 376 | 232 | Amber Brion |
 | 377 | 231 | Dylan Thomason |
@@ -418,15 +418,15 @@
 | 410 | 207 | Shylee Tilman |
 | 411 | 206 | RAEPR05 |
 | 412 | 206 | Neko Preston |
-| 413 | 205 | ElizabethAnn Dickinson |
-| 414 | 205 | Lylymom |
+| 413 | 205 | Lylymom |
+| 414 | 205 | ElizabethAnn Dickinson |
 | 415 | 204 | Ali Gralski |
 | 416 | 204 | Rebecca Doughman |
 | 417 | 203 | Gary Stash |
 | 418 | 202 | Layna Lyons |
 | 419 | 201 | Peppy Snapfall |
-| 420 | 200 | Sarah Ridenour |
-| 421 | 200 | LaWanda Powell |
+| 420 | 200 | LaWanda Powell |
+| 421 | 200 | Sarah Ridenour |
 | 422 | 199 | Fi Ne |
 | 423 | 199 | Alyssa Nadine Medelez |
 | 424 | 199 | Jenny Castro |
@@ -434,19 +434,19 @@
 | 426 | 198 | Angie Bolton Workman |
 | 427 | 198 | Alyssa Dean |
 | 428 | 196 | Besma Ao |
-| 429 | 196 | Cass Shirley |
-| 430 | 196 | Alexandra Reese |
+| 429 | 196 | Alexandra Reese |
+| 430 | 196 | Cass Shirley |
 | 431 | 195 | Snappy Shatterfit |
 | 432 | 195 | Emily Lyric Converse |
-| 433 | 194 | Kimberly Ann |
-| 434 | 194 | Kitybox |
+| 433 | 194 | Kitybox |
+| 434 | 194 | Kimberly Ann |
 | 435 | 194 | Hoppy Brickmatch |
 | 436 | 193 | Matthew Turner |
 | 437 | 193 | Kelly Ann McCormick |
 | 438 | 193 | Alishac Marie |
 | 439 | 191 | Lauren Fitzgerald Thomas |
-| 440 | 191 | John Quiring |
-| 441 | 191 | Deana |
+| 440 | 191 | Deana |
+| 441 | 191 | John Quiring |
 | 442 | 190 | NanDa Cruzan VI |
 | 443 | 190 | Poldo Ilano |
 | 444 | 190 | Jessica Kaye DeAguero |
@@ -469,8 +469,8 @@
 | 461 | 182 | Donna M Carter |
 | 462 | 181 | Julay |
 | 463 | 181 | Wacky Cascade |
-| 464 | 180 | Peter Palestino |
-| 465 | 180 | Jackie Lucas |
+| 464 | 180 | Jackie Lucas |
+| 465 | 180 | Peter Palestino |
 | 466 | 180 | Biggest thing |
 | 467 | 179 | Bette Prieto |
 | 468 | 179 | Lively Catcher |
@@ -484,7 +484,7 @@
 | 476 | 177 | Angel |
 | 477 | 176 | Jennifer Malloy - Cardy |
 | 478 | 176 | Stacy Harper |
-| 479 | 176 | Jennifer Malloy - Cardy |
+| 479 | 176 | Trisha Gallagher |
 | 480 | 175 | Snippy Rumbler |
 | 481 | 175 | Tina Blessed Cage |
 | 482 | 175 | Shandrica Lowe |
@@ -499,8 +499,8 @@
 | 491 | 172 | Twisty Tetriblast |
 | 492 | 171 | William Hunt |
 | 493 | 171 | Cappin You |
-| 494 | 170 | Darlene Bowman |
-| 495 | 170 | Dedra Steward |
+| 494 | 170 | Dedra Steward |
+| 495 | 170 | Darlene Bowman |
 | 496 | 170 | BTA |
 | 497 | 170 | Kenya Felix |
 | 498 | 169 | Eddie Perez |
@@ -514,8 +514,8 @@
 | 506 | 165 | Tara Lynn Janes |
 | 507 | 165 | Austin Wilson |
 | 508 | 165 | Catherine Varea |
-| 509 | 164 | Sara Pennington |
-| 510 | 164 | Arkei Luster |
+| 509 | 164 | Arkei Luster |
+| 510 | 164 | Sara Pennington |
 | 511 | 164 | Jessica Vega |
 | 512 | 163 | Lakeela Wise |
 | 513 | 163 | Danielle Ayoub |
@@ -564,8 +564,8 @@
 | 556 | 154 | Bryan Werleman |
 | 557 | 154 | Lori Maring |
 | 558 | 153 | Luna |
-| 559 | 153 | Leslie |
-| 560 | 153 | Poppy Gridder |
+| 559 | 153 | Poppy Gridder |
+| 560 | 153 | Leslie |
 | 561 | 152 | James Smith |
 | 562 | 152 | Kristin King |
 | 563 | 152 | Anthony Mignacca |
@@ -592,8 +592,8 @@
 | 584 | 146 | Sherry Aguinaga |
 | 585 | 146 | Ibiza Carolina LaRose |
 | 586 | 145 | Scott Rackley |
-| 587 | 145 | William Hughes |
-| 588 | 145 | Chareen Lauritzen |
+| 587 | 145 | Chareen Lauritzen |
+| 588 | 145 | William Hughes |
 | 589 | 145 | Kiorah Blaze |
 | 590 | 145 | Anastacio Hernandez |
 | 591 | 144 | Tee Davis |
@@ -697,8 +697,8 @@
 | 689 | 128 | Mine |
 | 690 | 128 | Russell J Gindlesperger II |
 | 691 | 128 | Carrie Pike |
-| 692 | 128 | Amanda Diegel |
-| 693 | 128 | Adelina Roth |
+| 692 | 128 | Adelina Roth |
+| 693 | 128 | Amanda Diegel |
 | 694 | 128 | Diana Fitzwater |
 | 695 | 128 | Nate Lee |
 | 696 | 127 | Brittany Sizemore |
@@ -735,8 +735,8 @@
 | 727 | 123 | Sleepypanda67 |
 | 728 | 122 | Chere Kelly |
 | 729 | 122 | Cassie Newton |
-| 730 | 122 | Shakena Tuggle |
-| 731 | 122 | Tammie Siegfried |
+| 730 | 122 | Tammie Siegfried |
+| 731 | 122 | Shakena Tuggle |
 | 732 | 121 | Pam Doughty |
 | 733 | 121 | g |
 | 734 | 120 | Rebecca Crosby |
@@ -776,8 +776,8 @@
 | 768 | 116 | SpaceCase085 |
 | 769 | 116 | Jennifer Monroe Kelly |
 | 770 | 116 | Nicolle Danielle |
-| 771 | 115 | Fae-Bulous |
-| 772 | 115 | AsnPryBoy83 |
+| 771 | 115 | AsnPryBoy83 |
+| 772 | 115 | Fae-Bulous |
 | 773 | 115 | Angela KaplaSchwahn |
 | 774 | 115 | Melissa Schwager |
 | 775 | 115 | Mike73 |
@@ -795,9 +795,9 @@
 | 787 | 113 | SwifftFox |
 | 788 | 113 | Ashley MoBetta Humes |
 | 789 | 113 | Amanda Michelle Pigeon |
-| 790 | 113 | Della Hole |
-| 791 | 113 | Hillary Franklin |
-| 792 | 113 | Brave Gridzone |
+| 790 | 113 | Brave Gridzone |
+| 791 | 113 | Della Hole |
+| 792 | 113 | Hillary Franklin |
 | 793 | 112 | Leroy Jenkins |
 | 794 | 112 | Christina Wsn |
 | 795 | 112 | Min |

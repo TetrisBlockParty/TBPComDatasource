@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -135,15 +135,15 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | AlsoJess |
 | 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Betty Rosas |
+| 137 | 166 | Betty Rosas |
+| 138 | 166 | Danielle Mogg |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
@@ -192,9 +192,9 @@
 | 184 | 125 | Shimika Enay Wallace |
 | 185 | 125 | Felicia Doxey |
 | 186 | 124 | Cesar Barraza |
-| 187 | 123 | Sarajane Lokan |
-| 188 | 123 | Terry Jo Jones |
-| 189 | 123 | Marci Mize Fandrich |
+| 187 | 123 | Terry Jo Jones |
+| 188 | 123 | Marci Mize Fandrich |
+| 189 | 123 | Sarajane Lokan |
 | 190 | 122 | Giggly Brickroll |
 | 191 | 122 | Katrina E Jelks |
 | 192 | 121 | Juliana Dottore |
@@ -710,9 +710,9 @@
 | 702 | 36 | Sherry DeLong |
 | 703 | 36 | Victoria Winter Butler |
 | 704 | 36 | Amanda Martinez |
-| 705 | 36 | Zachery Taylor Kivett |
-| 706 | 36 | Heather Davis |
-| 707 | 36 | Jessica Ramey |
+| 705 | 36 | Heather Davis |
+| 706 | 36 | Jessica Ramey |
+| 707 | 36 | Zachery Taylor Kivett |
 | 708 | 35 | Snappy Balancer |
 | 709 | 35 | Tia Moore |
 | 710 | 35 | Smiley Clearpiece |
