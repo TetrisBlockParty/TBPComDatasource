@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -273,8 +273,8 @@
 | 265 | 114 | JerseyJess |
 | 266 | 114 | Elizabeth Renee |
 | 267 | 113 | Brave Brickster |
-| 268 | 113 | Brian Battjes |
-| 269 | 113 | Beppy |
+| 268 | 113 | Beppy |
+| 269 | 113 | Brian Battjes |
 | 270 | 112 | Rachel |
 | 271 | 111 | Jason-Ashley Ludlow |
 | 272 | 111 | El Chapa |

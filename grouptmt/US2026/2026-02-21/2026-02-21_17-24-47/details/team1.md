@@ -71,8 +71,8 @@
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 263 | Bhelle Sumile |
-| 66 | 252 | Tdub |
-| 67 | 252 | Dena Kayy |
+| 66 | 252 | Dena Kayy |
+| 67 | 252 | Tdub |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -130,8 +130,8 @@
 | 122 | 152 | Jacqueline Unique |
 | 123 | 152 | Speedy Snapfall |
 | 124 | 150 | Adele Rahman |
-| 125 | 149 | Jennifer ManWarren |
-| 126 | 149 | Arianna O'Brien |
+| 125 | 149 | Arianna O'Brien |
+| 126 | 149 | Jennifer ManWarren |
 | 127 | 148 | Shauntina Burke |
 | 128 | 147 | Michael |
 | 129 | 146 | Christy Jones |
@@ -142,8 +142,8 @@
 | 134 | 144 | Plucky Ziggy |
 | 135 | 143 | Sarah Marie |
 | 136 | 142 | Colleen Wise |
-| 137 | 141 | Gary Gobin |
-| 138 | 141 | Blaire Bruckoff |
+| 137 | 141 | Blaire Bruckoff |
+| 138 | 141 | Gary Gobin |
 | 139 | 140 | Miguel Teixeira |
 | 140 | 138 | Cranky Pattern |
 | 141 | 138 | Death |

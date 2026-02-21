@@ -354,8 +354,8 @@
 | 346 | 323 | Jaycee |
 | 347 | 323 | KhaosLord |
 | 348 | 323 | Briana Alexander |
-| 349 | 322 | NanDa Cruzan VI |
-| 350 | 322 | Brandy Andre |
+| 349 | 322 | Brandy Andre |
+| 350 | 322 | NanDa Cruzan VI |
 | 351 | 320 | Sarah Ridenour |
 | 352 | 318 | CC |
 | 353 | 317 | Heather Westrum |
@@ -524,8 +524,8 @@
 | 516 | 221 | Michelle Lee |
 | 517 | 220 | Katrina Weston |
 | 518 | 220 | Sho Nuff |
-| 519 | 219 | Cathy Bitters |
-| 520 | 219 | Maxwell Escalera |
+| 519 | 219 | Maxwell Escalera |
+| 520 | 219 | Cathy Bitters |
 | 521 | 218 | Shylee Tilman |
 | 522 | 217 | Natasha Edmonds |
 | 523 | 217 | Klee |

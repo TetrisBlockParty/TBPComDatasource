@@ -104,8 +104,8 @@
 | 96 | 187 | Swanky Fitline |
 | 97 | 185 | Andy Cabral |
 | 98 | 181 | Carter Jones |
-| 99 | 180 | Leslie Nicole |
-| 100 | 180 | Leah Kutz Zirbel |
+| 99 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leslie Nicole |
 | 101 | 179 | Epic Curvetile |
 | 102 | 178 | Lori |
 | 103 | 177 | Andria Lynn |
@@ -137,11 +137,11 @@
 | 129 | 144 | Mr. Party |
 | 130 | 143 | Nugget |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Jenna McGeorge |
-| 133 | 140 | Shannon Ferrari |
+| 132 | 140 | Shannon Ferrari |
+| 133 | 140 | Jenna McGeorge |
 | 134 | 137 | PeaceOs |
-| 135 | 136 | Serena Goodridge |
-| 136 | 136 | Tanner Lund |
+| 135 | 136 | Tanner Lund |
+| 136 | 136 | Serena Goodridge |
 | 137 | 135 | ĥuf |
 | 138 | 134 | Chirpy Basepiece |
 | 139 | 133 | Zany Shatterer |
@@ -156,16 +156,16 @@
 | 148 | 128 | Stephme310 |
 | 149 | 128 | Rio Rocha |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | TinyLegoRose |
-| 152 | 126 | Dihcheese444 |
+| 151 | 126 | Dihcheese444 |
+| 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
-| 156 | 122 | Carlos Ramirez |
+| 156 | 122 | 🥔🥔 Spudz |
 | 157 | 122 | Sherri |
-| 158 | 122 | 🥔🥔 Spudz |
-| 159 | 121 | Smiley Tiltbuilder |
-| 160 | 121 | Megan Cutshaw |
+| 158 | 122 | Carlos Ramirez |
+| 159 | 121 | Megan Cutshaw |
+| 160 | 121 | Smiley Tiltbuilder |
 | 161 | 120 | Joshua Guess |
 | 162 | 119 | Judy Cox |
 | 163 | 119 | Kristin Manee |
@@ -312,7 +312,7 @@
 | 304 | 70 | Circuit8 |
 | 305 | 69 | Jessica Wells |
 | 306 | 69 | Jennifer Perkins |
-| 307 | 69 | Jessica Wells |
+| 307 | 69 | Meli  Jackson |
 | 308 | 68 | GBR |
 | 309 | 68 | LS |
 | 310 | 68 | mitch |
