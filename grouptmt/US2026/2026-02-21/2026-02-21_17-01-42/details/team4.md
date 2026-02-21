@@ -27,8 +27,8 @@
 | 19 | 625 | GreenJeepGirl |
 | 20 | 620 | Kimyatta Cavin |
 | 21 | 608 | Denny Shives |
-| 22 | 590 | Valerie Roberts |
-| 23 | 590 | Dee Kay |
+| 22 | 590 | Dee Kay |
+| 23 | 590 | Valerie Roberts |
 | 24 | 589 | Chilly Line |
 | 25 | 541 | Rebecca Moulton Pinciaro |
 | 26 | 511 | LisaJo Picken Buchanan |
@@ -122,8 +122,8 @@
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
 | 116 | 152 | Jessica Bohlken |
-| 117 | 151 | Dana Scott |
-| 118 | 151 | Bethany Ison |
+| 117 | 151 | Bethany Ison |
+| 118 | 151 | Dana Scott |
 | 119 | 150 | Ren Mc |
 | 120 | 148 | Brittany Marsh |
 | 121 | 148 | Janita Parrish |
@@ -150,8 +150,8 @@
 | 142 | 131 | Angela Geist Jusinski |
 | 143 | 130 | Casey Jeffcoat |
 | 144 | 129 | John Brunetti |
-| 145 | 128 | Rio Rocha |
-| 146 | 128 | Stephme310 |
+| 145 | 128 | Stephme310 |
+| 146 | 128 | Rio Rocha |
 | 147 | 127 | Dreamy Snapgrid |
 | 148 | 126 | Dihcheese444 |
 | 149 | 126 | Zany Shatterer |

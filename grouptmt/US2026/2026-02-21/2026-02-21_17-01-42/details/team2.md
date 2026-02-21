@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Leah Keesling |
-| 210 | 485 | Lylymom |
+| 209 | 485 | Lylymom |
+| 210 | 485 | Leah Keesling |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -414,8 +414,8 @@
 | 406 | 274 | Jamie Stevey |
 | 407 | 274 | August Hale |
 | 408 | 273 | Vanessa Moreno |
-| 409 | 273 | Giddy Gridclear |
-| 410 | 273 | Jenna Nance |
+| 409 | 273 | Jenna Nance |
+| 410 | 273 | Giddy Gridclear |
 | 411 | 272 | Mikayala Szaz |
 | 412 | 271 | Ann Marie Davis |
 | 413 | 271 | Toni Lynn |
@@ -426,12 +426,12 @@
 | 418 | 265 | Sassy Linkbuilder |
 | 419 | 264 | Dapper Dasher |
 | 420 | 262 | Jackie Lucas |
-| 421 | 262 | Min |
-| 422 | 262 | Taren Cowan |
+| 421 | 262 | Taren Cowan |
+| 422 | 262 | Min |
 | 423 | 261 | MrsClaudette Will'sIam Matthews |
 | 424 | 260 | Kathryn Townsley |
-| 425 | 260 | Danielle DeLozier Plesec |
-| 426 | 260 | Santana Miyagi |
+| 425 | 260 | Santana Miyagi |
+| 426 | 260 | Danielle DeLozier Plesec |
 | 427 | 257 | Jackie Jackie Lee |
 | 428 | 256 | Alishac Marie |
 | 429 | 256 | Quirky Twistline |
@@ -476,8 +476,8 @@
 | 468 | 237 | Ben Barkley |
 | 469 | 236 | snkylnk |
 | 470 | 236 | Julio A Laracuente |
-| 471 | 234 | Jennifer Leigh |
-| 472 | 234 | Manny Trindade |
+| 471 | 234 | Manny Trindade |
+| 472 | 234 | Jennifer Leigh |
 | 473 | 234 | Jaybee Nguyen |
 | 474 | 233 | Daniel Amos |
 | 475 | 233 | Nutty Matchline |
@@ -637,8 +637,8 @@
 | 629 | 176 | Stacy Harper |
 | 630 | 176 | Jennifer Malloy - Cardy |
 | 631 | 176 | Dandy Drop |
-| 632 | 176 | William Hunt |
-| 633 | 176 | Andrew Bratton-Tomes |
+| 632 | 176 | Andrew Bratton-Tomes |
+| 633 | 176 | William Hunt |
 | 634 | 175 | Lucero Ramirez |
 | 635 | 173 | Rachel Walka Farnam |
 | 636 | 173 | Binyah-Binyah |

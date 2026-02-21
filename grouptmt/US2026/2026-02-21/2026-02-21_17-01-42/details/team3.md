@@ -190,7 +190,7 @@
 | 182 | 167 | Connie Mohler-Fair |
 | 183 | 166 | Beth Ingham |
 | 184 | 166 | Betty Rosas |
-| 185 | 166 | Beth Ingham |
+| 185 | 166 | Kelly Ann Child |
 | 186 | 165 | Kali Kelz Williams |
 | 187 | 163 | Stephanie Hill |
 | 188 | 163 | Christine Trester |
@@ -275,21 +275,21 @@
 | 267 | 110 | Tye Stovall |
 | 268 | 110 | Danielle Weikel |
 | 269 | 110 | Carol Cain Thurman |
-| 270 | 109 | mommablock |
-| 271 | 109 | Diana Ibarra |
-| 272 | 108 | Rachel Napper |
-| 273 | 108 | LaTanya GeminiondaRise Johnson |
-| 274 | 108 | Hanna Kim |
-| 275 | 108 | Rachel |
+| 270 | 109 | Diana Ibarra |
+| 271 | 109 | mommablock |
+| 272 | 108 | LaTanya GeminiondaRise Johnson |
+| 273 | 108 | Rachel Napper |
+| 274 | 108 | Rachel |
+| 275 | 108 | Hanna Kim |
 | 276 | 107 | Jumpy Wrecker |
 | 277 | 107 | Melissa Snyder |
 | 278 | 107 | Bouncy Blockbuilder |
-| 279 | 106 | Elizabeth Renee |
-| 280 | 106 | Cheeky Snapper |
+| 279 | 106 | Cheeky Snapper |
+| 280 | 106 | Elizabeth Renee |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
-| 283 | 105 | Boldy Blocker |
-| 284 | 105 | Emi |
+| 283 | 105 | Emi |
+| 284 | 105 | Boldy Blocker |
 | 285 | 104 | Samantha Lynn |
 | 286 | 104 | Sarah Moyer |
 | 287 | 104 | Ashley Rufus Bythcez |
@@ -382,8 +382,8 @@
 | 374 | 80 | Vixen Queen |
 | 375 | 80 | Me,Him,Yu |
 | 376 | 79 | Bleu Sun Beams |
-| 377 | 79 | Brittany K Ward |
-| 378 | 79 | Jessie Chung |
+| 377 | 79 | Jessie Chung |
+| 378 | 79 | Brittany K Ward |
 | 379 | 78 | Nena Somerville Kelly |
 | 380 | 78 | Clever Patterner |
 | 381 | 78 | Myriam Lapierre |
@@ -409,8 +409,8 @@
 | 401 | 76 | Jolly Dashpiece |
 | 402 | 76 | Tammy |
 | 403 | 76 | Rima Mackelburger |
-| 404 | 75 | Tony Mia Christian |
-| 405 | 75 | Janelle Goetz |
+| 404 | 75 | Janelle Goetz |
+| 405 | 75 | Tony Mia Christian |
 | 406 | 75 | Jessica Rose-Morgan |
 | 407 | 75 | Willow |
 | 408 | 75 | Jack Bo |
