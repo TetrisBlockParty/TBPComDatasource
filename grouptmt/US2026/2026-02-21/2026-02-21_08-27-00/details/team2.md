@@ -96,8 +96,8 @@
 | 88 | 674 | Dannette Goldberg-Richards |
 | 89 | 672 | Wendy Harder Gage |
 | 90 | 665 | Dineisha Carpenter |
-| 91 | 658 | Vistabrat |
-| 92 | 658 | Pacynthia Williams |
+| 91 | 658 | Pacynthia Williams |
+| 92 | 658 | Vistabrat |
 | 93 | 653 | Becky Weeks-Garry |
 | 94 | 649 | Stephanie Chapman |
 | 95 | 649 | Anna Edwards |
@@ -237,8 +237,8 @@
 | 229 | 312 | AkaLefty |
 | 230 | 311 | Véronique Lévesque Sabourin |
 | 231 | 309 | James Zaragoza |
-| 232 | 309 | Oscar Bernie |
-| 233 | 309 | Ginger |
+| 232 | 309 | Ginger |
+| 233 | 309 | Oscar Bernie |
 | 234 | 306 | Kristopher Miller |
 | 235 | 305 | Libby Hicks |
 | 236 | 303 | Crystal Greene |
@@ -255,8 +255,8 @@
 | 247 | 293 | Scott Treadway |
 | 248 | 293 | David Holliday |
 | 249 | 290 | Jessie McDougald |
-| 250 | 288 | Megan Phillips |
-| 251 | 288 | Elisheva Mizrachi |
+| 250 | 288 | Elisheva Mizrachi |
+| 251 | 288 | Megan Phillips |
 | 252 | 286 | Ryan Gunther |
 | 253 | 285 | June E Hanson |
 | 254 | 284 | Mamachelle Eisweirth |
@@ -267,8 +267,8 @@
 | 259 | 280 | Shorty |
 | 260 | 278 | Noel Tarmy |
 | 261 | 276 | Lindsey Leigh |
-| 262 | 276 | SwampRebel |
-| 263 | 276 | Vonceial Boone |
+| 262 | 276 | Vonceial Boone |
+| 263 | 276 | SwampRebel |
 | 264 | 275 | Cheeky Brickmatch |
 | 265 | 275 | Shiny Rollzone |
 | 266 | 275 | Ann Matzkanin |
@@ -454,8 +454,8 @@
 | 446 | 175 | Tina Blessed Cage |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
-| 449 | 173 | kippykay |
-| 450 | 173 | Robin |
+| 449 | 173 | Robin |
+| 450 | 173 | kippykay |
 | 451 | 172 | HarleyJane |
 | 452 | 171 | Cappin You |
 | 453 | 170 | Darlene Bowman |
@@ -470,8 +470,8 @@
 | 462 | 167 | mshir |
 | 463 | 166 | suuny |
 | 464 | 165 | Catherine Varea |
-| 465 | 165 | Cathy Bitters |
-| 466 | 165 | Austin Wilson |
+| 465 | 165 | Austin Wilson |
+| 466 | 165 | Cathy Bitters |
 | 467 | 164 | Jessica Vega |
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Danielle Ayoub |
@@ -513,8 +513,8 @@
 | 505 | 154 | Lori Maring |
 | 506 | 153 | Luna |
 | 507 | 153 | Poppy Gridder |
-| 508 | 152 | James Smith |
-| 509 | 152 | Kyle LeRoy Harris |
+| 508 | 152 | Kyle LeRoy Harris |
+| 509 | 152 | James Smith |
 | 510 | 152 | Kristin King |
 | 511 | 152 | Anthony Mignacca |
 | 512 | 152 | JP Parks |

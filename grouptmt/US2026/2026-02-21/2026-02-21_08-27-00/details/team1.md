@@ -44,11 +44,11 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
-| 42 | 256 | Tipsy Column |
-| 43 | 256 | Robert Benito |
+| 42 | 256 | Robert Benito |
+| 43 | 256 | Tipsy Column |
 | 44 | 244 | Franswa |
 | 45 | 243 | Sarah Roberts |
 | 46 | 241 | Kristen Roles Robben |
@@ -72,8 +72,8 @@
 | 64 | 192 | Shaykmia |
 | 65 | 192 | Mandyy Rae |
 | 66 | 191 | Jazzy Framezone |
-| 67 | 190 | Thorne Shumate |
-| 68 | 190 | Sweetts |
+| 67 | 190 | Sweetts |
+| 68 | 190 | Thorne Shumate |
 | 69 | 189 | Happy Basegrid |
 | 70 | 182 | Hyper |
 | 71 | 173 | Frothy Pattern |
@@ -96,8 +96,8 @@
 | 88 | 145 | BigWeenie69 |
 | 89 | 145 | Lachelle Dillon |
 | 90 | 144 | femmefatale |
-| 91 | 144 | Tanya Carpenter-Reynolds |
-| 92 | 144 | Plucky Ziggy |
+| 91 | 144 | Plucky Ziggy |
+| 92 | 144 | Tanya Carpenter-Reynolds |
 | 93 | 143 | Sarah Marie |
 | 94 | 141 | Blaire Bruckoff |
 | 95 | 140 | comrade fish |
@@ -113,8 +113,8 @@
 | 105 | 127 | Michael |
 | 106 | 126 | Cece Ibarra |
 | 107 | 124 | Cartier |
-| 108 | 123 | LaQuetta Faith Hines |
-| 109 | 123 | june october |
+| 108 | 123 | june october |
+| 109 | 123 | LaQuetta Faith Hines |
 | 110 | 121 | Bouncy Grid |
 | 111 | 119 | April Carroll |
 | 112 | 119 | Tater |

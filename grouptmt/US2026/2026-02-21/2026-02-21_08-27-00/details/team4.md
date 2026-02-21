@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -131,8 +131,8 @@
 | 123 | 112 | Austin Owens |
 | 124 | 112 | Brittany Marsh |
 | 125 | 112 | Bryan Hodgins |
-| 126 | 111 | Gwendolyn Pitcairn |
-| 127 | 111 | Lazy Blocker |
+| 126 | 111 | Lazy Blocker |
+| 127 | 111 | Gwendolyn Pitcairn |
 | 128 | 110 | H.R. Block |
 | 129 | 108 | Rio Rocha |
 | 130 | 107 | Marcus Todd |
@@ -143,8 +143,8 @@
 | 135 | 105 | TheNeesh50 |
 | 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | Damn Libra |
-| 139 | 104 | YoMomma |
+| 138 | 104 | YoMomma |
+| 139 | 104 | Damn Libra |
 | 140 | 102 | Faja |
 | 141 | 101 | Michelle Morris |
 | 142 | 101 | Saulc1991 |
@@ -154,15 +154,15 @@
 | 146 | 98 | Chaz |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
-| 149 | 95 | Victoria Faniel |
-| 150 | 95 | Meagan Nicole |
+| 149 | 95 | Meagan Nicole |
+| 150 | 95 | Victoria Faniel |
 | 151 | 93 | Zesty Twistbuilder |
 | 152 | 92 | Kristin MacDonald |
 | 153 | 90 | Judy Cox |
 | 154 | 90 | No Strings Attached Ra |
 | 155 | 89 | mike |
-| 156 | 89 | shark tato |
-| 157 | 89 | Jeremy Steines |
+| 156 | 89 | Jeremy Steines |
+| 157 | 89 | shark tato |
 | 158 | 88 | Kesha Brady |
 | 159 | 88 | Heather Tushner |
 | 160 | 87 | Lauren Lamb |
@@ -241,8 +241,8 @@
 | 233 | 65 | Angela Geist Jusinski |
 | 234 | 64 | rebel4lyfe |
 | 235 | 64 | Joseph Edmonson |
-| 236 | 63 | Gilles Lanctot |
-| 237 | 63 | Cheery Risebuilder |
+| 236 | 63 | Cheery Risebuilder |
+| 237 | 63 | Gilles Lanctot |
 | 238 | 63 | Cristy Duerksen |
 | 239 | 62 | Jennifer Perkins |
 | 240 | 62 | PennyCandee |
@@ -295,8 +295,8 @@
 | 287 | 54 | Lisha Billups |
 | 288 | 53 | Allison Judith |
 | 289 | 53 | Poppy Brickmatch |
-| 290 | 52 | Chassidy Martin |
-| 291 | 52 | Nerdy Twisterfit |
+| 290 | 52 | Nerdy Twisterfit |
+| 291 | 52 | Chassidy Martin |
 | 292 | 52 | Nicole Silvers |
 | 293 | 51 | George Nutt |
 | 294 | 51 | Frank Cook |
@@ -434,8 +434,8 @@
 | 426 | 34 | Mark Morgan |
 | 427 | 34 | Sarah Hoffman |
 | 428 | 34 | Chris Bernstein |
-| 429 | 34 | Jonathan Colon |
-| 430 | 34 | J-Rizzle |
+| 429 | 34 | J-Rizzle |
+| 430 | 34 | Jonathan Colon |
 | 431 | 33 | Sammy Noguera |
 | 432 | 33 | Twisty Towerpiece |
 | 433 | 33 | Mia |
