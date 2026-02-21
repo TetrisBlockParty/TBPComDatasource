@@ -111,9 +111,9 @@
 | 103 | 129 | Landon Keith Graffeo |
 | 104 | 129 | John Brunetti |
 | 105 | 125 | Lauren Scott |
-| 106 | 123 | Cherrish Duren |
-| 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
+| 106 | 123 | Nugget |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Bubbly Puzzler |
 | 109 | 122 | Sherri |
 | 110 | 121 | Megan Cutshaw |
 | 111 | 121 | Klo |

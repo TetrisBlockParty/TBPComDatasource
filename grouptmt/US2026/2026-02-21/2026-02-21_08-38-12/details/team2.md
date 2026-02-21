@@ -96,8 +96,8 @@
 | 88 | 674 | Dannette Goldberg-Richards |
 | 89 | 672 | Wendy Harder Gage |
 | 90 | 665 | Dineisha Carpenter |
-| 91 | 658 | Pacynthia Williams |
-| 92 | 658 | Vistabrat |
+| 91 | 658 | Vistabrat |
+| 92 | 658 | Pacynthia Williams |
 | 93 | 653 | Becky Weeks-Garry |
 | 94 | 649 | Anna Edwards |
 | 95 | 649 | Stephanie Chapman |
@@ -248,8 +248,8 @@
 | 240 | 299 | Deborah Miller |
 | 241 | 299 | Christy Krissie |
 | 242 | 297 | Brenda Utphall |
-| 243 | 296 | Amber Gray |
-| 244 | 296 | Jennifer Casey-Kay |
+| 243 | 296 | Jennifer Casey-Kay |
+| 244 | 296 | Amber Gray |
 | 245 | 296 | Jennifer Darby |
 | 246 | 295 | Zany Clusterbuilder |
 | 247 | 295 | Angela Bonquiqui Dinish |
@@ -396,8 +396,8 @@
 | 388 | 198 | Angie Bolton Workman |
 | 389 | 198 | Alyssa Dean |
 | 390 | 196 | Besma Ao |
-| 391 | 196 | Alexandra Reese |
-| 392 | 196 | Cass Shirley |
+| 391 | 196 | Cass Shirley |
+| 392 | 196 | Alexandra Reese |
 | 393 | 195 | Snappy Shatterfit |
 | 394 | 195 | Emily Lyric Converse |
 | 395 | 194 | Kimberly Ann |
@@ -450,8 +450,8 @@
 | 442 | 176 | Jennifer Malloy - Cardy |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Tina Blessed Cage |
-| 446 | 175 | Shandrica Lowe |
+| 445 | 175 | Shandrica Lowe |
+| 446 | 175 | Tina Blessed Cage |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | Robin |
@@ -476,8 +476,8 @@
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Danielle Ayoub |
 | 470 | 163 | Albert McKnight |
-| 471 | 162 | LC Hamilton |
-| 472 | 162 | Michael Artis |
+| 471 | 162 | Michael Artis |
+| 472 | 162 | LC Hamilton |
 | 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
@@ -507,8 +507,8 @@
 | 499 | 155 | Chelle |
 | 500 | 155 | Monarca26 |
 | 501 | 155 | Angela Murgia-Owen |
-| 502 | 154 | Tiffney Wroten |
-| 503 | 154 | Cini |
+| 502 | 154 | Cini |
+| 503 | 154 | Tiffney Wroten |
 | 504 | 154 | Bryan Werleman |
 | 505 | 154 | Lori Maring |
 | 506 | 153 | Luna |
