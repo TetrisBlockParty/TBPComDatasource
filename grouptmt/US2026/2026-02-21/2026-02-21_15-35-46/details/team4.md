@@ -110,9 +110,9 @@
 | 102 | 164 | ThaEviLJeNiuZ |
 | 103 | 162 | Shauna Havard |
 | 104 | 161 | Joeliecea Cobb |
-| 105 | 160 | Crystal Carroll |
-| 106 | 160 | ZeeZee |
-| 107 | 160 | Stacey Stano |
+| 105 | 160 | ZeeZee |
+| 106 | 160 | Stacey Stano |
+| 107 | 160 | Crystal Carroll |
 | 108 | 159 | Holly Jolly |
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |

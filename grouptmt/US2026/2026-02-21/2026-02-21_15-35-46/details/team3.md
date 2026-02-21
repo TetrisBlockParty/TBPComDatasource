@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 769 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -100,11 +100,11 @@
 | 92 | 338 | Danielle Rhoades |
 | 93 | 332 | Chauntee Alfrey-Cardinale |
 | 94 | 323 | Ashley Raines |
-| 95 | 320 | Elaine Webb Graves |
-| 96 | 320 | Or Reznitsky |
+| 95 | 320 | Or Reznitsky |
+| 96 | 320 | Elaine Webb Graves |
 | 97 | 316 | Fancy Cascader |
-| 98 | 309 | CeceGeGe |
-| 99 | 309 | Rich LeBlanc |
+| 98 | 309 | Rich LeBlanc |
+| 99 | 309 | CeceGeGe |
 | 100 | 307 | Peggi Charon |
 | 101 | 307 | Blocked |
 | 102 | 306 | Speedy Bridger |
@@ -140,10 +140,10 @@
 | 132 | 212 | Shunta Jacobs |
 | 133 | 211 | Katrina Schroeder |
 | 134 | 210 | Jenny Hrndz |
-| 135 | 210 | Mcathen |
-| 136 | 210 | Aaron Pitkin |
-| 137 | 207 | rnr junky |
-| 138 | 207 | Chris Bell |
+| 135 | 210 | Aaron Pitkin |
+| 136 | 210 | Mcathen |
+| 137 | 207 | Chris Bell |
+| 138 | 207 | rnr junky |
 | 139 | 206 | Chasity |
 | 140 | 202 | Twisty Brick LT |
 | 141 | 199 | joclisa |
@@ -187,16 +187,16 @@
 | 179 | 161 | Nikki Pags |
 | 180 | 161 | BŘŰŤİÇŨŚ |
 | 181 | 160 | Tiffany Davie |
-| 182 | 159 | Stephanie Whitefield |
-| 183 | 159 | Jone |
+| 182 | 159 | Jone |
+| 183 | 159 | Stephanie Whitefield |
 | 184 | 158 | Grams |
 | 185 | 157 | Patricia Gadsden |
 | 186 | 157 | Nicholas Roddy |
 | 187 | 156 | Bea Miles |
 | 188 | 155 | Sarajane Lokan |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Shiny Zonebuilder |
-| 191 | 152 | Katrina E Jelks |
+| 190 | 152 | Katrina E Jelks |
+| 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
 | 193 | 151 | MsBee |
 | 194 | 151 | Brenda Lee Vander Molen |
@@ -224,10 +224,10 @@
 | 216 | 131 | Darlene McMillan |
 | 217 | 129 | Lesley Perez |
 | 218 | 128 | David Bardo |
-| 219 | 128 | Jen Lewis |
-| 220 | 128 | Cesar Barraza |
-| 221 | 127 | Marquita Sheard |
-| 222 | 127 | Jennifer Alvey |
+| 219 | 128 | Cesar Barraza |
+| 220 | 128 | Jen Lewis |
+| 221 | 127 | Jennifer Alvey |
+| 222 | 127 | Marquita Sheard |
 | 223 | 126 | Juliana Dottore |
 | 224 | 125 | Felicia Doxey |
 | 225 | 125 | Shimika Enay Wallace |
@@ -287,11 +287,11 @@
 | 279 | 103 | Kate Farok |
 | 280 | 103 | Wetwet |
 | 281 | 102 | Christian Luna |
-| 282 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 283 | 101 | Hyper Bridger |
-| 284 | 100 | Elizabeth Renee |
+| 282 | 101 | Hyper Bridger |
+| 283 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 284 | 100 | Demetrious Shaw Sr. |
 | 285 | 100 | Bobbi Moore |
-| 286 | 100 | Demetrious Shaw Sr. |
+| 286 | 100 | Elizabeth Renee |
 | 287 | 100 | Edwin Calvillo Jr. |
 | 288 | 99 | FATTY |
 | 289 | 99 | MizzMonick Smith |
@@ -348,9 +348,9 @@
 | 340 | 83 | Glitzy Slide |
 | 341 | 83 | Deseree Ewing |
 | 342 | 82 | Justice 4 P |
-| 343 | 82 | lema ean |
-| 344 | 82 | Moimyzean |
-| 345 | 82 | Eileen Brady Thurber |
+| 343 | 82 | Eileen Brady Thurber |
+| 344 | 82 | lema ean |
+| 345 | 82 | Moimyzean |
 | 346 | 82 | Rebecca Funderburk Kirby |
 | 347 | 81 | Joseph Vargas |
 | 348 | 81 | Tina Baurdau |

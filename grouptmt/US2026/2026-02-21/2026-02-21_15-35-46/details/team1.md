@@ -87,8 +87,8 @@
 | 79 | 201 | Ananda Mendez |
 | 80 | 201 | Anaid Sanchez |
 | 81 | 200 | Giggly Builderline |
-| 82 | 198 | Brandi Huntington |
-| 83 | 198 | Happy Snapbuild |
+| 82 | 198 | Happy Snapbuild |
+| 83 | 198 | Brandi Huntington |
 | 84 | 197 | Cynthia Bradley |
 | 85 | 193 | Lachelle Dillon |
 | 86 | 192 | Shaykmia |
@@ -138,8 +138,8 @@
 | 130 | 138 | Cranky Pattern |
 | 131 | 138 | Michael |
 | 132 | 137 | Nadine Velardo |
-| 133 | 135 | Giddy Cascade |
-| 134 | 135 | Cody Slav |
+| 133 | 135 | Cody Slav |
+| 134 | 135 | Giddy Cascade |
 | 135 | 134 | Trina Gee |
 | 136 | 133 | Breanna Luna |
 | 137 | 132 | Cody Gates |
@@ -148,10 +148,10 @@
 | 140 | 131 | Uhog SF |
 | 141 | 130 | LD1 |
 | 142 | 129 | Dino |
-| 143 | 128 | lil mickey |
-| 144 | 128 | Barry Mac'Ockner |
-| 145 | 127 | Brave Wrecker |
-| 146 | 127 | Aimee Horton |
+| 143 | 128 | Barry Mac'Ockner |
+| 144 | 128 | lil mickey |
+| 145 | 127 | Aimee Horton |
+| 146 | 127 | Brave Wrecker |
 | 147 | 126 | Death |
 | 148 | 124 | Cartier |
 | 149 | 123 | Kimberly Garcia |

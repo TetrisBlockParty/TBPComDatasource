@@ -196,8 +196,8 @@
 | 188 | 496 | Ashie Ann |
 | 189 | 495 | Poppy Snap |
 | 190 | 486 | MrsCandyfine As Wine Truss |
-| 191 | 485 | Gene Mills |
-| 192 | 485 | Leah Keesling |
+| 191 | 485 | Leah Keesling |
+| 192 | 485 | Gene Mills |
 | 193 | 484 | Suki Kaur |
 | 194 | 484 | Magic steve |
 | 195 | 483 | Jordan Kaiser |
@@ -368,10 +368,10 @@
 | 360 | 281 | Jaycee |
 | 361 | 281 | Justin Hines |
 | 362 | 280 | Shorty |
-| 363 | 280 | Sabrina Burton |
-| 364 | 280 | Lonne Emade |
-| 365 | 280 | Lyndi Robinson Wakefield |
-| 366 | 280 | SwampRebel |
+| 363 | 280 | Lyndi Robinson Wakefield |
+| 364 | 280 | SwampRebel |
+| 365 | 280 | Lonne Emade |
+| 366 | 280 | Sabrina Burton |
 | 367 | 279 | Glitzy Stackzone |
 | 368 | 278 | Deana |
 | 369 | 278 | Noel Tarmy |
@@ -414,8 +414,8 @@
 | 406 | 254 | Rose Fx |
 | 407 | 254 | Elizabeth Diraffaele |
 | 408 | 253 | Tansaria Couch-Butler |
-| 409 | 252 | Matt Johnson |
-| 410 | 252 | Alyssia Tancredi |
+| 409 | 252 | Alyssia Tancredi |
+| 410 | 252 | Matt Johnson |
 | 411 | 251 | Ann Knutson Anderson |
 | 412 | 250 | Steve Man |
 | 413 | 249 | Porsche' Nicole |
@@ -514,12 +514,12 @@
 | 506 | 201 | Matthew Turner |
 | 507 | 201 | Twisty Tetriblast |
 | 508 | 200 | Sara Silvernail-Kay |
-| 509 | 200 | Sarah Ridenour |
-| 510 | 200 | LaWanda Powell |
+| 509 | 200 | LaWanda Powell |
+| 510 | 200 | Sarah Ridenour |
 | 511 | 200 | Biggest thing |
-| 512 | 199 | Jenny Castro |
+| 512 | 199 | Jessica Sutter |
 | 513 | 199 | Alyssa Nadine Medelez |
-| 514 | 199 | Jessica Sutter |
+| 514 | 199 | Jenny Castro |
 | 515 | 198 | Angie Bolton Workman |
 | 516 | 197 | Kati Russeau |
 | 517 | 196 | Zak Dunn |
@@ -563,8 +563,8 @@
 | 555 | 183 | Lynzekwi |
 | 556 | 182 | Tamara Bailey |
 | 557 | 182 | Claire Noland |
-| 558 | 181 | Tom Steffen |
-| 559 | 181 | Julay |
+| 558 | 181 | Julay |
+| 559 | 181 | Tom Steffen |
 | 560 | 181 | Rachel Switala |
 | 561 | 180 | Peter Palestino |
 | 562 | 180 | Jackie Lucas |
@@ -583,8 +583,8 @@
 | 575 | 177 | Ryan Meilleur |
 | 576 | 177 | John |
 | 577 | 176 | William Hunt |
-| 578 | 176 | Stacy Harper |
-| 579 | 176 | Jennifer Malloy - Cardy |
+| 578 | 176 | Jennifer Malloy - Cardy |
+| 579 | 176 | Stacy Harper |
 | 580 | 175 | Snippy Rumbler |
 | 581 | 175 | Tina Blessed Cage |
 | 582 | 175 | Lucero Ramirez |
@@ -620,8 +620,8 @@
 | 612 | 164 | Jessica Vega |
 | 613 | 164 | Sara Pennington |
 | 614 | 163 | Danielle Ayoub |
-| 615 | 163 | Ethan Stienbarger |
-| 616 | 163 | Tiffney Wroten |
+| 615 | 163 | Tiffney Wroten |
+| 616 | 163 | Ethan Stienbarger |
 | 617 | 163 | RetroLemur |
 | 618 | 163 | Angelica |
 | 619 | 162 | LC Hamilton |
