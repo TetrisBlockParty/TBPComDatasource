@@ -350,8 +350,8 @@
 | 342 | 357 | Julie Kresal |
 | 343 | 357 | Shannon Byrd |
 | 344 | 355 | Shandrica Lowe |
-| 345 | 354 | Darlene Bowman |
-| 346 | 354 | Lawanda Forbes |
+| 345 | 354 | Lawanda Forbes |
+| 346 | 354 | Darlene Bowman |
 | 347 | 354 | Brave Dropmatch |
 | 348 | 353 | Cheery Matchzone |
 | 349 | 352 | Vanessa Moreno |
@@ -476,8 +476,8 @@
 | 468 | 273 | Jenna Nance |
 | 469 | 272 | Mikayala Szaz |
 | 470 | 271 | Ann Marie Davis |
-| 471 | 271 | Toni Lynn |
-| 472 | 271 | Loony Basepiece |
+| 471 | 271 | Loony Basepiece |
+| 472 | 271 | Toni Lynn |
 | 473 | 270 | NickyBrooks |
 | 474 | 270 | Tim Dyer |
 | 475 | 269 | Reece Smith |
@@ -588,8 +588,8 @@
 | 580 | 220 | Katrina Weston |
 | 581 | 220 | Sho Nuff |
 | 582 | 219 | Cathy Bitters |
-| 583 | 218 | Twisty Tetriblast |
-| 584 | 218 | Shylee Tilman |
+| 583 | 218 | Shylee Tilman |
+| 584 | 218 | Twisty Tetriblast |
 | 585 | 217 | Natasha Edmonds |
 | 586 | 217 | Klee |
 | 587 | 217 | Layna Lyons |
@@ -621,8 +621,8 @@
 | 613 | 206 | Neko Preston |
 | 614 | 205 | ElizabethAnn Dickinson |
 | 615 | 205 | Joel Rosado |
-| 616 | 204 | Brenna Ann |
-| 617 | 204 | Kimberly Ann |
+| 616 | 204 | Kimberly Ann |
+| 617 | 204 | Brenna Ann |
 | 618 | 204 | Ryan Lauer |
 | 619 | 204 | Ali Gralski |
 | 620 | 203 | Alyssa Dean |

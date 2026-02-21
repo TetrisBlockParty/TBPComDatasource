@@ -151,8 +151,8 @@
 | 143 | 233 | Ray Lader |
 | 144 | 228 | Morgan Martinez |
 | 145 | 223 | Jeana Gilbert |
-| 146 | 222 | Hoppy Buildout |
-| 147 | 222 | Jimmie Clemons |
+| 146 | 222 | Jimmie Clemons |
+| 147 | 222 | Hoppy Buildout |
 | 148 | 220 | Leah Barnett |
 | 149 | 219 | Shunta Jacobs |
 | 150 | 218 | Marci Mize Fandrich |
@@ -211,8 +211,8 @@
 | 203 | 166 | Kelly Ann Child |
 | 204 | 166 | Beth Ingham |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Christine Trester |
-| 207 | 163 | Stephanie Hill |
+| 206 | 163 | Stephanie Hill |
+| 207 | 163 | Christine Trester |
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | BŘŰŤİÇŨŚ |
 | 210 | 161 | Irene Arreguin |
@@ -260,8 +260,8 @@
 | 252 | 134 | Skinny Baldez |
 | 253 | 134 | Cesar Barraza |
 | 254 | 133 | LaNette Morgan |
-| 255 | 131 | April Matthew Kibble |
-| 256 | 131 | Darlene McMillan |
+| 255 | 131 | Darlene McMillan |
+| 256 | 131 | April Matthew Kibble |
 | 257 | 130 | Weerae |
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |

@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Casey Grabner |
-| 85 | 218 | Antony Dwayne Beasley |
+| 84 | 218 | Antony Dwayne Beasley |
+| 85 | 218 | Casey Grabner |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
@@ -106,10 +106,10 @@
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
-| 101 | 192 | Crystal Carroll |
-| 102 | 192 | Shauna Havard |
-| 103 | 191 | loulou |
-| 104 | 191 | Melvin Baird |
+| 101 | 192 | Shauna Havard |
+| 102 | 192 | Crystal Carroll |
+| 103 | 191 | Melvin Baird |
+| 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
@@ -159,12 +159,12 @@
 | 151 | 136 | Serena Goodridge |
 | 152 | 135 | Victoria Faniel |
 | 153 | 134 | Zany Shatterer |
-| 154 | 134 | Chirpy Basepiece |
-| 155 | 134 | Kim Klutz Olson |
+| 154 | 134 | Kim Klutz Olson |
+| 155 | 134 | Chirpy Basepiece |
 | 156 | 133 | Angela Geist Jusinski |
-| 157 | 132 | Jessica Cagle |
-| 158 | 132 | Melissa Priest Sellers |
-| 159 | 132 | Degenerate |
+| 157 | 132 | Degenerate |
+| 158 | 132 | Jessica Cagle |
+| 159 | 132 | Melissa Priest Sellers |
 | 160 | 130 | Casey Jeffcoat |
 | 161 | 129 | Dreamy Snapgrid |
 | 162 | 128 | TinyLegoRose |
@@ -911,7 +911,7 @@
 | 903 | 16 | Kourtney Barnes |
 | 904 | 16 | Terra Emery |
 | 905 | 16 | Amy La Violette |
-| 906 | 15 | LondynsDad Mal O KingKreole |
+| 906 | 15 | Clever Breaker |
 | 907 | 15 | Samantha Ponzillo |
 | 908 | 15 | LondynsDad Mal O KingKreole |
 | 909 | 15 | Dandre |
