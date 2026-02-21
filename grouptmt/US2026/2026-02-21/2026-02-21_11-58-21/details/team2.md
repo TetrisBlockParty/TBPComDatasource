@@ -237,8 +237,8 @@
 | 229 | 350 | Kimberly Randesi |
 | 230 | 349 | Johnny Yeates |
 | 231 | 348 | Richard Horton |
-| 232 | 345 | Wuntayk |
-| 233 | 345 | Rhianna DiLorenzo |
+| 232 | 345 | Rhianna DiLorenzo |
+| 233 | 345 | Wuntayk |
 | 234 | 345 | Brenda Messer |
 | 235 | 344 | Julie Kresal |
 | 236 | 344 | Glenn Cobbins |

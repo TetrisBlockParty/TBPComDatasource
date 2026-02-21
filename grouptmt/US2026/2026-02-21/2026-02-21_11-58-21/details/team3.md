@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -139,8 +139,8 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Betty Rosas |
 | 138 | 166 | Danielle Mogg |
@@ -215,8 +215,8 @@
 | 207 | 115 | Jennifer Alvey |
 | 208 | 115 | Hoppy Buildout |
 | 209 | 114 | Jessica Bechler |
-| 210 | 113 | Brian Battjes |
-| 211 | 113 | Valerie Gendron |
+| 210 | 113 | Valerie Gendron |
+| 211 | 113 | Brian Battjes |
 | 212 | 111 | Stephanie Zahm |
 | 213 | 110 | Danielle Weikel |
 | 214 | 110 | Stella |
@@ -247,7 +247,7 @@
 | 239 | 100 | Demetrious Shaw Sr. |
 | 240 | 100 | Bobbi Moore |
 | 241 | 100 | Elizabeth Renee |
-| 242 | 100 | Demetrious Shaw Sr. |
+| 242 | 100 | Donna |
 | 243 | 100 | Edwin Calvillo Jr. |
 | 244 | 99 | Michael Nowogorski |
 | 245 | 99 | MizzMonick Smith |

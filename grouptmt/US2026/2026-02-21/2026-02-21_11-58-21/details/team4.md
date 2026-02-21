@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Zethra Prenisha Rahming |
-| 77 | 171 | Melvin Baird |
+| 76 | 171 | Melvin Baird |
+| 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Courtney Cicoria |
@@ -127,9 +127,9 @@
 | 119 | 123 | TinyLegoRose |
 | 120 | 122 | Sherri |
 | 121 | 121 | Smiley Tiltbuilder |
-| 122 | 121 | Megan Cutshaw |
-| 123 | 121 | Klo |
-| 124 | 121 | Zany Shatterer |
+| 122 | 121 | Zany Shatterer |
+| 123 | 121 | Megan Cutshaw |
+| 124 | 121 | Klo |
 | 125 | 120 | Joshua Guess |
 | 126 | 119 | Kristin Manee |
 | 127 | 118 | Leslie Nicole |
