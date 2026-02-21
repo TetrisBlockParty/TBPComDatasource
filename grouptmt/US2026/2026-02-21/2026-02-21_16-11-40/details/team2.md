@@ -79,8 +79,8 @@
 | 71 | 1038 | Denisha Dawkins |
 | 72 | 1013 | Sarah Freitas |
 | 73 | 992 | Samantha Roberts |
-| 74 | 973 | Zappy Cascade |
-| 75 | 973 | Kim Dean |
+| 74 | 973 | Kim Dean |
+| 75 | 973 | Zappy Cascade |
 | 76 | 962 | Charie Holland |
 | 77 | 962 | Janel Turley-Garner |
 | 78 | 946 | Carrie Trigg |
@@ -130,8 +130,8 @@
 | 122 | 700 | Rosemadder |
 | 123 | 698 | Lola Contreras |
 | 124 | 697 | Real Ri |
-| 125 | 694 | Vo'Landa Reels |
-| 126 | 694 | Nancy Reid |
+| 125 | 694 | Nancy Reid |
+| 126 | 694 | Vo'Landa Reels |
 | 127 | 693 | YiFei |
 | 128 | 690 | Cool Clearer |
 | 129 | 688 | Dreamy Blast |
@@ -167,8 +167,8 @@
 | 159 | 580 | Steve Grotto |
 | 160 | 576 | Shannon Joslin |
 | 161 | 571 | Thomas Hedrick |
-| 162 | 569 | Vaniel Glover |
-| 163 | 569 | Gary Stash |
+| 162 | 569 | Gary Stash |
+| 163 | 569 | Vaniel Glover |
 | 164 | 563 | goofinoff |
 | 165 | 561 | Maria Escobar |
 | 166 | 550 | Jumpy Gridpiece |
@@ -194,8 +194,8 @@
 | 186 | 511 | Ramone Armstrong |
 | 187 | 511 | Dizzy Zone |
 | 188 | 511 | Laura Mclean |
-| 189 | 510 | Cheech Dta |
-| 190 | 510 | Lisa Ongtowasruk |
+| 189 | 510 | Lisa Ongtowasruk |
+| 190 | 510 | Cheech Dta |
 | 191 | 509 | Kelli Wells |
 | 192 | 504 | Cherica Taylor |
 | 193 | 503 | Adam Erikson |

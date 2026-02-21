@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -111,8 +111,8 @@
 | 103 | 307 | Blocked |
 | 104 | 307 | Peggi Charon |
 | 105 | 306 | Speedy Bridger |
-| 106 | 300 | Sherika C. McDaniels |
-| 107 | 300 | Tessina Dewey-Mancino |
+| 106 | 300 | Tessina Dewey-Mancino |
+| 107 | 300 | Sherika C. McDaniels |
 | 108 | 293 | Poppy Splitter |
 | 109 | 284 | Jay Horn |
 | 110 | 267 | Rufus Lincoln |
@@ -236,8 +236,8 @@
 | 228 | 126 | April Matthew Kibble |
 | 229 | 125 | Shimika Enay Wallace |
 | 230 | 125 | Felicia Doxey |
-| 231 | 124 | Funky Jumper |
-| 232 | 124 | Danielle Allison |
+| 231 | 124 | Danielle Allison |
+| 232 | 124 | Funky Jumper |
 | 233 | 123 | Michael Latasha Gray |
 | 234 | 122 | BabyTonj Evans |
 | 235 | 122 | Giggly Brickroll |
@@ -280,8 +280,8 @@
 | 272 | 107 | Bouncy Blockbuilder |
 | 273 | 106 | Cheeky Snapper |
 | 274 | 106 | Noettín Kan Zasnemoore |
-| 275 | 105 | Boldy Blocker |
-| 276 | 105 | Donna |
+| 275 | 105 | Donna |
+| 276 | 105 | Boldy Blocker |
 | 277 | 105 | Emi |
 | 278 | 104 | Samantha Lynn |
 | 279 | 104 | Ashley Rufus Bythcez |
@@ -355,8 +355,8 @@
 | 347 | 85 | Heather De Vries Cobb |
 | 348 | 85 | Crystel b520 |
 | 349 | 85 | Sheila M Frazier |
-| 350 | 84 | Spunky Racker |
-| 351 | 84 | gremicx |
+| 350 | 84 | gremicx |
+| 351 | 84 | Spunky Racker |
 | 352 | 83 | Glitzy Slide |
 | 353 | 83 | Deseree Ewing |
 | 354 | 82 | Justice 4 P |
