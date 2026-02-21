@@ -146,8 +146,8 @@
 | 138 | 266 | Mighty Shatterfit |
 | 139 | 266 | Autumn Schaeffer |
 | 140 | 266 | Joyce Johnson Vaughn |
-| 141 | 265 | Joseph Musick |
-| 142 | 265 | Wuntayk |
+| 141 | 265 | Wuntayk |
+| 142 | 265 | Joseph Musick |
 | 143 | 263 | Shiny Rollzone |
 | 144 | 263 | Oscar Bernie |
 | 145 | 263 | Taylor Flowers |
@@ -234,8 +234,8 @@
 | 226 | 180 | Peter Palestino |
 | 227 | 179 | Desiree Harris Rosch |
 | 228 | 179 | Cat |
-| 229 | 177 | John |
-| 230 | 177 | Angel |
+| 229 | 177 | Angel |
+| 230 | 177 | John |
 | 231 | 176 | Missie Lawson Gebhardt |
 | 232 | 176 | Besma Ao |
 | 233 | 176 | James Simms III |
