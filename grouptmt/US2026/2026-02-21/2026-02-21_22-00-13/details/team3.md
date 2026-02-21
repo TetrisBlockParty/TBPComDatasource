@@ -59,15 +59,15 @@
 | 51 | 702 | Stephanie Allmon |
 | 52 | 621 | Cherry Parker |
 | 53 | 618 | MissTaylor |
-| 54 | 614 | Jamie Furr |
-| 55 | 614 | Gracie |
+| 54 | 614 | Gracie |
+| 55 | 614 | Jamie Furr |
 | 56 | 613 | Amber Hughes |
 | 57 | 604 | Danielle Becker |
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Natasha Jones |
-| 62 | 582 | Katrina Schroeder |
+| 61 | 582 | Katrina Schroeder |
+| 62 | 582 | Natasha Jones |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -91,8 +91,8 @@
 | 83 | 454 | Brandon Green |
 | 84 | 447 | Mykal Burton |
 | 85 | 446 | Danielle Rhoades |
-| 86 | 445 | Kristie McFarland |
-| 87 | 445 | Silly Twist |
+| 86 | 445 | Silly Twist |
+| 87 | 445 | Kristie McFarland |
 | 88 | 442 | Christine Niles |
 | 89 | 430 | Patricia White |
 | 90 | 416 | Mary Pellegrino |

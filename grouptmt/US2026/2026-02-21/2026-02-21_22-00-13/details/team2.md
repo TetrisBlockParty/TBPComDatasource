@@ -214,8 +214,8 @@
 | 206 | 589 | Thomas Hedrick |
 | 207 | 587 | Hyper Cluster |
 | 208 | 586 | Stephen Stephen |
-| 209 | 583 | Steve Grotto |
-| 210 | 583 | Jessicah Myers |
+| 209 | 583 | Jessicah Myers |
+| 210 | 583 | Steve Grotto |
 | 211 | 581 | Jánine Riggs |
 | 212 | 579 | Gary Stash |
 | 213 | 579 | Roy Salyer |
@@ -260,8 +260,8 @@
 | 252 | 509 | Jordan Kaiser |
 | 253 | 509 | Kelli Wells |
 | 254 | 506 | AISlop |
-| 255 | 504 | Cherica Taylor |
-| 256 | 504 | Gene Mills |
+| 255 | 504 | Gene Mills |
+| 256 | 504 | Cherica Taylor |
 | 257 | 503 | tejas25 |
 | 258 | 502 | Magic steve |
 | 259 | 502 | Poppy Snap |

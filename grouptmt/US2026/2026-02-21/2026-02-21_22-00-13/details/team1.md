@@ -49,10 +49,10 @@
 | 41 | 510 | Colena Davenport |
 | 42 | 508 | Kristen Roles Robben |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
-| 46 | 486 | Sevens4L |
-| 47 | 486 | Sarah Lombardo |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
+| 46 | 486 | Sarah Lombardo |
+| 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
 | 49 | 469 | Kathi Snustad |
 | 50 | 445 | April Carroll |
@@ -97,8 +97,8 @@
 | 89 | 272 | Sarah Roberts |
 | 90 | 270 | Jennifer ManWarren |
 | 91 | 267 | Bhelle Sumile |
-| 92 | 258 | Dandy Basegrid |
-| 93 | 258 | Kellie |
+| 92 | 258 | Kellie |
+| 93 | 258 | Dandy Basegrid |
 | 94 | 254 | Rachael |
 | 95 | 252 | Dena Kayy |
 | 96 | 251 | june october |
@@ -183,8 +183,8 @@
 | 175 | 142 | Colleen Wise |
 | 176 | 141 | Blaire Bruckoff |
 | 177 | 140 | Miguel Teixeira |
-| 178 | 139 | Flashy Rotator |
-| 179 | 139 | Jenny Gingrich Fuentes |
+| 178 | 139 | Jenny Gingrich Fuentes |
+| 179 | 139 | Flashy Rotator |
 | 180 | 138 | Death |
 | 181 | 137 | Cody Gates |
 | 182 | 136 | Dino |
@@ -255,12 +255,12 @@
 | 247 | 104 | Howdi Duty |
 | 248 | 103 | Kayla Marie Stevenson |
 | 249 | 103 | Strig |
-| 250 | 103 | Kayla Marie Stevenson |
-| 251 | 102 | Meechie |
-| 252 | 102 | Shanae Grant |
-| 253 | 102 | Barrbaric |
-| 254 | 101 | Owicked1 |
-| 255 | 101 | Loony Fitzone |
+| 250 | 103 | MommaKFC |
+| 251 | 102 | Shanae Grant |
+| 252 | 102 | Barrbaric |
+| 253 | 102 | Meechie |
+| 254 | 101 | Loony Fitzone |
+| 255 | 101 | Owicked1 |
 | 256 | 101 | Mizzledagod |
 | 257 | 100 | Jessica Weed |
 | 258 | 100 | Debbie Davis |

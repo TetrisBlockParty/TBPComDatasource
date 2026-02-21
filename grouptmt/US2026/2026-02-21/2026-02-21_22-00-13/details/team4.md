@@ -111,8 +111,8 @@
 | 103 | 212 | Calvin Cannon |
 | 104 | 211 | Dizzy Tiley |
 | 105 | 210 | Damn Libra |
-| 106 | 208 | Chastity Mitchell |
-| 107 | 208 | Twisty Cascadezone |
+| 106 | 208 | Twisty Cascadezone |
+| 107 | 208 | Chastity Mitchell |
 | 108 | 206 | Mylo Lipscomb |
 | 109 | 205 | Sarah Neathery |
 | 110 | 204 | Dana Scott |
@@ -131,9 +131,9 @@
 | 123 | 185 | Peachy Fall |
 | 124 | 185 | Andy Cabral |
 | 125 | 184 | Justin Hannigan |
-| 126 | 181 | Savannah Overdorf |
+| 126 | 181 | Carter Jones |
 | 127 | 181 | Andria Lynn |
-| 128 | 181 | Carter Jones |
+| 128 | 181 | Savannah Overdorf |
 | 129 | 180 | Leah Kutz Zirbel |
 | 130 | 180 | Serena Goodridge |
 | 131 | 178 | Lori |
@@ -170,8 +170,8 @@
 | 162 | 140 | Stephme310 |
 | 163 | 140 | Shannon Ferrari |
 | 164 | 137 | PeaceOs |
-| 165 | 136 | Sarah Brown |
-| 166 | 136 | Tanner Lund |
+| 165 | 136 | Tanner Lund |
+| 166 | 136 | Sarah Brown |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
 | 169 | 134 | Kim Klutz Olson |
@@ -240,9 +240,9 @@
 | 232 | 103 | Richard-April Kice |
 | 233 | 103 | Berklie Apedaile |
 | 234 | 103 | Kate |
-| 235 | 102 | Cheery Risebuilder |
+| 235 | 102 | Autumn Kumzi |
 | 236 | 102 | Christina O'Dell-Ishau |
-| 237 | 102 | Autumn Kumzi |
+| 237 | 102 | Cheery Risebuilder |
 | 238 | 102 | Faja |
 | 239 | 102 | Kim Hunt |
 | 240 | 102 | Jumpy Zonepiece |
@@ -272,16 +272,16 @@
 | 264 | 95 | Tina Martinez |
 | 265 | 95 | Meagan Nicole |
 | 266 | 94 | Madison Sweere |
-| 267 | 94 | DonMega |
-| 268 | 94 | Christina Black |
+| 267 | 94 | Christina Black |
+| 268 | 94 | DonMega |
 | 269 | 93 | Matt Dell'Olio |
 | 270 | 93 | No Strings Attached Ra |
 | 271 | 92 | TRCuse |
 | 272 | 92 | Zippy Gridlock |
 | 273 | 91 | Sunny Filler |
 | 274 | 91 | wombat |
-| 275 | 90 | Carol Ricks Raymond |
-| 276 | 90 | Thomas Hettenhaus |
+| 275 | 90 | Thomas Hettenhaus |
+| 276 | 90 | Carol Ricks Raymond |
 | 277 | 90 | Hyper Builder |
 | 278 | 89 | bloat princess |
 | 279 | 89 | Jonathan Mahfood |
@@ -311,7 +311,7 @@
 | 303 | 82 | Kametsunoyaiba |
 | 304 | 82 | Nick Gray |
 | 305 | 81 | Joshua Cuellar |
-| 306 | 80 | Jason Bosco |
+| 306 | 80 | Melissa Adams |
 | 307 | 80 | Porkobello |
 | 308 | 80 | Jason Bosco |
 | 309 | 80 | Brittany Little |
