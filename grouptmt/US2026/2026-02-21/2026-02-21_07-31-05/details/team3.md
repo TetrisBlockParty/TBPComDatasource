@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -324,7 +324,7 @@
 | 316 | 72 | Alexsandran Valdivia |
 | 317 | 71 | Amber Groover Taylor |
 | 318 | 71 | Duane Bright |
-| 319 | 71 | Amber Groover Taylor |
+| 319 | 71 | LaKisha Legrone |
 | 320 | 71 | Weerae |
 | 321 | 70 | Willow |
 | 322 | 70 | Brave Bruno |

@@ -90,8 +90,8 @@
 | 82 | 141 | Malakai Darien Fox |
 | 83 | 140 | Shannon Ferrari |
 | 84 | 136 | Tanner Lund |
-| 85 | 134 | Jessica Bohlken |
-| 86 | 134 | Chirpy Basepiece |
+| 85 | 134 | Chirpy Basepiece |
+| 86 | 134 | Jessica Bohlken |
 | 87 | 133 | Robin Watters |
 | 88 | 132 | Degenerate |
 | 89 | 132 | Jessica Cagle |
@@ -152,8 +152,8 @@
 | 144 | 96 | Zappy Snaplink |
 | 145 | 95 | Meagan Nicole |
 | 146 | 93 | Zesty Twistbuilder |
-| 147 | 92 | Victoria Faniel |
-| 148 | 92 | Kristin MacDonald |
+| 147 | 92 | Kristin MacDonald |
+| 148 | 92 | Victoria Faniel |
 | 149 | 90 | Judy Cox |
 | 150 | 90 | No Strings Attached Ra |
 | 151 | 89 | mike |

@@ -92,9 +92,9 @@
 | 84 | 147 | Veronica Eve |
 | 85 | 145 | BigWeenie69 |
 | 86 | 145 | Lachelle Dillon |
-| 87 | 144 | Plucky Ziggy |
+| 87 | 144 | Tanya Carpenter-Reynolds |
 | 88 | 144 | femmefatale |
-| 89 | 144 | Tanya Carpenter-Reynolds |
+| 89 | 144 | Plucky Ziggy |
 | 90 | 143 | Sarah Marie |
 | 91 | 141 | Blaire Bruckoff |
 | 92 | 138 | Gary Gobin |
@@ -122,10 +122,10 @@
 | 114 | 112 | Kristen Gideon |
 | 115 | 112 | Nicole Roseberry Weber |
 | 116 | 111 | Agustin Duarte Orozco |
-| 117 | 110 | Shaykmia |
+| 117 | 110 | Bhelle Sumile |
 | 118 | 110 | Garcia Bailey |
 | 119 | 110 | Heidi Feurer |
-| 120 | 110 | Bhelle Sumile |
+| 120 | 110 | Shaykmia |
 | 121 | 108 | Tavia |
 | 122 | 107 | Jodee Woods |
 | 123 | 106 | Ash Galvan |
@@ -143,9 +143,9 @@
 | 135 | 98 | Loony Fitzone |
 | 136 | 96 | Melissa Lemmon |
 | 137 | 96 | Nery Martinez |
-| 138 | 94 | Bindi |
-| 139 | 94 | Luciano Moreira |
-| 140 | 94 | Tyler Hertzog |
+| 138 | 94 | Luciano Moreira |
+| 139 | 94 | Tyler Hertzog |
+| 140 | 94 | Bindi |
 | 141 | 93 | Cody Gates |
 | 142 | 92 | Jessica Russell |
 | 143 | 91 | june october |
@@ -156,8 +156,8 @@
 | 148 | 89 | Mara Hilker |
 | 149 | 88 | Shauntina Burke |
 | 150 | 87 | Jessi Sauer |
-| 151 | 86 | Desiree Deschaine Havee |
-| 152 | 86 | Basment Living |
+| 151 | 86 | Basment Living |
+| 152 | 86 | Desiree Deschaine Havee |
 | 153 | 85 | Steve Schneider |
 | 154 | 84 | Speedy Snapfall |
 | 155 | 84 | Kayla Marie Stevenson |
