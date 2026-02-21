@@ -46,8 +46,8 @@
 | 38 | 205 | Sarah Neathery |
 | 39 | 198 | Mike Solo |
 | 40 | 197 | Autum Leigh |
-| 41 | 194 | Jamie Mann-Deichmann |
-| 42 | 194 | Rachel Anne |
+| 41 | 194 | Rachel Anne |
+| 42 | 194 | Jamie Mann-Deichmann |
 | 43 | 190 | Brittney Orengo |
 | 44 | 185 | loulou |
 | 45 | 179 | Epic Curvetile |
@@ -69,8 +69,8 @@
 | 61 | 134 | Chirpy Basepiece |
 | 62 | 134 | Jessica Bohlken |
 | 63 | 133 | Robin Watters |
-| 64 | 132 | Degenerate |
-| 65 | 132 | Jenna McGeorge |
+| 64 | 132 | Jenna McGeorge |
+| 65 | 132 | Degenerate |
 | 66 | 131 | Dustee Craddock-Harrison |
 | 67 | 130 | Casey Jeffcoat |
 | 68 | 129 | John Brunetti |
@@ -147,8 +147,8 @@
 | 139 | 75 | 🥔🥔 Spudz |
 | 140 | 75 | Rosemary Foster |
 | 141 | 74 | Melvin Baird |
-| 142 | 74 | Christina Black |
-| 143 | 74 | Krs |
+| 142 | 74 | Krs |
+| 143 | 74 | Christina Black |
 | 144 | 73 | bloat princess |
 | 145 | 73 | April Rondinone |
 | 146 | 72 | Robin Getchel |

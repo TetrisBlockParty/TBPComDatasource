@@ -151,8 +151,8 @@
 | 143 | 385 | Sam |
 | 144 | 380 | Joshua Mandel |
 | 145 | 379 | Chris Wanner |
-| 146 | 377 | Roy Salyer |
-| 147 | 377 | Liberty |
+| 146 | 377 | Liberty |
+| 147 | 377 | Roy Salyer |
 | 148 | 374 | Calandra Shaya Robinson |
 | 149 | 365 | April Dawn Gussler |
 | 150 | 364 | Shinette Dobson |
@@ -426,11 +426,11 @@
 | 418 | 142 | Angela Lynn |
 | 419 | 142 | Melissa Kay Gibson |
 | 420 | 141 | Erika Meaux |
-| 421 | 141 | Markisha Poyndexter |
-| 422 | 141 | Kimmy Newman |
+| 421 | 141 | Kimmy Newman |
+| 422 | 141 | Markisha Poyndexter |
 | 423 | 140 | King Shamell Young |
-| 424 | 140 | Kimberly Ann |
-| 425 | 140 | Preya Patel |
+| 424 | 140 | Preya Patel |
+| 425 | 140 | Kimberly Ann |
 | 426 | 139 | Jackson Smith |
 | 427 | 139 | Octavio Garza |
 | 428 | 138 | Gursharan Sandhu |
@@ -656,7 +656,7 @@
 | 648 | 98 | Snappy Slamdrop |
 | 649 | 97 | Tj Ball |
 | 650 | 97 | Charity Boitnott |
-| 651 | 97 | Emilie Victoria Cordero |
+| 651 | 97 | William Bresee |
 | 652 | 97 | Mikey |
 | 653 | 97 | Emilie Victoria Cordero |
 | 654 | 96 | Tamara Slaten |
@@ -696,7 +696,7 @@
 | 688 | 91 | Offonar Facey |
 | 689 | 91 | Mystique89 |
 | 690 | 91 | Bob Logan |
-| 691 | 91 | Vung Nguyen |
+| 691 | 91 | Gigi |
 | 692 | 91 | Kayla Southern |
 | 693 | 91 | Vung Nguyen |
 | 694 | 91 | Chyrisse Norton |

@@ -85,8 +85,8 @@
 | 77 | 128 | Uhog SF |
 | 78 | 128 | Gary Gobin |
 | 79 | 126 | Cece Ibarra |
-| 80 | 120 | Happy Snapbuild |
-| 81 | 120 | Blaire Bruckoff |
+| 80 | 120 | Blaire Bruckoff |
+| 81 | 120 | Happy Snapbuild |
 | 82 | 119 | Irual Hctrab |
 | 83 | 116 | Kristen Roles Robben |
 | 84 | 115 | comrade fish |
@@ -112,10 +112,10 @@
 | 104 | 96 | Melissa Lemmon |
 | 105 | 96 | Nery Martinez |
 | 106 | 95 | Spunky Piecebuilder |
-| 107 | 94 | Luciano Moreira |
-| 108 | 94 | Bindi |
-| 109 | 93 | Aimee Horton |
-| 110 | 93 | Loony Fitzone |
+| 107 | 94 | Bindi |
+| 108 | 94 | Luciano Moreira |
+| 109 | 93 | Loony Fitzone |
+| 110 | 93 | Aimee Horton |
 | 111 | 92 | Jessica Russell |
 | 112 | 90 | Madison Wicks |
 | 113 | 90 | Evie Khalil |
@@ -241,7 +241,7 @@
 | 233 | 50 | Unicorn |
 | 234 | 50 | Sarah Lyle |
 | 235 | 49 | Hasty Columnbuilder |
-| 236 | 48 | Zappy Pivoty |
+| 236 | 48 | TristansDad |
 | 237 | 48 | Jonathan Vaval |
 | 238 | 48 | Zappy Pivoty |
 | 239 | 48 | Vivian Bush |
@@ -252,7 +252,7 @@
 | 244 | 47 | Mary Love |
 | 245 | 46 | docjp |
 | 246 | 46 | Dizzy Party |
-| 247 | 46 | docjp |
+| 247 | 46 | Tazz |
 | 248 | 46 | Nicole Michele Barfield |
 | 249 | 45 | Jacob Dozar |
 | 250 | 45 | Jason Savage |
