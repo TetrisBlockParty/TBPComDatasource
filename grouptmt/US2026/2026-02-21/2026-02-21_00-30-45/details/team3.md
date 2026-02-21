@@ -89,8 +89,8 @@
 | 81 | 127 | Dolores Falco |
 | 82 | 125 | Stephanie Simpson |
 | 83 | 124 | Delilah belle |
-| 84 | 120 | Jessica |
-| 85 | 120 | Michael Latasha Gray |
+| 84 | 120 | Michael Latasha Gray |
+| 85 | 120 | Jessica |
 | 86 | 118 | Bea Miles |
 | 87 | 116 | Ashley Tookes |
 | 88 | 114 | Terry Jo Jones |
@@ -143,8 +143,8 @@
 | 135 | 80 | Gumbo |
 | 136 | 80 | Chris Bell |
 | 137 | 79 | Armi |
-| 138 | 78 | Karon Griffin |
-| 139 | 78 | Angie Harper |
+| 138 | 78 | Angie Harper |
+| 139 | 78 | Karon Griffin |
 | 140 | 78 | Clever Patterner |
 | 141 | 76 | Jessica Bechler |
 | 142 | 76 | Melissa Orth Hunter |
