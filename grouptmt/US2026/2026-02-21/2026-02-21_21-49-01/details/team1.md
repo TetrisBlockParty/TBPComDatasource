@@ -27,8 +27,8 @@
 | 19 | 808 | Robert Beck |
 | 20 | 792 | LaQuetta Faith Hines |
 | 21 | 779 | Andrea Dañielle Ortiz |
-| 22 | 770 | Zappy Curvetile |
-| 23 | 770 | Adryane Schnase |
+| 22 | 770 | Adryane Schnase |
+| 23 | 770 | Zappy Curvetile |
 | 24 | 699 | Josie Kirt |
 | 25 | 683 | Chipper Gridlock |
 | 26 | 675 | Amanda Summey Schoemer |
@@ -136,8 +136,8 @@
 | 128 | 187 | Snippy Wipebuilder |
 | 129 | 186 | Jennifer Olewnik Soborowski |
 | 130 | 182 | Spunky Piecebuilder |
-| 131 | 180 | Erez Yosef |
-| 132 | 180 | BigWeenie69 |
+| 131 | 180 | BigWeenie69 |
+| 132 | 180 | Erez Yosef |
 | 133 | 179 | Danielle Little-Daugherty |
 | 134 | 178 | Chad Atchley |
 | 135 | 177 | ParisandCory Champagne |
@@ -961,26 +961,26 @@
 | 953 | 20 | Dawn Cox |
 | 954 | 20 | Zippy Fallgrid |
 | 955 | 20 | Crystal Mock |
-| 956 | 20 | Lyn Sibayan |
-| 957 | 20 | Neena AkaJaneen TheQueen |
-| 958 | 20 | Chelly |
-| 959 | 20 | Rob Burns |
-| 960 | 20 | Wolf Man |
-| 961 | 20 | Jimmijones420 |
-| 962 | 20 | Smiley Dashy |
+| 956 | 20 | Purp |
+| 957 | 20 | Christa Ybarra |
+| 958 | 20 | Chad Massaro |
+| 959 | 20 | Terri Ruffin Arnett |
+| 960 | 20 | Neena AkaJaneen TheQueen |
+| 961 | 20 | Chelly |
+| 962 | 20 | Wolf Man |
 | 963 | 20 | Crystal Raffaele |
-| 964 | 20 | Shannan Porter |
-| 965 | 20 | Pat |
-| 966 | 20 | Kaitlyn Mambro |
-| 967 | 20 | Charles Corey |
-| 968 | 20 | Alexx |
-| 969 | 20 | Joe Coon |
-| 970 | 19 | Zippy Align |
-| 971 | 19 | Chota |
-| 972 | 19 | Goofy Dropzone |
-| 973 | 19 | BeeDub |
-| 974 | 19 | Krie |
-| 975 | 19 | Stephanie Randall |
+| 964 | 20 | Pat |
+| 965 | 20 | Kaitlyn Mambro |
+| 966 | 20 | Shannan Porter |
+| 967 | 20 | Rob Burns |
+| 968 | 20 | Jean Graziano |
+| 969 | 20 | Alexx |
+| 970 | 19 | BeeDub |
+| 971 | 19 | Krie |
+| 972 | 19 | Chota |
+| 973 | 19 | Stephanie Randall |
+| 974 | 19 | Goofy Dropzone |
+| 975 | 19 | Zippy Align |
 | 976 | 19 | Soany Barrera |
 | 977 | 19 | dhardy |
 | 978 | 19 | Zany Snapline |

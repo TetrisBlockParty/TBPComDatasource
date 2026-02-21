@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | quicksand420 |
-| 64 | 376 | Marie-Pier Desjardins |
+| 63 | 376 | Marie-Pier Desjardins |
+| 64 | 376 | quicksand420 |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -103,8 +103,8 @@
 | 95 | 223 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Casey Grabner |
-| 99 | 218 | Denise Carlson |
+| 98 | 218 | Denise Carlson |
+| 99 | 218 | Casey Grabner |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jeff Brian Gates |
-| 116 | 196 | Jenna McGeorge |
+| 115 | 196 | Jenna McGeorge |
+| 116 | 196 | Jeff Brian Gates |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -148,8 +148,8 @@
 | 140 | 164 | ThaEviLJeNiuZ |
 | 141 | 164 | 030Synner |
 | 142 | 160 | ZeeZee |
-| 143 | 156 | Holly |
-| 144 | 156 | Jessica Bohlken |
+| 143 | 156 | Jessica Bohlken |
+| 144 | 156 | Holly |
 | 145 | 153 | Empress Oasis |
 | 146 | 151 | Bethany Ison |
 | 147 | 151 | Avy Absol |
@@ -157,13 +157,13 @@
 | 149 | 149 | Shainne Brewer |
 | 150 | 148 | Brittany Marsh |
 | 151 | 148 | Janita Parrish |
-| 152 | 147 | Jay28 |
-| 153 | 147 | Chair |
+| 152 | 147 | Chair |
+| 153 | 147 | Jay28 |
 | 154 | 145 | Daria Rycewicz |
 | 155 | 144 | Mr. Party |
-| 156 | 141 | Malakai Darien Fox |
+| 156 | 141 | Marcus Todd |
 | 157 | 141 | ĥuf |
-| 158 | 141 | Marcus Todd |
+| 158 | 141 | Malakai Darien Fox |
 | 159 | 141 | Kathy Allen |
 | 160 | 140 | Serena Goodridge |
 | 161 | 140 | Shannon Ferrari |
@@ -174,8 +174,8 @@
 | 166 | 136 | Sarah Brown |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
-| 169 | 134 | Chirpy Basepiece |
-| 170 | 134 | Kim Klutz Olson |
+| 169 | 134 | Kim Klutz Olson |
+| 170 | 134 | Chirpy Basepiece |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
 | 173 | 132 | Jessica Cagle |
@@ -201,13 +201,13 @@
 | 193 | 122 | 🥔🥔 Spudz |
 | 194 | 122 | Sherri |
 | 195 | 121 | Megan Cutshaw |
-| 196 | 121 | Smiley Tiltbuilder |
-| 197 | 121 | Joseph Pace |
-| 198 | 120 | KayM |
-| 199 | 120 | Joshua Guess |
+| 196 | 121 | Joseph Pace |
+| 197 | 121 | Smiley Tiltbuilder |
+| 198 | 120 | Joshua Guess |
+| 199 | 120 | KayM |
 | 200 | 120 | Bryan Hodgins |
-| 201 | 120 | Jackie Marie |
-| 202 | 120 | Zesty Twistbuilder |
+| 201 | 120 | Zesty Twistbuilder |
+| 202 | 120 | Jackie Marie |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
 | 205 | 118 | Mary Ann Pabukis |

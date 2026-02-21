@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Katrina Schroeder |
-| 62 | 582 | Natasha Jones |
+| 61 | 582 | Natasha Jones |
+| 62 | 582 | Katrina Schroeder |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -241,7 +241,7 @@
 | 233 | 160 | Tiffany Davie |
 | 234 | 159 | Daryn Elliott |
 | 235 | 159 | Jone |
-| 236 | 157 | Katrina E Jelks |
+| 236 | 157 | Sabrina Hardrick |
 | 237 | 157 | Patricia Gadsden |
 | 238 | 157 | Katrina E Jelks |
 | 239 | 155 | Loopy Fallzone |
@@ -325,7 +325,7 @@
 | 317 | 119 | Daring Builder |
 | 318 | 119 | BugMansMom |
 | 319 | 118 | Michael Nowogorski |
-| 320 | 118 | Damian Reid |
+| 320 | 118 | Fancy Curver |
 | 321 | 118 | Lizabeth Fox |
 | 322 | 118 | Damian Reid |
 | 323 | 117 | El Chapa |

@@ -467,8 +467,8 @@
 | 459 | 312 | Michelle Pike |
 | 460 | 310 | Cheeky Brickmatch |
 | 461 | 310 | Sharon Mills |
-| 462 | 309 | Glitzy Stackzone |
-| 463 | 309 | Autumn Schaeffer |
+| 462 | 309 | Autumn Schaeffer |
+| 463 | 309 | Glitzy Stackzone |
 | 464 | 307 | Kitybox |
 | 465 | 306 | Frisky Clearpiece |
 | 466 | 305 | Zany Clusterbuilder |
@@ -496,8 +496,8 @@
 | 488 | 296 | Amber Gray |
 | 489 | 296 | Jennifer Casey-Kay |
 | 490 | 295 | Noel Tarmy |
-| 491 | 294 | Byung Bae Park |
-| 492 | 294 | Amanda Edwards |
+| 491 | 294 | Amanda Edwards |
+| 492 | 294 | Byung Bae Park |
 | 493 | 294 | Frisky Riserbuilder |
 | 494 | 292 | Deana |
 | 495 | 292 | Luna |
