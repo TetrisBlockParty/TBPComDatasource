@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Ebony West-Cundiff |
-| 59 | 446 | Kathryn Keenan-Taggart |
+| 58 | 446 | Kathryn Keenan-Taggart |
+| 59 | 446 | Ebony West-Cundiff |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -118,8 +118,8 @@
 | 110 | 228 | Rachael McClain Owens |
 | 111 | 227 | Crimson |
 | 112 | 225 | Speedy Bridger |
-| 113 | 224 | Mykal Burton |
-| 114 | 224 | Judi Dobson |
+| 113 | 224 | Judi Dobson |
+| 114 | 224 | Mykal Burton |
 | 115 | 223 | Jeana Gilbert |
 | 116 | 222 | Jimmie Clemons |
 | 117 | 222 | Makelini Mausia |

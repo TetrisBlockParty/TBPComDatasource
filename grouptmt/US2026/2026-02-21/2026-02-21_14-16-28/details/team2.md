@@ -233,8 +233,8 @@
 | 225 | 396 | Steven Marshaun |
 | 226 | 394 | Mema |
 | 227 | 393 | Altamirano Michael |
-| 228 | 391 | Chilly Bridgepiece |
-| 229 | 391 | Brenda Utphall |
+| 228 | 391 | Brenda Utphall |
+| 229 | 391 | Chilly Bridgepiece |
 | 230 | 391 | Qiana Sanders |
 | 231 | 391 | Amanda Ferrell |
 | 232 | 386 | Macy Williams |
@@ -553,8 +553,8 @@
 | 545 | 176 | Jennifer Malloy - Cardy |
 | 546 | 176 | Stacy Harper |
 | 547 | 175 | Snippy Rumbler |
-| 548 | 175 | Tina Blessed Cage |
-| 549 | 175 | Lucero Ramirez |
+| 548 | 175 | Lucero Ramirez |
+| 549 | 175 | Tina Blessed Cage |
 | 550 | 174 | Veronica Guerra |
 | 551 | 173 | kippykay |
 | 552 | 173 | Nuke Morris |
@@ -630,8 +630,8 @@
 | 622 | 154 | Cini |
 | 623 | 154 | Lori Maring |
 | 624 | 153 | Luna |
-| 625 | 152 | Sweetheart81 |
-| 626 | 152 | Kristin King |
+| 625 | 152 | Kristin King |
+| 626 | 152 | Sweetheart81 |
 | 627 | 152 | JP Parks |
 | 628 | 152 | Britney M. |
 | 629 | 152 | James Smith |
@@ -733,8 +733,8 @@
 | 725 | 134 | Keila Adames |
 | 726 | 133 | Epic Stackzone |
 | 727 | 133 | Rae Rae |
-| 728 | 133 | Hillary Franklin |
-| 729 | 133 | candy |
+| 728 | 133 | candy |
+| 729 | 133 | Hillary Franklin |
 | 730 | 133 | Gina Caulder |
 | 731 | 133 | Jess Orosz |
 | 732 | 133 | Britt Woolston |

@@ -46,8 +46,8 @@
 | 38 | 345 | Adryane Schnase |
 | 39 | 338 | Stephanie Zahn |
 | 40 | 327 | Angel Fowler |
-| 41 | 325 | Jennifer Cates |
-| 42 | 325 | Jacqueline Williams |
+| 41 | 325 | Jacqueline Williams |
+| 42 | 325 | Jennifer Cates |
 | 43 | 303 | Maria C. Hernandez |
 | 44 | 299 | Lehrin Maria |
 | 45 | 291 | Nancy Green |
@@ -173,8 +173,8 @@
 | 165 | 105 | Ty Brown |
 | 166 | 104 | Charla Pross-Fugleberg |
 | 167 | 104 | Bindi |
-| 168 | 103 | Chantelle Ceno |
-| 169 | 103 | Angela Fairbank |
+| 168 | 103 | Angela Fairbank |
+| 169 | 103 | Chantelle Ceno |
 | 170 | 101 | Jessie |
 | 171 | 101 | Loony Fitzone |
 | 172 | 100 | Tami Luce Martin |

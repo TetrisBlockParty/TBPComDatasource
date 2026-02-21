@@ -127,8 +127,8 @@
 | 119 | 132 | Degenerate |
 | 120 | 132 | Jenna McGeorge |
 | 121 | 130 | Casey Jeffcoat |
-| 122 | 129 | John Brunetti |
-| 123 | 129 | Landon Keith Graffeo |
+| 122 | 129 | Landon Keith Graffeo |
+| 123 | 129 | John Brunetti |
 | 124 | 128 | Rio Rocha |
 | 125 | 128 | Andria Lynn |
 | 126 | 126 | Dihcheese444 |
