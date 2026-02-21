@@ -85,8 +85,8 @@
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
 | 79 | 232 | Jae Job |
-| 80 | 230 | Autum Leigh |
-| 81 | 230 | Lucas J Sutton |
+| 80 | 230 | Lucas J Sutton |
+| 81 | 230 | Autum Leigh |
 | 82 | 224 | H.R. Block |
 | 83 | 221 | Alyssa Papen |
 | 84 | 220 | Joeliecea Cobb |
@@ -209,17 +209,17 @@
 | 201 | 111 | Kristin MacDonald |
 | 202 | 111 | Michelle Morris |
 | 203 | 109 | Chaz |
-| 204 | 108 | Ali Ian |
-| 205 | 108 | Crystal Nicolette Moore |
+| 204 | 108 | Crystal Nicolette Moore |
+| 205 | 108 | Ali Ian |
 | 206 | 108 | Shane Kalamata Platoon |
 | 207 | 107 | Rafael Valentin |
 | 208 | 106 | Zappy Snaplink |
 | 209 | 106 | Rebecca Morris |
 | 210 | 105 | Brandi Durig |
 | 211 | 104 | Chris Alexinas |
-| 212 | 103 | Lauren Lamb |
-| 213 | 103 | Richard-April Kice |
-| 214 | 103 | Chris Bernstein |
+| 212 | 103 | Chris Bernstein |
+| 213 | 103 | Lauren Lamb |
+| 214 | 103 | Richard-April Kice |
 | 215 | 103 | Kate |
 | 216 | 102 | Christina O'Dell-Ishau |
 | 217 | 102 | Jumpy Zonepiece |

@@ -33,15 +33,15 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Lawrence Belanger |
-| 36 | 510 | Colena Davenport |
+| 35 | 510 | Colena Davenport |
+| 36 | 510 | Lawrence Belanger |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 486 | Sarah Lombardo |
@@ -268,7 +268,7 @@
 | 260 | 84 | Fresno Beotoni |
 | 261 | 84 | Stoney Smith |
 | 262 | 83 | Teddy Alexander |
-| 263 | 83 | Brave Slice |
+| 263 | 83 | Bob |
 | 264 | 83 | FableGray |
 | 265 | 83 | Brave Slice |
 | 266 | 82 | Crystal Joslin |

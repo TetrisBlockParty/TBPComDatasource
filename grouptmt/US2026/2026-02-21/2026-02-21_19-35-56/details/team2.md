@@ -129,8 +129,8 @@
 | 121 | 787 | Laura McCarthey |
 | 122 | 780 | Amanda Grohmann |
 | 123 | 772 | Megan Ferguson Leone |
-| 124 | 771 | Missie Lawson Gebhardt |
-| 125 | 771 | Terri McKelvey McKinley |
+| 124 | 771 | Terri McKelvey McKinley |
+| 125 | 771 | Missie Lawson Gebhardt |
 | 126 | 763 | Samantha Jo |
 | 127 | 756 | Stephanie Neuburger |
 | 128 | 751 | Loony Snapper |
@@ -175,8 +175,8 @@
 | 167 | 630 | L3sli3 |
 | 168 | 620 | BYM4L |
 | 169 | 619 | Jamie Otero |
-| 170 | 608 | Sommer Shope |
-| 171 | 608 | John Bednarik |
+| 170 | 608 | John Bednarik |
+| 171 | 608 | Sommer Shope |
 | 172 | 604 | Amber Shoemaker |
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |

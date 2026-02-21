@@ -177,13 +177,13 @@
 | 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Clever Shiftsnap |
-| 172 | 193 | Stephanie Burtin |
-| 173 | 193 | Duane Bright |
+| 172 | 193 | Duane Bright |
+| 173 | 193 | Stephanie Burtin |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
-| 176 | 191 | Brenda Lee Vander Molen |
-| 177 | 191 | Giddy Twistbuilder |
-| 178 | 191 | Scott Carleton |
+| 176 | 191 | Giddy Twistbuilder |
+| 177 | 191 | Scott Carleton |
+| 178 | 191 | Brenda Lee Vander Molen |
 | 179 | 189 | Sissy Lowery Davis |
 | 180 | 188 | Angie Harper |
 | 181 | 186 | Khaleada McGill Banks |
@@ -213,8 +213,8 @@
 | 205 | 166 | Grego Daniel |
 | 206 | 166 | Kelly Ann Child |
 | 207 | 165 | Kali Kelz Williams |
-| 208 | 163 | Christine Trester |
-| 209 | 163 | Stephanie Hill |
+| 208 | 163 | Stephanie Hill |
+| 209 | 163 | Christine Trester |
 | 210 | 162 | Stephanie Whitefield |
 | 211 | 161 | Irene Arreguin |
 | 212 | 161 | BŘŰŤİÇŨŚ |
