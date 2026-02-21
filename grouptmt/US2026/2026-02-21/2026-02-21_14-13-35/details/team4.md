@@ -95,8 +95,8 @@
 | 87 | 170 | Justin Hannigan |
 | 88 | 170 | Girl |
 | 89 | 168 | Jae Job |
-| 90 | 167 | Carlton Unfiltered |
-| 91 | 167 | Denise Carlson |
+| 90 | 167 | Denise Carlson |
+| 91 | 167 | Carlton Unfiltered |
 | 92 | 165 | Casey Grabner |
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |

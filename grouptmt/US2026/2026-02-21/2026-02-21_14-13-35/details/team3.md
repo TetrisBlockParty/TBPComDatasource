@@ -37,8 +37,8 @@
 | 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Shane Wilson Jr. |
-| 33 | 810 | Zippy Strikesnap |
+| 32 | 810 | Zippy Strikesnap |
+| 33 | 810 | Shane Wilson Jr. |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 714 | Amber Jones |
@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Kathryn Keenan-Taggart |
-| 59 | 446 | Ebony West-Cundiff |
+| 58 | 446 | Ebony West-Cundiff |
+| 59 | 446 | Kathryn Keenan-Taggart |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -161,7 +161,7 @@
 | 153 | 167 | Raven Dudley |
 | 154 | 166 | Loopy Fallmatch |
 | 155 | 166 | Betty Rosas |
-| 156 | 166 | Loopy Fallmatch |
+| 156 | 166 | Danielle Mogg |
 | 157 | 166 | Kelly Ann Child |
 | 158 | 165 | Kali Kelz Williams |
 | 159 | 164 | rosy |
@@ -184,8 +184,8 @@
 | 176 | 152 | Katrina E Jelks |
 | 177 | 151 | MsBee |
 | 178 | 150 | Nicole Myers |
-| 179 | 149 | Bea Miles |
-| 180 | 149 | Angel Mendez |
+| 179 | 149 | Angel Mendez |
+| 180 | 149 | Bea Miles |
 | 181 | 147 | Desiree Gold |
 | 182 | 146 | Latoya Mayne |
 | 183 | 146 | Denita Mungro |
@@ -211,11 +211,11 @@
 | 203 | 127 | Marquita Sheard |
 | 204 | 126 | Brandon Givens |
 | 205 | 125 | Felicia Doxey |
-| 206 | 125 | Darlene McMillan |
-| 207 | 125 | Shimika Enay Wallace |
+| 206 | 125 | Shimika Enay Wallace |
+| 207 | 125 | Darlene McMillan |
 | 208 | 124 | Cesar Barraza |
-| 209 | 123 | Terry Jo Jones |
-| 210 | 123 | Marci Mize Fandrich |
+| 209 | 123 | Marci Mize Fandrich |
+| 210 | 123 | Terry Jo Jones |
 | 211 | 123 | Sarajane Lokan |
 | 212 | 122 | Giggly Brickroll |
 | 213 | 121 | Valerie Gendron |
@@ -267,8 +267,8 @@
 | 259 | 104 | Peachy Rollfit |
 | 260 | 104 | bean |
 | 261 | 103 | Kate Farok |
-| 262 | 103 | BabyTonj Evans |
-| 263 | 103 | Wetwet |
+| 262 | 103 | Wetwet |
+| 263 | 103 | BabyTonj Evans |
 | 264 | 102 | Christian Luna |
 | 265 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 266 | 101 | Hyper Bridger |

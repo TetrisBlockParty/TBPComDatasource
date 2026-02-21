@@ -115,7 +115,7 @@
 | 107 | 704 | Nerdy Clearfit |
 | 108 | 700 | Vincent Petrella |
 | 109 | 698 | Lola Contreras |
-| 110 | 694 | Vo'Landa Reels |
+| 110 | 694 | Nika Bee |
 | 111 | 694 | Nancy Reid |
 | 112 | 694 | Vo'Landa Reels |
 | 113 | 693 | YiFei |
