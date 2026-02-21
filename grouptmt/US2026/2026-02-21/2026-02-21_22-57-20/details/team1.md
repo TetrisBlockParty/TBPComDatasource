@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Stef Hu |
-| 67 | 348 | Trina Gee |
+| 66 | 348 | Trina Gee |
+| 67 | 348 | Stef Hu |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -109,8 +109,8 @@
 | 101 | 251 | june october |
 | 102 | 249 | Elaine Elaine |
 | 103 | 244 | Franswa |
-| 104 | 240 | Chelsea Dahlquist |
-| 105 | 240 | Tana |
+| 104 | 240 | Tana |
+| 105 | 240 | Chelsea Dahlquist |
 | 106 | 238 | John J. Cronin |
 | 107 | 238 | Steve Schneider |
 | 108 | 237 | Seante Bullock |
@@ -121,8 +121,8 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Mandyy Rae |
-| 117 | 212 | Jaimie Lynn |
+| 116 | 212 | Jaimie Lynn |
+| 117 | 212 | Mandyy Rae |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 205 | MRdot Rooski |
@@ -146,15 +146,15 @@
 | 138 | 180 | BigWeenie69 |
 | 139 | 180 | Erez Yosef |
 | 140 | 179 | Danielle Little-Daugherty |
-| 141 | 178 | Chad Atchley |
-| 142 | 178 | Shiny Gridmatch |
+| 141 | 178 | Shiny Gridmatch |
+| 142 | 178 | Chad Atchley |
 | 143 | 177 | ParisandCory Champagne |
 | 144 | 176 | Basment Living |
 | 145 | 175 | John Barron |
-| 146 | 171 | Greg Premoe |
-| 147 | 171 | David DeSantis |
-| 148 | 170 | Veronica Eve |
-| 149 | 170 | Cartier |
+| 146 | 171 | David DeSantis |
+| 147 | 171 | Greg Premoe |
+| 148 | 170 | Cartier |
+| 149 | 170 | Veronica Eve |
 | 150 | 169 | Abbey Crespo |
 | 151 | 168 | Standia Civil |
 | 152 | 166 | Rico Rico |
@@ -166,8 +166,8 @@
 | 158 | 161 | Jessie Lynn |
 | 159 | 160 | Nery Martinez |
 | 160 | 159 | Cece Ibarra |
-| 161 | 158 | Sarah Marie |
-| 162 | 158 | Arianna O'Brien |
+| 161 | 158 | Arianna O'Brien |
+| 162 | 158 | Sarah Marie |
 | 163 | 156 | Irual Hctrab |
 | 164 | 152 | Jacqueline Unique |
 | 165 | 152 | Speedy Snapfall |

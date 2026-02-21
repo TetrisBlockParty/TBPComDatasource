@@ -122,8 +122,8 @@
 | 114 | 995 | Samantha Roberts |
 | 115 | 992 | Altamirano Michael |
 | 116 | 986 | RAEPR05 |
-| 117 | 983 | Anna Edwards |
-| 118 | 983 | Adam Erikson |
+| 117 | 983 | Adam Erikson |
+| 118 | 983 | Anna Edwards |
 | 119 | 973 | Janel Turley-Garner |
 | 120 | 973 | Kim Dean |
 | 121 | 964 | Poppy Snapper |
@@ -294,7 +294,7 @@
 | 286 | 474 | Calandra Shaya Robinson |
 | 287 | 471 | Maya June |
 | 288 | 470 | Jerry Tempelmeyer |
-| 289 | 469 | Amélie Cadieux |
+| 289 | 469 | Ashley Lopez |
 | 290 | 469 | Ashley Rose Frederick |
 | 291 | 469 | Amélie Cadieux |
 | 292 | 468 | Alisa Lamb |
@@ -425,8 +425,8 @@
 | 417 | 348 | Richard Horton |
 | 418 | 347 | Cheyenne Donovan |
 | 419 | 346 | Morgan Easter |
-| 420 | 345 | Rhianna DiLorenzo |
-| 421 | 345 | Offonar Facey |
+| 420 | 345 | Offonar Facey |
+| 421 | 345 | Rhianna DiLorenzo |
 | 422 | 344 | Glenn Cobbins |
 | 423 | 344 | Felicia Lynn |
 | 424 | 344 | Ginger |
@@ -490,7 +490,7 @@
 | 482 | 307 | Kitybox |
 | 483 | 305 | Zany Clusterbuilder |
 | 484 | 305 | Samantha Scibelli |
-| 485 | 305 | Zany Clusterbuilder |
+| 485 | 305 | Claire |
 | 486 | 305 | Libby Hicks |
 | 487 | 304 | Michelle Shrum |
 | 488 | 304 | Melissa McCall |
@@ -609,8 +609,8 @@
 | 601 | 248 | Angelina Marie |
 | 602 | 248 | Gursharan Sandhu |
 | 603 | 248 | Kimberly Mitchell |
-| 604 | 248 | Warren Marleau |
-| 605 | 248 | Dany Murillo |
+| 604 | 248 | Dany Murillo |
+| 605 | 248 | Warren Marleau |
 | 606 | 248 | Twisty Tetriblast |
 | 607 | 247 | Chab |
 | 608 | 247 | Dolores Russworn |

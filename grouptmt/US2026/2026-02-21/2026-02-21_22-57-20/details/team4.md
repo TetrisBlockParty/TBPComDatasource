@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Chastity Mitchell |
-| 112 | 208 | Twisty Cascadezone |
+| 111 | 208 | Twisty Cascadezone |
+| 112 | 208 | Chastity Mitchell |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |
@@ -133,8 +133,8 @@
 | 125 | 196 | Jenna McGeorge |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Stacey Stano |
-| 129 | 189 | Calvin Dennis |
+| 128 | 189 | Calvin Dennis |
+| 129 | 189 | Stacey Stano |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |
@@ -152,8 +152,8 @@
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
-| 147 | 164 | 030Synner |
-| 148 | 164 | ThaEviLJeNiuZ |
+| 147 | 164 | ThaEviLJeNiuZ |
+| 148 | 164 | 030Synner |
 | 149 | 160 | ZeeZee |
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
@@ -201,8 +201,8 @@
 | 193 | 128 | Ericca Eldridge |
 | 194 | 128 | Ultramarine |
 | 195 | 126 | Nerdy Twisterfit |
-| 196 | 125 | Heather Tushner |
-| 197 | 125 | Judy Cox |
+| 196 | 125 | Judy Cox |
+| 197 | 125 | Heather Tushner |
 | 198 | 125 | Duck |
 | 199 | 124 | Allen Lloyd |
 | 200 | 124 | SammieJo Guy |
@@ -212,8 +212,8 @@
 | 204 | 123 | Matt Dell'Olio |
 | 205 | 122 | 🥔🥔 Spudz |
 | 206 | 122 | Sherri |
-| 207 | 121 | Smiley Tiltbuilder |
-| 208 | 121 | Joseph Pace |
+| 207 | 121 | Joseph Pace |
+| 208 | 121 | Smiley Tiltbuilder |
 | 209 | 121 | Megan Cutshaw |
 | 210 | 120 | Zesty Twistbuilder |
 | 211 | 120 | Bryan Hodgins |
@@ -286,7 +286,7 @@
 | 278 | 91 | wombat |
 | 279 | 91 | Sunny Filler |
 | 280 | 90 | Hyper Builder |
-| 281 | 90 | Thomas Hettenhaus |
+| 281 | 90 | Carol Ricks Raymond |
 | 282 | 90 | Chirpy Slammer |
 | 283 | 90 | Thomas Hettenhaus |
 | 284 | 89 | Jonathan Mahfood |
@@ -304,7 +304,7 @@
 | 296 | 85 | Chris Hartig |
 | 297 | 85 | Mimi |
 | 298 | 85 | Staci Robinson Jones |
-| 299 | 85 | Joseph Gray |
+| 299 | 85 | conceptCollector |
 | 300 | 85 | Tim Knight-ten |
 | 301 | 85 | Joseph Gray |
 | 302 | 84 | Ruben Wheeler |

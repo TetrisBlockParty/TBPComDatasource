@@ -46,8 +46,8 @@
 | 38 | 998 | Liv Whetson |
 | 39 | 996 | Danielle Cutler |
 | 40 | 989 | Kay |
-| 41 | 928 | Snappy Fitzone |
-| 42 | 928 | Stephanie Rice |
+| 41 | 928 | Stephanie Rice |
+| 42 | 928 | Snappy Fitzone |
 | 43 | 915 | Fancy Slam |
 | 44 | 915 | Chummy Shatterer |
 | 45 | 879 | Shonna Roberts |
@@ -220,8 +220,8 @@
 | 212 | 185 | Aerian Preston |
 | 213 | 184 | Troy |
 | 214 | 183 | Trisha Balmer |
-| 215 | 182 | Hyper Matchzone |
-| 216 | 182 | Raven Dudley |
+| 215 | 182 | Raven Dudley |
+| 216 | 182 | Hyper Matchzone |
 | 217 | 181 | Nicholas Roddy |
 | 218 | 180 | Loopy Fallmatch |
 | 219 | 179 | DanceLuvLaugh |
@@ -275,8 +275,8 @@
 | 267 | 148 | Wetwet |
 | 268 | 147 | Ashley Lynn Marchese |
 | 269 | 147 | Carrie Huskey |
-| 270 | 146 | Denita Mungro |
-| 271 | 146 | Tony Waters |
+| 270 | 146 | Tony Waters |
+| 271 | 146 | Denita Mungro |
 | 272 | 145 | Bryan Byrd |
 | 273 | 144 | Tenisha Semidey |
 | 274 | 144 | fraulila |
