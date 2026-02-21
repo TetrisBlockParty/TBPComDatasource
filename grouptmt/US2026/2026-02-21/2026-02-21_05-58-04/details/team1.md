@@ -98,8 +98,8 @@
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
-| 93 | 119 | Tater |
-| 94 | 119 | Irual Hctrab |
+| 93 | 119 | Irual Hctrab |
+| 94 | 119 | Tater |
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
@@ -111,8 +111,8 @@
 | 103 | 112 | Kristen Gideon |
 | 104 | 112 | Nicole Roseberry Weber |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Garcia Bailey |
-| 107 | 110 | Heidi Feurer |
+| 106 | 110 | Heidi Feurer |
+| 107 | 110 | Garcia Bailey |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |

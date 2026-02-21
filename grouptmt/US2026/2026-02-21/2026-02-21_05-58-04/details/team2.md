@@ -86,8 +86,8 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Pacynthia Williams |
-| 82 | 658 | Vistabrat |
+| 81 | 658 | Vistabrat |
+| 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
 | 84 | 649 | Stephanie Chapman |
 | 85 | 649 | Anna Edwards |
@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Charvi' Carter |
-| 101 | 540 | Thomas Hedrick |
+| 100 | 540 | Thomas Hedrick |
+| 101 | 540 | Charvi' Carter |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 534 | Poppy Snapper |
 | 104 | 531 | Chris Wanner |
@@ -156,8 +156,8 @@
 | 148 | 409 | Sparkles |
 | 149 | 406 | Erin StFrancis |
 | 150 | 401 | Poppy Snap |
-| 151 | 400 | Crystie Hicks |
-| 152 | 400 | Tammy Allen |
+| 151 | 400 | Tammy Allen |
+| 152 | 400 | Crystie Hicks |
 | 153 | 397 | Ashley Guernsey-Martin |
 | 154 | 391 | Chilly Bridgepiece |
 | 155 | 391 | Steven Marshaun |
@@ -359,8 +359,8 @@
 | 351 | 193 | Matthew Turner |
 | 352 | 191 | Lauren Fitzgerald Thomas |
 | 353 | 191 | Deana |
-| 354 | 191 | John Quiring |
-| 355 | 191 | Sho Nuff |
+| 354 | 191 | Sho Nuff |
+| 355 | 191 | John Quiring |
 | 356 | 190 | blarg |
 | 357 | 190 | Jennifer Leigh |
 | 358 | 188 | Seth Wrieden |

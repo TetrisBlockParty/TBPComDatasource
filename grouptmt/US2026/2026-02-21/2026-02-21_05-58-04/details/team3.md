@@ -53,8 +53,8 @@
 | 45 | 444 | Nate Burnside |
 | 46 | 416 | Fancy Slam |
 | 47 | 390 | Kristie |
-| 48 | 387 | Nerdy Spinblock |
-| 49 | 387 | Cherry Parker |
+| 48 | 387 | Cherry Parker |
+| 49 | 387 | Nerdy Spinblock |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
 | 52 | 372 | Patty Allen |
@@ -244,7 +244,7 @@
 | 236 | 83 | Trice Thomas |
 | 237 | 82 | Stephanie Whitefield |
 | 238 | 81 | Tina Baurdau |
-| 239 | 80 | Christian Luna |
+| 239 | 80 | CeceGeGe |
 | 240 | 80 | Oliver Neal II |
 | 241 | 80 | Vixen Queen |
 | 242 | 80 | Christian Luna |
