@@ -150,8 +150,8 @@
 | 142 | 520 | Kimberly Schall |
 | 143 | 519 | Maria Escobar |
 | 144 | 517 | Debra Williams |
-| 145 | 515 | Kaylee McCafferty |
-| 146 | 515 | Real Ri |
+| 145 | 515 | Real Ri |
+| 146 | 515 | Kaylee McCafferty |
 | 147 | 513 | Butta |
 | 148 | 511 | Ramone Armstrong |
 | 149 | 511 | Dizzy Zone |
@@ -212,8 +212,8 @@
 | 204 | 385 | Arwa Fatimah |
 | 205 | 385 | Sam |
 | 206 | 381 | Amanda Ferrell |
-| 207 | 380 | Calandra Shaya Robinson |
-| 208 | 380 | Joshua Mandel |
+| 207 | 380 | Joshua Mandel |
+| 208 | 380 | Calandra Shaya Robinson |
 | 209 | 378 | Cody Nishimura |
 | 210 | 377 | Roy Salyer |
 | 211 | 366 | Unica Rector |
@@ -245,8 +245,8 @@
 | 237 | 344 | Glenn Cobbins |
 | 238 | 343 | F-X |
 | 239 | 334 | Moni Foxe |
-| 240 | 334 | Missie Lawson Gebhardt |
-| 241 | 334 | Felicia Lynn |
+| 240 | 334 | Felicia Lynn |
+| 241 | 334 | Missie Lawson Gebhardt |
 | 242 | 333 | Brittney Jean |
 | 243 | 332 | TF Dyer |
 | 244 | 331 | Shelley Thornburgh Wright |
@@ -324,8 +324,8 @@
 | 316 | 269 | Reece Smith |
 | 317 | 268 | Chummy Blockbuilder |
 | 318 | 268 | Tanya Parsons |
-| 319 | 266 | Mike Aprilliano |
-| 320 | 266 | Mighty Shatterfit |
+| 319 | 266 | Mighty Shatterfit |
+| 320 | 266 | Mike Aprilliano |
 | 321 | 264 | Dapper Dasher |
 | 322 | 263 | Taylor Flowers |
 | 323 | 262 | Taren Cowan |
@@ -718,8 +718,8 @@
 | 710 | 126 | Jessica Szymecki |
 | 711 | 126 | Tessa Gonzalez |
 | 712 | 126 | Mar Q Thomas |
-| 713 | 125 | Goofy Blockfall |
-| 714 | 125 | Binyah-Binyah |
+| 713 | 125 | Binyah-Binyah |
+| 714 | 125 | Goofy Blockfall |
 | 715 | 125 | Jamie Frank Karolyi |
 | 716 | 125 | Tina Marie |
 | 717 | 125 | NickyBrooks |
@@ -832,8 +832,8 @@
 | 824 | 108 | Jeffrey Barrows |
 | 825 | 108 | Kiana Boschh |
 | 826 | 108 | LML |
-| 827 | 107 | Eileen Hale |
-| 828 | 107 | Northphilly Fly |
+| 827 | 107 | Northphilly Fly |
+| 828 | 107 | Funky Riseclear |
 | 829 | 107 | Dara |
 | 830 | 107 | Eileen Hale |
 | 831 | 107 | Chyrisse Norton |
@@ -919,7 +919,7 @@
 | 911 | 99 | Ashley Dow |
 | 912 | 99 | Epic Stackbuilder |
 | 913 | 99 | Asha Nichols-Collins |
-| 914 | 98 | EffThatEss |
+| 914 | 98 | Tammy Ann Andrews |
 | 915 | 98 | B |
 | 916 | 98 | EffThatEss |
 | 917 | 98 | Maggie |
@@ -999,8 +999,8 @@
 | 991 | 93 | Kelli Couture |
 | 992 | 93 | Jennifer Riley |
 | 993 | 92 | Jelly |
-| 994 | 92 | Loony Dashy |
-| 995 | 92 | Chipper Wipeblock |
+| 994 | 92 | Chipper Wipeblock |
+| 995 | 92 | Loony Dashy |
 | 996 | 92 | Lashea Lyons |
 | 997 | 92 | Suzanne Wheeler |
 | 998 | 91 | Chilly Wrecker |

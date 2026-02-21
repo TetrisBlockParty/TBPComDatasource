@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -148,10 +148,10 @@
 | 140 | 108 | Rio Rocha |
 | 141 | 107 | Marcus Todd |
 | 142 | 106 | Adam Randall |
-| 143 | 105 | Sam Middleton |
+| 143 | 105 | TheNeesh50 |
 | 144 | 105 | 🥔🥔 Spudz |
 | 145 | 105 | AyeKay |
-| 146 | 105 | TheNeesh50 |
+| 146 | 105 | Sam Middleton |
 | 147 | 104 | Damn Libra |
 | 148 | 102 | ĥuf |
 | 149 | 102 | Faja |

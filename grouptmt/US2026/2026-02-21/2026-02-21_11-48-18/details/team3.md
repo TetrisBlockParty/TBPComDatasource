@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -169,8 +169,8 @@
 | 161 | 149 | Trisha Balmer |
 | 162 | 149 | Angel Mendez |
 | 163 | 147 | Sashay Tapae Simpson |
-| 164 | 146 | Denita Mungro |
-| 165 | 146 | Latoya Mayne |
+| 164 | 146 | Latoya Mayne |
+| 165 | 146 | Denita Mungro |
 | 166 | 145 | Bryan Byrd |
 | 167 | 142 | Erica Anderson |
 | 168 | 140 | Gumbo |
@@ -189,8 +189,8 @@
 | 181 | 127 | Joy Petroski |
 | 182 | 127 | Aerian Preston |
 | 183 | 126 | Brandon Givens |
-| 184 | 125 | Felicia Doxey |
-| 185 | 125 | Shimika Enay Wallace |
+| 184 | 125 | Shimika Enay Wallace |
+| 185 | 125 | Felicia Doxey |
 | 186 | 124 | Cesar Barraza |
 | 187 | 123 | Sarajane Lokan |
 | 188 | 123 | Terry Jo Jones |
@@ -217,14 +217,14 @@
 | 209 | 113 | Brian Battjes |
 | 210 | 113 | Valerie Gendron |
 | 211 | 111 | Stephanie Zahm |
-| 212 | 110 | Stella |
-| 213 | 110 | Danielle Weikel |
+| 212 | 110 | Danielle Weikel |
+| 213 | 110 | Stella |
 | 214 | 110 | Tye Stovall |
-| 215 | 109 | Diana Ibarra |
-| 216 | 109 | Brave Brickster |
-| 217 | 109 | Fredd Thomas |
-| 218 | 108 | LaTanya GeminiondaRise Johnson |
-| 219 | 108 | Rachel Napper |
+| 215 | 109 | Fredd Thomas |
+| 216 | 109 | Diana Ibarra |
+| 217 | 109 | Brave Brickster |
+| 218 | 108 | Rachel Napper |
+| 219 | 108 | LaTanya GeminiondaRise Johnson |
 | 220 | 107 | Sherry Ogden |
 | 221 | 107 | France Vézina |
 | 222 | 106 | Desiree Gold |

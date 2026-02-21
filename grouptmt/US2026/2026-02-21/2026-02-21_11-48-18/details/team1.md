@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -48,8 +48,8 @@
 | 40 | 291 | Nancy Green |
 | 41 | 290 | Jennifer Cates |
 | 42 | 281 | Maria C. Hernandez |
-| 43 | 274 | Sweet Baker |
-| 44 | 274 | Theo Pinnow |
+| 43 | 274 | Theo Pinnow |
+| 44 | 274 | Sweet Baker |
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 256 | Robert Benito |
@@ -64,8 +64,8 @@
 | 56 | 212 | Jaimie Lynn |
 | 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
-| 59 | 208 | Carrie Beck Geartz |
-| 60 | 208 | Mandyy Rae |
+| 59 | 208 | Mandyy Rae |
+| 60 | 208 | Carrie Beck Geartz |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Hyper |
@@ -73,11 +73,11 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
-| 71 | 194 | Sharon Reynolds |
-| 72 | 194 | Giggly Builderline |
+| 71 | 194 | Giggly Builderline |
+| 72 | 194 | Sharon Reynolds |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
@@ -99,24 +99,24 @@
 | 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Arianna O'Brien |
-| 95 | 149 | Tana |
+| 94 | 149 | Tana |
+| 95 | 149 | Arianna O'Brien |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
-| 99 | 144 | Tanya Carpenter-Reynolds |
+| 99 | 144 | Plucky Ziggy |
 | 100 | 144 | femmefatale |
-| 101 | 144 | Plucky Ziggy |
+| 101 | 144 | Tanya Carpenter-Reynolds |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
 | 104 | 140 | Redlicious 1 |
-| 105 | 138 | Gary Gobin |
-| 106 | 138 | Cranky Pattern |
+| 105 | 138 | Cranky Pattern |
+| 106 | 138 | Gary Gobin |
 | 107 | 137 | Nadine Velardo |
 | 108 | 135 | Cece Ibarra |
 | 109 | 134 | Trina Gee |
-| 110 | 133 | Brandi Huntington |
-| 111 | 133 | Breanna Luna |
+| 110 | 133 | Breanna Luna |
+| 111 | 133 | Brandi Huntington |
 | 112 | 132 | Davery Spencer Adair |
 | 113 | 132 | LaQuetta Faith Hines |
 | 114 | 131 | Greg Premoe |
