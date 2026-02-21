@@ -140,8 +140,8 @@
 | 132 | 186 | Jennifer Olewnik Soborowski |
 | 133 | 184 | Jessica Sheehan |
 | 134 | 182 | Spunky Piecebuilder |
-| 135 | 180 | Erez Yosef |
-| 136 | 180 | BigWeenie69 |
+| 135 | 180 | BigWeenie69 |
+| 136 | 180 | Erez Yosef |
 | 137 | 179 | Danielle Little-Daugherty |
 | 138 | 178 | Chad Atchley |
 | 139 | 178 | Michael |
@@ -154,9 +154,9 @@
 | 146 | 170 | Veronica Eve |
 | 147 | 169 | Abbey Crespo |
 | 148 | 168 | Standia Civil |
-| 149 | 166 | Tyler Werts |
-| 150 | 166 | Katie Daniels |
-| 151 | 166 | Rico Rico |
+| 149 | 166 | Rico Rico |
+| 150 | 166 | Tyler Werts |
+| 151 | 166 | Katie Daniels |
 | 152 | 165 | Nadine Velardo |
 | 153 | 163 | Tanya Carpenter-Reynolds |
 | 154 | 163 | Tyler Whitley |
@@ -226,12 +226,12 @@
 | 218 | 114 | Tyler Hertzog |
 | 219 | 114 | Hector Cruz |
 | 220 | 113 | Desiree Deschaine Havee |
-| 221 | 112 | Chris65 |
-| 222 | 112 | Crystal Joslin |
+| 221 | 112 | Crystal Joslin |
+| 222 | 112 | Chris65 |
 | 223 | 111 | Chirpy Smasher |
 | 224 | 111 | Rachel Nichole Henry |
-| 225 | 110 | Jodee Woods |
-| 226 | 110 | Madison Wicks |
+| 225 | 110 | Madison Wicks |
+| 226 | 110 | Jodee Woods |
 | 227 | 110 | Garcia Bailey |
 | 228 | 109 | Nicolette Ivory Chastain |
 | 229 | 109 | John Kim |

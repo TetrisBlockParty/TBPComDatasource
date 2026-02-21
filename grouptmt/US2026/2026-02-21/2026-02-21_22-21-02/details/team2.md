@@ -171,8 +171,8 @@
 | 163 | 703 | Debra Williams |
 | 164 | 703 | Lola Contreras |
 | 165 | 700 | Vincent Petrella |
-| 166 | 700 | Rosemadder |
-| 167 | 700 | Beverly Owens |
+| 166 | 700 | Beverly Owens |
+| 167 | 700 | Rosemadder |
 | 168 | 699 | Vo'Landa Reels |
 | 169 | 697 | Real Ri |
 | 170 | 692 | Chelle |
@@ -316,14 +316,14 @@
 | 308 | 442 | Joshua Mandel |
 | 309 | 441 | Nashu |
 | 310 | 440 | Liberty |
-| 311 | 439 | Joseph Musick |
-| 312 | 439 | Alisa Lamb |
+| 311 | 439 | Alisa Lamb |
+| 312 | 439 | Joseph Musick |
 | 313 | 437 | Arwa Fatimah |
 | 314 | 436 | Melissa Kay Gibson |
 | 315 | 435 | Kimberly Randesi |
 | 316 | 433 | Victor Obiakarije |
-| 317 | 428 | Rhonda Milstead |
-| 318 | 428 | Crystie Hicks |
+| 317 | 428 | Crystie Hicks |
+| 318 | 428 | Rhonda Milstead |
 | 319 | 427 | Destiny Cozier |
 | 320 | 427 | Amanda Ferrell |
 | 321 | 425 | Skyler Morgan |

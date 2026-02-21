@@ -93,8 +93,8 @@
 | 85 | 454 | Brandon Green |
 | 86 | 447 | Mykal Burton |
 | 87 | 446 | Danielle Rhoades |
-| 88 | 445 | Kristie McFarland |
-| 89 | 445 | Silly Twist |
+| 88 | 445 | Silly Twist |
+| 89 | 445 | Kristie McFarland |
 | 90 | 442 | Christine Niles |
 | 91 | 430 | Patricia White |
 | 92 | 425 | Patty Allen |
@@ -110,8 +110,8 @@
 | 102 | 390 | Hasty Cascadefit |
 | 103 | 386 | Katie Knaus |
 | 104 | 384 | Shannon Matthew Byers |
-| 105 | 378 | Makelini Mausia |
-| 106 | 378 | Tasha Schriewer |
+| 105 | 378 | Tasha Schriewer |
+| 106 | 378 | Makelini Mausia |
 | 107 | 377 | Jesse Olive |
 | 108 | 372 | Jessica Bechler |
 | 109 | 368 | Stephanie Woods |
@@ -254,9 +254,9 @@
 | 246 | 155 | RickyG |
 | 247 | 155 | Loopy Fallzone |
 | 248 | 154 | Desiree Gold |
-| 249 | 153 | Cozy Snaplink |
-| 250 | 153 | Sheila M Frazier |
-| 251 | 153 | Rachel Napper |
+| 249 | 153 | Sheila M Frazier |
+| 250 | 153 | Rachel Napper |
+| 251 | 153 | Cozy Snaplink |
 | 252 | 152 | Shiny Zonebuilder |
 | 253 | 152 | Lesley Perez |
 | 254 | 151 | Jim Mathews |

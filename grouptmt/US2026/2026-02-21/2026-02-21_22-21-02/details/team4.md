@@ -265,10 +265,10 @@
 | 257 | 98 | Sam Bishop |
 | 258 | 98 | Perky Piecegrid |
 | 259 | 97 | Rosemary Foster |
-| 260 | 97 | Meagan Nicole |
-| 261 | 97 | Marcela Johnson |
-| 262 | 96 | Marcus TheeyoungWoe Gilmore |
-| 263 | 96 | Jessica Miller |
+| 260 | 97 | Marcela Johnson |
+| 261 | 97 | Meagan Nicole |
+| 262 | 96 | Jessica Miller |
+| 263 | 96 | Marcus TheeyoungWoe Gilmore |
 | 264 | 96 | Sammy Noguera |
 | 265 | 95 | LS |
 | 266 | 95 | Patron Anderson |
