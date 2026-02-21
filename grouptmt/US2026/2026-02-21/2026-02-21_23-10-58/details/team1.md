@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Trina Gee |
-| 67 | 348 | Stef Hu |
+| 66 | 348 | Stef Hu |
+| 67 | 348 | Trina Gee |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -508,8 +508,8 @@
 | 500 | 56 | Nick |
 | 501 | 55 | Loony Stacky |
 | 502 | 55 | Nichole Antonishak |
-| 503 | 55 | Ruf Lowman |
-| 504 | 55 | Doris Hall |
+| 503 | 55 | Doris Hall |
+| 504 | 55 | Ruf Lowman |
 | 505 | 55 | Phu ckalldems |
 | 506 | 55 | Panda Thagreat |
 | 507 | 55 | Lacy Wolfe |

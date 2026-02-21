@@ -139,8 +139,8 @@
 | 131 | 881 | Tanya Parsons |
 | 132 | 875 | Kelly Trent |
 | 133 | 869 | Desiree Harris Rosch |
-| 134 | 867 | Rosa Franklin |
-| 135 | 867 | Michele Gabriel |
+| 134 | 867 | Michele Gabriel |
+| 135 | 867 | Rosa Franklin |
 | 136 | 861 | Jennifer Peachey |
 | 137 | 849 | Jennifer Kistner |
 | 138 | 848 | Ray Ray Prado |
@@ -152,8 +152,8 @@
 | 144 | 807 | Khalil Lowe |
 | 145 | 803 | Tralonda Weeks |
 | 146 | 802 | Robin Kerby |
-| 147 | 800 | Danielle Johnson-Chandler |
-| 148 | 800 | Tacara Cummings |
+| 147 | 800 | Tacara Cummings |
+| 148 | 800 | Danielle Johnson-Chandler |
 | 149 | 791 | Chirpy Staggerpiece |
 | 150 | 789 | Shannon Joslin |
 | 151 | 789 | James Simms III |
@@ -183,8 +183,8 @@
 | 175 | 705 | Roger Grabbit |
 | 176 | 703 | Lola Contreras |
 | 177 | 703 | Debra Williams |
-| 178 | 700 | Rosemadder |
-| 179 | 700 | Beverly Owens |
+| 178 | 700 | Beverly Owens |
+| 179 | 700 | Rosemadder |
 | 180 | 700 | Vincent Petrella |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
@@ -706,8 +706,8 @@
 | 698 | 211 | Brenda Pierpoint |
 | 699 | 211 | Nancy Pohlman |
 | 700 | 211 | Joel Rosado |
-| 701 | 210 | Cappin You |
-| 702 | 210 | Marcie McLain Dodd |
+| 701 | 210 | Marcie McLain Dodd |
+| 702 | 210 | Cappin You |
 | 703 | 210 | Joshua Switzer |
 | 704 | 209 | MamaBear11 |
 | 705 | 209 | Samantha Morgan |
@@ -719,10 +719,10 @@
 | 711 | 208 | Jessica Sutter |
 | 712 | 208 | Ashley MoBetta Humes |
 | 713 | 208 | Alyssa Dean |
-| 714 | 207 | Nicolle Danielle |
-| 715 | 207 | Caitlin Johnson |
-| 716 | 207 | Alison Emmons |
-| 717 | 207 | Jeffrey Barrows |
+| 714 | 207 | Caitlin Johnson |
+| 715 | 207 | Nicolle Danielle |
+| 716 | 207 | Jeffrey Barrows |
+| 717 | 207 | Alison Emmons |
 | 718 | 206 | Jas |
 | 719 | 206 | Neko Preston |
 | 720 | 206 | AgileDragon |

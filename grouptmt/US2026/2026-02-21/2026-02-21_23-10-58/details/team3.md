@@ -77,8 +77,8 @@
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Joey Banks |
-| 73 | 536 | Giddy Drop |
+| 72 | 536 | Giddy Drop |
+| 73 | 536 | Joey Banks |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Silly Twist |
-| 93 | 445 | Kristie McFarland |
+| 92 | 445 | Kristie McFarland |
+| 93 | 445 | Silly Twist |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -121,8 +121,8 @@
 | 113 | 378 | Makelini Mausia |
 | 114 | 378 | Tasha Schriewer |
 | 115 | 377 | Jesse Olive |
-| 116 | 368 | Stephanie Woods |
-| 117 | 368 | Stephanie Blkpep Davidson |
+| 116 | 368 | Stephanie Blkpep Davidson |
+| 117 | 368 | Stephanie Woods |
 | 118 | 367 | mjl574 |
 | 119 | 366 | Adrian Marcel Pate |
 | 120 | 366 | Speedy Bridger |
@@ -191,11 +191,11 @@
 | 183 | 214 | Amy Fuller Heaton |
 | 184 | 214 | Jenny Hrndz |
 | 185 | 212 | Krystal Gerstberger |
-| 186 | 211 | Khaleada McGill Banks |
-| 187 | 211 | Katrina Turner |
+| 186 | 211 | Katrina Turner |
+| 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Chris Bell |
-| 190 | 207 | Jessica |
+| 189 | 207 | Jessica |
+| 190 | 207 | Chris Bell |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |

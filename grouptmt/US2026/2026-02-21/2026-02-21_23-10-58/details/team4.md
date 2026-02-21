@@ -193,8 +193,8 @@
 | 185 | 132 | Jessica Cagle |
 | 186 | 131 | Michelle Morris |
 | 187 | 130 | Chris Bernstein |
-| 188 | 130 | Carlos Ramirez |
-| 189 | 130 | Shukee Lo |
+| 188 | 130 | Shukee Lo |
+| 189 | 130 | Carlos Ramirez |
 | 190 | 129 | Dreamy Snapgrid |
 | 191 | 129 | Crystal Nicolette Moore |
 | 192 | 128 | Kristin MacDonald |
@@ -211,8 +211,8 @@
 | 203 | 124 | Kristina Black |
 | 204 | 124 | SammieJo Guy |
 | 205 | 123 | Austin Owens |
-| 206 | 123 | Matt Dell'Olio |
-| 207 | 123 | Tyler Terrific |
+| 206 | 123 | Tyler Terrific |
+| 207 | 123 | Matt Dell'Olio |
 | 208 | 122 | Sherri |
 | 209 | 122 | 🥔🥔 Spudz |
 | 210 | 121 | Joseph Pace |
@@ -247,8 +247,8 @@
 | 239 | 108 | Ali Ian |
 | 240 | 107 | Sam Bishop |
 | 241 | 106 | Scott Jameson |
-| 242 | 106 | Brandi Durig |
-| 243 | 106 | Zappy Snaplink |
+| 242 | 106 | Zappy Snaplink |
+| 243 | 106 | Brandi Durig |
 | 244 | 105 | Kim Hunt |
 | 245 | 104 | Chris Alexinas |
 | 246 | 104 | Cheery Risebuilder |
