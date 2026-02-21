@@ -182,8 +182,8 @@
 | 174 | 110 | H.R. Block |
 | 175 | 108 | Ali Ian |
 | 176 | 108 | Sam Middleton |
-| 177 | 107 | Marcus Todd |
-| 178 | 107 | Rafael Valentin |
+| 177 | 107 | Rafael Valentin |
+| 178 | 107 | Marcus Todd |
 | 179 | 106 | Avy Absol |
 | 180 | 105 | Kristin MacDonald |
 | 181 | 105 | TheNeesh50 |

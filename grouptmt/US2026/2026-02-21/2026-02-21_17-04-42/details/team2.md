@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Lylymom |
-| 210 | 485 | Leah Keesling |
+| 209 | 485 | Leah Keesling |
+| 210 | 485 | Lylymom |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -227,8 +227,8 @@
 | 219 | 469 | Ashley Rose Frederick |
 | 220 | 467 | Scott Treadway |
 | 221 | 465 | Drwatson187 |
-| 222 | 464 | Nett |
-| 223 | 464 | Ryan Gunther |
+| 222 | 464 | Ryan Gunther |
+| 223 | 464 | Nett |
 | 224 | 463 | Sue Leard |
 | 225 | 460 | Amélie Cadieux |
 | 226 | 460 | Cody Smith-Candelaria |
@@ -331,8 +331,8 @@
 | 323 | 333 | ShinyRose |
 | 324 | 332 | TF Dyer |
 | 325 | 331 | Shelley Thornburgh Wright |
-| 326 | 330 | Mandi Douglas Hilt |
-| 327 | 330 | Taryece Gause |
+| 326 | 330 | Taryece Gause |
+| 327 | 330 | Mandi Douglas Hilt |
 | 328 | 330 | Dar |
 | 329 | 329 | Alisa Lamb |
 | 330 | 329 | Trista Dumais |

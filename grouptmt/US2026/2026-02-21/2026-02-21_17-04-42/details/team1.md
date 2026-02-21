@@ -66,13 +66,13 @@
 | 58 | 287 | Hyper |
 | 59 | 279 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Theo Pinnow |
-| 62 | 274 | Sweet Baker |
+| 61 | 274 | Sweet Baker |
+| 62 | 274 | Theo Pinnow |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
-| 66 | 252 | Dena Kayy |
-| 67 | 252 | Tdub |
+| 66 | 252 | Tdub |
+| 67 | 252 | Dena Kayy |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -100,8 +100,8 @@
 | 92 | 193 | Lachelle Dillon |
 | 93 | 192 | Shaykmia |
 | 94 | 191 | Diane Byrd |
-| 95 | 190 | Thorne Shumate |
-| 96 | 190 | Sweetts |
+| 95 | 190 | Sweetts |
+| 96 | 190 | Thorne Shumate |
 | 97 | 189 | Happy Basegrid |
 | 98 | 186 | Jennifer Olewnik Soborowski |
 | 99 | 185 | Ash Galvan |
@@ -119,15 +119,15 @@
 | 111 | 166 | Rico Rico |
 | 112 | 165 | GATOR |
 | 113 | 165 | Veronica Eve |
-| 114 | 163 | Standia Civil |
-| 115 | 163 | Kellie |
-| 116 | 163 | Tyler Whitley |
+| 114 | 163 | Kellie |
+| 115 | 163 | Tyler Whitley |
+| 116 | 163 | Standia Civil |
 | 117 | 158 | Tanya Carpenter-Reynolds |
 | 118 | 156 | Jessie Lynn |
 | 119 | 155 | Cece Ibarra |
 | 120 | 153 | Shiny Gridmatch |
-| 121 | 152 | Speedy Snapfall |
-| 122 | 152 | Jacqueline Unique |
+| 121 | 152 | Jacqueline Unique |
+| 122 | 152 | Speedy Snapfall |
 | 123 | 150 | Adele Rahman |
 | 124 | 149 | Jennifer ManWarren |
 | 125 | 149 | Arianna O'Brien |
@@ -144,13 +144,13 @@
 | 136 | 142 | Colleen Wise |
 | 137 | 141 | Blaire Bruckoff |
 | 138 | 140 | Miguel Teixeira |
-| 139 | 138 | Gary Gobin |
-| 140 | 138 | Cranky Pattern |
-| 141 | 138 | Death |
+| 139 | 138 | Cranky Pattern |
+| 140 | 138 | Death |
+| 141 | 138 | Gary Gobin |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Cody Slav |
-| 145 | 135 | Giddy Cascade |
+| 144 | 135 | Giddy Cascade |
+| 145 | 135 | Cody Slav |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Cody Gates |
@@ -218,8 +218,8 @@
 | 210 | 100 | Debbie Davis |
 | 211 | 99 | Barrbaric |
 | 212 | 97 | Steve Bomkamp |
-| 213 | 96 | MommaKFC |
-| 214 | 96 | Howdi Duty |
+| 213 | 96 | Howdi Duty |
+| 214 | 96 | MommaKFC |
 | 215 | 94 | Brad MG |
 | 216 | 91 | Sleepysloath5745 |
 | 217 | 90 | Steve Schneider |

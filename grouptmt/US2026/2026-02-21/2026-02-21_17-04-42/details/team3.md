@@ -201,8 +201,8 @@
 | 193 | 160 | Tiffany Davie |
 | 194 | 159 | Jone |
 | 195 | 158 | Grams |
-| 196 | 157 | Nicholas Roddy |
-| 197 | 157 | Patricia Gadsden |
+| 196 | 157 | Patricia Gadsden |
+| 197 | 157 | Nicholas Roddy |
 | 198 | 156 | Bea Miles |
 | 199 | 152 | Shiny Zonebuilder |
 | 200 | 152 | Katrina E Jelks |
@@ -284,8 +284,8 @@
 | 276 | 107 | Melissa Snyder |
 | 277 | 107 | Jumpy Wrecker |
 | 278 | 107 | Bouncy Blockbuilder |
-| 279 | 106 | Cheeky Snapper |
-| 280 | 106 | Elizabeth Renee |
+| 279 | 106 | Elizabeth Renee |
+| 280 | 106 | Cheeky Snapper |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
 | 283 | 105 | Emi |
@@ -336,8 +336,8 @@
 | 328 | 93 | Angela Scott |
 | 329 | 93 | Martin Bernier |
 | 330 | 93 | Kevin Russell |
-| 331 | 92 | Melanie Sherwood |
-| 332 | 92 | Jennifer Caputo |
+| 331 | 92 | Jennifer Caputo |
+| 332 | 92 | Melanie Sherwood |
 | 333 | 92 | Trice Thomas |
 | 334 | 92 | Jackie-Lynne Goertzen |
 | 335 | 91 | Tammy Rosenberry |
@@ -393,7 +393,7 @@
 | 385 | 77 | Tommy Proctor |
 | 386 | 77 | Randy Clevenger |
 | 387 | 77 | Jennifer Palermo |
-| 388 | 77 | Bekah Dietrich |
+| 388 | 77 | Monica Crespo |
 | 389 | 77 | Tanesha BigBabby Darling |
 | 390 | 77 | Bekah Dietrich |
 | 391 | 76 | Laura Rose Provenzano |
