@@ -94,24 +94,24 @@
 | 86 | 173 | Zethra Prenisha Rahming |
 | 87 | 173 | Jeff Brian Gates |
 | 88 | 171 | Melvin Baird |
-| 89 | 170 | Justin Hannigan |
-| 90 | 170 | Girl |
+| 89 | 170 | Girl |
+| 90 | 170 | Justin Hannigan |
 | 91 | 167 | Carlton Unfiltered |
 | 92 | 167 | Denise Carlson |
 | 93 | 165 | Casey Grabner |
 | 94 | 164 | ThaEviLJeNiuZ |
 | 95 | 162 | Shauna Havard |
 | 96 | 161 | Joeliecea Cobb |
-| 97 | 160 | Stacey Stano |
-| 98 | 160 | Carter Jones |
+| 97 | 160 | Carter Jones |
+| 98 | 160 | Stacey Stano |
 | 99 | 159 | Holly Jolly |
 | 100 | 157 | quicksand420 |
 | 101 | 154 | Zany Twisterfit |
 | 102 | 151 | Bethany Ison |
 | 103 | 151 | Dana Scott |
 | 104 | 150 | ZeeZee |
-| 105 | 147 | Jay28 |
-| 106 | 147 | 030Synner |
+| 105 | 147 | 030Synner |
+| 106 | 147 | Jay28 |
 | 107 | 146 | Peachy Fall |
 | 108 | 144 | Mr. Party |
 | 109 | 143 | Nugget |
@@ -193,7 +193,7 @@
 | 185 | 94 | Dreamy Snapgrid |
 | 186 | 94 | Chastity Mitchell |
 | 187 | 94 | DonMega |
-| 188 | 94 | Dreamy Snapgrid |
+| 188 | 94 | Kim Hunt |
 | 189 | 93 | Zesty Twistbuilder |
 | 190 | 92 | Chair |
 | 191 | 92 | Misty Hollibaugh |

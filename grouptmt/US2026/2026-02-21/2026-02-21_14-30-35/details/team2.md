@@ -183,8 +183,8 @@
 | 175 | 493 | Crystal Hoffman |
 | 176 | 488 | Teresa Gillmore |
 | 177 | 486 | MrsCandyfine As Wine Truss |
-| 178 | 485 | Leah Keesling |
-| 179 | 485 | Gene Mills |
+| 178 | 485 | Gene Mills |
+| 179 | 485 | Leah Keesling |
 | 180 | 484 | Suki Kaur |
 | 181 | 483 | Jordan Kaiser |
 | 182 | 483 | Adam Erikson |
@@ -225,8 +225,8 @@
 | 217 | 411 | Ricky Fortune |
 | 218 | 409 | Sparkles |
 | 219 | 406 | Erin StFrancis |
-| 220 | 405 | Christy Krissie |
-| 221 | 405 | Sarah Massey |
+| 220 | 405 | Sarah Massey |
+| 221 | 405 | Christy Krissie |
 | 222 | 402 | Joshua Mandel |
 | 223 | 400 | Rhonda Milstead |
 | 224 | 400 | Crystie Hicks |
@@ -241,8 +241,8 @@
 | 233 | 391 | Qiana Sanders |
 | 234 | 391 | Amanda Ferrell |
 | 235 | 386 | Macy Williams |
-| 236 | 385 | Sam |
-| 237 | 385 | Arwa Fatimah |
+| 236 | 385 | Arwa Fatimah |
+| 237 | 385 | Sam |
 | 238 | 383 | Arkei Luster |
 | 239 | 379 | Jánine Riggs |
 | 240 | 378 | Cody Nishimura |
@@ -264,8 +264,8 @@
 | 256 | 356 | Deyawn Smith |
 | 257 | 355 | Shandrica Lowe |
 | 258 | 355 | Kristen O'Neal |
-| 259 | 354 | Tracy Wise |
-| 260 | 354 | Brave Dropmatch |
+| 259 | 354 | Brave Dropmatch |
+| 260 | 354 | Tracy Wise |
 | 261 | 353 | Cheery Matchzone |
 | 262 | 352 | ruth |
 | 263 | 350 | Chris Harr |
@@ -279,8 +279,8 @@
 | 271 | 338 | Mr. Street Stack |
 | 272 | 335 | Brooke Leigh Strube |
 | 273 | 334 | Moni Foxe |
-| 274 | 334 | Missie Lawson Gebhardt |
-| 275 | 334 | Felicia Lynn |
+| 274 | 334 | Felicia Lynn |
+| 275 | 334 | Missie Lawson Gebhardt |
 | 276 | 333 | Brittney Jean |
 | 277 | 333 | ShinyRose |
 | 278 | 332 | Skyler Morgan |
@@ -306,8 +306,8 @@
 | 298 | 315 | Alisa Lamb |
 | 299 | 314 | NanDa Cruzan VI |
 | 300 | 314 | Amanda West |
-| 301 | 312 | Michelle Pike |
-| 302 | 312 | Andrea Maher |
+| 301 | 312 | Andrea Maher |
+| 302 | 312 | Michelle Pike |
 | 303 | 311 | Véronique Lévesque Sabourin |
 | 304 | 311 | Dar |
 | 305 | 310 | Brandy Andre |

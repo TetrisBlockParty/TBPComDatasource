@@ -137,8 +137,8 @@
 | 129 | 204 | Aaron Pitkin |
 | 130 | 202 | Twisty Brick LT |
 | 131 | 199 | joclisa |
-| 132 | 195 | Jenny Hrndz |
-| 133 | 195 | Nicha Hooker |
+| 132 | 195 | Nicha Hooker |
+| 133 | 195 | Jenny Hrndz |
 | 134 | 194 | glichmod |
 | 135 | 193 | Stephanie Burtin |
 | 136 | 193 | Clever Shiftsnap |
@@ -179,13 +179,13 @@
 | 171 | 159 | Morgan Martinez |
 | 172 | 159 | Jone |
 | 173 | 158 | Grams |
-| 174 | 157 | Nicholas Roddy |
-| 175 | 157 | Patricia Gadsden |
+| 174 | 157 | Patricia Gadsden |
+| 175 | 157 | Nicholas Roddy |
 | 176 | 156 | Joey Banks |
 | 177 | 154 | Angela M. Fletcher |
 | 178 | 153 | Beth Ingham |
-| 179 | 152 | Katrina E Jelks |
-| 180 | 152 | Shiny Zonebuilder |
+| 179 | 152 | Shiny Zonebuilder |
+| 180 | 152 | Katrina E Jelks |
 | 181 | 151 | Nikki Pags |
 | 182 | 151 | MsBee |
 | 183 | 151 | Brenda Lee Vander Molen |
@@ -244,11 +244,11 @@
 | 236 | 113 | Brian Battjes |
 | 237 | 111 | France Vézina |
 | 238 | 111 | Stephanie Zahm |
-| 239 | 110 | Tye Stovall |
-| 240 | 110 | Danielle Weikel |
+| 239 | 110 | Danielle Weikel |
+| 240 | 110 | Tye Stovall |
 | 241 | 110 | Stella |
-| 242 | 109 | mommablock |
-| 243 | 109 | Fredd Thomas |
+| 242 | 109 | Fredd Thomas |
+| 243 | 109 | mommablock |
 | 244 | 109 | Diana Ibarra |
 | 245 | 109 | Brave Brickster |
 | 246 | 108 | Rachel Napper |
@@ -314,11 +314,11 @@
 | 306 | 89 | Matty Ray |
 | 307 | 89 | Zac Hudak |
 | 308 | 89 | Rania Zaqout |
-| 309 | 88 | RickyG |
-| 310 | 88 | Kevin Russell |
-| 311 | 88 | Kelly Koenig |
-| 312 | 88 | Dapper Towerfit |
-| 313 | 88 | April Matthew Kibble |
+| 309 | 88 | Kevin Russell |
+| 310 | 88 | RickyG |
+| 311 | 88 | Dapper Towerfit |
+| 312 | 88 | April Matthew Kibble |
+| 313 | 88 | Kelly Koenig |
 | 314 | 87 | Kellie Montgomery |
 | 315 | 86 | Salena Whitlock |
 | 316 | 86 | Criss |
