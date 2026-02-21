@@ -198,8 +198,8 @@
 | 190 | 485 | Gene Mills |
 | 191 | 484 | Suki Kaur |
 | 192 | 483 | Jordan Kaiser |
-| 193 | 482 | Thomas Hughes |
-| 194 | 482 | Eckoman518 |
+| 193 | 482 | Eckoman518 |
+| 194 | 482 | Thomas Hughes |
 | 195 | 481 | Lylymom |
 | 196 | 474 | Auntie B |
 | 197 | 473 | Ashley Collins |
@@ -608,8 +608,8 @@
 | 600 | 168 | Phil J. Grombliniak |
 | 601 | 168 | Joel Rosado |
 | 602 | 168 | Cini |
-| 603 | 167 | mshir |
-| 604 | 167 | Sabrena Yeisley |
+| 603 | 167 | Sabrena Yeisley |
+| 604 | 167 | mshir |
 | 605 | 166 | Rhonda Petro |
 | 606 | 166 | suuny |
 | 607 | 165 | Austin Wilson |

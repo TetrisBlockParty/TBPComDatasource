@@ -273,8 +273,8 @@
 | 265 | 107 | Bouncy Blockbuilder |
 | 266 | 106 | Cheeky Snapper |
 | 267 | 106 | Noettín Kan Zasnemoore |
-| 268 | 105 | Donna |
-| 269 | 105 | Boldy Blocker |
+| 268 | 105 | Boldy Blocker |
+| 269 | 105 | Donna |
 | 270 | 105 | Emi |
 | 271 | 104 | Samantha Lynn |
 | 272 | 104 | El Chapa |
@@ -304,8 +304,8 @@
 | 296 | 98 | Tasha Wesson-Torrence |
 | 297 | 98 | Andrew Thorson |
 | 298 | 97 | Paula Little |
-| 299 | 96 | Christopher Woost |
-| 300 | 96 | D3NO |
+| 299 | 96 | D3NO |
+| 300 | 96 | Christopher Woost |
 | 301 | 95 | Brooke Bauer |
 | 302 | 95 | FATTY |
 | 303 | 94 | Nichole Greene |

@@ -101,8 +101,8 @@
 | 93 | 178 | Lori |
 | 94 | 177 | Andria Lynn |
 | 95 | 174 | Zethra Prenisha Rahming |
-| 96 | 173 | Jeff Brian Gates |
-| 97 | 173 | Justin Hannigan |
+| 96 | 173 | Justin Hannigan |
+| 97 | 173 | Jeff Brian Gates |
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 167 | Denise Carlson |
@@ -144,8 +144,8 @@
 | 136 | 128 | Rio Rocha |
 | 137 | 128 | Stephme310 |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Chair |
 | 143 | 123 | Cherrish Duren |
