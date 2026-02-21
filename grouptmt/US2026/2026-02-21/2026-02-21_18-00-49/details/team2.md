@@ -209,10 +209,10 @@
 | 201 | 513 | Angela Bonquiqui Dinish |
 | 202 | 511 | Ramone Armstrong |
 | 203 | 511 | Dizzy Zone |
-| 204 | 511 | Laura Mclean |
-| 205 | 511 | Shavonna Haynes |
-| 206 | 510 | Lisa Ongtowasruk |
-| 207 | 510 | Cheech Dta |
+| 204 | 511 | Shavonna Haynes |
+| 205 | 511 | Laura Mclean |
+| 206 | 510 | Cheech Dta |
+| 207 | 510 | Lisa Ongtowasruk |
 | 208 | 509 | Kelli Wells |
 | 209 | 504 | Cherica Taylor |
 | 210 | 503 | Adam Erikson |
@@ -271,8 +271,8 @@
 | 263 | 409 | Sparkles |
 | 264 | 408 | Amanda Ferrell |
 | 265 | 406 | Erin StFrancis |
-| 266 | 405 | Christy Krissie |
-| 267 | 405 | Sarah Massey |
+| 266 | 405 | Sarah Massey |
+| 267 | 405 | Christy Krissie |
 | 268 | 402 | Joshua Mandel |
 | 269 | 400 | Tammy Allen |
 | 270 | 400 | Maegan Beaule |
@@ -321,8 +321,8 @@
 | 313 | 355 | Shandrica Lowe |
 | 314 | 355 | Alexandra Weir |
 | 315 | 354 | Lawanda Forbes |
-| 316 | 354 | Brave Dropmatch |
-| 317 | 354 | Tracy Wise |
+| 316 | 354 | Tracy Wise |
+| 317 | 354 | Brave Dropmatch |
 | 318 | 353 | Cheery Matchzone |
 | 319 | 352 | Juanita Lyons |
 | 320 | 352 | ruth |

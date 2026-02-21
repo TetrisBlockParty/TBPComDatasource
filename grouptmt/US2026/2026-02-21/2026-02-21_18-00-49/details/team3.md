@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Natasha Jones |
-| 59 | 528 | Giddy Drop |
+| 58 | 528 | Giddy Drop |
+| 59 | 528 | Natasha Jones |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | Rich LeBlanc |
-| 111 | 309 | CeceGeGe |
+| 110 | 309 | CeceGeGe |
+| 111 | 309 | Rich LeBlanc |
 | 112 | 307 | Blocked |
 | 113 | 307 | Peggi Charon |
 | 114 | 300 | Sherika C. McDaniels |
@@ -213,8 +213,8 @@
 | 205 | 157 | Nicholas Roddy |
 | 206 | 156 | Bea Miles |
 | 207 | 155 | Loopy Fallzone |
-| 208 | 153 | Cozy Snaplink |
-| 209 | 153 | Rachel Napper |
+| 208 | 153 | Rachel Napper |
+| 209 | 153 | Cozy Snaplink |
 | 210 | 153 | Tipsy Zonebuilder |
 | 211 | 152 | Katrina E Jelks |
 | 212 | 152 | Desiree Gold |
@@ -284,8 +284,8 @@
 | 276 | 114 | Amanda Neal |
 | 277 | 114 | Elizabeth Renee |
 | 278 | 113 | Brave Brickster |
-| 279 | 113 | Beppy |
-| 280 | 113 | Brian Battjes |
+| 279 | 113 | Brian Battjes |
+| 280 | 113 | Beppy |
 | 281 | 112 | Rachel |
 | 282 | 111 | Rainbow77375 |
 | 283 | 111 | El Chapa |
@@ -316,8 +316,8 @@
 | 308 | 103 | Andrew Thorson |
 | 309 | 103 | Kate Farok |
 | 310 | 102 | Criss |
-| 311 | 102 | Christian Luna |
-| 312 | 102 | Rania Zaqout |
+| 311 | 102 | Rania Zaqout |
+| 312 | 102 | Christian Luna |
 | 313 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 314 | 101 | Hyper Bridger |
 | 315 | 100 | Edwin Calvillo Jr. |
@@ -397,13 +397,13 @@
 | 389 | 81 | Philip Rock |
 | 390 | 81 | Katheline Lazo Luizaga |
 | 391 | 80 | Vixen Queen |
-| 392 | 80 | Josh Borquez |
+| 392 | 80 | Nicole Summers-Nelson |
 | 393 | 80 | Me,Him,Yu |
-| 394 | 80 | Nicole Summers-Nelson |
-| 395 | 79 | fraulila |
-| 396 | 79 | Jessie Chung |
-| 397 | 79 | Brittany K Ward |
-| 398 | 79 | Rayzer |
+| 394 | 80 | Josh Borquez |
+| 395 | 79 | Brittany K Ward |
+| 396 | 79 | Rayzer |
+| 397 | 79 | fraulila |
+| 398 | 79 | Jessie Chung |
 | 399 | 79 | Bleu Sun Beams |
 | 400 | 78 | Skippy |
 | 401 | 78 | Myriam Lapierre |
