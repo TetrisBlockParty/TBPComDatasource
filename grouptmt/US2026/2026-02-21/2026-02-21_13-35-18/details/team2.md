@@ -127,8 +127,8 @@
 | 119 | 631 | Peppy Zone |
 | 120 | 620 | BYM4L |
 | 121 | 619 | Jamie Otero |
-| 122 | 608 | John Bednarik |
-| 123 | 608 | Sommer Shope |
+| 122 | 608 | Sommer Shope |
+| 123 | 608 | John Bednarik |
 | 124 | 602 | L3sli3 |
 | 125 | 601 | Nancy Reid |
 | 126 | 597 | Andea Beck |
@@ -312,9 +312,9 @@
 | 304 | 296 | Jennifer Darby |
 | 305 | 296 | Jennifer Casey-Kay |
 | 306 | 296 | Amber Gray |
-| 307 | 296 | Jennifer Darby |
-| 308 | 295 | Diallo Sparkman |
-| 309 | 295 | Angela Bonquiqui Dinish |
+| 307 | 296 | Heather Schelkopf |
+| 308 | 295 | Angela Bonquiqui Dinish |
+| 309 | 295 | Diallo Sparkman |
 | 310 | 294 | Lee Harper |
 | 311 | 293 | David Holliday |
 | 312 | 290 | Maya June |
@@ -371,9 +371,9 @@
 | 363 | 257 | Diana Fitzwater |
 | 364 | 257 | Lyndi Robinson Wakefield |
 | 365 | 256 | Alishac Marie |
-| 366 | 256 | Barbra Miller |
-| 367 | 256 | Tee Jaleesa |
-| 368 | 256 | CC |
+| 366 | 256 | CC |
+| 367 | 256 | Barbra Miller |
+| 368 | 256 | Tee Jaleesa |
 | 369 | 255 | Kathryn Townsley |
 | 370 | 254 | Elizabeth Diraffaele |
 | 371 | 254 | Rose Fx |
@@ -384,8 +384,8 @@
 | 376 | 252 | Britt Stunkel |
 | 377 | 251 | Ann Knutson Anderson |
 | 378 | 250 | Steve Man |
-| 379 | 249 | Porsche' Nicole |
-| 380 | 249 | Nicky Jackson |
+| 379 | 249 | Nicky Jackson |
+| 380 | 249 | Porsche' Nicole |
 | 381 | 248 | Aimee Byrom |
 | 382 | 248 | Warren Marleau |
 | 383 | 248 | Leslie Ann Carter |
@@ -540,8 +540,8 @@
 | 532 | 168 | Phil J. Grombliniak |
 | 533 | 168 | Kati Russeau |
 | 534 | 168 | Nicol Craven |
-| 535 | 167 | Sabrena Yeisley |
-| 536 | 167 | mshir |
+| 535 | 167 | mshir |
+| 536 | 167 | Sabrena Yeisley |
 | 537 | 166 | Lakeela Wise |
 | 538 | 166 | Rhonda Petro |
 | 539 | 166 | Morgan Easter |

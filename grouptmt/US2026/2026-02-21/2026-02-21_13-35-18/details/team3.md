@@ -49,8 +49,8 @@
 | 41 | 587 | Danielle Becker |
 | 42 | 580 | Amanda L Baker |
 | 43 | 568 | Shonna Roberts |
-| 44 | 546 | Dolores Falco |
-| 45 | 546 | Snappy Glidepiece |
+| 44 | 546 | Snappy Glidepiece |
+| 45 | 546 | Dolores Falco |
 | 46 | 541 | MissTaylor |
 | 47 | 533 | Sarah Fehring |
 | 48 | 528 | Natasha Jones |
@@ -180,8 +180,8 @@
 | 172 | 151 | MsBee |
 | 173 | 150 | Nicole Myers |
 | 174 | 150 | Sashay Tapae Simpson |
-| 175 | 149 | Angel Mendez |
-| 176 | 149 | Bea Miles |
+| 175 | 149 | Bea Miles |
+| 176 | 149 | Angel Mendez |
 | 177 | 147 | Desiree Gold |
 | 178 | 146 | Denita Mungro |
 | 179 | 146 | Latoya Mayne |
@@ -193,8 +193,8 @@
 | 185 | 140 | Gumbo |
 | 186 | 137 | Aerian Preston |
 | 187 | 136 | Boldy Corner |
-| 188 | 135 | Cheryl Hinch Tenbrook |
-| 189 | 135 | Connie Mohler-Fair |
+| 188 | 135 | Connie Mohler-Fair |
+| 189 | 135 | Cheryl Hinch Tenbrook |
 | 190 | 134 | Emma |
 | 191 | 133 | Nikki Pags |
 | 192 | 133 | Joy Petroski |
@@ -231,18 +231,18 @@
 | 223 | 113 | Beppy |
 | 224 | 113 | Brian Battjes |
 | 225 | 111 | Stephanie Zahm |
-| 226 | 110 | Tye Stovall |
-| 227 | 110 | Danielle Weikel |
+| 226 | 110 | Danielle Weikel |
+| 227 | 110 | Tye Stovall |
 | 228 | 110 | Stella |
 | 229 | 109 | Brave Brickster |
 | 230 | 109 | Diana Ibarra |
 | 231 | 109 | Lys |
 | 232 | 109 | Fredd Thomas |
 | 233 | 108 | Hanna Kim |
-| 234 | 108 | Rachel Napper |
-| 235 | 108 | LaTanya GeminiondaRise Johnson |
-| 236 | 107 | France Vézina |
-| 237 | 107 | Sherry Ogden |
+| 234 | 108 | LaTanya GeminiondaRise Johnson |
+| 235 | 108 | Rachel Napper |
+| 236 | 107 | Sherry Ogden |
+| 237 | 107 | France Vézina |
 | 238 | 107 | Bouncy Blockbuilder |
 | 239 | 106 | mommablock |
 | 240 | 106 | Noettín Kan Zasnemoore |

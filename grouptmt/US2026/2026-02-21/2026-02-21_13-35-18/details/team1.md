@@ -56,8 +56,8 @@
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Tipsy Column |
-| 52 | 256 | Robert Benito |
+| 51 | 256 | Robert Benito |
+| 52 | 256 | Tipsy Column |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -118,15 +118,15 @@
 | 110 | 143 | Brandi Huntington |
 | 111 | 142 | Colleen Wise |
 | 112 | 141 | Blaire Bruckoff |
-| 113 | 140 | Irual Hctrab |
-| 114 | 140 | Miguel Teixeira |
+| 113 | 140 | Miguel Teixeira |
+| 114 | 140 | Irual Hctrab |
 | 115 | 138 | Gary Gobin |
 | 116 | 138 | Cranky Pattern |
 | 117 | 137 | Nadine Velardo |
 | 118 | 134 | Trina Gee |
 | 119 | 133 | Breanna Luna |
-| 120 | 132 | LaQuetta Faith Hines |
-| 121 | 132 | Davery Spencer Adair |
+| 120 | 132 | Davery Spencer Adair |
+| 121 | 132 | LaQuetta Faith Hines |
 | 122 | 132 | Cody Gates |
 | 123 | 131 | Uhog SF |
 | 124 | 130 | Dandy Basegrid |
@@ -141,8 +141,8 @@
 | 133 | 119 | Tater |
 | 134 | 118 | Barry Mac'Ockner |
 | 135 | 116 | Evie Khalil |
-| 136 | 115 | Mrs.Patrica |
-| 137 | 115 | Chuck Gannon |
+| 136 | 115 | Chuck Gannon |
+| 137 | 115 | Mrs.Patrica |
 | 138 | 114 | Giddy Cascade |
 | 139 | 114 | Aimee Horton |
 | 140 | 113 | Desiree Deschaine Havee |
@@ -158,11 +158,11 @@
 | 150 | 110 | Garcia Bailey |
 | 151 | 108 | Tavia |
 | 152 | 108 | Dizzy Party |
-| 153 | 108 | Tavia |
-| 154 | 107 | LD1 |
-| 155 | 107 | Jodee Woods |
-| 156 | 106 | Bloknboy |
-| 157 | 106 | Ash Galvan |
+| 153 | 108 | Luciano Moreira |
+| 154 | 107 | Jodee Woods |
+| 155 | 107 | LD1 |
+| 156 | 106 | Ash Galvan |
+| 157 | 106 | Bloknboy |
 | 158 | 105 | Ty Brown |
 | 159 | 104 | Bindi |
 | 160 | 104 | Charla Pross-Fugleberg |
