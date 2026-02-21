@@ -43,8 +43,8 @@
 | 35 | 147 | Courtney Cicoria |
 | 36 | 147 | Kimyatta Cavin |
 | 37 | 141 | Edward White |
-| 38 | 140 | GreenJeepGirl |
-| 39 | 140 | Carter Jones |
+| 38 | 140 | Carter Jones |
+| 39 | 140 | GreenJeepGirl |
 | 40 | 130 | Casey Jeffcoat |
 | 41 | 129 | Samantha Peterson |
 | 42 | 128 | Robin Watters |
@@ -122,8 +122,8 @@
 | 114 | 59 | Jasmine S Caldwell |
 | 115 | 59 | Chaz Duncan |
 | 116 | 58 | Autumn Kumzi |
-| 117 | 57 | Carlos G Reyes |
-| 118 | 57 | Stephanie Jones |
+| 117 | 57 | Stephanie Jones |
+| 118 | 57 | Carlos G Reyes |
 | 119 | 57 | Justin Hannigan |
 | 120 | 56 | Maureen Flanigan |
 | 121 | 56 | Chastity Mitchell |

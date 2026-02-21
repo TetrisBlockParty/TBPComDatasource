@@ -214,8 +214,8 @@
 | 206 | 198 | Julio A Laracuente |
 | 207 | 197 | Smashanator |
 | 208 | 196 | Alexandra Reese |
-| 209 | 194 | Kimberly Ann |
-| 210 | 194 | Mike Aprilliano |
+| 209 | 194 | Mike Aprilliano |
+| 210 | 194 | Kimberly Ann |
 | 211 | 193 | Nika Bee |
 | 212 | 193 | Ariel |
 | 213 | 191 | Deana |

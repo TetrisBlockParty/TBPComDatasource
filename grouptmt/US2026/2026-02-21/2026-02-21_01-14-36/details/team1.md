@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Kathi Snustad |
-| 18 | 281 | Nancy Green |
+| 17 | 281 | Nancy Green |
+| 18 | 281 | Kathi Snustad |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |
@@ -40,8 +40,8 @@
 | 32 | 185 | Karin Gillen |
 | 33 | 176 | Jazzy Framezone |
 | 34 | 173 | Frothy Pattern |
-| 35 | 169 | Happy Basegrid |
-| 36 | 169 | Erez Yosef |
+| 35 | 169 | Erez Yosef |
+| 36 | 169 | Happy Basegrid |
 | 37 | 160 | Ananda Mendez |
 | 38 | 157 | Thorne Shumate |
 | 39 | 153 | Standia Civil |
@@ -88,7 +88,7 @@
 | 80 | 87 | TSwag |
 | 81 | 87 | Jessi Sauer |
 | 82 | 84 | Charla Pross-Fugleberg |
-| 83 | 83 | Death |
+| 83 | 83 | Guest |
 | 84 | 83 | Timothy Dew |
 | 85 | 83 | Death |
 | 86 | 82 | Nery Martinez |
@@ -101,8 +101,8 @@
 | 93 | 78 | Carrie Beck Geartz |
 | 94 | 77 | Teddy Alexander |
 | 95 | 76 | Larry Tilton |
-| 96 | 75 | Tyler L Hunt |
-| 97 | 75 | Fresno Beotoni |
+| 96 | 75 | Fresno Beotoni |
+| 97 | 75 | Tyler L Hunt |
 | 98 | 74 | Grace Joanne Agnant |
 | 99 | 73 | Loony Fitzone |
 | 100 | 73 | Witty Builderfit |

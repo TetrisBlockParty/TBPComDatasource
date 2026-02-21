@@ -103,8 +103,8 @@
 | 95 | 118 | Bea Miles |
 | 96 | 114 | Terry Jo Jones |
 | 97 | 113 | Jennifer Alvey |
-| 98 | 112 | Connie Mohler-Fair |
-| 99 | 112 | Jimmie Clemons |
+| 98 | 112 | Jimmie Clemons |
+| 99 | 112 | Connie Mohler-Fair |
 | 100 | 111 | Joy Petroski |
 | 101 | 110 | Tiff Vs Tiffany |
 | 102 | 110 | Stella |
