@@ -215,8 +215,8 @@
 | 207 | 266 | Mighty Shatterfit |
 | 208 | 266 | Autumn Schaeffer |
 | 209 | 266 | Joyce Johnson Vaughn |
-| 210 | 263 | Taylor Flowers |
-| 211 | 263 | August Hale |
+| 210 | 263 | August Hale |
+| 211 | 263 | Taylor Flowers |
 | 212 | 262 | Taren Cowan |
 | 213 | 261 | MrsClaudette Will'sIam Matthews |
 | 214 | 260 | Dapper Dasher |
@@ -320,8 +320,8 @@
 | 312 | 183 | Dizzy Zone |
 | 313 | 181 | Julay |
 | 314 | 180 | Peter Palestino |
-| 315 | 179 | Denise Rickman |
-| 316 | 179 | Desiree Harris Rosch |
+| 315 | 179 | Desiree Harris Rosch |
+| 316 | 179 | Denise Rickman |
 | 317 | 179 | Cat |
 | 318 | 178 | Peppy Snapfall |
 | 319 | 177 | John |
@@ -400,8 +400,8 @@
 | 392 | 146 | Angie Bolton Workman |
 | 393 | 146 | JacJac |
 | 394 | 145 | Catina Hutchison |
-| 395 | 145 | William Hughes |
-| 396 | 145 | Scott Rackley |
+| 395 | 145 | Scott Rackley |
+| 396 | 145 | William Hughes |
 | 397 | 144 | Tee Davis |
 | 398 | 144 | Bette Prieto |
 | 399 | 144 | Alexis Richardson |

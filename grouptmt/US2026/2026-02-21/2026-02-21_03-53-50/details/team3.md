@@ -88,8 +88,8 @@
 | 80 | 200 | mjl574 |
 | 81 | 199 | joclisa |
 | 82 | 195 | Nicha Hooker |
-| 83 | 193 | Shunta Jacobs |
-| 84 | 193 | Clever Shiftsnap |
+| 83 | 193 | Clever Shiftsnap |
+| 84 | 193 | Shunta Jacobs |
 | 85 | 192 | Chasity |
 | 86 | 187 | Speedy Bridger |
 | 87 | 185 | Danielle Cutler |
@@ -131,8 +131,8 @@
 | 123 | 123 | Kristie McFarland |
 | 124 | 122 | Shimika Enay Wallace |
 | 125 | 122 | Terry Jo Jones |
-| 126 | 121 | Boldy Corner |
-| 127 | 121 | Michael Latasha Gray |
+| 126 | 121 | Michael Latasha Gray |
+| 127 | 121 | Boldy Corner |
 | 128 | 120 | Jessica |
 | 129 | 118 | Fancy Curver |
 | 130 | 117 | Beth Ingham |
@@ -157,16 +157,16 @@
 | 149 | 105 | Hoppy Buildout |
 | 150 | 104 | Sarah Moyer |
 | 151 | 104 | Nicholas Roddy |
-| 152 | 102 | Kali Kelz Williams |
-| 153 | 102 | mommablock |
+| 152 | 102 | mommablock |
+| 153 | 102 | Kali Kelz Williams |
 | 154 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 155 | 100 | Ryan Williams |
 | 156 | 100 | Danielle Allison |
 | 157 | 100 | Elizabeth Renee |
 | 158 | 100 | Bobbi Moore |
 | 159 | 100 | Donna |
-| 160 | 99 | Lys |
-| 161 | 99 | Nichol Graham |
+| 160 | 99 | Nichol Graham |
+| 161 | 99 | Lys |
 | 162 | 98 | Daring Builder |
 | 163 | 98 | Jocelyne Baca |
 | 164 | 98 | Stephanie Burtin |
