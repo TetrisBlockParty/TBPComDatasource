@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Natasha Jones |
-| 62 | 582 | Katrina Schroeder |
+| 61 | 582 | Katrina Schroeder |
+| 62 | 582 | Natasha Jones |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | ren |
-| 150 | 256 | Judi Dobson |
+| 149 | 256 | Judi Dobson |
+| 150 | 256 | ren |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |

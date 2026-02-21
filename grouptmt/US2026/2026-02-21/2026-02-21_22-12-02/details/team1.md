@@ -226,8 +226,8 @@
 | 218 | 114 | Hector Cruz |
 | 219 | 114 | Tyler Hertzog |
 | 220 | 113 | Desiree Deschaine Havee |
-| 221 | 112 | Chris65 |
-| 222 | 112 | Crystal Joslin |
+| 221 | 112 | Crystal Joslin |
+| 222 | 112 | Chris65 |
 | 223 | 111 | Rachel Nichole Henry |
 | 224 | 111 | Chirpy Smasher |
 | 225 | 110 | Jodee Woods |
