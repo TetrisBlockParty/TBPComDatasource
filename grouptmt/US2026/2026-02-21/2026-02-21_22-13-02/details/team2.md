@@ -110,8 +110,8 @@
 | 102 | 1048 | PsychKIRAtrist |
 | 103 | 1035 | Donnie Hunt |
 | 104 | 1017 | Sarah Freitas |
-| 105 | 1011 | Brave Dropmatch |
-| 106 | 1011 | Amy Sayers |
+| 105 | 1011 | Amy Sayers |
+| 106 | 1011 | Brave Dropmatch |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
 | 109 | 983 | Adam Erikson |
@@ -231,16 +231,16 @@
 | 223 | 561 | Kristopher Miller |
 | 224 | 556 | Shavonna Haynes |
 | 225 | 553 | Leslie Ann Carter |
-| 226 | 549 | Kaylee McCafferty |
-| 227 | 549 | Charvi' Carter |
+| 226 | 549 | Charvi' Carter |
+| 227 | 549 | Kaylee McCafferty |
 | 228 | 543 | Adira Brown |
 | 229 | 541 | Giggy Blocker |
 | 230 | 541 | SaraMarie Eveland |
 | 231 | 540 | Teresa Gillmore |
 | 232 | 537 | Slip |
 | 233 | 535 | Paul Huber |
-| 234 | 535 | Jessie McDougald |
-| 235 | 535 | Mema |
+| 234 | 535 | Mema |
+| 235 | 535 | Jessie McDougald |
 | 236 | 533 | April Dawn Gussler |
 | 237 | 532 | Ray Ray Prado |
 | 238 | 531 | Chris Wanner |
@@ -268,10 +268,10 @@
 | 260 | 504 | Cherica Taylor |
 | 261 | 504 | Gene Mills |
 | 262 | 503 | tejas25 |
-| 263 | 502 | Magic steve |
-| 264 | 502 | Poppy Snap |
-| 265 | 500 | Em Chen |
-| 266 | 500 | Sarah Ridenour |
+| 263 | 502 | Poppy Snap |
+| 264 | 502 | Magic steve |
+| 265 | 500 | Sarah Ridenour |
+| 266 | 500 | Em Chen |
 | 267 | 499 | Deanna Morton |
 | 268 | 497 | Jeremy Parodi |
 | 269 | 497 | Juliana Marques Do Nascimento Gordy |

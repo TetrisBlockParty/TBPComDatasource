@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | quicksand420 |
-| 66 | 376 | Marie-Pier Desjardins |
+| 65 | 376 | Marie-Pier Desjardins |
+| 66 | 376 | quicksand420 |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |
@@ -362,7 +362,7 @@
 | 354 | 70 | Niome Encinias |
 | 355 | 70 | Robert Rangel |
 | 356 | 69 | Beth Helms |
-| 357 | 69 | Meli  Jackson |
+| 357 | 69 | Frisky Column |
 | 358 | 69 | Jessica Wells |
 | 359 | 69 | Meli  Jackson |
 | 360 | 68 | Kelly Duncan |

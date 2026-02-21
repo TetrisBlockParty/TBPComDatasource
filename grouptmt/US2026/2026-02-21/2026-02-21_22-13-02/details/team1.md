@@ -44,9 +44,9 @@
 | 36 | 539 | Karin Gillen |
 | 37 | 521 | Hyp James NObettadanluvarat |
 | 38 | 518 | comrade fish |
-| 39 | 517 | Felicia Lewis |
-| 40 | 517 | Kristen Roles Robben |
-| 41 | 517 | Jen Sartain |
+| 39 | 517 | Kristen Roles Robben |
+| 40 | 517 | Jen Sartain |
+| 41 | 517 | Felicia Lewis |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
 | 44 | 503 | Redlicious 1 |
@@ -184,8 +184,8 @@
 | 176 | 142 | Colleen Wise |
 | 177 | 141 | Blaire Bruckoff |
 | 178 | 140 | Miguel Teixeira |
-| 179 | 139 | Flashy Rotator |
-| 180 | 139 | Jenny Gingrich Fuentes |
+| 179 | 139 | Jenny Gingrich Fuentes |
+| 180 | 139 | Flashy Rotator |
 | 181 | 138 | Death |
 | 182 | 137 | Cody Gates |
 | 183 | 136 | Breanna Luna |
@@ -198,8 +198,8 @@
 | 190 | 133 | Mel Hogan |
 | 191 | 133 | Kimberly Garcia |
 | 192 | 132 | Tipsy Riseclear |
-| 193 | 131 | Fmp |
-| 194 | 131 | Uhog SF |
+| 193 | 131 | Uhog SF |
+| 194 | 131 | Fmp |
 | 195 | 130 | Gilbert Ortiz Jr. |
 | 196 | 130 | LD1 |
 | 197 | 128 | lil mickey |

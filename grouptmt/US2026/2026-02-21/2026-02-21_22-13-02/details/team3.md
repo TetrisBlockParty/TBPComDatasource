@@ -110,8 +110,8 @@
 | 102 | 390 | Hasty Cascadefit |
 | 103 | 386 | Katie Knaus |
 | 104 | 384 | Shannon Matthew Byers |
-| 105 | 378 | Makelini Mausia |
-| 106 | 378 | Tasha Schriewer |
+| 105 | 378 | Tasha Schriewer |
+| 106 | 378 | Makelini Mausia |
 | 107 | 377 | Jesse Olive |
 | 108 | 372 | Jessica Bechler |
 | 109 | 368 | Stephanie Woods |
@@ -133,8 +133,8 @@
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Peggi Charon |
-| 129 | 307 | Blocked |
+| 128 | 307 | Blocked |
+| 129 | 307 | Peggi Charon |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
