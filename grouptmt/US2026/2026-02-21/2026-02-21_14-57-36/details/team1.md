@@ -56,8 +56,8 @@
 | 48 | 299 | Lehrin Maria |
 | 49 | 287 | Hyper |
 | 50 | 276 | Kristen Roles Robben |
-| 51 | 274 | Theo Pinnow |
-| 52 | 274 | Sweet Baker |
+| 51 | 274 | Sweet Baker |
+| 52 | 274 | Theo Pinnow |
 | 53 | 272 | Adam Byrd |
 | 54 | 270 | Shauna Loe |
 | 55 | 264 | Robert Benito |
@@ -84,9 +84,9 @@
 | 76 | 201 | Patrick Luckenbill |
 | 77 | 201 | Ananda Mendez |
 | 78 | 200 | Giggly Builderline |
-| 79 | 198 | Billie Dawn Sparks |
-| 80 | 198 | Happy Snapbuild |
-| 81 | 198 | Brandi Huntington |
+| 79 | 198 | Happy Snapbuild |
+| 80 | 198 | Brandi Huntington |
+| 81 | 198 | Billie Dawn Sparks |
 | 82 | 197 | Cynthia Bradley |
 | 83 | 193 | Lachelle Dillon |
 | 84 | 192 | Shaykmia |
@@ -100,7 +100,7 @@
 | 92 | 178 | Danielle Little-Daugherty |
 | 93 | 173 | Jennifer Olewnik Soborowski |
 | 94 | 173 | Frothy Pattern |
-| 95 | 173 | Jennifer Olewnik Soborowski |
+| 95 | 173 | june october |
 | 96 | 171 | Greg Premoe |
 | 97 | 166 | Rico Rico |
 | 98 | 165 | GATOR |
@@ -124,8 +124,8 @@
 | 116 | 148 | Shauntina Burke |
 | 117 | 146 | Irual Hctrab |
 | 118 | 145 | BigWeenie69 |
-| 119 | 144 | femmefatale |
-| 120 | 144 | Plucky Ziggy |
+| 119 | 144 | Plucky Ziggy |
+| 120 | 144 | femmefatale |
 | 121 | 143 | Sarah Marie |
 | 122 | 142 | Colleen Wise |
 | 123 | 141 | Blaire Bruckoff |
@@ -213,8 +213,8 @@
 | 205 | 88 | Sam Williams |
 | 206 | 87 | Jenny Gingrich Fuentes |
 | 207 | 87 | Jessi Sauer |
-| 208 | 86 | Kellie |
-| 209 | 86 | Basment Living |
+| 208 | 86 | Basment Living |
+| 209 | 86 | Kellie |
 | 210 | 85 | John Barron |
 | 211 | 84 | Eddie Dillon |
 | 212 | 84 | Speedy Snapfall |

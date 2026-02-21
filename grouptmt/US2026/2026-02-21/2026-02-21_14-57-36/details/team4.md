@@ -104,8 +104,8 @@
 | 96 | 170 | Girl |
 | 97 | 167 | Denise Carlson |
 | 98 | 165 | Casey Grabner |
-| 99 | 164 | ThaEviLJeNiuZ |
-| 100 | 164 | blockstar |
+| 99 | 164 | blockstar |
+| 100 | 164 | ThaEviLJeNiuZ |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
 | 103 | 160 | ZeeZee |
@@ -325,8 +325,8 @@
 | 317 | 59 | Angelito |
 | 318 | 59 | Jasmine S Caldwell |
 | 319 | 58 | Paige Kittles |
-| 320 | 58 | Paul Abono |
-| 321 | 58 | Sandra Safford |
+| 320 | 58 | Sandra Safford |
+| 321 | 58 | Richard Campbell II |
 | 322 | 58 | Marco |
 | 323 | 58 | Paul Abono |
 | 324 | 57 | Susan Williams |

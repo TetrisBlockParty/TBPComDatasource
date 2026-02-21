@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -139,8 +139,8 @@
 | 131 | 631 | Peppy Zone |
 | 132 | 620 | BYM4L |
 | 133 | 619 | Jamie Otero |
-| 134 | 608 | Sommer Shope |
-| 135 | 608 | John Bednarik |
+| 134 | 608 | John Bednarik |
+| 135 | 608 | Sommer Shope |
 | 136 | 606 | Poldo Ilano |
 | 137 | 604 | Amber Shoemaker |
 | 138 | 603 | Cassie Maynard |
@@ -227,8 +227,8 @@
 | 219 | 411 | Ricky Fortune |
 | 220 | 409 | Sparkles |
 | 221 | 406 | Erin StFrancis |
-| 222 | 405 | Sarah Massey |
-| 223 | 405 | Christy Krissie |
+| 222 | 405 | Christy Krissie |
+| 223 | 405 | Sarah Massey |
 | 224 | 402 | Joshua Mandel |
 | 225 | 400 | Rhonda Milstead |
 | 226 | 400 | Crystie Hicks |
@@ -382,8 +382,8 @@
 | 374 | 269 | Reece Smith |
 | 375 | 268 | Chummy Blockbuilder |
 | 376 | 267 | Britt Stunkel |
-| 377 | 266 | Mike Aprilliano |
-| 378 | 266 | Denise Rickman |
+| 377 | 266 | Denise Rickman |
+| 378 | 266 | Mike Aprilliano |
 | 379 | 265 | Sassy Linkbuilder |
 | 380 | 264 | Giddy Gridclear |
 | 381 | 264 | Thomas Hughes |
@@ -476,9 +476,9 @@
 | 468 | 211 | Ys Muhammed |
 | 469 | 211 | Trisha Gallagher |
 | 470 | 210 | Shylee Tilman |
-| 471 | 209 | Dawn L Washington-Feuquay |
+| 471 | 209 | John Quiring |
 | 472 | 209 | Samantha Morgan |
-| 473 | 209 | John Quiring |
+| 473 | 209 | Dawn L Washington-Feuquay |
 | 474 | 208 | Nancy Pohlman |
 | 475 | 207 | Melissa McCall |
 | 476 | 206 | RAEPR05 |
