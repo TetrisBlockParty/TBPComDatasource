@@ -191,8 +191,8 @@
 | 183 | 165 | Kali Kelz Williams |
 | 184 | 163 | Stephanie Hill |
 | 185 | 162 | Stephanie Whitefield |
-| 186 | 161 | BŘŰŤİÇŨŚ |
-| 187 | 161 | Nikki Pags |
+| 186 | 161 | Nikki Pags |
+| 187 | 161 | BŘŰŤİÇŨŚ |
 | 188 | 160 | Tiffany Davie |
 | 189 | 159 | Jone |
 | 190 | 158 | Grams |
@@ -250,12 +250,12 @@
 | 242 | 122 | BabyTonj Evans |
 | 243 | 121 | Loopy Clusterer |
 | 244 | 121 | mzcatzy |
-| 245 | 120 | Eon Harris |
-| 246 | 120 | Jessica |
+| 245 | 120 | Jessica |
+| 246 | 120 | Eon Harris |
 | 247 | 120 | Lys |
-| 248 | 118 | Fancy Curver |
+| 248 | 118 | Damian Reid |
 | 249 | 118 | Sabrina Hardrick |
-| 250 | 118 | Damian Reid |
+| 250 | 118 | Fancy Curver |
 | 251 | 116 | BugMansMom |
 | 252 | 115 | Stella |
 | 253 | 115 | Daring Builder |

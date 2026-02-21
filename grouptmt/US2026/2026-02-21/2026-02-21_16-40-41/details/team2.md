@@ -179,8 +179,8 @@
 | 171 | 546 | Charvi' Carter |
 | 172 | 543 | Diana Fitzwater |
 | 173 | 541 | SaraMarie Eveland |
-| 174 | 534 | Poppy Snapper |
-| 175 | 534 | Teresa Gillmore |
+| 174 | 534 | Teresa Gillmore |
+| 175 | 534 | Poppy Snapper |
 | 176 | 534 | Stephen Stephen |
 | 177 | 531 | Chris Wanner |
 | 178 | 527 | Stacy Stickle |
@@ -293,8 +293,8 @@
 | 285 | 357 | Julie Kresal |
 | 286 | 355 | Shandrica Lowe |
 | 287 | 355 | Kristen O'Neal |
-| 288 | 354 | Tracy Wise |
-| 289 | 354 | Brave Dropmatch |
+| 288 | 354 | Brave Dropmatch |
+| 289 | 354 | Tracy Wise |
 | 290 | 353 | Cheery Matchzone |
 | 291 | 352 | Juanita Lyons |
 | 292 | 352 | ruth |

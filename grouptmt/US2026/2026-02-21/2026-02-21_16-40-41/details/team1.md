@@ -176,8 +176,8 @@
 | 168 | 115 | Mrs.Patrica |
 | 169 | 114 | Gilbert Ortiz Jr. |
 | 170 | 113 | Desiree Deschaine Havee |
-| 171 | 112 | Chris65 |
-| 172 | 112 | Nicole Roseberry Weber |
+| 171 | 112 | Nicole Roseberry Weber |
+| 172 | 112 | Chris65 |
 | 173 | 111 | Chirpy Smasher |
 | 174 | 111 | Jessi Sauer |
 | 175 | 111 | Agustin Duarte Orozco |
