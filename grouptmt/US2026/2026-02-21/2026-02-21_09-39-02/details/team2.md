@@ -41,8 +41,8 @@
 | 33 | 1257 | Crystalin Heath Lewis |
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
-| 36 | 1173 | Katrina Williams Balmir |
-| 37 | 1173 | Devin Lee |
+| 36 | 1173 | Devin Lee |
+| 37 | 1173 | Katrina Williams Balmir |
 | 38 | 1157 | Priscilla Noel |
 | 39 | 1150 | Izabel Herrera |
 | 40 | 1143 | Lucky Ladybug |
@@ -145,8 +145,8 @@
 | 137 | 520 | Kimberly Schall |
 | 138 | 519 | Maria Escobar |
 | 139 | 517 | Debra Williams |
-| 140 | 515 | Kaylee McCafferty |
-| 141 | 515 | Real Ri |
+| 140 | 515 | Real Ri |
+| 141 | 515 | Kaylee McCafferty |
 | 142 | 513 | Butta |
 | 143 | 511 | Dizzy Zone |
 | 144 | 510 | Ashley House |
@@ -327,8 +327,8 @@
 | 319 | 251 | Ann Knutson Anderson |
 | 320 | 250 | Barbra Miller |
 | 321 | 250 | Peachy Blockbuilder |
-| 322 | 249 | Nicky Jackson |
-| 323 | 249 | Porsche' Nicole |
+| 322 | 249 | Porsche' Nicole |
+| 323 | 249 | Nicky Jackson |
 | 324 | 248 | Leah Keesling |
 | 325 | 248 | Dany Murillo |
 | 326 | 248 | Bubbly Snapfit |
@@ -347,8 +347,8 @@
 | 339 | 242 | Donna Chandler |
 | 340 | 242 | Hyper Cluster |
 | 341 | 241 | Sabrina Burton |
-| 342 | 240 | Angie Marie |
-| 343 | 240 | Adam Erikson |
+| 342 | 240 | Adam Erikson |
+| 343 | 240 | Angie Marie |
 | 344 | 239 | Roger Grabbit |
 | 345 | 238 | Cheery Matchzone |
 | 346 | 236 | snkylnk |
@@ -589,10 +589,10 @@
 | 581 | 140 | Sheretta Holmes Lil'bit |
 | 582 | 139 | Jackson Smith |
 | 583 | 139 | Octavio Garza |
-| 584 | 138 | Iris Angelica Perez Cantos |
+| 584 | 138 | Dee |
 | 585 | 138 | Gursharan Sandhu |
-| 586 | 138 | ItsJennifer Neriss |
-| 587 | 138 | Dee |
+| 586 | 138 | Iris Angelica Perez Cantos |
+| 587 | 138 | ItsJennifer Neriss |
 | 588 | 138 | Kiely Tomaskovich |
 | 589 | 137 | Jannan Haimour |
 | 590 | 137 | Arlet Alba |
@@ -631,8 +631,8 @@
 | 623 | 132 | Chilly Rollblock |
 | 624 | 132 | Mr. Street Stack |
 | 625 | 131 | Kerry Miller |
-| 626 | 131 | Jennie Lee Huntley |
-| 627 | 131 | Deidre Shaffer |
+| 626 | 131 | Deidre Shaffer |
+| 627 | 131 | Jennie Lee Huntley |
 | 628 | 131 | Zeleana Perry |
 | 629 | 130 | Nerdy Riserfit |
 | 630 | 130 | Sandy Aragon |

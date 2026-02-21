@@ -48,8 +48,8 @@
 | 40 | 274 | Sweet Baker |
 | 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
-| 43 | 256 | Shauna Loe |
-| 44 | 256 | Robert Benito |
+| 43 | 256 | Robert Benito |
+| 44 | 256 | Shauna Loe |
 | 45 | 256 | Tipsy Column |
 | 46 | 244 | Franswa |
 | 47 | 243 | Sarah Roberts |
@@ -62,21 +62,21 @@
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
-| 57 | 202 | Hyper |
-| 58 | 202 | Dee Perry |
-| 59 | 201 | Anaid Sanchez |
-| 60 | 201 | Ananda Mendez |
+| 57 | 202 | Dee Perry |
+| 58 | 202 | Hyper |
+| 59 | 201 | Ananda Mendez |
+| 60 | 201 | Anaid Sanchez |
 | 61 | 200 | Lexuriuos Lifestlye |
 | 62 | 198 | Happy Snapbuild |
 | 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Giggly Builderline |
-| 66 | 194 | Sharon Reynolds |
-| 67 | 192 | Shaykmia |
-| 68 | 192 | Mandyy Rae |
+| 65 | 194 | Sharon Reynolds |
+| 66 | 194 | Giggly Builderline |
+| 67 | 192 | Mandyy Rae |
+| 68 | 192 | Shaykmia |
 | 69 | 191 | Jazzy Framezone |
-| 70 | 190 | Thorne Shumate |
-| 71 | 190 | Sweetts |
+| 70 | 190 | Sweetts |
+| 71 | 190 | Thorne Shumate |
 | 72 | 189 | Happy Basegrid |
 | 73 | 180 | Erez Yosef |
 | 74 | 176 | Lachelle Dillon |
@@ -89,8 +89,8 @@
 | 81 | 162 | Patrick Luckenbill |
 | 82 | 161 | Abbey Crespo |
 | 83 | 156 | Jessie Lynn |
-| 84 | 155 | Standia Civil |
-| 85 | 155 | David DeSantis |
+| 84 | 155 | David DeSantis |
+| 85 | 155 | Standia Civil |
 | 86 | 153 | Shiny Gridmatch |
 | 87 | 152 | Jacqueline Unique |
 | 88 | 149 | Tana |
@@ -98,15 +98,15 @@
 | 90 | 148 | Shauntina Burke |
 | 91 | 147 | Adam Byrd |
 | 92 | 147 | Veronica Eve |
-| 93 | 145 | Bhelle Sumile |
-| 94 | 145 | BigWeenie69 |
-| 95 | 144 | Plucky Ziggy |
-| 96 | 144 | Tanya Carpenter-Reynolds |
-| 97 | 144 | femmefatale |
+| 93 | 145 | BigWeenie69 |
+| 94 | 145 | Bhelle Sumile |
+| 95 | 144 | Tanya Carpenter-Reynolds |
+| 96 | 144 | femmefatale |
+| 97 | 144 | Plucky Ziggy |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
-| 100 | 138 | Gary Gobin |
-| 101 | 138 | Cranky Pattern |
+| 100 | 138 | Cranky Pattern |
+| 101 | 138 | Gary Gobin |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Brandi Huntington |
@@ -140,9 +140,9 @@
 | 132 | 110 | Garcia Bailey |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
-| 135 | 106 | Aimee Horton |
-| 136 | 106 | Bloknboy |
-| 137 | 106 | Ash Galvan |
+| 135 | 106 | Bloknboy |
+| 136 | 106 | Ash Galvan |
+| 137 | 106 | Aimee Horton |
 | 138 | 105 | Flashy Rotator |
 | 139 | 104 | Charla Pross-Fugleberg |
 | 140 | 104 | Bindi |

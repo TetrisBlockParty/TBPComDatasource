@@ -32,8 +32,8 @@
 | 24 | 852 | cowboy25469 |
 | 25 | 821 | Jessica Ann |
 | 26 | 818 | Delilah belle |
-| 27 | 810 | Shane Wilson Jr. |
-| 28 | 810 | Zippy Strikesnap |
+| 27 | 810 | Zippy Strikesnap |
+| 28 | 810 | Shane Wilson Jr. |
 | 29 | 772 | Corie A. Brinson |
 | 30 | 733 | Chummy Shatterer |
 | 31 | 714 | Amber Jones |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -138,8 +138,8 @@
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -147,8 +147,8 @@
 | 139 | 159 | Mcathen |
 | 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -161,8 +161,8 @@
 | 153 | 149 | Angel Mendez |
 | 154 | 149 | Bea Miles |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Jay Horn |
 | 160 | 140 | Gumbo |
