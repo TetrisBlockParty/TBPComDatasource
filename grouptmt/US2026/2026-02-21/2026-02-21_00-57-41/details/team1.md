@@ -74,8 +74,8 @@
 | 66 | 99 | Uhog SF |
 | 67 | 98 | Flashy Rotator |
 | 68 | 95 | Jodee Woods |
-| 69 | 94 | Bhelle Sumile |
-| 70 | 94 | Bindi |
+| 69 | 94 | Bindi |
+| 70 | 94 | Bhelle Sumile |
 | 71 | 94 | Giddy Cascade |
 | 72 | 93 | Ty Brown |
 | 73 | 93 | Adryane Schnase |

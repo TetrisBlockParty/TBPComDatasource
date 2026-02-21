@@ -40,8 +40,8 @@
 | 32 | 167 | Rachel Anne |
 | 33 | 163 | Johnathan Martinez |
 | 34 | 153 | Lucille Truesdale |
-| 35 | 147 | Courtney Cicoria |
-| 36 | 147 | Kimyatta Cavin |
+| 35 | 147 | Kimyatta Cavin |
+| 36 | 147 | Courtney Cicoria |
 | 37 | 141 | Edward White |
 | 38 | 140 | Carter Jones |
 | 39 | 140 | GreenJeepGirl |
@@ -77,17 +77,17 @@
 | 69 | 90 | ZeeZee |
 | 70 | 88 | Jenna McGeorge |
 | 71 | 87 | Jen Caldwell |
-| 72 | 87 | Brandi Durig |
-| 73 | 87 | Malakai Darien Fox |
+| 72 | 87 | Malakai Darien Fox |
+| 73 | 87 | Brandi Durig |
 | 74 | 86 | amy |
 | 75 | 85 | Mimi |
-| 76 | 81 | Kesha Brady |
-| 77 | 81 | Michelle Parker |
-| 78 | 79 | Zesty Twistbuilder |
-| 79 | 79 | Avy Absol |
+| 76 | 81 | Michelle Parker |
+| 77 | 81 | Kesha Brady |
+| 78 | 79 | Avy Absol |
+| 79 | 79 | Zesty Twistbuilder |
 | 80 | 77 | Kim Hunt |
-| 81 | 75 | Rosemary Foster |
-| 82 | 75 | Chair |
+| 81 | 75 | Chair |
+| 82 | 75 | Rosemary Foster |
 | 83 | 75 | 🥔🥔 Spudz |
 | 84 | 73 | Jeff Brian Gates |
 | 85 | 73 | Lauren Lamb |
@@ -114,8 +114,8 @@
 | 106 | 61 | Jackson Karen |
 | 107 | 61 | Shauna Havard |
 | 108 | 61 | Alee Marie |
-| 109 | 60 | Dustee Craddock-Harrison |
-| 110 | 60 | Ahleek Mitchell |
+| 109 | 60 | Ahleek Mitchell |
+| 110 | 60 | Dustee Craddock-Harrison |
 | 111 | 59 | Chaz Duncan |
 | 112 | 58 | Autumn Kumzi |
 | 113 | 57 | Stephanie Jones |

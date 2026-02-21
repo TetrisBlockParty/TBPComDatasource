@@ -46,9 +46,9 @@
 | 38 | 679 | Gold Rose |
 | 39 | 677 | Kimberly Michelle Brown |
 | 40 | 674 | Dannette Goldberg-Richards |
-| 41 | 658 | Dreamy Blast |
-| 42 | 658 | Vistabrat |
-| 43 | 658 | Pacynthia Williams |
+| 41 | 658 | Pacynthia Williams |
+| 42 | 658 | Dreamy Blast |
+| 43 | 658 | Vistabrat |
 | 44 | 652 | E_Money04 |
 | 45 | 615 | Vo'Landa Reels |
 | 46 | 608 | John Bednarik |

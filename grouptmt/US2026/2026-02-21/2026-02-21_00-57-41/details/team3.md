@@ -80,8 +80,8 @@
 | 72 | 147 | Trisha Balmer |
 | 73 | 144 | Denita Mungro |
 | 74 | 143 | ren |
-| 75 | 140 | Zippy Strikesnap |
-| 76 | 140 | Fancy Slam |
+| 75 | 140 | Fancy Slam |
+| 76 | 140 | Zippy Strikesnap |
 | 77 | 135 | Nicole Flippo |
 | 78 | 135 | Latoya Mayne |
 | 79 | 134 | Dolores Falco |
@@ -127,8 +127,8 @@
 | 119 | 98 | Armi |
 | 120 | 96 | Sherry Ogden |
 | 121 | 96 | D3NO |
-| 122 | 95 | Demetrious Shaw Sr. |
-| 123 | 95 | Katie Knaus |
+| 122 | 95 | Katie Knaus |
+| 123 | 95 | Demetrious Shaw Sr. |
 | 124 | 95 | Brooke Bauer |
 | 125 | 93 | Tiffany Ford |
 | 126 | 92 | Skinny Baldez |
