@@ -224,8 +224,8 @@
 | 216 | 263 | Taylor Flowers |
 | 217 | 263 | August Hale |
 | 218 | 262 | Taren Cowan |
-| 219 | 261 | MrsClaudette Will'sIam Matthews |
-| 220 | 261 | Ann Matzkanin |
+| 219 | 261 | Ann Matzkanin |
+| 220 | 261 | MrsClaudette Will'sIam Matthews |
 | 221 | 260 | Dapper Dasher |
 | 222 | 258 | Elisheva Mizrachi |
 | 223 | 257 | Lyndi Robinson Wakefield |
@@ -319,8 +319,8 @@
 | 311 | 191 | Sho Nuff |
 | 312 | 191 | Lauren Fitzgerald Thomas |
 | 313 | 190 | blarg |
-| 314 | 188 | Justin Hines |
-| 315 | 188 | Brave Gridpiece |
+| 314 | 188 | Brave Gridpiece |
+| 315 | 188 | Justin Hines |
 | 316 | 187 | Shelley Thornburgh Wright |
 | 317 | 186 | Joshua Mullings |
 | 318 | 186 | Rhonda Milstead |

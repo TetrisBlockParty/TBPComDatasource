@@ -139,9 +139,9 @@
 | 131 | 81 | Kesha Brady |
 | 132 | 80 | Melissa Adams |
 | 133 | 79 | Shainne Brewer |
-| 134 | 78 | Jessica Miller |
+| 134 | 78 | Zesty Linkgrid |
 | 135 | 78 | Chair |
-| 136 | 78 | Zesty Linkgrid |
+| 136 | 78 | Jessica Miller |
 | 137 | 77 | Chris Alexinas |
 | 138 | 76 | Bethany Ison |
 | 139 | 75 | 🥔🥔 Spudz |

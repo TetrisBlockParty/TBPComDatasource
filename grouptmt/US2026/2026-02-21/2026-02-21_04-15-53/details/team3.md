@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 568 | Shonna Roberts |
 | 29 | 552 | Jennifer Willis |
-| 30 | 546 | Dolores Falco |
-| 31 | 546 | Snappy Glidepiece |
+| 30 | 546 | Snappy Glidepiece |
+| 31 | 546 | Dolores Falco |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -90,8 +90,8 @@
 | 82 | 200 | mjl574 |
 | 83 | 199 | joclisa |
 | 84 | 195 | Nicha Hooker |
-| 85 | 193 | Shunta Jacobs |
-| 86 | 193 | Clever Shiftsnap |
+| 85 | 193 | Clever Shiftsnap |
+| 86 | 193 | Shunta Jacobs |
 | 87 | 192 | Chasity |
 | 88 | 187 | Speedy Bridger |
 | 89 | 185 | Danielle Cutler |
@@ -110,15 +110,15 @@
 | 102 | 159 | Morgan Martinez |
 | 103 | 158 | Grams |
 | 104 | 156 | Joey Banks |
-| 105 | 155 | Shannon Matthew Byers |
-| 106 | 155 | BŘŰŤİÇŨŚ |
+| 105 | 155 | BŘŰŤİÇŨŚ |
+| 106 | 155 | Shannon Matthew Byers |
 | 107 | 154 | Angela M. Fletcher |
 | 108 | 153 | Beth Ingham |
 | 109 | 152 | Shiny Zonebuilder |
-| 110 | 149 | Trisha Balmer |
-| 111 | 149 | Bea Miles |
-| 112 | 146 | Denita Mungro |
-| 113 | 146 | Latoya Mayne |
+| 110 | 149 | Bea Miles |
+| 111 | 149 | Trisha Balmer |
+| 112 | 146 | Latoya Mayne |
+| 113 | 146 | Denita Mungro |
 | 114 | 140 | Jay Horn |
 | 115 | 138 | Gumbo |
 | 116 | 135 | Nicole Flippo |
@@ -198,8 +198,8 @@
 | 190 | 90 | Eon Harris |
 | 191 | 89 | Hyper Bridger |
 | 192 | 89 | Shicken Nuggit |
-| 193 | 88 | Brandon Givens |
-| 194 | 88 | Martin Bernier |
+| 193 | 88 | Martin Bernier |
+| 194 | 88 | Brandon Givens |
 | 195 | 87 | Boldy Blocker |
 | 196 | 86 | Stephanie Blkpep Davidson |
 | 197 | 86 | Clever Clearbuilder |
