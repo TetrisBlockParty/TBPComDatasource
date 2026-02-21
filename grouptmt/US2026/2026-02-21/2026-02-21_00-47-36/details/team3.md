@@ -143,8 +143,8 @@
 | 135 | 83 | LaTanya GeminiondaRise Johnson |
 | 136 | 83 | Kevin Russell |
 | 137 | 82 | Clever Clearbuilder |
-| 138 | 81 | Danielle Becker |
-| 139 | 81 | Tina Baurdau |
+| 138 | 81 | Tina Baurdau |
+| 139 | 81 | Danielle Becker |
 | 140 | 80 | Gumbo |
 | 141 | 80 | Chris Bell |
 | 142 | 80 | Vixen Queen |

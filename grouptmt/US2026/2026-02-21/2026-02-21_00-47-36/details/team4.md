@@ -104,8 +104,8 @@
 | 96 | 65 | Jessica Miller |
 | 97 | 64 | rebel4lyfe |
 | 98 | 64 | Damn Libra |
-| 99 | 64 | Shukee Lo |
-| 100 | 64 | Marcus Todd |
+| 99 | 64 | Marcus Todd |
+| 100 | 64 | Shukee Lo |
 | 101 | 63 | Lindsey Gonzalez |
 | 102 | 62 | Dizzy Tiley |
 | 103 | 62 | Melvin Baird |
@@ -137,8 +137,8 @@
 | 129 | 51 | George Nutt |
 | 130 | 51 | BertMofo |
 | 131 | 50 | Landon Keith Graffeo |
-| 132 | 50 | Brandon Crabbs |
-| 133 | 50 | GBR |
+| 132 | 50 | GBR |
+| 133 | 50 | Brandon Crabbs |
 | 134 | 50 | Smiley Linkgrid |
 | 135 | 49 | David Lay |
 | 136 | 49 | shark tato |
