@@ -329,16 +329,16 @@
 | 321 | 247 | Andrea Devery Beck |
 | 322 | 247 | Fancy Twister |
 | 323 | 246 | Kathryn Townsley |
-| 324 | 246 | Ashley Lopez |
-| 325 | 246 | Stephanie Lumanlan |
+| 324 | 246 | Stephanie Lumanlan |
+| 325 | 246 | Ashley Lopez |
 | 326 | 245 | Rachael Senard |
-| 327 | 245 | Mischelle Clay |
-| 328 | 245 | Taryece Gause |
+| 327 | 245 | Taryece Gause |
+| 328 | 245 | Mischelle Clay |
 | 329 | 244 | Aimee Byrom |
 | 330 | 243 | Brandy Andre |
 | 331 | 243 | Adira Brown |
-| 332 | 242 | Lawanda Forbes |
-| 333 | 242 | Donna Chandler |
+| 332 | 242 | Donna Chandler |
+| 333 | 242 | Lawanda Forbes |
 | 334 | 241 | Sabrina Burton |
 | 335 | 240 | Adam Erikson |
 | 336 | 240 | Angie Marie |
@@ -406,18 +406,18 @@
 | 398 | 196 | Cass Shirley |
 | 399 | 195 | Snappy Shatterfit |
 | 400 | 195 | Emily Lyric Converse |
-| 401 | 194 | Mike Aprilliano |
-| 402 | 194 | Kimberly Ann |
+| 401 | 194 | Kimberly Ann |
+| 402 | 194 | Mike Aprilliano |
 | 403 | 194 | Hoppy Brickmatch |
-| 404 | 193 | Matthew Turner |
-| 405 | 193 | Kelly Ann McCormick |
+| 404 | 193 | Kelly Ann McCormick |
+| 405 | 193 | Matthew Turner |
 | 406 | 192 | Alyssa Nadine Medelez |
 | 407 | 191 | Lauren Fitzgerald Thomas |
-| 408 | 191 | Sho Nuff |
-| 409 | 191 | Deana |
-| 410 | 191 | John Quiring |
-| 411 | 190 | Layna Lyons |
-| 412 | 190 | Jessica Kaye DeAguero |
+| 408 | 191 | Deana |
+| 409 | 191 | John Quiring |
+| 410 | 191 | Sho Nuff |
+| 411 | 190 | Jessica Kaye DeAguero |
+| 412 | 190 | Layna Lyons |
 | 413 | 188 | Seth Wrieden |
 | 414 | 188 | Justin Hines |
 | 415 | 187 | Stefanie Zonzini-Gagliardi |

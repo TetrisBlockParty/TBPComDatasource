@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -168,8 +168,8 @@
 | 160 | 140 | Gumbo |
 | 161 | 135 | Cheryl Hinch Tenbrook |
 | 162 | 135 | Nicole Flippo |
-| 163 | 134 | Emma |
-| 164 | 134 | DanceLuvLaugh |
+| 163 | 134 | DanceLuvLaugh |
+| 164 | 134 | Emma |
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
 | 167 | 127 | Aerian Preston |
@@ -178,8 +178,8 @@
 | 170 | 127 | Marquita Sheard |
 | 171 | 126 | Brandon Givens |
 | 172 | 126 | Bryan Byrd |
-| 173 | 125 | Shimika Enay Wallace |
-| 174 | 125 | Felicia Doxey |
+| 173 | 125 | Felicia Doxey |
+| 174 | 125 | Shimika Enay Wallace |
 | 175 | 124 | Cesar Barraza |
 | 176 | 123 | Terry Jo Jones |
 | 177 | 123 | Kristie McFarland |
@@ -197,8 +197,8 @@
 | 189 | 118 | Fancy Curver |
 | 190 | 116 | BugMansMom |
 | 191 | 116 | Skinny Baldez |
-| 192 | 115 | Hoppy Buildout |
-| 193 | 115 | Jennifer Alvey |
+| 192 | 115 | Jennifer Alvey |
+| 193 | 115 | Hoppy Buildout |
 | 194 | 114 | Jessica Bechler |
 | 195 | 114 | Tiffany Davie |
 | 196 | 113 | Valerie Gendron |

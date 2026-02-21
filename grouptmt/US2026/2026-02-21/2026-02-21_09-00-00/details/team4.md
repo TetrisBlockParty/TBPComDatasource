@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -106,10 +106,10 @@
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
-| 101 | 130 | Lucas J Sutton |
-| 102 | 130 | Casey Jeffcoat |
-| 103 | 129 | Landon Keith Graffeo |
-| 104 | 129 | John Brunetti |
+| 101 | 130 | Casey Jeffcoat |
+| 102 | 130 | Lucas J Sutton |
+| 103 | 129 | John Brunetti |
+| 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
 | 107 | 123 | Nugget |
@@ -125,8 +125,8 @@
 | 117 | 118 | Leslie Nicole |
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
-| 120 | 115 | Ultramarine |
-| 121 | 115 | Jayk |
+| 120 | 115 | Jayk |
+| 121 | 115 | Ultramarine |
 | 122 | 113 | Stephme310 |
 | 123 | 113 | Andria Lynn |
 | 124 | 112 | Bryan Hodgins |
@@ -228,12 +228,12 @@
 | 220 | 68 | LS |
 | 221 | 68 | GBR |
 | 222 | 68 | 中山成巳 |
-| 223 | 67 | Frank Joseph Epson |
-| 224 | 67 | Laurie McGregor |
-| 225 | 67 | Dennis Bradley |
-| 226 | 67 | Cozy Framezone |
-| 227 | 67 | JPW |
-| 228 | 67 | mini |
+| 223 | 67 | Dennis Bradley |
+| 224 | 67 | Cozy Framezone |
+| 225 | 67 | Frank Joseph Epson |
+| 226 | 67 | Laurie McGregor |
+| 227 | 67 | mini |
+| 228 | 67 | JPW |
 | 229 | 66 | mitch |
 | 230 | 66 | Moonsterix |
 | 231 | 66 | Rebecca Blake |
