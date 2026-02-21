@@ -65,12 +65,12 @@
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Casey Grabner |
-| 61 | 165 | Courtney Cicoria |
+| 60 | 165 | Courtney Cicoria |
+| 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
-| 63 | 159 | Holly Jolly |
+| 63 | 159 | Swanky Fitline |
 | 64 | 159 | Justin Hannigan |
-| 65 | 159 | Swanky Fitline |
+| 65 | 159 | Holly Jolly |
 | 66 | 154 | ThaEviLJeNiuZ |
 | 67 | 153 | Jae Job |
 | 68 | 152 | Clarence Patawaran |
@@ -91,8 +91,8 @@
 | 83 | 131 | Zany Twisterfit |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | John Brunetti |
-| 87 | 129 | Landon Keith Graffeo |
+| 86 | 129 | Landon Keith Graffeo |
+| 87 | 129 | John Brunetti |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Nugget |
@@ -124,8 +124,8 @@
 | 116 | 105 | TheNeesh50 |
 | 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
-| 119 | 104 | Adam Randall |
-| 120 | 104 | YoMomma |
+| 119 | 104 | YoMomma |
+| 120 | 104 | Adam Randall |
 | 121 | 102 | Faja |
 | 122 | 101 | Michelle Morris |
 | 123 | 101 | Stephme310 |
@@ -187,10 +187,10 @@
 | 179 | 73 | April Rondinone |
 | 180 | 73 | bloat princess |
 | 181 | 73 | Rheanda Weaskus |
-| 182 | 72 | Joshua Cuellar |
-| 183 | 72 | Robin Getchel |
-| 184 | 71 | Lindsey Gonzalez |
-| 185 | 71 | Marcela Johnson |
+| 182 | 72 | Robin Getchel |
+| 183 | 72 | Joshua Cuellar |
+| 184 | 71 | Marcela Johnson |
+| 185 | 71 | Lindsey Gonzalez |
 | 186 | 70 | Richard-April Kice |
 | 187 | 69 | Carol Ricks Raymond |
 | 188 | 68 | LS |

@@ -160,8 +160,8 @@
 | 152 | 409 | Sparkles |
 | 153 | 406 | Erin StFrancis |
 | 154 | 401 | Poppy Snap |
-| 155 | 400 | Tammy Allen |
-| 156 | 400 | Crystie Hicks |
+| 155 | 400 | Crystie Hicks |
+| 156 | 400 | Tammy Allen |
 | 157 | 397 | Ashley Guernsey-Martin |
 | 158 | 391 | Steven Marshaun |
 | 159 | 391 | Chilly Bridgepiece |
@@ -352,8 +352,8 @@
 | 344 | 201 | Peppy Snapfall |
 | 345 | 200 | Sarah Ridenour |
 | 346 | 200 | Cheeky Brickmatch |
-| 347 | 199 | Jenny Castro |
-| 348 | 199 | Jessica Sutter |
+| 347 | 199 | Jessica Sutter |
+| 348 | 199 | Jenny Castro |
 | 349 | 198 | Angie Bolton Workman |
 | 350 | 198 | Alyssa Dean |
 | 351 | 196 | Besma Ao |
@@ -425,8 +425,8 @@
 | 417 | 167 | mshir |
 | 418 | 167 | Sabrena Yeisley |
 | 419 | 166 | suuny |
-| 420 | 165 | Cathy Bitters |
-| 421 | 165 | Austin Wilson |
+| 420 | 165 | Austin Wilson |
+| 421 | 165 | Cathy Bitters |
 | 422 | 164 | Jessica Vega |
 | 423 | 164 | Sara Pennington |
 | 424 | 163 | Albert McKnight |
@@ -478,8 +478,8 @@
 | 470 | 151 | D'Aaron Black |
 | 471 | 150 | Jodi Mitnick |
 | 472 | 150 | Candace Noel |
-| 473 | 149 | Boldy Cascadepiece |
-| 474 | 149 | Leslie Porter |
+| 473 | 149 | Leslie Porter |
+| 474 | 149 | Boldy Cascadepiece |
 | 475 | 149 | Melissa Rebbe-Lehman |
 | 476 | 148 | Shannon Byrd |
 | 477 | 147 | Amélie Cadieux |
@@ -620,8 +620,8 @@
 | 612 | 116 | SpaceCase085 |
 | 613 | 116 | BeenRich Theceo |
 | 614 | 116 | Patrick Langford |
-| 615 | 116 | Slimkaite |
-| 616 | 116 | Moua Ying |
+| 615 | 116 | Moua Ying |
+| 616 | 116 | Slimkaite |
 | 617 | 115 | Heather Schelkopf |
 | 618 | 115 | Melissa Schwager |
 | 619 | 115 | Jamie Brickley |

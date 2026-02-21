@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Suzieq |
-| 32 | 587 | Danielle Becker |
+| 31 | 587 | Danielle Becker |
+| 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
 | 34 | 551 | Danielle Cutler |
 | 35 | 546 | Snappy Glidepiece |
@@ -110,11 +110,11 @@
 | 102 | 195 | Nicha Hooker |
 | 103 | 195 | Jenny Hrndz |
 | 104 | 194 | glichmod |
-| 105 | 193 | Clever Shiftsnap |
-| 106 | 193 | Shunta Jacobs |
+| 105 | 193 | Shunta Jacobs |
+| 106 | 193 | Clever Shiftsnap |
 | 107 | 192 | Chasity |
-| 108 | 187 | Speedy Bridger |
-| 109 | 187 | Katrina Schroeder |
+| 108 | 187 | Katrina Schroeder |
+| 109 | 187 | Speedy Bridger |
 | 110 | 184 | Jennie Beranek |
 | 111 | 182 | Ashley Tookes |
 | 112 | 182 | Hyper Matchzone |
