@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Cranky Pattern |
-| 153 | 138 | Death |
+| 152 | 138 | Death |
+| 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |

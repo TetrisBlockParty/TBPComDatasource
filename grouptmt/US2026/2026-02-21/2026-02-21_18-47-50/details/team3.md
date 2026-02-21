@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Michael Lucado |
-| 163 | 195 | Nicha Hooker |
+| 162 | 195 | Nicha Hooker |
+| 163 | 195 | Michael Lucado |
 | 164 | 194 | glichmod |
 | 165 | 193 | Clever Shiftsnap |
 | 166 | 193 | Duane Bright |
@@ -194,9 +194,9 @@
 | 186 | 178 | Ryan Williams |
 | 187 | 178 | AlsoJess |
 | 188 | 177 | Trisha Balmer |
-| 189 | 175 | Tasha Wesson-Torrence |
-| 190 | 175 | DanceLuvLaugh |
-| 191 | 175 | Connie Mohler-Fair |
+| 189 | 175 | Connie Mohler-Fair |
+| 190 | 175 | Tasha Wesson-Torrence |
+| 191 | 175 | DanceLuvLaugh |
 | 192 | 174 | rosy |
 | 193 | 174 | Loopy Fallmatch |
 | 194 | 173 | Sarajane Lokan |
@@ -208,8 +208,8 @@
 | 200 | 166 | Kelly Ann Child |
 | 201 | 166 | Beth Ingham |
 | 202 | 165 | Kali Kelz Williams |
-| 203 | 163 | Stephanie Hill |
-| 204 | 163 | Christine Trester |
+| 203 | 163 | Christine Trester |
+| 204 | 163 | Stephanie Hill |
 | 205 | 162 | Stephanie Whitefield |
 | 206 | 161 | BŘŰŤİÇŨŚ |
 | 207 | 160 | Marquita Sheard |

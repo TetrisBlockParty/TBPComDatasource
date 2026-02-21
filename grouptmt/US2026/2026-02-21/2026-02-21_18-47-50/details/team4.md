@@ -51,8 +51,8 @@
 | 43 | 447 | Samantha Peterson |
 | 44 | 433 | Isabel Aguilar |
 | 45 | 427 | Tammi Crnza |
-| 46 | 411 | TeeJ |
-| 47 | 411 | Jonathan Kimbrough |
+| 46 | 411 | Jonathan Kimbrough |
+| 47 | 411 | TeeJ |
 | 48 | 399 | Jenna Ingersoll |
 | 49 | 397 | Courtney Cicoria |
 | 50 | 395 | Christine Marie |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Lucas J Sutton |
-| 80 | 230 | Autum Leigh |
+| 79 | 230 | Autum Leigh |
+| 80 | 230 | Lucas J Sutton |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
@@ -135,8 +135,8 @@
 | 127 | 156 | Jessica Bohlken |
 | 128 | 156 | Holly |
 | 129 | 153 | Empress Oasis |
-| 130 | 151 | Bethany Ison |
-| 131 | 151 | Dana Scott |
+| 130 | 151 | Dana Scott |
+| 131 | 151 | Bethany Ison |
 | 132 | 148 | Janita Parrish |
 | 133 | 148 | Brittany Marsh |
 | 134 | 147 | Jay28 |
