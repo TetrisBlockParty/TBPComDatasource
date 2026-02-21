@@ -131,13 +131,13 @@
 | 123 | 115 | Jennifer Alvey |
 | 124 | 114 | Jessica Bechler |
 | 125 | 111 | Joy Petroski |
-| 126 | 110 | Stella |
-| 127 | 110 | Tiff Vs Tiffany |
-| 128 | 109 | Boldy Corner |
-| 129 | 109 | Brian Battjes |
+| 126 | 110 | Tiff Vs Tiffany |
+| 127 | 110 | Stella |
+| 128 | 109 | Brian Battjes |
+| 129 | 109 | Boldy Corner |
 | 130 | 109 | Fredd Thomas |
-| 131 | 108 | Jay Horn |
-| 132 | 108 | Rachel Napper |
+| 131 | 108 | Rachel Napper |
+| 132 | 108 | Jay Horn |
 | 133 | 108 | Grams |
 | 134 | 107 | Sherry Ogden |
 | 135 | 107 | Bryan Byrd |
@@ -200,9 +200,9 @@
 | 192 | 78 | Angie Harper |
 | 193 | 78 | Nichole Greene |
 | 194 | 77 | Denise Marie |
-| 195 | 77 | Rania Zaqout |
-| 196 | 77 | Lush Risebuilder |
-| 197 | 77 | Nikki Pags |
+| 195 | 77 | Lush Risebuilder |
+| 196 | 77 | Nikki Pags |
+| 197 | 77 | Rania Zaqout |
 | 198 | 76 | Melissa Orth Hunter |
 | 199 | 76 | Oliver Neal II |
 | 200 | 76 | Chad Wilson |

@@ -39,8 +39,8 @@
 | 31 | 1050 | Corrine Hawks Soriano |
 | 32 | 1048 | KellyDyan |
 | 33 | 1043 | CoolKat |
-| 34 | 1010 | Sarah Freitas |
-| 35 | 1010 | Karen Kman Van Heirseele |
+| 34 | 1010 | Karen Kman Van Heirseele |
+| 35 | 1010 | Sarah Freitas |
 | 36 | 991 | Laura Marie Pelletier |
 | 37 | 990 | Crystalin Heath Lewis |
 | 38 | 902 | Venechia Berry |
@@ -89,8 +89,8 @@
 | 81 | 541 | SaraMarie Eveland |
 | 82 | 534 | Jerilyn Andrina |
 | 83 | 525 | Desiree Anderson |
-| 84 | 515 | Real Ri |
-| 85 | 515 | Kaylee McCafferty |
+| 84 | 515 | Kaylee McCafferty |
+| 85 | 515 | Real Ri |
 | 86 | 509 | Kelli Wells |
 | 87 | 505 | Amber Shoemaker |
 | 88 | 499 | Samantha Jo |
@@ -127,8 +127,8 @@
 | 119 | 401 | Poppy Snap |
 | 120 | 400 | Thomas Hedrick |
 | 121 | 399 | Crystie Hicks |
-| 122 | 397 | Destiny Cozier |
-| 123 | 397 | Ashley Guernsey-Martin |
+| 122 | 397 | Ashley Guernsey-Martin |
+| 123 | 397 | Destiny Cozier |
 | 124 | 391 | Chilly Bridgepiece |
 | 125 | 390 | Dustin Rains |
 | 126 | 386 | Ashie Ann |
@@ -347,8 +347,8 @@
 | 339 | 157 | Klee |
 | 340 | 157 | Jánine Riggs |
 | 341 | 156 | Deanna Morton |
-| 342 | 156 | Ramone Armstrong |
-| 343 | 156 | Nuggets |
+| 342 | 156 | Nuggets |
+| 343 | 156 | Ramone Armstrong |
 | 344 | 156 | Ashlyn Berner |
 | 345 | 155 | Chelle |
 | 346 | 155 | Monarca26 |
@@ -377,29 +377,29 @@
 | 369 | 144 | Kyle LeRoy Harris |
 | 370 | 143 | Angelica |
 | 371 | 142 | Frisky Clearpiece |
-| 372 | 142 | Joy LaJeunesse |
-| 373 | 142 | Angela Lynn |
+| 372 | 142 | Angela Lynn |
+| 373 | 142 | Joy LaJeunesse |
 | 374 | 141 | Erika Meaux |
 | 375 | 141 | Markisha Poyndexter |
 | 376 | 140 | Amber Gray |
 | 377 | 139 | RavensBeard |
 | 378 | 139 | Jackson Smith |
 | 379 | 139 | Octavio Garza |
-| 380 | 138 | Gursharan Sandhu |
-| 381 | 138 | King Shamell Young |
+| 380 | 138 | King Shamell Young |
+| 381 | 138 | Gursharan Sandhu |
 | 382 | 138 | Leah |
 | 383 | 138 | Ibiza Carolina LaRose |
 | 384 | 137 | Bette Prieto |
 | 385 | 135 | Robin L. Vial |
-| 386 | 135 | Michelle Loar |
-| 387 | 135 | Yemaja Obba Olokun |
+| 386 | 135 | Yemaja Obba Olokun |
+| 387 | 135 | Michelle Loar |
 | 388 | 134 | Candace Noel |
 | 389 | 134 | Quinn |
 | 390 | 134 | Christina Jones |
 | 391 | 134 | Sarah Massey |
 | 392 | 133 | Candy Pitts |
-| 393 | 133 | Britt Woolston |
-| 394 | 133 | Jess Orosz |
+| 393 | 133 | Jess Orosz |
+| 394 | 133 | Britt Woolston |
 | 395 | 133 | Poppy Gridder |
 | 396 | 133 | coleksquad |
 | 397 | 132 | Paula Snyder |

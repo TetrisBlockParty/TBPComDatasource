@@ -44,12 +44,12 @@
 | 36 | 179 | Epic Curvetile |
 | 37 | 174 | Jamie Mann-Deichmann |
 | 38 | 171 | Rachel Anne |
-| 39 | 170 | Leah Kutz Zirbel |
-| 40 | 170 | Girl |
+| 39 | 170 | Girl |
+| 40 | 170 | Leah Kutz Zirbel |
 | 41 | 168 | Anthony Magaraci |
 | 42 | 153 | Jae Job |
-| 43 | 152 | Denise Carlson |
-| 44 | 152 | Courtney Cicoria |
+| 43 | 152 | Courtney Cicoria |
+| 44 | 152 | Denise Carlson |
 | 45 | 148 | Carter Jones |
 | 46 | 145 | Edward White |
 | 47 | 140 | Shannon Ferrari |
@@ -134,8 +134,8 @@
 | 126 | 71 | Lazy Blocker |
 | 127 | 70 | Valerie Roberts |
 | 128 | 70 | Richard-April Kice |
-| 129 | 69 | Michelle Marie |
-| 130 | 69 | Carol Ricks Raymond |
+| 129 | 69 | Carol Ricks Raymond |
+| 130 | 69 | Michelle Marie |
 | 131 | 68 | LS |
 | 132 | 67 | Frank Joseph Epson |
 | 133 | 67 | Lindsey Gonzalez |
