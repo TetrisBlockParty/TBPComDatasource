@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Giddy Drop |
-| 59 | 528 | Natasha Jones |
+| 58 | 528 | Natasha Jones |
+| 59 | 528 | Giddy Drop |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | Rich LeBlanc |
-| 111 | 309 | CeceGeGe |
+| 110 | 309 | CeceGeGe |
+| 111 | 309 | Rich LeBlanc |
 | 112 | 307 | Blocked |
 | 113 | 307 | Peggi Charon |
 | 114 | 300 | Sherika C. McDaniels |

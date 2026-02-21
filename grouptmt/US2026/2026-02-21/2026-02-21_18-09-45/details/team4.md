@@ -35,8 +35,8 @@
 | 27 | 589 | Chilly Line |
 | 28 | 546 | LisaJo Picken Buchanan |
 | 29 | 541 | Rebecca Moulton Pinciaro |
-| 30 | 494 | Rodney McMath Jr. |
-| 31 | 494 | Misty Hollibaugh |
+| 30 | 494 | Misty Hollibaugh |
+| 31 | 494 | Rodney McMath Jr. |
 | 32 | 486 | Landon Keith Graffeo |
 | 33 | 483 | Carmethia Clemons Haslerig |
 | 34 | 483 | Kimberly Love |
@@ -68,8 +68,8 @@
 | 60 | 334 | Leslie Thomas |
 | 61 | 309 | Lisa Davis |
 | 62 | 308 | Jen Allison |
-| 63 | 300 | David Lay |
-| 64 | 300 | Jason Hart |
+| 63 | 300 | Jason Hart |
+| 64 | 300 | David Lay |
 | 65 | 299 | Livvy |
 | 66 | 295 | Latisha Davis |
 | 67 | 293 | HastyGrabber |

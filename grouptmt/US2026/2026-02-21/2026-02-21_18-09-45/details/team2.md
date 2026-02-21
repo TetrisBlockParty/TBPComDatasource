@@ -184,8 +184,8 @@
 | 176 | 569 | Vaniel Glover |
 | 177 | 563 | goofinoff |
 | 178 | 563 | Maria Escobar |
-| 179 | 549 | Kaylee McCafferty |
-| 180 | 549 | Charvi' Carter |
+| 179 | 549 | Charvi' Carter |
+| 180 | 549 | Kaylee McCafferty |
 | 181 | 545 | Leslie Ann Carter |
 | 182 | 543 | Diana Fitzwater |
 | 183 | 541 | SaraMarie Eveland |
@@ -198,12 +198,12 @@
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |
 | 192 | 527 | Adira Brown |
-| 193 | 526 | Ashley Guernsey-Martin |
-| 194 | 526 | April Dawn Gussler |
-| 195 | 525 | Tommy Tha Boss Gunz |
-| 196 | 525 | Desiree Anderson |
-| 197 | 522 | Slip |
-| 198 | 522 | Mema |
+| 193 | 526 | April Dawn Gussler |
+| 194 | 526 | Ashley Guernsey-Martin |
+| 195 | 525 | Desiree Anderson |
+| 196 | 525 | Tommy Tha Boss Gunz |
+| 197 | 522 | Mema |
+| 198 | 522 | Slip |
 | 199 | 521 | Joce Lynn |
 | 200 | 519 | Rob Brown |
 | 201 | 516 | Missie Lawson Gebhardt |
@@ -289,8 +289,8 @@
 | 281 | 393 | Altamirano Michael |
 | 282 | 393 | Taylor Flowers |
 | 283 | 391 | Qiana Sanders |
-| 284 | 391 | Brenda Utphall |
-| 285 | 391 | Chilly Bridgepiece |
+| 284 | 391 | Chilly Bridgepiece |
+| 285 | 391 | Brenda Utphall |
 | 286 | 390 | Kimberly Randesi |
 | 287 | 389 | Kristen O'Neal |
 | 288 | 386 | Deanna Morton |
@@ -335,8 +335,8 @@
 | 327 | 345 | Angie Bolton Workman |
 | 328 | 345 | Victoria Moore-Smith |
 | 329 | 345 | Rhianna DiLorenzo |
-| 330 | 344 | Glenn Cobbins |
-| 331 | 344 | Ginger |
+| 330 | 344 | Ginger |
+| 331 | 344 | Glenn Cobbins |
 | 332 | 344 | Bussyiano Page |
 | 333 | 343 | F-X |
 | 334 | 341 | Melissa Rebbe-Lehman |
@@ -386,8 +386,8 @@
 | 378 | 314 | Amanda West |
 | 379 | 312 | Andrea Maher |
 | 380 | 312 | Michelle Pike |
-| 381 | 309 | Autumn Schaeffer |
-| 382 | 309 | Catina Hutchison |
+| 381 | 309 | Catina Hutchison |
+| 382 | 309 | Autumn Schaeffer |
 | 383 | 309 | James Zaragoza |
 | 384 | 305 | Libby Hicks |
 | 385 | 305 | Zany Clusterbuilder |
@@ -761,8 +761,8 @@
 | 753 | 158 | Connie Lepore-Mann |
 | 754 | 158 | Jas |
 | 755 | 157 | Preya Patel |
-| 756 | 157 | Sassy Pivot |
-| 757 | 157 | Ty Quarles |
+| 756 | 157 | Ty Quarles |
+| 757 | 157 | Sassy Pivot |
 | 758 | 156 | Tara Creel |
 | 759 | 156 | Renee Bowers |
 | 760 | 156 | Elizabeth Cotton |
@@ -774,8 +774,8 @@
 | 766 | 155 | Tyler C. Jung |
 | 767 | 155 | Zachary Boyarski |
 | 768 | 154 | Jai |
-| 769 | 154 | Fancy Setter |
-| 770 | 154 | Brian Easterday |
+| 769 | 154 | Brian Easterday |
+| 770 | 154 | Fancy Setter |
 | 771 | 154 | Lori Maring |
 | 772 | 154 | Bryan Werleman |
 | 773 | 154 | Lydia Greenman |

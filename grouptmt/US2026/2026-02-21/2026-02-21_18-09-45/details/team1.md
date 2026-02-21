@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -187,8 +187,8 @@
 | 179 | 120 | Kimmie Kimms |
 | 180 | 119 | Tater |
 | 181 | 116 | Jessica Russell |
-| 182 | 115 | Chuck Gannon |
-| 183 | 115 | Mrs.Patrica |
+| 182 | 115 | Mrs.Patrica |
+| 183 | 115 | Chuck Gannon |
 | 184 | 113 | Desiree Deschaine Havee |
 | 185 | 112 | Chris65 |
 | 186 | 111 | Mark Smith |
@@ -311,7 +311,7 @@
 | 303 | 73 | Phredda Compton |
 | 304 | 71 | Erin Hodges Plumb |
 | 305 | 71 | Ruthie Mahoney Saunders-Browne |
-| 306 | 71 | Erin Hodges Plumb |
+| 306 | 71 | J.D3D.D |
 | 307 | 71 | Jamie Farrar |
 | 308 | 71 | MomMom |
 | 309 | 70 | Kenton Billings |
