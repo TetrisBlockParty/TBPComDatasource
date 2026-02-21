@@ -130,8 +130,8 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
@@ -153,14 +153,14 @@
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Beth Ingham |
-| 149 | 153 | Stephanie Whitefield |
+| 148 | 153 | Stephanie Whitefield |
+| 149 | 153 | Beth Ingham |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
-| 153 | 149 | Bea Miles |
-| 154 | 149 | Angel Mendez |
-| 155 | 149 | Trisha Balmer |
+| 153 | 149 | Angel Mendez |
+| 154 | 149 | Trisha Balmer |
+| 155 | 149 | Bea Miles |
 | 156 | 147 | Sashay Tapae Simpson |
 | 157 | 146 | Denita Mungro |
 | 158 | 146 | Latoya Mayne |
@@ -181,8 +181,8 @@
 | 173 | 127 | Aerian Preston |
 | 174 | 127 | Joy Petroski |
 | 175 | 126 | Brandon Givens |
-| 176 | 125 | Felicia Doxey |
-| 177 | 125 | Shimika Enay Wallace |
+| 176 | 125 | Shimika Enay Wallace |
+| 177 | 125 | Felicia Doxey |
 | 178 | 124 | Cesar Barraza |
 | 179 | 123 | Kristie McFarland |
 | 180 | 123 | Terry Jo Jones |
@@ -254,8 +254,8 @@
 | 246 | 96 | Hanna Kim |
 | 247 | 96 | Christopher Woost |
 | 248 | 96 | D3NO |
-| 249 | 95 | Brooke Bauer |
-| 250 | 95 | MizzMonick Smith |
+| 249 | 95 | MizzMonick Smith |
+| 250 | 95 | Brooke Bauer |
 | 251 | 94 | Angie Harper |
 | 252 | 93 | Tiffany Ford |
 | 253 | 92 | Trice Thomas |

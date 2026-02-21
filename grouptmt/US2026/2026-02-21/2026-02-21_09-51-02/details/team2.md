@@ -114,8 +114,8 @@
 | 106 | 649 | Anna Edwards |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Loopy Clusterbuilder |
-| 110 | 631 | Peppy Zone |
+| 109 | 631 | Peppy Zone |
+| 110 | 631 | Loopy Clusterbuilder |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -281,8 +281,8 @@
 | 273 | 279 | Nika Bee |
 | 274 | 278 | Noel Tarmy |
 | 275 | 276 | Lindsey Leigh |
-| 276 | 276 | SwampRebel |
-| 277 | 276 | Vonceial Boone |
+| 276 | 276 | Vonceial Boone |
+| 277 | 276 | SwampRebel |
 | 278 | 275 | Cheeky Brickmatch |
 | 279 | 275 | Shiny Rollzone |
 | 280 | 275 | Ann Matzkanin |
@@ -336,8 +336,8 @@
 | 328 | 247 | Fancy Twister |
 | 329 | 247 | Andrea Devery Beck |
 | 330 | 246 | Kathryn Townsley |
-| 331 | 246 | Ashley Lopez |
-| 332 | 246 | Stephanie Lumanlan |
+| 331 | 246 | Stephanie Lumanlan |
+| 332 | 246 | Ashley Lopez |
 | 333 | 245 | Rachael Senard |
 | 334 | 245 | Taryece Gause |
 | 335 | 245 | Mischelle Clay |
@@ -367,8 +367,8 @@
 | 359 | 229 | Kimmy Newman |
 | 360 | 228 | Michelle Sager |
 | 361 | 227 | Nutty Matchline |
-| 362 | 227 | JacJac |
-| 363 | 227 | Sanaa Nounoussa |
+| 362 | 227 | Sanaa Nounoussa |
+| 363 | 227 | JacJac |
 | 364 | 227 | Demeka Dangerous-kisses Johnson |
 | 365 | 226 | Leslie Ann Carter |
 | 366 | 226 | Mary Marie |
@@ -394,8 +394,8 @@
 | 386 | 207 | Shylee Tilman |
 | 387 | 206 | Neko Preston |
 | 388 | 206 | RAEPR05 |
-| 389 | 205 | Lylymom |
-| 390 | 205 | ElizabethAnn Dickinson |
+| 389 | 205 | ElizabethAnn Dickinson |
+| 390 | 205 | Lylymom |
 | 391 | 204 | Ali Gralski |
 | 392 | 204 | Rebecca Doughman |
 | 393 | 203 | Gary Stash |
@@ -718,7 +718,7 @@
 | 710 | 117 | Keri Higuchi |
 | 711 | 117 | BeaNzMaMa |
 | 712 | 117 | Myleaha Holley |
-| 713 | 117 | Keri Higuchi |
+| 713 | 117 | BrokeBetty |
 | 714 | 117 | Cody Kelsey |
 | 715 | 117 | Joann |
 | 716 | 117 | Kelli Clark |

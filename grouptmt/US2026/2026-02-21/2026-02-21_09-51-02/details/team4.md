@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -76,16 +76,16 @@
 | 68 | 179 | Epic Curvetile |
 | 69 | 175 | Dustee Craddock-Harrison |
 | 70 | 173 | Jeff Brian Gates |
-| 71 | 171 | Melvin Baird |
-| 72 | 171 | Zethra Prenisha Rahming |
-| 73 | 170 | Leah Kutz Zirbel |
-| 74 | 170 | Girl |
+| 71 | 171 | Zethra Prenisha Rahming |
+| 72 | 171 | Melvin Baird |
+| 73 | 170 | Girl |
+| 74 | 170 | Leah Kutz Zirbel |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -99,13 +99,13 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Melissa Priest Sellers |
-| 95 | 132 | Degenerate |
-| 96 | 132 | Jessica Cagle |
+| 94 | 132 | Jessica Cagle |
+| 95 | 132 | Melissa Priest Sellers |
+| 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
-| 99 | 131 | Zany Twisterfit |
-| 100 | 131 | Dana Scott |
+| 99 | 131 | Dana Scott |
+| 100 | 131 | Zany Twisterfit |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
 | 103 | 129 | Landon Keith Graffeo |
@@ -124,8 +124,8 @@
 | 116 | 120 | Joshua Guess |
 | 117 | 119 | Kristin Manee |
 | 118 | 118 | Leslie Nicole |
-| 119 | 116 | Diana Houts |
-| 120 | 116 | Serena Goodridge |
+| 119 | 116 | Serena Goodridge |
+| 120 | 116 | Diana Houts |
 | 121 | 115 | Jayk |
 | 122 | 115 | Ultramarine |
 | 123 | 113 | Stephme310 |
@@ -214,8 +214,8 @@
 | 206 | 76 | Madison Sweere |
 | 207 | 76 | Crystal Lynn |
 | 208 | 76 | Bethany Ison |
-| 209 | 75 | Rosemary Foster |
-| 210 | 75 | Christina Black |
+| 209 | 75 | Christina Black |
+| 210 | 75 | Rosemary Foster |
 | 211 | 74 | Krs |
 | 212 | 74 | Tyler Terrific |
 | 213 | 73 | Lynn Marie |
