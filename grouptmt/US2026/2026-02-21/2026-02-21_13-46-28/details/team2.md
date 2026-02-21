@@ -175,8 +175,8 @@
 | 167 | 495 | Poppy Snap |
 | 168 | 488 | Teresa Gillmore |
 | 169 | 486 | MrsCandyfine As Wine Truss |
-| 170 | 485 | Leah Keesling |
-| 171 | 485 | Gene Mills |
+| 170 | 485 | Gene Mills |
+| 171 | 485 | Leah Keesling |
 | 172 | 484 | Suki Kaur |
 | 173 | 483 | Jordan Kaiser |
 | 174 | 482 | Eckoman518 |
@@ -386,8 +386,8 @@
 | 378 | 252 | Alyssia Tancredi |
 | 379 | 251 | Ann Knutson Anderson |
 | 380 | 250 | Steve Man |
-| 381 | 249 | Porsche' Nicole |
-| 382 | 249 | Nicky Jackson |
+| 381 | 249 | Nicky Jackson |
+| 382 | 249 | Porsche' Nicole |
 | 383 | 248 | Aimee Byrom |
 | 384 | 248 | Maddy Petersen |
 | 385 | 248 | Dany Murillo |

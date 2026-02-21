@@ -32,12 +32,12 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Briarblack |
-| 28 | 867 | Delilah belle |
+| 27 | 867 | Delilah belle |
+| 28 | 867 | Briarblack |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
-| 31 | 810 | Shane Wilson Jr. |
-| 32 | 810 | Zippy Strikesnap |
+| 31 | 810 | Zippy Strikesnap |
+| 32 | 810 | Shane Wilson Jr. |
 | 33 | 772 | Corie A. Brinson |
 | 34 | 733 | Chummy Shatterer |
 | 35 | 714 | Amber Jones |
@@ -131,12 +131,12 @@
 | 123 | 204 | Aaron Pitkin |
 | 124 | 202 | Twisty Brick LT |
 | 125 | 199 | joclisa |
-| 126 | 195 | Jenny Hrndz |
-| 127 | 195 | Nicha Hooker |
+| 126 | 195 | Nicha Hooker |
+| 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Clever Shiftsnap |
-| 131 | 193 | Duane Bright |
+| 130 | 193 | Duane Bright |
+| 131 | 193 | Clever Shiftsnap |
 | 132 | 192 | Chasity |
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
@@ -196,8 +196,8 @@
 | 188 | 140 | Gumbo |
 | 189 | 137 | Aerian Preston |
 | 190 | 136 | Boldy Corner |
-| 191 | 135 | Cheryl Hinch Tenbrook |
-| 192 | 135 | Connie Mohler-Fair |
+| 191 | 135 | Connie Mohler-Fair |
+| 192 | 135 | Cheryl Hinch Tenbrook |
 | 193 | 134 | Emma |
 | 194 | 133 | Joy Petroski |
 | 195 | 131 | Jl |
@@ -206,8 +206,8 @@
 | 198 | 128 | Jen Lewis |
 | 199 | 127 | Marquita Sheard |
 | 200 | 126 | Brandon Givens |
-| 201 | 125 | Felicia Doxey |
-| 202 | 125 | Shimika Enay Wallace |
+| 201 | 125 | Shimika Enay Wallace |
+| 202 | 125 | Felicia Doxey |
 | 203 | 124 | Cesar Barraza |
 | 204 | 123 | Sarajane Lokan |
 | 205 | 123 | Marci Mize Fandrich |
@@ -241,10 +241,10 @@
 | 233 | 109 | mommablock |
 | 234 | 109 | Brave Brickster |
 | 235 | 108 | LaTanya GeminiondaRise Johnson |
-| 236 | 108 | Hanna Kim |
-| 237 | 108 | Rachel Napper |
-| 238 | 107 | Sherry Ogden |
-| 239 | 107 | France Vézina |
+| 236 | 108 | Rachel Napper |
+| 237 | 108 | Hanna Kim |
+| 238 | 107 | France Vézina |
+| 239 | 107 | Sherry Ogden |
 | 240 | 107 | Bouncy Blockbuilder |
 | 241 | 106 | Noettín Kan Zasnemoore |
 | 242 | 106 | Rachel |
@@ -305,8 +305,8 @@
 | 297 | 89 | Zac Hudak |
 | 298 | 88 | Kevin Russell |
 | 299 | 88 | Kate Farok |
-| 300 | 88 | RickyG |
-| 301 | 88 | Kevin Russell |
+| 300 | 88 | Kelly Koenig |
+| 301 | 88 | RickyG |
 | 302 | 88 | Dapper Towerfit |
 | 303 | 87 | FATTY |
 | 304 | 87 | Chris Bell |
