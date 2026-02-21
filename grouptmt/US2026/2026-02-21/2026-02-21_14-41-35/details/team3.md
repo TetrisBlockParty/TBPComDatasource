@@ -152,8 +152,8 @@
 | 144 | 189 | Staci George Fitzsimmons |
 | 145 | 189 | Fallorina Susana |
 | 146 | 184 | Jennie Beranek |
-| 147 | 182 | Ashley Tookes |
-| 148 | 182 | Hyper Matchzone |
+| 147 | 182 | Hyper Matchzone |
+| 148 | 182 | Ashley Tookes |
 | 149 | 181 | Aerian Preston |
 | 150 | 181 | Karon Griffin |
 | 151 | 179 | Daira Largen |
@@ -234,9 +234,9 @@
 | 226 | 121 | Valerie Gendron |
 | 227 | 121 | Juliana Dottore |
 | 228 | 121 | Loopy Clusterer |
-| 229 | 120 | Jessica |
+| 229 | 120 | Eon Harris |
 | 230 | 120 | Lys |
-| 231 | 120 | Eon Harris |
+| 231 | 120 | Jessica |
 | 232 | 118 | Skinny Baldez |
 | 233 | 118 | Sabrina Hardrick |
 | 234 | 118 | Fancy Curver |
@@ -360,7 +360,7 @@
 | 352 | 77 | Jess Reppert |
 | 353 | 77 | Denise Marie |
 | 354 | 77 | Bekah Dietrich |
-| 355 | 77 | Denise Marie |
+| 355 | 77 | Tommy Proctor |
 | 356 | 77 | Tanesha BigBabby Darling |
 | 357 | 76 | Kammy Hill |
 | 358 | 76 | Alma M Brown |

@@ -138,8 +138,8 @@
 | 130 | 134 | Trina Gee |
 | 131 | 133 | Breanna Luna |
 | 132 | 132 | Cody Gates |
-| 133 | 132 | Davery Spencer Adair |
-| 134 | 132 | LaQuetta Faith Hines |
+| 133 | 132 | LaQuetta Faith Hines |
+| 134 | 132 | Davery Spencer Adair |
 | 135 | 131 | Uhog SF |
 | 136 | 130 | Dandy Basegrid |
 | 137 | 129 | Dino |

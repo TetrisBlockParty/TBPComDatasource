@@ -138,8 +138,8 @@
 | 130 | 631 | Peppy Zone |
 | 131 | 620 | BYM4L |
 | 132 | 619 | Jamie Otero |
-| 133 | 608 | Sommer Shope |
-| 134 | 608 | John Bednarik |
+| 133 | 608 | John Bednarik |
+| 134 | 608 | Sommer Shope |
 | 135 | 604 | Amber Shoemaker |
 | 136 | 603 | Cassie Maynard |
 | 137 | 602 | L3sli3 |
@@ -199,14 +199,14 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ariel |
-| 195 | 464 | Ryan Gunther |
+| 194 | 464 | Ryan Gunther |
+| 195 | 464 | Ariel |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
-| 199 | 453 | Em Chen |
+| 199 | 453 | Mischelle Clay |
 | 200 | 453 | Osun Anuket Esu |
-| 201 | 453 | Mischelle Clay |
+| 201 | 453 | Em Chen |
 | 202 | 452 | Alezandra Smith |
 | 203 | 450 | Giggy Blocker |
 | 204 | 448 | Jojo Momma |

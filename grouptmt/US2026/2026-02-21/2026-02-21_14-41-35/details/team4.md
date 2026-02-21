@@ -80,8 +80,8 @@
 | 72 | 207 | Jae Job |
 | 73 | 205 | Sarah Neathery |
 | 74 | 204 | Brittney Orengo |
-| 75 | 198 | Dustee Craddock-Harrison |
-| 76 | 198 | Mike Solo |
+| 75 | 198 | Mike Solo |
+| 76 | 198 | Dustee Craddock-Harrison |
 | 77 | 194 | Jamie Mann-Deichmann |
 | 78 | 191 | loulou |
 | 79 | 189 | Calvin Dennis |
@@ -174,7 +174,7 @@
 | 166 | 105 | Sam Middleton |
 | 167 | 104 | Damn Libra |
 | 168 | 103 | Judy Cox |
-| 169 | 102 | Faja |
+| 169 | 102 | April Rondinone |
 | 170 | 102 | Autumn Kumzi |
 | 171 | 102 | Faja |
 | 172 | 101 | Saulc1991 |
