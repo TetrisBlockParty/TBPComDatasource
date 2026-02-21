@@ -390,8 +390,8 @@
 | 382 | 251 | Ann Knutson Anderson |
 | 383 | 250 | Steve Man |
 | 384 | 250 | Anthony Mignacca |
-| 385 | 249 | Porsche' Nicole |
-| 386 | 249 | Nicky Jackson |
+| 385 | 249 | Nicky Jackson |
+| 386 | 249 | Porsche' Nicole |
 | 387 | 248 | Aimee Byrom |
 | 388 | 248 | Warren Marleau |
 | 389 | 248 | Dany Murillo |
@@ -432,8 +432,8 @@
 | 424 | 229 | Justin Hines |
 | 425 | 228 | Michelle Sager |
 | 426 | 227 | JacJac |
-| 427 | 226 | Mary Marie |
-| 428 | 226 | Jodi Mitnick |
+| 427 | 226 | Jodi Mitnick |
+| 428 | 226 | Mary Marie |
 | 429 | 226 | Juliana Marques Do Nascimento Gordy |
 | 430 | 224 | Alice Ball |
 | 431 | 223 | Jess Morrison |
@@ -460,20 +460,20 @@
 | 452 | 207 | Shylee Tilman |
 | 453 | 206 | Neko Preston |
 | 454 | 206 | RAEPR05 |
-| 455 | 205 | Tj Ball |
-| 456 | 205 | ElizabethAnn Dickinson |
+| 455 | 205 | ElizabethAnn Dickinson |
+| 456 | 205 | Tj Ball |
 | 457 | 204 | Ali Gralski |
 | 458 | 204 | Ryan Lauer |
-| 459 | 204 | Rebecca Doughman |
-| 460 | 204 | Nicolle Danielle |
+| 459 | 204 | Nicolle Danielle |
+| 460 | 204 | Rebecca Doughman |
 | 461 | 202 | Layna Lyons |
 | 462 | 202 | Lauren Fitzgerald Thomas |
 | 463 | 202 | Sassy Linkbuilder |
 | 464 | 201 | Peppy Snapfall |
 | 465 | 201 | Twisty Tetriblast |
 | 466 | 200 | Biggest thing |
-| 467 | 200 | LaWanda Powell |
-| 468 | 200 | Sarah Ridenour |
+| 467 | 200 | Sarah Ridenour |
+| 468 | 200 | LaWanda Powell |
 | 469 | 199 | Fi Ne |
 | 470 | 199 | Jenny Castro |
 | 471 | 199 | Alyssa Nadine Medelez |

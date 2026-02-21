@@ -62,8 +62,8 @@
 | 54 | 256 | Robert Benito |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
-| 57 | 244 | Tdub |
-| 58 | 244 | Franswa |
+| 57 | 244 | Franswa |
+| 58 | 244 | Tdub |
 | 59 | 240 | Rachael |
 | 60 | 226 | Sharon Reynolds |
 | 61 | 225 | Elaine Elaine |
@@ -74,8 +74,8 @@
 | 66 | 208 | Mandyy Rae |
 | 67 | 208 | Carrie Beck Geartz |
 | 68 | 205 | Trippy Redd |
-| 69 | 204 | Ly Phethmany |
-| 70 | 204 | Lexuriuos Lifestlye |
+| 69 | 204 | Lexuriuos Lifestlye |
+| 70 | 204 | Ly Phethmany |
 | 71 | 202 | Dee Perry |
 | 72 | 201 | Anaid Sanchez |
 | 73 | 201 | Ryan Lunnin |
@@ -97,8 +97,8 @@
 | 89 | 173 | Frothy Pattern |
 | 90 | 173 | june october |
 | 91 | 171 | Greg Premoe |
-| 92 | 168 | Redlicious 1 |
-| 93 | 168 | Brandi Huntington |
+| 92 | 168 | Brandi Huntington |
+| 93 | 168 | Redlicious 1 |
 | 94 | 166 | Rico Rico |
 | 95 | 165 | GATOR |
 | 96 | 163 | Chad Atchley |
@@ -118,8 +118,8 @@
 | 110 | 146 | Irual Hctrab |
 | 111 | 146 | Tanya Carpenter-Reynolds |
 | 112 | 145 | BigWeenie69 |
-| 113 | 144 | femmefatale |
-| 114 | 144 | Plucky Ziggy |
+| 113 | 144 | Plucky Ziggy |
+| 114 | 144 | femmefatale |
 | 115 | 143 | Sarah Marie |
 | 116 | 142 | Colleen Wise |
 | 117 | 141 | Blaire Bruckoff |
@@ -149,8 +149,8 @@
 | 141 | 118 | Barry Mac'Ockner |
 | 142 | 117 | Adele Rahman |
 | 143 | 116 | Evie Khalil |
-| 144 | 115 | Chuck Gannon |
-| 145 | 115 | Mrs.Patrica |
+| 144 | 115 | Mrs.Patrica |
+| 145 | 115 | Chuck Gannon |
 | 146 | 113 | Desiree Deschaine Havee |
 | 147 | 112 | Carolyn Smith |
 | 148 | 112 | Flashy Rotator |
@@ -222,7 +222,7 @@
 | 214 | 80 | pjbeta |
 | 215 | 79 | George Dalton |
 | 216 | 79 | Christina Torres |
-| 217 | 79 | George Dalton |
+| 217 | 79 | Cheeky Pop |
 | 218 | 78 | Kerry Lee Powell |
 | 219 | 77 | Silly Align |
 | 220 | 77 | LaFontaine Leslie |

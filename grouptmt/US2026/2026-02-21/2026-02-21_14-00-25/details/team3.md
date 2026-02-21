@@ -135,14 +135,14 @@
 | 127 | 195 | Nicha Hooker |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Clever Shiftsnap |
-| 131 | 193 | Duane Bright |
+| 130 | 193 | Duane Bright |
+| 131 | 193 | Clever Shiftsnap |
 | 132 | 192 | Chasity |
 | 133 | 192 | Joe-Maggie Mathews |
 | 134 | 191 | Scott Carleton |
 | 135 | 191 | Giddy Twistbuilder |
-| 136 | 189 | Staci George Fitzsimmons |
-| 137 | 189 | Fallorina Susana |
+| 136 | 189 | Fallorina Susana |
+| 137 | 189 | Staci George Fitzsimmons |
 | 138 | 189 | Sissy Lowery Davis |
 | 139 | 185 | Logan Naccarato |
 | 140 | 184 | Jennie Beranek |

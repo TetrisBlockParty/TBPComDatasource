@@ -133,8 +133,8 @@
 | 125 | 126 | TinyLegoRose |
 | 126 | 126 | Klo |
 | 127 | 124 | Allen Lloyd |
-| 128 | 123 | Cherrish Duren |
-| 129 | 123 | Angela Geist Jusinski |
+| 128 | 123 | Angela Geist Jusinski |
+| 129 | 123 | Cherrish Duren |
 | 130 | 122 | Sherri |
 | 131 | 121 | Megan Cutshaw |
 | 132 | 121 | blockstar |
