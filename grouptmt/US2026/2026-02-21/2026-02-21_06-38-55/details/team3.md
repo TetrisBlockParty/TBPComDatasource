@@ -38,8 +38,8 @@
 | 30 | 612 | Danielle Cutler |
 | 31 | 608 | River |
 | 32 | 598 | Jennifer Willis |
-| 33 | 587 | Danielle Becker |
-| 34 | 587 | Suzieq |
+| 33 | 587 | Suzieq |
+| 34 | 587 | Danielle Becker |
 | 35 | 568 | Shonna Roberts |
 | 36 | 546 | Dolores Falco |
 | 37 | 546 | Snappy Glidepiece |
@@ -97,8 +97,8 @@
 | 89 | 224 | Mykal Burton |
 | 90 | 223 | Jeana Gilbert |
 | 91 | 222 | Jimmie Clemons |
-| 92 | 218 | Judi Dobson |
-| 93 | 218 | mjl574 |
+| 92 | 218 | mjl574 |
+| 93 | 218 | Judi Dobson |
 | 94 | 214 | Amy Fuller Heaton |
 | 95 | 213 | Tom Nault |
 | 96 | 207 | rnr junky |
@@ -107,8 +107,8 @@
 | 99 | 202 | Shannon Matthew Byers |
 | 100 | 200 | Twisty Brick LT |
 | 101 | 199 | joclisa |
-| 102 | 195 | Jenny Hrndz |
-| 103 | 195 | Nicha Hooker |
+| 102 | 195 | Nicha Hooker |
+| 103 | 195 | Jenny Hrndz |
 | 104 | 194 | glichmod |
 | 105 | 193 | Shunta Jacobs |
 | 106 | 193 | Clever Shiftsnap |
@@ -201,8 +201,8 @@
 | 193 | 104 | mommablock |
 | 194 | 104 | bean |
 | 195 | 103 | BabyTonj Evans |
-| 196 | 102 | Kali Kelz Williams |
-| 197 | 102 | Carol Cain Thurman |
+| 196 | 102 | Carol Cain Thurman |
+| 197 | 102 | Kali Kelz Williams |
 | 198 | 101 | Mendoza Lee Christy |
 | 199 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 200 | 101 | Hyper Bridger |

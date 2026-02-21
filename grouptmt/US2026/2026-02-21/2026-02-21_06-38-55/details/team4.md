@@ -25,8 +25,8 @@
 | 17 | 446 | Valerie Roberts |
 | 18 | 402 | Samantha Peterson |
 | 19 | 390 | Alicia Bass |
-| 20 | 383 | Johnathan Martinez |
-| 21 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Johnathan Martinez |
 | 22 | 377 | Edward White |
 | 23 | 373 | Rodney McMath Jr. |
 | 24 | 345 | Ancient Intuition |
@@ -114,8 +114,8 @@
 | 106 | 112 | Brittany Marsh |
 | 107 | 112 | Austin Owens |
 | 108 | 112 | Bryan Hodgins |
-| 109 | 111 | Lazy Blocker |
-| 110 | 111 | Gwendolyn Pitcairn |
+| 109 | 111 | Gwendolyn Pitcairn |
+| 110 | 111 | Lazy Blocker |
 | 111 | 110 | H.R. Block |
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |

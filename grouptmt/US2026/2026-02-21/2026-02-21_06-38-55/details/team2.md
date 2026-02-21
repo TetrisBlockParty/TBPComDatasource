@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -147,8 +147,8 @@
 | 139 | 455 | Alicia Parrish |
 | 140 | 453 | Osun Anuket Esu |
 | 141 | 450 | Giggy Blocker |
-| 142 | 448 | Jojo Momma |
-| 143 | 448 | Nick Jensen |
+| 142 | 448 | Nick Jensen |
+| 143 | 448 | Jojo Momma |
 | 144 | 442 | Daphne Jordan |
 | 145 | 440 | BYM4L |
 | 146 | 431 | Slip |
@@ -171,8 +171,8 @@
 | 163 | 381 | Amanda Ferrell |
 | 164 | 380 | Joshua Mandel |
 | 165 | 380 | Calandra Shaya Robinson |
-| 166 | 377 | Roy Salyer |
-| 167 | 377 | Liberty |
+| 166 | 377 | Liberty |
+| 167 | 377 | Roy Salyer |
 | 168 | 365 | April Dawn Gussler |
 | 169 | 364 | Shinette Dobson |
 | 170 | 363 | William Meussner |
@@ -198,8 +198,8 @@
 | 190 | 334 | Moni Foxe |
 | 191 | 332 | TF Dyer |
 | 192 | 330 | Victoria Moore-Smith |
-| 193 | 328 | Marie Boyd Faulk |
-| 194 | 328 | Brittney Jean |
+| 193 | 328 | Brittney Jean |
+| 194 | 328 | Marie Boyd Faulk |
 | 195 | 327 | Danielle Simmons |
 | 196 | 323 | Juanita Lyons |
 | 197 | 323 | Briana Alexander |
@@ -272,16 +272,16 @@
 | 264 | 257 | Shameika Trail |
 | 265 | 257 | Lyndi Robinson Wakefield |
 | 266 | 256 | Giddy Gridclear |
-| 267 | 256 | Tee Jaleesa |
-| 268 | 256 | Smashanator |
+| 267 | 256 | Smashanator |
+| 268 | 256 | Tee Jaleesa |
 | 269 | 255 | Santana Miyagi |
 | 270 | 254 | Rose Fx |
 | 271 | 254 | Julie Hamilton |
 | 272 | 252 | Matt Johnson |
 | 273 | 251 | Ann Knutson Anderson |
 | 274 | 250 | Barbra Miller |
-| 275 | 249 | Porsche' Nicole |
-| 276 | 249 | Nicky Jackson |
+| 275 | 249 | Nicky Jackson |
+| 276 | 249 | Porsche' Nicole |
 | 277 | 249 | SwampRebel |
 | 278 | 248 | Bubbly Snapfit |
 | 279 | 248 | Dany Murillo |
@@ -299,8 +299,8 @@
 | 291 | 243 | Brandy Andre |
 | 292 | 242 | Donna Chandler |
 | 293 | 241 | Sabrina Burton |
-| 294 | 240 | Adam Erikson |
-| 295 | 240 | Angie Marie |
+| 294 | 240 | Angie Marie |
+| 295 | 240 | Adam Erikson |
 | 296 | 240 | Johnny Yeates |
 | 297 | 238 | Cheech Dta |
 | 298 | 238 | Cheery Matchzone |
@@ -312,8 +312,8 @@
 | 304 | 233 | Robin Kerby |
 | 305 | 233 | Alyssia Tancredi |
 | 306 | 232 | Amber Brion |
-| 307 | 231 | Ginger |
-| 308 | 231 | Dylan Thomason |
+| 307 | 231 | Dylan Thomason |
+| 308 | 231 | Ginger |
 | 309 | 230 | snkylnk |
 | 310 | 228 | Michelle Sager |
 | 311 | 227 | Nutty Matchline |
@@ -378,8 +378,8 @@
 | 370 | 190 | Jessica Kaye DeAguero |
 | 371 | 188 | Seth Wrieden |
 | 372 | 188 | Justin Hines |
-| 373 | 187 | Amélie Cadieux |
-| 374 | 187 | Stefanie Zonzini-Gagliardi |
+| 373 | 187 | Stefanie Zonzini-Gagliardi |
+| 374 | 187 | Amélie Cadieux |
 | 375 | 186 | Joshua Mullings |
 | 376 | 186 | Jackie Jackie Lee |
 | 377 | 185 | JacJac |
@@ -388,8 +388,8 @@
 | 380 | 184 | Regina Unruh |
 | 381 | 184 | Brittany Radaszewski |
 | 382 | 183 | Wakanda Forever |
-| 383 | 183 | Shaun Church |
-| 384 | 183 | Ys Muhammed |
+| 383 | 183 | Ys Muhammed |
+| 384 | 183 | Shaun Church |
 | 385 | 182 | Niceday |
 | 386 | 182 | Donna M Carter |
 | 387 | 181 | Julay |
@@ -407,8 +407,8 @@
 | 399 | 177 | John |
 | 400 | 177 | Angel |
 | 401 | 176 | Nancy Pohlman |
-| 402 | 176 | Trisha Gallagher |
-| 403 | 176 | Jennifer Malloy - Cardy |
+| 402 | 176 | Jennifer Malloy - Cardy |
+| 403 | 176 | Trisha Gallagher |
 | 404 | 175 | Shandrica Lowe |
 | 405 | 175 | Tina Blessed Cage |
 | 406 | 175 | Lucero Ramirez |
@@ -429,8 +429,8 @@
 | 421 | 168 | Phil J. Grombliniak |
 | 422 | 168 | HarleyJane |
 | 423 | 168 | Kati Russeau |
-| 424 | 167 | mshir |
-| 425 | 167 | Sabrena Yeisley |
+| 424 | 167 | Sabrena Yeisley |
+| 425 | 167 | mshir |
 | 426 | 166 | suuny |
 | 427 | 165 | Austin Wilson |
 | 428 | 165 | Cathy Bitters |
