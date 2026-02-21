@@ -69,11 +69,11 @@
 | 61 | 212 | Tdub |
 | 62 | 212 | Jaimie Lynn |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Mandyy Rae |
-| 65 | 208 | Carrie Beck Geartz |
+| 64 | 208 | Carrie Beck Geartz |
+| 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
-| 67 | 204 | Ly Phethmany |
-| 68 | 204 | Lexuriuos Lifestlye |
+| 67 | 204 | Lexuriuos Lifestlye |
+| 68 | 204 | Ly Phethmany |
 | 69 | 202 | Dee Perry |
 | 70 | 201 | Anaid Sanchez |
 | 71 | 201 | Ananda Mendez |
@@ -166,8 +166,8 @@
 | 158 | 105 | Ty Brown |
 | 159 | 104 | Charla Pross-Fugleberg |
 | 160 | 104 | Bindi |
-| 161 | 103 | Chantelle Ceno |
-| 162 | 103 | Angela Fairbank |
+| 161 | 103 | Angela Fairbank |
+| 162 | 103 | Chantelle Ceno |
 | 163 | 102 | Jennifer ManWarren |
 | 164 | 101 | Loony Fitzone |
 | 165 | 101 | Jessie |
@@ -186,8 +186,8 @@
 | 178 | 96 | Tyler Whitley |
 | 179 | 94 | Brad MG |
 | 180 | 92 | Timothy Dew |
-| 181 | 90 | Grace Joanne Agnant |
-| 182 | 90 | Fmp |
+| 181 | 90 | Fmp |
+| 182 | 90 | Grace Joanne Agnant |
 | 183 | 89 | Mara Hilker |
 | 184 | 88 | MommaKFC |
 | 185 | 88 | Larry Tilton |

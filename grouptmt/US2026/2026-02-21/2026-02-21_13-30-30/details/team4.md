@@ -104,8 +104,8 @@
 | 96 | 151 | Dana Scott |
 | 97 | 150 | Lauren Scott |
 | 98 | 150 | ZeeZee |
-| 99 | 147 | 030Synner |
-| 100 | 147 | Jay28 |
+| 99 | 147 | Jay28 |
+| 100 | 147 | 030Synner |
 | 101 | 146 | Peachy Fall |
 | 102 | 143 | Nugget |
 | 103 | 141 | Malakai Darien Fox |
@@ -126,12 +126,12 @@
 | 118 | 129 | Landon Keith Graffeo |
 | 119 | 129 | John Brunetti |
 | 120 | 128 | Rio Rocha |
-| 121 | 126 | Klo |
-| 122 | 126 | Dihcheese444 |
+| 121 | 126 | Dihcheese444 |
+| 122 | 126 | Klo |
 | 123 | 124 | Allen Lloyd |
 | 124 | 123 | Bubbly Puzzler |
-| 125 | 123 | Cherrish Duren |
-| 126 | 123 | TinyLegoRose |
+| 125 | 123 | TinyLegoRose |
+| 126 | 123 | Cherrish Duren |
 | 127 | 122 | Sherri |
 | 128 | 121 | Smiley Tiltbuilder |
 | 129 | 121 | Megan Cutshaw |

@@ -35,8 +35,8 @@
 | 27 | 867 | Briarblack |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Shane Wilson Jr. |
-| 31 | 810 | Zippy Strikesnap |
+| 30 | 810 | Zippy Strikesnap |
+| 31 | 810 | Shane Wilson Jr. |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |

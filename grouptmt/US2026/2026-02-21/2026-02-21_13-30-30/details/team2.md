@@ -104,8 +104,8 @@
 | 96 | 734 | Melissa Cole |
 | 97 | 722 | Tesha Oldaker |
 | 98 | 718 | Mari Ac |
-| 99 | 709 | Loopy Clusterbuilder |
-| 100 | 709 | Jerilyn Andrina |
+| 99 | 709 | Jerilyn Andrina |
+| 100 | 709 | Loopy Clusterbuilder |
 | 101 | 705 | Roger Grabbit |
 | 102 | 704 | Nerdy Clearfit |
 | 103 | 700 | Vincent Petrella |
@@ -126,8 +126,8 @@
 | 118 | 631 | Peppy Zone |
 | 119 | 620 | BYM4L |
 | 120 | 619 | Jamie Otero |
-| 121 | 608 | Sommer Shope |
-| 122 | 608 | John Bednarik |
+| 121 | 608 | John Bednarik |
+| 122 | 608 | Sommer Shope |
 | 123 | 602 | L3sli3 |
 | 124 | 601 | Nancy Reid |
 | 125 | 597 | Andea Beck |
@@ -188,9 +188,9 @@
 | 180 | 456 | Drwatson187 |
 | 181 | 456 | Marie Boyd Faulk |
 | 182 | 454 | Casey Schumacher |
-| 183 | 453 | Mischelle Clay |
+| 183 | 453 | Em Chen |
 | 184 | 453 | Osun Anuket Esu |
-| 185 | 453 | Em Chen |
+| 185 | 453 | Mischelle Clay |
 | 186 | 452 | Alezandra Smith |
 | 187 | 450 | Giggy Blocker |
 | 188 | 450 | Cheech Dta |
