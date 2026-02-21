@@ -78,8 +78,8 @@
 | 70 | 528 | Giddy Drop |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Justin Ritter |
-| 74 | 502 | Joey Banks |
+| 73 | 502 | Joey Banks |
+| 74 | 502 | Justin Ritter |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 480 | Nate Burnside |
@@ -103,8 +103,8 @@
 | 95 | 394 | joclisa |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Annie Déè |
-| 99 | 390 | Hasty Cascadefit |
+| 98 | 390 | Hasty Cascadefit |
+| 99 | 390 | Annie Déè |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -133,8 +133,8 @@
 | 125 | 307 | Peggi Charon |
 | 126 | 305 | Tessina Dewey-Mancino |
 | 127 | 302 | Bea Miles |
-| 128 | 300 | Sherika C. McDaniels |
-| 129 | 300 | Stephanie Blkpep Davidson |
+| 128 | 300 | Stephanie Blkpep Davidson |
+| 129 | 300 | Sherika C. McDaniels |
 | 130 | 293 | Poppy Splitter |
 | 131 | 287 | Logan Naccarato |
 | 132 | 286 | Jacqueline Rodriguez |
@@ -194,8 +194,8 @@
 | 186 | 195 | Michael Lucado |
 | 187 | 195 | Nicha Hooker |
 | 188 | 193 | Stephanie Burtin |
-| 189 | 193 | Clever Shiftsnap |
-| 190 | 193 | Angie Harper |
+| 189 | 193 | Angie Harper |
+| 190 | 193 | Clever Shiftsnap |
 | 191 | 192 | Kelly Ann Child |
 | 192 | 191 | Scott Carleton |
 | 193 | 191 | Brenda Lee Vander Molen |
@@ -207,13 +207,13 @@
 | 199 | 184 | Troy |
 | 200 | 182 | Hyper Matchzone |
 | 201 | 181 | Nicholas Roddy |
-| 202 | 180 | Connie Mohler-Fair |
-| 203 | 180 | Loopy Fallmatch |
+| 202 | 180 | Loopy Fallmatch |
+| 203 | 180 | Connie Mohler-Fair |
 | 204 | 179 | Daira Largen |
 | 205 | 179 | Ashley Jones |
 | 206 | 179 | Tipsy Zonebuilder |
-| 207 | 178 | AlsoJess |
-| 208 | 178 | Ryan Williams |
+| 207 | 178 | Ryan Williams |
+| 208 | 178 | AlsoJess |
 | 209 | 177 | Trisha Balmer |
 | 210 | 175 | DanceLuvLaugh |
 | 211 | 175 | Tasha Wesson-Torrence |
@@ -226,8 +226,8 @@
 | 218 | 168 | MsBee |
 | 219 | 168 | JerseyJess |
 | 220 | 167 | Raven Dudley |
-| 221 | 166 | Beth Ingham |
-| 222 | 166 | Betty Rosas |
+| 221 | 166 | Betty Rosas |
+| 222 | 166 | Beth Ingham |
 | 223 | 165 | Kali Kelz Williams |
 | 224 | 163 | Christine Trester |
 | 225 | 163 | Stephanie Hill |

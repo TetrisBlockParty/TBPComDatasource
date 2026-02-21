@@ -145,10 +145,10 @@
 | 137 | 780 | Amanda Grohmann |
 | 138 | 775 | YiFei |
 | 139 | 772 | Megan Ferguson Leone |
-| 140 | 771 | Missie Lawson Gebhardt |
-| 141 | 771 | Terri McKelvey McKinley |
-| 142 | 763 | Ladyrainbootz |
-| 143 | 763 | Samantha Jo |
+| 140 | 771 | Terri McKelvey McKinley |
+| 141 | 771 | Missie Lawson Gebhardt |
+| 142 | 763 | Samantha Jo |
+| 143 | 763 | Ladyrainbootz |
 | 144 | 756 | Stephanie Neuburger |
 | 145 | 751 | Loony Snapper |
 | 146 | 750 | Jumpy Gridpiece |
@@ -275,8 +275,8 @@
 | 267 | 474 | Ashley Collins |
 | 268 | 474 | Calandra Shaya Robinson |
 | 269 | 470 | Jerry Tempelmeyer |
-| 270 | 469 | Ashley Rose Frederick |
-| 271 | 469 | Amélie Cadieux |
+| 270 | 469 | Amélie Cadieux |
+| 271 | 469 | Ashley Rose Frederick |
 | 272 | 467 | Scott Treadway |
 | 273 | 465 | Drwatson187 |
 | 274 | 465 | Maya June |
@@ -465,8 +465,8 @@
 | 457 | 309 | Autumn Schaeffer |
 | 458 | 307 | Kitybox |
 | 459 | 306 | Frisky Clearpiece |
-| 460 | 305 | Zany Clusterbuilder |
-| 461 | 305 | Tum |
+| 460 | 305 | Tum |
+| 461 | 305 | Zany Clusterbuilder |
 | 462 | 305 | Libby Hicks |
 | 463 | 304 | Michelle Shrum |
 | 464 | 304 | NFLPITMOM |
@@ -578,15 +578,15 @@
 | 570 | 247 | Dolores Russworn |
 | 571 | 247 | Andrea Devery Beck |
 | 572 | 246 | Pocho Zavala |
-| 573 | 246 | Robin L. Vial |
-| 574 | 246 | Morgan Easter |
-| 575 | 246 | Stephanie Lumanlan |
+| 573 | 246 | Stephanie Lumanlan |
+| 574 | 246 | Robin L. Vial |
+| 575 | 246 | Morgan Easter |
 | 576 | 246 | Kacee Conrad Bock |
-| 577 | 245 | Mary Boss |
-| 578 | 245 | Sanaa Nounoussa |
+| 577 | 245 | Sanaa Nounoussa |
+| 578 | 245 | Mary Boss |
 | 579 | 244 | Maxwell Escalera |
-| 580 | 244 | Nakiiya Dreamcatcher Gore |
-| 581 | 244 | Court |
+| 580 | 244 | Court |
+| 581 | 244 | Nakiiya Dreamcatcher Gore |
 | 582 | 243 | JacJac |
 | 583 | 242 | Lianne Giandalone LaBounty |
 | 584 | 242 | Donna Chandler |
@@ -596,8 +596,8 @@
 | 588 | 239 | Dad |
 | 589 | 239 | Angelina Marie |
 | 590 | 238 | Manny Trindade |
-| 591 | 237 | Heather Piotrowski |
-| 592 | 237 | Kiorah Blaze |
+| 591 | 237 | Kiorah Blaze |
+| 592 | 237 | Heather Piotrowski |
 | 593 | 237 | Ben Barkley |
 | 594 | 237 | Breezy Tilt |
 | 595 | 236 | Angela Yantz |
@@ -904,7 +904,7 @@
 | 896 | 155 | Markisha Poyndexter |
 | 897 | 154 | Ericka Marie Smith |
 | 898 | 154 | Brian Easterday |
-| 899 | 154 | Ericka Marie Smith |
+| 899 | 154 | Fancy Setter |
 | 900 | 154 | Lori Maring |
 | 901 | 154 | Bryan Werleman |
 | 902 | 154 | Ashe Corso |

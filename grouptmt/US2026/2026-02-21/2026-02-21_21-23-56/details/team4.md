@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | quicksand420 |
-| 64 | 376 | Marie-Pier Desjardins |
+| 63 | 376 | Marie-Pier Desjardins |
+| 64 | 376 | quicksand420 |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -139,8 +139,8 @@
 | 131 | 174 | Dihcheese444 |
 | 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | blockstar |
-| 135 | 173 | Ren Mc |
+| 134 | 173 | Ren Mc |
+| 135 | 173 | blockstar |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -208,8 +208,8 @@
 | 200 | 120 | Joshua Guess |
 | 201 | 120 | KayM |
 | 202 | 119 | Kristin Manee |
-| 203 | 119 | Judy Cox |
-| 204 | 119 | Gwendolyn Pitcairn |
+| 203 | 119 | Gwendolyn Pitcairn |
+| 204 | 119 | Judy Cox |
 | 205 | 118 | Mary Ann Pabukis |
 | 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
@@ -281,8 +281,8 @@
 | 273 | 90 | Hyper Builder |
 | 274 | 89 | Jonathan Mahfood |
 | 275 | 89 | bloat princess |
-| 276 | 88 | Michelle Parker |
-| 277 | 88 | Kesha Brady |
+| 276 | 88 | Kesha Brady |
+| 277 | 88 | Michelle Parker |
 | 278 | 87 | Alan George LaRage |
 | 279 | 86 | Destiney Carter |
 | 280 | 86 | Jennifer Perkins |

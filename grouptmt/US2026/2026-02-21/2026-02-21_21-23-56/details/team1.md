@@ -26,8 +26,8 @@
 | 18 | 808 | Robert Beck |
 | 19 | 792 | LaQuetta Faith Hines |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Adryane Schnase |
-| 22 | 770 | Zappy Curvetile |
+| 21 | 770 | Zappy Curvetile |
+| 22 | 770 | Adryane Schnase |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 675 | Amanda Summey Schoemer |
@@ -102,8 +102,8 @@
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Tana |
-| 98 | 240 | Elaine Elaine |
+| 97 | 240 | Elaine Elaine |
+| 98 | 240 | Tana |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
@@ -113,8 +113,8 @@
 | 105 | 222 | Kristen Gideon |
 | 106 | 219 | Lexuriuos Lifestlye |
 | 107 | 214 | Billie Dawn Sparks |
-| 108 | 212 | Jaimie Lynn |
-| 109 | 212 | Mandyy Rae |
+| 108 | 212 | Mandyy Rae |
+| 109 | 212 | Jaimie Lynn |
 | 110 | 211 | Marianita Garcia |
 | 111 | 210 | Ly Phethmany |
 | 112 | 204 | Ananda Mendez |
@@ -135,8 +135,8 @@
 | 127 | 186 | Jennifer Olewnik Soborowski |
 | 128 | 185 | Luciano Moreira |
 | 129 | 182 | Spunky Piecebuilder |
-| 130 | 180 | Erez Yosef |
-| 131 | 180 | BigWeenie69 |
+| 130 | 180 | BigWeenie69 |
+| 131 | 180 | Erez Yosef |
 | 132 | 179 | Danielle Little-Daugherty |
 | 133 | 178 | Chad Atchley |
 | 134 | 177 | ParisandCory Champagne |
@@ -166,8 +166,8 @@
 | 158 | 150 | David Miller |
 | 159 | 148 | Bouncy Grid |
 | 160 | 148 | Shauntina Burke |
-| 161 | 147 | Davery Spencer Adair |
-| 162 | 147 | Leslie Bush Yarbrough |
+| 161 | 147 | Leslie Bush Yarbrough |
+| 162 | 147 | Davery Spencer Adair |
 | 163 | 146 | Christy Jones |
 | 164 | 145 | Angela Fairbank |
 | 165 | 145 | Agustin Duarte Orozco |
@@ -201,11 +201,11 @@
 | 193 | 125 | Fmp |
 | 194 | 125 | Larry Tilton |
 | 195 | 124 | Cartier |
-| 196 | 122 | Melissa Lemmon |
-| 197 | 122 | Margo Wagner |
+| 196 | 122 | Margo Wagner |
+| 197 | 122 | Melissa Lemmon |
 | 198 | 121 | Mark Smith |
-| 199 | 120 | Kimmie Kimms |
-| 200 | 120 | Alenoush Karimian |
+| 199 | 120 | Alenoush Karimian |
+| 200 | 120 | Kimmie Kimms |
 | 201 | 119 | Tater |
 | 202 | 119 | Steve Schneider |
 | 203 | 118 | SavageBooty98 |
