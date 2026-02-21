@@ -164,8 +164,8 @@
 | 156 | 218 | LaNette Morgan |
 | 157 | 217 | Jess Bissett |
 | 158 | 216 | Aaron Pitkin |
-| 159 | 214 | Jenny Hrndz |
-| 160 | 214 | Amy Fuller Heaton |
+| 159 | 214 | Amy Fuller Heaton |
+| 160 | 214 | Jenny Hrndz |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
 | 163 | 207 | rnr junky |
@@ -216,8 +216,8 @@
 | 208 | 166 | Betty Rosas |
 | 209 | 166 | Kelly Ann Child |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Stephanie Hill |
-| 212 | 163 | Christine Trester |
+| 211 | 163 | Christine Trester |
+| 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | BŘŰŤİÇŨŚ |
 | 215 | 161 | Irene Arreguin |
@@ -236,8 +236,8 @@
 | 228 | 152 | Lesley Perez |
 | 229 | 152 | Katrina E Jelks |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Peachy Rollfit |
-| 232 | 149 | Alexis Taylor |
+| 231 | 149 | Alexis Taylor |
+| 232 | 149 | Peachy Rollfit |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Wetwet |
 | 235 | 148 | Gumbo |
@@ -249,8 +249,8 @@
 | 241 | 147 | Ashley Lynn Marchese |
 | 242 | 146 | Latoya Mayne |
 | 243 | 146 | Denita Mungro |
-| 244 | 145 | Bryan Byrd |
-| 245 | 145 | Jeni Dow |
+| 244 | 145 | Jeni Dow |
+| 245 | 145 | Bryan Byrd |
 | 246 | 142 | Jl |
 | 247 | 142 | David Bardo |
 | 248 | 142 | Erica Anderson |
