@@ -34,8 +34,8 @@
 | 26 | 522 | Poppy Dashfit |
 | 27 | 476 | Susan Valentino |
 | 28 | 466 | Kay |
-| 29 | 446 | Kathryn Keenan-Taggart |
-| 30 | 446 | Jennifer Willis |
+| 29 | 446 | Jennifer Willis |
+| 30 | 446 | Kathryn Keenan-Taggart |
 | 31 | 432 | Nate Burnside |
 | 32 | 387 | Nerdy Spinblock |
 | 33 | 385 | Gracie |

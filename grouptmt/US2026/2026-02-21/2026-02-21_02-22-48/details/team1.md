@@ -100,8 +100,8 @@
 | 92 | 93 | Adryane Schnase |
 | 93 | 91 | Spunky Piecebuilder |
 | 94 | 90 | Madison Wicks |
-| 95 | 87 | TSwag |
-| 96 | 87 | Jessi Sauer |
+| 95 | 87 | Jessi Sauer |
+| 96 | 87 | TSwag |
 | 97 | 85 | Steve Schneider |
 | 98 | 84 | Yvonne Marie |
 | 99 | 84 | Charla Pross-Fugleberg |
@@ -115,15 +115,15 @@
 | 107 | 80 | pjbeta |
 | 108 | 80 | Larry Tilton |
 | 109 | 79 | Chris65 |
-| 110 | 78 | Sam Williams |
-| 111 | 78 | Carrie Beck Geartz |
+| 110 | 78 | Carrie Beck Geartz |
+| 111 | 78 | Sam Williams |
 | 112 | 77 | Teddy Alexander |
-| 113 | 76 | Archie Ware |
-| 114 | 76 | Kerry Lee Powell |
-| 115 | 75 | Fresno Beotoni |
-| 116 | 75 | Tyler L Hunt |
-| 117 | 74 | Eddie Dillon |
-| 118 | 74 | Grace Joanne Agnant |
+| 113 | 76 | Kerry Lee Powell |
+| 114 | 76 | Archie Ware |
+| 115 | 75 | Tyler L Hunt |
+| 116 | 75 | Fresno Beotoni |
+| 117 | 74 | Grace Joanne Agnant |
+| 118 | 74 | Eddie Dillon |
 | 119 | 73 | Witty Builderfit |
 | 120 | 72 | Tipsy Strikerpiece |
 | 121 | 71 | John Kim |
@@ -159,9 +159,9 @@
 | 151 | 58 | Jeremy Maubert |
 | 152 | 58 | Basment Living |
 | 153 | 58 | Paula Martin |
-| 154 | 57 | Lis |
+| 154 | 57 | Logan McFarland |
 | 155 | 57 | Felicia Lewis |
-| 156 | 57 | Logan McFarland |
+| 156 | 57 | Lis |
 | 157 | 56 | Henry Lanier |
 | 158 | 56 | Kellie |
 | 159 | 54 | Ariel Whittington |
