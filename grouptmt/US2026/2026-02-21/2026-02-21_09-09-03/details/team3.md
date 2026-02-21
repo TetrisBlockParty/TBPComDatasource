@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 733 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -41,8 +41,8 @@
 | 33 | 613 | Amber Hughes |
 | 34 | 608 | River |
 | 35 | 598 | Jennifer Willis |
-| 36 | 587 | Danielle Becker |
-| 37 | 587 | Suzieq |
+| 36 | 587 | Suzieq |
+| 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
 | 40 | 546 | Dolores Falco |
@@ -76,8 +76,8 @@
 | 68 | 353 | Stephanie Woods |
 | 69 | 345 | Christine Niles |
 | 70 | 343 | Silly Twist |
-| 71 | 342 | Annie Déè |
-| 72 | 342 | Trezure Gonzalez |
+| 71 | 342 | Trezure Gonzalez |
+| 72 | 342 | Annie Déè |
 | 73 | 338 | Danielle Rhoades |
 | 74 | 332 | Chauntee Alfrey-Cardinale |
 | 75 | 331 | Mendoza Lee Christy |
@@ -130,10 +130,10 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
-| 127 | 180 | Fallorina Susana |
-| 128 | 180 | Tessina Dewey-Mancino |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
+| 127 | 180 | Tessina Dewey-Mancino |
+| 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
@@ -181,15 +181,15 @@
 | 173 | 125 | Shimika Enay Wallace |
 | 174 | 125 | Felicia Doxey |
 | 175 | 124 | Cesar Barraza |
-| 176 | 123 | Terry Jo Jones |
+| 176 | 123 | Sarajane Lokan |
 | 177 | 123 | Kristie McFarland |
-| 178 | 123 | Sarajane Lokan |
+| 178 | 123 | Terry Jo Jones |
 | 179 | 122 | Giggly Brickroll |
 | 180 | 122 | Katrina E Jelks |
-| 181 | 121 | Juliana Dottore |
-| 182 | 121 | Boldy Corner |
-| 183 | 121 | Michael Latasha Gray |
-| 184 | 121 | Danielle Allison |
+| 181 | 121 | Michael Latasha Gray |
+| 182 | 121 | Juliana Dottore |
+| 183 | 121 | Danielle Allison |
+| 184 | 121 | Boldy Corner |
 | 185 | 120 | Jessica |
 | 186 | 120 | Stephanie Hill |
 | 187 | 118 | Fancy Curver |

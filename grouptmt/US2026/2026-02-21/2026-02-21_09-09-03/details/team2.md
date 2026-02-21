@@ -399,8 +399,8 @@
 | 391 | 200 | LaWanda Powell |
 | 392 | 200 | Sarah Ridenour |
 | 393 | 199 | Fi Ne |
-| 394 | 199 | Jenny Castro |
-| 395 | 199 | Jessica Sutter |
+| 394 | 199 | Jessica Sutter |
+| 395 | 199 | Jenny Castro |
 | 396 | 198 | Angie Bolton Workman |
 | 397 | 198 | Alyssa Dean |
 | 398 | 196 | Besma Ao |
@@ -617,8 +617,8 @@
 | 609 | 133 | Britt Woolston |
 | 610 | 133 | Gina Caulder |
 | 611 | 133 | candy |
-| 612 | 133 | Epic Stackzone |
-| 613 | 133 | Rae Rae |
+| 612 | 133 | Rae Rae |
+| 613 | 133 | Epic Stackzone |
 | 614 | 132 | Mr. Street Stack |
 | 615 | 132 | Chilly Rollblock |
 | 616 | 132 | Paula Snyder |

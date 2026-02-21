@@ -112,8 +112,8 @@
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
-| 107 | 123 | Cherrish Duren |
-| 108 | 123 | Nugget |
+| 107 | 123 | Nugget |
+| 108 | 123 | Cherrish Duren |
 | 109 | 122 | Sherri |
 | 110 | 121 | Zany Shatterer |
 | 111 | 121 | Megan Cutshaw |
@@ -151,8 +151,8 @@
 | 143 | 101 | Michelle Morris |
 | 144 | 101 | Saulc1991 |
 | 145 | 100 | Alexandra Karavias |
-| 146 | 98 | Allen Lloyd |
-| 147 | 98 | Duck |
+| 146 | 98 | Duck |
+| 147 | 98 | Allen Lloyd |
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
@@ -218,7 +218,7 @@
 | 210 | 73 | Rheanda Weaskus |
 | 211 | 73 | Staci Robinson Jones |
 | 212 | 72 | Robin Getchel |
-| 213 | 71 | Ericca Eldridge |
+| 213 | 71 | Marcela Johnson |
 | 214 | 71 | Lindsey Gonzalez |
 | 215 | 71 | Ericca Eldridge |
 | 216 | 70 | Patron Anderson |
