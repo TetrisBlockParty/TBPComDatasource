@@ -172,8 +172,8 @@
 | 164 | 630 | L3sli3 |
 | 165 | 620 | BYM4L |
 | 166 | 619 | Jamie Otero |
-| 167 | 608 | John Bednarik |
-| 168 | 608 | Sommer Shope |
+| 167 | 608 | Sommer Shope |
+| 168 | 608 | John Bednarik |
 | 169 | 608 | Thomas Hughes |
 | 170 | 604 | Amber Shoemaker |
 | 171 | 604 | Danielle Johnson-Chandler |
@@ -297,8 +297,8 @@
 | 289 | 410 | Altamirano Michael |
 | 290 | 409 | Sparkles |
 | 291 | 406 | Erin StFrancis |
-| 292 | 405 | Sarah Massey |
-| 293 | 405 | Christy Krissie |
+| 292 | 405 | Christy Krissie |
+| 293 | 405 | Sarah Massey |
 | 294 | 403 | Joshua Sommerville |
 | 295 | 402 | Brandy Andre |
 | 296 | 400 | Tammy Allen |
@@ -510,8 +510,8 @@
 | 502 | 253 | Luna |
 | 503 | 253 | Tansaria Couch-Butler |
 | 504 | 252 | Alyssia Tancredi |
-| 505 | 252 | Tony Lea |
-| 506 | 252 | Aleasha M Brown |
+| 505 | 252 | Aleasha M Brown |
+| 506 | 252 | Tony Lea |
 | 507 | 251 | Niceday |
 | 508 | 250 | Mike73 |
 | 509 | 250 | Steve Man |
@@ -582,8 +582,8 @@
 | 574 | 223 | Michele Moren |
 | 575 | 223 | Kristi Biddinger |
 | 576 | 222 | Amanda Canterbury |
-| 577 | 222 | Stanley Vanekelenburg |
-| 578 | 222 | Maxwell Escalera |
+| 577 | 222 | Maxwell Escalera |
+| 578 | 222 | Stanley Vanekelenburg |
 | 579 | 221 | Michelle Lee |
 | 580 | 220 | Katrina Weston |
 | 581 | 220 | Sho Nuff |

@@ -173,17 +173,17 @@
 | 165 | 203 | Twisty Brick LT |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Nicha Hooker |
-| 169 | 195 | Michael Lucado |
+| 168 | 195 | Michael Lucado |
+| 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Duane Bright |
 | 172 | 193 | Clever Shiftsnap |
 | 173 | 193 | Stephanie Burtin |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
-| 176 | 191 | Brenda Lee Vander Molen |
-| 177 | 191 | Giddy Twistbuilder |
-| 178 | 191 | Scott Carleton |
+| 176 | 191 | Giddy Twistbuilder |
+| 177 | 191 | Scott Carleton |
+| 178 | 191 | Brenda Lee Vander Molen |
 | 179 | 189 | Sissy Lowery Davis |
 | 180 | 188 | Angie Harper |
 | 181 | 186 | Khaleada McGill Banks |
@@ -211,11 +211,11 @@
 | 203 | 166 | Rebecca Funderburk Kirby |
 | 204 | 166 | Beth Ingham |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Stephanie Hill |
-| 207 | 163 | Christine Trester |
+| 206 | 163 | Christine Trester |
+| 207 | 163 | Stephanie Hill |
 | 208 | 162 | Stephanie Whitefield |
-| 209 | 161 | Irene Arreguin |
-| 210 | 161 | BŘŰŤİÇŨŚ |
+| 209 | 161 | BŘŰŤİÇŨŚ |
+| 210 | 161 | Irene Arreguin |
 | 211 | 160 | Tiffany Davie |
 | 212 | 160 | Marquita Sheard |
 | 213 | 159 | Jone |
@@ -266,8 +266,8 @@
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |
 | 260 | 129 | Samantha Lynn |
-| 261 | 128 | Jen Lewis |
-| 262 | 128 | MizzMonick Smith |
+| 261 | 128 | MizzMonick Smith |
+| 262 | 128 | Jen Lewis |
 | 263 | 127 | mzcatzy |
 | 264 | 126 | Pam Holt Powell |
 | 265 | 126 | RickyG |

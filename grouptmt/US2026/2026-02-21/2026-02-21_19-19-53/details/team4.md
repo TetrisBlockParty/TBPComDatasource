@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | Jonathan Kimbrough |
-| 50 | 411 | TeeJ |
+| 49 | 411 | TeeJ |
+| 50 | 411 | Jonathan Kimbrough |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -84,13 +84,13 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Lucas J Sutton |
-| 80 | 230 | Autum Leigh |
+| 79 | 230 | Autum Leigh |
+| 80 | 230 | Lucas J Sutton |
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Antony Dwayne Beasley |
-| 85 | 218 | Casey Grabner |
+| 84 | 218 | Casey Grabner |
+| 85 | 218 | Antony Dwayne Beasley |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
@@ -101,8 +101,8 @@
 | 93 | 202 | Monica Daley |
 | 94 | 200 | Holly Jolly |
 | 95 | 198 | Denise Carlson |
-| 96 | 198 | Dustee Craddock-Harrison |
-| 97 | 198 | Mike Solo |
+| 96 | 198 | Mike Solo |
+| 97 | 198 | Dustee Craddock-Harrison |
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
@@ -148,7 +148,7 @@
 | 140 | 146 | Klo |
 | 141 | 145 | Daria Rycewicz |
 | 142 | 144 | Mr. Party |
-| 143 | 141 | ĥuf |
+| 143 | 141 | Malakai Darien Fox |
 | 144 | 141 | Kathy Allen |
 | 145 | 141 | ĥuf |
 | 146 | 140 | Shannon Ferrari |
@@ -323,7 +323,7 @@
 | 315 | 74 | TRCuse |
 | 316 | 74 | Jason Bosco |
 | 317 | 74 | Alee Marie |
-| 318 | 74 | Jason Bosco |
+| 318 | 74 | Sharyn Lemire |
 | 319 | 74 | Matt Gooder |
 | 320 | 73 | Rheanda Weaskus |
 | 321 | 73 | Lynn Marie |

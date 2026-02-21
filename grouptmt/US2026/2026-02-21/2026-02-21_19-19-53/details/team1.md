@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
@@ -101,8 +101,8 @@
 | 93 | 222 | Kristen Gideon |
 | 94 | 214 | Billie Dawn Sparks |
 | 95 | 213 | Lexuriuos Lifestlye |
-| 96 | 212 | Mandyy Rae |
-| 97 | 212 | Jaimie Lynn |
+| 96 | 212 | Jaimie Lynn |
+| 97 | 212 | Mandyy Rae |
 | 98 | 211 | Marianita Garcia |
 | 99 | 210 | Ly Phethmany |
 | 100 | 204 | Ananda Mendez |
