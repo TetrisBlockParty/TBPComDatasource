@@ -147,9 +147,9 @@
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
-| 142 | 159 | Jone |
-| 143 | 159 | Mcathen |
-| 144 | 159 | Morgan Martinez |
+| 142 | 159 | Morgan Martinez |
+| 143 | 159 | Jone |
+| 144 | 159 | Mcathen |
 | 145 | 158 | Grams |
 | 146 | 157 | Patricia Gadsden |
 | 147 | 157 | Nicholas Roddy |

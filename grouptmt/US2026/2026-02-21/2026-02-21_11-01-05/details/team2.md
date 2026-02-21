@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | Ramone Armstrong |
-| 155 | 486 | MrsCandyfine As Wine Truss |
+| 154 | 486 | MrsCandyfine As Wine Truss |
+| 155 | 486 | Ramone Armstrong |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
