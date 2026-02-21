@@ -129,11 +129,11 @@
 | 121 | 131 | Jl |
 | 122 | 131 | Emma |
 | 123 | 128 | Angel Mendez |
-| 124 | 127 | Marquita Sheard |
-| 125 | 127 | Aerian Preston |
-| 126 | 126 | Stephanie Burtin |
-| 127 | 126 | Dan Rob |
-| 128 | 126 | Brandon Green |
+| 124 | 127 | Aerian Preston |
+| 125 | 127 | Marquita Sheard |
+| 126 | 126 | Dan Rob |
+| 127 | 126 | Brandon Green |
+| 128 | 126 | Stephanie Burtin |
 | 129 | 125 | Felicia Doxey |
 | 130 | 125 | Stephanie Simpson |
 | 131 | 123 | Kristie McFarland |
@@ -166,8 +166,8 @@
 | 158 | 107 | Sherry Ogden |
 | 159 | 107 | Bryan Byrd |
 | 160 | 106 | Desiree Gold |
-| 161 | 105 | Hoppy Buildout |
-| 162 | 105 | Emi |
+| 161 | 105 | Emi |
+| 162 | 105 | Hoppy Buildout |
 | 163 | 104 | Sarah Moyer |
 | 164 | 103 | Giggly Brickroll |
 | 165 | 102 | mommablock |
@@ -192,8 +192,8 @@
 | 184 | 95 | Demetrious Shaw Sr. |
 | 185 | 95 | Katie Knaus |
 | 186 | 95 | Brooke Bauer |
-| 187 | 94 | Angie Harper |
-| 188 | 94 | Carrie Huskey |
+| 187 | 94 | Carrie Huskey |
+| 188 | 94 | Angie Harper |
 | 189 | 93 | Tiffany Ford |
 | 190 | 92 | Jennifer Caputo |
 | 191 | 90 | Tiffany Kaupang |

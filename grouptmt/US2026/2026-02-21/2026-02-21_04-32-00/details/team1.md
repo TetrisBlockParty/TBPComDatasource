@@ -64,8 +64,8 @@
 | 56 | 169 | Erez Yosef |
 | 57 | 163 | Chad Atchley |
 | 58 | 161 | Abbey Crespo |
-| 59 | 155 | Standia Civil |
-| 60 | 155 | David DeSantis |
+| 59 | 155 | David DeSantis |
+| 60 | 155 | Standia Civil |
 | 61 | 152 | Jacqueline Unique |
 | 62 | 150 | Rico Rico |
 | 63 | 148 | Jessie Lynn |
@@ -91,8 +91,8 @@
 | 83 | 120 | Kristen Roles Robben |
 | 84 | 119 | Irual Hctrab |
 | 85 | 115 | comrade fish |
-| 86 | 114 | Giddy Cascade |
-| 87 | 114 | Colleen Wise |
+| 86 | 114 | Colleen Wise |
+| 87 | 114 | Giddy Cascade |
 | 88 | 113 | Evie Khalil |
 | 89 | 112 | Nicole Roseberry Weber |
 | 90 | 112 | Miguel Teixeira |
@@ -146,8 +146,8 @@
 | 138 | 80 | Larry Tilton |
 | 139 | 80 | Matt Cinelli |
 | 140 | 79 | LD1 |
-| 141 | 79 | Tyler Whitley |
-| 142 | 79 | Chris65 |
+| 141 | 79 | Chris65 |
+| 142 | 79 | Tyler Whitley |
 | 143 | 78 | Sam Williams |
 | 144 | 77 | Teddy Alexander |
 | 145 | 77 | Kellie |
