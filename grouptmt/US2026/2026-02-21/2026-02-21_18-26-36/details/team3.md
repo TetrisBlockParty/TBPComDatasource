@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Shane Wilson Jr. |
-| 41 | 810 | Zippy Strikesnap |
+| 40 | 810 | Zippy Strikesnap |
+| 41 | 810 | Shane Wilson Jr. |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -191,8 +191,8 @@
 | 183 | 178 | Ryan Williams |
 | 184 | 178 | AlsoJess |
 | 185 | 177 | Trisha Balmer |
-| 186 | 175 | Connie Mohler-Fair |
-| 187 | 175 | DanceLuvLaugh |
+| 186 | 175 | DanceLuvLaugh |
+| 187 | 175 | Connie Mohler-Fair |
 | 188 | 174 | rosy |
 | 189 | 174 | Loopy Fallmatch |
 | 190 | 173 | Sarajane Lokan |
@@ -235,12 +235,12 @@
 | 227 | 146 | Latoya Mayne |
 | 228 | 146 | Carrie Huskey |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Emma |
-| 231 | 145 | Bryan Byrd |
+| 230 | 145 | Bryan Byrd |
+| 231 | 145 | Emma |
 | 232 | 145 | Jeni Dow |
-| 233 | 142 | David Bardo |
-| 234 | 142 | Erica Anderson |
-| 235 | 142 | Danielle Allison |
+| 233 | 142 | Erica Anderson |
+| 234 | 142 | Danielle Allison |
+| 235 | 142 | David Bardo |
 | 236 | 142 | Jl |
 | 237 | 141 | IamJust Neyamijah Washington Sr. |
 | 238 | 140 | Troy |

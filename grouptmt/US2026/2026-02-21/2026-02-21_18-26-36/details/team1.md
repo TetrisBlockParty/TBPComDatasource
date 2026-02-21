@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -130,15 +130,15 @@
 | 122 | 166 | Tana |
 | 123 | 166 | Rico Rico |
 | 124 | 165 | Veronica Eve |
-| 125 | 163 | Kellie |
-| 126 | 163 | Tyler Whitley |
+| 125 | 163 | Tyler Whitley |
+| 126 | 163 | Kellie |
 | 127 | 162 | Tanya Carpenter-Reynolds |
 | 128 | 161 | Jessie Lynn |
 | 129 | 155 | Cece Ibarra |
 | 130 | 154 | Irual Hctrab |
 | 131 | 153 | Shiny Gridmatch |
-| 132 | 152 | Speedy Snapfall |
-| 133 | 152 | Jacqueline Unique |
+| 132 | 152 | Jacqueline Unique |
+| 133 | 152 | Speedy Snapfall |
 | 134 | 150 | Adele Rahman |
 | 135 | 149 | Arianna O'Brien |
 | 136 | 149 | Jennifer ManWarren |
@@ -248,7 +248,7 @@
 | 240 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 241 | 86 | Steven Collins |
 | 242 | 86 | ALFD |
-| 243 | 85 | John Barron |
+| 243 | 85 | Lakeisha Chapman |
 | 244 | 85 | Timothy Danaher |
 | 245 | 85 | John Barron |
 | 246 | 85 | Jason Jones |
