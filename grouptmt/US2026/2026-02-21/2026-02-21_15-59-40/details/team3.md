@@ -171,15 +171,15 @@
 | 163 | 179 | Ashley Jones |
 | 164 | 179 | Daira Largen |
 | 165 | 178 | Khaleada McGill Banks |
-| 166 | 178 | AlsoJess |
-| 167 | 178 | Ryan Williams |
+| 166 | 178 | Ryan Williams |
+| 167 | 178 | AlsoJess |
 | 168 | 177 | Rebel124 |
 | 169 | 175 | DanceLuvLaugh |
 | 170 | 174 | Danielle Mogg |
 | 171 | 169 | Sarajane Lokan |
 | 172 | 168 | rosy |
-| 173 | 167 | Raven Dudley |
-| 174 | 167 | Trisha Balmer |
+| 173 | 167 | Trisha Balmer |
+| 174 | 167 | Raven Dudley |
 | 175 | 166 | Loopy Fallmatch |
 | 176 | 166 | Kelly Ann Child |
 | 177 | 166 | Betty Rosas |
@@ -368,7 +368,7 @@
 | 360 | 80 | Josh Borquez |
 | 361 | 80 | Me,Him,Yu |
 | 362 | 80 | Vixen Queen |
-| 363 | 80 | Denise Marie |
+| 363 | 80 | Oliver Neal II |
 | 364 | 79 | Bleu Sun Beams |
 | 365 | 79 | Brittany K Ward |
 | 366 | 79 | Jessie Chung |

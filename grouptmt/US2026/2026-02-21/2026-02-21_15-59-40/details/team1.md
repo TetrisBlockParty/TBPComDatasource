@@ -58,8 +58,8 @@
 | 50 | 298 | Yvonne Marie |
 | 51 | 287 | Hyper |
 | 52 | 285 | Kristen Roles Robben |
-| 53 | 278 | Robert Benito |
-| 54 | 278 | Carrie Beck Geartz |
+| 53 | 278 | Carrie Beck Geartz |
+| 54 | 278 | Robert Benito |
 | 55 | 277 | Shauna Loe |
 | 56 | 274 | Sweet Baker |
 | 57 | 274 | Theo Pinnow |
@@ -85,8 +85,8 @@
 | 77 | 210 | Ly Phethmany |
 | 78 | 205 | Trippy Redd |
 | 79 | 204 | Lexuriuos Lifestlye |
-| 80 | 201 | Anaid Sanchez |
-| 81 | 201 | Ananda Mendez |
+| 80 | 201 | Ananda Mendez |
+| 81 | 201 | Anaid Sanchez |
 | 82 | 200 | Giggly Builderline |
 | 83 | 198 | Happy Snapbuild |
 | 84 | 198 | Brandi Huntington |

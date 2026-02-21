@@ -173,8 +173,8 @@
 | 165 | 111 | Michelle Morris |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Rafael Valentin |
-| 169 | 107 | Marcus Todd |
+| 168 | 107 | Marcus Todd |
+| 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | 🥔🥔 Spudz |
 | 172 | 105 | TheNeesh50 |
@@ -198,7 +198,7 @@
 | 190 | 98 | Jeremy Steines |
 | 191 | 97 | Brandi Durig |
 | 192 | 96 | Zappy Snaplink |
-| 193 | 96 | Sammy Noguera |
+| 193 | 96 | Adam Stephanie Parker |
 | 194 | 96 | Zesty Twistbuilder |
 | 195 | 96 | Marcus TheeyoungWoe Gilmore |
 | 196 | 96 | Sammy Noguera |
