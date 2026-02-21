@@ -170,8 +170,8 @@
 | 162 | 88 | Kesha Brady |
 | 163 | 87 | KM8 |
 | 164 | 87 | Jen Caldwell |
-| 165 | 87 | Bradley Reeves |
-| 166 | 87 | Lauren Lamb |
+| 165 | 87 | Lauren Lamb |
+| 166 | 87 | Bradley Reeves |
 | 167 | 86 | Destiney Carter |
 | 168 | 86 | amy |
 | 169 | 85 | Mimi |

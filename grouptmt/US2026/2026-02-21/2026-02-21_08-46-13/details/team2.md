@@ -206,8 +206,8 @@
 | 198 | 356 | Alyssaaelena |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Brave Dropmatch |
-| 202 | 350 | Chris Harr |
+| 201 | 350 | Chris Harr |
+| 202 | 350 | Brave Dropmatch |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |
@@ -343,8 +343,8 @@
 | 335 | 238 | Cheery Matchzone |
 | 336 | 236 | Frisky Riserbuilder |
 | 337 | 236 | snkylnk |
-| 338 | 236 | Niceday |
-| 339 | 236 | Julio A Laracuente |
+| 338 | 236 | Julio A Laracuente |
+| 339 | 236 | Niceday |
 | 340 | 235 | Kimberly Mitchell |
 | 341 | 234 | Jennifer Leigh |
 | 342 | 234 | Manny Trindade |
@@ -399,20 +399,20 @@
 | 391 | 198 | Angie Bolton Workman |
 | 392 | 198 | Alyssa Dean |
 | 393 | 196 | Besma Ao |
-| 394 | 196 | Cass Shirley |
-| 395 | 196 | Alexandra Reese |
+| 394 | 196 | Alexandra Reese |
+| 395 | 196 | Cass Shirley |
 | 396 | 195 | Snappy Shatterfit |
 | 397 | 195 | Emily Lyric Converse |
-| 398 | 194 | Mike Aprilliano |
-| 399 | 194 | Kimberly Ann |
+| 398 | 194 | Kimberly Ann |
+| 399 | 194 | Mike Aprilliano |
 | 400 | 194 | Hoppy Brickmatch |
-| 401 | 193 | Matthew Turner |
-| 402 | 193 | Kelly Ann McCormick |
+| 401 | 193 | Kelly Ann McCormick |
+| 402 | 193 | Matthew Turner |
 | 403 | 192 | Alyssa Nadine Medelez |
 | 404 | 191 | Lauren Fitzgerald Thomas |
-| 405 | 191 | Sho Nuff |
-| 406 | 191 | Deana |
-| 407 | 191 | John Quiring |
+| 405 | 191 | John Quiring |
+| 406 | 191 | Sho Nuff |
+| 407 | 191 | Deana |
 | 408 | 190 | Layna Lyons |
 | 409 | 190 | Jessica Kaye DeAguero |
 | 410 | 188 | Seth Wrieden |
@@ -426,8 +426,8 @@
 | 418 | 184 | Sassy Linkbuilder |
 | 419 | 184 | Theresa Sterrett |
 | 420 | 183 | Lynzekwi |
-| 421 | 183 | Wakanda Forever |
-| 422 | 183 | Brenna Ann |
+| 421 | 183 | Brenna Ann |
+| 422 | 183 | Wakanda Forever |
 | 423 | 183 | Ys Muhammed |
 | 424 | 182 | Tamara Bailey |
 | 425 | 182 | Donna M Carter |
@@ -478,8 +478,8 @@
 | 470 | 164 | Sara Pennington |
 | 471 | 163 | Danielle Ayoub |
 | 472 | 163 | Albert McKnight |
-| 473 | 162 | LC Hamilton |
-| 474 | 162 | Michael Artis |
+| 473 | 162 | Michael Artis |
+| 474 | 162 | LC Hamilton |
 | 475 | 162 | Andrea Maher |
 | 476 | 161 | Brandon McDonald |
 | 477 | 160 | Marcie McLain Dodd |
@@ -536,8 +536,8 @@
 | 528 | 146 | Sherry Aguinaga |
 | 529 | 146 | Ibiza Carolina LaRose |
 | 530 | 145 | William Hughes |
-| 531 | 145 | Chareen Lauritzen |
-| 532 | 145 | Scott Rackley |
+| 531 | 145 | Scott Rackley |
+| 532 | 145 | Chareen Lauritzen |
 | 533 | 145 | Anastacio Hernandez |
 | 534 | 145 | Lakeela Wise |
 | 535 | 145 | Kiorah Blaze |

@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 338 | Stephanie Zahn |
 | 33 | 301 | Zerin Graham |
@@ -55,8 +55,8 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Jaimie Lynn |
-| 51 | 212 | Tdub |
+| 50 | 212 | Tdub |
+| 51 | 212 | Jaimie Lynn |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 207 | comrade fish |
 | 54 | 205 | Trippy Redd |
@@ -207,8 +207,8 @@
 | 199 | 76 | Virginia Gray Floyd |
 | 200 | 75 | Fresno Beotoni |
 | 201 | 75 | Debbie Davis |
-| 202 | 75 | Plucky Wrecker |
-| 203 | 75 | Fresno Beotoni |
+| 202 | 75 | Tyler L Hunt |
+| 203 | 75 | Plucky Wrecker |
 | 204 | 74 | Owicked1 |
 | 205 | 74 | Grace Joanne Agnant |
 | 206 | 74 | Meechie |
@@ -262,10 +262,10 @@
 | 254 | 60 | Strig |
 | 255 | 60 | Nathan William |
 | 256 | 60 | Angela Martin Hardy |
-| 257 | 60 | Strig |
+| 257 | 60 | Jason Cox |
 | 258 | 60 | Nicole Meredith Flynn |
-| 259 | 60 | Nathan William |
-| 260 | 59 | Mel Hogan |
+| 259 | 60 | Pauline Cortez |
+| 260 | 59 | Tasha McCormack |
 | 261 | 59 | Dino |
 | 262 | 59 | Mel Hogan |
 | 263 | 58 | .running. |

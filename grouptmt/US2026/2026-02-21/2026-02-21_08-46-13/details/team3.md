@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 708 | Chummy Shatterer |
@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | Rich LeBlanc |
-| 81 | 309 | CeceGeGe |
+| 80 | 309 | CeceGeGe |
+| 81 | 309 | Rich LeBlanc |
 | 82 | 307 | Peggi Charon |
 | 83 | 304 | Elaine Webb Graves |
 | 84 | 300 | Sherika C. McDaniels |
