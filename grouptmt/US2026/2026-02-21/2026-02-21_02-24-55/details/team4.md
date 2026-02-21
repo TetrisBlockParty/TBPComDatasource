@@ -95,9 +95,9 @@
 | 87 | 87 | Malakai Darien Fox |
 | 88 | 87 | Jen Caldwell |
 | 89 | 86 | amy |
-| 90 | 85 | Marcus TheeyoungWoe Gilmore |
-| 91 | 85 | shark tato |
-| 92 | 85 | Mimi |
+| 90 | 85 | Mimi |
+| 91 | 85 | Marcus TheeyoungWoe Gilmore |
+| 92 | 85 | shark tato |
 | 93 | 83 | Avy Absol |
 | 94 | 82 | Dizzy Tiley |
 | 95 | 82 | Kim Hunt |

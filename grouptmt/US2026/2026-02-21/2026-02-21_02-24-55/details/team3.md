@@ -171,8 +171,8 @@
 | 163 | 84 | Flashy Rumbler |
 | 164 | 83 | LaTanya GeminiondaRise Johnson |
 | 165 | 82 | Tasha Wesson-Torrence |
-| 166 | 82 | Crystel b520 |
-| 167 | 82 | Clever Clearbuilder |
+| 166 | 82 | Clever Clearbuilder |
+| 167 | 82 | Crystel b520 |
 | 168 | 81 | Ashley Raines |
 | 169 | 81 | Tina Baurdau |
 | 170 | 80 | Vixen Queen |
@@ -295,9 +295,9 @@
 | 287 | 50 | Michell Hendershott Jackson |
 | 288 | 50 | Sassy Tiler |
 | 289 | 49 | Beth Smith |
-| 290 | 49 | Giddy Drop |
-| 291 | 49 | Chummy Rumbler |
-| 292 | 48 | sapphomet |
+| 290 | 49 | Chummy Rumbler |
+| 291 | 49 | Giddy Drop |
+| 292 | 48 | Happy Buildsnap |
 | 293 | 48 | Moimyzean |
 | 294 | 48 | sapphomet |
 | 295 | 48 | Angeline Joseph |
