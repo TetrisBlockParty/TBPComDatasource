@@ -83,8 +83,8 @@
 | 75 | 353 | Stephanie Woods |
 | 76 | 346 | Shannon Matthew Byers |
 | 77 | 345 | Christine Niles |
-| 78 | 342 | Annie Déè |
-| 79 | 342 | Trezure Gonzalez |
+| 78 | 342 | Trezure Gonzalez |
+| 79 | 342 | Annie Déè |
 | 80 | 338 | Danielle Rhoades |
 | 81 | 332 | Chauntee Alfrey-Cardinale |
 | 82 | 325 | Shari Garber |
@@ -114,11 +114,11 @@
 | 106 | 229 | Angeline Joseph |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Mykal Burton |
-| 110 | 224 | Judi Dobson |
+| 109 | 224 | Judi Dobson |
+| 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Jimmie Clemons |
-| 113 | 222 | Nicole Flippo |
+| 112 | 222 | Nicole Flippo |
+| 113 | 222 | Jimmie Clemons |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -151,8 +151,8 @@
 | 143 | 175 | Logan Naccarato |
 | 144 | 167 | Rebel124 |
 | 145 | 167 | Raven Dudley |
-| 146 | 166 | Betty Rosas |
-| 147 | 166 | Danielle Mogg |
+| 146 | 166 | Danielle Mogg |
+| 147 | 166 | Betty Rosas |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
 | 150 | 164 | DanceLuvLaugh |
@@ -237,7 +237,7 @@
 | 229 | 108 | Hanna Kim |
 | 230 | 108 | Rachel Napper |
 | 231 | 108 | LaTanya GeminiondaRise Johnson |
-| 232 | 107 | Bouncy Blockbuilder |
+| 232 | 107 | France Vézina |
 | 233 | 107 | Sherry Ogden |
 | 234 | 107 | Bouncy Blockbuilder |
 | 235 | 106 | Noettín Kan Zasnemoore |
@@ -311,7 +311,7 @@
 | 303 | 85 | Lush Risebuilder |
 | 304 | 84 | gremicx |
 | 305 | 84 | Spunky Racker |
-| 306 | 84 | gremicx |
+| 306 | 84 | Flashy Rumbler |
 | 307 | 83 | Glitzy Slide |
 | 308 | 83 | Deseree Ewing |
 | 309 | 82 | Justice 4 P |
@@ -376,7 +376,7 @@
 | 368 | 73 | Spicy Caster |
 | 369 | 72 | Barbara Bennett |
 | 370 | 72 | Alexsandran Valdivia |
-| 371 | 72 | Mel Murr |
+| 371 | 72 | Gimmegimmebeer |
 | 372 | 72 | Jodi Kaczynski-O'Dowd |
 | 373 | 72 | Mel Murr |
 | 374 | 71 | Tasha Gillespie |

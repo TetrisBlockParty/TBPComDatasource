@@ -188,8 +188,8 @@
 | 180 | 453 | Mischelle Clay |
 | 181 | 453 | Osun Anuket Esu |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Giggy Blocker |
-| 184 | 450 | Cheech Dta |
+| 183 | 450 | Cheech Dta |
+| 184 | 450 | Giggy Blocker |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |

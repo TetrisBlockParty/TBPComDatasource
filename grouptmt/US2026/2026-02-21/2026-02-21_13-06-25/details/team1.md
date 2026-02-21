@@ -69,8 +69,8 @@
 | 61 | 212 | Jaimie Lynn |
 | 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Mandyy Rae |
-| 65 | 208 | Carrie Beck Geartz |
+| 64 | 208 | Carrie Beck Geartz |
+| 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
 | 67 | 204 | Ly Phethmany |
 | 68 | 204 | Lexuriuos Lifestlye |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Thorne Shumate |
-| 80 | 190 | Sweetts |
+| 79 | 190 | Sweetts |
+| 80 | 190 | Thorne Shumate |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Tana |
-| 101 | 149 | Arianna O'Brien |
+| 100 | 149 | Arianna O'Brien |
+| 101 | 149 | Tana |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
