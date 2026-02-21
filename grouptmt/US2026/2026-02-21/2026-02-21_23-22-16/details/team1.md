@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Mandyy Rae |
-| 120 | 212 | Jaimie Lynn |
+| 119 | 212 | Jaimie Lynn |
+| 120 | 212 | Mandyy Rae |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
@@ -151,8 +151,8 @@
 | 143 | 180 | Michael |
 | 144 | 180 | BigWeenie69 |
 | 145 | 179 | Danielle Little-Daugherty |
-| 146 | 178 | Shiny Gridmatch |
-| 147 | 178 | Chad Atchley |
+| 146 | 178 | Chad Atchley |
+| 147 | 178 | Shiny Gridmatch |
 | 148 | 177 | ParisandCory Champagne |
 | 149 | 175 | Irual Hctrab |
 | 150 | 175 | John Barron |
@@ -235,9 +235,9 @@
 | 227 | 113 | Desiree Deschaine Havee |
 | 228 | 112 | Crystal Joslin |
 | 229 | 112 | Chris65 |
-| 230 | 111 | Rachel Nichole Henry |
-| 231 | 111 | Chirpy Smasher |
-| 232 | 110 | Garcia Bailey |
+| 230 | 111 | Chirpy Smasher |
+| 231 | 111 | Rachel Nichole Henry |
+| 232 | 110 | Howdi Duty |
 | 233 | 110 | Madison Wicks |
 | 234 | 110 | Jodee Woods |
 | 235 | 110 | Garcia Bailey |

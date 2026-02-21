@@ -114,8 +114,8 @@
 | 106 | 230 | Autum Leigh |
 | 107 | 222 | Joeliecea Cobb |
 | 108 | 221 | Alyssa Papen |
-| 109 | 218 | Antony Dwayne Beasley |
-| 110 | 218 | Casey Grabner |
+| 109 | 218 | Casey Grabner |
+| 110 | 218 | Antony Dwayne Beasley |
 | 111 | 213 | Chaz Duncan |
 | 112 | 212 | Calvin Cannon |
 | 113 | 211 | loulou |
@@ -125,8 +125,8 @@
 | 117 | 208 | Chastity Mitchell |
 | 118 | 206 | Mylo Lipscomb |
 | 119 | 205 | Sarah Neathery |
-| 120 | 204 | Jen Caldwell |
-| 121 | 204 | Dana Scott |
+| 120 | 204 | Dana Scott |
+| 121 | 204 | Jen Caldwell |
 | 122 | 202 | Monica Daley |
 | 123 | 201 | Swanky Fitline |
 | 124 | 201 | Melvin Baird |
@@ -136,8 +136,8 @@
 | 128 | 196 | Jeff Brian Gates |
 | 129 | 194 | Zany Twisterfit |
 | 130 | 192 | Shauna Havard |
-| 131 | 189 | Calvin Dennis |
-| 132 | 189 | Stacey Stano |
+| 131 | 189 | Stacey Stano |
+| 132 | 189 | Calvin Dennis |
 | 133 | 188 | Katherine Crane |
 | 134 | 187 | TheNeesh50 |
 | 135 | 185 | Andy Cabral |
@@ -154,14 +154,14 @@
 | 146 | 174 | Dihcheese444 |
 | 147 | 172 | Jessica Bohlken |
 | 148 | 171 | Diana Houts |
-| 149 | 164 | 030Synner |
-| 150 | 164 | ThaEviLJeNiuZ |
+| 149 | 164 | ThaEviLJeNiuZ |
+| 150 | 164 | 030Synner |
 | 151 | 160 | ZeeZee |
 | 152 | 156 | Holly |
 | 153 | 155 | AyeKay |
 | 154 | 153 | Empress Oasis |
-| 155 | 153 | Avy Absol |
-| 156 | 153 | Chair |
+| 155 | 153 | Chair |
+| 156 | 153 | Avy Absol |
 | 157 | 152 | Roger Coulter |
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |
@@ -228,8 +228,8 @@
 | 220 | 119 | Kristin Manee |
 | 221 | 116 | Adam Stephanie Parker |
 | 222 | 115 | Lindsey Gonzalez |
-| 223 | 115 | Nubian1 |
-| 224 | 115 | Jayk |
+| 223 | 115 | Jayk |
+| 224 | 115 | Nubian1 |
 | 225 | 115 | Sam Middleton |
 | 226 | 114 | Kesha Brady |
 | 227 | 114 | Circuit8 |
@@ -247,9 +247,9 @@
 | 239 | 108 | Rebecca Morris |
 | 240 | 108 | Ali Ian |
 | 241 | 107 | Sam Bishop |
-| 242 | 106 | Scott Jameson |
-| 243 | 106 | Brandi Durig |
-| 244 | 106 | Zappy Snaplink |
+| 242 | 106 | Zappy Snaplink |
+| 243 | 106 | Scott Jameson |
+| 244 | 106 | Brandi Durig |
 | 245 | 105 | Kim Hunt |
 | 246 | 104 | Chris Alexinas |
 | 247 | 104 | Maureen Flanigan |
@@ -378,8 +378,8 @@
 | 370 | 71 | Dapper Climber |
 | 371 | 70 | Niome Encinias |
 | 372 | 70 | Robert Rangel |
-| 373 | 70 | Niome Encinias |
-| 374 | 70 | PlatinumRose |
+| 373 | 70 | PlatinumRose |
+| 374 | 70 | Brittany Price |
 | 375 | 70 | mitch |
 | 376 | 69 | Jobadia Steelerton |
 | 377 | 69 | Jessica Wells |

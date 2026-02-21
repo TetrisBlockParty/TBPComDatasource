@@ -153,8 +153,8 @@
 | 145 | 807 | Khalil Lowe |
 | 146 | 803 | Tralonda Weeks |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Danielle Johnson-Chandler |
-| 149 | 800 | Tacara Cummings |
+| 148 | 800 | Tacara Cummings |
+| 149 | 800 | Danielle Johnson-Chandler |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -226,8 +226,8 @@
 | 218 | 619 | Jamie Otero |
 | 219 | 618 | Gabby Jenner |
 | 220 | 615 | Auntie B |
-| 221 | 608 | goofinoff |
-| 222 | 608 | Sommer Shope |
+| 221 | 608 | Sommer Shope |
+| 222 | 608 | goofinoff |
 | 223 | 605 | Jelly |
 | 224 | 603 | Cassie Maynard |
 | 225 | 602 | Brandon Armstrong |
@@ -249,8 +249,8 @@
 | 241 | 556 | Shavonna Haynes |
 | 242 | 549 | Kaylee McCafferty |
 | 243 | 547 | Giggy Blocker |
-| 244 | 543 | Teresa Gillmore |
-| 245 | 543 | Adira Brown |
+| 244 | 543 | Adira Brown |
+| 245 | 543 | Teresa Gillmore |
 | 246 | 543 | Mema |
 | 247 | 537 | Slip |
 | 248 | 535 | Jessie McDougald |
@@ -303,8 +303,8 @@
 | 295 | 469 | Ashley Lopez |
 | 296 | 469 | Ashley Rose Frederick |
 | 297 | 468 | Drwatson187 |
-| 298 | 467 | Dedra Steward |
-| 299 | 467 | Scott Treadway |
+| 298 | 467 | Scott Treadway |
+| 299 | 467 | Dedra Steward |
 | 300 | 463 | Sue Leard |
 | 301 | 460 | Barbra Miller |
 | 302 | 460 | Glitzy Stackzone |
@@ -565,19 +565,19 @@
 | 557 | 273 | Britt Stunkel |
 | 558 | 272 | Ryan Lauer |
 | 559 | 271 | Ann Marie Davis |
-| 560 | 270 | Santana Miyagi |
-| 561 | 270 | Tim Dyer |
-| 562 | 270 | Court |
-| 563 | 270 | Ben Barkley |
-| 564 | 269 | Pocho Zavala |
-| 565 | 269 | Susan Arnburg |
-| 566 | 269 | Reece Smith |
-| 567 | 269 | Gauri Shrotriya |
+| 560 | 270 | Tim Dyer |
+| 561 | 270 | Court |
+| 562 | 270 | Ben Barkley |
+| 563 | 270 | Santana Miyagi |
+| 564 | 269 | Gauri Shrotriya |
+| 565 | 269 | Reece Smith |
+| 566 | 269 | Pocho Zavala |
+| 567 | 269 | Susan Arnburg |
 | 568 | 268 | Min |
 | 569 | 268 | Cassie Newton |
 | 570 | 267 | Kelsey Sullivan |
-| 571 | 267 | Venita Ray |
-| 572 | 267 | Lauren Fitzgerald Thomas |
+| 571 | 267 | Lauren Fitzgerald Thomas |
+| 572 | 267 | Venita Ray |
 | 573 | 266 | Jason Garnatz |
 | 574 | 265 | Sandra Link-Gable |
 | 575 | 265 | Steve Man |
@@ -630,16 +630,16 @@
 | 622 | 244 | Nakiiya Dreamcatcher Gore |
 | 623 | 244 | Crystal Elam |
 | 624 | 243 | JacJac |
-| 625 | 242 | Donna Chandler |
-| 626 | 242 | Lianne Giandalone LaBounty |
+| 625 | 242 | Lianne Giandalone LaBounty |
+| 626 | 242 | Donna Chandler |
 | 627 | 241 | Ronda Cary |
 | 628 | 240 | Kelly |
-| 629 | 240 | Michelle Lee |
-| 630 | 240 | Tom Steffen |
+| 629 | 240 | Tom Steffen |
+| 630 | 240 | Michelle Lee |
 | 631 | 239 | Dad |
 | 632 | 238 | Manny Trindade |
-| 633 | 237 | Breezy Tilt |
-| 634 | 237 | Devlin Ogg |
+| 633 | 237 | Devlin Ogg |
+| 634 | 237 | Breezy Tilt |
 | 635 | 237 | Heather Piotrowski |
 | 636 | 236 | Julio A Laracuente |
 | 637 | 236 | Angela Yantz |
@@ -651,7 +651,7 @@
 | 643 | 233 | Myleaha Holley |
 | 644 | 233 | Christine Bollig |
 | 645 | 233 | Nutty Matchline |
-| 646 | 233 | Christine Bollig |
+| 646 | 233 | Epic Spinfit |
 | 647 | 233 | Jumpy Gridclear |
 | 648 | 232 | Lazy Riseclear |
 | 649 | 232 | Ys Muhammed |

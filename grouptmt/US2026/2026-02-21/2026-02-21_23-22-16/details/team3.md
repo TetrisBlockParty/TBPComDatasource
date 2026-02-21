@@ -132,8 +132,8 @@
 | 124 | 348 | CeceGeGe |
 | 125 | 347 | Darlene McMillan |
 | 126 | 343 | Chasity |
-| 127 | 328 | Aaron Pitkin |
-| 128 | 328 | Jeni Dow |
+| 127 | 328 | Jeni Dow |
+| 128 | 328 | Aaron Pitkin |
 | 129 | 327 | Dapper Snap |
 | 130 | 326 | Fancy Cascader |
 | 131 | 323 | Ashley Raines |
@@ -153,8 +153,8 @@
 | 145 | 276 | Crimson |
 | 146 | 272 | opf |
 | 147 | 272 | rnr junky |
-| 148 | 271 | Leah Barnett |
-| 149 | 271 | Ashley Muncey |
+| 148 | 271 | Ashley Muncey |
+| 149 | 271 | Leah Barnett |
 | 150 | 267 | Denise Nardoni |
 | 151 | 263 | Angeline Joseph |
 | 152 | 262 | Joe-Maggie Mathews |
@@ -271,7 +271,7 @@
 | 263 | 150 | Brittany |
 | 264 | 150 | Steffi Chris Dacones |
 | 265 | 149 | Cheryl Hinch Tenbrook |
-| 266 | 149 | Angel Mendez |
+| 266 | 149 | Peachy Rollfit |
 | 267 | 149 | Alexis Taylor |
 | 268 | 149 | Angel Mendez |
 | 269 | 148 | Gumbo |
