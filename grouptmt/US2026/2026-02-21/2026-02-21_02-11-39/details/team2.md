@@ -239,10 +239,10 @@
 | 231 | 200 | Howard Forest |
 | 232 | 200 | Sarah Ridenour |
 | 233 | 200 | Cheeky Brickmatch |
-| 234 | 198 | Andea Beck |
-| 235 | 198 | Julio A Laracuente |
-| 236 | 198 | Alyssa Dean |
-| 237 | 198 | Richard Horton |
+| 234 | 198 | Julio A Laracuente |
+| 235 | 198 | Andea Beck |
+| 236 | 198 | Richard Horton |
+| 237 | 198 | Alyssa Dean |
 | 238 | 197 | Smashanator |
 | 239 | 196 | Cass Shirley |
 | 240 | 196 | Alexandra Reese |

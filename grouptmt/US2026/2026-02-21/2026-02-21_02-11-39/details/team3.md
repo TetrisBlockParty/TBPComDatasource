@@ -51,8 +51,8 @@
 | 43 | 329 | Danielle Rhoades |
 | 44 | 320 | Or Reznitsky |
 | 45 | 311 | Kristie |
-| 46 | 307 | Peggi Charon |
-| 47 | 307 | Clever Roll |
+| 46 | 307 | Clever Roll |
+| 47 | 307 | Peggi Charon |
 | 48 | 303 | Tasha Schriewer |
 | 49 | 300 | Sherika C. McDaniels |
 | 50 | 291 | Laura Melton |
