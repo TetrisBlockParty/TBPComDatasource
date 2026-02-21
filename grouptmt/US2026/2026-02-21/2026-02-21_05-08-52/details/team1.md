@@ -122,16 +122,16 @@
 | 114 | 95 | Spunky Piecebuilder |
 | 115 | 94 | Bindi |
 | 116 | 94 | Luciano Moreira |
-| 117 | 93 | Loony Fitzone |
-| 118 | 93 | Aimee Horton |
+| 117 | 93 | Aimee Horton |
+| 118 | 93 | Loony Fitzone |
 | 119 | 92 | Jessica Russell |
 | 120 | 90 | Madison Wicks |
 | 121 | 90 | TSwag |
 | 122 | 89 | Mizzledagod |
 | 123 | 89 | Mara Hilker |
 | 124 | 87 | Jessi Sauer |
-| 125 | 86 | Basment Living |
-| 126 | 86 | Desiree Deschaine Havee |
+| 125 | 86 | Desiree Deschaine Havee |
+| 126 | 86 | Basment Living |
 | 127 | 85 | Steve Schneider |
 | 128 | 84 | Jaimie Lynn |
 | 129 | 84 | Charla Pross-Fugleberg |

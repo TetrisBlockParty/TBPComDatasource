@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3323 | Sean Dugar |
@@ -107,11 +107,11 @@
 | 99 | 531 | Chris Wanner |
 | 100 | 529 | Tonya Morgan |
 | 101 | 527 | Stacy Stickle |
-| 102 | 525 | Desiree Anderson |
-| 103 | 525 | Charvi' Carter |
+| 102 | 525 | Charvi' Carter |
+| 103 | 525 | Desiree Anderson |
 | 104 | 517 | Debra Williams |
-| 105 | 515 | Real Ri |
-| 106 | 515 | Kaylee McCafferty |
+| 105 | 515 | Kaylee McCafferty |
+| 106 | 515 | Real Ri |
 | 107 | 509 | Kelli Wells |
 | 108 | 505 | Danielle Johnson-Chandler |
 | 109 | 500 | Kimberly Schall |
@@ -158,10 +158,10 @@
 | 150 | 386 | Ashie Ann |
 | 151 | 385 | Sam |
 | 152 | 381 | Amanda Ferrell |
-| 153 | 380 | Calandra Shaya Robinson |
-| 154 | 380 | Joshua Mandel |
-| 155 | 377 | Roy Salyer |
-| 156 | 377 | Liberty |
+| 153 | 380 | Joshua Mandel |
+| 154 | 380 | Calandra Shaya Robinson |
+| 155 | 377 | Liberty |
+| 156 | 377 | Roy Salyer |
 | 157 | 370 | Maria Escobar |
 | 158 | 365 | April Dawn Gussler |
 | 159 | 364 | Shinette Dobson |
@@ -331,8 +331,8 @@
 | 323 | 196 | Cass Shirley |
 | 324 | 196 | Neko Preston |
 | 325 | 194 | Hoppy Brickmatch |
-| 326 | 194 | Mike Aprilliano |
-| 327 | 194 | Kimberly Ann |
+| 326 | 194 | Kimberly Ann |
+| 327 | 194 | Mike Aprilliano |
 | 328 | 193 | Nika Bee |
 | 329 | 191 | Sho Nuff |
 | 330 | 191 | Deana |
@@ -493,9 +493,9 @@
 | 485 | 133 | Jess Orosz |
 | 486 | 133 | Gina Caulder |
 | 487 | 133 | Rae Rae |
-| 488 | 132 | Angelina Marie |
-| 489 | 132 | Iris Angelica Perez Cantos |
-| 490 | 132 | Paula Snyder |
+| 488 | 132 | Paula Snyder |
+| 489 | 132 | Angelina Marie |
+| 490 | 132 | Iris Angelica Perez Cantos |
 | 491 | 132 | Chilly Rollblock |
 | 492 | 131 | Zeleana Perry |
 | 493 | 131 | Michael Artis |
@@ -650,8 +650,8 @@
 | 642 | 103 | Heisenberg |
 | 643 | 103 | Andrew Willis |
 | 644 | 102 | Alisa Donald |
-| 645 | 102 | Justin Morris |
-| 646 | 102 | Laura Morrison |
+| 645 | 102 | Laura Morrison |
+| 646 | 102 | Justin Morris |
 | 647 | 102 | Narutofreak13 |
 | 648 | 101 | Chill Piecegrid |
 | 649 | 101 | Boldy Block |

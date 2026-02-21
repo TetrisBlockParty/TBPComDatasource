@@ -88,8 +88,8 @@
 | 80 | 224 | Mykal Burton |
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
-| 83 | 218 | Judi Dobson |
-| 84 | 218 | mjl574 |
+| 83 | 218 | mjl574 |
+| 84 | 218 | Judi Dobson |
 | 85 | 214 | Amy Fuller Heaton |
 | 86 | 207 | rnr junky |
 | 87 | 206 | Stephanie Blkpep Davidson |
@@ -105,8 +105,8 @@
 | 97 | 185 | Danielle Cutler |
 | 98 | 184 | Jennie Beranek |
 | 99 | 182 | Ashley Tookes |
-| 100 | 180 | Tessina Dewey-Mancino |
-| 101 | 180 | Fallorina Susana |
+| 100 | 180 | Fallorina Susana |
+| 101 | 180 | Tessina Dewey-Mancino |
 | 102 | 179 | Daira Largen |
 | 103 | 178 | Khaleada McGill Banks |
 | 104 | 175 | Jenny Hrndz |
