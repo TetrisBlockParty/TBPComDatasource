@@ -41,8 +41,8 @@
 | 33 | 256 | Brittney Griggs |
 | 34 | 246 | Dustin Robert |
 | 35 | 244 | Isabella Blanco |
-| 36 | 231 | Michelle Marie |
-| 37 | 231 | Jenna Ingersoll |
+| 36 | 231 | Jenna Ingersoll |
+| 37 | 231 | Michelle Marie |
 | 38 | 220 | Julian Garcia |
 | 39 | 217 | Elizabeth Sallas |
 | 40 | 207 | Alyssa Papen |
@@ -77,12 +77,12 @@
 | 69 | 134 | Chirpy Basepiece |
 | 70 | 134 | Jessica Bohlken |
 | 71 | 133 | Robin Watters |
-| 72 | 132 | Jenna McGeorge |
-| 73 | 132 | Degenerate |
+| 72 | 132 | Degenerate |
+| 73 | 132 | Jenna McGeorge |
 | 74 | 131 | Dustee Craddock-Harrison |
 | 75 | 131 | Zany Twisterfit |
-| 76 | 130 | Casey Jeffcoat |
-| 77 | 130 | Lucas J Sutton |
+| 76 | 130 | Lucas J Sutton |
+| 77 | 130 | Casey Jeffcoat |
 | 78 | 129 | John Brunetti |
 | 79 | 126 | Tanner Lund |
 | 80 | 125 | Lauren Scott |
