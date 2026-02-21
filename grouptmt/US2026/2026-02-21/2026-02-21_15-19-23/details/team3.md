@@ -112,8 +112,8 @@
 | 104 | 282 | Jamie Furr |
 | 105 | 267 | Rufus Lincoln |
 | 106 | 264 | Tiff Vs Tiffany |
-| 107 | 263 | Angeline Joseph |
-| 108 | 263 | mjl574 |
+| 107 | 263 | mjl574 |
+| 108 | 263 | Angeline Joseph |
 | 109 | 262 | Joe-Maggie Mathews |
 | 110 | 259 | opf |
 | 111 | 256 | ren |
@@ -196,12 +196,12 @@
 | 188 | 152 | Katrina E Jelks |
 | 189 | 152 | Shiny Zonebuilder |
 | 190 | 151 | Connie Mohler-Fair |
-| 191 | 151 | Brenda Lee Vander Molen |
-| 192 | 151 | MsBee |
+| 191 | 151 | MsBee |
+| 192 | 151 | Brenda Lee Vander Molen |
 | 193 | 150 | Nicole Myers |
-| 194 | 149 | Alexis Taylor |
-| 195 | 149 | Desiree Gold |
-| 196 | 149 | Angel Mendez |
+| 194 | 149 | Desiree Gold |
+| 195 | 149 | Angel Mendez |
+| 196 | 149 | Alexis Taylor |
 | 197 | 146 | Latoya Mayne |
 | 198 | 146 | Carrie Huskey |
 | 199 | 146 | Ashley Lynn Marchese |

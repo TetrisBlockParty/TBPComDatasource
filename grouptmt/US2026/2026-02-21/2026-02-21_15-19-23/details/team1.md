@@ -59,8 +59,8 @@
 | 51 | 282 | Kristen Roles Robben |
 | 52 | 278 | Robert Benito |
 | 53 | 277 | Shauna Loe |
-| 54 | 274 | Theo Pinnow |
-| 55 | 274 | Sweet Baker |
+| 54 | 274 | Sweet Baker |
+| 55 | 274 | Theo Pinnow |
 | 56 | 272 | Adam Byrd |
 | 57 | 259 | Yvonne Marie |
 | 58 | 257 | Sarah Roberts |
@@ -141,9 +141,9 @@
 | 133 | 135 | Cody Slav |
 | 134 | 134 | Trina Gee |
 | 135 | 133 | Breanna Luna |
-| 136 | 132 | LaQuetta Faith Hines |
-| 137 | 132 | Cody Gates |
-| 138 | 132 | Davery Spencer Adair |
+| 136 | 132 | Cody Gates |
+| 137 | 132 | Davery Spencer Adair |
+| 138 | 132 | LaQuetta Faith Hines |
 | 139 | 131 | Uhog SF |
 | 140 | 130 | LD1 |
 | 141 | 130 | Dandy Basegrid |

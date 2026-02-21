@@ -310,8 +310,8 @@
 | 302 | 327 | Danielle Simmons |
 | 303 | 326 | Elisheva Mizrachi |
 | 304 | 324 | Kiana Boschh |
-| 305 | 323 | Briana Alexander |
-| 306 | 323 | KhaosLord |
+| 305 | 323 | KhaosLord |
+| 306 | 323 | Briana Alexander |
 | 307 | 323 | Trista Dumais |
 | 308 | 318 | Alexandra Weir |
 | 309 | 318 | CC |
@@ -322,8 +322,8 @@
 | 314 | 315 | Alisa Lamb |
 | 315 | 314 | Amanda West |
 | 316 | 314 | NanDa Cruzan VI |
-| 317 | 312 | Andrea Maher |
-| 318 | 312 | Michelle Pike |
+| 317 | 312 | Michelle Pike |
+| 318 | 312 | Andrea Maher |
 | 319 | 311 | Véronique Lévesque Sabourin |
 | 320 | 310 | Brandy Andre |
 | 321 | 309 | Oscar Bernie |
@@ -331,8 +331,8 @@
 | 323 | 309 | James Zaragoza |
 | 324 | 307 | Catina Hutchison |
 | 325 | 306 | Kristopher Miller |
-| 326 | 305 | Tum |
-| 327 | 305 | Zany Clusterbuilder |
+| 326 | 305 | Zany Clusterbuilder |
+| 327 | 305 | Tum |
 | 328 | 305 | Libby Hicks |
 | 329 | 303 | Davetta Sanford |
 | 330 | 303 | Crystal Greene |
@@ -406,8 +406,8 @@
 | 398 | 257 | Jackie Jackie Lee |
 | 399 | 256 | Alishac Marie |
 | 400 | 256 | Tee Jaleesa |
-| 401 | 254 | Rose Fx |
-| 402 | 254 | Elizabeth Diraffaele |
+| 401 | 254 | Elizabeth Diraffaele |
+| 402 | 254 | Rose Fx |
 | 403 | 254 | Julie Hamilton |
 | 404 | 253 | Tansaria Couch-Butler |
 | 405 | 252 | Alyssia Tancredi |
