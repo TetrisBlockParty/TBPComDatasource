@@ -59,8 +59,8 @@
 | 51 | 272 | Adam Byrd |
 | 52 | 264 | Shauna Loe |
 | 53 | 257 | Sarah Roberts |
-| 54 | 256 | Robert Benito |
-| 55 | 256 | Tipsy Column |
+| 54 | 256 | Tipsy Column |
+| 55 | 256 | Robert Benito |
 | 56 | 253 | Bhelle Sumile |
 | 57 | 252 | Dena Kayy |
 | 58 | 244 | Tdub |
@@ -87,17 +87,17 @@
 | 79 | 197 | Giggly Builderline |
 | 80 | 193 | Lachelle Dillon |
 | 81 | 192 | Shaykmia |
-| 82 | 191 | Jazzy Framezone |
-| 83 | 191 | Patrick Luckenbill |
-| 84 | 190 | Thorne Shumate |
-| 85 | 190 | Sweetts |
+| 82 | 191 | Patrick Luckenbill |
+| 83 | 191 | Jazzy Framezone |
+| 84 | 190 | Sweetts |
+| 85 | 190 | Thorne Shumate |
 | 86 | 189 | Happy Basegrid |
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
 | 89 | 177 | Diane Byrd |
-| 90 | 173 | Frothy Pattern |
-| 91 | 173 | Jennifer Olewnik Soborowski |
-| 92 | 173 | june october |
+| 90 | 173 | june october |
+| 91 | 173 | Frothy Pattern |
+| 92 | 173 | Jennifer Olewnik Soborowski |
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
@@ -112,8 +112,8 @@
 | 104 | 155 | David DeSantis |
 | 105 | 153 | Shiny Gridmatch |
 | 106 | 152 | Jacqueline Unique |
-| 107 | 149 | Jennifer ManWarren |
-| 108 | 149 | Arianna O'Brien |
+| 107 | 149 | Arianna O'Brien |
+| 108 | 149 | Jennifer ManWarren |
 | 109 | 149 | Tana |
 | 110 | 148 | Shauntina Burke |
 | 111 | 146 | Tanya Carpenter-Reynolds |
@@ -161,11 +161,11 @@
 | 153 | 112 | Nicole Roseberry Weber |
 | 154 | 111 | Chirpy Smasher |
 | 155 | 111 | Agustin Duarte Orozco |
-| 156 | 110 | Madison Wicks |
-| 157 | 110 | Garcia Bailey |
-| 158 | 108 | Tavia |
-| 159 | 108 | Dizzy Party |
-| 160 | 108 | Luciano Moreira |
+| 156 | 110 | Garcia Bailey |
+| 157 | 110 | Madison Wicks |
+| 158 | 108 | Luciano Moreira |
+| 159 | 108 | Tavia |
+| 160 | 108 | Dizzy Party |
 | 161 | 107 | Jodee Woods |
 | 162 | 107 | LD1 |
 | 163 | 106 | Bloknboy |

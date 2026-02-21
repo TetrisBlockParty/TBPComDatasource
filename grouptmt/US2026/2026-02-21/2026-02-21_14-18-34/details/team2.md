@@ -222,8 +222,8 @@
 | 214 | 411 | Ricky Fortune |
 | 215 | 409 | Sparkles |
 | 216 | 406 | Erin StFrancis |
-| 217 | 405 | Sarah Massey |
-| 218 | 405 | Christy Krissie |
+| 217 | 405 | Christy Krissie |
+| 218 | 405 | Sarah Massey |
 | 219 | 402 | Joshua Mandel |
 | 220 | 400 | Tammy Allen |
 | 221 | 400 | Crystie Hicks |
@@ -285,8 +285,8 @@
 | 277 | 332 | Skyler Morgan |
 | 278 | 332 | TF Dyer |
 | 279 | 331 | Shelley Thornburgh Wright |
-| 280 | 330 | Taryece Gause |
-| 281 | 330 | Victoria Moore-Smith |
+| 280 | 330 | Victoria Moore-Smith |
+| 281 | 330 | Taryece Gause |
 | 282 | 327 | Danielle Simmons |
 | 283 | 326 | Elisheva Mizrachi |
 | 284 | 323 | Trista Dumais |
@@ -391,8 +391,8 @@
 | 383 | 254 | Rose Fx |
 | 384 | 254 | Elizabeth Diraffaele |
 | 385 | 253 | Tansaria Couch-Butler |
-| 386 | 252 | Matt Johnson |
-| 387 | 252 | Alyssia Tancredi |
+| 386 | 252 | Alyssia Tancredi |
+| 387 | 252 | Matt Johnson |
 | 388 | 251 | Ann Knutson Anderson |
 | 389 | 250 | Steve Man |
 | 390 | 250 | Anthony Mignacca |

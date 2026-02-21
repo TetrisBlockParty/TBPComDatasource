@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -101,16 +101,16 @@
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |
 | 95 | 161 | Joeliecea Cobb |
-| 96 | 160 | Stacey Stano |
-| 97 | 160 | Carter Jones |
+| 96 | 160 | Carter Jones |
+| 97 | 160 | Stacey Stano |
 | 98 | 159 | Holly Jolly |
 | 99 | 157 | quicksand420 |
 | 100 | 154 | Zany Twisterfit |
 | 101 | 151 | Bethany Ison |
 | 102 | 151 | Dana Scott |
 | 103 | 150 | ZeeZee |
-| 104 | 147 | Jay28 |
-| 105 | 147 | 030Synner |
+| 104 | 147 | 030Synner |
+| 105 | 147 | Jay28 |
 | 106 | 146 | Peachy Fall |
 | 107 | 144 | Mr. Party |
 | 108 | 143 | Nugget |
@@ -136,8 +136,8 @@
 | 128 | 126 | Dihcheese444 |
 | 129 | 126 | TinyLegoRose |
 | 130 | 124 | Allen Lloyd |
-| 131 | 123 | Angela Geist Jusinski |
-| 132 | 123 | Cherrish Duren |
+| 131 | 123 | Cherrish Duren |
+| 132 | 123 | Angela Geist Jusinski |
 | 133 | 122 | Sherri |
 | 134 | 121 | blockstar |
 | 135 | 121 | Megan Cutshaw |
@@ -251,7 +251,7 @@
 | 243 | 75 | Moonsterix |
 | 244 | 75 | Rosemary Foster |
 | 245 | 74 | Tyler Terrific |
-| 246 | 73 | Staci Robinson Jones |
+| 246 | 73 | Rheanda Weaskus |
 | 247 | 73 | Cristy Duerksen |
 | 248 | 73 | Staci Robinson Jones |
 | 249 | 73 | Lynn Marie |

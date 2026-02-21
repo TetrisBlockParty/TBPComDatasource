@@ -95,8 +95,8 @@
 | 87 | 320 | Or Reznitsky |
 | 88 | 316 | Fancy Cascader |
 | 89 | 313 | Elaine Webb Graves |
-| 90 | 309 | CeceGeGe |
-| 91 | 309 | Rich LeBlanc |
+| 90 | 309 | Rich LeBlanc |
+| 91 | 309 | CeceGeGe |
 | 92 | 307 | Peggi Charon |
 | 93 | 307 | Blocked |
 | 94 | 300 | Sherika C. McDaniels |
@@ -343,7 +343,7 @@
 | 335 | 80 | Vixen Queen |
 | 336 | 79 | Brittany K Ward |
 | 337 | 79 | Jessie Chung |
-| 338 | 79 | Brittany K Ward |
+| 338 | 79 | Bleu Sun Beams |
 | 339 | 79 | Amanda Neal |
 | 340 | 78 | Cozy Snaplink |
 | 341 | 78 | Myriam Lapierre |
