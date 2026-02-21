@@ -75,8 +75,8 @@
 | 67 | 197 | Autum Leigh |
 | 68 | 194 | Jamie Mann-Deichmann |
 | 69 | 187 | Swanky Fitline |
-| 70 | 185 | loulou |
-| 71 | 185 | Andy Cabral |
+| 70 | 185 | Andy Cabral |
+| 71 | 185 | loulou |
 | 72 | 180 | Leah Kutz Zirbel |
 | 73 | 180 | shar |
 | 74 | 179 | Epic Curvetile |
@@ -85,8 +85,8 @@
 | 77 | 173 | Jeff Brian Gates |
 | 78 | 173 | Zethra Prenisha Rahming |
 | 79 | 171 | Melvin Baird |
-| 80 | 170 | Justin Hannigan |
-| 81 | 170 | Girl |
+| 80 | 170 | Girl |
+| 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
 | 83 | 165 | Casey Grabner |
 | 84 | 165 | Courtney Cicoria |

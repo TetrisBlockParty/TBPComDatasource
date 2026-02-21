@@ -187,8 +187,8 @@
 | 179 | 92 | Timothy Dew |
 | 180 | 90 | Fmp |
 | 181 | 89 | Mara Hilker |
-| 182 | 88 | MommaKFC |
-| 183 | 88 | Sam Williams |
+| 182 | 88 | Sam Williams |
+| 183 | 88 | MommaKFC |
 | 184 | 88 | Larry Tilton |
 | 185 | 87 | Jessi Sauer |
 | 186 | 87 | Jenny Gingrich Fuentes |

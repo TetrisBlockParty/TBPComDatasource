@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -92,8 +92,8 @@
 | 84 | 320 | Or Reznitsky |
 | 85 | 316 | Fancy Cascader |
 | 86 | 313 | Elaine Webb Graves |
-| 87 | 309 | CeceGeGe |
-| 88 | 309 | Rich LeBlanc |
+| 87 | 309 | Rich LeBlanc |
+| 88 | 309 | CeceGeGe |
 | 89 | 307 | Peggi Charon |
 | 90 | 307 | Blocked |
 | 91 | 300 | Sherika C. McDaniels |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Nicha Hooker |
-| 125 | 195 | Jenny Hrndz |
+| 124 | 195 | Jenny Hrndz |
+| 125 | 195 | Nicha Hooker |
 | 126 | 194 | glichmod |
 | 127 | 193 | Clever Shiftsnap |
 | 128 | 193 | Stephanie Burtin |
@@ -200,8 +200,8 @@
 | 192 | 128 | Jen Lewis |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
-| 195 | 125 | Shimika Enay Wallace |
-| 196 | 125 | Felicia Doxey |
+| 195 | 125 | Felicia Doxey |
+| 196 | 125 | Shimika Enay Wallace |
 | 197 | 124 | Cesar Barraza |
 | 198 | 123 | Marci Mize Fandrich |
 | 199 | 123 | Terry Jo Jones |
