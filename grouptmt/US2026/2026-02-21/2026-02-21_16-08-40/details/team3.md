@@ -168,8 +168,8 @@
 | 160 | 181 | Aerian Preston |
 | 161 | 181 | Karon Griffin |
 | 162 | 179 | Joye Sims Binion |
-| 163 | 179 | Ashley Jones |
-| 164 | 179 | Daira Largen |
+| 163 | 179 | Daira Largen |
+| 164 | 179 | Ashley Jones |
 | 165 | 178 | Khaleada McGill Banks |
 | 166 | 178 | AlsoJess |
 | 167 | 178 | Ryan Williams |
@@ -236,8 +236,8 @@
 | 228 | 126 | April Matthew Kibble |
 | 229 | 125 | Shimika Enay Wallace |
 | 230 | 125 | Felicia Doxey |
-| 231 | 124 | Danielle Allison |
-| 232 | 124 | Funky Jumper |
+| 231 | 124 | Funky Jumper |
+| 232 | 124 | Danielle Allison |
 | 233 | 123 | Michael Latasha Gray |
 | 234 | 122 | Giggly Brickroll |
 | 235 | 122 | BabyTonj Evans |
@@ -369,8 +369,8 @@
 | 361 | 81 | Tammy Rosenberry |
 | 362 | 80 | Josh Borquez |
 | 363 | 80 | Vixen Queen |
-| 364 | 80 | Oliver Neal II |
-| 365 | 80 | Me,Him,Yu |
+| 364 | 80 | Me,Him,Yu |
+| 365 | 80 | Oliver Neal II |
 | 366 | 79 | Bleu Sun Beams |
 | 367 | 79 | Jessie Chung |
 | 368 | 79 | Brittany K Ward |
@@ -395,7 +395,7 @@
 | 387 | 76 | Alexi Pryor |
 | 388 | 76 | JustLessie |
 | 389 | 76 | Rima Mackelburger |
-| 390 | 75 | Janelle Goetz |
+| 390 | 75 | Tony Mia Christian |
 | 391 | 75 | Heather Bateman |
 | 392 | 75 | Danielle Balcom |
 | 393 | 75 | Jessica Rose-Morgan |

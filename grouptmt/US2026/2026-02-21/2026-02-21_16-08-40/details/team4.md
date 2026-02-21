@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -166,9 +166,9 @@
 | 158 | 115 | Jayk |
 | 159 | 115 | Ultramarine |
 | 160 | 113 | Adam Randall |
-| 161 | 112 | Austin Owens |
-| 162 | 112 | Bryan Hodgins |
-| 163 | 112 | Jackie Marie |
+| 161 | 112 | Bryan Hodgins |
+| 162 | 112 | Jackie Marie |
+| 163 | 112 | Austin Owens |
 | 164 | 111 | Michelle Morris |
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
@@ -181,8 +181,8 @@
 | 173 | 105 | 🥔🥔 Spudz |
 | 174 | 105 | Sam Middleton |
 | 175 | 104 | Damn Libra |
-| 176 | 103 | Lauren Lamb |
-| 177 | 103 | April Rondinone |
+| 176 | 103 | April Rondinone |
+| 177 | 103 | Lauren Lamb |
 | 178 | 103 | Judy Cox |
 | 179 | 102 | Faja |
 | 180 | 102 | Autumn Kumzi |

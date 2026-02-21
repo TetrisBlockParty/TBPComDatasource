@@ -110,8 +110,8 @@
 | 102 | 171 | David DeSantis |
 | 103 | 171 | Greg Premoe |
 | 104 | 169 | Abbey Crespo |
-| 105 | 166 | Rico Rico |
-| 106 | 166 | Tana |
+| 105 | 166 | Tana |
+| 106 | 166 | Rico Rico |
 | 107 | 165 | Veronica Eve |
 | 108 | 165 | GATOR |
 | 109 | 163 | Tyler Whitley |
@@ -121,13 +121,13 @@
 | 113 | 155 | Cece Ibarra |
 | 114 | 153 | Shiny Gridmatch |
 | 115 | 152 | Jacqueline Unique |
-| 116 | 150 | John J. Cronin |
-| 117 | 150 | Adele Rahman |
-| 118 | 149 | Arianna O'Brien |
-| 119 | 149 | Jennifer ManWarren |
+| 116 | 150 | Adele Rahman |
+| 117 | 150 | John J. Cronin |
+| 118 | 149 | Jennifer ManWarren |
+| 119 | 149 | Arianna O'Brien |
 | 120 | 148 | Shauntina Burke |
-| 121 | 146 | Dandy Basegrid |
-| 122 | 146 | Irual Hctrab |
+| 121 | 146 | Irual Hctrab |
+| 122 | 146 | Dandy Basegrid |
 | 123 | 145 | BigWeenie69 |
 | 124 | 144 | femmefatale |
 | 125 | 144 | Plucky Ziggy |

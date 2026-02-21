@@ -290,8 +290,8 @@
 | 282 | 357 | Julie Kresal |
 | 283 | 355 | Shandrica Lowe |
 | 284 | 355 | Kristen O'Neal |
-| 285 | 354 | Brave Dropmatch |
-| 286 | 354 | Tracy Wise |
+| 285 | 354 | Tracy Wise |
+| 286 | 354 | Brave Dropmatch |
 | 287 | 353 | Cheery Matchzone |
 | 288 | 352 | Juanita Lyons |
 | 289 | 352 | ruth |
