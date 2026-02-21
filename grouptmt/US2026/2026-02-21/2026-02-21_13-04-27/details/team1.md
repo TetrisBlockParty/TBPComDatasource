@@ -66,14 +66,14 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Jaimie Lynn |
-| 62 | 212 | Tdub |
+| 61 | 212 | Tdub |
+| 62 | 212 | Jaimie Lynn |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Carrie Beck Geartz |
-| 65 | 208 | Mandyy Rae |
+| 64 | 208 | Mandyy Rae |
+| 65 | 208 | Carrie Beck Geartz |
 | 66 | 205 | Trippy Redd |
-| 67 | 204 | Lexuriuos Lifestlye |
-| 68 | 204 | Ly Phethmany |
+| 67 | 204 | Ly Phethmany |
+| 68 | 204 | Lexuriuos Lifestlye |
 | 69 | 202 | Dee Perry |
 | 70 | 201 | Ananda Mendez |
 | 71 | 201 | Anaid Sanchez |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -100,9 +100,9 @@
 | 92 | 162 | Patrick Luckenbill |
 | 93 | 161 | Abbey Crespo |
 | 94 | 156 | Jessie Lynn |
-| 95 | 155 | Cece Ibarra |
-| 96 | 155 | Standia Civil |
-| 97 | 155 | David DeSantis |
+| 95 | 155 | Standia Civil |
+| 96 | 155 | David DeSantis |
+| 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
 | 100 | 149 | Arianna O'Brien |

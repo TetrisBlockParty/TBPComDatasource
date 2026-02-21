@@ -238,8 +238,8 @@
 | 230 | 356 | Shameika Trail |
 | 231 | 355 | Shandrica Lowe |
 | 232 | 355 | Kristen O'Neal |
-| 233 | 354 | Tracy Wise |
-| 234 | 354 | Brave Dropmatch |
+| 233 | 354 | Brave Dropmatch |
+| 234 | 354 | Tracy Wise |
 | 235 | 353 | Joseph Musick |
 | 236 | 352 | ruth |
 | 237 | 350 | Chris Harr |
@@ -253,8 +253,8 @@
 | 245 | 341 | Joce Lynn |
 | 246 | 340 | Cassie Maynard |
 | 247 | 334 | Moni Foxe |
-| 248 | 334 | Missie Lawson Gebhardt |
-| 249 | 334 | Felicia Lynn |
+| 248 | 334 | Felicia Lynn |
+| 249 | 334 | Missie Lawson Gebhardt |
 | 250 | 333 | Brittney Jean |
 | 251 | 333 | ShinyRose |
 | 252 | 332 | TF Dyer |
@@ -265,8 +265,8 @@
 | 257 | 329 | Christina Ashley |
 | 258 | 328 | Marie Boyd Faulk |
 | 259 | 327 | Danielle Simmons |
-| 260 | 323 | Juanita Lyons |
-| 261 | 323 | Trista Dumais |
+| 260 | 323 | Trista Dumais |
+| 261 | 323 | Juanita Lyons |
 | 262 | 323 | Briana Alexander |
 | 263 | 318 | Elisheva Mizrachi |
 | 264 | 318 | Alexandra Weir |

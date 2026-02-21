@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -196,8 +196,8 @@
 | 188 | 131 | Jl |
 | 189 | 129 | Jessica Bechler |
 | 190 | 129 | Lesley Perez |
-| 191 | 128 | Jen Lewis |
-| 192 | 128 | David Bardo |
+| 191 | 128 | David Bardo |
+| 192 | 128 | Jen Lewis |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
 | 195 | 125 | Felicia Doxey |
@@ -254,11 +254,11 @@
 | 246 | 103 | Wetwet |
 | 247 | 103 | BabyTonj Evans |
 | 248 | 102 | Christian Luna |
-| 249 | 101 | Hyper Bridger |
-| 250 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 251 | 100 | Demetrious Shaw Sr. |
+| 249 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 250 | 101 | Hyper Bridger |
+| 251 | 100 | Bobbi Moore |
 | 252 | 100 | Elizabeth Renee |
-| 253 | 100 | Bobbi Moore |
+| 253 | 100 | Demetrious Shaw Sr. |
 | 254 | 100 | Donna |
 | 255 | 100 | Edwin Calvillo Jr. |
 | 256 | 99 | Michael Nowogorski |
