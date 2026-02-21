@@ -194,8 +194,8 @@
 | 186 | 563 | Maria Escobar |
 | 187 | 556 | Shavonna Haynes |
 | 188 | 553 | Leslie Ann Carter |
-| 189 | 549 | Charvi' Carter |
-| 190 | 549 | Kaylee McCafferty |
+| 189 | 549 | Kaylee McCafferty |
+| 190 | 549 | Charvi' Carter |
 | 191 | 543 | Adam Erikson |
 | 192 | 541 | Giggy Blocker |
 | 193 | 541 | SaraMarie Eveland |

@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
@@ -132,15 +132,15 @@
 | 124 | 160 | ZeeZee |
 | 125 | 157 | quicksand420 |
 | 126 | 157 | Jenna McGeorge |
-| 127 | 156 | Holly |
-| 128 | 156 | Jessica Bohlken |
+| 127 | 156 | Jessica Bohlken |
+| 128 | 156 | Holly |
 | 129 | 153 | Empress Oasis |
 | 130 | 152 | Katherine Crane |
 | 131 | 151 | Bethany Ison |
 | 132 | 151 | Dana Scott |
 | 133 | 148 | Brittany Marsh |
 | 134 | 148 | Janita Parrish |
-| 135 | 147 | Chair |
+| 135 | 147 | 030Synner |
 | 136 | 147 | Shainne Brewer |
 | 137 | 147 | Jay28 |
 | 138 | 147 | Chair |
@@ -150,8 +150,8 @@
 | 142 | 144 | Mr. Party |
 | 143 | 141 | Malakai Darien Fox |
 | 144 | 141 | Kathy Allen |
-| 145 | 140 | John Brunetti |
-| 146 | 140 | Shannon Ferrari |
+| 145 | 140 | Shannon Ferrari |
+| 146 | 140 | John Brunetti |
 | 147 | 139 | ĥuf |
 | 148 | 137 | PeaceOs |
 | 149 | 137 | Roger Coulter |
@@ -183,7 +183,7 @@
 | 175 | 122 | 🥔🥔 Spudz |
 | 176 | 121 | Megan Cutshaw |
 | 177 | 121 | Marcus Todd |
-| 178 | 121 | Megan Cutshaw |
+| 178 | 121 | Smiley Tiltbuilder |
 | 179 | 120 | KayM |
 | 180 | 120 | Joshua Guess |
 | 181 | 119 | Gwendolyn Pitcairn |
