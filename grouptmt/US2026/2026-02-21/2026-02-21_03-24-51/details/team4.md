@@ -248,18 +248,18 @@
 | 240 | 41 | Berklie Apedaile |
 | 241 | 40 | Angelson |
 | 242 | 40 | Clarence Patawaran |
-| 243 | 40 | slurp |
+| 243 | 40 | BlockBabe |
 | 244 | 40 | Melissa VanBourgondien |
-| 245 | 40 | Alexis Kelly |
-| 246 | 40 | Angelson |
-| 247 | 39 | Chris Hartig |
+| 245 | 40 | slurp |
+| 246 | 40 | Alexis Kelly |
+| 247 | 39 | Eric Wren |
 | 248 | 39 | Ees17 |
-| 249 | 39 | Eric Wren |
+| 249 | 39 | Chris Hartig |
 | 250 | 39 | Meli  Jackson |
 | 251 | 38 | Jade Rian |
-| 252 | 38 | Brittany Little |
-| 253 | 38 | Vanessa Smart |
-| 254 | 38 | MistyBayou |
+| 252 | 38 | Vanessa Smart |
+| 253 | 38 | MistyBayou |
+| 254 | 38 | Brittany Little |
 | 255 | 38 | Lindsay Ball |
 | 256 | 37 | Patrick Cossette |
 | 257 | 37 | 中山成巳 |
