@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | Jonathan Kimbrough |
-| 50 | 411 | TeeJ |
+| 49 | 411 | TeeJ |
+| 50 | 411 | Jonathan Kimbrough |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -123,11 +123,11 @@
 | 115 | 179 | Epic Curvetile |
 | 116 | 178 | Lori |
 | 117 | 176 | Stacey Stano |
-| 118 | 174 | Dihcheese444 |
-| 119 | 174 | Zethra Prenisha Rahming |
+| 118 | 174 | Zethra Prenisha Rahming |
+| 119 | 174 | Dihcheese444 |
 | 120 | 174 | shark tato |
-| 121 | 173 | blockstar |
-| 122 | 173 | Ren Mc |
+| 121 | 173 | Ren Mc |
+| 122 | 173 | blockstar |
 | 123 | 170 | Girl |
 | 124 | 164 | ThaEviLJeNiuZ |
 | 125 | 164 | 030Synner |

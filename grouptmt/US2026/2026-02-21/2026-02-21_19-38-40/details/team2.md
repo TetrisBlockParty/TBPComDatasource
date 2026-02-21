@@ -181,13 +181,13 @@
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |
 | 175 | 597 | Erica Williams |
-| 176 | 596 | Jelly |
-| 177 | 596 | Ellie Jonas |
+| 176 | 596 | Ellie Jonas |
+| 177 | 596 | Jelly |
 | 178 | 592 | Ashle Scranton |
 | 179 | 591 | Alisha |
 | 180 | 591 | Diana Fitzwater |
-| 181 | 583 | Jessicah Myers |
-| 182 | 583 | Steve Grotto |
+| 181 | 583 | Steve Grotto |
+| 182 | 583 | Jessicah Myers |
 | 183 | 579 | Gary Stash |
 | 184 | 576 | Shannon Joslin |
 | 185 | 571 | Thomas Hedrick |
