@@ -105,8 +105,8 @@
 | 97 | 809 | Tanya Parsons |
 | 98 | 801 | Tralonda Weeks |
 | 99 | 800 | Tacara Cummings |
-| 100 | 789 | Stephanie Chapman |
-| 101 | 789 | James Simms III |
+| 100 | 789 | James Simms III |
+| 101 | 789 | Stephanie Chapman |
 | 102 | 787 | Laura McCarthey |
 | 103 | 780 | Amanda Grohmann |
 | 104 | 772 | Megan Ferguson Leone |
@@ -173,9 +173,9 @@
 | 165 | 546 | Charvi' Carter |
 | 166 | 543 | Diana Fitzwater |
 | 167 | 541 | SaraMarie Eveland |
-| 168 | 534 | Teresa Gillmore |
-| 169 | 534 | Stephen Stephen |
-| 170 | 534 | Poppy Snapper |
+| 168 | 534 | Poppy Snapper |
+| 169 | 534 | Teresa Gillmore |
+| 170 | 534 | Stephen Stephen |
 | 171 | 531 | Chris Wanner |
 | 172 | 527 | Adira Brown |
 | 173 | 527 | Stacy Stickle |
@@ -248,9 +248,9 @@
 | 240 | 405 | Christy Krissie |
 | 241 | 402 | Joshua Mandel |
 | 242 | 400 | Beverly Owens |
-| 243 | 400 | Rhonda Milstead |
-| 244 | 400 | Tammy Allen |
-| 245 | 400 | Crystie Hicks |
+| 243 | 400 | Crystie Hicks |
+| 244 | 400 | Rhonda Milstead |
+| 245 | 400 | Tammy Allen |
 | 246 | 397 | Ashley Guernsey-Martin |
 | 247 | 397 | coleksquad |
 | 248 | 397 | Shiny Rollzone |
@@ -399,8 +399,8 @@
 | 391 | 273 | Jenna Nance |
 | 392 | 272 | Mikayala Szaz |
 | 393 | 271 | Ann Marie Davis |
-| 394 | 271 | Loony Basepiece |
-| 395 | 271 | Toni Lynn |
+| 394 | 271 | Toni Lynn |
+| 395 | 271 | Loony Basepiece |
 | 396 | 269 | Reece Smith |
 | 397 | 267 | Fi Ne |
 | 398 | 267 | Britt Stunkel |

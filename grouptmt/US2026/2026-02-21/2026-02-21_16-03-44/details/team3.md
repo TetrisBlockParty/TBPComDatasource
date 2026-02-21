@@ -159,8 +159,8 @@
 | 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Sissy Lowery Davis |
-| 155 | 189 | Staci George Fitzsimmons |
+| 154 | 189 | Staci George Fitzsimmons |
+| 155 | 189 | Sissy Lowery Davis |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -181,8 +181,8 @@
 | 173 | 168 | rosy |
 | 174 | 167 | Raven Dudley |
 | 175 | 166 | Loopy Fallmatch |
-| 176 | 166 | Betty Rosas |
-| 177 | 166 | Kelly Ann Child |
+| 176 | 166 | Kelly Ann Child |
+| 177 | 166 | Betty Rosas |
 | 178 | 165 | Kali Kelz Williams |
 | 179 | 163 | Stephanie Hill |
 | 180 | 163 | Sashay Tapae Simpson |

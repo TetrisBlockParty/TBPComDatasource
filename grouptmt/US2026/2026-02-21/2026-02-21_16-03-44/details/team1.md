@@ -93,10 +93,10 @@
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
-| 88 | 191 | Jazzy Framezone |
-| 89 | 191 | Diane Byrd |
-| 90 | 190 | Thorne Shumate |
-| 91 | 190 | Sweetts |
+| 88 | 191 | Diane Byrd |
+| 89 | 191 | Jazzy Framezone |
+| 90 | 190 | Sweetts |
+| 91 | 190 | Thorne Shumate |
 | 92 | 189 | Happy Basegrid |
 | 93 | 185 | Ash Galvan |
 | 94 | 184 | TSwag |
@@ -144,7 +144,7 @@
 | 136 | 135 | Giddy Cascade |
 | 137 | 134 | Trina Gee |
 | 138 | 133 | Breanna Luna |
-| 139 | 132 | Cody Gates |
+| 139 | 132 | LaQuetta Faith Hines |
 | 140 | 132 | Davery Spencer Adair |
 | 141 | 132 | Cody Gates |
 | 142 | 131 | Uhog SF |
@@ -188,8 +188,8 @@
 | 180 | 106 | Bloknboy |
 | 181 | 106 | Alyssa Ingram |
 | 182 | 105 | Ty Brown |
-| 183 | 104 | Charla Pross-Fugleberg |
-| 184 | 104 | Bindi |
+| 183 | 104 | Bindi |
+| 184 | 104 | Charla Pross-Fugleberg |
 | 185 | 103 | Chantelle Ceno |
 | 186 | 101 | David Miller |
 | 187 | 101 | Jessie |

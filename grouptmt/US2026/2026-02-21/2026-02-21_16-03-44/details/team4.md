@@ -58,8 +58,8 @@
 | 50 | 331 | Clarence Patawaran |
 | 51 | 328 | Landon Keith Graffeo |
 | 52 | 326 | Carlton Unfiltered |
-| 53 | 308 | Jen Allison |
-| 54 | 308 | Lisa Davis |
+| 53 | 308 | Lisa Davis |
+| 54 | 308 | Jen Allison |
 | 55 | 301 | Jamie Mann-Deichmann |
 | 56 | 300 | David Lay |
 | 57 | 300 | Jason Hart |
@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Casey Grabner |
-| 78 | 211 | Dizzy Tiley |
+| 77 | 211 | Dizzy Tiley |
+| 78 | 211 | Casey Grabner |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
