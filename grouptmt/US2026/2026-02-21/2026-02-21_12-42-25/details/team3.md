@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Jennifer Willis |
-| 21 | 1015 | Josiah Fam |
+| 20 | 1015 | Josiah Fam |
+| 21 | 1015 | Jennifer Willis |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -90,8 +90,8 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
 | 87 | 307 | Peggi Charon |
 | 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |

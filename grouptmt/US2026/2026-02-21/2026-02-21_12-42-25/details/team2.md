@@ -13,8 +13,8 @@
 | 5 | 4359 | Sean Dugar |
 | 6 | 3844 | 赵珞涵 |
 | 7 | 3719 | Cassie Donica |
-| 8 | 3567 | Taylana Mincy |
-| 9 | 3567 | Rickey Goins Jr. |
+| 8 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Taylana Mincy |
 | 10 | 3460 | Poppy Snap |
 | 11 | 3457 | Nicole Rowley |
 | 12 | 3453 | Tiaira Patrice' |
@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Brandon Armstrong |
-| 222 | 364 | Shinette Dobson |
+| 221 | 364 | Shinette Dobson |
+| 222 | 364 | Brandon Armstrong |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -238,8 +238,8 @@
 | 230 | 356 | Shameika Trail |
 | 231 | 355 | Shandrica Lowe |
 | 232 | 355 | Kristen O'Neal |
-| 233 | 354 | Tracy Wise |
-| 234 | 354 | Brave Dropmatch |
+| 233 | 354 | Brave Dropmatch |
+| 234 | 354 | Tracy Wise |
 | 235 | 353 | Joseph Musick |
 | 236 | 352 | ruth |
 | 237 | 350 | Chris Harr |
@@ -406,8 +406,8 @@
 | 398 | 229 | Kimmy Newman |
 | 399 | 228 | Michelle Sager |
 | 400 | 227 | JacJac |
-| 401 | 226 | Juliana Marques Do Nascimento Gordy |
-| 402 | 226 | Mary Marie |
+| 401 | 226 | Mary Marie |
+| 402 | 226 | Juliana Marques Do Nascimento Gordy |
 | 403 | 226 | Leslie Ann Carter |
 | 404 | 226 | Alishac Marie |
 | 405 | 224 | Justin Hines |

@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -49,8 +49,8 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Theo Pinnow |
-| 45 | 274 | Sweet Baker |
+| 44 | 274 | Sweet Baker |
+| 45 | 274 | Theo Pinnow |
 | 46 | 272 | Adam Byrd |
 | 47 | 264 | Shauna Loe |
 | 48 | 257 | Sarah Roberts |
@@ -65,8 +65,8 @@
 | 57 | 225 | Elaine Elaine |
 | 58 | 217 | Deanna L Hermanson |
 | 59 | 216 | Hyp James NObettadanluvarat |
-| 60 | 212 | Jaimie Lynn |
-| 61 | 212 | Tdub |
+| 60 | 212 | Tdub |
+| 61 | 212 | Jaimie Lynn |
 | 62 | 211 | Marianita Garcia |
 | 63 | 208 | Carrie Beck Geartz |
 | 64 | 208 | Mandyy Rae |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -115,8 +115,8 @@
 | 107 | 144 | Tanya Carpenter-Reynolds |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
-| 110 | 138 | Cranky Pattern |
-| 111 | 138 | Gary Gobin |
+| 110 | 138 | Gary Gobin |
+| 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
 | 114 | 133 | Brandi Huntington |
@@ -131,15 +131,15 @@
 | 123 | 127 | Michael |
 | 124 | 124 | Cartier |
 | 125 | 121 | Bouncy Grid |
-| 126 | 120 | Kimmie Kimms |
-| 127 | 120 | Alenoush Karimian |
+| 126 | 120 | Alenoush Karimian |
+| 127 | 120 | Kimmie Kimms |
 | 128 | 119 | April Carroll |
 | 129 | 119 | Irual Hctrab |
 | 130 | 119 | Tater |
 | 131 | 118 | Barry Mac'Ockner |
 | 132 | 116 | Evie Khalil |
-| 133 | 115 | Chuck Gannon |
-| 134 | 115 | Mrs.Patrica |
+| 133 | 115 | Mrs.Patrica |
+| 134 | 115 | Chuck Gannon |
 | 135 | 114 | Colleen Wise |
 | 136 | 114 | Giddy Cascade |
 | 137 | 112 | Flashy Rotator |
@@ -147,8 +147,8 @@
 | 139 | 112 | Nicole Roseberry Weber |
 | 140 | 112 | Kristen Gideon |
 | 141 | 111 | Agustin Duarte Orozco |
-| 142 | 111 | Chirpy Smasher |
-| 143 | 111 | Jessica Russell |
+| 142 | 111 | Jessica Russell |
+| 143 | 111 | Chirpy Smasher |
 | 144 | 110 | Garcia Bailey |
 | 145 | 108 | Tavia |
 | 146 | 108 | Dizzy Party |
