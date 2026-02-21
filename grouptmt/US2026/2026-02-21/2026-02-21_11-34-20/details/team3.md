@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | AlsoJess |
@@ -149,17 +149,17 @@
 | 141 | 163 | Raven Dudley |
 | 142 | 163 | Karon Griffin |
 | 143 | 162 | Rebel124 |
-| 144 | 159 | Jone |
-| 145 | 159 | Mcathen |
-| 146 | 159 | Morgan Martinez |
+| 144 | 159 | Mcathen |
+| 145 | 159 | Morgan Martinez |
+| 146 | 159 | Jone |
 | 147 | 158 | Grams |
 | 148 | 157 | Nicholas Roddy |
 | 149 | 157 | Patricia Gadsden |
 | 150 | 156 | Joey Banks |
 | 151 | 155 | BŘŰŤİÇŨŚ |
 | 152 | 154 | Angela M. Fletcher |
-| 153 | 153 | Stephanie Whitefield |
-| 154 | 153 | Beth Ingham |
+| 153 | 153 | Beth Ingham |
+| 154 | 153 | Stephanie Whitefield |
 | 155 | 152 | Shiny Zonebuilder |
 | 156 | 151 | MsBee |
 | 157 | 150 | Nicole Myers |
@@ -167,8 +167,8 @@
 | 159 | 149 | Trisha Balmer |
 | 160 | 149 | Angel Mendez |
 | 161 | 147 | Sashay Tapae Simpson |
-| 162 | 146 | Latoya Mayne |
-| 163 | 146 | Denita Mungro |
+| 162 | 146 | Denita Mungro |
+| 163 | 146 | Latoya Mayne |
 | 164 | 145 | Bryan Byrd |
 | 165 | 142 | Erica Anderson |
 | 166 | 140 | Carrie Huskey |

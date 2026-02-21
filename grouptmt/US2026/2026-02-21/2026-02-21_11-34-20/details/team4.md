@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -69,8 +69,8 @@
 | 61 | 207 | Alyssa Papen |
 | 62 | 205 | Sarah Neathery |
 | 63 | 204 | Brittney Orengo |
-| 64 | 198 | Mike Solo |
-| 65 | 198 | Lori Walker |
+| 64 | 198 | Lori Walker |
+| 65 | 198 | Mike Solo |
 | 66 | 197 | Autum Leigh |
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
@@ -82,11 +82,11 @@
 | 74 | 173 | Jeff Brian Gates |
 | 75 | 171 | Zethra Prenisha Rahming |
 | 76 | 171 | Melvin Baird |
-| 77 | 170 | Leah Kutz Zirbel |
-| 78 | 170 | Girl |
+| 77 | 170 | Girl |
+| 78 | 170 | Leah Kutz Zirbel |
 | 79 | 167 | Denise Carlson |
-| 80 | 165 | Courtney Cicoria |
-| 81 | 165 | Casey Grabner |
+| 80 | 165 | Casey Grabner |
+| 81 | 165 | Courtney Cicoria |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
 | 84 | 159 | Justin Hannigan |
@@ -121,9 +121,9 @@
 | 113 | 129 | Landon Keith Graffeo |
 | 114 | 126 | Dihcheese444 |
 | 115 | 125 | Lauren Scott |
-| 116 | 123 | TinyLegoRose |
-| 117 | 123 | Cherrish Duren |
-| 118 | 123 | Bubbly Puzzler |
+| 116 | 123 | Bubbly Puzzler |
+| 117 | 123 | TinyLegoRose |
+| 118 | 123 | Cherrish Duren |
 | 119 | 122 | Sherri |
 | 120 | 121 | Zany Shatterer |
 | 121 | 121 | Smiley Tiltbuilder |
