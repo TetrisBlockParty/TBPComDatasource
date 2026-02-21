@@ -55,8 +55,8 @@
 | 47 | 447 | Samantha Peterson |
 | 48 | 433 | Isabel Aguilar |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | TeeJ |
-| 51 | 411 | Jonathan Kimbrough |
+| 50 | 411 | Jonathan Kimbrough |
+| 51 | 411 | TeeJ |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -164,9 +164,9 @@
 | 156 | 140 | John Brunetti |
 | 157 | 140 | Roger Coulter |
 | 158 | 137 | PeaceOs |
-| 159 | 136 | Tanner Lund |
-| 160 | 136 | Sarah Brown |
-| 161 | 136 | Serena Goodridge |
+| 159 | 136 | Sarah Brown |
+| 160 | 136 | Serena Goodridge |
+| 161 | 136 | Tanner Lund |
 | 162 | 135 | Victoria Faniel |
 | 163 | 135 | Stephme310 |
 | 164 | 134 | Chirpy Basepiece |
@@ -203,14 +203,14 @@
 | 195 | 120 | KayM |
 | 196 | 120 | Joshua Guess |
 | 197 | 119 | Kristin Manee |
-| 198 | 119 | Judy Cox |
-| 199 | 119 | Gwendolyn Pitcairn |
-| 200 | 118 | Mary Ann Pabukis |
-| 201 | 118 | Chris Bernstein |
-| 202 | 115 | Sam Middleton |
-| 203 | 115 | Nubian1 |
-| 204 | 115 | Jayk |
-| 205 | 115 | Ultramarine |
+| 198 | 119 | Gwendolyn Pitcairn |
+| 199 | 119 | Judy Cox |
+| 200 | 118 | Chris Bernstein |
+| 201 | 118 | Mary Ann Pabukis |
+| 202 | 115 | Nubian1 |
+| 203 | 115 | Sam Middleton |
+| 204 | 115 | Ultramarine |
+| 205 | 115 | Jayk |
 | 206 | 113 | Dandy Cascadefit |
 | 207 | 113 | Adam Randall |
 | 208 | 112 | Jeremy Steines |
@@ -299,8 +299,8 @@
 | 291 | 83 | Abigail Murphy |
 | 292 | 83 | Daresha Fair |
 | 293 | 82 | Nick Gray |
-| 294 | 82 | bloat princess |
-| 295 | 82 | Kametsunoyaiba |
+| 294 | 82 | Kametsunoyaiba |
+| 295 | 82 | bloat princess |
 | 296 | 81 | TRCuse |
 | 297 | 80 | Porkobello |
 | 298 | 80 | GBR |

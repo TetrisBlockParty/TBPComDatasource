@@ -25,8 +25,8 @@
 | 17 | 792 | LaQuetta Faith Hines |
 | 18 | 779 | Andrea Dañielle Ortiz |
 | 19 | 771 | Robert Beck |
-| 20 | 770 | Adryane Schnase |
-| 21 | 770 | Zappy Curvetile |
+| 20 | 770 | Zappy Curvetile |
+| 21 | 770 | Adryane Schnase |
 | 22 | 699 | Josie Kirt |
 | 23 | 683 | Chipper Gridlock |
 | 24 | 658 | Carolyn Smith |
@@ -47,8 +47,8 @@
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
 | 41 | 493 | Kristen Roles Robben |
-| 42 | 486 | Sevens4L |
-| 43 | 486 | Sarah Lombardo |
+| 42 | 486 | Sarah Lombardo |
+| 43 | 486 | Sevens4L |
 | 44 | 483 | Ryan Lunnin |
 | 45 | 469 | Kathi Snustad |
 | 46 | 460 | Matt |
@@ -164,10 +164,10 @@
 | 156 | 147 | Davery Spencer Adair |
 | 157 | 147 | Leslie Bush Yarbrough |
 | 158 | 146 | Christy Jones |
-| 159 | 145 | Angela Fairbank |
-| 160 | 145 | Agustin Duarte Orozco |
-| 161 | 144 | Gary Gobin |
-| 162 | 144 | femmefatale |
+| 159 | 145 | Agustin Duarte Orozco |
+| 160 | 145 | Angela Fairbank |
+| 161 | 144 | femmefatale |
+| 162 | 144 | Gary Gobin |
 | 163 | 143 | Sarah Marie |
 | 164 | 142 | Colleen Wise |
 | 165 | 141 | Blaire Bruckoff |
@@ -175,8 +175,8 @@
 | 167 | 138 | Death |
 | 168 | 138 | Cranky Pattern |
 | 169 | 137 | Cody Gates |
-| 170 | 136 | Breanna Luna |
-| 171 | 136 | Dino |
+| 170 | 136 | Dino |
+| 171 | 136 | Breanna Luna |
 | 172 | 135 | Guest |
 | 173 | 135 | Giddy Cascade |
 | 174 | 134 | Witty Builderfit |
