@@ -14,8 +14,8 @@
 | 6 | 4400 | Cool Snapclear |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3739 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3519 | Kristen Sceurman |
 | 13 | 3514 | Brian Jefferson |
@@ -514,12 +514,12 @@
 | 506 | 201 | Matthew Turner |
 | 507 | 201 | Twisty Tetriblast |
 | 508 | 200 | Sara Silvernail-Kay |
-| 509 | 200 | LaWanda Powell |
-| 510 | 200 | Sarah Ridenour |
+| 509 | 200 | Sarah Ridenour |
+| 510 | 200 | LaWanda Powell |
 | 511 | 200 | Biggest thing |
-| 512 | 199 | Jessica Sutter |
+| 512 | 199 | Jenny Castro |
 | 513 | 199 | Alyssa Nadine Medelez |
-| 514 | 199 | Jenny Castro |
+| 514 | 199 | Jessica Sutter |
 | 515 | 198 | Angie Bolton Workman |
 | 516 | 197 | Kati Russeau |
 | 517 | 196 | Tony Lea |

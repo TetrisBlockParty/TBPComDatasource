@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 769 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -150,8 +150,8 @@
 | 142 | 195 | Nicha Hooker |
 | 143 | 194 | glichmod |
 | 144 | 193 | Stephanie Burtin |
-| 145 | 193 | Clever Shiftsnap |
-| 146 | 193 | Duane Bright |
+| 145 | 193 | Duane Bright |
+| 146 | 193 | Clever Shiftsnap |
 | 147 | 191 | Giddy Twistbuilder |
 | 148 | 191 | Scott Carleton |
 | 149 | 190 | Jay Horn |
@@ -195,11 +195,11 @@
 | 187 | 156 | Bea Miles |
 | 188 | 155 | Sarajane Lokan |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Katrina E Jelks |
-| 191 | 152 | Shiny Zonebuilder |
+| 190 | 152 | Shiny Zonebuilder |
+| 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | MsBee |
-| 194 | 151 | Brenda Lee Vander Molen |
+| 193 | 151 | Brenda Lee Vander Molen |
+| 194 | 151 | MsBee |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Alexis Taylor |
 | 197 | 149 | Desiree Gold |
@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Danielle Weikel |
-| 253 | 110 | Tye Stovall |
+| 252 | 110 | Tye Stovall |
+| 253 | 110 | Danielle Weikel |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | Brave Brickster |
@@ -273,8 +273,8 @@
 | 265 | 107 | Bouncy Blockbuilder |
 | 266 | 106 | Cheeky Snapper |
 | 267 | 106 | Noettín Kan Zasnemoore |
-| 268 | 105 | Boldy Blocker |
-| 269 | 105 | Donna |
+| 268 | 105 | Donna |
+| 269 | 105 | Boldy Blocker |
 | 270 | 105 | Emi |
 | 271 | 104 | Samantha Lynn |
 | 272 | 104 | El Chapa |

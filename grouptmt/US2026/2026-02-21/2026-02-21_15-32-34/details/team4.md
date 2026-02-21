@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -57,8 +57,8 @@
 | 49 | 308 | Jen Allison |
 | 50 | 306 | Lisa Davis |
 | 51 | 303 | Tammi Crnza |
-| 52 | 300 | Jason Hart |
-| 53 | 300 | David Lay |
+| 52 | 300 | David Lay |
+| 53 | 300 | Jason Hart |
 | 54 | 299 | Livvy |
 | 55 | 295 | Latisha Davis |
 | 56 | 291 | Leslie Thomas |
@@ -101,8 +101,8 @@
 | 93 | 178 | Lori |
 | 94 | 177 | Andria Lynn |
 | 95 | 174 | Zethra Prenisha Rahming |
-| 96 | 173 | Jeff Brian Gates |
-| 97 | 173 | Justin Hannigan |
+| 96 | 173 | Justin Hannigan |
+| 97 | 173 | Jeff Brian Gates |
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 170 | blockstar |
@@ -121,8 +121,8 @@
 | 113 | 151 | Dana Scott |
 | 114 | 147 | 030Synner |
 | 115 | 147 | Jay28 |
-| 116 | 146 | Klo |
-| 117 | 146 | Peachy Fall |
+| 116 | 146 | Peachy Fall |
+| 117 | 146 | Klo |
 | 118 | 145 | Jessica Bohlken |
 | 119 | 144 | Mr. Party |
 | 120 | 144 | Brittany Marsh |
@@ -141,11 +141,11 @@
 | 133 | 132 | Degenerate |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Angela Geist Jusinski |
 | 143 | 123 | Cherrish Duren |
@@ -161,9 +161,9 @@
 | 153 | 119 | Kristin Manee |
 | 154 | 118 | Leslie Nicole |
 | 155 | 116 | Diana Houts |
-| 156 | 115 | Jayk |
-| 157 | 115 | Ultramarine |
-| 158 | 115 | AyeKay |
+| 156 | 115 | Ultramarine |
+| 157 | 115 | AyeKay |
+| 158 | 115 | Jayk |
 | 159 | 113 | Adam Randall |
 | 160 | 112 | Bryan Hodgins |
 | 161 | 112 | Austin Owens |
@@ -192,8 +192,8 @@
 | 184 | 99 | Michael Orris |
 | 185 | 98 | Shane Kalamata Platoon |
 | 186 | 98 | Chaz |
-| 187 | 98 | Jeremy Steines |
-| 188 | 98 | Duck |
+| 187 | 98 | Duck |
+| 188 | 98 | Jeremy Steines |
 | 189 | 97 | Brandi Durig |
 | 190 | 96 | Zappy Snaplink |
 | 191 | 96 | Adam Stephanie Parker |

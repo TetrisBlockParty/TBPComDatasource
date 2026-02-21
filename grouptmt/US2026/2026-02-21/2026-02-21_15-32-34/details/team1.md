@@ -76,8 +76,8 @@
 | 68 | 222 | Kristen Gideon |
 | 69 | 217 | Deanna L Hermanson |
 | 70 | 216 | Dee Perry |
-| 71 | 212 | Jaimie Lynn |
-| 72 | 212 | Mandyy Rae |
+| 71 | 212 | Mandyy Rae |
+| 72 | 212 | Jaimie Lynn |
 | 73 | 211 | Marianita Garcia |
 | 74 | 208 | Carrie Beck Geartz |
 | 75 | 205 | Billie Dawn Sparks |
@@ -87,8 +87,8 @@
 | 79 | 201 | Ananda Mendez |
 | 80 | 201 | Anaid Sanchez |
 | 81 | 200 | Giggly Builderline |
-| 82 | 198 | Happy Snapbuild |
-| 83 | 198 | Brandi Huntington |
+| 82 | 198 | Brandi Huntington |
+| 83 | 198 | Happy Snapbuild |
 | 84 | 197 | Cynthia Bradley |
 | 85 | 193 | Lachelle Dillon |
 | 86 | 192 | Shaykmia |
@@ -100,7 +100,7 @@
 | 92 | 185 | Ash Galvan |
 | 93 | 180 | Erez Yosef |
 | 94 | 178 | Danielle Little-Daugherty |
-| 95 | 173 | Frothy Pattern |
+| 95 | 173 | june october |
 | 96 | 173 | Jennifer Olewnik Soborowski |
 | 97 | 173 | Frothy Pattern |
 | 98 | 171 | Greg Premoe |
@@ -156,8 +156,8 @@
 | 148 | 124 | Cartier |
 | 149 | 123 | Kimberly Garcia |
 | 150 | 122 | Melissa Lemmon |
-| 151 | 121 | Bouncy Grid |
-| 152 | 121 | Tipsy Riseclear |
+| 151 | 121 | Tipsy Riseclear |
+| 152 | 121 | Bouncy Grid |
 | 153 | 120 | Alenoush Karimian |
 | 154 | 120 | Kimmie Kimms |
 | 155 | 119 | Tater |
