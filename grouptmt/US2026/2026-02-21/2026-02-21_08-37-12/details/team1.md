@@ -55,14 +55,14 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Jaimie Lynn |
-| 51 | 212 | Tdub |
+| 50 | 212 | Tdub |
+| 51 | 212 | Jaimie Lynn |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Anaid Sanchez |
-| 57 | 201 | Ananda Mendez |
+| 56 | 201 | Ananda Mendez |
+| 57 | 201 | Anaid Sanchez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Happy Snapbuild |
 | 60 | 198 | Billie Dawn Sparks |
@@ -72,8 +72,8 @@
 | 64 | 192 | Mandyy Rae |
 | 65 | 192 | Shaykmia |
 | 66 | 191 | Jazzy Framezone |
-| 67 | 190 | Sweetts |
-| 68 | 190 | Thorne Shumate |
+| 67 | 190 | Thorne Shumate |
+| 68 | 190 | Sweetts |
 | 69 | 189 | Happy Basegrid |
 | 70 | 182 | Hyper |
 | 71 | 173 | Frothy Pattern |
@@ -109,8 +109,8 @@
 | 101 | 133 | Brandi Huntington |
 | 102 | 132 | Davery Spencer Adair |
 | 103 | 130 | Dandy Basegrid |
-| 104 | 128 | lil mickey |
-| 105 | 128 | Uhog SF |
+| 104 | 128 | Uhog SF |
+| 105 | 128 | lil mickey |
 | 106 | 127 | Michael |
 | 107 | 126 | Cece Ibarra |
 | 108 | 124 | Cartier |

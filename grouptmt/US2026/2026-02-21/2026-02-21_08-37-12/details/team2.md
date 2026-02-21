@@ -10,8 +10,8 @@
 | 2 | 4259 | Sean Dugar |
 | 3 | 4120 | Nick Jensen |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Taylana Mincy |
-| 6 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Taylana Mincy |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -39,8 +39,8 @@
 | 31 | 1257 | Crystalin Heath Lewis |
 | 32 | 1234 | blackq |
 | 33 | 1215 | Megan Garrick |
-| 34 | 1173 | Devin Lee |
-| 35 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Katrina Williams Balmir |
+| 35 | 1173 | Devin Lee |
 | 36 | 1157 | Priscilla Noel |
 | 37 | 1150 | Izabel Herrera |
 | 38 | 1143 | Lucky Ladybug |
@@ -96,8 +96,8 @@
 | 88 | 674 | Dannette Goldberg-Richards |
 | 89 | 672 | Wendy Harder Gage |
 | 90 | 665 | Dineisha Carpenter |
-| 91 | 658 | Pacynthia Williams |
-| 92 | 658 | Vistabrat |
+| 91 | 658 | Vistabrat |
+| 92 | 658 | Pacynthia Williams |
 | 93 | 653 | Becky Weeks-Garry |
 | 94 | 649 | Anna Edwards |
 | 95 | 649 | Stephanie Chapman |
@@ -374,10 +374,10 @@
 | 366 | 212 | Amanda Canterbury |
 | 367 | 212 | Aleasha M Brown |
 | 368 | 209 | Jerry Tempelmeyer |
-| 369 | 208 | Nancy Pohlman |
-| 370 | 208 | Mema |
-| 371 | 207 | Melissa McCall |
-| 372 | 207 | Brave Gridpiece |
+| 369 | 208 | Mema |
+| 370 | 208 | Nancy Pohlman |
+| 371 | 207 | Brave Gridpiece |
+| 372 | 207 | Melissa McCall |
 | 373 | 207 | Shylee Tilman |
 | 374 | 206 | Neko Preston |
 | 375 | 206 | RAEPR05 |
@@ -504,8 +504,8 @@
 | 496 | 156 | Deanna Morton |
 | 497 | 156 | Nuggets |
 | 498 | 156 | RetroLemur |
-| 499 | 155 | Monarca26 |
-| 500 | 155 | Chelle |
+| 499 | 155 | Chelle |
+| 500 | 155 | Monarca26 |
 | 501 | 155 | Angela Murgia-Owen |
 | 502 | 154 | Tiffney Wroten |
 | 503 | 154 | Cini |

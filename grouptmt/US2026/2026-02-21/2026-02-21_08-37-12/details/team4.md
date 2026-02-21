@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -111,9 +111,9 @@
 | 103 | 129 | Landon Keith Graffeo |
 | 104 | 129 | John Brunetti |
 | 105 | 125 | Lauren Scott |
-| 106 | 123 | Cherrish Duren |
-| 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
+| 106 | 123 | Nugget |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Bubbly Puzzler |
 | 109 | 122 | Sherri |
 | 110 | 121 | 030Synner |
 | 111 | 121 | Zany Shatterer |
@@ -143,8 +143,8 @@
 | 135 | 105 | AyeKay |
 | 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | YoMomma |
-| 139 | 104 | Damn Libra |
+| 138 | 104 | Damn Libra |
+| 139 | 104 | YoMomma |
 | 140 | 102 | Faja |
 | 141 | 101 | Saulc1991 |
 | 142 | 101 | Michelle Morris |
