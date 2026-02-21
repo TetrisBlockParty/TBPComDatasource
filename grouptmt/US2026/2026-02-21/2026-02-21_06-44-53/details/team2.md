@@ -399,8 +399,8 @@
 | 391 | 180 | Jackie Lucas |
 | 392 | 180 | Peter Palestino |
 | 393 | 179 | Desiree Harris Rosch |
-| 394 | 179 | Bette Prieto |
-| 395 | 179 | Cat |
+| 394 | 179 | Cat |
+| 395 | 179 | Bette Prieto |
 | 396 | 177 | Facuetoo |
 | 397 | 177 | Juliana Marques Do Nascimento Gordy |
 | 398 | 177 | Angel |

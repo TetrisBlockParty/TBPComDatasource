@@ -41,13 +41,13 @@
 | 33 | 274 | Theo Pinnow |
 | 34 | 274 | Sweet Baker |
 | 35 | 265 | Jennifer Cates |
-| 36 | 256 | Robert Benito |
-| 37 | 256 | Tipsy Column |
+| 36 | 256 | Tipsy Column |
+| 37 | 256 | Robert Benito |
 | 38 | 244 | Franswa |
 | 39 | 243 | Sarah Roberts |
 | 40 | 241 | Kristen Roles Robben |
-| 41 | 212 | Tdub |
-| 42 | 212 | Jaimie Lynn |
+| 41 | 212 | Jaimie Lynn |
+| 42 | 212 | Tdub |
 | 43 | 211 | Deanna L Hermanson |
 | 44 | 208 | Carrie Beck Geartz |
 | 45 | 206 | Elaine Elaine |
@@ -90,8 +90,8 @@
 | 82 | 144 | femmefatale |
 | 83 | 144 | Tanya Carpenter-Reynolds |
 | 84 | 143 | Sarah Marie |
-| 85 | 141 | Blaire Bruckoff |
-| 86 | 141 | Susanna Guerry |
+| 85 | 141 | Susanna Guerry |
+| 86 | 141 | Blaire Bruckoff |
 | 87 | 139 | GATOR |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
@@ -99,8 +99,8 @@
 | 91 | 132 | Davery Spencer Adair |
 | 92 | 131 | Trina Gee |
 | 93 | 130 | Dandy Basegrid |
-| 94 | 128 | lil mickey |
-| 95 | 128 | Uhog SF |
+| 94 | 128 | Uhog SF |
+| 95 | 128 | lil mickey |
 | 96 | 127 | Michael |
 | 97 | 126 | Cece Ibarra |
 | 98 | 126 | Rachael |

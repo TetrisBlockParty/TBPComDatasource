@@ -38,8 +38,8 @@
 | 30 | 612 | Danielle Cutler |
 | 31 | 608 | River |
 | 32 | 598 | Jennifer Willis |
-| 33 | 587 | Danielle Becker |
-| 34 | 587 | Suzieq |
+| 33 | 587 | Suzieq |
+| 34 | 587 | Danielle Becker |
 | 35 | 568 | Shonna Roberts |
 | 36 | 546 | Snappy Glidepiece |
 | 37 | 546 | Dolores Falco |
