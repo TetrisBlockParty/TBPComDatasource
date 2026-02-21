@@ -106,8 +106,8 @@
 | 98 | 81 | Michelle Parker |
 | 99 | 80 | Melissa Adams |
 | 100 | 79 | Shainne Brewer |
-| 101 | 78 | Zesty Linkgrid |
-| 102 | 78 | Chair |
+| 101 | 78 | Chair |
+| 102 | 78 | Zesty Linkgrid |
 | 103 | 77 | Destiney Carter |
 | 104 | 76 | Bethany Ison |
 | 105 | 76 | Jessica Miller |
@@ -116,8 +116,8 @@
 | 108 | 75 | 🥔🥔 Spudz |
 | 109 | 72 | Joshua Cuellar |
 | 110 | 71 | Christina Black |
-| 111 | 71 | Shukee Lo |
-| 112 | 71 | Joseph Pace |
+| 111 | 71 | Joseph Pace |
+| 112 | 71 | Shukee Lo |
 | 113 | 70 | Valerie Roberts |
 | 114 | 69 | Carol Ricks Raymond |
 | 115 | 69 | Michelle Marie |

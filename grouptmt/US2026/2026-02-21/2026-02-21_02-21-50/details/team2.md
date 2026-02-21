@@ -288,8 +288,8 @@
 | 280 | 170 | Kenya Felix |
 | 281 | 169 | Lively Catcher |
 | 282 | 168 | Robin |
-| 283 | 167 | Fi Ne |
-| 284 | 167 | Dedra Steward |
+| 283 | 167 | Dedra Steward |
+| 284 | 167 | Fi Ne |
 | 285 | 166 | August Hale |
 | 286 | 165 | Cathy Bitters |
 | 287 | 165 | Lylymom |
