@@ -73,8 +73,8 @@
 | 65 | 308 | Jen Allison |
 | 66 | 300 | David Lay |
 | 67 | 300 | Jason Hart |
-| 68 | 299 | Livvy |
-| 69 | 299 | Lauren Scott |
+| 68 | 299 | Lauren Scott |
+| 69 | 299 | Livvy |
 | 70 | 295 | Latisha Davis |
 | 71 | 293 | HastyGrabber |
 | 72 | 289 | Julian Garcia |
@@ -99,8 +99,8 @@
 | 91 | 202 | Monica Daley |
 | 92 | 202 | shar |
 | 93 | 200 | Holly Jolly |
-| 94 | 198 | Dustee Craddock-Harrison |
-| 95 | 198 | Mike Solo |
+| 94 | 198 | Mike Solo |
+| 95 | 198 | Dustee Craddock-Harrison |
 | 96 | 196 | Damn Libra |
 | 97 | 196 | Jeff Brian Gates |
 | 98 | 194 | Zany Twisterfit |
@@ -135,8 +135,8 @@
 | 127 | 156 | Jessica Bohlken |
 | 128 | 156 | Holly |
 | 129 | 153 | Empress Oasis |
-| 130 | 151 | Bethany Ison |
-| 131 | 151 | Dana Scott |
+| 130 | 151 | Dana Scott |
+| 131 | 151 | Bethany Ison |
 | 132 | 148 | Brittany Marsh |
 | 133 | 148 | Janita Parrish |
 | 134 | 147 | Jay28 |

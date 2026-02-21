@@ -161,8 +161,8 @@
 | 153 | 214 | Jenny Hrndz |
 | 154 | 214 | Leah Barnett |
 | 155 | 212 | Krystal Gerstberger |
-| 156 | 211 | Katrina Turner |
-| 157 | 211 | Katrina Schroeder |
+| 156 | 211 | Katrina Schroeder |
+| 157 | 211 | Katrina Turner |
 | 158 | 207 | Nicole Myers |
 | 159 | 207 | Nikki Pags |
 | 160 | 207 | Chris Bell |
@@ -195,8 +195,8 @@
 | 187 | 178 | AlsoJess |
 | 188 | 178 | Ryan Williams |
 | 189 | 177 | Trisha Balmer |
-| 190 | 175 | DanceLuvLaugh |
-| 191 | 175 | Tasha Wesson-Torrence |
+| 190 | 175 | Tasha Wesson-Torrence |
+| 191 | 175 | DanceLuvLaugh |
 | 192 | 175 | Connie Mohler-Fair |
 | 193 | 174 | rosy |
 | 194 | 174 | Loopy Fallmatch |
@@ -253,14 +253,14 @@
 | 245 | 139 | Loopy Clusterer |
 | 246 | 138 | Boldy Corner |
 | 247 | 137 | Joy Petroski |
-| 248 | 135 | Terry Jo Jones |
-| 249 | 135 | Erykah |
+| 248 | 135 | Erykah |
+| 249 | 135 | Terry Jo Jones |
 | 250 | 134 | Sarah Moyer |
-| 251 | 134 | Skinny Baldez |
-| 252 | 134 | Cesar Barraza |
+| 251 | 134 | Cesar Barraza |
+| 252 | 134 | Skinny Baldez |
 | 253 | 133 | LaNette Morgan |
-| 254 | 131 | April Matthew Kibble |
-| 255 | 131 | Darlene McMillan |
+| 254 | 131 | Darlene McMillan |
+| 255 | 131 | April Matthew Kibble |
 | 256 | 130 | Weerae |
 | 257 | 129 | Samantha Lynn |
 | 258 | 129 | Juliana Dottore |
@@ -284,9 +284,9 @@
 | 276 | 121 | Noettín Kan Zasnemoore |
 | 277 | 119 | Daring Builder |
 | 278 | 119 | BugMansMom |
-| 279 | 118 | Sabrina Hardrick |
+| 279 | 118 | Damian Reid |
 | 280 | 118 | Fancy Curver |
-| 281 | 118 | Damian Reid |
+| 281 | 118 | Sabrina Hardrick |
 | 282 | 117 | Dee Pratt |
 | 283 | 117 | Rania Zaqout |
 | 284 | 116 | Denise Marie |
