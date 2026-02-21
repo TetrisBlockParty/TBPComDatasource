@@ -86,8 +86,8 @@
 | 78 | 210 | Lucas J Sutton |
 | 79 | 205 | Sarah Neathery |
 | 80 | 204 | Brittney Orengo |
-| 81 | 198 | Dustee Craddock-Harrison |
-| 82 | 198 | Mike Solo |
+| 81 | 198 | Mike Solo |
+| 82 | 198 | Dustee Craddock-Harrison |
 | 83 | 194 | Jamie Mann-Deichmann |
 | 84 | 193 | Monica Daley |
 | 85 | 191 | loulou |
@@ -134,18 +134,18 @@
 | 126 | 138 | Shainne Brewer |
 | 127 | 136 | Tanner Lund |
 | 128 | 135 | ĥuf |
-| 129 | 134 | Serena Goodridge |
-| 130 | 134 | Chirpy Basepiece |
-| 131 | 132 | Melissa Priest Sellers |
-| 132 | 132 | Degenerate |
+| 129 | 134 | Chirpy Basepiece |
+| 130 | 134 | Serena Goodridge |
+| 131 | 132 | Degenerate |
+| 132 | 132 | Melissa Priest Sellers |
 | 133 | 132 | Jessica Cagle |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
 | 136 | 128 | Stephme310 |
 | 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | TinyLegoRose |
-| 140 | 126 | Dihcheese444 |
+| 139 | 126 | Dihcheese444 |
+| 140 | 126 | TinyLegoRose |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Angela Geist Jusinski |
 | 143 | 123 | Cherrish Duren |
@@ -257,8 +257,8 @@
 | 249 | 77 | Zippy Gridlock |
 | 250 | 76 | Crystal Lynn |
 | 251 | 76 | Madison Sweere |
-| 252 | 76 | Crystal Lynn |
-| 253 | 75 | Rosemary Foster |
+| 252 | 76 | Rebecca Blake |
+| 253 | 75 | Christina Black |
 | 254 | 75 | Moonsterix |
 | 255 | 75 | Rosemary Foster |
 | 256 | 74 | Sallie Sanborn |

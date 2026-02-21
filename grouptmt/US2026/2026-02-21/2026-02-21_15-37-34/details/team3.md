@@ -190,8 +190,8 @@
 | 182 | 159 | Stephanie Whitefield |
 | 183 | 159 | Jone |
 | 184 | 158 | Grams |
-| 185 | 157 | Patricia Gadsden |
-| 186 | 157 | Nicholas Roddy |
+| 185 | 157 | Nicholas Roddy |
+| 186 | 157 | Patricia Gadsden |
 | 187 | 156 | Bea Miles |
 | 188 | 155 | Sarajane Lokan |
 | 189 | 153 | Beth Ingham |
@@ -226,8 +226,8 @@
 | 218 | 128 | David Bardo |
 | 219 | 128 | Jen Lewis |
 | 220 | 128 | Cesar Barraza |
-| 221 | 127 | Jennifer Alvey |
-| 222 | 127 | Marquita Sheard |
+| 221 | 127 | Marquita Sheard |
+| 222 | 127 | Jennifer Alvey |
 | 223 | 126 | Juliana Dottore |
 | 224 | 125 | Felicia Doxey |
 | 225 | 125 | Shimika Enay Wallace |
@@ -235,9 +235,9 @@
 | 227 | 124 | Danielle Allison |
 | 228 | 124 | Funky Jumper |
 | 229 | 123 | Michael Latasha Gray |
-| 230 | 122 | Giggly Brickroll |
-| 231 | 122 | April Matthew Kibble |
-| 232 | 122 | BabyTonj Evans |
+| 230 | 122 | BabyTonj Evans |
+| 231 | 122 | Giggly Brickroll |
+| 232 | 122 | April Matthew Kibble |
 | 233 | 121 | Loopy Clusterer |
 | 234 | 121 | Valerie Gendron |
 | 235 | 121 | mzcatzy |
@@ -261,7 +261,7 @@
 | 253 | 110 | Tye Stovall |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
-| 256 | 109 | Diana Ibarra |
+| 256 | 109 | Brave Brickster |
 | 257 | 109 | mommablock |
 | 258 | 109 | Diana Ibarra |
 | 259 | 108 | Rachel Napper |

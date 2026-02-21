@@ -48,8 +48,8 @@
 | 40 | 365 | Jennifer Cates |
 | 41 | 363 | Angel Fowler |
 | 42 | 349 | Nancy Green |
-| 43 | 348 | Stef Hu |
-| 44 | 348 | Chipper Gridlock |
+| 43 | 348 | Chipper Gridlock |
+| 44 | 348 | Stef Hu |
 | 45 | 345 | Adryane Schnase |
 | 46 | 339 | Jacqueline Williams |
 | 47 | 338 | Stephanie Zahn |
@@ -76,8 +76,8 @@
 | 68 | 222 | Kristen Gideon |
 | 69 | 217 | Deanna L Hermanson |
 | 70 | 216 | Dee Perry |
-| 71 | 212 | Mandyy Rae |
-| 72 | 212 | Jaimie Lynn |
+| 71 | 212 | Jaimie Lynn |
+| 72 | 212 | Mandyy Rae |
 | 73 | 211 | Marianita Garcia |
 | 74 | 208 | Carrie Beck Geartz |
 | 75 | 206 | Billie Dawn Sparks |
@@ -130,8 +130,8 @@
 | 122 | 144 | Plucky Ziggy |
 | 123 | 144 | femmefatale |
 | 124 | 143 | Sarah Marie |
-| 125 | 142 | Colleen Wise |
-| 126 | 142 | Dandy Basegrid |
+| 125 | 142 | Dandy Basegrid |
+| 126 | 142 | Colleen Wise |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
 | 129 | 138 | Cranky Pattern |
@@ -148,18 +148,18 @@
 | 140 | 131 | Uhog SF |
 | 141 | 130 | LD1 |
 | 142 | 129 | Dino |
-| 143 | 128 | Barry Mac'Ockner |
-| 144 | 128 | lil mickey |
+| 143 | 128 | lil mickey |
+| 144 | 128 | Barry Mac'Ockner |
 | 145 | 127 | Brave Wrecker |
 | 146 | 127 | Aimee Horton |
 | 147 | 126 | Death |
 | 148 | 124 | Cartier |
 | 149 | 123 | Kimberly Garcia |
 | 150 | 122 | Melissa Lemmon |
-| 151 | 121 | Tipsy Riseclear |
-| 152 | 121 | Bouncy Grid |
-| 153 | 120 | Kimmie Kimms |
-| 154 | 120 | Alenoush Karimian |
+| 151 | 121 | Bouncy Grid |
+| 152 | 121 | Tipsy Riseclear |
+| 153 | 120 | Alenoush Karimian |
+| 154 | 120 | Kimmie Kimms |
 | 155 | 119 | April Carroll |
 | 156 | 119 | Tater |
 | 157 | 116 | Jessica Russell |

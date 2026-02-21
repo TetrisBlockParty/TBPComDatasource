@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Sarah Massey |
-| 235 | 405 | Christy Krissie |
+| 234 | 405 | Christy Krissie |
+| 235 | 405 | Sarah Massey |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Crystie Hicks |
 | 238 | 400 | Rhonda Milstead |
