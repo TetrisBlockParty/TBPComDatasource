@@ -96,8 +96,8 @@
 | 88 | 131 | Mr. Party |
 | 89 | 130 | Casey Jeffcoat |
 | 90 | 130 | Lucas J Sutton |
-| 91 | 129 | John Brunetti |
-| 92 | 129 | Landon Keith Graffeo |
+| 91 | 129 | Landon Keith Graffeo |
+| 92 | 129 | John Brunetti |
 | 93 | 125 | Lauren Scott |
 | 94 | 123 | Nugget |
 | 95 | 123 | Bubbly Puzzler |
@@ -239,11 +239,11 @@
 | 231 | 61 | Shauna Havard |
 | 232 | 61 | Plucky Patternblock |
 | 233 | 60 | Ahleek Mitchell |
-| 234 | 59 | Jasmine S Caldwell |
-| 235 | 59 | Jen Mattei |
+| 234 | 59 | Jen Mattei |
+| 235 | 59 | Jasmine S Caldwell |
 | 236 | 58 | Rebecca Morris |
-| 237 | 58 | Paige Kittles |
-| 238 | 58 | Gilles Lanctot |
+| 237 | 58 | Gilles Lanctot |
+| 238 | 58 | Paige Kittles |
 | 239 | 58 | Autumn Kumzi |
 | 240 | 57 | Nick Gray |
 | 241 | 57 | Chilly Crasher |
