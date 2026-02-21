@@ -106,8 +106,8 @@
 | 98 | 389 | Elissa S-k |
 | 99 | 386 | Katie Knaus |
 | 100 | 384 | Shannon Matthew Byers |
-| 101 | 378 | Tasha Schriewer |
-| 102 | 378 | Makelini Mausia |
+| 101 | 378 | Makelini Mausia |
+| 102 | 378 | Tasha Schriewer |
 | 103 | 372 | Jessica Bechler |
 | 104 | 371 | Jesse Olive |
 | 105 | 371 | Hasty Cascadefit |
@@ -120,8 +120,8 @@
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
 | 114 | 327 | Dapper Snap |
-| 115 | 323 | Sherry Ogden |
-| 116 | 323 | Ashley Raines |
+| 115 | 323 | Ashley Raines |
+| 116 | 323 | Sherry Ogden |
 | 117 | 320 | Or Reznitsky |
 | 118 | 318 | Chasity |
 | 119 | 316 | Fancy Cascader |

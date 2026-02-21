@@ -177,18 +177,18 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Death |
-| 173 | 138 | Cranky Pattern |
+| 172 | 138 | Cranky Pattern |
+| 173 | 138 | Death |
 | 174 | 137 | Cody Gates |
 | 175 | 136 | Breanna Luna |
 | 176 | 136 | Dino |
 | 177 | 135 | Giddy Cascade |
 | 178 | 135 | Guest |
 | 179 | 134 | Witty Builderfit |
-| 180 | 132 | Tipsy Riseclear |
-| 181 | 132 | Mel Hogan |
-| 182 | 131 | Uhog SF |
-| 183 | 131 | Brave Wrecker |
+| 180 | 132 | Mel Hogan |
+| 181 | 132 | Tipsy Riseclear |
+| 182 | 131 | Brave Wrecker |
+| 183 | 131 | Uhog SF |
 | 184 | 131 | Kimberly Garcia |
 | 185 | 130 | LD1 |
 | 186 | 130 | Aimee Horton |
@@ -200,11 +200,11 @@
 | 192 | 125 | Larry Tilton |
 | 193 | 125 | Fmp |
 | 194 | 124 | Cartier |
-| 195 | 122 | Margo Wagner |
-| 196 | 122 | Melissa Lemmon |
+| 195 | 122 | Melissa Lemmon |
+| 196 | 122 | Margo Wagner |
 | 197 | 121 | Mark Smith |
-| 198 | 120 | Alenoush Karimian |
-| 199 | 120 | Kimmie Kimms |
+| 198 | 120 | Kimmie Kimms |
+| 199 | 120 | Alenoush Karimian |
 | 200 | 119 | Tater |
 | 201 | 118 | SavageBooty98 |
 | 202 | 116 | ALFD |
@@ -265,7 +265,7 @@
 | 257 | 96 | Nutty Spinblock |
 | 258 | 95 | Jeanna Dunn |
 | 259 | 92 | Christina Backer |
-| 260 | 91 | Virginia Gray Floyd |
+| 260 | 91 | Beazel75 |
 | 261 | 91 | Erin Hodges Plumb |
 | 262 | 91 | Virginia Gray Floyd |
 | 263 | 90 | Grace Joanne Agnant |

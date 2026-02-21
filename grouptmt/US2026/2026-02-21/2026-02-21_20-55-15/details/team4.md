@@ -225,8 +225,8 @@
 | 217 | 109 | Frank Cook |
 | 218 | 108 | Rebecca Morris |
 | 219 | 108 | Ali Ian |
-| 220 | 107 | Rafael Valentin |
-| 221 | 107 | Nerdy Twisterfit |
+| 220 | 107 | Nerdy Twisterfit |
+| 221 | 107 | Rafael Valentin |
 | 222 | 106 | Zappy Snaplink |
 | 223 | 105 | Brandi Durig |
 | 224 | 104 | Lindsey Gonzalez |
