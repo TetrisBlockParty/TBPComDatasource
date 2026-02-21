@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -89,8 +89,8 @@
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
-| 84 | 148 | Jessie Lynn |
-| 85 | 148 | Shauntina Burke |
+| 84 | 148 | Shauntina Burke |
+| 85 | 148 | Jessie Lynn |
 | 86 | 147 | Veronica Eve |
 | 87 | 145 | Lachelle Dillon |
 | 88 | 145 | BigWeenie69 |
@@ -133,8 +133,8 @@
 | 125 | 108 | Tavia |
 | 126 | 108 | Alenoush Karimian |
 | 127 | 107 | Jodee Woods |
-| 128 | 106 | Bloknboy |
-| 129 | 106 | Ash Galvan |
+| 128 | 106 | Ash Galvan |
+| 129 | 106 | Bloknboy |
 | 130 | 105 | Flashy Rotator |
 | 131 | 104 | Charla Pross-Fugleberg |
 | 132 | 103 | Adryane Schnase |
@@ -155,8 +155,8 @@
 | 147 | 94 | Luciano Moreira |
 | 148 | 93 | Cody Gates |
 | 149 | 90 | Madison Wicks |
-| 150 | 90 | Dizzy Party |
-| 151 | 90 | TSwag |
+| 150 | 90 | TSwag |
+| 151 | 90 | Dizzy Party |
 | 152 | 89 | Mara Hilker |
 | 153 | 88 | Adam Byrd |
 | 154 | 87 | Jessi Sauer |
@@ -203,8 +203,8 @@
 | 195 | 75 | Fresno Beotoni |
 | 196 | 74 | Grace Joanne Agnant |
 | 197 | 74 | Owicked1 |
-| 198 | 73 | Shanae Grant |
-| 199 | 73 | Chantelle Ceno |
+| 198 | 73 | Chantelle Ceno |
+| 199 | 73 | Shanae Grant |
 | 200 | 72 | Tipsy Strikerpiece |
 | 201 | 70 | Henry Lanier |
 | 202 | 70 | Daring Fitclear |
@@ -214,7 +214,7 @@
 | 206 | 70 | Kenton Billings |
 | 207 | 69 | Connie |
 | 208 | 69 | Christy Jones |
-| 209 | 68 | Pamela Elliott |
+| 209 | 68 | Ariel Whittington |
 | 210 | 68 | Unelanuhi Belladonna Mystikal Bomar |
 | 211 | 68 | John Ramirez |
 | 212 | 68 | Pamela Elliott |
@@ -422,7 +422,7 @@
 | 414 | 35 | Snappy Brickbuilder |
 | 415 | 35 | Blake Cobb |
 | 416 | 35 | Lil H |
-| 417 | 35 | Toni Sagenbrecht |
+| 417 | 35 | Kelly Holland |
 | 418 | 35 | Stephanie Leday |
 | 419 | 35 | Elizabeth Coover |
 | 420 | 35 | Dandy Towerbuilder |
@@ -1031,13 +1031,13 @@
 | 1023 | 5 | Michelle Arteaga-Avila |
 | 1024 | 5 | BEARCAT |
 | 1025 | 5 | Spicy Brickline |
-| 1026 | 5 | BEARCAT |
-| 1027 | 5 | Michelle Beres |
-| 1028 | 5 | Lush Risebuilder |
-| 1029 | 5 | I Am |
-| 1030 | 5 | Camio30 |
-| 1031 | 5 | Koli |
-| 1032 | 5 | Mary Logan |
+| 1026 | 5 | Michelle Beres |
+| 1027 | 5 | Lush Risebuilder |
+| 1028 | 5 | Crystal Raffaele |
+| 1029 | 5 | Koli |
+| 1030 | 5 | ColombianNuttz |
+| 1031 | 5 | Mary Logan |
+| 1032 | 5 | Dropitliktithot |
 | 1033 | 5 | Angela Jones |
 | 1034 | 5 | Tinamarie Ann Brown |
 | 1035 | 5 | Kayla Gregory |

@@ -125,15 +125,15 @@
 | 117 | 191 | Scott Carleton |
 | 118 | 187 | Katrina Schroeder |
 | 119 | 184 | Jennie Beranek |
-| 120 | 182 | Ashley Tookes |
-| 121 | 182 | Hyper Matchzone |
-| 122 | 180 | Tessina Dewey-Mancino |
-| 123 | 180 | Fallorina Susana |
+| 120 | 182 | Hyper Matchzone |
+| 121 | 182 | Ashley Tookes |
+| 122 | 180 | Fallorina Susana |
+| 123 | 180 | Tessina Dewey-Mancino |
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
-| 127 | 166 | Danielle Mogg |
-| 128 | 166 | Kelly Ann Child |
+| 127 | 166 | Kelly Ann Child |
+| 128 | 166 | Danielle Mogg |
 | 129 | 164 | rosy |
 | 130 | 163 | Karon Griffin |
 | 131 | 159 | Morgan Martinez |
@@ -279,10 +279,10 @@
 | 271 | 83 | Deseree Ewing |
 | 272 | 82 | Rebecca Funderburk Kirby |
 | 273 | 81 | Tina Baurdau |
-| 274 | 80 | Josh Borquez |
-| 275 | 80 | Christian Luna |
-| 276 | 80 | Vixen Queen |
-| 277 | 80 | Oliver Neal II |
+| 274 | 80 | Vixen Queen |
+| 275 | 80 | Josh Borquez |
+| 276 | 80 | Oliver Neal II |
+| 277 | 80 | Christian Luna |
 | 278 | 79 | Amanda Neal |
 | 279 | 79 | Bleu Sun Beams |
 | 280 | 79 | Brittany K Ward |

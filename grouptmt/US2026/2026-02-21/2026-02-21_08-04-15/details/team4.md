@@ -77,10 +77,10 @@
 | 69 | 170 | Leah Kutz Zirbel |
 | 70 | 170 | Girl |
 | 71 | 167 | Denise Carlson |
-| 72 | 165 | Casey Grabner |
-| 73 | 165 | Courtney Cicoria |
-| 74 | 160 | Zethra Prenisha Rahming |
-| 75 | 160 | Carter Jones |
+| 72 | 165 | Courtney Cicoria |
+| 73 | 165 | Casey Grabner |
+| 74 | 160 | Carter Jones |
+| 75 | 160 | Zethra Prenisha Rahming |
 | 76 | 159 | Holly Jolly |
 | 77 | 159 | Justin Hannigan |
 | 78 | 157 | quicksand420 |
@@ -98,15 +98,15 @@
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Jenna McGeorge |
 | 92 | 132 | Jessica Cagle |
-| 93 | 132 | Degenerate |
-| 94 | 132 | Melissa Priest Sellers |
+| 93 | 132 | Melissa Priest Sellers |
+| 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
 | 96 | 131 | Zany Twisterfit |
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Cherrish Duren |
 | 104 | 123 | Bubbly Puzzler |
@@ -141,8 +141,8 @@
 | 133 | 105 | AyeKay |
 | 134 | 105 | 🥔🥔 Spudz |
 | 135 | 104 | YoMomma |
-| 136 | 104 | Adam Randall |
-| 137 | 104 | Damn Libra |
+| 136 | 104 | Damn Libra |
+| 137 | 104 | Adam Randall |
 | 138 | 102 | Faja |
 | 139 | 101 | Michelle Morris |
 | 140 | 101 | Saulc1991 |
