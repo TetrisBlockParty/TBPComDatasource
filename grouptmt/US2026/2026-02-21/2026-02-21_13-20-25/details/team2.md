@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -466,16 +466,16 @@
 | 458 | 198 | Angie Bolton Workman |
 | 459 | 198 | Alyssa Dean |
 | 460 | 196 | Besma Ao |
-| 461 | 196 | Cass Shirley |
-| 462 | 196 | Alexandra Reese |
+| 461 | 196 | Alexandra Reese |
+| 462 | 196 | Cass Shirley |
 | 463 | 195 | Snappy Shatterfit |
 | 464 | 195 | Darlene Bowman |
-| 465 | 194 | Kitybox |
-| 466 | 194 | Kimberly Ann |
-| 467 | 194 | Hoppy Brickmatch |
-| 468 | 194 | Biggest thing |
-| 469 | 193 | Matthew Turner |
-| 470 | 193 | Kelly Ann McCormick |
+| 465 | 194 | Kimberly Ann |
+| 466 | 194 | Kitybox |
+| 467 | 194 | Biggest thing |
+| 468 | 194 | Hoppy Brickmatch |
+| 469 | 193 | Kelly Ann McCormick |
+| 470 | 193 | Matthew Turner |
 | 471 | 191 | Lauren Fitzgerald Thomas |
 | 472 | 191 | John Quiring |
 | 473 | 190 | Jessica Kaye DeAguero |
@@ -761,8 +761,8 @@
 | 753 | 125 | trabuco |
 | 754 | 125 | Tina Marie |
 | 755 | 124 | Samantha Williams-Bittner |
-| 756 | 124 | Jazzy Grabber |
-| 757 | 124 | Quirky Brickline |
+| 756 | 124 | Quirky Brickline |
+| 757 | 124 | Jazzy Grabber |
 | 758 | 124 | Witty Piecebuilder |
 | 759 | 124 | Ashley MoBetta Humes |
 | 760 | 124 | Tommy Stuck |
@@ -775,8 +775,8 @@
 | 767 | 123 | Cool Slam |
 | 768 | 123 | Goofy Catcher |
 | 769 | 122 | Chere Kelly |
-| 770 | 122 | Cassie Newton |
-| 771 | 122 | Shakena Tuggle |
+| 770 | 122 | Shakena Tuggle |
+| 771 | 122 | Cassie Newton |
 | 772 | 121 | Pam Doughty |
 | 773 | 121 | g |
 | 774 | 121 | Sweetheart81 |

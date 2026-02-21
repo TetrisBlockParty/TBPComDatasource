@@ -31,12 +31,12 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Delilah belle |
-| 27 | 867 | Briarblack |
+| 26 | 867 | Briarblack |
+| 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -202,8 +202,8 @@
 | 194 | 128 | David Bardo |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
-| 197 | 125 | Shimika Enay Wallace |
-| 198 | 125 | Felicia Doxey |
+| 197 | 125 | Felicia Doxey |
+| 198 | 125 | Shimika Enay Wallace |
 | 199 | 124 | Cesar Barraza |
 | 200 | 123 | Terry Jo Jones |
 | 201 | 123 | Sarajane Lokan |
@@ -215,9 +215,9 @@
 | 207 | 121 | Danielle Allison |
 | 208 | 121 | mzcatzy |
 | 209 | 120 | Jessica |
-| 210 | 118 | Eon Harris |
+| 210 | 118 | Skinny Baldez |
 | 211 | 118 | Sabrina Hardrick |
-| 212 | 118 | Skinny Baldez |
+| 212 | 118 | Eon Harris |
 | 213 | 118 | Fancy Curver |
 | 214 | 116 | LaNette Morgan |
 | 215 | 116 | BugMansMom |
@@ -240,8 +240,8 @@
 | 232 | 108 | LaTanya GeminiondaRise Johnson |
 | 233 | 108 | Rachel Napper |
 | 234 | 107 | Sherry Ogden |
-| 235 | 107 | Bouncy Blockbuilder |
-| 236 | 107 | France Vézina |
+| 235 | 107 | France Vézina |
+| 236 | 107 | Bouncy Blockbuilder |
 | 237 | 106 | Noettín Kan Zasnemoore |
 | 238 | 105 | Carol Cain Thurman |
 | 239 | 105 | Boldy Blocker |
@@ -257,8 +257,8 @@
 | 249 | 104 | Melissa Snyder |
 | 250 | 103 | BabyTonj Evans |
 | 251 | 103 | Wetwet |
-| 252 | 102 | Christian Luna |
-| 253 | 102 | Rachel |
+| 252 | 102 | Rachel |
+| 253 | 102 | Christian Luna |
 | 254 | 101 | Hyper Bridger |
 | 255 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 256 | 100 | Bobbi Moore |
@@ -278,8 +278,8 @@
 | 270 | 96 | D3NO |
 | 271 | 96 | Tasha Wesson-Torrence |
 | 272 | 95 | Brooke Bauer |
-| 273 | 94 | Angie Harper |
-| 274 | 94 | Tracey Cox |
+| 273 | 94 | Tracey Cox |
+| 274 | 94 | Angie Harper |
 | 275 | 93 | Tiffany Ford |
 | 276 | 92 | Ava Petito |
 | 277 | 92 | Jennifer Caputo |

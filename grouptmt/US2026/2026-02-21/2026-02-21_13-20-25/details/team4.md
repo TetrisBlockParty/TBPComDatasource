@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 584 | Anthony Magaraci |
 | 23 | 578 | Leah Gorsuch |
@@ -132,8 +132,8 @@
 | 124 | 123 | Cherrish Duren |
 | 125 | 123 | TinyLegoRose |
 | 126 | 122 | Sherri |
-| 127 | 121 | Zany Shatterer |
-| 128 | 121 | Smiley Tiltbuilder |
+| 127 | 121 | Smiley Tiltbuilder |
+| 128 | 121 | Zany Shatterer |
 | 129 | 121 | Megan Cutshaw |
 | 130 | 120 | Joshua Guess |
 | 131 | 119 | Kristin Manee |

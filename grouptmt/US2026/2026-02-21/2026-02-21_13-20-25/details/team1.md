@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Tana |
-| 101 | 149 | Arianna O'Brien |
+| 100 | 149 | Arianna O'Brien |
+| 101 | 149 | Tana |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -241,8 +241,8 @@
 | 233 | 74 | Jo Kerley |
 | 234 | 74 | BadG52 |
 | 235 | 73 | Shanae Grant |
-| 236 | 72 | Tipsy Strikerpiece |
-| 237 | 72 | Ric Hard Hernandez |
+| 236 | 72 | Ric Hard Hernandez |
+| 237 | 72 | Tipsy Strikerpiece |
 | 238 | 71 | Loneell Hyland |
 | 239 | 70 | Henry Lanier |
 | 240 | 70 | Seth Wesson |
