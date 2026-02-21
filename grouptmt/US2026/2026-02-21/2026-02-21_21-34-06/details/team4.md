@@ -95,8 +95,8 @@
 | 87 | 254 | Holly Jolly |
 | 88 | 252 | Epic Curvetile |
 | 89 | 237 | Lori Walker |
-| 90 | 230 | Lucas J Sutton |
-| 91 | 230 | Autum Leigh |
+| 90 | 230 | Autum Leigh |
+| 91 | 230 | Lucas J Sutton |
 | 92 | 228 | Brittney Orengo |
 | 93 | 224 | H.R. Block |
 | 94 | 222 | Joeliecea Cobb |
@@ -282,11 +282,11 @@
 | 274 | 90 | Carol Ricks Raymond |
 | 275 | 89 | Jonathan Mahfood |
 | 276 | 89 | bloat princess |
-| 277 | 88 | Kesha Brady |
-| 278 | 88 | Michelle Parker |
+| 277 | 88 | Michelle Parker |
+| 278 | 88 | Kesha Brady |
 | 279 | 87 | Alan George LaRage |
-| 280 | 86 | Jason Frehner |
-| 281 | 86 | Destiney Carter |
+| 280 | 86 | Destiney Carter |
+| 281 | 86 | Jason Frehner |
 | 282 | 86 | amy |
 | 283 | 86 | Joseph Edmonson |
 | 284 | 86 | Tony Pavelka |

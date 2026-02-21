@@ -70,16 +70,16 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 536 | Giddy Drop |
 | 70 | 533 | Sarah Fehring |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Justin Ritter |
-| 74 | 502 | Joey Banks |
+| 73 | 502 | Joey Banks |
+| 74 | 502 | Justin Ritter |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 481 | Jay Horn |
@@ -103,8 +103,8 @@
 | 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Annie Déè |
-| 99 | 390 | Hasty Cascadefit |
+| 98 | 390 | Hasty Cascadefit |
+| 99 | 390 | Annie Déè |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -175,8 +175,8 @@
 | 167 | 219 | Shunta Jacobs |
 | 168 | 218 | LaNette Morgan |
 | 169 | 217 | Jess Bissett |
-| 170 | 214 | Amy Fuller Heaton |
-| 171 | 214 | Jenny Hrndz |
+| 170 | 214 | Jenny Hrndz |
+| 171 | 214 | Amy Fuller Heaton |
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Katrina Turner |
 | 174 | 211 | Khaleada McGill Banks |

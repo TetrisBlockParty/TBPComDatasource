@@ -586,11 +586,11 @@
 | 578 | 245 | Sanaa Nounoussa |
 | 579 | 245 | Mary Boss |
 | 580 | 244 | Maxwell Escalera |
-| 581 | 244 | Court |
-| 582 | 244 | Nakiiya Dreamcatcher Gore |
+| 581 | 244 | Nakiiya Dreamcatcher Gore |
+| 582 | 244 | Court |
 | 583 | 243 | JacJac |
-| 584 | 242 | Donna Chandler |
-| 585 | 242 | Lianne Giandalone LaBounty |
+| 584 | 242 | Lianne Giandalone LaBounty |
+| 585 | 242 | Donna Chandler |
 | 586 | 241 | Ronda Cary |
 | 587 | 240 | Kelly |
 | 588 | 240 | Brave Gridpiece |
@@ -639,8 +639,8 @@
 | 631 | 223 | Michele Moren |
 | 632 | 222 | Lazy Riseclear |
 | 633 | 221 | Michelle Lee |
-| 634 | 220 | Jennifer Coe |
-| 635 | 220 | Katrina Weston |
+| 634 | 220 | Katrina Weston |
+| 635 | 220 | Jennifer Coe |
 | 636 | 220 | Brenna Ann |
 | 637 | 219 | Cathy Bitters |
 | 638 | 219 | Trista Carter |
@@ -681,8 +681,8 @@
 | 673 | 208 | Ashley MoBetta Humes |
 | 674 | 208 | Jessica Sutter |
 | 675 | 208 | Alyssa Dean |
-| 676 | 207 | Nicolle Danielle |
-| 677 | 207 | Caitlin Johnson |
+| 676 | 207 | Caitlin Johnson |
+| 677 | 207 | Nicolle Danielle |
 | 678 | 207 | Jeffrey Barrows |
 | 679 | 207 | Sara Pennington |
 | 680 | 206 | Neko Preston |
@@ -702,13 +702,13 @@
 | 694 | 201 | Michael Artis |
 | 695 | 201 | Tammy Mitchell |
 | 696 | 201 | Moua Ying |
-| 697 | 201 | Lakeela Wise |
-| 698 | 201 | Abby Klaski |
-| 699 | 200 | Zak Dunn |
-| 700 | 200 | LaWanda Powell |
-| 701 | 200 | Synn |
-| 702 | 200 | Biggest thing |
-| 703 | 200 | Michelle Fleming Luna |
+| 697 | 201 | Abby Klaski |
+| 698 | 201 | Lakeela Wise |
+| 699 | 200 | LaWanda Powell |
+| 700 | 200 | Zak Dunn |
+| 701 | 200 | Biggest thing |
+| 702 | 200 | Michelle Fleming Luna |
+| 703 | 200 | Synn |
 | 704 | 200 | Sara Silvernail-Kay |
 | 705 | 199 | BeaNzMaMa |
 | 706 | 199 | Alyssa Nadine Medelez |
@@ -721,8 +721,8 @@
 | 713 | 196 | Regina Unruh |
 | 714 | 196 | Boldy Block |
 | 715 | 196 | Crafty Brickline |
-| 716 | 195 | Christina Jarvis-Swarbrick |
-| 717 | 195 | Wakanda Forever |
+| 716 | 195 | Wakanda Forever |
+| 717 | 195 | Christina Jarvis-Swarbrick |
 | 718 | 195 | Darcy Mae |
 | 719 | 194 | Michael David Hollis |
 | 720 | 194 | Witty Piecebuilder |
@@ -743,8 +743,8 @@
 | 735 | 190 | Jessica Kaye DeAguero |
 | 736 | 189 | Joshua Mullings |
 | 737 | 189 | Nate Skidmore |
-| 738 | 189 | Dawn Woosley Bowes |
-| 739 | 189 | Ashley Dow |
+| 738 | 189 | Ashley Dow |
+| 739 | 189 | Dawn Woosley Bowes |
 | 740 | 188 | Kii |
 | 741 | 188 | Allison Hewitt |
 | 742 | 188 | Sassy Linkroll |

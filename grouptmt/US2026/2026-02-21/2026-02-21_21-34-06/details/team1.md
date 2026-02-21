@@ -50,8 +50,8 @@
 | 42 | 508 | Michelle Nicole |
 | 43 | 505 | Kristen Roles Robben |
 | 44 | 503 | Cody Slav |
-| 45 | 486 | Sevens4L |
-| 46 | 486 | Sarah Lombardo |
+| 45 | 486 | Sarah Lombardo |
+| 46 | 486 | Sevens4L |
 | 47 | 483 | Ryan Lunnin |
 | 48 | 469 | Kathi Snustad |
 | 49 | 445 | April Carroll |
@@ -85,8 +85,8 @@
 | 77 | 299 | Lehrin Maria |
 | 78 | 298 | Carrie Beck Geartz |
 | 79 | 297 | cc |
-| 80 | 293 | Shauna Loe |
-| 81 | 293 | Adam Byrd |
+| 80 | 293 | Adam Byrd |
+| 81 | 293 | Shauna Loe |
 | 82 | 291 | Sweet Baker |
 | 83 | 287 | Hyper |
 | 84 | 283 | TSwag |
@@ -95,15 +95,15 @@
 | 87 | 272 | Sarah Roberts |
 | 88 | 270 | Jennifer ManWarren |
 | 89 | 267 | Bhelle Sumile |
-| 90 | 258 | Dandy Basegrid |
-| 91 | 258 | Kellie |
+| 90 | 258 | Kellie |
+| 91 | 258 | Dandy Basegrid |
 | 92 | 254 | Rachael |
 | 93 | 252 | Dena Kayy |
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Tana |
-| 98 | 240 | Elaine Elaine |
+| 97 | 240 | Elaine Elaine |
+| 98 | 240 | Tana |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
