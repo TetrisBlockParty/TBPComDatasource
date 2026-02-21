@@ -253,9 +253,9 @@
 | 245 | 299 | Christy Krissie |
 | 246 | 299 | Deborah Miller |
 | 247 | 297 | Brenda Utphall |
-| 248 | 296 | Jennifer Darby |
-| 249 | 296 | Jennifer Casey-Kay |
-| 250 | 296 | Amber Gray |
+| 248 | 296 | Jennifer Casey-Kay |
+| 249 | 296 | Amber Gray |
+| 250 | 296 | Jennifer Darby |
 | 251 | 295 | Angela Bonquiqui Dinish |
 | 252 | 295 | Zany Clusterbuilder |
 | 253 | 295 | Diallo Sparkman |
@@ -311,9 +311,9 @@
 | 303 | 256 | Smashanator |
 | 304 | 256 | Tee Jaleesa |
 | 305 | 255 | Santana Miyagi |
-| 306 | 254 | Julie Hamilton |
+| 306 | 254 | Rose Fx |
 | 307 | 254 | Elizabeth Diraffaele |
-| 308 | 254 | Rose Fx |
+| 308 | 254 | Julie Hamilton |
 | 309 | 253 | Tansaria Couch-Butler |
 | 310 | 252 | Matt Johnson |
 | 311 | 252 | Cheech Dta |
@@ -958,9 +958,9 @@
 | 950 | 89 | Joshua Sommerville |
 | 951 | 89 | Kevin Dybel |
 | 952 | 89 | Mayra May May Orta |
-| 953 | 89 | Netty |
-| 954 | 89 | Kiana Boschh |
-| 955 | 89 | Sparkles  Sabrina |
+| 953 | 89 | Sparkles  Sabrina |
+| 954 | 89 | Netty |
+| 955 | 89 | Kiana Boschh |
 | 956 | 88 | David Duncan |
 | 957 | 88 | Ilse Chaparro |
 | 958 | 88 | Breana Valdez |

@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 733 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -67,8 +67,8 @@
 | 59 | 387 | Nerdy Spinblock |
 | 60 | 385 | Brandon Green |
 | 61 | 372 | Patty Allen |
-| 62 | 371 | Tasha Schriewer |
-| 63 | 371 | Jesse Olive |
+| 62 | 371 | Jesse Olive |
+| 63 | 371 | Tasha Schriewer |
 | 64 | 370 | yoyo |
 | 65 | 367 | Tetris Master |
 | 66 | 362 | Liv Whetson |
@@ -135,8 +135,8 @@
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Kelly Ann Child |
 | 134 | 166 | Danielle Mogg |
@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Beth Ingham |
-| 148 | 153 | Stephanie Whitefield |
+| 147 | 153 | Stephanie Whitefield |
+| 148 | 153 | Beth Ingham |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -211,8 +211,8 @@
 | 203 | 108 | LaTanya GeminiondaRise Johnson |
 | 204 | 108 | Rachel Napper |
 | 205 | 107 | Sherry Ogden |
-| 206 | 106 | Eon Harris |
-| 207 | 106 | Desiree Gold |
+| 206 | 106 | Desiree Gold |
+| 207 | 106 | Eon Harris |
 | 208 | 105 | Carol Cain Thurman |
 | 209 | 105 | Emi |
 | 210 | 104 | Samantha Lynn |
@@ -348,8 +348,8 @@
 | 340 | 70 | cherry 🍒pie |
 | 341 | 70 | Leticia Lynn Lowe |
 | 342 | 69 | Jen Lewis |
-| 343 | 69 | Tony Mia Christian |
-| 344 | 69 | Spunky Combofall |
+| 343 | 69 | Spunky Combofall |
+| 344 | 69 | Tony Mia Christian |
 | 345 | 68 | Reina Roth |
 | 346 | 67 | Will Miller |
 | 347 | 67 | Dee |

@@ -20,8 +20,8 @@
 | 12 | 608 | Denny Shives |
 | 13 | 606 | Rachel Anne |
 | 14 | 594 | Lucille Truesdale |
-| 15 | 590 | Valerie Roberts |
-| 16 | 590 | Dee Kay |
+| 15 | 590 | Dee Kay |
+| 16 | 590 | Valerie Roberts |
 | 17 | 589 | Chilly Line |
 | 18 | 587 | Koshin Abdirahman |
 | 19 | 578 | Leah Gorsuch |
@@ -103,8 +103,8 @@
 | 95 | 132 | Melissa Priest Sellers |
 | 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -161,8 +161,8 @@
 | 153 | 94 | DonMega |
 | 154 | 93 | Zesty Twistbuilder |
 | 155 | 92 | Kristin MacDonald |
-| 156 | 90 | Judy Cox |
-| 157 | 90 | No Strings Attached Ra |
+| 156 | 90 | No Strings Attached Ra |
+| 157 | 90 | Judy Cox |
 | 158 | 89 | shark tato |
 | 159 | 89 | Jeremy Steines |
 | 160 | 89 | mike |
@@ -172,8 +172,8 @@
 | 164 | 87 | KM8 |
 | 165 | 87 | Bradley Reeves |
 | 166 | 87 | Lauren Lamb |
-| 167 | 86 | amy |
-| 168 | 86 | Destiney Carter |
+| 167 | 86 | Destiney Carter |
+| 168 | 86 | amy |
 | 169 | 85 | Mimi |
 | 170 | 85 | Shukee Lo |
 | 171 | 85 | Tim Knight-ten |
@@ -469,8 +469,8 @@
 | 461 | 32 | Jinx |
 | 462 | 32 | Tisha McManus |
 | 463 | 32 | Darrin Rubalcava |
-| 464 | 32 | Jessica Johnston |
-| 465 | 32 | Wacky Shatterline |
+| 464 | 32 | Wacky Shatterline |
+| 465 | 32 | Jessica Johnston |
 | 466 | 31 | Rico |
 | 467 | 31 | Orchislactea |
 | 468 | 31 | Undeniable Williams |
