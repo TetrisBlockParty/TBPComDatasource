@@ -155,8 +155,8 @@
 | 147 | 104 | YoMomma |
 | 148 | 102 | Faja |
 | 149 | 102 | ĥuf |
-| 150 | 101 | Saulc1991 |
-| 151 | 101 | Michelle Morris |
+| 150 | 101 | Michelle Morris |
+| 151 | 101 | Saulc1991 |
 | 152 | 100 | Alexandra Karavias |
 | 153 | 99 | Anthony Bryan Riva |
 | 154 | 98 | Chaz |
@@ -171,7 +171,7 @@
 | 163 | 95 | Meagan Nicole |
 | 164 | 94 | DonMega |
 | 165 | 94 | Chastity Mitchell |
-| 166 | 94 | DonMega |
+| 166 | 94 | Kim Hunt |
 | 167 | 93 | Zesty Twistbuilder |
 | 168 | 92 | Rafael Valentin |
 | 169 | 90 | Amy Suckarieh |
@@ -236,7 +236,7 @@
 | 228 | 71 | Marcela Johnson |
 | 229 | 71 | Ericca Eldridge |
 | 230 | 70 | TeeJ |
-| 231 | 70 | Patron Anderson |
+| 231 | 70 | Richard-April Kice |
 | 232 | 70 | Niome Encinias |
 | 233 | 70 | Patron Anderson |
 | 234 | 69 | Jessica Wells |

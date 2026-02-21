@@ -45,8 +45,8 @@
 | 37 | 1234 | blackq |
 | 38 | 1215 | Megan Garrick |
 | 39 | 1210 | Brittany Alicia |
-| 40 | 1173 | Katrina Williams Balmir |
-| 41 | 1173 | Devin Lee |
+| 40 | 1173 | Devin Lee |
+| 41 | 1173 | Katrina Williams Balmir |
 | 42 | 1157 | Priscilla Noel |
 | 43 | 1150 | Izabel Herrera |
 | 44 | 1143 | Lucky Ladybug |

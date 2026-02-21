@@ -139,15 +139,15 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
-| 141 | 163 | Karon Griffin |
-| 142 | 163 | Raven Dudley |
+| 141 | 163 | Raven Dudley |
+| 142 | 163 | Karon Griffin |
 | 143 | 162 | Rebel124 |
 | 144 | 159 | Mcathen |
 | 145 | 159 | Jone |

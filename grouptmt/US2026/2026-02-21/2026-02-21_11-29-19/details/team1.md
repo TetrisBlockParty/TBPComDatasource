@@ -61,15 +61,15 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
-| 59 | 208 | Mandyy Rae |
-| 60 | 208 | Carrie Beck Geartz |
+| 59 | 208 | Carrie Beck Geartz |
+| 60 | 208 | Mandyy Rae |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
-| 63 | 202 | Hyper |
-| 64 | 202 | Dee Perry |
+| 63 | 202 | Dee Perry |
+| 64 | 202 | Hyper |
 | 65 | 201 | Ananda Mendez |
 | 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
@@ -86,9 +86,9 @@
 | 78 | 189 | Happy Basegrid |
 | 79 | 180 | Erez Yosef |
 | 80 | 178 | Danielle Little-Daugherty |
-| 81 | 173 | june october |
-| 82 | 173 | Frothy Pattern |
-| 83 | 173 | Jennifer Olewnik Soborowski |
+| 81 | 173 | Jennifer Olewnik Soborowski |
+| 82 | 173 | june october |
+| 83 | 173 | Frothy Pattern |
 | 84 | 166 | Rico Rico |
 | 85 | 165 | GATOR |
 | 86 | 163 | Chad Atchley |
@@ -176,8 +176,8 @@
 | 168 | 90 | Madison Wicks |
 | 169 | 90 | TSwag |
 | 170 | 89 | Mara Hilker |
-| 171 | 88 | Larry Tilton |
-| 172 | 88 | Tyler Whitley |
+| 171 | 88 | Tyler Whitley |
+| 172 | 88 | Larry Tilton |
 | 173 | 87 | Jessi Sauer |
 | 174 | 87 | Jenny Gingrich Fuentes |
 | 175 | 86 | Basment Living |
