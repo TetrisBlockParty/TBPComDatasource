@@ -44,8 +44,8 @@
 | 36 | 380 | Robert Beck |
 | 37 | 363 | Angel Fowler |
 | 38 | 355 | Odell Barnett |
-| 39 | 348 | Chipper Gridlock |
-| 40 | 348 | Stef Hu |
+| 39 | 348 | Stef Hu |
+| 40 | 348 | Chipper Gridlock |
 | 41 | 345 | Adryane Schnase |
 | 42 | 338 | Stephanie Zahn |
 | 43 | 337 | Jacqueline Williams |
@@ -56,8 +56,8 @@
 | 48 | 299 | Lehrin Maria |
 | 49 | 287 | Hyper |
 | 50 | 276 | Kristen Roles Robben |
-| 51 | 274 | Sweet Baker |
-| 52 | 274 | Theo Pinnow |
+| 51 | 274 | Theo Pinnow |
+| 52 | 274 | Sweet Baker |
 | 53 | 272 | Adam Byrd |
 | 54 | 270 | Shauna Loe |
 | 55 | 264 | Robert Benito |
@@ -148,8 +148,8 @@
 | 140 | 130 | Dandy Basegrid |
 | 141 | 129 | Dino |
 | 142 | 128 | lil mickey |
-| 143 | 127 | Aimee Horton |
-| 144 | 127 | Brave Wrecker |
+| 143 | 127 | Brave Wrecker |
+| 144 | 127 | Aimee Horton |
 | 145 | 124 | Cartier |
 | 146 | 123 | Kimberly Garcia |
 | 147 | 122 | Melissa Lemmon |

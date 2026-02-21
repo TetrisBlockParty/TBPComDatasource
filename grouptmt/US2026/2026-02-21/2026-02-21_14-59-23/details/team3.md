@@ -306,8 +306,8 @@
 | 298 | 95 | FATTY |
 | 299 | 94 | Nichole Greene |
 | 300 | 94 | Tracey Cox |
-| 301 | 93 | Tiffany Ford |
-| 302 | 93 | Martin Bernier |
+| 301 | 93 | Martin Bernier |
+| 302 | 93 | Tiffany Ford |
 | 303 | 92 | Ava Petito |
 | 304 | 92 | Melanie Sherwood |
 | 305 | 92 | Jennifer Caputo |

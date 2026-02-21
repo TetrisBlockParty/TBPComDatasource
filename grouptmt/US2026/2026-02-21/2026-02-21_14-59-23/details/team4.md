@@ -155,8 +155,8 @@
 | 147 | 119 | Gwendolyn Pitcairn |
 | 148 | 118 | Leslie Nicole |
 | 149 | 116 | Diana Houts |
-| 150 | 115 | Jayk |
-| 151 | 115 | Ultramarine |
+| 150 | 115 | Ultramarine |
+| 151 | 115 | Jayk |
 | 152 | 113 | Adam Randall |
 | 153 | 112 | Austin Owens |
 | 154 | 112 | Jackie Marie |
@@ -173,7 +173,7 @@
 | 165 | 105 | 🥔🥔 Spudz |
 | 166 | 105 | TheNeesh50 |
 | 167 | 105 | Sam Middleton |
-| 168 | 105 | AyeKay |
+| 168 | 105 | Kristin MacDonald |
 | 169 | 104 | Damn Libra |
 | 170 | 103 | Judy Cox |
 | 171 | 103 | Lauren Lamb |

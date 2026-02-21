@@ -122,8 +122,8 @@
 | 114 | 704 | Nerdy Clearfit |
 | 115 | 700 | Vincent Petrella |
 | 116 | 698 | Lola Contreras |
-| 117 | 694 | Vo'Landa Reels |
-| 118 | 694 | Nancy Reid |
+| 117 | 694 | Nancy Reid |
+| 118 | 694 | Vo'Landa Reels |
 | 119 | 693 | YiFei |
 | 120 | 688 | Dreamy Blast |
 | 121 | 679 | Gold Rose |
@@ -200,8 +200,8 @@
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 467 | Scott Treadway |
 | 194 | 465 | Drwatson187 |
-| 195 | 464 | Ryan Gunther |
-| 196 | 464 | Ariel |
+| 195 | 464 | Ariel |
+| 196 | 464 | Ryan Gunther |
 | 197 | 460 | Amélie Cadieux |
 | 198 | 460 | Cody Smith-Candelaria |
 | 199 | 454 | Casey Schumacher |
@@ -227,8 +227,8 @@
 | 219 | 411 | Ricky Fortune |
 | 220 | 409 | Sparkles |
 | 221 | 406 | Erin StFrancis |
-| 222 | 405 | Christy Krissie |
-| 223 | 405 | Sarah Massey |
+| 222 | 405 | Sarah Massey |
+| 223 | 405 | Christy Krissie |
 | 224 | 402 | Joshua Mandel |
 | 225 | 400 | Rhonda Milstead |
 | 226 | 400 | Crystie Hicks |
@@ -356,9 +356,9 @@
 | 348 | 281 | Ellie Jonas |
 | 349 | 281 | Jaycee |
 | 350 | 280 | Shorty |
-| 351 | 280 | Lyndi Robinson Wakefield |
-| 352 | 280 | SwampRebel |
-| 353 | 280 | Sabrina Burton |
+| 351 | 280 | SwampRebel |
+| 352 | 280 | Sabrina Burton |
+| 353 | 280 | Lyndi Robinson Wakefield |
 | 354 | 279 | Glitzy Stackzone |
 | 355 | 278 | Deana |
 | 356 | 278 | Noel Tarmy |
@@ -423,8 +423,8 @@
 | 415 | 246 | Stephanie Lumanlan |
 | 416 | 246 | Ashley Lopez |
 | 417 | 245 | Rachael Senard |
-| 418 | 245 | Robin Kerby |
-| 419 | 245 | Sanaa Nounoussa |
+| 418 | 245 | Sanaa Nounoussa |
+| 419 | 245 | Robin Kerby |
 | 420 | 242 | Donna Chandler |
 | 421 | 241 | Niceday |
 | 422 | 240 | Angie Marie |
@@ -433,8 +433,8 @@
 | 425 | 236 | snkylnk |
 | 426 | 236 | Julio A Laracuente |
 | 427 | 235 | Kimberly Mitchell |
-| 428 | 234 | Jennifer Leigh |
-| 429 | 234 | Manny Trindade |
+| 428 | 234 | Manny Trindade |
+| 429 | 234 | Jennifer Leigh |
 | 430 | 234 | Jaybee Nguyen |
 | 431 | 233 | Nutty Matchline |
 | 432 | 233 | Jumpy Gridclear |
@@ -645,8 +645,8 @@
 | 637 | 157 | Andrew Bratton-Tomes |
 | 638 | 156 | Renee Bowers |
 | 639 | 156 | Elizabeth Cotton |
-| 640 | 156 | Deanna Morton |
-| 641 | 156 | Gemini Washington |
+| 640 | 156 | Gemini Washington |
+| 641 | 156 | Deanna Morton |
 | 642 | 155 | Jacob Huffman |
 | 643 | 155 | Cris cris |
 | 644 | 155 | Chelle |
