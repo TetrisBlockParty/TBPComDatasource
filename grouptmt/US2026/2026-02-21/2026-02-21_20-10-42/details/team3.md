@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Tasha Schriewer |
-| 99 | 378 | Makelini Mausia |
+| 98 | 378 | Makelini Mausia |
+| 99 | 378 | Tasha Schriewer |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -124,8 +124,8 @@
 | 116 | 316 | Fancy Cascader |
 | 117 | 312 | Jay Horn |
 | 118 | 309 | Rich LeBlanc |
-| 119 | 307 | Blocked |
-| 120 | 307 | Peggi Charon |
+| 119 | 307 | Peggi Charon |
+| 120 | 307 | Blocked |
 | 121 | 305 | Tessina Dewey-Mancino |
 | 122 | 300 | Sherika C. McDaniels |
 | 123 | 293 | Poppy Splitter |
@@ -195,32 +195,32 @@
 | 187 | 184 | Troy |
 | 188 | 182 | Hyper Matchzone |
 | 189 | 181 | Nicholas Roddy |
-| 190 | 179 | Ashley Jones |
-| 191 | 179 | Daira Largen |
-| 192 | 178 | Ryan Williams |
-| 193 | 178 | AlsoJess |
+| 190 | 179 | Daira Largen |
+| 191 | 179 | Ashley Jones |
+| 192 | 178 | AlsoJess |
+| 193 | 178 | Ryan Williams |
 | 194 | 177 | Trisha Balmer |
 | 195 | 175 | Tasha Wesson-Torrence |
 | 196 | 175 | DanceLuvLaugh |
 | 197 | 175 | Connie Mohler-Fair |
-| 198 | 174 | Loopy Fallmatch |
-| 199 | 174 | rosy |
+| 198 | 174 | rosy |
+| 199 | 174 | Loopy Fallmatch |
 | 200 | 173 | Sarajane Lokan |
 | 201 | 171 | Marquita Sheard |
 | 202 | 169 | Emma |
-| 203 | 168 | MsBee |
-| 204 | 168 | JerseyJess |
-| 205 | 167 | Raven Dudley |
-| 206 | 167 | Grams |
+| 203 | 168 | JerseyJess |
+| 204 | 168 | MsBee |
+| 205 | 167 | Grams |
+| 206 | 167 | Raven Dudley |
 | 207 | 166 | Kelly Ann Child |
-| 208 | 166 | Betty Rosas |
-| 209 | 166 | Beth Ingham |
+| 208 | 166 | Beth Ingham |
+| 209 | 166 | Betty Rosas |
 | 210 | 165 | Kali Kelz Williams |
 | 211 | 163 | Stephanie Hill |
 | 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | Irene Arreguin |
-| 215 | 161 | BŘŰŤİÇŨŚ |
+| 214 | 161 | BŘŰŤİÇŨŚ |
+| 215 | 161 | Irene Arreguin |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Sharisse Baltimore |
@@ -252,10 +252,10 @@
 | 244 | 146 | Latoya Mayne |
 | 245 | 145 | Jeni Dow |
 | 246 | 145 | Bryan Byrd |
-| 247 | 142 | Danielle Allison |
-| 248 | 142 | Erica Anderson |
-| 249 | 142 | David Bardo |
-| 250 | 142 | Jl |
+| 247 | 142 | David Bardo |
+| 248 | 142 | Danielle Allison |
+| 249 | 142 | Jl |
+| 250 | 142 | Erica Anderson |
 | 251 | 141 | IamJust Neyamijah Washington Sr. |
 | 252 | 139 | Loopy Clusterer |
 | 253 | 139 | Funky Jumper |

@@ -55,8 +55,8 @@
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
 | 49 | 422 | Lisa Davis |
-| 50 | 411 | Jonathan Kimbrough |
-| 51 | 411 | TeeJ |
+| 50 | 411 | TeeJ |
+| 51 | 411 | Jonathan Kimbrough |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -133,8 +133,8 @@
 | 125 | 173 | Ren Mc |
 | 126 | 173 | blockstar |
 | 127 | 170 | Girl |
-| 128 | 164 | ThaEviLJeNiuZ |
-| 129 | 164 | 030Synner |
+| 128 | 164 | 030Synner |
+| 129 | 164 | ThaEviLJeNiuZ |
 | 130 | 160 | ZeeZee |
 | 131 | 158 | Shane Kalamata Platoon |
 | 132 | 157 | quicksand420 |
@@ -146,9 +146,9 @@
 | 138 | 149 | Diana Houts |
 | 139 | 148 | Brittany Marsh |
 | 140 | 148 | Janita Parrish |
-| 141 | 147 | Jay28 |
-| 142 | 147 | Chair |
-| 143 | 147 | Shainne Brewer |
+| 141 | 147 | Chair |
+| 142 | 147 | Shainne Brewer |
+| 143 | 147 | Jay28 |
 | 144 | 146 | Klo |
 | 145 | 145 | Amy Suckarieh |
 | 146 | 145 | Daria Rycewicz |
@@ -202,8 +202,8 @@
 | 194 | 119 | Kristin Manee |
 | 195 | 119 | Judy Cox |
 | 196 | 118 | Mary Ann Pabukis |
-| 197 | 115 | Nubian1 |
-| 198 | 115 | Sam Middleton |
+| 197 | 115 | Sam Middleton |
+| 198 | 115 | Nubian1 |
 | 199 | 115 | Jayk |
 | 200 | 115 | Ultramarine |
 | 201 | 114 | Michelle Morris |
@@ -330,7 +330,7 @@
 | 322 | 75 | Moonsterix |
 | 323 | 74 | Alee Marie |
 | 324 | 74 | Sharyn Lemire |
-| 325 | 74 | Alee Marie |
+| 325 | 74 | Dizzy Matchzone |
 | 326 | 74 | Matt Gooder |
 | 327 | 73 | Rheanda Weaskus |
 | 328 | 73 | Lynn Marie |
@@ -371,9 +371,9 @@
 | 363 | 66 | Asher |
 | 364 | 66 | Jen Mattei |
 | 365 | 66 | Montiette Mcglown |
-| 366 | 65 | Barcelos |
-| 367 | 65 | Chantilly Laace |
-| 368 | 65 | Brittany Price |
+| 366 | 65 | Brittany Price |
+| 367 | 65 | Barcelos |
+| 368 | 65 | Chantilly Laace |
 | 369 | 65 | Angelito |
 | 370 | 64 | Mousey406 |
 | 371 | 64 | Daring Pivot |
