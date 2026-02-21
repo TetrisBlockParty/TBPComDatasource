@@ -55,8 +55,8 @@
 | 47 | 372 | Patty Allen |
 | 48 | 371 | Jesse Olive |
 | 49 | 370 | yoyo |
-| 50 | 369 | Rachel Bowers |
-| 51 | 369 | Cherry Parker |
+| 50 | 369 | Cherry Parker |
+| 51 | 369 | Rachel Bowers |
 | 52 | 367 | Tetris Master |
 | 53 | 365 | Brandon Green |
 | 54 | 364 | Christine Filson |
@@ -204,8 +204,8 @@
 | 196 | 93 | Tiffany Ford |
 | 197 | 92 | Eon Harris |
 | 198 | 92 | Jennifer Caputo |
-| 199 | 90 | Rebel124 |
-| 200 | 90 | Tiffany Kaupang |
+| 199 | 90 | Tiffany Kaupang |
+| 200 | 90 | Rebel124 |
 | 201 | 90 | Nichole Greene |
 | 202 | 89 | Sashay Tapae Simpson |
 | 203 | 89 | Shicken Nuggit |
@@ -221,8 +221,8 @@
 | 213 | 86 | Criss |
 | 214 | 86 | Clever Clearbuilder |
 | 215 | 85 | Chris Bell |
-| 216 | 84 | Flashy Rumbler |
-| 217 | 84 | Amanda L Baker |
+| 216 | 84 | Amanda L Baker |
+| 217 | 84 | Flashy Rumbler |
 | 218 | 83 | Michael Nowogorski |
 | 219 | 82 | Stephanie Whitefield |
 | 220 | 82 | Crystel b520 |

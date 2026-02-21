@@ -224,8 +224,8 @@
 | 216 | 274 | Melissa Holsinger |
 | 217 | 273 | Missie Lawson Gebhardt |
 | 218 | 273 | Jenna Nance |
-| 219 | 271 | Lonne Emade |
-| 220 | 271 | Toni Lynn |
+| 219 | 271 | Toni Lynn |
+| 220 | 271 | Lonne Emade |
 | 221 | 271 | Ann Marie Davis |
 | 222 | 270 | Alexandra Weir |
 | 223 | 270 | Victoria Moore-Smith |
@@ -247,8 +247,8 @@
 | 239 | 257 | Lyndi Robinson Wakefield |
 | 240 | 256 | Tee Jaleesa |
 | 241 | 255 | Santana Miyagi |
-| 242 | 254 | Julie Hamilton |
-| 243 | 254 | Libby Hicks |
+| 242 | 254 | Libby Hicks |
+| 243 | 254 | Julie Hamilton |
 | 244 | 252 | Alezandra Smith |
 | 245 | 251 | Ann Knutson Anderson |
 | 246 | 250 | Barbra Miller |
@@ -374,8 +374,8 @@
 | 366 | 170 | Dedra Steward |
 | 367 | 170 | Darlene Bowman |
 | 368 | 170 | Kenya Felix |
-| 369 | 169 | Eddie Perez |
-| 370 | 169 | Lively Catcher |
+| 369 | 169 | Lively Catcher |
+| 370 | 169 | Eddie Perez |
 | 371 | 169 | Fi Ne |
 | 372 | 168 | Seth Wrieden |
 | 373 | 168 | Kati Russeau |
@@ -390,10 +390,10 @@
 | 382 | 162 | Elizabeth Pearson |
 | 383 | 162 | LC Hamilton |
 | 384 | 161 | Ashlyn Berner |
-| 385 | 160 | Rhonda Petro |
-| 386 | 160 | Gary Schaffner Jr. |
-| 387 | 160 | William Hunt |
-| 388 | 160 | Cynthia Ward |
+| 385 | 160 | Gary Schaffner Jr. |
+| 386 | 160 | Cynthia Ward |
+| 387 | 160 | Rhonda Petro |
+| 388 | 160 | William Hunt |
 | 389 | 160 | Marcie McLain Dodd |
 | 390 | 160 | Jessica Vega |
 | 391 | 159 | Kimmy Newman |
