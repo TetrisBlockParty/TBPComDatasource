@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Amanda Summey Schoemer |
-| 22 | 511 | Jen Sartain |
+| 21 | 511 | Jen Sartain |
+| 22 | 511 | Amanda Summey Schoemer |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -115,8 +115,8 @@
 | 107 | 144 | femmefatale |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
-| 110 | 138 | Cranky Pattern |
-| 111 | 138 | Gary Gobin |
+| 110 | 138 | Gary Gobin |
+| 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
 | 114 | 133 | Breanna Luna |

@@ -225,8 +225,8 @@
 | 217 | 79 | Kametsunoyaiba |
 | 218 | 78 | Adawna Swires |
 | 219 | 78 | Jessica Miller |
-| 220 | 77 | Twisty Cascadezone |
-| 221 | 77 | Zippy Gridlock |
+| 220 | 77 | Zippy Gridlock |
+| 221 | 77 | Twisty Cascadezone |
 | 222 | 77 | Marvin Lou Martin |
 | 223 | 76 | Bethany Ison |
 | 224 | 76 | Crystal Lynn |

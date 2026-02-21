@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -126,8 +126,8 @@
 | 118 | 204 | Aaron Pitkin |
 | 119 | 202 | Twisty Brick LT |
 | 120 | 199 | joclisa |
-| 121 | 195 | Jenny Hrndz |
-| 122 | 195 | Nicha Hooker |
+| 121 | 195 | Nicha Hooker |
+| 122 | 195 | Jenny Hrndz |
 | 123 | 194 | glichmod |
 | 124 | 193 | Stephanie Burtin |
 | 125 | 193 | Clever Shiftsnap |
@@ -136,13 +136,13 @@
 | 128 | 191 | Scott Carleton |
 | 129 | 189 | Fallorina Susana |
 | 130 | 184 | Jennie Beranek |
-| 131 | 182 | Ashley Tookes |
-| 132 | 182 | Hyper Matchzone |
+| 131 | 182 | Hyper Matchzone |
+| 132 | 182 | Ashley Tookes |
 | 133 | 180 | Tessina Dewey-Mancino |
-| 134 | 179 | Daira Largen |
-| 135 | 179 | Joye Sims Binion |
-| 136 | 178 | Khaleada McGill Banks |
-| 137 | 178 | AlsoJess |
+| 134 | 179 | Joye Sims Binion |
+| 135 | 179 | Daira Largen |
+| 136 | 178 | AlsoJess |
+| 137 | 178 | Khaleada McGill Banks |
 | 138 | 176 | Ryan Williams |
 | 139 | 175 | Logan Naccarato |
 | 140 | 174 | Sissy Lowery Davis |
@@ -152,22 +152,22 @@
 | 144 | 166 | Rebel124 |
 | 145 | 166 | Kelly Ann Child |
 | 146 | 165 | Kali Kelz Williams |
-| 147 | 164 | rosy |
-| 148 | 164 | DanceLuvLaugh |
+| 147 | 164 | DanceLuvLaugh |
+| 148 | 164 | rosy |
 | 149 | 163 | Karon Griffin |
 | 150 | 163 | Stephanie Hill |
 | 151 | 160 | Tiffany Davie |
-| 152 | 159 | Jone |
+| 152 | 159 | Mcathen |
 | 153 | 159 | Morgan Martinez |
-| 154 | 159 | Mcathen |
+| 154 | 159 | Jone |
 | 155 | 158 | Grams |
 | 156 | 157 | Nicholas Roddy |
 | 157 | 157 | Patricia Gadsden |
 | 158 | 156 | Joey Banks |
 | 159 | 155 | BŘŰŤİÇŨŚ |
 | 160 | 154 | Angela M. Fletcher |
-| 161 | 153 | Stephanie Whitefield |
-| 162 | 153 | Beth Ingham |
+| 161 | 153 | Beth Ingham |
+| 162 | 153 | Stephanie Whitefield |
 | 163 | 152 | Shiny Zonebuilder |
 | 164 | 151 | MsBee |
 | 165 | 150 | Nicole Myers |
@@ -195,8 +195,8 @@
 | 187 | 127 | Joy Petroski |
 | 188 | 127 | Marquita Sheard |
 | 189 | 126 | Brandon Givens |
-| 190 | 125 | Felicia Doxey |
-| 191 | 125 | Shimika Enay Wallace |
+| 190 | 125 | Shimika Enay Wallace |
+| 191 | 125 | Felicia Doxey |
 | 192 | 124 | Cesar Barraza |
 | 193 | 123 | Marci Mize Fandrich |
 | 194 | 123 | Terry Jo Jones |
