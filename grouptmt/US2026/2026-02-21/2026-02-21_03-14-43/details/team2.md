@@ -324,8 +324,8 @@
 | 316 | 167 | Dedra Steward |
 | 317 | 167 | August Hale |
 | 318 | 165 | Cathy Bitters |
-| 319 | 164 | kippykay |
-| 320 | 164 | Jamie Stevey |
+| 319 | 164 | Jamie Stevey |
+| 320 | 164 | kippykay |
 | 321 | 163 | Austin Wilson |
 | 322 | 163 | Taren Cowan |
 | 323 | 163 | Albert McKnight |

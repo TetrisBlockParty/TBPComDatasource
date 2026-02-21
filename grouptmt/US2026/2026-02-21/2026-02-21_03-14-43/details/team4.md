@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Kimberly Love |
-| 23 | 300 | Johnathan Martinez |
+| 22 | 300 | Johnathan Martinez |
+| 23 | 300 | Kimberly Love |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 277 | KJ Pool |
@@ -44,8 +44,8 @@
 | 36 | 179 | Epic Curvetile |
 | 37 | 174 | Jamie Mann-Deichmann |
 | 38 | 171 | Rachel Anne |
-| 39 | 170 | Leah Kutz Zirbel |
-| 40 | 170 | Girl |
+| 39 | 170 | Girl |
+| 40 | 170 | Leah Kutz Zirbel |
 | 41 | 168 | Anthony Magaraci |
 | 42 | 153 | Jae Job |
 | 43 | 152 | Denise Carlson |
@@ -63,8 +63,8 @@
 | 55 | 125 | Lauren Scott |
 | 56 | 124 | Jay28 |
 | 57 | 123 | Nugget |
-| 58 | 122 | Shelly Chandler |
-| 59 | 122 | Sherri |
+| 58 | 122 | Sherri |
+| 59 | 122 | Shelly Chandler |
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |

@@ -133,8 +133,8 @@
 | 125 | 114 | Joy Petroski |
 | 126 | 114 | Jessica Bechler |
 | 127 | 112 | Boldy Corner |
-| 128 | 110 | Tiff Vs Tiffany |
-| 129 | 110 | Stella |
+| 128 | 110 | Stella |
+| 129 | 110 | Tiff Vs Tiffany |
 | 130 | 109 | Brian Battjes |
 | 131 | 109 | Chauntee Alfrey-Cardinale |
 | 132 | 109 | Fredd Thomas |
@@ -176,15 +176,15 @@
 | 168 | 90 | Rebel124 |
 | 169 | 90 | Eon Harris |
 | 170 | 89 | Hyper Bridger |
-| 171 | 88 | Danielle Becker |
-| 172 | 88 | Shicken Nuggit |
+| 171 | 88 | Shicken Nuggit |
+| 172 | 88 | Danielle Becker |
 | 173 | 88 | Brandon Givens |
 | 174 | 88 | Martin Bernier |
 | 175 | 86 | Stephanie Blkpep Davidson |
 | 176 | 86 | Josiah Fam |
 | 177 | 85 | Sashay Tapae Simpson |
-| 178 | 85 | Kevin Russell |
-| 179 | 85 | Chris Bell |
+| 178 | 85 | Chris Bell |
+| 179 | 85 | Kevin Russell |
 | 180 | 84 | Ava Petito |
 | 181 | 84 | Flashy Rumbler |
 | 182 | 84 | Amanda L Baker |

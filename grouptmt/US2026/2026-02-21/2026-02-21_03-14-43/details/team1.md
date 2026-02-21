@@ -95,8 +95,8 @@
 | 87 | 105 | Flashy Rotator |
 | 88 | 105 | Barry Mac'Ockner |
 | 89 | 100 | Ash Galvan |
-| 90 | 99 | Ty Brown |
-| 91 | 99 | Bhelle Sumile |
+| 90 | 99 | Bhelle Sumile |
+| 91 | 99 | Ty Brown |
 | 92 | 98 | Gary Gobin |
 | 93 | 97 | Melissa Bires Hussar |
 | 94 | 96 | Nery Martinez |
