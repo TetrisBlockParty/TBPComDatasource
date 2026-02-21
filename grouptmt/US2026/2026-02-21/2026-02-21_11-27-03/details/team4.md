@@ -112,7 +112,7 @@
 | 104 | 132 | Melissa Priest Sellers |
 | 105 | 131 | Zany Twisterfit |
 | 106 | 131 | Mr. Party |
-| 107 | 131 | Zany Twisterfit |
+| 107 | 131 | Dana Scott |
 | 108 | 130 | Casey Jeffcoat |
 | 109 | 130 | Lucas J Sutton |
 | 110 | 129 | Serena Goodridge |
@@ -211,8 +211,8 @@
 | 203 | 80 | Chaz Duncan |
 | 204 | 79 | Kametsunoyaiba |
 | 205 | 79 | Joseph Pace |
-| 206 | 78 | Adawna Swires |
-| 207 | 78 | Zesty Linkgrid |
+| 206 | 78 | Zesty Linkgrid |
+| 207 | 78 | Adawna Swires |
 | 208 | 78 | Jessica Miller |
 | 209 | 77 | Twisty Cascadezone |
 | 210 | 77 | Marvin Lou Martin |

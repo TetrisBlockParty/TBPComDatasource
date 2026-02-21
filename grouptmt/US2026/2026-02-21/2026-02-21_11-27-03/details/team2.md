@@ -174,8 +174,8 @@
 | 166 | 460 | Cody Smith-Candelaria |
 | 167 | 456 | Drwatson187 |
 | 168 | 454 | Casey Schumacher |
-| 169 | 453 | Mischelle Clay |
-| 170 | 453 | Osun Anuket Esu |
+| 169 | 453 | Osun Anuket Esu |
+| 170 | 453 | Mischelle Clay |
 | 171 | 452 | Alezandra Smith |
 | 172 | 450 | Cheech Dta |
 | 173 | 450 | Giggy Blocker |

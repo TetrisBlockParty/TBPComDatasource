@@ -76,8 +76,8 @@
 | 68 | 198 | Billie Dawn Sparks |
 | 69 | 198 | Happy Snapbuild |
 | 70 | 197 | Cynthia Bradley |
-| 71 | 194 | Sharon Reynolds |
-| 72 | 194 | Giggly Builderline |
+| 71 | 194 | Giggly Builderline |
+| 72 | 194 | Sharon Reynolds |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
@@ -223,9 +223,9 @@
 | 215 | 75 | Funky Piecebuilder |
 | 216 | 75 | Fresno Beotoni |
 | 217 | 75 | Tyler L Hunt |
-| 218 | 74 | Grace Joanne Agnant |
+| 218 | 74 | Meechie |
 | 219 | 74 | Owicked1 |
-| 220 | 74 | Meechie |
+| 220 | 74 | Grace Joanne Agnant |
 | 221 | 73 | Shanae Grant |
 | 222 | 73 | Silly Align |
 | 223 | 72 | Tipsy Strikerpiece |

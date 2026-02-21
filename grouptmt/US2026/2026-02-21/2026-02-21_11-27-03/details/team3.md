@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Annie Déè |
 | 74 | 342 | Trezure Gonzalez |
@@ -108,15 +108,15 @@
 | 100 | 229 | Angeline Joseph |
 | 101 | 226 | Shannon Matthew Byers |
 | 102 | 225 | Speedy Bridger |
-| 103 | 224 | Judi Dobson |
-| 104 | 224 | Mykal Burton |
+| 103 | 224 | Mykal Burton |
+| 104 | 224 | Judi Dobson |
 | 105 | 223 | Jeana Gilbert |
 | 106 | 222 | Jimmie Clemons |
 | 107 | 218 | mjl574 |
 | 108 | 214 | Amy Fuller Heaton |
 | 109 | 213 | Tom Nault |
-| 110 | 212 | Shunta Jacobs |
-| 111 | 212 | Kristie McFarland |
+| 110 | 212 | Kristie McFarland |
+| 111 | 212 | Shunta Jacobs |
 | 112 | 211 | Katrina Schroeder |
 | 113 | 207 | rnr junky |
 | 114 | 206 | Stephanie Blkpep Davidson |
@@ -124,8 +124,8 @@
 | 116 | 203 | Crimson |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -178,8 +178,8 @@
 | 170 | 134 | Emma |
 | 171 | 134 | DanceLuvLaugh |
 | 172 | 131 | Jl |
-| 173 | 129 | Lesley Perez |
-| 174 | 129 | Logan Naccarato |
+| 173 | 129 | Logan Naccarato |
+| 174 | 129 | Lesley Perez |
 | 175 | 127 | Aerian Preston |
 | 176 | 127 | Marquita Sheard |
 | 177 | 127 | Joy Petroski |
