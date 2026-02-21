@@ -138,8 +138,8 @@
 | 130 | 631 | Peppy Zone |
 | 131 | 620 | BYM4L |
 | 132 | 619 | Jamie Otero |
-| 133 | 608 | John Bednarik |
-| 134 | 608 | Sommer Shope |
+| 133 | 608 | Sommer Shope |
+| 134 | 608 | John Bednarik |
 | 135 | 604 | Amber Shoemaker |
 | 136 | 603 | Cassie Maynard |
 | 137 | 602 | L3sli3 |
@@ -226,8 +226,8 @@
 | 218 | 411 | Ricky Fortune |
 | 219 | 409 | Sparkles |
 | 220 | 406 | Erin StFrancis |
-| 221 | 405 | Sarah Massey |
-| 222 | 405 | Christy Krissie |
+| 221 | 405 | Christy Krissie |
+| 222 | 405 | Sarah Massey |
 | 223 | 402 | Joshua Mandel |
 | 224 | 400 | Crystie Hicks |
 | 225 | 400 | Tammy Allen |
@@ -684,7 +684,7 @@
 | 676 | 143 | Jay Levy |
 | 677 | 143 | Arlet Alba |
 | 678 | 142 | Brandy |
-| 679 | 142 | Eunique Griffin |
+| 679 | 142 | Zachary Boyarski |
 | 680 | 142 | Amy Humphreys |
 | 681 | 142 | Eunique Griffin |
 | 682 | 142 | Christina Jones |

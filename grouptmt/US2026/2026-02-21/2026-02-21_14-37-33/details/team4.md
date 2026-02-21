@@ -154,7 +154,7 @@
 | 146 | 115 | Ultramarine |
 | 147 | 115 | Jayk |
 | 148 | 113 | Adam Randall |
-| 149 | 112 | Jackie Marie |
+| 149 | 112 | Bryan Hodgins |
 | 150 | 112 | Austin Owens |
 | 151 | 112 | Brittany Marsh |
 | 152 | 112 | Jackie Marie |
