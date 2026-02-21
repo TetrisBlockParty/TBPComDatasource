@@ -146,10 +146,10 @@
 | 138 | 181 | Carter Jones |
 | 139 | 180 | Leah Kutz Zirbel |
 | 140 | 178 | Lori |
-| 141 | 176 | Klo |
-| 142 | 176 | Zethra Prenisha Rahming |
-| 143 | 175 | Ren Mc |
-| 144 | 175 | blockstar |
+| 141 | 176 | Zethra Prenisha Rahming |
+| 142 | 176 | Klo |
+| 143 | 175 | blockstar |
+| 144 | 175 | Ren Mc |
 | 145 | 174 | Dihcheese444 |
 | 146 | 172 | Jessica Bohlken |
 | 147 | 171 | Diana Houts |
@@ -208,8 +208,8 @@
 | 200 | 125 | Judy Cox |
 | 201 | 125 | Heather Tushner |
 | 202 | 124 | Kristina Black |
-| 203 | 124 | SammieJo Guy |
-| 204 | 124 | Allen Lloyd |
+| 203 | 124 | Allen Lloyd |
+| 204 | 124 | SammieJo Guy |
 | 205 | 123 | Austin Owens |
 | 206 | 123 | Matt Dell'Olio |
 | 207 | 123 | Tyler Terrific |
@@ -230,8 +230,8 @@
 | 222 | 115 | Jayk |
 | 223 | 115 | Lindsey Gonzalez |
 | 224 | 115 | Sam Middleton |
-| 225 | 114 | Circuit8 |
-| 226 | 114 | Kesha Brady |
+| 225 | 114 | Kesha Brady |
+| 226 | 114 | Circuit8 |
 | 227 | 113 | Dandy Cascadefit |
 | 228 | 113 | Adam Randall |
 | 229 | 112 | Jeremy Steines |
@@ -250,8 +250,8 @@
 | 242 | 106 | Brandi Durig |
 | 243 | 106 | Scott Jameson |
 | 244 | 105 | Kim Hunt |
-| 245 | 104 | Cheery Risebuilder |
-| 246 | 104 | Maureen Flanigan |
+| 245 | 104 | Maureen Flanigan |
+| 246 | 104 | Cheery Risebuilder |
 | 247 | 104 | Chris Alexinas |
 | 248 | 103 | Richard-April Kice |
 | 249 | 103 | Kate |
@@ -528,8 +528,8 @@
 | 520 | 52 | Csquared812 |
 | 521 | 52 | Cheery Lift |
 | 522 | 52 | Petty |
-| 523 | 52 | Eminem |
-| 524 | 52 | Randy |
+| 523 | 52 | Randy |
+| 524 | 52 | Eminem |
 | 525 | 52 | Earnest Thompson |
 | 526 | 51 | George Nutt |
 | 527 | 51 | Tabi Williams |

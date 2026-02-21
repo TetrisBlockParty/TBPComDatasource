@@ -121,8 +121,8 @@
 | 113 | 378 | Makelini Mausia |
 | 114 | 378 | Tasha Schriewer |
 | 115 | 377 | Jesse Olive |
-| 116 | 368 | Stephanie Blkpep Davidson |
-| 117 | 368 | Stephanie Woods |
+| 116 | 368 | Stephanie Woods |
+| 117 | 368 | Stephanie Blkpep Davidson |
 | 118 | 367 | mjl574 |
 | 119 | 366 | Speedy Bridger |
 | 120 | 366 | Adrian Marcel Pate |
@@ -184,8 +184,8 @@
 | 176 | 226 | Grego Daniel |
 | 177 | 224 | Nicole Myers |
 | 178 | 223 | Jeana Gilbert |
-| 179 | 219 | Shunta Jacobs |
-| 180 | 219 | Rebecca Bailey |
+| 179 | 219 | Rebecca Bailey |
+| 180 | 219 | Shunta Jacobs |
 | 181 | 218 | LaNette Morgan |
 | 182 | 217 | Jess Bissett |
 | 183 | 214 | Amy Fuller Heaton |

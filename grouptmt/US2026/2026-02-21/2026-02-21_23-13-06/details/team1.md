@@ -41,8 +41,8 @@
 | 33 | 587 | Marianne Louise West |
 | 34 | 585 | Jennifer Cates |
 | 35 | 543 | Aaron Garnett |
-| 36 | 541 | Drew Magnus |
-| 37 | 541 | Kristen Roles Robben |
+| 36 | 541 | Kristen Roles Robben |
+| 37 | 541 | Drew Magnus |
 | 38 | 539 | Karin Gillen |
 | 39 | 523 | comrade fish |
 | 40 | 521 | Hyp James NObettadanluvarat |
@@ -171,12 +171,12 @@
 | 163 | 163 | Tyler Whitley |
 | 164 | 161 | Jessie Lynn |
 | 165 | 160 | Nery Martinez |
-| 166 | 159 | Bindi |
-| 167 | 159 | Cece Ibarra |
+| 166 | 159 | Cece Ibarra |
+| 167 | 159 | Bindi |
 | 168 | 158 | Sarah Marie |
 | 169 | 158 | Arianna O'Brien |
-| 170 | 152 | Jacqueline Unique |
-| 171 | 152 | Speedy Snapfall |
+| 170 | 152 | Speedy Snapfall |
+| 171 | 152 | Jacqueline Unique |
 | 172 | 151 | Christy Jones |
 | 173 | 150 | Adele Rahman |
 | 174 | 150 | ALFD |
@@ -209,8 +209,8 @@
 | 201 | 132 | Layzietyme |
 | 202 | 131 | Fmp |
 | 203 | 131 | Uhog SF |
-| 204 | 130 | Gilbert Ortiz Jr. |
-| 205 | 130 | LD1 |
+| 204 | 130 | LD1 |
+| 205 | 130 | Gilbert Ortiz Jr. |
 | 206 | 128 | lil mickey |
 | 207 | 128 | Barry Mac'Ockner |
 | 208 | 126 | Tami Luce Martin |
@@ -232,9 +232,9 @@
 | 224 | 114 | Tyler Hertzog |
 | 225 | 114 | Hector Cruz |
 | 226 | 113 | Desiree Deschaine Havee |
-| 227 | 112 | Chris65 |
-| 228 | 112 | Crystal Joslin |
-| 229 | 112 | Brenda Alexander |
+| 227 | 112 | Brenda Alexander |
+| 228 | 112 | Chris65 |
+| 229 | 112 | Crystal Joslin |
 | 230 | 111 | Chirpy Smasher |
 | 231 | 111 | Rachel Nichole Henry |
 | 232 | 110 | Jodee Woods |

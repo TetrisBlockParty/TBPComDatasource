@@ -348,8 +348,8 @@
 | 340 | 422 | Mamachelle Eisweirth |
 | 341 | 421 | Vanessa Moreno |
 | 342 | 416 | Lina Sanders |
-| 343 | 414 | Sabrina Burton |
-| 344 | 414 | Kara Gillen |
+| 343 | 414 | Kara Gillen |
+| 344 | 414 | Sabrina Burton |
 | 345 | 414 | John |
 | 346 | 414 | Emily Lyric Converse |
 | 347 | 411 | Ricky Fortune |
