@@ -289,8 +289,8 @@
 | 281 | 303 | Amanda Schaffer |
 | 282 | 303 | Crystal Greene |
 | 283 | 301 | Claire |
-| 284 | 299 | Deborah Miller |
-| 285 | 299 | Christy Krissie |
+| 284 | 299 | Christy Krissie |
+| 285 | 299 | Deborah Miller |
 | 286 | 299 | Tara Lynn Janes |
 | 287 | 297 | KhaosLord |
 | 288 | 297 | Joce Lynn |

@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Josiah Fam |
-| 21 | 1015 | Jennifer Willis |
+| 20 | 1015 | Jennifer Willis |
+| 21 | 1015 | Josiah Fam |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -169,8 +169,8 @@
 | 161 | 156 | Joey Banks |
 | 162 | 155 | BŘŰŤİÇŨŚ |
 | 163 | 154 | Angela M. Fletcher |
-| 164 | 153 | Stephanie Whitefield |
-| 165 | 153 | Beth Ingham |
+| 164 | 153 | Beth Ingham |
+| 165 | 153 | Stephanie Whitefield |
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |
@@ -183,12 +183,12 @@
 | 175 | 146 | Latoya Mayne |
 | 176 | 145 | Bryan Byrd |
 | 177 | 142 | Erica Anderson |
-| 178 | 140 | Carrie Huskey |
+| 178 | 140 | Gumbo |
 | 179 | 140 | Jay Horn |
-| 180 | 140 | Gumbo |
+| 180 | 140 | Carrie Huskey |
 | 181 | 136 | Boldy Corner |
-| 182 | 135 | Cheryl Hinch Tenbrook |
-| 183 | 135 | Connie Mohler-Fair |
+| 182 | 135 | Connie Mohler-Fair |
+| 183 | 135 | Cheryl Hinch Tenbrook |
 | 184 | 134 | Emma |
 | 185 | 133 | Aerian Preston |
 | 186 | 131 | Joy Petroski |

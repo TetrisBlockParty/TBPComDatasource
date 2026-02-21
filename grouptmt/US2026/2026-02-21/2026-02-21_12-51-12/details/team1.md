@@ -49,8 +49,8 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Sweet Baker |
-| 45 | 274 | Theo Pinnow |
+| 44 | 274 | Theo Pinnow |
+| 45 | 274 | Sweet Baker |
 | 46 | 272 | Adam Byrd |
 | 47 | 266 | Kristen Roles Robben |
 | 48 | 264 | Shauna Loe |
@@ -66,16 +66,16 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Tdub |
-| 62 | 212 | Jaimie Lynn |
+| 61 | 212 | Jaimie Lynn |
+| 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
 | 64 | 208 | Carrie Beck Geartz |
 | 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
 | 67 | 204 | Ly Phethmany |
 | 68 | 202 | Dee Perry |
-| 69 | 201 | Ananda Mendez |
-| 70 | 201 | Anaid Sanchez |
+| 69 | 201 | Anaid Sanchez |
+| 70 | 201 | Ananda Mendez |
 | 71 | 200 | Lexuriuos Lifestlye |
 | 72 | 198 | Billie Dawn Sparks |
 | 73 | 198 | Happy Snapbuild |
@@ -110,9 +110,9 @@
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | femmefatale |
-| 106 | 144 | Plucky Ziggy |
-| 107 | 144 | Tanya Carpenter-Reynolds |
+| 105 | 144 | Tanya Carpenter-Reynolds |
+| 106 | 144 | femmefatale |
+| 107 | 144 | Plucky Ziggy |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 140 | Miguel Teixeira |
@@ -127,8 +127,8 @@
 | 119 | 131 | Uhog SF |
 | 120 | 130 | Dandy Basegrid |
 | 121 | 129 | Dino |
-| 122 | 128 | Cody Gates |
-| 123 | 128 | lil mickey |
+| 122 | 128 | lil mickey |
+| 123 | 128 | Cody Gates |
 | 124 | 127 | Michael |
 | 125 | 124 | Cartier |
 | 126 | 121 | Bouncy Grid |
@@ -169,7 +169,7 @@
 | 161 | 100 | Jessica Weed |
 | 162 | 100 | Debbie Davis |
 | 163 | 100 | Tami Luce Martin |
-| 164 | 100 | Debbie Davis |
+| 164 | 100 | Spunky Piecebuilder |
 | 165 | 99 | Mizzledagod |
 | 166 | 99 | Tyler Hertzog |
 | 167 | 99 | Melissa Bires Hussar |
