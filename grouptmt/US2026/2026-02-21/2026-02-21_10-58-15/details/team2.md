@@ -112,8 +112,8 @@
 | 104 | 658 | Pacynthia Williams |
 | 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Stephanie Chapman |
-| 108 | 649 | Anna Edwards |
+| 107 | 649 | Anna Edwards |
+| 108 | 649 | Stephanie Chapman |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
 | 111 | 631 | Loopy Clusterbuilder |
@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Kaylee McCafferty |
-| 144 | 515 | Real Ri |
+| 143 | 515 | Real Ri |
+| 144 | 515 | Kaylee McCafferty |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -265,15 +265,15 @@
 | 257 | 303 | Crystal Greene |
 | 258 | 303 | Amanda Schaffer |
 | 259 | 301 | Claire |
-| 260 | 299 | Deborah Miller |
-| 261 | 299 | Christy Krissie |
+| 260 | 299 | Christy Krissie |
+| 261 | 299 | Deborah Miller |
 | 262 | 297 | Brenda Utphall |
 | 263 | 296 | Jennifer Casey-Kay |
 | 264 | 296 | Amber Gray |
 | 265 | 296 | Jennifer Darby |
 | 266 | 295 | Zany Clusterbuilder |
-| 267 | 295 | Angela Bonquiqui Dinish |
-| 268 | 295 | Diallo Sparkman |
+| 267 | 295 | Diallo Sparkman |
+| 268 | 295 | Angela Bonquiqui Dinish |
 | 269 | 293 | Scott Treadway |
 | 270 | 293 | David Holliday |
 | 271 | 290 | Jessie McDougald |
@@ -718,7 +718,7 @@
 | 710 | 121 | Pam Doughty |
 | 711 | 121 | g |
 | 712 | 120 | Rebecca Crosby |
-| 713 | 120 | Janet Marie Vega |
+| 713 | 120 | Makayla Harris |
 | 714 | 120 | Richelle Chapin |
 | 715 | 120 | Janet Marie Vega |
 | 716 | 120 | Kara Gillen |

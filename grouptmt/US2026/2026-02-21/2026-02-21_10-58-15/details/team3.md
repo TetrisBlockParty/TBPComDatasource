@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -78,8 +78,8 @@
 | 70 | 345 | Mendoza Lee Christy |
 | 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Annie Déè |
-| 74 | 342 | Trezure Gonzalez |
+| 73 | 342 | Trezure Gonzalez |
+| 74 | 342 | Annie Déè |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -114,8 +114,8 @@
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Shunta Jacobs |
-| 110 | 212 | Kristie McFarland |
+| 109 | 212 | Kristie McFarland |
+| 110 | 212 | Shunta Jacobs |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -151,8 +151,8 @@
 | 143 | 159 | Jone |
 | 144 | 159 | Mcathen |
 | 145 | 158 | Grams |
-| 146 | 157 | Nicholas Roddy |
-| 147 | 157 | Patricia Gadsden |
+| 146 | 157 | Patricia Gadsden |
+| 147 | 157 | Nicholas Roddy |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
@@ -165,8 +165,8 @@
 | 157 | 149 | Angel Mendez |
 | 158 | 149 | Trisha Balmer |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Denita Mungro |
-| 161 | 146 | Latoya Mayne |
+| 160 | 146 | Latoya Mayne |
+| 161 | 146 | Denita Mungro |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Jay Horn |
@@ -183,8 +183,8 @@
 | 175 | 127 | Marquita Sheard |
 | 176 | 127 | Aerian Preston |
 | 177 | 126 | Brandon Givens |
-| 178 | 125 | Shimika Enay Wallace |
-| 179 | 125 | Felicia Doxey |
+| 178 | 125 | Felicia Doxey |
+| 179 | 125 | Shimika Enay Wallace |
 | 180 | 124 | Cesar Barraza |
 | 181 | 123 | Marci Mize Fandrich |
 | 182 | 123 | Terry Jo Jones |

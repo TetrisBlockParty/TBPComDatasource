@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -93,15 +93,15 @@
 | 85 | 154 | ThaEviLJeNiuZ |
 | 86 | 153 | Jae Job |
 | 87 | 150 | ZeeZee |
-| 88 | 147 | 030Synner |
-| 89 | 147 | Jay28 |
+| 88 | 147 | Jay28 |
+| 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
 | 91 | 141 | Malakai Darien Fox |
 | 92 | 140 | Shannon Ferrari |
 | 93 | 138 | Shainne Brewer |
 | 94 | 136 | Tanner Lund |
-| 95 | 134 | Jessica Bohlken |
-| 96 | 134 | Chirpy Basepiece |
+| 95 | 134 | Chirpy Basepiece |
+| 96 | 134 | Jessica Bohlken |
 | 97 | 133 | Robin Watters |
 | 98 | 132 | Jenna McGeorge |
 | 99 | 132 | Latisha Davis |
@@ -117,9 +117,9 @@
 | 109 | 129 | John Brunetti |
 | 110 | 126 | Dihcheese444 |
 | 111 | 125 | Lauren Scott |
-| 112 | 123 | Bubbly Puzzler |
+| 112 | 123 | Cherrish Duren |
 | 113 | 123 | Nugget |
-| 114 | 123 | Cherrish Duren |
+| 114 | 123 | Bubbly Puzzler |
 | 115 | 122 | Sherri |
 | 116 | 121 | Smiley Tiltbuilder |
 | 117 | 121 | Klo |
@@ -192,7 +192,7 @@
 | 184 | 85 | Chirpy Slammer |
 | 185 | 85 | Shukee Lo |
 | 186 | 84 | Perky Piecegrid |
-| 187 | 83 | Abigail Murphy |
+| 187 | 83 | Holly |
 | 188 | 83 | Joseph Gray |
 | 189 | 83 | Avy Absol |
 | 190 | 83 | Abigail Murphy |
