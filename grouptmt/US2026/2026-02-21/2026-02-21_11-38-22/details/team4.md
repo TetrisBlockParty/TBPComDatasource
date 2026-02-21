@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -89,8 +89,8 @@
 | 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
-| 84 | 159 | Holly Jolly |
-| 85 | 159 | Justin Hannigan |
+| 84 | 159 | Justin Hannigan |
+| 85 | 159 | Holly Jolly |
 | 86 | 157 | quicksand420 |
 | 87 | 155 | Andy Cabral |
 | 88 | 154 | ThaEviLJeNiuZ |
@@ -121,8 +121,8 @@
 | 113 | 129 | Landon Keith Graffeo |
 | 114 | 126 | Dihcheese444 |
 | 115 | 125 | Lauren Scott |
-| 116 | 123 | Cherrish Duren |
-| 117 | 123 | TinyLegoRose |
+| 116 | 123 | TinyLegoRose |
+| 117 | 123 | Cherrish Duren |
 | 118 | 123 | Bubbly Puzzler |
 | 119 | 122 | Sherri |
 | 120 | 121 | Klo |
@@ -260,7 +260,7 @@
 | 252 | 67 | Laurie McGregor |
 | 253 | 67 | Dennis Bradley |
 | 254 | 66 | Moonsterix |
-| 255 | 66 | Terrance Fung |
+| 255 | 66 | Rebecca Blake |
 | 256 | 66 | mitch |
 | 257 | 66 | Terrance Fung |
 | 258 | 65 | Lee Silpe |
@@ -330,8 +330,8 @@
 | 322 | 53 | Allison Judith |
 | 323 | 53 | Poppy Brickmatch |
 | 324 | 53 | KimoKoala |
-| 325 | 52 | Chassidy Martin |
-| 326 | 52 | Nerdy Twisterfit |
+| 325 | 52 | Nerdy Twisterfit |
+| 326 | 52 | Chassidy Martin |
 | 327 | 51 | George Nutt |
 | 328 | 51 | Frank Cook |
 | 329 | 50 | Mike |

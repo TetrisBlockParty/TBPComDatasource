@@ -45,8 +45,8 @@
 | 37 | 1234 | blackq |
 | 38 | 1215 | Megan Garrick |
 | 39 | 1210 | Brittany Alicia |
-| 40 | 1173 | Devin Lee |
-| 41 | 1173 | Katrina Williams Balmir |
+| 40 | 1173 | Katrina Williams Balmir |
+| 41 | 1173 | Devin Lee |
 | 42 | 1157 | Priscilla Noel |
 | 43 | 1150 | Izabel Herrera |
 | 44 | 1143 | Lucky Ladybug |
@@ -117,8 +117,8 @@
 | 109 | 649 | Anna Edwards |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -323,8 +323,8 @@
 | 315 | 269 | Reece Smith |
 | 316 | 268 | Chummy Blockbuilder |
 | 317 | 268 | Tanya Parsons |
-| 318 | 266 | Mighty Shatterfit |
-| 319 | 266 | Mike Aprilliano |
+| 318 | 266 | Mike Aprilliano |
+| 319 | 266 | Mighty Shatterfit |
 | 320 | 264 | Dapper Dasher |
 | 321 | 263 | Taylor Flowers |
 | 322 | 262 | Taren Cowan |
@@ -545,8 +545,8 @@
 | 537 | 156 | Deanna Morton |
 | 538 | 156 | RetroLemur |
 | 539 | 156 | Renee Bowers |
-| 540 | 155 | Chelle |
-| 541 | 155 | Monarca26 |
+| 540 | 155 | Monarca26 |
+| 541 | 155 | Chelle |
 | 542 | 155 | Cris cris |
 | 543 | 155 | Jacob Huffman |
 | 544 | 155 | Angela Murgia-Owen |
