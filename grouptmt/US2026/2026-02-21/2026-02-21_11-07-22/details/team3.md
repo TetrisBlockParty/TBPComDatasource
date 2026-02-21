@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -127,16 +127,16 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -161,9 +161,9 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Angel Mendez |
-| 157 | 149 | Bea Miles |
-| 158 | 149 | Trisha Balmer |
+| 156 | 149 | Trisha Balmer |
+| 157 | 149 | Angel Mendez |
+| 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Denita Mungro |
 | 161 | 146 | Latoya Mayne |
@@ -262,8 +262,8 @@
 | 254 | 95 | Brooke Bauer |
 | 255 | 94 | Angie Harper |
 | 256 | 93 | Tiffany Ford |
-| 257 | 92 | Trice Thomas |
-| 258 | 92 | Jennifer Caputo |
+| 257 | 92 | Jennifer Caputo |
+| 258 | 92 | Trice Thomas |
 | 259 | 92 | Ava Petito |
 | 260 | 91 | Martin Bernier |
 | 261 | 90 | Snazzy Brickzone |

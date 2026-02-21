@@ -541,8 +541,8 @@
 | 533 | 155 | Angela Murgia-Owen |
 | 534 | 155 | ItsJennifer Neriss |
 | 535 | 154 | Lydia Greenman |
-| 536 | 154 | Tiffney Wroten |
-| 537 | 154 | Cini |
+| 536 | 154 | Cini |
+| 537 | 154 | Tiffney Wroten |
 | 538 | 154 | Bryan Werleman |
 | 539 | 154 | Lori Maring |
 | 540 | 153 | Luna |
@@ -588,9 +588,9 @@
 | 580 | 143 | Angelica |
 | 581 | 142 | Joy LaJeunesse |
 | 582 | 142 | Melissa Kay Gibson |
-| 583 | 142 | Frisky Clearpiece |
+| 583 | 142 | Amy Humphreys |
 | 584 | 142 | Zachary Boyarski |
-| 585 | 142 | Amy Humphreys |
+| 585 | 142 | Frisky Clearpiece |
 | 586 | 141 | Mary Lopez Sr. |
 | 587 | 141 | Markisha Poyndexter |
 | 588 | 141 | Monica Brown |
