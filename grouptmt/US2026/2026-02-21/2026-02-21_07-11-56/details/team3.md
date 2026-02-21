@@ -42,8 +42,8 @@
 | 34 | 587 | Danielle Becker |
 | 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -113,8 +113,8 @@
 | 105 | 200 | Twisty Brick LT |
 | 106 | 199 | joclisa |
 | 107 | 196 | Speedy Bridger |
-| 108 | 195 | Jenny Hrndz |
-| 109 | 195 | Nicha Hooker |
+| 108 | 195 | Nicha Hooker |
+| 109 | 195 | Jenny Hrndz |
 | 110 | 194 | glichmod |
 | 111 | 193 | Clever Shiftsnap |
 | 112 | 193 | Shunta Jacobs |
@@ -130,11 +130,11 @@
 | 122 | 178 | Khaleada McGill Banks |
 | 123 | 176 | Ryan Williams |
 | 124 | 168 | Mendoza Lee Christy |
-| 125 | 166 | Kelly Ann Child |
-| 126 | 166 | Danielle Mogg |
+| 125 | 166 | Danielle Mogg |
+| 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
-| 128 | 159 | Jone |
-| 129 | 159 | Morgan Martinez |
+| 128 | 159 | Morgan Martinez |
+| 129 | 159 | Jone |
 | 130 | 158 | Grams |
 | 131 | 156 | Joey Banks |
 | 132 | 155 | BŘŰŤİÇŨŚ |
@@ -150,13 +150,13 @@
 | 142 | 149 | Bea Miles |
 | 143 | 149 | Trisha Balmer |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Latoya Mayne |
-| 146 | 146 | Denita Mungro |
+| 145 | 146 | Denita Mungro |
+| 146 | 146 | Latoya Mayne |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Jay Horn |
 | 149 | 140 | Gumbo |
-| 150 | 135 | Cheryl Hinch Tenbrook |
-| 151 | 135 | Nicole Flippo |
+| 150 | 135 | Nicole Flippo |
+| 151 | 135 | Cheryl Hinch Tenbrook |
 | 152 | 134 | DanceLuvLaugh |
 | 153 | 134 | Emma |
 | 154 | 131 | Jl |
@@ -168,8 +168,8 @@
 | 160 | 125 | Felicia Doxey |
 | 161 | 125 | Shimika Enay Wallace |
 | 162 | 124 | Cesar Barraza |
-| 163 | 123 | Sarajane Lokan |
-| 164 | 123 | Terry Jo Jones |
+| 163 | 123 | Terry Jo Jones |
+| 164 | 123 | Sarajane Lokan |
 | 165 | 123 | Kristie McFarland |
 | 166 | 122 | Katrina E Jelks |
 | 167 | 122 | Giggly Brickroll |
@@ -183,8 +183,8 @@
 | 175 | 116 | Skinny Baldez |
 | 176 | 116 | Joy Petroski |
 | 177 | 115 | Jennifer Alvey |
-| 178 | 114 | Jessica Bechler |
-| 179 | 114 | Nicholas Roddy |
+| 178 | 114 | Nicholas Roddy |
+| 179 | 114 | Jessica Bechler |
 | 180 | 113 | Brian Battjes |
 | 181 | 113 | Valerie Gendron |
 | 182 | 110 | Stella |

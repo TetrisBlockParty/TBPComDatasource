@@ -124,8 +124,8 @@
 | 116 | 520 | Kimberly Schall |
 | 117 | 519 | Maria Escobar |
 | 118 | 517 | Debra Williams |
-| 119 | 515 | Kaylee McCafferty |
-| 120 | 515 | Real Ri |
+| 119 | 515 | Real Ri |
+| 120 | 515 | Kaylee McCafferty |
 | 121 | 513 | Butta |
 | 122 | 510 | Ashley House |
 | 123 | 509 | Kelli Wells |
@@ -195,8 +195,8 @@
 | 187 | 344 | Julie Kresal |
 | 188 | 344 | Brave Dropmatch |
 | 189 | 342 | Tracy Wise |
-| 190 | 339 | Auntie B |
-| 191 | 339 | Qiana Sanders |
+| 190 | 339 | Qiana Sanders |
+| 191 | 339 | Auntie B |
 | 192 | 337 | Joseph Musick |
 | 193 | 336 | Tralonda Weeks |
 | 194 | 334 | Missie Lawson Gebhardt |
@@ -297,8 +297,8 @@
 | 289 | 247 | Andrea Devery Beck |
 | 290 | 247 | Fancy Twister |
 | 291 | 246 | Kathryn Townsley |
-| 292 | 246 | Stephanie Lumanlan |
-| 293 | 246 | Ashley Lopez |
+| 292 | 246 | Ashley Lopez |
+| 293 | 246 | Stephanie Lumanlan |
 | 294 | 245 | Rachael Senard |
 | 295 | 245 | Mischelle Clay |
 | 296 | 245 | Taryece Gause |

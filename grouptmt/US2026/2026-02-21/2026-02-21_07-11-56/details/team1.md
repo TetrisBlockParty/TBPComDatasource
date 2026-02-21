@@ -40,11 +40,11 @@
 | 32 | 291 | Nancy Green |
 | 33 | 286 | Michelle Nicole |
 | 34 | 281 | Maria C. Hernandez |
-| 35 | 274 | Sweet Baker |
-| 36 | 274 | Theo Pinnow |
+| 35 | 274 | Theo Pinnow |
+| 36 | 274 | Sweet Baker |
 | 37 | 265 | Jennifer Cates |
-| 38 | 256 | Robert Benito |
-| 39 | 256 | Tipsy Column |
+| 38 | 256 | Tipsy Column |
+| 39 | 256 | Robert Benito |
 | 40 | 244 | Franswa |
 | 41 | 243 | Sarah Roberts |
 | 42 | 241 | Kristen Roles Robben |
@@ -60,8 +60,8 @@
 | 52 | 201 | Ananda Mendez |
 | 53 | 201 | Anaid Sanchez |
 | 54 | 200 | Lexuriuos Lifestlye |
-| 55 | 198 | Billie Dawn Sparks |
-| 56 | 198 | Happy Snapbuild |
+| 55 | 198 | Happy Snapbuild |
+| 56 | 198 | Billie Dawn Sparks |
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
@@ -106,8 +106,8 @@
 | 98 | 126 | Rachael |
 | 99 | 126 | Cece Ibarra |
 | 100 | 121 | Bouncy Grid |
-| 101 | 119 | Tater |
-| 102 | 119 | Irual Hctrab |
+| 101 | 119 | Irual Hctrab |
+| 102 | 119 | Tater |
 | 103 | 118 | Barry Mac'Ockner |
 | 104 | 116 | Evie Khalil |
 | 105 | 115 | comrade fish |
