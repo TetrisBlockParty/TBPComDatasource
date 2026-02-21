@@ -58,8 +58,8 @@
 | 50 | 154 | Sweet Baker |
 | 51 | 153 | Standia Civil |
 | 52 | 151 | Hyper |
-| 53 | 148 | Jessie Lynn |
-| 54 | 148 | Josie Kirt |
+| 53 | 148 | Josie Kirt |
+| 54 | 148 | Jessie Lynn |
 | 55 | 147 | Veronica Eve |
 | 56 | 145 | Lachelle Dillon |
 | 57 | 145 | BigWeenie69 |

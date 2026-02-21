@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Kimberly Love |
-| 23 | 300 | Johnathan Martinez |
+| 22 | 300 | Johnathan Martinez |
+| 23 | 300 | Kimberly Love |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 277 | KJ Pool |
@@ -63,13 +63,13 @@
 | 55 | 125 | Lauren Scott |
 | 56 | 124 | Jay28 |
 | 57 | 123 | Nugget |
-| 58 | 122 | Shelly Chandler |
-| 59 | 122 | Sherri |
+| 58 | 122 | Sherri |
+| 59 | 122 | Shelly Chandler |
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
-| 63 | 113 | Leslie Nicole |
-| 64 | 113 | Andria Lynn |
+| 63 | 113 | Andria Lynn |
+| 64 | 113 | Leslie Nicole |
 | 65 | 113 | Degenerate |
 | 66 | 112 | Austin Owens |
 | 67 | 112 | Mr. Party |
@@ -92,9 +92,9 @@
 | 84 | 97 | TinyLegoRose |
 | 85 | 96 | Zappy Snaplink |
 | 86 | 92 | Kristin MacDonald |
-| 87 | 90 | Judy Cox |
+| 87 | 90 | ZeeZee |
 | 88 | 90 | Bubbly Puzzler |
-| 89 | 90 | ZeeZee |
+| 89 | 90 | Judy Cox |
 | 90 | 89 | Zesty Twistbuilder |
 | 91 | 88 | Heather Tushner |
 | 92 | 88 | Brandi Durig |

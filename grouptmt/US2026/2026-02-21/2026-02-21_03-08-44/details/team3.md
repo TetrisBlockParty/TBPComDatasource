@@ -114,8 +114,8 @@
 | 106 | 131 | Emma |
 | 107 | 129 | Giddy Twistbuilder |
 | 108 | 128 | Angel Mendez |
-| 109 | 127 | Marquita Sheard |
-| 110 | 127 | Aerian Preston |
+| 109 | 127 | Aerian Preston |
+| 110 | 127 | Marquita Sheard |
 | 111 | 126 | Brandon Green |
 | 112 | 125 | BŘŰŤİÇŨŚ |
 | 113 | 125 | Stephanie Simpson |
@@ -191,8 +191,8 @@
 | 183 | 82 | Crystel b520 |
 | 184 | 81 | Tina Baurdau |
 | 185 | 80 | Vixen Queen |
-| 186 | 79 | Stephanie Whitefield |
-| 187 | 79 | Jessie Chung |
+| 186 | 79 | Jessie Chung |
+| 187 | 79 | Stephanie Whitefield |
 | 188 | 79 | gremicx |
 | 189 | 78 | Clever Patterner |
 | 190 | 78 | Karon Griffin |
