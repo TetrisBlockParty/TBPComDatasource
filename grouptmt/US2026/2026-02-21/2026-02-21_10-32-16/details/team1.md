@@ -70,8 +70,8 @@
 | 62 | 201 | Adam Byrd |
 | 63 | 201 | Anaid Sanchez |
 | 64 | 200 | Lexuriuos Lifestlye |
-| 65 | 198 | Billie Dawn Sparks |
-| 66 | 198 | Happy Snapbuild |
+| 65 | 198 | Happy Snapbuild |
+| 66 | 198 | Billie Dawn Sparks |
 | 67 | 197 | Cynthia Bradley |
 | 68 | 195 | Mandyy Rae |
 | 69 | 194 | Giggly Builderline |
@@ -92,8 +92,8 @@
 | 84 | 162 | Patrick Luckenbill |
 | 85 | 161 | Abbey Crespo |
 | 86 | 156 | Jessie Lynn |
-| 87 | 155 | Standia Civil |
-| 88 | 155 | David DeSantis |
+| 87 | 155 | David DeSantis |
+| 88 | 155 | Standia Civil |
 | 89 | 153 | Shiny Gridmatch |
 | 90 | 152 | Jacqueline Unique |
 | 91 | 149 | Arianna O'Brien |

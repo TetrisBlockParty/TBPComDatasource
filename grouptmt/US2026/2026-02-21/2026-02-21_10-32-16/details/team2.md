@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -231,8 +231,8 @@
 | 223 | 345 | Brenda Messer |
 | 224 | 345 | Rhianna DiLorenzo |
 | 225 | 345 | Wuntayk |
-| 226 | 344 | Julie Kresal |
-| 227 | 344 | Christina Lewis-Vickers |
+| 226 | 344 | Christina Lewis-Vickers |
+| 227 | 344 | Julie Kresal |
 | 228 | 343 | F-X |
 | 229 | 342 | Leah |
 | 230 | 334 | Moni Foxe |
@@ -412,13 +412,13 @@
 | 404 | 200 | LaWanda Powell |
 | 405 | 200 | Sarah Ridenour |
 | 406 | 199 | Fi Ne |
-| 407 | 199 | Jessica Sutter |
-| 408 | 199 | Jenny Castro |
+| 407 | 199 | Jenny Castro |
+| 408 | 199 | Jessica Sutter |
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |
-| 412 | 196 | Cass Shirley |
-| 413 | 196 | Alexandra Reese |
+| 412 | 196 | Alexandra Reese |
+| 413 | 196 | Cass Shirley |
 | 414 | 196 | Besma Ao |
 | 415 | 195 | Emily Lyric Converse |
 | 416 | 195 | Snappy Shatterfit |
@@ -578,10 +578,10 @@
 | 570 | 144 | Regina Young |
 | 571 | 143 | Jay Levy |
 | 572 | 143 | Angelica |
-| 573 | 142 | Melissa Kay Gibson |
-| 574 | 142 | Joy LaJeunesse |
-| 575 | 142 | Amy Humphreys |
-| 576 | 142 | Zachary Boyarski |
+| 573 | 142 | Joy LaJeunesse |
+| 574 | 142 | Melissa Kay Gibson |
+| 575 | 142 | Zachary Boyarski |
+| 576 | 142 | Amy Humphreys |
 | 577 | 142 | Frisky Clearpiece |
 | 578 | 141 | Mary Lopez Sr. |
 | 579 | 141 | ItsJennifer Neriss |
@@ -638,8 +638,8 @@
 | 630 | 133 | Jess Orosz |
 | 631 | 133 | Britt Woolston |
 | 632 | 133 | candy |
-| 633 | 133 | Epic Stackzone |
-| 634 | 133 | Rae Rae |
+| 633 | 133 | Rae Rae |
+| 634 | 133 | Epic Stackzone |
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Samie Dayle |
 | 637 | 132 | Chilly Rollblock |

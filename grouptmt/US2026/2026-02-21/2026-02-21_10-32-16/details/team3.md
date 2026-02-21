@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Peggi Charon |
 | 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -294,7 +294,7 @@
 | 286 | 82 | Rebecca Funderburk Kirby |
 | 287 | 81 | Tina Baurdau |
 | 288 | 80 | Vixen Queen |
-| 289 | 80 | Josh Borquez |
+| 289 | 80 | Me,Him,Yu |
 | 290 | 80 | Oliver Neal II |
 | 291 | 80 | Josh Borquez |
 | 292 | 79 | Brittany K Ward |
@@ -348,7 +348,7 @@
 | 340 | 73 | punky monkey buttky |
 | 341 | 73 | Loopy Fallmatch |
 | 342 | 73 | Elyse Grabowsky |
-| 343 | 72 | Jodi Kaczynski-O'Dowd |
+| 343 | 72 | Alexsandran Valdivia |
 | 344 | 72 | Gimmegimmebeer |
 | 345 | 72 | Jodi Kaczynski-O'Dowd |
 | 346 | 71 | Goofy Fall |

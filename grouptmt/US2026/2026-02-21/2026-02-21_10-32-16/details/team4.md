@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Mike Solo |
-| 63 | 198 | Lori Walker |
+| 62 | 198 | Lori Walker |
+| 63 | 198 | Mike Solo |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -92,15 +92,15 @@
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
 | 86 | 150 | ZeeZee |
-| 87 | 147 | Jay28 |
-| 88 | 147 | 030Synner |
+| 87 | 147 | 030Synner |
+| 88 | 147 | Jay28 |
 | 89 | 146 | Peachy Fall |
 | 90 | 141 | Malakai Darien Fox |
 | 91 | 140 | Shannon Ferrari |
 | 92 | 138 | Shainne Brewer |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Jessica Bohlken |
-| 95 | 134 | Chirpy Basepiece |
+| 94 | 134 | Chirpy Basepiece |
+| 95 | 134 | Jessica Bohlken |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 132 | Jessica Cagle |
@@ -120,9 +120,9 @@
 | 112 | 123 | Cherrish Duren |
 | 113 | 122 | Sherri |
 | 114 | 121 | Klo |
-| 115 | 121 | Smiley Tiltbuilder |
-| 116 | 121 | Megan Cutshaw |
-| 117 | 121 | Zany Shatterer |
+| 115 | 121 | Zany Shatterer |
+| 116 | 121 | Smiley Tiltbuilder |
+| 117 | 121 | Megan Cutshaw |
 | 118 | 120 | Joshua Guess |
 | 119 | 119 | Kristin Manee |
 | 120 | 118 | Leslie Nicole |
