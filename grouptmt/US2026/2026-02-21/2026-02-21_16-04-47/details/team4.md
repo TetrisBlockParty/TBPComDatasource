@@ -130,8 +130,8 @@
 | 122 | 144 | Mr. Party |
 | 123 | 143 | Nugget |
 | 124 | 141 | Malakai Darien Fox |
-| 125 | 140 | Shannon Ferrari |
-| 126 | 140 | Jenna McGeorge |
+| 125 | 140 | Jenna McGeorge |
+| 126 | 140 | Shannon Ferrari |
 | 127 | 139 | Robin Watters |
 | 128 | 137 | Leslie Nicole |
 | 129 | 137 | PeaceOs |
@@ -173,17 +173,17 @@
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Marcus Todd |
-| 169 | 107 | Rafael Valentin |
+| 168 | 107 | Rafael Valentin |
+| 169 | 107 | Marcus Todd |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | Kristin MacDonald |
 | 172 | 105 | Sam Middleton |
 | 173 | 105 | 🥔🥔 Spudz |
 | 174 | 105 | TheNeesh50 |
 | 175 | 104 | Damn Libra |
-| 176 | 103 | April Rondinone |
-| 177 | 103 | Judy Cox |
-| 178 | 103 | Lauren Lamb |
+| 176 | 103 | Judy Cox |
+| 177 | 103 | Lauren Lamb |
+| 178 | 103 | April Rondinone |
 | 179 | 102 | Autumn Kumzi |
 | 180 | 102 | Faja |
 | 181 | 101 | Saulc1991 |

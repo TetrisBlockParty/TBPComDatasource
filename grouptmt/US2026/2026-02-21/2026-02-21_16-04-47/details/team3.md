@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Duane Bright |
-| 151 | 193 | Clever Shiftsnap |
+| 150 | 193 | Clever Shiftsnap |
+| 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Staci George Fitzsimmons |
@@ -168,8 +168,8 @@
 | 160 | 181 | Aerian Preston |
 | 161 | 181 | Karon Griffin |
 | 162 | 179 | Joye Sims Binion |
-| 163 | 179 | Daira Largen |
-| 164 | 179 | Ashley Jones |
+| 163 | 179 | Ashley Jones |
+| 164 | 179 | Daira Largen |
 | 165 | 178 | Khaleada McGill Banks |
 | 166 | 178 | Ryan Williams |
 | 167 | 178 | AlsoJess |
@@ -192,8 +192,8 @@
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 158 | Grams |
-| 187 | 157 | Nicholas Roddy |
-| 188 | 157 | Patricia Gadsden |
+| 187 | 157 | Patricia Gadsden |
+| 188 | 157 | Nicholas Roddy |
 | 189 | 156 | Bea Miles |
 | 190 | 153 | Beth Ingham |
 | 191 | 153 | Rochelle Hazelett |
@@ -225,8 +225,8 @@
 | 217 | 133 | LaNette Morgan |
 | 218 | 131 | Darlene McMillan |
 | 219 | 131 | Jl |
-| 220 | 128 | Cesar Barraza |
-| 221 | 128 | Jen Lewis |
+| 220 | 128 | Jen Lewis |
+| 221 | 128 | Cesar Barraza |
 | 222 | 128 | David Bardo |
 | 223 | 127 | Jennifer Alvey |
 | 224 | 127 | Marquita Sheard |
@@ -328,7 +328,7 @@
 | 320 | 92 | Trice Thomas |
 | 321 | 92 | Jackie-Lynne Goertzen |
 | 322 | 92 | Melanie Sherwood |
-| 323 | 92 | Trice Thomas |
+| 323 | 92 | Jennifer Caputo |
 | 324 | 91 | Dee Pratt |
 | 325 | 90 | Snazzy Brickzone |
 | 326 | 90 | Flashy Rumbler |

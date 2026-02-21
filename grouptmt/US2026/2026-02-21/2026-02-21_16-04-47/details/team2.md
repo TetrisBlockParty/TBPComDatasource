@@ -79,10 +79,10 @@
 | 71 | 1038 | Denisha Dawkins |
 | 72 | 1013 | Sarah Freitas |
 | 73 | 992 | Samantha Roberts |
-| 74 | 973 | Kim Dean |
-| 75 | 973 | Zappy Cascade |
-| 76 | 962 | Janel Turley-Garner |
-| 77 | 962 | Charie Holland |
+| 74 | 973 | Zappy Cascade |
+| 75 | 973 | Kim Dean |
+| 76 | 962 | Charie Holland |
+| 77 | 962 | Janel Turley-Garner |
 | 78 | 946 | Carrie Trigg |
 | 79 | 928 | Howard Forest |
 | 80 | 916 | Butta |
@@ -150,8 +150,8 @@
 | 142 | 619 | Jamie Otero |
 | 143 | 608 | John Bednarik |
 | 144 | 608 | Sommer Shope |
-| 145 | 604 | Danielle Johnson-Chandler |
-| 146 | 604 | Amber Shoemaker |
+| 145 | 604 | Amber Shoemaker |
+| 146 | 604 | Danielle Johnson-Chandler |
 | 147 | 603 | Cassie Maynard |
 | 148 | 602 | L3sli3 |
 | 149 | 600 | Rosemadder |
@@ -244,8 +244,8 @@
 | 236 | 409 | Sparkles |
 | 237 | 408 | Amanda Ferrell |
 | 238 | 406 | Erin StFrancis |
-| 239 | 405 | Sarah Massey |
-| 240 | 405 | Christy Krissie |
+| 239 | 405 | Christy Krissie |
+| 240 | 405 | Sarah Massey |
 | 241 | 402 | Joshua Mandel |
 | 242 | 400 | Beverly Owens |
 | 243 | 400 | Tammy Allen |
@@ -399,8 +399,8 @@
 | 391 | 273 | Jenna Nance |
 | 392 | 272 | Mikayala Szaz |
 | 393 | 271 | Ann Marie Davis |
-| 394 | 271 | Loony Basepiece |
-| 395 | 271 | Toni Lynn |
+| 394 | 271 | Toni Lynn |
+| 395 | 271 | Loony Basepiece |
 | 396 | 269 | Reece Smith |
 | 397 | 267 | Fi Ne |
 | 398 | 267 | Britt Stunkel |
@@ -457,14 +457,14 @@
 | 449 | 236 | snkylnk |
 | 450 | 236 | Julio A Laracuente |
 | 451 | 235 | Kimberly Mitchell |
-| 452 | 234 | Jennifer Leigh |
-| 453 | 234 | Manny Trindade |
+| 452 | 234 | Manny Trindade |
+| 453 | 234 | Jennifer Leigh |
 | 454 | 234 | Jaybee Nguyen |
 | 455 | 233 | Nutty Matchline |
 | 456 | 233 | Jumpy Gridclear |
 | 457 | 233 | Daring Matchfit |
-| 458 | 232 | Quirky Twistline |
-| 459 | 232 | Amber Brion |
+| 458 | 232 | Amber Brion |
+| 459 | 232 | Quirky Twistline |
 | 460 | 231 | Hong Tang |
 | 461 | 231 | Dylan Thomason |
 | 462 | 231 | Brave Gridpiece |

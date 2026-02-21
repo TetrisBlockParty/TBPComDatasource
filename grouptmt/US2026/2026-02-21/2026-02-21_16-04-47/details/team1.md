@@ -93,10 +93,10 @@
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
-| 88 | 191 | Jazzy Framezone |
-| 89 | 191 | Diane Byrd |
-| 90 | 190 | Thorne Shumate |
-| 91 | 190 | Sweetts |
+| 88 | 191 | Diane Byrd |
+| 89 | 191 | Jazzy Framezone |
+| 90 | 190 | Sweetts |
+| 91 | 190 | Thorne Shumate |
 | 92 | 189 | Happy Basegrid |
 | 93 | 185 | Ash Galvan |
 | 94 | 185 | TSwag |
@@ -151,8 +151,8 @@
 | 143 | 131 | Kimberly Garcia |
 | 144 | 130 | LD1 |
 | 145 | 129 | Dino |
-| 146 | 128 | lil mickey |
-| 147 | 128 | Barry Mac'Ockner |
+| 146 | 128 | Barry Mac'Ockner |
+| 147 | 128 | lil mickey |
 | 148 | 127 | Aimee Horton |
 | 149 | 127 | Brave Wrecker |
 | 150 | 124 | Cartier |
