@@ -68,8 +68,8 @@
 | 60 | 185 | loulou |
 | 61 | 179 | Epic Curvetile |
 | 62 | 175 | Dustee Craddock-Harrison |
-| 63 | 170 | Leah Kutz Zirbel |
-| 64 | 170 | Girl |
+| 63 | 170 | Girl |
+| 64 | 170 | Leah Kutz Zirbel |
 | 65 | 167 | Denise Carlson |
 | 66 | 166 | shar |
 | 67 | 165 | Casey Grabner |
@@ -88,13 +88,13 @@
 | 80 | 141 | Malakai Darien Fox |
 | 81 | 140 | Shannon Ferrari |
 | 82 | 136 | Tanner Lund |
-| 83 | 134 | Jessica Bohlken |
-| 84 | 134 | Chirpy Basepiece |
+| 83 | 134 | Chirpy Basepiece |
+| 84 | 134 | Jessica Bohlken |
 | 85 | 133 | Robin Watters |
-| 86 | 132 | Degenerate |
-| 87 | 132 | Jenna McGeorge |
-| 88 | 132 | Melissa Priest Sellers |
-| 89 | 132 | Jessica Cagle |
+| 86 | 132 | Melissa Priest Sellers |
+| 87 | 132 | Jessica Cagle |
+| 88 | 132 | Jenna McGeorge |
+| 89 | 132 | Degenerate |
 | 90 | 131 | Mr. Party |
 | 91 | 131 | Zany Twisterfit |
 | 92 | 131 | Dana Scott |
@@ -194,8 +194,8 @@
 | 186 | 77 | Zippy Gridlock |
 | 187 | 76 | Bethany Ison |
 | 188 | 76 | Madison Sweere |
-| 189 | 75 | Rosemary Foster |
-| 190 | 75 | Christina Black |
+| 189 | 75 | Christina Black |
+| 190 | 75 | Rosemary Foster |
 | 191 | 74 | Krs |
 | 192 | 73 | bloat princess |
 | 193 | 73 | April Rondinone |
@@ -289,8 +289,8 @@
 | 281 | 52 | Chassidy Martin |
 | 282 | 51 | George Nutt |
 | 283 | 51 | Frank Cook |
-| 284 | 50 | Kelly Duncan |
-| 285 | 50 | Elie Pean |
+| 284 | 50 | Elie Pean |
+| 285 | 50 | Kelly Duncan |
 | 286 | 50 | Christian Torres |
 | 287 | 50 | Mike |
 | 288 | 50 | Smiley Linkgrid |

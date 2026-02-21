@@ -65,8 +65,8 @@
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
-| 60 | 191 | Jazzy Framezone |
-| 61 | 191 | Giggly Builderline |
+| 60 | 191 | Giggly Builderline |
+| 61 | 191 | Jazzy Framezone |
 | 62 | 190 | Sweetts |
 | 63 | 190 | Thorne Shumate |
 | 64 | 189 | Happy Basegrid |

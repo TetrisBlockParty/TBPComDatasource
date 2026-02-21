@@ -140,18 +140,18 @@
 | 132 | 155 | BŘŰŤİÇŨŚ |
 | 133 | 155 | Mcathen |
 | 134 | 154 | Angela M. Fletcher |
-| 135 | 153 | Beth Ingham |
-| 136 | 153 | Giddy Twistbuilder |
-| 137 | 152 | Karon Griffin |
-| 138 | 152 | Shiny Zonebuilder |
+| 135 | 153 | Giddy Twistbuilder |
+| 136 | 153 | Beth Ingham |
+| 137 | 152 | Shiny Zonebuilder |
+| 138 | 152 | Karon Griffin |
 | 139 | 151 | MsBee |
 | 140 | 150 | Nicole Myers |
 | 141 | 149 | Angel Mendez |
 | 142 | 149 | Trisha Balmer |
 | 143 | 149 | Bea Miles |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Latoya Mayne |
-| 146 | 146 | Denita Mungro |
+| 145 | 146 | Denita Mungro |
+| 146 | 146 | Latoya Mayne |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Gumbo |
 | 149 | 140 | Jay Horn |
