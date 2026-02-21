@@ -145,10 +145,10 @@
 | 137 | 780 | Amanda Grohmann |
 | 138 | 775 | YiFei |
 | 139 | 772 | Megan Ferguson Leone |
-| 140 | 771 | Missie Lawson Gebhardt |
-| 141 | 771 | Terri McKelvey McKinley |
-| 142 | 763 | Ladyrainbootz |
-| 143 | 763 | Samantha Jo |
+| 140 | 771 | Terri McKelvey McKinley |
+| 141 | 771 | Missie Lawson Gebhardt |
+| 142 | 763 | Samantha Jo |
+| 143 | 763 | Ladyrainbootz |
 | 144 | 756 | Stephanie Neuburger |
 | 145 | 751 | Loony Snapper |
 | 146 | 750 | Jumpy Gridpiece |
@@ -419,10 +419,10 @@
 | 411 | 338 | Shorty |
 | 412 | 337 | Sassy Pattern |
 | 413 | 335 | Brooke Leigh Strube |
-| 414 | 334 | Peppy Snapfall |
-| 415 | 334 | Brittney Jean |
-| 416 | 333 | Tra Barnum |
-| 417 | 333 | Offonar Facey |
+| 414 | 334 | Brittney Jean |
+| 415 | 334 | Peppy Snapfall |
+| 416 | 333 | Offonar Facey |
+| 417 | 333 | Tra Barnum |
 | 418 | 333 | LordZophar |
 | 419 | 332 | Nicole Cannon |
 | 420 | 331 | Kia Humphery |
@@ -513,8 +513,8 @@
 | 505 | 280 | Belle |
 | 506 | 279 | Glitzy Stackzone |
 | 507 | 278 | Niceday |
-| 508 | 278 | Ray Ray Prado |
-| 509 | 278 | Demeka Dangerous-kisses Johnson |
+| 508 | 278 | Demeka Dangerous-kisses Johnson |
+| 509 | 278 | Ray Ray Prado |
 | 510 | 277 | Anthony Mignacca |
 | 511 | 277 | NickyBrooks |
 | 512 | 277 | August Hale |
@@ -566,7 +566,7 @@
 | 558 | 250 | Mike73 |
 | 559 | 250 | Kristi Biddinger |
 | 560 | 250 | sup |
-| 561 | 250 | Kristi Biddinger |
+| 561 | 250 | LeVeL27 |
 | 562 | 249 | Nicky Jackson |
 | 563 | 249 | Porsche' Nicole |
 | 564 | 248 | James Smith |
@@ -596,8 +596,8 @@
 | 588 | 239 | Angelina Marie |
 | 589 | 239 | Dad |
 | 590 | 238 | Manny Trindade |
-| 591 | 237 | Kiorah Blaze |
-| 592 | 237 | Heather Piotrowski |
+| 591 | 237 | Heather Piotrowski |
+| 592 | 237 | Kiorah Blaze |
 | 593 | 237 | Ben Barkley |
 | 594 | 237 | Breezy Tilt |
 | 595 | 236 | Angela Yantz |
@@ -618,8 +618,8 @@
 | 610 | 230 | Leslie Johnson Guinto |
 | 611 | 229 | Deidre Jenkins |
 | 612 | 229 | Heather Anspaugh |
-| 613 | 228 | Samantha Angelo |
-| 614 | 228 | Amanda Canterbury |
+| 613 | 228 | Amanda Canterbury |
+| 614 | 228 | Samantha Angelo |
 | 615 | 227 | Sho Nuff |
 | 616 | 226 | Jodi Mitnick |
 | 617 | 226 | Cassie Newton |
@@ -638,8 +638,8 @@
 | 630 | 223 | BK Queen |
 | 631 | 222 | Lazy Riseclear |
 | 632 | 221 | Michelle Lee |
-| 633 | 220 | Katrina Weston |
-| 634 | 220 | Jennifer Coe |
+| 633 | 220 | Jennifer Coe |
+| 634 | 220 | Katrina Weston |
 | 635 | 220 | Brenna Ann |
 | 636 | 219 | Trista Carter |
 | 637 | 219 | Cathy Bitters |
@@ -818,8 +818,8 @@
 | 810 | 170 | Kenya Felix |
 | 811 | 170 | AndrewandShela Gornik |
 | 812 | 170 | Fae-Bulous |
-| 813 | 169 | Angela Murgia-Owen |
-| 814 | 169 | Frothy Shatter |
+| 813 | 169 | Frothy Shatter |
+| 814 | 169 | Angela Murgia-Owen |
 | 815 | 169 | Greenshades00 |
 | 816 | 169 | Fancy Glidezone |
 | 817 | 168 | Jay Dreamer-x Shelly |
@@ -852,8 +852,8 @@
 | 844 | 164 | Kyle LeRoy Harris |
 | 845 | 163 | Tiffney Wroten |
 | 846 | 163 | Jacob Huffman |
-| 847 | 163 | Mandi Marie Smith |
-| 848 | 163 | Jackson Smith |
+| 847 | 163 | Christina Jones |
+| 848 | 163 | Mandi Marie Smith |
 | 849 | 163 | Latrenya Paynes |
 | 850 | 163 | Epic Fitzone |
 | 851 | 163 | Jackson Smith |
@@ -916,8 +916,8 @@
 | 908 | 153 | Squirrel |
 | 909 | 153 | Ryan Kluck |
 | 910 | 152 | JP Parks |
-| 911 | 152 | Kristin King |
-| 912 | 152 | Alicia Sloan |
+| 911 | 152 | Alicia Sloan |
+| 912 | 152 | Kristin King |
 | 913 | 151 | Britney Volz |
 | 914 | 151 | Arlet Alba |
 | 915 | 151 | Lively Piecebuilder |

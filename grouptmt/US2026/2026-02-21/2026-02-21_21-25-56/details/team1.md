@@ -182,8 +182,8 @@
 | 174 | 138 | Cranky Pattern |
 | 175 | 138 | Death |
 | 176 | 137 | Cody Gates |
-| 177 | 136 | Breanna Luna |
-| 178 | 136 | Dino |
+| 177 | 136 | Dino |
+| 178 | 136 | Breanna Luna |
 | 179 | 135 | Guest |
 | 180 | 135 | Giddy Cascade |
 | 181 | 134 | Witty Builderfit |

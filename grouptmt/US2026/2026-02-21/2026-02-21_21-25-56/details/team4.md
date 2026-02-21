@@ -129,12 +129,12 @@
 | 121 | 185 | Andy Cabral |
 | 122 | 184 | Justin Hannigan |
 | 123 | 181 | Savannah Overdorf |
-| 124 | 181 | Andria Lynn |
-| 125 | 181 | Carter Jones |
+| 124 | 181 | Carter Jones |
+| 125 | 181 | Andria Lynn |
 | 126 | 180 | Leah Kutz Zirbel |
 | 127 | 178 | Lori |
-| 128 | 176 | Klo |
-| 129 | 176 | Stacey Stano |
+| 128 | 176 | Stacey Stano |
+| 129 | 176 | Klo |
 | 130 | 174 | shark tato |
 | 131 | 174 | Zethra Prenisha Rahming |
 | 132 | 174 | Dihcheese444 |
@@ -164,8 +164,8 @@
 | 156 | 141 | ĥuf |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | Shannon Ferrari |
-| 160 | 140 | John Brunetti |
+| 159 | 140 | John Brunetti |
+| 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Tanner Lund |
 | 163 | 136 | Serena Goodridge |

@@ -108,8 +108,8 @@
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Tasha Schriewer |
-| 104 | 378 | Makelini Mausia |
+| 103 | 378 | Makelini Mausia |
+| 104 | 378 | Tasha Schriewer |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Woods |
