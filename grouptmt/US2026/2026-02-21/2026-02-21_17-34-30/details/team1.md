@@ -76,8 +76,8 @@
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
-| 71 | 237 | Timothy Dew |
-| 72 | 237 | Elaine Elaine |
+| 71 | 237 | Elaine Elaine |
+| 72 | 237 | Timothy Dew |
 | 73 | 235 | Dee Perry |
 | 74 | 232 | John J. Cronin |
 | 75 | 228 | Trippy Redd |
@@ -101,8 +101,8 @@
 | 93 | 193 | Lachelle Dillon |
 | 94 | 192 | Shaykmia |
 | 95 | 191 | Diane Byrd |
-| 96 | 190 | Sweetts |
-| 97 | 190 | Thorne Shumate |
+| 96 | 190 | Thorne Shumate |
+| 97 | 190 | Sweetts |
 | 98 | 189 | Happy Basegrid |
 | 99 | 186 | Jennifer Olewnik Soborowski |
 | 100 | 185 | Ash Galvan |
@@ -118,8 +118,8 @@
 | 110 | 171 | Greg Premoe |
 | 111 | 169 | Abbey Crespo |
 | 112 | 168 | Standia Civil |
-| 113 | 166 | Rico Rico |
-| 114 | 166 | Tana |
+| 113 | 166 | Tana |
+| 114 | 166 | Rico Rico |
 | 115 | 165 | Veronica Eve |
 | 116 | 163 | Kellie |
 | 117 | 163 | Tyler Whitley |
@@ -222,8 +222,8 @@
 | 214 | 100 | Jessica Weed |
 | 215 | 99 | Barrbaric |
 | 216 | 97 | Steve Bomkamp |
-| 217 | 96 | Howdi Duty |
-| 218 | 96 | MommaKFC |
+| 217 | 96 | MommaKFC |
+| 218 | 96 | Howdi Duty |
 | 219 | 94 | Sleepysloath5745 |
 | 220 | 94 | Brad MG |
 | 221 | 90 | Grace Joanne Agnant |

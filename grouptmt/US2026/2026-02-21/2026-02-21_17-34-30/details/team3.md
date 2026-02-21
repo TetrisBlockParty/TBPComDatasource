@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 727 | Danielle Cutler |
 | 42 | 702 | Stephanie Allmon |
@@ -116,8 +116,8 @@
 | 108 | 316 | Fancy Cascader |
 | 109 | 309 | Rich LeBlanc |
 | 110 | 309 | CeceGeGe |
-| 111 | 307 | Peggi Charon |
-| 112 | 307 | Blocked |
+| 111 | 307 | Blocked |
+| 112 | 307 | Peggi Charon |
 | 113 | 300 | Sherika C. McDaniels |
 | 114 | 300 | Tessina Dewey-Mancino |
 | 115 | 293 | Poppy Splitter |
@@ -153,9 +153,9 @@
 | 145 | 212 | Krystal Gerstberger |
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
-| 148 | 207 | Jessica |
+| 148 | 207 | Chris Bell |
 | 149 | 207 | rnr junky |
-| 150 | 207 | Chris Bell |
+| 150 | 207 | Jessica |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 201 | Rochelle Hazelett |
@@ -166,8 +166,8 @@
 | 158 | 193 | Duane Bright |
 | 159 | 191 | Scott Carleton |
 | 160 | 191 | Giddy Twistbuilder |
-| 161 | 189 | Sissy Lowery Davis |
-| 162 | 189 | Staci George Fitzsimmons |
+| 161 | 189 | Staci George Fitzsimmons |
+| 162 | 189 | Sissy Lowery Davis |
 | 163 | 189 | Fallorina Susana |
 | 164 | 188 | Angie Harper |
 | 165 | 186 | Khaleada McGill Banks |
@@ -338,8 +338,8 @@
 | 330 | 96 | Oliver Neal II |
 | 331 | 96 | D3NO |
 | 332 | 95 | Brooke Bauer |
-| 333 | 94 | Tracey Cox |
-| 334 | 94 | Nichole Greene |
+| 333 | 94 | Nichole Greene |
+| 334 | 94 | Tracey Cox |
 | 335 | 93 | Tiffany Ford |
 | 336 | 93 | Martin Bernier |
 | 337 | 93 | Kevin Russell |
@@ -572,16 +572,16 @@
 | 564 | 60 | Cyd061769 |
 | 565 | 59 | Tessa Bts |
 | 566 | 59 | Melissa Ponder |
-| 567 | 59 | Tessa Bts |
+| 567 | 59 | Nyla |
 | 568 | 59 | Bastian Campbell |
-| 569 | 59 | Carrie Wheetley |
-| 570 | 59 | kacihall |
+| 569 | 59 | kacihall |
+| 570 | 59 | Carrie Wheetley |
 | 571 | 58 | Erzulie |
 | 572 | 58 | Chelsea Hall |
 | 573 | 58 | Frisky Fitblock |
 | 574 | 58 | Monnie Parra |
-| 575 | 58 | Michelle Allers |
-| 576 | 58 | GoddessCandy |
+| 575 | 58 | GoddessCandy |
+| 576 | 58 | Michelle Allers |
 | 577 | 58 | David Kozen |
 | 578 | 57 | Daring Brickzone |
 | 579 | 57 | luluraine |

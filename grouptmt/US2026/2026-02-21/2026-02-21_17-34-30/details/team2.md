@@ -150,8 +150,8 @@
 | 142 | 659 | Poldo Ilano |
 | 143 | 658 | Pacynthia Williams |
 | 144 | 651 | Unica Rector |
-| 145 | 650 | Shiny Rollzone |
-| 146 | 650 | Claire Noland |
+| 145 | 650 | Claire Noland |
+| 146 | 650 | Shiny Rollzone |
 | 147 | 641 | Ricardo Burton |
 | 148 | 632 | Beth |
 | 149 | 631 | Peppy Zone |

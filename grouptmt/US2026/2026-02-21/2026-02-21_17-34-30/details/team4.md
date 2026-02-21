@@ -105,8 +105,8 @@
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leah Kutz Zirbel |
-| 101 | 180 | Leslie Nicole |
+| 100 | 180 | Leslie Nicole |
+| 101 | 180 | Leah Kutz Zirbel |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -114,8 +114,8 @@
 | 106 | 174 | Zethra Prenisha Rahming |
 | 107 | 173 | Ren Mc |
 | 108 | 173 | blockstar |
-| 109 | 170 | Girl |
-| 110 | 170 | Peachy Fall |
+| 109 | 170 | Peachy Fall |
+| 110 | 170 | Girl |
 | 111 | 167 | Denise Carlson |
 | 112 | 164 | ThaEviLJeNiuZ |
 | 113 | 160 | Stacey Stano |
@@ -134,11 +134,11 @@
 | 126 | 147 | Nugget |
 | 127 | 147 | Jay28 |
 | 128 | 146 | Klo |
-| 129 | 144 | Mr. Party |
-| 130 | 144 | Shainne Brewer |
+| 129 | 144 | Shainne Brewer |
+| 130 | 144 | Mr. Party |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Jenna McGeorge |
-| 133 | 140 | Shannon Ferrari |
+| 132 | 140 | Shannon Ferrari |
+| 133 | 140 | Jenna McGeorge |
 | 134 | 137 | PeaceOs |
 | 135 | 137 | Roger Coulter |
 | 136 | 136 | Tanner Lund |
@@ -156,8 +156,8 @@
 | 148 | 128 | Rio Rocha |
 | 149 | 128 | Stephme310 |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | Dihcheese444 |
-| 152 | 126 | TinyLegoRose |
+| 151 | 126 | TinyLegoRose |
+| 152 | 126 | Dihcheese444 |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
@@ -176,15 +176,15 @@
 | 168 | 114 | Jackie Marie |
 | 169 | 113 | Adam Randall |
 | 170 | 112 | Austin Owens |
-| 171 | 112 | Bryan Hodgins |
-| 172 | 112 | Jeremy Steines |
+| 171 | 112 | Jeremy Steines |
+| 172 | 112 | Bryan Hodgins |
 | 173 | 112 | Zesty Twistbuilder |
 | 174 | 111 | Lazy Blocker |
 | 175 | 111 | Michelle Morris |
 | 176 | 110 | H.R. Block |
 | 177 | 108 | Ali Ian |
-| 178 | 107 | Rafael Valentin |
-| 179 | 107 | Marcus Todd |
+| 178 | 107 | Marcus Todd |
+| 179 | 107 | Rafael Valentin |
 | 180 | 106 | Avy Absol |
 | 181 | 105 | Dandy Cascadefit |
 | 182 | 105 | TheNeesh50 |
