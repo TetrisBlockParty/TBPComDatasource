@@ -84,8 +84,8 @@
 | 76 | 124 | Trina Gee |
 | 77 | 120 | Blaire Bruckoff |
 | 78 | 119 | Irual Hctrab |
-| 79 | 116 | Kristen Roles Robben |
-| 80 | 116 | Jacqueline Unique |
+| 79 | 116 | Jacqueline Unique |
+| 80 | 116 | Kristen Roles Robben |
 | 81 | 115 | comrade fish |
 | 82 | 114 | Giddy Cascade |
 | 83 | 114 | Colleen Wise |

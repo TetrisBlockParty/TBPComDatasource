@@ -396,16 +396,16 @@
 | 388 | 149 | Leslie Porter |
 | 389 | 149 | Boldy Cascadepiece |
 | 390 | 148 | Shannon Byrd |
-| 391 | 146 | Sherry Aguinaga |
-| 392 | 146 | Angie Bolton Workman |
+| 391 | 146 | Angie Bolton Workman |
+| 392 | 146 | Sherry Aguinaga |
 | 393 | 146 | JacJac |
 | 394 | 145 | Catina Hutchison |
 | 395 | 145 | William Hughes |
 | 396 | 145 | Scott Rackley |
 | 397 | 144 | Tee Davis |
 | 398 | 144 | Bette Prieto |
-| 399 | 144 | Alexis Richardson |
-| 400 | 144 | Kyle LeRoy Harris |
+| 399 | 144 | Kyle LeRoy Harris |
+| 400 | 144 | Alexis Richardson |
 | 401 | 143 | Angelica |
 | 402 | 142 | Frisky Clearpiece |
 | 403 | 142 | Joy LaJeunesse |
