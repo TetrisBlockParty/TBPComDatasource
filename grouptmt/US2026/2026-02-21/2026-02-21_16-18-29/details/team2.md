@@ -169,8 +169,8 @@
 | 161 | 580 | Steve Grotto |
 | 162 | 576 | Shannon Joslin |
 | 163 | 571 | Thomas Hedrick |
-| 164 | 569 | Gary Stash |
-| 165 | 569 | Vaniel Glover |
+| 164 | 569 | Vaniel Glover |
+| 165 | 569 | Gary Stash |
 | 166 | 563 | goofinoff |
 | 167 | 561 | Maria Escobar |
 | 168 | 550 | Jumpy Gridpiece |
@@ -331,13 +331,13 @@
 | 323 | 323 | KhaosLord |
 | 324 | 322 | Brandy Andre |
 | 325 | 320 | Cynthia Ward |
-| 326 | 318 | Alexandra Weir |
-| 327 | 318 | CC |
+| 326 | 318 | CC |
+| 327 | 318 | Alexandra Weir |
 | 328 | 317 | Ebony Deloach Bryant |
 | 329 | 317 | Heather Westrum |
-| 330 | 317 | Zombi3 |
-| 331 | 317 | Bussyiano Page |
-| 332 | 317 | bru |
+| 330 | 317 | Bussyiano Page |
+| 331 | 317 | bru |
+| 332 | 317 | Zombi3 |
 | 333 | 316 | Oscar Bernie |
 | 334 | 315 | Alisa Lamb |
 | 335 | 314 | Amanda West |
@@ -359,9 +359,9 @@
 | 351 | 299 | Diallo Sparkman |
 | 352 | 297 | Peachy Blockbuilder |
 | 353 | 297 | Cheeky Brickmatch |
-| 354 | 296 | Jennifer Casey-Kay |
-| 355 | 296 | Heather Schelkopf |
-| 356 | 296 | Amber Gray |
+| 354 | 296 | Heather Schelkopf |
+| 355 | 296 | Amber Gray |
+| 356 | 296 | Jennifer Casey-Kay |
 | 357 | 296 | AISlop |
 | 358 | 296 | Jennifer Darby |
 | 359 | 295 | Melissa Kay Gibson |
@@ -601,8 +601,8 @@
 | 593 | 178 | Cathy Bitters |
 | 594 | 178 | Mike73 |
 | 595 | 178 | Michelle Shrum |
-| 596 | 177 | Angel |
-| 597 | 177 | Facuetoo |
+| 596 | 177 | Facuetoo |
+| 597 | 177 | Angel |
 | 598 | 177 | Ryan Meilleur |
 | 599 | 177 | John |
 | 600 | 176 | Dandy Drop |

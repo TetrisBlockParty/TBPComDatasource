@@ -104,8 +104,8 @@
 | 96 | 185 | Ash Galvan |
 | 97 | 180 | Erez Yosef |
 | 98 | 179 | Spunky Piecebuilder |
-| 99 | 178 | Danielle Little-Daugherty |
-| 100 | 178 | Chad Atchley |
+| 99 | 178 | Chad Atchley |
+| 100 | 178 | Danielle Little-Daugherty |
 | 101 | 173 | june october |
 | 102 | 173 | Frothy Pattern |
 | 103 | 171 | Greg Premoe |

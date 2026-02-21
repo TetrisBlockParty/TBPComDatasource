@@ -61,8 +61,8 @@
 | 53 | 328 | Landon Keith Graffeo |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Casey Grabner |
-| 78 | 211 | Dizzy Tiley |
+| 77 | 211 | Dizzy Tiley |
+| 78 | 211 | Casey Grabner |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -157,11 +157,11 @@
 | 149 | 122 | Carlos Ramirez |
 | 150 | 122 | Sherri |
 | 151 | 121 | Smiley Tiltbuilder |
-| 152 | 121 | Megan Cutshaw |
-| 153 | 121 | Zany Shatterer |
+| 152 | 121 | Zany Shatterer |
+| 153 | 121 | Megan Cutshaw |
 | 154 | 120 | Joshua Guess |
-| 155 | 119 | Kristin Manee |
-| 156 | 119 | Gwendolyn Pitcairn |
+| 155 | 119 | Gwendolyn Pitcairn |
+| 156 | 119 | Kristin Manee |
 | 157 | 116 | Diana Houts |
 | 158 | 115 | Jayk |
 | 159 | 115 | Ultramarine |
@@ -191,7 +191,7 @@
 | 183 | 101 | Saulc1991 |
 | 184 | 101 | Zesty Linkgrid |
 | 185 | 101 | Chaz |
-| 186 | 101 | Saulc1991 |
+| 186 | 101 | mike |
 | 187 | 100 | Alexandra Karavias |
 | 188 | 99 | Anthony Bryan Riva |
 | 189 | 99 | Michael Orris |

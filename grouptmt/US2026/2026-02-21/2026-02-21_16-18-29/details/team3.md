@@ -182,8 +182,8 @@
 | 174 | 168 | rosy |
 | 175 | 167 | Raven Dudley |
 | 176 | 166 | Loopy Fallmatch |
-| 177 | 166 | Kelly Ann Child |
-| 178 | 166 | Betty Rosas |
+| 177 | 166 | Betty Rosas |
+| 178 | 166 | Kelly Ann Child |
 | 179 | 165 | Kali Kelz Williams |
 | 180 | 163 | Stephanie Hill |
 | 181 | 163 | Sashay Tapae Simpson |
@@ -200,15 +200,15 @@
 | 192 | 152 | Shiny Zonebuilder |
 | 193 | 152 | Katrina E Jelks |
 | 194 | 152 | Cozy Snaplink |
-| 195 | 151 | Brenda Lee Vander Molen |
-| 196 | 151 | MsBee |
-| 197 | 151 | Connie Mohler-Fair |
-| 198 | 151 | Loopy Fallzone |
+| 195 | 151 | MsBee |
+| 196 | 151 | Brenda Lee Vander Molen |
+| 197 | 151 | Loopy Fallzone |
+| 198 | 151 | Connie Mohler-Fair |
 | 199 | 150 | Valerie Gendron |
 | 200 | 150 | Nicole Myers |
 | 201 | 149 | Desiree Gold |
-| 202 | 149 | Angel Mendez |
-| 203 | 149 | Alexis Taylor |
+| 202 | 149 | Alexis Taylor |
+| 203 | 149 | Angel Mendez |
 | 204 | 148 | Lesley Perez |
 | 205 | 146 | Latoya Mayne |
 | 206 | 146 | Carrie Huskey |
