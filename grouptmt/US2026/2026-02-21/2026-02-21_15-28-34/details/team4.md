@@ -93,16 +93,16 @@
 | 85 | 191 | loulou |
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
-| 88 | 185 | Andy Cabral |
-| 89 | 185 | shar |
+| 88 | 185 | shar |
+| 89 | 185 | Andy Cabral |
 | 90 | 181 | Carter Jones |
 | 91 | 180 | Leah Kutz Zirbel |
 | 92 | 179 | Epic Curvetile |
 | 93 | 178 | Lori |
 | 94 | 177 | Andria Lynn |
 | 95 | 174 | Zethra Prenisha Rahming |
-| 96 | 173 | Justin Hannigan |
-| 97 | 173 | Jeff Brian Gates |
+| 96 | 173 | Jeff Brian Gates |
+| 97 | 173 | Justin Hannigan |
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 167 | Denise Carlson |
@@ -180,9 +180,9 @@
 | 172 | 105 | Kristin MacDonald |
 | 173 | 105 | 🥔🥔 Spudz |
 | 174 | 104 | Damn Libra |
-| 175 | 103 | Lauren Lamb |
-| 176 | 103 | Judy Cox |
-| 177 | 103 | April Rondinone |
+| 175 | 103 | April Rondinone |
+| 176 | 103 | Lauren Lamb |
+| 177 | 103 | Judy Cox |
 | 178 | 102 | Faja |
 | 179 | 102 | Autumn Kumzi |
 | 180 | 101 | Zesty Linkgrid |

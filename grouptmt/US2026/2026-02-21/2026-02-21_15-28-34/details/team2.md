@@ -598,9 +598,9 @@
 | 590 | 170 | Kenya Felix |
 | 591 | 170 | Sharon Crawford |
 | 592 | 170 | BTA |
-| 593 | 170 | Sherisse Bigelow-Staples |
+| 593 | 170 | Lakeela Wise |
 | 594 | 170 | Dedra Steward |
-| 595 | 170 | Lakeela Wise |
+| 595 | 170 | Sherisse Bigelow-Staples |
 | 596 | 169 | Sassy Linkroll |
 | 597 | 169 | Eddie Perez |
 | 598 | 169 | Greenshades00 |
@@ -612,8 +612,8 @@
 | 604 | 167 | Sabrena Yeisley |
 | 605 | 166 | Rhonda Petro |
 | 606 | 166 | suuny |
-| 607 | 165 | Fae-Bulous |
-| 608 | 165 | Austin Wilson |
+| 607 | 165 | Austin Wilson |
+| 608 | 165 | Fae-Bulous |
 | 609 | 165 | Catherine Varea |
 | 610 | 164 | Jessica Vega |
 | 611 | 164 | Sara Pennington |
@@ -625,7 +625,7 @@
 | 617 | 162 | Angela Murgia-Owen |
 | 618 | 162 | Chirpy Snapper |
 | 619 | 162 | LC Hamilton |
-| 620 | 161 | Swanky Columnbuilder |
+| 620 | 161 | Perry Hubert |
 | 621 | 161 | Crystal Herndon |
 | 622 | 161 | Swanky Columnbuilder |
 | 623 | 160 | Poppy Gridder |

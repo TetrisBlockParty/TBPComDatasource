@@ -215,8 +215,8 @@
 | 207 | 88 | DoodleBug |
 | 208 | 88 | Larry Tilton |
 | 209 | 88 | Sam Williams |
-| 210 | 87 | Jenny Gingrich Fuentes |
-| 211 | 87 | Jessi Sauer |
+| 210 | 87 | Jessi Sauer |
+| 211 | 87 | Jenny Gingrich Fuentes |
 | 212 | 86 | Basment Living |
 | 213 | 85 | John Barron |
 | 214 | 84 | Cheeky Pop |

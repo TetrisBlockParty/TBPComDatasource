@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 764 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -198,8 +198,8 @@
 | 190 | 152 | Shiny Zonebuilder |
 | 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Alexis Taylor |
 | 197 | 149 | Angel Mendez |
@@ -231,8 +231,8 @@
 | 223 | 125 | Felicia Doxey |
 | 224 | 125 | Shimika Enay Wallace |
 | 225 | 124 | Marci Mize Fandrich |
-| 226 | 124 | Funky Jumper |
-| 227 | 124 | Danielle Allison |
+| 226 | 124 | Danielle Allison |
+| 227 | 124 | Funky Jumper |
 | 228 | 123 | Michael Latasha Gray |
 | 229 | 122 | Giggly Brickroll |
 | 230 | 122 | Juliana Dottore |
@@ -257,8 +257,8 @@
 | 249 | 113 | Beppy |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Tye Stovall |
-| 253 | 110 | Danielle Weikel |
+| 252 | 110 | Danielle Weikel |
+| 253 | 110 | Tye Stovall |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | Diana Ibarra |
