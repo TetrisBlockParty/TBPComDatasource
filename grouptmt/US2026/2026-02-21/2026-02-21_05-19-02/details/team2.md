@@ -83,9 +83,9 @@
 | 75 | 672 | Wendy Harder Gage |
 | 76 | 665 | Dineisha Carpenter |
 | 77 | 659 | Janel Turley-Garner |
-| 78 | 658 | Vistabrat |
+| 78 | 658 | Pacynthia Williams |
 | 79 | 658 | Dreamy Blast |
-| 80 | 658 | Pacynthia Williams |
+| 80 | 658 | Vistabrat |
 | 81 | 653 | Becky Weeks-Garry |
 | 82 | 649 | Stephanie Chapman |
 | 83 | 649 | Anna Edwards |
@@ -235,8 +235,8 @@
 | 227 | 271 | Lonne Emade |
 | 228 | 271 | Toni Lynn |
 | 229 | 270 | Alexandra Weir |
-| 230 | 268 | Chummy Blockbuilder |
-| 231 | 268 | Vanessa Moreno |
+| 230 | 268 | Vanessa Moreno |
+| 231 | 268 | Chummy Blockbuilder |
 | 232 | 268 | Elisheva Mizrachi |
 | 233 | 267 | Mindy Leigh Head |
 | 234 | 266 | Autumn Schaeffer |
@@ -652,7 +652,7 @@
 | 644 | 103 | Heisenberg |
 | 645 | 103 | Speedy Shatterfit |
 | 646 | 103 | Andrew Willis |
-| 647 | 102 | Justin Morris |
+| 647 | 102 | Alisa Donald |
 | 648 | 102 | Narutofreak13 |
 | 649 | 102 | Jennifer Heaney |
 | 650 | 102 | Justin Morris |

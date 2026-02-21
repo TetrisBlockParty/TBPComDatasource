@@ -52,12 +52,12 @@
 | 44 | 201 | Anaid Sanchez |
 | 45 | 201 | Ananda Mendez |
 | 46 | 200 | Lexuriuos Lifestlye |
-| 47 | 198 | Billie Dawn Sparks |
-| 48 | 198 | Happy Snapbuild |
+| 47 | 198 | Happy Snapbuild |
+| 48 | 198 | Billie Dawn Sparks |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
-| 51 | 191 | Giggly Builderline |
-| 52 | 191 | Jazzy Framezone |
+| 51 | 191 | Jazzy Framezone |
+| 52 | 191 | Giggly Builderline |
 | 53 | 190 | Sweetts |
 | 54 | 190 | Thorne Shumate |
 | 55 | 189 | Happy Basegrid |
@@ -68,8 +68,8 @@
 | 60 | 169 | Erez Yosef |
 | 61 | 163 | Chad Atchley |
 | 62 | 161 | Abbey Crespo |
-| 63 | 155 | David DeSantis |
-| 64 | 155 | Standia Civil |
+| 63 | 155 | Standia Civil |
+| 64 | 155 | David DeSantis |
 | 65 | 153 | Shiny Gridmatch |
 | 66 | 152 | Jacqueline Unique |
 | 67 | 150 | Rico Rico |

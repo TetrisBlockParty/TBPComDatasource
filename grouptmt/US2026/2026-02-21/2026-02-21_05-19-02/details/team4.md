@@ -54,8 +54,8 @@
 | 46 | 194 | Jamie Mann-Deichmann |
 | 47 | 185 | loulou |
 | 48 | 179 | Epic Curvetile |
-| 49 | 170 | Girl |
-| 50 | 170 | Leah Kutz Zirbel |
+| 49 | 170 | Leah Kutz Zirbel |
+| 50 | 170 | Girl |
 | 51 | 168 | Anthony Magaraci |
 | 52 | 165 | Casey Grabner |
 | 53 | 165 | Courtney Cicoria |

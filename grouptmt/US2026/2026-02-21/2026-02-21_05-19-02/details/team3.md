@@ -105,8 +105,8 @@
 | 97 | 187 | Speedy Bridger |
 | 98 | 184 | Jennie Beranek |
 | 99 | 182 | Ashley Tookes |
-| 100 | 180 | Fallorina Susana |
-| 101 | 180 | Tessina Dewey-Mancino |
+| 100 | 180 | Tessina Dewey-Mancino |
+| 101 | 180 | Fallorina Susana |
 | 102 | 179 | Daira Largen |
 | 103 | 178 | Khaleada McGill Banks |
 | 104 | 175 | Jenny Hrndz |
@@ -114,12 +114,12 @@
 | 106 | 170 | Hyper Matchzone |
 | 107 | 166 | Danielle Mogg |
 | 108 | 164 | rosy |
-| 109 | 159 | Morgan Martinez |
-| 110 | 159 | Jone |
+| 109 | 159 | Jone |
+| 110 | 159 | Morgan Martinez |
 | 111 | 158 | Grams |
 | 112 | 156 | Joey Banks |
-| 113 | 155 | Shannon Matthew Byers |
-| 114 | 155 | BŘŰŤİÇŨŚ |
+| 113 | 155 | BŘŰŤİÇŨŚ |
+| 114 | 155 | Shannon Matthew Byers |
 | 115 | 154 | Angela M. Fletcher |
 | 116 | 153 | Beth Ingham |
 | 117 | 152 | Shiny Zonebuilder |
@@ -156,8 +156,8 @@
 | 148 | 121 | Danielle Allison |
 | 149 | 120 | Jessica |
 | 150 | 118 | Fancy Curver |
-| 151 | 116 | Joy Petroski |
-| 152 | 116 | Josiah Fam |
+| 151 | 116 | Josiah Fam |
+| 152 | 116 | Joy Petroski |
 | 153 | 116 | Cesar Barraza |
 | 154 | 115 | Sarajane Lokan |
 | 155 | 115 | Jennifer Alvey |
