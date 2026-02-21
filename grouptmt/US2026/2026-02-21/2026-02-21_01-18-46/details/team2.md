@@ -47,8 +47,8 @@
 | 39 | 732 | Melissa Cole |
 | 40 | 679 | Gold Rose |
 | 41 | 674 | Dannette Goldberg-Richards |
-| 42 | 658 | Pacynthia Williams |
-| 43 | 658 | Vistabrat |
+| 42 | 658 | Vistabrat |
+| 43 | 658 | Pacynthia Williams |
 | 44 | 658 | Dreamy Blast |
 | 45 | 652 | E_Money04 |
 | 46 | 615 | Vo'Landa Reels |
@@ -143,8 +143,8 @@
 | 135 | 278 | Noel Tarmy |
 | 136 | 276 | James Simms III |
 | 137 | 274 | Melissa Holsinger |
-| 138 | 271 | PsychKIRAtrist |
-| 139 | 271 | Ann Marie Davis |
+| 138 | 271 | Ann Marie Davis |
+| 139 | 271 | PsychKIRAtrist |
 | 140 | 271 | Toni Lynn |
 | 141 | 268 | Lonne Emade |
 | 142 | 268 | Vanessa Moreno |
@@ -211,8 +211,8 @@
 | 203 | 200 | Howard Forest |
 | 204 | 200 | Tum |
 | 205 | 199 | Shorty |
-| 206 | 198 | Alyssa Dean |
-| 207 | 198 | Richard Horton |
+| 206 | 198 | Richard Horton |
+| 207 | 198 | Alyssa Dean |
 | 208 | 198 | Julio A Laracuente |
 | 209 | 197 | Smashanator |
 | 210 | 196 | Alexandra Reese |
@@ -420,8 +420,8 @@
 | 412 | 105 | Crystal Heller Gonzalez |
 | 413 | 105 | Leah Keesling |
 | 414 | 105 | bigskyeffect |
-| 415 | 104 | sup |
-| 416 | 104 | Jason Garnatz |
+| 415 | 104 | Jason Garnatz |
+| 416 | 104 | sup |
 | 417 | 104 | Raffaella Dowling |
 | 418 | 104 | Wakanda Forever |
 | 419 | 103 | Andrew W |

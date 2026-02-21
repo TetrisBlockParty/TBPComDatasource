@@ -55,8 +55,8 @@
 | 47 | 144 | Plucky Ziggy |
 | 48 | 143 | Veronica Eve |
 | 49 | 133 | Brandi Huntington |
-| 50 | 126 | Cece Ibarra |
-| 51 | 126 | Marianne Louise West |
+| 50 | 126 | Marianne Louise West |
+| 51 | 126 | Cece Ibarra |
 | 52 | 125 | Rico Rico |
 | 53 | 120 | Giggly Builderline |
 | 54 | 119 | Irual Hctrab |
@@ -73,8 +73,8 @@
 | 65 | 105 | Barry Mac'Ockner |
 | 66 | 105 | BigWeenie69 |
 | 67 | 104 | Robert Beck |
-| 68 | 100 | comrade fish |
-| 69 | 100 | Ash Galvan |
+| 68 | 100 | Ash Galvan |
+| 69 | 100 | comrade fish |
 | 70 | 99 | Uhog SF |
 | 71 | 98 | Flashy Rotator |
 | 72 | 95 | Jodee Woods |
@@ -84,8 +84,8 @@
 | 76 | 93 | Adryane Schnase |
 | 77 | 93 | Ty Brown |
 | 78 | 92 | Nery Martinez |
-| 79 | 91 | Melissa Lemmon |
-| 80 | 91 | Spunky Piecebuilder |
+| 79 | 91 | Spunky Piecebuilder |
+| 80 | 91 | Melissa Lemmon |
 | 81 | 90 | Madison Wicks |
 | 82 | 87 | TSwag |
 | 83 | 87 | Jessi Sauer |

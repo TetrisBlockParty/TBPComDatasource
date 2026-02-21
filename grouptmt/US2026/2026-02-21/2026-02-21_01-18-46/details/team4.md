@@ -87,8 +87,8 @@
 | 79 | 85 | Mimi |
 | 80 | 82 | Kim Hunt |
 | 81 | 82 | Dizzy Tiley |
-| 82 | 81 | Michelle Parker |
-| 83 | 81 | Kesha Brady |
+| 82 | 81 | Kesha Brady |
+| 83 | 81 | Michelle Parker |
 | 84 | 80 | Melissa Adams |
 | 85 | 79 | Avy Absol |
 | 86 | 76 | Jessica Miller |
@@ -132,9 +132,9 @@
 | 124 | 55 | RiahRose |
 | 125 | 55 | Cristy Duerksen |
 | 126 | 55 | mini |
-| 127 | 54 | Destiney Carter |
-| 128 | 54 | Jennifer Perkins |
-| 129 | 54 | BertMofo |
+| 127 | 54 | BertMofo |
+| 128 | 54 | Destiney Carter |
+| 129 | 54 | Jennifer Perkins |
 | 130 | 54 | mitch |
 | 131 | 53 | Zany Twisterfit |
 | 132 | 53 | Julian Garcia |
