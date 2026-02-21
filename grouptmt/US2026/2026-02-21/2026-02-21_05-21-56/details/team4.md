@@ -87,8 +87,8 @@
 | 79 | 126 | Tanner Lund |
 | 80 | 125 | Lauren Scott |
 | 81 | 123 | Nugget |
-| 82 | 122 | Shelly Chandler |
-| 83 | 122 | Sherri |
+| 82 | 122 | Sherri |
+| 83 | 122 | Shelly Chandler |
 | 84 | 121 | Smiley Tiltbuilder |
 | 85 | 120 | Joshua Guess |
 | 86 | 119 | Kristin Manee |
@@ -127,8 +127,8 @@
 | 119 | 96 | Zappy Snaplink |
 | 120 | 93 | Zesty Twistbuilder |
 | 121 | 92 | Kristin MacDonald |
-| 122 | 90 | Bubbly Puzzler |
-| 123 | 90 | Judy Cox |
+| 122 | 90 | Judy Cox |
+| 123 | 90 | Bubbly Puzzler |
 | 124 | 89 | Jeremy Steines |
 | 125 | 89 | Brandi Durig |
 | 126 | 88 | Kesha Brady |

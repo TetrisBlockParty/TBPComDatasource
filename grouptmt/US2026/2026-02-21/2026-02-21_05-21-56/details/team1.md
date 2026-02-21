@@ -49,8 +49,8 @@
 | 41 | 205 | Trippy Redd |
 | 42 | 204 | Ly Phethmany |
 | 43 | 202 | Dee Perry |
-| 44 | 201 | Ananda Mendez |
-| 45 | 201 | Anaid Sanchez |
+| 44 | 201 | Anaid Sanchez |
+| 45 | 201 | Ananda Mendez |
 | 46 | 200 | Lexuriuos Lifestlye |
 | 47 | 198 | Happy Snapbuild |
 | 48 | 198 | Billie Dawn Sparks |
@@ -97,9 +97,9 @@
 | 89 | 119 | Irual Hctrab |
 | 90 | 119 | Tater |
 | 91 | 115 | comrade fish |
-| 92 | 114 | Michael |
+| 92 | 114 | Colleen Wise |
 | 93 | 114 | Giddy Cascade |
-| 94 | 114 | Colleen Wise |
+| 94 | 114 | Michael |
 | 95 | 113 | Evie Khalil |
 | 96 | 112 | Christina Graham |
 | 97 | 112 | Nicole Roseberry Weber |

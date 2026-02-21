@@ -98,8 +98,8 @@
 | 90 | 203 | Crimson |
 | 91 | 199 | joclisa |
 | 92 | 195 | Nicha Hooker |
-| 93 | 193 | Clever Shiftsnap |
-| 94 | 193 | Shunta Jacobs |
+| 93 | 193 | Shunta Jacobs |
+| 94 | 193 | Clever Shiftsnap |
 | 95 | 192 | Chasity |
 | 96 | 188 | Twisty Brick LT |
 | 97 | 187 | Speedy Bridger |
@@ -133,8 +133,8 @@
 | 125 | 140 | Gumbo |
 | 126 | 139 | Angel Mendez |
 | 127 | 135 | Nicole Flippo |
-| 128 | 134 | DanceLuvLaugh |
-| 129 | 134 | Emma |
+| 128 | 134 | Emma |
+| 129 | 134 | DanceLuvLaugh |
 | 130 | 133 | Giddy Twistbuilder |
 | 131 | 131 | Elaine Webb Graves |
 | 132 | 131 | Jl |
@@ -161,8 +161,8 @@
 | 153 | 116 | Josiah Fam |
 | 154 | 115 | Sarajane Lokan |
 | 155 | 115 | Jennifer Alvey |
-| 156 | 114 | Jessica Bechler |
-| 157 | 114 | Nicholas Roddy |
+| 156 | 114 | Nicholas Roddy |
+| 157 | 114 | Jessica Bechler |
 | 158 | 113 | Valerie Gendron |
 | 159 | 110 | Stella |
 | 160 | 110 | Tiff Vs Tiffany |
