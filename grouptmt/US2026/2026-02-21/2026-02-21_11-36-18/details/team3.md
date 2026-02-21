@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
 | 85 | 307 | Blocked |
 | 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
@@ -149,9 +149,9 @@
 | 141 | 163 | Karon Griffin |
 | 142 | 163 | Raven Dudley |
 | 143 | 162 | Rebel124 |
-| 144 | 159 | Morgan Martinez |
-| 145 | 159 | Jone |
-| 146 | 159 | Mcathen |
+| 144 | 159 | Jone |
+| 145 | 159 | Mcathen |
+| 146 | 159 | Morgan Martinez |
 | 147 | 158 | Grams |
 | 148 | 157 | Nicholas Roddy |
 | 149 | 157 | Patricia Gadsden |
@@ -163,9 +163,9 @@
 | 155 | 152 | Shiny Zonebuilder |
 | 156 | 151 | MsBee |
 | 157 | 150 | Nicole Myers |
-| 158 | 149 | Angel Mendez |
+| 158 | 149 | Bea Miles |
 | 159 | 149 | Trisha Balmer |
-| 160 | 149 | Bea Miles |
+| 160 | 149 | Angel Mendez |
 | 161 | 147 | Sashay Tapae Simpson |
 | 162 | 146 | Denita Mungro |
 | 163 | 146 | Latoya Mayne |
@@ -213,8 +213,8 @@
 | 205 | 115 | Jennifer Alvey |
 | 206 | 115 | Daring Builder |
 | 207 | 114 | Jessica Bechler |
-| 208 | 113 | Brian Battjes |
-| 209 | 113 | Valerie Gendron |
+| 208 | 113 | Valerie Gendron |
+| 209 | 113 | Brian Battjes |
 | 210 | 111 | Stephanie Zahm |
 | 211 | 110 | Danielle Weikel |
 | 212 | 110 | Stella |

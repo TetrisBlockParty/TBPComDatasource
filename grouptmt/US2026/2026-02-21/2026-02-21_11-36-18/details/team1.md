@@ -70,8 +70,8 @@
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Hyper |
 | 64 | 202 | Dee Perry |
-| 65 | 201 | Anaid Sanchez |
-| 66 | 201 | Ananda Mendez |
+| 65 | 201 | Ananda Mendez |
+| 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
 | 68 | 198 | Happy Snapbuild |
 | 69 | 198 | Billie Dawn Sparks |

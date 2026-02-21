@@ -69,8 +69,8 @@
 | 61 | 207 | Alyssa Papen |
 | 62 | 205 | Sarah Neathery |
 | 63 | 204 | Brittney Orengo |
-| 64 | 198 | Lori Walker |
-| 65 | 198 | Mike Solo |
+| 64 | 198 | Mike Solo |
+| 65 | 198 | Lori Walker |
 | 66 | 197 | Autum Leigh |
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
@@ -95,8 +95,8 @@
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | 030Synner |
-| 91 | 147 | Jay28 |
+| 90 | 147 | Jay28 |
+| 91 | 147 | 030Synner |
 | 92 | 146 | Peachy Fall |
 | 93 | 145 | Andy Cabral |
 | 94 | 143 | Nugget |
@@ -150,8 +150,8 @@
 | 142 | 106 | Adam Randall |
 | 143 | 105 | Sam Middleton |
 | 144 | 105 | 🥔🥔 Spudz |
-| 145 | 105 | TheNeesh50 |
-| 146 | 105 | AyeKay |
+| 145 | 105 | AyeKay |
+| 146 | 105 | TheNeesh50 |
 | 147 | 104 | Damn Libra |
 | 148 | 102 | ĥuf |
 | 149 | 102 | Faja |
@@ -174,8 +174,8 @@
 | 166 | 94 | Kim Hunt |
 | 167 | 94 | DonMega |
 | 168 | 93 | Zesty Twistbuilder |
-| 169 | 90 | No Strings Attached Ra |
-| 170 | 90 | Amy Suckarieh |
+| 169 | 90 | Amy Suckarieh |
+| 170 | 90 | No Strings Attached Ra |
 | 171 | 90 | Judy Cox |
 | 172 | 89 | shark tato |
 | 173 | 89 | mike |
