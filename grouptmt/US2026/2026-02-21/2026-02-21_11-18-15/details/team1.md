@@ -70,8 +70,8 @@
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Hyper |
 | 64 | 202 | Dee Perry |
-| 65 | 201 | Ananda Mendez |
-| 66 | 201 | Anaid Sanchez |
+| 65 | 201 | Anaid Sanchez |
+| 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
 | 68 | 198 | Billie Dawn Sparks |
 | 69 | 198 | Happy Snapbuild |
@@ -95,8 +95,8 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | David DeSantis |
-| 91 | 155 | Standia Civil |
+| 90 | 155 | Standia Civil |
+| 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
 | 94 | 149 | Tana |
@@ -113,8 +113,8 @@
 | 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
-| 108 | 133 | Breanna Luna |
-| 109 | 133 | Brandi Huntington |
+| 108 | 133 | Brandi Huntington |
+| 109 | 133 | Breanna Luna |
 | 110 | 132 | LaQuetta Faith Hines |
 | 111 | 132 | Davery Spencer Adair |
 | 112 | 130 | Cece Ibarra |

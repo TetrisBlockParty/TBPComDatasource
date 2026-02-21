@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -78,8 +78,8 @@
 | 70 | 345 | Mendoza Lee Christy |
 | 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Annie Déè |
-| 74 | 342 | Trezure Gonzalez |
+| 73 | 342 | Trezure Gonzalez |
+| 74 | 342 | Annie Déè |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -166,8 +166,8 @@
 | 158 | 149 | Trisha Balmer |
 | 159 | 149 | Bea Miles |
 | 160 | 147 | Sashay Tapae Simpson |
-| 161 | 146 | Denita Mungro |
-| 162 | 146 | Latoya Mayne |
+| 161 | 146 | Latoya Mayne |
+| 162 | 146 | Denita Mungro |
 | 163 | 145 | Bryan Byrd |
 | 164 | 142 | Erica Anderson |
 | 165 | 140 | Gumbo |

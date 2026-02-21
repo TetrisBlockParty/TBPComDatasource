@@ -350,8 +350,8 @@
 | 342 | 247 | Fancy Twister |
 | 343 | 247 | Andrea Devery Beck |
 | 344 | 246 | Kathryn Townsley |
-| 345 | 246 | Stephanie Lumanlan |
-| 346 | 246 | Ashley Lopez |
+| 345 | 246 | Ashley Lopez |
+| 346 | 246 | Stephanie Lumanlan |
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
@@ -410,8 +410,8 @@
 | 402 | 207 | Brave Gridpiece |
 | 403 | 206 | RAEPR05 |
 | 404 | 206 | Neko Preston |
-| 405 | 205 | ElizabethAnn Dickinson |
-| 406 | 205 | Lylymom |
+| 405 | 205 | Lylymom |
+| 406 | 205 | ElizabethAnn Dickinson |
 | 407 | 204 | Ali Gralski |
 | 408 | 204 | Rebecca Doughman |
 | 409 | 203 | Gary Stash |
@@ -760,7 +760,7 @@
 | 752 | 116 | Carla Cervantes |
 | 753 | 116 | Slimkaite |
 | 754 | 116 | Moua Ying |
-| 755 | 116 | Carla Cervantes |
+| 755 | 116 | Meganator42 |
 | 756 | 115 | Mike73 |
 | 757 | 115 | Melissa Schwager |
 | 758 | 115 | Angela KaplaSchwahn |

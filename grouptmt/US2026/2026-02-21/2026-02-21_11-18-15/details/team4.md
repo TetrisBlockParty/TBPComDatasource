@@ -68,8 +68,8 @@
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
 | 62 | 200 | Jason Hart |
-| 63 | 198 | Mike Solo |
-| 64 | 198 | Lori Walker |
+| 63 | 198 | Lori Walker |
+| 64 | 198 | Mike Solo |
 | 65 | 197 | Autum Leigh |
 | 66 | 194 | Jamie Mann-Deichmann |
 | 67 | 187 | Swanky Fitline |
@@ -89,8 +89,8 @@
 | 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
-| 84 | 159 | Holly Jolly |
-| 85 | 159 | Justin Hannigan |
+| 84 | 159 | Justin Hannigan |
+| 85 | 159 | Holly Jolly |
 | 86 | 157 | quicksand420 |
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
@@ -100,8 +100,8 @@
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
-| 95 | 138 | Nugget |
-| 96 | 138 | Shainne Brewer |
+| 95 | 138 | Shainne Brewer |
+| 96 | 138 | Nugget |
 | 97 | 136 | Tanner Lund |
 | 98 | 134 | Chirpy Basepiece |
 | 99 | 134 | Jessica Bohlken |
@@ -254,7 +254,7 @@
 | 246 | 67 | Courtney Halleck |
 | 247 | 67 | Dennis Bradley |
 | 248 | 66 | Terrance Fung |
-| 249 | 66 | mitch |
+| 249 | 66 | Rebecca Blake |
 | 250 | 66 | Moonsterix |
 | 251 | 66 | mitch |
 | 252 | 65 | Lee Silpe |
