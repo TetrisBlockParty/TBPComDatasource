@@ -94,8 +94,8 @@
 | 86 | 193 | Clever Shiftsnap |
 | 87 | 193 | Shunta Jacobs |
 | 88 | 192 | Chasity |
-| 89 | 187 | Speedy Bridger |
-| 90 | 187 | Twisty Brick LT |
+| 89 | 187 | Twisty Brick LT |
+| 90 | 187 | Speedy Bridger |
 | 91 | 185 | Danielle Cutler |
 | 92 | 184 | Jennie Beranek |
 | 93 | 183 | Judi Dobson |
@@ -107,8 +107,8 @@
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
 | 101 | 164 | rosy |
-| 102 | 159 | Morgan Martinez |
-| 103 | 159 | Jone |
+| 102 | 159 | Jone |
+| 103 | 159 | Morgan Martinez |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
 | 106 | 155 | Shannon Matthew Byers |

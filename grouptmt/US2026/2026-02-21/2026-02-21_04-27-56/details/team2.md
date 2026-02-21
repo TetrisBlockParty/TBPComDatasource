@@ -220,8 +220,8 @@
 | 212 | 270 | Alexandra Weir |
 | 213 | 268 | Vanessa Moreno |
 | 214 | 267 | Mindy Leigh Head |
-| 215 | 266 | Autumn Schaeffer |
-| 216 | 266 | Mighty Shatterfit |
+| 215 | 266 | Mighty Shatterfit |
+| 216 | 266 | Autumn Schaeffer |
 | 217 | 266 | Joyce Johnson Vaughn |
 | 218 | 264 | Arwa Fatimah |
 | 219 | 263 | August Hale |
