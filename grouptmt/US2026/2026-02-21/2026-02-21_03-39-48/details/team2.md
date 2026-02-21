@@ -74,11 +74,11 @@
 | 66 | 674 | Dannette Goldberg-Richards |
 | 67 | 672 | Wendy Harder Gage |
 | 68 | 664 | E_Money04 |
-| 69 | 658 | Vistabrat |
-| 70 | 658 | Dreamy Blast |
+| 69 | 658 | Dreamy Blast |
+| 70 | 658 | Vistabrat |
 | 71 | 658 | Pacynthia Williams |
-| 72 | 649 | Stephanie Chapman |
-| 73 | 649 | Anna Edwards |
+| 72 | 649 | Anna Edwards |
+| 73 | 649 | Stephanie Chapman |
 | 74 | 608 | John Bednarik |
 | 75 | 601 | Nancy Reid |
 | 76 | 600 | Cool Snapclear |
@@ -94,8 +94,8 @@
 | 86 | 541 | SaraMarie Eveland |
 | 87 | 534 | Jerilyn Andrina |
 | 88 | 525 | Desiree Anderson |
-| 89 | 515 | Real Ri |
-| 90 | 515 | Kaylee McCafferty |
+| 89 | 515 | Kaylee McCafferty |
+| 90 | 515 | Real Ri |
 | 91 | 509 | Kelli Wells |
 | 92 | 505 | Danielle Johnson-Chandler |
 | 93 | 499 | Samantha Jo |
@@ -130,8 +130,8 @@
 | 122 | 402 | Sparkles |
 | 123 | 401 | Poppy Snap |
 | 124 | 400 | Crystie Hicks |
-| 125 | 397 | Destiny Cozier |
-| 126 | 397 | Ashley Guernsey-Martin |
+| 125 | 397 | Ashley Guernsey-Martin |
+| 126 | 397 | Destiny Cozier |
 | 127 | 391 | Chilly Bridgepiece |
 | 128 | 390 | Dustin Rains |
 | 129 | 386 | Osun Anuket Esu |
@@ -206,8 +206,8 @@
 | 198 | 271 | Toni Lynn |
 | 199 | 268 | Vanessa Moreno |
 | 200 | 267 | Mindy Leigh Head |
-| 201 | 266 | Autumn Schaeffer |
-| 202 | 266 | Mighty Shatterfit |
+| 201 | 266 | Mighty Shatterfit |
+| 202 | 266 | Autumn Schaeffer |
 | 203 | 266 | Joyce Johnson Vaughn |
 | 204 | 263 | Taylor Flowers |
 | 205 | 263 | August Hale |
@@ -315,8 +315,8 @@
 | 307 | 179 | Desiree Harris Rosch |
 | 308 | 179 | Denise Rickman |
 | 309 | 179 | Cat |
-| 310 | 177 | Kristi Biddinger |
-| 311 | 177 | Amber Gray |
+| 310 | 177 | Amber Gray |
+| 311 | 177 | Kristi Biddinger |
 | 312 | 177 | Angel |
 | 313 | 177 | John |
 | 314 | 176 | Nancy Pohlman |

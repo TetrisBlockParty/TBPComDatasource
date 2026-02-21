@@ -96,8 +96,8 @@
 | 88 | 109 | Dandy Basegrid |
 | 89 | 108 | Tavia |
 | 90 | 107 | Jodee Woods |
-| 91 | 105 | Flashy Rotator |
-| 92 | 105 | Barry Mac'Ockner |
+| 91 | 105 | Barry Mac'Ockner |
+| 92 | 105 | Flashy Rotator |
 | 93 | 103 | Ash Galvan |
 | 94 | 102 | Jennifer ManWarren |
 | 95 | 101 | Agustin Duarte Orozco |
