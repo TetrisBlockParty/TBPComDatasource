@@ -61,8 +61,8 @@
 | 53 | 337 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -119,8 +119,8 @@
 | 111 | 157 | quicksand420 |
 | 112 | 156 | Holly |
 | 113 | 152 | Jessica Bohlken |
-| 114 | 151 | Bethany Ison |
-| 115 | 151 | Dana Scott |
+| 114 | 151 | Dana Scott |
+| 115 | 151 | Bethany Ison |
 | 116 | 148 | Brittany Marsh |
 | 117 | 148 | Janita Parrish |
 | 118 | 147 | Chair |

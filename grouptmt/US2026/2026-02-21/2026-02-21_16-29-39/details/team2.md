@@ -363,9 +363,9 @@
 | 355 | 297 | Fi Ne |
 | 356 | 297 | Peachy Blockbuilder |
 | 357 | 297 | Cheeky Brickmatch |
-| 358 | 296 | Jennifer Casey-Kay |
-| 359 | 296 | Amber Gray |
-| 360 | 296 | Heather Schelkopf |
+| 358 | 296 | Heather Schelkopf |
+| 359 | 296 | Jennifer Casey-Kay |
+| 360 | 296 | Amber Gray |
 | 361 | 296 | AISlop |
 | 362 | 296 | Jennifer Darby |
 | 363 | 295 | Melissa Kay Gibson |
@@ -384,13 +384,13 @@
 | 376 | 283 | Byung Bae Park |
 | 377 | 282 | Shaun Church |
 | 378 | 282 | Carl Bradshaw |
-| 379 | 281 | Jaycee |
-| 380 | 281 | Justin Hines |
+| 379 | 281 | Justin Hines |
+| 380 | 281 | Jaycee |
 | 381 | 281 | Ellie Jonas |
 | 382 | 280 | Shorty |
 | 383 | 280 | Lonne Emade |
-| 384 | 280 | Lyndi Robinson Wakefield |
-| 385 | 280 | SwampRebel |
+| 384 | 280 | SwampRebel |
+| 385 | 280 | Lyndi Robinson Wakefield |
 | 386 | 279 | Glitzy Stackzone |
 | 387 | 278 | Deana |
 | 388 | 278 | Demeka Dangerous-kisses Johnson |
@@ -477,8 +477,8 @@
 | 469 | 233 | Daring Matchfit |
 | 470 | 232 | Amber Brion |
 | 471 | 231 | Hong Tang |
-| 472 | 231 | Dylan Thomason |
-| 473 | 231 | Brave Gridpiece |
+| 472 | 231 | Brave Gridpiece |
+| 473 | 231 | Dylan Thomason |
 | 474 | 230 | Leslie Johnson Guinto |
 | 475 | 228 | Michelle Sager |
 | 476 | 227 | Myleaha Holley |

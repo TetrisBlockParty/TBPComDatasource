@@ -112,8 +112,8 @@
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
-| 107 | 300 | Tessina Dewey-Mancino |
-| 108 | 300 | Sherika C. McDaniels |
+| 107 | 300 | Sherika C. McDaniels |
+| 108 | 300 | Tessina Dewey-Mancino |
 | 109 | 293 | Poppy Splitter |
 | 110 | 284 | Jay Horn |
 | 111 | 267 | Jessica Bechler |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | Chris Bell |
-| 142 | 207 | rnr junky |
+| 141 | 207 | rnr junky |
+| 142 | 207 | Chris Bell |
 | 143 | 206 | Chasity |
 | 144 | 203 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Sissy Lowery Davis |
@@ -171,8 +171,8 @@
 | 163 | 179 | Joye Sims Binion |
 | 164 | 179 | Ashley Jones |
 | 165 | 179 | Daira Largen |
-| 166 | 178 | Khaleada McGill Banks |
-| 167 | 178 | AlsoJess |
+| 166 | 178 | AlsoJess |
+| 167 | 178 | Khaleada McGill Banks |
 | 168 | 178 | Ryan Williams |
 | 169 | 177 | Dapper Snap |
 | 170 | 177 | Rebel124 |
@@ -199,10 +199,10 @@
 | 191 | 157 | Patricia Gadsden |
 | 192 | 156 | Bea Miles |
 | 193 | 152 | Shiny Zonebuilder |
-| 194 | 152 | Cozy Snaplink |
-| 195 | 152 | Katrina E Jelks |
-| 196 | 151 | Brenda Lee Vander Molen |
-| 197 | 151 | MsBee |
+| 194 | 152 | Katrina E Jelks |
+| 195 | 152 | Cozy Snaplink |
+| 196 | 151 | MsBee |
+| 197 | 151 | Brenda Lee Vander Molen |
 | 198 | 151 | Loopy Fallzone |
 | 199 | 151 | Connie Mohler-Fair |
 | 200 | 150 | Nicole Myers |
@@ -260,8 +260,8 @@
 | 252 | 115 | Daring Builder |
 | 253 | 114 | Amanda Neal |
 | 254 | 113 | Brave Brickster |
-| 255 | 113 | Beppy |
-| 256 | 113 | Brian Battjes |
+| 255 | 113 | Brian Battjes |
+| 256 | 113 | Beppy |
 | 257 | 111 | France Vézina |
 | 258 | 111 | El Chapa |
 | 259 | 111 | Jason-Ashley Ludlow |
@@ -355,9 +355,9 @@
 | 347 | 86 | Salena Whitlock |
 | 348 | 85 | Lush Risebuilder |
 | 349 | 85 | Crystel b520 |
-| 350 | 85 | Heather De Vries Cobb |
-| 351 | 85 | Sheila M Frazier |
-| 352 | 85 | Mike Spritzer |
+| 350 | 85 | Mike Spritzer |
+| 351 | 85 | Heather De Vries Cobb |
+| 352 | 85 | Sheila M Frazier |
 | 353 | 84 | Spunky Racker |
 | 354 | 84 | gremicx |
 | 355 | 83 | Glitzy Slide |

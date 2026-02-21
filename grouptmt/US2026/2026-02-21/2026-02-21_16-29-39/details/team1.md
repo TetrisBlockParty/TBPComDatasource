@@ -63,8 +63,8 @@
 | 55 | 284 | Adam Byrd |
 | 56 | 279 | Shauna Loe |
 | 57 | 278 | Carrie Beck Geartz |
-| 58 | 274 | Theo Pinnow |
-| 59 | 274 | Sweet Baker |
+| 58 | 274 | Sweet Baker |
+| 59 | 274 | Theo Pinnow |
 | 60 | 270 | Sarah Roberts |
 | 61 | 261 | Bhelle Sumile |
 | 62 | 256 | Tipsy Column |
@@ -111,8 +111,8 @@
 | 103 | 171 | Greg Premoe |
 | 104 | 171 | David DeSantis |
 | 105 | 169 | Abbey Crespo |
-| 106 | 166 | Rico Rico |
-| 107 | 166 | Tana |
+| 106 | 166 | Tana |
+| 107 | 166 | Rico Rico |
 | 108 | 165 | GATOR |
 | 109 | 165 | Veronica Eve |
 | 110 | 163 | Tyler Whitley |
@@ -123,20 +123,20 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Jennifer ManWarren |
-| 119 | 149 | Arianna O'Brien |
+| 118 | 149 | Arianna O'Brien |
+| 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
 | 122 | 146 | Irual Hctrab |
 | 123 | 146 | Christy Jones |
 | 124 | 146 | Dandy Basegrid |
 | 125 | 145 | BigWeenie69 |
-| 126 | 144 | femmefatale |
-| 127 | 144 | Plucky Ziggy |
+| 126 | 144 | Plucky Ziggy |
+| 127 | 144 | femmefatale |
 | 128 | 143 | Sarah Marie |
 | 129 | 143 | Kellie |
-| 130 | 142 | Colleen Wise |
-| 131 | 142 | Speedy Snapfall |
+| 130 | 142 | Speedy Snapfall |
+| 131 | 142 | Colleen Wise |
 | 132 | 141 | Blaire Bruckoff |
 | 133 | 140 | Miguel Teixeira |
 | 134 | 139 | Michael |
@@ -210,9 +210,9 @@
 | 202 | 99 | Mizzledagod |
 | 203 | 99 | Barrbaric |
 | 204 | 98 | Witty Builderfit |
-| 205 | 96 | Howdi Duty |
+| 205 | 96 | Mara Hilker |
 | 206 | 96 | MommaKFC |
-| 207 | 96 | Mara Hilker |
+| 207 | 96 | Howdi Duty |
 | 208 | 94 | Brad MG |
 | 209 | 93 | Kayla Marie Stevenson |
 | 210 | 91 | Sleepysloath5745 |
