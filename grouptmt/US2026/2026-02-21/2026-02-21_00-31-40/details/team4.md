@@ -70,9 +70,9 @@
 | 62 | 93 | YoMomma |
 | 63 | 90 | ZeeZee |
 | 64 | 88 | Jenna McGeorge |
-| 65 | 87 | Brandi Durig |
-| 66 | 87 | Jen Caldwell |
-| 67 | 87 | Malakai Darien Fox |
+| 65 | 87 | Malakai Darien Fox |
+| 66 | 87 | Brandi Durig |
+| 67 | 87 | Jen Caldwell |
 | 68 | 86 | amy |
 | 69 | 85 | Mimi |
 | 70 | 81 | Michelle Parker |
@@ -82,10 +82,10 @@
 | 74 | 78 | Chilly Line |
 | 75 | 77 | Kim Hunt |
 | 76 | 76 | Kristin MacDonald |
-| 77 | 75 | Avy Absol |
-| 78 | 75 | Rosemary Foster |
-| 79 | 75 | Chair |
-| 80 | 75 | 🥔🥔 Spudz |
+| 77 | 75 | Rosemary Foster |
+| 78 | 75 | Chair |
+| 79 | 75 | 🥔🥔 Spudz |
+| 80 | 75 | Avy Absol |
 | 81 | 73 | Lauren Lamb |
 | 82 | 73 | Marie-Pier Desjardins |
 | 83 | 72 | Jae Job |
@@ -107,10 +107,10 @@
 | 99 | 62 | Melvin Baird |
 | 100 | 61 | Richard-April Kice |
 | 101 | 61 | Alee Marie |
-| 102 | 61 | Richard-April Kice |
-| 103 | 60 | Ahleek Mitchell |
+| 102 | 61 | Shauna Havard |
+| 103 | 60 | Dustee Craddock-Harrison |
 | 104 | 60 | Jessica Bohlken |
-| 105 | 60 | Dustee Craddock-Harrison |
+| 105 | 60 | Ahleek Mitchell |
 | 106 | 59 | Joseph Pace |
 | 107 | 57 | Justin Hannigan |
 | 108 | 57 | Carlos G Reyes |
@@ -137,9 +137,9 @@
 | 129 | 50 | Landon Keith Graffeo |
 | 130 | 50 | Smiley Linkgrid |
 | 131 | 50 | GBR |
-| 132 | 49 | shark tato |
-| 133 | 49 | Rio Rocha |
-| 134 | 49 | Lakesha Johnson |
+| 132 | 49 | Rio Rocha |
+| 133 | 49 | Lakesha Johnson |
+| 134 | 49 | shark tato |
 | 135 | 47 | Amy Sanford |
 | 136 | 47 | Robin Getchel |
 | 137 | 46 | Natalie;) |

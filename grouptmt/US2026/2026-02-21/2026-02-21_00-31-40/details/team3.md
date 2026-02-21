@@ -61,8 +61,8 @@
 | 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Shunta Jacobs |
-| 57 | 193 | Clever Shiftsnap |
+| 56 | 193 | Clever Shiftsnap |
+| 57 | 193 | Shunta Jacobs |
 | 58 | 187 | Speedy Bridger |
 | 59 | 185 | Danielle Cutler |
 | 60 | 184 | Jennie Beranek |

@@ -71,7 +71,7 @@
 | 63 | 98 | Flashy Rotator |
 | 64 | 95 | Jodee Woods |
 | 65 | 94 | Bindi |
-| 66 | 93 | Ty Brown |
+| 66 | 93 | Adryane Schnase |
 | 67 | 93 | Bhelle Sumile |
 | 68 | 93 | Ty Brown |
 | 69 | 91 | Spunky Piecebuilder |
