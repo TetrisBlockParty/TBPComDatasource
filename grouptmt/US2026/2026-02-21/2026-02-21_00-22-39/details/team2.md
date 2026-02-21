@@ -124,13 +124,13 @@
 | 116 | 265 | Joseph Musick |
 | 117 | 265 | Wuntayk |
 | 118 | 264 | Lonne Emade |
-| 119 | 263 | Taylor Flowers |
-| 120 | 263 | Oscar Bernie |
-| 121 | 263 | Shiny Rollzone |
+| 119 | 263 | Oscar Bernie |
+| 120 | 263 | Shiny Rollzone |
+| 121 | 263 | Taylor Flowers |
 | 122 | 261 | MrsClaudette Will'sIam Matthews |
 | 123 | 261 | SaraMarie Eveland |
-| 124 | 260 | Autumn Schaeffer |
-| 125 | 260 | YiFei |
+| 124 | 260 | YiFei |
+| 125 | 260 | Autumn Schaeffer |
 | 126 | 260 | Jessie McDougald |
 | 127 | 257 | Alex Hill |
 | 128 | 256 | Magic steve |
@@ -192,8 +192,8 @@
 | 184 | 194 | Mike Aprilliano |
 | 185 | 194 | Drwatson187 |
 | 186 | 193 | Ariel |
-| 187 | 191 | Deana |
-| 188 | 191 | Sho Nuff |
+| 187 | 191 | Sho Nuff |
+| 188 | 191 | Deana |
 | 189 | 190 | blarg |
 | 190 | 189 | Sanaa Nounoussa |
 | 191 | 189 | Ashley Rose Frederick |
@@ -221,8 +221,8 @@
 | 213 | 167 | Fi Ne |
 | 214 | 167 | Mema |
 | 215 | 166 | Jessica Kaye DeAguero |
-| 216 | 165 | Cathy Bitters |
-| 217 | 165 | Shorty |
+| 216 | 165 | Shorty |
+| 217 | 165 | Cathy Bitters |
 | 218 | 164 | Jamie Stevey |
 | 219 | 163 | Dedra Steward |
 | 220 | 162 | Jennifer Malloy - Cardy |

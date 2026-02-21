@@ -75,8 +75,8 @@
 | 67 | 93 | Ty Brown |
 | 68 | 91 | Spunky Piecebuilder |
 | 69 | 91 | Melissa Lemmon |
-| 70 | 90 | Madison Wicks |
-| 71 | 90 | comrade fish |
+| 70 | 90 | comrade fish |
+| 71 | 90 | Madison Wicks |
 | 72 | 87 | Jessi Sauer |
 | 73 | 84 | Charla Pross-Fugleberg |
 | 74 | 83 | TSwag |
@@ -89,11 +89,11 @@
 | 81 | 80 | pjbeta |
 | 82 | 79 | Chris65 |
 | 83 | 78 | Carrie Beck Geartz |
-| 84 | 75 | Josie Kirt |
-| 85 | 75 | Tyler L Hunt |
+| 84 | 75 | Tyler L Hunt |
+| 85 | 75 | Josie Kirt |
 | 86 | 74 | Grace Joanne Agnant |
-| 87 | 73 | Loony Fitzone |
-| 88 | 73 | Witty Builderfit |
+| 87 | 73 | Witty Builderfit |
+| 88 | 73 | Loony Fitzone |
 | 89 | 72 | Tipsy Strikerpiece |
 | 90 | 71 | Teddy Alexander |
 | 91 | 69 | Christina Torres |
