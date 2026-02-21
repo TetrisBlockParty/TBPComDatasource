@@ -43,8 +43,8 @@
 | 35 | 147 | Courtney Cicoria |
 | 36 | 147 | Kimyatta Cavin |
 | 37 | 141 | Edward White |
-| 38 | 140 | Carter Jones |
-| 39 | 140 | GreenJeepGirl |
+| 38 | 140 | GreenJeepGirl |
+| 39 | 140 | Carter Jones |
 | 40 | 130 | Casey Jeffcoat |
 | 41 | 129 | Samantha Peterson |
 | 42 | 128 | Robin Watters |
@@ -54,8 +54,8 @@
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
-| 49 | 116 | Serena Goodridge |
-| 50 | 116 | Sherri |
+| 49 | 116 | Sherri |
+| 50 | 116 | Serena Goodridge |
 | 51 | 116 | Jessica Bohlken |
 | 52 | 114 | Jessica Cagle |
 | 53 | 113 | Degenerate |
@@ -91,9 +91,9 @@
 | 83 | 81 | Kesha Brady |
 | 84 | 80 | Melissa Adams |
 | 85 | 79 | Avy Absol |
-| 86 | 75 | Rosemary Foster |
+| 86 | 75 | Chair |
 | 87 | 75 | 🥔🥔 Spudz |
-| 88 | 75 | Chair |
+| 88 | 75 | Rosemary Foster |
 | 89 | 73 | Jeff Brian Gates |
 | 90 | 73 | Lauren Lamb |
 | 91 | 72 | Joshua Cuellar |

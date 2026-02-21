@@ -108,8 +108,8 @@
 | 100 | 351 | Giggy Blocker |
 | 101 | 350 | Chris Harr |
 | 102 | 345 | Brenda Messer |
-| 103 | 345 | Rhianna DiLorenzo |
-| 104 | 345 | Alyssaaelena |
+| 103 | 345 | Alyssaaelena |
+| 104 | 345 | Rhianna DiLorenzo |
 | 105 | 344 | Christina Lewis-Vickers |
 | 106 | 343 | Cherica Taylor |
 | 107 | 342 | Tracy Wise |
@@ -148,8 +148,8 @@
 | 140 | 271 | Toni Lynn |
 | 141 | 268 | Lonne Emade |
 | 142 | 268 | Vanessa Moreno |
-| 143 | 266 | Autumn Schaeffer |
-| 144 | 266 | Mighty Shatterfit |
+| 143 | 266 | Mighty Shatterfit |
+| 144 | 266 | Autumn Schaeffer |
 | 145 | 266 | Joyce Johnson Vaughn |
 | 146 | 265 | Wuntayk |
 | 147 | 263 | Taylor Flowers |
@@ -244,8 +244,8 @@
 | 236 | 176 | Jessica Kaye DeAguero |
 | 237 | 175 | Tina Blessed Cage |
 | 238 | 173 | Macy Williams |
-| 239 | 170 | Taryece Gause |
-| 240 | 170 | Darlene Bowman |
+| 239 | 170 | Darlene Bowman |
+| 240 | 170 | Taryece Gause |
 | 241 | 170 | Kenya Felix |
 | 242 | 169 | Lively Catcher |
 | 243 | 168 | Robin |
