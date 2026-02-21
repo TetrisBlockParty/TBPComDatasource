@@ -114,14 +114,14 @@
 | 106 | 368 | Stephanie Woods |
 | 107 | 367 | mjl574 |
 | 108 | 367 | Nerdy Riseclear |
-| 109 | 366 | Speedy Bridger |
-| 110 | 366 | Adrian Marcel Pate |
+| 109 | 366 | Adrian Marcel Pate |
+| 110 | 366 | Speedy Bridger |
 | 111 | 350 | Tiff Vs Tiffany |
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
 | 114 | 327 | Dapper Snap |
-| 115 | 323 | Ashley Raines |
-| 116 | 323 | Sherry Ogden |
+| 115 | 323 | Sherry Ogden |
+| 116 | 323 | Ashley Raines |
 | 117 | 320 | Or Reznitsky |
 | 118 | 318 | Chasity |
 | 119 | 316 | Fancy Cascader |
@@ -160,8 +160,8 @@
 | 152 | 234 | Tom Nault |
 | 153 | 233 | Ray Lader |
 | 154 | 229 | Nikki Pags |
-| 155 | 228 | Rochelle Hazelett |
-| 156 | 228 | Morgan Martinez |
+| 155 | 228 | Morgan Martinez |
+| 156 | 228 | Rochelle Hazelett |
 | 157 | 226 | Grego Daniel |
 | 158 | 223 | Jeana Gilbert |
 | 159 | 222 | Jimmie Clemons |
@@ -169,8 +169,8 @@
 | 161 | 219 | Shunta Jacobs |
 | 162 | 218 | LaNette Morgan |
 | 163 | 217 | Jess Bissett |
-| 164 | 214 | Jenny Hrndz |
-| 165 | 214 | Amy Fuller Heaton |
+| 164 | 214 | Amy Fuller Heaton |
+| 165 | 214 | Jenny Hrndz |
 | 166 | 212 | Krystal Gerstberger |
 | 167 | 211 | Katrina Turner |
 | 168 | 207 | Chris Bell |
@@ -211,10 +211,10 @@
 | 203 | 178 | Ryan Williams |
 | 204 | 178 | AlsoJess |
 | 205 | 177 | Trisha Balmer |
-| 206 | 175 | Tasha Wesson-Torrence |
-| 207 | 175 | DanceLuvLaugh |
-| 208 | 174 | rosy |
-| 209 | 174 | Loopy Fallmatch |
+| 206 | 175 | DanceLuvLaugh |
+| 207 | 175 | Tasha Wesson-Torrence |
+| 208 | 174 | Loopy Fallmatch |
+| 209 | 174 | rosy |
 | 210 | 173 | Sarajane Lokan |
 | 211 | 172 | Grams |
 | 212 | 171 | Marquita Sheard |
@@ -224,8 +224,8 @@
 | 216 | 168 | MsBee |
 | 217 | 168 | JerseyJess |
 | 218 | 167 | Raven Dudley |
-| 219 | 166 | Betty Rosas |
-| 220 | 166 | Beth Ingham |
+| 219 | 166 | Beth Ingham |
+| 220 | 166 | Betty Rosas |
 | 221 | 165 | Kali Kelz Williams |
 | 222 | 163 | Stephanie Hill |
 | 223 | 163 | Christine Trester |
@@ -233,8 +233,8 @@
 | 225 | 161 | Irene Arreguin |
 | 226 | 160 | Tiffany Davie |
 | 227 | 159 | Jone |
-| 228 | 157 | Sabrina Hardrick |
-| 229 | 157 | Patricia Gadsden |
+| 228 | 157 | Patricia Gadsden |
+| 229 | 157 | Sabrina Hardrick |
 | 230 | 155 | Loopy Fallzone |
 | 231 | 154 | Laurie Allen |
 | 232 | 153 | Rachel Napper |
@@ -246,8 +246,8 @@
 | 238 | 152 | Lesley Perez |
 | 239 | 152 | Katrina E Jelks |
 | 240 | 150 | Valerie Gendron |
-| 241 | 149 | Angel Mendez |
-| 242 | 149 | Alexis Taylor |
+| 241 | 149 | Alexis Taylor |
+| 242 | 149 | Angel Mendez |
 | 243 | 149 | Peachy Rollfit |
 | 244 | 148 | Wetwet |
 | 245 | 148 | Jennifer Alvey |

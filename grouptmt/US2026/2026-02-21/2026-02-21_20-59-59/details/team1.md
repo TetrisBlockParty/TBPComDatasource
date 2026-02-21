@@ -26,8 +26,8 @@
 | 18 | 792 | LaQuetta Faith Hines |
 | 19 | 781 | Robert Beck |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Adryane Schnase |
-| 22 | 770 | Zappy Curvetile |
+| 21 | 770 | Zappy Curvetile |
+| 22 | 770 | Adryane Schnase |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 658 | Carolyn Smith |
@@ -93,8 +93,8 @@
 | 85 | 272 | Sarah Roberts |
 | 86 | 270 | Jennifer ManWarren |
 | 87 | 266 | Bhelle Sumile |
-| 88 | 258 | Dandy Basegrid |
-| 89 | 258 | Kellie |
+| 88 | 258 | Kellie |
+| 89 | 258 | Dandy Basegrid |
 | 90 | 254 | Rachael |
 | 91 | 252 | Dena Kayy |
 | 92 | 251 | june october |
@@ -143,8 +143,8 @@
 | 135 | 171 | Greg Premoe |
 | 136 | 171 | David DeSantis |
 | 137 | 170 | Veronica Eve |
-| 138 | 169 | Abbey Crespo |
-| 139 | 169 | Luciano Moreira |
+| 138 | 169 | Luciano Moreira |
+| 139 | 169 | Abbey Crespo |
 | 140 | 168 | Standia Civil |
 | 141 | 166 | John Barron |
 | 142 | 166 | Rico Rico |
@@ -203,8 +203,8 @@
 | 195 | 122 | Margo Wagner |
 | 196 | 122 | Melissa Lemmon |
 | 197 | 121 | Mark Smith |
-| 198 | 120 | Kimmie Kimms |
-| 199 | 120 | Alenoush Karimian |
+| 198 | 120 | Alenoush Karimian |
+| 199 | 120 | Kimmie Kimms |
 | 200 | 119 | Tater |
 | 201 | 118 | SavageBooty98 |
 | 202 | 116 | Jessica Russell |
@@ -217,7 +217,7 @@
 | 209 | 114 | Hector Cruz |
 | 210 | 113 | Desiree Deschaine Havee |
 | 211 | 112 | Chris65 |
-| 212 | 111 | Tami Luce Martin |
+| 212 | 111 | Jessi Sauer |
 | 213 | 111 | Rachel Nichole Henry |
 | 214 | 111 | Tami Luce Martin |
 | 215 | 111 | Chirpy Smasher |

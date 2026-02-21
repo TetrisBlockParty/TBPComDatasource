@@ -358,9 +358,9 @@
 | 350 | 378 | Cody Nishimura |
 | 351 | 377 | Roy Salyer |
 | 352 | 376 | Caitlin Schmid |
-| 353 | 374 | Lee Harper |
+| 353 | 374 | Johnny Yeates |
 | 354 | 374 | Alexandra Weir |
-| 355 | 374 | Johnny Yeates |
+| 355 | 374 | Lee Harper |
 | 356 | 369 | Victoria Moore-Smith |
 | 357 | 369 | Tara Lynn Janes |
 | 358 | 369 | AkaLefty |

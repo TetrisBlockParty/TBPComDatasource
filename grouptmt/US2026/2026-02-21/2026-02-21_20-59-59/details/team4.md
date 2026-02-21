@@ -74,8 +74,8 @@
 | 66 | 358 | Nugget |
 | 67 | 355 | Jamie Mann-Deichmann |
 | 68 | 345 | Ancient Intuition |
-| 69 | 308 | Jen Allison |
-| 70 | 308 | David Lay |
+| 69 | 308 | David Lay |
+| 70 | 308 | Jen Allison |
 | 71 | 304 | Livvy |
 | 72 | 303 | Lauren Scott |
 | 73 | 300 | Jason Hart |
@@ -133,8 +133,8 @@
 | 125 | 179 | Epic Curvetile |
 | 126 | 178 | Lori |
 | 127 | 176 | Stacey Stano |
-| 128 | 174 | Dihcheese444 |
-| 129 | 174 | shark tato |
+| 128 | 174 | shark tato |
+| 129 | 174 | Dihcheese444 |
 | 130 | 174 | Zethra Prenisha Rahming |
 | 131 | 173 | Twisty Cascadezone |
 | 132 | 173 | blockstar |
@@ -146,11 +146,11 @@
 | 138 | 164 | 030Synner |
 | 139 | 160 | ZeeZee |
 | 140 | 157 | Chastity Mitchell |
-| 141 | 156 | Holly |
-| 142 | 156 | Jessica Bohlken |
+| 141 | 156 | Jessica Bohlken |
+| 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
-| 144 | 151 | Avy Absol |
-| 145 | 151 | Bethany Ison |
+| 144 | 151 | Bethany Ison |
+| 145 | 151 | Avy Absol |
 | 146 | 149 | Diana Houts |
 | 147 | 148 | Brittany Marsh |
 | 148 | 148 | Janita Parrish |
@@ -173,8 +173,8 @@
 | 165 | 135 | Stephme310 |
 | 166 | 135 | Victoria Faniel |
 | 167 | 134 | Kim Klutz Olson |
-| 168 | 134 | Zany Shatterer |
-| 169 | 134 | Chirpy Basepiece |
+| 168 | 134 | Chirpy Basepiece |
+| 169 | 134 | Zany Shatterer |
 | 170 | 133 | Angela Geist Jusinski |
 | 171 | 132 | Degenerate |
 | 172 | 132 | Jessica Cagle |
@@ -248,8 +248,8 @@
 | 240 | 101 | Zach Kerbs |
 | 241 | 101 | Zesty Linkgrid |
 | 242 | 100 | Jacob Richard |
-| 243 | 100 | Maureen Flanigan |
-| 244 | 100 | Alexandra Karavias |
+| 243 | 100 | Alexandra Karavias |
+| 244 | 100 | Maureen Flanigan |
 | 245 | 99 | Michael Orris |
 | 246 | 98 | Bradley Reeves |
 | 247 | 98 | Perky Piecegrid |
@@ -279,8 +279,8 @@
 | 271 | 90 | No Strings Attached Ra |
 | 272 | 90 | Thomas Hettenhaus |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Michelle Parker |
-| 275 | 88 | Kesha Brady |
+| 274 | 88 | Kesha Brady |
+| 275 | 88 | Michelle Parker |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | amy |
 | 278 | 86 | Jason Frehner |
@@ -319,8 +319,8 @@
 | 311 | 78 | Steph Marie |
 | 312 | 78 | Adawna Swires |
 | 313 | 77 | JPW |
-| 314 | 77 | Mike |
-| 315 | 77 | Marvin Lou Martin |
+| 314 | 77 | Marvin Lou Martin |
+| 315 | 77 | Mike |
 | 316 | 76 | Crystal Lynn |
 | 317 | 76 | Kevin Bush |
 | 318 | 76 | Rebecca Blake |
