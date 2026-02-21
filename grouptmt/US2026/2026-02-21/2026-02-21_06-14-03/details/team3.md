@@ -104,8 +104,8 @@
 | 96 | 202 | Shannon Matthew Byers |
 | 97 | 200 | Twisty Brick LT |
 | 98 | 199 | joclisa |
-| 99 | 195 | Jenny Hrndz |
-| 100 | 195 | Nicha Hooker |
+| 99 | 195 | Nicha Hooker |
+| 100 | 195 | Jenny Hrndz |
 | 101 | 194 | glichmod |
 | 102 | 193 | Shunta Jacobs |
 | 103 | 193 | Clever Shiftsnap |
@@ -183,8 +183,8 @@
 | 175 | 110 | Stella |
 | 176 | 109 | Fredd Thomas |
 | 177 | 109 | Diana Ibarra |
-| 178 | 108 | Rachel Napper |
-| 179 | 108 | LaTanya GeminiondaRise Johnson |
+| 178 | 108 | LaTanya GeminiondaRise Johnson |
+| 179 | 108 | Rachel Napper |
 | 180 | 107 | Sherry Ogden |
 | 181 | 106 | Eon Harris |
 | 182 | 106 | Desiree Gold |
@@ -301,8 +301,8 @@
 | 293 | 71 | Duane Bright |
 | 294 | 71 | Amber Groover Taylor |
 | 295 | 70 | Leticia Lynn Lowe |
-| 296 | 70 | cherry 🍒pie |
-| 297 | 70 | Willow |
+| 296 | 70 | Willow |
+| 297 | 70 | cherry 🍒pie |
 | 298 | 69 | Jen Lewis |
 | 299 | 68 | Rainbow77375 |
 | 300 | 68 | Melissa Snyder |

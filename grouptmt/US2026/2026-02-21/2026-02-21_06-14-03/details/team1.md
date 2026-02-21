@@ -87,8 +87,8 @@
 | 79 | 144 | Plucky Ziggy |
 | 80 | 144 | Tanya Carpenter-Reynolds |
 | 81 | 143 | Sarah Marie |
-| 82 | 141 | Blaire Bruckoff |
-| 83 | 141 | Susanna Guerry |
+| 82 | 141 | Susanna Guerry |
+| 83 | 141 | Blaire Bruckoff |
 | 84 | 138 | Gary Gobin |
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
@@ -111,8 +111,8 @@
 | 103 | 112 | Christina Graham |
 | 104 | 112 | Miguel Teixeira |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Garcia Bailey |
-| 107 | 110 | Heidi Feurer |
+| 106 | 110 | Heidi Feurer |
+| 107 | 110 | Garcia Bailey |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |

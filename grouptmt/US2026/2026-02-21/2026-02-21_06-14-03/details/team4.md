@@ -42,8 +42,8 @@
 | 34 | 277 | KJ Pool |
 | 35 | 274 | Elizabeth Sallas |
 | 36 | 265 | Livvy |
-| 37 | 256 | Dustin Robert |
-| 38 | 256 | Brittney Griggs |
+| 37 | 256 | Brittney Griggs |
+| 38 | 256 | Dustin Robert |
 | 39 | 244 | Isabella Blanco |
 | 40 | 232 | Julian Garcia |
 | 41 | 231 | Jenna Ingersoll |
@@ -90,8 +90,8 @@
 | 82 | 131 | Mr. Party |
 | 83 | 130 | Casey Jeffcoat |
 | 84 | 130 | Lucas J Sutton |
-| 85 | 129 | John Brunetti |
-| 86 | 129 | Landon Keith Graffeo |
+| 85 | 129 | Landon Keith Graffeo |
+| 86 | 129 | John Brunetti |
 | 87 | 126 | Tanner Lund |
 | 88 | 125 | Lauren Scott |
 | 89 | 123 | Bubbly Puzzler |
@@ -141,9 +141,9 @@
 | 133 | 92 | Kristin MacDonald |
 | 134 | 90 | Judy Cox |
 | 135 | 90 | No Strings Attached Ra |
-| 136 | 89 | Jeremy Steines |
+| 136 | 89 | Shainne Brewer |
 | 137 | 89 | Brandi Durig |
-| 138 | 89 | Shainne Brewer |
+| 138 | 89 | Jeremy Steines |
 | 139 | 88 | Kesha Brady |
 | 140 | 88 | Heather Tushner |
 | 141 | 87 | Jen Caldwell |

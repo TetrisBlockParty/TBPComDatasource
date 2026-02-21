@@ -86,8 +86,8 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Pacynthia Williams |
-| 82 | 658 | Vistabrat |
+| 81 | 658 | Vistabrat |
+| 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
 | 84 | 649 | Anna Edwards |
 | 85 | 649 | Stephanie Chapman |
@@ -158,8 +158,8 @@
 | 150 | 409 | Sparkles |
 | 151 | 406 | Erin StFrancis |
 | 152 | 401 | Poppy Snap |
-| 153 | 400 | Crystie Hicks |
-| 154 | 400 | Tammy Allen |
+| 153 | 400 | Tammy Allen |
+| 154 | 400 | Crystie Hicks |
 | 155 | 397 | Ashley Guernsey-Martin |
 | 156 | 395 | Ashley House |
 | 157 | 391 | Chilly Bridgepiece |
@@ -323,8 +323,8 @@
 | 315 | 216 | Tum |
 | 316 | 215 | Jordan Petro |
 | 317 | 213 | Rose Fx |
-| 318 | 212 | Amanda Canterbury |
-| 319 | 212 | BK Queen |
+| 318 | 212 | BK Queen |
+| 319 | 212 | Amanda Canterbury |
 | 320 | 212 | Aleasha M Brown |
 | 321 | 208 | Smashanator |
 | 322 | 208 | Mema |
