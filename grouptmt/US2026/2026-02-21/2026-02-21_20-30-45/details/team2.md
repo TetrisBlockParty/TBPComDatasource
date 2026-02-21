@@ -376,8 +376,8 @@
 | 368 | 357 | Shannon Byrd |
 | 369 | 356 | Adam Simmons |
 | 370 | 355 | Shandrica Lowe |
-| 371 | 354 | Darlene Bowman |
-| 372 | 354 | Lawanda Forbes |
+| 371 | 354 | Lawanda Forbes |
+| 372 | 354 | Darlene Bowman |
 | 373 | 354 | Rickey Johnson |
 | 374 | 353 | Cheery Matchzone |
 | 375 | 352 | Juanita Lyons |
@@ -408,13 +408,13 @@
 | 400 | 333 | Tra Barnum |
 | 401 | 333 | LordZophar |
 | 402 | 332 | Nicole Cannon |
-| 403 | 330 | Lucy Marshall |
-| 404 | 330 | CC |
+| 403 | 330 | CC |
+| 404 | 330 | Lucy Marshall |
 | 405 | 330 | Angela Lynn |
-| 406 | 329 | Jroc |
-| 407 | 329 | Chummy Blockbuilder |
-| 408 | 327 | Jean FU Jagielski |
-| 409 | 327 | Danielle Simmons |
+| 406 | 329 | Chummy Blockbuilder |
+| 407 | 329 | Jroc |
+| 408 | 327 | Danielle Simmons |
+| 409 | 327 | Jean FU Jagielski |
 | 410 | 327 | Kiana Boschh |
 | 411 | 326 | Denise Rickman |
 | 412 | 326 | Elisheva Mizrachi |
@@ -576,10 +576,10 @@
 | 568 | 240 | Kelly |
 | 569 | 240 | Brave Gridpiece |
 | 570 | 239 | Angelina Marie |
-| 571 | 237 | Kiorah Blaze |
-| 572 | 237 | Heather Piotrowski |
-| 573 | 237 | Breezy Tilt |
-| 574 | 237 | Ben Barkley |
+| 571 | 237 | Heather Piotrowski |
+| 572 | 237 | Kiorah Blaze |
+| 573 | 237 | Ben Barkley |
+| 574 | 237 | Breezy Tilt |
 | 575 | 236 | Angela Yantz |
 | 576 | 236 | Julio A Laracuente |
 | 577 | 235 | B-rad B-rad |
@@ -596,8 +596,8 @@
 | 588 | 232 | Tom Steffen |
 | 589 | 231 | Hong Tang |
 | 590 | 230 | Leslie Johnson Guinto |
-| 591 | 229 | Deidre Jenkins |
-| 592 | 229 | Heather Anspaugh |
+| 591 | 229 | Heather Anspaugh |
+| 592 | 229 | Deidre Jenkins |
 | 593 | 228 | Amanda Canterbury |
 | 594 | 228 | Samantha Angelo |
 | 595 | 227 | Venita Ray |

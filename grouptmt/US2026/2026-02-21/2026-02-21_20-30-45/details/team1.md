@@ -140,9 +140,9 @@
 | 132 | 170 | Veronica Eve |
 | 133 | 169 | Abbey Crespo |
 | 134 | 168 | Standia Civil |
-| 135 | 166 | Tana |
-| 136 | 166 | John Barron |
-| 137 | 166 | Rico Rico |
+| 135 | 166 | John Barron |
+| 136 | 166 | Rico Rico |
+| 137 | 166 | Tana |
 | 138 | 165 | Nadine Velardo |
 | 139 | 164 | Katie Daniels |
 | 140 | 163 | Tyler Whitley |

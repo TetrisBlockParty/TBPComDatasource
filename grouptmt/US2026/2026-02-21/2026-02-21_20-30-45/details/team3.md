@@ -220,11 +220,11 @@
 | 212 | 166 | Betty Rosas |
 | 213 | 166 | Kelly Ann Child |
 | 214 | 165 | Kali Kelz Williams |
-| 215 | 163 | Christine Trester |
-| 216 | 163 | Stephanie Hill |
+| 215 | 163 | Stephanie Hill |
+| 216 | 163 | Christine Trester |
 | 217 | 162 | Stephanie Whitefield |
-| 218 | 161 | Irene Arreguin |
-| 219 | 161 | BŘŰŤİÇŨŚ |
+| 218 | 161 | BŘŰŤİÇŨŚ |
+| 219 | 161 | Irene Arreguin |
 | 220 | 160 | Tiffany Davie |
 | 221 | 159 | Jone |
 | 222 | 157 | Patricia Gadsden |

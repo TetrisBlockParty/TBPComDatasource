@@ -202,8 +202,8 @@
 | 194 | 120 | Joshua Guess |
 | 195 | 120 | KayM |
 | 196 | 119 | Kristin Manee |
-| 197 | 119 | Judy Cox |
-| 198 | 119 | Gwendolyn Pitcairn |
+| 197 | 119 | Gwendolyn Pitcairn |
+| 198 | 119 | Judy Cox |
 | 199 | 118 | Mary Ann Pabukis |
 | 200 | 115 | Sam Middleton |
 | 201 | 115 | Nubian1 |
