@@ -92,8 +92,8 @@
 | 84 | 112 | Christina Graham |
 | 85 | 112 | Nicole Roseberry Weber |
 | 86 | 112 | Miguel Teixeira |
-| 87 | 110 | Heidi Feurer |
-| 88 | 110 | Garcia Bailey |
+| 87 | 110 | Garcia Bailey |
+| 88 | 110 | Heidi Feurer |
 | 89 | 108 | Tavia |
 | 90 | 107 | Jodee Woods |
 | 91 | 107 | Jacqueline Unique |
@@ -226,8 +226,8 @@
 | 218 | 50 | LaFontaine Leslie |
 | 219 | 49 | Hasty Columnbuilder |
 | 220 | 49 | Christy Jones |
-| 221 | 48 | Vivian Bush |
-| 222 | 48 | Zappy Pivoty |
+| 221 | 48 | Jonathan Vaval |
+| 222 | 48 | Vivian Bush |
 | 223 | 48 | TristansDad |
 | 224 | 48 | Zappy Pivoty |
 | 225 | 47 | Ruthie Mahoney Saunders-Browne |

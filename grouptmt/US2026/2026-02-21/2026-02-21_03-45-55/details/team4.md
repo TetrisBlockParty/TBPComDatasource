@@ -53,8 +53,8 @@
 | 45 | 163 | Mike Solo |
 | 46 | 155 | Valerie Roberts |
 | 47 | 153 | Jae Job |
-| 48 | 152 | Courtney Cicoria |
-| 49 | 152 | Denise Carlson |
+| 48 | 152 | Denise Carlson |
+| 49 | 152 | Courtney Cicoria |
 | 50 | 148 | Carter Jones |
 | 51 | 145 | Edward White |
 | 52 | 140 | Shannon Ferrari |

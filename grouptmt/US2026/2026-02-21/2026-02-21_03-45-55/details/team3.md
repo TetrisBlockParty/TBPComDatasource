@@ -241,7 +241,7 @@
 | 233 | 72 | Christian Luna |
 | 234 | 72 | Jess Reppert |
 | 235 | 71 | El Chapa |
-| 236 | 71 | LaKisha Legrone |
+| 236 | 71 | Snazzy Filler |
 | 237 | 71 | Gimmegimmebeer |
 | 238 | 71 | LaKisha Legrone |
 | 239 | 70 | Leticia Lynn Lowe |
