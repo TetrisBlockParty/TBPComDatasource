@@ -24,8 +24,8 @@
 | 16 | 619 | Devinlee Brown |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Valerie Roberts |
-| 20 | 590 | Dee Kay |
+| 19 | 590 | Dee Kay |
+| 20 | 590 | Valerie Roberts |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
@@ -123,8 +123,8 @@
 | 115 | 128 | Rio Rocha |
 | 116 | 126 | Dihcheese444 |
 | 117 | 125 | Lauren Scott |
-| 118 | 123 | Bubbly Puzzler |
-| 119 | 123 | TinyLegoRose |
+| 118 | 123 | TinyLegoRose |
+| 119 | 123 | Bubbly Puzzler |
 | 120 | 123 | Cherrish Duren |
 | 121 | 122 | Sherri |
 | 122 | 121 | Megan Cutshaw |
@@ -156,8 +156,8 @@
 | 148 | 104 | Damn Libra |
 | 149 | 104 | Avy Absol |
 | 150 | 103 | Judy Cox |
-| 151 | 102 | Faja |
-| 152 | 102 | ĥuf |
+| 151 | 102 | ĥuf |
+| 152 | 102 | Faja |
 | 153 | 101 | Saulc1991 |
 | 154 | 101 | Michelle Morris |
 | 155 | 100 | Alexandra Karavias |

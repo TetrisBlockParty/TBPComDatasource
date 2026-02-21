@@ -13,8 +13,8 @@
 | 5 | 4359 | Sean Dugar |
 | 6 | 3844 | 赵珞涵 |
 | 7 | 3719 | Cassie Donica |
-| 8 | 3567 | Rickey Goins Jr. |
-| 9 | 3567 | Taylana Mincy |
+| 8 | 3567 | Taylana Mincy |
+| 9 | 3567 | Rickey Goins Jr. |
 | 10 | 3460 | Poppy Snap |
 | 11 | 3457 | Nicole Rowley |
 | 12 | 3453 | Tiaira Patrice' |
@@ -119,8 +119,8 @@
 | 111 | 649 | Anna Edwards |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
-| 114 | 631 | Loopy Clusterbuilder |
-| 115 | 631 | Peppy Zone |
+| 114 | 631 | Peppy Zone |
+| 115 | 631 | Loopy Clusterbuilder |
 | 116 | 620 | BYM4L |
 | 117 | 619 | Jamie Otero |
 | 118 | 608 | Sommer Shope |
@@ -167,8 +167,8 @@
 | 159 | 495 | Poppy Snap |
 | 160 | 488 | Teresa Gillmore |
 | 161 | 486 | MrsCandyfine As Wine Truss |
-| 162 | 485 | Leah Keesling |
-| 163 | 485 | Gene Mills |
+| 162 | 485 | Gene Mills |
+| 163 | 485 | Leah Keesling |
 | 164 | 484 | Suki Kaur |
 | 165 | 483 | Jordan Kaiser |
 | 166 | 482 | Eckoman518 |
@@ -1100,7 +1100,7 @@
 | 1092 | 85 | Shaun Barnhart |
 | 1093 | 84 | Jason Vance |
 | 1094 | 84 | Jes Norris |
-| 1095 | 84 | Ahtavia Watkins |
+| 1095 | 84 | Major Pain |
 | 1096 | 84 | Anne White |
 | 1097 | 84 | Ahtavia Watkins |
 | 1098 | 84 | Jessica Coleman |

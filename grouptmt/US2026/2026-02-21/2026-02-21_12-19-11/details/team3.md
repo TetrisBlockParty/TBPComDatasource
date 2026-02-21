@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -44,12 +44,12 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Danielle Becker |
-| 40 | 587 | Suzieq |
+| 39 | 587 | Suzieq |
+| 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -74,8 +74,8 @@
 | 66 | 372 | Patty Allen |
 | 67 | 371 | Jesse Olive |
 | 68 | 370 | yoyo |
-| 69 | 362 | Mendoza Lee Christy |
-| 70 | 362 | Liv Whetson |
+| 69 | 362 | Liv Whetson |
+| 70 | 362 | Mendoza Lee Christy |
 | 71 | 360 | Ebony West-Cundiff |
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -217,8 +217,8 @@
 | 209 | 115 | Jennifer Alvey |
 | 210 | 115 | Hoppy Buildout |
 | 211 | 114 | Jessica Bechler |
-| 212 | 113 | Brian Battjes |
-| 213 | 113 | Valerie Gendron |
+| 212 | 113 | Valerie Gendron |
+| 213 | 113 | Brian Battjes |
 | 214 | 111 | Stephanie Zahm |
 | 215 | 110 | Danielle Weikel |
 | 216 | 110 | Stella |
