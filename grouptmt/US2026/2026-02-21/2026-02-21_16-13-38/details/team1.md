@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Jennifer ManWarren |
-| 119 | 149 | Arianna O'Brien |
+| 118 | 149 | Arianna O'Brien |
+| 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
 | 121 | 146 | Dandy Basegrid |
 | 122 | 146 | Irual Hctrab |
@@ -226,11 +226,11 @@
 | 218 | 87 | Jenny Gingrich Fuentes |
 | 219 | 86 | Basment Living |
 | 220 | 85 | John Barron |
-| 221 | 84 | Eddie Dillon |
-| 222 | 84 | Rachel Nichole Henry |
+| 221 | 84 | Rachel Nichole Henry |
+| 222 | 84 | Eddie Dillon |
 | 223 | 83 | FableGray |
-| 224 | 83 | Bob |
-| 225 | 83 | Daring Fitclear |
+| 224 | 83 | Daring Fitclear |
+| 225 | 83 | Bob |
 | 226 | 83 | Layzietyme |
 | 227 | 82 | Sarah Lombardo |
 | 228 | 81 | Archie Ware |

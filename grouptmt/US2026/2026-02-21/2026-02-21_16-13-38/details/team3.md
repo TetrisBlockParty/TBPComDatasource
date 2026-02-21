@@ -155,12 +155,12 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Staci George Fitzsimmons |
-| 155 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Staci George Fitzsimmons |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -193,15 +193,15 @@
 | 185 | 160 | Tiffany Davie |
 | 186 | 159 | Jone |
 | 187 | 158 | Grams |
-| 188 | 157 | Patricia Gadsden |
-| 189 | 157 | Nicholas Roddy |
+| 188 | 157 | Nicholas Roddy |
+| 189 | 157 | Patricia Gadsden |
 | 190 | 156 | Bea Miles |
 | 191 | 153 | Beth Ingham |
 | 192 | 152 | Shiny Zonebuilder |
 | 193 | 152 | Katrina E Jelks |
 | 194 | 152 | Cozy Snaplink |
-| 195 | 151 | Brenda Lee Vander Molen |
-| 196 | 151 | MsBee |
+| 195 | 151 | MsBee |
+| 196 | 151 | Brenda Lee Vander Molen |
 | 197 | 151 | Loopy Fallzone |
 | 198 | 151 | Connie Mohler-Fair |
 | 199 | 150 | Nicole Myers |
@@ -320,12 +320,12 @@
 | 312 | 96 | Christopher Woost |
 | 313 | 95 | Brooke Bauer |
 | 314 | 94 | Tracey Cox |
-| 315 | 94 | Amber Groover Taylor |
-| 316 | 94 | Nichole Greene |
+| 315 | 94 | Nichole Greene |
+| 316 | 94 | Amber Groover Taylor |
 | 317 | 93 | Tiffany Ford |
 | 318 | 93 | Angela Scott |
-| 319 | 93 | Martin Bernier |
-| 320 | 93 | Kevin Russell |
+| 319 | 93 | Kevin Russell |
+| 320 | 93 | Martin Bernier |
 | 321 | 92 | Ava Petito |
 | 322 | 92 | Jennifer Caputo |
 | 323 | 92 | Jackie-Lynne Goertzen |
@@ -365,8 +365,8 @@
 | 357 | 82 | Moimyzean |
 | 358 | 82 | lema ean |
 | 359 | 81 | Joseph Vargas |
-| 360 | 81 | Tammy Rosenberry |
-| 361 | 81 | Katheline Lazo Luizaga |
+| 360 | 81 | Katheline Lazo Luizaga |
+| 361 | 81 | Tammy Rosenberry |
 | 362 | 80 | Josh Borquez |
 | 363 | 80 | Vixen Queen |
 | 364 | 80 | Me,Him,Yu |

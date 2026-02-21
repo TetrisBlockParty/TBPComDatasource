@@ -291,8 +291,8 @@
 | 283 | 357 | Julie Kresal |
 | 284 | 355 | Shandrica Lowe |
 | 285 | 355 | Kristen O'Neal |
-| 286 | 354 | Tracy Wise |
-| 287 | 354 | Brave Dropmatch |
+| 286 | 354 | Brave Dropmatch |
+| 287 | 354 | Tracy Wise |
 | 288 | 353 | Cheery Matchzone |
 | 289 | 352 | Juanita Lyons |
 | 290 | 352 | ruth |
@@ -718,8 +718,8 @@
 | 710 | 149 | Boldy Cascadepiece |
 | 711 | 149 | Ryan Kluck |
 | 712 | 148 | Diona Burns |
-| 713 | 148 | Shavonna Haynes |
-| 714 | 148 | JessieP123 |
+| 713 | 148 | JessieP123 |
+| 714 | 148 | Shavonna Haynes |
 | 715 | 147 | Lush Link |
 | 716 | 147 | Chirpy Tilt |
 | 717 | 147 | Sassy Pivot |

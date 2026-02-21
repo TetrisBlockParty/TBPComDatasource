@@ -131,8 +131,8 @@
 | 123 | 144 | Shainne Brewer |
 | 124 | 143 | Nugget |
 | 125 | 141 | Malakai Darien Fox |
-| 126 | 140 | Shannon Ferrari |
-| 127 | 140 | Jenna McGeorge |
+| 126 | 140 | Jenna McGeorge |
+| 127 | 140 | Shannon Ferrari |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
 | 130 | 136 | Serena Goodridge |
@@ -160,8 +160,8 @@
 | 152 | 121 | Zany Shatterer |
 | 153 | 121 | Smiley Tiltbuilder |
 | 154 | 120 | Joshua Guess |
-| 155 | 119 | Gwendolyn Pitcairn |
-| 156 | 119 | Kristin Manee |
+| 155 | 119 | Kristin Manee |
+| 156 | 119 | Gwendolyn Pitcairn |
 | 157 | 116 | Diana Houts |
 | 158 | 115 | Jayk |
 | 159 | 115 | Ultramarine |
