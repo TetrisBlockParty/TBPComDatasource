@@ -196,8 +196,8 @@
 | 188 | 511 | Ramone Armstrong |
 | 189 | 511 | Dizzy Zone |
 | 190 | 511 | Laura Mclean |
-| 191 | 510 | Cheech Dta |
-| 192 | 510 | Lisa Ongtowasruk |
+| 191 | 510 | Lisa Ongtowasruk |
+| 192 | 510 | Cheech Dta |
 | 193 | 509 | Kelli Wells |
 | 194 | 509 | Ariel |
 | 195 | 504 | Cherica Taylor |
@@ -367,9 +367,9 @@
 | 359 | 297 | Peachy Blockbuilder |
 | 360 | 296 | Jennifer Darby |
 | 361 | 296 | AISlop |
-| 362 | 296 | Amber Gray |
-| 363 | 296 | Heather Schelkopf |
-| 364 | 296 | Jennifer Casey-Kay |
+| 362 | 296 | Heather Schelkopf |
+| 363 | 296 | Jennifer Casey-Kay |
+| 364 | 296 | Amber Gray |
 | 365 | 295 | Melissa Kay Gibson |
 | 366 | 295 | Noel Tarmy |
 | 367 | 294 | Frisky Riserbuilder |

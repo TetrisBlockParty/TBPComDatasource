@@ -119,8 +119,8 @@
 | 111 | 284 | Jay Horn |
 | 112 | 277 | Logan Naccarato |
 | 113 | 267 | Rufus Lincoln |
-| 114 | 263 | Angeline Joseph |
-| 115 | 263 | mjl574 |
+| 114 | 263 | mjl574 |
+| 115 | 263 | Angeline Joseph |
 | 116 | 262 | Joe-Maggie Mathews |
 | 117 | 259 | Louise Stacy Sisson |
 | 118 | 259 | opf |
@@ -147,8 +147,8 @@
 | 139 | 212 | Aaron Pitkin |
 | 140 | 211 | Katrina Schroeder |
 | 141 | 210 | Jenny Hrndz |
-| 142 | 207 | rnr junky |
-| 143 | 207 | Chris Bell |
+| 142 | 207 | Chris Bell |
+| 143 | 207 | rnr junky |
 | 144 | 206 | Chasity |
 | 145 | 203 | Twisty Brick LT |
 | 146 | 199 | joclisa |
@@ -205,8 +205,8 @@
 | 197 | 151 | Brenda Lee Vander Molen |
 | 198 | 151 | MsBee |
 | 199 | 151 | Loopy Fallzone |
-| 200 | 150 | Nicole Myers |
-| 201 | 150 | Valerie Gendron |
+| 200 | 150 | Valerie Gendron |
+| 201 | 150 | Nicole Myers |
 | 202 | 150 | Desiree Gold |
 | 203 | 149 | Angel Mendez |
 | 204 | 149 | Alexis Taylor |
@@ -377,8 +377,8 @@
 | 369 | 80 | Vixen Queen |
 | 370 | 80 | Me,Him,Yu |
 | 371 | 79 | Bleu Sun Beams |
-| 372 | 79 | Jessie Chung |
-| 373 | 79 | Brittany K Ward |
+| 372 | 79 | Brittany K Ward |
+| 373 | 79 | Jessie Chung |
 | 374 | 78 | Nena Somerville Kelly |
 | 375 | 78 | Clever Patterner |
 | 376 | 78 | Myriam Lapierre |

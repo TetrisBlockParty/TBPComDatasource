@@ -72,8 +72,8 @@
 | 64 | 279 | Lauren Scott |
 | 65 | 277 | KJ Pool |
 | 66 | 274 | Elizabeth Sallas |
-| 67 | 269 | Desi Desporte |
-| 68 | 269 | KM8 |
+| 67 | 269 | KM8 |
+| 68 | 269 | Desi Desporte |
 | 69 | 256 | Brittney Griggs |
 | 70 | 252 | Bubbly Puzzler |
 | 71 | 247 | Isabella Blanco |
@@ -181,9 +181,9 @@
 | 173 | 107 | Rafael Valentin |
 | 174 | 107 | Marcus Todd |
 | 175 | 106 | Avy Absol |
-| 176 | 105 | Kristin MacDonald |
-| 177 | 105 | TheNeesh50 |
-| 178 | 105 | 🥔🥔 Spudz |
+| 176 | 105 | TheNeesh50 |
+| 177 | 105 | 🥔🥔 Spudz |
+| 178 | 105 | Kristin MacDonald |
 | 179 | 104 | Damn Libra |
 | 180 | 103 | Judy Cox |
 | 181 | 103 | April Rondinone |

@@ -149,9 +149,9 @@
 | 141 | 135 | Cody Slav |
 | 142 | 134 | Trina Gee |
 | 143 | 133 | Breanna Luna |
-| 144 | 132 | Cody Gates |
+| 144 | 132 | Davery Spencer Adair |
 | 145 | 132 | LaQuetta Faith Hines |
-| 146 | 132 | Davery Spencer Adair |
+| 146 | 132 | Cody Gates |
 | 147 | 131 | Uhog SF |
 | 148 | 131 | Kimberly Garcia |
 | 149 | 130 | LD1 |
@@ -161,8 +161,8 @@
 | 153 | 127 | Brave Wrecker |
 | 154 | 127 | Aimee Horton |
 | 155 | 126 | Nerdy Linkblock |
-| 156 | 124 | Cartier |
-| 157 | 124 | Flashy Rotator |
+| 156 | 124 | Flashy Rotator |
+| 157 | 124 | Cartier |
 | 158 | 122 | Melissa Lemmon |
 | 159 | 121 | April Carroll |
 | 160 | 121 | Tipsy Riseclear |
