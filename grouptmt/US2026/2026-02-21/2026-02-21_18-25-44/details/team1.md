@@ -156,9 +156,9 @@
 | 148 | 142 | Colleen Wise |
 | 149 | 141 | Blaire Bruckoff |
 | 150 | 140 | Miguel Teixeira |
-| 151 | 138 | Death |
+| 151 | 138 | Trina Gee |
 | 152 | 138 | Cranky Pattern |
-| 153 | 138 | Trina Gee |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Cody Slav |
@@ -184,8 +184,8 @@
 | 176 | 122 | Margo Wagner |
 | 177 | 122 | Melissa Lemmon |
 | 178 | 121 | April Carroll |
-| 179 | 120 | Kimmie Kimms |
-| 180 | 120 | Alenoush Karimian |
+| 179 | 120 | Alenoush Karimian |
+| 180 | 120 | Kimmie Kimms |
 | 181 | 119 | Tater |
 | 182 | 116 | Jessica Russell |
 | 183 | 115 | Mrs.Patrica |
@@ -206,9 +206,9 @@
 | 198 | 108 | Dizzy Party |
 | 199 | 108 | Melissa Bires Hussar |
 | 200 | 107 | Jodee Woods |
-| 201 | 106 | Bloknboy |
-| 202 | 106 | Alyssa Ingram |
-| 203 | 106 | Chantelle Ceno |
+| 201 | 106 | Chantelle Ceno |
+| 202 | 106 | Bloknboy |
+| 203 | 106 | Alyssa Ingram |
 | 204 | 105 | Fmp |
 | 205 | 105 | Ty Brown |
 | 206 | 105 | Funky Piecebuilder |
