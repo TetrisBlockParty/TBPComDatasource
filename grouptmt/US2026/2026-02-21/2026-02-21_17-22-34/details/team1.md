@@ -30,15 +30,15 @@
 | 22 | 618 | Amanda Summey Schoemer |
 | 23 | 547 | Marianne Louise West |
 | 24 | 543 | Aaron Garnett |
-| 25 | 541 | Jorge Andrade |
-| 26 | 541 | Drew Magnus |
+| 25 | 541 | Drew Magnus |
+| 26 | 541 | Jorge Andrade |
 | 27 | 521 | Hyp James NObettadanluvarat |
 | 28 | 517 | Felicia Lewis |
 | 29 | 516 | comrade fish |
 | 30 | 511 | Jen Sartain |
 | 31 | 510 | Colena Davenport |
-| 32 | 508 | Lawrence Belanger |
-| 33 | 508 | Michelle Nicole |
+| 32 | 508 | Michelle Nicole |
+| 33 | 508 | Lawrence Belanger |
 | 34 | 486 | Sevens4L |
 | 35 | 483 | Ryan Lunnin |
 | 36 | 482 | Mara Hilker |
@@ -83,8 +83,8 @@
 | 75 | 226 | Sharon Reynolds |
 | 76 | 222 | Kristen Gideon |
 | 77 | 217 | Deanna L Hermanson |
-| 78 | 213 | Lexuriuos Lifestlye |
-| 79 | 213 | Billie Dawn Sparks |
+| 78 | 213 | Billie Dawn Sparks |
+| 79 | 213 | Lexuriuos Lifestlye |
 | 80 | 212 | Mandyy Rae |
 | 81 | 212 | Jaimie Lynn |
 | 82 | 211 | Marianita Garcia |
@@ -120,8 +120,8 @@
 | 112 | 166 | Rico Rico |
 | 113 | 165 | GATOR |
 | 114 | 165 | Veronica Eve |
-| 115 | 163 | Kellie |
-| 116 | 163 | Tyler Whitley |
+| 115 | 163 | Tyler Whitley |
+| 116 | 163 | Kellie |
 | 117 | 162 | Timothy Dew |
 | 118 | 158 | Tanya Carpenter-Reynolds |
 | 119 | 156 | Jessie Lynn |
@@ -149,8 +149,8 @@
 | 141 | 138 | Cranky Pattern |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Cody Slav |
-| 145 | 135 | Giddy Cascade |
+| 144 | 135 | Giddy Cascade |
+| 145 | 135 | Cody Slav |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Davery Spencer Adair |
@@ -180,8 +180,8 @@
 | 172 | 119 | Tater |
 | 173 | 116 | Jessica Russell |
 | 174 | 116 | Evie Khalil |
-| 175 | 115 | Chuck Gannon |
-| 176 | 115 | Mrs.Patrica |
+| 175 | 115 | Mrs.Patrica |
+| 176 | 115 | Chuck Gannon |
 | 177 | 113 | Desiree Deschaine Havee |
 | 178 | 112 | pjbeta |
 | 179 | 112 | Chris65 |

@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | James Simms III |
-| 108 | 789 | Stephanie Chapman |
+| 107 | 789 | Stephanie Chapman |
+| 108 | 789 | James Simms III |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -230,8 +230,8 @@
 | 222 | 469 | Ashley Rose Frederick |
 | 223 | 467 | Scott Treadway |
 | 224 | 465 | Drwatson187 |
-| 225 | 464 | Nett |
-| 226 | 464 | Ryan Gunther |
+| 225 | 464 | Ryan Gunther |
+| 226 | 464 | Nett |
 | 227 | 463 | Sue Leard |
 | 228 | 461 | Jánine Riggs |
 | 229 | 460 | Cody Smith-Candelaria |
@@ -363,8 +363,8 @@
 | 355 | 317 | Bussyiano Page |
 | 356 | 316 | Oscar Bernie |
 | 357 | 314 | Amanda West |
-| 358 | 312 | Michelle Pike |
-| 359 | 312 | Andrea Maher |
+| 358 | 312 | Andrea Maher |
+| 359 | 312 | Michelle Pike |
 | 360 | 310 | Kristopher Miller |
 | 361 | 309 | Catina Hutchison |
 | 362 | 309 | James Zaragoza |
@@ -387,8 +387,8 @@
 | 379 | 296 | Amber Gray |
 | 380 | 296 | Jennifer Casey-Kay |
 | 381 | 296 | Jennifer Darby |
-| 382 | 295 | Autumn Schaeffer |
-| 383 | 295 | Noel Tarmy |
+| 382 | 295 | Noel Tarmy |
+| 383 | 295 | Autumn Schaeffer |
 | 384 | 294 | Frisky Riserbuilder |
 | 385 | 294 | Barbra Miller |
 | 386 | 290 | Sabrina Burton |

@@ -195,16 +195,16 @@
 | 187 | 166 | Betty Rosas |
 | 188 | 166 | Kelly Ann Child |
 | 189 | 165 | Kali Kelz Williams |
-| 190 | 163 | Stephanie Hill |
-| 191 | 163 | Christine Trester |
+| 190 | 163 | Christine Trester |
+| 191 | 163 | Stephanie Hill |
 | 192 | 162 | Stephanie Whitefield |
 | 193 | 161 | BŘŰŤİÇŨŚ |
 | 194 | 160 | Tiffany Davie |
 | 195 | 159 | Jone |
 | 196 | 158 | Grams |
 | 197 | 157 | Marquita Sheard |
-| 198 | 157 | Nicholas Roddy |
-| 199 | 157 | Patricia Gadsden |
+| 198 | 157 | Patricia Gadsden |
+| 199 | 157 | Nicholas Roddy |
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
@@ -228,11 +228,11 @@
 | 220 | 145 | Emma |
 | 221 | 145 | Bryan Byrd |
 | 222 | 142 | Jl |
-| 223 | 142 | David Bardo |
-| 224 | 142 | Erica Anderson |
+| 223 | 142 | Erica Anderson |
+| 224 | 142 | David Bardo |
 | 225 | 138 | Boldy Corner |
-| 226 | 137 | Joy Petroski |
-| 227 | 137 | Cheryl Hinch Tenbrook |
+| 226 | 137 | Cheryl Hinch Tenbrook |
+| 227 | 137 | Joy Petroski |
 | 228 | 135 | Erykah |
 | 229 | 134 | Skinny Baldez |
 | 230 | 133 | LaNette Morgan |
@@ -286,11 +286,11 @@
 | 278 | 109 | Diana Ibarra |
 | 279 | 108 | LaTanya GeminiondaRise Johnson |
 | 280 | 108 | Hanna Kim |
-| 281 | 107 | Jumpy Wrecker |
-| 282 | 107 | Melissa Snyder |
+| 281 | 107 | Melissa Snyder |
+| 282 | 107 | Jumpy Wrecker |
 | 283 | 107 | Bouncy Blockbuilder |
-| 284 | 106 | Troy |
-| 285 | 106 | Cheeky Snapper |
+| 284 | 106 | Cheeky Snapper |
+| 285 | 106 | Troy |
 | 286 | 106 | Noettín Kan Zasnemoore |
 | 287 | 105 | Donna |
 | 288 | 105 | Boldy Blocker |
