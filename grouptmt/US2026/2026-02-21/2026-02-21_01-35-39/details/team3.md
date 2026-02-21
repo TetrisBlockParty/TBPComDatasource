@@ -110,8 +110,8 @@
 | 102 | 118 | Fancy Curver |
 | 103 | 118 | Bea Miles |
 | 104 | 113 | Jennifer Alvey |
-| 105 | 112 | Jimmie Clemons |
-| 106 | 112 | Connie Mohler-Fair |
+| 105 | 112 | Connie Mohler-Fair |
+| 106 | 112 | Jimmie Clemons |
 | 107 | 111 | Joy Petroski |
 | 108 | 110 | Stella |
 | 109 | 110 | Tiff Vs Tiffany |
@@ -132,7 +132,7 @@
 | 124 | 99 | Lys |
 | 125 | 98 | Armi |
 | 126 | 98 | Ryan Williams |
-| 127 | 98 | Armi |
+| 127 | 98 | Jocelyne Baca |
 | 128 | 96 | D3NO |
 | 129 | 96 | Sherry Ogden |
 | 130 | 95 | Demetrious Shaw Sr. |

@@ -75,9 +75,9 @@
 | 67 | 108 | Tavia |
 | 68 | 105 | Barry Mac'Ockner |
 | 69 | 104 | Robert Beck |
-| 70 | 100 | Ash Galvan |
-| 71 | 100 | comrade fish |
-| 72 | 100 | Uhog SF |
+| 70 | 100 | Uhog SF |
+| 71 | 100 | Ash Galvan |
+| 72 | 100 | comrade fish |
 | 73 | 99 | Josie Kirt |
 | 74 | 98 | Flashy Rotator |
 | 75 | 96 | Nery Martinez |
@@ -110,8 +110,8 @@
 | 102 | 75 | Fresno Beotoni |
 | 103 | 75 | Tyler L Hunt |
 | 104 | 74 | Grace Joanne Agnant |
-| 105 | 73 | Loony Fitzone |
-| 106 | 73 | Witty Builderfit |
+| 105 | 73 | Witty Builderfit |
+| 106 | 73 | Loony Fitzone |
 | 107 | 72 | Tipsy Strikerpiece |
 | 108 | 71 | John Kim |
 | 109 | 69 | Christina Torres |
