@@ -250,8 +250,8 @@
 | 242 | 240 | Angie Marie |
 | 243 | 240 | Johnny Yeates |
 | 244 | 239 | Tee Jaleesa |
-| 245 | 238 | Cheery Matchzone |
-| 246 | 238 | Cheech Dta |
+| 245 | 238 | Cheech Dta |
+| 246 | 238 | Cheery Matchzone |
 | 247 | 237 | Altamirano Michael |
 | 248 | 236 | Frisky Riserbuilder |
 | 249 | 234 | SwampRebel |
@@ -331,8 +331,8 @@
 | 323 | 176 | Jessica Kaye DeAguero |
 | 324 | 176 | Trisha Gallagher |
 | 325 | 176 | Nancy Pohlman |
-| 326 | 175 | Tina Blessed Cage |
-| 327 | 175 | Shandrica Lowe |
+| 326 | 175 | Shandrica Lowe |
+| 327 | 175 | Tina Blessed Cage |
 | 328 | 174 | Jason Garnatz |
 | 329 | 173 | Wakanda Forever |
 | 330 | 172 | Joshua Mullings |

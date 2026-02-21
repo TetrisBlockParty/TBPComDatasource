@@ -57,8 +57,8 @@
 | 49 | 362 | Liv Whetson |
 | 50 | 360 | Ebony West-Cundiff |
 | 51 | 351 | Calista Jo Dickson |
-| 52 | 342 | Trezure Gonzalez |
-| 53 | 342 | Annie Déè |
+| 52 | 342 | Annie Déè |
+| 53 | 342 | Trezure Gonzalez |
 | 54 | 338 | Danielle Rhoades |
 | 55 | 337 | Silly Twist |
 | 56 | 325 | Shari Garber |
@@ -117,8 +117,8 @@
 | 109 | 140 | Jay Horn |
 | 110 | 138 | Gumbo |
 | 111 | 135 | Nicole Flippo |
-| 112 | 134 | DanceLuvLaugh |
-| 113 | 134 | BŘŰŤİÇŨŚ |
+| 112 | 134 | BŘŰŤİÇŨŚ |
+| 113 | 134 | DanceLuvLaugh |
 | 114 | 131 | Emma |
 | 115 | 130 | Grams |
 | 116 | 129 | Giddy Twistbuilder |

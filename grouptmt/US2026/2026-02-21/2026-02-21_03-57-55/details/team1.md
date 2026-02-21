@@ -157,8 +157,8 @@
 | 149 | 71 | Brandi Egbert |
 | 150 | 70 | Seth Wesson |
 | 151 | 70 | Daring Fitclear |
-| 152 | 69 | Tipsy Riseclear |
-| 153 | 69 | Christina Torres |
+| 152 | 69 | Christina Torres |
+| 153 | 69 | Tipsy Riseclear |
 | 154 | 67 | Mitchel White |
 | 155 | 66 | Angela Fairbank |
 | 156 | 65 | Jennifer Olewnik Soborowski |
