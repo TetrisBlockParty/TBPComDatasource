@@ -62,8 +62,8 @@
 | 54 | 341 | Clarence Patawaran |
 | 55 | 309 | Lisa Davis |
 | 56 | 308 | Jen Allison |
-| 57 | 300 | David Lay |
-| 58 | 300 | Jason Hart |
+| 57 | 300 | Jason Hart |
+| 58 | 300 | David Lay |
 | 59 | 299 | Livvy |
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
@@ -115,9 +115,9 @@
 | 107 | 168 | Shauna Havard |
 | 108 | 167 | Denise Carlson |
 | 109 | 164 | ThaEviLJeNiuZ |
-| 110 | 160 | ZeeZee |
-| 111 | 160 | Stacey Stano |
-| 112 | 160 | Crystal Carroll |
+| 110 | 160 | Crystal Carroll |
+| 111 | 160 | ZeeZee |
+| 112 | 160 | Stacey Stano |
 | 113 | 157 | quicksand420 |
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
@@ -139,8 +139,8 @@
 | 131 | 140 | Jenna McGeorge |
 | 132 | 140 | Shannon Ferrari |
 | 133 | 137 | PeaceOs |
-| 134 | 136 | Serena Goodridge |
-| 135 | 136 | Tanner Lund |
+| 134 | 136 | Tanner Lund |
+| 135 | 136 | Serena Goodridge |
 | 136 | 135 | ĥuf |
 | 137 | 134 | Chirpy Basepiece |
 | 138 | 132 | Melissa Priest Sellers |

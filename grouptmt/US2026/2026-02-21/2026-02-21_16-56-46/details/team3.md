@@ -151,8 +151,8 @@
 | 143 | 212 | Shunta Jacobs |
 | 144 | 211 | Katrina Schroeder |
 | 145 | 210 | Jenny Hrndz |
-| 146 | 207 | rnr junky |
-| 147 | 207 | Chris Bell |
+| 146 | 207 | Chris Bell |
+| 147 | 207 | rnr junky |
 | 148 | 203 | Twisty Brick LT |
 | 149 | 197 | Ashley Tookes |
 | 150 | 195 | Nicha Hooker |
@@ -169,8 +169,8 @@
 | 161 | 188 | Angie Harper |
 | 162 | 184 | Rebel124 |
 | 163 | 182 | Hyper Matchzone |
-| 164 | 181 | Aerian Preston |
-| 165 | 181 | Karon Griffin |
+| 164 | 181 | Karon Griffin |
+| 165 | 181 | Aerian Preston |
 | 166 | 179 | Joye Sims Binion |
 | 167 | 179 | Daira Largen |
 | 168 | 179 | Ashley Jones |
@@ -194,8 +194,8 @@
 | 186 | 162 | Stephanie Whitefield |
 | 187 | 161 | BŘŰŤİÇŨŚ |
 | 188 | 161 | Nikki Pags |
-| 189 | 160 | Adrian Marcel Pate |
-| 190 | 160 | Tiffany Davie |
+| 189 | 160 | Tiffany Davie |
+| 190 | 160 | Adrian Marcel Pate |
 | 191 | 159 | Jone |
 | 192 | 158 | Grams |
 | 193 | 157 | Nicholas Roddy |
@@ -296,10 +296,10 @@
 | 288 | 104 | Sarah Moyer |
 | 289 | 103 | Lisa Lisa |
 | 290 | 103 | Kate Farok |
-| 291 | 103 | Wetwet |
-| 292 | 103 | Andrew Thorson |
-| 293 | 102 | Criss |
-| 294 | 102 | Christian Luna |
+| 291 | 103 | Andrew Thorson |
+| 292 | 103 | Wetwet |
+| 293 | 102 | Christian Luna |
+| 294 | 102 | Criss |
 | 295 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 296 | 101 | Hyper Bridger |
 | 297 | 100 | Edwin Calvillo Jr. |
@@ -377,8 +377,8 @@
 | 369 | 82 | lema ean |
 | 370 | 81 | Joseph Vargas |
 | 371 | 81 | Katheline Lazo Luizaga |
-| 372 | 80 | Josh Borquez |
-| 373 | 80 | Vixen Queen |
+| 372 | 80 | Vixen Queen |
+| 373 | 80 | Josh Borquez |
 | 374 | 80 | Me,Him,Yu |
 | 375 | 79 | Bleu Sun Beams |
 | 376 | 79 | Jessie Chung |

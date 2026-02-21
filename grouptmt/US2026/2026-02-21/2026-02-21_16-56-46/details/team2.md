@@ -164,8 +164,8 @@
 | 156 | 602 | L3sli3 |
 | 157 | 596 | Thomas Hughes |
 | 158 | 592 | Ashle Scranton |
-| 159 | 591 | Alisha |
-| 160 | 591 | Rebecca Doughman |
+| 159 | 591 | Rebecca Doughman |
+| 160 | 591 | Alisha |
 | 161 | 589 | Erica Williams |
 | 162 | 583 | Jessicah Myers |
 | 163 | 580 | Steve Grotto |
@@ -266,8 +266,8 @@
 | 258 | 396 | Stefanie Zonzini-Gagliardi |
 | 259 | 393 | Taylor Flowers |
 | 260 | 393 | Altamirano Michael |
-| 261 | 391 | Brenda Utphall |
-| 262 | 391 | Chilly Bridgepiece |
+| 261 | 391 | Chilly Bridgepiece |
+| 262 | 391 | Brenda Utphall |
 | 263 | 391 | Qiana Sanders |
 | 264 | 390 | Kimberly Randesi |
 | 265 | 386 | Macy Williams |
@@ -393,8 +393,8 @@
 | 385 | 283 | Byung Bae Park |
 | 386 | 282 | Shaun Church |
 | 387 | 282 | Carl Bradshaw |
-| 388 | 281 | Justin Hines |
-| 389 | 281 | Ellie Jonas |
+| 388 | 281 | Ellie Jonas |
+| 389 | 281 | Justin Hines |
 | 390 | 280 | Shorty |
 | 391 | 280 | Laquetta Royston |
 | 392 | 280 | SwampRebel |
@@ -485,8 +485,8 @@
 | 477 | 233 | Daring Matchfit |
 | 478 | 232 | Amber Brion |
 | 479 | 231 | Hong Tang |
-| 480 | 231 | Peppy Snapfall |
-| 481 | 231 | Dylan Thomason |
+| 480 | 231 | Dylan Thomason |
+| 481 | 231 | Peppy Snapfall |
 | 482 | 231 | Brave Gridpiece |
 | 483 | 230 | Leslie Johnson Guinto |
 | 484 | 229 | Deidre Jenkins |
