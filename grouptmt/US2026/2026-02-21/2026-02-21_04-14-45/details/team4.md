@@ -46,8 +46,8 @@
 | 38 | 205 | Sarah Neathery |
 | 39 | 198 | Mike Solo |
 | 40 | 197 | Autum Leigh |
-| 41 | 194 | Rachel Anne |
-| 42 | 194 | Jamie Mann-Deichmann |
+| 41 | 194 | Jamie Mann-Deichmann |
+| 42 | 194 | Rachel Anne |
 | 43 | 190 | Brittney Orengo |
 | 44 | 185 | loulou |
 | 45 | 179 | Epic Curvetile |
@@ -152,7 +152,7 @@
 | 144 | 73 | bloat princess |
 | 145 | 73 | April Rondinone |
 | 146 | 72 | Joshua Cuellar |
-| 147 | 71 | Joseph Pace |
+| 147 | 71 | Justin Hannigan |
 | 148 | 71 | Lindsey Gonzalez |
 | 149 | 71 | Joseph Pace |
 | 150 | 70 | Richard-April Kice |

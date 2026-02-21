@@ -141,8 +141,8 @@
 | 133 | 409 | Sparkles |
 | 134 | 401 | Poppy Snap |
 | 135 | 400 | Crystie Hicks |
-| 136 | 397 | Destiny Cozier |
-| 137 | 397 | Ashley Guernsey-Martin |
+| 136 | 397 | Ashley Guernsey-Martin |
+| 137 | 397 | Destiny Cozier |
 | 138 | 394 | Tammy Allen |
 | 139 | 391 | Chilly Bridgepiece |
 | 140 | 390 | Dustin Rains |
@@ -295,8 +295,8 @@
 | 287 | 205 | Lylymom |
 | 288 | 204 | Ali Gralski |
 | 289 | 204 | Rebecca Doughman |
-| 290 | 203 | coleksquad |
-| 291 | 203 | Gary Stash |
+| 290 | 203 | Gary Stash |
+| 291 | 203 | coleksquad |
 | 292 | 202 | Christina Ashley |
 | 293 | 200 | Cheeky Brickmatch |
 | 294 | 200 | Sarah Ridenour |

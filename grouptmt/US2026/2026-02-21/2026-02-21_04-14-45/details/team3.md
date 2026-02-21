@@ -58,8 +58,8 @@
 | 50 | 362 | Liv Whetson |
 | 51 | 360 | Ebony West-Cundiff |
 | 52 | 351 | Calista Jo Dickson |
-| 53 | 342 | Annie Déè |
-| 54 | 342 | Trezure Gonzalez |
+| 53 | 342 | Trezure Gonzalez |
+| 54 | 342 | Annie Déè |
 | 55 | 338 | Danielle Rhoades |
 | 56 | 337 | Silly Twist |
 | 57 | 325 | Shari Garber |
@@ -90,8 +90,8 @@
 | 82 | 200 | mjl574 |
 | 83 | 199 | joclisa |
 | 84 | 195 | Nicha Hooker |
-| 85 | 193 | Shunta Jacobs |
-| 86 | 193 | Clever Shiftsnap |
+| 85 | 193 | Clever Shiftsnap |
+| 86 | 193 | Shunta Jacobs |
 | 87 | 192 | Chasity |
 | 88 | 187 | Speedy Bridger |
 | 89 | 185 | Danielle Cutler |
@@ -137,9 +137,9 @@
 | 129 | 123 | Kristie McFarland |
 | 130 | 122 | Terry Jo Jones |
 | 131 | 122 | Shimika Enay Wallace |
-| 132 | 121 | Michael Latasha Gray |
+| 132 | 121 | Boldy Corner |
 | 133 | 121 | Danielle Allison |
-| 134 | 121 | Boldy Corner |
+| 134 | 121 | Michael Latasha Gray |
 | 135 | 120 | Jessica |
 | 136 | 118 | Fancy Curver |
 | 137 | 117 | Stephanie Burtin |
