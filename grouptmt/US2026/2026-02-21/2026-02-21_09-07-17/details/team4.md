@@ -148,11 +148,11 @@
 | 140 | 104 | Damn Libra |
 | 141 | 102 | Faja |
 | 142 | 102 | ĥuf |
-| 143 | 101 | Michelle Morris |
-| 144 | 101 | Saulc1991 |
+| 143 | 101 | Saulc1991 |
+| 144 | 101 | Michelle Morris |
 | 145 | 100 | Alexandra Karavias |
-| 146 | 98 | Duck |
-| 147 | 98 | Allen Lloyd |
+| 146 | 98 | Allen Lloyd |
+| 147 | 98 | Duck |
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
@@ -170,8 +170,8 @@
 | 162 | 88 | Kesha Brady |
 | 163 | 87 | Jen Caldwell |
 | 164 | 87 | KM8 |
-| 165 | 87 | Bradley Reeves |
-| 166 | 87 | Lauren Lamb |
+| 165 | 87 | Lauren Lamb |
+| 166 | 87 | Bradley Reeves |
 | 167 | 86 | Destiney Carter |
 | 168 | 86 | amy |
 | 169 | 85 | Mimi |

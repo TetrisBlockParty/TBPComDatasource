@@ -143,8 +143,8 @@
 | 135 | 520 | Kimberly Schall |
 | 136 | 519 | Maria Escobar |
 | 137 | 517 | Debra Williams |
-| 138 | 515 | Real Ri |
-| 139 | 515 | Kaylee McCafferty |
+| 138 | 515 | Kaylee McCafferty |
+| 139 | 515 | Real Ri |
 | 140 | 513 | Butta |
 | 141 | 510 | Ashley House |
 | 142 | 509 | Kelli Wells |
@@ -192,8 +192,8 @@
 | 184 | 388 | coleksquad |
 | 185 | 386 | Macy Williams |
 | 186 | 386 | Ashie Ann |
-| 187 | 385 | Sam |
-| 188 | 385 | Arwa Fatimah |
+| 187 | 385 | Arwa Fatimah |
+| 188 | 385 | Sam |
 | 189 | 381 | Amanda Ferrell |
 | 190 | 380 | Calandra Shaya Robinson |
 | 191 | 380 | Joshua Mandel |
@@ -204,8 +204,8 @@
 | 196 | 363 | William Meussner |
 | 197 | 359 | Brainy Smurf |
 | 198 | 357 | Shannon Byrd |
-| 199 | 356 | Deyawn Smith |
-| 200 | 356 | Alyssaaelena |
+| 199 | 356 | Alyssaaelena |
+| 200 | 356 | Deyawn Smith |
 | 201 | 354 | Tracy Wise |
 | 202 | 353 | Joseph Musick |
 | 203 | 352 | ruth |
@@ -292,8 +292,8 @@
 | 284 | 270 | Angela Lynn |
 | 285 | 270 | Christina Ashley |
 | 286 | 270 | Alexandra Weir |
-| 287 | 268 | Tanya Parsons |
-| 288 | 268 | Chummy Blockbuilder |
+| 287 | 268 | Chummy Blockbuilder |
+| 288 | 268 | Tanya Parsons |
 | 289 | 267 | Mindy Leigh Head |
 | 290 | 266 | Mighty Shatterfit |
 | 291 | 264 | Dapper Dasher |
@@ -317,8 +317,8 @@
 | 309 | 252 | Matt Johnson |
 | 310 | 252 | Cheech Dta |
 | 311 | 251 | Ann Knutson Anderson |
-| 312 | 250 | Johnny Yeates |
-| 313 | 250 | Barbra Miller |
+| 312 | 250 | Barbra Miller |
+| 313 | 250 | Johnny Yeates |
 | 314 | 250 | Peachy Blockbuilder |
 | 315 | 249 | Porsche' Nicole |
 | 316 | 249 | Nicky Jackson |
@@ -329,8 +329,8 @@
 | 321 | 247 | Andrea Devery Beck |
 | 322 | 247 | Fancy Twister |
 | 323 | 246 | Kathryn Townsley |
-| 324 | 246 | Ashley Lopez |
-| 325 | 246 | Stephanie Lumanlan |
+| 324 | 246 | Stephanie Lumanlan |
+| 325 | 246 | Ashley Lopez |
 | 326 | 245 | Rachael Senard |
 | 327 | 245 | Taryece Gause |
 | 328 | 245 | Mischelle Clay |
@@ -340,8 +340,8 @@
 | 332 | 242 | Donna Chandler |
 | 333 | 242 | Lawanda Forbes |
 | 334 | 241 | Sabrina Burton |
-| 335 | 240 | Angie Marie |
-| 336 | 240 | Adam Erikson |
+| 335 | 240 | Adam Erikson |
+| 336 | 240 | Angie Marie |
 | 337 | 239 | Roger Grabbit |
 | 338 | 238 | Cheery Matchzone |
 | 339 | 236 | Frisky Riserbuilder |
@@ -399,8 +399,8 @@
 | 391 | 200 | LaWanda Powell |
 | 392 | 200 | Sarah Ridenour |
 | 393 | 199 | Fi Ne |
-| 394 | 199 | Jessica Sutter |
-| 395 | 199 | Jenny Castro |
+| 394 | 199 | Jenny Castro |
+| 395 | 199 | Jessica Sutter |
 | 396 | 198 | Angie Bolton Workman |
 | 397 | 198 | Alyssa Dean |
 | 398 | 196 | Besma Ao |

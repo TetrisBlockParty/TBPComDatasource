@@ -87,8 +87,8 @@
 | 79 | 320 | Or Reznitsky |
 | 80 | 316 | Fancy Cascader |
 | 81 | 312 | Elaine Webb Graves |
-| 82 | 309 | Rich LeBlanc |
-| 83 | 309 | CeceGeGe |
+| 82 | 309 | CeceGeGe |
+| 83 | 309 | Rich LeBlanc |
 | 84 | 307 | Peggi Charon |
 | 85 | 300 | Sherika C. McDaniels |
 | 86 | 299 | Cynthia Castros-Hampton |
@@ -161,8 +161,8 @@
 | 153 | 149 | Bea Miles |
 | 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Denita Mungro |
-| 157 | 146 | Latoya Mayne |
+| 156 | 146 | Latoya Mayne |
+| 157 | 146 | Denita Mungro |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |
@@ -255,8 +255,8 @@
 | 247 | 94 | Angie Harper |
 | 248 | 93 | Tiffany Ford |
 | 249 | 92 | Trice Thomas |
-| 250 | 92 | Jennifer Caputo |
-| 251 | 92 | Ava Petito |
+| 250 | 92 | Ava Petito |
+| 251 | 92 | Jennifer Caputo |
 | 252 | 91 | Martin Bernier |
 | 253 | 91 | LaNette Morgan |
 | 254 | 90 | Snazzy Brickzone |
