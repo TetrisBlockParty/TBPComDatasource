@@ -358,10 +358,10 @@
 | 350 | 384 | Mike Aprilliano |
 | 351 | 383 | Arkei Luster |
 | 352 | 382 | David Holliday |
-| 353 | 381 | Melissa Rebbe-Lehman |
-| 354 | 381 | Bubbly Snapfit |
-| 355 | 378 | TF Dyer |
-| 356 | 378 | Christina Ashley |
+| 353 | 381 | Bubbly Snapfit |
+| 354 | 381 | Melissa Rebbe-Lehman |
+| 355 | 378 | Christina Ashley |
+| 356 | 378 | TF Dyer |
 | 357 | 378 | Cody Nishimura |
 | 358 | 376 | Caitlin Schmid |
 | 359 | 374 | Alexandra Weir |
@@ -375,9 +375,9 @@
 | 367 | 367 | Deyawn Smith |
 | 368 | 366 | Wuntayk |
 | 369 | 365 | Christina Lewis-Vickers |
-| 370 | 365 | Audrey Jones |
-| 371 | 365 | Kayla |
-| 372 | 364 | Lively Edgepiece |
+| 370 | 365 | Kayla |
+| 371 | 365 | Audrey Jones |
+| 372 | 364 | Shinette Dobson |
 | 373 | 364 | Julie Kresal |
 | 374 | 364 | Lively Edgepiece |
 | 375 | 363 | Happy Caster |

@@ -38,8 +38,8 @@
 | 30 | 586 | Marianne Louise West |
 | 31 | 585 | Jennifer Cates |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 533 | Tipsy Column |
 | 37 | 521 | Hyp James NObettadanluvarat |
@@ -50,8 +50,8 @@
 | 42 | 508 | Michelle Nicole |
 | 43 | 505 | Kristen Roles Robben |
 | 44 | 503 | Cody Slav |
-| 45 | 486 | Sevens4L |
-| 46 | 486 | Sarah Lombardo |
+| 45 | 486 | Sarah Lombardo |
+| 46 | 486 | Sevens4L |
 | 47 | 483 | Ryan Lunnin |
 | 48 | 469 | Kathi Snustad |
 | 49 | 445 | April Carroll |
@@ -143,8 +143,8 @@
 | 135 | 177 | Michael |
 | 136 | 177 | ParisandCory Champagne |
 | 137 | 176 | Basment Living |
-| 138 | 171 | Greg Premoe |
-| 139 | 171 | David DeSantis |
+| 138 | 171 | David DeSantis |
+| 139 | 171 | Greg Premoe |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
@@ -189,10 +189,10 @@
 | 181 | 135 | Guest |
 | 182 | 134 | Witty Builderfit |
 | 183 | 134 | Brave Wrecker |
-| 184 | 132 | Tipsy Riseclear |
-| 185 | 132 | Mel Hogan |
-| 186 | 131 | Kimberly Garcia |
-| 187 | 131 | Uhog SF |
+| 184 | 132 | Mel Hogan |
+| 185 | 132 | Tipsy Riseclear |
+| 186 | 131 | Uhog SF |
+| 187 | 131 | Kimberly Garcia |
 | 188 | 130 | LD1 |
 | 189 | 130 | Aimee Horton |
 | 190 | 130 | Gilbert Ortiz Jr. |

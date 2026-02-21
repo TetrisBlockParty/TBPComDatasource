@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Stephanie Rice |
-| 35 | 928 | Snappy Fitzone |
+| 34 | 928 | Snappy Fitzone |
+| 35 | 928 | Stephanie Rice |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 899 | Amber Jones |
@@ -108,8 +108,8 @@
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Tasha Schriewer |
-| 104 | 378 | Makelini Mausia |
+| 103 | 378 | Makelini Mausia |
+| 104 | 378 | Tasha Schriewer |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Woods |

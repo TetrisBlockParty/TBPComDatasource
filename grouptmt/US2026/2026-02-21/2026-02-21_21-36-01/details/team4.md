@@ -196,8 +196,8 @@
 | 188 | 125 | Heather Tushner |
 | 189 | 124 | Allen Lloyd |
 | 190 | 124 | SammieJo Guy |
-| 191 | 123 | Austin Owens |
-| 192 | 123 | Chaz |
+| 191 | 123 | Chaz |
+| 192 | 123 | Austin Owens |
 | 193 | 122 | Sherri |
 | 194 | 122 | 🥔🥔 Spudz |
 | 195 | 121 | Smiley Tiltbuilder |
@@ -206,8 +206,8 @@
 | 198 | 120 | KayM |
 | 199 | 120 | Joshua Guess |
 | 200 | 120 | Jackie Marie |
-| 201 | 120 | Bryan Hodgins |
-| 202 | 120 | Zesty Twistbuilder |
+| 201 | 120 | Zesty Twistbuilder |
+| 202 | 120 | Bryan Hodgins |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
 | 205 | 118 | Chris Bernstein |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Kristin MacDonald |
-| 217 | 111 | Lazy Blocker |
+| 216 | 111 | Lazy Blocker |
+| 217 | 111 | Kristin MacDonald |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -243,9 +243,9 @@
 | 235 | 102 | Jumpy Zonepiece |
 | 236 | 102 | Faja |
 | 237 | 102 | Kim Hunt |
-| 238 | 101 | Spicy Cascadezone |
-| 239 | 101 | Nikki Rae Gordon |
-| 240 | 101 | Saulc1991 |
+| 238 | 101 | Nikki Rae Gordon |
+| 239 | 101 | Spicy Cascadezone |
+| 240 | 101 | Zesty Linkgrid |
 | 241 | 101 | Zach Kerbs |
 | 242 | 101 | mike |
 | 243 | 101 | Saulc1991 |
@@ -357,10 +357,10 @@
 | 349 | 70 | James Hurley Jr. |
 | 350 | 70 | PlatinumRose |
 | 351 | 70 | Robert Rangel |
-| 352 | 70 | PlatinumRose |
-| 353 | 70 | Niome Encinias |
+| 352 | 70 | Niome Encinias |
+| 353 | 70 | Brittany Price |
 | 354 | 69 | Beth Helms |
-| 355 | 69 | Meli  Jackson |
+| 355 | 69 | Frisky Column |
 | 356 | 69 | Jessica Wells |
 | 357 | 69 | Meli  Jackson |
 | 358 | 68 | mitch |
