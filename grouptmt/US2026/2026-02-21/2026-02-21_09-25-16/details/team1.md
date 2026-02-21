@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Sweet Baker |
-| 41 | 274 | Theo Pinnow |
+| 40 | 274 | Theo Pinnow |
+| 41 | 274 | Sweet Baker |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Tipsy Column |
@@ -75,8 +75,8 @@
 | 67 | 192 | Mandyy Rae |
 | 68 | 192 | Shaykmia |
 | 69 | 191 | Jazzy Framezone |
-| 70 | 190 | Thorne Shumate |
-| 71 | 190 | Sweetts |
+| 70 | 190 | Sweetts |
+| 71 | 190 | Thorne Shumate |
 | 72 | 189 | Happy Basegrid |
 | 73 | 180 | Erez Yosef |
 | 74 | 173 | Frothy Pattern |
@@ -110,8 +110,8 @@
 | 102 | 134 | Trina Gee |
 | 103 | 133 | Brandi Huntington |
 | 104 | 133 | Breanna Luna |
-| 105 | 132 | Davery Spencer Adair |
-| 106 | 132 | Lori Sanders- Davis |
+| 105 | 132 | Lori Sanders- Davis |
+| 106 | 132 | Davery Spencer Adair |
 | 107 | 130 | Dandy Basegrid |
 | 108 | 128 | Uhog SF |
 | 109 | 128 | lil mickey |
@@ -123,8 +123,8 @@
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
 | 117 | 119 | Irual Hctrab |
-| 118 | 119 | Tater |
-| 119 | 119 | April Carroll |
+| 118 | 119 | April Carroll |
+| 119 | 119 | Tater |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Evie Khalil |
 | 122 | 115 | Mrs.Patrica |

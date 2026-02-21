@@ -132,14 +132,14 @@
 | 124 | 184 | Jennie Beranek |
 | 125 | 182 | Ashley Tookes |
 | 126 | 182 | Hyper Matchzone |
-| 127 | 180 | Tessina Dewey-Mancino |
-| 128 | 180 | Fallorina Susana |
+| 127 | 180 | Fallorina Susana |
+| 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -147,8 +147,8 @@
 | 139 | 159 | Morgan Martinez |
 | 140 | 159 | Mcathen |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -161,8 +161,8 @@
 | 153 | 149 | Angel Mendez |
 | 154 | 149 | Trisha Balmer |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Denita Mungro |
-| 157 | 146 | Latoya Mayne |
+| 156 | 146 | Latoya Mayne |
+| 157 | 146 | Denita Mungro |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |
@@ -277,12 +277,12 @@
 | 269 | 87 | Boldy Blocker |
 | 270 | 87 | FATTY |
 | 271 | 87 | Kellie Montgomery |
-| 272 | 86 | Clever Clearbuilder |
-| 273 | 86 | Criss |
-| 274 | 85 | Crystel b520 |
-| 275 | 85 | Chris Bell |
-| 276 | 84 | Flashy Rumbler |
-| 277 | 84 | gremicx |
+| 272 | 86 | Criss |
+| 273 | 86 | Clever Clearbuilder |
+| 274 | 85 | Chris Bell |
+| 275 | 85 | Crystel b520 |
+| 276 | 84 | gremicx |
+| 277 | 84 | Flashy Rumbler |
 | 278 | 84 | Spunky Racker |
 | 279 | 83 | Deseree Ewing |
 | 280 | 82 | Rebecca Funderburk Kirby |
@@ -332,7 +332,7 @@
 | 324 | 74 | ROODBOY |
 | 325 | 74 | FuzzyNavel |
 | 326 | 74 | Mike Spritzer |
-| 327 | 74 | FuzzyNavel |
+| 327 | 74 | Jess Dearborn |
 | 328 | 74 | Loony Slider |
 | 329 | 73 | Loopy Fallmatch |
 | 330 | 73 | Nerdy Wipeout |

@@ -145,8 +145,8 @@
 | 137 | 520 | Kimberly Schall |
 | 138 | 519 | Maria Escobar |
 | 139 | 517 | Debra Williams |
-| 140 | 515 | Kaylee McCafferty |
-| 141 | 515 | Real Ri |
+| 140 | 515 | Real Ri |
+| 141 | 515 | Kaylee McCafferty |
 | 142 | 513 | Butta |
 | 143 | 510 | Ashley House |
 | 144 | 509 | Kelli Wells |
@@ -188,18 +188,18 @@
 | 180 | 397 | Ashley Guernsey-Martin |
 | 181 | 394 | Em Chen |
 | 182 | 393 | Altamirano Michael |
-| 183 | 391 | Chilly Bridgepiece |
-| 184 | 391 | Steven Marshaun |
+| 183 | 391 | Steven Marshaun |
+| 184 | 391 | Chilly Bridgepiece |
 | 185 | 391 | Rhonda Milstead |
 | 186 | 391 | Qiana Sanders |
 | 187 | 388 | coleksquad |
 | 188 | 386 | Macy Williams |
 | 189 | 386 | Ashie Ann |
-| 190 | 385 | Sam |
-| 191 | 385 | Arwa Fatimah |
+| 190 | 385 | Arwa Fatimah |
+| 191 | 385 | Sam |
 | 192 | 381 | Amanda Ferrell |
-| 193 | 380 | Joshua Mandel |
-| 194 | 380 | Calandra Shaya Robinson |
+| 193 | 380 | Calandra Shaya Robinson |
+| 194 | 380 | Joshua Mandel |
 | 195 | 378 | Cody Nishimura |
 | 196 | 377 | Liberty |
 | 197 | 377 | Roy Salyer |
@@ -283,8 +283,8 @@
 | 275 | 275 | Cheeky Brickmatch |
 | 276 | 275 | Shiny Rollzone |
 | 277 | 275 | Ann Matzkanin |
-| 278 | 274 | Melissa Holsinger |
-| 279 | 274 | Jamie Stevey |
+| 278 | 274 | Jamie Stevey |
+| 279 | 274 | Melissa Holsinger |
 | 280 | 274 | Lonne Emade |
 | 281 | 273 | Ray Ray Prado |
 | 282 | 273 | Jenna Nance |
@@ -415,8 +415,8 @@
 | 407 | 194 | Mike Aprilliano |
 | 408 | 194 | Kimberly Ann |
 | 409 | 194 | Hoppy Brickmatch |
-| 410 | 193 | Kelly Ann McCormick |
-| 411 | 193 | Matthew Turner |
+| 410 | 193 | Matthew Turner |
+| 411 | 193 | Kelly Ann McCormick |
 | 412 | 192 | Alyssa Nadine Medelez |
 | 413 | 191 | Lauren Fitzgerald Thomas |
 | 414 | 191 | Sho Nuff |
