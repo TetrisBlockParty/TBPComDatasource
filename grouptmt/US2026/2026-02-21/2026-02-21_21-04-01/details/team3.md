@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -98,8 +98,8 @@
 | 90 | 408 | Patty Allen |
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
-| 93 | 394 | joclisa |
-| 94 | 394 | Mcathen |
+| 93 | 394 | Mcathen |
+| 94 | 394 | joclisa |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
 | 97 | 390 | Annie Déè |

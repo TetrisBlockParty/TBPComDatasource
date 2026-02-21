@@ -351,10 +351,10 @@
 | 343 | 384 | Mike Aprilliano |
 | 344 | 383 | Arkei Luster |
 | 345 | 382 | David Holliday |
-| 346 | 381 | Melissa Rebbe-Lehman |
-| 347 | 381 | Bubbly Snapfit |
-| 348 | 378 | Christina Ashley |
-| 349 | 378 | TF Dyer |
+| 346 | 381 | Bubbly Snapfit |
+| 347 | 381 | Melissa Rebbe-Lehman |
+| 348 | 378 | TF Dyer |
+| 349 | 378 | Christina Ashley |
 | 350 | 378 | Cody Nishimura |
 | 351 | 377 | Roy Salyer |
 | 352 | 376 | Caitlin Schmid |
@@ -809,8 +809,8 @@
 | 801 | 170 | Rhonda Petro |
 | 802 | 170 | AndrewandShela Gornik |
 | 803 | 170 | Fae-Bulous |
-| 804 | 169 | Angela Murgia-Owen |
-| 805 | 169 | Frothy Shatter |
+| 804 | 169 | Frothy Shatter |
+| 805 | 169 | Angela Murgia-Owen |
 | 806 | 169 | Greenshades00 |
 | 807 | 169 | Fancy Glidezone |
 | 808 | 168 | Cini |

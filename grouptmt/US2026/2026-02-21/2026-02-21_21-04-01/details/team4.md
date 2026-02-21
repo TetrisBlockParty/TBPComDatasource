@@ -74,8 +74,8 @@
 | 66 | 358 | Nugget |
 | 67 | 355 | Jamie Mann-Deichmann |
 | 68 | 345 | Ancient Intuition |
-| 69 | 308 | David Lay |
-| 70 | 308 | Jen Allison |
+| 69 | 308 | Jen Allison |
+| 70 | 308 | David Lay |
 | 71 | 304 | Livvy |
 | 72 | 303 | Lauren Scott |
 | 73 | 300 | Jason Hart |
@@ -146,8 +146,8 @@
 | 138 | 164 | ThaEviLJeNiuZ |
 | 139 | 160 | ZeeZee |
 | 140 | 157 | Chastity Mitchell |
-| 141 | 156 | Jessica Bohlken |
-| 142 | 156 | Holly |
+| 141 | 156 | Holly |
+| 142 | 156 | Jessica Bohlken |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Bethany Ison |
 | 145 | 151 | Avy Absol |
@@ -282,9 +282,9 @@
 | 274 | 88 | Michelle Parker |
 | 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
-| 277 | 86 | Jason Frehner |
-| 278 | 86 | Destiney Carter |
-| 279 | 86 | amy |
+| 277 | 86 | amy |
+| 278 | 86 | Jason Frehner |
+| 279 | 86 | Destiney Carter |
 | 280 | 86 | Tony Pavelka |
 | 281 | 86 | BigSammy420 |
 | 282 | 85 | Joseph Gray |
