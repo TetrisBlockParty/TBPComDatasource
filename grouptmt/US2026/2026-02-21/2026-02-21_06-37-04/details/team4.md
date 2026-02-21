@@ -44,12 +44,12 @@
 | 36 | 274 | Elizabeth Sallas |
 | 37 | 270 | Livvy |
 | 38 | 265 | Julian Garcia |
-| 39 | 256 | Brittney Griggs |
-| 40 | 256 | Dustin Robert |
+| 39 | 256 | Dustin Robert |
+| 40 | 256 | Brittney Griggs |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
-| 43 | 231 | Michelle Marie |
-| 44 | 231 | Jenna Ingersoll |
+| 43 | 231 | Jenna Ingersoll |
+| 44 | 231 | Michelle Marie |
 | 45 | 226 | Breannah Grafe |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |
@@ -96,8 +96,8 @@
 | 88 | 129 | Landon Keith Graffeo |
 | 89 | 125 | Lauren Scott |
 | 90 | 124 | Lisa Davis |
-| 91 | 123 | Bubbly Puzzler |
-| 92 | 123 | Nugget |
+| 91 | 123 | Nugget |
+| 92 | 123 | Bubbly Puzzler |
 | 93 | 122 | Sherri |
 | 94 | 122 | Shelly Chandler |
 | 95 | 121 | Smiley Tiltbuilder |
@@ -124,8 +124,8 @@
 | 116 | 105 | Sam Middleton |
 | 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
-| 119 | 104 | YoMomma |
-| 120 | 104 | Adam Randall |
+| 119 | 104 | Adam Randall |
+| 120 | 104 | YoMomma |
 | 121 | 102 | Faja |
 | 122 | 101 | Michelle Morris |
 | 123 | 101 | Stephme310 |
@@ -192,9 +192,9 @@
 | 184 | 73 | Rheanda Weaskus |
 | 185 | 72 | Robin Getchel |
 | 186 | 72 | Joshua Cuellar |
-| 187 | 71 | Marcela Johnson |
-| 188 | 71 | Chaz Duncan |
-| 189 | 71 | Lindsey Gonzalez |
+| 187 | 71 | Chaz Duncan |
+| 188 | 71 | Lindsey Gonzalez |
+| 189 | 71 | Marcela Johnson |
 | 190 | 70 | Richard-April Kice |
 | 191 | 69 | Carol Ricks Raymond |
 | 192 | 68 | LS |

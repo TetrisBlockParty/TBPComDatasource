@@ -259,8 +259,8 @@
 | 251 | 268 | Peppy Zone |
 | 252 | 268 | Chummy Blockbuilder |
 | 253 | 267 | Mindy Leigh Head |
-| 254 | 266 | Autumn Schaeffer |
-| 255 | 266 | Mighty Shatterfit |
+| 254 | 266 | Mighty Shatterfit |
+| 255 | 266 | Autumn Schaeffer |
 | 256 | 266 | Joyce Johnson Vaughn |
 | 257 | 264 | Dapper Dasher |
 | 258 | 263 | Taylor Flowers |
@@ -275,8 +275,8 @@
 | 267 | 256 | Tee Jaleesa |
 | 268 | 256 | Smashanator |
 | 269 | 255 | Santana Miyagi |
-| 270 | 254 | Rose Fx |
-| 271 | 254 | Julie Hamilton |
+| 270 | 254 | Julie Hamilton |
+| 271 | 254 | Rose Fx |
 | 272 | 252 | Matt Johnson |
 | 273 | 251 | Ann Knutson Anderson |
 | 274 | 250 | Barbra Miller |
@@ -511,9 +511,9 @@
 | 503 | 141 | Erika Meaux |
 | 504 | 141 | Markisha Poyndexter |
 | 505 | 140 | King Shamell Young |
-| 506 | 140 | Kimberly Ann |
+| 506 | 140 | Preya Patel |
 | 507 | 140 | Brandy Sutton |
-| 508 | 140 | Preya Patel |
+| 508 | 140 | Kimberly Ann |
 | 509 | 139 | Jackson Smith |
 | 510 | 139 | Octavio Garza |
 | 511 | 138 | Gursharan Sandhu |
