@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -160,8 +160,8 @@
 | 152 | 156 | Joey Banks |
 | 153 | 155 | BŘŰŤİÇŨŚ |
 | 154 | 154 | Angela M. Fletcher |
-| 155 | 153 | Stephanie Whitefield |
-| 156 | 153 | Beth Ingham |
+| 155 | 153 | Beth Ingham |
+| 156 | 153 | Stephanie Whitefield |
 | 157 | 152 | Shiny Zonebuilder |
 | 158 | 151 | MsBee |
 | 159 | 150 | DanceLuvLaugh |
@@ -215,8 +215,8 @@
 | 207 | 115 | Jennifer Alvey |
 | 208 | 115 | Hoppy Buildout |
 | 209 | 114 | Jessica Bechler |
-| 210 | 113 | Valerie Gendron |
-| 211 | 113 | Brian Battjes |
+| 210 | 113 | Brian Battjes |
+| 211 | 113 | Valerie Gendron |
 | 212 | 111 | Stephanie Zahm |
 | 213 | 110 | Danielle Weikel |
 | 214 | 110 | Stella |
@@ -267,8 +267,8 @@
 | 259 | 94 | Andrew Thorson |
 | 260 | 93 | Tiffany Ford |
 | 261 | 92 | Jennifer Caputo |
-| 262 | 92 | Trice Thomas |
-| 263 | 92 | Ava Petito |
+| 262 | 92 | Ava Petito |
+| 263 | 92 | Trice Thomas |
 | 264 | 92 | Jackie-Lynne Goertzen |
 | 265 | 91 | Martin Bernier |
 | 266 | 90 | Nichole Greene |
@@ -286,9 +286,9 @@
 | 278 | 88 | Kelly Koenig |
 | 279 | 88 | RickyG |
 | 280 | 88 | Dapper Towerfit |
-| 281 | 87 | FATTY |
-| 282 | 87 | Kellie Montgomery |
-| 283 | 87 | Boldy Blocker |
+| 281 | 87 | Boldy Blocker |
+| 282 | 87 | FATTY |
+| 283 | 87 | Kellie Montgomery |
 | 284 | 86 | Clever Clearbuilder |
 | 285 | 86 | Criss |
 | 286 | 86 | Salena Whitlock |

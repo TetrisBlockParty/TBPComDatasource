@@ -260,8 +260,8 @@
 | 252 | 318 | Elisheva Mizrachi |
 | 253 | 318 | Trista Dumais |
 | 254 | 317 | Heather Westrum |
-| 255 | 317 | bru |
-| 256 | 317 | Zombi3 |
+| 255 | 317 | Zombi3 |
+| 256 | 317 | bru |
 | 257 | 315 | Alisa Lamb |
 | 258 | 314 | Amanda West |
 | 259 | 313 | Brenda Utphall |
@@ -342,8 +342,8 @@
 | 334 | 254 | Julie Hamilton |
 | 335 | 253 | Tansaria Couch-Butler |
 | 336 | 252 | Matt Johnson |
-| 337 | 252 | Catina Hutchison |
-| 338 | 252 | Alyssia Tancredi |
+| 337 | 252 | Alyssia Tancredi |
+| 338 | 252 | Catina Hutchison |
 | 339 | 251 | Ann Knutson Anderson |
 | 340 | 250 | Barbra Miller |
 | 341 | 250 | Steve Man |
@@ -357,8 +357,8 @@
 | 349 | 247 | Andrea Devery Beck |
 | 350 | 247 | Fancy Twister |
 | 351 | 246 | Kathryn Townsley |
-| 352 | 246 | Stephanie Lumanlan |
-| 353 | 246 | Ashley Lopez |
+| 352 | 246 | Ashley Lopez |
+| 353 | 246 | Stephanie Lumanlan |
 | 354 | 245 | Rachael Senard |
 | 355 | 245 | Sanaa Nounoussa |
 | 356 | 245 | ShinyRose |
@@ -418,8 +418,8 @@
 | 410 | 207 | Shylee Tilman |
 | 411 | 206 | RAEPR05 |
 | 412 | 206 | Neko Preston |
-| 413 | 205 | ElizabethAnn Dickinson |
-| 414 | 205 | Lylymom |
+| 413 | 205 | Lylymom |
+| 414 | 205 | ElizabethAnn Dickinson |
 | 415 | 204 | Ali Gralski |
 | 416 | 204 | Rebecca Doughman |
 | 417 | 203 | Gary Stash |
@@ -434,8 +434,8 @@
 | 426 | 198 | Angie Bolton Workman |
 | 427 | 198 | Alyssa Dean |
 | 428 | 196 | Besma Ao |
-| 429 | 196 | Cass Shirley |
-| 430 | 196 | Alexandra Reese |
+| 429 | 196 | Alexandra Reese |
+| 430 | 196 | Cass Shirley |
 | 431 | 195 | Snappy Shatterfit |
 | 432 | 195 | Emily Lyric Converse |
 | 433 | 194 | Kitybox |
@@ -450,8 +450,8 @@
 | 442 | 190 | NanDa Cruzan VI |
 | 443 | 190 | Poldo Ilano |
 | 444 | 190 | Jessica Kaye DeAguero |
-| 445 | 188 | Michael Artis |
-| 446 | 188 | Seth Wrieden |
+| 445 | 188 | Seth Wrieden |
+| 446 | 188 | Michael Artis |
 | 447 | 188 | Justin Hines |
 | 448 | 187 | Stefanie Zonzini-Gagliardi |
 | 449 | 186 | Joshua Mullings |

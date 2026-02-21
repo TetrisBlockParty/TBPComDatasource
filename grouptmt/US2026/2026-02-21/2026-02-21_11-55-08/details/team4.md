@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Melvin Baird |
-| 77 | 171 | Zethra Prenisha Rahming |
+| 76 | 171 | Zethra Prenisha Rahming |
+| 77 | 171 | Melvin Baird |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Courtney Cicoria |
