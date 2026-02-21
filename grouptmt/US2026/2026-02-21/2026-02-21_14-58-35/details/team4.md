@@ -155,8 +155,8 @@
 | 147 | 119 | Gwendolyn Pitcairn |
 | 148 | 118 | Leslie Nicole |
 | 149 | 116 | Diana Houts |
-| 150 | 115 | Jayk |
-| 151 | 115 | Ultramarine |
+| 150 | 115 | Ultramarine |
+| 151 | 115 | Jayk |
 | 152 | 113 | Adam Randall |
 | 153 | 112 | Brittany Marsh |
 | 154 | 112 | Austin Owens |

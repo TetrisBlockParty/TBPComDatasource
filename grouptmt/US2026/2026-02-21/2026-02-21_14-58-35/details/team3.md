@@ -142,8 +142,8 @@
 | 134 | 204 | Aaron Pitkin |
 | 135 | 202 | Twisty Brick LT |
 | 136 | 199 | joclisa |
-| 137 | 195 | Jenny Hrndz |
-| 138 | 195 | Nicha Hooker |
+| 137 | 195 | Nicha Hooker |
+| 138 | 195 | Jenny Hrndz |
 | 139 | 194 | glichmod |
 | 140 | 193 | Stephanie Burtin |
 | 141 | 193 | Clever Shiftsnap |

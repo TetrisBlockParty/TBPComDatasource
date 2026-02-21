@@ -161,8 +161,8 @@
 | 153 | 546 | Charvi' Carter |
 | 154 | 543 | Debra Williams |
 | 155 | 541 | SaraMarie Eveland |
-| 156 | 534 | Stephen Stephen |
-| 157 | 534 | Poppy Snapper |
+| 156 | 534 | Poppy Snapper |
+| 157 | 534 | Stephen Stephen |
 | 158 | 534 | Real Ri |
 | 159 | 531 | Chris Wanner |
 | 160 | 529 | Vaniel Glover |
@@ -382,12 +382,12 @@
 | 374 | 269 | Reece Smith |
 | 375 | 268 | Chummy Blockbuilder |
 | 376 | 267 | Britt Stunkel |
-| 377 | 266 | Mike Aprilliano |
-| 378 | 266 | Denise Rickman |
+| 377 | 266 | Denise Rickman |
+| 378 | 266 | Mike Aprilliano |
 | 379 | 265 | Sassy Linkbuilder |
 | 380 | 264 | Giddy Gridclear |
-| 381 | 264 | Thomas Hughes |
-| 382 | 264 | Dapper Dasher |
+| 381 | 264 | Dapper Dasher |
+| 382 | 264 | Thomas Hughes |
 | 383 | 262 | Taren Cowan |
 | 384 | 262 | Min |
 | 385 | 261 | Justin Hines |
@@ -850,7 +850,7 @@
 | 842 | 123 | Ri St |
 | 843 | 123 | Renee Griffith |
 | 844 | 123 | Goofy Catcher |
-| 845 | 123 | Renee Griffith |
+| 845 | 123 | Cool Slam |
 | 846 | 122 | Chere Kelly |
 | 847 | 122 | Monica Stroud |
 | 848 | 122 | Cassie Newton |

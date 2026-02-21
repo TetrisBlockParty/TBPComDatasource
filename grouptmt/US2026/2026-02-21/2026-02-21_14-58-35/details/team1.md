@@ -44,8 +44,8 @@
 | 36 | 380 | Robert Beck |
 | 37 | 363 | Angel Fowler |
 | 38 | 355 | Odell Barnett |
-| 39 | 348 | Chipper Gridlock |
-| 40 | 348 | Stef Hu |
+| 39 | 348 | Stef Hu |
+| 40 | 348 | Chipper Gridlock |
 | 41 | 345 | Adryane Schnase |
 | 42 | 338 | Stephanie Zahn |
 | 43 | 337 | Jacqueline Williams |
@@ -118,9 +118,9 @@
 | 110 | 153 | Tanya Carpenter-Reynolds |
 | 111 | 153 | Shiny Gridmatch |
 | 112 | 152 | Jacqueline Unique |
-| 113 | 149 | Jennifer ManWarren |
+| 113 | 149 | Arianna O'Brien |
 | 114 | 149 | Tana |
-| 115 | 149 | Arianna O'Brien |
+| 115 | 149 | Jennifer ManWarren |
 | 116 | 148 | Shauntina Burke |
 | 117 | 146 | Irual Hctrab |
 | 118 | 145 | BigWeenie69 |
