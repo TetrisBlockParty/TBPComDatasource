@@ -313,8 +313,8 @@
 | 305 | 409 | Julay |
 | 306 | 409 | Sparkles |
 | 307 | 406 | Erin StFrancis |
-| 308 | 405 | Christy Krissie |
-| 309 | 405 | Sarah Massey |
+| 308 | 405 | Sarah Massey |
+| 309 | 405 | Christy Krissie |
 | 310 | 403 | Joshua Sommerville |
 | 311 | 402 | Brandy Andre |
 | 312 | 401 | Taylor Flowers |

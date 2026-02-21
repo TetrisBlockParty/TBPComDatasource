@@ -54,8 +54,8 @@
 | 46 | 447 | Samantha Peterson |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 402 | Courtney Cicoria |
 | 52 | 399 | Jenna Ingersoll |
 | 53 | 396 | Alicia Bass |
@@ -239,9 +239,9 @@
 | 231 | 100 | Maureen Flanigan |
 | 232 | 100 | Alexandra Karavias |
 | 233 | 100 | Jacob Richard |
-| 234 | 99 | Michael Orris |
-| 235 | 99 | Frank Cook |
-| 236 | 98 | Sam Bishop |
+| 234 | 99 | Frank Cook |
+| 235 | 99 | Michael Orris |
+| 236 | 98 | Perky Piecegrid |
 | 237 | 98 | Bradley Reeves |
 | 238 | 98 | Sam Bishop |
 | 239 | 97 | Rosemary Foster |
