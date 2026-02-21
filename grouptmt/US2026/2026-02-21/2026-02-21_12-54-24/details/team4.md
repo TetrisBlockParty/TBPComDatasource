@@ -77,40 +77,40 @@
 | 69 | 187 | Swanky Fitline |
 | 70 | 185 | loulou |
 | 71 | 185 | Andy Cabral |
-| 72 | 180 | shar |
-| 73 | 180 | Leah Kutz Zirbel |
+| 72 | 180 | Leah Kutz Zirbel |
+| 73 | 180 | shar |
 | 74 | 179 | Epic Curvetile |
 | 75 | 178 | Lori |
 | 76 | 175 | Dustee Craddock-Harrison |
 | 77 | 173 | Zethra Prenisha Rahming |
 | 78 | 173 | Jeff Brian Gates |
 | 79 | 171 | Melvin Baird |
-| 80 | 170 | Justin Hannigan |
-| 81 | 170 | Girl |
+| 80 | 170 | Girl |
+| 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
 | 83 | 165 | Courtney Cicoria |
 | 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Stacey Stano |
-| 88 | 160 | Carter Jones |
+| 87 | 160 | Carter Jones |
+| 88 | 160 | Stacey Stano |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Chirpy Basepiece |
-| 104 | 134 | Serena Goodridge |
-| 105 | 134 | Jessica Bohlken |
+| 103 | 134 | Serena Goodridge |
+| 104 | 134 | Jessica Bohlken |
+| 105 | 134 | Chirpy Basepiece |
 | 106 | 133 | Robin Watters |
 | 107 | 132 | Degenerate |
 | 108 | 132 | Jessica Cagle |
@@ -128,10 +128,10 @@
 | 120 | 123 | Cherrish Duren |
 | 121 | 123 | TinyLegoRose |
 | 122 | 122 | Sherri |
-| 123 | 121 | Smiley Tiltbuilder |
-| 124 | 121 | Megan Cutshaw |
-| 125 | 121 | Zany Shatterer |
-| 126 | 121 | Klo |
+| 123 | 121 | Megan Cutshaw |
+| 124 | 121 | Zany Shatterer |
+| 125 | 121 | Klo |
+| 126 | 121 | Smiley Tiltbuilder |
 | 127 | 120 | Joshua Guess |
 | 128 | 119 | Kristin Manee |
 | 129 | 118 | Leslie Nicole |
@@ -176,7 +176,7 @@
 | 168 | 96 | Sammy Noguera |
 | 169 | 96 | Marcus TheeyoungWoe Gilmore |
 | 170 | 95 | Jen Caldwell |
-| 171 | 95 | Dizzy Tiley |
+| 171 | 95 | Meagan Nicole |
 | 172 | 95 | Victoria Faniel |
 | 173 | 95 | Dizzy Tiley |
 | 174 | 94 | Chastity Mitchell |
@@ -296,8 +296,8 @@
 | 288 | 61 | Jackson Karen |
 | 289 | 60 | Adam Stephanie Parker |
 | 290 | 60 | Kris Zulch |
-| 291 | 59 | Porkobello |
-| 292 | 59 | Chris Bernstein |
+| 291 | 59 | Angelito |
+| 292 | 59 | Porkobello |
 | 293 | 59 | Jasmine S Caldwell |
 | 294 | 59 | Chris Bernstein |
 | 295 | 58 | Paige Kittles |

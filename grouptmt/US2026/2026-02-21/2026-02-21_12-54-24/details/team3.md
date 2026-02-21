@@ -145,8 +145,8 @@
 | 137 | 182 | Ashley Tookes |
 | 138 | 179 | Joye Sims Binion |
 | 139 | 179 | Daira Largen |
-| 140 | 178 | AlsoJess |
-| 141 | 178 | Khaleada McGill Banks |
+| 140 | 178 | Khaleada McGill Banks |
+| 141 | 178 | AlsoJess |
 | 142 | 176 | Ryan Williams |
 | 143 | 175 | Logan Naccarato |
 | 144 | 167 | Rebel124 |
@@ -169,8 +169,8 @@
 | 161 | 156 | Joey Banks |
 | 162 | 155 | BŘŰŤİÇŨŚ |
 | 163 | 154 | Angela M. Fletcher |
-| 164 | 153 | Beth Ingham |
-| 165 | 153 | Stephanie Whitefield |
+| 164 | 153 | Stephanie Whitefield |
+| 165 | 153 | Beth Ingham |
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |
@@ -367,8 +367,8 @@
 | 359 | 73 | Nerdy Wipeout |
 | 360 | 73 | Rainbow77375 |
 | 361 | 73 | punky monkey buttky |
-| 362 | 73 | Elyse Grabowsky |
-| 363 | 73 | Spicy Caster |
+| 362 | 73 | Spicy Caster |
+| 363 | 73 | Elyse Grabowsky |
 | 364 | 72 | Barbara Bennett |
 | 365 | 72 | Alexsandran Valdivia |
 | 366 | 72 | Jodi Kaczynski-O'Dowd |

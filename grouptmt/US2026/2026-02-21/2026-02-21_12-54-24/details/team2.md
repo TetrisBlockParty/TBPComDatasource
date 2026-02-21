@@ -120,8 +120,8 @@
 | 112 | 649 | Anna Edwards |
 | 113 | 641 | Ricardo Burton |
 | 114 | 632 | Beth |
-| 115 | 631 | Loopy Clusterbuilder |
-| 116 | 631 | Peppy Zone |
+| 115 | 631 | Peppy Zone |
+| 116 | 631 | Loopy Clusterbuilder |
 | 117 | 620 | BYM4L |
 | 118 | 619 | Jamie Otero |
 | 119 | 608 | John Bednarik |
@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Brandon Armstrong |
-| 222 | 364 | Shinette Dobson |
+| 221 | 364 | Shinette Dobson |
+| 222 | 364 | Brandon Armstrong |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -238,8 +238,8 @@
 | 230 | 356 | Shameika Trail |
 | 231 | 355 | Shandrica Lowe |
 | 232 | 355 | Kristen O'Neal |
-| 233 | 354 | Brave Dropmatch |
-| 234 | 354 | Tracy Wise |
+| 233 | 354 | Tracy Wise |
+| 234 | 354 | Brave Dropmatch |
 | 235 | 353 | Joseph Musick |
 | 236 | 352 | ruth |
 | 237 | 350 | Chris Harr |
@@ -606,8 +606,8 @@
 | 598 | 148 | AgileDragon |
 | 599 | 148 | Cleo Sims |
 | 600 | 147 | Melissa Kay Gibson |
-| 601 | 147 | Sassy Pivot |
-| 602 | 147 | Smiley Strike |
+| 601 | 147 | Smiley Strike |
+| 602 | 147 | Sassy Pivot |
 | 603 | 146 | Gemini Washington |
 | 604 | 146 | Ibiza Carolina LaRose |
 | 605 | 146 | Sherry Aguinaga |

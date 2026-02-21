@@ -55,8 +55,8 @@
 | 47 | 271 | Kristen Roles Robben |
 | 48 | 264 | Shauna Loe |
 | 49 | 257 | Sarah Roberts |
-| 50 | 256 | Robert Benito |
-| 51 | 256 | Tipsy Column |
+| 50 | 256 | Tipsy Column |
+| 51 | 256 | Robert Benito |
 | 52 | 253 | Bhelle Sumile |
 | 53 | 252 | Dena Kayy |
 | 54 | 244 | Franswa |
@@ -89,9 +89,9 @@
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | Jennifer Olewnik Soborowski |
-| 85 | 173 | Frothy Pattern |
-| 86 | 173 | june october |
+| 84 | 173 | Frothy Pattern |
+| 85 | 173 | june october |
+| 86 | 173 | Jennifer Olewnik Soborowski |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Redlicious 1 |
 | 89 | 166 | Rico Rico |
@@ -105,19 +105,19 @@
 | 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | Tanya Carpenter-Reynolds |
-| 106 | 144 | femmefatale |
-| 107 | 144 | Plucky Ziggy |
+| 105 | 144 | femmefatale |
+| 106 | 144 | Plucky Ziggy |
+| 107 | 144 | Tanya Carpenter-Reynolds |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 140 | Miguel Teixeira |
-| 111 | 138 | Gary Gobin |
-| 112 | 138 | Cranky Pattern |
+| 111 | 138 | Cranky Pattern |
+| 112 | 138 | Gary Gobin |
 | 113 | 137 | Nadine Velardo |
 | 114 | 134 | Trina Gee |
 | 115 | 133 | Brandi Huntington |
@@ -136,7 +136,7 @@
 | 128 | 120 | Alenoush Karimian |
 | 129 | 119 | Tater |
 | 130 | 119 | Irual Hctrab |
-| 131 | 119 | Tater |
+| 131 | 119 | April Carroll |
 | 132 | 118 | Barry Mac'Ockner |
 | 133 | 116 | Evie Khalil |
 | 134 | 115 | Mrs.Patrica |
