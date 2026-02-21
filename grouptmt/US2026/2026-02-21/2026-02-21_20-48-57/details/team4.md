@@ -46,8 +46,8 @@
 | 38 | 494 | Rodney McMath Jr. |
 | 39 | 488 | Anthony Bryan Riva |
 | 40 | 486 | Landon Keith Graffeo |
-| 41 | 483 | Kimberly Love |
-| 42 | 483 | Carmethia Clemons Haslerig |
+| 41 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Kimberly Love |
 | 43 | 470 | Carolyn Wallace |
 | 44 | 465 | Dawn Alexander |
 | 45 | 460 | Lisa Davis |
@@ -378,7 +378,7 @@
 | 370 | 66 | Undeniable Williams |
 | 371 | 66 | Brandon Crabbs |
 | 372 | 65 | Angelito |
-| 373 | 65 | Chantilly Laace |
+| 373 | 65 | Brittany Price |
 | 374 | 65 | Barcelos |
 | 375 | 65 | Chantilly Laace |
 | 376 | 64 | Jim Hart |

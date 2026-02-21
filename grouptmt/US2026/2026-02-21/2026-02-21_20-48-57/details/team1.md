@@ -198,8 +198,8 @@
 | 190 | 125 | Larry Tilton |
 | 191 | 124 | Flashy Rotator |
 | 192 | 124 | Cartier |
-| 193 | 122 | Margo Wagner |
-| 194 | 122 | Melissa Lemmon |
+| 193 | 122 | Melissa Lemmon |
+| 194 | 122 | Margo Wagner |
 | 195 | 121 | Mark Smith |
 | 196 | 120 | Fmp |
 | 197 | 120 | Alenoush Karimian |

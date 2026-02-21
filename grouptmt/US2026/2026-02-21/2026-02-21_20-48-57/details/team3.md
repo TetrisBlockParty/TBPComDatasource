@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -162,8 +162,8 @@
 | 154 | 228 | Morgan Martinez |
 | 155 | 226 | Grego Daniel |
 | 156 | 223 | Jeana Gilbert |
-| 157 | 222 | Hoppy Buildout |
-| 158 | 222 | Jimmie Clemons |
+| 157 | 222 | Jimmie Clemons |
+| 158 | 222 | Hoppy Buildout |
 | 159 | 219 | Shunta Jacobs |
 | 160 | 218 | LaNette Morgan |
 | 161 | 217 | Jess Bissett |
@@ -356,13 +356,13 @@
 | 348 | 104 | Ashley Rufus Bythcez |
 | 349 | 103 | Kate Farok |
 | 350 | 103 | Lisa Lisa |
-| 351 | 102 | Sdot |
-| 352 | 102 | Christian Luna |
-| 353 | 102 | Crystal Hine |
+| 351 | 102 | Crystal Hine |
+| 352 | 102 | Sdot |
+| 353 | 102 | Christian Luna |
 | 354 | 101 | Megan Stanley |
-| 355 | 101 | Hyper Bridger |
-| 356 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 357 | 100 | Tracey Cox |
+| 355 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 356 | 101 | Hyper Bridger |
+| 357 | 100 | Brooke Bauer |
 | 358 | 100 | Sunny Rotater |
 | 359 | 100 | Bobbi Moore |
 | 360 | 100 | Tracey Cox |
