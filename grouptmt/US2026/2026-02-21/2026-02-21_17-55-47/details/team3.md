@@ -63,8 +63,8 @@
 | 55 | 546 | Danielle Mogg |
 | 56 | 536 | Dan Rob |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Giddy Drop |
-| 59 | 528 | Natasha Jones |
+| 58 | 528 | Natasha Jones |
+| 59 | 528 | Giddy Drop |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -117,8 +117,8 @@
 | 109 | 316 | Fancy Cascader |
 | 110 | 309 | CeceGeGe |
 | 111 | 309 | Rich LeBlanc |
-| 112 | 307 | Blocked |
-| 113 | 307 | Peggi Charon |
+| 112 | 307 | Peggi Charon |
+| 113 | 307 | Blocked |
 | 114 | 300 | Sherika C. McDaniels |
 | 115 | 300 | Tessina Dewey-Mancino |
 | 116 | 293 | Poppy Splitter |

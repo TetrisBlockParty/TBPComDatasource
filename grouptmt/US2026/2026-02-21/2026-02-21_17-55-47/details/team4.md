@@ -67,8 +67,8 @@
 | 59 | 334 | Leslie Thomas |
 | 60 | 309 | Lisa Davis |
 | 61 | 308 | Jen Allison |
-| 62 | 300 | Jason Hart |
-| 63 | 300 | David Lay |
+| 62 | 300 | David Lay |
+| 63 | 300 | Jason Hart |
 | 64 | 299 | Livvy |
 | 65 | 295 | Latisha Davis |
 | 66 | 293 | HastyGrabber |
@@ -190,8 +190,8 @@
 | 182 | 110 | H.R. Block |
 | 183 | 109 | Joseph Guthrie |
 | 184 | 108 | Ali Ian |
-| 185 | 107 | Rafael Valentin |
-| 186 | 107 | Marcus Todd |
+| 185 | 107 | Marcus Todd |
+| 186 | 107 | Rafael Valentin |
 | 187 | 106 | Avy Absol |
 | 188 | 105 | Kristin MacDonald |
 | 189 | 105 | TheNeesh50 |

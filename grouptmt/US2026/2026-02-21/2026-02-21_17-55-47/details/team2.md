@@ -173,8 +173,8 @@
 | 165 | 592 | Ashle Scranton |
 | 166 | 591 | Alisha |
 | 167 | 589 | Erica Williams |
-| 168 | 583 | Jessicah Myers |
-| 169 | 583 | Jumpy Gridpiece |
+| 168 | 583 | Jumpy Gridpiece |
+| 169 | 583 | Jessicah Myers |
 | 170 | 580 | Steve Grotto |
 | 171 | 580 | Kimberly Schall |
 | 172 | 579 | Gary Stash |
@@ -303,8 +303,8 @@
 | 295 | 374 | Lee Harper |
 | 296 | 369 | Tara Lynn Janes |
 | 297 | 367 | Deyawn Smith |
-| 298 | 366 | Mike Aprilliano |
-| 299 | 366 | Wuntayk |
+| 298 | 366 | Wuntayk |
+| 299 | 366 | Mike Aprilliano |
 | 300 | 365 | Christina Lewis-Vickers |
 | 301 | 365 | Audrey Jones |
 | 302 | 364 | Shinette Dobson |
@@ -372,8 +372,8 @@
 | 364 | 320 | Sarah Ridenour |
 | 365 | 318 | CC |
 | 366 | 317 | Heather Westrum |
-| 367 | 317 | Bussyiano Page |
-| 368 | 317 | Zombi3 |
+| 367 | 317 | Zombi3 |
+| 368 | 317 | Bussyiano Page |
 | 369 | 316 | Oscar Bernie |
 | 370 | 315 | Kristopher Miller |
 | 371 | 314 | Lewis Sturgeon |
@@ -384,8 +384,8 @@
 | 376 | 309 | Catina Hutchison |
 | 377 | 309 | James Zaragoza |
 | 378 | 305 | Libby Hicks |
-| 379 | 305 | Zany Clusterbuilder |
-| 380 | 305 | Tum |
+| 379 | 305 | Tum |
+| 380 | 305 | Zany Clusterbuilder |
 | 381 | 304 | Frisky Clearpiece |
 | 382 | 304 | Michelle Shrum |
 | 383 | 304 | NFLPITMOM |
