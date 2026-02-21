@@ -149,8 +149,8 @@
 | 141 | 223 | Jeana Gilbert |
 | 142 | 222 | Hoppy Buildout |
 | 143 | 222 | Jimmie Clemons |
-| 144 | 219 | Tom Nault |
-| 145 | 219 | Shunta Jacobs |
+| 144 | 219 | Shunta Jacobs |
+| 145 | 219 | Tom Nault |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
 | 148 | 214 | Jenny Hrndz |
@@ -322,8 +322,8 @@
 | 314 | 103 | Andrew Thorson |
 | 315 | 103 | Kate Farok |
 | 316 | 102 | Criss |
-| 317 | 102 | Rania Zaqout |
-| 318 | 102 | Christian Luna |
+| 317 | 102 | Christian Luna |
+| 318 | 102 | Rania Zaqout |
 | 319 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 320 | 101 | Hyper Bridger |
 | 321 | 101 | Shicken Nuggit |

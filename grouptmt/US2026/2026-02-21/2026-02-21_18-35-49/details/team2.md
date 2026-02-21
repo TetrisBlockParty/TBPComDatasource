@@ -141,8 +141,8 @@
 | 133 | 705 | Roger Grabbit |
 | 134 | 704 | Nerdy Clearfit |
 | 135 | 700 | Vincent Petrella |
-| 136 | 700 | Rosemadder |
-| 137 | 700 | Beverly Owens |
+| 136 | 700 | Beverly Owens |
+| 137 | 700 | Rosemadder |
 | 138 | 698 | Lola Contreras |
 | 139 | 697 | Real Ri |
 | 140 | 694 | Vo'Landa Reels |
@@ -193,8 +193,8 @@
 | 185 | 541 | Giggy Blocker |
 | 186 | 541 | SaraMarie Eveland |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Stephen Stephen |
-| 189 | 534 | Teresa Gillmore |
+| 188 | 534 | Teresa Gillmore |
+| 189 | 534 | Stephen Stephen |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
@@ -237,16 +237,16 @@
 | 229 | 475 | Jánine Riggs |
 | 230 | 475 | Khalil Lowe |
 | 231 | 474 | Calandra Shaya Robinson |
-| 232 | 474 | Ashley Collins |
-| 233 | 474 | Auntie B |
+| 232 | 474 | Auntie B |
+| 233 | 474 | Ashley Collins |
 | 234 | 470 | Jerry Tempelmeyer |
 | 235 | 469 | Ashley Rose Frederick |
 | 236 | 467 | Scott Treadway |
 | 237 | 466 | Amélie Cadieux |
 | 238 | 465 | Maya June |
 | 239 | 465 | Drwatson187 |
-| 240 | 464 | Ryan Gunther |
-| 241 | 464 | Nett |
+| 240 | 464 | Nett |
+| 241 | 464 | Ryan Gunther |
 | 242 | 463 | Sue Leard |
 | 243 | 460 | Cody Smith-Candelaria |
 | 244 | 459 | Brainy Smurf |
@@ -634,7 +634,7 @@
 | 626 | 194 | Sarah block |
 | 627 | 193 | D5wag2014 |
 | 628 | 193 | Kelly Ann McCormick |
-| 629 | 193 | Brenda Pierpoint |
+| 629 | 193 | Seth Wrieden |
 | 630 | 193 | Kristen Casale Berry |
 | 631 | 193 | Brenda Pierpoint |
 | 632 | 192 | Sandra Link-Gable |
