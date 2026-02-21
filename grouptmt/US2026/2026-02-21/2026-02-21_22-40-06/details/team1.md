@@ -134,8 +134,8 @@
 | 126 | 192 | Jessica Sheehan |
 | 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
-| 129 | 190 | Sweetts |
-| 130 | 190 | Thorne Shumate |
+| 129 | 190 | Thorne Shumate |
+| 130 | 190 | Sweetts |
 | 131 | 188 | Sam Williams |
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Jennifer Olewnik Soborowski |

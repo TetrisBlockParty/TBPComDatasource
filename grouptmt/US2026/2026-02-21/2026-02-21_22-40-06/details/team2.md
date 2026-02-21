@@ -273,12 +273,12 @@
 | 265 | 504 | Cherica Taylor |
 | 266 | 504 | Gene Mills |
 | 267 | 503 | tejas25 |
-| 268 | 502 | Magic steve |
-| 269 | 502 | Poppy Snap |
+| 268 | 502 | Poppy Snap |
+| 269 | 502 | Magic steve |
 | 270 | 500 | Sarah Ridenour |
 | 271 | 500 | Em Chen |
-| 272 | 497 | Juliana Marques Do Nascimento Gordy |
-| 273 | 497 | Jeremy Parodi |
+| 272 | 497 | Jeremy Parodi |
+| 273 | 497 | Juliana Marques Do Nascimento Gordy |
 | 274 | 495 | Matt Johnson |
 | 275 | 493 | Lylymom |
 | 276 | 491 | Michael Buckner |
@@ -720,8 +720,8 @@
 | 712 | 204 | Kimberly Ann |
 | 713 | 203 | Tina Blessed Cage |
 | 714 | 203 | Sveta Lana |
-| 715 | 202 | Groovy Tilefall |
-| 716 | 202 | Chirpy Snapper |
+| 715 | 202 | Chirpy Snapper |
+| 716 | 202 | Groovy Tilefall |
 | 717 | 201 | Moua Ying |
 | 718 | 201 | Lakeela Wise |
 | 719 | 201 | Abby Klaski |
@@ -746,8 +746,8 @@
 | 738 | 197 | Sarah Dean |
 | 739 | 197 | Kati Russeau |
 | 740 | 197 | Karyn Yurcho Dooley |
-| 741 | 196 | Regina Unruh |
-| 742 | 196 | Boldy Block |
+| 741 | 196 | Boldy Block |
+| 742 | 196 | Regina Unruh |
 | 743 | 196 | Crafty Brickline |
 | 744 | 195 | Wakanda Forever |
 | 745 | 194 | Witty Piecebuilder |
@@ -760,9 +760,9 @@
 | 752 | 193 | Kristen Casale Berry |
 | 753 | 193 | Seth Wrieden |
 | 754 | 193 | D5wag2014 |
-| 755 | 193 | TJ Nash |
-| 756 | 193 | Kelly Ann McCormick |
-| 757 | 193 | Johanna Massaro |
+| 755 | 193 | Kelly Ann McCormick |
+| 756 | 193 | Johanna Massaro |
+| 757 | 193 | TJ Nash |
 | 758 | 192 | Beth Decker |
 | 759 | 192 | Leroy Jenkins |
 | 760 | 192 | Taylor Phillips |

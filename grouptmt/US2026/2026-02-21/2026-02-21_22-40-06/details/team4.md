@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Chastity Mitchell |
-| 112 | 208 | Twisty Cascadezone |
+| 111 | 208 | Twisty Cascadezone |
+| 112 | 208 | Chastity Mitchell |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |
@@ -144,8 +144,8 @@
 | 136 | 176 | Klo |
 | 137 | 176 | shark tato |
 | 138 | 175 | Ren Mc |
-| 139 | 174 | Zethra Prenisha Rahming |
-| 140 | 174 | Dihcheese444 |
+| 139 | 174 | Dihcheese444 |
+| 140 | 174 | Zethra Prenisha Rahming |
 | 141 | 173 | blockstar |
 | 142 | 172 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
@@ -285,7 +285,7 @@
 | 277 | 91 | wombat |
 | 278 | 91 | Sunny Filler |
 | 279 | 90 | Hyper Builder |
-| 280 | 90 | Thomas Hettenhaus |
+| 280 | 90 | Chirpy Slammer |
 | 281 | 90 | Carol Ricks Raymond |
 | 282 | 90 | Thomas Hettenhaus |
 | 283 | 89 | Jonathan Mahfood |
