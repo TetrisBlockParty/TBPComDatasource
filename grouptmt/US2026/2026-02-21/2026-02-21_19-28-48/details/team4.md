@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Antony Dwayne Beasley |
-| 85 | 218 | Casey Grabner |
+| 84 | 218 | Casey Grabner |
+| 85 | 218 | Antony Dwayne Beasley |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
@@ -113,8 +113,8 @@
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
-| 108 | 185 | Andy Cabral |
-| 109 | 185 | Peachy Fall |
+| 108 | 185 | Peachy Fall |
+| 109 | 185 | Andy Cabral |
 | 110 | 181 | Carter Jones |
 | 111 | 181 | Andria Lynn |
 | 112 | 180 | Justin Hannigan |
@@ -127,9 +127,9 @@
 | 119 | 173 | Ren Mc |
 | 120 | 173 | blockstar |
 | 121 | 170 | Girl |
-| 122 | 164 | ThaEviLJeNiuZ |
-| 123 | 164 | shark tato |
-| 124 | 164 | Katherine Crane |
+| 122 | 164 | Katherine Crane |
+| 123 | 164 | ThaEviLJeNiuZ |
+| 124 | 164 | shark tato |
 | 125 | 160 | ZeeZee |
 | 126 | 157 | Jenna McGeorge |
 | 127 | 157 | quicksand420 |
@@ -234,10 +234,10 @@
 | 226 | 100 | Alexandra Karavias |
 | 227 | 100 | Cheery Risebuilder |
 | 228 | 100 | Jacob Richard |
-| 229 | 99 | Michael Orris |
-| 230 | 99 | Frank Cook |
-| 231 | 98 | Sam Bishop |
-| 232 | 98 | Perky Piecegrid |
+| 229 | 99 | Frank Cook |
+| 230 | 99 | Michael Orris |
+| 231 | 98 | Perky Piecegrid |
+| 232 | 98 | Sam Bishop |
 | 233 | 97 | Rosemary Foster |
 | 234 | 97 | Lindsey Gonzalez |
 | 235 | 96 | Bradley Reeves |

@@ -109,8 +109,8 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Tiff Vs Tiffany |
-| 105 | 350 | Shannon Matthew Byers |
+| 104 | 350 | Shannon Matthew Byers |
+| 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 333 | Sashay Tapae Simpson |
 | 108 | 332 | Chauntee Alfrey-Cardinale |
@@ -211,8 +211,8 @@
 | 203 | 166 | Beth Ingham |
 | 204 | 166 | Rebecca Funderburk Kirby |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Stephanie Hill |
-| 207 | 163 | Christine Trester |
+| 206 | 163 | Christine Trester |
+| 207 | 163 | Stephanie Hill |
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | BŘŰŤİÇŨŚ |
 | 210 | 161 | Irene Arreguin |

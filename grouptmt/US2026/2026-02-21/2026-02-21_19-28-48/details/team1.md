@@ -94,8 +94,8 @@
 | 86 | 239 | Cynthia Bradley |
 | 87 | 238 | John J. Cronin |
 | 88 | 230 | Frothy Pattern |
-| 89 | 228 | Trippy Redd |
-| 90 | 228 | Kellie |
+| 89 | 228 | Kellie |
+| 90 | 228 | Trippy Redd |
 | 91 | 226 | Sharon Reynolds |
 | 92 | 224 | TSwag |
 | 93 | 222 | Kristen Gideon |
@@ -193,8 +193,8 @@
 | 185 | 122 | Melissa Lemmon |
 | 186 | 122 | Margo Wagner |
 | 187 | 121 | April Carroll |
-| 188 | 120 | Alenoush Karimian |
-| 189 | 120 | Kimmie Kimms |
+| 188 | 120 | Kimmie Kimms |
+| 189 | 120 | Alenoush Karimian |
 | 190 | 119 | Tater |
 | 191 | 117 | Larry Tilton |
 | 192 | 116 | Jessica Russell |
@@ -228,7 +228,7 @@
 | 220 | 103 | Sleepysloath5745 |
 | 221 | 103 | Kayla Marie Stevenson |
 | 222 | 102 | Dizzy Riseclear |
-| 223 | 101 | Jessie |
+| 223 | 101 | Owicked1 |
 | 224 | 101 | Loony Fitzone |
 | 225 | 101 | MommaKFC |
 | 226 | 101 | Mizzledagod |
