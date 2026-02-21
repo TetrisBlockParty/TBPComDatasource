@@ -142,8 +142,8 @@
 | 134 | 455 | Alicia Parrish |
 | 135 | 453 | Osun Anuket Esu |
 | 136 | 450 | Giggy Blocker |
-| 137 | 448 | Jojo Momma |
-| 138 | 448 | Nick Jensen |
+| 137 | 448 | Nick Jensen |
+| 138 | 448 | Jojo Momma |
 | 139 | 442 | Daphne Jordan |
 | 140 | 440 | BYM4L |
 | 141 | 433 | Lola Contreras |
@@ -167,8 +167,8 @@
 | 159 | 386 | Ashie Ann |
 | 160 | 385 | Sam |
 | 161 | 381 | Amanda Ferrell |
-| 162 | 380 | Joshua Mandel |
-| 163 | 380 | Calandra Shaya Robinson |
+| 162 | 380 | Calandra Shaya Robinson |
+| 163 | 380 | Joshua Mandel |
 | 164 | 377 | Roy Salyer |
 | 165 | 377 | Liberty |
 | 166 | 365 | April Dawn Gussler |
@@ -184,8 +184,8 @@
 | 176 | 345 | Brenda Messer |
 | 177 | 345 | Rhianna DiLorenzo |
 | 178 | 345 | Wuntayk |
-| 179 | 344 | Julie Kresal |
-| 180 | 344 | Christina Lewis-Vickers |
+| 179 | 344 | Christina Lewis-Vickers |
+| 180 | 344 | Julie Kresal |
 | 181 | 342 | Tracy Wise |
 | 182 | 339 | Qiana Sanders |
 | 183 | 337 | Joseph Musick |
@@ -207,8 +207,8 @@
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
 | 201 | 312 | Michelle Pike |
-| 202 | 311 | Dizzy Zone |
-| 203 | 311 | Véronique Lévesque Sabourin |
+| 202 | 311 | Véronique Lévesque Sabourin |
+| 203 | 311 | Dizzy Zone |
 | 204 | 309 | James Zaragoza |
 | 205 | 309 | Oscar Bernie |
 | 206 | 306 | Kristopher Miller |
@@ -416,8 +416,8 @@
 | 408 | 169 | Hyper Cluster |
 | 409 | 169 | Eddie Perez |
 | 410 | 169 | Fi Ne |
-| 411 | 168 | Kati Russeau |
-| 412 | 168 | HarleyJane |
+| 411 | 168 | HarleyJane |
+| 412 | 168 | Kati Russeau |
 | 413 | 168 | Phil J. Grombliniak |
 | 414 | 167 | mshir |
 | 415 | 167 | Sabrena Yeisley |

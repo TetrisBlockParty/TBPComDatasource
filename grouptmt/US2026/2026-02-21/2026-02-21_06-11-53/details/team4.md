@@ -87,7 +87,7 @@
 | 79 | 132 | Degenerate |
 | 80 | 131 | Zany Twisterfit |
 | 81 | 131 | Dana Scott |
-| 82 | 131 | Zany Twisterfit |
+| 82 | 131 | Mr. Party |
 | 83 | 130 | Casey Jeffcoat |
 | 84 | 130 | Lucas J Sutton |
 | 85 | 129 | John Brunetti |
