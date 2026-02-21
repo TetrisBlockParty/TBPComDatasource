@@ -115,8 +115,8 @@
 | 107 | 520 | Kimberly Schall |
 | 108 | 519 | Maria Escobar |
 | 109 | 517 | Debra Williams |
-| 110 | 515 | Real Ri |
-| 111 | 515 | Kaylee McCafferty |
+| 110 | 515 | Kaylee McCafferty |
+| 111 | 515 | Real Ri |
 | 112 | 509 | Kelli Wells |
 | 113 | 505 | Danielle Johnson-Chandler |
 | 114 | 503 | Butta |
@@ -225,16 +225,16 @@
 | 217 | 278 | Noel Tarmy |
 | 218 | 278 | Victoria Moore-Smith |
 | 219 | 276 | Lindsey Leigh |
-| 220 | 276 | Amber Gray |
-| 221 | 276 | Vonceial Boone |
+| 220 | 276 | Vonceial Boone |
+| 221 | 276 | Amber Gray |
 | 222 | 275 | Shiny Rollzone |
 | 223 | 274 | Melissa Holsinger |
 | 224 | 274 | Jamie Stevey |
 | 225 | 273 | Jenna Nance |
 | 226 | 272 | August Hale |
 | 227 | 271 | Ann Marie Davis |
-| 228 | 271 | Toni Lynn |
-| 229 | 271 | Lonne Emade |
+| 228 | 271 | Lonne Emade |
+| 229 | 271 | Toni Lynn |
 | 230 | 270 | Alexandra Weir |
 | 231 | 268 | Vanessa Moreno |
 | 232 | 268 | Chummy Blockbuilder |
@@ -311,10 +311,10 @@
 | 303 | 215 | Jordan Petro |
 | 304 | 212 | Aleasha M Brown |
 | 305 | 212 | Amanda Canterbury |
-| 306 | 208 | Smashanator |
-| 307 | 208 | Mema |
-| 308 | 207 | Brave Gridpiece |
-| 309 | 207 | Melissa McCall |
+| 306 | 208 | Mema |
+| 307 | 208 | Smashanator |
+| 308 | 207 | Melissa McCall |
+| 309 | 207 | Brave Gridpiece |
 | 310 | 206 | RAEPR05 |
 | 311 | 206 | Julio A Laracuente |
 | 312 | 205 | Lylymom |
@@ -328,8 +328,8 @@
 | 320 | 201 | Peppy Snapfall |
 | 321 | 200 | Sarah Ridenour |
 | 322 | 200 | Cheeky Brickmatch |
-| 323 | 199 | Jenny Castro |
-| 324 | 199 | Jessica Sutter |
+| 323 | 199 | Jessica Sutter |
+| 324 | 199 | Jenny Castro |
 | 325 | 198 | Alyssa Dean |
 | 326 | 197 | Scott Treadway |
 | 327 | 196 | Besma Ao |
@@ -448,8 +448,8 @@
 | 440 | 152 | JP Parks |
 | 441 | 151 | Jennifer Rajek |
 | 442 | 151 | D'Aaron Black |
-| 443 | 150 | Candace Noel |
-| 444 | 150 | Jodi Mitnick |
+| 443 | 150 | Jodi Mitnick |
+| 444 | 150 | Candace Noel |
 | 445 | 150 | Hong Tang |
 | 446 | 149 | Melissa Rebbe-Lehman |
 | 447 | 149 | Lori Maring |

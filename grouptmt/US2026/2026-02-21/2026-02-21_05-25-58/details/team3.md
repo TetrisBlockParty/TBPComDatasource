@@ -164,8 +164,8 @@
 | 156 | 114 | Nicholas Roddy |
 | 157 | 114 | Jessica Bechler |
 | 158 | 113 | Valerie Gendron |
-| 159 | 110 | Stella |
-| 160 | 110 | Tiff Vs Tiffany |
+| 159 | 110 | Tiff Vs Tiffany |
+| 160 | 110 | Stella |
 | 161 | 109 | Diana Ibarra |
 | 162 | 109 | Brian Battjes |
 | 163 | 109 | Fredd Thomas |

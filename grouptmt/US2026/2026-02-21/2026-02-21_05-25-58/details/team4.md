@@ -41,8 +41,8 @@
 | 33 | 256 | Brittney Griggs |
 | 34 | 246 | Dustin Robert |
 | 35 | 244 | Isabella Blanco |
-| 36 | 231 | Jenna Ingersoll |
-| 37 | 231 | Michelle Marie |
+| 36 | 231 | Michelle Marie |
+| 37 | 231 | Jenna Ingersoll |
 | 38 | 220 | Julian Garcia |
 | 39 | 217 | Elizabeth Sallas |
 | 40 | 207 | Alyssa Papen |
