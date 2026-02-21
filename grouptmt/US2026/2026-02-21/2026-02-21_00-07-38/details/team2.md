@@ -90,16 +90,16 @@
 | 82 | 350 | Chris Harr |
 | 83 | 346 | Gene Mills |
 | 84 | 345 | Brenda Messer |
-| 85 | 345 | Alyssaaelena |
-| 86 | 345 | Rhianna DiLorenzo |
+| 85 | 345 | Rhianna DiLorenzo |
+| 86 | 345 | Alyssaaelena |
 | 87 | 342 | Tracy Wise |
 | 88 | 341 | Sarah Freitas |
 | 89 | 341 | Sam McKenzie |
 | 90 | 340 | Kimberly Randesi |
 | 91 | 337 | Alisha Peoples |
 | 92 | 328 | Marie Boyd Faulk |
-| 93 | 323 | Danielle Simmons |
-| 94 | 323 | Daphne Jordan |
+| 93 | 323 | Daphne Jordan |
+| 94 | 323 | Danielle Simmons |
 | 95 | 317 | Debra Williams |
 | 96 | 317 | bru |
 | 97 | 299 | Véronique Lévesque Sabourin |
@@ -134,8 +134,8 @@
 | 126 | 255 | Santana Miyagi |
 | 127 | 254 | Libby Hicks |
 | 128 | 252 | Alezandra Smith |
-| 129 | 250 | Jessie McDougald |
-| 130 | 250 | Barbra Miller |
+| 129 | 250 | Barbra Miller |
+| 130 | 250 | Jessie McDougald |
 | 131 | 249 | Janel Turley-Garner |
 | 132 | 247 | Fancy Twister |
 | 133 | 247 | Andrea Devery Beck |
@@ -177,15 +177,15 @@
 | 169 | 200 | Sarah Ridenour |
 | 170 | 198 | Richard Horton |
 | 171 | 198 | Julio A Laracuente |
-| 172 | 197 | Smashanator |
-| 173 | 197 | Osun Anuket Esu |
+| 172 | 197 | Osun Anuket Esu |
+| 173 | 197 | Smashanator |
 | 174 | 196 | Alexandra Reese |
 | 175 | 194 | Mike Aprilliano |
 | 176 | 194 | Tammy Allen |
 | 177 | 193 | Ariel |
 | 178 | 191 | Deana |
-| 179 | 190 | Alyssa Dean |
-| 180 | 190 | blarg |
+| 179 | 190 | blarg |
+| 180 | 190 | Alyssa Dean |
 | 181 | 189 | Sanaa Nounoussa |
 | 182 | 187 | Wendy Harder Gage |
 | 183 | 186 | Drwatson187 |
@@ -219,8 +219,8 @@
 | 211 | 163 | Dedra Steward |
 | 212 | 161 | Austin Wilson |
 | 213 | 160 | Jessicah Myers |
-| 214 | 160 | Rhonda Petro |
-| 215 | 160 | Cynthia Ward |
+| 214 | 160 | Cynthia Ward |
+| 215 | 160 | Rhonda Petro |
 | 216 | 159 | Charvi' Carter |
 | 217 | 158 | Toni Roberson |
 | 218 | 158 | RaeVan Worthington |
