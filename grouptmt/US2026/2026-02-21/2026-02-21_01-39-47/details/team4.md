@@ -106,8 +106,8 @@
 | 98 | 72 | Jae Job |
 | 99 | 71 | Christina Black |
 | 100 | 71 | Joseph Pace |
-| 101 | 70 | Valerie Roberts |
-| 102 | 70 | Shukee Lo |
+| 101 | 70 | Shukee Lo |
+| 102 | 70 | Valerie Roberts |
 | 103 | 69 | Carol Ricks Raymond |
 | 104 | 68 | LS |
 | 105 | 68 | Sam Middleton |
