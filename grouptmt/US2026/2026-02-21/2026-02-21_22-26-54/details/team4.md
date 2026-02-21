@@ -140,12 +140,12 @@
 | 132 | 181 | Andria Lynn |
 | 133 | 180 | Leah Kutz Zirbel |
 | 134 | 178 | Lori |
-| 135 | 176 | Klo |
-| 136 | 176 | Stacey Stano |
+| 135 | 176 | Stacey Stano |
+| 136 | 176 | Klo |
 | 137 | 175 | Ren Mc |
 | 138 | 174 | shark tato |
-| 139 | 174 | Dihcheese444 |
-| 140 | 174 | Zethra Prenisha Rahming |
+| 139 | 174 | Zethra Prenisha Rahming |
+| 140 | 174 | Dihcheese444 |
 | 141 | 173 | blockstar |
 | 142 | 171 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
@@ -155,8 +155,8 @@
 | 147 | 156 | Holly |
 | 148 | 155 | AyeKay |
 | 149 | 153 | Empress Oasis |
-| 150 | 153 | Chair |
-| 151 | 153 | Avy Absol |
+| 150 | 153 | Avy Absol |
+| 151 | 153 | Chair |
 | 152 | 151 | Bethany Ison |
 | 153 | 149 | Shainne Brewer |
 | 154 | 149 | Roger Coulter |
@@ -173,8 +173,8 @@
 | 165 | 140 | Stephme310 |
 | 166 | 140 | Shannon Ferrari |
 | 167 | 137 | PeaceOs |
-| 168 | 136 | Tanner Lund |
-| 169 | 136 | Sarah Brown |
+| 168 | 136 | Sarah Brown |
+| 169 | 136 | Tanner Lund |
 | 170 | 135 | Victoria Faniel |
 | 171 | 134 | Chirpy Basepiece |
 | 172 | 134 | Kim Klutz Olson |
@@ -268,8 +268,8 @@
 | 260 | 98 | Perky Piecegrid |
 | 261 | 97 | Rosemary Foster |
 | 262 | 97 | Marcela Johnson |
-| 263 | 96 | Jessica Miller |
-| 264 | 96 | Marcus TheeyoungWoe Gilmore |
+| 263 | 96 | Marcus TheeyoungWoe Gilmore |
+| 264 | 96 | Jessica Miller |
 | 265 | 96 | Sammy Noguera |
 | 266 | 95 | LS |
 | 267 | 95 | Patron Anderson |

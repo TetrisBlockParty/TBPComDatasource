@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | Judi Dobson |
-| 150 | 256 | ren |
+| 149 | 256 | ren |
+| 150 | 256 | Judi Dobson |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |
@@ -201,8 +201,8 @@
 | 193 | 200 | glichmod |
 | 194 | 197 | Staci George Fitzsimmons |
 | 195 | 195 | Nicha Hooker |
-| 196 | 193 | Clever Shiftsnap |
-| 197 | 193 | Angie Harper |
+| 196 | 193 | Angie Harper |
+| 197 | 193 | Clever Shiftsnap |
 | 198 | 193 | Stephanie Burtin |
 | 199 | 192 | Kelly Ann Child |
 | 200 | 191 | Brenda Lee Vander Molen |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Hyper Matchzone |
-| 214 | 182 | Raven Dudley |
+| 213 | 182 | Raven Dudley |
+| 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Daira Largen |
