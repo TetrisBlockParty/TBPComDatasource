@@ -22,8 +22,8 @@
 | 14 | 608 | Denny Shives |
 | 15 | 606 | Rachel Anne |
 | 16 | 594 | Lucille Truesdale |
-| 17 | 590 | Dee Kay |
-| 18 | 590 | Valerie Roberts |
+| 17 | 590 | Valerie Roberts |
+| 18 | 590 | Dee Kay |
 | 19 | 589 | Chilly Line |
 | 20 | 587 | Koshin Abdirahman |
 | 21 | 578 | Leah Gorsuch |
@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Degenerate |
-| 95 | 132 | Jessica Cagle |
-| 96 | 132 | Melissa Priest Sellers |
+| 94 | 132 | Jessica Cagle |
+| 95 | 132 | Melissa Priest Sellers |
+| 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
 | 99 | 131 | Dana Scott |
@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
-| 109 | 123 | Cherrish Duren |
+| 108 | 123 | Cherrish Duren |
+| 109 | 123 | Nugget |
 | 110 | 122 | Sherri |
 | 111 | 121 | Zany Shatterer |
 | 112 | 121 | Klo |

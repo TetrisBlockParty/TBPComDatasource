@@ -89,8 +89,8 @@
 | 81 | 162 | Patrick Luckenbill |
 | 82 | 161 | Abbey Crespo |
 | 83 | 156 | Jessie Lynn |
-| 84 | 155 | Standia Civil |
-| 85 | 155 | David DeSantis |
+| 84 | 155 | David DeSantis |
+| 85 | 155 | Standia Civil |
 | 86 | 153 | Shiny Gridmatch |
 | 87 | 152 | Jacqueline Unique |
 | 88 | 149 | Tana |
@@ -140,9 +140,9 @@
 | 132 | 110 | Garcia Bailey |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
-| 135 | 106 | Aimee Horton |
-| 136 | 106 | Bloknboy |
-| 137 | 106 | Ash Galvan |
+| 135 | 106 | Bloknboy |
+| 136 | 106 | Ash Galvan |
+| 137 | 106 | Aimee Horton |
 | 138 | 105 | Flashy Rotator |
 | 139 | 104 | Charla Pross-Fugleberg |
 | 140 | 104 | Bindi |
@@ -166,8 +166,8 @@
 | 158 | 93 | Cody Gates |
 | 159 | 92 | Timothy Dew |
 | 160 | 90 | Dizzy Party |
-| 161 | 90 | TSwag |
-| 162 | 90 | Madison Wicks |
+| 161 | 90 | Madison Wicks |
+| 162 | 90 | TSwag |
 | 163 | 89 | Mara Hilker |
 | 164 | 88 | Larry Tilton |
 | 165 | 87 | Jenny Gingrich Fuentes |

@@ -32,8 +32,8 @@
 | 24 | 852 | cowboy25469 |
 | 25 | 821 | Jessica Ann |
 | 26 | 818 | Delilah belle |
-| 27 | 810 | Shane Wilson Jr. |
-| 28 | 810 | Zippy Strikesnap |
+| 27 | 810 | Zippy Strikesnap |
+| 28 | 810 | Shane Wilson Jr. |
 | 29 | 772 | Corie A. Brinson |
 | 30 | 733 | Chummy Shatterer |
 | 31 | 714 | Amber Jones |
@@ -138,8 +138,8 @@
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -147,13 +147,13 @@
 | 139 | 159 | Jone |
 | 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Stephanie Whitefield |
-| 148 | 153 | Beth Ingham |
+| 147 | 153 | Beth Ingham |
+| 148 | 153 | Stephanie Whitefield |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
