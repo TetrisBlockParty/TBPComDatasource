@@ -476,8 +476,8 @@
 | 468 | 273 | Dapper Dasher |
 | 469 | 272 | Mikayala Szaz |
 | 470 | 271 | Ann Marie Davis |
-| 471 | 271 | Toni Lynn |
-| 472 | 271 | Loony Basepiece |
+| 471 | 271 | Loony Basepiece |
+| 472 | 271 | Toni Lynn |
 | 473 | 270 | NickyBrooks |
 | 474 | 270 | Tim Dyer |
 | 475 | 269 | Reece Smith |
@@ -505,8 +505,8 @@
 | 497 | 254 | Elizabeth Diraffaele |
 | 498 | 254 | Julie Hamilton |
 | 499 | 254 | snkylnk |
-| 500 | 253 | Kitybox |
-| 501 | 253 | Kimmy Newman |
+| 500 | 253 | Kimmy Newman |
+| 501 | 253 | Kitybox |
 | 502 | 253 | Luna |
 | 503 | 253 | Tansaria Couch-Butler |
 | 504 | 252 | Alyssia Tancredi |
@@ -582,8 +582,8 @@
 | 574 | 223 | Michele Moren |
 | 575 | 223 | Kristi Biddinger |
 | 576 | 222 | Amanda Canterbury |
-| 577 | 222 | Stanley Vanekelenburg |
-| 578 | 222 | Maxwell Escalera |
+| 577 | 222 | Maxwell Escalera |
+| 578 | 222 | Stanley Vanekelenburg |
 | 579 | 221 | Michelle Lee |
 | 580 | 220 | Katrina Weston |
 | 581 | 220 | Sho Nuff |
@@ -593,10 +593,10 @@
 | 585 | 217 | Natasha Edmonds |
 | 586 | 217 | Klee |
 | 587 | 217 | Layna Lyons |
-| 588 | 215 | Trista Carter |
-| 589 | 215 | Ashlyn Berner |
-| 590 | 214 | Joy LaJeunesse |
-| 591 | 214 | Cass Shirley |
+| 588 | 215 | Ashlyn Berner |
+| 589 | 215 | Trista Carter |
+| 590 | 214 | Cass Shirley |
+| 591 | 214 | Joy LaJeunesse |
 | 592 | 214 | Dawn L Washington-Feuquay |
 | 593 | 212 | Denelle Wendt-Ramalho |
 | 594 | 212 | BK Queen |
@@ -615,8 +615,8 @@
 | 607 | 208 | Lauren Fitzgerald Thomas |
 | 608 | 208 | Nerdy Riserfit |
 | 609 | 207 | Sara Pennington |
-| 610 | 207 | Nicolle Danielle |
-| 611 | 207 | Caitlin Johnson |
+| 610 | 207 | Caitlin Johnson |
+| 611 | 207 | Nicolle Danielle |
 | 612 | 206 | RAEPR05 |
 | 613 | 206 | Neko Preston |
 | 614 | 205 | ElizabethAnn Dickinson |

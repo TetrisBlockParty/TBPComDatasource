@@ -30,12 +30,12 @@
 | 22 | 676 | Lucille Truesdale |
 | 23 | 647 | Robin Watters |
 | 24 | 636 | Rachel Anne |
-| 25 | 625 | Kimyatta Cavin |
-| 26 | 625 | GreenJeepGirl |
+| 25 | 625 | GreenJeepGirl |
+| 26 | 625 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Lucas J Sutton |
-| 80 | 230 | Autum Leigh |
+| 79 | 230 | Autum Leigh |
+| 80 | 230 | Lucas J Sutton |
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
@@ -215,8 +215,8 @@
 | 207 | 105 | Brandi Durig |
 | 208 | 104 | Chris Alexinas |
 | 209 | 103 | Lauren Lamb |
-| 210 | 103 | Richard-April Kice |
-| 211 | 103 | Chris Bernstein |
+| 210 | 103 | Chris Bernstein |
+| 211 | 103 | Richard-April Kice |
 | 212 | 103 | Kate |
 | 213 | 102 | Jumpy Zonepiece |
 | 214 | 102 | Autumn Kumzi |

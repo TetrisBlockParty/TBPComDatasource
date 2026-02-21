@@ -153,8 +153,8 @@
 | 145 | 148 | Shauntina Burke |
 | 146 | 147 | Leslie Bush Yarbrough |
 | 147 | 146 | Christy Jones |
-| 148 | 145 | Angela Fairbank |
-| 149 | 145 | Agustin Duarte Orozco |
+| 148 | 145 | Agustin Duarte Orozco |
+| 149 | 145 | Angela Fairbank |
 | 150 | 144 | Bouncy Grid |
 | 151 | 144 | femmefatale |
 | 152 | 144 | Gary Gobin |

@@ -109,8 +109,8 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Tiff Vs Tiffany |
-| 105 | 350 | Shannon Matthew Byers |
+| 104 | 350 | Shannon Matthew Byers |
+| 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
 | 108 | 323 | Ashley Raines |
@@ -121,8 +121,8 @@
 | 113 | 316 | Fancy Cascader |
 | 114 | 312 | Jay Horn |
 | 115 | 309 | Rich LeBlanc |
-| 116 | 307 | Peggi Charon |
-| 117 | 307 | Blocked |
+| 116 | 307 | Blocked |
+| 117 | 307 | Peggi Charon |
 | 118 | 300 | Sherika C. McDaniels |
 | 119 | 300 | Tessina Dewey-Mancino |
 | 120 | 293 | Poppy Splitter |
@@ -177,8 +177,8 @@
 | 169 | 195 | Michael Lucado |
 | 170 | 194 | glichmod |
 | 171 | 193 | Stephanie Burtin |
-| 172 | 193 | Duane Bright |
-| 173 | 193 | Clever Shiftsnap |
+| 172 | 193 | Clever Shiftsnap |
+| 173 | 193 | Duane Bright |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
 | 176 | 191 | Scott Carleton |
@@ -197,8 +197,8 @@
 | 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Connie Mohler-Fair |
-| 192 | 175 | DanceLuvLaugh |
-| 193 | 175 | Tasha Wesson-Torrence |
+| 192 | 175 | Tasha Wesson-Torrence |
+| 193 | 175 | DanceLuvLaugh |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
 | 196 | 173 | Sarajane Lokan |
@@ -216,8 +216,8 @@
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | BŘŰŤİÇŨŚ |
 | 210 | 161 | Irene Arreguin |
-| 211 | 160 | Marquita Sheard |
-| 212 | 160 | Tiffany Davie |
+| 211 | 160 | Tiffany Davie |
+| 212 | 160 | Marquita Sheard |
 | 213 | 159 | Jone |
 | 214 | 157 | Patricia Gadsden |
 | 215 | 156 | Bea Miles |
@@ -233,8 +233,8 @@
 | 225 | 152 | Shiny Zonebuilder |
 | 226 | 150 | Valerie Gendron |
 | 227 | 149 | Angel Mendez |
-| 228 | 149 | Peachy Rollfit |
-| 229 | 149 | Alexis Taylor |
+| 228 | 149 | Alexis Taylor |
+| 229 | 149 | Peachy Rollfit |
 | 230 | 148 | Jennifer Alvey |
 | 231 | 148 | Sabrina Hardrick |
 | 232 | 148 | Wetwet |
@@ -260,8 +260,8 @@
 | 252 | 134 | Cesar Barraza |
 | 253 | 134 | Skinny Baldez |
 | 254 | 133 | LaNette Morgan |
-| 255 | 131 | April Matthew Kibble |
-| 256 | 131 | Darlene McMillan |
+| 255 | 131 | Darlene McMillan |
+| 256 | 131 | April Matthew Kibble |
 | 257 | 130 | Weerae |
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |
@@ -287,7 +287,7 @@
 | 279 | 121 | Fredd Thomas |
 | 280 | 119 | Daring Builder |
 | 281 | 119 | BugMansMom |
-| 282 | 119 | Daring Builder |
+| 282 | 119 | Santeria Trece Candles |
 | 283 | 118 | Fancy Curver |
 | 284 | 118 | Damian Reid |
 | 285 | 117 | Dee Pratt |
