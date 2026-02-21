@@ -663,9 +663,9 @@
 | 655 | 144 | Regina Young |
 | 656 | 144 | Tee Davis |
 | 657 | 144 | RavensBeard |
-| 658 | 144 | Jamie Brickley |
-| 659 | 144 | Tristan Lamothe |
-| 660 | 144 | Alexis Richardson |
+| 658 | 144 | Tristan Lamothe |
+| 659 | 144 | Alexis Richardson |
+| 660 | 144 | Jamie Brickley |
 | 661 | 143 | Gigi |
 | 662 | 143 | Jay Levy |
 | 663 | 142 | Marsha Sosa Kiech |
@@ -694,8 +694,8 @@
 | 686 | 140 | Sheretta Holmes Lil'bit |
 | 687 | 140 | Nadia Batista Garcia |
 | 688 | 139 | Alison Emmons |
-| 689 | 139 | Jackson Smith |
-| 690 | 139 | Octavio Garza |
+| 689 | 139 | Octavio Garza |
+| 690 | 139 | Jackson Smith |
 | 691 | 139 | Tamara Slaten |
 | 692 | 138 | Gursharan Sandhu |
 | 693 | 138 | Jennie Lee Huntley |

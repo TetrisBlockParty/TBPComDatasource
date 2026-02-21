@@ -58,8 +58,8 @@
 | 50 | 272 | Adam Byrd |
 | 51 | 264 | Shauna Loe |
 | 52 | 257 | Sarah Roberts |
-| 53 | 256 | Robert Benito |
-| 54 | 256 | Tipsy Column |
+| 53 | 256 | Tipsy Column |
+| 54 | 256 | Robert Benito |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
 | 57 | 244 | Franswa |
@@ -77,8 +77,8 @@
 | 69 | 204 | Ly Phethmany |
 | 70 | 204 | Lexuriuos Lifestlye |
 | 71 | 202 | Dee Perry |
-| 72 | 201 | Ananda Mendez |
-| 73 | 201 | Ryan Lunnin |
+| 72 | 201 | Ryan Lunnin |
+| 73 | 201 | Ananda Mendez |
 | 74 | 201 | Anaid Sanchez |
 | 75 | 198 | Billie Dawn Sparks |
 | 76 | 198 | Happy Snapbuild |

@@ -37,8 +37,8 @@
 | 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Shane Wilson Jr. |
-| 33 | 810 | Zippy Strikesnap |
+| 32 | 810 | Zippy Strikesnap |
+| 33 | 810 | Shane Wilson Jr. |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 714 | Amber Jones |
@@ -195,8 +195,8 @@
 | 187 | 143 | Nikki Pags |
 | 188 | 142 | Erica Anderson |
 | 189 | 141 | Connie Mohler-Fair |
-| 190 | 140 | Gumbo |
-| 191 | 140 | Jay Horn |
+| 190 | 140 | Jay Horn |
+| 191 | 140 | Gumbo |
 | 192 | 137 | Ashley Lynn Marchese |
 | 193 | 136 | Boldy Corner |
 | 194 | 136 | Brenda Lee Vander Molen |
@@ -326,9 +326,9 @@
 | 318 | 83 | Glitzy Slide |
 | 319 | 83 | Deseree Ewing |
 | 320 | 82 | Justice 4 P |
-| 321 | 82 | Rebecca Funderburk Kirby |
+| 321 | 82 | lema ean |
 | 322 | 82 | Moimyzean |
-| 323 | 82 | lema ean |
+| 323 | 82 | Rebecca Funderburk Kirby |
 | 324 | 82 | Eileen Brady Thurber |
 | 325 | 81 | Tina Baurdau |
 | 326 | 81 | Joseph Vargas |
@@ -413,8 +413,8 @@
 | 405 | 70 | Brave Bruno |
 | 406 | 69 | Kristian Thurman |
 | 407 | 69 | Lisa Feddeck |
-| 408 | 69 | Frilly Stackzone |
-| 409 | 69 | Spunky Combofall |
+| 408 | 69 | Spunky Combofall |
+| 409 | 69 | Frilly Stackzone |
 | 410 | 68 | Reina Roth |
 | 411 | 68 | Charles Perrone |
 | 412 | 68 | Tamara Deherrera |

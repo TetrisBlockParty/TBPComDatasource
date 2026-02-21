@@ -89,8 +89,8 @@
 | 81 | 180 | Leah Kutz Zirbel |
 | 82 | 179 | Epic Curvetile |
 | 83 | 178 | Lori |
-| 84 | 173 | Jeff Brian Gates |
-| 85 | 173 | Zethra Prenisha Rahming |
+| 84 | 173 | Zethra Prenisha Rahming |
+| 85 | 173 | Jeff Brian Gates |
 | 86 | 171 | Melvin Baird |
 | 87 | 170 | Justin Hannigan |
 | 88 | 170 | Girl |
@@ -99,8 +99,8 @@
 | 91 | 165 | Casey Grabner |
 | 92 | 164 | ThaEviLJeNiuZ |
 | 93 | 162 | Shauna Havard |
-| 94 | 160 | Carter Jones |
-| 95 | 160 | Stacey Stano |
+| 94 | 160 | Stacey Stano |
+| 95 | 160 | Carter Jones |
 | 96 | 159 | Holly Jolly |
 | 97 | 158 | Jae Job |
 | 98 | 157 | quicksand420 |
