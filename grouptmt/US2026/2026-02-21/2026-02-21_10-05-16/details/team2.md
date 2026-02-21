@@ -258,8 +258,8 @@
 | 250 | 303 | Crystal Greene |
 | 251 | 303 | Amanda Schaffer |
 | 252 | 301 | Claire |
-| 253 | 299 | Christy Krissie |
-| 254 | 299 | Deborah Miller |
+| 253 | 299 | Deborah Miller |
+| 254 | 299 | Christy Krissie |
 | 255 | 297 | Brenda Utphall |
 | 256 | 296 | Amber Gray |
 | 257 | 296 | Jennifer Casey-Kay |
@@ -1874,8 +1874,8 @@
 | 1866 | 49 | Hasty Chiseler |
 | 1867 | 49 | Jamie Dayton |
 | 1868 | 49 | Aaron Lapointe |
-| 1869 | 49 | Melissa James |
-| 1870 | 49 | Jenn Schwehr |
+| 1869 | 49 | Jenn Schwehr |
+| 1870 | 49 | Melissa James |
 | 1871 | 48 | Frothy Rollzone |
 | 1872 | 48 | Nikki Vaughn |
 | 1873 | 48 | Jazzy Tilefall |

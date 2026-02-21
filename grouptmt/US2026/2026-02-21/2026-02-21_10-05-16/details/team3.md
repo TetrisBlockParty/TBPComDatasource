@@ -33,8 +33,8 @@
 | 25 | 852 | cowboy25469 |
 | 26 | 821 | Jessica Ann |
 | 27 | 818 | Delilah belle |
-| 28 | 810 | Shane Wilson Jr. |
-| 29 | 810 | Zippy Strikesnap |
+| 28 | 810 | Zippy Strikesnap |
+| 29 | 810 | Shane Wilson Jr. |
 | 30 | 772 | Corie A. Brinson |
 | 31 | 733 | Chummy Shatterer |
 | 32 | 714 | Amber Jones |
@@ -130,16 +130,16 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
-| 127 | 180 | Fallorina Susana |
-| 128 | 180 | Tessina Dewey-Mancino |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
+| 127 | 180 | Tessina Dewey-Mancino |
+| 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 165 | Kali Kelz Williams |
 | 136 | 164 | rosy |
 | 137 | 163 | Giddy Twistbuilder |
@@ -162,8 +162,8 @@
 | 154 | 149 | Angel Mendez |
 | 155 | 149 | Bea Miles |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Denita Mungro |
-| 158 | 146 | Latoya Mayne |
+| 157 | 146 | Latoya Mayne |
+| 158 | 146 | Denita Mungro |
 | 159 | 145 | Bryan Byrd |
 | 160 | 142 | Erica Anderson |
 | 161 | 142 | Nicole Flippo |
@@ -204,8 +204,8 @@
 | 196 | 116 | BugMansMom |
 | 197 | 115 | Hoppy Buildout |
 | 198 | 115 | Jennifer Alvey |
-| 199 | 114 | Tiffany Davie |
-| 200 | 114 | Jessica Bechler |
+| 199 | 114 | Jessica Bechler |
+| 200 | 114 | Tiffany Davie |
 | 201 | 113 | Brian Battjes |
 | 202 | 113 | Valerie Gendron |
 | 203 | 112 | Marci Mize Fandrich |
@@ -250,7 +250,7 @@
 | 242 | 98 | Erika Thornton |
 | 243 | 97 | Ashley Jones |
 | 244 | 97 | mzcatzy |
-| 245 | 96 | D3NO |
+| 245 | 96 | Christopher Woost |
 | 246 | 96 | Jason-Ashley Ludlow |
 | 247 | 96 | D3NO |
 | 248 | 96 | Tasha Wesson-Torrence |
@@ -286,8 +286,8 @@
 | 278 | 85 | Crystel b520 |
 | 279 | 85 | Chris Bell |
 | 280 | 84 | gremicx |
-| 281 | 84 | Flashy Rumbler |
-| 282 | 84 | Spunky Racker |
+| 281 | 84 | Spunky Racker |
+| 282 | 84 | Flashy Rumbler |
 | 283 | 83 | Deseree Ewing |
 | 284 | 82 | Rebecca Funderburk Kirby |
 | 285 | 81 | Tina Baurdau |
