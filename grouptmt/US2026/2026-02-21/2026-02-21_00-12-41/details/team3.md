@@ -74,8 +74,8 @@
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
 | 68 | 141 | Denita Mungro |
-| 69 | 135 | Latoya Mayne |
-| 70 | 135 | Danielle Cutler |
+| 69 | 135 | Danielle Cutler |
+| 70 | 135 | Latoya Mayne |
 | 71 | 134 | DanceLuvLaugh |
 | 72 | 130 | Zippy Strikesnap |
 | 73 | 130 | Tessina Dewey-Mancino |

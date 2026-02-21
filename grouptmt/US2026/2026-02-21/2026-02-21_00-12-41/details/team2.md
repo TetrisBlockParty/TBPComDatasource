@@ -121,8 +121,8 @@
 | 113 | 268 | Vanessa Moreno |
 | 114 | 266 | Mighty Shatterfit |
 | 115 | 266 | Joyce Johnson Vaughn |
-| 116 | 265 | Joseph Musick |
-| 117 | 265 | Wuntayk |
+| 116 | 265 | Wuntayk |
+| 117 | 265 | Joseph Musick |
 | 118 | 264 | Lonne Emade |
 | 119 | 263 | Taylor Flowers |
 | 120 | 263 | Oscar Bernie |
