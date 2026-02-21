@@ -147,8 +147,8 @@
 | 139 | 297 | Michelle Pike |
 | 140 | 297 | James Zaragoza |
 | 141 | 296 | Jennifer Casey-Kay |
-| 142 | 295 | Zany Clusterbuilder |
-| 143 | 295 | Diallo Sparkman |
+| 142 | 295 | Diallo Sparkman |
+| 143 | 295 | Zany Clusterbuilder |
 | 144 | 290 | Jessie McDougald |
 | 145 | 287 | Claire |
 | 146 | 286 | Juanita Lyons |
@@ -156,8 +156,8 @@
 | 148 | 285 | June E Hanson |
 | 149 | 284 | Brittney Jean |
 | 150 | 280 | Kimberly Schall |
-| 151 | 280 | TF Dyer |
-| 152 | 280 | Joseph Musick |
+| 151 | 280 | Joseph Musick |
+| 152 | 280 | TF Dyer |
 | 153 | 278 | Noel Tarmy |
 | 154 | 276 | Lindsey Leigh |
 | 155 | 275 | Shiny Rollzone |
@@ -210,8 +210,8 @@
 | 202 | 231 | Ashley Lopez |
 | 203 | 227 | Nutty Matchline |
 | 204 | 227 | Alyssia Tancredi |
-| 205 | 223 | Matt Johnson |
-| 206 | 223 | LegoCarpet |
+| 205 | 223 | LegoCarpet |
+| 206 | 223 | Matt Johnson |
 | 207 | 222 | snkylnk |
 | 208 | 222 | Ariel |
 | 209 | 220 | Mary Marie |

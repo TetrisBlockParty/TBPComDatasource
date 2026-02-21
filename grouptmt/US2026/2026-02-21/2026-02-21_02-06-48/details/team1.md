@@ -37,8 +37,8 @@
 | 29 | 194 | Sharon Reynolds |
 | 30 | 192 | Mandyy Rae |
 | 31 | 191 | Maria C. Hernandez |
-| 32 | 190 | Thorne Shumate |
-| 33 | 190 | Sweetts |
+| 32 | 190 | Sweetts |
+| 33 | 190 | Thorne Shumate |
 | 34 | 189 | Happy Basegrid |
 | 35 | 187 | Dee Perry |
 | 36 | 185 | Karin Gillen |
@@ -235,7 +235,7 @@
 | 227 | 39 | Jason Jones |
 | 228 | 39 | Walter Brown |
 | 229 | 39 | Jenny Gingrich Fuentes |
-| 230 | 39 | cc |
+| 230 | 39 | Agustin Duarte Orozco |
 | 231 | 39 | Keith Hiller |
 | 232 | 39 | canbrick |
 | 233 | 38 | Dustin Johnston |
