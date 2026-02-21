@@ -426,8 +426,8 @@
 | 418 | 110 | Britni Deas |
 | 419 | 109 | Scott |
 | 420 | 109 | Jroc |
-| 421 | 109 | Nicolle Danielle |
-| 422 | 109 | Cranky Pattern |
+| 421 | 109 | Cranky Pattern |
+| 422 | 109 | Nicolle Danielle |
 | 423 | 109 | Lazy Riseclear |
 | 424 | 108 | Sean Kinsey |
 | 425 | 107 | Funky Riseclear |
