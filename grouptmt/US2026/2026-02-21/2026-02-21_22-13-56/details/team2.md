@@ -265,13 +265,13 @@
 | 257 | 509 | Jordan Kaiser |
 | 258 | 509 | Kelli Wells |
 | 259 | 506 | AISlop |
-| 260 | 504 | Cherica Taylor |
-| 261 | 504 | Gene Mills |
+| 260 | 504 | Gene Mills |
+| 261 | 504 | Cherica Taylor |
 | 262 | 503 | tejas25 |
-| 263 | 502 | Magic steve |
-| 264 | 502 | Poppy Snap |
-| 265 | 500 | Em Chen |
-| 266 | 500 | Sarah Ridenour |
+| 263 | 502 | Poppy Snap |
+| 264 | 502 | Magic steve |
+| 265 | 500 | Sarah Ridenour |
+| 266 | 500 | Em Chen |
 | 267 | 499 | Deanna Morton |
 | 268 | 497 | Jeremy Parodi |
 | 269 | 497 | Juliana Marques Do Nascimento Gordy |
@@ -296,8 +296,8 @@
 | 288 | 463 | Sue Leard |
 | 289 | 460 | Barbra Miller |
 | 290 | 460 | Cody Smith-Candelaria |
-| 291 | 459 | Doowop40 |
-| 292 | 459 | Brainy Smurf |
+| 291 | 459 | Brainy Smurf |
+| 292 | 459 | Doowop40 |
 | 293 | 459 | Dedra Steward |
 | 294 | 454 | Casey Schumacher |
 | 295 | 453 | Cozy Filler |
@@ -461,8 +461,8 @@
 | 453 | 317 | snkylnk |
 | 454 | 317 | Glitzy Stackzone |
 | 455 | 316 | Oscar Bernie |
-| 456 | 316 | Mikayala Szaz |
-| 457 | 316 | Gloria Ininahazwe |
+| 456 | 316 | Gloria Ininahazwe |
+| 457 | 316 | Mikayala Szaz |
 | 458 | 315 | Ryan Meilleur |
 | 459 | 314 | James Zaragoza |
 | 460 | 314 | Party d |

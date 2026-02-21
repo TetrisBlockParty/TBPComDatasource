@@ -198,8 +198,8 @@
 | 190 | 133 | Mel Hogan |
 | 191 | 133 | Kimberly Garcia |
 | 192 | 132 | Tipsy Riseclear |
-| 193 | 131 | Fmp |
-| 194 | 131 | Uhog SF |
+| 193 | 131 | Uhog SF |
+| 194 | 131 | Fmp |
 | 195 | 130 | Gilbert Ortiz Jr. |
 | 196 | 130 | LD1 |
 | 197 | 128 | lil mickey |
@@ -278,7 +278,7 @@
 | 270 | 94 | Mitchel White |
 | 271 | 93 | Dandy Towerbuilder |
 | 272 | 92 | Christina Backer |
-| 273 | 91 | Erin Hodges Plumb |
+| 273 | 91 | Beazel75 |
 | 274 | 91 | Virginia Gray Floyd |
 | 275 | 91 | Erin Hodges Plumb |
 | 276 | 90 | Nick R Montague |

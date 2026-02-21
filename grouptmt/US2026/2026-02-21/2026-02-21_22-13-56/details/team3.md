@@ -128,13 +128,13 @@
 | 120 | 332 | Chauntee Alfrey-Cardinale |
 | 121 | 327 | Dapper Snap |
 | 122 | 324 | Fancy Cascader |
-| 123 | 323 | Ashley Raines |
-| 124 | 323 | Sherry Ogden |
+| 123 | 323 | Sherry Ogden |
+| 124 | 323 | Ashley Raines |
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Peggi Charon |
-| 129 | 307 | Blocked |
+| 128 | 307 | Blocked |
+| 129 | 307 | Peggi Charon |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | Judi Dobson |
-| 150 | 256 | ren |
+| 149 | 256 | ren |
+| 150 | 256 | Judi Dobson |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |
@@ -235,9 +235,9 @@
 | 227 | 169 | Emma |
 | 228 | 169 | BŘŰŤİÇŨŚ |
 | 229 | 168 | MsBee |
-| 230 | 166 | Betty Ivy |
+| 230 | 166 | Betty Rosas |
 | 231 | 166 | Beth Ingham |
-| 232 | 166 | Betty Rosas |
+| 232 | 166 | Betty Ivy |
 | 233 | 165 | Irene Arreguin |
 | 234 | 165 | Kali Kelz Williams |
 | 235 | 163 | Stephanie Hill |
@@ -313,10 +313,10 @@
 | 305 | 127 | Jumpy Wrecker |
 | 306 | 126 | Stella |
 | 307 | 126 | France Vézina |
-| 308 | 126 | Stella |
+| 308 | 126 | Pam Holt Powell |
 | 309 | 125 | Lys |
-| 310 | 125 | Felicia Doxey |
-| 311 | 125 | Shimika Enay Wallace |
+| 310 | 125 | Shimika Enay Wallace |
+| 311 | 125 | Felicia Doxey |
 | 312 | 124 | Rania Zaqout |
 | 313 | 124 | Romeo |
 | 314 | 123 | Michael Latasha Gray |
