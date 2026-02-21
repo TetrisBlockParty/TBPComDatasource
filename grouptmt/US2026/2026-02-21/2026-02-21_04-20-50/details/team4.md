@@ -66,11 +66,11 @@
 | 58 | 145 | Edward White |
 | 59 | 141 | Malakai Darien Fox |
 | 60 | 140 | Shannon Ferrari |
-| 61 | 134 | Jessica Bohlken |
-| 62 | 134 | Chirpy Basepiece |
+| 61 | 134 | Chirpy Basepiece |
+| 62 | 134 | Jessica Bohlken |
 | 63 | 133 | Robin Watters |
-| 64 | 132 | Jenna McGeorge |
-| 65 | 132 | Degenerate |
+| 64 | 132 | Degenerate |
+| 65 | 132 | Jenna McGeorge |
 | 66 | 131 | Dustee Craddock-Harrison |
 | 67 | 130 | Casey Jeffcoat |
 | 68 | 129 | John Brunetti |
@@ -98,8 +98,8 @@
 | 90 | 107 | Marcus Todd |
 | 91 | 106 | Jonathan Kimbrough |
 | 92 | 103 | Sam Middleton |
-| 93 | 102 | YoMomma |
-| 94 | 102 | Faja |
+| 93 | 102 | Faja |
+| 94 | 102 | YoMomma |
 | 95 | 101 | Michelle Morris |
 | 96 | 100 | Stephme310 |
 | 97 | 100 | Jeff Brian Gates |
