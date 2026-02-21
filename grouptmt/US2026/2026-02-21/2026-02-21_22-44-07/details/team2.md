@@ -231,8 +231,8 @@
 | 223 | 588 | Rebecca Miller |
 | 224 | 587 | Hyper Cluster |
 | 225 | 586 | Stephen Stephen |
-| 226 | 583 | Steve Grotto |
-| 227 | 583 | Jessicah Myers |
+| 226 | 583 | Jessicah Myers |
+| 227 | 583 | Steve Grotto |
 | 228 | 582 | Gary Stash |
 | 229 | 581 | Jánine Riggs |
 | 230 | 579 | Roy Salyer |
@@ -263,8 +263,8 @@
 | 255 | 519 | Deanna Morton |
 | 256 | 519 | Rob Brown |
 | 257 | 514 | Laquetta Royston |
-| 258 | 514 | Dizzy Zone |
-| 259 | 514 | Lisa Ongtowasruk |
+| 258 | 514 | Lisa Ongtowasruk |
+| 259 | 514 | Dizzy Zone |
 | 260 | 513 | Angela Bonquiqui Dinish |
 | 261 | 511 | Laura Mclean |
 | 262 | 509 | Kelli Wells |
@@ -292,9 +292,9 @@
 | 284 | 474 | Calandra Shaya Robinson |
 | 285 | 471 | Maya June |
 | 286 | 470 | Jerry Tempelmeyer |
-| 287 | 469 | Ashley Rose Frederick |
-| 288 | 469 | Amélie Cadieux |
-| 289 | 469 | Ashley Lopez |
+| 287 | 469 | Ashley Lopez |
+| 288 | 469 | Ashley Rose Frederick |
+| 289 | 469 | Amélie Cadieux |
 | 290 | 467 | Scott Treadway |
 | 291 | 465 | Drwatson187 |
 | 292 | 463 | Sue Leard |

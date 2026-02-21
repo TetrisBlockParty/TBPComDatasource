@@ -95,8 +95,8 @@
 | 87 | 452 | Judi Dobson |
 | 88 | 447 | Mykal Burton |
 | 89 | 446 | Danielle Rhoades |
-| 90 | 445 | Kristie McFarland |
-| 91 | 445 | Silly Twist |
+| 90 | 445 | Silly Twist |
+| 91 | 445 | Kristie McFarland |
 | 92 | 430 | Patricia White |
 | 93 | 428 | Elissa S-k |
 | 94 | 425 | Patty Allen |
@@ -173,22 +173,22 @@
 | 165 | 235 | DidIdothat |
 | 166 | 233 | Ray Lader |
 | 167 | 231 | Nikki Pags |
-| 168 | 228 | Morgan Martinez |
-| 169 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 168 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 169 | 228 | Morgan Martinez |
 | 170 | 226 | Grego Daniel |
 | 171 | 224 | Nicole Myers |
 | 172 | 223 | Jeana Gilbert |
-| 173 | 222 | Jimmie Clemons |
-| 174 | 222 | Hoppy Buildout |
-| 175 | 219 | Rebecca Bailey |
-| 176 | 219 | Shunta Jacobs |
+| 173 | 222 | Hoppy Buildout |
+| 174 | 222 | Jimmie Clemons |
+| 175 | 219 | Shunta Jacobs |
+| 176 | 219 | Rebecca Bailey |
 | 177 | 218 | LaNette Morgan |
 | 178 | 217 | Jess Bissett |
 | 179 | 214 | Amy Fuller Heaton |
 | 180 | 214 | Jenny Hrndz |
 | 181 | 212 | Krystal Gerstberger |
-| 182 | 211 | Khaleada McGill Banks |
-| 183 | 211 | Katrina Turner |
+| 182 | 211 | Katrina Turner |
+| 183 | 211 | Khaleada McGill Banks |
 | 184 | 210 | Michael Lucado |
 | 185 | 208 | Tasha Gillespie |
 | 186 | 207 | Chris Bell |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Hyper Matchzone |
-| 214 | 182 | Raven Dudley |
+| 213 | 182 | Raven Dudley |
+| 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Daira Largen |
@@ -229,8 +229,8 @@
 | 221 | 178 | Ryan Williams |
 | 222 | 178 | AlsoJess |
 | 223 | 177 | Sarajane Lokan |
-| 224 | 176 | rosy |
-| 225 | 176 | Jim Mathews |
+| 224 | 176 | Jim Mathews |
+| 225 | 176 | rosy |
 | 226 | 175 | Latoya Mayne |
 | 227 | 175 | Tasha Wesson-Torrence |
 | 228 | 174 | Marquita Sheard |
@@ -243,8 +243,8 @@
 | 235 | 166 | Beth Ingham |
 | 236 | 165 | Irene Arreguin |
 | 237 | 165 | Kali Kelz Williams |
-| 238 | 163 | Christine Trester |
-| 239 | 163 | Stephanie Hill |
+| 238 | 163 | Stephanie Hill |
+| 239 | 163 | Christine Trester |
 | 240 | 162 | Stephanie Whitefield |
 | 241 | 161 | Kristian Thurman |
 | 242 | 160 | Tiffany Davie |

@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Jennifer ManWarren |
-| 95 | 270 | Bhelle Sumile |
+| 94 | 270 | Bhelle Sumile |
+| 95 | 270 | Jennifer ManWarren |
 | 96 | 261 | Rachael |
 | 97 | 258 | Dandy Basegrid |
 | 98 | 255 | Cynthia Bradley |
@@ -134,8 +134,8 @@
 | 126 | 192 | Jessica Sheehan |
 | 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
-| 129 | 190 | Thorne Shumate |
-| 130 | 190 | Sweetts |
+| 129 | 190 | Sweetts |
+| 130 | 190 | Thorne Shumate |
 | 131 | 188 | Sam Williams |
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Tyler Werts |

@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Autum Leigh |
-| 102 | 230 | Lucas J Sutton |
+| 101 | 230 | Lucas J Sutton |
+| 102 | 230 | Autum Leigh |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -144,8 +144,8 @@
 | 136 | 176 | Stacey Stano |
 | 137 | 176 | Klo |
 | 138 | 175 | Ren Mc |
-| 139 | 174 | Dihcheese444 |
-| 140 | 174 | Zethra Prenisha Rahming |
+| 139 | 174 | Zethra Prenisha Rahming |
+| 140 | 174 | Dihcheese444 |
 | 141 | 173 | blockstar |
 | 142 | 172 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
@@ -251,9 +251,9 @@
 | 243 | 103 | Richard-April Kice |
 | 244 | 103 | Berklie Apedaile |
 | 245 | 103 | Kate |
-| 246 | 102 | Cheery Risebuilder |
+| 246 | 102 | Autumn Kumzi |
 | 247 | 102 | Christina O'Dell-Ishau |
-| 248 | 102 | Autumn Kumzi |
+| 248 | 102 | Cheery Risebuilder |
 | 249 | 102 | Faja |
 | 250 | 102 | Jumpy Zonepiece |
 | 251 | 101 | Nikki Rae Gordon |
@@ -265,8 +265,8 @@
 | 257 | 100 | Alexandra Karavias |
 | 258 | 100 | Jacob Richard |
 | 259 | 100 | Bradley Reeves |
-| 260 | 100 | Jennifer Perkins |
-| 261 | 100 | Blessedmama |
+| 260 | 100 | Blessedmama |
+| 261 | 100 | Jennifer Perkins |
 | 262 | 99 | Michael Orris |
 | 263 | 98 | Groovy Gridlock |
 | 264 | 98 | Perky Piecegrid |
@@ -277,8 +277,8 @@
 | 269 | 96 | Sammy Noguera |
 | 270 | 95 | Tina Martinez |
 | 271 | 95 | Patron Anderson |
-| 272 | 94 | DonMega |
-| 273 | 94 | Madison Sweere |
+| 272 | 94 | Madison Sweere |
+| 273 | 94 | DonMega |
 | 274 | 94 | Christina Black |
 | 275 | 93 | No Strings Attached Ra |
 | 276 | 92 | TRCuse |
