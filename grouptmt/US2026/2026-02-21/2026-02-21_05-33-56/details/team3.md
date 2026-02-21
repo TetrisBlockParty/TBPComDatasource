@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -99,8 +99,8 @@
 | 91 | 200 | Twisty Brick LT |
 | 92 | 199 | joclisa |
 | 93 | 195 | Nicha Hooker |
-| 94 | 193 | Shunta Jacobs |
-| 95 | 193 | Clever Shiftsnap |
+| 94 | 193 | Clever Shiftsnap |
+| 95 | 193 | Shunta Jacobs |
 | 96 | 192 | Chasity |
 | 97 | 189 | Rich LeBlanc |
 | 98 | 187 | Speedy Bridger |
@@ -148,8 +148,8 @@
 | 140 | 125 | Shimika Enay Wallace |
 | 141 | 125 | Felicia Doxey |
 | 142 | 124 | Connie Mohler-Fair |
-| 143 | 123 | Terry Jo Jones |
-| 144 | 123 | Kristie McFarland |
+| 143 | 123 | Kristie McFarland |
+| 144 | 123 | Terry Jo Jones |
 | 145 | 122 | Bryan Byrd |
 | 146 | 122 | Giggly Brickroll |
 | 147 | 121 | Danielle Allison |

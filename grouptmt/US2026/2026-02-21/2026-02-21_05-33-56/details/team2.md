@@ -85,8 +85,8 @@
 | 77 | 674 | Dannette Goldberg-Richards |
 | 78 | 672 | Wendy Harder Gage |
 | 79 | 665 | Dineisha Carpenter |
-| 80 | 658 | Vistabrat |
-| 81 | 658 | Pacynthia Williams |
+| 80 | 658 | Pacynthia Williams |
+| 81 | 658 | Vistabrat |
 | 82 | 653 | Becky Weeks-Garry |
 | 83 | 649 | Stephanie Chapman |
 | 84 | 649 | Anna Edwards |
@@ -115,8 +115,8 @@
 | 107 | 520 | Kimberly Schall |
 | 108 | 519 | Maria Escobar |
 | 109 | 517 | Debra Williams |
-| 110 | 515 | Real Ri |
-| 111 | 515 | Kaylee McCafferty |
+| 110 | 515 | Kaylee McCafferty |
+| 111 | 515 | Real Ri |
 | 112 | 513 | Butta |
 | 113 | 509 | Kelli Wells |
 | 114 | 505 | Danielle Johnson-Chandler |

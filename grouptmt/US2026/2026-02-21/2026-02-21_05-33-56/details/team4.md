@@ -42,8 +42,8 @@
 | 34 | 256 | Brittney Griggs |
 | 35 | 246 | Dustin Robert |
 | 36 | 244 | Isabella Blanco |
-| 37 | 231 | Jenna Ingersoll |
-| 38 | 231 | Michelle Marie |
+| 37 | 231 | Michelle Marie |
+| 38 | 231 | Jenna Ingersoll |
 | 39 | 220 | Julian Garcia |
 | 40 | 216 | Michelle Pearman |
 | 41 | 207 | Alyssa Papen |
@@ -60,8 +60,8 @@
 | 52 | 170 | Leah Kutz Zirbel |
 | 53 | 168 | Anthony Magaraci |
 | 54 | 167 | Dustee Craddock-Harrison |
-| 55 | 165 | Courtney Cicoria |
-| 56 | 165 | Casey Grabner |
+| 55 | 165 | Casey Grabner |
+| 56 | 165 | Courtney Cicoria |
 | 57 | 163 | Denise Carlson |
 | 58 | 160 | Carter Jones |
 | 59 | 159 | Justin Hannigan |
@@ -71,8 +71,8 @@
 | 63 | 149 | Holly Jolly |
 | 64 | 148 | BertMofo |
 | 65 | 147 | Jay28 |
-| 66 | 146 | Peachy Fall |
-| 67 | 146 | Breannah Grafe |
+| 66 | 146 | Breannah Grafe |
+| 67 | 146 | Peachy Fall |
 | 68 | 145 | Edward White |
 | 69 | 141 | Malakai Darien Fox |
 | 70 | 140 | Shannon Ferrari |
