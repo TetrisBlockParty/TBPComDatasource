@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3035 | Cassie Donica |
@@ -142,8 +142,8 @@
 | 134 | 409 | Sparkles |
 | 135 | 401 | Poppy Snap |
 | 136 | 400 | Crystie Hicks |
-| 137 | 397 | Ashley Guernsey-Martin |
-| 138 | 397 | Destiny Cozier |
+| 137 | 397 | Destiny Cozier |
+| 138 | 397 | Ashley Guernsey-Martin |
 | 139 | 394 | Tammy Allen |
 | 140 | 391 | Chilly Bridgepiece |
 | 141 | 390 | Dustin Rains |
@@ -165,8 +165,8 @@
 | 157 | 350 | Kimberly Randesi |
 | 158 | 348 | Richard Horton |
 | 159 | 348 | Cherica Taylor |
-| 160 | 345 | Brenda Messer |
-| 161 | 345 | Alyssaaelena |
+| 160 | 345 | Alyssaaelena |
+| 161 | 345 | Brenda Messer |
 | 162 | 345 | Rhianna DiLorenzo |
 | 163 | 345 | Wuntayk |
 | 164 | 344 | Julie Kresal |
@@ -214,8 +214,8 @@
 | 206 | 274 | Melissa Holsinger |
 | 207 | 273 | Missie Lawson Gebhardt |
 | 208 | 271 | Ann Marie Davis |
-| 209 | 271 | Toni Lynn |
-| 210 | 271 | Lonne Emade |
+| 209 | 271 | Lonne Emade |
+| 210 | 271 | Toni Lynn |
 | 211 | 270 | Alexandra Weir |
 | 212 | 268 | Vanessa Moreno |
 | 213 | 267 | Mindy Leigh Head |

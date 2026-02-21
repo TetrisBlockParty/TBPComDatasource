@@ -53,8 +53,8 @@
 | 45 | 372 | Patty Allen |
 | 46 | 371 | Jesse Olive |
 | 47 | 370 | yoyo |
-| 48 | 369 | Rachel Bowers |
-| 49 | 369 | Kristie |
+| 48 | 369 | Kristie |
+| 49 | 369 | Rachel Bowers |
 | 50 | 364 | Christine Filson |
 | 51 | 362 | Liv Whetson |
 | 52 | 360 | Ebony West-Cundiff |
@@ -212,8 +212,8 @@
 | 204 | 84 | Ava Petito |
 | 205 | 84 | Flashy Rumbler |
 | 206 | 83 | Michael Nowogorski |
-| 207 | 82 | Crystel b520 |
-| 208 | 82 | Stephanie Whitefield |
+| 207 | 82 | Stephanie Whitefield |
+| 208 | 82 | Crystel b520 |
 | 209 | 81 | Tina Baurdau |
 | 210 | 80 | Vixen Queen |
 | 211 | 79 | Rania Zaqout |

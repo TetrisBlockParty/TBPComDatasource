@@ -101,8 +101,8 @@
 | 93 | 110 | Heidi Feurer |
 | 94 | 108 | Tavia |
 | 95 | 107 | Jodee Woods |
-| 96 | 105 | Barry Mac'Ockner |
-| 97 | 105 | Flashy Rotator |
+| 96 | 105 | Flashy Rotator |
+| 97 | 105 | Barry Mac'Ockner |
 | 98 | 103 | Adryane Schnase |
 | 99 | 103 | Ash Galvan |
 | 100 | 102 | Jennifer ManWarren |
