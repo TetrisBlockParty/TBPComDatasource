@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 576 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Jorge Andrade |
-| 34 | 541 | Drew Magnus |
+| 33 | 541 | Drew Magnus |
+| 34 | 541 | Jorge Andrade |
 | 35 | 539 | Karin Gillen |
 | 36 | 521 | Hyp James NObettadanluvarat |
 | 37 | 517 | Felicia Lewis |

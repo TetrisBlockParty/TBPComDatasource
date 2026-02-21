@@ -166,8 +166,8 @@
 | 158 | 703 | Debra Williams |
 | 159 | 703 | Lola Contreras |
 | 160 | 700 | Vincent Petrella |
-| 161 | 700 | Beverly Owens |
-| 162 | 700 | Rosemadder |
+| 161 | 700 | Rosemadder |
+| 162 | 700 | Beverly Owens |
 | 163 | 697 | Real Ri |
 | 164 | 694 | Vo'Landa Reels |
 | 165 | 692 | Chelle |
@@ -227,8 +227,8 @@
 | 219 | 540 | Allan Wayne Lamia |
 | 220 | 537 | Mr. Street Stack |
 | 221 | 536 | Desiree Harris Rosch |
-| 222 | 535 | Jessie McDougald |
-| 223 | 535 | Mema |
+| 222 | 535 | Mema |
+| 223 | 535 | Jessie McDougald |
 | 224 | 535 | Paul Huber |
 | 225 | 534 | Teresa Gillmore |
 | 226 | 533 | April Dawn Gussler |
@@ -249,8 +249,8 @@
 | 241 | 514 | Dizzy Zone |
 | 242 | 513 | Angela Bonquiqui Dinish |
 | 243 | 511 | Laura Mclean |
-| 244 | 510 | Laquetta Royston |
-| 245 | 510 | Lisa Ongtowasruk |
+| 244 | 510 | Lisa Ongtowasruk |
+| 245 | 510 | Laquetta Royston |
 | 246 | 509 | Kelli Wells |
 | 247 | 506 | AISlop |
 | 248 | 504 | Gene Mills |
@@ -530,8 +530,8 @@
 | 522 | 270 | Santana Miyagi |
 | 523 | 270 | Tim Dyer |
 | 524 | 270 | Kathryn Townsley |
-| 525 | 269 | Gauri Shrotriya |
-| 526 | 269 | Reece Smith |
+| 525 | 269 | Reece Smith |
+| 526 | 269 | Gauri Shrotriya |
 | 527 | 269 | Susan Arnburg |
 | 528 | 268 | Min |
 | 529 | 266 | Jason Garnatz |
@@ -653,7 +653,7 @@
 | 645 | 214 | Dawn L Washington-Feuquay |
 | 646 | 213 | Janai Vrabel |
 | 647 | 212 | Gina Justbeingme Chillis |
-| 648 | 212 | Zappy Dropmatch |
+| 648 | 212 | Laura Mcfee |
 | 649 | 212 | Denelle Wendt-Ramalho |
 | 650 | 212 | Jasmine Kenney |
 | 651 | 212 | Lazy Riseclear |

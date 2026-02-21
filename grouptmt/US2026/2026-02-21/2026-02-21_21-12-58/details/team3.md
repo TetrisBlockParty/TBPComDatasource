@@ -115,15 +115,15 @@
 | 107 | 368 | Stephanie Woods |
 | 108 | 367 | mjl574 |
 | 109 | 367 | Nerdy Riseclear |
-| 110 | 366 | Adrian Marcel Pate |
-| 111 | 366 | Speedy Bridger |
+| 110 | 366 | Speedy Bridger |
+| 111 | 366 | Adrian Marcel Pate |
 | 112 | 350 | Tiff Vs Tiffany |
 | 113 | 348 | CeceGeGe |
 | 114 | 347 | Darlene McMillan |
 | 115 | 332 | Chauntee Alfrey-Cardinale |
 | 116 | 327 | Dapper Snap |
-| 117 | 323 | Sherry Ogden |
-| 118 | 323 | Ashley Raines |
+| 117 | 323 | Ashley Raines |
+| 118 | 323 | Sherry Ogden |
 | 119 | 320 | Or Reznitsky |
 | 120 | 318 | Chasity |
 | 121 | 316 | Fancy Cascader |
@@ -190,11 +190,11 @@
 | 182 | 200 | glichmod |
 | 183 | 200 | Sharisse Baltimore |
 | 184 | 197 | Staci George Fitzsimmons |
-| 185 | 195 | Michael Lucado |
-| 186 | 195 | Nicha Hooker |
+| 185 | 195 | Nicha Hooker |
+| 186 | 195 | Michael Lucado |
 | 187 | 193 | Clever Shiftsnap |
-| 188 | 193 | Stephanie Burtin |
-| 189 | 193 | Angie Harper |
+| 188 | 193 | Angie Harper |
+| 189 | 193 | Stephanie Burtin |
 | 190 | 192 | Kelly Ann Child |
 | 191 | 191 | Scott Carleton |
 | 192 | 191 | Brenda Lee Vander Molen |
@@ -235,8 +235,8 @@
 | 227 | 161 | Irene Arreguin |
 | 228 | 160 | Tiffany Davie |
 | 229 | 159 | Jone |
-| 230 | 157 | Sabrina Hardrick |
-| 231 | 157 | Patricia Gadsden |
+| 230 | 157 | Patricia Gadsden |
+| 231 | 157 | Sabrina Hardrick |
 | 232 | 156 | Daryn Elliott |
 | 233 | 155 | Latoya Mayne |
 | 234 | 155 | Loopy Fallzone |

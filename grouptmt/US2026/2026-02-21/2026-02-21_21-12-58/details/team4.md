@@ -143,8 +143,8 @@
 | 135 | 173 | blockstar |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
-| 138 | 164 | ThaEviLJeNiuZ |
-| 139 | 164 | 030Synner |
+| 138 | 164 | 030Synner |
+| 139 | 164 | ThaEviLJeNiuZ |
 | 140 | 160 | ZeeZee |
 | 141 | 156 | Holly |
 | 142 | 156 | Jessica Bohlken |
