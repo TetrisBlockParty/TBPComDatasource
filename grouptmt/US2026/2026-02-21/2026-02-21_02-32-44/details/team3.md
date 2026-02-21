@@ -78,8 +78,8 @@
 | 70 | 203 | Crimson |
 | 71 | 199 | joclisa |
 | 72 | 195 | Nicha Hooker |
-| 73 | 193 | Clever Shiftsnap |
-| 74 | 193 | Shunta Jacobs |
+| 73 | 193 | Shunta Jacobs |
+| 74 | 193 | Clever Shiftsnap |
 | 75 | 187 | Speedy Bridger |
 | 76 | 185 | Danielle Cutler |
 | 77 | 184 | Jennie Beranek |
@@ -167,8 +167,8 @@
 | 159 | 88 | Martin Bernier |
 | 160 | 88 | Funky Jumper |
 | 161 | 86 | Shicken Nuggit |
-| 162 | 85 | Kevin Russell |
-| 163 | 85 | Chris Bell |
+| 162 | 85 | Chris Bell |
+| 163 | 85 | Kevin Russell |
 | 164 | 84 | Ava Petito |
 | 165 | 84 | Flashy Rumbler |
 | 166 | 84 | Amanda L Baker |
@@ -192,9 +192,9 @@
 | 184 | 75 | Patti Skiles |
 | 185 | 75 | Jack Bo |
 | 186 | 75 | Janelle Goetz |
-| 187 | 74 | Whitney Manuel |
+| 187 | 74 | FuzzyNavel |
 | 188 | 74 | Mendoza Lee Christy |
-| 189 | 74 | FuzzyNavel |
+| 189 | 74 | Whitney Manuel |
 | 190 | 74 | Jess Dearborn |
 | 191 | 73 | Criss |
 | 192 | 72 | Jess Reppert |

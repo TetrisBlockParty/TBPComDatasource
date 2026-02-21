@@ -66,9 +66,9 @@
 | 58 | 679 | Gold Rose |
 | 59 | 674 | Dannette Goldberg-Richards |
 | 60 | 672 | Wendy Harder Gage |
-| 61 | 658 | Dreamy Blast |
+| 61 | 658 | Vistabrat |
 | 62 | 658 | Pacynthia Williams |
-| 63 | 658 | Vistabrat |
+| 63 | 658 | Dreamy Blast |
 | 64 | 656 | E_Money04 |
 | 65 | 639 | Anna Edwards |
 | 66 | 636 | Amy Sayers |
@@ -257,8 +257,8 @@
 | 249 | 198 | Alyssa Dean |
 | 250 | 197 | Smashanator |
 | 251 | 196 | Besma Ao |
-| 252 | 196 | Cass Shirley |
-| 253 | 196 | Alexandra Reese |
+| 252 | 196 | Alexandra Reese |
+| 253 | 196 | Cass Shirley |
 | 254 | 195 | Sanaa Nounoussa |
 | 255 | 194 | Kimberly Ann |
 | 256 | 194 | Mike Aprilliano |
@@ -274,8 +274,8 @@
 | 266 | 183 | Julie Hamilton |
 | 267 | 181 | Julay |
 | 268 | 180 | Peter Palestino |
-| 269 | 179 | Denise Rickman |
-| 270 | 179 | Desiree Harris Rosch |
+| 269 | 179 | Desiree Harris Rosch |
+| 270 | 179 | Denise Rickman |
 | 271 | 179 | Cat |
 | 272 | 177 | Kristi Biddinger |
 | 273 | 177 | Roy Salyer |

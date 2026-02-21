@@ -40,8 +40,8 @@
 | 32 | 185 | loulou |
 | 33 | 174 | Jamie Mann-Deichmann |
 | 34 | 171 | Rachel Anne |
-| 35 | 170 | Girl |
-| 36 | 170 | Leah Kutz Zirbel |
+| 35 | 170 | Leah Kutz Zirbel |
+| 36 | 170 | Girl |
 | 37 | 169 | Kimyatta Cavin |
 | 38 | 168 | Anthony Magaraci |
 | 39 | 153 | Lucille Truesdale |
@@ -72,8 +72,8 @@
 | 64 | 111 | Gwendolyn Pitcairn |
 | 65 | 111 | Zany Shatterer |
 | 66 | 110 | John Brunetti |
-| 67 | 110 | Diana Houts |
-| 68 | 110 | H.R. Block |
+| 67 | 110 | H.R. Block |
+| 68 | 110 | Diana Houts |
 | 69 | 109 | Bryan Hodgins |
 | 70 | 107 | Marcus Todd |
 | 71 | 103 | Sam Middleton |
@@ -109,17 +109,17 @@
 | 101 | 81 | Blessedmama |
 | 102 | 80 | Melissa Adams |
 | 103 | 79 | Shainne Brewer |
-| 104 | 78 | Chair |
-| 105 | 78 | Zesty Linkgrid |
+| 104 | 78 | Zesty Linkgrid |
+| 105 | 78 | Chair |
 | 106 | 77 | Destiney Carter |
-| 107 | 76 | Bethany Ison |
-| 108 | 76 | Jessica Miller |
+| 107 | 76 | Jessica Miller |
+| 108 | 76 | Bethany Ison |
 | 109 | 76 | Dustee Craddock-Harrison |
 | 110 | 75 | Rosemary Foster |
 | 111 | 75 | 🥔🥔 Spudz |
 | 112 | 72 | Joshua Cuellar |
-| 113 | 71 | Christina Black |
-| 114 | 71 | Joseph Pace |
+| 113 | 71 | Joseph Pace |
+| 114 | 71 | Christina Black |
 | 115 | 71 | Shukee Lo |
 | 116 | 70 | Valerie Roberts |
 | 117 | 69 | Michelle Marie |

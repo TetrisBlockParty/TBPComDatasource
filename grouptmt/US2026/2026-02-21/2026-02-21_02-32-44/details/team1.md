@@ -42,8 +42,8 @@
 | 34 | 195 | Ananda Mendez |
 | 35 | 194 | Sharon Reynolds |
 | 36 | 192 | Mandyy Rae |
-| 37 | 190 | Thorne Shumate |
-| 38 | 190 | Sweetts |
+| 37 | 190 | Sweetts |
+| 38 | 190 | Thorne Shumate |
 | 39 | 189 | Happy Basegrid |
 | 40 | 187 | Dee Perry |
 | 41 | 185 | Karin Gillen |
@@ -61,8 +61,8 @@
 | 53 | 145 | Lachelle Dillon |
 | 54 | 145 | BigWeenie69 |
 | 55 | 144 | Tana |
-| 56 | 144 | Tanya Carpenter-Reynolds |
-| 57 | 144 | Plucky Ziggy |
+| 56 | 144 | Plucky Ziggy |
+| 57 | 144 | Tanya Carpenter-Reynolds |
 | 58 | 141 | Susanna Guerry |
 | 59 | 138 | Robert Beck |
 | 60 | 137 | Nadine Velardo |
@@ -129,8 +129,8 @@
 | 121 | 72 | Tipsy Strikerpiece |
 | 122 | 71 | John Kim |
 | 123 | 70 | Daring Fitclear |
-| 124 | 69 | Tipsy Riseclear |
-| 125 | 69 | Christina Torres |
+| 124 | 69 | Christina Torres |
+| 125 | 69 | Tipsy Riseclear |
 | 126 | 68 | Blaire Bruckoff |
 | 127 | 65 | MamaB24 |
 | 128 | 65 | OneCrazyGator |
