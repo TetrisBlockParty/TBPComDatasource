@@ -109,8 +109,8 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Shannon Matthew Byers |
-| 105 | 350 | Tiff Vs Tiffany |
+| 104 | 350 | Tiff Vs Tiffany |
+| 105 | 350 | Shannon Matthew Byers |
 | 106 | 348 | CeceGeGe |
 | 107 | 333 | Sashay Tapae Simpson |
 | 108 | 332 | Chauntee Alfrey-Cardinale |
@@ -173,8 +173,8 @@
 | 165 | 203 | Twisty Brick LT |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Nicha Hooker |
-| 169 | 195 | Michael Lucado |
+| 168 | 195 | Michael Lucado |
+| 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Clever Shiftsnap |
 | 172 | 193 | Duane Bright |
@@ -196,8 +196,8 @@
 | 188 | 178 | Ryan Williams |
 | 189 | 178 | AlsoJess |
 | 190 | 177 | Trisha Balmer |
-| 191 | 175 | Connie Mohler-Fair |
-| 192 | 175 | Tasha Wesson-Torrence |
+| 191 | 175 | Tasha Wesson-Torrence |
+| 192 | 175 | Connie Mohler-Fair |
 | 193 | 175 | DanceLuvLaugh |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
@@ -211,11 +211,11 @@
 | 203 | 166 | Rebecca Funderburk Kirby |
 | 204 | 166 | Beth Ingham |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Christine Trester |
-| 207 | 163 | Stephanie Hill |
+| 206 | 163 | Stephanie Hill |
+| 207 | 163 | Christine Trester |
 | 208 | 162 | Stephanie Whitefield |
-| 209 | 161 | BŘŰŤİÇŨŚ |
-| 210 | 161 | Irene Arreguin |
+| 209 | 161 | Irene Arreguin |
+| 210 | 161 | BŘŰŤİÇŨŚ |
 | 211 | 160 | Tiffany Davie |
 | 212 | 160 | Marquita Sheard |
 | 213 | 159 | Jone |
@@ -232,9 +232,9 @@
 | 224 | 152 | Lesley Perez |
 | 225 | 152 | Shiny Zonebuilder |
 | 226 | 150 | Valerie Gendron |
-| 227 | 149 | Peachy Rollfit |
-| 228 | 149 | Angel Mendez |
-| 229 | 149 | Alexis Taylor |
+| 227 | 149 | Angel Mendez |
+| 228 | 149 | Alexis Taylor |
+| 229 | 149 | Peachy Rollfit |
 | 230 | 148 | Wetwet |
 | 231 | 148 | Gumbo |
 | 232 | 148 | Jennifer Alvey |
@@ -298,7 +298,7 @@
 | 290 | 116 | Denise Marie |
 | 291 | 115 | Stella |
 | 292 | 115 | Donna |
-| 293 | 114 | Elizabeth Renee |
+| 293 | 114 | Amanda Neal |
 | 294 | 114 | Demetrious Shaw Sr. |
 | 295 | 114 | Elizabeth Renee |
 | 296 | 113 | Brave Brickster |
@@ -357,8 +357,8 @@
 | 349 | 97 | Danielle Balcom |
 | 350 | 97 | Paula Little |
 | 351 | 96 | Oliver Neal II |
-| 352 | 96 | Christopher Woost |
-| 353 | 96 | D3NO |
+| 352 | 96 | D3NO |
+| 353 | 96 | Christopher Woost |
 | 354 | 95 | Brooke Bauer |
 | 355 | 94 | Bleu Sun Beams |
 | 356 | 94 | Tracey Cox |

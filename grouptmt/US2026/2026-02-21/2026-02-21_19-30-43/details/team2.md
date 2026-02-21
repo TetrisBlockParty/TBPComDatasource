@@ -275,12 +275,12 @@
 | 267 | 442 | Daphne Jordan |
 | 268 | 440 | Heather Westrum |
 | 269 | 440 | Liberty |
-| 270 | 439 | Alisa Lamb |
-| 271 | 439 | Joseph Musick |
+| 270 | 439 | Joseph Musick |
+| 271 | 439 | Alisa Lamb |
 | 272 | 439 | Foxxo |
 | 273 | 438 | Hyper Cluster |
-| 274 | 437 | Arwa Fatimah |
-| 275 | 437 | Melissa Holsinger |
+| 274 | 437 | Melissa Holsinger |
+| 275 | 437 | Arwa Fatimah |
 | 276 | 429 | ShinyRose |
 | 277 | 429 | Jennifer Kistner |
 | 278 | 428 | Rhonda Milstead |
@@ -1134,10 +1134,10 @@
 | 1126 | 116 | Carla Cervantes |
 | 1127 | 116 | Patrick Langford |
 | 1128 | 115 | Mikey |
-| 1129 | 115 | Dreamy Fitclear |
-| 1130 | 115 | Lorie Richardson |
-| 1131 | 115 | Melissa Schwager |
-| 1132 | 115 | Crystal Heller Gonzalez |
+| 1129 | 115 | Lorie Richardson |
+| 1130 | 115 | Dreamy Fitclear |
+| 1131 | 115 | Crystal Heller Gonzalez |
+| 1132 | 115 | Melissa Schwager |
 | 1133 | 115 | Jake |
 | 1134 | 114 | London Winchester |
 | 1135 | 114 | Peyton Groce |

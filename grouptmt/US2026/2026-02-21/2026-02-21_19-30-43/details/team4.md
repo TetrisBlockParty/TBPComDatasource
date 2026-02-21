@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -113,8 +113,8 @@
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
-| 108 | 185 | Peachy Fall |
-| 109 | 185 | Andy Cabral |
+| 108 | 185 | Andy Cabral |
+| 109 | 185 | Peachy Fall |
 | 110 | 181 | Carter Jones |
 | 111 | 181 | Andria Lynn |
 | 112 | 180 | Justin Hannigan |
@@ -217,9 +217,9 @@
 | 209 | 106 | Zappy Snaplink |
 | 210 | 105 | Brandi Durig |
 | 211 | 104 | Chris Alexinas |
-| 212 | 103 | Richard-April Kice |
+| 212 | 103 | Chris Bernstein |
 | 213 | 103 | Lauren Lamb |
-| 214 | 103 | Chris Bernstein |
+| 214 | 103 | Richard-April Kice |
 | 215 | 103 | Kate |
 | 216 | 102 | Christina O'Dell-Ishau |
 | 217 | 102 | Jumpy Zonepiece |
