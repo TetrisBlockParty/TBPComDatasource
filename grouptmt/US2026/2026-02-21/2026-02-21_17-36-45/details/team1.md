@@ -95,8 +95,8 @@
 | 87 | 204 | Anaid Sanchez |
 | 88 | 204 | Ananda Mendez |
 | 89 | 202 | Giggly Builderline |
-| 90 | 198 | Brandi Huntington |
-| 91 | 198 | Happy Snapbuild |
+| 90 | 198 | Happy Snapbuild |
+| 91 | 198 | Brandi Huntington |
 | 92 | 197 | Cynthia Bradley |
 | 93 | 193 | Lachelle Dillon |
 | 94 | 192 | Shaykmia |
@@ -121,8 +121,8 @@
 | 113 | 166 | Tana |
 | 114 | 166 | Rico Rico |
 | 115 | 165 | Veronica Eve |
-| 116 | 163 | Kellie |
-| 117 | 163 | Tyler Whitley |
+| 116 | 163 | Tyler Whitley |
+| 117 | 163 | Kellie |
 | 118 | 161 | Jessie Lynn |
 | 119 | 158 | Tanya Carpenter-Reynolds |
 | 120 | 156 | Tipsy Strikerpiece |

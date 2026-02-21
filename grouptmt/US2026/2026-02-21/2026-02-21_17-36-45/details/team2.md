@@ -185,8 +185,8 @@
 | 177 | 544 | Poppy Snapper |
 | 178 | 543 | Diana Fitzwater |
 | 179 | 541 | SaraMarie Eveland |
-| 180 | 534 | Teresa Gillmore |
-| 181 | 534 | Stephen Stephen |
+| 180 | 534 | Stephen Stephen |
+| 181 | 534 | Teresa Gillmore |
 | 182 | 531 | Chris Wanner |
 | 183 | 528 | Brownie Sheena |
 | 184 | 527 | Stacy Stickle |
@@ -264,8 +264,8 @@
 | 256 | 409 | Sparkles |
 | 257 | 408 | Amanda Ferrell |
 | 258 | 406 | Erin StFrancis |
-| 259 | 405 | Sarah Massey |
-| 260 | 405 | Christy Krissie |
+| 259 | 405 | Christy Krissie |
+| 260 | 405 | Sarah Massey |
 | 261 | 402 | Joshua Mandel |
 | 262 | 400 | Tammy Allen |
 | 263 | 400 | Rhonda Milstead |
@@ -273,8 +273,8 @@
 | 265 | 397 | coleksquad |
 | 266 | 396 | Steven Marshaun |
 | 267 | 396 | Stefanie Zonzini-Gagliardi |
-| 268 | 395 | Jessie McDougald |
-| 269 | 395 | Julay |
+| 268 | 395 | Julay |
+| 269 | 395 | Jessie McDougald |
 | 270 | 393 | Altamirano Michael |
 | 271 | 393 | Taylor Flowers |
 | 272 | 392 | Maegan Beaule |
@@ -592,8 +592,8 @@
 | 584 | 195 | Darcy Mae |
 | 585 | 195 | Darlene Bowman |
 | 586 | 195 | Jannan Haimour |
-| 587 | 194 | Witty Piecebuilder |
-| 588 | 194 | Sarah block |
+| 587 | 194 | Sarah block |
+| 588 | 194 | Witty Piecebuilder |
 | 589 | 194 | Hoppy Brickmatch |
 | 590 | 193 | Kristen Casale Berry |
 | 591 | 193 | D5wag2014 |
@@ -606,8 +606,8 @@
 | 598 | 190 | HarleyJane |
 | 599 | 189 | Nate Skidmore |
 | 600 | 189 | Irene Jones |
-| 601 | 188 | Seth Wrieden |
-| 602 | 188 | Snippy Rumbler |
+| 601 | 188 | Snippy Rumbler |
+| 602 | 188 | Seth Wrieden |
 | 603 | 188 | Sassy Linkroll |
 | 604 | 187 | Josh Dill |
 | 605 | 187 | Brandon McDonald |

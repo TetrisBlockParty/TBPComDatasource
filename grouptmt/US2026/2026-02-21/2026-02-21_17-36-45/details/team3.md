@@ -281,14 +281,14 @@
 | 273 | 113 | Brian Battjes |
 | 274 | 113 | Beppy |
 | 275 | 112 | Rachel |
-| 276 | 111 | Jason-Ashley Ludlow |
-| 277 | 111 | El Chapa |
+| 276 | 111 | El Chapa |
+| 277 | 111 | Jason-Ashley Ludlow |
 | 278 | 111 | Stephanie Zahm |
 | 279 | 110 | Tye Stovall |
 | 280 | 110 | Danielle Weikel |
 | 281 | 110 | Carol Cain Thurman |
-| 282 | 109 | Diana Ibarra |
-| 283 | 109 | mommablock |
+| 282 | 109 | mommablock |
+| 283 | 109 | Diana Ibarra |
 | 284 | 108 | LaTanya GeminiondaRise Johnson |
 | 285 | 108 | Hanna Kim |
 | 286 | 107 | Melissa Snyder |
