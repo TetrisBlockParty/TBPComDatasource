@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Alyssa Papen |
-| 80 | 215 | Jae Job |
+| 79 | 215 | Jae Job |
+| 80 | 215 | Alyssa Papen |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -105,8 +105,8 @@
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leslie Nicole |
-| 101 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leah Kutz Zirbel |
+| 101 | 180 | Leslie Nicole |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -153,11 +153,11 @@
 | 145 | 131 | Diana Houts |
 | 146 | 130 | Casey Jeffcoat |
 | 147 | 129 | John Brunetti |
-| 148 | 128 | Stephme310 |
-| 149 | 128 | Rio Rocha |
+| 148 | 128 | Rio Rocha |
+| 149 | 128 | Stephme310 |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | TinyLegoRose |
-| 152 | 126 | Dihcheese444 |
+| 151 | 126 | Dihcheese444 |
+| 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |

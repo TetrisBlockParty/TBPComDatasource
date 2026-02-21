@@ -32,8 +32,8 @@
 | 24 | 590 | Robert Beck |
 | 25 | 547 | Marianne Louise West |
 | 26 | 543 | Aaron Garnett |
-| 27 | 541 | Drew Magnus |
-| 28 | 541 | Jorge Andrade |
+| 27 | 541 | Jorge Andrade |
+| 28 | 541 | Drew Magnus |
 | 29 | 521 | Hyp James NObettadanluvarat |
 | 30 | 517 | Felicia Lewis |
 | 31 | 516 | comrade fish |
@@ -109,8 +109,8 @@
 | 101 | 182 | Spunky Piecebuilder |
 | 102 | 180 | Erez Yosef |
 | 103 | 179 | GATOR |
-| 104 | 178 | Chad Atchley |
-| 105 | 178 | Danielle Little-Daugherty |
+| 104 | 178 | Danielle Little-Daugherty |
+| 105 | 178 | Chad Atchley |
 | 106 | 175 | Nicole Roseberry Weber |
 | 107 | 175 | Dandy Basegrid |
 | 108 | 173 | Frothy Pattern |

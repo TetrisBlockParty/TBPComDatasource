@@ -185,8 +185,8 @@
 | 177 | 545 | Leslie Ann Carter |
 | 178 | 543 | Diana Fitzwater |
 | 179 | 541 | SaraMarie Eveland |
-| 180 | 534 | Teresa Gillmore |
-| 181 | 534 | Stephen Stephen |
+| 180 | 534 | Stephen Stephen |
+| 181 | 534 | Teresa Gillmore |
 | 182 | 531 | Chris Wanner |
 | 183 | 528 | Brownie Sheena |
 | 184 | 527 | Stacy Stickle |
@@ -548,8 +548,8 @@
 | 540 | 211 | Trisha Gallagher |
 | 541 | 211 | Ys Muhammed |
 | 542 | 211 | Wacky Cascade |
-| 543 | 210 | Desiree Harris Rosch |
-| 544 | 210 | Nancy Pohlman |
+| 543 | 210 | Nancy Pohlman |
+| 544 | 210 | Desiree Harris Rosch |
 | 545 | 209 | Jelly |
 | 546 | 209 | Samantha Morgan |
 | 547 | 209 | MamaBear11 |
@@ -717,8 +717,8 @@
 | 709 | 162 | LC Hamilton |
 | 710 | 162 | Nate Lee |
 | 711 | 162 | Chirpy Snapper |
-| 712 | 161 | Perry Hubert |
-| 713 | 161 | Crystal Herndon |
+| 712 | 161 | Crystal Herndon |
+| 713 | 161 | Perry Hubert |
 | 714 | 160 | Poppy Gridder |
 | 715 | 160 | Amy Reynolds |
 | 716 | 160 | Sharice Thompson |
