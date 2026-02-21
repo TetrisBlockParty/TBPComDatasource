@@ -244,8 +244,8 @@
 | 236 | 553 | Leslie Ann Carter |
 | 237 | 549 | Kaylee McCafferty |
 | 238 | 547 | Giggy Blocker |
-| 239 | 543 | Adira Brown |
-| 240 | 543 | Teresa Gillmore |
+| 239 | 543 | Teresa Gillmore |
+| 240 | 543 | Adira Brown |
 | 241 | 543 | Mema |
 | 242 | 537 | Slip |
 | 243 | 535 | Jessie McDougald |
@@ -253,10 +253,10 @@
 | 245 | 531 | Chris Wanner |
 | 246 | 528 | Brownie Sheena |
 | 247 | 527 | Stacy Stickle |
-| 248 | 527 | Heather Causey |
-| 249 | 527 | Ryan Gunther |
-| 250 | 525 | Desiree Anderson |
-| 251 | 525 | Tommy Tha Boss Gunz |
+| 248 | 527 | Ryan Gunther |
+| 249 | 527 | Heather Causey |
+| 250 | 525 | Tommy Tha Boss Gunz |
+| 251 | 525 | Desiree Anderson |
 | 252 | 524 | Hoppy Brickmatch |
 | 253 | 521 | Trista Dumais |
 | 254 | 520 | Cheech Dta |
@@ -270,8 +270,8 @@
 | 262 | 509 | Kelli Wells |
 | 263 | 509 | Jordan Kaiser |
 | 264 | 506 | AISlop |
-| 265 | 504 | Gene Mills |
-| 266 | 504 | Cherica Taylor |
+| 265 | 504 | Cherica Taylor |
+| 266 | 504 | Gene Mills |
 | 267 | 503 | tejas25 |
 | 268 | 502 | Magic steve |
 | 269 | 502 | Poppy Snap |
@@ -292,9 +292,9 @@
 | 284 | 474 | Calandra Shaya Robinson |
 | 285 | 471 | Maya June |
 | 286 | 470 | Jerry Tempelmeyer |
-| 287 | 469 | Ashley Lopez |
-| 288 | 469 | Ashley Rose Frederick |
-| 289 | 469 | Amélie Cadieux |
+| 287 | 469 | Amélie Cadieux |
+| 288 | 469 | Ashley Lopez |
+| 289 | 469 | Ashley Rose Frederick |
 | 290 | 467 | Scott Treadway |
 | 291 | 465 | Drwatson187 |
 | 292 | 463 | Sue Leard |

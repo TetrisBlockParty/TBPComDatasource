@@ -71,8 +71,8 @@
 | 63 | 395 | Christine Marie |
 | 64 | 390 | Carlton Unfiltered |
 | 65 | 388 | YoMomma |
-| 66 | 376 | quicksand420 |
-| 67 | 376 | Marie-Pier Desjardins |
+| 66 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | quicksand420 |
 | 68 | 373 | Joseph Guthrie |
 | 69 | 370 | Leslie Thomas |
 | 70 | 369 | Nope Young |
@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Autum Leigh |
-| 102 | 230 | Lucas J Sutton |
+| 101 | 230 | Lucas J Sutton |
+| 102 | 230 | Autum Leigh |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -144,8 +144,8 @@
 | 136 | 178 | Lori |
 | 137 | 176 | Klo |
 | 138 | 175 | Ren Mc |
-| 139 | 174 | Dihcheese444 |
-| 140 | 174 | Zethra Prenisha Rahming |
+| 139 | 174 | Zethra Prenisha Rahming |
+| 140 | 174 | Dihcheese444 |
 | 141 | 173 | blockstar |
 | 142 | 172 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
@@ -272,8 +272,8 @@
 | 264 | 98 | Perky Piecegrid |
 | 265 | 97 | Rosemary Foster |
 | 266 | 97 | Marcela Johnson |
-| 267 | 96 | Jessica Miller |
-| 268 | 96 | Marcus TheeyoungWoe Gilmore |
+| 267 | 96 | Marcus TheeyoungWoe Gilmore |
+| 268 | 96 | Jessica Miller |
 | 269 | 96 | Sammy Noguera |
 | 270 | 95 | Patron Anderson |
 | 271 | 95 | Tina Martinez |
@@ -291,8 +291,8 @@
 | 283 | 89 | Kristina Black |
 | 284 | 89 | bloat princess |
 | 285 | 89 | Jonathan Mahfood |
-| 286 | 88 | Silly Zonebuilder |
-| 287 | 88 | Michelle Parker |
+| 286 | 88 | Michelle Parker |
+| 287 | 88 | Silly Zonebuilder |
 | 288 | 87 | Alan George LaRage |
 | 289 | 86 | Joseph Edmonson |
 | 290 | 86 | Tony Pavelka |

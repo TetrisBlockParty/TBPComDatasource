@@ -46,8 +46,8 @@
 | 38 | 998 | Liv Whetson |
 | 39 | 996 | Danielle Cutler |
 | 40 | 989 | Kay |
-| 41 | 928 | Stephanie Rice |
-| 42 | 928 | Snappy Fitzone |
+| 41 | 928 | Snappy Fitzone |
+| 42 | 928 | Stephanie Rice |
 | 43 | 915 | Fancy Slam |
 | 44 | 879 | Shonna Roberts |
 | 45 | 878 | Chummy Shatterer |
@@ -68,8 +68,8 @@
 | 60 | 604 | Danielle Becker |
 | 61 | 591 | Suzieq |
 | 62 | 588 | yoyo |
-| 63 | 582 | Katrina Schroeder |
-| 64 | 582 | Natasha Jones |
+| 63 | 582 | Natasha Jones |
+| 64 | 582 | Katrina Schroeder |
 | 65 | 581 | Danielle Mogg |
 | 66 | 580 | Amanda L Baker |
 | 67 | 566 | Dan Rob |
@@ -107,8 +107,8 @@
 | 99 | 403 | Christine Filson |
 | 100 | 402 | Stephanie Simpson |
 | 101 | 397 | Mcathen |
-| 102 | 394 | joclisa |
-| 103 | 394 | Annie Déè |
+| 102 | 394 | Annie Déè |
+| 103 | 394 | joclisa |
 | 104 | 392 | Michelle |
 | 105 | 391 | Calista Jo Dickson |
 | 106 | 390 | Hasty Cascadefit |
@@ -133,8 +133,8 @@
 | 125 | 328 | Aaron Pitkin |
 | 126 | 327 | Dapper Snap |
 | 127 | 324 | Fancy Cascader |
-| 128 | 323 | Sherry Ogden |
-| 129 | 323 | Ashley Raines |
+| 128 | 323 | Ashley Raines |
+| 129 | 323 | Sherry Ogden |
 | 130 | 320 | Or Reznitsky |
 | 131 | 309 | Rich LeBlanc |
 | 132 | 307 | Peggi Charon |
@@ -236,8 +236,8 @@
 | 228 | 174 | Marquita Sheard |
 | 229 | 173 | Betty Ivy |
 | 230 | 172 | Grams |
-| 231 | 169 | Emma |
-| 232 | 169 | BŘŰŤİÇŨŚ |
+| 231 | 169 | BŘŰŤİÇŨŚ |
+| 232 | 169 | Emma |
 | 233 | 168 | MsBee |
 | 234 | 166 | Betty Rosas |
 | 235 | 166 | Beth Ingham |

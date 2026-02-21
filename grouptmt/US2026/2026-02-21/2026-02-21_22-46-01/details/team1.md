@@ -131,8 +131,8 @@
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
-| 126 | 192 | Shaykmia |
-| 127 | 192 | Jessica Sheehan |
+| 126 | 192 | Jessica Sheehan |
+| 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
 | 129 | 190 | Sweetts |
 | 130 | 190 | Thorne Shumate |
@@ -149,10 +149,10 @@
 | 141 | 177 | ParisandCory Champagne |
 | 142 | 176 | Basment Living |
 | 143 | 175 | John Barron |
-| 144 | 171 | David DeSantis |
-| 145 | 171 | Greg Premoe |
-| 146 | 170 | Veronica Eve |
-| 147 | 170 | Cartier |
+| 144 | 171 | Greg Premoe |
+| 145 | 171 | David DeSantis |
+| 146 | 170 | Cartier |
+| 147 | 170 | Veronica Eve |
 | 148 | 169 | Abbey Crespo |
 | 149 | 168 | Standia Civil |
 | 150 | 166 | Rico Rico |
@@ -212,8 +212,8 @@
 | 204 | 125 | Larry Tilton |
 | 205 | 122 | Melissa Lemmon |
 | 206 | 121 | Mark Smith |
-| 207 | 120 | Kimmie Kimms |
-| 208 | 120 | Alenoush Karimian |
+| 207 | 120 | Alenoush Karimian |
+| 208 | 120 | Kimmie Kimms |
 | 209 | 119 | Tater |
 | 210 | 118 | SavageBooty98 |
 | 211 | 116 | MomMom |
