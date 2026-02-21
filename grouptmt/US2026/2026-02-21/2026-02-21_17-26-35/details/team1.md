@@ -66,8 +66,8 @@
 | 58 | 287 | Hyper |
 | 59 | 281 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Sweet Baker |
-| 62 | 274 | Theo Pinnow |
+| 61 | 274 | Theo Pinnow |
+| 62 | 274 | Sweet Baker |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 263 | Bhelle Sumile |
@@ -130,8 +130,8 @@
 | 122 | 152 | Jacqueline Unique |
 | 123 | 152 | Speedy Snapfall |
 | 124 | 150 | Adele Rahman |
-| 125 | 149 | Jennifer ManWarren |
-| 126 | 149 | Arianna O'Brien |
+| 125 | 149 | Arianna O'Brien |
+| 126 | 149 | Jennifer ManWarren |
 | 127 | 148 | Shauntina Burke |
 | 128 | 147 | Michael |
 | 129 | 146 | Christy Jones |

@@ -113,10 +113,10 @@
 | 105 | 320 | Or Reznitsky |
 | 106 | 318 | Chasity |
 | 107 | 316 | Fancy Cascader |
-| 108 | 309 | Rich LeBlanc |
-| 109 | 309 | CeceGeGe |
-| 110 | 307 | Peggi Charon |
-| 111 | 307 | Blocked |
+| 108 | 309 | CeceGeGe |
+| 109 | 309 | Rich LeBlanc |
+| 110 | 307 | Blocked |
+| 111 | 307 | Peggi Charon |
 | 112 | 300 | Sherika C. McDaniels |
 | 113 | 300 | Tessina Dewey-Mancino |
 | 114 | 293 | Poppy Splitter |
@@ -154,8 +154,8 @@
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
 | 148 | 207 | Jessica |
-| 149 | 207 | Chris Bell |
-| 150 | 207 | rnr junky |
+| 149 | 207 | rnr junky |
+| 150 | 207 | Chris Bell |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 199 | Rochelle Hazelett |

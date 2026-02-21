@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Dee Kay |
-| 24 | 590 | Valerie Roberts |
+| 23 | 590 | Valerie Roberts |
+| 24 | 590 | Dee Kay |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 528 | LisaJo Picken Buchanan |
@@ -120,7 +120,7 @@
 | 112 | 164 | ThaEviLJeNiuZ |
 | 113 | 160 | ZeeZee |
 | 114 | 160 | Crystal Carroll |
-| 115 | 160 | ZeeZee |
+| 115 | 160 | Stacey Stano |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |
@@ -140,8 +140,8 @@
 | 132 | 140 | Jenna McGeorge |
 | 133 | 140 | Shannon Ferrari |
 | 134 | 137 | PeaceOs |
-| 135 | 136 | Serena Goodridge |
-| 136 | 136 | Tanner Lund |
+| 135 | 136 | Tanner Lund |
+| 136 | 136 | Serena Goodridge |
 | 137 | 135 | ĥuf |
 | 138 | 134 | Chirpy Basepiece |
 | 139 | 133 | Zany Shatterer |
@@ -183,8 +183,8 @@
 | 175 | 111 | Michelle Morris |
 | 176 | 110 | H.R. Block |
 | 177 | 108 | Ali Ian |
-| 178 | 107 | Rafael Valentin |
-| 179 | 107 | Marcus Todd |
+| 178 | 107 | Marcus Todd |
+| 179 | 107 | Rafael Valentin |
 | 180 | 106 | Avy Absol |
 | 181 | 105 | TheNeesh50 |
 | 182 | 105 | Kristin MacDonald |
