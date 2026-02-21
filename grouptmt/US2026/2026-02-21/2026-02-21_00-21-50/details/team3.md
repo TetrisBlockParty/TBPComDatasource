@@ -130,10 +130,10 @@
 | 122 | 88 | Funky Jumper |
 | 123 | 87 | Jimmie Clemons |
 | 124 | 86 | Dan Rob |
-| 125 | 84 | Ava Petito |
-| 126 | 84 | Eon Harris |
-| 127 | 83 | LaTanya GeminiondaRise Johnson |
-| 128 | 83 | Kevin Russell |
+| 125 | 84 | Eon Harris |
+| 126 | 84 | Ava Petito |
+| 127 | 83 | Kevin Russell |
+| 128 | 83 | LaTanya GeminiondaRise Johnson |
 | 129 | 82 | Donna |
 | 130 | 82 | Clever Clearbuilder |
 | 131 | 81 | Danielle Becker |

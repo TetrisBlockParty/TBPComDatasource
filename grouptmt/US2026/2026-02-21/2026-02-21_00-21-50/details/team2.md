@@ -68,8 +68,8 @@
 | 60 | 435 | Tommy Tha Boss Gunz |
 | 61 | 431 | Slip |
 | 62 | 426 | Kaylee McCafferty |
-| 63 | 418 | Lisa Ongtowasruk |
-| 64 | 418 | RdRydnHd |
+| 63 | 418 | RdRydnHd |
+| 64 | 418 | Lisa Ongtowasruk |
 | 65 | 405 | Samantha Jo |
 | 66 | 405 | Amber Shoemaker |
 | 67 | 404 | Gene Mills |
@@ -201,8 +201,8 @@
 | 193 | 184 | Sassy Linkbuilder |
 | 194 | 184 | Jumpy Gridpiece |
 | 195 | 183 | Nika Bee |
-| 196 | 181 | Julay |
-| 197 | 181 | Jordan Petro |
+| 196 | 181 | Jordan Petro |
+| 197 | 181 | Julay |
 | 198 | 180 | Peter Palestino |
 | 199 | 180 | Ali Gralski |
 | 200 | 179 | Cat |
@@ -228,8 +228,8 @@
 | 220 | 162 | Jennifer Malloy - Cardy |
 | 221 | 161 | Austin Wilson |
 | 222 | 160 | Jessicah Myers |
-| 223 | 160 | Cynthia Ward |
-| 224 | 160 | Rhonda Petro |
+| 223 | 160 | Rhonda Petro |
+| 224 | 160 | Cynthia Ward |
 | 225 | 159 | Charvi' Carter |
 | 226 | 158 | Toni Roberson |
 | 227 | 158 | RaeVan Worthington |
