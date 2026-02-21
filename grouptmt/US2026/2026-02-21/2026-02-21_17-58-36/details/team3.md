@@ -104,8 +104,8 @@
 | 96 | 359 | Jessica Bechler |
 | 97 | 356 | Adrian Marcel Pate |
 | 98 | 352 | Trezure Gonzalez |
-| 99 | 350 | Speedy Bridger |
-| 100 | 350 | Shannon Matthew Byers |
+| 99 | 350 | Shannon Matthew Byers |
+| 100 | 350 | Speedy Bridger |
 | 101 | 344 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
@@ -202,15 +202,15 @@
 | 194 | 166 | Kelly Ann Child |
 | 195 | 166 | MsBee |
 | 196 | 165 | Kali Kelz Williams |
-| 197 | 163 | Stephanie Hill |
-| 198 | 163 | Christine Trester |
+| 197 | 163 | Christine Trester |
+| 198 | 163 | Stephanie Hill |
 | 199 | 162 | Stephanie Whitefield |
 | 200 | 161 | BŘŰŤİÇŨŚ |
 | 201 | 160 | Tiffany Davie |
 | 202 | 159 | Jone |
 | 203 | 157 | Marquita Sheard |
-| 204 | 157 | Patricia Gadsden |
-| 205 | 157 | Nicholas Roddy |
+| 204 | 157 | Nicholas Roddy |
+| 205 | 157 | Patricia Gadsden |
 | 206 | 156 | Bea Miles |
 | 207 | 155 | Loopy Fallzone |
 | 208 | 153 | Tipsy Zonebuilder |
@@ -284,8 +284,8 @@
 | 276 | 114 | JerseyJess |
 | 277 | 114 | Demetrious Shaw Sr. |
 | 278 | 113 | Brave Brickster |
-| 279 | 113 | Brian Battjes |
-| 280 | 113 | Beppy |
+| 279 | 113 | Beppy |
+| 280 | 113 | Brian Battjes |
 | 281 | 112 | Rachel |
 | 282 | 111 | Rainbow77375 |
 | 283 | 111 | El Chapa |

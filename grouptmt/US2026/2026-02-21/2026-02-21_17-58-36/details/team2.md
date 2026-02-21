@@ -308,8 +308,8 @@
 | 300 | 365 | Christina Lewis-Vickers |
 | 301 | 365 | Audrey Jones |
 | 302 | 364 | Shinette Dobson |
-| 303 | 364 | Brandon Armstrong |
-| 304 | 364 | Mighty Shatterfit |
+| 303 | 364 | Mighty Shatterfit |
+| 304 | 364 | Brandon Armstrong |
 | 305 | 363 | William Meussner |
 | 306 | 362 | AkaLefty |
 | 307 | 360 | Brenda Messer |
@@ -337,8 +337,8 @@
 | 329 | 344 | Glenn Cobbins |
 | 330 | 343 | F-X |
 | 331 | 341 | Melissa Rebbe-Lehman |
-| 332 | 340 | Mandi Douglas Hilt |
-| 333 | 340 | Felicia Lynn |
+| 332 | 340 | Felicia Lynn |
+| 333 | 340 | Mandi Douglas Hilt |
 | 334 | 337 | Sassy Pattern |
 | 335 | 336 | Moni Foxe |
 | 336 | 335 | Brooke Leigh Strube |
@@ -364,16 +364,16 @@
 | 356 | 325 | Ebony Deloach Bryant |
 | 357 | 325 | bru |
 | 358 | 323 | Joshua Sommerville |
-| 359 | 323 | KhaosLord |
-| 360 | 323 | Briana Alexander |
+| 359 | 323 | Briana Alexander |
+| 360 | 323 | KhaosLord |
 | 361 | 322 | NanDa Cruzan VI |
 | 362 | 322 | Brandy Andre |
 | 363 | 321 | Tamara Bailey |
 | 364 | 320 | Sarah Ridenour |
 | 365 | 318 | CC |
 | 366 | 317 | Heather Westrum |
-| 367 | 317 | Zombi3 |
-| 368 | 317 | Bussyiano Page |
+| 367 | 317 | Bussyiano Page |
+| 368 | 317 | Zombi3 |
 | 369 | 316 | Oscar Bernie |
 | 370 | 315 | Kristopher Miller |
 | 371 | 314 | Lewis Sturgeon |
