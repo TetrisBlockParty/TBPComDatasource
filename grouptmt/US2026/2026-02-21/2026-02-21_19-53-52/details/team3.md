@@ -112,8 +112,8 @@
 | 104 | 367 | mjl574 |
 | 105 | 366 | Speedy Bridger |
 | 106 | 356 | Adrian Marcel Pate |
-| 107 | 350 | Tiff Vs Tiffany |
-| 108 | 350 | Shannon Matthew Byers |
+| 107 | 350 | Shannon Matthew Byers |
+| 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
 | 111 | 323 | Ashley Raines |
@@ -124,8 +124,8 @@
 | 116 | 316 | Fancy Cascader |
 | 117 | 312 | Jay Horn |
 | 118 | 309 | Rich LeBlanc |
-| 119 | 307 | Blocked |
-| 120 | 307 | Peggi Charon |
+| 119 | 307 | Peggi Charon |
+| 120 | 307 | Blocked |
 | 121 | 305 | Tessina Dewey-Mancino |
 | 122 | 300 | Sherika C. McDaniels |
 | 123 | 293 | Poppy Splitter |
@@ -156,8 +156,8 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Hoppy Buildout |
-| 152 | 222 | Jimmie Clemons |
+| 151 | 222 | Jimmie Clemons |
+| 152 | 222 | Hoppy Buildout |
 | 153 | 219 | Shunta Jacobs |
 | 154 | 218 | LaNette Morgan |
 | 155 | 218 | Rochelle Hazelett |
@@ -178,10 +178,10 @@
 | 170 | 195 | Michael Lucado |
 | 171 | 195 | Nicha Hooker |
 | 172 | 194 | glichmod |
-| 173 | 193 | Duane Bright |
-| 174 | 193 | Stephanie Burtin |
-| 175 | 193 | Karon Griffin |
-| 176 | 193 | Duane Bright |
+| 173 | 193 | Stephanie Burtin |
+| 174 | 193 | Duane Bright |
+| 175 | 193 | Clever Shiftsnap |
+| 176 | 193 | Karon Griffin |
 | 177 | 191 | Brenda Lee Vander Molen |
 | 178 | 191 | Scott Carleton |
 | 179 | 191 | Giddy Twistbuilder |
@@ -219,8 +219,8 @@
 | 211 | 163 | Christine Trester |
 | 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | Irene Arreguin |
-| 215 | 161 | BŘŰŤİÇŨŚ |
+| 214 | 161 | BŘŰŤİÇŨŚ |
+| 215 | 161 | Irene Arreguin |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -398,9 +398,9 @@
 | 390 | 89 | Matty Ray |
 | 391 | 88 | Kaitie Oliver |
 | 392 | 88 | Kelly Koenig |
-| 393 | 88 | Kaitie Oliver |
-| 394 | 86 | Jonathn Poindexter |
-| 395 | 86 | Salena Whitlock |
+| 393 | 88 | Sabrina Mansfield |
+| 394 | 86 | Salena Whitlock |
+| 395 | 86 | Jonathn Poindexter |
 | 396 | 86 | Mariah Williams |
 | 397 | 85 | Crystel b520 |
 | 398 | 85 | Heather De Vries Cobb |

@@ -153,8 +153,8 @@
 | 145 | 705 | Nika Bee |
 | 146 | 704 | Nerdy Clearfit |
 | 147 | 700 | Vincent Petrella |
-| 148 | 700 | Beverly Owens |
-| 149 | 700 | Rosemadder |
+| 148 | 700 | Rosemadder |
+| 149 | 700 | Beverly Owens |
 | 150 | 698 | Lola Contreras |
 | 151 | 697 | Real Ri |
 | 152 | 694 | Vo'Landa Reels |
@@ -174,8 +174,8 @@
 | 166 | 650 | Shiny Rollzone |
 | 167 | 641 | Ricardo Burton |
 | 168 | 632 | Beth |
-| 169 | 631 | Roseanna Peloso |
-| 170 | 631 | Peppy Zone |
+| 169 | 631 | Peppy Zone |
+| 170 | 631 | Roseanna Peloso |
 | 171 | 630 | L3sli3 |
 | 172 | 628 | Nett |
 | 173 | 620 | BYM4L |
@@ -282,8 +282,8 @@
 | 274 | 445 | Dedra Steward |
 | 275 | 445 | Mar Q Thomas |
 | 276 | 442 | Leah |
-| 277 | 442 | Joshua Mandel |
-| 278 | 442 | Daphne Jordan |
+| 277 | 442 | Daphne Jordan |
+| 278 | 442 | Joshua Mandel |
 | 279 | 440 | Liberty |
 | 280 | 439 | Joseph Musick |
 | 281 | 439 | Alisa Lamb |
@@ -638,8 +638,8 @@
 | 630 | 208 | Ashley MoBetta Humes |
 | 631 | 208 | Nerdy Riserfit |
 | 632 | 207 | Sara Pennington |
-| 633 | 207 | Caitlin Johnson |
-| 634 | 207 | Nicolle Danielle |
+| 633 | 207 | Nicolle Danielle |
+| 634 | 207 | Caitlin Johnson |
 | 635 | 206 | Neko Preston |
 | 636 | 205 | ElizabethAnn Dickinson |
 | 637 | 205 | Joel Rosado |
@@ -689,8 +689,8 @@
 | 681 | 193 | Giggy Grabber |
 | 682 | 193 | Kelly Ann McCormick |
 | 683 | 192 | Beth Decker |
-| 684 | 192 | Leroy Jenkins |
-| 685 | 192 | Wakanda Forever |
+| 684 | 192 | Wakanda Forever |
+| 685 | 192 | Leroy Jenkins |
 | 686 | 191 | Stacy Harper |
 | 687 | 190 | Jessica Kaye DeAguero |
 | 688 | 189 | Jeffrey Barrows |
@@ -712,8 +712,8 @@
 | 704 | 184 | Janai Vrabel |
 | 705 | 184 | Donna M Carter |
 | 706 | 184 | Brittany Radaszewski |
-| 707 | 184 | Tina Blessed Cage |
-| 708 | 184 | Amanda Diegel |
+| 707 | 184 | Amanda Diegel |
+| 708 | 184 | Tina Blessed Cage |
 | 709 | 183 | Lynzekwi |
 | 710 | 182 | Sharon Crawford |
 | 711 | 182 | Veronica Guerra |

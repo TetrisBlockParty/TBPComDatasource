@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -216,8 +216,8 @@
 | 208 | 108 | Ali Ian |
 | 209 | 108 | Shane Kalamata Platoon |
 | 210 | 107 | Rafael Valentin |
-| 211 | 106 | Rebecca Morris |
-| 212 | 106 | Zappy Snaplink |
+| 211 | 106 | Zappy Snaplink |
+| 212 | 106 | Rebecca Morris |
 | 213 | 105 | Brandi Durig |
 | 214 | 104 | Chris Alexinas |
 | 215 | 103 | Chris Bernstein |
