@@ -59,8 +59,8 @@
 | 51 | 223 | Shari Garber |
 | 52 | 214 | Amy Fuller Heaton |
 | 53 | 207 | rnr junky |
-| 54 | 206 | MissTaylor |
-| 55 | 206 | Jennifer Willis |
+| 54 | 206 | Jennifer Willis |
+| 55 | 206 | MissTaylor |
 | 56 | 203 | Crimson |
 | 57 | 193 | Shunta Jacobs |
 | 58 | 193 | Clever Shiftsnap |
@@ -83,8 +83,8 @@
 | 75 | 144 | Denita Mungro |
 | 76 | 143 | ren |
 | 77 | 140 | Fancy Slam |
-| 78 | 135 | Nicole Flippo |
-| 79 | 135 | Latoya Mayne |
+| 78 | 135 | Latoya Mayne |
+| 79 | 135 | Nicole Flippo |
 | 80 | 134 | DanceLuvLaugh |
 | 81 | 131 | Emma |
 | 82 | 131 | Rufus Lincoln |

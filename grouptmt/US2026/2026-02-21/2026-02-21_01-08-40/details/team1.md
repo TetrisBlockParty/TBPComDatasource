@@ -55,8 +55,8 @@
 | 47 | 144 | Tana |
 | 48 | 143 | Veronica Eve |
 | 49 | 133 | Brandi Huntington |
-| 50 | 126 | Marianne Louise West |
-| 51 | 126 | Cece Ibarra |
+| 50 | 126 | Cece Ibarra |
+| 51 | 126 | Marianne Louise West |
 | 52 | 125 | Rico Rico |
 | 53 | 120 | Giggly Builderline |
 | 54 | 119 | Irual Hctrab |
@@ -70,8 +70,8 @@
 | 62 | 109 | Dandy Basegrid |
 | 63 | 108 | Tavia |
 | 64 | 105 | Barry Mac'Ockner |
-| 65 | 100 | Ash Galvan |
-| 66 | 100 | comrade fish |
+| 65 | 100 | comrade fish |
+| 66 | 100 | Ash Galvan |
 | 67 | 99 | Uhog SF |
 | 68 | 98 | Flashy Rotator |
 | 69 | 95 | Jodee Woods |
