@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3195 | Cassie Donica |
@@ -194,9 +194,9 @@
 | 186 | 303 | Crystal Greene |
 | 187 | 299 | Christy Krissie |
 | 188 | 296 | Jennifer Casey-Kay |
-| 189 | 295 | Diallo Sparkman |
-| 190 | 295 | Angela Bonquiqui Dinish |
-| 191 | 295 | Zany Clusterbuilder |
+| 189 | 295 | Angela Bonquiqui Dinish |
+| 190 | 295 | Zany Clusterbuilder |
+| 191 | 295 | Diallo Sparkman |
 | 192 | 293 | David Holliday |
 | 193 | 291 | Arwa Fatimah |
 | 194 | 290 | Jessie McDougald |
@@ -243,12 +243,12 @@
 | 235 | 251 | Leah |
 | 236 | 250 | Barbra Miller |
 | 237 | 249 | SwampRebel |
-| 238 | 248 | Bubbly Snapfit |
+| 238 | 248 | Dany Murillo |
 | 239 | 248 | Leah Keesling |
-| 240 | 248 | Dany Murillo |
+| 240 | 248 | Bubbly Snapfit |
 | 241 | 248 | Chummy Blockbuilder |
-| 242 | 247 | Fancy Twister |
-| 243 | 247 | Andrea Devery Beck |
+| 242 | 247 | Andrea Devery Beck |
+| 243 | 247 | Fancy Twister |
 | 244 | 246 | Ashley Lopez |
 | 245 | 245 | Rachael Senard |
 | 246 | 245 | Mischelle Clay |
@@ -262,8 +262,8 @@
 | 254 | 240 | Adam Erikson |
 | 255 | 240 | Angie Marie |
 | 256 | 239 | Qiana Sanders |
-| 257 | 238 | Cheech Dta |
-| 258 | 238 | Cheery Matchzone |
+| 257 | 238 | Cheery Matchzone |
+| 258 | 238 | Cheech Dta |
 | 259 | 237 | Altamirano Michael |
 | 260 | 236 | Frisky Riserbuilder |
 | 261 | 235 | Peppy Zone |
@@ -371,8 +371,8 @@
 | 363 | 165 | Austin Wilson |
 | 364 | 164 | Jamie Stevey |
 | 365 | 164 | Sara Pennington |
-| 366 | 163 | Albert McKnight |
-| 367 | 163 | Carl Bradshaw |
+| 366 | 163 | Carl Bradshaw |
+| 367 | 163 | Albert McKnight |
 | 368 | 163 | HarleyJane |
 | 369 | 162 | Brenna Ann |
 | 370 | 162 | Ryan Meilleur |

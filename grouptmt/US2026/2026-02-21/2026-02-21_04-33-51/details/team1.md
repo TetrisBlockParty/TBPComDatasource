@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Maria C. Hernandez |
-| 25 | 281 | Nancy Green |
+| 24 | 281 | Nancy Green |
+| 25 | 281 | Maria C. Hernandez |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |
@@ -46,16 +46,16 @@
 | 38 | 202 | Dee Perry |
 | 39 | 201 | Anaid Sanchez |
 | 40 | 200 | Lexuriuos Lifestlye |
-| 41 | 198 | Billie Dawn Sparks |
-| 42 | 198 | Carrie Beck Geartz |
+| 41 | 198 | Carrie Beck Geartz |
+| 42 | 198 | Billie Dawn Sparks |
 | 43 | 195 | Ananda Mendez |
 | 44 | 194 | Sharon Reynolds |
 | 45 | 192 | Mandyy Rae |
-| 46 | 191 | Sweet Baker |
-| 47 | 191 | Jazzy Framezone |
+| 46 | 191 | Jazzy Framezone |
+| 47 | 191 | Sweet Baker |
 | 48 | 191 | Giggly Builderline |
-| 49 | 190 | Thorne Shumate |
-| 50 | 190 | Sweetts |
+| 49 | 190 | Sweetts |
+| 50 | 190 | Thorne Shumate |
 | 51 | 189 | Happy Basegrid |
 | 52 | 185 | Karin Gillen |
 | 53 | 174 | Amanda Summey Schoemer |
@@ -124,8 +124,8 @@
 | 116 | 93 | Aimee Horton |
 | 117 | 92 | Jessica Russell |
 | 118 | 92 | Michael |
-| 119 | 90 | TSwag |
-| 120 | 90 | Madison Wicks |
+| 119 | 90 | Madison Wicks |
+| 120 | 90 | TSwag |
 | 121 | 89 | Mizzledagod |
 | 122 | 87 | Jessi Sauer |
 | 123 | 86 | Desiree Deschaine Havee |

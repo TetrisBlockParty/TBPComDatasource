@@ -107,8 +107,8 @@
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
 | 101 | 164 | rosy |
-| 102 | 159 | Morgan Martinez |
-| 103 | 159 | Jone |
+| 102 | 159 | Jone |
+| 103 | 159 | Morgan Martinez |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
 | 106 | 155 | BŘŰŤİÇŨŚ |
