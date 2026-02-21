@@ -108,9 +108,9 @@
 | 100 | 147 | Veronica Eve |
 | 101 | 146 | Hyp James NObettadanluvarat |
 | 102 | 145 | BigWeenie69 |
-| 103 | 144 | Plucky Ziggy |
-| 104 | 144 | Tanya Carpenter-Reynolds |
-| 105 | 144 | femmefatale |
+| 103 | 144 | femmefatale |
+| 104 | 144 | Plucky Ziggy |
+| 105 | 144 | Tanya Carpenter-Reynolds |
 | 106 | 143 | Sarah Marie |
 | 107 | 141 | Blaire Bruckoff |
 | 108 | 138 | Gary Gobin |
@@ -171,9 +171,9 @@
 | 163 | 99 | Mizzledagod |
 | 164 | 98 | Witty Builderfit |
 | 165 | 98 | Desiree Deschaine Havee |
-| 166 | 96 | Nery Martinez |
-| 167 | 96 | Barrbaric |
-| 168 | 96 | Melissa Lemmon |
+| 166 | 96 | Barrbaric |
+| 167 | 96 | Melissa Lemmon |
+| 168 | 96 | Nery Martinez |
 | 169 | 94 | Brad MG |
 | 170 | 93 | Cody Gates |
 | 171 | 93 | Tyler Whitley |

@@ -86,12 +86,12 @@
 | 78 | 170 | Andy Cabral |
 | 79 | 170 | Girl |
 | 80 | 167 | Denise Carlson |
-| 81 | 165 | Courtney Cicoria |
-| 82 | 165 | Casey Grabner |
+| 81 | 165 | Casey Grabner |
+| 82 | 165 | Courtney Cicoria |
 | 83 | 162 | Shauna Havard |
 | 84 | 160 | Carter Jones |
-| 85 | 159 | Holly Jolly |
-| 86 | 159 | Justin Hannigan |
+| 85 | 159 | Justin Hannigan |
+| 86 | 159 | Holly Jolly |
 | 87 | 157 | quicksand420 |
 | 88 | 154 | ThaEviLJeNiuZ |
 | 89 | 154 | Zany Twisterfit |
@@ -123,9 +123,9 @@
 | 115 | 128 | Rio Rocha |
 | 116 | 126 | Dihcheese444 |
 | 117 | 125 | Lauren Scott |
-| 118 | 123 | Cherrish Duren |
-| 119 | 123 | Bubbly Puzzler |
-| 120 | 123 | TinyLegoRose |
+| 118 | 123 | TinyLegoRose |
+| 119 | 123 | Cherrish Duren |
+| 120 | 123 | Bubbly Puzzler |
 | 121 | 122 | Sherri |
 | 122 | 121 | Smiley Tiltbuilder |
 | 123 | 121 | Zany Shatterer |

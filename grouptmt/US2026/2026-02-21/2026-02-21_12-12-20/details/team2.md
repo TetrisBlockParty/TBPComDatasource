@@ -111,8 +111,8 @@
 | 103 | 674 | Dannette Goldberg-Richards |
 | 104 | 672 | Wendy Harder Gage |
 | 105 | 665 | Dineisha Carpenter |
-| 106 | 658 | Vistabrat |
-| 107 | 658 | Pacynthia Williams |
+| 106 | 658 | Pacynthia Williams |
+| 107 | 658 | Vistabrat |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 649 | Anna Edwards |
 | 110 | 649 | Stephanie Chapman |
@@ -261,8 +261,8 @@
 | 253 | 323 | Juanita Lyons |
 | 254 | 323 | Briana Alexander |
 | 255 | 318 | Elisheva Mizrachi |
-| 256 | 318 | Trista Dumais |
-| 257 | 318 | Alexandra Weir |
+| 256 | 318 | Alexandra Weir |
+| 257 | 318 | Trista Dumais |
 | 258 | 317 | Heather Westrum |
 | 259 | 317 | Zombi3 |
 | 260 | 317 | bru |

@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -44,8 +44,8 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Danielle Becker |
-| 40 | 587 | Suzieq |
+| 39 | 587 | Suzieq |
+| 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
 | 43 | 546 | Dolores Falco |
@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Trezure Gonzalez |
-| 76 | 342 | Annie Déè |
+| 75 | 342 | Annie Déè |
+| 76 | 342 | Trezure Gonzalez |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -139,8 +139,8 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 167 | Raven Dudley |
 | 138 | 166 | Danielle Mogg |
@@ -264,8 +264,8 @@
 | 256 | 96 | Christopher Woost |
 | 257 | 96 | Tasha Wesson-Torrence |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Andrew Thorson |
-| 260 | 94 | Angie Harper |
+| 259 | 94 | Angie Harper |
+| 260 | 94 | Andrew Thorson |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Ava Petito |
 | 263 | 92 | Jennifer Caputo |
