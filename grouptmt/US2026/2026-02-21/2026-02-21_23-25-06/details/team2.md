@@ -188,8 +188,8 @@
 | 180 | 700 | Rosemadder |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
-| 183 | 692 | Jennifer Casey-Kay |
-| 184 | 692 | Chelle |
+| 183 | 692 | Chelle |
+| 184 | 692 | Jennifer Casey-Kay |
 | 185 | 690 | Deborah Miller |
 | 186 | 688 | Dreamy Blast |
 | 187 | 688 | Wendy Harder Gage |
@@ -200,8 +200,8 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 661 | Claire Noland |
 | 199 | 660 | Bussyiano Page |
@@ -226,8 +226,8 @@
 | 218 | 619 | Jamie Otero |
 | 219 | 618 | Gabby Jenner |
 | 220 | 615 | Auntie B |
-| 221 | 608 | Sommer Shope |
-| 222 | 608 | goofinoff |
+| 221 | 608 | goofinoff |
+| 222 | 608 | Sommer Shope |
 | 223 | 605 | Jelly |
 | 224 | 603 | Cassie Maynard |
 | 225 | 602 | Brandon Armstrong |
@@ -348,8 +348,8 @@
 | 340 | 422 | Mamachelle Eisweirth |
 | 341 | 421 | Vanessa Moreno |
 | 342 | 416 | Lina Sanders |
-| 343 | 414 | Kara Gillen |
-| 344 | 414 | Sabrina Burton |
+| 343 | 414 | Sabrina Burton |
+| 344 | 414 | Kara Gillen |
 | 345 | 414 | Emily Lyric Converse |
 | 346 | 414 | John |
 | 347 | 411 | Kristen O'Neal |
@@ -518,8 +518,8 @@
 | 510 | 297 | Toni Lynn |
 | 511 | 297 | Peachy Blockbuilder |
 | 512 | 297 | Maxwell Escalera |
-| 513 | 296 | Amber Gray |
-| 514 | 296 | Sassy Linkbuilder |
+| 513 | 296 | Sassy Linkbuilder |
+| 514 | 296 | Amber Gray |
 | 515 | 296 | Jennifer Darby |
 | 516 | 295 | Noel Tarmy |
 | 517 | 294 | Frisky Riserbuilder |
@@ -598,9 +598,9 @@
 | 590 | 257 | Jackie Jackie Lee |
 | 591 | 256 | Amy Humphreys |
 | 592 | 256 | Tee Jaleesa |
-| 593 | 256 | Quirky Twistline |
-| 594 | 256 | Brenna Yearian |
-| 595 | 256 | Robin L. Vial |
+| 593 | 256 | Robin L. Vial |
+| 594 | 256 | Quirky Twistline |
+| 595 | 256 | Brenna Yearian |
 | 596 | 255 | Hillary Crawford |
 | 597 | 254 | Elizabeth Diraffaele |
 | 598 | 253 | Tansaria Couch-Butler |

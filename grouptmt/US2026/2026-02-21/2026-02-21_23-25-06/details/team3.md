@@ -69,16 +69,16 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Joey Banks |
-| 73 | 536 | Giddy Drop |
+| 72 | 536 | Giddy Drop |
+| 73 | 536 | Joey Banks |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -193,8 +193,8 @@
 | 185 | 214 | Jenny Hrndz |
 | 186 | 214 | Amy Fuller Heaton |
 | 187 | 212 | Krystal Gerstberger |
-| 188 | 211 | Khaleada McGill Banks |
-| 189 | 211 | Katrina Turner |
+| 188 | 211 | Katrina Turner |
+| 189 | 211 | Khaleada McGill Banks |
 | 190 | 210 | Michael Lucado |
 | 191 | 207 | Chris Bell |
 | 192 | 207 | Jessica |
