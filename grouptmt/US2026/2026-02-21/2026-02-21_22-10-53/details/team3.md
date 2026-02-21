@@ -59,8 +59,8 @@
 | 51 | 702 | Stephanie Allmon |
 | 52 | 621 | Cherry Parker |
 | 53 | 618 | MissTaylor |
-| 54 | 614 | Jamie Furr |
-| 55 | 614 | Gracie |
+| 54 | 614 | Gracie |
+| 55 | 614 | Jamie Furr |
 | 56 | 613 | Amber Hughes |
 | 57 | 604 | Danielle Becker |
 | 58 | 597 | Elaine Webb Graves |

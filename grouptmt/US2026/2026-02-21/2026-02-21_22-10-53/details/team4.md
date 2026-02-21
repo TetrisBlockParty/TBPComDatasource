@@ -146,8 +146,8 @@
 | 138 | 173 | blockstar |
 | 139 | 171 | Diana Houts |
 | 140 | 170 | Amy Suckarieh |
-| 141 | 164 | 030Synner |
-| 142 | 164 | ThaEviLJeNiuZ |
+| 141 | 164 | ThaEviLJeNiuZ |
+| 142 | 164 | 030Synner |
 | 143 | 160 | ZeeZee |
 | 144 | 156 | Jessica Bohlken |
 | 145 | 156 | Holly |
@@ -158,13 +158,13 @@
 | 150 | 149 | Roger Coulter |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
-| 153 | 147 | Chair |
-| 154 | 147 | Jay28 |
+| 153 | 147 | Jay28 |
+| 154 | 147 | Chair |
 | 155 | 145 | Daria Rycewicz |
 | 156 | 144 | Mr. Party |
 | 157 | 141 | Malakai Darien Fox |
-| 158 | 141 | Marcus Todd |
-| 159 | 141 | ĥuf |
+| 158 | 141 | ĥuf |
+| 159 | 141 | Marcus Todd |
 | 160 | 141 | Kathy Allen |
 | 161 | 140 | Shannon Ferrari |
 | 162 | 140 | Stephme310 |

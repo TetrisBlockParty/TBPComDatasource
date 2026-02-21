@@ -110,8 +110,8 @@
 | 102 | 1048 | PsychKIRAtrist |
 | 103 | 1035 | Donnie Hunt |
 | 104 | 1017 | Sarah Freitas |
-| 105 | 1011 | Amy Sayers |
-| 106 | 1011 | Brave Dropmatch |
+| 105 | 1011 | Brave Dropmatch |
+| 106 | 1011 | Amy Sayers |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
 | 109 | 983 | Anna Edwards |
@@ -234,8 +234,8 @@
 | 226 | 549 | Kaylee McCafferty |
 | 227 | 549 | Charvi' Carter |
 | 228 | 543 | Adira Brown |
-| 229 | 541 | SaraMarie Eveland |
-| 230 | 541 | Giggy Blocker |
+| 229 | 541 | Giggy Blocker |
+| 230 | 541 | SaraMarie Eveland |
 | 231 | 540 | Teresa Gillmore |
 | 232 | 537 | Slip |
 | 233 | 535 | Paul Huber |
