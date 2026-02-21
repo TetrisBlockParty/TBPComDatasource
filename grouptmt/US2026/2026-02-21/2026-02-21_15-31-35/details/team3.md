@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Danielle Weikel |
-| 253 | 110 | Tye Stovall |
+| 252 | 110 | Tye Stovall |
+| 253 | 110 | Danielle Weikel |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | mommablock |

@@ -409,8 +409,8 @@
 | 401 | 257 | Jackie Jackie Lee |
 | 402 | 256 | Alishac Marie |
 | 403 | 256 | Tee Jaleesa |
-| 404 | 254 | Rose Fx |
-| 405 | 254 | Elizabeth Diraffaele |
+| 404 | 254 | Elizabeth Diraffaele |
+| 405 | 254 | Rose Fx |
 | 406 | 254 | Julie Hamilton |
 | 407 | 253 | Tansaria Couch-Butler |
 | 408 | 253 | Mary Marie |
@@ -509,8 +509,8 @@
 | 501 | 204 | Kimberly Ann |
 | 502 | 204 | Brenna Ann |
 | 503 | 202 | Alyssa Dean |
-| 504 | 202 | Lauren Fitzgerald Thomas |
-| 505 | 202 | Layna Lyons |
+| 504 | 202 | Layna Lyons |
+| 505 | 202 | Lauren Fitzgerald Thomas |
 | 506 | 201 | Matthew Turner |
 | 507 | 201 | Twisty Tetriblast |
 | 508 | 200 | Sara Silvernail-Kay |

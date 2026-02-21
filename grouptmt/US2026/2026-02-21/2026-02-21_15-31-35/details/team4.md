@@ -121,8 +121,8 @@
 | 113 | 151 | Dana Scott |
 | 114 | 147 | 030Synner |
 | 115 | 147 | Jay28 |
-| 116 | 146 | Klo |
-| 117 | 146 | Peachy Fall |
+| 116 | 146 | Peachy Fall |
+| 117 | 146 | Klo |
 | 118 | 145 | Jessica Bohlken |
 | 119 | 144 | Mr. Party |
 | 120 | 144 | Brittany Marsh |
@@ -141,8 +141,8 @@
 | 133 | 132 | Melissa Priest Sellers |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
 | 139 | 126 | Dihcheese444 |
 | 140 | 126 | TinyLegoRose |
@@ -172,8 +172,8 @@
 | 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
-| 167 | 107 | Rafael Valentin |
-| 168 | 107 | Marcus Todd |
+| 167 | 107 | Marcus Todd |
+| 168 | 107 | Rafael Valentin |
 | 169 | 106 | Avy Absol |
 | 170 | 105 | TheNeesh50 |
 | 171 | 105 | Kristin MacDonald |
@@ -255,7 +255,7 @@
 | 247 | 77 | Ahleek Mitchell |
 | 248 | 77 | Zippy Gridlock |
 | 249 | 77 | Twisty Cascadezone |
-| 250 | 76 | Crystal Lynn |
+| 250 | 76 | Madison Sweere |
 | 251 | 76 | Rebecca Blake |
 | 252 | 76 | Crystal Lynn |
 | 253 | 75 | Moonsterix |
