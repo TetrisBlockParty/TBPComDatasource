@@ -65,8 +65,8 @@
 | 57 | 325 | Shari Garber |
 | 58 | 322 | Michelle |
 | 59 | 320 | Or Reznitsky |
-| 60 | 316 | Tetris Master |
-| 61 | 316 | Fancy Cascader |
+| 60 | 316 | Fancy Cascader |
+| 61 | 316 | Tetris Master |
 | 62 | 307 | Peggi Charon |
 | 63 | 304 | Tasha Schriewer |
 | 64 | 300 | Sherika C. McDaniels |

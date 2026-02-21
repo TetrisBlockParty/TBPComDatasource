@@ -176,8 +176,8 @@
 | 168 | 327 | Danielle Simmons |
 | 169 | 323 | Briana Alexander |
 | 170 | 319 | Steven Marshaun |
-| 171 | 318 | Trista Dumais |
-| 172 | 318 | Juanita Lyons |
+| 171 | 318 | Juanita Lyons |
+| 172 | 318 | Trista Dumais |
 | 173 | 317 | Brittney Jean |
 | 174 | 317 | bru |
 | 175 | 316 | Maria Escobar |
@@ -219,8 +219,8 @@
 | 211 | 266 | Autumn Schaeffer |
 | 212 | 266 | Mighty Shatterfit |
 | 213 | 266 | Joyce Johnson Vaughn |
-| 214 | 263 | August Hale |
-| 215 | 263 | Taylor Flowers |
+| 214 | 263 | Taylor Flowers |
+| 215 | 263 | August Hale |
 | 216 | 262 | Taren Cowan |
 | 217 | 261 | Ann Matzkanin |
 | 218 | 261 | MrsClaudette Will'sIam Matthews |
@@ -254,8 +254,8 @@
 | 246 | 240 | Johnny Yeates |
 | 247 | 240 | Adam Erikson |
 | 248 | 239 | Tee Jaleesa |
-| 249 | 238 | Cheech Dta |
-| 250 | 238 | Cheery Matchzone |
+| 249 | 238 | Cheery Matchzone |
+| 250 | 238 | Cheech Dta |
 | 251 | 237 | Altamirano Michael |
 | 252 | 237 | Lyndi Robinson Wakefield |
 | 253 | 236 | Frisky Riserbuilder |
@@ -289,12 +289,12 @@
 | 281 | 207 | Melissa McCall |
 | 282 | 206 | RAEPR05 |
 | 283 | 206 | Julio A Laracuente |
-| 284 | 205 | Lylymom |
-| 285 | 205 | ElizabethAnn Dickinson |
+| 284 | 205 | ElizabethAnn Dickinson |
+| 285 | 205 | Lylymom |
 | 286 | 204 | Ali Gralski |
 | 287 | 204 | Rebecca Doughman |
-| 288 | 203 | coleksquad |
-| 289 | 203 | Gary Stash |
+| 288 | 203 | Gary Stash |
+| 289 | 203 | coleksquad |
 | 290 | 202 | Christina Ashley |
 | 291 | 200 | Cheeky Brickmatch |
 | 292 | 200 | Sarah Ridenour |
@@ -316,8 +316,8 @@
 | 308 | 191 | Sho Nuff |
 | 309 | 191 | Lauren Fitzgerald Thomas |
 | 310 | 190 | blarg |
-| 311 | 188 | Justin Hines |
-| 312 | 188 | Brave Gridpiece |
+| 311 | 188 | Brave Gridpiece |
+| 312 | 188 | Justin Hines |
 | 313 | 187 | Shelley Thornburgh Wright |
 | 314 | 186 | Joshua Mullings |
 | 315 | 184 | Sassy Linkbuilder |
