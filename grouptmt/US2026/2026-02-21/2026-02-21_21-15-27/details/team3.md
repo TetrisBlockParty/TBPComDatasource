@@ -70,8 +70,8 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -129,8 +129,8 @@
 | 121 | 316 | Fancy Cascader |
 | 122 | 314 | Aaron Pitkin |
 | 123 | 309 | Rich LeBlanc |
-| 124 | 307 | Blocked |
-| 125 | 307 | Peggi Charon |
+| 124 | 307 | Peggi Charon |
+| 125 | 307 | Blocked |
 | 126 | 305 | Tessina Dewey-Mancino |
 | 127 | 300 | Stephanie Blkpep Davidson |
 | 128 | 300 | Sherika C. McDaniels |
@@ -214,8 +214,8 @@
 | 206 | 178 | AlsoJess |
 | 207 | 178 | Ryan Williams |
 | 208 | 177 | Trisha Balmer |
-| 209 | 175 | DanceLuvLaugh |
-| 210 | 175 | Tasha Wesson-Torrence |
+| 209 | 175 | Tasha Wesson-Torrence |
+| 210 | 175 | DanceLuvLaugh |
 | 211 | 174 | rosy |
 | 212 | 173 | Sarajane Lokan |
 | 213 | 172 | Grams |

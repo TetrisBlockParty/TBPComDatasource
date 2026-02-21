@@ -297,8 +297,8 @@
 | 289 | 442 | Daphne Jordan |
 | 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Joseph Musick |
-| 293 | 439 | Alisa Lamb |
+| 292 | 439 | Alisa Lamb |
+| 293 | 439 | Joseph Musick |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -596,8 +596,8 @@
 | 588 | 238 | Manny Trindade |
 | 589 | 237 | Heather Piotrowski |
 | 590 | 237 | Kiorah Blaze |
-| 591 | 237 | Breezy Tilt |
-| 592 | 237 | Ben Barkley |
+| 591 | 237 | Ben Barkley |
+| 592 | 237 | Breezy Tilt |
 | 593 | 236 | Angela Yantz |
 | 594 | 236 | Patrick Bartlett |
 | 595 | 236 | Julio A Laracuente |

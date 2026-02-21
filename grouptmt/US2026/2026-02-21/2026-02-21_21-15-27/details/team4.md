@@ -139,8 +139,8 @@
 | 131 | 174 | Dihcheese444 |
 | 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Kristin MacDonald |
-| 217 | 111 | Lazy Blocker |
+| 216 | 111 | Lazy Blocker |
+| 217 | 111 | Kristin MacDonald |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -249,8 +249,8 @@
 | 241 | 101 | Zach Kerbs |
 | 242 | 101 | Saulc1991 |
 | 243 | 100 | Jacob Richard |
-| 244 | 100 | Alexandra Karavias |
-| 245 | 100 | Maureen Flanigan |
+| 244 | 100 | Maureen Flanigan |
+| 245 | 100 | Alexandra Karavias |
 | 246 | 99 | Michael Orris |
 | 247 | 98 | Bradley Reeves |
 | 248 | 98 | Perky Piecegrid |
