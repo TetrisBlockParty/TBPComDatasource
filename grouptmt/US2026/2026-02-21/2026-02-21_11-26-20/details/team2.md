@@ -205,12 +205,12 @@
 | 197 | 391 | Qiana Sanders |
 | 198 | 386 | Ashie Ann |
 | 199 | 386 | Macy Williams |
-| 200 | 385 | Sam |
-| 201 | 385 | Arwa Fatimah |
+| 200 | 385 | Arwa Fatimah |
+| 201 | 385 | Sam |
 | 202 | 382 | Leah |
 | 203 | 381 | Amanda Ferrell |
-| 204 | 380 | Joshua Mandel |
-| 205 | 380 | Calandra Shaya Robinson |
+| 204 | 380 | Calandra Shaya Robinson |
+| 205 | 380 | Joshua Mandel |
 | 206 | 378 | Cody Nishimura |
 | 207 | 377 | Roy Salyer |
 | 208 | 364 | Shinette Dobson |
@@ -223,8 +223,8 @@
 | 215 | 357 | Shannon Byrd |
 | 216 | 356 | Deyawn Smith |
 | 217 | 356 | Shameika Trail |
-| 218 | 354 | Brave Dropmatch |
-| 219 | 354 | Tracy Wise |
+| 218 | 354 | Tracy Wise |
+| 219 | 354 | Brave Dropmatch |
 | 220 | 353 | Joseph Musick |
 | 221 | 352 | ruth |
 | 222 | 350 | Chris Harr |
@@ -273,8 +273,8 @@
 | 265 | 299 | Deborah Miller |
 | 266 | 299 | Christy Krissie |
 | 267 | 297 | Brenda Utphall |
-| 268 | 296 | Jennifer Casey-Kay |
-| 269 | 296 | Amber Gray |
+| 268 | 296 | Amber Gray |
+| 269 | 296 | Jennifer Casey-Kay |
 | 270 | 296 | Jennifer Darby |
 | 271 | 295 | Diallo Sparkman |
 | 272 | 295 | Angela Bonquiqui Dinish |
@@ -314,8 +314,8 @@
 | 306 | 272 | Mikayala Szaz |
 | 307 | 271 | Ann Marie Davis |
 | 308 | 271 | Toni Lynn |
-| 309 | 270 | Christina Ashley |
-| 310 | 270 | Angela Lynn |
+| 309 | 270 | Angela Lynn |
+| 310 | 270 | Christina Ashley |
 | 311 | 269 | Reece Smith |
 | 312 | 268 | Chummy Blockbuilder |
 | 313 | 268 | Tanya Parsons |
@@ -329,8 +329,8 @@
 | 321 | 260 | Denise Rickman |
 | 322 | 257 | Lyndi Robinson Wakefield |
 | 323 | 256 | Giddy Gridclear |
-| 324 | 256 | CC |
-| 325 | 256 | Tee Jaleesa |
+| 324 | 256 | Tee Jaleesa |
+| 325 | 256 | CC |
 | 326 | 255 | Santana Miyagi |
 | 327 | 254 | Rose Fx |
 | 328 | 254 | Elizabeth Diraffaele |
@@ -355,8 +355,8 @@
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
-| 350 | 242 | Lawanda Forbes |
-| 351 | 242 | Donna Chandler |
+| 350 | 242 | Donna Chandler |
+| 351 | 242 | Lawanda Forbes |
 | 352 | 241 | Sabrina Burton |
 | 353 | 240 | Angie Marie |
 | 354 | 240 | Adam Erikson |
@@ -493,8 +493,8 @@
 | 485 | 170 | Dedra Steward |
 | 486 | 170 | Darlene Bowman |
 | 487 | 170 | BTA |
-| 488 | 170 | Kenya Felix |
-| 489 | 170 | Biggest thing |
+| 488 | 170 | Biggest thing |
+| 489 | 170 | Kenya Felix |
 | 490 | 169 | Eddie Perez |
 | 491 | 168 | Phil J. Grombliniak |
 | 492 | 168 | Kati Russeau |
@@ -507,10 +507,10 @@
 | 499 | 165 | Cathy Bitters |
 | 500 | 164 | Jessica Vega |
 | 501 | 164 | Sara Pennington |
-| 502 | 163 | Danielle Ayoub |
-| 503 | 163 | Lakeela Wise |
-| 504 | 163 | Albert McKnight |
-| 505 | 163 | Angelica |
+| 502 | 163 | Lakeela Wise |
+| 503 | 163 | Danielle Ayoub |
+| 504 | 163 | Angelica |
+| 505 | 163 | Albert McKnight |
 | 506 | 162 | LC Hamilton |
 | 507 | 162 | Chirpy Snapper |
 | 508 | 160 | Rhonda Petro |

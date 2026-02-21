@@ -108,15 +108,15 @@
 | 100 | 229 | Angeline Joseph |
 | 101 | 226 | Shannon Matthew Byers |
 | 102 | 225 | Speedy Bridger |
-| 103 | 224 | Judi Dobson |
-| 104 | 224 | Mykal Burton |
+| 103 | 224 | Mykal Burton |
+| 104 | 224 | Judi Dobson |
 | 105 | 223 | Jeana Gilbert |
 | 106 | 222 | Jimmie Clemons |
 | 107 | 218 | mjl574 |
 | 108 | 214 | Amy Fuller Heaton |
 | 109 | 213 | Tom Nault |
-| 110 | 212 | Shunta Jacobs |
-| 111 | 212 | Kristie McFarland |
+| 110 | 212 | Kristie McFarland |
+| 111 | 212 | Shunta Jacobs |
 | 112 | 211 | Katrina Schroeder |
 | 113 | 207 | rnr junky |
 | 114 | 206 | Stephanie Blkpep Davidson |
@@ -124,11 +124,11 @@
 | 116 | 203 | Crimson |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -139,8 +139,8 @@
 | 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Kelly Ann Child |
 | 138 | 166 | Danielle Mogg |
@@ -167,8 +167,8 @@
 | 159 | 149 | Trisha Balmer |
 | 160 | 149 | Bea Miles |
 | 161 | 147 | Sashay Tapae Simpson |
-| 162 | 146 | Latoya Mayne |
-| 163 | 146 | Denita Mungro |
+| 162 | 146 | Denita Mungro |
+| 163 | 146 | Latoya Mayne |
 | 164 | 145 | Bryan Byrd |
 | 165 | 142 | Erica Anderson |
 | 166 | 140 | Carrie Huskey |
@@ -754,8 +754,8 @@
 | 746 | 32 | Briaa Williams |
 | 747 | 32 | Mathhew Tompkins |
 | 748 | 32 | Kelly Gomes Melendez |
-| 749 | 32 | Jeannie Muncy |
-| 750 | 32 | Karent524 |
+| 749 | 32 | Karent524 |
+| 750 | 32 | Jeannie Muncy |
 | 751 | 31 | Tammy Mann |
 | 752 | 31 | Kendra Peterson |
 | 753 | 31 | Daniel Mcdonald |
