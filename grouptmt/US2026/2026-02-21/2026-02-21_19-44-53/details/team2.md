@@ -438,11 +438,11 @@
 | 430 | 303 | Angie Marie |
 | 431 | 302 | Shorty |
 | 432 | 301 | Claire |
-| 433 | 299 | Ann Knutson Anderson |
-| 434 | 299 | Diallo Sparkman |
+| 433 | 299 | Diallo Sparkman |
+| 434 | 299 | Ann Knutson Anderson |
 | 435 | 299 | Megan Phillips |
-| 436 | 298 | RetroLemur |
-| 437 | 298 | Snappy Shatterfit |
+| 436 | 298 | Snappy Shatterfit |
+| 437 | 298 | RetroLemur |
 | 438 | 297 | Fi Ne |
 | 439 | 297 | Peachy Blockbuilder |
 | 440 | 296 | Jennifer Darby |
@@ -471,8 +471,8 @@
 | 463 | 280 | Lyndi Robinson Wakefield |
 | 464 | 280 | Danielle DeLozier Plesec |
 | 465 | 279 | Glitzy Stackzone |
-| 466 | 278 | Demeka Dangerous-kisses Johnson |
-| 467 | 278 | Ray Ray Prado |
+| 466 | 278 | Ray Ray Prado |
+| 467 | 278 | Demeka Dangerous-kisses Johnson |
 | 468 | 277 | Anthony Mignacca |
 | 469 | 276 | Vonceial Boone |
 | 470 | 276 | Lindsey Leigh |

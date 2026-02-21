@@ -34,15 +34,15 @@
 | 26 | 565 | Jennifer Cates |
 | 27 | 547 | Marianne Louise West |
 | 28 | 543 | Aaron Garnett |
-| 29 | 541 | Drew Magnus |
-| 30 | 541 | Jorge Andrade |
+| 29 | 541 | Jorge Andrade |
+| 30 | 541 | Drew Magnus |
 | 31 | 539 | Karin Gillen |
 | 32 | 521 | Hyp James NObettadanluvarat |
 | 33 | 517 | Felicia Lewis |
 | 34 | 516 | comrade fish |
 | 35 | 511 | Jen Sartain |
-| 36 | 510 | Colena Davenport |
-| 37 | 510 | Lawrence Belanger |
+| 36 | 510 | Lawrence Belanger |
+| 37 | 510 | Colena Davenport |
 | 38 | 508 | Michelle Nicole |
 | 39 | 486 | Sevens4L |
 | 40 | 486 | Sarah Lombardo |
@@ -167,8 +167,8 @@
 | 159 | 142 | Colleen Wise |
 | 160 | 141 | Blaire Bruckoff |
 | 161 | 140 | Miguel Teixeira |
-| 162 | 138 | Death |
-| 163 | 138 | Cranky Pattern |
+| 162 | 138 | Cranky Pattern |
+| 163 | 138 | Death |
 | 164 | 137 | Cody Gates |
 | 165 | 136 | Dino |
 | 166 | 135 | Giddy Cascade |
@@ -189,8 +189,8 @@
 | 181 | 127 | Brave Wrecker |
 | 182 | 126 | Nerdy Linkblock |
 | 183 | 125 | Tipsy Riseclear |
-| 184 | 124 | Cartier |
-| 185 | 124 | Flashy Rotator |
+| 184 | 124 | Flashy Rotator |
+| 185 | 124 | Cartier |
 | 186 | 122 | Margo Wagner |
 | 187 | 122 | Melissa Lemmon |
 | 188 | 121 | April Carroll |

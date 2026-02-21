@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -123,8 +123,8 @@
 | 115 | 179 | Epic Curvetile |
 | 116 | 178 | Lori |
 | 117 | 176 | Stacey Stano |
-| 118 | 174 | shark tato |
-| 119 | 174 | Dihcheese444 |
+| 118 | 174 | Dihcheese444 |
+| 119 | 174 | shark tato |
 | 120 | 174 | Zethra Prenisha Rahming |
 | 121 | 173 | Ren Mc |
 | 122 | 173 | blockstar |
@@ -144,8 +144,8 @@
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
 | 138 | 147 | Shainne Brewer |
-| 139 | 147 | Jay28 |
-| 140 | 147 | Chair |
+| 139 | 147 | Chair |
+| 140 | 147 | Jay28 |
 | 141 | 146 | Klo |
 | 142 | 145 | Daria Rycewicz |
 | 143 | 144 | Mr. Party |
@@ -167,8 +167,8 @@
 | 159 | 133 | Mylo Lipscomb |
 | 160 | 133 | Angela Geist Jusinski |
 | 161 | 132 | Melissa Priest Sellers |
-| 162 | 132 | Jessica Cagle |
-| 163 | 132 | Degenerate |
+| 162 | 132 | Degenerate |
+| 163 | 132 | Jessica Cagle |
 | 164 | 130 | Casey Jeffcoat |
 | 165 | 129 | Dreamy Snapgrid |
 | 166 | 129 | Crystal Nicolette Moore |
