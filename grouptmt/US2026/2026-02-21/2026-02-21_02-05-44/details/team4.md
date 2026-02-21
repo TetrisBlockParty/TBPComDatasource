@@ -69,8 +69,8 @@
 | 61 | 112 | Chirpy Basepiece |
 | 62 | 111 | Gwendolyn Pitcairn |
 | 63 | 111 | Zany Shatterer |
-| 64 | 110 | Diana Houts |
-| 65 | 110 | H.R. Block |
+| 64 | 110 | H.R. Block |
+| 65 | 110 | Diana Houts |
 | 66 | 109 | Bryan Hodgins |
 | 67 | 107 | Marcus Todd |
 | 68 | 101 | Michelle Morris |

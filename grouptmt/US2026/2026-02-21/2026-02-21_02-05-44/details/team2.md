@@ -95,15 +95,15 @@
 | 87 | 469 | Ashley Rose Frederick |
 | 88 | 465 | Tommy Tha Boss Gunz |
 | 89 | 456 | Lisa Ongtowasruk |
-| 90 | 448 | Nick Jensen |
-| 91 | 448 | Jojo Momma |
+| 90 | 448 | Jojo Momma |
+| 91 | 448 | Nick Jensen |
 | 92 | 440 | Becky Weeks-Garry |
 | 93 | 440 | Mari Ac |
 | 94 | 440 | BYM4L |
 | 95 | 431 | Slip |
 | 96 | 427 | Debra Williams |
-| 97 | 426 | Kaylee McCafferty |
-| 98 | 426 | Magic steve |
+| 97 | 426 | Magic steve |
+| 98 | 426 | Kaylee McCafferty |
 | 99 | 424 | Charvi' Carter |
 | 100 | 420 | YiFei |
 | 101 | 418 | RdRydnHd |
@@ -242,13 +242,13 @@
 | 234 | 198 | Richard Horton |
 | 235 | 197 | Smashanator |
 | 236 | 196 | Alexandra Reese |
-| 237 | 194 | Kimberly Ann |
-| 238 | 194 | Mike Aprilliano |
+| 237 | 194 | Mike Aprilliano |
+| 238 | 194 | Kimberly Ann |
 | 239 | 193 | Nika Bee |
 | 240 | 191 | Sho Nuff |
 | 241 | 191 | Deana |
-| 242 | 190 | Poppy Snapper |
-| 243 | 190 | blarg |
+| 242 | 190 | blarg |
+| 243 | 190 | Poppy Snapper |
 | 244 | 189 | Sanaa Nounoussa |
 | 245 | 188 | Justin Hines |
 | 246 | 188 | Leah Keesling |

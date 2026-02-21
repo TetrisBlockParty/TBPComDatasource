@@ -119,8 +119,8 @@
 | 111 | 76 | Kerry Lee Powell |
 | 112 | 75 | Fresno Beotoni |
 | 113 | 75 | Tyler L Hunt |
-| 114 | 74 | Eddie Dillon |
-| 115 | 74 | Grace Joanne Agnant |
+| 114 | 74 | Grace Joanne Agnant |
+| 115 | 74 | Eddie Dillon |
 | 116 | 73 | Witty Builderfit |
 | 117 | 73 | Loony Fitzone |
 | 118 | 72 | Tipsy Strikerpiece |
@@ -197,7 +197,7 @@
 | 189 | 47 | Christy Jones |
 | 190 | 47 | Cheery Zonegrid |
 | 191 | 46 | june october |
-| 192 | 46 | docjp |
+| 192 | 46 | Tazz |
 | 193 | 46 | Dizzy Party |
 | 194 | 46 | docjp |
 | 195 | 45 | Vivian Bush |

@@ -86,8 +86,8 @@
 | 78 | 159 | Morgan Martinez |
 | 79 | 154 | Shannon Matthew Byers |
 | 80 | 154 | Angela M. Fletcher |
-| 81 | 152 | Shiny Zonebuilder |
-| 82 | 152 | rosy |
+| 81 | 152 | rosy |
+| 82 | 152 | Shiny Zonebuilder |
 | 83 | 149 | Trisha Balmer |
 | 84 | 146 | Denita Mungro |
 | 85 | 146 | Latoya Mayne |
@@ -97,8 +97,8 @@
 | 89 | 135 | Nicole Flippo |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
-| 92 | 129 | Ashley Tookes |
-| 93 | 129 | Giddy Twistbuilder |
+| 92 | 129 | Giddy Twistbuilder |
+| 93 | 129 | Ashley Tookes |
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
@@ -116,11 +116,11 @@
 | 108 | 117 | Jesse Olive |
 | 109 | 114 | Jessica Bechler |
 | 110 | 113 | Jennifer Alvey |
-| 111 | 112 | Connie Mohler-Fair |
-| 112 | 112 | Jimmie Clemons |
+| 111 | 112 | Jimmie Clemons |
+| 112 | 112 | Connie Mohler-Fair |
 | 113 | 111 | Joy Petroski |
-| 114 | 110 | Tiff Vs Tiffany |
-| 115 | 110 | Stella |
+| 114 | 110 | Stella |
+| 115 | 110 | Tiff Vs Tiffany |
 | 116 | 108 | Grams |
 | 117 | 108 | Rachel Napper |
 | 118 | 107 | Bryan Byrd |
