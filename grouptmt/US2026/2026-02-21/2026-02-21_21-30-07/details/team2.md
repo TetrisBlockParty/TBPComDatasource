@@ -145,10 +145,10 @@
 | 137 | 780 | Amanda Grohmann |
 | 138 | 775 | YiFei |
 | 139 | 772 | Megan Ferguson Leone |
-| 140 | 771 | Terri McKelvey McKinley |
-| 141 | 771 | Missie Lawson Gebhardt |
-| 142 | 763 | Samantha Jo |
-| 143 | 763 | Ladyrainbootz |
+| 140 | 771 | Missie Lawson Gebhardt |
+| 141 | 771 | Terri McKelvey McKinley |
+| 142 | 763 | Ladyrainbootz |
+| 143 | 763 | Samantha Jo |
 | 144 | 756 | Stephanie Neuburger |
 | 145 | 751 | Loony Snapper |
 | 146 | 750 | Jumpy Gridpiece |
@@ -211,8 +211,8 @@
 | 203 | 589 | Thomas Hedrick |
 | 204 | 587 | Hyper Cluster |
 | 205 | 586 | Stephen Stephen |
-| 206 | 583 | Steve Grotto |
-| 207 | 583 | Jessicah Myers |
+| 206 | 583 | Jessicah Myers |
+| 207 | 583 | Steve Grotto |
 | 208 | 579 | Gary Stash |
 | 209 | 578 | Sally Dennis |
 | 210 | 576 | Shannon Joslin |

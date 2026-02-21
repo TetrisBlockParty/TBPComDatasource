@@ -85,8 +85,8 @@
 | 77 | 299 | Lehrin Maria |
 | 78 | 298 | Carrie Beck Geartz |
 | 79 | 297 | cc |
-| 80 | 293 | Adam Byrd |
-| 81 | 293 | Shauna Loe |
+| 80 | 293 | Shauna Loe |
+| 81 | 293 | Adam Byrd |
 | 82 | 291 | Sweet Baker |
 | 83 | 287 | Hyper |
 | 84 | 283 | TSwag |

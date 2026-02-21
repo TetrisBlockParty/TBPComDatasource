@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | Marie-Pier Desjardins |
-| 64 | 376 | quicksand420 |
+| 63 | 376 | quicksand420 |
+| 64 | 376 | Marie-Pier Desjardins |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -101,8 +101,8 @@
 | 93 | 224 | H.R. Block |
 | 94 | 222 | Joeliecea Cobb |
 | 95 | 221 | Alyssa Papen |
-| 96 | 218 | Casey Grabner |
-| 97 | 218 | Denise Carlson |
+| 96 | 218 | Denise Carlson |
+| 97 | 218 | Casey Grabner |
 | 98 | 218 | Antony Dwayne Beasley |
 | 99 | 217 | shar |
 | 100 | 215 | Dustee Craddock-Harrison |
@@ -139,8 +139,8 @@
 | 131 | 174 | Zethra Prenisha Rahming |
 | 132 | 174 | Dihcheese444 |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -160,15 +160,15 @@
 | 152 | 147 | Shainne Brewer |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
-| 155 | 141 | ĥuf |
-| 156 | 141 | Marcus Todd |
+| 155 | 141 | Marcus Todd |
+| 156 | 141 | ĥuf |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
 | 159 | 140 | John Brunetti |
 | 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
-| 162 | 136 | Serena Goodridge |
-| 163 | 136 | Tanner Lund |
+| 162 | 136 | Tanner Lund |
+| 163 | 136 | Serena Goodridge |
 | 164 | 136 | Sarah Brown |
 | 165 | 135 | Victoria Faniel |
 | 166 | 135 | Stephme310 |
@@ -210,8 +210,8 @@
 | 202 | 120 | Bryan Hodgins |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
-| 205 | 118 | Mary Ann Pabukis |
-| 206 | 118 | Chris Bernstein |
+| 205 | 118 | Chris Bernstein |
+| 206 | 118 | Mary Ann Pabukis |
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Jayk |
 | 209 | 115 | Ultramarine |

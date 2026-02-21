@@ -78,8 +78,8 @@
 | 70 | 533 | Sarah Fehring |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Joey Banks |
-| 74 | 502 | Justin Ritter |
+| 73 | 502 | Justin Ritter |
+| 74 | 502 | Joey Banks |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 480 | Nate Burnside |
@@ -108,8 +108,8 @@
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Makelini Mausia |
-| 104 | 378 | Tasha Schriewer |
+| 103 | 378 | Tasha Schriewer |
+| 104 | 378 | Makelini Mausia |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Woods |
