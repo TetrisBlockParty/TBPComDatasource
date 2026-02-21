@@ -161,8 +161,8 @@
 | 153 | 409 | Sparkles |
 | 154 | 406 | Erin StFrancis |
 | 155 | 401 | Poppy Snap |
-| 156 | 400 | Tammy Allen |
-| 157 | 400 | Crystie Hicks |
+| 156 | 400 | Crystie Hicks |
+| 157 | 400 | Tammy Allen |
 | 158 | 397 | Ashley Guernsey-Martin |
 | 159 | 391 | Steven Marshaun |
 | 160 | 391 | Chilly Bridgepiece |
@@ -563,8 +563,8 @@
 | 555 | 128 | Carrie Pike |
 | 556 | 128 | Leslie |
 | 557 | 128 | Mine |
-| 558 | 128 | Maya June |
-| 559 | 128 | Alison Emmons |
+| 558 | 128 | Alison Emmons |
+| 559 | 128 | Maya June |
 | 560 | 127 | Nerdy Blockpiece |
 | 561 | 127 | Ellie Jonas |
 | 562 | 127 | Lazy Riseclear |

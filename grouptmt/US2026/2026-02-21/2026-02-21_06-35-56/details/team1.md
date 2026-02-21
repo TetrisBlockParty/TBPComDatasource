@@ -99,11 +99,11 @@
 | 91 | 130 | Dandy Basegrid |
 | 92 | 128 | Uhog SF |
 | 93 | 127 | Michael |
-| 94 | 126 | Cece Ibarra |
-| 95 | 126 | Rachael |
+| 94 | 126 | Rachael |
+| 95 | 126 | Cece Ibarra |
 | 96 | 121 | Bouncy Grid |
-| 97 | 119 | Irual Hctrab |
-| 98 | 119 | Tater |
+| 97 | 119 | Tater |
+| 98 | 119 | Irual Hctrab |
 | 99 | 118 | Barry Mac'Ockner |
 | 100 | 116 | Evie Khalil |
 | 101 | 115 | comrade fish |

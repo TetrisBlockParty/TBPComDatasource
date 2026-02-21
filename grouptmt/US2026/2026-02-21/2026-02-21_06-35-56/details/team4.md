@@ -44,8 +44,8 @@
 | 36 | 274 | Elizabeth Sallas |
 | 37 | 270 | Livvy |
 | 38 | 265 | Julian Garcia |
-| 39 | 256 | Brittney Griggs |
-| 40 | 256 | Dustin Robert |
+| 39 | 256 | Dustin Robert |
+| 40 | 256 | Brittney Griggs |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
 | 43 | 231 | Michelle Marie |
@@ -80,19 +80,19 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Jessica Bohlken |
-| 76 | 134 | Chirpy Basepiece |
+| 75 | 134 | Chirpy Basepiece |
+| 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Jenna McGeorge |
 | 79 | 132 | Melissa Priest Sellers |
 | 80 | 132 | Degenerate |
 | 81 | 131 | Zany Twisterfit |
-| 82 | 131 | Dana Scott |
-| 83 | 131 | Mr. Party |
+| 82 | 131 | Mr. Party |
+| 83 | 131 | Dana Scott |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | John Brunetti |
-| 87 | 129 | Landon Keith Graffeo |
+| 86 | 129 | Landon Keith Graffeo |
+| 87 | 129 | John Brunetti |
 | 88 | 127 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 124 | Lisa Davis |
@@ -120,15 +120,15 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | Sam Middleton |
-| 116 | 105 | TinyLegoRose |
-| 117 | 105 | TheNeesh50 |
+| 115 | 105 | TheNeesh50 |
+| 116 | 105 | Sam Middleton |
+| 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
-| 119 | 104 | YoMomma |
-| 120 | 104 | Adam Randall |
+| 119 | 104 | Adam Randall |
+| 120 | 104 | YoMomma |
 | 121 | 102 | Faja |
-| 122 | 101 | Michelle Morris |
-| 123 | 101 | Stephme310 |
+| 122 | 101 | Stephme310 |
+| 123 | 101 | Michelle Morris |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Alexandra Karavias |
 | 126 | 100 | Megan Cutshaw |

@@ -97,8 +97,8 @@
 | 89 | 224 | Mykal Burton |
 | 90 | 223 | Jeana Gilbert |
 | 91 | 222 | Jimmie Clemons |
-| 92 | 218 | mjl574 |
-| 93 | 218 | Judi Dobson |
+| 92 | 218 | Judi Dobson |
+| 93 | 218 | mjl574 |
 | 94 | 214 | Amy Fuller Heaton |
 | 95 | 213 | Tom Nault |
 | 96 | 207 | rnr junky |
@@ -110,8 +110,8 @@
 | 102 | 195 | Nicha Hooker |
 | 103 | 195 | Jenny Hrndz |
 | 104 | 194 | glichmod |
-| 105 | 193 | Shunta Jacobs |
-| 106 | 193 | Clever Shiftsnap |
+| 105 | 193 | Clever Shiftsnap |
+| 106 | 193 | Shunta Jacobs |
 | 107 | 192 | Chasity |
 | 108 | 187 | Katrina Schroeder |
 | 109 | 187 | Speedy Bridger |
@@ -183,8 +183,8 @@
 | 175 | 113 | Valerie Gendron |
 | 176 | 113 | Brian Battjes |
 | 177 | 111 | Mcathen |
-| 178 | 110 | Stella |
-| 179 | 110 | Tye Stovall |
+| 178 | 110 | Tye Stovall |
+| 179 | 110 | Stella |
 | 180 | 110 | Tiff Vs Tiffany |
 | 181 | 109 | Diana Ibarra |
 | 182 | 109 | Fredd Thomas |
