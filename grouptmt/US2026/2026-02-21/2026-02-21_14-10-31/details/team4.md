@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -174,9 +174,9 @@
 | 166 | 101 | Michelle Morris |
 | 167 | 101 | Saulc1991 |
 | 168 | 100 | Alexandra Karavias |
-| 169 | 99 | Anthony Bryan Riva |
-| 170 | 99 | Michael Orris |
-| 171 | 98 | Chaz |
+| 169 | 99 | Michael Orris |
+| 170 | 99 | Anthony Bryan Riva |
+| 171 | 98 | Duck |
 | 172 | 98 | Jeremy Steines |
 | 173 | 98 | Chaz |
 | 174 | 97 | Brandi Durig |
@@ -198,9 +198,9 @@
 | 190 | 89 | mike |
 | 191 | 89 | shark tato |
 | 192 | 88 | Heather Tushner |
-| 193 | 88 | Lindsey Gonzalez |
-| 194 | 88 | Heather Tushner |
-| 195 | 87 | Chair |
+| 193 | 88 | Kesha Brady |
+| 194 | 88 | Lindsey Gonzalez |
+| 195 | 87 | Zesty Linkgrid |
 | 196 | 87 | Bradley Reeves |
 | 197 | 87 | Chair |
 | 198 | 87 | Alan George LaRage |

@@ -37,8 +37,8 @@
 | 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Zippy Strikesnap |
-| 33 | 810 | Shane Wilson Jr. |
+| 32 | 810 | Shane Wilson Jr. |
+| 33 | 810 | Zippy Strikesnap |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 714 | Amber Jones |
@@ -132,8 +132,8 @@
 | 124 | 204 | Aaron Pitkin |
 | 125 | 202 | Twisty Brick LT |
 | 126 | 199 | joclisa |
-| 127 | 195 | Jenny Hrndz |
-| 128 | 195 | Nicha Hooker |
+| 127 | 195 | Nicha Hooker |
+| 128 | 195 | Jenny Hrndz |
 | 129 | 194 | glichmod |
 | 130 | 193 | Stephanie Burtin |
 | 131 | 193 | Duane Bright |
@@ -171,9 +171,9 @@
 | 163 | 163 | Stephanie Hill |
 | 164 | 161 | BŘŰŤİÇŨŚ |
 | 165 | 160 | Tiffany Davie |
-| 166 | 159 | Stephanie Whitefield |
-| 167 | 159 | Jone |
-| 168 | 159 | Morgan Martinez |
+| 166 | 159 | Morgan Martinez |
+| 167 | 159 | Stephanie Whitefield |
+| 168 | 159 | Jone |
 | 169 | 158 | Grams |
 | 170 | 157 | Nicholas Roddy |
 | 171 | 157 | Patricia Gadsden |
@@ -211,8 +211,8 @@
 | 203 | 127 | Marquita Sheard |
 | 204 | 126 | Brandon Givens |
 | 205 | 125 | Felicia Doxey |
-| 206 | 125 | Shimika Enay Wallace |
-| 207 | 125 | Darlene McMillan |
+| 206 | 125 | Darlene McMillan |
+| 207 | 125 | Shimika Enay Wallace |
 | 208 | 124 | Cesar Barraza |
 | 209 | 123 | Marci Mize Fandrich |
 | 210 | 123 | Terry Jo Jones |
@@ -247,8 +247,8 @@
 | 239 | 109 | mommablock |
 | 240 | 109 | Diana Ibarra |
 | 241 | 108 | Rachel Napper |
-| 242 | 108 | Hanna Kim |
-| 243 | 108 | LaTanya GeminiondaRise Johnson |
+| 242 | 108 | LaTanya GeminiondaRise Johnson |
+| 243 | 108 | Hanna Kim |
 | 244 | 107 | Sherry Ogden |
 | 245 | 107 | Bouncy Blockbuilder |
 | 246 | 106 | Noettín Kan Zasnemoore |

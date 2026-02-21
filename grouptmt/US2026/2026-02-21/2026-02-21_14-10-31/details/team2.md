@@ -219,10 +219,10 @@
 | 211 | 411 | Scott Treadway |
 | 212 | 411 | Ricky Fortune |
 | 213 | 409 | Sparkles |
-| 214 | 406 | Ashie Ann |
-| 215 | 406 | Erin StFrancis |
-| 216 | 405 | Christy Krissie |
-| 217 | 405 | Sarah Massey |
+| 214 | 406 | Erin StFrancis |
+| 215 | 406 | Ashie Ann |
+| 216 | 405 | Sarah Massey |
+| 217 | 405 | Christy Krissie |
 | 218 | 402 | Joshua Mandel |
 | 219 | 400 | Tammy Allen |
 | 220 | 400 | Crystie Hicks |
