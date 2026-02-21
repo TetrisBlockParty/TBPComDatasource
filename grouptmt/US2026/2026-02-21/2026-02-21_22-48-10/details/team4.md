@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Chastity Mitchell |
-| 112 | 208 | Twisty Cascadezone |
+| 111 | 208 | Twisty Cascadezone |
+| 112 | 208 | Chastity Mitchell |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |
@@ -179,8 +179,8 @@
 | 171 | 136 | Tanner Lund |
 | 172 | 136 | Chaz |
 | 173 | 135 | Victoria Faniel |
-| 174 | 134 | Chirpy Basepiece |
-| 175 | 134 | Kim Klutz Olson |
+| 174 | 134 | Kim Klutz Olson |
+| 175 | 134 | Chirpy Basepiece |
 | 176 | 133 | Angela Geist Jusinski |
 | 177 | 132 | Jessica Cagle |
 | 178 | 132 | Melissa Priest Sellers |

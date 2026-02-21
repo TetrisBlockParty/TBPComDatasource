@@ -221,8 +221,8 @@
 | 213 | 618 | Gabby Jenner |
 | 214 | 617 | Allan Wayne Lamia |
 | 215 | 610 | Auntie B |
-| 216 | 608 | Sommer Shope |
-| 217 | 608 | goofinoff |
+| 216 | 608 | goofinoff |
+| 217 | 608 | Sommer Shope |
 | 218 | 605 | Jelly |
 | 219 | 603 | Cassie Maynard |
 | 220 | 596 | Ellie Jonas |
@@ -244,8 +244,8 @@
 | 236 | 553 | Leslie Ann Carter |
 | 237 | 549 | Kaylee McCafferty |
 | 238 | 547 | Giggy Blocker |
-| 239 | 543 | Adira Brown |
-| 240 | 543 | Teresa Gillmore |
+| 239 | 543 | Teresa Gillmore |
+| 240 | 543 | Adira Brown |
 | 241 | 543 | Mema |
 | 242 | 537 | Slip |
 | 243 | 535 | Jessie McDougald |
@@ -253,10 +253,10 @@
 | 245 | 531 | Chris Wanner |
 | 246 | 528 | Brownie Sheena |
 | 247 | 527 | Stacy Stickle |
-| 248 | 527 | Ryan Gunther |
-| 249 | 527 | Heather Causey |
-| 250 | 525 | Tommy Tha Boss Gunz |
-| 251 | 525 | Desiree Anderson |
+| 248 | 527 | Heather Causey |
+| 249 | 527 | Ryan Gunther |
+| 250 | 525 | Desiree Anderson |
+| 251 | 525 | Tommy Tha Boss Gunz |
 | 252 | 524 | Hoppy Brickmatch |
 | 253 | 521 | Trista Dumais |
 | 254 | 520 | Cheech Dta |
@@ -475,8 +475,8 @@
 | 467 | 316 | Gloria Ininahazwe |
 | 468 | 316 | Mikayala Szaz |
 | 469 | 315 | Ryan Meilleur |
-| 470 | 314 | Party d |
-| 471 | 314 | Amanda West |
+| 470 | 314 | Amanda West |
+| 471 | 314 | Party d |
 | 472 | 314 | James Zaragoza |
 | 473 | 312 | Michelle Pike |
 | 474 | 312 | Andrea Maher |
