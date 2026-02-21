@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 546 | LisaJo Picken Buchanan |
 | 27 | 541 | Rebecca Moulton Pinciaro |
@@ -184,8 +184,8 @@
 | 176 | 111 | Michelle Morris |
 | 177 | 110 | H.R. Block |
 | 178 | 108 | Ali Ian |
-| 179 | 107 | Marcus Todd |
-| 180 | 107 | Rafael Valentin |
+| 179 | 107 | Rafael Valentin |
+| 180 | 107 | Marcus Todd |
 | 181 | 106 | Avy Absol |
 | 182 | 105 | Kristin MacDonald |
 | 183 | 105 | TheNeesh50 |
@@ -203,8 +203,8 @@
 | 195 | 101 | Nikki Rae Gordon |
 | 196 | 101 | Chaz |
 | 197 | 100 | Rebecca Morris |
-| 198 | 100 | Cheery Risebuilder |
-| 199 | 100 | Alexandra Karavias |
+| 198 | 100 | Alexandra Karavias |
+| 199 | 100 | Cheery Risebuilder |
 | 200 | 99 | Michael Orris |
 | 201 | 98 | Duck |
 | 202 | 98 | Shane Kalamata Platoon |

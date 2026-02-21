@@ -132,8 +132,8 @@
 | 124 | 705 | Roger Grabbit |
 | 125 | 705 | Nika Bee |
 | 126 | 704 | Nerdy Clearfit |
-| 127 | 703 | Cynthia Ward |
-| 128 | 703 | YiFei |
+| 127 | 703 | YiFei |
+| 128 | 703 | Cynthia Ward |
 | 129 | 700 | Vincent Petrella |
 | 130 | 700 | Beverly Owens |
 | 131 | 700 | Rosemadder |
@@ -419,8 +419,8 @@
 | 411 | 280 | Lyndi Robinson Wakefield |
 | 412 | 279 | Glitzy Stackzone |
 | 413 | 278 | Deana |
-| 414 | 278 | Demeka Dangerous-kisses Johnson |
-| 415 | 278 | Ray Ray Prado |
+| 414 | 278 | Ray Ray Prado |
+| 415 | 278 | Demeka Dangerous-kisses Johnson |
 | 416 | 277 | Mary Marie |
 | 417 | 276 | Lindsey Leigh |
 | 418 | 276 | Vonceial Boone |
@@ -460,8 +460,8 @@
 | 452 | 251 | Niceday |
 | 453 | 250 | Mike73 |
 | 454 | 250 | Steve Man |
-| 455 | 249 | Nicky Jackson |
-| 456 | 249 | Porsche' Nicole |
+| 455 | 249 | Porsche' Nicole |
+| 456 | 249 | Nicky Jackson |
 | 457 | 248 | Gursharan Sandhu |
 | 458 | 248 | Kimberly Mitchell |
 | 459 | 248 | Maddy Petersen |

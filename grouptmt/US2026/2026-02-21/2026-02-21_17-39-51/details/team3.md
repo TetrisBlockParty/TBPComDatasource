@@ -213,8 +213,8 @@
 | 205 | 155 | Loopy Fallzone |
 | 206 | 153 | Tipsy Zonebuilder |
 | 207 | 153 | Rachel Napper |
-| 208 | 152 | Katrina E Jelks |
-| 209 | 152 | Cozy Snaplink |
+| 208 | 152 | Cozy Snaplink |
+| 209 | 152 | Katrina E Jelks |
 | 210 | 152 | Shiny Zonebuilder |
 | 211 | 151 | Brenda Lee Vander Molen |
 | 212 | 150 | Desiree Gold |
@@ -346,8 +346,8 @@
 | 338 | 93 | Kevin Russell |
 | 339 | 93 | Martin Bernier |
 | 340 | 92 | Jennifer Caputo |
-| 341 | 92 | Trice Thomas |
-| 342 | 92 | Jackie-Lynne Goertzen |
+| 341 | 92 | Jackie-Lynne Goertzen |
+| 342 | 92 | Trice Thomas |
 | 343 | 92 | Melanie Sherwood |
 | 344 | 91 | Tammy Rosenberry |
 | 345 | 91 | G |
@@ -1586,9 +1586,9 @@
 | 1578 | 13 | Hoppy Liner |
 | 1579 | 13 | Adam Barnes-Dieterle |
 | 1580 | 13 | A4dapay |
-| 1581 | 12 | Jellyroll |
-| 1582 | 12 | Joshua David Huie |
-| 1583 | 12 | Jloboxaroni |
+| 1581 | 12 | Joshua David Huie |
+| 1582 | 12 | Jloboxaroni |
+| 1583 | 12 | Jellyroll |
 | 1584 | 12 | Zippy Slice |
 | 1585 | 12 | Heather Hymes |
 | 1586 | 12 | neng-neng |
