@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -185,8 +185,8 @@
 | 177 | 128 | Rio Rocha |
 | 178 | 128 | April Rondinone |
 | 179 | 125 | Ericca Eldridge |
-| 180 | 125 | Heather Tushner |
-| 181 | 125 | Duck |
+| 180 | 125 | Duck |
+| 181 | 125 | Heather Tushner |
 | 182 | 125 | AyeKay |
 | 183 | 124 | Allen Lloyd |
 | 184 | 124 | SammieJo Guy |

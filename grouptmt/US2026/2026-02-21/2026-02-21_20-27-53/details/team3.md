@@ -104,8 +104,8 @@
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
 | 98 | 384 | Shannon Matthew Byers |
-| 99 | 378 | Tasha Schriewer |
-| 100 | 378 | Makelini Mausia |
+| 99 | 378 | Makelini Mausia |
+| 100 | 378 | Tasha Schriewer |
 | 101 | 372 | Jessica Bechler |
 | 102 | 371 | Jesse Olive |
 | 103 | 368 | Stephanie Woods |
@@ -117,8 +117,8 @@
 | 109 | 348 | CeceGeGe |
 | 110 | 347 | Mcathen |
 | 111 | 332 | Chauntee Alfrey-Cardinale |
-| 112 | 323 | Sherry Ogden |
-| 113 | 323 | Ashley Raines |
+| 112 | 323 | Ashley Raines |
+| 113 | 323 | Sherry Ogden |
 | 114 | 321 | Dapper Snap |
 | 115 | 320 | Or Reznitsky |
 | 116 | 318 | Chasity |
@@ -355,7 +355,7 @@
 | 347 | 101 | Hyper Bridger |
 | 348 | 101 | Shicken Nuggit |
 | 349 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 350 | 100 | Brooke Bauer |
+| 350 | 100 | Edwin Calvillo Jr. |
 | 351 | 100 | Sunny Rotater |
 | 352 | 100 | Brooke Bauer |
 | 353 | 100 | Bobbi Moore |
@@ -404,8 +404,8 @@
 | 396 | 88 | demon14 |
 | 397 | 88 | Kaitie Oliver |
 | 398 | 88 | Kelly Koenig |
-| 399 | 86 | Mariah Williams |
-| 400 | 86 | Jonathn Poindexter |
+| 399 | 86 | Jonathn Poindexter |
+| 400 | 86 | Mariah Williams |
 | 401 | 86 | Salena Whitlock |
 | 402 | 85 | Mike Spritzer |
 | 403 | 85 | Sheila M Frazier |

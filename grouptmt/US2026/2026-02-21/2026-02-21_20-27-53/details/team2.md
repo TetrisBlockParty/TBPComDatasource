@@ -157,8 +157,8 @@
 | 149 | 704 | Nerdy Clearfit |
 | 150 | 703 | Debra Williams |
 | 151 | 700 | Vincent Petrella |
-| 152 | 700 | Rosemadder |
-| 153 | 700 | Beverly Owens |
+| 152 | 700 | Beverly Owens |
+| 153 | 700 | Rosemadder |
 | 154 | 698 | Lola Contreras |
 | 155 | 697 | Real Ri |
 | 156 | 694 | Vo'Landa Reels |
@@ -569,8 +569,8 @@
 | 561 | 244 | Nakiiya Dreamcatcher Gore |
 | 562 | 244 | Court |
 | 563 | 243 | JacJac |
-| 564 | 242 | Lianne Giandalone LaBounty |
-| 565 | 242 | Donna Chandler |
+| 564 | 242 | Donna Chandler |
+| 565 | 242 | Lianne Giandalone LaBounty |
 | 566 | 241 | Ronda Cary |
 | 567 | 240 | Kelly |
 | 568 | 240 | Brave Gridpiece |
