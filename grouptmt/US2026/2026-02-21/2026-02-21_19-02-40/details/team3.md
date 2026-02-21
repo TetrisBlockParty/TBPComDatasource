@@ -152,8 +152,8 @@
 | 144 | 223 | Jeana Gilbert |
 | 145 | 222 | Hoppy Buildout |
 | 146 | 222 | Jimmie Clemons |
-| 147 | 219 | Shunta Jacobs |
-| 148 | 219 | Tom Nault |
+| 147 | 219 | Tom Nault |
+| 148 | 219 | Shunta Jacobs |
 | 149 | 217 | Jess Bissett |
 | 150 | 216 | Marci Mize Fandrich |
 | 151 | 216 | Aaron Pitkin |
@@ -210,11 +210,11 @@
 | 202 | 166 | Beth Ingham |
 | 203 | 166 | Kelly Ann Child |
 | 204 | 165 | Kali Kelz Williams |
-| 205 | 163 | Christine Trester |
-| 206 | 163 | Stephanie Hill |
+| 205 | 163 | Stephanie Hill |
+| 206 | 163 | Christine Trester |
 | 207 | 162 | Stephanie Whitefield |
-| 208 | 161 | BŘŰŤİÇŨŚ |
-| 209 | 161 | Irene Arreguin |
+| 208 | 161 | Irene Arreguin |
+| 209 | 161 | BŘŰŤİÇŨŚ |
 | 210 | 160 | Marquita Sheard |
 | 211 | 160 | Tiffany Davie |
 | 212 | 159 | Jone |

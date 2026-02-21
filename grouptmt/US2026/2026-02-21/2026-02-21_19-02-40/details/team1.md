@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
@@ -71,9 +71,9 @@
 | 63 | 293 | Adam Byrd |
 | 64 | 287 | Hyper |
 | 65 | 285 | Sweet Baker |
-| 66 | 281 | Patrick Luckenbill |
-| 67 | 281 | Evie Khalil |
-| 68 | 281 | Shauna Loe |
+| 66 | 281 | Shauna Loe |
+| 67 | 281 | Patrick Luckenbill |
+| 68 | 281 | Evie Khalil |
 | 69 | 277 | Timothy Dew |
 | 70 | 274 | Theo Pinnow |
 | 71 | 273 | Tipsy Strikerpiece |
@@ -89,8 +89,8 @@
 | 81 | 240 | Elaine Elaine |
 | 82 | 235 | Dee Perry |
 | 83 | 233 | cc |
-| 84 | 232 | John J. Cronin |
-| 85 | 232 | Cynthia Bradley |
+| 84 | 232 | Cynthia Bradley |
+| 85 | 232 | John J. Cronin |
 | 86 | 230 | Frothy Pattern |
 | 87 | 228 | Trippy Redd |
 | 88 | 226 | Sharon Reynolds |
@@ -110,9 +110,9 @@
 | 102 | 193 | Lachelle Dillon |
 | 103 | 192 | Shaykmia |
 | 104 | 191 | Diane Byrd |
-| 105 | 190 | Gracie |
-| 106 | 190 | Thorne Shumate |
-| 107 | 190 | Sweetts |
+| 105 | 190 | Thorne Shumate |
+| 106 | 190 | Sweetts |
+| 107 | 190 | Gracie |
 | 108 | 189 | Happy Basegrid |
 | 109 | 188 | Sam Williams |
 | 110 | 187 | Snippy Wipebuilder |
@@ -125,12 +125,12 @@
 | 117 | 176 | Basment Living |
 | 118 | 175 | Nicole Roseberry Weber |
 | 119 | 174 | Michael |
-| 120 | 171 | Greg Premoe |
-| 121 | 171 | David DeSantis |
+| 120 | 171 | David DeSantis |
+| 121 | 171 | Greg Premoe |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
-| 124 | 166 | Tana |
-| 125 | 166 | Rico Rico |
+| 124 | 166 | Rico Rico |
+| 125 | 166 | Tana |
 | 126 | 165 | Veronica Eve |
 | 127 | 163 | Tyler Whitley |
 | 128 | 162 | Tanya Carpenter-Reynolds |
@@ -155,10 +155,10 @@
 | 147 | 144 | femmefatale |
 | 148 | 144 | Gary Gobin |
 | 149 | 143 | Sarah Marie |
-| 150 | 142 | Colleen Wise |
-| 151 | 142 | David Miller |
+| 150 | 142 | David Miller |
+| 151 | 142 | Colleen Wise |
 | 152 | 141 | Blaire Bruckoff |
-| 153 | 140 | Jason Jones |
+| 153 | 140 | Katie Daniels |
 | 154 | 140 | Miguel Teixeira |
 | 155 | 140 | Jason Jones |
 | 156 | 138 | Death |

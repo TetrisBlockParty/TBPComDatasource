@@ -144,8 +144,8 @@
 | 136 | 705 | Roger Grabbit |
 | 137 | 704 | Nerdy Clearfit |
 | 138 | 700 | Vincent Petrella |
-| 139 | 700 | Beverly Owens |
-| 140 | 700 | Rosemadder |
+| 139 | 700 | Rosemadder |
+| 140 | 700 | Beverly Owens |
 | 141 | 698 | Lola Contreras |
 | 142 | 697 | Real Ri |
 | 143 | 694 | Vo'Landa Reels |
@@ -198,8 +198,8 @@
 | 190 | 541 | Giggy Blocker |
 | 191 | 541 | SaraMarie Eveland |
 | 192 | 535 | Jessie McDougald |
-| 193 | 534 | Stephen Stephen |
-| 194 | 534 | Teresa Gillmore |
+| 193 | 534 | Teresa Gillmore |
+| 194 | 534 | Stephen Stephen |
 | 195 | 531 | Chris Wanner |
 | 196 | 528 | Brownie Sheena |
 | 197 | 527 | Stacy Stickle |
@@ -269,8 +269,8 @@
 | 261 | 442 | Daphne Jordan |
 | 262 | 442 | Leah |
 | 263 | 440 | Liberty |
-| 264 | 439 | Joseph Musick |
-| 265 | 439 | Alisa Lamb |
+| 264 | 439 | Alisa Lamb |
+| 265 | 439 | Joseph Musick |
 | 266 | 439 | Foxxo |
 | 267 | 438 | Hyper Cluster |
 | 268 | 437 | Arwa Fatimah |
@@ -304,8 +304,8 @@
 | 296 | 395 | Julay |
 | 297 | 393 | Taylor Flowers |
 | 298 | 391 | Qiana Sanders |
-| 299 | 391 | Chilly Bridgepiece |
-| 300 | 391 | Brenda Utphall |
+| 299 | 391 | Brenda Utphall |
+| 300 | 391 | Chilly Bridgepiece |
 | 301 | 390 | Kimberly Randesi |
 | 302 | 389 | Kristen O'Neal |
 | 303 | 387 | Mighty Shatterfit |
@@ -529,8 +529,8 @@
 | 521 | 244 | Belle |
 | 522 | 244 | Nakiiya Dreamcatcher Gore |
 | 523 | 244 | Jason Garnatz |
-| 524 | 243 | JacJac |
-| 525 | 243 | James Smith |
+| 524 | 243 | James Smith |
+| 525 | 243 | JacJac |
 | 526 | 242 | Donna Chandler |
 | 527 | 240 | Kelly |
 | 528 | 239 | Brenna Yearian |
@@ -566,8 +566,8 @@
 | 558 | 226 | Christina Wsn |
 | 559 | 226 | Irene Jones |
 | 560 | 225 | Blacc Blac |
-| 561 | 224 | Besma Ao |
-| 562 | 224 | Alice Ball |
+| 561 | 224 | Alice Ball |
+| 562 | 224 | Besma Ao |
 | 563 | 224 | Heather Anspaugh |
 | 564 | 223 | Michele Moren |
 | 565 | 223 | Victor Obiakarije |

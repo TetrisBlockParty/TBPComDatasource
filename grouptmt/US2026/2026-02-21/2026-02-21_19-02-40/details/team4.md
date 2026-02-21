@@ -34,8 +34,8 @@
 | 26 | 620 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -43,8 +43,8 @@
 | 35 | 494 | Rodney McMath Jr. |
 | 36 | 488 | Anthony Bryan Riva |
 | 37 | 486 | Landon Keith Graffeo |
-| 38 | 483 | Kimberly Love |
-| 39 | 483 | Carmethia Clemons Haslerig |
+| 38 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Kimberly Love |
 | 40 | 470 | Carolyn Wallace |
 | 41 | 466 | Edward White |
 | 42 | 465 | Dawn Alexander |
@@ -71,8 +71,8 @@
 | 63 | 339 | Leslie Thomas |
 | 64 | 309 | Lisa Davis |
 | 65 | 308 | Jen Allison |
-| 66 | 300 | Jason Hart |
-| 67 | 300 | David Lay |
+| 66 | 300 | David Lay |
+| 67 | 300 | Jason Hart |
 | 68 | 299 | Livvy |
 | 69 | 299 | Lauren Scott |
 | 70 | 295 | Latisha Davis |
@@ -96,8 +96,8 @@
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
 | 90 | 204 | Brittney Orengo |
-| 91 | 202 | shar |
-| 92 | 202 | Monica Daley |
+| 91 | 202 | Monica Daley |
+| 92 | 202 | shar |
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 198 | Mike Solo |
@@ -109,8 +109,8 @@
 | 101 | 191 | loulou |
 | 102 | 191 | Melvin Baird |
 | 103 | 189 | Calvin Dennis |
-| 104 | 187 | Swanky Fitline |
-| 105 | 187 | TheNeesh50 |
+| 104 | 187 | TheNeesh50 |
+| 105 | 187 | Swanky Fitline |
 | 106 | 186 | Leslie Nicole |
 | 107 | 185 | Andy Cabral |
 | 108 | 181 | Carter Jones |
@@ -147,8 +147,8 @@
 | 139 | 145 | Daria Rycewicz |
 | 140 | 144 | Mr. Party |
 | 141 | 141 | Malakai Darien Fox |
-| 142 | 140 | John Brunetti |
-| 143 | 140 | Shannon Ferrari |
+| 142 | 140 | Shannon Ferrari |
+| 143 | 140 | John Brunetti |
 | 144 | 137 | PeaceOs |
 | 145 | 137 | Roger Coulter |
 | 146 | 136 | Serena Goodridge |
@@ -209,8 +209,8 @@
 | 201 | 108 | Shane Kalamata Platoon |
 | 202 | 108 | Ali Ian |
 | 203 | 107 | Rafael Valentin |
-| 204 | 106 | Zappy Snaplink |
-| 205 | 106 | Avy Absol |
+| 204 | 106 | Avy Absol |
+| 205 | 106 | Zappy Snaplink |
 | 206 | 104 | Chris Alexinas |
 | 207 | 103 | Lauren Lamb |
 | 208 | 103 | Chris Bernstein |
