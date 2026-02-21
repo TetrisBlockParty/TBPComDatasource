@@ -116,8 +116,8 @@
 | 108 | 176 | Basment Living |
 | 109 | 175 | Nicole Roseberry Weber |
 | 110 | 173 | Frothy Pattern |
-| 111 | 171 | Greg Premoe |
-| 112 | 171 | David DeSantis |
+| 111 | 171 | David DeSantis |
+| 112 | 171 | Greg Premoe |
 | 113 | 169 | Abbey Crespo |
 | 114 | 168 | Standia Civil |
 | 115 | 166 | Rico Rico |

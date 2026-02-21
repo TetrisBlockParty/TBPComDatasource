@@ -61,8 +61,8 @@
 | 53 | 553 | Rachael McClain Owens |
 | 54 | 553 | Cherry Parker |
 | 55 | 533 | Sarah Fehring |
-| 56 | 528 | Natasha Jones |
-| 57 | 528 | Giddy Drop |
+| 56 | 528 | Giddy Drop |
+| 57 | 528 | Natasha Jones |
 | 58 | 520 | Gracie |
 | 59 | 506 | Dan Rob |
 | 60 | 493 | Mandy Smith Oldham |
@@ -233,16 +233,16 @@
 | 225 | 145 | Emma |
 | 226 | 145 | Bryan Byrd |
 | 227 | 142 | Jl |
-| 228 | 142 | David Bardo |
-| 229 | 142 | Erica Anderson |
+| 228 | 142 | Erica Anderson |
+| 229 | 142 | David Bardo |
 | 230 | 139 | Loopy Clusterer |
 | 231 | 138 | Boldy Corner |
-| 232 | 137 | Cheryl Hinch Tenbrook |
-| 233 | 137 | Joy Petroski |
+| 232 | 137 | Joy Petroski |
+| 233 | 137 | Cheryl Hinch Tenbrook |
 | 234 | 135 | Erykah |
 | 235 | 134 | Skinny Baldez |
-| 236 | 133 | Terry Jo Jones |
-| 237 | 133 | LaNette Morgan |
+| 236 | 133 | LaNette Morgan |
+| 237 | 133 | Terry Jo Jones |
 | 238 | 132 | Daryn Elliott |
 | 239 | 131 | Darlene McMillan |
 | 240 | 130 | Tasha Wesson-Torrence |

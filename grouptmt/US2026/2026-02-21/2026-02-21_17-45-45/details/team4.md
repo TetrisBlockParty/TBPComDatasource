@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 565 | Breannah Grafe |
 | 27 | 546 | LisaJo Picken Buchanan |
@@ -91,12 +91,12 @@
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Holly Jolly |
-| 87 | 200 | Monica Daley |
-| 88 | 198 | Mike Solo |
-| 89 | 198 | Dustee Craddock-Harrison |
-| 90 | 194 | Zany Twisterfit |
-| 91 | 194 | Calvin Cannon |
+| 86 | 200 | Monica Daley |
+| 87 | 200 | Holly Jolly |
+| 88 | 198 | Dustee Craddock-Harrison |
+| 89 | 198 | Mike Solo |
+| 90 | 194 | Calvin Cannon |
+| 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
 | 93 | 191 | Jeff Brian Gates |
 | 94 | 191 | loulou |
@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | blockstar |
-| 108 | 173 | Ren Mc |
+| 107 | 173 | Ren Mc |
+| 108 | 173 | blockstar |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Peachy Fall |
 | 111 | 170 | Girl |
@@ -153,11 +153,11 @@
 | 145 | 131 | Angela Geist Jusinski |
 | 146 | 131 | Diana Houts |
 | 147 | 130 | Casey Jeffcoat |
-| 148 | 128 | Stephme310 |
-| 149 | 128 | Rio Rocha |
+| 148 | 128 | Rio Rocha |
+| 149 | 128 | Stephme310 |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | TinyLegoRose |
-| 152 | 126 | Dihcheese444 |
+| 151 | 126 | Dihcheese444 |
+| 152 | 126 | TinyLegoRose |
 | 153 | 125 | AyeKay |
 | 154 | 124 | SammieJo Guy |
 | 155 | 124 | Allen Lloyd |
