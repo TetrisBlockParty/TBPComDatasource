@@ -49,8 +49,8 @@
 | 41 | 132 | Jessica Bohlken |
 | 42 | 130 | Casey Jeffcoat |
 | 43 | 129 | Samantha Peterson |
-| 44 | 128 | Robin Watters |
-| 45 | 128 | Denise Carlson |
+| 44 | 128 | Denise Carlson |
+| 45 | 128 | Robin Watters |
 | 46 | 125 | Lauren Scott |
 | 47 | 124 | Jay28 |
 | 48 | 123 | Nugget |

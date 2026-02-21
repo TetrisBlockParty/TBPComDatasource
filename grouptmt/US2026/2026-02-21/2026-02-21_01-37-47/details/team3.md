@@ -72,8 +72,8 @@
 | 64 | 187 | Speedy Bridger |
 | 65 | 185 | Danielle Cutler |
 | 66 | 184 | Jennie Beranek |
-| 67 | 180 | joclisa |
-| 68 | 180 | Tessina Dewey-Mancino |
+| 67 | 180 | Tessina Dewey-Mancino |
+| 68 | 180 | joclisa |
 | 69 | 179 | Daira Largen |
 | 70 | 177 | Fallorina Susana |
 | 71 | 174 | Mykal Burton |
@@ -107,8 +107,8 @@
 | 99 | 120 | Jessica |
 | 100 | 120 | Michael Latasha Gray |
 | 101 | 119 | Terry Jo Jones |
-| 102 | 118 | Bea Miles |
-| 103 | 118 | Fancy Curver |
+| 102 | 118 | Fancy Curver |
+| 103 | 118 | Bea Miles |
 | 104 | 113 | Jennifer Alvey |
 | 105 | 112 | Connie Mohler-Fair |
 | 106 | 112 | Jimmie Clemons |
@@ -216,8 +216,8 @@
 | 208 | 62 | Mcathen |
 | 209 | 62 | Bekah Dietrich |
 | 210 | 61 | Abigail Boyle |
-| 211 | 61 | Jessica Rose-Morgan |
-| 212 | 61 | punky monkey buttky |
+| 211 | 61 | punky monkey buttky |
+| 212 | 61 | Jessica Rose-Morgan |
 | 213 | 61 | Cary M. Fong |
 | 214 | 60 | Rainbow77375 |
 | 215 | 60 | Pam Hilt |

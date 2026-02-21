@@ -241,8 +241,8 @@
 | 233 | 189 | Sanaa Nounoussa |
 | 234 | 188 | Justin Hines |
 | 235 | 185 | Poppy Snapper |
-| 236 | 184 | Jumpy Gridpiece |
-| 237 | 184 | Sassy Linkbuilder |
+| 236 | 184 | Sassy Linkbuilder |
+| 237 | 184 | Jumpy Gridpiece |
 | 238 | 183 | Julie Hamilton |
 | 239 | 182 | Mindy Leigh Head |
 | 240 | 181 | Julay |
@@ -292,8 +292,8 @@
 | 284 | 156 | Nuggets |
 | 285 | 156 | Kyle Saunders |
 | 286 | 155 | Alexandra Weir |
-| 287 | 154 | Tiffney Wroten |
-| 288 | 154 | Victoria Moore-Smith |
+| 287 | 154 | Victoria Moore-Smith |
+| 288 | 154 | Tiffney Wroten |
 | 289 | 154 | Bryan Werleman |
 | 290 | 152 | Angela Murgia-Owen |
 | 291 | 152 | Denise Rickman |
