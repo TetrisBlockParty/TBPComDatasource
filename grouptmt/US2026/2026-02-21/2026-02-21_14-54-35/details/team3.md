@@ -38,8 +38,8 @@
 | 30 | 867 | Briarblack |
 | 31 | 852 | cowboy25469 |
 | 32 | 821 | Jessica Ann |
-| 33 | 810 | Zippy Strikesnap |
-| 34 | 810 | Shane Wilson Jr. |
+| 33 | 810 | Shane Wilson Jr. |
+| 34 | 810 | Zippy Strikesnap |
 | 35 | 799 | Amber Jones |
 | 36 | 782 | Corie A. Brinson |
 | 37 | 734 | Kay |
@@ -175,8 +175,8 @@
 | 167 | 166 | Kelly Ann Child |
 | 168 | 165 | Kali Kelz Williams |
 | 169 | 164 | rosy |
-| 170 | 163 | Trisha Balmer |
-| 171 | 163 | Sashay Tapae Simpson |
+| 170 | 163 | Sashay Tapae Simpson |
+| 171 | 163 | Trisha Balmer |
 | 172 | 163 | Stephanie Hill |
 | 173 | 161 | Nikki Pags |
 | 174 | 161 | BŘŰŤİÇŨŚ |
@@ -208,8 +208,8 @@
 | 200 | 141 | Emma |
 | 201 | 140 | Gumbo |
 | 202 | 140 | Jay Horn |
-| 203 | 136 | Joy Petroski |
-| 204 | 136 | Boldy Corner |
+| 203 | 136 | Boldy Corner |
+| 204 | 136 | Joy Petroski |
 | 205 | 135 | Cheryl Hinch Tenbrook |
 | 206 | 133 | LaNette Morgan |
 | 207 | 132 | Terry Jo Jones |
@@ -614,7 +614,7 @@
 | 606 | 49 | Beth Smith |
 | 607 | 48 | Elena Sanchez Damian |
 | 608 | 48 | Yvonne Felicia Garcia |
-| 609 | 48 | Elena Sanchez Damian |
+| 609 | 48 | Bela PC |
 | 610 | 48 | Terrie Miranda |
 | 611 | 48 | JeffnDarla Holmes |
 | 612 | 48 | Happy Buildsnap |

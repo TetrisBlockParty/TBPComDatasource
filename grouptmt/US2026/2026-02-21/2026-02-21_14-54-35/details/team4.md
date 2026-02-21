@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -108,8 +108,8 @@
 | 100 | 164 | ThaEviLJeNiuZ |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
-| 103 | 160 | ZeeZee |
-| 104 | 160 | Stacey Stano |
+| 103 | 160 | Stacey Stano |
+| 104 | 160 | ZeeZee |
 | 105 | 159 | Holly Jolly |
 | 106 | 157 | quicksand420 |
 | 107 | 154 | Zany Twisterfit |

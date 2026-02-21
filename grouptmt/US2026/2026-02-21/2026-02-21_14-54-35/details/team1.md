@@ -65,8 +65,8 @@
 | 57 | 256 | Tipsy Column |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
-| 60 | 244 | Tdub |
-| 61 | 244 | Franswa |
+| 60 | 244 | Franswa |
+| 61 | 244 | Tdub |
 | 62 | 240 | Rachael |
 | 63 | 237 | Elaine Elaine |
 | 64 | 226 | Sharon Reynolds |

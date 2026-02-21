@@ -315,8 +315,8 @@
 | 307 | 315 | Alisa Lamb |
 | 308 | 314 | NanDa Cruzan VI |
 | 309 | 314 | Amanda West |
-| 310 | 312 | Michelle Pike |
-| 311 | 312 | Andrea Maher |
+| 310 | 312 | Andrea Maher |
+| 311 | 312 | Michelle Pike |
 | 312 | 311 | Véronique Lévesque Sabourin |
 | 313 | 310 | Brandy Andre |
 | 314 | 309 | Oscar Bernie |
@@ -496,9 +496,9 @@
 | 488 | 201 | Twisty Tetriblast |
 | 489 | 200 | Sara Silvernail-Kay |
 | 490 | 200 | Biggest thing |
-| 491 | 200 | Sarah Ridenour |
-| 492 | 200 | LaWanda Powell |
-| 493 | 200 | Eric Carlson |
+| 491 | 200 | LaWanda Powell |
+| 492 | 200 | Eric Carlson |
+| 493 | 200 | Sarah Ridenour |
 | 494 | 199 | Fi Ne |
 | 495 | 199 | Alyssa Nadine Medelez |
 | 496 | 199 | Jenny Castro |
