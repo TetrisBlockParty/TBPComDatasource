@@ -167,8 +167,8 @@
 | 159 | 119 | Kristin Manee |
 | 160 | 119 | Gwendolyn Pitcairn |
 | 161 | 116 | Diana Houts |
-| 162 | 115 | Jayk |
-| 163 | 115 | Ultramarine |
+| 162 | 115 | Ultramarine |
+| 163 | 115 | Jayk |
 | 164 | 114 | Jackie Marie |
 | 165 | 113 | Adam Randall |
 | 166 | 112 | Zesty Twistbuilder |

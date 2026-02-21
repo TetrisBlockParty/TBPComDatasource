@@ -451,7 +451,7 @@
 | 443 | 249 | Niceday |
 | 444 | 248 | Maddy Petersen |
 | 445 | 248 | Bubbly Snapfit |
-| 446 | 248 | Maddy Petersen |
+| 446 | 248 | Kimberly Mitchell |
 | 447 | 248 | Warren Marleau |
 | 448 | 248 | Dany Murillo |
 | 449 | 248 | Aimee Byrom |

@@ -114,8 +114,8 @@
 | 106 | 309 | Rich LeBlanc |
 | 107 | 307 | Blocked |
 | 108 | 307 | Peggi Charon |
-| 109 | 300 | Sherika C. McDaniels |
-| 110 | 300 | Tessina Dewey-Mancino |
+| 109 | 300 | Tessina Dewey-Mancino |
+| 110 | 300 | Sherika C. McDaniels |
 | 111 | 293 | Poppy Splitter |
 | 112 | 284 | Jay Horn |
 | 113 | 277 | Logan Naccarato |

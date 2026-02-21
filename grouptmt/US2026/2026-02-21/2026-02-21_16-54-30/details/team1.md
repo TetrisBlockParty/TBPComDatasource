@@ -164,8 +164,8 @@
 | 156 | 127 | Brave Wrecker |
 | 157 | 126 | Nerdy Linkblock |
 | 158 | 125 | Tipsy Riseclear |
-| 159 | 124 | Cartier |
-| 160 | 124 | Flashy Rotator |
+| 159 | 124 | Flashy Rotator |
+| 160 | 124 | Cartier |
 | 161 | 122 | Melissa Lemmon |
 | 162 | 121 | April Carroll |
 | 163 | 121 | Bouncy Grid |
