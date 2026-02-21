@@ -173,8 +173,8 @@
 | 165 | 495 | Poppy Snap |
 | 166 | 488 | Teresa Gillmore |
 | 167 | 486 | MrsCandyfine As Wine Truss |
-| 168 | 485 | Gene Mills |
-| 169 | 485 | Leah Keesling |
+| 168 | 485 | Leah Keesling |
+| 169 | 485 | Gene Mills |
 | 170 | 484 | Suki Kaur |
 | 171 | 483 | Jordan Kaiser |
 | 172 | 482 | Eckoman518 |
@@ -212,9 +212,9 @@
 | 204 | 409 | Poldo Ilano |
 | 205 | 406 | Erin StFrancis |
 | 206 | 402 | Joshua Mandel |
-| 207 | 400 | Crystie Hicks |
-| 208 | 400 | Rhonda Milstead |
-| 209 | 400 | Tammy Allen |
+| 207 | 400 | Rhonda Milstead |
+| 208 | 400 | Tammy Allen |
+| 209 | 400 | Crystie Hicks |
 | 210 | 397 | Ashley Guernsey-Martin |
 | 211 | 397 | coleksquad |
 | 212 | 396 | Steven Marshaun |
@@ -364,8 +364,8 @@
 | 356 | 262 | Taren Cowan |
 | 357 | 262 | Min |
 | 358 | 261 | MrsClaudette Will'sIam Matthews |
-| 359 | 260 | Denise Rickman |
-| 360 | 260 | Ebony Deloach Bryant |
+| 359 | 260 | Ebony Deloach Bryant |
+| 360 | 260 | Denise Rickman |
 | 361 | 260 | Santana Miyagi |
 | 362 | 259 | Demeka Dangerous-kisses Johnson |
 | 363 | 257 | Lyndi Robinson Wakefield |
@@ -379,16 +379,16 @@
 | 371 | 254 | Rose Fx |
 | 372 | 254 | Julie Hamilton |
 | 373 | 253 | Tansaria Couch-Butler |
-| 374 | 252 | Matt Johnson |
-| 375 | 252 | Alyssia Tancredi |
+| 374 | 252 | Alyssia Tancredi |
+| 375 | 252 | Matt Johnson |
 | 376 | 252 | Britt Stunkel |
 | 377 | 251 | Ann Knutson Anderson |
 | 378 | 250 | Steve Man |
 | 379 | 249 | Porsche' Nicole |
 | 380 | 249 | Nicky Jackson |
 | 381 | 248 | Aimee Byrom |
-| 382 | 248 | Leslie Ann Carter |
-| 383 | 248 | Warren Marleau |
+| 382 | 248 | Warren Marleau |
+| 383 | 248 | Leslie Ann Carter |
 | 384 | 248 | Maddy Petersen |
 | 385 | 248 | Bubbly Snapfit |
 | 386 | 248 | Dany Murillo |
@@ -411,8 +411,8 @@
 | 403 | 236 | Niceday |
 | 404 | 236 | Julio A Laracuente |
 | 405 | 235 | Kimberly Mitchell |
-| 406 | 234 | Manny Trindade |
-| 407 | 234 | Jennifer Leigh |
+| 406 | 234 | Jennifer Leigh |
+| 407 | 234 | Manny Trindade |
 | 408 | 234 | Jaybee Nguyen |
 | 409 | 233 | Nutty Matchline |
 | 410 | 233 | Jumpy Gridclear |
@@ -432,8 +432,8 @@
 | 424 | 223 | Jess Morrison |
 | 425 | 223 | Laura Wyatt |
 | 426 | 223 | Kristi Biddinger |
-| 427 | 222 | Amanda Canterbury |
-| 428 | 222 | Jason Garnatz |
+| 427 | 222 | Jason Garnatz |
+| 428 | 222 | Amanda Canterbury |
 | 429 | 220 | Katrina Weston |
 | 430 | 220 | Sho Nuff |
 | 431 | 219 | Ashle Scranton |
@@ -447,8 +447,8 @@
 | 439 | 211 | Trisha Gallagher |
 | 440 | 209 | Dawn L Washington-Feuquay |
 | 441 | 208 | Nancy Pohlman |
-| 442 | 207 | Melissa McCall |
-| 443 | 207 | Brave Gridpiece |
+| 442 | 207 | Brave Gridpiece |
+| 443 | 207 | Melissa McCall |
 | 444 | 207 | Shylee Tilman |
 | 445 | 206 | RAEPR05 |
 | 446 | 206 | Neko Preston |

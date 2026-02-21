@@ -118,8 +118,8 @@
 | 110 | 224 | Judi Dobson |
 | 111 | 224 | Mykal Burton |
 | 112 | 223 | Jeana Gilbert |
-| 113 | 222 | Jimmie Clemons |
-| 114 | 222 | Nicole Flippo |
+| 113 | 222 | Nicole Flippo |
+| 114 | 222 | Jimmie Clemons |
 | 115 | 218 | mjl574 |
 | 116 | 214 | Amy Fuller Heaton |
 | 117 | 213 | Tom Nault |
@@ -131,8 +131,8 @@
 | 123 | 202 | Twisty Brick LT |
 | 124 | 199 | joclisa |
 | 125 | 198 | Rachael McClain Owens |
-| 126 | 195 | Nicha Hooker |
-| 127 | 195 | Jenny Hrndz |
+| 126 | 195 | Jenny Hrndz |
+| 127 | 195 | Nicha Hooker |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
 | 130 | 193 | Duane Bright |
@@ -145,10 +145,10 @@
 | 137 | 189 | Staci George Fitzsimmons |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
-| 140 | 182 | Hyper Matchzone |
-| 141 | 182 | Ashley Tookes |
-| 142 | 179 | Daira Largen |
-| 143 | 179 | Joye Sims Binion |
+| 140 | 182 | Ashley Tookes |
+| 141 | 182 | Hyper Matchzone |
+| 142 | 179 | Joye Sims Binion |
+| 143 | 179 | Daira Largen |
 | 144 | 178 | Khaleada McGill Banks |
 | 145 | 178 | AlsoJess |
 | 146 | 176 | Ryan Williams |
@@ -159,8 +159,8 @@
 | 151 | 166 | Betty Rosas |
 | 152 | 166 | Kelly Ann Child |
 | 153 | 165 | Kali Kelz Williams |
-| 154 | 164 | rosy |
-| 155 | 164 | DanceLuvLaugh |
+| 154 | 164 | DanceLuvLaugh |
+| 155 | 164 | rosy |
 | 156 | 163 | Karon Griffin |
 | 157 | 163 | Trisha Balmer |
 | 158 | 163 | Stephanie Hill |
@@ -277,12 +277,12 @@
 | 269 | 98 | Erika Thornton |
 | 270 | 98 | Armi |
 | 271 | 97 | Ashley Jones |
-| 272 | 96 | Christopher Woost |
+| 272 | 96 | D3NO |
 | 273 | 96 | Tasha Wesson-Torrence |
-| 274 | 96 | D3NO |
+| 274 | 96 | Christopher Woost |
 | 275 | 95 | Brooke Bauer |
-| 276 | 94 | Tracey Cox |
-| 277 | 94 | Angie Harper |
+| 276 | 94 | Angie Harper |
+| 277 | 94 | Tracey Cox |
 | 278 | 93 | Tiffany Ford |
 | 279 | 92 | Jennifer Caputo |
 | 280 | 92 | Ava Petito |
@@ -491,7 +491,7 @@
 | 483 | 56 | Tracy Marino |
 | 484 | 56 | Lisa Ann |
 | 485 | 56 | Stormy Anguish |
-| 486 | 56 | Lisa Ann |
+| 486 | 56 | Dakota Lee DeMarrias |
 | 487 | 55 | CJ McCaffrey |
 | 488 | 55 | Isabelle Hall-Burns |
 | 489 | 55 | Melissa Parlow-Callaway |

@@ -79,24 +79,24 @@
 | 71 | 195 | Dustee Craddock-Harrison |
 | 72 | 194 | Jamie Mann-Deichmann |
 | 73 | 187 | Swanky Fitline |
-| 74 | 185 | Andy Cabral |
-| 75 | 185 | loulou |
+| 74 | 185 | loulou |
+| 75 | 185 | Andy Cabral |
 | 76 | 184 | Dizzy Tiley |
 | 77 | 180 | shar |
 | 78 | 180 | Leah Kutz Zirbel |
 | 79 | 179 | Epic Curvetile |
 | 80 | 178 | Lori |
-| 81 | 173 | Zethra Prenisha Rahming |
-| 82 | 173 | Jeff Brian Gates |
+| 81 | 173 | Jeff Brian Gates |
+| 82 | 173 | Zethra Prenisha Rahming |
 | 83 | 171 | Melvin Baird |
-| 84 | 170 | Girl |
-| 85 | 170 | Justin Hannigan |
+| 84 | 170 | Justin Hannigan |
+| 85 | 170 | Girl |
 | 86 | 167 | Denise Carlson |
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
 | 89 | 162 | Shauna Havard |
-| 90 | 160 | Stacey Stano |
-| 91 | 160 | Carter Jones |
+| 90 | 160 | Carter Jones |
+| 91 | 160 | Stacey Stano |
 | 92 | 159 | Holly Jolly |
 | 93 | 157 | quicksand420 |
 | 94 | 154 | Zany Twisterfit |
@@ -129,9 +129,9 @@
 | 121 | 126 | Klo |
 | 122 | 126 | Dihcheese444 |
 | 123 | 124 | Allen Lloyd |
-| 124 | 123 | TinyLegoRose |
-| 125 | 123 | Cherrish Duren |
-| 126 | 123 | Bubbly Puzzler |
+| 124 | 123 | Bubbly Puzzler |
+| 125 | 123 | TinyLegoRose |
+| 126 | 123 | Cherrish Duren |
 | 127 | 122 | Sherri |
 | 128 | 121 | Smiley Tiltbuilder |
 | 129 | 121 | blockstar |
