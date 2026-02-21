@@ -491,7 +491,7 @@
 | 483 | 57 | Groovy Brickmatch |
 | 484 | 56 | Neirrah B Olailjeel |
 | 485 | 56 | Squeezy Pearsall |
-| 486 | 56 | Neirrah B Olailjeel |
+| 486 | 56 | June Hoffman |
 | 487 | 56 | Peppy Strike |
 | 488 | 56 | Elle Joe |
 | 489 | 55 | Mary Miller |

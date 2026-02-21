@@ -43,8 +43,8 @@
 | 35 | 587 | Marianne Louise West |
 | 36 | 585 | Jennifer Cates |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Drew Magnus |
-| 39 | 541 | Kristen Roles Robben |
+| 38 | 541 | Kristen Roles Robben |
+| 39 | 541 | Drew Magnus |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -134,8 +134,8 @@
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
-| 129 | 194 | Tyler Werts |
-| 130 | 194 | Ash Galvan |
+| 129 | 194 | Ash Galvan |
+| 130 | 194 | Tyler Werts |
 | 131 | 193 | Lachelle Dillon |
 | 132 | 192 | Shaykmia |
 | 133 | 192 | Jessica Sheehan |
@@ -152,12 +152,12 @@
 | 144 | 180 | Michael |
 | 145 | 180 | Erez Yosef |
 | 146 | 179 | Danielle Little-Daugherty |
-| 147 | 178 | Shiny Gridmatch |
-| 148 | 178 | Chad Atchley |
-| 149 | 177 | ParisandCory Champagne |
-| 150 | 177 | Irual Hctrab |
+| 147 | 178 | Chad Atchley |
+| 148 | 178 | Shiny Gridmatch |
+| 149 | 177 | Irual Hctrab |
+| 150 | 177 | ParisandCory Champagne |
 | 151 | 175 | John Barron |
-| 152 | 171 | femmefatale |
+| 152 | 171 | Greg Premoe |
 | 153 | 171 | David DeSantis |
 | 154 | 171 | femmefatale |
 | 155 | 170 | Cartier |
@@ -198,16 +198,16 @@
 | 190 | 139 | Mel Hogan |
 | 191 | 139 | Barry Mac'Ockner |
 | 192 | 138 | Death |
-| 193 | 137 | Cody Gates |
-| 194 | 137 | Witty Builderfit |
+| 193 | 137 | Witty Builderfit |
+| 194 | 137 | Cody Gates |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Giddy Cascade |
 | 197 | 135 | Tipsy Riseclear |
 | 198 | 135 | Aimee Horton |
 | 199 | 135 | Guest |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Fmp |
-| 202 | 133 | Kimberly Garcia |
+| 201 | 133 | Kimberly Garcia |
+| 202 | 133 | Fmp |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
 | 205 | 130 | Gilbert Ortiz Jr. |

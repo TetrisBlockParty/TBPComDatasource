@@ -153,8 +153,8 @@
 | 145 | 807 | Rebecca Doughman |
 | 146 | 807 | Khalil Lowe |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Danielle Johnson-Chandler |
-| 149 | 800 | Tacara Cummings |
+| 148 | 800 | Tacara Cummings |
+| 149 | 800 | Danielle Johnson-Chandler |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -226,8 +226,8 @@
 | 218 | 619 | Jamie Otero |
 | 219 | 618 | Gabby Jenner |
 | 220 | 615 | Auntie B |
-| 221 | 608 | goofinoff |
-| 222 | 608 | Sommer Shope |
+| 221 | 608 | Sommer Shope |
+| 222 | 608 | goofinoff |
 | 223 | 605 | Jelly |
 | 224 | 603 | Cassie Maynard |
 | 225 | 602 | Brandon Armstrong |
@@ -275,8 +275,8 @@
 | 267 | 509 | Kelli Wells |
 | 268 | 509 | Jordan Kaiser |
 | 269 | 506 | AISlop |
-| 270 | 504 | Cherica Taylor |
-| 271 | 504 | Gene Mills |
+| 270 | 504 | Gene Mills |
+| 271 | 504 | Cherica Taylor |
 | 272 | 503 | Matt Johnson |
 | 273 | 502 | Sparkles |
 | 274 | 502 | Magic steve |

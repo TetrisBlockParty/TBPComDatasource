@@ -133,8 +133,8 @@
 | 125 | 347 | Darlene McMillan |
 | 126 | 343 | Chasity |
 | 127 | 330 | Logan Naccarato |
-| 128 | 328 | Jeni Dow |
-| 129 | 328 | Aaron Pitkin |
+| 128 | 328 | Aaron Pitkin |
+| 129 | 328 | Jeni Dow |
 | 130 | 327 | Dapper Snap |
 | 131 | 326 | Fancy Cascader |
 | 132 | 323 | Ashley Raines |
@@ -147,8 +147,8 @@
 | 139 | 299 | Loopy Clusterer |
 | 140 | 293 | Poppy Splitter |
 | 141 | 289 | Hoppy Buildout |
-| 142 | 286 | Jacqueline Rodriguez |
-| 143 | 286 | Marci Mize Fandrich |
+| 142 | 286 | Marci Mize Fandrich |
+| 143 | 286 | Jacqueline Rodriguez |
 | 144 | 283 | Joye Sims Binion |
 | 145 | 278 | Rufus Lincoln |
 | 146 | 276 | Crimson |
@@ -172,8 +172,8 @@
 | 164 | 249 | Santeria Trece Candles |
 | 165 | 245 | Latoya Mayne |
 | 166 | 245 | Annie Marie |
-| 167 | 243 | Tom Nault |
-| 168 | 243 | Cynthia Herrmann Egland |
+| 167 | 243 | Cynthia Herrmann Egland |
+| 168 | 243 | Tom Nault |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
 | 171 | 237 | Rebecca Funderburk Kirby |
@@ -239,9 +239,9 @@
 | 231 | 174 | Marquita Sheard |
 | 232 | 173 | Betty Ivy |
 | 233 | 172 | Grams |
-| 234 | 169 | Emma |
-| 235 | 169 | Daryn Elliott |
-| 236 | 169 | BŘŰŤİÇŨŚ |
+| 234 | 169 | BŘŰŤİÇŨŚ |
+| 235 | 169 | Emma |
+| 236 | 169 | Daryn Elliott |
 | 237 | 168 | MsBee |
 | 238 | 166 | Rania Zaqout |
 | 239 | 166 | KayB |
