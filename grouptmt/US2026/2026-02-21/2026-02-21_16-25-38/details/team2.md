@@ -363,9 +363,9 @@
 | 355 | 297 | Fi Ne |
 | 356 | 297 | Peachy Blockbuilder |
 | 357 | 297 | Cheeky Brickmatch |
-| 358 | 296 | Amber Gray |
-| 359 | 296 | Jennifer Casey-Kay |
-| 360 | 296 | Heather Schelkopf |
+| 358 | 296 | Heather Schelkopf |
+| 359 | 296 | Amber Gray |
+| 360 | 296 | Jennifer Casey-Kay |
 | 361 | 296 | AISlop |
 | 362 | 296 | Jennifer Darby |
 | 363 | 295 | Melissa Kay Gibson |

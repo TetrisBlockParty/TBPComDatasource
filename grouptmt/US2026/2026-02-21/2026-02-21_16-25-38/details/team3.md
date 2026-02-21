@@ -107,8 +107,8 @@
 | 99 | 323 | Ashley Raines |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
-| 102 | 309 | CeceGeGe |
-| 103 | 309 | Rich LeBlanc |
+| 102 | 309 | Rich LeBlanc |
+| 103 | 309 | CeceGeGe |
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | rnr junky |
-| 142 | 207 | Chris Bell |
+| 141 | 207 | Chris Bell |
+| 142 | 207 | rnr junky |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -155,13 +155,13 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Duane Bright |
-| 151 | 193 | Clever Shiftsnap |
+| 150 | 193 | Clever Shiftsnap |
+| 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Rochelle Hazelett |
-| 155 | 189 | Staci George Fitzsimmons |
-| 156 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Rochelle Hazelett |
+| 156 | 189 | Staci George Fitzsimmons |
 | 157 | 189 | Fallorina Susana |
 | 158 | 188 | Angie Harper |
 | 159 | 184 | Jennie Beranek |
@@ -188,8 +188,8 @@
 | 180 | 165 | Kali Kelz Williams |
 | 181 | 163 | Stephanie Hill |
 | 182 | 162 | Stephanie Whitefield |
-| 183 | 161 | BŘŰŤİÇŨŚ |
-| 184 | 161 | Nikki Pags |
+| 183 | 161 | Nikki Pags |
+| 184 | 161 | BŘŰŤİÇŨŚ |
 | 185 | 160 | Tiffany Davie |
 | 186 | 159 | Beth Ingham |
 | 187 | 159 | Jone |

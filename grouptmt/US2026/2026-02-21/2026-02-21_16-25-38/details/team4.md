@@ -135,8 +135,8 @@
 | 127 | 140 | Shannon Ferrari |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
-| 130 | 136 | Tanner Lund |
-| 131 | 136 | Serena Goodridge |
+| 130 | 136 | Serena Goodridge |
+| 131 | 136 | Tanner Lund |
 | 132 | 135 | ĥuf |
 | 133 | 134 | Chirpy Basepiece |
 | 134 | 132 | Degenerate |
@@ -148,8 +148,8 @@
 | 140 | 128 | Rio Rocha |
 | 141 | 128 | Stephme310 |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | TinyLegoRose |
-| 144 | 126 | Dihcheese444 |
+| 143 | 126 | Dihcheese444 |
+| 144 | 126 | TinyLegoRose |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Angela Geist Jusinski |

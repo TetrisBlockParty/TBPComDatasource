@@ -90,8 +90,8 @@
 | 82 | 201 | Anaid Sanchez |
 | 83 | 200 | Giggly Builderline |
 | 84 | 199 | TSwag |
-| 85 | 198 | Happy Snapbuild |
-| 86 | 198 | Brandi Huntington |
+| 85 | 198 | Brandi Huntington |
+| 86 | 198 | Happy Snapbuild |
 | 87 | 197 | Cynthia Bradley |
 | 88 | 196 | Jazzy Framezone |
 | 89 | 193 | Lachelle Dillon |
@@ -104,8 +104,8 @@
 | 96 | 185 | Ash Galvan |
 | 97 | 180 | Erez Yosef |
 | 98 | 179 | Spunky Piecebuilder |
-| 99 | 178 | Danielle Little-Daugherty |
-| 100 | 178 | Chad Atchley |
+| 99 | 178 | Chad Atchley |
+| 100 | 178 | Danielle Little-Daugherty |
 | 101 | 173 | june october |
 | 102 | 173 | Frothy Pattern |
 | 103 | 171 | David DeSantis |
@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Arianna O'Brien |
-| 119 | 149 | Jennifer ManWarren |
+| 118 | 149 | Jennifer ManWarren |
+| 119 | 149 | Arianna O'Brien |
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
 | 122 | 146 | Dandy Basegrid |
