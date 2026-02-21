@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Delilah belle |
-| 28 | 867 | Briarblack |
+| 27 | 867 | Briarblack |
+| 28 | 867 | Delilah belle |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Shane Wilson Jr. |
@@ -94,8 +94,8 @@
 | 86 | 320 | Or Reznitsky |
 | 87 | 316 | Fancy Cascader |
 | 88 | 313 | Elaine Webb Graves |
-| 89 | 309 | CeceGeGe |
-| 90 | 309 | Rich LeBlanc |
+| 89 | 309 | Rich LeBlanc |
+| 90 | 309 | CeceGeGe |
 | 91 | 307 | Peggi Charon |
 | 92 | 307 | Lush Buildout |
 | 93 | 307 | Blocked |
@@ -115,8 +115,8 @@
 | 107 | 232 | Poppy Splitter |
 | 108 | 227 | Crimson |
 | 109 | 225 | Speedy Bridger |
-| 110 | 224 | Judi Dobson |
-| 111 | 224 | Mykal Burton |
+| 110 | 224 | Mykal Burton |
+| 111 | 224 | Judi Dobson |
 | 112 | 223 | Jeana Gilbert |
 | 113 | 222 | Jimmie Clemons |
 | 114 | 222 | Nicole Flippo |
@@ -322,9 +322,9 @@
 | 314 | 83 | Glitzy Slide |
 | 315 | 83 | Deseree Ewing |
 | 316 | 82 | Justice 4 P |
-| 317 | 82 | Rebecca Funderburk Kirby |
-| 318 | 82 | Eileen Brady Thurber |
-| 319 | 81 | Tina Baurdau |
+| 317 | 82 | Eileen Brady Thurber |
+| 318 | 82 | Rebecca Funderburk Kirby |
+| 319 | 81 | Joseph Vargas |
 | 320 | 81 | lema ean |
 | 321 | 81 | Tina Baurdau |
 | 322 | 81 | Tammy Rosenberry |

@@ -40,8 +40,8 @@
 | 32 | 399 | Drew Magnus |
 | 33 | 382 | Lori Sanders- Davis |
 | 34 | 380 | Robert Beck |
-| 35 | 348 | Stef Hu |
-| 36 | 348 | Chipper Gridlock |
+| 35 | 348 | Chipper Gridlock |
+| 36 | 348 | Stef Hu |
 | 37 | 338 | Stephanie Zahn |
 | 38 | 327 | Angel Fowler |
 | 39 | 325 | Jennifer Cates |
@@ -122,8 +122,8 @@
 | 114 | 142 | Colleen Wise |
 | 115 | 141 | Blaire Bruckoff |
 | 116 | 140 | Miguel Teixeira |
-| 117 | 138 | Gary Gobin |
-| 118 | 138 | Cranky Pattern |
+| 117 | 138 | Cranky Pattern |
+| 118 | 138 | Gary Gobin |
 | 119 | 137 | Nadine Velardo |
 | 120 | 134 | Trina Gee |
 | 121 | 133 | Breanna Luna |
