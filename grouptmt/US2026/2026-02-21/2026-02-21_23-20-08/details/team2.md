@@ -377,8 +377,8 @@
 | 369 | 391 | Chilly Bridgepiece |
 | 370 | 390 | Caitlin Schmid |
 | 371 | 386 | Irene Jones |
-| 372 | 384 | Mike Aprilliano |
-| 373 | 384 | Johnny Yeates |
+| 372 | 384 | Johnny Yeates |
+| 373 | 384 | Mike Aprilliano |
 | 374 | 383 | Arkei Luster |
 | 375 | 382 | KhaosLord |
 | 376 | 382 | David Holliday |
@@ -638,8 +638,8 @@
 | 630 | 240 | Tom Steffen |
 | 631 | 239 | Dad |
 | 632 | 238 | Manny Trindade |
-| 633 | 237 | Devlin Ogg |
-| 634 | 237 | Breezy Tilt |
+| 633 | 237 | Breezy Tilt |
+| 634 | 237 | Devlin Ogg |
 | 635 | 237 | Heather Piotrowski |
 | 636 | 236 | Julio A Laracuente |
 | 637 | 236 | Angela Yantz |

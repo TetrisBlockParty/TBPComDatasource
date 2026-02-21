@@ -25,8 +25,8 @@
 | 17 | 889 | Robert Beck |
 | 18 | 883 | Roger Aschbrenner |
 | 19 | 854 | Derek MF Blakey |
-| 20 | 792 | LaQuetta Faith Hines |
-| 21 | 792 | Tipsy Column |
+| 20 | 792 | Tipsy Column |
+| 21 | 792 | LaQuetta Faith Hines |
 | 22 | 791 | Adryane Schnase |
 | 23 | 784 | COOL as Icer |
 | 24 | 779 | Andrea Dañielle Ortiz |
@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Trina Gee |
-| 67 | 348 | Stef Hu |
+| 66 | 348 | Stef Hu |
+| 67 | 348 | Trina Gee |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -111,10 +111,10 @@
 | 103 | 249 | Seante Bullock |
 | 104 | 249 | Elaine Elaine |
 | 105 | 244 | Franswa |
-| 106 | 240 | Tana |
-| 107 | 240 | Chelsea Dahlquist |
-| 108 | 238 | Steve Schneider |
-| 109 | 238 | John J. Cronin |
+| 106 | 240 | Chelsea Dahlquist |
+| 107 | 240 | Tana |
+| 108 | 238 | John J. Cronin |
+| 109 | 238 | Steve Schneider |
 | 110 | 230 | Frothy Pattern |
 | 111 | 228 | Trippy Redd |
 | 112 | 227 | Candy Jones |
@@ -134,14 +134,14 @@
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
-| 129 | 194 | Tyler Werts |
-| 130 | 194 | Ash Galvan |
+| 129 | 194 | Ash Galvan |
+| 130 | 194 | Tyler Werts |
 | 131 | 193 | Lachelle Dillon |
 | 132 | 192 | Jessica Sheehan |
 | 133 | 192 | Shaykmia |
 | 134 | 191 | Diane Byrd |
-| 135 | 190 | Sweetts |
-| 136 | 190 | Thorne Shumate |
+| 135 | 190 | Thorne Shumate |
+| 136 | 190 | Sweetts |
 | 137 | 188 | Sam Williams |
 | 138 | 187 | Snippy Wipebuilder |
 | 139 | 186 | Jennifer Olewnik Soborowski |
@@ -201,7 +201,7 @@
 | 193 | 137 | Witty Builderfit |
 | 194 | 136 | Breanna Luna |
 | 195 | 135 | Tipsy Riseclear |
-| 196 | 135 | Guest |
+| 196 | 135 | Giddy Cascade |
 | 197 | 135 | Aimee Horton |
 | 198 | 135 | Guest |
 | 199 | 134 | Brave Wrecker |
@@ -233,8 +233,8 @@
 | 225 | 114 | Tyler Hertzog |
 | 226 | 114 | Hector Cruz |
 | 227 | 113 | Desiree Deschaine Havee |
-| 228 | 112 | Chris65 |
-| 229 | 112 | Crystal Joslin |
+| 228 | 112 | Crystal Joslin |
+| 229 | 112 | Chris65 |
 | 230 | 111 | Chirpy Smasher |
 | 231 | 111 | Rachel Nichole Henry |
 | 232 | 110 | Howdi Duty |

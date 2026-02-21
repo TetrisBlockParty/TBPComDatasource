@@ -47,8 +47,8 @@
 | 39 | 998 | Liv Whetson |
 | 40 | 996 | Danielle Cutler |
 | 41 | 989 | Kay |
-| 42 | 928 | Stephanie Rice |
-| 43 | 928 | Snappy Fitzone |
+| 42 | 928 | Snappy Fitzone |
+| 43 | 928 | Stephanie Rice |
 | 44 | 915 | Fancy Slam |
 | 45 | 879 | Shonna Roberts |
 | 46 | 874 | Jessica Pineda-Lopez |
@@ -293,8 +293,8 @@
 | 285 | 142 | Jl |
 | 286 | 142 | Gray Hicks |
 | 287 | 142 | Erykah |
-| 288 | 141 | LaTanya GeminiondaRise Johnson |
-| 289 | 141 | Joy Petroski |
+| 288 | 141 | Joy Petroski |
+| 289 | 141 | LaTanya GeminiondaRise Johnson |
 | 290 | 138 | Boldy Corner |
 | 291 | 138 | Pam Holt Powell |
 | 292 | 138 | Rachel |
