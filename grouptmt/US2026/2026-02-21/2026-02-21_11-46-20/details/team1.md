@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Tdub |
-| 57 | 212 | Jaimie Lynn |
+| 56 | 212 | Jaimie Lynn |
+| 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 208 | Mandyy Rae |
@@ -95,8 +95,8 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | David DeSantis |
-| 91 | 155 | Standia Civil |
+| 90 | 155 | Standia Civil |
+| 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
 | 94 | 149 | Tana |

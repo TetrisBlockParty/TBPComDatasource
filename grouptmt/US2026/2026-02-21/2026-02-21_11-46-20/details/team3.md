@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -116,8 +116,8 @@
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -151,8 +151,8 @@
 | 143 | 163 | Karon Griffin |
 | 144 | 162 | Rebel124 |
 | 145 | 159 | Mcathen |
-| 146 | 159 | Jone |
-| 147 | 159 | Morgan Martinez |
+| 146 | 159 | Morgan Martinez |
+| 147 | 159 | Jone |
 | 148 | 158 | Grams |
 | 149 | 157 | Nicholas Roddy |
 | 150 | 157 | Patricia Gadsden |
@@ -189,8 +189,8 @@
 | 181 | 127 | Joy Petroski |
 | 182 | 127 | Aerian Preston |
 | 183 | 126 | Brandon Givens |
-| 184 | 125 | Shimika Enay Wallace |
-| 185 | 125 | Felicia Doxey |
+| 184 | 125 | Felicia Doxey |
+| 185 | 125 | Shimika Enay Wallace |
 | 186 | 124 | Cesar Barraza |
 | 187 | 123 | Sarajane Lokan |
 | 188 | 123 | Marci Mize Fandrich |
@@ -300,8 +300,8 @@
 | 292 | 84 | Flashy Rumbler |
 | 293 | 84 | Spunky Racker |
 | 294 | 83 | Deseree Ewing |
-| 295 | 82 | Rebecca Funderburk Kirby |
-| 296 | 82 | Nikki Pags |
+| 295 | 82 | Nikki Pags |
+| 296 | 82 | Rebecca Funderburk Kirby |
 | 297 | 81 | Tina Baurdau |
 | 298 | 80 | Oliver Neal II |
 | 299 | 80 | Vixen Queen |

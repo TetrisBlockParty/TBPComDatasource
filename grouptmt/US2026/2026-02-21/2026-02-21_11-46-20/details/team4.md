@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |

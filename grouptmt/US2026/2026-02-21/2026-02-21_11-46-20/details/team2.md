@@ -793,8 +793,8 @@
 | 785 | 114 | Jaquare M-bul Wizlee |
 | 786 | 114 | Jennifer Foster |
 | 787 | 113 | SwifftFox |
-| 788 | 113 | Ashley MoBetta Humes |
-| 789 | 113 | Amanda Michelle Pigeon |
+| 788 | 113 | Amanda Michelle Pigeon |
+| 789 | 113 | Ashley MoBetta Humes |
 | 790 | 113 | Della Hole |
 | 791 | 113 | Hillary Franklin |
 | 792 | 113 | Brave Gridzone |
