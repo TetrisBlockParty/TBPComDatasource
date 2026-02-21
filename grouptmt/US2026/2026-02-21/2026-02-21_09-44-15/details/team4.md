@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Julian Garcia |
-| 53 | 265 | Clarence Patawaran |
+| 52 | 265 | Clarence Patawaran |
+| 53 | 265 | Julian Garcia |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -225,9 +225,9 @@
 | 217 | 73 | Rheanda Weaskus |
 | 218 | 73 | April Rondinone |
 | 219 | 72 | Robin Getchel |
-| 220 | 71 | Ericca Eldridge |
-| 221 | 71 | Marcela Johnson |
-| 222 | 70 | Richard-April Kice |
+| 220 | 71 | Marcela Johnson |
+| 221 | 71 | Ericca Eldridge |
+| 222 | 70 | Spicy Cascadezone |
 | 223 | 70 | Patron Anderson |
 | 224 | 70 | Richard-April Kice |
 | 225 | 70 | Niome Encinias |

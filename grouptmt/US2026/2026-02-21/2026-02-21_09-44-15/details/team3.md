@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -135,8 +135,8 @@
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -183,7 +183,7 @@
 | 175 | 125 | Shimika Enay Wallace |
 | 176 | 125 | Felicia Doxey |
 | 177 | 124 | Cesar Barraza |
-| 178 | 123 | Terry Jo Jones |
+| 178 | 123 | Sarajane Lokan |
 | 179 | 123 | Kristie McFarland |
 | 180 | 123 | Terry Jo Jones |
 | 181 | 122 | Katrina E Jelks |

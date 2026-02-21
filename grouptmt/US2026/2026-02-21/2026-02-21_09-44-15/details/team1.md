@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Tipsy Column |
@@ -73,8 +73,8 @@
 | 65 | 194 | Giggly Builderline |
 | 66 | 194 | Sharon Reynolds |
 | 67 | 193 | Lachelle Dillon |
-| 68 | 192 | Shaykmia |
-| 69 | 192 | Mandyy Rae |
+| 68 | 192 | Mandyy Rae |
+| 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
 | 71 | 190 | Thorne Shumate |
 | 72 | 190 | Sweetts |
@@ -101,12 +101,12 @@
 | 93 | 145 | Bhelle Sumile |
 | 94 | 145 | BigWeenie69 |
 | 95 | 144 | Tanya Carpenter-Reynolds |
-| 96 | 144 | Plucky Ziggy |
-| 97 | 144 | femmefatale |
+| 96 | 144 | femmefatale |
+| 97 | 144 | Plucky Ziggy |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
-| 100 | 138 | Gary Gobin |
-| 101 | 138 | Cranky Pattern |
+| 100 | 138 | Cranky Pattern |
+| 101 | 138 | Gary Gobin |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Breanna Luna |
@@ -217,8 +217,8 @@
 | 209 | 74 | Owicked1 |
 | 210 | 74 | Meechie |
 | 211 | 74 | Grace Joanne Agnant |
-| 212 | 73 | Silly Align |
-| 213 | 73 | Shanae Grant |
+| 212 | 73 | Shanae Grant |
+| 213 | 73 | Silly Align |
 | 214 | 72 | Tipsy Strikerpiece |
 | 215 | 70 | Kenton Billings |
 | 216 | 70 | Daring Fitclear |

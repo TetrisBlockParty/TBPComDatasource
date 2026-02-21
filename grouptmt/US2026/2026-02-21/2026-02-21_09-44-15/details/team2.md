@@ -110,8 +110,8 @@
 | 102 | 658 | Vistabrat |
 | 103 | 658 | Pacynthia Williams |
 | 104 | 653 | Becky Weeks-Garry |
-| 105 | 649 | Anna Edwards |
-| 106 | 649 | Stephanie Chapman |
+| 105 | 649 | Stephanie Chapman |
+| 106 | 649 | Anna Edwards |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
 | 109 | 631 | Peppy Zone |
@@ -259,8 +259,8 @@
 | 251 | 299 | Christy Krissie |
 | 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
-| 254 | 296 | Amber Gray |
-| 255 | 296 | Jennifer Casey-Kay |
+| 254 | 296 | Jennifer Casey-Kay |
+| 255 | 296 | Amber Gray |
 | 256 | 296 | Jennifer Darby |
 | 257 | 295 | Angela Bonquiqui Dinish |
 | 258 | 295 | Zany Clusterbuilder |
@@ -284,15 +284,15 @@
 | 276 | 276 | SwampRebel |
 | 277 | 276 | Vonceial Boone |
 | 278 | 275 | Cheeky Brickmatch |
-| 279 | 275 | Ann Matzkanin |
-| 280 | 275 | Shiny Rollzone |
+| 279 | 275 | Shiny Rollzone |
+| 280 | 275 | Ann Matzkanin |
 | 281 | 274 | Jamie Stevey |
 | 282 | 274 | Melissa Holsinger |
 | 283 | 274 | Lonne Emade |
 | 284 | 273 | Ray Ray Prado |
 | 285 | 273 | Jenna Nance |
-| 286 | 273 | August Hale |
-| 287 | 273 | Vanessa Moreno |
+| 286 | 273 | Vanessa Moreno |
+| 287 | 273 | August Hale |
 | 288 | 272 | Mikayala Szaz |
 | 289 | 271 | Ann Marie Davis |
 | 290 | 271 | Toni Lynn |
@@ -319,8 +319,8 @@
 | 311 | 256 | Tee Jaleesa |
 | 312 | 256 | CC |
 | 313 | 255 | Santana Miyagi |
-| 314 | 254 | Elizabeth Diraffaele |
-| 315 | 254 | Rose Fx |
+| 314 | 254 | Rose Fx |
+| 315 | 254 | Elizabeth Diraffaele |
 | 316 | 254 | Julie Hamilton |
 | 317 | 253 | Tansaria Couch-Butler |
 | 318 | 252 | Matt Johnson |
@@ -466,8 +466,8 @@
 | 458 | 175 | Tina Blessed Cage |
 | 459 | 174 | Jason Garnatz |
 | 460 | 173 | Ocean-Brianna McGregor |
-| 461 | 173 | Robin |
-| 462 | 173 | kippykay |
+| 461 | 173 | kippykay |
+| 462 | 173 | Robin |
 | 463 | 171 | Cappin You |
 | 464 | 171 | William Hunt |
 | 465 | 170 | Kenya Felix |
@@ -492,8 +492,8 @@
 | 484 | 162 | LC Hamilton |
 | 485 | 162 | Michael Artis |
 | 486 | 162 | Andrea Maher |
-| 487 | 160 | Lazy Riseclear |
-| 488 | 160 | Marcie McLain Dodd |
+| 487 | 160 | Marcie McLain Dodd |
+| 488 | 160 | Lazy Riseclear |
 | 489 | 160 | Unica Rector |
 | 490 | 160 | Cynthia Ward |
 | 491 | 160 | Gary Schaffner Jr. |
@@ -539,8 +539,8 @@
 | 531 | 151 | Kia Humphery |
 | 532 | 151 | Jennifer Rajek |
 | 533 | 150 | Greenshades00 |
-| 534 | 150 | Josh Dill |
-| 535 | 150 | Jodi Mitnick |
+| 534 | 150 | Jodi Mitnick |
+| 535 | 150 | Josh Dill |
 | 536 | 150 | Candace Noel |
 | 537 | 149 | Leslie Porter |
 | 538 | 149 | Boldy Cascadepiece |
