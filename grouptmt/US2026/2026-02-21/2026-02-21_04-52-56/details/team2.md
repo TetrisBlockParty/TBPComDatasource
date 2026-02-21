@@ -176,8 +176,8 @@
 | 168 | 345 | Alyssaaelena |
 | 169 | 345 | Wuntayk |
 | 170 | 345 | Rhianna DiLorenzo |
-| 171 | 344 | Julie Kresal |
-| 172 | 344 | Christina Lewis-Vickers |
+| 171 | 344 | Christina Lewis-Vickers |
+| 172 | 344 | Julie Kresal |
 | 173 | 342 | Tracy Wise |
 | 174 | 339 | Qiana Sanders |
 | 175 | 337 | Joseph Musick |
@@ -200,9 +200,9 @@
 | 192 | 299 | Christy Krissie |
 | 193 | 296 | Allan Wayne Lamia |
 | 194 | 296 | Jennifer Casey-Kay |
-| 195 | 295 | Zany Clusterbuilder |
+| 195 | 295 | Diallo Sparkman |
 | 196 | 295 | Angela Bonquiqui Dinish |
-| 197 | 295 | Diallo Sparkman |
+| 197 | 295 | Zany Clusterbuilder |
 | 198 | 293 | David Holliday |
 | 199 | 291 | Ricky Fortune |
 | 200 | 291 | Arwa Fatimah |
@@ -231,8 +231,8 @@
 | 223 | 268 | Vanessa Moreno |
 | 224 | 268 | Elisheva Mizrachi |
 | 225 | 267 | Mindy Leigh Head |
-| 226 | 266 | Autumn Schaeffer |
-| 227 | 266 | Mighty Shatterfit |
+| 226 | 266 | Mighty Shatterfit |
+| 227 | 266 | Autumn Schaeffer |
 | 228 | 266 | Joyce Johnson Vaughn |
 | 229 | 264 | Victoria Moore-Smith |
 | 230 | 263 | August Hale |
@@ -257,8 +257,8 @@
 | 249 | 248 | Bubbly Snapfit |
 | 250 | 248 | Leah Keesling |
 | 251 | 248 | Chummy Blockbuilder |
-| 252 | 247 | Andrea Devery Beck |
-| 253 | 247 | Fancy Twister |
+| 252 | 247 | Fancy Twister |
+| 253 | 247 | Andrea Devery Beck |
 | 254 | 246 | Ashley Lopez |
 | 255 | 245 | Rachael Senard |
 | 256 | 245 | Matt Johnson |
@@ -359,7 +359,7 @@
 | 351 | 176 | Jessica Kaye DeAguero |
 | 352 | 176 | Trisha Gallagher |
 | 353 | 176 | Jennifer Malloy - Cardy |
-| 354 | 176 | Trisha Gallagher |
+| 354 | 176 | Neko Preston |
 | 355 | 175 | Shandrica Lowe |
 | 356 | 175 | Tina Blessed Cage |
 | 357 | 174 | Jason Garnatz |
@@ -436,12 +436,12 @@
 | 428 | 150 | Hong Tang |
 | 429 | 149 | Boldy Cascadepiece |
 | 430 | 149 | Leslie Porter |
-| 431 | 149 | Boldy Cascadepiece |
+| 431 | 149 | JacJac |
 | 432 | 148 | Shannon Byrd |
 | 433 | 147 | Juliana Marques Do Nascimento Gordy |
 | 434 | 146 | Sherry Aguinaga |
-| 435 | 145 | William Hughes |
-| 436 | 145 | Scott Rackley |
+| 435 | 145 | Scott Rackley |
+| 436 | 145 | William Hughes |
 | 437 | 145 | Catina Hutchison |
 | 438 | 144 | Alexis Richardson |
 | 439 | 144 | Kyle LeRoy Harris |
@@ -457,8 +457,8 @@
 | 449 | 141 | Erika Meaux |
 | 450 | 141 | Markisha Poyndexter |
 | 451 | 140 | King Shamell Young |
-| 452 | 140 | Preya Patel |
-| 453 | 140 | Kimberly Ann |
+| 452 | 140 | Kimberly Ann |
+| 453 | 140 | Preya Patel |
 | 454 | 139 | Jackson Smith |
 | 455 | 139 | Octavio Garza |
 | 456 | 138 | Gursharan Sandhu |

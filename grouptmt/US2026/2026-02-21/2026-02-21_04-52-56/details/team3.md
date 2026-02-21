@@ -222,14 +222,14 @@
 | 214 | 85 | Chris Bell |
 | 215 | 84 | Amanda L Baker |
 | 216 | 84 | Ava Petito |
-| 217 | 84 | Amanda L Baker |
+| 217 | 84 | Flashy Rumbler |
 | 218 | 83 | Michael Nowogorski |
 | 219 | 82 | Stephanie Whitefield |
 | 220 | 82 | Crystel b520 |
 | 221 | 81 | Tina Baurdau |
-| 222 | 80 | Oliver Neal II |
-| 223 | 80 | Vixen Queen |
-| 224 | 79 | gremicx |
+| 222 | 80 | Vixen Queen |
+| 223 | 80 | Oliver Neal II |
+| 224 | 79 | Jessie Chung |
 | 225 | 79 | Bleu Sun Beams |
 | 226 | 79 | Rania Zaqout |
 | 227 | 79 | gremicx |
@@ -250,7 +250,7 @@
 | 242 | 76 | Melissa Orth Hunter |
 | 243 | 76 | Kammy Hill |
 | 244 | 76 | Kaitie Oliver |
-| 245 | 76 | Crystal Woodward |
+| 245 | 76 | Rima Mackelburger |
 | 246 | 76 | Blocked |
 | 247 | 76 | Crystal Woodward |
 | 248 | 75 | Jack Bo |
