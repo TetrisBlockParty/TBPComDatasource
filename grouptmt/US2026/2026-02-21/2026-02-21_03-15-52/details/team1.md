@@ -95,8 +95,8 @@
 | 87 | 105 | Barry Mac'Ockner |
 | 88 | 105 | Flashy Rotator |
 | 89 | 100 | Ash Galvan |
-| 90 | 99 | Ty Brown |
-| 91 | 99 | Bhelle Sumile |
+| 90 | 99 | Bhelle Sumile |
+| 91 | 99 | Ty Brown |
 | 92 | 98 | Gary Gobin |
 | 93 | 97 | Melissa Bires Hussar |
 | 94 | 96 | Melissa Lemmon |
@@ -105,10 +105,10 @@
 | 97 | 95 | Spunky Piecebuilder |
 | 98 | 95 | Chad Atchley |
 | 99 | 94 | Bindi |
-| 100 | 93 | Loony Fitzone |
-| 101 | 93 | Adryane Schnase |
-| 102 | 90 | Madison Wicks |
-| 103 | 90 | TSwag |
+| 100 | 93 | Adryane Schnase |
+| 101 | 93 | Loony Fitzone |
+| 102 | 90 | TSwag |
+| 103 | 90 | Madison Wicks |
 | 104 | 87 | Jessi Sauer |
 | 105 | 86 | Desiree Deschaine Havee |
 | 106 | 86 | Basment Living |

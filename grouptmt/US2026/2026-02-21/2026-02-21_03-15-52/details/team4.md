@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Kimberly Love |
-| 23 | 300 | Johnathan Martinez |
+| 22 | 300 | Johnathan Martinez |
+| 23 | 300 | Kimberly Love |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 277 | KJ Pool |
@@ -63,8 +63,8 @@
 | 55 | 125 | Lauren Scott |
 | 56 | 124 | Jay28 |
 | 57 | 123 | Nugget |
-| 58 | 122 | Shelly Chandler |
-| 59 | 122 | Sherri |
+| 58 | 122 | Sherri |
+| 59 | 122 | Shelly Chandler |
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Zany Shatterer |
