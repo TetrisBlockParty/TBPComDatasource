@@ -60,8 +60,8 @@
 | 52 | 169 | Erez Yosef |
 | 53 | 163 | Chad Atchley |
 | 54 | 161 | Abbey Crespo |
-| 55 | 155 | David DeSantis |
-| 56 | 155 | Standia Civil |
+| 55 | 155 | Standia Civil |
+| 56 | 155 | David DeSantis |
 | 57 | 154 | Sweet Baker |
 | 58 | 151 | Hyper |
 | 59 | 150 | Rico Rico |
@@ -131,8 +131,8 @@
 | 123 | 83 | Cody Gates |
 | 124 | 81 | Alenoush Karimian |
 | 125 | 81 | Bob |
-| 126 | 80 | pjbeta |
-| 127 | 80 | Larry Tilton |
+| 126 | 80 | Larry Tilton |
+| 127 | 80 | pjbeta |
 | 128 | 80 | Matt Cinelli |
 | 129 | 79 | LD1 |
 | 130 | 79 | Evie Khalil |
@@ -142,8 +142,8 @@
 | 134 | 77 | Kellie |
 | 135 | 77 | Teddy Alexander |
 | 136 | 76 | Archie Ware |
-| 137 | 76 | Kerry Lee Powell |
-| 138 | 76 | Fmp |
+| 137 | 76 | Fmp |
+| 138 | 76 | Kerry Lee Powell |
 | 139 | 75 | Fresno Beotoni |
 | 140 | 75 | Tyler L Hunt |
 | 141 | 75 | Witty Builderfit |

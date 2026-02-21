@@ -45,8 +45,8 @@
 | 37 | 201 | Alyssa Papen |
 | 38 | 198 | Mike Solo |
 | 39 | 197 | Autum Leigh |
-| 40 | 194 | Jamie Mann-Deichmann |
-| 41 | 194 | Rachel Anne |
+| 40 | 194 | Rachel Anne |
+| 41 | 194 | Jamie Mann-Deichmann |
 | 42 | 190 | Brittney Orengo |
 | 43 | 185 | loulou |
 | 44 | 179 | Epic Curvetile |
@@ -65,8 +65,8 @@
 | 57 | 134 | Jessica Bohlken |
 | 58 | 133 | Robin Watters |
 | 59 | 132 | Jenna McGeorge |
-| 60 | 131 | Jay28 |
-| 61 | 131 | Dustee Craddock-Harrison |
+| 60 | 131 | Dustee Craddock-Harrison |
+| 61 | 131 | Jay28 |
 | 62 | 130 | Casey Jeffcoat |
 | 63 | 125 | Lauren Scott |
 | 64 | 123 | Nugget |
