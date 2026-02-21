@@ -633,8 +633,8 @@
 | 625 | 41 | D3TROITB0RN74 |
 | 626 | 41 | Jarred Falls |
 | 627 | 41 | MoP11 |
-| 628 | 41 | Juicee |
-| 629 | 41 | Kenna Gunderland |
+| 628 | 41 | Kenna Gunderland |
+| 629 | 41 | Juicee |
 | 630 | 40 | Alexis Kelly |
 | 631 | 40 | @ |
 | 632 | 40 | Somnium Era |

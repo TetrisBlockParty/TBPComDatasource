@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
@@ -78,8 +78,8 @@
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
 | 72 | 539 | Brandon Green |
-| 73 | 536 | Giddy Drop |
-| 74 | 536 | Joey Banks |
+| 73 | 536 | Joey Banks |
+| 74 | 536 | Giddy Drop |
 | 75 | 533 | Sarah Fehring |
 | 76 | 526 | Cynthia Castros-Hampton |
 | 77 | 510 | Dave Herzog |
@@ -176,13 +176,13 @@
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
-| 171 | 237 | Brandon Givens |
-| 172 | 237 | Rebecca Funderburk Kirby |
+| 171 | 237 | Rebecca Funderburk Kirby |
+| 172 | 237 | Brandon Givens |
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
-| 176 | 228 | Morgan Martinez |
-| 177 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 176 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 177 | 228 | Morgan Martinez |
 | 178 | 226 | Grego Daniel |
 | 179 | 224 | Nicole Myers |
 | 180 | 223 | Jeana Gilbert |

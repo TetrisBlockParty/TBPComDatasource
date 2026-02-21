@@ -184,8 +184,8 @@
 | 176 | 705 | Roger Grabbit |
 | 177 | 703 | Debra Williams |
 | 178 | 700 | Vincent Petrella |
-| 179 | 700 | Beverly Owens |
-| 180 | 700 | Rosemadder |
+| 179 | 700 | Rosemadder |
+| 180 | 700 | Beverly Owens |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
 | 183 | 692 | Wendy Harder Gage |
@@ -200,8 +200,8 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 661 | Claire Noland |
 | 199 | 660 | Bussyiano Page |
@@ -278,7 +278,7 @@
 | 270 | 504 | Gene Mills |
 | 271 | 504 | Cherica Taylor |
 | 272 | 503 | Matt Johnson |
-| 273 | 502 | Poppy Snap |
+| 273 | 502 | Magic steve |
 | 274 | 502 | Sparkles |
 | 275 | 502 | Poppy Snap |
 | 276 | 500 | Glitzy Stackzone |

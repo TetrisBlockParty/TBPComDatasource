@@ -73,8 +73,8 @@
 | 65 | 368 | Tdub |
 | 66 | 364 | Jacqueline Williams |
 | 67 | 359 | Nerdy Linkblock |
-| 68 | 348 | Stef Hu |
-| 69 | 348 | Trina Gee |
+| 68 | 348 | Trina Gee |
+| 69 | 348 | Stef Hu |
 | 70 | 347 | pjbeta |
 | 71 | 338 | Stephanie Zahn |
 | 72 | 337 | Tipsy Strikerpiece |
@@ -129,16 +129,16 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | Giggly Builderline |
-| 125 | 203 | GATOR |
+| 124 | 203 | GATOR |
+| 125 | 203 | Giggly Builderline |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
 | 129 | 194 | Ash Galvan |
 | 130 | 194 | Tyler Werts |
 | 131 | 193 | Lachelle Dillon |
-| 132 | 192 | Jessica Sheehan |
-| 133 | 192 | Shaykmia |
+| 132 | 192 | Shaykmia |
+| 133 | 192 | Jessica Sheehan |
 | 134 | 191 | Diane Byrd |
 | 135 | 190 | Sweetts |
 | 136 | 190 | Thorne Shumate |
@@ -154,8 +154,8 @@
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Chad Atchley |
 | 148 | 178 | Shiny Gridmatch |
-| 149 | 177 | Irual Hctrab |
-| 150 | 177 | ParisandCory Champagne |
+| 149 | 177 | ParisandCory Champagne |
+| 150 | 177 | Irual Hctrab |
 | 151 | 175 | John Barron |
 | 152 | 171 | femmefatale |
 | 153 | 171 | David DeSantis |
@@ -165,8 +165,8 @@
 | 157 | 169 | Abbey Crespo |
 | 158 | 168 | Standia Civil |
 | 159 | 167 | Erin Hodges Plumb |
-| 160 | 166 | Katie Daniels |
-| 161 | 166 | Rico Rico |
+| 160 | 166 | Rico Rico |
+| 161 | 166 | Katie Daniels |
 | 162 | 165 | Nadine Velardo |
 | 163 | 163 | Tyler Whitley |
 | 164 | 163 | Jenny Gingrich Fuentes |
@@ -198,16 +198,16 @@
 | 190 | 139 | Mel Hogan |
 | 191 | 139 | Barry Mac'Ockner |
 | 192 | 138 | Death |
-| 193 | 137 | Witty Builderfit |
-| 194 | 137 | Cody Gates |
+| 193 | 137 | Cody Gates |
+| 194 | 137 | Witty Builderfit |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Giddy Cascade |
 | 197 | 135 | Aimee Horton |
 | 198 | 135 | Tipsy Riseclear |
 | 199 | 135 | Guest |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Kimberly Garcia |
-| 202 | 133 | Fmp |
+| 201 | 133 | Fmp |
+| 202 | 133 | Kimberly Garcia |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
 | 205 | 130 | Gilbert Ortiz Jr. |
