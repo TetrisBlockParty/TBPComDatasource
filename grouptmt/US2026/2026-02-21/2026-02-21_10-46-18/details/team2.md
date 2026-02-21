@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Kaylee McCafferty |
-| 144 | 515 | Real Ri |
+| 143 | 515 | Real Ri |
+| 144 | 515 | Kaylee McCafferty |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -218,8 +218,8 @@
 | 210 | 358 | Smashanator |
 | 211 | 357 | Shannon Byrd |
 | 212 | 356 | Deyawn Smith |
-| 213 | 354 | Brave Dropmatch |
-| 214 | 354 | Tracy Wise |
+| 213 | 354 | Tracy Wise |
+| 214 | 354 | Brave Dropmatch |
 | 215 | 353 | Joseph Musick |
 | 216 | 352 | ruth |
 | 217 | 350 | Chris Harr |
@@ -362,8 +362,8 @@
 | 354 | 236 | Julio A Laracuente |
 | 355 | 236 | Niceday |
 | 356 | 235 | Kimberly Mitchell |
-| 357 | 234 | Manny Trindade |
-| 358 | 234 | Jennifer Leigh |
+| 357 | 234 | Jennifer Leigh |
+| 358 | 234 | Manny Trindade |
 | 359 | 234 | Jaybee Nguyen |
 | 360 | 233 | Robin Kerby |
 | 361 | 233 | Jumpy Gridclear |
@@ -430,12 +430,12 @@
 | 422 | 193 | Kelly Ann McCormick |
 | 423 | 193 | Alishac Marie |
 | 424 | 191 | Lauren Fitzgerald Thomas |
-| 425 | 191 | John Quiring |
-| 426 | 191 | Deana |
+| 425 | 191 | Deana |
+| 426 | 191 | John Quiring |
 | 427 | 190 | Jessica Kaye DeAguero |
 | 428 | 190 | Layna Lyons |
-| 429 | 188 | Seth Wrieden |
-| 430 | 188 | Michael Artis |
+| 429 | 188 | Michael Artis |
+| 430 | 188 | Seth Wrieden |
 | 431 | 188 | Justin Hines |
 | 432 | 187 | Stefanie Zonzini-Gagliardi |
 | 433 | 186 | Joshua Mullings |
@@ -460,7 +460,7 @@
 | 452 | 179 | Desiree Harris Rosch |
 | 453 | 179 | Bette Prieto |
 | 454 | 179 | Cat |
-| 455 | 179 | Bette Prieto |
+| 455 | 179 | Lively Catcher |
 | 456 | 178 | Michelle Shrum |
 | 457 | 177 | Facuetoo |
 | 458 | 177 | Angel |
@@ -479,8 +479,8 @@
 | 471 | 173 | Robin |
 | 472 | 173 | kippykay |
 | 473 | 173 | Ocean-Brianna McGregor |
-| 474 | 172 | Byung Bae Park |
-| 475 | 172 | Twisty Tetriblast |
+| 474 | 172 | Twisty Tetriblast |
+| 475 | 172 | Byung Bae Park |
 | 476 | 171 | William Hunt |
 | 477 | 171 | Cappin You |
 | 478 | 170 | Dedra Steward |
@@ -489,8 +489,8 @@
 | 481 | 169 | Eddie Perez |
 | 482 | 168 | Phil J. Grombliniak |
 | 483 | 168 | Kati Russeau |
-| 484 | 167 | mshir |
-| 485 | 167 | Sabrena Yeisley |
+| 484 | 167 | Sabrena Yeisley |
+| 485 | 167 | mshir |
 | 486 | 166 | suuny |
 | 487 | 165 | Tara Lynn Janes |
 | 488 | 165 | Cathy Bitters |
@@ -640,8 +640,8 @@
 | 632 | 133 | Candy Pitts |
 | 633 | 133 | JinxxedMozzerella |
 | 634 | 133 | candy |
-| 635 | 133 | Rae Rae |
-| 636 | 133 | Epic Stackzone |
+| 635 | 133 | Epic Stackzone |
+| 636 | 133 | Rae Rae |
 | 637 | 132 | Mr. Street Stack |
 | 638 | 132 | Chilly Rollblock |
 | 639 | 132 | Samie Dayle |
@@ -746,11 +746,11 @@
 | 738 | 116 | BeenRich Theceo |
 | 739 | 116 | Moua Ying |
 | 740 | 116 | Meganator42 |
-| 741 | 116 | Moua Ying |
+| 741 | 116 | Slimkaite |
 | 742 | 115 | Melissa Schwager |
 | 743 | 115 | Angela KaplaSchwahn |
-| 744 | 115 | AsnPryBoy83 |
-| 745 | 115 | Fae-Bulous |
+| 744 | 115 | Fae-Bulous |
+| 745 | 115 | AsnPryBoy83 |
 | 746 | 114 | Melissa Maples |
 | 747 | 114 | James Louie |
 | 748 | 114 | Juan Castillo |

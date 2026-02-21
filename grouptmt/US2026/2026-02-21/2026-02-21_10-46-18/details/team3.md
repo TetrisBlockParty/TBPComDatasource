@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
 | 85 | 307 | Peggi Charon |
 | 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -114,8 +114,8 @@
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Kristie McFarland |
-| 110 | 212 | Shunta Jacobs |
+| 109 | 212 | Shunta Jacobs |
+| 110 | 212 | Kristie McFarland |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -133,8 +133,8 @@
 | 125 | 191 | Scott Carleton |
 | 126 | 189 | Fallorina Susana |
 | 127 | 184 | Jennie Beranek |
-| 128 | 182 | Ashley Tookes |
-| 129 | 182 | Hyper Matchzone |
+| 128 | 182 | Hyper Matchzone |
+| 129 | 182 | Ashley Tookes |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
 | 132 | 178 | Khaleada McGill Banks |
@@ -349,8 +349,8 @@
 | 341 | 73 | Nerdy Wipeout |
 | 342 | 73 | Loopy Fallmatch |
 | 343 | 73 | Elyse Grabowsky |
-| 344 | 72 | Gimmegimmebeer |
-| 345 | 72 | Alexsandran Valdivia |
+| 344 | 72 | Alexsandran Valdivia |
+| 345 | 72 | Gimmegimmebeer |
 | 346 | 72 | Jodi Kaczynski-O'Dowd |
 | 347 | 71 | Julia Nicole |
 | 348 | 71 | Amber Groover Taylor |

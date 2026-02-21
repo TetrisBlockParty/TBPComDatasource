@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Stef Hu |
-| 33 | 348 | Chipper Gridlock |
+| 32 | 348 | Chipper Gridlock |
+| 33 | 348 | Stef Hu |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -93,8 +93,8 @@
 | 85 | 162 | Patrick Luckenbill |
 | 86 | 161 | Abbey Crespo |
 | 87 | 156 | Jessie Lynn |
-| 88 | 155 | Standia Civil |
-| 89 | 155 | David DeSantis |
+| 88 | 155 | David DeSantis |
+| 89 | 155 | Standia Civil |
 | 90 | 153 | Shiny Gridmatch |
 | 91 | 152 | Jacqueline Unique |
 | 92 | 149 | Arianna O'Brien |
