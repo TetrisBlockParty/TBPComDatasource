@@ -44,8 +44,8 @@
 | 36 | 835 | Shonna Roberts |
 | 37 | 821 | Jessica Ann |
 | 38 | 811 | Corie A. Brinson |
-| 39 | 810 | Zippy Strikesnap |
-| 40 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Shane Wilson Jr. |
+| 40 | 810 | Zippy Strikesnap |
 | 41 | 733 | Chummy Shatterer |
 | 42 | 702 | Stephanie Allmon |
 | 43 | 687 | Jennie Beranek |
@@ -156,10 +156,10 @@
 | 148 | 212 | Krystal Gerstberger |
 | 149 | 211 | Katrina Schroeder |
 | 150 | 210 | Jenny Hrndz |
-| 151 | 207 | Nicole Myers |
-| 152 | 207 | Jessica |
-| 153 | 207 | rnr junky |
-| 154 | 207 | Chris Bell |
+| 151 | 207 | Jessica |
+| 152 | 207 | Chris Bell |
+| 153 | 207 | Nicole Myers |
+| 154 | 207 | rnr junky |
 | 155 | 204 | Rochelle Hazelett |
 | 156 | 203 | Twisty Brick LT |
 | 157 | 202 | Nikki Pags |
@@ -257,8 +257,8 @@
 | 249 | 128 | MizzMonick Smith |
 | 250 | 128 | Jen Lewis |
 | 251 | 128 | Cesar Barraza |
-| 252 | 126 | April Matthew Kibble |
-| 253 | 126 | Pam Holt Powell |
+| 252 | 126 | Pam Holt Powell |
+| 253 | 126 | April Matthew Kibble |
 | 254 | 126 | RickyG |
 | 255 | 125 | Shimika Enay Wallace |
 | 256 | 125 | Felicia Doxey |
@@ -445,7 +445,7 @@
 | 437 | 75 | Jack Bo |
 | 438 | 75 | MistyDawn |
 | 439 | 75 | Jessica Rose-Morgan |
-| 440 | 74 | Victoria Wangler Lewis |
+| 440 | 74 | Reesiecup93 |
 | 441 | 74 | gravelgrinder |
 | 442 | 74 | Victoria Wangler Lewis |
 | 443 | 74 | AL Cab |

@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Jae Job |
-| 80 | 215 | Alyssa Papen |
+| 79 | 215 | Alyssa Papen |
+| 80 | 215 | Jae Job |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -113,11 +113,11 @@
 | 105 | 178 | Lori |
 | 106 | 177 | Andria Lynn |
 | 107 | 174 | Zethra Prenisha Rahming |
-| 108 | 173 | blockstar |
-| 109 | 173 | Ren Mc |
+| 108 | 173 | Ren Mc |
+| 109 | 173 | blockstar |
 | 110 | 171 | Denise Carlson |
-| 111 | 170 | Peachy Fall |
-| 112 | 170 | Girl |
+| 111 | 170 | Girl |
+| 112 | 170 | Peachy Fall |
 | 113 | 164 | ThaEviLJeNiuZ |
 | 114 | 160 | Stacey Stano |
 | 115 | 160 | ZeeZee |
