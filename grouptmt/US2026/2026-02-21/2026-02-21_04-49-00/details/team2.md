@@ -131,8 +131,8 @@
 | 123 | 455 | Alicia Parrish |
 | 124 | 453 | Osun Anuket Esu |
 | 125 | 450 | Giggy Blocker |
-| 126 | 448 | Jojo Momma |
-| 127 | 448 | Nick Jensen |
+| 126 | 448 | Nick Jensen |
+| 127 | 448 | Jojo Momma |
 | 128 | 447 | Butta |
 | 129 | 442 | Daphne Jordan |
 | 130 | 440 | BYM4L |

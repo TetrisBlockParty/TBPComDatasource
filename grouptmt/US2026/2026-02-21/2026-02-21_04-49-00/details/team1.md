@@ -67,8 +67,8 @@
 | 59 | 163 | Chad Atchley |
 | 60 | 161 | Abbey Crespo |
 | 61 | 159 | Happy Snapbuild |
-| 62 | 155 | Standia Civil |
-| 63 | 155 | David DeSantis |
+| 62 | 155 | David DeSantis |
+| 63 | 155 | Standia Civil |
 | 64 | 152 | Jacqueline Unique |
 | 65 | 150 | Rico Rico |
 | 66 | 148 | Jessie Lynn |
@@ -85,10 +85,10 @@
 | 77 | 133 | Brandi Huntington |
 | 78 | 132 | Davery Spencer Adair |
 | 79 | 130 | Dandy Basegrid |
-| 80 | 129 | Trina Gee |
-| 81 | 129 | femmefatale |
-| 82 | 128 | Uhog SF |
-| 83 | 128 | Gary Gobin |
+| 80 | 129 | femmefatale |
+| 81 | 129 | Trina Gee |
+| 82 | 128 | Gary Gobin |
+| 83 | 128 | Uhog SF |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Irual Hctrab |
@@ -119,8 +119,8 @@
 | 111 | 96 | Melissa Lemmon |
 | 112 | 96 | Nery Martinez |
 | 113 | 95 | Spunky Piecebuilder |
-| 114 | 94 | Bindi |
-| 115 | 94 | Luciano Moreira |
+| 114 | 94 | Luciano Moreira |
+| 115 | 94 | Bindi |
 | 116 | 93 | Aimee Horton |
 | 117 | 93 | Loony Fitzone |
 | 118 | 92 | Jessica Russell |
@@ -166,9 +166,9 @@
 | 158 | 73 | Shiny Gridmatch |
 | 159 | 72 | Tipsy Strikerpiece |
 | 160 | 71 | John Kim |
-| 161 | 70 | Seth Wesson |
+| 161 | 70 | Cynthia Bradley |
 | 162 | 70 | Daring Fitclear |
-| 163 | 70 | Cynthia Bradley |
+| 163 | 70 | Seth Wesson |
 | 164 | 69 | Christina Torres |
 | 165 | 69 | Mara Hilker |
 | 166 | 68 | Unelanuhi Belladonna Mystikal Bomar |
