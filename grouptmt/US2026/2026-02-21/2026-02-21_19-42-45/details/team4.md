@@ -85,8 +85,8 @@
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
 | 79 | 232 | Jae Job |
-| 80 | 230 | Autum Leigh |
-| 81 | 230 | Lucas J Sutton |
+| 80 | 230 | Lucas J Sutton |
+| 81 | 230 | Autum Leigh |
 | 82 | 224 | H.R. Block |
 | 83 | 221 | Alyssa Papen |
 | 84 | 220 | Joeliecea Cobb |
@@ -98,11 +98,11 @@
 | 90 | 210 | Damn Libra |
 | 91 | 205 | Sarah Neathery |
 | 92 | 204 | Brittney Orengo |
-| 93 | 202 | Monica Daley |
-| 94 | 202 | shar |
+| 93 | 202 | shar |
+| 94 | 202 | Monica Daley |
 | 95 | 200 | Holly Jolly |
-| 96 | 198 | Denise Carlson |
-| 97 | 198 | Mike Solo |
+| 96 | 198 | Mike Solo |
+| 97 | 198 | Denise Carlson |
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
@@ -118,8 +118,8 @@
 | 110 | 185 | Andy Cabral |
 | 111 | 181 | Andria Lynn |
 | 112 | 181 | Carter Jones |
-| 113 | 180 | Justin Hannigan |
-| 114 | 180 | Leah Kutz Zirbel |
+| 113 | 180 | Leah Kutz Zirbel |
+| 114 | 180 | Justin Hannigan |
 | 115 | 179 | Epic Curvetile |
 | 116 | 178 | Lori |
 | 117 | 176 | Stacey Stano |
@@ -138,8 +138,8 @@
 | 130 | 156 | Jessica Bohlken |
 | 131 | 156 | Holly |
 | 132 | 153 | Empress Oasis |
-| 133 | 151 | Bethany Ison |
-| 134 | 151 | Dana Scott |
+| 133 | 151 | Dana Scott |
+| 134 | 151 | Bethany Ison |
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
@@ -211,8 +211,8 @@
 | 203 | 111 | Kristin MacDonald |
 | 204 | 110 | Amy Suckarieh |
 | 205 | 109 | Chaz |
-| 206 | 108 | Shane Kalamata Platoon |
-| 207 | 108 | Ali Ian |
+| 206 | 108 | Ali Ian |
+| 207 | 108 | Shane Kalamata Platoon |
 | 208 | 107 | Rafael Valentin |
 | 209 | 106 | Shukee Lo |
 | 210 | 106 | Zappy Snaplink |

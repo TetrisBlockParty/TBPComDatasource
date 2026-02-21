@@ -175,8 +175,8 @@
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
 | 169 | 197 | Staci George Fitzsimmons |
-| 170 | 195 | Nicha Hooker |
-| 171 | 195 | Michael Lucado |
+| 170 | 195 | Michael Lucado |
+| 171 | 195 | Nicha Hooker |
 | 172 | 194 | glichmod |
 | 173 | 193 | Duane Bright |
 | 174 | 193 | Stephanie Burtin |

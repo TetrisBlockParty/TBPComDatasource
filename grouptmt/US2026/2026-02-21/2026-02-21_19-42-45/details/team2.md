@@ -438,8 +438,8 @@
 | 430 | 303 | Angie Marie |
 | 431 | 302 | Shorty |
 | 432 | 301 | Claire |
-| 433 | 299 | Ann Knutson Anderson |
-| 434 | 299 | Diallo Sparkman |
+| 433 | 299 | Diallo Sparkman |
+| 434 | 299 | Ann Knutson Anderson |
 | 435 | 299 | Megan Phillips |
 | 436 | 298 | RetroLemur |
 | 437 | 298 | Snappy Shatterfit |
@@ -476,8 +476,8 @@
 | 468 | 277 | Anthony Mignacca |
 | 469 | 276 | Vonceial Boone |
 | 470 | 276 | Lindsey Leigh |
-| 471 | 274 | August Hale |
-| 472 | 274 | Jamie Stevey |
+| 471 | 274 | Jamie Stevey |
+| 472 | 274 | August Hale |
 | 473 | 274 | Michelle Sager |
 | 474 | 273 | Jenna Nance |
 | 475 | 273 | Candy Pitts |
