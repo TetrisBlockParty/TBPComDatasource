@@ -154,9 +154,9 @@
 | 146 | 241 | Sabrina Burton |
 | 147 | 240 | Adam Erikson |
 | 148 | 239 | Tee Jaleesa |
-| 149 | 238 | Steven Marshaun |
+| 149 | 238 | Cheech Dta |
 | 150 | 238 | Ann Matzkanin |
-| 151 | 238 | Cheech Dta |
+| 151 | 238 | Steven Marshaun |
 | 152 | 238 | Dany Murillo |
 | 153 | 236 | Frisky Riserbuilder |
 | 154 | 233 | Bubbly Snapfit |

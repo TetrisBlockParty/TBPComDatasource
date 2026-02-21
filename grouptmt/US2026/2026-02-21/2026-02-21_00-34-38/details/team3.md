@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Shunta Jacobs |
@@ -74,8 +74,8 @@
 | 66 | 152 | Shannon Matthew Byers |
 | 67 | 152 | Shiny Zonebuilder |
 | 68 | 147 | Trisha Balmer |
-| 69 | 143 | ren |
-| 70 | 143 | rosy |
+| 69 | 143 | rosy |
+| 70 | 143 | ren |
 | 71 | 141 | Denita Mungro |
 | 72 | 135 | Latoya Mayne |
 | 73 | 135 | Nicole Flippo |
@@ -133,8 +133,8 @@
 | 125 | 88 | Martin Bernier |
 | 126 | 88 | Funky Jumper |
 | 127 | 86 | Dan Rob |
-| 128 | 84 | Eon Harris |
-| 129 | 84 | Ava Petito |
+| 128 | 84 | Ava Petito |
+| 129 | 84 | Eon Harris |
 | 130 | 83 | Kevin Russell |
 | 131 | 83 | LaTanya GeminiondaRise Johnson |
 | 132 | 82 | Clever Clearbuilder |
@@ -181,8 +181,8 @@
 | 173 | 64 | Leticia Lynn Lowe |
 | 174 | 64 | Lush Risebuilder |
 | 175 | 63 | Eileen Brady Thurber |
-| 176 | 63 | BugMansMom |
-| 177 | 63 | Hasty Wipebuilder |
+| 176 | 63 | Hasty Wipebuilder |
+| 177 | 63 | BugMansMom |
 | 178 | 62 | Bekah Dietrich |
 | 179 | 62 | Melissa Snyder |
 | 180 | 61 | Rebel124 |
