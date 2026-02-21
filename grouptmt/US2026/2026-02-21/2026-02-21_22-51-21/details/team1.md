@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Cody Slav |
-| 45 | 503 | Redlicious 1 |
+| 44 | 503 | Redlicious 1 |
+| 45 | 503 | Cody Slav |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -126,11 +126,11 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
-| 124 | 194 | Ash Galvan |
-| 125 | 194 | Tyler Werts |
+| 124 | 194 | Tyler Werts |
+| 125 | 194 | Ash Galvan |
 | 126 | 193 | Lachelle Dillon |
 | 127 | 192 | Shaykmia |
 | 128 | 192 | Jessica Sheehan |
@@ -188,14 +188,14 @@
 | 180 | 142 | Colleen Wise |
 | 181 | 141 | Dino |
 | 182 | 141 | Blaire Bruckoff |
-| 183 | 139 | Flashy Rotator |
-| 184 | 139 | Jenny Gingrich Fuentes |
+| 183 | 139 | Jenny Gingrich Fuentes |
+| 184 | 139 | Flashy Rotator |
 | 185 | 138 | Death |
-| 186 | 137 | Witty Builderfit |
-| 187 | 137 | Cody Gates |
+| 186 | 137 | Cody Gates |
+| 187 | 137 | Witty Builderfit |
 | 188 | 136 | Breanna Luna |
-| 189 | 135 | Guest |
-| 190 | 135 | Giddy Cascade |
+| 189 | 135 | Giddy Cascade |
+| 190 | 135 | Guest |
 | 191 | 135 | Aimee Horton |
 | 192 | 134 | Brave Wrecker |
 | 193 | 133 | Kimberly Garcia |
@@ -278,8 +278,8 @@
 | 270 | 97 | Steve Bomkamp |
 | 271 | 97 | Josh Smith |
 | 272 | 96 | Nutty Spinblock |
-| 273 | 96 | Bob |
-| 274 | 96 | Sarah Henniker |
+| 273 | 96 | Sarah Henniker |
+| 274 | 96 | Bob |
 | 275 | 95 | Jeanna Dunn |
 | 276 | 94 | Mitchel White |
 | 277 | 93 | Dandy Towerbuilder |

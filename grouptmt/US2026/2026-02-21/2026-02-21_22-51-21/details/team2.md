@@ -472,11 +472,11 @@
 | 464 | 318 | Jane Crew |
 | 465 | 317 | Zombi3 |
 | 466 | 317 | snkylnk |
-| 467 | 316 | Mikayala Szaz |
-| 468 | 316 | Gloria Ininahazwe |
+| 467 | 316 | Gloria Ininahazwe |
+| 468 | 316 | Mikayala Szaz |
 | 469 | 315 | Ryan Meilleur |
-| 470 | 314 | Amanda West |
-| 471 | 314 | Party d |
+| 470 | 314 | Party d |
+| 471 | 314 | Amanda West |
 | 472 | 314 | James Zaragoza |
 | 473 | 312 | Michelle Pike |
 | 474 | 312 | Andrea Maher |
@@ -485,11 +485,11 @@
 | 477 | 310 | Sharon Mills |
 | 478 | 308 | Ann Knutson Anderson |
 | 479 | 308 | Christina Jarvis-Swarbrick |
-| 480 | 307 | Kitybox |
-| 481 | 307 | Diallo Sparkman |
+| 480 | 307 | Diallo Sparkman |
+| 481 | 307 | Kitybox |
 | 482 | 305 | Zany Clusterbuilder |
-| 483 | 305 | Samantha Scibelli |
-| 484 | 305 | Claire |
+| 483 | 305 | Claire |
+| 484 | 305 | Samantha Scibelli |
 | 485 | 305 | Libby Hicks |
 | 486 | 304 | Michelle Shrum |
 | 487 | 304 | Sam Joe |
