@@ -74,8 +74,8 @@
 | 66 | 216 | Dee Perry |
 | 67 | 212 | Jaimie Lynn |
 | 68 | 211 | Marianita Garcia |
-| 69 | 208 | Carrie Beck Geartz |
-| 70 | 208 | Mandyy Rae |
+| 69 | 208 | Mandyy Rae |
+| 70 | 208 | Carrie Beck Geartz |
 | 71 | 205 | Trippy Redd |
 | 72 | 204 | Ly Phethmany |
 | 73 | 204 | Lexuriuos Lifestlye |
@@ -102,8 +102,8 @@
 | 94 | 171 | Greg Premoe |
 | 95 | 168 | Redlicious 1 |
 | 96 | 166 | Rico Rico |
-| 97 | 165 | Veronica Eve |
-| 98 | 165 | GATOR |
+| 97 | 165 | GATOR |
+| 98 | 165 | Veronica Eve |
 | 99 | 163 | Chad Atchley |
 | 100 | 162 | Tyler Whitley |
 | 101 | 161 | Abbey Crespo |
@@ -210,7 +210,7 @@
 | 202 | 87 | Jenny Gingrich Fuentes |
 | 203 | 86 | Basment Living |
 | 204 | 85 | John Barron |
-| 205 | 84 | Rachel Nichole Henry |
+| 205 | 84 | Speedy Snapfall |
 | 206 | 84 | Kayla Marie Stevenson |
 | 207 | 84 | Eddie Dillon |
 | 208 | 84 | Rachel Nichole Henry |

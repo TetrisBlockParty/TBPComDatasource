@@ -33,8 +33,8 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Briarblack |
-| 29 | 867 | Delilah belle |
+| 28 | 867 | Delilah belle |
+| 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
 | 32 | 810 | Zippy Strikesnap |
@@ -141,8 +141,8 @@
 | 133 | 195 | Jenny Hrndz |
 | 134 | 194 | glichmod |
 | 135 | 193 | Stephanie Burtin |
-| 136 | 193 | Duane Bright |
-| 137 | 193 | Clever Shiftsnap |
+| 136 | 193 | Clever Shiftsnap |
+| 137 | 193 | Duane Bright |
 | 138 | 192 | Chasity |
 | 139 | 191 | Giddy Twistbuilder |
 | 140 | 191 | Scott Carleton |
@@ -190,8 +190,8 @@
 | 182 | 151 | MsBee |
 | 183 | 151 | Brenda Lee Vander Molen |
 | 184 | 150 | Nicole Myers |
-| 185 | 149 | Desiree Gold |
-| 186 | 149 | Angel Mendez |
+| 185 | 149 | Angel Mendez |
+| 186 | 149 | Desiree Gold |
 | 187 | 149 | Bea Miles |
 | 188 | 149 | Alexis Taylor |
 | 189 | 146 | Carrie Huskey |

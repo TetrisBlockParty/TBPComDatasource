@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -96,8 +96,8 @@
 | 88 | 171 | Melvin Baird |
 | 89 | 170 | Justin Hannigan |
 | 90 | 170 | Girl |
-| 91 | 167 | Denise Carlson |
-| 92 | 167 | Carlton Unfiltered |
+| 91 | 167 | Carlton Unfiltered |
+| 92 | 167 | Denise Carlson |
 | 93 | 165 | Casey Grabner |
 | 94 | 164 | ThaEviLJeNiuZ |
 | 95 | 162 | Shauna Havard |

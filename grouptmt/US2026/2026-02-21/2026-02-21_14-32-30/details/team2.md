@@ -251,8 +251,8 @@
 | 243 | 371 | Kimberly Randesi |
 | 244 | 366 | Wuntayk |
 | 245 | 365 | Christina Lewis-Vickers |
-| 246 | 364 | Brandon Armstrong |
-| 247 | 364 | Shinette Dobson |
+| 246 | 364 | Shinette Dobson |
+| 247 | 364 | Brandon Armstrong |
 | 248 | 363 | William Meussner |
 | 249 | 362 | AkaLefty |
 | 250 | 359 | Brainy Smurf |
@@ -292,8 +292,8 @@
 | 284 | 327 | Juanita Lyons |
 | 285 | 326 | Lawanda Forbes |
 | 286 | 326 | Elisheva Mizrachi |
-| 287 | 323 | Briana Alexander |
-| 288 | 323 | KhaosLord |
+| 287 | 323 | KhaosLord |
+| 288 | 323 | Briana Alexander |
 | 289 | 323 | Trista Dumais |
 | 290 | 322 | Mighty Shatterfit |
 | 291 | 322 | Leslie Ann Carter |
@@ -363,8 +363,8 @@
 | 355 | 275 | Shiny Rollzone |
 | 356 | 275 | Cheeky Brickmatch |
 | 357 | 274 | Lonne Emade |
-| 358 | 274 | Melissa Holsinger |
-| 359 | 274 | Jamie Stevey |
+| 358 | 274 | Jamie Stevey |
+| 359 | 274 | Melissa Holsinger |
 | 360 | 274 | August Hale |
 | 361 | 273 | Vanessa Moreno |
 | 362 | 273 | Ray Ray Prado |
@@ -428,8 +428,8 @@
 | 420 | 236 | Julio A Laracuente |
 | 421 | 236 | snkylnk |
 | 422 | 235 | Kimberly Mitchell |
-| 423 | 234 | Manny Trindade |
-| 424 | 234 | Jennifer Leigh |
+| 423 | 234 | Jennifer Leigh |
+| 424 | 234 | Manny Trindade |
 | 425 | 234 | Jaybee Nguyen |
 | 426 | 233 | Nutty Matchline |
 | 427 | 233 | Daring Matchfit |
