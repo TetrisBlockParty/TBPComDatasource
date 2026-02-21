@@ -61,8 +61,8 @@
 | 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Shunta Jacobs |
-| 57 | 193 | Clever Shiftsnap |
+| 56 | 193 | Clever Shiftsnap |
+| 57 | 193 | Shunta Jacobs |
 | 58 | 187 | Speedy Bridger |
 | 59 | 184 | Jennie Beranek |
 | 60 | 180 | joclisa |
@@ -74,8 +74,8 @@
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
 | 68 | 141 | Denita Mungro |
-| 69 | 135 | Latoya Mayne |
-| 70 | 135 | Danielle Cutler |
+| 69 | 135 | Danielle Cutler |
+| 70 | 135 | Latoya Mayne |
 | 71 | 134 | DanceLuvLaugh |
 | 72 | 130 | Tessina Dewey-Mancino |
 | 73 | 130 | Zippy Strikesnap |
@@ -103,8 +103,8 @@
 | 95 | 107 | Bryan Byrd |
 | 96 | 105 | Hoppy Buildout |
 | 97 | 103 | Brian Battjes |
-| 98 | 102 | Sarah Moyer |
-| 99 | 102 | mommablock |
+| 98 | 102 | mommablock |
+| 99 | 102 | Sarah Moyer |
 | 100 | 101 | Rufus Lincoln |
 | 101 | 101 | Mykal Burton |
 | 102 | 101 | Sabrina Ruth Archuletta-Gauna |
