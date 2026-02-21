@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -374,10 +374,10 @@
 | 366 | 71 | Jacqueline Rodriguez |
 | 367 | 71 | Tasha Gillespie |
 | 368 | 71 | Morgan Cudo |
-| 369 | 71 | LaKisha Legrone |
-| 370 | 71 | Julia Nicole |
+| 369 | 71 | Weerae |
+| 370 | 71 | Katheline Lazo Luizaga |
 | 371 | 71 | Goofy Fall |
-| 372 | 71 | Katheline Lazo Luizaga |
+| 372 | 71 | Julia Nicole |
 | 373 | 70 | Brave Bruno |
 | 374 | 70 | Ruggergamer1 |
 | 375 | 70 | Tammy |

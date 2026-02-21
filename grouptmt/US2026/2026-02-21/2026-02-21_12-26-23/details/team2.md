@@ -115,12 +115,12 @@
 | 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
-| 110 | 649 | Stephanie Chapman |
-| 111 | 649 | Anna Edwards |
+| 110 | 649 | Anna Edwards |
+| 111 | 649 | Stephanie Chapman |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
-| 114 | 631 | Loopy Clusterbuilder |
-| 115 | 631 | Peppy Zone |
+| 114 | 631 | Peppy Zone |
+| 115 | 631 | Loopy Clusterbuilder |
 | 116 | 620 | BYM4L |
 | 117 | 619 | Jamie Otero |
 | 118 | 608 | Sommer Shope |
@@ -215,16 +215,16 @@
 | 207 | 390 | Lylymom |
 | 208 | 386 | Ashie Ann |
 | 209 | 386 | Macy Williams |
-| 210 | 385 | Arwa Fatimah |
-| 211 | 385 | Sam |
+| 210 | 385 | Sam |
+| 211 | 385 | Arwa Fatimah |
 | 212 | 381 | Amanda Ferrell |
 | 213 | 380 | Calandra Shaya Robinson |
 | 214 | 378 | Cody Nishimura |
 | 215 | 377 | Roy Salyer |
 | 216 | 366 | Wuntayk |
 | 217 | 365 | Christina Lewis-Vickers |
-| 218 | 364 | Shinette Dobson |
-| 219 | 364 | Brandon Armstrong |
+| 218 | 364 | Brandon Armstrong |
+| 219 | 364 | Shinette Dobson |
 | 220 | 363 | William Meussner |
 | 221 | 362 | AkaLefty |
 | 222 | 359 | Brainy Smurf |
@@ -232,8 +232,8 @@
 | 224 | 358 | Smashanator |
 | 225 | 357 | Shannon Byrd |
 | 226 | 356 | Deyawn Smith |
-| 227 | 356 | Shameika Trail |
-| 228 | 356 | Kimberly Randesi |
+| 227 | 356 | Kimberly Randesi |
+| 228 | 356 | Shameika Trail |
 | 229 | 354 | Tracy Wise |
 | 230 | 354 | Brave Dropmatch |
 | 231 | 353 | Joseph Musick |
@@ -262,11 +262,11 @@
 | 254 | 323 | Juanita Lyons |
 | 255 | 323 | Briana Alexander |
 | 256 | 318 | Elisheva Mizrachi |
-| 257 | 318 | Trista Dumais |
-| 258 | 318 | Alexandra Weir |
+| 257 | 318 | Alexandra Weir |
+| 258 | 318 | Trista Dumais |
 | 259 | 317 | Heather Westrum |
-| 260 | 317 | bru |
-| 261 | 317 | Zombi3 |
+| 260 | 317 | Zombi3 |
+| 261 | 317 | bru |
 | 262 | 315 | Alisa Lamb |
 | 263 | 314 | Amanda West |
 | 264 | 314 | NanDa Cruzan VI |
@@ -471,9 +471,9 @@
 | 463 | 184 | Theresa Sterrett |
 | 464 | 184 | Regina Unruh |
 | 465 | 183 | Lynzekwi |
-| 466 | 183 | Brenna Ann |
+| 466 | 183 | Wakanda Forever |
 | 467 | 183 | Brandon McDonald |
-| 468 | 183 | Wakanda Forever |
+| 468 | 183 | Brenna Ann |
 | 469 | 182 | Tamara Bailey |
 | 470 | 182 | Donna M Carter |
 | 471 | 182 | Anthony Mignacca |
@@ -817,8 +817,8 @@
 | 809 | 112 | Christina Wsn |
 | 810 | 112 | Leroy Jenkins |
 | 811 | 112 | Aubree Desgranges |
-| 812 | 111 | Jroc |
-| 813 | 111 | Ashley M. Davis |
+| 812 | 111 | Ashley M. Davis |
+| 813 | 111 | Jroc |
 | 814 | 111 | Netty |
 | 815 | 111 | Lively Edgepiece |
 | 816 | 111 | April Bennett |

@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -137,16 +137,16 @@
 | 129 | 118 | Leslie Nicole |
 | 130 | 116 | Stephme310 |
 | 131 | 116 | Diana Houts |
-| 132 | 115 | Ultramarine |
-| 133 | 115 | Jayk |
+| 132 | 115 | Jayk |
+| 133 | 115 | Ultramarine |
 | 134 | 113 | Andria Lynn |
 | 135 | 113 | Adam Randall |
-| 136 | 112 | Austin Owens |
-| 137 | 112 | Brittany Marsh |
-| 138 | 112 | Jackie Marie |
-| 139 | 112 | Bryan Hodgins |
-| 140 | 111 | Lazy Blocker |
-| 141 | 111 | Gwendolyn Pitcairn |
+| 136 | 112 | Bryan Hodgins |
+| 137 | 112 | Jackie Marie |
+| 138 | 112 | Austin Owens |
+| 139 | 112 | Brittany Marsh |
+| 140 | 111 | Gwendolyn Pitcairn |
+| 141 | 111 | Lazy Blocker |
 | 142 | 110 | H.R. Block |
 | 143 | 110 | YoMomma |
 | 144 | 107 | Marcus Todd |
