@@ -42,8 +42,8 @@
 | 34 | 587 | Danielle Becker |
 | 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Snappy Glidepiece |
-| 38 | 546 | Dolores Falco |
+| 37 | 546 | Dolores Falco |
+| 38 | 546 | Snappy Glidepiece |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -130,8 +130,8 @@
 | 122 | 178 | Khaleada McGill Banks |
 | 123 | 176 | Ryan Williams |
 | 124 | 168 | Mendoza Lee Christy |
-| 125 | 166 | Danielle Mogg |
-| 126 | 166 | Kelly Ann Child |
+| 125 | 166 | Kelly Ann Child |
+| 126 | 166 | Danielle Mogg |
 | 127 | 164 | rosy |
 | 128 | 159 | Jone |
 | 129 | 159 | Morgan Martinez |
