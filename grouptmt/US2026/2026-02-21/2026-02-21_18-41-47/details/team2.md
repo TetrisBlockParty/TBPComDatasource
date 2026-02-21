@@ -138,12 +138,12 @@
 | 130 | 720 | Mischelle Clay |
 | 131 | 714 | Ariel |
 | 132 | 709 | Jerilyn Andrina |
-| 133 | 705 | Roger Grabbit |
-| 134 | 705 | Nika Bee |
+| 133 | 705 | Nika Bee |
+| 134 | 705 | Roger Grabbit |
 | 135 | 704 | Nerdy Clearfit |
 | 136 | 700 | Vincent Petrella |
-| 137 | 700 | Rosemadder |
-| 138 | 700 | Beverly Owens |
+| 137 | 700 | Beverly Owens |
+| 138 | 700 | Rosemadder |
 | 139 | 698 | Lola Contreras |
 | 140 | 697 | Real Ri |
 | 141 | 694 | Vo'Landa Reels |
@@ -158,8 +158,8 @@
 | 150 | 664 | Pacynthia Williams |
 | 151 | 659 | Poldo Ilano |
 | 152 | 651 | Unica Rector |
-| 153 | 650 | Shiny Rollzone |
-| 154 | 650 | Claire Noland |
+| 153 | 650 | Claire Noland |
+| 154 | 650 | Shiny Rollzone |
 | 155 | 641 | Ricardo Burton |
 | 156 | 632 | Beth |
 | 157 | 631 | Peppy Zone |

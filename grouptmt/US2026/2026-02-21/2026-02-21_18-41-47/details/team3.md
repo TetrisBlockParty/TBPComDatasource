@@ -206,8 +206,8 @@
 | 198 | 166 | Beth Ingham |
 | 199 | 166 | Betty Rosas |
 | 200 | 165 | Kali Kelz Williams |
-| 201 | 163 | Christine Trester |
-| 202 | 163 | Stephanie Hill |
+| 201 | 163 | Stephanie Hill |
+| 202 | 163 | Christine Trester |
 | 203 | 162 | Stephanie Whitefield |
 | 204 | 161 | BŘŰŤİÇŨŚ |
 | 205 | 160 | Tiffany Davie |

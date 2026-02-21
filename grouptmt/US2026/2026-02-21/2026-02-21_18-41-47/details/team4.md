@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Antony Dwayne Beasley |

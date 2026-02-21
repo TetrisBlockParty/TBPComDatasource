@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Thorne Shumate |
-| 105 | 190 | Sweetts |
+| 104 | 190 | Sweetts |
+| 105 | 190 | Thorne Shumate |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
@@ -207,8 +207,8 @@
 | 199 | 108 | Dizzy Party |
 | 200 | 108 | Tavia |
 | 201 | 107 | Jodee Woods |
-| 202 | 106 | Bloknboy |
-| 203 | 106 | Alyssa Ingram |
+| 202 | 106 | Alyssa Ingram |
+| 203 | 106 | Bloknboy |
 | 204 | 106 | Chantelle Ceno |
 | 205 | 105 | Fmp |
 | 206 | 105 | Ty Brown |
@@ -1155,9 +1155,9 @@
 | 1147 | 9 | Williams Martha |
 | 1148 | 9 | Paul Gates |
 | 1149 | 9 | Yaya Dean |
-| 1150 | 9 | Nevaeh Mattox |
-| 1151 | 9 | Giggy Combofall |
-| 1152 | 9 | Peyton Meche |
+| 1150 | 9 | Peyton Meche |
+| 1151 | 9 | Nevaeh Mattox |
+| 1152 | 9 | Giggy Combofall |
 | 1153 | 9 | Softrainsunny— |
 | 1154 | 8 | Kelly Sutton |
 | 1155 | 8 | RW! |
