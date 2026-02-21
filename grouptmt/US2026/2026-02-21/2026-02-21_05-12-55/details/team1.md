@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
 | 28 | 274 | Theo Pinnow |
 | 29 | 265 | Jennifer Cates |
 | 30 | 256 | Robert Benito |
@@ -56,10 +56,10 @@
 | 48 | 198 | Billie Dawn Sparks |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
-| 51 | 191 | Giggly Builderline |
-| 52 | 191 | Jazzy Framezone |
-| 53 | 190 | Sweetts |
-| 54 | 190 | Thorne Shumate |
+| 51 | 191 | Jazzy Framezone |
+| 52 | 191 | Giggly Builderline |
+| 53 | 190 | Thorne Shumate |
+| 54 | 190 | Sweetts |
 | 55 | 189 | Happy Basegrid |
 | 56 | 185 | Karin Gillen |
 | 57 | 173 | Frothy Pattern |
@@ -68,8 +68,8 @@
 | 60 | 169 | Erez Yosef |
 | 61 | 163 | Chad Atchley |
 | 62 | 161 | Abbey Crespo |
-| 63 | 155 | David DeSantis |
-| 64 | 155 | Standia Civil |
+| 63 | 155 | Standia Civil |
+| 64 | 155 | David DeSantis |
 | 65 | 152 | Jacqueline Unique |
 | 66 | 150 | Rico Rico |
 | 67 | 149 | Tana |
