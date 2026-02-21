@@ -39,11 +39,11 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -73,8 +73,8 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
@@ -115,8 +115,8 @@
 | 107 | 200 | Twisty Brick LT |
 | 108 | 199 | joclisa |
 | 109 | 196 | Speedy Bridger |
-| 110 | 195 | Jenny Hrndz |
-| 111 | 195 | Nicha Hooker |
+| 110 | 195 | Nicha Hooker |
+| 111 | 195 | Jenny Hrndz |
 | 112 | 194 | glichmod |
 | 113 | 193 | Clever Shiftsnap |
 | 114 | 193 | Cynthia Castros-Hampton |

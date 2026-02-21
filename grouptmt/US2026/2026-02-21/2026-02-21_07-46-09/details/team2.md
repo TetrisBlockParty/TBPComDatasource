@@ -508,8 +508,8 @@
 | 500 | 152 | Kyle LeRoy Harris |
 | 501 | 152 | James Smith |
 | 502 | 152 | Kristin King |
-| 503 | 152 | Anthony Mignacca |
-| 504 | 152 | JP Parks |
+| 503 | 152 | JP Parks |
+| 504 | 152 | Anthony Mignacca |
 | 505 | 151 | Jennifer Rajek |
 | 506 | 151 | Kia Humphery |
 | 507 | 151 | D'Aaron Black |
@@ -628,7 +628,7 @@
 | 620 | 125 | NickyBrooks |
 | 621 | 125 | Connor Gaughran |
 | 622 | 125 | Tina Marie |
-| 623 | 125 | NickyBrooks |
+| 623 | 125 | Martina Gabrielle LaPolla |
 | 624 | 125 | Jamie Frank Karolyi |
 | 625 | 124 | Tommy Stuck |
 | 626 | 124 | Witty Piecebuilder |

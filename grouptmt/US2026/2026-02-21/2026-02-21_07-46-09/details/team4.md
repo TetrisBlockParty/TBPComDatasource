@@ -58,8 +58,8 @@
 | 50 | 256 | Brittney Griggs |
 | 51 | 244 | Isabella Blanco |
 | 52 | 241 | Desi Desporte |
-| 53 | 231 | Michelle Marie |
-| 54 | 231 | Jenna Ingersoll |
+| 53 | 231 | Jenna Ingersoll |
+| 54 | 231 | Michelle Marie |
 | 55 | 226 | Breannah Grafe |
 | 56 | 207 | Alyssa Papen |
 | 57 | 205 | Sarah Neathery |
@@ -77,8 +77,8 @@
 | 69 | 170 | Leah Kutz Zirbel |
 | 70 | 170 | Girl |
 | 71 | 167 | Denise Carlson |
-| 72 | 165 | Casey Grabner |
-| 73 | 165 | Courtney Cicoria |
+| 72 | 165 | Courtney Cicoria |
+| 73 | 165 | Casey Grabner |
 | 74 | 160 | Carter Jones |
 | 75 | 159 | Justin Hannigan |
 | 76 | 159 | Holly Jolly |
@@ -105,8 +105,8 @@
 | 97 | 131 | Zany Twisterfit |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Bubbly Puzzler |
 | 104 | 123 | Nugget |
@@ -126,8 +126,8 @@
 | 118 | 112 | Brittany Marsh |
 | 119 | 112 | Bryan Hodgins |
 | 120 | 112 | Austin Owens |
-| 121 | 111 | Gwendolyn Pitcairn |
-| 122 | 111 | Lazy Blocker |
+| 121 | 111 | Lazy Blocker |
+| 122 | 111 | Gwendolyn Pitcairn |
 | 123 | 110 | H.R. Block |
 | 124 | 108 | Rio Rocha |
 | 125 | 107 | Marcus Todd |
@@ -194,12 +194,12 @@
 | 186 | 78 | Zesty Linkgrid |
 | 187 | 77 | Zippy Gridlock |
 | 188 | 77 | Twisty Cascadezone |
-| 189 | 77 | Zippy Gridlock |
+| 189 | 77 | Marvin Lou Martin |
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Rosemary Foster |
-| 194 | 75 | Christina Black |
+| 193 | 75 | Christina Black |
+| 194 | 75 | Rosemary Foster |
 | 195 | 74 | Krs |
 | 196 | 73 | Rheanda Weaskus |
 | 197 | 73 | bloat princess |
@@ -208,10 +208,10 @@
 | 200 | 73 | Joshua Cuellar |
 | 201 | 72 | Robin Getchel |
 | 202 | 71 | Chaz Duncan |
-| 203 | 71 | Lindsey Gonzalez |
-| 204 | 71 | Marcela Johnson |
-| 205 | 70 | Patron Anderson |
-| 206 | 70 | Staci Robinson Jones |
+| 203 | 71 | Marcela Johnson |
+| 204 | 71 | Lindsey Gonzalez |
+| 205 | 70 | Staci Robinson Jones |
+| 206 | 70 | Patron Anderson |
 | 207 | 70 | Richard-April Kice |
 | 208 | 69 | Jessica Wells |
 | 209 | 69 | Carol Ricks Raymond |
@@ -253,8 +253,8 @@
 | 245 | 61 | Shauna Havard |
 | 246 | 61 | Bradley Reeves |
 | 247 | 60 | Ahleek Mitchell |
-| 248 | 59 | Lori |
-| 249 | 59 | Jasmine S Caldwell |
+| 248 | 59 | Jasmine S Caldwell |
+| 249 | 59 | Lori |
 | 250 | 59 | Jen Mattei |
 | 251 | 58 | Rebecca Morris |
 | 252 | 58 | Gilles Lanctot |
