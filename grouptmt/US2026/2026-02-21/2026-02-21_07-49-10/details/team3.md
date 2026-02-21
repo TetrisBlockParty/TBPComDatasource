@@ -42,8 +42,8 @@
 | 34 | 587 | Suzieq |
 | 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Snappy Glidepiece |
-| 38 | 546 | Dolores Falco |
+| 37 | 546 | Dolores Falco |
+| 38 | 546 | Snappy Glidepiece |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -246,9 +246,9 @@
 | 238 | 94 | Angie Harper |
 | 239 | 94 | Carrie Huskey |
 | 240 | 93 | Tiffany Ford |
-| 241 | 92 | Jennifer Caputo |
-| 242 | 92 | Ava Petito |
-| 243 | 92 | Trice Thomas |
+| 241 | 92 | Ava Petito |
+| 242 | 92 | Trice Thomas |
+| 243 | 92 | Jennifer Caputo |
 | 244 | 91 | Martin Bernier |
 | 245 | 90 | Whitney Manuel |
 | 246 | 90 | Tiffany Kaupang |

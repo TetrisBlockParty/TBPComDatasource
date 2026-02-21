@@ -77,8 +77,8 @@
 | 69 | 170 | Leah Kutz Zirbel |
 | 70 | 170 | Girl |
 | 71 | 167 | Denise Carlson |
-| 72 | 165 | Courtney Cicoria |
-| 73 | 165 | Casey Grabner |
+| 72 | 165 | Casey Grabner |
+| 73 | 165 | Courtney Cicoria |
 | 74 | 160 | Carter Jones |
 | 75 | 160 | Zethra Prenisha Rahming |
 | 76 | 159 | Holly Jolly |
@@ -93,16 +93,16 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Jessica Bohlken |
-| 89 | 134 | Chirpy Basepiece |
+| 88 | 134 | Chirpy Basepiece |
+| 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Melissa Priest Sellers |
 | 92 | 132 | Jessica Cagle |
 | 93 | 132 | Jenna McGeorge |
 | 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
-| 96 | 131 | Zany Twisterfit |
-| 97 | 131 | Mr. Party |
+| 96 | 131 | Mr. Party |
+| 97 | 131 | Zany Twisterfit |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
 | 100 | 129 | John Brunetti |
@@ -148,8 +148,8 @@
 | 140 | 101 | Saulc1991 |
 | 141 | 100 | Alexandra Karavias |
 | 142 | 100 | Megan Cutshaw |
-| 143 | 98 | Duck |
-| 144 | 98 | Chaz |
+| 143 | 98 | Chaz |
+| 144 | 98 | Duck |
 | 145 | 98 | Allen Lloyd |
 | 146 | 97 | Brandi Durig |
 | 147 | 96 | Zappy Snaplink |
@@ -180,12 +180,12 @@
 | 172 | 83 | Joseph Gray |
 | 173 | 83 | Avy Absol |
 | 174 | 82 | Kim Hunt |
-| 175 | 81 | Chair |
+| 175 | 81 | Jumpy Zonepiece |
 | 176 | 81 | Michelle Parker |
-| 177 | 81 | Jumpy Zonepiece |
-| 178 | 81 | Blessedmama |
-| 179 | 81 | Nubian1 |
-| 180 | 81 | Carlos Ramirez |
+| 177 | 81 | Blessedmama |
+| 178 | 81 | Chair |
+| 179 | 81 | Carlos Ramirez |
+| 180 | 81 | Nubian1 |
 | 181 | 80 | Melissa Adams |
 | 182 | 79 | Perky Piecegrid |
 | 183 | 79 | Joseph Pace |
@@ -253,8 +253,8 @@
 | 245 | 61 | Jackson Karen |
 | 246 | 61 | Shauna Havard |
 | 247 | 60 | Ahleek Mitchell |
-| 248 | 59 | Jasmine S Caldwell |
-| 249 | 59 | Lori |
+| 248 | 59 | Lori |
+| 249 | 59 | Jasmine S Caldwell |
 | 250 | 59 | Jen Mattei |
 | 251 | 58 | Rebecca Morris |
 | 252 | 58 | Paige Kittles |

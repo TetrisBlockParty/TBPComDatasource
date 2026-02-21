@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Tipsy Column |
 | 43 | 256 | Robert Benito |
@@ -64,8 +64,8 @@
 | 56 | 201 | Anaid Sanchez |
 | 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
-| 59 | 198 | Billie Dawn Sparks |
-| 60 | 198 | Happy Snapbuild |
+| 59 | 198 | Happy Snapbuild |
+| 60 | 198 | Billie Dawn Sparks |
 | 61 | 197 | Cynthia Bradley |
 | 62 | 194 | Sharon Reynolds |
 | 63 | 192 | Mandyy Rae |
@@ -126,8 +126,8 @@
 | 118 | 112 | Nicole Roseberry Weber |
 | 119 | 112 | Kristen Gideon |
 | 120 | 111 | Agustin Duarte Orozco |
-| 121 | 110 | Garcia Bailey |
-| 122 | 110 | Heidi Feurer |
+| 121 | 110 | Heidi Feurer |
+| 122 | 110 | Garcia Bailey |
 | 123 | 108 | Tavia |
 | 124 | 108 | Alenoush Karimian |
 | 125 | 107 | Jodee Woods |
@@ -151,9 +151,9 @@
 | 143 | 94 | Tyler Hertzog |
 | 144 | 93 | Cody Gates |
 | 145 | 92 | Jessica Russell |
-| 146 | 90 | Dizzy Party |
-| 147 | 90 | Madison Wicks |
-| 148 | 90 | TSwag |
+| 146 | 90 | TSwag |
+| 147 | 90 | Dizzy Party |
+| 148 | 90 | Madison Wicks |
 | 149 | 89 | Mara Hilker |
 | 150 | 88 | Adam Byrd |
 | 151 | 87 | Jessi Sauer |

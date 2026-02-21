@@ -94,11 +94,11 @@
 | 86 | 674 | Dannette Goldberg-Richards |
 | 87 | 672 | Wendy Harder Gage |
 | 88 | 665 | Dineisha Carpenter |
-| 89 | 658 | Pacynthia Williams |
-| 90 | 658 | Vistabrat |
+| 89 | 658 | Vistabrat |
+| 90 | 658 | Pacynthia Williams |
 | 91 | 653 | Becky Weeks-Garry |
-| 92 | 649 | Stephanie Chapman |
-| 93 | 649 | Anna Edwards |
+| 92 | 649 | Anna Edwards |
+| 93 | 649 | Stephanie Chapman |
 | 94 | 631 | Loopy Clusterbuilder |
 | 95 | 620 | BYM4L |
 | 96 | 608 | John Bednarik |
@@ -118,8 +118,8 @@
 | 110 | 545 | Brittany Alicia |
 | 111 | 542 | Rosa Franklin |
 | 112 | 541 | SaraMarie Eveland |
-| 113 | 540 | Charvi' Carter |
-| 114 | 540 | YiFei |
+| 113 | 540 | YiFei |
+| 114 | 540 | Charvi' Carter |
 | 115 | 534 | Poppy Snapper |
 | 116 | 531 | Chris Wanner |
 | 117 | 529 | Tonya Morgan |
@@ -226,8 +226,8 @@
 | 218 | 317 | Heather Westrum |
 | 219 | 317 | bru |
 | 220 | 317 | Dizzy Zone |
-| 221 | 314 | Amanda West |
-| 222 | 314 | niecy |
+| 221 | 314 | niecy |
+| 222 | 314 | Amanda West |
 | 223 | 312 | Michelle Pike |
 | 224 | 311 | Véronique Lévesque Sabourin |
 | 225 | 309 | James Zaragoza |
@@ -315,8 +315,8 @@
 | 307 | 247 | Fancy Twister |
 | 308 | 247 | Andrea Devery Beck |
 | 309 | 246 | Kathryn Townsley |
-| 310 | 246 | Ashley Lopez |
-| 311 | 246 | Stephanie Lumanlan |
+| 310 | 246 | Stephanie Lumanlan |
+| 311 | 246 | Ashley Lopez |
 | 312 | 245 | Rachael Senard |
 | 313 | 245 | Mischelle Clay |
 | 314 | 245 | Taryece Gause |
@@ -434,22 +434,22 @@
 | 426 | 179 | Bette Prieto |
 | 427 | 178 | Michelle Shrum |
 | 428 | 177 | Facuetoo |
-| 429 | 177 | Angel |
-| 430 | 177 | Ryan Meilleur |
+| 429 | 177 | Ryan Meilleur |
+| 430 | 177 | Angel |
 | 431 | 177 | Juliana Marques Do Nascimento Gordy |
 | 432 | 177 | John |
 | 433 | 176 | Jennifer Malloy - Cardy |
 | 434 | 176 | Trisha Gallagher |
 | 435 | 175 | Lucero Ramirez |
-| 436 | 175 | Tina Blessed Cage |
-| 437 | 175 | Shandrica Lowe |
+| 436 | 175 | Shandrica Lowe |
+| 437 | 175 | Tina Blessed Cage |
 | 438 | 174 | Jason Garnatz |
 | 439 | 173 | Ocean-Brianna McGregor |
 | 440 | 173 | kippykay |
 | 441 | 173 | Robin |
 | 442 | 171 | Cappin You |
-| 443 | 170 | Darlene Bowman |
-| 444 | 170 | Dedra Steward |
+| 443 | 170 | Dedra Steward |
+| 444 | 170 | Darlene Bowman |
 | 445 | 170 | Kenya Felix |
 | 446 | 169 | Lively Catcher |
 | 447 | 169 | William Hunt |
