@@ -181,8 +181,8 @@
 | 173 | 268 | Vanessa Moreno |
 | 174 | 267 | Destiny Cozier |
 | 175 | 266 | Joyce Johnson Vaughn |
-| 176 | 266 | Mighty Shatterfit |
-| 177 | 266 | Autumn Schaeffer |
+| 176 | 266 | Autumn Schaeffer |
+| 177 | 266 | Mighty Shatterfit |
 | 178 | 265 | Wuntayk |
 | 179 | 263 | Oscar Bernie |
 | 180 | 263 | Taylor Flowers |
@@ -225,8 +225,8 @@
 | 217 | 231 | Ashley Lopez |
 | 218 | 231 | Maegan Beaule |
 | 219 | 227 | Nutty Matchline |
-| 220 | 223 | LegoCarpet |
-| 221 | 223 | Matt Johnson |
+| 220 | 223 | Matt Johnson |
+| 221 | 223 | LegoCarpet |
 | 222 | 222 | snkylnk |
 | 223 | 220 | Mary Marie |
 | 224 | 220 | Tammy Allen |
