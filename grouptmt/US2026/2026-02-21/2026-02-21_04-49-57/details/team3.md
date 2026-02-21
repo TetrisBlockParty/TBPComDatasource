@@ -35,8 +35,8 @@
 | 27 | 588 | Jennifer Willis |
 | 28 | 587 | Suzieq |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Snappy Glidepiece |
-| 31 | 546 | Dolores Falco |
+| 30 | 546 | Dolores Falco |
+| 31 | 546 | Snappy Glidepiece |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 530 | Zippy Strikesnap |
@@ -97,13 +97,13 @@
 | 89 | 193 | Shunta Jacobs |
 | 90 | 193 | Clever Shiftsnap |
 | 91 | 192 | Chasity |
-| 92 | 187 | Twisty Brick LT |
-| 93 | 187 | Speedy Bridger |
+| 92 | 187 | Speedy Bridger |
+| 93 | 187 | Twisty Brick LT |
 | 94 | 185 | Danielle Cutler |
 | 95 | 184 | Jennie Beranek |
 | 96 | 182 | Ashley Tookes |
-| 97 | 180 | Fallorina Susana |
-| 98 | 180 | Tessina Dewey-Mancino |
+| 97 | 180 | Tessina Dewey-Mancino |
+| 98 | 180 | Fallorina Susana |
 | 99 | 179 | Daira Largen |
 | 100 | 178 | Khaleada McGill Banks |
 | 101 | 175 | Jenny Hrndz |
@@ -275,8 +275,8 @@
 | 267 | 70 | Tommy Proctor |
 | 268 | 69 | Jen Lewis |
 | 269 | 68 | Weerae |
-| 270 | 67 | Romeo |
-| 271 | 67 | Will Miller |
+| 270 | 67 | Will Miller |
+| 271 | 67 | Romeo |
 | 272 | 67 | Daryn Elliott |
 | 273 | 66 | Reesiecup93 |
 | 274 | 66 | Christen Cannon Layhew |

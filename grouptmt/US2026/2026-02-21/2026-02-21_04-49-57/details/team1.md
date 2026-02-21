@@ -213,9 +213,9 @@
 | 205 | 57 | Howdi Duty |
 | 206 | 57 | Crystal Cardenas |
 | 207 | 56 | Jeanna Dunn |
-| 208 | 55 | Panda Thagreat |
-| 209 | 55 | Tami Luce Martin |
-| 210 | 55 | Rachael |
+| 208 | 55 | Tami Luce Martin |
+| 209 | 55 | Rachael |
+| 210 | 55 | Panda Thagreat |
 | 211 | 54 | june october |
 | 212 | 54 | Kimberly Garcia |
 | 213 | 54 | Debbie Davis |
