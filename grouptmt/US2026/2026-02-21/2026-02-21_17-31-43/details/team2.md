@@ -179,14 +179,14 @@
 | 171 | 569 | Gary Stash |
 | 172 | 563 | goofinoff |
 | 173 | 561 | Maria Escobar |
-| 174 | 549 | Kaylee McCafferty |
-| 175 | 549 | Charvi' Carter |
+| 174 | 549 | Charvi' Carter |
+| 175 | 549 | Kaylee McCafferty |
 | 176 | 545 | Leslie Ann Carter |
 | 177 | 544 | Poppy Snapper |
 | 178 | 543 | Diana Fitzwater |
 | 179 | 541 | SaraMarie Eveland |
-| 180 | 534 | Stephen Stephen |
-| 181 | 534 | Teresa Gillmore |
+| 180 | 534 | Teresa Gillmore |
+| 181 | 534 | Stephen Stephen |
 | 182 | 531 | Chris Wanner |
 | 183 | 528 | Brownie Sheena |
 | 184 | 527 | Stacy Stickle |

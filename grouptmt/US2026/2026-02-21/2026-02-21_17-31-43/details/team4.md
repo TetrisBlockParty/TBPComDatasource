@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 546 | LisaJo Picken Buchanan |
 | 27 | 541 | Rebecca Moulton Pinciaro |
@@ -95,8 +95,8 @@
 | 87 | 200 | Holly Jolly |
 | 88 | 198 | Dustee Craddock-Harrison |
 | 89 | 198 | Mike Solo |
-| 90 | 194 | Zany Twisterfit |
-| 91 | 194 | Calvin Cannon |
+| 90 | 194 | Calvin Cannon |
+| 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
 | 93 | 191 | loulou |
 | 94 | 191 | Jeff Brian Gates |
@@ -118,15 +118,15 @@
 | 110 | 170 | Girl |
 | 111 | 167 | Denise Carlson |
 | 112 | 164 | ThaEviLJeNiuZ |
-| 113 | 160 | ZeeZee |
-| 114 | 160 | Stacey Stano |
-| 115 | 160 | Crystal Carroll |
+| 113 | 160 | Crystal Carroll |
+| 114 | 160 | ZeeZee |
+| 115 | 160 | Stacey Stano |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |
 | 119 | 152 | Jessica Bohlken |
-| 120 | 151 | Dana Scott |
-| 121 | 151 | Bethany Ison |
+| 120 | 151 | Bethany Ison |
+| 121 | 151 | Dana Scott |
 | 122 | 148 | Janita Parrish |
 | 123 | 148 | Brittany Marsh |
 | 124 | 147 | 030Synner |
@@ -134,14 +134,14 @@
 | 126 | 147 | Nugget |
 | 127 | 147 | Jay28 |
 | 128 | 146 | Klo |
-| 129 | 144 | Shainne Brewer |
-| 130 | 144 | Mr. Party |
+| 129 | 144 | Mr. Party |
+| 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Shannon Ferrari |
-| 133 | 140 | Jenna McGeorge |
+| 132 | 140 | Jenna McGeorge |
+| 133 | 140 | Shannon Ferrari |
 | 134 | 137 | PeaceOs |
-| 135 | 136 | Tanner Lund |
-| 136 | 136 | Serena Goodridge |
+| 135 | 136 | Serena Goodridge |
+| 136 | 136 | Tanner Lund |
 | 137 | 135 | ĥuf |
 | 138 | 134 | Chirpy Basepiece |
 | 139 | 133 | Zany Shatterer |
@@ -161,9 +161,9 @@
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
-| 156 | 122 | Sherri |
+| 156 | 122 | 🥔🥔 Spudz |
 | 157 | 122 | Carlos Ramirez |
-| 158 | 122 | 🥔🥔 Spudz |
+| 158 | 122 | Sherri |
 | 159 | 121 | Smiley Tiltbuilder |
 | 160 | 121 | Megan Cutshaw |
 | 161 | 120 | Joshua Guess |
@@ -183,8 +183,8 @@
 | 175 | 111 | Lazy Blocker |
 | 176 | 110 | H.R. Block |
 | 177 | 108 | Ali Ian |
-| 178 | 107 | Marcus Todd |
-| 179 | 107 | Rafael Valentin |
+| 178 | 107 | Rafael Valentin |
+| 179 | 107 | Marcus Todd |
 | 180 | 106 | Avy Absol |
 | 181 | 105 | TheNeesh50 |
 | 182 | 105 | Kristin MacDonald |

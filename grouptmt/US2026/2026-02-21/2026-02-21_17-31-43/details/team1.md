@@ -114,8 +114,8 @@
 | 106 | 175 | Dandy Basegrid |
 | 107 | 175 | GATOR |
 | 108 | 173 | Frothy Pattern |
-| 109 | 171 | Greg Premoe |
-| 110 | 171 | David DeSantis |
+| 109 | 171 | David DeSantis |
+| 110 | 171 | Greg Premoe |
 | 111 | 169 | Abbey Crespo |
 | 112 | 168 | Standia Civil |
 | 113 | 166 | Tana |

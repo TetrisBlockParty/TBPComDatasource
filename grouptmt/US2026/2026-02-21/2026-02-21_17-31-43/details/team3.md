@@ -180,13 +180,13 @@
 | 172 | 179 | Joye Sims Binion |
 | 173 | 178 | Ryan Williams |
 | 174 | 178 | AlsoJess |
-| 175 | 176 | Nikki Pags |
-| 176 | 176 | Trisha Balmer |
+| 175 | 176 | Trisha Balmer |
+| 176 | 176 | Nikki Pags |
 | 177 | 175 | DanceLuvLaugh |
 | 178 | 174 | rosy |
 | 179 | 174 | Danielle Mogg |
-| 180 | 173 | Marci Mize Fandrich |
-| 181 | 173 | Sarajane Lokan |
+| 180 | 173 | Sarajane Lokan |
+| 181 | 173 | Marci Mize Fandrich |
 | 182 | 172 | Loopy Fallmatch |
 | 183 | 167 | Raven Dudley |
 | 184 | 167 | Connie Mohler-Fair |
@@ -195,8 +195,8 @@
 | 187 | 166 | Beth Ingham |
 | 188 | 166 | Kelly Ann Child |
 | 189 | 165 | Kali Kelz Williams |
-| 190 | 163 | Stephanie Hill |
-| 191 | 163 | Christine Trester |
+| 190 | 163 | Christine Trester |
+| 191 | 163 | Stephanie Hill |
 | 192 | 162 | Stephanie Whitefield |
 | 193 | 161 | BŘŰŤİÇŨŚ |
 | 194 | 161 | Tamara Deherrera |
@@ -238,8 +238,8 @@
 | 230 | 137 | Joy Petroski |
 | 231 | 135 | Erykah |
 | 232 | 134 | Skinny Baldez |
-| 233 | 133 | LaNette Morgan |
-| 234 | 133 | Terry Jo Jones |
+| 233 | 133 | Terry Jo Jones |
+| 234 | 133 | LaNette Morgan |
 | 235 | 132 | Daryn Elliott |
 | 236 | 131 | Darlene McMillan |
 | 237 | 130 | Weerae |
