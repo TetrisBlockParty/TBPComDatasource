@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Zethra Prenisha Rahming |
-| 77 | 171 | Melvin Baird |
+| 76 | 171 | Melvin Baird |
+| 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 170 | Andy Cabral |
 | 80 | 167 | Denise Carlson |
@@ -146,8 +146,8 @@
 | 138 | 112 | Brittany Marsh |
 | 139 | 111 | Lazy Blocker |
 | 140 | 111 | Gwendolyn Pitcairn |
-| 141 | 110 | YoMomma |
-| 142 | 110 | H.R. Block |
+| 141 | 110 | H.R. Block |
+| 142 | 110 | YoMomma |
 | 143 | 107 | Marcus Todd |
 | 144 | 105 | Sam Middleton |
 | 145 | 105 | TheNeesh50 |
@@ -155,10 +155,10 @@
 | 147 | 105 | AyeKay |
 | 148 | 104 | Damn Libra |
 | 149 | 104 | Avy Absol |
-| 150 | 102 | ĥuf |
-| 151 | 102 | Faja |
-| 152 | 101 | Saulc1991 |
-| 153 | 101 | Michelle Morris |
+| 150 | 102 | Faja |
+| 151 | 102 | ĥuf |
+| 152 | 101 | Michelle Morris |
+| 153 | 101 | Saulc1991 |
 | 154 | 100 | Alexandra Karavias |
 | 155 | 99 | Anthony Bryan Riva |
 | 156 | 98 | Jeremy Steines |
@@ -173,8 +173,8 @@
 | 165 | 95 | Meagan Nicole |
 | 166 | 95 | Victoria Faniel |
 | 167 | 94 | Chastity Mitchell |
-| 168 | 94 | DonMega |
-| 169 | 94 | Kim Hunt |
+| 168 | 94 | Kim Hunt |
+| 169 | 94 | DonMega |
 | 170 | 93 | Zesty Twistbuilder |
 | 171 | 92 | Misty Hollibaugh |
 | 172 | 92 | Sammy Noguera |

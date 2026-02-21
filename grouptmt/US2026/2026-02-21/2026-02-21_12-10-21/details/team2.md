@@ -247,8 +247,8 @@
 | 239 | 344 | Julie Kresal |
 | 240 | 343 | F-X |
 | 241 | 334 | Moni Foxe |
-| 242 | 334 | Felicia Lynn |
-| 243 | 334 | Missie Lawson Gebhardt |
+| 242 | 334 | Missie Lawson Gebhardt |
+| 243 | 334 | Felicia Lynn |
 | 244 | 333 | Brittney Jean |
 | 245 | 332 | TF Dyer |
 | 246 | 331 | Shelley Thornburgh Wright |
@@ -272,8 +272,8 @@
 | 264 | 311 | Dar |
 | 265 | 311 | Véronique Lévesque Sabourin |
 | 266 | 310 | Brandy Andre |
-| 267 | 309 | Oscar Bernie |
-| 268 | 309 | Ginger |
+| 267 | 309 | Ginger |
+| 268 | 309 | Oscar Bernie |
 | 269 | 309 | James Zaragoza |
 | 270 | 306 | Kristopher Miller |
 | 271 | 305 | Libby Hicks |
@@ -310,8 +310,8 @@
 | 302 | 276 | Lindsey Leigh |
 | 303 | 276 | Vonceial Boone |
 | 304 | 275 | Cheeky Brickmatch |
-| 305 | 275 | Shiny Rollzone |
-| 306 | 275 | Ann Matzkanin |
+| 305 | 275 | Ann Matzkanin |
+| 306 | 275 | Shiny Rollzone |
 | 307 | 274 | Jamie Stevey |
 | 308 | 274 | Melissa Holsinger |
 | 309 | 274 | Lonne Emade |

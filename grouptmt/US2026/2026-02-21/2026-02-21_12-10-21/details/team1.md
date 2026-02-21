@@ -64,8 +64,8 @@
 | 56 | 212 | Jaimie Lynn |
 | 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
-| 59 | 208 | Mandyy Rae |
-| 60 | 208 | Carrie Beck Geartz |
+| 59 | 208 | Carrie Beck Geartz |
+| 60 | 208 | Mandyy Rae |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Hyper |
@@ -81,8 +81,8 @@
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
-| 76 | 190 | Sweetts |
-| 77 | 190 | Thorne Shumate |
+| 76 | 190 | Thorne Shumate |
+| 77 | 190 | Sweetts |
 | 78 | 189 | Happy Basegrid |
 | 79 | 186 | Dena Kayy |
 | 80 | 180 | Erez Yosef |
@@ -131,9 +131,9 @@
 | 123 | 121 | Bouncy Grid |
 | 124 | 120 | Kimmie Kimms |
 | 125 | 120 | Alenoush Karimian |
-| 126 | 119 | April Carroll |
+| 126 | 119 | Irual Hctrab |
 | 127 | 119 | Tater |
-| 128 | 119 | Irual Hctrab |
+| 128 | 119 | April Carroll |
 | 129 | 118 | Barry Mac'Ockner |
 | 130 | 116 | Evie Khalil |
 | 131 | 115 | Mrs.Patrica |
@@ -175,8 +175,8 @@
 | 167 | 96 | Nery Martinez |
 | 168 | 96 | Barrbaric |
 | 169 | 94 | Brad MG |
-| 170 | 93 | Tyler Whitley |
-| 171 | 93 | Cody Gates |
+| 170 | 93 | Cody Gates |
+| 171 | 93 | Tyler Whitley |
 | 172 | 92 | Timothy Dew |
 | 173 | 90 | TSwag |
 | 174 | 90 | Madison Wicks |

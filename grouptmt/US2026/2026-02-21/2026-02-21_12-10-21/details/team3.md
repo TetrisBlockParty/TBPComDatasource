@@ -44,12 +44,12 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Suzieq |
-| 40 | 587 | Danielle Becker |
+| 39 | 587 | Danielle Becker |
+| 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -186,8 +186,8 @@
 | 178 | 129 | Logan Naccarato |
 | 179 | 129 | Lesley Perez |
 | 180 | 128 | Jen Lewis |
-| 181 | 127 | Aerian Preston |
-| 182 | 127 | Marquita Sheard |
+| 181 | 127 | Marquita Sheard |
+| 182 | 127 | Aerian Preston |
 | 183 | 127 | Joy Petroski |
 | 184 | 126 | Brandon Givens |
 | 185 | 125 | Felicia Doxey |
@@ -289,8 +289,8 @@
 | 281 | 88 | Kelly Koenig |
 | 282 | 88 | Kevin Russell |
 | 283 | 88 | Dapper Towerfit |
-| 284 | 87 | Boldy Blocker |
-| 285 | 87 | FATTY |
+| 284 | 87 | FATTY |
+| 285 | 87 | Boldy Blocker |
 | 286 | 87 | Kellie Montgomery |
 | 287 | 86 | Clever Clearbuilder |
 | 288 | 86 | Criss |
