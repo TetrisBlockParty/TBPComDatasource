@@ -164,10 +164,10 @@
 | 156 | 71 | Joseph Pace |
 | 157 | 70 | Richard-April Kice |
 | 158 | 69 | Carol Ricks Raymond |
-| 159 | 68 | LS |
-| 160 | 68 | GBR |
-| 161 | 67 | Dennis Bradley |
-| 162 | 67 | Cozy Framezone |
+| 159 | 68 | GBR |
+| 160 | 68 | LS |
+| 161 | 67 | Cozy Framezone |
+| 162 | 67 | Dennis Bradley |
 | 163 | 67 | Frank Joseph Epson |
 | 164 | 66 | Marcela Johnson |
 | 165 | 66 | mitch |

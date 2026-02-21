@@ -114,8 +114,8 @@
 | 106 | 159 | Jone |
 | 107 | 158 | Grams |
 | 108 | 156 | Joey Banks |
-| 109 | 155 | Shannon Matthew Byers |
-| 110 | 155 | BŘŰŤİÇŨŚ |
+| 109 | 155 | BŘŰŤİÇŨŚ |
+| 110 | 155 | Shannon Matthew Byers |
 | 111 | 154 | Angela M. Fletcher |
 | 112 | 153 | Beth Ingham |
 | 113 | 152 | Shiny Zonebuilder |
@@ -284,8 +284,8 @@
 | 276 | 66 | Carina Ortega |
 | 277 | 66 | Katrina Schroeder |
 | 278 | 66 | Alexi Pryor |
-| 279 | 65 | Eunhye Lee |
-| 280 | 65 | Angela Scott |
+| 279 | 65 | Angela Scott |
+| 280 | 65 | Eunhye Lee |
 | 281 | 65 | Trice Thomas |
 | 282 | 64 | Saucy Buildout |
 | 283 | 64 | France Vézina |
