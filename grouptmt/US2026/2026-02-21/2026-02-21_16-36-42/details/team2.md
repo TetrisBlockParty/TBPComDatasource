@@ -157,14 +157,14 @@
 | 149 | 609 | Robin Kerby |
 | 150 | 608 | John Bednarik |
 | 151 | 608 | Sommer Shope |
-| 152 | 604 | Amber Shoemaker |
-| 153 | 604 | Danielle Johnson-Chandler |
+| 152 | 604 | Danielle Johnson-Chandler |
+| 153 | 604 | Amber Shoemaker |
 | 154 | 603 | Cassie Maynard |
 | 155 | 602 | L3sli3 |
 | 156 | 596 | Thomas Hughes |
 | 157 | 592 | Ashle Scranton |
-| 158 | 591 | Rebecca Doughman |
-| 159 | 591 | Alisha |
+| 158 | 591 | Alisha |
+| 159 | 591 | Rebecca Doughman |
 | 160 | 589 | Erica Williams |
 | 161 | 583 | Jessicah Myers |
 | 162 | 580 | Steve Grotto |
@@ -285,8 +285,8 @@
 | 277 | 364 | Brandon Armstrong |
 | 278 | 363 | William Meussner |
 | 279 | 362 | AkaLefty |
-| 280 | 359 | Mighty Shatterfit |
-| 281 | 359 | Johnny Yeates |
+| 280 | 359 | Johnny Yeates |
+| 281 | 359 | Mighty Shatterfit |
 | 282 | 358 | Smashanator |
 | 283 | 358 | Alyssaaelena |
 | 284 | 357 | Shannon Byrd |
@@ -328,15 +328,15 @@
 | 320 | 327 | Danielle Simmons |
 | 321 | 327 | Kiana Boschh |
 | 322 | 326 | Elisheva Mizrachi |
-| 323 | 326 | Denise Rickman |
-| 324 | 326 | Ginger |
+| 323 | 326 | Ginger |
+| 324 | 326 | Denise Rickman |
 | 325 | 324 | Offonar Facey |
 | 326 | 323 | Briana Alexander |
 | 327 | 323 | KhaosLord |
 | 328 | 322 | Brandy Andre |
 | 329 | 320 | Cynthia Ward |
-| 330 | 318 | Alexandra Weir |
-| 331 | 318 | CC |
+| 330 | 318 | CC |
+| 331 | 318 | Alexandra Weir |
 | 332 | 317 | Heather Westrum |
 | 333 | 317 | Ebony Deloach Bryant |
 | 334 | 317 | bru |

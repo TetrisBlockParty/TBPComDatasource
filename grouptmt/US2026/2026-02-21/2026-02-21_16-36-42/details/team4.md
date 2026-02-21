@@ -61,8 +61,8 @@
 | 53 | 339 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -181,9 +181,9 @@
 | 173 | 107 | Rafael Valentin |
 | 174 | 107 | Marcus Todd |
 | 175 | 106 | Avy Absol |
-| 176 | 105 | Kristin MacDonald |
+| 176 | 105 | 🥔🥔 Spudz |
 | 177 | 105 | TheNeesh50 |
-| 178 | 105 | 🥔🥔 Spudz |
+| 178 | 105 | Kristin MacDonald |
 | 179 | 104 | Damn Libra |
 | 180 | 103 | Judy Cox |
 | 181 | 103 | April Rondinone |

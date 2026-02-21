@@ -172,8 +172,8 @@
 | 164 | 179 | Joye Sims Binion |
 | 165 | 179 | Daira Largen |
 | 166 | 179 | Ashley Jones |
-| 167 | 178 | AlsoJess |
-| 168 | 178 | Khaleada McGill Banks |
+| 167 | 178 | Khaleada McGill Banks |
+| 168 | 178 | AlsoJess |
 | 169 | 178 | Ryan Williams |
 | 170 | 177 | Rebel124 |
 | 171 | 175 | DanceLuvLaugh |
@@ -181,9 +181,9 @@
 | 173 | 174 | Danielle Mogg |
 | 174 | 173 | Sarajane Lokan |
 | 175 | 170 | Trisha Balmer |
-| 176 | 167 | Sashay Tapae Simpson |
-| 177 | 167 | Raven Dudley |
-| 178 | 167 | Connie Mohler-Fair |
+| 176 | 167 | Raven Dudley |
+| 177 | 167 | Connie Mohler-Fair |
+| 178 | 167 | Sashay Tapae Simpson |
 | 179 | 166 | Loopy Fallmatch |
 | 180 | 166 | Beth Ingham |
 | 181 | 166 | Betty Rosas |
@@ -212,10 +212,10 @@
 | 204 | 149 | Alexis Taylor |
 | 205 | 148 | Lesley Perez |
 | 206 | 148 | Gumbo |
-| 207 | 146 | Ashley Lynn Marchese |
-| 208 | 146 | Denita Mungro |
-| 209 | 146 | Latoya Mayne |
-| 210 | 146 | Carrie Huskey |
+| 207 | 146 | Denita Mungro |
+| 208 | 146 | Ashley Lynn Marchese |
+| 209 | 146 | Carrie Huskey |
+| 210 | 146 | Latoya Mayne |
 | 211 | 145 | Bryan Byrd |
 | 212 | 145 | Emma |
 | 213 | 143 | Krystal Gerstberger |
