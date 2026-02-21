@@ -131,8 +131,8 @@
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
-| 126 | 192 | Shaykmia |
-| 127 | 192 | Jessica Sheehan |
+| 126 | 192 | Jessica Sheehan |
+| 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
 | 129 | 190 | Thorne Shumate |
 | 130 | 190 | Sweetts |

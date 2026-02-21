@@ -158,10 +158,10 @@
 | 150 | 153 | Chair |
 | 151 | 153 | Avy Absol |
 | 152 | 151 | Bethany Ison |
-| 153 | 149 | Shainne Brewer |
-| 154 | 149 | Roger Coulter |
-| 155 | 148 | Brittany Marsh |
-| 156 | 148 | Mr. Party |
+| 153 | 149 | Roger Coulter |
+| 154 | 149 | Shainne Brewer |
+| 155 | 148 | Mr. Party |
+| 156 | 148 | Brittany Marsh |
 | 157 | 148 | Janita Parrish |
 | 158 | 147 | Jay28 |
 | 159 | 145 | Daria Rycewicz |

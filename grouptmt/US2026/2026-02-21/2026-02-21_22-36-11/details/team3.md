@@ -68,8 +68,8 @@
 | 60 | 603 | Elaine Webb Graves |
 | 61 | 591 | Suzieq |
 | 62 | 588 | yoyo |
-| 63 | 582 | Katrina Schroeder |
-| 64 | 582 | Natasha Jones |
+| 63 | 582 | Natasha Jones |
+| 64 | 582 | Katrina Schroeder |
 | 65 | 581 | Danielle Mogg |
 | 66 | 580 | Amanda L Baker |
 | 67 | 566 | Dan Rob |
@@ -149,8 +149,8 @@
 | 141 | 276 | Crimson |
 | 142 | 272 | opf |
 | 143 | 272 | rnr junky |
-| 144 | 271 | Ashley Muncey |
-| 145 | 271 | Leah Barnett |
+| 144 | 271 | Leah Barnett |
+| 145 | 271 | Ashley Muncey |
 | 146 | 267 | Denise Nardoni |
 | 147 | 263 | Angeline Joseph |
 | 148 | 262 | Joe-Maggie Mathews |
@@ -289,8 +289,8 @@
 | 281 | 141 | Joy Petroski |
 | 282 | 140 | Funky Jumper |
 | 283 | 138 | Boldy Corner |
-| 284 | 137 | Rachel |
-| 285 | 137 | Cesar Barraza |
+| 284 | 137 | Cesar Barraza |
+| 285 | 137 | Rachel |
 | 286 | 136 | Sabrina Mansfield |
 | 287 | 135 | Skinny Baldez |
 | 288 | 135 | Rania Zaqout |

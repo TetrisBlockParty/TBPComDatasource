@@ -299,8 +299,8 @@
 | 291 | 463 | Sue Leard |
 | 292 | 460 | Barbra Miller |
 | 293 | 460 | Cody Smith-Candelaria |
-| 294 | 459 | Brainy Smurf |
-| 295 | 459 | Doowop40 |
+| 294 | 459 | Doowop40 |
+| 295 | 459 | Brainy Smurf |
 | 296 | 459 | Dedra Steward |
 | 297 | 454 | Casey Schumacher |
 | 298 | 453 | Cozy Filler |
@@ -439,8 +439,8 @@
 | 431 | 337 | Sassy Pattern |
 | 432 | 336 | Hong Tang |
 | 433 | 335 | Brooke Leigh Strube |
-| 434 | 334 | Brittney Jean |
-| 435 | 334 | Peppy Snapfall |
+| 434 | 334 | Peppy Snapfall |
+| 435 | 334 | Brittney Jean |
 | 436 | 333 | Tra Barnum |
 | 437 | 332 | Nicole Cannon |
 | 438 | 331 | Kia Humphery |
@@ -483,9 +483,9 @@
 | 475 | 307 | Kitybox |
 | 476 | 306 | Irene Jones |
 | 477 | 305 | Libby Hicks |
-| 478 | 305 | Zany Clusterbuilder |
-| 479 | 305 | Claire |
-| 480 | 305 | Tum |
+| 478 | 305 | Claire |
+| 479 | 305 | Tum |
+| 480 | 305 | Zany Clusterbuilder |
 | 481 | 304 | Melissa McCall |
 | 482 | 304 | Niceday |
 | 483 | 304 | Michelle Shrum |
