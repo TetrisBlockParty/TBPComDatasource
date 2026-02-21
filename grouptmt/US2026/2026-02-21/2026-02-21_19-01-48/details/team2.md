@@ -269,8 +269,8 @@
 | 261 | 442 | Daphne Jordan |
 | 262 | 442 | Leah |
 | 263 | 440 | Liberty |
-| 264 | 439 | Joseph Musick |
-| 265 | 439 | Alisa Lamb |
+| 264 | 439 | Alisa Lamb |
+| 265 | 439 | Joseph Musick |
 | 266 | 439 | Foxxo |
 | 267 | 438 | Hyper Cluster |
 | 268 | 437 | Arwa Fatimah |
@@ -304,8 +304,8 @@
 | 296 | 395 | Julay |
 | 297 | 393 | Taylor Flowers |
 | 298 | 391 | Qiana Sanders |
-| 299 | 391 | Chilly Bridgepiece |
-| 300 | 391 | Brenda Utphall |
+| 299 | 391 | Brenda Utphall |
+| 300 | 391 | Chilly Bridgepiece |
 | 301 | 390 | Kimberly Randesi |
 | 302 | 389 | Kristen O'Neal |
 | 303 | 387 | Mighty Shatterfit |
@@ -566,8 +566,8 @@
 | 558 | 226 | Christina Wsn |
 | 559 | 226 | Irene Jones |
 | 560 | 225 | Blacc Blac |
-| 561 | 224 | Besma Ao |
-| 562 | 224 | Alice Ball |
+| 561 | 224 | Alice Ball |
+| 562 | 224 | Besma Ao |
 | 563 | 224 | Heather Anspaugh |
 | 564 | 223 | Victor Obiakarije |
 | 565 | 223 | Laura Wyatt |

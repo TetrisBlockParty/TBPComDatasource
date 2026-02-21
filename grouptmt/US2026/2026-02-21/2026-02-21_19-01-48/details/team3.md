@@ -253,19 +253,19 @@
 | 245 | 139 | Loopy Clusterer |
 | 246 | 138 | Boldy Corner |
 | 247 | 137 | Joy Petroski |
-| 248 | 135 | Erykah |
-| 249 | 135 | Terry Jo Jones |
+| 248 | 135 | Terry Jo Jones |
+| 249 | 135 | Erykah |
 | 250 | 134 | Sarah Moyer |
 | 251 | 134 | Skinny Baldez |
 | 252 | 134 | Cesar Barraza |
 | 253 | 133 | LaNette Morgan |
-| 254 | 131 | Darlene McMillan |
-| 255 | 131 | April Matthew Kibble |
+| 254 | 131 | April Matthew Kibble |
+| 255 | 131 | Darlene McMillan |
 | 256 | 130 | Weerae |
 | 257 | 129 | Samantha Lynn |
 | 258 | 129 | Juliana Dottore |
-| 259 | 128 | Jen Lewis |
-| 260 | 128 | MizzMonick Smith |
+| 259 | 128 | MizzMonick Smith |
+| 260 | 128 | Jen Lewis |
 | 261 | 127 | mzcatzy |
 | 262 | 126 | RickyG |
 | 263 | 126 | Pam Holt Powell |

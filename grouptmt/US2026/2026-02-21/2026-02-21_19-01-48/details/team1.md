@@ -71,9 +71,9 @@
 | 63 | 293 | Adam Byrd |
 | 64 | 287 | Hyper |
 | 65 | 285 | Sweet Baker |
-| 66 | 281 | Patrick Luckenbill |
-| 67 | 281 | Evie Khalil |
-| 68 | 281 | Shauna Loe |
+| 66 | 281 | Shauna Loe |
+| 67 | 281 | Patrick Luckenbill |
+| 68 | 281 | Evie Khalil |
 | 69 | 277 | Timothy Dew |
 | 70 | 274 | Theo Pinnow |
 | 71 | 273 | Tipsy Strikerpiece |
@@ -89,8 +89,8 @@
 | 81 | 240 | Elaine Elaine |
 | 82 | 235 | Dee Perry |
 | 83 | 233 | cc |
-| 84 | 232 | John J. Cronin |
-| 85 | 232 | Cynthia Bradley |
+| 84 | 232 | Cynthia Bradley |
+| 85 | 232 | John J. Cronin |
 | 86 | 230 | Frothy Pattern |
 | 87 | 228 | Trippy Redd |
 | 88 | 226 | Sharon Reynolds |
@@ -110,9 +110,9 @@
 | 102 | 193 | Lachelle Dillon |
 | 103 | 192 | Shaykmia |
 | 104 | 191 | Diane Byrd |
-| 105 | 190 | Gracie |
-| 106 | 190 | Thorne Shumate |
-| 107 | 190 | Sweetts |
+| 105 | 190 | Thorne Shumate |
+| 106 | 190 | Sweetts |
+| 107 | 190 | Gracie |
 | 108 | 189 | Happy Basegrid |
 | 109 | 188 | Sam Williams |
 | 110 | 187 | Snippy Wipebuilder |
