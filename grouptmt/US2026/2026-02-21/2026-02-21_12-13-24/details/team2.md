@@ -184,8 +184,8 @@
 | 176 | 453 | Osun Anuket Esu |
 | 177 | 453 | Mischelle Clay |
 | 178 | 452 | Alezandra Smith |
-| 179 | 450 | Giggy Blocker |
-| 180 | 450 | Cheech Dta |
+| 179 | 450 | Cheech Dta |
+| 180 | 450 | Giggy Blocker |
 | 181 | 448 | Jojo Momma |
 | 182 | 442 | Daphne Jordan |
 | 183 | 442 | Leah |
@@ -232,8 +232,8 @@
 | 224 | 357 | Shannon Byrd |
 | 225 | 356 | Deyawn Smith |
 | 226 | 356 | Shameika Trail |
-| 227 | 354 | Brave Dropmatch |
-| 228 | 354 | Tracy Wise |
+| 227 | 354 | Tracy Wise |
+| 228 | 354 | Brave Dropmatch |
 | 229 | 353 | Joseph Musick |
 | 230 | 352 | ruth |
 | 231 | 350 | Chris Harr |
@@ -252,8 +252,8 @@
 | 244 | 333 | Brittney Jean |
 | 245 | 332 | TF Dyer |
 | 246 | 331 | Shelley Thornburgh Wright |
-| 247 | 330 | Victoria Moore-Smith |
-| 248 | 330 | Taryece Gause |
+| 247 | 330 | Taryece Gause |
+| 248 | 330 | Victoria Moore-Smith |
 | 249 | 329 | Christina Ashley |
 | 250 | 328 | Marie Boyd Faulk |
 | 251 | 327 | Danielle Simmons |
@@ -281,8 +281,8 @@
 | 273 | 303 | Crystal Greene |
 | 274 | 303 | Amanda Schaffer |
 | 275 | 301 | Claire |
-| 276 | 299 | Deborah Miller |
-| 277 | 299 | Christy Krissie |
+| 276 | 299 | Christy Krissie |
+| 277 | 299 | Deborah Miller |
 | 278 | 296 | Jennifer Darby |
 | 279 | 296 | Jennifer Casey-Kay |
 | 280 | 296 | Amber Gray |
@@ -295,8 +295,8 @@
 | 287 | 289 | Hyper Cluster |
 | 288 | 288 | Megan Phillips |
 | 289 | 286 | Ryan Gunther |
-| 290 | 285 | Jánine Riggs |
-| 291 | 285 | June E Hanson |
+| 290 | 285 | June E Hanson |
+| 291 | 285 | Jánine Riggs |
 | 292 | 284 | Autumn Schaeffer |
 | 293 | 283 | Davetta Sanford |
 | 294 | 282 | Carl Bradshaw |

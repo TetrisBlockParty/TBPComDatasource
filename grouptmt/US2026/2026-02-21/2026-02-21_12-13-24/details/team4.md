@@ -86,12 +86,12 @@
 | 78 | 171 | Zethra Prenisha Rahming |
 | 79 | 170 | Girl |
 | 80 | 167 | Denise Carlson |
-| 81 | 165 | Courtney Cicoria |
-| 82 | 165 | Casey Grabner |
+| 81 | 165 | Casey Grabner |
+| 82 | 165 | Courtney Cicoria |
 | 83 | 162 | Shauna Havard |
 | 84 | 160 | Carter Jones |
-| 85 | 159 | Holly Jolly |
-| 86 | 159 | Justin Hannigan |
+| 85 | 159 | Justin Hannigan |
+| 86 | 159 | Holly Jolly |
 | 87 | 157 | quicksand420 |
 | 88 | 154 | ThaEviLJeNiuZ |
 | 89 | 154 | Zany Twisterfit |
@@ -216,7 +216,7 @@
 | 208 | 81 | Michelle Parker |
 | 209 | 80 | Melissa Adams |
 | 210 | 80 | Chaz Duncan |
-| 211 | 79 | Kametsunoyaiba |
+| 211 | 79 | Krs |
 | 212 | 79 | Joseph Pace |
 | 213 | 79 | Kametsunoyaiba |
 | 214 | 78 | Adawna Swires |
@@ -230,8 +230,8 @@
 | 222 | 76 | Crystal Lynn |
 | 223 | 76 | Bethany Ison |
 | 224 | 75 | Rosemary Foster |
-| 225 | 75 | Ali Ian |
-| 226 | 75 | Christina Black |
+| 225 | 75 | Christina Black |
+| 226 | 75 | Ali Ian |
 | 227 | 74 | Tyler Terrific |
 | 228 | 73 | bloat princess |
 | 229 | 73 | April Rondinone |

@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Trezure Gonzalez |
-| 76 | 342 | Annie Déè |
+| 75 | 342 | Annie Déè |
+| 76 | 342 | Trezure Gonzalez |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -139,8 +139,8 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 167 | Raven Dudley |
 | 138 | 166 | Betty Rosas |
@@ -216,8 +216,8 @@
 | 208 | 115 | Daring Builder |
 | 209 | 115 | Jennifer Alvey |
 | 210 | 114 | Jessica Bechler |
-| 211 | 113 | Valerie Gendron |
-| 212 | 113 | Brian Battjes |
+| 211 | 113 | Brian Battjes |
+| 212 | 113 | Valerie Gendron |
 | 213 | 111 | Stephanie Zahm |
 | 214 | 110 | Danielle Weikel |
 | 215 | 110 | Stella |
@@ -258,11 +258,11 @@
 | 250 | 98 | Armi |
 | 251 | 98 | Erika Thornton |
 | 252 | 97 | Ashley Jones |
-| 253 | 96 | Hanna Kim |
-| 254 | 96 | D3NO |
-| 255 | 96 | Jason-Ashley Ludlow |
-| 256 | 96 | Christopher Woost |
-| 257 | 96 | Tasha Wesson-Torrence |
+| 253 | 96 | Christopher Woost |
+| 254 | 96 | Jason-Ashley Ludlow |
+| 255 | 96 | D3NO |
+| 256 | 96 | Tasha Wesson-Torrence |
+| 257 | 96 | Hanna Kim |
 | 258 | 95 | Brooke Bauer |
 | 259 | 94 | Angie Harper |
 | 260 | 94 | Andrew Thorson |
