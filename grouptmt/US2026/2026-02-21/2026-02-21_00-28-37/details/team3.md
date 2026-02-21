@@ -111,9 +111,9 @@
 | 103 | 100 | Fredd Thomas |
 | 104 | 100 | Fancy Slam |
 | 105 | 100 | Bobbi Moore |
-| 106 | 99 | Nichol Graham |
-| 107 | 99 | Boldy Corner |
-| 108 | 99 | Lys |
+| 106 | 99 | Lys |
+| 107 | 99 | Nichol Graham |
+| 108 | 99 | Boldy Corner |
 | 109 | 98 | Jocelyne Baca |
 | 110 | 98 | Ryan Williams |
 | 111 | 97 | Jimmie Clemons |
@@ -217,8 +217,8 @@
 | 209 | 52 | Tasha Wesson-Torrence |
 | 210 | 52 | Kristina Marie |
 | 211 | 51 | Gloria Holmes |
-| 212 | 51 | Richard Rowell |
-| 213 | 51 | Kari Gibson Simmons |
+| 212 | 51 | Kari Gibson Simmons |
+| 213 | 51 | Richard Rowell |
 | 214 | 51 | Elaine Webb Graves |
 | 215 | 50 | Loopy Fallzone |
 | 216 | 50 | Sassy Tiler |

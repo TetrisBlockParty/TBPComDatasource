@@ -45,8 +45,8 @@
 | 37 | 129 | Samantha Peterson |
 | 38 | 128 | Robin Watters |
 | 39 | 124 | Jay28 |
-| 40 | 123 | Courtney Cicoria |
-| 41 | 123 | Nugget |
+| 40 | 123 | Nugget |
+| 41 | 123 | Courtney Cicoria |
 | 42 | 121 | Smiley Tiltbuilder |
 | 43 | 120 | Lauren Scott |
 | 44 | 117 | Denise Carlson |
