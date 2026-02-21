@@ -251,8 +251,8 @@
 | 243 | 190 | blarg |
 | 244 | 189 | Sanaa Nounoussa |
 | 245 | 188 | Justin Hines |
-| 246 | 184 | Sassy Linkbuilder |
-| 247 | 184 | Jumpy Gridpiece |
+| 246 | 184 | Jumpy Gridpiece |
+| 247 | 184 | Sassy Linkbuilder |
 | 248 | 183 | Julie Hamilton |
 | 249 | 183 | Peppy Zone |
 | 250 | 181 | Julay |
@@ -368,8 +368,8 @@
 | 360 | 126 | Ethan Stienbarger |
 | 361 | 125 | Tina Marie |
 | 362 | 125 | Martina Gabrielle LaPolla |
-| 363 | 125 | Chilly Rollblock |
-| 364 | 125 | Marsha Sosa Kiech |
+| 363 | 125 | Marsha Sosa Kiech |
+| 364 | 125 | Chilly Rollblock |
 | 365 | 124 | Erica Williams |
 | 366 | 124 | Monica Brown |
 | 367 | 124 | Jazzy Grabber |

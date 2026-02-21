@@ -56,8 +56,8 @@
 | 48 | 295 | Clever Roll |
 | 49 | 291 | Laura Melton |
 | 50 | 272 | Mahman |
-| 51 | 267 | MissTaylor |
-| 52 | 267 | Amber Hughes |
+| 51 | 267 | Amber Hughes |
+| 52 | 267 | MissTaylor |
 | 53 | 263 | Shari Garber |
 | 54 | 249 | Denise Nardoni |
 | 55 | 240 | Nerdy Riseclear |
@@ -66,8 +66,8 @@
 | 58 | 223 | Delilah belle |
 | 59 | 214 | Amy Fuller Heaton |
 | 60 | 211 | Michelle |
-| 61 | 210 | Zippy Strikesnap |
-| 62 | 210 | Fancy Slam |
+| 61 | 210 | Fancy Slam |
+| 62 | 210 | Zippy Strikesnap |
 | 63 | 207 | rnr junky |
 | 64 | 203 | Crimson |
 | 65 | 198 | Mykal Burton |
@@ -97,8 +97,8 @@
 | 89 | 135 | Latoya Mayne |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
-| 92 | 129 | Ashley Tookes |
-| 93 | 129 | Giddy Twistbuilder |
+| 92 | 129 | Giddy Twistbuilder |
+| 93 | 129 | Ashley Tookes |
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
@@ -163,8 +163,8 @@
 | 155 | 84 | Amanda L Baker |
 | 156 | 84 | Flashy Rumbler |
 | 157 | 83 | LaTanya GeminiondaRise Johnson |
-| 158 | 82 | Clever Clearbuilder |
-| 159 | 82 | Crystel b520 |
+| 158 | 82 | Crystel b520 |
+| 159 | 82 | Clever Clearbuilder |
 | 160 | 81 | Tina Baurdau |
 | 161 | 80 | Vixen Queen |
 | 162 | 80 | Chris Bell |
@@ -200,7 +200,7 @@
 | 192 | 69 | Hyper Matchzone |
 | 193 | 67 | Tommy Proctor |
 | 194 | 67 | Cherry Parker |
-| 195 | 67 | Tommy Proctor |
+| 195 | 67 | Romeo |
 | 196 | 66 | Carina Ortega |
 | 197 | 66 | Nimka Jams |
 | 198 | 66 | Valerie Gendron |
