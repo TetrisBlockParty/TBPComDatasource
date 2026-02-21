@@ -206,8 +206,8 @@
 | 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Brave Dropmatch |
-| 202 | 350 | Chris Harr |
+| 201 | 350 | Chris Harr |
+| 202 | 350 | Brave Dropmatch |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |
@@ -248,8 +248,8 @@
 | 240 | 305 | Libby Hicks |
 | 241 | 303 | Crystal Greene |
 | 242 | 301 | Claire |
-| 243 | 299 | Christy Krissie |
-| 244 | 299 | Deborah Miller |
+| 243 | 299 | Deborah Miller |
+| 244 | 299 | Christy Krissie |
 | 245 | 297 | Brenda Utphall |
 | 246 | 296 | Jennifer Darby |
 | 247 | 296 | Jennifer Casey-Kay |
@@ -269,26 +269,26 @@
 | 261 | 282 | Shaun Church |
 | 262 | 281 | Maegan Beaule |
 | 263 | 280 | Shorty |
-| 264 | 278 | Noel Tarmy |
-| 265 | 278 | Autumn Schaeffer |
+| 264 | 278 | Autumn Schaeffer |
+| 265 | 278 | Noel Tarmy |
 | 266 | 276 | Lindsey Leigh |
-| 267 | 276 | Vonceial Boone |
-| 268 | 276 | SwampRebel |
+| 267 | 276 | SwampRebel |
+| 268 | 276 | Vonceial Boone |
 | 269 | 275 | Cheeky Brickmatch |
 | 270 | 275 | Ann Matzkanin |
 | 271 | 275 | Shiny Rollzone |
 | 272 | 274 | Jamie Stevey |
 | 273 | 274 | Melissa Holsinger |
 | 274 | 274 | Lonne Emade |
-| 275 | 273 | Ray Ray Prado |
-| 276 | 273 | Jenna Nance |
-| 277 | 273 | Vanessa Moreno |
-| 278 | 273 | August Hale |
+| 275 | 273 | Jenna Nance |
+| 276 | 273 | Ray Ray Prado |
+| 277 | 273 | August Hale |
+| 278 | 273 | Vanessa Moreno |
 | 279 | 272 | Mikayala Szaz |
 | 280 | 271 | Ann Marie Davis |
 | 281 | 271 | Toni Lynn |
-| 282 | 270 | Angela Lynn |
-| 283 | 270 | Christina Ashley |
+| 282 | 270 | Christina Ashley |
+| 283 | 270 | Angela Lynn |
 | 284 | 270 | Alexandra Weir |
 | 285 | 268 | Chummy Blockbuilder |
 | 286 | 268 | Tanya Parsons |
@@ -300,8 +300,8 @@
 | 292 | 262 | Taren Cowan |
 | 293 | 261 | Leah |
 | 294 | 261 | MrsClaudette Will'sIam Matthews |
-| 295 | 260 | Ebony Deloach Bryant |
-| 296 | 260 | Denise Rickman |
+| 295 | 260 | Denise Rickman |
+| 296 | 260 | Ebony Deloach Bryant |
 | 297 | 257 | Shameika Trail |
 | 298 | 257 | Lyndi Robinson Wakefield |
 | 299 | 256 | Giddy Gridclear |
@@ -335,8 +335,8 @@
 | 327 | 244 | Aimee Byrom |
 | 328 | 243 | Brandy Andre |
 | 329 | 243 | Adira Brown |
-| 330 | 242 | Lawanda Forbes |
-| 331 | 242 | Donna Chandler |
+| 330 | 242 | Donna Chandler |
+| 331 | 242 | Lawanda Forbes |
 | 332 | 241 | Sabrina Burton |
 | 333 | 240 | Adam Erikson |
 | 334 | 240 | Johnny Yeates |
@@ -350,8 +350,8 @@
 | 342 | 235 | Kimberly Mitchell |
 | 343 | 234 | Jennifer Leigh |
 | 344 | 234 | Manny Trindade |
-| 345 | 233 | Alyssia Tancredi |
-| 346 | 233 | Robin Kerby |
+| 345 | 233 | Robin Kerby |
+| 346 | 233 | Alyssia Tancredi |
 | 347 | 232 | Amber Brion |
 | 348 | 231 | Dylan Thomason |
 | 349 | 231 | Hong Tang |
@@ -386,8 +386,8 @@
 | 378 | 207 | Shylee Tilman |
 | 379 | 206 | Neko Preston |
 | 380 | 206 | RAEPR05 |
-| 381 | 205 | Lylymom |
-| 382 | 205 | ElizabethAnn Dickinson |
+| 381 | 205 | ElizabethAnn Dickinson |
+| 382 | 205 | Lylymom |
 | 383 | 204 | Ali Gralski |
 | 384 | 204 | Rebecca Doughman |
 | 385 | 203 | Gary Stash |

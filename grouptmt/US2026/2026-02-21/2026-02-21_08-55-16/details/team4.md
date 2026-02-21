@@ -172,8 +172,8 @@
 | 164 | 87 | KM8 |
 | 165 | 87 | Bradley Reeves |
 | 166 | 87 | Lauren Lamb |
-| 167 | 86 | amy |
-| 168 | 86 | Destiney Carter |
+| 167 | 86 | Destiney Carter |
+| 168 | 86 | amy |
 | 169 | 85 | Mimi |
 | 170 | 85 | Chirpy Slammer |
 | 171 | 85 | Chastity Mitchell |
@@ -218,9 +218,9 @@
 | 210 | 73 | Lynn Marie |
 | 211 | 73 | bloat princess |
 | 212 | 72 | Robin Getchel |
-| 213 | 71 | Lindsey Gonzalez |
-| 214 | 71 | Ericca Eldridge |
-| 215 | 71 | Marcela Johnson |
+| 213 | 71 | Marcela Johnson |
+| 214 | 71 | Lindsey Gonzalez |
+| 215 | 71 | Ericca Eldridge |
 | 216 | 70 | Patron Anderson |
 | 217 | 70 | Richard-April Kice |
 | 218 | 69 | Carol Ricks Raymond |
@@ -349,8 +349,8 @@
 | 341 | 45 | Chris Hartig |
 | 342 | 45 | Mary Miller |
 | 343 | 45 | Tammy Lewis |
-| 344 | 45 | Andrew Dang |
-| 345 | 45 | Ali Ian |
+| 344 | 45 | Ali Ian |
+| 345 | 45 | Andrew Dang |
 | 346 | 45 | Sho Nuff |
 | 347 | 45 | Zach Kerbs |
 | 348 | 45 | Stephanie Mico |

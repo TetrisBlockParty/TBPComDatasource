@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 176 | Ryan Williams |
 | 132 | 172 | AlsoJess |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -147,8 +147,8 @@
 | 139 | 159 | Jone |
 | 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -168,8 +168,8 @@
 | 160 | 140 | Jay Horn |
 | 161 | 135 | Nicole Flippo |
 | 162 | 135 | Cheryl Hinch Tenbrook |
-| 163 | 134 | Emma |
-| 164 | 134 | DanceLuvLaugh |
+| 163 | 134 | DanceLuvLaugh |
+| 164 | 134 | Emma |
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
 | 167 | 127 | Aerian Preston |
