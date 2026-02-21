@@ -137,8 +137,8 @@
 | 129 | 620 | BYM4L |
 | 130 | 619 | Jamie Otero |
 | 131 | 610 | Terri McKelvey McKinley |
-| 132 | 608 | John Bednarik |
-| 133 | 608 | Sommer Shope |
+| 132 | 608 | Sommer Shope |
+| 133 | 608 | John Bednarik |
 | 134 | 604 | Amber Shoemaker |
 | 135 | 603 | Cassie Maynard |
 | 136 | 602 | L3sli3 |
@@ -489,9 +489,9 @@
 | 481 | 200 | Sarah Ridenour |
 | 482 | 200 | LaWanda Powell |
 | 483 | 199 | Fi Ne |
-| 484 | 199 | Alyssa Nadine Medelez |
+| 484 | 199 | Jessica Sutter |
 | 485 | 199 | Jenny Castro |
-| 486 | 199 | Jessica Sutter |
+| 486 | 199 | Alyssa Nadine Medelez |
 | 487 | 198 | Angie Bolton Workman |
 | 488 | 198 | Alyssa Dean |
 | 489 | 197 | Kati Russeau |
@@ -501,10 +501,10 @@
 | 493 | 196 | Melissa Kay Gibson |
 | 494 | 196 | Cass Shirley |
 | 495 | 195 | Snappy Shatterfit |
-| 496 | 195 | Brenna Ann |
-| 497 | 195 | Darlene Bowman |
-| 498 | 194 | Kimberly Ann |
-| 499 | 194 | Kitybox |
+| 496 | 195 | Darlene Bowman |
+| 497 | 195 | Brenna Ann |
+| 498 | 194 | Kitybox |
+| 499 | 194 | Kimberly Ann |
 | 500 | 194 | Hoppy Brickmatch |
 | 501 | 193 | Kelly Ann McCormick |
 | 502 | 192 | Michael Artis |
@@ -553,8 +553,8 @@
 | 545 | 177 | John |
 | 546 | 177 | Ryan Meilleur |
 | 547 | 177 | Facuetoo |
-| 548 | 176 | Stacy Harper |
-| 549 | 176 | Jennifer Malloy - Cardy |
+| 548 | 176 | Jennifer Malloy - Cardy |
+| 549 | 176 | Stacy Harper |
 | 550 | 175 | Snippy Rumbler |
 | 551 | 175 | Tina Blessed Cage |
 | 552 | 175 | Lucero Ramirez |
