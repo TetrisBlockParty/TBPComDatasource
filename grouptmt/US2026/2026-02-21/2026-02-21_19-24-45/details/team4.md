@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -89,16 +89,16 @@
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Casey Grabner |
-| 85 | 218 | Antony Dwayne Beasley |
+| 84 | 218 | Antony Dwayne Beasley |
+| 85 | 218 | Casey Grabner |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
 | 89 | 210 | Damn Libra |
 | 90 | 205 | Sarah Neathery |
 | 91 | 204 | Brittney Orengo |
-| 92 | 202 | Monica Daley |
-| 93 | 202 | shar |
+| 92 | 202 | shar |
+| 93 | 202 | Monica Daley |
 | 94 | 200 | Holly Jolly |
 | 95 | 198 | Dustee Craddock-Harrison |
 | 96 | 198 | Mike Solo |
@@ -108,8 +108,8 @@
 | 100 | 194 | Zany Twisterfit |
 | 101 | 192 | Crystal Carroll |
 | 102 | 192 | Shauna Havard |
-| 103 | 191 | loulou |
-| 104 | 191 | Melvin Baird |
+| 103 | 191 | Melvin Baird |
+| 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
@@ -122,10 +122,10 @@
 | 114 | 179 | Epic Curvetile |
 | 115 | 178 | Lori |
 | 116 | 176 | Stacey Stano |
-| 117 | 174 | Zethra Prenisha Rahming |
-| 118 | 174 | Dihcheese444 |
-| 119 | 173 | blockstar |
-| 120 | 173 | Ren Mc |
+| 117 | 174 | Dihcheese444 |
+| 118 | 174 | Zethra Prenisha Rahming |
+| 119 | 173 | Ren Mc |
+| 120 | 173 | blockstar |
 | 121 | 170 | Girl |
 | 122 | 164 | Katherine Crane |
 | 123 | 164 | ThaEviLJeNiuZ |
@@ -136,8 +136,8 @@
 | 128 | 156 | Jessica Bohlken |
 | 129 | 156 | Holly |
 | 130 | 153 | Empress Oasis |
-| 131 | 151 | Bethany Ison |
-| 132 | 151 | Dana Scott |
+| 131 | 151 | Dana Scott |
+| 132 | 151 | Bethany Ison |
 | 133 | 149 | Diana Houts |
 | 134 | 148 | Brittany Marsh |
 | 135 | 148 | Janita Parrish |

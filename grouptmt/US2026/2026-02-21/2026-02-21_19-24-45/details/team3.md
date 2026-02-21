@@ -113,16 +113,16 @@
 | 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Ashley Raines |
-| 109 | 323 | Sherry Ogden |
+| 108 | 323 | Sherry Ogden |
+| 109 | 323 | Ashley Raines |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
 | 113 | 316 | Fancy Cascader |
 | 114 | 312 | Jay Horn |
 | 115 | 309 | Rich LeBlanc |
-| 116 | 307 | Blocked |
-| 117 | 307 | Peggi Charon |
+| 116 | 307 | Peggi Charon |
+| 117 | 307 | Blocked |
 | 118 | 300 | Sherika C. McDaniels |
 | 119 | 300 | Tessina Dewey-Mancino |
 | 120 | 294 | Sashay Tapae Simpson |
@@ -193,8 +193,8 @@
 | 185 | 181 | Nicholas Roddy |
 | 186 | 179 | Ashley Jones |
 | 187 | 179 | Daira Largen |
-| 188 | 178 | AlsoJess |
-| 189 | 178 | Ryan Williams |
+| 188 | 178 | Ryan Williams |
+| 189 | 178 | AlsoJess |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Tasha Wesson-Torrence |
 | 192 | 175 | DanceLuvLaugh |
@@ -260,8 +260,8 @@
 | 252 | 135 | Erykah |
 | 253 | 134 | Cesar Barraza |
 | 254 | 134 | Skinny Baldez |
-| 255 | 131 | April Matthew Kibble |
-| 256 | 131 | Darlene McMillan |
+| 255 | 131 | Darlene McMillan |
+| 256 | 131 | April Matthew Kibble |
 | 257 | 130 | Weerae |
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |

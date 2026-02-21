@@ -297,8 +297,8 @@
 | 289 | 410 | Altamirano Michael |
 | 290 | 409 | Sparkles |
 | 291 | 406 | Erin StFrancis |
-| 292 | 405 | Christy Krissie |
-| 293 | 405 | Sarah Massey |
+| 292 | 405 | Sarah Massey |
+| 293 | 405 | Christy Krissie |
 | 294 | 403 | Joshua Sommerville |
 | 295 | 402 | Brandy Andre |
 | 296 | 400 | Tammy Allen |
@@ -652,8 +652,8 @@
 | 644 | 196 | Zak Dunn |
 | 645 | 196 | Crafty Brickline |
 | 646 | 196 | Alexandra Reese |
-| 647 | 195 | AgileDragon |
-| 648 | 195 | Mary Boss |
+| 647 | 195 | Mary Boss |
+| 648 | 195 | AgileDragon |
 | 649 | 195 | Darcy Mae |
 | 650 | 194 | Regina Unruh |
 | 651 | 194 | Monarca26 |
@@ -665,7 +665,7 @@
 | 657 | 193 | D5wag2014 |
 | 658 | 193 | Ryan Meilleur |
 | 659 | 193 | Kelly Ann McCormick |
-| 660 | 193 | Giggy Grabber |
+| 660 | 193 | Kristen Casale Berry |
 | 661 | 193 | Brenda Pierpoint |
 | 662 | 193 | Seth Wrieden |
 | 663 | 193 | Jennifer Coe |
