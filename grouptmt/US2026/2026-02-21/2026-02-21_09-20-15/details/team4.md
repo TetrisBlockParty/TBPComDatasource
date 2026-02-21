@@ -20,8 +20,8 @@
 | 12 | 608 | Denny Shives |
 | 13 | 606 | Rachel Anne |
 | 14 | 594 | Lucille Truesdale |
-| 15 | 590 | Valerie Roberts |
-| 16 | 590 | Dee Kay |
+| 15 | 590 | Dee Kay |
+| 16 | 590 | Valerie Roberts |
 | 17 | 589 | Chilly Line |
 | 18 | 587 | Koshin Abdirahman |
 | 19 | 578 | Leah Gorsuch |
@@ -103,8 +103,8 @@
 | 95 | 132 | Degenerate |
 | 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -148,8 +148,8 @@
 | 140 | 104 | Adam Randall |
 | 141 | 102 | Faja |
 | 142 | 102 | ĥuf |
-| 143 | 101 | Michelle Morris |
-| 144 | 101 | Saulc1991 |
+| 143 | 101 | Saulc1991 |
+| 144 | 101 | Michelle Morris |
 | 145 | 100 | Alexandra Karavias |
 | 146 | 98 | Duck |
 | 147 | 98 | Allen Lloyd |
@@ -207,8 +207,8 @@
 | 199 | 77 | Chris Alexinas |
 | 200 | 76 | Madison Sweere |
 | 201 | 76 | Bethany Ison |
-| 202 | 75 | Christina Black |
-| 203 | 75 | Rosemary Foster |
+| 202 | 75 | Rosemary Foster |
+| 203 | 75 | Christina Black |
 | 204 | 74 | Krs |
 | 205 | 74 | Tyler Terrific |
 | 206 | 73 | Joshua Cuellar |

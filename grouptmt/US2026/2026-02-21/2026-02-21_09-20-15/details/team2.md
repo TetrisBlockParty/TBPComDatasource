@@ -254,9 +254,9 @@
 | 246 | 299 | Christy Krissie |
 | 247 | 299 | Deborah Miller |
 | 248 | 297 | Brenda Utphall |
-| 249 | 296 | Jennifer Darby |
-| 250 | 296 | Amber Gray |
-| 251 | 296 | Jennifer Casey-Kay |
+| 249 | 296 | Amber Gray |
+| 250 | 296 | Jennifer Casey-Kay |
+| 251 | 296 | Jennifer Darby |
 | 252 | 295 | Zany Clusterbuilder |
 | 253 | 295 | Angela Bonquiqui Dinish |
 | 254 | 295 | Diallo Sparkman |
@@ -313,9 +313,9 @@
 | 305 | 256 | CC |
 | 306 | 256 | Smashanator |
 | 307 | 255 | Santana Miyagi |
-| 308 | 254 | Julie Hamilton |
+| 308 | 254 | Elizabeth Diraffaele |
 | 309 | 254 | Rose Fx |
-| 310 | 254 | Elizabeth Diraffaele |
+| 310 | 254 | Julie Hamilton |
 | 311 | 253 | Tansaria Couch-Butler |
 | 312 | 252 | Matt Johnson |
 | 313 | 252 | Cheech Dta |
@@ -2041,8 +2041,8 @@
 | 2033 | 43 | Belle Mari |
 | 2034 | 43 | Loony Blockclear |
 | 2035 | 43 | Tracie Garner |
-| 2036 | 43 | Chris Williams |
-| 2037 | 43 | Amanda Deitrick |
+| 2036 | 43 | Amanda Deitrick |
+| 2037 | 43 | Chris Williams |
 | 2038 | 43 | Daniella Linde |
 | 2039 | 43 | Casey Boblit |
 | 2040 | 43 | Franky Frank |

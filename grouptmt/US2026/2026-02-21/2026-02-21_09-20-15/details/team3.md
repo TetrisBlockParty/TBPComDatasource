@@ -76,8 +76,8 @@
 | 68 | 353 | Stephanie Woods |
 | 69 | 345 | Christine Niles |
 | 70 | 343 | Silly Twist |
-| 71 | 342 | Annie Déè |
-| 72 | 342 | Trezure Gonzalez |
+| 71 | 342 | Trezure Gonzalez |
+| 72 | 342 | Annie Déè |
 | 73 | 338 | Danielle Rhoades |
 | 74 | 336 | Dan Rob |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
@@ -135,20 +135,20 @@
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Danielle Mogg |
-| 134 | 166 | Kelly Ann Child |
+| 133 | 166 | Kelly Ann Child |
+| 134 | 166 | Danielle Mogg |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
-| 138 | 159 | Jone |
-| 139 | 159 | Morgan Martinez |
+| 138 | 159 | Morgan Martinez |
+| 139 | 159 | Jone |
 | 140 | 159 | Mcathen |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -172,7 +172,7 @@
 | 164 | 134 | Emma |
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
-| 167 | 127 | Aerian Preston |
+| 167 | 127 | Connie Mohler-Fair |
 | 168 | 127 | Marquita Sheard |
 | 169 | 127 | Aerian Preston |
 | 170 | 127 | Joy Petroski |
@@ -255,9 +255,9 @@
 | 247 | 95 | Brooke Bauer |
 | 248 | 94 | Angie Harper |
 | 249 | 93 | Tiffany Ford |
-| 250 | 92 | Trice Thomas |
-| 251 | 92 | Ava Petito |
-| 252 | 92 | Jennifer Caputo |
+| 250 | 92 | Ava Petito |
+| 251 | 92 | Jennifer Caputo |
+| 252 | 92 | Trice Thomas |
 | 253 | 91 | Martin Bernier |
 | 254 | 90 | Alexis Ford |
 | 255 | 90 | Nichole Greene |
