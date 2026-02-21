@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -116,8 +116,8 @@
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 140 | Miguel Teixeira |
-| 111 | 138 | Cranky Pattern |
-| 112 | 138 | Gary Gobin |
+| 111 | 138 | Gary Gobin |
+| 112 | 138 | Cranky Pattern |
 | 113 | 137 | Nadine Velardo |
 | 114 | 134 | Trina Gee |
 | 115 | 133 | Breanna Luna |

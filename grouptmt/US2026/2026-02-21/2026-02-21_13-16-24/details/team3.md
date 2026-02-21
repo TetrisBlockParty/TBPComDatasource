@@ -138,8 +138,8 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Fallorina Susana |
-| 134 | 189 | Staci George Fitzsimmons |
+| 133 | 189 | Staci George Fitzsimmons |
+| 134 | 189 | Fallorina Susana |
 | 135 | 185 | Logan Naccarato |
 | 136 | 184 | Jennie Beranek |
 | 137 | 182 | Ashley Tookes |

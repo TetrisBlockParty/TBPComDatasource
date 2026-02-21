@@ -117,8 +117,8 @@
 | 109 | 665 | Dineisha Carpenter |
 | 110 | 658 | Pacynthia Williams |
 | 111 | 653 | Becky Weeks-Garry |
-| 112 | 649 | Anna Edwards |
-| 113 | 649 | Stephanie Chapman |
+| 112 | 649 | Stephanie Chapman |
+| 113 | 649 | Anna Edwards |
 | 114 | 641 | Ricardo Burton |
 | 115 | 632 | Beth |
 | 116 | 631 | Loopy Clusterbuilder |
@@ -276,8 +276,8 @@
 | 268 | 323 | KhaosLord |
 | 269 | 318 | Alexandra Weir |
 | 270 | 318 | Elisheva Mizrachi |
-| 271 | 317 | Zombi3 |
-| 272 | 317 | bru |
+| 271 | 317 | bru |
+| 272 | 317 | Zombi3 |
 | 273 | 317 | Heather Westrum |
 | 274 | 315 | Alisa Lamb |
 | 275 | 314 | Amanda West |
@@ -358,15 +358,15 @@
 | 350 | 262 | Min |
 | 351 | 262 | Taren Cowan |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Ebony Deloach Bryant |
-| 354 | 260 | Denise Rickman |
+| 353 | 260 | Denise Rickman |
+| 354 | 260 | Ebony Deloach Bryant |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
-| 356 | 257 | Lyndi Robinson Wakefield |
-| 357 | 257 | Diana Fitzwater |
+| 356 | 257 | Diana Fitzwater |
+| 357 | 257 | Lyndi Robinson Wakefield |
 | 358 | 256 | Alishac Marie |
 | 359 | 256 | CC |
-| 360 | 256 | Tee Jaleesa |
-| 361 | 256 | Barbra Miller |
+| 360 | 256 | Barbra Miller |
+| 361 | 256 | Tee Jaleesa |
 | 362 | 255 | Kathryn Townsley |
 | 363 | 255 | Santana Miyagi |
 | 364 | 254 | Julie Hamilton |
@@ -529,9 +529,9 @@
 | 521 | 171 | William Hunt |
 | 522 | 170 | BTA |
 | 523 | 170 | Kenya Felix |
-| 524 | 170 | Sherisse Bigelow-Staples |
+| 524 | 170 | Bee |
 | 525 | 170 | Dedra Steward |
-| 526 | 170 | Bee |
+| 526 | 170 | Sherisse Bigelow-Staples |
 | 527 | 169 | Eddie Perez |
 | 528 | 168 | Phil J. Grombliniak |
 | 529 | 168 | Nicol Craven |
@@ -546,8 +546,8 @@
 | 538 | 165 | Austin Wilson |
 | 539 | 164 | Jessica Vega |
 | 540 | 164 | Sara Pennington |
-| 541 | 163 | Albert McKnight |
-| 542 | 163 | Angelica |
+| 541 | 163 | Angelica |
+| 542 | 163 | Albert McKnight |
 | 543 | 163 | Danielle Ayoub |
 | 544 | 162 | Chirpy Snapper |
 | 545 | 162 | LC Hamilton |

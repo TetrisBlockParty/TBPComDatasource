@@ -504,7 +504,7 @@
 | 496 | 33 | Twisty Towerpiece |
 | 497 | 33 | Goatimus Lombardi |
 | 498 | 33 | Paul Brown |
-| 499 | 33 | Angela Catalanotto Ericksen |
+| 499 | 33 | Speedy Cascadeclear |
 | 500 | 33 | Mia |
 | 501 | 32 | Sunny Brickroll |
 | 502 | 32 | Val Erie |
