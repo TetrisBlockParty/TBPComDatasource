@@ -65,8 +65,8 @@
 | 57 | 256 | Tipsy Column |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
-| 60 | 244 | Tdub |
-| 61 | 244 | Franswa |
+| 60 | 244 | Franswa |
+| 61 | 244 | Tdub |
 | 62 | 240 | Rachael |
 | 63 | 237 | Elaine Elaine |
 | 64 | 226 | Sharon Reynolds |
@@ -98,9 +98,9 @@
 | 90 | 180 | Erez Yosef |
 | 91 | 178 | Danielle Little-Daugherty |
 | 92 | 177 | Diane Byrd |
-| 93 | 173 | Jennifer Olewnik Soborowski |
-| 94 | 173 | Frothy Pattern |
-| 95 | 173 | june october |
+| 93 | 173 | june october |
+| 94 | 173 | Jennifer Olewnik Soborowski |
+| 95 | 173 | Frothy Pattern |
 | 96 | 171 | Greg Premoe |
 | 97 | 166 | Rico Rico |
 | 98 | 165 | Veronica Eve |

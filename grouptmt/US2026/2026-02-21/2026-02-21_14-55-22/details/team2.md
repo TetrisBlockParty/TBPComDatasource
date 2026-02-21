@@ -199,14 +199,14 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ariel |
-| 195 | 464 | Ryan Gunther |
+| 194 | 464 | Ryan Gunther |
+| 195 | 464 | Ariel |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 455 | Scott Treadway |
 | 199 | 454 | Casey Schumacher |
-| 200 | 453 | Osun Anuket Esu |
-| 201 | 453 | Em Chen |
+| 200 | 453 | Em Chen |
+| 201 | 453 | Osun Anuket Esu |
 | 202 | 453 | Mischelle Clay |
 | 203 | 452 | Alezandra Smith |
 | 204 | 450 | Giggy Blocker |
@@ -319,8 +319,8 @@
 | 311 | 312 | Andrea Maher |
 | 312 | 311 | Véronique Lévesque Sabourin |
 | 313 | 310 | Brandy Andre |
-| 314 | 309 | Oscar Bernie |
-| 315 | 309 | Ginger |
+| 314 | 309 | Ginger |
+| 315 | 309 | Oscar Bernie |
 | 316 | 309 | James Zaragoza |
 | 317 | 306 | Kristopher Miller |
 | 318 | 305 | Zany Clusterbuilder |
@@ -407,8 +407,8 @@
 | 399 | 252 | Alyssia Tancredi |
 | 400 | 251 | Ann Knutson Anderson |
 | 401 | 250 | Steve Man |
-| 402 | 249 | Porsche' Nicole |
-| 403 | 249 | Nicky Jackson |
+| 402 | 249 | Nicky Jackson |
+| 403 | 249 | Porsche' Nicole |
 | 404 | 248 | Aimee Byrom |
 | 405 | 248 | Maddy Petersen |
 | 406 | 248 | Bubbly Snapfit |
@@ -422,8 +422,8 @@
 | 414 | 246 | Ashley Lopez |
 | 415 | 246 | Pocho Zavala |
 | 416 | 245 | Rachael Senard |
-| 417 | 245 | Robin Kerby |
-| 418 | 245 | Sanaa Nounoussa |
+| 417 | 245 | Sanaa Nounoussa |
+| 418 | 245 | Robin Kerby |
 | 419 | 244 | Loony Basepiece |
 | 420 | 242 | Donna Chandler |
 | 421 | 241 | Niceday |
@@ -483,14 +483,14 @@
 | 475 | 207 | Melissa McCall |
 | 476 | 206 | RAEPR05 |
 | 477 | 206 | Neko Preston |
-| 478 | 205 | ElizabethAnn Dickinson |
-| 479 | 205 | Tj Ball |
+| 478 | 205 | Tj Ball |
+| 479 | 205 | ElizabethAnn Dickinson |
 | 480 | 204 | Ali Gralski |
 | 481 | 204 | Ryan Lauer |
 | 482 | 204 | Nicolle Danielle |
 | 483 | 202 | AISlop |
-| 484 | 202 | Lauren Fitzgerald Thomas |
-| 485 | 202 | Layna Lyons |
+| 484 | 202 | Layna Lyons |
+| 485 | 202 | Lauren Fitzgerald Thomas |
 | 486 | 201 | Matthew Turner |
 | 487 | 201 | Peppy Snapfall |
 | 488 | 201 | Twisty Tetriblast |

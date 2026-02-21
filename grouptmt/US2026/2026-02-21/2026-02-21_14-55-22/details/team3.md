@@ -171,12 +171,12 @@
 | 163 | 167 | Raven Dudley |
 | 164 | 166 | Danielle Mogg |
 | 165 | 166 | Loopy Fallmatch |
-| 166 | 166 | Betty Rosas |
-| 167 | 166 | Kelly Ann Child |
+| 166 | 166 | Kelly Ann Child |
+| 167 | 166 | Betty Rosas |
 | 168 | 165 | Kali Kelz Williams |
 | 169 | 164 | rosy |
-| 170 | 163 | Trisha Balmer |
-| 171 | 163 | Sashay Tapae Simpson |
+| 170 | 163 | Sashay Tapae Simpson |
+| 171 | 163 | Trisha Balmer |
 | 172 | 163 | Stephanie Hill |
 | 173 | 161 | Nikki Pags |
 | 174 | 161 | BŘŰŤİÇŨŚ |
@@ -184,8 +184,8 @@
 | 176 | 159 | Stephanie Whitefield |
 | 177 | 159 | Jone |
 | 178 | 158 | Grams |
-| 179 | 157 | Patricia Gadsden |
-| 180 | 157 | Nicholas Roddy |
+| 179 | 157 | Nicholas Roddy |
+| 180 | 157 | Patricia Gadsden |
 | 181 | 156 | Joey Banks |
 | 182 | 153 | Beth Ingham |
 | 183 | 152 | Shiny Zonebuilder |

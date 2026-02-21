@@ -108,8 +108,8 @@
 | 100 | 164 | ThaEviLJeNiuZ |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
-| 103 | 160 | ZeeZee |
-| 104 | 160 | Stacey Stano |
+| 103 | 160 | Stacey Stano |
+| 104 | 160 | ZeeZee |
 | 105 | 159 | Holly Jolly |
 | 106 | 157 | quicksand420 |
 | 107 | 154 | Zany Twisterfit |
@@ -129,7 +129,7 @@
 | 121 | 135 | ĥuf |
 | 122 | 134 | Chirpy Basepiece |
 | 123 | 134 | Serena Goodridge |
-| 124 | 132 | Melissa Priest Sellers |
+| 124 | 132 | Degenerate |
 | 125 | 132 | Jessica Cagle |
 | 126 | 132 | Jenna McGeorge |
 | 127 | 132 | Melissa Priest Sellers |
@@ -143,8 +143,8 @@
 | 135 | 126 | Klo |
 | 136 | 126 | Dihcheese444 |
 | 137 | 124 | Allen Lloyd |
-| 138 | 123 | Cherrish Duren |
-| 139 | 123 | Angela Geist Jusinski |
+| 138 | 123 | Angela Geist Jusinski |
+| 139 | 123 | Cherrish Duren |
 | 140 | 122 | Sherri |
 | 141 | 121 | Zany Shatterer |
 | 142 | 121 | Megan Cutshaw |
