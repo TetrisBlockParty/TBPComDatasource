@@ -102,19 +102,19 @@
 | 94 | 180 | Erez Yosef |
 | 95 | 179 | Spunky Piecebuilder |
 | 96 | 178 | Danielle Little-Daugherty |
-| 97 | 173 | Frothy Pattern |
-| 98 | 173 | june october |
-| 99 | 173 | Jennifer Olewnik Soborowski |
-| 100 | 171 | David DeSantis |
-| 101 | 171 | Greg Premoe |
+| 97 | 173 | Jennifer Olewnik Soborowski |
+| 98 | 173 | Frothy Pattern |
+| 99 | 173 | june october |
+| 100 | 171 | Greg Premoe |
+| 101 | 171 | David DeSantis |
 | 102 | 169 | Abbey Crespo |
 | 103 | 166 | Tana |
 | 104 | 166 | Rico Rico |
 | 105 | 165 | GATOR |
 | 106 | 165 | Veronica Eve |
-| 107 | 163 | Chad Atchley |
-| 108 | 163 | Tyler Whitley |
-| 109 | 163 | Standia Civil |
+| 107 | 163 | Standia Civil |
+| 108 | 163 | Chad Atchley |
+| 109 | 163 | Tyler Whitley |
 | 110 | 158 | TSwag |
 | 111 | 156 | Jessie Lynn |
 | 112 | 155 | Cece Ibarra |
@@ -222,7 +222,7 @@
 | 214 | 87 | Jenny Gingrich Fuentes |
 | 215 | 86 | Basment Living |
 | 216 | 85 | John Barron |
-| 217 | 84 | Cheeky Pop |
+| 217 | 84 | Rachel Nichole Henry |
 | 218 | 84 | Eddie Dillon |
 | 219 | 84 | Cheeky Pop |
 | 220 | 83 | FableGray |
@@ -266,7 +266,7 @@
 | 258 | 74 | Jay Tressler |
 | 259 | 73 | Jason Cox |
 | 260 | 73 | Mark Smith |
-| 261 | 73 | Jason Cox |
+| 261 | 73 | Shanae Grant |
 | 262 | 73 | Sylvia Vasquez |
 | 263 | 72 | Tipsy Strikerpiece |
 | 264 | 71 | Loneell Hyland |

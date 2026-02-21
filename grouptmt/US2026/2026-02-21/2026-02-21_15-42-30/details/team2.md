@@ -332,8 +332,8 @@
 | 324 | 312 | Michelle Pike |
 | 325 | 312 | Andrea Maher |
 | 326 | 310 | Brandy Andre |
-| 327 | 309 | Oscar Bernie |
-| 328 | 309 | Ginger |
+| 327 | 309 | Ginger |
+| 328 | 309 | Oscar Bernie |
 | 329 | 309 | James Zaragoza |
 | 330 | 307 | Catina Hutchison |
 | 331 | 306 | Kristopher Miller |
@@ -358,8 +358,8 @@
 | 350 | 289 | Hyper Cluster |
 | 351 | 289 | Frisky Clearpiece |
 | 352 | 288 | Megan Phillips |
-| 353 | 285 | June E Hanson |
-| 354 | 285 | Mandi Douglas Hilt |
+| 353 | 285 | Mandi Douglas Hilt |
+| 354 | 285 | June E Hanson |
 | 355 | 284 | Autumn Schaeffer |
 | 356 | 283 | Byung Bae Park |
 | 357 | 282 | Shaun Church |
@@ -373,14 +373,14 @@
 | 365 | 280 | Lyndi Robinson Wakefield |
 | 366 | 280 | Lonne Emade |
 | 367 | 279 | Glitzy Stackzone |
-| 368 | 278 | Noel Tarmy |
-| 369 | 278 | Deana |
+| 368 | 278 | Deana |
+| 369 | 278 | Noel Tarmy |
 | 370 | 278 | Peachy Blockbuilder |
 | 371 | 278 | Demeka Dangerous-kisses Johnson |
 | 372 | 276 | Vonceial Boone |
 | 373 | 276 | Lindsey Leigh |
-| 374 | 275 | Shiny Rollzone |
-| 375 | 275 | Ann Matzkanin |
+| 374 | 275 | Ann Matzkanin |
+| 375 | 275 | Shiny Rollzone |
 | 376 | 275 | Cheeky Brickmatch |
 | 377 | 274 | Melissa Holsinger |
 | 378 | 274 | Jamie Stevey |
@@ -507,9 +507,9 @@
 | 499 | 205 | Tj Ball |
 | 500 | 204 | Ali Gralski |
 | 501 | 204 | Ryan Lauer |
-| 502 | 204 | Brenna Ann |
-| 503 | 204 | Nicolle Danielle |
-| 504 | 204 | Kimberly Ann |
+| 502 | 204 | Kimberly Ann |
+| 503 | 204 | Brenna Ann |
+| 504 | 204 | Nicolle Danielle |
 | 505 | 202 | Alyssa Dean |
 | 506 | 202 | Layna Lyons |
 | 507 | 202 | Lauren Fitzgerald Thomas |

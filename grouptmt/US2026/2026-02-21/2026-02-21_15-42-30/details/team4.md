@@ -57,8 +57,8 @@
 | 49 | 321 | Carlton Unfiltered |
 | 50 | 308 | Jen Allison |
 | 51 | 306 | Lisa Davis |
-| 52 | 300 | Jason Hart |
-| 53 | 300 | David Lay |
+| 52 | 300 | David Lay |
+| 53 | 300 | Jason Hart |
 | 54 | 299 | Livvy |
 | 55 | 295 | Latisha Davis |
 | 56 | 293 | YoMomma |
@@ -69,8 +69,8 @@
 | 61 | 277 | KJ Pool |
 | 62 | 274 | Elizabeth Sallas |
 | 63 | 269 | Desi Desporte |
-| 64 | 268 | Julian Garcia |
-| 65 | 268 | Landon Keith Graffeo |
+| 64 | 268 | Landon Keith Graffeo |
+| 65 | 268 | Julian Garcia |
 | 66 | 265 | KM8 |
 | 67 | 264 | Misty Hollibaugh |
 | 68 | 256 | Brittney Griggs |
@@ -141,11 +141,11 @@
 | 133 | 132 | Melissa Priest Sellers |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Cherrish Duren |
 | 143 | 123 | Angela Geist Jusinski |

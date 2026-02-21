@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 776 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -214,8 +214,8 @@
 | 206 | 142 | Erica Anderson |
 | 207 | 141 | Loopy Fallzone |
 | 208 | 140 | Gumbo |
-| 209 | 136 | Boldy Corner |
-| 210 | 136 | Joy Petroski |
+| 209 | 136 | Joy Petroski |
+| 210 | 136 | Boldy Corner |
 | 211 | 135 | Cheryl Hinch Tenbrook |
 | 212 | 134 | Cozy Snaplink |
 | 213 | 133 | LaNette Morgan |
@@ -334,9 +334,9 @@
 | 326 | 89 | Matty Ray |
 | 327 | 89 | Clever Clearbuilder |
 | 328 | 88 | RickyG |
-| 329 | 88 | Kaitie Oliver |
-| 330 | 88 | Kelly Koenig |
-| 331 | 88 | Dapper Towerfit |
+| 329 | 88 | Kelly Koenig |
+| 330 | 88 | Dapper Towerfit |
+| 331 | 88 | Kaitie Oliver |
 | 332 | 87 | Kellie Montgomery |
 | 333 | 86 | Criss |
 | 334 | 86 | Salena Whitlock |
@@ -345,8 +345,8 @@
 | 337 | 85 | Lush Risebuilder |
 | 338 | 85 | Sheila M Frazier |
 | 339 | 84 | Flashy Rumbler |
-| 340 | 84 | gremicx |
-| 341 | 84 | Spunky Racker |
+| 340 | 84 | Spunky Racker |
+| 341 | 84 | gremicx |
 | 342 | 83 | Glitzy Slide |
 | 343 | 83 | Daryn Elliott |
 | 344 | 83 | Deseree Ewing |
