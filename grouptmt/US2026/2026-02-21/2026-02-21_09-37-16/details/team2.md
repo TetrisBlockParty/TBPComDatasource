@@ -60,8 +60,8 @@
 | 52 | 1013 | Sarah Freitas |
 | 53 | 977 | Elizabeth Hinkens |
 | 54 | 975 | Alisha Peoples |
-| 55 | 962 | Janel Turley-Garner |
-| 56 | 962 | Brittany Alicia |
+| 55 | 962 | Brittany Alicia |
+| 56 | 962 | Janel Turley-Garner |
 | 57 | 907 | Becca Widmer |
 | 58 | 902 | Venechia Berry |
 | 59 | 897 | PsychKIRAtrist |
@@ -107,8 +107,8 @@
 | 99 | 674 | Dannette Goldberg-Richards |
 | 100 | 672 | Wendy Harder Gage |
 | 101 | 665 | Dineisha Carpenter |
-| 102 | 658 | Vistabrat |
-| 103 | 658 | Pacynthia Williams |
+| 102 | 658 | Pacynthia Williams |
+| 103 | 658 | Vistabrat |
 | 104 | 653 | Becky Weeks-Garry |
 | 105 | 649 | Anna Edwards |
 | 106 | 649 | Stephanie Chapman |
@@ -386,8 +386,8 @@
 | 378 | 212 | BK Queen |
 | 379 | 212 | Aleasha M Brown |
 | 380 | 209 | Jerry Tempelmeyer |
-| 381 | 208 | Nancy Pohlman |
-| 382 | 208 | Mema |
+| 381 | 208 | Mema |
+| 382 | 208 | Nancy Pohlman |
 | 383 | 207 | Brave Gridpiece |
 | 384 | 207 | Melissa McCall |
 | 385 | 207 | Shylee Tilman |
@@ -400,8 +400,8 @@
 | 392 | 203 | Gary Stash |
 | 393 | 201 | Peppy Snapfall |
 | 394 | 201 | Zombi3 |
-| 395 | 200 | Sarah Ridenour |
-| 396 | 200 | LaWanda Powell |
+| 395 | 200 | LaWanda Powell |
+| 396 | 200 | Sarah Ridenour |
 | 397 | 199 | Fi Ne |
 | 398 | 199 | Jessica Sutter |
 | 399 | 199 | Jenny Castro |
@@ -455,7 +455,7 @@
 | 447 | 177 | Angel |
 | 448 | 177 | Ryan Meilleur |
 | 449 | 177 | John |
-| 450 | 177 | Ryan Meilleur |
+| 450 | 177 | Glenn Cobbins |
 | 451 | 176 | Trisha Gallagher |
 | 452 | 176 | Jennifer Malloy - Cardy |
 | 453 | 175 | Snippy Rumbler |
@@ -465,8 +465,8 @@
 | 457 | 175 | Shandrica Lowe |
 | 458 | 174 | Jason Garnatz |
 | 459 | 173 | Ocean-Brianna McGregor |
-| 460 | 173 | kippykay |
-| 461 | 173 | Robin |
+| 460 | 173 | Robin |
+| 461 | 173 | kippykay |
 | 462 | 171 | Cappin You |
 | 463 | 171 | William Hunt |
 | 464 | 170 | Kenya Felix |
@@ -476,8 +476,8 @@
 | 468 | 169 | Eddie Perez |
 | 469 | 168 | Phil J. Grombliniak |
 | 470 | 168 | Kati Russeau |
-| 471 | 167 | mshir |
-| 472 | 167 | Sabrena Yeisley |
+| 471 | 167 | Sabrena Yeisley |
+| 472 | 167 | mshir |
 | 473 | 166 | suuny |
 | 474 | 165 | Tara Lynn Janes |
 | 475 | 165 | Catherine Varea |
@@ -596,7 +596,7 @@
 | 588 | 138 | Kiely Tomaskovich |
 | 589 | 137 | Jannan Haimour |
 | 590 | 137 | Arlet Alba |
-| 591 | 136 | Britney M. |
+| 591 | 136 | Tamara Slaten |
 | 592 | 136 | Ericka Marie Smith |
 | 593 | 136 | Britney M. |
 | 594 | 136 | Brandy |

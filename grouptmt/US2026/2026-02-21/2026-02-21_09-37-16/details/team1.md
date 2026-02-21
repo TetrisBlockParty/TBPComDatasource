@@ -89,8 +89,8 @@
 | 81 | 162 | Patrick Luckenbill |
 | 82 | 161 | Abbey Crespo |
 | 83 | 156 | Jessie Lynn |
-| 84 | 155 | David DeSantis |
-| 85 | 155 | Standia Civil |
+| 84 | 155 | Standia Civil |
+| 85 | 155 | David DeSantis |
 | 86 | 153 | Shiny Gridmatch |
 | 87 | 152 | Jacqueline Unique |
 | 88 | 149 | Tana |
@@ -114,10 +114,10 @@
 | 106 | 132 | Davery Spencer Adair |
 | 107 | 132 | Lori Sanders- Davis |
 | 108 | 130 | Dandy Basegrid |
-| 109 | 128 | Uhog SF |
-| 110 | 128 | lil mickey |
-| 111 | 127 | Michael |
-| 112 | 127 | Cece Ibarra |
+| 109 | 128 | lil mickey |
+| 110 | 128 | Uhog SF |
+| 111 | 127 | Cece Ibarra |
+| 112 | 127 | Michael |
 | 113 | 124 | Cartier |
 | 114 | 123 | LaQuetta Faith Hines |
 | 115 | 121 | Bouncy Grid |

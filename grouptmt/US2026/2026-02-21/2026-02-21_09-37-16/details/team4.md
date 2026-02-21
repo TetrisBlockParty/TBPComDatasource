@@ -158,8 +158,8 @@
 | 150 | 98 | Allen Lloyd |
 | 151 | 97 | Brandi Durig |
 | 152 | 96 | Zappy Snaplink |
-| 153 | 95 | Meagan Nicole |
-| 154 | 95 | Victoria Faniel |
+| 153 | 95 | Victoria Faniel |
+| 154 | 95 | Meagan Nicole |
 | 155 | 94 | Anthony Bryan Riva |
 | 156 | 94 | DonMega |
 | 157 | 93 | Zesty Twistbuilder |

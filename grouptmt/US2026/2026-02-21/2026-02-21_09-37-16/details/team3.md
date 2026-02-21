@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Blocked |
 | 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Mykal Burton |
-| 102 | 224 | Judi Dobson |
+| 101 | 224 | Judi Dobson |
+| 102 | 224 | Mykal Burton |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -204,8 +204,8 @@
 | 196 | 115 | Jennifer Alvey |
 | 197 | 114 | Tiffany Davie |
 | 198 | 114 | Jessica Bechler |
-| 199 | 113 | Valerie Gendron |
-| 200 | 113 | Brian Battjes |
+| 199 | 113 | Brian Battjes |
+| 200 | 113 | Valerie Gendron |
 | 201 | 111 | Stephanie Zahm |
 | 202 | 110 | Stella |
 | 203 | 110 | Tye Stovall |
