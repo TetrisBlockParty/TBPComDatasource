@@ -106,8 +106,8 @@
 | 98 | 144 | Tanya Carpenter-Reynolds |
 | 99 | 143 | Sarah Marie |
 | 100 | 141 | Blaire Bruckoff |
-| 101 | 138 | Gary Gobin |
-| 102 | 138 | Cranky Pattern |
+| 101 | 138 | Cranky Pattern |
+| 102 | 138 | Gary Gobin |
 | 103 | 137 | Nadine Velardo |
 | 104 | 134 | Trina Gee |
 | 105 | 133 | Breanna Luna |
@@ -170,8 +170,8 @@
 | 162 | 90 | Madison Wicks |
 | 163 | 90 | TSwag |
 | 164 | 89 | Mara Hilker |
-| 165 | 88 | Tyler Whitley |
-| 166 | 88 | Larry Tilton |
+| 165 | 88 | Larry Tilton |
+| 166 | 88 | Tyler Whitley |
 | 167 | 87 | Jessi Sauer |
 | 168 | 87 | Jenny Gingrich Fuentes |
 | 169 | 86 | Desiree Deschaine Havee |

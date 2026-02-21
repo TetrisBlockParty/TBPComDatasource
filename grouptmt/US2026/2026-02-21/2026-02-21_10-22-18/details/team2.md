@@ -107,8 +107,8 @@
 | 99 | 674 | Dannette Goldberg-Richards |
 | 100 | 672 | Wendy Harder Gage |
 | 101 | 665 | Dineisha Carpenter |
-| 102 | 658 | Vistabrat |
-| 103 | 658 | Pacynthia Williams |
+| 102 | 658 | Pacynthia Williams |
+| 103 | 658 | Vistabrat |
 | 104 | 653 | Becky Weeks-Garry |
 | 105 | 649 | Stephanie Chapman |
 | 106 | 649 | Anna Edwards |
@@ -252,8 +252,8 @@
 | 244 | 312 | Felicia Lynn |
 | 245 | 311 | Véronique Lévesque Sabourin |
 | 246 | 311 | Dar |
-| 247 | 309 | Oscar Bernie |
-| 248 | 309 | Ginger |
+| 247 | 309 | Ginger |
+| 248 | 309 | Oscar Bernie |
 | 249 | 309 | James Zaragoza |
 | 250 | 306 | Kristopher Miller |
 | 251 | 305 | Libby Hicks |
@@ -292,8 +292,8 @@
 | 284 | 275 | Cheeky Brickmatch |
 | 285 | 275 | Ann Matzkanin |
 | 286 | 275 | Shiny Rollzone |
-| 287 | 274 | Jamie Stevey |
-| 288 | 274 | Melissa Holsinger |
+| 287 | 274 | Melissa Holsinger |
+| 288 | 274 | Jamie Stevey |
 | 289 | 274 | Lonne Emade |
 | 290 | 273 | Ray Ray Prado |
 | 291 | 273 | Jenna Nance |
@@ -363,8 +363,8 @@
 | 355 | 234 | Jennifer Leigh |
 | 356 | 234 | Manny Trindade |
 | 357 | 234 | Jaybee Nguyen |
-| 358 | 233 | Jumpy Gridclear |
-| 359 | 233 | Robin Kerby |
+| 358 | 233 | Robin Kerby |
+| 359 | 233 | Jumpy Gridclear |
 | 360 | 232 | Amber Brion |
 | 361 | 231 | Dylan Thomason |
 | 362 | 231 | Hong Tang |
@@ -373,10 +373,10 @@
 | 365 | 228 | Michelle Sager |
 | 366 | 227 | Nutty Matchline |
 | 367 | 227 | Demeka Dangerous-kisses Johnson |
-| 368 | 227 | JacJac |
-| 369 | 227 | Sanaa Nounoussa |
-| 370 | 226 | Juliana Marques Do Nascimento Gordy |
-| 371 | 226 | Mary Marie |
+| 368 | 227 | Sanaa Nounoussa |
+| 369 | 227 | JacJac |
+| 370 | 226 | Mary Marie |
+| 371 | 226 | Juliana Marques Do Nascimento Gordy |
 | 372 | 226 | Leslie Ann Carter |
 | 373 | 223 | Kristi Biddinger |
 | 374 | 223 | LegoCarpet |
@@ -426,8 +426,8 @@
 | 418 | 193 | Kelly Ann McCormick |
 | 419 | 193 | Matthew Turner |
 | 420 | 192 | Steve Man |
-| 421 | 191 | Deana |
-| 422 | 191 | John Quiring |
+| 421 | 191 | John Quiring |
+| 422 | 191 | Deana |
 | 423 | 191 | Lauren Fitzgerald Thomas |
 | 424 | 190 | Layna Lyons |
 | 425 | 190 | Jessica Kaye DeAguero |
@@ -525,8 +525,8 @@
 | 517 | 157 | Ty Quarles |
 | 518 | 157 | Twisty Tetriblast |
 | 519 | 156 | RetroLemur |
-| 520 | 156 | Nuggets |
-| 521 | 156 | Deanna Morton |
+| 520 | 156 | Deanna Morton |
+| 521 | 156 | Nuggets |
 | 522 | 155 | Angela Murgia-Owen |
 | 523 | 155 | Cris cris |
 | 524 | 155 | Monarca26 |
@@ -643,11 +643,11 @@
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Chilly Rollblock |
 | 637 | 132 | Samie Dayle |
-| 638 | 132 | Paula Snyder |
-| 639 | 132 | Joann |
-| 640 | 132 | Eric Carlson |
-| 641 | 131 | Jennie Lee Huntley |
-| 642 | 131 | Deidre Shaffer |
+| 638 | 132 | Joann |
+| 639 | 132 | Eric Carlson |
+| 640 | 132 | Paula Snyder |
+| 641 | 131 | Deidre Shaffer |
+| 642 | 131 | Jennie Lee Huntley |
 | 643 | 131 | Kerry Miller |
 | 644 | 131 | Zeleana Perry |
 | 645 | 131 | Carson Goldminc |
@@ -956,8 +956,8 @@
 | 948 | 92 | Loony Dashy |
 | 949 | 92 | Jacqueline Muellerleile |
 | 950 | 92 | Jelly |
-| 951 | 91 | Ængeli Haze |
-| 952 | 91 | Sienna Parsons |
+| 951 | 91 | Sienna Parsons |
+| 952 | 91 | Ængeli Haze |
 | 953 | 91 | Chilly Wrecker |
 | 954 | 91 | Chipper Snaplink |
 | 955 | 91 | Moist_B-hole |

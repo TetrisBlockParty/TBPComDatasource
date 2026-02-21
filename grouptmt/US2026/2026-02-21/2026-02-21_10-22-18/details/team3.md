@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -168,8 +168,8 @@
 | 160 | 146 | Denita Mungro |
 | 161 | 145 | Bryan Byrd |
 | 162 | 142 | Erica Anderson |
-| 163 | 140 | Gumbo |
-| 164 | 140 | Jay Horn |
+| 163 | 140 | Jay Horn |
+| 164 | 140 | Gumbo |
 | 165 | 135 | Cheryl Hinch Tenbrook |
 | 166 | 134 | Emma |
 | 167 | 134 | DanceLuvLaugh |

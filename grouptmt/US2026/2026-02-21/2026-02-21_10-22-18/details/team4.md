@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -86,8 +86,8 @@
 | 78 | 165 | Casey Grabner |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -111,8 +111,8 @@
 | 103 | 131 | Mr. Party |
 | 104 | 130 | Lucas J Sutton |
 | 105 | 130 | Casey Jeffcoat |
-| 106 | 129 | John Brunetti |
-| 107 | 129 | Landon Keith Graffeo |
+| 106 | 129 | Landon Keith Graffeo |
+| 107 | 129 | John Brunetti |
 | 108 | 126 | Dihcheese444 |
 | 109 | 125 | Lauren Scott |
 | 110 | 123 | Nugget |
@@ -214,8 +214,8 @@
 | 206 | 77 | Zippy Gridlock |
 | 207 | 77 | Marvin Lou Martin |
 | 208 | 76 | Bethany Ison |
-| 209 | 76 | Madison Sweere |
-| 210 | 76 | Crystal Lynn |
+| 209 | 76 | Crystal Lynn |
+| 210 | 76 | Madison Sweere |
 | 211 | 75 | Christina Black |
 | 212 | 75 | Rosemary Foster |
 | 213 | 74 | Tyler Terrific |
