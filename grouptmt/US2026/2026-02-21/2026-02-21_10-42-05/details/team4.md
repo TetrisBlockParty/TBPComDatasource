@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -83,11 +83,11 @@
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Courtney Cicoria |
-| 79 | 165 | Casey Grabner |
+| 78 | 165 | Casey Grabner |
+| 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Holly Jolly |
-| 82 | 159 | Justin Hannigan |
+| 81 | 159 | Justin Hannigan |
+| 82 | 159 | Holly Jolly |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -99,8 +99,8 @@
 | 91 | 140 | Shannon Ferrari |
 | 92 | 138 | Shainne Brewer |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Chirpy Basepiece |
-| 95 | 134 | Jessica Bohlken |
+| 94 | 134 | Jessica Bohlken |
+| 95 | 134 | Chirpy Basepiece |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Shauna Havard |
 | 98 | 132 | Jessica Cagle |

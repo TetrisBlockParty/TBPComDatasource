@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | MrsCandyfine As Wine Truss |
-| 155 | 486 | Ramone Armstrong |
+| 154 | 486 | Ramone Armstrong |
+| 155 | 486 | MrsCandyfine As Wine Truss |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -202,8 +202,8 @@
 | 194 | 391 | Qiana Sanders |
 | 195 | 386 | Ashie Ann |
 | 196 | 386 | Macy Williams |
-| 197 | 385 | Sam |
-| 198 | 385 | Arwa Fatimah |
+| 197 | 385 | Arwa Fatimah |
+| 198 | 385 | Sam |
 | 199 | 381 | Amanda Ferrell |
 | 200 | 380 | Joshua Mandel |
 | 201 | 380 | Calandra Shaya Robinson |
@@ -280,8 +280,8 @@
 | 272 | 290 | Maya June |
 | 273 | 288 | Megan Phillips |
 | 274 | 286 | Ryan Gunther |
-| 275 | 285 | June E Hanson |
-| 276 | 285 | Jánine Riggs |
+| 275 | 285 | Jánine Riggs |
+| 276 | 285 | June E Hanson |
 | 277 | 283 | Davetta Sanford |
 | 278 | 282 | Carl Bradshaw |
 | 279 | 282 | Shaun Church |
@@ -412,8 +412,8 @@
 | 404 | 200 | LaWanda Powell |
 | 405 | 200 | Sarah Ridenour |
 | 406 | 199 | Fi Ne |
-| 407 | 199 | Jenny Castro |
-| 408 | 199 | Jessica Sutter |
+| 407 | 199 | Jessica Sutter |
+| 408 | 199 | Jenny Castro |
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |

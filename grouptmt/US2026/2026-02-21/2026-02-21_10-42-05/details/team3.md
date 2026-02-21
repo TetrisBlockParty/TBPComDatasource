@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -114,8 +114,8 @@
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Shunta Jacobs |
-| 110 | 212 | Kristie McFarland |
+| 109 | 212 | Kristie McFarland |
+| 110 | 212 | Shunta Jacobs |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -182,8 +182,8 @@
 | 174 | 127 | Aerian Preston |
 | 175 | 127 | Marquita Sheard |
 | 176 | 126 | Brandon Givens |
-| 177 | 125 | Shimika Enay Wallace |
-| 178 | 125 | Felicia Doxey |
+| 177 | 125 | Felicia Doxey |
+| 178 | 125 | Shimika Enay Wallace |
 | 179 | 124 | Cesar Barraza |
 | 180 | 123 | Sarajane Lokan |
 | 181 | 123 | Terry Jo Jones |
@@ -287,9 +287,9 @@
 | 279 | 86 | Criss |
 | 280 | 85 | Crystel b520 |
 | 281 | 85 | Chris Bell |
-| 282 | 84 | Spunky Racker |
+| 282 | 84 | Flashy Rumbler |
 | 283 | 84 | gremicx |
-| 284 | 84 | Flashy Rumbler |
+| 284 | 84 | Spunky Racker |
 | 285 | 83 | Deseree Ewing |
 | 286 | 82 | Rebecca Funderburk Kirby |
 | 287 | 81 | Tina Baurdau |
