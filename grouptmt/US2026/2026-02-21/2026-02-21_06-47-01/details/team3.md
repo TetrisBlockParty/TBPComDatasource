@@ -41,8 +41,8 @@
 | 33 | 587 | Danielle Becker |
 | 34 | 587 | Suzieq |
 | 35 | 568 | Shonna Roberts |
-| 36 | 546 | Dolores Falco |
-| 37 | 546 | Snappy Glidepiece |
+| 36 | 546 | Snappy Glidepiece |
+| 37 | 546 | Dolores Falco |
 | 38 | 541 | MissTaylor |
 | 39 | 533 | Sarah Fehring |
 | 40 | 528 | Natasha Jones |
@@ -109,15 +109,15 @@
 | 101 | 200 | Twisty Brick LT |
 | 102 | 199 | joclisa |
 | 103 | 195 | CeceGeGe |
-| 104 | 195 | Nicha Hooker |
-| 105 | 195 | Jenny Hrndz |
+| 104 | 195 | Jenny Hrndz |
+| 105 | 195 | Nicha Hooker |
 | 106 | 194 | glichmod |
 | 107 | 193 | Shunta Jacobs |
 | 108 | 193 | Clever Shiftsnap |
 | 109 | 192 | Chasity |
 | 110 | 191 | Scott Carleton |
-| 111 | 187 | Speedy Bridger |
-| 112 | 187 | Katrina Schroeder |
+| 111 | 187 | Katrina Schroeder |
+| 112 | 187 | Speedy Bridger |
 | 113 | 184 | Jennie Beranek |
 | 114 | 182 | Ashley Tookes |
 | 115 | 182 | Hyper Matchzone |
@@ -149,16 +149,16 @@
 | 141 | 146 | Latoya Mayne |
 | 142 | 146 | Denita Mungro |
 | 143 | 142 | Erica Anderson |
-| 144 | 140 | Jay Horn |
-| 145 | 140 | Gumbo |
+| 144 | 140 | Gumbo |
+| 145 | 140 | Jay Horn |
 | 146 | 138 | Mendoza Lee Christy |
 | 147 | 135 | Nicole Flippo |
 | 148 | 135 | Cheryl Hinch Tenbrook |
 | 149 | 134 | Emma |
 | 150 | 134 | DanceLuvLaugh |
 | 151 | 131 | Jl |
-| 152 | 127 | Marquita Sheard |
-| 153 | 127 | Aerian Preston |
+| 152 | 127 | Aerian Preston |
+| 153 | 127 | Marquita Sheard |
 | 154 | 126 | Dan Rob |
 | 155 | 126 | Stephanie Burtin |
 | 156 | 125 | Shimika Enay Wallace |
@@ -177,8 +177,8 @@
 | 169 | 121 | Danielle Allison |
 | 170 | 120 | Jessica |
 | 171 | 118 | Fancy Curver |
-| 172 | 116 | Skinny Baldez |
-| 173 | 116 | Joy Petroski |
+| 172 | 116 | Joy Petroski |
+| 173 | 116 | Skinny Baldez |
 | 174 | 115 | Jennifer Alvey |
 | 175 | 114 | Nicholas Roddy |
 | 176 | 114 | Jessica Bechler |

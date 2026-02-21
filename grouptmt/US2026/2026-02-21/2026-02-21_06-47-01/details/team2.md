@@ -336,8 +336,8 @@
 | 328 | 216 | Tum |
 | 329 | 215 | Jordan Petro |
 | 330 | 212 | Aleasha M Brown |
-| 331 | 212 | Amanda Canterbury |
-| 332 | 212 | BK Queen |
+| 331 | 212 | BK Queen |
+| 332 | 212 | Amanda Canterbury |
 | 333 | 208 | Mema |
 | 334 | 207 | Brave Gridpiece |
 | 335 | 207 | Melissa McCall |
@@ -359,8 +359,8 @@
 | 351 | 198 | Angie Bolton Workman |
 | 352 | 198 | Alyssa Dean |
 | 353 | 196 | Besma Ao |
-| 354 | 196 | Cass Shirley |
-| 355 | 196 | Alexandra Reese |
+| 354 | 196 | Alexandra Reese |
+| 355 | 196 | Cass Shirley |
 | 356 | 196 | Neko Preston |
 | 357 | 195 | Snappy Shatterfit |
 | 358 | 194 | Hoppy Brickmatch |
@@ -440,8 +440,8 @@
 | 432 | 164 | Jessica Vega |
 | 433 | 163 | Danielle Ayoub |
 | 434 | 163 | Albert McKnight |
-| 435 | 162 | Michael Artis |
-| 436 | 162 | LC Hamilton |
+| 435 | 162 | LC Hamilton |
+| 436 | 162 | Michael Artis |
 | 437 | 162 | Brenna Ann |
 | 438 | 161 | Brandon McDonald |
 | 439 | 161 | Snippy Rumbler |
@@ -472,8 +472,8 @@
 | 464 | 156 | RetroLemur |
 | 465 | 156 | Dar |
 | 466 | 155 | Angela Murgia-Owen |
-| 467 | 155 | Monarca26 |
-| 468 | 155 | Chelle |
+| 467 | 155 | Chelle |
+| 468 | 155 | Monarca26 |
 | 469 | 154 | Bryan Werleman |
 | 470 | 154 | Lori Maring |
 | 471 | 154 | Tiffney Wroten |
@@ -547,14 +547,14 @@
 | 539 | 133 | Britt Woolston |
 | 540 | 133 | Candy Pitts |
 | 541 | 132 | Chilly Rollblock |
-| 542 | 132 | Eric Carlson |
-| 543 | 132 | Paula Snyder |
+| 542 | 132 | Paula Snyder |
+| 543 | 132 | Eric Carlson |
 | 544 | 131 | Deidre Shaffer |
 | 545 | 131 | Zeleana Perry |
-| 546 | 130 | Nerdy Riserfit |
-| 547 | 130 | Roger Grabbit |
-| 548 | 130 | Cranky Zonebuilder |
-| 549 | 130 | Sandy Aragon |
+| 546 | 130 | Roger Grabbit |
+| 547 | 130 | Nerdy Riserfit |
+| 548 | 130 | Sandy Aragon |
+| 549 | 130 | Cranky Zonebuilder |
 | 550 | 130 | Amy Ross |
 | 551 | 130 | Arlet Alba |
 | 552 | 129 | Jean FU Jagielski |

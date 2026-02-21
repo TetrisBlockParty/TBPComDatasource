@@ -99,8 +99,8 @@
 | 91 | 132 | Davery Spencer Adair |
 | 92 | 131 | Trina Gee |
 | 93 | 130 | Dandy Basegrid |
-| 94 | 128 | Uhog SF |
-| 95 | 128 | lil mickey |
+| 94 | 128 | lil mickey |
+| 95 | 128 | Uhog SF |
 | 96 | 127 | Michael |
 | 97 | 126 | Cece Ibarra |
 | 98 | 126 | Rachael |
@@ -112,8 +112,8 @@
 | 104 | 115 | comrade fish |
 | 105 | 114 | Colleen Wise |
 | 106 | 114 | Giddy Cascade |
-| 107 | 112 | Kristen Gideon |
-| 108 | 112 | Nicole Roseberry Weber |
+| 107 | 112 | Nicole Roseberry Weber |
+| 108 | 112 | Kristen Gideon |
 | 109 | 112 | Miguel Teixeira |
 | 110 | 111 | Agustin Duarte Orozco |
 | 111 | 110 | Garcia Bailey |
