@@ -47,8 +47,8 @@
 | 39 | 998 | Liv Whetson |
 | 40 | 996 | Danielle Cutler |
 | 41 | 989 | Kay |
-| 42 | 928 | Snappy Fitzone |
-| 43 | 928 | Stephanie Rice |
+| 42 | 928 | Stephanie Rice |
+| 43 | 928 | Snappy Fitzone |
 | 44 | 915 | Fancy Slam |
 | 45 | 879 | Shonna Roberts |
 | 46 | 874 | Jessica Pineda-Lopez |
@@ -171,13 +171,13 @@
 | 163 | 254 | Duane Bright |
 | 164 | 252 | Nicole Flippo |
 | 165 | 249 | Santeria Trece Candles |
-| 166 | 245 | Latoya Mayne |
-| 167 | 245 | Annie Marie |
+| 166 | 245 | Annie Marie |
+| 167 | 245 | Latoya Mayne |
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
-| 171 | 237 | Brandon Givens |
-| 172 | 237 | Rebecca Funderburk Kirby |
+| 171 | 237 | Rebecca Funderburk Kirby |
+| 172 | 237 | Brandon Givens |
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
@@ -199,8 +199,8 @@
 | 191 | 211 | Katrina Turner |
 | 192 | 210 | Michael Lucado |
 | 193 | 209 | Twisty Brick LT |
-| 194 | 207 | Chris Bell |
-| 195 | 207 | Jessica |
+| 194 | 207 | Jessica |
+| 195 | 207 | Chris Bell |
 | 196 | 205 | Sarah Moyer |
 | 197 | 204 | Danielle Allison |
 | 198 | 201 | Karon Griffin |
@@ -208,12 +208,12 @@
 | 200 | 200 | Sharisse Baltimore |
 | 201 | 200 | glichmod |
 | 202 | 199 | Rania Zaqout |
-| 203 | 197 | Staci George Fitzsimmons |
-| 204 | 197 | Connie Mohler-Fair |
-| 205 | 197 | Angie Harper |
+| 203 | 197 | Connie Mohler-Fair |
+| 204 | 197 | Angie Harper |
+| 205 | 197 | Staci George Fitzsimmons |
 | 206 | 195 | Nicha Hooker |
-| 207 | 193 | Clever Shiftsnap |
-| 208 | 193 | Stephanie Burtin |
+| 207 | 193 | Stephanie Burtin |
+| 208 | 193 | Clever Shiftsnap |
 | 209 | 192 | Kelly Ann Child |
 | 210 | 192 | Trisha Balmer |
 | 211 | 191 | Rebel124 |

@@ -169,8 +169,8 @@
 | 161 | 151 | Bethany Ison |
 | 162 | 149 | Shainne Brewer |
 | 163 | 148 | Mr. Party |
-| 164 | 148 | Janita Parrish |
-| 165 | 148 | Brittany Marsh |
+| 164 | 148 | Brittany Marsh |
+| 165 | 148 | Janita Parrish |
 | 166 | 147 | B Renee Desjardin |
 | 167 | 147 | Jay28 |
 | 168 | 142 | Zippy Gridlock |
@@ -181,8 +181,8 @@
 | 173 | 140 | Stephme310 |
 | 174 | 137 | Zany Shatterer |
 | 175 | 137 | PeaceOs |
-| 176 | 136 | Crystal Nicolette Moore |
-| 177 | 136 | Tanner Lund |
+| 176 | 136 | Tanner Lund |
+| 177 | 136 | Crystal Nicolette Moore |
 | 178 | 136 | Chaz |
 | 179 | 135 | Mimi |
 | 180 | 135 | Victoria Faniel |

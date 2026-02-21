@@ -193,15 +193,15 @@
 | 185 | 692 | Wendy Harder Gage |
 | 186 | 690 | Deborah Miller |
 | 187 | 688 | Dreamy Blast |
-| 188 | 686 | Ashley Guernsey-Martin |
-| 189 | 686 | Dannette Goldberg-Richards |
+| 188 | 686 | Dannette Goldberg-Richards |
+| 189 | 686 | Ashley Guernsey-Martin |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 664 | Brittany Clark |
 | 199 | 661 | Claire Noland |
@@ -411,12 +411,12 @@
 | 403 | 369 | Tony Lea |
 | 404 | 369 | Tara Lynn Janes |
 | 405 | 367 | Deyawn Smith |
-| 406 | 366 | Courtney Burcham |
+| 406 | 366 | Darcy Mae |
 | 407 | 366 | Smashanator |
-| 408 | 366 | Darcy Mae |
-| 409 | 365 | Kayla |
+| 408 | 366 | Courtney Burcham |
+| 409 | 365 | Christina Lewis-Vickers |
 | 410 | 365 | Audrey Jones |
-| 411 | 365 | Christina Lewis-Vickers |
+| 411 | 365 | Kayla |
 | 412 | 364 | Lively Edgepiece |
 | 413 | 364 | Shinette Dobson |
 | 414 | 363 | Happy Caster |
