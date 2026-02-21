@@ -75,9 +75,9 @@
 | 67 | 78 | Chilly Line |
 | 68 | 77 | Kim Hunt |
 | 69 | 76 | Kristin MacDonald |
-| 70 | 75 | Avy Absol |
-| 71 | 75 | Rosemary Foster |
-| 72 | 75 | Chair |
+| 70 | 75 | Rosemary Foster |
+| 71 | 75 | Chair |
+| 72 | 75 | Avy Absol |
 | 73 | 73 | Lauren Lamb |
 | 74 | 72 | Joshua Cuellar |
 | 75 | 72 | Kesha Brady |

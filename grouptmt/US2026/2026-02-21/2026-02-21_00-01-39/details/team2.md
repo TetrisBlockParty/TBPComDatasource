@@ -220,8 +220,8 @@
 | 212 | 160 | Rhonda Petro |
 | 213 | 159 | Charvi' Carter |
 | 214 | 158 | Toni Roberson |
-| 215 | 158 | RaeVan Worthington |
-| 216 | 158 | Matthew Turner |
+| 215 | 158 | Matthew Turner |
+| 216 | 158 | RaeVan Worthington |
 | 217 | 157 | Jánine Riggs |
 | 218 | 157 | Klee |
 | 219 | 157 | HarleyJane |
@@ -243,10 +243,10 @@
 | 235 | 145 | William Hughes |
 | 236 | 145 | Scott Rackley |
 | 237 | 144 | Kimberly Ann |
-| 238 | 143 | Katrina Williams Balmir |
-| 239 | 143 | Allison Hewitt |
-| 240 | 142 | Frisky Clearpiece |
-| 241 | 142 | Kyle LeRoy Harris |
+| 238 | 143 | Allison Hewitt |
+| 239 | 143 | Katrina Williams Balmir |
+| 240 | 142 | Kyle LeRoy Harris |
+| 241 | 142 | Frisky Clearpiece |
 | 242 | 142 | Angela Lynn |
 | 243 | 141 | Markisha Poyndexter |
 | 244 | 140 | Anthony Huebel |
@@ -280,8 +280,8 @@
 | 272 | 126 | Kyle Saunders |
 | 273 | 125 | Marsha Sosa Kiech |
 | 274 | 125 | Chilly Rollblock |
-| 275 | 124 | Witty Piecebuilder |
-| 276 | 124 | Monica Brown |
+| 275 | 124 | Monica Brown |
+| 276 | 124 | Witty Piecebuilder |
 | 277 | 123 | Caitlin Johnson |
 | 278 | 122 | Scott Treadway |
 | 279 | 122 | Gursharan Sandhu |

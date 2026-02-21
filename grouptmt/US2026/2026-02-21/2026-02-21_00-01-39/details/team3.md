@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 193 | Clever Shiftsnap |
 | 56 | 193 | Shunta Jacobs |
@@ -131,7 +131,7 @@
 | 123 | 82 | Clever Clearbuilder |
 | 124 | 82 | Donna |
 | 125 | 81 | Danielle Becker |
-| 126 | 80 | Chris Bell |
+| 126 | 80 | Vixen Queen |
 | 127 | 80 | Gumbo |
 | 128 | 80 | Chris Bell |
 | 129 | 78 | Karon Griffin |
