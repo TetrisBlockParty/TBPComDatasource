@@ -48,8 +48,8 @@
 | 40 | 510 | Colena Davenport |
 | 41 | 508 | Michelle Nicole |
 | 42 | 493 | Kristen Roles Robben |
-| 43 | 486 | Sevens4L |
-| 44 | 486 | Sarah Lombardo |
+| 43 | 486 | Sarah Lombardo |
+| 44 | 486 | Sevens4L |
 | 45 | 483 | Ryan Lunnin |
 | 46 | 469 | Kathi Snustad |
 | 47 | 460 | Tipsy Column |
@@ -119,8 +119,8 @@
 | 111 | 203 | Giggly Builderline |
 | 112 | 198 | Happy Snapbuild |
 | 113 | 195 | Jason Jones |
-| 114 | 194 | GATOR |
-| 115 | 194 | Ash Galvan |
+| 114 | 194 | Ash Galvan |
+| 115 | 194 | GATOR |
 | 116 | 193 | Lachelle Dillon |
 | 117 | 192 | Shaykmia |
 | 118 | 191 | Diane Byrd |
@@ -128,8 +128,8 @@
 | 120 | 190 | Thorne Shumate |
 | 121 | 189 | Happy Basegrid |
 | 122 | 188 | Sam Williams |
-| 123 | 187 | Plucky Ziggy |
-| 124 | 187 | Snippy Wipebuilder |
+| 123 | 187 | Snippy Wipebuilder |
+| 124 | 187 | Plucky Ziggy |
 | 125 | 186 | Jennifer Olewnik Soborowski |
 | 126 | 182 | Spunky Piecebuilder |
 | 127 | 181 | Tana |
@@ -146,8 +146,8 @@
 | 138 | 169 | Luciano Moreira |
 | 139 | 169 | Abbey Crespo |
 | 140 | 168 | Standia Civil |
-| 141 | 166 | Rico Rico |
-| 142 | 166 | John Barron |
+| 141 | 166 | John Barron |
+| 142 | 166 | Rico Rico |
 | 143 | 165 | Nadine Velardo |
 | 144 | 164 | Katie Daniels |
 | 145 | 163 | Tyler Whitley |
@@ -170,8 +170,8 @@
 | 162 | 146 | Christy Jones |
 | 163 | 145 | Agustin Duarte Orozco |
 | 164 | 145 | Angela Fairbank |
-| 165 | 144 | Gary Gobin |
-| 166 | 144 | femmefatale |
+| 165 | 144 | femmefatale |
+| 166 | 144 | Gary Gobin |
 | 167 | 143 | Sarah Marie |
 | 168 | 142 | Colleen Wise |
 | 169 | 141 | Blaire Bruckoff |

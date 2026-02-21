@@ -57,8 +57,8 @@
 | 49 | 449 | Shelly Chandler |
 | 50 | 447 | Samantha Peterson |
 | 51 | 433 | Isabel Aguilar |
-| 52 | 411 | Jonathan Kimbrough |
-| 53 | 411 | TeeJ |
+| 52 | 411 | TeeJ |
+| 53 | 411 | Jonathan Kimbrough |
 | 54 | 409 | Isabella Blanco |
 | 55 | 402 | Courtney Cicoria |
 | 56 | 399 | Jenna Ingersoll |
@@ -91,8 +91,8 @@
 | 83 | 255 | Lindsay Ball |
 | 84 | 254 | Holly Jolly |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Autum Leigh |
-| 87 | 230 | Lucas J Sutton |
+| 86 | 230 | Lucas J Sutton |
+| 87 | 230 | Autum Leigh |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |
@@ -203,8 +203,8 @@
 | 195 | 121 | Megan Cutshaw |
 | 196 | 120 | Jackie Marie |
 | 197 | 120 | Zesty Twistbuilder |
-| 198 | 120 | KayM |
-| 199 | 120 | Joshua Guess |
+| 198 | 120 | Joshua Guess |
+| 199 | 120 | KayM |
 | 200 | 119 | Kristin Manee |
 | 201 | 119 | Judy Cox |
 | 202 | 119 | Gwendolyn Pitcairn |
@@ -258,8 +258,8 @@
 | 250 | 97 | Jen Caldwell |
 | 251 | 97 | Marcela Johnson |
 | 252 | 96 | Blessedmama |
-| 253 | 96 | Sammy Noguera |
-| 254 | 96 | Jessica Miller |
+| 253 | 96 | Jessica Miller |
+| 254 | 96 | Sammy Noguera |
 | 255 | 96 | Marcus TheeyoungWoe Gilmore |
 | 256 | 95 | Meagan Nicole |
 | 257 | 95 | Groovy Gridlock |
@@ -276,11 +276,11 @@
 | 268 | 91 | Sunny Filler |
 | 269 | 90 | Carol Ricks Raymond |
 | 270 | 90 | Hyper Builder |
-| 271 | 90 | Thomas Hettenhaus |
-| 272 | 90 | No Strings Attached Ra |
+| 271 | 90 | No Strings Attached Ra |
+| 272 | 90 | Thomas Hettenhaus |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Kesha Brady |
-| 275 | 88 | Michelle Parker |
+| 274 | 88 | Michelle Parker |
+| 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | Destiney Carter |
 | 278 | 86 | amy |

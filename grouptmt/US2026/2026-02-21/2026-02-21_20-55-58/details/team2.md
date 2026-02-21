@@ -250,8 +250,8 @@
 | 242 | 510 | Lisa Ongtowasruk |
 | 243 | 509 | Kelli Wells |
 | 244 | 506 | AISlop |
-| 245 | 504 | Gene Mills |
-| 246 | 504 | Cherica Taylor |
+| 245 | 504 | Cherica Taylor |
+| 246 | 504 | Gene Mills |
 | 247 | 503 | tejas25 |
 | 248 | 502 | Magic steve |
 | 249 | 502 | Poppy Snap |
@@ -296,8 +296,8 @@
 | 288 | 442 | Daphne Jordan |
 | 289 | 442 | Joshua Mandel |
 | 290 | 440 | Liberty |
-| 291 | 439 | Joseph Musick |
-| 292 | 439 | Alisa Lamb |
+| 291 | 439 | Alisa Lamb |
+| 292 | 439 | Joseph Musick |
 | 293 | 439 | Nashu |
 | 294 | 437 | Arwa Fatimah |
 | 295 | 436 | Melissa Kay Gibson |
@@ -324,10 +324,10 @@
 | 316 | 411 | Ricky Fortune |
 | 317 | 410 | Altamirano Michael |
 | 318 | 409 | Sparkles |
-| 319 | 406 | Heather Schelkopf |
-| 320 | 406 | Erin StFrancis |
-| 321 | 405 | Sarah Massey |
-| 322 | 405 | Christy Krissie |
+| 319 | 406 | Erin StFrancis |
+| 320 | 406 | Heather Schelkopf |
+| 321 | 405 | Christy Krissie |
+| 322 | 405 | Sarah Massey |
 | 323 | 403 | nikki |
 | 324 | 402 | Brandy Andre |
 | 325 | 401 | Taylor Flowers |
@@ -1020,7 +1020,7 @@
 | 1012 | 135 | Guy Fisher |
 | 1013 | 135 | Atara James |
 | 1014 | 134 | Ashley Hair |
-| 1015 | 134 | Speedy Pivoty |
+| 1015 | 134 | Chris L Gustafson |
 | 1016 | 134 | Slinky Risegrid |
 | 1017 | 134 | Speedy Pivoty |
 | 1018 | 134 | Kendall Fullerton |

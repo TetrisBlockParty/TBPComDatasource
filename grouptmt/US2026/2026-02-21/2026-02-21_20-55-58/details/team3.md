@@ -257,8 +257,8 @@
 | 249 | 147 | Carrie Huskey |
 | 250 | 146 | Denita Mungro |
 | 251 | 146 | Latoya Mayne |
-| 252 | 145 | Jeni Dow |
-| 253 | 145 | Bryan Byrd |
+| 252 | 145 | Bryan Byrd |
+| 253 | 145 | Jeni Dow |
 | 254 | 142 | Jl |
 | 255 | 142 | Erica Anderson |
 | 256 | 142 | Araceli Parra |
@@ -412,7 +412,7 @@
 | 404 | 88 | Kelly Koenig |
 | 405 | 88 | Kaitie Oliver |
 | 406 | 87 | Eileen Brady Thurber |
-| 407 | 86 | Jonathn Poindexter |
+| 407 | 86 | Salena Whitlock |
 | 408 | 86 | Mariah Williams |
 | 409 | 86 | Jonathn Poindexter |
 | 410 | 85 | Amy Wheeler |
