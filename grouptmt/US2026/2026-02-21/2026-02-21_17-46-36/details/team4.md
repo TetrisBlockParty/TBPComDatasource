@@ -42,8 +42,8 @@
 | 34 | 447 | Samantha Peterson |
 | 35 | 433 | Isabel Aguilar |
 | 36 | 427 | Tammi Crnza |
-| 37 | 426 | KM8 |
-| 38 | 426 | Landon Keith Graffeo |
+| 37 | 426 | Landon Keith Graffeo |
+| 38 | 426 | KM8 |
 | 39 | 408 | TeeJ |
 | 40 | 404 | Carolyn Wallace |
 | 41 | 403 | Misty Hollibaugh |
@@ -112,11 +112,11 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | blockstar |
-| 108 | 173 | Ren Mc |
+| 107 | 173 | Ren Mc |
+| 108 | 173 | blockstar |
 | 109 | 171 | Denise Carlson |
-| 110 | 170 | Peachy Fall |
-| 111 | 170 | Girl |
+| 110 | 170 | Girl |
+| 111 | 170 | Peachy Fall |
 | 112 | 164 | ThaEviLJeNiuZ |
 | 113 | 160 | ZeeZee |
 | 114 | 160 | Crystal Carroll |
@@ -134,8 +134,8 @@
 | 126 | 147 | Chair |
 | 127 | 147 | 030Synner |
 | 128 | 146 | Klo |
-| 129 | 144 | Mr. Party |
-| 130 | 144 | Shainne Brewer |
+| 129 | 144 | Shainne Brewer |
+| 130 | 144 | Mr. Party |
 | 131 | 141 | Malakai Darien Fox |
 | 132 | 140 | John Brunetti |
 | 133 | 140 | Jenna McGeorge |

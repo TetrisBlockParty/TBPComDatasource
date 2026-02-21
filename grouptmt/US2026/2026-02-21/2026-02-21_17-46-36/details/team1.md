@@ -79,8 +79,8 @@
 | 71 | 241 | Patrick Luckenbill |
 | 72 | 237 | Elaine Elaine |
 | 73 | 235 | Dee Perry |
-| 74 | 232 | Dandy Basegrid |
-| 75 | 232 | John J. Cronin |
+| 74 | 232 | John J. Cronin |
+| 75 | 232 | Dandy Basegrid |
 | 76 | 228 | Trippy Redd |
 | 77 | 226 | Sharon Reynolds |
 | 78 | 223 | TSwag |
@@ -116,8 +116,8 @@
 | 108 | 176 | Basment Living |
 | 109 | 175 | Nicole Roseberry Weber |
 | 110 | 173 | Frothy Pattern |
-| 111 | 171 | Greg Premoe |
-| 112 | 171 | David DeSantis |
+| 111 | 171 | David DeSantis |
+| 112 | 171 | Greg Premoe |
 | 113 | 169 | Abbey Crespo |
 | 114 | 168 | Standia Civil |
 | 115 | 168 | Sarah Lombardo |

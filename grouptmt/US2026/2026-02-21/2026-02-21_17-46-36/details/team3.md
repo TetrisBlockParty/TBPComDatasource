@@ -208,8 +208,8 @@
 | 200 | 160 | Tiffany Davie |
 | 201 | 159 | Jone |
 | 202 | 157 | Marquita Sheard |
-| 203 | 157 | Patricia Gadsden |
-| 204 | 157 | Nicholas Roddy |
+| 203 | 157 | Nicholas Roddy |
+| 204 | 157 | Patricia Gadsden |
 | 205 | 156 | Bea Miles |
 | 206 | 155 | Loopy Fallzone |
 | 207 | 153 | Rachel Napper |
@@ -230,11 +230,11 @@
 | 222 | 146 | Ashley Lynn Marchese |
 | 223 | 146 | Latoya Mayne |
 | 224 | 146 | Carrie Huskey |
-| 225 | 145 | Emma |
-| 226 | 145 | Bryan Byrd |
+| 225 | 145 | Bryan Byrd |
+| 226 | 145 | Emma |
 | 227 | 142 | Jl |
-| 228 | 142 | David Bardo |
-| 229 | 142 | Erica Anderson |
+| 228 | 142 | Erica Anderson |
+| 229 | 142 | David Bardo |
 | 230 | 139 | Loopy Clusterer |
 | 231 | 138 | Boldy Corner |
 | 232 | 137 | Cheryl Hinch Tenbrook |

@@ -315,8 +315,8 @@
 | 307 | 358 | Alyssaaelena |
 | 308 | 357 | Shannon Byrd |
 | 309 | 357 | Julie Kresal |
-| 310 | 355 | Shandrica Lowe |
-| 311 | 355 | Alexandra Weir |
+| 310 | 355 | Alexandra Weir |
+| 311 | 355 | Shandrica Lowe |
 | 312 | 354 | Lawanda Forbes |
 | 313 | 354 | Brave Dropmatch |
 | 314 | 354 | Tracy Wise |
@@ -542,8 +542,8 @@
 | 534 | 215 | Ashlyn Berner |
 | 535 | 215 | Trista Carter |
 | 536 | 214 | Cass Shirley |
-| 537 | 214 | Dawn L Washington-Feuquay |
-| 538 | 214 | James Smith |
+| 537 | 214 | James Smith |
+| 538 | 214 | Dawn L Washington-Feuquay |
 | 539 | 213 | Kitybox |
 | 540 | 212 | Wacky Cascade |
 | 541 | 212 | BK Queen |
