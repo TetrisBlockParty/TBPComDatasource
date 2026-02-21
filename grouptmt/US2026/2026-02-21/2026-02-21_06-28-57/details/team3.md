@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Danielle Becker |
-| 32 | 587 | Suzieq |
+| 31 | 587 | Suzieq |
+| 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
 | 34 | 560 | Josiah Fam |
 | 35 | 551 | Danielle Cutler |
@@ -69,8 +69,8 @@
 | 61 | 360 | Ebony West-Cundiff |
 | 62 | 351 | Calista Jo Dickson |
 | 63 | 343 | Silly Twist |
-| 64 | 342 | Trezure Gonzalez |
-| 65 | 342 | Annie Déè |
+| 64 | 342 | Annie Déè |
+| 65 | 342 | Trezure Gonzalez |
 | 66 | 338 | Danielle Rhoades |
 | 67 | 334 | Chummy Shatterer |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
@@ -110,8 +110,8 @@
 | 102 | 195 | Nicha Hooker |
 | 103 | 195 | Jenny Hrndz |
 | 104 | 194 | glichmod |
-| 105 | 193 | Shunta Jacobs |
-| 106 | 193 | Clever Shiftsnap |
+| 105 | 193 | Clever Shiftsnap |
+| 106 | 193 | Shunta Jacobs |
 | 107 | 192 | Chasity |
 | 108 | 187 | Katrina Schroeder |
 | 109 | 187 | Speedy Bridger |
@@ -138,9 +138,9 @@
 | 130 | 152 | Shiny Zonebuilder |
 | 131 | 152 | Karon Griffin |
 | 132 | 150 | Nicole Myers |
-| 133 | 149 | Angel Mendez |
+| 133 | 149 | Trisha Balmer |
 | 134 | 149 | Bea Miles |
-| 135 | 149 | Trisha Balmer |
+| 135 | 149 | Angel Mendez |
 | 136 | 147 | Sashay Tapae Simpson |
 | 137 | 146 | Denita Mungro |
 | 138 | 146 | Latoya Mayne |

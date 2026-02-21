@@ -183,8 +183,8 @@
 | 175 | 348 | Richard Horton |
 | 176 | 348 | Cherica Taylor |
 | 177 | 345 | Brenda Messer |
-| 178 | 345 | Rhianna DiLorenzo |
-| 179 | 345 | Wuntayk |
+| 178 | 345 | Wuntayk |
+| 179 | 345 | Rhianna DiLorenzo |
 | 180 | 344 | Julie Kresal |
 | 181 | 344 | Christina Lewis-Vickers |
 | 182 | 342 | Tracy Wise |
@@ -307,8 +307,8 @@
 | 299 | 237 | Altamirano Michael |
 | 300 | 236 | Frisky Riserbuilder |
 | 301 | 235 | Kimberly Mitchell |
-| 302 | 233 | Robin Kerby |
-| 303 | 233 | Alyssia Tancredi |
+| 302 | 233 | Alyssia Tancredi |
+| 303 | 233 | Robin Kerby |
 | 304 | 232 | Amber Brion |
 | 305 | 231 | Ginger |
 | 306 | 231 | Dylan Thomason |

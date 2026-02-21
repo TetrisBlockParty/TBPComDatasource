@@ -53,15 +53,15 @@
 | 45 | 221 | Desi Desporte |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |
-| 48 | 204 | David Lay |
-| 49 | 204 | Brittney Orengo |
+| 48 | 204 | Brittney Orengo |
+| 49 | 204 | David Lay |
 | 50 | 198 | Mike Solo |
 | 51 | 197 | Autum Leigh |
 | 52 | 194 | Jamie Mann-Deichmann |
 | 53 | 185 | loulou |
 | 54 | 179 | Epic Curvetile |
-| 55 | 170 | Girl |
-| 56 | 170 | Leah Kutz Zirbel |
+| 55 | 170 | Leah Kutz Zirbel |
+| 56 | 170 | Girl |
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
@@ -131,10 +131,10 @@
 | 123 | 101 | Michelle Morris |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Alexandra Karavias |
-| 126 | 100 | Megan Cutshaw |
-| 127 | 100 | Jeff Brian Gates |
-| 128 | 98 | Allen Lloyd |
-| 129 | 98 | Duck |
+| 126 | 100 | Jeff Brian Gates |
+| 127 | 100 | Megan Cutshaw |
+| 128 | 98 | Duck |
+| 129 | 98 | Allen Lloyd |
 | 130 | 98 | Chaz |
 | 131 | 96 | Zappy Snaplink |
 | 132 | 95 | Meagan Nicole |
@@ -233,7 +233,7 @@
 | 225 | 59 | Jen Mattei |
 | 226 | 59 | Jasmine S Caldwell |
 | 227 | 58 | Rebecca Morris |
-| 228 | 58 | Gilles Lanctot |
+| 228 | 58 | Autumn Kumzi |
 | 229 | 58 | Paige Kittles |
 | 230 | 58 | Gilles Lanctot |
 | 231 | 57 | Heather Bruce |
