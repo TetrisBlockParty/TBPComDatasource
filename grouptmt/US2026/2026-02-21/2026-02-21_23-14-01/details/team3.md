@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Katrina Schroeder |
-| 65 | 582 | Natasha Jones |
+| 64 | 582 | Natasha Jones |
+| 65 | 582 | Katrina Schroeder |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
@@ -132,15 +132,15 @@
 | 124 | 348 | CeceGeGe |
 | 125 | 347 | Darlene McMillan |
 | 126 | 343 | Chasity |
-| 127 | 328 | Aaron Pitkin |
-| 128 | 328 | Jeni Dow |
+| 127 | 328 | Jeni Dow |
+| 128 | 328 | Aaron Pitkin |
 | 129 | 327 | Dapper Snap |
 | 130 | 326 | Fancy Cascader |
 | 131 | 323 | Ashley Raines |
 | 132 | 320 | Or Reznitsky |
 | 133 | 309 | Rich LeBlanc |
-| 134 | 307 | Peggi Charon |
-| 135 | 307 | Blocked |
+| 134 | 307 | Blocked |
+| 135 | 307 | Peggi Charon |
 | 136 | 300 | Sherika C. McDaniels |
 | 137 | 293 | Poppy Splitter |
 | 138 | 290 | Logan Naccarato |
@@ -153,8 +153,8 @@
 | 145 | 276 | Crimson |
 | 146 | 272 | rnr junky |
 | 147 | 272 | opf |
-| 148 | 271 | Ashley Muncey |
-| 149 | 271 | Leah Barnett |
+| 148 | 271 | Leah Barnett |
+| 149 | 271 | Ashley Muncey |
 | 150 | 267 | Denise Nardoni |
 | 151 | 263 | Angeline Joseph |
 | 152 | 262 | Joe-Maggie Mathews |
@@ -260,8 +260,8 @@
 | 252 | 157 | Katrina E Jelks |
 | 253 | 157 | Patricia Gadsden |
 | 254 | 155 | RickyG |
-| 255 | 154 | Valerie Gendron |
-| 256 | 154 | Desiree Gold |
+| 255 | 154 | Desiree Gold |
+| 256 | 154 | Valerie Gendron |
 | 257 | 153 | Sheila M Frazier |
 | 258 | 153 | Cozy Snaplink |
 | 259 | 153 | Rachel Napper |

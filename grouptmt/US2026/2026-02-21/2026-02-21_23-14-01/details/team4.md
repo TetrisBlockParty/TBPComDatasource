@@ -109,8 +109,8 @@
 | 101 | 239 | Dustee Craddock-Harrison |
 | 102 | 237 | Lori Walker |
 | 103 | 231 | Ramel Rhodes |
-| 104 | 230 | Lucas J Sutton |
-| 105 | 230 | Autum Leigh |
+| 104 | 230 | Autum Leigh |
+| 105 | 230 | Lucas J Sutton |
 | 106 | 222 | Joeliecea Cobb |
 | 107 | 221 | Alyssa Papen |
 | 108 | 218 | Antony Dwayne Beasley |
@@ -148,8 +148,8 @@
 | 140 | 178 | Lori |
 | 141 | 176 | Klo |
 | 142 | 176 | Zethra Prenisha Rahming |
-| 143 | 175 | Ren Mc |
-| 144 | 175 | blockstar |
+| 143 | 175 | blockstar |
+| 144 | 175 | Ren Mc |
 | 145 | 174 | Dihcheese444 |
 | 146 | 172 | Jessica Bohlken |
 | 147 | 171 | Diana Houts |
@@ -166,8 +166,8 @@
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |
 | 160 | 148 | Mr. Party |
-| 161 | 148 | Brittany Marsh |
-| 162 | 148 | Janita Parrish |
+| 161 | 148 | Janita Parrish |
+| 162 | 148 | Brittany Marsh |
 | 163 | 147 | Jay28 |
 | 164 | 144 | Meagan Nicole |
 | 165 | 142 | Zippy Gridlock |
@@ -227,8 +227,8 @@
 | 219 | 119 | Kristin Manee |
 | 220 | 116 | Adam Stephanie Parker |
 | 221 | 115 | Nubian1 |
-| 222 | 115 | Jayk |
-| 223 | 115 | Lindsey Gonzalez |
+| 222 | 115 | Lindsey Gonzalez |
+| 223 | 115 | Jayk |
 | 224 | 115 | Sam Middleton |
 | 225 | 114 | Circuit8 |
 | 226 | 114 | Kesha Brady |
@@ -514,7 +514,7 @@
 | 506 | 54 | Lisha Billups |
 | 507 | 54 | Joseph Bodon |
 | 508 | 53 | J-Rizzle |
-| 509 | 53 | Aly Eggers |
+| 509 | 53 | Joe Lonnemann |
 | 510 | 53 | Allison Judith |
 | 511 | 53 | Aly Eggers |
 | 512 | 53 | Heather Layne Smith |

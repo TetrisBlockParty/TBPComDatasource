@@ -41,8 +41,8 @@
 | 33 | 587 | Marianne Louise West |
 | 34 | 585 | Jennifer Cates |
 | 35 | 543 | Aaron Garnett |
-| 36 | 541 | Drew Magnus |
-| 37 | 541 | Kristen Roles Robben |
+| 36 | 541 | Kristen Roles Robben |
+| 37 | 541 | Drew Magnus |
 | 38 | 539 | Karin Gillen |
 | 39 | 533 | Redlicious 1 |
 | 40 | 523 | comrade fish |
@@ -83,8 +83,8 @@
 | 75 | 318 | Dee Perry |
 | 76 | 313 | Kellie |
 | 77 | 310 | Seth Wesson |
-| 78 | 305 | Patrick Luckenbill |
-| 79 | 305 | Plucky Ziggy |
+| 78 | 305 | Plucky Ziggy |
+| 79 | 305 | Patrick Luckenbill |
 | 80 | 304 | Nicole Roseberry Weber |
 | 81 | 303 | Maria C. Hernandez |
 | 82 | 301 | Hyper |
@@ -151,8 +151,8 @@
 | 143 | 180 | BigWeenie69 |
 | 144 | 180 | Michael |
 | 145 | 179 | Danielle Little-Daugherty |
-| 146 | 178 | Shiny Gridmatch |
-| 147 | 178 | Chad Atchley |
+| 146 | 178 | Chad Atchley |
+| 147 | 178 | Shiny Gridmatch |
 | 148 | 177 | ParisandCory Champagne |
 | 149 | 175 | John Barron |
 | 150 | 175 | Irual Hctrab |
@@ -209,8 +209,8 @@
 | 201 | 132 | Layzietyme |
 | 202 | 131 | Fmp |
 | 203 | 131 | Uhog SF |
-| 204 | 130 | Gilbert Ortiz Jr. |
-| 205 | 130 | LD1 |
+| 204 | 130 | LD1 |
+| 205 | 130 | Gilbert Ortiz Jr. |
 | 206 | 128 | lil mickey |
 | 207 | 128 | Barry Mac'Ockner |
 | 208 | 126 | Tami Luce Martin |
