@@ -113,8 +113,8 @@
 | 105 | 293 | Mandy Smith Oldham |
 | 106 | 267 | Rufus Lincoln |
 | 107 | 264 | Tiff Vs Tiffany |
-| 108 | 263 | mjl574 |
-| 109 | 263 | Angeline Joseph |
+| 108 | 263 | Angeline Joseph |
+| 109 | 263 | mjl574 |
 | 110 | 262 | Joe-Maggie Mathews |
 | 111 | 259 | opf |
 | 112 | 256 | ren |
@@ -154,8 +154,8 @@
 | 146 | 193 | Duane Bright |
 | 147 | 191 | Giddy Twistbuilder |
 | 148 | 191 | Scott Carleton |
-| 149 | 189 | Staci George Fitzsimmons |
-| 150 | 189 | Sissy Lowery Davis |
+| 149 | 189 | Sissy Lowery Davis |
+| 150 | 189 | Staci George Fitzsimmons |
 | 151 | 189 | Fallorina Susana |
 | 152 | 188 | Angie Harper |
 | 153 | 186 | Brandon Givens |
@@ -181,13 +181,13 @@
 | 173 | 166 | Betty Rosas |
 | 174 | 165 | Kali Kelz Williams |
 | 175 | 163 | Stephanie Hill |
-| 176 | 163 | Sashay Tapae Simpson |
-| 177 | 163 | Trisha Balmer |
+| 176 | 163 | Trisha Balmer |
+| 177 | 163 | Sashay Tapae Simpson |
 | 178 | 161 | BŘŰŤİÇŨŚ |
 | 179 | 161 | Nikki Pags |
 | 180 | 160 | Tiffany Davie |
-| 181 | 159 | Stephanie Whitefield |
-| 182 | 159 | Jone |
+| 181 | 159 | Jone |
+| 182 | 159 | Stephanie Whitefield |
 | 183 | 158 | Grams |
 | 184 | 157 | Patricia Gadsden |
 | 185 | 157 | Nicholas Roddy |
@@ -247,8 +247,8 @@
 | 239 | 120 | Lys |
 | 240 | 118 | Sabrina Hardrick |
 | 241 | 118 | Skinny Baldez |
-| 242 | 118 | Damian Reid |
-| 243 | 118 | Fancy Curver |
+| 242 | 118 | Fancy Curver |
+| 243 | 118 | Damian Reid |
 | 244 | 116 | BugMansMom |
 | 245 | 115 | Stella |
 | 246 | 115 | Hoppy Buildout |
@@ -257,8 +257,8 @@
 | 249 | 113 | Beppy |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Danielle Weikel |
-| 253 | 110 | Tye Stovall |
+| 252 | 110 | Tye Stovall |
+| 253 | 110 | Danielle Weikel |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | mommablock |
@@ -273,8 +273,8 @@
 | 265 | 107 | Bouncy Blockbuilder |
 | 266 | 106 | Cheeky Snapper |
 | 267 | 106 | Noettín Kan Zasnemoore |
-| 268 | 105 | Boldy Blocker |
-| 269 | 105 | Donna |
+| 268 | 105 | Donna |
+| 269 | 105 | Boldy Blocker |
 | 270 | 105 | Emi |
 | 271 | 104 | Samantha Lynn |
 | 272 | 104 | El Chapa |
@@ -686,7 +686,7 @@
 | 678 | 46 | Jen Hawes |
 | 679 | 45 | Gayle Marie |
 | 680 | 45 | Jessica Christian |
-| 681 | 45 | Gayle Marie |
+| 681 | 45 | Irene Arreguin |
 | 682 | 45 | Rhiannon Nikkie Thomas Ashbeck |
 | 683 | 45 | Michele Lee Decoste |
 | 684 | 45 | Amber Baker |

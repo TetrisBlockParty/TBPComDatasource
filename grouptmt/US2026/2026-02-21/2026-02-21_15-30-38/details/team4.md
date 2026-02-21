@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -57,8 +57,8 @@
 | 49 | 308 | Jen Allison |
 | 50 | 306 | Lisa Davis |
 | 51 | 303 | Tammi Crnza |
-| 52 | 300 | Jason Hart |
-| 53 | 300 | David Lay |
+| 52 | 300 | David Lay |
+| 53 | 300 | Jason Hart |
 | 54 | 299 | Livvy |
 | 55 | 295 | Latisha Davis |
 | 56 | 291 | Leslie Thomas |
@@ -106,12 +106,12 @@
 | 98 | 171 | Melvin Baird |
 | 99 | 170 | Girl |
 | 100 | 167 | Denise Carlson |
-| 101 | 164 | ThaEviLJeNiuZ |
-| 102 | 164 | blockstar |
+| 101 | 164 | blockstar |
+| 102 | 164 | ThaEviLJeNiuZ |
 | 103 | 162 | Shauna Havard |
 | 104 | 161 | Joeliecea Cobb |
-| 105 | 160 | Crystal Carroll |
-| 106 | 160 | ZeeZee |
+| 105 | 160 | ZeeZee |
+| 106 | 160 | Crystal Carroll |
 | 107 | 160 | Stacey Stano |
 | 108 | 159 | Holly Jolly |
 | 109 | 157 | quicksand420 |
@@ -147,9 +147,9 @@
 | 139 | 126 | TinyLegoRose |
 | 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
-| 142 | 123 | Chair |
-| 143 | 123 | Cherrish Duren |
-| 144 | 123 | Angela Geist Jusinski |
+| 142 | 123 | Angela Geist Jusinski |
+| 143 | 123 | Chair |
+| 144 | 123 | Cherrish Duren |
 | 145 | 122 | Sherri |
 | 146 | 122 | Carlos Ramirez |
 | 147 | 121 | Smiley Tiltbuilder |

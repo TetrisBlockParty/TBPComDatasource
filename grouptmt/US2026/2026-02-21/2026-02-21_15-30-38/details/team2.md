@@ -522,8 +522,8 @@
 | 514 | 199 | Jessica Sutter |
 | 515 | 198 | Angie Bolton Workman |
 | 516 | 197 | Kati Russeau |
-| 517 | 196 | Tony Lea |
-| 518 | 196 | Zak Dunn |
+| 517 | 196 | Zak Dunn |
+| 518 | 196 | Tony Lea |
 | 519 | 196 | Alexandra Reese |
 | 520 | 196 | Cass Shirley |
 | 521 | 195 | Synn |
