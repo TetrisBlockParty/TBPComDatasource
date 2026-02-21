@@ -46,8 +46,8 @@
 | 38 | 153 | Lucille Truesdale |
 | 39 | 147 | Courtney Cicoria |
 | 40 | 141 | Edward White |
-| 41 | 140 | Carter Jones |
-| 42 | 140 | Shannon Ferrari |
+| 41 | 140 | Shannon Ferrari |
+| 42 | 140 | Carter Jones |
 | 43 | 133 | Jessica Bohlken |
 | 44 | 133 | Robin Watters |
 | 45 | 130 | Casey Jeffcoat |
@@ -58,8 +58,8 @@
 | 50 | 123 | Nugget |
 | 51 | 122 | Shelly Chandler |
 | 52 | 121 | Smiley Tiltbuilder |
-| 53 | 116 | Sherri |
-| 54 | 116 | Serena Goodridge |
+| 53 | 116 | Serena Goodridge |
+| 54 | 116 | Sherri |
 | 55 | 114 | Jessica Cagle |
 | 56 | 113 | Degenerate |
 | 57 | 112 | Chirpy Basepiece |
@@ -145,10 +145,10 @@
 | 137 | 55 | RiahRose |
 | 138 | 55 | mini |
 | 139 | 55 | Cristy Duerksen |
-| 140 | 54 | mitch |
-| 141 | 54 | BertMofo |
-| 142 | 54 | Heather Bruce |
-| 143 | 54 | Destiney Carter |
+| 140 | 54 | Destiney Carter |
+| 141 | 54 | mitch |
+| 142 | 54 | BertMofo |
+| 143 | 54 | Heather Bruce |
 | 144 | 53 | Zany Twisterfit |
 | 145 | 53 | Julian Garcia |
 | 146 | 52 | JPW |

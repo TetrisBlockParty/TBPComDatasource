@@ -59,8 +59,8 @@
 | 51 | 672 | Wendy Harder Gage |
 | 52 | 662 | Sarah Freitas |
 | 53 | 658 | Dreamy Blast |
-| 54 | 658 | Pacynthia Williams |
-| 55 | 658 | Vistabrat |
+| 54 | 658 | Vistabrat |
+| 55 | 658 | Pacynthia Williams |
 | 56 | 656 | E_Money04 |
 | 57 | 641 | Priscilla Noel |
 | 58 | 618 | Anna Edwards |
@@ -247,8 +247,8 @@
 | 239 | 189 | Sanaa Nounoussa |
 | 240 | 188 | Justin Hines |
 | 241 | 185 | Poppy Snapper |
-| 242 | 184 | Sassy Linkbuilder |
-| 243 | 184 | Jumpy Gridpiece |
+| 242 | 184 | Jumpy Gridpiece |
+| 243 | 184 | Sassy Linkbuilder |
 | 244 | 183 | Julie Hamilton |
 | 245 | 181 | Julay |
 | 246 | 180 | Peter Palestino |
@@ -305,8 +305,8 @@
 | 297 | 154 | Bryan Werleman |
 | 298 | 152 | Denise Rickman |
 | 299 | 152 | Angela Murgia-Owen |
-| 300 | 151 | D'Aaron Black |
-| 301 | 151 | Marcie McLain Dodd |
+| 300 | 151 | Marcie McLain Dodd |
+| 301 | 151 | D'Aaron Black |
 | 302 | 151 | Dizzy Zone |
 | 303 | 150 | Eddie Perez |
 | 304 | 149 | Leslie Porter |
