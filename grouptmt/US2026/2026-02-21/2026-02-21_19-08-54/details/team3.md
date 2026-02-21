@@ -107,8 +107,8 @@
 | 99 | 367 | Nerdy Riseclear |
 | 100 | 366 | Speedy Bridger |
 | 101 | 356 | Adrian Marcel Pate |
-| 102 | 350 | Shannon Matthew Byers |
-| 103 | 350 | Tiff Vs Tiffany |
+| 102 | 350 | Tiff Vs Tiffany |
+| 103 | 350 | Shannon Matthew Byers |
 | 104 | 348 | CeceGeGe |
 | 105 | 346 | Groovy Catcher |
 | 106 | 332 | Chauntee Alfrey-Cardinale |
@@ -191,10 +191,10 @@
 | 183 | 184 | Troy |
 | 184 | 182 | Hyper Matchzone |
 | 185 | 181 | Nicholas Roddy |
-| 186 | 179 | Daira Largen |
-| 187 | 179 | Ashley Jones |
-| 188 | 178 | Ryan Williams |
-| 189 | 178 | AlsoJess |
+| 186 | 179 | Ashley Jones |
+| 187 | 179 | Daira Largen |
+| 188 | 178 | AlsoJess |
+| 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Tasha Wesson-Torrence |
 | 192 | 175 | DanceLuvLaugh |
@@ -240,8 +240,8 @@
 | 232 | 148 | Gumbo |
 | 233 | 147 | Ashley Lynn Marchese |
 | 234 | 147 | Cheryl Hinch Tenbrook |
-| 235 | 146 | Latoya Mayne |
-| 236 | 146 | Carrie Huskey |
+| 235 | 146 | Carrie Huskey |
+| 236 | 146 | Latoya Mayne |
 | 237 | 146 | Denita Mungro |
 | 238 | 145 | Jeni Dow |
 | 239 | 145 | Bryan Byrd |
