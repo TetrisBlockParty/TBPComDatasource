@@ -141,9 +141,9 @@
 | 133 | 128 | Misty Hollibaugh |
 | 134 | 128 | Rio Rocha |
 | 135 | 127 | Dreamy Snapgrid |
-| 136 | 126 | Dihcheese444 |
-| 137 | 126 | Klo |
-| 138 | 126 | TinyLegoRose |
+| 136 | 126 | Klo |
+| 137 | 126 | TinyLegoRose |
+| 138 | 126 | Dihcheese444 |
 | 139 | 124 | Allen Lloyd |
 | 140 | 123 | Angela Geist Jusinski |
 | 141 | 123 | Cherrish Duren |

@@ -40,8 +40,8 @@
 | 32 | 859 | Amber Jones |
 | 33 | 852 | cowboy25469 |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 749 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -177,8 +177,8 @@
 | 169 | 166 | Betty Rosas |
 | 170 | 165 | Kali Kelz Williams |
 | 171 | 164 | Brandon Givens |
-| 172 | 163 | Trisha Balmer |
-| 173 | 163 | Sashay Tapae Simpson |
+| 172 | 163 | Sashay Tapae Simpson |
+| 173 | 163 | Trisha Balmer |
 | 174 | 163 | Stephanie Hill |
 | 175 | 161 | BŘŰŤİÇŨŚ |
 | 176 | 161 | Nikki Pags |
@@ -270,8 +270,8 @@
 | 262 | 107 | Rachel |
 | 263 | 107 | Bouncy Blockbuilder |
 | 264 | 106 | Noettín Kan Zasnemoore |
-| 265 | 105 | Donna |
-| 266 | 105 | Boldy Blocker |
+| 265 | 105 | Boldy Blocker |
+| 266 | 105 | Donna |
 | 267 | 105 | Emi |
 | 268 | 104 | Samantha Lynn |
 | 269 | 104 | El Chapa |
@@ -327,8 +327,8 @@
 | 319 | 88 | Kevin Russell |
 | 320 | 88 | RickyG |
 | 321 | 88 | April Matthew Kibble |
-| 322 | 88 | Kelly Koenig |
-| 323 | 88 | Dapper Towerfit |
+| 322 | 88 | Dapper Towerfit |
+| 323 | 88 | Kelly Koenig |
 | 324 | 87 | Kellie Montgomery |
 | 325 | 86 | Clever Clearbuilder |
 | 326 | 86 | Criss |
