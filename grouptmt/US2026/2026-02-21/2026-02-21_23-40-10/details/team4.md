@@ -110,8 +110,8 @@
 | 102 | 239 | Dustee Craddock-Harrison |
 | 103 | 237 | Lori Walker |
 | 104 | 232 | Meagan Nicole |
-| 105 | 230 | Lucas J Sutton |
-| 106 | 230 | Autum Leigh |
+| 105 | 230 | Autum Leigh |
+| 106 | 230 | Lucas J Sutton |
 | 107 | 230 | Daria Rycewicz |
 | 108 | 222 | Joeliecea Cobb |
 | 109 | 221 | Alyssa Papen |
@@ -120,8 +120,8 @@
 | 112 | 218 | Casey Grabner |
 | 113 | 213 | Chaz Duncan |
 | 114 | 212 | Calvin Cannon |
-| 115 | 211 | Dizzy Tiley |
-| 116 | 211 | loulou |
+| 115 | 211 | loulou |
+| 116 | 211 | Dizzy Tiley |
 | 117 | 210 | Damn Libra |
 | 118 | 208 | Twisty Cascadezone |
 | 119 | 208 | Chastity Mitchell |
@@ -235,8 +235,8 @@
 | 227 | 115 | Jayk |
 | 228 | 115 | Nubian1 |
 | 229 | 115 | Sam Middleton |
-| 230 | 114 | Kesha Brady |
-| 231 | 114 | Circuit8 |
+| 230 | 114 | Circuit8 |
+| 231 | 114 | Kesha Brady |
 | 232 | 113 | Dandy Cascadefit |
 | 233 | 113 | Scott Jameson |
 | 234 | 113 | Adam Randall |
@@ -534,8 +534,8 @@
 | 526 | 52 | Cheery Lift |
 | 527 | 52 | Csquared812 |
 | 528 | 52 | Earnest Thompson |
-| 529 | 52 | Eminem |
-| 530 | 52 | Randy |
+| 529 | 52 | Randy |
+| 530 | 52 | Eminem |
 | 531 | 51 | George Nutt |
 | 532 | 51 | Bentley Welsh |
 | 533 | 51 | Morti |

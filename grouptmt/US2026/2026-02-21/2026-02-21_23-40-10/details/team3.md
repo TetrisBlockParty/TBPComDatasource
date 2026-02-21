@@ -98,8 +98,8 @@
 | 90 | 459 | Nerdy Riseclear |
 | 91 | 447 | Mykal Burton |
 | 92 | 446 | Danielle Rhoades |
-| 93 | 445 | Kristie McFarland |
-| 94 | 445 | Silly Twist |
+| 93 | 445 | Silly Twist |
+| 94 | 445 | Kristie McFarland |
 | 95 | 430 | Patricia White |
 | 96 | 428 | Elissa S-k |
 | 97 | 425 | Patty Allen |
@@ -171,8 +171,8 @@
 | 163 | 254 | Duane Bright |
 | 164 | 252 | Nicole Flippo |
 | 165 | 249 | Santeria Trece Candles |
-| 166 | 245 | Annie Marie |
-| 167 | 245 | Latoya Mayne |
+| 166 | 245 | Latoya Mayne |
+| 167 | 245 | Annie Marie |
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
@@ -186,8 +186,8 @@
 | 178 | 226 | Grego Daniel |
 | 179 | 224 | Nicole Myers |
 | 180 | 223 | Jeana Gilbert |
-| 181 | 219 | Rebecca Bailey |
-| 182 | 219 | Shunta Jacobs |
+| 181 | 219 | Shunta Jacobs |
+| 182 | 219 | Rebecca Bailey |
 | 183 | 218 | LaNette Morgan |
 | 184 | 217 | Jess Bissett |
 | 185 | 216 | KayB |

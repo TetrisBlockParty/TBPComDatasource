@@ -85,8 +85,8 @@
 | 77 | 319 | Deanna L Hermanson |
 | 78 | 318 | Dee Perry |
 | 79 | 310 | Seth Wesson |
-| 80 | 305 | Plucky Ziggy |
-| 81 | 305 | Patrick Luckenbill |
+| 80 | 305 | Patrick Luckenbill |
+| 81 | 305 | Plucky Ziggy |
 | 82 | 304 | Nicole Roseberry Weber |
 | 83 | 303 | Maria C. Hernandez |
 | 84 | 301 | Hyper |
@@ -138,19 +138,19 @@
 | 130 | 194 | Ash Galvan |
 | 131 | 194 | Tyler Werts |
 | 132 | 193 | Lachelle Dillon |
-| 133 | 192 | Shaykmia |
-| 134 | 192 | Jessica Sheehan |
+| 133 | 192 | Jessica Sheehan |
+| 134 | 192 | Shaykmia |
 | 135 | 191 | Diane Byrd |
 | 136 | 190 | Thorne Shumate |
 | 137 | 190 | Sweetts |
 | 138 | 188 | Sam Williams |
 | 139 | 187 | Snippy Wipebuilder |
-| 140 | 186 | Jennifer Olewnik Soborowski |
-| 141 | 186 | Margo Wagner |
+| 140 | 186 | Margo Wagner |
+| 141 | 186 | Jennifer Olewnik Soborowski |
 | 142 | 185 | Basment Living |
-| 143 | 180 | BigWeenie69 |
-| 144 | 180 | Michael |
-| 145 | 180 | Erez Yosef |
+| 143 | 180 | Michael |
+| 144 | 180 | Erez Yosef |
+| 145 | 180 | BigWeenie69 |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Shiny Gridmatch |
 | 148 | 178 | Chad Atchley |
@@ -198,16 +198,16 @@
 | 190 | 139 | Barry Mac'Ockner |
 | 191 | 139 | Flashy Rotator |
 | 192 | 138 | Death |
-| 193 | 137 | Cody Gates |
-| 194 | 137 | Witty Builderfit |
+| 193 | 137 | Witty Builderfit |
+| 194 | 137 | Cody Gates |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Giddy Cascade |
 | 197 | 135 | Aimee Horton |
 | 198 | 135 | Tipsy Riseclear |
 | 199 | 135 | Guest |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Fmp |
-| 202 | 133 | Kimberly Garcia |
+| 201 | 133 | Kimberly Garcia |
+| 202 | 133 | Fmp |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
 | 205 | 130 | LD1 |
@@ -309,7 +309,7 @@
 | 301 | 88 | John Garza |
 | 302 | 88 | Jay Tressler |
 | 303 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 304 | 86 | Connie |
+| 304 | 86 | Billie Ann Eason |
 | 305 | 86 | Steven Collins |
 | 306 | 86 | Connie |
 | 307 | 85 | Sylvia Vasquez |
