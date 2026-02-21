@@ -109,8 +109,8 @@
 | 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Bubbly Puzzler |
-| 104 | 123 | Cherrish Duren |
-| 105 | 123 | Nugget |
+| 104 | 123 | Nugget |
+| 105 | 123 | Cherrish Duren |
 | 106 | 122 | Sherri |
 | 107 | 121 | Klo |
 | 108 | 121 | 030Synner |

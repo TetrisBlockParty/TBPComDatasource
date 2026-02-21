@@ -43,8 +43,8 @@
 | 35 | 587 | Suzieq |
 | 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Dolores Falco |
-| 39 | 546 | Snappy Glidepiece |
+| 38 | 546 | Snappy Glidepiece |
+| 39 | 546 | Dolores Falco |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -75,14 +75,14 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Annie Déè |
-| 71 | 342 | Trezure Gonzalez |
+| 70 | 342 | Trezure Gonzalez |
+| 71 | 342 | Annie Déè |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Michelle |
-| 77 | 322 | Mendoza Lee Christy |
+| 76 | 322 | Mendoza Lee Christy |
+| 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | CeceGeGe |
@@ -197,8 +197,8 @@
 | 189 | 115 | Hoppy Buildout |
 | 190 | 114 | Jessica Bechler |
 | 191 | 114 | Nicholas Roddy |
-| 192 | 113 | Valerie Gendron |
-| 193 | 113 | Brian Battjes |
+| 192 | 113 | Brian Battjes |
+| 193 | 113 | Valerie Gendron |
 | 194 | 112 | Jessica Ann |
 | 195 | 110 | Tye Stovall |
 | 196 | 110 | Stella |

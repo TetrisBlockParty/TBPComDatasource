@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Chipper Gridlock |
-| 30 | 348 | Stef Hu |
+| 29 | 348 | Stef Hu |
+| 30 | 348 | Chipper Gridlock |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -61,8 +61,8 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Anaid Sanchez |
-| 57 | 201 | Ananda Mendez |
+| 56 | 201 | Ananda Mendez |
+| 57 | 201 | Anaid Sanchez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Billie Dawn Sparks |
 | 60 | 198 | Happy Snapbuild |
@@ -103,8 +103,8 @@
 | 95 | 138 | Gary Gobin |
 | 96 | 137 | Nadine Velardo |
 | 97 | 134 | Trina Gee |
-| 98 | 133 | Brandi Huntington |
-| 99 | 133 | Bhelle Sumile |
+| 98 | 133 | Bhelle Sumile |
+| 99 | 133 | Brandi Huntington |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
 | 102 | 128 | lil mickey |
@@ -112,8 +112,8 @@
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
-| 107 | 123 | june october |
-| 108 | 123 | LaQuetta Faith Hines |
+| 107 | 123 | LaQuetta Faith Hines |
+| 108 | 123 | june october |
 | 109 | 121 | Bouncy Grid |
 | 110 | 119 | Irual Hctrab |
 | 111 | 119 | Tater |
@@ -133,8 +133,8 @@
 | 125 | 108 | Tavia |
 | 126 | 108 | Alenoush Karimian |
 | 127 | 107 | Jodee Woods |
-| 128 | 106 | Bloknboy |
-| 129 | 106 | Ash Galvan |
+| 128 | 106 | Ash Galvan |
+| 129 | 106 | Bloknboy |
 | 130 | 105 | Flashy Rotator |
 | 131 | 104 | Charla Pross-Fugleberg |
 | 132 | 103 | Adryane Schnase |

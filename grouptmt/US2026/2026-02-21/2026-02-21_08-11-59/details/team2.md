@@ -305,8 +305,8 @@
 | 297 | 254 | Elizabeth Diraffaele |
 | 298 | 254 | Julie Hamilton |
 | 299 | 253 | Tansaria Couch-Butler |
-| 300 | 252 | Cheech Dta |
-| 301 | 252 | Matt Johnson |
+| 300 | 252 | Matt Johnson |
+| 301 | 252 | Cheech Dta |
 | 302 | 251 | Ann Knutson Anderson |
 | 303 | 250 | Barbra Miller |
 | 304 | 250 | Peachy Blockbuilder |
@@ -367,8 +367,8 @@
 | 359 | 216 | Tum |
 | 360 | 215 | Jordan Petro |
 | 361 | 215 | Ashlyn Berner |
-| 362 | 212 | BK Queen |
-| 363 | 212 | Amanda Canterbury |
+| 362 | 212 | Amanda Canterbury |
+| 363 | 212 | BK Queen |
 | 364 | 212 | Aleasha M Brown |
 | 365 | 209 | Jerry Tempelmeyer |
 | 366 | 208 | Nancy Pohlman |
@@ -446,20 +446,20 @@
 | 438 | 176 | Jennifer Malloy - Cardy |
 | 439 | 175 | Snippy Rumbler |
 | 440 | 175 | Lucero Ramirez |
-| 441 | 175 | Tina Blessed Cage |
-| 442 | 175 | Shandrica Lowe |
+| 441 | 175 | Shandrica Lowe |
+| 442 | 175 | Tina Blessed Cage |
 | 443 | 174 | Jason Garnatz |
 | 444 | 173 | Ocean-Brianna McGregor |
-| 445 | 173 | kippykay |
-| 446 | 173 | Robin |
+| 445 | 173 | Robin |
+| 446 | 173 | kippykay |
 | 447 | 172 | HarleyJane |
 | 448 | 171 | Cappin You |
 | 449 | 170 | Dedra Steward |
 | 450 | 170 | Darlene Bowman |
 | 451 | 170 | Kenya Felix |
-| 452 | 169 | Eddie Perez |
-| 453 | 169 | William Hunt |
-| 454 | 169 | Lively Catcher |
+| 452 | 169 | William Hunt |
+| 453 | 169 | Lively Catcher |
+| 454 | 169 | Eddie Perez |
 | 455 | 168 | Phil J. Grombliniak |
 | 456 | 168 | Kati Russeau |
 | 457 | 167 | mshir |
@@ -505,14 +505,14 @@
 | 497 | 155 | Chelle |
 | 498 | 155 | Monarca26 |
 | 499 | 155 | Angela Murgia-Owen |
-| 500 | 154 | Cini |
-| 501 | 154 | Tiffney Wroten |
+| 500 | 154 | Tiffney Wroten |
+| 501 | 154 | Cini |
 | 502 | 154 | Bryan Werleman |
 | 503 | 154 | Lori Maring |
 | 504 | 153 | Luna |
 | 505 | 153 | Poppy Gridder |
-| 506 | 152 | Kyle LeRoy Harris |
-| 507 | 152 | James Smith |
+| 506 | 152 | James Smith |
+| 507 | 152 | Kyle LeRoy Harris |
 | 508 | 152 | Kristin King |
 | 509 | 152 | JP Parks |
 | 510 | 152 | Anthony Mignacca |
