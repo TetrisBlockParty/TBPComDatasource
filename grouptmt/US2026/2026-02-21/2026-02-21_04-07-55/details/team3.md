@@ -137,9 +137,9 @@
 | 129 | 123 | Judi Dobson |
 | 130 | 122 | Shimika Enay Wallace |
 | 131 | 122 | Terry Jo Jones |
-| 132 | 121 | Michael Latasha Gray |
-| 133 | 121 | Danielle Allison |
-| 134 | 121 | Boldy Corner |
+| 132 | 121 | Danielle Allison |
+| 133 | 121 | Boldy Corner |
+| 134 | 121 | Michael Latasha Gray |
 | 135 | 120 | Jessica |
 | 136 | 118 | Fancy Curver |
 | 137 | 116 | Connie Mohler-Fair |
@@ -152,11 +152,11 @@
 | 144 | 114 | Jessica Bechler |
 | 145 | 113 | Valerie Gendron |
 | 146 | 112 | Juliana Dottore |
-| 147 | 110 | Tiff Vs Tiffany |
-| 148 | 110 | Stella |
-| 149 | 109 | Diana Ibarra |
-| 150 | 109 | Fredd Thomas |
-| 151 | 109 | Brian Battjes |
+| 147 | 110 | Stella |
+| 148 | 110 | Tiff Vs Tiffany |
+| 149 | 109 | Fredd Thomas |
+| 150 | 109 | Brian Battjes |
+| 151 | 109 | Diana Ibarra |
 | 152 | 108 | Rachel Napper |
 | 153 | 107 | Bryan Byrd |
 | 154 | 107 | Sherry Ogden |
@@ -169,8 +169,8 @@
 | 161 | 102 | Kali Kelz Williams |
 | 162 | 102 | mommablock |
 | 163 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 164 | 100 | Donna |
-| 165 | 100 | Elizabeth Renee |
+| 164 | 100 | Elizabeth Renee |
+| 165 | 100 | Donna |
 | 166 | 100 | Bobbi Moore |
 | 167 | 99 | Nichol Graham |
 | 168 | 99 | Lys |

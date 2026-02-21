@@ -99,8 +99,8 @@
 | 91 | 110 | Heidi Feurer |
 | 92 | 108 | Tavia |
 | 93 | 107 | Jodee Woods |
-| 94 | 105 | Flashy Rotator |
-| 95 | 105 | Barry Mac'Ockner |
+| 94 | 105 | Barry Mac'Ockner |
+| 95 | 105 | Flashy Rotator |
 | 96 | 103 | Ash Galvan |
 | 97 | 102 | Happy Snapbuild |
 | 98 | 102 | Jennifer ManWarren |

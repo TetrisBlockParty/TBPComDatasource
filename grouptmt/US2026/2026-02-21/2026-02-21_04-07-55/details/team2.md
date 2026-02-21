@@ -98,8 +98,8 @@
 | 90 | 534 | Jerilyn Andrina |
 | 91 | 525 | Desiree Anderson |
 | 92 | 517 | Stacy Stickle |
-| 93 | 515 | Real Ri |
-| 94 | 515 | Kaylee McCafferty |
+| 93 | 515 | Kaylee McCafferty |
+| 94 | 515 | Real Ri |
 | 95 | 509 | Kelli Wells |
 | 96 | 505 | Danielle Johnson-Chandler |
 | 97 | 503 | Becky Weeks-Garry |
@@ -250,8 +250,8 @@
 | 242 | 244 | Elisheva Mizrachi |
 | 243 | 243 | Brandy Andre |
 | 244 | 241 | Sabrina Burton |
-| 245 | 240 | Adam Erikson |
-| 246 | 240 | Angie Marie |
+| 245 | 240 | Angie Marie |
+| 246 | 240 | Adam Erikson |
 | 247 | 240 | Johnny Yeates |
 | 248 | 239 | Tee Jaleesa |
 | 249 | 238 | Cheech Dta |
@@ -298,8 +298,8 @@
 | 290 | 202 | Christina Ashley |
 | 291 | 200 | Cheeky Brickmatch |
 | 292 | 200 | Sarah Ridenour |
-| 293 | 199 | Jenny Castro |
-| 294 | 199 | Jessica Sutter |
+| 293 | 199 | Jessica Sutter |
+| 294 | 199 | Jenny Castro |
 | 295 | 198 | Andea Beck |
 | 296 | 198 | Peppy Snapfall |
 | 297 | 198 | Alyssa Dean |
