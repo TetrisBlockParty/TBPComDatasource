@@ -73,8 +73,8 @@
 | 65 | 170 | Delilah belle |
 | 66 | 166 | Danielle Mogg |
 | 67 | 159 | Morgan Martinez |
-| 68 | 154 | Angela M. Fletcher |
-| 69 | 154 | Shannon Matthew Byers |
+| 68 | 154 | Shannon Matthew Byers |
+| 69 | 154 | Angela M. Fletcher |
 | 70 | 152 | Shiny Zonebuilder |
 | 71 | 152 | rosy |
 | 72 | 147 | Trisha Balmer |
@@ -111,9 +111,9 @@
 | 103 | 107 | Bryan Byrd |
 | 104 | 105 | Hoppy Buildout |
 | 105 | 103 | Brian Battjes |
-| 106 | 102 | mommablock |
+| 106 | 102 | Sarah Moyer |
 | 107 | 102 | Jenny Hrndz |
-| 108 | 102 | Sarah Moyer |
+| 108 | 102 | mommablock |
 | 109 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 110 | 101 | Mykal Burton |
 | 111 | 100 | Bobbi Moore |

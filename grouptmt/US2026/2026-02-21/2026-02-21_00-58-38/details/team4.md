@@ -118,8 +118,8 @@
 | 110 | 60 | Dustee Craddock-Harrison |
 | 111 | 59 | Chaz Duncan |
 | 112 | 58 | Autumn Kumzi |
-| 113 | 57 | Stephanie Jones |
-| 114 | 57 | Carlos G Reyes |
+| 113 | 57 | Carlos G Reyes |
+| 114 | 57 | Stephanie Jones |
 | 115 | 57 | Justin Hannigan |
 | 116 | 56 | Chastity Mitchell |
 | 117 | 56 | Heather Tushner |

@@ -239,8 +239,8 @@
 | 231 | 173 | Macy Williams |
 | 232 | 173 | Em Chen |
 | 233 | 171 | Poppy Snapper |
-| 234 | 170 | Darlene Bowman |
-| 235 | 170 | Taryece Gause |
+| 234 | 170 | Taryece Gause |
+| 235 | 170 | Darlene Bowman |
 | 236 | 170 | Kenya Felix |
 | 237 | 169 | Lively Catcher |
 | 238 | 169 | Shorty |
