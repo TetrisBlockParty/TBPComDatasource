@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -138,8 +138,8 @@
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -247,7 +247,7 @@
 | 239 | 98 | Funky Jumper |
 | 240 | 97 | mzcatzy |
 | 241 | 97 | Ashley Jones |
-| 242 | 96 | Tasha Wesson-Torrence |
+| 242 | 96 | Jason-Ashley Ludlow |
 | 243 | 96 | Christopher Woost |
 | 244 | 96 | D3NO |
 | 245 | 96 | Tasha Wesson-Torrence |
