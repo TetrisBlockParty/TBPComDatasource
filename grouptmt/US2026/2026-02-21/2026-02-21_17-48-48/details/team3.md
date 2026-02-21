@@ -191,8 +191,8 @@
 | 183 | 175 | DanceLuvLaugh |
 | 184 | 175 | Connie Mohler-Fair |
 | 185 | 174 | rosy |
-| 186 | 173 | Marci Mize Fandrich |
-| 187 | 173 | Sarajane Lokan |
+| 186 | 173 | Sarajane Lokan |
+| 187 | 173 | Marci Mize Fandrich |
 | 188 | 172 | Loopy Fallmatch |
 | 189 | 167 | Grams |
 | 190 | 167 | Raven Dudley |
@@ -233,8 +233,8 @@
 | 225 | 145 | Emma |
 | 226 | 145 | Bryan Byrd |
 | 227 | 142 | Jl |
-| 228 | 142 | Erica Anderson |
-| 229 | 142 | David Bardo |
+| 228 | 142 | David Bardo |
+| 229 | 142 | Erica Anderson |
 | 230 | 139 | Loopy Clusterer |
 | 231 | 138 | Boldy Corner |
 | 232 | 137 | Cheryl Hinch Tenbrook |
@@ -485,8 +485,8 @@
 | 477 | 70 | Ruggergamer1 |
 | 478 | 70 | Pizzi |
 | 479 | 69 | Lisa Feddeck |
-| 480 | 69 | Tipsy Puzzle |
-| 481 | 69 | Kristen McAlpine |
+| 480 | 69 | Kristen McAlpine |
+| 481 | 69 | Tipsy Puzzle |
 | 482 | 69 | Spunky Combofall |
 | 483 | 68 | Vaners |
 | 484 | 68 | Reina Roth |

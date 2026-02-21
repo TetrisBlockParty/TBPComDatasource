@@ -111,8 +111,8 @@
 | 103 | 185 | Ash Galvan |
 | 104 | 182 | Spunky Piecebuilder |
 | 105 | 180 | Erez Yosef |
-| 106 | 178 | Danielle Little-Daugherty |
-| 107 | 178 | Chad Atchley |
+| 106 | 178 | Chad Atchley |
+| 107 | 178 | Danielle Little-Daugherty |
 | 108 | 176 | Basment Living |
 | 109 | 175 | Nicole Roseberry Weber |
 | 110 | 173 | Frothy Pattern |
@@ -153,8 +153,8 @@
 | 145 | 142 | Colleen Wise |
 | 146 | 141 | Blaire Bruckoff |
 | 147 | 140 | Miguel Teixeira |
-| 148 | 138 | Death |
-| 149 | 138 | Cranky Pattern |
+| 148 | 138 | Cranky Pattern |
+| 149 | 138 | Death |
 | 150 | 137 | Nadine Velardo |
 | 151 | 136 | Dino |
 | 152 | 135 | Giddy Cascade |

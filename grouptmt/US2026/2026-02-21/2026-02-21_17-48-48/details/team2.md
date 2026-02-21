@@ -172,8 +172,8 @@
 | 164 | 592 | Ashle Scranton |
 | 165 | 591 | Alisha |
 | 166 | 589 | Erica Williams |
-| 167 | 583 | Jessicah Myers |
-| 168 | 583 | Jumpy Gridpiece |
+| 167 | 583 | Jumpy Gridpiece |
+| 168 | 583 | Jessicah Myers |
 | 169 | 580 | Steve Grotto |
 | 170 | 576 | Shannon Joslin |
 | 171 | 571 | Thomas Hedrick |
