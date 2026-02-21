@@ -57,15 +57,15 @@
 | 49 | 362 | Liv Whetson |
 | 50 | 360 | Ebony West-Cundiff |
 | 51 | 351 | Calista Jo Dickson |
-| 52 | 342 | Annie Déè |
-| 53 | 342 | Trezure Gonzalez |
+| 52 | 342 | Trezure Gonzalez |
+| 53 | 342 | Annie Déè |
 | 54 | 338 | Danielle Rhoades |
 | 55 | 337 | Silly Twist |
 | 56 | 325 | Shari Garber |
 | 57 | 322 | Michelle |
 | 58 | 320 | Or Reznitsky |
-| 59 | 316 | Fancy Cascader |
-| 60 | 316 | Tetris Master |
+| 59 | 316 | Tetris Master |
+| 60 | 316 | Fancy Cascader |
 | 61 | 310 | Clever Roll |
 | 62 | 307 | Peggi Charon |
 | 63 | 303 | Tasha Schriewer |
@@ -88,8 +88,8 @@
 | 80 | 200 | mjl574 |
 | 81 | 199 | joclisa |
 | 82 | 195 | Nicha Hooker |
-| 83 | 193 | Shunta Jacobs |
-| 84 | 193 | Clever Shiftsnap |
+| 83 | 193 | Clever Shiftsnap |
+| 84 | 193 | Shunta Jacobs |
 | 85 | 192 | Chasity |
 | 86 | 187 | Speedy Bridger |
 | 87 | 185 | Danielle Cutler |

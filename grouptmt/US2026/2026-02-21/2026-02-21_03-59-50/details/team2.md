@@ -151,8 +151,8 @@
 | 143 | 377 | Roy Salyer |
 | 144 | 374 | Calandra Shaya Robinson |
 | 145 | 365 | April Dawn Gussler |
-| 146 | 364 | Tammy Allen |
-| 147 | 364 | Shinette Dobson |
+| 146 | 364 | Shinette Dobson |
+| 147 | 364 | Tammy Allen |
 | 148 | 363 | William Meussner |
 | 149 | 363 | Janel Turley-Garner |
 | 150 | 359 | Brainy Smurf |
@@ -162,8 +162,8 @@
 | 154 | 350 | Kimberly Randesi |
 | 155 | 348 | Richard Horton |
 | 156 | 348 | Cherica Taylor |
-| 157 | 345 | Alyssaaelena |
-| 158 | 345 | Brenda Messer |
+| 157 | 345 | Brenda Messer |
+| 158 | 345 | Alyssaaelena |
 | 159 | 345 | Wuntayk |
 | 160 | 345 | Rhianna DiLorenzo |
 | 161 | 344 | Christina Lewis-Vickers |
@@ -233,11 +233,11 @@
 | 225 | 251 | Leah |
 | 226 | 250 | Barbra Miller |
 | 227 | 248 | Chummy Blockbuilder |
-| 228 | 248 | Leah Keesling |
+| 228 | 248 | Dany Murillo |
 | 229 | 248 | Bubbly Snapfit |
-| 230 | 248 | Dany Murillo |
-| 231 | 247 | Andrea Devery Beck |
-| 232 | 247 | Fancy Twister |
+| 230 | 248 | Leah Keesling |
+| 231 | 247 | Fancy Twister |
+| 232 | 247 | Andrea Devery Beck |
 | 233 | 246 | Ashley Lopez |
 | 234 | 245 | Rachael Senard |
 | 235 | 245 | Mischelle Clay |

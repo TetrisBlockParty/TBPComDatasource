@@ -98,8 +98,8 @@
 | 90 | 110 | Heidi Feurer |
 | 91 | 108 | Tavia |
 | 92 | 107 | Jodee Woods |
-| 93 | 105 | Flashy Rotator |
-| 94 | 105 | Barry Mac'Ockner |
+| 93 | 105 | Barry Mac'Ockner |
+| 94 | 105 | Flashy Rotator |
 | 95 | 103 | Ash Galvan |
 | 96 | 102 | Jennifer ManWarren |
 | 97 | 99 | Melissa Bires Hussar |
@@ -157,8 +157,8 @@
 | 149 | 71 | Brandi Egbert |
 | 150 | 70 | Seth Wesson |
 | 151 | 70 | Daring Fitclear |
-| 152 | 69 | Christina Torres |
-| 153 | 69 | Tipsy Riseclear |
+| 152 | 69 | Tipsy Riseclear |
+| 153 | 69 | Christina Torres |
 | 154 | 67 | Mitchel White |
 | 155 | 66 | Angela Fairbank |
 | 156 | 65 | OneCrazyGator |
