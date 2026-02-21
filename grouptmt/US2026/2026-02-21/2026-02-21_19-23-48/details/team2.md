@@ -652,8 +652,8 @@
 | 644 | 196 | Zak Dunn |
 | 645 | 196 | Crafty Brickline |
 | 646 | 196 | Alexandra Reese |
-| 647 | 195 | AgileDragon |
-| 648 | 195 | Mary Boss |
+| 647 | 195 | Mary Boss |
+| 648 | 195 | AgileDragon |
 | 649 | 195 | Darcy Mae |
 | 650 | 194 | Rachel Switala |
 | 651 | 194 | Hoppy Brickmatch |

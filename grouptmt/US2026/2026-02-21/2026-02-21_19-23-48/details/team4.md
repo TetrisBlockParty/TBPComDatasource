@@ -97,8 +97,8 @@
 | 89 | 210 | Damn Libra |
 | 90 | 205 | Sarah Neathery |
 | 91 | 204 | Brittney Orengo |
-| 92 | 202 | Monica Daley |
-| 93 | 202 | shar |
+| 92 | 202 | shar |
+| 93 | 202 | Monica Daley |
 | 94 | 200 | Holly Jolly |
 | 95 | 198 | Mike Solo |
 | 96 | 198 | Denise Carlson |
@@ -136,8 +136,8 @@
 | 128 | 156 | Jessica Bohlken |
 | 129 | 156 | Holly |
 | 130 | 153 | Empress Oasis |
-| 131 | 151 | Bethany Ison |
-| 132 | 151 | Dana Scott |
+| 131 | 151 | Dana Scott |
+| 132 | 151 | Bethany Ison |
 | 133 | 149 | Diana Houts |
 | 134 | 148 | Brittany Marsh |
 | 135 | 148 | Janita Parrish |
@@ -169,8 +169,8 @@
 | 161 | 132 | Melissa Priest Sellers |
 | 162 | 130 | Casey Jeffcoat |
 | 163 | 129 | Dreamy Snapgrid |
-| 164 | 128 | TinyLegoRose |
-| 165 | 128 | Rio Rocha |
+| 164 | 128 | Rio Rocha |
+| 165 | 128 | TinyLegoRose |
 | 166 | 128 | Stephme310 |
 | 167 | 125 | AyeKay |
 | 168 | 125 | Heather Tushner |
@@ -187,8 +187,8 @@
 | 179 | 121 | Megan Cutshaw |
 | 180 | 120 | Joshua Guess |
 | 181 | 120 | KayM |
-| 182 | 119 | Gwendolyn Pitcairn |
-| 183 | 119 | Kristin Manee |
+| 182 | 119 | Kristin Manee |
+| 183 | 119 | Gwendolyn Pitcairn |
 | 184 | 119 | Judy Cox |
 | 185 | 118 | Mary Ann Pabukis |
 | 186 | 115 | Ultramarine |

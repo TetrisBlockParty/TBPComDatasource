@@ -101,8 +101,8 @@
 | 93 | 389 | Elissa S-k |
 | 94 | 386 | Katie Knaus |
 | 95 | 383 | Joey Banks |
-| 96 | 378 | Makelini Mausia |
-| 97 | 378 | Tasha Schriewer |
+| 96 | 378 | Tasha Schriewer |
+| 97 | 378 | Makelini Mausia |
 | 98 | 372 | Jessica Bechler |
 | 99 | 371 | Jesse Olive |
 | 100 | 368 | Stephanie Woods |
@@ -163,8 +163,8 @@
 | 155 | 214 | Jenny Hrndz |
 | 156 | 213 | Fallorina Susana |
 | 157 | 212 | Krystal Gerstberger |
-| 158 | 211 | Katrina Schroeder |
-| 159 | 211 | Katrina Turner |
+| 158 | 211 | Katrina Turner |
+| 159 | 211 | Katrina Schroeder |
 | 160 | 210 | Rochelle Hazelett |
 | 161 | 207 | Nicole Myers |
 | 162 | 207 | Jessica |
@@ -193,8 +193,8 @@
 | 185 | 181 | Nicholas Roddy |
 | 186 | 179 | Ashley Jones |
 | 187 | 179 | Daira Largen |
-| 188 | 178 | AlsoJess |
-| 189 | 178 | Ryan Williams |
+| 188 | 178 | Ryan Williams |
+| 189 | 178 | AlsoJess |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Tasha Wesson-Torrence |
 | 192 | 175 | DanceLuvLaugh |
@@ -256,12 +256,12 @@
 | 248 | 138 | Boldy Corner |
 | 249 | 137 | Joy Petroski |
 | 250 | 137 | LaNette Morgan |
-| 251 | 135 | Erykah |
-| 252 | 135 | Terry Jo Jones |
+| 251 | 135 | Terry Jo Jones |
+| 252 | 135 | Erykah |
 | 253 | 134 | Cesar Barraza |
 | 254 | 134 | Skinny Baldez |
-| 255 | 131 | April Matthew Kibble |
-| 256 | 131 | Darlene McMillan |
+| 255 | 131 | Darlene McMillan |
+| 256 | 131 | April Matthew Kibble |
 | 257 | 130 | Weerae |
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |
