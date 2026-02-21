@@ -64,16 +64,16 @@
 | 56 | 207 | rnr junky |
 | 57 | 206 | Jennifer Willis |
 | 58 | 203 | Crimson |
-| 59 | 193 | Clever Shiftsnap |
-| 60 | 193 | Shunta Jacobs |
+| 59 | 193 | Shunta Jacobs |
+| 60 | 193 | Clever Shiftsnap |
 | 61 | 187 | Speedy Bridger |
 | 62 | 185 | Danielle Cutler |
 | 63 | 184 | Jennie Beranek |
 | 64 | 180 | joclisa |
 | 65 | 179 | Daira Largen |
 | 66 | 177 | Fallorina Susana |
-| 67 | 170 | Fancy Slam |
-| 68 | 170 | Delilah belle |
+| 67 | 170 | Delilah belle |
+| 68 | 170 | Fancy Slam |
 | 69 | 166 | Danielle Mogg |
 | 70 | 160 | Tessina Dewey-Mancino |
 | 71 | 159 | Morgan Martinez |
@@ -89,8 +89,8 @@
 | 81 | 135 | Nicole Flippo |
 | 82 | 134 | DanceLuvLaugh |
 | 83 | 131 | Emma |
-| 84 | 129 | Ashley Tookes |
-| 85 | 129 | Giddy Twistbuilder |
+| 84 | 129 | Giddy Twistbuilder |
+| 85 | 129 | Ashley Tookes |
 | 86 | 128 | Angel Mendez |
 | 87 | 127 | mjl574 |
 | 88 | 125 | Felicia Doxey |
@@ -103,8 +103,8 @@
 | 95 | 118 | Bea Miles |
 | 96 | 114 | Terry Jo Jones |
 | 97 | 113 | Jennifer Alvey |
-| 98 | 112 | Connie Mohler-Fair |
-| 99 | 112 | Jimmie Clemons |
+| 98 | 112 | Jimmie Clemons |
+| 99 | 112 | Connie Mohler-Fair |
 | 100 | 111 | Joy Petroski |
 | 101 | 110 | Tiff Vs Tiffany |
 | 102 | 110 | Stella |
@@ -120,7 +120,7 @@
 | 112 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 113 | 101 | Mykal Burton |
 | 114 | 100 | Fredd Thomas |
-| 115 | 100 | Bobbi Moore |
+| 115 | 100 | Donna |
 | 116 | 100 | Calista Jo Dickson |
 | 117 | 100 | Boldy Corner |
 | 118 | 100 | Bobbi Moore |

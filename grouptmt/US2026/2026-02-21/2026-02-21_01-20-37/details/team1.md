@@ -81,11 +81,11 @@
 | 73 | 95 | Jodee Woods |
 | 74 | 94 | Bhelle Sumile |
 | 75 | 94 | Bindi |
-| 76 | 93 | Ty Brown |
-| 77 | 93 | Adryane Schnase |
+| 76 | 93 | Adryane Schnase |
+| 77 | 93 | Ty Brown |
 | 78 | 92 | Nery Martinez |
-| 79 | 91 | Spunky Piecebuilder |
-| 80 | 91 | Melissa Lemmon |
+| 79 | 91 | Melissa Lemmon |
+| 80 | 91 | Spunky Piecebuilder |
 | 81 | 90 | Madison Wicks |
 | 82 | 87 | TSwag |
 | 83 | 87 | Jessi Sauer |
@@ -103,11 +103,11 @@
 | 95 | 78 | Carrie Beck Geartz |
 | 96 | 77 | Teddy Alexander |
 | 97 | 76 | Larry Tilton |
-| 98 | 75 | Tyler L Hunt |
-| 99 | 75 | Fresno Beotoni |
+| 98 | 75 | Fresno Beotoni |
+| 99 | 75 | Tyler L Hunt |
 | 100 | 74 | Grace Joanne Agnant |
-| 101 | 73 | Witty Builderfit |
-| 102 | 73 | Loony Fitzone |
+| 101 | 73 | Loony Fitzone |
+| 102 | 73 | Witty Builderfit |
 | 103 | 72 | Tipsy Strikerpiece |
 | 104 | 71 | John Kim |
 | 105 | 69 | Christina Torres |

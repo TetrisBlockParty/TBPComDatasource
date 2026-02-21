@@ -78,11 +78,11 @@
 | 70 | 92 | Kristin MacDonald |
 | 71 | 90 | ZeeZee |
 | 72 | 89 | Zesty Twistbuilder |
-| 73 | 88 | Brandi Durig |
-| 74 | 88 | Heather Tushner |
+| 73 | 88 | Heather Tushner |
+| 74 | 88 | Brandi Durig |
 | 75 | 88 | Jenna McGeorge |
-| 76 | 87 | Jen Caldwell |
-| 77 | 87 | Malakai Darien Fox |
+| 76 | 87 | Malakai Darien Fox |
+| 77 | 87 | Jen Caldwell |
 | 78 | 86 | amy |
 | 79 | 85 | Mimi |
 | 80 | 82 | Kim Hunt |

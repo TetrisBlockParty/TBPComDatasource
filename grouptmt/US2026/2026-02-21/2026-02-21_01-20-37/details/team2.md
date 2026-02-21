@@ -218,8 +218,8 @@
 | 210 | 196 | Ariel |
 | 211 | 196 | Alexandra Reese |
 | 212 | 195 | Em Chen |
-| 213 | 194 | Kimberly Ann |
-| 214 | 194 | Mike Aprilliano |
+| 213 | 194 | Mike Aprilliano |
+| 214 | 194 | Kimberly Ann |
 | 215 | 194 | Mighty Patternzone |
 | 216 | 193 | Nika Bee |
 | 217 | 191 | Sho Nuff |
