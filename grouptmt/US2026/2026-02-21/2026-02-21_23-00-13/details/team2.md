@@ -638,8 +638,8 @@
 | 630 | 236 | Julio A Laracuente |
 | 631 | 235 | B-rad B-rad |
 | 632 | 235 | Daring Matchfit |
-| 633 | 234 | Jennifer Leigh |
-| 634 | 234 | Kay Stevenson |
+| 633 | 234 | Kay Stevenson |
+| 634 | 234 | Jennifer Leigh |
 | 635 | 234 | Jaybee Nguyen |
 | 636 | 233 | Jumpy Gridclear |
 | 637 | 233 | Epic Spinfit |

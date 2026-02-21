@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Cody Slav |
-| 45 | 503 | Redlicious 1 |
+| 44 | 503 | Redlicious 1 |
+| 45 | 503 | Cody Slav |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -83,8 +83,8 @@
 | 75 | 318 | Dee Perry |
 | 76 | 310 | Seth Wesson |
 | 77 | 308 | Kellie |
-| 78 | 305 | Plucky Ziggy |
-| 79 | 305 | Patrick Luckenbill |
+| 78 | 305 | Patrick Luckenbill |
+| 79 | 305 | Plucky Ziggy |
 | 80 | 304 | Nicole Roseberry Weber |
 | 81 | 303 | Maria C. Hernandez |
 | 82 | 301 | Hyper |
@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Bhelle Sumile |
-| 95 | 270 | Jennifer ManWarren |
+| 94 | 270 | Jennifer ManWarren |
+| 95 | 270 | Bhelle Sumile |
 | 96 | 263 | Sharon Reynolds |
 | 97 | 261 | Rachael |
 | 98 | 258 | Dandy Basegrid |
@@ -121,14 +121,14 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Jaimie Lynn |
-| 117 | 212 | Mandyy Rae |
+| 116 | 212 | Mandyy Rae |
+| 117 | 212 | Jaimie Lynn |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 205 | MRdot Rooski |
 | 121 | 204 | Ananda Mendez |
-| 122 | 203 | Giggly Builderline |
-| 123 | 203 | GATOR |
+| 122 | 203 | GATOR |
+| 123 | 203 | Giggly Builderline |
 | 124 | 198 | Happy Snapbuild |
 | 125 | 194 | Tyler Werts |
 | 126 | 194 | Ash Galvan |
@@ -137,8 +137,8 @@
 | 129 | 192 | Jessica Sheehan |
 | 130 | 192 | Shaykmia |
 | 131 | 191 | Diane Byrd |
-| 132 | 190 | Sweetts |
-| 133 | 190 | Thorne Shumate |
+| 132 | 190 | Thorne Shumate |
+| 133 | 190 | Sweetts |
 | 134 | 188 | Sam Williams |
 | 135 | 187 | Snippy Wipebuilder |
 | 136 | 186 | Jennifer Olewnik Soborowski |

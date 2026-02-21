@@ -158,8 +158,8 @@
 | 150 | 262 | Joe-Maggie Mathews |
 | 151 | 261 | Tiffany Ford |
 | 152 | 260 | Louise Stacy Sisson |
-| 153 | 258 | Ashley Tookes |
-| 154 | 258 | Tamara Deherrera |
+| 153 | 258 | Tamara Deherrera |
+| 154 | 258 | Ashley Tookes |
 | 155 | 256 | ren |
 | 156 | 254 | Duane Bright |
 | 157 | 252 | Nicole Flippo |
