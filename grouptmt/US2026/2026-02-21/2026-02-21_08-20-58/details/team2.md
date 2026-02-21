@@ -99,8 +99,8 @@
 | 91 | 658 | Vistabrat |
 | 92 | 658 | Pacynthia Williams |
 | 93 | 653 | Becky Weeks-Garry |
-| 94 | 649 | Anna Edwards |
-| 95 | 649 | Stephanie Chapman |
+| 94 | 649 | Stephanie Chapman |
+| 95 | 649 | Anna Edwards |
 | 96 | 631 | Loopy Clusterbuilder |
 | 97 | 621 | Ricardo Burton |
 | 98 | 620 | BYM4L |
@@ -243,8 +243,8 @@
 | 235 | 305 | Libby Hicks |
 | 236 | 303 | Crystal Greene |
 | 237 | 301 | Claire |
-| 238 | 299 | Deborah Miller |
-| 239 | 299 | Christy Krissie |
+| 238 | 299 | Christy Krissie |
+| 239 | 299 | Deborah Miller |
 | 240 | 297 | Brenda Utphall |
 | 241 | 296 | Jennifer Casey-Kay |
 | 242 | 296 | Amber Gray |
@@ -255,8 +255,8 @@
 | 247 | 293 | David Holliday |
 | 248 | 291 | Jennifer Darby |
 | 249 | 290 | Jessie McDougald |
-| 250 | 288 | Megan Phillips |
-| 251 | 288 | Elisheva Mizrachi |
+| 250 | 288 | Elisheva Mizrachi |
+| 251 | 288 | Megan Phillips |
 | 252 | 286 | Ryan Gunther |
 | 253 | 285 | June E Hanson |
 | 254 | 284 | Mamachelle Eisweirth |
@@ -390,8 +390,8 @@
 | 382 | 201 | Peppy Snapfall |
 | 383 | 200 | LaWanda Powell |
 | 384 | 200 | Sarah Ridenour |
-| 385 | 199 | Jenny Castro |
-| 386 | 199 | Jessica Sutter |
+| 385 | 199 | Jessica Sutter |
+| 386 | 199 | Jenny Castro |
 | 387 | 198 | Angie Bolton Workman |
 | 388 | 198 | Alyssa Dean |
 | 389 | 196 | Besma Ao |
@@ -402,8 +402,8 @@
 | 394 | 194 | Mike Aprilliano |
 | 395 | 194 | Kimberly Ann |
 | 396 | 194 | Hoppy Brickmatch |
-| 397 | 193 | Kelly Ann McCormick |
-| 398 | 193 | Matthew Turner |
+| 397 | 193 | Matthew Turner |
+| 398 | 193 | Kelly Ann McCormick |
 | 399 | 193 | Nika Bee |
 | 400 | 192 | Alyssa Nadine Medelez |
 | 401 | 191 | Lauren Fitzgerald Thomas |
@@ -477,8 +477,8 @@
 | 469 | 163 | Albert McKnight |
 | 470 | 162 | Michael Artis |
 | 471 | 162 | LC Hamilton |
-| 472 | 162 | Andrea Maher |
-| 473 | 162 | Brenna Ann |
+| 472 | 162 | Brenna Ann |
+| 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
 | 476 | 160 | Amy Reynolds |
@@ -544,8 +544,8 @@
 | 536 | 144 | Alexis Richardson |
 | 537 | 144 | Mandi Douglas Hilt |
 | 538 | 144 | Tristan Lamothe |
-| 539 | 144 | Tee Davis |
-| 540 | 144 | RavensBeard |
+| 539 | 144 | RavensBeard |
+| 540 | 144 | Tee Davis |
 | 541 | 143 | Jay Levy |
 | 542 | 143 | Angelica |
 | 543 | 142 | Frisky Clearpiece |
@@ -559,8 +559,8 @@
 | 551 | 140 | King Shamell Young |
 | 552 | 140 | Jasmine Kenney |
 | 553 | 140 | Brandy Sutton |
-| 554 | 140 | Preya Patel |
-| 555 | 140 | Kimberly Ann |
+| 554 | 140 | Kimberly Ann |
+| 555 | 140 | Preya Patel |
 | 556 | 140 | Sheretta Holmes Lil'bit |
 | 557 | 139 | Octavio Garza |
 | 558 | 139 | Jackson Smith |

@@ -193,8 +193,8 @@
 | 185 | 80 | Melissa Adams |
 | 186 | 79 | Perky Piecegrid |
 | 187 | 79 | Kametsunoyaiba |
-| 188 | 79 | Joseph Pace |
-| 189 | 79 | Anthony Bryan Riva |
+| 188 | 79 | Anthony Bryan Riva |
+| 189 | 79 | Joseph Pace |
 | 190 | 78 | Zesty Linkgrid |
 | 191 | 78 | Jessica Miller |
 | 192 | 77 | Marvin Lou Martin |

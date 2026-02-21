@@ -61,11 +61,11 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Ananda Mendez |
-| 57 | 201 | Anaid Sanchez |
+| 56 | 201 | Anaid Sanchez |
+| 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
-| 59 | 198 | Billie Dawn Sparks |
-| 60 | 198 | Happy Snapbuild |
+| 59 | 198 | Happy Snapbuild |
+| 60 | 198 | Billie Dawn Sparks |
 | 61 | 197 | Cynthia Bradley |
 | 62 | 194 | Giggly Builderline |
 | 63 | 194 | Sharon Reynolds |
@@ -88,8 +88,8 @@
 | 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
-| 83 | 149 | Arianna O'Brien |
-| 84 | 149 | Tana |
+| 83 | 149 | Tana |
+| 84 | 149 | Arianna O'Brien |
 | 85 | 148 | Jessie Lynn |
 | 86 | 148 | Shauntina Burke |
 | 87 | 147 | Veronica Eve |
@@ -133,8 +133,8 @@
 | 125 | 110 | Heidi Feurer |
 | 126 | 108 | Tavia |
 | 127 | 107 | Jodee Woods |
-| 128 | 106 | Bloknboy |
-| 129 | 106 | Ash Galvan |
+| 128 | 106 | Ash Galvan |
+| 129 | 106 | Bloknboy |
 | 130 | 105 | Flashy Rotator |
 | 131 | 104 | Charla Pross-Fugleberg |
 | 132 | 103 | Adryane Schnase |
@@ -206,8 +206,8 @@
 | 198 | 75 | Plucky Wrecker |
 | 199 | 74 | Grace Joanne Agnant |
 | 200 | 74 | Owicked1 |
-| 201 | 73 | Shanae Grant |
-| 202 | 73 | Chantelle Ceno |
+| 201 | 73 | Chantelle Ceno |
+| 202 | 73 | Shanae Grant |
 | 203 | 72 | Tipsy Strikerpiece |
 | 204 | 70 | Henry Lanier |
 | 205 | 70 | Rachel Nichole Henry |
