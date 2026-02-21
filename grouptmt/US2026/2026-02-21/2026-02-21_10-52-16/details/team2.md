@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Kaylee McCafferty |
-| 144 | 515 | Real Ri |
+| 143 | 515 | Real Ri |
+| 144 | 515 | Kaylee McCafferty |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | Ramone Armstrong |
-| 155 | 486 | MrsCandyfine As Wine Truss |
+| 154 | 486 | MrsCandyfine As Wine Truss |
+| 155 | 486 | Ramone Armstrong |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -192,8 +192,8 @@
 | 184 | 409 | Sparkles |
 | 185 | 406 | Erin StFrancis |
 | 186 | 400 | Crystie Hicks |
-| 187 | 400 | Rhonda Milstead |
-| 188 | 400 | Tammy Allen |
+| 187 | 400 | Tammy Allen |
+| 188 | 400 | Rhonda Milstead |
 | 189 | 397 | Ashley Guernsey-Martin |
 | 190 | 397 | coleksquad |
 | 191 | 394 | Em Chen |
@@ -287,13 +287,13 @@
 | 279 | 282 | Carl Bradshaw |
 | 280 | 282 | Shaun Church |
 | 281 | 281 | Maegan Beaule |
-| 282 | 280 | Shorty |
-| 283 | 280 | Autumn Schaeffer |
+| 282 | 280 | Autumn Schaeffer |
+| 283 | 280 | Shorty |
 | 284 | 278 | Noel Tarmy |
 | 285 | 278 | Peachy Blockbuilder |
 | 286 | 276 | Lindsey Leigh |
-| 287 | 276 | Vonceial Boone |
-| 288 | 276 | SwampRebel |
+| 287 | 276 | SwampRebel |
+| 288 | 276 | Vonceial Boone |
 | 289 | 275 | Cheeky Brickmatch |
 | 290 | 275 | Shiny Rollzone |
 | 291 | 275 | Brandy Andre |
@@ -308,8 +308,8 @@
 | 300 | 272 | Mikayala Szaz |
 | 301 | 271 | Ann Marie Davis |
 | 302 | 271 | Toni Lynn |
-| 303 | 270 | Christina Ashley |
-| 304 | 270 | Angela Lynn |
+| 303 | 270 | Angela Lynn |
+| 304 | 270 | Christina Ashley |
 | 305 | 270 | Alexandra Weir |
 | 306 | 269 | Reece Smith |
 | 307 | 268 | Chummy Blockbuilder |
@@ -350,8 +350,8 @@
 | 342 | 245 | Rachael Senard |
 | 343 | 245 | Sanaa Nounoussa |
 | 344 | 244 | Aimee Byrom |
-| 345 | 242 | Donna Chandler |
-| 346 | 242 | Lawanda Forbes |
+| 345 | 242 | Lawanda Forbes |
+| 346 | 242 | Donna Chandler |
 | 347 | 241 | Sabrina Burton |
 | 348 | 240 | Angie Marie |
 | 349 | 240 | Adam Erikson |

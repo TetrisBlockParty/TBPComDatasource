@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -107,15 +107,15 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Shunta Jacobs |
-| 110 | 212 | Kristie McFarland |
+| 109 | 212 | Kristie McFarland |
+| 110 | 212 | Shunta Jacobs |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -156,8 +156,8 @@
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Stephanie Whitefield |
-| 152 | 153 | Beth Ingham |
+| 151 | 153 | Beth Ingham |
+| 152 | 153 | Stephanie Whitefield |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
@@ -179,9 +179,9 @@
 | 171 | 129 | Lesley Perez |
 | 172 | 129 | Logan Naccarato |
 | 173 | 127 | Connie Mohler-Fair |
-| 174 | 127 | Marquita Sheard |
+| 174 | 127 | Aerian Preston |
 | 175 | 127 | Joy Petroski |
-| 176 | 127 | Aerian Preston |
+| 176 | 127 | Marquita Sheard |
 | 177 | 126 | Brandon Givens |
 | 178 | 125 | Felicia Doxey |
 | 179 | 125 | Shimika Enay Wallace |

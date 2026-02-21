@@ -93,8 +93,8 @@
 | 85 | 154 | ThaEviLJeNiuZ |
 | 86 | 153 | Jae Job |
 | 87 | 150 | ZeeZee |
-| 88 | 147 | 030Synner |
-| 89 | 147 | Jay28 |
+| 88 | 147 | Jay28 |
+| 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
 | 91 | 141 | Malakai Darien Fox |
 | 92 | 140 | Shannon Ferrari |

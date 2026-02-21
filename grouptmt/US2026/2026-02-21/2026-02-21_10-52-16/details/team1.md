@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Stef Hu |
-| 33 | 348 | Chipper Gridlock |
+| 32 | 348 | Chipper Gridlock |
+| 33 | 348 | Stef Hu |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
