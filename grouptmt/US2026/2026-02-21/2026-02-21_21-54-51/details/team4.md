@@ -103,8 +103,8 @@
 | 95 | 228 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Casey Grabner |
-| 99 | 218 | Denise Carlson |
+| 98 | 218 | Denise Carlson |
+| 99 | 218 | Casey Grabner |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jenna McGeorge |
-| 116 | 196 | Jeff Brian Gates |
+| 115 | 196 | Jeff Brian Gates |
+| 116 | 196 | Jenna McGeorge |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -170,8 +170,8 @@
 | 162 | 140 | Stephme310 |
 | 163 | 140 | John Brunetti |
 | 164 | 137 | PeaceOs |
-| 165 | 136 | Tanner Lund |
-| 166 | 136 | Sarah Brown |
+| 165 | 136 | Sarah Brown |
+| 166 | 136 | Tanner Lund |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
 | 169 | 134 | Chirpy Basepiece |
@@ -299,8 +299,8 @@
 | 291 | 85 | Joseph Gray |
 | 292 | 85 | Chirpy Slammer |
 | 293 | 85 | Staci Robinson Jones |
-| 294 | 85 | Mimi |
-| 295 | 85 | Chris Hartig |
+| 294 | 85 | Chris Hartig |
+| 295 | 85 | Mimi |
 | 296 | 84 | mini |
 | 297 | 84 | Jen Hallin |
 | 298 | 84 | Ruben Wheeler |

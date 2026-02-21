@@ -208,8 +208,8 @@
 | 200 | 605 | ShinyRose |
 | 201 | 604 | Danielle Johnson-Chandler |
 | 202 | 603 | Cassie Maynard |
-| 203 | 596 | Jelly |
-| 204 | 596 | Ellie Jonas |
+| 203 | 596 | Ellie Jonas |
+| 204 | 596 | Jelly |
 | 205 | 592 | Ashle Scranton |
 | 206 | 589 | Thomas Hedrick |
 | 207 | 587 | Hyper Cluster |
@@ -328,8 +328,8 @@
 | 320 | 416 | Lina Sanders |
 | 321 | 414 | Sabrina Burton |
 | 322 | 414 | Kara Gillen |
-| 323 | 414 | John |
-| 324 | 414 | Emily Lyric Converse |
+| 323 | 414 | Emily Lyric Converse |
+| 324 | 414 | John |
 | 325 | 413 | Sam |
 | 326 | 412 | Ray Ray Prado |
 | 327 | 412 | Heather Schelkopf |

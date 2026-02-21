@@ -109,8 +109,8 @@
 | 101 | 389 | Elissa S-k |
 | 102 | 386 | Katie Knaus |
 | 103 | 384 | Shannon Matthew Byers |
-| 104 | 378 | Makelini Mausia |
-| 105 | 378 | Tasha Schriewer |
+| 104 | 378 | Tasha Schriewer |
+| 105 | 378 | Makelini Mausia |
 | 106 | 377 | Jesse Olive |
 | 107 | 372 | Jessica Bechler |
 | 108 | 368 | Stephanie Blkpep Davidson |
@@ -247,8 +247,8 @@
 | 239 | 157 | Katrina E Jelks |
 | 240 | 155 | Loopy Fallzone |
 | 241 | 154 | Laurie Allen |
-| 242 | 153 | Rachel Napper |
-| 243 | 153 | Desiree Gold |
+| 242 | 153 | Desiree Gold |
+| 243 | 153 | Rachel Napper |
 | 244 | 153 | Cozy Snaplink |
 | 245 | 152 | Shiny Zonebuilder |
 | 246 | 152 | Lesley Perez |
