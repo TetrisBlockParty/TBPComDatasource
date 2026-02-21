@@ -260,8 +260,8 @@
 | 252 | 509 | Jordan Kaiser |
 | 253 | 509 | Kelli Wells |
 | 254 | 506 | AISlop |
-| 255 | 504 | Gene Mills |
-| 256 | 504 | Cherica Taylor |
+| 255 | 504 | Cherica Taylor |
+| 256 | 504 | Gene Mills |
 | 257 | 503 | tejas25 |
 | 258 | 502 | Magic steve |
 | 259 | 502 | Poppy Snap |
