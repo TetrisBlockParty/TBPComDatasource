@@ -100,13 +100,13 @@
 | 92 | 118 | Bea Miles |
 | 93 | 118 | Fancy Curver |
 | 94 | 114 | Terry Jo Jones |
-| 95 | 113 | Rufus Lincoln |
-| 96 | 113 | Jennifer Alvey |
+| 95 | 113 | Jennifer Alvey |
+| 96 | 113 | Rufus Lincoln |
 | 97 | 112 | Connie Mohler-Fair |
 | 98 | 112 | Jimmie Clemons |
 | 99 | 111 | Joy Petroski |
-| 100 | 110 | Stella |
-| 101 | 110 | Tiff Vs Tiffany |
+| 100 | 110 | Tiff Vs Tiffany |
+| 101 | 110 | Stella |
 | 102 | 108 | Grams |
 | 103 | 107 | Bryan Byrd |
 | 104 | 105 | Hoppy Buildout |

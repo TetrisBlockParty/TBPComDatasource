@@ -174,10 +174,10 @@
 | 166 | 238 | Steven Marshaun |
 | 167 | 238 | Dany Murillo |
 | 168 | 236 | Frisky Riserbuilder |
-| 169 | 232 | Ann Knutson Anderson |
-| 170 | 232 | Chummy Blockbuilder |
-| 171 | 231 | Ginger |
-| 172 | 231 | Dylan Thomason |
+| 169 | 232 | Chummy Blockbuilder |
+| 170 | 232 | Ann Knutson Anderson |
+| 171 | 231 | Dylan Thomason |
+| 172 | 231 | Ginger |
 | 173 | 231 | Ashley Lopez |
 | 174 | 228 | Davetta Sanford |
 | 175 | 227 | Charvi' Carter |
@@ -240,8 +240,8 @@
 | 232 | 175 | Tina Blessed Cage |
 | 233 | 173 | Macy Williams |
 | 234 | 171 | Poppy Snapper |
-| 235 | 170 | Darlene Bowman |
-| 236 | 170 | Taryece Gause |
+| 235 | 170 | Taryece Gause |
+| 236 | 170 | Darlene Bowman |
 | 237 | 170 | Kenya Felix |
 | 238 | 169 | Lively Catcher |
 | 239 | 168 | Robin |
@@ -322,8 +322,8 @@
 | 314 | 129 | Amy Ross |
 | 315 | 129 | Britt Woolston |
 | 316 | 128 | Maddy Petersen |
-| 317 | 128 | Melissa Kay Gibson |
-| 318 | 128 | Arwa Fatimah |
+| 317 | 128 | Arwa Fatimah |
+| 318 | 128 | Melissa Kay Gibson |
 | 319 | 127 | Ellie Jonas |
 | 320 | 126 | Ethan Stienbarger |
 | 321 | 125 | Martina Gabrielle LaPolla |

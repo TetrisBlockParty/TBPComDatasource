@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Kathi Snustad |
-| 18 | 281 | Nancy Green |
+| 17 | 281 | Nancy Green |
+| 18 | 281 | Kathi Snustad |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |
@@ -97,19 +97,19 @@
 | 89 | 79 | Chris65 |
 | 90 | 78 | Carrie Beck Geartz |
 | 91 | 76 | Larry Tilton |
-| 92 | 75 | Tyler L Hunt |
-| 93 | 75 | Fresno Beotoni |
+| 92 | 75 | Fresno Beotoni |
+| 93 | 75 | Tyler L Hunt |
 | 94 | 74 | Grace Joanne Agnant |
 | 95 | 73 | Witty Builderfit |
 | 96 | 73 | Loony Fitzone |
 | 97 | 72 | Tipsy Strikerpiece |
-| 98 | 71 | Teddy Alexander |
-| 99 | 71 | Susanna Guerry |
+| 98 | 71 | Susanna Guerry |
+| 99 | 71 | Teddy Alexander |
 | 100 | 70 | BigWeenie69 |
 | 101 | 69 | Christina Torres |
 | 102 | 68 | Blaire Bruckoff |
-| 103 | 66 | Tipsy Riseclear |
-| 104 | 66 | Archie Ware |
+| 103 | 66 | Archie Ware |
+| 104 | 66 | Tipsy Riseclear |
 | 105 | 65 | MamaB24 |
 | 106 | 65 | Jennifer Olewnik Soborowski |
 | 107 | 65 | Trippy Redd |

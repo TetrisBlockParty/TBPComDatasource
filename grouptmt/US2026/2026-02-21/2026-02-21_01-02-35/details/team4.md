@@ -60,8 +60,8 @@
 | 52 | 113 | Degenerate |
 | 53 | 112 | Chirpy Basepiece |
 | 54 | 111 | Gwendolyn Pitcairn |
-| 55 | 109 | Epic Curvetile |
-| 56 | 109 | Bryan Hodgins |
+| 55 | 109 | Bryan Hodgins |
+| 56 | 109 | Epic Curvetile |
 | 57 | 108 | Mr. Party |
 | 58 | 105 | Diana Houts |
 | 59 | 101 | Jessica Bohlken |
