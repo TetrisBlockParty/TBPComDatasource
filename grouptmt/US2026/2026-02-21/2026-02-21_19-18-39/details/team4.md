@@ -30,12 +30,12 @@
 | 22 | 676 | Lucille Truesdale |
 | 23 | 647 | Robin Watters |
 | 24 | 636 | Rachel Anne |
-| 25 | 625 | Kimyatta Cavin |
-| 26 | 625 | GreenJeepGirl |
+| 25 | 625 | GreenJeepGirl |
+| 26 | 625 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -114,10 +114,10 @@
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
 | 108 | 185 | Andy Cabral |
-| 109 | 181 | Andria Lynn |
-| 110 | 181 | Carter Jones |
-| 111 | 180 | Leah Kutz Zirbel |
-| 112 | 180 | Justin Hannigan |
+| 109 | 181 | Carter Jones |
+| 110 | 181 | Andria Lynn |
+| 111 | 180 | Justin Hannigan |
+| 112 | 180 | Leah Kutz Zirbel |
 | 113 | 179 | Epic Curvetile |
 | 114 | 178 | Lori |
 | 115 | 176 | Stacey Stano |
@@ -148,7 +148,7 @@
 | 140 | 146 | Klo |
 | 141 | 145 | Daria Rycewicz |
 | 142 | 144 | Mr. Party |
-| 143 | 141 | ĥuf |
+| 143 | 141 | Malakai Darien Fox |
 | 144 | 141 | Kathy Allen |
 | 145 | 141 | ĥuf |
 | 146 | 140 | John Brunetti |

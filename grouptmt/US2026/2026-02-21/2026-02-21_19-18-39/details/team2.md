@@ -183,8 +183,8 @@
 | 175 | 592 | Ashle Scranton |
 | 176 | 591 | Alisha |
 | 177 | 591 | Diana Fitzwater |
-| 178 | 583 | Steve Grotto |
-| 179 | 583 | Jessicah Myers |
+| 178 | 583 | Jessicah Myers |
+| 179 | 583 | Steve Grotto |
 | 180 | 579 | Gary Stash |
 | 181 | 576 | Shannon Joslin |
 | 182 | 571 | Thomas Hedrick |
@@ -598,8 +598,8 @@
 | 590 | 214 | Cass Shirley |
 | 591 | 214 | Joy LaJeunesse |
 | 592 | 214 | Dawn L Washington-Feuquay |
-| 593 | 212 | Denelle Wendt-Ramalho |
-| 594 | 212 | BK Queen |
+| 593 | 212 | BK Queen |
+| 594 | 212 | Denelle Wendt-Ramalho |
 | 595 | 212 | Josh Webster |
 | 596 | 212 | Wacky Cascade |
 | 597 | 211 | Trisha Gallagher |

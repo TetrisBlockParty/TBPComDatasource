@@ -109,8 +109,8 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Tiff Vs Tiffany |
-| 105 | 350 | Shannon Matthew Byers |
+| 104 | 350 | Shannon Matthew Byers |
+| 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
 | 108 | 323 | Ashley Raines |
@@ -173,8 +173,8 @@
 | 165 | 203 | Twisty Brick LT |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Nicha Hooker |
-| 169 | 195 | Michael Lucado |
+| 168 | 195 | Michael Lucado |
+| 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Duane Bright |
 | 172 | 193 | Stephanie Burtin |
@@ -255,13 +255,13 @@
 | 247 | 139 | Loopy Clusterer |
 | 248 | 138 | Boldy Corner |
 | 249 | 137 | Joy Petroski |
-| 250 | 135 | Terry Jo Jones |
-| 251 | 135 | Erykah |
+| 250 | 135 | Erykah |
+| 251 | 135 | Terry Jo Jones |
 | 252 | 134 | Cesar Barraza |
 | 253 | 134 | Skinny Baldez |
 | 254 | 133 | LaNette Morgan |
-| 255 | 131 | April Matthew Kibble |
-| 256 | 131 | Darlene McMillan |
+| 255 | 131 | Darlene McMillan |
+| 256 | 131 | April Matthew Kibble |
 | 257 | 130 | Weerae |
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |
@@ -276,7 +276,7 @@
 | 268 | 125 | Shimika Enay Wallace |
 | 269 | 124 | Funky Jumper |
 | 270 | 123 | Lys |
-| 271 | 123 | Rachel |
+| 271 | 123 | France Vézina |
 | 272 | 123 | Michael Latasha Gray |
 | 273 | 123 | Rachel |
 | 274 | 122 | Eon Harris |
