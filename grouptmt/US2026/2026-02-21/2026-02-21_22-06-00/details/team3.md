@@ -91,8 +91,8 @@
 | 83 | 454 | Brandon Green |
 | 84 | 447 | Mykal Burton |
 | 85 | 446 | Danielle Rhoades |
-| 86 | 445 | Kristie McFarland |
-| 87 | 445 | Silly Twist |
+| 86 | 445 | Silly Twist |
+| 87 | 445 | Kristie McFarland |
 | 88 | 442 | Christine Niles |
 | 89 | 430 | Patricia White |
 | 90 | 416 | Mary Pellegrino |
@@ -182,8 +182,8 @@
 | 174 | 214 | Jenny Hrndz |
 | 175 | 214 | Amy Fuller Heaton |
 | 176 | 212 | Krystal Gerstberger |
-| 177 | 211 | Khaleada McGill Banks |
-| 178 | 211 | Katrina Turner |
+| 177 | 211 | Katrina Turner |
+| 178 | 211 | Khaleada McGill Banks |
 | 179 | 209 | Annie Marie |
 | 180 | 207 | Jessica |
 | 181 | 207 | Chris Bell |
@@ -225,19 +225,19 @@
 | 217 | 178 | AlsoJess |
 | 218 | 177 | Sarajane Lokan |
 | 219 | 176 | rosy |
-| 220 | 175 | Tasha Wesson-Torrence |
-| 221 | 175 | Latoya Mayne |
+| 220 | 175 | Latoya Mayne |
+| 221 | 175 | Tasha Wesson-Torrence |
 | 222 | 174 | Marquita Sheard |
 | 223 | 172 | Grams |
 | 224 | 169 | BŘŰŤİÇŨŚ |
 | 225 | 169 | Emma |
 | 226 | 168 | MsBee |
 | 227 | 166 | Betty Ivy |
-| 228 | 166 | Beth Ingham |
-| 229 | 166 | Betty Rosas |
+| 228 | 166 | Betty Rosas |
+| 229 | 166 | Beth Ingham |
 | 230 | 165 | Kali Kelz Williams |
-| 231 | 163 | Christine Trester |
-| 232 | 163 | Stephanie Hill |
+| 231 | 163 | Stephanie Hill |
+| 232 | 163 | Christine Trester |
 | 233 | 162 | Stephanie Whitefield |
 | 234 | 161 | Irene Arreguin |
 | 235 | 160 | Tiffany Davie |

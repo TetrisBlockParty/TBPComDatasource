@@ -440,9 +440,9 @@
 | 432 | 330 | Lucy Marshall |
 | 433 | 329 | Chummy Blockbuilder |
 | 434 | 329 | Jroc |
-| 435 | 327 | Danielle Simmons |
+| 435 | 327 | Ann Matzkanin |
 | 436 | 327 | Jean FU Jagielski |
-| 437 | 327 | Ann Matzkanin |
+| 437 | 327 | Danielle Simmons |
 | 438 | 327 | Kiana Boschh |
 | 439 | 326 | Morgan Easter |
 | 440 | 326 | Elisheva Mizrachi |
@@ -881,8 +881,8 @@
 | 873 | 164 | Jessica Vega |
 | 874 | 164 | Dapper Blockroll |
 | 875 | 163 | Latrenya Paynes |
-| 876 | 163 | Epic Fitzone |
-| 877 | 163 | Mandi Marie Smith |
+| 876 | 163 | Jackson Smith |
+| 877 | 163 | Epic Fitzone |
 | 878 | 163 | Christina Jones |
 | 879 | 163 | Mandi Marie Smith |
 | 880 | 163 | Jacob Huffman |
@@ -904,7 +904,7 @@
 | 896 | 160 | Alex Marie Desantiago |
 | 897 | 160 | Renee Bowers |
 | 898 | 160 | Tiffany Gamble |
-| 899 | 160 | Alex Marie Desantiago |
+| 899 | 160 | Sharice Thompson |
 | 900 | 160 | Amy Reynolds |
 | 901 | 160 | Stephanie Myers |
 | 902 | 160 | Crystal Hagy |

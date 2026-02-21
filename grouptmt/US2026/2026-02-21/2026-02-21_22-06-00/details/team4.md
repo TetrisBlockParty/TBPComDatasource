@@ -103,8 +103,8 @@
 | 95 | 230 | Autum Leigh |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jenna McGeorge |
-| 116 | 196 | Jeff Brian Gates |
+| 115 | 196 | Jeff Brian Gates |
+| 116 | 196 | Jenna McGeorge |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -132,10 +132,10 @@
 | 124 | 185 | Andy Cabral |
 | 125 | 184 | Justin Hannigan |
 | 126 | 181 | Carter Jones |
-| 127 | 181 | Andria Lynn |
-| 128 | 181 | Savannah Overdorf |
-| 129 | 180 | Serena Goodridge |
-| 130 | 180 | Leah Kutz Zirbel |
+| 127 | 181 | Savannah Overdorf |
+| 128 | 181 | Andria Lynn |
+| 129 | 180 | Leah Kutz Zirbel |
+| 130 | 180 | Serena Goodridge |
 | 131 | 178 | Lori |
 | 132 | 176 | Klo |
 | 133 | 176 | Stacey Stano |
@@ -257,15 +257,15 @@
 | 249 | 100 | Maureen Flanigan |
 | 250 | 100 | Jennifer Perkins |
 | 251 | 99 | Michael Orris |
-| 252 | 98 | Groovy Gridlock |
+| 252 | 98 | Sam Bishop |
 | 253 | 98 | Perky Piecegrid |
-| 254 | 98 | Sam Bishop |
+| 254 | 98 | Bradley Reeves |
 | 255 | 98 | Groovy Gridlock |
 | 256 | 97 | Rosemary Foster |
 | 257 | 97 | Jen Caldwell |
 | 258 | 97 | Marcela Johnson |
-| 259 | 96 | Jessica Miller |
-| 260 | 96 | Marcus TheeyoungWoe Gilmore |
+| 259 | 96 | Marcus TheeyoungWoe Gilmore |
+| 260 | 96 | Jessica Miller |
 | 261 | 96 | Sammy Noguera |
 | 262 | 95 | LS |
 | 263 | 95 | Meagan Nicole |
@@ -280,11 +280,11 @@
 | 272 | 92 | Zippy Gridlock |
 | 273 | 91 | Sunny Filler |
 | 274 | 91 | wombat |
-| 275 | 90 | Thomas Hettenhaus |
-| 276 | 90 | Carol Ricks Raymond |
+| 275 | 90 | Carol Ricks Raymond |
+| 276 | 90 | Thomas Hettenhaus |
 | 277 | 90 | Hyper Builder |
-| 278 | 89 | Jonathan Mahfood |
-| 279 | 89 | bloat princess |
+| 278 | 89 | bloat princess |
+| 279 | 89 | Jonathan Mahfood |
 | 280 | 88 | Kesha Brady |
 | 281 | 88 | Scott Jameson |
 | 282 | 88 | Michelle Parker |
@@ -362,7 +362,7 @@
 | 354 | 70 | Robert Rangel |
 | 355 | 70 | Niome Encinias |
 | 356 | 69 | Beth Helms |
-| 357 | 69 | Meli  Jackson |
+| 357 | 69 | Jessica Wells |
 | 358 | 69 | Frisky Column |
 | 359 | 69 | Meli  Jackson |
 | 360 | 68 | Dapper Frame |
@@ -1074,7 +1074,7 @@
 | 1066 | 12 | Keith Kelley |
 | 1067 | 12 | Jelly |
 | 1068 | 11 | Sarah Grundisch |
-| 1069 | 11 | Cozy Clearfit |
+| 1069 | 11 | Janis Brown |
 | 1070 | 11 | Jud Retzlaff |
 | 1071 | 11 | Cozy Clearfit |
 | 1072 | 11 | Rashel |

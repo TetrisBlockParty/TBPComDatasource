@@ -106,8 +106,8 @@
 | 98 | 244 | Franswa |
 | 99 | 240 | Tana |
 | 100 | 239 | Cynthia Bradley |
-| 101 | 238 | John J. Cronin |
-| 102 | 238 | Steve Schneider |
+| 101 | 238 | Steve Schneider |
+| 102 | 238 | John J. Cronin |
 | 103 | 237 | Seante Bullock |
 | 104 | 232 | Ly Phethmany |
 | 105 | 230 | Frothy Pattern |
@@ -131,8 +131,8 @@
 | 123 | 193 | Lachelle Dillon |
 | 124 | 192 | Shaykmia |
 | 125 | 191 | Diane Byrd |
-| 126 | 190 | Sweetts |
-| 127 | 190 | Thorne Shumate |
+| 126 | 190 | Thorne Shumate |
+| 127 | 190 | Sweetts |
 | 128 | 188 | Sam Williams |
 | 129 | 187 | Snippy Wipebuilder |
 | 130 | 186 | Jennifer Olewnik Soborowski |
@@ -140,8 +140,8 @@
 | 132 | 180 | BigWeenie69 |
 | 133 | 180 | Erez Yosef |
 | 134 | 179 | Danielle Little-Daugherty |
-| 135 | 178 | Chad Atchley |
-| 136 | 178 | Michael |
+| 135 | 178 | Michael |
+| 136 | 178 | Chad Atchley |
 | 137 | 177 | ParisandCory Champagne |
 | 138 | 176 | Basment Living |
 | 139 | 175 | John Barron |
@@ -208,11 +208,11 @@
 | 200 | 126 | Tami Luce Martin |
 | 201 | 125 | Larry Tilton |
 | 202 | 123 | MRdot Rooski |
-| 203 | 122 | Melissa Lemmon |
-| 204 | 122 | Margo Wagner |
+| 203 | 122 | Margo Wagner |
+| 204 | 122 | Melissa Lemmon |
 | 205 | 121 | Mark Smith |
-| 206 | 120 | Kimmie Kimms |
-| 207 | 120 | Alenoush Karimian |
+| 206 | 120 | Alenoush Karimian |
+| 207 | 120 | Kimmie Kimms |
 | 208 | 119 | Tater |
 | 209 | 118 | SavageBooty98 |
 | 210 | 118 | Jennifer Hardman |
