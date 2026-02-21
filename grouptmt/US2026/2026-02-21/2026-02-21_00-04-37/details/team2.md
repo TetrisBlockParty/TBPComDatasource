@@ -89,17 +89,17 @@
 | 81 | 350 | Chris Harr |
 | 82 | 346 | Gene Mills |
 | 83 | 345 | Brenda Messer |
-| 84 | 345 | Alyssaaelena |
-| 85 | 345 | Rhianna DiLorenzo |
+| 84 | 345 | Rhianna DiLorenzo |
+| 85 | 345 | Alyssaaelena |
 | 86 | 342 | Tracy Wise |
-| 87 | 341 | Sarah Freitas |
-| 88 | 341 | Sam McKenzie |
+| 87 | 341 | Sam McKenzie |
+| 88 | 341 | Sarah Freitas |
 | 89 | 340 | Kimberly Randesi |
 | 90 | 337 | Alisha Peoples |
 | 91 | 330 | Mari Ac |
 | 92 | 328 | Marie Boyd Faulk |
-| 93 | 323 | Daphne Jordan |
-| 94 | 323 | Danielle Simmons |
+| 93 | 323 | Danielle Simmons |
+| 94 | 323 | Daphne Jordan |
 | 95 | 317 | Debra Williams |
 | 96 | 317 | bru |
 | 97 | 299 | Véronique Lévesque Sabourin |

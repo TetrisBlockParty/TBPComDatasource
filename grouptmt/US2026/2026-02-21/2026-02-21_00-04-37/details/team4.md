@@ -183,7 +183,7 @@
 | 175 | 36 | Frank Cook |
 | 176 | 36 | Marvetta Williams |
 | 177 | 35 | Berklie Apedaile |
-| 178 | 35 | Kimberly Paxton |
+| 178 | 35 | JEan Price |
 | 179 | 35 | Shelly Matthews |
 | 180 | 35 | TeeJ |
 | 181 | 35 | Kimberly Paxton |

@@ -77,8 +77,8 @@
 | 69 | 135 | Latoya Mayne |
 | 70 | 135 | Danielle Cutler |
 | 71 | 134 | DanceLuvLaugh |
-| 72 | 130 | Zippy Strikesnap |
-| 73 | 130 | Tessina Dewey-Mancino |
+| 72 | 130 | Tessina Dewey-Mancino |
+| 73 | 130 | Zippy Strikesnap |
 | 74 | 129 | Giddy Twistbuilder |
 | 75 | 128 | Angel Mendez |
 | 76 | 127 | Dolores Falco |
@@ -110,10 +110,10 @@
 | 102 | 99 | Nichol Graham |
 | 103 | 98 | Ryan Williams |
 | 104 | 98 | Jocelyne Baca |
-| 105 | 96 | Boldy Corner |
-| 106 | 96 | D3NO |
-| 107 | 95 | Demetrious Shaw Sr. |
-| 108 | 95 | Brooke Bauer |
+| 105 | 96 | D3NO |
+| 106 | 96 | Boldy Corner |
+| 107 | 95 | Brooke Bauer |
+| 108 | 95 | Demetrious Shaw Sr. |
 | 109 | 92 | Skinny Baldez |
 | 110 | 90 | Tiffany Kaupang |
 | 111 | 89 | Hyper Bridger |

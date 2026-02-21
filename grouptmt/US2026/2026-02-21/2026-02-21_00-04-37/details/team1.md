@@ -61,8 +61,8 @@
 | 53 | 108 | Tavia |
 | 54 | 105 | Barry Mac'Ockner |
 | 55 | 103 | Sharon Reynolds |
-| 56 | 100 | Ash Galvan |
-| 57 | 100 | Frothy Pattern |
+| 56 | 100 | Frothy Pattern |
+| 57 | 100 | Ash Galvan |
 | 58 | 98 | Flashy Rotator |
 | 59 | 95 | Jodee Woods |
 | 60 | 94 | Bindi |
