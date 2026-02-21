@@ -28,8 +28,8 @@
 | 20 | 338 | Nope Young |
 | 21 | 330 | Samantha Peterson |
 | 22 | 324 | Isabel Aguilar |
-| 23 | 320 | Johnathan Martinez |
-| 24 | 320 | Kimyatta Cavin |
+| 23 | 320 | Kimyatta Cavin |
+| 24 | 320 | Johnathan Martinez |
 | 25 | 315 | Carolyn Wallace |
 | 26 | 307 | Kimberly Love |
 | 27 | 303 | Tammi Crnza |
@@ -67,8 +67,8 @@
 | 59 | 125 | Lauren Scott |
 | 60 | 124 | Jay28 |
 | 61 | 123 | Nugget |
-| 62 | 122 | Shelly Chandler |
-| 63 | 122 | Sherri |
+| 62 | 122 | Sherri |
+| 63 | 122 | Shelly Chandler |
 | 64 | 121 | Smiley Tiltbuilder |
 | 65 | 116 | Serena Goodridge |
 | 66 | 114 | Zany Shatterer |
@@ -85,8 +85,8 @@
 | 77 | 110 | H.R. Block |
 | 78 | 110 | John Brunetti |
 | 79 | 108 | Rio Rocha |
-| 80 | 107 | Lazy Blocker |
-| 81 | 107 | Marcus Todd |
+| 80 | 107 | Marcus Todd |
+| 81 | 107 | Lazy Blocker |
 | 82 | 103 | Sam Middleton |
 | 83 | 102 | Faja |
 | 84 | 101 | Michelle Morris |

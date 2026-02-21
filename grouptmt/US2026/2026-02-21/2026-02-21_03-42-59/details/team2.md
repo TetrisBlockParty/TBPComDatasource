@@ -207,8 +207,8 @@
 | 199 | 271 | Toni Lynn |
 | 200 | 268 | Vanessa Moreno |
 | 201 | 267 | Mindy Leigh Head |
-| 202 | 266 | Mighty Shatterfit |
-| 203 | 266 | Autumn Schaeffer |
+| 202 | 266 | Autumn Schaeffer |
+| 203 | 266 | Mighty Shatterfit |
 | 204 | 266 | Joyce Johnson Vaughn |
 | 205 | 263 | August Hale |
 | 206 | 263 | Taylor Flowers |
@@ -255,8 +255,8 @@
 | 247 | 231 | Dylan Thomason |
 | 248 | 227 | Sanaa Nounoussa |
 | 249 | 227 | Nutty Matchline |
-| 250 | 226 | Leslie Ann Carter |
-| 251 | 226 | Vonceial Boone |
+| 250 | 226 | Vonceial Boone |
+| 251 | 226 | Leslie Ann Carter |
 | 252 | 224 | snkylnk |
 | 253 | 224 | Arwa Fatimah |
 | 254 | 223 | Matt Johnson |

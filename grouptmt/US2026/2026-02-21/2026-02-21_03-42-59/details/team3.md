@@ -158,8 +158,8 @@
 | 150 | 102 | Kali Kelz Williams |
 | 151 | 102 | mommablock |
 | 152 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 153 | 100 | Elizabeth Renee |
-| 154 | 100 | Bobbi Moore |
+| 153 | 100 | Bobbi Moore |
+| 154 | 100 | Elizabeth Renee |
 | 155 | 100 | Ryan Williams |
 | 156 | 100 | Donna |
 | 157 | 99 | Nichol Graham |
@@ -180,8 +180,8 @@
 | 172 | 94 | Carrie Huskey |
 | 173 | 93 | Tiffany Ford |
 | 174 | 92 | Jennifer Caputo |
-| 175 | 90 | LaTanya GeminiondaRise Johnson |
-| 176 | 90 | Eon Harris |
+| 175 | 90 | Eon Harris |
+| 176 | 90 | LaTanya GeminiondaRise Johnson |
 | 177 | 90 | Tiffany Kaupang |
 | 178 | 90 | Rebel124 |
 | 179 | 89 | Shicken Nuggit |
