@@ -164,8 +164,8 @@
 | 156 | 149 | Roger Coulter |
 | 157 | 149 | Shainne Brewer |
 | 158 | 148 | Mr. Party |
-| 159 | 148 | Janita Parrish |
-| 160 | 148 | Brittany Marsh |
+| 159 | 148 | Brittany Marsh |
+| 160 | 148 | Janita Parrish |
 | 161 | 147 | Jay28 |
 | 162 | 145 | Daria Rycewicz |
 | 163 | 142 | Zippy Gridlock |

@@ -121,8 +121,8 @@
 | 113 | 378 | Makelini Mausia |
 | 114 | 378 | Tasha Schriewer |
 | 115 | 377 | Jesse Olive |
-| 116 | 368 | Stephanie Blkpep Davidson |
-| 117 | 368 | Stephanie Woods |
+| 116 | 368 | Stephanie Woods |
+| 117 | 368 | Stephanie Blkpep Davidson |
 | 118 | 367 | mjl574 |
 | 119 | 366 | Adrian Marcel Pate |
 | 120 | 366 | Speedy Bridger |
@@ -295,8 +295,8 @@
 | 287 | 138 | Pam Holt Powell |
 | 288 | 138 | Boldy Corner |
 | 289 | 137 | Rachel |
-| 290 | 136 | Blair Erin Waite |
-| 291 | 136 | Sabrina Mansfield |
+| 290 | 136 | Sabrina Mansfield |
+| 291 | 136 | Blair Erin Waite |
 | 292 | 135 | Terry Jo Jones |
 | 293 | 135 | Rania Zaqout |
 | 294 | 135 | Skinny Baldez |

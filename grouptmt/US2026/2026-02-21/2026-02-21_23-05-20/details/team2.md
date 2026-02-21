@@ -224,8 +224,8 @@
 | 216 | 618 | Gabby Jenner |
 | 217 | 615 | Auntie B |
 | 218 | 615 | Shannon Joslin |
-| 219 | 608 | goofinoff |
-| 220 | 608 | Sommer Shope |
+| 219 | 608 | Sommer Shope |
+| 220 | 608 | goofinoff |
 | 221 | 605 | Jelly |
 | 222 | 603 | Cassie Maynard |
 | 223 | 602 | Brandon Armstrong |
@@ -384,8 +384,8 @@
 | 376 | 381 | Bubbly Snapfit |
 | 377 | 381 | Lee Harper |
 | 378 | 378 | Cody Nishimura |
-| 379 | 378 | TF Dyer |
-| 380 | 378 | Christina Ashley |
+| 379 | 378 | Christina Ashley |
+| 380 | 378 | TF Dyer |
 | 381 | 374 | Johnny Yeates |
 | 382 | 374 | Alexandra Weir |
 | 383 | 371 | Wuntayk |
@@ -477,8 +477,8 @@
 | 469 | 316 | Gloria Ininahazwe |
 | 470 | 316 | Mikayala Szaz |
 | 471 | 315 | Ryan Meilleur |
-| 472 | 314 | Amanda West |
-| 473 | 314 | Party d |
+| 472 | 314 | Party d |
+| 473 | 314 | Amanda West |
 | 474 | 314 | James Zaragoza |
 | 475 | 313 | Natasha Edmonds |
 | 476 | 312 | Andrea Maher |
@@ -490,9 +490,9 @@
 | 482 | 308 | Christina Jarvis-Swarbrick |
 | 483 | 307 | Diallo Sparkman |
 | 484 | 307 | Kitybox |
-| 485 | 305 | Samantha Scibelli |
-| 486 | 305 | Claire |
-| 487 | 305 | Zany Clusterbuilder |
+| 485 | 305 | Claire |
+| 486 | 305 | Zany Clusterbuilder |
+| 487 | 305 | Samantha Scibelli |
 | 488 | 305 | Libby Hicks |
 | 489 | 304 | Michelle Shrum |
 | 490 | 304 | Melissa McCall |
@@ -626,8 +626,8 @@
 | 618 | 244 | Court |
 | 619 | 244 | Crystal Elam |
 | 620 | 243 | JacJac |
-| 621 | 242 | Donna Chandler |
-| 622 | 242 | Lianne Giandalone LaBounty |
+| 621 | 242 | Lianne Giandalone LaBounty |
+| 622 | 242 | Donna Chandler |
 | 623 | 241 | Ronda Cary |
 | 624 | 240 | Kelly |
 | 625 | 239 | Dad |
@@ -778,8 +778,8 @@
 | 770 | 193 | Kelly Ann McCormick |
 | 771 | 193 | TJ Nash |
 | 772 | 192 | Leroy Jenkins |
-| 773 | 192 | Taylor Phillips |
-| 774 | 192 | Snippy Rumbler |
+| 773 | 192 | Snippy Rumbler |
+| 774 | 192 | Taylor Phillips |
 | 775 | 191 | Nicol Craven |
 | 776 | 190 | Jessica Kaye DeAguero |
 | 777 | 190 | Elizabeth Pearson |

@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -109,10 +109,10 @@
 | 101 | 252 | Dena Kayy |
 | 102 | 249 | Elaine Elaine |
 | 103 | 244 | Franswa |
-| 104 | 240 | Chelsea Dahlquist |
-| 105 | 240 | Tana |
-| 106 | 238 | John J. Cronin |
-| 107 | 238 | Steve Schneider |
+| 104 | 240 | Tana |
+| 105 | 240 | Chelsea Dahlquist |
+| 106 | 238 | Steve Schneider |
+| 107 | 238 | John J. Cronin |
 | 108 | 237 | Seante Bullock |
 | 109 | 230 | Frothy Pattern |
 | 110 | 228 | Trippy Redd |
@@ -130,8 +130,8 @@
 | 122 | 203 | GATOR |
 | 123 | 203 | Giggly Builderline |
 | 124 | 198 | Happy Snapbuild |
-| 125 | 194 | Ash Galvan |
-| 126 | 194 | Tyler Werts |
+| 125 | 194 | Tyler Werts |
+| 126 | 194 | Ash Galvan |
 | 127 | 193 | Lachelle Dillon |
 | 128 | 192 | Jessica Sheehan |
 | 129 | 192 | Shaykmia |
