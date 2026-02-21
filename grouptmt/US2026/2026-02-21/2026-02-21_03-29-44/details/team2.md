@@ -274,8 +274,8 @@
 | 266 | 204 | Rebecca Doughman |
 | 267 | 203 | Gary Stash |
 | 268 | 202 | Christina Ashley |
-| 269 | 200 | Izabel Herrera |
-| 270 | 200 | Cheeky Brickmatch |
+| 269 | 200 | Cheeky Brickmatch |
+| 270 | 200 | Izabel Herrera |
 | 271 | 200 | Poppy Snapper |
 | 272 | 200 | Sarah Ridenour |
 | 273 | 199 | Jessica Sutter |

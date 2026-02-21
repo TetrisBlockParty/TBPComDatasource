@@ -100,8 +100,8 @@
 | 92 | 177 | Fallorina Susana |
 | 93 | 166 | Danielle Mogg |
 | 94 | 161 | rosy |
-| 95 | 159 | Jone |
-| 96 | 159 | Morgan Martinez |
+| 95 | 159 | Morgan Martinez |
+| 96 | 159 | Jone |
 | 97 | 155 | Shannon Matthew Byers |
 | 98 | 154 | Angela M. Fletcher |
 | 99 | 152 | Shiny Zonebuilder |

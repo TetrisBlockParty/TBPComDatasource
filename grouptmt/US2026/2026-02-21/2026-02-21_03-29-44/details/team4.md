@@ -65,8 +65,8 @@
 | 57 | 125 | Lauren Scott |
 | 58 | 124 | Jay28 |
 | 59 | 123 | Nugget |
-| 60 | 122 | Sherri |
-| 61 | 122 | Shelly Chandler |
+| 60 | 122 | Shelly Chandler |
+| 61 | 122 | Sherri |
 | 62 | 121 | Smiley Tiltbuilder |
 | 63 | 116 | Serena Goodridge |
 | 64 | 114 | Zany Shatterer |
@@ -122,8 +122,8 @@
 | 114 | 81 | Kesha Brady |
 | 115 | 80 | Melissa Adams |
 | 116 | 79 | Shainne Brewer |
-| 117 | 78 | Chair |
-| 118 | 78 | Zesty Linkgrid |
+| 117 | 78 | Zesty Linkgrid |
+| 118 | 78 | Chair |
 | 119 | 77 | Jumpy Zonepiece |
 | 120 | 77 | Destiney Carter |
 | 121 | 77 | Chris Alexinas |
