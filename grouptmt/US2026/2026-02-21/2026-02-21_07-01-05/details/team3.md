@@ -159,8 +159,8 @@
 | 151 | 134 | Emma |
 | 152 | 134 | DanceLuvLaugh |
 | 153 | 131 | Jl |
-| 154 | 127 | Aerian Preston |
-| 155 | 127 | Marquita Sheard |
+| 154 | 127 | Marquita Sheard |
+| 155 | 127 | Aerian Preston |
 | 156 | 126 | Stephanie Burtin |
 | 157 | 126 | Dan Rob |
 | 158 | 125 | Felicia Doxey |
@@ -182,8 +182,8 @@
 | 174 | 116 | Joy Petroski |
 | 175 | 116 | Skinny Baldez |
 | 176 | 115 | Jennifer Alvey |
-| 177 | 114 | Jessica Bechler |
-| 178 | 114 | Nicholas Roddy |
+| 177 | 114 | Nicholas Roddy |
+| 178 | 114 | Jessica Bechler |
 | 179 | 113 | Brian Battjes |
 | 180 | 113 | Valerie Gendron |
 | 181 | 110 | Tye Stovall |

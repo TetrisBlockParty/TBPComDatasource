@@ -51,8 +51,8 @@
 | 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Jenna Ingersoll |
-| 47 | 231 | Michelle Marie |
+| 46 | 231 | Michelle Marie |
+| 47 | 231 | Jenna Ingersoll |
 | 48 | 226 | Breannah Grafe |
 | 49 | 209 | Lisa Davis |
 | 50 | 207 | Alyssa Papen |
@@ -73,8 +73,8 @@
 | 65 | 165 | Courtney Cicoria |
 | 66 | 165 | Casey Grabner |
 | 67 | 160 | Carter Jones |
-| 68 | 159 | Holly Jolly |
-| 69 | 159 | Justin Hannigan |
+| 68 | 159 | Justin Hannigan |
+| 69 | 159 | Holly Jolly |
 | 70 | 157 | quicksand420 |
 | 71 | 154 | ThaEviLJeNiuZ |
 | 72 | 153 | Jae Job |
