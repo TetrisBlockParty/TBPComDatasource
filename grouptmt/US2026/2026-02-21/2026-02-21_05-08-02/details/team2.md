@@ -83,8 +83,8 @@
 | 75 | 672 | Wendy Harder Gage |
 | 76 | 665 | Dineisha Carpenter |
 | 77 | 658 | Vistabrat |
-| 78 | 658 | Pacynthia Williams |
-| 79 | 658 | Dreamy Blast |
+| 78 | 658 | Dreamy Blast |
+| 79 | 658 | Pacynthia Williams |
 | 80 | 653 | Becky Weeks-Garry |
 | 81 | 649 | Stephanie Chapman |
 | 82 | 649 | Anna Edwards |
@@ -110,8 +110,8 @@
 | 102 | 525 | Desiree Anderson |
 | 103 | 525 | Charvi' Carter |
 | 104 | 517 | Debra Williams |
-| 105 | 515 | Real Ri |
-| 106 | 515 | Kaylee McCafferty |
+| 105 | 515 | Kaylee McCafferty |
+| 106 | 515 | Real Ri |
 | 107 | 509 | Kelli Wells |
 | 108 | 505 | Danielle Johnson-Chandler |
 | 109 | 500 | Kimberly Schall |
@@ -211,8 +211,8 @@
 | 203 | 288 | Deborah Miller |
 | 204 | 287 | Claire |
 | 205 | 286 | Ryan Gunther |
-| 206 | 285 | Oscar Bernie |
-| 207 | 285 | June E Hanson |
+| 206 | 285 | June E Hanson |
+| 207 | 285 | Oscar Bernie |
 | 208 | 284 | Macy Williams |
 | 209 | 284 | Mamachelle Eisweirth |
 | 210 | 283 | Davetta Sanford |
@@ -222,8 +222,8 @@
 | 214 | 276 | Lindsey Leigh |
 | 215 | 276 | Vonceial Boone |
 | 216 | 275 | Shiny Rollzone |
-| 217 | 274 | Melissa Holsinger |
-| 218 | 274 | Victoria Moore-Smith |
+| 217 | 274 | Victoria Moore-Smith |
+| 218 | 274 | Melissa Holsinger |
 | 219 | 273 | Missie Lawson Gebhardt |
 | 220 | 273 | Jenna Nance |
 | 221 | 271 | Toni Lynn |
@@ -243,14 +243,14 @@
 | 235 | 261 | Leah |
 | 236 | 261 | Ann Matzkanin |
 | 237 | 261 | MrsClaudette Will'sIam Matthews |
-| 238 | 260 | Denise Rickman |
-| 239 | 260 | Dapper Dasher |
+| 238 | 260 | Dapper Dasher |
+| 239 | 260 | Denise Rickman |
 | 240 | 257 | Shameika Trail |
 | 241 | 257 | Lyndi Robinson Wakefield |
 | 242 | 256 | Tee Jaleesa |
 | 243 | 255 | Santana Miyagi |
-| 244 | 254 | Libby Hicks |
-| 245 | 254 | Julie Hamilton |
+| 244 | 254 | Julie Hamilton |
+| 245 | 254 | Libby Hicks |
 | 246 | 252 | Alezandra Smith |
 | 247 | 251 | Ann Knutson Anderson |
 | 248 | 250 | Barbra Miller |
@@ -281,8 +281,8 @@
 | 273 | 237 | Amber Gray |
 | 274 | 236 | Frisky Riserbuilder |
 | 275 | 235 | Kimberly Mitchell |
-| 276 | 233 | Robin Kerby |
-| 277 | 233 | Alyssia Tancredi |
+| 276 | 233 | Alyssia Tancredi |
+| 277 | 233 | Robin Kerby |
 | 278 | 232 | Amber Brion |
 | 279 | 232 | Nashu |
 | 280 | 231 | Dylan Thomason |
@@ -331,8 +331,8 @@
 | 323 | 196 | Alexandra Reese |
 | 324 | 196 | Neko Preston |
 | 325 | 194 | Hoppy Brickmatch |
-| 326 | 194 | Mike Aprilliano |
-| 327 | 194 | Kimberly Ann |
+| 326 | 194 | Kimberly Ann |
+| 327 | 194 | Mike Aprilliano |
 | 328 | 193 | Nika Bee |
 | 329 | 191 | Deana |
 | 330 | 191 | Sho Nuff |

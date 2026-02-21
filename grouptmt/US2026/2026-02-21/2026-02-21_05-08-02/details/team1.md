@@ -81,8 +81,8 @@
 | 73 | 144 | Plucky Ziggy |
 | 74 | 144 | Tanya Carpenter-Reynolds |
 | 75 | 143 | Sarah Marie |
-| 76 | 141 | Blaire Bruckoff |
-| 77 | 141 | Susanna Guerry |
+| 76 | 141 | Susanna Guerry |
+| 77 | 141 | Blaire Bruckoff |
 | 78 | 137 | Nadine Velardo |
 | 79 | 133 | Brandi Huntington |
 | 80 | 132 | Davery Spencer Adair |
@@ -133,8 +133,8 @@
 | 125 | 86 | Basment Living |
 | 126 | 86 | Desiree Deschaine Havee |
 | 127 | 85 | Steve Schneider |
-| 128 | 84 | Yvonne Marie |
-| 129 | 84 | Charla Pross-Fugleberg |
+| 128 | 84 | Charla Pross-Fugleberg |
+| 129 | 84 | Yvonne Marie |
 | 130 | 84 | Speedy Snapfall |
 | 131 | 83 | Death |
 | 132 | 83 | Guest |
@@ -145,8 +145,8 @@
 | 137 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 138 | 81 | Bob |
 | 139 | 80 | pjbeta |
-| 140 | 80 | Brandi Egbert |
-| 141 | 80 | Larry Tilton |
+| 140 | 80 | Larry Tilton |
+| 141 | 80 | Brandi Egbert |
 | 142 | 80 | Matt Cinelli |
 | 143 | 79 | LD1 |
 | 144 | 79 | Tyler Whitley |
@@ -163,7 +163,7 @@
 | 155 | 75 | Tyler L Hunt |
 | 156 | 74 | Owicked1 |
 | 157 | 74 | Grace Joanne Agnant |
-| 158 | 74 | Owicked1 |
+| 158 | 74 | Eddie Dillon |
 | 159 | 73 | Shanae Grant |
 | 160 | 72 | Tipsy Strikerpiece |
 | 161 | 71 | John Kim |

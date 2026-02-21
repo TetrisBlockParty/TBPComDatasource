@@ -47,13 +47,13 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Rachel Anne |
-| 43 | 194 | Jamie Mann-Deichmann |
+| 42 | 194 | Jamie Mann-Deichmann |
+| 43 | 194 | Rachel Anne |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Leah Kutz Zirbel |
-| 48 | 170 | Girl |
+| 47 | 170 | Girl |
+| 48 | 170 | Leah Kutz Zirbel |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Casey Grabner |
 | 51 | 165 | Courtney Cicoria |
