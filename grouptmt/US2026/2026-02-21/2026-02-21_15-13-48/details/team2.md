@@ -14,8 +14,8 @@
 | 6 | 4400 | Cool Snapclear |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -310,8 +310,8 @@
 | 302 | 327 | Danielle Simmons |
 | 303 | 326 | Elisheva Mizrachi |
 | 304 | 324 | Kiana Boschh |
-| 305 | 323 | Briana Alexander |
-| 306 | 323 | KhaosLord |
+| 305 | 323 | KhaosLord |
+| 306 | 323 | Briana Alexander |
 | 307 | 323 | Trista Dumais |
 | 308 | 318 | Alexandra Weir |
 | 309 | 318 | CC |
@@ -449,8 +449,8 @@
 | 441 | 232 | Amber Brion |
 | 442 | 232 | Quirky Twistline |
 | 443 | 231 | Hong Tang |
-| 444 | 231 | Brave Gridpiece |
-| 445 | 231 | Dylan Thomason |
+| 444 | 231 | Dylan Thomason |
+| 445 | 231 | Brave Gridpiece |
 | 446 | 230 | Leslie Johnson Guinto |
 | 447 | 229 | Tonya Lee |
 | 448 | 229 | Kimmy Newman |

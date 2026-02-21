@@ -101,8 +101,8 @@
 | 93 | 320 | Or Reznitsky |
 | 94 | 316 | Fancy Cascader |
 | 95 | 313 | Elaine Webb Graves |
-| 96 | 309 | Rich LeBlanc |
-| 97 | 309 | CeceGeGe |
+| 96 | 309 | CeceGeGe |
+| 97 | 309 | Rich LeBlanc |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
 | 100 | 300 | Tessina Dewey-Mancino |
@@ -160,21 +160,21 @@
 | 152 | 182 | Hyper Matchzone |
 | 153 | 181 | Karon Griffin |
 | 154 | 181 | Aerian Preston |
-| 155 | 179 | Joye Sims Binion |
-| 156 | 179 | Daira Largen |
+| 155 | 179 | Daira Largen |
+| 156 | 179 | Joye Sims Binion |
 | 157 | 179 | Ashley Jones |
 | 158 | 178 | Khaleada McGill Banks |
-| 159 | 178 | AlsoJess |
-| 160 | 178 | Ryan Williams |
+| 159 | 178 | Ryan Williams |
+| 160 | 178 | AlsoJess |
 | 161 | 176 | Rebel124 |
 | 162 | 175 | DanceLuvLaugh |
 | 163 | 174 | Danielle Mogg |
-| 164 | 168 | rosy |
-| 165 | 168 | Angie Harper |
+| 164 | 168 | Angie Harper |
+| 165 | 168 | rosy |
 | 166 | 167 | Raven Dudley |
 | 167 | 166 | Loopy Fallmatch |
-| 168 | 166 | Kelly Ann Child |
-| 169 | 166 | Betty Rosas |
+| 168 | 166 | Betty Rosas |
+| 169 | 166 | Kelly Ann Child |
 | 170 | 165 | Kali Kelz Williams |
 | 171 | 164 | Brandon Givens |
 | 172 | 163 | Sashay Tapae Simpson |
@@ -428,7 +428,7 @@
 | 420 | 70 | Brave Bruno |
 | 421 | 70 | Pizzi |
 | 422 | 70 | Nicole Summers-Nelson |
-| 423 | 70 | Kristin Delibac Corrigan |
+| 423 | 70 | cherry 🍒pie |
 | 424 | 70 | Ruggergamer1 |
 | 425 | 70 | Willow |
 | 426 | 70 | Leticia Lynn Lowe |

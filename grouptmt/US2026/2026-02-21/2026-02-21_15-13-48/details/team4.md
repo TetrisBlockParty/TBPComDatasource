@@ -159,8 +159,8 @@
 | 151 | 119 | Gwendolyn Pitcairn |
 | 152 | 118 | Leslie Nicole |
 | 153 | 116 | Diana Houts |
-| 154 | 115 | Jayk |
-| 155 | 115 | Ultramarine |
+| 154 | 115 | Ultramarine |
+| 155 | 115 | Jayk |
 | 156 | 113 | Adam Randall |
 | 157 | 112 | Bryan Hodgins |
 | 158 | 112 | Jackie Marie |

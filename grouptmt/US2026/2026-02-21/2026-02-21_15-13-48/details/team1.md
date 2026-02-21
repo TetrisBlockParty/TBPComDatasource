@@ -145,8 +145,8 @@
 | 137 | 132 | Davery Spencer Adair |
 | 138 | 132 | LaQuetta Faith Hines |
 | 139 | 131 | Uhog SF |
-| 140 | 130 | Dandy Basegrid |
-| 141 | 130 | LD1 |
+| 140 | 130 | LD1 |
+| 141 | 130 | Dandy Basegrid |
 | 142 | 129 | Dino |
 | 143 | 128 | lil mickey |
 | 144 | 127 | Aimee Horton |
@@ -154,8 +154,8 @@
 | 146 | 124 | Cartier |
 | 147 | 123 | Kimberly Garcia |
 | 148 | 122 | Melissa Lemmon |
-| 149 | 121 | Tipsy Riseclear |
-| 150 | 121 | Bouncy Grid |
+| 149 | 121 | Bouncy Grid |
+| 150 | 121 | Tipsy Riseclear |
 | 151 | 120 | Kimmie Kimms |
 | 152 | 120 | Alenoush Karimian |
 | 153 | 119 | April Carroll |
@@ -213,8 +213,8 @@
 | 205 | 89 | Kellie |
 | 206 | 88 | Sam Williams |
 | 207 | 88 | Larry Tilton |
-| 208 | 87 | Jessi Sauer |
-| 209 | 87 | Jenny Gingrich Fuentes |
+| 208 | 87 | Jenny Gingrich Fuentes |
+| 209 | 87 | Jessi Sauer |
 | 210 | 86 | Basment Living |
 | 211 | 85 | John Barron |
 | 212 | 84 | Speedy Snapfall |
