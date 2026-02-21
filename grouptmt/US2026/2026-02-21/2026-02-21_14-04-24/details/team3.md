@@ -204,8 +204,8 @@
 | 196 | 133 | Joy Petroski |
 | 197 | 131 | Jl |
 | 198 | 129 | Lesley Perez |
-| 199 | 128 | Jen Lewis |
-| 200 | 128 | David Bardo |
+| 199 | 128 | David Bardo |
+| 200 | 128 | Jen Lewis |
 | 201 | 127 | Marquita Sheard |
 | 202 | 126 | Brandon Givens |
 | 203 | 125 | Felicia Doxey |

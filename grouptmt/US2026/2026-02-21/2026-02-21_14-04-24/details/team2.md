@@ -330,8 +330,8 @@
 | 322 | 289 | Hyper Cluster |
 | 323 | 289 | Frisky Clearpiece |
 | 324 | 288 | Megan Phillips |
-| 325 | 285 | Mandi Douglas Hilt |
-| 326 | 285 | June E Hanson |
+| 325 | 285 | June E Hanson |
+| 326 | 285 | Mandi Douglas Hilt |
 | 327 | 284 | Autumn Schaeffer |
 | 328 | 283 | Davetta Sanford |
 | 329 | 283 | Byung Bae Park |
@@ -428,12 +428,12 @@
 | 420 | 231 | Hong Tang |
 | 421 | 230 | Leslie Johnson Guinto |
 | 422 | 229 | Tonya Lee |
-| 423 | 229 | Kimmy Newman |
-| 424 | 229 | Justin Hines |
+| 423 | 229 | Justin Hines |
+| 424 | 229 | Kimmy Newman |
 | 425 | 228 | Michelle Sager |
 | 426 | 227 | JacJac |
-| 427 | 226 | Jodi Mitnick |
-| 428 | 226 | Mary Marie |
+| 427 | 226 | Mary Marie |
+| 428 | 226 | Jodi Mitnick |
 | 429 | 226 | Juliana Marques Do Nascimento Gordy |
 | 430 | 224 | Alice Ball |
 | 431 | 223 | LegoCarpet |
@@ -456,8 +456,8 @@
 | 448 | 211 | Trisha Gallagher |
 | 449 | 209 | Dawn L Washington-Feuquay |
 | 450 | 208 | Nancy Pohlman |
-| 451 | 207 | Melissa McCall |
-| 452 | 207 | Brave Gridpiece |
+| 451 | 207 | Brave Gridpiece |
+| 452 | 207 | Melissa McCall |
 | 453 | 207 | Shylee Tilman |
 | 454 | 206 | Neko Preston |
 | 455 | 206 | RAEPR05 |

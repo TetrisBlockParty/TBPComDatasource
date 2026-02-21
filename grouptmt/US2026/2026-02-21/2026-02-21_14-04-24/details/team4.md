@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -108,8 +108,8 @@
 | 100 | 154 | Zany Twisterfit |
 | 101 | 151 | Dana Scott |
 | 102 | 150 | ZeeZee |
-| 103 | 147 | 030Synner |
-| 104 | 147 | Jay28 |
+| 103 | 147 | Jay28 |
+| 104 | 147 | 030Synner |
 | 105 | 146 | Peachy Fall |
 | 106 | 144 | Mr. Party |
 | 107 | 143 | Nugget |

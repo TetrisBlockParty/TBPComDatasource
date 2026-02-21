@@ -71,11 +71,11 @@
 | 63 | 217 | Deanna L Hermanson |
 | 64 | 212 | Jaimie Lynn |
 | 65 | 211 | Marianita Garcia |
-| 66 | 208 | Carrie Beck Geartz |
-| 67 | 208 | Mandyy Rae |
+| 66 | 208 | Mandyy Rae |
+| 67 | 208 | Carrie Beck Geartz |
 | 68 | 205 | Trippy Redd |
-| 69 | 204 | Lexuriuos Lifestlye |
-| 70 | 204 | Ly Phethmany |
+| 69 | 204 | Ly Phethmany |
+| 70 | 204 | Lexuriuos Lifestlye |
 | 71 | 202 | Dee Perry |
 | 72 | 201 | Ryan Lunnin |
 | 73 | 201 | Ananda Mendez |
@@ -115,8 +115,8 @@
 | 107 | 149 | Tana |
 | 108 | 149 | Jennifer ManWarren |
 | 109 | 148 | Shauntina Burke |
-| 110 | 146 | Tanya Carpenter-Reynolds |
-| 111 | 146 | Irual Hctrab |
+| 110 | 146 | Irual Hctrab |
+| 111 | 146 | Tanya Carpenter-Reynolds |
 | 112 | 145 | BigWeenie69 |
 | 113 | 144 | femmefatale |
 | 114 | 144 | Plucky Ziggy |
@@ -153,13 +153,13 @@
 | 145 | 115 | Chuck Gannon |
 | 146 | 115 | Mrs.Patrica |
 | 147 | 113 | Desiree Deschaine Havee |
-| 148 | 112 | Carolyn Smith |
-| 149 | 112 | Flashy Rotator |
-| 150 | 112 | Chris65 |
-| 151 | 112 | Nicole Roseberry Weber |
-| 152 | 111 | Jessica Russell |
-| 153 | 111 | Agustin Duarte Orozco |
-| 154 | 111 | Chirpy Smasher |
+| 148 | 112 | Nicole Roseberry Weber |
+| 149 | 112 | Chris65 |
+| 150 | 112 | Flashy Rotator |
+| 151 | 112 | Carolyn Smith |
+| 152 | 111 | Chirpy Smasher |
+| 153 | 111 | Jessica Russell |
+| 154 | 111 | Agustin Duarte Orozco |
 | 155 | 110 | Madison Wicks |
 | 156 | 110 | Garcia Bailey |
 | 157 | 108 | Luciano Moreira |
