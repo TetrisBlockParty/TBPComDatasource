@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -103,8 +103,8 @@
 | 95 | 239 | Lush Buildout |
 | 96 | 234 | Louise Stacy Sisson |
 | 97 | 232 | Poppy Splitter |
-| 98 | 224 | Mykal Burton |
-| 99 | 224 | Judi Dobson |
+| 98 | 224 | Judi Dobson |
+| 99 | 224 | Mykal Burton |
 | 100 | 223 | Jeana Gilbert |
 | 101 | 222 | Jimmie Clemons |
 | 102 | 218 | mjl574 |
@@ -140,9 +140,9 @@
 | 132 | 164 | rosy |
 | 133 | 163 | Karon Griffin |
 | 134 | 161 | Giddy Twistbuilder |
-| 135 | 159 | Jone |
-| 136 | 159 | Mcathen |
-| 137 | 159 | Morgan Martinez |
+| 135 | 159 | Mcathen |
+| 136 | 159 | Morgan Martinez |
+| 137 | 159 | Jone |
 | 138 | 158 | Grams |
 | 139 | 157 | Patricia Gadsden |
 | 140 | 156 | Joey Banks |
@@ -168,7 +168,7 @@
 | 160 | 134 | DanceLuvLaugh |
 | 161 | 131 | Jl |
 | 162 | 129 | Stephanie Burtin |
-| 163 | 127 | Aerian Preston |
+| 163 | 127 | Connie Mohler-Fair |
 | 164 | 127 | Marquita Sheard |
 | 165 | 127 | Aerian Preston |
 | 166 | 126 | Brandon Givens |

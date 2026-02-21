@@ -214,8 +214,8 @@
 | 206 | 73 | Staci Robinson Jones |
 | 207 | 73 | Joshua Cuellar |
 | 208 | 72 | Robin Getchel |
-| 209 | 71 | Marcela Johnson |
-| 210 | 71 | Lindsey Gonzalez |
+| 209 | 71 | Lindsey Gonzalez |
+| 210 | 71 | Marcela Johnson |
 | 211 | 70 | Richard-April Kice |
 | 212 | 70 | Patron Anderson |
 | 213 | 70 | Tyler Terrific |
@@ -458,7 +458,7 @@
 | 450 | 32 | Darrin Rubalcava |
 | 451 | 32 | Wacky Shatterline |
 | 452 | 32 | Jessica Johnston |
-| 453 | 31 | Orchislactea |
+| 453 | 31 | Rico |
 | 454 | 31 | Sarah Rene Fauller |
 | 455 | 31 | Jay You |
 | 456 | 31 | Orchislactea |
