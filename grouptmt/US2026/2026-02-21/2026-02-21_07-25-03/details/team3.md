@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Annie Déè |
-| 68 | 342 | Trezure Gonzalez |
+| 67 | 342 | Trezure Gonzalez |
+| 68 | 342 | Annie Déè |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -133,17 +133,17 @@
 | 125 | 166 | Danielle Mogg |
 | 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
-| 128 | 159 | Morgan Martinez |
-| 129 | 159 | Jone |
+| 128 | 159 | Jone |
+| 129 | 159 | Morgan Martinez |
 | 130 | 158 | Grams |
 | 131 | 156 | Joey Banks |
 | 132 | 155 | BŘŰŤİÇŨŚ |
 | 133 | 155 | Mcathen |
 | 134 | 154 | Angela M. Fletcher |
-| 135 | 153 | Beth Ingham |
-| 136 | 153 | Giddy Twistbuilder |
-| 137 | 152 | Shiny Zonebuilder |
-| 138 | 152 | Karon Griffin |
+| 135 | 153 | Giddy Twistbuilder |
+| 136 | 153 | Beth Ingham |
+| 137 | 152 | Karon Griffin |
+| 138 | 152 | Shiny Zonebuilder |
 | 139 | 151 | MsBee |
 | 140 | 150 | Nicole Myers |
 | 141 | 149 | Angel Mendez |
@@ -162,8 +162,8 @@
 | 154 | 134 | DanceLuvLaugh |
 | 155 | 131 | Jl |
 | 156 | 129 | Stephanie Burtin |
-| 157 | 127 | Connie Mohler-Fair |
-| 158 | 127 | Aerian Preston |
+| 157 | 127 | Aerian Preston |
+| 158 | 127 | Marquita Sheard |
 | 159 | 127 | Connie Mohler-Fair |
 | 160 | 126 | Brandon Givens |
 | 161 | 126 | Dan Rob |

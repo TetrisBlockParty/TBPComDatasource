@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -254,8 +254,8 @@
 | 246 | 276 | Vonceial Boone |
 | 247 | 275 | Ann Matzkanin |
 | 248 | 275 | Shiny Rollzone |
-| 249 | 274 | Melissa Holsinger |
-| 250 | 274 | Jamie Stevey |
+| 249 | 274 | Jamie Stevey |
+| 250 | 274 | Melissa Holsinger |
 | 251 | 274 | Lonne Emade |
 | 252 | 273 | Jenna Nance |
 | 253 | 273 | August Hale |
@@ -280,9 +280,9 @@
 | 272 | 257 | Shameika Trail |
 | 273 | 257 | Lyndi Robinson Wakefield |
 | 274 | 256 | Giddy Gridclear |
-| 275 | 256 | CC |
+| 275 | 256 | Smashanator |
 | 276 | 256 | Tee Jaleesa |
-| 277 | 256 | Smashanator |
+| 277 | 256 | CC |
 | 278 | 255 | Santana Miyagi |
 | 279 | 254 | Rose Fx |
 | 280 | 254 | Julie Hamilton |
@@ -297,8 +297,8 @@
 | 289 | 248 | Bubbly Snapfit |
 | 290 | 248 | Maddy Petersen |
 | 291 | 248 | Leah Keesling |
-| 292 | 247 | Fancy Twister |
-| 293 | 247 | Andrea Devery Beck |
+| 292 | 247 | Andrea Devery Beck |
+| 293 | 247 | Fancy Twister |
 | 294 | 246 | Kathryn Townsley |
 | 295 | 246 | Stephanie Lumanlan |
 | 296 | 246 | Ashley Lopez |

@@ -80,8 +80,8 @@
 | 72 | 162 | Patrick Luckenbill |
 | 73 | 161 | Jennifer Olewnik Soborowski |
 | 74 | 161 | Abbey Crespo |
-| 75 | 155 | Standia Civil |
-| 76 | 155 | David DeSantis |
+| 75 | 155 | David DeSantis |
+| 76 | 155 | Standia Civil |
 | 77 | 153 | Shiny Gridmatch |
 | 78 | 153 | Rachael |
 | 79 | 152 | Jacqueline Unique |

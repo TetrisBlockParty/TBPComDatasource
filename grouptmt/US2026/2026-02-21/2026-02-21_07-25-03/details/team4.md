@@ -210,8 +210,8 @@
 | 202 | 70 | Richard-April Kice |
 | 203 | 69 | Jessica Wells |
 | 204 | 69 | Carol Ricks Raymond |
-| 205 | 68 | 中山成巳 |
-| 206 | 68 | GBR |
+| 205 | 68 | GBR |
+| 206 | 68 | 中山成巳 |
 | 207 | 68 | LS |
 | 208 | 68 | Ericca Eldridge |
 | 209 | 67 | JPW |
