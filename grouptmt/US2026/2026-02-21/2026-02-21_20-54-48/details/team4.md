@@ -57,8 +57,8 @@
 | 49 | 449 | Shelly Chandler |
 | 50 | 447 | Samantha Peterson |
 | 51 | 433 | Isabel Aguilar |
-| 52 | 411 | Jonathan Kimbrough |
-| 53 | 411 | TeeJ |
+| 52 | 411 | TeeJ |
+| 53 | 411 | Jonathan Kimbrough |
 | 54 | 409 | Isabella Blanco |
 | 55 | 402 | Courtney Cicoria |
 | 56 | 399 | Jenna Ingersoll |
@@ -225,8 +225,8 @@
 | 217 | 109 | Frank Cook |
 | 218 | 108 | Rebecca Morris |
 | 219 | 108 | Ali Ian |
-| 220 | 107 | Rafael Valentin |
-| 221 | 107 | Nerdy Twisterfit |
+| 220 | 107 | Nerdy Twisterfit |
+| 221 | 107 | Rafael Valentin |
 | 222 | 106 | Zappy Snaplink |
 | 223 | 105 | Brandi Durig |
 | 224 | 104 | Lindsey Gonzalez |

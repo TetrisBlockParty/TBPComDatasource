@@ -120,8 +120,8 @@
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
 | 114 | 327 | Dapper Snap |
-| 115 | 323 | Sherry Ogden |
-| 116 | 323 | Ashley Raines |
+| 115 | 323 | Ashley Raines |
+| 116 | 323 | Sherry Ogden |
 | 117 | 320 | Or Reznitsky |
 | 118 | 318 | Chasity |
 | 119 | 316 | Fancy Cascader |
@@ -267,8 +267,8 @@
 | 259 | 141 | IamJust Neyamijah Washington Sr. |
 | 260 | 141 | LaTanya GeminiondaRise Johnson |
 | 261 | 140 | Joy Petroski |
-| 262 | 139 | Loopy Clusterer |
-| 263 | 139 | Funky Jumper |
+| 262 | 139 | Funky Jumper |
+| 263 | 139 | Loopy Clusterer |
 | 264 | 138 | Boldy Corner |
 | 265 | 137 | Cesar Barraza |
 | 266 | 136 | Rachel |

@@ -314,8 +314,8 @@
 | 306 | 421 | Vanessa Moreno |
 | 307 | 419 | Amanda Ferrell |
 | 308 | 418 | Shelley Thornburgh Wright |
-| 309 | 416 | Lina Sanders |
-| 310 | 416 | Crystie Hicks |
+| 309 | 416 | Crystie Hicks |
+| 310 | 416 | Lina Sanders |
 | 311 | 414 | Sabrina Burton |
 | 312 | 414 | Kara Gillen |
 | 313 | 414 | Emily Lyric Converse |
