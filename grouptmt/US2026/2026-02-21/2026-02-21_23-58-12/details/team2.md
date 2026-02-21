@@ -366,8 +366,8 @@
 | 358 | 406 | Erin StFrancis |
 | 359 | 406 | Tj Ball |
 | 360 | 406 | Julie Kresal |
-| 361 | 405 | Christy Krissie |
-| 362 | 405 | Sarah Massey |
+| 361 | 405 | Sarah Massey |
+| 362 | 405 | Christy Krissie |
 | 363 | 403 | Tonya Lee |
 | 364 | 403 | Snippy Rumbler |
 | 365 | 402 | Catina Hutchison |
@@ -458,8 +458,8 @@
 | 450 | 341 | Daniel Amos |
 | 451 | 341 | Traci Johnson |
 | 452 | 339 | Cool Rollpiece |
-| 453 | 338 | Peppy Snapfall |
-| 454 | 338 | Shorty |
+| 453 | 338 | Shorty |
+| 454 | 338 | Peppy Snapfall |
 | 455 | 337 | Sassy Pattern |
 | 456 | 336 | Hong Tang |
 | 457 | 335 | Brooke Leigh Strube |
@@ -496,8 +496,8 @@
 | 488 | 314 | Party d |
 | 489 | 314 | James Zaragoza |
 | 490 | 313 | Natasha Edmonds |
-| 491 | 312 | Justin Hines |
-| 492 | 312 | Andrea Maher |
+| 491 | 312 | Andrea Maher |
+| 492 | 312 | Justin Hines |
 | 493 | 312 | Michelle Pike |
 | 494 | 311 | Mary Marie |
 | 495 | 311 | Kristin Gower |

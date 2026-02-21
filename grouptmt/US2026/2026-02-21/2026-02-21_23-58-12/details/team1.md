@@ -116,8 +116,8 @@
 | 108 | 244 | Franswa |
 | 109 | 240 | Tana |
 | 110 | 240 | Chelsea Dahlquist |
-| 111 | 238 | Steve Schneider |
-| 112 | 238 | John J. Cronin |
+| 111 | 238 | John J. Cronin |
+| 112 | 238 | Steve Schneider |
 | 113 | 230 | Frothy Pattern |
 | 114 | 228 | Trippy Redd |
 | 115 | 222 | Kristen Gideon |
@@ -181,8 +181,8 @@
 | 173 | 158 | Sarah Marie |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
-| 176 | 152 | Jacqueline Unique |
-| 177 | 152 | Speedy Snapfall |
+| 176 | 152 | Speedy Snapfall |
+| 177 | 152 | Jacqueline Unique |
 | 178 | 150 | ALFD |
 | 179 | 150 | David Miller |
 | 180 | 150 | Adele Rahman |

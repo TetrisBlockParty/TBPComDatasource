@@ -117,17 +117,17 @@
 | 109 | 394 | Annie Déè |
 | 110 | 392 | Michelle |
 | 111 | 391 | Calista Jo Dickson |
-| 112 | 390 | Patti Skiles |
-| 113 | 390 | Hasty Cascadefit |
-| 114 | 389 | FuzzyNavel |
-| 115 | 389 | Jessica Bechler |
+| 112 | 390 | Hasty Cascadefit |
+| 113 | 390 | Patti Skiles |
+| 114 | 389 | Jessica Bechler |
+| 115 | 389 | FuzzyNavel |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
 | 118 | 378 | Makelini Mausia |
 | 119 | 378 | Tasha Schriewer |
 | 120 | 377 | Jesse Olive |
-| 121 | 368 | Stephanie Woods |
-| 122 | 368 | Stephanie Blkpep Davidson |
+| 121 | 368 | Stephanie Blkpep Davidson |
+| 122 | 368 | Stephanie Woods |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
 | 125 | 355 | Sherry Ogden |
@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Marci Mize Fandrich |
-| 146 | 286 | Jacqueline Rodriguez |
+| 145 | 286 | Jacqueline Rodriguez |
+| 146 | 286 | Marci Mize Fandrich |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
@@ -244,9 +244,9 @@
 | 236 | 174 | Marquita Sheard |
 | 237 | 172 | Grams |
 | 238 | 170 | Lesley Perez |
-| 239 | 169 | Emma |
-| 240 | 169 | BŘŰŤİÇŨŚ |
-| 241 | 169 | Daryn Elliott |
+| 239 | 169 | Daryn Elliott |
+| 240 | 169 | Emma |
+| 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
 | 243 | 166 | Betty Rosas |
 | 244 | 166 | Beth Ingham |
@@ -373,7 +373,7 @@
 | 365 | 115 | Jason-Ashley Ludlow |
 | 366 | 114 | Amanda Neal |
 | 367 | 114 | Demetrious Shaw Sr. |
-| 368 | 114 | Amanda Neal |
+| 368 | 114 | Elizabeth Renee |
 | 369 | 113 | Gideon Walker |
 | 370 | 113 | Boldy Blocker |
 | 371 | 112 | Tia Moore |

@@ -112,8 +112,8 @@
 | 104 | 255 | Lindsay Ball |
 | 105 | 250 | Dustee Craddock-Harrison |
 | 106 | 237 | Lori Walker |
-| 107 | 230 | Daria Rycewicz |
-| 108 | 230 | Lucas J Sutton |
+| 107 | 230 | Lucas J Sutton |
+| 108 | 230 | Daria Rycewicz |
 | 109 | 230 | Autum Leigh |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
@@ -125,8 +125,8 @@
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Twisty Cascadezone |
-| 121 | 208 | Chastity Mitchell |
+| 120 | 208 | Chastity Mitchell |
+| 121 | 208 | Twisty Cascadezone |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Jen Caldwell |
@@ -139,15 +139,15 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Calvin Dennis |
-| 135 | 189 | Stacey Stano |
+| 134 | 189 | Stacey Stano |
+| 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Malakai Darien Fox |
-| 139 | 185 | Andy Cabral |
+| 138 | 185 | Andy Cabral |
+| 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Klo |
-| 142 | 181 | Carter Jones |
+| 141 | 181 | Carter Jones |
+| 142 | 181 | Klo |
 | 143 | 181 | Andria Lynn |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
@@ -192,8 +192,8 @@
 | 184 | 134 | Chirpy Basepiece |
 | 185 | 133 | TinyLegoRose |
 | 186 | 133 | Ericca Eldridge |
-| 187 | 133 | Sam Bishop |
-| 188 | 133 | Angela Geist Jusinski |
+| 187 | 133 | Angela Geist Jusinski |
+| 188 | 133 | Sam Bishop |
 | 189 | 132 | Lauren Lamb |
 | 190 | 132 | Degenerate |
 | 191 | 132 | Melissa Priest Sellers |
