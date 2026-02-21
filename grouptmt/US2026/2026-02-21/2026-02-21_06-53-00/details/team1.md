@@ -33,8 +33,8 @@
 | 25 | 315 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Jacqueline Williams |
-| 29 | 294 | Felicia Lewis |
+| 28 | 294 | Felicia Lewis |
+| 29 | 294 | Jacqueline Williams |
 | 30 | 291 | Nancy Green |
 | 31 | 286 | Michelle Nicole |
 | 32 | 281 | Maria C. Hernandez |
@@ -91,8 +91,8 @@
 | 83 | 144 | femmefatale |
 | 84 | 144 | Tanya Carpenter-Reynolds |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Susanna Guerry |
-| 87 | 141 | Blaire Bruckoff |
+| 86 | 141 | Blaire Bruckoff |
+| 87 | 141 | Susanna Guerry |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -116,9 +116,9 @@
 | 108 | 112 | Nicole Roseberry Weber |
 | 109 | 112 | Kristen Gideon |
 | 110 | 111 | Agustin Duarte Orozco |
-| 111 | 110 | Bhelle Sumile |
+| 111 | 110 | Garcia Bailey |
 | 112 | 110 | Heidi Feurer |
-| 113 | 110 | Garcia Bailey |
+| 113 | 110 | Bhelle Sumile |
 | 114 | 108 | Tavia |
 | 115 | 107 | Jodee Woods |
 | 116 | 106 | Ash Galvan |
@@ -137,17 +137,17 @@
 | 129 | 94 | Bindi |
 | 130 | 94 | Tyler Hertzog |
 | 131 | 94 | Luciano Moreira |
-| 132 | 93 | Cody Gates |
-| 133 | 93 | Loony Fitzone |
+| 132 | 93 | Loony Fitzone |
+| 133 | 93 | Cody Gates |
 | 134 | 92 | Jessica Russell |
-| 135 | 90 | Dizzy Party |
-| 136 | 90 | Madison Wicks |
-| 137 | 90 | Alenoush Karimian |
-| 138 | 90 | TSwag |
+| 135 | 90 | Alenoush Karimian |
+| 136 | 90 | Dizzy Party |
+| 137 | 90 | TSwag |
+| 138 | 90 | Madison Wicks |
 | 139 | 89 | Mara Hilker |
 | 140 | 87 | Jessi Sauer |
-| 141 | 86 | Basment Living |
-| 142 | 86 | Desiree Deschaine Havee |
+| 141 | 86 | Desiree Deschaine Havee |
+| 142 | 86 | Basment Living |
 | 143 | 85 | Steve Schneider |
 | 144 | 84 | Yvonne Marie |
 | 145 | 84 | Speedy Snapfall |
@@ -173,8 +173,8 @@
 | 165 | 78 | Sam Williams |
 | 166 | 77 | Kellie |
 | 167 | 77 | Teddy Alexander |
-| 168 | 76 | Fmp |
-| 169 | 76 | Virginia Gray Floyd |
+| 168 | 76 | Virginia Gray Floyd |
+| 169 | 76 | Fmp |
 | 170 | 76 | Archie Ware |
 | 171 | 75 | Fresno Beotoni |
 | 172 | 75 | Witty Builderfit |

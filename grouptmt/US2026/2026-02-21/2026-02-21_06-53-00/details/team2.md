@@ -260,8 +260,8 @@
 | 252 | 271 | Toni Lynn |
 | 253 | 270 | Angela Lynn |
 | 254 | 270 | Alexandra Weir |
-| 255 | 268 | Chummy Blockbuilder |
-| 256 | 268 | Vanessa Moreno |
+| 255 | 268 | Vanessa Moreno |
+| 256 | 268 | Chummy Blockbuilder |
 | 257 | 267 | Mindy Leigh Head |
 | 258 | 266 | Autumn Schaeffer |
 | 259 | 266 | Mighty Shatterfit |

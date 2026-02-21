@@ -42,8 +42,8 @@
 | 34 | 587 | Suzieq |
 | 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -98,8 +98,8 @@
 | 90 | 224 | Mykal Burton |
 | 91 | 223 | Jeana Gilbert |
 | 92 | 222 | Jimmie Clemons |
-| 93 | 218 | mjl574 |
-| 94 | 218 | Judi Dobson |
+| 93 | 218 | Judi Dobson |
+| 94 | 218 | mjl574 |
 | 95 | 215 | CeceGeGe |
 | 96 | 214 | Amy Fuller Heaton |
 | 97 | 213 | Tom Nault |
@@ -113,8 +113,8 @@
 | 105 | 195 | Nicha Hooker |
 | 106 | 195 | Jenny Hrndz |
 | 107 | 194 | glichmod |
-| 108 | 193 | Clever Shiftsnap |
-| 109 | 193 | Shunta Jacobs |
+| 108 | 193 | Shunta Jacobs |
+| 109 | 193 | Clever Shiftsnap |
 | 110 | 192 | Chasity |
 | 111 | 191 | Scott Carleton |
 | 112 | 187 | Katrina Schroeder |
@@ -183,8 +183,8 @@
 | 175 | 115 | Jennifer Alvey |
 | 176 | 114 | Nicholas Roddy |
 | 177 | 114 | Jessica Bechler |
-| 178 | 113 | Brian Battjes |
-| 179 | 113 | Valerie Gendron |
+| 178 | 113 | Valerie Gendron |
+| 179 | 113 | Brian Battjes |
 | 180 | 111 | Mcathen |
 | 181 | 110 | Tiff Vs Tiffany |
 | 182 | 110 | Tye Stovall |

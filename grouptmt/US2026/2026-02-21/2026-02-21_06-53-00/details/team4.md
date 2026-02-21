@@ -133,8 +133,8 @@
 | 125 | 104 | Adam Randall |
 | 126 | 104 | YoMomma |
 | 127 | 102 | Faja |
-| 128 | 101 | Stephme310 |
-| 129 | 101 | Michelle Morris |
+| 128 | 101 | Michelle Morris |
+| 129 | 101 | Stephme310 |
 | 130 | 101 | Saulc1991 |
 | 131 | 100 | Alexandra Karavias |
 | 132 | 100 | Zethra Prenisha Rahming |
@@ -202,8 +202,8 @@
 | 194 | 71 | Marcela Johnson |
 | 195 | 71 | Chaz Duncan |
 | 196 | 70 | Richard-April Kice |
-| 197 | 69 | Carol Ricks Raymond |
-| 198 | 69 | Jessica Wells |
+| 197 | 69 | Jessica Wells |
+| 198 | 69 | Carol Ricks Raymond |
 | 199 | 68 | 中山成巳 |
 | 200 | 68 | LS |
 | 201 | 68 | GBR |
