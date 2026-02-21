@@ -260,11 +260,11 @@
 | 252 | 509 | Jordan Kaiser |
 | 253 | 509 | Kelli Wells |
 | 254 | 506 | AISlop |
-| 255 | 504 | Gene Mills |
-| 256 | 504 | Cherica Taylor |
+| 255 | 504 | Cherica Taylor |
+| 256 | 504 | Gene Mills |
 | 257 | 503 | tejas25 |
-| 258 | 502 | Poppy Snap |
-| 259 | 502 | Magic steve |
+| 258 | 502 | Magic steve |
+| 259 | 502 | Poppy Snap |
 | 260 | 500 | Em Chen |
 | 261 | 500 | Sarah Ridenour |
 | 262 | 497 | Jeremy Parodi |
@@ -399,8 +399,8 @@
 | 391 | 354 | Lawanda Forbes |
 | 392 | 353 | Cheery Matchzone |
 | 393 | 352 | Juanita Lyons |
-| 394 | 352 | Tj Ball |
-| 395 | 352 | ruth |
+| 394 | 352 | ruth |
+| 395 | 352 | Tj Ball |
 | 396 | 352 | KayLynn Ogden McClelland |
 | 397 | 351 | Rebecca Miller |
 | 398 | 350 | Fi Ne |
@@ -544,13 +544,13 @@
 | 536 | 268 | Min |
 | 537 | 266 | Jason Garnatz |
 | 538 | 265 | Venita Ray |
-| 539 | 265 | Sandra Link-Gable |
-| 540 | 265 | Steve Man |
+| 539 | 265 | Steve Man |
+| 540 | 265 | Sandra Link-Gable |
 | 541 | 263 | Alyssia Tancredi |
 | 542 | 262 | Taren Cowan |
 | 543 | 262 | Jackie Lucas |
-| 544 | 261 | Britney M. |
-| 545 | 261 | MrsClaudette Will'sIam Matthews |
+| 544 | 261 | MrsClaudette Will'sIam Matthews |
+| 545 | 261 | Britney M. |
 | 546 | 261 | Fancy Twister |
 | 547 | 260 | Kelsey Sullivan |
 | 548 | 257 | Julie Hamilton |
@@ -582,8 +582,8 @@
 | 574 | 247 | Dolores Russworn |
 | 575 | 247 | Chab |
 | 576 | 247 | Andrea Devery Beck |
-| 577 | 246 | Kacee Conrad Bock |
-| 578 | 246 | Robin L. Vial |
+| 577 | 246 | Robin L. Vial |
+| 578 | 246 | Kacee Conrad Bock |
 | 579 | 246 | Morgan Easter |
 | 580 | 246 | Pocho Zavala |
 | 581 | 245 | Sanaa Nounoussa |
@@ -656,9 +656,9 @@
 | 648 | 218 | Wacky Cascade |
 | 649 | 218 | Joy LaJeunesse |
 | 650 | 217 | Jessica Hughes |
-| 651 | 217 | Erika Meaux |
+| 651 | 217 | Layna Lyons |
 | 652 | 217 | Binyah-Binyah |
-| 653 | 217 | Layna Lyons |
+| 653 | 217 | Erika Meaux |
 | 654 | 216 | Nerdy Riserfit |
 | 655 | 215 | Ashlyn Berner |
 | 656 | 214 | Cass Shirley |
@@ -677,8 +677,8 @@
 | 669 | 211 | Trisha Gallagher |
 | 670 | 211 | Matthew Joseph Acevedo |
 | 671 | 210 | Lauren Fitzgerald Thomas |
-| 672 | 210 | Cappin You |
-| 673 | 210 | Marcie McLain Dodd |
+| 672 | 210 | Marcie McLain Dodd |
+| 673 | 210 | Cappin You |
 | 674 | 210 | Joshua Switzer |
 | 675 | 209 | Chummy Breaker |
 | 676 | 209 | Stacy Harper |
@@ -688,8 +688,8 @@
 | 680 | 209 | MamaBear11 |
 | 681 | 209 | Samantha Morgan |
 | 682 | 208 | Alyssa Dean |
-| 683 | 208 | Jessica Sutter |
-| 684 | 208 | Ashley MoBetta Humes |
+| 683 | 208 | Ashley MoBetta Humes |
+| 684 | 208 | Jessica Sutter |
 | 685 | 207 | Jeffrey Barrows |
 | 686 | 207 | Caitlin Johnson |
 | 687 | 207 | Nicolle Danielle |

@@ -41,8 +41,8 @@
 | 33 | 996 | Danielle Cutler |
 | 34 | 989 | Kay |
 | 35 | 945 | Liv Whetson |
-| 36 | 928 | Snappy Fitzone |
-| 37 | 928 | Stephanie Rice |
+| 36 | 928 | Stephanie Rice |
+| 37 | 928 | Snappy Fitzone |
 | 38 | 927 | Amber Jones |
 | 39 | 917 | Mahman |
 | 40 | 879 | Shonna Roberts |

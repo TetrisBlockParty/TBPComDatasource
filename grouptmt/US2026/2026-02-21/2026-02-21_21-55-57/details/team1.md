@@ -97,8 +97,8 @@
 | 89 | 272 | Sarah Roberts |
 | 90 | 270 | Jennifer ManWarren |
 | 91 | 267 | Bhelle Sumile |
-| 92 | 258 | Kellie |
-| 93 | 258 | Dandy Basegrid |
+| 92 | 258 | Dandy Basegrid |
+| 93 | 258 | Kellie |
 | 94 | 254 | Rachael |
 | 95 | 252 | Dena Kayy |
 | 96 | 251 | june october |
@@ -117,8 +117,8 @@
 | 109 | 218 | Ly Phethmany |
 | 110 | 214 | Billie Dawn Sparks |
 | 111 | 213 | Jason Jones |
-| 112 | 212 | Jaimie Lynn |
-| 113 | 212 | Mandyy Rae |
+| 112 | 212 | Mandyy Rae |
+| 113 | 212 | Jaimie Lynn |
 | 114 | 211 | Marianita Garcia |
 | 115 | 204 | Ananda Mendez |
 | 116 | 203 | GATOR |

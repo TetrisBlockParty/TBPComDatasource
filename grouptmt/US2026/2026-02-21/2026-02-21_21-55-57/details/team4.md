@@ -111,8 +111,8 @@
 | 103 | 212 | Calvin Cannon |
 | 104 | 211 | Dizzy Tiley |
 | 105 | 210 | Damn Libra |
-| 106 | 208 | Twisty Cascadezone |
-| 107 | 208 | Chastity Mitchell |
+| 106 | 208 | Chastity Mitchell |
+| 107 | 208 | Twisty Cascadezone |
 | 108 | 206 | Mylo Lipscomb |
 | 109 | 205 | Sarah Neathery |
 | 110 | 204 | Dana Scott |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jenna McGeorge |
-| 116 | 196 | Jeff Brian Gates |
+| 115 | 196 | Jeff Brian Gates |
+| 116 | 196 | Jenna McGeorge |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -174,8 +174,8 @@
 | 166 | 136 | Sarah Brown |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
-| 169 | 134 | Chirpy Basepiece |
-| 170 | 134 | Kim Klutz Olson |
+| 169 | 134 | Kim Klutz Olson |
+| 170 | 134 | Chirpy Basepiece |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
 | 173 | 132 | Jessica Cagle |
@@ -215,15 +215,15 @@
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Jayk |
 | 209 | 115 | Ultramarine |
-| 210 | 115 | Tyler Terrific |
+| 210 | 115 | Sam Middleton |
 | 211 | 115 | Nubian1 |
-| 212 | 115 | Sam Middleton |
+| 212 | 115 | Tyler Terrific |
 | 213 | 114 | Circuit8 |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 113 | Adam Randall |
 | 216 | 112 | Jeremy Steines |
-| 217 | 111 | Kristin MacDonald |
-| 218 | 111 | Lazy Blocker |
+| 217 | 111 | Lazy Blocker |
+| 218 | 111 | Kristin MacDonald |
 | 219 | 110 | Zach Kerbs |
 | 220 | 109 | Lindsey Gonzalez |
 | 221 | 109 | Ak Jones |
@@ -253,9 +253,9 @@
 | 245 | 101 | mike |
 | 246 | 100 | Alexandra Karavias |
 | 247 | 100 | Jacob Richard |
-| 248 | 100 | Maureen Flanigan |
-| 249 | 100 | Jennifer Perkins |
-| 250 | 100 | Blessedmama |
+| 248 | 100 | Blessedmama |
+| 249 | 100 | Maureen Flanigan |
+| 250 | 100 | Jennifer Perkins |
 | 251 | 99 | Michael Orris |
 | 252 | 98 | Perky Piecegrid |
 | 253 | 98 | Groovy Gridlock |
@@ -325,8 +325,8 @@
 | 317 | 78 | Sallie Sanborn |
 | 318 | 78 | Kristina Black |
 | 319 | 78 | Brandon Crabbs |
-| 320 | 77 | Mike |
-| 321 | 77 | Marvin Lou Martin |
+| 320 | 77 | Marvin Lou Martin |
+| 321 | 77 | Mike |
 | 322 | 77 | JPW |
 | 323 | 77 | Carrie Brian |
 | 324 | 76 | Cristy Duerksen |
