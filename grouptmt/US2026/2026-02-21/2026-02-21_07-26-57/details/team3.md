@@ -130,8 +130,8 @@
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Danielle Mogg |
-| 126 | 166 | Kelly Ann Child |
+| 125 | 166 | Kelly Ann Child |
+| 126 | 166 | Danielle Mogg |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
 | 129 | 159 | Morgan Martinez |
@@ -156,8 +156,8 @@
 | 148 | 142 | Erica Anderson |
 | 149 | 140 | Jay Horn |
 | 150 | 140 | Gumbo |
-| 151 | 135 | Nicole Flippo |
-| 152 | 135 | Cheryl Hinch Tenbrook |
+| 151 | 135 | Cheryl Hinch Tenbrook |
+| 152 | 135 | Nicole Flippo |
 | 153 | 134 | Emma |
 | 154 | 134 | DanceLuvLaugh |
 | 155 | 131 | Jl |

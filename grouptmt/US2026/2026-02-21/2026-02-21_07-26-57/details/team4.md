@@ -123,8 +123,8 @@
 | 115 | 112 | Austin Owens |
 | 116 | 112 | Bryan Hodgins |
 | 117 | 112 | Brittany Marsh |
-| 118 | 111 | Gwendolyn Pitcairn |
-| 119 | 111 | Lazy Blocker |
+| 118 | 111 | Lazy Blocker |
+| 119 | 111 | Gwendolyn Pitcairn |
 | 120 | 110 | H.R. Block |
 | 121 | 108 | Rio Rocha |
 | 122 | 107 | Marcus Todd |
@@ -199,9 +199,9 @@
 | 191 | 75 | Christina Black |
 | 192 | 74 | Krs |
 | 193 | 73 | Lynn Marie |
-| 194 | 73 | Rheanda Weaskus |
-| 195 | 73 | bloat princess |
-| 196 | 73 | April Rondinone |
+| 194 | 73 | bloat princess |
+| 195 | 73 | April Rondinone |
+| 196 | 73 | Rheanda Weaskus |
 | 197 | 73 | Joshua Cuellar |
 | 198 | 72 | Robin Getchel |
 | 199 | 71 | Chaz Duncan |
