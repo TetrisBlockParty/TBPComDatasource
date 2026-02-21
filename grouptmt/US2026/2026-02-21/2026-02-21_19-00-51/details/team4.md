@@ -43,8 +43,8 @@
 | 35 | 494 | Rodney McMath Jr. |
 | 36 | 488 | Anthony Bryan Riva |
 | 37 | 486 | Landon Keith Graffeo |
-| 38 | 483 | Carmethia Clemons Haslerig |
-| 39 | 483 | Kimberly Love |
+| 38 | 483 | Kimberly Love |
+| 39 | 483 | Carmethia Clemons Haslerig |
 | 40 | 470 | Carolyn Wallace |
 | 41 | 465 | Dawn Alexander |
 | 42 | 449 | Shelly Chandler |
@@ -155,8 +155,8 @@
 | 147 | 136 | Tanner Lund |
 | 148 | 135 | Victoria Faniel |
 | 149 | 135 | ĥuf |
-| 150 | 134 | Chirpy Basepiece |
-| 151 | 134 | Zany Shatterer |
+| 150 | 134 | Zany Shatterer |
+| 151 | 134 | Chirpy Basepiece |
 | 152 | 133 | Angela Geist Jusinski |
 | 153 | 132 | Degenerate |
 | 154 | 132 | Melissa Priest Sellers |

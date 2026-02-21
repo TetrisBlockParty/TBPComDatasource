@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
@@ -125,8 +125,8 @@
 | 117 | 176 | Basment Living |
 | 118 | 175 | Nicole Roseberry Weber |
 | 119 | 174 | Michael |
-| 120 | 171 | David DeSantis |
-| 121 | 171 | Greg Premoe |
+| 120 | 171 | Greg Premoe |
+| 121 | 171 | David DeSantis |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
 | 124 | 166 | Tana |
@@ -155,8 +155,8 @@
 | 147 | 144 | Bouncy Grid |
 | 148 | 144 | Gary Gobin |
 | 149 | 143 | Sarah Marie |
-| 150 | 142 | David Miller |
-| 151 | 142 | Colleen Wise |
+| 150 | 142 | Colleen Wise |
+| 151 | 142 | David Miller |
 | 152 | 141 | Blaire Bruckoff |
 | 153 | 140 | Katie Daniels |
 | 154 | 140 | Jason Jones |
@@ -209,7 +209,7 @@
 | 201 | 109 | John Kim |
 | 202 | 108 | Dizzy Party |
 | 203 | 108 | Tavia |
-| 204 | 108 | Dizzy Party |
+| 204 | 108 | Melissa Bires Hussar |
 | 205 | 107 | Jodee Woods |
 | 206 | 106 | Bloknboy |
 | 207 | 106 | Chantelle Ceno |
@@ -257,7 +257,7 @@
 | 249 | 85 | Angela Renea Lester |
 | 250 | 85 | Timothy Danaher |
 | 251 | 85 | Lakeisha Chapman |
-| 252 | 85 | Angela Renea Lester |
+| 252 | 85 | weezy |
 | 253 | 84 | Stoney Smith |
 | 254 | 84 | Eddie Dillon |
 | 255 | 84 | Fresno Beotoni |

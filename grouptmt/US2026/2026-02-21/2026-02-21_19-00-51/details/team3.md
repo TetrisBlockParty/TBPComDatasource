@@ -429,7 +429,7 @@
 | 421 | 79 | Katie Bolich |
 | 422 | 78 | Kristin Delibac Corrigan |
 | 423 | 78 | Myriam Lapierre |
-| 424 | 78 | Skippy |
+| 424 | 78 | Clever Patterner |
 | 425 | 78 | Raya |
 | 426 | 78 | Ky |
 | 427 | 78 | TLM |
