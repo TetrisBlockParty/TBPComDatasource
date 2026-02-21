@@ -113,12 +113,12 @@
 | 105 | 658 | Pacynthia Williams |
 | 106 | 658 | Vistabrat |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Stephanie Chapman |
-| 109 | 649 | Anna Edwards |
+| 108 | 649 | Anna Edwards |
+| 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Loopy Clusterbuilder |
-| 113 | 631 | Peppy Zone |
+| 112 | 631 | Peppy Zone |
+| 113 | 631 | Loopy Clusterbuilder |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
