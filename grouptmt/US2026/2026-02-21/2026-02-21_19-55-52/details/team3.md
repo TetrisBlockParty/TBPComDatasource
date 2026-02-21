@@ -236,8 +236,8 @@
 | 228 | 152 | Lesley Perez |
 | 229 | 152 | Katrina E Jelks |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Peachy Rollfit |
-| 232 | 149 | Alexis Taylor |
+| 231 | 149 | Alexis Taylor |
+| 232 | 149 | Peachy Rollfit |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Jennifer Alvey |
 | 235 | 148 | Sabrina Hardrick |

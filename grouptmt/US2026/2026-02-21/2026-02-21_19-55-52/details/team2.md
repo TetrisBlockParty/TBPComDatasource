@@ -153,8 +153,8 @@
 | 145 | 705 | Nika Bee |
 | 146 | 704 | Nerdy Clearfit |
 | 147 | 700 | Vincent Petrella |
-| 148 | 700 | Beverly Owens |
-| 149 | 700 | Rosemadder |
+| 148 | 700 | Rosemadder |
+| 149 | 700 | Beverly Owens |
 | 150 | 698 | Lola Contreras |
 | 151 | 697 | Real Ri |
 | 152 | 694 | Vo'Landa Reels |
@@ -310,8 +310,8 @@
 | 302 | 412 | Vanessa Moreno |
 | 303 | 411 | Ricky Fortune |
 | 304 | 410 | Altamirano Michael |
-| 305 | 409 | Sparkles |
-| 306 | 409 | Julay |
+| 305 | 409 | Julay |
+| 306 | 409 | Sparkles |
 | 307 | 406 | Erin StFrancis |
 | 308 | 405 | Sarah Massey |
 | 309 | 405 | Christy Krissie |
@@ -559,8 +559,8 @@
 | 551 | 244 | Court |
 | 552 | 244 | Nakiiya Dreamcatcher Gore |
 | 553 | 243 | JacJac |
-| 554 | 242 | Lianne Giandalone LaBounty |
-| 555 | 242 | Donna Chandler |
+| 554 | 242 | Donna Chandler |
+| 555 | 242 | Lianne Giandalone LaBounty |
 | 556 | 241 | Ronda Cary |
 | 557 | 240 | Kelly |
 | 558 | 240 | Brave Gridpiece |
@@ -695,8 +695,8 @@
 | 687 | 190 | Jessica Kaye DeAguero |
 | 688 | 189 | Jeffrey Barrows |
 | 689 | 189 | Nate Skidmore |
-| 690 | 188 | Nicol Craven |
-| 691 | 188 | Snippy Rumbler |
+| 690 | 188 | Snippy Rumbler |
+| 691 | 188 | Nicol Craven |
 | 692 | 188 | Sassy Linkroll |
 | 693 | 188 | Allison Hewitt |
 | 694 | 188 | Ethan Stienbarger |

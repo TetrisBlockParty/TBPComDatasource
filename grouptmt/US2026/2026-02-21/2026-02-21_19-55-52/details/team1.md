@@ -155,10 +155,10 @@
 | 147 | 150 | David Miller |
 | 148 | 150 | Adele Rahman |
 | 149 | 149 | Arianna O'Brien |
-| 150 | 148 | Bouncy Grid |
-| 151 | 148 | Shauntina Burke |
-| 152 | 147 | Leslie Bush Yarbrough |
-| 153 | 147 | Davery Spencer Adair |
+| 150 | 148 | Shauntina Burke |
+| 151 | 148 | Bouncy Grid |
+| 152 | 147 | Davery Spencer Adair |
+| 153 | 147 | Leslie Bush Yarbrough |
 | 154 | 146 | Christy Jones |
 | 155 | 145 | Agustin Duarte Orozco |
 | 156 | 145 | Angela Fairbank |

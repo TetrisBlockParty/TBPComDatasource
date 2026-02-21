@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -143,8 +143,8 @@
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
-| 138 | 147 | Jay28 |
-| 139 | 147 | Chair |
+| 138 | 147 | Chair |
+| 139 | 147 | Jay28 |
 | 140 | 147 | Shainne Brewer |
 | 141 | 146 | Klo |
 | 142 | 145 | Amy Suckarieh |
@@ -210,7 +210,7 @@
 | 202 | 112 | Bryan Hodgins |
 | 203 | 111 | Michelle Morris |
 | 204 | 111 | Lazy Blocker |
-| 205 | 111 | Michelle Morris |
+| 205 | 111 | Kristin MacDonald |
 | 206 | 110 | Adam Stephanie Parker |
 | 207 | 109 | Chaz |
 | 208 | 108 | Ali Ian |
@@ -255,8 +255,8 @@
 | 247 | 95 | Berklie Apedaile |
 | 248 | 95 | Meagan Nicole |
 | 249 | 94 | DonMega |
-| 250 | 94 | Madison Sweere |
-| 251 | 94 | Chastity Mitchell |
+| 250 | 94 | Chastity Mitchell |
+| 251 | 94 | Madison Sweere |
 | 252 | 93 | Matt Dell'Olio |
 | 253 | 92 | Christina Black |
 | 254 | 91 | rebel4lyfe |
@@ -330,9 +330,9 @@
 | 322 | 74 | Matt Gooder |
 | 323 | 73 | Rheanda Weaskus |
 | 324 | 73 | Lynn Marie |
-| 325 | 72 | Jennifer Perkins |
-| 326 | 72 | Raegan Lane-Ross |
-| 327 | 72 | Brave Spinbuilder |
+| 325 | 72 | Brave Spinbuilder |
+| 326 | 72 | Jennifer Perkins |
+| 327 | 72 | Raegan Lane-Ross |
 | 328 | 72 | Jackson Karen |
 | 329 | 71 | Dapper Climber |
 | 330 | 71 | Speedy Wipeblock |
