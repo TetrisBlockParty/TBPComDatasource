@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -381,8 +381,8 @@
 | 373 | 228 | Michelle Sager |
 | 374 | 227 | Demeka Dangerous-kisses Johnson |
 | 375 | 227 | JacJac |
-| 376 | 226 | Juliana Marques Do Nascimento Gordy |
-| 377 | 226 | Mary Marie |
+| 376 | 226 | Mary Marie |
+| 377 | 226 | Juliana Marques Do Nascimento Gordy |
 | 378 | 226 | Leslie Ann Carter |
 | 379 | 223 | Kristi Biddinger |
 | 380 | 223 | LegoCarpet |
@@ -400,10 +400,10 @@
 | 392 | 212 | BK Queen |
 | 393 | 212 | Aleasha M Brown |
 | 394 | 211 | Ys Muhammed |
-| 395 | 209 | Dawn L Washington-Feuquay |
-| 396 | 209 | Jerry Tempelmeyer |
-| 397 | 208 | Nancy Pohlman |
-| 398 | 208 | Mema |
+| 395 | 209 | Jerry Tempelmeyer |
+| 396 | 209 | Dawn L Washington-Feuquay |
+| 397 | 208 | Mema |
+| 398 | 208 | Nancy Pohlman |
 | 399 | 207 | Melissa McCall |
 | 400 | 207 | Brave Gridpiece |
 | 401 | 207 | Shylee Tilman |
@@ -475,8 +475,8 @@
 | 467 | 176 | Trisha Gallagher |
 | 468 | 176 | Stacy Harper |
 | 469 | 175 | Snippy Rumbler |
-| 470 | 175 | Shandrica Lowe |
-| 471 | 175 | Tina Blessed Cage |
+| 470 | 175 | Tina Blessed Cage |
+| 471 | 175 | Shandrica Lowe |
 | 472 | 175 | Lucero Ramirez |
 | 473 | 174 | Poldo Ilano |
 | 474 | 174 | Jason Garnatz |
@@ -1008,9 +1008,9 @@
 | 1000 | 89 | Katrina Willmon |
 | 1001 | 88 | Breana Valdez |
 | 1002 | 88 | Jai |
-| 1003 | 88 | Lorie Richardson |
-| 1004 | 88 | Sliph007 |
-| 1005 | 88 | Breana Valdez |
+| 1003 | 88 | Olivia McCracken |
+| 1004 | 88 | Lorie Richardson |
+| 1005 | 88 | Sliph007 |
 | 1006 | 88 | NinaTheVillain |
 | 1007 | 88 | Iycis Shelton |
 | 1008 | 88 | Ilse Chaparro |

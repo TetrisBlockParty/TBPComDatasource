@@ -87,8 +87,8 @@
 | 79 | 165 | Courtney Cicoria |
 | 80 | 162 | Shauna Havard |
 | 81 | 160 | Carter Jones |
-| 82 | 159 | Holly Jolly |
-| 83 | 159 | Justin Hannigan |
+| 82 | 159 | Justin Hannigan |
+| 83 | 159 | Holly Jolly |
 | 84 | 157 | quicksand420 |
 | 85 | 154 | ThaEviLJeNiuZ |
 | 86 | 153 | Jae Job |
@@ -96,8 +96,8 @@
 | 88 | 147 | Jay28 |
 | 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
-| 91 | 141 | Malakai Darien Fox |
-| 92 | 141 | Latisha Davis |
+| 91 | 141 | Latisha Davis |
+| 92 | 141 | Malakai Darien Fox |
 | 93 | 140 | Shannon Ferrari |
 | 94 | 138 | Shainne Brewer |
 | 95 | 136 | Tanner Lund |
