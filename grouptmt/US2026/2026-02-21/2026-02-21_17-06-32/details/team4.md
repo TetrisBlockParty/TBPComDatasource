@@ -104,8 +104,8 @@
 | 96 | 185 | Andy Cabral |
 | 97 | 183 | Shauna Havard |
 | 98 | 181 | Carter Jones |
-| 99 | 180 | Leslie Nicole |
-| 100 | 180 | Leah Kutz Zirbel |
+| 99 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leslie Nicole |
 | 101 | 179 | Epic Curvetile |
 | 102 | 178 | Lori |
 | 103 | 177 | Andria Lynn |
@@ -132,12 +132,12 @@
 | 124 | 147 | Jay28 |
 | 125 | 147 | 030Synner |
 | 126 | 146 | Klo |
-| 127 | 144 | Shainne Brewer |
-| 128 | 144 | Mr. Party |
+| 127 | 144 | Mr. Party |
+| 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Shannon Ferrari |
-| 132 | 140 | Jenna McGeorge |
+| 131 | 140 | Jenna McGeorge |
+| 132 | 140 | Shannon Ferrari |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Tanner Lund |
 | 135 | 136 | Serena Goodridge |
