@@ -44,8 +44,8 @@
 | 36 | 294 | Jacqueline Williams |
 | 37 | 291 | Nancy Green |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Sweet Baker |
-| 40 | 274 | Theo Pinnow |
+| 39 | 274 | Theo Pinnow |
+| 40 | 274 | Sweet Baker |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Tipsy Column |
 | 43 | 256 | Robert Benito |
@@ -86,8 +86,8 @@
 | 78 | 163 | Chad Atchley |
 | 79 | 162 | Patrick Luckenbill |
 | 80 | 161 | Abbey Crespo |
-| 81 | 155 | David DeSantis |
-| 82 | 155 | Standia Civil |
+| 81 | 155 | Standia Civil |
+| 82 | 155 | David DeSantis |
 | 83 | 153 | Shiny Gridmatch |
 | 84 | 152 | Jacqueline Unique |
 | 85 | 149 | Arianna O'Brien |
@@ -95,11 +95,11 @@
 | 87 | 148 | Jessie Lynn |
 | 88 | 148 | Shauntina Burke |
 | 89 | 147 | Veronica Eve |
-| 90 | 145 | Lachelle Dillon |
-| 91 | 145 | BigWeenie69 |
+| 90 | 145 | BigWeenie69 |
+| 91 | 145 | Lachelle Dillon |
 | 92 | 144 | femmefatale |
-| 93 | 144 | Plucky Ziggy |
-| 94 | 144 | Tanya Carpenter-Reynolds |
+| 93 | 144 | Tanya Carpenter-Reynolds |
+| 94 | 144 | Plucky Ziggy |
 | 95 | 143 | Sarah Marie |
 | 96 | 141 | Blaire Bruckoff |
 | 97 | 139 | Bhelle Sumile |

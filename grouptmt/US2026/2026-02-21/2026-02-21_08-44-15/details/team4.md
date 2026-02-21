@@ -112,8 +112,8 @@
 | 104 | 129 | John Brunetti |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
-| 107 | 123 | Nugget |
-| 108 | 123 | Cherrish Duren |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Nugget |
 | 109 | 122 | Sherri |
 | 110 | 121 | Klo |
 | 111 | 121 | Smiley Tiltbuilder |

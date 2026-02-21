@@ -206,8 +206,8 @@
 | 198 | 356 | Alyssaaelena |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Chris Harr |
-| 202 | 350 | Brave Dropmatch |
+| 201 | 350 | Brave Dropmatch |
+| 202 | 350 | Chris Harr |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |

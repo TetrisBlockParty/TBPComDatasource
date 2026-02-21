@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -120,10 +120,10 @@
 | 112 | 202 | Shannon Matthew Byers |
 | 113 | 200 | Twisty Brick LT |
 | 114 | 199 | joclisa |
-| 115 | 196 | Jessica Ann |
-| 116 | 196 | Dan Rob |
-| 117 | 195 | Nicha Hooker |
-| 118 | 195 | Jenny Hrndz |
+| 115 | 196 | Dan Rob |
+| 116 | 196 | Jessica Ann |
+| 117 | 195 | Jenny Hrndz |
+| 118 | 195 | Nicha Hooker |
 | 119 | 194 | glichmod |
 | 120 | 193 | Clever Shiftsnap |
 | 121 | 192 | Chasity |
@@ -252,8 +252,8 @@
 | 244 | 94 | Carrie Huskey |
 | 245 | 94 | Angie Harper |
 | 246 | 93 | Tiffany Ford |
-| 247 | 92 | Jennifer Caputo |
-| 248 | 92 | Ava Petito |
+| 247 | 92 | Ava Petito |
+| 248 | 92 | Jennifer Caputo |
 | 249 | 92 | Trice Thomas |
 | 250 | 91 | Martin Bernier |
 | 251 | 90 | Rebel124 |
