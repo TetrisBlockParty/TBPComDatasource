@@ -163,8 +163,8 @@
 | 155 | 602 | L3sli3 |
 | 156 | 596 | Thomas Hughes |
 | 157 | 592 | Ashle Scranton |
-| 158 | 591 | Rebecca Doughman |
-| 159 | 591 | Alisha |
+| 158 | 591 | Alisha |
+| 159 | 591 | Rebecca Doughman |
 | 160 | 589 | Erica Williams |
 | 161 | 583 | Jessicah Myers |
 | 162 | 580 | Steve Grotto |

@@ -91,8 +91,8 @@
 | 83 | 201 | shar |
 | 84 | 200 | Monica Daley |
 | 85 | 200 | Holly Jolly |
-| 86 | 198 | Dustee Craddock-Harrison |
-| 87 | 198 | Mike Solo |
+| 86 | 198 | Mike Solo |
+| 87 | 198 | Dustee Craddock-Harrison |
 | 88 | 197 | Joeliecea Cobb |
 | 89 | 194 | Zany Twisterfit |
 | 90 | 194 | Calvin Cannon |
@@ -103,8 +103,8 @@
 | 95 | 186 | Jeff Brian Gates |
 | 96 | 185 | Andy Cabral |
 | 97 | 181 | Carter Jones |
-| 98 | 180 | Leah Kutz Zirbel |
-| 99 | 180 | Leslie Nicole |
+| 98 | 180 | Leslie Nicole |
+| 99 | 180 | Leah Kutz Zirbel |
 | 100 | 179 | Epic Curvetile |
 | 101 | 178 | Lori |
 | 102 | 177 | Andria Lynn |
@@ -135,11 +135,11 @@
 | 127 | 144 | Mr. Party |
 | 128 | 143 | Nugget |
 | 129 | 141 | Malakai Darien Fox |
-| 130 | 140 | Shannon Ferrari |
-| 131 | 140 | Jenna McGeorge |
+| 130 | 140 | Jenna McGeorge |
+| 131 | 140 | Shannon Ferrari |
 | 132 | 137 | PeaceOs |
-| 133 | 136 | Serena Goodridge |
-| 134 | 136 | Tanner Lund |
+| 133 | 136 | Tanner Lund |
+| 134 | 136 | Serena Goodridge |
 | 135 | 135 | ĥuf |
 | 136 | 134 | Chirpy Basepiece |
 | 137 | 132 | Jessica Cagle |
@@ -148,8 +148,8 @@
 | 140 | 132 | Degenerate |
 | 141 | 130 | Casey Jeffcoat |
 | 142 | 129 | John Brunetti |
-| 143 | 128 | Stephme310 |
-| 144 | 128 | Rio Rocha |
+| 143 | 128 | Rio Rocha |
+| 144 | 128 | Stephme310 |
 | 145 | 127 | Dreamy Snapgrid |
 | 146 | 126 | Dihcheese444 |
 | 147 | 126 | TinyLegoRose |

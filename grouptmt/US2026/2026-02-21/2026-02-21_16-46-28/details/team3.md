@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 809 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -161,8 +161,8 @@
 | 153 | 193 | Duane Bright |
 | 154 | 191 | Giddy Twistbuilder |
 | 155 | 191 | Scott Carleton |
-| 156 | 189 | Sissy Lowery Davis |
-| 157 | 189 | Staci George Fitzsimmons |
+| 156 | 189 | Staci George Fitzsimmons |
+| 157 | 189 | Sissy Lowery Davis |
 | 158 | 189 | Fallorina Susana |
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
@@ -210,8 +210,8 @@
 | 202 | 150 | Valerie Gendron |
 | 203 | 150 | Nicole Myers |
 | 204 | 150 | Desiree Gold |
-| 205 | 149 | Angel Mendez |
-| 206 | 149 | Alexis Taylor |
+| 205 | 149 | Alexis Taylor |
+| 206 | 149 | Angel Mendez |
 | 207 | 148 | Lesley Perez |
 | 208 | 148 | Jennifer Alvey |
 | 209 | 148 | Gumbo |
@@ -301,8 +301,8 @@
 | 293 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 294 | 101 | Hyper Bridger |
 | 295 | 100 | Edwin Calvillo Jr. |
-| 296 | 100 | Demetrious Shaw Sr. |
-| 297 | 100 | Ava Petito |
+| 296 | 100 | Ava Petito |
+| 297 | 100 | Demetrious Shaw Sr. |
 | 298 | 100 | Crystal Hine |
 | 299 | 100 | Bobbi Moore |
 | 300 | 99 | Michelle Ramirez |

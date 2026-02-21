@@ -42,8 +42,8 @@
 | 34 | 483 | Ryan Lunnin |
 | 35 | 466 | Kathi Snustad |
 | 36 | 406 | Christina Graham |
-| 37 | 405 | Jennifer Cates |
-| 38 | 405 | Karin Gillen |
+| 37 | 405 | Karin Gillen |
+| 38 | 405 | Jennifer Cates |
 | 39 | 403 | Nancy Green |
 | 40 | 402 | Odell Barnett |
 | 41 | 392 | Redlicious 1 |
