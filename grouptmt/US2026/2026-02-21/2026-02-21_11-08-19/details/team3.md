@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -127,16 +127,16 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
-| 125 | 191 | Giddy Twistbuilder |
-| 126 | 191 | Scott Carleton |
+| 125 | 191 | Scott Carleton |
+| 126 | 191 | Giddy Twistbuilder |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -161,9 +161,9 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Angel Mendez |
-| 157 | 149 | Bea Miles |
-| 158 | 149 | Trisha Balmer |
+| 156 | 149 | Trisha Balmer |
+| 157 | 149 | Angel Mendez |
+| 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Denita Mungro |
 | 161 | 146 | Latoya Mayne |
@@ -252,7 +252,7 @@
 | 244 | 98 | Jocelyne Baca |
 | 245 | 98 | Funky Jumper |
 | 246 | 98 | Armi |
-| 247 | 98 | Jocelyne Baca |
+| 247 | 98 | Erika Thornton |
 | 248 | 97 | Ashley Jones |
 | 249 | 96 | Christopher Woost |
 | 250 | 96 | Tasha Wesson-Torrence |

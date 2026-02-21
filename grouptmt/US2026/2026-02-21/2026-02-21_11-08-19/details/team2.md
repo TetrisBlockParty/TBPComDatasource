@@ -541,8 +541,8 @@
 | 533 | 155 | Cris cris |
 | 534 | 155 | Angela Murgia-Owen |
 | 535 | 154 | Lydia Greenman |
-| 536 | 154 | Tiffney Wroten |
-| 537 | 154 | Cini |
+| 536 | 154 | Cini |
+| 537 | 154 | Tiffney Wroten |
 | 538 | 154 | Bryan Werleman |
 | 539 | 154 | Lori Maring |
 | 540 | 153 | Luna |
@@ -588,9 +588,9 @@
 | 580 | 143 | Angelica |
 | 581 | 142 | Joy LaJeunesse |
 | 582 | 142 | Melissa Kay Gibson |
-| 583 | 142 | Frisky Clearpiece |
+| 583 | 142 | Amy Humphreys |
 | 584 | 142 | Zachary Boyarski |
-| 585 | 142 | Amy Humphreys |
+| 585 | 142 | Frisky Clearpiece |
 | 586 | 141 | Mary Lopez Sr. |
 | 587 | 141 | Markisha Poyndexter |
 | 588 | 141 | Erika Meaux |
@@ -742,8 +742,8 @@
 | 734 | 117 | Theresa Ring |
 | 735 | 117 | Kelli Clark |
 | 736 | 117 | Keri Higuchi |
-| 737 | 117 | Myleaha Holley |
-| 738 | 117 | BeaNzMaMa |
+| 737 | 117 | BeaNzMaMa |
+| 738 | 117 | Myleaha Holley |
 | 739 | 117 | Luceros7 |
 | 740 | 116 | Blaine Birchem |
 | 741 | 116 | Patrick Langford |

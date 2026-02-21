@@ -51,8 +51,8 @@
 | 43 | 274 | Sweet Baker |
 | 44 | 274 | Theo Pinnow |
 | 45 | 258 | Shauna Loe |
-| 46 | 256 | Tipsy Column |
-| 47 | 256 | Robert Benito |
+| 46 | 256 | Robert Benito |
+| 47 | 256 | Tipsy Column |
 | 48 | 253 | Bhelle Sumile |
 | 49 | 249 | Adam Byrd |
 | 50 | 244 | Franswa |
@@ -169,8 +169,8 @@
 | 161 | 93 | Cody Gates |
 | 162 | 92 | Timothy Dew |
 | 163 | 90 | TSwag |
-| 164 | 90 | Dizzy Party |
-| 165 | 90 | Madison Wicks |
+| 164 | 90 | Madison Wicks |
+| 165 | 90 | Dizzy Party |
 | 166 | 89 | Mara Hilker |
 | 167 | 88 | Larry Tilton |
 | 168 | 88 | Tyler Whitley |
