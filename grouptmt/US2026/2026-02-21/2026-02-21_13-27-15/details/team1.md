@@ -89,8 +89,8 @@
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | june october |
-| 85 | 173 | Frothy Pattern |
+| 84 | 173 | Frothy Pattern |
+| 85 | 173 | june october |
 | 86 | 173 | Jennifer Olewnik Soborowski |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Lehrin Maria |

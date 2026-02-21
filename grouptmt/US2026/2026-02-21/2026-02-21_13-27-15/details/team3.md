@@ -35,8 +35,8 @@
 | 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -49,8 +49,8 @@
 | 41 | 587 | Danielle Becker |
 | 42 | 580 | Amanda L Baker |
 | 43 | 568 | Shonna Roberts |
-| 44 | 546 | Dolores Falco |
-| 45 | 546 | Snappy Glidepiece |
+| 44 | 546 | Snappy Glidepiece |
+| 45 | 546 | Dolores Falco |
 | 46 | 541 | MissTaylor |
 | 47 | 533 | Sarah Fehring |
 | 48 | 528 | Natasha Jones |
@@ -114,8 +114,8 @@
 | 106 | 232 | Poppy Splitter |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Mykal Burton |
-| 110 | 224 | Judi Dobson |
+| 109 | 224 | Judi Dobson |
+| 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
 | 112 | 222 | Jimmie Clemons |
 | 113 | 222 | Nicole Flippo |
@@ -123,8 +123,8 @@
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
 | 117 | 212 | Shunta Jacobs |
-| 118 | 211 | Jessica Bechler |
-| 119 | 211 | Katrina Schroeder |
+| 118 | 211 | Katrina Schroeder |
+| 119 | 211 | Jessica Bechler |
 | 120 | 207 | rnr junky |
 | 121 | 206 | Stephanie Blkpep Davidson |
 | 122 | 204 | Aaron Pitkin |
@@ -158,8 +158,8 @@
 | 150 | 166 | Loopy Fallmatch |
 | 151 | 166 | Kelly Ann Child |
 | 152 | 165 | Kali Kelz Williams |
-| 153 | 164 | DanceLuvLaugh |
-| 154 | 164 | rosy |
+| 153 | 164 | rosy |
+| 154 | 164 | DanceLuvLaugh |
 | 155 | 163 | Karon Griffin |
 | 156 | 163 | Stephanie Hill |
 | 157 | 160 | Mcathen |
@@ -192,8 +192,8 @@
 | 184 | 140 | Jay Horn |
 | 185 | 137 | Aerian Preston |
 | 186 | 136 | Boldy Corner |
-| 187 | 135 | Connie Mohler-Fair |
-| 188 | 135 | Cheryl Hinch Tenbrook |
+| 187 | 135 | Cheryl Hinch Tenbrook |
+| 188 | 135 | Connie Mohler-Fair |
 | 189 | 134 | Emma |
 | 190 | 133 | Joy Petroski |
 | 191 | 131 | Jl |
@@ -308,15 +308,15 @@
 | 300 | 88 | Dapper Towerfit |
 | 301 | 87 | FATTY |
 | 302 | 87 | Kellie Montgomery |
-| 303 | 86 | Salena Whitlock |
-| 304 | 86 | Criss |
-| 305 | 86 | Clever Clearbuilder |
-| 306 | 85 | Chris Bell |
-| 307 | 85 | Lush Risebuilder |
-| 308 | 85 | Crystel b520 |
-| 309 | 84 | Flashy Rumbler |
-| 310 | 84 | gremicx |
-| 311 | 84 | Spunky Racker |
+| 303 | 86 | Criss |
+| 304 | 86 | Clever Clearbuilder |
+| 305 | 86 | Salena Whitlock |
+| 306 | 85 | Lush Risebuilder |
+| 307 | 85 | Crystel b520 |
+| 308 | 85 | Chris Bell |
+| 309 | 84 | gremicx |
+| 310 | 84 | Spunky Racker |
+| 311 | 84 | Flashy Rumbler |
 | 312 | 83 | Glitzy Slide |
 | 313 | 83 | Deseree Ewing |
 | 314 | 82 | Justice 4 P |
@@ -396,7 +396,7 @@
 | 388 | 71 | Morgan Cudo |
 | 389 | 71 | Katheline Lazo Luizaga |
 | 390 | 70 | Brave Bruno |
-| 391 | 70 | cherry 🍒pie |
+| 391 | 70 | Ruggergamer1 |
 | 392 | 70 | Leticia Lynn Lowe |
 | 393 | 70 | cherry 🍒pie |
 | 394 | 70 | Willow |

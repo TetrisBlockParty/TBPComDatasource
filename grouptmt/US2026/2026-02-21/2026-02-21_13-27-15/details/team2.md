@@ -172,8 +172,8 @@
 | 164 | 495 | Poppy Snap |
 | 165 | 488 | Teresa Gillmore |
 | 166 | 486 | MrsCandyfine As Wine Truss |
-| 167 | 485 | Gene Mills |
-| 168 | 485 | Leah Keesling |
+| 167 | 485 | Leah Keesling |
+| 168 | 485 | Gene Mills |
 | 169 | 484 | Suki Kaur |
 | 170 | 483 | Jordan Kaiser |
 | 171 | 482 | Eckoman518 |
@@ -185,8 +185,8 @@
 | 177 | 464 | Ryan Gunther |
 | 178 | 460 | Amélie Cadieux |
 | 179 | 460 | Cody Smith-Candelaria |
-| 180 | 456 | Marie Boyd Faulk |
-| 181 | 456 | Drwatson187 |
+| 180 | 456 | Drwatson187 |
+| 181 | 456 | Marie Boyd Faulk |
 | 182 | 454 | Casey Schumacher |
 | 183 | 453 | Em Chen |
 | 184 | 453 | Osun Anuket Esu |
