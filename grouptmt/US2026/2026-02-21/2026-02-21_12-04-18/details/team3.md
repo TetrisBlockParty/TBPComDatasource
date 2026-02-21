@@ -74,8 +74,8 @@
 | 66 | 372 | Patty Allen |
 | 67 | 371 | Jesse Olive |
 | 68 | 370 | yoyo |
-| 69 | 362 | Mendoza Lee Christy |
-| 70 | 362 | Liv Whetson |
+| 69 | 362 | Liv Whetson |
+| 70 | 362 | Mendoza Lee Christy |
 | 71 | 360 | Ebony West-Cundiff |
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
@@ -135,12 +135,12 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Betty Rosas |
 | 138 | 166 | Danielle Mogg |
@@ -171,8 +171,8 @@
 | 163 | 149 | Angel Mendez |
 | 164 | 149 | Bea Miles |
 | 165 | 147 | Sashay Tapae Simpson |
-| 166 | 146 | Denita Mungro |
-| 167 | 146 | Latoya Mayne |
+| 166 | 146 | Latoya Mayne |
+| 167 | 146 | Denita Mungro |
 | 168 | 145 | Bryan Byrd |
 | 169 | 142 | Desiree Gold |
 | 170 | 142 | Erica Anderson |
@@ -190,8 +190,8 @@
 | 182 | 127 | Marquita Sheard |
 | 183 | 127 | Joy Petroski |
 | 184 | 126 | Brandon Givens |
-| 185 | 125 | Felicia Doxey |
-| 186 | 125 | Shimika Enay Wallace |
+| 185 | 125 | Shimika Enay Wallace |
+| 186 | 125 | Felicia Doxey |
 | 187 | 124 | Cesar Barraza |
 | 188 | 123 | Marci Mize Fandrich |
 | 189 | 123 | Sarajane Lokan |
@@ -264,8 +264,8 @@
 | 256 | 96 | Tasha Wesson-Torrence |
 | 257 | 96 | D3NO |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Andrew Thorson |
-| 260 | 94 | Angie Harper |
+| 259 | 94 | Angie Harper |
+| 260 | 94 | Andrew Thorson |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Ava Petito |
 | 263 | 92 | Trice Thomas |
@@ -302,8 +302,8 @@
 | 294 | 84 | gremicx |
 | 295 | 84 | Flashy Rumbler |
 | 296 | 83 | Deseree Ewing |
-| 297 | 82 | Justice 4 P |
-| 298 | 82 | Rebecca Funderburk Kirby |
+| 297 | 82 | Rebecca Funderburk Kirby |
+| 298 | 82 | Justice 4 P |
 | 299 | 81 | Tina Baurdau |
 | 300 | 80 | Josh Borquez |
 | 301 | 80 | Me,Him,Yu |

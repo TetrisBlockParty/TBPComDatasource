@@ -94,8 +94,8 @@
 | 86 | 759 | Jose Mendoza |
 | 87 | 756 | Stephanie Neuburger |
 | 88 | 751 | Loony Snapper |
-| 89 | 734 | Melissa Cole |
-| 90 | 734 | Tralonda Weeks |
+| 89 | 734 | Tralonda Weeks |
+| 90 | 734 | Melissa Cole |
 | 91 | 722 | Tesha Oldaker |
 | 92 | 718 | Mari Ac |
 | 93 | 709 | Jerilyn Andrina |
@@ -302,9 +302,9 @@
 | 294 | 282 | Shaun Church |
 | 295 | 281 | Maegan Beaule |
 | 296 | 280 | SwampRebel |
-| 297 | 280 | Offonar Facey |
+| 297 | 280 | Autumn Schaeffer |
 | 298 | 280 | Shorty |
-| 299 | 280 | Autumn Schaeffer |
+| 299 | 280 | Offonar Facey |
 | 300 | 278 | Noel Tarmy |
 | 301 | 278 | Peachy Blockbuilder |
 | 302 | 276 | Lindsey Leigh |
@@ -344,8 +344,8 @@
 | 336 | 254 | Julie Hamilton |
 | 337 | 253 | Tansaria Couch-Butler |
 | 338 | 252 | Matt Johnson |
-| 339 | 252 | Catina Hutchison |
-| 340 | 252 | Alyssia Tancredi |
+| 339 | 252 | Alyssia Tancredi |
+| 340 | 252 | Catina Hutchison |
 | 341 | 251 | Ann Knutson Anderson |
 | 342 | 250 | Barbra Miller |
 | 343 | 250 | Steve Man |
@@ -366,8 +366,8 @@
 | 358 | 245 | Sanaa Nounoussa |
 | 359 | 244 | Aimee Byrom |
 | 360 | 244 | Byung Bae Park |
-| 361 | 242 | Donna Chandler |
-| 362 | 242 | Lawanda Forbes |
+| 361 | 242 | Lawanda Forbes |
+| 362 | 242 | Donna Chandler |
 | 363 | 241 | Sabrina Burton |
 | 364 | 240 | Adam Erikson |
 | 365 | 240 | Angie Marie |
@@ -381,10 +381,10 @@
 | 373 | 234 | Manny Trindade |
 | 374 | 234 | Jaybee Nguyen |
 | 375 | 233 | Nutty Matchline |
-| 376 | 233 | Robin Kerby |
-| 377 | 233 | Jumpy Gridclear |
-| 378 | 232 | Amber Brion |
-| 379 | 232 | Angelina Marie |
+| 376 | 233 | Jumpy Gridclear |
+| 377 | 233 | Robin Kerby |
+| 378 | 232 | Angelina Marie |
+| 379 | 232 | Amber Brion |
 | 380 | 231 | Dylan Thomason |
 | 381 | 231 | Hong Tang |
 | 382 | 230 | Leslie Johnson Guinto |
@@ -414,8 +414,8 @@
 | 406 | 209 | Dawn L Washington-Feuquay |
 | 407 | 208 | Mema |
 | 408 | 208 | Nancy Pohlman |
-| 409 | 207 | Brave Gridpiece |
-| 410 | 207 | Melissa McCall |
+| 409 | 207 | Melissa McCall |
+| 410 | 207 | Brave Gridpiece |
 | 411 | 207 | Shylee Tilman |
 | 412 | 206 | RAEPR05 |
 | 413 | 206 | Neko Preston |
@@ -544,7 +544,7 @@
 | 536 | 158 | Groovy Puzzle |
 | 537 | 158 | Toni Roberson |
 | 538 | 158 | Ashley Cooper Tharin |
-| 539 | 158 | Toni Roberson |
+| 539 | 158 | Laura Freeman Hagen |
 | 540 | 157 | Andrew Bratton-Tomes |
 | 541 | 157 | Ty Quarles |
 | 542 | 157 | Klee |
