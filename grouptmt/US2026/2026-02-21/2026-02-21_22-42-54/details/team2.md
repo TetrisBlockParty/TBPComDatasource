@@ -263,8 +263,8 @@
 | 255 | 519 | Deanna Morton |
 | 256 | 519 | Rob Brown |
 | 257 | 514 | Laquetta Royston |
-| 258 | 514 | Dizzy Zone |
-| 259 | 514 | Lisa Ongtowasruk |
+| 258 | 514 | Lisa Ongtowasruk |
+| 259 | 514 | Dizzy Zone |
 | 260 | 513 | Angela Bonquiqui Dinish |
 | 261 | 511 | Laura Mclean |
 | 262 | 509 | Kelli Wells |
@@ -321,8 +321,8 @@
 | 313 | 442 | Joshua Mandel |
 | 314 | 440 | Liberty |
 | 315 | 439 | Nickole Andrews |
-| 316 | 439 | Joseph Musick |
-| 317 | 439 | Alisa Lamb |
+| 316 | 439 | Alisa Lamb |
+| 317 | 439 | Joseph Musick |
 | 318 | 437 | Arwa Fatimah |
 | 319 | 436 | Melissa Kay Gibson |
 | 320 | 435 | Kimberly Randesi |
@@ -351,8 +351,8 @@
 | 343 | 409 | Kristen O'Neal |
 | 344 | 406 | Erin StFrancis |
 | 345 | 406 | Tj Ball |
-| 346 | 405 | Sarah Massey |
-| 347 | 405 | Christy Krissie |
+| 346 | 405 | Christy Krissie |
+| 347 | 405 | Sarah Massey |
 | 348 | 403 | Tonya Lee |
 | 349 | 403 | nikki |
 | 350 | 402 | Brandy Andre |

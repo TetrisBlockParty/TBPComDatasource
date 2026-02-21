@@ -166,8 +166,8 @@
 | 158 | 148 | Janita Parrish |
 | 159 | 147 | Jay28 |
 | 160 | 145 | Daria Rycewicz |
-| 161 | 141 | Malakai Darien Fox |
-| 162 | 141 | Kathy Allen |
+| 161 | 141 | Kathy Allen |
+| 162 | 141 | Malakai Darien Fox |
 | 163 | 141 | ĥuf |
 | 164 | 141 | Marcus Todd |
 | 165 | 140 | John Brunetti |
@@ -224,9 +224,9 @@
 | 216 | 115 | Nubian1 |
 | 217 | 115 | Jayk |
 | 218 | 115 | Sam Middleton |
-| 219 | 114 | Kesha Brady |
-| 220 | 114 | Circuit8 |
-| 221 | 114 | Lindsey Gonzalez |
+| 219 | 114 | Circuit8 |
+| 220 | 114 | Lindsey Gonzalez |
+| 221 | 114 | Kesha Brady |
 | 222 | 113 | Dandy Cascadefit |
 | 223 | 113 | Adam Randall |
 | 224 | 112 | rebel4lyfe |
@@ -275,8 +275,8 @@
 | 267 | 96 | Jessica Miller |
 | 268 | 96 | Marcus TheeyoungWoe Gilmore |
 | 269 | 96 | Sammy Noguera |
-| 270 | 95 | Tina Martinez |
-| 271 | 95 | Patron Anderson |
+| 270 | 95 | Patron Anderson |
+| 271 | 95 | Tina Martinez |
 | 272 | 94 | DonMega |
 | 273 | 94 | Madison Sweere |
 | 274 | 94 | Christina Black |

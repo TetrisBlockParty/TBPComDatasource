@@ -82,8 +82,8 @@
 | 74 | 319 | Deanna L Hermanson |
 | 75 | 318 | Dee Perry |
 | 76 | 310 | Seth Wesson |
-| 77 | 305 | Plucky Ziggy |
-| 78 | 305 | Patrick Luckenbill |
+| 77 | 305 | Patrick Luckenbill |
+| 78 | 305 | Plucky Ziggy |
 | 79 | 304 | Nicole Roseberry Weber |
 | 80 | 303 | Maria C. Hernandez |
 | 81 | 301 | Hyper |
@@ -126,24 +126,24 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
-| 126 | 192 | Jessica Sheehan |
-| 127 | 192 | Shaykmia |
+| 126 | 192 | Shaykmia |
+| 127 | 192 | Jessica Sheehan |
 | 128 | 191 | Diane Byrd |
-| 129 | 190 | Thorne Shumate |
-| 130 | 190 | Sweetts |
+| 129 | 190 | Sweetts |
+| 130 | 190 | Thorne Shumate |
 | 131 | 188 | Sam Williams |
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Tyler Werts |
 | 134 | 186 | Jennifer Olewnik Soborowski |
 | 135 | 182 | Spunky Piecebuilder |
-| 136 | 180 | Erez Yosef |
+| 136 | 180 | BigWeenie69 |
 | 137 | 180 | Michael |
-| 138 | 180 | BigWeenie69 |
+| 138 | 180 | Erez Yosef |
 | 139 | 179 | Danielle Little-Daugherty |
 | 140 | 178 | Chad Atchley |
 | 141 | 177 | ParisandCory Champagne |
@@ -155,8 +155,8 @@
 | 147 | 170 | Veronica Eve |
 | 148 | 169 | Abbey Crespo |
 | 149 | 168 | Standia Civil |
-| 150 | 166 | Katie Daniels |
-| 151 | 166 | Rico Rico |
+| 150 | 166 | Rico Rico |
+| 151 | 166 | Katie Daniels |
 | 152 | 165 | Nadine Velardo |
 | 153 | 163 | Tanya Carpenter-Reynolds |
 | 154 | 163 | Tyler Whitley |
@@ -212,8 +212,8 @@
 | 204 | 123 | MRdot Rooski |
 | 205 | 122 | Melissa Lemmon |
 | 206 | 121 | Mark Smith |
-| 207 | 120 | Alenoush Karimian |
-| 208 | 120 | Kimmie Kimms |
+| 207 | 120 | Kimmie Kimms |
+| 208 | 120 | Alenoush Karimian |
 | 209 | 119 | Tater |
 | 210 | 118 | SavageBooty98 |
 | 211 | 116 | MomMom |
@@ -226,8 +226,8 @@
 | 218 | 114 | Hector Cruz |
 | 219 | 114 | Tyler Hertzog |
 | 220 | 113 | Desiree Deschaine Havee |
-| 221 | 112 | Crystal Joslin |
-| 222 | 112 | Chris65 |
+| 221 | 112 | Chris65 |
+| 222 | 112 | Crystal Joslin |
 | 223 | 111 | Rachel Nichole Henry |
 | 224 | 111 | Chirpy Smasher |
 | 225 | 111 | Erin Hodges Plumb |

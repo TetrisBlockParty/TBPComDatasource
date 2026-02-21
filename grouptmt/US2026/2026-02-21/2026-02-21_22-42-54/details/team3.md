@@ -95,8 +95,8 @@
 | 87 | 452 | Judi Dobson |
 | 88 | 447 | Mykal Burton |
 | 89 | 446 | Danielle Rhoades |
-| 90 | 445 | Kristie McFarland |
-| 91 | 445 | Silly Twist |
+| 90 | 445 | Silly Twist |
+| 91 | 445 | Kristie McFarland |
 | 92 | 430 | Patricia White |
 | 93 | 428 | Elissa S-k |
 | 94 | 425 | Patty Allen |
@@ -118,12 +118,12 @@
 | 110 | 378 | Tasha Schriewer |
 | 111 | 378 | Makelini Mausia |
 | 112 | 377 | Jesse Olive |
-| 113 | 368 | Stephanie Blkpep Davidson |
-| 114 | 368 | Stephanie Woods |
-| 115 | 367 | mjl574 |
-| 116 | 367 | Nerdy Riseclear |
-| 117 | 366 | Adrian Marcel Pate |
-| 118 | 366 | Speedy Bridger |
+| 113 | 368 | Stephanie Woods |
+| 114 | 368 | Stephanie Blkpep Davidson |
+| 115 | 367 | Nerdy Riseclear |
+| 116 | 367 | mjl574 |
+| 117 | 366 | Speedy Bridger |
+| 118 | 366 | Adrian Marcel Pate |
 | 119 | 350 | Tiff Vs Tiffany |
 | 120 | 348 | CeceGeGe |
 | 121 | 347 | Darlene McMillan |
@@ -173,8 +173,8 @@
 | 165 | 235 | DidIdothat |
 | 166 | 233 | Ray Lader |
 | 167 | 231 | Nikki Pags |
-| 168 | 228 | Morgan Martinez |
-| 169 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 168 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 169 | 228 | Morgan Martinez |
 | 170 | 226 | Grego Daniel |
 | 171 | 224 | Nicole Myers |
 | 172 | 223 | Jeana Gilbert |
