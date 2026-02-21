@@ -10,8 +10,8 @@
 | 2 | 4259 | Sean Dugar |
 | 3 | 4120 | Nick Jensen |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Rickey Goins Jr. |
-| 6 | 3567 | Taylana Mincy |
+| 5 | 3567 | Taylana Mincy |
+| 6 | 3567 | Rickey Goins Jr. |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -284,8 +284,8 @@
 | 276 | 272 | Mikayala Szaz |
 | 277 | 271 | Ann Marie Davis |
 | 278 | 271 | Toni Lynn |
-| 279 | 270 | Angela Lynn |
-| 280 | 270 | Christina Ashley |
+| 279 | 270 | Christina Ashley |
+| 280 | 270 | Angela Lynn |
 | 281 | 270 | Alexandra Weir |
 | 282 | 268 | Chummy Blockbuilder |
 | 283 | 268 | Tanya Parsons |
@@ -340,8 +340,8 @@
 | 332 | 240 | Johnny Yeates |
 | 333 | 240 | Adam Erikson |
 | 334 | 238 | Cheery Matchzone |
-| 335 | 236 | snkylnk |
-| 336 | 236 | Frisky Riserbuilder |
+| 335 | 236 | Frisky Riserbuilder |
+| 336 | 236 | snkylnk |
 | 337 | 236 | Julio A Laracuente |
 | 338 | 235 | Kimberly Mitchell |
 | 339 | 234 | Niceday |
@@ -356,13 +356,13 @@
 | 348 | 229 | Kimmy Newman |
 | 349 | 228 | Michelle Sager |
 | 350 | 227 | Nutty Matchline |
-| 351 | 227 | Demeka Dangerous-kisses Johnson |
-| 352 | 227 | Sanaa Nounoussa |
-| 353 | 226 | Mary Marie |
-| 354 | 226 | Leslie Ann Carter |
-| 355 | 223 | Kristi Biddinger |
-| 356 | 223 | LegoCarpet |
-| 357 | 223 | Laura Wyatt |
+| 351 | 227 | Sanaa Nounoussa |
+| 352 | 227 | Demeka Dangerous-kisses Johnson |
+| 353 | 226 | Leslie Ann Carter |
+| 354 | 226 | Mary Marie |
+| 355 | 223 | LegoCarpet |
+| 356 | 223 | Laura Wyatt |
+| 357 | 223 | Kristi Biddinger |
 | 358 | 220 | Katrina Weston |
 | 359 | 219 | Ashle Scranton |
 | 360 | 217 | 赵珞涵 |
@@ -425,8 +425,8 @@
 | 417 | 184 | Theresa Sterrett |
 | 418 | 184 | Sassy Linkbuilder |
 | 419 | 183 | Lynzekwi |
-| 420 | 183 | Wakanda Forever |
-| 421 | 183 | Brenna Ann |
+| 420 | 183 | Brenna Ann |
+| 421 | 183 | Wakanda Forever |
 | 422 | 183 | Ys Muhammed |
 | 423 | 182 | Tamara Bailey |
 | 424 | 182 | Donna M Carter |
@@ -517,8 +517,8 @@
 | 509 | 152 | James Smith |
 | 510 | 152 | Kyle LeRoy Harris |
 | 511 | 152 | Kristin King |
-| 512 | 152 | Anthony Mignacca |
-| 513 | 152 | JP Parks |
+| 512 | 152 | JP Parks |
+| 513 | 152 | Anthony Mignacca |
 | 514 | 151 | Jennifer Rajek |
 | 515 | 151 | D'Aaron Black |
 | 516 | 151 | Kia Humphery |

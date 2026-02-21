@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Chipper Gridlock |
-| 30 | 348 | Stef Hu |
+| 29 | 348 | Stef Hu |
+| 30 | 348 | Chipper Gridlock |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -109,13 +109,13 @@
 | 101 | 133 | Brandi Huntington |
 | 102 | 132 | Davery Spencer Adair |
 | 103 | 130 | Dandy Basegrid |
-| 104 | 128 | Uhog SF |
-| 105 | 128 | lil mickey |
+| 104 | 128 | lil mickey |
+| 105 | 128 | Uhog SF |
 | 106 | 127 | Michael |
 | 107 | 126 | Cece Ibarra |
 | 108 | 124 | Cartier |
-| 109 | 123 | LaQuetta Faith Hines |
-| 110 | 123 | june october |
+| 109 | 123 | june october |
+| 110 | 123 | LaQuetta Faith Hines |
 | 111 | 121 | Bouncy Grid |
 | 112 | 119 | April Carroll |
 | 113 | 119 | Tater |

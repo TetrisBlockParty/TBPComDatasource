@@ -941,9 +941,9 @@
 | 933 | 5 | Allison Moody |
 | 934 | 5 | Quirky Dash |
 | 935 | 5 | Dapper Caster |
-| 936 | 5 | canglem |
-| 937 | 5 | Mathew Dissinger |
-| 938 | 5 | Albert Mariano |
+| 936 | 5 | Mathew Dissinger |
+| 937 | 5 | Albert Mariano |
+| 938 | 5 | canglem |
 
 ---
 *Standings created by tournaments datasource generation tool*
