@@ -73,8 +73,8 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
@@ -125,15 +125,15 @@
 | 117 | 191 | Scott Carleton |
 | 118 | 187 | Katrina Schroeder |
 | 119 | 184 | Jennie Beranek |
-| 120 | 182 | Hyper Matchzone |
-| 121 | 182 | Ashley Tookes |
+| 120 | 182 | Ashley Tookes |
+| 121 | 182 | Hyper Matchzone |
 | 122 | 180 | Fallorina Susana |
 | 123 | 180 | Tessina Dewey-Mancino |
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
-| 127 | 166 | Kelly Ann Child |
-| 128 | 166 | Danielle Mogg |
+| 127 | 166 | Danielle Mogg |
+| 128 | 166 | Kelly Ann Child |
 | 129 | 164 | rosy |
 | 130 | 163 | Karon Griffin |
 | 131 | 159 | Mcathen |

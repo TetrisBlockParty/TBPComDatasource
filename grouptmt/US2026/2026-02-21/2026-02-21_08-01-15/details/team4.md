@@ -137,8 +137,8 @@
 | 129 | 105 | Sam Middleton |
 | 130 | 105 | TheNeesh50 |
 | 131 | 105 | TinyLegoRose |
-| 132 | 105 | AyeKay |
-| 133 | 105 | Dihcheese444 |
+| 132 | 105 | Dihcheese444 |
+| 133 | 105 | AyeKay |
 | 134 | 105 | 🥔🥔 Spudz |
 | 135 | 104 | YoMomma |
 | 136 | 104 | Damn Libra |
@@ -270,7 +270,7 @@
 | 262 | 57 | Susan Williams |
 | 263 | 57 | Hyper Matchclear |
 | 264 | 57 | Heather Bruce |
-| 265 | 57 | Hyper Matchclear |
+| 265 | 57 | Courtney Halleck |
 | 266 | 56 | Brittany Little |
 | 267 | 56 | Brandon Crabbs |
 | 268 | 56 | Crystal Lynn |
@@ -300,10 +300,10 @@
 | 292 | 51 | Frank Cook |
 | 293 | 51 | George Nutt |
 | 294 | 50 | Elie Pean |
-| 295 | 50 | Christian Torres |
-| 296 | 50 | Kelly Duncan |
-| 297 | 50 | Sarah Brown |
-| 298 | 50 | Mike |
+| 295 | 50 | Kelly Duncan |
+| 296 | 50 | Christian Torres |
+| 297 | 50 | Mike |
+| 298 | 50 | Sarah Brown |
 | 299 | 50 | Smiley Linkgrid |
 | 300 | 49 | Lakesha Johnson |
 | 301 | 49 | Snappy Combofall |
@@ -477,8 +477,8 @@
 | 469 | 30 | Steve |
 | 470 | 30 | Adawna Swires |
 | 471 | 30 | Jenjen |
-| 472 | 30 | Khrystyna Lukaniuk |
-| 473 | 30 | Frisky Column |
+| 472 | 30 | Frisky Column |
+| 473 | 30 | Khrystyna Lukaniuk |
 | 474 | 29 | Jr McQue |
 | 475 | 29 | moneybagz |
 | 476 | 29 | Neil Ingham |

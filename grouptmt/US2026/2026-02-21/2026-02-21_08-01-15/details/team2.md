@@ -610,8 +610,8 @@
 | 602 | 129 | Jean FU Jagielski |
 | 603 | 129 | Laura Costello |
 | 604 | 129 | Angela Kummer |
-| 605 | 128 | Leslie |
-| 606 | 128 | Carrie Pike |
+| 605 | 128 | Carrie Pike |
+| 606 | 128 | Leslie |
 | 607 | 128 | Amanda Diegel |
 | 608 | 128 | Mine |
 | 609 | 128 | Russell J Gindlesperger II |
@@ -700,9 +700,9 @@
 | 692 | 114 | Juan Castillo |
 | 693 | 114 | Melissa Maples |
 | 694 | 114 | Kimberly Mcmullen |
-| 695 | 113 | Hillary Franklin |
-| 696 | 113 | Della Hole |
-| 697 | 113 | Brave Gridzone |
+| 695 | 113 | Brave Gridzone |
+| 696 | 113 | Hillary Franklin |
+| 697 | 113 | Della Hole |
 | 698 | 112 | Leroy Jenkins |
 | 699 | 112 | Ashley Bacote |
 | 700 | 112 | Goofy Catcher |
