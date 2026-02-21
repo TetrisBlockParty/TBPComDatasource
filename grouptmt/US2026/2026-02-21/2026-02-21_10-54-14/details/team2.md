@@ -112,8 +112,8 @@
 | 104 | 658 | Pacynthia Williams |
 | 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Anna Edwards |
-| 108 | 649 | Stephanie Chapman |
+| 107 | 649 | Stephanie Chapman |
+| 108 | 649 | Anna Edwards |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
 | 111 | 631 | Peppy Zone |
@@ -271,9 +271,9 @@
 | 263 | 296 | Amber Gray |
 | 264 | 296 | Jennifer Casey-Kay |
 | 265 | 296 | Jennifer Darby |
-| 266 | 295 | Zany Clusterbuilder |
-| 267 | 295 | Diallo Sparkman |
-| 268 | 295 | Angela Bonquiqui Dinish |
+| 266 | 295 | Angela Bonquiqui Dinish |
+| 267 | 295 | Zany Clusterbuilder |
+| 268 | 295 | Diallo Sparkman |
 | 269 | 293 | Scott Treadway |
 | 270 | 293 | David Holliday |
 | 271 | 290 | Jessie McDougald |
@@ -345,8 +345,8 @@
 | 337 | 247 | Fancy Twister |
 | 338 | 247 | Andrea Devery Beck |
 | 339 | 246 | Kathryn Townsley |
-| 340 | 246 | Stephanie Lumanlan |
-| 341 | 246 | Ashley Lopez |
+| 340 | 246 | Ashley Lopez |
+| 341 | 246 | Stephanie Lumanlan |
 | 342 | 245 | Rachael Senard |
 | 343 | 245 | Sanaa Nounoussa |
 | 344 | 244 | Aimee Byrom |
@@ -562,8 +562,8 @@
 | 554 | 148 | ItsJennifer Neriss |
 | 555 | 148 | Tyler C. Jung |
 | 556 | 148 | Cleo Sims |
-| 557 | 147 | Smiley Strike |
-| 558 | 147 | Sassy Pivot |
+| 557 | 147 | Sassy Pivot |
+| 558 | 147 | Smiley Strike |
 | 559 | 147 | Jeremy Parodi |
 | 560 | 146 | Ibiza Carolina LaRose |
 | 561 | 146 | Sherry Aguinaga |
@@ -579,8 +579,8 @@
 | 571 | 144 | Tristan Lamothe |
 | 572 | 144 | Tee Davis |
 | 573 | 144 | RavensBeard |
-| 574 | 143 | Jay Levy |
-| 575 | 143 | Angelica |
+| 574 | 143 | Angelica |
+| 575 | 143 | Jay Levy |
 | 576 | 142 | Joy LaJeunesse |
 | 577 | 142 | Melissa Kay Gibson |
 | 578 | 142 | Amy Humphreys |
