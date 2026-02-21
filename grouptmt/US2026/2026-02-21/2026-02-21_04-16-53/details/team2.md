@@ -79,8 +79,8 @@
 | 71 | 658 | Dreamy Blast |
 | 72 | 658 | Pacynthia Williams |
 | 73 | 650 | Izabel Herrera |
-| 74 | 649 | Anna Edwards |
-| 75 | 649 | Stephanie Chapman |
+| 74 | 649 | Stephanie Chapman |
+| 75 | 649 | Anna Edwards |
 | 76 | 631 | Loopy Clusterbuilder |
 | 77 | 627 | Nerdy Clearfit |
 | 78 | 608 | John Bednarik |
@@ -141,8 +141,8 @@
 | 133 | 409 | Sparkles |
 | 134 | 401 | Poppy Snap |
 | 135 | 400 | Crystie Hicks |
-| 136 | 397 | Ashley Guernsey-Martin |
-| 137 | 397 | Destiny Cozier |
+| 136 | 397 | Destiny Cozier |
+| 137 | 397 | Ashley Guernsey-Martin |
 | 138 | 394 | Tammy Allen |
 | 139 | 391 | Chilly Bridgepiece |
 | 140 | 390 | Dustin Rains |
@@ -295,8 +295,8 @@
 | 287 | 205 | Lylymom |
 | 288 | 204 | Ali Gralski |
 | 289 | 204 | Rebecca Doughman |
-| 290 | 203 | Gary Stash |
-| 291 | 203 | coleksquad |
+| 290 | 203 | coleksquad |
+| 291 | 203 | Gary Stash |
 | 292 | 202 | Christina Ashley |
 | 293 | 200 | Cheeky Brickmatch |
 | 294 | 200 | Sarah Ridenour |
@@ -366,8 +366,8 @@
 | 358 | 164 | Sara Pennington |
 | 359 | 163 | Albert McKnight |
 | 360 | 163 | HarleyJane |
-| 361 | 162 | Brenna Ann |
-| 362 | 162 | Elizabeth Pearson |
+| 361 | 162 | Elizabeth Pearson |
+| 362 | 162 | Brenna Ann |
 | 363 | 162 | LC Hamilton |
 | 364 | 160 | Cynthia Ward |
 | 365 | 160 | Rhonda Petro |
@@ -416,8 +416,8 @@
 | 408 | 145 | William Hughes |
 | 409 | 145 | Scott Rackley |
 | 410 | 145 | Catina Hutchison |
-| 411 | 144 | Alexis Richardson |
-| 412 | 144 | Kyle LeRoy Harris |
+| 411 | 144 | Kyle LeRoy Harris |
+| 412 | 144 | Alexis Richardson |
 | 413 | 144 | Tee Davis |
 | 414 | 143 | Angelica |
 | 415 | 142 | Frisky Clearpiece |

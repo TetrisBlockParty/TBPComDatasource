@@ -76,8 +76,8 @@
 | 68 | 129 | John Brunetti |
 | 69 | 125 | Lauren Scott |
 | 70 | 123 | Nugget |
-| 71 | 122 | Sherri |
-| 72 | 122 | Shelly Chandler |
+| 71 | 122 | Shelly Chandler |
+| 72 | 122 | Sherri |
 | 73 | 121 | Smiley Tiltbuilder |
 | 74 | 120 | Joshua Guess |
 | 75 | 116 | Serena Goodridge |
@@ -133,10 +133,10 @@
 | 125 | 83 | Abigail Murphy |
 | 126 | 83 | Avy Absol |
 | 127 | 82 | Kim Hunt |
-| 128 | 81 | Blessedmama |
+| 128 | 81 | Kesha Brady |
 | 129 | 81 | Michelle Parker |
 | 130 | 81 | Jumpy Zonepiece |
-| 131 | 81 | Kesha Brady |
+| 131 | 81 | Blessedmama |
 | 132 | 80 | Melissa Adams |
 | 133 | 79 | Shainne Brewer |
 | 134 | 78 | Jessica Miller |
@@ -148,7 +148,7 @@
 | 140 | 75 | 🥔🥔 Spudz |
 | 141 | 74 | Christina Black |
 | 142 | 74 | Krs |
-| 143 | 74 | Christina Black |
+| 143 | 74 | Melvin Baird |
 | 144 | 73 | bloat princess |
 | 145 | 73 | April Rondinone |
 | 146 | 72 | Joshua Cuellar |
@@ -283,7 +283,7 @@
 | 275 | 40 | Clarence Patawaran |
 | 276 | 40 | Angelson |
 | 277 | 40 | Alexis Kelly |
-| 278 | 39 | Meli  Jackson |
+| 278 | 39 | Ees17 |
 | 279 | 39 | Dennis Bradley |
 | 280 | 39 | Meli  Jackson |
 | 281 | 38 | Jade Rian |
