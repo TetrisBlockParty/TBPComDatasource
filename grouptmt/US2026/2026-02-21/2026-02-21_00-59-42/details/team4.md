@@ -77,8 +77,8 @@
 | 69 | 90 | ZeeZee |
 | 70 | 88 | Jenna McGeorge |
 | 71 | 87 | Jen Caldwell |
-| 72 | 87 | Malakai Darien Fox |
-| 73 | 87 | Brandi Durig |
+| 72 | 87 | Brandi Durig |
+| 73 | 87 | Malakai Darien Fox |
 | 74 | 86 | amy |
 | 75 | 85 | Mimi |
 | 76 | 81 | Michelle Parker |
@@ -95,8 +95,8 @@
 | 87 | 72 | Jae Job |
 | 88 | 71 | Joseph Pace |
 | 89 | 70 | Christina Black |
-| 90 | 70 | Melissa Adams |
-| 91 | 70 | Valerie Roberts |
+| 90 | 70 | Valerie Roberts |
+| 91 | 70 | Melissa Adams |
 | 92 | 69 | Carol Ricks Raymond |
 | 93 | 68 | LS |
 | 94 | 68 | Sam Middleton |

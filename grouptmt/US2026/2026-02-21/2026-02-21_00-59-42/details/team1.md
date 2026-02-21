@@ -63,8 +63,8 @@
 | 55 | 117 | David DeSantis |
 | 56 | 116 | Kristen Roles Robben |
 | 57 | 114 | Colleen Wise |
-| 58 | 112 | Nicole Roseberry Weber |
-| 59 | 112 | Miguel Teixeira |
+| 58 | 112 | Miguel Teixeira |
+| 59 | 112 | Nicole Roseberry Weber |
 | 60 | 110 | Heidi Feurer |
 | 61 | 109 | Giddy Cascade |
 | 62 | 109 | Dandy Basegrid |
