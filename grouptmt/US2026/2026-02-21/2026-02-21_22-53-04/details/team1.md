@@ -191,8 +191,8 @@
 | 183 | 139 | Jenny Gingrich Fuentes |
 | 184 | 139 | Flashy Rotator |
 | 185 | 138 | Death |
-| 186 | 137 | Witty Builderfit |
-| 187 | 137 | Cody Gates |
+| 186 | 137 | Cody Gates |
+| 187 | 137 | Witty Builderfit |
 | 188 | 136 | Breanna Luna |
 | 189 | 135 | Aimee Horton |
 | 190 | 135 | Giddy Cascade |
