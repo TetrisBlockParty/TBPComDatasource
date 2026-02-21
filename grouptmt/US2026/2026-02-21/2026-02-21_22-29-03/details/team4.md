@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | Marie-Pier Desjardins |
-| 66 | 376 | quicksand420 |
+| 65 | 376 | quicksand420 |
+| 66 | 376 | Marie-Pier Desjardins |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |
@@ -166,15 +166,15 @@
 | 158 | 147 | Jay28 |
 | 159 | 145 | Daria Rycewicz |
 | 160 | 141 | Kathy Allen |
-| 161 | 141 | Malakai Darien Fox |
-| 162 | 141 | Marcus Todd |
-| 163 | 141 | ĥuf |
-| 164 | 140 | Stephme310 |
-| 165 | 140 | John Brunetti |
+| 161 | 141 | Marcus Todd |
+| 162 | 141 | ĥuf |
+| 163 | 141 | Malakai Darien Fox |
+| 164 | 140 | John Brunetti |
+| 165 | 140 | Stephme310 |
 | 166 | 140 | Shannon Ferrari |
 | 167 | 137 | PeaceOs |
-| 168 | 136 | Tanner Lund |
-| 169 | 136 | Sarah Brown |
+| 168 | 136 | Sarah Brown |
+| 169 | 136 | Tanner Lund |
 | 170 | 135 | Victoria Faniel |
 | 171 | 134 | Kim Klutz Olson |
 | 172 | 134 | Chirpy Basepiece |
@@ -207,10 +207,10 @@
 | 199 | 122 | Sherri |
 | 200 | 122 | 🥔🥔 Spudz |
 | 201 | 121 | Megan Cutshaw |
-| 202 | 121 | Smiley Tiltbuilder |
-| 203 | 121 | Joseph Pace |
-| 204 | 120 | Joshua Guess |
-| 205 | 120 | Jackie Marie |
+| 202 | 121 | Joseph Pace |
+| 203 | 121 | Smiley Tiltbuilder |
+| 204 | 120 | Jackie Marie |
+| 205 | 120 | Joshua Guess |
 | 206 | 120 | KayM |
 | 207 | 120 | Bryan Hodgins |
 | 208 | 120 | Zesty Twistbuilder |

@@ -358,8 +358,8 @@
 | 350 | 401 | Taylor Flowers |
 | 351 | 400 | Tammy Allen |
 | 352 | 400 | Catina Hutchison |
-| 353 | 399 | Juanita Lyons |
-| 354 | 399 | Steven Marshaun |
+| 353 | 399 | Steven Marshaun |
+| 354 | 399 | Juanita Lyons |
 | 355 | 398 | Brenda Utphall |
 | 356 | 398 | Moni Foxe |
 | 357 | 397 | coleksquad |

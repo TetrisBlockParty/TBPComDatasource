@@ -154,9 +154,9 @@
 | 146 | 170 | Veronica Eve |
 | 147 | 169 | Abbey Crespo |
 | 148 | 168 | Standia Civil |
-| 149 | 166 | Tyler Werts |
+| 149 | 166 | Katie Daniels |
 | 150 | 166 | Rico Rico |
-| 151 | 166 | Katie Daniels |
+| 151 | 166 | Tyler Werts |
 | 152 | 165 | Nadine Velardo |
 | 153 | 163 | Tyler Whitley |
 | 154 | 163 | Tanya Carpenter-Reynolds |
@@ -222,7 +222,7 @@
 | 214 | 115 | Zany Tiler |
 | 215 | 115 | Jacob Shaddock |
 | 216 | 115 | Mrs.Patrica |
-| 217 | 115 | Jacob Shaddock |
+| 217 | 115 | Jessi Sauer |
 | 218 | 114 | Hector Cruz |
 | 219 | 114 | Tyler Hertzog |
 | 220 | 113 | Desiree Deschaine Havee |
