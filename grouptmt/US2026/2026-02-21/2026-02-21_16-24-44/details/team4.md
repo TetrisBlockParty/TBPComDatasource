@@ -61,8 +61,8 @@
 | 53 | 337 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -89,8 +89,8 @@
 | 81 | 204 | Brittney Orengo |
 | 82 | 200 | Monica Daley |
 | 83 | 199 | shar |
-| 84 | 198 | Dustee Craddock-Harrison |
-| 85 | 198 | Mike Solo |
+| 84 | 198 | Mike Solo |
+| 85 | 198 | Dustee Craddock-Harrison |
 | 86 | 194 | Zany Twisterfit |
 | 87 | 193 | Holly Jolly |
 | 88 | 191 | Melvin Baird |

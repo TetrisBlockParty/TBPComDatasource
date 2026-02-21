@@ -86,8 +86,8 @@
 | 78 | 210 | Ly Phethmany |
 | 79 | 205 | Trippy Redd |
 | 80 | 204 | Lexuriuos Lifestlye |
-| 81 | 201 | Anaid Sanchez |
-| 82 | 201 | Ananda Mendez |
+| 81 | 201 | Ananda Mendez |
+| 82 | 201 | Anaid Sanchez |
 | 83 | 200 | Giggly Builderline |
 | 84 | 199 | TSwag |
 | 85 | 198 | Happy Snapbuild |
@@ -97,8 +97,8 @@
 | 89 | 193 | Lachelle Dillon |
 | 90 | 192 | Shaykmia |
 | 91 | 191 | Diane Byrd |
-| 92 | 190 | Sweetts |
-| 93 | 190 | Thorne Shumate |
+| 92 | 190 | Thorne Shumate |
+| 93 | 190 | Sweetts |
 | 94 | 189 | Happy Basegrid |
 | 95 | 186 | Jennifer Olewnik Soborowski |
 | 96 | 185 | Ash Galvan |
@@ -184,7 +184,7 @@
 | 176 | 110 | Madison Wicks |
 | 177 | 110 | Garcia Bailey |
 | 178 | 109 | Nery Martinez |
-| 179 | 108 | Tavia |
+| 179 | 108 | Dizzy Party |
 | 180 | 108 | Luciano Moreira |
 | 181 | 108 | Tavia |
 | 182 | 107 | Tyler Hertzog |
@@ -208,7 +208,7 @@
 | 200 | 100 | Tami Luce Martin |
 | 201 | 99 | Barrbaric |
 | 202 | 99 | Melissa Bires Hussar |
-| 203 | 99 | Barrbaric |
+| 203 | 99 | Mizzledagod |
 | 204 | 98 | Witty Builderfit |
 | 205 | 96 | Howdi Duty |
 | 206 | 96 | MommaKFC |

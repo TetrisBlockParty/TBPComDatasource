@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Shane Wilson Jr. |
-| 38 | 810 | Zippy Strikesnap |
+| 37 | 810 | Zippy Strikesnap |
+| 38 | 810 | Shane Wilson Jr. |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -103,8 +103,8 @@
 | 95 | 344 | Joey Banks |
 | 96 | 342 | Tiff Vs Tiffany |
 | 97 | 332 | Chauntee Alfrey-Cardinale |
-| 98 | 323 | Sherry Ogden |
-| 99 | 323 | Ashley Raines |
+| 98 | 323 | Ashley Raines |
+| 99 | 323 | Sherry Ogden |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
 | 102 | 309 | CeceGeGe |
@@ -112,13 +112,13 @@
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
-| 107 | 300 | Sherika C. McDaniels |
-| 108 | 300 | Tessina Dewey-Mancino |
+| 107 | 300 | Tessina Dewey-Mancino |
+| 108 | 300 | Sherika C. McDaniels |
 | 109 | 293 | Poppy Splitter |
 | 110 | 284 | Jay Horn |
 | 111 | 267 | Rufus Lincoln |
-| 112 | 263 | mjl574 |
-| 113 | 263 | Angeline Joseph |
+| 112 | 263 | Angeline Joseph |
+| 113 | 263 | mjl574 |
 | 114 | 262 | Joe-Maggie Mathews |
 | 115 | 259 | Louise Stacy Sisson |
 | 116 | 259 | opf |
@@ -155,19 +155,19 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Duane Bright |
-| 151 | 193 | Clever Shiftsnap |
+| 150 | 193 | Clever Shiftsnap |
+| 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Rochelle Hazelett |
-| 155 | 189 | Staci George Fitzsimmons |
-| 156 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Rochelle Hazelett |
+| 156 | 189 | Staci George Fitzsimmons |
 | 157 | 189 | Fallorina Susana |
 | 158 | 188 | Angie Harper |
 | 159 | 184 | Jennie Beranek |
 | 160 | 182 | Hyper Matchzone |
-| 161 | 181 | Karon Griffin |
-| 162 | 181 | Aerian Preston |
+| 161 | 181 | Aerian Preston |
+| 162 | 181 | Karon Griffin |
 | 163 | 179 | Joye Sims Binion |
 | 164 | 179 | Daira Largen |
 | 165 | 179 | Ashley Jones |
@@ -232,8 +232,8 @@
 | 224 | 131 | Erykah |
 | 225 | 131 | Darlene McMillan |
 | 226 | 129 | Juliana Dottore |
-| 227 | 128 | Cesar Barraza |
-| 228 | 128 | Jen Lewis |
+| 227 | 128 | Jen Lewis |
+| 228 | 128 | Cesar Barraza |
 | 229 | 127 | Jennifer Alvey |
 | 230 | 126 | April Matthew Kibble |
 | 231 | 125 | Weerae |
@@ -260,8 +260,8 @@
 | 252 | 115 | Daring Builder |
 | 253 | 114 | Amanda Neal |
 | 254 | 113 | Brave Brickster |
-| 255 | 113 | Beppy |
-| 256 | 113 | Brian Battjes |
+| 255 | 113 | Brian Battjes |
+| 256 | 113 | Beppy |
 | 257 | 111 | France Vézina |
 | 258 | 111 | Stephanie Zahm |
 | 259 | 111 | Jason-Ashley Ludlow |
@@ -269,9 +269,9 @@
 | 261 | 110 | Tye Stovall |
 | 262 | 110 | Danielle Weikel |
 | 263 | 110 | Carol Cain Thurman |
-| 264 | 109 | mommablock |
-| 265 | 109 | Fredd Thomas |
-| 266 | 109 | Diana Ibarra |
+| 264 | 109 | Diana Ibarra |
+| 265 | 109 | mommablock |
+| 266 | 109 | Fredd Thomas |
 | 267 | 108 | Rachel Napper |
 | 268 | 108 | LaTanya GeminiondaRise Johnson |
 | 269 | 108 | Hanna Kim |
@@ -282,8 +282,8 @@
 | 274 | 106 | Cheeky Snapper |
 | 275 | 106 | Noettín Kan Zasnemoore |
 | 276 | 105 | Donna |
-| 277 | 105 | Emi |
-| 278 | 105 | Boldy Blocker |
+| 277 | 105 | Boldy Blocker |
+| 278 | 105 | Emi |
 | 279 | 104 | Samantha Lynn |
 | 280 | 104 | bean |
 | 281 | 104 | Peachy Rollfit |
@@ -300,7 +300,7 @@
 | 292 | 100 | Bobbi Moore |
 | 293 | 100 | Ava Petito |
 | 294 | 100 | Elizabeth Renee |
-| 295 | 100 | Bobbi Moore |
+| 295 | 100 | Demetrious Shaw Sr. |
 | 296 | 100 | Edwin Calvillo Jr. |
 | 297 | 99 | FATTY |
 | 298 | 99 | Michelle Ramirez |

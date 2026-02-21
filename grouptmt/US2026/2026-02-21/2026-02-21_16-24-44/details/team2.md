@@ -405,8 +405,8 @@
 | 397 | 273 | Jenna Nance |
 | 398 | 272 | Mikayala Szaz |
 | 399 | 271 | Ann Marie Davis |
-| 400 | 271 | Toni Lynn |
-| 401 | 271 | Loony Basepiece |
+| 400 | 271 | Loony Basepiece |
+| 401 | 271 | Toni Lynn |
 | 402 | 270 | Mary Marie |
 | 403 | 269 | Reece Smith |
 | 404 | 267 | Britt Stunkel |
@@ -434,8 +434,8 @@
 | 426 | 252 | Aleasha M Brown |
 | 427 | 250 | Steve Man |
 | 428 | 250 | Danielle DeLozier Plesec |
-| 429 | 249 | Porsche' Nicole |
-| 430 | 249 | Nicky Jackson |
+| 429 | 249 | Nicky Jackson |
+| 430 | 249 | Porsche' Nicole |
 | 431 | 248 | Aimee Byrom |
 | 432 | 248 | Warren Marleau |
 | 433 | 248 | Bubbly Snapfit |
