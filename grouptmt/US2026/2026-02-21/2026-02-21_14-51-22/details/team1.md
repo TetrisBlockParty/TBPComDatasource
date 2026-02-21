@@ -61,8 +61,8 @@
 | 53 | 272 | Adam Byrd |
 | 54 | 270 | Shauna Loe |
 | 55 | 257 | Sarah Roberts |
-| 56 | 256 | Robert Benito |
-| 57 | 256 | Tipsy Column |
+| 56 | 256 | Tipsy Column |
+| 57 | 256 | Robert Benito |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
 | 60 | 244 | Franswa |
@@ -84,9 +84,9 @@
 | 76 | 201 | Patrick Luckenbill |
 | 77 | 201 | Anaid Sanchez |
 | 78 | 200 | Giggly Builderline |
-| 79 | 198 | Billie Dawn Sparks |
-| 80 | 198 | Happy Snapbuild |
-| 81 | 198 | Brandi Huntington |
+| 79 | 198 | Brandi Huntington |
+| 80 | 198 | Billie Dawn Sparks |
+| 81 | 198 | Happy Snapbuild |
 | 82 | 197 | Cynthia Bradley |
 | 83 | 193 | Lachelle Dillon |
 | 84 | 192 | Shaykmia |
@@ -152,10 +152,10 @@
 | 144 | 122 | Brave Wrecker |
 | 145 | 121 | Yvonne Marie |
 | 146 | 121 | Bouncy Grid |
-| 147 | 120 | Kimmie Kimms |
-| 148 | 120 | Alenoush Karimian |
-| 149 | 119 | April Carroll |
-| 150 | 119 | Tater |
+| 147 | 120 | Alenoush Karimian |
+| 148 | 120 | Kimmie Kimms |
+| 149 | 119 | Tater |
+| 150 | 119 | April Carroll |
 | 151 | 118 | Barry Mac'Ockner |
 | 152 | 116 | Evie Khalil |
 | 153 | 116 | Jessica Russell |

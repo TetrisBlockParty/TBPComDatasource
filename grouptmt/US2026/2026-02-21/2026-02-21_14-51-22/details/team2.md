@@ -182,8 +182,8 @@
 | 174 | 504 | Cherica Taylor |
 | 175 | 503 | Adam Erikson |
 | 176 | 500 | tejas25 |
-| 177 | 497 | Cheech Dta |
-| 178 | 497 | Jeremy Parodi |
+| 177 | 497 | Jeremy Parodi |
+| 178 | 497 | Cheech Dta |
 | 179 | 496 | Ashie Ann |
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
@@ -199,8 +199,8 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ryan Gunther |
-| 195 | 464 | Ariel |
+| 194 | 464 | Ariel |
+| 195 | 464 | Ryan Gunther |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
@@ -386,23 +386,23 @@
 | 378 | 264 | Dapper Dasher |
 | 379 | 264 | Thomas Hughes |
 | 380 | 264 | Giddy Gridclear |
-| 381 | 262 | Taren Cowan |
-| 382 | 262 | Min |
+| 381 | 262 | Min |
+| 382 | 262 | Taren Cowan |
 | 383 | 261 | MrsClaudette Will'sIam Matthews |
 | 384 | 260 | Santana Miyagi |
-| 385 | 257 | Diana Fitzwater |
-| 386 | 257 | Anthony Mignacca |
+| 385 | 257 | Anthony Mignacca |
+| 386 | 257 | Diana Fitzwater |
 | 387 | 257 | Kathryn Townsley |
 | 388 | 257 | Jackie Jackie Lee |
-| 389 | 256 | Barbra Miller |
-| 390 | 256 | Alishac Marie |
+| 389 | 256 | Alishac Marie |
+| 390 | 256 | Barbra Miller |
 | 391 | 256 | Tee Jaleesa |
 | 392 | 254 | Rose Fx |
 | 393 | 254 | Elizabeth Diraffaele |
 | 394 | 254 | Julie Hamilton |
 | 395 | 253 | Tansaria Couch-Butler |
-| 396 | 252 | Alyssia Tancredi |
-| 397 | 252 | Matt Johnson |
+| 396 | 252 | Matt Johnson |
+| 397 | 252 | Alyssia Tancredi |
 | 398 | 251 | Ann Knutson Anderson |
 | 399 | 250 | Steve Man |
 | 400 | 249 | Porsche' Nicole |
@@ -483,8 +483,8 @@
 | 475 | 207 | Melissa McCall |
 | 476 | 206 | RAEPR05 |
 | 477 | 206 | Neko Preston |
-| 478 | 205 | Tj Ball |
-| 479 | 205 | ElizabethAnn Dickinson |
+| 478 | 205 | ElizabethAnn Dickinson |
+| 479 | 205 | Tj Ball |
 | 480 | 204 | Ali Gralski |
 | 481 | 204 | Ryan Lauer |
 | 482 | 204 | Nicolle Danielle |
@@ -522,9 +522,9 @@
 | 514 | 193 | Kelly Ann McCormick |
 | 515 | 192 | Michael Artis |
 | 516 | 190 | Jessica Kaye DeAguero |
-| 517 | 188 | B-rad B-rad |
-| 518 | 188 | Irene Jones |
-| 519 | 188 | Seth Wrieden |
+| 517 | 188 | Seth Wrieden |
+| 518 | 188 | B-rad B-rad |
+| 519 | 188 | Irene Jones |
 | 520 | 187 | Stefanie Zonzini-Gagliardi |
 | 521 | 186 | Joshua Mullings |
 | 522 | 186 | Michelle Lee |

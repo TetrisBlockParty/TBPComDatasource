@@ -134,8 +134,8 @@
 | 126 | 213 | Tom Nault |
 | 127 | 212 | Shunta Jacobs |
 | 128 | 211 | Katrina Schroeder |
-| 129 | 207 | Chris Bell |
-| 130 | 207 | rnr junky |
+| 129 | 207 | rnr junky |
+| 130 | 207 | Chris Bell |
 | 131 | 204 | Mcathen |
 | 132 | 204 | Aaron Pitkin |
 | 133 | 202 | Twisty Brick LT |
@@ -199,7 +199,7 @@
 | 191 | 149 | Alexis Taylor |
 | 192 | 146 | Carrie Huskey |
 | 193 | 146 | Denita Mungro |
-| 194 | 146 | Carrie Huskey |
+| 194 | 146 | Latoya Mayne |
 | 195 | 145 | Bryan Byrd |
 | 196 | 145 | Ashley Lynn Marchese |
 | 197 | 145 | Rochelle Hazelett |
