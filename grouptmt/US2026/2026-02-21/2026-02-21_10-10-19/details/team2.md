@@ -1060,7 +1060,7 @@
 | 1052 | 82 | Avasha Gonzalez |
 | 1053 | 82 | Jedi |
 | 1054 | 82 | Prette Qui |
-| 1055 | 82 | Jedi |
+| 1055 | 82 | Kelly Amos |
 | 1056 | 82 | Stephanie McBride |
 | 1057 | 82 | Janai Vrabel |
 | 1058 | 82 | Joni Richard |

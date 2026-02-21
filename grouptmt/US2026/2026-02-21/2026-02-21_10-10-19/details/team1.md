@@ -36,8 +36,8 @@
 | 28 | 399 | Drew Magnus |
 | 29 | 380 | Robert Beck |
 | 30 | 365 | Karin Gillen |
-| 31 | 348 | Chipper Gridlock |
-| 32 | 348 | Stef Hu |
+| 31 | 348 | Stef Hu |
+| 32 | 348 | Chipper Gridlock |
 | 33 | 338 | Stephanie Zahn |
 | 34 | 301 | Zerin Graham |
 | 35 | 298 | Angel Fowler |
@@ -46,11 +46,11 @@
 | 38 | 291 | Nancy Green |
 | 39 | 285 | Jennifer Cates |
 | 40 | 281 | Maria C. Hernandez |
-| 41 | 274 | Theo Pinnow |
-| 42 | 274 | Sweet Baker |
+| 41 | 274 | Sweet Baker |
+| 42 | 274 | Theo Pinnow |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Shauna Loe |
-| 45 | 256 | Robert Benito |
+| 45 | 256 | Tipsy Column |
 | 46 | 244 | Franswa |
 | 47 | 243 | Sarah Roberts |
 | 48 | 241 | Kristen Roles Robben |
@@ -77,8 +77,8 @@
 | 69 | 192 | Mandyy Rae |
 | 70 | 192 | Shaykmia |
 | 71 | 191 | Jazzy Framezone |
-| 72 | 190 | Sweetts |
-| 73 | 190 | Thorne Shumate |
+| 72 | 190 | Thorne Shumate |
+| 73 | 190 | Sweetts |
 | 74 | 189 | Happy Basegrid |
 | 75 | 180 | Erez Yosef |
 | 76 | 173 | Frothy Pattern |
@@ -122,9 +122,9 @@
 | 114 | 124 | Cartier |
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
-| 117 | 119 | Tater |
-| 118 | 119 | April Carroll |
-| 119 | 119 | Irual Hctrab |
+| 117 | 119 | April Carroll |
+| 118 | 119 | Irual Hctrab |
+| 119 | 119 | Tater |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Alenoush Karimian |
 | 122 | 116 | Evie Khalil |
@@ -136,8 +136,8 @@
 | 128 | 112 | Miguel Teixeira |
 | 129 | 111 | Jessica Russell |
 | 130 | 111 | Agustin Duarte Orozco |
-| 131 | 110 | Heidi Feurer |
-| 132 | 110 | Garcia Bailey |
+| 131 | 110 | Garcia Bailey |
+| 132 | 110 | Heidi Feurer |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
 | 135 | 106 | Bloknboy |

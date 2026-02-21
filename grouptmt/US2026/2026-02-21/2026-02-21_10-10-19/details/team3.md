@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -184,7 +184,7 @@
 | 176 | 125 | Felicia Doxey |
 | 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
-| 179 | 123 | Sarajane Lokan |
+| 179 | 123 | Terry Jo Jones |
 | 180 | 123 | Kristie McFarland |
 | 181 | 123 | Sarajane Lokan |
 | 182 | 122 | Katrina E Jelks |
