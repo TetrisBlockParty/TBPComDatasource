@@ -57,8 +57,8 @@
 | 49 | 205 | Trippy Redd |
 | 50 | 204 | Ly Phethmany |
 | 51 | 202 | Dee Perry |
-| 52 | 201 | Anaid Sanchez |
-| 53 | 201 | Ananda Mendez |
+| 52 | 201 | Ananda Mendez |
+| 53 | 201 | Anaid Sanchez |
 | 54 | 200 | Lexuriuos Lifestlye |
 | 55 | 198 | Billie Dawn Sparks |
 | 56 | 198 | Happy Snapbuild |
@@ -107,8 +107,8 @@
 | 99 | 126 | Cece Ibarra |
 | 100 | 123 | LaQuetta Faith Hines |
 | 101 | 121 | Bouncy Grid |
-| 102 | 119 | Irual Hctrab |
-| 103 | 119 | Tater |
+| 102 | 119 | Tater |
+| 103 | 119 | Irual Hctrab |
 | 104 | 118 | Barry Mac'Ockner |
 | 105 | 116 | Evie Khalil |
 | 106 | 115 | comrade fish |

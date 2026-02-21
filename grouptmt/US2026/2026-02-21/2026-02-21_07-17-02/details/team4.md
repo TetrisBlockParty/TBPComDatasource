@@ -47,8 +47,8 @@
 | 39 | 274 | Elizabeth Sallas |
 | 40 | 272 | Livvy |
 | 41 | 265 | Julian Garcia |
-| 42 | 256 | Dustin Robert |
-| 43 | 256 | Brittney Griggs |
+| 42 | 256 | Brittney Griggs |
+| 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
 | 46 | 231 | Jenna Ingersoll |
@@ -68,8 +68,8 @@
 | 60 | 185 | loulou |
 | 61 | 179 | Epic Curvetile |
 | 62 | 175 | Dustee Craddock-Harrison |
-| 63 | 170 | Girl |
-| 64 | 170 | Leah Kutz Zirbel |
+| 63 | 170 | Leah Kutz Zirbel |
+| 64 | 170 | Girl |
 | 65 | 167 | Denise Carlson |
 | 66 | 166 | shar |
 | 67 | 165 | Courtney Cicoria |
@@ -88,8 +88,8 @@
 | 80 | 141 | Malakai Darien Fox |
 | 81 | 140 | Shannon Ferrari |
 | 82 | 136 | Tanner Lund |
-| 83 | 134 | Chirpy Basepiece |
-| 84 | 134 | Jessica Bohlken |
+| 83 | 134 | Jessica Bohlken |
+| 84 | 134 | Chirpy Basepiece |
 | 85 | 133 | Robin Watters |
 | 86 | 132 | Jenna McGeorge |
 | 87 | 132 | Melissa Priest Sellers |

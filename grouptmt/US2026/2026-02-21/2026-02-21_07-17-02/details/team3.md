@@ -113,8 +113,8 @@
 | 105 | 200 | Twisty Brick LT |
 | 106 | 199 | joclisa |
 | 107 | 196 | Speedy Bridger |
-| 108 | 195 | Jenny Hrndz |
-| 109 | 195 | Nicha Hooker |
+| 108 | 195 | Nicha Hooker |
+| 109 | 195 | Jenny Hrndz |
 | 110 | 194 | glichmod |
 | 111 | 193 | Shunta Jacobs |
 | 112 | 193 | Clever Shiftsnap |
@@ -133,8 +133,8 @@
 | 125 | 166 | Kelly Ann Child |
 | 126 | 166 | Danielle Mogg |
 | 127 | 164 | rosy |
-| 128 | 159 | Morgan Martinez |
-| 129 | 159 | Jone |
+| 128 | 159 | Jone |
+| 129 | 159 | Morgan Martinez |
 | 130 | 158 | Grams |
 | 131 | 156 | Joey Banks |
 | 132 | 155 | BŘŰŤİÇŨŚ |
@@ -146,12 +146,12 @@
 | 138 | 152 | Shiny Zonebuilder |
 | 139 | 151 | MsBee |
 | 140 | 150 | Nicole Myers |
-| 141 | 149 | Angel Mendez |
-| 142 | 149 | Bea Miles |
+| 141 | 149 | Bea Miles |
+| 142 | 149 | Angel Mendez |
 | 143 | 149 | Trisha Balmer |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Denita Mungro |
-| 146 | 146 | Latoya Mayne |
+| 145 | 146 | Latoya Mayne |
+| 146 | 146 | Denita Mungro |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Gumbo |
 | 149 | 140 | Jay Horn |

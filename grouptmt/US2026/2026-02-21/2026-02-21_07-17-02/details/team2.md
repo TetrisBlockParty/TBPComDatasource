@@ -94,8 +94,8 @@
 | 86 | 658 | Vistabrat |
 | 87 | 658 | Pacynthia Williams |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Anna Edwards |
-| 90 | 649 | Stephanie Chapman |
+| 89 | 649 | Stephanie Chapman |
+| 90 | 649 | Anna Edwards |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -168,17 +168,17 @@
 | 160 | 400 | Crystie Hicks |
 | 161 | 400 | Tammy Allen |
 | 162 | 397 | Ashley Guernsey-Martin |
-| 163 | 391 | Chilly Bridgepiece |
-| 164 | 391 | Steven Marshaun |
+| 163 | 391 | Steven Marshaun |
+| 164 | 391 | Chilly Bridgepiece |
 | 165 | 388 | coleksquad |
 | 166 | 386 | Macy Williams |
 | 167 | 386 | Ashie Ann |
 | 168 | 385 | Sam |
 | 169 | 381 | Amanda Ferrell |
-| 170 | 380 | Joshua Mandel |
-| 171 | 380 | Calandra Shaya Robinson |
-| 172 | 377 | Roy Salyer |
-| 173 | 377 | Liberty |
+| 170 | 380 | Calandra Shaya Robinson |
+| 171 | 380 | Joshua Mandel |
+| 172 | 377 | Liberty |
+| 173 | 377 | Roy Salyer |
 | 174 | 365 | April Dawn Gussler |
 | 175 | 364 | Shinette Dobson |
 | 176 | 363 | William Meussner |
@@ -191,10 +191,10 @@
 | 183 | 348 | Richard Horton |
 | 184 | 348 | Cherica Taylor |
 | 185 | 345 | Brenda Messer |
-| 186 | 345 | Rhianna DiLorenzo |
-| 187 | 345 | Wuntayk |
-| 188 | 344 | Christina Lewis-Vickers |
-| 189 | 344 | Julie Kresal |
+| 186 | 345 | Wuntayk |
+| 187 | 345 | Rhianna DiLorenzo |
+| 188 | 344 | Julie Kresal |
+| 189 | 344 | Christina Lewis-Vickers |
 | 190 | 344 | Brave Dropmatch |
 | 191 | 342 | Tracy Wise |
 | 192 | 339 | Qiana Sanders |
@@ -262,9 +262,9 @@
 | 254 | 271 | Toni Lynn |
 | 255 | 270 | Angela Lynn |
 | 256 | 270 | Alexandra Weir |
-| 257 | 268 | Tanya Parsons |
-| 258 | 268 | Vanessa Moreno |
-| 259 | 268 | Chummy Blockbuilder |
+| 257 | 268 | Vanessa Moreno |
+| 258 | 268 | Chummy Blockbuilder |
+| 259 | 268 | Tanya Parsons |
 | 260 | 267 | Mindy Leigh Head |
 | 261 | 266 | Mighty Shatterfit |
 | 262 | 266 | Autumn Schaeffer |
