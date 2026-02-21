@@ -47,8 +47,8 @@
 | 39 | 274 | Theo Pinnow |
 | 40 | 274 | Sweet Baker |
 | 41 | 265 | Jennifer Cates |
-| 42 | 256 | Robert Benito |
-| 43 | 256 | Tipsy Column |
+| 42 | 256 | Tipsy Column |
+| 43 | 256 | Robert Benito |
 | 44 | 244 | Franswa |
 | 45 | 243 | Sarah Roberts |
 | 46 | 241 | Kristen Roles Robben |

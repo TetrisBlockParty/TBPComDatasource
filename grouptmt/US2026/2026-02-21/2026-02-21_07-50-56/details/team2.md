@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -315,8 +315,8 @@
 | 307 | 247 | Fancy Twister |
 | 308 | 247 | Andrea Devery Beck |
 | 309 | 246 | Kathryn Townsley |
-| 310 | 246 | Stephanie Lumanlan |
-| 311 | 246 | Ashley Lopez |
+| 310 | 246 | Ashley Lopez |
+| 311 | 246 | Stephanie Lumanlan |
 | 312 | 245 | Rachael Senard |
 | 313 | 245 | Mischelle Clay |
 | 314 | 245 | Taryece Gause |

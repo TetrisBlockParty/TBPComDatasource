@@ -58,8 +58,8 @@
 | 50 | 256 | Brittney Griggs |
 | 51 | 244 | Isabella Blanco |
 | 52 | 241 | Desi Desporte |
-| 53 | 231 | Jenna Ingersoll |
-| 54 | 231 | Michelle Marie |
+| 53 | 231 | Michelle Marie |
+| 54 | 231 | Jenna Ingersoll |
 | 55 | 226 | Breannah Grafe |
 | 56 | 207 | Alyssa Papen |
 | 57 | 205 | Sarah Neathery |
@@ -96,9 +96,9 @@
 | 88 | 134 | Chirpy Basepiece |
 | 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
-| 91 | 132 | Melissa Priest Sellers |
+| 91 | 132 | Jenna McGeorge |
 | 92 | 132 | Jessica Cagle |
-| 93 | 132 | Jenna McGeorge |
+| 93 | 132 | Melissa Priest Sellers |
 | 94 | 132 | Degenerate |
 | 95 | 131 | Dana Scott |
 | 96 | 131 | Mr. Party |
@@ -135,11 +135,11 @@
 | 127 | 107 | Marcus Todd |
 | 128 | 106 | Jonathan Kimbrough |
 | 129 | 105 | Sam Middleton |
-| 130 | 105 | TinyLegoRose |
-| 131 | 105 | TheNeesh50 |
+| 130 | 105 | TheNeesh50 |
+| 131 | 105 | TinyLegoRose |
 | 132 | 105 | AyeKay |
-| 133 | 105 | Dihcheese444 |
-| 134 | 105 | 🥔🥔 Spudz |
+| 133 | 105 | 🥔🥔 Spudz |
+| 134 | 105 | Dihcheese444 |
 | 135 | 104 | YoMomma |
 | 136 | 104 | Adam Randall |
 | 137 | 104 | Damn Libra |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Rosemary Foster |
-| 194 | 75 | Christina Black |
+| 193 | 75 | Christina Black |
+| 194 | 75 | Rosemary Foster |
 | 195 | 74 | Krs |
 | 196 | 73 | Rheanda Weaskus |
 | 197 | 73 | Lynn Marie |

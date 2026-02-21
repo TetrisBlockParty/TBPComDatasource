@@ -100,8 +100,8 @@
 | 92 | 239 | Lush Buildout |
 | 93 | 234 | Louise Stacy Sisson |
 | 94 | 232 | Poppy Splitter |
-| 95 | 224 | Judi Dobson |
-| 96 | 224 | Mykal Burton |
+| 95 | 224 | Mykal Burton |
+| 96 | 224 | Judi Dobson |
 | 97 | 223 | Jeana Gilbert |
 | 98 | 222 | Jimmie Clemons |
 | 99 | 218 | mjl574 |
@@ -247,8 +247,8 @@
 | 239 | 94 | Carrie Huskey |
 | 240 | 93 | Tiffany Ford |
 | 241 | 92 | Jennifer Caputo |
-| 242 | 92 | Trice Thomas |
-| 243 | 92 | Ava Petito |
+| 242 | 92 | Ava Petito |
+| 243 | 92 | Trice Thomas |
 | 244 | 91 | Martin Bernier |
 | 245 | 90 | Rebel124 |
 | 246 | 90 | Tiffany Kaupang |
