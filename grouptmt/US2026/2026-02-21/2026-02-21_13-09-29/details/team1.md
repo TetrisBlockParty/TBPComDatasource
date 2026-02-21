@@ -56,8 +56,8 @@
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -122,8 +122,8 @@
 | 114 | 134 | Trina Gee |
 | 115 | 133 | Brandi Huntington |
 | 116 | 133 | Breanna Luna |
-| 117 | 132 | Davery Spencer Adair |
-| 118 | 132 | LaQuetta Faith Hines |
+| 117 | 132 | LaQuetta Faith Hines |
+| 118 | 132 | Davery Spencer Adair |
 | 119 | 131 | Uhog SF |
 | 120 | 130 | Dandy Basegrid |
 | 121 | 129 | Dino |

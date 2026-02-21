@@ -92,8 +92,8 @@
 | 84 | 320 | Or Reznitsky |
 | 85 | 316 | Fancy Cascader |
 | 86 | 313 | Elaine Webb Graves |
-| 87 | 309 | Rich LeBlanc |
-| 88 | 309 | CeceGeGe |
+| 87 | 309 | CeceGeGe |
+| 88 | 309 | Rich LeBlanc |
 | 89 | 307 | Peggi Charon |
 | 90 | 307 | Blocked |
 | 91 | 300 | Sherika C. McDaniels |
@@ -117,8 +117,8 @@
 | 109 | 224 | Judi Dobson |
 | 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Nicole Flippo |
-| 113 | 222 | Jimmie Clemons |
+| 112 | 222 | Jimmie Clemons |
+| 113 | 222 | Nicole Flippo |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -138,8 +138,8 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Fallorina Susana |
-| 134 | 189 | Staci George Fitzsimmons |
+| 133 | 189 | Staci George Fitzsimmons |
+| 134 | 189 | Fallorina Susana |
 | 135 | 184 | Jennie Beranek |
 | 136 | 182 | Ashley Tookes |
 | 137 | 182 | Hyper Matchzone |
@@ -149,10 +149,10 @@
 | 141 | 178 | AlsoJess |
 | 142 | 176 | Ryan Williams |
 | 143 | 175 | Logan Naccarato |
-| 144 | 167 | Raven Dudley |
-| 145 | 167 | Rebel124 |
-| 146 | 166 | Danielle Mogg |
-| 147 | 166 | Betty Rosas |
+| 144 | 167 | Rebel124 |
+| 145 | 167 | Raven Dudley |
+| 146 | 166 | Betty Rosas |
+| 147 | 166 | Danielle Mogg |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
 | 150 | 164 | rosy |
@@ -170,8 +170,8 @@
 | 162 | 157 | Patricia Gadsden |
 | 163 | 156 | Joey Banks |
 | 164 | 154 | Angela M. Fletcher |
-| 165 | 153 | Beth Ingham |
-| 166 | 153 | Stephanie Whitefield |
+| 165 | 153 | Stephanie Whitefield |
+| 166 | 153 | Beth Ingham |
 | 167 | 152 | Shiny Zonebuilder |
 | 168 | 151 | MsBee |
 | 169 | 150 | Nicole Myers |
@@ -180,8 +180,8 @@
 | 172 | 149 | Trisha Balmer |
 | 173 | 147 | Desiree Gold |
 | 174 | 147 | Sashay Tapae Simpson |
-| 175 | 146 | Latoya Mayne |
-| 176 | 146 | Denita Mungro |
+| 175 | 146 | Denita Mungro |
+| 176 | 146 | Latoya Mayne |
 | 177 | 145 | Bryan Byrd |
 | 178 | 142 | Erica Anderson |
 | 179 | 140 | Gumbo |
@@ -200,10 +200,10 @@
 | 192 | 128 | Jen Lewis |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
-| 195 | 125 | Felicia Doxey |
-| 196 | 125 | Shimika Enay Wallace |
+| 195 | 125 | Shimika Enay Wallace |
+| 196 | 125 | Felicia Doxey |
 | 197 | 124 | Cesar Barraza |
-| 198 | 123 | Marci Mize Fandrich |
+| 198 | 123 | Sarajane Lokan |
 | 199 | 123 | Terry Jo Jones |
 | 200 | 123 | Marci Mize Fandrich |
 | 201 | 122 | Giggly Brickroll |

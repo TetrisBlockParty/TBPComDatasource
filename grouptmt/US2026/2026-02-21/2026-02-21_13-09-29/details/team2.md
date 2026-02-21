@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -117,16 +117,16 @@
 | 109 | 658 | Pacynthia Williams |
 | 110 | 653 | Becky Weeks-Garry |
 | 111 | 653 | Roger Grabbit |
-| 112 | 649 | Anna Edwards |
-| 113 | 649 | Stephanie Chapman |
+| 112 | 649 | Stephanie Chapman |
+| 113 | 649 | Anna Edwards |
 | 114 | 641 | Ricardo Burton |
 | 115 | 632 | Beth |
 | 116 | 631 | Peppy Zone |
 | 117 | 631 | Loopy Clusterbuilder |
 | 118 | 620 | BYM4L |
 | 119 | 619 | Jamie Otero |
-| 120 | 608 | Sommer Shope |
-| 121 | 608 | John Bednarik |
+| 120 | 608 | John Bednarik |
+| 121 | 608 | Sommer Shope |
 | 122 | 602 | L3sli3 |
 | 123 | 601 | Nancy Reid |
 | 124 | 597 | Andea Beck |
@@ -154,8 +154,8 @@
 | 146 | 522 | Slip |
 | 147 | 520 | Kimberly Schall |
 | 148 | 517 | Debra Williams |
-| 149 | 515 | Real Ri |
-| 150 | 515 | Kaylee McCafferty |
+| 149 | 515 | Kaylee McCafferty |
+| 150 | 515 | Real Ri |
 | 151 | 514 | Ashley House |
 | 152 | 513 | Butta |
 | 153 | 511 | Ramone Armstrong |
@@ -438,8 +438,8 @@
 | 430 | 211 | Ys Muhammed |
 | 431 | 209 | Dawn L Washington-Feuquay |
 | 432 | 208 | Nancy Pohlman |
-| 433 | 207 | Melissa McCall |
-| 434 | 207 | Brave Gridpiece |
+| 433 | 207 | Brave Gridpiece |
+| 434 | 207 | Melissa McCall |
 | 435 | 207 | Shylee Tilman |
 | 436 | 206 | Neko Preston |
 | 437 | 206 | RAEPR05 |
@@ -709,7 +709,7 @@
 | 701 | 131 | Kendall Fullerton |
 | 702 | 131 | Zeleana Perry |
 | 703 | 130 | Nerdy Riserfit |
-| 704 | 130 | Amy Ross |
+| 704 | 130 | Cranky Zonebuilder |
 | 705 | 130 | Sandy Aragon |
 | 706 | 130 | Amy Ross |
 | 707 | 130 | Mia Muse Best |
@@ -769,8 +769,8 @@
 | 761 | 123 | Renee Griffith |
 | 762 | 123 | Cool Slam |
 | 763 | 122 | Chere Kelly |
-| 764 | 122 | Cassie Newton |
-| 765 | 122 | Shakena Tuggle |
+| 764 | 122 | Shakena Tuggle |
+| 765 | 122 | Cassie Newton |
 | 766 | 121 | Pam Doughty |
 | 767 | 121 | g |
 | 768 | 120 | Rebecca Crosby |

@@ -137,10 +137,10 @@
 | 129 | 120 | Joshua Guess |
 | 130 | 119 | Kristin Manee |
 | 131 | 118 | Leslie Nicole |
-| 132 | 116 | Stephme310 |
-| 133 | 116 | Diana Houts |
-| 134 | 115 | Jayk |
-| 135 | 115 | Ultramarine |
+| 132 | 116 | Diana Houts |
+| 133 | 116 | Stephme310 |
+| 134 | 115 | Ultramarine |
+| 135 | 115 | Jayk |
 | 136 | 113 | Adam Randall |
 | 137 | 113 | Andria Lynn |
 | 138 | 112 | Austin Owens |
@@ -149,8 +149,8 @@
 | 141 | 112 | Brittany Marsh |
 | 142 | 111 | Gwendolyn Pitcairn |
 | 143 | 111 | Lazy Blocker |
-| 144 | 110 | YoMomma |
-| 145 | 110 | H.R. Block |
+| 144 | 110 | H.R. Block |
+| 145 | 110 | YoMomma |
 | 146 | 108 | Ali Ian |
 | 147 | 107 | Marcus Todd |
 | 148 | 105 | AyeKay |
