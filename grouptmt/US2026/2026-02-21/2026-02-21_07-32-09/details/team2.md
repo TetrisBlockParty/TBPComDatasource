@@ -129,8 +129,8 @@
 | 121 | 520 | Kimberly Schall |
 | 122 | 519 | Maria Escobar |
 | 123 | 517 | Debra Williams |
-| 124 | 515 | Real Ri |
-| 125 | 515 | Kaylee McCafferty |
+| 124 | 515 | Kaylee McCafferty |
+| 125 | 515 | Real Ri |
 | 126 | 513 | Butta |
 | 127 | 510 | Ashley House |
 | 128 | 509 | Kelli Wells |
@@ -170,8 +170,8 @@
 | 162 | 400 | Tammy Allen |
 | 163 | 400 | Crystie Hicks |
 | 164 | 397 | Ashley Guernsey-Martin |
-| 165 | 391 | Steven Marshaun |
-| 166 | 391 | Chilly Bridgepiece |
+| 165 | 391 | Chilly Bridgepiece |
+| 166 | 391 | Steven Marshaun |
 | 167 | 388 | coleksquad |
 | 168 | 386 | Macy Williams |
 | 169 | 386 | Ashie Ann |
@@ -677,8 +677,8 @@
 | 669 | 114 | Melissa Maples |
 | 670 | 114 | Biggest thing |
 | 671 | 114 | Brenda |
-| 672 | 114 | Juan Castillo |
-| 673 | 114 | James Louie |
+| 672 | 114 | James Louie |
+| 673 | 114 | Juan Castillo |
 | 674 | 114 | Kimberly Mcmullen |
 | 675 | 113 | Hillary Franklin |
 | 676 | 113 | Brave Gridzone |

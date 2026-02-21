@@ -115,8 +115,8 @@
 | 107 | 200 | Twisty Brick LT |
 | 108 | 199 | joclisa |
 | 109 | 196 | Speedy Bridger |
-| 110 | 195 | Nicha Hooker |
-| 111 | 195 | Jenny Hrndz |
+| 110 | 195 | Jenny Hrndz |
+| 111 | 195 | Nicha Hooker |
 | 112 | 194 | glichmod |
 | 113 | 193 | Clever Shiftsnap |
 | 114 | 192 | Chasity |
@@ -162,8 +162,8 @@
 | 154 | 134 | Emma |
 | 155 | 131 | Jl |
 | 156 | 129 | Stephanie Burtin |
-| 157 | 127 | Marquita Sheard |
-| 158 | 127 | Aerian Preston |
+| 157 | 127 | Aerian Preston |
+| 158 | 127 | Marquita Sheard |
 | 159 | 127 | Connie Mohler-Fair |
 | 160 | 126 | Brandon Givens |
 | 161 | 126 | Dan Rob |
