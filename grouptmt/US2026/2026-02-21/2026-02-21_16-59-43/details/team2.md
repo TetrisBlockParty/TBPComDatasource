@@ -300,8 +300,8 @@
 | 292 | 357 | Julie Kresal |
 | 293 | 355 | Shandrica Lowe |
 | 294 | 355 | Kristen O'Neal |
-| 295 | 354 | Tracy Wise |
-| 296 | 354 | Brave Dropmatch |
+| 295 | 354 | Brave Dropmatch |
+| 296 | 354 | Tracy Wise |
 | 297 | 353 | Cheery Matchzone |
 | 298 | 352 | Juanita Lyons |
 | 299 | 352 | ruth |
@@ -311,8 +311,8 @@
 | 303 | 348 | Richard Horton |
 | 304 | 347 | Lawanda Forbes |
 | 305 | 347 | Cheyenne Donovan |
-| 306 | 345 | Brenda Messer |
-| 307 | 345 | Angie Bolton Workman |
+| 306 | 345 | Angie Bolton Workman |
+| 307 | 345 | Brenda Messer |
 | 308 | 345 | Rhianna DiLorenzo |
 | 309 | 344 | Ginger |
 | 310 | 344 | Glenn Cobbins |
@@ -385,8 +385,8 @@
 | 377 | 295 | Noel Tarmy |
 | 378 | 294 | Frisky Riserbuilder |
 | 379 | 294 | Barbra Miller |
-| 380 | 290 | Maya June |
-| 381 | 290 | Sabrina Burton |
+| 380 | 290 | Sabrina Burton |
+| 381 | 290 | Maya June |
 | 382 | 289 | Hyper Cluster |
 | 383 | 288 | Autumn Schaeffer |
 | 384 | 285 | June E Hanson |
@@ -426,8 +426,8 @@
 | 418 | 265 | Sassy Linkbuilder |
 | 419 | 264 | Dapper Dasher |
 | 420 | 262 | Jackie Lucas |
-| 421 | 262 | Taren Cowan |
-| 422 | 262 | Min |
+| 421 | 262 | Min |
+| 422 | 262 | Taren Cowan |
 | 423 | 261 | MrsClaudette Will'sIam Matthews |
 | 424 | 260 | Kathryn Townsley |
 | 425 | 260 | Santana Miyagi |
@@ -1055,7 +1055,7 @@
 | 1047 | 110 | Narutofreak13 |
 | 1048 | 110 | Tj Flack |
 | 1049 | 110 | Cranky Pattern |
-| 1050 | 110 | Tj Flack |
+| 1050 | 110 | Mindy Rosado |
 | 1051 | 110 | Abhishek Mutha |
 | 1052 | 109 | Jaxson |
 | 1053 | 109 | Andrew Engman |
@@ -1065,8 +1065,8 @@
 | 1057 | 109 | DreBeast |
 | 1058 | 109 | Scott |
 | 1059 | 109 | Chummy Caster |
-| 1060 | 109 | hyperbole |
-| 1061 | 109 | Dee Moore |
+| 1060 | 109 | Dee Moore |
+| 1061 | 109 | hyperbole |
 | 1062 | 108 | Katelyn Fitzsimmons |
 | 1063 | 108 | Cammy Cullen |
 | 1064 | 108 | John-Jessica Manongdo |
@@ -1084,8 +1084,8 @@
 | 1076 | 107 | BelleD |
 | 1077 | 107 | Foxxo |
 | 1078 | 107 | Miranda Morris |
-| 1079 | 106 | Tammy Ann Andrews |
-| 1080 | 106 | Damien Reinbold |
+| 1079 | 106 | Damien Reinbold |
+| 1080 | 106 | Tammy Ann Andrews |
 | 1081 | 106 | Amandacolle |
 | 1082 | 106 | Brian Baesler |
 | 1083 | 106 | Jai |

@@ -110,13 +110,13 @@
 | 102 | 321 | Dapper Snap |
 | 103 | 320 | Or Reznitsky |
 | 104 | 316 | Fancy Cascader |
-| 105 | 309 | Rich LeBlanc |
-| 106 | 309 | CeceGeGe |
+| 105 | 309 | CeceGeGe |
+| 106 | 309 | Rich LeBlanc |
 | 107 | 307 | Blocked |
 | 108 | 307 | Peggi Charon |
 | 109 | 301 | Chasity |
-| 110 | 300 | Tessina Dewey-Mancino |
-| 111 | 300 | Sherika C. McDaniels |
+| 110 | 300 | Sherika C. McDaniels |
+| 111 | 300 | Tessina Dewey-Mancino |
 | 112 | 293 | Poppy Splitter |
 | 113 | 284 | Jay Horn |
 | 114 | 277 | Logan Naccarato |
@@ -230,8 +230,8 @@
 | 222 | 141 | Christine Trester |
 | 223 | 141 | Marquita Sheard |
 | 224 | 138 | Boldy Corner |
-| 225 | 137 | Joy Petroski |
-| 226 | 137 | Cheryl Hinch Tenbrook |
+| 225 | 137 | Cheryl Hinch Tenbrook |
+| 226 | 137 | Joy Petroski |
 | 227 | 133 | Terry Jo Jones |
 | 228 | 133 | LaNette Morgan |
 | 229 | 132 | Daryn Elliott |

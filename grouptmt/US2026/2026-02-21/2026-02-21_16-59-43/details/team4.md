@@ -115,9 +115,9 @@
 | 107 | 170 | Girl |
 | 108 | 167 | Denise Carlson |
 | 109 | 164 | ThaEviLJeNiuZ |
-| 110 | 160 | Stacey Stano |
-| 111 | 160 | Crystal Carroll |
-| 112 | 160 | ZeeZee |
+| 110 | 160 | ZeeZee |
+| 111 | 160 | Stacey Stano |
+| 112 | 160 | Crystal Carroll |
 | 113 | 157 | quicksand420 |
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
@@ -125,8 +125,8 @@
 | 117 | 151 | Dana Scott |
 | 118 | 151 | Bethany Ison |
 | 119 | 150 | Ren Mc |
-| 120 | 148 | Brittany Marsh |
-| 121 | 148 | Janita Parrish |
+| 120 | 148 | Janita Parrish |
+| 121 | 148 | Brittany Marsh |
 | 122 | 147 | Chair |
 | 123 | 147 | 030Synner |
 | 124 | 147 | Jay28 |
@@ -136,16 +136,16 @@
 | 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Shannon Ferrari |
-| 132 | 140 | Jenna McGeorge |
+| 131 | 140 | Jenna McGeorge |
+| 132 | 140 | Shannon Ferrari |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Tanner Lund |
 | 135 | 136 | Serena Goodridge |
 | 136 | 135 | ĥuf |
 | 137 | 134 | Chirpy Basepiece |
-| 138 | 132 | Jessica Cagle |
-| 139 | 132 | Roger Coulter |
-| 140 | 132 | Melissa Priest Sellers |
+| 138 | 132 | Melissa Priest Sellers |
+| 139 | 132 | Jessica Cagle |
+| 140 | 132 | Roger Coulter |
 | 141 | 132 | Degenerate |
 | 142 | 131 | Angela Geist Jusinski |
 | 143 | 130 | Casey Jeffcoat |
@@ -278,9 +278,9 @@
 | 270 | 76 | Ericca Eldridge |
 | 271 | 76 | Kevin Bush |
 | 272 | 76 | Madison Sweere |
-| 273 | 75 | Rosemary Foster |
+| 273 | 75 | Kristina Black |
 | 274 | 75 | Moonsterix |
-| 275 | 75 | Kristina Black |
+| 275 | 75 | Rosemary Foster |
 | 276 | 74 | Alee Marie |
 | 277 | 74 | TRCuse |
 | 278 | 74 | Sallie Sanborn |
