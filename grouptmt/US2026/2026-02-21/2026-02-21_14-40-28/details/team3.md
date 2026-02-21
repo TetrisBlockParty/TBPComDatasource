@@ -142,8 +142,8 @@
 | 134 | 195 | Jenny Hrndz |
 | 135 | 194 | glichmod |
 | 136 | 193 | Stephanie Burtin |
-| 137 | 193 | Clever Shiftsnap |
-| 138 | 193 | Duane Bright |
+| 137 | 193 | Duane Bright |
+| 138 | 193 | Clever Shiftsnap |
 | 139 | 192 | Chasity |
 | 140 | 191 | Giddy Twistbuilder |
 | 141 | 191 | Scott Carleton |
@@ -188,10 +188,10 @@
 | 180 | 155 | Nikki Pags |
 | 181 | 154 | Angela M. Fletcher |
 | 182 | 153 | Beth Ingham |
-| 183 | 152 | Shiny Zonebuilder |
-| 184 | 152 | Katrina E Jelks |
-| 185 | 151 | Brenda Lee Vander Molen |
-| 186 | 151 | MsBee |
+| 183 | 152 | Katrina E Jelks |
+| 184 | 152 | Shiny Zonebuilder |
+| 185 | 151 | MsBee |
+| 186 | 151 | Brenda Lee Vander Molen |
 | 187 | 150 | Nicole Myers |
 | 188 | 149 | Bea Miles |
 | 189 | 149 | Angel Mendez |

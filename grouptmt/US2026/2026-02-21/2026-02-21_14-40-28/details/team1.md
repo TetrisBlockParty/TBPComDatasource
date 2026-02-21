@@ -122,8 +122,8 @@
 | 114 | 148 | Shauntina Burke |
 | 115 | 146 | Irual Hctrab |
 | 116 | 145 | BigWeenie69 |
-| 117 | 144 | Plucky Ziggy |
-| 118 | 144 | femmefatale |
+| 117 | 144 | femmefatale |
+| 118 | 144 | Plucky Ziggy |
 | 119 | 143 | Sarah Marie |
 | 120 | 142 | Colleen Wise |
 | 121 | 141 | Blaire Bruckoff |
@@ -152,8 +152,8 @@
 | 144 | 119 | April Carroll |
 | 145 | 119 | Tater |
 | 146 | 118 | Barry Mac'Ockner |
-| 147 | 116 | Jessica Russell |
-| 148 | 116 | Evie Khalil |
+| 147 | 116 | Evie Khalil |
+| 148 | 116 | Jessica Russell |
 | 149 | 115 | Mrs.Patrica |
 | 150 | 115 | Chuck Gannon |
 | 151 | 113 | Desiree Deschaine Havee |

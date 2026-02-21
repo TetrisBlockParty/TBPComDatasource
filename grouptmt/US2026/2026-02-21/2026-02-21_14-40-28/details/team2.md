@@ -226,8 +226,8 @@
 | 218 | 411 | Ricky Fortune |
 | 219 | 409 | Sparkles |
 | 220 | 406 | Erin StFrancis |
-| 221 | 405 | Christy Krissie |
-| 222 | 405 | Sarah Massey |
+| 221 | 405 | Sarah Massey |
+| 222 | 405 | Christy Krissie |
 | 223 | 402 | Joshua Mandel |
 | 224 | 400 | Rhonda Milstead |
 | 225 | 400 | Tammy Allen |
@@ -283,8 +283,8 @@
 | 275 | 338 | Lawanda Forbes |
 | 276 | 335 | Brooke Leigh Strube |
 | 277 | 334 | Moni Foxe |
-| 278 | 334 | Missie Lawson Gebhardt |
-| 279 | 334 | Felicia Lynn |
+| 278 | 334 | Felicia Lynn |
+| 279 | 334 | Missie Lawson Gebhardt |
 | 280 | 333 | Brittney Jean |
 | 281 | 333 | ShinyRose |
 | 282 | 333 | Taylor Flowers |
