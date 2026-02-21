@@ -195,10 +195,10 @@
 | 187 | 184 | Troy |
 | 188 | 182 | Hyper Matchzone |
 | 189 | 181 | Nicholas Roddy |
-| 190 | 179 | Ashley Jones |
-| 191 | 179 | Daira Largen |
-| 192 | 178 | Ryan Williams |
-| 193 | 178 | AlsoJess |
+| 190 | 179 | Daira Largen |
+| 191 | 179 | Ashley Jones |
+| 192 | 178 | AlsoJess |
+| 193 | 178 | Ryan Williams |
 | 194 | 177 | Trisha Balmer |
 | 195 | 175 | Tasha Wesson-Torrence |
 | 196 | 175 | Connie Mohler-Fair |
@@ -216,8 +216,8 @@
 | 208 | 166 | Betty Rosas |
 | 209 | 166 | Beth Ingham |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Christine Trester |
-| 212 | 163 | Stephanie Hill |
+| 211 | 163 | Stephanie Hill |
+| 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | Irene Arreguin |
 | 215 | 161 | BŘŰŤİÇŨŚ |

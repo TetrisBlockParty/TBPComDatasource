@@ -121,8 +121,8 @@
 | 113 | 190 | Sweetts |
 | 114 | 189 | Happy Basegrid |
 | 115 | 188 | Sam Williams |
-| 116 | 187 | Snippy Wipebuilder |
-| 117 | 187 | Plucky Ziggy |
+| 116 | 187 | Plucky Ziggy |
+| 117 | 187 | Snippy Wipebuilder |
 | 118 | 186 | Jennifer Olewnik Soborowski |
 | 119 | 185 | Ash Galvan |
 | 120 | 182 | Spunky Piecebuilder |
@@ -133,8 +133,8 @@
 | 125 | 176 | Basment Living |
 | 126 | 175 | Nicole Roseberry Weber |
 | 127 | 174 | Michael |
-| 128 | 171 | David DeSantis |
-| 129 | 171 | Greg Premoe |
+| 128 | 171 | Greg Premoe |
+| 129 | 171 | David DeSantis |
 | 130 | 170 | Veronica Eve |
 | 131 | 169 | Abbey Crespo |
 | 132 | 168 | Standia Civil |
