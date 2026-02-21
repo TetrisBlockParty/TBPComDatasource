@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Carmethia Clemons Haslerig |
-| 20 | 383 | Johnathan Martinez |
+| 19 | 383 | Johnathan Martinez |
+| 20 | 383 | Carmethia Clemons Haslerig |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -175,8 +175,8 @@
 | 167 | 74 | Melvin Baird |
 | 168 | 73 | April Rondinone |
 | 169 | 73 | bloat princess |
-| 170 | 72 | Robin Getchel |
-| 171 | 72 | Joshua Cuellar |
+| 170 | 72 | Joshua Cuellar |
+| 171 | 72 | Robin Getchel |
 | 172 | 71 | Lindsey Gonzalez |
 | 173 | 71 | Marcela Johnson |
 | 174 | 70 | Richard-April Kice |

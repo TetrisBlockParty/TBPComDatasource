@@ -516,8 +516,8 @@
 | 508 | 133 | Candy Pitts |
 | 509 | 133 | Jess Orosz |
 | 510 | 133 | Rae Rae |
-| 511 | 132 | Paula Snyder |
-| 512 | 132 | Eric Carlson |
+| 511 | 132 | Eric Carlson |
+| 512 | 132 | Paula Snyder |
 | 513 | 132 | Chilly Rollblock |
 | 514 | 131 | Zeleana Perry |
 | 515 | 131 | Deidre Shaffer |

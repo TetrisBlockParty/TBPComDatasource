@@ -53,8 +53,8 @@
 | 45 | 201 | Anaid Sanchez |
 | 46 | 201 | Ananda Mendez |
 | 47 | 200 | Lexuriuos Lifestlye |
-| 48 | 198 | Billie Dawn Sparks |
-| 49 | 198 | Happy Snapbuild |
+| 48 | 198 | Happy Snapbuild |
+| 49 | 198 | Billie Dawn Sparks |
 | 50 | 194 | Sharon Reynolds |
 | 51 | 192 | Mandyy Rae |
 | 52 | 191 | Jazzy Framezone |
@@ -85,8 +85,8 @@
 | 77 | 143 | Sarah Marie |
 | 78 | 141 | Blaire Bruckoff |
 | 79 | 141 | Susanna Guerry |
-| 80 | 137 | Gary Gobin |
-| 81 | 137 | Nadine Velardo |
+| 80 | 137 | Nadine Velardo |
+| 81 | 137 | Gary Gobin |
 | 82 | 136 | Felicia Lewis |
 | 83 | 133 | Brandi Huntington |
 | 84 | 132 | Davery Spencer Adair |
@@ -95,8 +95,8 @@
 | 87 | 128 | Uhog SF |
 | 88 | 126 | Cece Ibarra |
 | 89 | 121 | Bouncy Grid |
-| 90 | 119 | Irual Hctrab |
-| 91 | 119 | Tater |
+| 90 | 119 | Tater |
+| 91 | 119 | Irual Hctrab |
 | 92 | 115 | comrade fish |
 | 93 | 114 | Colleen Wise |
 | 94 | 114 | Giddy Cascade |
