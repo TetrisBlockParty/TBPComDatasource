@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Josiah Fam |
-| 21 | 1015 | Jennifer Willis |
+| 20 | 1015 | Jennifer Willis |
+| 21 | 1015 | Josiah Fam |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -90,8 +90,8 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | Rich LeBlanc |
-| 86 | 309 | CeceGeGe |
+| 85 | 309 | CeceGeGe |
+| 86 | 309 | Rich LeBlanc |
 | 87 | 307 | Peggi Charon |
 | 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
@@ -129,8 +129,8 @@
 | 121 | 195 | Jenny Hrndz |
 | 122 | 195 | Nicha Hooker |
 | 123 | 194 | glichmod |
-| 124 | 193 | Clever Shiftsnap |
-| 125 | 193 | Stephanie Burtin |
+| 124 | 193 | Stephanie Burtin |
+| 125 | 193 | Clever Shiftsnap |
 | 126 | 192 | Chasity |
 | 127 | 191 | Giddy Twistbuilder |
 | 128 | 191 | Scott Carleton |
@@ -254,19 +254,19 @@
 | 246 | 100 | Demetrious Shaw Sr. |
 | 247 | 100 | Donna |
 | 248 | 100 | Edwin Calvillo Jr. |
-| 249 | 99 | MizzMonick Smith |
-| 250 | 99 | Michael Nowogorski |
-| 251 | 99 | Nichol Graham |
+| 249 | 99 | Michael Nowogorski |
+| 250 | 99 | Nichol Graham |
+| 251 | 99 | MizzMonick Smith |
 | 252 | 98 | Jocelyne Baca |
 | 253 | 98 | Erika Thornton |
 | 254 | 98 | Armi |
 | 255 | 98 | Funky Jumper |
 | 256 | 97 | Ashley Jones |
-| 257 | 96 | Jason-Ashley Ludlow |
+| 257 | 96 | Christopher Woost |
 | 258 | 96 | D3NO |
 | 259 | 96 | Tasha Wesson-Torrence |
-| 260 | 96 | Hanna Kim |
-| 261 | 96 | Christopher Woost |
+| 260 | 96 | Jason-Ashley Ludlow |
+| 261 | 96 | Hanna Kim |
 | 262 | 95 | Brooke Bauer |
 | 263 | 94 | Tracey Cox |
 | 264 | 94 | Andrew Thorson |

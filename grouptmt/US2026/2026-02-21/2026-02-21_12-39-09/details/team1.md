@@ -65,8 +65,8 @@
 | 57 | 225 | Elaine Elaine |
 | 58 | 217 | Deanna L Hermanson |
 | 59 | 216 | Hyp James NObettadanluvarat |
-| 60 | 212 | Tdub |
-| 61 | 212 | Jaimie Lynn |
+| 60 | 212 | Jaimie Lynn |
+| 61 | 212 | Tdub |
 | 62 | 211 | Marianita Garcia |
 | 63 | 208 | Mandyy Rae |
 | 64 | 208 | Carrie Beck Geartz |
@@ -192,7 +192,7 @@
 | 184 | 85 | John Barron |
 | 185 | 84 | Eddie Dillon |
 | 186 | 84 | Speedy Snapfall |
-| 187 | 84 | Kayla Marie Stevenson |
+| 187 | 84 | Yvonne Marie |
 | 188 | 84 | Rachel Nichole Henry |
 | 189 | 84 | Kayla Marie Stevenson |
 | 190 | 83 | Daring Fitclear |

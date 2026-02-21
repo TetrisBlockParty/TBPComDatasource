@@ -76,8 +76,8 @@
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
 | 70 | 181 | Andy Cabral |
-| 71 | 180 | Leah Kutz Zirbel |
-| 72 | 180 | shar |
+| 71 | 180 | shar |
+| 72 | 180 | Leah Kutz Zirbel |
 | 73 | 179 | Epic Curvetile |
 | 74 | 178 | Lori |
 | 75 | 176 | KM8 |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -124,9 +124,9 @@
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
-| 119 | 123 | Cherrish Duren |
-| 120 | 123 | TinyLegoRose |
-| 121 | 123 | Bubbly Puzzler |
+| 119 | 123 | Bubbly Puzzler |
+| 120 | 123 | Cherrish Duren |
+| 121 | 123 | TinyLegoRose |
 | 122 | 122 | Sherri |
 | 123 | 121 | Smiley Tiltbuilder |
 | 124 | 121 | Megan Cutshaw |
@@ -173,8 +173,8 @@
 | 165 | 97 | Brandi Durig |
 | 166 | 97 | Ali Ian |
 | 167 | 96 | Zappy Snaplink |
-| 168 | 96 | Sammy Noguera |
-| 169 | 96 | Marcus TheeyoungWoe Gilmore |
+| 168 | 96 | Marcus TheeyoungWoe Gilmore |
+| 169 | 96 | Sammy Noguera |
 | 170 | 95 | Victoria Faniel |
 | 171 | 95 | Meagan Nicole |
 | 172 | 94 | Chastity Mitchell |
