@@ -105,8 +105,8 @@
 | 97 | 96 | Nery Martinez |
 | 98 | 95 | Spunky Piecebuilder |
 | 99 | 94 | Bindi |
-| 100 | 93 | Adryane Schnase |
-| 101 | 93 | Loony Fitzone |
+| 100 | 93 | Loony Fitzone |
+| 101 | 93 | Adryane Schnase |
 | 102 | 92 | Franswa |
 | 103 | 90 | Madison Wicks |
 | 104 | 90 | TSwag |

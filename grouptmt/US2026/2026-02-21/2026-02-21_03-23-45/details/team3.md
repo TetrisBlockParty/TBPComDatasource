@@ -135,8 +135,8 @@
 | 127 | 115 | Jennifer Alvey |
 | 128 | 115 | Connie Mohler-Fair |
 | 129 | 114 | Jessica Bechler |
-| 130 | 110 | Tiff Vs Tiffany |
-| 131 | 110 | Stella |
+| 130 | 110 | Stella |
+| 131 | 110 | Tiff Vs Tiffany |
 | 132 | 109 | Fredd Thomas |
 | 133 | 109 | Brian Battjes |
 | 134 | 108 | Jay Horn |

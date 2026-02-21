@@ -49,8 +49,8 @@
 | 41 | 170 | Girl |
 | 42 | 168 | Anthony Magaraci |
 | 43 | 153 | Jae Job |
-| 44 | 152 | Denise Carlson |
-| 45 | 152 | Courtney Cicoria |
+| 44 | 152 | Courtney Cicoria |
+| 45 | 152 | Denise Carlson |
 | 46 | 148 | Carter Jones |
 | 47 | 145 | Edward White |
 | 48 | 140 | Shannon Ferrari |
@@ -124,8 +124,8 @@
 | 116 | 79 | Shainne Brewer |
 | 117 | 78 | Zesty Linkgrid |
 | 118 | 78 | Chair |
-| 119 | 77 | Chris Alexinas |
-| 120 | 77 | Destiney Carter |
+| 119 | 77 | Destiney Carter |
+| 120 | 77 | Chris Alexinas |
 | 121 | 76 | Bethany Ison |
 | 122 | 76 | Jessica Miller |
 | 123 | 75 | Rosemary Foster |
