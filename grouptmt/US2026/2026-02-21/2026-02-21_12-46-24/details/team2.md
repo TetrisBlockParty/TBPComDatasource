@@ -153,8 +153,8 @@
 | 145 | 522 | Slip |
 | 146 | 520 | Kimberly Schall |
 | 147 | 517 | Debra Williams |
-| 148 | 515 | Kaylee McCafferty |
-| 149 | 515 | Real Ri |
+| 148 | 515 | Real Ri |
+| 149 | 515 | Kaylee McCafferty |
 | 150 | 514 | Ashley House |
 | 151 | 513 | Butta |
 | 152 | 511 | Ramone Armstrong |
@@ -217,8 +217,8 @@
 | 209 | 390 | Lylymom |
 | 210 | 386 | Ashie Ann |
 | 211 | 386 | Macy Williams |
-| 212 | 385 | Sam |
-| 213 | 385 | Arwa Fatimah |
+| 212 | 385 | Arwa Fatimah |
+| 213 | 385 | Sam |
 | 214 | 381 | Amanda Ferrell |
 | 215 | 380 | Calandra Shaya Robinson |
 | 216 | 378 | Cody Nishimura |
@@ -434,15 +434,15 @@
 | 426 | 207 | Brave Gridpiece |
 | 427 | 207 | Melissa McCall |
 | 428 | 207 | Shylee Tilman |
-| 429 | 206 | RAEPR05 |
-| 430 | 206 | Neko Preston |
+| 429 | 206 | Neko Preston |
+| 430 | 206 | RAEPR05 |
 | 431 | 205 | ElizabethAnn Dickinson |
 | 432 | 204 | Ali Gralski |
 | 433 | 204 | Rebecca Doughman |
 | 434 | 203 | Gary Stash |
 | 435 | 202 | Layna Lyons |
-| 436 | 201 | Twisty Tetriblast |
-| 437 | 201 | Poldo Ilano |
+| 436 | 201 | Poldo Ilano |
+| 437 | 201 | Twisty Tetriblast |
 | 438 | 201 | Peppy Snapfall |
 | 439 | 200 | Sarah Ridenour |
 | 440 | 200 | LaWanda Powell |

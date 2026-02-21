@@ -68,8 +68,8 @@
 | 60 | 212 | Tdub |
 | 61 | 212 | Jaimie Lynn |
 | 62 | 211 | Marianita Garcia |
-| 63 | 208 | Mandyy Rae |
-| 64 | 208 | Carrie Beck Geartz |
+| 63 | 208 | Carrie Beck Geartz |
+| 64 | 208 | Mandyy Rae |
 | 65 | 205 | Trippy Redd |
 | 66 | 204 | Ly Phethmany |
 | 67 | 202 | Dee Perry |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Thorne Shumate |
-| 80 | 190 | Sweetts |
+| 79 | 190 | Sweetts |
+| 80 | 190 | Thorne Shumate |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |

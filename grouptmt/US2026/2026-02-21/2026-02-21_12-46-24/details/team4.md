@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Valerie Roberts |
-| 20 | 590 | Dee Kay |
+| 19 | 590 | Dee Kay |
+| 20 | 590 | Valerie Roberts |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 511 | LisaJo Picken Buchanan |
@@ -88,8 +88,8 @@
 | 80 | 170 | Girl |
 | 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Casey Grabner |
-| 84 | 165 | Courtney Cicoria |
+| 83 | 165 | Courtney Cicoria |
+| 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
 | 87 | 160 | Carter Jones |
@@ -108,9 +108,9 @@
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Serena Goodridge |
-| 104 | 134 | Chirpy Basepiece |
-| 105 | 134 | Jessica Bohlken |
+| 103 | 134 | Chirpy Basepiece |
+| 104 | 134 | Jessica Bohlken |
+| 105 | 134 | Serena Goodridge |
 | 106 | 133 | Robin Watters |
 | 107 | 132 | Jessica Cagle |
 | 108 | 132 | Degenerate |
@@ -183,8 +183,8 @@
 | 175 | 94 | Kim Hunt |
 | 176 | 93 | Zesty Twistbuilder |
 | 177 | 92 | Misty Hollibaugh |
-| 178 | 90 | Amy Suckarieh |
-| 179 | 90 | No Strings Attached Ra |
+| 178 | 90 | No Strings Attached Ra |
+| 179 | 90 | Amy Suckarieh |
 | 180 | 89 | shark tato |
 | 181 | 89 | mike |
 | 182 | 88 | Heather Tushner |
