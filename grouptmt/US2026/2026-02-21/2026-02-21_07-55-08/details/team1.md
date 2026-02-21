@@ -84,8 +84,8 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |

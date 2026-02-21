@@ -58,8 +58,8 @@
 | 50 | 256 | Brittney Griggs |
 | 51 | 244 | Isabella Blanco |
 | 52 | 241 | Desi Desporte |
-| 53 | 231 | Michelle Marie |
-| 54 | 231 | Jenna Ingersoll |
+| 53 | 231 | Jenna Ingersoll |
+| 54 | 231 | Michelle Marie |
 | 55 | 226 | Breannah Grafe |
 | 56 | 207 | Alyssa Papen |
 | 57 | 205 | Sarah Neathery |
@@ -188,8 +188,8 @@
 | 180 | 81 | Michelle Parker |
 | 181 | 80 | Melissa Adams |
 | 182 | 79 | Perky Piecegrid |
-| 183 | 79 | Joseph Pace |
-| 184 | 79 | Kametsunoyaiba |
+| 183 | 79 | Kametsunoyaiba |
+| 184 | 79 | Joseph Pace |
 | 185 | 78 | Jessica Miller |
 | 186 | 78 | Zesty Linkgrid |
 | 187 | 77 | Twisty Cascadezone |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Christina Black |
-| 194 | 75 | Rosemary Foster |
+| 193 | 75 | Rosemary Foster |
+| 194 | 75 | Christina Black |
 | 195 | 74 | Krs |
 | 196 | 73 | Lynn Marie |
 | 197 | 73 | bloat princess |
@@ -251,8 +251,8 @@
 | 243 | 61 | Alee Marie |
 | 244 | 61 | Chilly Crasher |
 | 245 | 61 | Jackson Karen |
-| 246 | 61 | Bradley Reeves |
-| 247 | 61 | Shauna Havard |
+| 246 | 61 | Shauna Havard |
+| 247 | 61 | Bradley Reeves |
 | 248 | 60 | Ahleek Mitchell |
 | 249 | 59 | Lori |
 | 250 | 59 | Jasmine S Caldwell |
@@ -292,14 +292,14 @@
 | 284 | 54 | Joseph Bodon |
 | 285 | 53 | Allison Judith |
 | 286 | 53 | Poppy Brickmatch |
-| 287 | 52 | Nerdy Twisterfit |
-| 288 | 52 | Chassidy Martin |
+| 287 | 52 | Chassidy Martin |
+| 288 | 52 | Nerdy Twisterfit |
 | 289 | 52 | Nicole Silvers |
 | 290 | 52 | Susan Williams |
-| 291 | 51 | George Nutt |
-| 292 | 51 | Frank Cook |
-| 293 | 50 | Elie Pean |
-| 294 | 50 | Kelly Duncan |
+| 291 | 51 | Frank Cook |
+| 292 | 51 | George Nutt |
+| 293 | 50 | Kelly Duncan |
+| 294 | 50 | Elie Pean |
 | 295 | 50 | Christian Torres |
 | 296 | 50 | Smiley Linkgrid |
 | 297 | 50 | Mike |

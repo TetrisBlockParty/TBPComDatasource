@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -322,8 +322,8 @@
 | 314 | 245 | Taryece Gause |
 | 315 | 245 | Mischelle Clay |
 | 316 | 244 | Aimee Byrom |
-| 317 | 243 | Brandy Andre |
-| 318 | 243 | Mikayala Szaz |
+| 317 | 243 | Mikayala Szaz |
+| 318 | 243 | Brandy Andre |
 | 319 | 242 | Donna Chandler |
 | 320 | 241 | Sabrina Burton |
 | 321 | 240 | Adam Erikson |
@@ -424,8 +424,8 @@
 | 416 | 183 | Wakanda Forever |
 | 417 | 183 | Ys Muhammed |
 | 418 | 182 | Donna M Carter |
-| 419 | 181 | Julay |
-| 420 | 181 | Wacky Cascade |
+| 419 | 181 | Wacky Cascade |
+| 420 | 181 | Julay |
 | 421 | 181 | Fi Ne |
 | 422 | 180 | Jackie Lucas |
 | 423 | 180 | Peter Palestino |
