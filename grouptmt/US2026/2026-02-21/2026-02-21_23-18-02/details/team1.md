@@ -151,8 +151,8 @@
 | 143 | 180 | Michael |
 | 144 | 180 | Erez Yosef |
 | 145 | 179 | Danielle Little-Daugherty |
-| 146 | 178 | Chad Atchley |
-| 147 | 178 | Shiny Gridmatch |
+| 146 | 178 | Shiny Gridmatch |
+| 147 | 178 | Chad Atchley |
 | 148 | 177 | ParisandCory Champagne |
 | 149 | 175 | John Barron |
 | 150 | 175 | Irual Hctrab |
@@ -184,8 +184,8 @@
 | 176 | 150 | ALFD |
 | 177 | 148 | Bouncy Grid |
 | 178 | 148 | Shauntina Burke |
-| 179 | 147 | Angela Fairbank |
-| 180 | 147 | Davery Spencer Adair |
+| 179 | 147 | Davery Spencer Adair |
+| 180 | 147 | Angela Fairbank |
 | 181 | 145 | Agustin Duarte Orozco |
 | 182 | 144 | Cranky Pattern |
 | 183 | 144 | Miguel Teixeira |

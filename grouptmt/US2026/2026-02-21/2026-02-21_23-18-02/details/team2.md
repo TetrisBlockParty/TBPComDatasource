@@ -140,8 +140,8 @@
 | 132 | 881 | Tanya Parsons |
 | 133 | 875 | Kelly Trent |
 | 134 | 869 | Desiree Harris Rosch |
-| 135 | 867 | Rosa Franklin |
-| 136 | 867 | Michele Gabriel |
+| 135 | 867 | Michele Gabriel |
+| 136 | 867 | Rosa Franklin |
 | 137 | 861 | Jennifer Peachey |
 | 138 | 859 | Ray Ray Prado |
 | 139 | 849 | Jennifer Kistner |
@@ -377,8 +377,8 @@
 | 369 | 391 | Chilly Bridgepiece |
 | 370 | 390 | Caitlin Schmid |
 | 371 | 386 | Irene Jones |
-| 372 | 384 | Johnny Yeates |
-| 373 | 384 | Mike Aprilliano |
+| 372 | 384 | Mike Aprilliano |
+| 373 | 384 | Johnny Yeates |
 | 374 | 383 | Arkei Luster |
 | 375 | 382 | David Holliday |
 | 376 | 382 | KhaosLord |
@@ -973,7 +973,7 @@
 | 965 | 159 | Renee Griffith |
 | 966 | 158 | Toni Roberson |
 | 967 | 158 | Andre Love |
-| 968 | 158 | John Cleland |
+| 968 | 158 | Erica Dale |
 | 969 | 158 | SpaceCase085 |
 | 970 | 158 | Tyler C. Jung |
 | 971 | 158 | John Cleland |

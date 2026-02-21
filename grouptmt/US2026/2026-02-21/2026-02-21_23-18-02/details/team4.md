@@ -160,14 +160,14 @@
 | 152 | 156 | Holly |
 | 153 | 155 | AyeKay |
 | 154 | 153 | Empress Oasis |
-| 155 | 153 | Chair |
-| 156 | 153 | Avy Absol |
+| 155 | 153 | Avy Absol |
+| 156 | 153 | Chair |
 | 157 | 152 | Roger Coulter |
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |
 | 160 | 148 | Mr. Party |
-| 161 | 148 | Janita Parrish |
-| 162 | 148 | Brittany Marsh |
+| 161 | 148 | Brittany Marsh |
+| 162 | 148 | Janita Parrish |
 | 163 | 147 | Jay28 |
 | 164 | 144 | Meagan Nicole |
 | 165 | 143 | Mary Ann Pabukis |

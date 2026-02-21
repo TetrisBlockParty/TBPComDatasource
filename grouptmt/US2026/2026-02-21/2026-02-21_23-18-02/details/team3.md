@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Kristie McFarland |
-| 93 | 445 | Silly Twist |
+| 92 | 445 | Silly Twist |
+| 93 | 445 | Kristie McFarland |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -195,8 +195,8 @@
 | 187 | 211 | Katrina Turner |
 | 188 | 211 | Khaleada McGill Banks |
 | 189 | 210 | Michael Lucado |
-| 190 | 207 | Jessica |
-| 191 | 207 | Chris Bell |
+| 190 | 207 | Chris Bell |
+| 191 | 207 | Jessica |
 | 192 | 205 | Sarah Moyer |
 | 193 | 204 | Danielle Allison |
 | 194 | 203 | Twisty Brick LT |
@@ -243,10 +243,10 @@
 | 235 | 169 | BŘŰŤİÇŨŚ |
 | 236 | 169 | Daryn Elliott |
 | 237 | 168 | MsBee |
-| 238 | 166 | Beth Ingham |
-| 239 | 166 | Betty Rosas |
-| 240 | 165 | Irene Arreguin |
-| 241 | 165 | Kali Kelz Williams |
+| 238 | 166 | Betty Rosas |
+| 239 | 166 | Beth Ingham |
+| 240 | 165 | Kali Kelz Williams |
+| 241 | 165 | Irene Arreguin |
 | 242 | 163 | Stephanie Hill |
 | 243 | 163 | Christine Trester |
 | 244 | 162 | Loopy Fallzone |
