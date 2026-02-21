@@ -357,9 +357,9 @@
 | 349 | 369 | Tara Lynn Janes |
 | 350 | 367 | Deyawn Smith |
 | 351 | 366 | Heather Schelkopf |
-| 352 | 366 | Jaycee |
+| 352 | 366 | Mike Aprilliano |
 | 353 | 366 | Wuntayk |
-| 354 | 366 | Mike Aprilliano |
+| 354 | 366 | Jaycee |
 | 355 | 365 | Christina Lewis-Vickers |
 | 356 | 365 | Kayla |
 | 357 | 365 | Audrey Jones |
@@ -376,8 +376,8 @@
 | 368 | 357 | Shannon Byrd |
 | 369 | 356 | Adam Simmons |
 | 370 | 355 | Shandrica Lowe |
-| 371 | 354 | Darlene Bowman |
-| 372 | 354 | Lawanda Forbes |
+| 371 | 354 | Lawanda Forbes |
+| 372 | 354 | Darlene Bowman |
 | 373 | 354 | Rickey Johnson |
 | 374 | 353 | Cheery Matchzone |
 | 375 | 352 | Juanita Lyons |

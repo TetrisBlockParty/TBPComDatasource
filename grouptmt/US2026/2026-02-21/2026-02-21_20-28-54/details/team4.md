@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -114,8 +114,8 @@
 | 106 | 194 | Zany Twisterfit |
 | 107 | 192 | Crystal Carroll |
 | 108 | 192 | Shauna Havard |
-| 109 | 191 | loulou |
-| 110 | 191 | Melvin Baird |
+| 109 | 191 | Melvin Baird |
+| 110 | 191 | loulou |
 | 111 | 189 | Calvin Dennis |
 | 112 | 188 | quicksand420 |
 | 113 | 188 | Katherine Crane |

@@ -69,8 +69,8 @@
 | 61 | 577 | Danielle Mogg |
 | 62 | 569 | Elaine Webb Graves |
 | 63 | 566 | Dan Rob |
-| 64 | 561 | Rachael McClain Owens |
-| 65 | 561 | Dolores Falco |
+| 64 | 561 | Dolores Falco |
+| 65 | 561 | Rachael McClain Owens |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
 | 68 | 552 | Katrina Schroeder |
@@ -104,13 +104,13 @@
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
 | 98 | 384 | Shannon Matthew Byers |
-| 99 | 378 | Tasha Schriewer |
-| 100 | 378 | Makelini Mausia |
+| 99 | 378 | Makelini Mausia |
+| 100 | 378 | Tasha Schriewer |
 | 101 | 372 | Jessica Bechler |
 | 102 | 371 | Jesse Olive |
 | 103 | 368 | Stephanie Woods |
-| 104 | 367 | mjl574 |
-| 105 | 367 | Nerdy Riseclear |
+| 104 | 367 | Nerdy Riseclear |
+| 105 | 367 | mjl574 |
 | 106 | 366 | Speedy Bridger |
 | 107 | 356 | Adrian Marcel Pate |
 | 108 | 350 | Tiff Vs Tiffany |
@@ -202,8 +202,8 @@
 | 194 | 179 | Ashley Jones |
 | 195 | 179 | Tipsy Zonebuilder |
 | 196 | 179 | Daira Largen |
-| 197 | 178 | Ryan Williams |
-| 198 | 178 | AlsoJess |
+| 197 | 178 | AlsoJess |
+| 198 | 178 | Ryan Williams |
 | 199 | 177 | Trisha Balmer |
 | 200 | 175 | Tasha Wesson-Torrence |
 | 201 | 175 | DanceLuvLaugh |
