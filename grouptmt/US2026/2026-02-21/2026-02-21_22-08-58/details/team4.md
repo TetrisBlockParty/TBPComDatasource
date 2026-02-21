@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | Marie-Pier Desjardins |
-| 66 | 376 | quicksand420 |
+| 65 | 376 | quicksand420 |
+| 66 | 376 | Marie-Pier Desjardins |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |
@@ -141,8 +141,8 @@
 | 133 | 176 | Klo |
 | 134 | 175 | Ren Mc |
 | 135 | 174 | shark tato |
-| 136 | 174 | Dihcheese444 |
-| 137 | 174 | Zethra Prenisha Rahming |
+| 136 | 174 | Zethra Prenisha Rahming |
+| 137 | 174 | Dihcheese444 |
 | 138 | 173 | blockstar |
 | 139 | 171 | Diana Houts |
 | 140 | 170 | Amy Suckarieh |
@@ -154,8 +154,8 @@
 | 146 | 153 | Empress Oasis |
 | 147 | 153 | Avy Absol |
 | 148 | 151 | Bethany Ison |
-| 149 | 149 | Roger Coulter |
-| 150 | 149 | Shainne Brewer |
+| 149 | 149 | Shainne Brewer |
+| 150 | 149 | Roger Coulter |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
 | 153 | 147 | Jay28 |
@@ -167,8 +167,8 @@
 | 159 | 141 | Marcus Todd |
 | 160 | 141 | Kathy Allen |
 | 161 | 140 | Shannon Ferrari |
-| 162 | 140 | John Brunetti |
-| 163 | 140 | Stephme310 |
+| 162 | 140 | Stephme310 |
+| 163 | 140 | John Brunetti |
 | 164 | 137 | PeaceOs |
 | 165 | 136 | Tanner Lund |
 | 166 | 136 | Sarah Brown |

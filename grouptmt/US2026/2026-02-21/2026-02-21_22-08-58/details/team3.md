@@ -42,8 +42,8 @@
 | 34 | 996 | Danielle Cutler |
 | 35 | 989 | Kay |
 | 36 | 979 | Liv Whetson |
-| 37 | 928 | Stephanie Rice |
-| 38 | 928 | Snappy Fitzone |
+| 37 | 928 | Snappy Fitzone |
+| 38 | 928 | Stephanie Rice |
 | 39 | 917 | Mahman |
 | 40 | 879 | Shonna Roberts |
 | 41 | 877 | Fancy Slam |
@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Katrina Schroeder |
-| 62 | 582 | Natasha Jones |
+| 61 | 582 | Natasha Jones |
+| 62 | 582 | Katrina Schroeder |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -128,8 +128,8 @@
 | 120 | 332 | Chauntee Alfrey-Cardinale |
 | 121 | 327 | Dapper Snap |
 | 122 | 324 | Fancy Cascader |
-| 123 | 323 | Sherry Ogden |
-| 124 | 323 | Ashley Raines |
+| 123 | 323 | Ashley Raines |
+| 124 | 323 | Sherry Ogden |
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |

@@ -171,13 +171,13 @@
 | 163 | 152 | Speedy Snapfall |
 | 164 | 150 | David Miller |
 | 165 | 150 | Adele Rahman |
-| 166 | 148 | Shauntina Burke |
-| 167 | 148 | Bouncy Grid |
-| 168 | 147 | ALFD |
-| 169 | 147 | Davery Spencer Adair |
+| 166 | 148 | Bouncy Grid |
+| 167 | 148 | Shauntina Burke |
+| 168 | 147 | Davery Spencer Adair |
+| 169 | 147 | ALFD |
 | 170 | 146 | Christy Jones |
-| 171 | 145 | Agustin Duarte Orozco |
-| 172 | 145 | Angela Fairbank |
+| 171 | 145 | Angela Fairbank |
+| 172 | 145 | Agustin Duarte Orozco |
 | 173 | 144 | Gary Gobin |
 | 174 | 144 | Cranky Pattern |
 | 175 | 144 | femmefatale |

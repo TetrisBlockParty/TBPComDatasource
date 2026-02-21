@@ -110,8 +110,8 @@
 | 102 | 1048 | PsychKIRAtrist |
 | 103 | 1035 | Donnie Hunt |
 | 104 | 1017 | Sarah Freitas |
-| 105 | 1011 | Amy Sayers |
-| 106 | 1011 | Brave Dropmatch |
+| 105 | 1011 | Brave Dropmatch |
+| 106 | 1011 | Amy Sayers |
 | 107 | 995 | Samantha Roberts |
 | 108 | 986 | RAEPR05 |
 | 109 | 983 | Anna Edwards |
@@ -382,14 +382,14 @@
 | 374 | 369 | AkaLefty |
 | 375 | 369 | Tara Lynn Janes |
 | 376 | 369 | Victoria Moore-Smith |
-| 377 | 369 | Tara Lynn Janes |
+| 377 | 369 | Tony Lea |
 | 378 | 367 | Deyawn Smith |
 | 379 | 365 | Audrey Jones |
-| 380 | 365 | Kayla |
-| 381 | 365 | Christina Lewis-Vickers |
-| 382 | 364 | Julie Kresal |
+| 380 | 365 | Christina Lewis-Vickers |
+| 381 | 365 | Kayla |
+| 382 | 364 | Lively Edgepiece |
 | 383 | 364 | Shinette Dobson |
-| 384 | 364 | Lively Edgepiece |
+| 384 | 364 | Julie Kresal |
 | 385 | 363 | Happy Caster |
 | 386 | 362 | Tracy Wise |
 | 387 | 360 | Brenda Messer |
@@ -431,8 +431,8 @@
 | 423 | 337 | Sassy Pattern |
 | 424 | 336 | Hong Tang |
 | 425 | 335 | Brooke Leigh Strube |
-| 426 | 334 | Peppy Snapfall |
-| 427 | 334 | Brittney Jean |
+| 426 | 334 | Brittney Jean |
+| 427 | 334 | Peppy Snapfall |
 | 428 | 333 | Tra Barnum |
 | 429 | 332 | Nicole Cannon |
 | 430 | 331 | Kia Humphery |
@@ -784,8 +784,8 @@
 | 776 | 183 | Tiara Elizabeth Baker |
 | 777 | 183 | Lynzekwi |
 | 778 | 183 | Giggy Mover |
-| 779 | 182 | Dorinda Palato |
-| 780 | 182 | Tammie Siegfried |
+| 779 | 182 | Tammie Siegfried |
+| 780 | 182 | Dorinda Palato |
 | 781 | 182 | Wedance Fong |
 | 782 | 182 | Veronica Guerra |
 | 783 | 182 | Sharon Crawford |
@@ -804,9 +804,9 @@
 | 796 | 179 | Ibiza Carolina LaRose |
 | 797 | 179 | Andrew Bratton-Tomes |
 | 798 | 178 | BTA |
-| 799 | 178 | Dandy Combo |
-| 800 | 178 | Kim McGrath |
-| 801 | 178 | Wungun Shun |
+| 799 | 178 | Kim McGrath |
+| 800 | 178 | Wungun Shun |
+| 801 | 178 | Dandy Combo |
 | 802 | 178 | Hyper Gridroll |
 | 803 | 177 | Leslie Porter |
 | 804 | 177 | RaeVan Worthington |
