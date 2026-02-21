@@ -135,15 +135,15 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | AlsoJess |
 | 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Betty Rosas |
+| 137 | 166 | Betty Rosas |
+| 138 | 166 | Danielle Mogg |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | DanceLuvLaugh |
@@ -264,8 +264,8 @@
 | 256 | 96 | Tasha Wesson-Torrence |
 | 257 | 96 | Jason-Ashley Ludlow |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Angie Harper |
-| 260 | 94 | Andrew Thorson |
+| 259 | 94 | Andrew Thorson |
+| 260 | 94 | Angie Harper |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Jennifer Caputo |
 | 263 | 92 | Trice Thomas |

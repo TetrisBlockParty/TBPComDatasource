@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -107,16 +107,16 @@
 | 99 | 138 | Shainne Brewer |
 | 100 | 136 | Tanner Lund |
 | 101 | 134 | Chirpy Basepiece |
-| 102 | 134 | Jessica Bohlken |
-| 103 | 134 | Serena Goodridge |
+| 102 | 134 | Serena Goodridge |
+| 103 | 134 | Jessica Bohlken |
 | 104 | 133 | Robin Watters |
 | 105 | 132 | Melissa Priest Sellers |
 | 106 | 132 | Degenerate |
 | 107 | 132 | Jessica Cagle |
-| 108 | 132 | Degenerate |
+| 108 | 132 | Jenna McGeorge |
 | 109 | 131 | Mr. Party |
-| 110 | 130 | Casey Jeffcoat |
-| 111 | 130 | Lucas J Sutton |
+| 110 | 130 | Lucas J Sutton |
+| 111 | 130 | Casey Jeffcoat |
 | 112 | 129 | John Brunetti |
 | 113 | 129 | Landon Keith Graffeo |
 | 114 | 129 | KM8 |
@@ -149,10 +149,10 @@
 | 141 | 110 | YoMomma |
 | 142 | 110 | H.R. Block |
 | 143 | 107 | Marcus Todd |
-| 144 | 105 | TheNeesh50 |
-| 145 | 105 | 🥔🥔 Spudz |
-| 146 | 105 | Sam Middleton |
-| 147 | 105 | AyeKay |
+| 144 | 105 | AyeKay |
+| 145 | 105 | TheNeesh50 |
+| 146 | 105 | 🥔🥔 Spudz |
+| 147 | 105 | Sam Middleton |
 | 148 | 104 | Damn Libra |
 | 149 | 104 | Avy Absol |
 | 150 | 102 | ĥuf |

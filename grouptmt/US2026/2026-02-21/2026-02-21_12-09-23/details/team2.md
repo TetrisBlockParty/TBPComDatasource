@@ -315,8 +315,8 @@
 | 307 | 274 | Jamie Stevey |
 | 308 | 274 | Melissa Holsinger |
 | 309 | 274 | Lonne Emade |
-| 310 | 273 | Jenna Nance |
-| 311 | 273 | Ray Ray Prado |
+| 310 | 273 | Ray Ray Prado |
+| 311 | 273 | Jenna Nance |
 | 312 | 273 | Vanessa Moreno |
 | 313 | 273 | August Hale |
 | 314 | 272 | Mikayala Szaz |
@@ -336,16 +336,16 @@
 | 328 | 260 | Denise Rickman |
 | 329 | 259 | Giddy Gridclear |
 | 330 | 257 | Lyndi Robinson Wakefield |
-| 331 | 256 | Tee Jaleesa |
-| 332 | 256 | CC |
+| 331 | 256 | CC |
+| 332 | 256 | Tee Jaleesa |
 | 333 | 255 | Santana Miyagi |
 | 334 | 254 | Elizabeth Diraffaele |
 | 335 | 254 | Rose Fx |
 | 336 | 254 | Julie Hamilton |
 | 337 | 253 | Tansaria Couch-Butler |
 | 338 | 252 | Matt Johnson |
-| 339 | 252 | Alyssia Tancredi |
-| 340 | 252 | Catina Hutchison |
+| 339 | 252 | Catina Hutchison |
+| 340 | 252 | Alyssia Tancredi |
 | 341 | 251 | Ann Knutson Anderson |
 | 342 | 250 | Steve Man |
 | 343 | 250 | Barbra Miller |
@@ -432,8 +432,8 @@
 | 424 | 200 | LaWanda Powell |
 | 425 | 200 | Sarah Ridenour |
 | 426 | 199 | Fi Ne |
-| 427 | 199 | Jenny Castro |
-| 428 | 199 | Jessica Sutter |
+| 427 | 199 | Jessica Sutter |
+| 428 | 199 | Jenny Castro |
 | 429 | 199 | Alyssa Nadine Medelez |
 | 430 | 199 | Tara Lynn Janes |
 | 431 | 198 | Alyssa Dean |
@@ -483,9 +483,9 @@
 | 475 | 179 | Bette Prieto |
 | 476 | 178 | Michelle Shrum |
 | 477 | 177 | Facuetoo |
-| 478 | 177 | Angel |
-| 479 | 177 | John |
-| 480 | 177 | Ryan Meilleur |
+| 478 | 177 | Ryan Meilleur |
+| 479 | 177 | Angel |
+| 480 | 177 | John |
 | 481 | 176 | Jennifer Malloy - Cardy |
 | 482 | 176 | Trisha Gallagher |
 | 483 | 176 | Stacy Harper |
@@ -597,7 +597,7 @@
 | 589 | 146 | Sherry Aguinaga |
 | 590 | 145 | Scott Rackley |
 | 591 | 145 | Chareen Lauritzen |
-| 592 | 145 | Scott Rackley |
+| 592 | 145 | William Hughes |
 | 593 | 145 | Kiorah Blaze |
 | 594 | 145 | Anastacio Hernandez |
 | 595 | 144 | RavensBeard |
