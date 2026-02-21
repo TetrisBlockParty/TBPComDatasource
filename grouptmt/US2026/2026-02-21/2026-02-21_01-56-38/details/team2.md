@@ -317,8 +317,8 @@
 | 309 | 148 | Destiny Cozier |
 | 310 | 146 | Angie Bolton Workman |
 | 311 | 146 | JacJac |
-| 312 | 145 | William Hughes |
-| 313 | 145 | Scott Rackley |
+| 312 | 145 | Scott Rackley |
+| 313 | 145 | William Hughes |
 | 314 | 144 | Tee Davis |
 | 315 | 144 | Alexis Richardson |
 | 316 | 143 | Brave Gridpiece |

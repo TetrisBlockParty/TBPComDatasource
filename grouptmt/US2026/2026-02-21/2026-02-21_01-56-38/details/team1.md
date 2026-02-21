@@ -113,10 +113,10 @@
 | 105 | 78 | Sam Williams |
 | 106 | 78 | Carrie Beck Geartz |
 | 107 | 77 | Teddy Alexander |
-| 108 | 76 | Archie Ware |
-| 109 | 76 | Kerry Lee Powell |
-| 110 | 75 | Tyler L Hunt |
-| 111 | 75 | Fresno Beotoni |
+| 108 | 76 | Kerry Lee Powell |
+| 109 | 76 | Archie Ware |
+| 110 | 75 | Fresno Beotoni |
+| 111 | 75 | Tyler L Hunt |
 | 112 | 74 | Grace Joanne Agnant |
 | 113 | 73 | Witty Builderfit |
 | 114 | 73 | Loony Fitzone |

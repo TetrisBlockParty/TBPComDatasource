@@ -86,15 +86,15 @@
 | 78 | 159 | Morgan Martinez |
 | 79 | 154 | Shannon Matthew Byers |
 | 80 | 154 | Angela M. Fletcher |
-| 81 | 152 | rosy |
-| 82 | 152 | Shiny Zonebuilder |
+| 81 | 152 | Shiny Zonebuilder |
+| 82 | 152 | rosy |
 | 83 | 149 | Trisha Balmer |
 | 84 | 146 | Denita Mungro |
 | 85 | 145 | Nicha Hooker |
 | 86 | 143 | ren |
 | 87 | 138 | Gumbo |
-| 88 | 135 | Nicole Flippo |
-| 89 | 135 | Latoya Mayne |
+| 88 | 135 | Latoya Mayne |
+| 89 | 135 | Nicole Flippo |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
 | 92 | 129 | Giddy Twistbuilder |
@@ -108,8 +108,8 @@
 | 100 | 124 | Marquita Sheard |
 | 101 | 122 | Aerian Preston |
 | 102 | 122 | Shimika Enay Wallace |
-| 103 | 120 | Jessica |
-| 104 | 120 | Michael Latasha Gray |
+| 103 | 120 | Michael Latasha Gray |
+| 104 | 120 | Jessica |
 | 105 | 119 | Terry Jo Jones |
 | 106 | 118 | Bea Miles |
 | 107 | 118 | Fancy Curver |
@@ -195,8 +195,8 @@
 | 187 | 70 | Boldy Blocker |
 | 188 | 70 | Rania Zaqout |
 | 189 | 69 | Hyper Matchzone |
-| 190 | 69 | Jen Lewis |
-| 191 | 69 | Chasity |
+| 190 | 69 | Chasity |
+| 191 | 69 | Jen Lewis |
 | 192 | 69 | Joey Banks |
 | 193 | 67 | Cherry Parker |
 | 194 | 67 | Romeo |
