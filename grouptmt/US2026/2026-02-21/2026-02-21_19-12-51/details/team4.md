@@ -99,7 +99,7 @@
 | 91 | 202 | shar |
 | 92 | 202 | Monica Daley |
 | 93 | 200 | Holly Jolly |
-| 94 | 198 | Denise Carlson |
+| 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 198 | Mike Solo |
 | 96 | 198 | Denise Carlson |
 | 97 | 197 | Swanky Fitline |
@@ -132,8 +132,8 @@
 | 124 | 160 | ZeeZee |
 | 125 | 157 | quicksand420 |
 | 126 | 157 | Jenna McGeorge |
-| 127 | 156 | Jessica Bohlken |
-| 128 | 156 | Holly |
+| 127 | 156 | Holly |
+| 128 | 156 | Jessica Bohlken |
 | 129 | 153 | Empress Oasis |
 | 130 | 151 | Dana Scott |
 | 131 | 151 | Bethany Ison |

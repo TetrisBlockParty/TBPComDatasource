@@ -242,8 +242,8 @@
 | 234 | 483 | Osun Anuket Esu |
 | 235 | 482 | Eckoman518 |
 | 236 | 475 | Khalil Lowe |
-| 237 | 474 | Ashley Collins |
-| 238 | 474 | Auntie B |
+| 237 | 474 | Auntie B |
+| 238 | 474 | Ashley Collins |
 | 239 | 474 | Calandra Shaya Robinson |
 | 240 | 470 | Jerry Tempelmeyer |
 | 241 | 469 | Ashley Rose Frederick |

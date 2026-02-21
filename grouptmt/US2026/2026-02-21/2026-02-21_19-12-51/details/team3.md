@@ -211,8 +211,8 @@
 | 203 | 166 | Beth Ingham |
 | 204 | 166 | Emma |
 | 205 | 165 | Kali Kelz Williams |
-| 206 | 163 | Stephanie Hill |
-| 207 | 163 | Christine Trester |
+| 206 | 163 | Christine Trester |
+| 207 | 163 | Stephanie Hill |
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | Irene Arreguin |
 | 210 | 161 | BŘŰŤİÇŨŚ |
@@ -232,23 +232,23 @@
 | 224 | 152 | Lesley Perez |
 | 225 | 152 | Shiny Zonebuilder |
 | 226 | 150 | Valerie Gendron |
-| 227 | 149 | Angel Mendez |
+| 227 | 149 | Peachy Rollfit |
 | 228 | 149 | Alexis Taylor |
-| 229 | 149 | Peachy Rollfit |
-| 230 | 148 | Jennifer Alvey |
-| 231 | 148 | Wetwet |
+| 229 | 149 | Angel Mendez |
+| 230 | 148 | Wetwet |
+| 231 | 148 | Jennifer Alvey |
 | 232 | 148 | Gumbo |
 | 233 | 147 | Ashley Lynn Marchese |
 | 234 | 147 | Cheryl Hinch Tenbrook |
-| 235 | 146 | Carrie Huskey |
-| 236 | 146 | Latoya Mayne |
+| 235 | 146 | Latoya Mayne |
+| 236 | 146 | Carrie Huskey |
 | 237 | 146 | Denita Mungro |
 | 238 | 145 | Jeni Dow |
 | 239 | 145 | Bryan Byrd |
 | 240 | 142 | Jl |
 | 241 | 142 | David Bardo |
 | 242 | 142 | Danielle Allison |
-| 243 | 142 | Jl |
+| 243 | 142 | Erica Anderson |
 | 244 | 141 | IamJust Neyamijah Washington Sr. |
 | 245 | 139 | Loopy Clusterer |
 | 246 | 138 | Sarah Moyer |
@@ -259,8 +259,8 @@
 | 251 | 134 | Skinny Baldez |
 | 252 | 134 | Cesar Barraza |
 | 253 | 133 | LaNette Morgan |
-| 254 | 131 | April Matthew Kibble |
-| 255 | 131 | Darlene McMillan |
+| 254 | 131 | Darlene McMillan |
+| 255 | 131 | April Matthew Kibble |
 | 256 | 130 | Weerae |
 | 257 | 130 | Melissa Orth Hunter |
 | 258 | 129 | Juliana Dottore |
@@ -268,11 +268,11 @@
 | 260 | 128 | MizzMonick Smith |
 | 261 | 128 | Jen Lewis |
 | 262 | 127 | mzcatzy |
-| 263 | 126 | Pam Holt Powell |
-| 264 | 126 | RickyG |
-| 265 | 125 | Felicia Doxey |
+| 263 | 126 | RickyG |
+| 264 | 126 | Pam Holt Powell |
+| 265 | 125 | fraulila |
 | 266 | 125 | Shimika Enay Wallace |
-| 267 | 125 | fraulila |
+| 267 | 125 | Felicia Doxey |
 | 268 | 124 | Funky Jumper |
 | 269 | 123 | Lys |
 | 270 | 123 | Rachel |
