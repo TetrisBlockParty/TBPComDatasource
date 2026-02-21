@@ -76,10 +76,10 @@
 | 68 | 197 | Autum Leigh |
 | 69 | 194 | Jamie Mann-Deichmann |
 | 70 | 187 | Swanky Fitline |
-| 71 | 185 | Andy Cabral |
-| 72 | 185 | loulou |
-| 73 | 180 | Leah Kutz Zirbel |
-| 74 | 180 | shar |
+| 71 | 185 | loulou |
+| 72 | 185 | Andy Cabral |
+| 73 | 180 | shar |
+| 74 | 180 | Leah Kutz Zirbel |
 | 75 | 179 | Epic Curvetile |
 | 76 | 178 | Lori |
 | 77 | 175 | Dustee Craddock-Harrison |
@@ -160,10 +160,10 @@
 | 152 | 104 | Avy Absol |
 | 153 | 104 | Damn Libra |
 | 154 | 103 | Judy Cox |
-| 155 | 102 | Faja |
-| 156 | 102 | ĥuf |
-| 157 | 101 | Saulc1991 |
-| 158 | 101 | Michelle Morris |
+| 155 | 102 | ĥuf |
+| 156 | 102 | Faja |
+| 157 | 101 | Michelle Morris |
+| 158 | 101 | Saulc1991 |
 | 159 | 100 | Alexandra Karavias |
 | 160 | 99 | April Rondinone |
 | 161 | 99 | Anthony Bryan Riva |

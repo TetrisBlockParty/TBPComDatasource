@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 512 | comrade fish |
-| 22 | 511 | Jen Sartain |
-| 23 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Amanda Summey Schoemer |
+| 23 | 511 | Jen Sartain |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -89,9 +89,9 @@
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | Jennifer Olewnik Soborowski |
-| 85 | 173 | june october |
-| 86 | 173 | Frothy Pattern |
+| 84 | 173 | Frothy Pattern |
+| 85 | 173 | Jennifer Olewnik Soborowski |
+| 86 | 173 | june october |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Redlicious 1 |
 | 89 | 166 | Rico Rico |
@@ -145,7 +145,7 @@
 | 137 | 114 | Colleen Wise |
 | 138 | 114 | Giddy Cascade |
 | 139 | 113 | Desiree Deschaine Havee |
-| 140 | 112 | Nicole Roseberry Weber |
+| 140 | 112 | Chris65 |
 | 141 | 112 | Kristen Gideon |
 | 142 | 112 | Nicole Roseberry Weber |
 | 143 | 112 | Flashy Rotator |

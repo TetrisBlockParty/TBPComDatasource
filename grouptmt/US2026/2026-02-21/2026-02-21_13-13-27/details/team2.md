@@ -358,8 +358,8 @@
 | 350 | 262 | Min |
 | 351 | 262 | Taren Cowan |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Denise Rickman |
-| 354 | 260 | Ebony Deloach Bryant |
+| 353 | 260 | Ebony Deloach Bryant |
+| 354 | 260 | Denise Rickman |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
 | 356 | 257 | Diana Fitzwater |
 | 357 | 257 | Lyndi Robinson Wakefield |
@@ -422,8 +422,8 @@
 | 414 | 226 | Juliana Marques Do Nascimento Gordy |
 | 415 | 226 | Leslie Ann Carter |
 | 416 | 224 | Justin Hines |
-| 417 | 223 | Jess Morrison |
-| 418 | 223 | LegoCarpet |
+| 417 | 223 | LegoCarpet |
+| 418 | 223 | Jess Morrison |
 | 419 | 223 | Laura Wyatt |
 | 420 | 223 | Kristi Biddinger |
 | 421 | 222 | Amanda Canterbury |

@@ -155,10 +155,10 @@
 | 147 | 166 | Betty Rosas |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
-| 150 | 164 | rosy |
-| 151 | 164 | DanceLuvLaugh |
-| 152 | 163 | Duane Bright |
-| 153 | 163 | Karon Griffin |
+| 150 | 164 | DanceLuvLaugh |
+| 151 | 164 | rosy |
+| 152 | 163 | Karon Griffin |
+| 153 | 163 | Duane Bright |
 | 154 | 163 | Stephanie Hill |
 | 155 | 161 | Jessica Bechler |
 | 156 | 160 | Mcathen |
@@ -201,11 +201,11 @@
 | 193 | 128 | David Bardo |
 | 194 | 127 | Marquita Sheard |
 | 195 | 126 | Brandon Givens |
-| 196 | 125 | Shimika Enay Wallace |
-| 197 | 125 | Felicia Doxey |
+| 196 | 125 | Felicia Doxey |
+| 197 | 125 | Shimika Enay Wallace |
 | 198 | 124 | Cesar Barraza |
-| 199 | 123 | Marci Mize Fandrich |
-| 200 | 123 | Sarajane Lokan |
+| 199 | 123 | Sarajane Lokan |
+| 200 | 123 | Marci Mize Fandrich |
 | 201 | 123 | Terry Jo Jones |
 | 202 | 122 | Katrina E Jelks |
 | 203 | 122 | Giggly Brickroll |
@@ -303,10 +303,10 @@
 | 295 | 88 | RickyG |
 | 296 | 88 | Kevin Russell |
 | 297 | 88 | Dapper Towerfit |
-| 298 | 87 | FATTY |
-| 299 | 87 | Kellie Montgomery |
-| 300 | 86 | Salena Whitlock |
-| 301 | 86 | Clever Clearbuilder |
+| 298 | 87 | Kellie Montgomery |
+| 299 | 87 | FATTY |
+| 300 | 86 | Clever Clearbuilder |
+| 301 | 86 | Salena Whitlock |
 | 302 | 86 | Criss |
 | 303 | 85 | Crystel b520 |
 | 304 | 85 | Chris Bell |
@@ -374,8 +374,8 @@
 | 366 | 74 | Mike Spritzer |
 | 367 | 73 | Spicy Caster |
 | 368 | 73 | Elyse Grabowsky |
-| 369 | 73 | Nerdy Wipeout |
-| 370 | 73 | Rainbow77375 |
+| 369 | 73 | Rainbow77375 |
+| 370 | 73 | Nerdy Wipeout |
 | 371 | 73 | punky monkey buttky |
 | 372 | 72 | Mel Murr |
 | 373 | 72 | Alexsandran Valdivia |
