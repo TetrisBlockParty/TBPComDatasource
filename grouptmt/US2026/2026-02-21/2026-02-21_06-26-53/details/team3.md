@@ -107,8 +107,8 @@
 | 99 | 202 | Shannon Matthew Byers |
 | 100 | 200 | Twisty Brick LT |
 | 101 | 199 | joclisa |
-| 102 | 195 | Nicha Hooker |
-| 103 | 195 | Jenny Hrndz |
+| 102 | 195 | Jenny Hrndz |
+| 103 | 195 | Nicha Hooker |
 | 104 | 194 | glichmod |
 | 105 | 193 | Shunta Jacobs |
 | 106 | 193 | Clever Shiftsnap |
@@ -133,8 +133,8 @@
 | 125 | 156 | Joey Banks |
 | 126 | 155 | BŘŰŤİÇŨŚ |
 | 127 | 154 | Angela M. Fletcher |
-| 128 | 153 | Beth Ingham |
-| 129 | 153 | Giddy Twistbuilder |
+| 128 | 153 | Giddy Twistbuilder |
+| 129 | 153 | Beth Ingham |
 | 130 | 152 | Shiny Zonebuilder |
 | 131 | 152 | Karon Griffin |
 | 132 | 150 | Nicole Myers |
@@ -142,8 +142,8 @@
 | 134 | 149 | Trisha Balmer |
 | 135 | 149 | Bea Miles |
 | 136 | 147 | Sashay Tapae Simpson |
-| 137 | 146 | Denita Mungro |
-| 138 | 146 | Latoya Mayne |
+| 137 | 146 | Latoya Mayne |
+| 138 | 146 | Denita Mungro |
 | 139 | 142 | Erica Anderson |
 | 140 | 140 | Jay Horn |
 | 141 | 140 | Gumbo |
@@ -231,7 +231,7 @@
 | 223 | 92 | Jennifer Caputo |
 | 224 | 92 | Trice Thomas |
 | 225 | 91 | Martin Bernier |
-| 226 | 90 | Tiffany Kaupang |
+| 226 | 90 | Rebel124 |
 | 227 | 90 | Nichole Greene |
 | 228 | 90 | Tiffany Kaupang |
 | 229 | 89 | Shicken Nuggit |

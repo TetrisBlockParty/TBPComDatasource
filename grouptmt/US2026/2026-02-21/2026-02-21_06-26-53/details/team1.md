@@ -124,9 +124,9 @@
 | 116 | 103 | Adryane Schnase |
 | 117 | 102 | Jennifer ManWarren |
 | 118 | 100 | Tami Luce Martin |
-| 119 | 99 | Melissa Bires Hussar |
-| 120 | 99 | Mizzledagod |
-| 121 | 99 | Spunky Piecebuilder |
+| 119 | 99 | Mizzledagod |
+| 120 | 99 | Melissa Bires Hussar |
+| 121 | 99 | Ty Brown |
 | 122 | 99 | Aimee Horton |
 | 123 | 99 | Spunky Piecebuilder |
 | 124 | 96 | Melissa Lemmon |

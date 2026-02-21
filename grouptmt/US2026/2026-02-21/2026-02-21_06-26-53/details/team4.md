@@ -25,8 +25,8 @@
 | 17 | 446 | Valerie Roberts |
 | 18 | 402 | Samantha Peterson |
 | 19 | 390 | Alicia Bass |
-| 20 | 383 | Johnathan Martinez |
-| 21 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Johnathan Martinez |
 | 22 | 373 | Rodney McMath Jr. |
 | 23 | 345 | Ancient Intuition |
 | 24 | 339 | LisaJo Picken Buchanan |
@@ -65,8 +65,8 @@
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Casey Grabner |
-| 61 | 165 | Courtney Cicoria |
+| 60 | 165 | Courtney Cicoria |
+| 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
 | 63 | 159 | Holly Jolly |
 | 64 | 159 | Justin Hannigan |
@@ -80,8 +80,8 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Jessica Bohlken |
-| 76 | 134 | Chirpy Basepiece |
+| 75 | 134 | Chirpy Basepiece |
+| 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Melissa Priest Sellers |
 | 79 | 132 | Degenerate |
@@ -116,8 +116,8 @@
 | 108 | 111 | Lazy Blocker |
 | 109 | 111 | Gwendolyn Pitcairn |
 | 110 | 110 | H.R. Block |
-| 111 | 108 | Lisa Davis |
-| 112 | 108 | Rio Rocha |
+| 111 | 108 | Rio Rocha |
+| 112 | 108 | Lisa Davis |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
 | 115 | 105 | Sam Middleton |
@@ -127,8 +127,8 @@
 | 119 | 104 | Adam Randall |
 | 120 | 104 | YoMomma |
 | 121 | 102 | Faja |
-| 122 | 101 | Michelle Morris |
-| 123 | 101 | Stephme310 |
+| 122 | 101 | Stephme310 |
+| 123 | 101 | Michelle Morris |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Alexandra Karavias |
 | 126 | 100 | Megan Cutshaw |

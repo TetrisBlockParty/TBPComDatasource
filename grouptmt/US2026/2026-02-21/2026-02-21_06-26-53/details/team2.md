@@ -357,9 +357,9 @@
 | 349 | 198 | Angie Bolton Workman |
 | 350 | 198 | Alyssa Dean |
 | 351 | 196 | Besma Ao |
-| 352 | 196 | Neko Preston |
+| 352 | 196 | Alexandra Reese |
 | 353 | 196 | Cass Shirley |
-| 354 | 196 | Alexandra Reese |
+| 354 | 196 | Neko Preston |
 | 355 | 195 | Snappy Shatterfit |
 | 356 | 194 | Hoppy Brickmatch |
 | 357 | 194 | Kimberly Ann |
