@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -98,8 +98,8 @@
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
-| 93 | 147 | 030Synner |
-| 94 | 147 | Jay28 |
+| 93 | 147 | Jay28 |
+| 94 | 147 | 030Synner |
 | 95 | 146 | Peachy Fall |
 | 96 | 143 | Nugget |
 | 97 | 141 | Malakai Darien Fox |

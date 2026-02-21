@@ -152,8 +152,8 @@
 | 144 | 520 | Kimberly Schall |
 | 145 | 519 | Maria Escobar |
 | 146 | 517 | Debra Williams |
-| 147 | 515 | Real Ri |
-| 148 | 515 | Kaylee McCafferty |
+| 147 | 515 | Kaylee McCafferty |
+| 148 | 515 | Real Ri |
 | 149 | 513 | Butta |
 | 150 | 511 | Ramone Armstrong |
 | 151 | 511 | Dizzy Zone |
@@ -481,8 +481,8 @@
 | 473 | 179 | Desiree Harris Rosch |
 | 474 | 178 | Michelle Shrum |
 | 475 | 177 | Facuetoo |
-| 476 | 177 | Ryan Meilleur |
-| 477 | 177 | John |
+| 476 | 177 | John |
+| 477 | 177 | Ryan Meilleur |
 | 478 | 177 | Angel |
 | 479 | 176 | Stacy Harper |
 | 480 | 176 | Trisha Gallagher |
@@ -677,8 +677,8 @@
 | 669 | 132 | Joann |
 | 670 | 132 | Andre Love |
 | 671 | 131 | Deidre Shaffer |
-| 672 | 131 | Kerry Miller |
-| 673 | 131 | Christine Moradians |
+| 672 | 131 | Christine Moradians |
+| 673 | 131 | Kerry Miller |
 | 674 | 131 | Kendall Fullerton |
 | 675 | 131 | Zeleana Perry |
 | 676 | 130 | Latrenya Paynes |
@@ -728,7 +728,7 @@
 | 720 | 125 | Connor Gaughran |
 | 721 | 124 | Witty Piecebuilder |
 | 722 | 124 | Samantha Williams-Bittner |
-| 723 | 124 | Witty Piecebuilder |
+| 723 | 124 | Jazzy Grabber |
 | 724 | 124 | Tommy Stuck |
 | 725 | 123 | Cool Slam |
 | 726 | 123 | DeeDee |

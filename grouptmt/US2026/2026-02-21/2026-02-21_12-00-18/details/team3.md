@@ -142,8 +142,8 @@
 | 134 | 178 | AlsoJess |
 | 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Betty Rosas |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Betty Rosas |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
