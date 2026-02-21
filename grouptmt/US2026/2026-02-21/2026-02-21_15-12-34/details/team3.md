@@ -40,8 +40,8 @@
 | 32 | 859 | Amber Jones |
 | 33 | 852 | cowboy25469 |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 749 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -137,8 +137,8 @@
 | 129 | 213 | Morgan Martinez |
 | 130 | 212 | Shunta Jacobs |
 | 131 | 211 | Katrina Schroeder |
-| 132 | 207 | Chris Bell |
-| 133 | 207 | rnr junky |
+| 132 | 207 | rnr junky |
+| 133 | 207 | Chris Bell |
 | 134 | 206 | Chasity |
 | 135 | 204 | Mcathen |
 | 136 | 204 | Aaron Pitkin |
@@ -156,8 +156,8 @@
 | 148 | 189 | Sissy Lowery Davis |
 | 149 | 189 | Fallorina Susana |
 | 150 | 184 | Jennie Beranek |
-| 151 | 182 | Hyper Matchzone |
-| 152 | 182 | Ashley Tookes |
+| 151 | 182 | Ashley Tookes |
+| 152 | 182 | Hyper Matchzone |
 | 153 | 181 | Karon Griffin |
 | 154 | 181 | Aerian Preston |
 | 155 | 179 | Joye Sims Binion |
@@ -169,12 +169,12 @@
 | 161 | 176 | Rebel124 |
 | 162 | 175 | DanceLuvLaugh |
 | 163 | 174 | Danielle Mogg |
-| 164 | 168 | rosy |
-| 165 | 168 | Angie Harper |
+| 164 | 168 | Angie Harper |
+| 165 | 168 | rosy |
 | 166 | 167 | Raven Dudley |
 | 167 | 166 | Loopy Fallmatch |
-| 168 | 166 | Kelly Ann Child |
-| 169 | 166 | Betty Rosas |
+| 168 | 166 | Betty Rosas |
+| 169 | 166 | Kelly Ann Child |
 | 170 | 165 | Kali Kelz Williams |
 | 171 | 164 | Brandon Givens |
 | 172 | 163 | Sashay Tapae Simpson |
@@ -320,14 +320,14 @@
 | 312 | 90 | Alexis Ford |
 | 313 | 90 | Snazzy Brickzone |
 | 314 | 89 | Zac Hudak |
-| 315 | 89 | Rania Zaqout |
-| 316 | 89 | Saucy Buildout |
-| 317 | 89 | Patti Skiles |
-| 318 | 89 | Matty Ray |
-| 319 | 88 | Kevin Russell |
-| 320 | 88 | RickyG |
-| 321 | 88 | April Matthew Kibble |
-| 322 | 88 | Kelly Koenig |
+| 315 | 89 | Matty Ray |
+| 316 | 89 | Rania Zaqout |
+| 317 | 89 | Saucy Buildout |
+| 318 | 89 | Patti Skiles |
+| 319 | 88 | RickyG |
+| 320 | 88 | Kevin Russell |
+| 321 | 88 | Kelly Koenig |
+| 322 | 88 | April Matthew Kibble |
 | 323 | 88 | Dapper Towerfit |
 | 324 | 87 | Kellie Montgomery |
 | 325 | 86 | Criss |

@@ -78,8 +78,8 @@
 | 70 | 226 | Breannah Grafe |
 | 71 | 216 | Bubbly Puzzler |
 | 72 | 213 | Alyssa Papen |
-| 73 | 211 | Dizzy Tiley |
-| 74 | 211 | Casey Grabner |
+| 73 | 211 | Casey Grabner |
+| 74 | 211 | Dizzy Tiley |
 | 75 | 210 | Lucas J Sutton |
 | 76 | 208 | Landon Keith Graffeo |
 | 77 | 207 | Jae Job |
