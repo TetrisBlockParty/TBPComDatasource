@@ -141,8 +141,8 @@
 | 133 | 881 | Tanya Parsons |
 | 134 | 875 | Kelly Trent |
 | 135 | 869 | Desiree Harris Rosch |
-| 136 | 867 | Michele Gabriel |
-| 137 | 867 | Rosa Franklin |
+| 136 | 867 | Rosa Franklin |
+| 137 | 867 | Michele Gabriel |
 | 138 | 861 | Jennifer Peachey |
 | 139 | 849 | Jennifer Kistner |
 | 140 | 845 | April Dawn Gussler |
@@ -193,8 +193,8 @@
 | 185 | 692 | Jennifer Casey-Kay |
 | 186 | 690 | Deborah Miller |
 | 187 | 688 | Dreamy Blast |
-| 188 | 686 | Dannette Goldberg-Richards |
-| 189 | 686 | Ashley Guernsey-Martin |
+| 188 | 686 | Ashley Guernsey-Martin |
+| 189 | 686 | Dannette Goldberg-Richards |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
@@ -208,8 +208,8 @@
 | 200 | 659 | Poldo Ilano |
 | 201 | 658 | Erica Williams |
 | 202 | 654 | Mandi Douglas Hilt |
-| 203 | 651 | ShinyRose |
-| 204 | 651 | Unica Rector |
+| 203 | 651 | Unica Rector |
+| 204 | 651 | ShinyRose |
 | 205 | 651 | Roseanna Peloso |
 | 206 | 650 | Shiny Rollzone |
 | 207 | 647 | Ashle Scranton |
@@ -236,8 +236,8 @@
 | 228 | 589 | Thomas Hedrick |
 | 229 | 587 | Hyper Cluster |
 | 230 | 586 | Stephen Stephen |
-| 231 | 583 | Jessicah Myers |
-| 232 | 583 | Steve Grotto |
+| 231 | 583 | Steve Grotto |
+| 232 | 583 | Jessicah Myers |
 | 233 | 582 | Gary Stash |
 | 234 | 581 | Jánine Riggs |
 | 235 | 580 | Leslie Ann Carter |
@@ -885,8 +885,8 @@
 | 877 | 172 | Zachary Boyarski |
 | 878 | 172 | Brooklynn Huckaby |
 | 879 | 172 | Patty |
-| 880 | 171 | Jacques Frenette |
-| 881 | 171 | Kimberly Bickling |
+| 880 | 171 | Kimberly Bickling |
+| 881 | 171 | Jacques Frenette |
 | 882 | 171 | Bee |
 | 883 | 171 | Chirpy Tilt |
 | 884 | 171 | Ashley Cooper Tharin |

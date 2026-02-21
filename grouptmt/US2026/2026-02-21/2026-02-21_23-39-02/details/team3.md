@@ -98,8 +98,8 @@
 | 90 | 459 | Nerdy Riseclear |
 | 91 | 447 | Mykal Burton |
 | 92 | 446 | Danielle Rhoades |
-| 93 | 445 | Kristie McFarland |
-| 94 | 445 | Silly Twist |
+| 93 | 445 | Silly Twist |
+| 94 | 445 | Kristie McFarland |
 | 95 | 430 | Patricia White |
 | 96 | 428 | Elissa S-k |
 | 97 | 425 | Patty Allen |
@@ -176,13 +176,13 @@
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
-| 171 | 237 | Rebecca Funderburk Kirby |
-| 172 | 237 | Brandon Givens |
+| 171 | 237 | Brandon Givens |
+| 172 | 237 | Rebecca Funderburk Kirby |
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
-| 176 | 228 | Jennifer Lynn Fahrenholtz-Summers |
-| 177 | 228 | Morgan Martinez |
+| 176 | 228 | Morgan Martinez |
+| 177 | 228 | Jennifer Lynn Fahrenholtz-Summers |
 | 178 | 226 | Grego Daniel |
 | 179 | 224 | Nicole Myers |
 | 180 | 223 | Jeana Gilbert |
@@ -267,8 +267,8 @@
 | 259 | 157 | Katrina E Jelks |
 | 260 | 157 | Patricia Gadsden |
 | 261 | 155 | RickyG |
-| 262 | 154 | Valerie Gendron |
-| 263 | 154 | Desiree Gold |
+| 262 | 154 | Desiree Gold |
+| 263 | 154 | Valerie Gendron |
 | 264 | 153 | Sheila M Frazier |
 | 265 | 153 | Cozy Snaplink |
 | 266 | 152 | Shiny Zonebuilder |

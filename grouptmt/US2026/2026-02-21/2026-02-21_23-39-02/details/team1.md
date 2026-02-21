@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
@@ -149,8 +149,8 @@
 | 141 | 186 | Margo Wagner |
 | 142 | 185 | Basment Living |
 | 143 | 180 | BigWeenie69 |
-| 144 | 180 | Michael |
-| 145 | 180 | Erez Yosef |
+| 144 | 180 | Erez Yosef |
+| 145 | 180 | Michael |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Chad Atchley |
 | 148 | 178 | Shiny Gridmatch |
@@ -171,8 +171,8 @@
 | 163 | 163 | Tyler Whitley |
 | 164 | 163 | Jenny Gingrich Fuentes |
 | 165 | 162 | Cece Ibarra |
-| 166 | 161 | Jessie Lynn |
-| 167 | 161 | SavageBooty98 |
+| 166 | 161 | SavageBooty98 |
+| 167 | 161 | Jessie Lynn |
 | 168 | 160 | Nery Martinez |
 | 169 | 159 | Bindi |
 | 170 | 158 | Arianna O'Brien |
@@ -198,16 +198,16 @@
 | 190 | 139 | Flashy Rotator |
 | 191 | 139 | Mel Hogan |
 | 192 | 138 | Death |
-| 193 | 137 | Cody Gates |
-| 194 | 137 | Witty Builderfit |
+| 193 | 137 | Witty Builderfit |
+| 194 | 137 | Cody Gates |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Tipsy Riseclear |
 | 197 | 135 | Aimee Horton |
 | 198 | 135 | Guest |
 | 199 | 135 | Giddy Cascade |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Fmp |
-| 202 | 133 | Kimberly Garcia |
+| 201 | 133 | Kimberly Garcia |
+| 202 | 133 | Fmp |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
 | 205 | 130 | LD1 |
@@ -371,7 +371,7 @@
 | 363 | 76 | Steph |
 | 364 | 76 | Tim Mccrary |
 | 365 | 75 | Plucky Wrecker |
-| 366 | 75 | Nathan William |
+| 366 | 75 | Speedy Liney |
 | 367 | 75 | Amber Nixon |
 | 368 | 75 | Nathan William |
 | 369 | 74 | Tedashi |

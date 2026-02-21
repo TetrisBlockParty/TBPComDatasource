@@ -73,8 +73,8 @@
 | 65 | 391 | Ramel Rhodes |
 | 66 | 390 | Carlton Unfiltered |
 | 67 | 388 | YoMomma |
-| 68 | 376 | quicksand420 |
-| 69 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | quicksand420 |
 | 70 | 373 | Joseph Guthrie |
 | 71 | 370 | Leslie Thomas |
 | 72 | 369 | Nope Young |
@@ -120,8 +120,8 @@
 | 112 | 218 | Casey Grabner |
 | 113 | 213 | Chaz Duncan |
 | 114 | 212 | Calvin Cannon |
-| 115 | 211 | Dizzy Tiley |
-| 116 | 211 | loulou |
+| 115 | 211 | loulou |
+| 116 | 211 | Dizzy Tiley |
 | 117 | 210 | Damn Libra |
 | 118 | 208 | Twisty Cascadezone |
 | 119 | 208 | Chastity Mitchell |
@@ -181,8 +181,8 @@
 | 173 | 140 | Stephme310 |
 | 174 | 137 | Zany Shatterer |
 | 175 | 137 | PeaceOs |
-| 176 | 136 | Tanner Lund |
-| 177 | 136 | Crystal Nicolette Moore |
+| 176 | 136 | Crystal Nicolette Moore |
+| 177 | 136 | Tanner Lund |
 | 178 | 136 | Chaz |
 | 179 | 135 | Victoria Faniel |
 | 180 | 134 | Chirpy Basepiece |
