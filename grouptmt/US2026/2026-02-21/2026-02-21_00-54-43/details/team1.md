@@ -55,8 +55,8 @@
 | 47 | 143 | Veronica Eve |
 | 48 | 139 | Happy Basegrid |
 | 49 | 133 | Brandi Huntington |
-| 50 | 126 | Marianne Louise West |
-| 51 | 126 | Cece Ibarra |
+| 50 | 126 | Cece Ibarra |
+| 51 | 126 | Marianne Louise West |
 | 52 | 123 | Rico Rico |
 | 53 | 120 | Giggly Builderline |
 | 54 | 119 | Irual Hctrab |

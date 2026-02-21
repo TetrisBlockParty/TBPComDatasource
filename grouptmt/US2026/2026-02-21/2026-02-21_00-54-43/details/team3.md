@@ -123,8 +123,8 @@
 | 115 | 99 | Lys |
 | 116 | 99 | Nichol Graham |
 | 117 | 98 | Armi |
-| 118 | 98 | Ryan Williams |
-| 119 | 98 | Jocelyne Baca |
+| 118 | 98 | Jocelyne Baca |
+| 119 | 98 | Ryan Williams |
 | 120 | 96 | Sherry Ogden |
 | 121 | 96 | D3NO |
 | 122 | 95 | Katie Knaus |
@@ -139,8 +139,8 @@
 | 131 | 88 | Funky Jumper |
 | 132 | 86 | Dan Rob |
 | 133 | 85 | Kevin Russell |
-| 134 | 84 | Eon Harris |
-| 135 | 84 | Ava Petito |
+| 134 | 84 | Ava Petito |
+| 135 | 84 | Eon Harris |
 | 136 | 83 | Gumbo |
 | 137 | 83 | LaTanya GeminiondaRise Johnson |
 | 138 | 82 | Clever Clearbuilder |
