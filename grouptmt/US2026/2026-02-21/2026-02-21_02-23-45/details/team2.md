@@ -98,8 +98,8 @@
 | 90 | 456 | Lisa Ongtowasruk |
 | 91 | 450 | Mari Ac |
 | 92 | 449 | Samantha Jo |
-| 93 | 448 | Jojo Momma |
-| 94 | 448 | Nick Jensen |
+| 93 | 448 | Nick Jensen |
+| 94 | 448 | Jojo Momma |
 | 95 | 442 | Daphne Jordan |
 | 96 | 440 | Becky Weeks-Garry |
 | 97 | 440 | BYM4L |

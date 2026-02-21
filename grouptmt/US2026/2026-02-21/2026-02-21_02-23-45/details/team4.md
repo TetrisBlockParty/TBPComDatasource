@@ -57,8 +57,8 @@
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
 | 51 | 125 | Lauren Scott |
-| 52 | 124 | Epic Curvetile |
-| 53 | 124 | Jay28 |
+| 52 | 124 | Jay28 |
+| 53 | 124 | Epic Curvetile |
 | 54 | 123 | Nugget |
 | 55 | 122 | Shelly Chandler |
 | 56 | 121 | Smiley Tiltbuilder |
@@ -99,9 +99,9 @@
 | 91 | 85 | shark tato |
 | 92 | 85 | Mimi |
 | 93 | 83 | Avy Absol |
-| 94 | 82 | Dizzy Tiley |
-| 95 | 82 | Kim Hunt |
-| 96 | 82 | Chaz |
+| 94 | 82 | Chaz |
+| 95 | 82 | Dizzy Tiley |
+| 96 | 82 | Kim Hunt |
 | 97 | 81 | Michelle Parker |
 | 98 | 81 | Kesha Brady |
 | 99 | 80 | Melissa Adams |

@@ -100,8 +100,8 @@
 | 92 | 93 | Loony Fitzone |
 | 93 | 91 | Spunky Piecebuilder |
 | 94 | 90 | Madison Wicks |
-| 95 | 87 | TSwag |
-| 96 | 87 | Jessi Sauer |
+| 95 | 87 | Jessi Sauer |
+| 96 | 87 | TSwag |
 | 97 | 85 | Steve Schneider |
 | 98 | 84 | Yvonne Marie |
 | 99 | 84 | Charla Pross-Fugleberg |
@@ -161,7 +161,7 @@
 | 153 | 58 | Aaron Garnett |
 | 154 | 57 | Logan McFarland |
 | 155 | 57 | Felicia Lewis |
-| 156 | 57 | Logan McFarland |
+| 156 | 57 | Lis |
 | 157 | 56 | Henry Lanier |
 | 158 | 56 | Kellie |
 | 159 | 54 | MIKOZ |
