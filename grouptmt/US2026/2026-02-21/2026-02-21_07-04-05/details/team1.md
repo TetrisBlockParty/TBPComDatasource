@@ -57,8 +57,8 @@
 | 49 | 205 | Trippy Redd |
 | 50 | 204 | Ly Phethmany |
 | 51 | 202 | Dee Perry |
-| 52 | 201 | Ananda Mendez |
-| 53 | 201 | Anaid Sanchez |
+| 52 | 201 | Anaid Sanchez |
+| 53 | 201 | Ananda Mendez |
 | 54 | 200 | Lexuriuos Lifestlye |
 | 55 | 198 | Billie Dawn Sparks |
 | 56 | 198 | Happy Snapbuild |
@@ -91,8 +91,8 @@
 | 83 | 144 | femmefatale |
 | 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Blaire Bruckoff |
-| 87 | 141 | Susanna Guerry |
+| 86 | 141 | Susanna Guerry |
+| 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -117,9 +117,9 @@
 | 109 | 112 | Miguel Teixeira |
 | 110 | 112 | Nicole Roseberry Weber |
 | 111 | 111 | Agustin Duarte Orozco |
-| 112 | 110 | Bhelle Sumile |
-| 113 | 110 | Garcia Bailey |
-| 114 | 110 | Heidi Feurer |
+| 112 | 110 | Heidi Feurer |
+| 113 | 110 | Bhelle Sumile |
+| 114 | 110 | Garcia Bailey |
 | 115 | 108 | Tavia |
 | 116 | 107 | Jodee Woods |
 | 117 | 106 | Ash Galvan |
@@ -147,8 +147,8 @@
 | 139 | 90 | Dizzy Party |
 | 140 | 89 | Mara Hilker |
 | 141 | 87 | Jessi Sauer |
-| 142 | 86 | Basment Living |
-| 143 | 86 | Barrbaric |
+| 142 | 86 | Barrbaric |
+| 143 | 86 | Basment Living |
 | 144 | 86 | Desiree Deschaine Havee |
 | 145 | 85 | Steve Schneider |
 | 146 | 84 | Yvonne Marie |
@@ -175,7 +175,7 @@
 | 167 | 78 | Kerry Lee Powell |
 | 168 | 77 | Kellie |
 | 169 | 77 | Teddy Alexander |
-| 170 | 76 | Fmp |
+| 170 | 76 | Archie Ware |
 | 171 | 76 | Virginia Gray Floyd |
 | 172 | 76 | Fmp |
 | 173 | 75 | Tyler L Hunt |

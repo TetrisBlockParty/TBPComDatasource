@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -112,8 +112,8 @@
 | 104 | 200 | Twisty Brick LT |
 | 105 | 199 | joclisa |
 | 106 | 196 | Speedy Bridger |
-| 107 | 195 | Jenny Hrndz |
-| 108 | 195 | Nicha Hooker |
+| 107 | 195 | Nicha Hooker |
+| 108 | 195 | Jenny Hrndz |
 | 109 | 194 | glichmod |
 | 110 | 193 | Shunta Jacobs |
 | 111 | 193 | Clever Shiftsnap |
@@ -129,8 +129,8 @@
 | 121 | 178 | Khaleada McGill Banks |
 | 122 | 176 | Ryan Williams |
 | 123 | 168 | Mendoza Lee Christy |
-| 124 | 166 | Kelly Ann Child |
-| 125 | 166 | Danielle Mogg |
+| 124 | 166 | Danielle Mogg |
+| 125 | 166 | Kelly Ann Child |
 | 126 | 164 | rosy |
 | 127 | 159 | Jone |
 | 128 | 159 | Morgan Martinez |

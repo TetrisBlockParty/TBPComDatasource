@@ -124,8 +124,8 @@
 | 116 | 520 | Kimberly Schall |
 | 117 | 519 | Maria Escobar |
 | 118 | 517 | Debra Williams |
-| 119 | 515 | Real Ri |
-| 120 | 515 | Kaylee McCafferty |
+| 119 | 515 | Kaylee McCafferty |
+| 120 | 515 | Real Ri |
 | 121 | 513 | Butta |
 | 122 | 510 | Ashley House |
 | 123 | 509 | Kelli Wells |
@@ -261,12 +261,12 @@
 | 253 | 271 | Toni Lynn |
 | 254 | 270 | Angela Lynn |
 | 255 | 270 | Alexandra Weir |
-| 256 | 268 | Chummy Blockbuilder |
-| 257 | 268 | Tanya Parsons |
-| 258 | 268 | Vanessa Moreno |
+| 256 | 268 | Tanya Parsons |
+| 257 | 268 | Vanessa Moreno |
+| 258 | 268 | Chummy Blockbuilder |
 | 259 | 267 | Mindy Leigh Head |
-| 260 | 266 | Autumn Schaeffer |
-| 261 | 266 | Mighty Shatterfit |
+| 260 | 266 | Mighty Shatterfit |
+| 261 | 266 | Autumn Schaeffer |
 | 262 | 266 | Joyce Johnson Vaughn |
 | 263 | 264 | Dapper Dasher |
 | 264 | 263 | Taylor Flowers |
@@ -305,9 +305,9 @@
 | 297 | 243 | Brandy Andre |
 | 298 | 242 | Donna Chandler |
 | 299 | 241 | Sabrina Burton |
-| 300 | 240 | Angie Marie |
-| 301 | 240 | Johnny Yeates |
-| 302 | 240 | Adam Erikson |
+| 300 | 240 | Johnny Yeates |
+| 301 | 240 | Adam Erikson |
+| 302 | 240 | Angie Marie |
 | 303 | 238 | Cheery Matchzone |
 | 304 | 237 | Altamirano Michael |
 | 305 | 236 | Frisky Riserbuilder |
@@ -501,11 +501,11 @@
 | 493 | 146 | Sherry Aguinaga |
 | 494 | 146 | Ibiza Carolina LaRose |
 | 495 | 145 | Chareen Lauritzen |
-| 496 | 145 | Scott Rackley |
-| 497 | 145 | William Hughes |
+| 496 | 145 | William Hughes |
+| 497 | 145 | Scott Rackley |
 | 498 | 145 | Catina Hutchison |
-| 499 | 144 | Alexis Richardson |
-| 500 | 144 | Regina Young |
+| 499 | 144 | Regina Young |
+| 500 | 144 | Alexis Richardson |
 | 501 | 144 | Tristan Lamothe |
 | 502 | 144 | Tee Davis |
 | 503 | 144 | RavensBeard |
@@ -556,8 +556,8 @@
 | 548 | 133 | Candy Pitts |
 | 549 | 133 | Britt Woolston |
 | 550 | 133 | Mandi Douglas Hilt |
-| 551 | 133 | Rae Rae |
-| 552 | 133 | Epic Stackzone |
+| 551 | 133 | Epic Stackzone |
+| 552 | 133 | Rae Rae |
 | 553 | 132 | Mr. Street Stack |
 | 554 | 132 | Chilly Rollblock |
 | 555 | 132 | Eric Carlson |

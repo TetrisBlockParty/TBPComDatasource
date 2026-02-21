@@ -67,8 +67,8 @@
 | 59 | 179 | Epic Curvetile |
 | 60 | 175 | Dustee Craddock-Harrison |
 | 61 | 171 | Clarence Patawaran |
-| 62 | 170 | Girl |
-| 63 | 170 | Leah Kutz Zirbel |
+| 62 | 170 | Leah Kutz Zirbel |
+| 63 | 170 | Girl |
 | 64 | 167 | Denise Carlson |
 | 65 | 165 | Courtney Cicoria |
 | 66 | 165 | Casey Grabner |
@@ -116,11 +116,11 @@
 | 108 | 116 | Diana Houts |
 | 109 | 116 | Serena Goodridge |
 | 110 | 113 | Andria Lynn |
-| 111 | 112 | Brittany Marsh |
-| 112 | 112 | Austin Owens |
+| 111 | 112 | Austin Owens |
+| 112 | 112 | Brittany Marsh |
 | 113 | 112 | Bryan Hodgins |
-| 114 | 111 | Lazy Blocker |
-| 115 | 111 | Gwendolyn Pitcairn |
+| 114 | 111 | Gwendolyn Pitcairn |
+| 115 | 111 | Lazy Blocker |
 | 116 | 111 | Leslie Thomas |
 | 117 | 110 | H.R. Block |
 | 118 | 108 | Rio Rocha |
@@ -135,8 +135,8 @@
 | 127 | 104 | Adam Randall |
 | 128 | 104 | Damn Libra |
 | 129 | 102 | Faja |
-| 130 | 101 | Stephme310 |
-| 131 | 101 | Michelle Morris |
+| 130 | 101 | Michelle Morris |
+| 131 | 101 | Stephme310 |
 | 132 | 101 | Saulc1991 |
 | 133 | 100 | Zethra Prenisha Rahming |
 | 134 | 100 | Alexandra Karavias |
@@ -156,8 +156,8 @@
 | 148 | 89 | Brandi Durig |
 | 149 | 88 | Kesha Brady |
 | 150 | 88 | Heather Tushner |
-| 151 | 87 | Lauren Lamb |
-| 152 | 87 | Jen Caldwell |
+| 151 | 87 | Jen Caldwell |
+| 152 | 87 | Lauren Lamb |
 | 153 | 86 | Destiney Carter |
 | 154 | 86 | amy |
 | 155 | 85 | shark tato |
@@ -243,8 +243,8 @@
 | 235 | 61 | Bradley Reeves |
 | 236 | 61 | Alee Marie |
 | 237 | 60 | Ahleek Mitchell |
-| 238 | 59 | Jasmine S Caldwell |
-| 239 | 59 | Jen Mattei |
+| 238 | 59 | Jen Mattei |
+| 239 | 59 | Jasmine S Caldwell |
 | 240 | 58 | Rebecca Morris |
 | 241 | 58 | Paige Kittles |
 | 242 | 58 | Autumn Kumzi |
