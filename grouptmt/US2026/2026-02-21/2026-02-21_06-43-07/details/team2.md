@@ -342,8 +342,8 @@
 | 334 | 207 | Melissa McCall |
 | 335 | 207 | Shylee Tilman |
 | 336 | 206 | RAEPR05 |
-| 337 | 205 | Lylymom |
-| 338 | 205 | ElizabethAnn Dickinson |
+| 337 | 205 | ElizabethAnn Dickinson |
+| 338 | 205 | Lylymom |
 | 339 | 204 | Ali Gralski |
 | 340 | 204 | Rebecca Doughman |
 | 341 | 203 | Gary Stash |
@@ -371,8 +371,8 @@
 | 363 | 193 | Matthew Turner |
 | 364 | 191 | Lauren Fitzgerald Thomas |
 | 365 | 191 | Deana |
-| 366 | 191 | John Quiring |
-| 367 | 191 | Sho Nuff |
+| 366 | 191 | Sho Nuff |
+| 367 | 191 | John Quiring |
 | 368 | 190 | blarg |
 | 369 | 190 | Jessica Kaye DeAguero |
 | 370 | 190 | Jennifer Leigh |
@@ -399,8 +399,8 @@
 | 391 | 180 | Jackie Lucas |
 | 392 | 180 | Peter Palestino |
 | 393 | 179 | Desiree Harris Rosch |
-| 394 | 179 | Cat |
-| 395 | 179 | Bette Prieto |
+| 394 | 179 | Bette Prieto |
+| 395 | 179 | Cat |
 | 396 | 177 | Facuetoo |
 | 397 | 177 | Ryan Meilleur |
 | 398 | 177 | John |
@@ -501,8 +501,8 @@
 | 493 | 144 | Kyle LeRoy Harris |
 | 494 | 144 | Tee Davis |
 | 495 | 144 | RavensBeard |
-| 496 | 143 | Leslie Johnson Guinto |
-| 497 | 143 | Jay Levy |
+| 496 | 143 | Jay Levy |
+| 497 | 143 | Leslie Johnson Guinto |
 | 498 | 143 | Angelica |
 | 499 | 142 | Frisky Clearpiece |
 | 500 | 142 | Amy Humphreys |

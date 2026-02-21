@@ -145,8 +145,8 @@
 | 137 | 90 | Madison Wicks |
 | 138 | 89 | Mara Hilker |
 | 139 | 87 | Jessi Sauer |
-| 140 | 86 | Basment Living |
-| 141 | 86 | Desiree Deschaine Havee |
+| 140 | 86 | Desiree Deschaine Havee |
+| 141 | 86 | Basment Living |
 | 142 | 85 | Steve Schneider |
 | 143 | 84 | Yvonne Marie |
 | 144 | 84 | Charla Pross-Fugleberg |

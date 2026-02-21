@@ -70,8 +70,8 @@
 | 62 | 360 | Ebony West-Cundiff |
 | 63 | 351 | Calista Jo Dickson |
 | 64 | 343 | Silly Twist |
-| 65 | 342 | Annie Déè |
-| 66 | 342 | Trezure Gonzalez |
+| 65 | 342 | Trezure Gonzalez |
+| 66 | 342 | Annie Déè |
 | 67 | 338 | Danielle Rhoades |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
 | 69 | 325 | Shari Garber |
