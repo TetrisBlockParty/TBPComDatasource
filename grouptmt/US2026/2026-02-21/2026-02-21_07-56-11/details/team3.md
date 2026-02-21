@@ -73,8 +73,8 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Annie Déè |
-| 69 | 342 | Trezure Gonzalez |
+| 68 | 342 | Trezure Gonzalez |
+| 69 | 342 | Annie Déè |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
@@ -144,8 +144,8 @@
 | 136 | 156 | Joey Banks |
 | 137 | 155 | BŘŰŤİÇŨŚ |
 | 138 | 154 | Angela M. Fletcher |
-| 139 | 153 | Beth Ingham |
-| 140 | 153 | Giddy Twistbuilder |
+| 139 | 153 | Giddy Twistbuilder |
+| 140 | 153 | Beth Ingham |
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
@@ -186,8 +186,8 @@
 | 178 | 121 | Danielle Allison |
 | 179 | 120 | Jessica |
 | 180 | 120 | Stephanie Hill |
-| 181 | 118 | Logan Naccarato |
-| 182 | 118 | Fancy Curver |
+| 181 | 118 | Fancy Curver |
+| 182 | 118 | Logan Naccarato |
 | 183 | 116 | BugMansMom |
 | 184 | 116 | Skinny Baldez |
 | 185 | 115 | Jennifer Alvey |

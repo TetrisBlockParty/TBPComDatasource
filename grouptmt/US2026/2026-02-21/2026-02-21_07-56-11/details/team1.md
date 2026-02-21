@@ -115,8 +115,8 @@
 | 107 | 123 | june october |
 | 108 | 121 | Bouncy Grid |
 | 109 | 119 | Irual Hctrab |
-| 110 | 119 | April Carroll |
-| 111 | 119 | Tater |
+| 110 | 119 | Tater |
+| 111 | 119 | April Carroll |
 | 112 | 118 | Barry Mac'Ockner |
 | 113 | 117 | Arianna O'Brien |
 | 114 | 116 | Evie Khalil |

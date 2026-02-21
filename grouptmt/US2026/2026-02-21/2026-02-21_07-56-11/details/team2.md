@@ -119,8 +119,8 @@
 | 111 | 545 | Brittany Alicia |
 | 112 | 542 | Rosa Franklin |
 | 113 | 541 | SaraMarie Eveland |
-| 114 | 540 | Charvi' Carter |
-| 115 | 540 | YiFei |
+| 114 | 540 | YiFei |
+| 115 | 540 | Charvi' Carter |
 | 116 | 534 | Poppy Snapper |
 | 117 | 531 | Chris Wanner |
 | 118 | 529 | Tonya Morgan |
@@ -322,8 +322,8 @@
 | 314 | 245 | Mischelle Clay |
 | 315 | 245 | Taryece Gause |
 | 316 | 244 | Aimee Byrom |
-| 317 | 243 | Brandy Andre |
-| 318 | 243 | Mikayala Szaz |
+| 317 | 243 | Mikayala Szaz |
+| 318 | 243 | Brandy Andre |
 | 319 | 242 | Donna Chandler |
 | 320 | 241 | Sabrina Burton |
 | 321 | 240 | Johnny Yeates |

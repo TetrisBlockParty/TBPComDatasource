@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -108,8 +108,8 @@
 | 100 | 129 | John Brunetti |
 | 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
-| 103 | 123 | Cherrish Duren |
-| 104 | 123 | Bubbly Puzzler |
+| 103 | 123 | Bubbly Puzzler |
+| 104 | 123 | Cherrish Duren |
 | 105 | 123 | Nugget |
 | 106 | 122 | Sherri |
 | 107 | 121 | Smiley Tiltbuilder |
@@ -148,8 +148,8 @@
 | 140 | 101 | Saulc1991 |
 | 141 | 100 | Alexandra Karavias |
 | 142 | 100 | Megan Cutshaw |
-| 143 | 98 | Duck |
-| 144 | 98 | Chaz |
+| 143 | 98 | Chaz |
+| 144 | 98 | Duck |
 | 145 | 98 | Allen Lloyd |
 | 146 | 97 | Brandi Durig |
 | 147 | 96 | Zappy Snaplink |
@@ -164,8 +164,8 @@
 | 156 | 89 | Jeremy Steines |
 | 157 | 88 | Kesha Brady |
 | 158 | 88 | Heather Tushner |
-| 159 | 87 | Lauren Lamb |
-| 160 | 87 | Jen Caldwell |
+| 159 | 87 | Jen Caldwell |
+| 160 | 87 | Lauren Lamb |
 | 161 | 86 | amy |
 | 162 | 86 | Destiney Carter |
 | 163 | 85 | Mimi |
@@ -238,8 +238,8 @@
 | 230 | 64 | Joseph Edmonson |
 | 231 | 64 | rebel4lyfe |
 | 232 | 63 | Cheery Risebuilder |
-| 233 | 63 | Cristy Duerksen |
-| 234 | 63 | Dawn Alexander |
+| 233 | 63 | Dawn Alexander |
+| 234 | 63 | Cristy Duerksen |
 | 235 | 62 | Jennifer Perkins |
 | 236 | 62 | Maureen Flanigan |
 | 237 | 62 | PennyCandee |
