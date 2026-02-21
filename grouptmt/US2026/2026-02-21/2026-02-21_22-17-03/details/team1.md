@@ -167,8 +167,8 @@
 | 159 | 158 | Sarah Marie |
 | 160 | 154 | Irual Hctrab |
 | 161 | 153 | Shiny Gridmatch |
-| 162 | 152 | Speedy Snapfall |
-| 163 | 152 | Jacqueline Unique |
+| 162 | 152 | Jacqueline Unique |
+| 163 | 152 | Speedy Snapfall |
 | 164 | 150 | David Miller |
 | 165 | 150 | Adele Rahman |
 | 166 | 148 | Bouncy Grid |
@@ -195,8 +195,8 @@
 | 187 | 135 | Giddy Cascade |
 | 188 | 135 | Guest |
 | 189 | 134 | Brave Wrecker |
-| 190 | 133 | Kimberly Garcia |
-| 191 | 133 | Mel Hogan |
+| 190 | 133 | Mel Hogan |
+| 191 | 133 | Kimberly Garcia |
 | 192 | 132 | Tipsy Riseclear |
 | 193 | 131 | Fmp |
 | 194 | 131 | Uhog SF |

@@ -288,9 +288,9 @@
 | 280 | 474 | Calandra Shaya Robinson |
 | 281 | 471 | Maya June |
 | 282 | 470 | Jerry Tempelmeyer |
-| 283 | 469 | Ashley Rose Frederick |
+| 283 | 469 | Ashley Lopez |
 | 284 | 469 | Amélie Cadieux |
-| 285 | 469 | Ashley Lopez |
+| 285 | 469 | Ashley Rose Frederick |
 | 286 | 467 | Scott Treadway |
 | 287 | 465 | Drwatson187 |
 | 288 | 463 | Sue Leard |
@@ -369,8 +369,8 @@
 | 361 | 382 | David Holliday |
 | 362 | 381 | Melissa Rebbe-Lehman |
 | 363 | 381 | Bubbly Snapfit |
-| 364 | 378 | Christina Ashley |
-| 365 | 378 | TF Dyer |
+| 364 | 378 | TF Dyer |
+| 365 | 378 | Christina Ashley |
 | 366 | 378 | Cody Nishimura |
 | 367 | 378 | Lee Harper |
 | 368 | 376 | Caitlin Schmid |
@@ -863,7 +863,7 @@
 | 855 | 167 | mshir |
 | 856 | 167 | Sabrena Yeisley |
 | 857 | 167 | Swanky Columnbuilder |
-| 858 | 167 | Sabrena Yeisley |
+| 858 | 167 | Tristan Lamothe |
 | 859 | 167 | Jennifer Aiken |
 | 860 | 166 | Kim Chen |
 | 861 | 166 | Leslie Clark |
@@ -919,8 +919,8 @@
 | 911 | 158 | Toni Roberson |
 | 912 | 158 | Erica Dale |
 | 913 | 158 | SpaceCase085 |
-| 914 | 157 | Miranda Jackson |
-| 915 | 157 | Sassy Pivot |
+| 914 | 157 | Sassy Pivot |
+| 915 | 157 | Miranda Jackson |
 | 916 | 157 | Dap Duong |
 | 917 | 157 | Andrew Willis |
 | 918 | 157 | BIG BABY |

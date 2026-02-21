@@ -117,8 +117,8 @@
 | 109 | 368 | Stephanie Woods |
 | 110 | 368 | Stephanie Blkpep Davidson |
 | 111 | 367 | Domo Washington |
-| 112 | 367 | Nerdy Riseclear |
-| 113 | 367 | mjl574 |
+| 112 | 367 | mjl574 |
+| 113 | 367 | Nerdy Riseclear |
 | 114 | 366 | Adrian Marcel Pate |
 | 115 | 366 | Speedy Bridger |
 | 116 | 355 | Chauntee Alfrey-Cardinale |
@@ -133,8 +133,8 @@
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Blocked |
-| 129 | 307 | Peggi Charon |
+| 128 | 307 | Peggi Charon |
+| 129 | 307 | Blocked |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
@@ -164,8 +164,8 @@
 | 156 | 240 | Tom Nault |
 | 157 | 237 | Brandon Givens |
 | 158 | 236 | Fallorina Susana |
-| 159 | 235 | Annie Marie |
-| 160 | 235 | DidIdothat |
+| 159 | 235 | DidIdothat |
+| 160 | 235 | Annie Marie |
 | 161 | 234 | Ashley Tookes |
 | 162 | 233 | Ray Lader |
 | 163 | 231 | Nikki Pags |
@@ -181,8 +181,8 @@
 | 173 | 219 | Rebecca Bailey |
 | 174 | 218 | LaNette Morgan |
 | 175 | 217 | Jess Bissett |
-| 176 | 214 | Jenny Hrndz |
-| 177 | 214 | Amy Fuller Heaton |
+| 176 | 214 | Amy Fuller Heaton |
+| 177 | 214 | Jenny Hrndz |
 | 178 | 212 | Krystal Gerstberger |
 | 179 | 211 | Katrina Turner |
 | 180 | 211 | Khaleada McGill Banks |
