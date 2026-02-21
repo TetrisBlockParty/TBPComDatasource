@@ -146,8 +146,8 @@
 | 138 | 164 | ThaEviLJeNiuZ |
 | 139 | 164 | 030Synner |
 | 140 | 160 | ZeeZee |
-| 141 | 156 | Holly |
-| 142 | 156 | Jessica Bohlken |
+| 141 | 156 | Jessica Bohlken |
+| 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Avy Absol |
 | 145 | 151 | Bethany Ison |
@@ -213,10 +213,10 @@
 | 205 | 118 | Mary Ann Pabukis |
 | 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
-| 208 | 115 | Jayk |
-| 209 | 115 | Ultramarine |
-| 210 | 115 | Nubian1 |
-| 211 | 115 | Sam Middleton |
+| 208 | 115 | Ultramarine |
+| 209 | 115 | Jayk |
+| 210 | 115 | Sam Middleton |
+| 211 | 115 | Nubian1 |
 | 212 | 115 | Tyler Terrific |
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |

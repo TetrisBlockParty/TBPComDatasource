@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Ashley Muncey |
-| 138 | 271 | Leah Barnett |
+| 137 | 271 | Leah Barnett |
+| 138 | 271 | Ashley Muncey |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Domo Washington |
@@ -181,8 +181,8 @@
 | 173 | 211 | Khaleada McGill Banks |
 | 174 | 211 | Katrina Turner |
 | 175 | 207 | Jessica |
-| 176 | 207 | Chris Bell |
-| 177 | 207 | rnr junky |
+| 176 | 207 | rnr junky |
+| 177 | 207 | Chris Bell |
 | 178 | 205 | Sarah Moyer |
 | 179 | 204 | Danielle Allison |
 | 180 | 203 | Twisty Brick LT |
@@ -255,8 +255,8 @@
 | 247 | 149 | Alexis Taylor |
 | 248 | 149 | Peachy Rollfit |
 | 249 | 148 | Gumbo |
-| 250 | 148 | Wetwet |
-| 251 | 148 | Jennifer Alvey |
+| 250 | 148 | Jennifer Alvey |
+| 251 | 148 | Wetwet |
 | 252 | 147 | Cheryl Hinch Tenbrook |
 | 253 | 147 | Carrie Huskey |
 | 254 | 147 | Ashley Lynn Marchese |

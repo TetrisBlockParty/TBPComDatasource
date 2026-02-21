@@ -205,8 +205,8 @@
 | 197 | 604 | Danielle Johnson-Chandler |
 | 198 | 603 | Cassie Maynard |
 | 199 | 597 | Erica Williams |
-| 200 | 596 | Jelly |
-| 201 | 596 | Ellie Jonas |
+| 200 | 596 | Ellie Jonas |
+| 201 | 596 | Jelly |
 | 202 | 592 | Ashle Scranton |
 | 203 | 589 | Thomas Hedrick |
 | 204 | 587 | Hyper Cluster |
@@ -375,11 +375,11 @@
 | 367 | 367 | Deyawn Smith |
 | 368 | 366 | Wuntayk |
 | 369 | 365 | Christina Lewis-Vickers |
-| 370 | 365 | Kayla |
-| 371 | 365 | Audrey Jones |
-| 372 | 364 | Shinette Dobson |
+| 370 | 365 | Audrey Jones |
+| 371 | 365 | Kayla |
+| 372 | 364 | Lively Edgepiece |
 | 373 | 364 | Julie Kresal |
-| 374 | 364 | Lively Edgepiece |
+| 374 | 364 | Shinette Dobson |
 | 375 | 362 | Tracy Wise |
 | 376 | 360 | Brenda Messer |
 | 377 | 359 | Barbra Miller |
@@ -395,9 +395,9 @@
 | 387 | 354 | Lawanda Forbes |
 | 388 | 353 | Cheery Matchzone |
 | 389 | 352 | Juanita Lyons |
-| 390 | 352 | ruth |
-| 391 | 352 | KayLynn Ogden McClelland |
-| 392 | 352 | Tj Ball |
+| 390 | 352 | KayLynn Ogden McClelland |
+| 391 | 352 | Tj Ball |
+| 392 | 352 | ruth |
 | 393 | 351 | Rebecca Miller |
 | 394 | 350 | Fi Ne |
 | 395 | 350 | F-X |
@@ -586,8 +586,8 @@
 | 578 | 245 | Sanaa Nounoussa |
 | 579 | 245 | Mary Boss |
 | 580 | 244 | Maxwell Escalera |
-| 581 | 244 | Court |
-| 582 | 244 | Nakiiya Dreamcatcher Gore |
+| 581 | 244 | Nakiiya Dreamcatcher Gore |
+| 582 | 244 | Court |
 | 583 | 243 | JacJac |
 | 584 | 242 | Donna Chandler |
 | 585 | 242 | Lianne Giandalone LaBounty |

@@ -50,8 +50,8 @@
 | 42 | 508 | Michelle Nicole |
 | 43 | 505 | Kristen Roles Robben |
 | 44 | 503 | Cody Slav |
-| 45 | 486 | Sarah Lombardo |
-| 46 | 486 | Sevens4L |
+| 45 | 486 | Sevens4L |
+| 46 | 486 | Sarah Lombardo |
 | 47 | 483 | Ryan Lunnin |
 | 48 | 469 | Kathi Snustad |
 | 49 | 445 | April Carroll |
@@ -85,8 +85,8 @@
 | 77 | 299 | Lehrin Maria |
 | 78 | 298 | Carrie Beck Geartz |
 | 79 | 297 | cc |
-| 80 | 293 | Adam Byrd |
-| 81 | 293 | Shauna Loe |
+| 80 | 293 | Shauna Loe |
+| 81 | 293 | Adam Byrd |
 | 82 | 291 | Sweet Baker |
 | 83 | 287 | Hyper |
 | 84 | 283 | TSwag |
@@ -95,8 +95,8 @@
 | 87 | 272 | Sarah Roberts |
 | 88 | 270 | Jennifer ManWarren |
 | 89 | 267 | Bhelle Sumile |
-| 90 | 258 | Dandy Basegrid |
-| 91 | 258 | Kellie |
+| 90 | 258 | Kellie |
+| 91 | 258 | Dandy Basegrid |
 | 92 | 254 | Rachael |
 | 93 | 252 | Dena Kayy |
 | 94 | 251 | june october |
@@ -120,9 +120,9 @@
 | 112 | 208 | Happy Basegrid |
 | 113 | 204 | Ananda Mendez |
 | 114 | 203 | Giggly Builderline |
-| 115 | 198 | Steve Schneider |
-| 116 | 198 | Happy Snapbuild |
-| 117 | 198 | GATOR |
+| 115 | 198 | Happy Snapbuild |
+| 116 | 198 | GATOR |
+| 117 | 198 | Steve Schneider |
 | 118 | 195 | Jason Jones |
 | 119 | 194 | Ash Galvan |
 | 120 | 193 | Lachelle Dillon |
@@ -140,11 +140,11 @@
 | 132 | 180 | Erez Yosef |
 | 133 | 179 | Danielle Little-Daugherty |
 | 134 | 178 | Chad Atchley |
-| 135 | 177 | Michael |
-| 136 | 177 | ParisandCory Champagne |
+| 135 | 177 | ParisandCory Champagne |
+| 136 | 177 | Michael |
 | 137 | 176 | Basment Living |
-| 138 | 171 | David DeSantis |
-| 139 | 171 | Greg Premoe |
+| 138 | 171 | Greg Premoe |
+| 139 | 171 | David DeSantis |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
@@ -167,8 +167,8 @@
 | 159 | 150 | Adele Rahman |
 | 160 | 148 | Bouncy Grid |
 | 161 | 148 | Shauntina Burke |
-| 162 | 147 | Leslie Bush Yarbrough |
-| 163 | 147 | Davery Spencer Adair |
+| 162 | 147 | Davery Spencer Adair |
+| 163 | 147 | Leslie Bush Yarbrough |
 | 164 | 146 | Christy Jones |
 | 165 | 145 | Agustin Duarte Orozco |
 | 166 | 145 | Angela Fairbank |
@@ -200,8 +200,8 @@
 | 192 | 128 | Layzietyme |
 | 193 | 128 | Barry Mac'Ockner |
 | 194 | 126 | Tami Luce Martin |
-| 195 | 125 | Larry Tilton |
-| 196 | 125 | Fmp |
+| 195 | 125 | Fmp |
+| 196 | 125 | Larry Tilton |
 | 197 | 124 | Cartier |
 | 198 | 122 | Margo Wagner |
 | 199 | 122 | Melissa Lemmon |
@@ -212,12 +212,12 @@
 | 204 | 119 | Tater |
 | 205 | 118 | SavageBooty98 |
 | 206 | 116 | Jessica Russell |
-| 207 | 115 | Zany Tiler |
-| 208 | 115 | Jacob Shaddock |
-| 209 | 115 | Chuck Gannon |
-| 210 | 115 | Mrs.Patrica |
-| 211 | 114 | Hector Cruz |
-| 212 | 114 | Tyler Hertzog |
+| 207 | 115 | Chuck Gannon |
+| 208 | 115 | Mrs.Patrica |
+| 209 | 115 | Zany Tiler |
+| 210 | 115 | Jacob Shaddock |
+| 211 | 114 | Tyler Hertzog |
+| 212 | 114 | Hector Cruz |
 | 213 | 113 | Desiree Deschaine Havee |
 | 214 | 112 | Jessica Sheehan |
 | 215 | 112 | Chris65 |
