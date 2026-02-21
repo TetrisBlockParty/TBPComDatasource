@@ -221,8 +221,8 @@
 | 213 | 233 | Robin Kerby |
 | 214 | 233 | Alyssia Tancredi |
 | 215 | 232 | Chummy Blockbuilder |
-| 216 | 231 | Dylan Thomason |
-| 217 | 231 | Ginger |
+| 216 | 231 | Ginger |
+| 217 | 231 | Dylan Thomason |
 | 218 | 231 | Maegan Beaule |
 | 219 | 231 | Ashley Lopez |
 | 220 | 227 | Nutty Matchline |

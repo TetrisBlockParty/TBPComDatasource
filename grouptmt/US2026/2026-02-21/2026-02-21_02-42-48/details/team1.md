@@ -91,11 +91,11 @@
 | 83 | 100 | Ash Galvan |
 | 84 | 99 | Bhelle Sumile |
 | 85 | 99 | Ty Brown |
-| 86 | 98 | Billie Dawn Sparks |
-| 87 | 98 | Gary Gobin |
-| 88 | 98 | Flashy Rotator |
-| 89 | 96 | Melissa Lemmon |
-| 90 | 96 | Nery Martinez |
+| 86 | 98 | Flashy Rotator |
+| 87 | 98 | Billie Dawn Sparks |
+| 88 | 98 | Gary Gobin |
+| 89 | 96 | Nery Martinez |
+| 90 | 96 | Melissa Lemmon |
 | 91 | 94 | Bindi |
 | 92 | 93 | Loony Fitzone |
 | 93 | 93 | Adryane Schnase |
@@ -117,8 +117,8 @@
 | 109 | 80 | Larry Tilton |
 | 110 | 80 | pjbeta |
 | 111 | 79 | Chris65 |
-| 112 | 78 | Sam Williams |
-| 113 | 78 | Carrie Beck Geartz |
+| 112 | 78 | Carrie Beck Geartz |
+| 113 | 78 | Sam Williams |
 | 114 | 77 | Teddy Alexander |
 | 115 | 76 | Kerry Lee Powell |
 | 116 | 76 | Archie Ware |

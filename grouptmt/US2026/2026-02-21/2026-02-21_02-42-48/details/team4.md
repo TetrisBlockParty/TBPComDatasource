@@ -41,8 +41,8 @@
 | 33 | 185 | loulou |
 | 34 | 174 | Jamie Mann-Deichmann |
 | 35 | 171 | Rachel Anne |
-| 36 | 170 | Leah Kutz Zirbel |
-| 37 | 170 | Girl |
+| 36 | 170 | Girl |
+| 37 | 170 | Leah Kutz Zirbel |
 | 38 | 169 | Kimyatta Cavin |
 | 39 | 168 | Anthony Magaraci |
 | 40 | 153 | Lucille Truesdale |
@@ -54,8 +54,8 @@
 | 46 | 140 | Carter Jones |
 | 47 | 140 | Shannon Ferrari |
 | 48 | 138 | BertMofo |
-| 49 | 133 | Jessica Bohlken |
-| 50 | 133 | Robin Watters |
+| 49 | 133 | Robin Watters |
+| 50 | 133 | Jessica Bohlken |
 | 51 | 132 | Jenna McGeorge |
 | 52 | 131 | Dustee Craddock-Harrison |
 | 53 | 130 | Casey Jeffcoat |
@@ -86,8 +86,8 @@
 | 78 | 100 | Jeff Brian Gates |
 | 79 | 100 | Stephme310 |
 | 80 | 99 | YoMomma |
-| 81 | 98 | Duck |
-| 82 | 98 | Allen Lloyd |
+| 81 | 98 | Allen Lloyd |
+| 82 | 98 | Duck |
 | 83 | 97 | TinyLegoRose |
 | 84 | 96 | Zappy Snaplink |
 | 85 | 92 | Kristin MacDonald |
@@ -128,9 +128,9 @@
 | 120 | 69 | Michelle Marie |
 | 121 | 69 | Carol Ricks Raymond |
 | 122 | 68 | LS |
-| 123 | 67 | Cozy Framezone |
+| 123 | 67 | Frank Joseph Epson |
 | 124 | 67 | Lindsey Gonzalez |
-| 125 | 67 | Frank Joseph Epson |
+| 125 | 67 | Cozy Framezone |
 | 126 | 66 | Chris Alexinas |
 | 127 | 65 | Rebecca Blake |
 | 128 | 65 | Angela Geist Jusinski |
