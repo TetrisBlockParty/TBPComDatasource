@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Josiah Fam |
-| 21 | 1015 | Jennifer Willis |
+| 20 | 1015 | Jennifer Willis |
+| 21 | 1015 | Josiah Fam |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |

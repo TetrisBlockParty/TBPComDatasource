@@ -120,12 +120,12 @@
 | 112 | 649 | Stephanie Chapman |
 | 113 | 641 | Ricardo Burton |
 | 114 | 632 | Beth |
-| 115 | 631 | Peppy Zone |
-| 116 | 631 | Loopy Clusterbuilder |
+| 115 | 631 | Loopy Clusterbuilder |
+| 116 | 631 | Peppy Zone |
 | 117 | 620 | BYM4L |
 | 118 | 619 | Jamie Otero |
-| 119 | 608 | John Bednarik |
-| 120 | 608 | Sommer Shope |
+| 119 | 608 | Sommer Shope |
+| 120 | 608 | John Bednarik |
 | 121 | 601 | Nancy Reid |
 | 122 | 597 | Andea Beck |
 | 123 | 591 | Alisha |
@@ -153,8 +153,8 @@
 | 145 | 522 | Slip |
 | 146 | 520 | Kimberly Schall |
 | 147 | 517 | Debra Williams |
-| 148 | 515 | Kaylee McCafferty |
-| 149 | 515 | Real Ri |
+| 148 | 515 | Real Ri |
+| 149 | 515 | Kaylee McCafferty |
 | 150 | 514 | Ashley House |
 | 151 | 513 | Butta |
 | 152 | 511 | Ramone Armstrong |
@@ -217,8 +217,8 @@
 | 209 | 390 | Lylymom |
 | 210 | 386 | Ashie Ann |
 | 211 | 386 | Macy Williams |
-| 212 | 385 | Sam |
-| 213 | 385 | Arwa Fatimah |
+| 212 | 385 | Arwa Fatimah |
+| 213 | 385 | Sam |
 | 214 | 381 | Amanda Ferrell |
 | 215 | 380 | Calandra Shaya Robinson |
 | 216 | 378 | Cody Nishimura |
@@ -345,8 +345,8 @@
 | 337 | 264 | Dapper Dasher |
 | 338 | 264 | Giddy Gridclear |
 | 339 | 263 | Taylor Flowers |
-| 340 | 262 | Taren Cowan |
-| 341 | 262 | Min |
+| 340 | 262 | Min |
+| 341 | 262 | Taren Cowan |
 | 342 | 261 | MrsClaudette Will'sIam Matthews |
 | 343 | 260 | Denise Rickman |
 | 344 | 260 | Ebony Deloach Bryant |

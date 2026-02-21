@@ -88,8 +88,8 @@
 | 80 | 170 | Justin Hannigan |
 | 81 | 170 | Girl |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Casey Grabner |
-| 84 | 165 | Courtney Cicoria |
+| 83 | 165 | Courtney Cicoria |
+| 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
 | 87 | 160 | Stacey Stano |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -159,8 +159,8 @@
 | 151 | 103 | Judy Cox |
 | 152 | 102 | Faja |
 | 153 | 102 | ĥuf |
-| 154 | 101 | Saulc1991 |
-| 155 | 101 | Michelle Morris |
+| 154 | 101 | Michelle Morris |
+| 155 | 101 | Saulc1991 |
 | 156 | 100 | Alexandra Karavias |
 | 157 | 99 | Anthony Bryan Riva |
 | 158 | 99 | April Rondinone |
@@ -429,7 +429,7 @@
 | 421 | 41 | Juicee |
 | 422 | 41 | Helen Chao |
 | 423 | 40 | slurp |
-| 424 | 40 | Alexis Kelly |
+| 424 | 40 | Bussy Bay |
 | 425 | 40 | KanVus |
 | 426 | 40 | Sarah Hoffman |
 | 427 | 40 | Alexis Kelly |
