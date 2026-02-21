@@ -450,14 +450,14 @@
 | 442 | 183 | Lynzekwi |
 | 443 | 182 | Donna M Carter |
 | 444 | 182 | Tamara Bailey |
-| 445 | 181 | Wacky Cascade |
-| 446 | 181 | Julay |
-| 447 | 180 | Peter Palestino |
-| 448 | 180 | Jackie Lucas |
+| 445 | 181 | Julay |
+| 446 | 181 | Wacky Cascade |
+| 447 | 180 | Jackie Lucas |
+| 448 | 180 | Peter Palestino |
 | 449 | 179 | Desiree Harris Rosch |
 | 450 | 179 | Elizabeth Pearson |
-| 451 | 179 | Cat |
-| 452 | 179 | Bette Prieto |
+| 451 | 179 | Bette Prieto |
+| 452 | 179 | Cat |
 | 453 | 178 | Michelle Shrum |
 | 454 | 177 | Facuetoo |
 | 455 | 177 | John |
@@ -470,8 +470,8 @@
 | 462 | 176 | Stacy Harper |
 | 463 | 175 | Snippy Rumbler |
 | 464 | 175 | Lucero Ramirez |
-| 465 | 175 | Tina Blessed Cage |
-| 466 | 175 | Shandrica Lowe |
+| 465 | 175 | Shandrica Lowe |
+| 466 | 175 | Tina Blessed Cage |
 | 467 | 174 | Veronica Guerra |
 | 468 | 174 | Jason Garnatz |
 | 469 | 173 | Ocean-Brianna McGregor |
@@ -530,8 +530,8 @@
 | 522 | 156 | Deanna Morton |
 | 523 | 155 | Angela Murgia-Owen |
 | 524 | 155 | Cris cris |
-| 525 | 155 | Monarca26 |
-| 526 | 155 | Chelle |
+| 525 | 155 | Chelle |
+| 526 | 155 | Monarca26 |
 | 527 | 154 | Bryan Werleman |
 | 528 | 154 | Cini |
 | 529 | 154 | Lydia Greenman |
@@ -549,8 +549,8 @@
 | 541 | 151 | Jennifer Rajek |
 | 542 | 150 | Greenshades00 |
 | 543 | 150 | Jodi Mitnick |
-| 544 | 150 | Josh Dill |
-| 545 | 150 | Candace Noel |
+| 544 | 150 | Candace Noel |
+| 545 | 150 | Josh Dill |
 | 546 | 149 | Leslie Porter |
 | 547 | 149 | Boldy Cascadepiece |
 | 548 | 149 | Melissa Rebbe-Lehman |
@@ -581,8 +581,8 @@
 | 573 | 142 | Joy LaJeunesse |
 | 574 | 142 | Melissa Kay Gibson |
 | 575 | 142 | Zachary Boyarski |
-| 576 | 142 | Frisky Clearpiece |
-| 577 | 142 | Amy Humphreys |
+| 576 | 142 | Amy Humphreys |
+| 577 | 142 | Frisky Clearpiece |
 | 578 | 141 | Mary Lopez Sr. |
 | 579 | 141 | Markisha Poyndexter |
 | 580 | 141 | Aprill Bolton |
@@ -644,8 +644,8 @@
 | 636 | 132 | Samie Dayle |
 | 637 | 132 | Chilly Rollblock |
 | 638 | 132 | Joann |
-| 639 | 132 | Paula Snyder |
-| 640 | 132 | Eric Carlson |
+| 639 | 132 | Eric Carlson |
+| 640 | 132 | Paula Snyder |
 | 641 | 131 | Jennie Lee Huntley |
 | 642 | 131 | Deidre Shaffer |
 | 643 | 131 | Kerry Miller |
@@ -719,15 +719,15 @@
 | 711 | 119 | Gloria Ininahazwe |
 | 712 | 119 | Perry Hubert |
 | 713 | 119 | Mary Boss |
-| 714 | 118 | Amanda Perez |
-| 715 | 118 | Emilie Victoria Cordero |
+| 714 | 118 | Emilie Victoria Cordero |
+| 715 | 118 | Amanda Perez |
 | 716 | 118 | Nina Woodill |
 | 717 | 118 | Wha |
 | 718 | 118 | Raffaella Dowling |
 | 719 | 118 | Starrs Dcct |
 | 720 | 117 | Keri Higuchi |
-| 721 | 117 | Myleaha Holley |
-| 722 | 117 | BeaNzMaMa |
+| 721 | 117 | BeaNzMaMa |
+| 722 | 117 | Myleaha Holley |
 | 723 | 117 | Kelli Clark |
 | 724 | 117 | Cody Kelsey |
 | 725 | 117 | Theresa Ring |
@@ -771,8 +771,8 @@
 | 763 | 110 | Cranky Pattern |
 | 764 | 110 | Alice Ball |
 | 765 | 110 | Erika Deer Kauffman |
-| 766 | 110 | Britni Deas |
-| 767 | 110 | Sarah Dean |
+| 766 | 110 | Sarah Dean |
+| 767 | 110 | Britni Deas |
 | 768 | 110 | Narutofreak13 |
 | 769 | 110 | Abhishek Mutha |
 | 770 | 109 | Andrew Engman |

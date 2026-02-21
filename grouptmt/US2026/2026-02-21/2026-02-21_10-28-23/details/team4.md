@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Julian Garcia |
-| 53 | 265 | Clarence Patawaran |
+| 52 | 265 | Clarence Patawaran |
+| 53 | 265 | Julian Garcia |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -92,8 +92,8 @@
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
 | 86 | 150 | ZeeZee |
-| 87 | 147 | 030Synner |
-| 88 | 147 | Jay28 |
+| 87 | 147 | Jay28 |
+| 88 | 147 | 030Synner |
 | 89 | 146 | Peachy Fall |
 | 90 | 141 | Malakai Darien Fox |
 | 91 | 140 | Shannon Ferrari |
@@ -120,9 +120,9 @@
 | 112 | 123 | Nugget |
 | 113 | 122 | Sherri |
 | 114 | 121 | Smiley Tiltbuilder |
-| 115 | 121 | Klo |
-| 116 | 121 | Megan Cutshaw |
-| 117 | 121 | Zany Shatterer |
+| 115 | 121 | Megan Cutshaw |
+| 116 | 121 | Zany Shatterer |
+| 117 | 121 | Klo |
 | 118 | 120 | Joshua Guess |
 | 119 | 119 | Kristin Manee |
 | 120 | 118 | Leslie Nicole |
