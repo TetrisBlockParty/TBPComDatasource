@@ -69,8 +69,8 @@
 | 61 | 577 | Danielle Mogg |
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 566 | Dan Rob |
-| 64 | 561 | Dolores Falco |
-| 65 | 561 | Rachael McClain Owens |
+| 64 | 561 | Rachael McClain Owens |
+| 65 | 561 | Dolores Falco |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
 | 68 | 552 | Katrina Schroeder |
@@ -125,8 +125,8 @@
 | 117 | 316 | Fancy Cascader |
 | 118 | 312 | Jay Horn |
 | 119 | 309 | Rich LeBlanc |
-| 120 | 307 | Blocked |
-| 121 | 307 | Peggi Charon |
+| 120 | 307 | Peggi Charon |
+| 121 | 307 | Blocked |
 | 122 | 305 | Tessina Dewey-Mancino |
 | 123 | 300 | Sherika C. McDaniels |
 | 124 | 293 | Poppy Splitter |
@@ -207,8 +207,8 @@
 | 199 | 177 | Trisha Balmer |
 | 200 | 175 | DanceLuvLaugh |
 | 201 | 175 | Tasha Wesson-Torrence |
-| 202 | 174 | Loopy Fallmatch |
-| 203 | 174 | rosy |
+| 202 | 174 | rosy |
+| 203 | 174 | Loopy Fallmatch |
 | 204 | 173 | Sarajane Lokan |
 | 205 | 171 | Marquita Sheard |
 | 206 | 169 | Emma |

@@ -191,8 +191,8 @@
 | 183 | 619 | Jamie Otero |
 | 184 | 619 | Chirpy Staggerpiece |
 | 185 | 613 | Melissa Holsinger |
-| 186 | 608 | John Bednarik |
-| 187 | 608 | Sommer Shope |
+| 186 | 608 | Sommer Shope |
+| 187 | 608 | John Bednarik |
 | 188 | 604 | Danielle Johnson-Chandler |
 | 189 | 603 | Cassie Maynard |
 | 190 | 597 | Erica Williams |
@@ -467,8 +467,8 @@
 | 459 | 298 | Snappy Shatterfit |
 | 460 | 297 | Peachy Blockbuilder |
 | 461 | 296 | Jennifer Darby |
-| 462 | 296 | Amber Gray |
-| 463 | 296 | Jennifer Casey-Kay |
+| 462 | 296 | Jennifer Casey-Kay |
+| 463 | 296 | Amber Gray |
 | 464 | 295 | Noel Tarmy |
 | 465 | 294 | Barbra Miller |
 | 466 | 294 | Amanda Edwards |

@@ -165,10 +165,10 @@
 | 157 | 140 | John Brunetti |
 | 158 | 137 | PeaceOs |
 | 159 | 136 | Sarah Brown |
-| 160 | 136 | Serena Goodridge |
-| 161 | 136 | Tanner Lund |
-| 162 | 135 | Victoria Faniel |
-| 163 | 135 | Stephme310 |
+| 160 | 136 | Tanner Lund |
+| 161 | 136 | Serena Goodridge |
+| 162 | 135 | Stephme310 |
+| 163 | 135 | Victoria Faniel |
 | 164 | 134 | Kim Klutz Olson |
 | 165 | 134 | Chirpy Basepiece |
 | 166 | 134 | Zany Shatterer |
