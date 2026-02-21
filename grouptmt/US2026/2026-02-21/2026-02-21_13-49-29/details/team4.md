@@ -112,8 +112,8 @@
 | 104 | 143 | Nugget |
 | 105 | 141 | Malakai Darien Fox |
 | 106 | 140 | Shannon Ferrari |
-| 107 | 139 | Carlton Unfiltered |
-| 108 | 139 | Robin Watters |
+| 107 | 139 | Robin Watters |
+| 108 | 139 | Carlton Unfiltered |
 | 109 | 138 | Shainne Brewer |
 | 110 | 136 | Tanner Lund |
 | 111 | 134 | Jessica Bohlken |
@@ -188,8 +188,8 @@
 | 180 | 95 | Victoria Faniel |
 | 181 | 95 | Meagan Nicole |
 | 182 | 94 | Chastity Mitchell |
-| 183 | 94 | Kim Hunt |
-| 184 | 94 | DonMega |
+| 183 | 94 | DonMega |
+| 184 | 94 | Kim Hunt |
 | 185 | 93 | Zesty Twistbuilder |
 | 186 | 92 | Misty Hollibaugh |
 | 187 | 90 | Amy Suckarieh |

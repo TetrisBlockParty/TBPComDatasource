@@ -36,8 +36,8 @@
 | 28 | 867 | Briarblack |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
-| 31 | 810 | Zippy Strikesnap |
-| 32 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Shane Wilson Jr. |
+| 32 | 810 | Zippy Strikesnap |
 | 33 | 772 | Corie A. Brinson |
 | 34 | 733 | Chummy Shatterer |
 | 35 | 714 | Amber Jones |
@@ -115,8 +115,8 @@
 | 107 | 232 | Poppy Splitter |
 | 108 | 227 | Crimson |
 | 109 | 225 | Speedy Bridger |
-| 110 | 224 | Mykal Burton |
-| 111 | 224 | Judi Dobson |
+| 110 | 224 | Judi Dobson |
+| 111 | 224 | Mykal Burton |
 | 112 | 223 | Jeana Gilbert |
 | 113 | 222 | Jimmie Clemons |
 | 114 | 222 | Nicole Flippo |
@@ -135,8 +135,8 @@
 | 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Duane Bright |
-| 131 | 193 | Clever Shiftsnap |
+| 130 | 193 | Clever Shiftsnap |
+| 131 | 193 | Duane Bright |
 | 132 | 192 | Chasity |
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
@@ -181,8 +181,8 @@
 | 173 | 151 | MsBee |
 | 174 | 150 | Nicole Myers |
 | 175 | 150 | Sashay Tapae Simpson |
-| 176 | 149 | Bea Miles |
-| 177 | 149 | Angel Mendez |
+| 176 | 149 | Angel Mendez |
+| 177 | 149 | Bea Miles |
 | 178 | 147 | Desiree Gold |
 | 179 | 146 | Denita Mungro |
 | 180 | 146 | Latoya Mayne |
@@ -193,7 +193,7 @@
 | 185 | 142 | Jess Bissett |
 | 186 | 140 | Carrie Huskey |
 | 187 | 140 | Jay Horn |
-| 188 | 140 | Carrie Huskey |
+| 188 | 140 | Gumbo |
 | 189 | 137 | Aerian Preston |
 | 190 | 136 | Boldy Corner |
 | 191 | 135 | Cheryl Hinch Tenbrook |
@@ -206,8 +206,8 @@
 | 198 | 128 | Jen Lewis |
 | 199 | 127 | Marquita Sheard |
 | 200 | 126 | Brandon Givens |
-| 201 | 125 | Shimika Enay Wallace |
-| 202 | 125 | Felicia Doxey |
+| 201 | 125 | Felicia Doxey |
+| 202 | 125 | Shimika Enay Wallace |
 | 203 | 124 | Cesar Barraza |
 | 204 | 123 | Terry Jo Jones |
 | 205 | 123 | Marci Mize Fandrich |

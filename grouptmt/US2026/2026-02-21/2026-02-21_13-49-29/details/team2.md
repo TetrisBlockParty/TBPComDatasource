@@ -382,8 +382,8 @@
 | 374 | 254 | Elizabeth Diraffaele |
 | 375 | 254 | Rose Fx |
 | 376 | 253 | Tansaria Couch-Butler |
-| 377 | 252 | Alyssia Tancredi |
-| 378 | 252 | Matt Johnson |
+| 377 | 252 | Matt Johnson |
+| 378 | 252 | Alyssia Tancredi |
 | 379 | 251 | Ann Knutson Anderson |
 | 380 | 250 | Steve Man |
 | 381 | 250 | Anthony Mignacca |
