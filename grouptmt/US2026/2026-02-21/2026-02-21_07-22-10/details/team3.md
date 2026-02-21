@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -153,8 +153,8 @@
 | 145 | 146 | Latoya Mayne |
 | 146 | 146 | Denita Mungro |
 | 147 | 142 | Erica Anderson |
-| 148 | 140 | Jay Horn |
-| 149 | 140 | Gumbo |
+| 148 | 140 | Gumbo |
+| 149 | 140 | Jay Horn |
 | 150 | 137 | Patricia Gadsden |
 | 151 | 135 | Nicole Flippo |
 | 152 | 135 | Cheryl Hinch Tenbrook |
@@ -200,8 +200,8 @@
 | 192 | 107 | Sherry Ogden |
 | 193 | 106 | Desiree Gold |
 | 194 | 106 | Eon Harris |
-| 195 | 105 | Emi |
-| 196 | 105 | Carol Cain Thurman |
+| 195 | 105 | Carol Cain Thurman |
+| 196 | 105 | Emi |
 | 197 | 105 | Hoppy Buildout |
 | 198 | 105 | Stephanie Hill |
 | 199 | 104 | mommablock |

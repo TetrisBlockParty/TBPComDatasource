@@ -88,8 +88,8 @@
 | 80 | 141 | Malakai Darien Fox |
 | 81 | 140 | Shannon Ferrari |
 | 82 | 136 | Tanner Lund |
-| 83 | 134 | Chirpy Basepiece |
-| 84 | 134 | Jessica Bohlken |
+| 83 | 134 | Jessica Bohlken |
+| 84 | 134 | Chirpy Basepiece |
 | 85 | 133 | Robin Watters |
 | 86 | 132 | Melissa Priest Sellers |
 | 87 | 132 | Degenerate |
@@ -100,8 +100,8 @@
 | 92 | 131 | Dana Scott |
 | 93 | 130 | Lucas J Sutton |
 | 94 | 130 | Casey Jeffcoat |
-| 95 | 129 | John Brunetti |
-| 96 | 129 | Landon Keith Graffeo |
+| 95 | 129 | Landon Keith Graffeo |
+| 96 | 129 | John Brunetti |
 | 97 | 125 | Lauren Scott |
 | 98 | 123 | Nugget |
 | 99 | 123 | Cherrish Duren |
@@ -109,9 +109,9 @@
 | 101 | 122 | Shelly Chandler |
 | 102 | 122 | Sherri |
 | 103 | 121 | Klo |
-| 104 | 121 | Zany Shatterer |
-| 105 | 121 | Smiley Tiltbuilder |
-| 106 | 121 | 030Synner |
+| 104 | 121 | Smiley Tiltbuilder |
+| 105 | 121 | 030Synner |
+| 106 | 121 | Zany Shatterer |
 | 107 | 120 | Joshua Guess |
 | 108 | 119 | Kristin Manee |
 | 109 | 118 | Leslie Nicole |
@@ -225,8 +225,8 @@
 | 217 | 66 | mitch |
 | 218 | 66 | Ericca Eldridge |
 | 219 | 66 | Moonsterix |
-| 220 | 65 | Angela Geist Jusinski |
-| 221 | 65 | Lee Silpe |
+| 220 | 65 | Lee Silpe |
+| 221 | 65 | Angela Geist Jusinski |
 | 222 | 65 | BlockBabe |
 | 223 | 64 | Joseph Edmonson |
 | 224 | 64 | rebel4lyfe |
@@ -287,8 +287,8 @@
 | 279 | 52 | Nerdy Twisterfit |
 | 280 | 52 | Susan Williams |
 | 281 | 52 | Chassidy Martin |
-| 282 | 51 | Frank Cook |
-| 283 | 51 | George Nutt |
+| 282 | 51 | George Nutt |
+| 283 | 51 | Frank Cook |
 | 284 | 50 | Kelly Duncan |
 | 285 | 50 | Elie Pean |
 | 286 | 50 | Christian Torres |

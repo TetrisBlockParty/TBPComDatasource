@@ -94,8 +94,8 @@
 | 86 | 658 | Pacynthia Williams |
 | 87 | 658 | Vistabrat |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Anna Edwards |
-| 90 | 649 | Stephanie Chapman |
+| 89 | 649 | Stephanie Chapman |
+| 90 | 649 | Anna Edwards |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -151,8 +151,8 @@
 | 143 | 453 | Osun Anuket Esu |
 | 144 | 452 | Alezandra Smith |
 | 145 | 450 | Giggy Blocker |
-| 146 | 448 | Nick Jensen |
-| 147 | 448 | Jojo Momma |
+| 146 | 448 | Jojo Momma |
+| 147 | 448 | Nick Jensen |
 | 148 | 442 | Daphne Jordan |
 | 149 | 427 | Destiny Cozier |
 | 150 | 426 | Magic steve |
@@ -215,8 +215,8 @@
 | 207 | 323 | Briana Alexander |
 | 208 | 318 | Trista Dumais |
 | 209 | 317 | Heather Westrum |
-| 210 | 317 | bru |
-| 211 | 317 | Dizzy Zone |
+| 210 | 317 | Dizzy Zone |
+| 211 | 317 | bru |
 | 212 | 314 | Amanda West |
 | 213 | 312 | Michelle Pike |
 | 214 | 311 | Véronique Lévesque Sabourin |
@@ -303,8 +303,8 @@
 | 295 | 246 | Ashley Lopez |
 | 296 | 246 | Stephanie Lumanlan |
 | 297 | 245 | Rachael Senard |
-| 298 | 245 | Mischelle Clay |
-| 299 | 245 | Taryece Gause |
+| 298 | 245 | Taryece Gause |
+| 299 | 245 | Mischelle Clay |
 | 300 | 244 | Aimee Byrom |
 | 301 | 243 | Brandy Andre |
 | 302 | 243 | Amélie Cadieux |
@@ -349,8 +349,8 @@
 | 341 | 212 | Aleasha M Brown |
 | 342 | 209 | Jerry Tempelmeyer |
 | 343 | 208 | Mema |
-| 344 | 207 | Melissa McCall |
-| 345 | 207 | Brave Gridpiece |
+| 344 | 207 | Brave Gridpiece |
+| 345 | 207 | Melissa McCall |
 | 346 | 207 | Shylee Tilman |
 | 347 | 206 | Jennifer Leigh |
 | 348 | 206 | RAEPR05 |
