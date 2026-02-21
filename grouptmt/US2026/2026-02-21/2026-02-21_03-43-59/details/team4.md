@@ -149,8 +149,8 @@
 | 141 | 70 | Richard-April Kice |
 | 142 | 69 | Carol Ricks Raymond |
 | 143 | 69 | Michelle Marie |
-| 144 | 68 | GBR |
-| 145 | 68 | LS |
+| 144 | 68 | LS |
+| 145 | 68 | GBR |
 | 146 | 67 | Frank Joseph Epson |
 | 147 | 67 | Cozy Framezone |
 | 148 | 66 | Marcela Johnson |

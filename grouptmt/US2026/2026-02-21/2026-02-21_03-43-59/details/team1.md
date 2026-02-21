@@ -76,8 +76,8 @@
 | 68 | 133 | Brandi Huntington |
 | 69 | 132 | Davery Spencer Adair |
 | 70 | 129 | Dandy Basegrid |
-| 71 | 128 | Uhog SF |
-| 72 | 128 | Gary Gobin |
+| 71 | 128 | Gary Gobin |
+| 72 | 128 | Uhog SF |
 | 73 | 126 | Cece Ibarra |
 | 74 | 125 | Rico Rico |
 | 75 | 124 | Trina Gee |
@@ -108,12 +108,12 @@
 | 100 | 96 | Melissa Lemmon |
 | 101 | 96 | Nery Martinez |
 | 102 | 95 | Spunky Piecebuilder |
-| 103 | 94 | Luciano Moreira |
-| 104 | 94 | Bindi |
-| 105 | 93 | Adryane Schnase |
-| 106 | 93 | Loony Fitzone |
-| 107 | 90 | Madison Wicks |
-| 108 | 90 | TSwag |
+| 103 | 94 | Bindi |
+| 104 | 94 | Luciano Moreira |
+| 105 | 93 | Loony Fitzone |
+| 106 | 93 | Adryane Schnase |
+| 107 | 90 | TSwag |
+| 108 | 90 | Madison Wicks |
 | 109 | 87 | Jessi Sauer |
 | 110 | 86 | Desiree Deschaine Havee |
 | 111 | 86 | Basment Living |

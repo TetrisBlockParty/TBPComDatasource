@@ -94,13 +94,13 @@
 | 86 | 541 | SaraMarie Eveland |
 | 87 | 534 | Jerilyn Andrina |
 | 88 | 525 | Desiree Anderson |
-| 89 | 515 | Real Ri |
-| 90 | 515 | Kaylee McCafferty |
+| 89 | 515 | Kaylee McCafferty |
+| 90 | 515 | Real Ri |
 | 91 | 509 | Kelli Wells |
 | 92 | 505 | Danielle Johnson-Chandler |
 | 93 | 499 | Samantha Jo |
-| 94 | 497 | Thomas Hedrick |
-| 95 | 497 | Nerdy Clearfit |
+| 94 | 497 | Nerdy Clearfit |
+| 95 | 497 | Thomas Hedrick |
 | 96 | 490 | tejas25 |
 | 97 | 488 | Teresa Gillmore |
 | 98 | 485 | Gene Mills |

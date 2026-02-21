@@ -130,8 +130,8 @@
 | 122 | 123 | Kristie McFarland |
 | 123 | 122 | Terry Jo Jones |
 | 124 | 122 | Shimika Enay Wallace |
-| 125 | 121 | Michael Latasha Gray |
-| 126 | 121 | Boldy Corner |
+| 125 | 121 | Boldy Corner |
+| 126 | 121 | Michael Latasha Gray |
 | 127 | 120 | Jessica |
 | 128 | 118 | Fancy Curver |
 | 129 | 116 | Josiah Fam |
@@ -143,7 +143,7 @@
 | 135 | 112 | Juliana Dottore |
 | 136 | 110 | Tiff Vs Tiffany |
 | 137 | 110 | Stella |
-| 138 | 109 | Brian Battjes |
+| 138 | 109 | Fredd Thomas |
 | 139 | 109 | Diana Ibarra |
 | 140 | 109 | Brian Battjes |
 | 141 | 108 | Rachel Napper |
@@ -396,8 +396,8 @@
 | 388 | 43 | Kaitie Oliver |
 | 389 | 43 | Jesseca Hunsinger |
 | 390 | 43 | gravelgrinder |
-| 391 | 42 | Anabela Ruiz |
-| 392 | 42 | Thordogg |
+| 391 | 42 | Thordogg |
+| 392 | 42 | Anabela Ruiz |
 | 393 | 42 | Myriam Lapierre |
 | 394 | 42 | Jason |
 | 395 | 42 | Fancy Fit |
