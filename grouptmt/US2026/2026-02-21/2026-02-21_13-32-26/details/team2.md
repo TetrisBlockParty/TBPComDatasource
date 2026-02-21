@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -265,8 +265,8 @@
 | 257 | 341 | Joce Lynn |
 | 258 | 338 | Mr. Street Stack |
 | 259 | 337 | Mema |
-| 260 | 334 | Felicia Lynn |
-| 261 | 334 | Missie Lawson Gebhardt |
+| 260 | 334 | Missie Lawson Gebhardt |
+| 261 | 334 | Felicia Lynn |
 | 262 | 334 | Moni Foxe |
 | 263 | 333 | ShinyRose |
 | 264 | 333 | Brittney Jean |
@@ -544,8 +544,8 @@
 | 536 | 167 | Sabrena Yeisley |
 | 537 | 166 | Lakeela Wise |
 | 538 | 166 | suuny |
-| 539 | 166 | Rhonda Petro |
-| 540 | 166 | Morgan Easter |
+| 539 | 166 | Morgan Easter |
+| 540 | 166 | Rhonda Petro |
 | 541 | 165 | Catherine Varea |
 | 542 | 165 | Austin Wilson |
 | 543 | 164 | Jessica Vega |

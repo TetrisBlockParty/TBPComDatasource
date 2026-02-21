@@ -51,13 +51,13 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Theo Pinnow |
-| 47 | 274 | Sweet Baker |
+| 46 | 274 | Sweet Baker |
+| 47 | 274 | Theo Pinnow |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -66,8 +66,8 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Tdub |
-| 62 | 212 | Jaimie Lynn |
+| 61 | 212 | Jaimie Lynn |
+| 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
 | 64 | 208 | Mandyy Rae |
 | 65 | 208 | Carrie Beck Geartz |
@@ -137,8 +137,8 @@
 | 129 | 121 | Bouncy Grid |
 | 130 | 120 | Alenoush Karimian |
 | 131 | 120 | Kimmie Kimms |
-| 132 | 119 | April Carroll |
-| 133 | 119 | Tater |
+| 132 | 119 | Tater |
+| 133 | 119 | April Carroll |
 | 134 | 118 | Barry Mac'Ockner |
 | 135 | 116 | Evie Khalil |
 | 136 | 115 | Chuck Gannon |
@@ -186,8 +186,8 @@
 | 178 | 96 | Tyler Whitley |
 | 179 | 94 | Brad MG |
 | 180 | 92 | Timothy Dew |
-| 181 | 90 | Fmp |
-| 182 | 90 | Grace Joanne Agnant |
+| 181 | 90 | Grace Joanne Agnant |
+| 182 | 90 | Fmp |
 | 183 | 89 | Mara Hilker |
 | 184 | 88 | Larry Tilton |
 | 185 | 88 | Sam Williams |

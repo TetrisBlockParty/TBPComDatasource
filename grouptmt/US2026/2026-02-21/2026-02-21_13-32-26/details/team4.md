@@ -95,8 +95,8 @@
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
 | 89 | 162 | Shauna Havard |
-| 90 | 160 | Stacey Stano |
-| 91 | 160 | Carter Jones |
+| 90 | 160 | Carter Jones |
+| 91 | 160 | Stacey Stano |
 | 92 | 159 | Holly Jolly |
 | 93 | 157 | quicksand420 |
 | 94 | 154 | Zany Twisterfit |

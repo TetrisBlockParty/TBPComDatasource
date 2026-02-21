@@ -31,8 +31,8 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Briarblack |
-| 27 | 867 | Delilah belle |
+| 26 | 867 | Delilah belle |
+| 27 | 867 | Briarblack |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
 | 30 | 810 | Shane Wilson Jr. |
@@ -178,10 +178,10 @@
 | 170 | 153 | Beth Ingham |
 | 171 | 152 | Shiny Zonebuilder |
 | 172 | 151 | MsBee |
-| 173 | 150 | Nicole Myers |
-| 174 | 150 | Sashay Tapae Simpson |
-| 175 | 149 | Bea Miles |
-| 176 | 149 | Angel Mendez |
+| 173 | 150 | Sashay Tapae Simpson |
+| 174 | 150 | Nicole Myers |
+| 175 | 149 | Angel Mendez |
+| 176 | 149 | Bea Miles |
 | 177 | 147 | Desiree Gold |
 | 178 | 146 | Latoya Mayne |
 | 179 | 146 | Denita Mungro |
@@ -193,8 +193,8 @@
 | 185 | 140 | Carrie Huskey |
 | 186 | 137 | Aerian Preston |
 | 187 | 136 | Boldy Corner |
-| 188 | 135 | Connie Mohler-Fair |
-| 189 | 135 | Cheryl Hinch Tenbrook |
+| 188 | 135 | Cheryl Hinch Tenbrook |
+| 189 | 135 | Connie Mohler-Fair |
 | 190 | 134 | Emma |
 | 191 | 133 | Joy Petroski |
 | 192 | 131 | Jl |
@@ -207,8 +207,8 @@
 | 199 | 125 | Felicia Doxey |
 | 200 | 125 | Shimika Enay Wallace |
 | 201 | 124 | Cesar Barraza |
-| 202 | 123 | Marci Mize Fandrich |
-| 203 | 123 | Terry Jo Jones |
+| 202 | 123 | Terry Jo Jones |
+| 203 | 123 | Marci Mize Fandrich |
 | 204 | 123 | Sarajane Lokan |
 | 205 | 122 | Katrina E Jelks |
 | 206 | 122 | Giggly Brickroll |
@@ -321,13 +321,13 @@
 | 313 | 83 | Glitzy Slide |
 | 314 | 83 | Deseree Ewing |
 | 315 | 82 | Justice 4 P |
-| 316 | 82 | Eileen Brady Thurber |
-| 317 | 82 | Rebecca Funderburk Kirby |
-| 318 | 81 | Joseph Vargas |
-| 319 | 81 | Tina Baurdau |
-| 320 | 81 | Tammy Rosenberry |
+| 316 | 82 | Rebecca Funderburk Kirby |
+| 317 | 82 | Eileen Brady Thurber |
+| 318 | 81 | Tina Baurdau |
+| 319 | 81 | Tammy Rosenberry |
+| 320 | 81 | Joseph Vargas |
 | 321 | 81 | lema ean |
-| 322 | 80 | Oliver Neal II |
+| 322 | 80 | Josh Borquez |
 | 323 | 80 | Me,Him,Yu |
 | 324 | 80 | Oliver Neal II |
 | 325 | 80 | Vixen Queen |
@@ -408,9 +408,9 @@
 | 400 | 68 | Reina Roth |
 | 401 | 67 | Will Miller |
 | 402 | 67 | Romeo |
-| 403 | 67 | Wendy Dearden |
-| 404 | 67 | Cozy Stagger |
-| 405 | 67 | Dee |
+| 403 | 67 | Cozy Stagger |
+| 404 | 67 | Dee |
+| 405 | 67 | Wendy Dearden |
 | 406 | 66 | Marcey Peneaux |
 | 407 | 66 | Nimka Jams |
 | 408 | 66 | Michelle Abrams |
