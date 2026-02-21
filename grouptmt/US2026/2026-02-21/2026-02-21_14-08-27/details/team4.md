@@ -82,8 +82,8 @@
 | 74 | 195 | Dustee Craddock-Harrison |
 | 75 | 194 | Jamie Mann-Deichmann |
 | 76 | 187 | Swanky Fitline |
-| 77 | 185 | loulou |
-| 78 | 185 | Andy Cabral |
+| 77 | 185 | Andy Cabral |
+| 78 | 185 | loulou |
 | 79 | 184 | Dizzy Tiley |
 | 80 | 182 | shar |
 | 81 | 180 | Leah Kutz Zirbel |

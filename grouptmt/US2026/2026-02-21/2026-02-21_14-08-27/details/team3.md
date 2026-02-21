@@ -33,8 +33,8 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Delilah belle |
-| 29 | 867 | Briarblack |
+| 28 | 867 | Briarblack |
+| 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
 | 32 | 810 | Shane Wilson Jr. |
@@ -132,8 +132,8 @@
 | 124 | 204 | Aaron Pitkin |
 | 125 | 202 | Twisty Brick LT |
 | 126 | 199 | joclisa |
-| 127 | 195 | Nicha Hooker |
-| 128 | 195 | Jenny Hrndz |
+| 127 | 195 | Jenny Hrndz |
+| 128 | 195 | Nicha Hooker |
 | 129 | 194 | glichmod |
 | 130 | 193 | Stephanie Burtin |
 | 131 | 193 | Clever Shiftsnap |
@@ -142,8 +142,8 @@
 | 134 | 191 | Giddy Twistbuilder |
 | 135 | 191 | Scott Carleton |
 | 136 | 189 | Sissy Lowery Davis |
-| 137 | 189 | Staci George Fitzsimmons |
-| 138 | 189 | Fallorina Susana |
+| 137 | 189 | Fallorina Susana |
+| 138 | 189 | Staci George Fitzsimmons |
 | 139 | 185 | Mcathen |
 | 140 | 185 | Logan Naccarato |
 | 141 | 184 | Jennie Beranek |
@@ -171,9 +171,9 @@
 | 163 | 163 | Stephanie Hill |
 | 164 | 161 | BŘŰŤİÇŨŚ |
 | 165 | 160 | Tiffany Davie |
-| 166 | 159 | Morgan Martinez |
-| 167 | 159 | Stephanie Whitefield |
-| 168 | 159 | Jone |
+| 166 | 159 | Stephanie Whitefield |
+| 167 | 159 | Jone |
+| 168 | 159 | Morgan Martinez |
 | 169 | 158 | Grams |
 | 170 | 157 | Patricia Gadsden |
 | 171 | 157 | Nicholas Roddy |
