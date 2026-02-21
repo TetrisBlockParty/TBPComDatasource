@@ -103,8 +103,8 @@
 | 95 | 225 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jeff Brian Gates |
-| 116 | 196 | Jenna McGeorge |
+| 115 | 196 | Jenna McGeorge |
+| 116 | 196 | Jeff Brian Gates |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -191,15 +191,15 @@
 | 183 | 128 | Rio Rocha |
 | 184 | 128 | April Rondinone |
 | 185 | 126 | Nerdy Twisterfit |
-| 186 | 125 | Duck |
+| 186 | 125 | Heather Tushner |
 | 187 | 125 | Judy Cox |
-| 188 | 125 | Heather Tushner |
-| 189 | 124 | SammieJo Guy |
-| 190 | 124 | Allen Lloyd |
+| 188 | 125 | Duck |
+| 189 | 124 | Allen Lloyd |
+| 190 | 124 | SammieJo Guy |
 | 191 | 123 | Austin Owens |
 | 192 | 123 | Chaz |
-| 193 | 122 | 🥔🥔 Spudz |
-| 194 | 122 | Sherri |
+| 193 | 122 | Sherri |
+| 194 | 122 | 🥔🥔 Spudz |
 | 195 | 121 | Megan Cutshaw |
 | 196 | 121 | Smiley Tiltbuilder |
 | 197 | 121 | Joseph Pace |
@@ -361,7 +361,7 @@
 | 353 | 70 | Robert Rangel |
 | 354 | 70 | Niome Encinias |
 | 355 | 69 | Beth Helms |
-| 356 | 69 | Frisky Column |
+| 356 | 69 | Meli  Jackson |
 | 357 | 69 | Jessica Wells |
 | 358 | 69 | Frisky Column |
 | 359 | 68 | zelda Morgan |

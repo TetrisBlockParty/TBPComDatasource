@@ -230,9 +230,9 @@
 | 222 | 549 | Charvi' Carter |
 | 223 | 549 | Kaylee McCafferty |
 | 224 | 543 | Adira Brown |
-| 225 | 541 | SaraMarie Eveland |
-| 226 | 541 | Giggy Blocker |
-| 227 | 541 | Desiree Harris Rosch |
+| 225 | 541 | Desiree Harris Rosch |
+| 226 | 541 | SaraMarie Eveland |
+| 227 | 541 | Giggy Blocker |
 | 228 | 540 | Teresa Gillmore |
 | 229 | 537 | Slip |
 | 230 | 535 | Paul Huber |
@@ -446,16 +446,16 @@
 | 438 | 326 | Elisheva Mizrachi |
 | 439 | 325 | bru |
 | 440 | 325 | Lewis Sturgeon |
-| 441 | 323 | Briana Alexander |
-| 442 | 323 | KhaosLord |
+| 441 | 323 | KhaosLord |
+| 442 | 323 | Briana Alexander |
 | 443 | 322 | NanDa Cruzan VI |
 | 444 | 321 | Tamara Bailey |
 | 445 | 319 | Connie Lepore-Mann |
 | 446 | 318 | Jane Crew |
 | 447 | 317 | Zombi3 |
 | 448 | 317 | snkylnk |
-| 449 | 316 | Oscar Bernie |
-| 450 | 316 | Courtney Burcham |
+| 449 | 316 | Courtney Burcham |
+| 450 | 316 | Oscar Bernie |
 | 451 | 316 | Mikayala Szaz |
 | 452 | 316 | Gloria Ininahazwe |
 | 453 | 315 | Ryan Meilleur |
@@ -477,8 +477,8 @@
 | 469 | 304 | Michelle Shrum |
 | 470 | 304 | Melissa McCall |
 | 471 | 304 | NFLPITMOM |
-| 472 | 303 | Audra Williams |
-| 473 | 303 | Amanda Schaffer |
+| 472 | 303 | Amanda Schaffer |
+| 473 | 303 | Audra Williams |
 | 474 | 303 | Crystal Greene |
 | 475 | 303 | Angie Marie |
 | 476 | 303 | Candy Pitts |
@@ -780,7 +780,7 @@
 | 772 | 182 | Veronica Guerra |
 | 773 | 182 | Wedance Fong |
 | 774 | 181 | Lucero Ramirez |
-| 775 | 181 | Scott Rackley |
+| 775 | 181 | Hunter Connors |
 | 776 | 181 | Nate Lee |
 | 777 | 181 | Phil J. Grombliniak |
 | 778 | 181 | Scott Rackley |

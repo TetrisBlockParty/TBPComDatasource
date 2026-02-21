@@ -143,8 +143,8 @@
 | 135 | 178 | Michael |
 | 136 | 177 | ParisandCory Champagne |
 | 137 | 176 | Basment Living |
-| 138 | 171 | David DeSantis |
-| 139 | 171 | Greg Premoe |
+| 138 | 171 | Greg Premoe |
+| 139 | 171 | David DeSantis |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
@@ -209,8 +209,8 @@
 | 201 | 122 | Margo Wagner |
 | 202 | 122 | Melissa Lemmon |
 | 203 | 121 | Mark Smith |
-| 204 | 120 | Kimmie Kimms |
-| 205 | 120 | Alenoush Karimian |
+| 204 | 120 | Alenoush Karimian |
+| 205 | 120 | Kimmie Kimms |
 | 206 | 119 | Tater |
 | 207 | 118 | SavageBooty98 |
 | 208 | 118 | Nery Martinez |

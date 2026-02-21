@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Natasha Jones |
-| 62 | 582 | Katrina Schroeder |
+| 61 | 582 | Katrina Schroeder |
+| 62 | 582 | Natasha Jones |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -100,8 +100,8 @@
 | 92 | 408 | Patty Allen |
 | 93 | 403 | Christine Filson |
 | 94 | 402 | Stephanie Simpson |
-| 95 | 394 | joclisa |
-| 96 | 394 | Mcathen |
+| 95 | 394 | Mcathen |
+| 96 | 394 | joclisa |
 | 97 | 392 | Michelle |
 | 98 | 391 | Calista Jo Dickson |
 | 99 | 390 | Annie Déè |
@@ -181,8 +181,8 @@
 | 173 | 214 | Amy Fuller Heaton |
 | 174 | 214 | Jenny Hrndz |
 | 175 | 212 | Krystal Gerstberger |
-| 176 | 211 | Khaleada McGill Banks |
-| 177 | 211 | Katrina Turner |
+| 176 | 211 | Katrina Turner |
+| 177 | 211 | Khaleada McGill Banks |
 | 178 | 207 | Jessica |
 | 179 | 207 | Chris Bell |
 | 180 | 205 | Sarah Moyer |
@@ -195,8 +195,8 @@
 | 187 | 195 | Michael Lucado |
 | 188 | 195 | Nicha Hooker |
 | 189 | 193 | Angie Harper |
-| 190 | 193 | Stephanie Burtin |
-| 191 | 193 | Clever Shiftsnap |
+| 190 | 193 | Clever Shiftsnap |
+| 191 | 193 | Stephanie Burtin |
 | 192 | 192 | Kelly Ann Child |
 | 193 | 191 | Rebecca Funderburk Kirby |
 | 194 | 191 | Scott Carleton |
@@ -214,8 +214,8 @@
 | 206 | 182 | Hyper Matchzone |
 | 207 | 181 | Nicholas Roddy |
 | 208 | 180 | Loopy Fallmatch |
-| 209 | 179 | Ashley Jones |
-| 210 | 179 | Tipsy Zonebuilder |
+| 209 | 179 | Tipsy Zonebuilder |
+| 210 | 179 | Ashley Jones |
 | 211 | 179 | Daira Largen |
 | 212 | 178 | AlsoJess |
 | 213 | 178 | Ryan Williams |
