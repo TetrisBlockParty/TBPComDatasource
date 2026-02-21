@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3500 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -119,8 +119,8 @@
 | 111 | 700 | Vincent Petrella |
 | 112 | 698 | Lola Contreras |
 | 113 | 694 | Vo'Landa Reels |
-| 114 | 694 | Nika Bee |
-| 115 | 694 | Nancy Reid |
+| 114 | 694 | Nancy Reid |
+| 115 | 694 | Nika Bee |
 | 116 | 693 | YiFei |
 | 117 | 688 | Dreamy Blast |
 | 118 | 679 | Gold Rose |
@@ -228,9 +228,9 @@
 | 220 | 405 | Christy Krissie |
 | 221 | 405 | Sarah Massey |
 | 222 | 402 | Joshua Mandel |
-| 223 | 400 | Rhonda Milstead |
+| 223 | 400 | Crystie Hicks |
 | 224 | 400 | Tammy Allen |
-| 225 | 400 | Crystie Hicks |
+| 225 | 400 | Rhonda Milstead |
 | 226 | 397 | Ashley Guernsey-Martin |
 | 227 | 397 | coleksquad |
 | 228 | 396 | Steven Marshaun |

@@ -93,10 +93,10 @@
 | 85 | 173 | Zethra Prenisha Rahming |
 | 86 | 173 | Jeff Brian Gates |
 | 87 | 171 | Melvin Baird |
-| 88 | 170 | Girl |
-| 89 | 170 | Justin Hannigan |
-| 90 | 167 | Carlton Unfiltered |
-| 91 | 167 | Denise Carlson |
+| 88 | 170 | Justin Hannigan |
+| 89 | 170 | Girl |
+| 90 | 167 | Denise Carlson |
+| 91 | 167 | Carlton Unfiltered |
 | 92 | 165 | Casey Grabner |
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |
@@ -129,13 +129,13 @@
 | 121 | 132 | Melissa Priest Sellers |
 | 122 | 132 | Jessica Cagle |
 | 123 | 130 | Casey Jeffcoat |
-| 124 | 129 | John Brunetti |
-| 125 | 129 | Landon Keith Graffeo |
+| 124 | 129 | Landon Keith Graffeo |
+| 125 | 129 | John Brunetti |
 | 126 | 128 | Rio Rocha |
 | 127 | 127 | YoMomma |
-| 128 | 126 | TinyLegoRose |
+| 128 | 126 | Klo |
 | 129 | 126 | Dihcheese444 |
-| 130 | 126 | Klo |
+| 130 | 126 | TinyLegoRose |
 | 131 | 124 | Allen Lloyd |
 | 132 | 123 | Angela Geist Jusinski |
 | 133 | 123 | Cherrish Duren |
@@ -377,7 +377,7 @@
 | 369 | 50 | Calvin Dennis |
 | 370 | 50 | Smiley Linkgrid |
 | 371 | 50 | Elie Pean |
-| 372 | 50 | Smiley Linkgrid |
+| 372 | 50 | Mike |
 | 373 | 50 | Christian Torres |
 | 374 | 50 | Kelly Duncan |
 | 375 | 50 | Shiny Pivoty |

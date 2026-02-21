@@ -54,13 +54,13 @@
 | 46 | 291 | Nancy Green |
 | 47 | 287 | Hyper |
 | 48 | 276 | Kristen Roles Robben |
-| 49 | 274 | Sweet Baker |
-| 50 | 274 | Theo Pinnow |
+| 49 | 274 | Theo Pinnow |
+| 50 | 274 | Sweet Baker |
 | 51 | 272 | Adam Byrd |
 | 52 | 270 | Shauna Loe |
 | 53 | 257 | Sarah Roberts |
-| 54 | 256 | Tipsy Column |
-| 55 | 256 | Robert Benito |
+| 54 | 256 | Robert Benito |
+| 55 | 256 | Tipsy Column |
 | 56 | 253 | Bhelle Sumile |
 | 57 | 252 | Dena Kayy |
 | 58 | 244 | Franswa |
@@ -95,9 +95,9 @@
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
 | 89 | 177 | Diane Byrd |
-| 90 | 173 | Frothy Pattern |
-| 91 | 173 | june october |
-| 92 | 173 | Jennifer Olewnik Soborowski |
+| 90 | 173 | Jennifer Olewnik Soborowski |
+| 91 | 173 | Frothy Pattern |
+| 92 | 173 | june october |
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
@@ -112,8 +112,8 @@
 | 104 | 155 | David DeSantis |
 | 105 | 153 | Shiny Gridmatch |
 | 106 | 152 | Jacqueline Unique |
-| 107 | 149 | Jennifer ManWarren |
-| 108 | 149 | Tana |
+| 107 | 149 | Tana |
+| 108 | 149 | Jennifer ManWarren |
 | 109 | 149 | Arianna O'Brien |
 | 110 | 148 | Shauntina Burke |
 | 111 | 146 | Tanya Carpenter-Reynolds |
@@ -145,13 +145,13 @@
 | 137 | 127 | Aimee Horton |
 | 138 | 124 | Cartier |
 | 139 | 121 | Bouncy Grid |
-| 140 | 120 | Alenoush Karimian |
-| 141 | 120 | Kimmie Kimms |
+| 140 | 120 | Kimmie Kimms |
+| 141 | 120 | Alenoush Karimian |
 | 142 | 119 | April Carroll |
 | 143 | 119 | Tater |
 | 144 | 118 | Barry Mac'Ockner |
-| 145 | 116 | Jessica Russell |
-| 146 | 116 | Evie Khalil |
+| 145 | 116 | Evie Khalil |
+| 146 | 116 | Jessica Russell |
 | 147 | 115 | Chuck Gannon |
 | 148 | 115 | Cody Slav |
 | 149 | 115 | Mrs.Patrica |
@@ -402,7 +402,7 @@
 | 394 | 48 | Jonathan Vaval |
 | 395 | 48 | GentleKitten7 |
 | 396 | 47 | Dawn Michelle Scheible |
-| 397 | 47 | Kristen Rhoads |
+| 397 | 47 | Cheery Zonegrid |
 | 398 | 47 | Lush Zoney |
 | 399 | 47 | Kristen Rhoads |
 | 400 | 46 | Margie Olivas |
