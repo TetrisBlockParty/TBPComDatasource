@@ -133,8 +133,8 @@
 | 125 | 119 | Terry Jo Jones |
 | 126 | 118 | Fancy Curver |
 | 127 | 116 | Joy Petroski |
-| 128 | 115 | Connie Mohler-Fair |
-| 129 | 115 | Jennifer Alvey |
+| 128 | 115 | Jennifer Alvey |
+| 129 | 115 | Connie Mohler-Fair |
 | 130 | 114 | Jessica Bechler |
 | 131 | 110 | Tiff Vs Tiffany |
 | 132 | 110 | Stella |

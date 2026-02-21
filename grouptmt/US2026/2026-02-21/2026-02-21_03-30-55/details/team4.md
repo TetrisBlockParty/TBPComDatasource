@@ -60,8 +60,8 @@
 | 52 | 133 | Robin Watters |
 | 53 | 132 | Jenna McGeorge |
 | 54 | 131 | Dustee Craddock-Harrison |
-| 55 | 130 | Valerie Roberts |
-| 56 | 130 | Casey Jeffcoat |
+| 55 | 130 | Casey Jeffcoat |
+| 56 | 130 | Valerie Roberts |
 | 57 | 125 | Lauren Scott |
 | 58 | 124 | Jay28 |
 | 59 | 123 | Nugget |
@@ -80,8 +80,8 @@
 | 72 | 112 | Austin Owens |
 | 73 | 112 | Chirpy Basepiece |
 | 74 | 111 | Gwendolyn Pitcairn |
-| 75 | 110 | H.R. Block |
-| 76 | 110 | John Brunetti |
+| 75 | 110 | John Brunetti |
+| 76 | 110 | H.R. Block |
 | 77 | 107 | Marcus Todd |
 | 78 | 104 | Lazy Blocker |
 | 79 | 103 | Sam Middleton |
@@ -97,8 +97,8 @@
 | 89 | 97 | TinyLegoRose |
 | 90 | 96 | Zappy Snaplink |
 | 91 | 92 | Kristin MacDonald |
-| 92 | 90 | Bubbly Puzzler |
-| 93 | 90 | Judy Cox |
+| 92 | 90 | Judy Cox |
+| 93 | 90 | Bubbly Puzzler |
 | 94 | 90 | ZeeZee |
 | 95 | 89 | Zesty Twistbuilder |
 | 96 | 88 | Heather Tushner |
@@ -180,7 +180,7 @@
 | 172 | 57 | Carlos G Reyes |
 | 173 | 56 | Cj Lewis-haut |
 | 174 | 56 | Jennifer Perkins |
-| 175 | 55 | Mylo Lipscomb |
+| 175 | 55 | mini |
 | 176 | 55 | David Phifer |
 | 177 | 55 | Mylo Lipscomb |
 | 178 | 55 | RiahRose |
