@@ -57,8 +57,8 @@
 | 49 | 449 | Shelly Chandler |
 | 50 | 447 | Samantha Peterson |
 | 51 | 433 | Isabel Aguilar |
-| 52 | 411 | Jonathan Kimbrough |
-| 53 | 411 | TeeJ |
+| 52 | 411 | TeeJ |
+| 53 | 411 | Jonathan Kimbrough |
 | 54 | 409 | Isabella Blanco |
 | 55 | 402 | Courtney Cicoria |
 | 56 | 399 | Jenna Ingersoll |
@@ -74,8 +74,8 @@
 | 66 | 358 | Nugget |
 | 67 | 355 | Jamie Mann-Deichmann |
 | 68 | 345 | Ancient Intuition |
-| 69 | 308 | Jen Allison |
-| 70 | 308 | David Lay |
+| 69 | 308 | David Lay |
+| 70 | 308 | Jen Allison |
 | 71 | 304 | Livvy |
 | 72 | 303 | Lauren Scott |
 | 73 | 300 | Jason Hart |
@@ -173,8 +173,8 @@
 | 165 | 135 | Victoria Faniel |
 | 166 | 135 | Stephme310 |
 | 167 | 134 | Chirpy Basepiece |
-| 168 | 134 | Kim Klutz Olson |
-| 169 | 134 | Zany Shatterer |
+| 168 | 134 | Zany Shatterer |
+| 169 | 134 | Kim Klutz Olson |
 | 170 | 133 | Angela Geist Jusinski |
 | 171 | 132 | Jessica Cagle |
 | 172 | 132 | Degenerate |
@@ -220,8 +220,8 @@
 | 212 | 113 | Dandy Cascadefit |
 | 213 | 113 | Adam Randall |
 | 214 | 112 | Jeremy Steines |
-| 215 | 111 | Kristin MacDonald |
-| 216 | 111 | Lazy Blocker |
+| 215 | 111 | Lazy Blocker |
+| 216 | 111 | Kristin MacDonald |
 | 217 | 110 | Adam Stephanie Parker |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
@@ -279,8 +279,8 @@
 | 271 | 90 | No Strings Attached Ra |
 | 272 | 90 | Thomas Hettenhaus |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Kesha Brady |
-| 275 | 88 | Michelle Parker |
+| 274 | 88 | Michelle Parker |
+| 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | Destiney Carter |
 | 278 | 86 | amy |

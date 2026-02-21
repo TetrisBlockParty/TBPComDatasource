@@ -165,8 +165,8 @@
 | 157 | 703 | Debra Williams |
 | 158 | 703 | Lola Contreras |
 | 159 | 700 | Vincent Petrella |
-| 160 | 700 | Beverly Owens |
-| 161 | 700 | Rosemadder |
+| 160 | 700 | Rosemadder |
+| 161 | 700 | Beverly Owens |
 | 162 | 697 | Real Ri |
 | 163 | 694 | Vo'Landa Reels |
 | 164 | 692 | Chelle |
@@ -207,8 +207,8 @@
 | 199 | 591 | Diana Fitzwater |
 | 200 | 587 | Hyper Cluster |
 | 201 | 586 | Stephen Stephen |
-| 202 | 583 | Jessicah Myers |
-| 203 | 583 | Steve Grotto |
+| 202 | 583 | Steve Grotto |
+| 203 | 583 | Jessicah Myers |
 | 204 | 579 | Gary Stash |
 | 205 | 578 | Sally Dennis |
 | 206 | 576 | Shannon Joslin |
@@ -274,8 +274,8 @@
 | 266 | 474 | Calandra Shaya Robinson |
 | 267 | 474 | Ashley Collins |
 | 268 | 470 | Jerry Tempelmeyer |
-| 269 | 469 | Amélie Cadieux |
-| 270 | 469 | Ashley Rose Frederick |
+| 269 | 469 | Ashley Rose Frederick |
+| 270 | 469 | Amélie Cadieux |
 | 271 | 467 | Scott Treadway |
 | 272 | 465 | Drwatson187 |
 | 273 | 465 | Maya June |
@@ -297,8 +297,8 @@
 | 289 | 442 | Daphne Jordan |
 | 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Joseph Musick |
-| 293 | 439 | Alisa Lamb |
+| 292 | 439 | Alisa Lamb |
+| 293 | 439 | Joseph Musick |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -307,8 +307,8 @@
 | 299 | 429 | ShinyRose |
 | 300 | 428 | Rhonda Milstead |
 | 301 | 427 | Destiny Cozier |
-| 302 | 425 | Julay |
-| 303 | 425 | Skyler Morgan |
+| 302 | 425 | Skyler Morgan |
+| 303 | 425 | Julay |
 | 304 | 423 | Shaun Church |
 | 305 | 422 | Morgue Chick |
 | 306 | 422 | Mamachelle Eisweirth |

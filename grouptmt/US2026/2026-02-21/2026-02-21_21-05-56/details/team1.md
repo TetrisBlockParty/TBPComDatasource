@@ -125,12 +125,12 @@
 | 117 | 193 | Lachelle Dillon |
 | 118 | 192 | Shaykmia |
 | 119 | 191 | Diane Byrd |
-| 120 | 190 | Sweetts |
-| 121 | 190 | Thorne Shumate |
+| 120 | 190 | Thorne Shumate |
+| 121 | 190 | Sweetts |
 | 122 | 189 | Happy Basegrid |
 | 123 | 188 | Sam Williams |
-| 124 | 187 | Snippy Wipebuilder |
-| 125 | 187 | Plucky Ziggy |
+| 124 | 187 | Plucky Ziggy |
+| 125 | 187 | Snippy Wipebuilder |
 | 126 | 186 | Jennifer Olewnik Soborowski |
 | 127 | 182 | Spunky Piecebuilder |
 | 128 | 181 | Luciano Moreira |
@@ -138,8 +138,8 @@
 | 130 | 180 | BigWeenie69 |
 | 131 | 179 | Danielle Little-Daugherty |
 | 132 | 178 | Chad Atchley |
-| 133 | 177 | ParisandCory Champagne |
-| 134 | 177 | Michael |
+| 133 | 177 | Michael |
+| 134 | 177 | ParisandCory Champagne |
 | 135 | 176 | Basment Living |
 | 136 | 171 | Greg Premoe |
 | 137 | 171 | David DeSantis |
@@ -165,8 +165,8 @@
 | 157 | 150 | Adele Rahman |
 | 158 | 148 | Shauntina Burke |
 | 159 | 148 | Bouncy Grid |
-| 160 | 147 | Leslie Bush Yarbrough |
-| 161 | 147 | Davery Spencer Adair |
+| 160 | 147 | Davery Spencer Adair |
+| 161 | 147 | Leslie Bush Yarbrough |
 | 162 | 146 | Christy Jones |
 | 163 | 145 | Angela Fairbank |
 | 164 | 145 | Agustin Duarte Orozco |
@@ -203,8 +203,8 @@
 | 195 | 122 | Melissa Lemmon |
 | 196 | 122 | Margo Wagner |
 | 197 | 121 | Mark Smith |
-| 198 | 120 | Alenoush Karimian |
-| 199 | 120 | Kimmie Kimms |
+| 198 | 120 | Kimmie Kimms |
+| 199 | 120 | Alenoush Karimian |
 | 200 | 119 | Tater |
 | 201 | 118 | SavageBooty98 |
 | 202 | 116 | ALFD |
@@ -297,7 +297,7 @@
 | 289 | 82 | Crystal Joslin |
 | 290 | 82 | Emily Adelaide Wheatley |
 | 291 | 82 | Kerry Lee Powell |
-| 292 | 82 | Crystal Joslin |
+| 292 | 82 | Cool Towerzone |
 | 293 | 81 | Giddy Glider |
 | 294 | 81 | Ajayy Carlson |
 | 295 | 81 | Archie Ware |

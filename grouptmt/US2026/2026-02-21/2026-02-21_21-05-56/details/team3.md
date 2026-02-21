@@ -70,8 +70,8 @@
 | 62 | 577 | Danielle Mogg |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -102,8 +102,8 @@
 | 94 | 394 | joclisa |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
-| 97 | 390 | Hasty Cascadefit |
-| 98 | 390 | Annie Déè |
+| 97 | 390 | Annie Déè |
+| 98 | 390 | Hasty Cascadefit |
 | 99 | 389 | Elissa S-k |
 | 100 | 387 | Jay Horn |
 | 101 | 386 | Katie Knaus |
@@ -161,8 +161,8 @@
 | 153 | 234 | Tom Nault |
 | 154 | 233 | Ray Lader |
 | 155 | 229 | Nikki Pags |
-| 156 | 228 | Rochelle Hazelett |
-| 157 | 228 | Morgan Martinez |
+| 156 | 228 | Morgan Martinez |
+| 157 | 228 | Rochelle Hazelett |
 | 158 | 226 | Grego Daniel |
 | 159 | 226 | Bea Miles |
 | 160 | 223 | Jeana Gilbert |
@@ -225,8 +225,8 @@
 | 217 | 168 | JerseyJess |
 | 218 | 168 | MsBee |
 | 219 | 167 | Raven Dudley |
-| 220 | 166 | Beth Ingham |
-| 221 | 166 | Betty Rosas |
+| 220 | 166 | Betty Rosas |
+| 221 | 166 | Beth Ingham |
 | 222 | 165 | Kali Kelz Williams |
 | 223 | 163 | Stephanie Hill |
 | 224 | 163 | Christine Trester |
