@@ -216,8 +216,8 @@
 | 208 | 166 | Beth Ingham |
 | 209 | 166 | Betty Rosas |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Christine Trester |
-| 212 | 163 | Stephanie Hill |
+| 211 | 163 | Stephanie Hill |
+| 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | BŘŰŤİÇŨŚ |
 | 215 | 161 | Irene Arreguin |
@@ -367,7 +367,7 @@
 | 359 | 97 | Paula Little |
 | 360 | 96 | Oliver Neal II |
 | 361 | 96 | Christopher Woost |
-| 362 | 96 | Oliver Neal II |
+| 362 | 96 | D3NO |
 | 363 | 95 | Trice Thomas |
 | 364 | 95 | Brooke Bauer |
 | 365 | 94 | Tracey Cox |

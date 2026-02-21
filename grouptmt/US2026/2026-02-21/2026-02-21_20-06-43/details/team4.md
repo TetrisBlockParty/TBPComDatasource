@@ -100,8 +100,8 @@
 | 92 | 210 | Damn Libra |
 | 93 | 209 | Ash |
 | 94 | 205 | Sarah Neathery |
-| 95 | 204 | Brittney Orengo |
-| 96 | 204 | Dana Scott |
+| 95 | 204 | Dana Scott |
+| 96 | 204 | Brittney Orengo |
 | 97 | 202 | shar |
 | 98 | 202 | Monica Daley |
 | 99 | 198 | Chaz Duncan |
@@ -189,7 +189,7 @@
 | 181 | 124 | SammieJo Guy |
 | 182 | 124 | Allen Lloyd |
 | 183 | 123 | Cherrish Duren |
-| 184 | 122 | 🥔🥔 Spudz |
+| 184 | 122 | Sherri |
 | 185 | 122 | Carlos Ramirez |
 | 186 | 122 | 🥔🥔 Spudz |
 | 187 | 121 | Megan Cutshaw |
@@ -412,7 +412,7 @@
 | 404 | 60 | Kris Zulch |
 | 405 | 59 | Jasmine S Caldwell |
 | 406 | 59 | Amy Sanford |
-| 407 | 59 | Jasmine S Caldwell |
+| 407 | 59 | Ziggy |
 | 408 | 59 | Albert Walker III |
 | 409 | 58 | Cool Gridzone |
 | 410 | 58 | Richard Campbell II |

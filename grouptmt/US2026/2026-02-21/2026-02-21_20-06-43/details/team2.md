@@ -188,14 +188,14 @@
 | 180 | 604 | Danielle Johnson-Chandler |
 | 181 | 603 | Cassie Maynard |
 | 182 | 597 | Erica Williams |
-| 183 | 596 | Jelly |
-| 184 | 596 | Ellie Jonas |
+| 183 | 596 | Ellie Jonas |
+| 184 | 596 | Jelly |
 | 185 | 592 | Ashle Scranton |
 | 186 | 591 | Alisha |
 | 187 | 591 | Diana Fitzwater |
 | 188 | 586 | Stephen Stephen |
-| 189 | 583 | Steve Grotto |
-| 190 | 583 | Jessicah Myers |
+| 189 | 583 | Jessicah Myers |
+| 190 | 583 | Steve Grotto |
 | 191 | 579 | Gary Stash |
 | 192 | 576 | Shannon Joslin |
 | 193 | 571 | Thomas Hedrick |
@@ -481,8 +481,8 @@
 | 473 | 280 | Danielle DeLozier Plesec |
 | 474 | 280 | Audra Williams |
 | 475 | 279 | Glitzy Stackzone |
-| 476 | 278 | Demeka Dangerous-kisses Johnson |
-| 477 | 278 | Ray Ray Prado |
+| 476 | 278 | Ray Ray Prado |
+| 477 | 278 | Demeka Dangerous-kisses Johnson |
 | 478 | 277 | Anthony Mignacca |
 | 479 | 277 | NickyBrooks |
 | 480 | 277 | August Hale |
