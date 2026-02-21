@@ -223,9 +223,9 @@
 | 215 | 348 | Richard Horton |
 | 216 | 348 | Cherica Taylor |
 | 217 | 346 | Brandon Armstrong |
-| 218 | 345 | Brenda Messer |
-| 219 | 345 | Rhianna DiLorenzo |
-| 220 | 345 | Wuntayk |
+| 218 | 345 | Rhianna DiLorenzo |
+| 219 | 345 | Wuntayk |
+| 220 | 345 | Brenda Messer |
 | 221 | 344 | Christina Lewis-Vickers |
 | 222 | 344 | Julie Kresal |
 | 223 | 343 | F-X |
@@ -319,8 +319,8 @@
 | 311 | 256 | CC |
 | 312 | 256 | Tee Jaleesa |
 | 313 | 255 | Santana Miyagi |
-| 314 | 254 | Elizabeth Diraffaele |
-| 315 | 254 | Rose Fx |
+| 314 | 254 | Rose Fx |
+| 315 | 254 | Elizabeth Diraffaele |
 | 316 | 254 | Julie Hamilton |
 | 317 | 253 | Tansaria Couch-Butler |
 | 318 | 252 | Matt Johnson |

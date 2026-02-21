@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Jaimie Lynn |
-| 53 | 212 | Tdub |
+| 52 | 212 | Tdub |
+| 53 | 212 | Jaimie Lynn |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |

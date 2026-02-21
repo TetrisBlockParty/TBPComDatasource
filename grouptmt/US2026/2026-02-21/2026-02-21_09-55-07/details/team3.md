@@ -153,14 +153,14 @@
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Stephanie Whitefield |
-| 149 | 153 | Beth Ingham |
+| 148 | 153 | Beth Ingham |
+| 149 | 153 | Stephanie Whitefield |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
-| 153 | 149 | Trisha Balmer |
-| 154 | 149 | Angel Mendez |
-| 155 | 149 | Bea Miles |
+| 153 | 149 | Bea Miles |
+| 154 | 149 | Trisha Balmer |
+| 155 | 149 | Angel Mendez |
 | 156 | 147 | Sashay Tapae Simpson |
 | 157 | 146 | Denita Mungro |
 | 158 | 146 | Latoya Mayne |

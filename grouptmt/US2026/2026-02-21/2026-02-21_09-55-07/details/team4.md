@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Julian Garcia |
-| 53 | 265 | Clarence Patawaran |
+| 52 | 265 | Clarence Patawaran |
+| 53 | 265 | Julian Garcia |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -84,8 +84,8 @@
 | 76 | 165 | Casey Grabner |
 | 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Holly Jolly |
-| 80 | 159 | Justin Hannigan |
+| 79 | 159 | Justin Hannigan |
+| 80 | 159 | Holly Jolly |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -96,14 +96,14 @@
 | 88 | 140 | Shannon Ferrari |
 | 89 | 138 | Shainne Brewer |
 | 90 | 136 | Tanner Lund |
-| 91 | 134 | Jessica Bohlken |
-| 92 | 134 | Chirpy Basepiece |
+| 91 | 134 | Chirpy Basepiece |
+| 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
 | 94 | 132 | Melissa Priest Sellers |
 | 95 | 132 | Jessica Cagle |
 | 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Dana Scott |
+| 98 | 131 | Mr. Party |
 | 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Casey Jeffcoat |
@@ -126,8 +126,8 @@
 | 118 | 118 | Leslie Nicole |
 | 119 | 116 | Serena Goodridge |
 | 120 | 116 | Diana Houts |
-| 121 | 115 | Ultramarine |
-| 122 | 115 | Jayk |
+| 121 | 115 | Jayk |
+| 122 | 115 | Ultramarine |
 | 123 | 113 | Andria Lynn |
 | 124 | 113 | Stephme310 |
 | 125 | 112 | Austin Owens |
@@ -276,8 +276,8 @@
 | 268 | 60 | Kris Zulch |
 | 269 | 60 | Ahleek Mitchell |
 | 270 | 59 | Jasmine S Caldwell |
-| 271 | 59 | Jen Mattei |
-| 272 | 59 | Chris Bernstein |
+| 271 | 59 | Chris Bernstein |
+| 272 | 59 | Jen Mattei |
 | 273 | 59 | Angelito |
 | 274 | 58 | Paul Abono |
 | 275 | 58 | Sandra Safford |
@@ -316,8 +316,8 @@
 | 308 | 54 | Sam Bishop |
 | 309 | 53 | Poppy Brickmatch |
 | 310 | 53 | Allison Judith |
-| 311 | 52 | Chassidy Martin |
-| 312 | 52 | Nerdy Twisterfit |
+| 311 | 52 | Nerdy Twisterfit |
+| 312 | 52 | Chassidy Martin |
 | 313 | 51 | Frank Cook |
 | 314 | 51 | George Nutt |
 | 315 | 50 | Elie Pean |
