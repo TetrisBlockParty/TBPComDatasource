@@ -192,8 +192,8 @@
 | 184 | 107 | Tyler Hertzog |
 | 185 | 107 | Jodee Woods |
 | 186 | 106 | Bloknboy |
-| 187 | 106 | Alyssa Ingram |
-| 188 | 106 | Chantelle Ceno |
+| 187 | 106 | Chantelle Ceno |
+| 188 | 106 | Alyssa Ingram |
 | 189 | 105 | Ty Brown |
 | 190 | 105 | Funky Piecebuilder |
 | 191 | 104 | Charla Pross-Fugleberg |

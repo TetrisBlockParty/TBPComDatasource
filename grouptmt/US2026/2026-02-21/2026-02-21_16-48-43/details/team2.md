@@ -257,8 +257,8 @@
 | 249 | 405 | Christy Krissie |
 | 250 | 403 | Crystie Hicks |
 | 251 | 402 | Joshua Mandel |
-| 252 | 400 | Tammy Allen |
-| 253 | 400 | Rhonda Milstead |
+| 252 | 400 | Rhonda Milstead |
+| 253 | 400 | Tammy Allen |
 | 254 | 397 | coleksquad |
 | 255 | 396 | Steven Marshaun |
 | 256 | 396 | Stefanie Zonzini-Gagliardi |
@@ -1245,8 +1245,8 @@
 | 1237 | 94 | Ken Verne III |
 | 1238 | 94 | cornball |
 | 1239 | 94 | Boldy Wiper |
-| 1240 | 94 | bbv |
-| 1241 | 94 | Tanyla Strickland |
+| 1240 | 94 | Tanyla Strickland |
+| 1241 | 94 | bbv |
 | 1242 | 94 | Jennifer Bachman |
 | 1243 | 93 | Sunny Frame |
 | 1244 | 93 | Major Pain |

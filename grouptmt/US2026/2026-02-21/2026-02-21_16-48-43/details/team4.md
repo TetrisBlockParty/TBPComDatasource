@@ -73,8 +73,8 @@
 | 65 | 279 | Lauren Scott |
 | 66 | 277 | KJ Pool |
 | 67 | 274 | Elizabeth Sallas |
-| 68 | 269 | KM8 |
-| 69 | 269 | Desi Desporte |
+| 68 | 269 | Desi Desporte |
+| 69 | 269 | KM8 |
 | 70 | 256 | Brittney Griggs |
 | 71 | 252 | Bubbly Puzzler |
 | 72 | 247 | Isabella Blanco |
@@ -135,8 +135,8 @@
 | 127 | 144 | Shainne Brewer |
 | 128 | 143 | Nugget |
 | 129 | 141 | Malakai Darien Fox |
-| 130 | 140 | Jenna McGeorge |
-| 131 | 140 | Shannon Ferrari |
+| 130 | 140 | Shannon Ferrari |
+| 131 | 140 | Jenna McGeorge |
 | 132 | 137 | PeaceOs |
 | 133 | 136 | Tanner Lund |
 | 134 | 136 | Serena Goodridge |

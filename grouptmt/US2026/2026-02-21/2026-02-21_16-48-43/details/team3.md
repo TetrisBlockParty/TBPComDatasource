@@ -207,8 +207,8 @@
 | 199 | 151 | Brenda Lee Vander Molen |
 | 200 | 151 | MsBee |
 | 201 | 151 | Loopy Fallzone |
-| 202 | 150 | Nicole Myers |
-| 203 | 150 | Valerie Gendron |
+| 202 | 150 | Valerie Gendron |
+| 203 | 150 | Nicole Myers |
 | 204 | 150 | Desiree Gold |
 | 205 | 150 | Marci Mize Fandrich |
 | 206 | 149 | Angel Mendez |
@@ -322,8 +322,8 @@
 | 314 | 97 | Tina Baurdau |
 | 315 | 97 | Paula Little |
 | 316 | 96 | Oliver Neal II |
-| 317 | 96 | D3NO |
-| 318 | 96 | Christopher Woost |
+| 317 | 96 | Christopher Woost |
+| 318 | 96 | D3NO |
 | 319 | 95 | Brooke Bauer |
 | 320 | 95 | Rainbow77375 |
 | 321 | 94 | Amber Groover Taylor |
