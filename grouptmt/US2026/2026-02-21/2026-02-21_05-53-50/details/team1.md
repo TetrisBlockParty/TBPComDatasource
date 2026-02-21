@@ -43,8 +43,8 @@
 | 35 | 244 | Franswa |
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
-| 38 | 212 | Tdub |
-| 39 | 212 | Jaimie Lynn |
+| 38 | 212 | Jaimie Lynn |
+| 39 | 212 | Tdub |
 | 40 | 211 | Deanna L Hermanson |
 | 41 | 208 | Carrie Beck Geartz |
 | 42 | 206 | Elaine Elaine |
@@ -111,8 +111,8 @@
 | 103 | 112 | Kristen Gideon |
 | 104 | 112 | Nicole Roseberry Weber |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Heidi Feurer |
-| 107 | 110 | Garcia Bailey |
+| 106 | 110 | Garcia Bailey |
+| 107 | 110 | Heidi Feurer |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |
@@ -127,8 +127,8 @@
 | 119 | 96 | Nery Martinez |
 | 120 | 96 | Melissa Lemmon |
 | 121 | 95 | Spunky Piecebuilder |
-| 122 | 94 | Luciano Moreira |
-| 123 | 94 | Bindi |
+| 122 | 94 | Bindi |
+| 123 | 94 | Luciano Moreira |
 | 124 | 93 | Loony Fitzone |
 | 125 | 92 | Jessica Russell |
 | 126 | 90 | Dizzy Party |

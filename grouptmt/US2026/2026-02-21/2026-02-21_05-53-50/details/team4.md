@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Johnathan Martinez |
-| 20 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Johnathan Martinez |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -103,11 +103,11 @@
 | 95 | 118 | Leslie Nicole |
 | 96 | 116 | Serena Goodridge |
 | 97 | 116 | Diana Houts |
-| 98 | 114 | Jessica Cagle |
-| 99 | 114 | Klo |
+| 98 | 114 | Klo |
+| 99 | 114 | Jessica Cagle |
 | 100 | 114 | Zany Shatterer |
 | 101 | 113 | Andria Lynn |
-| 102 | 112 | Austin Owens |
+| 102 | 112 | Brittany Marsh |
 | 103 | 112 | Bryan Hodgins |
 | 104 | 112 | Austin Owens |
 | 105 | 111 | Lazy Blocker |

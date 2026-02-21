@@ -140,8 +140,8 @@
 | 132 | 455 | Alicia Parrish |
 | 133 | 453 | Osun Anuket Esu |
 | 134 | 450 | Giggy Blocker |
-| 135 | 448 | Jojo Momma |
-| 136 | 448 | Nick Jensen |
+| 135 | 448 | Nick Jensen |
+| 136 | 448 | Jojo Momma |
 | 137 | 442 | Daphne Jordan |
 | 138 | 440 | BYM4L |
 | 139 | 431 | Slip |
@@ -165,10 +165,10 @@
 | 157 | 386 | Ashie Ann |
 | 158 | 385 | Sam |
 | 159 | 381 | Amanda Ferrell |
-| 160 | 380 | Calandra Shaya Robinson |
-| 161 | 380 | Joshua Mandel |
-| 162 | 377 | Roy Salyer |
-| 163 | 377 | Liberty |
+| 160 | 380 | Joshua Mandel |
+| 161 | 380 | Calandra Shaya Robinson |
+| 162 | 377 | Liberty |
+| 163 | 377 | Roy Salyer |
 | 164 | 365 | April Dawn Gussler |
 | 165 | 364 | Shinette Dobson |
 | 166 | 363 | William Meussner |
@@ -180,17 +180,17 @@
 | 172 | 348 | Richard Horton |
 | 173 | 348 | Cherica Taylor |
 | 174 | 345 | Brenda Messer |
-| 175 | 345 | Rhianna DiLorenzo |
-| 176 | 345 | Wuntayk |
-| 177 | 344 | Julie Kresal |
-| 178 | 344 | Christina Lewis-Vickers |
+| 175 | 345 | Wuntayk |
+| 176 | 345 | Rhianna DiLorenzo |
+| 177 | 344 | Christina Lewis-Vickers |
+| 178 | 344 | Julie Kresal |
 | 179 | 342 | Tracy Wise |
 | 180 | 339 | Qiana Sanders |
 | 181 | 337 | Joseph Musick |
 | 182 | 336 | Tralonda Weeks |
 | 183 | 334 | Missie Lawson Gebhardt |
-| 184 | 334 | Nashu |
-| 185 | 334 | Moni Foxe |
+| 184 | 334 | Moni Foxe |
+| 185 | 334 | Nashu |
 | 186 | 332 | TF Dyer |
 | 187 | 331 | Brave Dropmatch |
 | 188 | 328 | Marie Boyd Faulk |
@@ -392,8 +392,8 @@
 | 384 | 176 | Jessica Kaye DeAguero |
 | 385 | 176 | Trisha Gallagher |
 | 386 | 176 | Nancy Pohlman |
-| 387 | 175 | Shandrica Lowe |
-| 388 | 175 | Tina Blessed Cage |
+| 387 | 175 | Tina Blessed Cage |
+| 388 | 175 | Shandrica Lowe |
 | 389 | 175 | Lucero Ramirez |
 | 390 | 174 | Elizabeth Pearson |
 | 391 | 174 | Ramone Armstrong |
@@ -401,8 +401,8 @@
 | 393 | 173 | kippykay |
 | 394 | 173 | Robin |
 | 395 | 171 | Cappin You |
-| 396 | 170 | Darlene Bowman |
-| 397 | 170 | Dedra Steward |
+| 396 | 170 | Dedra Steward |
+| 397 | 170 | Darlene Bowman |
 | 398 | 170 | Kenya Felix |
 | 399 | 169 | Regina Unruh |
 | 400 | 169 | Hyper Cluster |
@@ -498,8 +498,8 @@
 | 490 | 140 | mshir |
 | 491 | 139 | Octavio Garza |
 | 492 | 139 | Jackson Smith |
-| 493 | 138 | Iris Angelica Perez Cantos |
-| 494 | 138 | Gursharan Sandhu |
+| 493 | 138 | Gursharan Sandhu |
+| 494 | 138 | Iris Angelica Perez Cantos |
 | 495 | 137 | Auntie B |
 | 496 | 136 | Dolores Russworn |
 | 497 | 136 | Brandy |
@@ -524,8 +524,8 @@
 | 516 | 133 | Jess Orosz |
 | 517 | 133 | Britt Woolston |
 | 518 | 132 | Chilly Rollblock |
-| 519 | 132 | Paula Snyder |
-| 520 | 132 | Eric Carlson |
+| 519 | 132 | Eric Carlson |
+| 520 | 132 | Paula Snyder |
 | 521 | 131 | Deidre Shaffer |
 | 522 | 131 | Zeleana Perry |
 | 523 | 130 | Roger Grabbit |
@@ -542,8 +542,8 @@
 | 534 | 129 | Angela Kummer |
 | 535 | 129 | Ys Muhammed |
 | 536 | 128 | Dar |
-| 537 | 128 | Carrie Pike |
-| 538 | 128 | Leslie |
+| 537 | 128 | Leslie |
+| 538 | 128 | Carrie Pike |
 | 539 | 128 | Amanda Diegel |
 | 540 | 127 | Lazy Riseclear |
 | 541 | 127 | Christina Eckert |

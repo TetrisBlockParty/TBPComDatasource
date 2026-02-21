@@ -53,8 +53,8 @@
 | 45 | 444 | Nate Burnside |
 | 46 | 416 | Fancy Slam |
 | 47 | 390 | Kristie |
-| 48 | 387 | Cherry Parker |
-| 49 | 387 | Nerdy Spinblock |
+| 48 | 387 | Nerdy Spinblock |
+| 49 | 387 | Cherry Parker |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
 | 52 | 372 | Patty Allen |
@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Annie Déè |
-| 62 | 342 | Trezure Gonzalez |
+| 61 | 342 | Trezure Gonzalez |
+| 62 | 342 | Annie Déè |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -101,15 +101,15 @@
 | 93 | 202 | Shannon Matthew Byers |
 | 94 | 200 | Twisty Brick LT |
 | 95 | 199 | joclisa |
-| 96 | 195 | Nicha Hooker |
-| 97 | 195 | Jenny Hrndz |
+| 96 | 195 | Jenny Hrndz |
+| 97 | 195 | Nicha Hooker |
 | 98 | 193 | Clever Shiftsnap |
 | 99 | 193 | Shunta Jacobs |
 | 100 | 192 | Chasity |
 | 101 | 187 | Speedy Bridger |
 | 102 | 184 | Jennie Beranek |
-| 103 | 182 | Ashley Tookes |
-| 104 | 182 | Hyper Matchzone |
+| 103 | 182 | Hyper Matchzone |
+| 104 | 182 | Ashley Tookes |
 | 105 | 180 | Fallorina Susana |
 | 106 | 180 | Tessina Dewey-Mancino |
 | 107 | 179 | Daira Largen |
@@ -117,8 +117,8 @@
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Jone |
-| 113 | 159 | Morgan Martinez |
+| 112 | 159 | Morgan Martinez |
+| 113 | 159 | Jone |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
