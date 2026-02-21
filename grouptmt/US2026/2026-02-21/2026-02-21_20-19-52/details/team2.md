@@ -320,8 +320,8 @@
 | 312 | 409 | Sparkles |
 | 313 | 409 | Julay |
 | 314 | 406 | Erin StFrancis |
-| 315 | 405 | Christy Krissie |
-| 316 | 405 | Sarah Massey |
+| 315 | 405 | Sarah Massey |
+| 316 | 405 | Christy Krissie |
 | 317 | 402 | Brandy Andre |
 | 318 | 401 | Taylor Flowers |
 | 319 | 400 | Tammy Allen |
@@ -541,8 +541,8 @@
 | 533 | 252 | Aleasha M Brown |
 | 534 | 252 | Alyssia Tancredi |
 | 535 | 250 | sup |
-| 536 | 250 | Mike73 |
-| 537 | 250 | Kristi Biddinger |
+| 536 | 250 | Kristi Biddinger |
+| 537 | 250 | Mike73 |
 | 538 | 250 | Steve Man |
 | 539 | 249 | Porsche' Nicole |
 | 540 | 249 | Nicky Jackson |

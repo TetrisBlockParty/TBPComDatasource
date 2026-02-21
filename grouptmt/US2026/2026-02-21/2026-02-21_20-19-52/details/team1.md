@@ -54,8 +54,8 @@
 | 46 | 421 | Christina Graham |
 | 47 | 413 | Odell Barnett |
 | 48 | 403 | Nancy Green |
-| 49 | 392 | Redlicious 1 |
-| 50 | 392 | Anaid Sanchez |
+| 49 | 392 | Anaid Sanchez |
+| 50 | 392 | Redlicious 1 |
 | 51 | 385 | Jazzy Framezone |
 | 52 | 382 | Lori Sanders- Davis |
 | 53 | 380 | Matt |
@@ -106,8 +106,8 @@
 | 98 | 222 | Kristen Gideon |
 | 99 | 214 | Billie Dawn Sparks |
 | 100 | 213 | Lexuriuos Lifestlye |
-| 101 | 212 | Jaimie Lynn |
-| 102 | 212 | Mandyy Rae |
+| 101 | 212 | Mandyy Rae |
+| 102 | 212 | Jaimie Lynn |
 | 103 | 211 | Marianita Garcia |
 | 104 | 210 | Ly Phethmany |
 | 105 | 204 | Ananda Mendez |
@@ -151,14 +151,14 @@
 | 143 | 155 | Cece Ibarra |
 | 144 | 154 | Irual Hctrab |
 | 145 | 153 | Shiny Gridmatch |
-| 146 | 152 | Speedy Snapfall |
-| 147 | 152 | Trina Gee |
-| 148 | 152 | Jacqueline Unique |
-| 149 | 150 | David Miller |
-| 150 | 150 | Adele Rahman |
+| 146 | 152 | Jacqueline Unique |
+| 147 | 152 | Speedy Snapfall |
+| 148 | 152 | Trina Gee |
+| 149 | 150 | Adele Rahman |
+| 150 | 150 | David Miller |
 | 151 | 149 | Arianna O'Brien |
-| 152 | 148 | Bouncy Grid |
-| 153 | 148 | Shauntina Burke |
+| 152 | 148 | Shauntina Burke |
+| 153 | 148 | Bouncy Grid |
 | 154 | 147 | Leslie Bush Yarbrough |
 | 155 | 147 | Davery Spencer Adair |
 | 156 | 146 | Christy Jones |

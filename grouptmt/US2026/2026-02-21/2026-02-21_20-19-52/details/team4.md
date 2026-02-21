@@ -55,8 +55,8 @@
 | 47 | 433 | Isabel Aguilar |
 | 48 | 428 | Lisa Davis |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | Jonathan Kimbrough |
-| 51 | 411 | TeeJ |
+| 50 | 411 | TeeJ |
+| 51 | 411 | Jonathan Kimbrough |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -161,11 +161,11 @@
 | 153 | 140 | Roger Coulter |
 | 154 | 140 | John Brunetti |
 | 155 | 140 | Shannon Ferrari |
-| 156 | 137 | PeaceOs |
-| 157 | 137 | Avy Absol |
-| 158 | 136 | Sarah Brown |
-| 159 | 136 | Serena Goodridge |
-| 160 | 136 | Tanner Lund |
+| 156 | 137 | Avy Absol |
+| 157 | 137 | PeaceOs |
+| 158 | 136 | Tanner Lund |
+| 159 | 136 | Sarah Brown |
+| 160 | 136 | Serena Goodridge |
 | 161 | 135 | Stephme310 |
 | 162 | 135 | Victoria Faniel |
 | 163 | 134 | Chirpy Basepiece |
@@ -330,7 +330,7 @@
 | 322 | 75 | Vanessa Smart |
 | 323 | 74 | Dizzy Matchzone |
 | 324 | 74 | Alee Marie |
-| 325 | 74 | Dizzy Matchzone |
+| 325 | 74 | Sharyn Lemire |
 | 326 | 74 | Matt Gooder |
 | 327 | 73 | Rheanda Weaskus |
 | 328 | 73 | Lynn Marie |
