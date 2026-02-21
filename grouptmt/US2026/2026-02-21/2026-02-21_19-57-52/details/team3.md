@@ -164,8 +164,8 @@
 | 156 | 218 | LaNette Morgan |
 | 157 | 217 | Jess Bissett |
 | 158 | 216 | Aaron Pitkin |
-| 159 | 214 | Jenny Hrndz |
-| 160 | 214 | Amy Fuller Heaton |
+| 159 | 214 | Amy Fuller Heaton |
+| 160 | 214 | Jenny Hrndz |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
 | 163 | 207 | rnr junky |
@@ -256,16 +256,16 @@
 | 248 | 142 | Erica Anderson |
 | 249 | 142 | David Bardo |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Erykah |
 | 256 | 135 | Terry Jo Jones |
-| 257 | 134 | Kristian Thurman |
+| 257 | 134 | Skinny Baldez |
 | 258 | 134 | FuzzyNavel |
 | 259 | 134 | Cesar Barraza |
-| 260 | 134 | Skinny Baldez |
+| 260 | 134 | Kristian Thurman |
 | 261 | 133 | Sharisse Baltimore |
 | 262 | 133 | Weerae |
 | 263 | 132 | Tammy |
