@@ -117,8 +117,8 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Dana Scott |
-| 113 | 151 | Bethany Ison |
+| 112 | 151 | Bethany Ison |
+| 113 | 151 | Dana Scott |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |
@@ -176,10 +176,10 @@
 | 168 | 107 | Marcus Todd |
 | 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
-| 171 | 105 | Sam Middleton |
+| 171 | 105 | 🥔🥔 Spudz |
 | 172 | 105 | TheNeesh50 |
-| 173 | 105 | 🥔🥔 Spudz |
-| 174 | 105 | Kristin MacDonald |
+| 173 | 105 | Kristin MacDonald |
+| 174 | 105 | Sam Middleton |
 | 175 | 104 | Damn Libra |
 | 176 | 103 | Lauren Lamb |
 | 177 | 103 | April Rondinone |
@@ -258,8 +258,8 @@
 | 250 | 78 | Steph Marie |
 | 251 | 78 | Adawna Swires |
 | 252 | 77 | Marvin Lou Martin |
-| 253 | 77 | Twisty Cascadezone |
-| 254 | 77 | Zippy Gridlock |
+| 253 | 77 | Zippy Gridlock |
+| 254 | 77 | Twisty Cascadezone |
 | 255 | 77 | Ahleek Mitchell |
 | 256 | 76 | Rebecca Blake |
 | 257 | 76 | Crystal Lynn |

@@ -93,8 +93,8 @@
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
-| 88 | 191 | Diane Byrd |
-| 89 | 191 | Jazzy Framezone |
+| 88 | 191 | Jazzy Framezone |
+| 89 | 191 | Diane Byrd |
 | 90 | 190 | Thorne Shumate |
 | 91 | 190 | Sweetts |
 | 92 | 189 | Happy Basegrid |

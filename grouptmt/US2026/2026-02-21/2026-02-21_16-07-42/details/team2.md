@@ -282,8 +282,8 @@
 | 274 | 364 | Shinette Dobson |
 | 275 | 363 | William Meussner |
 | 276 | 362 | AkaLefty |
-| 277 | 359 | Mighty Shatterfit |
-| 278 | 359 | Johnny Yeates |
+| 277 | 359 | Johnny Yeates |
+| 278 | 359 | Mighty Shatterfit |
 | 279 | 358 | Smashanator |
 | 280 | 358 | Alyssaaelena |
 | 281 | 357 | Shannon Byrd |
@@ -343,8 +343,8 @@
 | 335 | 309 | Oscar Bernie |
 | 336 | 309 | Ginger |
 | 337 | 309 | James Zaragoza |
-| 338 | 307 | Offonar Facey |
-| 339 | 307 | Catina Hutchison |
+| 338 | 307 | Catina Hutchison |
+| 339 | 307 | Offonar Facey |
 | 340 | 306 | Kristopher Miller |
 | 341 | 305 | Tum |
 | 342 | 305 | Zany Clusterbuilder |

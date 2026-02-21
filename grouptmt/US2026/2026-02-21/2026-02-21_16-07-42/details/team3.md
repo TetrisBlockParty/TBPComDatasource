@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | rnr junky |
-| 142 | 207 | Chris Bell |
+| 141 | 207 | Chris Bell |
+| 142 | 207 | rnr junky |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -181,14 +181,14 @@
 | 173 | 168 | rosy |
 | 174 | 167 | Raven Dudley |
 | 175 | 166 | Loopy Fallmatch |
-| 176 | 166 | Kelly Ann Child |
-| 177 | 166 | Betty Rosas |
+| 176 | 166 | Betty Rosas |
+| 177 | 166 | Kelly Ann Child |
 | 178 | 165 | Kali Kelz Williams |
 | 179 | 163 | Stephanie Hill |
 | 180 | 163 | Sashay Tapae Simpson |
 | 181 | 162 | Stephanie Whitefield |
-| 182 | 161 | Nikki Pags |
-| 183 | 161 | BŘŰŤİÇŨŚ |
+| 182 | 161 | BŘŰŤİÇŨŚ |
+| 183 | 161 | Nikki Pags |
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 159 | Rochelle Hazelett |
