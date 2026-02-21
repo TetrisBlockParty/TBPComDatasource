@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -113,8 +113,8 @@
 | 105 | 194 | Zany Twisterfit |
 | 106 | 192 | Crystal Carroll |
 | 107 | 192 | Shauna Havard |
-| 108 | 191 | loulou |
-| 109 | 191 | Melvin Baird |
+| 108 | 191 | Melvin Baird |
+| 109 | 191 | loulou |
 | 110 | 189 | Calvin Dennis |
 | 111 | 188 | Katherine Crane |
 | 112 | 187 | TheNeesh50 |
@@ -128,9 +128,9 @@
 | 120 | 179 | Epic Curvetile |
 | 121 | 178 | Lori |
 | 122 | 176 | Stacey Stano |
-| 123 | 174 | shark tato |
-| 124 | 174 | Zethra Prenisha Rahming |
-| 125 | 174 | Dihcheese444 |
+| 123 | 174 | Dihcheese444 |
+| 124 | 174 | shark tato |
+| 125 | 174 | Zethra Prenisha Rahming |
 | 126 | 173 | blockstar |
 | 127 | 173 | Ren Mc |
 | 128 | 168 | Shane Kalamata Platoon |
@@ -266,7 +266,7 @@
 | 258 | 92 | Christina Black |
 | 259 | 91 | wombat |
 | 260 | 91 | Zach Kerbs |
-| 261 | 91 | wombat |
+| 261 | 91 | rebel4lyfe |
 | 262 | 91 | Sunny Filler |
 | 263 | 90 | Carol Ricks Raymond |
 | 264 | 90 | Hyper Builder |
