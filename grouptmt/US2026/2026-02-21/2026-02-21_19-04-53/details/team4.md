@@ -43,8 +43,8 @@
 | 35 | 494 | Rodney McMath Jr. |
 | 36 | 488 | Anthony Bryan Riva |
 | 37 | 486 | Landon Keith Graffeo |
-| 38 | 483 | Kimberly Love |
-| 39 | 483 | Carmethia Clemons Haslerig |
+| 38 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Kimberly Love |
 | 40 | 470 | Carolyn Wallace |
 | 41 | 466 | Edward White |
 | 42 | 465 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Antony Dwayne Beasley |
@@ -130,8 +130,8 @@
 | 122 | 164 | ThaEviLJeNiuZ |
 | 123 | 164 | shark tato |
 | 124 | 160 | ZeeZee |
-| 125 | 157 | Jenna McGeorge |
-| 126 | 157 | quicksand420 |
+| 125 | 157 | quicksand420 |
+| 126 | 157 | Jenna McGeorge |
 | 127 | 156 | Holly |
 | 128 | 156 | Jessica Bohlken |
 | 129 | 153 | Empress Oasis |

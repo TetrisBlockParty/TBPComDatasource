@@ -111,8 +111,8 @@
 | 103 | 350 | Shannon Matthew Byers |
 | 104 | 348 | CeceGeGe |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
-| 106 | 323 | Ashley Raines |
-| 107 | 323 | Sherry Ogden |
+| 106 | 323 | Sherry Ogden |
+| 107 | 323 | Ashley Raines |
 | 108 | 321 | Dapper Snap |
 | 109 | 320 | Or Reznitsky |
 | 110 | 318 | Chasity |
@@ -152,8 +152,8 @@
 | 144 | 223 | Jeana Gilbert |
 | 145 | 222 | Hoppy Buildout |
 | 146 | 222 | Jimmie Clemons |
-| 147 | 219 | Shunta Jacobs |
-| 148 | 219 | Tom Nault |
+| 147 | 219 | Tom Nault |
+| 148 | 219 | Shunta Jacobs |
 | 149 | 217 | Jess Bissett |
 | 150 | 216 | Aaron Pitkin |
 | 151 | 216 | Marci Mize Fandrich |

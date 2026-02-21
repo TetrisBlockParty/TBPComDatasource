@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 539 | Karin Gillen |
 | 31 | 521 | Hyp James NObettadanluvarat |
 | 32 | 517 | Felicia Lewis |
@@ -99,8 +99,8 @@
 | 91 | 222 | Kristen Gideon |
 | 92 | 214 | Billie Dawn Sparks |
 | 93 | 213 | Lexuriuos Lifestlye |
-| 94 | 212 | Jaimie Lynn |
-| 95 | 212 | Mandyy Rae |
+| 94 | 212 | Mandyy Rae |
+| 95 | 212 | Jaimie Lynn |
 | 96 | 211 | Marianita Garcia |
 | 97 | 210 | Ly Phethmany |
 | 98 | 204 | Ananda Mendez |
@@ -110,9 +110,9 @@
 | 102 | 193 | Lachelle Dillon |
 | 103 | 192 | Shaykmia |
 | 104 | 191 | Diane Byrd |
-| 105 | 190 | Thorne Shumate |
-| 106 | 190 | Sweetts |
-| 107 | 190 | Gracie |
+| 105 | 190 | Gracie |
+| 106 | 190 | Thorne Shumate |
+| 107 | 190 | Sweetts |
 | 108 | 189 | Happy Basegrid |
 | 109 | 188 | Sam Williams |
 | 110 | 187 | Snippy Wipebuilder |
@@ -125,8 +125,8 @@
 | 117 | 176 | Basment Living |
 | 118 | 175 | Nicole Roseberry Weber |
 | 119 | 174 | Michael |
-| 120 | 171 | Greg Premoe |
-| 121 | 171 | David DeSantis |
+| 120 | 171 | David DeSantis |
+| 121 | 171 | Greg Premoe |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
 | 124 | 166 | Rico Rico |
@@ -190,8 +190,8 @@
 | 182 | 122 | Melissa Lemmon |
 | 183 | 122 | Margo Wagner |
 | 184 | 121 | April Carroll |
-| 185 | 120 | Kimmie Kimms |
-| 186 | 120 | Alenoush Karimian |
+| 185 | 120 | Alenoush Karimian |
+| 186 | 120 | Kimmie Kimms |
 | 187 | 119 | Tater |
 | 188 | 116 | Jessica Russell |
 | 189 | 115 | Chuck Gannon |
