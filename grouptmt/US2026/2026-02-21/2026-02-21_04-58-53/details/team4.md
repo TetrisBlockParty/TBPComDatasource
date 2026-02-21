@@ -47,13 +47,13 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Girl |
-| 48 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Leah Kutz Zirbel |
+| 48 | 170 | Girl |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Courtney Cicoria |
 | 51 | 165 | Casey Grabner |
@@ -73,8 +73,8 @@
 | 65 | 134 | Chirpy Basepiece |
 | 66 | 134 | Jessica Bohlken |
 | 67 | 133 | Robin Watters |
-| 68 | 132 | Jenna McGeorge |
-| 69 | 132 | Degenerate |
+| 68 | 132 | Degenerate |
+| 69 | 132 | Jenna McGeorge |
 | 70 | 131 | Dustee Craddock-Harrison |
 | 71 | 130 | Casey Jeffcoat |
 | 72 | 129 | John Brunetti |

@@ -123,8 +123,8 @@
 | 115 | 152 | Shiny Zonebuilder |
 | 116 | 149 | Trisha Balmer |
 | 117 | 149 | Bea Miles |
-| 118 | 146 | Latoya Mayne |
-| 119 | 146 | Denita Mungro |
+| 118 | 146 | Denita Mungro |
+| 119 | 146 | Latoya Mayne |
 | 120 | 140 | Jay Horn |
 | 121 | 138 | Gumbo |
 | 122 | 135 | Nicole Flippo |

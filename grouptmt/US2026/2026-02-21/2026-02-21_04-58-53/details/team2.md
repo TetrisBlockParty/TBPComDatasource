@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3435 | Cassie Donica |
 | 6 | 3323 | Sean Dugar |
@@ -267,8 +267,8 @@
 | 259 | 244 | Shorty |
 | 260 | 243 | Brandy Andre |
 | 261 | 242 | Donna Chandler |
-| 262 | 241 | Em Chen |
-| 263 | 241 | Peppy Zone |
+| 262 | 241 | Peppy Zone |
+| 263 | 241 | Em Chen |
 | 264 | 241 | Sabrina Burton |
 | 265 | 240 | Adam Erikson |
 | 266 | 240 | Johnny Yeates |
@@ -371,8 +371,8 @@
 | 363 | 173 | Wacky Cascade |
 | 364 | 173 | kippykay |
 | 365 | 171 | Cappin You |
-| 366 | 170 | Darlene Bowman |
-| 367 | 170 | Dedra Steward |
+| 366 | 170 | Dedra Steward |
+| 367 | 170 | Darlene Bowman |
 | 368 | 170 | Kenya Felix |
 | 369 | 169 | Eddie Perez |
 | 370 | 169 | Lively Catcher |
@@ -425,9 +425,9 @@
 | 417 | 154 | Tiffney Wroten |
 | 418 | 154 | Bryan Werleman |
 | 419 | 153 | Poppy Gridder |
-| 420 | 152 | Alisa Lamb |
-| 421 | 152 | JP Parks |
-| 422 | 152 | Anthony Mignacca |
+| 420 | 152 | JP Parks |
+| 421 | 152 | Anthony Mignacca |
+| 422 | 152 | Alisa Lamb |
 | 423 | 151 | Jennifer Rajek |
 | 424 | 151 | D'Aaron Black |
 | 425 | 151 | John Quiring |
