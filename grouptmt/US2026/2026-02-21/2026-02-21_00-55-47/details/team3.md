@@ -73,17 +73,17 @@
 | 65 | 170 | Delilah belle |
 | 66 | 166 | Danielle Mogg |
 | 67 | 159 | Morgan Martinez |
-| 68 | 154 | Shannon Matthew Byers |
-| 69 | 154 | Angela M. Fletcher |
-| 70 | 152 | rosy |
-| 71 | 152 | Shiny Zonebuilder |
+| 68 | 154 | Angela M. Fletcher |
+| 69 | 154 | Shannon Matthew Byers |
+| 70 | 152 | Shiny Zonebuilder |
+| 71 | 152 | rosy |
 | 72 | 147 | Trisha Balmer |
 | 73 | 144 | Denita Mungro |
 | 74 | 143 | ren |
-| 75 | 140 | Fancy Slam |
-| 76 | 140 | Zippy Strikesnap |
-| 77 | 135 | Nicole Flippo |
-| 78 | 135 | Latoya Mayne |
+| 75 | 140 | Zippy Strikesnap |
+| 76 | 140 | Fancy Slam |
+| 77 | 135 | Latoya Mayne |
+| 78 | 135 | Nicole Flippo |
 | 79 | 134 | DanceLuvLaugh |
 | 80 | 131 | Emma |
 | 81 | 130 | Tessina Dewey-Mancino |
@@ -94,13 +94,13 @@
 | 86 | 127 | mjl574 |
 | 87 | 125 | Stephanie Simpson |
 | 88 | 122 | Aerian Preston |
-| 89 | 120 | Michael Latasha Gray |
-| 90 | 120 | Jessica |
-| 91 | 118 | Bea Miles |
-| 92 | 118 | Fancy Curver |
+| 89 | 120 | Jessica |
+| 90 | 120 | Michael Latasha Gray |
+| 91 | 118 | Fancy Curver |
+| 92 | 118 | Bea Miles |
 | 93 | 114 | Terry Jo Jones |
-| 94 | 113 | Rufus Lincoln |
-| 95 | 113 | Jennifer Alvey |
+| 94 | 113 | Jennifer Alvey |
+| 95 | 113 | Rufus Lincoln |
 | 96 | 112 | Jimmie Clemons |
 | 97 | 112 | Connie Mohler-Fair |
 | 98 | 111 | Marquita Sheard |
@@ -119,7 +119,7 @@
 | 111 | 100 | Fredd Thomas |
 | 112 | 100 | Donna |
 | 113 | 100 | Bobbi Moore |
-| 114 | 100 | Fredd Thomas |
+| 114 | 100 | Boldy Corner |
 | 115 | 99 | Lys |
 | 116 | 99 | Nichol Graham |
 | 117 | 98 | Ryan Williams |
@@ -341,7 +341,7 @@
 | 333 | 36 | Joseph Vargas |
 | 334 | 36 | Tammy |
 | 335 | 36 | Hoppy Patternblock |
-| 336 | 36 | Cynthia Castros-Hampton |
+| 336 | 36 | Ashley Kennedy |
 | 337 | 35 | Mimi Pidou |
 | 338 | 35 | Jennifer Kahler |
 | 339 | 35 | lashanda |

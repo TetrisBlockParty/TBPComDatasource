@@ -106,10 +106,10 @@
 | 98 | 69 | Christina Torres |
 | 99 | 68 | Blaire Bruckoff |
 | 100 | 66 | Archie Ware |
-| 101 | 65 | Yvonne Marie |
+| 101 | 65 | Jennifer Olewnik Soborowski |
 | 102 | 65 | MamaB24 |
 | 103 | 65 | Trippy Redd |
-| 104 | 65 | Jennifer Olewnik Soborowski |
+| 104 | 65 | Yvonne Marie |
 | 105 | 64 | Alex Gauthier |
 | 106 | 64 | Aimee Horton |
 | 107 | 63 | Margo Wagner |
@@ -162,9 +162,9 @@
 | 154 | 49 | Hasty Columnbuilder |
 | 155 | 49 | Jennifer Chilton-Metlock |
 | 156 | 49 | Chuck Gannon |
-| 157 | 48 | Dino |
-| 158 | 48 | TristansDad |
-| 159 | 48 | Tami Luce Martin |
+| 157 | 48 | Tami Luce Martin |
+| 158 | 48 | Dino |
+| 159 | 48 | TristansDad |
 | 160 | 47 | Christy Jones |
 | 161 | 47 | Cheery Zonegrid |
 | 162 | 47 | MommaKFC |

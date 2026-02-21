@@ -351,10 +351,10 @@
 | 343 | 118 | Maria Escobar |
 | 344 | 117 | Cody Kelsey |
 | 345 | 117 | Myleaha Holley |
-| 346 | 116 | Stephen Stephen |
-| 347 | 116 | Angie Bolton Workman |
-| 348 | 116 | Ty Quarles |
-| 349 | 116 | Amanda Diegel |
+| 346 | 116 | Angie Bolton Workman |
+| 347 | 116 | Stephen Stephen |
+| 348 | 116 | Amanda Diegel |
+| 349 | 116 | Ty Quarles |
 | 350 | 115 | Heather Schelkopf |
 | 351 | 115 | Kati Russeau |
 | 352 | 115 | Fae-Bulous |

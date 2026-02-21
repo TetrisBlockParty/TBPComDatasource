@@ -32,8 +32,8 @@
 | 24 | 193 | Devinlee Brown |
 | 25 | 188 | Dustin Robert |
 | 26 | 185 | loulou |
-| 27 | 174 | Jamie Mann-Deichmann |
-| 28 | 174 | Koshin Abdirahman |
+| 27 | 174 | Koshin Abdirahman |
+| 28 | 174 | Jamie Mann-Deichmann |
 | 29 | 171 | Brittney Orengo |
 | 30 | 170 | Girl |
 | 31 | 168 | Anthony Magaraci |
@@ -49,8 +49,8 @@
 | 41 | 129 | Samantha Peterson |
 | 42 | 128 | Robin Watters |
 | 43 | 126 | Denise Carlson |
-| 44 | 124 | Lauren Scott |
-| 45 | 124 | Jay28 |
+| 44 | 124 | Jay28 |
+| 45 | 124 | Lauren Scott |
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
