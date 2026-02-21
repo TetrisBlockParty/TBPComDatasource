@@ -243,8 +243,8 @@
 | 235 | 305 | Libby Hicks |
 | 236 | 303 | Crystal Greene |
 | 237 | 301 | Claire |
-| 238 | 299 | Deborah Miller |
-| 239 | 299 | Christy Krissie |
+| 238 | 299 | Christy Krissie |
+| 239 | 299 | Deborah Miller |
 | 240 | 297 | Brenda Utphall |
 | 241 | 296 | Amber Gray |
 | 242 | 296 | Jennifer Casey-Kay |
@@ -402,8 +402,8 @@
 | 394 | 194 | Mike Aprilliano |
 | 395 | 194 | Kimberly Ann |
 | 396 | 194 | Hoppy Brickmatch |
-| 397 | 193 | Kelly Ann McCormick |
-| 398 | 193 | Matthew Turner |
+| 397 | 193 | Matthew Turner |
+| 398 | 193 | Kelly Ann McCormick |
 | 399 | 193 | Nika Bee |
 | 400 | 192 | Alyssa Nadine Medelez |
 | 401 | 191 | Lauren Fitzgerald Thomas |
@@ -477,8 +477,8 @@
 | 469 | 163 | Albert McKnight |
 | 470 | 162 | Michael Artis |
 | 471 | 162 | LC Hamilton |
-| 472 | 162 | Andrea Maher |
-| 473 | 162 | Brenna Ann |
+| 472 | 162 | Brenna Ann |
+| 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
 | 476 | 160 | Rhonda Petro |
@@ -544,8 +544,8 @@
 | 536 | 144 | Alexis Richardson |
 | 537 | 144 | Mandi Douglas Hilt |
 | 538 | 144 | Tristan Lamothe |
-| 539 | 144 | Tee Davis |
-| 540 | 144 | RavensBeard |
+| 539 | 144 | RavensBeard |
+| 540 | 144 | Tee Davis |
 | 541 | 143 | Jay Levy |
 | 542 | 143 | Angelica |
 | 543 | 142 | Frisky Clearpiece |
@@ -559,8 +559,8 @@
 | 551 | 140 | King Shamell Young |
 | 552 | 140 | Jasmine Kenney |
 | 553 | 140 | Brandy Sutton |
-| 554 | 140 | Preya Patel |
-| 555 | 140 | Kimberly Ann |
+| 554 | 140 | Kimberly Ann |
+| 555 | 140 | Preya Patel |
 | 556 | 140 | Sheretta Holmes Lil'bit |
 | 557 | 139 | Octavio Garza |
 | 558 | 139 | Jackson Smith |
@@ -603,8 +603,8 @@
 | 595 | 132 | Eric Carlson |
 | 596 | 132 | Chilly Rollblock |
 | 597 | 132 | Mr. Street Stack |
-| 598 | 131 | Jennie Lee Huntley |
-| 599 | 131 | Deidre Shaffer |
+| 598 | 131 | Deidre Shaffer |
+| 599 | 131 | Jennie Lee Huntley |
 | 600 | 131 | Zeleana Perry |
 | 601 | 130 | Nerdy Riserfit |
 | 602 | 130 | Roger Grabbit |

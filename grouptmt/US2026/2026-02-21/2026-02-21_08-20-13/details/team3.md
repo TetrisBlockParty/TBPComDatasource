@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -127,10 +127,10 @@
 | 119 | 191 | Scott Carleton |
 | 120 | 187 | Katrina Schroeder |
 | 121 | 184 | Jennie Beranek |
-| 122 | 182 | Hyper Matchzone |
-| 123 | 182 | Ashley Tookes |
-| 124 | 180 | Tessina Dewey-Mancino |
-| 125 | 180 | Fallorina Susana |
+| 122 | 182 | Ashley Tookes |
+| 123 | 182 | Hyper Matchzone |
+| 124 | 180 | Fallorina Susana |
+| 125 | 180 | Tessina Dewey-Mancino |
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
