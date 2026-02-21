@@ -79,8 +79,8 @@
 | 71 | 241 | Patrick Luckenbill |
 | 72 | 237 | Elaine Elaine |
 | 73 | 235 | Dee Perry |
-| 74 | 232 | John J. Cronin |
-| 75 | 232 | Dandy Basegrid |
+| 74 | 232 | Dandy Basegrid |
+| 75 | 232 | John J. Cronin |
 | 76 | 228 | Trippy Redd |
 | 77 | 226 | Sharon Reynolds |
 | 78 | 223 | TSwag |

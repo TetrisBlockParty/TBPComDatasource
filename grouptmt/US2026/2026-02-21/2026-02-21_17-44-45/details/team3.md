@@ -61,8 +61,8 @@
 | 53 | 553 | Cherry Parker |
 | 54 | 553 | Rachael McClain Owens |
 | 55 | 533 | Sarah Fehring |
-| 56 | 528 | Natasha Jones |
-| 57 | 528 | Giddy Drop |
+| 56 | 528 | Giddy Drop |
+| 57 | 528 | Natasha Jones |
 | 58 | 520 | Gracie |
 | 59 | 506 | Dan Rob |
 | 60 | 493 | Mandy Smith Oldham |
@@ -253,8 +253,8 @@
 | 245 | 127 | Troy |
 | 246 | 126 | Pam Holt Powell |
 | 247 | 126 | April Matthew Kibble |
-| 248 | 125 | Felicia Doxey |
-| 249 | 125 | Shimika Enay Wallace |
+| 248 | 125 | Shimika Enay Wallace |
+| 249 | 125 | Felicia Doxey |
 | 250 | 124 | Funky Jumper |
 | 251 | 124 | Danielle Allison |
 | 252 | 123 | Michael Latasha Gray |

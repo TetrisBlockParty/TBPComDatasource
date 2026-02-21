@@ -151,8 +151,8 @@
 | 143 | 659 | Poldo Ilano |
 | 144 | 658 | Pacynthia Williams |
 | 145 | 651 | Unica Rector |
-| 146 | 650 | Claire Noland |
-| 147 | 650 | Shiny Rollzone |
+| 146 | 650 | Shiny Rollzone |
+| 147 | 650 | Claire Noland |
 | 148 | 641 | Ricardo Burton |
 | 149 | 634 | Ariel |
 | 150 | 632 | Beth |
@@ -183,8 +183,8 @@
 | 175 | 549 | Kaylee McCafferty |
 | 176 | 549 | Charvi' Carter |
 | 177 | 545 | Leslie Ann Carter |
-| 178 | 543 | Diana Fitzwater |
-| 179 | 543 | Suki Kaur |
+| 178 | 543 | Suki Kaur |
+| 179 | 543 | Diana Fitzwater |
 | 180 | 541 | SaraMarie Eveland |
 | 181 | 534 | Stephen Stephen |
 | 182 | 534 | Teresa Gillmore |
@@ -194,8 +194,8 @@
 | 186 | 527 | Adira Brown |
 | 187 | 526 | Ashley Guernsey-Martin |
 | 188 | 526 | April Dawn Gussler |
-| 189 | 525 | Tommy Tha Boss Gunz |
-| 190 | 525 | Giggy Blocker |
+| 189 | 525 | Giggy Blocker |
+| 190 | 525 | Tommy Tha Boss Gunz |
 | 191 | 525 | Desiree Anderson |
 | 192 | 522 | Slip |
 | 193 | 522 | Mema |
@@ -400,8 +400,8 @@
 | 392 | 296 | Heather Schelkopf |
 | 393 | 296 | Jennifer Casey-Kay |
 | 394 | 296 | Jennifer Darby |
-| 395 | 295 | Noel Tarmy |
-| 396 | 295 | Autumn Schaeffer |
+| 395 | 295 | Autumn Schaeffer |
+| 396 | 295 | Noel Tarmy |
 | 397 | 294 | Frisky Riserbuilder |
 | 398 | 294 | Barbra Miller |
 | 399 | 290 | Maya June |
@@ -522,8 +522,8 @@
 | 514 | 226 | Jodi Mitnick |
 | 515 | 224 | Besma Ao |
 | 516 | 224 | Alice Ball |
-| 517 | 223 | Jess Morrison |
-| 518 | 223 | LegoCarpet |
+| 517 | 223 | LegoCarpet |
+| 518 | 223 | Jess Morrison |
 | 519 | 223 | Laura Wyatt |
 | 520 | 223 | Kristi Biddinger |
 | 521 | 222 | Amanda Canterbury |
@@ -554,7 +554,7 @@
 | 546 | 210 | Nancy Pohlman |
 | 547 | 210 | Desiree Harris Rosch |
 | 548 | 209 | John Quiring |
-| 549 | 209 | Jelly |
+| 549 | 209 | Samantha Morgan |
 | 550 | 209 | MamaBear11 |
 | 551 | 209 | Jelly |
 | 552 | 208 | Nerdy Riserfit |

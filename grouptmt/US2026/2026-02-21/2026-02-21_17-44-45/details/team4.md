@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | blockstar |
-| 108 | 173 | Ren Mc |
+| 107 | 173 | Ren Mc |
+| 108 | 173 | blockstar |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Peachy Fall |
 | 111 | 170 | Girl |
