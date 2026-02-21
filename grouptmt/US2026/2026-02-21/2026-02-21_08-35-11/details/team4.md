@@ -126,11 +126,11 @@
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
 | 120 | 115 | Ultramarine |
-| 121 | 113 | Stephme310 |
-| 122 | 113 | Andria Lynn |
-| 123 | 112 | Austin Owens |
-| 124 | 112 | Bryan Hodgins |
-| 125 | 112 | Brittany Marsh |
+| 121 | 113 | Andria Lynn |
+| 122 | 113 | Stephme310 |
+| 123 | 112 | Brittany Marsh |
+| 124 | 112 | Austin Owens |
+| 125 | 112 | Bryan Hodgins |
 | 126 | 111 | Lazy Blocker |
 | 127 | 111 | Gwendolyn Pitcairn |
 | 128 | 110 | H.R. Block |
@@ -194,7 +194,7 @@
 | 186 | 80 | Melissa Adams |
 | 187 | 80 | Chaz Duncan |
 | 188 | 79 | Perky Piecegrid |
-| 189 | 79 | Joseph Pace |
+| 189 | 79 | Kametsunoyaiba |
 | 190 | 79 | Anthony Bryan Riva |
 | 191 | 79 | Joseph Pace |
 | 192 | 78 | Zesty Linkgrid |
@@ -648,8 +648,8 @@
 | 640 | 18 | Hoppy Clearer |
 | 641 | 18 | Mighty Edgepiece |
 | 642 | 18 | Eric Quan |
-| 643 | 18 | Diamond Johnson |
-| 644 | 18 | Saucy Brickfit |
+| 643 | 18 | Saucy Brickfit |
+| 644 | 18 | Alison Welsh |
 | 645 | 18 | Joe Lonnemann |
 | 646 | 18 | Diamond Johnson |
 | 647 | 17 | Wacky Blockclear |

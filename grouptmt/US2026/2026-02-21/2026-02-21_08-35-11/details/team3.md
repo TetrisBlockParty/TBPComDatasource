@@ -44,8 +44,8 @@
 | 36 | 587 | Suzieq |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
-| 39 | 546 | Snappy Glidepiece |
-| 40 | 546 | Dolores Falco |
+| 39 | 546 | Dolores Falco |
+| 40 | 546 | Snappy Glidepiece |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | CeceGeGe |
-| 81 | 309 | Rich LeBlanc |
+| 80 | 309 | Rich LeBlanc |
+| 81 | 309 | CeceGeGe |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -134,9 +134,9 @@
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
-| 129 | 166 | Kelly Ann Child |
+| 129 | 166 | Danielle Mogg |
 | 130 | 166 | Dan Rob |
-| 131 | 166 | Danielle Mogg |
+| 131 | 166 | Kelly Ann Child |
 | 132 | 164 | rosy |
 | 133 | 163 | AlsoJess |
 | 134 | 163 | Karon Griffin |
@@ -277,8 +277,8 @@
 | 269 | 85 | Crystel b520 |
 | 270 | 84 | Flashy Rumbler |
 | 271 | 84 | gremicx |
-| 272 | 83 | Stephanie Zahm |
-| 273 | 83 | Deseree Ewing |
+| 272 | 83 | Deseree Ewing |
+| 273 | 83 | Stephanie Zahm |
 | 274 | 82 | Rebecca Funderburk Kirby |
 | 275 | 81 | Tina Baurdau |
 | 276 | 80 | Vixen Queen |

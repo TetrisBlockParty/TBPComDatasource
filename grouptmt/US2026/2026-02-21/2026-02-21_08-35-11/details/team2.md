@@ -96,8 +96,8 @@
 | 88 | 674 | Dannette Goldberg-Richards |
 | 89 | 672 | Wendy Harder Gage |
 | 90 | 665 | Dineisha Carpenter |
-| 91 | 658 | Vistabrat |
-| 92 | 658 | Pacynthia Williams |
+| 91 | 658 | Pacynthia Williams |
+| 92 | 658 | Vistabrat |
 | 93 | 653 | Becky Weeks-Garry |
 | 94 | 649 | Stephanie Chapman |
 | 95 | 649 | Anna Edwards |
@@ -340,8 +340,8 @@
 | 332 | 240 | Johnny Yeates |
 | 333 | 240 | Adam Erikson |
 | 334 | 238 | Cheery Matchzone |
-| 335 | 236 | Frisky Riserbuilder |
-| 336 | 236 | snkylnk |
+| 335 | 236 | snkylnk |
+| 336 | 236 | Frisky Riserbuilder |
 | 337 | 236 | Julio A Laracuente |
 | 338 | 235 | Kimberly Mitchell |
 | 339 | 234 | Manny Trindade |
@@ -351,8 +351,8 @@
 | 343 | 232 | Amber Brion |
 | 344 | 231 | Dylan Thomason |
 | 345 | 231 | Hong Tang |
-| 346 | 230 | Leslie Johnson Guinto |
-| 347 | 230 | Niceday |
+| 346 | 230 | Niceday |
+| 347 | 230 | Leslie Johnson Guinto |
 | 348 | 229 | Kimmy Newman |
 | 349 | 228 | Michelle Sager |
 | 350 | 227 | Nutty Matchline |
@@ -365,8 +365,8 @@
 | 357 | 223 | Kristi Biddinger |
 | 358 | 220 | Katrina Weston |
 | 359 | 219 | Ashle Scranton |
-| 360 | 217 | Angelina Marie |
-| 361 | 217 | 赵珞涵 |
+| 360 | 217 | 赵珞涵 |
+| 361 | 217 | Angelina Marie |
 | 362 | 216 | Tum |
 | 363 | 215 | Jordan Petro |
 | 364 | 215 | Ashlyn Berner |
@@ -389,15 +389,15 @@
 | 381 | 202 | Hyper Cluster |
 | 382 | 201 | Zombi3 |
 | 383 | 201 | Peppy Snapfall |
-| 384 | 200 | LaWanda Powell |
-| 385 | 200 | Sarah Ridenour |
-| 386 | 199 | Jessica Sutter |
-| 387 | 199 | Jenny Castro |
+| 384 | 200 | Sarah Ridenour |
+| 385 | 200 | LaWanda Powell |
+| 386 | 199 | Jenny Castro |
+| 387 | 199 | Jessica Sutter |
 | 388 | 198 | Angie Bolton Workman |
 | 389 | 198 | Alyssa Dean |
 | 390 | 196 | Besma Ao |
-| 391 | 196 | Cass Shirley |
-| 392 | 196 | Alexandra Reese |
+| 391 | 196 | Alexandra Reese |
+| 392 | 196 | Cass Shirley |
 | 393 | 195 | Snappy Shatterfit |
 | 394 | 195 | Emily Lyric Converse |
 | 395 | 194 | Mike Aprilliano |
@@ -422,8 +422,8 @@
 | 414 | 185 | JacJac |
 | 415 | 184 | Brittany Radaszewski |
 | 416 | 184 | Sassy Linkbuilder |
-| 417 | 184 | Regina Unruh |
-| 418 | 184 | Theresa Sterrett |
+| 417 | 184 | Theresa Sterrett |
+| 418 | 184 | Regina Unruh |
 | 419 | 183 | Lynzekwi |
 | 420 | 183 | Brenna Ann |
 | 421 | 183 | Wakanda Forever |
@@ -450,8 +450,8 @@
 | 442 | 176 | Jennifer Malloy - Cardy |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Shandrica Lowe |
-| 446 | 175 | Tina Blessed Cage |
+| 445 | 175 | Tina Blessed Cage |
+| 446 | 175 | Shandrica Lowe |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | kippykay |
@@ -466,8 +466,8 @@
 | 458 | 169 | Lively Catcher |
 | 459 | 168 | Phil J. Grombliniak |
 | 460 | 168 | Kati Russeau |
-| 461 | 167 | mshir |
-| 462 | 167 | Sabrena Yeisley |
+| 461 | 167 | Sabrena Yeisley |
+| 462 | 167 | mshir |
 | 463 | 166 | suuny |
 | 464 | 165 | Catherine Varea |
 | 465 | 165 | Cathy Bitters |
@@ -476,8 +476,8 @@
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Danielle Ayoub |
 | 470 | 163 | Albert McKnight |
-| 471 | 162 | Michael Artis |
-| 472 | 162 | LC Hamilton |
+| 471 | 162 | LC Hamilton |
+| 472 | 162 | Michael Artis |
 | 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
@@ -516,8 +516,8 @@
 | 508 | 152 | James Smith |
 | 509 | 152 | Kyle LeRoy Harris |
 | 510 | 152 | Kristin King |
-| 511 | 152 | JP Parks |
-| 512 | 152 | Anthony Mignacca |
+| 511 | 152 | Anthony Mignacca |
+| 512 | 152 | JP Parks |
 | 513 | 151 | Jennifer Rajek |
 | 514 | 151 | Kia Humphery |
 | 515 | 151 | D'Aaron Black |
@@ -552,9 +552,9 @@
 | 544 | 143 | Jay Levy |
 | 545 | 142 | Melissa Kay Gibson |
 | 546 | 142 | Joy LaJeunesse |
-| 547 | 142 | Zachary Boyarski |
-| 548 | 142 | Frisky Clearpiece |
-| 549 | 142 | Amy Humphreys |
+| 547 | 142 | Frisky Clearpiece |
+| 548 | 142 | Amy Humphreys |
+| 549 | 142 | Zachary Boyarski |
 | 550 | 141 | Mary Lopez Sr. |
 | 551 | 141 | Markisha Poyndexter |
 | 552 | 141 | Arkei Luster |
