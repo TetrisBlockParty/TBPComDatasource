@@ -95,12 +95,12 @@
 | 87 | 120 | Jessica |
 | 88 | 118 | Bea Miles |
 | 89 | 114 | Terry Jo Jones |
-| 90 | 113 | Fancy Curver |
-| 91 | 113 | Jennifer Alvey |
+| 90 | 113 | Jennifer Alvey |
+| 91 | 113 | Fancy Curver |
 | 92 | 112 | Connie Mohler-Fair |
 | 93 | 111 | Joy Petroski |
-| 94 | 110 | Tiff Vs Tiffany |
-| 95 | 110 | Stella |
+| 94 | 110 | Stella |
+| 95 | 110 | Tiff Vs Tiffany |
 | 96 | 108 | Grams |
 | 97 | 107 | Bryan Byrd |
 | 98 | 106 | Rufus Lincoln |

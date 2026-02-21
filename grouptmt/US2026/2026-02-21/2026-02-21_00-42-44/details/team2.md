@@ -115,8 +115,8 @@
 | 107 | 317 | bru |
 | 108 | 299 | Véronique Lévesque Sabourin |
 | 109 | 297 | James Zaragoza |
-| 110 | 295 | Diallo Sparkman |
-| 111 | 295 | Zany Clusterbuilder |
+| 110 | 295 | Zany Clusterbuilder |
+| 111 | 295 | Diallo Sparkman |
 | 112 | 292 | Steve Grotto |
 | 113 | 286 | Juanita Lyons |
 | 114 | 285 | June E Hanson |
@@ -169,8 +169,8 @@
 | 161 | 227 | Alyssia Tancredi |
 | 162 | 225 | Lindsey Leigh |
 | 163 | 223 | Matt Johnson |
-| 164 | 222 | Cheery Matchzone |
-| 165 | 222 | snkylnk |
+| 164 | 222 | snkylnk |
+| 165 | 222 | Cheery Matchzone |
 | 166 | 220 | Mary Marie |
 | 167 | 220 | BYM4L |
 | 168 | 219 | Ashle Scranton |
@@ -184,8 +184,8 @@
 | 176 | 207 | Melissa McCall |
 | 177 | 206 | RAEPR05 |
 | 178 | 205 | Osun Anuket Esu |
-| 179 | 205 | ElizabethAnn Dickinson |
-| 180 | 205 | tejas25 |
+| 179 | 205 | tejas25 |
+| 180 | 205 | ElizabethAnn Dickinson |
 | 181 | 203 | Gary Stash |
 | 182 | 202 | Christina Ashley |
 | 183 | 200 | Tum |
@@ -194,12 +194,12 @@
 | 186 | 200 | Sarah Ridenour |
 | 187 | 199 | Ashley Rose Frederick |
 | 188 | 198 | Julio A Laracuente |
-| 189 | 198 | Alyssa Dean |
-| 190 | 198 | Richard Horton |
+| 189 | 198 | Richard Horton |
+| 190 | 198 | Alyssa Dean |
 | 191 | 197 | Smashanator |
 | 192 | 196 | Alexandra Reese |
-| 193 | 194 | Mike Aprilliano |
-| 194 | 194 | Kimberly Ann |
+| 193 | 194 | Kimberly Ann |
+| 194 | 194 | Mike Aprilliano |
 | 195 | 193 | Nika Bee |
 | 196 | 193 | Ariel |
 | 197 | 191 | PsychKIRAtrist |
