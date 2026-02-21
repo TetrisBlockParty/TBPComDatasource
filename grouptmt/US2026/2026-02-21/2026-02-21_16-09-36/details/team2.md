@@ -328,12 +328,12 @@
 | 320 | 323 | KhaosLord |
 | 321 | 323 | Briana Alexander |
 | 322 | 322 | Brandy Andre |
-| 323 | 318 | CC |
-| 324 | 318 | Alexandra Weir |
-| 325 | 317 | Ebony Deloach Bryant |
-| 326 | 317 | Heather Westrum |
-| 327 | 317 | bru |
-| 328 | 317 | Bussyiano Page |
+| 323 | 318 | Alexandra Weir |
+| 324 | 318 | CC |
+| 325 | 317 | Heather Westrum |
+| 326 | 317 | Ebony Deloach Bryant |
+| 327 | 317 | Bussyiano Page |
+| 328 | 317 | bru |
 | 329 | 317 | Zombi3 |
 | 330 | 315 | Alisa Lamb |
 | 331 | 314 | NanDa Cruzan VI |
@@ -934,8 +934,8 @@
 | 926 | 119 | Brenda Fortner |
 | 927 | 119 | Jennifer Mahon |
 | 928 | 119 | Mary Boss |
-| 929 | 118 | ThunderSword |
-| 930 | 118 | Jennifer Monroe Kelly |
+| 929 | 118 | Jennifer Monroe Kelly |
+| 930 | 118 | ThunderSword |
 | 931 | 118 | Emilie Victoria Cordero |
 | 932 | 118 | Atara James |
 | 933 | 118 | Nikki Arlene |
@@ -950,8 +950,8 @@
 | 942 | 117 | Kelli Clark |
 | 943 | 117 | Funky Riseclear |
 | 944 | 117 | Luceros7 |
-| 945 | 116 | Patrick Langford |
-| 946 | 116 | Moua Ying |
+| 945 | 116 | Moua Ying |
+| 946 | 116 | Patrick Langford |
 | 947 | 116 | Carla Cervantes |
 | 948 | 116 | Slimkaite |
 | 949 | 115 | Melissa Schwager |

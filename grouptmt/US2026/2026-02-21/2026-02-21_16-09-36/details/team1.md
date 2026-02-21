@@ -49,8 +49,8 @@
 | 41 | 380 | Robert Beck |
 | 42 | 365 | Jennifer Cates |
 | 43 | 363 | Angel Fowler |
-| 44 | 349 | Nancy Green |
-| 45 | 349 | Jacqueline Williams |
+| 44 | 349 | Jacqueline Williams |
+| 45 | 349 | Nancy Green |
 | 46 | 348 | Stef Hu |
 | 47 | 338 | Stephanie Zahn |
 | 48 | 322 | Robert Benito |
@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Arianna O'Brien |
-| 119 | 149 | Jennifer ManWarren |
+| 118 | 149 | Jennifer ManWarren |
+| 119 | 149 | Arianna O'Brien |
 | 120 | 148 | Shauntina Burke |
 | 121 | 146 | Irual Hctrab |
 | 122 | 146 | Dandy Basegrid |
@@ -154,8 +154,8 @@
 | 146 | 129 | Dino |
 | 147 | 128 | Barry Mac'Ockner |
 | 148 | 128 | lil mickey |
-| 149 | 127 | Brave Wrecker |
-| 150 | 127 | Aimee Horton |
+| 149 | 127 | Aimee Horton |
+| 150 | 127 | Brave Wrecker |
 | 151 | 124 | Cartier |
 | 152 | 122 | Melissa Lemmon |
 | 153 | 121 | Bouncy Grid |
@@ -218,9 +218,9 @@
 | 210 | 90 | Grace Joanne Agnant |
 | 211 | 90 | John Kim |
 | 212 | 89 | Isodor |
-| 213 | 88 | Larry Tilton |
+| 213 | 88 | Sam Williams |
 | 214 | 88 | DoodleBug |
-| 215 | 88 | Sam Williams |
+| 215 | 88 | Larry Tilton |
 | 216 | 87 | Jenny Gingrich Fuentes |
 | 217 | 86 | Nerdy Linkblock |
 | 218 | 86 | Basment Living |

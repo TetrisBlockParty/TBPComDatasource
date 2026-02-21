@@ -173,8 +173,8 @@
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Rafael Valentin |
-| 169 | 107 | Marcus Todd |
+| 168 | 107 | Marcus Todd |
+| 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
 | 171 | 106 | Empress Oasis |
 | 172 | 105 | TheNeesh50 |
@@ -186,8 +186,8 @@
 | 178 | 103 | Lauren Lamb |
 | 179 | 103 | Judy Cox |
 | 180 | 102 | Autumn Kumzi |
-| 181 | 102 | Empress Oasis |
-| 182 | 101 | Chaz |
+| 181 | 102 | Faja |
+| 182 | 101 | Zesty Linkgrid |
 | 183 | 101 | mike |
 | 184 | 101 | Chaz |
 | 185 | 101 | Saulc1991 |

@@ -111,14 +111,14 @@
 | 103 | 307 | Blocked |
 | 104 | 307 | Peggi Charon |
 | 105 | 306 | Speedy Bridger |
-| 106 | 300 | Tessina Dewey-Mancino |
-| 107 | 300 | Sherika C. McDaniels |
+| 106 | 300 | Sherika C. McDaniels |
+| 107 | 300 | Tessina Dewey-Mancino |
 | 108 | 293 | Poppy Splitter |
 | 109 | 284 | Jay Horn |
 | 110 | 267 | Rufus Lincoln |
 | 111 | 264 | Tiff Vs Tiffany |
-| 112 | 263 | mjl574 |
-| 113 | 263 | Angeline Joseph |
+| 112 | 263 | Angeline Joseph |
+| 113 | 263 | mjl574 |
 | 114 | 262 | Joe-Maggie Mathews |
 | 115 | 259 | opf |
 | 116 | 256 | ren |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | Chris Bell |
-| 142 | 207 | rnr junky |
+| 141 | 207 | rnr junky |
+| 142 | 207 | Chris Bell |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -345,8 +345,8 @@
 | 337 | 89 | Zac Hudak |
 | 338 | 89 | Patti Skiles |
 | 339 | 88 | Dapper Towerfit |
-| 340 | 88 | Kaitie Oliver |
-| 341 | 88 | Kelly Koenig |
+| 340 | 88 | Kelly Koenig |
+| 341 | 88 | Kaitie Oliver |
 | 342 | 88 | RickyG |
 | 343 | 86 | Denise Marie |
 | 344 | 86 | Criss |
@@ -372,8 +372,8 @@
 | 364 | 80 | Oliver Neal II |
 | 365 | 80 | Me,Him,Yu |
 | 366 | 79 | Bleu Sun Beams |
-| 367 | 79 | Jessie Chung |
-| 368 | 79 | Brittany K Ward |
+| 367 | 79 | Brittany K Ward |
+| 368 | 79 | Jessie Chung |
 | 369 | 79 | Mike Spritzer |
 | 370 | 78 | Sabrina Mansfield |
 | 371 | 78 | Nena Somerville Kelly |
