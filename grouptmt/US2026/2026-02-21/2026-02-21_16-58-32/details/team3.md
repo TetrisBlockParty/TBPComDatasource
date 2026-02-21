@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -151,8 +151,8 @@
 | 143 | 212 | Shunta Jacobs |
 | 144 | 211 | Katrina Schroeder |
 | 145 | 210 | Jenny Hrndz |
-| 146 | 207 | rnr junky |
-| 147 | 207 | Chris Bell |
+| 146 | 207 | Chris Bell |
+| 147 | 207 | rnr junky |
 | 148 | 203 | Twisty Brick LT |
 | 149 | 197 | Ashley Tookes |
 | 150 | 195 | Nicha Hooker |
@@ -284,22 +284,22 @@
 | 276 | 107 | Jumpy Wrecker |
 | 277 | 107 | Melissa Snyder |
 | 278 | 107 | Bouncy Blockbuilder |
-| 279 | 106 | Cheeky Snapper |
-| 280 | 106 | Elizabeth Renee |
+| 279 | 106 | Elizabeth Renee |
+| 280 | 106 | Cheeky Snapper |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
-| 283 | 105 | Emi |
-| 284 | 105 | Boldy Blocker |
+| 283 | 105 | Boldy Blocker |
+| 284 | 105 | Emi |
 | 285 | 104 | Samantha Lynn |
 | 286 | 104 | bean |
 | 287 | 104 | Sarah Moyer |
 | 288 | 104 | Ashley Rufus Bythcez |
 | 289 | 103 | Lisa Lisa |
 | 290 | 103 | Kate Farok |
-| 291 | 103 | Andrew Thorson |
-| 292 | 103 | Wetwet |
-| 293 | 102 | Christian Luna |
-| 294 | 102 | Criss |
+| 291 | 103 | Wetwet |
+| 292 | 103 | Andrew Thorson |
+| 293 | 102 | Criss |
+| 294 | 102 | Christian Luna |
 | 295 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 296 | 101 | Hyper Bridger |
 | 297 | 100 | Edwin Calvillo Jr. |
@@ -967,9 +967,9 @@
 | 959 | 32 | Christina Stimson |
 | 960 | 32 | Briaa Williams |
 | 961 | 32 | Sumner Lee |
-| 962 | 32 | Betty Ivy |
-| 963 | 32 | Briaa Williams |
-| 964 | 32 | Kortni Singleton |
+| 962 | 32 | Kortni Singleton |
+| 963 | 32 | Betty Ivy |
+| 964 | 32 | bug |
 | 965 | 31 | Tricia Margaret |
 | 966 | 31 | Amy Jeffers |
 | 967 | 31 | Loretta Hendricks |

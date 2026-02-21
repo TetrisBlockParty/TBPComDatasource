@@ -164,8 +164,8 @@
 | 156 | 602 | L3sli3 |
 | 157 | 596 | Thomas Hughes |
 | 158 | 592 | Ashle Scranton |
-| 159 | 591 | Rebecca Doughman |
-| 160 | 591 | Alisha |
+| 159 | 591 | Alisha |
+| 160 | 591 | Rebecca Doughman |
 | 161 | 589 | Erica Williams |
 | 162 | 583 | Jessicah Myers |
 | 163 | 580 | Steve Grotto |
@@ -255,8 +255,8 @@
 | 247 | 409 | Sparkles |
 | 248 | 408 | Amanda Ferrell |
 | 249 | 406 | Erin StFrancis |
-| 250 | 405 | Christy Krissie |
-| 251 | 405 | Sarah Massey |
+| 250 | 405 | Sarah Massey |
+| 251 | 405 | Christy Krissie |
 | 252 | 403 | Crystie Hicks |
 | 253 | 402 | Joshua Mandel |
 | 254 | 400 | Rhonda Milstead |
@@ -357,8 +357,8 @@
 | 349 | 317 | bru |
 | 350 | 316 | Oscar Bernie |
 | 351 | 314 | Amanda West |
-| 352 | 312 | Michelle Pike |
-| 353 | 312 | Andrea Maher |
+| 352 | 312 | Andrea Maher |
+| 353 | 312 | Michelle Pike |
 | 354 | 310 | Kristopher Miller |
 | 355 | 309 | James Zaragoza |
 | 356 | 307 | Catina Hutchison |
@@ -378,9 +378,9 @@
 | 370 | 297 | Peachy Blockbuilder |
 | 371 | 296 | Jennifer Darby |
 | 372 | 296 | AISlop |
-| 373 | 296 | Heather Schelkopf |
+| 373 | 296 | Amber Gray |
 | 374 | 296 | Jennifer Casey-Kay |
-| 375 | 296 | Amber Gray |
+| 375 | 296 | Heather Schelkopf |
 | 376 | 295 | Melissa Kay Gibson |
 | 377 | 295 | Noel Tarmy |
 | 378 | 294 | Frisky Riserbuilder |
@@ -476,8 +476,8 @@
 | 468 | 237 | Ben Barkley |
 | 469 | 236 | snkylnk |
 | 470 | 236 | Julio A Laracuente |
-| 471 | 234 | Manny Trindade |
-| 472 | 234 | Jennifer Leigh |
+| 471 | 234 | Jennifer Leigh |
+| 472 | 234 | Manny Trindade |
 | 473 | 234 | Jaybee Nguyen |
 | 474 | 233 | Epic Spinfit |
 | 475 | 233 | Nutty Matchline |

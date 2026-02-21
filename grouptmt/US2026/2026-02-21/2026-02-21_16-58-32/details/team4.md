@@ -122,8 +122,8 @@
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
 | 116 | 152 | Jessica Bohlken |
-| 117 | 151 | Bethany Ison |
-| 118 | 151 | Dana Scott |
+| 117 | 151 | Dana Scott |
+| 118 | 151 | Bethany Ison |
 | 119 | 150 | Ren Mc |
 | 120 | 148 | Brittany Marsh |
 | 121 | 148 | Janita Parrish |
