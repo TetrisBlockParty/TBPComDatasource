@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
 | 28 | 274 | Theo Pinnow |
 | 29 | 265 | Jennifer Cates |
 | 30 | 256 | Robert Benito |
@@ -52,7 +52,7 @@
 | 44 | 195 | Ananda Mendez |
 | 45 | 194 | Sharon Reynolds |
 | 46 | 192 | Mandyy Rae |
-| 47 | 191 | Jazzy Framezone |
+| 47 | 191 | Sweet Baker |
 | 48 | 191 | Giggly Builderline |
 | 49 | 191 | Jazzy Framezone |
 | 50 | 190 | Sweetts |
@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Uhog SF |
-| 83 | 128 | Gary Gobin |
+| 82 | 128 | Gary Gobin |
+| 83 | 128 | Uhog SF |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Irual Hctrab |
@@ -109,8 +109,8 @@
 | 101 | 108 | Tavia |
 | 102 | 107 | Jodee Woods |
 | 103 | 106 | Ash Galvan |
-| 104 | 105 | Flashy Rotator |
-| 105 | 105 | Barry Mac'Ockner |
+| 104 | 105 | Barry Mac'Ockner |
+| 105 | 105 | Flashy Rotator |
 | 106 | 103 | Adryane Schnase |
 | 107 | 102 | Jennifer ManWarren |
 | 108 | 100 | Bhelle Sumile |

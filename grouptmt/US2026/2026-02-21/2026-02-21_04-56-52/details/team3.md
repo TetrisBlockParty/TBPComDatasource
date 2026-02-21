@@ -115,8 +115,8 @@
 | 107 | 159 | Jone |
 | 108 | 158 | Grams |
 | 109 | 156 | Joey Banks |
-| 110 | 155 | Shannon Matthew Byers |
-| 111 | 155 | BŘŰŤİÇŨŚ |
+| 110 | 155 | BŘŰŤİÇŨŚ |
+| 111 | 155 | Shannon Matthew Byers |
 | 112 | 154 | Angela M. Fletcher |
 | 113 | 153 | Beth Ingham |
 | 114 | 152 | Shiny Zonebuilder |
@@ -221,8 +221,8 @@
 | 213 | 86 | Clever Clearbuilder |
 | 214 | 86 | Kevin Russell |
 | 215 | 85 | Chris Bell |
-| 216 | 84 | Flashy Rumbler |
-| 217 | 84 | Amanda L Baker |
+| 216 | 84 | Amanda L Baker |
+| 217 | 84 | Flashy Rumbler |
 | 218 | 83 | Michael Nowogorski |
 | 219 | 82 | Crystel b520 |
 | 220 | 82 | Stephanie Whitefield |
@@ -272,7 +272,7 @@
 | 264 | 71 | LaKisha Legrone |
 | 265 | 70 | Willow |
 | 266 | 70 | Tommy Proctor |
-| 267 | 70 | Willow |
+| 267 | 70 | Leticia Lynn Lowe |
 | 268 | 69 | Jen Lewis |
 | 269 | 68 | Weerae |
 | 270 | 67 | Romeo |

@@ -227,13 +227,13 @@
 | 219 | 271 | Lonne Emade |
 | 220 | 271 | Toni Lynn |
 | 221 | 271 | Ann Marie Davis |
-| 222 | 270 | Alexandra Weir |
-| 223 | 270 | Victoria Moore-Smith |
+| 222 | 270 | Victoria Moore-Smith |
+| 223 | 270 | Alexandra Weir |
 | 224 | 268 | Vanessa Moreno |
 | 225 | 268 | Elisheva Mizrachi |
 | 226 | 267 | Mindy Leigh Head |
-| 227 | 266 | Mighty Shatterfit |
-| 228 | 266 | Autumn Schaeffer |
+| 227 | 266 | Autumn Schaeffer |
+| 228 | 266 | Mighty Shatterfit |
 | 229 | 266 | Joyce Johnson Vaughn |
 | 230 | 263 | Taylor Flowers |
 | 231 | 263 | August Hale |
@@ -241,8 +241,8 @@
 | 233 | 261 | Leah |
 | 234 | 261 | MrsClaudette Will'sIam Matthews |
 | 235 | 261 | Ann Matzkanin |
-| 236 | 260 | Dapper Dasher |
-| 237 | 260 | Denise Rickman |
+| 236 | 260 | Denise Rickman |
+| 237 | 260 | Dapper Dasher |
 | 238 | 257 | Shameika Trail |
 | 239 | 257 | Lyndi Robinson Wakefield |
 | 240 | 256 | Tee Jaleesa |
@@ -285,8 +285,8 @@
 | 277 | 231 | Dylan Thomason |
 | 278 | 230 | snkylnk |
 | 279 | 228 | Michelle Sager |
-| 280 | 227 | Amber Gray |
-| 281 | 227 | Nutty Matchline |
+| 280 | 227 | Nutty Matchline |
+| 281 | 227 | Amber Gray |
 | 282 | 227 | Sanaa Nounoussa |
 | 283 | 226 | Leslie Ann Carter |
 | 284 | 223 | Giddy Gridclear |
@@ -374,8 +374,8 @@
 | 366 | 170 | Darlene Bowman |
 | 367 | 170 | Dedra Steward |
 | 368 | 170 | Kenya Felix |
-| 369 | 169 | Eddie Perez |
-| 370 | 169 | Lively Catcher |
+| 369 | 169 | Lively Catcher |
+| 370 | 169 | Eddie Perez |
 | 371 | 169 | Fi Ne |
 | 372 | 168 | Kati Russeau |
 | 373 | 168 | Seth Wrieden |

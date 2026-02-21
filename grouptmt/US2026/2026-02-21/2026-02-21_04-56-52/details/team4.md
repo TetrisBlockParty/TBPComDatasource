@@ -70,8 +70,8 @@
 | 62 | 142 | Justin Hannigan |
 | 63 | 141 | Malakai Darien Fox |
 | 64 | 140 | Shannon Ferrari |
-| 65 | 134 | Jessica Bohlken |
-| 66 | 134 | Chirpy Basepiece |
+| 65 | 134 | Chirpy Basepiece |
+| 66 | 134 | Jessica Bohlken |
 | 67 | 133 | Robin Watters |
 | 68 | 132 | Degenerate |
 | 69 | 132 | Jenna McGeorge |
@@ -80,8 +80,8 @@
 | 72 | 129 | John Brunetti |
 | 73 | 125 | Lauren Scott |
 | 74 | 123 | Nugget |
-| 75 | 122 | Sherri |
-| 76 | 122 | Shelly Chandler |
+| 75 | 122 | Shelly Chandler |
+| 76 | 122 | Sherri |
 | 77 | 121 | Smiley Tiltbuilder |
 | 78 | 120 | Joshua Guess |
 | 79 | 119 | Kristin Manee |
@@ -105,8 +105,8 @@
 | 97 | 104 | YoMomma |
 | 98 | 103 | Sam Middleton |
 | 99 | 102 | Faja |
-| 100 | 101 | Michelle Morris |
-| 101 | 101 | Stephme310 |
+| 100 | 101 | Stephme310 |
+| 101 | 101 | Michelle Morris |
 | 102 | 100 | Jeff Brian Gates |
 | 103 | 98 | 030Synner |
 | 104 | 98 | Allen Lloyd |
