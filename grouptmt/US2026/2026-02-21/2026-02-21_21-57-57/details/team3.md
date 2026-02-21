@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Katrina Schroeder |
-| 62 | 582 | Natasha Jones |
+| 61 | 582 | Natasha Jones |
+| 62 | 582 | Katrina Schroeder |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -261,8 +261,8 @@
 | 253 | 148 | Wetwet |
 | 254 | 148 | Gumbo |
 | 255 | 148 | Jennifer Alvey |
-| 256 | 147 | Ashley Lynn Marchese |
-| 257 | 147 | Carrie Huskey |
+| 256 | 147 | Carrie Huskey |
+| 257 | 147 | Ashley Lynn Marchese |
 | 258 | 146 | Denita Mungro |
 | 259 | 145 | Jeni Dow |
 | 260 | 145 | Bryan Byrd |
@@ -277,8 +277,8 @@
 | 269 | 141 | IamJust Neyamijah Washington Sr. |
 | 270 | 140 | Funky Jumper |
 | 271 | 138 | Boldy Corner |
-| 272 | 137 | Cesar Barraza |
-| 273 | 137 | Rachel |
+| 272 | 137 | Rachel |
+| 273 | 137 | Cesar Barraza |
 | 274 | 136 | Sabrina Mansfield |
 | 275 | 135 | Skinny Baldez |
 | 276 | 135 | Terry Jo Jones |
@@ -330,7 +330,7 @@
 | 322 | 118 | Damian Reid |
 | 323 | 118 | Fancy Curver |
 | 324 | 117 | El Chapa |
-| 325 | 117 | Rainbow77375 |
+| 325 | 117 | Brian Battjes |
 | 326 | 117 | Dee Pratt |
 | 327 | 117 | Rainbow77375 |
 | 328 | 116 | Elisha L Allman |
