@@ -25,8 +25,8 @@
 | 17 | 446 | Valerie Roberts |
 | 18 | 402 | Samantha Peterson |
 | 19 | 390 | Alicia Bass |
-| 20 | 383 | Johnathan Martinez |
-| 21 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Johnathan Martinez |
 | 22 | 373 | Rodney McMath Jr. |
 | 23 | 345 | Ancient Intuition |
 | 24 | 339 | LisaJo Picken Buchanan |
@@ -80,8 +80,8 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Jessica Bohlken |
-| 76 | 134 | Chirpy Basepiece |
+| 75 | 134 | Chirpy Basepiece |
+| 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Jenna McGeorge |
 | 79 | 132 | Melissa Priest Sellers |
@@ -91,8 +91,8 @@
 | 83 | 131 | Dana Scott |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | Landon Keith Graffeo |
-| 87 | 129 | John Brunetti |
+| 86 | 129 | John Brunetti |
+| 87 | 129 | Landon Keith Graffeo |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Bubbly Puzzler |
@@ -120,9 +120,9 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | Sam Middleton |
-| 116 | 105 | TheNeesh50 |
-| 117 | 105 | TinyLegoRose |
+| 115 | 105 | TinyLegoRose |
+| 116 | 105 | Sam Middleton |
+| 117 | 105 | TheNeesh50 |
 | 118 | 105 | AyeKay |
 | 119 | 104 | YoMomma |
 | 120 | 104 | Adam Randall |
@@ -133,9 +133,9 @@
 | 125 | 100 | Alexandra Karavias |
 | 126 | 100 | Megan Cutshaw |
 | 127 | 100 | Jeff Brian Gates |
-| 128 | 98 | Allen Lloyd |
-| 129 | 98 | Duck |
-| 130 | 98 | Chaz |
+| 128 | 98 | Chaz |
+| 129 | 98 | Allen Lloyd |
+| 130 | 98 | Duck |
 | 131 | 96 | Zappy Snaplink |
 | 132 | 95 | Meagan Nicole |
 | 133 | 93 | Zesty Twistbuilder |

@@ -69,8 +69,8 @@
 | 61 | 360 | Ebony West-Cundiff |
 | 62 | 351 | Calista Jo Dickson |
 | 63 | 343 | Silly Twist |
-| 64 | 342 | Trezure Gonzalez |
-| 65 | 342 | Annie Déè |
+| 64 | 342 | Annie Déè |
+| 65 | 342 | Trezure Gonzalez |
 | 66 | 338 | Danielle Rhoades |
 | 67 | 334 | Chummy Shatterer |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
@@ -113,8 +113,8 @@
 | 105 | 193 | Shunta Jacobs |
 | 106 | 193 | Clever Shiftsnap |
 | 107 | 192 | Chasity |
-| 108 | 187 | Katrina Schroeder |
-| 109 | 187 | Speedy Bridger |
+| 108 | 187 | Speedy Bridger |
+| 109 | 187 | Katrina Schroeder |
 | 110 | 184 | Jennie Beranek |
 | 111 | 182 | Ashley Tookes |
 | 112 | 182 | Hyper Matchzone |
@@ -224,8 +224,8 @@
 | 216 | 96 | Hanna Kim |
 | 217 | 96 | Christopher Woost |
 | 218 | 95 | Brooke Bauer |
-| 219 | 94 | Angie Harper |
-| 220 | 94 | Carrie Huskey |
+| 219 | 94 | Carrie Huskey |
+| 220 | 94 | Angie Harper |
 | 221 | 93 | Tiffany Ford |
 | 222 | 92 | Ava Petito |
 | 223 | 92 | Jennifer Caputo |
@@ -288,7 +288,7 @@
 | 280 | 76 | Kammy Hill |
 | 281 | 75 | MistyDawn |
 | 282 | 75 | Ant Ant |
-| 283 | 75 | MistyDawn |
+| 283 | 75 | Janelle Goetz |
 | 284 | 75 | Jack Bo |
 | 285 | 74 | FuzzyNavel |
 | 286 | 74 | Mike Spritzer |

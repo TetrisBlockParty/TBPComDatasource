@@ -192,8 +192,8 @@
 | 184 | 337 | Joseph Musick |
 | 185 | 336 | Tralonda Weeks |
 | 186 | 334 | Missie Lawson Gebhardt |
-| 187 | 334 | Nashu |
-| 188 | 334 | Moni Foxe |
+| 187 | 334 | Moni Foxe |
+| 188 | 334 | Nashu |
 | 189 | 332 | TF Dyer |
 | 190 | 331 | Brave Dropmatch |
 | 191 | 330 | Victoria Moore-Smith |
@@ -202,8 +202,8 @@
 | 194 | 327 | Danielle Simmons |
 | 195 | 323 | Juanita Lyons |
 | 196 | 323 | Briana Alexander |
-| 197 | 318 | Trista Dumais |
-| 198 | 318 | Arwa Fatimah |
+| 197 | 318 | Arwa Fatimah |
+| 198 | 318 | Trista Dumais |
 | 199 | 317 | bru |
 | 200 | 314 | Amanda West |
 | 201 | 313 | Brittany Alicia |
@@ -365,8 +365,8 @@
 | 357 | 194 | Mike Aprilliano |
 | 358 | 194 | Kimberly Ann |
 | 359 | 193 | Nika Bee |
-| 360 | 193 | Matthew Turner |
-| 361 | 193 | Kelly Ann McCormick |
+| 360 | 193 | Kelly Ann McCormick |
+| 361 | 193 | Matthew Turner |
 | 362 | 191 | Lauren Fitzgerald Thomas |
 | 363 | 191 | John Quiring |
 | 364 | 191 | Deana |
