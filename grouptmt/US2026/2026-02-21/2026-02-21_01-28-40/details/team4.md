@@ -47,8 +47,8 @@
 | 39 | 140 | Carter Jones |
 | 40 | 130 | Casey Jeffcoat |
 | 41 | 129 | Samantha Peterson |
-| 42 | 128 | Denise Carlson |
-| 43 | 128 | Robin Watters |
+| 42 | 128 | Robin Watters |
+| 43 | 128 | Denise Carlson |
 | 44 | 127 | Jessica Bohlken |
 | 45 | 125 | Lauren Scott |
 | 46 | 124 | Jay28 |
@@ -97,8 +97,8 @@
 | 89 | 75 | Rosemary Foster |
 | 90 | 75 | 🥔🥔 Spudz |
 | 91 | 73 | Lauren Lamb |
-| 92 | 73 | Chaz |
-| 93 | 73 | Jeff Brian Gates |
+| 92 | 73 | Jeff Brian Gates |
+| 93 | 73 | Chaz |
 | 94 | 72 | Joshua Cuellar |
 | 95 | 72 | Jae Job |
 | 96 | 71 | Christina Black |

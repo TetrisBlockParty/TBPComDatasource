@@ -59,8 +59,8 @@
 | 51 | 126 | Cece Ibarra |
 | 52 | 126 | Marianne Louise West |
 | 53 | 125 | Rico Rico |
-| 54 | 120 | BigWeenie69 |
-| 55 | 120 | Giggly Builderline |
+| 54 | 120 | Giggly Builderline |
+| 55 | 120 | BigWeenie69 |
 | 56 | 119 | Irual Hctrab |
 | 57 | 117 | David DeSantis |
 | 58 | 116 | Kristen Roles Robben |

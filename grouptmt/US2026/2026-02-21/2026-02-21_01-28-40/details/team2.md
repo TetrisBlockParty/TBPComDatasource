@@ -660,8 +660,8 @@
 | 652 | 70 | Kayleigh Rodriguez |
 | 653 | 70 | Bing |
 | 654 | 70 | Saucy Matchfit |
-| 655 | 70 | Karla Patricia Garcia |
-| 656 | 70 | Gary Schaffner Jr. |
+| 655 | 70 | Gary Schaffner Jr. |
+| 656 | 70 | Karla Patricia Garcia |
 | 657 | 69 | Rose Rossi |
 | 658 | 69 | Brittany Sweetland |
 | 659 | 69 | Sherisse Bigelow-Staples |
