@@ -54,8 +54,8 @@
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
-| 49 | 116 | Sherri |
-| 50 | 116 | Serena Goodridge |
+| 49 | 116 | Serena Goodridge |
+| 50 | 116 | Sherri |
 | 51 | 114 | Jessica Cagle |
 | 52 | 113 | Degenerate |
 | 53 | 112 | Chirpy Basepiece |

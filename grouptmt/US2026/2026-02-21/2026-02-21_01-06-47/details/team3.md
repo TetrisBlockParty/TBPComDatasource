@@ -88,8 +88,8 @@
 | 80 | 134 | DanceLuvLaugh |
 | 81 | 131 | Emma |
 | 82 | 130 | Tessina Dewey-Mancino |
-| 83 | 129 | Ashley Tookes |
-| 84 | 129 | Giddy Twistbuilder |
+| 83 | 129 | Giddy Twistbuilder |
+| 84 | 129 | Ashley Tookes |
 | 85 | 128 | Angel Mendez |
 | 86 | 127 | mjl574 |
 | 87 | 125 | Stephanie Simpson |
@@ -102,8 +102,8 @@
 | 94 | 114 | Terry Jo Jones |
 | 95 | 113 | Rufus Lincoln |
 | 96 | 113 | Jennifer Alvey |
-| 97 | 112 | Connie Mohler-Fair |
-| 98 | 112 | Jimmie Clemons |
+| 97 | 112 | Jimmie Clemons |
+| 98 | 112 | Connie Mohler-Fair |
 | 99 | 111 | Joy Petroski |
 | 100 | 110 | Tiff Vs Tiffany |
 | 101 | 110 | Stella |
