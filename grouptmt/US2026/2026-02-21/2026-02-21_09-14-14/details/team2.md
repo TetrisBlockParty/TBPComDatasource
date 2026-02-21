@@ -199,8 +199,8 @@
 | 191 | 380 | Calandra Shaya Robinson |
 | 192 | 380 | Joshua Mandel |
 | 193 | 378 | Cody Nishimura |
-| 194 | 377 | Liberty |
-| 195 | 377 | Roy Salyer |
+| 194 | 377 | Roy Salyer |
+| 195 | 377 | Liberty |
 | 196 | 364 | Shinette Dobson |
 | 197 | 363 | William Meussner |
 | 198 | 361 | Dizzy Zone |
@@ -250,8 +250,8 @@
 | 242 | 305 | Libby Hicks |
 | 243 | 303 | Crystal Greene |
 | 244 | 301 | Claire |
-| 245 | 299 | Deborah Miller |
-| 246 | 299 | Christy Krissie |
+| 245 | 299 | Christy Krissie |
+| 246 | 299 | Deborah Miller |
 | 247 | 297 | Brenda Utphall |
 | 248 | 296 | Jennifer Darby |
 | 249 | 296 | Jennifer Casey-Kay |
@@ -333,8 +333,8 @@
 | 325 | 246 | Stephanie Lumanlan |
 | 326 | 246 | Ashley Lopez |
 | 327 | 245 | Rachael Senard |
-| 328 | 245 | Taryece Gause |
-| 329 | 245 | Mischelle Clay |
+| 328 | 245 | Mischelle Clay |
+| 329 | 245 | Taryece Gause |
 | 330 | 244 | Aimee Byrom |
 | 331 | 243 | Brandy Andre |
 | 332 | 243 | Adira Brown |
@@ -360,8 +360,8 @@
 | 352 | 230 | Leslie Johnson Guinto |
 | 353 | 229 | Kimmy Newman |
 | 354 | 228 | Michelle Sager |
-| 355 | 227 | Hyper Cluster |
-| 356 | 227 | Nutty Matchline |
+| 355 | 227 | Nutty Matchline |
+| 356 | 227 | Hyper Cluster |
 | 357 | 227 | Sanaa Nounoussa |
 | 358 | 227 | Demeka Dangerous-kisses Johnson |
 | 359 | 226 | Leslie Ann Carter |
@@ -384,8 +384,8 @@
 | 376 | 209 | Jerry Tempelmeyer |
 | 377 | 208 | Mema |
 | 378 | 208 | Nancy Pohlman |
-| 379 | 207 | Brave Gridpiece |
-| 380 | 207 | Melissa McCall |
+| 379 | 207 | Melissa McCall |
+| 380 | 207 | Brave Gridpiece |
 | 381 | 207 | Shylee Tilman |
 | 382 | 206 | Neko Preston |
 | 383 | 206 | RAEPR05 |
@@ -413,8 +413,8 @@
 | 405 | 194 | Kimberly Ann |
 | 406 | 194 | Mike Aprilliano |
 | 407 | 194 | Hoppy Brickmatch |
-| 408 | 193 | Matthew Turner |
-| 409 | 193 | Kelly Ann McCormick |
+| 408 | 193 | Kelly Ann McCormick |
+| 409 | 193 | Matthew Turner |
 | 410 | 193 | Amanda Schaffer |
 | 411 | 192 | Alyssa Nadine Medelez |
 | 412 | 191 | Lauren Fitzgerald Thomas |
@@ -479,8 +479,8 @@
 | 471 | 167 | Sabrena Yeisley |
 | 472 | 166 | suuny |
 | 473 | 165 | Catherine Varea |
-| 474 | 165 | Austin Wilson |
-| 475 | 165 | Cathy Bitters |
+| 474 | 165 | Cathy Bitters |
+| 475 | 165 | Austin Wilson |
 | 476 | 164 | Jessica Vega |
 | 477 | 164 | Sara Pennington |
 | 478 | 163 | Danielle Ayoub |
@@ -508,9 +508,9 @@
 | 500 | 158 | Jas |
 | 501 | 157 | Andrew Bratton-Tomes |
 | 502 | 157 | Twisty Tetriblast |
-| 503 | 157 | Nicol Craven |
+| 503 | 157 | Ty Quarles |
 | 504 | 157 | Klee |
-| 505 | 157 | Ty Quarles |
+| 505 | 157 | Nicol Craven |
 | 506 | 156 | Nuggets |
 | 507 | 156 | Deanna Morton |
 | 508 | 156 | RetroLemur |
@@ -521,8 +521,8 @@
 | 513 | 155 | Tara Lynn Janes |
 | 514 | 154 | Lori Maring |
 | 515 | 154 | Bryan Werleman |
-| 516 | 154 | Tiffney Wroten |
-| 517 | 154 | Cini |
+| 516 | 154 | Cini |
+| 517 | 154 | Tiffney Wroten |
 | 518 | 153 | Poppy Gridder |
 | 519 | 153 | Luna |
 | 520 | 152 | Kristin King |
@@ -539,8 +539,8 @@
 | 531 | 150 | Greenshades00 |
 | 532 | 149 | Brianna Cerney |
 | 533 | 149 | Melissa Rebbe-Lehman |
-| 534 | 149 | Leslie Porter |
-| 535 | 149 | Boldy Cascadepiece |
+| 534 | 149 | Boldy Cascadepiece |
+| 535 | 149 | Leslie Porter |
 | 536 | 148 | AgileDragon |
 | 537 | 147 | Sassy Pivot |
 | 538 | 147 | Smiley Strike |

@@ -87,8 +87,8 @@
 | 79 | 320 | Or Reznitsky |
 | 80 | 316 | Fancy Cascader |
 | 81 | 313 | Elaine Webb Graves |
-| 82 | 309 | CeceGeGe |
-| 83 | 309 | Rich LeBlanc |
+| 82 | 309 | Rich LeBlanc |
+| 83 | 309 | CeceGeGe |
 | 84 | 307 | Peggi Charon |
 | 85 | 306 | Dan Rob |
 | 86 | 300 | Sherika C. McDaniels |
@@ -132,8 +132,8 @@
 | 124 | 184 | Jennie Beranek |
 | 125 | 182 | Hyper Matchzone |
 | 126 | 182 | Ashley Tookes |
-| 127 | 180 | Tessina Dewey-Mancino |
-| 128 | 180 | Fallorina Susana |
+| 127 | 180 | Fallorina Susana |
+| 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |

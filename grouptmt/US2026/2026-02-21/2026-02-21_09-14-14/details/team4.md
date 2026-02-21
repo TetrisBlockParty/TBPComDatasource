@@ -81,8 +81,8 @@
 | 73 | 170 | Girl |
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Holly Jolly |
 | 80 | 159 | Justin Hannigan |
@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Cherrish Duren |
-| 109 | 123 | Nugget |
+| 108 | 123 | Nugget |
+| 109 | 123 | Cherrish Duren |
 | 110 | 122 | Sherri |
 | 111 | 121 | 030Synner |
 | 112 | 121 | Klo |
@@ -137,11 +137,11 @@
 | 129 | 111 | Lazy Blocker |
 | 130 | 110 | H.R. Block |
 | 131 | 108 | Rio Rocha |
-| 132 | 107 | Marcus Todd |
-| 133 | 107 | TinyLegoRose |
-| 134 | 105 | 🥔🥔 Spudz |
-| 135 | 105 | TheNeesh50 |
-| 136 | 105 | AyeKay |
+| 132 | 107 | TinyLegoRose |
+| 133 | 107 | Marcus Todd |
+| 134 | 105 | AyeKay |
+| 135 | 105 | 🥔🥔 Spudz |
+| 136 | 105 | TheNeesh50 |
 | 137 | 105 | Sam Middleton |
 | 138 | 104 | YoMomma |
 | 139 | 104 | Damn Libra |
@@ -195,10 +195,10 @@
 | 187 | 81 | Nubian1 |
 | 188 | 80 | Melissa Adams |
 | 189 | 80 | Chaz Duncan |
-| 190 | 79 | Anthony Bryan Riva |
+| 190 | 79 | Perky Piecegrid |
 | 191 | 79 | Kametsunoyaiba |
-| 192 | 79 | Perky Piecegrid |
-| 193 | 79 | Joseph Pace |
+| 192 | 79 | Joseph Pace |
+| 193 | 79 | Anthony Bryan Riva |
 | 194 | 78 | Jessica Miller |
 | 195 | 78 | Zesty Linkgrid |
 | 196 | 77 | Marvin Lou Martin |
@@ -239,7 +239,7 @@
 | 231 | 66 | Rebecca Blake |
 | 232 | 66 | Moonsterix |
 | 233 | 66 | mitch |
-| 234 | 66 | Rebecca Blake |
+| 234 | 66 | Lori |
 | 235 | 65 | Asher |
 | 236 | 65 | Mylo Lipscomb |
 | 237 | 65 | BlockBabe |
@@ -723,8 +723,8 @@
 | 715 | 15 | Nijmeh Hinchsliff |
 | 716 | 15 | Ellen Durfee |
 | 717 | 15 | Sarah Elizabeth Baker |
-| 718 | 14 | ChasingZen |
-| 719 | 14 | Hasty Balancer |
+| 718 | 14 | Hasty Balancer |
+| 719 | 14 | ChasingZen |
 | 720 | 14 | Mike Burlingame |
 | 721 | 14 | Bubbly Twistpiece |
 | 722 | 14 | Joe Beardslee |
