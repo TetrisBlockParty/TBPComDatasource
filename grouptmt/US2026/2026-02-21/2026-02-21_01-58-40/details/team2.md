@@ -154,8 +154,8 @@
 | 146 | 285 | June E Hanson |
 | 147 | 284 | Brittney Jean |
 | 148 | 280 | Kimberly Schall |
-| 149 | 280 | TF Dyer |
-| 150 | 280 | Joseph Musick |
+| 149 | 280 | Joseph Musick |
+| 150 | 280 | TF Dyer |
 | 151 | 278 | Noel Tarmy |
 | 152 | 274 | Melissa Holsinger |
 | 153 | 273 | Missie Lawson Gebhardt |
@@ -192,8 +192,8 @@
 | 184 | 245 | Ann Matzkanin |
 | 185 | 244 | Shorty |
 | 186 | 244 | Elisheva Mizrachi |
-| 187 | 243 | Brandy Andre |
-| 188 | 243 | Drwatson187 |
+| 187 | 243 | Drwatson187 |
+| 188 | 243 | Brandy Andre |
 | 189 | 241 | Sabrina Burton |
 | 190 | 240 | Adam Erikson |
 | 191 | 239 | Tee Jaleesa |
@@ -241,8 +241,8 @@
 | 233 | 198 | Julio A Laracuente |
 | 234 | 197 | Smashanator |
 | 235 | 196 | Alexandra Reese |
-| 236 | 194 | Mike Aprilliano |
-| 237 | 194 | Kimberly Ann |
+| 236 | 194 | Kimberly Ann |
+| 237 | 194 | Mike Aprilliano |
 | 238 | 193 | Nika Bee |
 | 239 | 191 | Sho Nuff |
 | 240 | 191 | Deana |

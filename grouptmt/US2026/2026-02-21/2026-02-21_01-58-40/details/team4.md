@@ -72,11 +72,11 @@
 | 64 | 110 | Diana Houts |
 | 65 | 109 | Bryan Hodgins |
 | 66 | 101 | Michelle Morris |
-| 67 | 100 | Andria Lynn |
-| 68 | 100 | Jeff Brian Gates |
+| 67 | 100 | Jeff Brian Gates |
+| 68 | 100 | Andria Lynn |
 | 69 | 99 | YoMomma |
-| 70 | 98 | Duck |
-| 71 | 98 | Stephme310 |
+| 70 | 98 | Stephme310 |
+| 71 | 98 | Duck |
 | 72 | 96 | TinyLegoRose |
 | 73 | 96 | Zappy Snaplink |
 | 74 | 92 | Sam Middleton |

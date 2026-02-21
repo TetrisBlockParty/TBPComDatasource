@@ -114,8 +114,8 @@
 | 106 | 118 | Bea Miles |
 | 107 | 118 | Fancy Curver |
 | 108 | 113 | Jennifer Alvey |
-| 109 | 112 | Connie Mohler-Fair |
-| 110 | 112 | Jimmie Clemons |
+| 109 | 112 | Jimmie Clemons |
+| 110 | 112 | Connie Mohler-Fair |
 | 111 | 111 | Joy Petroski |
 | 112 | 110 | Tiff Vs Tiffany |
 | 113 | 110 | Jesse Olive |
@@ -170,10 +170,10 @@
 | 162 | 80 | Chris Bell |
 | 163 | 79 | gremicx |
 | 164 | 78 | Angie Harper |
-| 165 | 78 | Clever Patterner |
-| 166 | 78 | Karon Griffin |
-| 167 | 77 | Lush Risebuilder |
-| 168 | 77 | Nikki Pags |
+| 165 | 78 | Karon Griffin |
+| 166 | 78 | Clever Patterner |
+| 167 | 77 | Nikki Pags |
+| 168 | 77 | Lush Risebuilder |
 | 169 | 76 | Oliver Neal II |
 | 170 | 76 | Chad Wilson |
 | 171 | 76 | Melissa Orth Hunter |
@@ -266,7 +266,7 @@
 | 258 | 53 | Denise Marie |
 | 259 | 53 | MizzMonick Smith |
 | 260 | 53 | Bobbie Freeman |
-| 261 | 52 | Kristina Marie |
+| 261 | 52 | Josiah Fam |
 | 262 | 52 | lashanda |
 | 263 | 52 | Kristina Marie |
 | 264 | 51 | Gloria Holmes |
