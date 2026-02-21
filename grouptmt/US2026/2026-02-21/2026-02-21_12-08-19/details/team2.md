@@ -339,13 +339,13 @@
 | 331 | 256 | Tee Jaleesa |
 | 332 | 256 | CC |
 | 333 | 255 | Santana Miyagi |
-| 334 | 254 | Elizabeth Diraffaele |
-| 335 | 254 | Rose Fx |
+| 334 | 254 | Rose Fx |
+| 335 | 254 | Elizabeth Diraffaele |
 | 336 | 254 | Julie Hamilton |
 | 337 | 253 | Tansaria Couch-Butler |
 | 338 | 252 | Matt Johnson |
-| 339 | 252 | Alyssia Tancredi |
-| 340 | 252 | Catina Hutchison |
+| 339 | 252 | Catina Hutchison |
+| 340 | 252 | Alyssia Tancredi |
 | 341 | 251 | Ann Knutson Anderson |
 | 342 | 250 | Barbra Miller |
 | 343 | 250 | Steve Man |
@@ -353,9 +353,9 @@
 | 345 | 249 | Porsche' Nicole |
 | 346 | 248 | Warren Marleau |
 | 347 | 248 | Andrea Maher |
-| 348 | 248 | Maddy Petersen |
-| 349 | 248 | Dany Murillo |
-| 350 | 248 | Bubbly Snapfit |
+| 348 | 248 | Dany Murillo |
+| 349 | 248 | Bubbly Snapfit |
+| 350 | 248 | Maddy Petersen |
 | 351 | 248 | ShinyRose |
 | 352 | 247 | Fancy Twister |
 | 353 | 247 | Andrea Devery Beck |
@@ -478,14 +478,14 @@
 | 470 | 180 | Peter Palestino |
 | 471 | 179 | Desiree Harris Rosch |
 | 472 | 179 | Elizabeth Pearson |
-| 473 | 179 | Cat |
-| 474 | 179 | Bette Prieto |
-| 475 | 179 | Lively Catcher |
+| 473 | 179 | Lively Catcher |
+| 474 | 179 | Cat |
+| 475 | 179 | Bette Prieto |
 | 476 | 178 | Michelle Shrum |
 | 477 | 177 | Facuetoo |
-| 478 | 177 | Angel |
-| 479 | 177 | John |
-| 480 | 177 | Ryan Meilleur |
+| 478 | 177 | Ryan Meilleur |
+| 479 | 177 | Angel |
+| 480 | 177 | John |
 | 481 | 176 | Jennifer Malloy - Cardy |
 | 482 | 176 | Trisha Gallagher |
 | 483 | 176 | Stacy Harper |
@@ -595,9 +595,9 @@
 | 587 | 146 | Gemini Washington |
 | 588 | 146 | Sherry Aguinaga |
 | 589 | 146 | Ibiza Carolina LaRose |
-| 590 | 145 | William Hughes |
+| 590 | 145 | Scott Rackley |
 | 591 | 145 | Chareen Lauritzen |
-| 592 | 145 | Scott Rackley |
+| 592 | 145 | William Hughes |
 | 593 | 145 | Kiorah Blaze |
 | 594 | 145 | Anastacio Hernandez |
 | 595 | 144 | Tee Davis |

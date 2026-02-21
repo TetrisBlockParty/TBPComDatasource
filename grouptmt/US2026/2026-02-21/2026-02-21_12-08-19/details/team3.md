@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | AlsoJess |
@@ -162,8 +162,8 @@
 | 154 | 156 | Joey Banks |
 | 155 | 155 | BŘŰŤİÇŨŚ |
 | 156 | 154 | Angela M. Fletcher |
-| 157 | 153 | Beth Ingham |
-| 158 | 153 | Stephanie Whitefield |
+| 157 | 153 | Stephanie Whitefield |
+| 158 | 153 | Beth Ingham |
 | 159 | 152 | Shiny Zonebuilder |
 | 160 | 151 | MsBee |
 | 161 | 150 | Nicole Myers |
@@ -264,8 +264,8 @@
 | 256 | 96 | Jason-Ashley Ludlow |
 | 257 | 96 | Hanna Kim |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Angie Harper |
-| 260 | 94 | Andrew Thorson |
+| 259 | 94 | Andrew Thorson |
+| 260 | 94 | Angie Harper |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Jennifer Caputo |
 | 263 | 92 | Trice Thomas |

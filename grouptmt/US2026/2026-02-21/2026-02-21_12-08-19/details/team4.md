@@ -86,8 +86,8 @@
 | 78 | 170 | Andy Cabral |
 | 79 | 170 | Girl |
 | 80 | 167 | Denise Carlson |
-| 81 | 165 | Casey Grabner |
-| 82 | 165 | Courtney Cicoria |
+| 81 | 165 | Courtney Cicoria |
+| 82 | 165 | Casey Grabner |
 | 83 | 162 | Shauna Havard |
 | 84 | 160 | Carter Jones |
 | 85 | 159 | Justin Hannigan |
@@ -146,8 +146,8 @@
 | 138 | 112 | Jackie Marie |
 | 139 | 111 | Lazy Blocker |
 | 140 | 111 | Gwendolyn Pitcairn |
-| 141 | 110 | H.R. Block |
-| 142 | 110 | YoMomma |
+| 141 | 110 | YoMomma |
+| 142 | 110 | H.R. Block |
 | 143 | 107 | Marcus Todd |
 | 144 | 105 | TheNeesh50 |
 | 145 | 105 | 🥔🥔 Spudz |
