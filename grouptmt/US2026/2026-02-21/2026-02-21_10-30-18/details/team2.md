@@ -255,16 +255,16 @@
 | 247 | 312 | Felicia Lynn |
 | 248 | 311 | Véronique Lévesque Sabourin |
 | 249 | 311 | Dar |
-| 250 | 309 | Oscar Bernie |
-| 251 | 309 | Ginger |
+| 250 | 309 | Ginger |
+| 251 | 309 | Oscar Bernie |
 | 252 | 309 | James Zaragoza |
 | 253 | 306 | Kristopher Miller |
 | 254 | 305 | Libby Hicks |
 | 255 | 303 | Crystal Greene |
 | 256 | 303 | Amanda Schaffer |
 | 257 | 301 | Claire |
-| 258 | 299 | Christy Krissie |
-| 259 | 299 | Deborah Miller |
+| 258 | 299 | Deborah Miller |
+| 259 | 299 | Christy Krissie |
 | 260 | 297 | Brenda Utphall |
 | 261 | 296 | Amber Gray |
 | 262 | 296 | Jennifer Casey-Kay |
@@ -375,8 +375,8 @@
 | 367 | 227 | Nutty Matchline |
 | 368 | 227 | Demeka Dangerous-kisses Johnson |
 | 369 | 227 | JacJac |
-| 370 | 226 | Juliana Marques Do Nascimento Gordy |
-| 371 | 226 | Mary Marie |
+| 370 | 226 | Mary Marie |
+| 371 | 226 | Juliana Marques Do Nascimento Gordy |
 | 372 | 226 | Leslie Ann Carter |
 | 373 | 223 | Kristi Biddinger |
 | 374 | 223 | LegoCarpet |
@@ -533,16 +533,16 @@
 | 525 | 155 | Chelle |
 | 526 | 155 | Monarca26 |
 | 527 | 154 | Bryan Werleman |
-| 528 | 154 | Lydia Greenman |
-| 529 | 154 | Tiffney Wroten |
-| 530 | 154 | Cini |
+| 528 | 154 | Cini |
+| 529 | 154 | Lydia Greenman |
+| 530 | 154 | Tiffney Wroten |
 | 531 | 154 | Lori Maring |
 | 532 | 153 | Luna |
 | 533 | 153 | Poppy Gridder |
-| 534 | 152 | James Smith |
-| 535 | 152 | Kyle LeRoy Harris |
-| 536 | 152 | Anthony Mignacca |
-| 537 | 152 | JP Parks |
+| 534 | 152 | Kyle LeRoy Harris |
+| 535 | 152 | James Smith |
+| 536 | 152 | JP Parks |
+| 537 | 152 | Anthony Mignacca |
 | 538 | 152 | Kristin King |
 | 539 | 151 | Kia Humphery |
 | 540 | 151 | D'Aaron Black |
@@ -649,8 +649,8 @@
 | 641 | 131 | Deidre Shaffer |
 | 642 | 131 | Jennie Lee Huntley |
 | 643 | 131 | Kerry Miller |
-| 644 | 131 | Zeleana Perry |
-| 645 | 131 | Carson Goldminc |
+| 644 | 131 | Carson Goldminc |
+| 645 | 131 | Zeleana Perry |
 | 646 | 130 | Nerdy Riserfit |
 | 647 | 130 | Latrenya Paynes |
 | 648 | 130 | Cranky Zonebuilder |

@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Stef Hu |
-| 33 | 348 | Chipper Gridlock |
+| 32 | 348 | Chipper Gridlock |
+| 33 | 348 | Stef Hu |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -83,8 +83,8 @@
 | 75 | 190 | Sweetts |
 | 76 | 189 | Happy Basegrid |
 | 77 | 180 | Erez Yosef |
-| 78 | 173 | Frothy Pattern |
-| 79 | 173 | june october |
+| 78 | 173 | june october |
+| 79 | 173 | Frothy Pattern |
 | 80 | 171 | Jennifer Olewnik Soborowski |
 | 81 | 166 | Rico Rico |
 | 82 | 165 | GATOR |
@@ -101,14 +101,14 @@
 | 93 | 148 | Shauntina Burke |
 | 94 | 147 | Veronica Eve |
 | 95 | 145 | BigWeenie69 |
-| 96 | 144 | Plucky Ziggy |
-| 97 | 144 | Tanya Carpenter-Reynolds |
+| 96 | 144 | Tanya Carpenter-Reynolds |
+| 97 | 144 | Plucky Ziggy |
 | 98 | 144 | femmefatale |
 | 99 | 143 | Sarah Marie |
 | 100 | 142 | Marianita Garcia |
 | 101 | 141 | Blaire Bruckoff |
-| 102 | 138 | Cranky Pattern |
-| 103 | 138 | Gary Gobin |
+| 102 | 138 | Gary Gobin |
+| 103 | 138 | Cranky Pattern |
 | 104 | 137 | Nadine Velardo |
 | 105 | 134 | Trina Gee |
 | 106 | 133 | Brandi Huntington |
@@ -161,8 +161,8 @@
 | 153 | 98 | Witty Builderfit |
 | 154 | 98 | Loony Fitzone |
 | 155 | 96 | Melissa Lemmon |
-| 156 | 96 | Barrbaric |
-| 157 | 96 | Nery Martinez |
+| 156 | 96 | Nery Martinez |
+| 157 | 96 | Barrbaric |
 | 158 | 94 | Luciano Moreira |
 | 159 | 93 | Cody Gates |
 | 160 | 92 | Chantelle Ceno |
