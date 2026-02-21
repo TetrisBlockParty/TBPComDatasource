@@ -191,8 +191,8 @@
 | 183 | 110 | Tye Stovall |
 | 184 | 109 | Diana Ibarra |
 | 185 | 109 | Fredd Thomas |
-| 186 | 108 | LaTanya GeminiondaRise Johnson |
-| 187 | 108 | Rachel Napper |
+| 186 | 108 | Rachel Napper |
+| 187 | 108 | LaTanya GeminiondaRise Johnson |
 | 188 | 107 | Sherry Ogden |
 | 189 | 106 | Eon Harris |
 | 190 | 106 | Desiree Gold |

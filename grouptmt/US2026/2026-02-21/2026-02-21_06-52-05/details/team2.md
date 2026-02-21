@@ -206,8 +206,8 @@
 | 198 | 327 | Danielle Simmons |
 | 199 | 323 | Juanita Lyons |
 | 200 | 323 | Briana Alexander |
-| 201 | 318 | Trista Dumais |
-| 202 | 318 | Arwa Fatimah |
+| 201 | 318 | Arwa Fatimah |
+| 202 | 318 | Trista Dumais |
 | 203 | 317 | bru |
 | 204 | 314 | Amanda West |
 | 205 | 313 | Brittany Alicia |
@@ -260,11 +260,11 @@
 | 252 | 271 | Toni Lynn |
 | 253 | 270 | Angela Lynn |
 | 254 | 270 | Alexandra Weir |
-| 255 | 268 | Chummy Blockbuilder |
-| 256 | 268 | Vanessa Moreno |
+| 255 | 268 | Vanessa Moreno |
+| 256 | 268 | Chummy Blockbuilder |
 | 257 | 267 | Mindy Leigh Head |
-| 258 | 266 | Mighty Shatterfit |
-| 259 | 266 | Autumn Schaeffer |
+| 258 | 266 | Autumn Schaeffer |
+| 259 | 266 | Mighty Shatterfit |
 | 260 | 266 | Joyce Johnson Vaughn |
 | 261 | 264 | Dapper Dasher |
 | 262 | 263 | Taylor Flowers |

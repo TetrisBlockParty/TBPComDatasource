@@ -69,8 +69,8 @@
 | 61 | 170 | Leah Kutz Zirbel |
 | 62 | 170 | Girl |
 | 63 | 166 | Denise Carlson |
-| 64 | 165 | Courtney Cicoria |
-| 65 | 165 | Casey Grabner |
+| 64 | 165 | Casey Grabner |
+| 65 | 165 | Courtney Cicoria |
 | 66 | 160 | Carter Jones |
 | 67 | 159 | Justin Hannigan |
 | 68 | 159 | Holly Jolly |
@@ -198,8 +198,8 @@
 | 190 | 73 | Rheanda Weaskus |
 | 191 | 72 | Robin Getchel |
 | 192 | 72 | Joshua Cuellar |
-| 193 | 71 | Marcela Johnson |
-| 194 | 71 | Lindsey Gonzalez |
+| 193 | 71 | Lindsey Gonzalez |
+| 194 | 71 | Marcela Johnson |
 | 195 | 71 | Chaz Duncan |
 | 196 | 70 | Richard-April Kice |
 | 197 | 69 | Carol Ricks Raymond |

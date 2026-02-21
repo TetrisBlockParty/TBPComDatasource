@@ -227,7 +227,7 @@
 | 219 | 61 | Henry Lanier |
 | 220 | 60 | Nicole Meredith Flynn |
 | 221 | 60 | Jason Cox |
-| 222 | 60 | Nicole Meredith Flynn |
+| 222 | 60 | Nathan William |
 | 223 | 60 | Pauline Cortez |
 | 224 | 59 | Tasha McCormack |
 | 225 | 59 | Mel Hogan |
