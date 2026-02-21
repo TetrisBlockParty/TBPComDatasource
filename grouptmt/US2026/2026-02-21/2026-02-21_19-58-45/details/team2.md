@@ -639,13 +639,13 @@
 | 631 | 208 | Lauren Fitzgerald Thomas |
 | 632 | 208 | Nerdy Riserfit |
 | 633 | 207 | Sara Pennington |
-| 634 | 207 | Nicolle Danielle |
-| 635 | 207 | Caitlin Johnson |
+| 634 | 207 | Caitlin Johnson |
+| 635 | 207 | Nicolle Danielle |
 | 636 | 206 | Neko Preston |
 | 637 | 205 | ElizabethAnn Dickinson |
 | 638 | 205 | Joel Rosado |
-| 639 | 204 | Brenna Ann |
-| 640 | 204 | Kimberly Ann |
+| 639 | 204 | Kimberly Ann |
+| 640 | 204 | Brenna Ann |
 | 641 | 204 | Ryan Lauer |
 | 642 | 204 | Ali Gralski |
 | 643 | 204 | Meganator42 |

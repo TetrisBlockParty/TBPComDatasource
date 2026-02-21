@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Makelini Mausia |
-| 99 | 378 | Tasha Schriewer |
+| 98 | 378 | Tasha Schriewer |
+| 99 | 378 | Makelini Mausia |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -124,8 +124,8 @@
 | 116 | 316 | Fancy Cascader |
 | 117 | 312 | Jay Horn |
 | 118 | 309 | Rich LeBlanc |
-| 119 | 307 | Peggi Charon |
-| 120 | 307 | Blocked |
+| 119 | 307 | Blocked |
+| 120 | 307 | Peggi Charon |
 | 121 | 305 | Tessina Dewey-Mancino |
 | 122 | 300 | Sherika C. McDaniels |
 | 123 | 293 | Poppy Splitter |
@@ -219,8 +219,8 @@
 | 211 | 163 | Christine Trester |
 | 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | BŘŰŤİÇŨŚ |
-| 215 | 161 | Irene Arreguin |
+| 214 | 161 | Irene Arreguin |
+| 215 | 161 | BŘŰŤİÇŨŚ |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -256,8 +256,8 @@
 | 248 | 142 | David Bardo |
 | 249 | 142 | Jl |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Terry Jo Jones |
@@ -369,8 +369,8 @@
 | 361 | 96 | Oliver Neal II |
 | 362 | 95 | Trice Thomas |
 | 363 | 95 | Brooke Bauer |
-| 364 | 94 | Nichole Greene |
-| 365 | 94 | Tracey Cox |
+| 364 | 94 | Tracey Cox |
+| 365 | 94 | Nichole Greene |
 | 366 | 93 | Tasha Gillespie |
 | 367 | 93 | Martin Bernier |
 | 368 | 93 | Clever Clearbuilder |
