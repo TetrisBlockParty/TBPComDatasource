@@ -87,8 +87,8 @@
 | 79 | 658 | Pacynthia Williams |
 | 80 | 658 | Vistabrat |
 | 81 | 653 | Becky Weeks-Garry |
-| 82 | 649 | Stephanie Chapman |
-| 83 | 649 | Anna Edwards |
+| 82 | 649 | Anna Edwards |
+| 83 | 649 | Stephanie Chapman |
 | 84 | 631 | Loopy Clusterbuilder |
 | 85 | 608 | John Bednarik |
 | 86 | 601 | Nancy Reid |
@@ -104,8 +104,8 @@
 | 96 | 562 | Linda Pierce |
 | 97 | 542 | Rosa Franklin |
 | 98 | 541 | SaraMarie Eveland |
-| 99 | 540 | Thomas Hedrick |
-| 100 | 540 | Charvi' Carter |
+| 99 | 540 | Charvi' Carter |
+| 100 | 540 | Thomas Hedrick |
 | 101 | 534 | Jerilyn Andrina |
 | 102 | 531 | Chris Wanner |
 | 103 | 529 | Tonya Morgan |
@@ -239,8 +239,8 @@
 | 231 | 268 | Chummy Blockbuilder |
 | 232 | 268 | Elisheva Mizrachi |
 | 233 | 267 | Mindy Leigh Head |
-| 234 | 266 | Autumn Schaeffer |
-| 235 | 266 | Mighty Shatterfit |
+| 234 | 266 | Mighty Shatterfit |
+| 235 | 266 | Autumn Schaeffer |
 | 236 | 266 | Joyce Johnson Vaughn |
 | 237 | 266 | Amber Gray |
 | 238 | 263 | Taylor Flowers |

@@ -89,13 +89,13 @@
 | 81 | 132 | Davery Spencer Adair |
 | 82 | 130 | Dandy Basegrid |
 | 83 | 129 | Trina Gee |
-| 84 | 128 | Gary Gobin |
-| 85 | 128 | Uhog SF |
+| 84 | 128 | Uhog SF |
+| 85 | 128 | Gary Gobin |
 | 86 | 127 | Jaimie Lynn |
 | 87 | 126 | Cece Ibarra |
 | 88 | 121 | Bouncy Grid |
-| 89 | 119 | Irual Hctrab |
-| 90 | 119 | Tater |
+| 89 | 119 | Tater |
+| 90 | 119 | Irual Hctrab |
 | 91 | 115 | comrade fish |
 | 92 | 114 | Michael |
 | 93 | 114 | Giddy Cascade |
@@ -131,8 +131,8 @@
 | 123 | 89 | Mizzledagod |
 | 124 | 89 | Mara Hilker |
 | 125 | 87 | Jessi Sauer |
-| 126 | 86 | Desiree Deschaine Havee |
-| 127 | 86 | Basment Living |
+| 126 | 86 | Basment Living |
+| 127 | 86 | Desiree Deschaine Havee |
 | 128 | 85 | Steve Schneider |
 | 129 | 84 | Yvonne Marie |
 | 130 | 84 | Speedy Snapfall |

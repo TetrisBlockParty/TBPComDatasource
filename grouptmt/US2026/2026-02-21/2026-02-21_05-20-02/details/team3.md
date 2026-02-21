@@ -114,8 +114,8 @@
 | 106 | 172 | Ryan Williams |
 | 107 | 166 | Danielle Mogg |
 | 108 | 164 | rosy |
-| 109 | 159 | Morgan Martinez |
-| 110 | 159 | Jone |
+| 109 | 159 | Jone |
+| 110 | 159 | Morgan Martinez |
 | 111 | 158 | Grams |
 | 112 | 156 | Joey Banks |
 | 113 | 155 | Shannon Matthew Byers |
