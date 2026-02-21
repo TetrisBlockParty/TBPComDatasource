@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -95,8 +95,8 @@
 | 87 | 658 | Vistabrat |
 | 88 | 658 | Pacynthia Williams |
 | 89 | 653 | Becky Weeks-Garry |
-| 90 | 649 | Stephanie Chapman |
-| 91 | 649 | Anna Edwards |
+| 90 | 649 | Anna Edwards |
+| 91 | 649 | Stephanie Chapman |
 | 92 | 631 | Loopy Clusterbuilder |
 | 93 | 620 | BYM4L |
 | 94 | 608 | John Bednarik |
@@ -129,8 +129,8 @@
 | 121 | 520 | Kimberly Schall |
 | 122 | 519 | Maria Escobar |
 | 123 | 517 | Debra Williams |
-| 124 | 515 | Kaylee McCafferty |
-| 125 | 515 | Real Ri |
+| 124 | 515 | Real Ri |
+| 125 | 515 | Kaylee McCafferty |
 | 126 | 513 | Butta |
 | 127 | 510 | Ashley House |
 | 128 | 509 | Kelli Wells |
@@ -269,8 +269,8 @@
 | 261 | 270 | Angela Lynn |
 | 262 | 270 | Alexandra Weir |
 | 263 | 268 | Tanya Parsons |
-| 264 | 268 | Chummy Blockbuilder |
-| 265 | 268 | Vanessa Moreno |
+| 264 | 268 | Vanessa Moreno |
+| 265 | 268 | Chummy Blockbuilder |
 | 266 | 267 | Mindy Leigh Head |
 | 267 | 266 | Mighty Shatterfit |
 | 268 | 266 | Autumn Schaeffer |
@@ -499,16 +499,16 @@
 | 491 | 154 | Bryan Werleman |
 | 492 | 154 | Lori Maring |
 | 493 | 153 | Poppy Gridder |
-| 494 | 152 | Kyle LeRoy Harris |
-| 495 | 152 | James Smith |
+| 494 | 152 | James Smith |
+| 495 | 152 | Kyle LeRoy Harris |
 | 496 | 152 | Kristin King |
-| 497 | 152 | JP Parks |
-| 498 | 152 | Anthony Mignacca |
+| 497 | 152 | Anthony Mignacca |
+| 498 | 152 | JP Parks |
 | 499 | 151 | Jennifer Rajek |
 | 500 | 151 | Kia Humphery |
 | 501 | 151 | D'Aaron Black |
-| 502 | 150 | Jodi Mitnick |
-| 503 | 150 | Candace Noel |
+| 502 | 150 | Candace Noel |
+| 503 | 150 | Jodi Mitnick |
 | 504 | 150 | Greenshades00 |
 | 505 | 149 | Melissa Rebbe-Lehman |
 | 506 | 149 | Leslie Porter |

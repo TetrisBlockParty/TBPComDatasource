@@ -290,8 +290,8 @@
 | 282 | 53 | Almïghty Stoner |
 | 283 | 53 | Vivienne Carter |
 | 284 | 52 | Dee Doris Ewald Flynn |
-| 285 | 52 | Sid Castro |
-| 286 | 52 | Kristarr |
+| 285 | 52 | Kristarr |
+| 286 | 52 | Sid Castro |
 | 287 | 52 | Lively Wipeout |
 | 288 | 52 | Jennifer Chilton-Metlock |
 | 289 | 51 | Jasmine Riley |

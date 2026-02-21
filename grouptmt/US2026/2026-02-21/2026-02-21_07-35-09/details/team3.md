@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 613 | Amber Hughes |
@@ -147,9 +147,9 @@
 | 139 | 152 | Shiny Zonebuilder |
 | 140 | 151 | MsBee |
 | 141 | 150 | Nicole Myers |
-| 142 | 149 | Bea Miles |
-| 143 | 149 | Angel Mendez |
-| 144 | 149 | Trisha Balmer |
+| 142 | 149 | Angel Mendez |
+| 143 | 149 | Trisha Balmer |
+| 144 | 149 | Bea Miles |
 | 145 | 147 | Sashay Tapae Simpson |
 | 146 | 146 | Denita Mungro |
 | 147 | 146 | Latoya Mayne |
