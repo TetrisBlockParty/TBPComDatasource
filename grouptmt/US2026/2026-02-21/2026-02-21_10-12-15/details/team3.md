@@ -33,8 +33,8 @@
 | 25 | 852 | cowboy25469 |
 | 26 | 821 | Jessica Ann |
 | 27 | 818 | Delilah belle |
-| 28 | 810 | Shane Wilson Jr. |
-| 29 | 810 | Zippy Strikesnap |
+| 28 | 810 | Zippy Strikesnap |
+| 29 | 810 | Shane Wilson Jr. |
 | 30 | 772 | Corie A. Brinson |
 | 31 | 739 | Rachel Bowers |
 | 32 | 733 | Chummy Shatterer |
@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -146,7 +146,7 @@
 | 138 | 163 | Karon Griffin |
 | 139 | 159 | Jone |
 | 140 | 159 | Mcathen |
-| 141 | 159 | Jone |
+| 141 | 159 | Morgan Martinez |
 | 142 | 158 | Grams |
 | 143 | 157 | Patricia Gadsden |
 | 144 | 157 | Nicholas Roddy |
@@ -163,8 +163,8 @@
 | 155 | 149 | Trisha Balmer |
 | 156 | 149 | Bea Miles |
 | 157 | 147 | Sashay Tapae Simpson |
-| 158 | 146 | Denita Mungro |
-| 159 | 146 | Latoya Mayne |
+| 158 | 146 | Latoya Mayne |
+| 159 | 146 | Denita Mungro |
 | 160 | 145 | Bryan Byrd |
 | 161 | 142 | Erica Anderson |
 | 162 | 140 | Jay Horn |
@@ -346,9 +346,9 @@
 | 338 | 73 | Spicy Caster |
 | 339 | 73 | Elyse Grabowsky |
 | 340 | 73 | punky monkey buttky |
-| 341 | 73 | Loopy Fallmatch |
-| 342 | 72 | Alexsandran Valdivia |
-| 343 | 72 | Gimmegimmebeer |
+| 341 | 73 | Nerdy Wipeout |
+| 342 | 72 | Gimmegimmebeer |
+| 343 | 72 | Alexsandran Valdivia |
 | 344 | 72 | Jodi Kaczynski-O'Dowd |
 | 345 | 71 | Julia Nicole |
 | 346 | 71 | Morgan Cudo |

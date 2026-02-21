@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Devin Lee |
-| 38 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Katrina Williams Balmir |
+| 38 | 1173 | Devin Lee |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1143 | Lucky Ladybug |
@@ -415,8 +415,8 @@
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Alyssa Dean |
 | 409 | 197 | Alyssa Nadine Medelez |
-| 410 | 196 | Alexandra Reese |
-| 411 | 196 | Cass Shirley |
+| 410 | 196 | Cass Shirley |
+| 411 | 196 | Alexandra Reese |
 | 412 | 196 | Besma Ao |
 | 413 | 195 | Emily Lyric Converse |
 | 414 | 195 | Unica Rector |
@@ -564,8 +564,8 @@
 | 556 | 145 | Chareen Lauritzen |
 | 557 | 145 | Kiorah Blaze |
 | 558 | 145 | Anastacio Hernandez |
-| 559 | 144 | Tee Davis |
-| 560 | 144 | RavensBeard |
+| 559 | 144 | RavensBeard |
+| 560 | 144 | Tee Davis |
 | 561 | 144 | Mandi Douglas Hilt |
 | 562 | 144 | Tristan Lamothe |
 | 563 | 144 | Alexis Richardson |
@@ -729,7 +729,7 @@
 | 721 | 117 | Keri Higuchi |
 | 722 | 117 | Kelli Clark |
 | 723 | 117 | Theresa Ring |
-| 724 | 117 | Kelli Clark |
+| 724 | 117 | Cody Kelsey |
 | 725 | 117 | Luceros7 |
 | 726 | 116 | Patrick Langford |
 | 727 | 116 | Moua Ying |
@@ -758,9 +758,9 @@
 | 750 | 112 | Christina Wsn |
 | 751 | 112 | Christina Walker |
 | 752 | 112 | Kaytlyn Brown |
-| 753 | 111 | Crystal Heller Gonzalez |
-| 754 | 111 | April Bennett |
-| 755 | 111 | Lively Edgepiece |
+| 753 | 111 | April Bennett |
+| 754 | 111 | Lively Edgepiece |
+| 755 | 111 | Crystal Heller Gonzalez |
 | 756 | 111 | Netty |
 | 757 | 111 | Jroc |
 | 758 | 111 | Ashley M. Davis |

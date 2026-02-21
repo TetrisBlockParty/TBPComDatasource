@@ -36,8 +36,8 @@
 | 28 | 399 | Drew Magnus |
 | 29 | 380 | Robert Beck |
 | 30 | 365 | Karin Gillen |
-| 31 | 348 | Stef Hu |
-| 32 | 348 | Chipper Gridlock |
+| 31 | 348 | Chipper Gridlock |
+| 32 | 348 | Stef Hu |
 | 33 | 338 | Stephanie Zahn |
 | 34 | 301 | Zerin Graham |
 | 35 | 298 | Angel Fowler |
@@ -68,8 +68,8 @@
 | 60 | 201 | Ananda Mendez |
 | 61 | 201 | Anaid Sanchez |
 | 62 | 200 | Lexuriuos Lifestlye |
-| 63 | 198 | Billie Dawn Sparks |
-| 64 | 198 | Happy Snapbuild |
+| 63 | 198 | Happy Snapbuild |
+| 64 | 198 | Billie Dawn Sparks |
 | 65 | 197 | Cynthia Bradley |
 | 66 | 194 | Giggly Builderline |
 | 67 | 194 | Sharon Reynolds |
@@ -116,15 +116,15 @@
 | 108 | 132 | Lori Sanders- Davis |
 | 109 | 130 | Cece Ibarra |
 | 110 | 130 | Dandy Basegrid |
-| 111 | 128 | lil mickey |
-| 112 | 128 | Uhog SF |
+| 111 | 128 | Uhog SF |
+| 112 | 128 | lil mickey |
 | 113 | 127 | Michael |
 | 114 | 124 | Cartier |
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
-| 117 | 119 | April Carroll |
-| 118 | 119 | Irual Hctrab |
-| 119 | 119 | Tater |
+| 117 | 119 | Tater |
+| 118 | 119 | April Carroll |
+| 119 | 119 | Irual Hctrab |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Evie Khalil |
 | 122 | 116 | Alenoush Karimian |
