@@ -171,8 +171,8 @@
 | 163 | 381 | Amanda Ferrell |
 | 164 | 380 | Joshua Mandel |
 | 165 | 380 | Calandra Shaya Robinson |
-| 166 | 377 | Roy Salyer |
-| 167 | 377 | Liberty |
+| 166 | 377 | Liberty |
+| 167 | 377 | Roy Salyer |
 | 168 | 365 | April Dawn Gussler |
 | 169 | 364 | Shinette Dobson |
 | 170 | 363 | William Meussner |
@@ -272,8 +272,8 @@
 | 264 | 257 | Lyndi Robinson Wakefield |
 | 265 | 257 | Rhonda Milstead |
 | 266 | 256 | Giddy Gridclear |
-| 267 | 256 | Tee Jaleesa |
-| 268 | 256 | Smashanator |
+| 267 | 256 | Smashanator |
+| 268 | 256 | Tee Jaleesa |
 | 269 | 255 | Santana Miyagi |
 | 270 | 254 | Rose Fx |
 | 271 | 254 | Julie Hamilton |
@@ -378,8 +378,8 @@
 | 370 | 190 | Jessica Kaye DeAguero |
 | 371 | 188 | Seth Wrieden |
 | 372 | 188 | Justin Hines |
-| 373 | 187 | Amélie Cadieux |
-| 374 | 187 | Stefanie Zonzini-Gagliardi |
+| 373 | 187 | Stefanie Zonzini-Gagliardi |
+| 374 | 187 | Amélie Cadieux |
 | 375 | 186 | Joshua Mullings |
 | 376 | 186 | Jackie Jackie Lee |
 | 377 | 185 | JacJac |
@@ -407,8 +407,8 @@
 | 399 | 177 | Angel |
 | 400 | 177 | John |
 | 401 | 176 | Nancy Pohlman |
-| 402 | 176 | Trisha Gallagher |
-| 403 | 176 | Jennifer Malloy - Cardy |
+| 402 | 176 | Jennifer Malloy - Cardy |
+| 403 | 176 | Trisha Gallagher |
 | 404 | 175 | Shandrica Lowe |
 | 405 | 175 | Tina Blessed Cage |
 | 406 | 175 | Lucero Ramirez |
@@ -634,9 +634,9 @@
 | 626 | 115 | Jamie Brickley |
 | 627 | 114 | Kelli Clark |
 | 628 | 114 | Melissa Maples |
-| 629 | 114 | Biggest thing |
+| 629 | 114 | Juan Castillo |
 | 630 | 114 | Brenda |
-| 631 | 114 | Juan Castillo |
+| 631 | 114 | Biggest thing |
 | 632 | 113 | Brave Gridzone |
 | 633 | 113 | Della Hole |
 | 634 | 113 | Hillary Franklin |

@@ -48,13 +48,13 @@
 | 40 | 256 | Dustin Robert |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
-| 43 | 231 | Michelle Marie |
-| 44 | 231 | Jenna Ingersoll |
+| 43 | 231 | Jenna Ingersoll |
+| 44 | 231 | Michelle Marie |
 | 45 | 226 | Breannah Grafe |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |
-| 48 | 204 | Brittney Orengo |
-| 49 | 204 | David Lay |
+| 48 | 204 | David Lay |
+| 49 | 204 | Brittney Orengo |
 | 50 | 198 | Mike Solo |
 | 51 | 197 | Autum Leigh |
 | 52 | 194 | Jamie Mann-Deichmann |
@@ -68,9 +68,9 @@
 | 60 | 165 | Courtney Cicoria |
 | 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
-| 63 | 159 | Swanky Fitline |
-| 64 | 159 | Justin Hannigan |
-| 65 | 159 | Holly Jolly |
+| 63 | 159 | Holly Jolly |
+| 64 | 159 | Swanky Fitline |
+| 65 | 159 | Justin Hannigan |
 | 66 | 154 | ThaEviLJeNiuZ |
 | 67 | 153 | Jae Job |
 | 68 | 152 | Clarence Patawaran |
@@ -120,9 +120,9 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | TheNeesh50 |
-| 116 | 105 | Sam Middleton |
-| 117 | 105 | TinyLegoRose |
+| 115 | 105 | Sam Middleton |
+| 116 | 105 | TinyLegoRose |
+| 117 | 105 | TheNeesh50 |
 | 118 | 105 | AyeKay |
 | 119 | 104 | Adam Randall |
 | 120 | 104 | YoMomma |
@@ -134,8 +134,8 @@
 | 126 | 100 | Alexandra Karavias |
 | 127 | 100 | Megan Cutshaw |
 | 128 | 98 | Duck |
-| 129 | 98 | Chaz |
-| 130 | 98 | Allen Lloyd |
+| 129 | 98 | Allen Lloyd |
+| 130 | 98 | Chaz |
 | 131 | 96 | Zappy Snaplink |
 | 132 | 96 | Dihcheese444 |
 | 133 | 95 | Meagan Nicole |
@@ -175,20 +175,20 @@
 | 167 | 79 | Perky Piecegrid |
 | 168 | 78 | Jessica Miller |
 | 169 | 78 | Zesty Linkgrid |
-| 170 | 77 | Twisty Cascadezone |
-| 171 | 77 | Marvin Lou Martin |
+| 170 | 77 | Marvin Lou Martin |
+| 171 | 77 | Twisty Cascadezone |
 | 172 | 77 | Zippy Gridlock |
 | 173 | 77 | Chastity Mitchell |
 | 174 | 77 | Chris Alexinas |
 | 175 | 76 | Bethany Ison |
 | 176 | 76 | Madison Sweere |
-| 177 | 75 | Rosemary Foster |
+| 177 | 75 | Christina Black |
 | 178 | 75 | 🥔🥔 Spudz |
-| 179 | 75 | Christina Black |
+| 179 | 75 | Rosemary Foster |
 | 180 | 74 | Melvin Baird |
 | 181 | 74 | Krs |
-| 182 | 73 | April Rondinone |
-| 183 | 73 | bloat princess |
+| 182 | 73 | bloat princess |
+| 183 | 73 | April Rondinone |
 | 184 | 73 | Rheanda Weaskus |
 | 185 | 72 | Robin Getchel |
 | 186 | 72 | Joshua Cuellar |

@@ -226,8 +226,8 @@
 | 218 | 96 | D3NO |
 | 219 | 96 | Hanna Kim |
 | 220 | 95 | Brooke Bauer |
-| 221 | 94 | Carrie Huskey |
-| 222 | 94 | Angie Harper |
+| 221 | 94 | Angie Harper |
+| 222 | 94 | Carrie Huskey |
 | 223 | 93 | Tiffany Ford |
 | 224 | 92 | Ava Petito |
 | 225 | 92 | Trice Thomas |
