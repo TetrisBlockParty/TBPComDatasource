@@ -193,18 +193,18 @@
 | 185 | 541 | SaraMarie Eveland |
 | 186 | 541 | Giggy Blocker |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Teresa Gillmore |
-| 189 | 534 | Stephen Stephen |
+| 188 | 534 | Stephen Stephen |
+| 189 | 534 | Teresa Gillmore |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
 | 193 | 527 | Adira Brown |
-| 194 | 526 | Ashley Guernsey-Martin |
-| 195 | 526 | April Dawn Gussler |
-| 196 | 525 | Tommy Tha Boss Gunz |
-| 197 | 525 | Desiree Anderson |
-| 198 | 522 | Slip |
-| 199 | 522 | Mema |
+| 194 | 526 | April Dawn Gussler |
+| 195 | 526 | Ashley Guernsey-Martin |
+| 196 | 525 | Desiree Anderson |
+| 197 | 525 | Tommy Tha Boss Gunz |
+| 198 | 522 | Mema |
+| 199 | 522 | Slip |
 | 200 | 521 | Joce Lynn |
 | 201 | 519 | Rob Brown |
 | 202 | 514 | Ashley House |
@@ -602,8 +602,8 @@
 | 594 | 205 | ElizabethAnn Dickinson |
 | 595 | 204 | Ali Gralski |
 | 596 | 204 | Ryan Lauer |
-| 597 | 204 | Kimberly Ann |
-| 598 | 204 | Brenna Ann |
+| 597 | 204 | Brenna Ann |
+| 598 | 204 | Kimberly Ann |
 | 599 | 203 | Alyssa Dean |
 | 600 | 203 | nikki |
 | 601 | 202 | Layna Lyons |

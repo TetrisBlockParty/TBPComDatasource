@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Lawrence Belanger |
-| 36 | 508 | Michelle Nicole |
+| 35 | 508 | Michelle Nicole |
+| 36 | 508 | Lawrence Belanger |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Sweetts |
-| 105 | 190 | Thorne Shumate |
+| 104 | 190 | Thorne Shumate |
+| 105 | 190 | Sweetts |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Cranky Pattern |
-| 153 | 138 | Death |
+| 152 | 138 | Death |
+| 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
@@ -184,8 +184,8 @@
 | 176 | 122 | Melissa Lemmon |
 | 177 | 122 | Margo Wagner |
 | 178 | 121 | April Carroll |
-| 179 | 120 | Kimmie Kimms |
-| 180 | 120 | Alenoush Karimian |
+| 179 | 120 | Alenoush Karimian |
+| 180 | 120 | Kimmie Kimms |
 | 181 | 119 | Tater |
 | 182 | 116 | Jessica Russell |
 | 183 | 115 | Mrs.Patrica |

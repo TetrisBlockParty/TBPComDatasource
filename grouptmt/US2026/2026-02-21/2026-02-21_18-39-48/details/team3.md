@@ -149,12 +149,12 @@
 | 141 | 223 | Jeana Gilbert |
 | 142 | 222 | Hoppy Buildout |
 | 143 | 222 | Jimmie Clemons |
-| 144 | 219 | Shunta Jacobs |
-| 145 | 219 | Tom Nault |
+| 144 | 219 | Tom Nault |
+| 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Amy Fuller Heaton |
-| 149 | 214 | Jenny Hrndz |
+| 148 | 214 | Jenny Hrndz |
+| 149 | 214 | Amy Fuller Heaton |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
@@ -260,8 +260,8 @@
 | 252 | 131 | Darlene McMillan |
 | 253 | 130 | Weerae |
 | 254 | 129 | Juliana Dottore |
-| 255 | 128 | MizzMonick Smith |
-| 256 | 128 | Jen Lewis |
+| 255 | 128 | Jen Lewis |
+| 256 | 128 | MizzMonick Smith |
 | 257 | 127 | mzcatzy |
 | 258 | 126 | Pam Holt Powell |
 | 259 | 126 | April Matthew Kibble |

@@ -105,8 +105,8 @@
 | 97 | 194 | Zany Twisterfit |
 | 98 | 192 | Shauna Havard |
 | 99 | 192 | Crystal Carroll |
-| 100 | 191 | Melvin Baird |
-| 101 | 191 | loulou |
+| 100 | 191 | loulou |
+| 101 | 191 | Melvin Baird |
 | 102 | 189 | Calvin Dennis |
 | 103 | 187 | TheNeesh50 |
 | 104 | 187 | Swanky Fitline |
