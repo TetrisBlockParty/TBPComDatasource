@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -135,8 +135,8 @@
 | 127 | 182 | Ashley Tookes |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Kelly Ann Child |
 | 134 | 166 | Danielle Mogg |
@@ -148,8 +148,8 @@
 | 140 | 159 | Mcathen |
 | 141 | 159 | Jone |
 | 142 | 158 | Grams |
-| 143 | 157 | Patricia Gadsden |
-| 144 | 157 | Nicholas Roddy |
+| 143 | 157 | Nicholas Roddy |
+| 144 | 157 | Patricia Gadsden |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Nicole Flippo |
@@ -181,8 +181,8 @@
 | 173 | 127 | Joy Petroski |
 | 174 | 127 | Aerian Preston |
 | 175 | 126 | Brandon Givens |
-| 176 | 125 | Felicia Doxey |
-| 177 | 125 | Shimika Enay Wallace |
+| 176 | 125 | Shimika Enay Wallace |
+| 177 | 125 | Felicia Doxey |
 | 178 | 124 | Cesar Barraza |
 | 179 | 123 | Kristie McFarland |
 | 180 | 123 | Sarajane Lokan |

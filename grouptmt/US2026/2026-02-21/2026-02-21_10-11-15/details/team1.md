@@ -77,8 +77,8 @@
 | 69 | 193 | Lachelle Dillon |
 | 70 | 192 | Shaykmia |
 | 71 | 191 | Jazzy Framezone |
-| 72 | 190 | Sweetts |
-| 73 | 190 | Thorne Shumate |
+| 72 | 190 | Thorne Shumate |
+| 73 | 190 | Sweetts |
 | 74 | 189 | Happy Basegrid |
 | 75 | 180 | Erez Yosef |
 | 76 | 173 | Frothy Pattern |
@@ -136,8 +136,8 @@
 | 128 | 112 | Miguel Teixeira |
 | 129 | 111 | Jessica Russell |
 | 130 | 111 | Agustin Duarte Orozco |
-| 131 | 110 | Heidi Feurer |
-| 132 | 110 | Garcia Bailey |
+| 131 | 110 | Garcia Bailey |
+| 132 | 110 | Heidi Feurer |
 | 133 | 108 | Tavia |
 | 134 | 107 | Jodee Woods |
 | 135 | 106 | Bloknboy |

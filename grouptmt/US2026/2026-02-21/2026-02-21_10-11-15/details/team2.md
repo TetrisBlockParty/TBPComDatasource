@@ -591,8 +591,8 @@
 | 583 | 140 | Ms806 |
 | 584 | 140 | Jasmine Kenney |
 | 585 | 140 | King Shamell Young |
-| 586 | 140 | Nadia Batista Garcia |
-| 587 | 140 | Sheretta Holmes Lil'bit |
+| 586 | 140 | Sheretta Holmes Lil'bit |
+| 587 | 140 | Nadia Batista Garcia |
 | 588 | 139 | Renee Bowers |
 | 589 | 139 | Jackson Smith |
 | 590 | 139 | Octavio Garza |
@@ -1060,7 +1060,7 @@
 | 1052 | 82 | Stephanie Jones |
 | 1053 | 82 | Jedi |
 | 1054 | 82 | Prette Qui |
-| 1055 | 82 | Jedi |
+| 1055 | 82 | Kelly Amos |
 | 1056 | 82 | Stephanie McBride |
 | 1057 | 82 | Janai Vrabel |
 | 1058 | 82 | Joni Richard |
