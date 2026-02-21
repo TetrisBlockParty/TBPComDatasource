@@ -47,8 +47,8 @@
 | 39 | 143 | Veronica Eve |
 | 40 | 135 | Jennifer Cates |
 | 41 | 134 | Plucky Ziggy |
-| 42 | 133 | Mandyy Rae |
-| 43 | 133 | Brandi Huntington |
+| 42 | 133 | Brandi Huntington |
+| 43 | 133 | Mandyy Rae |
 | 44 | 126 | Cece Ibarra |
 | 45 | 123 | Rico Rico |
 | 46 | 122 | Marianne Louise West |
@@ -117,7 +117,7 @@
 | 109 | 60 | Susanna Guerry |
 | 110 | 60 | BigWeenie69 |
 | 111 | 59 | Mel Hogan |
-| 112 | 58 | Jason Cox |
+| 112 | 58 | Shiny Gridmatch |
 | 113 | 58 | Basment Living |
 | 114 | 58 | Sweet Baker |
 | 115 | 58 | Jason Cox |
@@ -173,10 +173,10 @@
 | 165 | 43 | Jill King Oldham |
 | 166 | 42 | Panda Thagreat |
 | 167 | 42 | Henry James Bechtold |
-| 168 | 42 | Panda Thagreat |
+| 168 | 42 | Kristen Gideon |
 | 169 | 41 | lisa |
 | 170 | 41 | Cynthia Bradley |
-| 171 | 40 | Tim Mccrary |
+| 171 | 40 | Kimberly Garcia |
 | 172 | 40 | Kenton Billings |
 | 173 | 40 | Tim Mccrary |
 | 174 | 40 | Mama Zelda |
