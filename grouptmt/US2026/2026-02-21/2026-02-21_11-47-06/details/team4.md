@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -104,9 +104,9 @@
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Serena Goodridge |
-| 100 | 134 | Chirpy Basepiece |
-| 101 | 134 | Jessica Bohlken |
+| 99 | 134 | Jessica Bohlken |
+| 100 | 134 | Serena Goodridge |
+| 101 | 134 | Chirpy Basepiece |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Melissa Priest Sellers |
 | 104 | 132 | Jessica Cagle |
@@ -117,8 +117,8 @@
 | 109 | 131 | Zany Twisterfit |
 | 110 | 130 | Lucas J Sutton |
 | 111 | 130 | Casey Jeffcoat |
-| 112 | 129 | Landon Keith Graffeo |
-| 113 | 129 | John Brunetti |
+| 112 | 129 | John Brunetti |
+| 113 | 129 | Landon Keith Graffeo |
 | 114 | 126 | Dihcheese444 |
 | 115 | 125 | Lauren Scott |
 | 116 | 123 | Bubbly Puzzler |

@@ -109,15 +109,15 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -185,9 +185,9 @@
 | 177 | 129 | Logan Naccarato |
 | 178 | 129 | Lesley Perez |
 | 179 | 128 | Jen Lewis |
-| 180 | 127 | Marquita Sheard |
+| 180 | 127 | Aerian Preston |
 | 181 | 127 | Joy Petroski |
-| 182 | 127 | Aerian Preston |
+| 182 | 127 | Marquita Sheard |
 | 183 | 126 | Brandon Givens |
 | 184 | 125 | Felicia Doxey |
 | 185 | 125 | Shimika Enay Wallace |
@@ -350,7 +350,7 @@
 | 342 | 73 | Rainbow77375 |
 | 343 | 73 | Spicy Caster |
 | 344 | 73 | Loopy Fallmatch |
-| 345 | 73 | Rainbow77375 |
+| 345 | 73 | Nerdy Wipeout |
 | 346 | 73 | punky monkey buttky |
 | 347 | 73 | Elyse Grabowsky |
 | 348 | 72 | Jodi Kaczynski-O'Dowd |

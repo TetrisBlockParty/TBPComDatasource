@@ -610,8 +610,8 @@
 | 602 | 141 | Mary Lopez Sr. |
 | 603 | 141 | Markisha Poyndexter |
 | 604 | 141 | Diona Burns |
-| 605 | 141 | Erika Meaux |
-| 606 | 141 | Monica Brown |
+| 605 | 141 | Monica Brown |
+| 606 | 141 | Erika Meaux |
 | 607 | 141 | Aprill Bolton |
 | 608 | 140 | Nadia Batista Garcia |
 | 609 | 140 | Sheretta Holmes Lil'bit |
