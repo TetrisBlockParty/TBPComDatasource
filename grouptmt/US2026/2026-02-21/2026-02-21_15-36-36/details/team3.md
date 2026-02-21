@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 769 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -100,8 +100,8 @@
 | 92 | 338 | Danielle Rhoades |
 | 93 | 332 | Chauntee Alfrey-Cardinale |
 | 94 | 323 | Ashley Raines |
-| 95 | 320 | Elaine Webb Graves |
-| 96 | 320 | Or Reznitsky |
+| 95 | 320 | Or Reznitsky |
+| 96 | 320 | Elaine Webb Graves |
 | 97 | 316 | Fancy Cascader |
 | 98 | 309 | CeceGeGe |
 | 99 | 309 | Rich LeBlanc |
@@ -114,8 +114,8 @@
 | 106 | 293 | Poppy Splitter |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 264 | Tiff Vs Tiffany |
-| 109 | 263 | Angeline Joseph |
-| 110 | 263 | mjl574 |
+| 109 | 263 | mjl574 |
+| 110 | 263 | Angeline Joseph |
 | 111 | 262 | Joe-Maggie Mathews |
 | 112 | 259 | opf |
 | 113 | 256 | ren |
@@ -178,8 +178,8 @@
 | 170 | 168 | rosy |
 | 171 | 167 | Raven Dudley |
 | 172 | 166 | Loopy Fallmatch |
-| 173 | 166 | Betty Rosas |
-| 174 | 166 | Kelly Ann Child |
+| 173 | 166 | Kelly Ann Child |
+| 174 | 166 | Betty Rosas |
 | 175 | 165 | Kali Kelz Williams |
 | 176 | 163 | Stephanie Hill |
 | 177 | 163 | Sashay Tapae Simpson |
@@ -195,8 +195,8 @@
 | 187 | 156 | Bea Miles |
 | 188 | 155 | Sarajane Lokan |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Shiny Zonebuilder |
-| 191 | 152 | Katrina E Jelks |
+| 190 | 152 | Katrina E Jelks |
+| 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
 | 193 | 151 | Brenda Lee Vander Molen |
 | 194 | 151 | MsBee |
@@ -257,13 +257,13 @@
 | 249 | 113 | Beppy |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Tye Stovall |
-| 253 | 110 | Danielle Weikel |
+| 252 | 110 | Danielle Weikel |
+| 253 | 110 | Tye Stovall |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
-| 256 | 109 | Diana Ibarra |
-| 257 | 109 | mommablock |
-| 258 | 109 | Brave Brickster |
+| 256 | 109 | Brave Brickster |
+| 257 | 109 | Diana Ibarra |
+| 258 | 109 | mommablock |
 | 259 | 108 | Rachel Napper |
 | 260 | 108 | LaTanya GeminiondaRise Johnson |
 | 261 | 108 | Hanna Kim |
@@ -273,8 +273,8 @@
 | 265 | 107 | Bouncy Blockbuilder |
 | 266 | 106 | Cheeky Snapper |
 | 267 | 106 | Noettín Kan Zasnemoore |
-| 268 | 105 | Donna |
-| 269 | 105 | Boldy Blocker |
+| 268 | 105 | Boldy Blocker |
+| 269 | 105 | Donna |
 | 270 | 105 | Emi |
 | 271 | 104 | El Chapa |
 | 272 | 104 | Samantha Lynn |
@@ -343,8 +343,8 @@
 | 335 | 85 | Heather De Vries Cobb |
 | 336 | 85 | Sheila M Frazier |
 | 337 | 84 | Flashy Rumbler |
-| 338 | 84 | Spunky Racker |
-| 339 | 84 | gremicx |
+| 338 | 84 | gremicx |
+| 339 | 84 | Spunky Racker |
 | 340 | 83 | Glitzy Slide |
 | 341 | 83 | Deseree Ewing |
 | 342 | 83 | Weerae |

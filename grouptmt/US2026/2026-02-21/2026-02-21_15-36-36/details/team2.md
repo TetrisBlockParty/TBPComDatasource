@@ -146,8 +146,8 @@
 | 138 | 631 | Peppy Zone |
 | 139 | 620 | BYM4L |
 | 140 | 619 | Jamie Otero |
-| 141 | 608 | Sommer Shope |
-| 142 | 608 | John Bednarik |
+| 141 | 608 | John Bednarik |
+| 142 | 608 | Sommer Shope |
 | 143 | 604 | Amber Shoemaker |
 | 144 | 603 | Cassie Maynard |
 | 145 | 602 | L3sli3 |
@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Sarah Massey |
-| 235 | 405 | Christy Krissie |
+| 234 | 405 | Christy Krissie |
+| 235 | 405 | Sarah Massey |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Crystie Hicks |
 | 238 | 400 | Rhonda Milstead |
@@ -251,8 +251,8 @@
 | 243 | 393 | Altamirano Michael |
 | 244 | 393 | Taylor Flowers |
 | 245 | 391 | Qiana Sanders |
-| 246 | 391 | Chilly Bridgepiece |
-| 247 | 391 | Brenda Utphall |
+| 246 | 391 | Brenda Utphall |
+| 247 | 391 | Chilly Bridgepiece |
 | 248 | 386 | Macy Williams |
 | 249 | 385 | Sam |
 | 250 | 385 | Skyler Morgan |
@@ -269,8 +269,8 @@
 | 261 | 367 | Deyawn Smith |
 | 262 | 366 | Wuntayk |
 | 263 | 365 | Christina Lewis-Vickers |
-| 264 | 364 | Shinette Dobson |
-| 265 | 364 | Brandon Armstrong |
+| 264 | 364 | Brandon Armstrong |
+| 265 | 364 | Shinette Dobson |
 | 266 | 363 | William Meussner |
 | 267 | 362 | AkaLefty |
 | 268 | 359 | Mighty Shatterfit |
@@ -400,8 +400,8 @@
 | 392 | 265 | Sassy Linkbuilder |
 | 393 | 264 | Giddy Gridclear |
 | 394 | 264 | Dapper Dasher |
-| 395 | 262 | Min |
-| 396 | 262 | Taren Cowan |
+| 395 | 262 | Taren Cowan |
+| 396 | 262 | Min |
 | 397 | 261 | MrsClaudette Will'sIam Matthews |
 | 398 | 260 | Santana Miyagi |
 | 399 | 258 | Mary Marie |
@@ -514,12 +514,12 @@
 | 506 | 201 | Matthew Turner |
 | 507 | 201 | Twisty Tetriblast |
 | 508 | 200 | Sara Silvernail-Kay |
-| 509 | 200 | Sarah Ridenour |
-| 510 | 200 | LaWanda Powell |
+| 509 | 200 | LaWanda Powell |
+| 510 | 200 | Sarah Ridenour |
 | 511 | 200 | Biggest thing |
-| 512 | 199 | Jenny Castro |
+| 512 | 199 | Jessica Sutter |
 | 513 | 199 | Alyssa Nadine Medelez |
-| 514 | 199 | Jessica Sutter |
+| 514 | 199 | Jenny Castro |
 | 515 | 198 | Angie Bolton Workman |
 | 516 | 197 | Kati Russeau |
 | 517 | 196 | Zak Dunn |
@@ -574,9 +574,9 @@
 | 566 | 179 | Bette Prieto |
 | 567 | 179 | Cat |
 | 568 | 179 | Desiree Harris Rosch |
-| 569 | 178 | Cathy Bitters |
+| 569 | 178 | Dawn Woosley Bowes |
 | 570 | 178 | Lazy Riseclear |
-| 571 | 178 | Dawn Woosley Bowes |
+| 571 | 178 | Cathy Bitters |
 | 572 | 178 | Michelle Shrum |
 | 573 | 177 | Facuetoo |
 | 574 | 177 | Angel |

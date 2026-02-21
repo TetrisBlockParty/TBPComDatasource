@@ -60,8 +60,8 @@
 | 52 | 282 | Kristen Roles Robben |
 | 53 | 278 | Robert Benito |
 | 54 | 277 | Shauna Loe |
-| 55 | 274 | Sweet Baker |
-| 56 | 274 | Theo Pinnow |
+| 55 | 274 | Theo Pinnow |
+| 56 | 274 | Sweet Baker |
 | 57 | 272 | Adam Byrd |
 | 58 | 261 | Bhelle Sumile |
 | 59 | 257 | Sarah Roberts |
@@ -87,8 +87,8 @@
 | 79 | 201 | Ananda Mendez |
 | 80 | 201 | Anaid Sanchez |
 | 81 | 200 | Giggly Builderline |
-| 82 | 198 | Brandi Huntington |
-| 83 | 198 | Happy Snapbuild |
+| 82 | 198 | Happy Snapbuild |
+| 83 | 198 | Brandi Huntington |
 | 84 | 197 | Cynthia Bradley |
 | 85 | 193 | Lachelle Dillon |
 | 86 | 192 | Shaykmia |
@@ -127,8 +127,8 @@
 | 119 | 148 | Shauntina Burke |
 | 120 | 146 | Irual Hctrab |
 | 121 | 145 | BigWeenie69 |
-| 122 | 144 | Plucky Ziggy |
-| 123 | 144 | femmefatale |
+| 122 | 144 | femmefatale |
+| 123 | 144 | Plucky Ziggy |
 | 124 | 143 | Sarah Marie |
 | 125 | 142 | Colleen Wise |
 | 126 | 142 | Dandy Basegrid |

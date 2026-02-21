@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -57,8 +57,8 @@
 | 49 | 308 | Jen Allison |
 | 50 | 306 | Lisa Davis |
 | 51 | 303 | Tammi Crnza |
-| 52 | 300 | David Lay |
-| 53 | 300 | Jason Hart |
+| 52 | 300 | Jason Hart |
+| 53 | 300 | David Lay |
 | 54 | 299 | Livvy |
 | 55 | 295 | Latisha Davis |
 | 56 | 291 | Leslie Thomas |
@@ -86,8 +86,8 @@
 | 78 | 210 | Lucas J Sutton |
 | 79 | 205 | Sarah Neathery |
 | 80 | 204 | Brittney Orengo |
-| 81 | 198 | Dustee Craddock-Harrison |
-| 82 | 198 | Mike Solo |
+| 81 | 198 | Mike Solo |
+| 82 | 198 | Dustee Craddock-Harrison |
 | 83 | 194 | Jamie Mann-Deichmann |
 | 84 | 193 | Monica Daley |
 | 85 | 191 | loulou |
@@ -141,8 +141,8 @@
 | 133 | 132 | Jessica Cagle |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Stephme310 |
-| 137 | 128 | Rio Rocha |
+| 136 | 128 | Rio Rocha |
+| 137 | 128 | Stephme310 |
 | 138 | 127 | Dreamy Snapgrid |
 | 139 | 126 | TinyLegoRose |
 | 140 | 126 | Dihcheese444 |
@@ -165,9 +165,9 @@
 | 157 | 115 | Jayk |
 | 158 | 115 | Ultramarine |
 | 159 | 113 | Adam Randall |
-| 160 | 112 | Austin Owens |
-| 161 | 112 | Jackie Marie |
-| 162 | 112 | Bryan Hodgins |
+| 160 | 112 | Bryan Hodgins |
+| 161 | 112 | Austin Owens |
+| 162 | 112 | Jackie Marie |
 | 163 | 111 | Michelle Morris |
 | 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
