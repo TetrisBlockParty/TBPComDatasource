@@ -116,8 +116,8 @@
 | 108 | 154 | Angela M. Fletcher |
 | 109 | 153 | Beth Ingham |
 | 110 | 152 | Shiny Zonebuilder |
-| 111 | 149 | Bea Miles |
-| 112 | 149 | Trisha Balmer |
+| 111 | 149 | Trisha Balmer |
+| 112 | 149 | Bea Miles |
 | 113 | 146 | Latoya Mayne |
 | 114 | 146 | Denita Mungro |
 | 115 | 141 | Brandon Green |
@@ -217,8 +217,8 @@
 | 209 | 84 | Flashy Rumbler |
 | 210 | 84 | Ava Petito |
 | 211 | 83 | Michael Nowogorski |
-| 212 | 82 | Crystel b520 |
-| 213 | 82 | Stephanie Whitefield |
+| 212 | 82 | Stephanie Whitefield |
+| 213 | 82 | Crystel b520 |
 | 214 | 81 | Tina Baurdau |
 | 215 | 80 | Oliver Neal II |
 | 216 | 80 | Vixen Queen |

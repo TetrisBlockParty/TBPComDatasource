@@ -22,8 +22,8 @@
 | 14 | 464 | Koshin Abdirahman |
 | 15 | 402 | Samantha Peterson |
 | 16 | 390 | Alicia Bass |
-| 17 | 383 | Carmethia Clemons Haslerig |
-| 18 | 383 | Johnathan Martinez |
+| 17 | 383 | Johnathan Martinez |
+| 18 | 383 | Carmethia Clemons Haslerig |
 | 19 | 361 | Valerie Roberts |
 | 20 | 348 | Rodney McMath Jr. |
 | 21 | 345 | Ancient Intuition |
@@ -71,8 +71,8 @@
 | 63 | 134 | Chirpy Basepiece |
 | 64 | 134 | Jessica Bohlken |
 | 65 | 133 | Robin Watters |
-| 66 | 132 | Degenerate |
-| 67 | 132 | Jenna McGeorge |
+| 66 | 132 | Jenna McGeorge |
+| 67 | 132 | Degenerate |
 | 68 | 131 | Dustee Craddock-Harrison |
 | 69 | 130 | Casey Jeffcoat |
 | 70 | 129 | John Brunetti |

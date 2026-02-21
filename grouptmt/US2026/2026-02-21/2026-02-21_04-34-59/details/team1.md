@@ -84,8 +84,8 @@
 | 76 | 130 | Dandy Basegrid |
 | 77 | 129 | Happy Snapbuild |
 | 78 | 129 | Trina Gee |
-| 79 | 128 | Gary Gobin |
-| 80 | 128 | Uhog SF |
+| 79 | 128 | Uhog SF |
+| 80 | 128 | Gary Gobin |
 | 81 | 126 | Cece Ibarra |
 | 82 | 120 | Blaire Bruckoff |
 | 83 | 120 | Kristen Roles Robben |
@@ -165,8 +165,8 @@
 | 157 | 72 | Tipsy Strikerpiece |
 | 158 | 71 | John Kim |
 | 159 | 71 | Brandi Egbert |
-| 160 | 70 | Seth Wesson |
-| 161 | 70 | Daring Fitclear |
+| 160 | 70 | Daring Fitclear |
+| 161 | 70 | Seth Wesson |
 | 162 | 69 | Christina Torres |
 | 163 | 67 | Mitchel White |
 | 164 | 66 | Angela Fairbank |

@@ -144,12 +144,12 @@
 | 136 | 409 | Sparkles |
 | 137 | 401 | Poppy Snap |
 | 138 | 400 | Crystie Hicks |
-| 139 | 397 | Ashley Guernsey-Martin |
-| 140 | 397 | Destiny Cozier |
+| 139 | 397 | Destiny Cozier |
+| 140 | 397 | Ashley Guernsey-Martin |
 | 141 | 394 | Tammy Allen |
 | 142 | 391 | Chilly Bridgepiece |
-| 143 | 386 | Ashie Ann |
-| 144 | 386 | Jumpy Gridpiece |
+| 143 | 386 | Jumpy Gridpiece |
+| 144 | 386 | Ashie Ann |
 | 145 | 385 | Sam |
 | 146 | 380 | Joshua Mandel |
 | 147 | 380 | Calandra Shaya Robinson |
@@ -549,7 +549,7 @@
 | 541 | 116 | Slinky Risegrid |
 | 542 | 116 | BeenRich Theceo |
 | 543 | 116 | SpaceCase085 |
-| 544 | 116 | Shaun Church |
+| 544 | 116 | Slimkaite |
 | 545 | 116 | Moua Ying |
 | 546 | 116 | Shaun Church |
 | 547 | 115 | Heather Schelkopf |
