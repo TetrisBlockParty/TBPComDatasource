@@ -65,8 +65,8 @@
 | 57 | 165 | Casey Grabner |
 | 58 | 163 | Denise Carlson |
 | 59 | 160 | Carter Jones |
-| 60 | 159 | Holly Jolly |
-| 61 | 159 | Justin Hannigan |
+| 60 | 159 | Justin Hannigan |
+| 61 | 159 | Holly Jolly |
 | 62 | 154 | ThaEviLJeNiuZ |
 | 63 | 153 | Jae Job |
 | 64 | 151 | BertMofo |
@@ -76,8 +76,8 @@
 | 68 | 145 | Edward White |
 | 69 | 141 | Malakai Darien Fox |
 | 70 | 140 | Shannon Ferrari |
-| 71 | 134 | Chirpy Basepiece |
-| 72 | 134 | Jessica Bohlken |
+| 71 | 134 | Jessica Bohlken |
+| 72 | 134 | Chirpy Basepiece |
 | 73 | 133 | Robin Watters |
 | 74 | 132 | Jenna McGeorge |
 | 75 | 132 | Degenerate |
