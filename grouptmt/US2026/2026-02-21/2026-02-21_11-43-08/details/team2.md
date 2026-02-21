@@ -207,8 +207,8 @@
 | 199 | 391 | Qiana Sanders |
 | 200 | 386 | Ashie Ann |
 | 201 | 386 | Macy Williams |
-| 202 | 385 | Sam |
-| 203 | 385 | Arwa Fatimah |
+| 202 | 385 | Arwa Fatimah |
+| 203 | 385 | Sam |
 | 204 | 381 | Amanda Ferrell |
 | 205 | 380 | Joshua Mandel |
 | 206 | 380 | Calandra Shaya Robinson |
@@ -249,8 +249,8 @@
 | 241 | 333 | Brittney Jean |
 | 242 | 332 | TF Dyer |
 | 243 | 331 | Shelley Thornburgh Wright |
-| 244 | 330 | Taryece Gause |
-| 245 | 330 | Victoria Moore-Smith |
+| 244 | 330 | Victoria Moore-Smith |
+| 245 | 330 | Taryece Gause |
 | 246 | 328 | Marie Boyd Faulk |
 | 247 | 327 | Danielle Simmons |
 | 248 | 324 | Christina Ashley |
@@ -292,8 +292,8 @@
 | 284 | 288 | Megan Phillips |
 | 285 | 288 | Leah Keesling |
 | 286 | 286 | Ryan Gunther |
-| 287 | 285 | Jánine Riggs |
-| 288 | 285 | June E Hanson |
+| 287 | 285 | June E Hanson |
+| 288 | 285 | Jánine Riggs |
 | 289 | 283 | Davetta Sanford |
 | 290 | 282 | Carl Bradshaw |
 | 291 | 282 | Shaun Church |
@@ -330,8 +330,8 @@
 | 322 | 263 | Taylor Flowers |
 | 323 | 262 | Taren Cowan |
 | 324 | 261 | MrsClaudette Will'sIam Matthews |
-| 325 | 260 | Denise Rickman |
-| 326 | 260 | Ebony Deloach Bryant |
+| 325 | 260 | Ebony Deloach Bryant |
+| 326 | 260 | Denise Rickman |
 | 327 | 257 | Lyndi Robinson Wakefield |
 | 328 | 256 | Giddy Gridclear |
 | 329 | 256 | Tee Jaleesa |
@@ -360,11 +360,11 @@
 | 352 | 245 | Rachael Senard |
 | 353 | 245 | Sanaa Nounoussa |
 | 354 | 244 | Aimee Byrom |
-| 355 | 242 | Lawanda Forbes |
-| 356 | 242 | Donna Chandler |
+| 355 | 242 | Donna Chandler |
+| 356 | 242 | Lawanda Forbes |
 | 357 | 241 | Sabrina Burton |
-| 358 | 240 | Angie Marie |
-| 359 | 240 | Adam Erikson |
+| 358 | 240 | Adam Erikson |
+| 359 | 240 | Angie Marie |
 | 360 | 238 | Cheery Matchzone |
 | 361 | 238 | Byung Bae Park |
 | 362 | 236 | Niceday |
@@ -388,8 +388,8 @@
 | 380 | 228 | Michelle Sager |
 | 381 | 227 | Demeka Dangerous-kisses Johnson |
 | 382 | 227 | JacJac |
-| 383 | 226 | Juliana Marques Do Nascimento Gordy |
-| 384 | 226 | Mary Marie |
+| 383 | 226 | Mary Marie |
+| 384 | 226 | Juliana Marques Do Nascimento Gordy |
 | 385 | 226 | Leslie Ann Carter |
 | 386 | 223 | Kristi Biddinger |
 | 387 | 223 | LegoCarpet |

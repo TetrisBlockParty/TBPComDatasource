@@ -226,8 +226,8 @@
 | 218 | 108 | Rachel Napper |
 | 219 | 108 | LaTanya GeminiondaRise Johnson |
 | 220 | 107 | Sherry Ogden |
-| 221 | 106 | Desiree Gold |
-| 222 | 106 | Noettín Kan Zasnemoore |
+| 221 | 106 | Noettín Kan Zasnemoore |
+| 222 | 106 | Desiree Gold |
 | 223 | 105 | Emi |
 | 224 | 105 | Carol Cain Thurman |
 | 225 | 104 | Sarah Moyer |
@@ -708,7 +708,7 @@
 | 700 | 36 | Jessica Ramey |
 | 701 | 36 | Amanda Martinez |
 | 702 | 36 | Zachery Taylor Kivett |
-| 703 | 36 | Amanda Martinez |
+| 703 | 36 | Heather Davis |
 | 704 | 35 | Snappy Balancer |
 | 705 | 35 | Eri Ca |
 | 706 | 35 | Jennifer Scharmach |

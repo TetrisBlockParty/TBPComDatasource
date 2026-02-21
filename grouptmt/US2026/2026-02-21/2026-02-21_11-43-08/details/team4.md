@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -69,14 +69,14 @@
 | 61 | 207 | Alyssa Papen |
 | 62 | 205 | Sarah Neathery |
 | 63 | 204 | Brittney Orengo |
-| 64 | 198 | Lori Walker |
-| 65 | 198 | Mike Solo |
+| 64 | 198 | Mike Solo |
+| 65 | 198 | Lori Walker |
 | 66 | 197 | Autum Leigh |
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -104,9 +104,9 @@
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 134 | Serena Goodridge |
-| 101 | 134 | Chirpy Basepiece |
+| 101 | 134 | Jessica Bohlken |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Jessica Cagle |
 | 104 | 132 | Degenerate |
@@ -122,8 +122,8 @@
 | 114 | 126 | Dihcheese444 |
 | 115 | 125 | Lauren Scott |
 | 116 | 123 | TinyLegoRose |
-| 117 | 123 | Bubbly Puzzler |
-| 118 | 123 | Cherrish Duren |
+| 117 | 123 | Cherrish Duren |
+| 118 | 123 | Bubbly Puzzler |
 | 119 | 122 | Sherri |
 | 120 | 121 | Klo |
 | 121 | 121 | Zany Shatterer |
@@ -172,7 +172,7 @@
 | 164 | 95 | Victoria Faniel |
 | 165 | 94 | Chastity Mitchell |
 | 166 | 94 | DonMega |
-| 167 | 94 | Chastity Mitchell |
+| 167 | 94 | Kim Hunt |
 | 168 | 93 | Zesty Twistbuilder |
 | 169 | 92 | Sammy Noguera |
 | 170 | 90 | No Strings Attached Ra |
@@ -285,8 +285,8 @@
 | 277 | 62 | Nicole Silvers |
 | 278 | 62 | PennyCandee |
 | 279 | 61 | Alee Marie |
-| 280 | 61 | Plucky Patternblock |
-| 281 | 61 | Jackson Karen |
+| 280 | 61 | Jackson Karen |
+| 281 | 61 | Plucky Patternblock |
 | 282 | 61 | Chilly Crasher |
 | 283 | 60 | Kris Zulch |
 | 284 | 60 | Sam Bishop |
