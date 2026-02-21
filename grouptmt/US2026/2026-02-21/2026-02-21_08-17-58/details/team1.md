@@ -55,14 +55,14 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Jaimie Lynn |
-| 51 | 212 | Tdub |
+| 50 | 212 | Tdub |
+| 51 | 212 | Jaimie Lynn |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Anaid Sanchez |
-| 57 | 201 | Ananda Mendez |
+| 56 | 201 | Ananda Mendez |
+| 57 | 201 | Anaid Sanchez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Happy Snapbuild |
 | 60 | 198 | Billie Dawn Sparks |
@@ -84,14 +84,14 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
-| 83 | 149 | Tana |
-| 84 | 149 | Arianna O'Brien |
-| 85 | 148 | Jessie Lynn |
-| 86 | 148 | Shauntina Burke |
+| 83 | 149 | Arianna O'Brien |
+| 84 | 149 | Tana |
+| 85 | 148 | Shauntina Burke |
+| 86 | 148 | Jessie Lynn |
 | 87 | 147 | Veronica Eve |
 | 88 | 145 | Lachelle Dillon |
 | 89 | 145 | BigWeenie69 |
@@ -156,8 +156,8 @@
 | 148 | 94 | Luciano Moreira |
 | 149 | 93 | Cody Gates |
 | 150 | 91 | Kimmie Kimms |
-| 151 | 90 | Madison Wicks |
-| 152 | 90 | TSwag |
+| 151 | 90 | TSwag |
+| 152 | 90 | Madison Wicks |
 | 153 | 90 | Dizzy Party |
 | 154 | 89 | Mara Hilker |
 | 155 | 87 | Jessi Sauer |

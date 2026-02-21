@@ -131,7 +131,7 @@
 | 123 | 112 | Brittany Marsh |
 | 124 | 111 | Lazy Blocker |
 | 125 | 111 | Stephme310 |
-| 126 | 111 | Lazy Blocker |
+| 126 | 111 | Gwendolyn Pitcairn |
 | 127 | 110 | H.R. Block |
 | 128 | 108 | Rio Rocha |
 | 129 | 107 | Marcus Todd |
@@ -150,8 +150,8 @@
 | 142 | 101 | Saulc1991 |
 | 143 | 100 | Alexandra Karavias |
 | 144 | 98 | Allen Lloyd |
-| 145 | 98 | Duck |
-| 146 | 98 | Chaz |
+| 145 | 98 | Chaz |
+| 146 | 98 | Duck |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
 | 149 | 95 | Victoria Faniel |
@@ -200,7 +200,7 @@
 | 192 | 77 | Chris Alexinas |
 | 193 | 77 | Zippy Gridlock |
 | 194 | 77 | Marvin Lou Martin |
-| 195 | 77 | Zippy Gridlock |
+| 195 | 77 | Twisty Cascadezone |
 | 196 | 76 | Madison Sweere |
 | 197 | 76 | Bethany Ison |
 | 198 | 75 | Rosemary Foster |

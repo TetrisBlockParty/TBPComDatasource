@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
 | 38 | 546 | Snappy Glidepiece |
 | 39 | 546 | Dolores Falco |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -81,8 +81,8 @@
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Michelle |
-| 77 | 322 | Mendoza Lee Christy |
+| 76 | 322 | Mendoza Lee Christy |
+| 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | CeceGeGe |
@@ -166,8 +166,8 @@
 | 158 | 134 | DanceLuvLaugh |
 | 159 | 131 | Jl |
 | 160 | 129 | Stephanie Burtin |
-| 161 | 127 | Marquita Sheard |
-| 162 | 127 | Connie Mohler-Fair |
+| 161 | 127 | Connie Mohler-Fair |
+| 162 | 127 | Marquita Sheard |
 | 163 | 127 | Aerian Preston |
 | 164 | 126 | Bryan Byrd |
 | 165 | 126 | Dan Rob |
@@ -188,8 +188,8 @@
 | 180 | 121 | Michael Latasha Gray |
 | 181 | 120 | Stephanie Hill |
 | 182 | 120 | Jessica |
-| 183 | 118 | Logan Naccarato |
-| 184 | 118 | Fancy Curver |
+| 183 | 118 | Fancy Curver |
+| 184 | 118 | Logan Naccarato |
 | 185 | 118 | Sabrina Hardrick |
 | 186 | 116 | Skinny Baldez |
 | 187 | 116 | BugMansMom |

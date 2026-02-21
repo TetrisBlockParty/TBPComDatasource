@@ -120,8 +120,8 @@
 | 112 | 545 | Brittany Alicia |
 | 113 | 542 | Rosa Franklin |
 | 114 | 541 | SaraMarie Eveland |
-| 115 | 540 | YiFei |
-| 116 | 540 | Charvi' Carter |
+| 115 | 540 | Charvi' Carter |
+| 116 | 540 | YiFei |
 | 117 | 534 | Poppy Snapper |
 | 118 | 531 | Chris Wanner |
 | 119 | 529 | Tonya Morgan |
@@ -189,8 +189,8 @@
 | 181 | 380 | Calandra Shaya Robinson |
 | 182 | 380 | Joshua Mandel |
 | 183 | 378 | Cody Nishimura |
-| 184 | 377 | Liberty |
-| 185 | 377 | Roy Salyer |
+| 184 | 377 | Roy Salyer |
+| 185 | 377 | Liberty |
 | 186 | 364 | Shinette Dobson |
 | 187 | 363 | William Meussner |
 | 188 | 363 | Stephen Stephen |
@@ -618,8 +618,8 @@
 | 610 | 129 | Angela Kummer |
 | 611 | 129 | Tiny |
 | 612 | 129 | Kara Jennifer |
-| 613 | 128 | Russell J Gindlesperger II |
-| 614 | 128 | Mine |
+| 613 | 128 | Mine |
+| 614 | 128 | Russell J Gindlesperger II |
 | 615 | 128 | Amanda Diegel |
 | 616 | 128 | Carrie Pike |
 | 617 | 128 | Leslie |
@@ -754,8 +754,8 @@
 | 746 | 106 | Damien Reinbold |
 | 747 | 106 | Mystique89 |
 | 748 | 106 | Jessica Wayne Cornwall |
-| 749 | 105 | KwaDaGod |
-| 750 | 105 | trabuco |
+| 749 | 105 | trabuco |
+| 750 | 105 | KwaDaGod |
 | 751 | 105 | Mike Welz |
 | 752 | 105 | Ada Ellis |
 | 753 | 105 | Denise Darknlovely Davis |
