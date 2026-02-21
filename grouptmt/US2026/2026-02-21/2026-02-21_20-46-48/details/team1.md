@@ -123,12 +123,12 @@
 | 115 | 193 | Lachelle Dillon |
 | 116 | 192 | Shaykmia |
 | 117 | 191 | Diane Byrd |
-| 118 | 190 | Thorne Shumate |
-| 119 | 190 | Sweetts |
+| 118 | 190 | Sweetts |
+| 119 | 190 | Thorne Shumate |
 | 120 | 189 | Happy Basegrid |
 | 121 | 188 | Sam Williams |
-| 122 | 187 | Snippy Wipebuilder |
-| 123 | 187 | Plucky Ziggy |
+| 122 | 187 | Plucky Ziggy |
+| 123 | 187 | Snippy Wipebuilder |
 | 124 | 186 | Jennifer Olewnik Soborowski |
 | 125 | 182 | Spunky Piecebuilder |
 | 126 | 180 | BigWeenie69 |
