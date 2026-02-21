@@ -46,8 +46,8 @@
 | 38 | 998 | Liv Whetson |
 | 39 | 996 | Danielle Cutler |
 | 40 | 989 | Kay |
-| 41 | 928 | Snappy Fitzone |
-| 42 | 928 | Stephanie Rice |
+| 41 | 928 | Stephanie Rice |
+| 42 | 928 | Snappy Fitzone |
 | 43 | 915 | Fancy Slam |
 | 44 | 908 | Chummy Shatterer |
 | 45 | 879 | Shonna Roberts |

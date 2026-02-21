@@ -232,8 +232,8 @@
 | 224 | 589 | Thomas Hedrick |
 | 225 | 587 | Hyper Cluster |
 | 226 | 586 | Stephen Stephen |
-| 227 | 583 | Steve Grotto |
-| 228 | 583 | Jessicah Myers |
+| 227 | 583 | Jessicah Myers |
+| 228 | 583 | Steve Grotto |
 | 229 | 582 | Gary Stash |
 | 230 | 581 | Jánine Riggs |
 | 231 | 579 | Roy Salyer |
@@ -641,8 +641,8 @@
 | 633 | 234 | Kay Stevenson |
 | 634 | 234 | Jaybee Nguyen |
 | 635 | 233 | Jumpy Gridclear |
-| 636 | 233 | Epic Spinfit |
-| 637 | 233 | Myleaha Holley |
+| 636 | 233 | Myleaha Holley |
+| 637 | 233 | Epic Spinfit |
 | 638 | 233 | Nutty Matchline |
 | 639 | 232 | Zappy Dropmatch |
 | 640 | 232 | Ys Muhammed |
@@ -797,8 +797,8 @@
 | 789 | 187 | Wacky Brickbuilder |
 | 790 | 187 | Angel |
 | 791 | 186 | Bette Prieto |
-| 792 | 185 | Sharon Crawford |
-| 793 | 185 | Lively Catcher |
+| 792 | 185 | Lively Catcher |
+| 793 | 185 | Sharon Crawford |
 | 794 | 185 | Nerdy Blockpiece |
 | 795 | 185 | Jason H Baker |
 | 796 | 184 | Donna M Carter |
@@ -808,8 +808,8 @@
 | 800 | 184 | Brittany Radaszewski |
 | 801 | 183 | Tiara Elizabeth Baker |
 | 802 | 183 | Lynzekwi |
-| 803 | 182 | Candace Noel |
-| 804 | 182 | Veronica Guerra |
+| 803 | 182 | Veronica Guerra |
+| 804 | 182 | Candace Noel |
 | 805 | 182 | Dorinda Palato |
 | 806 | 182 | Wedance Fong |
 | 807 | 181 | Trevor Jordan |

@@ -158,8 +158,8 @@
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
 | 152 | 153 | Empress Oasis |
-| 153 | 153 | Avy Absol |
-| 154 | 153 | Chair |
+| 153 | 153 | Chair |
+| 154 | 153 | Avy Absol |
 | 155 | 151 | Bethany Ison |
 | 156 | 149 | Roger Coulter |
 | 157 | 149 | Shainne Brewer |
@@ -208,8 +208,8 @@
 | 200 | 124 | SammieJo Guy |
 | 201 | 124 | Kristina Black |
 | 202 | 123 | Austin Owens |
-| 203 | 123 | Matt Dell'Olio |
-| 204 | 123 | Tyler Terrific |
+| 203 | 123 | Tyler Terrific |
+| 204 | 123 | Matt Dell'Olio |
 | 205 | 122 | 🥔🥔 Spudz |
 | 206 | 122 | Sherri |
 | 207 | 121 | Smiley Tiltbuilder |
@@ -238,8 +238,8 @@
 | 230 | 111 | Lazy Blocker |
 | 231 | 110 | Zach Kerbs |
 | 232 | 109 | LS |
-| 233 | 109 | Ak Jones |
-| 234 | 109 | Frank Cook |
+| 233 | 109 | Frank Cook |
+| 234 | 109 | Ak Jones |
 | 235 | 108 | Rebecca Morris |
 | 236 | 108 | Ali Ian |
 | 237 | 107 | Rafael Valentin |
