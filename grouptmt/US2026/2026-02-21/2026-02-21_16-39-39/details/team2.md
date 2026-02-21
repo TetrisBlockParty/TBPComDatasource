@@ -155,8 +155,8 @@
 | 147 | 620 | BYM4L |
 | 148 | 619 | Jamie Otero |
 | 149 | 609 | Robin Kerby |
-| 150 | 608 | Sommer Shope |
-| 151 | 608 | John Bednarik |
+| 150 | 608 | John Bednarik |
+| 151 | 608 | Sommer Shope |
 | 152 | 604 | Amber Shoemaker |
 | 153 | 604 | Danielle Johnson-Chandler |
 | 154 | 603 | Cassie Maynard |
@@ -209,8 +209,8 @@
 | 201 | 495 | Poppy Snap |
 | 202 | 491 | Gene Mills |
 | 203 | 486 | MrsCandyfine As Wine Truss |
-| 204 | 485 | Lylymom |
-| 205 | 485 | Leah Keesling |
+| 204 | 485 | Leah Keesling |
+| 205 | 485 | Lylymom |
 | 206 | 484 | Suki Kaur |
 | 207 | 483 | Jordan Kaiser |
 | 208 | 482 | Eckoman518 |

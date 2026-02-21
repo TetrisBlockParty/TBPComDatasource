@@ -205,8 +205,8 @@
 | 197 | 151 | Brenda Lee Vander Molen |
 | 198 | 151 | MsBee |
 | 199 | 151 | Loopy Fallzone |
-| 200 | 150 | Valerie Gendron |
-| 201 | 150 | Nicole Myers |
+| 200 | 150 | Nicole Myers |
+| 201 | 150 | Valerie Gendron |
 | 202 | 150 | Desiree Gold |
 | 203 | 149 | Alexis Taylor |
 | 204 | 149 | Angel Mendez |

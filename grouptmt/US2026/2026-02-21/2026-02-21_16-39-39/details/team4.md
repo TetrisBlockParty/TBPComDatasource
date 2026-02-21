@@ -181,13 +181,13 @@
 | 173 | 107 | Marcus Todd |
 | 174 | 107 | Rafael Valentin |
 | 175 | 106 | Avy Absol |
-| 176 | 105 | 🥔🥔 Spudz |
+| 176 | 105 | Kristin MacDonald |
 | 177 | 105 | TheNeesh50 |
-| 178 | 105 | Kristin MacDonald |
+| 178 | 105 | 🥔🥔 Spudz |
 | 179 | 104 | Damn Libra |
-| 180 | 103 | Lauren Lamb |
-| 181 | 103 | Judy Cox |
-| 182 | 103 | April Rondinone |
+| 180 | 103 | Judy Cox |
+| 181 | 103 | April Rondinone |
+| 182 | 103 | Lauren Lamb |
 | 183 | 102 | Faja |
 | 184 | 102 | Autumn Kumzi |
 | 185 | 101 | Saulc1991 |

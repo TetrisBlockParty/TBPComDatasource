@@ -88,12 +88,12 @@
 | 80 | 210 | Ly Phethmany |
 | 81 | 205 | Trippy Redd |
 | 82 | 204 | Lexuriuos Lifestlye |
-| 83 | 201 | Anaid Sanchez |
-| 84 | 201 | Ananda Mendez |
+| 83 | 201 | Ananda Mendez |
+| 84 | 201 | Anaid Sanchez |
 | 85 | 200 | Giggly Builderline |
 | 86 | 199 | TSwag |
-| 87 | 198 | Brandi Huntington |
-| 88 | 198 | Happy Snapbuild |
+| 87 | 198 | Happy Snapbuild |
+| 88 | 198 | Brandi Huntington |
 | 89 | 197 | Cynthia Bradley |
 | 90 | 193 | Lachelle Dillon |
 | 91 | 192 | Shaykmia |
@@ -172,8 +172,8 @@
 | 164 | 119 | Tater |
 | 165 | 116 | Evie Khalil |
 | 166 | 116 | Jessica Russell |
-| 167 | 115 | Mrs.Patrica |
-| 168 | 115 | Chuck Gannon |
+| 167 | 115 | Chuck Gannon |
+| 168 | 115 | Mrs.Patrica |
 | 169 | 114 | Gilbert Ortiz Jr. |
 | 170 | 113 | Desiree Deschaine Havee |
 | 171 | 112 | Chris65 |
