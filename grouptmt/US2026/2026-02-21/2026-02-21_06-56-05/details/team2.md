@@ -251,8 +251,8 @@
 | 243 | 276 | Vonceial Boone |
 | 244 | 275 | Shiny Rollzone |
 | 245 | 275 | Ann Matzkanin |
-| 246 | 274 | Melissa Holsinger |
-| 247 | 274 | Jamie Stevey |
+| 246 | 274 | Jamie Stevey |
+| 247 | 274 | Melissa Holsinger |
 | 248 | 274 | Lonne Emade |
 | 249 | 273 | Jenna Nance |
 | 250 | 272 | August Hale |
@@ -260,7 +260,7 @@
 | 252 | 271 | Toni Lynn |
 | 253 | 270 | Angela Lynn |
 | 254 | 270 | Alexandra Weir |
-| 255 | 268 | Tanya Parsons |
+| 255 | 268 | Chummy Blockbuilder |
 | 256 | 268 | Vanessa Moreno |
 | 257 | 268 | Tanya Parsons |
 | 258 | 267 | Mindy Leigh Head |
@@ -457,7 +457,7 @@
 | 449 | 158 | Connie Lepore-Mann |
 | 450 | 158 | Caitlin Johnson |
 | 451 | 158 | Anthony Huebel |
-| 452 | 158 | Connie Lepore-Mann |
+| 452 | 158 | RaeVan Worthington |
 | 453 | 158 | Dar |
 | 454 | 158 | Michelle Shrum |
 | 455 | 158 | Ashley Cooper Tharin |
@@ -471,8 +471,8 @@
 | 463 | 157 | Ty Quarles |
 | 464 | 157 | Twisty Tetriblast |
 | 465 | 156 | RetroLemur |
-| 466 | 156 | Deanna Morton |
-| 467 | 156 | Nuggets |
+| 466 | 156 | Nuggets |
+| 467 | 156 | Deanna Morton |
 | 468 | 155 | Angela Murgia-Owen |
 | 469 | 155 | Chelle |
 | 470 | 155 | Monarca26 |
@@ -485,8 +485,8 @@
 | 477 | 152 | JP Parks |
 | 478 | 152 | Anthony Mignacca |
 | 479 | 152 | Kristin King |
-| 480 | 151 | D'Aaron Black |
-| 481 | 151 | Kia Humphery |
+| 480 | 151 | Kia Humphery |
+| 481 | 151 | D'Aaron Black |
 | 482 | 151 | Jennifer Rajek |
 | 483 | 150 | Candace Noel |
 | 484 | 150 | Jodi Mitnick |
@@ -513,8 +513,8 @@
 | 505 | 142 | Melissa Kay Gibson |
 | 506 | 141 | Erika Meaux |
 | 507 | 141 | Markisha Poyndexter |
-| 508 | 140 | Jasmine Kenney |
-| 509 | 140 | King Shamell Young |
+| 508 | 140 | King Shamell Young |
+| 509 | 140 | Jasmine Kenney |
 | 510 | 140 | Sheretta Holmes Lil'bit |
 | 511 | 140 | Preya Patel |
 | 512 | 140 | Kimberly Ann |

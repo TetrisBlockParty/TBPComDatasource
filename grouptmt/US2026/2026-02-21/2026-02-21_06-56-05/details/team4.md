@@ -125,13 +125,13 @@
 | 117 | 108 | Rio Rocha |
 | 118 | 107 | Marcus Todd |
 | 119 | 106 | Jonathan Kimbrough |
-| 120 | 105 | TheNeesh50 |
+| 120 | 105 | TinyLegoRose |
 | 121 | 105 | Sam Middleton |
-| 122 | 105 | TinyLegoRose |
+| 122 | 105 | TheNeesh50 |
 | 123 | 105 | Dihcheese444 |
 | 124 | 105 | AyeKay |
-| 125 | 104 | YoMomma |
-| 126 | 104 | Adam Randall |
+| 125 | 104 | Adam Randall |
+| 126 | 104 | YoMomma |
 | 127 | 102 | Faja |
 | 128 | 101 | Michelle Morris |
 | 129 | 101 | Stephme310 |
@@ -190,7 +190,7 @@
 | 182 | 76 | Madison Sweere |
 | 183 | 75 | Rosemary Foster |
 | 184 | 75 | Christina Black |
-| 185 | 75 | Rosemary Foster |
+| 185 | 75 | 🥔🥔 Spudz |
 | 186 | 74 | Melvin Baird |
 | 187 | 74 | Krs |
 | 188 | 73 | Rheanda Weaskus |
