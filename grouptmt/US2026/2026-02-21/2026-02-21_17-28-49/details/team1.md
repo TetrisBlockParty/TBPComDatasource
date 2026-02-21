@@ -38,8 +38,8 @@
 | 30 | 516 | comrade fish |
 | 31 | 511 | Jen Sartain |
 | 32 | 510 | Colena Davenport |
-| 33 | 508 | Michelle Nicole |
-| 34 | 508 | Lawrence Belanger |
+| 33 | 508 | Lawrence Belanger |
+| 34 | 508 | Michelle Nicole |
 | 35 | 486 | Sevens4L |
 | 36 | 483 | Ryan Lunnin |
 | 37 | 475 | Jennifer Cates |
@@ -114,15 +114,15 @@
 | 106 | 175 | Dandy Basegrid |
 | 107 | 175 | Nicole Roseberry Weber |
 | 108 | 173 | Frothy Pattern |
-| 109 | 171 | David DeSantis |
-| 110 | 171 | Greg Premoe |
+| 109 | 171 | Greg Premoe |
+| 110 | 171 | David DeSantis |
 | 111 | 169 | Abbey Crespo |
 | 112 | 168 | Standia Civil |
 | 113 | 166 | Tana |
 | 114 | 166 | Rico Rico |
 | 115 | 165 | Veronica Eve |
-| 116 | 163 | Tyler Whitley |
-| 117 | 163 | Kellie |
+| 116 | 163 | Kellie |
+| 117 | 163 | Tyler Whitley |
 | 118 | 158 | Tanya Carpenter-Reynolds |
 | 119 | 156 | Jessie Lynn |
 | 120 | 155 | Cece Ibarra |
@@ -141,8 +141,8 @@
 | 133 | 144 | Plucky Ziggy |
 | 134 | 144 | femmefatale |
 | 135 | 143 | Sarah Marie |
-| 136 | 142 | Gary Gobin |
-| 137 | 142 | Colleen Wise |
+| 136 | 142 | Colleen Wise |
+| 137 | 142 | Gary Gobin |
 | 138 | 141 | Blaire Bruckoff |
 | 139 | 140 | Miguel Teixeira |
 | 140 | 138 | Death |

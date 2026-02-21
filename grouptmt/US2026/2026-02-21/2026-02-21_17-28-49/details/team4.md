@@ -105,8 +105,8 @@
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leslie Nicole |
-| 101 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leah Kutz Zirbel |
+| 101 | 180 | Leslie Nicole |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -118,9 +118,9 @@
 | 110 | 170 | Girl |
 | 111 | 167 | Denise Carlson |
 | 112 | 164 | ThaEviLJeNiuZ |
-| 113 | 160 | Crystal Carroll |
-| 114 | 160 | ZeeZee |
-| 115 | 160 | Stacey Stano |
+| 113 | 160 | Stacey Stano |
+| 114 | 160 | Crystal Carroll |
+| 115 | 160 | ZeeZee |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |

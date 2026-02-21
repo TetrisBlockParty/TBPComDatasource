@@ -185,8 +185,8 @@
 | 177 | 175 | DanceLuvLaugh |
 | 178 | 174 | rosy |
 | 179 | 174 | Danielle Mogg |
-| 180 | 173 | Sarajane Lokan |
-| 181 | 173 | Marci Mize Fandrich |
+| 180 | 173 | Marci Mize Fandrich |
+| 181 | 173 | Sarajane Lokan |
 | 182 | 172 | Loopy Fallmatch |
 | 183 | 167 | Sashay Tapae Simpson |
 | 184 | 167 | Connie Mohler-Fair |
@@ -312,7 +312,7 @@
 | 304 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 305 | 101 | Rainbow77375 |
 | 306 | 101 | Hyper Bridger |
-| 307 | 100 | Demetrious Shaw Sr. |
+| 307 | 100 | Angela Scott |
 | 308 | 100 | Edwin Calvillo Jr. |
 | 309 | 100 | Bobbi Moore |
 | 310 | 100 | Demetrious Shaw Sr. |
