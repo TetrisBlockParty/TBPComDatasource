@@ -145,9 +145,9 @@
 | 137 | 81 | Blessedmama |
 | 138 | 80 | Melissa Adams |
 | 139 | 79 | Shainne Brewer |
-| 140 | 78 | Zesty Linkgrid |
+| 140 | 78 | Chair |
 | 141 | 78 | Jessica Miller |
-| 142 | 78 | Chair |
+| 142 | 78 | Zesty Linkgrid |
 | 143 | 77 | Chris Alexinas |
 | 144 | 76 | Bethany Ison |
 | 145 | 75 | Rosemary Foster |

@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 578 | Jennifer Willis |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Dolores Falco |
-| 31 | 546 | Snappy Glidepiece |
+| 30 | 546 | Snappy Glidepiece |
+| 31 | 546 | Dolores Falco |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -93,8 +93,8 @@
 | 85 | 200 | mjl574 |
 | 86 | 199 | joclisa |
 | 87 | 195 | Nicha Hooker |
-| 88 | 193 | Clever Shiftsnap |
-| 89 | 193 | Shunta Jacobs |
+| 88 | 193 | Shunta Jacobs |
+| 89 | 193 | Clever Shiftsnap |
 | 90 | 192 | Chasity |
 | 91 | 187 | Twisty Brick LT |
 | 92 | 187 | Speedy Bridger |
