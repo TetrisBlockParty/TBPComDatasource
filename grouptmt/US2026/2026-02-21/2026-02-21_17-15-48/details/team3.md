@@ -128,8 +128,8 @@
 | 120 | 263 | Angeline Joseph |
 | 121 | 262 | Joe-Maggie Mathews |
 | 122 | 259 | Louise Stacy Sisson |
-| 123 | 256 | Adrian Marcel Pate |
-| 124 | 256 | ren |
+| 123 | 256 | ren |
+| 124 | 256 | Adrian Marcel Pate |
 | 125 | 252 | Mcathen |
 | 126 | 252 | Nicole Flippo |
 | 127 | 251 | Crimson |
@@ -144,8 +144,8 @@
 | 136 | 222 | Jimmie Clemons |
 | 137 | 220 | Stephanie Blkpep Davidson |
 | 138 | 217 | Jess Bissett |
-| 139 | 216 | Aaron Pitkin |
-| 140 | 216 | Tom Nault |
+| 139 | 216 | Tom Nault |
+| 140 | 216 | Aaron Pitkin |
 | 141 | 214 | Amy Fuller Heaton |
 | 142 | 214 | Leah Barnett |
 | 143 | 213 | Morgan Martinez |
@@ -153,9 +153,9 @@
 | 145 | 212 | Shunta Jacobs |
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
-| 148 | 207 | Jessica |
-| 149 | 207 | Chris Bell |
-| 150 | 207 | rnr junky |
+| 148 | 207 | rnr junky |
+| 149 | 207 | Jessica |
+| 150 | 207 | Chris Bell |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 195 | Nicha Hooker |
@@ -167,8 +167,8 @@
 | 159 | 191 | Scott Carleton |
 | 160 | 191 | Giddy Twistbuilder |
 | 161 | 189 | Fallorina Susana |
-| 162 | 189 | Sissy Lowery Davis |
-| 163 | 189 | Staci George Fitzsimmons |
+| 162 | 189 | Staci George Fitzsimmons |
+| 163 | 189 | Sissy Lowery Davis |
 | 164 | 188 | Angie Harper |
 | 165 | 186 | Rebel124 |
 | 166 | 182 | Hyper Matchzone |
@@ -178,8 +178,8 @@
 | 170 | 179 | Daira Largen |
 | 171 | 179 | Ashley Jones |
 | 172 | 178 | Khaleada McGill Banks |
-| 173 | 178 | AlsoJess |
-| 174 | 178 | Ryan Williams |
+| 173 | 178 | Ryan Williams |
+| 174 | 178 | AlsoJess |
 | 175 | 176 | Nikki Pags |
 | 176 | 176 | Trisha Balmer |
 | 177 | 175 | DanceLuvLaugh |
@@ -187,8 +187,8 @@
 | 179 | 174 | Danielle Mogg |
 | 180 | 173 | Sarajane Lokan |
 | 181 | 172 | Loopy Fallmatch |
-| 182 | 167 | Sashay Tapae Simpson |
-| 183 | 167 | Raven Dudley |
+| 182 | 167 | Raven Dudley |
+| 183 | 167 | Sashay Tapae Simpson |
 | 184 | 167 | Connie Mohler-Fair |
 | 185 | 167 | Marci Mize Fandrich |
 | 186 | 166 | Beth Ingham |
@@ -208,8 +208,8 @@
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
-| 203 | 152 | Cozy Snaplink |
-| 204 | 152 | Katrina E Jelks |
+| 203 | 152 | Katrina E Jelks |
+| 204 | 152 | Cozy Snaplink |
 | 205 | 151 | MsBee |
 | 206 | 151 | Brenda Lee Vander Molen |
 | 207 | 150 | Desiree Gold |

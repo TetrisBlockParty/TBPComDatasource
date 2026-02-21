@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 511 | LisaJo Picken Buchanan |
@@ -63,8 +63,8 @@
 | 55 | 334 | KM8 |
 | 56 | 309 | Lisa Davis |
 | 57 | 308 | Jen Allison |
-| 58 | 300 | Jason Hart |
-| 59 | 300 | David Lay |
+| 58 | 300 | David Lay |
+| 59 | 300 | Jason Hart |
 | 60 | 299 | Livvy |
 | 61 | 295 | Latisha Davis |
 | 62 | 293 | HastyGrabber |
@@ -132,15 +132,15 @@
 | 124 | 147 | 030Synner |
 | 125 | 147 | Jay28 |
 | 126 | 146 | Klo |
-| 127 | 144 | Shainne Brewer |
-| 128 | 144 | Mr. Party |
+| 127 | 144 | Mr. Party |
+| 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
 | 131 | 140 | Shannon Ferrari |
 | 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
-| 134 | 136 | Tanner Lund |
-| 135 | 136 | Serena Goodridge |
+| 134 | 136 | Serena Goodridge |
+| 135 | 136 | Tanner Lund |
 | 136 | 135 | ĥuf |
 | 137 | 134 | Chirpy Basepiece |
 | 138 | 132 | Melissa Priest Sellers |
@@ -151,8 +151,8 @@
 | 143 | 131 | Angela Geist Jusinski |
 | 144 | 130 | Casey Jeffcoat |
 | 145 | 129 | John Brunetti |
-| 146 | 128 | Stephme310 |
-| 147 | 128 | Rio Rocha |
+| 146 | 128 | Rio Rocha |
+| 147 | 128 | Stephme310 |
 | 148 | 127 | Dreamy Snapgrid |
 | 149 | 126 | TinyLegoRose |
 | 150 | 126 | Dihcheese444 |

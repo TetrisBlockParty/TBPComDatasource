@@ -308,13 +308,13 @@
 | 300 | 355 | Shandrica Lowe |
 | 301 | 355 | Kristen O'Neal |
 | 302 | 354 | Lawanda Forbes |
-| 303 | 354 | Tracy Wise |
-| 304 | 354 | Brave Dropmatch |
+| 303 | 354 | Brave Dropmatch |
+| 304 | 354 | Tracy Wise |
 | 305 | 353 | Cheery Matchzone |
 | 306 | 352 | Juanita Lyons |
 | 307 | 352 | ruth |
-| 308 | 351 | Davetta Sanford |
-| 309 | 351 | Maegan Beaule |
+| 308 | 351 | Maegan Beaule |
+| 309 | 351 | Davetta Sanford |
 | 310 | 350 | Chris Harr |
 | 311 | 348 | Richard Horton |
 | 312 | 348 | Alexandra Weir |
@@ -434,13 +434,13 @@
 | 426 | 260 | Kathryn Townsley |
 | 427 | 260 | Santana Miyagi |
 | 428 | 257 | Jackie Jackie Lee |
-| 429 | 256 | Alishac Marie |
-| 430 | 256 | Quirky Twistline |
+| 429 | 256 | Quirky Twistline |
+| 430 | 256 | Alishac Marie |
 | 431 | 256 | Tee Jaleesa |
 | 432 | 255 | Snappy Shatterfit |
 | 433 | 254 | Julie Hamilton |
-| 434 | 254 | Elizabeth Diraffaele |
-| 435 | 254 | Rose Fx |
+| 434 | 254 | Rose Fx |
+| 435 | 254 | Elizabeth Diraffaele |
 | 436 | 254 | Ann Knutson Anderson |
 | 437 | 253 | Kimmy Newman |
 | 438 | 253 | Tansaria Couch-Butler |
