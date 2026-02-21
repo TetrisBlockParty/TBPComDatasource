@@ -192,8 +192,8 @@
 | 184 | 453 | Em Chen |
 | 185 | 453 | Osun Anuket Esu |
 | 186 | 452 | Alezandra Smith |
-| 187 | 450 | Cheech Dta |
-| 188 | 450 | Giggy Blocker |
+| 187 | 450 | Giggy Blocker |
+| 188 | 450 | Cheech Dta |
 | 189 | 448 | Jojo Momma |
 | 190 | 442 | Daphne Jordan |
 | 191 | 442 | Leah |
@@ -361,8 +361,8 @@
 | 353 | 264 | Dapper Dasher |
 | 354 | 264 | Giddy Gridclear |
 | 355 | 263 | Taylor Flowers |
-| 356 | 262 | Taren Cowan |
-| 357 | 262 | Min |
+| 356 | 262 | Min |
+| 357 | 262 | Taren Cowan |
 | 358 | 261 | MrsClaudette Will'sIam Matthews |
 | 359 | 260 | Ebony Deloach Bryant |
 | 360 | 260 | Denise Rickman |
@@ -384,8 +384,8 @@
 | 376 | 252 | Britt Stunkel |
 | 377 | 251 | Ann Knutson Anderson |
 | 378 | 250 | Steve Man |
-| 379 | 249 | Porsche' Nicole |
-| 380 | 249 | Nicky Jackson |
+| 379 | 249 | Nicky Jackson |
+| 380 | 249 | Porsche' Nicole |
 | 381 | 248 | Aimee Byrom |
 | 382 | 248 | Maddy Petersen |
 | 383 | 248 | Leslie Ann Carter |
@@ -458,8 +458,8 @@
 | 450 | 202 | Layna Lyons |
 | 451 | 201 | Peppy Snapfall |
 | 452 | 201 | Twisty Tetriblast |
-| 453 | 200 | Sarah Ridenour |
-| 454 | 200 | LaWanda Powell |
+| 453 | 200 | LaWanda Powell |
+| 454 | 200 | Sarah Ridenour |
 | 455 | 199 | Fi Ne |
 | 456 | 199 | Jenny Castro |
 | 457 | 199 | Jessica Sutter |

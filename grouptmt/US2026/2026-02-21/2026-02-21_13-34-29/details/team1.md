@@ -85,8 +85,8 @@
 | 77 | 193 | Lachelle Dillon |
 | 78 | 192 | Shaykmia |
 | 79 | 191 | Jazzy Framezone |
-| 80 | 190 | Sweetts |
-| 81 | 190 | Thorne Shumate |
+| 80 | 190 | Thorne Shumate |
+| 81 | 190 | Sweetts |
 | 82 | 189 | Happy Basegrid |
 | 83 | 180 | Erez Yosef |
 | 84 | 178 | Danielle Little-Daugherty |
@@ -106,8 +106,8 @@
 | 98 | 155 | Cece Ibarra |
 | 99 | 153 | Shiny Gridmatch |
 | 100 | 152 | Jacqueline Unique |
-| 101 | 149 | Tana |
-| 102 | 149 | Arianna O'Brien |
+| 101 | 149 | Arianna O'Brien |
+| 102 | 149 | Tana |
 | 103 | 148 | Shauntina Burke |
 | 104 | 147 | Veronica Eve |
 | 105 | 145 | BigWeenie69 |
@@ -240,8 +240,8 @@
 | 232 | 74 | Jo Kerley |
 | 233 | 74 | Meechie |
 | 234 | 74 | Owicked1 |
-| 235 | 73 | Mark Smith |
-| 236 | 73 | Shanae Grant |
+| 235 | 73 | Shanae Grant |
+| 236 | 73 | Mark Smith |
 | 237 | 72 | Ric Hard Hernandez |
 | 238 | 72 | Tipsy Strikerpiece |
 | 239 | 71 | Loneell Hyland |
@@ -266,7 +266,7 @@
 | 258 | 66 | Mary Love |
 | 259 | 66 | Billie Ann Eason |
 | 260 | 66 | Al Smith Jr |
-| 261 | 66 | Mary Love |
+| 261 | 66 | Dede |
 | 262 | 66 | Kimberly Garcia |
 | 263 | 65 | Sarah Henniker |
 | 264 | 65 | Gilbert Ortiz Jr. |

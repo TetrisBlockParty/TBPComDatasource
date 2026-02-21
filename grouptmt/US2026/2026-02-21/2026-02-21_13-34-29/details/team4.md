@@ -82,8 +82,8 @@
 | 74 | 185 | loulou |
 | 75 | 185 | Andy Cabral |
 | 76 | 184 | Dizzy Tiley |
-| 77 | 180 | shar |
-| 78 | 180 | Leah Kutz Zirbel |
+| 77 | 180 | Leah Kutz Zirbel |
+| 78 | 180 | shar |
 | 79 | 179 | Epic Curvetile |
 | 80 | 178 | Lori |
 | 81 | 173 | Jeff Brian Gates |
@@ -113,8 +113,8 @@
 | 105 | 139 | Robin Watters |
 | 106 | 138 | Shainne Brewer |
 | 107 | 136 | Tanner Lund |
-| 108 | 134 | Jessica Bohlken |
-| 109 | 134 | Chirpy Basepiece |
+| 108 | 134 | Chirpy Basepiece |
+| 109 | 134 | Jessica Bohlken |
 | 110 | 134 | Serena Goodridge |
 | 111 | 132 | Jessica Cagle |
 | 112 | 132 | Jenna McGeorge |
@@ -286,7 +286,7 @@
 | 278 | 64 | Daring Pivot |
 | 279 | 64 | Sarah Brown |
 | 280 | 64 | Joseph Edmonson |
-| 281 | 64 | Sarah Brown |
+| 281 | 64 | rebel4lyfe |
 | 282 | 64 | Mousey406 |
 | 283 | 63 | Cheery Risebuilder |
 | 284 | 63 | Zesty Snapmatch |
