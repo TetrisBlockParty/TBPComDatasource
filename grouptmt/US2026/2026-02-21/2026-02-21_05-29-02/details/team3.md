@@ -116,8 +116,8 @@
 | 108 | 168 | Shannon Matthew Byers |
 | 109 | 166 | Danielle Mogg |
 | 110 | 164 | rosy |
-| 111 | 159 | Jone |
-| 112 | 159 | Morgan Martinez |
+| 111 | 159 | Morgan Martinez |
+| 112 | 159 | Jone |
 | 113 | 158 | Grams |
 | 114 | 156 | Joey Banks |
 | 115 | 155 | BŘŰŤİÇŨŚ |

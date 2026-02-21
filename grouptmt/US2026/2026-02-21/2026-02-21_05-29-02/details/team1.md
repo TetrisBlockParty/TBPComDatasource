@@ -83,8 +83,8 @@
 | 75 | 144 | femmefatale |
 | 76 | 144 | Tanya Carpenter-Reynolds |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Susanna Guerry |
-| 79 | 141 | Blaire Bruckoff |
+| 78 | 141 | Blaire Bruckoff |
+| 79 | 141 | Susanna Guerry |
 | 80 | 137 | Nadine Velardo |
 | 81 | 133 | Brandi Huntington |
 | 82 | 132 | Davery Spencer Adair |
@@ -116,8 +116,8 @@
 | 108 | 104 | Bhelle Sumile |
 | 109 | 103 | Adryane Schnase |
 | 110 | 102 | Jennifer ManWarren |
-| 111 | 99 | Ty Brown |
-| 112 | 99 | Aimee Horton |
+| 111 | 99 | Aimee Horton |
+| 112 | 99 | Ty Brown |
 | 113 | 99 | Melissa Bires Hussar |
 | 114 | 96 | Melissa Lemmon |
 | 115 | 96 | Nery Martinez |
