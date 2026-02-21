@@ -86,8 +86,8 @@
 | 78 | 108 | Tavia |
 | 79 | 107 | Jodee Woods |
 | 80 | 105 | Barry Mac'Ockner |
-| 81 | 100 | Ash Galvan |
-| 82 | 100 | comrade fish |
+| 81 | 100 | comrade fish |
+| 82 | 100 | Ash Galvan |
 | 83 | 99 | Bhelle Sumile |
 | 84 | 98 | Gary Gobin |
 | 85 | 98 | Flashy Rotator |

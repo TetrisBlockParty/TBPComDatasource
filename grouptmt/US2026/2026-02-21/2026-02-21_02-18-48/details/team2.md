@@ -158,8 +158,8 @@
 | 150 | 285 | June E Hanson |
 | 151 | 284 | Brittney Jean |
 | 152 | 280 | Kimberly Schall |
-| 153 | 280 | TF Dyer |
-| 154 | 280 | Joseph Musick |
+| 153 | 280 | Joseph Musick |
+| 154 | 280 | TF Dyer |
 | 155 | 278 | Noel Tarmy |
 | 156 | 276 | Lindsey Leigh |
 | 157 | 275 | Shiny Rollzone |
@@ -322,8 +322,8 @@
 | 314 | 154 | Tiffney Wroten |
 | 315 | 154 | Bryan Werleman |
 | 316 | 152 | Alisa Lamb |
-| 317 | 151 | Marcie McLain Dodd |
-| 318 | 151 | D'Aaron Black |
+| 317 | 151 | D'Aaron Black |
+| 318 | 151 | Marcie McLain Dodd |
 | 319 | 150 | Jodi Mitnick |
 | 320 | 150 | Eddie Perez |
 | 321 | 149 | Arwa Fatimah |

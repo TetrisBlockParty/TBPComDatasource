@@ -38,8 +38,8 @@
 | 30 | 190 | Brittney Orengo |
 | 31 | 185 | loulou |
 | 32 | 174 | Jamie Mann-Deichmann |
-| 33 | 170 | Girl |
-| 34 | 170 | Leah Kutz Zirbel |
+| 33 | 170 | Leah Kutz Zirbel |
+| 34 | 170 | Girl |
 | 35 | 169 | Kimyatta Cavin |
 | 36 | 168 | Rebecca Moulton Pinciaro |
 | 37 | 168 | Anthony Magaraci |
@@ -91,9 +91,9 @@
 | 83 | 89 | Zesty Twistbuilder |
 | 84 | 88 | Heather Tushner |
 | 85 | 88 | Brandi Durig |
-| 86 | 87 | Malakai Darien Fox |
+| 86 | 87 | Lauren Lamb |
 | 87 | 87 | Jen Caldwell |
-| 88 | 87 | Lauren Lamb |
+| 88 | 87 | Malakai Darien Fox |
 | 89 | 86 | amy |
 | 90 | 85 | Mimi |
 | 91 | 85 | shark tato |
