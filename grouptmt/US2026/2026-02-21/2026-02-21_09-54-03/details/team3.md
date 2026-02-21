@@ -148,13 +148,13 @@
 | 140 | 159 | Mcathen |
 | 141 | 159 | Jone |
 | 142 | 158 | Grams |
-| 143 | 157 | Patricia Gadsden |
-| 144 | 157 | Nicholas Roddy |
+| 143 | 157 | Nicholas Roddy |
+| 144 | 157 | Patricia Gadsden |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Stephanie Whitefield |
-| 149 | 153 | Beth Ingham |
+| 148 | 153 | Beth Ingham |
+| 149 | 153 | Stephanie Whitefield |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
@@ -181,8 +181,8 @@
 | 173 | 127 | Aerian Preston |
 | 174 | 127 | Joy Petroski |
 | 175 | 126 | Brandon Givens |
-| 176 | 125 | Shimika Enay Wallace |
-| 177 | 125 | Felicia Doxey |
+| 176 | 125 | Felicia Doxey |
+| 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
 | 179 | 123 | Sarajane Lokan |
 | 180 | 123 | Kristie McFarland |

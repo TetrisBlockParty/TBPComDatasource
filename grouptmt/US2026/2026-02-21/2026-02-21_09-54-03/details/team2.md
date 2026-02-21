@@ -203,16 +203,16 @@
 | 195 | 380 | Calandra Shaya Robinson |
 | 196 | 380 | Joshua Mandel |
 | 197 | 378 | Cody Nishimura |
-| 198 | 377 | Liberty |
-| 199 | 377 | Roy Salyer |
+| 198 | 377 | Roy Salyer |
+| 199 | 377 | Liberty |
 | 200 | 364 | Shinette Dobson |
 | 201 | 363 | William Meussner |
 | 202 | 362 | AkaLefty |
 | 203 | 359 | Brainy Smurf |
 | 204 | 358 | Smashanator |
 | 205 | 357 | Shannon Byrd |
-| 206 | 356 | Deyawn Smith |
-| 207 | 356 | Alyssaaelena |
+| 206 | 356 | Alyssaaelena |
+| 207 | 356 | Deyawn Smith |
 | 208 | 354 | Tracy Wise |
 | 209 | 353 | Joseph Musick |
 | 210 | 352 | ruth |
@@ -319,8 +319,8 @@
 | 311 | 256 | CC |
 | 312 | 256 | Tee Jaleesa |
 | 313 | 255 | Santana Miyagi |
-| 314 | 254 | Elizabeth Diraffaele |
-| 315 | 254 | Rose Fx |
+| 314 | 254 | Rose Fx |
+| 315 | 254 | Elizabeth Diraffaele |
 | 316 | 254 | Julie Hamilton |
 | 317 | 253 | Tansaria Couch-Butler |
 | 318 | 252 | Matt Johnson |
@@ -367,8 +367,8 @@
 | 359 | 229 | Kimmy Newman |
 | 360 | 228 | Michelle Sager |
 | 361 | 227 | Nutty Matchline |
-| 362 | 227 | Sanaa Nounoussa |
-| 363 | 227 | JacJac |
+| 362 | 227 | JacJac |
+| 363 | 227 | Sanaa Nounoussa |
 | 364 | 227 | Demeka Dangerous-kisses Johnson |
 | 365 | 226 | Leslie Ann Carter |
 | 366 | 226 | Juliana Marques Do Nascimento Gordy |
@@ -432,9 +432,9 @@
 | 424 | 186 | Joshua Mullings |
 | 425 | 186 | Jackie Jackie Lee |
 | 426 | 185 | Jaybee Nguyen |
-| 427 | 184 | Sassy Linkbuilder |
+| 427 | 184 | Theresa Sterrett |
 | 428 | 184 | Regina Unruh |
-| 429 | 184 | Theresa Sterrett |
+| 429 | 184 | Sassy Linkbuilder |
 | 430 | 184 | Brittany Radaszewski |
 | 431 | 183 | Brenna Ann |
 | 432 | 183 | Brandon McDonald |
@@ -461,8 +461,8 @@
 | 453 | 176 | Jennifer Malloy - Cardy |
 | 454 | 176 | Trisha Gallagher |
 | 455 | 175 | Snippy Rumbler |
-| 456 | 175 | Lucero Ramirez |
-| 457 | 175 | Unica Rector |
+| 456 | 175 | Unica Rector |
+| 457 | 175 | Lucero Ramirez |
 | 458 | 175 | Tina Blessed Cage |
 | 459 | 175 | Shandrica Lowe |
 | 460 | 174 | Jason Garnatz |
