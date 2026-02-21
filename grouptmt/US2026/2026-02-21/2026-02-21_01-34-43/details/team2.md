@@ -84,8 +84,8 @@
 | 76 | 465 | Tommy Tha Boss Gunz |
 | 77 | 456 | Lisa Ongtowasruk |
 | 78 | 451 | Sam McKenzie |
-| 79 | 448 | Nick Jensen |
-| 80 | 448 | Jojo Momma |
+| 79 | 448 | Jojo Momma |
+| 80 | 448 | Nick Jensen |
 | 81 | 440 | Mari Ac |
 | 82 | 431 | Slip |
 | 83 | 428 | tejas25 |
@@ -229,8 +229,8 @@
 | 221 | 198 | Alyssa Dean |
 | 222 | 197 | Smashanator |
 | 223 | 196 | Alexandra Reese |
-| 224 | 194 | Kimberly Ann |
-| 225 | 194 | Mike Aprilliano |
+| 224 | 194 | Mike Aprilliano |
+| 225 | 194 | Kimberly Ann |
 | 226 | 193 | Nika Bee |
 | 227 | 191 | Sho Nuff |
 | 228 | 191 | Rebecca Doughman |

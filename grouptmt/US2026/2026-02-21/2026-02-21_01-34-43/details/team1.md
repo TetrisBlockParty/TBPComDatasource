@@ -82,8 +82,8 @@
 | 74 | 98 | Flashy Rotator |
 | 75 | 96 | Nery Martinez |
 | 76 | 95 | Jodee Woods |
-| 77 | 94 | Bindi |
-| 78 | 94 | Bhelle Sumile |
+| 77 | 94 | Bhelle Sumile |
+| 78 | 94 | Bindi |
 | 79 | 93 | Ty Brown |
 | 80 | 93 | Adryane Schnase |
 | 81 | 91 | Melissa Lemmon |
@@ -110,8 +110,8 @@
 | 102 | 75 | Tyler L Hunt |
 | 103 | 75 | Fresno Beotoni |
 | 104 | 74 | Grace Joanne Agnant |
-| 105 | 73 | Loony Fitzone |
-| 106 | 73 | Witty Builderfit |
+| 105 | 73 | Witty Builderfit |
+| 106 | 73 | Loony Fitzone |
 | 107 | 72 | Tipsy Strikerpiece |
 | 108 | 71 | John Kim |
 | 109 | 69 | Christina Torres |
