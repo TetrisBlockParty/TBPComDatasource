@@ -264,8 +264,8 @@
 | 256 | 256 | Em Chen |
 | 257 | 255 | Santana Miyagi |
 | 258 | 254 | Julie Hamilton |
-| 259 | 252 | Matt Johnson |
-| 260 | 252 | Alezandra Smith |
+| 259 | 252 | Alezandra Smith |
+| 260 | 252 | Matt Johnson |
 | 261 | 251 | Ann Knutson Anderson |
 | 262 | 250 | Barbra Miller |
 | 263 | 250 | Andea Beck |

@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Annie Déè |
-| 62 | 342 | Trezure Gonzalez |
+| 61 | 342 | Trezure Gonzalez |
+| 62 | 342 | Annie Déè |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -101,10 +101,10 @@
 | 93 | 202 | Shannon Matthew Byers |
 | 94 | 200 | Twisty Brick LT |
 | 95 | 199 | joclisa |
-| 96 | 195 | Nicha Hooker |
-| 97 | 195 | Jenny Hrndz |
-| 98 | 193 | Shunta Jacobs |
-| 99 | 193 | Clever Shiftsnap |
+| 96 | 195 | Jenny Hrndz |
+| 97 | 195 | Nicha Hooker |
+| 98 | 193 | Clever Shiftsnap |
+| 99 | 193 | Shunta Jacobs |
 | 100 | 192 | Chasity |
 | 101 | 187 | Speedy Bridger |
 | 102 | 184 | Jennie Beranek |
@@ -117,8 +117,8 @@
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Jone |
-| 113 | 159 | Morgan Martinez |
+| 112 | 159 | Morgan Martinez |
+| 113 | 159 | Jone |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
@@ -221,7 +221,7 @@
 | 213 | 92 | Jennifer Caputo |
 | 214 | 90 | Nichole Greene |
 | 215 | 90 | Rebel124 |
-| 216 | 90 | Nichole Greene |
+| 216 | 90 | Tiffany Kaupang |
 | 217 | 89 | Shicken Nuggit |
 | 218 | 88 | Martin Bernier |
 | 219 | 88 | Ava Petito |
