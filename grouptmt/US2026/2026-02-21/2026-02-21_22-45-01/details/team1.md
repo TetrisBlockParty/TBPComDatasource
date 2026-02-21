@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -126,8 +126,8 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | Giggly Builderline |
-| 122 | 203 | GATOR |
+| 121 | 203 | GATOR |
+| 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
@@ -158,7 +158,7 @@
 | 150 | 166 | Katie Daniels |
 | 151 | 166 | Rico Rico |
 | 152 | 165 | Nadine Velardo |
-| 153 | 163 | Shiny Gridmatch |
+| 153 | 163 | Tanya Carpenter-Reynolds |
 | 154 | 163 | Tyler Whitley |
 | 155 | 163 | Shiny Gridmatch |
 | 156 | 161 | Jessie Lynn |

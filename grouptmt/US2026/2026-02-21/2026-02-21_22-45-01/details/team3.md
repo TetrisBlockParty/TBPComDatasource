@@ -137,8 +137,8 @@
 | 129 | 323 | Ashley Raines |
 | 130 | 320 | Or Reznitsky |
 | 131 | 309 | Rich LeBlanc |
-| 132 | 307 | Peggi Charon |
-| 133 | 307 | Blocked |
+| 132 | 307 | Blocked |
+| 133 | 307 | Peggi Charon |
 | 134 | 300 | Sherika C. McDaniels |
 | 135 | 293 | Poppy Splitter |
 | 136 | 287 | Logan Naccarato |
@@ -184,8 +184,8 @@
 | 176 | 219 | Rebecca Bailey |
 | 177 | 218 | LaNette Morgan |
 | 178 | 217 | Jess Bissett |
-| 179 | 214 | Amy Fuller Heaton |
-| 180 | 214 | Jenny Hrndz |
+| 179 | 214 | Jenny Hrndz |
+| 180 | 214 | Amy Fuller Heaton |
 | 181 | 212 | Krystal Gerstberger |
 | 182 | 211 | Katrina Turner |
 | 183 | 211 | Khaleada McGill Banks |
@@ -203,9 +203,9 @@
 | 195 | 198 | Rebecca Funderburk Kirby |
 | 196 | 197 | Staci George Fitzsimmons |
 | 197 | 195 | Nicha Hooker |
-| 198 | 193 | Stephanie Burtin |
-| 199 | 193 | Clever Shiftsnap |
-| 200 | 193 | Angie Harper |
+| 198 | 193 | Clever Shiftsnap |
+| 199 | 193 | Angie Harper |
+| 200 | 193 | Stephanie Burtin |
 | 201 | 192 | Kelly Ann Child |
 | 202 | 191 | Brenda Lee Vander Molen |
 | 203 | 191 | Giddy Twistbuilder |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Hyper Matchzone |
-| 214 | 182 | Raven Dudley |
+| 213 | 182 | Raven Dudley |
+| 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | DanceLuvLaugh |

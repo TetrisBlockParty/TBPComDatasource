@@ -71,8 +71,8 @@
 | 63 | 395 | Christine Marie |
 | 64 | 390 | Carlton Unfiltered |
 | 65 | 388 | YoMomma |
-| 66 | 376 | quicksand420 |
-| 67 | 376 | Marie-Pier Desjardins |
+| 66 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | quicksand420 |
 | 68 | 373 | Joseph Guthrie |
 | 69 | 370 | Leslie Thomas |
 | 70 | 369 | Nope Young |
@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Autum Leigh |
-| 102 | 230 | Lucas J Sutton |
+| 101 | 230 | Lucas J Sutton |
+| 102 | 230 | Autum Leigh |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Twisty Cascadezone |
-| 112 | 208 | Chastity Mitchell |
+| 111 | 208 | Chastity Mitchell |
+| 112 | 208 | Twisty Cascadezone |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |
@@ -231,8 +231,8 @@
 | 223 | 113 | Adam Randall |
 | 224 | 112 | rebel4lyfe |
 | 225 | 112 | Jeremy Steines |
-| 226 | 111 | Lazy Blocker |
-| 227 | 111 | Kristin MacDonald |
+| 226 | 111 | Kristin MacDonald |
+| 227 | 111 | Lazy Blocker |
 | 228 | 110 | Zach Kerbs |
 | 229 | 109 | LS |
 | 230 | 109 | Ak Jones |

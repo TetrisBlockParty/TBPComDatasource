@@ -138,8 +138,8 @@
 | 130 | 881 | Tanya Parsons |
 | 131 | 875 | Kelly Trent |
 | 132 | 869 | Desiree Harris Rosch |
-| 133 | 867 | Rosa Franklin |
-| 134 | 867 | Michele Gabriel |
+| 133 | 867 | Michele Gabriel |
+| 134 | 867 | Rosa Franklin |
 | 135 | 861 | Jennifer Peachey |
 | 136 | 849 | Jennifer Kistner |
 | 137 | 845 | April Dawn Gussler |
