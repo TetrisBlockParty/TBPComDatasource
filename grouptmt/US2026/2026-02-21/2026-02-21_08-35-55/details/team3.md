@@ -208,8 +208,8 @@
 | 200 | 108 | LaTanya GeminiondaRise Johnson |
 | 201 | 108 | Rachel Napper |
 | 202 | 107 | Sherry Ogden |
-| 203 | 106 | Eon Harris |
-| 204 | 106 | Desiree Gold |
+| 203 | 106 | Desiree Gold |
+| 204 | 106 | Eon Harris |
 | 205 | 105 | Carol Cain Thurman |
 | 206 | 105 | Stephanie Whitefield |
 | 207 | 105 | Emi |
@@ -252,8 +252,8 @@
 | 244 | 94 | Angie Harper |
 | 245 | 93 | Tiffany Ford |
 | 246 | 92 | Trice Thomas |
-| 247 | 92 | Ava Petito |
-| 248 | 92 | Jennifer Caputo |
+| 247 | 92 | Jennifer Caputo |
+| 248 | 92 | Ava Petito |
 | 249 | 91 | Martin Bernier |
 | 250 | 90 | Nichole Greene |
 | 251 | 90 | Rebel124 |

@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -143,8 +143,8 @@
 | 135 | 105 | TheNeesh50 |
 | 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | YoMomma |
-| 139 | 104 | Damn Libra |
+| 138 | 104 | Damn Libra |
+| 139 | 104 | YoMomma |
 | 140 | 102 | Faja |
 | 141 | 101 | Michelle Morris |
 | 142 | 101 | Saulc1991 |
@@ -154,8 +154,8 @@
 | 146 | 98 | Chaz |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
-| 149 | 95 | Meagan Nicole |
-| 150 | 95 | Victoria Faniel |
+| 149 | 95 | Victoria Faniel |
+| 150 | 95 | Meagan Nicole |
 | 151 | 93 | Zesty Twistbuilder |
 | 152 | 92 | Kristin MacDonald |
 | 153 | 90 | Judy Cox |
@@ -298,8 +298,8 @@
 | 290 | 54 | Sam Bishop |
 | 291 | 53 | Allison Judith |
 | 292 | 53 | Poppy Brickmatch |
-| 293 | 52 | Nerdy Twisterfit |
-| 294 | 52 | Chassidy Martin |
+| 293 | 52 | Chassidy Martin |
+| 294 | 52 | Nerdy Twisterfit |
 | 295 | 52 | Nicole Silvers |
 | 296 | 51 | Frank Cook |
 | 297 | 51 | George Nutt |

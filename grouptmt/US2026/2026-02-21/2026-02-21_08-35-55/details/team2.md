@@ -340,8 +340,8 @@
 | 332 | 240 | Johnny Yeates |
 | 333 | 240 | Adam Erikson |
 | 334 | 238 | Cheery Matchzone |
-| 335 | 236 | Frisky Riserbuilder |
-| 336 | 236 | snkylnk |
+| 335 | 236 | snkylnk |
+| 336 | 236 | Frisky Riserbuilder |
 | 337 | 236 | Julio A Laracuente |
 | 338 | 235 | Kimberly Mitchell |
 | 339 | 234 | Manny Trindade |
@@ -365,8 +365,8 @@
 | 357 | 223 | Kristi Biddinger |
 | 358 | 220 | Katrina Weston |
 | 359 | 219 | Ashle Scranton |
-| 360 | 217 | Angelina Marie |
-| 361 | 217 | 赵珞涵 |
+| 360 | 217 | 赵珞涵 |
+| 361 | 217 | Angelina Marie |
 | 362 | 216 | Tum |
 | 363 | 215 | Jordan Petro |
 | 364 | 215 | Ashlyn Berner |
@@ -450,8 +450,8 @@
 | 442 | 176 | Jennifer Malloy - Cardy |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Shandrica Lowe |
-| 446 | 175 | Tina Blessed Cage |
+| 445 | 175 | Tina Blessed Cage |
+| 446 | 175 | Shandrica Lowe |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | kippykay |
@@ -466,8 +466,8 @@
 | 458 | 169 | Lively Catcher |
 | 459 | 168 | Phil J. Grombliniak |
 | 460 | 168 | Kati Russeau |
-| 461 | 167 | mshir |
-| 462 | 167 | Sabrena Yeisley |
+| 461 | 167 | Sabrena Yeisley |
+| 462 | 167 | mshir |
 | 463 | 166 | suuny |
 | 464 | 165 | Catherine Varea |
 | 465 | 165 | Cathy Bitters |
@@ -476,8 +476,8 @@
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Danielle Ayoub |
 | 470 | 163 | Albert McKnight |
-| 471 | 162 | Michael Artis |
-| 472 | 162 | LC Hamilton |
+| 471 | 162 | LC Hamilton |
+| 472 | 162 | Michael Artis |
 | 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
