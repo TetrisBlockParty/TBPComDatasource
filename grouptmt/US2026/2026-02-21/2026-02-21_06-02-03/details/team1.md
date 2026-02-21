@@ -173,8 +173,8 @@
 | 165 | 74 | Owicked1 |
 | 166 | 74 | Grace Joanne Agnant |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | Tipsy Strikerpiece |
-| 169 | 72 | John J. Cronin |
+| 168 | 72 | John J. Cronin |
+| 169 | 72 | Tipsy Strikerpiece |
 | 170 | 71 | John Kim |
 | 171 | 70 | Seth Wesson |
 | 172 | 70 | Kenton Billings |

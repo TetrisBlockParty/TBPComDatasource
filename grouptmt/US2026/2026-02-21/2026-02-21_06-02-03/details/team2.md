@@ -89,8 +89,8 @@
 | 81 | 658 | Vistabrat |
 | 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Anna Edwards |
-| 85 | 649 | Stephanie Chapman |
+| 84 | 649 | Stephanie Chapman |
+| 85 | 649 | Anna Edwards |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 608 | John Bednarik |
 | 88 | 601 | Nancy Reid |
@@ -106,8 +106,8 @@
 | 98 | 562 | Linda Pierce |
 | 99 | 542 | Rosa Franklin |
 | 100 | 541 | SaraMarie Eveland |
-| 101 | 540 | Thomas Hedrick |
-| 102 | 540 | Charvi' Carter |
+| 101 | 540 | Charvi' Carter |
+| 102 | 540 | Thomas Hedrick |
 | 103 | 534 | Poppy Snapper |
 | 104 | 531 | Chris Wanner |
 | 105 | 529 | Tonya Morgan |
@@ -356,8 +356,8 @@
 | 348 | 194 | Mike Aprilliano |
 | 349 | 194 | Kimberly Ann |
 | 350 | 194 | Hoppy Brickmatch |
-| 351 | 193 | Matthew Turner |
-| 352 | 193 | Kelly Ann McCormick |
+| 351 | 193 | Kelly Ann McCormick |
+| 352 | 193 | Matthew Turner |
 | 353 | 193 | Nika Bee |
 | 354 | 191 | John Quiring |
 | 355 | 191 | Sho Nuff |
@@ -367,8 +367,8 @@
 | 359 | 190 | blarg |
 | 360 | 188 | Justin Hines |
 | 361 | 188 | Seth Wrieden |
-| 362 | 187 | Stefanie Zonzini-Gagliardi |
-| 363 | 187 | Shelley Thornburgh Wright |
+| 362 | 187 | Shelley Thornburgh Wright |
+| 363 | 187 | Stefanie Zonzini-Gagliardi |
 | 364 | 187 | Demeka Dangerous-kisses Johnson |
 | 365 | 186 | Jackie Jackie Lee |
 | 366 | 186 | Joshua Mullings |
@@ -409,10 +409,10 @@
 | 401 | 170 | Darlene Bowman |
 | 402 | 170 | Dedra Steward |
 | 403 | 170 | Kenya Felix |
-| 404 | 169 | Eddie Perez |
-| 405 | 169 | Lively Catcher |
-| 406 | 169 | William Hunt |
-| 407 | 169 | Hyper Cluster |
+| 404 | 169 | William Hunt |
+| 405 | 169 | Hyper Cluster |
+| 406 | 169 | Lively Catcher |
+| 407 | 169 | Eddie Perez |
 | 408 | 169 | Fi Ne |
 | 409 | 168 | HarleyJane |
 | 410 | 168 | Kati Russeau |
@@ -502,8 +502,8 @@
 | 494 | 139 | Octavio Garza |
 | 495 | 138 | Gursharan Sandhu |
 | 496 | 138 | Iris Angelica Perez Cantos |
-| 497 | 136 | Ericka Marie Smith |
-| 498 | 136 | Brandy |
+| 497 | 136 | Brandy |
+| 498 | 136 | Ericka Marie Smith |
 | 499 | 136 | Britney M. |
 | 500 | 136 | Dolores Russworn |
 | 501 | 135 | Robin L. Vial |
@@ -543,8 +543,8 @@
 | 535 | 129 | Laura Costello |
 | 536 | 129 | snaps |
 | 537 | 129 | Tiny |
-| 538 | 128 | Carrie Pike |
-| 539 | 128 | Amanda Diegel |
+| 538 | 128 | Amanda Diegel |
+| 539 | 128 | Carrie Pike |
 | 540 | 128 | Leslie |
 | 541 | 127 | Ellie Jonas |
 | 542 | 127 | Lively Brickfit |
@@ -817,8 +817,8 @@
 | 809 | 88 | kickstante |
 | 810 | 88 | Ebony Deloach Bryant |
 | 811 | 88 | Lorie Richardson |
-| 812 | 88 | NinaTheVillain |
-| 813 | 88 | Kiana Serrao |
+| 812 | 88 | Kiana Serrao |
+| 813 | 88 | NinaTheVillain |
 | 814 | 88 | Ilse Chaparro |
 | 815 | 87 | Alexus Lay |
 | 816 | 87 | Emilie Desma |

@@ -45,8 +45,8 @@
 | 37 | 256 | Dustin Robert |
 | 38 | 256 | Brittney Griggs |
 | 39 | 244 | Isabella Blanco |
-| 40 | 231 | Michelle Marie |
-| 41 | 231 | Jenna Ingersoll |
+| 40 | 231 | Jenna Ingersoll |
+| 41 | 231 | Michelle Marie |
 | 42 | 226 | Breannah Grafe |
 | 43 | 220 | Julian Garcia |
 | 44 | 207 | Alyssa Papen |
@@ -71,8 +71,8 @@
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 151 | BertMofo |
-| 66 | 150 | Clarence Patawaran |
-| 67 | 150 | ZeeZee |
+| 66 | 150 | ZeeZee |
+| 67 | 150 | Clarence Patawaran |
 | 68 | 147 | Jay28 |
 | 69 | 146 | Peachy Fall |
 | 70 | 145 | Edward White |
