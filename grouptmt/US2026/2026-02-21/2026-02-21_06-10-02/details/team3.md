@@ -36,11 +36,11 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Suzieq |
-| 32 | 587 | Danielle Becker |
+| 31 | 587 | Danielle Becker |
+| 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
-| 34 | 546 | Dolores Falco |
-| 35 | 546 | Snappy Glidepiece |
+| 34 | 546 | Snappy Glidepiece |
+| 35 | 546 | Dolores Falco |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |
@@ -57,8 +57,8 @@
 | 49 | 387 | Nerdy Spinblock |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
-| 52 | 372 | Rachel Bowers |
-| 53 | 372 | Patty Allen |
+| 52 | 372 | Patty Allen |
+| 53 | 372 | Rachel Bowers |
 | 54 | 371 | Jesse Olive |
 | 55 | 370 | yoyo |
 | 56 | 367 | Tetris Master |

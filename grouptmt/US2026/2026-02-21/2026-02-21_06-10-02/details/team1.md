@@ -43,8 +43,8 @@
 | 35 | 244 | Franswa |
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
-| 38 | 212 | Tdub |
-| 39 | 212 | Jaimie Lynn |
+| 38 | 212 | Jaimie Lynn |
+| 39 | 212 | Tdub |
 | 40 | 211 | Deanna L Hermanson |
 | 41 | 208 | Carrie Beck Geartz |
 | 42 | 206 | Elaine Elaine |
@@ -54,8 +54,8 @@
 | 46 | 201 | Ananda Mendez |
 | 47 | 201 | Anaid Sanchez |
 | 48 | 200 | Lexuriuos Lifestlye |
-| 49 | 198 | Happy Snapbuild |
-| 50 | 198 | Billie Dawn Sparks |
+| 49 | 198 | Billie Dawn Sparks |
+| 50 | 198 | Happy Snapbuild |
 | 51 | 197 | Cynthia Bradley |
 | 52 | 196 | Felicia Lewis |
 | 53 | 194 | Sharon Reynolds |
@@ -93,8 +93,8 @@
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
 | 87 | 132 | Davery Spencer Adair |
-| 88 | 130 | Trina Gee |
-| 89 | 130 | Dandy Basegrid |
+| 88 | 130 | Dandy Basegrid |
+| 89 | 130 | Trina Gee |
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
@@ -111,8 +111,8 @@
 | 103 | 112 | Nicole Roseberry Weber |
 | 104 | 112 | Kristen Gideon |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Heidi Feurer |
-| 107 | 110 | Garcia Bailey |
+| 106 | 110 | Garcia Bailey |
+| 107 | 110 | Heidi Feurer |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |

@@ -86,8 +86,8 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Vistabrat |
-| 82 | 658 | Pacynthia Williams |
+| 81 | 658 | Pacynthia Williams |
+| 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
 | 84 | 649 | Stephanie Chapman |
 | 85 | 649 | Anna Edwards |
@@ -266,8 +266,8 @@
 | 258 | 256 | Tee Jaleesa |
 | 259 | 255 | Santana Miyagi |
 | 260 | 254 | Julie Hamilton |
-| 261 | 252 | Alezandra Smith |
-| 262 | 252 | Matt Johnson |
+| 261 | 252 | Matt Johnson |
+| 262 | 252 | Alezandra Smith |
 | 263 | 251 | Ann Knutson Anderson |
 | 264 | 250 | Shorty |
 | 265 | 250 | Barbra Miller |
@@ -388,13 +388,13 @@
 | 380 | 180 | Jackie Lucas |
 | 381 | 180 | Peter Palestino |
 | 382 | 179 | Desiree Harris Rosch |
-| 383 | 179 | Cat |
-| 384 | 179 | Bette Prieto |
+| 383 | 179 | Bette Prieto |
+| 384 | 179 | Cat |
 | 385 | 177 | Kristi Biddinger |
 | 386 | 177 | Facuetoo |
 | 387 | 177 | John |
-| 388 | 177 | Angel |
-| 389 | 177 | Ryan Meilleur |
+| 388 | 177 | Ryan Meilleur |
+| 389 | 177 | Angel |
 | 390 | 176 | Nancy Pohlman |
 | 391 | 176 | Trisha Gallagher |
 | 392 | 176 | Jessica Kaye DeAguero |
@@ -422,8 +422,8 @@
 | 414 | 167 | Sabrena Yeisley |
 | 415 | 165 | Austin Wilson |
 | 416 | 165 | Cathy Bitters |
-| 417 | 164 | mshir |
-| 418 | 164 | Jessica Vega |
+| 417 | 164 | Jessica Vega |
+| 418 | 164 | mshir |
 | 419 | 164 | Sara Pennington |
 | 420 | 163 | Albert McKnight |
 | 421 | 163 | Danielle Ayoub |

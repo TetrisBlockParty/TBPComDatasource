@@ -42,8 +42,8 @@
 | 34 | 277 | KJ Pool |
 | 35 | 274 | Elizabeth Sallas |
 | 36 | 265 | Livvy |
-| 37 | 256 | Brittney Griggs |
-| 38 | 256 | Dustin Robert |
+| 37 | 256 | Dustin Robert |
+| 38 | 256 | Brittney Griggs |
 | 39 | 244 | Isabella Blanco |
 | 40 | 231 | Michelle Marie |
 | 41 | 231 | Jenna Ingersoll |
@@ -90,8 +90,8 @@
 | 82 | 131 | Mr. Party |
 | 83 | 130 | Casey Jeffcoat |
 | 84 | 130 | Lucas J Sutton |
-| 85 | 129 | Landon Keith Graffeo |
-| 86 | 129 | John Brunetti |
+| 85 | 129 | John Brunetti |
+| 86 | 129 | Landon Keith Graffeo |
 | 87 | 126 | Tanner Lund |
 | 88 | 125 | Lauren Scott |
 | 89 | 123 | Bubbly Puzzler |
