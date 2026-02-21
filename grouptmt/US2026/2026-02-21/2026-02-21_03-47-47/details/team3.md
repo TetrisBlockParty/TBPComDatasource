@@ -137,9 +137,9 @@
 | 129 | 118 | Fancy Curver |
 | 130 | 116 | Josiah Fam |
 | 131 | 116 | Joy Petroski |
-| 132 | 115 | Sarajane Lokan |
-| 133 | 115 | Jennifer Alvey |
-| 134 | 115 | Connie Mohler-Fair |
+| 132 | 115 | Jennifer Alvey |
+| 133 | 115 | Connie Mohler-Fair |
+| 134 | 115 | Sarajane Lokan |
 | 135 | 114 | Jessica Bechler |
 | 136 | 112 | Juliana Dottore |
 | 137 | 111 | Beth Ingham |
