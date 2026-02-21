@@ -92,8 +92,8 @@
 | 84 | 674 | Dannette Goldberg-Richards |
 | 85 | 672 | Wendy Harder Gage |
 | 86 | 665 | Dineisha Carpenter |
-| 87 | 658 | Vistabrat |
-| 88 | 658 | Pacynthia Williams |
+| 87 | 658 | Pacynthia Williams |
+| 88 | 658 | Vistabrat |
 | 89 | 653 | Becky Weeks-Garry |
 | 90 | 649 | Anna Edwards |
 | 91 | 649 | Stephanie Chapman |
@@ -199,8 +199,8 @@
 | 191 | 345 | Brenda Messer |
 | 192 | 345 | Rhianna DiLorenzo |
 | 193 | 345 | Wuntayk |
-| 194 | 344 | Julie Kresal |
-| 195 | 344 | Christina Lewis-Vickers |
+| 194 | 344 | Christina Lewis-Vickers |
+| 195 | 344 | Julie Kresal |
 | 196 | 344 | Brave Dropmatch |
 | 197 | 344 | Kiok |
 | 198 | 344 | Cody Nishimura |

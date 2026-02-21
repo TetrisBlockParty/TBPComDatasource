@@ -52,15 +52,15 @@
 | 44 | 243 | Sarah Roberts |
 | 45 | 241 | Kristen Roles Robben |
 | 46 | 212 | Tdub |
-| 47 | 212 | Jaimie Lynn |
-| 48 | 212 | Elaine Elaine |
+| 47 | 212 | Elaine Elaine |
+| 48 | 212 | Jaimie Lynn |
 | 49 | 211 | Deanna L Hermanson |
 | 50 | 208 | Carrie Beck Geartz |
 | 51 | 205 | Trippy Redd |
 | 52 | 204 | Ly Phethmany |
 | 53 | 202 | Dee Perry |
-| 54 | 201 | Ananda Mendez |
-| 55 | 201 | Anaid Sanchez |
+| 54 | 201 | Anaid Sanchez |
+| 55 | 201 | Ananda Mendez |
 | 56 | 200 | Lexuriuos Lifestlye |
 | 57 | 200 | Rachael |
 | 58 | 198 | Happy Snapbuild |
@@ -156,8 +156,8 @@
 | 148 | 90 | Dizzy Party |
 | 149 | 89 | Mara Hilker |
 | 150 | 87 | Jessi Sauer |
-| 151 | 86 | Desiree Deschaine Havee |
-| 152 | 86 | Basment Living |
+| 151 | 86 | Basment Living |
+| 152 | 86 | Desiree Deschaine Havee |
 | 153 | 85 | Steve Schneider |
 | 154 | 84 | Speedy Snapfall |
 | 155 | 84 | Yvonne Marie |
@@ -180,7 +180,7 @@
 | 172 | 79 | Tyler Whitley |
 | 173 | 79 | Christina Torres |
 | 174 | 79 | Chris65 |
-| 175 | 79 | Tyler Whitley |
+| 175 | 79 | Cheeky Pop |
 | 176 | 78 | Sam Williams |
 | 177 | 78 | Kerry Lee Powell |
 | 178 | 77 | John J. Cronin |

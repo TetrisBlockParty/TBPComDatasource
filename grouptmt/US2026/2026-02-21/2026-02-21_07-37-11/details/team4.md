@@ -123,11 +123,11 @@
 | 115 | 116 | Diana Houts |
 | 116 | 115 | Ultramarine |
 | 117 | 113 | Andria Lynn |
-| 118 | 112 | Bryan Hodgins |
-| 119 | 112 | Brittany Marsh |
+| 118 | 112 | Brittany Marsh |
+| 119 | 112 | Bryan Hodgins |
 | 120 | 112 | Austin Owens |
-| 121 | 111 | Gwendolyn Pitcairn |
-| 122 | 111 | Lazy Blocker |
+| 121 | 111 | Lazy Blocker |
+| 122 | 111 | Gwendolyn Pitcairn |
 | 123 | 110 | H.R. Block |
 | 124 | 108 | Rio Rocha |
 | 125 | 107 | Marcus Todd |
@@ -147,8 +147,8 @@
 | 139 | 101 | Saulc1991 |
 | 140 | 100 | Alexandra Karavias |
 | 141 | 100 | Megan Cutshaw |
-| 142 | 98 | Chaz |
-| 143 | 98 | Duck |
+| 142 | 98 | Duck |
+| 143 | 98 | Chaz |
 | 144 | 98 | Allen Lloyd |
 | 145 | 97 | Brandi Durig |
 | 146 | 96 | Zappy Snaplink |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Christina Black |
-| 194 | 75 | Rosemary Foster |
+| 193 | 75 | Rosemary Foster |
+| 194 | 75 | Christina Black |
 | 195 | 74 | Krs |
 | 196 | 73 | April Rondinone |
 | 197 | 73 | Rheanda Weaskus |
@@ -301,10 +301,10 @@
 | 293 | 50 | Mike |
 | 294 | 50 | Smiley Linkgrid |
 | 295 | 50 | Sarah Brown |
-| 296 | 49 | Rae Henderson |
-| 297 | 49 | Jessica Graham |
-| 298 | 49 | Lakesha Johnson |
-| 299 | 49 | Snappy Combofall |
+| 296 | 49 | Jessica Graham |
+| 297 | 49 | Rae Henderson |
+| 298 | 49 | Snappy Combofall |
+| 299 | 49 | Lakesha Johnson |
 | 300 | 48 | Porkobello |
 | 301 | 48 | Anthony Bryan Riva |
 | 302 | 48 | Oleg Zakharskiy |

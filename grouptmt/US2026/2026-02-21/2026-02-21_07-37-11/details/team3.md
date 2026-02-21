@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 613 | Amber Hughes |
@@ -130,8 +130,8 @@
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Kelly Ann Child |
-| 126 | 166 | Danielle Mogg |
+| 125 | 166 | Danielle Mogg |
+| 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
 | 129 | 159 | Morgan Martinez |
@@ -151,8 +151,8 @@
 | 143 | 149 | Trisha Balmer |
 | 144 | 149 | Bea Miles |
 | 145 | 147 | Sashay Tapae Simpson |
-| 146 | 146 | Latoya Mayne |
-| 147 | 146 | Denita Mungro |
+| 146 | 146 | Denita Mungro |
+| 147 | 146 | Latoya Mayne |
 | 148 | 142 | Erica Anderson |
 | 149 | 140 | Jay Horn |
 | 150 | 140 | Gumbo |
