@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -130,16 +130,16 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Ashley Tookes |
-| 126 | 182 | Hyper Matchzone |
-| 127 | 180 | Fallorina Susana |
-| 128 | 180 | Tessina Dewey-Mancino |
+| 125 | 182 | Hyper Matchzone |
+| 126 | 182 | Ashley Tookes |
+| 127 | 180 | Tessina Dewey-Mancino |
+| 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Danielle Mogg |
-| 134 | 166 | Kelly Ann Child |
+| 133 | 166 | Kelly Ann Child |
+| 134 | 166 | Danielle Mogg |
 | 135 | 165 | Kali Kelz Williams |
 | 136 | 164 | rosy |
 | 137 | 163 | Karon Griffin |
@@ -285,8 +285,8 @@
 | 277 | 85 | Chris Bell |
 | 278 | 85 | Crystel b520 |
 | 279 | 84 | Spunky Racker |
-| 280 | 84 | Flashy Rumbler |
-| 281 | 84 | gremicx |
+| 280 | 84 | gremicx |
+| 281 | 84 | Flashy Rumbler |
 | 282 | 83 | Deseree Ewing |
 | 283 | 82 | Rebecca Funderburk Kirby |
 | 284 | 81 | Tina Baurdau |
