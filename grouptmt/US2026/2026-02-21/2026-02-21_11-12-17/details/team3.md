@@ -147,9 +147,9 @@
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
-| 142 | 159 | Jone |
+| 142 | 159 | Mcathen |
 | 143 | 159 | Morgan Martinez |
-| 144 | 159 | Mcathen |
+| 144 | 159 | Jone |
 | 145 | 158 | Grams |
 | 146 | 157 | Nicholas Roddy |
 | 147 | 157 | Rebel124 |
@@ -184,8 +184,8 @@
 | 176 | 127 | Joy Petroski |
 | 177 | 127 | Marquita Sheard |
 | 178 | 126 | Brandon Givens |
-| 179 | 125 | Felicia Doxey |
-| 180 | 125 | Shimika Enay Wallace |
+| 179 | 125 | Shimika Enay Wallace |
+| 180 | 125 | Felicia Doxey |
 | 181 | 124 | Cesar Barraza |
 | 182 | 123 | Sarajane Lokan |
 | 183 | 123 | Terry Jo Jones |
@@ -283,9 +283,9 @@
 | 275 | 87 | Kellie Montgomery |
 | 276 | 87 | Boldy Blocker |
 | 277 | 87 | FATTY |
-| 278 | 86 | Clever Clearbuilder |
-| 279 | 86 | Salena Whitlock |
-| 280 | 86 | Criss |
+| 278 | 86 | Criss |
+| 279 | 86 | Clever Clearbuilder |
+| 280 | 86 | Salena Whitlock |
 | 281 | 85 | Crystel b520 |
 | 282 | 85 | Chris Bell |
 | 283 | 84 | gremicx |
@@ -295,8 +295,8 @@
 | 287 | 83 | Deseree Ewing |
 | 288 | 82 | Rebecca Funderburk Kirby |
 | 289 | 81 | Tina Baurdau |
-| 290 | 80 | Josh Borquez |
-| 291 | 80 | Me,Him,Yu |
+| 290 | 80 | Oliver Neal II |
+| 291 | 80 | Josh Borquez |
 | 292 | 80 | Vixen Queen |
 | 293 | 80 | Me,Him,Yu |
 | 294 | 79 | Rania Zaqout |
@@ -367,8 +367,8 @@
 | 359 | 70 | Leticia Lynn Lowe |
 | 360 | 70 | Rachel |
 | 361 | 69 | Spunky Combofall |
-| 362 | 69 | Kristian Thurman |
-| 363 | 69 | Sissy Lowery Davis |
+| 362 | 69 | Sissy Lowery Davis |
+| 363 | 69 | Kristian Thurman |
 | 364 | 68 | Reina Roth |
 | 365 | 67 | Will Miller |
 | 366 | 67 | Dee |

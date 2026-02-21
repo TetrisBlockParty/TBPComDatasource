@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -103,8 +103,8 @@
 | 95 | 138 | Shainne Brewer |
 | 96 | 138 | Nugget |
 | 97 | 136 | Tanner Lund |
-| 98 | 134 | Chirpy Basepiece |
-| 99 | 134 | Jessica Bohlken |
+| 98 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 133 | Robin Watters |
 | 101 | 132 | Jessica Cagle |
 | 102 | 132 | Melissa Priest Sellers |
@@ -150,13 +150,13 @@
 | 142 | 105 | Sam Middleton |
 | 143 | 105 | 🥔🥔 Spudz |
 | 144 | 105 | TheNeesh50 |
-| 145 | 104 | Adam Randall |
-| 146 | 104 | Damn Libra |
-| 147 | 104 | YoMomma |
-| 148 | 102 | ĥuf |
-| 149 | 102 | Faja |
-| 150 | 101 | Michelle Morris |
-| 151 | 101 | Saulc1991 |
+| 145 | 104 | YoMomma |
+| 146 | 104 | Adam Randall |
+| 147 | 104 | Damn Libra |
+| 148 | 102 | Faja |
+| 149 | 102 | ĥuf |
+| 150 | 101 | Saulc1991 |
+| 151 | 101 | Michelle Morris |
 | 152 | 100 | Alexandra Karavias |
 | 153 | 99 | Anthony Bryan Riva |
 | 154 | 98 | Jeremy Steines |
@@ -167,14 +167,14 @@
 | 159 | 97 | Kristin MacDonald |
 | 160 | 96 | Marcus TheeyoungWoe Gilmore |
 | 161 | 96 | Zappy Snaplink |
-| 162 | 95 | Victoria Faniel |
-| 163 | 95 | Meagan Nicole |
+| 162 | 95 | Meagan Nicole |
+| 163 | 95 | Victoria Faniel |
 | 164 | 94 | Chastity Mitchell |
-| 165 | 94 | DonMega |
-| 166 | 94 | Kim Hunt |
+| 165 | 94 | Kim Hunt |
+| 166 | 94 | DonMega |
 | 167 | 93 | Zesty Twistbuilder |
-| 168 | 90 | Judy Cox |
-| 169 | 90 | No Strings Attached Ra |
+| 168 | 90 | No Strings Attached Ra |
+| 169 | 90 | Judy Cox |
 | 170 | 89 | mike |
 | 171 | 89 | shark tato |
 | 172 | 88 | Heather Tushner |

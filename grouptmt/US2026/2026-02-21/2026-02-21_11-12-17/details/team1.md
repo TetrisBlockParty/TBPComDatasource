@@ -109,8 +109,8 @@
 | 101 | 144 | femmefatale |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
-| 104 | 138 | Cranky Pattern |
-| 105 | 138 | Gary Gobin |
+| 104 | 138 | Gary Gobin |
+| 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
 | 108 | 133 | Breanna Luna |

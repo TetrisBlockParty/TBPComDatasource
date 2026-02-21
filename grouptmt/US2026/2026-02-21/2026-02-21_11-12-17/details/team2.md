@@ -307,15 +307,15 @@
 | 299 | 274 | Jamie Stevey |
 | 300 | 274 | Alexandra Weir |
 | 301 | 274 | Lonne Emade |
-| 302 | 273 | Ray Ray Prado |
-| 303 | 273 | Jenna Nance |
+| 302 | 273 | Jenna Nance |
+| 303 | 273 | Ray Ray Prado |
 | 304 | 273 | Vanessa Moreno |
 | 305 | 273 | August Hale |
 | 306 | 272 | Mikayala Szaz |
 | 307 | 271 | Ann Marie Davis |
 | 308 | 271 | Toni Lynn |
-| 309 | 270 | Christina Ashley |
-| 310 | 270 | Angela Lynn |
+| 309 | 270 | Angela Lynn |
+| 310 | 270 | Christina Ashley |
 | 311 | 269 | Reece Smith |
 | 312 | 268 | Chummy Blockbuilder |
 | 313 | 268 | Tanya Parsons |
@@ -349,8 +349,8 @@
 | 341 | 247 | Andrea Devery Beck |
 | 342 | 247 | Fancy Twister |
 | 343 | 246 | Kathryn Townsley |
-| 344 | 246 | Ashley Lopez |
-| 345 | 246 | Stephanie Lumanlan |
+| 344 | 246 | Stephanie Lumanlan |
+| 345 | 246 | Ashley Lopez |
 | 346 | 245 | Rachael Senard |
 | 347 | 245 | Sanaa Nounoussa |
 | 348 | 244 | Aimee Byrom |
@@ -504,8 +504,8 @@
 | 496 | 165 | Catherine Varea |
 | 497 | 164 | Sara Pennington |
 | 498 | 164 | Jessica Vega |
-| 499 | 163 | Danielle Ayoub |
-| 500 | 163 | Lakeela Wise |
+| 499 | 163 | Lakeela Wise |
+| 500 | 163 | Danielle Ayoub |
 | 501 | 163 | Albert McKnight |
 | 502 | 162 | LC Hamilton |
 | 503 | 162 | Andrea Maher |
@@ -536,8 +536,8 @@
 | 528 | 156 | Deanna Morton |
 | 529 | 156 | Renee Bowers |
 | 530 | 156 | RetroLemur |
-| 531 | 155 | Chelle |
-| 532 | 155 | Monarca26 |
+| 531 | 155 | Monarca26 |
+| 532 | 155 | Chelle |
 | 533 | 155 | Cris cris |
 | 534 | 155 | Angela Murgia-Owen |
 | 535 | 154 | Lydia Greenman |
