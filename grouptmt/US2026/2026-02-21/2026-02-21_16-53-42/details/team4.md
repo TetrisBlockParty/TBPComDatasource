@@ -62,8 +62,8 @@
 | 54 | 341 | Clarence Patawaran |
 | 55 | 309 | Lisa Davis |
 | 56 | 308 | Jen Allison |
-| 57 | 300 | Jason Hart |
-| 58 | 300 | David Lay |
+| 57 | 300 | David Lay |
+| 58 | 300 | Jason Hart |
 | 59 | 299 | Livvy |
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
@@ -159,16 +159,16 @@
 | 151 | 125 | Zany Shatterer |
 | 152 | 124 | Allen Lloyd |
 | 153 | 123 | Cherrish Duren |
-| 154 | 122 | Sherri |
-| 155 | 122 | Carlos Ramirez |
-| 156 | 121 | Megan Cutshaw |
-| 157 | 121 | Smiley Tiltbuilder |
+| 154 | 122 | Carlos Ramirez |
+| 155 | 122 | Sherri |
+| 156 | 121 | Smiley Tiltbuilder |
+| 157 | 121 | Megan Cutshaw |
 | 158 | 120 | Joshua Guess |
 | 159 | 119 | Kristin Manee |
 | 160 | 119 | Gwendolyn Pitcairn |
 | 161 | 116 | Diana Houts |
-| 162 | 115 | Jayk |
-| 163 | 115 | Ultramarine |
+| 162 | 115 | Ultramarine |
+| 163 | 115 | Jayk |
 | 164 | 114 | Jackie Marie |
 | 165 | 113 | Adam Randall |
 | 166 | 112 | Austin Owens |

@@ -29,8 +29,8 @@
 | 21 | 618 | Amanda Summey Schoemer |
 | 22 | 547 | Marianne Louise West |
 | 23 | 543 | Aaron Garnett |
-| 24 | 541 | Drew Magnus |
-| 25 | 541 | Jorge Andrade |
+| 24 | 541 | Jorge Andrade |
+| 25 | 541 | Drew Magnus |
 | 26 | 521 | Hyp James NObettadanluvarat |
 | 27 | 517 | Felicia Lewis |
 | 28 | 516 | comrade fish |
@@ -70,8 +70,8 @@
 | 62 | 266 | Tipsy Column |
 | 63 | 261 | Bhelle Sumile |
 | 64 | 259 | LaQuetta Faith Hines |
-| 65 | 252 | Tdub |
-| 66 | 252 | Dena Kayy |
+| 65 | 252 | Dena Kayy |
+| 66 | 252 | Tdub |
 | 67 | 249 | Rachael |
 | 68 | 244 | Franswa |
 | 69 | 241 | Patrick Luckenbill |
@@ -90,8 +90,8 @@
 | 82 | 205 | Trippy Redd |
 | 83 | 204 | Lexuriuos Lifestlye |
 | 84 | 202 | Giggly Builderline |
-| 85 | 201 | Anaid Sanchez |
-| 86 | 201 | Ananda Mendez |
+| 85 | 201 | Ananda Mendez |
+| 86 | 201 | Anaid Sanchez |
 | 87 | 199 | TSwag |
 | 88 | 198 | Brandi Huntington |
 | 89 | 198 | Happy Snapbuild |
@@ -99,8 +99,8 @@
 | 91 | 193 | Lachelle Dillon |
 | 92 | 192 | Shaykmia |
 | 93 | 191 | Diane Byrd |
-| 94 | 190 | Sweetts |
-| 95 | 190 | Thorne Shumate |
+| 94 | 190 | Thorne Shumate |
+| 95 | 190 | Sweetts |
 | 96 | 189 | Happy Basegrid |
 | 97 | 186 | Jennifer Olewnik Soborowski |
 | 98 | 185 | Ash Galvan |
@@ -187,8 +187,8 @@
 | 179 | 110 | Garcia Bailey |
 | 180 | 109 | Nery Martinez |
 | 181 | 108 | Dizzy Party |
-| 182 | 108 | Tavia |
-| 183 | 108 | Luciano Moreira |
+| 182 | 108 | Luciano Moreira |
+| 183 | 108 | Tavia |
 | 184 | 107 | Tyler Hertzog |
 | 185 | 107 | Jodee Woods |
 | 186 | 106 | Melissa Bires Hussar |

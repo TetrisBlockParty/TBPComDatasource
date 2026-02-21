@@ -238,8 +238,8 @@
 | 230 | 131 | Darlene McMillan |
 | 231 | 130 | Weerae |
 | 232 | 129 | Juliana Dottore |
-| 233 | 128 | Cesar Barraza |
-| 234 | 128 | Jen Lewis |
+| 233 | 128 | Jen Lewis |
+| 234 | 128 | Cesar Barraza |
 | 235 | 126 | April Matthew Kibble |
 | 236 | 125 | Shimika Enay Wallace |
 | 237 | 125 | Felicia Doxey |
