@@ -305,8 +305,8 @@
 | 297 | 98 | Shicken Nuggit |
 | 298 | 98 | Tasha Wesson-Torrence |
 | 299 | 97 | Paula Little |
-| 300 | 96 | D3NO |
-| 301 | 96 | Christopher Woost |
+| 300 | 96 | Christopher Woost |
+| 301 | 96 | D3NO |
 | 302 | 95 | Brooke Bauer |
 | 303 | 94 | Tracey Cox |
 | 304 | 94 | Nichole Greene |
@@ -332,8 +332,8 @@
 | 324 | 89 | Matty Ray |
 | 325 | 88 | RickyG |
 | 326 | 88 | Dapper Towerfit |
-| 327 | 88 | Kaitie Oliver |
-| 328 | 88 | Kelly Koenig |
+| 327 | 88 | Kelly Koenig |
+| 328 | 88 | Kaitie Oliver |
 | 329 | 87 | Kellie Montgomery |
 | 330 | 86 | Criss |
 | 331 | 86 | Amber Groover Taylor |

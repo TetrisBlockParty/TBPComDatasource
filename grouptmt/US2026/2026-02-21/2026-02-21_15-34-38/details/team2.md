@@ -146,8 +146,8 @@
 | 138 | 631 | Peppy Zone |
 | 139 | 620 | BYM4L |
 | 140 | 619 | Jamie Otero |
-| 141 | 608 | John Bednarik |
-| 142 | 608 | Sommer Shope |
+| 141 | 608 | Sommer Shope |
+| 142 | 608 | John Bednarik |
 | 143 | 604 | Amber Shoemaker |
 | 144 | 603 | Cassie Maynard |
 | 145 | 602 | L3sli3 |
@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Christy Krissie |
-| 235 | 405 | Sarah Massey |
+| 234 | 405 | Sarah Massey |
+| 235 | 405 | Christy Krissie |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Rhonda Milstead |
 | 238 | 400 | Crystie Hicks |
@@ -522,10 +522,10 @@
 | 514 | 199 | Jessica Sutter |
 | 515 | 198 | Angie Bolton Workman |
 | 516 | 197 | Kati Russeau |
-| 517 | 196 | Tony Lea |
-| 518 | 196 | Zak Dunn |
-| 519 | 196 | Alexandra Reese |
-| 520 | 196 | Cass Shirley |
+| 517 | 196 | Zak Dunn |
+| 518 | 196 | Tony Lea |
+| 519 | 196 | Cass Shirley |
+| 520 | 196 | Alexandra Reese |
 | 521 | 195 | Snappy Shatterfit |
 | 522 | 195 | Synn |
 | 523 | 195 | Darcy Mae |
@@ -676,8 +676,8 @@
 | 668 | 153 | Luna |
 | 669 | 153 | Dorinda Palato |
 | 670 | 152 | James Smith |
-| 671 | 152 | Kristin King |
-| 672 | 152 | Sweetheart81 |
+| 671 | 152 | Sweetheart81 |
+| 672 | 152 | Kristin King |
 | 673 | 152 | JP Parks |
 | 674 | 151 | Kia Humphery |
 | 675 | 151 | Jennifer Rajek |

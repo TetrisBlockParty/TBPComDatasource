@@ -122,13 +122,13 @@
 | 114 | 153 | Shiny Gridmatch |
 | 115 | 152 | Jacqueline Unique |
 | 116 | 150 | Adele Rahman |
-| 117 | 149 | Arianna O'Brien |
-| 118 | 149 | Jennifer ManWarren |
+| 117 | 149 | Jennifer ManWarren |
+| 118 | 149 | Arianna O'Brien |
 | 119 | 148 | Shauntina Burke |
 | 120 | 146 | Irual Hctrab |
 | 121 | 145 | BigWeenie69 |
-| 122 | 144 | femmefatale |
-| 123 | 144 | Plucky Ziggy |
+| 122 | 144 | Plucky Ziggy |
+| 123 | 144 | femmefatale |
 | 124 | 143 | Sarah Marie |
 | 125 | 142 | Dandy Basegrid |
 | 126 | 142 | Colleen Wise |
@@ -176,9 +176,9 @@
 | 168 | 110 | Madison Wicks |
 | 169 | 109 | Nery Martinez |
 | 170 | 108 | Luciano Moreira |
-| 171 | 108 | Tavia |
+| 171 | 108 | Dizzy Party |
 | 172 | 108 | Angela Fairbank |
-| 173 | 108 | Dizzy Party |
+| 173 | 108 | Tavia |
 | 174 | 107 | Jodee Woods |
 | 175 | 106 | Bloknboy |
 | 176 | 106 | Alyssa Ingram |

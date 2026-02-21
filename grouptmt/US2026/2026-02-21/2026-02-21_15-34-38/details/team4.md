@@ -93,8 +93,8 @@
 | 85 | 191 | loulou |
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
-| 88 | 185 | shar |
-| 89 | 185 | Andy Cabral |
+| 88 | 185 | Andy Cabral |
+| 89 | 185 | shar |
 | 90 | 181 | Carter Jones |
 | 91 | 180 | Leah Kutz Zirbel |
 | 92 | 179 | Epic Curvetile |
@@ -244,7 +244,7 @@
 | 236 | 81 | Nubian1 |
 | 237 | 80 | Chaz Duncan |
 | 238 | 80 | Melissa Adams |
-| 239 | 79 | Krs |
+| 239 | 79 | Joseph Pace |
 | 240 | 79 | Joshua Cuellar |
 | 241 | 79 | Krs |
 | 242 | 78 | Steph Marie |
