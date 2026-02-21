@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -43,8 +43,8 @@
 | 35 | 587 | Suzieq |
 | 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Dolores Falco |
-| 39 | 546 | Snappy Glidepiece |
+| 38 | 546 | Snappy Glidepiece |
+| 39 | 546 | Dolores Falco |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -102,8 +102,8 @@
 | 94 | 239 | Lush Buildout |
 | 95 | 234 | Louise Stacy Sisson |
 | 96 | 232 | Poppy Splitter |
-| 97 | 224 | Judi Dobson |
-| 98 | 224 | Mykal Burton |
+| 97 | 224 | Mykal Burton |
+| 98 | 224 | Judi Dobson |
 | 99 | 223 | Jeana Gilbert |
 | 100 | 222 | Jimmie Clemons |
 | 101 | 218 | mjl574 |
@@ -117,8 +117,8 @@
 | 109 | 200 | Twisty Brick LT |
 | 110 | 199 | joclisa |
 | 111 | 196 | Speedy Bridger |
-| 112 | 195 | Nicha Hooker |
-| 113 | 195 | Jenny Hrndz |
+| 112 | 195 | Jenny Hrndz |
+| 113 | 195 | Nicha Hooker |
 | 114 | 194 | glichmod |
 | 115 | 193 | Clever Shiftsnap |
 | 116 | 192 | Chasity |

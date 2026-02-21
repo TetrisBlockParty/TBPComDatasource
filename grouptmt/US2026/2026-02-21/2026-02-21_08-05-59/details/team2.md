@@ -227,8 +227,8 @@
 | 219 | 323 | Briana Alexander |
 | 220 | 318 | Trista Dumais |
 | 221 | 317 | Heather Westrum |
-| 222 | 317 | Dizzy Zone |
-| 223 | 317 | bru |
+| 222 | 317 | bru |
+| 223 | 317 | Dizzy Zone |
 | 224 | 315 | Alisa Lamb |
 | 225 | 314 | Amanda West |
 | 226 | 312 | Michelle Pike |
@@ -276,8 +276,8 @@
 | 268 | 273 | August Hale |
 | 269 | 271 | Ann Marie Davis |
 | 270 | 271 | Toni Lynn |
-| 271 | 270 | Christina Ashley |
-| 272 | 270 | Angela Lynn |
+| 271 | 270 | Angela Lynn |
+| 272 | 270 | Christina Ashley |
 | 273 | 270 | Alexandra Weir |
 | 274 | 268 | Tanya Parsons |
 | 275 | 268 | Chummy Blockbuilder |
@@ -541,8 +541,8 @@
 | 533 | 144 | Alexis Richardson |
 | 534 | 144 | Tristan Lamothe |
 | 535 | 144 | Regina Young |
-| 536 | 144 | Tee Davis |
-| 537 | 144 | RavensBeard |
+| 536 | 144 | RavensBeard |
+| 537 | 144 | Tee Davis |
 | 538 | 143 | Jay Levy |
 | 539 | 143 | Angelica |
 | 540 | 142 | Frisky Clearpiece |
@@ -702,8 +702,8 @@
 | 694 | 114 | Juan Castillo |
 | 695 | 114 | Melissa Maples |
 | 696 | 114 | Kimberly Mcmullen |
-| 697 | 113 | Brave Gridzone |
-| 698 | 113 | Hillary Franklin |
+| 697 | 113 | Hillary Franklin |
+| 698 | 113 | Brave Gridzone |
 | 699 | 113 | Della Hole |
 | 700 | 112 | Leroy Jenkins |
 | 701 | 112 | Christina Walker |
