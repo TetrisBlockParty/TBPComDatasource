@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -137,8 +137,8 @@
 | 129 | 455 | Alicia Parrish |
 | 130 | 453 | Osun Anuket Esu |
 | 131 | 450 | Giggy Blocker |
-| 132 | 448 | Jojo Momma |
-| 133 | 448 | Nick Jensen |
+| 132 | 448 | Nick Jensen |
+| 133 | 448 | Jojo Momma |
 | 134 | 442 | Daphne Jordan |
 | 135 | 440 | BYM4L |
 | 136 | 431 | Slip |
@@ -202,8 +202,8 @@
 | 194 | 309 | James Zaragoza |
 | 195 | 305 | Kristopher Miller |
 | 196 | 303 | Crystal Greene |
-| 197 | 299 | Deborah Miller |
-| 198 | 299 | Christy Krissie |
+| 197 | 299 | Christy Krissie |
+| 198 | 299 | Deborah Miller |
 | 199 | 296 | Missie Lawson Gebhardt |
 | 200 | 296 | Jennifer Casey-Kay |
 | 201 | 295 | Oscar Bernie |
@@ -235,8 +235,8 @@
 | 227 | 271 | Lonne Emade |
 | 228 | 271 | Toni Lynn |
 | 229 | 270 | Alexandra Weir |
-| 230 | 268 | Vanessa Moreno |
-| 231 | 268 | Chummy Blockbuilder |
+| 230 | 268 | Chummy Blockbuilder |
+| 231 | 268 | Vanessa Moreno |
 | 232 | 268 | Elisheva Mizrachi |
 | 233 | 267 | Mindy Leigh Head |
 | 234 | 266 | Autumn Schaeffer |

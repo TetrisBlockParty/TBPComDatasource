@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -105,8 +105,8 @@
 | 97 | 187 | Speedy Bridger |
 | 98 | 184 | Jennie Beranek |
 | 99 | 182 | Ashley Tookes |
-| 100 | 180 | Tessina Dewey-Mancino |
-| 101 | 180 | Fallorina Susana |
+| 100 | 180 | Fallorina Susana |
+| 101 | 180 | Tessina Dewey-Mancino |
 | 102 | 179 | Daira Largen |
 | 103 | 178 | Khaleada McGill Banks |
 | 104 | 175 | Jenny Hrndz |
