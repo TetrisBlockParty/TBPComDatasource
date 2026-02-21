@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -209,17 +209,17 @@
 | 201 | 111 | Lazy Blocker |
 | 202 | 111 | Kristin MacDonald |
 | 203 | 109 | Chaz |
-| 204 | 108 | Crystal Nicolette Moore |
-| 205 | 108 | Ali Ian |
-| 206 | 108 | Shane Kalamata Platoon |
+| 204 | 108 | Shane Kalamata Platoon |
+| 205 | 108 | Crystal Nicolette Moore |
+| 206 | 108 | Ali Ian |
 | 207 | 107 | Rafael Valentin |
 | 208 | 106 | Zappy Snaplink |
 | 209 | 106 | Rebecca Morris |
 | 210 | 105 | Brandi Durig |
 | 211 | 104 | Chris Alexinas |
-| 212 | 103 | Chris Bernstein |
+| 212 | 103 | Richard-April Kice |
 | 213 | 103 | Lauren Lamb |
-| 214 | 103 | Richard-April Kice |
+| 214 | 103 | Chris Bernstein |
 | 215 | 103 | Kate |
 | 216 | 102 | Autumn Kumzi |
 | 217 | 102 | Christina O'Dell-Ishau |
@@ -329,7 +329,7 @@
 | 321 | 74 | Matt Gooder |
 | 322 | 73 | Lynn Marie |
 | 323 | 73 | Rheanda Weaskus |
-| 324 | 72 | Jackson Karen |
+| 324 | 72 | Jennifer Perkins |
 | 325 | 72 | Brave Spinbuilder |
 | 326 | 72 | Raegan Lane-Ross |
 | 327 | 72 | Jackson Karen |

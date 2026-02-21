@@ -75,8 +75,8 @@
 | 67 | 287 | Hyper |
 | 68 | 285 | Sweet Baker |
 | 69 | 283 | cc |
-| 70 | 281 | Patrick Luckenbill |
-| 71 | 281 | Shauna Loe |
+| 70 | 281 | Shauna Loe |
+| 71 | 281 | Patrick Luckenbill |
 | 72 | 277 | Timothy Dew |
 | 73 | 274 | Theo Pinnow |
 | 74 | 270 | Jennifer ManWarren |
@@ -94,8 +94,8 @@
 | 86 | 239 | Cynthia Bradley |
 | 87 | 238 | John J. Cronin |
 | 88 | 230 | Frothy Pattern |
-| 89 | 228 | Kellie |
-| 90 | 228 | Trippy Redd |
+| 89 | 228 | Trippy Redd |
+| 90 | 228 | Kellie |
 | 91 | 226 | Sharon Reynolds |
 | 92 | 224 | TSwag |
 | 93 | 222 | Kristen Gideon |
@@ -154,8 +154,8 @@
 | 146 | 150 | Adele Rahman |
 | 147 | 149 | Arianna O'Brien |
 | 148 | 148 | Shauntina Burke |
-| 149 | 147 | Leslie Bush Yarbrough |
-| 150 | 147 | Davery Spencer Adair |
+| 149 | 147 | Davery Spencer Adair |
+| 150 | 147 | Leslie Bush Yarbrough |
 | 151 | 146 | Christy Jones |
 | 152 | 145 | Agustin Duarte Orozco |
 | 153 | 145 | Angela Fairbank |

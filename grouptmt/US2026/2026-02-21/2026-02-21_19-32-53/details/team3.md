@@ -356,9 +356,9 @@
 | 348 | 98 | Katie Morton |
 | 349 | 97 | Paula Little |
 | 350 | 97 | Tina Baurdau |
-| 351 | 96 | Christopher Woost |
-| 352 | 96 | D3NO |
-| 353 | 96 | Oliver Neal II |
+| 351 | 96 | Oliver Neal II |
+| 352 | 96 | Christopher Woost |
+| 353 | 96 | D3NO |
 | 354 | 95 | Brooke Bauer |
 | 355 | 94 | Tracey Cox |
 | 356 | 94 | Nichole Greene |

@@ -181,8 +181,8 @@
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |
 | 175 | 597 | Erica Williams |
-| 176 | 596 | Ellie Jonas |
-| 177 | 596 | Jelly |
+| 176 | 596 | Jelly |
+| 177 | 596 | Ellie Jonas |
 | 178 | 592 | Ashle Scranton |
 | 179 | 591 | Alisha |
 | 180 | 591 | Diana Fitzwater |
@@ -640,8 +640,8 @@
 | 632 | 201 | Matthew Turner |
 | 633 | 201 | Michael Artis |
 | 634 | 201 | Lakeela Wise |
-| 635 | 200 | Cassie Newton |
-| 636 | 200 | LaWanda Powell |
+| 635 | 200 | LaWanda Powell |
+| 636 | 200 | Cassie Newton |
 | 637 | 200 | Sara Silvernail-Kay |
 | 638 | 200 | Biggest thing |
 | 639 | 200 | Michelle Fleming Luna |
