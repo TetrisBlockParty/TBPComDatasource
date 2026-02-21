@@ -110,8 +110,8 @@
 | 102 | 195 | Jenny Hrndz |
 | 103 | 195 | Nicha Hooker |
 | 104 | 194 | glichmod |
-| 105 | 193 | Clever Shiftsnap |
-| 106 | 193 | Shunta Jacobs |
+| 105 | 193 | Shunta Jacobs |
+| 106 | 193 | Clever Shiftsnap |
 | 107 | 192 | Chasity |
 | 108 | 187 | Katrina Schroeder |
 | 109 | 187 | Speedy Bridger |

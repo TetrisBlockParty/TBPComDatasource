@@ -80,19 +80,19 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Chirpy Basepiece |
-| 76 | 134 | Jessica Bohlken |
+| 75 | 134 | Jessica Bohlken |
+| 76 | 134 | Chirpy Basepiece |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Jenna McGeorge |
-| 79 | 132 | Degenerate |
-| 80 | 132 | Melissa Priest Sellers |
+| 79 | 132 | Melissa Priest Sellers |
+| 80 | 132 | Degenerate |
 | 81 | 131 | Zany Twisterfit |
 | 82 | 131 | Dana Scott |
 | 83 | 131 | Mr. Party |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | John Brunetti |
-| 87 | 129 | Landon Keith Graffeo |
+| 86 | 129 | Landon Keith Graffeo |
+| 87 | 129 | John Brunetti |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Nugget |
@@ -120,9 +120,9 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | TinyLegoRose |
-| 116 | 105 | Sam Middleton |
-| 117 | 105 | TheNeesh50 |
+| 115 | 105 | Sam Middleton |
+| 116 | 105 | TheNeesh50 |
+| 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
 | 119 | 104 | Adam Randall |
 | 120 | 104 | YoMomma |

@@ -87,8 +87,8 @@
 | 79 | 674 | Dannette Goldberg-Richards |
 | 80 | 672 | Wendy Harder Gage |
 | 81 | 665 | Dineisha Carpenter |
-| 82 | 658 | Vistabrat |
-| 83 | 658 | Pacynthia Williams |
+| 82 | 658 | Pacynthia Williams |
+| 83 | 658 | Vistabrat |
 | 84 | 653 | Becky Weeks-Garry |
 | 85 | 649 | Anna Edwards |
 | 86 | 649 | Stephanie Chapman |
@@ -121,8 +121,8 @@
 | 113 | 520 | Kimberly Schall |
 | 114 | 519 | Maria Escobar |
 | 115 | 517 | Debra Williams |
-| 116 | 515 | Real Ri |
-| 117 | 515 | Kaylee McCafferty |
+| 116 | 515 | Kaylee McCafferty |
+| 117 | 515 | Real Ri |
 | 118 | 513 | Butta |
 | 119 | 509 | Kelli Wells |
 | 120 | 507 | Ashley House |
@@ -146,8 +146,8 @@
 | 138 | 455 | Alicia Parrish |
 | 139 | 453 | Osun Anuket Esu |
 | 140 | 450 | Giggy Blocker |
-| 141 | 448 | Nick Jensen |
-| 142 | 448 | Jojo Momma |
+| 141 | 448 | Jojo Momma |
+| 142 | 448 | Nick Jensen |
 | 143 | 442 | Daphne Jordan |
 | 144 | 440 | BYM4L |
 | 145 | 431 | Slip |
@@ -168,10 +168,10 @@
 | 160 | 386 | Ashie Ann |
 | 161 | 385 | Sam |
 | 162 | 381 | Amanda Ferrell |
-| 163 | 380 | Calandra Shaya Robinson |
-| 164 | 380 | Joshua Mandel |
-| 165 | 377 | Liberty |
-| 166 | 377 | Roy Salyer |
+| 163 | 380 | Joshua Mandel |
+| 164 | 380 | Calandra Shaya Robinson |
+| 165 | 377 | Roy Salyer |
+| 166 | 377 | Liberty |
 | 167 | 365 | April Dawn Gussler |
 | 168 | 364 | Shinette Dobson |
 | 169 | 363 | William Meussner |
@@ -192,8 +192,8 @@
 | 184 | 337 | Joseph Musick |
 | 185 | 336 | Tralonda Weeks |
 | 186 | 334 | Missie Lawson Gebhardt |
-| 187 | 334 | Moni Foxe |
-| 188 | 334 | Nashu |
+| 187 | 334 | Nashu |
+| 188 | 334 | Moni Foxe |
 | 189 | 332 | TF Dyer |
 | 190 | 331 | Brave Dropmatch |
 | 191 | 330 | Victoria Moore-Smith |
@@ -202,8 +202,8 @@
 | 194 | 327 | Danielle Simmons |
 | 195 | 323 | Juanita Lyons |
 | 196 | 323 | Briana Alexander |
-| 197 | 318 | Arwa Fatimah |
-| 198 | 318 | Trista Dumais |
+| 197 | 318 | Trista Dumais |
+| 198 | 318 | Arwa Fatimah |
 | 199 | 317 | bru |
 | 200 | 314 | Amanda West |
 | 201 | 313 | Brittany Alicia |
@@ -340,25 +340,25 @@
 | 332 | 207 | Melissa McCall |
 | 333 | 207 | Shylee Tilman |
 | 334 | 206 | RAEPR05 |
-| 335 | 205 | Lylymom |
-| 336 | 205 | ElizabethAnn Dickinson |
+| 335 | 205 | ElizabethAnn Dickinson |
+| 336 | 205 | Lylymom |
 | 337 | 204 | Ali Gralski |
 | 338 | 204 | Rebecca Doughman |
 | 339 | 203 | coleksquad |
 | 340 | 203 | Gary Stash |
 | 341 | 202 | Christina Ashley |
-| 342 | 201 | Ashlyn Berner |
-| 343 | 201 | Zombi3 |
+| 342 | 201 | Zombi3 |
+| 343 | 201 | Ashlyn Berner |
 | 344 | 201 | Peppy Snapfall |
 | 345 | 200 | Sarah Ridenour |
 | 346 | 200 | Cheeky Brickmatch |
-| 347 | 199 | Jessica Sutter |
-| 348 | 199 | Jenny Castro |
+| 347 | 199 | Jenny Castro |
+| 348 | 199 | Jessica Sutter |
 | 349 | 198 | Angie Bolton Workman |
 | 350 | 198 | Alyssa Dean |
 | 351 | 196 | Besma Ao |
-| 352 | 196 | Cass Shirley |
-| 353 | 196 | Alexandra Reese |
+| 352 | 196 | Alexandra Reese |
+| 353 | 196 | Cass Shirley |
 | 354 | 196 | Neko Preston |
 | 355 | 195 | Snappy Shatterfit |
 | 356 | 194 | Hoppy Brickmatch |
@@ -372,8 +372,8 @@
 | 364 | 191 | John Quiring |
 | 365 | 191 | Deana |
 | 366 | 190 | blarg |
-| 367 | 190 | Jessica Kaye DeAguero |
-| 368 | 190 | Jennifer Leigh |
+| 367 | 190 | Jennifer Leigh |
+| 368 | 190 | Jessica Kaye DeAguero |
 | 369 | 188 | Seth Wrieden |
 | 370 | 188 | Justin Hines |
 | 371 | 187 | Stefanie Zonzini-Gagliardi |

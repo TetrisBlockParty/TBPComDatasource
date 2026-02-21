@@ -52,11 +52,11 @@
 | 44 | 205 | Trippy Redd |
 | 45 | 204 | Ly Phethmany |
 | 46 | 202 | Dee Perry |
-| 47 | 201 | Anaid Sanchez |
-| 48 | 201 | Ananda Mendez |
+| 47 | 201 | Ananda Mendez |
+| 48 | 201 | Anaid Sanchez |
 | 49 | 200 | Lexuriuos Lifestlye |
-| 50 | 198 | Billie Dawn Sparks |
-| 51 | 198 | Happy Snapbuild |
+| 50 | 198 | Happy Snapbuild |
+| 51 | 198 | Billie Dawn Sparks |
 | 52 | 197 | Cynthia Bradley |
 | 53 | 195 | Stef Hu |
 | 54 | 194 | Sharon Reynolds |
@@ -82,7 +82,7 @@
 | 74 | 149 | Tana |
 | 75 | 148 | Jessie Lynn |
 | 76 | 147 | Veronica Eve |
-| 77 | 145 | Christina Graham |
+| 77 | 145 | Lachelle Dillon |
 | 78 | 145 | BigWeenie69 |
 | 79 | 145 | Christina Graham |
 | 80 | 144 | Tanya Carpenter-Reynolds |
@@ -118,8 +118,8 @@
 | 110 | 110 | Heidi Feurer |
 | 111 | 108 | Tavia |
 | 112 | 107 | Jodee Woods |
-| 113 | 106 | Bhelle Sumile |
-| 114 | 106 | Ash Galvan |
+| 113 | 106 | Ash Galvan |
+| 114 | 106 | Bhelle Sumile |
 | 115 | 105 | Flashy Rotator |
 | 116 | 103 | Adryane Schnase |
 | 117 | 102 | Jennifer ManWarren |
@@ -137,10 +137,10 @@
 | 129 | 93 | Loony Fitzone |
 | 130 | 93 | Cody Gates |
 | 131 | 92 | Jessica Russell |
-| 132 | 90 | Alenoush Karimian |
-| 133 | 90 | Madison Wicks |
-| 134 | 90 | TSwag |
-| 135 | 90 | Dizzy Party |
+| 132 | 90 | TSwag |
+| 133 | 90 | Alenoush Karimian |
+| 134 | 90 | Dizzy Party |
+| 135 | 90 | Madison Wicks |
 | 136 | 89 | Mara Hilker |
 | 137 | 87 | Jessi Sauer |
 | 138 | 86 | Desiree Deschaine Havee |
@@ -193,8 +193,8 @@
 | 185 | 68 | NicaOrlice |
 | 186 | 68 | Ariel Whittington |
 | 187 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 188 | 67 | Jennifer Duttry |
-| 189 | 67 | Mitchel White |
+| 188 | 67 | Mitchel White |
+| 189 | 67 | Jennifer Duttry |
 | 190 | 66 | Angela Fairbank |
 | 191 | 66 | Dede |
 | 192 | 65 | Giddy Glider |
