@@ -119,8 +119,8 @@
 | 111 | 99 | Lys |
 | 112 | 99 | Nichol Graham |
 | 113 | 99 | Boldy Corner |
-| 114 | 98 | Jocelyne Baca |
-| 115 | 98 | Ryan Williams |
+| 114 | 98 | Ryan Williams |
+| 115 | 98 | Jocelyne Baca |
 | 116 | 96 | Sherry Ogden |
 | 117 | 96 | D3NO |
 | 118 | 95 | Katie Knaus |

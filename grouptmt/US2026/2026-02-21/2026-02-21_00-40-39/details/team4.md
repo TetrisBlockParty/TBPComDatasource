@@ -119,8 +119,8 @@
 | 111 | 57 | Justin Hannigan |
 | 112 | 57 | Carlos G Reyes |
 | 113 | 56 | Chastity Mitchell |
-| 114 | 56 | Heather Tushner |
-| 115 | 56 | Maureen Flanigan |
+| 114 | 56 | Maureen Flanigan |
+| 115 | 56 | Heather Tushner |
 | 116 | 55 | mini |
 | 117 | 55 | RiahRose |
 | 118 | 54 | mitch |

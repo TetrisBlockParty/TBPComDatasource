@@ -46,9 +46,9 @@
 | 38 | 679 | Gold Rose |
 | 39 | 677 | Kimberly Michelle Brown |
 | 40 | 674 | Dannette Goldberg-Richards |
-| 41 | 658 | Pacynthia Williams |
-| 42 | 658 | Vistabrat |
-| 43 | 658 | Dreamy Blast |
+| 41 | 658 | Vistabrat |
+| 42 | 658 | Dreamy Blast |
+| 43 | 658 | Pacynthia Williams |
 | 44 | 652 | E_Money04 |
 | 45 | 615 | Vo'Landa Reels |
 | 46 | 600 | Cool Snapclear |
@@ -148,8 +148,8 @@
 | 140 | 251 | Shameika Trail |
 | 141 | 250 | Barbra Miller |
 | 142 | 249 | Janel Turley-Garner |
-| 143 | 247 | Andrea Devery Beck |
-| 144 | 247 | Fancy Twister |
+| 143 | 247 | Fancy Twister |
+| 144 | 247 | Andrea Devery Beck |
 | 145 | 244 | Elisheva Mizrachi |
 | 146 | 243 | Brandy Andre |
 | 147 | 241 | Sabrina Burton |

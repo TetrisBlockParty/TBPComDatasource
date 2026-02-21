@@ -89,9 +89,9 @@
 | 81 | 81 | Jennifer ManWarren |
 | 82 | 81 | Bob |
 | 83 | 81 | Garcia Bailey |
-| 84 | 80 | Josie Kirt |
-| 85 | 80 | pjbeta |
-| 86 | 80 | Matt Cinelli |
+| 84 | 80 | Matt Cinelli |
+| 85 | 80 | Josie Kirt |
+| 86 | 80 | pjbeta |
 | 87 | 79 | Chris65 |
 | 88 | 78 | Carrie Beck Geartz |
 | 89 | 75 | Fresno Beotoni |
@@ -208,8 +208,8 @@
 | 200 | 37 | Carrie Smith |
 | 201 | 37 | William Maix |
 | 202 | 36 | Snippy Wipebuilder |
-| 203 | 36 | Missfortune |
-| 204 | 36 | Bloknboy |
+| 203 | 36 | Bloknboy |
+| 204 | 36 | Missfortune |
 | 205 | 36 | Giggy Towerfit |
 | 206 | 35 | Blake Cobb |
 | 207 | 35 | Ty Meach |
