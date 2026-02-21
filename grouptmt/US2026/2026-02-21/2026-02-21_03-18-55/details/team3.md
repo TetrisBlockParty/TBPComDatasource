@@ -99,8 +99,8 @@
 | 91 | 177 | Fallorina Susana |
 | 92 | 166 | Danielle Mogg |
 | 93 | 161 | rosy |
-| 94 | 159 | Jone |
-| 95 | 159 | Morgan Martinez |
+| 94 | 159 | Morgan Martinez |
+| 95 | 159 | Jone |
 | 96 | 155 | Shannon Matthew Byers |
 | 97 | 154 | Angela M. Fletcher |
 | 98 | 152 | Shiny Zonebuilder |
@@ -255,8 +255,8 @@
 | 247 | 64 | Loony Slider |
 | 248 | 64 | Bleu Sun Beams |
 | 249 | 64 | Saucy Buildout |
-| 250 | 63 | BugMansMom |
-| 251 | 63 | Eileen Brady Thurber |
+| 250 | 63 | Eileen Brady Thurber |
+| 251 | 63 | BugMansMom |
 | 252 | 63 | Hasty Wipebuilder |
 | 253 | 62 | Danielle Weikel |
 | 254 | 62 | Melissa Snyder |
