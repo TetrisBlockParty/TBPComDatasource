@@ -64,10 +64,10 @@
 | 56 | 108 | Mr. Party |
 | 57 | 105 | Diana Houts |
 | 58 | 103 | Serena Goodridge |
-| 59 | 100 | Michelle Morris |
-| 60 | 100 | Andria Lynn |
-| 61 | 98 | Stephme310 |
-| 62 | 98 | Duck |
+| 59 | 100 | Andria Lynn |
+| 60 | 100 | Michelle Morris |
+| 61 | 98 | Duck |
+| 62 | 98 | Stephme310 |
 | 63 | 96 | Zappy Snaplink |
 | 64 | 94 | Chilly Line |
 | 65 | 94 | TinyLegoRose |
@@ -75,9 +75,9 @@
 | 67 | 92 | Kristin MacDonald |
 | 68 | 90 | ZeeZee |
 | 69 | 88 | Jenna McGeorge |
-| 70 | 87 | Jen Caldwell |
+| 70 | 87 | Malakai Darien Fox |
 | 71 | 87 | Brandi Durig |
-| 72 | 87 | Malakai Darien Fox |
+| 72 | 87 | Jen Caldwell |
 | 73 | 86 | amy |
 | 74 | 85 | Mimi |
 | 75 | 81 | Michelle Parker |
@@ -109,16 +109,16 @@
 | 101 | 63 | Lindsey Gonzalez |
 | 102 | 62 | Dizzy Tiley |
 | 103 | 62 | Melvin Baird |
-| 104 | 61 | Shauna Havard |
-| 105 | 61 | Richard-April Kice |
-| 106 | 61 | Jackson Karen |
+| 104 | 61 | Richard-April Kice |
+| 105 | 61 | Jackson Karen |
+| 106 | 61 | Shauna Havard |
 | 107 | 61 | Alee Marie |
 | 108 | 60 | Dustee Craddock-Harrison |
 | 109 | 60 | Carol Ricks Raymond |
 | 110 | 60 | Ahleek Mitchell |
 | 111 | 59 | Chaz Duncan |
-| 112 | 57 | Justin Hannigan |
-| 113 | 57 | Stephanie Jones |
+| 112 | 57 | Stephanie Jones |
+| 113 | 57 | Justin Hannigan |
 | 114 | 57 | Carlos G Reyes |
 | 115 | 56 | Chastity Mitchell |
 | 116 | 56 | Maureen Flanigan |

@@ -58,8 +58,8 @@
 | 50 | 223 | Shari Garber |
 | 51 | 214 | Amy Fuller Heaton |
 | 52 | 207 | rnr junky |
-| 53 | 206 | Jennifer Willis |
-| 54 | 206 | MissTaylor |
+| 53 | 206 | MissTaylor |
+| 54 | 206 | Jennifer Willis |
 | 55 | 203 | Crimson |
 | 56 | 198 | Nerdy Riseclear |
 | 57 | 193 | Clever Shiftsnap |

@@ -100,8 +100,8 @@
 | 92 | 351 | Giggy Blocker |
 | 93 | 350 | Chris Harr |
 | 94 | 345 | Brenda Messer |
-| 95 | 345 | Rhianna DiLorenzo |
-| 96 | 345 | Alyssaaelena |
+| 95 | 345 | Alyssaaelena |
+| 96 | 345 | Rhianna DiLorenzo |
 | 97 | 344 | Christina Lewis-Vickers |
 | 98 | 342 | Tracy Wise |
 | 99 | 341 | Sam McKenzie |
