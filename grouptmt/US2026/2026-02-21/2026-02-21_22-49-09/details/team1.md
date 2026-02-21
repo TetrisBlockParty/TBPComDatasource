@@ -121,13 +121,13 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Jaimie Lynn |
-| 117 | 212 | Mandyy Rae |
+| 116 | 212 | Mandyy Rae |
+| 117 | 212 | Jaimie Lynn |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 194 | Tyler Werts |
@@ -191,8 +191,8 @@
 | 183 | 139 | Flashy Rotator |
 | 184 | 139 | Jenny Gingrich Fuentes |
 | 185 | 138 | Death |
-| 186 | 137 | Cody Gates |
-| 187 | 137 | Witty Builderfit |
+| 186 | 137 | Witty Builderfit |
+| 187 | 137 | Cody Gates |
 | 188 | 136 | Breanna Luna |
 | 189 | 135 | Guest |
 | 190 | 135 | Aimee Horton |
@@ -396,7 +396,7 @@
 | 388 | 68 | Swanky Crasher |
 | 389 | 68 | GentleKitten7 |
 | 390 | 67 | Lis |
-| 391 | 67 | Mindy Gloska |
+| 391 | 67 | Craig Mcgonigle |
 | 392 | 67 | Jasmine Riley |
 | 393 | 67 | Mindy Gloska |
 | 394 | 66 | forevernght |

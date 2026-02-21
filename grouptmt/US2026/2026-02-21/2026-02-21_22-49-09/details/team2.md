@@ -253,10 +253,10 @@
 | 245 | 531 | Chris Wanner |
 | 246 | 528 | Brownie Sheena |
 | 247 | 527 | Stacy Stickle |
-| 248 | 527 | Ryan Gunther |
-| 249 | 527 | Heather Causey |
-| 250 | 525 | Tommy Tha Boss Gunz |
-| 251 | 525 | Desiree Anderson |
+| 248 | 527 | Heather Causey |
+| 249 | 527 | Ryan Gunther |
+| 250 | 525 | Desiree Anderson |
+| 251 | 525 | Tommy Tha Boss Gunz |
 | 252 | 524 | Hoppy Brickmatch |
 | 253 | 521 | Trista Dumais |
 | 254 | 520 | Cheech Dta |
@@ -293,8 +293,8 @@
 | 285 | 471 | Maya June |
 | 286 | 470 | Jerry Tempelmeyer |
 | 287 | 469 | Ashley Lopez |
-| 288 | 469 | Amélie Cadieux |
-| 289 | 469 | Ashley Rose Frederick |
+| 288 | 469 | Ashley Rose Frederick |
+| 289 | 469 | Amélie Cadieux |
 | 290 | 467 | Scott Treadway |
 | 291 | 465 | Drwatson187 |
 | 292 | 463 | Sue Leard |
@@ -432,8 +432,8 @@
 | 424 | 344 | Felicia Lynn |
 | 425 | 343 | Rose Fx |
 | 426 | 342 | Angi Harrison |
-| 427 | 342 | Amber Brion |
-| 428 | 342 | Sydney Busse |
+| 427 | 342 | Sydney Busse |
+| 428 | 342 | Amber Brion |
 | 429 | 342 | Ebony Deloach Bryant |
 | 430 | 341 | Daniel Amos |
 | 431 | 339 | Frisky Clearpiece |
@@ -479,8 +479,8 @@
 | 471 | 314 | Amanda West |
 | 472 | 314 | James Zaragoza |
 | 473 | 312 | Michelle Pike |
-| 474 | 312 | Andrea Maher |
-| 475 | 312 | Justin Hines |
+| 474 | 312 | Justin Hines |
+| 475 | 312 | Andrea Maher |
 | 476 | 310 | Cheeky Brickmatch |
 | 477 | 310 | Sharon Mills |
 | 478 | 308 | Ann Knutson Anderson |
