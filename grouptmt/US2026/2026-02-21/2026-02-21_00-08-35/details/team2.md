@@ -43,8 +43,8 @@
 | 35 | 679 | Gold Rose |
 | 36 | 677 | Kimberly Michelle Brown |
 | 37 | 674 | Dannette Goldberg-Richards |
-| 38 | 658 | Dreamy Blast |
-| 39 | 658 | Vistabrat |
+| 38 | 658 | Vistabrat |
+| 39 | 658 | Dreamy Blast |
 | 40 | 656 | Pacynthia Williams |
 | 41 | 652 | Melissa Lanteigne |
 | 42 | 652 | E_Money04 |
@@ -93,19 +93,19 @@
 | 85 | 345 | Alyssaaelena |
 | 86 | 345 | Rhianna DiLorenzo |
 | 87 | 342 | Tracy Wise |
-| 88 | 341 | Sarah Freitas |
-| 89 | 341 | Sam McKenzie |
+| 88 | 341 | Sam McKenzie |
+| 89 | 341 | Sarah Freitas |
 | 90 | 340 | Kimberly Randesi |
 | 91 | 337 | Alisha Peoples |
 | 92 | 328 | Marie Boyd Faulk |
-| 93 | 323 | Danielle Simmons |
-| 94 | 323 | Daphne Jordan |
+| 93 | 323 | Daphne Jordan |
+| 94 | 323 | Danielle Simmons |
 | 95 | 317 | Debra Williams |
 | 96 | 317 | bru |
 | 97 | 299 | Véronique Lévesque Sabourin |
 | 98 | 297 | James Zaragoza |
-| 99 | 295 | Diallo Sparkman |
-| 100 | 295 | Zany Clusterbuilder |
+| 99 | 295 | Zany Clusterbuilder |
+| 100 | 295 | Diallo Sparkman |
 | 101 | 292 | Steve Grotto |
 | 102 | 286 | Juanita Lyons |
 | 103 | 285 | June E Hanson |
@@ -118,15 +118,15 @@
 | 110 | 274 | Melissa Holsinger |
 | 111 | 271 | Ann Marie Davis |
 | 112 | 268 | Vanessa Moreno |
-| 113 | 266 | Mighty Shatterfit |
-| 114 | 266 | Jojo Momma |
+| 113 | 266 | Jojo Momma |
+| 114 | 266 | Mighty Shatterfit |
 | 115 | 266 | Joyce Johnson Vaughn |
 | 116 | 265 | Wuntayk |
 | 117 | 265 | Joseph Musick |
 | 118 | 264 | Lonne Emade |
-| 119 | 263 | Taylor Flowers |
+| 119 | 263 | Shiny Rollzone |
 | 120 | 263 | Oscar Bernie |
-| 121 | 263 | Shiny Rollzone |
+| 121 | 263 | Taylor Flowers |
 | 122 | 261 | MrsClaudette Will'sIam Matthews |
 | 123 | 260 | Autumn Schaeffer |
 | 124 | 260 | Jessie McDougald |
@@ -177,8 +177,8 @@
 | 169 | 200 | Howard Forest |
 | 170 | 198 | Richard Horton |
 | 171 | 198 | Julio A Laracuente |
-| 172 | 197 | Smashanator |
-| 173 | 197 | Osun Anuket Esu |
+| 172 | 197 | Osun Anuket Esu |
+| 173 | 197 | Smashanator |
 | 174 | 196 | Alexandra Reese |
 | 175 | 194 | Mike Aprilliano |
 | 176 | 194 | Tammy Allen |

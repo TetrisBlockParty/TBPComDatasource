@@ -76,10 +76,10 @@
 | 68 | 78 | Chilly Line |
 | 69 | 77 | Kim Hunt |
 | 70 | 76 | Kristin MacDonald |
-| 71 | 75 | Chair |
-| 72 | 75 | 🥔🥔 Spudz |
-| 73 | 75 | Avy Absol |
-| 74 | 75 | Rosemary Foster |
+| 71 | 75 | Rosemary Foster |
+| 72 | 75 | Avy Absol |
+| 73 | 75 | Chair |
+| 74 | 75 | 🥔🥔 Spudz |
 | 75 | 73 | Lauren Lamb |
 | 76 | 72 | Joshua Cuellar |
 | 77 | 72 | Kesha Brady |
