@@ -137,8 +137,8 @@
 | 129 | 203 | Jess Bissett |
 | 130 | 202 | Twisty Brick LT |
 | 131 | 199 | joclisa |
-| 132 | 195 | Nicha Hooker |
-| 133 | 195 | Jenny Hrndz |
+| 132 | 195 | Jenny Hrndz |
+| 133 | 195 | Nicha Hooker |
 | 134 | 194 | glichmod |
 | 135 | 193 | Stephanie Burtin |
 | 136 | 193 | Clever Shiftsnap |
@@ -259,8 +259,8 @@
 | 251 | 106 | Rachel |
 | 252 | 106 | Noettín Kan Zasnemoore |
 | 253 | 105 | Carol Cain Thurman |
-| 254 | 105 | Boldy Blocker |
-| 255 | 105 | Donna |
+| 254 | 105 | Donna |
+| 255 | 105 | Boldy Blocker |
 | 256 | 105 | Emi |
 | 257 | 104 | Samantha Lynn |
 | 258 | 104 | Peachy Rollfit |

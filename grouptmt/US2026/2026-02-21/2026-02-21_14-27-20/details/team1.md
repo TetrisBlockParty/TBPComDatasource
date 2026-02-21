@@ -54,8 +54,8 @@
 | 46 | 291 | Nancy Green |
 | 47 | 287 | Hyper |
 | 48 | 276 | Kristen Roles Robben |
-| 49 | 274 | Theo Pinnow |
-| 50 | 274 | Sweet Baker |
+| 49 | 274 | Sweet Baker |
+| 50 | 274 | Theo Pinnow |
 | 51 | 272 | Adam Byrd |
 | 52 | 270 | Shauna Loe |
 | 53 | 257 | Sarah Roberts |
@@ -216,8 +216,8 @@
 | 208 | 84 | Kayla Marie Stevenson |
 | 209 | 83 | Death |
 | 210 | 83 | Layzietyme |
-| 211 | 83 | FableGray |
-| 212 | 83 | Death |
+| 211 | 83 | Daring Fitclear |
+| 212 | 83 | FableGray |
 | 213 | 81 | Jeanna Dunn |
 | 214 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 215 | 81 | Bob |

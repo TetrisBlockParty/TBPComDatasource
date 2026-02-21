@@ -264,8 +264,8 @@
 | 256 | 356 | Deyawn Smith |
 | 257 | 355 | Shandrica Lowe |
 | 258 | 355 | Kristen O'Neal |
-| 259 | 354 | Brave Dropmatch |
-| 260 | 354 | Tracy Wise |
+| 259 | 354 | Tracy Wise |
+| 260 | 354 | Brave Dropmatch |
 | 261 | 353 | Cheery Matchzone |
 | 262 | 352 | ruth |
 | 263 | 350 | Chris Harr |
@@ -391,8 +391,8 @@
 | 383 | 256 | Barbra Miller |
 | 384 | 256 | Alishac Marie |
 | 385 | 254 | Julie Hamilton |
-| 386 | 254 | Rose Fx |
-| 387 | 254 | Elizabeth Diraffaele |
+| 386 | 254 | Elizabeth Diraffaele |
+| 387 | 254 | Rose Fx |
 | 388 | 253 | Tansaria Couch-Butler |
 | 389 | 252 | Matt Johnson |
 | 390 | 252 | Alyssia Tancredi |
@@ -402,16 +402,16 @@
 | 394 | 249 | Porsche' Nicole |
 | 395 | 249 | Nicky Jackson |
 | 396 | 248 | Aimee Byrom |
-| 397 | 248 | Warren Marleau |
-| 398 | 248 | Dany Murillo |
-| 399 | 248 | Bubbly Snapfit |
-| 400 | 248 | Maddy Petersen |
+| 397 | 248 | Dany Murillo |
+| 398 | 248 | Warren Marleau |
+| 399 | 248 | Maddy Petersen |
+| 400 | 248 | Bubbly Snapfit |
 | 401 | 247 | Dolores Russworn |
 | 402 | 247 | Fancy Twister |
 | 403 | 247 | Andrea Devery Beck |
 | 404 | 246 | Justin Hines |
-| 405 | 246 | Ashley Lopez |
-| 406 | 246 | Pocho Zavala |
+| 405 | 246 | Pocho Zavala |
+| 406 | 246 | Ashley Lopez |
 | 407 | 246 | Stephanie Lumanlan |
 | 408 | 245 | Rachael Senard |
 | 409 | 245 | Sanaa Nounoussa |

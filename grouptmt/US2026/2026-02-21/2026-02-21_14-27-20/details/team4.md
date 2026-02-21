@@ -107,8 +107,8 @@
 | 99 | 159 | Holly Jolly |
 | 100 | 157 | quicksand420 |
 | 101 | 154 | Zany Twisterfit |
-| 102 | 151 | Dana Scott |
-| 103 | 151 | Bethany Ison |
+| 102 | 151 | Bethany Ison |
+| 103 | 151 | Dana Scott |
 | 104 | 150 | ZeeZee |
 | 105 | 147 | 030Synner |
 | 106 | 147 | Jay28 |
