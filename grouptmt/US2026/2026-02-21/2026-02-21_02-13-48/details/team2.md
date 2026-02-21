@@ -64,8 +64,8 @@
 | 56 | 674 | Dannette Goldberg-Richards |
 | 57 | 672 | Wendy Harder Gage |
 | 58 | 658 | Dreamy Blast |
-| 59 | 658 | Vistabrat |
-| 60 | 658 | Pacynthia Williams |
+| 59 | 658 | Pacynthia Williams |
+| 60 | 658 | Vistabrat |
 | 61 | 656 | E_Money04 |
 | 62 | 639 | Anna Edwards |
 | 63 | 636 | Amy Sayers |

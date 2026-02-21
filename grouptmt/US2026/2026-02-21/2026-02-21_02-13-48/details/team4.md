@@ -51,8 +51,8 @@
 | 43 | 140 | Carter Jones |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Robin Watters |
-| 47 | 133 | Jessica Bohlken |
+| 46 | 133 | Jessica Bohlken |
+| 47 | 133 | Robin Watters |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
