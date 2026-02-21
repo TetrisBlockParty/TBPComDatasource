@@ -135,8 +135,8 @@
 | 127 | 700 | Rosemadder |
 | 128 | 698 | Lola Contreras |
 | 129 | 697 | Real Ri |
-| 130 | 694 | Nancy Reid |
-| 131 | 694 | Vo'Landa Reels |
+| 130 | 694 | Vo'Landa Reels |
+| 131 | 694 | Nancy Reid |
 | 132 | 688 | Dreamy Blast |
 | 133 | 679 | Gold Rose |
 | 134 | 674 | Dannette Goldberg-Richards |
@@ -499,8 +499,8 @@
 | 491 | 225 | Breezy Tilt |
 | 492 | 224 | Alice Ball |
 | 493 | 224 | Besma Ao |
-| 494 | 223 | Jess Morrison |
-| 495 | 223 | LegoCarpet |
+| 494 | 223 | LegoCarpet |
+| 495 | 223 | Jess Morrison |
 | 496 | 223 | Laura Wyatt |
 | 497 | 223 | Kristi Biddinger |
 | 498 | 222 | Jason Garnatz |

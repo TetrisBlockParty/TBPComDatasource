@@ -155,8 +155,8 @@
 | 147 | 197 | Ashley Tookes |
 | 148 | 195 | Nicha Hooker |
 | 149 | 194 | glichmod |
-| 150 | 193 | Rochelle Hazelett |
-| 151 | 193 | Stephanie Burtin |
+| 150 | 193 | Stephanie Burtin |
+| 151 | 193 | Rochelle Hazelett |
 | 152 | 193 | Clever Shiftsnap |
 | 153 | 193 | Duane Bright |
 | 154 | 192 | Krystal Gerstberger |
@@ -233,8 +233,8 @@
 | 225 | 133 | Terry Jo Jones |
 | 226 | 133 | LaNette Morgan |
 | 227 | 132 | Daryn Elliott |
-| 228 | 131 | Darlene McMillan |
-| 229 | 131 | Erykah |
+| 228 | 131 | Erykah |
+| 229 | 131 | Darlene McMillan |
 | 230 | 130 | Weerae |
 | 231 | 129 | Jessica |
 | 232 | 129 | Juliana Dottore |
@@ -374,8 +374,8 @@
 | 366 | 82 | Eileen Brady Thurber |
 | 367 | 82 | Moimyzean |
 | 368 | 81 | Joseph Vargas |
-| 369 | 81 | Katheline Lazo Luizaga |
-| 370 | 81 | Elyse Grabowsky |
+| 369 | 81 | Elyse Grabowsky |
+| 370 | 81 | Katheline Lazo Luizaga |
 | 371 | 80 | Vixen Queen |
 | 372 | 80 | Josh Borquez |
 | 373 | 80 | Me,Him,Yu |
@@ -430,7 +430,7 @@
 | 422 | 74 | Reesiecup93 |
 | 423 | 74 | Victoria Wangler Lewis |
 | 424 | 74 | Loony Slider |
-| 425 | 74 | Victoria Wangler Lewis |
+| 425 | 74 | gravelgrinder |
 | 426 | 73 | Serenity |
 | 427 | 73 | punky monkey buttky |
 | 428 | 73 | Spicy Caster |
@@ -563,9 +563,9 @@
 | 555 | 57 | Daring Brickzone |
 | 556 | 57 | luluraine |
 | 557 | 57 | Kristina Gardner |
-| 558 | 57 | Trey Ward |
-| 559 | 57 | Rickeia Lanae Wright |
-| 560 | 57 | Danny Matthews |
+| 558 | 57 | Tammy Wooton-Taylor |
+| 559 | 57 | Danny Matthews |
+| 560 | 57 | Rickeia Lanae Wright |
 | 561 | 56 | Slick Sally |
 | 562 | 56 | Robert Sibigtroth |
 | 563 | 56 | Lisa Ann |
