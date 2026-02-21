@@ -113,8 +113,8 @@
 | 105 | 658 | Vistabrat |
 | 106 | 658 | Pacynthia Williams |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Anna Edwards |
-| 109 | 649 | Stephanie Chapman |
+| 108 | 649 | Stephanie Chapman |
+| 109 | 649 | Anna Edwards |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
 | 112 | 631 | Loopy Clusterbuilder |
@@ -160,8 +160,8 @@
 | 152 | 500 | tejas25 |
 | 153 | 495 | Poppy Snap |
 | 154 | 488 | Teresa Gillmore |
-| 155 | 486 | MrsCandyfine As Wine Truss |
-| 156 | 486 | Ramone Armstrong |
+| 155 | 486 | Ramone Armstrong |
+| 156 | 486 | MrsCandyfine As Wine Truss |
 | 157 | 485 | Gene Mills |
 | 158 | 484 | Suki Kaur |
 | 159 | 483 | Jordan Kaiser |
@@ -200,8 +200,8 @@
 | 192 | 397 | coleksquad |
 | 193 | 394 | Em Chen |
 | 194 | 393 | Altamirano Michael |
-| 195 | 391 | Chilly Bridgepiece |
-| 196 | 391 | Steven Marshaun |
+| 195 | 391 | Steven Marshaun |
+| 196 | 391 | Chilly Bridgepiece |
 | 197 | 391 | Qiana Sanders |
 | 198 | 386 | Ashie Ann |
 | 199 | 386 | Macy Williams |
@@ -400,8 +400,8 @@
 | 392 | 212 | BK Queen |
 | 393 | 212 | Aleasha M Brown |
 | 394 | 211 | Ys Muhammed |
-| 395 | 209 | Dawn L Washington-Feuquay |
-| 396 | 209 | Jerry Tempelmeyer |
+| 395 | 209 | Jerry Tempelmeyer |
+| 396 | 209 | Dawn L Washington-Feuquay |
 | 397 | 208 | Mema |
 | 398 | 208 | Nancy Pohlman |
 | 399 | 207 | Brave Gridpiece |
@@ -440,8 +440,8 @@
 | 432 | 191 | Deana |
 | 433 | 191 | John Quiring |
 | 434 | 190 | Jessica Kaye DeAguero |
-| 435 | 188 | Seth Wrieden |
-| 436 | 188 | Michael Artis |
+| 435 | 188 | Michael Artis |
+| 436 | 188 | Seth Wrieden |
 | 437 | 188 | Justin Hines |
 | 438 | 187 | Glenn Cobbins |
 | 439 | 187 | Stefanie Zonzini-Gagliardi |
@@ -477,19 +477,19 @@
 | 469 | 176 | Jennifer Malloy - Cardy |
 | 470 | 176 | Stacy Harper |
 | 471 | 175 | Snippy Rumbler |
-| 472 | 175 | Tina Blessed Cage |
-| 473 | 175 | Shandrica Lowe |
+| 472 | 175 | Shandrica Lowe |
+| 473 | 175 | Tina Blessed Cage |
 | 474 | 175 | Lucero Ramirez |
 | 475 | 174 | Jason Garnatz |
 | 476 | 174 | Veronica Guerra |
-| 477 | 173 | Robin |
-| 478 | 173 | kippykay |
+| 477 | 173 | kippykay |
+| 478 | 173 | Robin |
 | 479 | 173 | Ocean-Brianna McGregor |
 | 480 | 172 | Twisty Tetriblast |
 | 481 | 171 | William Hunt |
 | 482 | 171 | Cappin You |
-| 483 | 170 | Dedra Steward |
-| 484 | 170 | Darlene Bowman |
+| 483 | 170 | Darlene Bowman |
+| 484 | 170 | Dedra Steward |
 | 485 | 170 | Kenya Felix |
 | 486 | 169 | Eddie Perez |
 | 487 | 169 | Catina Hutchison |
@@ -504,8 +504,8 @@
 | 496 | 165 | Catherine Varea |
 | 497 | 164 | Sara Pennington |
 | 498 | 164 | Jessica Vega |
-| 499 | 163 | Danielle Ayoub |
-| 500 | 163 | Lakeela Wise |
+| 499 | 163 | Lakeela Wise |
+| 500 | 163 | Danielle Ayoub |
 | 501 | 163 | Albert McKnight |
 | 502 | 162 | LC Hamilton |
 | 503 | 162 | Andrea Maher |

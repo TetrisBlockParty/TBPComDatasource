@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Annie Déè |
 | 74 | 342 | Trezure Gonzalez |
@@ -124,11 +124,11 @@
 | 116 | 203 | Crimson |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -142,8 +142,8 @@
 | 134 | 178 | AlsoJess |
 | 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Kelly Ann Child |
+| 137 | 166 | Kelly Ann Child |
+| 138 | 166 | Danielle Mogg |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
@@ -157,8 +157,8 @@
 | 149 | 156 | Joey Banks |
 | 150 | 155 | BŘŰŤİÇŨŚ |
 | 151 | 154 | Angela M. Fletcher |
-| 152 | 153 | Stephanie Whitefield |
-| 153 | 153 | Beth Ingham |
+| 152 | 153 | Beth Ingham |
+| 153 | 153 | Stephanie Whitefield |
 | 154 | 152 | Shiny Zonebuilder |
 | 155 | 151 | MsBee |
 | 156 | 150 | Nicole Myers |
@@ -170,12 +170,12 @@
 | 162 | 146 | Denita Mungro |
 | 163 | 145 | Bryan Byrd |
 | 164 | 142 | Erica Anderson |
-| 165 | 140 | Gumbo |
-| 166 | 140 | Carrie Huskey |
-| 167 | 140 | Jay Horn |
+| 165 | 140 | Jay Horn |
+| 166 | 140 | Gumbo |
+| 167 | 140 | Carrie Huskey |
 | 168 | 135 | Cheryl Hinch Tenbrook |
-| 169 | 134 | DanceLuvLaugh |
-| 170 | 134 | Emma |
+| 169 | 134 | Emma |
+| 170 | 134 | DanceLuvLaugh |
 | 171 | 131 | Jl |
 | 172 | 129 | Lesley Perez |
 | 173 | 129 | Logan Naccarato |
@@ -184,8 +184,8 @@
 | 176 | 127 | Joy Petroski |
 | 177 | 127 | Aerian Preston |
 | 178 | 126 | Brandon Givens |
-| 179 | 125 | Felicia Doxey |
-| 180 | 125 | Shimika Enay Wallace |
+| 179 | 125 | Shimika Enay Wallace |
+| 180 | 125 | Felicia Doxey |
 | 181 | 124 | Cesar Barraza |
 | 182 | 123 | Marci Mize Fandrich |
 | 183 | 123 | Sarajane Lokan |

@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -84,8 +84,8 @@
 | 76 | 170 | Girl |
 | 77 | 170 | Leah Kutz Zirbel |
 | 78 | 167 | Denise Carlson |
-| 79 | 165 | Courtney Cicoria |
-| 80 | 165 | Casey Grabner |
+| 79 | 165 | Casey Grabner |
+| 80 | 165 | Courtney Cicoria |
 | 81 | 162 | Shauna Havard |
 | 82 | 160 | Carter Jones |
 | 83 | 159 | Holly Jolly |
@@ -103,8 +103,8 @@
 | 95 | 138 | Shainne Brewer |
 | 96 | 138 | Nugget |
 | 97 | 136 | Tanner Lund |
-| 98 | 134 | Chirpy Basepiece |
-| 99 | 134 | Jessica Bohlken |
+| 98 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 133 | Robin Watters |
 | 101 | 132 | Degenerate |
 | 102 | 132 | Jessica Cagle |
@@ -173,8 +173,8 @@
 | 165 | 94 | Kim Hunt |
 | 166 | 94 | Chastity Mitchell |
 | 167 | 93 | Zesty Twistbuilder |
-| 168 | 90 | Judy Cox |
-| 169 | 90 | No Strings Attached Ra |
+| 168 | 90 | No Strings Attached Ra |
+| 169 | 90 | Judy Cox |
 | 170 | 89 | mike |
 | 171 | 89 | shark tato |
 | 172 | 88 | Heather Tushner |
@@ -252,9 +252,9 @@
 | 244 | 67 | JPW |
 | 245 | 67 | mini |
 | 246 | 67 | Cozy Framezone |
-| 247 | 66 | Moonsterix |
-| 248 | 66 | Terrance Fung |
-| 249 | 66 | mitch |
+| 247 | 66 | Terrance Fung |
+| 248 | 66 | mitch |
+| 249 | 66 | Moonsterix |
 | 250 | 66 | Rebecca Blake |
 | 251 | 65 | Lee Silpe |
 | 252 | 65 | Asher |

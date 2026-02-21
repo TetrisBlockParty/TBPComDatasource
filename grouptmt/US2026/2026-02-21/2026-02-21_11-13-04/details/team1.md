@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 205 | Trippy Redd |
@@ -99,8 +99,8 @@
 | 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Arianna O'Brien |
-| 95 | 149 | Tana |
+| 94 | 149 | Tana |
+| 95 | 149 | Arianna O'Brien |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
@@ -138,8 +138,8 @@
 | 130 | 112 | Flashy Rotator |
 | 131 | 112 | Nicole Roseberry Weber |
 | 132 | 112 | Miguel Teixeira |
-| 133 | 111 | Jessica Russell |
-| 134 | 111 | Agustin Duarte Orozco |
+| 133 | 111 | Agustin Duarte Orozco |
+| 134 | 111 | Jessica Russell |
 | 135 | 110 | Garcia Bailey |
 | 136 | 108 | Tavia |
 | 137 | 107 | Jodee Woods |
