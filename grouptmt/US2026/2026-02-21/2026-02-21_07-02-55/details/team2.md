@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -216,22 +216,22 @@
 | 208 | 313 | Auntie B |
 | 209 | 313 | Brittany Alicia |
 | 210 | 312 | Michelle Pike |
-| 211 | 311 | Dizzy Zone |
-| 212 | 311 | Véronique Lévesque Sabourin |
+| 211 | 311 | Véronique Lévesque Sabourin |
+| 212 | 311 | Dizzy Zone |
 | 213 | 309 | James Zaragoza |
 | 214 | 309 | Oscar Bernie |
 | 215 | 306 | Kristopher Miller |
 | 216 | 305 | Libby Hicks |
 | 217 | 303 | Crystal Greene |
 | 218 | 303 | Peppy Zone |
-| 219 | 299 | Deborah Miller |
-| 220 | 299 | Christy Krissie |
+| 219 | 299 | Christy Krissie |
+| 220 | 299 | Deborah Miller |
 | 221 | 297 | Brenda Utphall |
-| 222 | 296 | Amber Gray |
-| 223 | 296 | Jennifer Casey-Kay |
-| 224 | 295 | Angela Bonquiqui Dinish |
-| 225 | 295 | Zany Clusterbuilder |
-| 226 | 295 | Diallo Sparkman |
+| 222 | 296 | Jennifer Casey-Kay |
+| 223 | 296 | Amber Gray |
+| 224 | 295 | Zany Clusterbuilder |
+| 225 | 295 | Diallo Sparkman |
+| 226 | 295 | Angela Bonquiqui Dinish |
 | 227 | 293 | Scott Treadway |
 | 228 | 293 | David Holliday |
 | 229 | 291 | Em Chen |
@@ -277,8 +277,8 @@
 | 269 | 257 | Shameika Trail |
 | 270 | 257 | Lyndi Robinson Wakefield |
 | 271 | 256 | Giddy Gridclear |
-| 272 | 256 | Tee Jaleesa |
-| 273 | 256 | Smashanator |
+| 272 | 256 | Smashanator |
+| 273 | 256 | Tee Jaleesa |
 | 274 | 255 | Santana Miyagi |
 | 275 | 254 | Julie Hamilton |
 | 276 | 254 | Rose Fx |
@@ -299,8 +299,8 @@
 | 291 | 246 | Stephanie Lumanlan |
 | 292 | 246 | Ashley Lopez |
 | 293 | 245 | Rachael Senard |
-| 294 | 245 | Taryece Gause |
-| 295 | 245 | Mischelle Clay |
+| 294 | 245 | Mischelle Clay |
+| 295 | 245 | Taryece Gause |
 | 296 | 244 | Aimee Byrom |
 | 297 | 243 | Brandy Andre |
 | 298 | 242 | Donna Chandler |
@@ -316,8 +316,8 @@
 | 308 | 233 | Alyssia Tancredi |
 | 309 | 233 | Robin Kerby |
 | 310 | 232 | Amber Brion |
-| 311 | 231 | Dylan Thomason |
-| 312 | 231 | Ginger |
+| 311 | 231 | Ginger |
+| 312 | 231 | Dylan Thomason |
 | 313 | 231 | Hong Tang |
 | 314 | 230 | Peachy Blockbuilder |
 | 315 | 230 | snkylnk |
@@ -347,17 +347,17 @@
 | 339 | 207 | Melissa McCall |
 | 340 | 207 | Shylee Tilman |
 | 341 | 206 | RAEPR05 |
-| 342 | 205 | ElizabethAnn Dickinson |
-| 343 | 205 | Lylymom |
+| 342 | 205 | Lylymom |
+| 343 | 205 | ElizabethAnn Dickinson |
 | 344 | 204 | Ali Gralski |
 | 345 | 204 | Rebecca Doughman |
 | 346 | 203 | Gary Stash |
 | 347 | 202 | Christina Ashley |
-| 348 | 201 | Zombi3 |
-| 349 | 201 | Ashlyn Berner |
+| 348 | 201 | Ashlyn Berner |
+| 349 | 201 | Zombi3 |
 | 350 | 201 | Peppy Snapfall |
-| 351 | 200 | Sarah Ridenour |
-| 352 | 200 | LaWanda Powell |
+| 351 | 200 | LaWanda Powell |
+| 352 | 200 | Sarah Ridenour |
 | 353 | 200 | Cheeky Brickmatch |
 | 354 | 199 | Jenny Castro |
 | 355 | 199 | Jessica Sutter |
@@ -494,8 +494,8 @@
 | 486 | 151 | Jennifer Rajek |
 | 487 | 150 | Jodi Mitnick |
 | 488 | 150 | Candace Noel |
-| 489 | 149 | Leslie Porter |
-| 490 | 149 | Boldy Cascadepiece |
+| 489 | 149 | Boldy Cascadepiece |
+| 490 | 149 | Leslie Porter |
 | 491 | 149 | Melissa Rebbe-Lehman |
 | 492 | 149 | Greenshades00 |
 | 493 | 146 | Ibiza Carolina LaRose |

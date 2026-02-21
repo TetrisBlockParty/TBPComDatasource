@@ -27,8 +27,8 @@
 | 19 | 474 | Rebecca Moulton Pinciaro |
 | 20 | 402 | Samantha Peterson |
 | 21 | 390 | Alicia Bass |
-| 22 | 383 | Johnathan Martinez |
-| 23 | 383 | Carmethia Clemons Haslerig |
+| 22 | 383 | Carmethia Clemons Haslerig |
+| 23 | 383 | Johnathan Martinez |
 | 24 | 377 | Edward White |
 | 25 | 373 | Rodney McMath Jr. |
 | 26 | 361 | LisaJo Picken Buchanan |
@@ -73,8 +73,8 @@
 | 65 | 165 | Courtney Cicoria |
 | 66 | 165 | Casey Grabner |
 | 67 | 160 | Carter Jones |
-| 68 | 159 | Justin Hannigan |
-| 69 | 159 | Holly Jolly |
+| 68 | 159 | Holly Jolly |
+| 69 | 159 | Justin Hannigan |
 | 70 | 157 | quicksand420 |
 | 71 | 154 | ThaEviLJeNiuZ |
 | 72 | 153 | Jae Job |
@@ -86,8 +86,8 @@
 | 78 | 141 | Malakai Darien Fox |
 | 79 | 140 | Shannon Ferrari |
 | 80 | 136 | Tanner Lund |
-| 81 | 134 | Chirpy Basepiece |
-| 82 | 134 | Jessica Bohlken |
+| 81 | 134 | Jessica Bohlken |
+| 82 | 134 | Chirpy Basepiece |
 | 83 | 133 | Robin Watters |
 | 84 | 132 | Melissa Priest Sellers |
 | 85 | 132 | Jenna McGeorge |
@@ -99,8 +99,8 @@
 | 91 | 130 | Casey Jeffcoat |
 | 92 | 129 | John Brunetti |
 | 93 | 129 | Landon Keith Graffeo |
-| 94 | 125 | Jessica Cagle |
-| 95 | 125 | Lauren Scott |
+| 94 | 125 | Lauren Scott |
+| 95 | 125 | Jessica Cagle |
 | 96 | 123 | Cherrish Duren |
 | 97 | 123 | Nugget |
 | 98 | 123 | Bubbly Puzzler |

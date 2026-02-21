@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -100,8 +100,8 @@
 | 92 | 224 | Mykal Burton |
 | 93 | 223 | Jeana Gilbert |
 | 94 | 222 | Jimmie Clemons |
-| 95 | 218 | Judi Dobson |
-| 96 | 218 | mjl574 |
+| 95 | 218 | mjl574 |
+| 96 | 218 | Judi Dobson |
 | 97 | 214 | Amy Fuller Heaton |
 | 98 | 213 | Tom Nault |
 | 99 | 211 | Blocked |
@@ -121,8 +121,8 @@
 | 113 | 191 | Scott Carleton |
 | 114 | 187 | Katrina Schroeder |
 | 115 | 184 | Jennie Beranek |
-| 116 | 182 | Ashley Tookes |
-| 117 | 182 | Hyper Matchzone |
+| 116 | 182 | Hyper Matchzone |
+| 117 | 182 | Ashley Tookes |
 | 118 | 180 | Tessina Dewey-Mancino |
 | 119 | 180 | Fallorina Susana |
 | 120 | 179 | Daira Largen |

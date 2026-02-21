@@ -33,8 +33,8 @@
 | 25 | 348 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Felicia Lewis |
-| 29 | 294 | Jacqueline Williams |
+| 28 | 294 | Jacqueline Williams |
+| 29 | 294 | Felicia Lewis |
 | 30 | 291 | Nancy Green |
 | 31 | 291 | Stephanie Zahn |
 | 32 | 286 | Michelle Nicole |
