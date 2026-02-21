@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Nancy Green |
-| 25 | 281 | Maria C. Hernandez |
+| 24 | 281 | Maria C. Hernandez |
+| 25 | 281 | Nancy Green |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |
@@ -48,16 +48,16 @@
 | 40 | 198 | Billie Dawn Sparks |
 | 41 | 195 | Ananda Mendez |
 | 42 | 194 | Sharon Reynolds |
-| 43 | 192 | Mandyy Rae |
-| 44 | 192 | Josie Kirt |
+| 43 | 192 | Josie Kirt |
+| 44 | 192 | Mandyy Rae |
 | 45 | 191 | Jazzy Framezone |
 | 46 | 191 | Giggly Builderline |
 | 47 | 190 | Thorne Shumate |
 | 48 | 190 | Sweetts |
 | 49 | 189 | Happy Basegrid |
 | 50 | 185 | Karin Gillen |
-| 51 | 173 | Frothy Pattern |
-| 52 | 173 | Sweet Baker |
+| 51 | 173 | Sweet Baker |
+| 52 | 173 | Frothy Pattern |
 | 53 | 171 | Robert Beck |
 | 54 | 169 | Erez Yosef |
 | 55 | 163 | Chad Atchley |
@@ -97,14 +97,14 @@
 | 89 | 112 | Nicole Roseberry Weber |
 | 90 | 112 | Miguel Teixeira |
 | 91 | 111 | Agustin Duarte Orozco |
-| 92 | 110 | Heidi Feurer |
-| 93 | 110 | Garcia Bailey |
+| 92 | 110 | Garcia Bailey |
+| 93 | 110 | Heidi Feurer |
 | 94 | 108 | Tavia |
 | 95 | 107 | Jodee Woods |
 | 96 | 105 | Flashy Rotator |
 | 97 | 105 | Barry Mac'Ockner |
-| 98 | 103 | Ash Galvan |
-| 99 | 103 | Adryane Schnase |
+| 98 | 103 | Adryane Schnase |
+| 99 | 103 | Ash Galvan |
 | 100 | 102 | Jennifer ManWarren |
 | 101 | 100 | Bhelle Sumile |
 | 102 | 99 | Melissa Bires Hussar |

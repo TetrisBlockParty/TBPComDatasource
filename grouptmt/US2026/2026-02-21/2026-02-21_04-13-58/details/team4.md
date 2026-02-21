@@ -51,8 +51,8 @@
 | 43 | 190 | Brittney Orengo |
 | 44 | 185 | loulou |
 | 45 | 179 | Epic Curvetile |
-| 46 | 170 | Leah Kutz Zirbel |
-| 47 | 170 | Girl |
+| 46 | 170 | Girl |
+| 47 | 170 | Leah Kutz Zirbel |
 | 48 | 169 | Julian Garcia |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 163 | Denise Carlson |
@@ -65,11 +65,11 @@
 | 57 | 145 | Edward White |
 | 58 | 141 | Malakai Darien Fox |
 | 59 | 140 | Shannon Ferrari |
-| 60 | 134 | Jessica Bohlken |
-| 61 | 134 | Chirpy Basepiece |
+| 60 | 134 | Chirpy Basepiece |
+| 61 | 134 | Jessica Bohlken |
 | 62 | 133 | Robin Watters |
-| 63 | 132 | Degenerate |
-| 64 | 132 | Jenna McGeorge |
+| 63 | 132 | Jenna McGeorge |
+| 64 | 132 | Degenerate |
 | 65 | 131 | Dustee Craddock-Harrison |
 | 66 | 130 | Casey Jeffcoat |
 | 67 | 129 | John Brunetti |
@@ -81,8 +81,8 @@
 | 73 | 120 | Joshua Guess |
 | 74 | 116 | Serena Goodridge |
 | 75 | 115 | Casey Grabner |
-| 76 | 114 | Zany Shatterer |
-| 77 | 114 | Jessica Cagle |
+| 76 | 114 | Jessica Cagle |
+| 77 | 114 | Zany Shatterer |
 | 78 | 113 | Andria Lynn |
 | 79 | 113 | Leslie Nicole |
 | 80 | 112 | Diana Houts |

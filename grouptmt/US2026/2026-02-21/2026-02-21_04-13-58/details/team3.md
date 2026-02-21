@@ -155,7 +155,7 @@
 | 147 | 112 | Juliana Dottore |
 | 148 | 110 | Stella |
 | 149 | 110 | Tiff Vs Tiffany |
-| 150 | 109 | Diana Ibarra |
+| 150 | 109 | Fredd Thomas |
 | 151 | 109 | Brian Battjes |
 | 152 | 109 | Diana Ibarra |
 | 153 | 108 | Rachel Napper |
