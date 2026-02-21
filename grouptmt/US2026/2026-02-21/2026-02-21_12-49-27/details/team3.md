@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Jennifer Willis |
-| 21 | 1015 | Josiah Fam |
+| 20 | 1015 | Josiah Fam |
+| 21 | 1015 | Jennifer Willis |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Snappy Glidepiece |
-| 44 | 546 | Dolores Falco |
+| 43 | 546 | Dolores Falco |
+| 44 | 546 | Snappy Glidepiece |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -174,21 +174,21 @@
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |
-| 169 | 149 | Bea Miles |
-| 170 | 149 | Angel Mendez |
-| 171 | 149 | Trisha Balmer |
-| 172 | 147 | Sashay Tapae Simpson |
-| 173 | 147 | Desiree Gold |
+| 169 | 149 | Trisha Balmer |
+| 170 | 149 | Bea Miles |
+| 171 | 149 | Angel Mendez |
+| 172 | 147 | Desiree Gold |
+| 173 | 147 | Sashay Tapae Simpson |
 | 174 | 146 | Denita Mungro |
 | 175 | 146 | Latoya Mayne |
 | 176 | 145 | Bryan Byrd |
 | 177 | 142 | Erica Anderson |
-| 178 | 140 | Gumbo |
-| 179 | 140 | Jay Horn |
-| 180 | 140 | Carrie Huskey |
+| 178 | 140 | Carrie Huskey |
+| 179 | 140 | Gumbo |
+| 180 | 140 | Jay Horn |
 | 181 | 136 | Boldy Corner |
-| 182 | 135 | Connie Mohler-Fair |
-| 183 | 135 | Cheryl Hinch Tenbrook |
+| 182 | 135 | Cheryl Hinch Tenbrook |
+| 183 | 135 | Connie Mohler-Fair |
 | 184 | 134 | Emma |
 | 185 | 133 | Aerian Preston |
 | 186 | 131 | Jl |
@@ -298,9 +298,9 @@
 | 290 | 88 | Kate Farok |
 | 291 | 88 | RickyG |
 | 292 | 88 | Dapper Towerfit |
-| 293 | 87 | FATTY |
-| 294 | 87 | Boldy Blocker |
-| 295 | 87 | Kellie Montgomery |
+| 293 | 87 | Kellie Montgomery |
+| 294 | 87 | FATTY |
+| 295 | 87 | Boldy Blocker |
 | 296 | 86 | Clever Clearbuilder |
 | 297 | 86 | Criss |
 | 298 | 86 | Salena Whitlock |

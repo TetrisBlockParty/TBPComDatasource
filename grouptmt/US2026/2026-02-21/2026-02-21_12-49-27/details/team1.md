@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -49,8 +49,8 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Theo Pinnow |
-| 45 | 274 | Sweet Baker |
+| 44 | 274 | Sweet Baker |
+| 45 | 274 | Theo Pinnow |
 | 46 | 272 | Adam Byrd |
 | 47 | 266 | Kristen Roles Robben |
 | 48 | 264 | Shauna Loe |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |

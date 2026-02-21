@@ -75,8 +75,8 @@
 | 67 | 197 | Autum Leigh |
 | 68 | 194 | Jamie Mann-Deichmann |
 | 69 | 187 | Swanky Fitline |
-| 70 | 185 | Andy Cabral |
-| 71 | 185 | loulou |
+| 70 | 185 | loulou |
+| 71 | 185 | Andy Cabral |
 | 72 | 180 | Leah Kutz Zirbel |
 | 73 | 180 | shar |
 | 74 | 179 | Epic Curvetile |
@@ -88,8 +88,8 @@
 | 80 | 170 | Justin Hannigan |
 | 81 | 170 | Girl |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Courtney Cicoria |
-| 84 | 165 | Casey Grabner |
+| 83 | 165 | Casey Grabner |
+| 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
 | 87 | 160 | Carter Jones |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | 030Synner |
-| 96 | 147 | Jay28 |
+| 95 | 147 | Jay28 |
+| 96 | 147 | 030Synner |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
