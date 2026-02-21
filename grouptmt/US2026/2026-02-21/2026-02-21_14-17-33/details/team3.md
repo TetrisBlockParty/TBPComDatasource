@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Ebony West-Cundiff |
-| 59 | 446 | Kathryn Keenan-Taggart |
+| 58 | 446 | Kathryn Keenan-Taggart |
+| 59 | 446 | Ebony West-Cundiff |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -317,7 +317,7 @@
 | 309 | 88 | Kelly Koenig |
 | 310 | 88 | Dapper Towerfit |
 | 311 | 87 | Kellie Montgomery |
-| 312 | 86 | Clever Clearbuilder |
+| 312 | 86 | Criss |
 | 313 | 86 | Salena Whitlock |
 | 314 | 86 | Clever Clearbuilder |
 | 315 | 85 | Lush Risebuilder |

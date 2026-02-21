@@ -59,8 +59,8 @@
 | 51 | 264 | Shauna Loe |
 | 52 | 261 | Ryan Lunnin |
 | 53 | 257 | Sarah Roberts |
-| 54 | 256 | Robert Benito |
-| 55 | 256 | Tipsy Column |
+| 54 | 256 | Tipsy Column |
+| 55 | 256 | Robert Benito |
 | 56 | 253 | Bhelle Sumile |
 | 57 | 252 | Dena Kayy |
 | 58 | 244 | Tdub |
@@ -101,8 +101,8 @@
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
-| 96 | 165 | GATOR |
-| 97 | 165 | Veronica Eve |
+| 96 | 165 | Veronica Eve |
+| 97 | 165 | GATOR |
 | 98 | 163 | Chad Atchley |
 | 99 | 162 | Tyler Whitley |
 | 100 | 161 | Abbey Crespo |
@@ -112,12 +112,12 @@
 | 104 | 155 | Standia Civil |
 | 105 | 153 | Shiny Gridmatch |
 | 106 | 152 | Jacqueline Unique |
-| 107 | 149 | Jennifer ManWarren |
-| 108 | 149 | Arianna O'Brien |
+| 107 | 149 | Arianna O'Brien |
+| 108 | 149 | Jennifer ManWarren |
 | 109 | 149 | Tana |
 | 110 | 148 | Shauntina Burke |
-| 111 | 146 | Tanya Carpenter-Reynolds |
-| 112 | 146 | Irual Hctrab |
+| 111 | 146 | Irual Hctrab |
+| 112 | 146 | Tanya Carpenter-Reynolds |
 | 113 | 145 | BigWeenie69 |
 | 114 | 144 | Plucky Ziggy |
 | 115 | 144 | femmefatale |
@@ -161,11 +161,11 @@
 | 153 | 112 | Nicole Roseberry Weber |
 | 154 | 111 | Chirpy Smasher |
 | 155 | 111 | Agustin Duarte Orozco |
-| 156 | 110 | Madison Wicks |
-| 157 | 110 | Garcia Bailey |
-| 158 | 108 | Tavia |
-| 159 | 108 | Dizzy Party |
-| 160 | 108 | Luciano Moreira |
+| 156 | 110 | Garcia Bailey |
+| 157 | 110 | Madison Wicks |
+| 158 | 108 | Luciano Moreira |
+| 159 | 108 | Tavia |
+| 160 | 108 | Dizzy Party |
 | 161 | 107 | Jodee Woods |
 | 162 | 107 | LD1 |
 | 163 | 106 | Bloknboy |

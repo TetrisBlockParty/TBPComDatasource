@@ -169,11 +169,11 @@
 | 161 | 105 | Kristin MacDonald |
 | 162 | 104 | Damn Libra |
 | 163 | 103 | Judy Cox |
-| 164 | 102 | Faja |
-| 165 | 102 | Autumn Kumzi |
-| 166 | 102 | April Rondinone |
-| 167 | 101 | Saulc1991 |
-| 168 | 101 | Michelle Morris |
+| 164 | 102 | April Rondinone |
+| 165 | 102 | Faja |
+| 166 | 102 | Autumn Kumzi |
+| 167 | 101 | Michelle Morris |
+| 168 | 101 | Saulc1991 |
 | 169 | 100 | Alexandra Karavias |
 | 170 | 99 | Anthony Bryan Riva |
 | 171 | 99 | Michael Orris |
@@ -249,7 +249,7 @@
 | 241 | 76 | Crystal Lynn |
 | 242 | 75 | Christina Black |
 | 243 | 75 | Moonsterix |
-| 244 | 75 | Christina Black |
+| 244 | 75 | Rosemary Foster |
 | 245 | 74 | Tyler Terrific |
 | 246 | 73 | Staci Robinson Jones |
 | 247 | 73 | Cristy Duerksen |
