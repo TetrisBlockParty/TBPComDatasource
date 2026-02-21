@@ -113,8 +113,8 @@
 | 105 | 159 | Holly Jolly |
 | 106 | 157 | quicksand420 |
 | 107 | 154 | Zany Twisterfit |
-| 108 | 151 | Dana Scott |
-| 109 | 151 | Bethany Ison |
+| 108 | 151 | Bethany Ison |
+| 109 | 151 | Dana Scott |
 | 110 | 147 | Jay28 |
 | 111 | 147 | 030Synner |
 | 112 | 146 | Peachy Fall |
@@ -159,7 +159,7 @@
 | 151 | 115 | Ultramarine |
 | 152 | 113 | Adam Randall |
 | 153 | 112 | Austin Owens |
-| 154 | 112 | Bryan Hodgins |
+| 154 | 112 | Jackie Marie |
 | 155 | 112 | Brittany Marsh |
 | 156 | 112 | Bryan Hodgins |
 | 157 | 112 | Chair |

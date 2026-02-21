@@ -99,8 +99,8 @@
 | 91 | 185 | Ash Galvan |
 | 92 | 180 | Erez Yosef |
 | 93 | 178 | Danielle Little-Daugherty |
-| 94 | 173 | june october |
-| 95 | 173 | Frothy Pattern |
+| 94 | 173 | Frothy Pattern |
+| 95 | 173 | june october |
 | 96 | 173 | Jennifer Olewnik Soborowski |
 | 97 | 171 | Greg Premoe |
 | 98 | 169 | Abbey Crespo |

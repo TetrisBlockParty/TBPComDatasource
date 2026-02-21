@@ -105,8 +105,8 @@
 | 97 | 309 | Rich LeBlanc |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
-| 100 | 300 | Sherika C. McDaniels |
-| 101 | 300 | Tessina Dewey-Mancino |
+| 100 | 300 | Tessina Dewey-Mancino |
+| 101 | 300 | Sherika C. McDaniels |
 | 102 | 299 | Speedy Bridger |
 | 103 | 267 | Rufus Lincoln |
 | 104 | 264 | Tiff Vs Tiffany |
@@ -118,8 +118,8 @@
 | 110 | 252 | Nicole Flippo |
 | 111 | 249 | Denise Nardoni |
 | 112 | 246 | Logan Naccarato |
-| 113 | 241 | Crimson |
-| 114 | 241 | Jessica Bechler |
+| 113 | 241 | Jessica Bechler |
+| 114 | 241 | Crimson |
 | 115 | 240 | Nerdy Riseclear |
 | 116 | 234 | Louise Stacy Sisson |
 | 117 | 233 | Ray Lader |
@@ -136,8 +136,8 @@
 | 128 | 212 | Shunta Jacobs |
 | 129 | 211 | Katrina Schroeder |
 | 130 | 208 | Morgan Martinez |
-| 131 | 207 | rnr junky |
-| 132 | 207 | Chris Bell |
+| 131 | 207 | Chris Bell |
+| 132 | 207 | rnr junky |
 | 133 | 206 | Chasity |
 | 134 | 204 | Mcathen |
 | 135 | 204 | Aaron Pitkin |
@@ -172,8 +172,8 @@
 | 164 | 167 | Raven Dudley |
 | 165 | 166 | Danielle Mogg |
 | 166 | 166 | Loopy Fallmatch |
-| 167 | 166 | Betty Rosas |
-| 168 | 166 | Kelly Ann Child |
+| 167 | 166 | Kelly Ann Child |
+| 168 | 166 | Betty Rosas |
 | 169 | 165 | Kali Kelz Williams |
 | 170 | 164 | Brandon Givens |
 | 171 | 163 | Trisha Balmer |
@@ -225,10 +225,10 @@
 | 217 | 127 | Marquita Sheard |
 | 218 | 127 | Jennifer Alvey |
 | 219 | 125 | Felicia Doxey |
-| 220 | 125 | Darlene McMillan |
-| 221 | 125 | Shimika Enay Wallace |
-| 222 | 124 | Funky Jumper |
-| 223 | 124 | Danielle Allison |
+| 220 | 125 | Shimika Enay Wallace |
+| 221 | 125 | Darlene McMillan |
+| 222 | 124 | Danielle Allison |
+| 223 | 124 | Funky Jumper |
 | 224 | 123 | Marci Mize Fandrich |
 | 225 | 122 | Giggly Brickroll |
 | 226 | 122 | BabyTonj Evans |
@@ -264,8 +264,8 @@
 | 256 | 108 | Hanna Kim |
 | 257 | 108 | Rachel Napper |
 | 258 | 107 | Bouncy Blockbuilder |
-| 259 | 107 | Sherry Ogden |
-| 260 | 107 | Rachel |
+| 259 | 107 | Rachel |
+| 260 | 107 | Sherry Ogden |
 | 261 | 106 | Noettín Kan Zasnemoore |
 | 262 | 106 | Cozy Snaplink |
 | 263 | 105 | Emi |
@@ -314,9 +314,9 @@
 | 306 | 92 | Melanie Sherwood |
 | 307 | 92 | Ava Petito |
 | 308 | 91 | Crystal Hine |
-| 309 | 90 | Tiffany Kaupang |
-| 310 | 90 | Whitney Manuel |
-| 311 | 90 | Alexis Ford |
+| 309 | 90 | Alexis Ford |
+| 310 | 90 | Tiffany Kaupang |
+| 311 | 90 | Whitney Manuel |
 | 312 | 90 | Snazzy Brickzone |
 | 313 | 89 | Zac Hudak |
 | 314 | 89 | Patti Skiles |

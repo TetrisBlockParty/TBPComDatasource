@@ -334,9 +334,9 @@
 | 326 | 302 | Offonar Facey |
 | 327 | 301 | Claire |
 | 328 | 300 | Angela Lynn |
-| 329 | 296 | Amber Gray |
-| 330 | 296 | Jennifer Casey-Kay |
-| 331 | 296 | Heather Schelkopf |
+| 329 | 296 | Heather Schelkopf |
+| 330 | 296 | Amber Gray |
+| 331 | 296 | Jennifer Casey-Kay |
 | 332 | 296 | Jennifer Darby |
 | 333 | 295 | Melissa Kay Gibson |
 | 334 | 295 | Diallo Sparkman |
@@ -600,8 +600,8 @@
 | 592 | 167 | mshir |
 | 593 | 166 | Rhonda Petro |
 | 594 | 166 | suuny |
-| 595 | 165 | Austin Wilson |
-| 596 | 165 | Fae-Bulous |
+| 595 | 165 | Fae-Bulous |
+| 596 | 165 | Austin Wilson |
 | 597 | 165 | Catherine Varea |
 | 598 | 164 | Sara Pennington |
 | 599 | 164 | Jessica Vega |
