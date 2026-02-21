@@ -354,8 +354,8 @@
 | 346 | 262 | Min |
 | 347 | 262 | Taren Cowan |
 | 348 | 261 | MrsClaudette Will'sIam Matthews |
-| 349 | 260 | Ebony Deloach Bryant |
-| 350 | 260 | Denise Rickman |
+| 349 | 260 | Denise Rickman |
+| 350 | 260 | Ebony Deloach Bryant |
 | 351 | 259 | Demeka Dangerous-kisses Johnson |
 | 352 | 257 | Lyndi Robinson Wakefield |
 | 353 | 257 | Diana Fitzwater |

@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -132,8 +132,8 @@
 | 124 | 195 | Jenny Hrndz |
 | 125 | 195 | Nicha Hooker |
 | 126 | 194 | glichmod |
-| 127 | 193 | Clever Shiftsnap |
-| 128 | 193 | Stephanie Burtin |
+| 127 | 193 | Stephanie Burtin |
+| 128 | 193 | Clever Shiftsnap |
 | 129 | 192 | Chasity |
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
@@ -155,8 +155,8 @@
 | 147 | 166 | Betty Rosas |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
-| 150 | 164 | DanceLuvLaugh |
-| 151 | 164 | rosy |
+| 150 | 164 | rosy |
+| 151 | 164 | DanceLuvLaugh |
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Stephanie Hill |
 | 154 | 160 | Tiffany Davie |
@@ -191,8 +191,8 @@
 | 183 | 135 | Cheryl Hinch Tenbrook |
 | 184 | 135 | Connie Mohler-Fair |
 | 185 | 134 | Emma |
-| 186 | 133 | Joy Petroski |
-| 187 | 133 | Aerian Preston |
+| 186 | 133 | Aerian Preston |
+| 187 | 133 | Joy Petroski |
 | 188 | 131 | Jl |
 | 189 | 129 | Jessica Bechler |
 | 190 | 129 | Lesley Perez |

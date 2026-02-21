@@ -82,8 +82,8 @@
 | 74 | 179 | Epic Curvetile |
 | 75 | 178 | Lori |
 | 76 | 175 | Dustee Craddock-Harrison |
-| 77 | 173 | Jeff Brian Gates |
-| 78 | 173 | Zethra Prenisha Rahming |
+| 77 | 173 | Zethra Prenisha Rahming |
+| 78 | 173 | Jeff Brian Gates |
 | 79 | 171 | Melvin Baird |
 | 80 | 170 | Girl |
 | 81 | 170 | Justin Hannigan |

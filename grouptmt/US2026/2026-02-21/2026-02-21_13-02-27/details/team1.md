@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 325 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
