@@ -162,12 +162,12 @@
 | 154 | 271 | Toni Lynn |
 | 155 | 270 | Lonne Emade |
 | 156 | 268 | Vanessa Moreno |
-| 157 | 266 | Mighty Shatterfit |
-| 158 | 266 | Autumn Schaeffer |
+| 157 | 266 | Autumn Schaeffer |
+| 158 | 266 | Mighty Shatterfit |
 | 159 | 266 | Joyce Johnson Vaughn |
 | 160 | 265 | Wuntayk |
-| 161 | 263 | Shiny Rollzone |
-| 162 | 263 | Oscar Bernie |
+| 161 | 263 | Oscar Bernie |
+| 162 | 263 | Shiny Rollzone |
 | 163 | 263 | Taylor Flowers |
 | 164 | 261 | MrsClaudette Will'sIam Matthews |
 | 165 | 260 | Mindy Leigh Head |
@@ -408,7 +408,7 @@
 | 400 | 115 | Fae-Bulous |
 | 401 | 115 | Heather Schelkopf |
 | 402 | 114 | Starrs Dcct |
-| 403 | 114 | Dandy Drop |
+| 403 | 114 | James Smith |
 | 404 | 114 | Tommy Stuck |
 | 405 | 114 | Dandy Drop |
 | 406 | 114 | Melissa Maples |
