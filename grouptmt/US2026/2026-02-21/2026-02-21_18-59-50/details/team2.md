@@ -172,8 +172,8 @@
 | 164 | 619 | Jamie Otero |
 | 165 | 613 | Rebecca Doughman |
 | 166 | 608 | Thomas Hughes |
-| 167 | 608 | Sommer Shope |
-| 168 | 608 | John Bednarik |
+| 167 | 608 | John Bednarik |
+| 168 | 608 | Sommer Shope |
 | 169 | 604 | Amber Shoemaker |
 | 170 | 604 | Danielle Johnson-Chandler |
 | 171 | 603 | Cassie Maynard |

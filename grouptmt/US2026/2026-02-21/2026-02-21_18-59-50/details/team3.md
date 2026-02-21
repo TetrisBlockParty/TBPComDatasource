@@ -152,8 +152,8 @@
 | 144 | 223 | Jeana Gilbert |
 | 145 | 222 | Hoppy Buildout |
 | 146 | 222 | Jimmie Clemons |
-| 147 | 219 | Tom Nault |
-| 148 | 219 | Shunta Jacobs |
+| 147 | 219 | Shunta Jacobs |
+| 148 | 219 | Tom Nault |
 | 149 | 217 | Jess Bissett |
 | 150 | 216 | Aaron Pitkin |
 | 151 | 216 | Marci Mize Fandrich |
@@ -161,8 +161,8 @@
 | 153 | 214 | Amy Fuller Heaton |
 | 154 | 214 | Leah Barnett |
 | 155 | 212 | Krystal Gerstberger |
-| 156 | 211 | Katrina Turner |
-| 157 | 211 | Katrina Schroeder |
+| 156 | 211 | Katrina Schroeder |
+| 157 | 211 | Katrina Turner |
 | 158 | 207 | Nicole Myers |
 | 159 | 207 | Nikki Pags |
 | 160 | 207 | Jessica |
@@ -213,10 +213,10 @@
 | 205 | 163 | Stephanie Hill |
 | 206 | 163 | Christine Trester |
 | 207 | 162 | Stephanie Whitefield |
-| 208 | 161 | Irene Arreguin |
-| 209 | 161 | BŘŰŤİÇŨŚ |
-| 210 | 160 | Marquita Sheard |
-| 211 | 160 | Tiffany Davie |
+| 208 | 161 | BŘŰŤİÇŨŚ |
+| 209 | 161 | Irene Arreguin |
+| 210 | 160 | Tiffany Davie |
+| 211 | 160 | Marquita Sheard |
 | 212 | 159 | Jone |
 | 213 | 157 | Patricia Gadsden |
 | 214 | 156 | Bea Miles |
@@ -231,7 +231,7 @@
 | 223 | 152 | Katrina E Jelks |
 | 224 | 152 | Shiny Zonebuilder |
 | 225 | 150 | Valerie Gendron |
-| 226 | 149 | Alexis Taylor |
+| 226 | 149 | Angel Mendez |
 | 227 | 149 | Peachy Rollfit |
 | 228 | 149 | Alexis Taylor |
 | 229 | 148 | Jennifer Alvey |
@@ -259,8 +259,8 @@
 | 251 | 134 | Sarah Moyer |
 | 252 | 134 | Skinny Baldez |
 | 253 | 133 | LaNette Morgan |
-| 254 | 131 | April Matthew Kibble |
-| 255 | 131 | Darlene McMillan |
+| 254 | 131 | Darlene McMillan |
+| 255 | 131 | April Matthew Kibble |
 | 256 | 130 | Weerae |
 | 257 | 129 | Samantha Lynn |
 | 258 | 129 | Juliana Dottore |

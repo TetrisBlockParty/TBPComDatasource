@@ -89,8 +89,8 @@
 | 81 | 240 | Elaine Elaine |
 | 82 | 235 | Dee Perry |
 | 83 | 233 | cc |
-| 84 | 232 | Cynthia Bradley |
-| 85 | 232 | John J. Cronin |
+| 84 | 232 | John J. Cronin |
+| 85 | 232 | Cynthia Bradley |
 | 86 | 230 | Frothy Pattern |
 | 87 | 228 | Trippy Redd |
 | 88 | 226 | Sharon Reynolds |
@@ -125,8 +125,8 @@
 | 117 | 176 | Basment Living |
 | 118 | 175 | Nicole Roseberry Weber |
 | 119 | 174 | Michael |
-| 120 | 171 | David DeSantis |
-| 121 | 171 | Greg Premoe |
+| 120 | 171 | Greg Premoe |
+| 121 | 171 | David DeSantis |
 | 122 | 169 | Abbey Crespo |
 | 123 | 168 | Standia Civil |
 | 124 | 166 | Rico Rico |
@@ -148,7 +148,7 @@
 | 140 | 148 | Shauntina Burke |
 | 141 | 147 | Leslie Bush Yarbrough |
 | 142 | 146 | Christy Jones |
-| 143 | 145 | Agustin Duarte Orozco |
+| 143 | 145 | BigWeenie69 |
 | 144 | 145 | Angela Fairbank |
 | 145 | 145 | Agustin Duarte Orozco |
 | 146 | 144 | Gary Gobin |
