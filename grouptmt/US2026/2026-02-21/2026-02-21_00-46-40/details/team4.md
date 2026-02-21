@@ -72,8 +72,8 @@
 | 64 | 94 | Chilly Line |
 | 65 | 93 | YoMomma |
 | 66 | 92 | Kristin MacDonald |
-| 67 | 90 | Carter Jones |
-| 68 | 90 | ZeeZee |
+| 67 | 90 | ZeeZee |
+| 68 | 90 | Carter Jones |
 | 69 | 88 | Jenna McGeorge |
 | 70 | 87 | Malakai Darien Fox |
 | 71 | 87 | Jen Caldwell |
@@ -94,8 +94,8 @@
 | 86 | 72 | Joshua Cuellar |
 | 87 | 72 | Jae Job |
 | 88 | 71 | Joseph Pace |
-| 89 | 70 | Christina Black |
-| 90 | 70 | Melissa Adams |
+| 89 | 70 | Melissa Adams |
+| 90 | 70 | Christina Black |
 | 91 | 70 | Valerie Roberts |
 | 92 | 68 | LS |
 | 93 | 68 | Sam Middleton |
@@ -137,11 +137,11 @@
 | 129 | 51 | BertMofo |
 | 130 | 51 | George Nutt |
 | 131 | 50 | Landon Keith Graffeo |
-| 132 | 50 | Brandon Crabbs |
-| 133 | 50 | GBR |
+| 132 | 50 | GBR |
+| 133 | 50 | Brandon Crabbs |
 | 134 | 50 | Smiley Linkgrid |
-| 135 | 49 | shark tato |
-| 136 | 49 | Rio Rocha |
+| 135 | 49 | Rio Rocha |
+| 136 | 49 | shark tato |
 | 137 | 49 | Lakesha Johnson |
 | 138 | 48 | David Lay |
 | 139 | 47 | Amy Sanford |

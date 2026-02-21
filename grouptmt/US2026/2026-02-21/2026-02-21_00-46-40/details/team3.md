@@ -134,9 +134,9 @@
 | 126 | 92 | Skinny Baldez |
 | 127 | 90 | Tiffany Kaupang |
 | 128 | 89 | Hyper Bridger |
-| 129 | 89 | Marquita Sheard |
-| 130 | 88 | Funky Jumper |
-| 131 | 88 | Martin Bernier |
+| 129 | 89 | Annie Déè |
+| 130 | 88 | Martin Bernier |
+| 131 | 88 | Funky Jumper |
 | 132 | 86 | Dan Rob |
 | 133 | 84 | Eon Harris |
 | 134 | 84 | Ava Petito |
