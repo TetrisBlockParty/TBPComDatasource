@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -123,9 +123,9 @@
 | 115 | 179 | Epic Curvetile |
 | 116 | 178 | Lori |
 | 117 | 176 | Stacey Stano |
-| 118 | 174 | Dihcheese444 |
-| 119 | 174 | Zethra Prenisha Rahming |
-| 120 | 174 | shark tato |
+| 118 | 174 | shark tato |
+| 119 | 174 | Dihcheese444 |
+| 120 | 174 | Zethra Prenisha Rahming |
 | 121 | 173 | blockstar |
 | 122 | 173 | Ren Mc |
 | 123 | 170 | Girl |
@@ -133,10 +133,10 @@
 | 125 | 164 | 030Synner |
 | 126 | 164 | ThaEviLJeNiuZ |
 | 127 | 160 | ZeeZee |
-| 128 | 157 | Jenna McGeorge |
-| 129 | 157 | quicksand420 |
-| 130 | 156 | Jessica Bohlken |
-| 131 | 156 | Holly |
+| 128 | 157 | quicksand420 |
+| 129 | 157 | Jenna McGeorge |
+| 130 | 156 | Holly |
+| 131 | 156 | Jessica Bohlken |
 | 132 | 153 | Empress Oasis |
 | 133 | 151 | Bethany Ison |
 | 134 | 151 | Dana Scott |

@@ -156,8 +156,8 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Hoppy Buildout |
-| 152 | 222 | Jimmie Clemons |
+| 151 | 222 | Jimmie Clemons |
+| 152 | 222 | Hoppy Buildout |
 | 153 | 219 | Shunta Jacobs |
 | 154 | 218 | LaNette Morgan |
 | 155 | 218 | Rochelle Hazelett |
@@ -236,8 +236,8 @@
 | 228 | 152 | Shiny Zonebuilder |
 | 229 | 152 | Lesley Perez |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Alexis Taylor |
-| 232 | 149 | Peachy Rollfit |
+| 231 | 149 | Peachy Rollfit |
+| 232 | 149 | Alexis Taylor |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Gumbo |
 | 235 | 148 | Sabrina Hardrick |
@@ -348,8 +348,8 @@
 | 340 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 341 | 101 | Shicken Nuggit |
 | 342 | 101 | Hyper Bridger |
-| 343 | 100 | Bobbi Moore |
-| 344 | 100 | Edwin Calvillo Jr. |
+| 343 | 100 | Edwin Calvillo Jr. |
+| 344 | 100 | Bobbi Moore |
 | 345 | 100 | Crystal Hine |
 | 346 | 99 | Michelle Ramirez |
 | 347 | 99 | Leticia Lynn Lowe |

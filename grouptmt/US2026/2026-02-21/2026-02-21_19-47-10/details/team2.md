@@ -254,8 +254,8 @@
 | 246 | 482 | Eckoman518 |
 | 247 | 479 | Jennifer Kistner |
 | 248 | 475 | Khalil Lowe |
-| 249 | 474 | Calandra Shaya Robinson |
-| 250 | 474 | Ashley Collins |
+| 249 | 474 | Ashley Collins |
+| 250 | 474 | Calandra Shaya Robinson |
 | 251 | 470 | Jerry Tempelmeyer |
 | 252 | 469 | Ashley Rose Frederick |
 | 253 | 467 | Hyper Cluster |
@@ -387,8 +387,8 @@
 | 379 | 334 | Véronique Lévesque Sabourin |
 | 380 | 334 | Peppy Snapfall |
 | 381 | 334 | Brittney Jean |
-| 382 | 333 | Offonar Facey |
-| 383 | 333 | Tra Barnum |
+| 382 | 333 | Tra Barnum |
+| 383 | 333 | Offonar Facey |
 | 384 | 333 | Sabrina Burton |
 | 385 | 332 | Nicole Cannon |
 | 386 | 331 | Shelley Thornburgh Wright |
@@ -405,8 +405,8 @@
 | 397 | 325 | bru |
 | 398 | 325 | Daniel Amos |
 | 399 | 325 | Lewis Sturgeon |
-| 400 | 323 | Briana Alexander |
-| 401 | 323 | KhaosLord |
+| 400 | 323 | KhaosLord |
+| 401 | 323 | Briana Alexander |
 | 402 | 322 | NanDa Cruzan VI |
 | 403 | 321 | Tamara Bailey |
 | 404 | 319 | Rose Fx |
