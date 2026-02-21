@@ -114,8 +114,8 @@
 | 106 | 230 | Lucas J Sutton |
 | 107 | 222 | Joeliecea Cobb |
 | 108 | 221 | Alyssa Papen |
-| 109 | 218 | Casey Grabner |
-| 110 | 218 | Antony Dwayne Beasley |
+| 109 | 218 | Antony Dwayne Beasley |
+| 110 | 218 | Casey Grabner |
 | 111 | 213 | Chaz Duncan |
 | 112 | 212 | Calvin Cannon |
 | 113 | 211 | Dizzy Tiley |

@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
@@ -190,8 +190,8 @@
 | 182 | 219 | Rebecca Bailey |
 | 183 | 218 | LaNette Morgan |
 | 184 | 217 | Jess Bissett |
-| 185 | 214 | Jenny Hrndz |
-| 186 | 214 | Amy Fuller Heaton |
+| 185 | 214 | Amy Fuller Heaton |
+| 186 | 214 | Jenny Hrndz |
 | 187 | 212 | Krystal Gerstberger |
 | 188 | 211 | Khaleada McGill Banks |
 | 189 | 211 | Katrina Turner |
@@ -223,8 +223,8 @@
 | 215 | 186 | Sunny Rotater |
 | 216 | 184 | Troy |
 | 217 | 183 | Ashley Jones |
-| 218 | 182 | Hyper Matchzone |
-| 219 | 182 | Raven Dudley |
+| 218 | 182 | Raven Dudley |
+| 219 | 182 | Hyper Matchzone |
 | 220 | 181 | Nicholas Roddy |
 | 221 | 180 | Loopy Fallmatch |
 | 222 | 179 | Tipsy Zonebuilder |

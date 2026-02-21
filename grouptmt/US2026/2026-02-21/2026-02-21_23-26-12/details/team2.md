@@ -226,8 +226,8 @@
 | 218 | 619 | Jamie Otero |
 | 219 | 618 | Gabby Jenner |
 | 220 | 615 | Auntie B |
-| 221 | 608 | Sommer Shope |
-| 222 | 608 | goofinoff |
+| 221 | 608 | goofinoff |
+| 222 | 608 | Sommer Shope |
 | 223 | 605 | Jelly |
 | 224 | 603 | Cassie Maynard |
 | 225 | 602 | Brandon Armstrong |
@@ -608,7 +608,7 @@
 | 600 | 252 | Sheniya Spurgeon |
 | 601 | 252 | Aleasha M Brown |
 | 602 | 250 | James Smith |
-| 603 | 250 | Kristi Biddinger |
+| 603 | 250 | sup |
 | 604 | 250 | LeVeL27 |
 | 605 | 250 | Kristi Biddinger |
 | 606 | 249 | Porsche' Nicole |
@@ -883,8 +883,8 @@
 | 875 | 171 | Tripper Boone |
 | 876 | 171 | Ashley Cooper Tharin |
 | 877 | 171 | Bee |
-| 878 | 170 | Fae-Bulous |
-| 879 | 170 | kickstante |
+| 878 | 170 | kickstante |
+| 879 | 170 | Fae-Bulous |
 | 880 | 170 | AndrewandShela Gornik |
 | 881 | 170 | Rhonda Petro |
 | 882 | 170 | Hazel Spears |
