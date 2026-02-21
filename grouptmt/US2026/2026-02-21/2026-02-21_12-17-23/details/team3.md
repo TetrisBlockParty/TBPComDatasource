@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -148,14 +148,14 @@
 | 140 | 166 | Betty Rosas |
 | 141 | 166 | Kelly Ann Child |
 | 142 | 165 | Kali Kelz Williams |
-| 143 | 164 | rosy |
-| 144 | 164 | DanceLuvLaugh |
+| 143 | 164 | DanceLuvLaugh |
+| 144 | 164 | rosy |
 | 145 | 163 | Karon Griffin |
 | 146 | 163 | Stephanie Hill |
 | 147 | 160 | Tiffany Davie |
-| 148 | 159 | Morgan Martinez |
-| 149 | 159 | Jone |
-| 150 | 159 | Mcathen |
+| 148 | 159 | Mcathen |
+| 149 | 159 | Morgan Martinez |
+| 150 | 159 | Jone |
 | 151 | 158 | Grams |
 | 152 | 157 | Nicholas Roddy |
 | 153 | 157 | Patricia Gadsden |

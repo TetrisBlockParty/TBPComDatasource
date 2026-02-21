@@ -435,9 +435,9 @@
 | 427 | 200 | LaWanda Powell |
 | 428 | 200 | Sarah Ridenour |
 | 429 | 199 | Fi Ne |
-| 430 | 199 | Jessica Sutter |
-| 431 | 199 | Jenny Castro |
-| 432 | 199 | Alyssa Nadine Medelez |
+| 430 | 199 | Jenny Castro |
+| 431 | 199 | Alyssa Nadine Medelez |
+| 432 | 199 | Jessica Sutter |
 | 433 | 198 | Angie Bolton Workman |
 | 434 | 198 | Alyssa Dean |
 | 435 | 196 | Besma Ao |
@@ -481,17 +481,17 @@
 | 473 | 179 | Desiree Harris Rosch |
 | 474 | 179 | Elizabeth Pearson |
 | 475 | 179 | Lively Catcher |
-| 476 | 179 | Bette Prieto |
-| 477 | 179 | Cat |
+| 476 | 179 | Cat |
+| 477 | 179 | Bette Prieto |
 | 478 | 178 | Michelle Shrum |
 | 479 | 178 | Cathy Bitters |
 | 480 | 177 | Ryan Meilleur |
 | 481 | 177 | John |
 | 482 | 177 | Angel |
 | 483 | 177 | Facuetoo |
-| 484 | 176 | Jennifer Malloy - Cardy |
+| 484 | 176 | Stacy Harper |
 | 485 | 176 | Trisha Gallagher |
-| 486 | 176 | Stacy Harper |
+| 486 | 176 | Jennifer Malloy - Cardy |
 | 487 | 175 | Snippy Rumbler |
 | 488 | 175 | Tina Blessed Cage |
 | 489 | 175 | Shandrica Lowe |
@@ -567,8 +567,8 @@
 | 559 | 154 | Lydia Greenman |
 | 560 | 154 | Tiffney Wroten |
 | 561 | 154 | Bryan Werleman |
-| 562 | 154 | L3sli3 |
-| 563 | 154 | Lori Maring |
+| 562 | 154 | Lori Maring |
+| 563 | 154 | L3sli3 |
 | 564 | 153 | Luna |
 | 565 | 153 | Leslie |
 | 566 | 153 | Poppy Gridder |

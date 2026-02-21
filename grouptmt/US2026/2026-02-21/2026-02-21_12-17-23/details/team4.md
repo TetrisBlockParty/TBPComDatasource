@@ -24,8 +24,8 @@
 | 16 | 609 | Devinlee Brown |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -146,8 +146,8 @@
 | 138 | 112 | Brittany Marsh |
 | 139 | 111 | Lazy Blocker |
 | 140 | 111 | Gwendolyn Pitcairn |
-| 141 | 110 | YoMomma |
-| 142 | 110 | H.R. Block |
+| 141 | 110 | H.R. Block |
+| 142 | 110 | YoMomma |
 | 143 | 107 | Marcus Todd |
 | 144 | 105 | TheNeesh50 |
 | 145 | 105 | AyeKay |
