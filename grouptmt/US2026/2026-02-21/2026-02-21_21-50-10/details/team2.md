@@ -467,8 +467,8 @@
 | 459 | 312 | Michelle Pike |
 | 460 | 310 | Cheeky Brickmatch |
 | 461 | 310 | Sharon Mills |
-| 462 | 309 | Glitzy Stackzone |
-| 463 | 309 | Autumn Schaeffer |
+| 462 | 309 | Autumn Schaeffer |
+| 463 | 309 | Glitzy Stackzone |
 | 464 | 307 | Kitybox |
 | 465 | 306 | Frisky Clearpiece |
 | 466 | 305 | Zany Clusterbuilder |

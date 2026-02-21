@@ -331,7 +331,7 @@
 | 323 | 77 | Mike |
 | 324 | 76 | Crystal Lynn |
 | 325 | 76 | Rebecca Blake |
-| 326 | 76 | Crystal Lynn |
+| 326 | 76 | Kevin Bush |
 | 327 | 76 | Cristy Duerksen |
 | 328 | 76 | Sharyn Lemire |
 | 329 | 75 | Moonsterix |

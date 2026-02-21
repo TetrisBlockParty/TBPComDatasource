@@ -209,8 +209,8 @@
 | 201 | 122 | Margo Wagner |
 | 202 | 122 | Melissa Lemmon |
 | 203 | 121 | Mark Smith |
-| 204 | 120 | Kimmie Kimms |
-| 205 | 120 | Alenoush Karimian |
+| 204 | 120 | Alenoush Karimian |
+| 205 | 120 | Kimmie Kimms |
 | 206 | 119 | Tater |
 | 207 | 118 | SavageBooty98 |
 | 208 | 118 | Nery Martinez |
