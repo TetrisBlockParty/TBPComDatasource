@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Jaimie Lynn |
-| 53 | 212 | Tdub |
+| 52 | 212 | Tdub |
+| 53 | 212 | Jaimie Lynn |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -70,18 +70,18 @@
 | 62 | 198 | Billie Dawn Sparks |
 | 63 | 198 | Happy Snapbuild |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Sharon Reynolds |
-| 66 | 194 | Giggly Builderline |
+| 65 | 194 | Giggly Builderline |
+| 66 | 194 | Sharon Reynolds |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 192 | Mandyy Rae |
 | 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
-| 71 | 190 | Thorne Shumate |
-| 72 | 190 | Sweetts |
+| 71 | 190 | Sweetts |
+| 72 | 190 | Thorne Shumate |
 | 73 | 189 | Happy Basegrid |
 | 74 | 180 | Erez Yosef |
-| 75 | 173 | Frothy Pattern |
-| 76 | 173 | june october |
+| 75 | 173 | june october |
+| 76 | 173 | Frothy Pattern |
 | 77 | 171 | Jennifer Olewnik Soborowski |
 | 78 | 168 | Bhelle Sumile |
 | 79 | 167 | Adam Byrd |
@@ -109,8 +109,8 @@
 | 101 | 138 | Cranky Pattern |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
-| 104 | 133 | Breanna Luna |
-| 105 | 133 | Brandi Huntington |
+| 104 | 133 | Brandi Huntington |
+| 105 | 133 | Breanna Luna |
 | 106 | 132 | Lori Sanders- Davis |
 | 107 | 132 | Davery Spencer Adair |
 | 108 | 130 | Dandy Basegrid |
@@ -122,9 +122,9 @@
 | 114 | 123 | LaQuetta Faith Hines |
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
-| 117 | 119 | Tater |
-| 118 | 119 | April Carroll |
-| 119 | 119 | Irual Hctrab |
+| 117 | 119 | Irual Hctrab |
+| 118 | 119 | Tater |
+| 119 | 119 | April Carroll |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Evie Khalil |
 | 122 | 115 | Mrs.Patrica |
@@ -157,8 +157,8 @@
 | 149 | 99 | Mizzledagod |
 | 150 | 99 | Melissa Bires Hussar |
 | 151 | 99 | Tyler Hertzog |
-| 152 | 98 | Witty Builderfit |
-| 153 | 98 | Loony Fitzone |
+| 152 | 98 | Loony Fitzone |
+| 153 | 98 | Witty Builderfit |
 | 154 | 96 | Nery Martinez |
 | 155 | 96 | Melissa Lemmon |
 | 156 | 96 | Barrbaric |

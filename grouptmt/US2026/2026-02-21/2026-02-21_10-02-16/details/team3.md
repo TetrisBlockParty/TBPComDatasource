@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
