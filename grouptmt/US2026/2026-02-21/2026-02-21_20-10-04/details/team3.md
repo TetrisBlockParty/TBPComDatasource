@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Tasha Schriewer |
-| 99 | 378 | Makelini Mausia |
+| 98 | 378 | Makelini Mausia |
+| 99 | 378 | Tasha Schriewer |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -203,8 +203,8 @@
 | 195 | 175 | Tasha Wesson-Torrence |
 | 196 | 175 | DanceLuvLaugh |
 | 197 | 175 | Connie Mohler-Fair |
-| 198 | 174 | Loopy Fallmatch |
-| 199 | 174 | rosy |
+| 198 | 174 | rosy |
+| 199 | 174 | Loopy Fallmatch |
 | 200 | 173 | Sarajane Lokan |
 | 201 | 171 | Marquita Sheard |
 | 202 | 169 | Emma |
@@ -252,10 +252,10 @@
 | 244 | 146 | Denita Mungro |
 | 245 | 145 | Jeni Dow |
 | 246 | 145 | Bryan Byrd |
-| 247 | 142 | Danielle Allison |
-| 248 | 142 | Erica Anderson |
-| 249 | 142 | David Bardo |
-| 250 | 142 | Jl |
+| 247 | 142 | David Bardo |
+| 248 | 142 | Danielle Allison |
+| 249 | 142 | Jl |
+| 250 | 142 | Erica Anderson |
 | 251 | 141 | IamJust Neyamijah Washington Sr. |
 | 252 | 139 | Loopy Clusterer |
 | 253 | 139 | Funky Jumper |

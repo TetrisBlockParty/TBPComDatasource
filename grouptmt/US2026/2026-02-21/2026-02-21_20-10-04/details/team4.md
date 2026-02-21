@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -202,8 +202,8 @@
 | 194 | 119 | Gwendolyn Pitcairn |
 | 195 | 119 | Judy Cox |
 | 196 | 118 | Mary Ann Pabukis |
-| 197 | 115 | Nubian1 |
-| 198 | 115 | Sam Middleton |
+| 197 | 115 | Sam Middleton |
+| 198 | 115 | Nubian1 |
 | 199 | 115 | Jayk |
 | 200 | 115 | Ultramarine |
 | 201 | 114 | Michelle Morris |
@@ -225,9 +225,9 @@
 | 217 | 105 | Brandi Durig |
 | 218 | 104 | Chris Alexinas |
 | 219 | 104 | Lindsey Gonzalez |
-| 220 | 103 | Chris Bernstein |
-| 221 | 103 | Richard-April Kice |
-| 222 | 103 | Lauren Lamb |
+| 220 | 103 | Richard-April Kice |
+| 221 | 103 | Lauren Lamb |
+| 222 | 103 | Chris Bernstein |
 | 223 | 103 | Kate |
 | 224 | 102 | Jumpy Zonepiece |
 | 225 | 102 | Faja |
