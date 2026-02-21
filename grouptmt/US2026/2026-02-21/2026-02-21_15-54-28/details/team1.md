@@ -148,8 +148,8 @@
 | 140 | 131 | Uhog SF |
 | 141 | 131 | Kimberly Garcia |
 | 142 | 130 | LD1 |
-| 143 | 129 | Christy Jones |
-| 144 | 129 | Dino |
+| 143 | 129 | Dino |
+| 144 | 129 | Christy Jones |
 | 145 | 128 | lil mickey |
 | 146 | 128 | Barry Mac'Ockner |
 | 147 | 127 | Aimee Horton |

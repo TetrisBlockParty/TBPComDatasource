@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -60,8 +60,8 @@
 | 52 | 326 | Carlton Unfiltered |
 | 53 | 308 | Jen Allison |
 | 54 | 306 | Lisa Davis |
-| 55 | 300 | Jason Hart |
-| 56 | 300 | David Lay |
+| 55 | 300 | David Lay |
+| 56 | 300 | Jason Hart |
 | 57 | 299 | Livvy |
 | 58 | 295 | Latisha Davis |
 | 59 | 291 | Leslie Thomas |
@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Casey Grabner |
-| 78 | 211 | Dizzy Tiley |
+| 77 | 211 | Dizzy Tiley |
+| 78 | 211 | Casey Grabner |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -94,8 +94,8 @@
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
 | 88 | 186 | Jeff Brian Gates |
-| 89 | 185 | shar |
-| 90 | 185 | Andy Cabral |
+| 89 | 185 | Andy Cabral |
+| 90 | 185 | shar |
 | 91 | 181 | Carter Jones |
 | 92 | 180 | Leah Kutz Zirbel |
 | 93 | 179 | Epic Curvetile |
@@ -173,8 +173,8 @@
 | 165 | 111 | Lazy Blocker |
 | 166 | 110 | H.R. Block |
 | 167 | 108 | Ali Ian |
-| 168 | 107 | Rafael Valentin |
-| 169 | 107 | Marcus Todd |
+| 168 | 107 | Marcus Todd |
+| 169 | 107 | Rafael Valentin |
 | 170 | 106 | Avy Absol |
 | 171 | 105 | TheNeesh50 |
 | 172 | 105 | Sam Middleton |

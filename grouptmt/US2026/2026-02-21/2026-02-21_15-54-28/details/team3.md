@@ -104,8 +104,8 @@
 | 96 | 323 | Ashley Raines |
 | 97 | 320 | Or Reznitsky |
 | 98 | 316 | Fancy Cascader |
-| 99 | 309 | CeceGeGe |
-| 100 | 309 | Rich LeBlanc |
+| 99 | 309 | Rich LeBlanc |
+| 100 | 309 | CeceGeGe |
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |

@@ -104,8 +104,8 @@
 | 96 | 815 | blarg |
 | 97 | 801 | Tralonda Weeks |
 | 98 | 800 | Tacara Cummings |
-| 99 | 789 | James Simms III |
-| 100 | 789 | Stephanie Chapman |
+| 99 | 789 | Stephanie Chapman |
+| 100 | 789 | James Simms III |
 | 101 | 787 | Laura McCarthey |
 | 102 | 780 | Amanda Grohmann |
 | 103 | 772 | Megan Ferguson Leone |
@@ -336,8 +336,8 @@
 | 328 | 314 | Amanda West |
 | 329 | 312 | Michelle Pike |
 | 330 | 312 | Andrea Maher |
-| 331 | 309 | Ginger |
-| 332 | 309 | Oscar Bernie |
+| 331 | 309 | Oscar Bernie |
+| 332 | 309 | Ginger |
 | 333 | 309 | James Zaragoza |
 | 334 | 309 | Cool Clearer |
 | 335 | 307 | Offonar Facey |
@@ -417,8 +417,8 @@
 | 409 | 256 | Alishac Marie |
 | 410 | 256 | Tee Jaleesa |
 | 411 | 254 | Julie Hamilton |
-| 412 | 254 | Rose Fx |
-| 413 | 254 | Elizabeth Diraffaele |
+| 412 | 254 | Elizabeth Diraffaele |
+| 413 | 254 | Rose Fx |
 | 414 | 253 | Kimmy Newman |
 | 415 | 253 | Tansaria Couch-Butler |
 | 416 | 252 | Matt Johnson |
@@ -455,14 +455,14 @@
 | 447 | 234 | Jennifer Leigh |
 | 448 | 234 | Jaybee Nguyen |
 | 449 | 233 | Nutty Matchline |
-| 450 | 233 | Daring Matchfit |
-| 451 | 233 | Jumpy Gridclear |
+| 450 | 233 | Jumpy Gridclear |
+| 451 | 233 | Daring Matchfit |
 | 452 | 232 | Aleasha M Brown |
-| 453 | 232 | Quirky Twistline |
-| 454 | 232 | Amber Brion |
+| 453 | 232 | Amber Brion |
+| 454 | 232 | Quirky Twistline |
 | 455 | 231 | Hong Tang |
-| 456 | 231 | Brave Gridpiece |
-| 457 | 231 | Dylan Thomason |
+| 456 | 231 | Dylan Thomason |
+| 457 | 231 | Brave Gridpiece |
 | 458 | 230 | Leslie Johnson Guinto |
 | 459 | 229 | Tonya Lee |
 | 460 | 228 | Michelle Sager |
