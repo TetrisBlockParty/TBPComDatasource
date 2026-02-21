@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Maria C. Hernandez |
-| 25 | 281 | Nancy Green |
+| 24 | 281 | Nancy Green |
+| 25 | 281 | Maria C. Hernandez |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |
@@ -163,8 +163,8 @@
 | 155 | 74 | Eddie Dillon |
 | 156 | 73 | Shanae Grant |
 | 157 | 72 | Tipsy Strikerpiece |
-| 158 | 71 | John Kim |
-| 159 | 71 | Brandi Egbert |
+| 158 | 71 | Brandi Egbert |
+| 159 | 71 | John Kim |
 | 160 | 70 | Daring Fitclear |
 | 161 | 70 | Seth Wesson |
 | 162 | 69 | Christina Torres |
