@@ -90,10 +90,10 @@
 | 82 | 155 | Standia Civil |
 | 83 | 153 | Shiny Gridmatch |
 | 84 | 152 | Jacqueline Unique |
-| 85 | 149 | Tana |
-| 86 | 149 | Arianna O'Brien |
-| 87 | 148 | Shauntina Burke |
-| 88 | 148 | Jessie Lynn |
+| 85 | 149 | Arianna O'Brien |
+| 86 | 149 | Tana |
+| 87 | 148 | Jessie Lynn |
+| 88 | 148 | Shauntina Burke |
 | 89 | 147 | Veronica Eve |
 | 90 | 145 | Lachelle Dillon |
 | 91 | 145 | BigWeenie69 |

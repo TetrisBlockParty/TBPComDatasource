@@ -182,8 +182,8 @@
 | 174 | 400 | Crystie Hicks |
 | 175 | 400 | Tammy Allen |
 | 176 | 397 | Ashley Guernsey-Martin |
-| 177 | 391 | Rhonda Milstead |
-| 178 | 391 | Qiana Sanders |
+| 177 | 391 | Qiana Sanders |
+| 178 | 391 | Rhonda Milstead |
 | 179 | 391 | Steven Marshaun |
 | 180 | 391 | Chilly Bridgepiece |
 | 181 | 388 | coleksquad |
@@ -206,8 +206,8 @@
 | 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Chris Harr |
-| 202 | 350 | Brave Dropmatch |
+| 201 | 350 | Brave Dropmatch |
+| 202 | 350 | Chris Harr |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |

@@ -111,9 +111,9 @@
 | 103 | 129 | Landon Keith Graffeo |
 | 104 | 129 | John Brunetti |
 | 105 | 125 | Lauren Scott |
-| 106 | 123 | Bubbly Puzzler |
+| 106 | 123 | Cherrish Duren |
 | 107 | 123 | Nugget |
-| 108 | 123 | Cherrish Duren |
+| 108 | 123 | Bubbly Puzzler |
 | 109 | 122 | Sherri |
 | 110 | 121 | Smiley Tiltbuilder |
 | 111 | 121 | Klo |
@@ -150,8 +150,8 @@
 | 142 | 101 | Michelle Morris |
 | 143 | 101 | Saulc1991 |
 | 144 | 100 | Alexandra Karavias |
-| 145 | 98 | Duck |
-| 146 | 98 | Allen Lloyd |
+| 145 | 98 | Allen Lloyd |
+| 146 | 98 | Duck |
 | 147 | 98 | Chaz |
 | 148 | 97 | Brandi Durig |
 | 149 | 96 | Zappy Snaplink |
@@ -238,9 +238,9 @@
 | 230 | 66 | Rebecca Blake |
 | 231 | 66 | Terrance Fung |
 | 232 | 65 | BlockBabe |
-| 233 | 65 | Asher |
-| 234 | 65 | Mylo Lipscomb |
-| 235 | 65 | Lee Silpe |
+| 233 | 65 | Lee Silpe |
+| 234 | 65 | Asher |
+| 235 | 65 | Mylo Lipscomb |
 | 236 | 65 | Angela Geist Jusinski |
 | 237 | 64 | Joseph Edmonson |
 | 238 | 64 | rebel4lyfe |
@@ -886,7 +886,7 @@
 | 878 | 7 | MoP11 |
 | 879 | 7 | Alicia Falk |
 | 880 | 7 | Tara |
-| 881 | 7 | Alicia Falk |
+| 881 | 7 | Brain Joy |
 | 882 | 7 | Earnest Thompson |
 | 883 | 6 | Garrick Wilfork |
 | 884 | 6 | Sunny Filler |
