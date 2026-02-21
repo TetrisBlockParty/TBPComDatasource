@@ -162,15 +162,15 @@
 | 154 | 94 | Tyler Hertzog |
 | 155 | 93 | Cody Gates |
 | 156 | 92 | Timothy Dew |
-| 157 | 90 | Dizzy Party |
-| 158 | 90 | Madison Wicks |
-| 159 | 90 | TSwag |
+| 157 | 90 | Madison Wicks |
+| 158 | 90 | TSwag |
+| 159 | 90 | Dizzy Party |
 | 160 | 89 | Mara Hilker |
 | 161 | 87 | Jenny Gingrich Fuentes |
 | 162 | 87 | Jessi Sauer |
 | 163 | 86 | Basment Living |
-| 164 | 86 | Tyler Whitley |
-| 165 | 86 | Desiree Deschaine Havee |
+| 164 | 86 | Desiree Deschaine Havee |
+| 165 | 86 | Tyler Whitley |
 | 166 | 85 | John Barron |
 | 167 | 85 | Steve Schneider |
 | 168 | 84 | Yvonne Marie |

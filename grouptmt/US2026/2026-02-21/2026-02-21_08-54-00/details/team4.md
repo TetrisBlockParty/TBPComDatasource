@@ -162,7 +162,7 @@
 | 154 | 92 | Kristin MacDonald |
 | 155 | 90 | No Strings Attached Ra |
 | 156 | 90 | Judy Cox |
-| 157 | 89 | shark tato |
+| 157 | 89 | DonMega |
 | 158 | 89 | Jeremy Steines |
 | 159 | 89 | shark tato |
 | 160 | 89 | mike |
@@ -232,8 +232,8 @@
 | 224 | 67 | Laurie McGregor |
 | 225 | 67 | Frank Joseph Epson |
 | 226 | 67 | Cozy Framezone |
-| 227 | 67 | mini |
-| 228 | 67 | JPW |
+| 227 | 67 | JPW |
+| 228 | 67 | mini |
 | 229 | 66 | mitch |
 | 230 | 66 | Rebecca Blake |
 | 231 | 66 | Terrance Fung |
@@ -246,7 +246,7 @@
 | 238 | 64 | Mousey406 |
 | 239 | 64 | rebel4lyfe |
 | 240 | 64 | Joseph Edmonson |
-| 241 | 63 | Cheery Risebuilder |
+| 241 | 63 | Gilles Lanctot |
 | 242 | 63 | Cristy Duerksen |
 | 243 | 63 | Cheery Risebuilder |
 | 244 | 62 | Latisha Davis |

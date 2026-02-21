@@ -44,8 +44,8 @@
 | 36 | 587 | Danielle Becker |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
-| 39 | 546 | Snappy Glidepiece |
-| 40 | 546 | Dolores Falco |
+| 39 | 546 | Dolores Falco |
+| 40 | 546 | Snappy Glidepiece |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -130,8 +130,8 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Ashley Tookes |
-| 126 | 182 | Hyper Matchzone |
+| 125 | 182 | Hyper Matchzone |
+| 126 | 182 | Ashley Tookes |
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
@@ -161,8 +161,8 @@
 | 153 | 149 | Angel Mendez |
 | 154 | 149 | Trisha Balmer |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Jay Horn |
 | 160 | 140 | Gumbo |

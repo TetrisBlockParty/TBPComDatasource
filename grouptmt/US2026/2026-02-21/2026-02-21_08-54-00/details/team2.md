@@ -102,8 +102,8 @@
 | 94 | 658 | Pacynthia Williams |
 | 95 | 658 | Vistabrat |
 | 96 | 653 | Becky Weeks-Garry |
-| 97 | 649 | Anna Edwards |
-| 98 | 649 | Stephanie Chapman |
+| 97 | 649 | Stephanie Chapman |
+| 98 | 649 | Anna Edwards |
 | 99 | 637 | Ricardo Burton |
 | 100 | 631 | Loopy Clusterbuilder |
 | 101 | 620 | BYM4L |
@@ -193,8 +193,8 @@
 | 185 | 385 | Sam |
 | 186 | 385 | Arwa Fatimah |
 | 187 | 381 | Amanda Ferrell |
-| 188 | 380 | Calandra Shaya Robinson |
-| 189 | 380 | Joshua Mandel |
+| 188 | 380 | Joshua Mandel |
+| 189 | 380 | Calandra Shaya Robinson |
 | 190 | 378 | Cody Nishimura |
 | 191 | 377 | Liberty |
 | 192 | 377 | Roy Salyer |
@@ -310,8 +310,8 @@
 | 302 | 256 | CC |
 | 303 | 255 | Santana Miyagi |
 | 304 | 254 | Julie Hamilton |
-| 305 | 254 | Elizabeth Diraffaele |
-| 306 | 254 | Rose Fx |
+| 305 | 254 | Rose Fx |
+| 306 | 254 | Elizabeth Diraffaele |
 | 307 | 253 | Tansaria Couch-Butler |
 | 308 | 252 | Matt Johnson |
 | 309 | 252 | Cheech Dta |
