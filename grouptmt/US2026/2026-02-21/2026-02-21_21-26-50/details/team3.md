@@ -70,8 +70,8 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Leah Barnett |
-| 138 | 271 | Ashley Muncey |
+| 137 | 271 | Ashley Muncey |
+| 138 | 271 | Leah Barnett |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Angeline Joseph |

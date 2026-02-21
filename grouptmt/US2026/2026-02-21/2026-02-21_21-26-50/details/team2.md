@@ -166,8 +166,8 @@
 | 158 | 703 | Debra Williams |
 | 159 | 703 | Lola Contreras |
 | 160 | 700 | Vincent Petrella |
-| 161 | 700 | Rosemadder |
-| 162 | 700 | Beverly Owens |
+| 161 | 700 | Beverly Owens |
+| 162 | 700 | Rosemadder |
 | 163 | 697 | Real Ri |
 | 164 | 694 | Vo'Landa Reels |
 | 165 | 692 | Chelle |
@@ -254,8 +254,8 @@
 | 246 | 510 | Lisa Ongtowasruk |
 | 247 | 509 | Kelli Wells |
 | 248 | 506 | AISlop |
-| 249 | 504 | Cherica Taylor |
-| 250 | 504 | Gene Mills |
+| 249 | 504 | Gene Mills |
+| 250 | 504 | Cherica Taylor |
 | 251 | 503 | tejas25 |
 | 252 | 502 | Poppy Snap |
 | 253 | 502 | Magic steve |
@@ -407,9 +407,9 @@
 | 399 | 347 | Cheyenne Donovan |
 | 400 | 345 | Angie Bolton Workman |
 | 401 | 345 | Rhianna DiLorenzo |
-| 402 | 344 | Glenn Cobbins |
-| 403 | 344 | Ginger |
-| 404 | 344 | Felicia Lynn |
+| 402 | 344 | Ginger |
+| 403 | 344 | Felicia Lynn |
+| 404 | 344 | Glenn Cobbins |
 | 405 | 342 | Ebony Deloach Bryant |
 | 406 | 342 | Sydney Busse |
 | 407 | 342 | Amber Brion |
@@ -513,8 +513,8 @@
 | 505 | 280 | Belle |
 | 506 | 279 | Glitzy Stackzone |
 | 507 | 278 | Niceday |
-| 508 | 278 | Ray Ray Prado |
-| 509 | 278 | Demeka Dangerous-kisses Johnson |
+| 508 | 278 | Demeka Dangerous-kisses Johnson |
+| 509 | 278 | Ray Ray Prado |
 | 510 | 277 | Anthony Mignacca |
 | 511 | 277 | NickyBrooks |
 | 512 | 277 | August Hale |
@@ -593,8 +593,8 @@
 | 585 | 241 | Ronda Cary |
 | 586 | 240 | Kelly |
 | 587 | 240 | Brave Gridpiece |
-| 588 | 239 | Angelina Marie |
-| 589 | 239 | Dad |
+| 588 | 239 | Dad |
+| 589 | 239 | Angelina Marie |
 | 590 | 238 | Manny Trindade |
 | 591 | 237 | Kiorah Blaze |
 | 592 | 237 | Heather Piotrowski |
@@ -621,12 +621,12 @@
 | 613 | 228 | Samantha Angelo |
 | 614 | 228 | Amanda Canterbury |
 | 615 | 227 | Sho Nuff |
-| 616 | 226 | Jodi Mitnick |
-| 617 | 226 | Cassie Newton |
+| 616 | 226 | Cassie Newton |
+| 617 | 226 | Jodi Mitnick |
 | 618 | 226 | Christina Wsn |
 | 619 | 225 | Meganator42 |
-| 620 | 225 | Blacc Blac |
-| 621 | 225 | Stanley Vanekelenburg |
+| 620 | 225 | Stanley Vanekelenburg |
+| 621 | 225 | Blacc Blac |
 | 622 | 224 | Besma Ao |
 | 623 | 223 | LegoCarpet |
 | 624 | 223 | Jess Morrison |
@@ -638,8 +638,8 @@
 | 630 | 223 | BK Queen |
 | 631 | 222 | Lazy Riseclear |
 | 632 | 221 | Michelle Lee |
-| 633 | 220 | Katrina Weston |
-| 634 | 220 | Jennifer Coe |
+| 633 | 220 | Jennifer Coe |
+| 634 | 220 | Katrina Weston |
 | 635 | 220 | Brenna Ann |
 | 636 | 219 | Cathy Bitters |
 | 637 | 219 | Trista Carter |
@@ -649,9 +649,9 @@
 | 641 | 218 | Twisty Tetriblast |
 | 642 | 217 | Josh Webster |
 | 643 | 217 | Natasha Edmonds |
-| 644 | 217 | Layna Lyons |
+| 644 | 217 | Erika Meaux |
 | 645 | 217 | Binyah-Binyah |
-| 646 | 217 | Erika Meaux |
+| 646 | 217 | Layna Lyons |
 | 647 | 216 | Nerdy Riserfit |
 | 648 | 215 | Ashlyn Berner |
 | 649 | 214 | Dawn L Washington-Feuquay |
@@ -779,8 +779,8 @@
 | 771 | 179 | Cat |
 | 772 | 179 | Ibiza Carolina LaRose |
 | 773 | 178 | Kim McGrath |
-| 774 | 178 | Wungun Shun |
-| 775 | 178 | Dandy Combo |
+| 774 | 178 | Dandy Combo |
+| 775 | 178 | Wungun Shun |
 | 776 | 178 | BTA |
 | 777 | 177 | Andrew Engman |
 | 778 | 177 | Ryan Stadel |
@@ -818,8 +818,8 @@
 | 810 | 170 | Kenya Felix |
 | 811 | 170 | AndrewandShela Gornik |
 | 812 | 170 | Fae-Bulous |
-| 813 | 169 | Angela Murgia-Owen |
-| 814 | 169 | Frothy Shatter |
+| 813 | 169 | Frothy Shatter |
+| 814 | 169 | Angela Murgia-Owen |
 | 815 | 169 | Greenshades00 |
 | 816 | 169 | Fancy Glidezone |
 | 817 | 168 | Jay Dreamer-x Shelly |

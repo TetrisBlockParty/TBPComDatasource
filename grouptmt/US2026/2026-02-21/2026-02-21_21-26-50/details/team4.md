@@ -136,8 +136,8 @@
 | 128 | 176 | Stacey Stano |
 | 129 | 176 | Klo |
 | 130 | 174 | shark tato |
-| 131 | 174 | Zethra Prenisha Rahming |
-| 132 | 174 | Dihcheese444 |
+| 131 | 174 | Dihcheese444 |
+| 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
 | 134 | 173 | blockstar |
 | 135 | 173 | Ren Mc |
@@ -215,9 +215,9 @@
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Ultramarine |
 | 209 | 115 | Jayk |
-| 210 | 115 | Tyler Terrific |
-| 211 | 115 | Nubian1 |
-| 212 | 115 | Sam Middleton |
+| 210 | 115 | Sam Middleton |
+| 211 | 115 | Tyler Terrific |
+| 212 | 115 | Nubian1 |
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |

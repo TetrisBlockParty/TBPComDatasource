@@ -113,8 +113,8 @@
 | 105 | 222 | Kristen Gideon |
 | 106 | 219 | Lexuriuos Lifestlye |
 | 107 | 214 | Billie Dawn Sparks |
-| 108 | 212 | Mandyy Rae |
-| 109 | 212 | Jaimie Lynn |
+| 108 | 212 | Jaimie Lynn |
+| 109 | 212 | Mandyy Rae |
 | 110 | 211 | Marianita Garcia |
 | 111 | 210 | Ly Phethmany |
 | 112 | 208 | Happy Basegrid |
