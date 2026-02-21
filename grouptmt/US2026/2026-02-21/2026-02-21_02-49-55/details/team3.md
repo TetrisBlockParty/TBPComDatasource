@@ -114,8 +114,8 @@
 | 106 | 127 | Aerian Preston |
 | 107 | 127 | Marquita Sheard |
 | 108 | 126 | Brandon Green |
-| 109 | 125 | BŘŰŤİÇŨŚ |
-| 110 | 125 | Stephanie Simpson |
+| 109 | 125 | Stephanie Simpson |
+| 110 | 125 | BŘŰŤİÇŨŚ |
 | 111 | 125 | Felicia Doxey |
 | 112 | 123 | Jone |
 | 113 | 123 | Kristie McFarland |

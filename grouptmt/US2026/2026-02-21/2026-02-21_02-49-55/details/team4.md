@@ -68,8 +68,8 @@
 | 60 | 119 | Sherri |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
-| 63 | 113 | Degenerate |
-| 64 | 113 | Leslie Nicole |
+| 63 | 113 | Leslie Nicole |
+| 64 | 113 | Degenerate |
 | 65 | 112 | Chirpy Basepiece |
 | 66 | 112 | Mr. Party |
 | 67 | 111 | Zany Shatterer |
