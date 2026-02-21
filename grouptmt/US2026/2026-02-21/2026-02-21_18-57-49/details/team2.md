@@ -172,8 +172,8 @@
 | 164 | 619 | Jamie Otero |
 | 165 | 613 | Rebecca Doughman |
 | 166 | 608 | Thomas Hughes |
-| 167 | 608 | Sommer Shope |
-| 168 | 608 | John Bednarik |
+| 167 | 608 | John Bednarik |
+| 168 | 608 | Sommer Shope |
 | 169 | 604 | Amber Shoemaker |
 | 170 | 604 | Danielle Johnson-Chandler |
 | 171 | 603 | Cassie Maynard |
@@ -217,8 +217,8 @@
 | 209 | 511 | Ramone Armstrong |
 | 210 | 511 | Laura Mclean |
 | 211 | 511 | Dizzy Zone |
-| 212 | 510 | Laquetta Royston |
-| 213 | 510 | Lisa Ongtowasruk |
+| 212 | 510 | Lisa Ongtowasruk |
+| 213 | 510 | Laquetta Royston |
 | 214 | 510 | Cheech Dta |
 | 215 | 509 | Kelli Wells |
 | 216 | 505 | Jelly |
@@ -342,8 +342,8 @@
 | 334 | 356 | Jaycee |
 | 335 | 355 | Shandrica Lowe |
 | 336 | 354 | Lawanda Forbes |
-| 337 | 354 | Brave Dropmatch |
-| 338 | 354 | Tracy Wise |
+| 337 | 354 | Tracy Wise |
+| 338 | 354 | Brave Dropmatch |
 | 339 | 353 | Cheery Matchzone |
 | 340 | 352 | Juanita Lyons |
 | 341 | 352 | ruth |
@@ -928,8 +928,8 @@
 | 920 | 137 | Andrew Engman |
 | 921 | 136 | Cynthia Louann Rose |
 | 922 | 136 | Lazy Builderfit |
-| 923 | 136 | Hasty Riseclear |
-| 924 | 136 | Mindy Folsom |
+| 923 | 136 | Mindy Folsom |
+| 924 | 136 | Hasty Riseclear |
 | 925 | 136 | Layla LS |
 | 926 | 136 | Ericka Marie Smith |
 | 927 | 135 | Michelle Loar |

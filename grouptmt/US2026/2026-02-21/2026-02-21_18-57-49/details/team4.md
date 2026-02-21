@@ -88,10 +88,10 @@
 | 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
-| 83 | 218 | Antony Dwayne Beasley |
-| 84 | 218 | Casey Grabner |
-| 85 | 215 | Alyssa Papen |
-| 86 | 215 | Jae Job |
+| 83 | 218 | Casey Grabner |
+| 84 | 218 | Antony Dwayne Beasley |
+| 85 | 215 | Jae Job |
+| 86 | 215 | Alyssa Papen |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
@@ -130,8 +130,8 @@
 | 122 | 164 | ThaEviLJeNiuZ |
 | 123 | 160 | ZeeZee |
 | 124 | 160 | Stacey Stano |
-| 125 | 157 | quicksand420 |
-| 126 | 157 | Jenna McGeorge |
+| 125 | 157 | Jenna McGeorge |
+| 126 | 157 | quicksand420 |
 | 127 | 156 | Holly |
 | 128 | 156 | Jessica Bohlken |
 | 129 | 153 | Empress Oasis |
@@ -249,7 +249,7 @@
 | 241 | 94 | Chastity Mitchell |
 | 242 | 94 | Kim Hunt |
 | 243 | 94 | DonMega |
-| 244 | 94 | Chastity Mitchell |
+| 244 | 94 | Madison Sweere |
 | 245 | 93 | Matt Dell'Olio |
 | 246 | 92 | Christina Black |
 | 247 | 91 | Sunny Filler |

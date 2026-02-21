@@ -111,8 +111,8 @@
 | 103 | 348 | CeceGeGe |
 | 104 | 342 | Tiff Vs Tiffany |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
-| 106 | 323 | Sherry Ogden |
-| 107 | 323 | Ashley Raines |
+| 106 | 323 | Ashley Raines |
+| 107 | 323 | Sherry Ogden |
 | 108 | 321 | Dapper Snap |
 | 109 | 320 | Or Reznitsky |
 | 110 | 318 | Chasity |
@@ -190,8 +190,8 @@
 | 182 | 182 | Hyper Matchzone |
 | 183 | 181 | Nicholas Roddy |
 | 184 | 181 | Karon Griffin |
-| 185 | 179 | Ashley Jones |
-| 186 | 179 | Daira Largen |
+| 185 | 179 | Daira Largen |
+| 186 | 179 | Ashley Jones |
 | 187 | 178 | Ryan Williams |
 | 188 | 178 | AlsoJess |
 | 189 | 177 | Trisha Balmer |
@@ -299,8 +299,8 @@
 | 291 | 113 | Jason-Ashley Ludlow |
 | 292 | 113 | Brave Brickster |
 | 293 | 111 | Amber Groover Taylor |
-| 294 | 111 | Stephanie Zahm |
-| 295 | 111 | El Chapa |
+| 294 | 111 | El Chapa |
+| 295 | 111 | Stephanie Zahm |
 | 296 | 111 | Rainbow77375 |
 | 297 | 110 | Carol Cain Thurman |
 | 298 | 110 | fraulila |
@@ -430,7 +430,7 @@
 | 422 | 78 | Myriam Lapierre |
 | 423 | 78 | Kristin Delibac Corrigan |
 | 424 | 78 | Clever Patterner |
-| 425 | 78 | Raya |
+| 425 | 78 | Nena Somerville Kelly |
 | 426 | 78 | Ky |
 | 427 | 78 | Skippy |
 | 428 | 78 | Raya |

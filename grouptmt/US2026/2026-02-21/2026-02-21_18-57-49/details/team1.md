@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Lawrence Belanger |
-| 36 | 510 | Colena Davenport |
+| 35 | 510 | Colena Davenport |
+| 36 | 510 | Lawrence Belanger |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -71,9 +71,9 @@
 | 63 | 293 | Adam Byrd |
 | 64 | 287 | Hyper |
 | 65 | 285 | Sweet Baker |
-| 66 | 281 | Shauna Loe |
-| 67 | 281 | Evie Khalil |
-| 68 | 281 | Patrick Luckenbill |
+| 66 | 281 | Evie Khalil |
+| 67 | 281 | Patrick Luckenbill |
+| 68 | 281 | Shauna Loe |
 | 69 | 277 | Timothy Dew |
 | 70 | 274 | Theo Pinnow |
 | 71 | 271 | Tipsy Strikerpiece |
@@ -98,8 +98,8 @@
 | 90 | 222 | Kristen Gideon |
 | 91 | 213 | Lexuriuos Lifestlye |
 | 92 | 213 | Billie Dawn Sparks |
-| 93 | 212 | Jaimie Lynn |
-| 94 | 212 | Mandyy Rae |
+| 93 | 212 | Mandyy Rae |
+| 94 | 212 | Jaimie Lynn |
 | 95 | 211 | Marianita Garcia |
 | 96 | 210 | Ly Phethmany |
 | 97 | 208 | Kellie |
