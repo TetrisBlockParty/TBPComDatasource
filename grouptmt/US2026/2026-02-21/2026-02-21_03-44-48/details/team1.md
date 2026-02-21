@@ -76,8 +76,8 @@
 | 68 | 133 | Brandi Huntington |
 | 69 | 132 | Davery Spencer Adair |
 | 70 | 129 | Dandy Basegrid |
-| 71 | 128 | Uhog SF |
-| 72 | 128 | Gary Gobin |
+| 71 | 128 | Gary Gobin |
+| 72 | 128 | Uhog SF |
 | 73 | 126 | Cece Ibarra |
 | 74 | 125 | Rico Rico |
 | 75 | 124 | Trina Gee |

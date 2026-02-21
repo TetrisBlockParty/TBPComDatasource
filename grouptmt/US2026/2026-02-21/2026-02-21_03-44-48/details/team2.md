@@ -99,8 +99,8 @@
 | 91 | 509 | Kelli Wells |
 | 92 | 505 | Danielle Johnson-Chandler |
 | 93 | 499 | Samantha Jo |
-| 94 | 497 | Thomas Hedrick |
-| 95 | 497 | Nerdy Clearfit |
+| 94 | 497 | Nerdy Clearfit |
+| 95 | 497 | Thomas Hedrick |
 | 96 | 490 | tejas25 |
 | 97 | 488 | Teresa Gillmore |
 | 98 | 485 | Gene Mills |
@@ -144,8 +144,8 @@
 | 136 | 377 | Roy Salyer |
 | 137 | 374 | Calandra Shaya Robinson |
 | 138 | 365 | April Dawn Gussler |
-| 139 | 364 | Shinette Dobson |
-| 140 | 364 | Tammy Allen |
+| 139 | 364 | Tammy Allen |
+| 140 | 364 | Shinette Dobson |
 | 141 | 363 | William Meussner |
 | 142 | 362 | Dineisha Carpenter |
 | 143 | 359 | Ariel |
@@ -193,8 +193,8 @@
 | 185 | 284 | Macy Williams |
 | 186 | 284 | Mamachelle Eisweirth |
 | 187 | 283 | Davetta Sanford |
-| 188 | 280 | TF Dyer |
-| 189 | 280 | Joseph Musick |
+| 188 | 280 | Joseph Musick |
+| 189 | 280 | TF Dyer |
 | 190 | 280 | Kimberly Schall |
 | 191 | 278 | Noel Tarmy |
 | 192 | 276 | Lindsey Leigh |
@@ -203,8 +203,8 @@
 | 195 | 273 | Missie Lawson Gebhardt |
 | 196 | 271 | Ann Marie Davis |
 | 197 | 271 | Oscar Bernie |
-| 198 | 271 | Lonne Emade |
-| 199 | 271 | Toni Lynn |
+| 198 | 271 | Toni Lynn |
+| 199 | 271 | Lonne Emade |
 | 200 | 268 | Vanessa Moreno |
 | 201 | 267 | Mindy Leigh Head |
 | 202 | 266 | Autumn Schaeffer |
