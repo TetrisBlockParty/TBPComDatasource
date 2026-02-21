@@ -153,8 +153,8 @@
 | 145 | 195 | Nicha Hooker |
 | 146 | 194 | glichmod |
 | 147 | 193 | Stephanie Burtin |
-| 148 | 193 | Clever Shiftsnap |
-| 149 | 193 | Duane Bright |
+| 148 | 193 | Duane Bright |
+| 149 | 193 | Clever Shiftsnap |
 | 150 | 191 | Giddy Twistbuilder |
 | 151 | 191 | Scott Carleton |
 | 152 | 189 | Sissy Lowery Davis |
@@ -163,8 +163,8 @@
 | 155 | 188 | Angie Harper |
 | 156 | 184 | Jennie Beranek |
 | 157 | 182 | Hyper Matchzone |
-| 158 | 181 | Karon Griffin |
-| 159 | 181 | Aerian Preston |
+| 158 | 181 | Aerian Preston |
+| 159 | 181 | Karon Griffin |
 | 160 | 179 | Joye Sims Binion |
 | 161 | 179 | Daira Largen |
 | 162 | 179 | Ashley Jones |
@@ -198,8 +198,8 @@
 | 190 | 152 | Katrina E Jelks |
 | 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | MsBee |
-| 194 | 151 | Brenda Lee Vander Molen |
+| 193 | 151 | Brenda Lee Vander Molen |
+| 194 | 151 | MsBee |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Angel Mendez |
 | 197 | 149 | Desiree Gold |
@@ -224,8 +224,8 @@
 | 216 | 131 | Darlene McMillan |
 | 217 | 129 | Lesley Perez |
 | 218 | 128 | David Bardo |
-| 219 | 128 | Cesar Barraza |
-| 220 | 128 | Jen Lewis |
+| 219 | 128 | Jen Lewis |
+| 220 | 128 | Cesar Barraza |
 | 221 | 127 | Jennifer Alvey |
 | 222 | 127 | Marquita Sheard |
 | 223 | 126 | Juliana Dottore |

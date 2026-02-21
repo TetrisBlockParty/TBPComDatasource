@@ -198,8 +198,8 @@
 | 190 | 496 | Magic steve |
 | 191 | 495 | Poppy Snap |
 | 192 | 486 | MrsCandyfine As Wine Truss |
-| 193 | 485 | Gene Mills |
-| 194 | 485 | Leah Keesling |
+| 193 | 485 | Leah Keesling |
+| 194 | 485 | Gene Mills |
 | 195 | 484 | Suki Kaur |
 | 196 | 483 | Jordan Kaiser |
 | 197 | 482 | Eckoman518 |
@@ -210,8 +210,8 @@
 | 202 | 469 | Ashley Rose Frederick |
 | 203 | 467 | Scott Treadway |
 | 204 | 465 | Drwatson187 |
-| 205 | 464 | Ariel |
-| 206 | 464 | Ryan Gunther |
+| 205 | 464 | Ryan Gunther |
+| 206 | 464 | Ariel |
 | 207 | 463 | Sue Leard |
 | 208 | 463 | Osun Anuket Esu |
 | 209 | 460 | Cody Smith-Candelaria |
@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Christy Krissie |
-| 235 | 405 | Sarah Massey |
+| 234 | 405 | Sarah Massey |
+| 235 | 405 | Christy Krissie |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Rhonda Milstead |
 | 238 | 400 | Tammy Allen |
@@ -254,9 +254,9 @@
 | 246 | 391 | Brenda Utphall |
 | 247 | 391 | Chilly Bridgepiece |
 | 248 | 386 | Macy Williams |
-| 249 | 385 | Arwa Fatimah |
-| 250 | 385 | Sam |
-| 251 | 385 | Skyler Morgan |
+| 249 | 385 | Skyler Morgan |
+| 250 | 385 | Arwa Fatimah |
+| 251 | 385 | Sam |
 | 252 | 383 | Arkei Luster |
 | 253 | 382 | David Holliday |
 | 254 | 379 | Jánine Riggs |

@@ -94,16 +94,16 @@
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
 | 88 | 186 | Jeff Brian Gates |
-| 89 | 185 | Andy Cabral |
-| 90 | 185 | shar |
+| 89 | 185 | shar |
+| 90 | 185 | Andy Cabral |
 | 91 | 181 | Carter Jones |
 | 92 | 180 | Leah Kutz Zirbel |
 | 93 | 179 | Epic Curvetile |
 | 94 | 178 | Lori |
 | 95 | 177 | Andria Lynn |
 | 96 | 174 | Zethra Prenisha Rahming |
-| 97 | 173 | Justin Hannigan |
-| 98 | 173 | blockstar |
+| 97 | 173 | blockstar |
+| 98 | 173 | Justin Hannigan |
 | 99 | 171 | Melvin Baird |
 | 100 | 170 | Girl |
 | 101 | 167 | Denise Carlson |
@@ -128,8 +128,8 @@
 | 120 | 144 | Mr. Party |
 | 121 | 143 | Nugget |
 | 122 | 141 | Malakai Darien Fox |
-| 123 | 140 | Jenna McGeorge |
-| 124 | 140 | Shannon Ferrari |
+| 123 | 140 | Shannon Ferrari |
+| 124 | 140 | Jenna McGeorge |
 | 125 | 139 | Robin Watters |
 | 126 | 138 | Shainne Brewer |
 | 127 | 136 | Tanner Lund |
@@ -172,13 +172,13 @@
 | 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
-| 167 | 107 | Rafael Valentin |
-| 168 | 107 | Marcus Todd |
+| 167 | 107 | Marcus Todd |
+| 168 | 107 | Rafael Valentin |
 | 169 | 106 | Avy Absol |
 | 170 | 105 | Kristin MacDonald |
 | 171 | 105 | 🥔🥔 Spudz |
 | 172 | 105 | Sam Middleton |
-| 173 | 105 | 🥔🥔 Spudz |
+| 173 | 105 | TheNeesh50 |
 | 174 | 104 | Damn Libra |
 | 175 | 103 | Judy Cox |
 | 176 | 103 | Lauren Lamb |

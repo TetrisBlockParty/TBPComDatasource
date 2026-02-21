@@ -68,16 +68,16 @@
 | 60 | 256 | Tipsy Column |
 | 61 | 252 | Dena Kayy |
 | 62 | 249 | Rachael |
-| 63 | 244 | Tdub |
-| 64 | 244 | Franswa |
+| 63 | 244 | Franswa |
+| 64 | 244 | Tdub |
 | 65 | 241 | Patrick Luckenbill |
 | 66 | 237 | Elaine Elaine |
 | 67 | 226 | Sharon Reynolds |
 | 68 | 222 | Kristen Gideon |
 | 69 | 217 | Deanna L Hermanson |
 | 70 | 216 | Dee Perry |
-| 71 | 212 | Jaimie Lynn |
-| 72 | 212 | Mandyy Rae |
+| 71 | 212 | Mandyy Rae |
+| 72 | 212 | Jaimie Lynn |
 | 73 | 211 | Marianita Garcia |
 | 74 | 208 | Carrie Beck Geartz |
 | 75 | 207 | Ly Phethmany |
