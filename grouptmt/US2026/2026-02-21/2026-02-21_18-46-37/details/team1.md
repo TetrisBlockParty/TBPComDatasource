@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Cranky Pattern |
-| 153 | 138 | Death |
+| 152 | 138 | Death |
+| 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
@@ -206,7 +206,7 @@
 | 198 | 109 | Tyler Hertzog |
 | 199 | 108 | Melissa Bires Hussar |
 | 200 | 108 | Tavia |
-| 201 | 108 | Melissa Bires Hussar |
+| 201 | 108 | Dizzy Party |
 | 202 | 107 | Jodee Woods |
 | 203 | 106 | Chantelle Ceno |
 | 204 | 106 | Alyssa Ingram |
@@ -261,9 +261,9 @@
 | 253 | 84 | Eddie Dillon |
 | 254 | 84 | Fresno Beotoni |
 | 255 | 84 | Stoney Smith |
-| 256 | 83 | Bob |
-| 257 | 83 | FableGray |
-| 258 | 83 | Brave Slice |
+| 256 | 83 | FableGray |
+| 257 | 83 | Brave Slice |
+| 258 | 83 | Bob |
 | 259 | 82 | Kerry Lee Powell |
 | 260 | 81 | Archie Ware |
 | 261 | 81 | Ajayy Carlson |

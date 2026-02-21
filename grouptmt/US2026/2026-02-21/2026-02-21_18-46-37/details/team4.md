@@ -51,8 +51,8 @@
 | 43 | 447 | Samantha Peterson |
 | 44 | 433 | Isabel Aguilar |
 | 45 | 427 | Tammi Crnza |
-| 46 | 411 | TeeJ |
-| 47 | 411 | Jonathan Kimbrough |
+| 46 | 411 | Jonathan Kimbrough |
+| 47 | 411 | TeeJ |
 | 48 | 399 | Jenna Ingersoll |
 | 49 | 397 | Courtney Cicoria |
 | 50 | 395 | Christine Marie |
@@ -84,12 +84,12 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Lucas J Sutton |
-| 80 | 230 | Autum Leigh |
+| 79 | 230 | Autum Leigh |
+| 80 | 230 | Lucas J Sutton |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
-| 83 | 218 | Antony Dwayne Beasley |
-| 84 | 218 | Casey Grabner |
+| 83 | 218 | Casey Grabner |
+| 84 | 218 | Antony Dwayne Beasley |
 | 85 | 215 | Alyssa Papen |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
@@ -101,16 +101,16 @@
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 198 | Mike Solo |
-| 96 | 196 | Damn Libra |
-| 97 | 196 | Jeff Brian Gates |
+| 96 | 196 | Jeff Brian Gates |
+| 97 | 196 | Damn Libra |
 | 98 | 194 | Zany Twisterfit |
 | 99 | 192 | Crystal Carroll |
 | 100 | 192 | Shauna Havard |
 | 101 | 191 | Melvin Baird |
 | 102 | 191 | loulou |
 | 103 | 189 | Calvin Dennis |
-| 104 | 187 | TheNeesh50 |
-| 105 | 187 | Swanky Fitline |
+| 104 | 187 | Swanky Fitline |
+| 105 | 187 | TheNeesh50 |
 | 106 | 186 | Leslie Nicole |
 | 107 | 185 | Andy Cabral |
 | 108 | 181 | Carter Jones |
@@ -151,8 +151,8 @@
 | 143 | 140 | Shannon Ferrari |
 | 144 | 137 | Roger Coulter |
 | 145 | 137 | PeaceOs |
-| 146 | 136 | Tanner Lund |
-| 147 | 136 | Serena Goodridge |
+| 146 | 136 | Serena Goodridge |
+| 147 | 136 | Tanner Lund |
 | 148 | 135 | Victoria Faniel |
 | 149 | 135 | ĥuf |
 | 150 | 134 | Zany Shatterer |

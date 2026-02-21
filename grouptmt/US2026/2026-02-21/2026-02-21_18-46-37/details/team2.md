@@ -142,8 +142,8 @@
 | 134 | 705 | Roger Grabbit |
 | 135 | 704 | Nerdy Clearfit |
 | 136 | 700 | Vincent Petrella |
-| 137 | 700 | Beverly Owens |
-| 138 | 700 | Rosemadder |
+| 137 | 700 | Rosemadder |
+| 138 | 700 | Beverly Owens |
 | 139 | 698 | Lola Contreras |
 | 140 | 697 | Real Ri |
 | 141 | 694 | Vo'Landa Reels |
