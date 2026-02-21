@@ -44,8 +44,8 @@
 | 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
 | 38 | 567 | Amanda L Baker |
-| 39 | 546 | Snappy Glidepiece |
-| 40 | 546 | Dolores Falco |
+| 39 | 546 | Dolores Falco |
+| 40 | 546 | Snappy Glidepiece |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -81,8 +81,8 @@
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Michelle |
-| 77 | 322 | Mendoza Lee Christy |
+| 76 | 322 | Mendoza Lee Christy |
+| 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | Rich LeBlanc |
@@ -134,9 +134,9 @@
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
-| 129 | 166 | Dan Rob |
+| 129 | 166 | Kelly Ann Child |
 | 130 | 166 | Danielle Mogg |
-| 131 | 166 | Kelly Ann Child |
+| 131 | 166 | Dan Rob |
 | 132 | 164 | rosy |
 | 133 | 163 | Karon Griffin |
 | 134 | 161 | Giddy Twistbuilder |
@@ -156,8 +156,8 @@
 | 148 | 149 | Trisha Balmer |
 | 149 | 149 | Bea Miles |
 | 150 | 147 | Sashay Tapae Simpson |
-| 151 | 146 | Latoya Mayne |
-| 152 | 146 | Denita Mungro |
+| 151 | 146 | Denita Mungro |
+| 152 | 146 | Latoya Mayne |
 | 153 | 142 | Erica Anderson |
 | 154 | 140 | Jay Horn |
 | 155 | 140 | Gumbo |
@@ -250,9 +250,9 @@
 | 242 | 94 | Angie Harper |
 | 243 | 94 | Carrie Huskey |
 | 244 | 93 | Tiffany Ford |
-| 245 | 92 | Trice Thomas |
-| 246 | 92 | Jennifer Caputo |
-| 247 | 92 | Ava Petito |
+| 245 | 92 | Ava Petito |
+| 246 | 92 | Trice Thomas |
+| 247 | 92 | Jennifer Caputo |
 | 248 | 91 | Martin Bernier |
 | 249 | 90 | Rebel124 |
 | 250 | 90 | Tiffany Kaupang |

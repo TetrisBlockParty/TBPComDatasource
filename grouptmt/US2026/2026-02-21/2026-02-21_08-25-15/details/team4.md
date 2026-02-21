@@ -103,8 +103,8 @@
 | 95 | 132 | Degenerate |
 | 96 | 132 | Jenna McGeorge |
 | 97 | 132 | Jessica Cagle |
-| 98 | 131 | Mr. Party |
-| 99 | 131 | Zany Twisterfit |
+| 98 | 131 | Zany Twisterfit |
+| 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -136,12 +136,12 @@
 | 128 | 110 | H.R. Block |
 | 129 | 108 | Rio Rocha |
 | 130 | 107 | Marcus Todd |
-| 131 | 105 | AyeKay |
-| 132 | 105 | Dihcheese444 |
-| 133 | 105 | 🥔🥔 Spudz |
+| 131 | 105 | 🥔🥔 Spudz |
+| 132 | 105 | AyeKay |
+| 133 | 105 | Dihcheese444 |
 | 134 | 105 | TinyLegoRose |
-| 135 | 105 | Sam Middleton |
-| 136 | 105 | TheNeesh50 |
+| 135 | 105 | TheNeesh50 |
+| 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
 | 138 | 104 | Damn Libra |
 | 139 | 104 | YoMomma |
@@ -236,8 +236,8 @@
 | 228 | 66 | Rebecca Blake |
 | 229 | 66 | Terrance Fung |
 | 230 | 65 | BlockBabe |
-| 231 | 65 | Asher |
-| 232 | 65 | Lee Silpe |
+| 231 | 65 | Lee Silpe |
+| 232 | 65 | Asher |
 | 233 | 65 | Angela Geist Jusinski |
 | 234 | 64 | rebel4lyfe |
 | 235 | 64 | Joseph Edmonson |
@@ -295,8 +295,8 @@
 | 287 | 54 | Denise B |
 | 288 | 53 | Allison Judith |
 | 289 | 53 | Poppy Brickmatch |
-| 290 | 52 | Nerdy Twisterfit |
-| 291 | 52 | Chassidy Martin |
+| 290 | 52 | Chassidy Martin |
+| 291 | 52 | Nerdy Twisterfit |
 | 292 | 52 | Nicole Silvers |
 | 293 | 51 | Frank Cook |
 | 294 | 51 | George Nutt |

@@ -229,8 +229,8 @@
 | 221 | 323 | Briana Alexander |
 | 222 | 318 | Trista Dumais |
 | 223 | 317 | Heather Westrum |
-| 224 | 317 | bru |
-| 225 | 317 | Dizzy Zone |
+| 224 | 317 | Dizzy Zone |
+| 225 | 317 | bru |
 | 226 | 315 | Alisa Lamb |
 | 227 | 314 | Amanda West |
 | 228 | 312 | AkaLefty |
@@ -321,8 +321,8 @@
 | 313 | 247 | Fancy Twister |
 | 314 | 247 | Andrea Devery Beck |
 | 315 | 246 | Kathryn Townsley |
-| 316 | 246 | Stephanie Lumanlan |
-| 317 | 246 | Ashley Lopez |
+| 316 | 246 | Ashley Lopez |
+| 317 | 246 | Stephanie Lumanlan |
 | 318 | 245 | Rachael Senard |
 | 319 | 245 | Taryece Gause |
 | 320 | 245 | Mischelle Clay |
@@ -364,8 +364,8 @@
 | 356 | 220 | Niceday |
 | 357 | 220 | Katrina Weston |
 | 358 | 219 | Ashle Scranton |
-| 359 | 217 | Angelina Marie |
-| 360 | 217 | 赵珞涵 |
+| 359 | 217 | 赵珞涵 |
+| 360 | 217 | Angelina Marie |
 | 361 | 216 | Tum |
 | 362 | 215 | Jordan Petro |
 | 363 | 215 | Ashlyn Berner |
@@ -402,8 +402,8 @@
 | 394 | 194 | Mike Aprilliano |
 | 395 | 194 | Kimberly Ann |
 | 396 | 194 | Hoppy Brickmatch |
-| 397 | 193 | Matthew Turner |
-| 398 | 193 | Kelly Ann McCormick |
+| 397 | 193 | Kelly Ann McCormick |
+| 398 | 193 | Matthew Turner |
 | 399 | 193 | Nika Bee |
 | 400 | 192 | Alyssa Nadine Medelez |
 | 401 | 191 | Lauren Fitzgerald Thomas |
