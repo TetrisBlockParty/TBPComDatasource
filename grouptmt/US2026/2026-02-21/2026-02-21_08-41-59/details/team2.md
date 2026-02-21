@@ -328,8 +328,8 @@
 | 320 | 246 | Ashley Lopez |
 | 321 | 246 | Stephanie Lumanlan |
 | 322 | 245 | Rachael Senard |
-| 323 | 245 | Mischelle Clay |
-| 324 | 245 | Taryece Gause |
+| 323 | 245 | Taryece Gause |
+| 324 | 245 | Mischelle Clay |
 | 325 | 244 | Aimee Byrom |
 | 326 | 243 | Brandy Andre |
 | 327 | 243 | Adira Brown |
@@ -421,9 +421,9 @@
 | 413 | 186 | Jackie Jackie Lee |
 | 414 | 185 | JacJac |
 | 415 | 184 | Brittany Radaszewski |
-| 416 | 184 | Regina Unruh |
-| 417 | 184 | Theresa Sterrett |
-| 418 | 184 | Sassy Linkbuilder |
+| 416 | 184 | Theresa Sterrett |
+| 417 | 184 | Sassy Linkbuilder |
+| 418 | 184 | Regina Unruh |
 | 419 | 183 | Lynzekwi |
 | 420 | 183 | Brenna Ann |
 | 421 | 183 | Wakanda Forever |
@@ -454,8 +454,8 @@
 | 446 | 175 | Tina Blessed Cage |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
-| 449 | 173 | kippykay |
-| 450 | 173 | Robin |
+| 449 | 173 | Robin |
+| 450 | 173 | kippykay |
 | 451 | 172 | HarleyJane |
 | 452 | 171 | Cappin You |
 | 453 | 171 | William Hunt |

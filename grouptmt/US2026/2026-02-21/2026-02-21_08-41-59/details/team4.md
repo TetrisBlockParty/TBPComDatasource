@@ -99,8 +99,8 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Degenerate |
-| 95 | 132 | Melissa Priest Sellers |
+| 94 | 132 | Melissa Priest Sellers |
+| 95 | 132 | Degenerate |
 | 96 | 132 | Jenna McGeorge |
 | 97 | 132 | Jessica Cagle |
 | 98 | 131 | Mr. Party |
@@ -150,8 +150,8 @@
 | 142 | 101 | Michelle Morris |
 | 143 | 101 | Saulc1991 |
 | 144 | 100 | Alexandra Karavias |
-| 145 | 98 | Duck |
-| 146 | 98 | Allen Lloyd |
+| 145 | 98 | Allen Lloyd |
+| 146 | 98 | Duck |
 | 147 | 98 | Chaz |
 | 148 | 97 | Brandi Durig |
 | 149 | 96 | Zappy Snaplink |
@@ -234,8 +234,8 @@
 | 226 | 67 | mini |
 | 227 | 67 | JPW |
 | 228 | 66 | mitch |
-| 229 | 66 | Terrance Fung |
-| 230 | 66 | Rebecca Blake |
+| 229 | 66 | Rebecca Blake |
+| 230 | 66 | Terrance Fung |
 | 231 | 66 | Moonsterix |
 | 232 | 65 | BlockBabe |
 | 233 | 65 | Asher |
@@ -942,7 +942,7 @@
 | 934 | 5 | George Clemis |
 | 935 | 5 | Matthew Rodriguez |
 | 936 | 5 | canglem |
-| 937 | 5 | Dapper Caster |
+| 937 | 5 | Mathew Dissinger |
 | 938 | 5 | Albert Mariano |
 | 939 | 5 | Dapper Caster |
 

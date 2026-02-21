@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 703 | Chummy Shatterer |
@@ -242,15 +242,15 @@
 | 234 | 98 | Funky Jumper |
 | 235 | 97 | mzcatzy |
 | 236 | 97 | Ashley Jones |
-| 237 | 96 | Tasha Wesson-Torrence |
-| 238 | 96 | Hanna Kim |
-| 239 | 96 | Jason-Ashley Ludlow |
-| 240 | 96 | Christopher Woost |
+| 237 | 96 | Christopher Woost |
+| 238 | 96 | Jason-Ashley Ludlow |
+| 239 | 96 | Hanna Kim |
+| 240 | 96 | Tasha Wesson-Torrence |
 | 241 | 96 | D3NO |
-| 242 | 95 | Brooke Bauer |
-| 243 | 95 | MizzMonick Smith |
-| 244 | 94 | Angie Harper |
-| 245 | 94 | Carrie Huskey |
+| 242 | 95 | MizzMonick Smith |
+| 243 | 95 | Brooke Bauer |
+| 244 | 94 | Carrie Huskey |
+| 245 | 94 | Angie Harper |
 | 246 | 93 | Tiffany Ford |
 | 247 | 92 | Trice Thomas |
 | 248 | 92 | Jennifer Caputo |
