@@ -143,8 +143,8 @@
 | 135 | 99 | Mizzledagod |
 | 136 | 99 | Melissa Bires Hussar |
 | 137 | 98 | Loony Fitzone |
-| 138 | 96 | Nery Martinez |
-| 139 | 96 | Melissa Lemmon |
+| 138 | 96 | Melissa Lemmon |
+| 139 | 96 | Nery Martinez |
 | 140 | 94 | Luciano Moreira |
 | 141 | 94 | Tyler Hertzog |
 | 142 | 94 | Bindi |
@@ -156,8 +156,8 @@
 | 148 | 90 | Dizzy Party |
 | 149 | 89 | Mara Hilker |
 | 150 | 87 | Jessi Sauer |
-| 151 | 86 | Basment Living |
-| 152 | 86 | Desiree Deschaine Havee |
+| 151 | 86 | Desiree Deschaine Havee |
+| 152 | 86 | Basment Living |
 | 153 | 85 | Steve Schneider |
 | 154 | 84 | Speedy Snapfall |
 | 155 | 84 | Eddie Dillon |
@@ -173,7 +173,7 @@
 | 165 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 166 | 81 | Bob |
 | 167 | 80 | Brandi Egbert |
-| 168 | 80 | Matt Cinelli |
+| 168 | 80 | pjbeta |
 | 169 | 80 | Larry Tilton |
 | 170 | 80 | Matt Cinelli |
 | 171 | 79 | Cheeky Pop |

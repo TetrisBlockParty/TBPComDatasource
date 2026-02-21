@@ -86,8 +86,8 @@
 | 78 | 155 | Melvin Baird |
 | 79 | 154 | ThaEviLJeNiuZ |
 | 80 | 153 | Jae Job |
-| 81 | 150 | Zethra Prenisha Rahming |
-| 82 | 150 | ZeeZee |
+| 81 | 150 | ZeeZee |
+| 82 | 150 | Zethra Prenisha Rahming |
 | 83 | 147 | Jay28 |
 | 84 | 146 | Peachy Fall |
 | 85 | 141 | Malakai Darien Fox |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Christina Black |
-| 194 | 75 | Rosemary Foster |
+| 193 | 75 | Rosemary Foster |
+| 194 | 75 | Christina Black |
 | 195 | 74 | Krs |
 | 196 | 73 | Lynn Marie |
 | 197 | 73 | bloat princess |
@@ -227,8 +227,8 @@
 | 219 | 67 | Dennis Bradley |
 | 220 | 66 | Terrance Fung |
 | 221 | 66 | Rebecca Blake |
-| 222 | 66 | Moonsterix |
-| 223 | 66 | mitch |
+| 222 | 66 | mitch |
+| 223 | 66 | Moonsterix |
 | 224 | 65 | Angela Geist Jusinski |
 | 225 | 65 | Lee Silpe |
 | 226 | 65 | Asher |
