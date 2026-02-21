@@ -196,8 +196,8 @@
 | 188 | 604 | Danielle Johnson-Chandler |
 | 189 | 603 | Cassie Maynard |
 | 190 | 597 | Erica Williams |
-| 191 | 596 | Jelly |
-| 192 | 596 | Ellie Jonas |
+| 191 | 596 | Ellie Jonas |
+| 192 | 596 | Jelly |
 | 193 | 592 | Ashle Scranton |
 | 194 | 591 | Alisha |
 | 195 | 591 | Diana Fitzwater |

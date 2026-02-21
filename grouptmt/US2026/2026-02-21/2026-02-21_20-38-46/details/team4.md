@@ -143,17 +143,17 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Holly |
-| 139 | 156 | Jessica Bohlken |
+| 138 | 156 | Jessica Bohlken |
+| 139 | 156 | Holly |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Bethany Ison |
-| 142 | 151 | Avy Absol |
+| 141 | 151 | Avy Absol |
+| 142 | 151 | Bethany Ison |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
 | 146 | 147 | Shainne Brewer |
-| 147 | 147 | Jay28 |
-| 148 | 147 | Chair |
+| 147 | 147 | Chair |
+| 148 | 147 | Jay28 |
 | 149 | 145 | Daria Rycewicz |
 | 150 | 144 | Mr. Party |
 | 151 | 141 | ĥuf |
@@ -170,8 +170,8 @@
 | 162 | 135 | Victoria Faniel |
 | 163 | 135 | Stephme310 |
 | 164 | 134 | Chirpy Basepiece |
-| 165 | 134 | Kim Klutz Olson |
-| 166 | 134 | Zany Shatterer |
+| 165 | 134 | Zany Shatterer |
+| 166 | 134 | Kim Klutz Olson |
 | 167 | 133 | Angela Geist Jusinski |
 | 168 | 132 | Melissa Priest Sellers |
 | 169 | 132 | Degenerate |
@@ -189,8 +189,8 @@
 | 181 | 125 | Ericca Eldridge |
 | 182 | 125 | Duck |
 | 183 | 125 | AyeKay |
-| 184 | 124 | Allen Lloyd |
-| 185 | 124 | SammieJo Guy |
+| 184 | 124 | SammieJo Guy |
+| 185 | 124 | Allen Lloyd |
 | 186 | 123 | Chaz |
 | 187 | 122 | Sherri |
 | 188 | 122 | 🥔🥔 Spudz |
@@ -226,8 +226,8 @@
 | 218 | 107 | Nerdy Twisterfit |
 | 219 | 106 | Zappy Snaplink |
 | 220 | 105 | Brandi Durig |
-| 221 | 104 | Lindsey Gonzalez |
-| 222 | 104 | Chris Alexinas |
+| 221 | 104 | Chris Alexinas |
+| 222 | 104 | Lindsey Gonzalez |
 | 223 | 103 | Lauren Lamb |
 | 224 | 103 | Richard-April Kice |
 | 225 | 103 | Kate |

@@ -110,8 +110,8 @@
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
-| 105 | 367 | Nerdy Riseclear |
-| 106 | 367 | mjl574 |
+| 105 | 367 | mjl574 |
+| 106 | 367 | Nerdy Riseclear |
 | 107 | 366 | Speedy Bridger |
 | 108 | 356 | Adrian Marcel Pate |
 | 109 | 350 | Tiff Vs Tiffany |
@@ -137,8 +137,8 @@
 | 129 | 278 | Rufus Lincoln |
 | 130 | 276 | Crimson |
 | 131 | 272 | opf |
-| 132 | 271 | Leah Barnett |
-| 133 | 271 | Ashley Muncey |
+| 132 | 271 | Ashley Muncey |
+| 133 | 271 | Leah Barnett |
 | 134 | 270 | Stephanie Blkpep Davidson |
 | 135 | 267 | Denise Nardoni |
 | 136 | 263 | Angeline Joseph |
@@ -161,8 +161,8 @@
 | 153 | 227 | Nikki Pags |
 | 154 | 226 | Grego Daniel |
 | 155 | 223 | Jeana Gilbert |
-| 156 | 222 | Jimmie Clemons |
-| 157 | 222 | Hoppy Buildout |
+| 156 | 222 | Hoppy Buildout |
+| 157 | 222 | Jimmie Clemons |
 | 158 | 219 | Shunta Jacobs |
 | 159 | 218 | LaNette Morgan |
 | 160 | 217 | Jess Bissett |

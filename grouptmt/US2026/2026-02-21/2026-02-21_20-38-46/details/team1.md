@@ -37,8 +37,8 @@
 | 29 | 585 | Jennifer Cates |
 | 30 | 563 | Marianne Louise West |
 | 31 | 543 | Aaron Garnett |
-| 32 | 541 | Drew Magnus |
-| 33 | 541 | Jorge Andrade |
+| 32 | 541 | Jorge Andrade |
+| 33 | 541 | Drew Magnus |
 | 34 | 539 | Karin Gillen |
 | 35 | 521 | Hyp James NObettadanluvarat |
 | 36 | 517 | Felicia Lewis |
@@ -47,8 +47,8 @@
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
 | 41 | 493 | Kristen Roles Robben |
-| 42 | 486 | Sarah Lombardo |
-| 43 | 486 | Sevens4L |
+| 42 | 486 | Sevens4L |
+| 43 | 486 | Sarah Lombardo |
 | 44 | 483 | Ryan Lunnin |
 | 45 | 480 | Matt |
 | 46 | 469 | Kathi Snustad |
@@ -126,8 +126,8 @@
 | 118 | 190 | Thorne Shumate |
 | 119 | 189 | Happy Basegrid |
 | 120 | 188 | Sam Williams |
-| 121 | 187 | Snippy Wipebuilder |
-| 122 | 187 | Plucky Ziggy |
+| 121 | 187 | Plucky Ziggy |
+| 122 | 187 | Snippy Wipebuilder |
 | 123 | 186 | Jennifer Olewnik Soborowski |
 | 124 | 182 | Spunky Piecebuilder |
 | 125 | 180 | BigWeenie69 |
