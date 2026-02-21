@@ -137,7 +137,7 @@
 | 129 | 144 | Mr. Party |
 | 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Jenna McGeorge |
+| 132 | 140 | Shannon Ferrari |
 | 133 | 140 | John Brunetti |
 | 134 | 140 | Jenna McGeorge |
 | 135 | 137 | Roger Coulter |

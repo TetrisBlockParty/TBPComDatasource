@@ -221,9 +221,9 @@
 | 213 | 152 | Shiny Zonebuilder |
 | 214 | 151 | Brenda Lee Vander Molen |
 | 215 | 150 | Valerie Gendron |
-| 216 | 149 | Alexis Taylor |
+| 216 | 149 | Peachy Rollfit |
 | 217 | 149 | Angel Mendez |
-| 218 | 149 | Peachy Rollfit |
+| 218 | 149 | Alexis Taylor |
 | 219 | 148 | Lesley Perez |
 | 220 | 148 | Gumbo |
 | 221 | 148 | Jennifer Alvey |

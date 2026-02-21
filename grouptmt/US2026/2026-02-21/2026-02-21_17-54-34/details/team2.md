@@ -321,8 +321,8 @@
 | 313 | 355 | Shandrica Lowe |
 | 314 | 355 | Alexandra Weir |
 | 315 | 354 | Lawanda Forbes |
-| 316 | 354 | Brave Dropmatch |
-| 317 | 354 | Tracy Wise |
+| 316 | 354 | Tracy Wise |
+| 317 | 354 | Brave Dropmatch |
 | 318 | 353 | Cheery Matchzone |
 | 319 | 352 | Juanita Lyons |
 | 320 | 352 | ruth |
@@ -337,8 +337,8 @@
 | 329 | 344 | Glenn Cobbins |
 | 330 | 343 | F-X |
 | 331 | 341 | Melissa Rebbe-Lehman |
-| 332 | 340 | Felicia Lynn |
-| 333 | 340 | Mandi Douglas Hilt |
+| 332 | 340 | Mandi Douglas Hilt |
+| 333 | 340 | Felicia Lynn |
 | 334 | 337 | Sassy Pattern |
 | 335 | 336 | Moni Foxe |
 | 336 | 335 | Brooke Leigh Strube |
@@ -377,10 +377,10 @@
 | 369 | 316 | Oscar Bernie |
 | 370 | 315 | Kristopher Miller |
 | 371 | 314 | Lewis Sturgeon |
-| 372 | 314 | Amanda West |
-| 373 | 314 | Party d |
-| 374 | 312 | Michelle Pike |
-| 375 | 312 | Andrea Maher |
+| 372 | 314 | Party d |
+| 373 | 314 | Amanda West |
+| 374 | 312 | Andrea Maher |
+| 375 | 312 | Michelle Pike |
 | 376 | 309 | Catina Hutchison |
 | 377 | 309 | James Zaragoza |
 | 378 | 305 | Libby Hicks |
