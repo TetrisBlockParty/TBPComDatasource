@@ -49,8 +49,8 @@
 | 41 | 170 | Leah Kutz Zirbel |
 | 42 | 168 | Anthony Magaraci |
 | 43 | 153 | Jae Job |
-| 44 | 152 | Courtney Cicoria |
-| 45 | 152 | Denise Carlson |
+| 44 | 152 | Denise Carlson |
+| 45 | 152 | Courtney Cicoria |
 | 46 | 148 | Carter Jones |
 | 47 | 146 | Tammi Crnza |
 | 48 | 145 | Edward White |
@@ -124,7 +124,7 @@
 | 116 | 79 | Shainne Brewer |
 | 117 | 78 | Zesty Linkgrid |
 | 118 | 78 | Chair |
-| 119 | 77 | Jumpy Zonepiece |
+| 119 | 77 | Chris Alexinas |
 | 120 | 77 | Destiney Carter |
 | 121 | 77 | Jumpy Zonepiece |
 | 122 | 76 | Bethany Ison |

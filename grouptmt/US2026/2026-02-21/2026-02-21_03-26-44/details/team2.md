@@ -143,8 +143,8 @@
 | 135 | 377 | Liberty |
 | 136 | 374 | Calandra Shaya Robinson |
 | 137 | 365 | April Dawn Gussler |
-| 138 | 364 | Tammy Allen |
-| 139 | 364 | Shinette Dobson |
+| 138 | 364 | Shinette Dobson |
+| 139 | 364 | Tammy Allen |
 | 140 | 363 | William Meussner |
 | 141 | 362 | Dineisha Carpenter |
 | 142 | 359 | Brainy Smurf |
@@ -327,16 +327,16 @@
 | 319 | 168 | Kati Russeau |
 | 320 | 167 | Dedra Steward |
 | 321 | 165 | Cathy Bitters |
-| 322 | 164 | Jamie Stevey |
-| 323 | 164 | kippykay |
+| 322 | 164 | kippykay |
+| 323 | 164 | Jamie Stevey |
 | 324 | 164 | Eddie Perez |
 | 325 | 163 | Albert McKnight |
 | 326 | 163 | Austin Wilson |
-| 327 | 162 | Brenna Ann |
-| 328 | 162 | Elizabeth Pearson |
-| 329 | 162 | Amber Gray |
+| 327 | 162 | Elizabeth Pearson |
+| 328 | 162 | Brenna Ann |
+| 329 | 162 | LC Hamilton |
 | 330 | 162 | Joshua Mullings |
-| 331 | 162 | LC Hamilton |
+| 331 | 162 | Amber Gray |
 | 332 | 161 | Dizzy Zone |
 | 333 | 160 | Rhonda Petro |
 | 334 | 160 | Cynthia Ward |

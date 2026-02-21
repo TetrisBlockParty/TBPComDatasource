@@ -126,8 +126,8 @@
 | 118 | 125 | Felicia Doxey |
 | 119 | 123 | Kristie McFarland |
 | 120 | 122 | Shimika Enay Wallace |
-| 121 | 121 | Michael Latasha Gray |
-| 122 | 121 | Boldy Corner |
+| 121 | 121 | Boldy Corner |
+| 122 | 121 | Michael Latasha Gray |
 | 123 | 120 | Jessica |
 | 124 | 119 | Terry Jo Jones |
 | 125 | 118 | Fancy Curver |
@@ -189,8 +189,8 @@
 | 181 | 85 | Kevin Russell |
 | 182 | 85 | Chris Bell |
 | 183 | 84 | Ava Petito |
-| 184 | 84 | Flashy Rumbler |
-| 185 | 84 | Amanda L Baker |
+| 184 | 84 | Amanda L Baker |
+| 185 | 84 | Flashy Rumbler |
 | 186 | 82 | Clever Clearbuilder |
 | 187 | 82 | Crystel b520 |
 | 188 | 81 | Tina Baurdau |

@@ -47,8 +47,8 @@
 | 39 | 194 | Sharon Reynolds |
 | 40 | 192 | Mandyy Rae |
 | 41 | 191 | Jazzy Framezone |
-| 42 | 190 | Sweetts |
-| 43 | 190 | Thorne Shumate |
+| 42 | 190 | Thorne Shumate |
+| 43 | 190 | Sweetts |
 | 44 | 189 | Happy Basegrid |
 | 45 | 185 | Karin Gillen |
 | 46 | 173 | Frothy Pattern |
@@ -95,8 +95,8 @@
 | 87 | 109 | Dandy Basegrid |
 | 88 | 108 | Tavia |
 | 89 | 107 | Jodee Woods |
-| 90 | 105 | Barry Mac'Ockner |
-| 91 | 105 | Flashy Rotator |
+| 90 | 105 | Flashy Rotator |
+| 91 | 105 | Barry Mac'Ockner |
 | 92 | 103 | Ash Galvan |
 | 93 | 99 | Melissa Bires Hussar |
 | 94 | 99 | Ty Brown |
@@ -105,8 +105,8 @@
 | 97 | 96 | Nery Martinez |
 | 98 | 95 | Spunky Piecebuilder |
 | 99 | 94 | Bindi |
-| 100 | 93 | Loony Fitzone |
-| 101 | 93 | Adryane Schnase |
+| 100 | 93 | Adryane Schnase |
+| 101 | 93 | Loony Fitzone |
 | 102 | 92 | Franswa |
 | 103 | 90 | TSwag |
 | 104 | 90 | Madison Wicks |
