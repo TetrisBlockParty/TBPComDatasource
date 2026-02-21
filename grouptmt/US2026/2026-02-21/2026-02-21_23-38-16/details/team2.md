@@ -141,8 +141,8 @@
 | 133 | 881 | Tanya Parsons |
 | 134 | 875 | Kelly Trent |
 | 135 | 869 | Desiree Harris Rosch |
-| 136 | 867 | Michele Gabriel |
-| 137 | 867 | Rosa Franklin |
+| 136 | 867 | Rosa Franklin |
+| 137 | 867 | Michele Gabriel |
 | 138 | 861 | Jennifer Peachey |
 | 139 | 849 | Jennifer Kistner |
 | 140 | 845 | April Dawn Gussler |
@@ -184,8 +184,8 @@
 | 176 | 705 | Roger Grabbit |
 | 177 | 703 | Debra Williams |
 | 178 | 700 | Vincent Petrella |
-| 179 | 700 | Rosemadder |
-| 180 | 700 | Beverly Owens |
+| 179 | 700 | Beverly Owens |
+| 180 | 700 | Rosemadder |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
 | 183 | 692 | Chelle |
@@ -236,8 +236,8 @@
 | 228 | 589 | Thomas Hedrick |
 | 229 | 587 | Hyper Cluster |
 | 230 | 586 | Stephen Stephen |
-| 231 | 583 | Jessicah Myers |
-| 232 | 583 | Steve Grotto |
+| 231 | 583 | Steve Grotto |
+| 232 | 583 | Jessicah Myers |
 | 233 | 582 | Gary Stash |
 | 234 | 581 | Jánine Riggs |
 | 235 | 580 | Leslie Ann Carter |

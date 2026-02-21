@@ -73,8 +73,8 @@
 | 65 | 391 | Ramel Rhodes |
 | 66 | 390 | Carlton Unfiltered |
 | 67 | 388 | YoMomma |
-| 68 | 376 | quicksand420 |
-| 69 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | quicksand420 |
 | 70 | 373 | Joseph Guthrie |
 | 71 | 370 | Leslie Thomas |
 | 72 | 369 | Nope Young |
@@ -98,8 +98,8 @@
 | 90 | 281 | Leslie Nicole |
 | 91 | 277 | KJ Pool |
 | 92 | 274 | Desi Desporte |
-| 93 | 273 | shark tato |
-| 94 | 273 | Carrie Brian |
+| 93 | 273 | Carrie Brian |
+| 94 | 273 | shark tato |
 | 95 | 264 | Epic Curvetile |
 | 96 | 264 | Girl |
 | 97 | 258 | Brittney Orengo |
@@ -138,8 +138,8 @@
 | 130 | 196 | Jeff Brian Gates |
 | 131 | 194 | Zany Twisterfit |
 | 132 | 192 | Shauna Havard |
-| 133 | 189 | Stacey Stano |
-| 134 | 189 | Calvin Dennis |
+| 133 | 189 | Calvin Dennis |
+| 134 | 189 | Stacey Stano |
 | 135 | 188 | Katherine Crane |
 | 136 | 187 | Sarah Brown |
 | 137 | 187 | TheNeesh50 |

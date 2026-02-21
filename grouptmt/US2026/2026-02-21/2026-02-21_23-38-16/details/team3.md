@@ -190,8 +190,8 @@
 | 182 | 219 | Shunta Jacobs |
 | 183 | 218 | LaNette Morgan |
 | 184 | 217 | Jess Bissett |
-| 185 | 214 | Amy Fuller Heaton |
-| 186 | 214 | Jenny Hrndz |
+| 185 | 214 | Jenny Hrndz |
+| 186 | 214 | Amy Fuller Heaton |
 | 187 | 212 | Krystal Gerstberger |
 | 188 | 211 | Khaleada McGill Banks |
 | 189 | 211 | Katrina Turner |
@@ -273,15 +273,15 @@
 | 265 | 153 | Cozy Snaplink |
 | 266 | 152 | Shiny Zonebuilder |
 | 267 | 152 | LaTanya GeminiondaRise Johnson |
-| 268 | 152 | Shiny Zonebuilder |
+| 268 | 152 | Brittany |
 | 269 | 150 | Steffi Chris Dacones |
 | 270 | 149 | Alexis Taylor |
 | 271 | 149 | Peachy Rollfit |
 | 272 | 149 | Cheryl Hinch Tenbrook |
 | 273 | 149 | Angel Mendez |
 | 274 | 148 | Carrie Huskey |
-| 275 | 148 | Gumbo |
-| 276 | 148 | Wetwet |
+| 275 | 148 | Wetwet |
+| 276 | 148 | Gumbo |
 | 277 | 147 | Ashley Lynn Marchese |
 | 278 | 146 | Rachel |
 | 279 | 146 | Ava Petito |

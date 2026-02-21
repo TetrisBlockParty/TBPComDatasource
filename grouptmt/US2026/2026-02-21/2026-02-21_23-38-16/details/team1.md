@@ -43,8 +43,8 @@
 | 35 | 587 | Marianne Louise West |
 | 36 | 585 | Jennifer Cates |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Kristen Roles Robben |
-| 39 | 541 | Drew Magnus |
+| 38 | 541 | Drew Magnus |
+| 39 | 541 | Kristen Roles Robben |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
@@ -171,8 +171,8 @@
 | 163 | 163 | Tyler Whitley |
 | 164 | 163 | Jenny Gingrich Fuentes |
 | 165 | 162 | Cece Ibarra |
-| 166 | 161 | Jessie Lynn |
-| 167 | 161 | SavageBooty98 |
+| 166 | 161 | SavageBooty98 |
+| 167 | 161 | Jessie Lynn |
 | 168 | 160 | Nery Martinez |
 | 169 | 159 | Bindi |
 | 170 | 158 | Arianna O'Brien |
@@ -210,8 +210,8 @@
 | 202 | 133 | Kimberly Garcia |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
-| 205 | 130 | LD1 |
-| 206 | 130 | Gilbert Ortiz Jr. |
+| 205 | 130 | Gilbert Ortiz Jr. |
+| 206 | 130 | LD1 |
 | 207 | 129 | Larry Tilton |
 | 208 | 128 | lil mickey |
 | 209 | 126 | Tami Luce Martin |
@@ -223,7 +223,7 @@
 | 215 | 120 | Silly Align |
 | 216 | 119 | Strig |
 | 217 | 119 | Desiree Deschaine Havee |
-| 218 | 119 | Strig |
+| 218 | 119 | Tater |
 | 219 | 118 | Jacob Shaddock |
 | 220 | 116 | Jessica Russell |
 | 221 | 116 | MomMom |
