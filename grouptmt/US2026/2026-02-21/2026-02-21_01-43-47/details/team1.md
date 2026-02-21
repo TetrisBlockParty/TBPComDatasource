@@ -103,8 +103,8 @@
 | 95 | 80 | pjbeta |
 | 96 | 80 | Matt Cinelli |
 | 97 | 79 | Chris65 |
-| 98 | 78 | Carrie Beck Geartz |
-| 99 | 78 | Sam Williams |
+| 98 | 78 | Sam Williams |
+| 99 | 78 | Carrie Beck Geartz |
 | 100 | 77 | Teddy Alexander |
 | 101 | 76 | Larry Tilton |
 | 102 | 76 | Archie Ware |

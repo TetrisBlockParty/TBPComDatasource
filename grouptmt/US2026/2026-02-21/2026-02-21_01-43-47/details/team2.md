@@ -230,8 +230,8 @@
 | 222 | 200 | Cheeky Brickmatch |
 | 223 | 198 | Andea Beck |
 | 224 | 198 | Julio A Laracuente |
-| 225 | 198 | Richard Horton |
-| 226 | 198 | Alyssa Dean |
+| 225 | 198 | Alyssa Dean |
+| 226 | 198 | Richard Horton |
 | 227 | 197 | Smashanator |
 | 228 | 196 | Alexandra Reese |
 | 229 | 194 | Mike Aprilliano |
@@ -260,14 +260,14 @@
 | 252 | 176 | Jessica Kaye DeAguero |
 | 253 | 175 | Tina Blessed Cage |
 | 254 | 173 | Macy Williams |
-| 255 | 170 | Taryece Gause |
-| 256 | 170 | Darlene Bowman |
+| 255 | 170 | Darlene Bowman |
+| 256 | 170 | Taryece Gause |
 | 257 | 170 | Kenya Felix |
 | 258 | 169 | Lively Catcher |
-| 259 | 168 | Peppy Zone |
-| 260 | 168 | Robin |
-| 261 | 167 | Fi Ne |
-| 262 | 167 | Dedra Steward |
+| 259 | 168 | Robin |
+| 260 | 168 | Peppy Zone |
+| 261 | 167 | Dedra Steward |
+| 262 | 167 | Fi Ne |
 | 263 | 167 | Megan Ferguson Leone |
 | 264 | 166 | August Hale |
 | 265 | 165 | Cathy Bitters |

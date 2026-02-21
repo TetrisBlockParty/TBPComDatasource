@@ -72,8 +72,8 @@
 | 64 | 187 | Speedy Bridger |
 | 65 | 185 | Danielle Cutler |
 | 66 | 184 | Jennie Beranek |
-| 67 | 180 | joclisa |
-| 68 | 180 | Tessina Dewey-Mancino |
+| 67 | 180 | Tessina Dewey-Mancino |
+| 68 | 180 | joclisa |
 | 69 | 179 | Daira Largen |
 | 70 | 177 | Fallorina Susana |
 | 71 | 174 | Mykal Burton |

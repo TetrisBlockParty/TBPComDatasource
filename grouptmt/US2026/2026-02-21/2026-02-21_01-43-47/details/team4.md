@@ -71,8 +71,8 @@
 | 63 | 109 | Bryan Hodgins |
 | 64 | 108 | Mr. Party |
 | 65 | 101 | Michelle Morris |
-| 66 | 100 | Andria Lynn |
-| 67 | 100 | Jeff Brian Gates |
+| 66 | 100 | Jeff Brian Gates |
+| 67 | 100 | Andria Lynn |
 | 68 | 99 | YoMomma |
 | 69 | 98 | Stephme310 |
 | 70 | 98 | Duck |
