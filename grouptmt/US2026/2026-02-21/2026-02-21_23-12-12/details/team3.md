@@ -69,16 +69,16 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Katrina Schroeder |
-| 65 | 582 | Natasha Jones |
+| 64 | 582 | Natasha Jones |
+| 65 | 582 | Katrina Schroeder |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Joey Banks |
-| 73 | 536 | Giddy Drop |
+| 72 | 536 | Giddy Drop |
+| 73 | 536 | Joey Banks |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -188,14 +188,14 @@
 | 180 | 219 | Rebecca Bailey |
 | 181 | 218 | LaNette Morgan |
 | 182 | 217 | Jess Bissett |
-| 183 | 214 | Amy Fuller Heaton |
-| 184 | 214 | Jenny Hrndz |
+| 183 | 214 | Jenny Hrndz |
+| 184 | 214 | Amy Fuller Heaton |
 | 185 | 212 | Krystal Gerstberger |
 | 186 | 211 | Khaleada McGill Banks |
 | 187 | 211 | Katrina Turner |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Chris Bell |
-| 190 | 207 | Jessica |
+| 189 | 207 | Jessica |
+| 190 | 207 | Chris Bell |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |

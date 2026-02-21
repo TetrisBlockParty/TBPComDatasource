@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | Marie-Pier Desjardins |
-| 68 | 376 | quicksand420 |
+| 67 | 376 | quicksand420 |
+| 68 | 376 | Marie-Pier Desjardins |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -215,8 +215,8 @@
 | 207 | 123 | Tyler Terrific |
 | 208 | 122 | Sherri |
 | 209 | 122 | 🥔🥔 Spudz |
-| 210 | 121 | Joseph Pace |
-| 211 | 121 | Smiley Tiltbuilder |
+| 210 | 121 | Smiley Tiltbuilder |
+| 211 | 121 | Joseph Pace |
 | 212 | 121 | Megan Cutshaw |
 | 213 | 120 | Zesty Twistbuilder |
 | 214 | 120 | Bryan Hodgins |

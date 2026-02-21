@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Trina Gee |
-| 67 | 348 | Stef Hu |
+| 66 | 348 | Stef Hu |
+| 67 | 348 | Trina Gee |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Bhelle Sumile |
-| 95 | 270 | Jennifer ManWarren |
+| 94 | 270 | Jennifer ManWarren |
+| 95 | 270 | Bhelle Sumile |
 | 96 | 263 | Sharon Reynolds |
 | 97 | 261 | Rachael |
 | 98 | 258 | Dandy Basegrid |
@@ -223,8 +223,8 @@
 | 215 | 119 | Tater |
 | 216 | 119 | Strig |
 | 217 | 118 | Jacob Shaddock |
-| 218 | 116 | MomMom |
-| 219 | 116 | Jessica Russell |
+| 218 | 116 | Jessica Russell |
+| 219 | 116 | MomMom |
 | 220 | 115 | Jessi Sauer |
 | 221 | 115 | Zany Tiler |
 | 222 | 115 | Mrs.Patrica |
