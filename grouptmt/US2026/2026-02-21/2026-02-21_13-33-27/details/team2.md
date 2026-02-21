@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -446,8 +446,8 @@
 | 438 | 211 | Ys Muhammed |
 | 439 | 209 | Dawn L Washington-Feuquay |
 | 440 | 208 | Nancy Pohlman |
-| 441 | 207 | Brave Gridpiece |
-| 442 | 207 | Melissa McCall |
+| 441 | 207 | Melissa McCall |
+| 442 | 207 | Brave Gridpiece |
 | 443 | 207 | Shylee Tilman |
 | 444 | 206 | Neko Preston |
 | 445 | 206 | RAEPR05 |

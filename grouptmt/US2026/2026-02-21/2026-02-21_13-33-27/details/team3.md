@@ -31,8 +31,8 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Briarblack |
-| 27 | 867 | Delilah belle |
+| 26 | 867 | Delilah belle |
+| 27 | 867 | Briarblack |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
 | 30 | 810 | Zippy Strikesnap |
@@ -134,14 +134,14 @@
 | 126 | 195 | Jenny Hrndz |
 | 127 | 194 | glichmod |
 | 128 | 193 | Stephanie Burtin |
-| 129 | 193 | Clever Shiftsnap |
-| 130 | 193 | Duane Bright |
+| 129 | 193 | Duane Bright |
+| 130 | 193 | Clever Shiftsnap |
 | 131 | 192 | Chasity |
 | 132 | 191 | Giddy Twistbuilder |
 | 133 | 191 | Scott Carleton |
 | 134 | 189 | Sissy Lowery Davis |
-| 135 | 189 | Fallorina Susana |
-| 136 | 189 | Staci George Fitzsimmons |
+| 135 | 189 | Staci George Fitzsimmons |
+| 136 | 189 | Fallorina Susana |
 | 137 | 185 | Logan Naccarato |
 | 138 | 184 | Jennie Beranek |
 | 139 | 182 | Ashley Tookes |
@@ -154,9 +154,9 @@
 | 146 | 176 | Ryan Williams |
 | 147 | 167 | Raven Dudley |
 | 148 | 167 | Rebel124 |
-| 149 | 166 | Danielle Mogg |
-| 150 | 166 | Betty Rosas |
-| 151 | 166 | Loopy Fallmatch |
+| 149 | 166 | Loopy Fallmatch |
+| 150 | 166 | Danielle Mogg |
+| 151 | 166 | Betty Rosas |
 | 152 | 166 | Kelly Ann Child |
 | 153 | 165 | Kali Kelz Williams |
 | 154 | 164 | DanceLuvLaugh |
@@ -183,8 +183,8 @@
 | 175 | 149 | Angel Mendez |
 | 176 | 149 | Bea Miles |
 | 177 | 147 | Desiree Gold |
-| 178 | 146 | Latoya Mayne |
-| 179 | 146 | Denita Mungro |
+| 178 | 146 | Denita Mungro |
+| 179 | 146 | Latoya Mayne |
 | 180 | 145 | Bryan Byrd |
 | 181 | 145 | Rochelle Hazelett |
 | 182 | 142 | Erica Anderson |
@@ -193,8 +193,8 @@
 | 185 | 140 | Gumbo |
 | 186 | 137 | Aerian Preston |
 | 187 | 136 | Boldy Corner |
-| 188 | 135 | Connie Mohler-Fair |
-| 189 | 135 | Cheryl Hinch Tenbrook |
+| 188 | 135 | Cheryl Hinch Tenbrook |
+| 189 | 135 | Connie Mohler-Fair |
 | 190 | 134 | Emma |
 | 191 | 133 | Joy Petroski |
 | 192 | 131 | Nikki Pags |
@@ -204,8 +204,8 @@
 | 196 | 128 | Jen Lewis |
 | 197 | 127 | Marquita Sheard |
 | 198 | 126 | Brandon Givens |
-| 199 | 125 | Felicia Doxey |
-| 200 | 125 | Shimika Enay Wallace |
+| 199 | 125 | Shimika Enay Wallace |
+| 200 | 125 | Felicia Doxey |
 | 201 | 124 | Cesar Barraza |
 | 202 | 123 | Marci Mize Fandrich |
 | 203 | 123 | Terry Jo Jones |
@@ -280,8 +280,8 @@
 | 272 | 96 | Christopher Woost |
 | 273 | 96 | Tasha Wesson-Torrence |
 | 274 | 95 | Brooke Bauer |
-| 275 | 94 | Angie Harper |
-| 276 | 94 | Tracey Cox |
+| 275 | 94 | Tracey Cox |
+| 276 | 94 | Angie Harper |
 | 277 | 93 | Tiffany Ford |
 | 278 | 92 | Ava Petito |
 | 279 | 92 | Jennifer Caputo |
@@ -306,8 +306,8 @@
 | 298 | 88 | Kevin Russell |
 | 299 | 88 | RickyG |
 | 300 | 88 | Dapper Towerfit |
-| 301 | 87 | Kellie Montgomery |
-| 302 | 87 | FATTY |
+| 301 | 87 | FATTY |
+| 302 | 87 | Kellie Montgomery |
 | 303 | 87 | Jess Bissett |
 | 304 | 86 | Clever Clearbuilder |
 | 305 | 86 | Criss |
@@ -427,10 +427,10 @@
 | 419 | 65 | Taylor Elizabeth |
 | 420 | 65 | Sara Dunn |
 | 421 | 64 | Beejangles |
-| 422 | 64 | Anastasia Williams |
-| 423 | 64 | Moneyvybz |
-| 424 | 63 | Hasty Wipebuilder |
-| 425 | 63 | Cary M. Fong |
+| 422 | 64 | Moneyvybz |
+| 423 | 64 | Anastasia Williams |
+| 424 | 63 | Cary M. Fong |
+| 425 | 63 | Hasty Wipebuilder |
 | 426 | 63 | Mana |
 | 427 | 62 | Scidone Perez |
 | 428 | 62 | GirthBrooks |

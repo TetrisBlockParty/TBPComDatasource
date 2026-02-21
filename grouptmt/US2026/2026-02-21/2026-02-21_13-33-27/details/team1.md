@@ -106,8 +106,8 @@
 | 98 | 155 | Cece Ibarra |
 | 99 | 153 | Shiny Gridmatch |
 | 100 | 152 | Jacqueline Unique |
-| 101 | 149 | Tana |
-| 102 | 149 | Arianna O'Brien |
+| 101 | 149 | Arianna O'Brien |
+| 102 | 149 | Tana |
 | 103 | 148 | Shauntina Burke |
 | 104 | 147 | Veronica Eve |
 | 105 | 145 | BigWeenie69 |
@@ -125,9 +125,9 @@
 | 117 | 137 | Nadine Velardo |
 | 118 | 134 | Trina Gee |
 | 119 | 133 | Breanna Luna |
-| 120 | 132 | Davery Spencer Adair |
-| 121 | 132 | LaQuetta Faith Hines |
-| 122 | 132 | Cody Gates |
+| 120 | 132 | LaQuetta Faith Hines |
+| 121 | 132 | Cody Gates |
+| 122 | 132 | Davery Spencer Adair |
 | 123 | 131 | Uhog SF |
 | 124 | 130 | Dandy Basegrid |
 | 125 | 129 | Dino |
