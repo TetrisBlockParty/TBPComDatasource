@@ -42,8 +42,8 @@
 | 34 | 587 | Suzieq |
 | 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Annie Déè |
-| 68 | 342 | Trezure Gonzalez |
+| 67 | 342 | Trezure Gonzalez |
+| 68 | 342 | Annie Déè |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -139,8 +139,8 @@
 | 131 | 158 | Grams |
 | 132 | 157 | Patricia Gadsden |
 | 133 | 156 | Joey Banks |
-| 134 | 155 | BŘŰŤİÇŨŚ |
-| 135 | 155 | Mcathen |
+| 134 | 155 | Mcathen |
+| 135 | 155 | BŘŰŤİÇŨŚ |
 | 136 | 154 | Angela M. Fletcher |
 | 137 | 153 | Giddy Twistbuilder |
 | 138 | 153 | Beth Ingham |

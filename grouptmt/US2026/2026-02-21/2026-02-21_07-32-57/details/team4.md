@@ -90,8 +90,8 @@
 | 82 | 141 | Malakai Darien Fox |
 | 83 | 140 | Shannon Ferrari |
 | 84 | 136 | Tanner Lund |
-| 85 | 134 | Chirpy Basepiece |
-| 86 | 134 | Jessica Bohlken |
+| 85 | 134 | Jessica Bohlken |
+| 86 | 134 | Chirpy Basepiece |
 | 87 | 133 | Robin Watters |
 | 88 | 132 | Jessica Cagle |
 | 89 | 132 | Jenna McGeorge |
@@ -102,8 +102,8 @@
 | 94 | 131 | Dana Scott |
 | 95 | 130 | Lucas J Sutton |
 | 96 | 130 | Casey Jeffcoat |
-| 97 | 129 | John Brunetti |
-| 98 | 129 | Landon Keith Graffeo |
+| 97 | 129 | Landon Keith Graffeo |
+| 98 | 129 | John Brunetti |
 | 99 | 125 | Lauren Scott |
 | 100 | 125 | Zethra Prenisha Rahming |
 | 101 | 123 | Cherrish Duren |

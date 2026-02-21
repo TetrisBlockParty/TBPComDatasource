@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -92,8 +92,8 @@
 | 84 | 674 | Dannette Goldberg-Richards |
 | 85 | 672 | Wendy Harder Gage |
 | 86 | 665 | Dineisha Carpenter |
-| 87 | 658 | Pacynthia Williams |
-| 88 | 658 | Vistabrat |
+| 87 | 658 | Vistabrat |
+| 88 | 658 | Pacynthia Williams |
 | 89 | 653 | Becky Weeks-Garry |
 | 90 | 649 | Stephanie Chapman |
 | 91 | 649 | Anna Edwards |
@@ -438,8 +438,8 @@
 | 430 | 175 | Lucero Ramirez |
 | 431 | 174 | Jason Garnatz |
 | 432 | 173 | Ocean-Brianna McGregor |
-| 433 | 173 | kippykay |
-| 434 | 173 | Robin |
+| 433 | 173 | Robin |
+| 434 | 173 | kippykay |
 | 435 | 171 | Cappin You |
 | 436 | 170 | Dedra Steward |
 | 437 | 170 | Darlene Bowman |
