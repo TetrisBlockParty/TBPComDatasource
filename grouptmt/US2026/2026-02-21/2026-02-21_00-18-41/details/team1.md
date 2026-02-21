@@ -89,8 +89,8 @@
 | 81 | 79 | Chris65 |
 | 82 | 78 | Carrie Beck Geartz |
 | 83 | 77 | Giggly Builderline |
-| 84 | 75 | Josie Kirt |
-| 85 | 75 | Tyler L Hunt |
+| 84 | 75 | Tyler L Hunt |
+| 85 | 75 | Josie Kirt |
 | 86 | 74 | Grace Joanne Agnant |
 | 87 | 73 | Loony Fitzone |
 | 88 | 73 | Witty Builderfit |

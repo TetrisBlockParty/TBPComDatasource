@@ -253,7 +253,7 @@
 | 245 | 145 | William Hughes |
 | 246 | 145 | Scott Rackley |
 | 247 | 144 | Em Chen |
-| 248 | 143 | Katrina Williams Balmir |
+| 248 | 143 | Allison Hewitt |
 | 249 | 143 | Angelica |
 | 250 | 143 | Katrina Williams Balmir |
 | 251 | 142 | Frisky Clearpiece |

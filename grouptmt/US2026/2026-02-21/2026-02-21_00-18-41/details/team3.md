@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Clever Shiftsnap |
@@ -123,8 +123,8 @@
 | 115 | 93 | Tiffany Ford |
 | 116 | 92 | Skinny Baldez |
 | 117 | 90 | Tiffany Kaupang |
-| 118 | 89 | Annie Déè |
-| 119 | 89 | Hyper Bridger |
+| 118 | 89 | Hyper Bridger |
+| 119 | 89 | Annie Déè |
 | 120 | 88 | Martin Bernier |
 | 121 | 88 | Funky Jumper |
 | 122 | 87 | Sherry Ogden |
