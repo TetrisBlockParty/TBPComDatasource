@@ -196,8 +196,8 @@
 | 188 | 511 | Ramone Armstrong |
 | 189 | 511 | Dizzy Zone |
 | 190 | 511 | Laura Mclean |
-| 191 | 510 | Lisa Ongtowasruk |
-| 192 | 510 | Cheech Dta |
+| 191 | 510 | Cheech Dta |
+| 192 | 510 | Lisa Ongtowasruk |
 | 193 | 509 | Kelli Wells |
 | 194 | 509 | Ariel |
 | 195 | 504 | Cherica Taylor |
@@ -384,9 +384,9 @@
 | 376 | 283 | Byung Bae Park |
 | 377 | 282 | Shaun Church |
 | 378 | 282 | Carl Bradshaw |
-| 379 | 281 | Ellie Jonas |
+| 379 | 281 | Jaycee |
 | 380 | 281 | Justin Hines |
-| 381 | 281 | Jaycee |
+| 381 | 281 | Ellie Jonas |
 | 382 | 280 | Shorty |
 | 383 | 280 | SwampRebel |
 | 384 | 280 | Lonne Emade |
@@ -698,9 +698,9 @@
 | 690 | 158 | Anthony Huebel |
 | 691 | 157 | Ty Quarles |
 | 692 | 157 | Leslie |
-| 693 | 157 | Ty Quarles |
-| 694 | 156 | Renee Bowers |
-| 695 | 156 | Elizabeth Cotton |
+| 693 | 157 | Gursharan Sandhu |
+| 694 | 156 | Elizabeth Cotton |
+| 695 | 156 | Renee Bowers |
 | 696 | 155 | Chelle |
 | 697 | 155 | Monarca26 |
 | 698 | 155 | Cris cris |
@@ -844,9 +844,9 @@
 | 836 | 132 | BIG BABY |
 | 837 | 131 | Christine Moradians |
 | 838 | 131 | Kerry Miller |
-| 839 | 131 | Jaadd |
-| 840 | 131 | Kendall Fullerton |
-| 841 | 131 | Zeleana Perry |
+| 839 | 131 | Kendall Fullerton |
+| 840 | 131 | Zeleana Perry |
+| 841 | 131 | Jaadd |
 | 842 | 130 | Sandy Aragon |
 | 843 | 130 | Amy Ross |
 | 844 | 130 | Martina Gabrielle LaPolla |

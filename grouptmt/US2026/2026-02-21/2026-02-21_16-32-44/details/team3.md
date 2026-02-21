@@ -107,8 +107,8 @@
 | 99 | 323 | Sherry Ogden |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
-| 102 | 309 | CeceGeGe |
-| 103 | 309 | Rich LeBlanc |
+| 102 | 309 | Rich LeBlanc |
+| 103 | 309 | CeceGeGe |
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
@@ -309,7 +309,7 @@
 | 301 | 99 | Michael Nowogorski |
 | 302 | 99 | Nichol Graham |
 | 303 | 99 | FATTY |
-| 304 | 98 | Armi |
+| 304 | 98 | Shicken Nuggit |
 | 305 | 98 | Tasha Wesson-Torrence |
 | 306 | 98 | Jocelyne Baca |
 | 307 | 98 | Armi |
@@ -341,8 +341,8 @@
 | 333 | 90 | Kellie Montgomery |
 | 334 | 90 | Tiffany Kaupang |
 | 335 | 90 | Alexis Ford |
-| 336 | 89 | Clever Clearbuilder |
-| 337 | 89 | Matty Ray |
+| 336 | 89 | Matty Ray |
+| 337 | 89 | Clever Clearbuilder |
 | 338 | 89 | Saucy Buildout |
 | 339 | 89 | Zac Hudak |
 | 340 | 89 | Patti Skiles |

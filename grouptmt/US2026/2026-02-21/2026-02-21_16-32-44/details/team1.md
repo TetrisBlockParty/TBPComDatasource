@@ -128,8 +128,8 @@
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
 | 122 | 146 | Irual Hctrab |
-| 123 | 146 | Dandy Basegrid |
-| 124 | 146 | Christy Jones |
+| 123 | 146 | Christy Jones |
+| 124 | 146 | Dandy Basegrid |
 | 125 | 145 | BigWeenie69 |
 | 126 | 144 | Speedy Snapfall |
 | 127 | 144 | Plucky Ziggy |
@@ -150,16 +150,16 @@
 | 142 | 134 | Trina Gee |
 | 143 | 133 | Breanna Luna |
 | 144 | 132 | Davery Spencer Adair |
-| 145 | 132 | LaQuetta Faith Hines |
-| 146 | 132 | Cody Gates |
-| 147 | 131 | Uhog SF |
-| 148 | 131 | Kimberly Garcia |
+| 145 | 132 | Cody Gates |
+| 146 | 132 | LaQuetta Faith Hines |
+| 147 | 131 | Kimberly Garcia |
+| 148 | 131 | Uhog SF |
 | 149 | 130 | LD1 |
 | 150 | 129 | Dino |
-| 151 | 128 | lil mickey |
-| 152 | 128 | Barry Mac'Ockner |
-| 153 | 127 | Aimee Horton |
-| 154 | 127 | Brave Wrecker |
+| 151 | 128 | Barry Mac'Ockner |
+| 152 | 128 | lil mickey |
+| 153 | 127 | Brave Wrecker |
+| 154 | 127 | Aimee Horton |
 | 155 | 126 | Nerdy Linkblock |
 | 156 | 124 | Flashy Rotator |
 | 157 | 124 | Cartier |

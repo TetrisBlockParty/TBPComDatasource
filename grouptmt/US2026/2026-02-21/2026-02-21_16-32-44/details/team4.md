@@ -146,11 +146,11 @@
 | 138 | 132 | Roger Coulter |
 | 139 | 130 | Casey Jeffcoat |
 | 140 | 129 | John Brunetti |
-| 141 | 128 | Rio Rocha |
-| 142 | 128 | Stephme310 |
+| 141 | 128 | Stephme310 |
+| 142 | 128 | Rio Rocha |
 | 143 | 127 | Dreamy Snapgrid |
-| 144 | 126 | Dihcheese444 |
-| 145 | 126 | TinyLegoRose |
+| 144 | 126 | TinyLegoRose |
+| 145 | 126 | Dihcheese444 |
 | 146 | 125 | AyeKay |
 | 147 | 124 | Allen Lloyd |
 | 148 | 124 | Empress Oasis |
@@ -176,8 +176,8 @@
 | 168 | 111 | Michelle Morris |
 | 169 | 111 | Lazy Blocker |
 | 170 | 110 | H.R. Block |
-| 171 | 108 | Ali Ian |
-| 172 | 108 | Sam Middleton |
+| 171 | 108 | Sam Middleton |
+| 172 | 108 | Ali Ian |
 | 173 | 107 | Marcus Todd |
 | 174 | 107 | Rafael Valentin |
 | 175 | 106 | Avy Absol |
