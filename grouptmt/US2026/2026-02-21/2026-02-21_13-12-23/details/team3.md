@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 835 | Delilah belle |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -141,8 +141,8 @@
 | 133 | 189 | Staci George Fitzsimmons |
 | 134 | 189 | Fallorina Susana |
 | 135 | 184 | Jennie Beranek |
-| 136 | 182 | Hyper Matchzone |
-| 137 | 182 | Ashley Tookes |
+| 136 | 182 | Ashley Tookes |
+| 137 | 182 | Hyper Matchzone |
 | 138 | 179 | Joye Sims Binion |
 | 139 | 179 | Daira Largen |
 | 140 | 178 | AlsoJess |
@@ -157,8 +157,8 @@
 | 149 | 165 | Kali Kelz Williams |
 | 150 | 164 | rosy |
 | 151 | 164 | DanceLuvLaugh |
-| 152 | 163 | Duane Bright |
-| 153 | 163 | Karon Griffin |
+| 152 | 163 | Karon Griffin |
+| 153 | 163 | Duane Bright |
 | 154 | 163 | Stephanie Hill |
 | 155 | 161 | Jessica Bechler |
 | 156 | 160 | Mcathen |

@@ -83,8 +83,8 @@
 | 75 | 179 | Epic Curvetile |
 | 76 | 178 | Lori |
 | 77 | 175 | Dustee Craddock-Harrison |
-| 78 | 173 | Zethra Prenisha Rahming |
-| 79 | 173 | Jeff Brian Gates |
+| 78 | 173 | Jeff Brian Gates |
+| 79 | 173 | Zethra Prenisha Rahming |
 | 80 | 171 | Melvin Baird |
 | 81 | 170 | Girl |
 | 82 | 170 | Justin Hannigan |
@@ -137,8 +137,8 @@
 | 129 | 120 | Joshua Guess |
 | 130 | 119 | Kristin Manee |
 | 131 | 118 | Leslie Nicole |
-| 132 | 116 | Diana Houts |
-| 133 | 116 | Stephme310 |
+| 132 | 116 | Stephme310 |
+| 133 | 116 | Diana Houts |
 | 134 | 115 | Jayk |
 | 135 | 115 | Ultramarine |
 | 136 | 113 | Adam Randall |
@@ -366,7 +366,7 @@
 | 358 | 49 | Snappy Combofall |
 | 359 | 49 | Rae Henderson |
 | 360 | 49 | Lakesha Johnson |
-| 361 | 48 | Manuel Groleau |
+| 361 | 48 | Mbeth Moore |
 | 362 | 48 | Metsfan |
 | 363 | 48 | Groovy Brickmatch |
 | 364 | 48 | Csquared812 |

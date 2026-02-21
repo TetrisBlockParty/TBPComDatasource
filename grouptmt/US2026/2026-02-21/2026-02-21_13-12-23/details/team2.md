@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -125,8 +125,8 @@
 | 117 | 631 | Loopy Clusterbuilder |
 | 118 | 620 | BYM4L |
 | 119 | 619 | Jamie Otero |
-| 120 | 608 | John Bednarik |
-| 121 | 608 | Sommer Shope |
+| 120 | 608 | Sommer Shope |
+| 121 | 608 | John Bednarik |
 | 122 | 602 | L3sli3 |
 | 123 | 601 | Nancy Reid |
 | 124 | 597 | Andea Beck |
@@ -373,8 +373,8 @@
 | 365 | 254 | Rose Fx |
 | 366 | 254 | Elizabeth Diraffaele |
 | 367 | 253 | Tansaria Couch-Butler |
-| 368 | 252 | Matt Johnson |
-| 369 | 252 | Alyssia Tancredi |
+| 368 | 252 | Alyssia Tancredi |
+| 369 | 252 | Matt Johnson |
 | 370 | 251 | Ann Knutson Anderson |
 | 371 | 250 | Steve Man |
 | 372 | 249 | Nicky Jackson |
@@ -395,8 +395,8 @@
 | 387 | 243 | Britt Stunkel |
 | 388 | 242 | Donna Chandler |
 | 389 | 241 | Sabrina Burton |
-| 390 | 240 | Angie Marie |
-| 391 | 240 | Adam Erikson |
+| 390 | 240 | Adam Erikson |
+| 391 | 240 | Angie Marie |
 | 392 | 239 | Angelina Marie |
 | 393 | 236 | Frisky Riserbuilder |
 | 394 | 236 | snkylnk |
@@ -418,8 +418,8 @@
 | 410 | 229 | Kimmy Newman |
 | 411 | 228 | Michelle Sager |
 | 412 | 227 | JacJac |
-| 413 | 226 | Mary Marie |
-| 414 | 226 | Juliana Marques Do Nascimento Gordy |
+| 413 | 226 | Juliana Marques Do Nascimento Gordy |
+| 414 | 226 | Mary Marie |
 | 415 | 226 | Leslie Ann Carter |
 | 416 | 224 | Justin Hines |
 | 417 | 223 | Jess Morrison |
@@ -575,11 +575,11 @@
 | 567 | 157 | Leslie |
 | 568 | 156 | Nuggets |
 | 569 | 156 | Deanna Morton |
-| 570 | 156 | Nuggets |
+| 570 | 156 | Poppy Gridder |
 | 571 | 156 | Renee Bowers |
 | 572 | 156 | RetroLemur |
-| 573 | 155 | Chelle |
-| 574 | 155 | Monarca26 |
+| 573 | 155 | Monarca26 |
+| 574 | 155 | Chelle |
 | 575 | 155 | Cris cris |
 | 576 | 155 | Angela Murgia-Owen |
 | 577 | 155 | Jacob Huffman |
