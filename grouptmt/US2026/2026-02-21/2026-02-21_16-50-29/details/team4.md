@@ -96,15 +96,15 @@
 | 88 | 198 | Mike Solo |
 | 89 | 194 | Zany Twisterfit |
 | 90 | 194 | Calvin Cannon |
-| 91 | 191 | Melvin Baird |
-| 92 | 191 | loulou |
+| 91 | 191 | loulou |
+| 92 | 191 | Melvin Baird |
 | 93 | 189 | Calvin Dennis |
 | 94 | 187 | Swanky Fitline |
 | 95 | 186 | Jeff Brian Gates |
 | 96 | 185 | Andy Cabral |
 | 97 | 181 | Carter Jones |
-| 98 | 180 | Leslie Nicole |
-| 99 | 180 | Leah Kutz Zirbel |
+| 98 | 180 | Leah Kutz Zirbel |
+| 99 | 180 | Leslie Nicole |
 | 100 | 179 | Epic Curvetile |
 | 101 | 178 | Lori |
 | 102 | 177 | Andria Lynn |

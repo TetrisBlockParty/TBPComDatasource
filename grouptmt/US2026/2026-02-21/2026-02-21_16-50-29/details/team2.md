@@ -135,8 +135,8 @@
 | 127 | 700 | Rosemadder |
 | 128 | 698 | Lola Contreras |
 | 129 | 697 | Real Ri |
-| 130 | 694 | Nancy Reid |
-| 131 | 694 | Vo'Landa Reels |
+| 130 | 694 | Vo'Landa Reels |
+| 131 | 694 | Nancy Reid |
 | 132 | 688 | Dreamy Blast |
 | 133 | 679 | Gold Rose |
 | 134 | 674 | Dannette Goldberg-Richards |
@@ -435,8 +435,8 @@
 | 427 | 256 | Quirky Twistline |
 | 428 | 256 | Alishac Marie |
 | 429 | 254 | Julie Hamilton |
-| 430 | 254 | Rose Fx |
-| 431 | 254 | Elizabeth Diraffaele |
+| 430 | 254 | Elizabeth Diraffaele |
+| 431 | 254 | Rose Fx |
 | 432 | 254 | Ann Knutson Anderson |
 | 433 | 253 | Kimmy Newman |
 | 434 | 253 | Tansaria Couch-Butler |
@@ -445,8 +445,8 @@
 | 437 | 252 | Alyssia Tancredi |
 | 438 | 250 | Danielle DeLozier Plesec |
 | 439 | 250 | Steve Man |
-| 440 | 249 | Nicky Jackson |
-| 441 | 249 | Porsche' Nicole |
+| 440 | 249 | Porsche' Nicole |
+| 441 | 249 | Nicky Jackson |
 | 442 | 249 | Niceday |
 | 443 | 248 | Bubbly Snapfit |
 | 444 | 248 | Kimberly Mitchell |
@@ -462,8 +462,8 @@
 | 454 | 246 | Stephanie Lumanlan |
 | 455 | 246 | Pocho Zavala |
 | 456 | 245 | Rachael Senard |
-| 457 | 245 | Sanaa Nounoussa |
-| 458 | 245 | Lewis Sturgeon |
+| 457 | 245 | Lewis Sturgeon |
+| 458 | 245 | Sanaa Nounoussa |
 | 459 | 244 | Belle |
 | 460 | 244 | Nakiiya Dreamcatcher Gore |
 | 461 | 243 | JacJac |
@@ -484,8 +484,8 @@
 | 476 | 233 | Jumpy Gridclear |
 | 477 | 232 | Amber Brion |
 | 478 | 231 | Hong Tang |
-| 479 | 231 | Dylan Thomason |
-| 480 | 231 | Brave Gridpiece |
+| 479 | 231 | Brave Gridpiece |
+| 480 | 231 | Dylan Thomason |
 | 481 | 231 | Peppy Snapfall |
 | 482 | 230 | Leslie Johnson Guinto |
 | 483 | 229 | Deidre Jenkins |

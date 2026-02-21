@@ -198,8 +198,8 @@
 | 190 | 160 | Adrian Marcel Pate |
 | 191 | 159 | Jone |
 | 192 | 158 | Grams |
-| 193 | 157 | Nicholas Roddy |
-| 194 | 157 | Patricia Gadsden |
+| 193 | 157 | Patricia Gadsden |
+| 194 | 157 | Nicholas Roddy |
 | 195 | 156 | Bea Miles |
 | 196 | 152 | Shiny Zonebuilder |
 | 197 | 152 | Cozy Snaplink |
@@ -516,8 +516,8 @@
 | 508 | 63 | Jason |
 | 509 | 63 | Mana |
 | 510 | 63 | Michael Johnson |
-| 511 | 62 | Scidone Perez |
-| 512 | 62 | Keayn Smith |
+| 511 | 62 | Keayn Smith |
+| 512 | 62 | Scidone Perez |
 | 513 | 62 | Nikkie Bucciano |
 | 514 | 62 | Breanna Marsden |
 | 515 | 62 | Justplain Killacam Phillips |
