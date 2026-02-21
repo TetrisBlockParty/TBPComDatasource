@@ -295,8 +295,8 @@
 | 287 | 262 | Taren Cowan |
 | 288 | 261 | Leah |
 | 289 | 261 | MrsClaudette Will'sIam Matthews |
-| 290 | 260 | Ebony Deloach Bryant |
-| 291 | 260 | Denise Rickman |
+| 290 | 260 | Denise Rickman |
+| 291 | 260 | Ebony Deloach Bryant |
 | 292 | 257 | Shameika Trail |
 | 293 | 257 | Lyndi Robinson Wakefield |
 | 294 | 256 | Giddy Gridclear |
@@ -356,13 +356,13 @@
 | 348 | 229 | Kimmy Newman |
 | 349 | 228 | Michelle Sager |
 | 350 | 227 | Nutty Matchline |
-| 351 | 227 | Sanaa Nounoussa |
-| 352 | 227 | Demeka Dangerous-kisses Johnson |
-| 353 | 226 | Leslie Ann Carter |
-| 354 | 226 | Mary Marie |
-| 355 | 223 | LegoCarpet |
-| 356 | 223 | Laura Wyatt |
-| 357 | 223 | Kristi Biddinger |
+| 351 | 227 | Demeka Dangerous-kisses Johnson |
+| 352 | 227 | Sanaa Nounoussa |
+| 353 | 226 | Mary Marie |
+| 354 | 226 | Leslie Ann Carter |
+| 355 | 223 | Kristi Biddinger |
+| 356 | 223 | LegoCarpet |
+| 357 | 223 | Laura Wyatt |
 | 358 | 220 | Katrina Weston |
 | 359 | 219 | Ashle Scranton |
 | 360 | 217 | Angelina Marie |
@@ -454,8 +454,8 @@
 | 446 | 175 | Tina Blessed Cage |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
-| 449 | 173 | kippykay |
-| 450 | 173 | Robin |
+| 449 | 173 | Robin |
+| 450 | 173 | kippykay |
 | 451 | 172 | HarleyJane |
 | 452 | 171 | Cappin You |
 | 453 | 170 | Darlene Bowman |
@@ -527,8 +527,8 @@
 | 519 | 150 | Greenshades00 |
 | 520 | 149 | Brianna Cerney |
 | 521 | 149 | Melissa Rebbe-Lehman |
-| 522 | 149 | Boldy Cascadepiece |
-| 523 | 149 | Leslie Porter |
+| 522 | 149 | Leslie Porter |
+| 523 | 149 | Boldy Cascadepiece |
 | 524 | 148 | AgileDragon |
 | 525 | 147 | F-X |
 | 526 | 147 | Jeremy Parodi |

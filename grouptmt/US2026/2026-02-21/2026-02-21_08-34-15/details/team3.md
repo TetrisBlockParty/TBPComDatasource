@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -103,8 +103,8 @@
 | 95 | 239 | Lush Buildout |
 | 96 | 234 | Louise Stacy Sisson |
 | 97 | 232 | Poppy Splitter |
-| 98 | 224 | Mykal Burton |
-| 99 | 224 | Judi Dobson |
+| 98 | 224 | Judi Dobson |
+| 99 | 224 | Mykal Burton |
 | 100 | 223 | Jeana Gilbert |
 | 101 | 222 | Jimmie Clemons |
 | 102 | 218 | mjl574 |
@@ -120,8 +120,8 @@
 | 112 | 202 | Shannon Matthew Byers |
 | 113 | 200 | Twisty Brick LT |
 | 114 | 199 | joclisa |
-| 115 | 195 | Jenny Hrndz |
-| 116 | 195 | Nicha Hooker |
+| 115 | 195 | Nicha Hooker |
+| 116 | 195 | Jenny Hrndz |
 | 117 | 194 | glichmod |
 | 118 | 193 | Clever Shiftsnap |
 | 119 | 192 | Chasity |
@@ -140,9 +140,9 @@
 | 132 | 164 | rosy |
 | 133 | 163 | Karon Griffin |
 | 134 | 161 | Giddy Twistbuilder |
-| 135 | 159 | Jone |
-| 136 | 159 | Mcathen |
-| 137 | 159 | Morgan Martinez |
+| 135 | 159 | Morgan Martinez |
+| 136 | 159 | Jone |
+| 137 | 159 | Mcathen |
 | 138 | 158 | Grams |
 | 139 | 157 | Patricia Gadsden |
 | 140 | 156 | Joey Banks |
