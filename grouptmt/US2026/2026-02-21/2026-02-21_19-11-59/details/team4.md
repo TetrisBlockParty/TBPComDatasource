@@ -96,8 +96,8 @@
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
 | 90 | 204 | Brittney Orengo |
-| 91 | 202 | shar |
-| 92 | 202 | Monica Daley |
+| 91 | 202 | Monica Daley |
+| 92 | 202 | shar |
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Denise Carlson |
 | 95 | 198 | Mike Solo |
@@ -207,15 +207,15 @@
 | 199 | 111 | Kristin MacDonald |
 | 200 | 109 | Chaz |
 | 201 | 108 | Ali Ian |
-| 202 | 108 | Shane Kalamata Platoon |
-| 203 | 108 | Crystal Nicolette Moore |
+| 202 | 108 | Crystal Nicolette Moore |
+| 203 | 108 | Shane Kalamata Platoon |
 | 204 | 107 | Rafael Valentin |
 | 205 | 106 | Zappy Snaplink |
 | 206 | 106 | Avy Absol |
 | 207 | 104 | Chris Alexinas |
-| 208 | 103 | Lauren Lamb |
-| 209 | 103 | Chris Bernstein |
-| 210 | 103 | Richard-April Kice |
+| 208 | 103 | Richard-April Kice |
+| 209 | 103 | Lauren Lamb |
+| 210 | 103 | Chris Bernstein |
 | 211 | 103 | Kate |
 | 212 | 102 | Autumn Kumzi |
 | 213 | 102 | Jumpy Zonepiece |

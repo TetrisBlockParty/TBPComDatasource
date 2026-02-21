@@ -242,8 +242,8 @@
 | 234 | 483 | Osun Anuket Esu |
 | 235 | 482 | Eckoman518 |
 | 236 | 475 | Khalil Lowe |
-| 237 | 474 | Ashley Collins |
-| 238 | 474 | Auntie B |
+| 237 | 474 | Auntie B |
+| 238 | 474 | Ashley Collins |
 | 239 | 474 | Calandra Shaya Robinson |
 | 240 | 470 | Jerry Tempelmeyer |
 | 241 | 469 | Ashley Rose Frederick |
@@ -460,8 +460,8 @@
 | 452 | 280 | Danielle DeLozier Plesec |
 | 453 | 280 | Lonne Emade |
 | 454 | 279 | Glitzy Stackzone |
-| 455 | 278 | Demeka Dangerous-kisses Johnson |
-| 456 | 278 | Ray Ray Prado |
+| 455 | 278 | Ray Ray Prado |
+| 456 | 278 | Demeka Dangerous-kisses Johnson |
 | 457 | 277 | Anthony Mignacca |
 | 458 | 276 | Vonceial Boone |
 | 459 | 276 | Lindsey Leigh |

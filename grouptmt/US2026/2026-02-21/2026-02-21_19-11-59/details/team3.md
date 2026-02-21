@@ -140,8 +140,8 @@
 | 132 | 259 | Louise Stacy Sisson |
 | 133 | 258 | Tamara Deherrera |
 | 134 | 256 | ren |
-| 135 | 252 | Mcathen |
-| 136 | 252 | Nicole Flippo |
+| 135 | 252 | Nicole Flippo |
+| 136 | 252 | Mcathen |
 | 137 | 249 | Denise Nardoni |
 | 138 | 246 | Sashay Tapae Simpson |
 | 139 | 237 | Brandon Givens |
@@ -216,8 +216,8 @@
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | Irene Arreguin |
 | 210 | 161 | BŘŰŤİÇŨŚ |
-| 211 | 160 | Tiffany Davie |
-| 212 | 160 | Marquita Sheard |
+| 211 | 160 | Marquita Sheard |
+| 212 | 160 | Tiffany Davie |
 | 213 | 159 | Jone |
 | 214 | 157 | Patricia Gadsden |
 | 215 | 156 | Bea Miles |
@@ -284,8 +284,8 @@
 | 276 | 122 | Beppy |
 | 277 | 121 | Noettín Kan Zasnemoore |
 | 278 | 121 | Fredd Thomas |
-| 279 | 119 | Daring Builder |
-| 280 | 119 | Santeria Trece Candles |
+| 279 | 119 | Santeria Trece Candles |
+| 280 | 119 | Daring Builder |
 | 281 | 119 | BugMansMom |
 | 282 | 118 | Fancy Curver |
 | 283 | 118 | Sabrina Hardrick |
@@ -562,7 +562,7 @@
 | 554 | 65 | Johnathan Dowe |
 | 555 | 65 | Moneyvybz |
 | 556 | 65 | Megan Rathmanner |
-| 557 | 64 | Hasty Pop |
+| 557 | 64 | Happy Buildsnap |
 | 558 | 64 | Danny Matthews |
 | 559 | 64 | Hasty Pop |
 | 560 | 64 | James Mitchell |
