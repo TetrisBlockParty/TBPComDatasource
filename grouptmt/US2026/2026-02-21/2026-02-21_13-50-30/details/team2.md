@@ -340,15 +340,15 @@
 | 332 | 278 | Noel Tarmy |
 | 333 | 278 | Deana |
 | 334 | 278 | Peachy Blockbuilder |
-| 335 | 276 | Andrea Maher |
-| 336 | 276 | Lindsey Leigh |
+| 335 | 276 | Lindsey Leigh |
+| 336 | 276 | Andrea Maher |
 | 337 | 276 | Vonceial Boone |
 | 338 | 275 | Cheeky Brickmatch |
 | 339 | 275 | Ann Matzkanin |
 | 340 | 275 | Shiny Rollzone |
-| 341 | 274 | Melissa Holsinger |
-| 342 | 274 | Jamie Stevey |
-| 343 | 274 | August Hale |
+| 341 | 274 | Jamie Stevey |
+| 342 | 274 | August Hale |
+| 343 | 274 | Melissa Holsinger |
 | 344 | 274 | Lonne Emade |
 | 345 | 273 | Jenna Nance |
 | 346 | 273 | Ray Ray Prado |
@@ -360,13 +360,13 @@
 | 352 | 269 | Reece Smith |
 | 353 | 268 | Chummy Blockbuilder |
 | 354 | 267 | Britt Stunkel |
-| 355 | 266 | Mighty Shatterfit |
-| 356 | 266 | Mike Aprilliano |
+| 355 | 266 | Mike Aprilliano |
+| 356 | 266 | Mighty Shatterfit |
 | 357 | 264 | Dapper Dasher |
 | 358 | 264 | Giddy Gridclear |
 | 359 | 263 | Taylor Flowers |
-| 360 | 262 | Min |
-| 361 | 262 | Taren Cowan |
+| 360 | 262 | Taren Cowan |
+| 361 | 262 | Min |
 | 362 | 261 | MrsClaudette Will'sIam Matthews |
 | 363 | 260 | Ebony Deloach Bryant |
 | 364 | 260 | Denise Rickman |
@@ -380,10 +380,10 @@
 | 372 | 256 | CC |
 | 373 | 254 | Rose Fx |
 | 374 | 254 | Elizabeth Diraffaele |
-| 375 | 254 | Rose Fx |
+| 375 | 254 | Julie Hamilton |
 | 376 | 253 | Tansaria Couch-Butler |
-| 377 | 252 | Alyssia Tancredi |
-| 378 | 252 | Matt Johnson |
+| 377 | 252 | Matt Johnson |
+| 378 | 252 | Alyssia Tancredi |
 | 379 | 251 | Ann Knutson Anderson |
 | 380 | 250 | Steve Man |
 | 381 | 250 | Anthony Mignacca |

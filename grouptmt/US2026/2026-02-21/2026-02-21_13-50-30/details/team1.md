@@ -79,8 +79,8 @@
 | 71 | 202 | Dee Perry |
 | 72 | 201 | Ananda Mendez |
 | 73 | 201 | Anaid Sanchez |
-| 74 | 198 | Happy Snapbuild |
-| 75 | 198 | Billie Dawn Sparks |
+| 74 | 198 | Billie Dawn Sparks |
+| 75 | 198 | Happy Snapbuild |
 | 76 | 197 | Cynthia Bradley |
 | 77 | 194 | Giggly Builderline |
 | 78 | 193 | Lachelle Dillon |
@@ -113,11 +113,11 @@
 | 105 | 149 | Arianna O'Brien |
 | 106 | 148 | Shauntina Burke |
 | 107 | 147 | Veronica Eve |
-| 108 | 146 | Tanya Carpenter-Reynolds |
-| 109 | 146 | Irual Hctrab |
+| 108 | 146 | Irual Hctrab |
+| 109 | 146 | Tanya Carpenter-Reynolds |
 | 110 | 145 | BigWeenie69 |
-| 111 | 144 | Plucky Ziggy |
-| 112 | 144 | femmefatale |
+| 111 | 144 | femmefatale |
+| 112 | 144 | Plucky Ziggy |
 | 113 | 143 | Sarah Marie |
 | 114 | 142 | Colleen Wise |
 | 115 | 141 | Blaire Bruckoff |

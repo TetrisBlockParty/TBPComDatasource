@@ -91,8 +91,8 @@
 | 83 | 173 | Zethra Prenisha Rahming |
 | 84 | 173 | Jeff Brian Gates |
 | 85 | 171 | Melvin Baird |
-| 86 | 170 | Girl |
-| 87 | 170 | Justin Hannigan |
+| 86 | 170 | Justin Hannigan |
+| 87 | 170 | Girl |
 | 88 | 167 | Denise Carlson |
 | 89 | 165 | Casey Grabner |
 | 90 | 164 | ThaEviLJeNiuZ |
@@ -243,8 +243,8 @@
 | 235 | 76 | Rebecca Blake |
 | 236 | 76 | Madison Sweere |
 | 237 | 75 | Moonsterix |
-| 238 | 75 | Christina Black |
-| 239 | 75 | Rosemary Foster |
+| 238 | 75 | Rosemary Foster |
+| 239 | 75 | Christina Black |
 | 240 | 74 | Tyler Terrific |
 | 241 | 73 | Cristy Duerksen |
 | 242 | 73 | Staci Robinson Jones |

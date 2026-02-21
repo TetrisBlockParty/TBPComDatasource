@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Delilah belle |
-| 28 | 867 | Briarblack |
+| 27 | 867 | Briarblack |
+| 28 | 867 | Delilah belle |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Zippy Strikesnap |
@@ -95,8 +95,8 @@
 | 87 | 317 | Lush Buildout |
 | 88 | 316 | Fancy Cascader |
 | 89 | 313 | Elaine Webb Graves |
-| 90 | 309 | Rich LeBlanc |
-| 91 | 309 | CeceGeGe |
+| 90 | 309 | CeceGeGe |
+| 91 | 309 | Rich LeBlanc |
 | 92 | 307 | Peggi Charon |
 | 93 | 307 | Blocked |
 | 94 | 300 | Sherika C. McDaniels |
@@ -118,8 +118,8 @@
 | 110 | 224 | Judi Dobson |
 | 111 | 224 | Mykal Burton |
 | 112 | 223 | Jeana Gilbert |
-| 113 | 222 | Jimmie Clemons |
-| 114 | 222 | Nicole Flippo |
+| 113 | 222 | Nicole Flippo |
+| 114 | 222 | Jimmie Clemons |
 | 115 | 218 | mjl574 |
 | 116 | 214 | Amy Fuller Heaton |
 | 117 | 213 | Tom Nault |
@@ -285,8 +285,8 @@
 | 277 | 94 | Tracey Cox |
 | 278 | 94 | Angie Harper |
 | 279 | 93 | Tiffany Ford |
-| 280 | 92 | Jennifer Caputo |
-| 281 | 92 | Ava Petito |
+| 280 | 92 | Ava Petito |
+| 281 | 92 | Jennifer Caputo |
 | 282 | 92 | Trice Thomas |
 | 283 | 92 | Melanie Sherwood |
 | 284 | 92 | Jackie-Lynne Goertzen |
