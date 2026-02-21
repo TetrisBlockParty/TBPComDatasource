@@ -72,8 +72,8 @@
 | 64 | 1013 | Sarah Freitas |
 | 65 | 983 | Samantha Roberts |
 | 66 | 975 | Alisha Peoples |
-| 67 | 973 | Kim Dean |
-| 68 | 973 | Zappy Cascade |
+| 67 | 973 | Zappy Cascade |
+| 68 | 973 | Kim Dean |
 | 69 | 962 | Janel Turley-Garner |
 | 70 | 946 | Carrie Trigg |
 | 71 | 929 | Tonya Morgan |
@@ -264,8 +264,8 @@
 | 256 | 356 | Deyawn Smith |
 | 257 | 355 | Shandrica Lowe |
 | 258 | 355 | Kristen O'Neal |
-| 259 | 354 | Brave Dropmatch |
-| 260 | 354 | Tracy Wise |
+| 259 | 354 | Tracy Wise |
+| 260 | 354 | Brave Dropmatch |
 | 261 | 353 | Cheery Matchzone |
 | 262 | 352 | ruth |
 | 263 | 350 | Chris Harr |
@@ -578,8 +578,8 @@
 | 570 | 167 | Sabrena Yeisley |
 | 571 | 167 | mshir |
 | 572 | 167 | Greenshades00 |
-| 573 | 166 | Morgan Easter |
-| 574 | 166 | Rhonda Petro |
+| 573 | 166 | Rhonda Petro |
+| 574 | 166 | Morgan Easter |
 | 575 | 166 | Lakeela Wise |
 | 576 | 166 | suuny |
 | 577 | 165 | Catherine Varea |

@@ -179,8 +179,8 @@
 | 171 | 159 | Jone |
 | 172 | 159 | Morgan Martinez |
 | 173 | 158 | Grams |
-| 174 | 157 | Patricia Gadsden |
-| 175 | 157 | Nicholas Roddy |
+| 174 | 157 | Nicholas Roddy |
+| 175 | 157 | Patricia Gadsden |
 | 176 | 156 | Joey Banks |
 | 177 | 154 | Angela M. Fletcher |
 | 178 | 153 | Beth Ingham |
@@ -270,8 +270,8 @@
 | 262 | 104 | Peachy Rollfit |
 | 263 | 104 | Sarah Moyer |
 | 264 | 103 | Kate Farok |
-| 265 | 103 | BabyTonj Evans |
-| 266 | 103 | Wetwet |
+| 265 | 103 | Wetwet |
+| 266 | 103 | BabyTonj Evans |
 | 267 | 102 | Christian Luna |
 | 268 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 269 | 101 | Hyper Bridger |
@@ -398,7 +398,7 @@
 | 390 | 73 | Spicy Caster |
 | 391 | 72 | Christopher Mastropietro |
 | 392 | 72 | Gimmegimmebeer |
-| 393 | 72 | Christopher Mastropietro |
+| 393 | 72 | Barbara Bennett |
 | 394 | 72 | Mel Murr |
 | 395 | 72 | Jodi Kaczynski-O'Dowd |
 | 396 | 72 | Alexsandran Valdivia |
