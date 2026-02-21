@@ -104,8 +104,8 @@
 | 96 | 187 | Swanky Fitline |
 | 97 | 185 | Andy Cabral |
 | 98 | 181 | Carter Jones |
-| 99 | 180 | Leah Kutz Zirbel |
-| 100 | 180 | Leslie Nicole |
+| 99 | 180 | Leslie Nicole |
+| 100 | 180 | Leah Kutz Zirbel |
 | 101 | 179 | Epic Curvetile |
 | 102 | 178 | Lori |
 | 103 | 177 | Andria Lynn |
@@ -132,12 +132,12 @@
 | 124 | 147 | 030Synner |
 | 125 | 147 | Jay28 |
 | 126 | 146 | Klo |
-| 127 | 144 | Mr. Party |
-| 128 | 144 | Shainne Brewer |
+| 127 | 144 | Shainne Brewer |
+| 128 | 144 | Mr. Party |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Serena Goodridge |
 | 135 | 136 | Tanner Lund |
@@ -170,8 +170,8 @@
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Ultramarine |
 | 164 | 115 | Jayk |
-| 165 | 114 | 🥔🥔 Spudz |
-| 166 | 114 | Jackie Marie |
+| 165 | 114 | Jackie Marie |
+| 166 | 114 | 🥔🥔 Spudz |
 | 167 | 113 | Adam Randall |
 | 168 | 112 | Jeremy Steines |
 | 169 | 112 | Bryan Hodgins |
@@ -182,8 +182,8 @@
 | 174 | 110 | H.R. Block |
 | 175 | 108 | Ali Ian |
 | 176 | 108 | Sam Middleton |
-| 177 | 107 | Marcus Todd |
-| 178 | 107 | Rafael Valentin |
+| 177 | 107 | Rafael Valentin |
+| 178 | 107 | Marcus Todd |
 | 179 | 106 | Avy Absol |
 | 180 | 105 | TheNeesh50 |
 | 181 | 105 | Kristin MacDonald |

@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -112,8 +112,8 @@
 | 104 | 318 | Chasity |
 | 105 | 317 | joclisa |
 | 106 | 316 | Fancy Cascader |
-| 107 | 309 | CeceGeGe |
-| 108 | 309 | Rich LeBlanc |
+| 107 | 309 | Rich LeBlanc |
+| 108 | 309 | CeceGeGe |
 | 109 | 307 | Blocked |
 | 110 | 307 | Peggi Charon |
 | 111 | 300 | Tessina Dewey-Mancino |
@@ -127,8 +127,8 @@
 | 119 | 263 | Angeline Joseph |
 | 120 | 262 | Joe-Maggie Mathews |
 | 121 | 259 | Louise Stacy Sisson |
-| 122 | 256 | ren |
-| 123 | 256 | Adrian Marcel Pate |
+| 122 | 256 | Adrian Marcel Pate |
+| 123 | 256 | ren |
 | 124 | 256 | Jennie Beranek |
 | 125 | 252 | Nicole Flippo |
 | 126 | 252 | Mcathen |
@@ -167,19 +167,19 @@
 | 159 | 191 | Scott Carleton |
 | 160 | 191 | Giddy Twistbuilder |
 | 161 | 189 | Fallorina Susana |
-| 162 | 189 | Staci George Fitzsimmons |
-| 163 | 189 | Sissy Lowery Davis |
+| 162 | 189 | Sissy Lowery Davis |
+| 163 | 189 | Staci George Fitzsimmons |
 | 164 | 188 | Angie Harper |
 | 165 | 186 | Rebel124 |
 | 166 | 182 | Hyper Matchzone |
 | 167 | 181 | Karon Griffin |
 | 168 | 181 | Aerian Preston |
 | 169 | 179 | Joye Sims Binion |
-| 170 | 179 | Ashley Jones |
-| 171 | 179 | Daira Largen |
-| 172 | 178 | Khaleada McGill Banks |
-| 173 | 178 | Ryan Williams |
-| 174 | 178 | AlsoJess |
+| 170 | 179 | Daira Largen |
+| 171 | 179 | Ashley Jones |
+| 172 | 178 | AlsoJess |
+| 173 | 178 | Khaleada McGill Banks |
+| 174 | 178 | Ryan Williams |
 | 175 | 175 | DanceLuvLaugh |
 | 176 | 174 | rosy |
 | 177 | 174 | Danielle Mogg |
@@ -228,8 +228,8 @@
 | 220 | 145 | Bryan Byrd |
 | 221 | 145 | Emma |
 | 222 | 142 | Jl |
-| 223 | 142 | Erica Anderson |
-| 224 | 142 | David Bardo |
+| 223 | 142 | David Bardo |
+| 224 | 142 | Erica Anderson |
 | 225 | 138 | Boldy Corner |
 | 226 | 137 | Joy Petroski |
 | 227 | 137 | Cheryl Hinch Tenbrook |
@@ -260,8 +260,8 @@
 | 252 | 119 | France Vézina |
 | 253 | 119 | BugMansMom |
 | 254 | 118 | Sabrina Hardrick |
-| 255 | 118 | Damian Reid |
-| 256 | 118 | Fancy Curver |
+| 255 | 118 | Fancy Curver |
+| 256 | 118 | Damian Reid |
 | 257 | 116 | Denise Marie |
 | 258 | 115 | Stella |
 | 259 | 115 | Daring Builder |

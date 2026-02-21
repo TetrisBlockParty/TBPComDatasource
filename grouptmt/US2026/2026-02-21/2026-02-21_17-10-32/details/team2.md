@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | Stephanie Chapman |
-| 108 | 789 | James Simms III |
+| 107 | 789 | James Simms III |
+| 108 | 789 | Stephanie Chapman |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -175,8 +175,8 @@
 | 167 | 571 | Thomas Hedrick |
 | 168 | 569 | Vaniel Glover |
 | 169 | 569 | Gary Stash |
-| 170 | 563 | goofinoff |
-| 171 | 563 | Jumpy Gridpiece |
+| 170 | 563 | Jumpy Gridpiece |
+| 171 | 563 | goofinoff |
 | 172 | 561 | Maria Escobar |
 | 173 | 549 | Kaylee McCafferty |
 | 174 | 546 | Charvi' Carter |
@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Lylymom |
-| 210 | 485 | Leah Keesling |
+| 209 | 485 | Leah Keesling |
+| 210 | 485 | Lylymom |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -256,8 +256,8 @@
 | 248 | 409 | Sparkles |
 | 249 | 408 | Amanda Ferrell |
 | 250 | 406 | Erin StFrancis |
-| 251 | 405 | Sarah Massey |
-| 252 | 405 | Christy Krissie |
+| 251 | 405 | Christy Krissie |
+| 252 | 405 | Sarah Massey |
 | 253 | 403 | Crystie Hicks |
 | 254 | 402 | Joshua Mandel |
 | 255 | 400 | Tammy Allen |
@@ -415,14 +415,14 @@
 | 407 | 274 | Jamie Stevey |
 | 408 | 274 | August Hale |
 | 409 | 273 | Vanessa Moreno |
-| 410 | 273 | Giddy Gridclear |
-| 411 | 273 | Jenna Nance |
+| 410 | 273 | Jenna Nance |
+| 411 | 273 | Giddy Gridclear |
 | 412 | 272 | Mikayala Szaz |
 | 413 | 271 | Ann Marie Davis |
-| 414 | 271 | Loony Basepiece |
-| 415 | 271 | Toni Lynn |
-| 416 | 269 | Anthony Mignacca |
-| 417 | 269 | Reece Smith |
+| 414 | 271 | Toni Lynn |
+| 415 | 271 | Loony Basepiece |
+| 416 | 269 | Reece Smith |
+| 417 | 269 | Anthony Mignacca |
 | 418 | 268 | Dapper Dasher |
 | 419 | 267 | Britt Stunkel |
 | 420 | 265 | Sassy Linkbuilder |

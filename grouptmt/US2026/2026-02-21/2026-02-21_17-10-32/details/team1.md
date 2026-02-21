@@ -94,8 +94,8 @@
 | 86 | 202 | Giggly Builderline |
 | 87 | 201 | Anaid Sanchez |
 | 88 | 199 | TSwag |
-| 89 | 198 | Brandi Huntington |
-| 90 | 198 | Happy Snapbuild |
+| 89 | 198 | Happy Snapbuild |
+| 90 | 198 | Brandi Huntington |
 | 91 | 197 | Cynthia Bradley |
 | 92 | 193 | Lachelle Dillon |
 | 93 | 192 | Shaykmia |
@@ -112,8 +112,8 @@
 | 104 | 175 | Nicole Roseberry Weber |
 | 105 | 175 | Dandy Basegrid |
 | 106 | 173 | Frothy Pattern |
-| 107 | 171 | David DeSantis |
-| 108 | 171 | Greg Premoe |
+| 107 | 171 | Greg Premoe |
+| 108 | 171 | David DeSantis |
 | 109 | 169 | Abbey Crespo |
 | 110 | 166 | Tana |
 | 111 | 166 | Rico Rico |
@@ -149,8 +149,8 @@
 | 141 | 138 | Cranky Pattern |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Giddy Cascade |
-| 145 | 135 | Cody Slav |
+| 144 | 135 | Cody Slav |
+| 145 | 135 | Giddy Cascade |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Davery Spencer Adair |
