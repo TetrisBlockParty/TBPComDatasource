@@ -40,8 +40,8 @@
 | 32 | 613 | Amber Hughes |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
 | 39 | 546 | Snappy Glidepiece |
@@ -105,8 +105,8 @@
 | 97 | 234 | Louise Stacy Sisson |
 | 98 | 232 | Poppy Splitter |
 | 99 | 229 | Angeline Joseph |
-| 100 | 224 | Judi Dobson |
-| 101 | 224 | Mykal Burton |
+| 100 | 224 | Mykal Burton |
+| 101 | 224 | Judi Dobson |
 | 102 | 223 | Jeana Gilbert |
 | 103 | 222 | Jimmie Clemons |
 | 104 | 218 | mjl574 |
@@ -157,9 +157,9 @@
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
-| 152 | 149 | Trisha Balmer |
+| 152 | 149 | Angel Mendez |
 | 153 | 149 | Bea Miles |
-| 154 | 149 | Angel Mendez |
+| 154 | 149 | Trisha Balmer |
 | 155 | 147 | Sashay Tapae Simpson |
 | 156 | 146 | Denita Mungro |
 | 157 | 146 | Latoya Mayne |

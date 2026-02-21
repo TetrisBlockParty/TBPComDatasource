@@ -162,9 +162,9 @@
 | 154 | 94 | Tyler Hertzog |
 | 155 | 93 | Cody Gates |
 | 156 | 92 | Timothy Dew |
-| 157 | 90 | Madison Wicks |
-| 158 | 90 | TSwag |
-| 159 | 90 | Dizzy Party |
+| 157 | 90 | Dizzy Party |
+| 158 | 90 | Madison Wicks |
+| 159 | 90 | TSwag |
 | 160 | 89 | Mara Hilker |
 | 161 | 87 | Jenny Gingrich Fuentes |
 | 162 | 87 | Jessi Sauer |

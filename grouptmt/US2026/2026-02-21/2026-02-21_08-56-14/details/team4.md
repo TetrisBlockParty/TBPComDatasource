@@ -106,14 +106,14 @@
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
-| 101 | 130 | Casey Jeffcoat |
-| 102 | 130 | Lucas J Sutton |
+| 101 | 130 | Lucas J Sutton |
+| 102 | 130 | Casey Jeffcoat |
 | 103 | 129 | John Brunetti |
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
 | 106 | 123 | Bubbly Puzzler |
-| 107 | 123 | Nugget |
-| 108 | 123 | Cherrish Duren |
+| 107 | 123 | Cherrish Duren |
+| 108 | 123 | Nugget |
 | 109 | 122 | Sherri |
 | 110 | 121 | Klo |
 | 111 | 121 | Smiley Tiltbuilder |
@@ -225,8 +225,8 @@
 | 217 | 70 | Patron Anderson |
 | 218 | 69 | Carol Ricks Raymond |
 | 219 | 69 | Jessica Wells |
-| 220 | 68 | GBR |
-| 221 | 68 | LS |
+| 220 | 68 | LS |
+| 221 | 68 | GBR |
 | 222 | 68 | 中山成巳 |
 | 223 | 67 | Cozy Framezone |
 | 224 | 67 | Dennis Bradley |
