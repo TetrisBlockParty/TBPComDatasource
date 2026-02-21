@@ -52,8 +52,8 @@
 | 44 | 205 | Trippy Redd |
 | 45 | 204 | Ly Phethmany |
 | 46 | 202 | Dee Perry |
-| 47 | 201 | Ananda Mendez |
-| 48 | 201 | Anaid Sanchez |
+| 47 | 201 | Anaid Sanchez |
+| 48 | 201 | Ananda Mendez |
 | 49 | 200 | Lexuriuos Lifestlye |
 | 50 | 198 | Happy Snapbuild |
 | 51 | 198 | Billie Dawn Sparks |
@@ -61,8 +61,8 @@
 | 53 | 195 | Stef Hu |
 | 54 | 194 | Sharon Reynolds |
 | 55 | 192 | Mandyy Rae |
-| 56 | 191 | Jazzy Framezone |
-| 57 | 191 | Giggly Builderline |
+| 56 | 191 | Giggly Builderline |
+| 57 | 191 | Jazzy Framezone |
 | 58 | 190 | Sweetts |
 | 59 | 190 | Thorne Shumate |
 | 60 | 189 | Happy Basegrid |
@@ -193,8 +193,8 @@
 | 185 | 68 | Ariel Whittington |
 | 186 | 68 | NicaOrlice |
 | 187 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 188 | 67 | Mitchel White |
-| 189 | 67 | Jennifer Duttry |
+| 188 | 67 | Jennifer Duttry |
+| 189 | 67 | Mitchel White |
 | 190 | 66 | Angela Fairbank |
 | 191 | 66 | Dede |
 | 192 | 65 | OneCrazyGator |

@@ -188,8 +188,8 @@
 | 180 | 110 | Tiff Vs Tiffany |
 | 181 | 109 | Fredd Thomas |
 | 182 | 109 | Diana Ibarra |
-| 183 | 108 | LaTanya GeminiondaRise Johnson |
-| 184 | 108 | Rachel Napper |
+| 183 | 108 | Rachel Napper |
+| 184 | 108 | LaTanya GeminiondaRise Johnson |
 | 185 | 107 | Sherry Ogden |
 | 186 | 106 | Desiree Gold |
 | 187 | 106 | Eon Harris |

@@ -44,8 +44,8 @@
 | 36 | 274 | Elizabeth Sallas |
 | 37 | 270 | Livvy |
 | 38 | 265 | Julian Garcia |
-| 39 | 256 | Dustin Robert |
-| 40 | 256 | Brittney Griggs |
+| 39 | 256 | Brittney Griggs |
+| 40 | 256 | Dustin Robert |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
 | 43 | 231 | Jenna Ingersoll |
@@ -65,11 +65,11 @@
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Casey Grabner |
-| 61 | 165 | Courtney Cicoria |
+| 60 | 165 | Courtney Cicoria |
+| 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
-| 63 | 159 | Swanky Fitline |
-| 64 | 159 | Justin Hannigan |
+| 63 | 159 | Justin Hannigan |
+| 64 | 159 | Swanky Fitline |
 | 65 | 159 | Holly Jolly |
 | 66 | 154 | ThaEviLJeNiuZ |
 | 67 | 153 | Jae Job |
@@ -160,10 +160,10 @@
 | 152 | 85 | Tim Knight-ten |
 | 153 | 85 | Marcus TheeyoungWoe Gilmore |
 | 154 | 85 | Chirpy Slammer |
-| 155 | 83 | Abigail Murphy |
-| 156 | 83 | Joseph Gray |
-| 157 | 83 | Holly |
-| 158 | 83 | Avy Absol |
+| 155 | 83 | Joseph Gray |
+| 156 | 83 | Abigail Murphy |
+| 157 | 83 | Avy Absol |
+| 158 | 83 | Holly |
 | 159 | 82 | Kim Hunt |
 | 160 | 81 | Jumpy Zonepiece |
 | 161 | 81 | Chair |
