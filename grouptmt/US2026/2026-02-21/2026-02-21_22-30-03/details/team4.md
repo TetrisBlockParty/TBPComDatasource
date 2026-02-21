@@ -136,8 +136,8 @@
 | 128 | 185 | Peachy Fall |
 | 129 | 185 | Andy Cabral |
 | 130 | 184 | Justin Hannigan |
-| 131 | 181 | Carter Jones |
-| 132 | 181 | Andria Lynn |
+| 131 | 181 | Andria Lynn |
+| 132 | 181 | Carter Jones |
 | 133 | 180 | Leah Kutz Zirbel |
 | 134 | 178 | Lori |
 | 135 | 176 | Stacey Stano |

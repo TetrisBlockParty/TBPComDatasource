@@ -45,12 +45,12 @@
 | 37 | 526 | Kristen Roles Robben |
 | 38 | 521 | Hyp James NObettadanluvarat |
 | 39 | 519 | comrade fish |
-| 40 | 517 | Felicia Lewis |
-| 41 | 517 | Jen Sartain |
+| 40 | 517 | Jen Sartain |
+| 41 | 517 | Felicia Lewis |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -158,8 +158,8 @@
 | 150 | 166 | Katie Daniels |
 | 151 | 166 | Rico Rico |
 | 152 | 165 | Nadine Velardo |
-| 153 | 163 | Tyler Whitley |
-| 154 | 163 | Tanya Carpenter-Reynolds |
+| 153 | 163 | Tanya Carpenter-Reynolds |
+| 154 | 163 | Tyler Whitley |
 | 155 | 161 | Jessie Lynn |
 | 156 | 160 | Nery Martinez |
 | 157 | 159 | Cece Ibarra |

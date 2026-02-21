@@ -68,8 +68,8 @@
 | 60 | 603 | Elaine Webb Graves |
 | 61 | 591 | Suzieq |
 | 62 | 588 | yoyo |
-| 63 | 582 | Natasha Jones |
-| 64 | 582 | Katrina Schroeder |
+| 63 | 582 | Katrina Schroeder |
+| 64 | 582 | Natasha Jones |
 | 65 | 581 | Danielle Mogg |
 | 66 | 580 | Amanda L Baker |
 | 67 | 566 | Dan Rob |
@@ -93,8 +93,8 @@
 | 85 | 454 | Brandon Green |
 | 86 | 447 | Mykal Burton |
 | 87 | 446 | Danielle Rhoades |
-| 88 | 445 | Kristie McFarland |
-| 89 | 445 | Silly Twist |
+| 88 | 445 | Silly Twist |
+| 89 | 445 | Kristie McFarland |
 | 90 | 442 | Christine Niles |
 | 91 | 430 | Patricia White |
 | 92 | 425 | Patty Allen |
@@ -201,9 +201,9 @@
 | 193 | 200 | glichmod |
 | 194 | 197 | Staci George Fitzsimmons |
 | 195 | 195 | Nicha Hooker |
-| 196 | 193 | Stephanie Burtin |
-| 197 | 193 | Clever Shiftsnap |
-| 198 | 193 | Angie Harper |
+| 196 | 193 | Clever Shiftsnap |
+| 197 | 193 | Angie Harper |
+| 198 | 193 | Stephanie Burtin |
 | 199 | 192 | Kelly Ann Child |
 | 200 | 191 | Rebel124 |
 | 201 | 191 | Giddy Twistbuilder |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Raven Dudley |
-| 214 | 182 | Hyper Matchzone |
+| 213 | 182 | Hyper Matchzone |
+| 214 | 182 | Raven Dudley |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Daira Largen |
@@ -308,11 +308,11 @@
 | 300 | 130 | Melissa Orth Hunter |
 | 301 | 129 | Donna |
 | 302 | 129 | Juliana Dottore |
-| 303 | 128 | David Kozen |
-| 304 | 128 | MizzMonick Smith |
-| 305 | 127 | Jumpy Wrecker |
-| 306 | 127 | Edwin Calvillo Jr. |
-| 307 | 127 | mzcatzy |
+| 303 | 128 | MizzMonick Smith |
+| 304 | 128 | David Kozen |
+| 305 | 127 | Edwin Calvillo Jr. |
+| 306 | 127 | mzcatzy |
+| 307 | 127 | Jumpy Wrecker |
 | 308 | 127 | Brittany |
 | 309 | 126 | France Vézina |
 | 310 | 126 | Stella |

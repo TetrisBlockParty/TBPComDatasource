@@ -116,8 +116,8 @@
 | 108 | 1003 | Heather Westrum |
 | 109 | 995 | Samantha Roberts |
 | 110 | 986 | RAEPR05 |
-| 111 | 983 | Anna Edwards |
-| 112 | 983 | Adam Erikson |
+| 111 | 983 | Adam Erikson |
+| 112 | 983 | Anna Edwards |
 | 113 | 973 | Janel Turley-Garner |
 | 114 | 973 | Kim Dean |
 | 115 | 964 | Poppy Snapper |
