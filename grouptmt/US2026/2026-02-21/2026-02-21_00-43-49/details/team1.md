@@ -74,10 +74,10 @@
 | 66 | 95 | Jodee Woods |
 | 67 | 94 | Bindi |
 | 68 | 94 | Bhelle Sumile |
-| 69 | 93 | Ty Brown |
-| 70 | 93 | Adryane Schnase |
-| 71 | 91 | Spunky Piecebuilder |
-| 72 | 91 | Melissa Lemmon |
+| 69 | 93 | Adryane Schnase |
+| 70 | 93 | Ty Brown |
+| 71 | 91 | Melissa Lemmon |
+| 72 | 91 | Spunky Piecebuilder |
 | 73 | 90 | Madison Wicks |
 | 74 | 90 | comrade fish |
 | 75 | 87 | Jessi Sauer |
@@ -91,7 +91,7 @@
 | 83 | 81 | Bob |
 | 84 | 80 | Josie Kirt |
 | 85 | 80 | Matt Cinelli |
-| 86 | 80 | Josie Kirt |
+| 86 | 80 | pjbeta |
 | 87 | 79 | Chris65 |
 | 88 | 78 | Carrie Beck Geartz |
 | 89 | 75 | Tyler L Hunt |
