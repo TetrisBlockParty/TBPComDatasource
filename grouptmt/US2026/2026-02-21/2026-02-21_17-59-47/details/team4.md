@@ -91,8 +91,8 @@
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Holly Jolly |
-| 87 | 200 | Monica Daley |
+| 86 | 200 | Monica Daley |
+| 87 | 200 | Holly Jolly |
 | 88 | 198 | Mike Solo |
 | 89 | 198 | Dustee Craddock-Harrison |
 | 90 | 196 | Jeff Brian Gates |
@@ -106,21 +106,21 @@
 | 98 | 187 | Swanky Fitline |
 | 99 | 185 | Andy Cabral |
 | 100 | 181 | Carter Jones |
-| 101 | 180 | Leslie Nicole |
-| 102 | 180 | Leah Kutz Zirbel |
+| 101 | 180 | Leah Kutz Zirbel |
+| 102 | 180 | Leslie Nicole |
 | 103 | 179 | Epic Curvetile |
 | 104 | 178 | Lori |
 | 105 | 177 | Andria Lynn |
 | 106 | 176 | Justin Hannigan |
 | 107 | 174 | Zethra Prenisha Rahming |
-| 108 | 173 | Ren Mc |
-| 109 | 173 | blockstar |
+| 108 | 173 | blockstar |
+| 109 | 173 | Ren Mc |
 | 110 | 171 | Denise Carlson |
 | 111 | 170 | Girl |
 | 112 | 170 | Peachy Fall |
 | 113 | 164 | ThaEviLJeNiuZ |
-| 114 | 160 | ZeeZee |
-| 115 | 160 | Stacey Stano |
+| 114 | 160 | Stacey Stano |
+| 115 | 160 | ZeeZee |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |

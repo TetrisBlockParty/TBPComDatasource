@@ -44,8 +44,8 @@
 | 36 | 835 | Shonna Roberts |
 | 37 | 821 | Jessica Ann |
 | 38 | 811 | Corie A. Brinson |
-| 39 | 810 | Shane Wilson Jr. |
-| 40 | 810 | Zippy Strikesnap |
+| 39 | 810 | Zippy Strikesnap |
+| 40 | 810 | Shane Wilson Jr. |
 | 41 | 733 | Chummy Shatterer |
 | 42 | 702 | Stephanie Allmon |
 | 43 | 687 | Jennie Beranek |
@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Natasha Jones |
-| 59 | 528 | Giddy Drop |
+| 58 | 528 | Giddy Drop |
+| 59 | 528 | Natasha Jones |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | Rich LeBlanc |
-| 111 | 309 | CeceGeGe |
+| 110 | 309 | CeceGeGe |
+| 111 | 309 | Rich LeBlanc |
 | 112 | 307 | Blocked |
 | 113 | 307 | Peggi Charon |
 | 114 | 300 | Sherika C. McDaniels |
@@ -316,8 +316,8 @@
 | 308 | 103 | Andrew Thorson |
 | 309 | 103 | Kate Farok |
 | 310 | 102 | Criss |
-| 311 | 102 | Christian Luna |
-| 312 | 102 | Rania Zaqout |
+| 311 | 102 | Rania Zaqout |
+| 312 | 102 | Christian Luna |
 | 313 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 314 | 101 | Hyper Bridger |
 | 315 | 100 | Angela Scott |
