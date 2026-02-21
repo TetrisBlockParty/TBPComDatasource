@@ -158,8 +158,8 @@
 | 150 | 112 | Bryan Hodgins |
 | 151 | 112 | Austin Owens |
 | 152 | 112 | Brittany Marsh |
-| 153 | 111 | Gwendolyn Pitcairn |
-| 154 | 111 | Lazy Blocker |
+| 153 | 111 | Lazy Blocker |
+| 154 | 111 | Gwendolyn Pitcairn |
 | 155 | 110 | H.R. Block |
 | 156 | 108 | Ali Ian |
 | 157 | 107 | Rafael Valentin |
