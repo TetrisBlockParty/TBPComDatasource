@@ -97,7 +97,7 @@
 | 89 | 90 | Judy Cox |
 | 90 | 90 | ZeeZee |
 | 91 | 89 | Zesty Twistbuilder |
-| 92 | 88 | Autum Leigh |
+| 92 | 88 | Heather Tushner |
 | 93 | 88 | Brandi Durig |
 | 94 | 88 | Autum Leigh |
 | 95 | 87 | Lauren Lamb |

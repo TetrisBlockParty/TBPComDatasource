@@ -249,8 +249,8 @@
 | 241 | 223 | LegoCarpet |
 | 242 | 223 | Matt Johnson |
 | 243 | 221 | Victoria Moore-Smith |
-| 244 | 220 | Sanaa Nounoussa |
-| 245 | 220 | Mary Marie |
+| 244 | 220 | Mary Marie |
+| 245 | 220 | Sanaa Nounoussa |
 | 246 | 219 | Ashle Scranton |
 | 247 | 218 | Deborah Miller |
 | 248 | 218 | ruth |
