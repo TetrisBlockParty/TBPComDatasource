@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Autum Leigh |
-| 102 | 230 | Lucas J Sutton |
+| 101 | 230 | Lucas J Sutton |
+| 102 | 230 | Autum Leigh |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -163,8 +163,8 @@
 | 155 | 151 | Bethany Ison |
 | 156 | 149 | Roger Coulter |
 | 157 | 149 | Shainne Brewer |
-| 158 | 148 | Brittany Marsh |
-| 159 | 148 | Mr. Party |
+| 158 | 148 | Mr. Party |
+| 159 | 148 | Brittany Marsh |
 | 160 | 148 | Janita Parrish |
 | 161 | 147 | Jay28 |
 | 162 | 145 | Daria Rycewicz |
@@ -776,7 +776,7 @@
 | 768 | 29 | Penny Dean |
 | 769 | 29 | Sarah Elizabeth Baker |
 | 770 | 29 | moneybagz |
-| 771 | 29 | Sarah Elizabeth Baker |
+| 771 | 29 | Jr McQue |
 | 772 | 28 | Marta Savchuk |
 | 773 | 28 | Courtney Angel |
 | 774 | 28 | James May |

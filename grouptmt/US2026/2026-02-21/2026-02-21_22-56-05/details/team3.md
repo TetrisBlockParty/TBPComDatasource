@@ -96,8 +96,8 @@
 | 88 | 454 | Brandon Green |
 | 89 | 447 | Mykal Burton |
 | 90 | 446 | Danielle Rhoades |
-| 91 | 445 | Kristie McFarland |
-| 92 | 445 | Silly Twist |
+| 91 | 445 | Silly Twist |
+| 92 | 445 | Kristie McFarland |
 | 93 | 430 | Patricia White |
 | 94 | 428 | Elissa S-k |
 | 95 | 425 | Patty Allen |
@@ -213,8 +213,8 @@
 | 205 | 191 | Giddy Twistbuilder |
 | 206 | 191 | Scott Carleton |
 | 207 | 190 | Latoya Mayne |
-| 208 | 189 | Connie Mohler-Fair |
-| 209 | 189 | Sissy Lowery Davis |
+| 208 | 189 | Sissy Lowery Davis |
+| 209 | 189 | Connie Mohler-Fair |
 | 210 | 188 | JerseyJess |
 | 211 | 186 | Sunny Rotater |
 | 212 | 185 | Aerian Preston |
@@ -361,8 +361,8 @@
 | 353 | 114 | Elizabeth Renee |
 | 354 | 114 | Amanda Neal |
 | 355 | 113 | Boldy Blocker |
-| 356 | 113 | Andrew Thorson |
-| 357 | 113 | Gideon Walker |
+| 356 | 113 | Gideon Walker |
+| 357 | 113 | Andrew Thorson |
 | 358 | 112 | Tia Moore |
 | 359 | 111 | Leticia Lynn Lowe |
 | 360 | 111 | Stephanie Zahm |
