@@ -217,8 +217,8 @@
 | 209 | 510 | Lisa Ongtowasruk |
 | 210 | 509 | Kelli Wells |
 | 211 | 504 | Cherica Taylor |
-| 212 | 503 | AISlop |
-| 213 | 503 | Adam Erikson |
+| 212 | 503 | Adam Erikson |
+| 213 | 503 | AISlop |
 | 214 | 502 | Magic steve |
 | 215 | 500 | tejas25 |
 | 216 | 497 | Juliana Marques Do Nascimento Gordy |

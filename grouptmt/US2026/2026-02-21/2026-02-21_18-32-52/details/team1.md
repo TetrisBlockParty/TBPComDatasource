@@ -93,10 +93,10 @@
 | 85 | 224 | TSwag |
 | 86 | 222 | Kristen Gideon |
 | 87 | 219 | cc |
-| 88 | 213 | Billie Dawn Sparks |
-| 89 | 213 | Lexuriuos Lifestlye |
-| 90 | 212 | Mandyy Rae |
-| 91 | 212 | Jaimie Lynn |
+| 88 | 213 | Lexuriuos Lifestlye |
+| 89 | 213 | Billie Dawn Sparks |
+| 90 | 212 | Jaimie Lynn |
+| 91 | 212 | Mandyy Rae |
 | 92 | 211 | june october |
 | 93 | 211 | Marianita Garcia |
 | 94 | 210 | Ly Phethmany |

@@ -70,8 +70,8 @@
 | 62 | 334 | Leslie Thomas |
 | 63 | 309 | Lisa Davis |
 | 64 | 308 | Jen Allison |
-| 65 | 300 | David Lay |
-| 66 | 300 | Jason Hart |
+| 65 | 300 | Jason Hart |
+| 66 | 300 | David Lay |
 | 67 | 299 | Livvy |
 | 68 | 295 | Latisha Davis |
 | 69 | 293 | HastyGrabber |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Antony Dwayne Beasley |
@@ -131,8 +131,8 @@
 | 123 | 159 | Dihcheese444 |
 | 124 | 157 | quicksand420 |
 | 125 | 156 | Holly |
-| 126 | 153 | Jessica Bohlken |
-| 127 | 153 | Empress Oasis |
+| 126 | 153 | Empress Oasis |
+| 127 | 153 | Jessica Bohlken |
 | 128 | 151 | Bethany Ison |
 | 129 | 151 | Dana Scott |
 | 130 | 148 | Janita Parrish |
@@ -172,7 +172,7 @@
 | 164 | 124 | SammieJo Guy |
 | 165 | 124 | Allen Lloyd |
 | 166 | 123 | Cherrish Duren |
-| 167 | 122 | Sherri |
+| 167 | 122 | 🥔🥔 Spudz |
 | 168 | 122 | Carlos Ramirez |
 | 169 | 122 | Sherri |
 | 170 | 121 | Smiley Tiltbuilder |

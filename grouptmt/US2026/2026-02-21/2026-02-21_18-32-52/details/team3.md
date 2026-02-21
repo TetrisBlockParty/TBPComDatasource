@@ -70,8 +70,8 @@
 | 62 | 520 | Gracie |
 | 63 | 505 | Fancy Slam |
 | 64 | 493 | Mandy Smith Oldham |
-| 65 | 485 | Susan Valentino |
-| 66 | 485 | Mahman |
+| 65 | 485 | Mahman |
+| 66 | 485 | Susan Valentino |
 | 67 | 480 | Nate Burnside |
 | 68 | 471 | Mendoza Lee Christy |
 | 69 | 454 | Shari Garber |
@@ -109,14 +109,14 @@
 | 101 | 348 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
-| 104 | 323 | Ashley Raines |
-| 105 | 323 | Sherry Ogden |
+| 104 | 323 | Sherry Ogden |
+| 105 | 323 | Ashley Raines |
 | 106 | 321 | Dapper Snap |
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | Rich LeBlanc |
-| 111 | 309 | CeceGeGe |
+| 110 | 309 | CeceGeGe |
+| 111 | 309 | Rich LeBlanc |
 | 112 | 307 | Blocked |
 | 113 | 307 | Peggi Charon |
 | 114 | 300 | Sherika C. McDaniels |
@@ -153,15 +153,15 @@
 | 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Jenny Hrndz |
-| 149 | 214 | Amy Fuller Heaton |
+| 148 | 214 | Amy Fuller Heaton |
+| 149 | 214 | Jenny Hrndz |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
 | 153 | 207 | rnr junky |
 | 154 | 207 | Chris Bell |
 | 155 | 207 | Nicole Myers |
-| 156 | 207 | Chris Bell |
+| 156 | 207 | Jessica |
 | 157 | 204 | Rochelle Hazelett |
 | 158 | 203 | Twisty Brick LT |
 | 159 | 203 | Marci Mize Fandrich |
@@ -381,8 +381,8 @@
 | 373 | 88 | Sabrina Mansfield |
 | 374 | 88 | Kaitie Oliver |
 | 375 | 86 | Mariah Williams |
-| 376 | 86 | Jonathn Poindexter |
-| 377 | 86 | Salena Whitlock |
+| 376 | 86 | Salena Whitlock |
+| 377 | 86 | Jonathn Poindexter |
 | 378 | 85 | Crystel b520 |
 | 379 | 85 | Lush Risebuilder |
 | 380 | 85 | Wancharlene Hercules |
