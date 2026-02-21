@@ -77,12 +77,12 @@
 | 69 | 193 | Lachelle Dillon |
 | 70 | 192 | Shaykmia |
 | 71 | 191 | Jazzy Framezone |
-| 72 | 190 | Thorne Shumate |
-| 73 | 190 | Sweetts |
+| 72 | 190 | Sweetts |
+| 73 | 190 | Thorne Shumate |
 | 74 | 189 | Happy Basegrid |
 | 75 | 180 | Erez Yosef |
-| 76 | 173 | june october |
-| 77 | 173 | Frothy Pattern |
+| 76 | 173 | Frothy Pattern |
+| 77 | 173 | june october |
 | 78 | 171 | Jennifer Olewnik Soborowski |
 | 79 | 167 | Adam Byrd |
 | 80 | 166 | Rico Rico |
@@ -105,8 +105,8 @@
 | 97 | 144 | Plucky Ziggy |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
-| 100 | 138 | Cranky Pattern |
-| 101 | 138 | Gary Gobin |
+| 100 | 138 | Gary Gobin |
+| 101 | 138 | Cranky Pattern |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Breanna Luna |
@@ -126,8 +126,8 @@
 | 118 | 119 | Irual Hctrab |
 | 119 | 119 | Tater |
 | 120 | 118 | Barry Mac'Ockner |
-| 121 | 116 | Evie Khalil |
-| 122 | 116 | Alenoush Karimian |
+| 121 | 116 | Alenoush Karimian |
+| 122 | 116 | Evie Khalil |
 | 123 | 115 | Mrs.Patrica |
 | 124 | 114 | Giddy Cascade |
 | 125 | 114 | Colleen Wise |
@@ -216,8 +216,8 @@
 | 208 | 75 | Fresno Beotoni |
 | 209 | 75 | Tyler L Hunt |
 | 210 | 74 | Owicked1 |
-| 211 | 74 | Grace Joanne Agnant |
-| 212 | 74 | Meechie |
+| 211 | 74 | Meechie |
+| 212 | 74 | Grace Joanne Agnant |
 | 213 | 73 | Silly Align |
 | 214 | 73 | Shanae Grant |
 | 215 | 72 | Tipsy Strikerpiece |

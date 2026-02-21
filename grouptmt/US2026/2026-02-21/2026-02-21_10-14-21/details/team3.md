@@ -90,8 +90,8 @@
 | 82 | 313 | Elaine Webb Graves |
 | 83 | 309 | CeceGeGe |
 | 84 | 309 | Rich LeBlanc |
-| 85 | 307 | Peggi Charon |
-| 86 | 307 | Blocked |
+| 85 | 307 | Blocked |
+| 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -167,8 +167,8 @@
 | 159 | 146 | Latoya Mayne |
 | 160 | 145 | Bryan Byrd |
 | 161 | 142 | Erica Anderson |
-| 162 | 140 | Jay Horn |
-| 163 | 140 | Gumbo |
+| 162 | 140 | Gumbo |
+| 163 | 140 | Jay Horn |
 | 164 | 135 | Cheryl Hinch Tenbrook |
 | 165 | 134 | Emma |
 | 166 | 134 | DanceLuvLaugh |
@@ -220,8 +220,8 @@
 | 212 | 108 | LaTanya GeminiondaRise Johnson |
 | 213 | 108 | Rachel Napper |
 | 214 | 107 | Sherry Ogden |
-| 215 | 106 | Desiree Gold |
-| 216 | 106 | Eon Harris |
+| 215 | 106 | Eon Harris |
+| 216 | 106 | Desiree Gold |
 | 217 | 105 | Emi |
 | 218 | 105 | Carol Cain Thurman |
 | 219 | 104 | Sarah Moyer |
@@ -361,8 +361,8 @@
 | 353 | 70 | Brave Bruno |
 | 354 | 70 | Leticia Lynn Lowe |
 | 355 | 70 | cherry 🍒pie |
-| 356 | 69 | Spunky Combofall |
-| 357 | 69 | Jen Lewis |
+| 356 | 69 | Jen Lewis |
+| 357 | 69 | Spunky Combofall |
 | 358 | 68 | Reina Roth |
 | 359 | 67 | Dee |
 | 360 | 67 | Wendy Dearden |

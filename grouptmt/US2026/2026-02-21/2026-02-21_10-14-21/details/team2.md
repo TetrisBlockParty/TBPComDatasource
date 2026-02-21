@@ -146,8 +146,8 @@
 | 138 | 520 | Kimberly Schall |
 | 139 | 519 | Maria Escobar |
 | 140 | 517 | Debra Williams |
-| 141 | 515 | Kaylee McCafferty |
-| 142 | 515 | Real Ri |
+| 141 | 515 | Real Ri |
+| 142 | 515 | Kaylee McCafferty |
 | 143 | 513 | Butta |
 | 144 | 513 | Mindy Leigh Head |
 | 145 | 511 | Dizzy Zone |
@@ -251,8 +251,8 @@
 | 243 | 312 | Felicia Lynn |
 | 244 | 311 | Véronique Lévesque Sabourin |
 | 245 | 311 | Dar |
-| 246 | 309 | Oscar Bernie |
-| 247 | 309 | Ginger |
+| 246 | 309 | Ginger |
+| 247 | 309 | Oscar Bernie |
 | 248 | 309 | James Zaragoza |
 | 249 | 306 | Kristopher Miller |
 | 250 | 305 | Libby Hicks |
@@ -307,8 +307,8 @@
 | 299 | 270 | Angela Lynn |
 | 300 | 270 | Alexandra Weir |
 | 301 | 269 | Reece Smith |
-| 302 | 268 | Tanya Parsons |
-| 303 | 268 | Chummy Blockbuilder |
+| 302 | 268 | Chummy Blockbuilder |
+| 303 | 268 | Tanya Parsons |
 | 304 | 266 | Mighty Shatterfit |
 | 305 | 264 | Dapper Dasher |
 | 306 | 263 | Taylor Flowers |
@@ -319,8 +319,8 @@
 | 311 | 257 | Shameika Trail |
 | 312 | 257 | Lyndi Robinson Wakefield |
 | 313 | 256 | Giddy Gridclear |
-| 314 | 256 | CC |
-| 315 | 256 | Tee Jaleesa |
+| 314 | 256 | Tee Jaleesa |
+| 315 | 256 | CC |
 | 316 | 255 | Santana Miyagi |
 | 317 | 254 | Rose Fx |
 | 318 | 254 | Elizabeth Diraffaele |
@@ -339,15 +339,15 @@
 | 331 | 247 | Andrea Devery Beck |
 | 332 | 247 | Fancy Twister |
 | 333 | 246 | Kathryn Townsley |
-| 334 | 246 | Ashley Lopez |
-| 335 | 246 | Stephanie Lumanlan |
+| 334 | 246 | Stephanie Lumanlan |
+| 335 | 246 | Ashley Lopez |
 | 336 | 245 | Rachael Senard |
 | 337 | 245 | Taryece Gause |
 | 338 | 245 | Mischelle Clay |
 | 339 | 244 | Aimee Byrom |
 | 340 | 243 | Brandy Andre |
-| 341 | 242 | Lawanda Forbes |
-| 342 | 242 | Donna Chandler |
+| 341 | 242 | Donna Chandler |
+| 342 | 242 | Lawanda Forbes |
 | 343 | 242 | Hyper Cluster |
 | 344 | 241 | Sabrina Burton |
 | 345 | 240 | Angie Marie |
@@ -410,8 +410,8 @@
 | 402 | 200 | LaWanda Powell |
 | 403 | 200 | Sarah Ridenour |
 | 404 | 199 | Fi Ne |
-| 405 | 199 | Jenny Castro |
-| 406 | 199 | Jessica Sutter |
+| 405 | 199 | Jessica Sutter |
+| 406 | 199 | Jenny Castro |
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Alyssa Dean |
 | 409 | 197 | Alyssa Nadine Medelez |
@@ -426,8 +426,8 @@
 | 418 | 193 | Kelly Ann McCormick |
 | 419 | 193 | Matthew Turner |
 | 420 | 191 | Lauren Fitzgerald Thomas |
-| 421 | 191 | Deana |
-| 422 | 191 | John Quiring |
+| 421 | 191 | John Quiring |
+| 422 | 191 | Deana |
 | 423 | 190 | Jessica Kaye DeAguero |
 | 424 | 190 | Layna Lyons |
 | 425 | 189 | Alishac Marie |
@@ -451,12 +451,12 @@
 | 443 | 182 | Tamara Bailey |
 | 444 | 181 | Julay |
 | 445 | 181 | Wacky Cascade |
-| 446 | 180 | Peter Palestino |
-| 447 | 180 | Jackie Lucas |
-| 448 | 179 | Elizabeth Pearson |
-| 449 | 179 | Desiree Harris Rosch |
-| 450 | 179 | Cat |
-| 451 | 179 | Bette Prieto |
+| 446 | 180 | Jackie Lucas |
+| 447 | 180 | Peter Palestino |
+| 448 | 179 | Desiree Harris Rosch |
+| 449 | 179 | Elizabeth Pearson |
+| 450 | 179 | Bette Prieto |
+| 451 | 179 | Cat |
 | 452 | 178 | Michelle Shrum |
 | 453 | 177 | Facuetoo |
 | 454 | 177 | Angel |
@@ -473,8 +473,8 @@
 | 465 | 174 | Veronica Guerra |
 | 466 | 174 | Jason Garnatz |
 | 467 | 173 | Ocean-Brianna McGregor |
-| 468 | 173 | kippykay |
-| 469 | 173 | Robin |
+| 468 | 173 | Robin |
+| 469 | 173 | kippykay |
 | 470 | 171 | Cappin You |
 | 471 | 171 | William Hunt |
 | 472 | 170 | Lively Catcher |
@@ -489,12 +489,12 @@
 | 481 | 166 | suuny |
 | 482 | 165 | Tara Lynn Janes |
 | 483 | 165 | Catherine Varea |
-| 484 | 165 | Austin Wilson |
-| 485 | 165 | Cathy Bitters |
+| 484 | 165 | Cathy Bitters |
+| 485 | 165 | Austin Wilson |
 | 486 | 164 | Jessica Vega |
 | 487 | 164 | Sara Pennington |
-| 488 | 163 | Lakeela Wise |
-| 489 | 163 | Danielle Ayoub |
+| 488 | 163 | Danielle Ayoub |
+| 489 | 163 | Lakeela Wise |
 | 490 | 163 | Albert McKnight |
 | 491 | 162 | LC Hamilton |
 | 492 | 162 | Michael Artis |
@@ -732,12 +732,12 @@
 | 724 | 117 | Kelli Clark |
 | 725 | 117 | Luceros7 |
 | 726 | 116 | Patrick Langford |
-| 727 | 116 | Moua Ying |
+| 727 | 116 | Slimkaite |
 | 728 | 116 | Meganator42 |
-| 729 | 116 | Slimkaite |
-| 730 | 116 | SpaceCase085 |
-| 731 | 116 | BeenRich Theceo |
-| 732 | 116 | Jennifer Monroe Kelly |
+| 729 | 116 | Moua Ying |
+| 730 | 116 | Jennifer Monroe Kelly |
+| 731 | 116 | SpaceCase085 |
+| 732 | 116 | BeenRich Theceo |
 | 733 | 115 | AsnPryBoy83 |
 | 734 | 115 | Fae-Bulous |
 | 735 | 115 | Angela KaplaSchwahn |
@@ -771,11 +771,11 @@
 | 763 | 110 | Narutofreak13 |
 | 764 | 110 | Sarah Dean |
 | 765 | 110 | Abhishek Mutha |
-| 766 | 109 | Andrew Engman |
-| 767 | 109 | Jaxson |
-| 768 | 109 | Nicolle Danielle |
-| 769 | 109 | Mo Shine On |
-| 770 | 109 | Stephanie Matas |
+| 766 | 109 | Jaxson |
+| 767 | 109 | Andrew Engman |
+| 768 | 109 | Mo Shine On |
+| 769 | 109 | Stephanie Matas |
+| 770 | 109 | Nicolle Danielle |
 | 771 | 109 | hyperbole |
 | 772 | 109 | Chummy Caster |
 | 773 | 109 | Scott |

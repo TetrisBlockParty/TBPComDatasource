@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -77,8 +77,8 @@
 | 69 | 179 | Epic Curvetile |
 | 70 | 175 | Dustee Craddock-Harrison |
 | 71 | 173 | Jeff Brian Gates |
-| 72 | 171 | Zethra Prenisha Rahming |
-| 73 | 171 | Melvin Baird |
+| 72 | 171 | Melvin Baird |
+| 73 | 171 | Zethra Prenisha Rahming |
 | 74 | 170 | Girl |
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 167 | Denise Carlson |
