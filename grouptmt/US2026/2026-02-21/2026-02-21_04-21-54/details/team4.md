@@ -110,8 +110,8 @@
 | 102 | 97 | Zany Twisterfit |
 | 103 | 96 | Zappy Snaplink |
 | 104 | 92 | Kristin MacDonald |
-| 105 | 90 | Bubbly Puzzler |
-| 106 | 90 | Judy Cox |
+| 105 | 90 | Judy Cox |
+| 106 | 90 | Bubbly Puzzler |
 | 107 | 90 | ZeeZee |
 | 108 | 89 | Zesty Twistbuilder |
 | 109 | 89 | Jeremy Steines |

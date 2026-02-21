@@ -165,11 +165,11 @@
 | 157 | 107 | Bryan Byrd |
 | 158 | 107 | Sherry Ogden |
 | 159 | 106 | Desiree Gold |
-| 160 | 105 | Hoppy Buildout |
-| 161 | 105 | Emi |
+| 160 | 105 | Emi |
+| 161 | 105 | Hoppy Buildout |
 | 162 | 104 | Sarah Moyer |
-| 163 | 102 | mommablock |
-| 164 | 102 | Kali Kelz Williams |
+| 163 | 102 | Kali Kelz Williams |
+| 164 | 102 | mommablock |
 | 165 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 166 | 100 | Bobbi Moore |
 | 167 | 100 | Donna |

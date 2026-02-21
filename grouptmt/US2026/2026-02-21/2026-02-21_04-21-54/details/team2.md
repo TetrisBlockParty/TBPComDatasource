@@ -79,8 +79,8 @@
 | 71 | 658 | Dreamy Blast |
 | 72 | 658 | Pacynthia Williams |
 | 73 | 650 | Izabel Herrera |
-| 74 | 649 | Anna Edwards |
-| 75 | 649 | Stephanie Chapman |
+| 74 | 649 | Stephanie Chapman |
+| 75 | 649 | Anna Edwards |
 | 76 | 638 | Dineisha Carpenter |
 | 77 | 631 | Loopy Clusterbuilder |
 | 78 | 627 | Nerdy Clearfit |
@@ -355,8 +355,8 @@
 | 347 | 170 | Dedra Steward |
 | 348 | 170 | Darlene Bowman |
 | 349 | 170 | Kenya Felix |
-| 350 | 169 | Lively Catcher |
-| 351 | 169 | Eddie Perez |
+| 350 | 169 | Eddie Perez |
+| 351 | 169 | Lively Catcher |
 | 352 | 169 | Fi Ne |
 | 353 | 168 | Kati Russeau |
 | 354 | 168 | Robin |

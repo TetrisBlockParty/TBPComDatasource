@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Nancy Green |
-| 25 | 281 | Maria C. Hernandez |
+| 24 | 281 | Maria C. Hernandez |
+| 25 | 281 | Nancy Green |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |
@@ -63,8 +63,8 @@
 | 55 | 169 | Erez Yosef |
 | 56 | 163 | Chad Atchley |
 | 57 | 161 | Abbey Crespo |
-| 58 | 155 | Standia Civil |
-| 59 | 155 | David DeSantis |
+| 58 | 155 | David DeSantis |
+| 59 | 155 | Standia Civil |
 | 60 | 152 | Jacqueline Unique |
 | 61 | 150 | Rico Rico |
 | 62 | 148 | Carrie Beck Geartz |
