@@ -41,8 +41,8 @@
 | 33 | 613 | Amber Hughes |
 | 34 | 608 | River |
 | 35 | 598 | Jennifer Willis |
-| 36 | 587 | Danielle Becker |
-| 37 | 587 | Suzieq |
+| 36 | 587 | Suzieq |
+| 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
 | 40 | 546 | Snappy Glidepiece |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
 | 85 | 307 | Peggi Charon |
 | 86 | 301 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -256,8 +256,8 @@
 | 248 | 94 | Angie Harper |
 | 249 | 93 | Tiffany Ford |
 | 250 | 92 | Trice Thomas |
-| 251 | 92 | Ava Petito |
-| 252 | 92 | Jennifer Caputo |
+| 251 | 92 | Jennifer Caputo |
+| 252 | 92 | Ava Petito |
 | 253 | 91 | Martin Bernier |
 | 254 | 90 | Rebel124 |
 | 255 | 90 | Snazzy Brickzone |

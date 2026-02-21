@@ -81,8 +81,8 @@
 | 73 | 170 | Leah Kutz Zirbel |
 | 74 | 170 | Girl |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Casey Grabner |
-| 77 | 165 | Courtney Cicoria |
+| 76 | 165 | Courtney Cicoria |
+| 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Holly Jolly |
 | 80 | 159 | Justin Hannigan |

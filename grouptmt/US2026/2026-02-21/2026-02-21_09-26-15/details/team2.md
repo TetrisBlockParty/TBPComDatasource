@@ -195,8 +195,8 @@
 | 187 | 388 | coleksquad |
 | 188 | 386 | Macy Williams |
 | 189 | 386 | Ashie Ann |
-| 190 | 385 | Sam |
-| 191 | 385 | Arwa Fatimah |
+| 190 | 385 | Arwa Fatimah |
+| 191 | 385 | Sam |
 | 192 | 381 | Amanda Ferrell |
 | 193 | 380 | Calandra Shaya Robinson |
 | 194 | 380 | Joshua Mandel |
@@ -283,8 +283,8 @@
 | 275 | 275 | Cheeky Brickmatch |
 | 276 | 275 | Shiny Rollzone |
 | 277 | 275 | Ann Matzkanin |
-| 278 | 274 | Melissa Holsinger |
-| 279 | 274 | Jamie Stevey |
+| 278 | 274 | Jamie Stevey |
+| 279 | 274 | Melissa Holsinger |
 | 280 | 274 | Lonne Emade |
 | 281 | 273 | Ray Ray Prado |
 | 282 | 273 | Jenna Nance |
@@ -459,8 +459,8 @@
 | 451 | 176 | Jennifer Malloy - Cardy |
 | 452 | 176 | Trisha Gallagher |
 | 453 | 175 | Snippy Rumbler |
-| 454 | 175 | Jaybee Nguyen |
-| 455 | 175 | Lucero Ramirez |
+| 454 | 175 | Lucero Ramirez |
+| 455 | 175 | Jaybee Nguyen |
 | 456 | 175 | Tina Blessed Cage |
 | 457 | 175 | Shandrica Lowe |
 | 458 | 174 | Jason Garnatz |

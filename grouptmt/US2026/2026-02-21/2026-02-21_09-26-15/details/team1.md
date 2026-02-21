@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Sweet Baker |
-| 41 | 274 | Theo Pinnow |
+| 40 | 274 | Theo Pinnow |
+| 41 | 274 | Sweet Baker |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Tipsy Column |
