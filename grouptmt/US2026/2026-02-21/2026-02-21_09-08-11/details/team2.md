@@ -412,8 +412,8 @@
 | 404 | 194 | Kimberly Ann |
 | 405 | 194 | Mike Aprilliano |
 | 406 | 194 | Hoppy Brickmatch |
-| 407 | 193 | Kelly Ann McCormick |
-| 408 | 193 | Matthew Turner |
+| 407 | 193 | Matthew Turner |
+| 408 | 193 | Kelly Ann McCormick |
 | 409 | 192 | Alyssa Nadine Medelez |
 | 410 | 191 | Lauren Fitzgerald Thomas |
 | 411 | 191 | Sho Nuff |

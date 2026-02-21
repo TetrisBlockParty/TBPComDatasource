@@ -156,8 +156,8 @@
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
-| 151 | 95 | Meagan Nicole |
-| 152 | 95 | Victoria Faniel |
+| 151 | 95 | Victoria Faniel |
+| 152 | 95 | Meagan Nicole |
 | 153 | 94 | DonMega |
 | 154 | 93 | Zesty Twistbuilder |
 | 155 | 92 | Kristin MacDonald |

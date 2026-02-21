@@ -87,8 +87,8 @@
 | 79 | 320 | Or Reznitsky |
 | 80 | 316 | Fancy Cascader |
 | 81 | 312 | Elaine Webb Graves |
-| 82 | 309 | Rich LeBlanc |
-| 83 | 309 | CeceGeGe |
+| 82 | 309 | CeceGeGe |
+| 83 | 309 | Rich LeBlanc |
 | 84 | 307 | Peggi Charon |
 | 85 | 300 | Sherika C. McDaniels |
 | 86 | 299 | Cynthia Castros-Hampton |
@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Judi Dobson |
-| 102 | 224 | Mykal Burton |
+| 101 | 224 | Mykal Burton |
+| 102 | 224 | Judi Dobson |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |
@@ -135,8 +135,8 @@
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -208,8 +208,8 @@
 | 200 | 109 | Fredd Thomas |
 | 201 | 109 | Brave Brickster |
 | 202 | 109 | Diana Ibarra |
-| 203 | 108 | LaTanya GeminiondaRise Johnson |
-| 204 | 108 | Rachel Napper |
+| 203 | 108 | Rachel Napper |
+| 204 | 108 | LaTanya GeminiondaRise Johnson |
 | 205 | 107 | Sherry Ogden |
 | 206 | 106 | Desiree Gold |
 | 207 | 106 | Eon Harris |
@@ -348,8 +348,8 @@
 | 340 | 70 | Leticia Lynn Lowe |
 | 341 | 70 | Brave Bruno |
 | 342 | 69 | Jen Lewis |
-| 343 | 69 | Spunky Combofall |
-| 344 | 69 | Tony Mia Christian |
+| 343 | 69 | Tony Mia Christian |
+| 344 | 69 | Spunky Combofall |
 | 345 | 68 | Reina Roth |
 | 346 | 67 | Daryn Elliott |
 | 347 | 67 | Dee |
