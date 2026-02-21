@@ -135,8 +135,8 @@
 | 127 | 704 | Nerdy Clearfit |
 | 128 | 703 | YiFei |
 | 129 | 700 | Vincent Petrella |
-| 130 | 700 | Beverly Owens |
-| 131 | 700 | Rosemadder |
+| 130 | 700 | Rosemadder |
+| 131 | 700 | Beverly Owens |
 | 132 | 698 | Lola Contreras |
 | 133 | 697 | Real Ri |
 | 134 | 694 | Vo'Landa Reels |
@@ -247,8 +247,8 @@
 | 239 | 452 | Allan Wayne Lamia |
 | 240 | 452 | Alezandra Smith |
 | 241 | 448 | Jojo Momma |
-| 242 | 445 | Dedra Steward |
-| 243 | 445 | Calandra Shaya Robinson |
+| 242 | 445 | Calandra Shaya Robinson |
+| 243 | 445 | Dedra Steward |
 | 244 | 443 | AISlop |
 | 245 | 442 | Daphne Jordan |
 | 246 | 442 | Leah |

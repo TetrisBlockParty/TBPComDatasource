@@ -164,7 +164,7 @@
 | 156 | 201 | Ashley Tookes |
 | 157 | 195 | Nicha Hooker |
 | 158 | 194 | glichmod |
-| 159 | 193 | Clever Shiftsnap |
+| 159 | 193 | Stephanie Burtin |
 | 160 | 193 | Duane Bright |
 | 161 | 193 | Clever Shiftsnap |
 | 162 | 191 | Scott Carleton |
@@ -208,8 +208,8 @@
 | 200 | 160 | Tiffany Davie |
 | 201 | 159 | Jone |
 | 202 | 157 | Marquita Sheard |
-| 203 | 157 | Nicholas Roddy |
-| 204 | 157 | Patricia Gadsden |
+| 203 | 157 | Patricia Gadsden |
+| 204 | 157 | Nicholas Roddy |
 | 205 | 156 | Bea Miles |
 | 206 | 155 | Loopy Fallzone |
 | 207 | 153 | Tipsy Zonebuilder |
@@ -233,8 +233,8 @@
 | 225 | 145 | Bryan Byrd |
 | 226 | 145 | Emma |
 | 227 | 142 | Jl |
-| 228 | 142 | Erica Anderson |
-| 229 | 142 | David Bardo |
+| 228 | 142 | David Bardo |
+| 229 | 142 | Erica Anderson |
 | 230 | 139 | Loopy Clusterer |
 | 231 | 138 | Boldy Corner |
 | 232 | 137 | Joy Petroski |
@@ -279,8 +279,8 @@
 | 271 | 114 | JerseyJess |
 | 272 | 114 | Elizabeth Renee |
 | 273 | 113 | Brave Brickster |
-| 274 | 113 | Brian Battjes |
-| 275 | 113 | Beppy |
+| 274 | 113 | Beppy |
+| 275 | 113 | Brian Battjes |
 | 276 | 112 | Rachel |
 | 277 | 111 | Rainbow77375 |
 | 278 | 111 | Jason-Ashley Ludlow |
@@ -341,8 +341,8 @@
 | 333 | 96 | Oliver Neal II |
 | 334 | 96 | D3NO |
 | 335 | 95 | Brooke Bauer |
-| 336 | 94 | Nichole Greene |
-| 337 | 94 | Tracey Cox |
+| 336 | 94 | Tracey Cox |
+| 337 | 94 | Nichole Greene |
 | 338 | 93 | Tiffany Ford |
 | 339 | 93 | Martin Bernier |
 | 340 | 93 | Kevin Russell |
@@ -455,7 +455,7 @@
 | 447 | 74 | gravelgrinder |
 | 448 | 74 | Reesiecup93 |
 | 449 | 73 | Serenity |
-| 450 | 73 | Nerdy Wipeout |
+| 450 | 73 | punky monkey buttky |
 | 451 | 73 | Spicy Caster |
 | 452 | 73 | Marcey Peneaux |
 | 453 | 73 | Nerdy Wipeout |

@@ -84,19 +84,19 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Alyssa Papen |
-| 80 | 215 | Jae Job |
+| 79 | 215 | Jae Job |
+| 80 | 215 | Alyssa Papen |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Monica Daley |
-| 87 | 200 | Holly Jolly |
-| 88 | 198 | Dustee Craddock-Harrison |
-| 89 | 198 | Mike Solo |
-| 90 | 194 | Zany Twisterfit |
-| 91 | 194 | Calvin Cannon |
+| 86 | 200 | Holly Jolly |
+| 87 | 200 | Monica Daley |
+| 88 | 198 | Mike Solo |
+| 89 | 198 | Dustee Craddock-Harrison |
+| 90 | 194 | Calvin Cannon |
+| 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
 | 93 | 191 | loulou |
 | 94 | 191 | Jeff Brian Gates |
@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | Ren Mc |
-| 108 | 173 | blockstar |
+| 107 | 173 | blockstar |
+| 108 | 173 | Ren Mc |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Girl |
 | 111 | 170 | Peachy Fall |
@@ -137,7 +137,7 @@
 | 129 | 144 | Shainne Brewer |
 | 130 | 144 | Mr. Party |
 | 131 | 141 | Malakai Darien Fox |
-| 132 | 140 | Shannon Ferrari |
+| 132 | 140 | John Brunetti |
 | 133 | 140 | Jenna McGeorge |
 | 134 | 140 | Shannon Ferrari |
 | 135 | 137 | Roger Coulter |
@@ -162,9 +162,9 @@
 | 154 | 124 | Allen Lloyd |
 | 155 | 124 | SammieJo Guy |
 | 156 | 123 | Cherrish Duren |
-| 157 | 122 | Sherri |
-| 158 | 122 | Carlos Ramirez |
-| 159 | 122 | 🥔🥔 Spudz |
+| 157 | 122 | 🥔🥔 Spudz |
+| 158 | 122 | Sherri |
+| 159 | 122 | Carlos Ramirez |
 | 160 | 121 | Megan Cutshaw |
 | 161 | 121 | Smiley Tiltbuilder |
 | 162 | 120 | KayM |

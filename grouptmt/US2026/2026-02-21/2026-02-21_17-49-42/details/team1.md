@@ -135,8 +135,8 @@
 | 127 | 152 | Speedy Snapfall |
 | 128 | 152 | Jacqueline Unique |
 | 129 | 150 | Adele Rahman |
-| 130 | 149 | Jennifer ManWarren |
-| 131 | 149 | Arianna O'Brien |
+| 130 | 149 | Arianna O'Brien |
+| 131 | 149 | Jennifer ManWarren |
 | 132 | 148 | Shauntina Burke |
 | 133 | 147 | Michael |
 | 134 | 147 | Snippy Wipebuilder |
@@ -153,12 +153,12 @@
 | 145 | 142 | Colleen Wise |
 | 146 | 141 | Blaire Bruckoff |
 | 147 | 140 | Miguel Teixeira |
-| 148 | 138 | Death |
-| 149 | 138 | Cranky Pattern |
+| 148 | 138 | Cranky Pattern |
+| 149 | 138 | Death |
 | 150 | 137 | Nadine Velardo |
 | 151 | 136 | Dino |
-| 152 | 135 | Giddy Cascade |
-| 153 | 135 | Cody Slav |
+| 152 | 135 | Cody Slav |
+| 153 | 135 | Giddy Cascade |
 | 154 | 134 | Trina Gee |
 | 155 | 133 | Breanna Luna |
 | 156 | 132 | Cody Gates |
@@ -181,8 +181,8 @@
 | 173 | 122 | Melissa Lemmon |
 | 174 | 122 | Margo Wagner |
 | 175 | 121 | April Carroll |
-| 176 | 120 | Alenoush Karimian |
-| 177 | 120 | Kimmie Kimms |
+| 176 | 120 | Kimmie Kimms |
+| 177 | 120 | Alenoush Karimian |
 | 178 | 119 | Tater |
 | 179 | 118 | Sam Williams |
 | 180 | 116 | Jessica Russell |
