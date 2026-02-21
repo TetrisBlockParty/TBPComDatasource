@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -139,8 +139,8 @@
 | 131 | 278 | Rufus Lincoln |
 | 132 | 276 | Crimson |
 | 133 | 272 | opf |
-| 134 | 271 | Ashley Muncey |
-| 135 | 271 | Leah Barnett |
+| 134 | 271 | Leah Barnett |
+| 135 | 271 | Ashley Muncey |
 | 136 | 267 | Denise Nardoni |
 | 137 | 263 | Angeline Joseph |
 | 138 | 262 | Joe-Maggie Mathews |

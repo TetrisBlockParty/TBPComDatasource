@@ -36,8 +36,8 @@
 | 28 | 625 | GreenJeepGirl |
 | 29 | 608 | Denny Shives |
 | 30 | 597 | Chilly Line |
-| 31 | 590 | Valerie Roberts |
-| 32 | 590 | Rebecca Moulton Pinciaro |
+| 31 | 590 | Rebecca Moulton Pinciaro |
+| 32 | 590 | Valerie Roberts |
 | 33 | 546 | LisaJo Picken Buchanan |
 | 34 | 543 | Tammi Crnza |
 | 35 | 530 | Clarence Patawaran |
@@ -91,8 +91,8 @@
 | 83 | 254 | Holly Jolly |
 | 84 | 252 | Girl |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Lucas J Sutton |
-| 87 | 230 | Autum Leigh |
+| 86 | 230 | Autum Leigh |
+| 87 | 230 | Lucas J Sutton |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |

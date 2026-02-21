@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 571 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 521 | Hyp James NObettadanluvarat |
 | 37 | 517 | Felicia Lewis |
@@ -109,8 +109,8 @@
 | 101 | 222 | Kristen Gideon |
 | 102 | 214 | Billie Dawn Sparks |
 | 103 | 213 | Lexuriuos Lifestlye |
-| 104 | 212 | Jaimie Lynn |
-| 105 | 212 | Mandyy Rae |
+| 104 | 212 | Mandyy Rae |
+| 105 | 212 | Jaimie Lynn |
 | 106 | 211 | Marianita Garcia |
 | 107 | 210 | Ly Phethmany |
 | 108 | 205 | Nicole Roseberry Weber |
@@ -123,8 +123,8 @@
 | 115 | 193 | Lachelle Dillon |
 | 116 | 192 | Shaykmia |
 | 117 | 191 | Diane Byrd |
-| 118 | 190 | Sweetts |
-| 119 | 190 | Thorne Shumate |
+| 118 | 190 | Thorne Shumate |
+| 119 | 190 | Sweetts |
 | 120 | 189 | Happy Basegrid |
 | 121 | 188 | Sam Williams |
 | 122 | 187 | Plucky Ziggy |
@@ -268,7 +268,7 @@
 | 260 | 91 | Beazel75 |
 | 261 | 91 | Erin Hodges Plumb |
 | 262 | 91 | Virginia Gray Floyd |
-| 263 | 90 | Daring Fitclear |
+| 263 | 90 | Matt Cinelli |
 | 264 | 90 | Steve Schneider |
 | 265 | 90 | Jam |
 | 266 | 90 | Grace Joanne Agnant |

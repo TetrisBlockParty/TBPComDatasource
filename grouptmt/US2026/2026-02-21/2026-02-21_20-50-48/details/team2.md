@@ -380,8 +380,8 @@
 | 372 | 357 | Shannon Byrd |
 | 373 | 356 | Adam Simmons |
 | 374 | 355 | Shandrica Lowe |
-| 375 | 354 | Darlene Bowman |
-| 376 | 354 | Lawanda Forbes |
+| 375 | 354 | Lawanda Forbes |
+| 376 | 354 | Darlene Bowman |
 | 377 | 354 | Rickey Johnson |
 | 378 | 353 | Cheery Matchzone |
 | 379 | 352 | Juanita Lyons |
