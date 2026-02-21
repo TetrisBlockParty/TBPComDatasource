@@ -25,8 +25,8 @@
 | 17 | 792 | LaQuetta Faith Hines |
 | 18 | 779 | Andrea Dañielle Ortiz |
 | 19 | 771 | Robert Beck |
-| 20 | 770 | Zappy Curvetile |
-| 21 | 770 | Adryane Schnase |
+| 20 | 770 | Adryane Schnase |
+| 21 | 770 | Zappy Curvetile |
 | 22 | 699 | Josie Kirt |
 | 23 | 683 | Chipper Gridlock |
 | 24 | 658 | Carolyn Smith |
@@ -37,8 +37,8 @@
 | 29 | 575 | Jennifer Cates |
 | 30 | 556 | Marianne Louise West |
 | 31 | 543 | Aaron Garnett |
-| 32 | 541 | Drew Magnus |
-| 33 | 541 | Jorge Andrade |
+| 32 | 541 | Jorge Andrade |
+| 33 | 541 | Drew Magnus |
 | 34 | 539 | Karin Gillen |
 | 35 | 521 | Hyp James NObettadanluvarat |
 | 36 | 517 | Felicia Lewis |
@@ -55,8 +55,8 @@
 | 47 | 413 | Odell Barnett |
 | 48 | 403 | Nancy Green |
 | 49 | 400 | Matt |
-| 50 | 392 | Redlicious 1 |
-| 51 | 392 | Anaid Sanchez |
+| 50 | 392 | Anaid Sanchez |
+| 51 | 392 | Redlicious 1 |
 | 52 | 385 | Jazzy Framezone |
 | 53 | 382 | Lori Sanders- Davis |
 | 54 | 375 | Angel Fowler |
@@ -140,16 +140,16 @@
 | 132 | 170 | Veronica Eve |
 | 133 | 169 | Abbey Crespo |
 | 134 | 168 | Standia Civil |
-| 135 | 166 | Tana |
-| 136 | 166 | John Barron |
-| 137 | 166 | Rico Rico |
+| 135 | 166 | Rico Rico |
+| 136 | 166 | Tana |
+| 137 | 166 | John Barron |
 | 138 | 165 | Nadine Velardo |
 | 139 | 164 | Katie Daniels |
 | 140 | 163 | Tyler Whitley |
 | 141 | 162 | Tanya Carpenter-Reynolds |
 | 142 | 161 | Jessie Lynn |
-| 143 | 155 | Cece Ibarra |
-| 144 | 155 | Cody Slav |
+| 143 | 155 | Cody Slav |
+| 144 | 155 | Cece Ibarra |
 | 145 | 154 | Irual Hctrab |
 | 146 | 153 | Shiny Gridmatch |
 | 147 | 152 | Jacqueline Unique |
@@ -175,10 +175,10 @@
 | 167 | 138 | Cranky Pattern |
 | 168 | 138 | Death |
 | 169 | 137 | Cody Gates |
-| 170 | 136 | Dino |
-| 171 | 136 | Breanna Luna |
-| 172 | 135 | Guest |
-| 173 | 135 | Giddy Cascade |
+| 170 | 136 | Breanna Luna |
+| 171 | 136 | Dino |
+| 172 | 135 | Giddy Cascade |
+| 173 | 135 | Guest |
 | 174 | 134 | Witty Builderfit |
 | 175 | 132 | Mel Hogan |
 | 176 | 131 | Kimberly Garcia |

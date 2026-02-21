@@ -69,8 +69,8 @@
 | 61 | 577 | Danielle Mogg |
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 566 | Dan Rob |
-| 64 | 561 | Dolores Falco |
-| 65 | 561 | Rachael McClain Owens |
+| 64 | 561 | Rachael McClain Owens |
+| 65 | 561 | Dolores Falco |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
 | 68 | 552 | Katrina Schroeder |
@@ -170,7 +170,7 @@
 | 162 | 214 | Amy Fuller Heaton |
 | 163 | 212 | Krystal Gerstberger |
 | 164 | 211 | Katrina Turner |
-| 165 | 207 | Nicole Myers |
+| 165 | 207 | rnr junky |
 | 166 | 207 | Jessica |
 | 167 | 207 | Chris Bell |
 | 168 | 207 | Nicole Myers |
@@ -402,7 +402,7 @@
 | 394 | 89 | Patti Skiles |
 | 395 | 89 | Matty Ray |
 | 396 | 88 | demon14 |
-| 397 | 88 | Sabrina Mansfield |
+| 397 | 88 | Kaitie Oliver |
 | 398 | 88 | Kelly Koenig |
 | 399 | 88 | Sabrina Mansfield |
 | 400 | 86 | Jonathn Poindexter |

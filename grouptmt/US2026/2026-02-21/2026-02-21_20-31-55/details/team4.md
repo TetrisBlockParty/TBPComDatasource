@@ -143,8 +143,8 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Holly |
-| 139 | 156 | Jessica Bohlken |
+| 138 | 156 | Jessica Bohlken |
+| 139 | 156 | Holly |
 | 140 | 153 | Empress Oasis |
 | 141 | 151 | Avy Absol |
 | 142 | 151 | Bethany Ison |
@@ -188,8 +188,8 @@
 | 180 | 125 | Duck |
 | 181 | 125 | Ericca Eldridge |
 | 182 | 125 | AyeKay |
-| 183 | 124 | SammieJo Guy |
-| 184 | 124 | Allen Lloyd |
+| 183 | 124 | Allen Lloyd |
+| 184 | 124 | SammieJo Guy |
 | 185 | 123 | Chaz |
 | 186 | 122 | Sherri |
 | 187 | 122 | 🥔🥔 Spudz |
@@ -231,8 +231,8 @@
 | 223 | 103 | Richard-April Kice |
 | 224 | 103 | Lauren Lamb |
 | 225 | 103 | Kate |
-| 226 | 102 | Kim Hunt |
-| 227 | 102 | Christina O'Dell-Ishau |
+| 226 | 102 | Jumpy Zonepiece |
+| 227 | 102 | Faja |
 | 228 | 102 | Cheery Risebuilder |
 | 229 | 102 | Christina O'Dell-Ishau |
 | 230 | 102 | Autumn Kumzi |

@@ -344,8 +344,8 @@
 | 336 | 383 | Arkei Luster |
 | 337 | 382 | David Holliday |
 | 338 | 381 | Bubbly Snapfit |
-| 339 | 378 | TF Dyer |
-| 340 | 378 | Christina Ashley |
+| 339 | 378 | Christina Ashley |
+| 340 | 378 | TF Dyer |
 | 341 | 378 | Cody Nishimura |
 | 342 | 377 | Roy Salyer |
 | 343 | 376 | Heather Schelkopf |
@@ -421,8 +421,8 @@
 | 413 | 325 | bru |
 | 414 | 325 | Daniel Amos |
 | 415 | 325 | Lewis Sturgeon |
-| 416 | 323 | KhaosLord |
-| 417 | 323 | Briana Alexander |
+| 416 | 323 | Briana Alexander |
+| 417 | 323 | KhaosLord |
 | 418 | 322 | NanDa Cruzan VI |
 | 419 | 321 | Tamara Bailey |
 | 420 | 319 | Rose Fx |
@@ -545,8 +545,8 @@
 | 537 | 252 | Alyssia Tancredi |
 | 538 | 252 | Aleasha M Brown |
 | 539 | 250 | Kristi Biddinger |
-| 540 | 250 | Mike73 |
-| 541 | 250 | sup |
+| 540 | 250 | sup |
+| 541 | 250 | Mike73 |
 | 542 | 249 | Nicky Jackson |
 | 543 | 249 | Porsche' Nicole |
 | 544 | 248 | Gursharan Sandhu |
