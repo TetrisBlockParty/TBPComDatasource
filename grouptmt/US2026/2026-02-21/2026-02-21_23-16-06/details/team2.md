@@ -377,8 +377,8 @@
 | 369 | 391 | Chilly Bridgepiece |
 | 370 | 390 | Caitlin Schmid |
 | 371 | 386 | Irene Jones |
-| 372 | 384 | Johnny Yeates |
-| 373 | 384 | Mike Aprilliano |
+| 372 | 384 | Mike Aprilliano |
+| 373 | 384 | Johnny Yeates |
 | 374 | 383 | Arkei Luster |
 | 375 | 382 | David Holliday |
 | 376 | 381 | Melissa Rebbe-Lehman |
@@ -400,8 +400,8 @@
 | 392 | 369 | Tara Lynn Janes |
 | 393 | 367 | Deyawn Smith |
 | 394 | 366 | Darcy Mae |
-| 395 | 366 | Smashanator |
-| 396 | 366 | Courtney Burcham |
+| 395 | 366 | Courtney Burcham |
+| 396 | 366 | Smashanator |
 | 397 | 365 | Christina Lewis-Vickers |
 | 398 | 365 | Audrey Jones |
 | 399 | 365 | Kayla |
@@ -668,10 +668,10 @@
 | 660 | 227 | Nutty Slice |
 | 661 | 227 | Sho Nuff |
 | 662 | 226 | Jodi Mitnick |
-| 663 | 226 | Christina Wsn |
-| 664 | 226 | Theresa Sterrett |
-| 665 | 225 | Meganator42 |
-| 666 | 225 | BK Queen |
+| 663 | 226 | Theresa Sterrett |
+| 664 | 226 | Christina Wsn |
+| 665 | 225 | BK Queen |
+| 666 | 225 | Meganator42 |
 | 667 | 224 | Artemus Darnell |
 | 668 | 223 | J.L. Roberts |
 | 669 | 223 | LegoCarpet |
@@ -680,8 +680,8 @@
 | 672 | 223 | Laura Wyatt |
 | 673 | 222 | Lazy Riseclear |
 | 674 | 220 | Jennifer Coe |
-| 675 | 219 | Cathy Bitters |
-| 676 | 219 | Trista Carter |
+| 675 | 219 | Trista Carter |
+| 676 | 219 | Cathy Bitters |
 | 677 | 219 | Josh Webster |
 | 678 | 218 | Shylee Tilman |
 | 679 | 218 | Wacky Cascade |

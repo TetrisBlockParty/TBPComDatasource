@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | quicksand420 |
-| 68 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | quicksand420 |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -211,8 +211,8 @@
 | 203 | 124 | Kristina Black |
 | 204 | 124 | Allen Lloyd |
 | 205 | 123 | Austin Owens |
-| 206 | 123 | Tyler Terrific |
-| 207 | 123 | Matt Dell'Olio |
+| 206 | 123 | Matt Dell'Olio |
+| 207 | 123 | Tyler Terrific |
 | 208 | 122 | Sherri |
 | 209 | 122 | 🥔🥔 Spudz |
 | 210 | 121 | Megan Cutshaw |
