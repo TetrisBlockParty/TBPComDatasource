@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -336,8 +336,8 @@
 | 328 | 247 | Fancy Twister |
 | 329 | 247 | Andrea Devery Beck |
 | 330 | 246 | Kathryn Townsley |
-| 331 | 246 | Ashley Lopez |
-| 332 | 246 | Stephanie Lumanlan |
+| 331 | 246 | Stephanie Lumanlan |
+| 332 | 246 | Ashley Lopez |
 | 333 | 245 | Rachael Senard |
 | 334 | 245 | Taryece Gause |
 | 335 | 245 | Mischelle Clay |
@@ -353,8 +353,8 @@
 | 345 | 238 | Cheery Matchzone |
 | 346 | 236 | snkylnk |
 | 347 | 236 | Frisky Riserbuilder |
-| 348 | 236 | Niceday |
-| 349 | 236 | Julio A Laracuente |
+| 348 | 236 | Julio A Laracuente |
+| 349 | 236 | Niceday |
 | 350 | 235 | Kimberly Mitchell |
 | 351 | 234 | Jennifer Leigh |
 | 352 | 234 | Manny Trindade |
@@ -394,8 +394,8 @@
 | 386 | 207 | Shylee Tilman |
 | 387 | 206 | Neko Preston |
 | 388 | 206 | RAEPR05 |
-| 389 | 205 | Lylymom |
-| 390 | 205 | ElizabethAnn Dickinson |
+| 389 | 205 | ElizabethAnn Dickinson |
+| 390 | 205 | Lylymom |
 | 391 | 204 | Ali Gralski |
 | 392 | 204 | Rebecca Doughman |
 | 393 | 203 | Gary Stash |
@@ -409,8 +409,8 @@
 | 401 | 198 | Angie Bolton Workman |
 | 402 | 198 | Alyssa Dean |
 | 403 | 197 | Alyssa Nadine Medelez |
-| 404 | 196 | Alexandra Reese |
-| 405 | 196 | Cass Shirley |
+| 404 | 196 | Cass Shirley |
+| 405 | 196 | Alexandra Reese |
 | 406 | 196 | Besma Ao |
 | 407 | 195 | Emily Lyric Converse |
 | 408 | 195 | Snappy Shatterfit |
@@ -942,7 +942,7 @@
 | 934 | 93 | Jennifer Riley |
 | 935 | 92 | Jelly |
 | 936 | 92 | Loony Dashy |
-| 937 | 92 | Jacqueline Muellerleile |
+| 937 | 92 | Tia Simmons |
 | 938 | 92 | Chipper Wipeblock |
 | 939 | 92 | Jacqueline Muellerleile |
 | 940 | 92 | Suzanne Wheeler |

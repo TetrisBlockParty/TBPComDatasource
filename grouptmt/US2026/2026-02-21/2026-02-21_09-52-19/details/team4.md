@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -104,12 +104,12 @@
 | 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
-| 99 | 131 | Zany Twisterfit |
-| 100 | 131 | Dana Scott |
+| 99 | 131 | Dana Scott |
+| 100 | 131 | Zany Twisterfit |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
-| 103 | 129 | Landon Keith Graffeo |
-| 104 | 129 | John Brunetti |
+| 103 | 129 | John Brunetti |
+| 104 | 129 | Landon Keith Graffeo |
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Nugget |

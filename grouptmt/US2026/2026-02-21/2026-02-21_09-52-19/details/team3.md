@@ -55,8 +55,8 @@
 | 47 | 520 | Gracie |
 | 48 | 507 | Stephanie Allmon |
 | 49 | 496 | Cherry Parker |
-| 50 | 476 | Susan Valentino |
-| 51 | 476 | Dan Rob |
+| 50 | 476 | Dan Rob |
+| 51 | 476 | Susan Valentino |
 | 52 | 466 | Kay |
 | 53 | 462 | Nate Burnside |
 | 54 | 449 | Justin Ritter |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -148,13 +148,13 @@
 | 140 | 159 | Jone |
 | 141 | 159 | Morgan Martinez |
 | 142 | 158 | Grams |
-| 143 | 157 | Nicholas Roddy |
-| 144 | 157 | Patricia Gadsden |
+| 143 | 157 | Patricia Gadsden |
+| 144 | 157 | Nicholas Roddy |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Beth Ingham |
-| 149 | 153 | Stephanie Whitefield |
+| 148 | 153 | Stephanie Whitefield |
+| 149 | 153 | Beth Ingham |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
@@ -184,7 +184,7 @@
 | 176 | 125 | Felicia Doxey |
 | 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
-| 179 | 123 | Kristie McFarland |
+| 179 | 123 | Sarajane Lokan |
 | 180 | 123 | Terry Jo Jones |
 | 181 | 123 | Kristie McFarland |
 | 182 | 122 | Giggly Brickroll |
@@ -286,7 +286,7 @@
 | 278 | 85 | Crystel b520 |
 | 279 | 84 | gremicx |
 | 280 | 84 | Flashy Rumbler |
-| 281 | 84 | gremicx |
+| 281 | 84 | Spunky Racker |
 | 282 | 83 | Deseree Ewing |
 | 283 | 82 | Rebecca Funderburk Kirby |
 | 284 | 81 | Tina Baurdau |
