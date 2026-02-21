@@ -45,8 +45,8 @@
 | 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
-| 40 | 546 | Snappy Glidepiece |
-| 41 | 546 | Dolores Falco |
+| 40 | 546 | Dolores Falco |
+| 41 | 546 | Snappy Glidepiece |
 | 42 | 541 | MissTaylor |
 | 43 | 533 | Sarah Fehring |
 | 44 | 528 | Natasha Jones |
@@ -76,8 +76,8 @@
 | 68 | 353 | Stephanie Woods |
 | 69 | 345 | Christine Niles |
 | 70 | 343 | Silly Twist |
-| 71 | 342 | Trezure Gonzalez |
-| 72 | 342 | Annie Déè |
+| 71 | 342 | Annie Déè |
+| 72 | 342 | Trezure Gonzalez |
 | 73 | 338 | Danielle Rhoades |
 | 74 | 332 | Chauntee Alfrey-Cardinale |
 | 75 | 331 | Mendoza Lee Christy |
@@ -173,9 +173,9 @@
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
 | 167 | 127 | Connie Mohler-Fair |
-| 168 | 127 | Joy Petroski |
-| 169 | 127 | Marquita Sheard |
-| 170 | 127 | Aerian Preston |
+| 168 | 127 | Aerian Preston |
+| 169 | 127 | Joy Petroski |
+| 170 | 127 | Marquita Sheard |
 | 171 | 126 | Bryan Byrd |
 | 172 | 126 | Brandon Givens |
 | 173 | 125 | Felicia Doxey |
@@ -271,8 +271,8 @@
 | 263 | 89 | Shicken Nuggit |
 | 264 | 88 | Kevin Russell |
 | 265 | 88 | Dapper Towerfit |
-| 266 | 88 | RickyG |
-| 267 | 88 | Kate Farok |
+| 266 | 88 | Kate Farok |
+| 267 | 88 | RickyG |
 | 268 | 87 | Boldy Blocker |
 | 269 | 87 | FATTY |
 | 270 | 87 | Kellie Montgomery |

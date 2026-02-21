@@ -193,11 +193,11 @@
 | 185 | 388 | coleksquad |
 | 186 | 386 | Macy Williams |
 | 187 | 386 | Ashie Ann |
-| 188 | 385 | Arwa Fatimah |
-| 189 | 385 | Sam |
+| 188 | 385 | Sam |
+| 189 | 385 | Arwa Fatimah |
 | 190 | 381 | Amanda Ferrell |
-| 191 | 380 | Joshua Mandel |
-| 192 | 380 | Calandra Shaya Robinson |
+| 191 | 380 | Calandra Shaya Robinson |
+| 192 | 380 | Joshua Mandel |
 | 193 | 378 | Cody Nishimura |
 | 194 | 377 | Liberty |
 | 195 | 377 | Roy Salyer |
@@ -240,11 +240,11 @@
 | 232 | 315 | Alisa Lamb |
 | 233 | 314 | Amanda West |
 | 234 | 312 | Michelle Pike |
-| 235 | 311 | Dar |
-| 236 | 311 | Véronique Lévesque Sabourin |
-| 237 | 309 | James Zaragoza |
-| 238 | 309 | Ginger |
-| 239 | 309 | Oscar Bernie |
+| 235 | 311 | Véronique Lévesque Sabourin |
+| 236 | 311 | Dar |
+| 237 | 309 | Ginger |
+| 238 | 309 | Oscar Bernie |
+| 239 | 309 | James Zaragoza |
 | 240 | 306 | Kristopher Miller |
 | 241 | 305 | Ramone Armstrong |
 | 242 | 305 | Libby Hicks |
@@ -270,16 +270,16 @@
 | 262 | 282 | Carl Bradshaw |
 | 263 | 282 | Shaun Church |
 | 264 | 281 | Maegan Beaule |
-| 265 | 280 | Autumn Schaeffer |
-| 266 | 280 | Shorty |
+| 265 | 280 | Shorty |
+| 266 | 280 | Autumn Schaeffer |
 | 267 | 279 | Nika Bee |
 | 268 | 278 | Noel Tarmy |
 | 269 | 276 | Lindsey Leigh |
 | 270 | 276 | Vonceial Boone |
 | 271 | 276 | SwampRebel |
 | 272 | 275 | Cheeky Brickmatch |
-| 273 | 275 | Ann Matzkanin |
-| 274 | 275 | Shiny Rollzone |
+| 273 | 275 | Shiny Rollzone |
+| 274 | 275 | Ann Matzkanin |
 | 275 | 274 | Jamie Stevey |
 | 276 | 274 | Melissa Holsinger |
 | 277 | 274 | Lonne Emade |
@@ -293,8 +293,8 @@
 | 285 | 270 | Christina Ashley |
 | 286 | 270 | Angela Lynn |
 | 287 | 270 | Alexandra Weir |
-| 288 | 268 | Chummy Blockbuilder |
-| 289 | 268 | Tanya Parsons |
+| 288 | 268 | Tanya Parsons |
+| 289 | 268 | Chummy Blockbuilder |
 | 290 | 267 | Mindy Leigh Head |
 | 291 | 266 | Mighty Shatterfit |
 | 292 | 264 | Dapper Dasher |
@@ -341,8 +341,8 @@
 | 333 | 242 | Donna Chandler |
 | 334 | 242 | Lawanda Forbes |
 | 335 | 241 | Sabrina Burton |
-| 336 | 240 | Angie Marie |
-| 337 | 240 | Adam Erikson |
+| 336 | 240 | Adam Erikson |
+| 337 | 240 | Angie Marie |
 | 338 | 239 | Roger Grabbit |
 | 339 | 238 | Cheery Matchzone |
 | 340 | 236 | snkylnk |
@@ -389,8 +389,8 @@
 | 381 | 207 | Shylee Tilman |
 | 382 | 206 | Neko Preston |
 | 383 | 206 | RAEPR05 |
-| 384 | 205 | Lylymom |
-| 385 | 205 | ElizabethAnn Dickinson |
+| 384 | 205 | ElizabethAnn Dickinson |
+| 385 | 205 | Lylymom |
 | 386 | 204 | Ali Gralski |
 | 387 | 204 | Rebecca Doughman |
 | 388 | 203 | Gary Stash |
@@ -399,8 +399,8 @@
 | 391 | 200 | Sarah Ridenour |
 | 392 | 200 | LaWanda Powell |
 | 393 | 199 | Fi Ne |
-| 394 | 199 | Jessica Sutter |
-| 395 | 199 | Jenny Castro |
+| 394 | 199 | Jenny Castro |
+| 395 | 199 | Jessica Sutter |
 | 396 | 198 | Angie Bolton Workman |
 | 397 | 198 | Alyssa Dean |
 | 398 | 196 | Besma Ao |

@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 338 | Stephanie Zahn |
 | 33 | 307 | comrade fish |
@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 217 | Deanna L Hermanson |
 | 51 | 216 | Elaine Elaine |
-| 52 | 212 | Tdub |
-| 53 | 212 | Jaimie Lynn |
+| 52 | 212 | Jaimie Lynn |
+| 53 | 212 | Tdub |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -88,8 +88,8 @@
 | 80 | 162 | Patrick Luckenbill |
 | 81 | 161 | Abbey Crespo |
 | 82 | 156 | Jessie Lynn |
-| 83 | 155 | David DeSantis |
-| 84 | 155 | Standia Civil |
+| 83 | 155 | Standia Civil |
+| 84 | 155 | David DeSantis |
 | 85 | 153 | Shiny Gridmatch |
 | 86 | 152 | Jacqueline Unique |
 | 87 | 149 | Arianna O'Brien |

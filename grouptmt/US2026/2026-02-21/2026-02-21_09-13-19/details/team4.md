@@ -306,8 +306,8 @@
 | 298 | 54 | Hyper Builder |
 | 299 | 54 | Jonathan Mahfood |
 | 300 | 54 | Sam Bishop |
-| 301 | 53 | Poppy Brickmatch |
-| 302 | 53 | Allison Judith |
+| 301 | 53 | Allison Judith |
+| 302 | 53 | Poppy Brickmatch |
 | 303 | 52 | Chassidy Martin |
 | 304 | 52 | Nerdy Twisterfit |
 | 305 | 51 | Frank Cook |
@@ -627,8 +627,8 @@
 | 619 | 20 | Scott Burkett |
 | 620 | 20 | Marcus Cooper |
 | 621 | 20 | Neirrah B Olailjeel |
-| 622 | 20 | Elle Joe |
-| 623 | 20 | Peppy Strike |
+| 622 | 20 | Peppy Strike |
+| 623 | 20 | Elle Joe |
 | 624 | 19 | Steph Marie |
 | 625 | 19 | Austin Trent Weaver |
 | 626 | 19 | Jaime Ore Norcross |
@@ -662,8 +662,8 @@
 | 654 | 18 | Rhys Morgan |
 | 655 | 18 | George Castillo |
 | 656 | 18 | Alison Welsh |
-| 657 | 18 | Saucy Brickfit |
-| 658 | 18 | Eric Quan |
+| 657 | 18 | Eric Quan |
+| 658 | 18 | Saucy Brickfit |
 | 659 | 17 | Wacky Blockclear |
 | 660 | 17 | Marlisa Clark |
 | 661 | 17 | PurpleMoonMa |
