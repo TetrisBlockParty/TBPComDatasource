@@ -193,8 +193,8 @@
 | 185 | 541 | Giggy Blocker |
 | 186 | 541 | SaraMarie Eveland |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Stephen Stephen |
-| 189 | 534 | Teresa Gillmore |
+| 188 | 534 | Teresa Gillmore |
+| 189 | 534 | Stephen Stephen |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
@@ -217,8 +217,8 @@
 | 209 | 510 | Lisa Ongtowasruk |
 | 210 | 509 | Kelli Wells |
 | 211 | 504 | Cherica Taylor |
-| 212 | 503 | AISlop |
-| 213 | 503 | Adam Erikson |
+| 212 | 503 | Adam Erikson |
+| 213 | 503 | AISlop |
 | 214 | 502 | Magic steve |
 | 215 | 500 | tejas25 |
 | 216 | 497 | Juliana Marques Do Nascimento Gordy |
@@ -273,8 +273,8 @@
 | 265 | 423 | Shaun Church |
 | 266 | 422 | Mamachelle Eisweirth |
 | 267 | 419 | Amanda Ferrell |
-| 268 | 416 | Lina Sanders |
-| 269 | 416 | Crystie Hicks |
+| 268 | 416 | Crystie Hicks |
+| 269 | 416 | Lina Sanders |
 | 270 | 414 | Emily Lyric Converse |
 | 271 | 413 | Sam |
 | 272 | 412 | Hyper Cluster |
@@ -589,7 +589,7 @@
 | 581 | 209 | Britney M. |
 | 582 | 209 | Samantha Morgan |
 | 583 | 209 | Chummy Breaker |
-| 584 | 208 | Nerdy Riserfit |
+| 584 | 208 | Lauren Fitzgerald Thomas |
 | 585 | 208 | Ashley MoBetta Humes |
 | 586 | 208 | Nerdy Riserfit |
 | 587 | 207 | Nicolle Danielle |

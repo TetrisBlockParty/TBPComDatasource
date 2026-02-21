@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
@@ -122,10 +122,10 @@
 | 114 | 173 | Ren Mc |
 | 115 | 173 | blockstar |
 | 116 | 171 | Damn Libra |
-| 117 | 170 | Peachy Fall |
-| 118 | 170 | Girl |
-| 119 | 164 | ThaEviLJeNiuZ |
-| 120 | 164 | shark tato |
+| 117 | 170 | Girl |
+| 118 | 170 | Peachy Fall |
+| 119 | 164 | shark tato |
+| 120 | 164 | ThaEviLJeNiuZ |
 | 121 | 160 | Stacey Stano |
 | 122 | 160 | ZeeZee |
 | 123 | 159 | Dihcheese444 |
@@ -163,9 +163,9 @@
 | 155 | 131 | Diana Houts |
 | 156 | 131 | Angela Geist Jusinski |
 | 157 | 130 | Casey Jeffcoat |
-| 158 | 128 | Stephme310 |
-| 159 | 128 | TinyLegoRose |
-| 160 | 128 | Rio Rocha |
+| 158 | 128 | TinyLegoRose |
+| 159 | 128 | Rio Rocha |
+| 160 | 128 | Stephme310 |
 | 161 | 127 | Dreamy Snapgrid |
 | 162 | 125 | Ericca Eldridge |
 | 163 | 125 | AyeKay |

@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
@@ -188,8 +188,8 @@
 | 180 | 120 | Alenoush Karimian |
 | 181 | 119 | Tater |
 | 182 | 116 | Jessica Russell |
-| 183 | 115 | Mrs.Patrica |
-| 184 | 115 | Chuck Gannon |
+| 183 | 115 | Chuck Gannon |
+| 184 | 115 | Mrs.Patrica |
 | 185 | 113 | Desiree Deschaine Havee |
 | 186 | 112 | Chris65 |
 | 187 | 111 | Chirpy Smasher |
