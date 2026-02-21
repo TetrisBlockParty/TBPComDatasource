@@ -49,8 +49,8 @@
 | 41 | 205 | Trippy Redd |
 | 42 | 204 | Ly Phethmany |
 | 43 | 202 | Dee Perry |
-| 44 | 201 | Anaid Sanchez |
-| 45 | 201 | Ananda Mendez |
+| 44 | 201 | Ananda Mendez |
+| 45 | 201 | Anaid Sanchez |
 | 46 | 200 | Lexuriuos Lifestlye |
 | 47 | 198 | Billie Dawn Sparks |
 | 48 | 198 | Happy Snapbuild |
@@ -122,8 +122,8 @@
 | 114 | 96 | Melissa Lemmon |
 | 115 | 96 | Nery Martinez |
 | 116 | 95 | Spunky Piecebuilder |
-| 117 | 94 | Bindi |
-| 118 | 94 | Luciano Moreira |
+| 117 | 94 | Luciano Moreira |
+| 118 | 94 | Bindi |
 | 119 | 93 | Loony Fitzone |
 | 120 | 92 | Jessica Russell |
 | 121 | 90 | Madison Wicks |
@@ -131,8 +131,8 @@
 | 123 | 89 | Mizzledagod |
 | 124 | 89 | Mara Hilker |
 | 125 | 87 | Jessi Sauer |
-| 126 | 86 | Basment Living |
-| 127 | 86 | Desiree Deschaine Havee |
+| 126 | 86 | Desiree Deschaine Havee |
+| 127 | 86 | Basment Living |
 | 128 | 85 | Steve Schneider |
 | 129 | 84 | Yvonne Marie |
 | 130 | 84 | Charla Pross-Fugleberg |

@@ -170,8 +170,8 @@
 | 162 | 73 | bloat princess |
 | 163 | 72 | Joshua Cuellar |
 | 164 | 72 | Robin Getchel |
-| 165 | 71 | Marcela Johnson |
-| 166 | 71 | Joseph Pace |
+| 165 | 71 | Joseph Pace |
+| 166 | 71 | Marcela Johnson |
 | 167 | 71 | Lindsey Gonzalez |
 | 168 | 70 | Richard-April Kice |
 | 169 | 69 | Carol Ricks Raymond |
