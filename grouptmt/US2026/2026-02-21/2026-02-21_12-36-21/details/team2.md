@@ -268,8 +268,8 @@
 | 260 | 318 | Alexandra Weir |
 | 261 | 318 | Trista Dumais |
 | 262 | 317 | Heather Westrum |
-| 263 | 317 | bru |
-| 264 | 317 | Zombi3 |
+| 263 | 317 | Zombi3 |
+| 264 | 317 | bru |
 | 265 | 315 | Alisa Lamb |
 | 266 | 314 | NanDa Cruzan VI |
 | 267 | 314 | Amanda West |
@@ -391,8 +391,8 @@
 | 383 | 236 | Julio A Laracuente |
 | 384 | 235 | Kimberly Mitchell |
 | 385 | 235 | Mandi Douglas Hilt |
-| 386 | 234 | Jennifer Leigh |
-| 387 | 234 | Manny Trindade |
+| 386 | 234 | Manny Trindade |
+| 387 | 234 | Jennifer Leigh |
 | 388 | 234 | Jaybee Nguyen |
 | 389 | 233 | Jumpy Gridclear |
 | 390 | 233 | Nutty Matchline |
@@ -415,8 +415,8 @@
 | 407 | 222 | Amanda Canterbury |
 | 408 | 220 | Katrina Weston |
 | 409 | 220 | Sho Nuff |
-| 410 | 219 | Ashle Scranton |
-| 411 | 219 | Mema |
+| 410 | 219 | Mema |
+| 411 | 219 | Ashle Scranton |
 | 412 | 219 | Heather Schelkopf |
 | 413 | 216 | Tum |
 | 414 | 215 | Jordan Petro |
@@ -473,7 +473,7 @@
 | 465 | 184 | HarleyJane |
 | 466 | 184 | Regina Unruh |
 | 467 | 184 | Theresa Sterrett |
-| 468 | 184 | Regina Unruh |
+| 468 | 184 | Sassy Linkbuilder |
 | 469 | 183 | Lynzekwi |
 | 470 | 183 | Irene Jones |
 | 471 | 183 | Brenna Ann |

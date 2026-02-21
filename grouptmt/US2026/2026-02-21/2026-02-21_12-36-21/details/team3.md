@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Jennifer Willis |
-| 21 | 1015 | Josiah Fam |
+| 20 | 1015 | Josiah Fam |
+| 21 | 1015 | Jennifer Willis |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -118,16 +118,16 @@
 | 110 | 217 | Nicole Flippo |
 | 111 | 214 | Amy Fuller Heaton |
 | 112 | 213 | Tom Nault |
-| 113 | 212 | Kristie McFarland |
-| 114 | 212 | Shunta Jacobs |
+| 113 | 212 | Shunta Jacobs |
+| 114 | 212 | Kristie McFarland |
 | 115 | 211 | Katrina Schroeder |
 | 116 | 207 | rnr junky |
 | 117 | 206 | Stephanie Blkpep Davidson |
 | 118 | 204 | Aaron Pitkin |
 | 119 | 202 | Twisty Brick LT |
 | 120 | 199 | joclisa |
-| 121 | 195 | Nicha Hooker |
-| 122 | 195 | Jenny Hrndz |
+| 121 | 195 | Jenny Hrndz |
+| 122 | 195 | Nicha Hooker |
 | 123 | 194 | glichmod |
 | 124 | 193 | Stephanie Burtin |
 | 125 | 193 | Clever Shiftsnap |
@@ -152,8 +152,8 @@
 | 144 | 166 | Betty Rosas |
 | 145 | 166 | Kelly Ann Child |
 | 146 | 165 | Kali Kelz Williams |
-| 147 | 164 | DanceLuvLaugh |
-| 148 | 164 | rosy |
+| 147 | 164 | rosy |
+| 148 | 164 | DanceLuvLaugh |
 | 149 | 163 | Karon Griffin |
 | 150 | 163 | Stephanie Hill |
 | 151 | 160 | Tiffany Davie |

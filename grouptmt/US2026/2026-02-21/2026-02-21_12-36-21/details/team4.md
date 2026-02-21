@@ -143,10 +143,10 @@
 | 135 | 113 | Adam Randall |
 | 136 | 112 | Austin Owens |
 | 137 | 112 | Bryan Hodgins |
-| 138 | 112 | Austin Owens |
+| 138 | 112 | Jackie Marie |
 | 139 | 112 | Brittany Marsh |
-| 140 | 111 | Gwendolyn Pitcairn |
-| 141 | 111 | Lazy Blocker |
+| 140 | 111 | Lazy Blocker |
+| 141 | 111 | Gwendolyn Pitcairn |
 | 142 | 110 | YoMomma |
 | 143 | 110 | H.R. Block |
 | 144 | 107 | Marcus Todd |
@@ -450,7 +450,7 @@
 | 442 | 38 | Nig |
 | 443 | 37 | mistresscoundrl1 |
 | 444 | 37 | Patrick Cossette |
-| 445 | 37 | mistresscoundrl1 |
+| 445 | 37 | Lynette Manning |
 | 446 | 37 | Ren Mc |
 | 447 | 36 | Tamika Starkey |
 | 448 | 36 | Sassy Pattern |
