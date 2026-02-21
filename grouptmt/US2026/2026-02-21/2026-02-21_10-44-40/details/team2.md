@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | Ramone Armstrong |
-| 155 | 486 | MrsCandyfine As Wine Truss |
+| 154 | 486 | MrsCandyfine As Wine Truss |
+| 155 | 486 | Ramone Armstrong |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -202,8 +202,8 @@
 | 194 | 391 | Qiana Sanders |
 | 195 | 386 | Ashie Ann |
 | 196 | 386 | Macy Williams |
-| 197 | 385 | Arwa Fatimah |
-| 198 | 385 | Sam |
+| 197 | 385 | Sam |
+| 198 | 385 | Arwa Fatimah |
 | 199 | 381 | Amanda Ferrell |
 | 200 | 380 | Calandra Shaya Robinson |
 | 201 | 380 | Joshua Mandel |
@@ -229,8 +229,8 @@
 | 221 | 348 | Cherica Taylor |
 | 222 | 346 | Brandon Armstrong |
 | 223 | 345 | Brenda Messer |
-| 224 | 345 | Wuntayk |
-| 225 | 345 | Rhianna DiLorenzo |
+| 224 | 345 | Rhianna DiLorenzo |
+| 225 | 345 | Wuntayk |
 | 226 | 344 | Julie Kresal |
 | 227 | 344 | Christina Lewis-Vickers |
 | 228 | 343 | F-X |
@@ -299,8 +299,8 @@
 | 291 | 275 | Cheeky Brickmatch |
 | 292 | 274 | Lonne Emade |
 | 293 | 274 | Hyper Cluster |
-| 294 | 274 | Melissa Holsinger |
-| 295 | 274 | Jamie Stevey |
+| 294 | 274 | Jamie Stevey |
+| 295 | 274 | Melissa Holsinger |
 | 296 | 273 | Vanessa Moreno |
 | 297 | 273 | August Hale |
 | 298 | 273 | Jenna Nance |
@@ -353,8 +353,8 @@
 | 345 | 242 | Donna Chandler |
 | 346 | 242 | Lawanda Forbes |
 | 347 | 241 | Sabrina Burton |
-| 348 | 240 | Adam Erikson |
-| 349 | 240 | Angie Marie |
+| 348 | 240 | Angie Marie |
+| 349 | 240 | Adam Erikson |
 | 350 | 239 | Roger Grabbit |
 | 351 | 238 | Cheery Matchzone |
 | 352 | 236 | snkylnk |
@@ -365,8 +365,8 @@
 | 357 | 234 | Jennifer Leigh |
 | 358 | 234 | Manny Trindade |
 | 359 | 234 | Jaybee Nguyen |
-| 360 | 233 | Robin Kerby |
-| 361 | 233 | Jumpy Gridclear |
+| 360 | 233 | Jumpy Gridclear |
+| 361 | 233 | Robin Kerby |
 | 362 | 232 | Amber Brion |
 | 363 | 231 | Dylan Thomason |
 | 364 | 231 | Steve Man |

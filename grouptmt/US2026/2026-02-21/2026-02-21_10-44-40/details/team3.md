@@ -141,8 +141,8 @@
 | 133 | 178 | AlsoJess |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
-| 136 | 166 | Danielle Mogg |
-| 137 | 166 | Kelly Ann Child |
+| 136 | 166 | Kelly Ann Child |
+| 137 | 166 | Danielle Mogg |
 | 138 | 165 | Kali Kelz Williams |
 | 139 | 164 | rosy |
 | 140 | 163 | Karon Griffin |
@@ -169,11 +169,11 @@
 | 161 | 146 | Latoya Mayne |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
-| 164 | 140 | Jay Horn |
-| 165 | 140 | Gumbo |
+| 164 | 140 | Gumbo |
+| 165 | 140 | Jay Horn |
 | 166 | 135 | Cheryl Hinch Tenbrook |
-| 167 | 134 | DanceLuvLaugh |
-| 168 | 134 | Emma |
+| 167 | 134 | Emma |
+| 168 | 134 | DanceLuvLaugh |
 | 169 | 131 | Jl |
 | 170 | 130 | Carrie Huskey |
 | 171 | 129 | Logan Naccarato |

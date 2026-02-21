@@ -83,8 +83,8 @@
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Casey Grabner |
-| 79 | 165 | Courtney Cicoria |
+| 78 | 165 | Courtney Cicoria |
+| 79 | 165 | Casey Grabner |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Justin Hannigan |
 | 82 | 159 | Holly Jolly |
@@ -193,9 +193,9 @@
 | 185 | 85 | Marcus TheeyoungWoe Gilmore |
 | 186 | 84 | Perky Piecegrid |
 | 187 | 83 | Abigail Murphy |
-| 188 | 83 | Holly |
+| 188 | 83 | Avy Absol |
 | 189 | 83 | Joseph Gray |
-| 190 | 83 | Avy Absol |
+| 190 | 83 | Holly |
 | 191 | 82 | Jason Frehner |
 | 192 | 81 | Spicy Cascadezone |
 | 193 | 81 | Carlos Ramirez |
