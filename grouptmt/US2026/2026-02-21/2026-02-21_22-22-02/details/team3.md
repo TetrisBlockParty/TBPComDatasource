@@ -44,8 +44,8 @@
 | 36 | 996 | Danielle Cutler |
 | 37 | 989 | Kay |
 | 38 | 979 | Liv Whetson |
-| 39 | 928 | Stephanie Rice |
-| 40 | 928 | Snappy Fitzone |
+| 39 | 928 | Snappy Fitzone |
+| 40 | 928 | Stephanie Rice |
 | 41 | 891 | Fancy Slam |
 | 42 | 879 | Shonna Roberts |
 | 43 | 874 | Jessica Pineda-Lopez |
@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | ren |
-| 150 | 256 | Judi Dobson |
+| 149 | 256 | Judi Dobson |
+| 150 | 256 | ren |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |
@@ -246,8 +246,8 @@
 | 238 | 163 | Christine Trester |
 | 239 | 162 | Stephanie Whitefield |
 | 240 | 160 | Tiffany Davie |
-| 241 | 159 | Jone |
-| 242 | 159 | Daryn Elliott |
+| 241 | 159 | Daryn Elliott |
+| 242 | 159 | Jone |
 | 243 | 157 | Sabrina Hardrick |
 | 244 | 157 | Patricia Gadsden |
 | 245 | 157 | Katrina E Jelks |
@@ -288,8 +288,8 @@
 | 280 | 137 | Cesar Barraza |
 | 281 | 137 | Rachel |
 | 282 | 136 | Sabrina Mansfield |
-| 283 | 135 | Terry Jo Jones |
-| 284 | 135 | Skinny Baldez |
+| 283 | 135 | Skinny Baldez |
+| 284 | 135 | Terry Jo Jones |
 | 285 | 134 | Tammy |
 | 286 | 134 | Kristian Thurman |
 | 287 | 133 | Jen Lewis |

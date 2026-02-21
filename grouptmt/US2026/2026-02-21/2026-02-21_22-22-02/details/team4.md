@@ -296,8 +296,8 @@
 | 288 | 86 | Joseph Edmonson |
 | 289 | 86 | Tony Pavelka |
 | 290 | 86 | Destiney Carter |
-| 291 | 86 | Jason Frehner |
-| 292 | 86 | amy |
+| 291 | 86 | amy |
+| 292 | 86 | Jason Frehner |
 | 293 | 85 | Chris Hartig |
 | 294 | 85 | Mimi |
 | 295 | 85 | Joseph Gray |

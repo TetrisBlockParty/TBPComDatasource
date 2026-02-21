@@ -322,10 +322,10 @@
 | 314 | 436 | Melissa Kay Gibson |
 | 315 | 435 | Kimberly Randesi |
 | 316 | 433 | Victor Obiakarije |
-| 317 | 428 | Rhonda Milstead |
-| 318 | 428 | Crystie Hicks |
-| 319 | 427 | Destiny Cozier |
-| 320 | 427 | Amanda Ferrell |
+| 317 | 428 | Crystie Hicks |
+| 318 | 428 | Rhonda Milstead |
+| 319 | 427 | Amanda Ferrell |
+| 320 | 427 | Destiny Cozier |
 | 321 | 425 | Skyler Morgan |
 | 322 | 425 | Julay |
 | 323 | 424 | Regina Young |
