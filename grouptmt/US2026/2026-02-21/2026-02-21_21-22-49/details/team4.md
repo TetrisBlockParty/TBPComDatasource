@@ -128,16 +128,16 @@
 | 120 | 185 | Peachy Fall |
 | 121 | 185 | Andy Cabral |
 | 122 | 184 | Justin Hannigan |
-| 123 | 181 | Savannah Overdorf |
-| 124 | 181 | Carter Jones |
-| 125 | 181 | Andria Lynn |
+| 123 | 181 | Carter Jones |
+| 124 | 181 | Andria Lynn |
+| 125 | 181 | Savannah Overdorf |
 | 126 | 180 | Leah Kutz Zirbel |
 | 127 | 178 | Lori |
 | 128 | 176 | Klo |
 | 129 | 176 | Stacey Stano |
 | 130 | 174 | shark tato |
-| 131 | 174 | Dihcheese444 |
-| 132 | 174 | Zethra Prenisha Rahming |
+| 131 | 174 | Zethra Prenisha Rahming |
+| 132 | 174 | Dihcheese444 |
 | 133 | 173 | Twisty Cascadezone |
 | 134 | 173 | blockstar |
 | 135 | 173 | Ren Mc |
@@ -146,8 +146,8 @@
 | 138 | 164 | ThaEviLJeNiuZ |
 | 139 | 164 | 030Synner |
 | 140 | 160 | ZeeZee |
-| 141 | 156 | Holly |
-| 142 | 156 | Jessica Bohlken |
+| 141 | 156 | Jessica Bohlken |
+| 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Bethany Ison |
 | 145 | 151 | Avy Absol |
@@ -155,9 +155,9 @@
 | 147 | 149 | Roger Coulter |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
-| 150 | 147 | Chair |
-| 151 | 147 | Shainne Brewer |
-| 152 | 147 | Jay28 |
+| 150 | 147 | Jay28 |
+| 151 | 147 | Chair |
+| 152 | 147 | Shainne Brewer |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
 | 155 | 141 | Malakai Darien Fox |
@@ -172,8 +172,8 @@
 | 164 | 136 | Sarah Brown |
 | 165 | 135 | Stephme310 |
 | 166 | 135 | Victoria Faniel |
-| 167 | 134 | Kim Klutz Olson |
-| 168 | 134 | Chirpy Basepiece |
+| 167 | 134 | Chirpy Basepiece |
+| 168 | 134 | Kim Klutz Olson |
 | 169 | 134 | Zany Shatterer |
 | 170 | 133 | Angela Geist Jusinski |
 | 171 | 132 | Melissa Priest Sellers |
@@ -213,8 +213,8 @@
 | 205 | 118 | Mary Ann Pabukis |
 | 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
-| 208 | 115 | Ultramarine |
-| 209 | 115 | Jayk |
+| 208 | 115 | Jayk |
+| 209 | 115 | Ultramarine |
 | 210 | 115 | Sam Middleton |
 | 211 | 115 | Tyler Terrific |
 | 212 | 115 | Nubian1 |

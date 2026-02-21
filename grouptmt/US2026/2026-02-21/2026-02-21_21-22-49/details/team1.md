@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 583 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 533 | Tipsy Column |
 | 37 | 521 | Hyp James NObettadanluvarat |
@@ -95,15 +95,15 @@
 | 87 | 272 | Sarah Roberts |
 | 88 | 270 | Jennifer ManWarren |
 | 89 | 266 | Bhelle Sumile |
-| 90 | 258 | Dandy Basegrid |
-| 91 | 258 | Kellie |
+| 90 | 258 | Kellie |
+| 91 | 258 | Dandy Basegrid |
 | 92 | 254 | Rachael |
 | 93 | 252 | Dena Kayy |
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Tana |
-| 98 | 240 | Elaine Elaine |
+| 97 | 240 | Elaine Elaine |
+| 98 | 240 | Tana |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
@@ -113,16 +113,16 @@
 | 105 | 222 | Kristen Gideon |
 | 106 | 219 | Lexuriuos Lifestlye |
 | 107 | 214 | Billie Dawn Sparks |
-| 108 | 212 | Jaimie Lynn |
-| 109 | 212 | Mandyy Rae |
+| 108 | 212 | Mandyy Rae |
+| 109 | 212 | Jaimie Lynn |
 | 110 | 211 | Marianita Garcia |
 | 111 | 210 | Ly Phethmany |
 | 112 | 204 | Ananda Mendez |
 | 113 | 203 | Giggly Builderline |
 | 114 | 198 | Happy Snapbuild |
 | 115 | 195 | Jason Jones |
-| 116 | 194 | Ash Galvan |
-| 117 | 194 | GATOR |
+| 116 | 194 | GATOR |
+| 117 | 194 | Ash Galvan |
 | 118 | 193 | Lachelle Dillon |
 | 119 | 192 | Shaykmia |
 | 120 | 191 | Diane Byrd |
@@ -142,20 +142,20 @@
 | 134 | 177 | ParisandCory Champagne |
 | 135 | 177 | Michael |
 | 136 | 176 | Basment Living |
-| 137 | 171 | David DeSantis |
-| 138 | 171 | Greg Premoe |
+| 137 | 171 | Greg Premoe |
+| 138 | 171 | David DeSantis |
 | 139 | 170 | Veronica Eve |
 | 140 | 169 | Abbey Crespo |
 | 141 | 168 | Standia Civil |
-| 142 | 166 | Rico Rico |
-| 143 | 166 | John Barron |
+| 142 | 166 | John Barron |
+| 143 | 166 | Rico Rico |
 | 144 | 165 | Nadine Velardo |
 | 145 | 164 | Katie Daniels |
 | 146 | 163 | Tyler Whitley |
 | 147 | 162 | Tanya Carpenter-Reynolds |
 | 148 | 161 | Jessie Lynn |
-| 149 | 156 | Tyler Werts |
-| 150 | 156 | Arianna O'Brien |
+| 149 | 156 | Arianna O'Brien |
+| 150 | 156 | Tyler Werts |
 | 151 | 155 | Cece Ibarra |
 | 152 | 154 | Irual Hctrab |
 | 153 | 153 | Shiny Gridmatch |
@@ -182,8 +182,8 @@
 | 174 | 138 | Death |
 | 175 | 138 | Cranky Pattern |
 | 176 | 137 | Cody Gates |
-| 177 | 136 | Dino |
-| 178 | 136 | Breanna Luna |
+| 177 | 136 | Breanna Luna |
+| 178 | 136 | Dino |
 | 179 | 135 | Guest |
 | 180 | 135 | Giddy Cascade |
 | 181 | 134 | Witty Builderfit |
@@ -201,8 +201,8 @@
 | 193 | 125 | Fmp |
 | 194 | 125 | Larry Tilton |
 | 195 | 124 | Cartier |
-| 196 | 122 | Melissa Lemmon |
-| 197 | 122 | Margo Wagner |
+| 196 | 122 | Margo Wagner |
+| 197 | 122 | Melissa Lemmon |
 | 198 | 121 | Mark Smith |
 | 199 | 120 | Kimmie Kimms |
 | 200 | 120 | Alenoush Karimian |

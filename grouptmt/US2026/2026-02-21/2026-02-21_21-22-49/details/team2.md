@@ -223,8 +223,8 @@
 | 215 | 561 | Kristopher Miller |
 | 216 | 556 | Shavonna Haynes |
 | 217 | 553 | Leslie Ann Carter |
-| 218 | 549 | Charvi' Carter |
-| 219 | 549 | Kaylee McCafferty |
+| 218 | 549 | Kaylee McCafferty |
+| 219 | 549 | Charvi' Carter |
 | 220 | 541 | Giggy Blocker |
 | 221 | 541 | SaraMarie Eveland |
 | 222 | 541 | Desiree Harris Rosch |
@@ -478,8 +478,8 @@
 | 470 | 303 | Crystal Greene |
 | 471 | 302 | stacey |
 | 472 | 301 | Audra Williams |
-| 473 | 301 | Dylan Thomason |
-| 474 | 301 | Claire |
+| 473 | 301 | Claire |
+| 474 | 301 | Dylan Thomason |
 | 475 | 301 | Funky Caster |
 | 476 | 299 | Megan Phillips |
 | 477 | 299 | Doowop40 |
@@ -527,14 +527,14 @@
 | 519 | 274 | Michelle Sager |
 | 520 | 273 | Jenna Nance |
 | 521 | 273 | Britt Stunkel |
-| 522 | 271 | Hong Tang |
-| 523 | 271 | Toni Lynn |
+| 522 | 271 | Toni Lynn |
+| 523 | 271 | Hong Tang |
 | 524 | 271 | Ann Marie Davis |
 | 525 | 270 | Kathryn Townsley |
 | 526 | 270 | Tim Dyer |
 | 527 | 270 | Santana Miyagi |
-| 528 | 269 | Gauri Shrotriya |
-| 529 | 269 | Reece Smith |
+| 528 | 269 | Reece Smith |
+| 529 | 269 | Gauri Shrotriya |
 | 530 | 269 | Susan Arnburg |
 | 531 | 268 | Min |
 | 532 | 266 | Jason Garnatz |
@@ -884,7 +884,7 @@
 | 876 | 158 | Toni Roberson |
 | 877 | 158 | SpaceCase085 |
 | 878 | 158 | Erica Dale |
-| 879 | 157 | Miranda Jackson |
+| 879 | 157 | Dap Duong |
 | 880 | 157 | Mandy Kachenmeister |
 | 881 | 157 | Miranda Jackson |
 | 882 | 157 | Sassy Pivot |
@@ -1222,7 +1222,7 @@
 | 1214 | 116 | Britni Deas |
 | 1215 | 116 | Misty Leigh |
 | 1216 | 115 | 2VAL1D |
-| 1217 | 115 | Dreamy Fitclear |
+| 1217 | 115 | Mikey |
 | 1218 | 115 | Lorie Richardson |
 | 1219 | 115 | Dreamy Fitclear |
 | 1220 | 115 | Robert Smith |

@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Stephanie Rice |
-| 35 | 928 | Snappy Fitzone |
+| 34 | 928 | Snappy Fitzone |
+| 35 | 928 | Stephanie Rice |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 879 | Shonna Roberts |
@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -99,8 +99,8 @@
 | 91 | 406 | Jay Horn |
 | 92 | 403 | Christine Filson |
 | 93 | 402 | Stephanie Simpson |
-| 94 | 394 | Mcathen |
-| 95 | 394 | joclisa |
+| 94 | 394 | joclisa |
+| 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
 | 98 | 390 | Annie Déè |
@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Ashley Muncey |
-| 138 | 271 | Leah Barnett |
+| 137 | 271 | Leah Barnett |
+| 138 | 271 | Ashley Muncey |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Angeline Joseph |
@@ -170,8 +170,8 @@
 | 162 | 223 | Jeana Gilbert |
 | 163 | 222 | Jimmie Clemons |
 | 164 | 222 | Hoppy Buildout |
-| 165 | 219 | Rebecca Bailey |
-| 166 | 219 | Shunta Jacobs |
+| 165 | 219 | Shunta Jacobs |
+| 166 | 219 | Rebecca Bailey |
 | 167 | 218 | LaNette Morgan |
 | 168 | 217 | Jess Bissett |
 | 169 | 214 | Jenny Hrndz |
@@ -180,9 +180,9 @@
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Khaleada McGill Banks |
 | 174 | 211 | Katrina Turner |
-| 175 | 207 | Jessica |
-| 176 | 207 | rnr junky |
-| 177 | 207 | Chris Bell |
+| 175 | 207 | rnr junky |
+| 176 | 207 | Chris Bell |
+| 177 | 207 | Jessica |
 | 178 | 205 | Sarah Moyer |
 | 179 | 204 | Danielle Allison |
 | 180 | 203 | Twisty Brick LT |
