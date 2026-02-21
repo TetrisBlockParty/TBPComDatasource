@@ -142,16 +142,16 @@
 | 134 | 126 | Dihcheese444 |
 | 135 | 126 | TinyLegoRose |
 | 136 | 124 | Allen Lloyd |
-| 137 | 123 | Angela Geist Jusinski |
-| 138 | 123 | Cherrish Duren |
+| 137 | 123 | Cherrish Duren |
+| 138 | 123 | Angela Geist Jusinski |
 | 139 | 122 | Sherri |
 | 140 | 121 | Smiley Tiltbuilder |
 | 141 | 121 | Megan Cutshaw |
 | 142 | 121 | Zany Shatterer |
 | 143 | 120 | Joshua Guess |
 | 144 | 120 | Roger Coulter |
-| 145 | 119 | Kristin Manee |
-| 146 | 119 | Gwendolyn Pitcairn |
+| 145 | 119 | Gwendolyn Pitcairn |
+| 146 | 119 | Kristin Manee |
 | 147 | 118 | Leslie Nicole |
 | 148 | 116 | Diana Houts |
 | 149 | 115 | Ultramarine |

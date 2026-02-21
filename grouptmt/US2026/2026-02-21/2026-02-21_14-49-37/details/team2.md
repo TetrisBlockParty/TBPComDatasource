@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -199,14 +199,14 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ariel |
-| 195 | 464 | Ryan Gunther |
+| 194 | 464 | Ryan Gunther |
+| 195 | 464 | Ariel |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
-| 199 | 453 | Mischelle Clay |
+| 199 | 453 | Osun Anuket Esu |
 | 200 | 453 | Em Chen |
-| 201 | 453 | Osun Anuket Esu |
+| 201 | 453 | Mischelle Clay |
 | 202 | 452 | Alezandra Smith |
 | 203 | 450 | Giggy Blocker |
 | 204 | 448 | Jojo Momma |
@@ -227,8 +227,8 @@
 | 219 | 411 | Ricky Fortune |
 | 220 | 409 | Sparkles |
 | 221 | 406 | Erin StFrancis |
-| 222 | 405 | Sarah Massey |
-| 223 | 405 | Christy Krissie |
+| 222 | 405 | Christy Krissie |
+| 223 | 405 | Sarah Massey |
 | 224 | 402 | Joshua Mandel |
 | 225 | 400 | Crystie Hicks |
 | 226 | 400 | Rhonda Milstead |
@@ -268,8 +268,8 @@
 | 260 | 356 | Deyawn Smith |
 | 261 | 355 | Shandrica Lowe |
 | 262 | 355 | Kristen O'Neal |
-| 263 | 354 | Tracy Wise |
-| 264 | 354 | Brave Dropmatch |
+| 263 | 354 | Brave Dropmatch |
+| 264 | 354 | Tracy Wise |
 | 265 | 353 | Cheery Matchzone |
 | 266 | 352 | ruth |
 | 267 | 351 | Tara Lynn Janes |

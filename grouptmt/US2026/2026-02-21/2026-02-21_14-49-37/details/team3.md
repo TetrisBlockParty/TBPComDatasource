@@ -144,8 +144,8 @@
 | 136 | 195 | Jenny Hrndz |
 | 137 | 194 | glichmod |
 | 138 | 193 | Stephanie Burtin |
-| 139 | 193 | Clever Shiftsnap |
-| 140 | 193 | Duane Bright |
+| 139 | 193 | Duane Bright |
+| 140 | 193 | Clever Shiftsnap |
 | 141 | 192 | Chasity |
 | 142 | 191 | Giddy Twistbuilder |
 | 143 | 191 | Scott Carleton |
@@ -177,11 +177,11 @@
 | 169 | 163 | Sashay Tapae Simpson |
 | 170 | 163 | Trisha Balmer |
 | 171 | 163 | Stephanie Hill |
-| 172 | 161 | BŘŰŤİÇŨŚ |
-| 173 | 161 | Nikki Pags |
+| 172 | 161 | Nikki Pags |
+| 173 | 161 | BŘŰŤİÇŨŚ |
 | 174 | 160 | Tiffany Davie |
-| 175 | 159 | Stephanie Whitefield |
-| 176 | 159 | Jone |
+| 175 | 159 | Jone |
+| 176 | 159 | Stephanie Whitefield |
 | 177 | 158 | Grams |
 | 178 | 157 | Nicholas Roddy |
 | 179 | 157 | Patricia Gadsden |
@@ -427,11 +427,11 @@
 | 419 | 70 | cherry 🍒pie |
 | 420 | 69 | Spunky Combofall |
 | 421 | 69 | Frilly Stackzone |
-| 422 | 69 | Kristian Thurman |
-| 423 | 69 | Lisa Feddeck |
-| 424 | 68 | Vaners |
+| 422 | 69 | Lisa Feddeck |
+| 423 | 69 | Kristian Thurman |
+| 424 | 68 | Tamara Deherrera |
 | 425 | 68 | Charles Perrone |
-| 426 | 68 | Tamara Deherrera |
+| 426 | 68 | Vaners |
 | 427 | 68 | Reina Roth |
 | 428 | 67 | Will Miller |
 | 429 | 67 | Romeo |

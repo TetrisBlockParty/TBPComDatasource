@@ -208,8 +208,8 @@
 | 200 | 89 | Mara Hilker |
 | 201 | 89 | Isodor |
 | 202 | 88 | MommaKFC |
-| 203 | 88 | Larry Tilton |
-| 204 | 88 | Sam Williams |
+| 203 | 88 | Sam Williams |
+| 204 | 88 | Larry Tilton |
 | 205 | 87 | Jenny Gingrich Fuentes |
 | 206 | 87 | Jessi Sauer |
 | 207 | 86 | Basment Living |
@@ -232,9 +232,9 @@
 | 224 | 80 | Brandi Egbert |
 | 225 | 80 | pjbeta |
 | 226 | 80 | Logan McFarland |
-| 227 | 79 | Cheeky Pop |
-| 228 | 79 | George Dalton |
-| 229 | 79 | Christina Torres |
+| 227 | 79 | George Dalton |
+| 228 | 79 | Christina Torres |
+| 229 | 79 | Cheeky Pop |
 | 230 | 78 | Kerry Lee Powell |
 | 231 | 77 | Silly Align |
 | 232 | 77 | Teddy Alexander |
