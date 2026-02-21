@@ -112,8 +112,8 @@
 | 104 | 658 | Pacynthia Williams |
 | 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Stephanie Chapman |
-| 108 | 649 | Anna Edwards |
+| 107 | 649 | Anna Edwards |
+| 108 | 649 | Stephanie Chapman |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
 | 111 | 631 | Loopy Clusterbuilder |

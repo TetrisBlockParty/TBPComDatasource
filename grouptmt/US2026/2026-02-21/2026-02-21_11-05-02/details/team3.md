@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -124,14 +124,14 @@
 | 116 | 202 | Shannon Matthew Byers |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
-| 125 | 191 | Scott Carleton |
-| 126 | 191 | Giddy Twistbuilder |
+| 125 | 191 | Giddy Twistbuilder |
+| 126 | 191 | Scott Carleton |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
@@ -139,20 +139,20 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
-| 142 | 159 | Mcathen |
-| 143 | 159 | Jone |
-| 144 | 159 | Morgan Martinez |
+| 142 | 159 | Jone |
+| 143 | 159 | Morgan Martinez |
+| 144 | 159 | Mcathen |
 | 145 | 158 | Grams |
-| 146 | 157 | Nicholas Roddy |
-| 147 | 157 | Patricia Gadsden |
+| 146 | 157 | Patricia Gadsden |
+| 147 | 157 | Nicholas Roddy |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
@@ -213,8 +213,8 @@
 | 205 | 113 | Brian Battjes |
 | 206 | 113 | Valerie Gendron |
 | 207 | 111 | Stephanie Zahm |
-| 208 | 110 | Danielle Weikel |
-| 209 | 110 | Stella |
+| 208 | 110 | Stella |
+| 209 | 110 | Danielle Weikel |
 | 210 | 110 | Tye Stovall |
 | 211 | 109 | Fredd Thomas |
 | 212 | 109 | Brave Brickster |

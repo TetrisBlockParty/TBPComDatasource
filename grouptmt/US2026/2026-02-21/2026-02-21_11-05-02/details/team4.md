@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -83,8 +83,8 @@
 | 75 | 170 | Girl |
 | 76 | 170 | Leah Kutz Zirbel |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Casey Grabner |
-| 79 | 165 | Courtney Cicoria |
+| 78 | 165 | Courtney Cicoria |
+| 79 | 165 | Casey Grabner |
 | 80 | 162 | Shauna Havard |
 | 81 | 160 | Carter Jones |
 | 82 | 159 | Holly Jolly |
