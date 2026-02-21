@@ -70,13 +70,13 @@
 | 62 | 93 | YoMomma |
 | 63 | 90 | ZeeZee |
 | 64 | 88 | Jenna McGeorge |
-| 65 | 87 | Brandi Durig |
-| 66 | 87 | Jen Caldwell |
-| 67 | 87 | Malakai Darien Fox |
+| 65 | 87 | Malakai Darien Fox |
+| 66 | 87 | Brandi Durig |
+| 67 | 87 | Jen Caldwell |
 | 68 | 86 | amy |
 | 69 | 85 | Mimi |
-| 70 | 81 | Michelle Parker |
-| 71 | 81 | Kesha Brady |
+| 70 | 81 | Kesha Brady |
+| 71 | 81 | Michelle Parker |
 | 72 | 80 | Shelly Chandler |
 | 73 | 79 | Zesty Twistbuilder |
 | 74 | 78 | Chilly Line |
@@ -88,10 +88,10 @@
 | 80 | 75 | 🥔🥔 Spudz |
 | 81 | 73 | Lauren Lamb |
 | 82 | 73 | Marie-Pier Desjardins |
-| 83 | 72 | Jae Job |
-| 84 | 72 | Joshua Cuellar |
-| 85 | 70 | Christina Black |
-| 86 | 70 | Melissa Adams |
+| 83 | 72 | Joshua Cuellar |
+| 84 | 72 | Jae Job |
+| 85 | 70 | Melissa Adams |
+| 86 | 70 | Christina Black |
 | 87 | 70 | Valerie Roberts |
 | 88 | 68 | Sam Middleton |
 | 89 | 68 | LS |
@@ -110,13 +110,13 @@
 | 102 | 61 | Richard-April Kice |
 | 103 | 60 | Dustee Craddock-Harrison |
 | 104 | 60 | Jessica Bohlken |
-| 105 | 60 | Dustee Craddock-Harrison |
+| 105 | 60 | Ahleek Mitchell |
 | 106 | 59 | Joseph Pace |
-| 107 | 57 | Justin Hannigan |
-| 108 | 57 | Carlos G Reyes |
+| 107 | 57 | Carlos G Reyes |
+| 108 | 57 | Justin Hannigan |
 | 109 | 57 | Stephanie Jones |
-| 110 | 56 | Maureen Flanigan |
-| 111 | 56 | Heather Tushner |
+| 110 | 56 | Heather Tushner |
+| 111 | 56 | Maureen Flanigan |
 | 112 | 56 | Chastity Mitchell |
 | 113 | 55 | mini |
 | 114 | 55 | RiahRose |

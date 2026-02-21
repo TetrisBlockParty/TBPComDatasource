@@ -89,7 +89,7 @@
 | 81 | 81 | Jennifer ManWarren |
 | 82 | 80 | Matt Cinelli |
 | 83 | 80 | pjbeta |
-| 84 | 80 | Matt Cinelli |
+| 84 | 80 | Josie Kirt |
 | 85 | 79 | Chris65 |
 | 86 | 78 | Carrie Beck Geartz |
 | 87 | 75 | Tyler L Hunt |

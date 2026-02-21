@@ -61,8 +61,8 @@
 | 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Shunta Jacobs |
-| 57 | 193 | Clever Shiftsnap |
+| 56 | 193 | Clever Shiftsnap |
+| 57 | 193 | Shunta Jacobs |
 | 58 | 187 | Speedy Bridger |
 | 59 | 185 | Danielle Cutler |
 | 60 | 184 | Jennie Beranek |
@@ -97,8 +97,8 @@
 | 89 | 113 | Jennifer Alvey |
 | 90 | 112 | Connie Mohler-Fair |
 | 91 | 111 | Joy Petroski |
-| 92 | 110 | Stella |
-| 93 | 110 | Tiff Vs Tiffany |
+| 92 | 110 | Tiff Vs Tiffany |
+| 93 | 110 | Stella |
 | 94 | 108 | Grams |
 | 95 | 107 | Bryan Byrd |
 | 96 | 105 | Hoppy Buildout |

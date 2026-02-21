@@ -47,7 +47,7 @@
 | 39 | 674 | Dannette Goldberg-Richards |
 | 40 | 658 | Vistabrat |
 | 41 | 658 | Pacynthia Williams |
-| 42 | 658 | Vistabrat |
+| 42 | 658 | Dreamy Blast |
 | 43 | 652 | E_Money04 |
 | 44 | 615 | Vo'Landa Reels |
 | 45 | 600 | Cool Snapclear |
