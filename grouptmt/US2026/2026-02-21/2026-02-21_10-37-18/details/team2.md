@@ -638,8 +638,8 @@
 | 630 | 133 | Gina Caulder |
 | 631 | 133 | Britt Woolston |
 | 632 | 133 | candy |
-| 633 | 133 | Rae Rae |
-| 634 | 133 | Epic Stackzone |
+| 633 | 133 | Epic Stackzone |
+| 634 | 133 | Rae Rae |
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Samie Dayle |
 | 637 | 132 | Chilly Rollblock |
@@ -957,8 +957,8 @@
 | 949 | 92 | Jacqueline Muellerleile |
 | 950 | 92 | Loony Dashy |
 | 951 | 92 | Tia Simmons |
-| 952 | 92 | Suzanne Wheeler |
-| 953 | 92 | Lashea Lyons |
+| 952 | 92 | Lashea Lyons |
+| 953 | 92 | Suzanne Wheeler |
 | 954 | 92 | Jelly |
 | 955 | 91 | Sienna Parsons |
 | 956 | 91 | Ængeli Haze |
