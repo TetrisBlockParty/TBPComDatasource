@@ -95,8 +95,8 @@
 | 87 | 81 | Michelle Parker |
 | 88 | 81 | Kesha Brady |
 | 89 | 80 | Melissa Adams |
-| 90 | 79 | Shainne Brewer |
-| 91 | 79 | Avy Absol |
+| 90 | 79 | Avy Absol |
+| 91 | 79 | Shainne Brewer |
 | 92 | 78 | Rebecca Moulton Pinciaro |
 | 93 | 78 | Chair |
 | 94 | 77 | Jae Job |

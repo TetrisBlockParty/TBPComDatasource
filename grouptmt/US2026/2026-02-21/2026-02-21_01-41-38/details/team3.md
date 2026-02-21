@@ -59,8 +59,8 @@
 | 51 | 240 | Nerdy Riseclear |
 | 52 | 239 | Lush Buildout |
 | 53 | 237 | MissTaylor |
-| 54 | 216 | Jennifer Willis |
-| 55 | 216 | Delilah belle |
+| 54 | 216 | Delilah belle |
+| 55 | 216 | Jennifer Willis |
 | 56 | 214 | Amy Fuller Heaton |
 | 57 | 210 | Zippy Strikesnap |
 | 58 | 210 | Fancy Slam |
@@ -72,8 +72,8 @@
 | 64 | 187 | Speedy Bridger |
 | 65 | 185 | Danielle Cutler |
 | 66 | 184 | Jennie Beranek |
-| 67 | 180 | Tessina Dewey-Mancino |
-| 68 | 180 | joclisa |
+| 67 | 180 | joclisa |
+| 68 | 180 | Tessina Dewey-Mancino |
 | 69 | 179 | Daira Largen |
 | 70 | 177 | Fallorina Susana |
 | 71 | 174 | Mykal Burton |
@@ -93,8 +93,8 @@
 | 85 | 135 | Latoya Mayne |
 | 86 | 134 | DanceLuvLaugh |
 | 87 | 131 | Emma |
-| 88 | 129 | Ashley Tookes |
-| 89 | 129 | Giddy Twistbuilder |
+| 88 | 129 | Giddy Twistbuilder |
+| 89 | 129 | Ashley Tookes |
 | 90 | 128 | Angel Mendez |
 | 91 | 127 | mjl574 |
 | 92 | 127 | Fancy Cascader |
@@ -151,8 +151,8 @@
 | 143 | 88 | Martin Bernier |
 | 144 | 86 | Dan Rob |
 | 145 | 85 | Kevin Russell |
-| 146 | 84 | Ava Petito |
-| 147 | 84 | Eon Harris |
+| 146 | 84 | Eon Harris |
+| 147 | 84 | Ava Petito |
 | 148 | 84 | Amanda L Baker |
 | 149 | 83 | LaTanya GeminiondaRise Johnson |
 | 150 | 82 | Clever Clearbuilder |
