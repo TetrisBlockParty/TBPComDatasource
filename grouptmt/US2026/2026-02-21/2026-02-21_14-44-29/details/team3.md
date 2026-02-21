@@ -99,8 +99,8 @@
 | 91 | 320 | Or Reznitsky |
 | 92 | 316 | Fancy Cascader |
 | 93 | 313 | Elaine Webb Graves |
-| 94 | 309 | Rich LeBlanc |
-| 95 | 309 | CeceGeGe |
+| 94 | 309 | CeceGeGe |
+| 95 | 309 | Rich LeBlanc |
 | 96 | 307 | Peggi Charon |
 | 97 | 307 | Blocked |
 | 98 | 302 | Makelini Mausia |
@@ -143,8 +143,8 @@
 | 135 | 195 | Jenny Hrndz |
 | 136 | 194 | glichmod |
 | 137 | 193 | Stephanie Burtin |
-| 138 | 193 | Duane Bright |
-| 139 | 193 | Clever Shiftsnap |
+| 138 | 193 | Clever Shiftsnap |
+| 139 | 193 | Duane Bright |
 | 140 | 192 | Chasity |
 | 141 | 191 | Giddy Twistbuilder |
 | 142 | 191 | Scott Carleton |
@@ -177,8 +177,8 @@
 | 169 | 163 | Sashay Tapae Simpson |
 | 170 | 163 | Trisha Balmer |
 | 171 | 163 | Stephanie Hill |
-| 172 | 161 | Nikki Pags |
-| 173 | 161 | BŘŰŤİÇŨŚ |
+| 172 | 161 | BŘŰŤİÇŨŚ |
+| 173 | 161 | Nikki Pags |
 | 174 | 160 | Tiffany Davie |
 | 175 | 159 | Jone |
 | 176 | 159 | Stephanie Whitefield |
@@ -280,8 +280,8 @@
 | 272 | 102 | Christian Luna |
 | 273 | 101 | Hyper Bridger |
 | 274 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 275 | 100 | Elizabeth Renee |
-| 276 | 100 | Demetrious Shaw Sr. |
+| 275 | 100 | Demetrious Shaw Sr. |
+| 276 | 100 | Elizabeth Renee |
 | 277 | 100 | Bobbi Moore |
 | 278 | 100 | Edwin Calvillo Jr. |
 | 279 | 100 | El Chapa |

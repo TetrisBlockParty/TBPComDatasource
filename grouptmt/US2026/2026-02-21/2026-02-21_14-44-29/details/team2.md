@@ -138,8 +138,8 @@
 | 130 | 631 | Peppy Zone |
 | 131 | 620 | BYM4L |
 | 132 | 619 | Jamie Otero |
-| 133 | 608 | John Bednarik |
-| 134 | 608 | Sommer Shope |
+| 133 | 608 | Sommer Shope |
+| 134 | 608 | John Bednarik |
 | 135 | 604 | Amber Shoemaker |
 | 136 | 603 | Cassie Maynard |
 | 137 | 602 | L3sli3 |
@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Leah Keesling |
-| 184 | 485 | Gene Mills |
+| 183 | 485 | Gene Mills |
+| 184 | 485 | Leah Keesling |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -226,8 +226,8 @@
 | 218 | 411 | Ricky Fortune |
 | 219 | 409 | Sparkles |
 | 220 | 406 | Erin StFrancis |
-| 221 | 405 | Sarah Massey |
-| 222 | 405 | Christy Krissie |
+| 221 | 405 | Christy Krissie |
+| 222 | 405 | Sarah Massey |
 | 223 | 402 | Joshua Mandel |
 | 224 | 400 | Rhonda Milstead |
 | 225 | 400 | Tammy Allen |
@@ -415,9 +415,9 @@
 | 407 | 247 | Andrea Devery Beck |
 | 408 | 247 | Fancy Twister |
 | 409 | 246 | Justin Hines |
-| 410 | 246 | Pocho Zavala |
-| 411 | 246 | Ashley Lopez |
-| 412 | 246 | Stephanie Lumanlan |
+| 410 | 246 | Ashley Lopez |
+| 411 | 246 | Stephanie Lumanlan |
+| 412 | 246 | Pocho Zavala |
 | 413 | 245 | Rachael Senard |
 | 414 | 245 | Robin Kerby |
 | 415 | 245 | Sanaa Nounoussa |

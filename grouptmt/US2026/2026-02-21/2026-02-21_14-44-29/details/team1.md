@@ -97,9 +97,9 @@
 | 89 | 180 | Erez Yosef |
 | 90 | 178 | Danielle Little-Daugherty |
 | 91 | 177 | Diane Byrd |
-| 92 | 173 | Frothy Pattern |
-| 93 | 173 | june october |
-| 94 | 173 | Jennifer Olewnik Soborowski |
+| 92 | 173 | Jennifer Olewnik Soborowski |
+| 93 | 173 | Frothy Pattern |
+| 94 | 173 | june october |
 | 95 | 171 | Greg Premoe |
 | 96 | 166 | Rico Rico |
 | 97 | 165 | GATOR |
@@ -116,8 +116,8 @@
 | 108 | 153 | Tanya Carpenter-Reynolds |
 | 109 | 153 | Shiny Gridmatch |
 | 110 | 152 | Jacqueline Unique |
-| 111 | 149 | Jennifer ManWarren |
-| 112 | 149 | Tana |
+| 111 | 149 | Tana |
+| 112 | 149 | Jennifer ManWarren |
 | 113 | 149 | Arianna O'Brien |
 | 114 | 148 | Shauntina Burke |
 | 115 | 146 | Irual Hctrab |
