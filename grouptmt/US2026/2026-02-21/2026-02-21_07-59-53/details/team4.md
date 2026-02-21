@@ -93,8 +93,8 @@
 | 85 | 141 | Malakai Darien Fox |
 | 86 | 140 | Shannon Ferrari |
 | 87 | 136 | Tanner Lund |
-| 88 | 134 | Jessica Bohlken |
-| 89 | 134 | Chirpy Basepiece |
+| 88 | 134 | Chirpy Basepiece |
+| 89 | 134 | Jessica Bohlken |
 | 90 | 133 | Robin Watters |
 | 91 | 132 | Jenna McGeorge |
 | 92 | 132 | Jessica Cagle |
@@ -138,11 +138,11 @@
 | 130 | 105 | TheNeesh50 |
 | 131 | 105 | TinyLegoRose |
 | 132 | 105 | AyeKay |
-| 133 | 105 | Dihcheese444 |
-| 134 | 105 | 🥔🥔 Spudz |
+| 133 | 105 | 🥔🥔 Spudz |
+| 134 | 105 | Dihcheese444 |
 | 135 | 104 | YoMomma |
-| 136 | 104 | Damn Libra |
-| 137 | 104 | Adam Randall |
+| 136 | 104 | Adam Randall |
+| 137 | 104 | Damn Libra |
 | 138 | 102 | Faja |
 | 139 | 101 | Michelle Morris |
 | 140 | 101 | Saulc1991 |
@@ -202,7 +202,7 @@
 | 194 | 75 | Christina Black |
 | 195 | 75 | Rosemary Foster |
 | 196 | 74 | Krs |
-| 197 | 73 | bloat princess |
+| 197 | 73 | Rheanda Weaskus |
 | 198 | 73 | Lynn Marie |
 | 199 | 73 | April Rondinone |
 | 200 | 73 | bloat princess |
@@ -297,8 +297,8 @@
 | 289 | 52 | Nerdy Twisterfit |
 | 290 | 52 | Chassidy Martin |
 | 291 | 52 | Nicole Silvers |
-| 292 | 51 | Frank Cook |
-| 293 | 51 | George Nutt |
+| 292 | 51 | George Nutt |
+| 293 | 51 | Frank Cook |
 | 294 | 50 | Elie Pean |
 | 295 | 50 | Christian Torres |
 | 296 | 50 | Kelly Duncan |

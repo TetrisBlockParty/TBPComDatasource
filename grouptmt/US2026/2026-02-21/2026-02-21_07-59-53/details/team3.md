@@ -43,8 +43,8 @@
 | 35 | 587 | Danielle Becker |
 | 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Snappy Glidepiece |
-| 39 | 546 | Dolores Falco |
+| 38 | 546 | Dolores Falco |
+| 39 | 546 | Snappy Glidepiece |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -73,8 +73,8 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
@@ -84,8 +84,8 @@
 | 76 | 321 | Tasha Schriewer |
 | 77 | 320 | Or Reznitsky |
 | 78 | 316 | Fancy Cascader |
-| 79 | 309 | Rich LeBlanc |
-| 80 | 309 | CeceGeGe |
+| 79 | 309 | CeceGeGe |
+| 80 | 309 | Rich LeBlanc |
 | 81 | 307 | Peggi Charon |
 | 82 | 300 | Sherika C. McDaniels |
 | 83 | 299 | Cynthia Castros-Hampton |
@@ -144,17 +144,17 @@
 | 136 | 156 | Joey Banks |
 | 137 | 155 | BŘŰŤİÇŨŚ |
 | 138 | 154 | Angela M. Fletcher |
-| 139 | 153 | Giddy Twistbuilder |
-| 140 | 153 | Beth Ingham |
+| 139 | 153 | Beth Ingham |
+| 140 | 153 | Giddy Twistbuilder |
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
-| 144 | 149 | Bea Miles |
-| 145 | 149 | Angel Mendez |
-| 146 | 149 | Trisha Balmer |
+| 144 | 149 | Trisha Balmer |
+| 145 | 149 | Bea Miles |
+| 146 | 149 | Angel Mendez |
 | 147 | 147 | Sashay Tapae Simpson |
-| 148 | 146 | Latoya Mayne |
-| 149 | 146 | Denita Mungro |
+| 148 | 146 | Denita Mungro |
+| 149 | 146 | Latoya Mayne |
 | 150 | 142 | Erica Anderson |
 | 151 | 140 | Jay Horn |
 | 152 | 140 | Gumbo |
@@ -175,8 +175,8 @@
 | 167 | 125 | Felicia Doxey |
 | 168 | 125 | Shimika Enay Wallace |
 | 169 | 124 | Cesar Barraza |
-| 170 | 123 | Kristie McFarland |
-| 171 | 123 | Terry Jo Jones |
+| 170 | 123 | Terry Jo Jones |
+| 171 | 123 | Kristie McFarland |
 | 172 | 123 | Sarajane Lokan |
 | 173 | 122 | Giggly Brickroll |
 | 174 | 122 | Katrina E Jelks |

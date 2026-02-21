@@ -250,8 +250,8 @@
 | 242 | 293 | Scott Treadway |
 | 243 | 293 | David Holliday |
 | 244 | 290 | Jessie McDougald |
-| 245 | 288 | Megan Phillips |
-| 246 | 288 | Elisheva Mizrachi |
+| 245 | 288 | Elisheva Mizrachi |
+| 246 | 288 | Megan Phillips |
 | 247 | 286 | Ryan Gunther |
 | 248 | 285 | June E Hanson |
 | 249 | 284 | Mamachelle Eisweirth |
@@ -441,8 +441,8 @@
 | 433 | 177 | Angel |
 | 434 | 177 | John |
 | 435 | 177 | Ryan Meilleur |
-| 436 | 176 | Jennifer Malloy - Cardy |
-| 437 | 176 | Trisha Gallagher |
+| 436 | 176 | Trisha Gallagher |
+| 437 | 176 | Jennifer Malloy - Cardy |
 | 438 | 175 | Snippy Rumbler |
 | 439 | 175 | Lucero Ramirez |
 | 440 | 175 | Shandrica Lowe |
