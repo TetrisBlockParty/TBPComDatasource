@@ -51,8 +51,8 @@
 | 43 | 205 | Trippy Redd |
 | 44 | 204 | Ly Phethmany |
 | 45 | 202 | Dee Perry |
-| 46 | 201 | Anaid Sanchez |
-| 47 | 201 | Ananda Mendez |
+| 46 | 201 | Ananda Mendez |
+| 47 | 201 | Anaid Sanchez |
 | 48 | 200 | Lexuriuos Lifestlye |
 | 49 | 198 | Billie Dawn Sparks |
 | 50 | 198 | Happy Snapbuild |
@@ -60,10 +60,10 @@
 | 52 | 196 | Felicia Lewis |
 | 53 | 194 | Sharon Reynolds |
 | 54 | 192 | Mandyy Rae |
-| 55 | 191 | Giggly Builderline |
-| 56 | 191 | Jazzy Framezone |
-| 57 | 190 | Sweetts |
-| 58 | 190 | Thorne Shumate |
+| 55 | 191 | Jazzy Framezone |
+| 56 | 191 | Giggly Builderline |
+| 57 | 190 | Thorne Shumate |
+| 58 | 190 | Sweetts |
 | 59 | 189 | Happy Basegrid |
 | 60 | 185 | Karin Gillen |
 | 61 | 173 | Frothy Pattern |
@@ -73,8 +73,8 @@
 | 65 | 166 | Rico Rico |
 | 66 | 163 | Chad Atchley |
 | 67 | 161 | Abbey Crespo |
-| 68 | 155 | David DeSantis |
-| 69 | 155 | Standia Civil |
+| 68 | 155 | Standia Civil |
+| 69 | 155 | David DeSantis |
 | 70 | 153 | Shiny Gridmatch |
 | 71 | 152 | Jacqueline Unique |
 | 72 | 152 | Jennifer Olewnik Soborowski |
@@ -83,8 +83,8 @@
 | 75 | 147 | Veronica Eve |
 | 76 | 145 | BigWeenie69 |
 | 77 | 145 | Lachelle Dillon |
-| 78 | 144 | Tanya Carpenter-Reynolds |
-| 79 | 144 | Plucky Ziggy |
+| 78 | 144 | Plucky Ziggy |
+| 79 | 144 | Tanya Carpenter-Reynolds |
 | 80 | 144 | femmefatale |
 | 81 | 143 | Sarah Marie |
 | 82 | 141 | Blaire Bruckoff |
@@ -93,8 +93,8 @@
 | 85 | 137 | Gary Gobin |
 | 86 | 133 | Brandi Huntington |
 | 87 | 132 | Davery Spencer Adair |
-| 88 | 130 | Trina Gee |
-| 89 | 130 | Dandy Basegrid |
+| 88 | 130 | Dandy Basegrid |
+| 89 | 130 | Trina Gee |
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
@@ -116,8 +116,8 @@
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |
-| 111 | 105 | Flashy Rotator |
-| 112 | 105 | Bhelle Sumile |
+| 111 | 105 | Bhelle Sumile |
+| 112 | 105 | Flashy Rotator |
 | 113 | 103 | Adryane Schnase |
 | 114 | 102 | Jennifer ManWarren |
 | 115 | 100 | Tami Luce Martin |

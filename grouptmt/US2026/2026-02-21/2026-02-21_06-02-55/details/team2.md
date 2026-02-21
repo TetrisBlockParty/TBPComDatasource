@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3588 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -106,8 +106,8 @@
 | 98 | 562 | Linda Pierce |
 | 99 | 542 | Rosa Franklin |
 | 100 | 541 | SaraMarie Eveland |
-| 101 | 540 | Thomas Hedrick |
-| 102 | 540 | Charvi' Carter |
+| 101 | 540 | Charvi' Carter |
+| 102 | 540 | Thomas Hedrick |
 | 103 | 534 | Poppy Snapper |
 | 104 | 531 | Chris Wanner |
 | 105 | 529 | Tonya Morgan |
@@ -159,8 +159,8 @@
 | 151 | 400 | Crystie Hicks |
 | 152 | 400 | Tammy Allen |
 | 153 | 397 | Ashley Guernsey-Martin |
-| 154 | 391 | Steven Marshaun |
-| 155 | 391 | Chilly Bridgepiece |
+| 154 | 391 | Chilly Bridgepiece |
+| 155 | 391 | Steven Marshaun |
 | 156 | 386 | Ashie Ann |
 | 157 | 386 | Jumpy Gridpiece |
 | 158 | 385 | Sam |
@@ -246,8 +246,8 @@
 | 238 | 271 | Toni Lynn |
 | 239 | 270 | Angela Lynn |
 | 240 | 270 | Alexandra Weir |
-| 241 | 268 | Vanessa Moreno |
-| 242 | 268 | Chummy Blockbuilder |
+| 241 | 268 | Chummy Blockbuilder |
+| 242 | 268 | Vanessa Moreno |
 | 243 | 267 | Mindy Leigh Head |
 | 244 | 266 | Em Chen |
 | 245 | 266 | Autumn Schaeffer |
@@ -378,12 +378,12 @@
 | 370 | 184 | Sassy Linkbuilder |
 | 371 | 183 | Shaun Church |
 | 372 | 183 | Ys Muhammed |
-| 373 | 182 | Donna M Carter |
-| 374 | 182 | Niceday |
-| 375 | 181 | Wacky Cascade |
-| 376 | 181 | Julay |
-| 377 | 180 | Jackie Lucas |
-| 378 | 180 | Peter Palestino |
+| 373 | 182 | Niceday |
+| 374 | 182 | Donna M Carter |
+| 375 | 181 | Julay |
+| 376 | 181 | Wacky Cascade |
+| 377 | 180 | Peter Palestino |
+| 378 | 180 | Jackie Lucas |
 | 379 | 179 | Wakanda Forever |
 | 380 | 179 | Desiree Harris Rosch |
 | 381 | 179 | Cat |
@@ -414,8 +414,8 @@
 | 406 | 169 | Lively Catcher |
 | 407 | 169 | Hyper Cluster |
 | 408 | 169 | Fi Ne |
-| 409 | 168 | HarleyJane |
-| 410 | 168 | Kati Russeau |
+| 409 | 168 | Kati Russeau |
+| 410 | 168 | HarleyJane |
 | 411 | 168 | Phil J. Grombliniak |
 | 412 | 167 | Sabrena Yeisley |
 | 413 | 165 | Cathy Bitters |

@@ -66,8 +66,8 @@
 | 58 | 165 | Casey Grabner |
 | 59 | 163 | Denise Carlson |
 | 60 | 160 | Carter Jones |
-| 61 | 159 | Holly Jolly |
-| 62 | 159 | Justin Hannigan |
+| 61 | 159 | Justin Hannigan |
+| 62 | 159 | Holly Jolly |
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 151 | BertMofo |
