@@ -156,10 +156,10 @@
 | 148 | 150 | Adele Rahman |
 | 149 | 150 | David Miller |
 | 150 | 149 | Arianna O'Brien |
-| 151 | 148 | Bouncy Grid |
-| 152 | 148 | Shauntina Burke |
-| 153 | 147 | Leslie Bush Yarbrough |
-| 154 | 147 | Davery Spencer Adair |
+| 151 | 148 | Shauntina Burke |
+| 152 | 148 | Bouncy Grid |
+| 153 | 147 | Davery Spencer Adair |
+| 154 | 147 | Leslie Bush Yarbrough |
 | 155 | 146 | Christy Jones |
 | 156 | 145 | Agustin Duarte Orozco |
 | 157 | 145 | Angela Fairbank |
@@ -177,8 +177,8 @@
 | 169 | 135 | Guest |
 | 170 | 135 | Cody Slav |
 | 171 | 134 | Witty Builderfit |
-| 172 | 133 | Luciano Moreira |
-| 173 | 133 | Breanna Luna |
+| 172 | 133 | Breanna Luna |
+| 173 | 133 | Luciano Moreira |
 | 174 | 132 | Mel Hogan |
 | 175 | 131 | Uhog SF |
 | 176 | 131 | Kimberly Garcia |
@@ -268,8 +268,8 @@
 | 260 | 89 | Itspaigebro |
 | 261 | 89 | Teddy Alexander |
 | 262 | 88 | Gewb |
-| 263 | 88 | Colleen Pinette |
-| 264 | 88 | DaRascal |
+| 263 | 88 | DaRascal |
+| 264 | 88 | Colleen Pinette |
 | 265 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 266 | 86 | Steven Collins |
 | 267 | 85 | weezy |

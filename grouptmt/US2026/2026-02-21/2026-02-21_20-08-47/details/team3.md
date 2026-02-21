@@ -108,16 +108,16 @@
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
-| 103 | 367 | Nerdy Riseclear |
-| 104 | 367 | mjl574 |
+| 103 | 367 | mjl574 |
+| 104 | 367 | Nerdy Riseclear |
 | 105 | 366 | Speedy Bridger |
 | 106 | 357 | Shannon Matthew Byers |
 | 107 | 356 | Adrian Marcel Pate |
 | 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
-| 111 | 323 | Sherry Ogden |
-| 112 | 323 | Ashley Raines |
+| 111 | 323 | Ashley Raines |
+| 112 | 323 | Sherry Ogden |
 | 113 | 321 | Dapper Snap |
 | 114 | 320 | Or Reznitsky |
 | 115 | 318 | Chasity |
@@ -216,11 +216,11 @@
 | 208 | 166 | Beth Ingham |
 | 209 | 166 | Betty Rosas |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Christine Trester |
-| 212 | 163 | Stephanie Hill |
+| 211 | 163 | Stephanie Hill |
+| 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | BŘŰŤİÇŨŚ |
-| 215 | 161 | Irene Arreguin |
+| 214 | 161 | Irene Arreguin |
+| 215 | 161 | BŘŰŤİÇŨŚ |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -237,7 +237,7 @@
 | 229 | 152 | Lesley Perez |
 | 230 | 152 | Shiny Zonebuilder |
 | 231 | 150 | Valerie Gendron |
-| 232 | 149 | Alexis Taylor |
+| 232 | 149 | Angel Mendez |
 | 233 | 149 | Peachy Rollfit |
 | 234 | 149 | Alexis Taylor |
 | 235 | 148 | Gumbo |
@@ -257,8 +257,8 @@
 | 249 | 142 | David Bardo |
 | 250 | 142 | Jl |
 | 251 | 141 | IamJust Neyamijah Washington Sr. |
-| 252 | 139 | Loopy Clusterer |
-| 253 | 139 | Funky Jumper |
+| 252 | 139 | Funky Jumper |
+| 253 | 139 | Loopy Clusterer |
 | 254 | 138 | Boldy Corner |
 | 255 | 137 | Joy Petroski |
 | 256 | 137 | Rebecca Bailey |
