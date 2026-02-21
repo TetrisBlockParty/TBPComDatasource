@@ -70,8 +70,8 @@
 | 62 | 577 | Danielle Mogg |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -114,8 +114,8 @@
 | 106 | 368 | Stephanie Woods |
 | 107 | 367 | mjl574 |
 | 108 | 367 | Nerdy Riseclear |
-| 109 | 366 | Speedy Bridger |
-| 110 | 366 | Adrian Marcel Pate |
+| 109 | 366 | Adrian Marcel Pate |
+| 110 | 366 | Speedy Bridger |
 | 111 | 350 | Tiff Vs Tiffany |
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |

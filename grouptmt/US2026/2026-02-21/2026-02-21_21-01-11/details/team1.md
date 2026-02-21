@@ -177,13 +177,13 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Death |
-| 173 | 138 | Cranky Pattern |
+| 172 | 138 | Cranky Pattern |
+| 173 | 138 | Death |
 | 174 | 137 | Cody Gates |
-| 175 | 136 | Breanna Luna |
-| 176 | 136 | Dino |
-| 177 | 135 | Giddy Cascade |
-| 178 | 135 | Guest |
+| 175 | 136 | Dino |
+| 176 | 136 | Breanna Luna |
+| 177 | 135 | Guest |
+| 178 | 135 | Giddy Cascade |
 | 179 | 134 | Witty Builderfit |
 | 180 | 134 | Brave Wrecker |
 | 181 | 132 | Tipsy Riseclear |
@@ -194,17 +194,17 @@
 | 186 | 130 | LD1 |
 | 187 | 130 | Aimee Horton |
 | 188 | 129 | Flashy Rotator |
-| 189 | 128 | lil mickey |
-| 190 | 128 | Barry Mac'Ockner |
+| 189 | 128 | Barry Mac'Ockner |
+| 190 | 128 | lil mickey |
 | 191 | 128 | Layzietyme |
-| 192 | 125 | Fmp |
-| 193 | 125 | Larry Tilton |
+| 192 | 125 | Larry Tilton |
+| 193 | 125 | Fmp |
 | 194 | 124 | Cartier |
 | 195 | 122 | Margo Wagner |
 | 196 | 122 | Melissa Lemmon |
 | 197 | 121 | Mark Smith |
-| 198 | 120 | Kimmie Kimms |
-| 199 | 120 | Alenoush Karimian |
+| 198 | 120 | Alenoush Karimian |
+| 199 | 120 | Kimmie Kimms |
 | 200 | 119 | Tater |
 | 201 | 118 | SavageBooty98 |
 | 202 | 116 | Jessica Russell |

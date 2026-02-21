@@ -92,8 +92,8 @@
 | 84 | 255 | Lindsay Ball |
 | 85 | 254 | Holly Jolly |
 | 86 | 237 | Lori Walker |
-| 87 | 230 | Lucas J Sutton |
-| 88 | 230 | Autum Leigh |
+| 87 | 230 | Autum Leigh |
+| 88 | 230 | Lucas J Sutton |
 | 89 | 224 | H.R. Block |
 | 90 | 221 | Alyssa Papen |
 | 91 | 220 | Joeliecea Cobb |
@@ -116,8 +116,8 @@
 | 108 | 197 | Swanky Fitline |
 | 109 | 196 | Jeff Brian Gates |
 | 110 | 194 | Zany Twisterfit |
-| 111 | 192 | Crystal Carroll |
-| 112 | 192 | Shauna Havard |
+| 111 | 192 | Shauna Havard |
+| 112 | 192 | Crystal Carroll |
 | 113 | 191 | loulou |
 | 114 | 189 | Calvin Dennis |
 | 115 | 188 | Katherine Crane |
@@ -146,22 +146,22 @@
 | 138 | 164 | ThaEviLJeNiuZ |
 | 139 | 160 | ZeeZee |
 | 140 | 157 | Chastity Mitchell |
-| 141 | 156 | Holly |
-| 142 | 156 | Jessica Bohlken |
+| 141 | 156 | Jessica Bohlken |
+| 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Avy Absol |
 | 145 | 151 | Bethany Ison |
 | 146 | 149 | Diana Houts |
 | 147 | 148 | Brittany Marsh |
 | 148 | 148 | Janita Parrish |
-| 149 | 147 | Chair |
-| 150 | 147 | Jay28 |
+| 149 | 147 | Jay28 |
+| 150 | 147 | Chair |
 | 151 | 147 | Shainne Brewer |
 | 152 | 145 | Daria Rycewicz |
 | 153 | 144 | Mr. Party |
-| 154 | 141 | ĥuf |
-| 155 | 141 | Malakai Darien Fox |
-| 156 | 141 | Marcus Todd |
+| 154 | 141 | Malakai Darien Fox |
+| 155 | 141 | Marcus Todd |
+| 156 | 141 | ĥuf |
 | 157 | 141 | Kathy Allen |
 | 158 | 140 | Shannon Ferrari |
 | 159 | 140 | John Brunetti |
@@ -206,9 +206,9 @@
 | 198 | 120 | Joshua Guess |
 | 199 | 120 | KayM |
 | 200 | 119 | Kristin Manee |
-| 201 | 119 | Judy Cox |
-| 202 | 119 | Nerdy Twisterfit |
-| 203 | 119 | Gwendolyn Pitcairn |
+| 201 | 119 | Nerdy Twisterfit |
+| 202 | 119 | Gwendolyn Pitcairn |
+| 203 | 119 | Judy Cox |
 | 204 | 118 | Mary Ann Pabukis |
 | 205 | 118 | Chris Bernstein |
 | 206 | 115 | Sam Middleton |
@@ -274,8 +274,8 @@
 | 266 | 92 | Christina Black |
 | 267 | 91 | Sunny Filler |
 | 268 | 91 | wombat |
-| 269 | 90 | Hyper Builder |
-| 270 | 90 | Carol Ricks Raymond |
+| 269 | 90 | Carol Ricks Raymond |
+| 270 | 90 | Hyper Builder |
 | 271 | 90 | No Strings Attached Ra |
 | 272 | 90 | Thomas Hettenhaus |
 | 273 | 89 | Jonathan Mahfood |

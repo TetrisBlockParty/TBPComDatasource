@@ -351,16 +351,16 @@
 | 343 | 384 | Mike Aprilliano |
 | 344 | 383 | Arkei Luster |
 | 345 | 382 | David Holliday |
-| 346 | 381 | Bubbly Snapfit |
-| 347 | 381 | Melissa Rebbe-Lehman |
-| 348 | 378 | TF Dyer |
-| 349 | 378 | Christina Ashley |
+| 346 | 381 | Melissa Rebbe-Lehman |
+| 347 | 381 | Bubbly Snapfit |
+| 348 | 378 | Christina Ashley |
+| 349 | 378 | TF Dyer |
 | 350 | 378 | Cody Nishimura |
 | 351 | 377 | Roy Salyer |
 | 352 | 376 | Caitlin Schmid |
-| 353 | 374 | Lee Harper |
+| 353 | 374 | Johnny Yeates |
 | 354 | 374 | Alexandra Weir |
-| 355 | 374 | Johnny Yeates |
+| 355 | 374 | Lee Harper |
 | 356 | 369 | Victoria Moore-Smith |
 | 357 | 369 | Tara Lynn Janes |
 | 358 | 369 | AkaLefty |
@@ -371,8 +371,8 @@
 | 363 | 365 | Audrey Jones |
 | 364 | 365 | Kayla |
 | 365 | 364 | Julie Kresal |
-| 366 | 364 | Shinette Dobson |
-| 367 | 364 | Lively Edgepiece |
+| 366 | 364 | Lively Edgepiece |
+| 367 | 364 | Shinette Dobson |
 | 368 | 362 | Tracy Wise |
 | 369 | 360 | Brenda Messer |
 | 370 | 358 | Alyssaaelena |
@@ -387,8 +387,8 @@
 | 379 | 354 | Dar |
 | 380 | 353 | Cheery Matchzone |
 | 381 | 352 | Juanita Lyons |
-| 382 | 352 | Tj Ball |
-| 383 | 352 | ruth |
+| 382 | 352 | ruth |
+| 383 | 352 | Tj Ball |
 | 384 | 351 | Rebecca Miller |
 | 385 | 350 | Fi Ne |
 | 386 | 350 | F-X |
@@ -718,8 +718,8 @@
 | 710 | 194 | Janitta Alvarez |
 | 711 | 193 | Brenda Pierpoint |
 | 712 | 193 | Seth Wrieden |
-| 713 | 193 | Brenda Pierpoint |
-| 714 | 193 | Giggy Grabber |
+| 713 | 193 | Giggy Grabber |
+| 714 | 193 | Kristen Casale Berry |
 | 715 | 193 | Kelly Ann McCormick |
 | 716 | 193 | D5wag2014 |
 | 717 | 192 | Leroy Jenkins |
@@ -805,8 +805,8 @@
 | 797 | 171 | Ashley Cooper Tharin |
 | 798 | 171 | Cleo Sims |
 | 799 | 170 | Rhonda Petro |
-| 800 | 170 | Hazel Spears |
-| 801 | 170 | Kenya Felix |
+| 800 | 170 | Kenya Felix |
+| 801 | 170 | Hazel Spears |
 | 802 | 170 | AndrewandShela Gornik |
 | 803 | 170 | Fae-Bulous |
 | 804 | 169 | Angela Murgia-Owen |
@@ -947,8 +947,8 @@
 | 939 | 147 | Jay Levy |
 | 940 | 147 | Lush Link |
 | 941 | 146 | Carrie Pike |
-| 942 | 146 | Sherry Aguinaga |
-| 943 | 146 | Tessa Gonzalez |
+| 942 | 146 | Tessa Gonzalez |
+| 943 | 146 | Sherry Aguinaga |
 | 944 | 145 | Chareen Lauritzen |
 | 945 | 145 | Chilly Rollblock |
 | 946 | 145 | Anastacio Hernandez |
