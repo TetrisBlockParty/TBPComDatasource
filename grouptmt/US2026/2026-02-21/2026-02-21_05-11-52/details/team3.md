@@ -88,8 +88,8 @@
 | 80 | 224 | Mykal Burton |
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
-| 83 | 218 | mjl574 |
-| 84 | 218 | Judi Dobson |
+| 83 | 218 | Judi Dobson |
+| 84 | 218 | mjl574 |
 | 85 | 214 | Amy Fuller Heaton |
 | 86 | 207 | rnr junky |
 | 87 | 206 | Stephanie Blkpep Davidson |
@@ -131,8 +131,8 @@
 | 123 | 140 | Jay Horn |
 | 124 | 139 | Angel Mendez |
 | 125 | 135 | Nicole Flippo |
-| 126 | 134 | DanceLuvLaugh |
-| 127 | 134 | Emma |
+| 126 | 134 | Emma |
+| 127 | 134 | DanceLuvLaugh |
 | 128 | 133 | Giddy Twistbuilder |
 | 129 | 131 | Jl |
 | 130 | 131 | Elaine Webb Graves |

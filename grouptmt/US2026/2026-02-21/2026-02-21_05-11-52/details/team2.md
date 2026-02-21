@@ -227,8 +227,8 @@
 | 219 | 274 | Victoria Moore-Smith |
 | 220 | 273 | Missie Lawson Gebhardt |
 | 221 | 273 | Jenna Nance |
-| 222 | 271 | Toni Lynn |
-| 223 | 271 | Lonne Emade |
+| 222 | 271 | Lonne Emade |
+| 223 | 271 | Toni Lynn |
 | 224 | 271 | Ann Marie Davis |
 | 225 | 270 | Alexandra Weir |
 | 226 | 269 | August Hale |

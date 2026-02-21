@@ -48,8 +48,8 @@
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
 | 42 | 195 | Livvy |
-| 43 | 194 | Rachel Anne |
-| 44 | 194 | Jamie Mann-Deichmann |
+| 43 | 194 | Jamie Mann-Deichmann |
+| 44 | 194 | Rachel Anne |
 | 45 | 190 | Brittney Orengo |
 | 46 | 185 | loulou |
 | 47 | 179 | Epic Curvetile |
@@ -152,8 +152,8 @@
 | 144 | 80 | Melissa Adams |
 | 145 | 79 | Shainne Brewer |
 | 146 | 79 | Nubian1 |
-| 147 | 78 | Jessica Miller |
-| 148 | 78 | Zesty Linkgrid |
+| 147 | 78 | Zesty Linkgrid |
+| 148 | 78 | Jessica Miller |
 | 149 | 77 | Chris Alexinas |
 | 150 | 77 | Elizabeth Sallas |
 | 151 | 76 | Bethany Ison |

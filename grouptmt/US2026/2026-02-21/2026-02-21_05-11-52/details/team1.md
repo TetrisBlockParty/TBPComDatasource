@@ -96,8 +96,8 @@
 | 88 | 119 | Irual Hctrab |
 | 89 | 119 | Tater |
 | 90 | 115 | comrade fish |
-| 91 | 114 | Michael |
-| 92 | 114 | Colleen Wise |
+| 91 | 114 | Colleen Wise |
+| 92 | 114 | Michael |
 | 93 | 114 | Giddy Cascade |
 | 94 | 113 | Evie Khalil |
 | 95 | 112 | Nicole Roseberry Weber |
@@ -110,8 +110,8 @@
 | 102 | 108 | Tavia |
 | 103 | 107 | Jodee Woods |
 | 104 | 106 | Ash Galvan |
-| 105 | 105 | Barry Mac'Ockner |
-| 106 | 105 | Flashy Rotator |
+| 105 | 105 | Flashy Rotator |
+| 106 | 105 | Barry Mac'Ockner |
 | 107 | 103 | Adryane Schnase |
 | 108 | 102 | Jennifer ManWarren |
 | 109 | 100 | Bhelle Sumile |
@@ -130,8 +130,8 @@
 | 122 | 89 | Mara Hilker |
 | 123 | 89 | Mizzledagod |
 | 124 | 87 | Jessi Sauer |
-| 125 | 86 | Desiree Deschaine Havee |
-| 126 | 86 | Basment Living |
+| 125 | 86 | Basment Living |
+| 126 | 86 | Desiree Deschaine Havee |
 | 127 | 85 | Steve Schneider |
 | 128 | 84 | Charla Pross-Fugleberg |
 | 129 | 84 | Jaimie Lynn |
