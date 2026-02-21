@@ -89,8 +89,8 @@
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
-| 84 | 148 | Shauntina Burke |
-| 85 | 148 | Jessie Lynn |
+| 84 | 148 | Jessie Lynn |
+| 85 | 148 | Shauntina Burke |
 | 86 | 147 | Veronica Eve |
 | 87 | 146 | Arianna O'Brien |
 | 88 | 145 | BigWeenie69 |

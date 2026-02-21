@@ -227,8 +227,8 @@
 | 219 | 323 | Briana Alexander |
 | 220 | 318 | Trista Dumais |
 | 221 | 317 | Heather Westrum |
-| 222 | 317 | Dizzy Zone |
-| 223 | 317 | bru |
+| 222 | 317 | bru |
+| 223 | 317 | Dizzy Zone |
 | 224 | 315 | Alisa Lamb |
 | 225 | 314 | Amanda West |
 | 226 | 312 | Michelle Pike |

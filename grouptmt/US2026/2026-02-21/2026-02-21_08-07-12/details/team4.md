@@ -96,8 +96,8 @@
 | 88 | 134 | Jessica Bohlken |
 | 89 | 134 | Chirpy Basepiece |
 | 90 | 133 | Robin Watters |
-| 91 | 132 | Jessica Cagle |
-| 92 | 132 | Jenna McGeorge |
+| 91 | 132 | Jenna McGeorge |
+| 92 | 132 | Jessica Cagle |
 | 93 | 132 | Degenerate |
 | 94 | 132 | Melissa Priest Sellers |
 | 95 | 131 | Dana Scott |
@@ -105,8 +105,8 @@
 | 97 | 131 | Zany Twisterfit |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | Landon Keith Graffeo |
-| 101 | 129 | John Brunetti |
+| 100 | 129 | John Brunetti |
+| 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Cherrish Duren |
 | 104 | 123 | Nugget |
@@ -148,8 +148,8 @@
 | 140 | 101 | Saulc1991 |
 | 141 | 100 | Alexandra Karavias |
 | 142 | 100 | Megan Cutshaw |
-| 143 | 98 | Duck |
-| 144 | 98 | Chaz |
+| 143 | 98 | Chaz |
+| 144 | 98 | Duck |
 | 145 | 98 | Allen Lloyd |
 | 146 | 97 | Brandi Durig |
 | 147 | 96 | Zappy Snaplink |
@@ -197,12 +197,12 @@
 | 189 | 78 | Zesty Linkgrid |
 | 190 | 77 | Zippy Gridlock |
 | 191 | 77 | Twisty Cascadezone |
-| 192 | 77 | Zippy Gridlock |
+| 192 | 77 | Marvin Lou Martin |
 | 193 | 77 | Chris Alexinas |
 | 194 | 76 | Bethany Ison |
 | 195 | 76 | Madison Sweere |
-| 196 | 75 | Rosemary Foster |
-| 197 | 75 | Christina Black |
+| 196 | 75 | Christina Black |
+| 197 | 75 | Rosemary Foster |
 | 198 | 74 | Krs |
 | 199 | 73 | bloat princess |
 | 200 | 73 | Lynn Marie |
@@ -377,7 +377,7 @@
 | 369 | 40 | KanVus |
 | 370 | 40 | Bussy Bay |
 | 371 | 40 | Tabi Williams |
-| 372 | 40 | KanVus |
+| 372 | 40 | slurp |
 | 373 | 40 | Alexis Kelly |
 | 374 | 39 | Saucy Stackbuilder |
 | 375 | 39 | Amber bamber |
