@@ -93,8 +93,8 @@
 | 85 | 320 | Or Reznitsky |
 | 86 | 316 | Fancy Cascader |
 | 87 | 313 | Elaine Webb Graves |
-| 88 | 309 | CeceGeGe |
-| 89 | 309 | Rich LeBlanc |
+| 88 | 309 | Rich LeBlanc |
+| 89 | 309 | CeceGeGe |
 | 90 | 307 | Peggi Charon |
 | 91 | 307 | Blocked |
 | 92 | 300 | Sherika C. McDaniels |
@@ -123,8 +123,8 @@
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
 | 117 | 212 | Shunta Jacobs |
-| 118 | 211 | Katrina Schroeder |
-| 119 | 211 | Jessica Bechler |
+| 118 | 211 | Jessica Bechler |
+| 119 | 211 | Katrina Schroeder |
 | 120 | 207 | rnr junky |
 | 121 | 206 | Stephanie Blkpep Davidson |
 | 122 | 204 | Aaron Pitkin |
@@ -158,8 +158,8 @@
 | 150 | 166 | Danielle Mogg |
 | 151 | 166 | Kelly Ann Child |
 | 152 | 165 | Kali Kelz Williams |
-| 153 | 164 | rosy |
-| 154 | 164 | DanceLuvLaugh |
+| 153 | 164 | DanceLuvLaugh |
+| 154 | 164 | rosy |
 | 155 | 163 | Karon Griffin |
 | 156 | 163 | Stephanie Hill |
 | 157 | 160 | Mcathen |
@@ -180,10 +180,10 @@
 | 172 | 150 | Nicole Myers |
 | 173 | 149 | Bea Miles |
 | 174 | 149 | Angel Mendez |
-| 175 | 147 | Desiree Gold |
-| 176 | 147 | Sashay Tapae Simpson |
-| 177 | 146 | Denita Mungro |
-| 178 | 146 | Latoya Mayne |
+| 175 | 147 | Sashay Tapae Simpson |
+| 176 | 147 | Desiree Gold |
+| 177 | 146 | Latoya Mayne |
+| 178 | 146 | Denita Mungro |
 | 179 | 145 | Bryan Byrd |
 | 180 | 145 | Rochelle Hazelett |
 | 181 | 142 | Erica Anderson |
@@ -485,7 +485,7 @@
 | 477 | 56 | Ernest Holloway |
 | 478 | 56 | Robert Sibigtroth |
 | 479 | 56 | Stormy Anguish |
-| 480 | 56 | Dakota Lee DeMarrias |
+| 480 | 56 | Tracy Marino |
 | 481 | 56 | Lisa Ann |
 | 482 | 56 | Dakota Lee DeMarrias |
 | 483 | 55 | Isabelle Hall-Burns |

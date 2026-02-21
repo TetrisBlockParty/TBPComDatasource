@@ -172,8 +172,8 @@
 | 164 | 495 | Poppy Snap |
 | 165 | 488 | Teresa Gillmore |
 | 166 | 486 | MrsCandyfine As Wine Truss |
-| 167 | 485 | Leah Keesling |
-| 168 | 485 | Gene Mills |
+| 167 | 485 | Gene Mills |
+| 168 | 485 | Leah Keesling |
 | 169 | 484 | Suki Kaur |
 | 170 | 483 | Jordan Kaiser |
 | 171 | 482 | Eckoman518 |
@@ -192,8 +192,8 @@
 | 184 | 453 | Em Chen |
 | 185 | 453 | Mischelle Clay |
 | 186 | 452 | Alezandra Smith |
-| 187 | 450 | Cheech Dta |
-| 188 | 450 | Giggy Blocker |
+| 187 | 450 | Giggy Blocker |
+| 188 | 450 | Cheech Dta |
 | 189 | 448 | Jojo Momma |
 | 190 | 442 | Daphne Jordan |
 | 191 | 442 | Leah |
@@ -209,15 +209,15 @@
 | 201 | 409 | Sparkles |
 | 202 | 406 | Erin StFrancis |
 | 203 | 402 | Joshua Mandel |
-| 204 | 400 | Tammy Allen |
-| 205 | 400 | Rhonda Milstead |
+| 204 | 400 | Rhonda Milstead |
+| 205 | 400 | Tammy Allen |
 | 206 | 400 | Crystie Hicks |
 | 207 | 397 | Ashley Guernsey-Martin |
 | 208 | 397 | coleksquad |
 | 209 | 396 | Steven Marshaun |
 | 210 | 393 | Altamirano Michael |
-| 211 | 391 | Chilly Bridgepiece |
-| 212 | 391 | Brenda Utphall |
+| 211 | 391 | Brenda Utphall |
+| 212 | 391 | Chilly Bridgepiece |
 | 213 | 391 | Qiana Sanders |
 | 214 | 390 | Lylymom |
 | 215 | 390 | Vaniel Glover |
@@ -613,8 +613,8 @@
 | 605 | 148 | AgileDragon |
 | 606 | 148 | Cleo Sims |
 | 607 | 147 | Melissa Kay Gibson |
-| 608 | 147 | Smiley Strike |
-| 609 | 147 | Sassy Pivot |
+| 608 | 147 | Sassy Pivot |
+| 609 | 147 | Smiley Strike |
 | 610 | 146 | Gemini Washington |
 | 611 | 146 | Sherry Aguinaga |
 | 612 | 146 | Ibiza Carolina LaRose |

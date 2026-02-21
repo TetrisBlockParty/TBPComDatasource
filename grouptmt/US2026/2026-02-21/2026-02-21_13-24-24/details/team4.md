@@ -87,8 +87,8 @@
 | 79 | 173 | Zethra Prenisha Rahming |
 | 80 | 173 | Jeff Brian Gates |
 | 81 | 171 | Melvin Baird |
-| 82 | 170 | Girl |
-| 83 | 170 | Justin Hannigan |
+| 82 | 170 | Justin Hannigan |
+| 83 | 170 | Girl |
 | 84 | 168 | Robin Getchel |
 | 85 | 167 | TeeJ |
 | 86 | 167 | Denise Carlson |
