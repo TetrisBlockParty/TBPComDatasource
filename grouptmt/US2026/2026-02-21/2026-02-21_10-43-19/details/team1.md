@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Chipper Gridlock |
-| 33 | 348 | Stef Hu |
+| 32 | 348 | Stef Hu |
+| 33 | 348 | Chipper Gridlock |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -50,8 +50,8 @@
 | 42 | 274 | Sweet Baker |
 | 43 | 274 | Theo Pinnow |
 | 44 | 258 | Shauna Loe |
-| 45 | 256 | Tipsy Column |
-| 46 | 256 | Robert Benito |
+| 45 | 256 | Robert Benito |
+| 46 | 256 | Tipsy Column |
 | 47 | 253 | Bhelle Sumile |
 | 48 | 244 | Franswa |
 | 49 | 243 | Sarah Roberts |
@@ -93,12 +93,12 @@
 | 85 | 162 | Patrick Luckenbill |
 | 86 | 161 | Abbey Crespo |
 | 87 | 156 | Jessie Lynn |
-| 88 | 155 | David DeSantis |
-| 89 | 155 | Standia Civil |
+| 88 | 155 | Standia Civil |
+| 89 | 155 | David DeSantis |
 | 90 | 153 | Shiny Gridmatch |
 | 91 | 152 | Jacqueline Unique |
-| 92 | 149 | Tana |
-| 93 | 149 | Arianna O'Brien |
+| 92 | 149 | Arianna O'Brien |
+| 93 | 149 | Tana |
 | 94 | 148 | Shauntina Burke |
 | 95 | 147 | Veronica Eve |
 | 96 | 145 | BigWeenie69 |

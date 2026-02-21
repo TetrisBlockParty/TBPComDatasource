@@ -133,8 +133,8 @@
 | 125 | 191 | Scott Carleton |
 | 126 | 189 | Fallorina Susana |
 | 127 | 184 | Jennie Beranek |
-| 128 | 182 | Hyper Matchzone |
-| 129 | 182 | Ashley Tookes |
+| 128 | 182 | Ashley Tookes |
+| 129 | 182 | Hyper Matchzone |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
 | 132 | 178 | AlsoJess |
@@ -151,13 +151,13 @@
 | 143 | 159 | Mcathen |
 | 144 | 159 | Jone |
 | 145 | 158 | Grams |
-| 146 | 157 | Patricia Gadsden |
-| 147 | 157 | Nicholas Roddy |
+| 146 | 157 | Nicholas Roddy |
+| 147 | 157 | Patricia Gadsden |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Stephanie Whitefield |
-| 152 | 153 | Beth Ingham |
+| 151 | 153 | Beth Ingham |
+| 152 | 153 | Stephanie Whitefield |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |

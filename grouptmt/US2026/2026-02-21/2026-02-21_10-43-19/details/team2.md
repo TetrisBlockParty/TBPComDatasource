@@ -286,8 +286,8 @@
 | 278 | 282 | Carl Bradshaw |
 | 279 | 282 | Shaun Church |
 | 280 | 281 | Maegan Beaule |
-| 281 | 280 | Shorty |
-| 282 | 280 | Autumn Schaeffer |
+| 281 | 280 | Autumn Schaeffer |
+| 282 | 280 | Shorty |
 | 283 | 278 | Noel Tarmy |
 | 284 | 278 | Peachy Blockbuilder |
 | 285 | 276 | Vonceial Boone |
@@ -325,11 +325,11 @@
 | 317 | 257 | Shameika Trail |
 | 318 | 257 | Lyndi Robinson Wakefield |
 | 319 | 256 | Giddy Gridclear |
-| 320 | 256 | CC |
-| 321 | 256 | Tee Jaleesa |
+| 320 | 256 | Tee Jaleesa |
+| 321 | 256 | CC |
 | 322 | 255 | Santana Miyagi |
-| 323 | 254 | Elizabeth Diraffaele |
-| 324 | 254 | Rose Fx |
+| 323 | 254 | Rose Fx |
+| 324 | 254 | Elizabeth Diraffaele |
 | 325 | 254 | Julie Hamilton |
 | 326 | 253 | Tansaria Couch-Butler |
 | 327 | 252 | Matt Johnson |
@@ -350,8 +350,8 @@
 | 342 | 245 | Rachael Senard |
 | 343 | 245 | Sanaa Nounoussa |
 | 344 | 244 | Aimee Byrom |
-| 345 | 242 | Donna Chandler |
-| 346 | 242 | Lawanda Forbes |
+| 345 | 242 | Lawanda Forbes |
+| 346 | 242 | Donna Chandler |
 | 347 | 241 | Sabrina Burton |
 | 348 | 240 | Adam Erikson |
 | 349 | 240 | Angie Marie |
@@ -409,11 +409,11 @@
 | 401 | 204 | Rebecca Doughman |
 | 402 | 203 | Gary Stash |
 | 403 | 201 | Peppy Snapfall |
-| 404 | 200 | LaWanda Powell |
-| 405 | 200 | Sarah Ridenour |
+| 404 | 200 | Sarah Ridenour |
+| 405 | 200 | LaWanda Powell |
 | 406 | 199 | Fi Ne |
-| 407 | 199 | Jenny Castro |
-| 408 | 199 | Jessica Sutter |
+| 407 | 199 | Jessica Sutter |
+| 408 | 199 | Jenny Castro |
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Samantha Roberts |
@@ -709,8 +709,8 @@
 | 701 | 122 | Mia Muse Best |
 | 702 | 122 | Shakena Tuggle |
 | 703 | 122 | Chere Kelly |
-| 704 | 121 | Pam Doughty |
-| 705 | 121 | Kitybox |
+| 704 | 121 | Kitybox |
+| 705 | 121 | Pam Doughty |
 | 706 | 121 | g |
 | 707 | 120 | Rebecca Crosby |
 | 708 | 120 | Janet Marie Vega |
@@ -731,7 +731,7 @@
 | 723 | 118 | Tammie Siegfried |
 | 724 | 118 | Emilie Victoria Cordero |
 | 725 | 118 | Amanda Perez |
-| 726 | 117 | Kelli Clark |
+| 726 | 117 | Theresa Ring |
 | 727 | 117 | Cody Kelsey |
 | 728 | 117 | Kelli Clark |
 | 729 | 117 | Keri Higuchi |
