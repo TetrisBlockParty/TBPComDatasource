@@ -224,8 +224,8 @@
 | 216 | 619 | Jamie Otero |
 | 217 | 618 | Gabby Jenner |
 | 218 | 615 | Auntie B |
-| 219 | 608 | goofinoff |
-| 220 | 608 | Sommer Shope |
+| 219 | 608 | Sommer Shope |
+| 220 | 608 | goofinoff |
 | 221 | 605 | Jelly |
 | 222 | 603 | Cassie Maynard |
 | 223 | 602 | Brandon Armstrong |
@@ -357,15 +357,15 @@
 | 349 | 406 | Erin StFrancis |
 | 350 | 406 | Tj Ball |
 | 351 | 406 | Julie Kresal |
-| 352 | 405 | Sarah Massey |
-| 353 | 405 | Christy Krissie |
+| 352 | 405 | Christy Krissie |
+| 353 | 405 | Sarah Massey |
 | 354 | 403 | Tonya Lee |
 | 355 | 402 | Brandy Andre |
 | 356 | 401 | Taylor Flowers |
 | 357 | 400 | Tammy Allen |
 | 358 | 400 | Catina Hutchison |
-| 359 | 399 | Steven Marshaun |
-| 360 | 399 | Juanita Lyons |
+| 359 | 399 | Juanita Lyons |
+| 360 | 399 | Steven Marshaun |
 | 361 | 398 | Brenda Utphall |
 | 362 | 398 | Moni Foxe |
 | 363 | 397 | coleksquad |
@@ -644,8 +644,8 @@
 | 636 | 234 | Kay Stevenson |
 | 637 | 234 | Jaybee Nguyen |
 | 638 | 233 | Nutty Matchline |
-| 639 | 233 | Myleaha Holley |
-| 640 | 233 | Epic Spinfit |
+| 639 | 233 | Epic Spinfit |
+| 640 | 233 | Myleaha Holley |
 | 641 | 233 | Jumpy Gridclear |
 | 642 | 232 | Tom Steffen |
 | 643 | 232 | Ys Muhammed |
@@ -778,11 +778,11 @@
 | 770 | 193 | TJ Nash |
 | 771 | 193 | Miranda Morris |
 | 772 | 192 | Leroy Jenkins |
-| 773 | 192 | Taylor Phillips |
-| 774 | 192 | Snippy Rumbler |
+| 773 | 192 | Snippy Rumbler |
+| 774 | 192 | Taylor Phillips |
 | 775 | 191 | Nicol Craven |
-| 776 | 190 | Elizabeth Pearson |
-| 777 | 190 | Jessica Kaye DeAguero |
+| 776 | 190 | Jessica Kaye DeAguero |
+| 777 | 190 | Elizabeth Pearson |
 | 778 | 190 | LaFaye Rivers |
 | 779 | 190 | Nat |
 | 780 | 190 | BIG BABY |

@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | quicksand420 |
-| 68 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | quicksand420 |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -133,8 +133,8 @@
 | 125 | 196 | Jeff Brian Gates |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Stacey Stano |
-| 129 | 189 | Calvin Dennis |
+| 128 | 189 | Calvin Dennis |
+| 129 | 189 | Stacey Stano |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |

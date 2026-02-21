@@ -121,8 +121,8 @@
 | 113 | 378 | Tasha Schriewer |
 | 114 | 378 | Makelini Mausia |
 | 115 | 377 | Jesse Olive |
-| 116 | 368 | Stephanie Blkpep Davidson |
-| 117 | 368 | Stephanie Woods |
+| 116 | 368 | Stephanie Woods |
+| 117 | 368 | Stephanie Blkpep Davidson |
 | 118 | 367 | mjl574 |
 | 119 | 366 | Adrian Marcel Pate |
 | 120 | 366 | Speedy Bridger |
@@ -194,8 +194,8 @@
 | 186 | 211 | Katrina Turner |
 | 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Jessica |
-| 190 | 207 | Chris Bell |
+| 189 | 207 | Chris Bell |
+| 190 | 207 | Jessica |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |
@@ -232,14 +232,14 @@
 | 224 | 178 | AlsoJess |
 | 225 | 178 | Ryan Williams |
 | 226 | 177 | Sarajane Lokan |
-| 227 | 176 | rosy |
-| 228 | 176 | Jim Mathews |
+| 227 | 176 | Jim Mathews |
+| 228 | 176 | rosy |
 | 229 | 175 | Tasha Wesson-Torrence |
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | BŘŰŤİÇŨŚ |
-| 234 | 169 | Emma |
+| 233 | 169 | Emma |
+| 234 | 169 | BŘŰŤİÇŨŚ |
 | 235 | 168 | MsBee |
 | 236 | 166 | Betty Rosas |
 | 237 | 166 | Beth Ingham |
@@ -376,7 +376,7 @@
 | 368 | 110 | Tracey Cox |
 | 369 | 109 | Diana Ibarra |
 | 370 | 109 | Ashley Rufus Bythcez |
-| 371 | 109 | Diana Ibarra |
+| 371 | 109 | mommablock |
 | 372 | 107 | Criss |
 | 373 | 107 | Bouncy Blockbuilder |
 | 374 | 107 | Megan Stanley |

@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Stef Hu |
-| 67 | 348 | Trina Gee |
+| 66 | 348 | Trina Gee |
+| 67 | 348 | Stef Hu |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -373,8 +373,8 @@
 | 365 | 73 | Phredda Compton |
 | 366 | 73 | Margie Olivas |
 | 367 | 73 | san |
-| 368 | 72 | Nutty Clusterline |
-| 369 | 72 | Bird Person |
+| 368 | 72 | Bird Person |
+| 369 | 72 | Nutty Clusterline |
 | 370 | 71 | Snappy Brickbuilder |
 | 371 | 71 | Jamie Farrar |
 | 372 | 71 | Discovery Point |
