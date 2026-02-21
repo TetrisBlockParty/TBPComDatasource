@@ -121,8 +121,8 @@
 | 113 | 203 | Giggly Builderline |
 | 114 | 198 | Happy Snapbuild |
 | 115 | 195 | Jason Jones |
-| 116 | 194 | Ash Galvan |
-| 117 | 194 | GATOR |
+| 116 | 194 | GATOR |
+| 117 | 194 | Ash Galvan |
 | 118 | 193 | Lachelle Dillon |
 | 119 | 192 | Shaykmia |
 | 120 | 191 | Diane Byrd |
@@ -135,8 +135,8 @@
 | 127 | 186 | Jennifer Olewnik Soborowski |
 | 128 | 185 | Luciano Moreira |
 | 129 | 182 | Spunky Piecebuilder |
-| 130 | 180 | Erez Yosef |
-| 131 | 180 | BigWeenie69 |
+| 130 | 180 | BigWeenie69 |
+| 131 | 180 | Erez Yosef |
 | 132 | 179 | Danielle Little-Daugherty |
 | 133 | 178 | Chad Atchley |
 | 134 | 177 | ParisandCory Champagne |
@@ -169,10 +169,10 @@
 | 161 | 147 | Leslie Bush Yarbrough |
 | 162 | 147 | Davery Spencer Adair |
 | 163 | 146 | Christy Jones |
-| 164 | 145 | Angela Fairbank |
-| 165 | 145 | Agustin Duarte Orozco |
-| 166 | 144 | femmefatale |
-| 167 | 144 | Gary Gobin |
+| 164 | 145 | Agustin Duarte Orozco |
+| 165 | 145 | Angela Fairbank |
+| 166 | 144 | Gary Gobin |
+| 167 | 144 | femmefatale |
 | 168 | 143 | Sarah Marie |
 | 169 | 142 | Colleen Wise |
 | 170 | 141 | Blaire Bruckoff |

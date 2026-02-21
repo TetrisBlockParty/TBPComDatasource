@@ -146,8 +146,8 @@
 | 138 | 164 | ThaEviLJeNiuZ |
 | 139 | 164 | 030Synner |
 | 140 | 160 | ZeeZee |
-| 141 | 156 | Holly |
-| 142 | 156 | Jessica Bohlken |
+| 141 | 156 | Jessica Bohlken |
+| 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Bethany Ison |
 | 145 | 151 | Avy Absol |
@@ -160,9 +160,9 @@
 | 152 | 147 | Jay28 |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
-| 155 | 141 | ĥuf |
-| 156 | 141 | Malakai Darien Fox |
-| 157 | 141 | Marcus Todd |
+| 155 | 141 | Marcus Todd |
+| 156 | 141 | ĥuf |
+| 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
 | 159 | 140 | John Brunetti |
 | 160 | 140 | Shannon Ferrari |
@@ -189,9 +189,9 @@
 | 181 | 128 | Rio Rocha |
 | 182 | 128 | April Rondinone |
 | 183 | 126 | Nerdy Twisterfit |
-| 184 | 125 | Duck |
+| 184 | 125 | Heather Tushner |
 | 185 | 125 | Ericca Eldridge |
-| 186 | 125 | Heather Tushner |
+| 186 | 125 | Duck |
 | 187 | 125 | AyeKay |
 | 188 | 124 | SammieJo Guy |
 | 189 | 124 | Allen Lloyd |

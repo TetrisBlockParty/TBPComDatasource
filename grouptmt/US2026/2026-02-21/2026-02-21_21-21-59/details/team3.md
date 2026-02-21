@@ -115,8 +115,8 @@
 | 107 | 368 | Stephanie Woods |
 | 108 | 367 | Nerdy Riseclear |
 | 109 | 367 | mjl574 |
-| 110 | 366 | Adrian Marcel Pate |
-| 111 | 366 | Speedy Bridger |
+| 110 | 366 | Speedy Bridger |
+| 111 | 366 | Adrian Marcel Pate |
 | 112 | 350 | Tiff Vs Tiffany |
 | 113 | 348 | CeceGeGe |
 | 114 | 347 | Darlene McMillan |
@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Ashley Muncey |
-| 138 | 271 | Leah Barnett |
+| 137 | 271 | Leah Barnett |
+| 138 | 271 | Ashley Muncey |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Angeline Joseph |
@@ -389,8 +389,8 @@
 | 381 | 96 | Christopher Woost |
 | 382 | 94 | Kaitie Oliver |
 | 383 | 94 | Nichole Greene |
-| 384 | 93 | Clever Clearbuilder |
-| 385 | 93 | Tiffany Ford |
+| 384 | 93 | Tiffany Ford |
+| 385 | 93 | Clever Clearbuilder |
 | 386 | 93 | Kevin Russell |
 | 387 | 92 | Melanie Sherwood |
 | 388 | 92 | Jennifer Caputo |

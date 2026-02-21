@@ -478,8 +478,8 @@
 | 470 | 303 | Crystal Greene |
 | 471 | 302 | stacey |
 | 472 | 301 | Audra Williams |
-| 473 | 301 | Dylan Thomason |
-| 474 | 301 | Claire |
+| 473 | 301 | Claire |
+| 474 | 301 | Dylan Thomason |
 | 475 | 301 | Funky Caster |
 | 476 | 299 | Doowop40 |
 | 477 | 299 | Megan Phillips |
@@ -501,8 +501,8 @@
 | 493 | 284 | Anita Rose Green |
 | 494 | 284 | Hillary Franklin |
 | 495 | 283 | Kimmy Newman |
-| 496 | 282 | Alice Ball |
-| 497 | 282 | Frilly Fallzone |
+| 496 | 282 | Frilly Fallzone |
+| 497 | 282 | Alice Ball |
 | 498 | 282 | Carl Bradshaw |
 | 499 | 282 | Sassy Linkbuilder |
 | 500 | 280 | Danielle DeLozier Plesec |
@@ -538,8 +538,8 @@
 | 530 | 269 | Susan Arnburg |
 | 531 | 268 | Min |
 | 532 | 266 | Jason Garnatz |
-| 533 | 265 | Steve Man |
-| 534 | 265 | Sandra Link-Gable |
+| 533 | 265 | Sandra Link-Gable |
+| 534 | 265 | Steve Man |
 | 535 | 264 | Venita Ray |
 | 536 | 262 | Taren Cowan |
 | 537 | 262 | Jackie Lucas |
@@ -874,11 +874,11 @@
 | 866 | 160 | Alex Marie Desantiago |
 | 867 | 160 | Renee Bowers |
 | 868 | 160 | Sharice Thompson |
-| 869 | 160 | Alex Marie Desantiago |
-| 870 | 160 | Hyper Gridroll |
-| 871 | 160 | Poppy Gridder |
-| 872 | 159 | Nuggets |
-| 873 | 159 | Katelyn Fitzsimmons |
+| 869 | 160 | Nerdy Blockpiece |
+| 870 | 160 | Poppy Gridder |
+| 871 | 160 | Hyper Gridroll |
+| 872 | 159 | Katelyn Fitzsimmons |
+| 873 | 159 | Nuggets |
 | 874 | 159 | Jacques Frenette |
 | 875 | 159 | Delfina Marie Villasenor |
 | 876 | 158 | Toni Roberson |
