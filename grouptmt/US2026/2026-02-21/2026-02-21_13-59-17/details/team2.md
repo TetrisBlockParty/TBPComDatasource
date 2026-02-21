@@ -417,8 +417,8 @@
 | 409 | 236 | Julio A Laracuente |
 | 410 | 236 | Niceday |
 | 411 | 235 | Kimberly Mitchell |
-| 412 | 234 | Manny Trindade |
-| 413 | 234 | Jennifer Leigh |
+| 412 | 234 | Jennifer Leigh |
+| 413 | 234 | Manny Trindade |
 | 414 | 234 | Jaybee Nguyen |
 | 415 | 233 | Nutty Matchline |
 | 416 | 233 | Jumpy Gridclear |
@@ -436,12 +436,12 @@
 | 428 | 226 | Jodi Mitnick |
 | 429 | 226 | Juliana Marques Do Nascimento Gordy |
 | 430 | 224 | Alice Ball |
-| 431 | 223 | LegoCarpet |
-| 432 | 223 | Jess Morrison |
+| 431 | 223 | Jess Morrison |
+| 432 | 223 | LegoCarpet |
 | 433 | 223 | Laura Wyatt |
 | 434 | 223 | Kristi Biddinger |
-| 435 | 222 | Jason Garnatz |
-| 436 | 222 | Amanda Canterbury |
+| 435 | 222 | Amanda Canterbury |
+| 436 | 222 | Jason Garnatz |
 | 437 | 220 | Katrina Weston |
 | 438 | 220 | Sho Nuff |
 | 439 | 219 | Ashle Scranton |

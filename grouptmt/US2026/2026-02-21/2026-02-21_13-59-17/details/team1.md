@@ -71,8 +71,8 @@
 | 63 | 217 | Deanna L Hermanson |
 | 64 | 212 | Jaimie Lynn |
 | 65 | 211 | Marianita Garcia |
-| 66 | 208 | Carrie Beck Geartz |
-| 67 | 208 | Mandyy Rae |
+| 66 | 208 | Mandyy Rae |
+| 67 | 208 | Carrie Beck Geartz |
 | 68 | 205 | Trippy Redd |
 | 69 | 204 | Ly Phethmany |
 | 70 | 204 | Lexuriuos Lifestlye |

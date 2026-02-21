@@ -107,8 +107,8 @@
 | 99 | 151 | Dana Scott |
 | 100 | 150 | ZeeZee |
 | 101 | 149 | Carlton Unfiltered |
-| 102 | 147 | Jay28 |
-| 103 | 147 | 030Synner |
+| 102 | 147 | 030Synner |
+| 103 | 147 | Jay28 |
 | 104 | 146 | Peachy Fall |
 | 105 | 144 | Mr. Party |
 | 106 | 143 | Nugget |
@@ -133,8 +133,8 @@
 | 125 | 126 | TinyLegoRose |
 | 126 | 126 | Klo |
 | 127 | 124 | Allen Lloyd |
-| 128 | 123 | Cherrish Duren |
-| 129 | 123 | Angela Geist Jusinski |
+| 128 | 123 | Angela Geist Jusinski |
+| 129 | 123 | Cherrish Duren |
 | 130 | 122 | Sherri |
 | 131 | 121 | Megan Cutshaw |
 | 132 | 121 | Smiley Tiltbuilder |

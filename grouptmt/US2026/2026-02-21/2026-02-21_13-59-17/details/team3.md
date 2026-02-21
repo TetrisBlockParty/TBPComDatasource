@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Kathryn Keenan-Taggart |
-| 59 | 446 | Ebony West-Cundiff |
+| 58 | 446 | Ebony West-Cundiff |
+| 59 | 446 | Kathryn Keenan-Taggart |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -163,8 +163,8 @@
 | 155 | 166 | Jess Bissett |
 | 156 | 166 | Kelly Ann Child |
 | 157 | 165 | Kali Kelz Williams |
-| 158 | 164 | DanceLuvLaugh |
-| 159 | 164 | rosy |
+| 158 | 164 | rosy |
+| 159 | 164 | DanceLuvLaugh |
 | 160 | 163 | Trisha Balmer |
 | 161 | 163 | Stephanie Hill |
 | 162 | 161 | BŘŰŤİÇŨŚ |
