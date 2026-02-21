@@ -54,15 +54,15 @@
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
-| 49 | 116 | Serena Goodridge |
-| 50 | 116 | Sherri |
+| 49 | 116 | Sherri |
+| 50 | 116 | Serena Goodridge |
 | 51 | 114 | Jessica Cagle |
 | 52 | 113 | Degenerate |
 | 53 | 112 | Chirpy Basepiece |
 | 54 | 111 | Gwendolyn Pitcairn |
 | 55 | 110 | H.R. Block |
-| 56 | 109 | Bryan Hodgins |
-| 57 | 109 | Epic Curvetile |
+| 56 | 109 | Epic Curvetile |
+| 57 | 109 | Bryan Hodgins |
 | 58 | 108 | Mr. Party |
 | 59 | 106 | Jessica Bohlken |
 | 60 | 105 | Diana Houts |

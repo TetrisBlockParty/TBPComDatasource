@@ -55,8 +55,8 @@
 | 47 | 144 | Plucky Ziggy |
 | 48 | 143 | Veronica Eve |
 | 49 | 133 | Brandi Huntington |
-| 50 | 126 | Cece Ibarra |
-| 51 | 126 | Marianne Louise West |
+| 50 | 126 | Marianne Louise West |
+| 51 | 126 | Cece Ibarra |
 | 52 | 125 | Rico Rico |
 | 53 | 120 | Giggly Builderline |
 | 54 | 119 | Irual Hctrab |
