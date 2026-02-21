@@ -33,8 +33,8 @@
 | 25 | 348 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Felicia Lewis |
-| 29 | 294 | Jacqueline Williams |
+| 28 | 294 | Jacqueline Williams |
+| 29 | 294 | Felicia Lewis |
 | 30 | 291 | Nancy Green |
 | 31 | 286 | Michelle Nicole |
 | 32 | 283 | Stephanie Zahn |
@@ -78,8 +78,8 @@
 | 70 | 163 | Chad Atchley |
 | 71 | 161 | Jennifer Olewnik Soborowski |
 | 72 | 161 | Abbey Crespo |
-| 73 | 155 | Standia Civil |
-| 74 | 155 | David DeSantis |
+| 73 | 155 | David DeSantis |
+| 74 | 155 | Standia Civil |
 | 75 | 153 | Shiny Gridmatch |
 | 76 | 152 | Jacqueline Unique |
 | 77 | 149 | Tana |
@@ -186,8 +186,8 @@
 | 178 | 74 | Grace Joanne Agnant |
 | 179 | 74 | Eddie Dillon |
 | 180 | 73 | Shanae Grant |
-| 181 | 72 | John J. Cronin |
-| 182 | 72 | Tipsy Strikerpiece |
+| 181 | 72 | Tipsy Strikerpiece |
+| 182 | 72 | John J. Cronin |
 | 183 | 70 | Seth Wesson |
 | 184 | 70 | Kenton Billings |
 | 185 | 70 | Nerdy Linkblock |

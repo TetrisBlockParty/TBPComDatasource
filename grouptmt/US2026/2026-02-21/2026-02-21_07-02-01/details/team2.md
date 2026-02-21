@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -93,8 +93,8 @@
 | 85 | 658 | Pacynthia Williams |
 | 86 | 658 | Vistabrat |
 | 87 | 653 | Becky Weeks-Garry |
-| 88 | 649 | Anna Edwards |
-| 89 | 649 | Stephanie Chapman |
+| 88 | 649 | Stephanie Chapman |
+| 89 | 649 | Anna Edwards |
 | 90 | 631 | Loopy Clusterbuilder |
 | 91 | 620 | BYM4L |
 | 92 | 616 | Lola Contreras |
@@ -173,8 +173,8 @@
 | 165 | 386 | Ashie Ann |
 | 166 | 385 | Sam |
 | 167 | 381 | Amanda Ferrell |
-| 168 | 380 | Calandra Shaya Robinson |
-| 169 | 380 | Joshua Mandel |
+| 168 | 380 | Joshua Mandel |
+| 169 | 380 | Calandra Shaya Robinson |
 | 170 | 377 | Liberty |
 | 171 | 377 | Roy Salyer |
 | 172 | 367 | Nashu |
@@ -208,8 +208,8 @@
 | 200 | 327 | Danielle Simmons |
 | 201 | 323 | Juanita Lyons |
 | 202 | 323 | Briana Alexander |
-| 203 | 318 | Arwa Fatimah |
-| 204 | 318 | Trista Dumais |
+| 203 | 318 | Trista Dumais |
+| 204 | 318 | Arwa Fatimah |
 | 205 | 317 | Heather Westrum |
 | 206 | 317 | bru |
 | 207 | 314 | Amanda West |
@@ -261,8 +261,8 @@
 | 253 | 271 | Toni Lynn |
 | 254 | 270 | Angela Lynn |
 | 255 | 270 | Alexandra Weir |
-| 256 | 268 | Tanya Parsons |
-| 257 | 268 | Vanessa Moreno |
+| 256 | 268 | Vanessa Moreno |
+| 257 | 268 | Tanya Parsons |
 | 258 | 268 | Chummy Blockbuilder |
 | 259 | 267 | Mindy Leigh Head |
 | 260 | 266 | Autumn Schaeffer |
@@ -286,8 +286,8 @@
 | 278 | 252 | Cheech Dta |
 | 279 | 251 | Ann Knutson Anderson |
 | 280 | 250 | Barbra Miller |
-| 281 | 249 | Nicky Jackson |
-| 282 | 249 | Porsche' Nicole |
+| 281 | 249 | Porsche' Nicole |
+| 282 | 249 | Nicky Jackson |
 | 283 | 249 | SwampRebel |
 | 284 | 248 | Bubbly Snapfit |
 | 285 | 248 | Maddy Petersen |
@@ -296,8 +296,8 @@
 | 288 | 247 | Andrea Devery Beck |
 | 289 | 247 | Fancy Twister |
 | 290 | 246 | Kathryn Townsley |
-| 291 | 246 | Stephanie Lumanlan |
-| 292 | 246 | Ashley Lopez |
+| 291 | 246 | Ashley Lopez |
+| 292 | 246 | Stephanie Lumanlan |
 | 293 | 245 | Rachael Senard |
 | 294 | 245 | Taryece Gause |
 | 295 | 245 | Mischelle Clay |

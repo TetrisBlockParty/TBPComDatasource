@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -100,8 +100,8 @@
 | 92 | 224 | Mykal Burton |
 | 93 | 223 | Jeana Gilbert |
 | 94 | 222 | Jimmie Clemons |
-| 95 | 218 | Judi Dobson |
-| 96 | 218 | mjl574 |
+| 95 | 218 | mjl574 |
+| 96 | 218 | Judi Dobson |
 | 97 | 214 | Amy Fuller Heaton |
 | 98 | 213 | Tom Nault |
 | 99 | 211 | Blocked |
@@ -132,8 +132,8 @@
 | 124 | 166 | Danielle Mogg |
 | 125 | 166 | Kelly Ann Child |
 | 126 | 164 | rosy |
-| 127 | 159 | Morgan Martinez |
-| 128 | 159 | Jone |
+| 127 | 159 | Jone |
+| 128 | 159 | Morgan Martinez |
 | 129 | 158 | Grams |
 | 130 | 156 | Joey Banks |
 | 131 | 155 | BŘŰŤİÇŨŚ |
@@ -144,9 +144,9 @@
 | 136 | 152 | Shiny Zonebuilder |
 | 137 | 151 | MsBee |
 | 138 | 150 | Nicole Myers |
-| 139 | 149 | Trisha Balmer |
-| 140 | 149 | Angel Mendez |
-| 141 | 149 | Bea Miles |
+| 139 | 149 | Angel Mendez |
+| 140 | 149 | Bea Miles |
+| 141 | 149 | Trisha Balmer |
 | 142 | 147 | Sashay Tapae Simpson |
 | 143 | 146 | Latoya Mayne |
 | 144 | 146 | Denita Mungro |

@@ -51,8 +51,8 @@
 | 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Jenna Ingersoll |
-| 47 | 231 | Michelle Marie |
+| 46 | 231 | Michelle Marie |
+| 47 | 231 | Jenna Ingersoll |
 | 48 | 226 | Breannah Grafe |
 | 49 | 213 | Lisa Davis |
 | 50 | 207 | Alyssa Papen |
@@ -67,11 +67,11 @@
 | 59 | 179 | Epic Curvetile |
 | 60 | 175 | Dustee Craddock-Harrison |
 | 61 | 171 | Clarence Patawaran |
-| 62 | 170 | Leah Kutz Zirbel |
-| 63 | 170 | Girl |
+| 62 | 170 | Girl |
+| 63 | 170 | Leah Kutz Zirbel |
 | 64 | 167 | Denise Carlson |
-| 65 | 165 | Courtney Cicoria |
-| 66 | 165 | Casey Grabner |
+| 65 | 165 | Casey Grabner |
+| 66 | 165 | Courtney Cicoria |
 | 67 | 160 | Carter Jones |
 | 68 | 159 | Justin Hannigan |
 | 69 | 159 | Holly Jolly |
@@ -779,7 +779,7 @@
 | 771 | 9 | Penny Dean |
 | 772 | 9 | Tiffany Tran |
 | 773 | 9 | Saundra Miller |
-| 774 | 9 | Tiffany Tran |
+| 774 | 9 | Susan Purnell |
 | 775 | 9 | Amber Curry |
 | 776 | 9 | London Murphy |
 | 777 | 9 | Perky Riser |
