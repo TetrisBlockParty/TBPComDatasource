@@ -453,8 +453,8 @@
 | 445 | 200 | Sarah Ridenour |
 | 446 | 200 | LaWanda Powell |
 | 447 | 199 | Fi Ne |
-| 448 | 199 | Alyssa Nadine Medelez |
-| 449 | 199 | Jenny Castro |
+| 448 | 199 | Jenny Castro |
+| 449 | 199 | Alyssa Nadine Medelez |
 | 450 | 199 | Jessica Sutter |
 | 451 | 198 | Angie Bolton Workman |
 | 452 | 198 | Alyssa Dean |
@@ -575,8 +575,8 @@
 | 567 | 156 | Poppy Gridder |
 | 568 | 156 | RetroLemur |
 | 569 | 156 | Renee Bowers |
-| 570 | 155 | Monarca26 |
-| 571 | 155 | Chelle |
+| 570 | 155 | Chelle |
+| 571 | 155 | Monarca26 |
 | 572 | 155 | Cris cris |
 | 573 | 155 | Jacob Huffman |
 | 574 | 155 | Angela Murgia-Owen |

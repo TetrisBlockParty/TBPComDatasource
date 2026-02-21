@@ -117,8 +117,8 @@
 | 109 | 224 | Judi Dobson |
 | 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Jimmie Clemons |
-| 113 | 222 | Nicole Flippo |
+| 112 | 222 | Nicole Flippo |
+| 113 | 222 | Jimmie Clemons |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -155,8 +155,8 @@
 | 147 | 166 | Danielle Mogg |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
-| 150 | 164 | rosy |
-| 151 | 164 | DanceLuvLaugh |
+| 150 | 164 | DanceLuvLaugh |
+| 151 | 164 | rosy |
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Stephanie Hill |
 | 154 | 160 | Mcathen |
@@ -196,15 +196,15 @@
 | 188 | 131 | Jl |
 | 189 | 129 | Jessica Bechler |
 | 190 | 129 | Lesley Perez |
-| 191 | 128 | David Bardo |
-| 192 | 128 | Jen Lewis |
+| 191 | 128 | Jen Lewis |
+| 192 | 128 | David Bardo |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
 | 195 | 125 | Shimika Enay Wallace |
 | 196 | 125 | Felicia Doxey |
 | 197 | 124 | Cesar Barraza |
-| 198 | 123 | Terry Jo Jones |
-| 199 | 123 | Marci Mize Fandrich |
+| 198 | 123 | Marci Mize Fandrich |
+| 199 | 123 | Terry Jo Jones |
 | 200 | 123 | Sarajane Lokan |
 | 201 | 122 | Giggly Brickroll |
 | 202 | 122 | Katrina E Jelks |
@@ -221,10 +221,10 @@
 | 213 | 116 | LaNette Morgan |
 | 214 | 115 | Hoppy Buildout |
 | 215 | 115 | Daring Builder |
-| 216 | 115 | Hoppy Buildout |
-| 217 | 113 | Beppy |
+| 216 | 115 | Jennifer Alvey |
+| 217 | 113 | Valerie Gendron |
 | 218 | 113 | Brian Battjes |
-| 219 | 113 | Valerie Gendron |
+| 219 | 113 | Beppy |
 | 220 | 111 | Stephanie Zahm |
 | 221 | 110 | Tye Stovall |
 | 222 | 110 | Danielle Weikel |
@@ -272,9 +272,9 @@
 | 264 | 96 | Tasha Wesson-Torrence |
 | 265 | 96 | Christopher Woost |
 | 266 | 95 | Brooke Bauer |
-| 267 | 94 | Andrew Thorson |
-| 268 | 94 | Tracey Cox |
-| 269 | 94 | Angie Harper |
+| 267 | 94 | Tracey Cox |
+| 268 | 94 | Angie Harper |
+| 269 | 94 | Andrew Thorson |
 | 270 | 93 | Tiffany Ford |
 | 271 | 92 | Trice Thomas |
 | 272 | 92 | Jennifer Caputo |
@@ -321,8 +321,8 @@
 | 313 | 80 | Me,Him,Yu |
 | 314 | 80 | Oliver Neal II |
 | 315 | 79 | Bleu Sun Beams |
-| 316 | 79 | Jessie Chung |
-| 317 | 79 | Brittany K Ward |
+| 316 | 79 | Brittany K Ward |
+| 317 | 79 | Jessie Chung |
 | 318 | 79 | Wetwet |
 | 319 | 79 | Amanda Neal |
 | 320 | 78 | El Chapa |
