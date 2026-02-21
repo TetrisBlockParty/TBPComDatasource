@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -114,8 +114,8 @@
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 211 | Shunta Jacobs |
-| 110 | 211 | Katrina Schroeder |
+| 109 | 211 | Katrina Schroeder |
+| 110 | 211 | Shunta Jacobs |
 | 111 | 207 | rnr junky |
 | 112 | 206 | Stephanie Blkpep Davidson |
 | 113 | 204 | Aaron Pitkin |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 193 | Stephanie Burtin |
@@ -132,8 +132,8 @@
 | 124 | 191 | Scott Carleton |
 | 125 | 188 | Fallorina Susana |
 | 126 | 184 | Jennie Beranek |
-| 127 | 182 | Hyper Matchzone |
-| 128 | 182 | Ashley Tookes |
+| 127 | 182 | Ashley Tookes |
+| 128 | 182 | Hyper Matchzone |
 | 129 | 180 | Tessina Dewey-Mancino |
 | 130 | 179 | Daira Largen |
 | 131 | 178 | Khaleada McGill Banks |
@@ -165,8 +165,8 @@
 | 157 | 149 | Angel Mendez |
 | 158 | 149 | Trisha Balmer |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Latoya Mayne |
-| 161 | 146 | Denita Mungro |
+| 160 | 146 | Denita Mungro |
+| 161 | 146 | Latoya Mayne |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Gumbo |
@@ -182,8 +182,8 @@
 | 174 | 127 | Joy Petroski |
 | 175 | 127 | Marquita Sheard |
 | 176 | 126 | Brandon Givens |
-| 177 | 125 | Shimika Enay Wallace |
-| 178 | 125 | Felicia Doxey |
+| 177 | 125 | Felicia Doxey |
+| 178 | 125 | Shimika Enay Wallace |
 | 179 | 124 | Cesar Barraza |
 | 180 | 123 | Sarajane Lokan |
 | 181 | 123 | Terry Jo Jones |
@@ -293,8 +293,8 @@
 | 285 | 83 | Deseree Ewing |
 | 286 | 82 | Rebecca Funderburk Kirby |
 | 287 | 81 | Tina Baurdau |
-| 288 | 80 | Oliver Neal II |
-| 289 | 80 | Josh Borquez |
+| 288 | 80 | Josh Borquez |
+| 289 | 80 | Me,Him,Yu |
 | 290 | 80 | Vixen Queen |
 | 291 | 80 | Oliver Neal II |
 | 292 | 79 | Rania Zaqout |

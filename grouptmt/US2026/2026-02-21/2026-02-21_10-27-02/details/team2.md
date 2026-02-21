@@ -410,38 +410,38 @@
 | 402 | 200 | LaWanda Powell |
 | 403 | 200 | Sarah Ridenour |
 | 404 | 199 | Fi Ne |
-| 405 | 199 | Jessica Sutter |
-| 406 | 199 | Jenny Castro |
+| 405 | 199 | Jenny Castro |
+| 406 | 199 | Jessica Sutter |
 | 407 | 198 | Angie Bolton Workman |
 | 408 | 198 | Steve Man |
 | 409 | 198 | Alyssa Dean |
 | 410 | 197 | Alyssa Nadine Medelez |
-| 411 | 196 | Alexandra Reese |
-| 412 | 196 | Cass Shirley |
+| 411 | 196 | Cass Shirley |
+| 412 | 196 | Alexandra Reese |
 | 413 | 196 | Besma Ao |
 | 414 | 195 | Emily Lyric Converse |
 | 415 | 195 | Unica Rector |
 | 416 | 195 | Snappy Shatterfit |
 | 417 | 194 | Hoppy Brickmatch |
 | 418 | 194 | Kimberly Ann |
-| 419 | 193 | Matthew Turner |
-| 420 | 193 | Kelly Ann McCormick |
+| 419 | 193 | Kelly Ann McCormick |
+| 420 | 193 | Matthew Turner |
 | 421 | 191 | Lauren Fitzgerald Thomas |
 | 422 | 191 | Deana |
 | 423 | 191 | John Quiring |
 | 424 | 190 | Layna Lyons |
 | 425 | 190 | Jessica Kaye DeAguero |
 | 426 | 189 | Alishac Marie |
-| 427 | 188 | Michael Artis |
-| 428 | 188 | Seth Wrieden |
+| 427 | 188 | Seth Wrieden |
+| 428 | 188 | Michael Artis |
 | 429 | 188 | Justin Hines |
 | 430 | 187 | Stefanie Zonzini-Gagliardi |
 | 431 | 186 | Joshua Mullings |
 | 432 | 186 | Jackie Jackie Lee |
 | 433 | 184 | Brittany Radaszewski |
-| 434 | 184 | Regina Unruh |
-| 435 | 184 | Theresa Sterrett |
-| 436 | 184 | Sassy Linkbuilder |
+| 434 | 184 | Sassy Linkbuilder |
+| 435 | 184 | Regina Unruh |
+| 436 | 184 | Theresa Sterrett |
 | 437 | 183 | Lynzekwi |
 | 438 | 183 | Ys Muhammed |
 | 439 | 183 | Brandon McDonald |
@@ -470,13 +470,13 @@
 | 462 | 176 | Jennifer Malloy - Cardy |
 | 463 | 175 | Snippy Rumbler |
 | 464 | 175 | Lucero Ramirez |
-| 465 | 175 | Tina Blessed Cage |
-| 466 | 175 | Shandrica Lowe |
+| 465 | 175 | Shandrica Lowe |
+| 466 | 175 | Tina Blessed Cage |
 | 467 | 174 | Veronica Guerra |
 | 468 | 174 | Jason Garnatz |
 | 469 | 173 | Ocean-Brianna McGregor |
-| 470 | 173 | kippykay |
-| 471 | 173 | Robin |
+| 470 | 173 | Robin |
+| 471 | 173 | kippykay |
 | 472 | 171 | Cappin You |
 | 473 | 171 | William Hunt |
 | 474 | 170 | Kenya Felix |
@@ -549,12 +549,12 @@
 | 541 | 151 | Jennifer Rajek |
 | 542 | 150 | Greenshades00 |
 | 543 | 150 | Jodi Mitnick |
-| 544 | 150 | Josh Dill |
-| 545 | 150 | Candace Noel |
+| 544 | 150 | Candace Noel |
+| 545 | 150 | Josh Dill |
 | 546 | 149 | Leslie Porter |
 | 547 | 149 | Boldy Cascadepiece |
-| 548 | 149 | Melissa Rebbe-Lehman |
-| 549 | 149 | Brianna Cerney |
+| 548 | 149 | Brianna Cerney |
+| 549 | 149 | Melissa Rebbe-Lehman |
 | 550 | 148 | Cleo Sims |
 | 551 | 148 | Renee Bowers |
 | 552 | 148 | AgileDragon |
@@ -581,8 +581,8 @@
 | 573 | 142 | Melissa Kay Gibson |
 | 574 | 142 | Joy LaJeunesse |
 | 575 | 142 | Zachary Boyarski |
-| 576 | 142 | Frisky Clearpiece |
-| 577 | 142 | Amy Humphreys |
+| 576 | 142 | Amy Humphreys |
+| 577 | 142 | Frisky Clearpiece |
 | 578 | 141 | Mary Lopez Sr. |
 | 579 | 141 | Markisha Poyndexter |
 | 580 | 141 | Aprill Bolton |
@@ -644,8 +644,8 @@
 | 636 | 132 | Samie Dayle |
 | 637 | 132 | Chilly Rollblock |
 | 638 | 132 | Joann |
-| 639 | 132 | Paula Snyder |
-| 640 | 132 | Eric Carlson |
+| 639 | 132 | Eric Carlson |
+| 640 | 132 | Paula Snyder |
 | 641 | 131 | Jennie Lee Huntley |
 | 642 | 131 | Deidre Shaffer |
 | 643 | 131 | Kerry Miller |
@@ -719,8 +719,8 @@
 | 711 | 119 | Zappy Stackbuilder |
 | 712 | 119 | Perry Hubert |
 | 713 | 119 | Mary Boss |
-| 714 | 118 | Amanda Perez |
-| 715 | 118 | Emilie Victoria Cordero |
+| 714 | 118 | Emilie Victoria Cordero |
+| 715 | 118 | Amanda Perez |
 | 716 | 118 | Nina Woodill |
 | 717 | 118 | Raffaella Dowling |
 | 718 | 118 | Wha |
@@ -766,10 +766,10 @@
 | 758 | 111 | April Bennett |
 | 759 | 111 | Lively Edgepiece |
 | 760 | 111 | Netty |
-| 761 | 111 | Jroc |
-| 762 | 111 | Ashley M. Davis |
-| 763 | 110 | Alice Ball |
-| 764 | 110 | Cranky Pattern |
+| 761 | 111 | Ashley M. Davis |
+| 762 | 111 | Jroc |
+| 763 | 110 | Cranky Pattern |
+| 764 | 110 | Alice Ball |
 | 765 | 110 | Erika Deer Kauffman |
 | 766 | 110 | Britni Deas |
 | 767 | 110 | Sarah Dean |

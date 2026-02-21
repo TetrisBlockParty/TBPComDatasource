@@ -77,8 +77,8 @@
 | 69 | 179 | Epic Curvetile |
 | 70 | 175 | Dustee Craddock-Harrison |
 | 71 | 173 | Jeff Brian Gates |
-| 72 | 171 | Zethra Prenisha Rahming |
-| 73 | 171 | Melvin Baird |
+| 72 | 171 | Melvin Baird |
+| 73 | 171 | Zethra Prenisha Rahming |
 | 74 | 170 | Girl |
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 167 | Denise Carlson |
@@ -99,8 +99,8 @@
 | 91 | 140 | Shannon Ferrari |
 | 92 | 138 | Shainne Brewer |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Chirpy Basepiece |
-| 95 | 134 | Jessica Bohlken |
+| 94 | 134 | Jessica Bohlken |
+| 95 | 134 | Chirpy Basepiece |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Degenerate |
 | 98 | 132 | Jessica Cagle |
@@ -173,11 +173,11 @@
 | 165 | 93 | Zesty Twistbuilder |
 | 166 | 90 | Judy Cox |
 | 167 | 90 | No Strings Attached Ra |
-| 168 | 89 | shark tato |
-| 169 | 89 | mike |
-| 170 | 88 | Kesha Brady |
-| 171 | 88 | Heather Tushner |
-| 172 | 87 | Jen Caldwell |
+| 168 | 89 | mike |
+| 169 | 89 | shark tato |
+| 170 | 88 | Heather Tushner |
+| 171 | 88 | Kesha Brady |
+| 172 | 87 | Bradley Reeves |
 | 173 | 87 | Lauren Lamb |
 | 174 | 87 | Jen Caldwell |
 | 175 | 86 | Destiney Carter |

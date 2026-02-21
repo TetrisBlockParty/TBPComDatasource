@@ -64,8 +64,8 @@
 | 56 | 208 | Carrie Beck Geartz |
 | 57 | 205 | Trippy Redd |
 | 58 | 204 | Ly Phethmany |
-| 59 | 202 | Dee Perry |
-| 60 | 202 | Hyper |
+| 59 | 202 | Hyper |
+| 60 | 202 | Dee Perry |
 | 61 | 201 | Ananda Mendez |
 | 62 | 201 | Anaid Sanchez |
 | 63 | 201 | Adam Byrd |
@@ -92,12 +92,12 @@
 | 84 | 162 | Patrick Luckenbill |
 | 85 | 161 | Abbey Crespo |
 | 86 | 156 | Jessie Lynn |
-| 87 | 155 | David DeSantis |
-| 88 | 155 | Standia Civil |
+| 87 | 155 | Standia Civil |
+| 88 | 155 | David DeSantis |
 | 89 | 153 | Shiny Gridmatch |
 | 90 | 152 | Jacqueline Unique |
-| 91 | 149 | Tana |
-| 92 | 149 | Arianna O'Brien |
+| 91 | 149 | Arianna O'Brien |
+| 92 | 149 | Tana |
 | 93 | 148 | Shauntina Burke |
 | 94 | 147 | Veronica Eve |
 | 95 | 145 | BigWeenie69 |
