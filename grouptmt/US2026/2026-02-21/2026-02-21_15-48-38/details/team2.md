@@ -451,12 +451,12 @@
 | 443 | 236 | snkylnk |
 | 444 | 236 | Julio A Laracuente |
 | 445 | 235 | Kimberly Mitchell |
-| 446 | 234 | Jennifer Leigh |
-| 447 | 234 | Manny Trindade |
+| 446 | 234 | Manny Trindade |
+| 447 | 234 | Jennifer Leigh |
 | 448 | 234 | Jaybee Nguyen |
 | 449 | 233 | Nutty Matchline |
-| 450 | 233 | Jumpy Gridclear |
-| 451 | 233 | Daring Matchfit |
+| 450 | 233 | Daring Matchfit |
+| 451 | 233 | Jumpy Gridclear |
 | 452 | 232 | Aleasha M Brown |
 | 453 | 232 | Quirky Twistline |
 | 454 | 232 | Amber Brion |

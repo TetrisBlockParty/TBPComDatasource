@@ -164,14 +164,14 @@
 | 156 | 188 | Angie Harper |
 | 157 | 184 | Jennie Beranek |
 | 158 | 182 | Hyper Matchzone |
-| 159 | 181 | Karon Griffin |
-| 160 | 181 | Aerian Preston |
+| 159 | 181 | Aerian Preston |
+| 160 | 181 | Karon Griffin |
 | 161 | 179 | Joye Sims Binion |
 | 162 | 179 | Daira Largen |
 | 163 | 179 | Ashley Jones |
 | 164 | 178 | Khaleada McGill Banks |
-| 165 | 178 | Ryan Williams |
-| 166 | 178 | AlsoJess |
+| 165 | 178 | AlsoJess |
+| 166 | 178 | Ryan Williams |
 | 167 | 176 | Rebel124 |
 | 168 | 175 | DanceLuvLaugh |
 | 169 | 174 | Danielle Mogg |
@@ -182,8 +182,8 @@
 | 174 | 166 | Kelly Ann Child |
 | 175 | 165 | Kali Kelz Williams |
 | 176 | 163 | Stephanie Hill |
-| 177 | 163 | Trisha Balmer |
-| 178 | 163 | Sashay Tapae Simpson |
+| 177 | 163 | Sashay Tapae Simpson |
+| 178 | 163 | Trisha Balmer |
 | 179 | 162 | Stephanie Whitefield |
 | 180 | 161 | BŘŰŤİÇŨŚ |
 | 181 | 161 | Nikki Pags |
@@ -198,8 +198,8 @@
 | 190 | 152 | Katrina E Jelks |
 | 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | MsBee |
-| 194 | 151 | Brenda Lee Vander Molen |
+| 193 | 151 | Brenda Lee Vander Molen |
+| 194 | 151 | MsBee |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Desiree Gold |
 | 197 | 149 | Angel Mendez |
@@ -277,8 +277,8 @@
 | 269 | 105 | Emi |
 | 270 | 105 | Donna |
 | 271 | 105 | Boldy Blocker |
-| 272 | 104 | Melissa Snyder |
-| 273 | 104 | Sarah Moyer |
+| 272 | 104 | Ashley Rufus Bythcez |
+| 273 | 104 | Peachy Rollfit |
 | 274 | 104 | bean |
 | 275 | 104 | Melissa Snyder |
 | 276 | 104 | Sarah Moyer |

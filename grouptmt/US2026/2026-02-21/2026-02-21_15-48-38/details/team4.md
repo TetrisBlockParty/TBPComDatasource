@@ -157,8 +157,8 @@
 | 149 | 121 | Zany Shatterer |
 | 150 | 120 | Joshua Guess |
 | 151 | 120 | Roger Coulter |
-| 152 | 119 | Kristin Manee |
-| 153 | 119 | Gwendolyn Pitcairn |
+| 152 | 119 | Gwendolyn Pitcairn |
+| 153 | 119 | Kristin Manee |
 | 154 | 118 | Leslie Nicole |
 | 155 | 116 | Diana Houts |
 | 156 | 115 | Ultramarine |

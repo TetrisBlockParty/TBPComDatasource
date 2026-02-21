@@ -47,10 +47,10 @@
 | 39 | 380 | Robert Beck |
 | 40 | 365 | Jennifer Cates |
 | 41 | 363 | Angel Fowler |
-| 42 | 349 | Nancy Green |
-| 43 | 349 | Jacqueline Williams |
-| 44 | 348 | Stef Hu |
-| 45 | 348 | Chipper Gridlock |
+| 42 | 349 | Jacqueline Williams |
+| 43 | 349 | Nancy Green |
+| 44 | 348 | Chipper Gridlock |
+| 45 | 348 | Stef Hu |
 | 46 | 345 | Adryane Schnase |
 | 47 | 338 | Stephanie Zahn |
 | 48 | 303 | Maria C. Hernandez |
@@ -88,8 +88,8 @@
 | 80 | 201 | Anaid Sanchez |
 | 81 | 201 | Ananda Mendez |
 | 82 | 200 | Giggly Builderline |
-| 83 | 198 | Happy Snapbuild |
-| 84 | 198 | Brandi Huntington |
+| 83 | 198 | Brandi Huntington |
+| 84 | 198 | Happy Snapbuild |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
@@ -103,9 +103,9 @@
 | 95 | 179 | Spunky Piecebuilder |
 | 96 | 178 | Danielle Little-Daugherty |
 | 97 | 178 | Chad Atchley |
-| 98 | 173 | Jennifer Olewnik Soborowski |
-| 99 | 173 | june october |
-| 100 | 173 | Frothy Pattern |
+| 98 | 173 | Frothy Pattern |
+| 99 | 173 | Jennifer Olewnik Soborowski |
+| 100 | 173 | june october |
 | 101 | 171 | David DeSantis |
 | 102 | 171 | Greg Premoe |
 | 103 | 169 | Abbey Crespo |
@@ -122,21 +122,21 @@
 | 114 | 153 | Shiny Gridmatch |
 | 115 | 152 | Jacqueline Unique |
 | 116 | 150 | Adele Rahman |
-| 117 | 149 | Arianna O'Brien |
-| 118 | 149 | Jennifer ManWarren |
+| 117 | 149 | Jennifer ManWarren |
+| 118 | 149 | Arianna O'Brien |
 | 119 | 148 | Shauntina Burke |
 | 120 | 146 | Irual Hctrab |
 | 121 | 145 | BigWeenie69 |
 | 122 | 144 | femmefatale |
 | 123 | 144 | Plucky Ziggy |
 | 124 | 143 | Sarah Marie |
-| 125 | 142 | Dandy Basegrid |
-| 126 | 142 | Colleen Wise |
+| 125 | 142 | Colleen Wise |
+| 126 | 142 | Dandy Basegrid |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
-| 129 | 138 | Cranky Pattern |
+| 129 | 138 | Gary Gobin |
 | 130 | 138 | Michael |
-| 131 | 138 | Gary Gobin |
+| 131 | 138 | Cranky Pattern |
 | 132 | 137 | Nadine Velardo |
 | 133 | 135 | Giddy Cascade |
 | 134 | 135 | Cody Slav |
