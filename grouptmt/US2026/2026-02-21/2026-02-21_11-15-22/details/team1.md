@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Tdub |
-| 57 | 212 | Jaimie Lynn |
+| 56 | 212 | Jaimie Lynn |
+| 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 205 | Trippy Redd |
@@ -73,11 +73,11 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
-| 71 | 194 | Sharon Reynolds |
-| 72 | 194 | Giggly Builderline |
+| 71 | 194 | Giggly Builderline |
+| 72 | 194 | Sharon Reynolds |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
@@ -95,8 +95,8 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | Standia Civil |
-| 91 | 155 | David DeSantis |
+| 90 | 155 | David DeSantis |
+| 91 | 155 | Standia Civil |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
 | 94 | 149 | Tana |
@@ -109,8 +109,8 @@
 | 101 | 144 | Plucky Ziggy |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
-| 104 | 138 | Gary Gobin |
-| 105 | 138 | Cranky Pattern |
+| 104 | 138 | Cranky Pattern |
+| 105 | 138 | Gary Gobin |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
 | 108 | 133 | Brandi Huntington |
@@ -147,15 +147,15 @@
 | 139 | 106 | Bloknboy |
 | 140 | 106 | Ash Galvan |
 | 141 | 105 | Ty Brown |
-| 142 | 104 | Bindi |
-| 143 | 104 | Charla Pross-Fugleberg |
+| 142 | 104 | Charla Pross-Fugleberg |
+| 143 | 104 | Bindi |
 | 144 | 103 | Adryane Schnase |
 | 145 | 103 | Angela Fairbank |
 | 146 | 102 | Jennifer ManWarren |
-| 147 | 100 | Tami Luce Martin |
-| 148 | 100 | Jessica Weed |
+| 147 | 100 | Jessica Weed |
+| 148 | 100 | Debbie Davis |
 | 149 | 100 | Spunky Piecebuilder |
-| 150 | 100 | Debbie Davis |
+| 150 | 100 | Tami Luce Martin |
 | 151 | 99 | Tyler Hertzog |
 | 152 | 99 | Melissa Bires Hussar |
 | 153 | 99 | Mizzledagod |

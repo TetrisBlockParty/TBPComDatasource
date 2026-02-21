@@ -95,8 +95,8 @@
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | Jay28 |
-| 91 | 147 | 030Synner |
+| 90 | 147 | 030Synner |
+| 91 | 147 | Jay28 |
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
@@ -119,9 +119,9 @@
 | 111 | 129 | John Brunetti |
 | 112 | 126 | Dihcheese444 |
 | 113 | 125 | Lauren Scott |
-| 114 | 123 | Cherrish Duren |
+| 114 | 123 | Bubbly Puzzler |
 | 115 | 123 | TinyLegoRose |
-| 116 | 123 | Bubbly Puzzler |
+| 116 | 123 | Cherrish Duren |
 | 117 | 122 | Sherri |
 | 118 | 121 | Zany Shatterer |
 | 119 | 121 | Klo |
@@ -142,8 +142,8 @@
 | 134 | 111 | Gwendolyn Pitcairn |
 | 135 | 111 | Lazy Blocker |
 | 136 | 110 | H.R. Block |
-| 137 | 108 | Andy Cabral |
-| 138 | 108 | Rio Rocha |
+| 137 | 108 | Rio Rocha |
+| 138 | 108 | Andy Cabral |
 | 139 | 107 | Marcus Todd |
 | 140 | 106 | KM8 |
 | 141 | 105 | 🥔🥔 Spudz |
@@ -170,8 +170,8 @@
 | 162 | 95 | Meagan Nicole |
 | 163 | 95 | Victoria Faniel |
 | 164 | 94 | Chastity Mitchell |
-| 165 | 94 | Kim Hunt |
-| 166 | 94 | DonMega |
+| 165 | 94 | DonMega |
+| 166 | 94 | Kim Hunt |
 | 167 | 93 | Zesty Twistbuilder |
 | 168 | 90 | No Strings Attached Ra |
 | 169 | 90 | Judy Cox |

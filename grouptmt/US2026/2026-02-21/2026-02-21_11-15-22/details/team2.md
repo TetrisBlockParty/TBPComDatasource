@@ -110,8 +110,8 @@
 | 102 | 674 | Dannette Goldberg-Richards |
 | 103 | 672 | Wendy Harder Gage |
 | 104 | 665 | Dineisha Carpenter |
-| 105 | 658 | Vistabrat |
-| 106 | 658 | Pacynthia Williams |
+| 105 | 658 | Pacynthia Williams |
+| 106 | 658 | Vistabrat |
 | 107 | 653 | Becky Weeks-Garry |
 | 108 | 649 | Anna Edwards |
 | 109 | 649 | Stephanie Chapman |
@@ -149,8 +149,8 @@
 | 141 | 520 | Kimberly Schall |
 | 142 | 519 | Maria Escobar |
 | 143 | 517 | Debra Williams |
-| 144 | 515 | Kaylee McCafferty |
-| 145 | 515 | Real Ri |
+| 144 | 515 | Real Ri |
+| 145 | 515 | Kaylee McCafferty |
 | 146 | 513 | Butta |
 | 147 | 511 | Dizzy Zone |
 | 148 | 510 | Ashley House |
@@ -370,8 +370,8 @@
 | 362 | 234 | Manny Trindade |
 | 363 | 234 | Jennifer Leigh |
 | 364 | 234 | Jaybee Nguyen |
-| 365 | 233 | Robin Kerby |
-| 366 | 233 | Jumpy Gridclear |
+| 365 | 233 | Jumpy Gridclear |
+| 366 | 233 | Robin Kerby |
 | 367 | 233 | Nutty Matchline |
 | 368 | 232 | Amber Brion |
 | 369 | 231 | Dylan Thomason |
@@ -382,8 +382,8 @@
 | 374 | 228 | Michelle Sager |
 | 375 | 227 | Demeka Dangerous-kisses Johnson |
 | 376 | 227 | JacJac |
-| 377 | 226 | Juliana Marques Do Nascimento Gordy |
-| 378 | 226 | Mary Marie |
+| 377 | 226 | Mary Marie |
+| 378 | 226 | Juliana Marques Do Nascimento Gordy |
 | 379 | 226 | Leslie Ann Carter |
 | 380 | 223 | Kristi Biddinger |
 | 381 | 223 | LegoCarpet |
@@ -467,7 +467,7 @@
 | 459 | 179 | Desiree Harris Rosch |
 | 460 | 179 | Bette Prieto |
 | 461 | 179 | Lively Catcher |
-| 462 | 179 | Bette Prieto |
+| 462 | 179 | Cat |
 | 463 | 178 | Michelle Shrum |
 | 464 | 177 | Facuetoo |
 | 465 | 177 | Angel |
