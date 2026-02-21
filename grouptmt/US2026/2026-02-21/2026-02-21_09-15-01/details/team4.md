@@ -81,8 +81,8 @@
 | 73 | 170 | Girl |
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Holly Jolly |
 | 80 | 159 | Justin Hannigan |
@@ -195,7 +195,7 @@
 | 187 | 81 | Nubian1 |
 | 188 | 80 | Melissa Adams |
 | 189 | 80 | Chaz Duncan |
-| 190 | 79 | Anthony Bryan Riva |
+| 190 | 79 | Perky Piecegrid |
 | 191 | 79 | Kametsunoyaiba |
 | 192 | 79 | Joseph Pace |
 | 193 | 79 | Anthony Bryan Riva |

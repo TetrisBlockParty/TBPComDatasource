@@ -199,8 +199,8 @@
 | 191 | 380 | Calandra Shaya Robinson |
 | 192 | 380 | Joshua Mandel |
 | 193 | 378 | Cody Nishimura |
-| 194 | 377 | Liberty |
-| 195 | 377 | Roy Salyer |
+| 194 | 377 | Roy Salyer |
+| 195 | 377 | Liberty |
 | 196 | 364 | Shinette Dobson |
 | 197 | 363 | William Meussner |
 | 198 | 361 | Dizzy Zone |
@@ -413,8 +413,8 @@
 | 405 | 194 | Kimberly Ann |
 | 406 | 194 | Mike Aprilliano |
 | 407 | 194 | Hoppy Brickmatch |
-| 408 | 193 | Matthew Turner |
-| 409 | 193 | Kelly Ann McCormick |
+| 408 | 193 | Kelly Ann McCormick |
+| 409 | 193 | Matthew Turner |
 | 410 | 193 | Amanda Schaffer |
 | 411 | 192 | Alyssa Nadine Medelez |
 | 412 | 191 | Lauren Fitzgerald Thomas |
@@ -517,12 +517,12 @@
 | 509 | 155 | Monarca26 |
 | 510 | 155 | Chelle |
 | 511 | 155 | Angela Murgia-Owen |
-| 512 | 155 | Cris cris |
-| 513 | 155 | Tara Lynn Janes |
+| 512 | 155 | Tara Lynn Janes |
+| 513 | 155 | Cris cris |
 | 514 | 154 | Lori Maring |
 | 515 | 154 | Bryan Werleman |
-| 516 | 154 | Tiffney Wroten |
-| 517 | 154 | Cini |
+| 516 | 154 | Cini |
+| 517 | 154 | Tiffney Wroten |
 | 518 | 153 | Poppy Gridder |
 | 519 | 153 | Luna |
 | 520 | 152 | Kristin King |

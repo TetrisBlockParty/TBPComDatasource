@@ -214,10 +214,10 @@
 | 206 | 75 | Tyler L Hunt |
 | 207 | 75 | Plucky Wrecker |
 | 208 | 74 | Meechie |
-| 209 | 74 | Owicked1 |
-| 210 | 74 | Grace Joanne Agnant |
-| 211 | 73 | Shanae Grant |
-| 212 | 73 | Chantelle Ceno |
+| 209 | 74 | Grace Joanne Agnant |
+| 210 | 74 | Owicked1 |
+| 211 | 73 | Chantelle Ceno |
+| 212 | 73 | Shanae Grant |
 | 213 | 73 | Silly Align |
 | 214 | 72 | Tipsy Strikerpiece |
 | 215 | 70 | Henry Lanier |
