@@ -316,8 +316,8 @@
 | 308 | 442 | Joshua Mandel |
 | 309 | 441 | Nashu |
 | 310 | 440 | Liberty |
-| 311 | 439 | Joseph Musick |
-| 312 | 439 | Alisa Lamb |
+| 311 | 439 | Alisa Lamb |
+| 312 | 439 | Joseph Musick |
 | 313 | 437 | Arwa Fatimah |
 | 314 | 436 | Melissa Kay Gibson |
 | 315 | 435 | Kimberly Randesi |
@@ -345,8 +345,8 @@
 | 337 | 409 | Sparkles |
 | 338 | 409 | Kristen O'Neal |
 | 339 | 406 | Erin StFrancis |
-| 340 | 405 | Sarah Massey |
-| 341 | 405 | Christy Krissie |
+| 340 | 405 | Christy Krissie |
+| 341 | 405 | Sarah Massey |
 | 342 | 403 | Tonya Lee |
 | 343 | 403 | nikki |
 | 344 | 402 | Brandy Andre |
@@ -804,8 +804,8 @@
 | 796 | 180 | Peter Palestino |
 | 797 | 180 | Kelli Hackett |
 | 798 | 179 | Cat |
-| 799 | 179 | Ibiza Carolina LaRose |
-| 800 | 179 | Albert McKnight |
+| 799 | 179 | Albert McKnight |
+| 800 | 179 | Ibiza Carolina LaRose |
 | 801 | 179 | Andrew Bratton-Tomes |
 | 802 | 178 | BTA |
 | 803 | 178 | Corey Anthony Moe Matta |

@@ -60,15 +60,15 @@
 | 52 | 702 | Stephanie Allmon |
 | 53 | 621 | Cherry Parker |
 | 54 | 618 | MissTaylor |
-| 55 | 614 | Jamie Furr |
-| 56 | 614 | Gracie |
+| 55 | 614 | Gracie |
+| 56 | 614 | Jamie Furr |
 | 57 | 613 | Amber Hughes |
 | 58 | 604 | Danielle Becker |
 | 59 | 597 | Elaine Webb Graves |
 | 60 | 591 | Suzieq |
 | 61 | 588 | yoyo |
-| 62 | 582 | Katrina Schroeder |
-| 63 | 582 | Natasha Jones |
+| 62 | 582 | Natasha Jones |
+| 63 | 582 | Katrina Schroeder |
 | 64 | 581 | Danielle Mogg |
 | 65 | 580 | Amanda L Baker |
 | 66 | 574 | Groovy Catcher |
@@ -169,8 +169,8 @@
 | 161 | 234 | Ashley Tookes |
 | 162 | 233 | Ray Lader |
 | 163 | 231 | Nikki Pags |
-| 164 | 228 | Rochelle Hazelett |
-| 165 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 164 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 165 | 228 | Rochelle Hazelett |
 | 166 | 228 | Morgan Martinez |
 | 167 | 226 | Grego Daniel |
 | 168 | 224 | Nicole Myers |
@@ -346,7 +346,7 @@
 | 338 | 116 | Denise Marie |
 | 339 | 116 | Elisha L Allman |
 | 340 | 115 | Brave Brickster |
-| 341 | 115 | FATTY |
+| 341 | 115 | Jason-Ashley Ludlow |
 | 342 | 115 | Chummy Caster |
 | 343 | 115 | FATTY |
 | 344 | 114 | Amanda Neal |
