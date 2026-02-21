@@ -106,8 +106,8 @@
 | 98 | 529 | Tonya Morgan |
 | 99 | 527 | Stacy Stickle |
 | 100 | 525 | Desiree Anderson |
-| 101 | 515 | Kaylee McCafferty |
-| 102 | 515 | Real Ri |
+| 101 | 515 | Real Ri |
+| 102 | 515 | Kaylee McCafferty |
 | 103 | 509 | Kelli Wells |
 | 104 | 505 | Danielle Johnson-Chandler |
 | 105 | 503 | Dustin Rains |
@@ -298,8 +298,8 @@
 | 290 | 208 | Smashanator |
 | 291 | 208 | Mema |
 | 292 | 207 | Melissa McCall |
-| 293 | 206 | Denise Rickman |
-| 294 | 206 | RAEPR05 |
+| 293 | 206 | RAEPR05 |
+| 294 | 206 | Denise Rickman |
 | 295 | 206 | Julio A Laracuente |
 | 296 | 205 | Lylymom |
 | 297 | 205 | ElizabethAnn Dickinson |
@@ -567,9 +567,9 @@
 | 559 | 114 | Kelli Clark |
 | 560 | 114 | Melissa Maples |
 | 561 | 113 | Hillary Franklin |
-| 562 | 113 | Brave Gridzone |
-| 563 | 113 | Della Hole |
-| 564 | 112 | Goofy Catcher |
+| 562 | 113 | Della Hole |
+| 563 | 113 | Brave Gridzone |
+| 564 | 112 | Goofy Blockfall |
 | 565 | 112 | Catherine Varea |
 | 566 | 112 | Christina Wsn |
 | 567 | 112 | Ashley Bacote |

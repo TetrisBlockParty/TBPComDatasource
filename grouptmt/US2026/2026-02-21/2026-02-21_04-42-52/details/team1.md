@@ -147,8 +147,8 @@
 | 139 | 80 | Larry Tilton |
 | 140 | 80 | Brandi Egbert |
 | 141 | 79 | LD1 |
-| 142 | 79 | Chris65 |
-| 143 | 79 | Tyler Whitley |
+| 142 | 79 | Tyler Whitley |
+| 143 | 79 | Chris65 |
 | 144 | 78 | Sam Williams |
 | 145 | 77 | Kellie |
 | 146 | 77 | Teddy Alexander |
