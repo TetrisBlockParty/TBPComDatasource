@@ -184,8 +184,8 @@
 | 176 | 411 | Ricky Fortune |
 | 177 | 409 | Sparkles |
 | 178 | 406 | Erin StFrancis |
-| 179 | 400 | Tammy Allen |
-| 180 | 400 | Crystie Hicks |
+| 179 | 400 | Crystie Hicks |
+| 180 | 400 | Tammy Allen |
 | 181 | 397 | Ashley Guernsey-Martin |
 | 182 | 396 | Rhonda Milstead |
 | 183 | 394 | Em Chen |
@@ -281,8 +281,8 @@
 | 273 | 279 | Nika Bee |
 | 274 | 278 | Noel Tarmy |
 | 275 | 276 | Lindsey Leigh |
-| 276 | 276 | Vonceial Boone |
-| 277 | 276 | SwampRebel |
+| 276 | 276 | SwampRebel |
+| 277 | 276 | Vonceial Boone |
 | 278 | 275 | Cheeky Brickmatch |
 | 279 | 275 | Ann Matzkanin |
 | 280 | 275 | Shiny Rollzone |
@@ -423,8 +423,8 @@
 | 415 | 191 | John Quiring |
 | 416 | 191 | Deana |
 | 417 | 191 | Sho Nuff |
-| 418 | 190 | Jessica Kaye DeAguero |
-| 419 | 190 | Layna Lyons |
+| 418 | 190 | Layna Lyons |
+| 419 | 190 | Jessica Kaye DeAguero |
 | 420 | 189 | Alishac Marie |
 | 421 | 188 | Seth Wrieden |
 | 422 | 188 | Justin Hines |
@@ -450,8 +450,8 @@
 | 442 | 180 | Jackie Lucas |
 | 443 | 179 | Desiree Harris Rosch |
 | 444 | 179 | Elizabeth Pearson |
-| 445 | 179 | Cat |
-| 446 | 179 | Bette Prieto |
+| 445 | 179 | Bette Prieto |
+| 446 | 179 | Cat |
 | 447 | 178 | Michelle Shrum |
 | 448 | 177 | Facuetoo |
 | 449 | 177 | Angel |
@@ -615,8 +615,8 @@
 | 607 | 134 | Dandy Drop |
 | 608 | 134 | Swanky Columnbuilder |
 | 609 | 134 | Slinky Risegrid |
-| 610 | 134 | Quinn |
-| 611 | 134 | Christina Jones |
+| 610 | 134 | Christina Jones |
+| 611 | 134 | Quinn |
 | 612 | 134 | Leebo Slice |
 | 613 | 134 | Sarah Massey |
 | 614 | 133 | Jess Orosz |
@@ -1094,8 +1094,8 @@
 | 1086 | 80 | Paige Pope |
 | 1087 | 80 | Mary-Pat Ward |
 | 1088 | 80 | Kay Perkins |
-| 1089 | 79 | Big Games |
-| 1090 | 79 | Sassy Base |
+| 1089 | 79 | Sassy Base |
+| 1090 | 79 | Big Games |
 | 1091 | 79 | Monica DeLoach Jandran |
 | 1092 | 79 | Bow Duke |
 | 1093 | 79 | Giggy Grabber |

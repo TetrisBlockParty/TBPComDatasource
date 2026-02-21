@@ -214,8 +214,8 @@
 | 206 | 76 | Crystal Lynn |
 | 207 | 76 | Madison Sweere |
 | 208 | 76 | Bethany Ison |
-| 209 | 75 | Christina Black |
-| 210 | 75 | Rosemary Foster |
+| 209 | 75 | Rosemary Foster |
+| 210 | 75 | Christina Black |
 | 211 | 74 | Krs |
 | 212 | 74 | Tyler Terrific |
 | 213 | 73 | Lynn Marie |
@@ -255,7 +255,7 @@
 | 247 | 64 | Mousey406 |
 | 248 | 64 | Joseph Edmonson |
 | 249 | 64 | Sarah Brown |
-| 250 | 64 | Joseph Edmonson |
+| 250 | 64 | rebel4lyfe |
 | 251 | 63 | Cheery Risebuilder |
 | 252 | 63 | Gilles Lanctot |
 | 253 | 63 | Zesty Snapmatch |

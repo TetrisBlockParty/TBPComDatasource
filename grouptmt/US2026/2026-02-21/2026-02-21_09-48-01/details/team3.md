@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -135,8 +135,8 @@
 | 127 | 180 | Fallorina Susana |
 | 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Kelly Ann Child |
 | 134 | 166 | Danielle Mogg |
@@ -158,12 +158,12 @@
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
-| 153 | 149 | Angel Mendez |
-| 154 | 149 | Trisha Balmer |
-| 155 | 149 | Bea Miles |
+| 153 | 149 | Trisha Balmer |
+| 154 | 149 | Bea Miles |
+| 155 | 149 | Angel Mendez |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Latoya Mayne |
-| 158 | 146 | Denita Mungro |
+| 157 | 146 | Denita Mungro |
+| 158 | 146 | Latoya Mayne |
 | 159 | 142 | Erica Anderson |
 | 160 | 140 | Gumbo |
 | 161 | 140 | Jay Horn |
