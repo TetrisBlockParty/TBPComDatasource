@@ -40,8 +40,8 @@
 | 32 | 859 | Amber Jones |
 | 33 | 852 | cowboy25469 |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 749 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -105,8 +105,8 @@
 | 97 | 309 | Rich LeBlanc |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
-| 100 | 300 | Tessina Dewey-Mancino |
-| 101 | 300 | Sherika C. McDaniels |
+| 100 | 300 | Sherika C. McDaniels |
+| 101 | 300 | Tessina Dewey-Mancino |
 | 102 | 299 | Speedy Bridger |
 | 103 | 267 | Rufus Lincoln |
 | 104 | 264 | Tiff Vs Tiffany |
@@ -148,8 +148,8 @@
 | 140 | 195 | Nicha Hooker |
 | 141 | 194 | glichmod |
 | 142 | 193 | Stephanie Burtin |
-| 143 | 193 | Clever Shiftsnap |
-| 144 | 193 | Duane Bright |
+| 143 | 193 | Duane Bright |
+| 144 | 193 | Clever Shiftsnap |
 | 145 | 191 | Giddy Twistbuilder |
 | 146 | 191 | Scott Carleton |
 | 147 | 189 | Sissy Lowery Davis |

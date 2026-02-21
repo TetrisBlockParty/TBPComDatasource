@@ -104,8 +104,8 @@
 | 96 | 171 | Melvin Baird |
 | 97 | 170 | Girl |
 | 98 | 167 | Denise Carlson |
-| 99 | 164 | blockstar |
-| 100 | 164 | ThaEviLJeNiuZ |
+| 99 | 164 | ThaEviLJeNiuZ |
+| 100 | 164 | blockstar |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
 | 103 | 160 | Stacey Stano |
@@ -400,7 +400,7 @@
 | 392 | 50 | Smiley Linkgrid |
 | 393 | 49 | Snappy Combofall |
 | 394 | 49 | Lakesha Johnson |
-| 395 | 49 | Rae Henderson |
+| 395 | 49 | Snippy Puzzle |
 | 396 | 49 | Angel Raya |
 | 397 | 49 | Rae Henderson |
 | 398 | 49 | Jessica Graham |

@@ -100,9 +100,9 @@
 | 92 | 180 | Erez Yosef |
 | 93 | 179 | Yvonne Marie |
 | 94 | 178 | Danielle Little-Daugherty |
-| 95 | 173 | Jennifer Olewnik Soborowski |
+| 95 | 173 | june october |
 | 96 | 173 | Frothy Pattern |
-| 97 | 173 | june october |
+| 97 | 173 | Jennifer Olewnik Soborowski |
 | 98 | 171 | Greg Premoe |
 | 99 | 169 | Abbey Crespo |
 | 100 | 166 | Rico Rico |

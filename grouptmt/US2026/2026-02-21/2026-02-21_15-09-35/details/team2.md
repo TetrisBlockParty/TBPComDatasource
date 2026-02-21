@@ -143,8 +143,8 @@
 | 135 | 620 | BYM4L |
 | 136 | 619 | Jamie Otero |
 | 137 | 616 | Poldo Ilano |
-| 138 | 608 | John Bednarik |
-| 139 | 608 | Sommer Shope |
+| 138 | 608 | Sommer Shope |
+| 139 | 608 | John Bednarik |
 | 140 | 604 | Amber Shoemaker |
 | 141 | 603 | Cassie Maynard |
 | 142 | 602 | L3sli3 |
@@ -536,8 +536,8 @@
 | 528 | 187 | Josh Dill |
 | 529 | 186 | Wacky Cascade |
 | 530 | 186 | Joshua Mullings |
-| 531 | 185 | Lively Edgepiece |
-| 532 | 185 | Lively Catcher |
+| 531 | 185 | Lively Catcher |
+| 532 | 185 | Lively Edgepiece |
 | 533 | 185 | Jason H Baker |
 | 534 | 185 | AgileDragon |
 | 535 | 184 | HarleyJane |
@@ -953,7 +953,7 @@
 | 945 | 111 | LaDonna Wann |
 | 946 | 110 | Abhishek Mutha |
 | 947 | 110 | Cranky Pattern |
-| 948 | 110 | Narutofreak13 |
+| 948 | 110 | Britni Deas |
 | 949 | 110 | Plucky Cascadeclear |
 | 950 | 110 | Narutofreak13 |
 | 951 | 109 | Chummy Caster |
