@@ -101,8 +101,8 @@
 | 93 | 93 | Loony Fitzone |
 | 94 | 91 | Spunky Piecebuilder |
 | 95 | 90 | Madison Wicks |
-| 96 | 87 | TSwag |
-| 97 | 87 | Jessi Sauer |
+| 96 | 87 | Jessi Sauer |
+| 97 | 87 | TSwag |
 | 98 | 86 | Basment Living |
 | 99 | 85 | Steve Schneider |
 | 100 | 84 | Charla Pross-Fugleberg |

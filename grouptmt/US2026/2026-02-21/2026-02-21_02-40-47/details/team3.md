@@ -210,8 +210,8 @@
 | 202 | 70 | Leticia Lynn Lowe |
 | 203 | 70 | Boldy Blocker |
 | 204 | 69 | Hyper Matchzone |
-| 205 | 69 | Jen Lewis |
-| 206 | 69 | Danielle Balcom |
+| 205 | 69 | Danielle Balcom |
+| 206 | 69 | Jen Lewis |
 | 207 | 67 | Daryn Elliott |
 | 208 | 67 | Romeo |
 | 209 | 67 | Tommy Proctor |

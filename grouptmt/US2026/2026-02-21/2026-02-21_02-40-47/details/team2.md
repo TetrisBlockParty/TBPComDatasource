@@ -108,8 +108,8 @@
 | 100 | 434 | Suki Kaur |
 | 101 | 431 | Slip |
 | 102 | 427 | Debra Williams |
-| 103 | 426 | Magic steve |
-| 104 | 426 | Kaylee McCafferty |
+| 103 | 426 | Kaylee McCafferty |
+| 104 | 426 | Magic steve |
 | 105 | 424 | Charvi' Carter |
 | 106 | 423 | Jordan Kaiser |
 | 107 | 420 | YiFei |
@@ -141,8 +141,8 @@
 | 133 | 350 | Chris Harr |
 | 134 | 347 | Cherica Taylor |
 | 135 | 345 | Brenda Messer |
-| 136 | 345 | Alyssaaelena |
-| 137 | 345 | Rhianna DiLorenzo |
+| 136 | 345 | Rhianna DiLorenzo |
+| 137 | 345 | Alyssaaelena |
 | 138 | 344 | Christina Lewis-Vickers |
 | 139 | 342 | Tracy Wise |
 | 140 | 340 | Kimberly Randesi |
@@ -302,9 +302,9 @@
 | 294 | 167 | Fi Ne |
 | 295 | 166 | August Hale |
 | 296 | 165 | Cathy Bitters |
-| 297 | 164 | Kristopher Miller |
-| 298 | 164 | Jamie Stevey |
-| 299 | 164 | kippykay |
+| 297 | 164 | kippykay |
+| 298 | 164 | Kristopher Miller |
+| 299 | 164 | Jamie Stevey |
 | 300 | 163 | Austin Wilson |
 | 301 | 163 | Albert McKnight |
 | 302 | 163 | Taren Cowan |
@@ -368,8 +368,8 @@
 | 360 | 138 | King Shamell Young |
 | 361 | 137 | Bette Prieto |
 | 362 | 135 | Robin L. Vial |
-| 363 | 135 | Yemaja Obba Olokun |
-| 364 | 135 | Michelle Loar |
+| 363 | 135 | Michelle Loar |
+| 364 | 135 | Yemaja Obba Olokun |
 | 365 | 134 | Candace Noel |
 | 366 | 134 | Sarah Massey |
 | 367 | 134 | Christina Jones |

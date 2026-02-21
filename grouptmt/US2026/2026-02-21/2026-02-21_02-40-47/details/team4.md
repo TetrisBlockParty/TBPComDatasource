@@ -116,17 +116,17 @@
 | 108 | 78 | Zesty Linkgrid |
 | 109 | 78 | Chair |
 | 110 | 77 | Destiney Carter |
-| 111 | 76 | Jessica Miller |
-| 112 | 76 | Bethany Ison |
-| 113 | 75 | 🥔🥔 Spudz |
-| 114 | 75 | Rosemary Foster |
+| 111 | 76 | Bethany Ison |
+| 112 | 76 | Jessica Miller |
+| 113 | 75 | Rosemary Foster |
+| 114 | 75 | 🥔🥔 Spudz |
 | 115 | 72 | Joshua Cuellar |
 | 116 | 71 | Joseph Pace |
 | 117 | 71 | Shukee Lo |
 | 118 | 71 | Christina Black |
 | 119 | 70 | Valerie Roberts |
-| 120 | 69 | Michelle Marie |
-| 121 | 69 | Carol Ricks Raymond |
+| 120 | 69 | Carol Ricks Raymond |
+| 121 | 69 | Michelle Marie |
 | 122 | 68 | LS |
 | 123 | 67 | Frank Joseph Epson |
 | 124 | 67 | Lindsey Gonzalez |
