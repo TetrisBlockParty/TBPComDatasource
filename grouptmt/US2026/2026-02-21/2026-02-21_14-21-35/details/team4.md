@@ -169,15 +169,15 @@
 | 161 | 105 | AyeKay |
 | 162 | 104 | Damn Libra |
 | 163 | 103 | Judy Cox |
-| 164 | 102 | April Rondinone |
+| 164 | 102 | Autumn Kumzi |
 | 165 | 102 | Faja |
 | 166 | 102 | April Rondinone |
 | 167 | 101 | Michelle Morris |
 | 168 | 101 | Saulc1991 |
 | 169 | 100 | Alexandra Karavias |
-| 170 | 99 | Anthony Bryan Riva |
-| 171 | 99 | Michael Orris |
-| 172 | 98 | Chaz |
+| 170 | 99 | Michael Orris |
+| 171 | 99 | Anthony Bryan Riva |
+| 172 | 98 | Jeremy Steines |
 | 173 | 98 | Duck |
 | 174 | 98 | Chaz |
 | 175 | 97 | Brandi Durig |
@@ -426,7 +426,7 @@
 | 418 | 45 | Mary Miller |
 | 419 | 45 | Tammy Lewis |
 | 420 | 45 | Jen May |
-| 421 | 45 | Zach Kerbs |
+| 421 | 45 | Lindsay Ball |
 | 422 | 45 | Randy |
 | 423 | 45 | April Spoelma |
 | 424 | 45 | Sho Nuff |

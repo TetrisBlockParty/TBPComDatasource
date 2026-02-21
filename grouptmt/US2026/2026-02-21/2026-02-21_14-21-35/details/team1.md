@@ -54,8 +54,8 @@
 | 46 | 291 | Nancy Green |
 | 47 | 287 | Hyper |
 | 48 | 276 | Kristen Roles Robben |
-| 49 | 274 | Theo Pinnow |
-| 50 | 274 | Sweet Baker |
+| 49 | 274 | Sweet Baker |
+| 50 | 274 | Theo Pinnow |
 | 51 | 272 | Adam Byrd |
 | 52 | 264 | Shauna Loe |
 | 53 | 257 | Sarah Roberts |
@@ -73,8 +73,8 @@
 | 65 | 216 | Dee Perry |
 | 66 | 212 | Jaimie Lynn |
 | 67 | 211 | Marianita Garcia |
-| 68 | 208 | Carrie Beck Geartz |
-| 69 | 208 | Mandyy Rae |
+| 68 | 208 | Mandyy Rae |
+| 69 | 208 | Carrie Beck Geartz |
 | 70 | 205 | Trippy Redd |
 | 71 | 204 | Ly Phethmany |
 | 72 | 204 | Lexuriuos Lifestlye |
