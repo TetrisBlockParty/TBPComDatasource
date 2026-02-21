@@ -40,8 +40,8 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Jenna Ingersoll |
-| 36 | 231 | Michelle Marie |
+| 35 | 231 | Michelle Marie |
+| 36 | 231 | Jenna Ingersoll |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
@@ -80,14 +80,14 @@
 | 72 | 129 | John Brunetti |
 | 73 | 125 | Lauren Scott |
 | 74 | 123 | Nugget |
-| 75 | 122 | Shelly Chandler |
-| 76 | 122 | Sherri |
+| 75 | 122 | Sherri |
+| 76 | 122 | Shelly Chandler |
 | 77 | 121 | Smiley Tiltbuilder |
 | 78 | 120 | Joshua Guess |
 | 79 | 119 | Kristin Manee |
 | 80 | 116 | Serena Goodridge |
-| 81 | 114 | Jessica Cagle |
-| 82 | 114 | Zany Shatterer |
+| 81 | 114 | Zany Shatterer |
+| 82 | 114 | Jessica Cagle |
 | 83 | 114 | Klo |
 | 84 | 113 | Leslie Nicole |
 | 85 | 113 | Andria Lynn |
@@ -105,8 +105,8 @@
 | 97 | 104 | YoMomma |
 | 98 | 103 | Sam Middleton |
 | 99 | 102 | Faja |
-| 100 | 101 | Stephme310 |
-| 101 | 101 | Michelle Morris |
+| 100 | 101 | Michelle Morris |
+| 101 | 101 | Stephme310 |
 | 102 | 100 | Jeff Brian Gates |
 | 103 | 98 | Allen Lloyd |
 | 104 | 98 | 030Synner |
@@ -145,11 +145,11 @@
 | 137 | 81 | Blessedmama |
 | 138 | 81 | Jumpy Zonepiece |
 | 139 | 80 | Melissa Adams |
-| 140 | 79 | Shainne Brewer |
-| 141 | 79 | Nubian1 |
-| 142 | 78 | Chair |
-| 143 | 78 | Jessica Miller |
-| 144 | 78 | Zesty Linkgrid |
+| 140 | 79 | Nubian1 |
+| 141 | 79 | Shainne Brewer |
+| 142 | 78 | Zesty Linkgrid |
+| 143 | 78 | Chair |
+| 144 | 78 | Jessica Miller |
 | 145 | 77 | Chris Alexinas |
 | 146 | 76 | Bethany Ison |
 | 147 | 75 | Rosemary Foster |
@@ -161,8 +161,8 @@
 | 153 | 73 | April Rondinone |
 | 154 | 72 | Robin Getchel |
 | 155 | 72 | Joshua Cuellar |
-| 156 | 71 | Joseph Pace |
-| 157 | 71 | Lindsey Gonzalez |
+| 156 | 71 | Lindsey Gonzalez |
+| 157 | 71 | Joseph Pace |
 | 158 | 70 | Richard-April Kice |
 | 159 | 69 | Carol Ricks Raymond |
 | 160 | 68 | GBR |
@@ -196,8 +196,8 @@
 | 188 | 61 | Alee Marie |
 | 189 | 60 | Ahleek Mitchell |
 | 190 | 59 | Jen Mattei |
-| 191 | 59 | Jasmine S Caldwell |
-| 192 | 59 | Chastity Mitchell |
+| 191 | 59 | Chastity Mitchell |
+| 192 | 59 | Jasmine S Caldwell |
 | 193 | 58 | Autumn Kumzi |
 | 194 | 58 | Breannah Grafe |
 | 195 | 57 | Swanky Fitline |

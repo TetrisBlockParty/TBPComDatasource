@@ -134,8 +134,8 @@
 | 126 | 131 | Emma |
 | 127 | 131 | Jl |
 | 128 | 128 | Angel Mendez |
-| 129 | 127 | Marquita Sheard |
-| 130 | 127 | Aerian Preston |
+| 129 | 127 | Aerian Preston |
+| 130 | 127 | Marquita Sheard |
 | 131 | 126 | Stephanie Burtin |
 | 132 | 126 | Dan Rob |
 | 133 | 125 | Stephanie Simpson |
@@ -224,8 +224,8 @@
 | 216 | 84 | Amanda L Baker |
 | 217 | 84 | Flashy Rumbler |
 | 218 | 83 | Michael Nowogorski |
-| 219 | 82 | Stephanie Whitefield |
-| 220 | 82 | Crystel b520 |
+| 219 | 82 | Crystel b520 |
+| 220 | 82 | Stephanie Whitefield |
 | 221 | 81 | Tina Baurdau |
 | 222 | 80 | Oliver Neal II |
 | 223 | 80 | Vixen Queen |

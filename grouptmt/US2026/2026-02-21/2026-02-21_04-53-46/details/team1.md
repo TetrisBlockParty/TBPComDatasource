@@ -67,8 +67,8 @@
 | 59 | 168 | Happy Snapbuild |
 | 60 | 163 | Chad Atchley |
 | 61 | 161 | Abbey Crespo |
-| 62 | 155 | Standia Civil |
-| 63 | 155 | David DeSantis |
+| 62 | 155 | David DeSantis |
+| 63 | 155 | Standia Civil |
 | 64 | 152 | Jacqueline Unique |
 | 65 | 150 | Rico Rico |
 | 66 | 149 | Tana |
@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Gary Gobin |
-| 83 | 128 | Uhog SF |
+| 82 | 128 | Uhog SF |
+| 83 | 128 | Gary Gobin |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Tater |

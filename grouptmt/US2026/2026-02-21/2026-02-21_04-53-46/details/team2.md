@@ -172,12 +172,12 @@
 | 164 | 350 | Kimberly Randesi |
 | 165 | 348 | Richard Horton |
 | 166 | 348 | Cherica Taylor |
-| 167 | 345 | Brenda Messer |
-| 168 | 345 | Alyssaaelena |
+| 167 | 345 | Alyssaaelena |
+| 168 | 345 | Brenda Messer |
 | 169 | 345 | Wuntayk |
 | 170 | 345 | Rhianna DiLorenzo |
-| 171 | 344 | Julie Kresal |
-| 172 | 344 | Christina Lewis-Vickers |
+| 171 | 344 | Christina Lewis-Vickers |
+| 172 | 344 | Julie Kresal |
 | 173 | 342 | Tracy Wise |
 | 174 | 339 | Qiana Sanders |
 | 175 | 337 | Joseph Musick |
