@@ -140,8 +140,8 @@
 | 132 | 881 | Tanya Parsons |
 | 133 | 875 | Kelly Trent |
 | 134 | 869 | Desiree Harris Rosch |
-| 135 | 867 | Rosa Franklin |
-| 136 | 867 | Michele Gabriel |
+| 135 | 867 | Michele Gabriel |
+| 136 | 867 | Rosa Franklin |
 | 137 | 861 | Jennifer Peachey |
 | 138 | 859 | Ray Ray Prado |
 | 139 | 849 | Jennifer Kistner |
@@ -193,8 +193,8 @@
 | 185 | 690 | Deborah Miller |
 | 186 | 688 | Dreamy Blast |
 | 187 | 688 | Wendy Harder Gage |
-| 188 | 686 | Dannette Goldberg-Richards |
-| 189 | 686 | Ashley Guernsey-Martin |
+| 188 | 686 | Ashley Guernsey-Martin |
+| 189 | 686 | Dannette Goldberg-Richards |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
@@ -352,20 +352,20 @@
 | 344 | 414 | Sabrina Burton |
 | 345 | 414 | Emily Lyric Converse |
 | 346 | 414 | John |
-| 347 | 411 | Ricky Fortune |
-| 348 | 411 | Kristen O'Neal |
+| 347 | 411 | Kristen O'Neal |
+| 348 | 411 | Ricky Fortune |
 | 349 | 406 | Erin StFrancis |
 | 350 | 406 | Julie Kresal |
 | 351 | 406 | Tj Ball |
-| 352 | 405 | Christy Krissie |
-| 353 | 405 | Sarah Massey |
+| 352 | 405 | Sarah Massey |
+| 353 | 405 | Christy Krissie |
 | 354 | 403 | Tonya Lee |
 | 355 | 402 | Brandy Andre |
 | 356 | 401 | Taylor Flowers |
 | 357 | 400 | Tammy Allen |
 | 358 | 400 | Catina Hutchison |
-| 359 | 399 | Steven Marshaun |
-| 360 | 399 | Juanita Lyons |
+| 359 | 399 | Juanita Lyons |
+| 360 | 399 | Steven Marshaun |
 | 361 | 398 | Brenda Utphall |
 | 362 | 398 | Moni Foxe |
 | 363 | 397 | coleksquad |
@@ -481,8 +481,8 @@
 | 473 | 317 | snkylnk |
 | 474 | 316 | Mikayala Szaz |
 | 475 | 315 | Ryan Meilleur |
-| 476 | 314 | Party d |
-| 477 | 314 | Amanda West |
+| 476 | 314 | Amanda West |
+| 477 | 314 | Party d |
 | 478 | 314 | James Zaragoza |
 | 479 | 313 | Natasha Edmonds |
 | 480 | 312 | Alexis Richardson |
@@ -708,8 +708,8 @@
 | 700 | 211 | Brenda Pierpoint |
 | 701 | 211 | Nancy Pohlman |
 | 702 | 211 | Joel Rosado |
-| 703 | 210 | Cappin You |
-| 704 | 210 | Marcie McLain Dodd |
+| 703 | 210 | Marcie McLain Dodd |
+| 704 | 210 | Cappin You |
 | 705 | 210 | Joshua Switzer |
 | 706 | 210 | ElizabethAnn Dickinson |
 | 707 | 209 | Chummy Breaker |
@@ -837,9 +837,9 @@
 | 829 | 179 | Cat |
 | 830 | 179 | Andrew Bratton-Tomes |
 | 831 | 178 | BTA |
-| 832 | 178 | Wungun Shun |
-| 833 | 178 | Dandy Combo |
-| 834 | 178 | Kim McGrath |
+| 832 | 178 | Kim McGrath |
+| 833 | 178 | Wungun Shun |
+| 834 | 178 | Dandy Combo |
 | 835 | 178 | Hyper Gridroll |
 | 836 | 177 | RaeVan Worthington |
 | 837 | 177 | Leslie Porter |

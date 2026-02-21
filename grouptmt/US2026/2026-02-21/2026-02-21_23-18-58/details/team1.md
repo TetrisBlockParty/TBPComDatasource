@@ -147,12 +147,12 @@
 | 139 | 186 | Jennifer Olewnik Soborowski |
 | 140 | 186 | Margo Wagner |
 | 141 | 185 | Basment Living |
-| 142 | 180 | BigWeenie69 |
-| 143 | 180 | Michael |
-| 144 | 180 | Erez Yosef |
+| 142 | 180 | Erez Yosef |
+| 143 | 180 | BigWeenie69 |
+| 144 | 180 | Michael |
 | 145 | 179 | Danielle Little-Daugherty |
-| 146 | 178 | Chad Atchley |
-| 147 | 178 | Shiny Gridmatch |
+| 146 | 178 | Shiny Gridmatch |
+| 147 | 178 | Chad Atchley |
 | 148 | 177 | ParisandCory Champagne |
 | 149 | 175 | Irual Hctrab |
 | 150 | 175 | John Barron |
@@ -188,8 +188,8 @@
 | 180 | 147 | Davery Spencer Adair |
 | 181 | 145 | Agustin Duarte Orozco |
 | 182 | 144 | Cranky Pattern |
-| 183 | 144 | Miguel Teixeira |
-| 184 | 144 | Gary Gobin |
+| 183 | 144 | Gary Gobin |
+| 184 | 144 | Miguel Teixeira |
 | 185 | 142 | Colleen Wise |
 | 186 | 141 | Blaire Bruckoff |
 | 187 | 141 | Dino |

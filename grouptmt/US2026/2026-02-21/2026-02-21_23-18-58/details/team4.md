@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | Marie-Pier Desjardins |
-| 68 | 376 | quicksand420 |
+| 67 | 376 | quicksand420 |
+| 68 | 376 | Marie-Pier Desjardins |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -160,8 +160,8 @@
 | 152 | 156 | Holly |
 | 153 | 155 | AyeKay |
 | 154 | 153 | Empress Oasis |
-| 155 | 153 | Chair |
-| 156 | 153 | Avy Absol |
+| 155 | 153 | Avy Absol |
+| 156 | 153 | Chair |
 | 157 | 152 | Roger Coulter |
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |
@@ -334,7 +334,7 @@
 | 326 | 80 | James Hurley Jr. |
 | 327 | 80 | Ahleek Mitchell |
 | 328 | 80 | Melissa Adams |
-| 329 | 79 | Sharyn Lemire |
+| 329 | 79 | Undeniable Williams |
 | 330 | 79 | Jason Allen |
 | 331 | 79 | Krs |
 | 332 | 79 | Sharyn Lemire |

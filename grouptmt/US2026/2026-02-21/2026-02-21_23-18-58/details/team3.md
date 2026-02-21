@@ -109,8 +109,8 @@
 | 101 | 402 | Stephanie Simpson |
 | 102 | 400 | Luciana Braganca Vieira |
 | 103 | 397 | Mcathen |
-| 104 | 394 | joclisa |
-| 105 | 394 | Annie Déè |
+| 104 | 394 | Annie Déè |
+| 105 | 394 | joclisa |
 | 106 | 392 | Michelle |
 | 107 | 391 | Calista Jo Dickson |
 | 108 | 390 | Hasty Cascadefit |
@@ -145,8 +145,8 @@
 | 137 | 294 | Logan Naccarato |
 | 138 | 293 | Poppy Splitter |
 | 139 | 289 | Hoppy Buildout |
-| 140 | 286 | Jacqueline Rodriguez |
-| 141 | 286 | Marci Mize Fandrich |
+| 140 | 286 | Marci Mize Fandrich |
+| 141 | 286 | Jacqueline Rodriguez |
 | 142 | 283 | Joye Sims Binion |
 | 143 | 281 | Loopy Clusterer |
 | 144 | 278 | Rufus Lincoln |
@@ -195,8 +195,8 @@
 | 187 | 211 | Katrina Turner |
 | 188 | 211 | Khaleada McGill Banks |
 | 189 | 210 | Michael Lucado |
-| 190 | 207 | Jessica |
-| 191 | 207 | Chris Bell |
+| 190 | 207 | Chris Bell |
+| 191 | 207 | Jessica |
 | 192 | 205 | Sarah Moyer |
 | 193 | 204 | Danielle Allison |
 | 194 | 203 | Twisty Brick LT |
@@ -382,10 +382,10 @@
 | 374 | 107 | Criss |
 | 375 | 107 | Megan Stanley |
 | 376 | 106 | Cheeky Setter |
-| 377 | 105 | Dapper Towerfit |
-| 378 | 105 | Emi |
+| 377 | 105 | Snarky McFace |
+| 378 | 105 | Dapper Towerfit |
 | 379 | 105 | Trice Thomas |
-| 380 | 105 | Snarky McFace |
+| 380 | 105 | Emi |
 | 381 | 104 | Niki Dalrymple |
 | 382 | 104 | bean |
 | 383 | 103 | Lisa Lisa |
