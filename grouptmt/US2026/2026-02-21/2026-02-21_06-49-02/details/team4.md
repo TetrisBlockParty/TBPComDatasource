@@ -26,8 +26,8 @@
 | 18 | 456 | Valerie Roberts |
 | 19 | 402 | Samantha Peterson |
 | 20 | 390 | Alicia Bass |
-| 21 | 383 | Johnathan Martinez |
-| 22 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Carmethia Clemons Haslerig |
+| 22 | 383 | Johnathan Martinez |
 | 23 | 377 | Edward White |
 | 24 | 373 | Rodney McMath Jr. |
 | 25 | 348 | Carolyn Wallace |
@@ -96,8 +96,8 @@
 | 88 | 131 | Dana Scott |
 | 89 | 130 | Casey Jeffcoat |
 | 90 | 130 | Lucas J Sutton |
-| 91 | 129 | John Brunetti |
-| 92 | 129 | Landon Keith Graffeo |
+| 91 | 129 | Landon Keith Graffeo |
+| 92 | 129 | John Brunetti |
 | 93 | 125 | Lauren Scott |
 | 94 | 123 | Cherrish Duren |
 | 95 | 123 | Nugget |
@@ -221,10 +221,10 @@
 | 213 | 65 | Angela Geist Jusinski |
 | 214 | 65 | BlockBabe |
 | 215 | 64 | Joseph Edmonson |
-| 216 | 64 | rebel4lyfe |
-| 217 | 64 | Damn Libra |
-| 218 | 63 | Cheery Risebuilder |
-| 219 | 63 | Cristy Duerksen |
+| 216 | 64 | Damn Libra |
+| 217 | 64 | rebel4lyfe |
+| 218 | 63 | Cristy Duerksen |
+| 219 | 63 | Cheery Risebuilder |
 | 220 | 63 | Asher |
 | 221 | 62 | Jaycool |
 | 222 | 62 | Jessica Wells |

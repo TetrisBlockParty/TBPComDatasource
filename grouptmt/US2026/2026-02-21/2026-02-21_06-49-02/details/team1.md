@@ -33,8 +33,8 @@
 | 25 | 315 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Felicia Lewis |
-| 29 | 294 | Jacqueline Williams |
+| 28 | 294 | Jacqueline Williams |
+| 29 | 294 | Felicia Lewis |
 | 30 | 291 | Nancy Green |
 | 31 | 286 | Michelle Nicole |
 | 32 | 281 | Maria C. Hernandez |
@@ -58,8 +58,8 @@
 | 50 | 201 | Ananda Mendez |
 | 51 | 201 | Anaid Sanchez |
 | 52 | 200 | Lexuriuos Lifestlye |
-| 53 | 198 | Happy Snapbuild |
-| 54 | 198 | Billie Dawn Sparks |
+| 53 | 198 | Billie Dawn Sparks |
+| 54 | 198 | Happy Snapbuild |
 | 55 | 197 | Cynthia Bradley |
 | 56 | 194 | Sharon Reynolds |
 | 57 | 192 | Mandyy Rae |
@@ -105,8 +105,8 @@
 | 97 | 126 | Cece Ibarra |
 | 98 | 126 | Rachael |
 | 99 | 121 | Bouncy Grid |
-| 100 | 119 | Irual Hctrab |
-| 101 | 119 | Tater |
+| 100 | 119 | Tater |
+| 101 | 119 | Irual Hctrab |
 | 102 | 118 | Barry Mac'Ockner |
 | 103 | 116 | Evie Khalil |
 | 104 | 115 | comrade fish |
@@ -187,8 +187,8 @@
 | 179 | 72 | John J. Cronin |
 | 180 | 72 | Tipsy Strikerpiece |
 | 181 | 70 | Nerdy Linkblock |
-| 182 | 70 | Kenton Billings |
-| 183 | 70 | Seth Wesson |
+| 182 | 70 | Seth Wesson |
+| 183 | 70 | Kenton Billings |
 | 184 | 70 | Daring Fitclear |
 | 185 | 69 | Christy Jones |
 | 186 | 69 | Connie |

@@ -98,8 +98,8 @@
 | 90 | 224 | Mykal Burton |
 | 91 | 223 | Jeana Gilbert |
 | 92 | 222 | Jimmie Clemons |
-| 93 | 218 | mjl574 |
-| 94 | 218 | Judi Dobson |
+| 93 | 218 | Judi Dobson |
+| 94 | 218 | mjl574 |
 | 95 | 214 | Amy Fuller Heaton |
 | 96 | 213 | Tom Nault |
 | 97 | 207 | rnr junky |
@@ -322,7 +322,7 @@
 | 314 | 70 | Brave Bruno |
 | 315 | 69 | Jen Lewis |
 | 316 | 67 | Romeo |
-| 317 | 67 | Will Miller |
+| 317 | 67 | Wendy Dearden |
 | 318 | 67 | Daryn Elliott |
 | 319 | 67 | Will Miller |
 | 320 | 66 | Christen Cannon Layhew |

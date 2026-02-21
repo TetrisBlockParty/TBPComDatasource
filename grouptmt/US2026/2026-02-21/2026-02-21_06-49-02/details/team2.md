@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -336,8 +336,8 @@
 | 328 | 216 | Tum |
 | 329 | 215 | Jordan Petro |
 | 330 | 212 | Aleasha M Brown |
-| 331 | 212 | BK Queen |
-| 332 | 212 | Amanda Canterbury |
+| 331 | 212 | Amanda Canterbury |
+| 332 | 212 | BK Queen |
 | 333 | 208 | Mema |
 | 334 | 207 | Melissa McCall |
 | 335 | 207 | Brave Gridpiece |
