@@ -93,8 +93,8 @@
 | 85 | 191 | loulou |
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
-| 88 | 185 | Andy Cabral |
-| 89 | 185 | shar |
+| 88 | 185 | shar |
+| 89 | 185 | Andy Cabral |
 | 90 | 181 | Carter Jones |
 | 91 | 180 | Leah Kutz Zirbel |
 | 92 | 179 | Epic Curvetile |
@@ -175,7 +175,7 @@
 | 167 | 107 | Marcus Todd |
 | 168 | 107 | Rafael Valentin |
 | 169 | 106 | Avy Absol |
-| 170 | 105 | Sam Middleton |
+| 170 | 105 | 🥔🥔 Spudz |
 | 171 | 105 | Kristin MacDonald |
 | 172 | 105 | Sam Middleton |
 | 173 | 105 | TheNeesh50 |

@@ -592,8 +592,8 @@
 | 584 | 173 | Ocean-Brianna McGregor |
 | 585 | 173 | William Hunt |
 | 586 | 172 | Jasmine Kenney |
-| 587 | 171 | Bee |
-| 588 | 171 | Cappin You |
+| 587 | 171 | Cappin You |
+| 588 | 171 | Bee |
 | 589 | 171 | Ashley Cooper Tharin |
 | 590 | 170 | Kenya Felix |
 | 591 | 170 | Sharon Crawford |

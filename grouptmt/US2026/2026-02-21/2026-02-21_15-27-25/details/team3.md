@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Shane Wilson Jr. |
-| 36 | 810 | Zippy Strikesnap |
+| 35 | 810 | Zippy Strikesnap |
+| 36 | 810 | Shane Wilson Jr. |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 764 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -181,13 +181,13 @@
 | 173 | 166 | Betty Rosas |
 | 174 | 165 | Kali Kelz Williams |
 | 175 | 163 | Stephanie Hill |
-| 176 | 163 | Trisha Balmer |
-| 177 | 163 | Sashay Tapae Simpson |
+| 176 | 163 | Sashay Tapae Simpson |
+| 177 | 163 | Trisha Balmer |
 | 178 | 161 | BŘŰŤİÇŨŚ |
 | 179 | 161 | Nikki Pags |
 | 180 | 160 | Tiffany Davie |
-| 181 | 159 | Jone |
-| 182 | 159 | Stephanie Whitefield |
+| 181 | 159 | Stephanie Whitefield |
+| 182 | 159 | Jone |
 | 183 | 158 | Grams |
 | 184 | 157 | Patricia Gadsden |
 | 185 | 157 | Nicholas Roddy |
@@ -198,12 +198,12 @@
 | 190 | 152 | Shiny Zonebuilder |
 | 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Desiree Gold |
-| 197 | 149 | Angel Mendez |
-| 198 | 149 | Alexis Taylor |
+| 197 | 149 | Alexis Taylor |
+| 198 | 149 | Angel Mendez |
 | 199 | 146 | Latoya Mayne |
 | 200 | 146 | Carrie Huskey |
 | 201 | 146 | Denita Mungro |
@@ -214,8 +214,8 @@
 | 206 | 142 | Erica Anderson |
 | 207 | 141 | Loopy Fallzone |
 | 208 | 140 | Gumbo |
-| 209 | 136 | Boldy Corner |
-| 210 | 136 | Joy Petroski |
+| 209 | 136 | Joy Petroski |
+| 210 | 136 | Boldy Corner |
 | 211 | 135 | Cheryl Hinch Tenbrook |
 | 212 | 134 | Cozy Snaplink |
 | 213 | 133 | LaNette Morgan |
@@ -236,19 +236,19 @@
 | 228 | 123 | Michael Latasha Gray |
 | 229 | 122 | Juliana Dottore |
 | 230 | 122 | Giggly Brickroll |
-| 231 | 122 | BabyTonj Evans |
-| 232 | 122 | April Matthew Kibble |
+| 231 | 122 | April Matthew Kibble |
+| 232 | 122 | BabyTonj Evans |
 | 233 | 121 | Loopy Clusterer |
 | 234 | 121 | Valerie Gendron |
 | 235 | 121 | mzcatzy |
 | 236 | 120 | Dapper Snap |
 | 237 | 120 | Lys |
-| 238 | 120 | Dapper Snap |
-| 239 | 120 | Jessica |
+| 238 | 120 | Jessica |
+| 239 | 120 | Eon Harris |
 | 240 | 118 | Sabrina Hardrick |
 | 241 | 118 | Skinny Baldez |
-| 242 | 118 | Fancy Curver |
-| 243 | 118 | Damian Reid |
+| 242 | 118 | Damian Reid |
+| 243 | 118 | Fancy Curver |
 | 244 | 116 | BugMansMom |
 | 245 | 115 | Stella |
 | 246 | 115 | Daring Builder |
@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 111 | France Vézina |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 110 | Tye Stovall |
-| 253 | 110 | Danielle Weikel |
+| 252 | 110 | Danielle Weikel |
+| 253 | 110 | Tye Stovall |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 109 | Fredd Thomas |
 | 256 | 109 | Brave Brickster |
@@ -304,8 +304,8 @@
 | 296 | 98 | Jocelyne Baca |
 | 297 | 98 | Armi |
 | 298 | 97 | Paula Little |
-| 299 | 96 | Christopher Woost |
-| 300 | 96 | D3NO |
+| 299 | 96 | D3NO |
+| 300 | 96 | Christopher Woost |
 | 301 | 95 | Brooke Bauer |
 | 302 | 95 | FATTY |
 | 303 | 94 | Nichole Greene |
