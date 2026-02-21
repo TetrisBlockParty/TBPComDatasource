@@ -84,8 +84,8 @@
 | 76 | 287 | Hyper |
 | 77 | 277 | Timothy Dew |
 | 78 | 274 | Theo Pinnow |
-| 79 | 270 | Sarah Roberts |
-| 80 | 270 | Jennifer ManWarren |
+| 79 | 270 | Jennifer ManWarren |
+| 80 | 270 | Sarah Roberts |
 | 81 | 265 | Dee Perry |
 | 82 | 264 | Bhelle Sumile |
 | 83 | 260 | TSwag |
@@ -171,8 +171,8 @@
 | 163 | 142 | Colleen Wise |
 | 164 | 141 | Blaire Bruckoff |
 | 165 | 140 | Miguel Teixeira |
-| 166 | 138 | Death |
-| 167 | 138 | Cranky Pattern |
+| 166 | 138 | Cranky Pattern |
+| 167 | 138 | Death |
 | 168 | 137 | Cody Gates |
 | 169 | 136 | Dino |
 | 170 | 135 | Giddy Cascade |
@@ -261,7 +261,7 @@
 | 253 | 92 | Brenda Alexander |
 | 254 | 91 | Beazel75 |
 | 255 | 91 | Virginia Gray Floyd |
-| 256 | 90 | Grace Joanne Agnant |
+| 256 | 90 | Nick R Montague |
 | 257 | 90 | Steve Schneider |
 | 258 | 90 | Daring Fitclear |
 | 259 | 90 | Grace Joanne Agnant |

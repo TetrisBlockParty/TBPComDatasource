@@ -55,8 +55,8 @@
 | 47 | 433 | Isabel Aguilar |
 | 48 | 428 | Lisa Davis |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | Jonathan Kimbrough |
-| 51 | 411 | TeeJ |
+| 50 | 411 | TeeJ |
+| 51 | 411 | Jonathan Kimbrough |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -111,10 +111,10 @@
 | 103 | 197 | Swanky Fitline |
 | 104 | 196 | Jeff Brian Gates |
 | 105 | 194 | Zany Twisterfit |
-| 106 | 192 | Shauna Havard |
-| 107 | 192 | Crystal Carroll |
-| 108 | 191 | Melvin Baird |
-| 109 | 191 | loulou |
+| 106 | 192 | Crystal Carroll |
+| 107 | 192 | Shauna Havard |
+| 108 | 191 | loulou |
+| 109 | 191 | Melvin Baird |
 | 110 | 189 | Calvin Dennis |
 | 111 | 188 | Katherine Crane |
 | 112 | 187 | TheNeesh50 |
@@ -245,9 +245,9 @@
 | 237 | 100 | Alexandra Karavias |
 | 238 | 99 | Frank Cook |
 | 239 | 99 | Michael Orris |
-| 240 | 98 | Bradley Reeves |
-| 241 | 98 | Sam Bishop |
-| 242 | 98 | Perky Piecegrid |
+| 240 | 98 | Sam Bishop |
+| 241 | 98 | Perky Piecegrid |
+| 242 | 98 | Bradley Reeves |
 | 243 | 97 | Rosemary Foster |
 | 244 | 97 | Jen Caldwell |
 | 245 | 96 | Jessica Miller |

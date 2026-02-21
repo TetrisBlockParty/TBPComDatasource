@@ -56,8 +56,8 @@
 | 48 | 702 | Stephanie Allmon |
 | 49 | 622 | River |
 | 50 | 621 | Cherry Parker |
-| 51 | 614 | Jamie Furr |
-| 52 | 614 | Gracie |
+| 51 | 614 | Gracie |
+| 52 | 614 | Jamie Furr |
 | 53 | 613 | Amber Hughes |
 | 54 | 604 | Danielle Becker |
 | 55 | 598 | MissTaylor |
@@ -108,16 +108,16 @@
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
-| 103 | 367 | mjl574 |
-| 104 | 367 | Nerdy Riseclear |
+| 103 | 367 | Nerdy Riseclear |
+| 104 | 367 | mjl574 |
 | 105 | 366 | Speedy Bridger |
 | 106 | 364 | Shannon Matthew Byers |
 | 107 | 356 | Adrian Marcel Pate |
 | 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
-| 111 | 323 | Sherry Ogden |
-| 112 | 323 | Ashley Raines |
+| 111 | 323 | Ashley Raines |
+| 112 | 323 | Sherry Ogden |
 | 113 | 321 | Dapper Snap |
 | 114 | 320 | Or Reznitsky |
 | 115 | 318 | Chasity |
@@ -159,8 +159,8 @@
 | 151 | 226 | Grego Daniel |
 | 152 | 223 | Jeana Gilbert |
 | 153 | 223 | Nikki Pags |
-| 154 | 222 | Hoppy Buildout |
-| 155 | 222 | Jimmie Clemons |
+| 154 | 222 | Jimmie Clemons |
+| 155 | 222 | Hoppy Buildout |
 | 156 | 219 | Shunta Jacobs |
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
@@ -259,8 +259,8 @@
 | 251 | 142 | David Bardo |
 | 252 | 142 | Danielle Allison |
 | 253 | 141 | IamJust Neyamijah Washington Sr. |
-| 254 | 139 | Loopy Clusterer |
-| 255 | 139 | Funky Jumper |
+| 254 | 139 | Funky Jumper |
+| 255 | 139 | Loopy Clusterer |
 | 256 | 138 | Boldy Corner |
 | 257 | 137 | Joy Petroski |
 | 258 | 135 | Terry Jo Jones |
