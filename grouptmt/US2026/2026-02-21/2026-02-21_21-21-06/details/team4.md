@@ -136,8 +136,8 @@
 | 128 | 176 | Stacey Stano |
 | 129 | 176 | Klo |
 | 130 | 174 | shark tato |
-| 131 | 174 | Zethra Prenisha Rahming |
-| 132 | 174 | Dihcheese444 |
+| 131 | 174 | Dihcheese444 |
+| 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
 | 134 | 173 | Ren Mc |
 | 135 | 173 | blockstar |
@@ -164,8 +164,8 @@
 | 156 | 141 | Malakai Darien Fox |
 | 157 | 141 | Marcus Todd |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | John Brunetti |
-| 160 | 140 | Shannon Ferrari |
+| 159 | 140 | Shannon Ferrari |
+| 160 | 140 | John Brunetti |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Tanner Lund |
 | 163 | 136 | Sarah Brown |
@@ -205,8 +205,8 @@
 | 197 | 120 | Jackie Marie |
 | 198 | 120 | Bryan Hodgins |
 | 199 | 120 | Zesty Twistbuilder |
-| 200 | 120 | KayM |
-| 201 | 120 | Joshua Guess |
+| 200 | 120 | Joshua Guess |
+| 201 | 120 | KayM |
 | 202 | 119 | Kristin Manee |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Judy Cox |
@@ -252,9 +252,9 @@
 | 244 | 100 | Maureen Flanigan |
 | 245 | 100 | Alexandra Karavias |
 | 246 | 99 | Michael Orris |
-| 247 | 98 | Perky Piecegrid |
-| 248 | 98 | Sam Bishop |
-| 249 | 98 | Bradley Reeves |
+| 247 | 98 | Bradley Reeves |
+| 248 | 98 | Perky Piecegrid |
+| 249 | 98 | Sam Bishop |
 | 250 | 97 | Marcela Johnson |
 | 251 | 97 | Rosemary Foster |
 | 252 | 97 | Jen Caldwell |

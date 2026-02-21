@@ -26,8 +26,8 @@
 | 18 | 808 | Robert Beck |
 | 19 | 792 | LaQuetta Faith Hines |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Zappy Curvetile |
-| 22 | 770 | Adryane Schnase |
+| 21 | 770 | Adryane Schnase |
+| 22 | 770 | Zappy Curvetile |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 665 | Amanda Summey Schoemer |
@@ -95,8 +95,8 @@
 | 87 | 272 | Sarah Roberts |
 | 88 | 270 | Jennifer ManWarren |
 | 89 | 266 | Bhelle Sumile |
-| 90 | 258 | Dandy Basegrid |
-| 91 | 258 | Kellie |
+| 90 | 258 | Kellie |
+| 91 | 258 | Dandy Basegrid |
 | 92 | 254 | Rachael |
 | 93 | 252 | Dena Kayy |
 | 94 | 251 | june october |
@@ -121,13 +121,13 @@
 | 113 | 203 | Giggly Builderline |
 | 114 | 198 | Happy Snapbuild |
 | 115 | 195 | Jason Jones |
-| 116 | 194 | Ash Galvan |
-| 117 | 194 | GATOR |
+| 116 | 194 | GATOR |
+| 117 | 194 | Ash Galvan |
 | 118 | 193 | Lachelle Dillon |
 | 119 | 192 | Shaykmia |
 | 120 | 191 | Diane Byrd |
-| 121 | 190 | Sweetts |
-| 122 | 190 | Thorne Shumate |
+| 121 | 190 | Thorne Shumate |
+| 122 | 190 | Sweetts |
 | 123 | 189 | Happy Basegrid |
 | 124 | 188 | Sam Williams |
 | 125 | 187 | Plucky Ziggy |
@@ -147,8 +147,8 @@
 | 139 | 170 | Veronica Eve |
 | 140 | 169 | Abbey Crespo |
 | 141 | 168 | Standia Civil |
-| 142 | 166 | Rico Rico |
-| 143 | 166 | John Barron |
+| 142 | 166 | John Barron |
+| 143 | 166 | Rico Rico |
 | 144 | 165 | Nadine Velardo |
 | 145 | 164 | Katie Daniels |
 | 146 | 163 | Tyler Whitley |

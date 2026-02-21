@@ -166,8 +166,8 @@
 | 158 | 703 | Debra Williams |
 | 159 | 703 | Lola Contreras |
 | 160 | 700 | Vincent Petrella |
-| 161 | 700 | Beverly Owens |
-| 162 | 700 | Rosemadder |
+| 161 | 700 | Rosemadder |
+| 162 | 700 | Beverly Owens |
 | 163 | 697 | Real Ri |
 | 164 | 694 | Vo'Landa Reels |
 | 165 | 692 | Chelle |
@@ -367,8 +367,8 @@
 | 359 | 369 | Tara Lynn Janes |
 | 360 | 369 | AkaLefty |
 | 361 | 367 | Deyawn Smith |
-| 362 | 366 | Wuntayk |
-| 363 | 366 | Jaycee |
+| 362 | 366 | Jaycee |
+| 363 | 366 | Wuntayk |
 | 364 | 365 | Christina Lewis-Vickers |
 | 365 | 365 | Audrey Jones |
 | 366 | 365 | Kayla |
@@ -465,8 +465,8 @@
 | 457 | 308 | Mikayala Szaz |
 | 458 | 307 | Kitybox |
 | 459 | 306 | Frisky Clearpiece |
-| 460 | 305 | Tum |
-| 461 | 305 | Zany Clusterbuilder |
+| 460 | 305 | Zany Clusterbuilder |
+| 461 | 305 | Tum |
 | 462 | 305 | Libby Hicks |
 | 463 | 304 | Michelle Shrum |
 | 464 | 304 | NFLPITMOM |
@@ -632,9 +632,9 @@
 | 624 | 223 | J.L. Roberts |
 | 625 | 223 | LegoCarpet |
 | 626 | 223 | BK Queen |
-| 627 | 223 | Ys Muhammed |
-| 628 | 223 | Michele Moren |
-| 629 | 223 | Laura Wyatt |
+| 627 | 223 | Michele Moren |
+| 628 | 223 | Laura Wyatt |
+| 629 | 223 | Ys Muhammed |
 | 630 | 222 | Lazy Riseclear |
 | 631 | 221 | Michelle Lee |
 | 632 | 220 | Katrina Weston |
@@ -835,7 +835,7 @@
 | 827 | 166 | Gemini Washington |
 | 828 | 166 | Anthony Huebel |
 | 829 | 166 | suuny |
-| 830 | 166 | Kim Chen |
+| 830 | 166 | William Hughes |
 | 831 | 166 | Leslie Clark |
 | 832 | 166 | Kim Chen |
 | 833 | 165 | Catherine Varea |

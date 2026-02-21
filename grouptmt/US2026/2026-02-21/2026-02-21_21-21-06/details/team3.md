@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Snappy Fitzone |
-| 35 | 928 | Stephanie Rice |
+| 34 | 928 | Stephanie Rice |
+| 35 | 928 | Snappy Fitzone |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 879 | Shonna Roberts |
@@ -103,8 +103,8 @@
 | 95 | 394 | joclisa |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Hasty Cascadefit |
-| 99 | 390 | Annie Déè |
+| 98 | 390 | Annie Déè |
+| 99 | 390 | Hasty Cascadefit |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -122,19 +122,19 @@
 | 114 | 347 | Darlene McMillan |
 | 115 | 332 | Chauntee Alfrey-Cardinale |
 | 116 | 327 | Dapper Snap |
-| 117 | 323 | Ashley Raines |
-| 118 | 323 | Sherry Ogden |
+| 117 | 323 | Sherry Ogden |
+| 118 | 323 | Ashley Raines |
 | 119 | 320 | Or Reznitsky |
 | 120 | 318 | Chasity |
 | 121 | 316 | Fancy Cascader |
 | 122 | 314 | Aaron Pitkin |
 | 123 | 309 | Rich LeBlanc |
-| 124 | 307 | Peggi Charon |
-| 125 | 307 | Blocked |
+| 124 | 307 | Blocked |
+| 125 | 307 | Peggi Charon |
 | 126 | 305 | Tessina Dewey-Mancino |
 | 127 | 302 | Bea Miles |
-| 128 | 300 | Stephanie Blkpep Davidson |
-| 129 | 300 | Sherika C. McDaniels |
+| 128 | 300 | Sherika C. McDaniels |
+| 129 | 300 | Stephanie Blkpep Davidson |
 | 130 | 293 | Poppy Splitter |
 | 131 | 287 | Logan Naccarato |
 | 132 | 286 | Jacqueline Rodriguez |
