@@ -58,8 +58,8 @@
 | 50 | 320 | Or Reznitsky |
 | 51 | 316 | Fancy Cascader |
 | 52 | 311 | Kristie |
-| 53 | 307 | Peggi Charon |
-| 54 | 307 | Clever Roll |
+| 53 | 307 | Clever Roll |
+| 54 | 307 | Peggi Charon |
 | 55 | 303 | Tasha Schriewer |
 | 56 | 300 | Sherika C. McDaniels |
 | 57 | 297 | Delilah belle |
@@ -94,8 +94,8 @@
 | 86 | 154 | Angela M. Fletcher |
 | 87 | 152 | Shiny Zonebuilder |
 | 88 | 149 | Trisha Balmer |
-| 89 | 146 | Denita Mungro |
-| 90 | 146 | mjl574 |
+| 89 | 146 | mjl574 |
+| 90 | 146 | Denita Mungro |
 | 91 | 146 | Latoya Mayne |
 | 92 | 143 | ren |
 | 93 | 143 | Ashley Tookes |
@@ -137,7 +137,7 @@
 | 129 | 102 | Jenny Hrndz |
 | 130 | 102 | mommablock |
 | 131 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 132 | 100 | Ryan Williams |
+| 132 | 100 | Bobbi Moore |
 | 133 | 100 | Donna |
 | 134 | 100 | Ryan Williams |
 | 135 | 100 | Elizabeth Renee |

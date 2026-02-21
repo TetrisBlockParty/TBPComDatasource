@@ -89,13 +89,13 @@
 | 81 | 107 | Jodee Woods |
 | 82 | 105 | Barry Mac'Ockner |
 | 83 | 100 | Ash Galvan |
-| 84 | 99 | Bhelle Sumile |
-| 85 | 99 | Ty Brown |
-| 86 | 98 | Billie Dawn Sparks |
-| 87 | 98 | Flashy Rotator |
-| 88 | 98 | Gary Gobin |
-| 89 | 96 | Nery Martinez |
-| 90 | 96 | Melissa Lemmon |
+| 84 | 99 | Ty Brown |
+| 85 | 99 | Bhelle Sumile |
+| 86 | 98 | Flashy Rotator |
+| 87 | 98 | Gary Gobin |
+| 88 | 98 | Billie Dawn Sparks |
+| 89 | 96 | Melissa Lemmon |
+| 90 | 96 | Nery Martinez |
 | 91 | 94 | Bindi |
 | 92 | 93 | Loony Fitzone |
 | 93 | 93 | Adryane Schnase |
