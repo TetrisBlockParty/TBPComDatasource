@@ -137,8 +137,8 @@
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 176 | Ryan Williams |
-| 132 | 166 | Danielle Mogg |
-| 133 | 166 | Kelly Ann Child |
+| 132 | 166 | Kelly Ann Child |
+| 133 | 166 | Danielle Mogg |
 | 134 | 165 | AlsoJess |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |

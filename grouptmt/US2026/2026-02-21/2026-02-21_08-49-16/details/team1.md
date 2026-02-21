@@ -115,12 +115,12 @@
 | 107 | 127 | Michael |
 | 108 | 126 | Cece Ibarra |
 | 109 | 124 | Cartier |
-| 110 | 123 | LaQuetta Faith Hines |
-| 111 | 123 | june october |
+| 110 | 123 | june october |
+| 111 | 123 | LaQuetta Faith Hines |
 | 112 | 121 | Bouncy Grid |
-| 113 | 119 | April Carroll |
+| 113 | 119 | Irual Hctrab |
 | 114 | 119 | Tater |
-| 115 | 119 | Irual Hctrab |
+| 115 | 119 | April Carroll |
 | 116 | 118 | Barry Mac'Ockner |
 | 117 | 116 | Evie Khalil |
 | 118 | 115 | Mrs.Patrica |
