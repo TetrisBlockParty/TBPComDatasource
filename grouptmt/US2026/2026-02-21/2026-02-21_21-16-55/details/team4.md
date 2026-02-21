@@ -164,8 +164,8 @@
 | 156 | 141 | Malakai Darien Fox |
 | 157 | 141 | ĥuf |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | Shannon Ferrari |
-| 160 | 140 | John Brunetti |
+| 159 | 140 | John Brunetti |
+| 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Sarah Brown |
 | 163 | 136 | Serena Goodridge |
@@ -182,10 +182,10 @@
 | 174 | 131 | TinyLegoRose |
 | 175 | 131 | Michelle Morris |
 | 176 | 130 | Shukee Lo |
-| 177 | 130 | Casey Jeffcoat |
-| 178 | 130 | Carlos Ramirez |
-| 179 | 129 | Dreamy Snapgrid |
-| 180 | 129 | Crystal Nicolette Moore |
+| 177 | 130 | Carlos Ramirez |
+| 178 | 130 | Casey Jeffcoat |
+| 179 | 129 | Crystal Nicolette Moore |
+| 180 | 129 | Dreamy Snapgrid |
 | 181 | 128 | Rio Rocha |
 | 182 | 128 | April Rondinone |
 | 183 | 126 | Nerdy Twisterfit |
@@ -274,10 +274,10 @@
 | 266 | 92 | Zippy Gridlock |
 | 267 | 91 | Sunny Filler |
 | 268 | 91 | wombat |
-| 269 | 90 | No Strings Attached Ra |
-| 270 | 90 | Thomas Hettenhaus |
-| 271 | 90 | Hyper Builder |
-| 272 | 90 | Carol Ricks Raymond |
+| 269 | 90 | Thomas Hettenhaus |
+| 270 | 90 | No Strings Attached Ra |
+| 271 | 90 | Carol Ricks Raymond |
+| 272 | 90 | Hyper Builder |
 | 273 | 89 | Jonathan Mahfood |
 | 274 | 89 | bloat princess |
 | 275 | 88 | Kesha Brady |

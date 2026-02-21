@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 578 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 521 | Hyp James NObettadanluvarat |
 | 37 | 517 | Felicia Lewis |
@@ -196,26 +196,26 @@
 | 188 | 130 | Aimee Horton |
 | 189 | 130 | LD1 |
 | 190 | 128 | lil mickey |
-| 191 | 128 | Barry Mac'Ockner |
-| 192 | 128 | Layzietyme |
+| 191 | 128 | Layzietyme |
+| 192 | 128 | Barry Mac'Ockner |
 | 193 | 125 | Larry Tilton |
 | 194 | 125 | Fmp |
 | 195 | 124 | Cartier |
 | 196 | 122 | Margo Wagner |
 | 197 | 122 | Melissa Lemmon |
 | 198 | 121 | Mark Smith |
-| 199 | 120 | Kimmie Kimms |
-| 200 | 120 | Alenoush Karimian |
+| 199 | 120 | Alenoush Karimian |
+| 200 | 120 | Kimmie Kimms |
 | 201 | 119 | Tater |
 | 202 | 118 | SavageBooty98 |
-| 203 | 116 | ALFD |
-| 204 | 116 | Jessica Russell |
-| 205 | 115 | Mrs.Patrica |
-| 206 | 115 | Zany Tiler |
+| 203 | 116 | Jessica Russell |
+| 204 | 116 | ALFD |
+| 205 | 115 | Zany Tiler |
+| 206 | 115 | Mrs.Patrica |
 | 207 | 115 | Jacob Shaddock |
 | 208 | 115 | Chuck Gannon |
-| 209 | 114 | Hector Cruz |
-| 210 | 114 | Tyler Hertzog |
+| 209 | 114 | Tyler Hertzog |
+| 210 | 114 | Hector Cruz |
 | 211 | 113 | Desiree Deschaine Havee |
 | 212 | 112 | Chris65 |
 | 213 | 111 | Tami Luce Martin |
@@ -266,7 +266,7 @@
 | 258 | 96 | Sarah Henniker |
 | 259 | 95 | Jeanna Dunn |
 | 260 | 92 | Christina Backer |
-| 261 | 91 | Shanae Grant |
+| 261 | 91 | Erin Hodges Plumb |
 | 262 | 91 | Beazel75 |
 | 263 | 91 | Virginia Gray Floyd |
 | 264 | 91 | Shanae Grant |

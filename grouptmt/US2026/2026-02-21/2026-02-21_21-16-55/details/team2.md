@@ -166,8 +166,8 @@
 | 158 | 703 | Debra Williams |
 | 159 | 703 | Lola Contreras |
 | 160 | 700 | Vincent Petrella |
-| 161 | 700 | Rosemadder |
-| 162 | 700 | Beverly Owens |
+| 161 | 700 | Beverly Owens |
+| 162 | 700 | Rosemadder |
 | 163 | 697 | Real Ri |
 | 164 | 694 | Vo'Landa Reels |
 | 165 | 692 | Chelle |
@@ -360,9 +360,9 @@
 | 352 | 378 | Christina Ashley |
 | 353 | 378 | Cody Nishimura |
 | 354 | 376 | Caitlin Schmid |
-| 355 | 374 | Lee Harper |
-| 356 | 374 | Johnny Yeates |
-| 357 | 374 | Alexandra Weir |
+| 355 | 374 | Alexandra Weir |
+| 356 | 374 | Lee Harper |
+| 357 | 374 | Johnny Yeates |
 | 358 | 369 | Victoria Moore-Smith |
 | 359 | 369 | AkaLefty |
 | 360 | 369 | Tara Lynn Janes |
@@ -584,8 +584,8 @@
 | 576 | 245 | Sanaa Nounoussa |
 | 577 | 245 | Mary Boss |
 | 578 | 244 | Maxwell Escalera |
-| 579 | 244 | Court |
-| 580 | 244 | Nakiiya Dreamcatcher Gore |
+| 579 | 244 | Nakiiya Dreamcatcher Gore |
+| 580 | 244 | Court |
 | 581 | 243 | JacJac |
 | 582 | 242 | Donna Chandler |
 | 583 | 242 | Lianne Giandalone LaBounty |
