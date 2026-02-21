@@ -48,8 +48,8 @@
 | 40 | 294 | Jacqueline Williams |
 | 41 | 291 | Nancy Green |
 | 42 | 290 | Jennifer Cates |
-| 43 | 274 | Theo Pinnow |
-| 44 | 274 | Sweet Baker |
+| 43 | 274 | Sweet Baker |
+| 44 | 274 | Theo Pinnow |
 | 45 | 272 | Adam Byrd |
 | 46 | 267 | Adryane Schnase |
 | 47 | 264 | Shauna Loe |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -110,8 +110,8 @@
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | Plucky Ziggy |
-| 106 | 144 | Tanya Carpenter-Reynolds |
+| 105 | 144 | Tanya Carpenter-Reynolds |
+| 106 | 144 | Plucky Ziggy |
 | 107 | 144 | femmefatale |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
@@ -135,7 +135,7 @@
 | 127 | 120 | Alenoush Karimian |
 | 128 | 119 | Tater |
 | 129 | 119 | April Carroll |
-| 130 | 119 | Tater |
+| 130 | 119 | Irual Hctrab |
 | 131 | 118 | Barry Mac'Ockner |
 | 132 | 116 | Evie Khalil |
 | 133 | 115 | Mrs.Patrica |
@@ -230,11 +230,11 @@
 | 222 | 75 | Plucky Wrecker |
 | 223 | 74 | Grace Joanne Agnant |
 | 224 | 74 | Owicked1 |
-| 225 | 74 | Grace Joanne Agnant |
-| 226 | 73 | Shanae Grant |
-| 227 | 73 | Silly Align |
-| 228 | 72 | Ric Hard Hernandez |
-| 229 | 72 | Tipsy Strikerpiece |
+| 225 | 74 | Meechie |
+| 226 | 73 | Silly Align |
+| 227 | 73 | Shanae Grant |
+| 228 | 72 | Tipsy Strikerpiece |
+| 229 | 72 | Ric Hard Hernandez |
 | 230 | 71 | Loneell Hyland |
 | 231 | 70 | Timothy Danaher |
 | 232 | 70 | Seth Wesson |

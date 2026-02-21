@@ -48,8 +48,8 @@
 | 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -74,8 +74,8 @@
 | 66 | 372 | Patty Allen |
 | 67 | 371 | Jesse Olive |
 | 68 | 370 | yoyo |
-| 69 | 362 | Liv Whetson |
-| 70 | 362 | Mendoza Lee Christy |
+| 69 | 362 | Mendoza Lee Christy |
+| 70 | 362 | Liv Whetson |
 | 71 | 360 | Ebony West-Cundiff |
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
@@ -267,12 +267,12 @@
 | 259 | 96 | Christopher Woost |
 | 260 | 96 | D3NO |
 | 261 | 95 | Brooke Bauer |
-| 262 | 94 | Angie Harper |
-| 263 | 94 | Andrew Thorson |
+| 262 | 94 | Andrew Thorson |
+| 263 | 94 | Angie Harper |
 | 264 | 93 | Tiffany Ford |
 | 265 | 92 | Ava Petito |
-| 266 | 92 | Trice Thomas |
-| 267 | 92 | Jennifer Caputo |
+| 266 | 92 | Jennifer Caputo |
+| 267 | 92 | Trice Thomas |
 | 268 | 92 | Jackie-Lynne Goertzen |
 | 269 | 91 | Martin Bernier |
 | 270 | 90 | Tiffany Kaupang |

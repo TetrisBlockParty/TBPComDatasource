@@ -29,8 +29,8 @@
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
-| 24 | 486 | LisaJo Picken Buchanan |
-| 25 | 486 | Anthony Magaraci |
+| 24 | 486 | Anthony Magaraci |
+| 25 | 486 | LisaJo Picken Buchanan |
 | 26 | 474 | Rebecca Moulton Pinciaro |
 | 27 | 469 | Carmethia Clemons Haslerig |
 | 28 | 465 | Dawn Alexander |

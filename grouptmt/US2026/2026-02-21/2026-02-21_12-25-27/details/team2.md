@@ -111,8 +111,8 @@
 | 103 | 674 | Dannette Goldberg-Richards |
 | 104 | 672 | Wendy Harder Gage |
 | 105 | 665 | Dineisha Carpenter |
-| 106 | 658 | Vistabrat |
-| 107 | 658 | Pacynthia Williams |
+| 106 | 658 | Pacynthia Williams |
+| 107 | 658 | Vistabrat |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
 | 110 | 649 | Stephanie Chapman |
@@ -232,10 +232,10 @@
 | 224 | 358 | Smashanator |
 | 225 | 357 | Shannon Byrd |
 | 226 | 356 | Deyawn Smith |
-| 227 | 356 | Shameika Trail |
-| 228 | 356 | Kimberly Randesi |
-| 229 | 354 | Tracy Wise |
-| 230 | 354 | Brave Dropmatch |
+| 227 | 356 | Kimberly Randesi |
+| 228 | 356 | Shameika Trail |
+| 229 | 354 | Brave Dropmatch |
+| 230 | 354 | Tracy Wise |
 | 231 | 353 | Joseph Musick |
 | 232 | 352 | ruth |
 | 233 | 350 | Chris Harr |
@@ -247,8 +247,8 @@
 | 239 | 344 | Julie Kresal |
 | 240 | 343 | F-X |
 | 241 | 334 | Moni Foxe |
-| 242 | 334 | Missie Lawson Gebhardt |
-| 243 | 334 | Felicia Lynn |
+| 242 | 334 | Felicia Lynn |
+| 243 | 334 | Missie Lawson Gebhardt |
 | 244 | 333 | Brittney Jean |
 | 245 | 333 | ShinyRose |
 | 246 | 332 | TF Dyer |
@@ -554,8 +554,8 @@
 | 546 | 158 | Toni Roberson |
 | 547 | 157 | Andrew Bratton-Tomes |
 | 548 | 157 | Nicol Craven |
-| 549 | 157 | Klee |
-| 550 | 157 | Ty Quarles |
+| 549 | 157 | Ty Quarles |
+| 550 | 157 | Klee |
 | 551 | 156 | Nuggets |
 | 552 | 156 | Poppy Gridder |
 | 553 | 156 | Deanna Morton |
