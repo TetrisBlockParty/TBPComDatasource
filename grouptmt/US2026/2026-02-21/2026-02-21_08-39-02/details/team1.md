@@ -150,9 +150,9 @@
 | 142 | 99 | Mizzledagod |
 | 143 | 99 | Ty Brown |
 | 144 | 98 | Loony Fitzone |
-| 145 | 96 | Barrbaric |
-| 146 | 96 | Melissa Lemmon |
-| 147 | 96 | Nery Martinez |
+| 145 | 96 | Melissa Lemmon |
+| 146 | 96 | Nery Martinez |
+| 147 | 96 | Barrbaric |
 | 148 | 95 | Adam Byrd |
 | 149 | 94 | Bindi |
 | 150 | 94 | Luciano Moreira |

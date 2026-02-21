@@ -136,8 +136,8 @@
 | 128 | 520 | Kimberly Schall |
 | 129 | 519 | Maria Escobar |
 | 130 | 517 | Debra Williams |
-| 131 | 515 | Kaylee McCafferty |
-| 132 | 515 | Real Ri |
+| 131 | 515 | Real Ri |
+| 132 | 515 | Kaylee McCafferty |
 | 133 | 513 | Butta |
 | 134 | 510 | Ashley House |
 | 135 | 509 | Kelli Wells |
@@ -179,8 +179,8 @@
 | 171 | 409 | Sparkles |
 | 172 | 406 | Erin StFrancis |
 | 173 | 402 | Amélie Cadieux |
-| 174 | 400 | Tammy Allen |
-| 175 | 400 | Crystie Hicks |
+| 174 | 400 | Crystie Hicks |
+| 175 | 400 | Tammy Allen |
 | 176 | 397 | Ashley Guernsey-Martin |
 | 177 | 391 | Qiana Sanders |
 | 178 | 391 | Rhonda Milstead |
@@ -248,8 +248,8 @@
 | 240 | 299 | Deborah Miller |
 | 241 | 299 | Christy Krissie |
 | 242 | 297 | Brenda Utphall |
-| 243 | 296 | Amber Gray |
-| 244 | 296 | Jennifer Casey-Kay |
+| 243 | 296 | Jennifer Casey-Kay |
+| 244 | 296 | Amber Gray |
 | 245 | 296 | Jennifer Darby |
 | 246 | 295 | Angela Bonquiqui Dinish |
 | 247 | 295 | Zany Clusterbuilder |
@@ -275,8 +275,8 @@
 | 267 | 275 | Cheeky Brickmatch |
 | 268 | 275 | Shiny Rollzone |
 | 269 | 275 | Ann Matzkanin |
-| 270 | 274 | Melissa Holsinger |
-| 271 | 274 | Jamie Stevey |
+| 270 | 274 | Jamie Stevey |
+| 271 | 274 | Melissa Holsinger |
 | 272 | 274 | Lonne Emade |
 | 273 | 273 | Jenna Nance |
 | 274 | 273 | Vanessa Moreno |
@@ -310,8 +310,8 @@
 | 302 | 254 | Rose Fx |
 | 303 | 254 | Elizabeth Diraffaele |
 | 304 | 253 | Tansaria Couch-Butler |
-| 305 | 252 | Cheech Dta |
-| 306 | 252 | Matt Johnson |
+| 305 | 252 | Matt Johnson |
+| 306 | 252 | Cheech Dta |
 | 307 | 251 | Ann Knutson Anderson |
 | 308 | 250 | Barbra Miller |
 | 309 | 250 | Peachy Blockbuilder |
@@ -365,8 +365,8 @@
 | 357 | 223 | Laura Wyatt |
 | 358 | 220 | Katrina Weston |
 | 359 | 219 | Ashle Scranton |
-| 360 | 217 | 赵珞涵 |
-| 361 | 217 | Angelina Marie |
+| 360 | 217 | Angelina Marie |
+| 361 | 217 | 赵珞涵 |
 | 362 | 216 | Tum |
 | 363 | 215 | Jordan Petro |
 | 364 | 215 | Ashlyn Berner |
@@ -421,8 +421,8 @@
 | 413 | 186 | Jackie Jackie Lee |
 | 414 | 185 | JacJac |
 | 415 | 184 | Brittany Radaszewski |
-| 416 | 184 | Theresa Sterrett |
-| 417 | 184 | Sassy Linkbuilder |
+| 416 | 184 | Sassy Linkbuilder |
+| 417 | 184 | Theresa Sterrett |
 | 418 | 184 | Regina Unruh |
 | 419 | 183 | Lynzekwi |
 | 420 | 183 | Wakanda Forever |
@@ -450,8 +450,8 @@
 | 442 | 176 | Trisha Gallagher |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Tina Blessed Cage |
-| 446 | 175 | Shandrica Lowe |
+| 445 | 175 | Shandrica Lowe |
+| 446 | 175 | Tina Blessed Cage |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | Robin |
@@ -679,8 +679,8 @@
 | 671 | 120 | Courtney Burcham |
 | 672 | 120 | Layla LS |
 | 673 | 119 | Mary Boss |
-| 674 | 119 | Lydia Greenman |
-| 675 | 119 | Perry Hubert |
+| 674 | 119 | Perry Hubert |
+| 675 | 119 | Lydia Greenman |
 | 676 | 119 | Zappy Stackbuilder |
 | 677 | 119 | Gloria Ininahazwe |
 | 678 | 118 | Wha |
