@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Brandon Armstrong |
-| 222 | 364 | Shinette Dobson |
+| 221 | 364 | Shinette Dobson |
+| 222 | 364 | Brandon Armstrong |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -373,8 +373,8 @@
 | 365 | 252 | Matt Johnson |
 | 366 | 251 | Ann Knutson Anderson |
 | 367 | 250 | Steve Man |
-| 368 | 249 | Porsche' Nicole |
-| 369 | 249 | Nicky Jackson |
+| 368 | 249 | Nicky Jackson |
+| 369 | 249 | Porsche' Nicole |
 | 370 | 248 | Andrea Maher |
 | 371 | 248 | Cheery Matchzone |
 | 372 | 248 | Aimee Byrom |
@@ -689,8 +689,8 @@
 | 681 | 133 | Hillary Franklin |
 | 682 | 133 | Ellie Jonas |
 | 683 | 133 | candy |
-| 684 | 133 | Rae Rae |
-| 685 | 133 | Epic Stackzone |
+| 684 | 133 | Epic Stackzone |
+| 685 | 133 | Rae Rae |
 | 686 | 132 | Chilly Rollblock |
 | 687 | 132 | Samie Dayle |
 | 688 | 132 | Joann |

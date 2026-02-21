@@ -82,8 +82,8 @@
 | 74 | 179 | Epic Curvetile |
 | 75 | 178 | Lori |
 | 76 | 175 | Dustee Craddock-Harrison |
-| 77 | 173 | Zethra Prenisha Rahming |
-| 78 | 173 | Jeff Brian Gates |
+| 77 | 173 | Jeff Brian Gates |
+| 78 | 173 | Zethra Prenisha Rahming |
 | 79 | 171 | Melvin Baird |
 | 80 | 170 | Justin Hannigan |
 | 81 | 170 | Girl |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |

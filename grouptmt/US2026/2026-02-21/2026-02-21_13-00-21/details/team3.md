@@ -149,10 +149,10 @@
 | 141 | 178 | AlsoJess |
 | 142 | 176 | Ryan Williams |
 | 143 | 175 | Logan Naccarato |
-| 144 | 167 | Rebel124 |
-| 145 | 167 | Raven Dudley |
-| 146 | 166 | Betty Rosas |
-| 147 | 166 | Danielle Mogg |
+| 144 | 167 | Raven Dudley |
+| 145 | 167 | Rebel124 |
+| 146 | 166 | Danielle Mogg |
+| 147 | 166 | Betty Rosas |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
 | 150 | 164 | rosy |
@@ -174,8 +174,8 @@
 | 166 | 152 | Shiny Zonebuilder |
 | 167 | 151 | MsBee |
 | 168 | 150 | Nicole Myers |
-| 169 | 149 | Trisha Balmer |
-| 170 | 149 | Angel Mendez |
+| 169 | 149 | Angel Mendez |
+| 170 | 149 | Trisha Balmer |
 | 171 | 149 | Bea Miles |
 | 172 | 147 | Sashay Tapae Simpson |
 | 173 | 147 | Desiree Gold |
