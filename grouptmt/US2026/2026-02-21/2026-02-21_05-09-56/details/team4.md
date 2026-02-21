@@ -74,8 +74,8 @@
 | 66 | 134 | Chirpy Basepiece |
 | 67 | 134 | Jessica Bohlken |
 | 68 | 133 | Robin Watters |
-| 69 | 132 | Jenna McGeorge |
-| 70 | 132 | Degenerate |
+| 69 | 132 | Degenerate |
+| 70 | 132 | Jenna McGeorge |
 | 71 | 131 | Dustee Craddock-Harrison |
 | 72 | 130 | Casey Jeffcoat |
 | 73 | 129 | John Brunetti |

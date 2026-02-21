@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3323 | Sean Dugar |
@@ -334,8 +334,8 @@
 | 326 | 194 | Mike Aprilliano |
 | 327 | 194 | Kimberly Ann |
 | 328 | 193 | Nika Bee |
-| 329 | 191 | Sho Nuff |
-| 330 | 191 | Deana |
+| 329 | 191 | Deana |
+| 330 | 191 | Sho Nuff |
 | 331 | 191 | Lauren Fitzgerald Thomas |
 | 332 | 190 | Jennifer Leigh |
 | 333 | 190 | blarg |
@@ -424,9 +424,9 @@
 | 416 | 157 | Klee |
 | 417 | 157 | Twisty Tetriblast |
 | 418 | 156 | RetroLemur |
-| 419 | 156 | Nuggets |
+| 419 | 156 | Deanna Morton |
 | 420 | 156 | Ramone Armstrong |
-| 421 | 156 | Deanna Morton |
+| 421 | 156 | Nuggets |
 | 422 | 155 | Angela Murgia-Owen |
 | 423 | 155 | Monarca26 |
 | 424 | 155 | Rose Fx |

@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -143,7 +143,7 @@
 | 135 | 126 | Dan Rob |
 | 136 | 125 | Shimika Enay Wallace |
 | 137 | 125 | Stephanie Simpson |
-| 138 | 125 | Shimika Enay Wallace |
+| 138 | 125 | Felicia Doxey |
 | 139 | 124 | Connie Mohler-Fair |
 | 140 | 123 | Kristie McFarland |
 | 141 | 122 | Terry Jo Jones |
@@ -227,8 +227,8 @@
 | 219 | 84 | Amanda L Baker |
 | 220 | 84 | Flashy Rumbler |
 | 221 | 83 | Michael Nowogorski |
-| 222 | 82 | Crystel b520 |
-| 223 | 82 | Stephanie Whitefield |
+| 222 | 82 | Stephanie Whitefield |
+| 223 | 82 | Crystel b520 |
 | 224 | 81 | Tina Baurdau |
 | 225 | 80 | Vixen Queen |
 | 226 | 80 | Christian Luna |

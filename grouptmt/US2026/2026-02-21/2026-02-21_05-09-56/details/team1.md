@@ -81,8 +81,8 @@
 | 73 | 144 | femmefatale |
 | 74 | 144 | Tanya Carpenter-Reynolds |
 | 75 | 143 | Sarah Marie |
-| 76 | 141 | Susanna Guerry |
-| 77 | 141 | Blaire Bruckoff |
+| 76 | 141 | Blaire Bruckoff |
+| 77 | 141 | Susanna Guerry |
 | 78 | 137 | Nadine Velardo |
 | 79 | 133 | Brandi Huntington |
 | 80 | 132 | Davery Spencer Adair |
