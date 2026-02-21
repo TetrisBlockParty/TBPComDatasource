@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |

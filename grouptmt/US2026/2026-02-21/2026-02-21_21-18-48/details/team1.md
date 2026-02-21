@@ -102,8 +102,8 @@
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Elaine Elaine |
-| 98 | 240 | Tana |
+| 97 | 240 | Tana |
+| 98 | 240 | Elaine Elaine |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
@@ -154,8 +154,8 @@
 | 146 | 163 | Tyler Whitley |
 | 147 | 162 | Tanya Carpenter-Reynolds |
 | 148 | 161 | Jessie Lynn |
-| 149 | 156 | Arianna O'Brien |
-| 150 | 156 | Tyler Werts |
+| 149 | 156 | Tyler Werts |
+| 150 | 156 | Arianna O'Brien |
 | 151 | 155 | Cece Ibarra |
 | 152 | 154 | Irual Hctrab |
 | 153 | 153 | Shiny Gridmatch |
@@ -177,10 +177,10 @@
 | 169 | 142 | Colleen Wise |
 | 170 | 141 | Blaire Bruckoff |
 | 171 | 140 | Miguel Teixeira |
-| 172 | 139 | Jenny Gingrich Fuentes |
-| 173 | 139 | Flashy Rotator |
-| 174 | 138 | Cranky Pattern |
-| 175 | 138 | Death |
+| 172 | 139 | Flashy Rotator |
+| 173 | 139 | Jenny Gingrich Fuentes |
+| 174 | 138 | Death |
+| 175 | 138 | Cranky Pattern |
 | 176 | 137 | Cody Gates |
 | 177 | 136 | Breanna Luna |
 | 178 | 136 | Dino |

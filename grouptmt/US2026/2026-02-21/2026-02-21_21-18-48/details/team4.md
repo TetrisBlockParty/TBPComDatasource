@@ -143,16 +143,16 @@
 | 135 | 173 | blockstar |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
-| 138 | 164 | 030Synner |
-| 139 | 164 | ThaEviLJeNiuZ |
+| 138 | 164 | ThaEviLJeNiuZ |
+| 139 | 164 | 030Synner |
 | 140 | 160 | ZeeZee |
 | 141 | 156 | Jessica Bohlken |
 | 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Avy Absol |
 | 145 | 151 | Bethany Ison |
-| 146 | 149 | Diana Houts |
-| 147 | 149 | Roger Coulter |
+| 146 | 149 | Roger Coulter |
+| 147 | 149 | Diana Houts |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
 | 150 | 147 | Jay28 |
@@ -167,9 +167,9 @@
 | 159 | 140 | John Brunetti |
 | 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
-| 162 | 136 | Serena Goodridge |
-| 163 | 136 | Sarah Brown |
-| 164 | 136 | Tanner Lund |
+| 162 | 136 | Tanner Lund |
+| 163 | 136 | Serena Goodridge |
+| 164 | 136 | Sarah Brown |
 | 165 | 135 | Stephme310 |
 | 166 | 135 | Victoria Faniel |
 | 167 | 134 | Chirpy Basepiece |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Lazy Blocker |
-| 217 | 111 | Kristin MacDonald |
+| 216 | 111 | Kristin MacDonald |
+| 217 | 111 | Lazy Blocker |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -249,8 +249,8 @@
 | 241 | 101 | Saulc1991 |
 | 242 | 101 | Zach Kerbs |
 | 243 | 100 | Jacob Richard |
-| 244 | 100 | Maureen Flanigan |
-| 245 | 100 | Alexandra Karavias |
+| 244 | 100 | Alexandra Karavias |
+| 245 | 100 | Maureen Flanigan |
 | 246 | 99 | Michael Orris |
 | 247 | 98 | Perky Piecegrid |
 | 248 | 98 | Sam Bishop |
@@ -345,8 +345,8 @@
 | 337 | 73 | Rheanda Weaskus |
 | 338 | 73 | Jacob Campbell |
 | 339 | 72 | Brave Spinbuilder |
-| 340 | 72 | Jackson Karen |
-| 341 | 72 | Raegan Lane-Ross |
+| 340 | 72 | Raegan Lane-Ross |
+| 341 | 72 | Jackson Karen |
 | 342 | 72 | Orchislactea |
 | 343 | 71 | Dapper Climber |
 | 344 | 71 | Speedy Wipeblock |
@@ -357,8 +357,8 @@
 | 349 | 70 | Brittany Price |
 | 350 | 70 | PlatinumRose |
 | 351 | 69 | Beth Helms |
-| 352 | 69 | Jessica Wells |
-| 353 | 69 | Frisky Column |
+| 352 | 69 | Frisky Column |
+| 353 | 69 | Jessica Wells |
 | 354 | 69 | Meli  Jackson |
 | 355 | 68 | 中山成巳 |
 | 356 | 68 | Jake Roberts |

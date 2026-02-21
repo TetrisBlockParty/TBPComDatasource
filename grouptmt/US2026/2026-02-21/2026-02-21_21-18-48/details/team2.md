@@ -764,7 +764,7 @@
 | 756 | 183 | Happy Caster |
 | 757 | 183 | Tiara Elizabeth Baker |
 | 758 | 182 | Tammie Siegfried |
-| 759 | 182 | Candace Noel |
+| 759 | 182 | Sharon Crawford |
 | 760 | 182 | Veronica Guerra |
 | 761 | 182 | Candace Noel |
 | 762 | 181 | Scott Rackley |
@@ -848,7 +848,7 @@
 | 840 | 164 | Michelle Loar |
 | 841 | 164 | Kyle LeRoy Harris |
 | 842 | 164 | Ty Quarles |
-| 843 | 164 | Kyle LeRoy Harris |
+| 843 | 164 | Leslie |
 | 844 | 163 | Tiffney Wroten |
 | 845 | 163 | Jacob Huffman |
 | 846 | 163 | Epic Fitzone |
