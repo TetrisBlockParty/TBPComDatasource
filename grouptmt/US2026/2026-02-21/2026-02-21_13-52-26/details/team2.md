@@ -225,8 +225,8 @@
 | 217 | 394 | Mema |
 | 218 | 393 | Altamirano Michael |
 | 219 | 391 | Brenda Utphall |
-| 220 | 391 | Chilly Bridgepiece |
-| 221 | 391 | Amanda Ferrell |
+| 220 | 391 | Amanda Ferrell |
+| 221 | 391 | Chilly Bridgepiece |
 | 222 | 391 | Qiana Sanders |
 | 223 | 390 | Lylymom |
 | 224 | 386 | Ashie Ann |

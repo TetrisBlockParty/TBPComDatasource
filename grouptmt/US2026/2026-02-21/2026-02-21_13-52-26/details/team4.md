@@ -84,8 +84,8 @@
 | 76 | 185 | Andy Cabral |
 | 77 | 185 | loulou |
 | 78 | 184 | Dizzy Tiley |
-| 79 | 180 | Leah Kutz Zirbel |
-| 80 | 180 | shar |
+| 79 | 180 | shar |
+| 80 | 180 | Leah Kutz Zirbel |
 | 81 | 179 | Epic Curvetile |
 | 82 | 178 | Lori |
 | 83 | 173 | Zethra Prenisha Rahming |
@@ -230,8 +230,8 @@
 | 222 | 81 | Michelle Parker |
 | 223 | 80 | Chaz Duncan |
 | 224 | 80 | Melissa Adams |
-| 225 | 79 | Joseph Pace |
-| 226 | 79 | Joshua Cuellar |
+| 225 | 79 | Kametsunoyaiba |
+| 226 | 79 | Joseph Pace |
 | 227 | 79 | Krs |
 | 228 | 79 | Joshua Cuellar |
 | 229 | 78 | Jessica Miller |

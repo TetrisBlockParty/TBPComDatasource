@@ -135,8 +135,8 @@
 | 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Clever Shiftsnap |
-| 131 | 193 | Duane Bright |
+| 130 | 193 | Duane Bright |
+| 131 | 193 | Clever Shiftsnap |
 | 132 | 192 | Chasity |
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
@@ -167,8 +167,8 @@
 | 159 | 163 | Stephanie Hill |
 | 160 | 162 | Joe-Maggie Mathews |
 | 161 | 160 | Tiffany Davie |
-| 162 | 159 | Stephanie Whitefield |
-| 163 | 159 | Jone |
+| 162 | 159 | Jone |
+| 163 | 159 | Stephanie Whitefield |
 | 164 | 159 | Morgan Martinez |
 | 165 | 158 | Grams |
 | 166 | 158 | BŘŰŤİÇŨŚ |
@@ -310,8 +310,8 @@
 | 302 | 88 | Kevin Russell |
 | 303 | 88 | Kelly Koenig |
 | 304 | 88 | Dapper Towerfit |
-| 305 | 87 | Kellie Montgomery |
-| 306 | 87 | Chris Bell |
+| 305 | 87 | Chris Bell |
+| 306 | 87 | Kellie Montgomery |
 | 307 | 87 | FATTY |
 | 308 | 86 | Clever Clearbuilder |
 | 309 | 86 | Salena Whitlock |
@@ -338,8 +338,8 @@
 | 330 | 79 | Brittany K Ward |
 | 331 | 79 | Jessie Chung |
 | 332 | 79 | Amanda Neal |
-| 333 | 78 | El Chapa |
-| 334 | 78 | Cozy Snaplink |
+| 333 | 78 | Cozy Snaplink |
+| 334 | 78 | El Chapa |
 | 335 | 78 | Myriam Lapierre |
 | 336 | 78 | Sabrina Mansfield |
 | 337 | 78 | Clever Patterner |
@@ -410,8 +410,8 @@
 | 402 | 69 | Lisa Feddeck |
 | 403 | 69 | Spunky Combofall |
 | 404 | 69 | Kristian Thurman |
-| 405 | 68 | Vaners |
-| 406 | 68 | Tamara Deherrera |
+| 405 | 68 | Tamara Deherrera |
+| 406 | 68 | Vaners |
 | 407 | 68 | Reina Roth |
 | 408 | 67 | Serenity |
 | 409 | 67 | Gracie Ornelas |
@@ -525,7 +525,7 @@
 | 517 | 54 | Earlanda Holland |
 | 518 | 53 | Paula Little |
 | 519 | 53 | Funky Dasher |
-| 520 | 53 | Jolly Dashpiece |
+| 520 | 53 | Bobbie Freeman |
 | 521 | 53 | Payden Dover |
 | 522 | 53 | Jolly Dashpiece |
 | 523 | 52 | Jalissa Monique |

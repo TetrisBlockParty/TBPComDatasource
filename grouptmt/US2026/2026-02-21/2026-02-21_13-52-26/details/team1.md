@@ -40,8 +40,8 @@
 | 32 | 399 | Drew Magnus |
 | 33 | 382 | Lori Sanders- Davis |
 | 34 | 380 | Robert Beck |
-| 35 | 348 | Stef Hu |
-| 36 | 348 | Chipper Gridlock |
+| 35 | 348 | Chipper Gridlock |
+| 36 | 348 | Stef Hu |
 | 37 | 338 | Stephanie Zahn |
 | 38 | 327 | Angel Fowler |
 | 39 | 325 | Jennifer Cates |
@@ -57,8 +57,8 @@
 | 49 | 272 | Adam Byrd |
 | 50 | 264 | Shauna Loe |
 | 51 | 257 | Sarah Roberts |
-| 52 | 256 | Tipsy Column |
-| 53 | 256 | Robert Benito |
+| 52 | 256 | Robert Benito |
+| 53 | 256 | Tipsy Column |
 | 54 | 253 | Bhelle Sumile |
 | 55 | 252 | Dena Kayy |
 | 56 | 245 | Hyp James NObettadanluvarat |
@@ -99,8 +99,8 @@
 | 91 | 168 | Redlicious 1 |
 | 92 | 166 | Rico Rico |
 | 93 | 165 | GATOR |
-| 94 | 163 | Brandi Huntington |
-| 95 | 163 | Chad Atchley |
+| 94 | 163 | Chad Atchley |
+| 95 | 163 | Brandi Huntington |
 | 96 | 162 | Patrick Luckenbill |
 | 97 | 161 | Abbey Crespo |
 | 98 | 156 | Jessie Lynn |
@@ -120,11 +120,11 @@
 | 112 | 144 | femmefatale |
 | 113 | 143 | Sarah Marie |
 | 114 | 142 | Colleen Wise |
-| 115 | 141 | Blaire Bruckoff |
-| 116 | 141 | Jennifer ManWarren |
+| 115 | 141 | Jennifer ManWarren |
+| 116 | 141 | Blaire Bruckoff |
 | 117 | 140 | Miguel Teixeira |
-| 118 | 138 | Cranky Pattern |
-| 119 | 138 | Gary Gobin |
+| 118 | 138 | Gary Gobin |
+| 119 | 138 | Cranky Pattern |
 | 120 | 137 | Nadine Velardo |
 | 121 | 134 | Trina Gee |
 | 122 | 133 | Breanna Luna |
