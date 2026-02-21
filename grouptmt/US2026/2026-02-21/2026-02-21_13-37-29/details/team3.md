@@ -200,8 +200,8 @@
 | 192 | 133 | Nikki Pags |
 | 193 | 131 | Jl |
 | 194 | 129 | Lesley Perez |
-| 195 | 128 | David Bardo |
-| 196 | 128 | Jen Lewis |
+| 195 | 128 | Jen Lewis |
+| 196 | 128 | David Bardo |
 | 197 | 127 | Marquita Sheard |
 | 198 | 126 | Brandon Givens |
 | 199 | 125 | Shimika Enay Wallace |
@@ -281,8 +281,8 @@
 | 273 | 96 | Tasha Wesson-Torrence |
 | 274 | 96 | D3NO |
 | 275 | 95 | Brooke Bauer |
-| 276 | 94 | Tracey Cox |
-| 277 | 94 | Angie Harper |
+| 276 | 94 | Angie Harper |
+| 277 | 94 | Tracey Cox |
 | 278 | 93 | Tiffany Ford |
 | 279 | 92 | Jennifer Caputo |
 | 280 | 92 | Ava Petito |
@@ -367,7 +367,7 @@
 | 359 | 75 | Daryn Elliott |
 | 360 | 75 | Janelle Goetz |
 | 361 | 75 | Alixandra Delao |
-| 362 | 74 | ROODBOY |
+| 362 | 74 | Jess Dearborn |
 | 363 | 74 | Mike Spritzer |
 | 364 | 74 | ROODBOY |
 | 365 | 74 | FuzzyNavel |

@@ -294,8 +294,8 @@
 | 286 | 311 | Véronique Lévesque Sabourin |
 | 287 | 311 | Dar |
 | 288 | 310 | Brandy Andre |
-| 289 | 309 | Oscar Bernie |
-| 290 | 309 | Ginger |
+| 289 | 309 | Ginger |
+| 290 | 309 | Oscar Bernie |
 | 291 | 309 | James Zaragoza |
 | 292 | 306 | Kristopher Miller |
 | 293 | 305 | Zany Clusterbuilder |
@@ -364,8 +364,8 @@
 | 356 | 262 | Taren Cowan |
 | 357 | 262 | Min |
 | 358 | 261 | MrsClaudette Will'sIam Matthews |
-| 359 | 260 | Denise Rickman |
-| 360 | 260 | Ebony Deloach Bryant |
+| 359 | 260 | Ebony Deloach Bryant |
+| 360 | 260 | Denise Rickman |
 | 361 | 260 | Santana Miyagi |
 | 362 | 259 | Demeka Dangerous-kisses Johnson |
 | 363 | 257 | Diana Fitzwater |
@@ -406,8 +406,8 @@
 | 398 | 240 | Adam Erikson |
 | 399 | 240 | Angie Marie |
 | 400 | 239 | Angelina Marie |
-| 401 | 236 | Frisky Riserbuilder |
-| 402 | 236 | snkylnk |
+| 401 | 236 | snkylnk |
+| 402 | 236 | Frisky Riserbuilder |
 | 403 | 236 | Niceday |
 | 404 | 236 | Julio A Laracuente |
 | 405 | 235 | Kimberly Mitchell |
@@ -532,8 +532,8 @@
 | 524 | 173 | William Hunt |
 | 525 | 171 | Cappin You |
 | 526 | 170 | Sherisse Bigelow-Staples |
-| 527 | 170 | Bee |
-| 528 | 170 | Dedra Steward |
+| 527 | 170 | Dedra Steward |
+| 528 | 170 | Bee |
 | 529 | 170 | BTA |
 | 530 | 170 | Kenya Felix |
 | 531 | 169 | Eddie Perez |
@@ -543,8 +543,8 @@
 | 535 | 167 | Sabrena Yeisley |
 | 536 | 167 | mshir |
 | 537 | 166 | Lakeela Wise |
-| 538 | 166 | Rhonda Petro |
-| 539 | 166 | Morgan Easter |
+| 538 | 166 | Morgan Easter |
+| 539 | 166 | Rhonda Petro |
 | 540 | 166 | suuny |
 | 541 | 165 | Austin Wilson |
 | 542 | 165 | Catherine Varea |

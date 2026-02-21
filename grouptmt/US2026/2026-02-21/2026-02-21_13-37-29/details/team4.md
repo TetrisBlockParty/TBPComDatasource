@@ -126,8 +126,8 @@
 | 118 | 129 | John Brunetti |
 | 119 | 129 | Landon Keith Graffeo |
 | 120 | 128 | Rio Rocha |
-| 121 | 126 | Klo |
-| 122 | 126 | Dihcheese444 |
+| 121 | 126 | Dihcheese444 |
+| 122 | 126 | Klo |
 | 123 | 124 | Allen Lloyd |
 | 124 | 123 | TinyLegoRose |
 | 125 | 123 | Cherrish Duren |
@@ -138,8 +138,8 @@
 | 130 | 121 | Megan Cutshaw |
 | 131 | 121 | Zany Shatterer |
 | 132 | 120 | Joshua Guess |
-| 133 | 119 | Carlton Unfiltered |
-| 134 | 119 | Kristin Manee |
+| 133 | 119 | Kristin Manee |
+| 134 | 119 | Carlton Unfiltered |
 | 135 | 118 | Leslie Nicole |
 | 136 | 116 | Diana Houts |
 | 137 | 116 | Stephme310 |

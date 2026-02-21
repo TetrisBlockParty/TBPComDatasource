@@ -56,8 +56,8 @@
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Tdub |
@@ -85,8 +85,8 @@
 | 77 | 193 | Lachelle Dillon |
 | 78 | 192 | Shaykmia |
 | 79 | 191 | Jazzy Framezone |
-| 80 | 190 | Thorne Shumate |
-| 81 | 190 | Sweetts |
+| 80 | 190 | Sweetts |
+| 81 | 190 | Thorne Shumate |
 | 82 | 189 | Happy Basegrid |
 | 83 | 180 | Erez Yosef |
 | 84 | 178 | Danielle Little-Daugherty |
@@ -106,8 +106,8 @@
 | 98 | 155 | Cece Ibarra |
 | 99 | 153 | Shiny Gridmatch |
 | 100 | 152 | Jacqueline Unique |
-| 101 | 149 | Arianna O'Brien |
-| 102 | 149 | Tana |
+| 101 | 149 | Tana |
+| 102 | 149 | Arianna O'Brien |
 | 103 | 148 | Shauntina Burke |
 | 104 | 147 | Veronica Eve |
 | 105 | 145 | BigWeenie69 |
