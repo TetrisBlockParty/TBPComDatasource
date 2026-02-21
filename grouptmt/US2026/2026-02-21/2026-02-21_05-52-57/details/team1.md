@@ -54,8 +54,8 @@
 | 46 | 201 | Anaid Sanchez |
 | 47 | 201 | Ananda Mendez |
 | 48 | 200 | Lexuriuos Lifestlye |
-| 49 | 198 | Billie Dawn Sparks |
-| 50 | 198 | Happy Snapbuild |
+| 49 | 198 | Happy Snapbuild |
+| 50 | 198 | Billie Dawn Sparks |
 | 51 | 197 | Cynthia Bradley |
 | 52 | 194 | Sharon Reynolds |
 | 53 | 192 | Mandyy Rae |
@@ -69,11 +69,11 @@
 | 61 | 172 | Hyper |
 | 62 | 171 | Robert Beck |
 | 63 | 169 | Erez Yosef |
-| 64 | 163 | Chad Atchley |
-| 65 | 163 | Rico Rico |
+| 64 | 163 | Rico Rico |
+| 65 | 163 | Chad Atchley |
 | 66 | 161 | Abbey Crespo |
-| 67 | 155 | David DeSantis |
-| 68 | 155 | Standia Civil |
+| 67 | 155 | Standia Civil |
+| 68 | 155 | David DeSantis |
 | 69 | 153 | Shiny Gridmatch |
 | 70 | 152 | Jacqueline Unique |
 | 71 | 149 | Tana |
@@ -81,9 +81,9 @@
 | 73 | 147 | Veronica Eve |
 | 74 | 145 | BigWeenie69 |
 | 75 | 145 | Lachelle Dillon |
-| 76 | 144 | Plucky Ziggy |
-| 77 | 144 | femmefatale |
-| 78 | 144 | Tanya Carpenter-Reynolds |
+| 76 | 144 | Tanya Carpenter-Reynolds |
+| 77 | 144 | Plucky Ziggy |
+| 78 | 144 | femmefatale |
 | 79 | 143 | Sarah Marie |
 | 80 | 141 | Susanna Guerry |
 | 81 | 141 | Blaire Bruckoff |
@@ -103,12 +103,12 @@
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
-| 98 | 114 | Giddy Cascade |
-| 99 | 114 | Colleen Wise |
+| 98 | 114 | Colleen Wise |
+| 99 | 114 | Giddy Cascade |
 | 100 | 113 | Evie Khalil |
-| 101 | 112 | Miguel Teixeira |
-| 102 | 112 | Kristen Gideon |
-| 103 | 112 | Nicole Roseberry Weber |
+| 101 | 112 | Nicole Roseberry Weber |
+| 102 | 112 | Miguel Teixeira |
+| 103 | 112 | Kristen Gideon |
 | 104 | 112 | Christina Graham |
 | 105 | 111 | Agustin Duarte Orozco |
 | 106 | 110 | Heidi Feurer |
@@ -127,8 +127,8 @@
 | 119 | 96 | Nery Martinez |
 | 120 | 96 | Melissa Lemmon |
 | 121 | 95 | Spunky Piecebuilder |
-| 122 | 94 | Luciano Moreira |
-| 123 | 94 | Bindi |
+| 122 | 94 | Bindi |
+| 123 | 94 | Luciano Moreira |
 | 124 | 93 | Loony Fitzone |
 | 125 | 92 | Jessica Russell |
 | 126 | 90 | Madison Wicks |
@@ -173,8 +173,8 @@
 | 165 | 74 | Owicked1 |
 | 166 | 74 | Eddie Dillon |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | John J. Cronin |
-| 169 | 72 | Tipsy Strikerpiece |
+| 168 | 72 | Tipsy Strikerpiece |
+| 169 | 72 | John J. Cronin |
 | 170 | 71 | John Kim |
 | 171 | 70 | Seth Wesson |
 | 172 | 70 | Daring Fitclear |

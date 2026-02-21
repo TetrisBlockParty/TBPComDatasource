@@ -40,8 +40,8 @@
 | 32 | 277 | KJ Pool |
 | 33 | 274 | Elizabeth Sallas |
 | 34 | 256 | Dustin Robert |
-| 35 | 256 | Brittney Griggs |
-| 36 | 256 | Michelle Pearman |
+| 35 | 256 | Michelle Pearman |
+| 36 | 256 | Brittney Griggs |
 | 37 | 245 | Rachel Anne |
 | 38 | 244 | Isabella Blanco |
 | 39 | 231 | Jenna Ingersoll |
@@ -61,8 +61,8 @@
 | 53 | 170 | Leah Kutz Zirbel |
 | 54 | 168 | Anthony Magaraci |
 | 55 | 167 | Dustee Craddock-Harrison |
-| 56 | 165 | Casey Grabner |
-| 57 | 165 | Courtney Cicoria |
+| 56 | 165 | Courtney Cicoria |
+| 57 | 165 | Casey Grabner |
 | 58 | 163 | Denise Carlson |
 | 59 | 160 | Carter Jones |
 | 60 | 159 | Justin Hannigan |
