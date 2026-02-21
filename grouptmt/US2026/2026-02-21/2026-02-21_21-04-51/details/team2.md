@@ -201,22 +201,22 @@
 | 193 | 604 | Danielle Johnson-Chandler |
 | 194 | 603 | Cassie Maynard |
 | 195 | 597 | Erica Williams |
-| 196 | 596 | Jelly |
-| 197 | 596 | Ellie Jonas |
+| 196 | 596 | Ellie Jonas |
+| 197 | 596 | Jelly |
 | 198 | 592 | Ashle Scranton |
 | 199 | 591 | Diana Fitzwater |
 | 200 | 587 | Hyper Cluster |
 | 201 | 586 | Stephen Stephen |
-| 202 | 583 | Jessicah Myers |
-| 203 | 583 | Steve Grotto |
+| 202 | 583 | Steve Grotto |
+| 203 | 583 | Jessicah Myers |
 | 204 | 579 | Gary Stash |
 | 205 | 578 | Sally Dennis |
 | 206 | 576 | Shannon Joslin |
 | 207 | 571 | Thomas Hedrick |
 | 208 | 569 | Vaniel Glover |
 | 209 | 569 | Jánine Riggs |
-| 210 | 563 | Auntie B |
-| 211 | 563 | goofinoff |
+| 210 | 563 | goofinoff |
+| 211 | 563 | Auntie B |
 | 212 | 561 | Kristopher Miller |
 | 213 | 556 | Shavonna Haynes |
 | 214 | 553 | Leslie Ann Carter |
@@ -307,8 +307,8 @@
 | 299 | 429 | ShinyRose |
 | 300 | 428 | Rhonda Milstead |
 | 301 | 427 | Destiny Cozier |
-| 302 | 425 | Julay |
-| 303 | 425 | Skyler Morgan |
+| 302 | 425 | Skyler Morgan |
+| 303 | 425 | Julay |
 | 304 | 423 | Shaun Church |
 | 305 | 422 | Morgue Chick |
 | 306 | 422 | Mamachelle Eisweirth |
@@ -358,9 +358,9 @@
 | 350 | 378 | Cody Nishimura |
 | 351 | 377 | Roy Salyer |
 | 352 | 376 | Caitlin Schmid |
-| 353 | 374 | Johnny Yeates |
-| 354 | 374 | Lee Harper |
-| 355 | 374 | Alexandra Weir |
+| 353 | 374 | Lee Harper |
+| 354 | 374 | Alexandra Weir |
+| 355 | 374 | Johnny Yeates |
 | 356 | 369 | Victoria Moore-Smith |
 | 357 | 369 | Tara Lynn Janes |
 | 358 | 369 | AkaLefty |
@@ -383,8 +383,8 @@
 | 375 | 355 | Shandrica Lowe |
 | 376 | 354 | Darlene Bowman |
 | 377 | 354 | Lawanda Forbes |
-| 378 | 354 | Dar |
-| 379 | 354 | Rickey Johnson |
+| 378 | 354 | Rickey Johnson |
+| 379 | 354 | Dar |
 | 380 | 353 | Cheery Matchzone |
 | 381 | 352 | Juanita Lyons |
 | 382 | 352 | ruth |

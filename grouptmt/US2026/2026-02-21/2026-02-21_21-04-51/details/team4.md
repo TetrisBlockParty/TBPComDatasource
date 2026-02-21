@@ -57,8 +57,8 @@
 | 49 | 449 | Shelly Chandler |
 | 50 | 447 | Samantha Peterson |
 | 51 | 433 | Isabel Aguilar |
-| 52 | 411 | Jonathan Kimbrough |
-| 53 | 411 | TeeJ |
+| 52 | 411 | TeeJ |
+| 53 | 411 | Jonathan Kimbrough |
 | 54 | 409 | Isabella Blanco |
 | 55 | 402 | Courtney Cicoria |
 | 56 | 399 | Jenna Ingersoll |
@@ -272,12 +272,12 @@
 | 264 | 93 | Matt Dell'Olio |
 | 265 | 92 | Zippy Gridlock |
 | 266 | 92 | Christina Black |
-| 267 | 91 | wombat |
-| 268 | 91 | Sunny Filler |
+| 267 | 91 | Sunny Filler |
+| 268 | 91 | wombat |
 | 269 | 90 | Hyper Builder |
 | 270 | 90 | Carol Ricks Raymond |
-| 271 | 90 | Thomas Hettenhaus |
-| 272 | 90 | No Strings Attached Ra |
+| 271 | 90 | No Strings Attached Ra |
+| 272 | 90 | Thomas Hettenhaus |
 | 273 | 89 | Jonathan Mahfood |
 | 274 | 88 | Kesha Brady |
 | 275 | 88 | Michelle Parker |

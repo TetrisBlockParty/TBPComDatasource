@@ -114,8 +114,8 @@
 | 106 | 368 | Stephanie Woods |
 | 107 | 367 | mjl574 |
 | 108 | 367 | Nerdy Riseclear |
-| 109 | 366 | Adrian Marcel Pate |
-| 110 | 366 | Speedy Bridger |
+| 109 | 366 | Speedy Bridger |
+| 110 | 366 | Adrian Marcel Pate |
 | 111 | 350 | Tiff Vs Tiffany |
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
@@ -141,8 +141,8 @@
 | 133 | 278 | Rufus Lincoln |
 | 134 | 276 | Crimson |
 | 135 | 272 | opf |
-| 136 | 271 | Ashley Muncey |
-| 137 | 271 | Leah Barnett |
+| 136 | 271 | Leah Barnett |
+| 137 | 271 | Ashley Muncey |
 | 138 | 267 | Denise Nardoni |
 | 139 | 265 | Marci Mize Fandrich |
 | 140 | 263 | Angeline Joseph |
