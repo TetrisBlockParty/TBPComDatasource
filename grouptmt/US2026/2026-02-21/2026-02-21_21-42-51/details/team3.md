@@ -40,8 +40,8 @@
 | 32 | 996 | Danielle Cutler |
 | 33 | 989 | Kay |
 | 34 | 945 | Liv Whetson |
-| 35 | 928 | Snappy Fitzone |
-| 36 | 928 | Stephanie Rice |
+| 35 | 928 | Stephanie Rice |
+| 36 | 928 | Snappy Fitzone |
 | 37 | 917 | Mahman |
 | 38 | 909 | Amber Jones |
 | 39 | 879 | Shonna Roberts |
@@ -58,8 +58,8 @@
 | 50 | 642 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 593 | Elaine Webb Graves |

@@ -302,8 +302,8 @@
 | 294 | 447 | Maegan Beaule |
 | 295 | 447 | Lourisha |
 | 296 | 445 | Mar Q Thomas |
-| 297 | 442 | Daphne Jordan |
-| 298 | 442 | Leah |
+| 297 | 442 | Leah |
+| 298 | 442 | Daphne Jordan |
 | 299 | 442 | Joshua Mandel |
 | 300 | 440 | Liberty |
 | 301 | 439 | Alisa Lamb |
@@ -423,11 +423,11 @@
 | 415 | 338 | Shorty |
 | 416 | 337 | Sassy Pattern |
 | 417 | 335 | Brooke Leigh Strube |
-| 418 | 334 | Peppy Snapfall |
-| 419 | 334 | Brittney Jean |
-| 420 | 334 | Regina Young |
-| 421 | 333 | LordZophar |
-| 422 | 333 | Tra Barnum |
+| 418 | 334 | Regina Young |
+| 419 | 334 | Peppy Snapfall |
+| 420 | 334 | Brittney Jean |
+| 421 | 333 | Tra Barnum |
+| 422 | 333 | LordZophar |
 | 423 | 332 | Nicole Cannon |
 | 424 | 331 | Kia Humphery |
 | 425 | 330 | Lucy Marshall |
@@ -588,8 +588,8 @@
 | 580 | 245 | Sanaa Nounoussa |
 | 581 | 245 | Mary Boss |
 | 582 | 244 | Maxwell Escalera |
-| 583 | 244 | Court |
-| 584 | 244 | Nakiiya Dreamcatcher Gore |
+| 583 | 244 | Nakiiya Dreamcatcher Gore |
+| 584 | 244 | Court |
 | 585 | 243 | JacJac |
 | 586 | 242 | Donna Chandler |
 | 587 | 242 | Lianne Giandalone LaBounty |
@@ -628,8 +628,8 @@
 | 620 | 226 | Cassie Newton |
 | 621 | 226 | Jodi Mitnick |
 | 622 | 226 | Christina Wsn |
-| 623 | 225 | BK Queen |
-| 624 | 225 | Meganator42 |
+| 623 | 225 | Meganator42 |
+| 624 | 225 | BK Queen |
 | 625 | 225 | Blacc Blac |
 | 626 | 225 | Stanley Vanekelenburg |
 | 627 | 223 | LegoCarpet |
@@ -640,8 +640,8 @@
 | 632 | 223 | Michele Moren |
 | 633 | 222 | Lazy Riseclear |
 | 634 | 221 | Michelle Lee |
-| 635 | 220 | Jennifer Coe |
-| 636 | 220 | Katrina Weston |
+| 635 | 220 | Katrina Weston |
+| 636 | 220 | Jennifer Coe |
 | 637 | 220 | Brenna Ann |
 | 638 | 219 | Cathy Bitters |
 | 639 | 219 | Trista Carter |
@@ -820,8 +820,8 @@
 | 812 | 172 | Ashley M. Davis |
 | 813 | 171 | Bee |
 | 814 | 171 | Angela Murgia-Owen |
-| 815 | 171 | Jacques Frenette |
-| 816 | 171 | Kimberly Bickling |
+| 815 | 171 | Kimberly Bickling |
+| 816 | 171 | Jacques Frenette |
 | 817 | 171 | Cleo Sims |
 | 818 | 171 | Ashley Cooper Tharin |
 | 819 | 170 | Kenya Felix |
