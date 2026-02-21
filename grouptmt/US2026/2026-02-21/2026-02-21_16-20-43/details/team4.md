@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -209,8 +209,8 @@
 | 201 | 95 | Victoria Faniel |
 | 202 | 95 | Cheery Risebuilder |
 | 203 | 94 | Kim Hunt |
-| 204 | 94 | Chastity Mitchell |
-| 205 | 94 | DonMega |
+| 204 | 94 | DonMega |
+| 205 | 94 | Chastity Mitchell |
 | 206 | 93 | Matt Dell'Olio |
 | 207 | 92 | Lindsey Gonzalez |
 | 208 | 91 | Nubian1 |

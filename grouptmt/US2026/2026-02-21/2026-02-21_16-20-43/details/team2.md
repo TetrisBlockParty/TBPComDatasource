@@ -195,8 +195,8 @@
 | 187 | 511 | Ramone Armstrong |
 | 188 | 511 | Dizzy Zone |
 | 189 | 511 | Laura Mclean |
-| 190 | 510 | Lisa Ongtowasruk |
-| 191 | 510 | Cheech Dta |
+| 190 | 510 | Cheech Dta |
+| 191 | 510 | Lisa Ongtowasruk |
 | 192 | 509 | Kelli Wells |
 | 193 | 504 | Cherica Taylor |
 | 194 | 503 | Adam Erikson |
@@ -266,8 +266,8 @@
 | 258 | 391 | Qiana Sanders |
 | 259 | 390 | Kimberly Randesi |
 | 260 | 386 | Macy Williams |
-| 261 | 385 | Sam |
-| 262 | 385 | Skyler Morgan |
+| 261 | 385 | Skyler Morgan |
+| 262 | 385 | Sam |
 | 263 | 383 | Arkei Luster |
 | 264 | 382 | David Holliday |
 | 265 | 379 | Jánine Riggs |

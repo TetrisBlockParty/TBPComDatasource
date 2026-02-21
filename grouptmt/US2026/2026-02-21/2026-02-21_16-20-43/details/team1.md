@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Jennifer ManWarren |
-| 119 | 149 | Arianna O'Brien |
+| 118 | 149 | Arianna O'Brien |
+| 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
 | 122 | 146 | Dandy Basegrid |
@@ -219,15 +219,15 @@
 | 211 | 91 | Sleepysloath5745 |
 | 212 | 90 | Grace Joanne Agnant |
 | 213 | 90 | John Kim |
-| 214 | 90 | Grace Joanne Agnant |
+| 214 | 90 | Steve Schneider |
 | 215 | 89 | Isodor |
 | 216 | 88 | Sam Williams |
-| 217 | 88 | Larry Tilton |
-| 218 | 88 | DoodleBug |
+| 217 | 88 | DoodleBug |
+| 218 | 88 | Larry Tilton |
 | 219 | 87 | Jenny Gingrich Fuentes |
 | 220 | 86 | Basment Living |
 | 221 | 85 | John Barron |
-| 222 | 84 | Fresno Beotoni |
+| 222 | 84 | Eddie Dillon |
 | 223 | 84 | Rachel Nichole Henry |
 | 224 | 84 | Fresno Beotoni |
 | 225 | 83 | Layzietyme |

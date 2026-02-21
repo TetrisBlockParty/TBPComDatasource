@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -159,8 +159,8 @@
 | 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Staci George Fitzsimmons |
-| 155 | 189 | Sissy Lowery Davis |
+| 154 | 189 | Sissy Lowery Davis |
+| 155 | 189 | Staci George Fitzsimmons |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -182,8 +182,8 @@
 | 174 | 168 | rosy |
 | 175 | 167 | Raven Dudley |
 | 176 | 166 | Loopy Fallmatch |
-| 177 | 166 | Betty Rosas |
-| 178 | 166 | Kelly Ann Child |
+| 177 | 166 | Kelly Ann Child |
+| 178 | 166 | Betty Rosas |
 | 179 | 165 | Kali Kelz Williams |
 | 180 | 163 | Stephanie Hill |
 | 181 | 163 | Sashay Tapae Simpson |
@@ -259,10 +259,10 @@
 | 251 | 115 | Daring Builder |
 | 252 | 114 | Amanda Neal |
 | 253 | 113 | Brave Brickster |
-| 254 | 113 | Brian Battjes |
-| 255 | 113 | Beppy |
+| 254 | 113 | Beppy |
+| 255 | 113 | Brian Battjes |
 | 256 | 111 | France Vézina |
-| 257 | 111 | Jason-Ashley Ludlow |
+| 257 | 111 | Stephanie Zahm |
 | 258 | 111 | El Chapa |
 | 259 | 111 | Jason-Ashley Ludlow |
 | 260 | 110 | Danielle Weikel |
