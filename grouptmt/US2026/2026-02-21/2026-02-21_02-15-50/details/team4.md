@@ -47,8 +47,8 @@
 | 39 | 153 | Lucille Truesdale |
 | 40 | 147 | Courtney Cicoria |
 | 41 | 141 | Edward White |
-| 42 | 140 | Shannon Ferrari |
-| 43 | 140 | Carter Jones |
+| 42 | 140 | Carter Jones |
+| 43 | 140 | Shannon Ferrari |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
 | 46 | 133 | Jessica Bohlken |
@@ -57,8 +57,8 @@
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
 | 51 | 125 | Lauren Scott |
-| 52 | 124 | Epic Curvetile |
-| 53 | 124 | Jay28 |
+| 52 | 124 | Jay28 |
+| 53 | 124 | Epic Curvetile |
 | 54 | 123 | Nugget |
 | 55 | 122 | Shelly Chandler |
 | 56 | 121 | Smiley Tiltbuilder |
@@ -66,8 +66,8 @@
 | 58 | 116 | Sherri |
 | 59 | 114 | Jessica Cagle |
 | 60 | 113 | Degenerate |
-| 61 | 112 | Chirpy Basepiece |
-| 62 | 112 | Mr. Party |
+| 61 | 112 | Mr. Party |
+| 62 | 112 | Chirpy Basepiece |
 | 63 | 111 | Gwendolyn Pitcairn |
 | 64 | 111 | Zany Shatterer |
 | 65 | 110 | Diana Houts |

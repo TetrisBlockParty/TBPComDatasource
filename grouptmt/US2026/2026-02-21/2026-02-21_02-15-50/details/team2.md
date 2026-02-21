@@ -95,8 +95,8 @@
 | 87 | 469 | Ashley Rose Frederick |
 | 88 | 465 | Tommy Tha Boss Gunz |
 | 89 | 456 | Lisa Ongtowasruk |
-| 90 | 448 | Nick Jensen |
-| 91 | 448 | Jojo Momma |
+| 90 | 448 | Jojo Momma |
+| 91 | 448 | Nick Jensen |
 | 92 | 442 | Daphne Jordan |
 | 93 | 440 | Mari Ac |
 | 94 | 440 | Becky Weeks-Garry |

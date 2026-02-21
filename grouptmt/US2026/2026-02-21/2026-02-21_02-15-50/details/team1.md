@@ -58,9 +58,9 @@
 | 50 | 147 | Veronica Eve |
 | 51 | 145 | Lachelle Dillon |
 | 52 | 145 | BigWeenie69 |
-| 53 | 144 | Tana |
-| 54 | 144 | Tanya Carpenter-Reynolds |
-| 55 | 144 | Plucky Ziggy |
+| 53 | 144 | Plucky Ziggy |
+| 54 | 144 | Tana |
+| 55 | 144 | Tanya Carpenter-Reynolds |
 | 56 | 141 | Susanna Guerry |
 | 57 | 138 | Joe Smith |
 | 58 | 137 | Nadine Velardo |
@@ -74,8 +74,8 @@
 | 66 | 119 | Irual Hctrab |
 | 67 | 117 | David DeSantis |
 | 68 | 116 | Kristen Roles Robben |
-| 69 | 114 | Colleen Wise |
-| 70 | 114 | Giddy Cascade |
+| 69 | 114 | Giddy Cascade |
+| 70 | 114 | Colleen Wise |
 | 71 | 114 | Robert Beck |
 | 72 | 112 | Nicole Roseberry Weber |
 | 73 | 112 | Miguel Teixeira |
@@ -85,8 +85,8 @@
 | 77 | 108 | Tavia |
 | 78 | 107 | Jodee Woods |
 | 79 | 105 | Barry Mac'Ockner |
-| 80 | 100 | Ash Galvan |
-| 81 | 100 | comrade fish |
+| 80 | 100 | comrade fish |
+| 81 | 100 | Ash Galvan |
 | 82 | 99 | Bhelle Sumile |
 | 83 | 98 | Gary Gobin |
 | 84 | 98 | Flashy Rotator |
