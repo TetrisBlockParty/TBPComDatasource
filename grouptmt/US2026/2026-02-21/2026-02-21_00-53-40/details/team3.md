@@ -62,8 +62,8 @@
 | 54 | 206 | MissTaylor |
 | 55 | 203 | Crimson |
 | 56 | 198 | Nerdy Riseclear |
-| 57 | 193 | Shunta Jacobs |
-| 58 | 193 | Clever Shiftsnap |
+| 57 | 193 | Clever Shiftsnap |
+| 58 | 193 | Shunta Jacobs |
 | 59 | 187 | Speedy Bridger |
 | 60 | 185 | Danielle Cutler |
 | 61 | 184 | Jennie Beranek |
@@ -73,8 +73,8 @@
 | 65 | 170 | Delilah belle |
 | 66 | 166 | Danielle Mogg |
 | 67 | 159 | Morgan Martinez |
-| 68 | 154 | Angela M. Fletcher |
-| 69 | 154 | Shannon Matthew Byers |
+| 68 | 154 | Shannon Matthew Byers |
+| 69 | 154 | Angela M. Fletcher |
 | 70 | 152 | Shiny Zonebuilder |
 | 71 | 152 | rosy |
 | 72 | 147 | Trisha Balmer |
@@ -133,8 +133,8 @@
 | 125 | 93 | Tiffany Ford |
 | 126 | 92 | Skinny Baldez |
 | 127 | 90 | Tiffany Kaupang |
-| 128 | 89 | Hyper Bridger |
-| 129 | 89 | Annie Déè |
+| 128 | 89 | Annie Déè |
+| 129 | 89 | Hyper Bridger |
 | 130 | 88 | Martin Bernier |
 | 131 | 88 | Funky Jumper |
 | 132 | 86 | Dan Rob |

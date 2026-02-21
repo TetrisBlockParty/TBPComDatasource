@@ -46,9 +46,9 @@
 | 38 | 679 | Gold Rose |
 | 39 | 677 | Kimberly Michelle Brown |
 | 40 | 674 | Dannette Goldberg-Richards |
-| 41 | 658 | Dreamy Blast |
-| 42 | 658 | Pacynthia Williams |
-| 43 | 658 | Vistabrat |
+| 41 | 658 | Pacynthia Williams |
+| 42 | 658 | Vistabrat |
+| 43 | 658 | Dreamy Blast |
 | 44 | 652 | E_Money04 |
 | 45 | 615 | Vo'Landa Reels |
 | 46 | 608 | John Bednarik |
@@ -116,8 +116,8 @@
 | 108 | 317 | bru |
 | 109 | 299 | Véronique Lévesque Sabourin |
 | 110 | 297 | James Zaragoza |
-| 111 | 295 | Diallo Sparkman |
-| 112 | 295 | Zany Clusterbuilder |
+| 111 | 295 | Zany Clusterbuilder |
+| 112 | 295 | Diallo Sparkman |
 | 113 | 292 | Steve Grotto |
 | 114 | 290 | Jessie McDougald |
 | 115 | 286 | Juanita Lyons |

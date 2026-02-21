@@ -32,16 +32,16 @@
 | 24 | 193 | Devinlee Brown |
 | 25 | 188 | Dustin Robert |
 | 26 | 185 | loulou |
-| 27 | 174 | Koshin Abdirahman |
-| 28 | 174 | Jamie Mann-Deichmann |
+| 27 | 174 | Jamie Mann-Deichmann |
+| 28 | 174 | Koshin Abdirahman |
 | 29 | 171 | Brittney Orengo |
 | 30 | 170 | Girl |
 | 31 | 168 | Anthony Magaraci |
 | 32 | 167 | Rachel Anne |
 | 33 | 163 | Johnathan Martinez |
 | 34 | 153 | Lucille Truesdale |
-| 35 | 147 | Kimyatta Cavin |
-| 36 | 147 | Courtney Cicoria |
+| 35 | 147 | Courtney Cicoria |
+| 36 | 147 | Kimyatta Cavin |
 | 37 | 141 | Edward White |
 | 38 | 140 | Carter Jones |
 | 39 | 140 | GreenJeepGirl |
@@ -117,8 +117,8 @@
 | 109 | 60 | Ahleek Mitchell |
 | 110 | 60 | Dustee Craddock-Harrison |
 | 111 | 59 | Chaz Duncan |
-| 112 | 57 | Stephanie Jones |
-| 113 | 57 | Justin Hannigan |
+| 112 | 57 | Justin Hannigan |
+| 113 | 57 | Stephanie Jones |
 | 114 | 57 | Carlos G Reyes |
 | 115 | 56 | Chastity Mitchell |
 | 116 | 56 | Heather Tushner |
@@ -133,14 +133,14 @@
 | 125 | 52 | Allison Judith |
 | 126 | 52 | Nicole Silvers |
 | 127 | 52 | Glitzy Crasher |
-| 128 | 51 | Swanky Fitline |
-| 129 | 51 | David Lay |
+| 128 | 51 | David Lay |
+| 129 | 51 | Swanky Fitline |
 | 130 | 51 | George Nutt |
 | 131 | 51 | BertMofo |
 | 132 | 50 | Landon Keith Graffeo |
 | 133 | 50 | Brandon Crabbs |
-| 134 | 50 | Smiley Linkgrid |
-| 135 | 50 | GBR |
+| 134 | 50 | GBR |
+| 135 | 50 | Smiley Linkgrid |
 | 136 | 49 | shark tato |
 | 137 | 49 | Lakesha Johnson |
 | 138 | 49 | Rio Rocha |
