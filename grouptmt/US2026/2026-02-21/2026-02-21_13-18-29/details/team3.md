@@ -93,8 +93,8 @@
 | 85 | 320 | Or Reznitsky |
 | 86 | 316 | Fancy Cascader |
 | 87 | 313 | Elaine Webb Graves |
-| 88 | 309 | CeceGeGe |
-| 89 | 309 | Rich LeBlanc |
+| 88 | 309 | Rich LeBlanc |
+| 89 | 309 | CeceGeGe |
 | 90 | 307 | Peggi Charon |
 | 91 | 307 | Blocked |
 | 92 | 300 | Sherika C. McDaniels |
@@ -114,8 +114,8 @@
 | 106 | 232 | Poppy Splitter |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Judi Dobson |
-| 110 | 224 | Mykal Burton |
+| 109 | 224 | Mykal Burton |
+| 110 | 224 | Judi Dobson |
 | 111 | 223 | Jeana Gilbert |
 | 112 | 222 | Jimmie Clemons |
 | 113 | 222 | Nicole Flippo |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Jenny Hrndz |
-| 125 | 195 | Nicha Hooker |
+| 124 | 195 | Nicha Hooker |
+| 125 | 195 | Jenny Hrndz |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -178,8 +178,8 @@
 | 170 | 152 | Trisha Balmer |
 | 171 | 151 | MsBee |
 | 172 | 150 | Nicole Myers |
-| 173 | 149 | Angel Mendez |
-| 174 | 149 | Bea Miles |
+| 173 | 149 | Bea Miles |
+| 174 | 149 | Angel Mendez |
 | 175 | 147 | Sashay Tapae Simpson |
 | 176 | 147 | Desiree Gold |
 | 177 | 146 | Latoya Mayne |
@@ -229,8 +229,8 @@
 | 221 | 113 | Brian Battjes |
 | 222 | 113 | Beppy |
 | 223 | 111 | Stephanie Zahm |
-| 224 | 110 | Danielle Weikel |
-| 225 | 110 | Tye Stovall |
+| 224 | 110 | Tye Stovall |
+| 225 | 110 | Danielle Weikel |
 | 226 | 110 | Stella |
 | 227 | 109 | Lys |
 | 228 | 109 | Fredd Thomas |
@@ -241,10 +241,10 @@
 | 233 | 108 | Hanna Kim |
 | 234 | 107 | Bouncy Blockbuilder |
 | 235 | 107 | France Vézina |
-| 236 | 107 | Bouncy Blockbuilder |
+| 236 | 107 | Sherry Ogden |
 | 237 | 106 | Noettín Kan Zasnemoore |
-| 238 | 105 | Boldy Blocker |
-| 239 | 105 | Carol Cain Thurman |
+| 238 | 105 | Carol Cain Thurman |
+| 239 | 105 | Boldy Blocker |
 | 240 | 105 | Emi |
 | 241 | 104 | Jason-Ashley Ludlow |
 | 242 | 104 | bean |
@@ -484,7 +484,7 @@
 | 476 | 56 | Stormy Anguish |
 | 477 | 56 | Lisa Ann |
 | 478 | 56 | Tracy Marino |
-| 479 | 56 | Lisa Ann |
+| 479 | 56 | Dakota Lee DeMarrias |
 | 480 | 55 | Isabelle Hall-Burns |
 | 481 | 55 | Flashy Climber |
 | 482 | 55 | Maple |

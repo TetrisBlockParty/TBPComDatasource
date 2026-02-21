@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 325 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -51,8 +51,8 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Theo Pinnow |
-| 47 | 274 | Sweet Baker |
+| 46 | 274 | Sweet Baker |
+| 47 | 274 | Theo Pinnow |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
@@ -66,8 +66,8 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Tdub |
-| 62 | 212 | Jaimie Lynn |
+| 61 | 212 | Jaimie Lynn |
+| 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
 | 64 | 208 | Carrie Beck Geartz |
 | 65 | 208 | Mandyy Rae |
@@ -241,8 +241,8 @@
 | 233 | 74 | Jo Kerley |
 | 234 | 74 | Meechie |
 | 235 | 73 | Shanae Grant |
-| 236 | 72 | Ric Hard Hernandez |
-| 237 | 72 | Tipsy Strikerpiece |
+| 236 | 72 | Tipsy Strikerpiece |
+| 237 | 72 | Ric Hard Hernandez |
 | 238 | 71 | Loneell Hyland |
 | 239 | 70 | Timothy Danaher |
 | 240 | 70 | Seth Wesson |

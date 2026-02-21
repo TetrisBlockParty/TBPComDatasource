@@ -45,8 +45,8 @@
 | 37 | 1323 | Freya |
 | 38 | 1282 | Elizabeth Hinkens |
 | 39 | 1257 | Crystalin Heath Lewis |
-| 40 | 1250 | Reese Nguyen |
-| 41 | 1250 | blackq |
+| 40 | 1250 | blackq |
+| 41 | 1250 | Reese Nguyen |
 | 42 | 1215 | Megan Garrick |
 | 43 | 1187 | Katrina Williams Balmir |
 | 44 | 1173 | Devin Lee |
@@ -222,8 +222,8 @@
 | 214 | 390 | Lylymom |
 | 215 | 386 | Ashie Ann |
 | 216 | 386 | Macy Williams |
-| 217 | 385 | Arwa Fatimah |
-| 218 | 385 | Sam |
+| 217 | 385 | Sam |
+| 218 | 385 | Arwa Fatimah |
 | 219 | 381 | Amanda Ferrell |
 | 220 | 380 | Calandra Shaya Robinson |
 | 221 | 378 | Cody Nishimura |
@@ -340,10 +340,10 @@
 | 332 | 274 | Jamie Stevey |
 | 333 | 274 | Melissa Holsinger |
 | 334 | 274 | Lonne Emade |
-| 335 | 273 | Jenna Nance |
-| 336 | 273 | Ray Ray Prado |
-| 337 | 273 | Vanessa Moreno |
-| 338 | 273 | August Hale |
+| 335 | 273 | Ray Ray Prado |
+| 336 | 273 | Jenna Nance |
+| 337 | 273 | August Hale |
+| 338 | 273 | Vanessa Moreno |
 | 339 | 272 | Mikayala Szaz |
 | 340 | 271 | Ann Marie Davis |
 | 341 | 271 | Toni Lynn |
@@ -479,8 +479,8 @@
 | 471 | 191 | Lauren Fitzgerald Thomas |
 | 472 | 191 | John Quiring |
 | 473 | 190 | Jessica Kaye DeAguero |
-| 474 | 188 | Michael Artis |
-| 475 | 188 | Irene Jones |
+| 474 | 188 | Irene Jones |
+| 475 | 188 | Michael Artis |
 | 476 | 188 | Seth Wrieden |
 | 477 | 187 | Stefanie Zonzini-Gagliardi |
 | 478 | 186 | Joshua Mullings |
@@ -514,8 +514,8 @@
 | 506 | 177 | Ryan Meilleur |
 | 507 | 177 | Facuetoo |
 | 508 | 176 | Trisha Gallagher |
-| 509 | 176 | Stacy Harper |
-| 510 | 176 | Jennifer Malloy - Cardy |
+| 509 | 176 | Jennifer Malloy - Cardy |
+| 510 | 176 | Stacy Harper |
 | 511 | 175 | Snippy Rumbler |
 | 512 | 175 | Tina Blessed Cage |
 | 513 | 175 | Lucero Ramirez |
@@ -546,8 +546,8 @@
 | 538 | 165 | Austin Wilson |
 | 539 | 164 | Jessica Vega |
 | 540 | 164 | Sara Pennington |
-| 541 | 163 | Angelica |
-| 542 | 163 | Albert McKnight |
+| 541 | 163 | Albert McKnight |
+| 542 | 163 | Angelica |
 | 543 | 163 | Danielle Ayoub |
 | 544 | 162 | Chirpy Snapper |
 | 545 | 162 | LC Hamilton |
@@ -612,8 +612,8 @@
 | 604 | 148 | AgileDragon |
 | 605 | 148 | Cleo Sims |
 | 606 | 147 | Melissa Kay Gibson |
-| 607 | 147 | Sassy Pivot |
-| 608 | 147 | Smiley Strike |
+| 607 | 147 | Smiley Strike |
+| 608 | 147 | Sassy Pivot |
 | 609 | 146 | Gemini Washington |
 | 610 | 146 | Sherry Aguinaga |
 | 611 | 146 | Ibiza Carolina LaRose |
@@ -633,7 +633,7 @@
 | 625 | 142 | Christina Jones |
 | 626 | 142 | Marsha Sosa Kiech |
 | 627 | 142 | Joy LaJeunesse |
-| 628 | 142 | Brandy |
+| 628 | 142 | Amy Humphreys |
 | 629 | 142 | Zachary Boyarski |
 | 630 | 142 | Brandy |
 | 631 | 141 | Markisha Poyndexter |
@@ -684,8 +684,8 @@
 | 676 | 135 | Michelle Loar |
 | 677 | 135 | Yemaja Obba Olokun |
 | 678 | 134 | Speedy Pivoty |
-| 679 | 134 | Slinky Risegrid |
-| 680 | 134 | Dandy Drop |
+| 679 | 134 | Dandy Drop |
+| 680 | 134 | Slinky Risegrid |
 | 681 | 134 | Sarah Massey |
 | 682 | 134 | Leebo Slice |
 | 683 | 134 | Quinn |
@@ -704,9 +704,9 @@
 | 696 | 132 | Andre Love |
 | 697 | 132 | Joann |
 | 698 | 132 | Paula Snyder |
-| 699 | 131 | Deidre Shaffer |
-| 700 | 131 | SpaceCase085 |
-| 701 | 131 | Squirrel |
+| 699 | 131 | SpaceCase085 |
+| 700 | 131 | Squirrel |
+| 701 | 131 | Deidre Shaffer |
 | 702 | 131 | Christine Moradians |
 | 703 | 131 | Kerry Miller |
 | 704 | 131 | Kendall Fullerton |
