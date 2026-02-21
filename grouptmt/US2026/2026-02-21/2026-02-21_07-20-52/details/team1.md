@@ -41,8 +41,8 @@
 | 33 | 291 | Nancy Green |
 | 34 | 286 | Michelle Nicole |
 | 35 | 281 | Maria C. Hernandez |
-| 36 | 274 | Sweet Baker |
-| 37 | 274 | Theo Pinnow |
+| 36 | 274 | Theo Pinnow |
+| 37 | 274 | Sweet Baker |
 | 38 | 265 | Jennifer Cates |
 | 39 | 256 | Robert Benito |
 | 40 | 256 | Tipsy Column |
@@ -57,18 +57,18 @@
 | 49 | 205 | Trippy Redd |
 | 50 | 204 | Ly Phethmany |
 | 51 | 202 | Dee Perry |
-| 52 | 201 | Ananda Mendez |
-| 53 | 201 | Anaid Sanchez |
+| 52 | 201 | Anaid Sanchez |
+| 53 | 201 | Ananda Mendez |
 | 54 | 200 | Lexuriuos Lifestlye |
-| 55 | 198 | Happy Snapbuild |
-| 56 | 198 | Billie Dawn Sparks |
+| 55 | 198 | Billie Dawn Sparks |
+| 56 | 198 | Happy Snapbuild |
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
 | 60 | 191 | Jazzy Framezone |
 | 61 | 191 | Giggly Builderline |
-| 62 | 190 | Thorne Shumate |
-| 63 | 190 | Sweetts |
+| 62 | 190 | Sweetts |
+| 63 | 190 | Thorne Shumate |
 | 64 | 189 | Happy Basegrid |
 | 65 | 183 | Susanna Guerry |
 | 66 | 173 | Frothy Pattern |

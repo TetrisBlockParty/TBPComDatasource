@@ -349,8 +349,8 @@
 | 341 | 212 | Aleasha M Brown |
 | 342 | 209 | Jerry Tempelmeyer |
 | 343 | 208 | Mema |
-| 344 | 207 | Melissa McCall |
-| 345 | 207 | Brave Gridpiece |
+| 344 | 207 | Brave Gridpiece |
+| 345 | 207 | Melissa McCall |
 | 346 | 207 | Shylee Tilman |
 | 347 | 206 | Jennifer Leigh |
 | 348 | 206 | RAEPR05 |
@@ -363,8 +363,8 @@
 | 355 | 202 | Christina Ashley |
 | 356 | 201 | Zombi3 |
 | 357 | 201 | Peppy Snapfall |
-| 358 | 200 | Sarah Ridenour |
-| 359 | 200 | LaWanda Powell |
+| 358 | 200 | LaWanda Powell |
+| 359 | 200 | Sarah Ridenour |
 | 360 | 200 | Cheeky Brickmatch |
 | 361 | 199 | Jessica Sutter |
 | 362 | 199 | Jenny Castro |

@@ -156,8 +156,8 @@
 | 148 | 90 | Judy Cox |
 | 149 | 90 | No Strings Attached Ra |
 | 150 | 89 | mike |
-| 151 | 89 | Shainne Brewer |
-| 152 | 89 | Jeremy Steines |
+| 151 | 89 | Jeremy Steines |
+| 152 | 89 | Shainne Brewer |
 | 153 | 88 | Heather Tushner |
 | 154 | 88 | Kesha Brady |
 | 155 | 87 | Lauren Lamb |

@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -137,8 +137,8 @@
 | 129 | 159 | Morgan Martinez |
 | 130 | 158 | Grams |
 | 131 | 156 | Joey Banks |
-| 132 | 155 | Mcathen |
-| 133 | 155 | BŘŰŤİÇŨŚ |
+| 132 | 155 | BŘŰŤİÇŨŚ |
+| 133 | 155 | Mcathen |
 | 134 | 154 | Angela M. Fletcher |
 | 135 | 153 | Giddy Twistbuilder |
 | 136 | 153 | Beth Ingham |
@@ -183,8 +183,8 @@
 | 175 | 121 | Danielle Allison |
 | 176 | 120 | Jessica |
 | 177 | 118 | Fancy Curver |
-| 178 | 116 | Skinny Baldez |
-| 179 | 116 | Joy Petroski |
+| 178 | 116 | Joy Petroski |
+| 179 | 116 | Skinny Baldez |
 | 180 | 115 | Jennifer Alvey |
 | 181 | 114 | Nicholas Roddy |
 | 182 | 114 | Jessica Bechler |
