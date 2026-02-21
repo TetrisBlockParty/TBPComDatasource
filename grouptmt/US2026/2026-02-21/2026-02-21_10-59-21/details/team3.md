@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -165,8 +165,8 @@
 | 157 | 149 | Trisha Balmer |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Denita Mungro |
-| 161 | 146 | Latoya Mayne |
+| 160 | 146 | Latoya Mayne |
+| 161 | 146 | Denita Mungro |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Jay Horn |
@@ -183,8 +183,8 @@
 | 175 | 127 | Connie Mohler-Fair |
 | 176 | 127 | Aerian Preston |
 | 177 | 126 | Brandon Givens |
-| 178 | 125 | Shimika Enay Wallace |
-| 179 | 125 | Felicia Doxey |
+| 178 | 125 | Felicia Doxey |
+| 179 | 125 | Shimika Enay Wallace |
 | 180 | 124 | Cesar Barraza |
 | 181 | 123 | Terry Jo Jones |
 | 182 | 123 | Sarajane Lokan |

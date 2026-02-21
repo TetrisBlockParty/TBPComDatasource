@@ -112,12 +112,12 @@
 | 104 | 658 | Pacynthia Williams |
 | 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Stephanie Chapman |
-| 108 | 649 | Anna Edwards |
+| 107 | 649 | Anna Edwards |
+| 108 | 649 | Stephanie Chapman |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
-| 111 | 631 | Loopy Clusterbuilder |
-| 112 | 631 | Peppy Zone |
+| 111 | 631 | Peppy Zone |
+| 112 | 631 | Loopy Clusterbuilder |
 | 113 | 620 | BYM4L |
 | 114 | 608 | John Bednarik |
 | 115 | 601 | Nancy Reid |
@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Kaylee McCafferty |
-| 144 | 515 | Real Ri |
+| 143 | 515 | Real Ri |
+| 144 | 515 | Kaylee McCafferty |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -365,8 +365,8 @@
 | 357 | 236 | Niceday |
 | 358 | 236 | Julio A Laracuente |
 | 359 | 235 | Kimberly Mitchell |
-| 360 | 234 | Jennifer Leigh |
-| 361 | 234 | Manny Trindade |
+| 360 | 234 | Manny Trindade |
+| 361 | 234 | Jennifer Leigh |
 | 362 | 234 | Jaybee Nguyen |
 | 363 | 233 | Robin Kerby |
 | 364 | 233 | Jumpy Gridclear |
@@ -461,9 +461,9 @@
 | 453 | 180 | Peter Palestino |
 | 454 | 179 | Desiree Harris Rosch |
 | 455 | 179 | Elizabeth Pearson |
-| 456 | 179 | Bette Prieto |
-| 457 | 179 | Lively Catcher |
-| 458 | 179 | Cat |
+| 456 | 179 | Cat |
+| 457 | 179 | Bette Prieto |
+| 458 | 179 | Lively Catcher |
 | 459 | 178 | Michelle Shrum |
 | 460 | 177 | Facuetoo |
 | 461 | 177 | Angel |
@@ -729,9 +729,9 @@
 | 721 | 119 | Mary Boss |
 | 722 | 119 | Zappy Stackbuilder |
 | 723 | 119 | Gloria Ininahazwe |
-| 724 | 118 | Raffaella Dowling |
-| 725 | 118 | Starrs Dcct |
-| 726 | 118 | Wha |
+| 724 | 118 | Starrs Dcct |
+| 725 | 118 | Wha |
+| 726 | 118 | Raffaella Dowling |
 | 727 | 118 | Nina Woodill |
 | 728 | 118 | Amanda Perez |
 | 729 | 118 | Emilie Victoria Cordero |
@@ -755,7 +755,7 @@
 | 747 | 115 | Fae-Bulous |
 | 748 | 115 | AsnPryBoy83 |
 | 749 | 114 | Melissa Maples |
-| 750 | 114 | James Louie |
+| 750 | 114 | Biggest thing |
 | 751 | 114 | Brenda |
 | 752 | 114 | James Louie |
 | 753 | 114 | Juan Castillo |

@@ -87,14 +87,14 @@
 | 79 | 165 | Casey Grabner |
 | 80 | 162 | Shauna Havard |
 | 81 | 160 | Carter Jones |
-| 82 | 159 | Justin Hannigan |
-| 83 | 159 | Holly Jolly |
+| 82 | 159 | Holly Jolly |
+| 83 | 159 | Justin Hannigan |
 | 84 | 157 | quicksand420 |
 | 85 | 154 | ThaEviLJeNiuZ |
 | 86 | 153 | Jae Job |
 | 87 | 150 | ZeeZee |
-| 88 | 147 | 030Synner |
-| 89 | 147 | Jay28 |
+| 88 | 147 | Jay28 |
+| 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
 | 91 | 141 | Latisha Davis |
 | 92 | 141 | Malakai Darien Fox |
@@ -167,11 +167,11 @@
 | 159 | 97 | Kristin MacDonald |
 | 160 | 96 | Zappy Snaplink |
 | 161 | 96 | Marcus TheeyoungWoe Gilmore |
-| 162 | 95 | Meagan Nicole |
-| 163 | 95 | Victoria Faniel |
-| 164 | 94 | Chastity Mitchell |
-| 165 | 94 | DonMega |
-| 166 | 94 | Kim Hunt |
+| 162 | 95 | Victoria Faniel |
+| 163 | 95 | Meagan Nicole |
+| 164 | 94 | Kim Hunt |
+| 165 | 94 | Chastity Mitchell |
+| 166 | 94 | DonMega |
 | 167 | 93 | Zesty Twistbuilder |
 | 168 | 90 | No Strings Attached Ra |
 | 169 | 90 | Judy Cox |
