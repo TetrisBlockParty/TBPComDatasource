@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -113,8 +113,8 @@
 | 105 | 129 | John Brunetti |
 | 106 | 126 | Dihcheese444 |
 | 107 | 125 | Lauren Scott |
-| 108 | 123 | Bubbly Puzzler |
-| 109 | 123 | Nugget |
+| 108 | 123 | Nugget |
+| 109 | 123 | Bubbly Puzzler |
 | 110 | 123 | Cherrish Duren |
 | 111 | 122 | Sherri |
 | 112 | 121 | Zany Shatterer |

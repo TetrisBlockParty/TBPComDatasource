@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -130,10 +130,10 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
-| 127 | 180 | Tessina Dewey-Mancino |
-| 128 | 180 | Fallorina Susana |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
+| 127 | 180 | Fallorina Susana |
+| 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
@@ -153,8 +153,8 @@
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Stephanie Whitefield |
-| 149 | 153 | Beth Ingham |
+| 148 | 153 | Beth Ingham |
+| 149 | 153 | Stephanie Whitefield |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
@@ -162,8 +162,8 @@
 | 154 | 149 | Angel Mendez |
 | 155 | 149 | Bea Miles |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Latoya Mayne |
-| 158 | 146 | Denita Mungro |
+| 157 | 146 | Denita Mungro |
+| 158 | 146 | Latoya Mayne |
 | 159 | 145 | Bryan Byrd |
 | 160 | 142 | Erica Anderson |
 | 161 | 140 | Jay Horn |
@@ -173,9 +173,9 @@
 | 165 | 134 | Emma |
 | 166 | 134 | DanceLuvLaugh |
 | 167 | 131 | Jl |
-| 168 | 129 | Logan Naccarato |
+| 168 | 129 | Lesley Perez |
 | 169 | 129 | Stephanie Burtin |
-| 170 | 129 | Lesley Perez |
+| 170 | 129 | Logan Naccarato |
 | 171 | 127 | Marquita Sheard |
 | 172 | 127 | Aerian Preston |
 | 173 | 127 | Connie Mohler-Fair |

@@ -879,7 +879,7 @@
 | 871 | 98 | EffThatEss |
 | 872 | 98 | Melissa May |
 | 873 | 98 | Maggie |
-| 874 | 98 | Melissa May |
+| 874 | 98 | B |
 | 875 | 98 | Brian Easterday |
 | 876 | 98 | Offonar Facey |
 | 877 | 98 | Jennifer Rose |
@@ -915,8 +915,8 @@
 | 907 | 95 | Plucky Caster |
 | 908 | 95 | Gregorio Molina |
 | 909 | 95 | Latesha Walker |
-| 910 | 95 | Alice Samm |
-| 911 | 95 | Denisse Avilez |
+| 910 | 95 | Denisse Avilez |
+| 911 | 95 | Alice Samm |
 | 912 | 95 | Pamela Murphy |
 | 913 | 95 | Crafty Spinzone |
 | 914 | 94 | Tim Hanl |
@@ -979,8 +979,8 @@
 | 971 | 89 | Joshua Sommerville |
 | 972 | 89 | Kevin Dybel |
 | 973 | 89 | Sparkles  Sabrina |
-| 974 | 88 | Ilse Chaparro |
-| 975 | 88 | David Duncan |
+| 974 | 88 | David Duncan |
+| 975 | 88 | Ilse Chaparro |
 | 976 | 88 | Jai |
 | 977 | 88 | Lorie Richardson |
 | 978 | 88 | Sliph007 |
