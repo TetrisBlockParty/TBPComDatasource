@@ -48,8 +48,8 @@
 | 40 | 141 | Edward White |
 | 41 | 140 | Carter Jones |
 | 42 | 140 | Shannon Ferrari |
-| 43 | 133 | Robin Watters |
-| 44 | 133 | Jessica Bohlken |
+| 43 | 133 | Jessica Bohlken |
+| 44 | 133 | Robin Watters |
 | 45 | 130 | Casey Jeffcoat |
 | 46 | 129 | Samantha Peterson |
 | 47 | 128 | Denise Carlson |

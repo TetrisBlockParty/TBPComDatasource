@@ -86,8 +86,8 @@
 | 78 | 159 | Morgan Martinez |
 | 79 | 154 | Shannon Matthew Byers |
 | 80 | 154 | Angela M. Fletcher |
-| 81 | 152 | rosy |
-| 82 | 152 | Shiny Zonebuilder |
+| 81 | 152 | Shiny Zonebuilder |
+| 82 | 152 | rosy |
 | 83 | 149 | Trisha Balmer |
 | 84 | 146 | Denita Mungro |
 | 85 | 145 | Nicha Hooker |
@@ -240,7 +240,7 @@
 | 232 | 57 | Mana |
 | 233 | 57 | Carrie Huskey |
 | 234 | 57 | Rachel |
-| 235 | 57 | Tammy Wooton-Taylor |
+| 235 | 57 | Richard Rowell |
 | 236 | 57 | DoomBlock |
 | 237 | 56 | Ernest Holloway |
 | 238 | 56 | Bastian Campbell |

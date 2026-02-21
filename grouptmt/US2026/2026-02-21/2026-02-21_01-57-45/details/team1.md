@@ -96,8 +96,8 @@
 | 88 | 91 | Spunky Piecebuilder |
 | 89 | 91 | Melissa Lemmon |
 | 90 | 90 | Madison Wicks |
-| 91 | 87 | TSwag |
-| 92 | 87 | Jessi Sauer |
+| 91 | 87 | Jessi Sauer |
+| 92 | 87 | TSwag |
 | 93 | 85 | Steve Schneider |
 | 94 | 84 | Charla Pross-Fugleberg |
 | 95 | 83 | Timothy Dew |

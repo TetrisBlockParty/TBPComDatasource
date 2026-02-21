@@ -127,8 +127,8 @@
 | 119 | 351 | Giggy Blocker |
 | 120 | 350 | Chris Harr |
 | 121 | 345 | Brenda Messer |
-| 122 | 345 | Alyssaaelena |
-| 123 | 345 | Rhianna DiLorenzo |
+| 122 | 345 | Rhianna DiLorenzo |
+| 123 | 345 | Alyssaaelena |
 | 124 | 344 | Christina Lewis-Vickers |
 | 125 | 343 | Cherica Taylor |
 | 126 | 342 | Tracy Wise |
