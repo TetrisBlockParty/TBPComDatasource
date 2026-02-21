@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Stephanie Whitefield |
-| 148 | 153 | Beth Ingham |
+| 147 | 153 | Beth Ingham |
+| 148 | 153 | Stephanie Whitefield |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -213,8 +213,8 @@
 | 205 | 109 | Diana Ibarra |
 | 206 | 109 | Brave Brickster |
 | 207 | 109 | Fredd Thomas |
-| 208 | 108 | LaTanya GeminiondaRise Johnson |
-| 209 | 108 | Rachel Napper |
+| 208 | 108 | Rachel Napper |
+| 209 | 108 | LaTanya GeminiondaRise Johnson |
 | 210 | 107 | Sherry Ogden |
 | 211 | 106 | Desiree Gold |
 | 212 | 106 | Eon Harris |

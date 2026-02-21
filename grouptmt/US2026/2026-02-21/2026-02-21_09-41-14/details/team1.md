@@ -166,8 +166,8 @@
 | 158 | 93 | Cody Gates |
 | 159 | 92 | Timothy Dew |
 | 160 | 90 | Dizzy Party |
-| 161 | 90 | TSwag |
-| 162 | 90 | Madison Wicks |
+| 161 | 90 | Madison Wicks |
+| 162 | 90 | TSwag |
 | 163 | 89 | Mara Hilker |
 | 164 | 88 | Larry Tilton |
 | 165 | 87 | Jenny Gingrich Fuentes |

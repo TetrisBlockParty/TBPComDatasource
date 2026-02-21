@@ -22,8 +22,8 @@
 | 14 | 608 | Denny Shives |
 | 15 | 606 | Rachel Anne |
 | 16 | 594 | Lucille Truesdale |
-| 17 | 590 | Dee Kay |
-| 18 | 590 | Valerie Roberts |
+| 17 | 590 | Valerie Roberts |
+| 18 | 590 | Dee Kay |
 | 19 | 589 | Chilly Line |
 | 20 | 587 | Koshin Abdirahman |
 | 21 | 578 | Leah Gorsuch |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Degenerate |
-| 95 | 132 | Jessica Cagle |
-| 96 | 132 | Melissa Priest Sellers |
+| 94 | 132 | Melissa Priest Sellers |
+| 95 | 132 | Degenerate |
+| 96 | 132 | Jessica Cagle |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
 | 99 | 131 | Zany Twisterfit |
@@ -728,7 +728,7 @@
 | 720 | 15 | Silly SeaWeed |
 | 721 | 15 | Tina Martinez |
 | 722 | 15 | Ellen Durfee |
-| 723 | 14 | ChasingZen |
+| 723 | 14 | Hasty Balancer |
 | 724 | 14 | Mike Burlingame |
 | 725 | 14 | ChasingZen |
 | 726 | 14 | David V. Bowers |

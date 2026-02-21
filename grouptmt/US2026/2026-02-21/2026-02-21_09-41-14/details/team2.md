@@ -10,8 +10,8 @@
 | 2 | 4805 | Twlight Welch |
 | 3 | 4359 | Sean Dugar |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Taylana Mincy |
-| 6 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Taylana Mincy |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -41,8 +41,8 @@
 | 33 | 1257 | Crystalin Heath Lewis |
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
-| 36 | 1173 | Devin Lee |
-| 37 | 1173 | Katrina Williams Balmir |
+| 36 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Devin Lee |
 | 38 | 1157 | Priscilla Noel |
 | 39 | 1150 | Izabel Herrera |
 | 40 | 1143 | Lucky Ladybug |
@@ -110,8 +110,8 @@
 | 102 | 658 | Vistabrat |
 | 103 | 658 | Pacynthia Williams |
 | 104 | 653 | Becky Weeks-Garry |
-| 105 | 649 | Stephanie Chapman |
-| 106 | 649 | Anna Edwards |
+| 105 | 649 | Anna Edwards |
+| 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
 | 109 | 631 | Loopy Clusterbuilder |
@@ -199,8 +199,8 @@
 | 191 | 385 | Sam |
 | 192 | 385 | Arwa Fatimah |
 | 193 | 381 | Amanda Ferrell |
-| 194 | 380 | Calandra Shaya Robinson |
-| 195 | 380 | Joshua Mandel |
+| 194 | 380 | Joshua Mandel |
+| 195 | 380 | Calandra Shaya Robinson |
 | 196 | 378 | Cody Nishimura |
 | 197 | 377 | Liberty |
 | 198 | 377 | Roy Salyer |
@@ -247,8 +247,8 @@
 | 239 | 312 | Michelle Pike |
 | 240 | 311 | Véronique Lévesque Sabourin |
 | 241 | 311 | Dar |
-| 242 | 309 | Oscar Bernie |
-| 243 | 309 | Ginger |
+| 242 | 309 | Ginger |
+| 243 | 309 | Oscar Bernie |
 | 244 | 309 | James Zaragoza |
 | 245 | 306 | Kristopher Miller |
 | 246 | 305 | Libby Hicks |
@@ -259,8 +259,8 @@
 | 251 | 299 | Christy Krissie |
 | 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
-| 254 | 296 | Jennifer Casey-Kay |
-| 255 | 296 | Amber Gray |
+| 254 | 296 | Amber Gray |
+| 255 | 296 | Jennifer Casey-Kay |
 | 256 | 296 | Jennifer Darby |
 | 257 | 295 | Zany Clusterbuilder |
 | 258 | 295 | Angela Bonquiqui Dinish |
@@ -443,8 +443,8 @@
 | 435 | 183 | Lynzekwi |
 | 436 | 182 | Donna M Carter |
 | 437 | 182 | Tamara Bailey |
-| 438 | 181 | Julay |
-| 439 | 181 | Wacky Cascade |
+| 438 | 181 | Wacky Cascade |
+| 439 | 181 | Julay |
 | 440 | 180 | Jackie Lucas |
 | 441 | 180 | Peter Palestino |
 | 442 | 179 | Desiree Harris Rosch |
@@ -462,8 +462,8 @@
 | 454 | 175 | Snippy Rumbler |
 | 455 | 175 | Jaybee Nguyen |
 | 456 | 175 | Lucero Ramirez |
-| 457 | 175 | Tina Blessed Cage |
-| 458 | 175 | Shandrica Lowe |
+| 457 | 175 | Shandrica Lowe |
+| 458 | 175 | Tina Blessed Cage |
 | 459 | 174 | Jason Garnatz |
 | 460 | 173 | Ocean-Brianna McGregor |
 | 461 | 173 | kippykay |
@@ -489,8 +489,8 @@
 | 481 | 163 | Danielle Ayoub |
 | 482 | 163 | Lakeela Wise |
 | 483 | 163 | Albert McKnight |
-| 484 | 162 | Michael Artis |
-| 485 | 162 | LC Hamilton |
+| 484 | 162 | LC Hamilton |
+| 485 | 162 | Michael Artis |
 | 486 | 162 | Andrea Maher |
 | 487 | 160 | Marcie McLain Dodd |
 | 488 | 160 | Lazy Riseclear |
@@ -512,8 +512,8 @@
 | 504 | 158 | Jas |
 | 505 | 157 | Andrew Bratton-Tomes |
 | 506 | 157 | Klee |
-| 507 | 157 | Ty Quarles |
-| 508 | 157 | Nicol Craven |
+| 507 | 157 | Nicol Craven |
+| 508 | 157 | Ty Quarles |
 | 509 | 157 | Twisty Tetriblast |
 | 510 | 156 | RetroLemur |
 | 511 | 156 | Nuggets |
@@ -721,9 +721,9 @@
 | 713 | 116 | Jennifer Monroe Kelly |
 | 714 | 116 | SpaceCase085 |
 | 715 | 116 | BeenRich Theceo |
-| 716 | 116 | Moua Ying |
-| 717 | 116 | Meganator42 |
-| 718 | 116 | Slimkaite |
+| 716 | 116 | Slimkaite |
+| 717 | 116 | Moua Ying |
+| 718 | 116 | Meganator42 |
 | 719 | 115 | Melissa Schwager |
 | 720 | 115 | Heather Schelkopf |
 | 721 | 115 | Byung Bae Park |
@@ -732,10 +732,10 @@
 | 724 | 115 | Fae-Bulous |
 | 725 | 115 | AsnPryBoy83 |
 | 726 | 114 | Melissa Maples |
-| 727 | 114 | James Louie |
-| 728 | 114 | Biggest thing |
-| 729 | 114 | Brenda |
-| 730 | 114 | Juan Castillo |
+| 727 | 114 | Juan Castillo |
+| 728 | 114 | Brenda |
+| 729 | 114 | James Louie |
+| 730 | 114 | Biggest thing |
 | 731 | 114 | Kimberly Mcmullen |
 | 732 | 113 | Hillary Franklin |
 | 733 | 113 | Della Hole |
