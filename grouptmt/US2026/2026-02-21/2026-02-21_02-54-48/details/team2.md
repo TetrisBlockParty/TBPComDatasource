@@ -131,8 +131,8 @@
 | 123 | 384 | Lina Sanders |
 | 124 | 380 | Joshua Mandel |
 | 125 | 377 | Liberty |
-| 126 | 374 | Calandra Shaya Robinson |
-| 127 | 374 | Sommer Shope |
+| 126 | 374 | Sommer Shope |
+| 127 | 374 | Calandra Shaya Robinson |
 | 128 | 369 | Osun Anuket Esu |
 | 129 | 365 | April Dawn Gussler |
 | 130 | 364 | Shinette Dobson |
@@ -143,8 +143,8 @@
 | 135 | 350 | Kimberly Randesi |
 | 136 | 348 | Cherica Taylor |
 | 137 | 345 | Brenda Messer |
-| 138 | 345 | Rhianna DiLorenzo |
-| 139 | 345 | Alyssaaelena |
+| 138 | 345 | Alyssaaelena |
+| 139 | 345 | Rhianna DiLorenzo |
 | 140 | 344 | Christina Lewis-Vickers |
 | 141 | 344 | Tammy Allen |
 | 142 | 342 | Tracy Wise |
@@ -369,8 +369,8 @@
 | 361 | 141 | Erika Meaux |
 | 362 | 141 | Markisha Poyndexter |
 | 363 | 140 | Amber Gray |
-| 364 | 139 | RavensBeard |
-| 365 | 139 | Jackson Smith |
+| 364 | 139 | Jackson Smith |
+| 365 | 139 | RavensBeard |
 | 366 | 139 | Octavio Garza |
 | 367 | 138 | King Shamell Young |
 | 368 | 138 | Gursharan Sandhu |

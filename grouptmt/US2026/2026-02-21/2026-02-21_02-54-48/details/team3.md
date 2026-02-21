@@ -159,8 +159,8 @@
 | 151 | 95 | Katie Knaus |
 | 152 | 95 | Demetrious Shaw Sr. |
 | 153 | 93 | Tiffany Ford |
-| 154 | 92 | Jennifer Caputo |
-| 155 | 92 | Tasha Wesson-Torrence |
+| 154 | 92 | Tasha Wesson-Torrence |
+| 155 | 92 | Jennifer Caputo |
 | 156 | 91 | Sarajane Lokan |
 | 157 | 90 | LaTanya GeminiondaRise Johnson |
 | 158 | 90 | Joey Banks |
