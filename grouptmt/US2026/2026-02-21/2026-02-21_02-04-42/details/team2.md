@@ -232,8 +232,8 @@
 | 224 | 203 | Gary Stash |
 | 225 | 202 | Christina Ashley |
 | 226 | 201 | Em Chen |
-| 227 | 200 | Sarah Ridenour |
-| 228 | 200 | Howard Forest |
+| 227 | 200 | Howard Forest |
+| 228 | 200 | Sarah Ridenour |
 | 229 | 200 | Cheeky Brickmatch |
 | 230 | 198 | Julio A Laracuente |
 | 231 | 198 | Andea Beck |

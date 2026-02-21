@@ -61,8 +61,8 @@
 | 53 | 123 | Nugget |
 | 54 | 122 | Shelly Chandler |
 | 55 | 121 | Smiley Tiltbuilder |
-| 56 | 116 | Serena Goodridge |
-| 57 | 116 | Sherri |
+| 56 | 116 | Sherri |
+| 57 | 116 | Serena Goodridge |
 | 58 | 114 | Jessica Cagle |
 | 59 | 113 | Degenerate |
 | 60 | 112 | Mr. Party |

@@ -97,14 +97,14 @@
 | 89 | 135 | Nicole Flippo |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
-| 92 | 129 | Ashley Tookes |
-| 93 | 129 | Giddy Twistbuilder |
+| 92 | 129 | Giddy Twistbuilder |
+| 93 | 129 | Ashley Tookes |
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
 | 97 | 125 | BŘŰŤİÇŨŚ |
-| 98 | 125 | Stephanie Simpson |
-| 99 | 125 | Felicia Doxey |
+| 98 | 125 | Felicia Doxey |
+| 99 | 125 | Stephanie Simpson |
 | 100 | 124 | Marquita Sheard |
 | 101 | 122 | Aerian Preston |
 | 102 | 122 | Shimika Enay Wallace |
@@ -130,7 +130,7 @@
 | 122 | 102 | Jenny Hrndz |
 | 123 | 102 | mommablock |
 | 124 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 125 | 100 | Elizabeth Renee |
+| 125 | 100 | Fredd Thomas |
 | 126 | 100 | Donna |
 | 127 | 100 | Boldy Corner |
 | 128 | 100 | Elizabeth Renee |
