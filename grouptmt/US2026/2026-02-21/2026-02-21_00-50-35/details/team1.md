@@ -36,8 +36,8 @@
 | 28 | 190 | Sweetts |
 | 29 | 187 | Dee Perry |
 | 30 | 185 | Karin Gillen |
-| 31 | 176 | Jazzy Framezone |
-| 32 | 176 | Mandyy Rae |
+| 31 | 176 | Mandyy Rae |
+| 32 | 176 | Jazzy Framezone |
 | 33 | 173 | Frothy Pattern |
 | 34 | 170 | Jennifer Cates |
 | 35 | 169 | Erez Yosef |
@@ -55,8 +55,8 @@
 | 47 | 143 | Veronica Eve |
 | 48 | 133 | Brandi Huntington |
 | 49 | 127 | Happy Basegrid |
-| 50 | 126 | Marianne Louise West |
-| 51 | 126 | Cece Ibarra |
+| 50 | 126 | Cece Ibarra |
+| 51 | 126 | Marianne Louise West |
 | 52 | 123 | Rico Rico |
 | 53 | 120 | Giggly Builderline |
 | 54 | 119 | Irual Hctrab |

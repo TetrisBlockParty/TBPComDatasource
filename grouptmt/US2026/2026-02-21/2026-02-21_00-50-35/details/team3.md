@@ -148,7 +148,7 @@
 | 140 | 81 | Danielle Becker |
 | 141 | 80 | Chris Bell |
 | 142 | 80 | Vixen Queen |
-| 143 | 78 | Clever Patterner |
+| 143 | 78 | Karon Griffin |
 | 144 | 78 | Angie Harper |
 | 145 | 78 | Clever Patterner |
 | 146 | 76 | Chad Wilson |

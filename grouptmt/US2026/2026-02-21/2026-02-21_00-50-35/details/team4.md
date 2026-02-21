@@ -86,8 +86,8 @@
 | 78 | 79 | Avy Absol |
 | 79 | 77 | Jessica Bohlken |
 | 80 | 77 | Kim Hunt |
-| 81 | 75 | Chair |
-| 82 | 75 | 🥔🥔 Spudz |
+| 81 | 75 | 🥔🥔 Spudz |
+| 82 | 75 | Chair |
 | 83 | 75 | Rosemary Foster |
 | 84 | 73 | Lauren Lamb |
 | 85 | 73 | Jeff Brian Gates |
@@ -113,12 +113,12 @@
 | 105 | 61 | Richard-April Kice |
 | 106 | 61 | Jackson Karen |
 | 107 | 61 | Alee Marie |
-| 108 | 60 | Dustee Craddock-Harrison |
+| 108 | 60 | Ahleek Mitchell |
 | 109 | 60 | Carol Ricks Raymond |
-| 110 | 60 | Ahleek Mitchell |
+| 110 | 60 | Dustee Craddock-Harrison |
 | 111 | 59 | Chaz Duncan |
-| 112 | 57 | Justin Hannigan |
-| 113 | 57 | Stephanie Jones |
+| 112 | 57 | Stephanie Jones |
+| 113 | 57 | Justin Hannigan |
 | 114 | 57 | Carlos G Reyes |
 | 115 | 56 | Chastity Mitchell |
 | 116 | 56 | Maureen Flanigan |
