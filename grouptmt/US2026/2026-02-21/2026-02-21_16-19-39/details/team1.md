@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Jennifer ManWarren |
-| 119 | 149 | Arianna O'Brien |
+| 118 | 149 | Arianna O'Brien |
+| 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
 | 122 | 146 | Dandy Basegrid |

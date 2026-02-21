@@ -122,9 +122,9 @@
 | 114 | 151 | Bethany Ison |
 | 115 | 151 | Dana Scott |
 | 116 | 148 | Brittany Marsh |
-| 117 | 147 | 030Synner |
-| 118 | 147 | Chair |
-| 119 | 147 | Jay28 |
+| 117 | 147 | Chair |
+| 118 | 147 | Jay28 |
+| 119 | 147 | 030Synner |
 | 120 | 146 | Peachy Fall |
 | 121 | 146 | Klo |
 | 122 | 144 | Mr. Party |
@@ -148,8 +148,8 @@
 | 140 | 128 | Stephme310 |
 | 141 | 128 | Rio Rocha |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | TinyLegoRose |
-| 144 | 126 | Dihcheese444 |
+| 143 | 126 | Dihcheese444 |
+| 144 | 126 | TinyLegoRose |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Angela Geist Jusinski |
@@ -235,8 +235,8 @@
 | 227 | 85 | Joseph Gray |
 | 228 | 85 | Shukee Lo |
 | 229 | 85 | Tim Knight-ten |
-| 230 | 84 | Perky Piecegrid |
-| 231 | 84 | Ruben Wheeler |
+| 230 | 84 | Ruben Wheeler |
+| 231 | 84 | Perky Piecegrid |
 | 232 | 84 | Chris Alexinas |
 | 233 | 83 | Abigail Murphy |
 | 234 | 83 | Marcela Johnson |

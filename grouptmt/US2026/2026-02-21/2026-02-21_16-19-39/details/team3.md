@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -188,8 +188,8 @@
 | 180 | 163 | Stephanie Hill |
 | 181 | 163 | Sashay Tapae Simpson |
 | 182 | 162 | Stephanie Whitefield |
-| 183 | 161 | BŘŰŤİÇŨŚ |
-| 184 | 161 | Nikki Pags |
+| 183 | 161 | Nikki Pags |
+| 184 | 161 | BŘŰŤİÇŨŚ |
 | 185 | 160 | Tiffany Davie |
 | 186 | 159 | Jone |
 | 187 | 158 | Grams |
@@ -374,8 +374,8 @@
 | 366 | 80 | Me,Him,Yu |
 | 367 | 80 | Vixen Queen |
 | 368 | 79 | Bleu Sun Beams |
-| 369 | 79 | Jessie Chung |
-| 370 | 79 | Brittany K Ward |
+| 369 | 79 | Brittany K Ward |
+| 370 | 79 | Jessie Chung |
 | 371 | 78 | Nena Somerville Kelly |
 | 372 | 78 | Clever Patterner |
 | 373 | 78 | Myriam Lapierre |

@@ -169,8 +169,8 @@
 | 161 | 580 | Steve Grotto |
 | 162 | 576 | Shannon Joslin |
 | 163 | 571 | Thomas Hedrick |
-| 164 | 569 | Gary Stash |
-| 165 | 569 | Vaniel Glover |
+| 164 | 569 | Vaniel Glover |
+| 165 | 569 | Gary Stash |
 | 166 | 563 | goofinoff |
 | 167 | 561 | Maria Escobar |
 | 168 | 550 | Jumpy Gridpiece |
@@ -178,9 +178,9 @@
 | 170 | 546 | Charvi' Carter |
 | 171 | 543 | Diana Fitzwater |
 | 172 | 541 | SaraMarie Eveland |
-| 173 | 534 | Poppy Snapper |
-| 174 | 534 | Stephen Stephen |
-| 175 | 534 | Teresa Gillmore |
+| 173 | 534 | Stephen Stephen |
+| 174 | 534 | Teresa Gillmore |
+| 175 | 534 | Poppy Snapper |
 | 176 | 531 | Chris Wanner |
 | 177 | 527 | Stacy Stickle |
 | 178 | 527 | Adira Brown |
@@ -291,8 +291,8 @@
 | 283 | 357 | Julie Kresal |
 | 284 | 355 | Shandrica Lowe |
 | 285 | 355 | Kristen O'Neal |
-| 286 | 354 | Tracy Wise |
-| 287 | 354 | Brave Dropmatch |
+| 286 | 354 | Brave Dropmatch |
+| 287 | 354 | Tracy Wise |
 | 288 | 353 | Cheery Matchzone |
 | 289 | 352 | Juanita Lyons |
 | 290 | 352 | ruth |
@@ -335,15 +335,15 @@
 | 327 | 318 | Alexandra Weir |
 | 328 | 317 | Ebony Deloach Bryant |
 | 329 | 317 | Heather Westrum |
-| 330 | 317 | Zombi3 |
-| 331 | 317 | Bussyiano Page |
-| 332 | 317 | bru |
+| 330 | 317 | Bussyiano Page |
+| 331 | 317 | bru |
+| 332 | 317 | Zombi3 |
 | 333 | 316 | Oscar Bernie |
 | 334 | 315 | Alisa Lamb |
 | 335 | 314 | Amanda West |
 | 336 | 314 | NanDa Cruzan VI |
-| 337 | 312 | Michelle Pike |
-| 338 | 312 | Andrea Maher |
+| 337 | 312 | Andrea Maher |
+| 338 | 312 | Michelle Pike |
 | 339 | 309 | Ginger |
 | 340 | 309 | James Zaragoza |
 | 341 | 307 | Catina Hutchison |
@@ -360,8 +360,8 @@
 | 352 | 297 | Peachy Blockbuilder |
 | 353 | 297 | Cheeky Brickmatch |
 | 354 | 296 | Jennifer Casey-Kay |
-| 355 | 296 | Heather Schelkopf |
-| 356 | 296 | Amber Gray |
+| 355 | 296 | Amber Gray |
+| 356 | 296 | Heather Schelkopf |
 | 357 | 296 | AISlop |
 | 358 | 296 | Jennifer Darby |
 | 359 | 295 | Melissa Kay Gibson |
@@ -410,8 +410,8 @@
 | 402 | 269 | Reece Smith |
 | 403 | 267 | Britt Stunkel |
 | 404 | 266 | Mike Aprilliano |
-| 405 | 265 | Sassy Linkbuilder |
-| 406 | 265 | Matt Johnson |
+| 405 | 265 | Matt Johnson |
+| 406 | 265 | Sassy Linkbuilder |
 | 407 | 264 | Dapper Dasher |
 | 408 | 262 | Min |
 | 409 | 262 | Taren Cowan |
@@ -471,15 +471,15 @@
 | 463 | 233 | Daring Matchfit |
 | 464 | 232 | Amber Brion |
 | 465 | 231 | Hong Tang |
-| 466 | 231 | Brave Gridpiece |
-| 467 | 231 | Dylan Thomason |
+| 466 | 231 | Dylan Thomason |
+| 467 | 231 | Brave Gridpiece |
 | 468 | 230 | Leslie Johnson Guinto |
 | 469 | 229 | Tonya Lee |
 | 470 | 228 | Michelle Sager |
 | 471 | 227 | Myleaha Holley |
-| 472 | 226 | Morgan Easter |
-| 473 | 226 | Christina Wsn |
-| 474 | 226 | Juliana Marques Do Nascimento Gordy |
+| 472 | 226 | Christina Wsn |
+| 473 | 226 | Juliana Marques Do Nascimento Gordy |
+| 474 | 226 | Morgan Easter |
 | 475 | 226 | Jodi Mitnick |
 | 476 | 225 | Lewis Sturgeon |
 | 477 | 225 | Breezy Tilt |
@@ -524,8 +524,8 @@
 | 516 | 204 | Ali Gralski |
 | 517 | 204 | Lauren Fitzgerald Thomas |
 | 518 | 204 | Ryan Lauer |
-| 519 | 204 | Kimberly Ann |
-| 520 | 204 | Brenna Ann |
+| 519 | 204 | Brenna Ann |
+| 520 | 204 | Kimberly Ann |
 | 521 | 204 | Nicolle Danielle |
 | 522 | 202 | Jackie Lucas |
 | 523 | 202 | Wacky Cascade |
