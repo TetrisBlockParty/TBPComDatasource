@@ -407,13 +407,13 @@
 | 399 | 347 | Cheyenne Donovan |
 | 400 | 345 | Angie Bolton Workman |
 | 401 | 345 | Rhianna DiLorenzo |
-| 402 | 344 | Glenn Cobbins |
-| 403 | 344 | Ginger |
-| 404 | 344 | Felicia Lynn |
+| 402 | 344 | Ginger |
+| 403 | 344 | Felicia Lynn |
+| 404 | 344 | Glenn Cobbins |
 | 405 | 342 | Ebony Deloach Bryant |
 | 406 | 342 | Sydney Busse |
-| 407 | 342 | Amber Brion |
-| 408 | 342 | Angi Harrison |
+| 407 | 342 | Angi Harrison |
+| 408 | 342 | Amber Brion |
 | 409 | 340 | Rose Fx |
 | 410 | 339 | Cool Rollpiece |
 | 411 | 338 | Shorty |
@@ -638,8 +638,8 @@
 | 630 | 223 | BK Queen |
 | 631 | 222 | Lazy Riseclear |
 | 632 | 221 | Michelle Lee |
-| 633 | 220 | Katrina Weston |
-| 634 | 220 | Jennifer Coe |
+| 633 | 220 | Jennifer Coe |
+| 634 | 220 | Katrina Weston |
 | 635 | 220 | Brenna Ann |
 | 636 | 219 | Cathy Bitters |
 | 637 | 219 | Trista Carter |
@@ -671,12 +671,12 @@
 | 663 | 209 | Jannan Haimour |
 | 664 | 209 | MamaBear11 |
 | 665 | 209 | Samantha Morgan |
-| 666 | 209 | John Quiring |
-| 667 | 209 | Stacy Harper |
-| 668 | 209 | Chummy Breaker |
-| 669 | 209 | Ocean-Brianna McGregor |
-| 670 | 208 | Jessica Sutter |
-| 671 | 208 | Lauren Fitzgerald Thomas |
+| 666 | 209 | Stacy Harper |
+| 667 | 209 | John Quiring |
+| 668 | 209 | Ocean-Brianna McGregor |
+| 669 | 209 | Chummy Breaker |
+| 670 | 208 | Lauren Fitzgerald Thomas |
+| 671 | 208 | Jessica Sutter |
 | 672 | 208 | Ashley MoBetta Humes |
 | 673 | 208 | Alyssa Dean |
 | 674 | 207 | Nicolle Danielle |

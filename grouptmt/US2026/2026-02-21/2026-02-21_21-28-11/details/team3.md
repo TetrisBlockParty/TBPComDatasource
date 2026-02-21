@@ -70,8 +70,8 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 536 | Giddy Drop |
@@ -103,8 +103,8 @@
 | 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Hasty Cascadefit |
-| 99 | 390 | Annie Déè |
+| 98 | 390 | Annie Déè |
+| 99 | 390 | Hasty Cascadefit |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -178,10 +178,10 @@
 | 170 | 214 | Jenny Hrndz |
 | 171 | 214 | Amy Fuller Heaton |
 | 172 | 212 | Krystal Gerstberger |
-| 173 | 211 | Katrina Turner |
-| 174 | 211 | Khaleada McGill Banks |
-| 175 | 207 | Jessica |
-| 176 | 207 | rnr junky |
+| 173 | 211 | Khaleada McGill Banks |
+| 174 | 211 | Katrina Turner |
+| 175 | 207 | rnr junky |
+| 176 | 207 | Jessica |
 | 177 | 207 | Chris Bell |
 | 178 | 205 | Sarah Moyer |
 | 179 | 204 | Danielle Allison |

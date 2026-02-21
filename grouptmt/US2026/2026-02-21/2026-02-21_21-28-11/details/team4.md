@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | Marie-Pier Desjardins |
-| 64 | 376 | quicksand420 |
+| 63 | 376 | quicksand420 |
+| 64 | 376 | Marie-Pier Desjardins |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -95,8 +95,8 @@
 | 87 | 237 | Lori Walker |
 | 88 | 236 | Shane Kalamata Platoon |
 | 89 | 232 | Epic Curvetile |
-| 90 | 230 | Autum Leigh |
-| 91 | 230 | Lucas J Sutton |
+| 90 | 230 | Lucas J Sutton |
+| 91 | 230 | Autum Leigh |
 | 92 | 228 | Brittney Orengo |
 | 93 | 224 | H.R. Block |
 | 94 | 222 | Joeliecea Cobb |
@@ -136,8 +136,8 @@
 | 128 | 176 | Stacey Stano |
 | 129 | 176 | Klo |
 | 130 | 174 | shark tato |
-| 131 | 174 | Zethra Prenisha Rahming |
-| 132 | 174 | Dihcheese444 |
+| 131 | 174 | Dihcheese444 |
+| 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
 | 134 | 173 | Ren Mc |
 | 135 | 173 | blockstar |
@@ -164,19 +164,19 @@
 | 156 | 141 | Marcus Todd |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | John Brunetti |
-| 160 | 140 | Shannon Ferrari |
+| 159 | 140 | Shannon Ferrari |
+| 160 | 140 | John Brunetti |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Serena Goodridge |
 | 163 | 136 | Tanner Lund |
 | 164 | 136 | Sarah Brown |
 | 165 | 135 | Victoria Faniel |
 | 166 | 135 | Stephme310 |
-| 167 | 134 | Kim Klutz Olson |
-| 168 | 134 | Chirpy Basepiece |
+| 167 | 134 | Chirpy Basepiece |
+| 168 | 134 | Kim Klutz Olson |
 | 169 | 134 | Zany Shatterer |
 | 170 | 133 | Angela Geist Jusinski |
-| 171 | 132 | Jessica Cagle |
+| 171 | 132 | Melissa Priest Sellers |
 | 172 | 132 | Degenerate |
 | 173 | 132 | Jessica Cagle |
 | 174 | 131 | TinyLegoRose |
@@ -484,8 +484,8 @@
 | 476 | 53 | Poppy Brickmatch |
 | 477 | 53 | Speedy Cascadeclear |
 | 478 | 53 | Heather Layne Smith |
-| 479 | 52 | DaRuler |
-| 480 | 52 | Csquared812 |
+| 479 | 52 | Csquared812 |
+| 480 | 52 | DaRuler |
 | 481 | 52 | Earnest Thompson |
 | 482 | 52 | Melissa VanBourgondien |
 | 483 | 52 | Petty |
