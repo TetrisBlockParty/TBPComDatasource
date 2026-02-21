@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Peggi Charon |
 | 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -153,8 +153,8 @@
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Beth Ingham |
-| 149 | 153 | Stephanie Whitefield |
+| 148 | 153 | Stephanie Whitefield |
+| 149 | 153 | Beth Ingham |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | Nicole Flippo |
 | 152 | 151 | MsBee |
@@ -170,10 +170,10 @@
 | 162 | 140 | Jay Horn |
 | 163 | 140 | Gumbo |
 | 164 | 135 | Cheryl Hinch Tenbrook |
-| 165 | 134 | DanceLuvLaugh |
-| 166 | 134 | Emma |
+| 165 | 134 | Emma |
+| 166 | 134 | DanceLuvLaugh |
 | 167 | 131 | Jl |
-| 168 | 129 | Stephanie Burtin |
+| 168 | 129 | Lesley Perez |
 | 169 | 129 | Logan Naccarato |
 | 170 | 129 | Stephanie Burtin |
 | 171 | 127 | Marquita Sheard |
@@ -181,8 +181,8 @@
 | 173 | 127 | Aerian Preston |
 | 174 | 127 | Joy Petroski |
 | 175 | 126 | Brandon Givens |
-| 176 | 125 | Shimika Enay Wallace |
-| 177 | 125 | Felicia Doxey |
+| 176 | 125 | Felicia Doxey |
+| 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
 | 179 | 123 | Terry Jo Jones |
 | 180 | 123 | Kristie McFarland |
@@ -259,9 +259,9 @@
 | 251 | 95 | MizzMonick Smith |
 | 252 | 94 | Angie Harper |
 | 253 | 93 | Tiffany Ford |
-| 254 | 92 | Jennifer Caputo |
+| 254 | 92 | Ava Petito |
 | 255 | 92 | Trice Thomas |
-| 256 | 92 | Ava Petito |
+| 256 | 92 | Jennifer Caputo |
 | 257 | 91 | Martin Bernier |
 | 258 | 91 | Noettín Kan Zasnemoore |
 | 259 | 90 | Alexis Ford |

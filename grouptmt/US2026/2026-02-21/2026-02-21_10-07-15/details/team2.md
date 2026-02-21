@@ -146,8 +146,8 @@
 | 138 | 520 | Kimberly Schall |
 | 139 | 519 | Maria Escobar |
 | 140 | 517 | Debra Williams |
-| 141 | 515 | Kaylee McCafferty |
-| 142 | 515 | Real Ri |
+| 141 | 515 | Real Ri |
+| 142 | 515 | Kaylee McCafferty |
 | 143 | 513 | Butta |
 | 144 | 511 | Dizzy Zone |
 | 145 | 510 | Ashley House |
@@ -265,8 +265,8 @@
 | 257 | 296 | Amber Gray |
 | 258 | 296 | Jennifer Darby |
 | 259 | 295 | Zany Clusterbuilder |
-| 260 | 295 | Diallo Sparkman |
-| 261 | 295 | Angela Bonquiqui Dinish |
+| 260 | 295 | Angela Bonquiqui Dinish |
+| 261 | 295 | Diallo Sparkman |
 | 262 | 293 | Scott Treadway |
 | 263 | 293 | David Holliday |
 | 264 | 292 | Cheech Dta |
@@ -304,16 +304,16 @@
 | 296 | 270 | Angela Lynn |
 | 297 | 270 | Alexandra Weir |
 | 298 | 269 | Reece Smith |
-| 299 | 268 | Tanya Parsons |
-| 300 | 268 | Chummy Blockbuilder |
+| 299 | 268 | Chummy Blockbuilder |
+| 300 | 268 | Tanya Parsons |
 | 301 | 266 | Mighty Shatterfit |
 | 302 | 264 | Dapper Dasher |
 | 303 | 263 | Taylor Flowers |
 | 304 | 262 | Taren Cowan |
 | 305 | 261 | Leah |
 | 306 | 261 | MrsClaudette Will'sIam Matthews |
-| 307 | 260 | Denise Rickman |
-| 308 | 260 | Ebony Deloach Bryant |
+| 307 | 260 | Ebony Deloach Bryant |
+| 308 | 260 | Denise Rickman |
 | 309 | 257 | Shameika Trail |
 | 310 | 257 | Lyndi Robinson Wakefield |
 | 311 | 256 | Giddy Gridclear |
@@ -349,8 +349,8 @@
 | 341 | 242 | Lawanda Forbes |
 | 342 | 242 | Hyper Cluster |
 | 343 | 241 | Sabrina Burton |
-| 344 | 240 | Angie Marie |
-| 345 | 240 | Adam Erikson |
+| 344 | 240 | Adam Erikson |
+| 345 | 240 | Angie Marie |
 | 346 | 239 | Roger Grabbit |
 | 347 | 238 | Cheery Matchzone |
 | 348 | 236 | snkylnk |
@@ -483,8 +483,8 @@
 | 475 | 169 | Lively Catcher |
 | 476 | 168 | Phil J. Grombliniak |
 | 477 | 168 | Kati Russeau |
-| 478 | 167 | Sabrena Yeisley |
-| 479 | 167 | mshir |
+| 478 | 167 | mshir |
+| 479 | 167 | Sabrena Yeisley |
 | 480 | 166 | suuny |
 | 481 | 165 | Tara Lynn Janes |
 | 482 | 165 | Cathy Bitters |
@@ -531,8 +531,8 @@
 | 523 | 155 | Monarca26 |
 | 524 | 154 | Bryan Werleman |
 | 525 | 154 | Tiffney Wroten |
-| 526 | 154 | Cini |
-| 527 | 154 | Lydia Greenman |
+| 526 | 154 | Lydia Greenman |
+| 527 | 154 | Cini |
 | 528 | 154 | Lori Maring |
 | 529 | 153 | Luna |
 | 530 | 153 | Poppy Gridder |

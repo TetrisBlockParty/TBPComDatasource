@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -109,8 +109,8 @@
 | 101 | 131 | Dana Scott |
 | 102 | 130 | Casey Jeffcoat |
 | 103 | 130 | Lucas J Sutton |
-| 104 | 129 | John Brunetti |
-| 105 | 129 | Landon Keith Graffeo |
+| 104 | 129 | Landon Keith Graffeo |
+| 105 | 129 | John Brunetti |
 | 106 | 126 | Dihcheese444 |
 | 107 | 125 | Lauren Scott |
 | 108 | 123 | Bubbly Puzzler |
