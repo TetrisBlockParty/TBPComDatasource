@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |

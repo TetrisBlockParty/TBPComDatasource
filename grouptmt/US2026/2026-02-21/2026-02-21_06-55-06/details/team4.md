@@ -26,8 +26,8 @@
 | 18 | 466 | Valerie Roberts |
 | 19 | 402 | Samantha Peterson |
 | 20 | 390 | Alicia Bass |
-| 21 | 383 | Johnathan Martinez |
-| 22 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Carmethia Clemons Haslerig |
+| 22 | 383 | Johnathan Martinez |
 | 23 | 377 | Edward White |
 | 24 | 373 | Rodney McMath Jr. |
 | 25 | 361 | LisaJo Picken Buchanan |
@@ -51,8 +51,8 @@
 | 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Jenna Ingersoll |
-| 47 | 231 | Michelle Marie |
+| 46 | 231 | Michelle Marie |
+| 47 | 231 | Jenna Ingersoll |
 | 48 | 226 | Breannah Grafe |
 | 49 | 207 | Alyssa Papen |
 | 50 | 205 | Sarah Neathery |
@@ -86,8 +86,8 @@
 | 78 | 141 | Malakai Darien Fox |
 | 79 | 140 | Shannon Ferrari |
 | 80 | 136 | Tanner Lund |
-| 81 | 134 | Chirpy Basepiece |
-| 82 | 134 | Jessica Bohlken |
+| 81 | 134 | Jessica Bohlken |
+| 82 | 134 | Chirpy Basepiece |
 | 83 | 133 | Robin Watters |
 | 84 | 132 | Jenna McGeorge |
 | 85 | 132 | Melissa Priest Sellers |
@@ -221,8 +221,8 @@
 | 213 | 65 | BlockBabe |
 | 214 | 65 | Angela Geist Jusinski |
 | 215 | 65 | Lee Silpe |
-| 216 | 64 | Damn Libra |
-| 217 | 64 | rebel4lyfe |
+| 216 | 64 | rebel4lyfe |
+| 217 | 64 | Damn Libra |
 | 218 | 64 | Joseph Edmonson |
 | 219 | 63 | Asher |
 | 220 | 63 | Cheery Risebuilder |
@@ -537,7 +537,7 @@
 | 529 | 23 | ChuckBuck Copeland |
 | 530 | 23 | Zer0h |
 | 531 | 23 | Poppy Twistslam |
-| 532 | 23 | Gregory Mock |
+| 532 | 23 | Hediyuda |
 | 533 | 23 | Monica Daley |
 | 534 | 23 | Gregory Mock |
 | 535 | 23 | Minot4444 |

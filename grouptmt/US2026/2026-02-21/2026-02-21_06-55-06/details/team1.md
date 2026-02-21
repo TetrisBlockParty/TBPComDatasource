@@ -33,8 +33,8 @@
 | 25 | 315 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Felicia Lewis |
-| 29 | 294 | Jacqueline Williams |
+| 28 | 294 | Jacqueline Williams |
+| 29 | 294 | Felicia Lewis |
 | 30 | 291 | Nancy Green |
 | 31 | 286 | Michelle Nicole |
 | 32 | 283 | Stephanie Zahn |
@@ -55,8 +55,8 @@
 | 47 | 205 | Trippy Redd |
 | 48 | 204 | Ly Phethmany |
 | 49 | 202 | Dee Perry |
-| 50 | 201 | Anaid Sanchez |
-| 51 | 201 | Ananda Mendez |
+| 50 | 201 | Ananda Mendez |
+| 51 | 201 | Anaid Sanchez |
 | 52 | 200 | Lexuriuos Lifestlye |
 | 53 | 198 | Billie Dawn Sparks |
 | 54 | 198 | Happy Snapbuild |
@@ -76,8 +76,8 @@
 | 68 | 166 | Rico Rico |
 | 69 | 165 | GATOR |
 | 70 | 163 | Chad Atchley |
-| 71 | 161 | Jennifer Olewnik Soborowski |
-| 72 | 161 | Abbey Crespo |
+| 71 | 161 | Abbey Crespo |
+| 72 | 161 | Jennifer Olewnik Soborowski |
 | 73 | 155 | Standia Civil |
 | 74 | 155 | David DeSantis |
 | 75 | 153 | Shiny Gridmatch |
@@ -88,8 +88,8 @@
 | 80 | 145 | BigWeenie69 |
 | 81 | 145 | Lachelle Dillon |
 | 82 | 144 | femmefatale |
-| 83 | 144 | Tanya Carpenter-Reynolds |
-| 84 | 144 | Plucky Ziggy |
+| 83 | 144 | Plucky Ziggy |
+| 84 | 144 | Tanya Carpenter-Reynolds |
 | 85 | 143 | Sarah Marie |
 | 86 | 141 | Susanna Guerry |
 | 87 | 141 | Blaire Bruckoff |
@@ -99,8 +99,8 @@
 | 91 | 132 | Davery Spencer Adair |
 | 92 | 131 | Trina Gee |
 | 93 | 130 | Dandy Basegrid |
-| 94 | 128 | Uhog SF |
-| 95 | 128 | lil mickey |
+| 94 | 128 | lil mickey |
+| 95 | 128 | Uhog SF |
 | 96 | 127 | Michael |
 | 97 | 126 | Cece Ibarra |
 | 98 | 126 | Rachael |
@@ -116,8 +116,8 @@
 | 108 | 112 | Miguel Teixeira |
 | 109 | 112 | Kristen Gideon |
 | 110 | 111 | Agustin Duarte Orozco |
-| 111 | 110 | Heidi Feurer |
-| 112 | 110 | Bhelle Sumile |
+| 111 | 110 | Bhelle Sumile |
+| 112 | 110 | Heidi Feurer |
 | 113 | 110 | Garcia Bailey |
 | 114 | 108 | Tavia |
 | 115 | 107 | Jodee Woods |
@@ -136,7 +136,7 @@
 | 128 | 96 | Melissa Lemmon |
 | 129 | 94 | Tyler Hertzog |
 | 130 | 94 | Bindi |
-| 131 | 94 | Tyler Hertzog |
+| 131 | 94 | Luciano Moreira |
 | 132 | 93 | Cody Gates |
 | 133 | 93 | Loony Fitzone |
 | 134 | 92 | Jessica Russell |

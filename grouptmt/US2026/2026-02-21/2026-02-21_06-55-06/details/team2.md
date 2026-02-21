@@ -457,7 +457,7 @@
 | 449 | 158 | Connie Lepore-Mann |
 | 450 | 158 | Caitlin Johnson |
 | 451 | 158 | Anthony Huebel |
-| 452 | 158 | Connie Lepore-Mann |
+| 452 | 158 | RaeVan Worthington |
 | 453 | 158 | Dar |
 | 454 | 158 | Michelle Shrum |
 | 455 | 158 | Ashley Cooper Tharin |
