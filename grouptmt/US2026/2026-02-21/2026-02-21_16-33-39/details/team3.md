@@ -88,8 +88,8 @@
 | 80 | 383 | Mahman |
 | 81 | 381 | Katie Knaus |
 | 82 | 379 | Elissa S-k |
-| 83 | 378 | Elaine Webb Graves |
-| 84 | 378 | Tasha Schriewer |
+| 83 | 378 | Tasha Schriewer |
+| 84 | 378 | Elaine Webb Graves |
 | 85 | 376 | Shari Garber |
 | 86 | 372 | Patty Allen |
 | 87 | 371 | Jesse Olive |
@@ -107,13 +107,13 @@
 | 99 | 323 | Ashley Raines |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
-| 102 | 309 | CeceGeGe |
-| 103 | 309 | Rich LeBlanc |
+| 102 | 309 | Rich LeBlanc |
+| 103 | 309 | CeceGeGe |
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
-| 107 | 300 | Sherika C. McDaniels |
-| 108 | 300 | Tessina Dewey-Mancino |
+| 107 | 300 | Tessina Dewey-Mancino |
+| 108 | 300 | Sherika C. McDaniels |
 | 109 | 293 | Poppy Splitter |
 | 110 | 284 | Jay Horn |
 | 111 | 277 | Logan Naccarato |
@@ -170,10 +170,10 @@
 | 162 | 181 | Karon Griffin |
 | 163 | 181 | Aerian Preston |
 | 164 | 179 | Joye Sims Binion |
-| 165 | 179 | Daira Largen |
-| 166 | 179 | Ashley Jones |
-| 167 | 178 | Khaleada McGill Banks |
-| 168 | 178 | AlsoJess |
+| 165 | 179 | Ashley Jones |
+| 166 | 179 | Daira Largen |
+| 167 | 178 | AlsoJess |
+| 168 | 178 | Khaleada McGill Banks |
 | 169 | 178 | Ryan Williams |
 | 170 | 177 | Rebel124 |
 | 171 | 175 | DanceLuvLaugh |

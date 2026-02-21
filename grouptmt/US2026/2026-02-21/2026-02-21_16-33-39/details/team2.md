@@ -255,8 +255,8 @@
 | 247 | 405 | Christy Krissie |
 | 248 | 403 | Crystie Hicks |
 | 249 | 402 | Joshua Mandel |
-| 250 | 400 | Tammy Allen |
-| 251 | 400 | Rhonda Milstead |
+| 250 | 400 | Rhonda Milstead |
+| 251 | 400 | Tammy Allen |
 | 252 | 397 | coleksquad |
 | 253 | 396 | Steven Marshaun |
 | 254 | 396 | Stefanie Zonzini-Gagliardi |
@@ -482,9 +482,9 @@
 | 474 | 230 | Leslie Johnson Guinto |
 | 475 | 228 | Michelle Sager |
 | 476 | 227 | Myleaha Holley |
-| 477 | 226 | Christina Wsn |
-| 478 | 226 | Morgan Easter |
-| 479 | 226 | Juliana Marques Do Nascimento Gordy |
+| 477 | 226 | Juliana Marques Do Nascimento Gordy |
+| 478 | 226 | Christina Wsn |
+| 479 | 226 | Morgan Easter |
 | 480 | 226 | Jodi Mitnick |
 | 481 | 225 | Kiorah Blaze |
 | 482 | 225 | Breezy Tilt |
@@ -656,8 +656,8 @@
 | 648 | 166 | suuny |
 | 649 | 165 | Fae-Bulous |
 | 650 | 165 | Austin Wilson |
-| 651 | 165 | Catherine Varea |
-| 652 | 165 | Laura Freeman Hagen |
+| 651 | 165 | Laura Freeman Hagen |
+| 652 | 165 | Catherine Varea |
 | 653 | 164 | Jessica Vega |
 | 654 | 164 | Sara Pennington |
 | 655 | 164 | Leslie Porter |
@@ -749,7 +749,7 @@
 | 741 | 146 | Sherry Aguinaga |
 | 742 | 145 | Scott Rackley |
 | 743 | 145 | Chareen Lauritzen |
-| 744 | 145 | Scott Rackley |
+| 744 | 145 | Lively Piecebuilder |
 | 745 | 145 | Anastacio Hernandez |
 | 746 | 144 | Matthew Joseph Acevedo |
 | 747 | 144 | Quinn |

@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Dizzy Tiley |
-| 78 | 211 | Casey Grabner |
+| 77 | 211 | Casey Grabner |
+| 78 | 211 | Dizzy Tiley |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -93,8 +93,8 @@
 | 85 | 198 | Mike Solo |
 | 86 | 198 | Dustee Craddock-Harrison |
 | 87 | 194 | Zany Twisterfit |
-| 88 | 191 | loulou |
-| 89 | 191 | Melvin Baird |
+| 88 | 191 | Melvin Baird |
+| 89 | 191 | loulou |
 | 90 | 189 | Calvin Dennis |
 | 91 | 187 | Joeliecea Cobb |
 | 92 | 187 | Swanky Fitline |
