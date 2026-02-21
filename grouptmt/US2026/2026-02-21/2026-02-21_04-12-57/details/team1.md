@@ -72,7 +72,7 @@
 | 64 | 145 | Lachelle Dillon |
 | 65 | 144 | Tanya Carpenter-Reynolds |
 | 66 | 144 | Tana |
-| 67 | 144 | Tanya Carpenter-Reynolds |
+| 67 | 144 | Plucky Ziggy |
 | 68 | 141 | Susanna Guerry |
 | 69 | 138 | Jacqueline Unique |
 | 70 | 137 | Nadine Velardo |
@@ -117,15 +117,15 @@
 | 109 | 93 | Loony Fitzone |
 | 110 | 93 | Aimee Horton |
 | 111 | 92 | Jessica Russell |
-| 112 | 90 | Madison Wicks |
-| 113 | 90 | TSwag |
+| 112 | 90 | TSwag |
+| 113 | 90 | Madison Wicks |
 | 114 | 89 | Mizzledagod |
 | 115 | 87 | Jessi Sauer |
 | 116 | 86 | Basment Living |
 | 117 | 86 | Desiree Deschaine Havee |
 | 118 | 85 | Steve Schneider |
-| 119 | 84 | Charla Pross-Fugleberg |
-| 120 | 84 | Speedy Snapfall |
+| 119 | 84 | Speedy Snapfall |
+| 120 | 84 | Charla Pross-Fugleberg |
 | 121 | 84 | Yvonne Marie |
 | 122 | 83 | Guest |
 | 123 | 83 | Cody Gates |

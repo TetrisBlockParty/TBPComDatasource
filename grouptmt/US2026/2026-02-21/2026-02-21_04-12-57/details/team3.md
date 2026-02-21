@@ -65,8 +65,8 @@
 | 57 | 325 | Shari Garber |
 | 58 | 322 | Michelle |
 | 59 | 320 | Or Reznitsky |
-| 60 | 316 | Fancy Cascader |
-| 61 | 316 | Tetris Master |
+| 60 | 316 | Tetris Master |
+| 61 | 316 | Fancy Cascader |
 | 62 | 307 | Peggi Charon |
 | 63 | 304 | Tasha Schriewer |
 | 64 | 300 | Sherika C. McDaniels |
@@ -90,8 +90,8 @@
 | 82 | 200 | mjl574 |
 | 83 | 199 | joclisa |
 | 84 | 195 | Nicha Hooker |
-| 85 | 193 | Clever Shiftsnap |
-| 86 | 193 | Shunta Jacobs |
+| 85 | 193 | Shunta Jacobs |
+| 86 | 193 | Clever Shiftsnap |
 | 87 | 192 | Chasity |
 | 88 | 187 | Speedy Bridger |
 | 89 | 185 | Danielle Cutler |
@@ -149,8 +149,8 @@
 | 141 | 116 | Connie Mohler-Fair |
 | 142 | 115 | Jennifer Alvey |
 | 143 | 115 | Sarajane Lokan |
-| 144 | 114 | Nicholas Roddy |
-| 145 | 114 | Jessica Bechler |
+| 144 | 114 | Jessica Bechler |
+| 145 | 114 | Nicholas Roddy |
 | 146 | 113 | Valerie Gendron |
 | 147 | 112 | Juliana Dottore |
 | 148 | 110 | Stella |
@@ -193,11 +193,11 @@
 | 185 | 94 | Angie Harper |
 | 186 | 93 | Tiffany Ford |
 | 187 | 92 | Jennifer Caputo |
-| 188 | 90 | Rebel124 |
-| 189 | 90 | Tiffany Kaupang |
-| 190 | 90 | Eon Harris |
-| 191 | 89 | Hyper Bridger |
-| 192 | 89 | Shicken Nuggit |
+| 188 | 90 | Eon Harris |
+| 189 | 90 | Rebel124 |
+| 190 | 90 | Tiffany Kaupang |
+| 191 | 89 | Shicken Nuggit |
+| 192 | 89 | Hyper Bridger |
 | 193 | 88 | Martin Bernier |
 | 194 | 88 | Brandon Givens |
 | 195 | 87 | Boldy Blocker |
@@ -212,8 +212,8 @@
 | 204 | 84 | Ava Petito |
 | 205 | 84 | Flashy Rumbler |
 | 206 | 83 | Michael Nowogorski |
-| 207 | 82 | Crystel b520 |
-| 208 | 82 | Stephanie Whitefield |
+| 207 | 82 | Stephanie Whitefield |
+| 208 | 82 | Crystel b520 |
 | 209 | 81 | Tina Baurdau |
 | 210 | 80 | Vixen Queen |
 | 211 | 79 | gremicx |

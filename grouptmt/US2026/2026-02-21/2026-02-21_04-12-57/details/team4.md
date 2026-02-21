@@ -46,8 +46,8 @@
 | 38 | 205 | Sarah Neathery |
 | 39 | 198 | Mike Solo |
 | 40 | 197 | Autum Leigh |
-| 41 | 194 | Jamie Mann-Deichmann |
-| 42 | 194 | Rachel Anne |
+| 41 | 194 | Rachel Anne |
+| 42 | 194 | Jamie Mann-Deichmann |
 | 43 | 190 | Brittney Orengo |
 | 44 | 185 | loulou |
 | 45 | 179 | Epic Curvetile |

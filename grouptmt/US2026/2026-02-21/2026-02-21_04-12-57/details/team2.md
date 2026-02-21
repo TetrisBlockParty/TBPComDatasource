@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -75,9 +75,9 @@
 | 67 | 674 | E_Money04 |
 | 68 | 674 | Dannette Goldberg-Richards |
 | 69 | 672 | Wendy Harder Gage |
-| 70 | 658 | Dreamy Blast |
-| 71 | 658 | Pacynthia Williams |
-| 72 | 658 | Vistabrat |
+| 70 | 658 | Pacynthia Williams |
+| 71 | 658 | Vistabrat |
+| 72 | 658 | Dreamy Blast |
 | 73 | 649 | Stephanie Chapman |
 | 74 | 649 | Anna Edwards |
 | 75 | 631 | Loopy Clusterbuilder |
