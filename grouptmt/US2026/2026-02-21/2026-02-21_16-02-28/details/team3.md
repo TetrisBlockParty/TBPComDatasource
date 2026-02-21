@@ -165,8 +165,8 @@
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
 | 159 | 182 | Hyper Matchzone |
-| 160 | 181 | Karon Griffin |
-| 161 | 181 | Aerian Preston |
+| 160 | 181 | Aerian Preston |
+| 161 | 181 | Karon Griffin |
 | 162 | 179 | Joye Sims Binion |
 | 163 | 179 | Ashley Jones |
 | 164 | 179 | Daira Largen |
@@ -192,8 +192,8 @@
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 158 | Grams |
-| 187 | 157 | Patricia Gadsden |
-| 188 | 157 | Nicholas Roddy |
+| 187 | 157 | Nicholas Roddy |
+| 188 | 157 | Patricia Gadsden |
 | 189 | 156 | Bea Miles |
 | 190 | 153 | Beth Ingham |
 | 191 | 153 | Rochelle Hazelett |

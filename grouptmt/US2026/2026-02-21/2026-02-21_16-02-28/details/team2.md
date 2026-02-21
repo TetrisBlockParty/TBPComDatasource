@@ -105,8 +105,8 @@
 | 97 | 809 | Tanya Parsons |
 | 98 | 801 | Tralonda Weeks |
 | 99 | 800 | Tacara Cummings |
-| 100 | 789 | Stephanie Chapman |
-| 101 | 789 | James Simms III |
+| 100 | 789 | James Simms III |
+| 101 | 789 | Stephanie Chapman |
 | 102 | 787 | Laura McCarthey |
 | 103 | 780 | Amanda Grohmann |
 | 104 | 772 | Megan Ferguson Leone |

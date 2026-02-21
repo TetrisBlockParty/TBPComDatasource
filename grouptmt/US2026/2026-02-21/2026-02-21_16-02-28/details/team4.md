@@ -94,8 +94,8 @@
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
 | 88 | 186 | Jeff Brian Gates |
-| 89 | 185 | Andy Cabral |
-| 90 | 185 | shar |
+| 89 | 185 | shar |
+| 90 | 185 | Andy Cabral |
 | 91 | 181 | Carter Jones |
 | 92 | 180 | Leah Kutz Zirbel |
 | 93 | 179 | Epic Curvetile |
@@ -120,8 +120,8 @@
 | 112 | 151 | Bethany Ison |
 | 113 | 151 | Dana Scott |
 | 114 | 148 | Brittany Marsh |
-| 115 | 147 | Jay28 |
-| 116 | 147 | 030Synner |
+| 115 | 147 | 030Synner |
+| 116 | 147 | Jay28 |
 | 117 | 146 | Peachy Fall |
 | 118 | 146 | Klo |
 | 119 | 145 | Jessica Bohlken |
@@ -187,8 +187,8 @@
 | 179 | 102 | Faja |
 | 180 | 102 | Autumn Kumzi |
 | 181 | 101 | Zesty Linkgrid |
-| 182 | 101 | Saulc1991 |
-| 183 | 101 | mike |
+| 182 | 101 | mike |
+| 183 | 101 | Saulc1991 |
 | 184 | 100 | Alexandra Karavias |
 | 185 | 99 | Michael Orris |
 | 186 | 99 | Anthony Bryan Riva |
