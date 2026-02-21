@@ -96,13 +96,13 @@
 | 88 | 134 | Jessica Bohlken |
 | 89 | 134 | Chirpy Basepiece |
 | 90 | 133 | Robin Watters |
-| 91 | 132 | Jenna McGeorge |
-| 92 | 132 | Jessica Cagle |
+| 91 | 132 | Jessica Cagle |
+| 92 | 132 | Jenna McGeorge |
 | 93 | 132 | Degenerate |
 | 94 | 132 | Melissa Priest Sellers |
 | 95 | 131 | Dana Scott |
-| 96 | 131 | Mr. Party |
-| 97 | 131 | Zany Twisterfit |
+| 96 | 131 | Zany Twisterfit |
+| 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
 | 100 | 129 | John Brunetti |
@@ -190,7 +190,7 @@
 | 182 | 81 | Nubian1 |
 | 183 | 80 | Melissa Adams |
 | 184 | 79 | Perky Piecegrid |
-| 185 | 79 | Anthony Bryan Riva |
+| 185 | 79 | Joseph Pace |
 | 186 | 79 | Kametsunoyaiba |
 | 187 | 79 | Anthony Bryan Riva |
 | 188 | 78 | Zesty Linkgrid |

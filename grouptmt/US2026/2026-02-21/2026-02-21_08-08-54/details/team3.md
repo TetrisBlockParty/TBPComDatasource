@@ -40,11 +40,11 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Snappy Glidepiece |
-| 39 | 546 | Dolores Falco |
+| 38 | 546 | Dolores Falco |
+| 39 | 546 | Snappy Glidepiece |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | CeceGeGe |
-| 81 | 309 | Rich LeBlanc |
+| 80 | 309 | Rich LeBlanc |
+| 81 | 309 | CeceGeGe |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -241,8 +241,8 @@
 | 233 | 97 | Ashley Jones |
 | 234 | 96 | Hanna Kim |
 | 235 | 96 | Jason-Ashley Ludlow |
-| 236 | 96 | Christopher Woost |
-| 237 | 96 | Hanna Kim |
+| 236 | 96 | D3NO |
+| 237 | 96 | Christopher Woost |
 | 238 | 96 | Tasha Wesson-Torrence |
 | 239 | 95 | Brooke Bauer |
 | 240 | 95 | MizzMonick Smith |
@@ -327,7 +327,7 @@
 | 319 | 73 | punky monkey buttky |
 | 320 | 73 | Tiffany Davie |
 | 321 | 73 | Spicy Caster |
-| 322 | 72 | Jodi Kaczynski-O'Dowd |
+| 322 | 72 | Alexsandran Valdivia |
 | 323 | 72 | Gimmegimmebeer |
 | 324 | 72 | Jodi Kaczynski-O'Dowd |
 | 325 | 71 | Duane Bright |

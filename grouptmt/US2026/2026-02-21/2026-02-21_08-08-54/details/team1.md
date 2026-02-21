@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -84,13 +84,13 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
-| 84 | 148 | Jessie Lynn |
-| 85 | 148 | Shauntina Burke |
+| 84 | 148 | Shauntina Burke |
+| 85 | 148 | Jessie Lynn |
 | 86 | 147 | Veronica Eve |
 | 87 | 146 | Arianna O'Brien |
 | 88 | 145 | Lachelle Dillon |
@@ -103,8 +103,8 @@
 | 95 | 138 | Gary Gobin |
 | 96 | 137 | Nadine Velardo |
 | 97 | 134 | Trina Gee |
-| 98 | 133 | Bhelle Sumile |
-| 99 | 133 | Brandi Huntington |
+| 98 | 133 | Brandi Huntington |
+| 99 | 133 | Bhelle Sumile |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
 | 102 | 128 | lil mickey |
@@ -112,8 +112,8 @@
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
-| 107 | 123 | LaQuetta Faith Hines |
-| 108 | 123 | june october |
+| 107 | 123 | june october |
+| 108 | 123 | LaQuetta Faith Hines |
 | 109 | 121 | Bouncy Grid |
 | 110 | 119 | Tater |
 | 111 | 119 | Irual Hctrab |
@@ -133,8 +133,8 @@
 | 125 | 108 | Alenoush Karimian |
 | 126 | 108 | Tavia |
 | 127 | 107 | Jodee Woods |
-| 128 | 106 | Ash Galvan |
-| 129 | 106 | Bloknboy |
+| 128 | 106 | Bloknboy |
+| 129 | 106 | Ash Galvan |
 | 130 | 105 | Flashy Rotator |
 | 131 | 104 | Charla Pross-Fugleberg |
 | 132 | 103 | Adryane Schnase |

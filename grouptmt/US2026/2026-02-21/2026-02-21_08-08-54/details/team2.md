@@ -174,8 +174,8 @@
 | 166 | 406 | Erin StFrancis |
 | 167 | 404 | Kiok |
 | 168 | 401 | Poppy Snap |
-| 169 | 400 | Tammy Allen |
-| 170 | 400 | Crystie Hicks |
+| 169 | 400 | Crystie Hicks |
+| 170 | 400 | Tammy Allen |
 | 171 | 397 | Ashley Guernsey-Martin |
 | 172 | 391 | Steven Marshaun |
 | 173 | 391 | Chilly Bridgepiece |
@@ -234,8 +234,8 @@
 | 226 | 312 | Michelle Pike |
 | 227 | 311 | Véronique Lévesque Sabourin |
 | 228 | 309 | James Zaragoza |
-| 229 | 309 | Oscar Bernie |
-| 230 | 309 | Ginger |
+| 229 | 309 | Ginger |
+| 230 | 309 | Oscar Bernie |
 | 231 | 306 | Kristopher Miller |
 | 232 | 305 | Libby Hicks |
 | 233 | 303 | Amélie Cadieux |
@@ -394,8 +394,8 @@
 | 386 | 198 | Angie Bolton Workman |
 | 387 | 198 | Alyssa Dean |
 | 388 | 196 | Besma Ao |
-| 389 | 196 | Cass Shirley |
-| 390 | 196 | Alexandra Reese |
+| 389 | 196 | Alexandra Reese |
+| 390 | 196 | Cass Shirley |
 | 391 | 195 | Snappy Shatterfit |
 | 392 | 195 | Emily Lyric Converse |
 | 393 | 194 | Kimberly Ann |
@@ -410,8 +410,8 @@
 | 402 | 191 | John Quiring |
 | 403 | 191 | Sho Nuff |
 | 404 | 190 | blarg |
-| 405 | 190 | Jessica Kaye DeAguero |
-| 406 | 190 | Layna Lyons |
+| 405 | 190 | Layna Lyons |
+| 406 | 190 | Jessica Kaye DeAguero |
 | 407 | 189 | Ramone Armstrong |
 | 408 | 188 | Justin Hines |
 | 409 | 188 | Seth Wrieden |
@@ -420,8 +420,8 @@
 | 412 | 186 | Jackie Jackie Lee |
 | 413 | 185 | JacJac |
 | 414 | 184 | Brittany Radaszewski |
-| 415 | 184 | Theresa Sterrett |
-| 416 | 184 | Sassy Linkbuilder |
+| 415 | 184 | Sassy Linkbuilder |
+| 416 | 184 | Theresa Sterrett |
 | 417 | 184 | Regina Unruh |
 | 418 | 183 | Lynzekwi |
 | 419 | 183 | Wakanda Forever |
@@ -689,8 +689,8 @@
 | 681 | 116 | Moua Ying |
 | 682 | 116 | Slimkaite |
 | 683 | 116 | Patrick Langford |
-| 684 | 116 | BeenRich Theceo |
-| 685 | 116 | SpaceCase085 |
+| 684 | 116 | SpaceCase085 |
+| 685 | 116 | BeenRich Theceo |
 | 686 | 116 | Jennifer Monroe Kelly |
 | 687 | 115 | Jamie Brickley |
 | 688 | 115 | Fae-Bulous |
