@@ -39,8 +39,8 @@
 | 31 | 283 | HastyGrabber |
 | 32 | 277 | KJ Pool |
 | 33 | 274 | Elizabeth Sallas |
-| 34 | 256 | Dustin Robert |
-| 35 | 256 | Brittney Griggs |
+| 34 | 256 | Brittney Griggs |
+| 35 | 256 | Dustin Robert |
 | 36 | 244 | Isabella Blanco |
 | 37 | 241 | Michelle Pearman |
 | 38 | 231 | Michelle Marie |
@@ -57,8 +57,8 @@
 | 49 | 194 | Jamie Mann-Deichmann |
 | 50 | 185 | loulou |
 | 51 | 179 | Epic Curvetile |
-| 52 | 170 | Girl |
-| 53 | 170 | Leah Kutz Zirbel |
+| 52 | 170 | Leah Kutz Zirbel |
+| 53 | 170 | Girl |
 | 54 | 168 | Anthony Magaraci |
 | 55 | 167 | Dustee Craddock-Harrison |
 | 56 | 165 | Courtney Cicoria |
@@ -81,8 +81,8 @@
 | 73 | 133 | Robin Watters |
 | 74 | 132 | Degenerate |
 | 75 | 132 | Jenna McGeorge |
-| 76 | 131 | Zany Twisterfit |
-| 77 | 131 | Mr. Party |
+| 76 | 131 | Mr. Party |
+| 77 | 131 | Zany Twisterfit |
 | 78 | 130 | Lucas J Sutton |
 | 79 | 130 | Casey Jeffcoat |
 | 80 | 129 | John Brunetti |

@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Charvi' Carter |
-| 101 | 540 | Thomas Hedrick |
+| 100 | 540 | Thomas Hedrick |
+| 101 | 540 | Charvi' Carter |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -154,8 +154,8 @@
 | 146 | 411 | Ricky Fortune |
 | 147 | 409 | Sparkles |
 | 148 | 401 | Poppy Snap |
-| 149 | 400 | Crystie Hicks |
-| 150 | 400 | Tammy Allen |
+| 149 | 400 | Tammy Allen |
+| 150 | 400 | Crystie Hicks |
 | 151 | 397 | Ashley Guernsey-Martin |
 | 152 | 391 | Chilly Bridgepiece |
 | 153 | 391 | Steven Marshaun |
@@ -179,8 +179,8 @@
 | 171 | 348 | Richard Horton |
 | 172 | 348 | Cherica Taylor |
 | 173 | 345 | Brenda Messer |
-| 174 | 345 | Rhianna DiLorenzo |
-| 175 | 345 | Wuntayk |
+| 174 | 345 | Wuntayk |
+| 175 | 345 | Rhianna DiLorenzo |
 | 176 | 344 | Christina Lewis-Vickers |
 | 177 | 344 | Julie Kresal |
 | 178 | 342 | Tracy Wise |
@@ -212,11 +212,11 @@
 | 204 | 299 | Deborah Miller |
 | 205 | 299 | Christy Krissie |
 | 206 | 299 | Oscar Bernie |
-| 207 | 296 | Amber Gray |
-| 208 | 296 | Jennifer Casey-Kay |
-| 209 | 295 | Diallo Sparkman |
-| 210 | 295 | Zany Clusterbuilder |
-| 211 | 295 | Angela Bonquiqui Dinish |
+| 207 | 296 | Jennifer Casey-Kay |
+| 208 | 296 | Amber Gray |
+| 209 | 295 | Angela Bonquiqui Dinish |
+| 210 | 295 | Diallo Sparkman |
+| 211 | 295 | Zany Clusterbuilder |
 | 212 | 293 | David Holliday |
 | 213 | 291 | Arwa Fatimah |
 | 214 | 290 | Jessie McDougald |
@@ -317,8 +317,8 @@
 | 309 | 208 | Smashanator |
 | 310 | 208 | Mema |
 | 311 | 207 | Kimmy Newman |
-| 312 | 207 | Melissa McCall |
-| 313 | 207 | Brave Gridpiece |
+| 312 | 207 | Brave Gridpiece |
+| 313 | 207 | Melissa McCall |
 | 314 | 207 | Shylee Tilman |
 | 315 | 206 | RAEPR05 |
 | 316 | 206 | Julio A Laracuente |

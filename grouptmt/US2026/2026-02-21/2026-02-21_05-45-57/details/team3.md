@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Danielle Becker |
-| 32 | 587 | Suzieq |
+| 31 | 587 | Suzieq |
+| 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
 | 34 | 546 | Dolores Falco |
 | 35 | 546 | Snappy Glidepiece |
@@ -122,8 +122,8 @@
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
-| 117 | 154 | Louise Stacy Sisson |
-| 118 | 154 | Angela M. Fletcher |
+| 117 | 154 | Angela M. Fletcher |
+| 118 | 154 | Louise Stacy Sisson |
 | 119 | 153 | Beth Ingham |
 | 120 | 152 | Shiny Zonebuilder |
 | 121 | 152 | Karon Griffin |
