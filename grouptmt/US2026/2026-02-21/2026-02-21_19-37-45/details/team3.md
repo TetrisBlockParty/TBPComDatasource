@@ -102,8 +102,8 @@
 | 94 | 390 | Annie Déè |
 | 95 | 389 | Elissa S-k |
 | 96 | 386 | Katie Knaus |
-| 97 | 378 | Makelini Mausia |
-| 98 | 378 | Tasha Schriewer |
+| 97 | 378 | Tasha Schriewer |
+| 98 | 378 | Makelini Mausia |
 | 99 | 372 | Jessica Bechler |
 | 100 | 371 | Jesse Olive |
 | 101 | 368 | Stephanie Woods |

@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | Jonathan Kimbrough |
-| 50 | 411 | TeeJ |
+| 49 | 411 | TeeJ |
+| 50 | 411 | Jonathan Kimbrough |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -126,8 +126,8 @@
 | 118 | 174 | Dihcheese444 |
 | 119 | 174 | Zethra Prenisha Rahming |
 | 120 | 174 | shark tato |
-| 121 | 173 | blockstar |
-| 122 | 173 | Ren Mc |
+| 121 | 173 | Ren Mc |
+| 122 | 173 | blockstar |
 | 123 | 170 | Girl |
 | 124 | 164 | Chaz Duncan |
 | 125 | 164 | ThaEviLJeNiuZ |
@@ -690,7 +690,7 @@
 | 682 | 30 | JD |
 | 683 | 30 | Peachy Pop |
 | 684 | 30 | Apryl Lia |
-| 685 | 30 | Peachy Pop |
+| 685 | 30 | Gabriel Raymond |
 | 686 | 29 | Jasmine Castro |
 | 687 | 29 | Andrew Easley |
 | 688 | 29 | D3TROITB0RN74 |

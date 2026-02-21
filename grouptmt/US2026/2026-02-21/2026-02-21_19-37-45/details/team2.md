@@ -175,14 +175,14 @@
 | 167 | 630 | L3sli3 |
 | 168 | 620 | BYM4L |
 | 169 | 619 | Jamie Otero |
-| 170 | 608 | John Bednarik |
-| 171 | 608 | Sommer Shope |
+| 170 | 608 | Sommer Shope |
+| 171 | 608 | John Bednarik |
 | 172 | 604 | Amber Shoemaker |
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |
 | 175 | 597 | Erica Williams |
-| 176 | 596 | Jelly |
-| 177 | 596 | Ellie Jonas |
+| 176 | 596 | Ellie Jonas |
+| 177 | 596 | Jelly |
 | 178 | 592 | Ashle Scranton |
 | 179 | 591 | Alisha |
 | 180 | 591 | Diana Fitzwater |
