@@ -126,8 +126,8 @@
 | 118 | 89 | Hyper Bridger |
 | 119 | 88 | Funky Jumper |
 | 120 | 88 | Martin Bernier |
-| 121 | 87 | Jimmie Clemons |
-| 122 | 87 | Sherry Ogden |
+| 121 | 87 | Sherry Ogden |
+| 122 | 87 | Jimmie Clemons |
 | 123 | 86 | Dan Rob |
 | 124 | 85 | Katie Knaus |
 | 125 | 84 | Ava Petito |
@@ -181,9 +181,9 @@
 | 173 | 62 | Bekah Dietrich |
 | 174 | 62 | Melissa Snyder |
 | 175 | 62 | Reesiecup93 |
-| 176 | 61 | Rebel124 |
-| 177 | 61 | Daryn Elliott |
-| 178 | 61 | Jessica Rose-Morgan |
+| 176 | 61 | Daryn Elliott |
+| 177 | 61 | Jessica Rose-Morgan |
+| 178 | 61 | Rebel124 |
 | 179 | 61 | Ashley Raines |
 | 180 | 60 | Ashley Rufus Bythcez |
 | 181 | 60 | Loony Slider |

@@ -90,8 +90,8 @@
 | 82 | 351 | Giggy Blocker |
 | 83 | 350 | Chris Harr |
 | 84 | 345 | Brenda Messer |
-| 85 | 345 | Rhianna DiLorenzo |
-| 86 | 345 | Alyssaaelena |
+| 85 | 345 | Alyssaaelena |
+| 86 | 345 | Rhianna DiLorenzo |
 | 87 | 344 | Sarah Freitas |
 | 88 | 342 | Tracy Wise |
 | 89 | 341 | Sam McKenzie |
@@ -124,8 +124,8 @@
 | 116 | 265 | Joseph Musick |
 | 117 | 265 | Wuntayk |
 | 118 | 264 | Lonne Emade |
-| 119 | 263 | Oscar Bernie |
-| 120 | 263 | Shiny Rollzone |
+| 119 | 263 | Shiny Rollzone |
+| 120 | 263 | Oscar Bernie |
 | 121 | 263 | Taylor Flowers |
 | 122 | 261 | MrsClaudette Will'sIam Matthews |
 | 123 | 261 | SaraMarie Eveland |
