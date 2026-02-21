@@ -153,8 +153,8 @@
 | 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Amy Fuller Heaton |
-| 149 | 214 | Jenny Hrndz |
+| 148 | 214 | Jenny Hrndz |
+| 149 | 214 | Amy Fuller Heaton |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
@@ -175,7 +175,7 @@
 | 167 | 193 | Clever Shiftsnap |
 | 168 | 191 | Ashley Muncey |
 | 169 | 191 | Scott Carleton |
-| 170 | 191 | Ashley Muncey |
+| 170 | 191 | Giddy Twistbuilder |
 | 171 | 191 | Rebel124 |
 | 172 | 189 | Fallorina Susana |
 | 173 | 189 | Sissy Lowery Davis |
@@ -225,18 +225,18 @@
 | 217 | 152 | Lesley Perez |
 | 218 | 152 | Desiree Gold |
 | 219 | 150 | Valerie Gendron |
-| 220 | 149 | Angel Mendez |
+| 220 | 149 | Alexis Taylor |
 | 221 | 149 | Peachy Rollfit |
-| 222 | 149 | Alexis Taylor |
-| 223 | 148 | Jennifer Alvey |
-| 224 | 148 | Gumbo |
+| 222 | 149 | Angel Mendez |
+| 223 | 148 | Gumbo |
+| 224 | 148 | Jennifer Alvey |
 | 225 | 147 | Ashley Lynn Marchese |
 | 226 | 147 | Cheryl Hinch Tenbrook |
 | 227 | 146 | Latoya Mayne |
 | 228 | 146 | Carrie Huskey |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Bryan Byrd |
-| 231 | 145 | Emma |
+| 230 | 145 | Emma |
+| 231 | 145 | Bryan Byrd |
 | 232 | 145 | Jeni Dow |
 | 233 | 142 | Erica Anderson |
 | 234 | 142 | David Bardo |
@@ -258,8 +258,8 @@
 | 250 | 131 | Darlene McMillan |
 | 251 | 130 | Weerae |
 | 252 | 129 | Juliana Dottore |
-| 253 | 128 | Jen Lewis |
-| 254 | 128 | MizzMonick Smith |
+| 253 | 128 | MizzMonick Smith |
+| 254 | 128 | Jen Lewis |
 | 255 | 127 | mzcatzy |
 | 256 | 126 | Pam Holt Powell |
 | 257 | 126 | April Matthew Kibble |

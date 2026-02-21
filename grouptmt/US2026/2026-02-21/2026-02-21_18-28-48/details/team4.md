@@ -50,8 +50,8 @@
 | 42 | 447 | Samantha Peterson |
 | 43 | 433 | Isabel Aguilar |
 | 44 | 427 | Tammi Crnza |
-| 45 | 411 | Jonathan Kimbrough |
-| 46 | 411 | TeeJ |
+| 45 | 411 | TeeJ |
+| 46 | 411 | Jonathan Kimbrough |
 | 47 | 399 | Jenna Ingersoll |
 | 48 | 397 | Courtney Cicoria |
 | 49 | 395 | Christine Marie |

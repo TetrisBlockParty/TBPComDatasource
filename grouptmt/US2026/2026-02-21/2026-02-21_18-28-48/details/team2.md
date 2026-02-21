@@ -172,8 +172,8 @@
 | 164 | 604 | Danielle Johnson-Chandler |
 | 165 | 603 | Cassie Maynard |
 | 166 | 597 | Erica Williams |
-| 167 | 596 | Ellie Jonas |
-| 168 | 596 | Thomas Hughes |
+| 167 | 596 | Thomas Hughes |
+| 168 | 596 | Ellie Jonas |
 | 169 | 592 | Ashle Scranton |
 | 170 | 591 | Alisha |
 | 171 | 583 | Jessicah Myers |
@@ -192,8 +192,8 @@
 | 184 | 541 | SaraMarie Eveland |
 | 185 | 541 | Giggy Blocker |
 | 186 | 535 | Jessie McDougald |
-| 187 | 534 | Stephen Stephen |
-| 188 | 534 | Teresa Gillmore |
+| 187 | 534 | Teresa Gillmore |
+| 188 | 534 | Stephen Stephen |
 | 189 | 531 | Chris Wanner |
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |
