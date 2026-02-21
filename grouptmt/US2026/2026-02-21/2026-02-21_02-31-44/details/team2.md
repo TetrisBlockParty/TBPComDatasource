@@ -120,12 +120,12 @@
 | 112 | 390 | Dustin Rains |
 | 113 | 386 | Ashie Ann |
 | 114 | 385 | Sam |
-| 115 | 384 | Mighty Patternzone |
-| 116 | 384 | Lina Sanders |
+| 115 | 384 | Lina Sanders |
+| 116 | 384 | Mighty Patternzone |
 | 117 | 380 | Joshua Mandel |
 | 118 | 374 | Sommer Shope |
-| 119 | 369 | Calandra Shaya Robinson |
-| 120 | 369 | Osun Anuket Esu |
+| 119 | 369 | Osun Anuket Esu |
+| 120 | 369 | Calandra Shaya Robinson |
 | 121 | 365 | April Dawn Gussler |
 | 122 | 364 | Shinette Dobson |
 | 123 | 363 | William Meussner |
@@ -238,8 +238,8 @@
 | 230 | 212 | Aleasha M Brown |
 | 231 | 208 | Mema |
 | 232 | 207 | Melissa McCall |
-| 233 | 206 | RAEPR05 |
-| 234 | 206 | Robin Kerby |
+| 233 | 206 | Robin Kerby |
+| 234 | 206 | RAEPR05 |
 | 235 | 205 | ElizabethAnn Dickinson |
 | 236 | 204 | Ali Gralski |
 | 237 | 204 | Rebecca Doughman |

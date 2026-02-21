@@ -90,10 +90,10 @@
 | 82 | 92 | Kristin MacDonald |
 | 83 | 90 | ZeeZee |
 | 84 | 89 | Zesty Twistbuilder |
-| 85 | 88 | Brandi Durig |
-| 86 | 88 | Heather Tushner |
-| 87 | 87 | Lauren Lamb |
-| 88 | 87 | Jen Caldwell |
+| 85 | 88 | Heather Tushner |
+| 86 | 88 | Brandi Durig |
+| 87 | 87 | Jen Caldwell |
+| 88 | 87 | Lauren Lamb |
 | 89 | 87 | Malakai Darien Fox |
 | 90 | 86 | amy |
 | 91 | 85 | Marcus TheeyoungWoe Gilmore |
@@ -125,8 +125,8 @@
 | 117 | 69 | Michelle Marie |
 | 118 | 69 | Carol Ricks Raymond |
 | 119 | 68 | LS |
-| 120 | 67 | Cozy Framezone |
-| 121 | 67 | Lindsey Gonzalez |
+| 120 | 67 | Lindsey Gonzalez |
+| 121 | 67 | Cozy Framezone |
 | 122 | 66 | Chris Alexinas |
 | 123 | 65 | Angela Geist Jusinski |
 | 124 | 65 | Rebecca Blake |
