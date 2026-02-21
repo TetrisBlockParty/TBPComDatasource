@@ -76,15 +76,15 @@
 | 68 | 180 | shar |
 | 69 | 179 | Epic Curvetile |
 | 70 | 175 | Dustee Craddock-Harrison |
-| 71 | 173 | Lori |
-| 72 | 173 | Jeff Brian Gates |
+| 71 | 173 | Jeff Brian Gates |
+| 72 | 173 | Lori |
 | 73 | 171 | Zethra Prenisha Rahming |
 | 74 | 171 | Melvin Baird |
 | 75 | 170 | Girl |
 | 76 | 170 | Leah Kutz Zirbel |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Courtney Cicoria |
-| 79 | 165 | Casey Grabner |
+| 78 | 165 | Casey Grabner |
+| 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Holly Jolly |
 | 82 | 159 | Justin Hannigan |
@@ -178,12 +178,12 @@
 | 170 | 89 | mike |
 | 171 | 88 | Heather Tushner |
 | 172 | 88 | Kesha Brady |
-| 173 | 87 | Lauren Lamb |
+| 173 | 87 | Bradley Reeves |
 | 174 | 87 | Jen Caldwell |
-| 175 | 87 | Bradley Reeves |
+| 175 | 87 | Lauren Lamb |
 | 176 | 86 | Jacob Richard |
-| 177 | 86 | amy |
-| 178 | 86 | Destiney Carter |
+| 177 | 86 | Destiney Carter |
+| 178 | 86 | amy |
 | 179 | 85 | Dizzy Tiley |
 | 180 | 85 | Shukee Lo |
 | 181 | 85 | Tim Knight-ten |
@@ -223,8 +223,8 @@
 | 215 | 75 | Christina Black |
 | 216 | 74 | Krs |
 | 217 | 74 | Tyler Terrific |
-| 218 | 73 | Staci Robinson Jones |
-| 219 | 73 | April Rondinone |
+| 218 | 73 | Lynn Marie |
+| 219 | 73 | Rheanda Weaskus |
 | 220 | 73 | bloat princess |
 | 221 | 73 | Staci Robinson Jones |
 | 222 | 73 | Joshua Cuellar |

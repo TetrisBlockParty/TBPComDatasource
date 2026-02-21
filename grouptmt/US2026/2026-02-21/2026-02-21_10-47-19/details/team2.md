@@ -218,8 +218,8 @@
 | 210 | 358 | Smashanator |
 | 211 | 357 | Shannon Byrd |
 | 212 | 356 | Deyawn Smith |
-| 213 | 354 | Brave Dropmatch |
-| 214 | 354 | Tracy Wise |
+| 213 | 354 | Tracy Wise |
+| 214 | 354 | Brave Dropmatch |
 | 215 | 353 | Joseph Musick |
 | 216 | 352 | ruth |
 | 217 | 350 | Chris Harr |
@@ -362,8 +362,8 @@
 | 354 | 236 | Julio A Laracuente |
 | 355 | 236 | Niceday |
 | 356 | 235 | Kimberly Mitchell |
-| 357 | 234 | Manny Trindade |
-| 358 | 234 | Jennifer Leigh |
+| 357 | 234 | Jennifer Leigh |
+| 358 | 234 | Manny Trindade |
 | 359 | 234 | Jaybee Nguyen |
 | 360 | 233 | Robin Kerby |
 | 361 | 233 | Jumpy Gridclear |
@@ -460,7 +460,7 @@
 | 452 | 179 | Desiree Harris Rosch |
 | 453 | 179 | Bette Prieto |
 | 454 | 179 | Cat |
-| 455 | 179 | Bette Prieto |
+| 455 | 179 | Lively Catcher |
 | 456 | 178 | Michelle Shrum |
 | 457 | 177 | Facuetoo |
 | 458 | 177 | Angel |
@@ -746,11 +746,11 @@
 | 738 | 116 | BeenRich Theceo |
 | 739 | 116 | Moua Ying |
 | 740 | 116 | Meganator42 |
-| 741 | 116 | Moua Ying |
+| 741 | 116 | Slimkaite |
 | 742 | 115 | Melissa Schwager |
 | 743 | 115 | Angela KaplaSchwahn |
-| 744 | 115 | AsnPryBoy83 |
-| 745 | 115 | Fae-Bulous |
+| 744 | 115 | Fae-Bulous |
+| 745 | 115 | AsnPryBoy83 |
 | 746 | 114 | Melissa Maples |
 | 747 | 114 | James Louie |
 | 748 | 114 | Juan Castillo |
@@ -963,8 +963,8 @@
 | 955 | 92 | Loony Dashy |
 | 956 | 92 | Chipper Wipeblock |
 | 957 | 92 | Tia Simmons |
-| 958 | 92 | Lashea Lyons |
-| 959 | 92 | Suzanne Wheeler |
+| 958 | 92 | Suzanne Wheeler |
+| 959 | 92 | Lashea Lyons |
 | 960 | 92 | Jelly |
 | 961 | 91 | Sienna Parsons |
 | 962 | 91 | Kat Sproule |

@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 339 | Mendoza Lee Christy |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
@@ -124,8 +124,8 @@
 | 116 | 202 | Shannon Matthew Byers |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -156,8 +156,8 @@
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Beth Ingham |
-| 152 | 153 | Stephanie Whitefield |
+| 151 | 153 | Stephanie Whitefield |
+| 152 | 153 | Beth Ingham |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
@@ -172,8 +172,8 @@
 | 164 | 140 | Gumbo |
 | 165 | 140 | Jay Horn |
 | 166 | 135 | Cheryl Hinch Tenbrook |
-| 167 | 134 | Emma |
-| 168 | 134 | DanceLuvLaugh |
+| 167 | 134 | DanceLuvLaugh |
+| 168 | 134 | Emma |
 | 169 | 131 | Jl |
 | 170 | 130 | Carrie Huskey |
 | 171 | 129 | Lesley Perez |
