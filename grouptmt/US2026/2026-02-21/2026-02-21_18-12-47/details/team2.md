@@ -319,8 +319,8 @@
 | 311 | 358 | Alyssaaelena |
 | 312 | 357 | Shannon Byrd |
 | 313 | 357 | Julie Kresal |
-| 314 | 355 | Shandrica Lowe |
-| 315 | 355 | Alexandra Weir |
+| 314 | 355 | Alexandra Weir |
+| 315 | 355 | Shandrica Lowe |
 | 316 | 354 | Lawanda Forbes |
 | 317 | 354 | Tracy Wise |
 | 318 | 354 | Brave Dropmatch |
@@ -606,9 +606,9 @@
 | 598 | 196 | Zak Dunn |
 | 599 | 196 | Alexandra Reese |
 | 600 | 195 | Synn |
-| 601 | 195 | Jannan Haimour |
-| 602 | 195 | Mary Boss |
-| 603 | 195 | Darlene Bowman |
+| 601 | 195 | Mary Boss |
+| 602 | 195 | Darlene Bowman |
+| 603 | 195 | Jannan Haimour |
 | 604 | 195 | Darcy Mae |
 | 605 | 194 | Hoppy Brickmatch |
 | 606 | 194 | Rachel Switala |

@@ -167,7 +167,7 @@
 | 159 | 195 | Nicha Hooker |
 | 160 | 195 | Michael Lucado |
 | 161 | 194 | glichmod |
-| 162 | 193 | Clever Shiftsnap |
+| 162 | 193 | Stephanie Burtin |
 | 163 | 193 | Duane Bright |
 | 164 | 193 | Clever Shiftsnap |
 | 165 | 193 | Marci Mize Fandrich |
@@ -203,8 +203,8 @@
 | 195 | 166 | Beth Ingham |
 | 196 | 166 | Betty Rosas |
 | 197 | 165 | Kali Kelz Williams |
-| 198 | 163 | Stephanie Hill |
-| 199 | 163 | Christine Trester |
+| 198 | 163 | Christine Trester |
+| 199 | 163 | Stephanie Hill |
 | 200 | 162 | Stephanie Whitefield |
 | 201 | 161 | BŘŰŤİÇŨŚ |
 | 202 | 160 | Tiffany Davie |
@@ -319,8 +319,8 @@
 | 311 | 103 | Wetwet |
 | 312 | 103 | Andrew Thorson |
 | 313 | 102 | Criss |
-| 314 | 102 | Rania Zaqout |
-| 315 | 102 | Christian Luna |
+| 314 | 102 | Christian Luna |
+| 315 | 102 | Rania Zaqout |
 | 316 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 317 | 101 | Hyper Bridger |
 | 318 | 100 | Edwin Calvillo Jr. |
@@ -361,7 +361,7 @@
 | 353 | 90 | Alexis Ford |
 | 354 | 90 | Flashy Rumbler |
 | 355 | 90 | Tiffany Kaupang |
-| 356 | 90 | Allie Kershner |
+| 356 | 90 | Snazzy Brickzone |
 | 357 | 90 | Kellie Montgomery |
 | 358 | 90 | Whitney Manuel |
 | 359 | 90 | Brittany Smith Brown |
