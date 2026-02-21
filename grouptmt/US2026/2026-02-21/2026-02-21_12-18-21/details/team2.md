@@ -111,8 +111,8 @@
 | 103 | 674 | Dannette Goldberg-Richards |
 | 104 | 672 | Wendy Harder Gage |
 | 105 | 665 | Dineisha Carpenter |
-| 106 | 658 | Vistabrat |
-| 107 | 658 | Pacynthia Williams |
+| 106 | 658 | Pacynthia Williams |
+| 107 | 658 | Vistabrat |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
 | 110 | 649 | Stephanie Chapman |

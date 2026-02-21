@@ -82,10 +82,10 @@
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
 | 76 | 172 | Andy Cabral |
-| 77 | 171 | Zethra Prenisha Rahming |
-| 78 | 171 | Melvin Baird |
-| 79 | 170 | Justin Hannigan |
-| 80 | 170 | Girl |
+| 77 | 171 | Melvin Baird |
+| 78 | 171 | Zethra Prenisha Rahming |
+| 79 | 170 | Girl |
+| 80 | 170 | Justin Hannigan |
 | 81 | 167 | Denise Carlson |
 | 82 | 165 | Casey Grabner |
 | 83 | 165 | Courtney Cicoria |
@@ -111,10 +111,10 @@
 | 103 | 134 | Chirpy Basepiece |
 | 104 | 134 | Serena Goodridge |
 | 105 | 133 | Robin Watters |
-| 106 | 132 | Melissa Priest Sellers |
-| 107 | 132 | Degenerate |
-| 108 | 132 | Jessica Cagle |
-| 109 | 132 | Jenna McGeorge |
+| 106 | 132 | Jessica Cagle |
+| 107 | 132 | Melissa Priest Sellers |
+| 108 | 132 | Jenna McGeorge |
+| 109 | 132 | Degenerate |
 | 110 | 131 | Mr. Party |
 | 111 | 130 | Lucas J Sutton |
 | 112 | 130 | Casey Jeffcoat |

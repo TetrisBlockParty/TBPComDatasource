@@ -44,12 +44,12 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Danielle Becker |
-| 40 | 587 | Suzieq |
+| 39 | 587 | Suzieq |
+| 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -90,8 +90,8 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | Rich LeBlanc |
-| 86 | 309 | CeceGeGe |
+| 85 | 309 | CeceGeGe |
+| 86 | 309 | Rich LeBlanc |
 | 87 | 307 | Blocked |
 | 88 | 307 | Peggi Charon |
 | 89 | 300 | Sherika C. McDaniels |
@@ -109,15 +109,15 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -461,7 +461,7 @@
 | 453 | 57 | Keayn Smith |
 | 454 | 57 | Rickeia Lanae Wright |
 | 455 | 56 | Christine Vosburgh |
-| 456 | 56 | Ernest Holloway |
+| 456 | 56 | Robert Sibigtroth |
 | 457 | 56 | Heather De Vries Cobb |
 | 458 | 56 | Ernest Holloway |
 | 459 | 56 | Tracy Marino |
