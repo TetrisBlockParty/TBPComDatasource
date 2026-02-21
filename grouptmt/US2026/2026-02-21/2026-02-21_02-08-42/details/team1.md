@@ -49,8 +49,8 @@
 | 41 | 165 | Ananda Mendez |
 | 42 | 161 | Abbey Crespo |
 | 43 | 154 | Sweet Baker |
-| 44 | 153 | Standia Civil |
-| 45 | 153 | 'Gilberto Martinez' |
+| 44 | 153 | 'Gilberto Martinez' |
+| 45 | 153 | Standia Civil |
 | 46 | 151 | Hyper |
 | 47 | 150 | Robert Benito |
 | 48 | 148 | Jessie Lynn |
@@ -69,8 +69,8 @@
 | 61 | 126 | Cece Ibarra |
 | 62 | 125 | Rico Rico |
 | 63 | 120 | Giggly Builderline |
-| 64 | 119 | Josie Kirt |
-| 65 | 119 | Irual Hctrab |
+| 64 | 119 | Irual Hctrab |
+| 65 | 119 | Josie Kirt |
 | 66 | 117 | David DeSantis |
 | 67 | 116 | Kristen Roles Robben |
 | 68 | 114 | Giddy Cascade |

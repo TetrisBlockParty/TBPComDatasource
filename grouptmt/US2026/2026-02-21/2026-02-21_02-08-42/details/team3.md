@@ -51,8 +51,8 @@
 | 43 | 327 | Amber Hughes |
 | 44 | 320 | Or Reznitsky |
 | 45 | 311 | Kristie |
-| 46 | 307 | Clever Roll |
-| 47 | 307 | Peggi Charon |
+| 46 | 307 | Peggi Charon |
+| 47 | 307 | Clever Roll |
 | 48 | 303 | Tasha Schriewer |
 | 49 | 300 | Sherika C. McDaniels |
 | 50 | 291 | Laura Melton |
@@ -127,8 +127,8 @@
 | 119 | 105 | Hoppy Buildout |
 | 120 | 103 | Brian Battjes |
 | 121 | 102 | Sarah Moyer |
-| 122 | 102 | Jenny Hrndz |
-| 123 | 102 | mommablock |
+| 122 | 102 | mommablock |
+| 123 | 102 | Jenny Hrndz |
 | 124 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 125 | 100 | Bobbi Moore |
 | 126 | 100 | Elizabeth Renee |
@@ -162,8 +162,8 @@
 | 154 | 86 | Shicken Nuggit |
 | 155 | 85 | Kevin Russell |
 | 156 | 84 | Ava Petito |
-| 157 | 84 | Flashy Rumbler |
-| 158 | 84 | Amanda L Baker |
+| 157 | 84 | Amanda L Baker |
+| 158 | 84 | Flashy Rumbler |
 | 159 | 83 | LaTanya GeminiondaRise Johnson |
 | 160 | 82 | Crystel b520 |
 | 161 | 82 | Clever Clearbuilder |

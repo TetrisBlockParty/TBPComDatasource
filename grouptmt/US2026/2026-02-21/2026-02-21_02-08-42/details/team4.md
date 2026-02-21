@@ -113,9 +113,9 @@
 | 105 | 75 | 🥔🥔 Spudz |
 | 106 | 75 | Rosemary Foster |
 | 107 | 72 | Joshua Cuellar |
-| 108 | 71 | Shukee Lo |
+| 108 | 71 | Joseph Pace |
 | 109 | 71 | Christina Black |
-| 110 | 71 | Joseph Pace |
+| 110 | 71 | Shukee Lo |
 | 111 | 70 | Valerie Roberts |
 | 112 | 69 | Carol Ricks Raymond |
 | 113 | 69 | Michelle Marie |

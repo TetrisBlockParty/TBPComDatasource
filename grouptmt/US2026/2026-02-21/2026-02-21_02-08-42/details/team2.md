@@ -288,8 +288,8 @@
 | 280 | 164 | kippykay |
 | 281 | 163 | Austin Wilson |
 | 282 | 163 | Taren Cowan |
-| 283 | 162 | Elizabeth Pearson |
-| 284 | 162 | Cappin You |
+| 283 | 162 | Cappin You |
+| 284 | 162 | Elizabeth Pearson |
 | 285 | 161 | Dizzy Zone |
 | 286 | 160 | Cynthia Ward |
 | 287 | 160 | Rhonda Petro |
