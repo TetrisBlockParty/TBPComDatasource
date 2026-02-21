@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Valerie Roberts |
-| 15 | 590 | Dee Kay |
+| 14 | 590 | Dee Kay |
+| 15 | 590 | Valerie Roberts |
 | 16 | 589 | Chilly Line |
 | 17 | 587 | Koshin Abdirahman |
 | 18 | 578 | Leah Gorsuch |
@@ -125,8 +125,8 @@
 | 117 | 118 | Leslie Nicole |
 | 118 | 116 | Serena Goodridge |
 | 119 | 116 | Diana Houts |
-| 120 | 115 | Jayk |
-| 121 | 115 | Ultramarine |
+| 120 | 115 | Ultramarine |
+| 121 | 115 | Jayk |
 | 122 | 113 | Stephme310 |
 | 123 | 113 | Andria Lynn |
 | 124 | 112 | Bryan Hodgins |
@@ -147,12 +147,12 @@
 | 139 | 104 | Damn Libra |
 | 140 | 104 | YoMomma |
 | 141 | 102 | Faja |
-| 142 | 101 | Michelle Morris |
-| 143 | 101 | Saulc1991 |
+| 142 | 101 | Saulc1991 |
+| 143 | 101 | Michelle Morris |
 | 144 | 100 | Alexandra Karavias |
 | 145 | 99 | ĥuf |
-| 146 | 98 | Allen Lloyd |
-| 147 | 98 | Duck |
+| 146 | 98 | Duck |
+| 147 | 98 | Allen Lloyd |
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
@@ -185,8 +185,8 @@
 | 177 | 83 | Joseph Gray |
 | 178 | 83 | Abigail Murphy |
 | 179 | 83 | Avy Absol |
-| 180 | 82 | Kim Hunt |
-| 181 | 82 | Jason Frehner |
+| 180 | 82 | Jason Frehner |
+| 181 | 82 | Kim Hunt |
 | 182 | 81 | Chair |
 | 183 | 81 | Michelle Parker |
 | 184 | 81 | Blessedmama |
@@ -230,10 +230,10 @@
 | 222 | 68 | LS |
 | 223 | 67 | Frank Joseph Epson |
 | 224 | 67 | Laurie McGregor |
-| 225 | 67 | Frank Joseph Epson |
+| 225 | 67 | Dennis Bradley |
 | 226 | 67 | Cozy Framezone |
-| 227 | 67 | mini |
-| 228 | 67 | JPW |
+| 227 | 67 | JPW |
+| 228 | 67 | mini |
 | 229 | 66 | mitch |
 | 230 | 66 | Terrance Fung |
 | 231 | 66 | Moonsterix |

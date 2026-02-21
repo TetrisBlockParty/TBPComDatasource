@@ -67,16 +67,16 @@
 | 59 | 201 | Ananda Mendez |
 | 60 | 201 | Anaid Sanchez |
 | 61 | 200 | Lexuriuos Lifestlye |
-| 62 | 198 | Happy Snapbuild |
-| 63 | 198 | Billie Dawn Sparks |
+| 62 | 198 | Billie Dawn Sparks |
+| 63 | 198 | Happy Snapbuild |
 | 64 | 197 | Cynthia Bradley |
 | 65 | 194 | Giggly Builderline |
 | 66 | 194 | Sharon Reynolds |
 | 67 | 192 | Shaykmia |
 | 68 | 192 | Mandyy Rae |
 | 69 | 191 | Jazzy Framezone |
-| 70 | 190 | Sweetts |
-| 71 | 190 | Thorne Shumate |
+| 70 | 190 | Thorne Shumate |
+| 71 | 190 | Sweetts |
 | 72 | 189 | Happy Basegrid |
 | 73 | 173 | june october |
 | 74 | 173 | Frothy Pattern |

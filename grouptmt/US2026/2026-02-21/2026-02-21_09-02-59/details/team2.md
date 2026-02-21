@@ -198,8 +198,8 @@
 | 190 | 380 | Joshua Mandel |
 | 191 | 380 | Calandra Shaya Robinson |
 | 192 | 378 | Cody Nishimura |
-| 193 | 377 | Liberty |
-| 194 | 377 | Roy Salyer |
+| 193 | 377 | Roy Salyer |
+| 194 | 377 | Liberty |
 | 195 | 364 | Shinette Dobson |
 | 196 | 363 | William Meussner |
 | 197 | 359 | Brainy Smurf |
@@ -234,8 +234,8 @@
 | 226 | 323 | Briana Alexander |
 | 227 | 318 | Trista Dumais |
 | 228 | 317 | Heather Westrum |
-| 229 | 317 | bru |
-| 230 | 317 | Dizzy Zone |
+| 229 | 317 | Dizzy Zone |
+| 230 | 317 | bru |
 | 231 | 315 | Alisa Lamb |
 | 232 | 314 | Amanda West |
 | 233 | 312 | Michelle Pike |

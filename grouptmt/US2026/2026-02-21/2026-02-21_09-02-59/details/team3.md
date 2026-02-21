@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 733 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -87,8 +87,8 @@
 | 79 | 320 | Or Reznitsky |
 | 80 | 316 | Fancy Cascader |
 | 81 | 312 | Elaine Webb Graves |
-| 82 | 309 | CeceGeGe |
-| 83 | 309 | Rich LeBlanc |
+| 82 | 309 | Rich LeBlanc |
+| 83 | 309 | CeceGeGe |
 | 84 | 307 | Peggi Charon |
 | 85 | 300 | Sherika C. McDaniels |
 | 86 | 299 | Cynthia Castros-Hampton |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -143,9 +143,9 @@
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
-| 138 | 159 | Mcathen |
-| 139 | 159 | Morgan Martinez |
-| 140 | 159 | Jone |
+| 138 | 159 | Jone |
+| 139 | 159 | Mcathen |
+| 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
 | 142 | 157 | Nicholas Roddy |
 | 143 | 157 | Patricia Gadsden |
@@ -211,8 +211,8 @@
 | 203 | 108 | Rachel Napper |
 | 204 | 108 | LaTanya GeminiondaRise Johnson |
 | 205 | 107 | Sherry Ogden |
-| 206 | 106 | Desiree Gold |
-| 207 | 106 | Eon Harris |
+| 206 | 106 | Eon Harris |
+| 207 | 106 | Desiree Gold |
 | 208 | 105 | Carol Cain Thurman |
 | 209 | 105 | Emi |
 | 210 | 104 | Melissa Snyder |
