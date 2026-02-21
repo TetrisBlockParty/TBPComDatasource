@@ -193,8 +193,8 @@
 | 185 | 470 | Jerry Tempelmeyer |
 | 186 | 469 | Ashley Rose Frederick |
 | 187 | 465 | Drwatson187 |
-| 188 | 464 | Ariel |
-| 189 | 464 | Ryan Gunther |
+| 188 | 464 | Ryan Gunther |
+| 189 | 464 | Ariel |
 | 190 | 460 | Amélie Cadieux |
 | 191 | 460 | Cody Smith-Candelaria |
 | 192 | 456 | Ashie Ann |
@@ -238,8 +238,8 @@
 | 230 | 393 | Altamirano Michael |
 | 231 | 391 | Chilly Bridgepiece |
 | 232 | 391 | Brenda Utphall |
-| 233 | 391 | Qiana Sanders |
-| 234 | 391 | Amanda Ferrell |
+| 233 | 391 | Amanda Ferrell |
+| 234 | 391 | Qiana Sanders |
 | 235 | 386 | Macy Williams |
 | 236 | 385 | Sam |
 | 237 | 385 | Arwa Fatimah |
@@ -594,9 +594,9 @@
 | 586 | 162 | Chirpy Snapper |
 | 587 | 161 | Perry Hubert |
 | 588 | 160 | Marcie McLain Dodd |
-| 589 | 160 | Gary Schaffner Jr. |
-| 590 | 160 | Cynthia Ward |
-| 591 | 160 | Amy Reynolds |
+| 589 | 160 | Cynthia Ward |
+| 590 | 160 | Amy Reynolds |
+| 591 | 160 | Gary Schaffner Jr. |
 | 592 | 160 | Jason H Baker |
 | 593 | 159 | Christina Eckert |
 | 594 | 159 | Nuggets |

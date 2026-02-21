@@ -252,8 +252,8 @@
 | 244 | 109 | Diana Ibarra |
 | 245 | 109 | Brave Brickster |
 | 246 | 108 | Rachel Napper |
-| 247 | 108 | Hanna Kim |
-| 248 | 108 | LaTanya GeminiondaRise Johnson |
+| 247 | 108 | LaTanya GeminiondaRise Johnson |
+| 248 | 108 | Hanna Kim |
 | 249 | 107 | Sherry Ogden |
 | 250 | 107 | Bouncy Blockbuilder |
 | 251 | 106 | Noettín Kan Zasnemoore |
@@ -270,8 +270,8 @@
 | 262 | 104 | bean |
 | 263 | 104 | Jason-Ashley Ludlow |
 | 264 | 103 | Kate Farok |
-| 265 | 103 | Wetwet |
-| 266 | 103 | BabyTonj Evans |
+| 265 | 103 | BabyTonj Evans |
+| 266 | 103 | Wetwet |
 | 267 | 102 | Christian Luna |
 | 268 | 101 | Hyper Bridger |
 | 269 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -315,9 +315,9 @@
 | 307 | 89 | Patti Skiles |
 | 308 | 88 | Kevin Russell |
 | 309 | 88 | RickyG |
-| 310 | 88 | Kelly Koenig |
+| 310 | 88 | Dapper Towerfit |
 | 311 | 88 | April Matthew Kibble |
-| 312 | 88 | Dapper Towerfit |
+| 312 | 88 | Kelly Koenig |
 | 313 | 87 | Kellie Montgomery |
 | 314 | 86 | Melissa Orth Hunter |
 | 315 | 86 | Salena Whitlock |

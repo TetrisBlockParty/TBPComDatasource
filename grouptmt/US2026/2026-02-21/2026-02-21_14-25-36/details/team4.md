@@ -129,8 +129,8 @@
 | 121 | 132 | Melissa Priest Sellers |
 | 122 | 132 | Jenna McGeorge |
 | 123 | 130 | Casey Jeffcoat |
-| 124 | 129 | John Brunetti |
-| 125 | 129 | Landon Keith Graffeo |
+| 124 | 129 | Landon Keith Graffeo |
+| 125 | 129 | John Brunetti |
 | 126 | 128 | Rio Rocha |
 | 127 | 127 | YoMomma |
 | 128 | 126 | Klo |

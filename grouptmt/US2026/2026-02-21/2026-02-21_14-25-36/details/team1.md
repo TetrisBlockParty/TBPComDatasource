@@ -73,8 +73,8 @@
 | 65 | 216 | Dee Perry |
 | 66 | 212 | Jaimie Lynn |
 | 67 | 211 | Marianita Garcia |
-| 68 | 208 | Mandyy Rae |
-| 69 | 208 | Carrie Beck Geartz |
+| 68 | 208 | Carrie Beck Geartz |
+| 69 | 208 | Mandyy Rae |
 | 70 | 205 | Trippy Redd |
 | 71 | 204 | Ly Phethmany |
 | 72 | 204 | Lexuriuos Lifestlye |
@@ -89,15 +89,15 @@
 | 81 | 193 | Lachelle Dillon |
 | 82 | 192 | Shaykmia |
 | 83 | 191 | Jazzy Framezone |
-| 84 | 190 | Sweetts |
-| 85 | 190 | Thorne Shumate |
+| 84 | 190 | Thorne Shumate |
+| 85 | 190 | Sweetts |
 | 86 | 189 | Happy Basegrid |
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
 | 89 | 177 | Diane Byrd |
-| 90 | 173 | Frothy Pattern |
-| 91 | 173 | june october |
-| 92 | 173 | Jennifer Olewnik Soborowski |
+| 90 | 173 | Jennifer Olewnik Soborowski |
+| 91 | 173 | Frothy Pattern |
+| 92 | 173 | june october |
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
