@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -148,8 +148,8 @@
 | 140 | 159 | Jone |
 | 141 | 159 | Morgan Martinez |
 | 142 | 158 | Grams |
-| 143 | 157 | Patricia Gadsden |
-| 144 | 157 | Nicholas Roddy |
+| 143 | 157 | Nicholas Roddy |
+| 144 | 157 | Patricia Gadsden |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
@@ -184,8 +184,8 @@
 | 176 | 125 | Felicia Doxey |
 | 177 | 125 | Shimika Enay Wallace |
 | 178 | 124 | Cesar Barraza |
-| 179 | 123 | Terry Jo Jones |
-| 180 | 123 | Kristie McFarland |
+| 179 | 123 | Kristie McFarland |
+| 180 | 123 | Terry Jo Jones |
 | 181 | 123 | Sarajane Lokan |
 | 182 | 122 | Giggly Brickroll |
 | 183 | 122 | Katrina E Jelks |

@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -146,8 +146,8 @@
 | 138 | 520 | Kimberly Schall |
 | 139 | 519 | Maria Escobar |
 | 140 | 517 | Debra Williams |
-| 141 | 515 | Real Ri |
-| 142 | 515 | Kaylee McCafferty |
+| 141 | 515 | Kaylee McCafferty |
+| 142 | 515 | Real Ri |
 | 143 | 513 | Butta |
 | 144 | 511 | Dizzy Zone |
 | 145 | 510 | Ashley House |
@@ -203,16 +203,16 @@
 | 195 | 380 | Joshua Mandel |
 | 196 | 380 | Calandra Shaya Robinson |
 | 197 | 378 | Cody Nishimura |
-| 198 | 377 | Liberty |
-| 199 | 377 | Roy Salyer |
+| 198 | 377 | Roy Salyer |
+| 199 | 377 | Liberty |
 | 200 | 364 | Shinette Dobson |
 | 201 | 363 | William Meussner |
 | 202 | 362 | AkaLefty |
 | 203 | 359 | Brainy Smurf |
 | 204 | 358 | Smashanator |
 | 205 | 357 | Shannon Byrd |
-| 206 | 356 | Deyawn Smith |
-| 207 | 356 | Alyssaaelena |
+| 206 | 356 | Alyssaaelena |
+| 207 | 356 | Deyawn Smith |
 | 208 | 354 | Tracy Wise |
 | 209 | 353 | Joseph Musick |
 | 210 | 352 | ruth |
@@ -589,10 +589,10 @@
 | 581 | 140 | Kimberly Ann |
 | 582 | 140 | Preya Patel |
 | 583 | 140 | Ms806 |
-| 584 | 140 | Jasmine Kenney |
-| 585 | 140 | King Shamell Young |
-| 586 | 140 | Sheretta Holmes Lil'bit |
-| 587 | 140 | Nadia Batista Garcia |
+| 584 | 140 | King Shamell Young |
+| 585 | 140 | Jasmine Kenney |
+| 586 | 140 | Nadia Batista Garcia |
+| 587 | 140 | Sheretta Holmes Lil'bit |
 | 588 | 139 | Jackson Smith |
 | 589 | 139 | Octavio Garza |
 | 590 | 138 | Gursharan Sandhu |
