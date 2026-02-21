@@ -117,8 +117,8 @@
 | 109 | 842 | Aimee Byrom |
 | 110 | 821 | Cynthia Ward |
 | 111 | 820 | Andea Beck |
-| 112 | 815 | Cindy Sechler Taninecz |
-| 113 | 815 | blarg |
+| 112 | 815 | blarg |
+| 113 | 815 | Cindy Sechler Taninecz |
 | 114 | 804 | Jose Mendoza |
 | 115 | 802 | Robin Kerby |
 | 116 | 801 | Tralonda Weeks |
@@ -129,8 +129,8 @@
 | 121 | 787 | Laura McCarthey |
 | 122 | 780 | Amanda Grohmann |
 | 123 | 772 | Megan Ferguson Leone |
-| 124 | 771 | Missie Lawson Gebhardt |
-| 125 | 771 | Terri McKelvey McKinley |
+| 124 | 771 | Terri McKelvey McKinley |
+| 125 | 771 | Missie Lawson Gebhardt |
 | 126 | 763 | Samantha Jo |
 | 127 | 756 | Stephanie Neuburger |
 | 128 | 751 | Loony Snapper |
@@ -175,8 +175,8 @@
 | 167 | 630 | L3sli3 |
 | 168 | 620 | BYM4L |
 | 169 | 619 | Jamie Otero |
-| 170 | 608 | Sommer Shope |
-| 171 | 608 | John Bednarik |
+| 170 | 608 | John Bednarik |
+| 171 | 608 | Sommer Shope |
 | 172 | 604 | Amber Shoemaker |
 | 173 | 604 | Danielle Johnson-Chandler |
 | 174 | 603 | Cassie Maynard |
@@ -208,12 +208,12 @@
 | 200 | 531 | Chris Wanner |
 | 201 | 528 | Brownie Sheena |
 | 202 | 527 | Stacy Stickle |
-| 203 | 527 | Adira Brown |
-| 204 | 527 | Ryan Gunther |
-| 205 | 526 | Ashley Guernsey-Martin |
-| 206 | 526 | April Dawn Gussler |
-| 207 | 525 | Tommy Tha Boss Gunz |
-| 208 | 525 | Desiree Anderson |
+| 203 | 527 | Ryan Gunther |
+| 204 | 527 | Adira Brown |
+| 205 | 526 | April Dawn Gussler |
+| 206 | 526 | Ashley Guernsey-Martin |
+| 207 | 525 | Desiree Anderson |
+| 208 | 525 | Tommy Tha Boss Gunz |
 | 209 | 522 | Slip |
 | 210 | 521 | Roseanna Peloso |
 | 211 | 521 | Joce Lynn |

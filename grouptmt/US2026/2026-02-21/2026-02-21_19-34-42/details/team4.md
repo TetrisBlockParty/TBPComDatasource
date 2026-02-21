@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -106,10 +106,10 @@
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
-| 101 | 192 | Crystal Carroll |
-| 102 | 192 | Shauna Havard |
-| 103 | 191 | loulou |
-| 104 | 191 | Melvin Baird |
+| 101 | 192 | Shauna Havard |
+| 102 | 192 | Crystal Carroll |
+| 103 | 191 | Melvin Baird |
+| 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
@@ -167,7 +167,7 @@
 | 159 | 133 | Angela Geist Jusinski |
 | 160 | 132 | Melissa Priest Sellers |
 | 161 | 132 | Degenerate |
-| 162 | 132 | Melissa Priest Sellers |
+| 162 | 132 | Jessica Cagle |
 | 163 | 130 | Casey Jeffcoat |
 | 164 | 129 | Dreamy Snapgrid |
 | 165 | 128 | Rio Rocha |
@@ -209,9 +209,9 @@
 | 201 | 111 | Michelle Morris |
 | 202 | 111 | Lazy Blocker |
 | 203 | 109 | Chaz |
-| 204 | 108 | Ali Ian |
-| 205 | 108 | Crystal Nicolette Moore |
-| 206 | 108 | Shane Kalamata Platoon |
+| 204 | 108 | Crystal Nicolette Moore |
+| 205 | 108 | Shane Kalamata Platoon |
+| 206 | 108 | Ali Ian |
 | 207 | 107 | Rafael Valentin |
 | 208 | 106 | Zappy Snaplink |
 | 209 | 106 | Rebecca Morris |
@@ -261,8 +261,8 @@
 | 253 | 91 | Zach Kerbs |
 | 254 | 91 | Sunny Filler |
 | 255 | 91 | wombat |
-| 256 | 90 | Carol Ricks Raymond |
-| 257 | 90 | No Strings Attached Ra |
+| 256 | 90 | No Strings Attached Ra |
+| 257 | 90 | Carol Ricks Raymond |
 | 258 | 90 | Thomas Hettenhaus |
 | 259 | 88 | Savannah Overdorf |
 | 260 | 88 | Michelle Parker |
