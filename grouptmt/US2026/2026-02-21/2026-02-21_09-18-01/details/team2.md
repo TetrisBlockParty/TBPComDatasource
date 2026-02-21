@@ -284,8 +284,8 @@
 | 276 | 274 | Jamie Stevey |
 | 277 | 274 | Melissa Holsinger |
 | 278 | 274 | Lonne Emade |
-| 279 | 273 | Jenna Nance |
-| 280 | 273 | Ray Ray Prado |
+| 279 | 273 | Ray Ray Prado |
+| 280 | 273 | Jenna Nance |
 | 281 | 273 | August Hale |
 | 282 | 273 | Vanessa Moreno |
 | 283 | 272 | Mikayala Szaz |
@@ -390,8 +390,8 @@
 | 382 | 207 | Shylee Tilman |
 | 383 | 206 | Neko Preston |
 | 384 | 206 | RAEPR05 |
-| 385 | 205 | Lylymom |
-| 386 | 205 | ElizabethAnn Dickinson |
+| 385 | 205 | ElizabethAnn Dickinson |
+| 386 | 205 | Lylymom |
 | 387 | 204 | Ali Gralski |
 | 388 | 204 | Rebecca Doughman |
 | 389 | 203 | Gary Stash |
@@ -413,8 +413,8 @@
 | 405 | 194 | Kimberly Ann |
 | 406 | 194 | Mike Aprilliano |
 | 407 | 194 | Hoppy Brickmatch |
-| 408 | 193 | Kelly Ann McCormick |
-| 409 | 193 | Matthew Turner |
+| 408 | 193 | Matthew Turner |
+| 409 | 193 | Kelly Ann McCormick |
 | 410 | 193 | Amanda Schaffer |
 | 411 | 192 | Alyssa Nadine Medelez |
 | 412 | 192 | JacJac |
@@ -447,8 +447,8 @@
 | 439 | 180 | Peter Palestino |
 | 440 | 179 | Desiree Harris Rosch |
 | 441 | 179 | Elizabeth Pearson |
-| 442 | 179 | Cat |
-| 443 | 179 | Bette Prieto |
+| 442 | 179 | Bette Prieto |
+| 443 | 179 | Cat |
 | 444 | 178 | Michelle Shrum |
 | 445 | 177 | Facuetoo |
 | 446 | 177 | Ryan Meilleur |
@@ -841,7 +841,7 @@
 | 833 | 100 | Jacqueline Robinson |
 | 834 | 100 | Shayla Lamartina |
 | 835 | 99 | Asha Nichols-Collins |
-| 836 | 99 | Katelyn Fitzsimmons |
+| 836 | 99 | Dee Moore |
 | 837 | 99 | Stacey N Kelly Lee |
 | 838 | 99 | Ashley Dow |
 | 839 | 99 | Katelyn Fitzsimmons |

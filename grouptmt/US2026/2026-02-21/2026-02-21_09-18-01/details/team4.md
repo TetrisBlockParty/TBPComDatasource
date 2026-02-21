@@ -81,8 +81,8 @@
 | 73 | 170 | Girl |
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Casey Grabner |
-| 77 | 165 | Courtney Cicoria |
+| 76 | 165 | Courtney Cicoria |
+| 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Holly Jolly |
 | 80 | 159 | Justin Hannigan |
@@ -99,12 +99,12 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Jessica Cagle |
+| 94 | 132 | Degenerate |
 | 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Degenerate |
+| 96 | 132 | Jessica Cagle |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Mr. Party |
-| 99 | 131 | Zany Twisterfit |
+| 98 | 131 | Zany Twisterfit |
+| 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Casey Jeffcoat |
 | 102 | 130 | Lucas J Sutton |
@@ -151,8 +151,8 @@
 | 143 | 101 | Michelle Morris |
 | 144 | 101 | Saulc1991 |
 | 145 | 100 | Alexandra Karavias |
-| 146 | 98 | Allen Lloyd |
-| 147 | 98 | Duck |
+| 146 | 98 | Duck |
+| 147 | 98 | Allen Lloyd |
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
@@ -312,8 +312,8 @@
 | 304 | 52 | Chassidy Martin |
 | 305 | 52 | Nerdy Twisterfit |
 | 306 | 51 | Jason Bosco |
-| 307 | 51 | George Nutt |
-| 308 | 51 | Frank Cook |
+| 307 | 51 | Frank Cook |
+| 308 | 51 | George Nutt |
 | 309 | 50 | Kelly Duncan |
 | 310 | 50 | Christian Torres |
 | 311 | 50 | Mike |
@@ -470,8 +470,8 @@
 | 462 | 32 | Dapper Frame |
 | 463 | 32 | Lily Cannon |
 | 464 | 32 | Darrin Rubalcava |
-| 465 | 32 | Wacky Shatterline |
-| 466 | 32 | Jessica Johnston |
+| 465 | 32 | Jessica Johnston |
+| 466 | 32 | Wacky Shatterline |
 | 467 | 31 | Rico |
 | 468 | 31 | Undeniable Williams |
 | 469 | 31 | Montiette Mcglown |
