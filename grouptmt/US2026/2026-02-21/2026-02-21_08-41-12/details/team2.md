@@ -206,8 +206,8 @@
 | 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Brave Dropmatch |
-| 202 | 350 | Chris Harr |
+| 201 | 350 | Chris Harr |
+| 202 | 350 | Brave Dropmatch |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |
@@ -333,15 +333,15 @@
 | 325 | 244 | Aimee Byrom |
 | 326 | 243 | Brandy Andre |
 | 327 | 243 | Adira Brown |
-| 328 | 242 | Lawanda Forbes |
-| 329 | 242 | Donna Chandler |
+| 328 | 242 | Donna Chandler |
+| 329 | 242 | Lawanda Forbes |
 | 330 | 241 | Sabrina Burton |
 | 331 | 240 | Angie Marie |
 | 332 | 240 | Johnny Yeates |
 | 333 | 240 | Adam Erikson |
 | 334 | 238 | Cheery Matchzone |
-| 335 | 236 | snkylnk |
-| 336 | 236 | Frisky Riserbuilder |
+| 335 | 236 | Frisky Riserbuilder |
+| 336 | 236 | snkylnk |
 | 337 | 236 | Julio A Laracuente |
 | 338 | 235 | Kimberly Mitchell |
 | 339 | 234 | Jennifer Leigh |
@@ -409,7 +409,7 @@
 | 401 | 193 | Kelly Ann McCormick |
 | 402 | 192 | Alyssa Nadine Medelez |
 | 403 | 191 | Lauren Fitzgerald Thomas |
-| 404 | 191 | Deana |
+| 404 | 191 | John Quiring |
 | 405 | 191 | Sho Nuff |
 | 406 | 191 | Deana |
 | 407 | 190 | Jessica Kaye DeAguero |
@@ -421,9 +421,9 @@
 | 413 | 186 | Jackie Jackie Lee |
 | 414 | 185 | JacJac |
 | 415 | 184 | Brittany Radaszewski |
-| 416 | 184 | Regina Unruh |
-| 417 | 184 | Theresa Sterrett |
-| 418 | 184 | Sassy Linkbuilder |
+| 416 | 184 | Theresa Sterrett |
+| 417 | 184 | Sassy Linkbuilder |
+| 418 | 184 | Regina Unruh |
 | 419 | 183 | Lynzekwi |
 | 420 | 183 | Wakanda Forever |
 | 421 | 183 | Brenna Ann |
@@ -446,12 +446,12 @@
 | 438 | 177 | John |
 | 439 | 177 | Ryan Meilleur |
 | 440 | 177 | Angel |
-| 441 | 176 | Jennifer Malloy - Cardy |
-| 442 | 176 | Trisha Gallagher |
+| 441 | 176 | Trisha Gallagher |
+| 442 | 176 | Jennifer Malloy - Cardy |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Shandrica Lowe |
-| 446 | 175 | Tina Blessed Cage |
+| 445 | 175 | Tina Blessed Cage |
+| 446 | 175 | Shandrica Lowe |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | kippykay |
@@ -470,8 +470,8 @@
 | 462 | 167 | Sabrena Yeisley |
 | 463 | 166 | suuny |
 | 464 | 165 | Catherine Varea |
-| 465 | 165 | Austin Wilson |
-| 466 | 165 | Cathy Bitters |
+| 465 | 165 | Cathy Bitters |
+| 466 | 165 | Austin Wilson |
 | 467 | 164 | Jessica Vega |
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Jaybee Nguyen |

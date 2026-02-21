@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Chipper Gridlock |
-| 30 | 348 | Stef Hu |
+| 29 | 348 | Stef Hu |
+| 30 | 348 | Chipper Gridlock |
 | 31 | 339 | Robert Beck |
 | 32 | 330 | Stephanie Zahn |
 | 33 | 301 | Zerin Graham |
@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -55,8 +55,8 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Tdub |
-| 51 | 212 | Jaimie Lynn |
+| 50 | 212 | Jaimie Lynn |
+| 51 | 212 | Tdub |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
@@ -109,8 +109,8 @@
 | 101 | 133 | Brandi Huntington |
 | 102 | 132 | Davery Spencer Adair |
 | 103 | 130 | Dandy Basegrid |
-| 104 | 128 | Uhog SF |
-| 105 | 128 | lil mickey |
+| 104 | 128 | lil mickey |
+| 105 | 128 | Uhog SF |
 | 106 | 127 | Michael |
 | 107 | 126 | Cece Ibarra |
 | 108 | 124 | Cartier |
@@ -150,13 +150,13 @@
 | 142 | 99 | Aimee Horton |
 | 143 | 99 | Melissa Bires Hussar |
 | 144 | 98 | Loony Fitzone |
-| 145 | 96 | Melissa Lemmon |
-| 146 | 96 | Barrbaric |
+| 145 | 96 | Barrbaric |
+| 146 | 96 | Melissa Lemmon |
 | 147 | 96 | Nery Martinez |
 | 148 | 95 | Adam Byrd |
-| 149 | 94 | Luciano Moreira |
-| 150 | 94 | Tyler Hertzog |
-| 151 | 94 | Bindi |
+| 149 | 94 | Tyler Hertzog |
+| 150 | 94 | Bindi |
+| 151 | 94 | Luciano Moreira |
 | 152 | 93 | Cody Gates |
 | 153 | 92 | Lori Sanders- Davis |
 | 154 | 90 | TSwag |

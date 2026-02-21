@@ -183,7 +183,7 @@
 | 175 | 85 | Tim Knight-ten |
 | 176 | 83 | Holly |
 | 177 | 83 | Abigail Murphy |
-| 178 | 83 | Holly |
+| 178 | 83 | Joseph Gray |
 | 179 | 83 | Avy Absol |
 | 180 | 82 | Kim Hunt |
 | 181 | 81 | Chair |
@@ -195,7 +195,7 @@
 | 187 | 80 | Chaz Duncan |
 | 188 | 80 | Melissa Adams |
 | 189 | 79 | Perky Piecegrid |
-| 190 | 79 | Kametsunoyaiba |
+| 190 | 79 | Joseph Pace |
 | 191 | 79 | Anthony Bryan Riva |
 | 192 | 79 | Kametsunoyaiba |
 | 193 | 78 | Zesty Linkgrid |
@@ -206,8 +206,8 @@
 | 198 | 77 | Zippy Gridlock |
 | 199 | 76 | Madison Sweere |
 | 200 | 76 | Bethany Ison |
-| 201 | 75 | Christina Black |
-| 202 | 75 | Rosemary Foster |
+| 201 | 75 | Rosemary Foster |
+| 202 | 75 | Christina Black |
 | 203 | 74 | Tyler Terrific |
 | 204 | 74 | Krs |
 | 205 | 73 | bloat princess |
@@ -296,7 +296,7 @@
 | 288 | 54 | Denise B |
 | 289 | 54 | Sam Bishop |
 | 290 | 54 | Lisha Billups |
-| 291 | 54 | Sam Bishop |
+| 291 | 54 | Joseph Bodon |
 | 292 | 53 | Allison Judith |
 | 293 | 53 | Poppy Brickmatch |
 | 294 | 52 | Nicole Silvers |
