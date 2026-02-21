@@ -35,11 +35,11 @@
 | 27 | 589 | Chilly Line |
 | 28 | 546 | LisaJo Picken Buchanan |
 | 29 | 541 | Rebecca Moulton Pinciaro |
-| 30 | 494 | Rodney McMath Jr. |
-| 31 | 494 | Misty Hollibaugh |
+| 30 | 494 | Misty Hollibaugh |
+| 31 | 494 | Rodney McMath Jr. |
 | 32 | 486 | Landon Keith Graffeo |
-| 33 | 483 | Carmethia Clemons Haslerig |
-| 34 | 483 | Kimberly Love |
+| 33 | 483 | Kimberly Love |
+| 34 | 483 | Carmethia Clemons Haslerig |
 | 35 | 465 | Dawn Alexander |
 | 36 | 463 | KM8 |
 | 37 | 449 | Shelly Chandler |

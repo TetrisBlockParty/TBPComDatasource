@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Giddy Drop |
-| 59 | 528 | Natasha Jones |
+| 58 | 528 | Natasha Jones |
+| 59 | 528 | Giddy Drop |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |

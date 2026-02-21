@@ -335,8 +335,8 @@
 | 327 | 345 | Angie Bolton Workman |
 | 328 | 345 | Victoria Moore-Smith |
 | 329 | 345 | Rhianna DiLorenzo |
-| 330 | 344 | Glenn Cobbins |
-| 331 | 344 | Ginger |
+| 330 | 344 | Ginger |
+| 331 | 344 | Glenn Cobbins |
 | 332 | 344 | Bussyiano Page |
 | 333 | 343 | F-X |
 | 334 | 342 | Shaun Church |
@@ -390,8 +390,8 @@
 | 382 | 309 | Catina Hutchison |
 | 383 | 309 | James Zaragoza |
 | 384 | 305 | Libby Hicks |
-| 385 | 305 | Zany Clusterbuilder |
-| 386 | 305 | Tum |
+| 385 | 305 | Tum |
+| 386 | 305 | Zany Clusterbuilder |
 | 387 | 304 | Frisky Clearpiece |
 | 388 | 304 | Michelle Shrum |
 | 389 | 304 | NFLPITMOM |
@@ -408,8 +408,8 @@
 | 400 | 297 | Fi Ne |
 | 401 | 297 | Peachy Blockbuilder |
 | 402 | 296 | Jennifer Darby |
-| 403 | 296 | Heather Schelkopf |
-| 404 | 296 | Jennifer Casey-Kay |
+| 403 | 296 | Jennifer Casey-Kay |
+| 404 | 296 | Heather Schelkopf |
 | 405 | 296 | Amber Gray |
 | 406 | 295 | Noel Tarmy |
 | 407 | 294 | Frisky Riserbuilder |
