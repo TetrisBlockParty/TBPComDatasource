@@ -90,8 +90,8 @@
 | 82 | 81 | Michelle Parker |
 | 83 | 79 | Avy Absol |
 | 84 | 77 | Dizzy Tiley |
-| 85 | 75 | Rosemary Foster |
-| 86 | 75 | 🥔🥔 Spudz |
+| 85 | 75 | 🥔🥔 Spudz |
+| 86 | 75 | Rosemary Foster |
 | 87 | 75 | Chair |
 | 88 | 73 | Lauren Lamb |
 | 89 | 73 | Jeff Brian Gates |
@@ -99,8 +99,8 @@
 | 91 | 72 | Joshua Cuellar |
 | 92 | 71 | Christina Black |
 | 93 | 71 | Joseph Pace |
-| 94 | 70 | Valerie Roberts |
-| 95 | 70 | Melissa Adams |
+| 94 | 70 | Melissa Adams |
+| 95 | 70 | Valerie Roberts |
 | 96 | 69 | Carol Ricks Raymond |
 | 97 | 68 | LS |
 | 98 | 68 | Sam Middleton |
@@ -122,8 +122,8 @@
 | 114 | 59 | Jasmine S Caldwell |
 | 115 | 59 | Chaz Duncan |
 | 116 | 58 | Autumn Kumzi |
-| 117 | 57 | Stephanie Jones |
-| 118 | 57 | Carlos G Reyes |
+| 117 | 57 | Carlos G Reyes |
+| 118 | 57 | Stephanie Jones |
 | 119 | 57 | Justin Hannigan |
 | 120 | 56 | Maureen Flanigan |
 | 121 | 56 | Cj Lewis-haut |

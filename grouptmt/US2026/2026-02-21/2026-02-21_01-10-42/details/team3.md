@@ -176,9 +176,9 @@
 | 168 | 70 | Boldy Blocker |
 | 169 | 69 | Chasity |
 | 170 | 69 | Jen Lewis |
-| 171 | 69 | Chasity |
-| 172 | 68 | Crystel b520 |
-| 173 | 68 | BŘŰŤİÇŨŚ |
+| 171 | 69 | Hyper Matchzone |
+| 172 | 68 | BŘŰŤİÇŨŚ |
+| 173 | 68 | Crystel b520 |
 | 174 | 67 | Cherry Parker |
 | 175 | 66 | Nimka Jams |
 | 176 | 66 | Valerie Gendron |
@@ -207,8 +207,8 @@
 | 199 | 61 | Jessica Rose-Morgan |
 | 200 | 61 | Daryn Elliott |
 | 201 | 60 | Elizabeth Renee |
-| 202 | 60 | Ashley Rufus Bythcez |
-| 203 | 60 | Loony Slider |
+| 202 | 60 | Loony Slider |
+| 203 | 60 | Ashley Rufus Bythcez |
 | 204 | 59 | Rania Zaqout |
 | 205 | 58 | Erzulie |
 | 206 | 58 | David Kozen |
