@@ -90,10 +90,10 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Peggi Charon |
-| 88 | 307 | Blocked |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
+| 87 | 307 | Blocked |
+| 88 | 307 | Peggi Charon |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -167,12 +167,12 @@
 | 159 | 152 | Shiny Zonebuilder |
 | 160 | 151 | MsBee |
 | 161 | 150 | Nicole Myers |
-| 162 | 149 | Trisha Balmer |
-| 163 | 149 | Angel Mendez |
-| 164 | 149 | Bea Miles |
+| 162 | 149 | Angel Mendez |
+| 163 | 149 | Bea Miles |
+| 164 | 149 | Trisha Balmer |
 | 165 | 147 | Sashay Tapae Simpson |
-| 166 | 146 | Denita Mungro |
-| 167 | 146 | Latoya Mayne |
+| 166 | 146 | Latoya Mayne |
+| 167 | 146 | Denita Mungro |
 | 168 | 145 | Bryan Byrd |
 | 169 | 142 | Desiree Gold |
 | 170 | 142 | Erica Anderson |
@@ -218,8 +218,8 @@
 | 210 | 113 | Brian Battjes |
 | 211 | 113 | Valerie Gendron |
 | 212 | 111 | Stephanie Zahm |
-| 213 | 110 | Danielle Weikel |
-| 214 | 110 | Stella |
+| 213 | 110 | Stella |
+| 214 | 110 | Danielle Weikel |
 | 215 | 110 | Tye Stovall |
 | 216 | 109 | Brave Brickster |
 | 217 | 109 | Lys |
@@ -227,8 +227,8 @@
 | 219 | 109 | Fredd Thomas |
 | 220 | 108 | LaTanya GeminiondaRise Johnson |
 | 221 | 108 | Rachel Napper |
-| 222 | 107 | Sherry Ogden |
-| 223 | 107 | France Vézina |
+| 222 | 107 | France Vézina |
+| 223 | 107 | Sherry Ogden |
 | 224 | 106 | Noettín Kan Zasnemoore |
 | 225 | 105 | Emi |
 | 226 | 105 | Carol Cain Thurman |
@@ -302,8 +302,8 @@
 | 294 | 84 | gremicx |
 | 295 | 84 | Spunky Racker |
 | 296 | 83 | Deseree Ewing |
-| 297 | 82 | Justice 4 P |
-| 298 | 82 | Rebecca Funderburk Kirby |
+| 297 | 82 | Rebecca Funderburk Kirby |
+| 298 | 82 | Justice 4 P |
 | 299 | 81 | Tina Baurdau |
 | 300 | 80 | Me,Him,Yu |
 | 301 | 80 | Oliver Neal II |

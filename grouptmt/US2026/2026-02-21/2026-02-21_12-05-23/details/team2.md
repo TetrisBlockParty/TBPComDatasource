@@ -241,8 +241,8 @@
 | 233 | 348 | Richard Horton |
 | 234 | 345 | Rhianna DiLorenzo |
 | 235 | 345 | Brenda Messer |
-| 236 | 344 | Christina Lewis-Vickers |
-| 237 | 344 | Glenn Cobbins |
+| 236 | 344 | Glenn Cobbins |
+| 237 | 344 | Christina Lewis-Vickers |
 | 238 | 344 | Julie Kresal |
 | 239 | 343 | F-X |
 | 240 | 336 | Lylymom |
@@ -295,8 +295,8 @@
 | 287 | 289 | Hyper Cluster |
 | 288 | 288 | Megan Phillips |
 | 289 | 286 | Ryan Gunther |
-| 290 | 285 | Jánine Riggs |
-| 291 | 285 | June E Hanson |
+| 290 | 285 | June E Hanson |
+| 291 | 285 | Jánine Riggs |
 | 292 | 283 | Davetta Sanford |
 | 293 | 282 | Carl Bradshaw |
 | 294 | 282 | Shaun Church |
@@ -310,8 +310,8 @@
 | 302 | 276 | Lindsey Leigh |
 | 303 | 276 | Vonceial Boone |
 | 304 | 275 | Cheeky Brickmatch |
-| 305 | 275 | Shiny Rollzone |
-| 306 | 275 | Ann Matzkanin |
+| 305 | 275 | Ann Matzkanin |
+| 306 | 275 | Shiny Rollzone |
 | 307 | 274 | Jamie Stevey |
 | 308 | 274 | Melissa Holsinger |
 | 309 | 274 | Lonne Emade |
@@ -351,8 +351,8 @@
 | 343 | 250 | Steve Man |
 | 344 | 249 | Porsche' Nicole |
 | 345 | 249 | Nicky Jackson |
-| 346 | 248 | Warren Marleau |
-| 347 | 248 | Andrea Maher |
+| 346 | 248 | Andrea Maher |
+| 347 | 248 | Warren Marleau |
 | 348 | 248 | Dany Murillo |
 | 349 | 248 | Bubbly Snapfit |
 | 350 | 248 | Maddy Petersen |
@@ -360,8 +360,8 @@
 | 352 | 247 | Fancy Twister |
 | 353 | 247 | Andrea Devery Beck |
 | 354 | 246 | Kathryn Townsley |
-| 355 | 246 | Stephanie Lumanlan |
-| 356 | 246 | Ashley Lopez |
+| 355 | 246 | Ashley Lopez |
+| 356 | 246 | Stephanie Lumanlan |
 | 357 | 245 | Rachael Senard |
 | 358 | 245 | Sanaa Nounoussa |
 | 359 | 244 | Aimee Byrom |
@@ -369,8 +369,8 @@
 | 361 | 242 | Lawanda Forbes |
 | 362 | 242 | Donna Chandler |
 | 363 | 241 | Sabrina Burton |
-| 364 | 240 | Adam Erikson |
-| 365 | 240 | Angie Marie |
+| 364 | 240 | Angie Marie |
+| 365 | 240 | Adam Erikson |
 | 366 | 238 | Cheery Matchzone |
 | 367 | 236 | Frisky Riserbuilder |
 | 368 | 236 | snkylnk |
@@ -503,8 +503,8 @@
 | 495 | 173 | Ocean-Brianna McGregor |
 | 496 | 171 | William Hunt |
 | 497 | 171 | Cappin You |
-| 498 | 170 | Dedra Steward |
-| 499 | 170 | Darlene Bowman |
+| 498 | 170 | Darlene Bowman |
+| 499 | 170 | Dedra Steward |
 | 500 | 170 | BTA |
 | 501 | 170 | Kenya Felix |
 | 502 | 169 | Eddie Perez |
