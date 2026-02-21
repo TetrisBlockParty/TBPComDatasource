@@ -91,8 +91,8 @@
 | 83 | 200 | mjl574 |
 | 84 | 199 | joclisa |
 | 85 | 195 | Nicha Hooker |
-| 86 | 193 | Clever Shiftsnap |
-| 87 | 193 | Shunta Jacobs |
+| 86 | 193 | Shunta Jacobs |
+| 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
 | 89 | 187 | Speedy Bridger |
 | 90 | 187 | Brandon Green |
@@ -137,11 +137,11 @@
 | 129 | 125 | Stephanie Simpson |
 | 130 | 125 | Felicia Doxey |
 | 131 | 123 | Kristie McFarland |
-| 132 | 122 | Shimika Enay Wallace |
-| 133 | 122 | Terry Jo Jones |
-| 134 | 121 | Boldy Corner |
-| 135 | 121 | Michael Latasha Gray |
-| 136 | 121 | Danielle Allison |
+| 132 | 122 | Terry Jo Jones |
+| 133 | 122 | Shimika Enay Wallace |
+| 134 | 121 | Danielle Allison |
+| 135 | 121 | Boldy Corner |
+| 136 | 121 | Michael Latasha Gray |
 | 137 | 120 | Elaine Webb Graves |
 | 138 | 120 | Jessica |
 | 139 | 118 | Fancy Curver |
