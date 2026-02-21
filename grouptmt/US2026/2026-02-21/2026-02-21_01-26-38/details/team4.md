@@ -69,8 +69,8 @@
 | 61 | 106 | Zany Shatterer |
 | 62 | 101 | Michelle Morris |
 | 63 | 100 | Andria Lynn |
-| 64 | 98 | Duck |
-| 65 | 98 | Stephme310 |
+| 64 | 98 | Stephme310 |
+| 65 | 98 | Duck |
 | 66 | 97 | YoMomma |
 | 67 | 96 | TinyLegoRose |
 | 68 | 96 | Zappy Snaplink |

@@ -85,8 +85,8 @@
 | 77 | 149 | Trisha Balmer |
 | 78 | 144 | Denita Mungro |
 | 79 | 143 | ren |
-| 80 | 135 | Latoya Mayne |
-| 81 | 135 | Nicole Flippo |
+| 80 | 135 | Nicole Flippo |
+| 81 | 135 | Latoya Mayne |
 | 82 | 134 | DanceLuvLaugh |
 | 83 | 131 | Emma |
 | 84 | 129 | Ashley Tookes |
