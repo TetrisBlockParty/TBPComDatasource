@@ -354,8 +354,8 @@
 | 346 | 384 | Mike Aprilliano |
 | 347 | 383 | Arkei Luster |
 | 348 | 382 | David Holliday |
-| 349 | 381 | Melissa Rebbe-Lehman |
-| 350 | 381 | Bubbly Snapfit |
+| 349 | 381 | Bubbly Snapfit |
+| 350 | 381 | Melissa Rebbe-Lehman |
 | 351 | 378 | Christina Ashley |
 | 352 | 378 | TF Dyer |
 | 353 | 378 | Cody Nishimura |
@@ -848,7 +848,7 @@
 | 840 | 164 | Michelle Loar |
 | 841 | 164 | Kyle LeRoy Harris |
 | 842 | 164 | Ty Quarles |
-| 843 | 164 | Kyle LeRoy Harris |
+| 843 | 164 | Leslie |
 | 844 | 163 | Tiffney Wroten |
 | 845 | 163 | Jacob Huffman |
 | 846 | 163 | Epic Fitzone |

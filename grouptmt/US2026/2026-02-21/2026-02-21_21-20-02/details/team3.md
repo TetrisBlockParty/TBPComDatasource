@@ -103,13 +103,13 @@
 | 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Hasty Cascadefit |
-| 99 | 390 | Annie Déè |
+| 98 | 390 | Annie Déè |
+| 99 | 390 | Hasty Cascadefit |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Makelini Mausia |
-| 104 | 378 | Tasha Schriewer |
+| 103 | 378 | Tasha Schriewer |
+| 104 | 378 | Makelini Mausia |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Woods |
@@ -122,8 +122,8 @@
 | 114 | 347 | Darlene McMillan |
 | 115 | 332 | Chauntee Alfrey-Cardinale |
 | 116 | 327 | Dapper Snap |
-| 117 | 323 | Ashley Raines |
-| 118 | 323 | Sherry Ogden |
+| 117 | 323 | Sherry Ogden |
+| 118 | 323 | Ashley Raines |
 | 119 | 320 | Or Reznitsky |
 | 120 | 318 | Chasity |
 | 121 | 316 | Fancy Cascader |
@@ -174,9 +174,9 @@
 | 166 | 219 | Shunta Jacobs |
 | 167 | 218 | LaNette Morgan |
 | 168 | 217 | Jess Bissett |
-| 169 | 214 | Jenny Hrndz |
+| 169 | 214 | Amy Fuller Heaton |
 | 170 | 214 | Domo Washington |
-| 171 | 214 | Amy Fuller Heaton |
+| 171 | 214 | Jenny Hrndz |
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Katrina Turner |
 | 174 | 211 | Khaleada McGill Banks |
@@ -226,8 +226,8 @@
 | 218 | 168 | MsBee |
 | 219 | 168 | JerseyJess |
 | 220 | 167 | Raven Dudley |
-| 221 | 166 | Betty Rosas |
-| 222 | 166 | Beth Ingham |
+| 221 | 166 | Beth Ingham |
+| 222 | 166 | Betty Rosas |
 | 223 | 165 | Kali Kelz Williams |
 | 224 | 163 | Stephanie Hill |
 | 225 | 163 | Christine Trester |
