@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -141,8 +141,8 @@
 | 133 | 180 | Tessina Dewey-Mancino |
 | 134 | 179 | Joye Sims Binion |
 | 135 | 179 | Daira Largen |
-| 136 | 178 | AlsoJess |
-| 137 | 178 | Khaleada McGill Banks |
+| 136 | 178 | Khaleada McGill Banks |
+| 137 | 178 | AlsoJess |
 | 138 | 176 | Ryan Williams |
 | 139 | 169 | Sissy Lowery Davis |
 | 140 | 167 | Raven Dudley |
@@ -258,8 +258,8 @@
 | 250 | 99 | Nichol Graham |
 | 251 | 98 | Erika Thornton |
 | 252 | 98 | Armi |
-| 253 | 98 | Jocelyne Baca |
-| 254 | 98 | Funky Jumper |
+| 253 | 98 | Funky Jumper |
+| 254 | 98 | Jocelyne Baca |
 | 255 | 97 | Ashley Jones |
 | 256 | 96 | D3NO |
 | 257 | 96 | Christopher Woost |
@@ -270,9 +270,9 @@
 | 262 | 94 | Angie Harper |
 | 263 | 94 | Andrew Thorson |
 | 264 | 93 | Tiffany Ford |
-| 265 | 92 | Jennifer Caputo |
-| 266 | 92 | Ava Petito |
-| 267 | 92 | Trice Thomas |
+| 265 | 92 | Ava Petito |
+| 266 | 92 | Trice Thomas |
+| 267 | 92 | Jennifer Caputo |
 | 268 | 92 | Jackie-Lynne Goertzen |
 | 269 | 91 | Martin Bernier |
 | 270 | 90 | Whitney Manuel |

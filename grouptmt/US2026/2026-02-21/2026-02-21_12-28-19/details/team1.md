@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Amanda Summey Schoemer |
-| 22 | 511 | Jen Sartain |
+| 21 | 511 | Jen Sartain |
+| 22 | 511 | Amanda Summey Schoemer |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 311 | Michelle Nicole |
 | 38 | 305 | Jennifer Cates |
@@ -119,10 +119,10 @@
 | 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
-| 114 | 133 | Brandi Huntington |
-| 115 | 133 | Breanna Luna |
-| 116 | 132 | LaQuetta Faith Hines |
-| 117 | 132 | Davery Spencer Adair |
+| 114 | 133 | Breanna Luna |
+| 115 | 133 | Brandi Huntington |
+| 116 | 132 | Davery Spencer Adair |
+| 117 | 132 | LaQuetta Faith Hines |
 | 118 | 131 | Uhog SF |
 | 119 | 130 | Dandy Basegrid |
 | 120 | 129 | Dino |
@@ -323,7 +323,7 @@
 | 315 | 55 | Mary Love |
 | 316 | 54 | MIKOZ |
 | 317 | 54 | Odell Barnett |
-| 318 | 54 | MIKOZ |
+| 318 | 54 | Tipsy Tiltpiece |
 | 319 | 54 | Theeranart Mahawan |
 | 320 | 53 | FableGray |
 | 321 | 53 | Tazz |

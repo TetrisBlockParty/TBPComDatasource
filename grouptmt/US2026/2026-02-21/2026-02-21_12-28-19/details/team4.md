@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
@@ -108,11 +108,11 @@
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Serena Goodridge |
-| 104 | 134 | Chirpy Basepiece |
-| 105 | 134 | Jessica Bohlken |
+| 103 | 134 | Jessica Bohlken |
+| 104 | 134 | Serena Goodridge |
+| 105 | 134 | Chirpy Basepiece |
 | 106 | 133 | Robin Watters |
-| 107 | 132 | Melissa Priest Sellers |
+| 107 | 132 | Jessica Cagle |
 | 108 | 132 | Jenna McGeorge |
 | 109 | 132 | Degenerate |
 | 110 | 132 | Melissa Priest Sellers |
@@ -175,8 +175,8 @@
 | 167 | 95 | Meagan Nicole |
 | 168 | 95 | Victoria Faniel |
 | 169 | 94 | Kim Hunt |
-| 170 | 94 | DonMega |
-| 171 | 94 | Chastity Mitchell |
+| 170 | 94 | Chastity Mitchell |
+| 171 | 94 | DonMega |
 | 172 | 93 | Zesty Twistbuilder |
 | 173 | 92 | Sammy Noguera |
 | 174 | 92 | Misty Hollibaugh |
