@@ -166,8 +166,8 @@
 | 158 | 620 | BYM4L |
 | 159 | 619 | Jamie Otero |
 | 160 | 613 | Rebecca Doughman |
-| 161 | 608 | John Bednarik |
-| 162 | 608 | Sommer Shope |
+| 161 | 608 | Sommer Shope |
+| 162 | 608 | John Bednarik |
 | 163 | 604 | Amber Shoemaker |
 | 164 | 604 | Danielle Johnson-Chandler |
 | 165 | 603 | Cassie Maynard |
@@ -192,8 +192,8 @@
 | 184 | 541 | SaraMarie Eveland |
 | 185 | 541 | Giggy Blocker |
 | 186 | 535 | Jessie McDougald |
-| 187 | 534 | Teresa Gillmore |
-| 188 | 534 | Stephen Stephen |
+| 187 | 534 | Stephen Stephen |
+| 188 | 534 | Teresa Gillmore |
 | 189 | 531 | Chris Wanner |
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |

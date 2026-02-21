@@ -69,8 +69,8 @@
 | 61 | 318 | Nugget |
 | 62 | 309 | Lisa Davis |
 | 63 | 308 | Jen Allison |
-| 64 | 300 | David Lay |
-| 65 | 300 | Jason Hart |
+| 64 | 300 | Jason Hart |
+| 65 | 300 | David Lay |
 | 66 | 299 | Livvy |
 | 67 | 295 | Latisha Davis |
 | 68 | 293 | HastyGrabber |
@@ -96,8 +96,8 @@
 | 88 | 202 | Monica Daley |
 | 89 | 201 | shar |
 | 90 | 200 | Holly Jolly |
-| 91 | 198 | Dustee Craddock-Harrison |
-| 92 | 198 | Mike Solo |
+| 91 | 198 | Mike Solo |
+| 92 | 198 | Dustee Craddock-Harrison |
 | 93 | 196 | Jeff Brian Gates |
 | 94 | 194 | Calvin Cannon |
 | 95 | 194 | Zany Twisterfit |
@@ -190,7 +190,7 @@
 | 182 | 112 | Bryan Hodgins |
 | 183 | 112 | Zesty Twistbuilder |
 | 184 | 112 | Austin Owens |
-| 185 | 112 | Zesty Twistbuilder |
+| 185 | 112 | Jeremy Steines |
 | 186 | 111 | Lazy Blocker |
 | 187 | 111 | Kristin MacDonald |
 | 188 | 111 | Michelle Morris |

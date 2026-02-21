@@ -151,8 +151,8 @@
 | 143 | 219 | Tom Nault |
 | 144 | 217 | Jess Bissett |
 | 145 | 216 | Aaron Pitkin |
-| 146 | 214 | Amy Fuller Heaton |
-| 147 | 214 | Jenny Hrndz |
+| 146 | 214 | Jenny Hrndz |
+| 147 | 214 | Amy Fuller Heaton |
 | 148 | 214 | Leah Barnett |
 | 149 | 212 | Krystal Gerstberger |
 | 150 | 211 | Katrina Schroeder |
@@ -303,16 +303,16 @@
 | 295 | 108 | LaTanya GeminiondaRise Johnson |
 | 296 | 108 | Hanna Kim |
 | 297 | 107 | Jumpy Wrecker |
-| 298 | 107 | Bouncy Blockbuilder |
-| 299 | 107 | Melissa Snyder |
+| 298 | 107 | Melissa Snyder |
+| 299 | 107 | Bouncy Blockbuilder |
 | 300 | 106 | Cheeky Snapper |
 | 301 | 106 | Saucy Buildout |
 | 302 | 105 | Donna |
-| 303 | 105 | Boldy Blocker |
-| 304 | 105 | FATTY |
-| 305 | 105 | Emi |
-| 306 | 104 | bean |
-| 307 | 104 | Samantha Lynn |
+| 303 | 105 | FATTY |
+| 304 | 105 | Emi |
+| 305 | 105 | Boldy Blocker |
+| 306 | 104 | Samantha Lynn |
+| 307 | 104 | bean |
 | 308 | 104 | Ashley Rufus Bythcez |
 | 309 | 103 | Lisa Lisa |
 | 310 | 103 | Andrew Thorson |
@@ -409,7 +409,7 @@
 | 401 | 79 | Rayzer |
 | 402 | 79 | Brittany K Ward |
 | 403 | 79 | Jessie Chung |
-| 404 | 79 | Rayzer |
+| 404 | 79 | fraulila |
 | 405 | 79 | Bleu Sun Beams |
 | 406 | 78 | Myriam Lapierre |
 | 407 | 78 | Clever Patterner |

@@ -184,12 +184,12 @@
 | 176 | 122 | Margo Wagner |
 | 177 | 122 | Melissa Lemmon |
 | 178 | 121 | April Carroll |
-| 179 | 120 | Alenoush Karimian |
-| 180 | 120 | Kimmie Kimms |
+| 179 | 120 | Kimmie Kimms |
+| 180 | 120 | Alenoush Karimian |
 | 181 | 119 | Tater |
 | 182 | 116 | Jessica Russell |
-| 183 | 115 | Mrs.Patrica |
-| 184 | 115 | Chuck Gannon |
+| 183 | 115 | Chuck Gannon |
+| 184 | 115 | Mrs.Patrica |
 | 185 | 113 | Desiree Deschaine Havee |
 | 186 | 112 | Chris65 |
 | 187 | 111 | Rachel Nichole Henry |
