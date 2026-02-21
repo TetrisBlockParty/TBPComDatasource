@@ -112,14 +112,14 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | James Simms III |
-| 108 | 789 | Stephanie Chapman |
+| 107 | 789 | Stephanie Chapman |
+| 108 | 789 | James Simms III |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
 | 112 | 771 | Terri McKelvey McKinley |
-| 113 | 763 | Samantha Jo |
-| 114 | 763 | Robin Kerby |
+| 113 | 763 | Robin Kerby |
+| 114 | 763 | Samantha Jo |
 | 115 | 759 | Jose Mendoza |
 | 116 | 756 | Stephanie Neuburger |
 | 117 | 751 | Loony Snapper |
@@ -132,11 +132,11 @@
 | 124 | 705 | Roger Grabbit |
 | 125 | 705 | Nika Bee |
 | 126 | 704 | Nerdy Clearfit |
-| 127 | 703 | YiFei |
-| 128 | 703 | Cynthia Ward |
+| 127 | 703 | Cynthia Ward |
+| 128 | 703 | YiFei |
 | 129 | 700 | Vincent Petrella |
-| 130 | 700 | Rosemadder |
-| 131 | 700 | Beverly Owens |
+| 130 | 700 | Beverly Owens |
+| 131 | 700 | Rosemadder |
 | 132 | 698 | Lola Contreras |
 | 133 | 697 | Real Ri |
 | 134 | 694 | Vo'Landa Reels |
@@ -151,8 +151,8 @@
 | 143 | 659 | Poldo Ilano |
 | 144 | 658 | Pacynthia Williams |
 | 145 | 651 | Unica Rector |
-| 146 | 650 | Claire Noland |
-| 147 | 650 | Shiny Rollzone |
+| 146 | 650 | Shiny Rollzone |
+| 147 | 650 | Claire Noland |
 | 148 | 641 | Ricardo Burton |
 | 149 | 634 | Ariel |
 | 150 | 632 | Beth |
@@ -268,8 +268,8 @@
 | 260 | 405 | Sarah Massey |
 | 261 | 405 | Christy Krissie |
 | 262 | 402 | Joshua Mandel |
-| 263 | 400 | Rhonda Milstead |
-| 264 | 400 | Tammy Allen |
+| 263 | 400 | Tammy Allen |
+| 264 | 400 | Rhonda Milstead |
 | 265 | 398 | Mr. Street Stack |
 | 266 | 397 | coleksquad |
 | 267 | 396 | Steven Marshaun |
@@ -285,8 +285,8 @@
 | 277 | 391 | Brenda Utphall |
 | 278 | 390 | Kimberly Randesi |
 | 279 | 389 | Kristen O'Neal |
-| 280 | 386 | Macy Williams |
-| 281 | 386 | Deanna Morton |
+| 280 | 386 | Deanna Morton |
+| 281 | 386 | Macy Williams |
 | 282 | 385 | Sam |
 | 283 | 385 | Dedra Steward |
 | 284 | 383 | Arkei Luster |

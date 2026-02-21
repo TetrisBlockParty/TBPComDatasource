@@ -103,8 +103,8 @@
 | 95 | 359 | Jessica Bechler |
 | 96 | 356 | Adrian Marcel Pate |
 | 97 | 352 | Trezure Gonzalez |
-| 98 | 350 | Shannon Matthew Byers |
-| 99 | 350 | Speedy Bridger |
+| 98 | 350 | Speedy Bridger |
+| 99 | 350 | Shannon Matthew Byers |
 | 100 | 344 | Joey Banks |
 | 101 | 342 | Tiff Vs Tiffany |
 | 102 | 332 | Chauntee Alfrey-Cardinale |
@@ -245,8 +245,8 @@
 | 237 | 133 | LaNette Morgan |
 | 238 | 132 | Daryn Elliott |
 | 239 | 131 | Darlene McMillan |
-| 240 | 130 | Weerae |
-| 241 | 130 | Tasha Wesson-Torrence |
+| 240 | 130 | Tasha Wesson-Torrence |
+| 241 | 130 | Weerae |
 | 242 | 129 | Juliana Dottore |
 | 243 | 128 | Jen Lewis |
 | 244 | 128 | Cesar Barraza |

@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Dee Kay |
-| 24 | 590 | Valerie Roberts |
+| 23 | 590 | Valerie Roberts |
+| 24 | 590 | Dee Kay |
 | 25 | 589 | Chilly Line |
 | 26 | 565 | Breannah Grafe |
 | 27 | 546 | LisaJo Picken Buchanan |
@@ -91,8 +91,8 @@
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Monica Daley |
-| 87 | 200 | Holly Jolly |
+| 86 | 200 | Holly Jolly |
+| 87 | 200 | Monica Daley |
 | 88 | 198 | Dustee Craddock-Harrison |
 | 89 | 198 | Mike Solo |
 | 90 | 194 | Calvin Cannon |
@@ -105,8 +105,8 @@
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leah Kutz Zirbel |
-| 101 | 180 | Leslie Nicole |
+| 100 | 180 | Leslie Nicole |
+| 101 | 180 | Leah Kutz Zirbel |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -118,9 +118,9 @@
 | 110 | 170 | Girl |
 | 111 | 170 | Peachy Fall |
 | 112 | 164 | ThaEviLJeNiuZ |
-| 113 | 160 | ZeeZee |
-| 114 | 160 | Stacey Stano |
-| 115 | 160 | Crystal Carroll |
+| 113 | 160 | Crystal Carroll |
+| 114 | 160 | ZeeZee |
+| 115 | 160 | Stacey Stano |
 | 116 | 157 | quicksand420 |
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |
