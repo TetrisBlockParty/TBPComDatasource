@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Lawrence Belanger |
-| 36 | 508 | Michelle Nicole |
+| 35 | 508 | Michelle Nicole |
+| 36 | 508 | Lawrence Belanger |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -66,8 +66,8 @@
 | 58 | 293 | Adam Byrd |
 | 59 | 287 | Hyper |
 | 60 | 286 | Tipsy Column |
-| 61 | 285 | Sweet Baker |
-| 62 | 285 | Carrie Beck Geartz |
+| 61 | 285 | Carrie Beck Geartz |
+| 62 | 285 | Sweet Baker |
 | 63 | 281 | Shauna Loe |
 | 64 | 277 | Timothy Dew |
 | 65 | 274 | Theo Pinnow |
@@ -90,8 +90,8 @@
 | 82 | 226 | Sharon Reynolds |
 | 83 | 223 | TSwag |
 | 84 | 222 | Kristen Gideon |
-| 85 | 213 | Lexuriuos Lifestlye |
-| 86 | 213 | Billie Dawn Sparks |
+| 85 | 213 | Billie Dawn Sparks |
+| 86 | 213 | Lexuriuos Lifestlye |
 | 87 | 212 | Jaimie Lynn |
 | 88 | 212 | Mandyy Rae |
 | 89 | 211 | Marianita Garcia |
@@ -127,8 +127,8 @@
 | 119 | 166 | Tana |
 | 120 | 166 | Rico Rico |
 | 121 | 165 | Veronica Eve |
-| 122 | 163 | Kellie |
-| 123 | 163 | Tyler Whitley |
+| 122 | 163 | Tyler Whitley |
+| 123 | 163 | Kellie |
 | 124 | 162 | Tanya Carpenter-Reynolds |
 | 125 | 161 | Jessie Lynn |
 | 126 | 157 | Snippy Wipebuilder |
@@ -183,8 +183,8 @@
 | 175 | 122 | Margo Wagner |
 | 176 | 122 | Melissa Lemmon |
 | 177 | 121 | April Carroll |
-| 178 | 120 | Kimmie Kimms |
-| 179 | 120 | Alenoush Karimian |
+| 178 | 120 | Alenoush Karimian |
+| 179 | 120 | Kimmie Kimms |
 | 180 | 119 | Tater |
 | 181 | 116 | Jessica Russell |
 | 182 | 115 | Mrs.Patrica |
@@ -222,10 +222,10 @@
 | 214 | 101 | Loony Fitzone |
 | 215 | 101 | Jessie |
 | 216 | 100 | Tami Luce Martin |
-| 217 | 100 | Cheeky Pop |
-| 218 | 100 | Debbie Davis |
+| 217 | 100 | Debbie Davis |
+| 218 | 100 | Jessica Weed |
 | 219 | 100 | Plucky Fallzone |
-| 220 | 100 | Jessica Weed |
+| 220 | 100 | Cheeky Pop |
 | 221 | 99 | Barrbaric |
 | 222 | 98 | DoodleBug |
 | 223 | 97 | Steve Bomkamp |

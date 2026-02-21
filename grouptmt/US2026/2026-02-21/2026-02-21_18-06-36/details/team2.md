@@ -119,8 +119,8 @@
 | 111 | 780 | Amanda Grohmann |
 | 112 | 772 | Megan Ferguson Leone |
 | 113 | 771 | Terri McKelvey McKinley |
-| 114 | 763 | Samantha Jo |
-| 115 | 763 | Robin Kerby |
+| 114 | 763 | Robin Kerby |
+| 115 | 763 | Samantha Jo |
 | 116 | 759 | Jose Mendoza |
 | 117 | 756 | Stephanie Neuburger |
 | 118 | 751 | Loony Snapper |
@@ -155,8 +155,8 @@
 | 147 | 661 | Debra Williams |
 | 148 | 659 | Poldo Ilano |
 | 149 | 651 | Unica Rector |
-| 150 | 650 | Shiny Rollzone |
-| 151 | 650 | Claire Noland |
+| 150 | 650 | Claire Noland |
+| 151 | 650 | Shiny Rollzone |
 | 152 | 641 | Ricardo Burton |
 | 153 | 632 | Beth |
 | 154 | 631 | Peppy Zone |
@@ -240,8 +240,8 @@
 | 232 | 469 | Ashley Rose Frederick |
 | 233 | 467 | Scott Treadway |
 | 234 | 465 | Drwatson187 |
-| 235 | 464 | Nett |
-| 236 | 464 | Ryan Gunther |
+| 235 | 464 | Ryan Gunther |
+| 236 | 464 | Nett |
 | 237 | 463 | Sue Leard |
 | 238 | 460 | Amélie Cadieux |
 | 239 | 460 | Cody Smith-Candelaria |
@@ -627,8 +627,8 @@
 | 619 | 188 | Sassy Linkroll |
 | 620 | 188 | Snippy Rumbler |
 | 621 | 187 | Angel |
-| 622 | 187 | Brandon McDonald |
-| 623 | 187 | Josh Dill |
+| 622 | 187 | Josh Dill |
+| 623 | 187 | Brandon McDonald |
 | 624 | 186 | Adam Simmons |
 | 625 | 186 | Doowop40 |
 | 626 | 186 | Joshua Mullings |

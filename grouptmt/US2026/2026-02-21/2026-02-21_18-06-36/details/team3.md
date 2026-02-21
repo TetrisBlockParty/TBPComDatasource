@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Natasha Jones |
-| 59 | 528 | Giddy Drop |
+| 58 | 528 | Giddy Drop |
+| 59 | 528 | Natasha Jones |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -301,8 +301,8 @@
 | 293 | 109 | Diana Ibarra |
 | 294 | 108 | LaTanya GeminiondaRise Johnson |
 | 295 | 108 | Hanna Kim |
-| 296 | 107 | Jumpy Wrecker |
-| 297 | 107 | Melissa Snyder |
+| 296 | 107 | Melissa Snyder |
+| 297 | 107 | Jumpy Wrecker |
 | 298 | 107 | Bouncy Blockbuilder |
 | 299 | 106 | Cheeky Snapper |
 | 300 | 106 | Saucy Buildout |
@@ -318,8 +318,8 @@
 | 310 | 103 | Wetwet |
 | 311 | 103 | Andrew Thorson |
 | 312 | 102 | Criss |
-| 313 | 102 | Rania Zaqout |
-| 314 | 102 | Christian Luna |
+| 313 | 102 | Christian Luna |
+| 314 | 102 | Rania Zaqout |
 | 315 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 316 | 101 | Hyper Bridger |
 | 317 | 100 | Edwin Calvillo Jr. |
