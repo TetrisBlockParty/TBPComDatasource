@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -166,8 +166,8 @@
 | 158 | 219 | Shunta Jacobs |
 | 159 | 218 | LaNette Morgan |
 | 160 | 217 | Jess Bissett |
-| 161 | 214 | Amy Fuller Heaton |
-| 162 | 214 | Jenny Hrndz |
+| 161 | 214 | Jenny Hrndz |
+| 162 | 214 | Amy Fuller Heaton |
 | 163 | 212 | Krystal Gerstberger |
 | 164 | 211 | Katrina Turner |
 | 165 | 207 | rnr junky |
@@ -176,8 +176,8 @@
 | 168 | 207 | Nicole Myers |
 | 169 | 203 | Twisty Brick LT |
 | 170 | 201 | Ashley Tookes |
-| 171 | 200 | glichmod |
-| 172 | 200 | Sharisse Baltimore |
+| 171 | 200 | Sharisse Baltimore |
+| 172 | 200 | glichmod |
 | 173 | 197 | Staci George Fitzsimmons |
 | 174 | 195 | Michael Lucado |
 | 175 | 195 | Nicha Hooker |

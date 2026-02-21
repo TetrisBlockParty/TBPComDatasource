@@ -126,8 +126,8 @@
 | 118 | 843 | Suki Kaur |
 | 119 | 821 | Cynthia Ward |
 | 120 | 820 | Andea Beck |
-| 121 | 815 | blarg |
-| 122 | 815 | Cindy Sechler Taninecz |
+| 121 | 815 | Cindy Sechler Taninecz |
+| 122 | 815 | blarg |
 | 123 | 802 | Robin Kerby |
 | 124 | 801 | Tralonda Weeks |
 | 125 | 800 | Tacara Cummings |
@@ -191,8 +191,8 @@
 | 183 | 619 | Jamie Otero |
 | 184 | 619 | Chirpy Staggerpiece |
 | 185 | 613 | Melissa Holsinger |
-| 186 | 608 | Sommer Shope |
-| 187 | 608 | John Bednarik |
+| 186 | 608 | John Bednarik |
+| 187 | 608 | Sommer Shope |
 | 188 | 604 | Danielle Johnson-Chandler |
 | 189 | 603 | Cassie Maynard |
 | 190 | 597 | Erica Williams |

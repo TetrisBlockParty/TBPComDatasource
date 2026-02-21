@@ -132,8 +132,8 @@
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
 | 126 | 176 | Stacey Stano |
-| 127 | 174 | Dihcheese444 |
-| 128 | 174 | shark tato |
+| 127 | 174 | shark tato |
+| 128 | 174 | Dihcheese444 |
 | 129 | 174 | Zethra Prenisha Rahming |
 | 130 | 173 | Ren Mc |
 | 131 | 173 | blockstar |
@@ -143,11 +143,11 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Jessica Bohlken |
-| 139 | 156 | Holly |
+| 138 | 156 | Holly |
+| 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Bethany Ison |
-| 142 | 151 | Avy Absol |
+| 141 | 151 | Avy Absol |
+| 142 | 151 | Bethany Ison |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -247,9 +247,9 @@
 | 239 | 100 | Maureen Flanigan |
 | 240 | 100 | Alexandra Karavias |
 | 241 | 99 | Michael Orris |
-| 242 | 98 | Perky Piecegrid |
+| 242 | 98 | Bradley Reeves |
 | 243 | 98 | Sam Bishop |
-| 244 | 98 | Bradley Reeves |
+| 244 | 98 | Perky Piecegrid |
 | 245 | 97 | Jen Caldwell |
 | 246 | 97 | Rosemary Foster |
 | 247 | 96 | Sammy Noguera |
@@ -260,7 +260,7 @@
 | 252 | 95 | Patron Anderson |
 | 253 | 95 | LS |
 | 254 | 95 | Meagan Nicole |
-| 255 | 94 | Marcela Johnson |
+| 255 | 94 | DonMega |
 | 256 | 94 | Madison Sweere |
 | 257 | 94 | Marcela Johnson |
 | 258 | 93 | Tina Martinez |
@@ -299,8 +299,8 @@
 | 291 | 83 | Daresha Fair |
 | 292 | 83 | Abigail Murphy |
 | 293 | 82 | Nick Gray |
-| 294 | 82 | bloat princess |
-| 295 | 82 | Kametsunoyaiba |
+| 294 | 82 | Kametsunoyaiba |
+| 295 | 82 | bloat princess |
 | 296 | 81 | TRCuse |
 | 297 | 80 | Jason Bosco |
 | 298 | 80 | GBR |

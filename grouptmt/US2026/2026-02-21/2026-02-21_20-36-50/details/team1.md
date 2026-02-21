@@ -107,8 +107,8 @@
 | 99 | 222 | Kristen Gideon |
 | 100 | 214 | Billie Dawn Sparks |
 | 101 | 213 | Lexuriuos Lifestlye |
-| 102 | 212 | Mandyy Rae |
-| 103 | 212 | Jaimie Lynn |
+| 102 | 212 | Jaimie Lynn |
+| 103 | 212 | Mandyy Rae |
 | 104 | 211 | Marianita Garcia |
 | 105 | 210 | Ly Phethmany |
 | 106 | 205 | Nicole Roseberry Weber |
@@ -126,12 +126,12 @@
 | 118 | 190 | Thorne Shumate |
 | 119 | 189 | Happy Basegrid |
 | 120 | 188 | Sam Williams |
-| 121 | 187 | Snippy Wipebuilder |
-| 122 | 187 | Plucky Ziggy |
+| 121 | 187 | Plucky Ziggy |
+| 122 | 187 | Snippy Wipebuilder |
 | 123 | 186 | Jennifer Olewnik Soborowski |
 | 124 | 182 | Spunky Piecebuilder |
-| 125 | 180 | BigWeenie69 |
-| 126 | 180 | Erez Yosef |
+| 125 | 180 | Erez Yosef |
+| 126 | 180 | BigWeenie69 |
 | 127 | 179 | Danielle Little-Daugherty |
 | 128 | 178 | Chad Atchley |
 | 129 | 177 | Michael |
@@ -360,9 +360,9 @@
 | 352 | 70 | Meri Mass |
 | 353 | 69 | Jamie Jury |
 | 354 | 69 | Mary Love |
-| 355 | 69 | JaPria Rodgers |
-| 356 | 69 | Speedy Liney |
-| 357 | 68 | Unelanuhi Belladonna Mystikal Bomar |
+| 355 | 69 | Speedy Liney |
+| 356 | 69 | JaPria Rodgers |
+| 357 | 68 | Amanda Johnson Huffman |
 | 358 | 68 | Swanky Crasher |
 | 359 | 68 | Nutty Spinblock |
 | 360 | 68 | Ariel Whittington |
