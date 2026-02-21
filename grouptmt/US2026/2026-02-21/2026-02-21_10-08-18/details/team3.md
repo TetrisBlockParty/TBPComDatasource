@@ -33,8 +33,8 @@
 | 25 | 852 | cowboy25469 |
 | 26 | 821 | Jessica Ann |
 | 27 | 818 | Delilah belle |
-| 28 | 810 | Zippy Strikesnap |
-| 29 | 810 | Shane Wilson Jr. |
+| 28 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Zippy Strikesnap |
 | 30 | 772 | Corie A. Brinson |
 | 31 | 733 | Chummy Shatterer |
 | 32 | 714 | Amber Jones |
@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Danielle Mogg |
-| 134 | 166 | Kelly Ann Child |
+| 133 | 166 | Kelly Ann Child |
+| 134 | 166 | Danielle Mogg |
 | 135 | 165 | Kali Kelz Williams |
 | 136 | 164 | rosy |
 | 137 | 163 | Giddy Twistbuilder |
@@ -148,8 +148,8 @@
 | 140 | 159 | Morgan Martinez |
 | 141 | 159 | Mcathen |
 | 142 | 158 | Grams |
-| 143 | 157 | Nicholas Roddy |
-| 144 | 157 | Patricia Gadsden |
+| 143 | 157 | Patricia Gadsden |
+| 144 | 157 | Nicholas Roddy |
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
@@ -184,9 +184,9 @@
 | 176 | 125 | Shimika Enay Wallace |
 | 177 | 125 | Felicia Doxey |
 | 178 | 124 | Cesar Barraza |
-| 179 | 123 | Terry Jo Jones |
-| 180 | 123 | Kristie McFarland |
-| 181 | 123 | Sarajane Lokan |
+| 179 | 123 | Kristie McFarland |
+| 180 | 123 | Sarajane Lokan |
+| 181 | 123 | Terry Jo Jones |
 | 182 | 122 | Giggly Brickroll |
 | 183 | 122 | Katrina E Jelks |
 | 184 | 121 | Danielle Allison |
@@ -217,8 +217,8 @@
 | 209 | 109 | Fredd Thomas |
 | 210 | 109 | Diana Ibarra |
 | 211 | 109 | Brave Brickster |
-| 212 | 108 | LaTanya GeminiondaRise Johnson |
-| 213 | 108 | Rachel Napper |
+| 212 | 108 | Rachel Napper |
+| 213 | 108 | LaTanya GeminiondaRise Johnson |
 | 214 | 107 | Sherry Ogden |
 | 215 | 106 | Desiree Gold |
 | 216 | 106 | Eon Harris |
@@ -234,8 +234,8 @@
 | 226 | 104 | Beppy |
 | 227 | 103 | BabyTonj Evans |
 | 228 | 102 | Christian Luna |
-| 229 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 230 | 101 | Hyper Bridger |
+| 229 | 101 | Hyper Bridger |
+| 230 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 231 | 100 | Demetrious Shaw Sr. |
 | 232 | 100 | Elizabeth Renee |
 | 233 | 100 | Edwin Calvillo Jr. |
@@ -259,9 +259,9 @@
 | 251 | 95 | MizzMonick Smith |
 | 252 | 94 | Angie Harper |
 | 253 | 93 | Tiffany Ford |
-| 254 | 92 | Jennifer Caputo |
-| 255 | 92 | Trice Thomas |
-| 256 | 92 | Ava Petito |
+| 254 | 92 | Trice Thomas |
+| 255 | 92 | Ava Petito |
+| 256 | 92 | Jennifer Caputo |
 | 257 | 91 | Martin Bernier |
 | 258 | 91 | Noettín Kan Zasnemoore |
 | 259 | 90 | Rebel124 |

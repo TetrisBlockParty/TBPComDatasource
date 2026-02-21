@@ -106,7 +106,7 @@
 | 98 | 132 | Jessica Cagle |
 | 99 | 131 | Dana Scott |
 | 100 | 131 | Mr. Party |
-| 101 | 131 | Dana Scott |
+| 101 | 131 | Zany Twisterfit |
 | 102 | 130 | Casey Jeffcoat |
 | 103 | 130 | Lucas J Sutton |
 | 104 | 129 | John Brunetti |
@@ -134,13 +134,13 @@
 | 126 | 112 | Brittany Marsh |
 | 127 | 112 | Austin Owens |
 | 128 | 112 | Bryan Hodgins |
-| 129 | 111 | Lazy Blocker |
-| 130 | 111 | Gwendolyn Pitcairn |
+| 129 | 111 | Gwendolyn Pitcairn |
+| 130 | 111 | Lazy Blocker |
 | 131 | 110 | H.R. Block |
 | 132 | 108 | Rio Rocha |
-| 133 | 107 | TinyLegoRose |
-| 134 | 107 | Marcus Todd |
-| 135 | 105 | Sam Middleton |
+| 133 | 107 | Marcus Todd |
+| 134 | 107 | TinyLegoRose |
+| 135 | 105 | 🥔🥔 Spudz |
 | 136 | 105 | Jason Hart |
 | 137 | 105 | TheNeesh50 |
 | 138 | 105 | AyeKay |
@@ -320,8 +320,8 @@
 | 312 | 54 | Sam Bishop |
 | 313 | 53 | Allison Judith |
 | 314 | 53 | Poppy Brickmatch |
-| 315 | 52 | Nerdy Twisterfit |
-| 316 | 52 | Chassidy Martin |
+| 315 | 52 | Chassidy Martin |
+| 316 | 52 | Nerdy Twisterfit |
 | 317 | 51 | Frank Cook |
 | 318 | 51 | George Nutt |
 | 319 | 50 | Elie Pean |

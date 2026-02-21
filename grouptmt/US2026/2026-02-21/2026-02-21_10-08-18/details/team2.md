@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Katrina Williams Balmir |
-| 38 | 1173 | Devin Lee |
+| 37 | 1173 | Devin Lee |
+| 38 | 1173 | Katrina Williams Balmir |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1143 | Lucky Ladybug |
@@ -110,8 +110,8 @@
 | 102 | 658 | Vistabrat |
 | 103 | 658 | Pacynthia Williams |
 | 104 | 653 | Becky Weeks-Garry |
-| 105 | 649 | Stephanie Chapman |
-| 106 | 649 | Anna Edwards |
+| 105 | 649 | Anna Edwards |
+| 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
 | 109 | 631 | Peppy Zone |
@@ -258,15 +258,15 @@
 | 250 | 303 | Crystal Greene |
 | 251 | 303 | Amanda Schaffer |
 | 252 | 301 | Claire |
-| 253 | 299 | Deborah Miller |
-| 254 | 299 | Christy Krissie |
+| 253 | 299 | Christy Krissie |
+| 254 | 299 | Deborah Miller |
 | 255 | 297 | Brenda Utphall |
 | 256 | 296 | Jennifer Casey-Kay |
 | 257 | 296 | Amber Gray |
 | 258 | 296 | Jennifer Darby |
 | 259 | 295 | Zany Clusterbuilder |
-| 260 | 295 | Diallo Sparkman |
-| 261 | 295 | Angela Bonquiqui Dinish |
+| 260 | 295 | Angela Bonquiqui Dinish |
+| 261 | 295 | Diallo Sparkman |
 | 262 | 293 | Scott Treadway |
 | 263 | 293 | David Holliday |
 | 264 | 292 | Cheech Dta |
@@ -274,8 +274,8 @@
 | 266 | 290 | Maya June |
 | 267 | 288 | Megan Phillips |
 | 268 | 286 | Ryan Gunther |
-| 269 | 285 | Jánine Riggs |
-| 270 | 285 | June E Hanson |
+| 269 | 285 | June E Hanson |
+| 270 | 285 | Jánine Riggs |
 | 271 | 283 | Davetta Sanford |
 | 272 | 282 | Carl Bradshaw |
 | 273 | 282 | Shaun Church |
@@ -349,8 +349,8 @@
 | 341 | 242 | Lawanda Forbes |
 | 342 | 242 | Hyper Cluster |
 | 343 | 241 | Sabrina Burton |
-| 344 | 240 | Angie Marie |
-| 345 | 240 | Adam Erikson |
+| 344 | 240 | Adam Erikson |
+| 345 | 240 | Angie Marie |
 | 346 | 239 | Roger Grabbit |
 | 347 | 238 | Cheery Matchzone |
 | 348 | 236 | Frisky Riserbuilder |
@@ -371,10 +371,10 @@
 | 363 | 228 | Michelle Sager |
 | 364 | 227 | Nutty Matchline |
 | 365 | 227 | Demeka Dangerous-kisses Johnson |
-| 366 | 227 | JacJac |
-| 367 | 227 | Sanaa Nounoussa |
-| 368 | 226 | Mary Marie |
-| 369 | 226 | Juliana Marques Do Nascimento Gordy |
+| 366 | 227 | Sanaa Nounoussa |
+| 367 | 227 | JacJac |
+| 368 | 226 | Juliana Marques Do Nascimento Gordy |
+| 369 | 226 | Mary Marie |
 | 370 | 226 | Leslie Ann Carter |
 | 371 | 223 | Kristi Biddinger |
 | 372 | 223 | LegoCarpet |
@@ -425,10 +425,10 @@
 | 417 | 193 | Kelly Ann McCormick |
 | 418 | 193 | Matthew Turner |
 | 419 | 191 | Lauren Fitzgerald Thomas |
-| 420 | 191 | Deana |
-| 421 | 191 | John Quiring |
-| 422 | 190 | Layna Lyons |
-| 423 | 190 | Jessica Kaye DeAguero |
+| 420 | 191 | John Quiring |
+| 421 | 191 | Deana |
+| 422 | 190 | Jessica Kaye DeAguero |
+| 423 | 190 | Layna Lyons |
 | 424 | 189 | Alishac Marie |
 | 425 | 188 | Seth Wrieden |
 | 426 | 188 | Justin Hines |
@@ -436,9 +436,9 @@
 | 428 | 186 | Joshua Mullings |
 | 429 | 186 | Jackie Jackie Lee |
 | 430 | 185 | Unica Rector |
-| 431 | 184 | Theresa Sterrett |
-| 432 | 184 | Regina Unruh |
-| 433 | 184 | Sassy Linkbuilder |
+| 431 | 184 | Sassy Linkbuilder |
+| 432 | 184 | Theresa Sterrett |
+| 433 | 184 | Regina Unruh |
 | 434 | 184 | Brittany Radaszewski |
 | 435 | 183 | HarleyJane |
 | 436 | 183 | Wakanda Forever |
@@ -449,8 +449,8 @@
 | 441 | 182 | Donna M Carter |
 | 442 | 182 | Steve Man |
 | 443 | 182 | Tamara Bailey |
-| 444 | 181 | Wacky Cascade |
-| 445 | 181 | Julay |
+| 444 | 181 | Julay |
+| 445 | 181 | Wacky Cascade |
 | 446 | 180 | Jackie Lucas |
 | 447 | 180 | Peter Palestino |
 | 448 | 179 | Desiree Harris Rosch |
@@ -483,8 +483,8 @@
 | 475 | 169 | Lively Catcher |
 | 476 | 168 | Phil J. Grombliniak |
 | 477 | 168 | Kati Russeau |
-| 478 | 167 | Sabrena Yeisley |
-| 479 | 167 | mshir |
+| 478 | 167 | mshir |
+| 479 | 167 | Sabrena Yeisley |
 | 480 | 166 | suuny |
 | 481 | 165 | Tara Lynn Janes |
 | 482 | 165 | Cathy Bitters |
@@ -496,8 +496,8 @@
 | 488 | 163 | Danielle Ayoub |
 | 489 | 163 | Lakeela Wise |
 | 490 | 163 | Albert McKnight |
-| 491 | 162 | LC Hamilton |
-| 492 | 162 | Michael Artis |
+| 491 | 162 | Michael Artis |
+| 492 | 162 | LC Hamilton |
 | 493 | 162 | Andrea Maher |
 | 494 | 160 | Lazy Riseclear |
 | 495 | 160 | Marcie McLain Dodd |
@@ -527,8 +527,8 @@
 | 519 | 156 | Deanna Morton |
 | 520 | 155 | Angela Murgia-Owen |
 | 521 | 155 | Cris cris |
-| 522 | 155 | Chelle |
-| 523 | 155 | Monarca26 |
+| 522 | 155 | Monarca26 |
+| 523 | 155 | Chelle |
 | 524 | 154 | Bryan Werleman |
 | 525 | 154 | Cini |
 | 526 | 154 | Lydia Greenman |

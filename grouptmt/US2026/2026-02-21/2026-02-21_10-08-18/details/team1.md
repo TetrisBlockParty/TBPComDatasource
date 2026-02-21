@@ -70,8 +70,8 @@
 | 62 | 198 | Billie Dawn Sparks |
 | 63 | 198 | Happy Snapbuild |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Giggly Builderline |
-| 66 | 194 | Sharon Reynolds |
+| 65 | 194 | Sharon Reynolds |
+| 66 | 194 | Giggly Builderline |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 193 | Bhelle Sumile |
 | 69 | 192 | Mandyy Rae |
