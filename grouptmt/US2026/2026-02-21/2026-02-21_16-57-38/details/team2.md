@@ -158,8 +158,8 @@
 | 150 | 614 | Robin Kerby |
 | 151 | 608 | Sommer Shope |
 | 152 | 608 | John Bednarik |
-| 153 | 604 | Danielle Johnson-Chandler |
-| 154 | 604 | Amber Shoemaker |
+| 153 | 604 | Amber Shoemaker |
+| 154 | 604 | Danielle Johnson-Chandler |
 | 155 | 603 | Cassie Maynard |
 | 156 | 602 | L3sli3 |
 | 157 | 596 | Thomas Hughes |
@@ -357,8 +357,8 @@
 | 349 | 317 | Zombi3 |
 | 350 | 316 | Oscar Bernie |
 | 351 | 314 | Amanda West |
-| 352 | 312 | Michelle Pike |
-| 353 | 312 | Andrea Maher |
+| 352 | 312 | Andrea Maher |
+| 353 | 312 | Michelle Pike |
 | 354 | 310 | Kristopher Miller |
 | 355 | 309 | James Zaragoza |
 | 356 | 307 | Catina Hutchison |
@@ -476,8 +476,8 @@
 | 468 | 237 | Ben Barkley |
 | 469 | 236 | snkylnk |
 | 470 | 236 | Julio A Laracuente |
-| 471 | 234 | Manny Trindade |
-| 472 | 234 | Jennifer Leigh |
+| 471 | 234 | Jennifer Leigh |
+| 472 | 234 | Manny Trindade |
 | 473 | 234 | Jaybee Nguyen |
 | 474 | 233 | Anita Rose Green |
 | 475 | 233 | Nutty Matchline |
@@ -543,9 +543,9 @@
 | 535 | 205 | ElizabethAnn Dickinson |
 | 536 | 205 | Tj Ball |
 | 537 | 205 | Joel Rosado |
-| 538 | 204 | Nicolle Danielle |
+| 538 | 204 | Brenna Ann |
 | 539 | 204 | Kimberly Ann |
-| 540 | 204 | Brenna Ann |
+| 540 | 204 | Nicolle Danielle |
 | 541 | 204 | Ryan Lauer |
 | 542 | 204 | Ali Gralski |
 | 543 | 202 | Layna Lyons |
@@ -668,8 +668,8 @@
 | 660 | 167 | Sabrena Yeisley |
 | 661 | 167 | Swanky Columnbuilder |
 | 662 | 166 | Gemini Washington |
-| 663 | 166 | Robin L. Vial |
-| 664 | 166 | Rhonda Petro |
+| 663 | 166 | Rhonda Petro |
+| 664 | 166 | Robin L. Vial |
 | 665 | 166 | William Hughes |
 | 666 | 166 | suuny |
 | 667 | 165 | Austin Wilson |

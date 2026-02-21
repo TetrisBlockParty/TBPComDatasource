@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -163,8 +163,8 @@
 | 155 | 193 | Clever Shiftsnap |
 | 156 | 191 | Giddy Twistbuilder |
 | 157 | 191 | Scott Carleton |
-| 158 | 189 | Staci George Fitzsimmons |
-| 159 | 189 | Sissy Lowery Davis |
+| 158 | 189 | Sissy Lowery Davis |
+| 159 | 189 | Staci George Fitzsimmons |
 | 160 | 189 | Fallorina Susana |
 | 161 | 188 | Angie Harper |
 | 162 | 186 | Rebel124 |
@@ -199,8 +199,8 @@
 | 191 | 159 | Jone |
 | 192 | 158 | Grams |
 | 193 | 157 | Nicholas Roddy |
-| 194 | 157 | Marci Mize Fandrich |
-| 195 | 157 | Patricia Gadsden |
+| 194 | 157 | Patricia Gadsden |
+| 195 | 157 | Marci Mize Fandrich |
 | 196 | 156 | Bea Miles |
 | 197 | 153 | Jessica |
 | 198 | 152 | Shiny Zonebuilder |
@@ -284,8 +284,8 @@
 | 276 | 107 | Melissa Snyder |
 | 277 | 107 | Jumpy Wrecker |
 | 278 | 107 | Bouncy Blockbuilder |
-| 279 | 106 | Cheeky Snapper |
-| 280 | 106 | Elizabeth Renee |
+| 279 | 106 | Elizabeth Renee |
+| 280 | 106 | Cheeky Snapper |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
 | 283 | 105 | Emi |
@@ -341,15 +341,15 @@
 | 333 | 92 | Melanie Sherwood |
 | 334 | 91 | Tammy Rosenberry |
 | 335 | 91 | Dee Pratt |
-| 336 | 90 | Snazzy Brickzone |
-| 337 | 90 | Flashy Rumbler |
-| 338 | 90 | Tiffany Kaupang |
-| 339 | 90 | Whitney Manuel |
-| 340 | 90 | Kellie Montgomery |
-| 341 | 90 | Alexis Ford |
-| 342 | 89 | Matty Ray |
-| 343 | 89 | Clever Clearbuilder |
-| 344 | 89 | Alison Baus |
+| 336 | 90 | Flashy Rumbler |
+| 337 | 90 | Snazzy Brickzone |
+| 338 | 90 | Kellie Montgomery |
+| 339 | 90 | Tiffany Kaupang |
+| 340 | 90 | Alexis Ford |
+| 341 | 90 | Whitney Manuel |
+| 342 | 89 | Clever Clearbuilder |
+| 343 | 89 | Alison Baus |
+| 344 | 89 | Matty Ray |
 | 345 | 89 | Patti Skiles |
 | 346 | 89 | Zac Hudak |
 | 347 | 88 | Dapper Towerfit |

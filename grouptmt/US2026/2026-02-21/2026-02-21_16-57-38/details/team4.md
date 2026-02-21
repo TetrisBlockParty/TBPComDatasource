@@ -62,8 +62,8 @@
 | 54 | 341 | Clarence Patawaran |
 | 55 | 309 | Lisa Davis |
 | 56 | 308 | Jen Allison |
-| 57 | 300 | David Lay |
-| 58 | 300 | Jason Hart |
+| 57 | 300 | Jason Hart |
+| 58 | 300 | David Lay |
 | 59 | 299 | Livvy |
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
