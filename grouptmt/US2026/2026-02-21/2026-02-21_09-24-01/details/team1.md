@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 338 | Stephanie Zahn |
 | 33 | 309 | comrade fish |
@@ -57,8 +57,8 @@
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Jaimie Lynn |
-| 53 | 212 | Tdub |
+| 52 | 212 | Tdub |
+| 53 | 212 | Jaimie Lynn |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -92,8 +92,8 @@
 | 84 | 155 | David DeSantis |
 | 85 | 153 | Shiny Gridmatch |
 | 86 | 152 | Jacqueline Unique |
-| 87 | 149 | Tana |
-| 88 | 149 | Arianna O'Brien |
+| 87 | 149 | Arianna O'Brien |
+| 88 | 149 | Tana |
 | 89 | 148 | Shauntina Burke |
 | 90 | 147 | Veronica Eve |
 | 91 | 145 | Lachelle Dillon |
@@ -104,8 +104,8 @@
 | 96 | 144 | Tanya Carpenter-Reynolds |
 | 97 | 143 | Sarah Marie |
 | 98 | 141 | Blaire Bruckoff |
-| 99 | 138 | Cranky Pattern |
-| 100 | 138 | Gary Gobin |
+| 99 | 138 | Gary Gobin |
+| 100 | 138 | Cranky Pattern |
 | 101 | 137 | Nadine Velardo |
 | 102 | 134 | Trina Gee |
 | 103 | 133 | Brandi Huntington |
@@ -113,8 +113,8 @@
 | 105 | 132 | Davery Spencer Adair |
 | 106 | 132 | Lori Sanders- Davis |
 | 107 | 130 | Dandy Basegrid |
-| 108 | 128 | lil mickey |
-| 109 | 128 | Uhog SF |
+| 108 | 128 | Uhog SF |
+| 109 | 128 | lil mickey |
 | 110 | 127 | Michael |
 | 111 | 127 | Adam Byrd |
 | 112 | 126 | Cece Ibarra |
@@ -170,10 +170,10 @@
 | 162 | 90 | Madison Wicks |
 | 163 | 89 | Mara Hilker |
 | 164 | 88 | Larry Tilton |
-| 165 | 87 | Jenny Gingrich Fuentes |
-| 166 | 87 | Jessi Sauer |
-| 167 | 86 | Basment Living |
-| 168 | 86 | Tyler Whitley |
+| 165 | 87 | Jessi Sauer |
+| 166 | 87 | Jenny Gingrich Fuentes |
+| 167 | 86 | Tyler Whitley |
+| 168 | 86 | Basment Living |
 | 169 | 86 | Desiree Deschaine Havee |
 | 170 | 85 | Steve Schneider |
 | 171 | 85 | John Barron |

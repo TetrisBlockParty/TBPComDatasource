@@ -188,8 +188,8 @@
 | 180 | 397 | Ashley Guernsey-Martin |
 | 181 | 394 | Em Chen |
 | 182 | 393 | Altamirano Michael |
-| 183 | 391 | Chilly Bridgepiece |
-| 184 | 391 | Steven Marshaun |
+| 183 | 391 | Steven Marshaun |
+| 184 | 391 | Chilly Bridgepiece |
 | 185 | 391 | Rhonda Milstead |
 | 186 | 391 | Qiana Sanders |
 | 187 | 388 | coleksquad |
@@ -412,11 +412,11 @@
 | 404 | 196 | Cass Shirley |
 | 405 | 195 | Snappy Shatterfit |
 | 406 | 195 | Emily Lyric Converse |
-| 407 | 194 | Mike Aprilliano |
-| 408 | 194 | Kimberly Ann |
+| 407 | 194 | Kimberly Ann |
+| 408 | 194 | Mike Aprilliano |
 | 409 | 194 | Hoppy Brickmatch |
-| 410 | 193 | Kelly Ann McCormick |
-| 411 | 193 | Matthew Turner |
+| 410 | 193 | Matthew Turner |
+| 411 | 193 | Kelly Ann McCormick |
 | 412 | 192 | Alyssa Nadine Medelez |
 | 413 | 191 | Lauren Fitzgerald Thomas |
 | 414 | 191 | John Quiring |

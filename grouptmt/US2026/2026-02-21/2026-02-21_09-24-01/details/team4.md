@@ -162,15 +162,15 @@
 | 154 | 94 | DonMega |
 | 155 | 93 | Zesty Twistbuilder |
 | 156 | 92 | Kristin MacDonald |
-| 157 | 90 | No Strings Attached Ra |
-| 158 | 90 | Judy Cox |
+| 157 | 90 | Judy Cox |
+| 158 | 90 | No Strings Attached Ra |
 | 159 | 89 | shark tato |
 | 160 | 89 | mike |
 | 161 | 88 | Heather Tushner |
 | 162 | 88 | Kesha Brady |
-| 163 | 87 | Jen Caldwell |
-| 164 | 87 | KM8 |
-| 165 | 87 | Bradley Reeves |
+| 163 | 87 | KM8 |
+| 164 | 87 | Bradley Reeves |
+| 165 | 87 | Jen Caldwell |
 | 166 | 87 | Lauren Lamb |
 | 167 | 86 | Destiney Carter |
 | 168 | 86 | amy |

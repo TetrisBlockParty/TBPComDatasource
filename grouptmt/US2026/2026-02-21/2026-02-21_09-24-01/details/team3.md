@@ -45,8 +45,8 @@
 | 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
-| 40 | 546 | Snappy Glidepiece |
-| 41 | 546 | Dolores Falco |
+| 40 | 546 | Dolores Falco |
+| 41 | 546 | Snappy Glidepiece |
 | 42 | 541 | MissTaylor |
 | 43 | 533 | Sarah Fehring |
 | 44 | 528 | Natasha Jones |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -204,8 +204,8 @@
 | 196 | 115 | Hoppy Buildout |
 | 197 | 114 | Tiffany Davie |
 | 198 | 114 | Jessica Bechler |
-| 199 | 113 | Valerie Gendron |
-| 200 | 113 | Brian Battjes |
+| 199 | 113 | Brian Battjes |
+| 200 | 113 | Valerie Gendron |
 | 201 | 110 | Tye Stovall |
 | 202 | 110 | Stella |
 | 203 | 109 | Diana Ibarra |
