@@ -103,8 +103,8 @@
 | 95 | 79 | Chris65 |
 | 96 | 78 | Carrie Beck Geartz |
 | 97 | 77 | Teddy Alexander |
-| 98 | 76 | Archie Ware |
-| 99 | 76 | Larry Tilton |
+| 98 | 76 | Larry Tilton |
+| 99 | 76 | Archie Ware |
 | 100 | 75 | Fresno Beotoni |
 | 101 | 75 | Tyler L Hunt |
 | 102 | 74 | Grace Joanne Agnant |

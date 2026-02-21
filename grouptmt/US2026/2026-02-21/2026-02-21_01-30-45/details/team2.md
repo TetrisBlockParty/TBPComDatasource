@@ -254,8 +254,8 @@
 | 246 | 176 | Jessica Kaye DeAguero |
 | 247 | 175 | Tina Blessed Cage |
 | 248 | 173 | Macy Williams |
-| 249 | 170 | Taryece Gause |
-| 250 | 170 | Darlene Bowman |
+| 249 | 170 | Darlene Bowman |
+| 250 | 170 | Taryece Gause |
 | 251 | 170 | Kenya Felix |
 | 252 | 169 | Lively Catcher |
 | 253 | 168 | Robin |
@@ -342,9 +342,9 @@
 | 334 | 129 | Amy Ross |
 | 335 | 129 | Britt Woolston |
 | 336 | 128 | Maddy Petersen |
-| 337 | 128 | Alisa Lamb |
-| 338 | 128 | Melissa Kay Gibson |
-| 339 | 128 | Arwa Fatimah |
+| 337 | 128 | Melissa Kay Gibson |
+| 338 | 128 | Arwa Fatimah |
+| 339 | 128 | Alisa Lamb |
 | 340 | 127 | Ellie Jonas |
 | 341 | 126 | Ethan Stienbarger |
 | 342 | 125 | Martina Gabrielle LaPolla |

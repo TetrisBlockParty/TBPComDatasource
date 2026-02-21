@@ -32,11 +32,11 @@
 | 24 | 237 | Johnathan Martinez |
 | 25 | 227 | Jenna Ingersoll |
 | 26 | 201 | Alyssa Papen |
-| 27 | 190 | Brittney Orengo |
-| 28 | 190 | Dustin Robert |
+| 27 | 190 | Dustin Robert |
+| 28 | 190 | Brittney Orengo |
 | 29 | 185 | loulou |
-| 30 | 174 | Koshin Abdirahman |
-| 31 | 174 | Jamie Mann-Deichmann |
+| 30 | 174 | Jamie Mann-Deichmann |
+| 31 | 174 | Koshin Abdirahman |
 | 32 | 170 | Girl |
 | 33 | 168 | Anthony Magaraci |
 | 34 | 167 | Rachel Anne |
