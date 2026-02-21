@@ -131,8 +131,8 @@
 | 123 | 65 | Rebecca Blake |
 | 124 | 65 | Angela Geist Jusinski |
 | 125 | 64 | Chaz Duncan |
-| 126 | 64 | rebel4lyfe |
-| 127 | 64 | Damn Libra |
+| 126 | 64 | Damn Libra |
+| 127 | 64 | rebel4lyfe |
 | 128 | 62 | Melvin Baird |
 | 129 | 62 | Jaycool |
 | 130 | 62 | Latisha Davis |

@@ -209,7 +209,7 @@
 | 201 | 69 | Hyper Matchzone |
 | 202 | 69 | Jen Lewis |
 | 203 | 69 | Chasity |
-| 204 | 67 | Daryn Elliott |
+| 204 | 67 | Will Miller |
 | 205 | 67 | Romeo |
 | 206 | 67 | Daryn Elliott |
 | 207 | 67 | Tommy Proctor |
@@ -407,7 +407,7 @@
 | 399 | 37 | AngieMuffin Wap |
 | 400 | 37 | TheNikkiJ |
 | 401 | 37 | Amber Groover Taylor |
-| 402 | 37 | Niki Dalrymple |
+| 402 | 37 | Cutie patootie |
 | 403 | 37 | Cdawn Langford |
 | 404 | 37 | Gwendolyn Sanders |
 | 405 | 37 | Niki Dalrymple |

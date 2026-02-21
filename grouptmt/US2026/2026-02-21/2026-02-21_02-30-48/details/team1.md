@@ -58,8 +58,8 @@
 | 50 | 150 | Robert Benito |
 | 51 | 148 | Jessie Lynn |
 | 52 | 147 | Veronica Eve |
-| 53 | 145 | Lachelle Dillon |
-| 54 | 145 | BigWeenie69 |
+| 53 | 145 | BigWeenie69 |
+| 54 | 145 | Lachelle Dillon |
 | 55 | 144 | Tana |
 | 56 | 144 | Tanya Carpenter-Reynolds |
 | 57 | 144 | Plucky Ziggy |

@@ -100,8 +100,8 @@
 | 92 | 465 | Tommy Tha Boss Gunz |
 | 93 | 456 | Lisa Ongtowasruk |
 | 94 | 450 | Mari Ac |
-| 95 | 448 | Nick Jensen |
-| 96 | 448 | Jojo Momma |
+| 95 | 448 | Jojo Momma |
+| 96 | 448 | Nick Jensen |
 | 97 | 442 | Daphne Jordan |
 | 98 | 440 | Becky Weeks-Garry |
 | 99 | 440 | BYM4L |
@@ -253,12 +253,12 @@
 | 245 | 199 | Victoria Moore-Smith |
 | 246 | 198 | Alyssa Dean |
 | 247 | 198 | Richard Horton |
-| 248 | 198 | Julio A Laracuente |
-| 249 | 198 | Andea Beck |
+| 248 | 198 | Andea Beck |
+| 249 | 198 | Julio A Laracuente |
 | 250 | 197 | Smashanator |
 | 251 | 196 | Besma Ao |
-| 252 | 196 | Alexandra Reese |
-| 253 | 196 | Cass Shirley |
+| 252 | 196 | Cass Shirley |
+| 253 | 196 | Alexandra Reese |
 | 254 | 195 | Sanaa Nounoussa |
 | 255 | 194 | Kimberly Ann |
 | 256 | 194 | Mike Aprilliano |
