@@ -86,8 +86,8 @@
 | 78 | 385 | Sam |
 | 79 | 380 | Joshua Mandel |
 | 80 | 377 | Rosa Franklin |
-| 81 | 374 | Sarah Freitas |
-| 82 | 374 | Sommer Shope |
+| 81 | 374 | Sommer Shope |
+| 82 | 374 | Sarah Freitas |
 | 83 | 369 | Calandra Shaya Robinson |
 | 84 | 368 | John Bednarik |
 | 85 | 366 | KellyDyan |

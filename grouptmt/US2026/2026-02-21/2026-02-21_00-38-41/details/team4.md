@@ -92,8 +92,8 @@
 | 84 | 72 | Jae Job |
 | 85 | 72 | Joshua Cuellar |
 | 86 | 71 | Joseph Pace |
-| 87 | 70 | Melissa Adams |
-| 88 | 70 | Valerie Roberts |
+| 87 | 70 | Valerie Roberts |
+| 88 | 70 | Melissa Adams |
 | 89 | 70 | Christina Black |
 | 90 | 69 | Jessica Bohlken |
 | 91 | 68 | LS |
