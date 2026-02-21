@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Sweet Baker |
-| 41 | 274 | Theo Pinnow |
+| 40 | 274 | Theo Pinnow |
+| 41 | 274 | Sweet Baker |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Shauna Loe |
@@ -70,8 +70,8 @@
 | 62 | 198 | Billie Dawn Sparks |
 | 63 | 198 | Happy Snapbuild |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Sharon Reynolds |
-| 66 | 194 | Giggly Builderline |
+| 65 | 194 | Giggly Builderline |
+| 66 | 194 | Sharon Reynolds |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 192 | Mandyy Rae |
 | 69 | 192 | Shaykmia |
@@ -90,8 +90,8 @@
 | 82 | 162 | Patrick Luckenbill |
 | 83 | 161 | Abbey Crespo |
 | 84 | 156 | Jessie Lynn |
-| 85 | 155 | David DeSantis |
-| 86 | 155 | Standia Civil |
+| 85 | 155 | Standia Civil |
+| 86 | 155 | David DeSantis |
 | 87 | 153 | Shiny Gridmatch |
 | 88 | 153 | Bhelle Sumile |
 | 89 | 152 | Jacqueline Unique |
@@ -100,9 +100,9 @@
 | 92 | 148 | Shauntina Burke |
 | 93 | 147 | Veronica Eve |
 | 94 | 145 | BigWeenie69 |
-| 95 | 144 | Plucky Ziggy |
+| 95 | 144 | femmefatale |
 | 96 | 144 | Tanya Carpenter-Reynolds |
-| 97 | 144 | femmefatale |
+| 97 | 144 | Plucky Ziggy |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
 | 100 | 138 | Gary Gobin |

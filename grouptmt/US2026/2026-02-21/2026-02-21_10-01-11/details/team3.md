@@ -130,13 +130,13 @@
 | 122 | 192 | Chasity |
 | 123 | 191 | Scott Carleton |
 | 124 | 184 | Jennie Beranek |
-| 125 | 182 | Hyper Matchzone |
-| 126 | 182 | Ashley Tookes |
+| 125 | 182 | Ashley Tookes |
+| 126 | 182 | Hyper Matchzone |
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -159,8 +159,8 @@
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
 | 153 | 149 | Trisha Balmer |
-| 154 | 149 | Angel Mendez |
-| 155 | 149 | Bea Miles |
+| 154 | 149 | Bea Miles |
+| 155 | 149 | Angel Mendez |
 | 156 | 147 | Sashay Tapae Simpson |
 | 157 | 146 | Latoya Mayne |
 | 158 | 146 | Denita Mungro |
