@@ -368,13 +368,13 @@
 | 360 | 81 | Katheline Lazo Luizaga |
 | 361 | 81 | Tammy Rosenberry |
 | 362 | 80 | Josh Borquez |
-| 363 | 80 | Vixen Queen |
-| 364 | 80 | Me,Him,Yu |
-| 365 | 80 | Oliver Neal II |
+| 363 | 80 | Oliver Neal II |
+| 364 | 80 | Vixen Queen |
+| 365 | 80 | Me,Him,Yu |
 | 366 | 79 | Bleu Sun Beams |
-| 367 | 79 | Brittany K Ward |
+| 367 | 79 | Mike Spritzer |
 | 368 | 79 | Jessie Chung |
-| 369 | 79 | Mike Spritzer |
+| 369 | 79 | Brittany K Ward |
 | 370 | 78 | Nena Somerville Kelly |
 | 371 | 78 | Sabrina Mansfield |
 | 372 | 78 | Myriam Lapierre |

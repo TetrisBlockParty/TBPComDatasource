@@ -110,8 +110,8 @@
 | 102 | 171 | Greg Premoe |
 | 103 | 171 | David DeSantis |
 | 104 | 169 | Abbey Crespo |
-| 105 | 166 | Tana |
-| 106 | 166 | Rico Rico |
+| 105 | 166 | Rico Rico |
+| 106 | 166 | Tana |
 | 107 | 165 | Veronica Eve |
 | 108 | 165 | GATOR |
 | 109 | 163 | Tyler Whitley |

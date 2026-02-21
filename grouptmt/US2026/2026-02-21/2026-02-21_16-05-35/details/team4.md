@@ -111,8 +111,8 @@
 | 103 | 164 | ThaEviLJeNiuZ |
 | 104 | 162 | Shauna Havard |
 | 105 | 161 | Joeliecea Cobb |
-| 106 | 160 | Crystal Carroll |
-| 107 | 160 | ZeeZee |
+| 106 | 160 | ZeeZee |
+| 107 | 160 | Crystal Carroll |
 | 108 | 160 | Stacey Stano |
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
@@ -159,8 +159,8 @@
 | 151 | 121 | Smiley Tiltbuilder |
 | 152 | 120 | Roger Coulter |
 | 153 | 120 | Joshua Guess |
-| 154 | 119 | Kristin Manee |
-| 155 | 119 | Gwendolyn Pitcairn |
+| 154 | 119 | Gwendolyn Pitcairn |
+| 155 | 119 | Kristin Manee |
 | 156 | 116 | Diana Houts |
 | 157 | 115 | Ultramarine |
 | 158 | 115 | AyeKay |
@@ -311,7 +311,7 @@
 | 303 | 66 | Terrance Fung |
 | 304 | 66 | Jen Mattei |
 | 305 | 65 | TRCuse |
-| 306 | 65 | Chantilly Laace |
+| 306 | 65 | Barcelos |
 | 307 | 65 | BlockBabe |
 | 308 | 65 | Chantilly Laace |
 | 309 | 64 | Hyper Matchclear |

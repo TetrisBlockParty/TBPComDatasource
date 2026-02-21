@@ -316,16 +316,16 @@
 | 308 | 332 | TF Dyer |
 | 309 | 331 | Shelley Thornburgh Wright |
 | 310 | 330 | Dar |
-| 311 | 330 | Taryece Gause |
-| 312 | 330 | Victoria Moore-Smith |
-| 313 | 329 | Nicole Cannon |
+| 311 | 330 | Victoria Moore-Smith |
+| 312 | 330 | Taryece Gause |
+| 313 | 329 | Jessie McDougald |
 | 314 | 329 | Chummy Blockbuilder |
-| 315 | 329 | Jessie McDougald |
+| 315 | 329 | Nicole Cannon |
 | 316 | 327 | Danielle Simmons |
 | 317 | 327 | Kiana Boschh |
 | 318 | 326 | Elisheva Mizrachi |
-| 319 | 323 | KhaosLord |
-| 320 | 323 | Briana Alexander |
+| 319 | 323 | Briana Alexander |
+| 320 | 323 | KhaosLord |
 | 321 | 323 | Trista Dumais |
 | 322 | 322 | Brandy Andre |
 | 323 | 318 | Alexandra Weir |
@@ -466,8 +466,8 @@
 | 458 | 232 | Quirky Twistline |
 | 459 | 232 | Amber Brion |
 | 460 | 231 | Hong Tang |
-| 461 | 231 | Dylan Thomason |
-| 462 | 231 | Brave Gridpiece |
+| 461 | 231 | Brave Gridpiece |
+| 462 | 231 | Dylan Thomason |
 | 463 | 230 | Leslie Johnson Guinto |
 | 464 | 229 | Tonya Lee |
 | 465 | 228 | Michelle Sager |
