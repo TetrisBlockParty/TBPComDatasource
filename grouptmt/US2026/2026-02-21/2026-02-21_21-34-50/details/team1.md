@@ -27,8 +27,8 @@
 | 19 | 808 | Robert Beck |
 | 20 | 792 | LaQuetta Faith Hines |
 | 21 | 779 | Andrea Dañielle Ortiz |
-| 22 | 770 | Zappy Curvetile |
-| 23 | 770 | Adryane Schnase |
+| 22 | 770 | Adryane Schnase |
+| 23 | 770 | Zappy Curvetile |
 | 24 | 699 | Josie Kirt |
 | 25 | 683 | Chipper Gridlock |
 | 26 | 675 | Amanda Summey Schoemer |
@@ -38,8 +38,8 @@
 | 30 | 586 | Marianne Louise West |
 | 31 | 585 | Jennifer Cates |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 533 | Tipsy Column |
 | 37 | 521 | Hyp James NObettadanluvarat |
@@ -50,8 +50,8 @@
 | 42 | 508 | Michelle Nicole |
 | 43 | 505 | Kristen Roles Robben |
 | 44 | 503 | Cody Slav |
-| 45 | 486 | Sevens4L |
-| 46 | 486 | Sarah Lombardo |
+| 45 | 486 | Sarah Lombardo |
+| 46 | 486 | Sevens4L |
 | 47 | 483 | Ryan Lunnin |
 | 48 | 469 | Kathi Snustad |
 | 49 | 445 | April Carroll |
@@ -102,8 +102,8 @@
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Tana |
-| 98 | 240 | Elaine Elaine |
+| 97 | 240 | Elaine Elaine |
+| 98 | 240 | Tana |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
@@ -156,8 +156,8 @@
 | 148 | 162 | Tanya Carpenter-Reynolds |
 | 149 | 161 | Jessie Lynn |
 | 150 | 159 | Cece Ibarra |
-| 151 | 156 | Tyler Werts |
-| 152 | 156 | Arianna O'Brien |
+| 151 | 156 | Arianna O'Brien |
+| 152 | 156 | Tyler Werts |
 | 153 | 154 | Irual Hctrab |
 | 154 | 153 | Shiny Gridmatch |
 | 155 | 152 | Trina Gee |
@@ -191,10 +191,10 @@
 | 183 | 134 | Brave Wrecker |
 | 184 | 132 | Tipsy Riseclear |
 | 185 | 132 | Mel Hogan |
-| 186 | 131 | Kimberly Garcia |
-| 187 | 131 | Uhog SF |
-| 188 | 130 | LD1 |
-| 189 | 130 | Gilbert Ortiz Jr. |
+| 186 | 131 | Uhog SF |
+| 187 | 131 | Kimberly Garcia |
+| 188 | 130 | Gilbert Ortiz Jr. |
+| 189 | 130 | LD1 |
 | 190 | 130 | Aimee Horton |
 | 191 | 129 | ALFD |
 | 192 | 128 | Barry Mac'Ockner |

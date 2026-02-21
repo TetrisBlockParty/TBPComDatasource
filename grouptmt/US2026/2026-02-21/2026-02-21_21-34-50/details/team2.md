@@ -370,8 +370,8 @@
 | 362 | 371 | Jaycee |
 | 363 | 370 | Angela Lynn |
 | 364 | 369 | AkaLefty |
-| 365 | 369 | Victoria Moore-Smith |
-| 366 | 369 | Tara Lynn Janes |
+| 365 | 369 | Tara Lynn Janes |
+| 366 | 369 | Victoria Moore-Smith |
 | 367 | 367 | Deyawn Smith |
 | 368 | 366 | Wuntayk |
 | 369 | 365 | Christina Lewis-Vickers |
@@ -530,20 +530,20 @@
 | 522 | 274 | Jamie Stevey |
 | 523 | 274 | Michelle Sager |
 | 524 | 273 | Jenna Nance |
-| 525 | 273 | Luna |
-| 526 | 273 | Britt Stunkel |
-| 527 | 271 | Toni Lynn |
-| 528 | 271 | Ann Marie Davis |
-| 529 | 270 | Kathryn Townsley |
+| 525 | 273 | Britt Stunkel |
+| 526 | 273 | Luna |
+| 527 | 271 | Ann Marie Davis |
+| 528 | 271 | Toni Lynn |
+| 529 | 270 | Santana Miyagi |
 | 530 | 270 | Tim Dyer |
-| 531 | 270 | Santana Miyagi |
-| 532 | 269 | Reece Smith |
-| 533 | 269 | Gauri Shrotriya |
+| 531 | 270 | Kathryn Townsley |
+| 532 | 269 | Gauri Shrotriya |
+| 533 | 269 | Reece Smith |
 | 534 | 269 | Susan Arnburg |
 | 535 | 268 | Min |
 | 536 | 266 | Jason Garnatz |
-| 537 | 265 | Steve Man |
-| 538 | 265 | Sandra Link-Gable |
+| 537 | 265 | Sandra Link-Gable |
+| 538 | 265 | Steve Man |
 | 539 | 264 | Venita Ray |
 | 540 | 263 | Alyssia Tancredi |
 | 541 | 262 | Taren Cowan |

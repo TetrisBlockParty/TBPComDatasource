@@ -123,8 +123,8 @@
 | 115 | 347 | Darlene McMillan |
 | 116 | 332 | Chauntee Alfrey-Cardinale |
 | 117 | 327 | Dapper Snap |
-| 118 | 323 | Ashley Raines |
-| 119 | 323 | Sherry Ogden |
+| 118 | 323 | Sherry Ogden |
+| 119 | 323 | Ashley Raines |
 | 120 | 320 | Or Reznitsky |
 | 121 | 318 | Chasity |
 | 122 | 316 | Fancy Cascader |
@@ -164,8 +164,8 @@
 | 156 | 234 | Tom Nault |
 | 157 | 233 | Ray Lader |
 | 158 | 229 | Nikki Pags |
-| 159 | 228 | Morgan Martinez |
-| 160 | 228 | Rochelle Hazelett |
+| 159 | 228 | Rochelle Hazelett |
+| 160 | 228 | Morgan Martinez |
 | 161 | 226 | Grego Daniel |
 | 162 | 224 | Nicole Myers |
 | 163 | 223 | Jeana Gilbert |
@@ -180,9 +180,9 @@
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Katrina Turner |
 | 174 | 211 | Khaleada McGill Banks |
-| 175 | 207 | rnr junky |
+| 175 | 207 | Jessica |
 | 176 | 207 | Chris Bell |
-| 177 | 207 | Jessica |
+| 177 | 207 | rnr junky |
 | 178 | 205 | Sarah Moyer |
 | 179 | 204 | Danielle Allison |
 | 180 | 203 | Twisty Brick LT |
@@ -276,8 +276,8 @@
 | 268 | 139 | Funky Jumper |
 | 269 | 138 | Boldy Corner |
 | 270 | 137 | Cesar Barraza |
-| 271 | 136 | Sabrina Mansfield |
-| 272 | 136 | Rachel |
+| 271 | 136 | Rachel |
+| 272 | 136 | Sabrina Mansfield |
 | 273 | 135 | Skinny Baldez |
 | 274 | 135 | Terry Jo Jones |
 | 275 | 134 | Kristian Thurman |
@@ -307,7 +307,7 @@
 | 299 | 126 | Pam Holt Powell |
 | 300 | 125 | Felicia Doxey |
 | 301 | 125 | Shimika Enay Wallace |
-| 302 | 125 | Felicia Doxey |
+| 302 | 125 | Lys |
 | 303 | 124 | Rania Zaqout |
 | 304 | 124 | Romeo |
 | 305 | 123 | France Vézina |
@@ -320,7 +320,7 @@
 | 312 | 120 | Shicken Nuggit |
 | 313 | 119 | Daring Builder |
 | 314 | 119 | BugMansMom |
-| 315 | 118 | Lizabeth Fox |
+| 315 | 118 | Damian Reid |
 | 316 | 118 | Michael Nowogorski |
 | 317 | 118 | Lizabeth Fox |
 | 318 | 118 | Fancy Curver |

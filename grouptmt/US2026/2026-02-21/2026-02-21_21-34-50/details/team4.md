@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Kristin MacDonald |
-| 217 | 111 | Lazy Blocker |
+| 216 | 111 | Lazy Blocker |
+| 217 | 111 | Kristin MacDonald |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -237,10 +237,10 @@
 | 229 | 103 | Lauren Lamb |
 | 230 | 103 | rebel4lyfe |
 | 231 | 103 | Kate |
-| 232 | 102 | Cheery Risebuilder |
-| 233 | 102 | Christina O'Dell-Ishau |
-| 234 | 102 | Autumn Kumzi |
-| 235 | 102 | Kim Hunt |
+| 232 | 102 | Christina O'Dell-Ishau |
+| 233 | 102 | Autumn Kumzi |
+| 234 | 102 | Cheery Risebuilder |
+| 235 | 102 | Jumpy Zonepiece |
 | 236 | 102 | Faja |
 | 237 | 102 | Kim Hunt |
 | 238 | 101 | Spicy Cascadezone |
