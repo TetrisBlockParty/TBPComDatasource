@@ -157,8 +157,8 @@
 | 149 | 285 | June E Hanson |
 | 150 | 284 | Brittney Jean |
 | 151 | 280 | Kimberly Schall |
-| 152 | 280 | TF Dyer |
-| 153 | 280 | Joseph Musick |
+| 152 | 280 | Joseph Musick |
+| 153 | 280 | TF Dyer |
 | 154 | 278 | Noel Tarmy |
 | 155 | 276 | Lindsey Leigh |
 | 156 | 275 | Shiny Rollzone |
@@ -172,8 +172,8 @@
 | 164 | 266 | Autumn Schaeffer |
 | 165 | 266 | Joyce Johnson Vaughn |
 | 166 | 265 | Wuntayk |
-| 167 | 263 | Oscar Bernie |
-| 168 | 263 | Taylor Flowers |
+| 167 | 263 | Taylor Flowers |
+| 168 | 263 | Oscar Bernie |
 | 169 | 261 | MrsClaudette Will'sIam Matthews |
 | 170 | 260 | Mindy Leigh Head |
 | 171 | 259 | Brainy Smurf |

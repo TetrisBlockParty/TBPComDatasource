@@ -131,7 +131,7 @@
 | 123 | 69 | Christina Torres |
 | 124 | 68 | Blaire Bruckoff |
 | 125 | 66 | Tipsy Riseclear |
-| 126 | 65 | MamaB24 |
+| 126 | 65 | Trippy Redd |
 | 127 | 65 | Jennifer Olewnik Soborowski |
 | 128 | 65 | MamaB24 |
 | 129 | 65 | OneCrazyGator |

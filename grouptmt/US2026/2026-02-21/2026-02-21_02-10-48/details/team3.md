@@ -162,8 +162,8 @@
 | 154 | 86 | Shicken Nuggit |
 | 155 | 85 | Kevin Russell |
 | 156 | 84 | Ava Petito |
-| 157 | 84 | Amanda L Baker |
-| 158 | 84 | Flashy Rumbler |
+| 157 | 84 | Flashy Rumbler |
+| 158 | 84 | Amanda L Baker |
 | 159 | 83 | LaTanya GeminiondaRise Johnson |
 | 160 | 82 | Chris Bell |
 | 161 | 82 | Crystel b520 |
