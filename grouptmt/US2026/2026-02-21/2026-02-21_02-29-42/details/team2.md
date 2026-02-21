@@ -124,8 +124,8 @@
 | 116 | 384 | Mighty Patternzone |
 | 117 | 380 | Joshua Mandel |
 | 118 | 374 | Sommer Shope |
-| 119 | 369 | Osun Anuket Esu |
-| 120 | 369 | Calandra Shaya Robinson |
+| 119 | 369 | Calandra Shaya Robinson |
+| 120 | 369 | Osun Anuket Esu |
 | 121 | 365 | April Dawn Gussler |
 | 122 | 364 | Shinette Dobson |
 | 123 | 363 | William Meussner |

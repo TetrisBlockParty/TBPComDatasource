@@ -40,19 +40,19 @@
 | 32 | 185 | loulou |
 | 33 | 174 | Jamie Mann-Deichmann |
 | 34 | 171 | Rachel Anne |
-| 35 | 170 | Leah Kutz Zirbel |
-| 36 | 170 | Girl |
+| 35 | 170 | Girl |
+| 36 | 170 | Leah Kutz Zirbel |
 | 37 | 169 | Kimyatta Cavin |
 | 38 | 168 | Anthony Magaraci |
 | 39 | 153 | Lucille Truesdale |
 | 40 | 149 | Denise Carlson |
 | 41 | 147 | Courtney Cicoria |
 | 42 | 141 | Edward White |
-| 43 | 140 | Carter Jones |
-| 44 | 140 | Shannon Ferrari |
+| 43 | 140 | Shannon Ferrari |
+| 44 | 140 | Carter Jones |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Jessica Bohlken |
-| 47 | 133 | Robin Watters |
+| 46 | 133 | Robin Watters |
+| 47 | 133 | Jessica Bohlken |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
@@ -90,11 +90,11 @@
 | 82 | 92 | Kristin MacDonald |
 | 83 | 90 | ZeeZee |
 | 84 | 89 | Zesty Twistbuilder |
-| 85 | 88 | Heather Tushner |
-| 86 | 88 | Brandi Durig |
+| 85 | 88 | Brandi Durig |
+| 86 | 88 | Heather Tushner |
 | 87 | 87 | Jen Caldwell |
-| 88 | 87 | Lauren Lamb |
-| 89 | 87 | Malakai Darien Fox |
+| 88 | 87 | Malakai Darien Fox |
+| 89 | 87 | Lauren Lamb |
 | 90 | 86 | amy |
 | 91 | 85 | Mimi |
 | 92 | 85 | Marcus TheeyoungWoe Gilmore |
@@ -125,8 +125,8 @@
 | 117 | 69 | Michelle Marie |
 | 118 | 69 | Carol Ricks Raymond |
 | 119 | 68 | LS |
-| 120 | 67 | Lindsey Gonzalez |
-| 121 | 67 | Cozy Framezone |
+| 120 | 67 | Cozy Framezone |
+| 121 | 67 | Lindsey Gonzalez |
 | 122 | 66 | Chris Alexinas |
 | 123 | 65 | Rebecca Blake |
 | 124 | 65 | Angela Geist Jusinski |

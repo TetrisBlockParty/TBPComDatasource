@@ -38,12 +38,12 @@
 | 30 | 203 | Elaine Elaine |
 | 31 | 201 | Anaid Sanchez |
 | 32 | 200 | Lexuriuos Lifestlye |
-| 33 | 195 | Ananda Mendez |
-| 34 | 195 | Lisa Marie |
+| 33 | 195 | Lisa Marie |
+| 34 | 195 | Ananda Mendez |
 | 35 | 194 | Sharon Reynolds |
 | 36 | 192 | Mandyy Rae |
-| 37 | 190 | Sweetts |
-| 38 | 190 | Thorne Shumate |
+| 37 | 190 | Thorne Shumate |
+| 38 | 190 | Sweetts |
 | 39 | 189 | Happy Basegrid |
 | 40 | 187 | Dee Perry |
 | 41 | 185 | Karin Gillen |
@@ -96,8 +96,8 @@
 | 88 | 96 | Melissa Lemmon |
 | 89 | 96 | Nery Martinez |
 | 90 | 94 | Bindi |
-| 91 | 93 | Adryane Schnase |
-| 92 | 93 | Loony Fitzone |
+| 91 | 93 | Loony Fitzone |
+| 92 | 93 | Adryane Schnase |
 | 93 | 91 | Spunky Piecebuilder |
 | 94 | 90 | Madison Wicks |
 | 95 | 87 | TSwag |
