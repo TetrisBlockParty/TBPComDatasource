@@ -145,10 +145,10 @@
 | 137 | 780 | Amanda Grohmann |
 | 138 | 775 | YiFei |
 | 139 | 772 | Megan Ferguson Leone |
-| 140 | 771 | Missie Lawson Gebhardt |
-| 141 | 771 | Terri McKelvey McKinley |
-| 142 | 763 | Ladyrainbootz |
-| 143 | 763 | Samantha Jo |
+| 140 | 771 | Terri McKelvey McKinley |
+| 141 | 771 | Missie Lawson Gebhardt |
+| 142 | 763 | Samantha Jo |
+| 143 | 763 | Ladyrainbootz |
 | 144 | 756 | Stephanie Neuburger |
 | 145 | 751 | Loony Snapper |
 | 146 | 750 | Jumpy Gridpiece |
@@ -211,8 +211,8 @@
 | 203 | 589 | Thomas Hedrick |
 | 204 | 587 | Hyper Cluster |
 | 205 | 586 | Stephen Stephen |
-| 206 | 583 | Jessicah Myers |
-| 207 | 583 | Steve Grotto |
+| 206 | 583 | Steve Grotto |
+| 207 | 583 | Jessicah Myers |
 | 208 | 579 | Gary Stash |
 | 209 | 578 | Sally Dennis |
 | 210 | 576 | Shannon Joslin |
@@ -254,8 +254,8 @@
 | 246 | 510 | Lisa Ongtowasruk |
 | 247 | 509 | Kelli Wells |
 | 248 | 506 | AISlop |
-| 249 | 504 | Cherica Taylor |
-| 250 | 504 | Gene Mills |
+| 249 | 504 | Gene Mills |
+| 250 | 504 | Cherica Taylor |
 | 251 | 503 | tejas25 |
 | 252 | 502 | Poppy Snap |
 | 253 | 502 | Magic steve |
@@ -465,8 +465,8 @@
 | 457 | 309 | Autumn Schaeffer |
 | 458 | 307 | Kitybox |
 | 459 | 306 | Frisky Clearpiece |
-| 460 | 305 | Zany Clusterbuilder |
-| 461 | 305 | Tum |
+| 460 | 305 | Tum |
+| 461 | 305 | Zany Clusterbuilder |
 | 462 | 305 | Libby Hicks |
 | 463 | 304 | Doowop40 |
 | 464 | 304 | Michelle Shrum |
@@ -564,8 +564,8 @@
 | 556 | 252 | Alyssia Tancredi |
 | 557 | 252 | Aleasha M Brown |
 | 558 | 250 | Mike73 |
-| 559 | 250 | LeVeL27 |
-| 560 | 250 | sup |
+| 559 | 250 | sup |
+| 560 | 250 | LeVeL27 |
 | 561 | 250 | Kristi Biddinger |
 | 562 | 249 | Nicky Jackson |
 | 563 | 249 | Porsche' Nicole |

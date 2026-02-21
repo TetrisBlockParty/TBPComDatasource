@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Stephanie Rice |
-| 35 | 928 | Snappy Fitzone |
+| 34 | 928 | Snappy Fitzone |
+| 35 | 928 | Stephanie Rice |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 879 | Shonna Roberts |
@@ -103,8 +103,8 @@
 | 95 | 394 | joclisa |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Annie Déè |
-| 99 | 390 | Hasty Cascadefit |
+| 98 | 390 | Hasty Cascadefit |
+| 99 | 390 | Annie Déè |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -115,26 +115,26 @@
 | 107 | 368 | Stephanie Woods |
 | 108 | 367 | Nerdy Riseclear |
 | 109 | 367 | mjl574 |
-| 110 | 366 | Speedy Bridger |
-| 111 | 366 | Adrian Marcel Pate |
+| 110 | 366 | Adrian Marcel Pate |
+| 111 | 366 | Speedy Bridger |
 | 112 | 350 | Tiff Vs Tiffany |
 | 113 | 348 | CeceGeGe |
 | 114 | 347 | Darlene McMillan |
 | 115 | 332 | Chauntee Alfrey-Cardinale |
 | 116 | 327 | Dapper Snap |
-| 117 | 323 | Sherry Ogden |
-| 118 | 323 | Ashley Raines |
+| 117 | 323 | Ashley Raines |
+| 118 | 323 | Sherry Ogden |
 | 119 | 320 | Or Reznitsky |
 | 120 | 318 | Chasity |
 | 121 | 316 | Fancy Cascader |
 | 122 | 314 | Aaron Pitkin |
 | 123 | 309 | Rich LeBlanc |
-| 124 | 307 | Blocked |
-| 125 | 307 | Peggi Charon |
+| 124 | 307 | Peggi Charon |
+| 125 | 307 | Blocked |
 | 126 | 305 | Tessina Dewey-Mancino |
 | 127 | 302 | Bea Miles |
-| 128 | 300 | Sherika C. McDaniels |
-| 129 | 300 | Stephanie Blkpep Davidson |
+| 128 | 300 | Stephanie Blkpep Davidson |
+| 129 | 300 | Sherika C. McDaniels |
 | 130 | 293 | Poppy Splitter |
 | 131 | 287 | Logan Naccarato |
 | 132 | 286 | Jacqueline Rodriguez |
@@ -142,8 +142,8 @@
 | 134 | 278 | Rufus Lincoln |
 | 135 | 276 | Crimson |
 | 136 | 272 | opf |
-| 137 | 271 | Leah Barnett |
-| 138 | 271 | Ashley Muncey |
+| 137 | 271 | Ashley Muncey |
+| 138 | 271 | Leah Barnett |
 | 139 | 267 | Denise Nardoni |
 | 140 | 265 | Marci Mize Fandrich |
 | 141 | 263 | Angeline Joseph |
@@ -178,10 +178,10 @@
 | 170 | 214 | Amy Fuller Heaton |
 | 171 | 214 | Jenny Hrndz |
 | 172 | 212 | Krystal Gerstberger |
-| 173 | 211 | Khaleada McGill Banks |
-| 174 | 211 | Katrina Turner |
-| 175 | 207 | rnr junky |
-| 176 | 207 | Jessica |
+| 173 | 211 | Katrina Turner |
+| 174 | 211 | Khaleada McGill Banks |
+| 175 | 207 | Jessica |
+| 176 | 207 | rnr junky |
 | 177 | 207 | Chris Bell |
 | 178 | 205 | Sarah Moyer |
 | 179 | 204 | Danielle Allison |
