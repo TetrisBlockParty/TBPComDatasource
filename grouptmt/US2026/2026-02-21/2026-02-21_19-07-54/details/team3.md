@@ -157,11 +157,11 @@
 | 149 | 217 | Jess Bissett |
 | 150 | 216 | Marci Mize Fandrich |
 | 151 | 216 | Aaron Pitkin |
-| 152 | 214 | Jenny Hrndz |
-| 153 | 214 | Amy Fuller Heaton |
+| 152 | 214 | Amy Fuller Heaton |
+| 153 | 214 | Jenny Hrndz |
 | 154 | 214 | Leah Barnett |
-| 155 | 212 | Nikki Pags |
-| 156 | 212 | Krystal Gerstberger |
+| 155 | 212 | Krystal Gerstberger |
+| 156 | 212 | Nikki Pags |
 | 157 | 211 | Katrina Turner |
 | 158 | 211 | Katrina Schroeder |
 | 159 | 209 | Rochelle Hazelett |

@@ -96,8 +96,8 @@
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
 | 90 | 204 | Brittney Orengo |
-| 91 | 202 | Monica Daley |
-| 92 | 202 | shar |
+| 91 | 202 | shar |
+| 92 | 202 | Monica Daley |
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 198 | Mike Solo |
@@ -135,8 +135,8 @@
 | 127 | 156 | Jessica Bohlken |
 | 128 | 156 | Holly |
 | 129 | 153 | Empress Oasis |
-| 130 | 151 | Dana Scott |
-| 131 | 151 | Bethany Ison |
+| 130 | 151 | Bethany Ison |
+| 131 | 151 | Dana Scott |
 | 132 | 148 | Brittany Marsh |
 | 133 | 148 | Janita Parrish |
 | 134 | 147 | Jay28 |

@@ -89,8 +89,8 @@
 | 81 | 241 | Dee Perry |
 | 82 | 240 | Elaine Elaine |
 | 83 | 233 | cc |
-| 84 | 232 | Cynthia Bradley |
-| 85 | 232 | John J. Cronin |
+| 84 | 232 | John J. Cronin |
+| 85 | 232 | Cynthia Bradley |
 | 86 | 230 | Frothy Pattern |
 | 87 | 228 | Kellie |
 | 88 | 228 | Trippy Redd |
@@ -99,8 +99,8 @@
 | 91 | 222 | Kristen Gideon |
 | 92 | 214 | Billie Dawn Sparks |
 | 93 | 213 | Lexuriuos Lifestlye |
-| 94 | 212 | Mandyy Rae |
-| 95 | 212 | Jaimie Lynn |
+| 94 | 212 | Jaimie Lynn |
+| 95 | 212 | Mandyy Rae |
 | 96 | 211 | Marianita Garcia |
 | 97 | 210 | Jennifer ManWarren |
 | 98 | 210 | Ly Phethmany |
