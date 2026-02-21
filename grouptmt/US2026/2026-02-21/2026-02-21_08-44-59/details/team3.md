@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |

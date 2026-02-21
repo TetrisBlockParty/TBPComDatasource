@@ -10,8 +10,8 @@
 | 2 | 4618 | Nick Jensen |
 | 3 | 4259 | Sean Dugar |
 | 4 | 3575 | Cassie Donica |
-| 5 | 3567 | Taylana Mincy |
-| 6 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Taylana Mincy |
 | 7 | 3460 | Poppy Snap |
 | 8 | 3453 | Tiaira Patrice' |
 | 9 | 3243 | Trisha Gill |
@@ -202,8 +202,8 @@
 | 194 | 363 | William Meussner |
 | 195 | 359 | Brainy Smurf |
 | 196 | 357 | Shannon Byrd |
-| 197 | 356 | Deyawn Smith |
-| 198 | 356 | Alyssaaelena |
+| 197 | 356 | Alyssaaelena |
+| 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
 | 201 | 350 | Brave Dropmatch |
