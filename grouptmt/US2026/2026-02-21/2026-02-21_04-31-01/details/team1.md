@@ -151,10 +151,10 @@
 | 143 | 78 | Sam Williams |
 | 144 | 77 | Teddy Alexander |
 | 145 | 77 | Kellie |
-| 146 | 76 | Kerry Lee Powell |
+| 146 | 76 | Fmp |
 | 147 | 76 | Archie Ware |
-| 148 | 76 | Virginia Gray Floyd |
-| 149 | 76 | Fmp |
+| 148 | 76 | Kerry Lee Powell |
+| 149 | 76 | Virginia Gray Floyd |
 | 150 | 75 | Witty Builderfit |
 | 151 | 75 | Fresno Beotoni |
 | 152 | 75 | Tyler L Hunt |
@@ -246,8 +246,8 @@
 | 238 | 50 | MommaKFC |
 | 239 | 50 | LaFontaine Leslie |
 | 240 | 49 | Hasty Columnbuilder |
-| 241 | 48 | Vivian Bush |
-| 242 | 48 | TristansDad |
+| 241 | 48 | TristansDad |
+| 242 | 48 | Vivian Bush |
 | 243 | 48 | Jonathan Vaval |
 | 244 | 48 | Zappy Pivoty |
 | 245 | 47 | Lush Zoney |

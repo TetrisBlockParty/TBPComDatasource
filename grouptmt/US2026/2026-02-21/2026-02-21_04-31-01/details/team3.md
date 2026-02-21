@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 578 | Jennifer Willis |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Snappy Glidepiece |
-| 31 | 546 | Dolores Falco |
+| 30 | 546 | Dolores Falco |
+| 31 | 546 | Snappy Glidepiece |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -94,8 +94,8 @@
 | 86 | 193 | Shunta Jacobs |
 | 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
-| 89 | 187 | Twisty Brick LT |
-| 90 | 187 | Speedy Bridger |
+| 89 | 187 | Speedy Bridger |
+| 90 | 187 | Twisty Brick LT |
 | 91 | 185 | Danielle Cutler |
 | 92 | 184 | Jennie Beranek |
 | 93 | 183 | Judi Dobson |
@@ -107,8 +107,8 @@
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
 | 101 | 164 | rosy |
-| 102 | 159 | Jone |
-| 103 | 159 | Morgan Martinez |
+| 102 | 159 | Morgan Martinez |
+| 103 | 159 | Jone |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
 | 106 | 155 | Shannon Matthew Byers |
