@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Johnathan Martinez |
-| 20 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Johnathan Martinez |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -79,8 +79,8 @@
 | 71 | 134 | Chirpy Basepiece |
 | 72 | 134 | Jessica Bohlken |
 | 73 | 133 | Robin Watters |
-| 74 | 132 | Jenna McGeorge |
-| 75 | 132 | Degenerate |
+| 74 | 132 | Degenerate |
+| 75 | 132 | Jenna McGeorge |
 | 76 | 131 | Zany Twisterfit |
 | 77 | 131 | Mr. Party |
 | 78 | 131 | Dana Scott |

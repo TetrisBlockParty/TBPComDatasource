@@ -85,8 +85,8 @@
 | 77 | 674 | Dannette Goldberg-Richards |
 | 78 | 672 | Wendy Harder Gage |
 | 79 | 665 | Dineisha Carpenter |
-| 80 | 658 | Vistabrat |
-| 81 | 658 | Pacynthia Williams |
+| 80 | 658 | Pacynthia Williams |
+| 81 | 658 | Vistabrat |
 | 82 | 653 | Becky Weeks-Garry |
 | 83 | 649 | Stephanie Chapman |
 | 84 | 649 | Anna Edwards |
@@ -246,14 +246,14 @@
 | 238 | 268 | Vanessa Moreno |
 | 239 | 268 | Chummy Blockbuilder |
 | 240 | 267 | Mindy Leigh Head |
-| 241 | 266 | Mighty Shatterfit |
-| 242 | 266 | Autumn Schaeffer |
+| 241 | 266 | Autumn Schaeffer |
+| 242 | 266 | Mighty Shatterfit |
 | 243 | 266 | Joyce Johnson Vaughn |
 | 244 | 263 | Taylor Flowers |
 | 245 | 262 | Taren Cowan |
 | 246 | 261 | Leah |
-| 247 | 261 | MrsClaudette Will'sIam Matthews |
-| 248 | 261 | Peppy Zone |
+| 247 | 261 | Peppy Zone |
+| 248 | 261 | MrsClaudette Will'sIam Matthews |
 | 249 | 260 | Denise Rickman |
 | 250 | 260 | Dapper Dasher |
 | 251 | 257 | Shameika Trail |
