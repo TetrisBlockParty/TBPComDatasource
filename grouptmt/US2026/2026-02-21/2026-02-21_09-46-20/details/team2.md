@@ -215,8 +215,8 @@
 | 207 | 354 | Tracy Wise |
 | 208 | 353 | Joseph Musick |
 | 209 | 352 | ruth |
-| 210 | 350 | Chris Harr |
-| 211 | 350 | Brave Dropmatch |
+| 210 | 350 | Brave Dropmatch |
+| 211 | 350 | Chris Harr |
 | 212 | 350 | Kimberly Randesi |
 | 213 | 349 | Johnny Yeates |
 | 214 | 348 | Richard Horton |
@@ -336,8 +336,8 @@
 | 328 | 247 | Andrea Devery Beck |
 | 329 | 247 | Fancy Twister |
 | 330 | 246 | Kathryn Townsley |
-| 331 | 246 | Ashley Lopez |
-| 332 | 246 | Stephanie Lumanlan |
+| 331 | 246 | Stephanie Lumanlan |
+| 332 | 246 | Ashley Lopez |
 | 333 | 245 | Rachael Senard |
 | 334 | 245 | Mischelle Clay |
 | 335 | 245 | Taryece Gause |

@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Beth Ingham |
-| 148 | 153 | Stephanie Whitefield |
+| 147 | 153 | Stephanie Whitefield |
+| 148 | 153 | Beth Ingham |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -180,8 +180,8 @@
 | 172 | 127 | Joy Petroski |
 | 173 | 127 | Connie Mohler-Fair |
 | 174 | 126 | Brandon Givens |
-| 175 | 125 | Shimika Enay Wallace |
-| 176 | 125 | Felicia Doxey |
+| 175 | 125 | Felicia Doxey |
+| 176 | 125 | Shimika Enay Wallace |
 | 177 | 124 | Cesar Barraza |
 | 178 | 123 | Terry Jo Jones |
 | 179 | 123 | Sarajane Lokan |

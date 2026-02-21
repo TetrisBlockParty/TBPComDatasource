@@ -84,8 +84,8 @@
 | 76 | 165 | Casey Grabner |
 | 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Holly Jolly |
-| 80 | 159 | Justin Hannigan |
+| 79 | 159 | Justin Hannigan |
+| 80 | 159 | Holly Jolly |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Cherrish Duren |
-| 109 | 123 | Nugget |
+| 108 | 123 | Nugget |
+| 109 | 123 | Cherrish Duren |
 | 110 | 122 | Sherri |
 | 111 | 121 | Klo |
 | 112 | 121 | 030Synner |
@@ -158,8 +158,8 @@
 | 150 | 98 | Allen Lloyd |
 | 151 | 97 | Brandi Durig |
 | 152 | 96 | Zappy Snaplink |
-| 153 | 95 | Meagan Nicole |
-| 154 | 95 | Victoria Faniel |
+| 153 | 95 | Victoria Faniel |
+| 154 | 95 | Meagan Nicole |
 | 155 | 94 | DonMega |
 | 156 | 94 | Anthony Bryan Riva |
 | 157 | 94 | KM8 |
