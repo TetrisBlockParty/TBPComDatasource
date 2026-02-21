@@ -211,8 +211,8 @@
 | 203 | 274 | Melissa Holsinger |
 | 204 | 273 | Missie Lawson Gebhardt |
 | 205 | 271 | Ann Marie Davis |
-| 206 | 271 | Toni Lynn |
-| 207 | 271 | Lonne Emade |
+| 206 | 271 | Lonne Emade |
+| 207 | 271 | Toni Lynn |
 | 208 | 270 | Alexandra Weir |
 | 209 | 268 | Vanessa Moreno |
 | 210 | 267 | Mindy Leigh Head |
@@ -235,9 +235,9 @@
 | 227 | 251 | Leah |
 | 228 | 250 | Barbra Miller |
 | 229 | 249 | SwampRebel |
-| 230 | 248 | Dany Murillo |
-| 231 | 248 | Bubbly Snapfit |
-| 232 | 248 | Leah Keesling |
+| 230 | 248 | Leah Keesling |
+| 231 | 248 | Dany Murillo |
+| 232 | 248 | Bubbly Snapfit |
 | 233 | 248 | Chummy Blockbuilder |
 | 234 | 247 | Fancy Twister |
 | 235 | 247 | Andrea Devery Beck |
@@ -308,8 +308,8 @@
 | 300 | 196 | Cass Shirley |
 | 301 | 196 | Alexandra Reese |
 | 302 | 196 | Besma Ao |
-| 303 | 194 | Kimberly Ann |
-| 304 | 194 | Mike Aprilliano |
+| 303 | 194 | Mike Aprilliano |
+| 304 | 194 | Kimberly Ann |
 | 305 | 194 | Hoppy Brickmatch |
 | 306 | 193 | Nika Bee |
 | 307 | 191 | Sho Nuff |
