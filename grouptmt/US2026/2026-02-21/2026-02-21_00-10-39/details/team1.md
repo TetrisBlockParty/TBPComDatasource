@@ -91,17 +91,17 @@
 | 83 | 75 | Josie Kirt |
 | 84 | 75 | Tyler L Hunt |
 | 85 | 74 | Grace Joanne Agnant |
-| 86 | 73 | Loony Fitzone |
-| 87 | 73 | Witty Builderfit |
+| 86 | 73 | Witty Builderfit |
+| 87 | 73 | Loony Fitzone |
 | 88 | 72 | Tipsy Strikerpiece |
 | 89 | 71 | Teddy Alexander |
 | 90 | 69 | Giggly Builderline |
 | 91 | 69 | Christina Torres |
 | 92 | 68 | Blaire Bruckoff |
 | 93 | 66 | Archie Ware |
-| 94 | 65 | Trippy Redd |
-| 95 | 65 | Jennifer Olewnik Soborowski |
-| 96 | 65 | Yvonne Marie |
+| 94 | 65 | Jennifer Olewnik Soborowski |
+| 95 | 65 | Yvonne Marie |
+| 96 | 65 | Trippy Redd |
 | 97 | 64 | Alex Gauthier |
 | 98 | 63 | Mitchel White |
 | 99 | 63 | Lincon |

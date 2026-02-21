@@ -262,8 +262,8 @@
 | 254 | 139 | Jackson Smith |
 | 255 | 138 | Ibiza Carolina LaRose |
 | 256 | 137 | Chummy Blockbuilder |
-| 257 | 135 | Nancy Reid |
-| 258 | 135 | Michelle Loar |
+| 257 | 135 | Michelle Loar |
+| 258 | 135 | Nancy Reid |
 | 259 | 135 | Peppy Zone |
 | 260 | 134 | Ashlyn Berner |
 | 261 | 134 | Sarah Massey |
@@ -303,8 +303,8 @@
 | 295 | 119 | Alison Emmons |
 | 296 | 119 | RavensBeard |
 | 297 | 119 | Deidre Shaffer |
-| 298 | 119 | Perry Hubert |
-| 299 | 119 | Mandi Douglas Hilt |
+| 298 | 119 | Mandi Douglas Hilt |
+| 299 | 119 | Perry Hubert |
 | 300 | 118 | Poppy Gridder |
 | 301 | 117 | Cody Kelsey |
 | 302 | 117 | Myleaha Holley |

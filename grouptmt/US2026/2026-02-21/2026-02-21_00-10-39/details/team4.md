@@ -64,8 +64,8 @@
 | 56 | 93 | YoMomma |
 | 57 | 90 | ZeeZee |
 | 58 | 88 | Jenna McGeorge |
-| 59 | 87 | Brandi Durig |
-| 60 | 87 | Malakai Darien Fox |
+| 59 | 87 | Malakai Darien Fox |
+| 60 | 87 | Brandi Durig |
 | 61 | 87 | Jen Caldwell |
 | 62 | 86 | Bryan Hodgins |
 | 63 | 86 | amy |

@@ -26,8 +26,8 @@
 | 18 | 622 | Shane Wilson Jr. |
 | 19 | 476 | Susan Valentino |
 | 20 | 466 | Kay |
-| 21 | 448 | Suzieq |
-| 22 | 448 | Natasha Jones |
+| 21 | 448 | Natasha Jones |
+| 22 | 448 | Suzieq |
 | 23 | 443 | Kathryn Keenan-Taggart |
 | 24 | 432 | Nate Burnside |
 | 25 | 402 | cowboy25469 |
