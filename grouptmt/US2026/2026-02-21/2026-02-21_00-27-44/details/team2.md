@@ -69,8 +69,8 @@
 | 61 | 440 | Mari Ac |
 | 62 | 431 | Slip |
 | 63 | 426 | Kaylee McCafferty |
-| 64 | 418 | Lisa Ongtowasruk |
-| 65 | 418 | RdRydnHd |
+| 64 | 418 | RdRydnHd |
+| 65 | 418 | Lisa Ongtowasruk |
 | 66 | 405 | Samantha Jo |
 | 67 | 405 | Amber Shoemaker |
 | 68 | 402 | Sparkles |

@@ -189,8 +189,8 @@
 | 181 | 61 | Rebel124 |
 | 182 | 60 | Ashley Rufus Bythcez |
 | 183 | 60 | Loony Slider |
-| 184 | 59 | Rania Zaqout |
-| 185 | 59 | Cary M. Fong |
+| 184 | 59 | Cary M. Fong |
+| 185 | 59 | Rania Zaqout |
 | 186 | 58 | Peachy Rollfit |
 | 187 | 58 | David Kozen |
 | 188 | 58 | Erzulie |
