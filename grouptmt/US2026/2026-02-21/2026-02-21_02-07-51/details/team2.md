@@ -236,10 +236,10 @@
 | 228 | 200 | Rebecca Doughman |
 | 229 | 200 | Howard Forest |
 | 230 | 200 | Cheeky Brickmatch |
-| 231 | 198 | Andea Beck |
-| 232 | 198 | Julio A Laracuente |
-| 233 | 198 | Richard Horton |
-| 234 | 198 | Alyssa Dean |
+| 231 | 198 | Julio A Laracuente |
+| 232 | 198 | Andea Beck |
+| 233 | 198 | Alyssa Dean |
+| 234 | 198 | Richard Horton |
 | 235 | 197 | Smashanator |
 | 236 | 196 | Alexandra Reese |
 | 237 | 194 | Mike Aprilliano |
@@ -252,8 +252,8 @@
 | 244 | 189 | Sanaa Nounoussa |
 | 245 | 188 | Justin Hines |
 | 246 | 188 | Leah Keesling |
-| 247 | 184 | Jumpy Gridpiece |
-| 248 | 184 | Sassy Linkbuilder |
+| 247 | 184 | Sassy Linkbuilder |
+| 248 | 184 | Jumpy Gridpiece |
 | 249 | 183 | Julie Hamilton |
 | 250 | 183 | Peppy Zone |
 | 251 | 181 | Julay |
@@ -341,8 +341,8 @@
 | 333 | 140 | Anthony Huebel |
 | 334 | 139 | Jackson Smith |
 | 335 | 138 | Ibiza Carolina LaRose |
-| 336 | 138 | Gursharan Sandhu |
-| 337 | 138 | King Shamell Young |
+| 336 | 138 | King Shamell Young |
+| 337 | 138 | Gursharan Sandhu |
 | 338 | 136 | RavensBeard |
 | 339 | 135 | Robin L. Vial |
 | 340 | 135 | Michelle Loar |

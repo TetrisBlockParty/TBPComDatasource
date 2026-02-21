@@ -172,15 +172,15 @@
 | 164 | 81 | Tina Baurdau |
 | 165 | 80 | Vixen Queen |
 | 166 | 79 | gremicx |
-| 167 | 78 | Clever Patterner |
+| 167 | 78 | Angie Harper |
 | 168 | 78 | Karon Griffin |
-| 169 | 78 | Angie Harper |
+| 169 | 78 | Clever Patterner |
 | 170 | 77 | Lush Risebuilder |
 | 171 | 77 | Nikki Pags |
-| 172 | 76 | Oliver Neal II |
-| 173 | 76 | Melissa Orth Hunter |
-| 174 | 76 | Chad Wilson |
-| 175 | 76 | Tasha Wesson-Torrence |
+| 172 | 76 | Melissa Orth Hunter |
+| 173 | 76 | Oliver Neal II |
+| 174 | 76 | Tasha Wesson-Torrence |
+| 175 | 76 | Chad Wilson |
 | 176 | 75 | Jack Bo |
 | 177 | 75 | Patti Skiles |
 | 178 | 75 | Janelle Goetz |
