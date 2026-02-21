@@ -106,8 +106,8 @@
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
-| 101 | 192 | Shauna Havard |
-| 102 | 192 | Crystal Carroll |
+| 101 | 192 | Crystal Carroll |
+| 102 | 192 | Shauna Havard |
 | 103 | 191 | Melvin Baird |
 | 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
@@ -137,8 +137,8 @@
 | 129 | 156 | Holly |
 | 130 | 154 | Chaz Duncan |
 | 131 | 153 | Empress Oasis |
-| 132 | 151 | Dana Scott |
-| 133 | 151 | Bethany Ison |
+| 132 | 151 | Bethany Ison |
+| 133 | 151 | Dana Scott |
 | 134 | 149 | Diana Houts |
 | 135 | 148 | Brittany Marsh |
 | 136 | 148 | Janita Parrish |
@@ -178,10 +178,10 @@
 | 170 | 125 | AyeKay |
 | 171 | 125 | Heather Tushner |
 | 172 | 125 | Sarah Brown |
-| 173 | 124 | SammieJo Guy |
-| 174 | 124 | Allen Lloyd |
+| 173 | 124 | Allen Lloyd |
+| 174 | 124 | SammieJo Guy |
 | 175 | 123 | Cherrish Duren |
-| 176 | 122 | 🥔🥔 Spudz |
+| 176 | 122 | Carlos Ramirez |
 | 177 | 122 | Sherri |
 | 178 | 122 | 🥔🥔 Spudz |
 | 179 | 121 | Megan Cutshaw |
@@ -213,8 +213,8 @@
 | 205 | 108 | Ali Ian |
 | 206 | 108 | Shane Kalamata Platoon |
 | 207 | 107 | Rafael Valentin |
-| 208 | 106 | Rebecca Morris |
-| 209 | 106 | Zappy Snaplink |
+| 208 | 106 | Zappy Snaplink |
+| 209 | 106 | Rebecca Morris |
 | 210 | 105 | Brandi Durig |
 | 211 | 104 | Chris Alexinas |
 | 212 | 103 | Chris Bernstein |
@@ -340,7 +340,7 @@
 | 332 | 70 | Robert Rangel |
 | 333 | 70 | Niome Encinias |
 | 334 | 70 | PlatinumRose |
-| 335 | 69 | Meli  Jackson |
+| 335 | 69 | Jessica Wells |
 | 336 | 69 | Heather Bruce |
 | 337 | 69 | Meli  Jackson |
 | 338 | 68 | mitch |

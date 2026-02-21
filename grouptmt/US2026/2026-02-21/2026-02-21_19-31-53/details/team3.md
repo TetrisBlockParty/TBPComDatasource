@@ -101,8 +101,8 @@
 | 93 | 389 | Elissa S-k |
 | 94 | 386 | Katie Knaus |
 | 95 | 383 | Joey Banks |
-| 96 | 378 | Makelini Mausia |
-| 97 | 378 | Tasha Schriewer |
+| 96 | 378 | Tasha Schriewer |
+| 97 | 378 | Makelini Mausia |
 | 98 | 372 | Jessica Bechler |
 | 99 | 371 | Jesse Olive |
 | 100 | 368 | Stephanie Woods |
@@ -164,8 +164,8 @@
 | 156 | 214 | Jenny Hrndz |
 | 157 | 214 | Amy Fuller Heaton |
 | 158 | 212 | Krystal Gerstberger |
-| 159 | 211 | Katrina Schroeder |
-| 160 | 211 | Katrina Turner |
+| 159 | 211 | Katrina Turner |
+| 160 | 211 | Katrina Schroeder |
 | 161 | 207 | Nicole Myers |
 | 162 | 207 | Chris Bell |
 | 163 | 207 | Jessica |
@@ -309,8 +309,8 @@
 | 301 | 111 | El Chapa |
 | 302 | 111 | Stephanie Zahm |
 | 303 | 111 | Rainbow77375 |
-| 304 | 110 | Carol Cain Thurman |
-| 305 | 110 | Danielle Weikel |
+| 304 | 110 | Danielle Weikel |
+| 305 | 110 | Carol Cain Thurman |
 | 306 | 110 | Tye Stovall |
 | 307 | 109 | Diana Ibarra |
 | 308 | 109 | mommablock |

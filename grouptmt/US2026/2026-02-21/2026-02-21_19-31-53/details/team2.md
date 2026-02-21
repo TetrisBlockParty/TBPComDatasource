@@ -129,8 +129,8 @@
 | 121 | 787 | Laura McCarthey |
 | 122 | 780 | Amanda Grohmann |
 | 123 | 772 | Megan Ferguson Leone |
-| 124 | 771 | Terri McKelvey McKinley |
-| 125 | 771 | Missie Lawson Gebhardt |
+| 124 | 771 | Missie Lawson Gebhardt |
+| 125 | 771 | Terri McKelvey McKinley |
 | 126 | 763 | Samantha Jo |
 | 127 | 756 | Stephanie Neuburger |
 | 128 | 751 | Loony Snapper |
@@ -208,12 +208,12 @@
 | 200 | 531 | Chris Wanner |
 | 201 | 528 | Brownie Sheena |
 | 202 | 527 | Stacy Stickle |
-| 203 | 527 | Ryan Gunther |
-| 204 | 527 | Adira Brown |
-| 205 | 526 | April Dawn Gussler |
-| 206 | 526 | Ashley Guernsey-Martin |
-| 207 | 525 | Desiree Anderson |
-| 208 | 525 | Tommy Tha Boss Gunz |
+| 203 | 527 | Adira Brown |
+| 204 | 527 | Ryan Gunther |
+| 205 | 526 | Ashley Guernsey-Martin |
+| 206 | 526 | April Dawn Gussler |
+| 207 | 525 | Tommy Tha Boss Gunz |
+| 208 | 525 | Desiree Anderson |
 | 209 | 522 | Slip |
 | 210 | 521 | Joce Lynn |
 | 211 | 519 | Rob Brown |

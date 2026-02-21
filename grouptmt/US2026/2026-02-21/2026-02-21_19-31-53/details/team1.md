@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Colena Davenport |
-| 36 | 510 | Lawrence Belanger |
+| 35 | 510 | Lawrence Belanger |
+| 36 | 510 | Colena Davenport |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 486 | Sarah Lombardo |
@@ -101,8 +101,8 @@
 | 93 | 222 | Kristen Gideon |
 | 94 | 214 | Billie Dawn Sparks |
 | 95 | 213 | Lexuriuos Lifestlye |
-| 96 | 212 | Mandyy Rae |
-| 97 | 212 | Jaimie Lynn |
+| 96 | 212 | Jaimie Lynn |
+| 97 | 212 | Mandyy Rae |
 | 98 | 211 | Marianita Garcia |
 | 99 | 210 | Ly Phethmany |
 | 100 | 204 | Ananda Mendez |
@@ -112,9 +112,9 @@
 | 104 | 193 | Lachelle Dillon |
 | 105 | 192 | Shaykmia |
 | 106 | 191 | Diane Byrd |
-| 107 | 190 | Sweetts |
-| 108 | 190 | Gracie |
-| 109 | 190 | Thorne Shumate |
+| 107 | 190 | Gracie |
+| 108 | 190 | Thorne Shumate |
+| 109 | 190 | Sweetts |
 | 110 | 189 | Happy Basegrid |
 | 111 | 188 | Sam Williams |
 | 112 | 187 | Seante Bullock |
@@ -129,8 +129,8 @@
 | 121 | 176 | Basment Living |
 | 122 | 175 | Nicole Roseberry Weber |
 | 123 | 174 | Michael |
-| 124 | 171 | Greg Premoe |
-| 125 | 171 | David DeSantis |
+| 124 | 171 | David DeSantis |
+| 125 | 171 | Greg Premoe |
 | 126 | 170 | Veronica Eve |
 | 127 | 170 | Jason Jones |
 | 128 | 169 | Abbey Crespo |
@@ -154,8 +154,8 @@
 | 146 | 150 | Adele Rahman |
 | 147 | 149 | Arianna O'Brien |
 | 148 | 148 | Shauntina Burke |
-| 149 | 147 | Leslie Bush Yarbrough |
-| 150 | 147 | Davery Spencer Adair |
+| 149 | 147 | Davery Spencer Adair |
+| 150 | 147 | Leslie Bush Yarbrough |
 | 151 | 146 | Christy Jones |
 | 152 | 145 | Agustin Duarte Orozco |
 | 153 | 145 | Angela Fairbank |
