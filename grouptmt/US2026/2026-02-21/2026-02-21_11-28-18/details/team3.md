@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Annie Déè |
 | 74 | 342 | Trezure Gonzalez |
@@ -90,8 +90,8 @@
 | 82 | 313 | Elaine Webb Graves |
 | 83 | 309 | Rich LeBlanc |
 | 84 | 309 | CeceGeGe |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -175,8 +175,8 @@
 | 167 | 140 | Jay Horn |
 | 168 | 140 | Carrie Huskey |
 | 169 | 135 | Cheryl Hinch Tenbrook |
-| 170 | 134 | Emma |
-| 171 | 134 | DanceLuvLaugh |
+| 170 | 134 | DanceLuvLaugh |
+| 171 | 134 | Emma |
 | 172 | 131 | Jl |
 | 173 | 129 | Lesley Perez |
 | 174 | 129 | Logan Naccarato |

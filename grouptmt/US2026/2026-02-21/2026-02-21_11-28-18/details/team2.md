@@ -174,8 +174,8 @@
 | 166 | 460 | Cody Smith-Candelaria |
 | 167 | 456 | Drwatson187 |
 | 168 | 454 | Casey Schumacher |
-| 169 | 453 | Mischelle Clay |
-| 170 | 453 | Osun Anuket Esu |
+| 169 | 453 | Osun Anuket Esu |
+| 170 | 453 | Mischelle Clay |
 | 171 | 452 | Alezandra Smith |
 | 172 | 450 | Cheech Dta |
 | 173 | 450 | Giggy Blocker |
@@ -193,9 +193,9 @@
 | 185 | 411 | Ricky Fortune |
 | 186 | 409 | Sparkles |
 | 187 | 406 | Erin StFrancis |
-| 188 | 400 | Crystie Hicks |
-| 189 | 400 | Rhonda Milstead |
-| 190 | 400 | Tammy Allen |
+| 188 | 400 | Tammy Allen |
+| 189 | 400 | Crystie Hicks |
+| 190 | 400 | Rhonda Milstead |
 | 191 | 397 | Ashley Guernsey-Martin |
 | 192 | 397 | coleksquad |
 | 193 | 396 | Steven Marshaun |

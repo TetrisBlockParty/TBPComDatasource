@@ -80,8 +80,8 @@
 | 72 | 178 | Lori |
 | 73 | 175 | Dustee Craddock-Harrison |
 | 74 | 173 | Jeff Brian Gates |
-| 75 | 171 | Melvin Baird |
-| 76 | 171 | Zethra Prenisha Rahming |
+| 75 | 171 | Zethra Prenisha Rahming |
+| 76 | 171 | Melvin Baird |
 | 77 | 170 | Girl |
 | 78 | 170 | Leah Kutz Zirbel |
 | 79 | 167 | Denise Carlson |
@@ -95,8 +95,8 @@
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | Jay28 |
-| 91 | 147 | 030Synner |
+| 90 | 147 | 030Synner |
+| 91 | 147 | Jay28 |
 | 92 | 146 | Peachy Fall |
 | 93 | 143 | Nugget |
 | 94 | 141 | Malakai Darien Fox |
@@ -134,14 +134,14 @@
 | 126 | 118 | Leslie Nicole |
 | 127 | 116 | Stephme310 |
 | 128 | 116 | Diana Houts |
-| 129 | 115 | Jayk |
-| 130 | 115 | Ultramarine |
+| 129 | 115 | Ultramarine |
+| 130 | 115 | Jayk |
 | 131 | 113 | Andria Lynn |
 | 132 | 112 | Austin Owens |
 | 133 | 112 | Bryan Hodgins |
 | 134 | 112 | Brittany Marsh |
-| 135 | 111 | Lazy Blocker |
-| 136 | 111 | Gwendolyn Pitcairn |
+| 135 | 111 | Gwendolyn Pitcairn |
+| 136 | 111 | Lazy Blocker |
 | 137 | 110 | H.R. Block |
 | 138 | 109 | KM8 |
 | 139 | 108 | Rio Rocha |
@@ -173,8 +173,8 @@
 | 165 | 94 | Chastity Mitchell |
 | 166 | 94 | DonMega |
 | 167 | 93 | Zesty Twistbuilder |
-| 168 | 90 | No Strings Attached Ra |
-| 169 | 90 | Amy Suckarieh |
+| 168 | 90 | Amy Suckarieh |
+| 169 | 90 | No Strings Attached Ra |
 | 170 | 90 | Judy Cox |
 | 171 | 89 | shark tato |
 | 172 | 89 | mike |
@@ -241,7 +241,7 @@
 | 233 | 70 | Richard-April Kice |
 | 234 | 69 | Carol Ricks Raymond |
 | 235 | 69 | Jessica Wells |
-| 236 | 68 | LS |
+| 236 | 68 | GBR |
 | 237 | 68 | Mylo Lipscomb |
 | 238 | 68 | Jennifer Perkins |
 | 239 | 68 | 中山成巳 |
