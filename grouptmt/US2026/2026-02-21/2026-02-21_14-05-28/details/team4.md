@@ -89,8 +89,8 @@
 | 81 | 180 | Leah Kutz Zirbel |
 | 82 | 179 | Epic Curvetile |
 | 83 | 178 | Lori |
-| 84 | 173 | Zethra Prenisha Rahming |
-| 85 | 173 | Jeff Brian Gates |
+| 84 | 173 | Jeff Brian Gates |
+| 85 | 173 | Zethra Prenisha Rahming |
 | 86 | 171 | Melvin Baird |
 | 87 | 170 | Girl |
 | 88 | 170 | Justin Hannigan |
@@ -142,8 +142,8 @@
 | 134 | 121 | Zany Shatterer |
 | 135 | 121 | Megan Cutshaw |
 | 136 | 120 | Joshua Guess |
-| 137 | 119 | Stephme310 |
-| 138 | 119 | Kristin Manee |
+| 137 | 119 | Kristin Manee |
+| 138 | 119 | Stephme310 |
 | 139 | 118 | Leslie Nicole |
 | 140 | 116 | Diana Houts |
 | 141 | 115 | Jayk |

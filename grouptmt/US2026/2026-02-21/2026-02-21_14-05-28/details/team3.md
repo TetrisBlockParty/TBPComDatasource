@@ -33,8 +33,8 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Briarblack |
-| 29 | 867 | Delilah belle |
+| 28 | 867 | Delilah belle |
+| 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
 | 32 | 810 | Shane Wilson Jr. |
@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Kathryn Keenan-Taggart |
-| 59 | 446 | Ebony West-Cundiff |
+| 58 | 446 | Ebony West-Cundiff |
+| 59 | 446 | Kathryn Keenan-Taggart |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -183,8 +183,8 @@
 | 175 | 152 | Shiny Zonebuilder |
 | 176 | 151 | MsBee |
 | 177 | 150 | Nicole Myers |
-| 178 | 149 | Angel Mendez |
-| 179 | 149 | Bea Miles |
+| 178 | 149 | Bea Miles |
+| 179 | 149 | Angel Mendez |
 | 180 | 147 | Desiree Gold |
 | 181 | 146 | Latoya Mayne |
 | 182 | 146 | Denita Mungro |

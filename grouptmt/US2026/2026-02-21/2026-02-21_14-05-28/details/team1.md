@@ -62,8 +62,8 @@
 | 54 | 256 | Tipsy Column |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
-| 57 | 244 | Tdub |
-| 58 | 244 | Franswa |
+| 57 | 244 | Franswa |
+| 58 | 244 | Tdub |
 | 59 | 240 | Rachael |
 | 60 | 237 | Elaine Elaine |
 | 61 | 226 | Sharon Reynolds |
@@ -87,8 +87,8 @@
 | 79 | 193 | Lachelle Dillon |
 | 80 | 192 | Shaykmia |
 | 81 | 191 | Jazzy Framezone |
-| 82 | 190 | Thorne Shumate |
-| 83 | 190 | Sweetts |
+| 82 | 190 | Sweetts |
+| 83 | 190 | Thorne Shumate |
 | 84 | 189 | Happy Basegrid |
 | 85 | 180 | Erez Yosef |
 | 86 | 178 | Danielle Little-Daugherty |

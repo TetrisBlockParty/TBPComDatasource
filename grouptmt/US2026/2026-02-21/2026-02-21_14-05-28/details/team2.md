@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -330,8 +330,8 @@
 | 322 | 289 | Hyper Cluster |
 | 323 | 289 | Frisky Clearpiece |
 | 324 | 288 | Megan Phillips |
-| 325 | 285 | Mandi Douglas Hilt |
-| 326 | 285 | June E Hanson |
+| 325 | 285 | June E Hanson |
+| 326 | 285 | Mandi Douglas Hilt |
 | 327 | 284 | Autumn Schaeffer |
 | 328 | 283 | Davetta Sanford |
 | 329 | 283 | Byung Bae Park |
