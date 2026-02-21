@@ -38,8 +38,8 @@
 | 30 | 511 | Misty Hollibaugh |
 | 31 | 494 | Rodney McMath Jr. |
 | 32 | 486 | Landon Keith Graffeo |
-| 33 | 483 | Carmethia Clemons Haslerig |
-| 34 | 483 | Kimberly Love |
+| 33 | 483 | Kimberly Love |
+| 34 | 483 | Carmethia Clemons Haslerig |
 | 35 | 473 | Elizabeth Sallas |
 | 36 | 465 | Dawn Alexander |
 | 37 | 463 | KM8 |
@@ -68,8 +68,8 @@
 | 60 | 334 | Leslie Thomas |
 | 61 | 309 | Lisa Davis |
 | 62 | 308 | Jen Allison |
-| 63 | 300 | Jason Hart |
-| 64 | 300 | David Lay |
+| 63 | 300 | David Lay |
+| 64 | 300 | Jason Hart |
 | 65 | 299 | Livvy |
 | 66 | 298 | Nugget |
 | 67 | 295 | Latisha Davis |
@@ -161,17 +161,17 @@
 | 153 | 131 | Angela Geist Jusinski |
 | 154 | 130 | Casey Jeffcoat |
 | 155 | 129 | Victoria Faniel |
-| 156 | 128 | Stephme310 |
-| 157 | 128 | Rio Rocha |
+| 156 | 128 | Rio Rocha |
+| 157 | 128 | Stephme310 |
 | 158 | 127 | Dreamy Snapgrid |
 | 159 | 126 | TinyLegoRose |
 | 160 | 125 | AyeKay |
 | 161 | 124 | Allen Lloyd |
 | 162 | 124 | SammieJo Guy |
 | 163 | 123 | Cherrish Duren |
-| 164 | 122 | Sherri |
+| 164 | 122 | Carlos Ramirez |
 | 165 | 122 | 🥔🥔 Spudz |
-| 166 | 122 | Carlos Ramirez |
+| 166 | 122 | Sherri |
 | 167 | 121 | Smiley Tiltbuilder |
 | 168 | 121 | Megan Cutshaw |
 | 169 | 120 | KayM |

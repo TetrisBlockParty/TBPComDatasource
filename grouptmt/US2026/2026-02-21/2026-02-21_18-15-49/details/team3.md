@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Shane Wilson Jr. |
-| 41 | 810 | Zippy Strikesnap |
+| 40 | 810 | Zippy Strikesnap |
+| 41 | 810 | Shane Wilson Jr. |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -203,8 +203,8 @@
 | 195 | 166 | MsBee |
 | 196 | 166 | Kelly Ann Child |
 | 197 | 165 | Kali Kelz Williams |
-| 198 | 163 | Christine Trester |
-| 199 | 163 | Stephanie Hill |
+| 198 | 163 | Stephanie Hill |
+| 199 | 163 | Christine Trester |
 | 200 | 162 | Stephanie Whitefield |
 | 201 | 161 | BŘŰŤİÇŨŚ |
 | 202 | 160 | Tiffany Davie |
@@ -247,11 +247,11 @@
 | 239 | 138 | Boldy Corner |
 | 240 | 137 | Joy Petroski |
 | 241 | 136 | Troy |
-| 242 | 135 | Terry Jo Jones |
-| 243 | 135 | Erykah |
+| 242 | 135 | Erykah |
+| 243 | 135 | Terry Jo Jones |
 | 244 | 134 | Cesar Barraza |
-| 245 | 134 | Skinny Baldez |
-| 246 | 134 | Sarah Moyer |
+| 245 | 134 | Sarah Moyer |
+| 246 | 134 | Skinny Baldez |
 | 247 | 133 | LaNette Morgan |
 | 248 | 132 | Daryn Elliott |
 | 249 | 131 | Darlene McMillan |
@@ -275,9 +275,9 @@
 | 267 | 121 | France Vézina |
 | 268 | 120 | Lys |
 | 269 | 119 | BugMansMom |
-| 270 | 118 | Sabrina Hardrick |
+| 270 | 118 | Fancy Curver |
 | 271 | 118 | Damian Reid |
-| 272 | 118 | Fancy Curver |
+| 272 | 118 | Sabrina Hardrick |
 | 273 | 117 | Dee Pratt |
 | 274 | 116 | Denise Marie |
 | 275 | 115 | Daring Builder |
@@ -302,8 +302,8 @@
 | 294 | 109 | mommablock |
 | 295 | 108 | LaTanya GeminiondaRise Johnson |
 | 296 | 108 | Hanna Kim |
-| 297 | 107 | Jumpy Wrecker |
-| 298 | 107 | Melissa Snyder |
+| 297 | 107 | Melissa Snyder |
+| 298 | 107 | Jumpy Wrecker |
 | 299 | 107 | Bouncy Blockbuilder |
 | 300 | 106 | Cheeky Snapper |
 | 301 | 106 | Saucy Buildout |
@@ -346,8 +346,8 @@
 | 338 | 96 | Oliver Neal II |
 | 339 | 96 | D3NO |
 | 340 | 95 | Brooke Bauer |
-| 341 | 94 | Tracey Cox |
-| 342 | 94 | Nichole Greene |
+| 341 | 94 | Nichole Greene |
+| 342 | 94 | Tracey Cox |
 | 343 | 93 | Tiffany Ford |
 | 344 | 93 | Martin Bernier |
 | 345 | 93 | Kevin Russell |

@@ -198,12 +198,12 @@
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |
 | 192 | 527 | Adira Brown |
-| 193 | 526 | April Dawn Gussler |
-| 194 | 526 | Ashley Guernsey-Martin |
-| 195 | 525 | Desiree Anderson |
-| 196 | 525 | Tommy Tha Boss Gunz |
-| 197 | 522 | Mema |
-| 198 | 522 | Slip |
+| 193 | 526 | Ashley Guernsey-Martin |
+| 194 | 526 | April Dawn Gussler |
+| 195 | 525 | Tommy Tha Boss Gunz |
+| 196 | 525 | Desiree Anderson |
+| 197 | 522 | Slip |
+| 198 | 522 | Mema |
 | 199 | 521 | Joce Lynn |
 | 200 | 519 | Rob Brown |
 | 201 | 516 | Missie Lawson Gebhardt |
@@ -508,8 +508,8 @@
 | 500 | 237 | Ben Barkley |
 | 501 | 237 | Kiorah Blaze |
 | 502 | 237 | Heather Piotrowski |
-| 503 | 236 | Brave Gridpiece |
-| 504 | 236 | snkylnk |
+| 503 | 236 | snkylnk |
+| 504 | 236 | Brave Gridpiece |
 | 505 | 236 | Julio A Laracuente |
 | 506 | 234 | KayLynn Ogden McClelland |
 | 507 | 234 | Manny Trindade |
