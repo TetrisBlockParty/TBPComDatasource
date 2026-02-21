@@ -103,16 +103,16 @@
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
-| 98 | 114 | Giddy Cascade |
-| 99 | 114 | Colleen Wise |
+| 98 | 114 | Colleen Wise |
+| 99 | 114 | Giddy Cascade |
 | 100 | 113 | Evie Khalil |
 | 101 | 112 | Miguel Teixeira |
 | 102 | 112 | Nicole Roseberry Weber |
 | 103 | 112 | Christina Graham |
 | 104 | 112 | Kristen Gideon |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Heidi Feurer |
-| 107 | 110 | Garcia Bailey |
+| 106 | 110 | Garcia Bailey |
+| 107 | 110 | Heidi Feurer |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |

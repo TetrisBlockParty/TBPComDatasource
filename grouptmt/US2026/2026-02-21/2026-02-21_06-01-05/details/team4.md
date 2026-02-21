@@ -109,10 +109,10 @@
 | 101 | 114 | Zany Shatterer |
 | 102 | 113 | Andria Lynn |
 | 103 | 112 | Austin Owens |
-| 104 | 112 | Brittany Marsh |
-| 105 | 112 | Bryan Hodgins |
-| 106 | 111 | Lazy Blocker |
-| 107 | 111 | Gwendolyn Pitcairn |
+| 104 | 112 | Bryan Hodgins |
+| 105 | 112 | Brittany Marsh |
+| 106 | 111 | Gwendolyn Pitcairn |
+| 107 | 111 | Lazy Blocker |
 | 108 | 110 | H.R. Block |
 | 109 | 109 | Swanky Fitline |
 | 110 | 108 | Rio Rocha |
@@ -234,7 +234,7 @@
 | 226 | 57 | Alan George LaRage |
 | 227 | 57 | Stephanie Jones |
 | 228 | 56 | Bradley Reeves |
-| 229 | 56 | Cj Lewis-haut |
+| 229 | 56 | Brandon Crabbs |
 | 230 | 56 | Jennifer Perkins |
 | 231 | 56 | Cj Lewis-haut |
 | 232 | 55 | TRCuse |

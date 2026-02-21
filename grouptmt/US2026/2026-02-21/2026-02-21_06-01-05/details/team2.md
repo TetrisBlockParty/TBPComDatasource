@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3588 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -156,8 +156,8 @@
 | 148 | 409 | Sparkles |
 | 149 | 406 | Erin StFrancis |
 | 150 | 401 | Poppy Snap |
-| 151 | 400 | Tammy Allen |
-| 152 | 400 | Crystie Hicks |
+| 151 | 400 | Crystie Hicks |
+| 152 | 400 | Tammy Allen |
 | 153 | 397 | Ashley Guernsey-Martin |
 | 154 | 391 | Chilly Bridgepiece |
 | 155 | 391 | Steven Marshaun |
@@ -266,8 +266,8 @@
 | 258 | 256 | Tee Jaleesa |
 | 259 | 255 | Santana Miyagi |
 | 260 | 254 | Julie Hamilton |
-| 261 | 252 | Matt Johnson |
-| 262 | 252 | Alezandra Smith |
+| 261 | 252 | Alezandra Smith |
+| 262 | 252 | Matt Johnson |
 | 263 | 251 | Ann Knutson Anderson |
 | 264 | 250 | Barbra Miller |
 | 265 | 249 | SwampRebel |
@@ -320,8 +320,8 @@
 | 312 | 216 | Tum |
 | 313 | 215 | Jordan Petro |
 | 314 | 213 | Rose Fx |
-| 315 | 212 | BK Queen |
-| 316 | 212 | Amanda Canterbury |
+| 315 | 212 | Amanda Canterbury |
+| 316 | 212 | BK Queen |
 | 317 | 212 | Aleasha M Brown |
 | 318 | 208 | Smashanator |
 | 319 | 208 | Mema |
@@ -572,8 +572,8 @@
 | 564 | 123 | Elizabeth Ann Arrowood |
 | 565 | 123 | Ri St |
 | 566 | 123 | Catherine Varea |
-| 567 | 122 | Michael Tate |
-| 568 | 122 | Cassie Newton |
+| 567 | 122 | Cassie Newton |
+| 568 | 122 | Michael Tate |
 | 569 | 122 | Mia Muse Best |
 | 570 | 121 | Pam Doughty |
 | 571 | 121 | g |
