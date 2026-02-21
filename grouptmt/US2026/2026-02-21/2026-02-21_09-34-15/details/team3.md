@@ -138,8 +138,8 @@
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
