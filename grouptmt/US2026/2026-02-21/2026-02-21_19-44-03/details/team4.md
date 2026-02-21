@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -116,10 +116,10 @@
 | 108 | 186 | Leslie Nicole |
 | 109 | 185 | Peachy Fall |
 | 110 | 185 | Andy Cabral |
-| 111 | 181 | Andria Lynn |
-| 112 | 181 | Carter Jones |
-| 113 | 180 | Justin Hannigan |
-| 114 | 180 | Leah Kutz Zirbel |
+| 111 | 181 | Carter Jones |
+| 112 | 181 | Andria Lynn |
+| 113 | 180 | Leah Kutz Zirbel |
+| 114 | 180 | Justin Hannigan |
 | 115 | 179 | Epic Curvetile |
 | 116 | 178 | Lori |
 | 117 | 176 | Stacey Stano |
@@ -155,9 +155,9 @@
 | 147 | 141 | Kathy Allen |
 | 148 | 140 | John Brunetti |
 | 149 | 140 | Roger Coulter |
-| 150 | 140 | John Brunetti |
-| 151 | 137 | PeaceOs |
-| 152 | 137 | Avy Absol |
+| 150 | 140 | Shannon Ferrari |
+| 151 | 137 | Avy Absol |
+| 152 | 137 | PeaceOs |
 | 153 | 136 | Tanner Lund |
 | 154 | 136 | Serena Goodridge |
 | 155 | 135 | Victoria Faniel |
@@ -255,8 +255,8 @@
 | 247 | 95 | Maureen Flanigan |
 | 248 | 95 | Jen Caldwell |
 | 249 | 94 | Chastity Mitchell |
-| 250 | 94 | Madison Sweere |
-| 251 | 94 | DonMega |
+| 250 | 94 | DonMega |
+| 251 | 94 | Madison Sweere |
 | 252 | 93 | Matt Dell'Olio |
 | 253 | 92 | Christina Black |
 | 254 | 91 | Zach Kerbs |

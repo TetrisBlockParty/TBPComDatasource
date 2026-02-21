@@ -193,8 +193,8 @@
 | 185 | 184 | Troy |
 | 186 | 182 | Hyper Matchzone |
 | 187 | 181 | Nicholas Roddy |
-| 188 | 179 | Ashley Jones |
-| 189 | 179 | Daira Largen |
+| 188 | 179 | Daira Largen |
+| 189 | 179 | Ashley Jones |
 | 190 | 178 | Ryan Williams |
 | 191 | 178 | AlsoJess |
 | 192 | 177 | Trisha Balmer |

@@ -34,8 +34,8 @@
 | 26 | 565 | Jennifer Cates |
 | 27 | 547 | Marianne Louise West |
 | 28 | 543 | Aaron Garnett |
-| 29 | 541 | Drew Magnus |
-| 30 | 541 | Jorge Andrade |
+| 29 | 541 | Jorge Andrade |
+| 30 | 541 | Drew Magnus |
 | 31 | 539 | Karin Gillen |
 | 32 | 521 | Hyp James NObettadanluvarat |
 | 33 | 517 | Felicia Lewis |
@@ -95,8 +95,8 @@
 | 87 | 239 | Cynthia Bradley |
 | 88 | 238 | John J. Cronin |
 | 89 | 230 | Frothy Pattern |
-| 90 | 228 | Kellie |
-| 91 | 228 | Trippy Redd |
+| 90 | 228 | Trippy Redd |
+| 91 | 228 | Kellie |
 | 92 | 227 | Seante Bullock |
 | 93 | 227 | TSwag |
 | 94 | 226 | Sharon Reynolds |
@@ -189,8 +189,8 @@
 | 181 | 127 | Brave Wrecker |
 | 182 | 126 | Nerdy Linkblock |
 | 183 | 125 | Tipsy Riseclear |
-| 184 | 124 | Cartier |
-| 185 | 124 | Flashy Rotator |
+| 184 | 124 | Flashy Rotator |
+| 185 | 124 | Cartier |
 | 186 | 122 | Margo Wagner |
 | 187 | 122 | Melissa Lemmon |
 | 188 | 121 | April Carroll |
