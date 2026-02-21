@@ -183,7 +183,7 @@
 | 175 | 97 | Brandi Durig |
 | 176 | 96 | Sammy Noguera |
 | 177 | 96 | Marcus TheeyoungWoe Gilmore |
-| 178 | 96 | Sammy Noguera |
+| 178 | 96 | Zappy Snaplink |
 | 179 | 95 | Jen Caldwell |
 | 180 | 95 | Meagan Nicole |
 | 181 | 95 | Victoria Faniel |
@@ -248,10 +248,10 @@
 | 240 | 75 | Christina Black |
 | 241 | 75 | Rosemary Foster |
 | 242 | 74 | Tyler Terrific |
-| 243 | 73 | Staci Robinson Jones |
-| 244 | 73 | Lynn Marie |
-| 245 | 73 | Rheanda Weaskus |
-| 246 | 73 | Cristy Duerksen |
+| 243 | 73 | Rheanda Weaskus |
+| 244 | 73 | Cristy Duerksen |
+| 245 | 73 | Lynn Marie |
+| 246 | 73 | Staci Robinson Jones |
 | 247 | 72 | Sam Bishop |
 | 248 | 71 | Mylo Lipscomb |
 | 249 | 71 | Marcela Johnson |

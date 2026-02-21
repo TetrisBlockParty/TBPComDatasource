@@ -121,8 +121,8 @@
 | 113 | 674 | Dannette Goldberg-Richards |
 | 114 | 672 | Wendy Harder Gage |
 | 115 | 665 | Dineisha Carpenter |
-| 116 | 658 | Shameika Trail |
-| 117 | 658 | Pacynthia Williams |
+| 116 | 658 | Pacynthia Williams |
+| 117 | 658 | Shameika Trail |
 | 118 | 649 | Anna Edwards |
 | 119 | 641 | Ricardo Burton |
 | 120 | 633 | Nancy Reid |
@@ -310,8 +310,8 @@
 | 302 | 303 | Crystal Greene |
 | 303 | 303 | Amanda Schaffer |
 | 304 | 302 | Offonar Facey |
-| 305 | 301 | Claire |
-| 306 | 301 | Lawanda Forbes |
+| 305 | 301 | Lawanda Forbes |
+| 306 | 301 | Claire |
 | 307 | 299 | Deborah Miller |
 | 308 | 299 | Catina Hutchison |
 | 309 | 299 | Tara Lynn Janes |
@@ -335,12 +335,12 @@
 | 327 | 282 | Shaun Church |
 | 328 | 282 | Carl Bradshaw |
 | 329 | 281 | Maegan Beaule |
-| 330 | 280 | Lyndi Robinson Wakefield |
-| 331 | 280 | SwampRebel |
+| 330 | 280 | SwampRebel |
+| 331 | 280 | Lyndi Robinson Wakefield |
 | 332 | 280 | Shorty |
 | 333 | 279 | Mighty Shatterfit |
-| 334 | 278 | Deana |
-| 335 | 278 | Noel Tarmy |
+| 334 | 278 | Noel Tarmy |
+| 335 | 278 | Deana |
 | 336 | 278 | Peachy Blockbuilder |
 | 337 | 276 | Vonceial Boone |
 | 338 | 276 | Andrea Maher |
@@ -367,8 +367,8 @@
 | 359 | 264 | Dapper Dasher |
 | 360 | 264 | Giddy Gridclear |
 | 361 | 263 | Taylor Flowers |
-| 362 | 262 | Min |
-| 363 | 262 | Taren Cowan |
+| 362 | 262 | Taren Cowan |
+| 363 | 262 | Min |
 | 364 | 261 | MrsClaudette Will'sIam Matthews |
 | 365 | 260 | Ebony Deloach Bryant |
 | 366 | 260 | Denise Rickman |
@@ -460,8 +460,8 @@
 | 452 | 207 | Shylee Tilman |
 | 453 | 206 | RAEPR05 |
 | 454 | 206 | Neko Preston |
-| 455 | 205 | ElizabethAnn Dickinson |
-| 456 | 205 | Tj Ball |
+| 455 | 205 | Tj Ball |
+| 456 | 205 | ElizabethAnn Dickinson |
 | 457 | 204 | Ali Gralski |
 | 458 | 204 | Ryan Lauer |
 | 459 | 204 | Nicolle Danielle |
@@ -476,8 +476,8 @@
 | 468 | 200 | LaWanda Powell |
 | 469 | 199 | Fi Ne |
 | 470 | 199 | Alyssa Nadine Medelez |
-| 471 | 199 | Jessica Sutter |
-| 472 | 199 | Jenny Castro |
+| 471 | 199 | Jenny Castro |
+| 472 | 199 | Jessica Sutter |
 | 473 | 198 | Angie Bolton Workman |
 | 474 | 198 | Alyssa Dean |
 | 475 | 197 | Kati Russeau |
@@ -490,8 +490,8 @@
 | 482 | 194 | Kimberly Ann |
 | 483 | 194 | Kitybox |
 | 484 | 194 | Hoppy Brickmatch |
-| 485 | 193 | Kelly Ann McCormick |
-| 486 | 193 | Matthew Turner |
+| 485 | 193 | Matthew Turner |
+| 486 | 193 | Kelly Ann McCormick |
 | 487 | 192 | Michael Artis |
 | 488 | 191 | John Quiring |
 | 489 | 190 | Jessica Kaye DeAguero |

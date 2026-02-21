@@ -95,8 +95,8 @@
 | 87 | 320 | Or Reznitsky |
 | 88 | 316 | Fancy Cascader |
 | 89 | 313 | Elaine Webb Graves |
-| 90 | 309 | CeceGeGe |
-| 91 | 309 | Rich LeBlanc |
+| 90 | 309 | Rich LeBlanc |
+| 91 | 309 | CeceGeGe |
 | 92 | 307 | Peggi Charon |
 | 93 | 307 | Blocked |
 | 94 | 300 | Sherika C. McDaniels |
@@ -135,8 +135,8 @@
 | 127 | 195 | Jenny Hrndz |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Duane Bright |
-| 131 | 193 | Clever Shiftsnap |
+| 130 | 193 | Clever Shiftsnap |
+| 131 | 193 | Duane Bright |
 | 132 | 192 | Chasity |
 | 133 | 192 | Joe-Maggie Mathews |
 | 134 | 191 | Scott Carleton |
@@ -202,8 +202,8 @@
 | 194 | 133 | Joy Petroski |
 | 195 | 131 | Jl |
 | 196 | 129 | Lesley Perez |
-| 197 | 128 | David Bardo |
-| 198 | 128 | Jen Lewis |
+| 197 | 128 | Jen Lewis |
+| 198 | 128 | David Bardo |
 | 199 | 127 | Marquita Sheard |
 | 200 | 126 | Brandon Givens |
 | 201 | 125 | Shimika Enay Wallace |
@@ -236,7 +236,7 @@
 | 228 | 110 | Tye Stovall |
 | 229 | 110 | Danielle Weikel |
 | 230 | 110 | Stella |
-| 231 | 109 | Fredd Thomas |
+| 231 | 109 | Lys |
 | 232 | 109 | Brave Brickster |
 | 233 | 109 | mommablock |
 | 234 | 109 | Fredd Thomas |
@@ -281,11 +281,11 @@
 | 273 | 98 | Andrew Thorson |
 | 274 | 98 | Tasha Wesson-Torrence |
 | 275 | 97 | Ashley Jones |
-| 276 | 96 | Christopher Woost |
-| 277 | 96 | D3NO |
+| 276 | 96 | D3NO |
+| 277 | 96 | Christopher Woost |
 | 278 | 95 | Brooke Bauer |
-| 279 | 94 | Tracey Cox |
-| 280 | 94 | Angie Harper |
+| 279 | 94 | Angie Harper |
+| 280 | 94 | Tracey Cox |
 | 281 | 93 | Tiffany Ford |
 | 282 | 92 | Jennifer Caputo |
 | 283 | 92 | Ava Petito |
@@ -407,8 +407,8 @@
 | 399 | 70 | Ruggergamer1 |
 | 400 | 70 | Leticia Lynn Lowe |
 | 401 | 69 | Frilly Stackzone |
-| 402 | 69 | Spunky Combofall |
-| 403 | 69 | Lisa Feddeck |
+| 402 | 69 | Lisa Feddeck |
+| 403 | 69 | Spunky Combofall |
 | 404 | 69 | Kristian Thurman |
 | 405 | 68 | Charles Perrone |
 | 406 | 68 | Vaners |
