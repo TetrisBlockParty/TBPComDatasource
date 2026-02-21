@@ -74,11 +74,11 @@
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
 | 68 | 141 | Denita Mungro |
-| 69 | 135 | Danielle Cutler |
-| 70 | 135 | Latoya Mayne |
+| 69 | 135 | Latoya Mayne |
+| 70 | 135 | Danielle Cutler |
 | 71 | 134 | DanceLuvLaugh |
-| 72 | 130 | Tessina Dewey-Mancino |
-| 73 | 130 | Zippy Strikesnap |
+| 72 | 130 | Zippy Strikesnap |
+| 73 | 130 | Tessina Dewey-Mancino |
 | 74 | 129 | Giddy Twistbuilder |
 | 75 | 128 | Angel Mendez |
 | 76 | 127 | Dolores Falco |
