@@ -132,8 +132,8 @@
 | 124 | 348 | CeceGeGe |
 | 125 | 347 | Darlene McMillan |
 | 126 | 343 | Chasity |
-| 127 | 328 | Aaron Pitkin |
-| 128 | 328 | Jeni Dow |
+| 127 | 328 | Jeni Dow |
+| 128 | 328 | Aaron Pitkin |
 | 129 | 327 | Dapper Snap |
 | 130 | 326 | Fancy Cascader |
 | 131 | 323 | Ashley Raines |
@@ -201,8 +201,8 @@
 | 193 | 205 | Sarah Moyer |
 | 194 | 204 | Danielle Allison |
 | 195 | 203 | Twisty Brick LT |
-| 196 | 201 | Karon Griffin |
-| 197 | 201 | IamJust Neyamijah Washington Sr. |
+| 196 | 201 | IamJust Neyamijah Washington Sr. |
+| 197 | 201 | Karon Griffin |
 | 198 | 200 | Sharisse Baltimore |
 | 199 | 200 | glichmod |
 | 200 | 197 | Connie Mohler-Fair |
@@ -219,8 +219,8 @@
 | 211 | 191 | Scott Carleton |
 | 212 | 189 | Sissy Lowery Davis |
 | 213 | 188 | JerseyJess |
-| 214 | 186 | Sunny Rotater |
-| 215 | 186 | Aerian Preston |
+| 214 | 186 | Aerian Preston |
+| 215 | 186 | Sunny Rotater |
 | 216 | 184 | Troy |
 | 217 | 183 | Ashley Jones |
 | 218 | 182 | Hyper Matchzone |
@@ -351,7 +351,7 @@
 | 343 | 118 | Lizabeth Fox |
 | 344 | 118 | Fancy Curver |
 | 345 | 118 | Michael Nowogorski |
-| 346 | 117 | Rainbow77375 |
+| 346 | 117 | Dee Pratt |
 | 347 | 117 | Brian Battjes |
 | 348 | 117 | Rainbow77375 |
 | 349 | 116 | Elisha L Allman |
@@ -365,10 +365,10 @@
 | 357 | 114 | Elizabeth Renee |
 | 358 | 114 | Demetrious Shaw Sr. |
 | 359 | 114 | Amanda Neal |
-| 360 | 113 | Boldy Blocker |
-| 361 | 113 | Gideon Walker |
+| 360 | 113 | Gideon Walker |
+| 361 | 113 | Boldy Blocker |
 | 362 | 112 | Tia Moore |
-| 363 | 111 | Amber Groover Taylor |
+| 363 | 111 | Leticia Lynn Lowe |
 | 364 | 111 | Stephanie Zahm |
 | 365 | 111 | Amber Groover Taylor |
 | 366 | 110 | Tracey Cox |

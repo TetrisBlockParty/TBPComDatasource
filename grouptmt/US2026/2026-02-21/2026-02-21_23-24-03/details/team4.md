@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | quicksand420 |
-| 68 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | quicksand420 |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -118,8 +118,8 @@
 | 110 | 218 | Casey Grabner |
 | 111 | 213 | Chaz Duncan |
 | 112 | 212 | Calvin Cannon |
-| 113 | 211 | loulou |
-| 114 | 211 | Dizzy Tiley |
+| 113 | 211 | Dizzy Tiley |
+| 114 | 211 | loulou |
 | 115 | 210 | Damn Libra |
 | 116 | 208 | Chastity Mitchell |
 | 117 | 208 | Twisty Cascadezone |
@@ -166,8 +166,8 @@
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |
 | 160 | 148 | Mr. Party |
-| 161 | 148 | Brittany Marsh |
-| 162 | 148 | Janita Parrish |
+| 161 | 148 | Janita Parrish |
+| 162 | 148 | Brittany Marsh |
 | 163 | 147 | Meagan Nicole |
 | 164 | 147 | Jay28 |
 | 165 | 146 | Mary Ann Pabukis |
@@ -198,9 +198,9 @@
 | 190 | 130 | Chris Bernstein |
 | 191 | 129 | Crystal Nicolette Moore |
 | 192 | 129 | Dreamy Snapgrid |
-| 193 | 128 | Ericca Eldridge |
-| 194 | 128 | Ultramarine |
-| 195 | 128 | April Rondinone |
+| 193 | 128 | Ultramarine |
+| 194 | 128 | April Rondinone |
+| 195 | 128 | Ericca Eldridge |
 | 196 | 128 | Rio Rocha |
 | 197 | 128 | Kristin MacDonald |
 | 198 | 126 | Nerdy Twisterfit |
@@ -912,7 +912,7 @@
 | 904 | 22 | Slinky Fitclear |
 | 905 | 22 | OreoBlu |
 | 906 | 21 | Aleshia Harrity |
-| 907 | 21 | Amy Jean |
+| 907 | 21 | Valerie J. Potero |
 | 908 | 21 | EMSquire |
 | 909 | 21 | Amy Jean |
 | 910 | 21 | Arqunita Nene Marbury |
