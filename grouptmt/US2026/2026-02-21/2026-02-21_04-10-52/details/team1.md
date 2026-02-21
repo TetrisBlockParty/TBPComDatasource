@@ -24,8 +24,8 @@
 | 16 | 435 | 'Gilberto Martinez' |
 | 17 | 413 | COOL as Icer |
 | 18 | 399 | Drew Magnus |
-| 19 | 371 | Colena Davenport |
-| 20 | 371 | Joe Smith |
+| 19 | 371 | Joe Smith |
+| 20 | 371 | Colena Davenport |
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |

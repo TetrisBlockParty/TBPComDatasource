@@ -117,8 +117,8 @@
 | 109 | 149 | Trisha Balmer |
 | 110 | 149 | Bea Miles |
 | 111 | 148 | Grams |
-| 112 | 146 | Latoya Mayne |
-| 113 | 146 | Denita Mungro |
+| 112 | 146 | Denita Mungro |
+| 113 | 146 | Latoya Mayne |
 | 114 | 140 | Jay Horn |
 | 115 | 138 | Gumbo |
 | 116 | 135 | Nicole Flippo |
@@ -163,8 +163,8 @@
 | 155 | 107 | Sherry Ogden |
 | 156 | 107 | Bryan Byrd |
 | 157 | 106 | Desiree Gold |
-| 158 | 105 | Hoppy Buildout |
-| 159 | 105 | Emi |
+| 158 | 105 | Emi |
+| 159 | 105 | Hoppy Buildout |
 | 160 | 104 | Sarah Moyer |
 | 161 | 102 | mommablock |
 | 162 | 102 | Kali Kelz Williams |
@@ -209,8 +209,8 @@
 | 201 | 85 | Kevin Russell |
 | 202 | 85 | Peachy Rollfit |
 | 203 | 84 | Amanda L Baker |
-| 204 | 84 | Flashy Rumbler |
-| 205 | 84 | Ava Petito |
+| 204 | 84 | Ava Petito |
+| 205 | 84 | Flashy Rumbler |
 | 206 | 83 | Michael Nowogorski |
 | 207 | 82 | Crystel b520 |
 | 208 | 82 | Stephanie Whitefield |

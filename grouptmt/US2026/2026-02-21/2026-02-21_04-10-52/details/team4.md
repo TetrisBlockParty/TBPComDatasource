@@ -51,8 +51,8 @@
 | 43 | 190 | Brittney Orengo |
 | 44 | 185 | loulou |
 | 45 | 179 | Epic Curvetile |
-| 46 | 170 | Girl |
-| 47 | 170 | Leah Kutz Zirbel |
+| 46 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Girl |
 | 48 | 169 | Julian Garcia |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 163 | Denise Carlson |
@@ -74,9 +74,9 @@
 | 66 | 130 | Casey Jeffcoat |
 | 67 | 125 | Lauren Scott |
 | 68 | 123 | Nugget |
-| 69 | 122 | John Brunetti |
-| 70 | 122 | Sherri |
-| 71 | 122 | Shelly Chandler |
+| 69 | 122 | Sherri |
+| 70 | 122 | Shelly Chandler |
+| 71 | 122 | John Brunetti |
 | 72 | 121 | Smiley Tiltbuilder |
 | 73 | 120 | Joshua Guess |
 | 74 | 116 | Serena Goodridge |
