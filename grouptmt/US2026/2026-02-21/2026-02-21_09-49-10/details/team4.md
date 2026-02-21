@@ -96,20 +96,20 @@
 | 88 | 140 | Shannon Ferrari |
 | 89 | 138 | Shainne Brewer |
 | 90 | 136 | Tanner Lund |
-| 91 | 134 | Jessica Bohlken |
-| 92 | 134 | Chirpy Basepiece |
+| 91 | 134 | Chirpy Basepiece |
+| 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
 | 94 | 132 | Jessica Cagle |
-| 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Degenerate |
+| 95 | 132 | Degenerate |
+| 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
-| 99 | 131 | Dana Scott |
-| 100 | 131 | Zany Twisterfit |
+| 99 | 131 | Zany Twisterfit |
+| 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
-| 103 | 129 | John Brunetti |
-| 104 | 129 | Landon Keith Graffeo |
+| 103 | 129 | Landon Keith Graffeo |
+| 104 | 129 | John Brunetti |
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
@@ -146,7 +146,7 @@
 | 138 | 105 | AyeKay |
 | 139 | 104 | YoMomma |
 | 140 | 104 | Adam Randall |
-| 141 | 104 | YoMomma |
+| 141 | 104 | Damn Libra |
 | 142 | 102 | Faja |
 | 143 | 102 | ĥuf |
 | 144 | 101 | Saulc1991 |
@@ -166,8 +166,8 @@
 | 158 | 94 | DonMega |
 | 159 | 93 | Zesty Twistbuilder |
 | 160 | 92 | Kristin MacDonald |
-| 161 | 90 | No Strings Attached Ra |
-| 162 | 90 | Judy Cox |
+| 161 | 90 | Judy Cox |
+| 162 | 90 | No Strings Attached Ra |
 | 163 | 89 | mike |
 | 164 | 89 | shark tato |
 | 165 | 88 | Heather Tushner |

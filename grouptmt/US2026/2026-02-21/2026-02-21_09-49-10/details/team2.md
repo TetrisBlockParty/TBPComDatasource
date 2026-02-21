@@ -256,8 +256,8 @@
 | 248 | 303 | Crystal Greene |
 | 249 | 303 | Amanda Schaffer |
 | 250 | 301 | Claire |
-| 251 | 299 | Deborah Miller |
-| 252 | 299 | Christy Krissie |
+| 251 | 299 | Christy Krissie |
+| 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
 | 254 | 296 | Amber Gray |
 | 255 | 296 | Jennifer Casey-Kay |
@@ -401,8 +401,8 @@
 | 393 | 203 | Gary Stash |
 | 394 | 201 | Peppy Snapfall |
 | 395 | 201 | Zombi3 |
-| 396 | 200 | LaWanda Powell |
-| 397 | 200 | Sarah Ridenour |
+| 396 | 200 | Sarah Ridenour |
+| 397 | 200 | LaWanda Powell |
 | 398 | 199 | Fi Ne |
 | 399 | 199 | Jessica Sutter |
 | 400 | 199 | Jenny Castro |
@@ -415,8 +415,8 @@
 | 407 | 195 | Emily Lyric Converse |
 | 408 | 195 | Snappy Shatterfit |
 | 409 | 194 | Hoppy Brickmatch |
-| 410 | 194 | Mike Aprilliano |
-| 411 | 194 | Kimberly Ann |
+| 410 | 194 | Kimberly Ann |
+| 411 | 194 | Mike Aprilliano |
 | 412 | 193 | Matthew Turner |
 | 413 | 193 | Kelly Ann McCormick |
 | 414 | 191 | Lauren Fitzgerald Thomas |
@@ -462,8 +462,8 @@
 | 454 | 176 | Jennifer Malloy - Cardy |
 | 455 | 175 | Snippy Rumbler |
 | 456 | 175 | Lucero Ramirez |
-| 457 | 175 | Tina Blessed Cage |
-| 458 | 175 | Shandrica Lowe |
+| 457 | 175 | Shandrica Lowe |
+| 458 | 175 | Tina Blessed Cage |
 | 459 | 174 | Jason Garnatz |
 | 460 | 173 | Ocean-Brianna McGregor |
 | 461 | 173 | Robin |
