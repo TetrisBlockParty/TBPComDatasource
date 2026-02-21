@@ -141,8 +141,8 @@
 | 133 | 714 | Ariel |
 | 134 | 709 | Jerilyn Andrina |
 | 135 | 705 | Nika Bee |
-| 136 | 705 | David Cudicio-Hayden |
-| 137 | 705 | Roger Grabbit |
+| 136 | 705 | Roger Grabbit |
+| 137 | 705 | David Cudicio-Hayden |
 | 138 | 704 | Nerdy Clearfit |
 | 139 | 700 | Vincent Petrella |
 | 140 | 700 | Beverly Owens |
@@ -172,8 +172,8 @@
 | 164 | 630 | L3sli3 |
 | 165 | 620 | BYM4L |
 | 166 | 619 | Jamie Otero |
-| 167 | 608 | Sommer Shope |
-| 168 | 608 | John Bednarik |
+| 167 | 608 | John Bednarik |
+| 168 | 608 | Sommer Shope |
 | 169 | 608 | Thomas Hughes |
 | 170 | 604 | Amber Shoemaker |
 | 171 | 604 | Danielle Johnson-Chandler |
@@ -418,8 +418,8 @@
 | 410 | 306 | Gloria Ininahazwe |
 | 411 | 305 | Libby Hicks |
 | 412 | 305 | Zany Clusterbuilder |
-| 413 | 305 | Frisky Clearpiece |
-| 414 | 305 | Tum |
+| 413 | 305 | Tum |
+| 414 | 305 | Frisky Clearpiece |
 | 415 | 304 | Melissa McCall |
 | 416 | 304 | Michelle Shrum |
 | 417 | 304 | NFLPITMOM |
@@ -429,8 +429,8 @@
 | 421 | 301 | Claire |
 | 422 | 299 | Diallo Sparkman |
 | 423 | 299 | Megan Phillips |
-| 424 | 298 | RetroLemur |
-| 425 | 298 | Snappy Shatterfit |
+| 424 | 298 | Snappy Shatterfit |
+| 425 | 298 | RetroLemur |
 | 426 | 298 | Jroc |
 | 427 | 297 | Fi Ne |
 | 428 | 297 | Peachy Blockbuilder |
@@ -578,8 +578,8 @@
 | 570 | 224 | Besma Ao |
 | 571 | 223 | Jess Morrison |
 | 572 | 223 | LegoCarpet |
-| 573 | 223 | Laura Wyatt |
-| 574 | 223 | Michele Moren |
+| 573 | 223 | Michele Moren |
+| 574 | 223 | Laura Wyatt |
 | 575 | 223 | Kristi Biddinger |
 | 576 | 222 | Amanda Canterbury |
 | 577 | 222 | Maxwell Escalera |
@@ -621,8 +621,8 @@
 | 613 | 206 | Neko Preston |
 | 614 | 205 | ElizabethAnn Dickinson |
 | 615 | 205 | Joel Rosado |
-| 616 | 204 | Kimberly Ann |
-| 617 | 204 | Brenna Ann |
+| 616 | 204 | Brenna Ann |
+| 617 | 204 | Kimberly Ann |
 | 618 | 204 | Ryan Lauer |
 | 619 | 204 | Ali Gralski |
 | 620 | 203 | Alyssa Dean |
@@ -812,8 +812,8 @@
 | 804 | 157 | Miranda Jackson |
 | 805 | 157 | Preya Patel |
 | 806 | 157 | Nerdy Blockpiece |
-| 807 | 156 | Renee Bowers |
-| 808 | 156 | Elizabeth Cotton |
+| 807 | 156 | Elizabeth Cotton |
+| 808 | 156 | Renee Bowers |
 | 809 | 156 | Sweetheart81 |
 | 810 | 156 | Tara Creel |
 | 811 | 155 | Tyler C. Jung |

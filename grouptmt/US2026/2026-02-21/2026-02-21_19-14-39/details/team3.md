@@ -162,8 +162,8 @@
 | 154 | 214 | Amy Fuller Heaton |
 | 155 | 214 | Jenny Hrndz |
 | 156 | 212 | Krystal Gerstberger |
-| 157 | 211 | Katrina Turner |
-| 158 | 211 | Katrina Schroeder |
+| 157 | 211 | Katrina Schroeder |
+| 158 | 211 | Katrina Turner |
 | 159 | 210 | Rochelle Hazelett |
 | 160 | 207 | Nicole Myers |
 | 161 | 207 | Chris Bell |
@@ -181,9 +181,9 @@
 | 173 | 193 | Duane Bright |
 | 174 | 193 | Karon Griffin |
 | 175 | 191 | Rebel124 |
-| 176 | 191 | Brenda Lee Vander Molen |
-| 177 | 191 | Scott Carleton |
-| 178 | 191 | Giddy Twistbuilder |
+| 176 | 191 | Scott Carleton |
+| 177 | 191 | Giddy Twistbuilder |
+| 178 | 191 | Brenda Lee Vander Molen |
 | 179 | 189 | Sissy Lowery Davis |
 | 180 | 188 | Angie Harper |
 | 181 | 186 | Khaleada McGill Banks |
@@ -232,8 +232,8 @@
 | 224 | 152 | Shiny Zonebuilder |
 | 225 | 152 | Katrina E Jelks |
 | 226 | 150 | Valerie Gendron |
-| 227 | 149 | Angel Mendez |
-| 228 | 149 | Alexis Taylor |
+| 227 | 149 | Alexis Taylor |
+| 228 | 149 | Angel Mendez |
 | 229 | 149 | Peachy Rollfit |
 | 230 | 148 | Jennifer Alvey |
 | 231 | 148 | Sabrina Hardrick |
@@ -353,10 +353,10 @@
 | 345 | 98 | Armi |
 | 346 | 97 | Paula Little |
 | 347 | 97 | Tina Baurdau |
-| 348 | 96 | D3NO |
+| 348 | 96 | Christopher Woost |
 | 349 | 96 | Romeo |
-| 350 | 96 | Christopher Woost |
-| 351 | 96 | Oliver Neal II |
+| 350 | 96 | Oliver Neal II |
+| 351 | 96 | D3NO |
 | 352 | 95 | Brooke Bauer |
 | 353 | 94 | Bleu Sun Beams |
 | 354 | 94 | Tracey Cox |
