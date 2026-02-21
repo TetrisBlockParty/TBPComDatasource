@@ -155,8 +155,8 @@
 | 147 | 156 | Joey Banks |
 | 148 | 155 | BŘŰŤİÇŨŚ |
 | 149 | 154 | Angela M. Fletcher |
-| 150 | 153 | Stephanie Whitefield |
-| 151 | 153 | Beth Ingham |
+| 150 | 153 | Beth Ingham |
+| 151 | 153 | Stephanie Whitefield |
 | 152 | 152 | Shiny Zonebuilder |
 | 153 | 151 | MsBee |
 | 154 | 150 | Nicole Myers |
@@ -260,9 +260,9 @@
 | 252 | 95 | Brooke Bauer |
 | 253 | 94 | Angie Harper |
 | 254 | 93 | Tiffany Ford |
-| 255 | 92 | Ava Petito |
+| 255 | 92 | Trice Thomas |
 | 256 | 92 | Jennifer Caputo |
-| 257 | 92 | Trice Thomas |
+| 257 | 92 | Ava Petito |
 | 258 | 91 | Martin Bernier |
 | 259 | 90 | Whitney Manuel |
 | 260 | 90 | Nichole Greene |
@@ -467,7 +467,7 @@
 | 459 | 54 | Kristen McAlpine |
 | 460 | 54 | Ivie Halftown |
 | 461 | 53 | Payden Dover |
-| 462 | 53 | Bobbie Freeman |
+| 462 | 53 | Funky Dasher |
 | 463 | 53 | Jolly Dashpiece |
 | 464 | 53 | Bobbie Freeman |
 | 465 | 52 | Jessica Collins |

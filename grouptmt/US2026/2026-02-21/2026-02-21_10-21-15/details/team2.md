@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Katrina Williams Balmir |
-| 38 | 1173 | Devin Lee |
+| 37 | 1173 | Devin Lee |
+| 38 | 1173 | Katrina Williams Balmir |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1143 | Lucky Ladybug |
@@ -110,8 +110,8 @@
 | 102 | 658 | Vistabrat |
 | 103 | 658 | Pacynthia Williams |
 | 104 | 653 | Becky Weeks-Garry |
-| 105 | 649 | Stephanie Chapman |
-| 106 | 649 | Anna Edwards |
+| 105 | 649 | Anna Edwards |
+| 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
 | 109 | 631 | Peppy Zone |
@@ -202,8 +202,8 @@
 | 194 | 385 | Sam |
 | 195 | 385 | Arwa Fatimah |
 | 196 | 381 | Amanda Ferrell |
-| 197 | 380 | Joshua Mandel |
-| 198 | 380 | Calandra Shaya Robinson |
+| 197 | 380 | Calandra Shaya Robinson |
+| 198 | 380 | Joshua Mandel |
 | 199 | 378 | Cody Nishimura |
 | 200 | 377 | Liberty |
 | 201 | 377 | Roy Salyer |
@@ -252,8 +252,8 @@
 | 244 | 312 | Felicia Lynn |
 | 245 | 311 | Véronique Lévesque Sabourin |
 | 246 | 311 | Dar |
-| 247 | 309 | Oscar Bernie |
-| 248 | 309 | Ginger |
+| 247 | 309 | Ginger |
+| 248 | 309 | Oscar Bernie |
 | 249 | 309 | James Zaragoza |
 | 250 | 306 | Kristopher Miller |
 | 251 | 305 | Libby Hicks |
@@ -282,8 +282,8 @@
 | 274 | 282 | Carl Bradshaw |
 | 275 | 282 | Shaun Church |
 | 276 | 281 | Maegan Beaule |
-| 277 | 280 | Autumn Schaeffer |
-| 278 | 280 | Shorty |
+| 277 | 280 | Shorty |
+| 278 | 280 | Autumn Schaeffer |
 | 279 | 278 | Noel Tarmy |
 | 280 | 278 | Peachy Blockbuilder |
 | 281 | 276 | Lindsey Leigh |
@@ -292,8 +292,8 @@
 | 284 | 275 | Cheeky Brickmatch |
 | 285 | 275 | Ann Matzkanin |
 | 286 | 275 | Shiny Rollzone |
-| 287 | 274 | Jamie Stevey |
-| 288 | 274 | Melissa Holsinger |
+| 287 | 274 | Melissa Holsinger |
+| 288 | 274 | Jamie Stevey |
 | 289 | 274 | Lonne Emade |
 | 290 | 273 | Ray Ray Prado |
 | 291 | 273 | Jenna Nance |
@@ -360,8 +360,8 @@
 | 352 | 236 | Niceday |
 | 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
-| 355 | 234 | Manny Trindade |
-| 356 | 234 | Jennifer Leigh |
+| 355 | 234 | Jennifer Leigh |
+| 356 | 234 | Manny Trindade |
 | 357 | 234 | Jaybee Nguyen |
 | 358 | 233 | Jumpy Gridclear |
 | 359 | 233 | Robin Kerby |
@@ -525,15 +525,15 @@
 | 517 | 157 | Nicol Craven |
 | 518 | 157 | Twisty Tetriblast |
 | 519 | 156 | RetroLemur |
-| 520 | 156 | Nuggets |
-| 521 | 156 | Deanna Morton |
+| 520 | 156 | Deanna Morton |
+| 521 | 156 | Nuggets |
 | 522 | 155 | Angela Murgia-Owen |
 | 523 | 155 | Cris cris |
 | 524 | 155 | Monarca26 |
 | 525 | 155 | Chelle |
 | 526 | 154 | Bryan Werleman |
-| 527 | 154 | Cini |
-| 528 | 154 | Tiffney Wroten |
+| 527 | 154 | Tiffney Wroten |
+| 528 | 154 | Cini |
 | 529 | 154 | Lydia Greenman |
 | 530 | 154 | Lori Maring |
 | 531 | 153 | Luna |
@@ -544,8 +544,8 @@
 | 536 | 152 | JP Parks |
 | 537 | 152 | Kristin King |
 | 538 | 151 | Byung Bae Park |
-| 539 | 151 | D'Aaron Black |
-| 540 | 151 | Kia Humphery |
+| 539 | 151 | Kia Humphery |
+| 540 | 151 | D'Aaron Black |
 | 541 | 151 | Jennifer Rajek |
 | 542 | 150 | Greenshades00 |
 | 543 | 150 | Jodi Mitnick |
@@ -557,8 +557,8 @@
 | 549 | 149 | Melissa Rebbe-Lehman |
 | 550 | 148 | Cleo Sims |
 | 551 | 148 | AgileDragon |
-| 552 | 147 | Sassy Pivot |
-| 553 | 147 | Smiley Strike |
+| 552 | 147 | Smiley Strike |
+| 553 | 147 | Sassy Pivot |
 | 554 | 147 | Jeremy Parodi |
 | 555 | 146 | Sherry Aguinaga |
 | 556 | 146 | Ibiza Carolina LaRose |
@@ -716,10 +716,10 @@
 | 708 | 120 | Richelle Chapin |
 | 709 | 119 | Gloria Ininahazwe |
 | 710 | 119 | Zappy Stackbuilder |
-| 711 | 119 | Perry Hubert |
-| 712 | 119 | Mary Boss |
-| 713 | 118 | Emilie Victoria Cordero |
-| 714 | 118 | Amanda Perez |
+| 711 | 119 | Mary Boss |
+| 712 | 119 | Perry Hubert |
+| 713 | 118 | Amanda Perez |
+| 714 | 118 | Emilie Victoria Cordero |
 | 715 | 118 | Nina Woodill |
 | 716 | 118 | Raffaella Dowling |
 | 717 | 118 | Starrs Dcct |
@@ -956,8 +956,8 @@
 | 948 | 92 | Loony Dashy |
 | 949 | 92 | Jacqueline Muellerleile |
 | 950 | 92 | Jelly |
-| 951 | 91 | Ængeli Haze |
-| 952 | 91 | Sienna Parsons |
+| 951 | 91 | Sienna Parsons |
+| 952 | 91 | Ængeli Haze |
 | 953 | 91 | Chilly Wrecker |
 | 954 | 91 | Chipper Snaplink |
 | 955 | 91 | Moist_B-hole |

@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -206,7 +206,7 @@
 | 198 | 80 | Melissa Adams |
 | 199 | 79 | Joseph Pace |
 | 200 | 79 | Perky Piecegrid |
-| 201 | 79 | Joseph Pace |
+| 201 | 79 | Kametsunoyaiba |
 | 202 | 78 | Jessica Miller |
 | 203 | 78 | Zesty Linkgrid |
 | 204 | 77 | Twisty Cascadezone |
