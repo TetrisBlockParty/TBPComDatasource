@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 544 | Stephanie Allmon |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -263,8 +263,8 @@
 | 255 | 96 | Christopher Woost |
 | 256 | 96 | Hanna Kim |
 | 257 | 95 | Brooke Bauer |
-| 258 | 94 | Andrew Thorson |
-| 259 | 94 | Angie Harper |
+| 258 | 94 | Angie Harper |
+| 259 | 94 | Andrew Thorson |
 | 260 | 93 | Tiffany Ford |
 | 261 | 92 | Ava Petito |
 | 262 | 92 | Trice Thomas |

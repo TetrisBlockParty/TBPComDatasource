@@ -117,8 +117,8 @@
 | 109 | 649 | Anna Edwards |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -450,8 +450,8 @@
 | 442 | 190 | NanDa Cruzan VI |
 | 443 | 190 | Poldo Ilano |
 | 444 | 190 | Jessica Kaye DeAguero |
-| 445 | 188 | Michael Artis |
-| 446 | 188 | Seth Wrieden |
+| 445 | 188 | Seth Wrieden |
+| 446 | 188 | Michael Artis |
 | 447 | 188 | Justin Hines |
 | 448 | 187 | Stefanie Zonzini-Gagliardi |
 | 449 | 186 | Joshua Mullings |

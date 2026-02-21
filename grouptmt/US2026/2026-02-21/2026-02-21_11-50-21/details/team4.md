@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Zethra Prenisha Rahming |
-| 77 | 171 | Melvin Baird |
+| 76 | 171 | Melvin Baird |
+| 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Courtney Cicoria |
@@ -215,8 +215,8 @@
 | 207 | 80 | Chaz Duncan |
 | 208 | 79 | Joseph Pace |
 | 209 | 79 | Kametsunoyaiba |
-| 210 | 78 | Zesty Linkgrid |
-| 211 | 78 | Jessica Miller |
+| 210 | 78 | Jessica Miller |
+| 211 | 78 | Zesty Linkgrid |
 | 212 | 78 | Adawna Swires |
 | 213 | 77 | Marvin Lou Martin |
 | 214 | 77 | Zippy Gridlock |
