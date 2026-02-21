@@ -396,8 +396,8 @@
 | 388 | 283 | Byung Bae Park |
 | 389 | 282 | Shaun Church |
 | 390 | 282 | Carl Bradshaw |
-| 391 | 281 | Ellie Jonas |
-| 392 | 281 | Justin Hines |
+| 391 | 281 | Justin Hines |
+| 392 | 281 | Ellie Jonas |
 | 393 | 280 | Shorty |
 | 394 | 280 | Lyndi Robinson Wakefield |
 | 395 | 280 | SwampRebel |
@@ -415,8 +415,8 @@
 | 407 | 274 | August Hale |
 | 408 | 274 | Melissa Holsinger |
 | 409 | 273 | Vanessa Moreno |
-| 410 | 273 | Jenna Nance |
-| 411 | 273 | Giddy Gridclear |
+| 410 | 273 | Giddy Gridclear |
+| 411 | 273 | Jenna Nance |
 | 412 | 272 | Mikayala Szaz |
 | 413 | 271 | Ann Marie Davis |
 | 414 | 271 | Toni Lynn |
@@ -431,8 +431,8 @@
 | 423 | 262 | Jackie Lucas |
 | 424 | 261 | MrsClaudette Will'sIam Matthews |
 | 425 | 260 | Kathryn Townsley |
-| 426 | 260 | Danielle DeLozier Plesec |
-| 427 | 260 | Santana Miyagi |
+| 426 | 260 | Santana Miyagi |
+| 427 | 260 | Danielle DeLozier Plesec |
 | 428 | 257 | Jackie Jackie Lee |
 | 429 | 256 | Alishac Marie |
 | 430 | 256 | Quirky Twistline |

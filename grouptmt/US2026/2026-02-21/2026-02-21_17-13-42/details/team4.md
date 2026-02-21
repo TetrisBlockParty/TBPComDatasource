@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Valerie Roberts |
-| 24 | 590 | Dee Kay |
+| 23 | 590 | Dee Kay |
+| 24 | 590 | Valerie Roberts |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 511 | LisaJo Picken Buchanan |
@@ -57,8 +57,8 @@
 | 49 | 365 | Nope Young |
 | 50 | 364 | Carolyn Wallace |
 | 51 | 349 | Jamie Mann-Deichmann |
-| 52 | 345 | Carlton Unfiltered |
-| 53 | 345 | Ancient Intuition |
+| 52 | 345 | Ancient Intuition |
+| 53 | 345 | Carlton Unfiltered |
 | 54 | 341 | Clarence Patawaran |
 | 55 | 334 | KM8 |
 | 56 | 309 | Lisa Davis |
@@ -104,8 +104,8 @@
 | 96 | 187 | Swanky Fitline |
 | 97 | 185 | Andy Cabral |
 | 98 | 181 | Carter Jones |
-| 99 | 180 | Leslie Nicole |
-| 100 | 180 | Leah Kutz Zirbel |
+| 99 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leslie Nicole |
 | 101 | 179 | Epic Curvetile |
 | 102 | 178 | Lori |
 | 103 | 177 | Andria Lynn |

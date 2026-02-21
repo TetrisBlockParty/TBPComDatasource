@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -228,8 +228,8 @@
 | 220 | 145 | Bryan Byrd |
 | 221 | 145 | Emma |
 | 222 | 142 | Jl |
-| 223 | 142 | David Bardo |
-| 224 | 142 | Erica Anderson |
+| 223 | 142 | Erica Anderson |
+| 224 | 142 | David Bardo |
 | 225 | 138 | Boldy Corner |
 | 226 | 137 | Joy Petroski |
 | 227 | 137 | Cheryl Hinch Tenbrook |
@@ -263,8 +263,8 @@
 | 255 | 118 | Fancy Curver |
 | 256 | 118 | Sabrina Hardrick |
 | 257 | 116 | Denise Marie |
-| 258 | 115 | Daring Builder |
-| 259 | 115 | Stella |
+| 258 | 115 | Stella |
+| 259 | 115 | Daring Builder |
 | 260 | 115 | Hoppy Buildout |
 | 261 | 114 | Amanda Neal |
 | 262 | 114 | Elizabeth Renee |

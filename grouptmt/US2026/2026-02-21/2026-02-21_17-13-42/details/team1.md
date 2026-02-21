@@ -46,8 +46,8 @@
 | 38 | 406 | Christina Graham |
 | 39 | 405 | Karin Gillen |
 | 40 | 403 | Nancy Green |
-| 41 | 402 | Odell Barnett |
-| 42 | 402 | Mara Hilker |
+| 41 | 402 | Mara Hilker |
+| 42 | 402 | Odell Barnett |
 | 43 | 392 | Redlicious 1 |
 | 44 | 382 | Lori Sanders- Davis |
 | 45 | 380 | Robert Beck |
@@ -66,8 +66,8 @@
 | 58 | 287 | Hyper |
 | 59 | 281 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Theo Pinnow |
-| 62 | 274 | Sweet Baker |
+| 61 | 274 | Sweet Baker |
+| 62 | 274 | Theo Pinnow |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
@@ -112,8 +112,8 @@
 | 104 | 175 | Dandy Basegrid |
 | 105 | 175 | Nicole Roseberry Weber |
 | 106 | 173 | Frothy Pattern |
-| 107 | 171 | Greg Premoe |
-| 108 | 171 | David DeSantis |
+| 107 | 171 | David DeSantis |
+| 108 | 171 | Greg Premoe |
 | 109 | 169 | Abbey Crespo |
 | 110 | 166 | Rico Rico |
 | 111 | 166 | Tana |
@@ -144,13 +144,13 @@
 | 136 | 142 | Colleen Wise |
 | 137 | 141 | Blaire Bruckoff |
 | 138 | 140 | Miguel Teixeira |
-| 139 | 138 | Cranky Pattern |
+| 139 | 138 | Gary Gobin |
 | 140 | 138 | Death |
-| 141 | 138 | Gary Gobin |
+| 141 | 138 | Cranky Pattern |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Cody Slav |
-| 145 | 135 | Giddy Cascade |
+| 144 | 135 | Giddy Cascade |
+| 145 | 135 | Cody Slav |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Cody Gates |
