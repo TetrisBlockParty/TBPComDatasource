@@ -101,8 +101,8 @@
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
-| 96 | 165 | Veronica Eve |
-| 97 | 165 | GATOR |
+| 96 | 165 | GATOR |
+| 97 | 165 | Veronica Eve |
 | 98 | 163 | Chad Atchley |
 | 99 | 162 | Tyler Whitley |
 | 100 | 161 | Abbey Crespo |
@@ -116,8 +116,8 @@
 | 108 | 149 | Jennifer ManWarren |
 | 109 | 149 | Arianna O'Brien |
 | 110 | 148 | Shauntina Burke |
-| 111 | 146 | Irual Hctrab |
-| 112 | 146 | Tanya Carpenter-Reynolds |
+| 111 | 146 | Tanya Carpenter-Reynolds |
+| 112 | 146 | Irual Hctrab |
 | 113 | 145 | BigWeenie69 |
 | 114 | 144 | femmefatale |
 | 115 | 144 | Plucky Ziggy |

@@ -424,8 +424,8 @@
 | 416 | 236 | Julio A Laracuente |
 | 417 | 236 | snkylnk |
 | 418 | 235 | Kimberly Mitchell |
-| 419 | 234 | Jennifer Leigh |
-| 420 | 234 | Manny Trindade |
+| 419 | 234 | Manny Trindade |
+| 420 | 234 | Jennifer Leigh |
 | 421 | 234 | Jaybee Nguyen |
 | 422 | 233 | Nutty Matchline |
 | 423 | 233 | Jumpy Gridclear |

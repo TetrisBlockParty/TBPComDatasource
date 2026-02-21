@@ -95,8 +95,8 @@
 | 87 | 171 | Melvin Baird |
 | 88 | 170 | Justin Hannigan |
 | 89 | 170 | Girl |
-| 90 | 167 | Denise Carlson |
-| 91 | 167 | Carlton Unfiltered |
+| 90 | 167 | Carlton Unfiltered |
+| 91 | 167 | Denise Carlson |
 | 92 | 165 | Casey Grabner |
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |
@@ -106,8 +106,8 @@
 | 98 | 159 | Holly Jolly |
 | 99 | 157 | quicksand420 |
 | 100 | 154 | Zany Twisterfit |
-| 101 | 151 | Bethany Ison |
-| 102 | 151 | Dana Scott |
+| 101 | 151 | Dana Scott |
+| 102 | 151 | Bethany Ison |
 | 103 | 150 | ZeeZee |
 | 104 | 147 | 030Synner |
 | 105 | 147 | Andria Lynn |
@@ -144,8 +144,8 @@
 | 136 | 121 | blockstar |
 | 137 | 121 | Megan Cutshaw |
 | 138 | 120 | Joshua Guess |
-| 139 | 119 | Kristin Manee |
-| 140 | 119 | Stephme310 |
+| 139 | 119 | Stephme310 |
+| 140 | 119 | Kristin Manee |
 | 141 | 118 | Leslie Nicole |
 | 142 | 118 | YoMomma |
 | 143 | 116 | Diana Houts |
@@ -169,11 +169,11 @@
 | 161 | 105 | Kristin MacDonald |
 | 162 | 104 | Damn Libra |
 | 163 | 103 | Judy Cox |
-| 164 | 102 | April Rondinone |
-| 165 | 102 | Faja |
-| 166 | 102 | Autumn Kumzi |
-| 167 | 101 | Michelle Morris |
-| 168 | 101 | Saulc1991 |
+| 164 | 102 | Faja |
+| 165 | 102 | Autumn Kumzi |
+| 166 | 102 | April Rondinone |
+| 167 | 101 | Saulc1991 |
+| 168 | 101 | Michelle Morris |
 | 169 | 100 | Alexandra Karavias |
 | 170 | 99 | Anthony Bryan Riva |
 | 171 | 99 | Michael Orris |
