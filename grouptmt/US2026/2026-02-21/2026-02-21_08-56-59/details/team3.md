@@ -40,8 +40,8 @@
 | 32 | 613 | Amber Hughes |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
 | 39 | 546 | Snappy Glidepiece |
@@ -147,13 +147,13 @@
 | 139 | 159 | Morgan Martinez |
 | 140 | 159 | Jone |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Stephanie Whitefield |
-| 148 | 153 | Beth Ingham |
+| 147 | 153 | Beth Ingham |
+| 148 | 153 | Stephanie Whitefield |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Bea Miles |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Denita Mungro |
-| 157 | 146 | Latoya Mayne |
+| 156 | 146 | Latoya Mayne |
+| 157 | 146 | Denita Mungro |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |

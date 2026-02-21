@@ -99,15 +99,15 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Melissa Priest Sellers |
-| 95 | 132 | Degenerate |
-| 96 | 132 | Jenna McGeorge |
-| 97 | 132 | Jessica Cagle |
+| 94 | 132 | Degenerate |
+| 95 | 132 | Melissa Priest Sellers |
+| 96 | 132 | Jessica Cagle |
+| 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
-| 101 | 130 | Casey Jeffcoat |
-| 102 | 130 | Lucas J Sutton |
+| 101 | 130 | Lucas J Sutton |
+| 102 | 130 | Casey Jeffcoat |
 | 103 | 129 | John Brunetti |
 | 104 | 129 | Landon Keith Graffeo |
 | 105 | 125 | Lauren Scott |
@@ -147,8 +147,8 @@
 | 139 | 104 | Damn Libra |
 | 140 | 104 | YoMomma |
 | 141 | 102 | Faja |
-| 142 | 101 | Saulc1991 |
-| 143 | 101 | Michelle Morris |
+| 142 | 101 | Michelle Morris |
+| 143 | 101 | Saulc1991 |
 | 144 | 100 | Alexandra Karavias |
 | 145 | 99 | ĥuf |
 | 146 | 98 | Duck |
@@ -185,8 +185,8 @@
 | 177 | 83 | Abigail Murphy |
 | 178 | 83 | Joseph Gray |
 | 179 | 83 | Avy Absol |
-| 180 | 82 | Jason Frehner |
-| 181 | 82 | Kim Hunt |
+| 180 | 82 | Kim Hunt |
+| 181 | 82 | Jason Frehner |
 | 182 | 81 | Chair |
 | 183 | 81 | Carlos Ramirez |
 | 184 | 81 | Jumpy Zonepiece |

@@ -474,8 +474,8 @@
 | 466 | 167 | mshir |
 | 467 | 166 | suuny |
 | 468 | 165 | Catherine Varea |
-| 469 | 165 | Austin Wilson |
-| 470 | 165 | Cathy Bitters |
+| 469 | 165 | Cathy Bitters |
+| 470 | 165 | Austin Wilson |
 | 471 | 164 | Jessica Vega |
 | 472 | 164 | Sara Pennington |
 | 473 | 163 | Danielle Ayoub |
