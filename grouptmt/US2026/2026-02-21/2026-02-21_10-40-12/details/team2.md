@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -229,10 +229,10 @@
 | 221 | 348 | Cherica Taylor |
 | 222 | 346 | Brandon Armstrong |
 | 223 | 345 | Brenda Messer |
-| 224 | 345 | Wuntayk |
-| 225 | 345 | Rhianna DiLorenzo |
-| 226 | 344 | Christina Lewis-Vickers |
-| 227 | 344 | Julie Kresal |
+| 224 | 345 | Rhianna DiLorenzo |
+| 225 | 345 | Wuntayk |
+| 226 | 344 | Julie Kresal |
+| 227 | 344 | Christina Lewis-Vickers |
 | 228 | 343 | F-X |
 | 229 | 342 | Leah |
 | 230 | 334 | Moni Foxe |
@@ -286,8 +286,8 @@
 | 278 | 282 | Carl Bradshaw |
 | 279 | 282 | Shaun Church |
 | 280 | 281 | Maegan Beaule |
-| 281 | 280 | Autumn Schaeffer |
-| 282 | 280 | Shorty |
+| 281 | 280 | Shorty |
+| 282 | 280 | Autumn Schaeffer |
 | 283 | 278 | Noel Tarmy |
 | 284 | 278 | Peachy Blockbuilder |
 | 285 | 276 | Vonceial Boone |
@@ -298,8 +298,8 @@
 | 290 | 275 | Ann Matzkanin |
 | 291 | 275 | Cheeky Brickmatch |
 | 292 | 274 | Lonne Emade |
-| 293 | 274 | Jamie Stevey |
-| 294 | 274 | Melissa Holsinger |
+| 293 | 274 | Melissa Holsinger |
+| 294 | 274 | Jamie Stevey |
 | 295 | 273 | Vanessa Moreno |
 | 296 | 273 | August Hale |
 | 297 | 273 | Jenna Nance |
@@ -359,8 +359,8 @@
 | 351 | 238 | Cheery Matchzone |
 | 352 | 236 | snkylnk |
 | 353 | 236 | Frisky Riserbuilder |
-| 354 | 236 | Niceday |
-| 355 | 236 | Julio A Laracuente |
+| 354 | 236 | Julio A Laracuente |
+| 355 | 236 | Niceday |
 | 356 | 235 | Kimberly Mitchell |
 | 357 | 234 | Manny Trindade |
 | 358 | 234 | Jennifer Leigh |
@@ -409,11 +409,11 @@
 | 401 | 204 | Rebecca Doughman |
 | 402 | 203 | Gary Stash |
 | 403 | 201 | Peppy Snapfall |
-| 404 | 200 | Sarah Ridenour |
-| 405 | 200 | LaWanda Powell |
+| 404 | 200 | LaWanda Powell |
+| 405 | 200 | Sarah Ridenour |
 | 406 | 199 | Fi Ne |
-| 407 | 199 | Jessica Sutter |
-| 408 | 199 | Jenny Castro |
+| 407 | 199 | Jenny Castro |
+| 408 | 199 | Jessica Sutter |
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |
@@ -491,8 +491,8 @@
 | 483 | 167 | Sabrena Yeisley |
 | 484 | 166 | suuny |
 | 485 | 165 | Tara Lynn Janes |
-| 486 | 165 | Cathy Bitters |
-| 487 | 165 | Austin Wilson |
+| 486 | 165 | Austin Wilson |
+| 487 | 165 | Cathy Bitters |
 | 488 | 165 | Catherine Varea |
 | 489 | 164 | Sara Pennington |
 | 490 | 164 | Jessica Vega |

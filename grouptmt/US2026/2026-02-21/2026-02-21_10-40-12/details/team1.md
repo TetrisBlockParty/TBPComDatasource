@@ -97,8 +97,8 @@
 | 89 | 155 | David DeSantis |
 | 90 | 153 | Shiny Gridmatch |
 | 91 | 152 | Jacqueline Unique |
-| 92 | 149 | Arianna O'Brien |
-| 93 | 149 | Tana |
+| 92 | 149 | Tana |
+| 93 | 149 | Arianna O'Brien |
 | 94 | 148 | Shauntina Burke |
 | 95 | 147 | Veronica Eve |
 | 96 | 145 | BigWeenie69 |

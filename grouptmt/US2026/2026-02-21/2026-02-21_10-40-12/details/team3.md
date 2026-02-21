@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -137,8 +137,8 @@
 | 129 | 182 | Hyper Matchzone |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
-| 132 | 178 | AlsoJess |
-| 133 | 178 | Khaleada McGill Banks |
+| 132 | 178 | Khaleada McGill Banks |
+| 133 | 178 | AlsoJess |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
 | 136 | 166 | Kelly Ann Child |
@@ -151,8 +151,8 @@
 | 143 | 159 | Jone |
 | 144 | 159 | Morgan Martinez |
 | 145 | 158 | Grams |
-| 146 | 157 | Nicholas Roddy |
-| 147 | 157 | Patricia Gadsden |
+| 146 | 157 | Patricia Gadsden |
+| 147 | 157 | Nicholas Roddy |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
@@ -161,8 +161,8 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Angel Mendez |
-| 157 | 149 | Trisha Balmer |
+| 156 | 149 | Trisha Balmer |
+| 157 | 149 | Angel Mendez |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Denita Mungro |
@@ -221,8 +221,8 @@
 | 213 | 108 | Rachel Napper |
 | 214 | 108 | LaTanya GeminiondaRise Johnson |
 | 215 | 107 | Sherry Ogden |
-| 216 | 106 | Noettín Kan Zasnemoore |
-| 217 | 106 | Desiree Gold |
+| 216 | 106 | Desiree Gold |
+| 217 | 106 | Noettín Kan Zasnemoore |
 | 218 | 105 | Emi |
 | 219 | 105 | Carol Cain Thurman |
 | 220 | 104 | Melissa Snyder |
