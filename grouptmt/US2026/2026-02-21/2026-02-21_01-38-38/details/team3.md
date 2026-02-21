@@ -72,8 +72,8 @@
 | 64 | 187 | Speedy Bridger |
 | 65 | 185 | Danielle Cutler |
 | 66 | 184 | Jennie Beranek |
-| 67 | 180 | joclisa |
-| 68 | 180 | Tessina Dewey-Mancino |
+| 67 | 180 | Tessina Dewey-Mancino |
+| 68 | 180 | joclisa |
 | 69 | 179 | Daira Largen |
 | 70 | 177 | Fallorina Susana |
 | 71 | 174 | Mykal Burton |
@@ -93,8 +93,8 @@
 | 85 | 135 | Nicole Flippo |
 | 86 | 134 | DanceLuvLaugh |
 | 87 | 131 | Emma |
-| 88 | 129 | Giddy Twistbuilder |
-| 89 | 129 | Ashley Tookes |
+| 88 | 129 | Ashley Tookes |
+| 89 | 129 | Giddy Twistbuilder |
 | 90 | 128 | Angel Mendez |
 | 91 | 127 | mjl574 |
 | 92 | 127 | Fancy Cascader |
@@ -107,8 +107,8 @@
 | 99 | 120 | Jessica |
 | 100 | 120 | Michael Latasha Gray |
 | 101 | 119 | Terry Jo Jones |
-| 102 | 118 | Bea Miles |
-| 103 | 118 | Fancy Curver |
+| 102 | 118 | Fancy Curver |
+| 103 | 118 | Bea Miles |
 | 104 | 113 | Jennifer Alvey |
 | 105 | 112 | Connie Mohler-Fair |
 | 106 | 112 | Jimmie Clemons |
@@ -157,8 +157,8 @@
 | 149 | 83 | LaTanya GeminiondaRise Johnson |
 | 150 | 82 | Clever Clearbuilder |
 | 151 | 81 | Tina Baurdau |
-| 152 | 80 | Vixen Queen |
-| 153 | 80 | Chris Bell |
+| 152 | 80 | Chris Bell |
+| 153 | 80 | Vixen Queen |
 | 154 | 79 | gremicx |
 | 155 | 78 | Angie Harper |
 | 156 | 78 | Karon Griffin |

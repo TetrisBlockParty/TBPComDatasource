@@ -145,7 +145,7 @@
 | 137 | 54 | Heather Bruce |
 | 138 | 53 | Zany Twisterfit |
 | 139 | 53 | Julian Garcia |
-| 140 | 52 | Nicole Silvers |
+| 140 | 52 | David Lay |
 | 141 | 52 | Allison Judith |
 | 142 | 52 | JPW |
 | 143 | 52 | Cozy Framezone |
@@ -159,8 +159,8 @@
 | 151 | 50 | Sarah Brown |
 | 152 | 50 | Smiley Linkgrid |
 | 153 | 49 | Lakesha Johnson |
-| 154 | 49 | shark tato |
-| 155 | 49 | Rio Rocha |
+| 154 | 49 | Rio Rocha |
+| 155 | 49 | shark tato |
 | 156 | 48 | Mbeth Moore |
 | 157 | 47 | Robin Getchel |
 | 158 | 47 | JEan Price |
