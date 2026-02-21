@@ -109,8 +109,8 @@
 | 101 | 348 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
-| 104 | 323 | Ashley Raines |
-| 105 | 323 | Sherry Ogden |
+| 104 | 323 | Sherry Ogden |
+| 105 | 323 | Ashley Raines |
 | 106 | 321 | Dapper Snap |
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
@@ -153,8 +153,8 @@
 | 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Jenny Hrndz |
-| 149 | 214 | Amy Fuller Heaton |
+| 148 | 214 | Amy Fuller Heaton |
+| 149 | 214 | Jenny Hrndz |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Nicha Hooker |
-| 163 | 195 | Michael Lucado |
+| 162 | 195 | Michael Lucado |
+| 163 | 195 | Nicha Hooker |
 | 164 | 194 | glichmod |
 | 165 | 193 | Stephanie Burtin |
 | 166 | 193 | Duane Bright |

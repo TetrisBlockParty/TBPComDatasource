@@ -193,8 +193,8 @@
 | 185 | 541 | Giggy Blocker |
 | 186 | 541 | SaraMarie Eveland |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Stephen Stephen |
-| 189 | 534 | Teresa Gillmore |
+| 188 | 534 | Teresa Gillmore |
+| 189 | 534 | Stephen Stephen |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
@@ -211,14 +211,14 @@
 | 203 | 513 | Angela Bonquiqui Dinish |
 | 204 | 511 | Ramone Armstrong |
 | 205 | 511 | Laura Mclean |
-| 206 | 511 | Dizzy Zone |
-| 207 | 511 | Bussyiano Page |
+| 206 | 511 | Bussyiano Page |
+| 207 | 511 | Dizzy Zone |
 | 208 | 510 | Cheech Dta |
 | 209 | 510 | Lisa Ongtowasruk |
 | 210 | 509 | Kelli Wells |
 | 211 | 504 | Cherica Taylor |
-| 212 | 503 | AISlop |
-| 213 | 503 | Adam Erikson |
+| 212 | 503 | Adam Erikson |
+| 213 | 503 | AISlop |
 | 214 | 502 | Magic steve |
 | 215 | 500 | tejas25 |
 | 216 | 497 | Juliana Marques Do Nascimento Gordy |
@@ -634,7 +634,7 @@
 | 626 | 194 | Sarah block |
 | 627 | 193 | D5wag2014 |
 | 628 | 193 | Kelly Ann McCormick |
-| 629 | 193 | Brenda Pierpoint |
+| 629 | 193 | Seth Wrieden |
 | 630 | 193 | Kristen Casale Berry |
 | 631 | 193 | Brenda Pierpoint |
 | 632 | 192 | Sandra Link-Gable |

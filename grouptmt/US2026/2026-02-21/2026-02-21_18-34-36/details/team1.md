@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -68,8 +68,8 @@
 | 60 | 299 | Lehrin Maria |
 | 61 | 293 | Adam Byrd |
 | 62 | 287 | Hyper |
-| 63 | 285 | Sweet Baker |
-| 64 | 285 | Carrie Beck Geartz |
+| 63 | 285 | Carrie Beck Geartz |
+| 64 | 285 | Sweet Baker |
 | 65 | 281 | Shauna Loe |
 | 66 | 281 | Evie Khalil |
 | 67 | 281 | Patrick Luckenbill |
@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Thorne Shumate |
-| 105 | 190 | Sweetts |
+| 104 | 190 | Sweetts |
+| 105 | 190 | Thorne Shumate |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -157,12 +157,12 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
-| 156 | 135 | Giddy Cascade |
-| 157 | 135 | Cody Slav |
+| 156 | 135 | Cody Slav |
+| 157 | 135 | Giddy Cascade |
 | 158 | 133 | Breanna Luna |
 | 159 | 132 | Cody Gates |
 | 160 | 132 | Davery Spencer Adair |
