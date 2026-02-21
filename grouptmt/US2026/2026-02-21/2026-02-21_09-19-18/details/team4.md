@@ -20,8 +20,8 @@
 | 12 | 608 | Denny Shives |
 | 13 | 606 | Rachel Anne |
 | 14 | 594 | Lucille Truesdale |
-| 15 | 590 | Valerie Roberts |
-| 16 | 590 | Dee Kay |
+| 15 | 590 | Dee Kay |
+| 16 | 590 | Valerie Roberts |
 | 17 | 589 | Chilly Line |
 | 18 | 587 | Koshin Abdirahman |
 | 19 | 578 | Leah Gorsuch |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Jessica Cagle |
+| 94 | 132 | Degenerate |
 | 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Degenerate |
+| 96 | 132 | Jessica Cagle |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Cherrish Duren |
-| 109 | 123 | Nugget |
+| 108 | 123 | Nugget |
+| 109 | 123 | Cherrish Duren |
 | 110 | 122 | Sherri |
 | 111 | 121 | Smiley Tiltbuilder |
 | 112 | 121 | 030Synner |
@@ -126,8 +126,8 @@
 | 118 | 118 | Leslie Nicole |
 | 119 | 116 | Serena Goodridge |
 | 120 | 116 | Diana Houts |
-| 121 | 115 | Jayk |
-| 122 | 115 | Ultramarine |
+| 121 | 115 | Ultramarine |
+| 122 | 115 | Jayk |
 | 123 | 113 | Stephme310 |
 | 124 | 113 | Andria Lynn |
 | 125 | 112 | Austin Owens |

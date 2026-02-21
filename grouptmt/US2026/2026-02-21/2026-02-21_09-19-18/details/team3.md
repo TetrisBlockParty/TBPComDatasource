@@ -41,12 +41,12 @@
 | 33 | 613 | Amber Hughes |
 | 34 | 608 | River |
 | 35 | 598 | Jennifer Willis |
-| 36 | 587 | Danielle Becker |
-| 37 | 587 | Suzieq |
+| 36 | 587 | Suzieq |
+| 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
-| 40 | 546 | Dolores Falco |
-| 41 | 546 | Snappy Glidepiece |
+| 40 | 546 | Snappy Glidepiece |
+| 41 | 546 | Dolores Falco |
 | 42 | 541 | MissTaylor |
 | 43 | 533 | Sarah Fehring |
 | 44 | 528 | Natasha Jones |
@@ -152,8 +152,8 @@
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
-| 147 | 153 | Beth Ingham |
-| 148 | 153 | Stephanie Whitefield |
+| 147 | 153 | Stephanie Whitefield |
+| 148 | 153 | Beth Ingham |
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |

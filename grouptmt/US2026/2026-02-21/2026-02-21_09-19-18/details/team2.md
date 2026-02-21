@@ -207,8 +207,8 @@
 | 199 | 363 | William Meussner |
 | 200 | 359 | Brainy Smurf |
 | 201 | 357 | Shannon Byrd |
-| 202 | 356 | Deyawn Smith |
-| 203 | 356 | Alyssaaelena |
+| 202 | 356 | Alyssaaelena |
+| 203 | 356 | Deyawn Smith |
 | 204 | 354 | Tracy Wise |
 | 205 | 353 | Joseph Musick |
 | 206 | 352 | ruth |
@@ -539,11 +539,11 @@
 | 531 | 150 | Greenshades00 |
 | 532 | 149 | Brianna Cerney |
 | 533 | 149 | Melissa Rebbe-Lehman |
-| 534 | 149 | Leslie Porter |
-| 535 | 149 | Boldy Cascadepiece |
+| 534 | 149 | Boldy Cascadepiece |
+| 535 | 149 | Leslie Porter |
 | 536 | 148 | AgileDragon |
-| 537 | 147 | Smiley Strike |
-| 538 | 147 | Sassy Pivot |
+| 537 | 147 | Sassy Pivot |
+| 538 | 147 | Smiley Strike |
 | 539 | 147 | Jeremy Parodi |
 | 540 | 146 | Sherry Aguinaga |
 | 541 | 146 | Ibiza Carolina LaRose |
@@ -1083,7 +1083,7 @@
 | 1075 | 80 | Kay Perkins |
 | 1076 | 79 | Big Games |
 | 1077 | 79 | Sassy Base |
-| 1078 | 79 | Big Games |
+| 1078 | 79 | Monica DeLoach Jandran |
 | 1079 | 79 | Giggy Grabber |
 | 1080 | 79 | Betty Ruth Hale |
 | 1081 | 79 | Donte Johnson |

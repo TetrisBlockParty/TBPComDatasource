@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Tipsy Column |
 | 44 | 256 | Robert Benito |
@@ -72,15 +72,15 @@
 | 64 | 197 | Cynthia Bradley |
 | 65 | 194 | Giggly Builderline |
 | 66 | 194 | Sharon Reynolds |
-| 67 | 192 | Shaykmia |
-| 68 | 192 | Mandyy Rae |
+| 67 | 192 | Mandyy Rae |
+| 68 | 192 | Shaykmia |
 | 69 | 191 | Jazzy Framezone |
 | 70 | 190 | Sweetts |
 | 71 | 190 | Thorne Shumate |
 | 72 | 189 | Happy Basegrid |
 | 73 | 180 | Erez Yosef |
-| 74 | 173 | june october |
-| 75 | 173 | Frothy Pattern |
+| 74 | 173 | Frothy Pattern |
+| 75 | 173 | june october |
 | 76 | 171 | Jennifer Olewnik Soborowski |
 | 77 | 166 | Rico Rico |
 | 78 | 165 | GATOR |
@@ -92,8 +92,8 @@
 | 84 | 155 | David DeSantis |
 | 85 | 153 | Shiny Gridmatch |
 | 86 | 152 | Jacqueline Unique |
-| 87 | 149 | Tana |
-| 88 | 149 | Arianna O'Brien |
+| 87 | 149 | Arianna O'Brien |
+| 88 | 149 | Tana |
 | 89 | 148 | Shauntina Burke |
 | 90 | 147 | Veronica Eve |
 | 91 | 145 | Lachelle Dillon |
@@ -113,8 +113,8 @@
 | 105 | 132 | Lori Sanders- Davis |
 | 106 | 132 | Davery Spencer Adair |
 | 107 | 130 | Dandy Basegrid |
-| 108 | 128 | lil mickey |
-| 109 | 128 | Uhog SF |
+| 108 | 128 | Uhog SF |
+| 109 | 128 | lil mickey |
 | 110 | 127 | Michael |
 | 111 | 126 | Cece Ibarra |
 | 112 | 124 | Cartier |
