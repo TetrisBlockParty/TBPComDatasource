@@ -219,8 +219,8 @@
 | 211 | 296 | Amber Gray |
 | 212 | 296 | Jennifer Casey-Kay |
 | 213 | 295 | Zany Clusterbuilder |
-| 214 | 295 | Diallo Sparkman |
-| 215 | 295 | Angela Bonquiqui Dinish |
+| 214 | 295 | Angela Bonquiqui Dinish |
+| 215 | 295 | Diallo Sparkman |
 | 216 | 293 | Scott Treadway |
 | 217 | 293 | David Holliday |
 | 218 | 290 | Jessie McDougald |

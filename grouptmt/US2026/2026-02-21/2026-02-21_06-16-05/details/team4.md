@@ -119,9 +119,9 @@
 | 111 | 108 | Rio Rocha |
 | 112 | 107 | Marcus Todd |
 | 113 | 106 | Jonathan Kimbrough |
-| 114 | 105 | TheNeesh50 |
-| 115 | 105 | Sam Middleton |
-| 116 | 105 | TinyLegoRose |
+| 114 | 105 | Sam Middleton |
+| 115 | 105 | TinyLegoRose |
+| 116 | 105 | TheNeesh50 |
 | 117 | 105 | AyeKay |
 | 118 | 104 | YoMomma |
 | 119 | 104 | Adam Randall |
@@ -146,8 +146,8 @@
 | 138 | 89 | Shainne Brewer |
 | 139 | 88 | Kesha Brady |
 | 140 | 88 | Heather Tushner |
-| 141 | 87 | Jen Caldwell |
-| 142 | 87 | Lauren Lamb |
+| 141 | 87 | Lauren Lamb |
+| 142 | 87 | Jen Caldwell |
 | 143 | 86 | amy |
 | 144 | 86 | Destiney Carter |
 | 145 | 85 | Shukee Lo |
