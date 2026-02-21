@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Jen Sartain |
-| 22 | 511 | Amanda Summey Schoemer |
+| 21 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Jen Sartain |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |

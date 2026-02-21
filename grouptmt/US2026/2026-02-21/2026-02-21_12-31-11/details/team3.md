@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -92,8 +92,8 @@
 | 84 | 313 | Elaine Webb Graves |
 | 85 | 309 | CeceGeGe |
 | 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Blocked |
-| 88 | 307 | Peggi Charon |
+| 87 | 307 | Peggi Charon |
+| 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |

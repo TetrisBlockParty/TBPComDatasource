@@ -244,8 +244,8 @@
 | 236 | 348 | Richard Horton |
 | 237 | 345 | Rhianna DiLorenzo |
 | 238 | 345 | Brenda Messer |
-| 239 | 344 | Glenn Cobbins |
-| 240 | 344 | Julie Kresal |
+| 239 | 344 | Julie Kresal |
+| 240 | 344 | Glenn Cobbins |
 | 241 | 343 | F-X |
 | 242 | 335 | Shandrica Lowe |
 | 243 | 334 | Felicia Lynn |
@@ -519,8 +519,8 @@
 | 511 | 169 | Eddie Perez |
 | 512 | 168 | Phil J. Grombliniak |
 | 513 | 168 | Kati Russeau |
-| 514 | 167 | mshir |
-| 515 | 167 | Sabrena Yeisley |
+| 514 | 167 | Sabrena Yeisley |
+| 515 | 167 | mshir |
 | 516 | 166 | Lakeela Wise |
 | 517 | 166 | Morgan Easter |
 | 518 | 166 | suuny |

@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Valerie Roberts |
-| 20 | 590 | Dee Kay |
+| 19 | 590 | Dee Kay |
+| 20 | 590 | Valerie Roberts |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
@@ -125,8 +125,8 @@
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
 | 119 | 123 | Bubbly Puzzler |
-| 120 | 123 | Cherrish Duren |
-| 121 | 123 | TinyLegoRose |
+| 120 | 123 | TinyLegoRose |
+| 121 | 123 | Cherrish Duren |
 | 122 | 122 | Sherri |
 | 123 | 121 | Megan Cutshaw |
 | 124 | 121 | Smiley Tiltbuilder |
