@@ -157,8 +157,8 @@
 | 149 | 80 | Melissa Adams |
 | 150 | 79 | Nubian1 |
 | 151 | 79 | Shainne Brewer |
-| 152 | 78 | Jessica Miller |
-| 153 | 78 | Zesty Linkgrid |
+| 152 | 78 | Zesty Linkgrid |
+| 153 | 78 | Jessica Miller |
 | 154 | 77 | Chris Alexinas |
 | 155 | 76 | Madison Sweere |
 | 156 | 76 | Bethany Ison |

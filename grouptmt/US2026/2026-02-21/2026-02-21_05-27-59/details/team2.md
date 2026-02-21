@@ -178,8 +178,8 @@
 | 170 | 348 | Cherica Taylor |
 | 171 | 345 | Alyssaaelena |
 | 172 | 345 | Brenda Messer |
-| 173 | 345 | Rhianna DiLorenzo |
-| 174 | 345 | Wuntayk |
+| 173 | 345 | Wuntayk |
+| 174 | 345 | Rhianna DiLorenzo |
 | 175 | 344 | Julie Kresal |
 | 176 | 344 | Christina Lewis-Vickers |
 | 177 | 342 | Tracy Wise |
@@ -436,8 +436,8 @@
 | 428 | 156 | Nuggets |
 | 429 | 156 | Ramone Armstrong |
 | 430 | 156 | RetroLemur |
-| 431 | 155 | Chelle |
-| 432 | 155 | Megan Phillips |
+| 431 | 155 | Megan Phillips |
+| 432 | 155 | Chelle |
 | 433 | 155 | Monarca26 |
 | 434 | 155 | Angela Murgia-Owen |
 | 435 | 154 | Tiffney Wroten |
@@ -460,8 +460,8 @@
 | 452 | 148 | Shannon Byrd |
 | 453 | 147 | Juliana Marques Do Nascimento Gordy |
 | 454 | 146 | Sherry Aguinaga |
-| 455 | 145 | Scott Rackley |
-| 456 | 145 | William Hughes |
+| 455 | 145 | William Hughes |
+| 456 | 145 | Scott Rackley |
 | 457 | 145 | Catina Hutchison |
 | 458 | 144 | Alexis Richardson |
 | 459 | 144 | Kyle LeRoy Harris |
