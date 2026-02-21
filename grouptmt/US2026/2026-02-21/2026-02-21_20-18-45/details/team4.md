@@ -105,14 +105,14 @@
 | 97 | 204 | Brittney Orengo |
 | 98 | 202 | Monica Daley |
 | 99 | 202 | shar |
-| 100 | 198 | Chaz Duncan |
-| 101 | 198 | Mike Solo |
-| 102 | 198 | Denise Carlson |
+| 100 | 198 | Denise Carlson |
+| 101 | 198 | Chaz Duncan |
+| 102 | 198 | Mike Solo |
 | 103 | 197 | Swanky Fitline |
 | 104 | 196 | Jeff Brian Gates |
 | 105 | 194 | Zany Twisterfit |
-| 106 | 192 | Shauna Havard |
-| 107 | 192 | Crystal Carroll |
+| 106 | 192 | Crystal Carroll |
+| 107 | 192 | Shauna Havard |
 | 108 | 191 | loulou |
 | 109 | 191 | Melvin Baird |
 | 110 | 189 | Calvin Dennis |
@@ -176,8 +176,8 @@
 | 168 | 132 | Melissa Priest Sellers |
 | 169 | 132 | Degenerate |
 | 170 | 131 | Michelle Morris |
-| 171 | 130 | Casey Jeffcoat |
-| 172 | 130 | Shukee Lo |
+| 171 | 130 | Shukee Lo |
+| 172 | 130 | Casey Jeffcoat |
 | 173 | 129 | Dreamy Snapgrid |
 | 174 | 129 | Crystal Nicolette Moore |
 | 175 | 128 | TinyLegoRose |
@@ -187,8 +187,8 @@
 | 179 | 125 | Heather Tushner |
 | 180 | 125 | Ericca Eldridge |
 | 181 | 125 | AyeKay |
-| 182 | 124 | SammieJo Guy |
-| 183 | 124 | Allen Lloyd |
+| 182 | 124 | Allen Lloyd |
+| 183 | 124 | SammieJo Guy |
 | 184 | 123 | Cherrish Duren |
 | 185 | 123 | Chaz |
 | 186 | 122 | Carlos Ramirez |
@@ -247,7 +247,7 @@
 | 239 | 99 | Michael Orris |
 | 240 | 98 | Perky Piecegrid |
 | 241 | 98 | Bradley Reeves |
-| 242 | 98 | Perky Piecegrid |
+| 242 | 98 | Sam Bishop |
 | 243 | 97 | Rosemary Foster |
 | 244 | 96 | Jessica Miller |
 | 245 | 96 | Marcus TheeyoungWoe Gilmore |

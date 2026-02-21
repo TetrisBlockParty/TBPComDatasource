@@ -165,8 +165,8 @@
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
 | 159 | 216 | Aaron Pitkin |
-| 160 | 214 | Jenny Hrndz |
-| 161 | 214 | Amy Fuller Heaton |
+| 160 | 214 | Amy Fuller Heaton |
+| 161 | 214 | Jenny Hrndz |
 | 162 | 212 | Krystal Gerstberger |
 | 163 | 211 | Katrina Turner |
 | 164 | 207 | Chris Bell |

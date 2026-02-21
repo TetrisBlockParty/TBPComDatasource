@@ -548,9 +548,9 @@
 | 540 | 249 | Nicky Jackson |
 | 541 | 248 | James Smith |
 | 542 | 248 | Gursharan Sandhu |
-| 543 | 248 | Maddy Petersen |
+| 543 | 248 | Dany Murillo |
 | 544 | 248 | Warren Marleau |
-| 545 | 248 | Dany Murillo |
+| 545 | 248 | Maddy Petersen |
 | 546 | 248 | Kimberly Mitchell |
 | 547 | 247 | Dolores Russworn |
 | 548 | 247 | Andrea Devery Beck |
@@ -563,8 +563,8 @@
 | 555 | 246 | Pocho Zavala |
 | 556 | 245 | Sanaa Nounoussa |
 | 557 | 244 | Belle |
-| 558 | 244 | Nakiiya Dreamcatcher Gore |
-| 559 | 244 | Court |
+| 558 | 244 | Court |
+| 559 | 244 | Nakiiya Dreamcatcher Gore |
 | 560 | 243 | JacJac |
 | 561 | 242 | Donna Chandler |
 | 562 | 242 | Lianne Giandalone LaBounty |

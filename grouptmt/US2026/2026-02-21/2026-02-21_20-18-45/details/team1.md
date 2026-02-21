@@ -1316,11 +1316,11 @@
 | 1308 | 5 | Chaste Minor |
 | 1309 | 5 | Nellie Cummings |
 | 1310 | 5 | ColombianNuttz |
-| 1311 | 5 | Nellie Cummings |
-| 1312 | 5 | Chaste Minor |
-| 1313 | 5 | Lori LeClaire Andersen |
-| 1314 | 5 | Cree |
-| 1315 | 5 | Kimberly Ranae Lanus-Saice |
+| 1311 | 5 | Mary Logan |
+| 1312 | 5 | Tinamarie Ann Brown |
+| 1313 | 5 | Fizzy McNutts |
+| 1314 | 5 | Luis Quintero |
+| 1315 | 5 | Jason Helwig |
 
 ---
 *Standings created by tournaments datasource generation tool*
