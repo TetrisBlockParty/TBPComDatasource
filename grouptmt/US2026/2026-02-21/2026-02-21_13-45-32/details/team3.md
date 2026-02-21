@@ -149,8 +149,8 @@
 | 141 | 182 | Ashley Tookes |
 | 142 | 179 | Daira Largen |
 | 143 | 179 | Joye Sims Binion |
-| 144 | 178 | AlsoJess |
-| 145 | 178 | Khaleada McGill Banks |
+| 144 | 178 | Khaleada McGill Banks |
+| 145 | 178 | AlsoJess |
 | 146 | 176 | Ryan Williams |
 | 147 | 167 | Rebel124 |
 | 148 | 167 | Raven Dudley |
@@ -179,8 +179,8 @@
 | 171 | 152 | Shiny Zonebuilder |
 | 172 | 152 | Joe-Maggie Mathews |
 | 173 | 151 | MsBee |
-| 174 | 150 | Sashay Tapae Simpson |
-| 175 | 150 | Nicole Myers |
+| 174 | 150 | Nicole Myers |
+| 175 | 150 | Sashay Tapae Simpson |
 | 176 | 149 | Bea Miles |
 | 177 | 149 | Angel Mendez |
 | 178 | 147 | Desiree Gold |
@@ -202,12 +202,12 @@
 | 194 | 133 | Joy Petroski |
 | 195 | 131 | Jl |
 | 196 | 129 | Lesley Perez |
-| 197 | 128 | Jen Lewis |
-| 198 | 128 | David Bardo |
+| 197 | 128 | David Bardo |
+| 198 | 128 | Jen Lewis |
 | 199 | 127 | Marquita Sheard |
 | 200 | 126 | Brandon Givens |
-| 201 | 125 | Felicia Doxey |
-| 202 | 125 | Shimika Enay Wallace |
+| 201 | 125 | Shimika Enay Wallace |
+| 202 | 125 | Felicia Doxey |
 | 203 | 124 | Cesar Barraza |
 | 204 | 123 | Marci Mize Fandrich |
 | 205 | 123 | Sarajane Lokan |
@@ -269,13 +269,13 @@
 | 261 | 100 | Elizabeth Renee |
 | 262 | 100 | Donna |
 | 263 | 100 | Edwin Calvillo Jr. |
-| 264 | 99 | MizzMonick Smith |
-| 265 | 99 | Nichol Graham |
-| 266 | 99 | Michael Nowogorski |
-| 267 | 98 | Erika Thornton |
-| 268 | 98 | Jocelyne Baca |
-| 269 | 98 | Andrew Thorson |
-| 270 | 98 | Armi |
+| 264 | 99 | Nichol Graham |
+| 265 | 99 | Michael Nowogorski |
+| 266 | 99 | MizzMonick Smith |
+| 267 | 98 | Jocelyne Baca |
+| 268 | 98 | Andrew Thorson |
+| 269 | 98 | Armi |
+| 270 | 98 | Erika Thornton |
 | 271 | 98 | Loopy Clusterer |
 | 272 | 97 | Ashley Jones |
 | 273 | 97 | Tasha Wesson-Torrence |

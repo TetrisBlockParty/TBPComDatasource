@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -90,14 +90,14 @@
 | 82 | 173 | Zethra Prenisha Rahming |
 | 83 | 172 | Bubbly Puzzler |
 | 84 | 171 | Melvin Baird |
-| 85 | 170 | Girl |
-| 86 | 170 | Justin Hannigan |
+| 85 | 170 | Justin Hannigan |
+| 86 | 170 | Girl |
 | 87 | 167 | Denise Carlson |
 | 88 | 165 | Casey Grabner |
 | 89 | 164 | ThaEviLJeNiuZ |
 | 90 | 162 | Shauna Havard |
-| 91 | 160 | Stacey Stano |
-| 92 | 160 | Carter Jones |
+| 91 | 160 | Carter Jones |
+| 92 | 160 | Stacey Stano |
 | 93 | 159 | Holly Jolly |
 | 94 | 157 | quicksand420 |
 | 95 | 154 | Zany Twisterfit |
@@ -119,14 +119,14 @@
 | 111 | 134 | Chirpy Basepiece |
 | 112 | 134 | Jessica Bohlken |
 | 113 | 132 | Degenerate |
-| 114 | 132 | Jenna McGeorge |
-| 115 | 132 | Melissa Priest Sellers |
-| 116 | 132 | Jessica Cagle |
+| 114 | 132 | Jessica Cagle |
+| 115 | 132 | Jenna McGeorge |
+| 116 | 132 | Melissa Priest Sellers |
 | 117 | 131 | Mr. Party |
 | 118 | 130 | Casey Jeffcoat |
 | 119 | 130 | Lucas J Sutton |
-| 120 | 129 | John Brunetti |
-| 121 | 129 | Landon Keith Graffeo |
+| 120 | 129 | Landon Keith Graffeo |
+| 121 | 129 | John Brunetti |
 | 122 | 128 | Rio Rocha |
 | 123 | 126 | Dihcheese444 |
 | 124 | 126 | Klo |

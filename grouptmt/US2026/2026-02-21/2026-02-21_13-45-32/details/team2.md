@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -646,8 +646,8 @@
 | 638 | 144 | Alexis Richardson |
 | 639 | 144 | Jamie Brickley |
 | 640 | 143 | Jay Levy |
-| 641 | 142 | Joy LaJeunesse |
-| 642 | 142 | Marsha Sosa Kiech |
+| 641 | 142 | Marsha Sosa Kiech |
+| 642 | 142 | Joy LaJeunesse |
 | 643 | 142 | Christina Jones |
 | 644 | 142 | Zachary Boyarski |
 | 645 | 142 | Brandy |
