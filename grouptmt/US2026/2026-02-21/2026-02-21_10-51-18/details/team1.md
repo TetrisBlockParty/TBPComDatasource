@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Stef Hu |
-| 33 | 348 | Chipper Gridlock |
+| 32 | 348 | Chipper Gridlock |
+| 33 | 348 | Stef Hu |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -75,13 +75,13 @@
 | 67 | 198 | Happy Snapbuild |
 | 68 | 198 | Billie Dawn Sparks |
 | 69 | 197 | Cynthia Bradley |
-| 70 | 194 | Sharon Reynolds |
-| 71 | 194 | Giggly Builderline |
+| 70 | 194 | Giggly Builderline |
+| 71 | 194 | Sharon Reynolds |
 | 72 | 193 | Lachelle Dillon |
 | 73 | 192 | Shaykmia |
 | 74 | 191 | Jazzy Framezone |
-| 75 | 190 | Sweetts |
-| 76 | 190 | Thorne Shumate |
+| 75 | 190 | Thorne Shumate |
+| 76 | 190 | Sweetts |
 | 77 | 189 | Happy Basegrid |
 | 78 | 180 | Erez Yosef |
 | 79 | 173 | Frothy Pattern |
@@ -219,9 +219,9 @@
 | 211 | 75 | Tyler L Hunt |
 | 212 | 74 | Grace Joanne Agnant |
 | 213 | 74 | Owicked1 |
-| 214 | 74 | Grace Joanne Agnant |
-| 215 | 73 | Shanae Grant |
-| 216 | 73 | Silly Align |
+| 214 | 74 | Meechie |
+| 215 | 73 | Silly Align |
+| 216 | 73 | Shanae Grant |
 | 217 | 72 | Tipsy Strikerpiece |
 | 218 | 70 | Ric Hard Hernandez |
 | 219 | 70 | Henry Lanier |

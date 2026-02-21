@@ -86,15 +86,15 @@
 | 78 | 165 | Casey Grabner |
 | 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 156 | Shauna Havard |
 | 85 | 154 | ThaEviLJeNiuZ |
 | 86 | 153 | Jae Job |
 | 87 | 150 | ZeeZee |
-| 88 | 147 | 030Synner |
-| 89 | 147 | Jay28 |
+| 88 | 147 | Jay28 |
+| 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
 | 91 | 141 | Malakai Darien Fox |
 | 92 | 140 | Shannon Ferrari |

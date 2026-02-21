@@ -192,8 +192,8 @@
 | 184 | 409 | Sparkles |
 | 185 | 406 | Erin StFrancis |
 | 186 | 400 | Crystie Hicks |
-| 187 | 400 | Rhonda Milstead |
-| 188 | 400 | Tammy Allen |
+| 187 | 400 | Tammy Allen |
+| 188 | 400 | Rhonda Milstead |
 | 189 | 397 | Ashley Guernsey-Martin |
 | 190 | 397 | coleksquad |
 | 191 | 394 | Em Chen |
@@ -203,8 +203,8 @@
 | 195 | 391 | Qiana Sanders |
 | 196 | 386 | Ashie Ann |
 | 197 | 386 | Macy Williams |
-| 198 | 385 | Arwa Fatimah |
-| 199 | 385 | Sam |
+| 198 | 385 | Sam |
+| 199 | 385 | Arwa Fatimah |
 | 200 | 381 | Amanda Ferrell |
 | 201 | 380 | Calandra Shaya Robinson |
 | 202 | 380 | Joshua Mandel |
@@ -240,8 +240,8 @@
 | 232 | 333 | Brittney Jean |
 | 233 | 332 | TF Dyer |
 | 234 | 331 | Shelley Thornburgh Wright |
-| 235 | 330 | Taryece Gause |
-| 236 | 330 | Victoria Moore-Smith |
+| 235 | 330 | Victoria Moore-Smith |
+| 236 | 330 | Taryece Gause |
 | 237 | 328 | Marie Boyd Faulk |
 | 238 | 327 | Danielle Simmons |
 | 239 | 323 | Juanita Lyons |
@@ -328,8 +328,8 @@
 | 320 | 256 | CC |
 | 321 | 256 | Tee Jaleesa |
 | 322 | 255 | Santana Miyagi |
-| 323 | 254 | Elizabeth Diraffaele |
-| 324 | 254 | Rose Fx |
+| 323 | 254 | Rose Fx |
+| 324 | 254 | Elizabeth Diraffaele |
 | 325 | 254 | Julie Hamilton |
 | 326 | 253 | Tansaria Couch-Butler |
 | 327 | 252 | Matt Johnson |
@@ -506,9 +506,9 @@
 | 498 | 162 | Andrea Maher |
 | 499 | 162 | Chirpy Snapper |
 | 500 | 160 | Gary Schaffner Jr. |
-| 501 | 160 | Cynthia Ward |
+| 501 | 160 | Amy Reynolds |
 | 502 | 160 | Rhonda Petro |
-| 503 | 160 | Amy Reynolds |
+| 503 | 160 | Cynthia Ward |
 | 504 | 160 | Lazy Riseclear |
 | 505 | 160 | Marcie McLain Dodd |
 | 506 | 159 | Bee |
@@ -749,8 +749,8 @@
 | 741 | 116 | Slimkaite |
 | 742 | 115 | Melissa Schwager |
 | 743 | 115 | Angela KaplaSchwahn |
-| 744 | 115 | Fae-Bulous |
-| 745 | 115 | AsnPryBoy83 |
+| 744 | 115 | AsnPryBoy83 |
+| 745 | 115 | Fae-Bulous |
 | 746 | 114 | Melissa Maples |
 | 747 | 114 | Juan Castillo |
 | 748 | 114 | Brenda |
