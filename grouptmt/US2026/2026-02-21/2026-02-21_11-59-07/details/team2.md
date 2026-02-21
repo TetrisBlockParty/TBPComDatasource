@@ -229,16 +229,16 @@
 | 221 | 357 | Shannon Byrd |
 | 222 | 356 | Deyawn Smith |
 | 223 | 356 | Shameika Trail |
-| 224 | 354 | Brave Dropmatch |
-| 225 | 354 | Tracy Wise |
+| 224 | 354 | Tracy Wise |
+| 225 | 354 | Brave Dropmatch |
 | 226 | 353 | Joseph Musick |
 | 227 | 352 | ruth |
 | 228 | 350 | Chris Harr |
 | 229 | 350 | Kimberly Randesi |
 | 230 | 349 | Johnny Yeates |
 | 231 | 348 | Richard Horton |
-| 232 | 345 | Wuntayk |
-| 233 | 345 | Rhianna DiLorenzo |
+| 232 | 345 | Rhianna DiLorenzo |
+| 233 | 345 | Wuntayk |
 | 234 | 345 | Brenda Messer |
 | 235 | 344 | Julie Kresal |
 | 236 | 344 | Glenn Cobbins |
@@ -516,8 +516,8 @@
 | 508 | 165 | Catherine Varea |
 | 509 | 165 | Austin Wilson |
 | 510 | 164 | Jessica Vega |
-| 511 | 164 | Arkei Luster |
-| 512 | 164 | Sara Pennington |
+| 511 | 164 | Sara Pennington |
+| 512 | 164 | Arkei Luster |
 | 513 | 163 | Albert McKnight |
 | 514 | 163 | Angelica |
 | 515 | 163 | Lakeela Wise |

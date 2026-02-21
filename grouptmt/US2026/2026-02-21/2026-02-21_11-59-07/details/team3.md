@@ -215,8 +215,8 @@
 | 207 | 115 | Jennifer Alvey |
 | 208 | 115 | Hoppy Buildout |
 | 209 | 114 | Jessica Bechler |
-| 210 | 113 | Brian Battjes |
-| 211 | 113 | Valerie Gendron |
+| 210 | 113 | Valerie Gendron |
+| 211 | 113 | Brian Battjes |
 | 212 | 111 | Stephanie Zahm |
 | 213 | 110 | Danielle Weikel |
 | 214 | 110 | Stella |

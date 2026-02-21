@@ -93,8 +93,8 @@
 | 85 | 159 | Justin Hannigan |
 | 86 | 159 | Holly Jolly |
 | 87 | 157 | quicksand420 |
-| 88 | 154 | Zany Twisterfit |
-| 89 | 154 | ThaEviLJeNiuZ |
+| 88 | 154 | ThaEviLJeNiuZ |
+| 89 | 154 | Zany Twisterfit |
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
@@ -133,8 +133,8 @@
 | 125 | 120 | Joshua Guess |
 | 126 | 119 | Kristin Manee |
 | 127 | 118 | Leslie Nicole |
-| 128 | 116 | Stephme310 |
-| 129 | 116 | Diana Houts |
+| 128 | 116 | Diana Houts |
+| 129 | 116 | Stephme310 |
 | 130 | 115 | Ultramarine |
 | 131 | 115 | Jayk |
 | 132 | 113 | Andria Lynn |
@@ -145,8 +145,8 @@
 | 137 | 112 | Jackie Marie |
 | 138 | 111 | Gwendolyn Pitcairn |
 | 139 | 111 | Lazy Blocker |
-| 140 | 110 | H.R. Block |
-| 141 | 110 | YoMomma |
+| 140 | 110 | YoMomma |
+| 141 | 110 | H.R. Block |
 | 142 | 109 | KM8 |
 | 143 | 107 | Marcus Todd |
 | 144 | 105 | AyeKay |

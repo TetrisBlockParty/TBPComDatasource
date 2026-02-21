@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -53,16 +53,16 @@
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 257 | Sarah Roberts |
-| 48 | 256 | Tipsy Column |
-| 49 | 256 | Robert Benito |
+| 48 | 256 | Robert Benito |
+| 49 | 256 | Tipsy Column |
 | 50 | 253 | Bhelle Sumile |
 | 51 | 244 | Franswa |
 | 52 | 241 | Kristen Roles Robben |
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 208 | Mandyy Rae |
@@ -70,8 +70,8 @@
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Dee Perry |
 | 64 | 202 | Hyper |
-| 65 | 201 | Ananda Mendez |
-| 66 | 201 | Anaid Sanchez |
+| 65 | 201 | Anaid Sanchez |
+| 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
 | 68 | 198 | Happy Snapbuild |
 | 69 | 198 | Billie Dawn Sparks |
@@ -117,10 +117,10 @@
 | 109 | 136 | Dena Kayy |
 | 110 | 135 | Cece Ibarra |
 | 111 | 134 | Trina Gee |
-| 112 | 133 | Brandi Huntington |
-| 113 | 133 | Breanna Luna |
-| 114 | 132 | Davery Spencer Adair |
-| 115 | 132 | LaQuetta Faith Hines |
+| 112 | 133 | Breanna Luna |
+| 113 | 133 | Brandi Huntington |
+| 114 | 132 | LaQuetta Faith Hines |
+| 115 | 132 | Davery Spencer Adair |
 | 116 | 131 | Uhog SF |
 | 117 | 130 | Dandy Basegrid |
 | 118 | 128 | lil mickey |
@@ -130,15 +130,15 @@
 | 122 | 120 | Alenoush Karimian |
 | 123 | 120 | Kimmie Kimms |
 | 124 | 119 | April Carroll |
-| 125 | 119 | Irual Hctrab |
-| 126 | 119 | Tater |
+| 125 | 119 | Tater |
+| 126 | 119 | Irual Hctrab |
 | 127 | 118 | Barry Mac'Ockner |
 | 128 | 116 | Evie Khalil |
 | 129 | 115 | Mrs.Patrica |
-| 130 | 114 | Giddy Cascade |
-| 131 | 114 | Colleen Wise |
+| 130 | 114 | Colleen Wise |
+| 131 | 114 | Giddy Cascade |
 | 132 | 112 | Miguel Teixeira |
-| 133 | 112 | Kristen Gideon |
+| 133 | 112 | Nicole Roseberry Weber |
 | 134 | 112 | Flashy Rotator |
 | 135 | 112 | Kristen Gideon |
 | 136 | 111 | Chirpy Smasher |
@@ -180,8 +180,8 @@
 | 172 | 90 | TSwag |
 | 173 | 89 | Mara Hilker |
 | 174 | 88 | Larry Tilton |
-| 175 | 87 | Jessi Sauer |
-| 176 | 87 | Jenny Gingrich Fuentes |
+| 175 | 87 | Jenny Gingrich Fuentes |
+| 176 | 87 | Jessi Sauer |
 | 177 | 86 | Desiree Deschaine Havee |
 | 178 | 86 | Basment Living |
 | 179 | 85 | John Barron |
