@@ -63,8 +63,8 @@
 | 55 | 114 | Epic Curvetile |
 | 56 | 114 | Jessica Cagle |
 | 57 | 113 | Degenerate |
-| 58 | 112 | Chirpy Basepiece |
-| 59 | 112 | Jenna McGeorge |
+| 58 | 112 | Jenna McGeorge |
+| 59 | 112 | Chirpy Basepiece |
 | 60 | 111 | Gwendolyn Pitcairn |
 | 61 | 111 | Zany Shatterer |
 | 62 | 110 | H.R. Block |

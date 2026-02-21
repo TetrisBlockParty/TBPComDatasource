@@ -229,8 +229,8 @@
 | 221 | 203 | Gary Stash |
 | 222 | 202 | Christina Ashley |
 | 223 | 201 | Em Chen |
-| 224 | 200 | Sarah Ridenour |
-| 225 | 200 | Howard Forest |
+| 224 | 200 | Howard Forest |
+| 225 | 200 | Sarah Ridenour |
 | 226 | 200 | Cheeky Brickmatch |
 | 227 | 199 | Mema |
 | 228 | 198 | Richard Horton |
@@ -300,8 +300,8 @@
 | 292 | 157 | Jánine Riggs |
 | 293 | 157 | HarleyJane |
 | 294 | 156 | Nuggets |
-| 295 | 156 | Ramone Armstrong |
-| 296 | 156 | Deanna Morton |
+| 295 | 156 | Deanna Morton |
+| 296 | 156 | Ramone Armstrong |
 | 297 | 155 | Alexandra Weir |
 | 298 | 154 | Tiffney Wroten |
 | 299 | 154 | Bryan Werleman |
@@ -332,8 +332,8 @@
 | 324 | 139 | Jackson Smith |
 | 325 | 139 | Ashlyn Berner |
 | 326 | 139 | Caitlin Johnson |
-| 327 | 138 | King Shamell Young |
-| 328 | 138 | Gursharan Sandhu |
+| 327 | 138 | Gursharan Sandhu |
+| 328 | 138 | King Shamell Young |
 | 329 | 138 | Ibiza Carolina LaRose |
 | 330 | 136 | Erika Meaux |
 | 331 | 136 | RavensBeard |
@@ -344,8 +344,8 @@
 | 336 | 134 | Sarah Massey |
 | 337 | 134 | Christina Jones |
 | 338 | 133 | Candy Pitts |
-| 339 | 133 | Wakanda Forever |
-| 340 | 133 | coleksquad |
+| 339 | 133 | coleksquad |
+| 340 | 133 | Wakanda Forever |
 | 341 | 132 | Paula Snyder |
 | 342 | 132 | Jodi Mitnick |
 | 343 | 131 | Jenny Castro |

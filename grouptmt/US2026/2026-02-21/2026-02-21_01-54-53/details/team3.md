@@ -55,8 +55,8 @@
 | 47 | 291 | Laura Melton |
 | 48 | 276 | Calista Jo Dickson |
 | 49 | 272 | Mahman |
-| 50 | 267 | Amber Hughes |
-| 51 | 267 | MissTaylor |
+| 50 | 267 | MissTaylor |
+| 51 | 267 | Amber Hughes |
 | 52 | 263 | Shari Garber |
 | 53 | 249 | Denise Nardoni |
 | 54 | 240 | Nerdy Riseclear |
@@ -86,8 +86,8 @@
 | 78 | 159 | Morgan Martinez |
 | 79 | 154 | Shannon Matthew Byers |
 | 80 | 154 | Angela M. Fletcher |
-| 81 | 152 | Shiny Zonebuilder |
-| 82 | 152 | rosy |
+| 81 | 152 | rosy |
+| 82 | 152 | Shiny Zonebuilder |
 | 83 | 149 | Trisha Balmer |
 | 84 | 146 | Denita Mungro |
 | 85 | 145 | Nicha Hooker |
@@ -166,8 +166,8 @@
 | 158 | 82 | Rebel124 |
 | 159 | 82 | Clever Clearbuilder |
 | 160 | 81 | Tina Baurdau |
-| 161 | 80 | Chris Bell |
-| 162 | 80 | Vixen Queen |
+| 161 | 80 | Vixen Queen |
+| 162 | 80 | Chris Bell |
 | 163 | 79 | gremicx |
 | 164 | 78 | Clever Patterner |
 | 165 | 78 | Karon Griffin |
