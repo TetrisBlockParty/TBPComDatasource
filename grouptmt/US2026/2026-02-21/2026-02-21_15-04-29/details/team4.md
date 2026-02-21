@@ -143,8 +143,8 @@
 | 135 | 126 | Dihcheese444 |
 | 136 | 126 | Klo |
 | 137 | 124 | Allen Lloyd |
-| 138 | 123 | Cherrish Duren |
-| 139 | 123 | Angela Geist Jusinski |
+| 138 | 123 | Angela Geist Jusinski |
+| 139 | 123 | Cherrish Duren |
 | 140 | 122 | Sherri |
 | 141 | 121 | Megan Cutshaw |
 | 142 | 121 | Zany Shatterer |
@@ -318,7 +318,7 @@
 | 310 | 61 | Rebecca Morris |
 | 311 | 61 | Plucky Patternblock |
 | 312 | 61 | Chilly Crasher |
-| 313 | 61 | Rebecca Morris |
+| 313 | 61 | Jackson Karen |
 | 314 | 60 | Kris Zulch |
 | 315 | 59 | Jasmine S Caldwell |
 | 316 | 59 | Angelito |

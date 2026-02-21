@@ -66,8 +66,8 @@
 | 58 | 256 | Tipsy Column |
 | 59 | 253 | Bhelle Sumile |
 | 60 | 252 | Dena Kayy |
-| 61 | 244 | Tdub |
-| 62 | 244 | Franswa |
+| 61 | 244 | Franswa |
+| 62 | 244 | Tdub |
 | 63 | 240 | Rachael |
 | 64 | 237 | Elaine Elaine |
 | 65 | 226 | Sharon Reynolds |
@@ -105,8 +105,8 @@
 | 97 | 171 | Greg Premoe |
 | 98 | 169 | Abbey Crespo |
 | 99 | 166 | Rico Rico |
-| 100 | 165 | GATOR |
-| 101 | 165 | Veronica Eve |
+| 100 | 165 | Veronica Eve |
+| 101 | 165 | GATOR |
 | 102 | 163 | Chad Atchley |
 | 103 | 162 | Tyler Whitley |
 | 104 | 160 | Standia Civil |
@@ -142,8 +142,8 @@
 | 134 | 134 | Trina Gee |
 | 135 | 133 | Breanna Luna |
 | 136 | 132 | LaQuetta Faith Hines |
-| 137 | 132 | Davery Spencer Adair |
-| 138 | 132 | Cody Gates |
+| 137 | 132 | Cody Gates |
+| 138 | 132 | Davery Spencer Adair |
 | 139 | 131 | Uhog SF |
 | 140 | 130 | Dandy Basegrid |
 | 141 | 129 | Dino |
@@ -163,8 +163,8 @@
 | 155 | 118 | Barry Mac'Ockner |
 | 156 | 116 | Jessica Russell |
 | 157 | 116 | Evie Khalil |
-| 158 | 115 | Chuck Gannon |
-| 159 | 115 | Mrs.Patrica |
+| 158 | 115 | Mrs.Patrica |
+| 159 | 115 | Chuck Gannon |
 | 160 | 113 | Desiree Deschaine Havee |
 | 161 | 112 | Flashy Rotator |
 | 162 | 112 | Nicole Roseberry Weber |
@@ -174,16 +174,16 @@
 | 166 | 110 | Madison Wicks |
 | 167 | 110 | Garcia Bailey |
 | 168 | 109 | Nery Martinez |
-| 169 | 108 | Tavia |
-| 170 | 108 | Dizzy Party |
-| 171 | 108 | Luciano Moreira |
+| 169 | 108 | Dizzy Party |
+| 170 | 108 | Luciano Moreira |
+| 171 | 108 | Tavia |
 | 172 | 107 | Jodee Woods |
-| 173 | 106 | Bloknboy |
-| 174 | 106 | Alyssa Ingram |
-| 175 | 105 | Angela Fairbank |
-| 176 | 105 | Ty Brown |
-| 177 | 104 | Charla Pross-Fugleberg |
-| 178 | 104 | Bindi |
+| 173 | 106 | Alyssa Ingram |
+| 174 | 106 | Bloknboy |
+| 175 | 105 | Ty Brown |
+| 176 | 105 | Angela Fairbank |
+| 177 | 104 | Bindi |
+| 178 | 104 | Charla Pross-Fugleberg |
 | 179 | 103 | Chantelle Ceno |
 | 180 | 101 | David Miller |
 | 181 | 101 | Jessie |
@@ -197,9 +197,9 @@
 | 189 | 99 | Mizzledagod |
 | 190 | 98 | Witty Builderfit |
 | 191 | 96 | MommaKFC |
-| 192 | 96 | Howdi Duty |
-| 193 | 96 | Barrbaric |
-| 194 | 96 | Guest |
+| 192 | 96 | Guest |
+| 193 | 96 | Howdi Duty |
+| 194 | 96 | Barrbaric |
 | 195 | 94 | Brad MG |
 | 196 | 92 | Timothy Dew |
 | 197 | 90 | Grace Joanne Agnant |

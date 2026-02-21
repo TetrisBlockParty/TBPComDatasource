@@ -300,8 +300,8 @@
 | 292 | 98 | Andrew Thorson |
 | 293 | 98 | Armi |
 | 294 | 97 | Paula Little |
-| 295 | 96 | Christopher Woost |
-| 296 | 96 | D3NO |
+| 295 | 96 | D3NO |
+| 296 | 96 | Christopher Woost |
 | 297 | 95 | Brooke Bauer |
 | 298 | 95 | FATTY |
 | 299 | 94 | Nichole Greene |

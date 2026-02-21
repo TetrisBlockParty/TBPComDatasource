@@ -318,8 +318,8 @@
 | 310 | 315 | Alisa Lamb |
 | 311 | 314 | NanDa Cruzan VI |
 | 312 | 314 | Amanda West |
-| 313 | 312 | Andrea Maher |
-| 314 | 312 | Michelle Pike |
+| 313 | 312 | Michelle Pike |
+| 314 | 312 | Andrea Maher |
 | 315 | 311 | Véronique Lévesque Sabourin |
 | 316 | 310 | Brandy Andre |
 | 317 | 309 | Oscar Bernie |
@@ -357,9 +357,9 @@
 | 349 | 281 | Ellie Jonas |
 | 350 | 281 | Jaycee |
 | 351 | 280 | Shorty |
-| 352 | 280 | Lyndi Robinson Wakefield |
-| 353 | 280 | Sabrina Burton |
-| 354 | 280 | SwampRebel |
+| 352 | 280 | Sabrina Burton |
+| 353 | 280 | SwampRebel |
+| 354 | 280 | Lyndi Robinson Wakefield |
 | 355 | 279 | Glitzy Stackzone |
 | 356 | 278 | Deana |
 | 357 | 278 | Noel Tarmy |
@@ -367,8 +367,8 @@
 | 359 | 278 | Demeka Dangerous-kisses Johnson |
 | 360 | 276 | Vonceial Boone |
 | 361 | 276 | Lindsey Leigh |
-| 362 | 275 | Shiny Rollzone |
-| 363 | 275 | Ann Matzkanin |
+| 362 | 275 | Ann Matzkanin |
+| 363 | 275 | Shiny Rollzone |
 | 364 | 275 | Cheeky Brickmatch |
 | 365 | 274 | Lonne Emade |
 | 366 | 274 | Jamie Stevey |
@@ -907,8 +907,8 @@
 | 899 | 117 | Luceros7 |
 | 900 | 116 | Moua Ying |
 | 901 | 116 | Patrick Langford |
-| 902 | 116 | Carla Cervantes |
-| 903 | 116 | Slimkaite |
+| 902 | 116 | Slimkaite |
+| 903 | 116 | Carla Cervantes |
 | 904 | 116 | Jennifer Monroe Kelly |
 | 905 | 115 | AsnPryBoy83 |
 | 906 | 115 | Mikey |
