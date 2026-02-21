@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Jorge Andrade |
-| 29 | 541 | Drew Magnus |
+| 28 | 541 | Drew Magnus |
+| 29 | 541 | Jorge Andrade |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Cody Slav |
@@ -178,8 +178,8 @@
 | 170 | 126 | Nerdy Linkblock |
 | 171 | 125 | Tipsy Riseclear |
 | 172 | 124 | Witty Builderfit |
-| 173 | 124 | Luciano Moreira |
-| 174 | 124 | Flashy Rotator |
+| 173 | 124 | Flashy Rotator |
+| 174 | 124 | Luciano Moreira |
 | 175 | 124 | Cartier |
 | 176 | 122 | Melissa Lemmon |
 | 177 | 122 | Margo Wagner |
@@ -262,8 +262,8 @@
 | 254 | 84 | Fresno Beotoni |
 | 255 | 84 | Eddie Dillon |
 | 256 | 83 | FableGray |
-| 257 | 83 | Brave Slice |
-| 258 | 83 | Bob |
+| 257 | 83 | Bob |
+| 258 | 83 | Brave Slice |
 | 259 | 82 | Kerry Lee Powell |
 | 260 | 81 | Brian Richardsson |
 | 261 | 81 | Giddy Glider |
@@ -475,7 +475,7 @@
 | 467 | 50 | Sarah Lyle |
 | 468 | 50 | Jason Savage |
 | 469 | 50 | Dandy Line |
-| 470 | 50 | Jason Savage |
+| 470 | 50 | Unicorn |
 | 471 | 49 | Gerald Richard Franke |
 | 472 | 49 | Tyler Werts |
 | 473 | 49 | Jerry Danowski |

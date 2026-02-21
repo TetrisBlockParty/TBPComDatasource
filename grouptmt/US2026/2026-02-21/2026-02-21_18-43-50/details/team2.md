@@ -788,8 +788,8 @@
 | 780 | 158 | Nat |
 | 781 | 158 | Jas |
 | 782 | 158 | Toni Roberson |
-| 783 | 158 | Connie Lepore-Mann |
-| 784 | 158 | Alex Marie Desantiago |
+| 783 | 158 | Alex Marie Desantiago |
+| 784 | 158 | Connie Lepore-Mann |
 | 785 | 157 | Preya Patel |
 | 786 | 157 | Ty Quarles |
 | 787 | 157 | Sassy Pivot |

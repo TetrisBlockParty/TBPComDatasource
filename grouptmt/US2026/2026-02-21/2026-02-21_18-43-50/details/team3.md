@@ -153,8 +153,8 @@
 | 145 | 219 | Tom Nault |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Jenny Hrndz |
-| 149 | 214 | Amy Fuller Heaton |
+| 148 | 214 | Amy Fuller Heaton |
+| 149 | 214 | Jenny Hrndz |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Nicha Hooker |
-| 163 | 195 | Michael Lucado |
+| 162 | 195 | Michael Lucado |
+| 163 | 195 | Nicha Hooker |
 | 164 | 194 | glichmod |
 | 165 | 193 | Clever Shiftsnap |
 | 166 | 193 | Stephanie Burtin |

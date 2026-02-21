@@ -191,7 +191,7 @@
 | 183 | 115 | Jayk |
 | 184 | 115 | Ultramarine |
 | 185 | 114 | Jackie Marie |
-| 186 | 113 | Adam Randall |
+| 186 | 113 | Dandy Cascadefit |
 | 187 | 113 | April Rondinone |
 | 188 | 113 | Adam Randall |
 | 189 | 112 | Austin Owens |
