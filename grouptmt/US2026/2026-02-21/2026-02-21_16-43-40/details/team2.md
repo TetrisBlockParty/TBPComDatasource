@@ -180,8 +180,8 @@
 | 172 | 543 | Diana Fitzwater |
 | 173 | 541 | SaraMarie Eveland |
 | 174 | 534 | Poppy Snapper |
-| 175 | 534 | Stephen Stephen |
-| 176 | 534 | Teresa Gillmore |
+| 175 | 534 | Teresa Gillmore |
+| 176 | 534 | Stephen Stephen |
 | 177 | 531 | Chris Wanner |
 | 178 | 527 | Stacy Stickle |
 | 179 | 527 | Adira Brown |
@@ -641,16 +641,16 @@
 | 633 | 172 | Jasmine Kenney |
 | 634 | 171 | Bee |
 | 635 | 171 | Ashley Cooper Tharin |
-| 636 | 170 | Kenya Felix |
-| 637 | 170 | Sharon Crawford |
+| 636 | 170 | Sharon Crawford |
+| 637 | 170 | Kenya Felix |
 | 638 | 170 | BTA |
 | 639 | 170 | Dedra Steward |
 | 640 | 169 | Sassy Linkroll |
 | 641 | 169 | Eddie Perez |
 | 642 | 169 | Greenshades00 |
 | 643 | 168 | Nicol Craven |
-| 644 | 168 | Cini |
-| 645 | 168 | Kelsey Sullivan |
+| 644 | 168 | Kelsey Sullivan |
+| 645 | 168 | Cini |
 | 646 | 167 | Sabrena Yeisley |
 | 647 | 167 | mshir |
 | 648 | 167 | Swanky Columnbuilder |

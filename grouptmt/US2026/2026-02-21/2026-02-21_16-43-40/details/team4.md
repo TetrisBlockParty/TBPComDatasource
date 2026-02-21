@@ -26,8 +26,8 @@
 | 18 | 633 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -61,8 +61,8 @@
 | 53 | 339 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 293 | HastyGrabber |
@@ -138,8 +138,8 @@
 | 130 | 140 | Jenna McGeorge |
 | 131 | 140 | Shannon Ferrari |
 | 132 | 137 | PeaceOs |
-| 133 | 136 | Tanner Lund |
-| 134 | 136 | Serena Goodridge |
+| 133 | 136 | Serena Goodridge |
+| 134 | 136 | Tanner Lund |
 | 135 | 135 | ĥuf |
 | 136 | 134 | Chirpy Basepiece |
 | 137 | 132 | Jessica Cagle |
@@ -148,8 +148,8 @@
 | 140 | 132 | Melissa Priest Sellers |
 | 141 | 130 | Casey Jeffcoat |
 | 142 | 129 | John Brunetti |
-| 143 | 128 | Rio Rocha |
-| 144 | 128 | Stephme310 |
+| 143 | 128 | Stephme310 |
+| 144 | 128 | Rio Rocha |
 | 145 | 127 | Dreamy Snapgrid |
 | 146 | 126 | TinyLegoRose |
 | 147 | 126 | Dihcheese444 |
@@ -163,8 +163,8 @@
 | 155 | 121 | Megan Cutshaw |
 | 156 | 121 | Zany Shatterer |
 | 157 | 120 | Joshua Guess |
-| 158 | 119 | Kristin Manee |
-| 159 | 119 | Gwendolyn Pitcairn |
+| 158 | 119 | Gwendolyn Pitcairn |
+| 159 | 119 | Kristin Manee |
 | 160 | 116 | Diana Houts |
 | 161 | 115 | Jayk |
 | 162 | 115 | Ultramarine |
@@ -176,8 +176,8 @@
 | 168 | 111 | Lazy Blocker |
 | 169 | 111 | Michelle Morris |
 | 170 | 110 | H.R. Block |
-| 171 | 108 | Ali Ian |
-| 172 | 108 | Sam Middleton |
+| 171 | 108 | Sam Middleton |
+| 172 | 108 | Ali Ian |
 | 173 | 107 | Marcus Todd |
 | 174 | 107 | Rafael Valentin |
 | 175 | 106 | Avy Absol |
@@ -186,8 +186,8 @@
 | 178 | 105 | Kristin MacDonald |
 | 179 | 104 | Damn Libra |
 | 180 | 104 | Ren Mc |
-| 181 | 103 | Lauren Lamb |
-| 182 | 103 | Judy Cox |
+| 181 | 103 | Judy Cox |
+| 182 | 103 | Lauren Lamb |
 | 183 | 103 | April Rondinone |
 | 184 | 102 | Faja |
 | 185 | 102 | Autumn Kumzi |
@@ -227,7 +227,7 @@
 | 219 | 88 | Sam Bishop |
 | 220 | 88 | Heather Tushner |
 | 221 | 88 | Kesha Brady |
-| 222 | 87 | Spicy Cascadezone |
+| 222 | 87 | Bradley Reeves |
 | 223 | 87 | Alan George LaRage |
 | 224 | 87 | Spicy Cascadezone |
 | 225 | 86 | Tony Pavelka |

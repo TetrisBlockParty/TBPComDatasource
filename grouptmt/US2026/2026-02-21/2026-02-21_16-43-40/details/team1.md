@@ -98,8 +98,8 @@
 | 90 | 193 | Lachelle Dillon |
 | 91 | 192 | Shaykmia |
 | 92 | 191 | Diane Byrd |
-| 93 | 190 | Sweetts |
-| 94 | 190 | Thorne Shumate |
+| 93 | 190 | Thorne Shumate |
+| 94 | 190 | Sweetts |
 | 95 | 189 | Happy Basegrid |
 | 96 | 186 | Jennifer Olewnik Soborowski |
 | 97 | 185 | Ash Galvan |
@@ -213,8 +213,8 @@
 | 205 | 98 | Witty Builderfit |
 | 206 | 97 | Steve Bomkamp |
 | 207 | 96 | Mara Hilker |
-| 208 | 96 | MommaKFC |
-| 209 | 96 | Howdi Duty |
+| 208 | 96 | Howdi Duty |
+| 209 | 96 | MommaKFC |
 | 210 | 94 | Brad MG |
 | 211 | 91 | Owicked1 |
 | 212 | 91 | Sleepysloath5745 |

@@ -161,8 +161,8 @@
 | 153 | 193 | Clever Shiftsnap |
 | 154 | 191 | Giddy Twistbuilder |
 | 155 | 191 | Scott Carleton |
-| 156 | 189 | Staci George Fitzsimmons |
-| 157 | 189 | Sissy Lowery Davis |
+| 156 | 189 | Sissy Lowery Davis |
+| 157 | 189 | Staci George Fitzsimmons |
 | 158 | 189 | Fallorina Susana |
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
@@ -315,8 +315,8 @@
 | 307 | 98 | Rebecca Bailey |
 | 308 | 98 | Shicken Nuggit |
 | 309 | 98 | Armi |
-| 310 | 98 | Erika Thornton |
-| 311 | 98 | Rania Zaqout |
+| 310 | 98 | Rania Zaqout |
+| 311 | 98 | Erika Thornton |
 | 312 | 97 | Saucy Buildout |
 | 313 | 97 | Tina Baurdau |
 | 314 | 97 | Paula Little |
@@ -371,7 +371,7 @@
 | 363 | 82 | lema ean |
 | 364 | 82 | Rebecca Funderburk Kirby |
 | 365 | 82 | Moimyzean |
-| 366 | 82 | lema ean |
+| 366 | 82 | Eileen Brady Thurber |
 | 367 | 81 | Joseph Vargas |
 | 368 | 81 | Elyse Grabowsky |
 | 369 | 81 | Katheline Lazo Luizaga |
@@ -461,8 +461,8 @@
 | 453 | 70 | Leticia Lynn Lowe |
 | 454 | 70 | Pizzi |
 | 455 | 70 | Chenoa Urban Sophicated Redy |
-| 456 | 69 | Kristen McAlpine |
-| 457 | 69 | Spunky Combofall |
+| 456 | 69 | Spunky Combofall |
+| 457 | 69 | Kristen McAlpine |
 | 458 | 69 | Frilly Stackzone |
 | 459 | 69 | Lisa Feddeck |
 | 460 | 69 | Kristian Thurman |
