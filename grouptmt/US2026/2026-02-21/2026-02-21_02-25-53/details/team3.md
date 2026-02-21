@@ -113,8 +113,8 @@
 | 105 | 123 | Kristie McFarland |
 | 106 | 122 | Shimika Enay Wallace |
 | 107 | 122 | Aerian Preston |
-| 108 | 120 | Jessica |
-| 109 | 120 | Michael Latasha Gray |
+| 108 | 120 | Michael Latasha Gray |
+| 109 | 120 | Jessica |
 | 110 | 119 | Terry Jo Jones |
 | 111 | 118 | Bea Miles |
 | 112 | 118 | Fancy Curver |
@@ -131,8 +131,8 @@
 | 123 | 105 | Hoppy Buildout |
 | 124 | 103 | Brian Battjes |
 | 125 | 102 | Sarah Moyer |
-| 126 | 102 | mommablock |
-| 127 | 102 | Jenny Hrndz |
+| 126 | 102 | Jenny Hrndz |
+| 127 | 102 | mommablock |
 | 128 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 129 | 100 | Elizabeth Renee |
 | 130 | 100 | Donna |

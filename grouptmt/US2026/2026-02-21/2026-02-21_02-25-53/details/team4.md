@@ -79,8 +79,8 @@
 | 71 | 102 | Faja |
 | 72 | 101 | Michelle Morris |
 | 73 | 100 | Jeff Brian Gates |
-| 74 | 100 | John Brunetti |
-| 75 | 100 | Andria Lynn |
+| 74 | 100 | Andria Lynn |
+| 75 | 100 | John Brunetti |
 | 76 | 99 | YoMomma |
 | 77 | 98 | Stephme310 |
 | 78 | 98 | Duck |
