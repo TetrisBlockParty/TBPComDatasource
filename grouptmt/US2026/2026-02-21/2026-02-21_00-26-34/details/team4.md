@@ -48,15 +48,15 @@
 | 40 | 123 | Nugget |
 | 41 | 123 | Courtney Cicoria |
 | 42 | 121 | Smiley Tiltbuilder |
-| 43 | 117 | Denise Carlson |
-| 44 | 117 | Lauren Scott |
+| 43 | 117 | Lauren Scott |
+| 44 | 117 | Denise Carlson |
 | 45 | 116 | Sherri |
 | 46 | 114 | Jessica Cagle |
 | 47 | 113 | Degenerate |
 | 48 | 112 | Chirpy Basepiece |
 | 49 | 111 | Gwendolyn Pitcairn |
-| 50 | 109 | Bryan Hodgins |
-| 51 | 109 | Epic Curvetile |
+| 50 | 109 | Epic Curvetile |
+| 51 | 109 | Bryan Hodgins |
 | 52 | 108 | Mr. Party |
 | 53 | 103 | Diana Houts |
 | 54 | 103 | Serena Goodridge |

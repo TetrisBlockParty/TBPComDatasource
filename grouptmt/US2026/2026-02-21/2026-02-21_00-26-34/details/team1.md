@@ -64,8 +64,8 @@
 | 56 | 109 | Dandy Basegrid |
 | 57 | 108 | Tavia |
 | 58 | 105 | Barry Mac'Ockner |
-| 59 | 100 | Frothy Pattern |
-| 60 | 100 | Ash Galvan |
+| 59 | 100 | Ash Galvan |
+| 60 | 100 | Frothy Pattern |
 | 61 | 99 | Uhog SF |
 | 62 | 98 | Flashy Rotator |
 | 63 | 95 | Jodee Woods |
