@@ -111,8 +111,8 @@
 | 103 | 108 | Tavia |
 | 104 | 107 | Jodee Woods |
 | 105 | 106 | Ash Galvan |
-| 106 | 105 | Flashy Rotator |
-| 107 | 105 | Barry Mac'Ockner |
+| 106 | 105 | Barry Mac'Ockner |
+| 107 | 105 | Flashy Rotator |
 | 108 | 104 | Bhelle Sumile |
 | 109 | 103 | Adryane Schnase |
 | 110 | 102 | Jennifer ManWarren |

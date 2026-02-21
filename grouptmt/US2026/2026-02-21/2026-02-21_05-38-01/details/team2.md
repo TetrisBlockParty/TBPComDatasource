@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -159,8 +159,8 @@
 | 151 | 397 | Ashley Guernsey-Martin |
 | 152 | 391 | Steven Marshaun |
 | 153 | 391 | Chilly Bridgepiece |
-| 154 | 386 | Ashie Ann |
-| 155 | 386 | Jumpy Gridpiece |
+| 154 | 386 | Jumpy Gridpiece |
+| 155 | 386 | Ashie Ann |
 | 156 | 385 | Sam |
 | 157 | 381 | Amanda Ferrell |
 | 158 | 380 | Joshua Mandel |
@@ -237,8 +237,8 @@
 | 229 | 273 | Jenna Nance |
 | 230 | 272 | August Hale |
 | 231 | 271 | Ann Marie Davis |
-| 232 | 271 | Toni Lynn |
-| 233 | 271 | Lonne Emade |
+| 232 | 271 | Lonne Emade |
+| 233 | 271 | Toni Lynn |
 | 234 | 270 | Angela Lynn |
 | 235 | 270 | Alexandra Weir |
 | 236 | 268 | Chummy Blockbuilder |
@@ -291,12 +291,12 @@
 | 283 | 237 | Altamirano Michael |
 | 284 | 236 | Frisky Riserbuilder |
 | 285 | 235 | Kimberly Mitchell |
-| 286 | 233 | Robin Kerby |
-| 287 | 233 | Alyssia Tancredi |
+| 286 | 233 | Alyssia Tancredi |
+| 287 | 233 | Robin Kerby |
 | 288 | 232 | Amber Brion |
 | 289 | 232 | Maddy Petersen |
-| 290 | 231 | Ginger |
-| 291 | 231 | Dylan Thomason |
+| 290 | 231 | Dylan Thomason |
+| 291 | 231 | Ginger |
 | 292 | 230 | snkylnk |
 | 293 | 228 | Michelle Sager |
 | 294 | 227 | Nutty Matchline |
@@ -477,13 +477,13 @@
 | 469 | 142 | James Smith |
 | 470 | 142 | Frisky Clearpiece |
 | 471 | 142 | RavensBeard |
-| 472 | 142 | Melissa Kay Gibson |
-| 473 | 142 | Joy LaJeunesse |
+| 472 | 142 | Joy LaJeunesse |
+| 473 | 142 | Melissa Kay Gibson |
 | 474 | 141 | Erika Meaux |
 | 475 | 141 | Markisha Poyndexter |
 | 476 | 140 | King Shamell Young |
-| 477 | 140 | Brandy Sutton |
-| 478 | 140 | Kimberly Ann |
+| 477 | 140 | Kimberly Ann |
+| 478 | 140 | Brandy Sutton |
 | 479 | 140 | Preya Patel |
 | 480 | 139 | Jackson Smith |
 | 481 | 139 | Kathryn Townsley |

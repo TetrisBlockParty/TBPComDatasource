@@ -154,7 +154,7 @@
 | 146 | 81 | Blessedmama |
 | 147 | 81 | Jumpy Zonepiece |
 | 148 | 81 | Michelle Parker |
-| 149 | 81 | Jumpy Zonepiece |
+| 149 | 81 | Chair |
 | 150 | 80 | Melissa Adams |
 | 151 | 79 | Shainne Brewer |
 | 152 | 79 | Joseph Pace |

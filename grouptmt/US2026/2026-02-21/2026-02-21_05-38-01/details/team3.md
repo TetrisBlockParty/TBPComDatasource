@@ -117,8 +117,8 @@
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Morgan Martinez |
-| 113 | 159 | Jone |
+| 112 | 159 | Jone |
+| 113 | 159 | Morgan Martinez |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
@@ -126,17 +126,17 @@
 | 118 | 154 | Angela M. Fletcher |
 | 119 | 153 | Beth Ingham |
 | 120 | 152 | Shiny Zonebuilder |
-| 121 | 149 | Trisha Balmer |
-| 122 | 149 | Bea Miles |
-| 123 | 149 | Angel Mendez |
+| 121 | 149 | Angel Mendez |
+| 122 | 149 | Trisha Balmer |
+| 123 | 149 | Bea Miles |
 | 124 | 146 | Latoya Mayne |
 | 125 | 146 | Denita Mungro |
 | 126 | 140 | Gumbo |
 | 127 | 140 | Jay Horn |
 | 128 | 135 | Nicole Flippo |
 | 129 | 134 | DanceLuvLaugh |
-| 130 | 134 | Elaine Webb Graves |
-| 131 | 134 | Emma |
+| 130 | 134 | Emma |
+| 131 | 134 | Elaine Webb Graves |
 | 132 | 133 | Giddy Twistbuilder |
 | 133 | 131 | Jl |
 | 134 | 127 | Aerian Preston |
@@ -173,8 +173,8 @@
 | 165 | 110 | Stella |
 | 166 | 109 | Fredd Thomas |
 | 167 | 109 | Diana Ibarra |
-| 168 | 108 | LaTanya GeminiondaRise Johnson |
-| 169 | 108 | Rachel Napper |
+| 168 | 108 | Rachel Napper |
+| 169 | 108 | LaTanya GeminiondaRise Johnson |
 | 170 | 107 | Sherry Ogden |
 | 171 | 106 | Eon Harris |
 | 172 | 106 | Desiree Gold |
