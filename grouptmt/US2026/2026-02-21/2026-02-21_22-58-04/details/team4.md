@@ -152,14 +152,14 @@
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
-| 147 | 164 | 030Synner |
-| 148 | 164 | ThaEviLJeNiuZ |
+| 147 | 164 | ThaEviLJeNiuZ |
+| 148 | 164 | 030Synner |
 | 149 | 160 | ZeeZee |
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
 | 152 | 153 | Empress Oasis |
-| 153 | 153 | Chair |
-| 154 | 153 | Avy Absol |
+| 153 | 153 | Avy Absol |
+| 154 | 153 | Chair |
 | 155 | 151 | Bethany Ison |
 | 156 | 149 | Roger Coulter |
 | 157 | 149 | Shainne Brewer |
@@ -189,8 +189,8 @@
 | 181 | 132 | Melissa Priest Sellers |
 | 182 | 132 | Degenerate |
 | 183 | 131 | Mary Ann Pabukis |
-| 184 | 131 | TinyLegoRose |
-| 185 | 131 | Michelle Morris |
+| 184 | 131 | Michelle Morris |
+| 185 | 131 | TinyLegoRose |
 | 186 | 130 | Chris Bernstein |
 | 187 | 130 | Shukee Lo |
 | 188 | 130 | Carlos Ramirez |

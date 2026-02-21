@@ -220,8 +220,8 @@
 | 212 | 185 | Aerian Preston |
 | 213 | 184 | Troy |
 | 214 | 183 | Trisha Balmer |
-| 215 | 182 | Hyper Matchzone |
-| 216 | 182 | Raven Dudley |
+| 215 | 182 | Raven Dudley |
+| 216 | 182 | Hyper Matchzone |
 | 217 | 181 | Nicholas Roddy |
 | 218 | 180 | Loopy Fallmatch |
 | 219 | 179 | Ashley Jones |
@@ -278,8 +278,8 @@
 | 270 | 146 | Denita Mungro |
 | 271 | 146 | Tony Waters |
 | 272 | 145 | Bryan Byrd |
-| 273 | 144 | Tenisha Semidey |
-| 274 | 144 | fraulila |
+| 273 | 144 | fraulila |
+| 274 | 144 | Tenisha Semidey |
 | 275 | 143 | Alice |
 | 276 | 143 | Funky Jumper |
 | 277 | 142 | Gray Hicks |
@@ -373,7 +373,7 @@
 | 365 | 110 | Danielle Weikel |
 | 366 | 110 | Carol Cain Thurman |
 | 367 | 110 | Tye Stovall |
-| 368 | 109 | Ashley Rufus Bythcez |
+| 368 | 109 | Diana Ibarra |
 | 369 | 109 | mommablock |
 | 370 | 109 | Ashley Rufus Bythcez |
 | 371 | 107 | Megan Stanley |

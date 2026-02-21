@@ -220,7 +220,7 @@
 | 212 | 119 | Tater |
 | 213 | 119 | Strig |
 | 214 | 118 | SavageBooty98 |
-| 215 | 116 | MomMom |
+| 215 | 116 | Bindi |
 | 216 | 116 | Jessica Russell |
 | 217 | 116 | MomMom |
 | 218 | 115 | Chuck Gannon |
@@ -231,8 +231,8 @@
 | 223 | 114 | Tyler Hertzog |
 | 224 | 114 | Hector Cruz |
 | 225 | 113 | Desiree Deschaine Havee |
-| 226 | 112 | Crystal Joslin |
-| 227 | 112 | Chris65 |
+| 226 | 112 | Chris65 |
+| 227 | 112 | Crystal Joslin |
 | 228 | 111 | Rachel Nichole Henry |
 | 229 | 111 | Chirpy Smasher |
 | 230 | 110 | Jodee Woods |

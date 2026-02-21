@@ -150,8 +150,8 @@
 | 142 | 807 | Rebecca Doughman |
 | 143 | 803 | Tralonda Weeks |
 | 144 | 802 | Robin Kerby |
-| 145 | 800 | Tacara Cummings |
-| 146 | 800 | Danielle Johnson-Chandler |
+| 145 | 800 | Danielle Johnson-Chandler |
+| 146 | 800 | Tacara Cummings |
 | 147 | 795 | Khalil Lowe |
 | 148 | 789 | James Simms III |
 | 149 | 789 | Stephanie Chapman |
@@ -448,8 +448,8 @@
 | 440 | 333 | Tra Barnum |
 | 441 | 332 | Nicole Cannon |
 | 442 | 331 | Kia Humphery |
-| 443 | 330 | CC |
-| 444 | 330 | Lucy Marshall |
+| 443 | 330 | Lucy Marshall |
+| 444 | 330 | CC |
 | 445 | 329 | Chummy Blockbuilder |
 | 446 | 329 | Jroc |
 | 447 | 328 | bru |
@@ -472,15 +472,15 @@
 | 464 | 318 | Jane Crew |
 | 465 | 317 | Zombi3 |
 | 466 | 317 | snkylnk |
-| 467 | 316 | Gloria Ininahazwe |
-| 468 | 316 | Mikayala Szaz |
+| 467 | 316 | Mikayala Szaz |
+| 468 | 316 | Gloria Ininahazwe |
 | 469 | 315 | Ryan Meilleur |
-| 470 | 314 | Party d |
-| 471 | 314 | Amanda West |
+| 470 | 314 | Amanda West |
+| 471 | 314 | Party d |
 | 472 | 314 | James Zaragoza |
 | 473 | 313 | Natasha Edmonds |
-| 474 | 312 | Justin Hines |
-| 475 | 312 | Andrea Maher |
+| 474 | 312 | Andrea Maher |
+| 475 | 312 | Justin Hines |
 | 476 | 312 | Michelle Pike |
 | 477 | 310 | Cheeky Brickmatch |
 | 478 | 310 | Sharon Mills |
@@ -545,8 +545,8 @@
 | 537 | 277 | August Hale |
 | 538 | 276 | Lindsey Leigh |
 | 539 | 276 | Patrick Bartlett |
-| 540 | 276 | Loony Basepiece |
-| 541 | 276 | Vonceial Boone |
+| 540 | 276 | Vonceial Boone |
+| 541 | 276 | Loony Basepiece |
 | 542 | 275 | Dapper Dasher |
 | 543 | 274 | Jamie Stevey |
 | 544 | 274 | Eric Carlson |
