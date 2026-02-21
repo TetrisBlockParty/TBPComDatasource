@@ -161,8 +161,8 @@
 | 153 | 171 | David DeSantis |
 | 154 | 171 | femmefatale |
 | 155 | 171 | Greg Premoe |
-| 156 | 170 | Cartier |
-| 157 | 170 | Veronica Eve |
+| 156 | 170 | Veronica Eve |
+| 157 | 170 | Cartier |
 | 158 | 169 | Abbey Crespo |
 | 159 | 168 | Katie Daniels |
 | 160 | 168 | Standia Civil |

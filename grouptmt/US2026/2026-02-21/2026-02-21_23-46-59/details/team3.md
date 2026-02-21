@@ -72,15 +72,15 @@
 | 64 | 604 | Danielle Becker |
 | 65 | 591 | Suzieq |
 | 66 | 588 | yoyo |
-| 67 | 582 | Katrina Schroeder |
-| 68 | 582 | Natasha Jones |
+| 67 | 582 | Natasha Jones |
+| 68 | 582 | Katrina Schroeder |
 | 69 | 581 | Danielle Mogg |
 | 70 | 580 | Amanda L Baker |
 | 71 | 566 | Dan Rob |
 | 72 | 565 | Dolores Falco |
 | 73 | 561 | Rachael McClain Owens |
-| 74 | 536 | Giddy Drop |
-| 75 | 536 | Joey Banks |
+| 74 | 536 | Joey Banks |
+| 75 | 536 | Giddy Drop |
 | 76 | 533 | Sarah Fehring |
 | 77 | 526 | Cynthia Castros-Hampton |
 | 78 | 510 | Dave Herzog |
@@ -203,8 +203,8 @@
 | 195 | 207 | Chris Bell |
 | 196 | 205 | Sarah Moyer |
 | 197 | 204 | Danielle Allison |
-| 198 | 201 | IamJust Neyamijah Washington Sr. |
-| 199 | 201 | Karon Griffin |
+| 198 | 201 | Karon Griffin |
+| 199 | 201 | IamJust Neyamijah Washington Sr. |
 | 200 | 200 | Sharisse Baltimore |
 | 201 | 200 | glichmod |
 | 202 | 199 | Rania Zaqout |

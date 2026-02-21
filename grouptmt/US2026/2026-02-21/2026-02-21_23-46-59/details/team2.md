@@ -431,8 +431,8 @@
 | 423 | 354 | Amber Brion |
 | 424 | 354 | Rickey Johnson |
 | 425 | 353 | Cheery Matchzone |
-| 426 | 352 | KayLynn Ogden McClelland |
-| 427 | 352 | ruth |
+| 426 | 352 | ruth |
+| 427 | 352 | KayLynn Ogden McClelland |
 | 428 | 350 | Chris Harr |
 | 429 | 350 | F-X |
 | 430 | 350 | Fi Ne |

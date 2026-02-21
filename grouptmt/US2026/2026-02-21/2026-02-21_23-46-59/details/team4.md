@@ -169,8 +169,8 @@
 | 161 | 151 | Bethany Ison |
 | 162 | 149 | Shainne Brewer |
 | 163 | 148 | Mr. Party |
-| 164 | 148 | Brittany Marsh |
-| 165 | 148 | Janita Parrish |
+| 164 | 148 | Janita Parrish |
+| 165 | 148 | Brittany Marsh |
 | 166 | 147 | B Renee Desjardin |
 | 167 | 147 | Jay28 |
 | 168 | 142 | Zippy Gridlock |
