@@ -349,8 +349,8 @@
 | 341 | 140 | Amber Gray |
 | 342 | 139 | Jackson Smith |
 | 343 | 138 | Ibiza Carolina LaRose |
-| 344 | 138 | King Shamell Young |
-| 345 | 138 | Gursharan Sandhu |
+| 344 | 138 | Gursharan Sandhu |
+| 345 | 138 | King Shamell Young |
 | 346 | 137 | Bette Prieto |
 | 347 | 136 | RavensBeard |
 | 348 | 135 | Robin L. Vial |
@@ -363,8 +363,8 @@
 | 355 | 133 | Jess Orosz |
 | 356 | 133 | coleksquad |
 | 357 | 132 | Paula Snyder |
-| 358 | 132 | Chilly Rollblock |
-| 359 | 132 | Jason Garnatz |
+| 358 | 132 | Jason Garnatz |
+| 359 | 132 | Chilly Rollblock |
 | 360 | 131 | Gigi |
 | 361 | 131 | Jenny Castro |
 | 362 | 130 | Nerdy Riserfit |
@@ -390,10 +390,10 @@
 | 382 | 124 | Witty Piecebuilder |
 | 383 | 124 | Jazzy Grabber |
 | 384 | 123 | Amanda Diegel |
-| 385 | 122 | Michael Tate |
-| 386 | 122 | Scott Treadway |
-| 387 | 122 | BK Queen |
-| 388 | 122 | JP Parks |
+| 385 | 122 | Scott Treadway |
+| 386 | 122 | Michael Tate |
+| 387 | 122 | JP Parks |
+| 388 | 122 | BK Queen |
 | 389 | 121 | Gina Caulder |
 | 390 | 121 | Amy Humphreys |
 | 391 | 121 | Ty Quarles |

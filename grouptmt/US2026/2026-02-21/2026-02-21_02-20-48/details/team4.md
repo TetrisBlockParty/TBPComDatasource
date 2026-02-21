@@ -47,12 +47,12 @@
 | 39 | 153 | Lucille Truesdale |
 | 40 | 147 | Courtney Cicoria |
 | 41 | 141 | Edward White |
-| 42 | 140 | Carter Jones |
-| 43 | 140 | Shannon Ferrari |
+| 42 | 140 | Shannon Ferrari |
+| 43 | 140 | Carter Jones |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Robin Watters |
-| 47 | 133 | Jessica Bohlken |
+| 46 | 133 | Jessica Bohlken |
+| 47 | 133 | Robin Watters |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
@@ -122,8 +122,8 @@
 | 114 | 69 | Carol Ricks Raymond |
 | 115 | 69 | Michelle Marie |
 | 116 | 68 | LS |
-| 117 | 67 | Cozy Framezone |
-| 118 | 67 | Lindsey Gonzalez |
+| 117 | 67 | Lindsey Gonzalez |
+| 118 | 67 | Cozy Framezone |
 | 119 | 66 | Chris Alexinas |
 | 120 | 65 | Angela Geist Jusinski |
 | 121 | 65 | Rebecca Blake |

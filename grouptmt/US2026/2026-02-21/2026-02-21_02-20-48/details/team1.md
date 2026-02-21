@@ -32,8 +32,8 @@
 | 24 | 243 | Tipsy Column |
 | 25 | 221 | Maria C. Hernandez |
 | 26 | 215 | Sarah Roberts |
-| 27 | 208 | Marianne Louise West |
-| 28 | 208 | Tdub |
+| 27 | 208 | Tdub |
+| 28 | 208 | Marianne Louise West |
 | 29 | 204 | Ly Phethmany |
 | 30 | 203 | Elaine Elaine |
 | 31 | 201 | Anaid Sanchez |
@@ -122,8 +122,8 @@
 | 114 | 76 | Archie Ware |
 | 115 | 75 | Tyler L Hunt |
 | 116 | 75 | Fresno Beotoni |
-| 117 | 74 | Grace Joanne Agnant |
-| 118 | 74 | Eddie Dillon |
+| 117 | 74 | Eddie Dillon |
+| 118 | 74 | Grace Joanne Agnant |
 | 119 | 73 | Witty Builderfit |
 | 120 | 72 | Tipsy Strikerpiece |
 | 121 | 71 | John Kim |
