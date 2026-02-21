@@ -199,8 +199,8 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ariel |
-| 195 | 464 | Ryan Gunther |
+| 194 | 464 | Ryan Gunther |
+| 195 | 464 | Ariel |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
@@ -353,8 +353,8 @@
 | 345 | 281 | Ellie Jonas |
 | 346 | 281 | Jaycee |
 | 347 | 280 | Shorty |
-| 348 | 280 | Lyndi Robinson Wakefield |
-| 349 | 280 | Sabrina Burton |
+| 348 | 280 | Sabrina Burton |
+| 349 | 280 | Lyndi Robinson Wakefield |
 | 350 | 280 | SwampRebel |
 | 351 | 279 | Glitzy Stackzone |
 | 352 | 278 | Noel Tarmy |
@@ -478,8 +478,8 @@
 | 470 | 206 | RAEPR05 |
 | 471 | 206 | Neko Preston |
 | 472 | 205 | Laura Mclean |
-| 473 | 205 | ElizabethAnn Dickinson |
-| 474 | 205 | Tj Ball |
+| 473 | 205 | Tj Ball |
+| 474 | 205 | ElizabethAnn Dickinson |
 | 475 | 204 | Ali Gralski |
 | 476 | 204 | Nicolle Danielle |
 | 477 | 204 | Rebecca Doughman |
@@ -519,8 +519,8 @@
 | 511 | 192 | Michael Artis |
 | 512 | 191 | John Quiring |
 | 513 | 190 | Jessica Kaye DeAguero |
-| 514 | 188 | B-rad B-rad |
-| 515 | 188 | Seth Wrieden |
+| 514 | 188 | Seth Wrieden |
+| 515 | 188 | B-rad B-rad |
 | 516 | 188 | Irene Jones |
 | 517 | 187 | Stefanie Zonzini-Gagliardi |
 | 518 | 186 | Michelle Lee |
@@ -531,9 +531,9 @@
 | 523 | 184 | BamaGirlinTX |
 | 524 | 184 | Brittany Radaszewski |
 | 525 | 184 | HarleyJane |
-| 526 | 184 | Donna M Carter |
-| 527 | 184 | Theresa Sterrett |
-| 528 | 184 | Regina Unruh |
+| 526 | 184 | Regina Unruh |
+| 527 | 184 | Donna M Carter |
+| 528 | 184 | Theresa Sterrett |
 | 529 | 183 | Lynzekwi |
 | 530 | 183 | Witty Piecebuilder |
 | 531 | 183 | Brandon McDonald |

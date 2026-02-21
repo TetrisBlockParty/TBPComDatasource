@@ -208,8 +208,8 @@
 | 200 | 140 | Gumbo |
 | 201 | 140 | Jay Horn |
 | 202 | 137 | Emma |
-| 203 | 136 | Joy Petroski |
-| 204 | 136 | Boldy Corner |
+| 203 | 136 | Boldy Corner |
+| 204 | 136 | Joy Petroski |
 | 205 | 135 | Cheryl Hinch Tenbrook |
 | 206 | 133 | LaNette Morgan |
 | 207 | 132 | Terry Jo Jones |
@@ -241,8 +241,8 @@
 | 233 | 118 | Skinny Baldez |
 | 234 | 118 | Fancy Curver |
 | 235 | 116 | BugMansMom |
-| 236 | 115 | Hoppy Buildout |
-| 237 | 115 | Daring Builder |
+| 236 | 115 | Daring Builder |
+| 237 | 115 | Hoppy Buildout |
 | 238 | 114 | Dapper Snap |
 | 239 | 113 | Brian Battjes |
 | 240 | 113 | Beppy |
@@ -330,9 +330,9 @@
 | 322 | 86 | Salena Whitlock |
 | 323 | 85 | Lush Risebuilder |
 | 324 | 85 | Crystel b520 |
-| 325 | 84 | Spunky Racker |
-| 326 | 84 | Flashy Rumbler |
-| 327 | 84 | gremicx |
+| 325 | 84 | gremicx |
+| 326 | 84 | Spunky Racker |
+| 327 | 84 | Flashy Rumbler |
 | 328 | 83 | Glitzy Slide |
 | 329 | 83 | Deseree Ewing |
 | 330 | 82 | Justice 4 P |

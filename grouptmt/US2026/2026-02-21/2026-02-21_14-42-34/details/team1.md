@@ -60,8 +60,8 @@
 | 52 | 272 | Adam Byrd |
 | 53 | 270 | Shauna Loe |
 | 54 | 257 | Sarah Roberts |
-| 55 | 256 | Tipsy Column |
-| 56 | 256 | Robert Benito |
+| 55 | 256 | Robert Benito |
+| 56 | 256 | Tipsy Column |
 | 57 | 253 | Bhelle Sumile |
 | 58 | 252 | Dena Kayy |
 | 59 | 247 | Redlicious 1 |
@@ -102,8 +102,8 @@
 | 94 | 173 | june october |
 | 95 | 171 | Greg Premoe |
 | 96 | 166 | Rico Rico |
-| 97 | 165 | Veronica Eve |
-| 98 | 165 | GATOR |
+| 97 | 165 | GATOR |
+| 98 | 165 | Veronica Eve |
 | 99 | 163 | Chad Atchley |
 | 100 | 162 | Tyler Whitley |
 | 101 | 162 | Ash Galvan |
@@ -116,9 +116,9 @@
 | 108 | 153 | TSwag |
 | 109 | 153 | Tanya Carpenter-Reynolds |
 | 110 | 152 | Jacqueline Unique |
-| 111 | 149 | Tana |
-| 112 | 149 | Jennifer ManWarren |
-| 113 | 149 | Arianna O'Brien |
+| 111 | 149 | Arianna O'Brien |
+| 112 | 149 | Tana |
+| 113 | 149 | Jennifer ManWarren |
 | 114 | 148 | Shauntina Burke |
 | 115 | 146 | Irual Hctrab |
 | 116 | 145 | BigWeenie69 |
