@@ -134,8 +134,8 @@
 | 126 | 700 | Beverly Owens |
 | 127 | 698 | Lola Contreras |
 | 128 | 697 | Real Ri |
-| 129 | 694 | Vo'Landa Reels |
-| 130 | 694 | Nancy Reid |
+| 129 | 694 | Nancy Reid |
+| 130 | 694 | Vo'Landa Reels |
 | 131 | 690 | Cool Clearer |
 | 132 | 688 | Dreamy Blast |
 | 133 | 679 | Gold Rose |
@@ -196,8 +196,8 @@
 | 188 | 511 | Ramone Armstrong |
 | 189 | 511 | Dizzy Zone |
 | 190 | 511 | Laura Mclean |
-| 191 | 510 | Lisa Ongtowasruk |
-| 192 | 510 | Cheech Dta |
+| 191 | 510 | Cheech Dta |
+| 192 | 510 | Lisa Ongtowasruk |
 | 193 | 509 | Kelli Wells |
 | 194 | 509 | Ariel |
 | 195 | 506 | Ashley Guernsey-Martin |
@@ -268,8 +268,8 @@
 | 260 | 391 | Qiana Sanders |
 | 261 | 390 | Kimberly Randesi |
 | 262 | 386 | Macy Williams |
-| 263 | 385 | Skyler Morgan |
-| 264 | 385 | Sam |
+| 263 | 385 | Sam |
+| 264 | 385 | Skyler Morgan |
 | 265 | 383 | Arkei Luster |
 | 266 | 382 | David Holliday |
 | 267 | 378 | Cody Nishimura |
@@ -293,8 +293,8 @@
 | 285 | 357 | Julie Kresal |
 | 286 | 355 | Shandrica Lowe |
 | 287 | 355 | Kristen O'Neal |
-| 288 | 354 | Tracy Wise |
-| 289 | 354 | Brave Dropmatch |
+| 288 | 354 | Brave Dropmatch |
+| 289 | 354 | Tracy Wise |
 | 290 | 353 | Cheery Matchzone |
 | 291 | 352 | Juanita Lyons |
 | 292 | 352 | ruth |
@@ -305,8 +305,8 @@
 | 297 | 345 | Brenda Messer |
 | 298 | 345 | Angie Bolton Workman |
 | 299 | 345 | Rhianna DiLorenzo |
-| 300 | 344 | Glenn Cobbins |
-| 301 | 344 | Lawanda Forbes |
+| 300 | 344 | Lawanda Forbes |
+| 301 | 344 | Glenn Cobbins |
 | 302 | 343 | F-X |
 | 303 | 341 | Joce Lynn |
 | 304 | 340 | Matt Johnson |

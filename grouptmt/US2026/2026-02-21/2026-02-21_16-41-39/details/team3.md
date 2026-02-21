@@ -191,13 +191,13 @@
 | 183 | 165 | Kali Kelz Williams |
 | 184 | 163 | Stephanie Hill |
 | 185 | 162 | Stephanie Whitefield |
-| 186 | 161 | BŘŰŤİÇŨŚ |
-| 187 | 161 | Nikki Pags |
+| 186 | 161 | Nikki Pags |
+| 187 | 161 | BŘŰŤİÇŨŚ |
 | 188 | 160 | Tiffany Davie |
 | 189 | 159 | Jone |
 | 190 | 158 | Grams |
-| 191 | 157 | Patricia Gadsden |
-| 192 | 157 | Nicholas Roddy |
+| 191 | 157 | Nicholas Roddy |
+| 192 | 157 | Patricia Gadsden |
 | 193 | 156 | Bea Miles |
 | 194 | 152 | Shiny Zonebuilder |
 | 195 | 152 | Krystal Gerstberger |
@@ -318,8 +318,8 @@
 | 310 | 98 | Rania Zaqout |
 | 311 | 98 | Erika Thornton |
 | 312 | 97 | Saucy Buildout |
-| 313 | 97 | Paula Little |
-| 314 | 97 | Tina Baurdau |
+| 313 | 97 | Tina Baurdau |
+| 314 | 97 | Paula Little |
 | 315 | 96 | Oliver Neal II |
 | 316 | 96 | Christopher Woost |
 | 317 | 96 | D3NO |

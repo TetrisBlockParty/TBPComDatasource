@@ -61,8 +61,8 @@
 | 53 | 339 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 293 | HastyGrabber |
@@ -151,8 +151,8 @@
 | 143 | 128 | Stephme310 |
 | 144 | 128 | Rio Rocha |
 | 145 | 127 | Dreamy Snapgrid |
-| 146 | 126 | Dihcheese444 |
-| 147 | 126 | TinyLegoRose |
+| 146 | 126 | TinyLegoRose |
+| 147 | 126 | Dihcheese444 |
 | 148 | 125 | AyeKay |
 | 149 | 124 | Allen Lloyd |
 | 150 | 123 | Angela Geist Jusinski |
@@ -176,8 +176,8 @@
 | 168 | 111 | Michelle Morris |
 | 169 | 111 | Lazy Blocker |
 | 170 | 110 | H.R. Block |
-| 171 | 108 | Sam Middleton |
-| 172 | 108 | Ali Ian |
+| 171 | 108 | Ali Ian |
+| 172 | 108 | Sam Middleton |
 | 173 | 107 | Marcus Todd |
 | 174 | 107 | Rafael Valentin |
 | 175 | 106 | Avy Absol |

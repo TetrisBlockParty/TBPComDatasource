@@ -105,8 +105,8 @@
 | 97 | 185 | Ash Galvan |
 | 98 | 180 | Erez Yosef |
 | 99 | 179 | Spunky Piecebuilder |
-| 100 | 178 | Chad Atchley |
-| 101 | 178 | Danielle Little-Daugherty |
+| 100 | 178 | Danielle Little-Daugherty |
+| 101 | 178 | Chad Atchley |
 | 102 | 173 | Frothy Pattern |
 | 103 | 171 | David DeSantis |
 | 104 | 171 | Greg Premoe |
@@ -176,8 +176,8 @@
 | 168 | 115 | Chuck Gannon |
 | 169 | 114 | Gilbert Ortiz Jr. |
 | 170 | 113 | Desiree Deschaine Havee |
-| 171 | 112 | Chris65 |
-| 172 | 112 | Nicole Roseberry Weber |
+| 171 | 112 | Nicole Roseberry Weber |
+| 172 | 112 | Chris65 |
 | 173 | 111 | Chirpy Smasher |
 | 174 | 111 | Jessi Sauer |
 | 175 | 111 | Agustin Duarte Orozco |
