@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -90,8 +90,8 @@
 | 82 | 313 | Elaine Webb Graves |
 | 83 | 309 | CeceGeGe |
 | 84 | 309 | Rich LeBlanc |
-| 85 | 307 | Peggi Charon |
-| 86 | 307 | Blocked |
+| 85 | 307 | Blocked |
+| 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -130,8 +130,8 @@
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
-| 125 | 191 | Giddy Twistbuilder |
-| 126 | 191 | Scott Carleton |
+| 125 | 191 | Scott Carleton |
+| 126 | 191 | Giddy Twistbuilder |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
@@ -162,8 +162,8 @@
 | 154 | 152 | Shiny Zonebuilder |
 | 155 | 151 | MsBee |
 | 156 | 150 | Nicole Myers |
-| 157 | 149 | Trisha Balmer |
-| 158 | 149 | Angel Mendez |
+| 157 | 149 | Angel Mendez |
+| 158 | 149 | Trisha Balmer |
 | 159 | 149 | Bea Miles |
 | 160 | 147 | Sashay Tapae Simpson |
 | 161 | 146 | Latoya Mayne |
@@ -174,8 +174,8 @@
 | 166 | 140 | Jay Horn |
 | 167 | 140 | Gumbo |
 | 168 | 135 | Cheryl Hinch Tenbrook |
-| 169 | 134 | DanceLuvLaugh |
-| 170 | 134 | Emma |
+| 169 | 134 | Emma |
+| 170 | 134 | DanceLuvLaugh |
 | 171 | 131 | Jl |
 | 172 | 129 | Lesley Perez |
 | 173 | 129 | Logan Naccarato |

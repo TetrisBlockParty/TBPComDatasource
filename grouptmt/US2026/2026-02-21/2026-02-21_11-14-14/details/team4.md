@@ -81,8 +81,8 @@
 | 73 | 173 | Jeff Brian Gates |
 | 74 | 171 | Melvin Baird |
 | 75 | 171 | Zethra Prenisha Rahming |
-| 76 | 170 | Girl |
-| 77 | 170 | Leah Kutz Zirbel |
+| 76 | 170 | Leah Kutz Zirbel |
+| 77 | 170 | Girl |
 | 78 | 167 | Denise Carlson |
 | 79 | 165 | Casey Grabner |
 | 80 | 165 | Courtney Cicoria |
@@ -100,8 +100,8 @@
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
-| 95 | 138 | Shainne Brewer |
-| 96 | 138 | Nugget |
+| 95 | 138 | Nugget |
+| 96 | 138 | Shainne Brewer |
 | 97 | 136 | Tanner Lund |
 | 98 | 134 | Jessica Bohlken |
 | 99 | 134 | Chirpy Basepiece |

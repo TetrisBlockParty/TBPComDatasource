@@ -45,8 +45,8 @@
 | 37 | 1220 | Sam Smith |
 | 38 | 1215 | Megan Garrick |
 | 39 | 1210 | Brittany Alicia |
-| 40 | 1173 | Katrina Williams Balmir |
-| 41 | 1173 | Devin Lee |
+| 40 | 1173 | Devin Lee |
+| 41 | 1173 | Katrina Williams Balmir |
 | 42 | 1157 | Priscilla Noel |
 | 43 | 1150 | Izabel Herrera |
 | 44 | 1143 | Lucky Ladybug |
@@ -110,8 +110,8 @@
 | 102 | 674 | Dannette Goldberg-Richards |
 | 103 | 672 | Wendy Harder Gage |
 | 104 | 665 | Dineisha Carpenter |
-| 105 | 658 | Vistabrat |
-| 106 | 658 | Pacynthia Williams |
+| 105 | 658 | Pacynthia Williams |
+| 106 | 658 | Vistabrat |
 | 107 | 653 | Becky Weeks-Garry |
 | 108 | 649 | Anna Edwards |
 | 109 | 649 | Stephanie Chapman |
@@ -367,8 +367,8 @@
 | 359 | 236 | Niceday |
 | 360 | 236 | Julio A Laracuente |
 | 361 | 235 | Kimberly Mitchell |
-| 362 | 234 | Manny Trindade |
-| 363 | 234 | Jennifer Leigh |
+| 362 | 234 | Jennifer Leigh |
+| 363 | 234 | Manny Trindade |
 | 364 | 234 | Jaybee Nguyen |
 | 365 | 233 | Robin Kerby |
 | 366 | 233 | Jumpy Gridclear |
@@ -437,8 +437,8 @@
 | 429 | 193 | Matthew Turner |
 | 430 | 193 | Alishac Marie |
 | 431 | 191 | Lauren Fitzgerald Thomas |
-| 432 | 191 | Deana |
-| 433 | 191 | John Quiring |
+| 432 | 191 | John Quiring |
+| 433 | 191 | Deana |
 | 434 | 190 | Jessica Kaye DeAguero |
 | 435 | 188 | Seth Wrieden |
 | 436 | 188 | Michael Artis |
@@ -451,8 +451,8 @@
 | 443 | 184 | HarleyJane |
 | 444 | 184 | Brittany Radaszewski |
 | 445 | 184 | Regina Unruh |
-| 446 | 184 | Sassy Linkbuilder |
-| 447 | 184 | Theresa Sterrett |
+| 446 | 184 | Theresa Sterrett |
+| 447 | 184 | Sassy Linkbuilder |
 | 448 | 183 | Lynzekwi |
 | 449 | 183 | Brandon McDonald |
 | 450 | 183 | Wakanda Forever |
@@ -477,8 +477,8 @@
 | 469 | 176 | Trisha Gallagher |
 | 470 | 176 | Stacy Harper |
 | 471 | 175 | Snippy Rumbler |
-| 472 | 175 | Tina Blessed Cage |
-| 473 | 175 | Shandrica Lowe |
+| 472 | 175 | Shandrica Lowe |
+| 473 | 175 | Tina Blessed Cage |
 | 474 | 175 | Lucero Ramirez |
 | 475 | 174 | Jason Garnatz |
 | 476 | 174 | Veronica Guerra |
@@ -488,19 +488,19 @@
 | 480 | 172 | Twisty Tetriblast |
 | 481 | 171 | William Hunt |
 | 482 | 171 | Cappin You |
-| 483 | 170 | Dedra Steward |
-| 484 | 170 | Darlene Bowman |
+| 483 | 170 | Darlene Bowman |
+| 484 | 170 | Dedra Steward |
 | 485 | 170 | Kenya Felix |
 | 486 | 169 | Eddie Perez |
 | 487 | 169 | Catina Hutchison |
 | 488 | 168 | Kati Russeau |
 | 489 | 168 | Phil J. Grombliniak |
-| 490 | 167 | Sabrena Yeisley |
-| 491 | 167 | mshir |
+| 490 | 167 | mshir |
+| 491 | 167 | Sabrena Yeisley |
 | 492 | 166 | suuny |
 | 493 | 165 | Tara Lynn Janes |
-| 494 | 165 | Austin Wilson |
-| 495 | 165 | Cathy Bitters |
+| 494 | 165 | Cathy Bitters |
+| 495 | 165 | Austin Wilson |
 | 496 | 165 | Catherine Varea |
 | 497 | 164 | Sara Pennington |
 | 498 | 164 | Jessica Vega |

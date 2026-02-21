@@ -51,8 +51,8 @@
 | 43 | 274 | Theo Pinnow |
 | 44 | 274 | Sweet Baker |
 | 45 | 258 | Shauna Loe |
-| 46 | 256 | Tipsy Column |
-| 47 | 256 | Robert Benito |
+| 46 | 256 | Robert Benito |
+| 47 | 256 | Tipsy Column |
 | 48 | 253 | Bhelle Sumile |
 | 49 | 249 | Adam Byrd |
 | 50 | 244 | Franswa |
@@ -73,8 +73,8 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
 | 71 | 194 | Sharon Reynolds |
 | 72 | 194 | Giggly Builderline |
@@ -104,8 +104,8 @@
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
-| 99 | 144 | Tanya Carpenter-Reynolds |
-| 100 | 144 | Plucky Ziggy |
+| 99 | 144 | Plucky Ziggy |
+| 100 | 144 | Tanya Carpenter-Reynolds |
 | 101 | 144 | femmefatale |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
@@ -132,8 +132,8 @@
 | 124 | 118 | Barry Mac'Ockner |
 | 125 | 116 | Evie Khalil |
 | 126 | 115 | Mrs.Patrica |
-| 127 | 114 | Colleen Wise |
-| 128 | 114 | Giddy Cascade |
+| 127 | 114 | Giddy Cascade |
+| 128 | 114 | Colleen Wise |
 | 129 | 112 | Kristen Gideon |
 | 130 | 112 | Flashy Rotator |
 | 131 | 112 | Miguel Teixeira |
