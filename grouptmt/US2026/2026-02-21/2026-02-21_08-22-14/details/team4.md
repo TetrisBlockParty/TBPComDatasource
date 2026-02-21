@@ -154,8 +154,8 @@
 | 146 | 98 | Duck |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
-| 149 | 95 | Meagan Nicole |
-| 150 | 95 | Victoria Faniel |
+| 149 | 95 | Victoria Faniel |
+| 150 | 95 | Meagan Nicole |
 | 151 | 93 | Zesty Twistbuilder |
 | 152 | 92 | Kristin MacDonald |
 | 153 | 90 | No Strings Attached Ra |
@@ -186,8 +186,8 @@
 | 178 | 81 | Jumpy Zonepiece |
 | 179 | 81 | Chair |
 | 180 | 81 | Nubian1 |
-| 181 | 81 | Carlos Ramirez |
-| 182 | 81 | Blessedmama |
+| 181 | 81 | Blessedmama |
+| 182 | 81 | Carlos Ramirez |
 | 183 | 81 | Michelle Parker |
 | 184 | 80 | Chaz Duncan |
 | 185 | 80 | Melissa Adams |
@@ -235,9 +235,9 @@
 | 227 | 66 | mitch |
 | 228 | 66 | Terrance Fung |
 | 229 | 66 | Rebecca Blake |
-| 230 | 65 | BlockBabe |
+| 230 | 65 | Asher |
 | 231 | 65 | Lee Silpe |
-| 232 | 65 | Asher |
+| 232 | 65 | BlockBabe |
 | 233 | 65 | Angela Geist Jusinski |
 | 234 | 64 | Joseph Edmonson |
 | 235 | 64 | rebel4lyfe |

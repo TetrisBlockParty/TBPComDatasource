@@ -99,8 +99,8 @@
 | 91 | 658 | Vistabrat |
 | 92 | 658 | Pacynthia Williams |
 | 93 | 653 | Becky Weeks-Garry |
-| 94 | 649 | Anna Edwards |
-| 95 | 649 | Stephanie Chapman |
+| 94 | 649 | Stephanie Chapman |
+| 95 | 649 | Anna Edwards |
 | 96 | 631 | Loopy Clusterbuilder |
 | 97 | 621 | Ricardo Burton |
 | 98 | 620 | BYM4L |
@@ -255,8 +255,8 @@
 | 247 | 293 | David Holliday |
 | 248 | 291 | Jennifer Darby |
 | 249 | 290 | Jessie McDougald |
-| 250 | 288 | Megan Phillips |
-| 251 | 288 | Elisheva Mizrachi |
+| 250 | 288 | Elisheva Mizrachi |
+| 251 | 288 | Megan Phillips |
 | 252 | 286 | Ryan Gunther |
 | 253 | 285 | June E Hanson |
 | 254 | 284 | Mamachelle Eisweirth |
@@ -932,10 +932,10 @@
 | 924 | 89 | Kevin Dybel |
 | 925 | 89 | Mayra May May Orta |
 | 926 | 89 | Sparkles  Sabrina |
-| 927 | 88 | David Duncan |
-| 928 | 88 | Ilse Chaparro |
-| 929 | 88 | Lorie Richardson |
-| 930 | 88 | Sliph007 |
+| 927 | 88 | Ilse Chaparro |
+| 928 | 88 | David Duncan |
+| 929 | 88 | Sliph007 |
+| 930 | 88 | Lorie Richardson |
 | 931 | 88 | Jai |
 | 932 | 88 | Breana Valdez |
 | 933 | 88 | NinaTheVillain |

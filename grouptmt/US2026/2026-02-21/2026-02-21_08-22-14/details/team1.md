@@ -97,7 +97,7 @@
 | 89 | 145 | BigWeenie69 |
 | 90 | 144 | femmefatale |
 | 91 | 144 | Tanya Carpenter-Reynolds |
-| 92 | 144 | femmefatale |
+| 92 | 144 | Plucky Ziggy |
 | 93 | 143 | Sarah Marie |
 | 94 | 141 | Blaire Bruckoff |
 | 95 | 139 | Bhelle Sumile |
@@ -133,8 +133,8 @@
 | 125 | 110 | Heidi Feurer |
 | 126 | 108 | Tavia |
 | 127 | 107 | Jodee Woods |
-| 128 | 106 | Bloknboy |
-| 129 | 106 | Ash Galvan |
+| 128 | 106 | Ash Galvan |
+| 129 | 106 | Bloknboy |
 | 130 | 105 | Flashy Rotator |
 | 131 | 104 | Charla Pross-Fugleberg |
 | 132 | 103 | Adryane Schnase |

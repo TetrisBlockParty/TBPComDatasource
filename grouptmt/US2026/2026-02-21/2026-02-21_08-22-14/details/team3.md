@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Suzieq |
-| 36 | 587 | Danielle Becker |
+| 35 | 587 | Danielle Becker |
+| 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
 | 38 | 567 | Amanda L Baker |
 | 39 | 546 | Dolores Falco |
@@ -81,8 +81,8 @@
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Mendoza Lee Christy |
-| 77 | 322 | Michelle |
+| 76 | 322 | Michelle |
+| 77 | 322 | Mendoza Lee Christy |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | CeceGeGe |
@@ -91,8 +91,8 @@
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
 | 85 | 272 | Mahman |
-| 86 | 267 | Rufus Lincoln |
-| 87 | 267 | Elaine Webb Graves |
+| 86 | 267 | Elaine Webb Graves |
+| 87 | 267 | Rufus Lincoln |
 | 88 | 264 | Tiff Vs Tiffany |
 | 89 | 256 | ren |
 | 90 | 251 | Katie Knaus |
