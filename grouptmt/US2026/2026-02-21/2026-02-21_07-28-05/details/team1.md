@@ -41,8 +41,8 @@
 | 33 | 291 | Nancy Green |
 | 34 | 286 | Michelle Nicole |
 | 35 | 281 | Maria C. Hernandez |
-| 36 | 274 | Sweet Baker |
-| 37 | 274 | Theo Pinnow |
+| 36 | 274 | Theo Pinnow |
+| 37 | 274 | Sweet Baker |
 | 38 | 265 | Jennifer Cates |
 | 39 | 256 | Robert Benito |
 | 40 | 256 | Tipsy Column |

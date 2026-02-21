@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -197,7 +197,7 @@
 | 189 | 109 | Fredd Thomas |
 | 190 | 108 | Rachel Napper |
 | 191 | 108 | LaTanya GeminiondaRise Johnson |
-| 192 | 108 | Rachel Napper |
+| 192 | 108 | Stephanie Hill |
 | 193 | 107 | Sherry Ogden |
 | 194 | 106 | Desiree Gold |
 | 195 | 106 | Eon Harris |

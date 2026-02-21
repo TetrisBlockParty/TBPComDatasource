@@ -139,8 +139,8 @@
 | 131 | 104 | Adam Randall |
 | 132 | 104 | YoMomma |
 | 133 | 102 | Faja |
-| 134 | 101 | Stephme310 |
-| 135 | 101 | Michelle Morris |
+| 134 | 101 | Michelle Morris |
+| 135 | 101 | Stephme310 |
 | 136 | 101 | Saulc1991 |
 | 137 | 100 | Alexandra Karavias |
 | 138 | 100 | Zethra Prenisha Rahming |
