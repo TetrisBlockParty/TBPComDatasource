@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Julian Garcia |
-| 53 | 265 | Clarence Patawaran |
+| 52 | 265 | Clarence Patawaran |
+| 53 | 265 | Julian Garcia |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Jessica Cagle |
-| 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Degenerate |
+| 94 | 132 | Degenerate |
+| 95 | 132 | Jessica Cagle |
+| 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Mr. Party |
 | 99 | 131 | Zany Twisterfit |
@@ -126,8 +126,8 @@
 | 118 | 118 | Leslie Nicole |
 | 119 | 116 | Serena Goodridge |
 | 120 | 116 | Diana Houts |
-| 121 | 115 | Jayk |
-| 122 | 115 | Ultramarine |
+| 121 | 115 | Ultramarine |
+| 122 | 115 | Jayk |
 | 123 | 113 | Stephme310 |
 | 124 | 113 | Andria Lynn |
 | 125 | 112 | Austin Owens |
@@ -158,15 +158,15 @@
 | 150 | 98 | Chaz |
 | 151 | 97 | Brandi Durig |
 | 152 | 96 | Zappy Snaplink |
-| 153 | 95 | Victoria Faniel |
-| 154 | 95 | Meagan Nicole |
+| 153 | 95 | Meagan Nicole |
+| 154 | 95 | Victoria Faniel |
 | 155 | 94 | DonMega |
 | 156 | 94 | Anthony Bryan Riva |
 | 157 | 93 | Zesty Twistbuilder |
 | 158 | 92 | Kristin MacDonald |
 | 159 | 91 | KM8 |
-| 160 | 90 | Judy Cox |
-| 161 | 90 | No Strings Attached Ra |
+| 160 | 90 | No Strings Attached Ra |
+| 161 | 90 | Judy Cox |
 | 162 | 89 | mike |
 | 163 | 89 | Chastity Mitchell |
 | 164 | 89 | shark tato |

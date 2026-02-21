@@ -114,8 +114,8 @@
 | 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Loopy Clusterbuilder |
-| 110 | 631 | Peppy Zone |
+| 109 | 631 | Peppy Zone |
+| 110 | 631 | Loopy Clusterbuilder |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -259,8 +259,8 @@
 | 251 | 299 | Christy Krissie |
 | 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
-| 254 | 296 | Amber Gray |
-| 255 | 296 | Jennifer Casey-Kay |
+| 254 | 296 | Jennifer Casey-Kay |
+| 255 | 296 | Amber Gray |
 | 256 | 296 | Jennifer Darby |
 | 257 | 295 | Angela Bonquiqui Dinish |
 | 258 | 295 | Diallo Sparkman |
@@ -300,8 +300,8 @@
 | 292 | 270 | Angela Lynn |
 | 293 | 270 | Alexandra Weir |
 | 294 | 269 | Reece Smith |
-| 295 | 268 | Tanya Parsons |
-| 296 | 268 | Chummy Blockbuilder |
+| 295 | 268 | Chummy Blockbuilder |
+| 296 | 268 | Tanya Parsons |
 | 297 | 267 | Mindy Leigh Head |
 | 298 | 266 | Mighty Shatterfit |
 | 299 | 265 | Jánine Riggs |
@@ -336,8 +336,8 @@
 | 328 | 247 | Fancy Twister |
 | 329 | 247 | Andrea Devery Beck |
 | 330 | 246 | Kathryn Townsley |
-| 331 | 246 | Stephanie Lumanlan |
-| 332 | 246 | Ashley Lopez |
+| 331 | 246 | Ashley Lopez |
+| 332 | 246 | Stephanie Lumanlan |
 | 333 | 245 | Rachael Senard |
 | 334 | 245 | Taryece Gause |
 | 335 | 245 | Mischelle Clay |
@@ -401,8 +401,8 @@
 | 393 | 202 | Dawn L Washington-Feuquay |
 | 394 | 201 | Peppy Snapfall |
 | 395 | 201 | Zombi3 |
-| 396 | 200 | Sarah Ridenour |
-| 397 | 200 | LaWanda Powell |
+| 396 | 200 | LaWanda Powell |
+| 397 | 200 | Sarah Ridenour |
 | 398 | 199 | Fi Ne |
 | 399 | 199 | Jenny Castro |
 | 400 | 199 | Jessica Sutter |
@@ -477,8 +477,8 @@
 | 469 | 169 | Lively Catcher |
 | 470 | 168 | Phil J. Grombliniak |
 | 471 | 168 | Kati Russeau |
-| 472 | 167 | mshir |
-| 473 | 167 | Sabrena Yeisley |
+| 472 | 167 | Sabrena Yeisley |
+| 473 | 167 | mshir |
 | 474 | 166 | suuny |
 | 475 | 165 | Tara Lynn Janes |
 | 476 | 165 | Catherine Varea |
@@ -516,8 +516,8 @@
 | 508 | 157 | Klee |
 | 509 | 157 | Twisty Tetriblast |
 | 510 | 156 | RetroLemur |
-| 511 | 156 | Nuggets |
-| 512 | 156 | Deanna Morton |
+| 511 | 156 | Deanna Morton |
+| 512 | 156 | Nuggets |
 | 513 | 155 | Angela Murgia-Owen |
 | 514 | 155 | Cris cris |
 | 515 | 155 | Monarca26 |
@@ -606,9 +606,9 @@
 | 598 | 136 | Hasty Riseclear |
 | 599 | 136 | Marsha Sosa Kiech |
 | 600 | 135 | Michelle Lee |
-| 601 | 135 | Robin L. Vial |
+| 601 | 135 | Breezy Filler |
 | 602 | 135 | Gigi |
-| 603 | 135 | Breezy Filler |
+| 603 | 135 | Robin L. Vial |
 | 604 | 135 | Michelle Loar |
 | 605 | 135 | Yemaja Obba Olokun |
 | 606 | 134 | Swanky Columnbuilder |
@@ -718,7 +718,7 @@
 | 710 | 117 | BrokeBetty |
 | 711 | 117 | Luceros7 |
 | 712 | 116 | Patrick Langford |
-| 713 | 116 | BeenRich Theceo |
+| 713 | 116 | SpaceCase085 |
 | 714 | 116 | Jennifer Monroe Kelly |
 | 715 | 116 | BeenRich Theceo |
 | 716 | 116 | Slimkaite |
@@ -1332,7 +1332,7 @@
 | 1324 | 66 | Blacc Blac |
 | 1325 | 66 | Cindy Sanders |
 | 1326 | 66 | Brenda Pierpoint |
-| 1327 | 66 | Cindy Sanders |
+| 1327 | 66 | Marie Musgrove |
 | 1328 | 66 | Poppy Riserfit |
 | 1329 | 66 | LaTonya Myers |
 | 1330 | 65 | Snazzy Risegrid |

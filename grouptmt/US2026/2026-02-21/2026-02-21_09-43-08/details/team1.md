@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Tipsy Column |
@@ -67,8 +67,8 @@
 | 59 | 201 | Ananda Mendez |
 | 60 | 201 | Anaid Sanchez |
 | 61 | 200 | Lexuriuos Lifestlye |
-| 62 | 198 | Billie Dawn Sparks |
-| 63 | 198 | Happy Snapbuild |
+| 62 | 198 | Happy Snapbuild |
+| 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
 | 65 | 194 | Giggly Builderline |
 | 66 | 194 | Sharon Reynolds |
@@ -93,8 +93,8 @@
 | 85 | 155 | Standia Civil |
 | 86 | 153 | Shiny Gridmatch |
 | 87 | 152 | Jacqueline Unique |
-| 88 | 149 | Arianna O'Brien |
-| 89 | 149 | Tana |
+| 88 | 149 | Tana |
+| 89 | 149 | Arianna O'Brien |
 | 90 | 148 | Shauntina Burke |
 | 91 | 147 | Adam Byrd |
 | 92 | 147 | Veronica Eve |
@@ -109,8 +109,8 @@
 | 101 | 138 | Cranky Pattern |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
-| 104 | 133 | Breanna Luna |
-| 105 | 133 | Brandi Huntington |
+| 104 | 133 | Brandi Huntington |
+| 105 | 133 | Breanna Luna |
 | 106 | 132 | Lori Sanders- Davis |
 | 107 | 132 | Davery Spencer Adair |
 | 108 | 130 | Dandy Basegrid |

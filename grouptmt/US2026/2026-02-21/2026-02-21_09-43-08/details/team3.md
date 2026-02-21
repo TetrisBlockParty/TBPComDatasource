@@ -32,8 +32,8 @@
 | 24 | 852 | cowboy25469 |
 | 25 | 821 | Jessica Ann |
 | 26 | 818 | Delilah belle |
-| 27 | 810 | Zippy Strikesnap |
-| 28 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Shane Wilson Jr. |
+| 28 | 810 | Zippy Strikesnap |
 | 29 | 772 | Corie A. Brinson |
 | 30 | 733 | Chummy Shatterer |
 | 31 | 714 | Amber Jones |
@@ -90,8 +90,8 @@
 | 82 | 313 | Elaine Webb Graves |
 | 83 | 309 | Rich LeBlanc |
 | 84 | 309 | CeceGeGe |
-| 85 | 307 | Peggi Charon |
-| 86 | 307 | Blocked |
+| 85 | 307 | Blocked |
+| 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Judi Dobson |
-| 102 | 224 | Mykal Burton |
+| 101 | 224 | Mykal Burton |
+| 102 | 224 | Judi Dobson |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |
@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -147,8 +147,8 @@
 | 139 | 159 | Morgan Martinez |
 | 140 | 159 | Mcathen |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
