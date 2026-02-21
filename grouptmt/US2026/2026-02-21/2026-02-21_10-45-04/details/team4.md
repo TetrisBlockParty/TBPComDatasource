@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -78,16 +78,16 @@
 | 70 | 175 | Dustee Craddock-Harrison |
 | 71 | 173 | Jeff Brian Gates |
 | 72 | 173 | Lori |
-| 73 | 171 | Zethra Prenisha Rahming |
-| 74 | 171 | Melvin Baird |
+| 73 | 171 | Melvin Baird |
+| 74 | 171 | Zethra Prenisha Rahming |
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
 | 78 | 165 | Casey Grabner |
 | 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -136,8 +136,8 @@
 | 128 | 112 | Bryan Hodgins |
 | 129 | 112 | Austin Owens |
 | 130 | 112 | Brittany Marsh |
-| 131 | 111 | Gwendolyn Pitcairn |
-| 132 | 111 | Lazy Blocker |
+| 131 | 111 | Lazy Blocker |
+| 132 | 111 | Gwendolyn Pitcairn |
 | 133 | 110 | H.R. Block |
 | 134 | 108 | Rio Rocha |
 | 135 | 107 | Marcus Todd |
@@ -172,8 +172,8 @@
 | 164 | 94 | DonMega |
 | 165 | 94 | Kim Hunt |
 | 166 | 93 | Zesty Twistbuilder |
-| 167 | 90 | Judy Cox |
-| 168 | 90 | No Strings Attached Ra |
+| 167 | 90 | No Strings Attached Ra |
+| 168 | 90 | Judy Cox |
 | 169 | 89 | mike |
 | 170 | 89 | shark tato |
 | 171 | 88 | Heather Tushner |

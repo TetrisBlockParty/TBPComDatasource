@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -124,21 +124,21 @@
 | 116 | 202 | Shannon Matthew Byers |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Scott Carleton |
 | 126 | 189 | Fallorina Susana |
 | 127 | 184 | Jennie Beranek |
-| 128 | 182 | Ashley Tookes |
-| 129 | 182 | Hyper Matchzone |
+| 128 | 182 | Hyper Matchzone |
+| 129 | 182 | Ashley Tookes |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
-| 132 | 178 | Khaleada McGill Banks |
-| 133 | 178 | AlsoJess |
+| 132 | 178 | AlsoJess |
+| 133 | 178 | Khaleada McGill Banks |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
 | 136 | 166 | Danielle Mogg |
@@ -161,16 +161,16 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Bea Miles |
-| 157 | 149 | Angel Mendez |
-| 158 | 149 | Trisha Balmer |
+| 156 | 149 | Trisha Balmer |
+| 157 | 149 | Bea Miles |
+| 158 | 149 | Angel Mendez |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Denita Mungro |
 | 161 | 146 | Latoya Mayne |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
-| 164 | 140 | Jay Horn |
-| 165 | 140 | Gumbo |
+| 164 | 140 | Gumbo |
+| 165 | 140 | Jay Horn |
 | 166 | 135 | Cheryl Hinch Tenbrook |
 | 167 | 134 | DanceLuvLaugh |
 | 168 | 134 | Emma |

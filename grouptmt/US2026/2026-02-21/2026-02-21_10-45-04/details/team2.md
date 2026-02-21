@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Devin Lee |
-| 38 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Katrina Williams Balmir |
+| 38 | 1173 | Devin Lee |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1153 | Reese Nguyen |
 | 41 | 1150 | Izabel Herrera |
@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | Ramone Armstrong |
-| 155 | 486 | MrsCandyfine As Wine Truss |
+| 154 | 486 | MrsCandyfine As Wine Truss |
+| 155 | 486 | Ramone Armstrong |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -240,8 +240,8 @@
 | 232 | 333 | Brittney Jean |
 | 233 | 332 | TF Dyer |
 | 234 | 331 | Shelley Thornburgh Wright |
-| 235 | 330 | Taryece Gause |
-| 236 | 330 | Victoria Moore-Smith |
+| 235 | 330 | Victoria Moore-Smith |
+| 236 | 330 | Taryece Gause |
 | 237 | 328 | Marie Boyd Faulk |
 | 238 | 327 | Danielle Simmons |
 | 239 | 323 | Juanita Lyons |
@@ -256,16 +256,16 @@
 | 248 | 312 | Michelle Pike |
 | 249 | 311 | Véronique Lévesque Sabourin |
 | 250 | 311 | Dar |
-| 251 | 309 | Ginger |
-| 252 | 309 | Oscar Bernie |
+| 251 | 309 | Oscar Bernie |
+| 252 | 309 | Ginger |
 | 253 | 309 | James Zaragoza |
 | 254 | 306 | Kristopher Miller |
 | 255 | 305 | Libby Hicks |
 | 256 | 303 | Crystal Greene |
 | 257 | 303 | Amanda Schaffer |
 | 258 | 301 | Claire |
-| 259 | 299 | Deborah Miller |
-| 260 | 299 | Christy Krissie |
+| 259 | 299 | Christy Krissie |
+| 260 | 299 | Deborah Miller |
 | 261 | 297 | Brenda Utphall |
 | 262 | 296 | Amber Gray |
 | 263 | 296 | Jennifer Casey-Kay |
