@@ -33,12 +33,12 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Briarblack |
-| 29 | 867 | Delilah belle |
+| 28 | 867 | Delilah belle |
+| 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Shane Wilson Jr. |
-| 33 | 810 | Zippy Strikesnap |
+| 32 | 810 | Zippy Strikesnap |
+| 33 | 810 | Shane Wilson Jr. |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 714 | Amber Jones |
@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Kathryn Keenan-Taggart |
-| 59 | 446 | Ebony West-Cundiff |
+| 58 | 446 | Ebony West-Cundiff |
+| 59 | 446 | Kathryn Keenan-Taggart |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -180,8 +180,8 @@
 | 172 | 156 | Joey Banks |
 | 173 | 154 | Angela M. Fletcher |
 | 174 | 153 | Beth Ingham |
-| 175 | 152 | Shiny Zonebuilder |
-| 176 | 152 | Katrina E Jelks |
+| 175 | 152 | Katrina E Jelks |
+| 176 | 152 | Shiny Zonebuilder |
 | 177 | 151 | MsBee |
 | 178 | 150 | Nicole Myers |
 | 179 | 149 | Bea Miles |
@@ -276,7 +276,7 @@
 | 268 | 100 | Demetrious Shaw Sr. |
 | 269 | 100 | Bobbi Moore |
 | 270 | 100 | Edwin Calvillo Jr. |
-| 271 | 99 | Nichol Graham |
+| 271 | 99 | Michael Nowogorski |
 | 272 | 99 | MizzMonick Smith |
 | 273 | 99 | Nichol Graham |
 | 274 | 98 | Erika Thornton |

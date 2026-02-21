@@ -334,8 +334,8 @@
 | 326 | 289 | Hyper Cluster |
 | 327 | 289 | Frisky Clearpiece |
 | 328 | 288 | Megan Phillips |
-| 329 | 285 | Mandi Douglas Hilt |
-| 330 | 285 | June E Hanson |
+| 329 | 285 | June E Hanson |
+| 330 | 285 | Mandi Douglas Hilt |
 | 331 | 284 | Autumn Schaeffer |
 | 332 | 283 | Davetta Sanford |
 | 333 | 283 | Byung Bae Park |
@@ -437,8 +437,8 @@
 | 429 | 229 | Kimmy Newman |
 | 430 | 228 | Michelle Sager |
 | 431 | 227 | JacJac |
-| 432 | 226 | Jodi Mitnick |
-| 433 | 226 | Mary Marie |
+| 432 | 226 | Mary Marie |
+| 433 | 226 | Jodi Mitnick |
 | 434 | 226 | Juliana Marques Do Nascimento Gordy |
 | 435 | 224 | Besma Ao |
 | 436 | 224 | Alice Ball |
@@ -724,9 +724,9 @@
 | 716 | 135 | Breezy Filler |
 | 717 | 135 | Michelle Loar |
 | 718 | 135 | Yemaja Obba Olokun |
-| 719 | 134 | Speedy Pivoty |
+| 719 | 134 | Slinky Risegrid |
 | 720 | 134 | Dandy Drop |
-| 721 | 134 | Slinky Risegrid |
+| 721 | 134 | Speedy Pivoty |
 | 722 | 134 | Leebo Slice |
 | 723 | 134 | Quinn |
 | 724 | 134 | Keila Adames |

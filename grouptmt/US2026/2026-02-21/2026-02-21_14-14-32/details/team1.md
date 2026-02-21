@@ -95,14 +95,14 @@
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
 | 89 | 177 | Diane Byrd |
-| 90 | 173 | Jennifer Olewnik Soborowski |
-| 91 | 173 | june october |
-| 92 | 173 | Frothy Pattern |
+| 90 | 173 | june october |
+| 91 | 173 | Frothy Pattern |
+| 92 | 173 | Jennifer Olewnik Soborowski |
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
-| 96 | 165 | Veronica Eve |
-| 97 | 165 | GATOR |
+| 96 | 165 | GATOR |
+| 97 | 165 | Veronica Eve |
 | 98 | 163 | Chad Atchley |
 | 99 | 161 | Abbey Crespo |
 | 100 | 156 | Jessie Lynn |
@@ -119,8 +119,8 @@
 | 111 | 146 | Irual Hctrab |
 | 112 | 146 | Tanya Carpenter-Reynolds |
 | 113 | 145 | BigWeenie69 |
-| 114 | 144 | Plucky Ziggy |
-| 115 | 144 | femmefatale |
+| 114 | 144 | femmefatale |
+| 115 | 144 | Plucky Ziggy |
 | 116 | 143 | Sarah Marie |
 | 117 | 142 | Colleen Wise |
 | 118 | 141 | Blaire Bruckoff |
