@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -113,8 +113,8 @@
 | 105 | 195 | Jenny Hrndz |
 | 106 | 195 | Nicha Hooker |
 | 107 | 194 | glichmod |
-| 108 | 193 | Clever Shiftsnap |
-| 109 | 193 | Shunta Jacobs |
+| 108 | 193 | Shunta Jacobs |
+| 109 | 193 | Clever Shiftsnap |
 | 110 | 192 | Chasity |
 | 111 | 191 | Scott Carleton |
 | 112 | 187 | Katrina Schroeder |

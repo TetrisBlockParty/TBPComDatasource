@@ -133,8 +133,8 @@
 | 125 | 104 | Adam Randall |
 | 126 | 104 | YoMomma |
 | 127 | 102 | Faja |
-| 128 | 101 | Stephme310 |
-| 129 | 101 | Michelle Morris |
+| 128 | 101 | Michelle Morris |
+| 129 | 101 | Stephme310 |
 | 130 | 101 | Saulc1991 |
 | 131 | 100 | Zethra Prenisha Rahming |
 | 132 | 100 | Alexandra Karavias |
@@ -204,8 +204,8 @@
 | 196 | 70 | Richard-April Kice |
 | 197 | 69 | Carol Ricks Raymond |
 | 198 | 69 | Jessica Wells |
-| 199 | 68 | 中山成巳 |
-| 200 | 68 | LS |
+| 199 | 68 | LS |
+| 200 | 68 | 中山成巳 |
 | 201 | 68 | GBR |
 | 202 | 67 | Dennis Bradley |
 | 203 | 67 | Laurie McGregor |
@@ -240,8 +240,8 @@
 | 232 | 61 | Shauna Havard |
 | 233 | 61 | Plucky Patternblock |
 | 234 | 60 | Ahleek Mitchell |
-| 235 | 59 | Jasmine S Caldwell |
-| 236 | 59 | Jen Mattei |
+| 235 | 59 | Jen Mattei |
+| 236 | 59 | Jasmine S Caldwell |
 | 237 | 58 | Rebecca Morris |
 | 238 | 58 | Gilles Lanctot |
 | 239 | 58 | Paige Kittles |

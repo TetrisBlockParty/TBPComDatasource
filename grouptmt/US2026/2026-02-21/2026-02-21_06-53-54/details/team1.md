@@ -41,8 +41,8 @@
 | 33 | 274 | Theo Pinnow |
 | 34 | 274 | Sweet Baker |
 | 35 | 265 | Jennifer Cates |
-| 36 | 256 | Robert Benito |
-| 37 | 256 | Tipsy Column |
+| 36 | 256 | Tipsy Column |
+| 37 | 256 | Robert Benito |
 | 38 | 244 | Franswa |
 | 39 | 244 | Stephanie Zahn |
 | 40 | 243 | Sarah Roberts |
@@ -91,8 +91,8 @@
 | 83 | 144 | Tanya Carpenter-Reynolds |
 | 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Susanna Guerry |
-| 87 | 141 | Blaire Bruckoff |
+| 86 | 141 | Blaire Bruckoff |
+| 87 | 141 | Susanna Guerry |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -146,8 +146,8 @@
 | 138 | 90 | Madison Wicks |
 | 139 | 89 | Mara Hilker |
 | 140 | 87 | Jessi Sauer |
-| 141 | 86 | Basment Living |
-| 142 | 86 | Desiree Deschaine Havee |
+| 141 | 86 | Desiree Deschaine Havee |
+| 142 | 86 | Basment Living |
 | 143 | 85 | Steve Schneider |
 | 144 | 84 | Kayla Marie Stevenson |
 | 145 | 84 | Speedy Snapfall |

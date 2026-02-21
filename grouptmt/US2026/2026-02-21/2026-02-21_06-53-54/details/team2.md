@@ -432,8 +432,8 @@
 | 424 | 168 | Phil J. Grombliniak |
 | 425 | 168 | Kati Russeau |
 | 426 | 168 | HarleyJane |
-| 427 | 167 | Sabrena Yeisley |
-| 428 | 167 | mshir |
+| 427 | 167 | mshir |
+| 428 | 167 | Sabrena Yeisley |
 | 429 | 166 | suuny |
 | 430 | 165 | Cathy Bitters |
 | 431 | 165 | Austin Wilson |
@@ -471,8 +471,8 @@
 | 463 | 157 | Jánine Riggs |
 | 464 | 157 | Twisty Tetriblast |
 | 465 | 156 | RetroLemur |
-| 466 | 156 | Nuggets |
-| 467 | 156 | Deanna Morton |
+| 466 | 156 | Deanna Morton |
+| 467 | 156 | Nuggets |
 | 468 | 155 | Angela Murgia-Owen |
 | 469 | 155 | Chelle |
 | 470 | 155 | Monarca26 |
@@ -509,12 +509,12 @@
 | 501 | 143 | Angelica |
 | 502 | 142 | Frisky Clearpiece |
 | 503 | 142 | Amy Humphreys |
-| 504 | 142 | Melissa Kay Gibson |
-| 505 | 142 | Joy LaJeunesse |
+| 504 | 142 | Joy LaJeunesse |
+| 505 | 142 | Melissa Kay Gibson |
 | 506 | 141 | Erika Meaux |
 | 507 | 141 | Markisha Poyndexter |
-| 508 | 140 | King Shamell Young |
-| 509 | 140 | Jasmine Kenney |
+| 508 | 140 | Jasmine Kenney |
+| 509 | 140 | King Shamell Young |
 | 510 | 140 | Sheretta Holmes Lil'bit |
 | 511 | 140 | Preya Patel |
 | 512 | 140 | Kimberly Ann |
