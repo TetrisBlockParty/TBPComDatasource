@@ -155,8 +155,8 @@
 | 147 | 98 | Armi |
 | 148 | 98 | Jocelyne Baca |
 | 149 | 96 | Tasha Wesson-Torrence |
-| 150 | 96 | D3NO |
-| 151 | 96 | Skinny Baldez |
+| 150 | 96 | Skinny Baldez |
+| 151 | 96 | D3NO |
 | 152 | 95 | Brooke Bauer |
 | 153 | 95 | Daring Builder |
 | 154 | 95 | Katie Knaus |
@@ -204,11 +204,11 @@
 | 196 | 77 | Nikki Pags |
 | 197 | 77 | Rania Zaqout |
 | 198 | 76 | Melissa Orth Hunter |
-| 199 | 76 | Sarah Fehring |
-| 200 | 76 | Oliver Neal II |
-| 201 | 76 | Chad Wilson |
-| 202 | 75 | Patti Skiles |
-| 203 | 75 | Jack Bo |
+| 199 | 76 | Chad Wilson |
+| 200 | 76 | Sarah Fehring |
+| 201 | 76 | Oliver Neal II |
+| 202 | 75 | Jack Bo |
+| 203 | 75 | Patti Skiles |
 | 204 | 75 | Janelle Goetz |
 | 205 | 74 | Whitney Manuel |
 | 206 | 74 | Mendoza Lee Christy |

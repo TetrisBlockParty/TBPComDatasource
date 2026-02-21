@@ -224,18 +224,18 @@
 | 216 | 244 | Shorty |
 | 217 | 243 | Brandy Andre |
 | 218 | 241 | Sabrina Burton |
-| 219 | 240 | Angie Marie |
-| 220 | 240 | Adam Erikson |
+| 219 | 240 | Adam Erikson |
+| 220 | 240 | Angie Marie |
 | 221 | 239 | Tee Jaleesa |
 | 222 | 238 | Cheech Dta |
 | 223 | 238 | Cheery Matchzone |
 | 224 | 236 | Frisky Riserbuilder |
-| 225 | 233 | Robin Kerby |
-| 226 | 233 | Alyssia Tancredi |
+| 225 | 233 | Alyssia Tancredi |
+| 226 | 233 | Robin Kerby |
 | 227 | 233 | Maegan Beaule |
 | 228 | 231 | Ashley Lopez |
-| 229 | 231 | Dylan Thomason |
-| 230 | 231 | Ginger |
+| 229 | 231 | Ginger |
+| 230 | 231 | Dylan Thomason |
 | 231 | 227 | Nutty Matchline |
 | 232 | 226 | Leslie Ann Carter |
 | 233 | 226 | Vonceial Boone |
@@ -272,8 +272,8 @@
 | 264 | 198 | Julio A Laracuente |
 | 265 | 198 | Andea Beck |
 | 266 | 198 | Alyssa Dean |
-| 267 | 197 | Julie Kresal |
-| 268 | 197 | Smashanator |
+| 267 | 197 | Smashanator |
+| 268 | 197 | Julie Kresal |
 | 269 | 196 | Besma Ao |
 | 270 | 196 | Cass Shirley |
 | 271 | 196 | Alexandra Reese |
