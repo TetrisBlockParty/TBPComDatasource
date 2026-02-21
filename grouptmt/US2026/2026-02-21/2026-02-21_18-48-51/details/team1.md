@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -112,8 +112,8 @@
 | 104 | 190 | Thorne Shumate |
 | 105 | 190 | Sweetts |
 | 106 | 189 | Happy Basegrid |
-| 107 | 188 | Sam Williams |
-| 108 | 188 | Kellie |
+| 107 | 188 | Kellie |
+| 108 | 188 | Sam Williams |
 | 109 | 187 | Snippy Wipebuilder |
 | 110 | 186 | Jennifer Olewnik Soborowski |
 | 111 | 185 | Ash Galvan |
@@ -201,7 +201,7 @@
 | 193 | 111 | Rachel Nichole Henry |
 | 194 | 110 | Madison Wicks |
 | 195 | 110 | Garcia Bailey |
-| 196 | 109 | Nery Martinez |
+| 196 | 109 | Tyler Hertzog |
 | 197 | 109 | John Kim |
 | 198 | 109 | Nery Martinez |
 | 199 | 108 | Dizzy Party |

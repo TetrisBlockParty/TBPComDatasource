@@ -118,8 +118,8 @@
 | 110 | 318 | Chasity |
 | 111 | 316 | Fancy Cascader |
 | 112 | 309 | Rich LeBlanc |
-| 113 | 307 | Blocked |
-| 114 | 307 | Peggi Charon |
+| 113 | 307 | Peggi Charon |
+| 114 | 307 | Blocked |
 | 115 | 300 | Sherika C. McDaniels |
 | 116 | 300 | Tessina Dewey-Mancino |
 | 117 | 293 | Poppy Splitter |
@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Michael Lucado |
-| 163 | 195 | Nicha Hooker |
+| 162 | 195 | Nicha Hooker |
+| 163 | 195 | Michael Lucado |
 | 164 | 194 | glichmod |
 | 165 | 193 | Stephanie Burtin |
 | 166 | 193 | Clever Shiftsnap |
@@ -208,8 +208,8 @@
 | 200 | 166 | Betty Rosas |
 | 201 | 166 | Kelly Ann Child |
 | 202 | 165 | Kali Kelz Williams |
-| 203 | 163 | Stephanie Hill |
-| 204 | 163 | Christine Trester |
+| 203 | 163 | Christine Trester |
+| 204 | 163 | Stephanie Hill |
 | 205 | 162 | Stephanie Whitefield |
 | 206 | 161 | BŘŰŤİÇŨŚ |
 | 207 | 160 | Marquita Sheard |
@@ -236,8 +236,8 @@
 | 228 | 148 | Gumbo |
 | 229 | 147 | Cheryl Hinch Tenbrook |
 | 230 | 147 | Ashley Lynn Marchese |
-| 231 | 146 | Carrie Huskey |
-| 232 | 146 | Latoya Mayne |
+| 231 | 146 | Latoya Mayne |
+| 232 | 146 | Carrie Huskey |
 | 233 | 146 | Denita Mungro |
 | 234 | 145 | Bryan Byrd |
 | 235 | 145 | Emma |
