@@ -452,8 +452,8 @@
 | 444 | 176 | Jennifer Malloy - Cardy |
 | 445 | 176 | Trisha Gallagher |
 | 446 | 175 | Snippy Rumbler |
-| 447 | 175 | Lucero Ramirez |
-| 448 | 175 | Jaybee Nguyen |
+| 447 | 175 | Jaybee Nguyen |
+| 448 | 175 | Lucero Ramirez |
 | 449 | 175 | Shandrica Lowe |
 | 450 | 175 | Tina Blessed Cage |
 | 451 | 174 | Jason Garnatz |
@@ -474,8 +474,8 @@
 | 466 | 167 | mshir |
 | 467 | 166 | suuny |
 | 468 | 165 | Catherine Varea |
-| 469 | 165 | Austin Wilson |
-| 470 | 165 | Cathy Bitters |
+| 469 | 165 | Cathy Bitters |
+| 470 | 165 | Austin Wilson |
 | 471 | 164 | Jessica Vega |
 | 472 | 164 | Sara Pennington |
 | 473 | 163 | Danielle Ayoub |
@@ -508,8 +508,8 @@
 | 500 | 156 | Deanna Morton |
 | 501 | 156 | Nuggets |
 | 502 | 156 | RetroLemur |
-| 503 | 155 | Monarca26 |
-| 504 | 155 | Chelle |
+| 503 | 155 | Chelle |
+| 504 | 155 | Monarca26 |
 | 505 | 155 | Angela Murgia-Owen |
 | 506 | 155 | Brandon Armstrong |
 | 507 | 154 | Lori Maring |

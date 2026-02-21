@@ -103,8 +103,8 @@
 | 95 | 132 | Melissa Priest Sellers |
 | 96 | 132 | Jenna McGeorge |
 | 97 | 132 | Jessica Cagle |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -136,16 +136,16 @@
 | 128 | 111 | Lazy Blocker |
 | 129 | 110 | H.R. Block |
 | 130 | 108 | Rio Rocha |
-| 131 | 107 | Marcus Todd |
-| 132 | 107 | TinyLegoRose |
-| 133 | 105 | TheNeesh50 |
-| 134 | 105 | 🥔🥔 Spudz |
-| 135 | 105 | AyeKay |
-| 136 | 105 | Dihcheese444 |
+| 131 | 107 | TinyLegoRose |
+| 132 | 107 | Marcus Todd |
+| 133 | 105 | Dihcheese444 |
+| 134 | 105 | AyeKay |
+| 135 | 105 | 🥔🥔 Spudz |
+| 136 | 105 | TheNeesh50 |
 | 137 | 105 | Sam Middleton |
 | 138 | 104 | Adam Randall |
-| 139 | 104 | Damn Libra |
-| 140 | 104 | YoMomma |
+| 139 | 104 | YoMomma |
+| 140 | 104 | Damn Libra |
 | 141 | 102 | Faja |
 | 142 | 101 | Saulc1991 |
 | 143 | 101 | Michelle Morris |
@@ -219,10 +219,10 @@
 | 211 | 73 | Lynn Marie |
 | 212 | 72 | Robin Getchel |
 | 213 | 71 | Lindsey Gonzalez |
-| 214 | 71 | Marcela Johnson |
-| 215 | 71 | Ericca Eldridge |
-| 216 | 70 | Richard-April Kice |
-| 217 | 70 | Patron Anderson |
+| 214 | 71 | Ericca Eldridge |
+| 215 | 71 | Marcela Johnson |
+| 216 | 70 | Patron Anderson |
+| 217 | 70 | Richard-April Kice |
 | 218 | 69 | Carol Ricks Raymond |
 | 219 | 69 | Jessica Wells |
 | 220 | 68 | LS |
@@ -243,7 +243,7 @@
 | 235 | 65 | Lee Silpe |
 | 236 | 65 | BlockBabe |
 | 237 | 65 | Angela Geist Jusinski |
-| 238 | 64 | Joseph Edmonson |
+| 238 | 64 | Mousey406 |
 | 239 | 64 | rebel4lyfe |
 | 240 | 64 | Joseph Edmonson |
 | 241 | 63 | Cristy Duerksen |
@@ -310,8 +310,8 @@
 | 302 | 52 | Nicole Silvers |
 | 303 | 51 | Frank Cook |
 | 304 | 51 | George Nutt |
-| 305 | 50 | Christian Torres |
-| 306 | 50 | Kelly Duncan |
+| 305 | 50 | Kelly Duncan |
+| 306 | 50 | Christian Torres |
 | 307 | 50 | Elie Pean |
 | 308 | 50 | Smiley Linkgrid |
 | 309 | 50 | Sarah Brown |

@@ -137,10 +137,10 @@
 | 129 | 110 | Garcia Bailey |
 | 130 | 108 | Tavia |
 | 131 | 107 | Jodee Woods |
-| 132 | 106 | Bloknboy |
-| 133 | 106 | Ash Galvan |
-| 134 | 105 | Adam Byrd |
-| 135 | 105 | Flashy Rotator |
+| 132 | 106 | Ash Galvan |
+| 133 | 106 | Bloknboy |
+| 134 | 105 | Flashy Rotator |
+| 135 | 105 | Adam Byrd |
 | 136 | 104 | Charla Pross-Fugleberg |
 | 137 | 103 | Adryane Schnase |
 | 138 | 102 | Jennifer ManWarren |

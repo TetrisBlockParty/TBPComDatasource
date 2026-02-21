@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 728 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -67,8 +67,8 @@
 | 59 | 387 | Nerdy Spinblock |
 | 60 | 385 | Brandon Green |
 | 61 | 372 | Patty Allen |
-| 62 | 371 | Jesse Olive |
-| 63 | 371 | Tasha Schriewer |
+| 62 | 371 | Tasha Schriewer |
+| 63 | 371 | Jesse Olive |
 | 64 | 370 | yoyo |
 | 65 | 367 | Tetris Master |
 | 66 | 362 | Liv Whetson |
@@ -157,9 +157,9 @@
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
-| 152 | 149 | Angel Mendez |
-| 153 | 149 | Trisha Balmer |
-| 154 | 149 | Bea Miles |
+| 152 | 149 | Trisha Balmer |
+| 153 | 149 | Bea Miles |
+| 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
 | 156 | 146 | Denita Mungro |
 | 157 | 146 | Latoya Mayne |
@@ -208,8 +208,8 @@
 | 200 | 109 | Diana Ibarra |
 | 201 | 109 | Fredd Thomas |
 | 202 | 109 | Brave Brickster |
-| 203 | 108 | LaTanya GeminiondaRise Johnson |
-| 204 | 108 | Rachel Napper |
+| 203 | 108 | Rachel Napper |
+| 204 | 108 | LaTanya GeminiondaRise Johnson |
 | 205 | 107 | Sherry Ogden |
 | 206 | 106 | Desiree Gold |
 | 207 | 106 | Eon Harris |
