@@ -125,15 +125,15 @@
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Chastity Mitchell |
-| 121 | 208 | Twisty Cascadezone |
+| 120 | 208 | Twisty Cascadezone |
+| 121 | 208 | Chastity Mitchell |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Jen Caldwell |
 | 125 | 204 | Dana Scott |
 | 126 | 202 | Monica Daley |
-| 127 | 201 | Melvin Baird |
-| 128 | 201 | Swanky Fitline |
+| 127 | 201 | Swanky Fitline |
+| 128 | 201 | Melvin Baird |
 | 129 | 197 | Peachy Fall |
 | 130 | 196 | Jenna McGeorge |
 | 131 | 196 | Jeff Brian Gates |
@@ -146,8 +146,8 @@
 | 138 | 185 | Malakai Darien Fox |
 | 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Klo |
-| 142 | 181 | Carter Jones |
+| 141 | 181 | Carter Jones |
+| 142 | 181 | Klo |
 | 143 | 181 | Andria Lynn |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | ThaEviLJeNiuZ |
-| 153 | 164 | 030Synner |
+| 152 | 164 | 030Synner |
+| 153 | 164 | ThaEviLJeNiuZ |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
@@ -170,8 +170,8 @@
 | 162 | 151 | Bethany Ison |
 | 163 | 149 | Shainne Brewer |
 | 164 | 148 | Mr. Party |
-| 165 | 148 | Janita Parrish |
-| 166 | 148 | Brittany Marsh |
+| 165 | 148 | Brittany Marsh |
+| 166 | 148 | Janita Parrish |
 | 167 | 147 | B Renee Desjardin |
 | 168 | 147 | Jay28 |
 | 169 | 145 | Mimi |

@@ -202,8 +202,8 @@
 | 194 | 669 | Melissa Holsinger |
 | 195 | 669 | Amber Shoemaker |
 | 196 | 667 | Lisa Ongtowasruk |
-| 197 | 666 | Ashie Ann |
-| 198 | 666 | Charvi' Carter |
+| 197 | 666 | Charvi' Carter |
+| 198 | 666 | Ashie Ann |
 | 199 | 665 | Dineisha Carpenter |
 | 200 | 661 | Claire Noland |
 | 201 | 660 | Bussyiano Page |
@@ -330,8 +330,8 @@
 | 322 | 452 | Alezandra Smith |
 | 323 | 451 | Daphne Jordan |
 | 324 | 451 | Dylan Thomason |
-| 325 | 449 | Davetta Sanford |
-| 326 | 449 | Shelley Thornburgh Wright |
+| 325 | 449 | Shelley Thornburgh Wright |
+| 326 | 449 | Davetta Sanford |
 | 327 | 448 | Jojo Momma |
 | 328 | 447 | Heather Schelkopf |
 | 329 | 447 | Lourisha |
@@ -366,8 +366,8 @@
 | 358 | 406 | Erin StFrancis |
 | 359 | 406 | Tj Ball |
 | 360 | 406 | Julie Kresal |
-| 361 | 405 | Christy Krissie |
-| 362 | 405 | Sarah Massey |
+| 361 | 405 | Sarah Massey |
+| 362 | 405 | Christy Krissie |
 | 363 | 403 | Tonya Lee |
 | 364 | 402 | Catina Hutchison |
 | 365 | 402 | Brandy Andre |

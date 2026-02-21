@@ -124,14 +124,14 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
 | 124 | 204 | Ananda Mendez |
-| 125 | 203 | Giggly Builderline |
-| 126 | 203 | GATOR |
+| 125 | 203 | GATOR |
+| 126 | 203 | Giggly Builderline |
 | 127 | 201 | Spunky Piecebuilder |
 | 128 | 199 | Jennifer Hardman |
 | 129 | 198 | Happy Snapbuild |

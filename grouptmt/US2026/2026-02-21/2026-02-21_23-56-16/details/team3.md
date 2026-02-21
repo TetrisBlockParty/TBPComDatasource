@@ -113,14 +113,14 @@
 | 105 | 402 | Stephanie Simpson |
 | 106 | 400 | Luciana Braganca Vieira |
 | 107 | 397 | Mcathen |
-| 108 | 394 | joclisa |
-| 109 | 394 | Annie Déè |
+| 108 | 394 | Annie Déè |
+| 109 | 394 | joclisa |
 | 110 | 392 | Michelle |
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
 | 113 | 390 | Patti Skiles |
-| 114 | 389 | Jessica Bechler |
-| 115 | 389 | FuzzyNavel |
+| 114 | 389 | FuzzyNavel |
+| 115 | 389 | Jessica Bechler |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
 | 118 | 378 | Makelini Mausia |
@@ -166,8 +166,8 @@
 | 158 | 261 | Tiffany Ford |
 | 159 | 260 | Louise Stacy Sisson |
 | 160 | 258 | Tamara Deherrera |
-| 161 | 256 | ren |
-| 162 | 256 | KayB |
+| 161 | 256 | KayB |
+| 162 | 256 | ren |
 | 163 | 255 | Tom Nault |
 | 164 | 254 | Duane Bright |
 | 165 | 252 | Nicole Flippo |
@@ -206,11 +206,11 @@
 | 198 | 207 | Jessica |
 | 199 | 205 | Sarah Moyer |
 | 200 | 204 | Danielle Allison |
-| 201 | 201 | Karon Griffin |
-| 202 | 201 | IamJust Neyamijah Washington Sr. |
+| 201 | 201 | IamJust Neyamijah Washington Sr. |
+| 202 | 201 | Karon Griffin |
 | 203 | 200 | glichmod |
 | 204 | 200 | Sharisse Baltimore |
-| 205 | 197 | Staci George Fitzsimmons |
+| 205 | 197 | Connie Mohler-Fair |
 | 206 | 197 | Angie Harper |
 | 207 | 197 | Staci George Fitzsimmons |
 | 208 | 195 | Nicha Hooker |
