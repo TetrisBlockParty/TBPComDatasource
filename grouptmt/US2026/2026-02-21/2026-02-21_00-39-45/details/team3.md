@@ -98,8 +98,8 @@
 | 90 | 113 | Jennifer Alvey |
 | 91 | 112 | Connie Mohler-Fair |
 | 92 | 111 | Joy Petroski |
-| 93 | 110 | Tiff Vs Tiffany |
-| 94 | 110 | Stella |
+| 93 | 110 | Stella |
+| 94 | 110 | Tiff Vs Tiffany |
 | 95 | 108 | Grams |
 | 96 | 107 | Bryan Byrd |
 | 97 | 105 | Hoppy Buildout |
@@ -123,9 +123,9 @@
 | 115 | 98 | Ryan Williams |
 | 116 | 96 | Sherry Ogden |
 | 117 | 96 | D3NO |
-| 118 | 95 | Demetrious Shaw Sr. |
-| 119 | 95 | Katie Knaus |
-| 120 | 95 | Brooke Bauer |
+| 118 | 95 | Brooke Bauer |
+| 119 | 95 | Demetrious Shaw Sr. |
+| 120 | 95 | Katie Knaus |
 | 121 | 93 | Tiffany Ford |
 | 122 | 92 | Skinny Baldez |
 | 123 | 90 | Tiffany Kaupang |
@@ -140,8 +140,8 @@
 | 132 | 83 | LaTanya GeminiondaRise Johnson |
 | 133 | 83 | Kevin Russell |
 | 134 | 82 | Clever Clearbuilder |
-| 135 | 81 | Danielle Becker |
-| 136 | 81 | Tina Baurdau |
+| 135 | 81 | Tina Baurdau |
+| 136 | 81 | Danielle Becker |
 | 137 | 80 | Vixen Queen |
 | 138 | 80 | Chris Bell |
 | 139 | 80 | Gumbo |

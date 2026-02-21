@@ -62,18 +62,18 @@
 | 54 | 108 | Mr. Party |
 | 55 | 105 | Diana Houts |
 | 56 | 103 | Serena Goodridge |
-| 57 | 100 | Michelle Morris |
-| 58 | 100 | Andria Lynn |
-| 59 | 98 | Stephme310 |
-| 60 | 98 | Duck |
+| 57 | 100 | Andria Lynn |
+| 58 | 100 | Michelle Morris |
+| 59 | 98 | Duck |
+| 60 | 98 | Stephme310 |
 | 61 | 96 | Zappy Snaplink |
 | 62 | 94 | TinyLegoRose |
 | 63 | 93 | YoMomma |
 | 64 | 90 | ZeeZee |
 | 65 | 88 | Jenna McGeorge |
-| 66 | 87 | Jen Caldwell |
-| 67 | 87 | Brandi Durig |
-| 68 | 87 | Malakai Darien Fox |
+| 66 | 87 | Brandi Durig |
+| 67 | 87 | Malakai Darien Fox |
+| 68 | 87 | Jen Caldwell |
 | 69 | 86 | amy |
 | 70 | 85 | Mimi |
 | 71 | 81 | Kesha Brady |
