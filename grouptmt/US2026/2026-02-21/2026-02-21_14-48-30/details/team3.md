@@ -170,8 +170,8 @@
 | 162 | 167 | Raven Dudley |
 | 163 | 166 | Loopy Fallmatch |
 | 164 | 166 | Danielle Mogg |
-| 165 | 166 | Betty Rosas |
-| 166 | 166 | Kelly Ann Child |
+| 165 | 166 | Kelly Ann Child |
+| 166 | 166 | Betty Rosas |
 | 167 | 165 | Kali Kelz Williams |
 | 168 | 164 | rosy |
 | 169 | 163 | Trisha Balmer |
@@ -180,18 +180,18 @@
 | 172 | 161 | BŘŰŤİÇŨŚ |
 | 173 | 161 | Nikki Pags |
 | 174 | 160 | Tiffany Davie |
-| 175 | 159 | Stephanie Whitefield |
-| 176 | 159 | Jone |
+| 175 | 159 | Jone |
+| 176 | 159 | Stephanie Whitefield |
 | 177 | 158 | Grams |
-| 178 | 157 | Nicholas Roddy |
-| 179 | 157 | Patricia Gadsden |
+| 178 | 157 | Patricia Gadsden |
+| 179 | 157 | Nicholas Roddy |
 | 180 | 156 | Joey Banks |
 | 181 | 154 | Angela M. Fletcher |
 | 182 | 153 | Beth Ingham |
-| 183 | 152 | Shiny Zonebuilder |
-| 184 | 152 | Katrina E Jelks |
-| 185 | 151 | MsBee |
-| 186 | 151 | Brenda Lee Vander Molen |
+| 183 | 152 | Katrina E Jelks |
+| 184 | 152 | Shiny Zonebuilder |
+| 185 | 151 | Brenda Lee Vander Molen |
+| 186 | 151 | MsBee |
 | 187 | 150 | Nicole Myers |
 | 188 | 149 | Bea Miles |
 | 189 | 149 | Angel Mendez |
@@ -199,9 +199,9 @@
 | 191 | 149 | Desiree Gold |
 | 192 | 146 | Latoya Mayne |
 | 193 | 146 | Denita Mungro |
-| 194 | 146 | Latoya Mayne |
-| 195 | 145 | Bryan Byrd |
-| 196 | 145 | Ashley Lynn Marchese |
+| 194 | 146 | Carrie Huskey |
+| 195 | 145 | Ashley Lynn Marchese |
+| 196 | 145 | Bryan Byrd |
 | 197 | 145 | Rochelle Hazelett |
 | 198 | 142 | Erica Anderson |
 | 199 | 141 | Connie Mohler-Fair |
@@ -238,8 +238,8 @@
 | 230 | 120 | Dapper Snap |
 | 231 | 120 | Eon Harris |
 | 232 | 120 | Jessica |
-| 233 | 118 | Skinny Baldez |
-| 234 | 118 | Sabrina Hardrick |
+| 233 | 118 | Sabrina Hardrick |
+| 234 | 118 | Skinny Baldez |
 | 235 | 118 | Fancy Curver |
 | 236 | 116 | BugMansMom |
 | 237 | 115 | Daring Builder |

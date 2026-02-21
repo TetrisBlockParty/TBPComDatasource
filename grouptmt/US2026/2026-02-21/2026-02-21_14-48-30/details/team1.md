@@ -61,8 +61,8 @@
 | 53 | 270 | Shauna Loe |
 | 54 | 267 | Redlicious 1 |
 | 55 | 257 | Sarah Roberts |
-| 56 | 256 | Tipsy Column |
-| 57 | 256 | Robert Benito |
+| 56 | 256 | Robert Benito |
+| 57 | 256 | Tipsy Column |
 | 58 | 253 | Bhelle Sumile |
 | 59 | 252 | Dena Kayy |
 | 60 | 244 | Franswa |
@@ -75,8 +75,8 @@
 | 67 | 216 | Dee Perry |
 | 68 | 212 | Jaimie Lynn |
 | 69 | 211 | Marianita Garcia |
-| 70 | 208 | Carrie Beck Geartz |
-| 71 | 208 | Mandyy Rae |
+| 70 | 208 | Mandyy Rae |
+| 71 | 208 | Carrie Beck Geartz |
 | 72 | 205 | Trippy Redd |
 | 73 | 204 | Ly Phethmany |
 | 74 | 204 | Lexuriuos Lifestlye |
@@ -128,9 +128,9 @@
 | 120 | 142 | Colleen Wise |
 | 121 | 141 | Blaire Bruckoff |
 | 122 | 140 | Miguel Teixeira |
-| 123 | 138 | Gary Gobin |
-| 124 | 138 | Cranky Pattern |
-| 125 | 137 | Adele Rahman |
+| 123 | 138 | Cranky Pattern |
+| 124 | 138 | Gary Gobin |
+| 125 | 137 | Michael |
 | 126 | 137 | Nadine Velardo |
 | 127 | 137 | Adele Rahman |
 | 128 | 135 | Giddy Cascade |
@@ -254,7 +254,7 @@
 | 246 | 74 | Cool Towerzone |
 | 247 | 74 | Jay Tressler |
 | 248 | 74 | BadG52 |
-| 249 | 74 | Jay Tressler |
+| 249 | 74 | Meechie |
 | 250 | 73 | Shanae Grant |
 | 251 | 73 | Mark Smith |
 | 252 | 72 | Tipsy Strikerpiece |

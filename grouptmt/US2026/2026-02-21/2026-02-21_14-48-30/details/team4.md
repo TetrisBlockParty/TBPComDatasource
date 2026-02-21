@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -320,7 +320,7 @@
 | 312 | 61 | Chilly Crasher |
 | 313 | 61 | Jackson Karen |
 | 314 | 60 | Kris Zulch |
-| 315 | 59 | Chris Bernstein |
+| 315 | 59 | Jasmine S Caldwell |
 | 316 | 59 | Chris Hartig |
 | 317 | 59 | Angelito |
 | 318 | 59 | Chris Bernstein |
