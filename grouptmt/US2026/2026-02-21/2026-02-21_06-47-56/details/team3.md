@@ -98,8 +98,8 @@
 | 90 | 224 | Mykal Burton |
 | 91 | 223 | Jeana Gilbert |
 | 92 | 222 | Jimmie Clemons |
-| 93 | 218 | mjl574 |
-| 94 | 218 | Judi Dobson |
+| 93 | 218 | Judi Dobson |
+| 94 | 218 | mjl574 |
 | 95 | 214 | Amy Fuller Heaton |
 | 96 | 213 | Tom Nault |
 | 97 | 207 | rnr junky |

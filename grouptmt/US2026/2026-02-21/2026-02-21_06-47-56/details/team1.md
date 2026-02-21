@@ -99,14 +99,14 @@
 | 91 | 132 | Davery Spencer Adair |
 | 92 | 131 | Trina Gee |
 | 93 | 130 | Dandy Basegrid |
-| 94 | 128 | Uhog SF |
-| 95 | 128 | lil mickey |
+| 94 | 128 | lil mickey |
+| 95 | 128 | Uhog SF |
 | 96 | 127 | Michael |
 | 97 | 126 | Cece Ibarra |
 | 98 | 126 | Rachael |
 | 99 | 121 | Bouncy Grid |
-| 100 | 119 | Irual Hctrab |
-| 101 | 119 | Tater |
+| 100 | 119 | Tater |
+| 101 | 119 | Irual Hctrab |
 | 102 | 118 | Barry Mac'Ockner |
 | 103 | 116 | Evie Khalil |
 | 104 | 115 | comrade fish |

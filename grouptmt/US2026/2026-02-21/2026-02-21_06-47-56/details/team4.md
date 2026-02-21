@@ -26,8 +26,8 @@
 | 18 | 456 | Valerie Roberts |
 | 19 | 402 | Samantha Peterson |
 | 20 | 390 | Alicia Bass |
-| 21 | 383 | Johnathan Martinez |
-| 22 | 383 | Carmethia Clemons Haslerig |
+| 21 | 383 | Carmethia Clemons Haslerig |
+| 22 | 383 | Johnathan Martinez |
 | 23 | 377 | Edward White |
 | 24 | 373 | Rodney McMath Jr. |
 | 25 | 348 | Carolyn Wallace |
