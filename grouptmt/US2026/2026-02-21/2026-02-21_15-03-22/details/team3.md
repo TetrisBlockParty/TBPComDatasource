@@ -101,8 +101,8 @@
 | 93 | 320 | Or Reznitsky |
 | 94 | 316 | Fancy Cascader |
 | 95 | 313 | Elaine Webb Graves |
-| 96 | 309 | CeceGeGe |
-| 97 | 309 | Rich LeBlanc |
+| 96 | 309 | Rich LeBlanc |
+| 97 | 309 | CeceGeGe |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
 | 100 | 300 | Sherika C. McDaniels |
@@ -344,7 +344,7 @@
 | 336 | 82 | Rebecca Funderburk Kirby |
 | 337 | 82 | Eileen Brady Thurber |
 | 338 | 82 | Moimyzean |
-| 339 | 82 | Eileen Brady Thurber |
+| 339 | 82 | lema ean |
 | 340 | 81 | Tina Baurdau |
 | 341 | 81 | Joseph Vargas |
 | 342 | 81 | Tammy Rosenberry |

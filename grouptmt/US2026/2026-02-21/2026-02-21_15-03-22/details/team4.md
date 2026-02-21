@@ -134,21 +134,21 @@
 | 126 | 132 | Jessica Cagle |
 | 127 | 132 | Degenerate |
 | 128 | 130 | Casey Jeffcoat |
-| 129 | 129 | John Brunetti |
-| 130 | 129 | Landon Keith Graffeo |
+| 129 | 129 | Landon Keith Graffeo |
+| 130 | 129 | John Brunetti |
 | 131 | 128 | Rio Rocha |
 | 132 | 128 | Stephme310 |
 | 133 | 127 | Dreamy Snapgrid |
 | 134 | 126 | TinyLegoRose |
-| 135 | 126 | Dihcheese444 |
-| 136 | 126 | Klo |
+| 135 | 126 | Klo |
+| 136 | 126 | Dihcheese444 |
 | 137 | 124 | Allen Lloyd |
 | 138 | 123 | Cherrish Duren |
 | 139 | 123 | Angela Geist Jusinski |
 | 140 | 122 | Sherri |
 | 141 | 121 | Zany Shatterer |
-| 142 | 121 | Megan Cutshaw |
-| 143 | 121 | Smiley Tiltbuilder |
+| 142 | 121 | Smiley Tiltbuilder |
+| 143 | 121 | Megan Cutshaw |
 | 144 | 120 | Roger Coulter |
 | 145 | 120 | Joshua Guess |
 | 146 | 119 | Kristin Manee |

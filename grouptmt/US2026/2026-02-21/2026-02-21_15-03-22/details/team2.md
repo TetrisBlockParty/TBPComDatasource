@@ -75,8 +75,8 @@
 | 67 | 1013 | Sarah Freitas |
 | 68 | 989 | Samantha Roberts |
 | 69 | 975 | Alisha Peoples |
-| 70 | 973 | Kim Dean |
-| 71 | 973 | Zappy Cascade |
+| 70 | 973 | Zappy Cascade |
+| 71 | 973 | Kim Dean |
 | 72 | 962 | Janel Turley-Garner |
 | 73 | 962 | Charie Holland |
 | 74 | 946 | Carrie Trigg |
@@ -122,8 +122,8 @@
 | 114 | 704 | Nerdy Clearfit |
 | 115 | 700 | Vincent Petrella |
 | 116 | 698 | Lola Contreras |
-| 117 | 694 | Nancy Reid |
-| 118 | 694 | Vo'Landa Reels |
+| 117 | 694 | Vo'Landa Reels |
+| 118 | 694 | Nancy Reid |
 | 119 | 693 | YiFei |
 | 120 | 688 | Dreamy Blast |
 | 121 | 679 | Gold Rose |
@@ -200,8 +200,8 @@
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 467 | Scott Treadway |
 | 194 | 465 | Drwatson187 |
-| 195 | 464 | Ariel |
-| 196 | 464 | Ryan Gunther |
+| 195 | 464 | Ryan Gunther |
+| 196 | 464 | Ariel |
 | 197 | 460 | Amélie Cadieux |
 | 198 | 460 | Cody Smith-Candelaria |
 | 199 | 454 | Casey Schumacher |
@@ -245,9 +245,9 @@
 | 237 | 391 | Chilly Bridgepiece |
 | 238 | 391 | Brenda Utphall |
 | 239 | 386 | Macy Williams |
-| 240 | 385 | Sam |
+| 240 | 385 | Arwa Fatimah |
 | 241 | 385 | Skyler Morgan |
-| 242 | 385 | Arwa Fatimah |
+| 242 | 385 | Sam |
 | 243 | 383 | Arkei Luster |
 | 244 | 379 | Jánine Riggs |
 | 245 | 378 | Cody Nishimura |
@@ -290,8 +290,8 @@
 | 282 | 338 | Lawanda Forbes |
 | 283 | 335 | Brooke Leigh Strube |
 | 284 | 334 | Moni Foxe |
-| 285 | 334 | Missie Lawson Gebhardt |
-| 286 | 334 | Felicia Lynn |
+| 285 | 334 | Felicia Lynn |
+| 286 | 334 | Missie Lawson Gebhardt |
 | 287 | 333 | Brittney Jean |
 | 288 | 333 | ShinyRose |
 | 289 | 332 | TF Dyer |
@@ -354,11 +354,11 @@
 | 346 | 283 | Byung Bae Park |
 | 347 | 282 | Shaun Church |
 | 348 | 282 | Carl Bradshaw |
-| 349 | 281 | Jaycee |
-| 350 | 281 | Ellie Jonas |
+| 349 | 281 | Ellie Jonas |
+| 350 | 281 | Jaycee |
 | 351 | 280 | Shorty |
-| 352 | 280 | Lyndi Robinson Wakefield |
-| 353 | 280 | Sabrina Burton |
+| 352 | 280 | Sabrina Burton |
+| 353 | 280 | Lyndi Robinson Wakefield |
 | 354 | 280 | SwampRebel |
 | 355 | 279 | Glitzy Stackzone |
 | 356 | 278 | Deana |
@@ -410,8 +410,8 @@
 | 402 | 252 | Alyssia Tancredi |
 | 403 | 251 | Ann Knutson Anderson |
 | 404 | 250 | Steve Man |
-| 405 | 249 | Porsche' Nicole |
-| 406 | 249 | Nicky Jackson |
+| 405 | 249 | Nicky Jackson |
+| 406 | 249 | Porsche' Nicole |
 | 407 | 248 | Aimee Byrom |
 | 408 | 248 | Bubbly Snapfit |
 | 409 | 248 | Warren Marleau |
@@ -424,8 +424,8 @@
 | 416 | 246 | Ashley Lopez |
 | 417 | 246 | Stephanie Lumanlan |
 | 418 | 245 | Rachael Senard |
-| 419 | 245 | Sanaa Nounoussa |
-| 420 | 245 | Robin Kerby |
+| 419 | 245 | Robin Kerby |
+| 420 | 245 | Sanaa Nounoussa |
 | 421 | 242 | Donna Chandler |
 | 422 | 241 | Ashle Scranton |
 | 423 | 241 | Niceday |
@@ -463,8 +463,8 @@
 | 455 | 223 | Jess Morrison |
 | 456 | 223 | Laura Wyatt |
 | 457 | 223 | Kristi Biddinger |
-| 458 | 222 | Jason Garnatz |
-| 459 | 222 | Amanda Canterbury |
+| 458 | 222 | Amanda Canterbury |
+| 459 | 222 | Jason Garnatz |
 | 460 | 220 | Katrina Weston |
 | 461 | 220 | Sho Nuff |
 | 462 | 219 | Maxwell Escalera |
@@ -520,8 +520,8 @@
 | 512 | 195 | Darlene Bowman |
 | 513 | 195 | Darcy Mae |
 | 514 | 194 | Hoppy Brickmatch |
-| 515 | 194 | Kimberly Ann |
-| 516 | 194 | Kitybox |
+| 515 | 194 | Kitybox |
+| 516 | 194 | Kimberly Ann |
 | 517 | 193 | Kelly Ann McCormick |
 | 518 | 192 | Leroy Jenkins |
 | 519 | 192 | Michael Artis |
