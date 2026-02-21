@@ -36,8 +36,8 @@
 | 28 | 200 | Lexuriuos Lifestlye |
 | 29 | 194 | Sharon Reynolds |
 | 30 | 192 | Mandyy Rae |
-| 31 | 190 | Sweetts |
-| 32 | 190 | Thorne Shumate |
+| 31 | 190 | Thorne Shumate |
+| 32 | 190 | Sweetts |
 | 33 | 189 | Happy Basegrid |
 | 34 | 187 | Dee Perry |
 | 35 | 185 | Karin Gillen |

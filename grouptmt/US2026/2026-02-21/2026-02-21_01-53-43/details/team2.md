@@ -144,8 +144,8 @@
 | 136 | 309 | Tralonda Weeks |
 | 137 | 297 | James Zaragoza |
 | 138 | 296 | Jennifer Casey-Kay |
-| 139 | 295 | Zany Clusterbuilder |
-| 140 | 295 | Diallo Sparkman |
+| 139 | 295 | Diallo Sparkman |
+| 140 | 295 | Zany Clusterbuilder |
 | 141 | 290 | Jessie McDougald |
 | 142 | 287 | Claire |
 | 143 | 286 | Juanita Lyons |
@@ -174,8 +174,8 @@
 | 166 | 258 | Steven Marshaun |
 | 167 | 257 | Alex Hill |
 | 168 | 256 | Dapper Dasher |
-| 169 | 255 | Santana Miyagi |
-| 170 | 255 | Michelle Pike |
+| 169 | 255 | Michelle Pike |
+| 170 | 255 | Santana Miyagi |
 | 171 | 254 | Libby Hicks |
 | 172 | 252 | Alezandra Smith |
 | 173 | 251 | Shameika Trail |
@@ -338,8 +338,8 @@
 | 330 | 136 | Erika Meaux |
 | 331 | 136 | RavensBeard |
 | 332 | 135 | Robin L. Vial |
-| 333 | 135 | Nancy Reid |
-| 334 | 135 | Michelle Loar |
+| 333 | 135 | Michelle Loar |
+| 334 | 135 | Nancy Reid |
 | 335 | 134 | Candace Noel |
 | 336 | 134 | Christina Jones |
 | 337 | 134 | Sarah Massey |

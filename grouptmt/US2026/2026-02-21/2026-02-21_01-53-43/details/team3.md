@@ -64,8 +64,8 @@
 | 56 | 223 | Delilah belle |
 | 57 | 216 | Jennifer Willis |
 | 58 | 214 | Amy Fuller Heaton |
-| 59 | 210 | Fancy Slam |
-| 60 | 210 | Zippy Strikesnap |
+| 59 | 210 | Zippy Strikesnap |
+| 60 | 210 | Fancy Slam |
 | 61 | 207 | rnr junky |
 | 62 | 203 | Crimson |
 | 63 | 193 | Shunta Jacobs |
@@ -97,8 +97,8 @@
 | 89 | 135 | Nicole Flippo |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
-| 92 | 129 | Ashley Tookes |
-| 93 | 129 | Giddy Twistbuilder |
+| 92 | 129 | Giddy Twistbuilder |
+| 93 | 129 | Ashley Tookes |
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
@@ -108,8 +108,8 @@
 | 100 | 124 | Marquita Sheard |
 | 101 | 122 | Aerian Preston |
 | 102 | 122 | Shimika Enay Wallace |
-| 103 | 120 | Michael Latasha Gray |
-| 104 | 120 | Jessica |
+| 103 | 120 | Jessica |
+| 104 | 120 | Michael Latasha Gray |
 | 105 | 119 | Terry Jo Jones |
 | 106 | 118 | Bea Miles |
 | 107 | 118 | Fancy Curver |
@@ -148,10 +148,10 @@
 | 140 | 93 | Tiffany Ford |
 | 141 | 92 | Jennifer Caputo |
 | 142 | 91 | Sarajane Lokan |
-| 143 | 90 | Tiffany Kaupang |
-| 144 | 90 | Eon Harris |
-| 145 | 89 | Jessica Bechler |
-| 146 | 89 | Annie Déè |
+| 143 | 90 | Eon Harris |
+| 144 | 90 | Tiffany Kaupang |
+| 145 | 89 | Annie Déè |
+| 146 | 89 | Jessica Bechler |
 | 147 | 89 | Hyper Bridger |
 | 148 | 88 | Danielle Becker |
 | 149 | 88 | Funky Jumper |
