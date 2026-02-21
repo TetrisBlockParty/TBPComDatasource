@@ -39,8 +39,8 @@
 | 31 | 587 | Danielle Becker |
 | 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
-| 34 | 546 | Dolores Falco |
-| 35 | 546 | Snappy Glidepiece |
+| 34 | 546 | Snappy Glidepiece |
+| 35 | 546 | Dolores Falco |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |
@@ -125,8 +125,8 @@
 | 117 | 167 | Katrina Schroeder |
 | 118 | 166 | Danielle Mogg |
 | 119 | 164 | rosy |
-| 120 | 159 | Jone |
-| 121 | 159 | Morgan Martinez |
+| 120 | 159 | Morgan Martinez |
+| 121 | 159 | Jone |
 | 122 | 158 | Grams |
 | 123 | 156 | Joey Banks |
 | 124 | 155 | BŘŰŤİÇŨŚ |

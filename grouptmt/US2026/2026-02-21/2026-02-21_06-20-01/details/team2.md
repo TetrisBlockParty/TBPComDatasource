@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3648 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -86,8 +86,8 @@
 | 78 | 674 | Dannette Goldberg-Richards |
 | 79 | 672 | Wendy Harder Gage |
 | 80 | 665 | Dineisha Carpenter |
-| 81 | 658 | Pacynthia Williams |
-| 82 | 658 | Vistabrat |
+| 81 | 658 | Vistabrat |
+| 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
 | 84 | 649 | Stephanie Chapman |
 | 85 | 649 | Anna Edwards |
@@ -191,8 +191,8 @@
 | 183 | 337 | Joseph Musick |
 | 184 | 336 | Tralonda Weeks |
 | 185 | 334 | Missie Lawson Gebhardt |
-| 186 | 334 | Moni Foxe |
-| 187 | 334 | Nashu |
+| 186 | 334 | Nashu |
+| 187 | 334 | Moni Foxe |
 | 188 | 332 | TF Dyer |
 | 189 | 331 | Brave Dropmatch |
 | 190 | 330 | Victoria Moore-Smith |
@@ -392,8 +392,8 @@
 | 384 | 180 | Peter Palestino |
 | 385 | 180 | Jackie Lucas |
 | 386 | 179 | Desiree Harris Rosch |
-| 387 | 179 | Bette Prieto |
-| 388 | 179 | Cat |
+| 387 | 179 | Cat |
+| 388 | 179 | Bette Prieto |
 | 389 | 177 | Facuetoo |
 | 390 | 177 | Ryan Meilleur |
 | 391 | 177 | John |
@@ -424,8 +424,8 @@
 | 416 | 167 | Sabrena Yeisley |
 | 417 | 167 | mshir |
 | 418 | 166 | suuny |
-| 419 | 165 | Cathy Bitters |
-| 420 | 165 | Austin Wilson |
+| 419 | 165 | Austin Wilson |
+| 420 | 165 | Cathy Bitters |
 | 421 | 164 | Jessica Vega |
 | 422 | 164 | Sara Pennington |
 | 423 | 163 | Albert McKnight |
@@ -607,9 +607,9 @@
 | 599 | 118 | Emilie Victoria Cordero |
 | 600 | 118 | Wha |
 | 601 | 118 | Starrs Dcct |
-| 602 | 118 | Wha |
-| 603 | 117 | Myleaha Holley |
-| 604 | 117 | BeaNzMaMa |
+| 602 | 118 | Raffaella Dowling |
+| 603 | 117 | BeaNzMaMa |
+| 604 | 117 | Myleaha Holley |
 | 605 | 117 | Cody Kelsey |
 | 606 | 116 | Slinky Risegrid |
 | 607 | 116 | Jennifer Monroe Kelly |
@@ -620,12 +620,12 @@
 | 612 | 116 | Slimkaite |
 | 613 | 115 | Melissa Schwager |
 | 614 | 115 | Heather Schelkopf |
-| 615 | 115 | Jamie Brickley |
-| 616 | 115 | Fae-Bulous |
+| 615 | 115 | Fae-Bulous |
+| 616 | 115 | Jamie Brickley |
 | 617 | 114 | Melissa Maples |
 | 618 | 114 | Kelli Clark |
-| 619 | 114 | Biggest thing |
-| 620 | 114 | Juan Castillo |
+| 619 | 114 | Juan Castillo |
+| 620 | 114 | Biggest thing |
 | 621 | 114 | Brenda |
 | 622 | 113 | Brave Gridzone |
 | 623 | 113 | Hillary Franklin |

@@ -35,8 +35,8 @@
 | 27 | 291 | Nancy Green |
 | 28 | 286 | Michelle Nicole |
 | 29 | 281 | Maria C. Hernandez |
-| 30 | 274 | Theo Pinnow |
-| 31 | 274 | Sweet Baker |
+| 30 | 274 | Sweet Baker |
+| 31 | 274 | Theo Pinnow |
 | 32 | 265 | Jennifer Cates |
 | 33 | 256 | Robert Benito |
 | 34 | 252 | Tipsy Column |
@@ -44,8 +44,8 @@
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
 | 38 | 215 | Felicia Lewis |
-| 39 | 212 | Tdub |
-| 40 | 212 | Jaimie Lynn |
+| 39 | 212 | Jaimie Lynn |
+| 40 | 212 | Tdub |
 | 41 | 211 | Deanna L Hermanson |
 | 42 | 208 | Carrie Beck Geartz |
 | 43 | 206 | Elaine Elaine |
@@ -60,10 +60,10 @@
 | 52 | 197 | Cynthia Bradley |
 | 53 | 194 | Sharon Reynolds |
 | 54 | 192 | Mandyy Rae |
-| 55 | 191 | Giggly Builderline |
-| 56 | 191 | Jazzy Framezone |
-| 57 | 190 | Sweetts |
-| 58 | 190 | Thorne Shumate |
+| 55 | 191 | Jazzy Framezone |
+| 56 | 191 | Giggly Builderline |
+| 57 | 190 | Thorne Shumate |
+| 58 | 190 | Sweetts |
 | 59 | 189 | Happy Basegrid |
 | 60 | 185 | Karin Gillen |
 | 61 | 173 | Frothy Pattern |
@@ -181,12 +181,12 @@
 | 173 | 72 | Tipsy Strikerpiece |
 | 174 | 72 | John J. Cronin |
 | 175 | 71 | John Kim |
-| 176 | 70 | Kenton Billings |
-| 177 | 70 | Seth Wesson |
-| 178 | 70 | Daring Fitclear |
-| 179 | 70 | Nerdy Linkblock |
-| 180 | 69 | Christina Torres |
-| 181 | 69 | Christy Jones |
+| 176 | 70 | Nerdy Linkblock |
+| 177 | 70 | Daring Fitclear |
+| 178 | 70 | Kenton Billings |
+| 179 | 70 | Seth Wesson |
+| 180 | 69 | Christy Jones |
+| 181 | 69 | Christina Torres |
 | 182 | 68 | NicaOrlice |
 | 183 | 68 | Ariel Whittington |
 | 184 | 68 | Unelanuhi Belladonna Mystikal Bomar |

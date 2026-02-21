@@ -42,8 +42,8 @@
 | 34 | 277 | KJ Pool |
 | 35 | 274 | Elizabeth Sallas |
 | 36 | 270 | Livvy |
-| 37 | 256 | Brittney Griggs |
-| 38 | 256 | Dustin Robert |
+| 37 | 256 | Dustin Robert |
+| 38 | 256 | Brittney Griggs |
 | 39 | 244 | Isabella Blanco |
 | 40 | 239 | Edward White |
 | 41 | 232 | Julian Garcia |
@@ -127,8 +127,8 @@
 | 119 | 104 | YoMomma |
 | 120 | 104 | Adam Randall |
 | 121 | 102 | Faja |
-| 122 | 101 | Michelle Morris |
-| 123 | 101 | Stephme310 |
+| 122 | 101 | Stephme310 |
+| 123 | 101 | Michelle Morris |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Jeff Brian Gates |
 | 126 | 100 | Alexandra Karavias |
@@ -170,8 +170,8 @@
 | 162 | 80 | Melissa Adams |
 | 163 | 79 | Joseph Pace |
 | 164 | 79 | Nubian1 |
-| 165 | 78 | Zesty Linkgrid |
-| 166 | 78 | Jessica Miller |
+| 165 | 78 | Jessica Miller |
+| 166 | 78 | Zesty Linkgrid |
 | 167 | 77 | Chris Alexinas |
 | 168 | 77 | Chastity Mitchell |
 | 169 | 77 | Zippy Gridlock |
@@ -214,7 +214,7 @@
 | 206 | 64 | rebel4lyfe |
 | 207 | 63 | Cristy Duerksen |
 | 208 | 63 | Cheery Risebuilder |
-| 209 | 63 | Cristy Duerksen |
+| 209 | 63 | Asher |
 | 210 | 62 | Maureen Flanigan |
 | 211 | 62 | Latisha Davis |
 | 212 | 62 | PennyCandee |
