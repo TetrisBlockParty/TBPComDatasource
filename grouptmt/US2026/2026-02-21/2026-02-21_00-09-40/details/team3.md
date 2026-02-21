@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Clever Shiftsnap |
@@ -109,8 +109,8 @@
 | 101 | 100 | Bobbi Moore |
 | 102 | 99 | Nichol Graham |
 | 103 | 99 | Lys |
-| 104 | 98 | Ryan Williams |
-| 105 | 98 | Jocelyne Baca |
+| 104 | 98 | Jocelyne Baca |
+| 105 | 98 | Ryan Williams |
 | 106 | 96 | Boldy Corner |
 | 107 | 96 | D3NO |
 | 108 | 95 | Demetrious Shaw Sr. |
@@ -134,7 +134,7 @@
 | 126 | 82 | Donna |
 | 127 | 82 | Clever Clearbuilder |
 | 128 | 81 | Danielle Becker |
-| 129 | 80 | Chris Bell |
+| 129 | 80 | Gumbo |
 | 130 | 80 | Vixen Queen |
 | 131 | 80 | Chris Bell |
 | 132 | 78 | Karon Griffin |

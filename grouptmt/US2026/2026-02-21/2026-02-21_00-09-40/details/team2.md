@@ -113,8 +113,8 @@
 | 105 | 284 | Brittney Jean |
 | 106 | 283 | Poppy Snap |
 | 107 | 281 | Robert Diddle |
-| 108 | 280 | Kimberly Schall |
-| 109 | 280 | Christina Lewis-Vickers |
+| 108 | 280 | Christina Lewis-Vickers |
+| 109 | 280 | Kimberly Schall |
 | 110 | 274 | Melissa Holsinger |
 | 111 | 271 | Jojo Momma |
 | 112 | 271 | Ann Marie Davis |
