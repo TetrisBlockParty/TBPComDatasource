@@ -152,8 +152,8 @@
 | 144 | 100 | Elizabeth Renee |
 | 145 | 99 | Nichol Graham |
 | 146 | 99 | Lys |
-| 147 | 98 | Armi |
-| 148 | 98 | Jocelyne Baca |
+| 147 | 98 | Jocelyne Baca |
+| 148 | 98 | Armi |
 | 149 | 96 | Tasha Wesson-Torrence |
 | 150 | 96 | D3NO |
 | 151 | 96 | Skinny Baldez |

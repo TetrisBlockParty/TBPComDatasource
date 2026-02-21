@@ -70,9 +70,9 @@
 | 62 | 674 | Dannette Goldberg-Richards |
 | 63 | 672 | Wendy Harder Gage |
 | 64 | 664 | E_Money04 |
-| 65 | 658 | Vistabrat |
-| 66 | 658 | Pacynthia Williams |
-| 67 | 658 | Dreamy Blast |
+| 65 | 658 | Pacynthia Williams |
+| 66 | 658 | Dreamy Blast |
+| 67 | 658 | Vistabrat |
 | 68 | 649 | Anna Edwards |
 | 69 | 649 | Stephanie Chapman |
 | 70 | 608 | John Bednarik |
@@ -296,8 +296,8 @@
 | 288 | 179 | Denise Rickman |
 | 289 | 179 | Cat |
 | 290 | 177 | Kristi Biddinger |
-| 291 | 177 | Angel |
-| 292 | 177 | John |
+| 291 | 177 | John |
+| 292 | 177 | Angel |
 | 293 | 176 | Nancy Pohlman |
 | 294 | 176 | Jennifer Malloy - Cardy |
 | 295 | 176 | Jessica Kaye DeAguero |
@@ -456,7 +456,7 @@
 | 448 | 119 | Nicky Jackson |
 | 449 | 119 | Deidre Shaffer |
 | 450 | 119 | Mandi Douglas Hilt |
-| 451 | 119 | Alison Emmons |
+| 451 | 119 | Leebo Slice |
 | 452 | 119 | Gloria Ininahazwe |
 | 453 | 119 | Alison Emmons |
 | 454 | 118 | Connor Gaughran |
