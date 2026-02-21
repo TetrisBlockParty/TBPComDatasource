@@ -119,8 +119,8 @@
 | 111 | 843 | Suki Kaur |
 | 112 | 821 | Cynthia Ward |
 | 113 | 820 | Andea Beck |
-| 114 | 815 | Cindy Sechler Taninecz |
-| 115 | 815 | blarg |
+| 114 | 815 | blarg |
+| 115 | 815 | Cindy Sechler Taninecz |
 | 116 | 802 | Robin Kerby |
 | 117 | 801 | Tralonda Weeks |
 | 118 | 800 | Tacara Cummings |
@@ -335,8 +335,8 @@
 | 327 | 383 | Arkei Luster |
 | 328 | 382 | David Holliday |
 | 329 | 381 | Bubbly Snapfit |
-| 330 | 378 | Christina Ashley |
-| 331 | 378 | TF Dyer |
+| 330 | 378 | TF Dyer |
+| 331 | 378 | Christina Ashley |
 | 332 | 378 | Cody Nishimura |
 | 333 | 377 | Roy Salyer |
 | 334 | 376 | Caitlin Schmid |

@@ -116,8 +116,8 @@
 | 108 | 186 | Leslie Nicole |
 | 109 | 185 | Peachy Fall |
 | 110 | 185 | Andy Cabral |
-| 111 | 181 | Carter Jones |
-| 112 | 181 | Andria Lynn |
+| 111 | 181 | Andria Lynn |
+| 112 | 181 | Carter Jones |
 | 113 | 180 | Justin Hannigan |
 | 114 | 180 | Leah Kutz Zirbel |
 | 115 | 179 | Epic Curvetile |
@@ -129,14 +129,14 @@
 | 121 | 173 | blockstar |
 | 122 | 173 | Ren Mc |
 | 123 | 170 | Girl |
-| 124 | 164 | Chaz Duncan |
-| 125 | 164 | 030Synner |
-| 126 | 164 | ThaEviLJeNiuZ |
+| 124 | 164 | ThaEviLJeNiuZ |
+| 125 | 164 | Chaz Duncan |
+| 126 | 164 | 030Synner |
 | 127 | 160 | ZeeZee |
 | 128 | 157 | Jenna McGeorge |
 | 129 | 157 | quicksand420 |
-| 130 | 156 | Jessica Bohlken |
-| 131 | 156 | Holly |
+| 130 | 156 | Holly |
+| 131 | 156 | Jessica Bohlken |
 | 132 | 153 | Empress Oasis |
 | 133 | 151 | Bethany Ison |
 | 134 | 151 | Dana Scott |
@@ -185,8 +185,8 @@
 | 177 | 124 | SammieJo Guy |
 | 178 | 124 | Allen Lloyd |
 | 179 | 123 | Cherrish Duren |
-| 180 | 122 | 🥔🥔 Spudz |
-| 181 | 122 | Sherri |
+| 180 | 122 | Sherri |
+| 181 | 122 | 🥔🥔 Spudz |
 | 182 | 122 | Carlos Ramirez |
 | 183 | 121 | Smiley Tiltbuilder |
 | 184 | 121 | Megan Cutshaw |
@@ -239,8 +239,8 @@
 | 231 | 100 | Maureen Flanigan |
 | 232 | 100 | Cheery Risebuilder |
 | 233 | 100 | Jacob Richard |
-| 234 | 99 | Frank Cook |
-| 235 | 99 | Michael Orris |
+| 234 | 99 | Michael Orris |
+| 235 | 99 | Frank Cook |
 | 236 | 98 | Perky Piecegrid |
 | 237 | 98 | Sam Bishop |
 | 238 | 98 | Bradley Reeves |

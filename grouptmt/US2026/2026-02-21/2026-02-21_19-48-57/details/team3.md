@@ -102,8 +102,8 @@
 | 94 | 390 | Annie Déè |
 | 95 | 389 | Elissa S-k |
 | 96 | 386 | Katie Knaus |
-| 97 | 378 | Makelini Mausia |
-| 98 | 378 | Tasha Schriewer |
+| 97 | 378 | Tasha Schriewer |
+| 98 | 378 | Makelini Mausia |
 | 99 | 372 | Jessica Bechler |
 | 100 | 371 | Jesse Olive |
 | 101 | 368 | Stephanie Woods |
@@ -115,8 +115,8 @@
 | 107 | 350 | Tiff Vs Tiffany |
 | 108 | 348 | CeceGeGe |
 | 109 | 332 | Chauntee Alfrey-Cardinale |
-| 110 | 323 | Sherry Ogden |
-| 111 | 323 | Ashley Raines |
+| 110 | 323 | Ashley Raines |
+| 111 | 323 | Sherry Ogden |
 | 112 | 321 | Dapper Snap |
 | 113 | 320 | Or Reznitsky |
 | 114 | 318 | Chasity |
@@ -216,8 +216,8 @@
 | 208 | 166 | Kelly Ann Child |
 | 209 | 166 | Rebecca Funderburk Kirby |
 | 210 | 165 | Kali Kelz Williams |
-| 211 | 163 | Stephanie Hill |
-| 212 | 163 | Christine Trester |
+| 211 | 163 | Christine Trester |
+| 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
 | 214 | 161 | BŘŰŤİÇŨŚ |
 | 215 | 161 | Irene Arreguin |
@@ -260,8 +260,8 @@
 | 252 | 139 | Loopy Clusterer |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
-| 255 | 135 | Erykah |
-| 256 | 135 | Terry Jo Jones |
+| 255 | 135 | Terry Jo Jones |
+| 256 | 135 | Erykah |
 | 257 | 134 | Cesar Barraza |
 | 258 | 134 | Skinny Baldez |
 | 259 | 133 | Sharisse Baltimore |

@@ -34,8 +34,8 @@
 | 26 | 565 | Jennifer Cates |
 | 27 | 547 | Marianne Louise West |
 | 28 | 543 | Aaron Garnett |
-| 29 | 541 | Jorge Andrade |
-| 30 | 541 | Drew Magnus |
+| 29 | 541 | Drew Magnus |
+| 30 | 541 | Jorge Andrade |
 | 31 | 539 | Karin Gillen |
 | 32 | 521 | Hyp James NObettadanluvarat |
 | 33 | 519 | Lawrence Belanger |
@@ -154,29 +154,29 @@
 | 146 | 150 | Adele Rahman |
 | 147 | 150 | David Miller |
 | 148 | 149 | Arianna O'Brien |
-| 149 | 148 | Shauntina Burke |
-| 150 | 148 | Bouncy Grid |
+| 149 | 148 | Bouncy Grid |
+| 150 | 148 | Shauntina Burke |
 | 151 | 147 | Leslie Bush Yarbrough |
 | 152 | 147 | Davery Spencer Adair |
 | 153 | 146 | Christy Jones |
 | 154 | 145 | Agustin Duarte Orozco |
 | 155 | 145 | Angela Fairbank |
-| 156 | 144 | femmefatale |
-| 157 | 144 | Gary Gobin |
+| 156 | 144 | Gary Gobin |
+| 157 | 144 | femmefatale |
 | 158 | 143 | Sarah Marie |
 | 159 | 142 | Colleen Wise |
 | 160 | 141 | Blaire Bruckoff |
 | 161 | 140 | Miguel Teixeira |
-| 162 | 138 | Cranky Pattern |
-| 163 | 138 | Death |
+| 162 | 138 | Death |
+| 163 | 138 | Cranky Pattern |
 | 164 | 137 | Cody Gates |
 | 165 | 136 | Dino |
 | 166 | 135 | Guest |
 | 167 | 135 | Cody Slav |
 | 168 | 135 | Giddy Cascade |
 | 169 | 134 | Witty Builderfit |
-| 170 | 133 | Luciano Moreira |
-| 171 | 133 | Breanna Luna |
+| 170 | 133 | Breanna Luna |
+| 171 | 133 | Luciano Moreira |
 | 172 | 132 | Mel Hogan |
 | 173 | 131 | Uhog SF |
 | 174 | 131 | Kimberly Garcia |
