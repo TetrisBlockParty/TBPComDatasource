@@ -37,8 +37,8 @@
 | 29 | 587 | Suzieq |
 | 30 | 568 | Shonna Roberts |
 | 31 | 553 | Clever Roll |
-| 32 | 546 | Dolores Falco |
-| 33 | 546 | Snappy Glidepiece |
+| 32 | 546 | Snappy Glidepiece |
+| 33 | 546 | Dolores Falco |
 | 34 | 541 | MissTaylor |
 | 35 | 533 | Sarah Fehring |
 | 36 | 528 | Natasha Jones |
@@ -66,8 +66,8 @@
 | 58 | 351 | Calista Jo Dickson |
 | 59 | 349 | Justin Ritter |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -128,11 +128,11 @@
 | 120 | 140 | Jay Horn |
 | 121 | 138 | Gumbo |
 | 122 | 135 | Nicole Flippo |
-| 123 | 134 | DanceLuvLaugh |
-| 124 | 134 | Emma |
+| 123 | 134 | Emma |
+| 124 | 134 | DanceLuvLaugh |
 | 125 | 133 | Giddy Twistbuilder |
-| 126 | 131 | Jl |
-| 127 | 131 | Elaine Webb Graves |
+| 126 | 131 | Elaine Webb Graves |
+| 127 | 131 | Jl |
 | 128 | 128 | Angel Mendez |
 | 129 | 127 | Aerian Preston |
 | 130 | 127 | Marquita Sheard |
@@ -143,9 +143,9 @@
 | 135 | 125 | Felicia Doxey |
 | 136 | 123 | Kristie McFarland |
 | 137 | 122 | Terry Jo Jones |
-| 138 | 122 | Giggly Brickroll |
-| 139 | 122 | Bryan Byrd |
-| 140 | 121 | Danielle Allison |
+| 138 | 122 | Bryan Byrd |
+| 139 | 122 | Giggly Brickroll |
+| 140 | 121 | Boldy Corner |
 | 141 | 121 | Juliana Dottore |
 | 142 | 121 | Danielle Allison |
 | 143 | 121 | Michael Latasha Gray |
@@ -153,7 +153,7 @@
 | 145 | 119 | Hyper Matchzone |
 | 146 | 118 | Fancy Curver |
 | 147 | 117 | Louise Stacy Sisson |
-| 148 | 116 | Josiah Fam |
+| 148 | 116 | Joy Petroski |
 | 149 | 116 | Connie Mohler-Fair |
 | 150 | 116 | Josiah Fam |
 | 151 | 116 | Cesar Barraza |
@@ -208,7 +208,7 @@
 | 200 | 92 | Eon Harris |
 | 201 | 92 | Jennifer Caputo |
 | 202 | 90 | Tiffany Kaupang |
-| 203 | 90 | Rebel124 |
+| 203 | 90 | Mcathen |
 | 204 | 90 | Nichole Greene |
 | 205 | 90 | Rebel124 |
 | 206 | 89 | Shicken Nuggit |

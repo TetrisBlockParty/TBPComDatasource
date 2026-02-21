@@ -40,15 +40,15 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Michelle Marie |
-| 36 | 231 | Jenna Ingersoll |
+| 35 | 231 | Jenna Ingersoll |
+| 36 | 231 | Michelle Marie |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Rachel Anne |
-| 43 | 194 | Jamie Mann-Deichmann |
+| 42 | 194 | Jamie Mann-Deichmann |
+| 43 | 194 | Rachel Anne |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
@@ -71,8 +71,8 @@
 | 63 | 142 | Justin Hannigan |
 | 64 | 141 | Malakai Darien Fox |
 | 65 | 140 | Shannon Ferrari |
-| 66 | 134 | Chirpy Basepiece |
-| 67 | 134 | Jessica Bohlken |
+| 66 | 134 | Jessica Bohlken |
+| 67 | 134 | Chirpy Basepiece |
 | 68 | 133 | Robin Watters |
 | 69 | 132 | Jenna McGeorge |
 | 70 | 132 | Degenerate |
@@ -87,8 +87,8 @@
 | 79 | 120 | Joshua Guess |
 | 80 | 119 | Kristin Manee |
 | 81 | 116 | Serena Goodridge |
-| 82 | 114 | Klo |
-| 83 | 114 | Zany Shatterer |
+| 82 | 114 | Zany Shatterer |
+| 83 | 114 | Klo |
 | 84 | 114 | Jessica Cagle |
 | 85 | 113 | Leslie Nicole |
 | 86 | 113 | Andria Lynn |
@@ -102,8 +102,8 @@
 | 94 | 108 | Rio Rocha |
 | 95 | 107 | Marcus Todd |
 | 96 | 106 | Jonathan Kimbrough |
-| 97 | 105 | TheNeesh50 |
-| 98 | 105 | Sam Middleton |
+| 97 | 105 | Sam Middleton |
+| 98 | 105 | TheNeesh50 |
 | 99 | 104 | YoMomma |
 | 100 | 103 | Zany Twisterfit |
 | 101 | 102 | Faja |
@@ -142,9 +142,9 @@
 | 134 | 83 | Abigail Murphy |
 | 135 | 83 | Avy Absol |
 | 136 | 82 | Kim Hunt |
-| 137 | 81 | Blessedmama |
+| 137 | 81 | Jumpy Zonepiece |
 | 138 | 81 | Michelle Parker |
-| 139 | 81 | Jumpy Zonepiece |
+| 139 | 81 | Blessedmama |
 | 140 | 80 | Melissa Adams |
 | 141 | 80 | Chair |
 | 142 | 79 | Shainne Brewer |
@@ -153,8 +153,8 @@
 | 145 | 78 | Zesty Linkgrid |
 | 146 | 77 | Chris Alexinas |
 | 147 | 76 | Bethany Ison |
-| 148 | 75 | 🥔🥔 Spudz |
-| 149 | 75 | Rosemary Foster |
+| 148 | 75 | Rosemary Foster |
+| 149 | 75 | 🥔🥔 Spudz |
 | 150 | 74 | Krs |
 | 151 | 74 | Christina Black |
 | 152 | 74 | Melvin Baird |

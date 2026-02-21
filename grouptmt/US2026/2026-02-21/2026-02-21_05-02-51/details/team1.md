@@ -56,8 +56,8 @@
 | 48 | 192 | Mandyy Rae |
 | 49 | 191 | Giggly Builderline |
 | 50 | 191 | Jazzy Framezone |
-| 51 | 190 | Thorne Shumate |
-| 52 | 190 | Sweetts |
+| 51 | 190 | Sweetts |
+| 52 | 190 | Thorne Shumate |
 | 53 | 189 | Happy Basegrid |
 | 54 | 188 | Happy Snapbuild |
 | 55 | 185 | Karin Gillen |
@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Uhog SF |
-| 83 | 128 | Gary Gobin |
+| 82 | 128 | Gary Gobin |
+| 83 | 128 | Uhog SF |
 | 84 | 126 | Cece Ibarra |
 | 85 | 121 | Bouncy Grid |
 | 86 | 120 | Blaire Bruckoff |
@@ -100,10 +100,10 @@
 | 92 | 114 | Michael |
 | 93 | 113 | Evie Khalil |
 | 94 | 113 | Shiny Gridmatch |
-| 95 | 112 | Kristen Gideon |
+| 95 | 112 | Christina Graham |
 | 96 | 112 | Nicole Roseberry Weber |
-| 97 | 112 | Christina Graham |
-| 98 | 112 | Miguel Teixeira |
+| 97 | 112 | Miguel Teixeira |
+| 98 | 112 | Kristen Gideon |
 | 99 | 111 | Agustin Duarte Orozco |
 | 100 | 110 | Garcia Bailey |
 | 101 | 110 | Heidi Feurer |

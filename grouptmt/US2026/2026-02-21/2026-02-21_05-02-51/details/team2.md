@@ -134,8 +134,8 @@
 | 126 | 455 | Alicia Parrish |
 | 127 | 453 | Osun Anuket Esu |
 | 128 | 450 | Giggy Blocker |
-| 129 | 448 | Jojo Momma |
-| 130 | 448 | Nick Jensen |
+| 129 | 448 | Nick Jensen |
+| 130 | 448 | Jojo Momma |
 | 131 | 442 | Daphne Jordan |
 | 132 | 440 | BYM4L |
 | 133 | 431 | Slip |
@@ -372,14 +372,14 @@
 | 364 | 174 | Jason Garnatz |
 | 365 | 173 | kippykay |
 | 366 | 171 | Cappin You |
-| 367 | 170 | Darlene Bowman |
-| 368 | 170 | Dedra Steward |
+| 367 | 170 | Dedra Steward |
+| 368 | 170 | Darlene Bowman |
 | 369 | 170 | Kenya Felix |
 | 370 | 169 | Lively Catcher |
 | 371 | 169 | Eddie Perez |
 | 372 | 169 | Fi Ne |
-| 373 | 168 | Kati Russeau |
-| 374 | 168 | Robin |
+| 373 | 168 | Robin |
+| 374 | 168 | Kati Russeau |
 | 375 | 167 | Sabrena Yeisley |
 | 376 | 165 | Cathy Bitters |
 | 377 | 165 | Austin Wilson |
@@ -387,8 +387,8 @@
 | 379 | 164 | Sara Pennington |
 | 380 | 163 | Albert McKnight |
 | 381 | 163 | HarleyJane |
-| 382 | 162 | Elizabeth Pearson |
-| 383 | 162 | Brenna Ann |
+| 382 | 162 | Brenna Ann |
+| 383 | 162 | Elizabeth Pearson |
 | 384 | 162 | LC Hamilton |
 | 385 | 162 | Angie Bolton Workman |
 | 386 | 161 | Ashlyn Berner |
