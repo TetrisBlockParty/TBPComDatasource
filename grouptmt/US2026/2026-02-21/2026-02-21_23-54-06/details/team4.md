@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | Marie-Pier Desjardins |
-| 70 | 376 | quicksand420 |
+| 69 | 376 | quicksand420 |
+| 70 | 376 | Marie-Pier Desjardins |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -146,8 +146,8 @@
 | 138 | 185 | Andy Cabral |
 | 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Carter Jones |
-| 142 | 181 | Klo |
+| 141 | 181 | Klo |
+| 142 | 181 | Carter Jones |
 | 143 | 181 | Andria Lynn |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |

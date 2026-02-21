@@ -210,8 +210,8 @@
 | 202 | 659 | Poldo Ilano |
 | 203 | 658 | Erica Williams |
 | 204 | 654 | Mandi Douglas Hilt |
-| 205 | 651 | Unica Rector |
-| 206 | 651 | ShinyRose |
+| 205 | 651 | ShinyRose |
+| 206 | 651 | Unica Rector |
 | 207 | 651 | Roseanna Peloso |
 | 208 | 651 | Auntie B |
 | 209 | 650 | Shiny Rollzone |
@@ -230,8 +230,8 @@
 | 222 | 619 | Jamie Otero |
 | 223 | 618 | Gabby Jenner |
 | 224 | 612 | Brandon Armstrong |
-| 225 | 608 | goofinoff |
-| 226 | 608 | Sommer Shope |
+| 225 | 608 | Sommer Shope |
+| 226 | 608 | goofinoff |
 | 227 | 606 | Ellie Jonas |
 | 228 | 605 | Jelly |
 | 229 | 603 | Cassie Maynard |

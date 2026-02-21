@@ -130,8 +130,8 @@
 | 122 | 368 | Stephanie Woods |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
-| 125 | 355 | Tessina Dewey-Mancino |
-| 126 | 355 | Sherry Ogden |
+| 125 | 355 | Sherry Ogden |
+| 126 | 355 | Tessina Dewey-Mancino |
 | 127 | 348 | CeceGeGe |
 | 128 | 347 | Darlene McMillan |
 | 129 | 343 | Chasity |
@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Jacqueline Rodriguez |
-| 146 | 286 | Marci Mize Fandrich |
+| 145 | 286 | Marci Mize Fandrich |
+| 146 | 286 | Jacqueline Rodriguez |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
@@ -177,8 +177,8 @@
 | 169 | 243 | Cynthia Herrmann Egland |
 | 170 | 243 | Rochelle Hazelett |
 | 171 | 240 | Jimmie Clemons |
-| 172 | 237 | Rebecca Funderburk Kirby |
-| 173 | 237 | Brandon Givens |
+| 172 | 237 | Brandon Givens |
+| 173 | 237 | Rebecca Funderburk Kirby |
 | 174 | 236 | Fallorina Susana |
 | 175 | 233 | Ray Lader |
 | 176 | 231 | Nikki Pags |

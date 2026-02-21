@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Jaimie Lynn |
-| 120 | 212 | Mandyy Rae |
+| 119 | 212 | Mandyy Rae |
+| 120 | 212 | Jaimie Lynn |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
@@ -214,8 +214,8 @@
 | 206 | 131 | Uhog SF |
 | 207 | 130 | Gilbert Ortiz Jr. |
 | 208 | 129 | Larry Tilton |
-| 209 | 128 | lil mickey |
-| 210 | 128 | Brenda Alexander |
+| 209 | 128 | Brenda Alexander |
+| 210 | 128 | lil mickey |
 | 211 | 127 | Cheeky Pop |
 | 212 | 126 | Tami Luce Martin |
 | 213 | 122 | Melissa Lemmon |
