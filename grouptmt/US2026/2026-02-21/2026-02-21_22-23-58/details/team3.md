@@ -358,7 +358,7 @@
 | 350 | 113 | Boldy Blocker |
 | 351 | 112 | Tia Moore |
 | 352 | 111 | Leticia Lynn Lowe |
-| 353 | 111 | Stephanie Zahm |
+| 353 | 111 | Amber Groover Taylor |
 | 354 | 111 | Ava Petito |
 | 355 | 111 | Stephanie Zahm |
 | 356 | 110 | Danielle Weikel |
