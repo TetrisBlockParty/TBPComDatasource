@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -202,7 +202,7 @@
 | 194 | 81 | Nubian1 |
 | 195 | 80 | Melissa Adams |
 | 196 | 80 | Chaz Duncan |
-| 197 | 79 | Perky Piecegrid |
+| 197 | 79 | Kametsunoyaiba |
 | 198 | 79 | Joseph Pace |
 | 199 | 79 | Perky Piecegrid |
 | 200 | 78 | Jessica Miller |

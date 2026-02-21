@@ -248,8 +248,8 @@
 | 240 | 312 | Michelle Pike |
 | 241 | 311 | Véronique Lévesque Sabourin |
 | 242 | 311 | Dar |
-| 243 | 309 | Oscar Bernie |
-| 244 | 309 | Ginger |
+| 243 | 309 | Ginger |
+| 244 | 309 | Oscar Bernie |
 | 245 | 309 | James Zaragoza |
 | 246 | 306 | Kristopher Miller |
 | 247 | 305 | Libby Hicks |
@@ -319,8 +319,8 @@
 | 311 | 256 | Tee Jaleesa |
 | 312 | 256 | CC |
 | 313 | 255 | Santana Miyagi |
-| 314 | 254 | Rose Fx |
-| 315 | 254 | Elizabeth Diraffaele |
+| 314 | 254 | Elizabeth Diraffaele |
+| 315 | 254 | Rose Fx |
 | 316 | 254 | Julie Hamilton |
 | 317 | 253 | Tansaria Couch-Butler |
 | 318 | 252 | Matt Johnson |
@@ -333,8 +333,8 @@
 | 325 | 248 | Dany Murillo |
 | 326 | 248 | Maddy Petersen |
 | 327 | 248 | Bubbly Snapfit |
-| 328 | 247 | Andrea Devery Beck |
-| 329 | 247 | Fancy Twister |
+| 328 | 247 | Fancy Twister |
+| 329 | 247 | Andrea Devery Beck |
 | 330 | 246 | Kathryn Townsley |
 | 331 | 246 | Alyssia Tancredi |
 | 332 | 246 | Stephanie Lumanlan |
@@ -352,8 +352,8 @@
 | 344 | 240 | Angie Marie |
 | 345 | 239 | Roger Grabbit |
 | 346 | 238 | Cheery Matchzone |
-| 347 | 236 | Frisky Riserbuilder |
-| 348 | 236 | snkylnk |
+| 347 | 236 | snkylnk |
+| 348 | 236 | Frisky Riserbuilder |
 | 349 | 236 | Julio A Laracuente |
 | 350 | 236 | Niceday |
 | 351 | 235 | Kimberly Mitchell |

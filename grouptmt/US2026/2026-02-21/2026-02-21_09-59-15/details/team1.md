@@ -70,8 +70,8 @@
 | 62 | 198 | Happy Snapbuild |
 | 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Giggly Builderline |
-| 66 | 194 | Sharon Reynolds |
+| 65 | 194 | Sharon Reynolds |
+| 66 | 194 | Giggly Builderline |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 192 | Mandyy Rae |
 | 69 | 192 | Shaykmia |
@@ -90,8 +90,8 @@
 | 82 | 162 | Patrick Luckenbill |
 | 83 | 161 | Abbey Crespo |
 | 84 | 156 | Jessie Lynn |
-| 85 | 155 | Standia Civil |
-| 86 | 155 | David DeSantis |
+| 85 | 155 | David DeSantis |
+| 86 | 155 | Standia Civil |
 | 87 | 153 | Shiny Gridmatch |
 | 88 | 153 | Bhelle Sumile |
 | 89 | 152 | Jacqueline Unique |

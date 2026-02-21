@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Peggi Charon |
 | 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -162,8 +162,8 @@
 | 154 | 149 | Trisha Balmer |
 | 155 | 149 | Bea Miles |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Latoya Mayne |
-| 158 | 146 | Denita Mungro |
+| 157 | 146 | Denita Mungro |
+| 158 | 146 | Latoya Mayne |
 | 159 | 145 | Bryan Byrd |
 | 160 | 142 | Erica Anderson |
 | 161 | 140 | Gumbo |
@@ -221,8 +221,8 @@
 | 213 | 107 | Sherry Ogden |
 | 214 | 106 | Eon Harris |
 | 215 | 106 | Desiree Gold |
-| 216 | 105 | Carol Cain Thurman |
-| 217 | 105 | Emi |
+| 216 | 105 | Emi |
+| 217 | 105 | Carol Cain Thurman |
 | 218 | 104 | mommablock |
 | 219 | 104 | Samantha Lynn |
 | 220 | 104 | Ashley Rufus Bythcez |
