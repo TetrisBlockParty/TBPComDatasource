@@ -230,16 +230,16 @@
 | 222 | 619 | Jamie Otero |
 | 223 | 618 | Gabby Jenner |
 | 224 | 612 | Brandon Armstrong |
-| 225 | 608 | Sommer Shope |
-| 226 | 608 | goofinoff |
+| 225 | 608 | goofinoff |
+| 226 | 608 | Sommer Shope |
 | 227 | 606 | Ellie Jonas |
 | 228 | 605 | Jelly |
 | 229 | 603 | Cassie Maynard |
 | 230 | 589 | Thomas Hedrick |
 | 231 | 587 | Hyper Cluster |
 | 232 | 586 | Stephen Stephen |
-| 233 | 583 | Jessicah Myers |
-| 234 | 583 | Steve Grotto |
+| 233 | 583 | Steve Grotto |
+| 234 | 583 | Jessicah Myers |
 | 235 | 582 | Gary Stash |
 | 236 | 581 | Jánine Riggs |
 | 237 | 580 | Leslie Ann Carter |
@@ -388,11 +388,11 @@
 | 380 | 386 | Irene Jones |
 | 381 | 384 | Mike Aprilliano |
 | 382 | 383 | Arkei Luster |
-| 383 | 382 | KhaosLord |
-| 384 | 382 | David Holliday |
+| 383 | 382 | David Holliday |
+| 384 | 382 | KhaosLord |
 | 385 | 381 | Melissa Rebbe-Lehman |
-| 386 | 381 | Bubbly Snapfit |
-| 387 | 381 | Taylor Phillips |
+| 386 | 381 | Taylor Phillips |
+| 387 | 381 | Bubbly Snapfit |
 | 388 | 381 | Lee Harper |
 | 389 | 381 | Victoria Moore-Smith |
 | 390 | 378 | Cody Nishimura |
@@ -403,10 +403,10 @@
 | 395 | 377 | Angie Bolton Workman |
 | 396 | 374 | Gloria Ininahazwe |
 | 397 | 374 | Alexandra Weir |
-| 398 | 371 | Wuntayk |
-| 399 | 371 | Jaycee |
-| 400 | 371 | Brenda Messer |
-| 401 | 371 | AkaLefty |
+| 398 | 371 | Jaycee |
+| 399 | 371 | Wuntayk |
+| 400 | 371 | AkaLefty |
+| 401 | 371 | Brenda Messer |
 | 402 | 370 | Angela Lynn |
 | 403 | 369 | Tony Lea |
 | 404 | 369 | Tara Lynn Janes |
@@ -495,8 +495,8 @@
 | 487 | 314 | Amanda West |
 | 488 | 314 | James Zaragoza |
 | 489 | 313 | Natasha Edmonds |
-| 490 | 312 | Justin Hines |
-| 491 | 312 | Andrea Maher |
+| 490 | 312 | Andrea Maher |
+| 491 | 312 | Justin Hines |
 | 492 | 312 | Michelle Pike |
 | 493 | 311 | Mary Marie |
 | 494 | 311 | Kitybox |

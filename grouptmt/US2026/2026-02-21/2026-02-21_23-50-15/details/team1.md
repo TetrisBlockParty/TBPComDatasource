@@ -103,8 +103,8 @@
 | 95 | 273 | Happy Basegrid |
 | 96 | 272 | Sarah Roberts |
 | 97 | 271 | Bhelle Sumile |
-| 98 | 269 | Rachael |
-| 99 | 269 | Seante Bullock |
+| 98 | 269 | Seante Bullock |
+| 99 | 269 | Rachael |
 | 100 | 263 | Sharon Reynolds |
 | 101 | 262 | Dandy Basegrid |
 | 102 | 257 | Luciano Moreira |
@@ -124,20 +124,20 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Mandyy Rae |
-| 120 | 212 | Jaimie Lynn |
+| 119 | 212 | Jaimie Lynn |
+| 120 | 212 | Mandyy Rae |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
 | 124 | 204 | Ananda Mendez |
-| 125 | 203 | GATOR |
-| 126 | 203 | Giggly Builderline |
+| 125 | 203 | Giggly Builderline |
+| 126 | 203 | GATOR |
 | 127 | 201 | Spunky Piecebuilder |
 | 128 | 199 | Jennifer Hardman |
 | 129 | 198 | Happy Snapbuild |
 | 130 | 196 | Tanya Carpenter-Reynolds |
-| 131 | 194 | Ash Galvan |
-| 132 | 194 | Tyler Werts |
+| 131 | 194 | Tyler Werts |
+| 132 | 194 | Ash Galvan |
 | 133 | 193 | Lachelle Dillon |
 | 134 | 192 | Shaykmia |
 | 135 | 192 | Jessica Sheehan |
@@ -146,8 +146,8 @@
 | 138 | 190 | Thorne Shumate |
 | 139 | 188 | Sam Williams |
 | 140 | 187 | Snippy Wipebuilder |
-| 141 | 186 | Margo Wagner |
-| 142 | 186 | Jennifer Olewnik Soborowski |
+| 141 | 186 | Jennifer Olewnik Soborowski |
+| 142 | 186 | Margo Wagner |
 | 143 | 185 | Basment Living |
 | 144 | 180 | BigWeenie69 |
 | 145 | 180 | Erez Yosef |
@@ -155,8 +155,8 @@
 | 147 | 179 | Danielle Little-Daugherty |
 | 148 | 178 | Chad Atchley |
 | 149 | 178 | Shiny Gridmatch |
-| 150 | 177 | Irual Hctrab |
-| 151 | 177 | ParisandCory Champagne |
+| 150 | 177 | ParisandCory Champagne |
+| 151 | 177 | Irual Hctrab |
 | 152 | 175 | John Barron |
 | 153 | 171 | Greg Premoe |
 | 154 | 171 | femmefatale |
@@ -224,8 +224,8 @@
 | 216 | 120 | Alenoush Karimian |
 | 217 | 120 | Kimmie Kimms |
 | 218 | 119 | Desiree Deschaine Havee |
-| 219 | 119 | Tater |
-| 220 | 119 | Strig |
+| 219 | 119 | Strig |
+| 220 | 119 | Tater |
 | 221 | 118 | Jacob Shaddock |
 | 222 | 116 | MomMom |
 | 223 | 116 | Fresno Beotoni |

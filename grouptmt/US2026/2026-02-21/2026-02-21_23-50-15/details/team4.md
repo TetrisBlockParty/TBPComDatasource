@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | quicksand420 |
-| 70 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | quicksand420 |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -139,8 +139,8 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Calvin Dennis |
-| 135 | 189 | Stacey Stano |
+| 134 | 189 | Stacey Stano |
+| 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Andy Cabral |
@@ -162,8 +162,8 @@
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
-| 157 | 153 | Chair |
-| 158 | 153 | Empress Oasis |
+| 157 | 153 | Empress Oasis |
+| 158 | 153 | Chair |
 | 159 | 153 | Avy Absol |
 | 160 | 152 | Mary Ann Pabukis |
 | 161 | 151 | Bethany Ison |
@@ -394,8 +394,8 @@
 | 386 | 69 | Frisky Column |
 | 387 | 69 | Tina Connick |
 | 388 | 69 | Meli  Jackson |
-| 389 | 69 | Tammy Lewis |
-| 390 | 69 | Jobadia Steelerton |
+| 389 | 69 | Jobadia Steelerton |
+| 390 | 69 | Tammy Lewis |
 | 391 | 68 | Kelly Duncan |
 | 392 | 68 | Gia Mims |
 | 393 | 68 | Jen Mattei |
