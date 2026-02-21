@@ -148,8 +148,8 @@
 | 140 | 128 | Rio Rocha |
 | 141 | 128 | Stephme310 |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | TinyLegoRose |
-| 144 | 126 | Dihcheese444 |
+| 143 | 126 | Dihcheese444 |
+| 144 | 126 | TinyLegoRose |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Cherrish Duren |

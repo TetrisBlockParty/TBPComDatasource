@@ -88,8 +88,8 @@
 | 80 | 201 | Ananda Mendez |
 | 81 | 201 | Anaid Sanchez |
 | 82 | 200 | Giggly Builderline |
-| 83 | 198 | Brandi Huntington |
-| 84 | 198 | Happy Snapbuild |
+| 83 | 198 | Happy Snapbuild |
+| 84 | 198 | Brandi Huntington |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
@@ -111,10 +111,10 @@
 | 103 | 171 | Greg Premoe |
 | 104 | 171 | David DeSantis |
 | 105 | 169 | Abbey Crespo |
-| 106 | 166 | Rico Rico |
-| 107 | 166 | Tana |
-| 108 | 165 | Veronica Eve |
-| 109 | 165 | GATOR |
+| 106 | 166 | Tana |
+| 107 | 166 | Rico Rico |
+| 108 | 165 | GATOR |
+| 109 | 165 | Veronica Eve |
 | 110 | 163 | Tyler Whitley |
 | 111 | 163 | Standia Civil |
 | 112 | 158 | Tanya Carpenter-Reynolds |
@@ -123,8 +123,8 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Jennifer ManWarren |
-| 119 | 149 | Arianna O'Brien |
+| 118 | 149 | Arianna O'Brien |
+| 119 | 149 | Jennifer ManWarren |
 | 120 | 148 | Shauntina Burke |
 | 121 | 146 | Dandy Basegrid |
 | 122 | 146 | Irual Hctrab |

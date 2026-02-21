@@ -265,8 +265,8 @@
 | 257 | 391 | Qiana Sanders |
 | 258 | 390 | Kimberly Randesi |
 | 259 | 386 | Macy Williams |
-| 260 | 385 | Sam |
-| 261 | 385 | Skyler Morgan |
+| 260 | 385 | Skyler Morgan |
+| 261 | 385 | Sam |
 | 262 | 383 | Arkei Luster |
 | 263 | 382 | David Holliday |
 | 264 | 379 | Jánine Riggs |
@@ -416,22 +416,22 @@
 | 408 | 261 | MrsClaudette Will'sIam Matthews |
 | 409 | 260 | Santana Miyagi |
 | 410 | 259 | Kathryn Townsley |
-| 411 | 257 | Anthony Mignacca |
-| 412 | 257 | Jackie Jackie Lee |
-| 413 | 256 | Tee Jaleesa |
-| 414 | 256 | Alishac Marie |
-| 415 | 254 | Julie Hamilton |
-| 416 | 254 | Rose Fx |
+| 411 | 257 | Jackie Jackie Lee |
+| 412 | 257 | Anthony Mignacca |
+| 413 | 256 | Alishac Marie |
+| 414 | 256 | Tee Jaleesa |
+| 415 | 254 | Ann Knutson Anderson |
+| 416 | 254 | Julie Hamilton |
 | 417 | 254 | Elizabeth Diraffaele |
-| 418 | 254 | Ann Knutson Anderson |
-| 419 | 253 | Kimmy Newman |
-| 420 | 253 | Tansaria Couch-Butler |
-| 421 | 253 | Luna |
-| 422 | 252 | Aleasha M Brown |
+| 418 | 254 | Rose Fx |
+| 419 | 253 | Luna |
+| 420 | 253 | Kimmy Newman |
+| 421 | 253 | Tansaria Couch-Butler |
+| 422 | 252 | Matt Johnson |
 | 423 | 252 | Alyssia Tancredi |
-| 424 | 252 | Matt Johnson |
-| 425 | 250 | Danielle DeLozier Plesec |
-| 426 | 250 | Steve Man |
+| 424 | 252 | Aleasha M Brown |
+| 425 | 250 | Steve Man |
+| 426 | 250 | Danielle DeLozier Plesec |
 | 427 | 249 | Porsche' Nicole |
 | 428 | 249 | Nicky Jackson |
 | 429 | 248 | Aimee Byrom |
@@ -476,9 +476,9 @@
 | 468 | 229 | Tonya Lee |
 | 469 | 228 | Michelle Sager |
 | 470 | 227 | Myleaha Holley |
-| 471 | 226 | Morgan Easter |
-| 472 | 226 | Christina Wsn |
-| 473 | 226 | Juliana Marques Do Nascimento Gordy |
+| 471 | 226 | Christina Wsn |
+| 472 | 226 | Juliana Marques Do Nascimento Gordy |
+| 473 | 226 | Morgan Easter |
 | 474 | 226 | Jodi Mitnick |
 | 475 | 225 | Breezy Tilt |
 | 476 | 224 | Besma Ao |
@@ -487,8 +487,8 @@
 | 479 | 223 | Jess Morrison |
 | 480 | 223 | Laura Wyatt |
 | 481 | 223 | Kristi Biddinger |
-| 482 | 222 | Amanda Canterbury |
-| 483 | 222 | Jason Garnatz |
+| 482 | 222 | Jason Garnatz |
+| 483 | 222 | Amanda Canterbury |
 | 484 | 221 | Michelle Lee |
 | 485 | 220 | Katrina Weston |
 | 486 | 220 | Sho Nuff |
@@ -544,15 +544,15 @@
 | 536 | 196 | Tony Lea |
 | 537 | 196 | Zak Dunn |
 | 538 | 196 | Alexandra Reese |
-| 539 | 195 | Snappy Shatterfit |
-| 540 | 195 | Synn |
+| 539 | 195 | Synn |
+| 540 | 195 | Snappy Shatterfit |
 | 541 | 195 | Darcy Mae |
 | 542 | 195 | Darlene Bowman |
 | 543 | 194 | Hoppy Brickmatch |
 | 544 | 193 | Kelly Ann McCormick |
 | 545 | 192 | Leroy Jenkins |
-| 546 | 192 | Michael Artis |
-| 547 | 192 | Beth Decker |
+| 546 | 192 | Beth Decker |
+| 547 | 192 | Michael Artis |
 | 548 | 190 | Jessica Kaye DeAguero |
 | 549 | 190 | Jackie Lucas |
 | 550 | 189 | Nate Skidmore |
