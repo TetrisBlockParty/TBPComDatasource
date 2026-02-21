@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3375 | Cassie Donica |
 | 6 | 3323 | Sean Dugar |
@@ -152,8 +152,8 @@
 | 144 | 394 | Tammy Allen |
 | 145 | 394 | Poppy Snapper |
 | 146 | 391 | Chilly Bridgepiece |
-| 147 | 386 | Ashie Ann |
-| 148 | 386 | Jumpy Gridpiece |
+| 147 | 386 | Jumpy Gridpiece |
+| 148 | 386 | Ashie Ann |
 | 149 | 385 | Sam |
 | 150 | 381 | Amanda Ferrell |
 | 151 | 380 | Joshua Mandel |
@@ -172,8 +172,8 @@
 | 164 | 350 | Kimberly Randesi |
 | 165 | 348 | Richard Horton |
 | 166 | 348 | Cherica Taylor |
-| 167 | 345 | Brenda Messer |
-| 168 | 345 | Alyssaaelena |
+| 167 | 345 | Alyssaaelena |
+| 168 | 345 | Brenda Messer |
 | 169 | 345 | Wuntayk |
 | 170 | 345 | Rhianna DiLorenzo |
 | 171 | 344 | Christina Lewis-Vickers |
