@@ -83,8 +83,8 @@
 | 75 | 193 | Clever Shiftsnap |
 | 76 | 193 | Shunta Jacobs |
 | 77 | 192 | Jimmie Clemons |
-| 78 | 187 | Cherry Parker |
-| 79 | 187 | Speedy Bridger |
+| 78 | 187 | Speedy Bridger |
+| 79 | 187 | Cherry Parker |
 | 80 | 185 | Danielle Cutler |
 | 81 | 184 | Jennie Beranek |
 | 82 | 180 | Tessina Dewey-Mancino |
@@ -175,8 +175,8 @@
 | 167 | 88 | Brandon Givens |
 | 168 | 88 | Martin Bernier |
 | 169 | 87 | Khaleada McGill Banks |
-| 170 | 85 | Kevin Russell |
-| 171 | 85 | Chris Bell |
+| 170 | 85 | Chris Bell |
+| 171 | 85 | Kevin Russell |
 | 172 | 84 | Ava Petito |
 | 173 | 84 | Flashy Rumbler |
 | 174 | 84 | Amanda L Baker |
@@ -184,8 +184,8 @@
 | 176 | 82 | Clever Clearbuilder |
 | 177 | 81 | Tina Baurdau |
 | 178 | 80 | Vixen Queen |
-| 179 | 79 | Stephanie Whitefield |
-| 180 | 79 | Jessie Chung |
+| 179 | 79 | Jessie Chung |
+| 180 | 79 | Stephanie Whitefield |
 | 181 | 79 | gremicx |
 | 182 | 78 | Karon Griffin |
 | 183 | 78 | Clever Patterner |

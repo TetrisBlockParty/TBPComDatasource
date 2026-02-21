@@ -43,8 +43,8 @@
 | 35 | 195 | Ananda Mendez |
 | 36 | 194 | Sharon Reynolds |
 | 37 | 192 | Mandyy Rae |
-| 38 | 190 | Thorne Shumate |
-| 39 | 190 | Sweetts |
+| 38 | 190 | Sweetts |
+| 39 | 190 | Thorne Shumate |
 | 40 | 189 | Happy Basegrid |
 | 41 | 187 | Dee Perry |
 | 42 | 185 | Karin Gillen |
