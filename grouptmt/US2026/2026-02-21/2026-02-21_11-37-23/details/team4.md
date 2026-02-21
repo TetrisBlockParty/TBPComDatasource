@@ -69,8 +69,8 @@
 | 61 | 207 | Alyssa Papen |
 | 62 | 205 | Sarah Neathery |
 | 63 | 204 | Brittney Orengo |
-| 64 | 198 | Lori Walker |
-| 65 | 198 | Mike Solo |
+| 64 | 198 | Mike Solo |
+| 65 | 198 | Lori Walker |
 | 66 | 197 | Autum Leigh |
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
@@ -104,9 +104,9 @@
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Jessica Bohlken |
+| 99 | 134 | Serena Goodridge |
 | 100 | 134 | Chirpy Basepiece |
-| 101 | 134 | Serena Goodridge |
+| 101 | 134 | Jessica Bohlken |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Melissa Priest Sellers |
 | 104 | 132 | Jessica Cagle |
@@ -153,8 +153,8 @@
 | 145 | 105 | TheNeesh50 |
 | 146 | 105 | 🥔🥔 Spudz |
 | 147 | 104 | Damn Libra |
-| 148 | 102 | ĥuf |
-| 149 | 102 | Faja |
+| 148 | 102 | Faja |
+| 149 | 102 | ĥuf |
 | 150 | 101 | Saulc1991 |
 | 151 | 101 | Michelle Morris |
 | 152 | 100 | Alexandra Karavias |
@@ -174,7 +174,7 @@
 | 166 | 94 | Chastity Mitchell |
 | 167 | 94 | DonMega |
 | 168 | 93 | Zesty Twistbuilder |
-| 169 | 90 | No Strings Attached Ra |
+| 169 | 90 | Judy Cox |
 | 170 | 90 | Amy Suckarieh |
 | 171 | 90 | No Strings Attached Ra |
 | 172 | 89 | mike |

@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Mandyy Rae |
 | 60 | 208 | Carrie Beck Geartz |
@@ -95,8 +95,8 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | Standia Civil |
-| 91 | 155 | David DeSantis |
+| 90 | 155 | David DeSantis |
+| 91 | 155 | Standia Civil |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
 | 94 | 149 | Tana |
@@ -104,9 +104,9 @@
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
-| 99 | 144 | Plucky Ziggy |
-| 100 | 144 | Tanya Carpenter-Reynolds |
-| 101 | 144 | femmefatale |
+| 99 | 144 | Tanya Carpenter-Reynolds |
+| 100 | 144 | femmefatale |
+| 101 | 144 | Plucky Ziggy |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
 | 104 | 140 | Redlicious 1 |
@@ -130,7 +130,7 @@
 | 122 | 120 | Kimmie Kimms |
 | 123 | 119 | Tater |
 | 124 | 119 | April Carroll |
-| 125 | 119 | Tater |
+| 125 | 119 | Irual Hctrab |
 | 126 | 118 | Barry Mac'Ockner |
 | 127 | 116 | Evie Khalil |
 | 128 | 115 | Mrs.Patrica |
@@ -146,9 +146,9 @@
 | 138 | 110 | Garcia Bailey |
 | 139 | 108 | Tavia |
 | 140 | 107 | Jodee Woods |
-| 141 | 106 | Ash Galvan |
-| 142 | 106 | Aimee Horton |
-| 143 | 106 | Bloknboy |
+| 141 | 106 | Aimee Horton |
+| 142 | 106 | Bloknboy |
+| 143 | 106 | Ash Galvan |
 | 144 | 105 | Ty Brown |
 | 145 | 104 | Charla Pross-Fugleberg |
 | 146 | 104 | Bindi |

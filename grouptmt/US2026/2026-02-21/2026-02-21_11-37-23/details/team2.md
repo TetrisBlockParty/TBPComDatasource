@@ -225,8 +225,8 @@
 | 217 | 357 | Shannon Byrd |
 | 218 | 356 | Deyawn Smith |
 | 219 | 356 | Shameika Trail |
-| 220 | 354 | Brave Dropmatch |
-| 221 | 354 | Tracy Wise |
+| 220 | 354 | Tracy Wise |
+| 221 | 354 | Brave Dropmatch |
 | 222 | 353 | Joseph Musick |
 | 223 | 352 | ruth |
 | 224 | 350 | Chris Harr |
@@ -409,8 +409,8 @@
 | 401 | 209 | Jerry Tempelmeyer |
 | 402 | 208 | Nancy Pohlman |
 | 403 | 208 | Mema |
-| 404 | 207 | Melissa McCall |
-| 405 | 207 | Brave Gridpiece |
+| 404 | 207 | Brave Gridpiece |
+| 405 | 207 | Melissa McCall |
 | 406 | 207 | Shylee Tilman |
 | 407 | 206 | RAEPR05 |
 | 408 | 206 | Neko Preston |
@@ -477,8 +477,8 @@
 | 469 | 177 | John |
 | 470 | 177 | Angel |
 | 471 | 176 | Catina Hutchison |
-| 472 | 176 | Jennifer Malloy - Cardy |
-| 473 | 176 | Stacy Harper |
+| 472 | 176 | Stacy Harper |
+| 473 | 176 | Jennifer Malloy - Cardy |
 | 474 | 176 | Trisha Gallagher |
 | 475 | 175 | Snippy Rumbler |
 | 476 | 175 | Tina Blessed Cage |

@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -146,8 +146,8 @@
 | 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
-| 141 | 163 | Karon Griffin |
-| 142 | 163 | Raven Dudley |
+| 141 | 163 | Raven Dudley |
+| 142 | 163 | Karon Griffin |
 | 143 | 162 | Rebel124 |
 | 144 | 159 | Mcathen |
 | 145 | 159 | Morgan Martinez |
@@ -158,8 +158,8 @@
 | 150 | 156 | Joey Banks |
 | 151 | 155 | BŘŰŤİÇŨŚ |
 | 152 | 154 | Angela M. Fletcher |
-| 153 | 153 | Beth Ingham |
-| 154 | 153 | Stephanie Whitefield |
+| 153 | 153 | Stephanie Whitefield |
+| 154 | 153 | Beth Ingham |
 | 155 | 152 | Shiny Zonebuilder |
 | 156 | 151 | MsBee |
 | 157 | 150 | Nicole Myers |
@@ -213,8 +213,8 @@
 | 205 | 115 | Daring Builder |
 | 206 | 115 | Jennifer Alvey |
 | 207 | 114 | Jessica Bechler |
-| 208 | 113 | Brian Battjes |
-| 209 | 113 | Valerie Gendron |
+| 208 | 113 | Valerie Gendron |
+| 209 | 113 | Brian Battjes |
 | 210 | 111 | Stephanie Zahm |
 | 211 | 110 | Danielle Weikel |
 | 212 | 110 | Stella |
