@@ -69,8 +69,8 @@
 | 61 | 169 | Erez Yosef |
 | 62 | 163 | Chad Atchley |
 | 63 | 161 | Abbey Crespo |
-| 64 | 155 | Standia Civil |
-| 65 | 155 | David DeSantis |
+| 64 | 155 | David DeSantis |
+| 65 | 155 | Standia Civil |
 | 66 | 153 | Shiny Gridmatch |
 | 67 | 152 | Jacqueline Unique |
 | 68 | 150 | Rico Rico |
@@ -83,8 +83,8 @@
 | 75 | 144 | femmefatale |
 | 76 | 144 | Plucky Ziggy |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Blaire Bruckoff |
-| 79 | 141 | Susanna Guerry |
+| 78 | 141 | Susanna Guerry |
+| 79 | 141 | Blaire Bruckoff |
 | 80 | 137 | Nadine Velardo |
 | 81 | 133 | Brandi Huntington |
 | 82 | 132 | Davery Spencer Adair |
@@ -94,8 +94,8 @@
 | 86 | 128 | Uhog SF |
 | 87 | 126 | Cece Ibarra |
 | 88 | 121 | Bouncy Grid |
-| 89 | 119 | Irual Hctrab |
-| 90 | 119 | Tater |
+| 89 | 119 | Tater |
+| 90 | 119 | Irual Hctrab |
 | 91 | 115 | comrade fish |
 | 92 | 114 | Colleen Wise |
 | 93 | 114 | Giddy Cascade |
@@ -116,14 +116,14 @@
 | 108 | 104 | Bhelle Sumile |
 | 109 | 103 | Adryane Schnase |
 | 110 | 102 | Jennifer ManWarren |
-| 111 | 99 | Melissa Bires Hussar |
+| 111 | 99 | Aimee Horton |
 | 112 | 99 | Ty Brown |
 | 113 | 99 | Melissa Bires Hussar |
 | 114 | 96 | Nery Martinez |
 | 115 | 96 | Melissa Lemmon |
 | 116 | 95 | Spunky Piecebuilder |
-| 117 | 94 | Bindi |
-| 118 | 94 | Luciano Moreira |
+| 117 | 94 | Luciano Moreira |
+| 118 | 94 | Bindi |
 | 119 | 93 | Loony Fitzone |
 | 120 | 92 | Jennifer Olewnik Soborowski |
 | 121 | 92 | Jessica Russell |
@@ -152,8 +152,8 @@
 | 144 | 80 | Brandi Egbert |
 | 145 | 80 | Larry Tilton |
 | 146 | 79 | Chris65 |
-| 147 | 79 | LD1 |
-| 148 | 79 | Tyler Whitley |
+| 147 | 79 | Tyler Whitley |
+| 148 | 79 | LD1 |
 | 149 | 78 | Sam Williams |
 | 150 | 77 | Teddy Alexander |
 | 151 | 77 | Kellie |

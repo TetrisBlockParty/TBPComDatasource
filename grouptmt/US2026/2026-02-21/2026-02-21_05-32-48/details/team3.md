@@ -35,12 +35,12 @@
 | 27 | 613 | Amber Hughes |
 | 28 | 608 | River |
 | 29 | 598 | Jennifer Willis |
-| 30 | 587 | Danielle Becker |
-| 31 | 587 | Suzieq |
+| 30 | 587 | Suzieq |
+| 31 | 587 | Danielle Becker |
 | 32 | 568 | Shonna Roberts |
 | 33 | 553 | Clever Roll |
-| 34 | 546 | Dolores Falco |
-| 35 | 546 | Snappy Glidepiece |
+| 34 | 546 | Snappy Glidepiece |
+| 35 | 546 | Dolores Falco |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |
@@ -89,8 +89,8 @@
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
 | 83 | 218 | Danielle Cutler |
-| 84 | 218 | mjl574 |
-| 85 | 218 | Judi Dobson |
+| 84 | 218 | Judi Dobson |
+| 85 | 218 | mjl574 |
 | 86 | 214 | Amy Fuller Heaton |
 | 87 | 207 | rnr junky |
 | 88 | 206 | Stephanie Blkpep Davidson |

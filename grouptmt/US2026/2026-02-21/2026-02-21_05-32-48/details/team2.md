@@ -138,8 +138,8 @@
 | 130 | 455 | Alicia Parrish |
 | 131 | 453 | Osun Anuket Esu |
 | 132 | 450 | Giggy Blocker |
-| 133 | 448 | Nick Jensen |
-| 134 | 448 | Jojo Momma |
+| 133 | 448 | Jojo Momma |
+| 134 | 448 | Nick Jensen |
 | 135 | 442 | Daphne Jordan |
 | 136 | 440 | BYM4L |
 | 137 | 431 | Slip |
@@ -154,13 +154,13 @@
 | 146 | 411 | Ricky Fortune |
 | 147 | 409 | Sparkles |
 | 148 | 401 | Poppy Snap |
-| 149 | 400 | Crystie Hicks |
-| 150 | 400 | Tammy Allen |
+| 149 | 400 | Tammy Allen |
+| 150 | 400 | Crystie Hicks |
 | 151 | 397 | Ashley Guernsey-Martin |
-| 152 | 391 | Steven Marshaun |
-| 153 | 391 | Chilly Bridgepiece |
-| 154 | 386 | Ashie Ann |
-| 155 | 386 | Jumpy Gridpiece |
+| 152 | 391 | Chilly Bridgepiece |
+| 153 | 391 | Steven Marshaun |
+| 154 | 386 | Jumpy Gridpiece |
+| 155 | 386 | Ashie Ann |
 | 156 | 385 | Sam |
 | 157 | 381 | Amanda Ferrell |
 | 158 | 380 | Calandra Shaya Robinson |
@@ -291,8 +291,8 @@
 | 283 | 237 | Altamirano Michael |
 | 284 | 236 | Frisky Riserbuilder |
 | 285 | 235 | Kimberly Mitchell |
-| 286 | 233 | Robin Kerby |
-| 287 | 233 | Alyssia Tancredi |
+| 286 | 233 | Alyssia Tancredi |
+| 287 | 233 | Robin Kerby |
 | 288 | 232 | Amber Brion |
 | 289 | 232 | Maddy Petersen |
 | 290 | 231 | Dylan Thomason |
@@ -403,10 +403,10 @@
 | 395 | 165 | Ashlyn Berner |
 | 396 | 164 | Sara Pennington |
 | 397 | 164 | Jessica Vega |
-| 398 | 163 | Danielle Ayoub |
-| 399 | 163 | HarleyJane |
-| 400 | 163 | Albert McKnight |
-| 401 | 163 | Kelly Ann McCormick |
+| 398 | 163 | HarleyJane |
+| 399 | 163 | Danielle Ayoub |
+| 400 | 163 | Kelly Ann McCormick |
+| 401 | 163 | Albert McKnight |
 | 402 | 162 | LC Hamilton |
 | 403 | 162 | Elizabeth Pearson |
 | 404 | 162 | Brenna Ann |
@@ -455,9 +455,9 @@
 | 447 | 151 | D'Aaron Black |
 | 448 | 150 | Candace Noel |
 | 449 | 150 | Jodi Mitnick |
-| 450 | 149 | Boldy Cascadepiece |
-| 451 | 149 | JacJac |
-| 452 | 149 | Leslie Porter |
+| 450 | 149 | JacJac |
+| 451 | 149 | Leslie Porter |
+| 452 | 149 | Boldy Cascadepiece |
 | 453 | 149 | Melissa Rebbe-Lehman |
 | 454 | 148 | Shannon Byrd |
 | 455 | 148 | Angelina Marie |
