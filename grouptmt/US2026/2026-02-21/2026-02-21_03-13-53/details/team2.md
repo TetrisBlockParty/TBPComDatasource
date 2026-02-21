@@ -70,11 +70,11 @@
 | 62 | 674 | Dannette Goldberg-Richards |
 | 63 | 672 | Wendy Harder Gage |
 | 64 | 664 | E_Money04 |
-| 65 | 658 | Pacynthia Williams |
-| 66 | 658 | Dreamy Blast |
-| 67 | 658 | Vistabrat |
-| 68 | 649 | Stephanie Chapman |
-| 69 | 649 | Anna Edwards |
+| 65 | 658 | Dreamy Blast |
+| 66 | 658 | Vistabrat |
+| 67 | 658 | Pacynthia Williams |
+| 68 | 649 | Anna Edwards |
+| 69 | 649 | Stephanie Chapman |
 | 70 | 627 | RdRydnHd |
 | 71 | 609 | Kyle Saunders |
 | 72 | 608 | John Bednarik |
@@ -324,8 +324,8 @@
 | 316 | 167 | August Hale |
 | 317 | 167 | Dedra Steward |
 | 318 | 165 | Cathy Bitters |
-| 319 | 164 | kippykay |
-| 320 | 164 | Jamie Stevey |
+| 319 | 164 | Jamie Stevey |
+| 320 | 164 | kippykay |
 | 321 | 163 | Austin Wilson |
 | 322 | 163 | Albert McKnight |
 | 323 | 163 | Taren Cowan |

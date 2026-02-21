@@ -133,8 +133,8 @@
 | 125 | 114 | Jessica Bechler |
 | 126 | 114 | Joy Petroski |
 | 127 | 112 | Boldy Corner |
-| 128 | 110 | Tiff Vs Tiffany |
-| 129 | 110 | Stella |
+| 128 | 110 | Stella |
+| 129 | 110 | Tiff Vs Tiffany |
 | 130 | 109 | Brian Battjes |
 | 131 | 109 | Chauntee Alfrey-Cardinale |
 | 132 | 109 | Fredd Thomas |
@@ -183,8 +183,8 @@
 | 175 | 86 | Josiah Fam |
 | 176 | 86 | Stephanie Blkpep Davidson |
 | 177 | 85 | Sashay Tapae Simpson |
-| 178 | 85 | Kevin Russell |
-| 179 | 85 | Chris Bell |
+| 178 | 85 | Chris Bell |
+| 179 | 85 | Kevin Russell |
 | 180 | 84 | Ava Petito |
 | 181 | 84 | Flashy Rumbler |
 | 182 | 84 | Amanda L Baker |
@@ -270,7 +270,7 @@
 | 262 | 60 | Ashley Rufus Bythcez |
 | 263 | 60 | Rainbow77375 |
 | 264 | 58 | Erzulie |
-| 265 | 58 | David Kozen |
+| 265 | 58 | Peachy Rollfit |
 | 266 | 58 | Beth Ingham |
 | 267 | 58 | Mandie Alexandra Adones |
 | 268 | 58 | David Kozen |

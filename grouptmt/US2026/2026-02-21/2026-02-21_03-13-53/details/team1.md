@@ -91,8 +91,8 @@
 | 83 | 108 | comrade fish |
 | 84 | 108 | Tavia |
 | 85 | 107 | Jodee Woods |
-| 86 | 105 | Barry Mac'Ockner |
-| 87 | 105 | Flashy Rotator |
+| 86 | 105 | Flashy Rotator |
+| 87 | 105 | Barry Mac'Ockner |
 | 88 | 101 | Blaire Bruckoff |
 | 89 | 100 | Ash Galvan |
 | 90 | 99 | Ty Brown |
