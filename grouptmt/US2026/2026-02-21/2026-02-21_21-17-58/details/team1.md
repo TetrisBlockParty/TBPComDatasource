@@ -95,8 +95,8 @@
 | 87 | 272 | Sarah Roberts |
 | 88 | 270 | Jennifer ManWarren |
 | 89 | 266 | Bhelle Sumile |
-| 90 | 258 | Kellie |
-| 91 | 258 | Dandy Basegrid |
+| 90 | 258 | Dandy Basegrid |
+| 91 | 258 | Kellie |
 | 92 | 254 | Rachael |
 | 93 | 252 | Dena Kayy |
 | 94 | 251 | june october |
@@ -182,14 +182,14 @@
 | 174 | 138 | Cranky Pattern |
 | 175 | 138 | Death |
 | 176 | 137 | Cody Gates |
-| 177 | 136 | Dino |
-| 178 | 136 | Breanna Luna |
+| 177 | 136 | Breanna Luna |
+| 178 | 136 | Dino |
 | 179 | 135 | Giddy Cascade |
 | 180 | 135 | Guest |
 | 181 | 134 | Brave Wrecker |
 | 182 | 134 | Witty Builderfit |
-| 183 | 132 | Mel Hogan |
-| 184 | 132 | Tipsy Riseclear |
+| 183 | 132 | Tipsy Riseclear |
+| 184 | 132 | Mel Hogan |
 | 185 | 131 | Kimberly Garcia |
 | 186 | 131 | Uhog SF |
 | 187 | 130 | Gilbert Ortiz Jr. |
@@ -201,8 +201,8 @@
 | 193 | 125 | Fmp |
 | 194 | 125 | Larry Tilton |
 | 195 | 124 | Cartier |
-| 196 | 122 | Margo Wagner |
-| 197 | 122 | Melissa Lemmon |
+| 196 | 122 | Melissa Lemmon |
+| 197 | 122 | Margo Wagner |
 | 198 | 121 | Mark Smith |
 | 199 | 120 | Kimmie Kimms |
 | 200 | 120 | Alenoush Karimian |
@@ -260,8 +260,8 @@
 | 252 | 98 | Howdi Duty |
 | 253 | 98 | DoodleBug |
 | 254 | 97 | Jessica Rabon |
-| 255 | 97 | Teddy Alexander |
-| 256 | 97 | Steve Bomkamp |
+| 255 | 97 | Steve Bomkamp |
+| 256 | 97 | Teddy Alexander |
 | 257 | 96 | Nutty Spinblock |
 | 258 | 96 | Sarah Henniker |
 | 259 | 95 | Jeanna Dunn |

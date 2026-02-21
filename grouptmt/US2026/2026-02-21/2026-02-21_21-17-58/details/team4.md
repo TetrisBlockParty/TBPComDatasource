@@ -143,11 +143,11 @@
 | 135 | 173 | blockstar |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
-| 138 | 164 | 030Synner |
-| 139 | 164 | ThaEviLJeNiuZ |
+| 138 | 164 | ThaEviLJeNiuZ |
+| 139 | 164 | 030Synner |
 | 140 | 160 | ZeeZee |
-| 141 | 156 | Jessica Bohlken |
-| 142 | 156 | Holly |
+| 141 | 156 | Holly |
+| 142 | 156 | Jessica Bohlken |
 | 143 | 153 | Empress Oasis |
 | 144 | 151 | Avy Absol |
 | 145 | 151 | Bethany Ison |
@@ -164,8 +164,8 @@
 | 156 | 141 | ĥuf |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | Shannon Ferrari |
-| 160 | 140 | John Brunetti |
+| 159 | 140 | John Brunetti |
+| 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Serena Goodridge |
 | 163 | 136 | Sarah Brown |
@@ -208,8 +208,8 @@
 | 200 | 120 | KayM |
 | 201 | 120 | Joshua Guess |
 | 202 | 119 | Kristin Manee |
-| 203 | 119 | Judy Cox |
-| 204 | 119 | Gwendolyn Pitcairn |
+| 203 | 119 | Gwendolyn Pitcairn |
+| 204 | 119 | Judy Cox |
 | 205 | 118 | Chris Bernstein |
 | 206 | 118 | Mary Ann Pabukis |
 | 207 | 116 | Adam Stephanie Parker |
@@ -249,8 +249,8 @@
 | 241 | 101 | Zesty Linkgrid |
 | 242 | 101 | Zach Kerbs |
 | 243 | 100 | Jacob Richard |
-| 244 | 100 | Maureen Flanigan |
-| 245 | 100 | Alexandra Karavias |
+| 244 | 100 | Alexandra Karavias |
+| 245 | 100 | Maureen Flanigan |
 | 246 | 99 | Michael Orris |
 | 247 | 98 | Sam Bishop |
 | 248 | 98 | Bradley Reeves |
