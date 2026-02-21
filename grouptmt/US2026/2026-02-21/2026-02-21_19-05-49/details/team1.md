@@ -110,9 +110,9 @@
 | 102 | 193 | Lachelle Dillon |
 | 103 | 192 | Shaykmia |
 | 104 | 191 | Diane Byrd |
-| 105 | 190 | Thorne Shumate |
-| 106 | 190 | Sweetts |
-| 107 | 190 | Gracie |
+| 105 | 190 | Gracie |
+| 106 | 190 | Thorne Shumate |
+| 107 | 190 | Sweetts |
 | 108 | 189 | Happy Basegrid |
 | 109 | 188 | Sam Williams |
 | 110 | 187 | Snippy Wipebuilder |
@@ -194,8 +194,8 @@
 | 186 | 120 | Kimmie Kimms |
 | 187 | 119 | Tater |
 | 188 | 116 | Jessica Russell |
-| 189 | 115 | Chuck Gannon |
-| 190 | 115 | Mrs.Patrica |
+| 189 | 115 | Mrs.Patrica |
+| 190 | 115 | Chuck Gannon |
 | 191 | 114 | Tinah Montanna |
 | 192 | 113 | Desiree Deschaine Havee |
 | 193 | 112 | Chris65 |

@@ -198,8 +198,8 @@
 | 190 | 541 | SaraMarie Eveland |
 | 191 | 541 | Giggy Blocker |
 | 192 | 535 | Jessie McDougald |
-| 193 | 534 | Teresa Gillmore |
-| 194 | 534 | Stephen Stephen |
+| 193 | 534 | Stephen Stephen |
+| 194 | 534 | Teresa Gillmore |
 | 195 | 531 | Chris Wanner |
 | 196 | 528 | Brownie Sheena |
 | 197 | 527 | Mema |
@@ -225,8 +225,8 @@
 | 217 | 510 | Lisa Ongtowasruk |
 | 218 | 509 | Kelli Wells |
 | 219 | 505 | Jelly |
-| 220 | 504 | Gene Mills |
-| 221 | 504 | Cherica Taylor |
+| 220 | 504 | Cherica Taylor |
+| 221 | 504 | Gene Mills |
 | 222 | 503 | tejas25 |
 | 223 | 503 | AISlop |
 | 224 | 502 | Magic steve |

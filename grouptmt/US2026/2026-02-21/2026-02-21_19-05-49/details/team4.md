@@ -96,8 +96,8 @@
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
 | 90 | 204 | Brittney Orengo |
-| 91 | 202 | Monica Daley |
-| 92 | 202 | shar |
+| 91 | 202 | shar |
+| 92 | 202 | Monica Daley |
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Dustee Craddock-Harrison |
 | 95 | 198 | Mike Solo |
@@ -130,8 +130,8 @@
 | 122 | 164 | ThaEviLJeNiuZ |
 | 123 | 164 | shark tato |
 | 124 | 160 | ZeeZee |
-| 125 | 157 | Jenna McGeorge |
-| 126 | 157 | quicksand420 |
+| 125 | 157 | quicksand420 |
+| 126 | 157 | Jenna McGeorge |
 | 127 | 156 | Holly |
 | 128 | 156 | Jessica Bohlken |
 | 129 | 153 | Empress Oasis |

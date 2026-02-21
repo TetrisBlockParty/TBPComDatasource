@@ -107,8 +107,8 @@
 | 99 | 366 | Speedy Bridger |
 | 100 | 363 | Joey Banks |
 | 101 | 356 | Adrian Marcel Pate |
-| 102 | 350 | Tiff Vs Tiffany |
-| 103 | 350 | Shannon Matthew Byers |
+| 102 | 350 | Shannon Matthew Byers |
+| 103 | 350 | Tiff Vs Tiffany |
 | 104 | 348 | CeceGeGe |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
 | 106 | 323 | Sherry Ogden |
@@ -270,9 +270,9 @@
 | 262 | 127 | mzcatzy |
 | 263 | 126 | Pam Holt Powell |
 | 264 | 126 | RickyG |
-| 265 | 125 | Shimika Enay Wallace |
-| 266 | 125 | Felicia Doxey |
-| 267 | 125 | fraulila |
+| 265 | 125 | Felicia Doxey |
+| 266 | 125 | fraulila |
+| 267 | 125 | Shimika Enay Wallace |
 | 268 | 124 | Funky Jumper |
 | 269 | 123 | Lys |
 | 270 | 123 | Michael Latasha Gray |
@@ -389,8 +389,8 @@
 | 381 | 88 | Kaitie Oliver |
 | 382 | 88 | Sabrina Mansfield |
 | 383 | 88 | Kelly Koenig |
-| 384 | 86 | Jonathn Poindexter |
-| 385 | 86 | Mariah Williams |
+| 384 | 86 | Mariah Williams |
+| 385 | 86 | Jonathn Poindexter |
 | 386 | 86 | Salena Whitlock |
 | 387 | 85 | Crystel b520 |
 | 388 | 85 | Sheila M Frazier |
@@ -889,8 +889,8 @@
 | 881 | 41 | Samantha Lohmeyer |
 | 882 | 41 | Brave Stagger |
 | 883 | 41 | Shiny Twisterfit |
-| 884 | 41 | smileykoala |
-| 885 | 41 | 4girls |
+| 884 | 41 | 4girls |
+| 885 | 41 | smileykoala |
 | 886 | 40 | Shiny Tiltgrid |
 | 887 | 40 | Sophia Ficklin |
 | 888 | 40 | Louise Parker |
