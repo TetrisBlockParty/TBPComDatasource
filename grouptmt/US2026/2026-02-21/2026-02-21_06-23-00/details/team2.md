@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -89,8 +89,8 @@
 | 81 | 658 | Pacynthia Williams |
 | 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Anna Edwards |
-| 85 | 649 | Stephanie Chapman |
+| 84 | 649 | Stephanie Chapman |
+| 85 | 649 | Anna Edwards |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 629 | Stephanie Neuburger |
 | 88 | 628 | Mari Ac |

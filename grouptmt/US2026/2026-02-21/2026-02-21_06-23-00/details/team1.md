@@ -44,8 +44,8 @@
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
 | 38 | 215 | Felicia Lewis |
-| 39 | 212 | Jaimie Lynn |
-| 40 | 212 | Tdub |
+| 39 | 212 | Tdub |
+| 40 | 212 | Jaimie Lynn |
 | 41 | 211 | Deanna L Hermanson |
 | 42 | 208 | Carrie Beck Geartz |
 | 43 | 206 | Elaine Elaine |
@@ -87,8 +87,8 @@
 | 79 | 144 | Tanya Carpenter-Reynolds |
 | 80 | 144 | Plucky Ziggy |
 | 81 | 143 | Sarah Marie |
-| 82 | 141 | Susanna Guerry |
-| 83 | 141 | Blaire Bruckoff |
+| 82 | 141 | Blaire Bruckoff |
+| 83 | 141 | Susanna Guerry |
 | 84 | 138 | Gary Gobin |
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
@@ -100,8 +100,8 @@
 | 92 | 127 | Michael |
 | 93 | 126 | Cece Ibarra |
 | 94 | 121 | Bouncy Grid |
-| 95 | 119 | Tater |
-| 96 | 119 | Irual Hctrab |
+| 95 | 119 | Irual Hctrab |
+| 96 | 119 | Tater |
 | 97 | 118 | Barry Mac'Ockner |
 | 98 | 115 | comrade fish |
 | 99 | 115 | Stef Hu |

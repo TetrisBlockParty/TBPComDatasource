@@ -91,8 +91,8 @@
 | 83 | 131 | Zany Twisterfit |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
-| 86 | 129 | Landon Keith Graffeo |
-| 87 | 129 | John Brunetti |
+| 86 | 129 | John Brunetti |
+| 87 | 129 | Landon Keith Graffeo |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
 | 90 | 123 | Bubbly Puzzler |
@@ -127,8 +127,8 @@
 | 119 | 104 | YoMomma |
 | 120 | 104 | Adam Randall |
 | 121 | 102 | Faja |
-| 122 | 101 | Stephme310 |
-| 123 | 101 | Michelle Morris |
+| 122 | 101 | Michelle Morris |
+| 123 | 101 | Stephme310 |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Megan Cutshaw |
 | 126 | 100 | Alexandra Karavias |
