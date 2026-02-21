@@ -78,8 +78,8 @@
 | 70 | 281 | Patrick Luckenbill |
 | 71 | 277 | Timothy Dew |
 | 72 | 274 | Theo Pinnow |
-| 73 | 270 | Sarah Roberts |
-| 74 | 270 | Jennifer ManWarren |
+| 73 | 270 | Jennifer ManWarren |
+| 74 | 270 | Sarah Roberts |
 | 75 | 265 | Dee Perry |
 | 76 | 264 | Anaid Sanchez |
 | 77 | 263 | Bhelle Sumile |
@@ -170,8 +170,8 @@
 | 162 | 138 | Death |
 | 163 | 136 | Dino |
 | 164 | 135 | Giddy Cascade |
-| 165 | 135 | Cody Slav |
-| 166 | 135 | Guest |
+| 165 | 135 | Guest |
+| 166 | 135 | Cody Slav |
 | 167 | 133 | Breanna Luna |
 | 168 | 132 | Mel Hogan |
 | 169 | 132 | Cody Gates |

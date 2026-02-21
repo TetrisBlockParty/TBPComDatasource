@@ -109,8 +109,8 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Tiff Vs Tiffany |
-| 105 | 350 | Shannon Matthew Byers |
+| 104 | 350 | Shannon Matthew Byers |
+| 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 333 | Sashay Tapae Simpson |
 | 108 | 332 | Chauntee Alfrey-Cardinale |
@@ -197,8 +197,8 @@
 | 189 | 178 | AlsoJess |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Tasha Wesson-Torrence |
-| 192 | 175 | Connie Mohler-Fair |
-| 193 | 175 | DanceLuvLaugh |
+| 192 | 175 | DanceLuvLaugh |
+| 193 | 175 | Connie Mohler-Fair |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
 | 196 | 173 | Sarajane Lokan |
@@ -216,8 +216,8 @@
 | 208 | 162 | Stephanie Whitefield |
 | 209 | 161 | Irene Arreguin |
 | 210 | 161 | BŘŰŤİÇŨŚ |
-| 211 | 160 | Tiffany Davie |
-| 212 | 160 | Marquita Sheard |
+| 211 | 160 | Marquita Sheard |
+| 212 | 160 | Tiffany Davie |
 | 213 | 159 | Jone |
 | 214 | 157 | Patricia Gadsden |
 | 215 | 156 | Bea Miles |
@@ -350,7 +350,7 @@
 | 342 | 99 | Leticia Lynn Lowe |
 | 343 | 98 | Katie Morton |
 | 344 | 98 | Tia Moore |
-| 345 | 98 | Erika Thornton |
+| 345 | 98 | Armi |
 | 346 | 98 | Jocelyne Baca |
 | 347 | 98 | Erika Thornton |
 | 348 | 97 | Danielle Balcom |

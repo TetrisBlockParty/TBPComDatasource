@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Antony Dwayne Beasley |
-| 85 | 218 | Casey Grabner |
+| 84 | 218 | Casey Grabner |
+| 85 | 218 | Antony Dwayne Beasley |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
@@ -108,13 +108,13 @@
 | 100 | 194 | Zany Twisterfit |
 | 101 | 192 | Crystal Carroll |
 | 102 | 192 | Shauna Havard |
-| 103 | 191 | Melvin Baird |
-| 104 | 191 | loulou |
+| 103 | 191 | loulou |
+| 104 | 191 | Melvin Baird |
 | 105 | 189 | Calvin Dennis |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
-| 108 | 185 | Andy Cabral |
-| 109 | 185 | Peachy Fall |
+| 108 | 185 | Peachy Fall |
+| 109 | 185 | Andy Cabral |
 | 110 | 181 | Carter Jones |
 | 111 | 181 | Andria Lynn |
 | 112 | 180 | Justin Hannigan |

@@ -226,8 +226,8 @@
 | 218 | 510 | Laquetta Royston |
 | 219 | 510 | Lisa Ongtowasruk |
 | 220 | 509 | Kelli Wells |
-| 221 | 504 | Gene Mills |
-| 222 | 504 | Cherica Taylor |
+| 221 | 504 | Cherica Taylor |
+| 222 | 504 | Gene Mills |
 | 223 | 503 | tejas25 |
 | 224 | 503 | AISlop |
 | 225 | 502 | Magic steve |
@@ -604,7 +604,7 @@
 | 596 | 214 | Dawn L Washington-Feuquay |
 | 597 | 212 | BK Queen |
 | 598 | 212 | Denelle Wendt-Ramalho |
-| 599 | 212 | BK Queen |
+| 599 | 212 | Gina Justbeingme Chillis |
 | 600 | 212 | Josh Webster |
 | 601 | 212 | Wacky Cascade |
 | 602 | 211 | Trisha Gallagher |
@@ -699,11 +699,11 @@
 | 691 | 184 | Amanda Diegel |
 | 692 | 184 | Janai Vrabel |
 | 693 | 184 | Donna M Carter |
-| 694 | 184 | Theresa Sterrett |
-| 695 | 184 | BamaGirlinTX |
+| 694 | 184 | BamaGirlinTX |
+| 695 | 184 | Theresa Sterrett |
 | 696 | 183 | Lynzekwi |
-| 697 | 182 | Veronica Guerra |
-| 698 | 182 | Sharon Crawford |
+| 697 | 182 | Sharon Crawford |
+| 698 | 182 | Veronica Guerra |
 | 699 | 181 | Lucero Ramirez |
 | 700 | 181 | Jai Jackson |
 | 701 | 180 | Lazy Riseclear |
