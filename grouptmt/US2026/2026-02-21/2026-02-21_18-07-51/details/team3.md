@@ -44,8 +44,8 @@
 | 36 | 835 | Shonna Roberts |
 | 37 | 821 | Jessica Ann |
 | 38 | 811 | Corie A. Brinson |
-| 39 | 810 | Shane Wilson Jr. |
-| 40 | 810 | Zippy Strikesnap |
+| 39 | 810 | Zippy Strikesnap |
+| 40 | 810 | Shane Wilson Jr. |
 | 41 | 733 | Chummy Shatterer |
 | 42 | 702 | Stephanie Allmon |
 | 43 | 687 | Jennie Beranek |
@@ -202,8 +202,8 @@
 | 194 | 166 | MsBee |
 | 195 | 166 | Betty Rosas |
 | 196 | 165 | Kali Kelz Williams |
-| 197 | 163 | Christine Trester |
-| 198 | 163 | Stephanie Hill |
+| 197 | 163 | Stephanie Hill |
+| 198 | 163 | Christine Trester |
 | 199 | 162 | Stephanie Whitefield |
 | 200 | 161 | BŘŰŤİÇŨŚ |
 | 201 | 160 | Tiffany Davie |

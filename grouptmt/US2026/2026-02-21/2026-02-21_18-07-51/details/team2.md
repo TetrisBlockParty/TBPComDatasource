@@ -212,8 +212,8 @@
 | 204 | 511 | Ramone Armstrong |
 | 205 | 511 | Dizzy Zone |
 | 206 | 511 | Laura Mclean |
-| 207 | 510 | Cheech Dta |
-| 208 | 510 | Lisa Ongtowasruk |
+| 207 | 510 | Lisa Ongtowasruk |
+| 208 | 510 | Cheech Dta |
 | 209 | 509 | Kelli Wells |
 | 210 | 504 | Cherica Taylor |
 | 211 | 503 | Adam Erikson |
