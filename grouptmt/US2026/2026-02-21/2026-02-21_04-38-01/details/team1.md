@@ -84,8 +84,8 @@
 | 76 | 132 | Davery Spencer Adair |
 | 77 | 130 | Dandy Basegrid |
 | 78 | 129 | Trina Gee |
-| 79 | 128 | Uhog SF |
-| 80 | 128 | Gary Gobin |
+| 79 | 128 | Gary Gobin |
+| 80 | 128 | Uhog SF |
 | 81 | 126 | Cece Ibarra |
 | 82 | 122 | Deanna L Hermanson |
 | 83 | 120 | Blaire Bruckoff |
@@ -106,10 +106,10 @@
 | 98 | 110 | Garcia Bailey |
 | 99 | 108 | Tavia |
 | 100 | 107 | Jodee Woods |
-| 101 | 105 | Flashy Rotator |
-| 102 | 105 | Barry Mac'Ockner |
-| 103 | 103 | Adryane Schnase |
-| 104 | 103 | Ash Galvan |
+| 101 | 105 | Barry Mac'Ockner |
+| 102 | 105 | Flashy Rotator |
+| 103 | 103 | Ash Galvan |
+| 104 | 103 | Adryane Schnase |
 | 105 | 102 | Jennifer ManWarren |
 | 106 | 100 | Bhelle Sumile |
 | 107 | 99 | Melissa Bires Hussar |

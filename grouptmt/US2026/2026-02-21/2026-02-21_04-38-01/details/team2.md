@@ -129,8 +129,8 @@
 | 121 | 455 | Alicia Parrish |
 | 122 | 453 | Osun Anuket Esu |
 | 123 | 450 | Giggy Blocker |
-| 124 | 448 | Jojo Momma |
-| 125 | 448 | Nick Jensen |
+| 124 | 448 | Nick Jensen |
+| 125 | 448 | Jojo Momma |
 | 126 | 442 | Daphne Jordan |
 | 127 | 440 | BYM4L |
 | 128 | 438 | Debra Williams |
@@ -148,8 +148,8 @@
 | 140 | 397 | Destiny Cozier |
 | 141 | 394 | Tammy Allen |
 | 142 | 391 | Chilly Bridgepiece |
-| 143 | 386 | Jumpy Gridpiece |
-| 144 | 386 | Ashie Ann |
+| 143 | 386 | Ashie Ann |
+| 144 | 386 | Jumpy Gridpiece |
 | 145 | 385 | Sam |
 | 146 | 380 | Calandra Shaya Robinson |
 | 147 | 380 | Joshua Mandel |
@@ -169,8 +169,8 @@
 | 161 | 348 | Cherica Taylor |
 | 162 | 345 | Brenda Messer |
 | 163 | 345 | Alyssaaelena |
-| 164 | 345 | Rhianna DiLorenzo |
-| 165 | 345 | Wuntayk |
+| 164 | 345 | Wuntayk |
+| 165 | 345 | Rhianna DiLorenzo |
 | 166 | 344 | Christina Lewis-Vickers |
 | 167 | 344 | Julie Kresal |
 | 168 | 342 | Tracy Wise |
@@ -183,8 +183,8 @@
 | 175 | 327 | Danielle Simmons |
 | 176 | 323 | Briana Alexander |
 | 177 | 322 | Tralonda Weeks |
-| 178 | 319 | Steven Marshaun |
-| 179 | 319 | Brittney Jean |
+| 178 | 319 | Brittney Jean |
+| 179 | 319 | Steven Marshaun |
 | 180 | 318 | Trista Dumais |
 | 181 | 318 | Juanita Lyons |
 | 182 | 317 | bru |
@@ -219,14 +219,14 @@
 | 211 | 274 | Melissa Holsinger |
 | 212 | 273 | Missie Lawson Gebhardt |
 | 213 | 271 | Ann Marie Davis |
-| 214 | 271 | Toni Lynn |
-| 215 | 271 | Lonne Emade |
+| 214 | 271 | Lonne Emade |
+| 215 | 271 | Toni Lynn |
 | 216 | 270 | Alexandra Weir |
 | 217 | 268 | Vanessa Moreno |
 | 218 | 268 | Elisheva Mizrachi |
 | 219 | 267 | Mindy Leigh Head |
-| 220 | 266 | Autumn Schaeffer |
-| 221 | 266 | Mighty Shatterfit |
+| 220 | 266 | Mighty Shatterfit |
+| 221 | 266 | Autumn Schaeffer |
 | 222 | 266 | Joyce Johnson Vaughn |
 | 223 | 263 | Taylor Flowers |
 | 224 | 263 | August Hale |
@@ -276,8 +276,8 @@
 | 268 | 233 | Alyssia Tancredi |
 | 269 | 233 | Matt Johnson |
 | 270 | 232 | Amber Brion |
-| 271 | 231 | Dylan Thomason |
-| 272 | 231 | Ginger |
+| 271 | 231 | Ginger |
+| 272 | 231 | Dylan Thomason |
 | 273 | 230 | snkylnk |
 | 274 | 228 | Michelle Sager |
 | 275 | 227 | Amber Gray |
@@ -303,15 +303,15 @@
 | 295 | 205 | ElizabethAnn Dickinson |
 | 296 | 204 | Ali Gralski |
 | 297 | 204 | Rebecca Doughman |
-| 298 | 203 | coleksquad |
-| 299 | 203 | Gary Stash |
+| 298 | 203 | Gary Stash |
+| 299 | 203 | coleksquad |
 | 300 | 202 | Christina Ashley |
 | 301 | 201 | Zombi3 |
 | 302 | 200 | Cheeky Brickmatch |
 | 303 | 200 | Sarah Ridenour |
 | 304 | 199 | Brave Gridpiece |
-| 305 | 199 | Jenny Castro |
-| 306 | 199 | Jessica Sutter |
+| 305 | 199 | Jessica Sutter |
+| 306 | 199 | Jenny Castro |
 | 307 | 198 | Andea Beck |
 | 308 | 198 | Peppy Snapfall |
 | 309 | 198 | Alyssa Dean |
@@ -319,8 +319,8 @@
 | 311 | 196 | Cass Shirley |
 | 312 | 196 | Alexandra Reese |
 | 313 | 194 | Hoppy Brickmatch |
-| 314 | 194 | Kimberly Ann |
-| 315 | 194 | Mike Aprilliano |
+| 314 | 194 | Mike Aprilliano |
+| 315 | 194 | Kimberly Ann |
 | 316 | 193 | Nika Bee |
 | 317 | 191 | Sho Nuff |
 | 318 | 191 | Deana |

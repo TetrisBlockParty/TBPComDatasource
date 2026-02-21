@@ -152,8 +152,8 @@
 | 144 | 115 | Jennifer Alvey |
 | 145 | 115 | Sarajane Lokan |
 | 146 | 115 | Juliana Dottore |
-| 147 | 114 | Jessica Bechler |
-| 148 | 114 | Nicholas Roddy |
+| 147 | 114 | Nicholas Roddy |
+| 148 | 114 | Jessica Bechler |
 | 149 | 113 | Valerie Gendron |
 | 150 | 112 | Giggly Brickroll |
 | 151 | 110 | Louise Stacy Sisson |
@@ -164,13 +164,13 @@
 | 156 | 109 | Diana Ibarra |
 | 157 | 108 | LaTanya GeminiondaRise Johnson |
 | 158 | 108 | Rachel Napper |
-| 159 | 107 | Bryan Byrd |
-| 160 | 107 | Sherry Ogden |
+| 159 | 107 | Sherry Ogden |
+| 160 | 107 | Bryan Byrd |
 | 161 | 106 | Desiree Gold |
-| 162 | 105 | Hoppy Buildout |
-| 163 | 105 | Emi |
-| 164 | 104 | mommablock |
-| 165 | 104 | Sarah Moyer |
+| 162 | 105 | Emi |
+| 163 | 105 | Hoppy Buildout |
+| 164 | 104 | Sarah Moyer |
+| 165 | 104 | mommablock |
 | 166 | 102 | Kali Kelz Williams |
 | 167 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 168 | 100 | Donna |
