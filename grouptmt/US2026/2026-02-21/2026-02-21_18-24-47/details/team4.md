@@ -32,8 +32,8 @@
 | 24 | 620 | Kimyatta Cavin |
 | 25 | 608 | Denny Shives |
 | 26 | 593 | Chilly Line |
-| 27 | 590 | Dee Kay |
-| 28 | 590 | Valerie Roberts |
+| 27 | 590 | Valerie Roberts |
+| 28 | 590 | Dee Kay |
 | 29 | 554 | Misty Hollibaugh |
 | 30 | 546 | LisaJo Picken Buchanan |
 | 31 | 541 | Rebecca Moulton Pinciaro |

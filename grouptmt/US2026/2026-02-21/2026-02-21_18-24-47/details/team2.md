@@ -136,8 +136,8 @@
 | 128 | 720 | Mischelle Clay |
 | 129 | 714 | Ariel |
 | 130 | 709 | Jerilyn Andrina |
-| 131 | 705 | Nika Bee |
-| 132 | 705 | Roger Grabbit |
+| 131 | 705 | Roger Grabbit |
+| 132 | 705 | Nika Bee |
 | 133 | 704 | Nerdy Clearfit |
 | 134 | 700 | Vincent Petrella |
 | 135 | 700 | Rosemadder |

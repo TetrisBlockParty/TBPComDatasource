@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Shane Wilson Jr. |
-| 41 | 810 | Zippy Strikesnap |
+| 40 | 810 | Zippy Strikesnap |
+| 41 | 810 | Shane Wilson Jr. |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | Rich LeBlanc |
-| 111 | 309 | CeceGeGe |
+| 110 | 309 | CeceGeGe |
+| 111 | 309 | Rich LeBlanc |
 | 112 | 307 | Peggi Charon |
 | 113 | 307 | Blocked |
 | 114 | 300 | Sherika C. McDaniels |
@@ -235,12 +235,12 @@
 | 227 | 146 | Carrie Huskey |
 | 228 | 146 | Latoya Mayne |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Emma |
-| 231 | 145 | Bryan Byrd |
+| 230 | 145 | Bryan Byrd |
+| 231 | 145 | Emma |
 | 232 | 145 | Jeni Dow |
-| 233 | 142 | David Bardo |
-| 234 | 142 | Erica Anderson |
-| 235 | 142 | Danielle Allison |
+| 233 | 142 | Erica Anderson |
+| 234 | 142 | Danielle Allison |
+| 235 | 142 | David Bardo |
 | 236 | 142 | Jl |
 | 237 | 141 | IamJust Neyamijah Washington Sr. |
 | 238 | 139 | Loopy Clusterer |

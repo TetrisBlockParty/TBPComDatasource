@@ -127,8 +127,8 @@
 | 119 | 169 | Snippy Wipebuilder |
 | 120 | 168 | Standia Civil |
 | 121 | 167 | Michael |
-| 122 | 166 | Tana |
-| 123 | 166 | Rico Rico |
+| 122 | 166 | Rico Rico |
+| 123 | 166 | Tana |
 | 124 | 165 | Veronica Eve |
 | 125 | 163 | Tyler Whitley |
 | 126 | 163 | Kellie |
@@ -140,8 +140,8 @@
 | 132 | 152 | Speedy Snapfall |
 | 133 | 152 | Jacqueline Unique |
 | 134 | 150 | Adele Rahman |
-| 135 | 149 | Jennifer ManWarren |
-| 136 | 149 | Arianna O'Brien |
+| 135 | 149 | Arianna O'Brien |
+| 136 | 149 | Jennifer ManWarren |
 | 137 | 148 | Shauntina Burke |
 | 138 | 147 | Leslie Bush Yarbrough |
 | 139 | 146 | Christy Jones |
@@ -170,9 +170,9 @@
 | 162 | 131 | Kimberly Garcia |
 | 163 | 130 | Gilbert Ortiz Jr. |
 | 164 | 130 | LD1 |
-| 165 | 128 | Layzietyme |
-| 166 | 128 | Barry Mac'Ockner |
-| 167 | 128 | lil mickey |
+| 165 | 128 | lil mickey |
+| 166 | 128 | Layzietyme |
+| 167 | 128 | Barry Mac'Ockner |
 | 168 | 127 | Brave Wrecker |
 | 169 | 127 | Aimee Horton |
 | 170 | 126 | Nerdy Linkblock |
@@ -230,8 +230,8 @@
 | 222 | 99 | Barrbaric |
 | 223 | 98 | DoodleBug |
 | 224 | 97 | Steve Bomkamp |
-| 225 | 96 | Mel Hogan |
-| 226 | 96 | Howdi Duty |
+| 225 | 96 | Howdi Duty |
+| 226 | 96 | Mel Hogan |
 | 227 | 95 | Jeanna Dunn |
 | 228 | 94 | Brad MG |
 | 229 | 94 | Sleepysloath5745 |
