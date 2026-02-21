@@ -129,8 +129,8 @@
 | 121 | 126 | Klo |
 | 122 | 126 | Dihcheese444 |
 | 123 | 123 | Bubbly Puzzler |
-| 124 | 123 | TinyLegoRose |
-| 125 | 123 | Cherrish Duren |
+| 124 | 123 | Cherrish Duren |
+| 125 | 123 | TinyLegoRose |
 | 126 | 122 | Sherri |
 | 127 | 121 | Zany Shatterer |
 | 128 | 121 | Megan Cutshaw |
@@ -241,7 +241,7 @@
 | 233 | 75 | Joeliecea Cobb |
 | 234 | 75 | Moonsterix |
 | 235 | 75 | Christina Black |
-| 236 | 75 | Moonsterix |
+| 236 | 75 | Rosemary Foster |
 | 237 | 74 | Tyler Terrific |
 | 238 | 73 | Lynn Marie |
 | 239 | 73 | Staci Robinson Jones |

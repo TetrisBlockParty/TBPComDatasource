@@ -51,8 +51,8 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Sweet Baker |
-| 47 | 274 | Theo Pinnow |
+| 46 | 274 | Theo Pinnow |
+| 47 | 274 | Sweet Baker |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
@@ -72,8 +72,8 @@
 | 64 | 208 | Carrie Beck Geartz |
 | 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
-| 67 | 204 | Ly Phethmany |
-| 68 | 204 | Lexuriuos Lifestlye |
+| 67 | 204 | Lexuriuos Lifestlye |
+| 68 | 204 | Ly Phethmany |
 | 69 | 202 | Dee Perry |
 | 70 | 201 | Ananda Mendez |
 | 71 | 201 | Anaid Sanchez |
@@ -142,8 +142,8 @@
 | 134 | 116 | Evie Khalil |
 | 135 | 115 | Chuck Gannon |
 | 136 | 115 | Mrs.Patrica |
-| 137 | 114 | Colleen Wise |
-| 138 | 114 | Giddy Cascade |
+| 137 | 114 | Giddy Cascade |
+| 138 | 114 | Colleen Wise |
 | 139 | 113 | Desiree Deschaine Havee |
 | 140 | 112 | Kristen Gideon |
 | 141 | 112 | Chris65 |

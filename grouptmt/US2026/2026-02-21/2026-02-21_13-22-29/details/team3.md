@@ -114,8 +114,8 @@
 | 106 | 232 | Poppy Splitter |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Mykal Burton |
-| 110 | 224 | Judi Dobson |
+| 109 | 224 | Judi Dobson |
+| 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
 | 112 | 222 | Nicole Flippo |
 | 113 | 222 | Jimmie Clemons |
@@ -192,8 +192,8 @@
 | 184 | 140 | Jay Horn |
 | 185 | 137 | Aerian Preston |
 | 186 | 136 | Boldy Corner |
-| 187 | 135 | Connie Mohler-Fair |
-| 188 | 135 | Cheryl Hinch Tenbrook |
+| 187 | 135 | Cheryl Hinch Tenbrook |
+| 188 | 135 | Connie Mohler-Fair |
 | 189 | 134 | Emma |
 | 190 | 133 | Joy Petroski |
 | 191 | 131 | Jl |
@@ -202,8 +202,8 @@
 | 194 | 128 | David Bardo |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
-| 197 | 125 | Felicia Doxey |
-| 198 | 125 | Shimika Enay Wallace |
+| 197 | 125 | Shimika Enay Wallace |
+| 198 | 125 | Felicia Doxey |
 | 199 | 124 | Cesar Barraza |
 | 200 | 123 | Terry Jo Jones |
 | 201 | 123 | Sarajane Lokan |
@@ -238,7 +238,7 @@
 | 230 | 109 | Diana Ibarra |
 | 231 | 108 | LaTanya GeminiondaRise Johnson |
 | 232 | 108 | Hanna Kim |
-| 233 | 108 | LaTanya GeminiondaRise Johnson |
+| 233 | 108 | Rachel Napper |
 | 234 | 107 | Sherry Ogden |
 | 235 | 107 | Bouncy Blockbuilder |
 | 236 | 107 | France Vézina |

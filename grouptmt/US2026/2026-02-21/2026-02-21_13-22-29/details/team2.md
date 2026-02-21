@@ -407,8 +407,8 @@
 | 399 | 236 | Frisky Riserbuilder |
 | 400 | 236 | snkylnk |
 | 401 | 235 | Kimberly Mitchell |
-| 402 | 234 | Manny Trindade |
-| 403 | 234 | Jennifer Leigh |
+| 402 | 234 | Jennifer Leigh |
+| 403 | 234 | Manny Trindade |
 | 404 | 234 | Jaybee Nguyen |
 | 405 | 234 | Lee Harper |
 | 406 | 233 | Jumpy Gridclear |
@@ -460,14 +460,14 @@
 | 452 | 200 | Sarah Ridenour |
 | 453 | 200 | LaWanda Powell |
 | 454 | 199 | Fi Ne |
-| 455 | 199 | Jenny Castro |
-| 456 | 199 | Alyssa Nadine Medelez |
+| 455 | 199 | Alyssa Nadine Medelez |
+| 456 | 199 | Jenny Castro |
 | 457 | 199 | Jessica Sutter |
 | 458 | 198 | Angie Bolton Workman |
 | 459 | 198 | Alyssa Dean |
 | 460 | 196 | Besma Ao |
-| 461 | 196 | Alexandra Reese |
-| 462 | 196 | Cass Shirley |
+| 461 | 196 | Cass Shirley |
+| 462 | 196 | Alexandra Reese |
 | 463 | 195 | Snappy Shatterfit |
 | 464 | 195 | Darlene Bowman |
 | 465 | 194 | Kitybox |
@@ -852,7 +852,7 @@
 | 844 | 112 | Kaytlyn Brown |
 | 845 | 112 | Christina Wsn |
 | 846 | 111 | Zesty Pivot |
-| 847 | 111 | April Bennett |
+| 847 | 111 | Chill Piecegrid |
 | 848 | 111 | Crystal Heller Gonzalez |
 | 849 | 111 | April Bennett |
 | 850 | 111 | Tony Lea |
