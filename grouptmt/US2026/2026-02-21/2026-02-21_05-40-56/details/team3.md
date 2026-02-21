@@ -88,9 +88,9 @@
 | 80 | 224 | Mykal Burton |
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
-| 83 | 218 | mjl574 |
-| 84 | 218 | Danielle Cutler |
-| 85 | 218 | Judi Dobson |
+| 83 | 218 | Judi Dobson |
+| 84 | 218 | mjl574 |
+| 85 | 218 | Danielle Cutler |
 | 86 | 214 | Amy Fuller Heaton |
 | 87 | 207 | rnr junky |
 | 88 | 206 | Stephanie Blkpep Davidson |
@@ -134,9 +134,9 @@
 | 126 | 140 | Jay Horn |
 | 127 | 140 | Gumbo |
 | 128 | 135 | Nicole Flippo |
-| 129 | 134 | Elaine Webb Graves |
-| 130 | 134 | Emma |
-| 131 | 134 | DanceLuvLaugh |
+| 129 | 134 | DanceLuvLaugh |
+| 130 | 134 | Elaine Webb Graves |
+| 131 | 134 | Emma |
 | 132 | 133 | Giddy Twistbuilder |
 | 133 | 131 | Jl |
 | 134 | 127 | Marquita Sheard |
@@ -232,8 +232,8 @@
 | 224 | 86 | Clever Clearbuilder |
 | 225 | 86 | Criss |
 | 226 | 85 | Chris Bell |
-| 227 | 84 | Amanda L Baker |
-| 228 | 84 | Flashy Rumbler |
+| 227 | 84 | Flashy Rumbler |
+| 228 | 84 | Amanda L Baker |
 | 229 | 83 | Trice Thomas |
 | 230 | 82 | Crystel b520 |
 | 231 | 82 | Stephanie Whitefield |

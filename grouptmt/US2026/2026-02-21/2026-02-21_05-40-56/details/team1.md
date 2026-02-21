@@ -59,8 +59,8 @@
 | 51 | 192 | Mandyy Rae |
 | 52 | 191 | Jazzy Framezone |
 | 53 | 191 | Giggly Builderline |
-| 54 | 190 | Thorne Shumate |
-| 55 | 190 | Sweetts |
+| 54 | 190 | Sweetts |
+| 55 | 190 | Thorne Shumate |
 | 56 | 189 | Happy Basegrid |
 | 57 | 185 | Karin Gillen |
 | 58 | 173 | Frothy Pattern |
@@ -69,8 +69,8 @@
 | 61 | 169 | Erez Yosef |
 | 62 | 163 | Chad Atchley |
 | 63 | 161 | Abbey Crespo |
-| 64 | 155 | David DeSantis |
-| 65 | 155 | Standia Civil |
+| 64 | 155 | Standia Civil |
+| 65 | 155 | David DeSantis |
 | 66 | 154 | Rico Rico |
 | 67 | 153 | Shiny Gridmatch |
 | 68 | 152 | Jacqueline Unique |
