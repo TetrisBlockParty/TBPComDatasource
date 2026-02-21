@@ -106,10 +106,10 @@
 | 98 | 112 | Jimmie Clemons |
 | 99 | 112 | Connie Mohler-Fair |
 | 100 | 111 | Joy Petroski |
-| 101 | 110 | Tiff Vs Tiffany |
-| 102 | 110 | Stella |
-| 103 | 108 | Grams |
-| 104 | 108 | Rachel Napper |
+| 101 | 110 | Stella |
+| 102 | 110 | Tiff Vs Tiffany |
+| 103 | 108 | Rachel Napper |
+| 104 | 108 | Grams |
 | 105 | 107 | Fancy Cascader |
 | 106 | 107 | Bryan Byrd |
 | 107 | 105 | Hoppy Buildout |

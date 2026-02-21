@@ -48,9 +48,9 @@
 | 40 | 695 | Kelly Trent |
 | 41 | 679 | Gold Rose |
 | 42 | 674 | Dannette Goldberg-Richards |
-| 43 | 658 | Pacynthia Williams |
+| 43 | 658 | Vistabrat |
 | 44 | 658 | Dreamy Blast |
-| 45 | 658 | Vistabrat |
+| 45 | 658 | Pacynthia Williams |
 | 46 | 652 | E_Money04 |
 | 47 | 615 | Vo'Landa Reels |
 | 48 | 608 | John Bednarik |

@@ -55,21 +55,21 @@
 | 47 | 122 | Jessica Bohlken |
 | 48 | 122 | Shelly Chandler |
 | 49 | 121 | Smiley Tiltbuilder |
-| 50 | 116 | Sherri |
-| 51 | 116 | Serena Goodridge |
+| 50 | 116 | Serena Goodridge |
+| 51 | 116 | Sherri |
 | 52 | 114 | Jessica Cagle |
 | 53 | 113 | Degenerate |
 | 54 | 112 | Chirpy Basepiece |
 | 55 | 111 | Gwendolyn Pitcairn |
 | 56 | 110 | H.R. Block |
-| 57 | 109 | Bryan Hodgins |
-| 58 | 109 | Epic Curvetile |
+| 57 | 109 | Epic Curvetile |
+| 58 | 109 | Bryan Hodgins |
 | 59 | 108 | Diana Houts |
 | 60 | 108 | Mr. Party |
 | 61 | 100 | Andria Lynn |
 | 62 | 100 | Michelle Morris |
-| 63 | 98 | Duck |
-| 64 | 98 | Zany Shatterer |
+| 63 | 98 | Zany Shatterer |
+| 64 | 98 | Duck |
 | 65 | 98 | Stephme310 |
 | 66 | 97 | YoMomma |
 | 67 | 96 | TinyLegoRose |
@@ -87,10 +87,10 @@
 | 79 | 85 | Mimi |
 | 80 | 82 | Kim Hunt |
 | 81 | 82 | Dizzy Tiley |
-| 82 | 81 | Kesha Brady |
-| 83 | 81 | Michelle Parker |
-| 84 | 80 | Leah Kutz Zirbel |
-| 85 | 80 | Melissa Adams |
+| 82 | 81 | Michelle Parker |
+| 83 | 81 | Kesha Brady |
+| 84 | 80 | Melissa Adams |
+| 85 | 80 | Leah Kutz Zirbel |
 | 86 | 79 | Avy Absol |
 | 87 | 76 | Jessica Miller |
 | 88 | 75 | Rosemary Foster |
