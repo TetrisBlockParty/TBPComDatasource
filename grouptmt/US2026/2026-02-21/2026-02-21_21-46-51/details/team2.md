@@ -227,8 +227,8 @@
 | 219 | 561 | Kristopher Miller |
 | 220 | 556 | Shavonna Haynes |
 | 221 | 553 | Leslie Ann Carter |
-| 222 | 549 | Kaylee McCafferty |
-| 223 | 549 | Charvi' Carter |
+| 222 | 549 | Charvi' Carter |
+| 223 | 549 | Kaylee McCafferty |
 | 224 | 543 | Adira Brown |
 | 225 | 541 | Desiree Harris Rosch |
 | 226 | 541 | SaraMarie Eveland |
@@ -306,8 +306,8 @@
 | 298 | 442 | Daphne Jordan |
 | 299 | 442 | Joshua Mandel |
 | 300 | 440 | Liberty |
-| 301 | 439 | Joseph Musick |
-| 302 | 439 | Alisa Lamb |
+| 301 | 439 | Alisa Lamb |
+| 302 | 439 | Joseph Musick |
 | 303 | 439 | Nashu |
 | 304 | 437 | Arwa Fatimah |
 | 305 | 436 | Melissa Kay Gibson |
@@ -359,10 +359,10 @@
 | 351 | 384 | Mike Aprilliano |
 | 352 | 383 | Arkei Luster |
 | 353 | 382 | David Holliday |
-| 354 | 381 | Melissa Rebbe-Lehman |
-| 355 | 381 | Bubbly Snapfit |
-| 356 | 378 | Christina Ashley |
-| 357 | 378 | TF Dyer |
+| 354 | 381 | Bubbly Snapfit |
+| 355 | 381 | Melissa Rebbe-Lehman |
+| 356 | 378 | TF Dyer |
+| 357 | 378 | Christina Ashley |
 | 358 | 378 | Cody Nishimura |
 | 359 | 377 | Ray Ray Prado |
 | 360 | 376 | Caitlin Schmid |
@@ -403,8 +403,8 @@
 | 395 | 352 | KayLynn Ogden McClelland |
 | 396 | 351 | Rebecca Miller |
 | 397 | 350 | Fi Ne |
-| 398 | 350 | Chris Harr |
-| 399 | 350 | F-X |
+| 398 | 350 | F-X |
+| 399 | 350 | Chris Harr |
 | 400 | 348 | Véronique Lévesque Sabourin |
 | 401 | 348 | Richard Horton |
 | 402 | 347 | Cheyenne Donovan |
@@ -621,8 +621,8 @@
 | 613 | 229 | Heather Anspaugh |
 | 614 | 229 | Deidre Jenkins |
 | 615 | 229 | Besma Ao |
-| 616 | 228 | Amanda Canterbury |
-| 617 | 228 | Samantha Angelo |
+| 616 | 228 | Samantha Angelo |
+| 617 | 228 | Amanda Canterbury |
 | 618 | 227 | Nutty Slice |
 | 619 | 227 | Sho Nuff |
 | 620 | 226 | Jodi Mitnick |
@@ -640,8 +640,8 @@
 | 632 | 223 | Laura Wyatt |
 | 633 | 222 | Lazy Riseclear |
 | 634 | 221 | Michelle Lee |
-| 635 | 220 | Katrina Weston |
-| 636 | 220 | Jennifer Coe |
+| 635 | 220 | Jennifer Coe |
+| 636 | 220 | Katrina Weston |
 | 637 | 220 | Brenna Ann |
 | 638 | 219 | Trista Carter |
 | 639 | 219 | Cathy Bitters |
@@ -683,8 +683,8 @@
 | 675 | 209 | Samantha Morgan |
 | 676 | 209 | Jannan Haimour |
 | 677 | 208 | Alyssa Dean |
-| 678 | 208 | Jessica Sutter |
-| 679 | 208 | Ashley MoBetta Humes |
+| 678 | 208 | Ashley MoBetta Humes |
+| 679 | 208 | Jessica Sutter |
 | 680 | 207 | Jeffrey Barrows |
 | 681 | 207 | Sara Pennington |
 | 682 | 207 | Nicolle Danielle |
@@ -704,7 +704,7 @@
 | 696 | 201 | Michael Artis |
 | 697 | 201 | Betty Ruth Hale |
 | 698 | 201 | Jennifer Rajek |
-| 699 | 201 | Betty Ruth Hale |
+| 699 | 201 | Tammy Mitchell |
 | 700 | 201 | Antonia Pike |
 | 701 | 201 | Lakeela Wise |
 | 702 | 201 | Abby Klaski |
@@ -758,8 +758,8 @@
 | 750 | 188 | Sassy Linkroll |
 | 751 | 187 | Brandon McDonald |
 | 752 | 187 | Josh Dill |
-| 753 | 187 | Angel |
-| 754 | 187 | Wacky Brickbuilder |
+| 753 | 187 | Wacky Brickbuilder |
+| 754 | 187 | Angel |
 | 755 | 186 | Bette Prieto |
 | 756 | 186 | Snippy Block |
 | 757 | 186 | Tash Bell |

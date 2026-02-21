@@ -104,13 +104,13 @@
 | 96 | 394 | joclisa |
 | 97 | 392 | Michelle |
 | 98 | 391 | Calista Jo Dickson |
-| 99 | 390 | Hasty Cascadefit |
-| 100 | 390 | Annie Déè |
+| 99 | 390 | Annie Déè |
+| 100 | 390 | Hasty Cascadefit |
 | 101 | 389 | Elissa S-k |
 | 102 | 386 | Katie Knaus |
 | 103 | 384 | Shannon Matthew Byers |
-| 104 | 378 | Tasha Schriewer |
-| 105 | 378 | Makelini Mausia |
+| 104 | 378 | Makelini Mausia |
+| 105 | 378 | Tasha Schriewer |
 | 106 | 377 | Jesse Olive |
 | 107 | 372 | Jessica Bechler |
 | 108 | 368 | Stephanie Woods |

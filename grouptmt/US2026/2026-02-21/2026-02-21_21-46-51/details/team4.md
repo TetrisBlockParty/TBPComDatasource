@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | Marie-Pier Desjardins |
-| 64 | 376 | quicksand420 |
+| 63 | 376 | quicksand420 |
+| 64 | 376 | Marie-Pier Desjardins |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -103,8 +103,8 @@
 | 95 | 223 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Casey Grabner |
-| 99 | 218 | Denise Carlson |
+| 98 | 218 | Denise Carlson |
+| 99 | 218 | Casey Grabner |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -191,9 +191,9 @@
 | 183 | 128 | Ericca Eldridge |
 | 184 | 128 | April Rondinone |
 | 185 | 126 | Nerdy Twisterfit |
-| 186 | 125 | Heather Tushner |
-| 187 | 125 | Judy Cox |
-| 188 | 125 | Duck |
+| 186 | 125 | Judy Cox |
+| 187 | 125 | Duck |
+| 188 | 125 | Heather Tushner |
 | 189 | 124 | Allen Lloyd |
 | 190 | 124 | SammieJo Guy |
 | 191 | 123 | Austin Owens |
@@ -345,8 +345,8 @@
 | 337 | 74 | Terrance Fung |
 | 338 | 74 | Dizzy Matchzone |
 | 339 | 74 | Alee Marie |
-| 340 | 73 | Jacob Campbell |
-| 341 | 73 | Rheanda Weaskus |
+| 340 | 73 | Rheanda Weaskus |
+| 341 | 73 | Jacob Campbell |
 | 342 | 72 | Brave Spinbuilder |
 | 343 | 72 | Raegan Lane-Ross |
 | 344 | 72 | Orchislactea |
@@ -378,7 +378,7 @@
 | 370 | 67 | Zany Cascadebuilder |
 | 371 | 67 | Flavoredsausage |
 | 372 | 67 | Courtney Halleck |
-| 373 | 67 | Flavoredsausage |
+| 373 | 67 | Frank Joseph Epson |
 | 374 | 66 | Jen Mattei |
 | 375 | 66 | Savannah Roughton Jones |
 | 376 | 66 | Joyce Fees |
