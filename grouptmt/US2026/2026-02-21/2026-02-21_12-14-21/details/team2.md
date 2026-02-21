@@ -281,8 +281,8 @@
 | 273 | 303 | Crystal Greene |
 | 274 | 303 | Amanda Schaffer |
 | 275 | 301 | Claire |
-| 276 | 299 | Deborah Miller |
-| 277 | 299 | Christy Krissie |
+| 276 | 299 | Christy Krissie |
+| 277 | 299 | Deborah Miller |
 | 278 | 296 | Jennifer Darby |
 | 279 | 296 | Jennifer Casey-Kay |
 | 280 | 296 | Amber Gray |

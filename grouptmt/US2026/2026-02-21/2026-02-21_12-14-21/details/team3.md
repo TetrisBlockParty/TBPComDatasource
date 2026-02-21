@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Snappy Glidepiece |
-| 44 | 546 | Dolores Falco |
+| 43 | 546 | Dolores Falco |
+| 44 | 546 | Snappy Glidepiece |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -264,12 +264,12 @@
 | 256 | 96 | D3NO |
 | 257 | 96 | Tasha Wesson-Torrence |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Angie Harper |
-| 260 | 94 | Andrew Thorson |
+| 259 | 94 | Andrew Thorson |
+| 260 | 94 | Angie Harper |
 | 261 | 93 | Tiffany Ford |
-| 262 | 92 | Jennifer Caputo |
-| 263 | 92 | Ava Petito |
-| 264 | 92 | Trice Thomas |
+| 262 | 92 | Trice Thomas |
+| 263 | 92 | Jennifer Caputo |
+| 264 | 92 | Ava Petito |
 | 265 | 92 | Jackie-Lynne Goertzen |
 | 266 | 91 | Martin Bernier |
 | 267 | 91 | Nikki Pags |
@@ -289,7 +289,7 @@
 | 281 | 88 | RickyG |
 | 282 | 88 | Kate Farok |
 | 283 | 88 | Dapper Towerfit |
-| 284 | 87 | FATTY |
+| 284 | 87 | Boldy Blocker |
 | 285 | 87 | Kellie Montgomery |
 | 286 | 87 | FATTY |
 | 287 | 86 | Criss |

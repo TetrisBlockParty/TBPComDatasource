@@ -178,8 +178,8 @@
 | 170 | 93 | Cody Gates |
 | 171 | 93 | Tyler Whitley |
 | 172 | 92 | Timothy Dew |
-| 173 | 90 | Madison Wicks |
-| 174 | 90 | TSwag |
+| 173 | 90 | TSwag |
+| 174 | 90 | Madison Wicks |
 | 175 | 89 | Chuck Gannon |
 | 176 | 89 | Mara Hilker |
 | 177 | 88 | Larry Tilton |

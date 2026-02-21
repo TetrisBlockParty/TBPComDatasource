@@ -98,8 +98,8 @@
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
-| 93 | 147 | 030Synner |
-| 94 | 147 | Jay28 |
+| 93 | 147 | Jay28 |
+| 94 | 147 | 030Synner |
 | 95 | 146 | Peachy Fall |
 | 96 | 143 | KM8 |
 | 97 | 143 | Nugget |
@@ -149,10 +149,10 @@
 | 141 | 110 | H.R. Block |
 | 142 | 110 | YoMomma |
 | 143 | 107 | Marcus Todd |
-| 144 | 105 | Sam Middleton |
-| 145 | 105 | 🥔🥔 Spudz |
-| 146 | 105 | TheNeesh50 |
-| 147 | 105 | AyeKay |
+| 144 | 105 | TheNeesh50 |
+| 145 | 105 | Sam Middleton |
+| 146 | 105 | AyeKay |
+| 147 | 105 | 🥔🥔 Spudz |
 | 148 | 104 | Avy Absol |
 | 149 | 104 | Damn Libra |
 | 150 | 103 | Judy Cox |
