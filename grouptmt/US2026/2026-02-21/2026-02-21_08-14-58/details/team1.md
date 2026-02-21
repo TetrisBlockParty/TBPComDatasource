@@ -107,8 +107,8 @@
 | 99 | 133 | Bhelle Sumile |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
-| 102 | 128 | Uhog SF |
-| 103 | 128 | lil mickey |
+| 102 | 128 | lil mickey |
+| 103 | 128 | Uhog SF |
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |

@@ -81,8 +81,8 @@
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Mendoza Lee Christy |
-| 77 | 322 | Michelle |
+| 76 | 322 | Michelle |
+| 77 | 322 | Mendoza Lee Christy |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | Rich LeBlanc |
@@ -103,8 +103,8 @@
 | 95 | 239 | Lush Buildout |
 | 96 | 234 | Louise Stacy Sisson |
 | 97 | 232 | Poppy Splitter |
-| 98 | 224 | Judi Dobson |
-| 99 | 224 | Mykal Burton |
+| 98 | 224 | Mykal Burton |
+| 99 | 224 | Judi Dobson |
 | 100 | 223 | Jeana Gilbert |
 | 101 | 222 | Jimmie Clemons |
 | 102 | 218 | mjl574 |
@@ -134,8 +134,8 @@
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
-| 129 | 166 | Kelly Ann Child |
-| 130 | 166 | Danielle Mogg |
+| 129 | 166 | Danielle Mogg |
+| 130 | 166 | Kelly Ann Child |
 | 131 | 164 | rosy |
 | 132 | 163 | Karon Griffin |
 | 133 | 159 | Morgan Martinez |

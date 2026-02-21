@@ -196,8 +196,8 @@
 | 188 | 359 | Brainy Smurf |
 | 189 | 358 | Arwa Fatimah |
 | 190 | 357 | Shannon Byrd |
-| 191 | 356 | Alyssaaelena |
-| 192 | 356 | Deyawn Smith |
+| 191 | 356 | Deyawn Smith |
+| 192 | 356 | Alyssaaelena |
 | 193 | 352 | ruth |
 | 194 | 350 | Chris Harr |
 | 195 | 350 | Kimberly Randesi |
@@ -394,8 +394,8 @@
 | 386 | 198 | Angie Bolton Workman |
 | 387 | 198 | Alyssa Dean |
 | 388 | 196 | Besma Ao |
-| 389 | 196 | Alexandra Reese |
-| 390 | 196 | Cass Shirley |
+| 389 | 196 | Cass Shirley |
+| 390 | 196 | Alexandra Reese |
 | 391 | 195 | Snappy Shatterfit |
 | 392 | 195 | Emily Lyric Converse |
 | 393 | 194 | Mike Aprilliano |
