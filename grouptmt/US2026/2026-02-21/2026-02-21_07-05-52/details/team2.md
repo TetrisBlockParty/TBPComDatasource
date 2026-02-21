@@ -91,8 +91,8 @@
 | 83 | 672 | Wendy Harder Gage |
 | 84 | 669 | Lola Contreras |
 | 85 | 665 | Dineisha Carpenter |
-| 86 | 658 | Vistabrat |
-| 87 | 658 | Pacynthia Williams |
+| 86 | 658 | Pacynthia Williams |
+| 87 | 658 | Vistabrat |
 | 88 | 653 | Becky Weeks-Garry |
 | 89 | 649 | Anna Edwards |
 | 90 | 649 | Stephanie Chapman |
@@ -124,8 +124,8 @@
 | 116 | 520 | Kimberly Schall |
 | 117 | 519 | Maria Escobar |
 | 118 | 517 | Debra Williams |
-| 119 | 515 | Kaylee McCafferty |
-| 120 | 515 | Real Ri |
+| 119 | 515 | Real Ri |
+| 120 | 515 | Kaylee McCafferty |
 | 121 | 513 | Butta |
 | 122 | 510 | Ashley House |
 | 123 | 509 | Kelli Wells |
@@ -163,8 +163,8 @@
 | 155 | 409 | Sparkles |
 | 156 | 406 | Erin StFrancis |
 | 157 | 401 | Poppy Snap |
-| 158 | 400 | Tammy Allen |
-| 159 | 400 | Crystie Hicks |
+| 158 | 400 | Crystie Hicks |
+| 159 | 400 | Tammy Allen |
 | 160 | 397 | Ashley Guernsey-Martin |
 | 161 | 391 | Steven Marshaun |
 | 162 | 391 | Chilly Bridgepiece |
@@ -250,10 +250,10 @@
 | 242 | 278 | Noel Tarmy |
 | 243 | 276 | Lindsey Leigh |
 | 244 | 276 | Vonceial Boone |
-| 245 | 275 | Shiny Rollzone |
-| 246 | 275 | Ann Matzkanin |
-| 247 | 274 | Melissa Holsinger |
-| 248 | 274 | Jamie Stevey |
+| 245 | 275 | Ann Matzkanin |
+| 246 | 275 | Shiny Rollzone |
+| 247 | 274 | Jamie Stevey |
+| 248 | 274 | Melissa Holsinger |
 | 249 | 274 | Lonne Emade |
 | 250 | 273 | Jenna Nance |
 | 251 | 273 | August Hale |
@@ -265,8 +265,8 @@
 | 257 | 268 | Vanessa Moreno |
 | 258 | 268 | Chummy Blockbuilder |
 | 259 | 267 | Mindy Leigh Head |
-| 260 | 266 | Mighty Shatterfit |
-| 261 | 266 | Autumn Schaeffer |
+| 260 | 266 | Autumn Schaeffer |
+| 261 | 266 | Mighty Shatterfit |
 | 262 | 266 | Joyce Johnson Vaughn |
 | 263 | 264 | Dapper Dasher |
 | 264 | 263 | Taylor Flowers |
@@ -316,8 +316,8 @@
 | 308 | 233 | Alyssia Tancredi |
 | 309 | 233 | Robin Kerby |
 | 310 | 232 | Amber Brion |
-| 311 | 231 | Ginger |
-| 312 | 231 | Dylan Thomason |
+| 311 | 231 | Dylan Thomason |
+| 312 | 231 | Ginger |
 | 313 | 231 | Hong Tang |
 | 314 | 230 | Peachy Blockbuilder |
 | 315 | 230 | snkylnk |
@@ -433,13 +433,13 @@
 | 425 | 169 | Hyper Cluster |
 | 426 | 169 | Eddie Perez |
 | 427 | 168 | Phil J. Grombliniak |
-| 428 | 168 | HarleyJane |
-| 429 | 168 | Kati Russeau |
+| 428 | 168 | Kati Russeau |
+| 429 | 168 | HarleyJane |
 | 430 | 167 | mshir |
 | 431 | 167 | Sabrena Yeisley |
 | 432 | 166 | suuny |
-| 433 | 165 | Cathy Bitters |
-| 434 | 165 | Austin Wilson |
+| 433 | 165 | Austin Wilson |
+| 434 | 165 | Cathy Bitters |
 | 435 | 165 | Catherine Varea |
 | 436 | 164 | Sara Pennington |
 | 437 | 164 | Dar |

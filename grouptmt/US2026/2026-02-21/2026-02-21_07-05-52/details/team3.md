@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -100,8 +100,8 @@
 | 92 | 224 | Mykal Burton |
 | 93 | 223 | Jeana Gilbert |
 | 94 | 222 | Jimmie Clemons |
-| 95 | 218 | mjl574 |
-| 96 | 218 | Judi Dobson |
+| 95 | 218 | Judi Dobson |
+| 96 | 218 | mjl574 |
 | 97 | 214 | Amy Fuller Heaton |
 | 98 | 213 | Tom Nault |
 | 99 | 211 | Blocked |
@@ -115,8 +115,8 @@
 | 107 | 195 | Nicha Hooker |
 | 108 | 195 | Jenny Hrndz |
 | 109 | 194 | glichmod |
-| 110 | 193 | Shunta Jacobs |
-| 111 | 193 | Clever Shiftsnap |
+| 110 | 193 | Clever Shiftsnap |
+| 111 | 193 | Shunta Jacobs |
 | 112 | 192 | Chasity |
 | 113 | 191 | Scott Carleton |
 | 114 | 187 | Katrina Schroeder |
@@ -132,8 +132,8 @@
 | 124 | 166 | Kelly Ann Child |
 | 125 | 166 | Danielle Mogg |
 | 126 | 164 | rosy |
-| 127 | 159 | Jone |
-| 128 | 159 | Morgan Martinez |
+| 127 | 159 | Morgan Martinez |
+| 128 | 159 | Jone |
 | 129 | 158 | Grams |
 | 130 | 156 | Joey Banks |
 | 131 | 155 | BŘŰŤİÇŨŚ |
@@ -233,10 +233,10 @@
 | 225 | 96 | Christopher Woost |
 | 226 | 96 | Jason-Ashley Ludlow |
 | 227 | 95 | Michael Nowogorski |
-| 228 | 95 | AlsoJess |
-| 229 | 95 | Brooke Bauer |
-| 230 | 94 | Carrie Huskey |
-| 231 | 94 | Angie Harper |
+| 228 | 95 | Brooke Bauer |
+| 229 | 95 | AlsoJess |
+| 230 | 94 | Angie Harper |
+| 231 | 94 | Carrie Huskey |
 | 232 | 93 | Tiffany Ford |
 | 233 | 92 | Trice Thomas |
 | 234 | 92 | Jennifer Caputo |

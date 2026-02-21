@@ -47,8 +47,8 @@
 | 39 | 274 | Elizabeth Sallas |
 | 40 | 270 | Livvy |
 | 41 | 265 | Julian Garcia |
-| 42 | 256 | Dustin Robert |
-| 43 | 256 | Brittney Griggs |
+| 42 | 256 | Brittney Griggs |
+| 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
 | 46 | 231 | Jenna Ingersoll |
@@ -132,8 +132,8 @@
 | 124 | 105 | AyeKay |
 | 125 | 105 | Dihcheese444 |
 | 126 | 104 | YoMomma |
-| 127 | 104 | Damn Libra |
-| 128 | 104 | Adam Randall |
+| 127 | 104 | Adam Randall |
+| 128 | 104 | Damn Libra |
 | 129 | 102 | Faja |
 | 130 | 101 | Stephme310 |
 | 131 | 101 | Michelle Morris |
@@ -177,7 +177,7 @@
 | 169 | 81 | Jumpy Zonepiece |
 | 170 | 81 | Chair |
 | 171 | 81 | Nubian1 |
-| 172 | 81 | Michelle Parker |
+| 172 | 81 | Blessedmama |
 | 173 | 80 | Melissa Adams |
 | 174 | 79 | Kametsunoyaiba |
 | 175 | 79 | Perky Piecegrid |
