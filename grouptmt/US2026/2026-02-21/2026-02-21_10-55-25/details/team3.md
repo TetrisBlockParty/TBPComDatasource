@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Trezure Gonzalez |
 | 74 | 342 | Annie Déè |
@@ -107,15 +107,15 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Kristie McFarland |
-| 110 | 212 | Shunta Jacobs |
+| 109 | 212 | Shunta Jacobs |
+| 110 | 212 | Kristie McFarland |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -156,8 +156,8 @@
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Beth Ingham |
-| 152 | 153 | Stephanie Whitefield |
+| 151 | 153 | Stephanie Whitefield |
+| 152 | 153 | Beth Ingham |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |

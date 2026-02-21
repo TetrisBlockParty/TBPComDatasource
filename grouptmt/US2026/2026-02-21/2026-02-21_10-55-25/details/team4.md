@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Mike Solo |
-| 63 | 198 | Lori Walker |
+| 62 | 198 | Lori Walker |
+| 63 | 198 | Mike Solo |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -83,8 +83,8 @@
 | 75 | 170 | Girl |
 | 76 | 170 | Leah Kutz Zirbel |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Courtney Cicoria |
-| 79 | 165 | Casey Grabner |
+| 78 | 165 | Casey Grabner |
+| 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Holly Jolly |
 | 82 | 159 | Justin Hannigan |

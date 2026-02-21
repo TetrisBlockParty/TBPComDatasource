@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -219,8 +219,8 @@
 | 211 | 358 | Smashanator |
 | 212 | 357 | Shannon Byrd |
 | 213 | 356 | Deyawn Smith |
-| 214 | 354 | Brave Dropmatch |
-| 215 | 354 | Tracy Wise |
+| 214 | 354 | Tracy Wise |
+| 215 | 354 | Brave Dropmatch |
 | 216 | 353 | Joseph Musick |
 | 217 | 352 | ruth |
 | 218 | 350 | Chris Harr |
@@ -265,8 +265,8 @@
 | 257 | 303 | Crystal Greene |
 | 258 | 303 | Amanda Schaffer |
 | 259 | 301 | Claire |
-| 260 | 299 | Christy Krissie |
-| 261 | 299 | Deborah Miller |
+| 260 | 299 | Deborah Miller |
+| 261 | 299 | Christy Krissie |
 | 262 | 297 | Brenda Utphall |
 | 263 | 296 | Jennifer Casey-Kay |
 | 264 | 296 | Amber Gray |
@@ -281,19 +281,19 @@
 | 273 | 289 | Hyper Cluster |
 | 274 | 288 | Megan Phillips |
 | 275 | 286 | Ryan Gunther |
-| 276 | 285 | Jánine Riggs |
-| 277 | 285 | June E Hanson |
+| 276 | 285 | June E Hanson |
+| 277 | 285 | Jánine Riggs |
 | 278 | 283 | Davetta Sanford |
 | 279 | 282 | Carl Bradshaw |
 | 280 | 282 | Shaun Church |
 | 281 | 281 | Maegan Beaule |
-| 282 | 280 | Autumn Schaeffer |
-| 283 | 280 | Shorty |
+| 282 | 280 | Shorty |
+| 283 | 280 | Autumn Schaeffer |
 | 284 | 278 | Noel Tarmy |
 | 285 | 278 | Peachy Blockbuilder |
 | 286 | 276 | Lindsey Leigh |
-| 287 | 276 | SwampRebel |
-| 288 | 276 | Vonceial Boone |
+| 287 | 276 | Vonceial Boone |
+| 288 | 276 | SwampRebel |
 | 289 | 275 | Cheeky Brickmatch |
 | 290 | 275 | Brandy Andre |
 | 291 | 275 | Ann Matzkanin |
@@ -308,8 +308,8 @@
 | 300 | 272 | Mikayala Szaz |
 | 301 | 271 | Ann Marie Davis |
 | 302 | 271 | Toni Lynn |
-| 303 | 270 | Angela Lynn |
-| 304 | 270 | Christina Ashley |
+| 303 | 270 | Christina Ashley |
+| 304 | 270 | Angela Lynn |
 | 305 | 270 | Alexandra Weir |
 | 306 | 269 | Reece Smith |
 | 307 | 268 | Chummy Blockbuilder |
@@ -320,8 +320,8 @@
 | 312 | 263 | Taylor Flowers |
 | 313 | 262 | Taren Cowan |
 | 314 | 261 | MrsClaudette Will'sIam Matthews |
-| 315 | 260 | Denise Rickman |
-| 316 | 260 | Ebony Deloach Bryant |
+| 315 | 260 | Ebony Deloach Bryant |
+| 316 | 260 | Denise Rickman |
 | 317 | 257 | Shameika Trail |
 | 318 | 257 | Samantha Roberts |
 | 319 | 257 | Lyndi Robinson Wakefield |
@@ -416,8 +416,8 @@
 | 408 | 200 | LaWanda Powell |
 | 409 | 200 | Sarah Ridenour |
 | 410 | 199 | Fi Ne |
-| 411 | 199 | Jessica Sutter |
-| 412 | 199 | Jenny Castro |
+| 411 | 199 | Jenny Castro |
+| 412 | 199 | Jessica Sutter |
 | 413 | 198 | Angie Bolton Workman |
 | 414 | 198 | Alyssa Dean |
 | 415 | 197 | Alyssa Nadine Medelez |
@@ -428,16 +428,16 @@
 | 420 | 195 | Snappy Shatterfit |
 | 421 | 194 | Hoppy Brickmatch |
 | 422 | 194 | Kimberly Ann |
-| 423 | 193 | Kelly Ann McCormick |
-| 424 | 193 | Matthew Turner |
+| 423 | 193 | Matthew Turner |
+| 424 | 193 | Kelly Ann McCormick |
 | 425 | 193 | Alishac Marie |
 | 426 | 191 | Lauren Fitzgerald Thomas |
-| 427 | 191 | John Quiring |
-| 428 | 191 | Deana |
-| 429 | 190 | Layna Lyons |
-| 430 | 190 | Jessica Kaye DeAguero |
-| 431 | 188 | Seth Wrieden |
-| 432 | 188 | Michael Artis |
+| 427 | 191 | Deana |
+| 428 | 191 | John Quiring |
+| 429 | 190 | Jessica Kaye DeAguero |
+| 430 | 190 | Layna Lyons |
+| 431 | 188 | Michael Artis |
+| 432 | 188 | Seth Wrieden |
 | 433 | 188 | Justin Hines |
 | 434 | 187 | Stefanie Zonzini-Gagliardi |
 | 435 | 186 | Joshua Mullings |
@@ -500,8 +500,8 @@
 | 492 | 165 | Catherine Varea |
 | 493 | 164 | Sara Pennington |
 | 494 | 164 | Jessica Vega |
-| 495 | 163 | Danielle Ayoub |
-| 496 | 163 | Lakeela Wise |
+| 495 | 163 | Lakeela Wise |
+| 496 | 163 | Danielle Ayoub |
 | 497 | 163 | Albert McKnight |
 | 498 | 162 | LC Hamilton |
 | 499 | 162 | Andrea Maher |
