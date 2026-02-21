@@ -141,8 +141,8 @@
 | 133 | 152 | Jacqueline Unique |
 | 134 | 152 | Speedy Snapfall |
 | 135 | 150 | Adele Rahman |
-| 136 | 149 | Arianna O'Brien |
-| 137 | 149 | Jennifer ManWarren |
+| 136 | 149 | Jennifer ManWarren |
+| 137 | 149 | Arianna O'Brien |
 | 138 | 148 | Shauntina Burke |
 | 139 | 147 | Leslie Bush Yarbrough |
 | 140 | 146 | Christy Jones |
@@ -161,8 +161,8 @@
 | 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
-| 156 | 135 | Cody Slav |
-| 157 | 135 | Giddy Cascade |
+| 156 | 135 | Giddy Cascade |
+| 157 | 135 | Cody Slav |
 | 158 | 134 | Gracie |
 | 159 | 133 | Breanna Luna |
 | 160 | 132 | Cody Gates |
@@ -235,8 +235,8 @@
 | 227 | 98 | DoodleBug |
 | 228 | 97 | Steve Bomkamp |
 | 229 | 97 | Meechie |
-| 230 | 96 | Mel Hogan |
-| 231 | 96 | Howdi Duty |
+| 230 | 96 | Howdi Duty |
+| 231 | 96 | Mel Hogan |
 | 232 | 95 | Jeanna Dunn |
 | 233 | 94 | Sleepysloath5745 |
 | 234 | 93 | Jenny Gingrich Fuentes |

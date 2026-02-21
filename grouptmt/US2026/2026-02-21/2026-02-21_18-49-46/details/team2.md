@@ -142,8 +142,8 @@
 | 134 | 705 | Roger Grabbit |
 | 135 | 704 | Nerdy Clearfit |
 | 136 | 700 | Vincent Petrella |
-| 137 | 700 | Rosemadder |
-| 138 | 700 | Beverly Owens |
+| 137 | 700 | Beverly Owens |
+| 138 | 700 | Rosemadder |
 | 139 | 698 | Lola Contreras |
 | 140 | 697 | Real Ri |
 | 141 | 694 | Vo'Landa Reels |
@@ -239,8 +239,8 @@
 | 231 | 482 | Eckoman518 |
 | 232 | 481 | Jánine Riggs |
 | 233 | 475 | Khalil Lowe |
-| 234 | 474 | Auntie B |
-| 235 | 474 | Ashley Collins |
+| 234 | 474 | Ashley Collins |
+| 235 | 474 | Auntie B |
 | 236 | 474 | Calandra Shaya Robinson |
 | 237 | 470 | Jerry Tempelmeyer |
 | 238 | 469 | Ashley Rose Frederick |
@@ -301,8 +301,8 @@
 | 293 | 393 | Altamirano Michael |
 | 294 | 393 | Taylor Flowers |
 | 295 | 391 | Qiana Sanders |
-| 296 | 391 | Brenda Utphall |
-| 297 | 391 | Chilly Bridgepiece |
+| 296 | 391 | Chilly Bridgepiece |
+| 297 | 391 | Brenda Utphall |
 | 298 | 390 | Kimberly Randesi |
 | 299 | 389 | Kristen O'Neal |
 | 300 | 387 | Lourisha |

@@ -118,8 +118,8 @@
 | 110 | 318 | Chasity |
 | 111 | 316 | Fancy Cascader |
 | 112 | 309 | Rich LeBlanc |
-| 113 | 307 | Blocked |
-| 114 | 307 | Peggi Charon |
+| 113 | 307 | Peggi Charon |
+| 114 | 307 | Blocked |
 | 115 | 300 | Sherika C. McDaniels |
 | 116 | 300 | Tessina Dewey-Mancino |
 | 117 | 293 | Poppy Splitter |
@@ -149,8 +149,8 @@
 | 141 | 223 | Jeana Gilbert |
 | 142 | 222 | Hoppy Buildout |
 | 143 | 222 | Jimmie Clemons |
-| 144 | 219 | Shunta Jacobs |
-| 145 | 219 | Tom Nault |
+| 144 | 219 | Tom Nault |
+| 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Marci Mize Fandrich |
 | 148 | 216 | Aaron Pitkin |

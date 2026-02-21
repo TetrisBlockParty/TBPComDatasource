@@ -109,8 +109,8 @@
 | 101 | 191 | loulou |
 | 102 | 191 | Melvin Baird |
 | 103 | 189 | Calvin Dennis |
-| 104 | 187 | Swanky Fitline |
-| 105 | 187 | TheNeesh50 |
+| 104 | 187 | TheNeesh50 |
+| 105 | 187 | Swanky Fitline |
 | 106 | 186 | Leslie Nicole |
 | 107 | 185 | Andy Cabral |
 | 108 | 181 | Carter Jones |
@@ -120,8 +120,8 @@
 | 112 | 179 | Epic Curvetile |
 | 113 | 178 | Lori |
 | 114 | 177 | Andria Lynn |
-| 115 | 174 | Dihcheese444 |
-| 116 | 174 | Zethra Prenisha Rahming |
+| 115 | 174 | Zethra Prenisha Rahming |
+| 116 | 174 | Dihcheese444 |
 | 117 | 173 | Ren Mc |
 | 118 | 173 | blockstar |
 | 119 | 170 | Peachy Fall |
