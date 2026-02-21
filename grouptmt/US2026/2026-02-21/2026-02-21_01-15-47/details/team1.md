@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Kathi Snustad |
-| 18 | 281 | Nancy Green |
+| 17 | 281 | Nancy Green |
+| 18 | 281 | Kathi Snustad |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |
@@ -64,8 +64,8 @@
 | 56 | 116 | Kristen Roles Robben |
 | 57 | 114 | Colleen Wise |
 | 58 | 114 | Giddy Cascade |
-| 59 | 112 | Nicole Roseberry Weber |
-| 60 | 112 | Miguel Teixeira |
+| 59 | 112 | Miguel Teixeira |
+| 60 | 112 | Nicole Roseberry Weber |
 | 61 | 110 | Heidi Feurer |
 | 62 | 109 | Dandy Basegrid |
 | 63 | 108 | Susanna Guerry |
