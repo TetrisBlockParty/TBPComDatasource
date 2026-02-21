@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -95,8 +95,8 @@
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | 030Synner |
-| 91 | 147 | Jay28 |
+| 90 | 147 | Jay28 |
+| 91 | 147 | 030Synner |
 | 92 | 146 | Peachy Fall |
 | 93 | 145 | Andy Cabral |
 | 94 | 143 | Nugget |
@@ -121,9 +121,9 @@
 | 113 | 129 | John Brunetti |
 | 114 | 126 | Dihcheese444 |
 | 115 | 125 | Lauren Scott |
-| 116 | 123 | TinyLegoRose |
-| 117 | 123 | Cherrish Duren |
-| 118 | 123 | Bubbly Puzzler |
+| 116 | 123 | Bubbly Puzzler |
+| 117 | 123 | TinyLegoRose |
+| 118 | 123 | Cherrish Duren |
 | 119 | 122 | Sherri |
 | 120 | 121 | Megan Cutshaw |
 | 121 | 121 | Zany Shatterer |

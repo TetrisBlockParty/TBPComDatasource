@@ -176,8 +176,8 @@
 | 168 | 90 | Madison Wicks |
 | 169 | 90 | Dizzy Party |
 | 170 | 89 | Mara Hilker |
-| 171 | 88 | Larry Tilton |
-| 172 | 88 | Tyler Whitley |
+| 171 | 88 | Tyler Whitley |
+| 172 | 88 | Larry Tilton |
 | 173 | 87 | Jessi Sauer |
 | 174 | 87 | Jenny Gingrich Fuentes |
 | 175 | 86 | Desiree Deschaine Havee |

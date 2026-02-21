@@ -78,8 +78,8 @@
 | 70 | 345 | Christine Niles |
 | 71 | 345 | Mendoza Lee Christy |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Annie Déè |
-| 74 | 342 | Trezure Gonzalez |
+| 73 | 342 | Trezure Gonzalez |
+| 74 | 342 | Annie Déè |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -139,8 +139,8 @@
 | 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
@@ -296,7 +296,7 @@
 | 288 | 84 | gremicx |
 | 289 | 84 | Rania Zaqout |
 | 290 | 84 | Flashy Rumbler |
-| 291 | 84 | gremicx |
+| 291 | 84 | Spunky Racker |
 | 292 | 83 | Matty Ray |
 | 293 | 83 | Deseree Ewing |
 | 294 | 82 | Nikki Pags |
@@ -378,7 +378,7 @@
 | 370 | 67 | Romeo |
 | 371 | 67 | Dee |
 | 372 | 67 | Will Miller |
-| 373 | 67 | Romeo |
+| 373 | 67 | Daryn Elliott |
 | 374 | 67 | Wendy Dearden |
 | 375 | 66 | Nimka Jams |
 | 376 | 66 | Jess Meyers |
