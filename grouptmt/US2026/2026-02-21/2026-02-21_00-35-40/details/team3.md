@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Clever Shiftsnap |
@@ -74,8 +74,8 @@
 | 66 | 152 | Shannon Matthew Byers |
 | 67 | 152 | Shiny Zonebuilder |
 | 68 | 147 | Trisha Balmer |
-| 69 | 143 | ren |
-| 70 | 143 | rosy |
+| 69 | 143 | rosy |
+| 70 | 143 | ren |
 | 71 | 141 | Denita Mungro |
 | 72 | 135 | Nicole Flippo |
 | 73 | 135 | Latoya Mayne |
@@ -97,8 +97,8 @@
 | 89 | 113 | Jennifer Alvey |
 | 90 | 112 | Connie Mohler-Fair |
 | 91 | 111 | Joy Petroski |
-| 92 | 110 | Tiff Vs Tiffany |
-| 93 | 110 | Stella |
+| 92 | 110 | Stella |
+| 93 | 110 | Tiff Vs Tiffany |
 | 94 | 108 | Grams |
 | 95 | 107 | Bryan Byrd |
 | 96 | 105 | Hoppy Buildout |
@@ -215,7 +215,7 @@
 | 207 | 54 | Matty Ray |
 | 208 | 53 | Payden Dover |
 | 209 | 53 | Serenity |
-| 210 | 52 | MizzMonick Smith |
+| 210 | 52 | Josiah Fam |
 | 211 | 52 | Jesse Olive |
 | 212 | 52 | MizzMonick Smith |
 | 213 | 52 | Kristina Marie |

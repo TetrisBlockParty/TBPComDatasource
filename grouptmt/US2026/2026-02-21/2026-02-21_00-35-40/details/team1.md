@@ -114,7 +114,7 @@
 | 106 | 63 | Mitchel White |
 | 107 | 62 | Tofy |
 | 108 | 62 | Sarah Henniker |
-| 109 | 62 | Tofy |
+| 109 | 62 | Tina Englert |
 | 110 | 61 | Carolyn Smith |
 | 111 | 61 | Chantelle Ceno |
 | 112 | 60 | BigWeenie69 |
