@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | quicksand420 |
-| 66 | 376 | Marie-Pier Desjardins |
+| 65 | 376 | Marie-Pier Desjardins |
+| 66 | 376 | quicksand420 |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |
@@ -231,8 +231,8 @@
 | 223 | 111 | Kristin MacDonald |
 | 224 | 111 | Lazy Blocker |
 | 225 | 110 | Zach Kerbs |
-| 226 | 109 | Ak Jones |
-| 227 | 109 | Frank Cook |
+| 226 | 109 | Frank Cook |
+| 227 | 109 | Ak Jones |
 | 228 | 108 | Rebecca Morris |
 | 229 | 108 | Ali Ian |
 | 230 | 107 | Rafael Valentin |
@@ -313,7 +313,7 @@
 | 305 | 83 | Abigail Murphy |
 | 306 | 82 | Nick Gray |
 | 307 | 82 | Kametsunoyaiba |
-| 308 | 82 | Nick Gray |
+| 308 | 82 | Paige Kittles |
 | 309 | 82 | Porkobello |
 | 310 | 81 | Joshua Cuellar |
 | 311 | 81 | Crystal Lynn |

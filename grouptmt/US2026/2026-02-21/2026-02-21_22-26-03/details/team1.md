@@ -27,8 +27,8 @@
 | 19 | 827 | Alexis Cor |
 | 20 | 792 | LaQuetta Faith Hines |
 | 21 | 779 | Andrea Dañielle Ortiz |
-| 22 | 770 | Adryane Schnase |
-| 23 | 770 | Zappy Curvetile |
+| 22 | 770 | Zappy Curvetile |
+| 23 | 770 | Adryane Schnase |
 | 24 | 733 | Jorge Andrade |
 | 25 | 699 | Josie Kirt |
 | 26 | 683 | Chipper Gridlock |
@@ -110,8 +110,8 @@
 | 102 | 240 | Tana |
 | 103 | 240 | Chelsea Dahlquist |
 | 104 | 239 | Cynthia Bradley |
-| 105 | 238 | Steve Schneider |
-| 106 | 238 | John J. Cronin |
+| 105 | 238 | John J. Cronin |
+| 106 | 238 | Steve Schneider |
 | 107 | 237 | Seante Bullock |
 | 108 | 230 | Frothy Pattern |
 | 109 | 228 | Trippy Redd |
@@ -143,15 +143,15 @@
 | 135 | 180 | Erez Yosef |
 | 136 | 180 | BigWeenie69 |
 | 137 | 179 | Danielle Little-Daugherty |
-| 138 | 178 | Michael |
-| 139 | 178 | Chad Atchley |
+| 138 | 178 | Chad Atchley |
+| 139 | 178 | Michael |
 | 140 | 177 | ParisandCory Champagne |
 | 141 | 176 | Basment Living |
 | 142 | 175 | John Barron |
 | 143 | 171 | David DeSantis |
 | 144 | 171 | Greg Premoe |
-| 145 | 170 | Veronica Eve |
-| 146 | 170 | Cartier |
+| 145 | 170 | Cartier |
+| 146 | 170 | Veronica Eve |
 | 147 | 169 | Abbey Crespo |
 | 148 | 168 | Standia Civil |
 | 149 | 166 | Tyler Werts |
@@ -187,8 +187,8 @@
 | 179 | 139 | Jenny Gingrich Fuentes |
 | 180 | 139 | Flashy Rotator |
 | 181 | 138 | Death |
-| 182 | 137 | Witty Builderfit |
-| 183 | 137 | Cody Gates |
+| 182 | 137 | Cody Gates |
+| 183 | 137 | Witty Builderfit |
 | 184 | 136 | Dino |
 | 185 | 136 | Breanna Luna |
 | 186 | 135 | Giddy Cascade |
@@ -232,9 +232,9 @@
 | 224 | 111 | Chirpy Smasher |
 | 225 | 110 | Madison Wicks |
 | 226 | 110 | Jodee Woods |
-| 227 | 110 | Madison Wicks |
-| 228 | 109 | John Kim |
-| 229 | 109 | Nicolette Ivory Chastain |
+| 227 | 110 | Garcia Bailey |
+| 228 | 109 | Nicolette Ivory Chastain |
+| 229 | 109 | John Kim |
 | 230 | 109 | Cheeky Pop |
 | 231 | 108 | Nathan Sealander |
 | 232 | 108 | Jessie |

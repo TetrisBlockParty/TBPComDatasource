@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Hyper Matchzone |
-| 214 | 182 | Raven Dudley |
+| 213 | 182 | Raven Dudley |
+| 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Ashley Jones |
