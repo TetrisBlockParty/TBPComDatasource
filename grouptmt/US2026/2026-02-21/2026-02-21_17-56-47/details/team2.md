@@ -577,8 +577,8 @@
 | 569 | 205 | ElizabethAnn Dickinson |
 | 570 | 204 | Ali Gralski |
 | 571 | 204 | Ryan Lauer |
-| 572 | 204 | Brenna Ann |
-| 573 | 204 | Kimberly Ann |
+| 572 | 204 | Kimberly Ann |
+| 573 | 204 | Brenna Ann |
 | 574 | 203 | Alyssa Dean |
 | 575 | 202 | Layna Lyons |
 | 576 | 201 | Matthew Turner |
@@ -641,8 +641,8 @@
 | 633 | 184 | Theresa Sterrett |
 | 634 | 184 | Monarca26 |
 | 635 | 184 | BamaGirlinTX |
-| 636 | 183 | Cappin You |
-| 637 | 183 | Wakanda Forever |
+| 636 | 183 | Wakanda Forever |
+| 637 | 183 | Cappin You |
 | 638 | 183 | Lynzekwi |
 | 639 | 182 | Roseanna Peloso |
 | 640 | 182 | Veronica Guerra |

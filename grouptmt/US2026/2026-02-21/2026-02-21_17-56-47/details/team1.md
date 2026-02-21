@@ -65,8 +65,8 @@
 | 57 | 293 | Adam Byrd |
 | 58 | 287 | Hyper |
 | 59 | 286 | Tipsy Column |
-| 60 | 285 | Carrie Beck Geartz |
-| 61 | 285 | Sweet Baker |
+| 60 | 285 | Sweet Baker |
+| 61 | 285 | Carrie Beck Geartz |
 | 62 | 281 | Shauna Loe |
 | 63 | 277 | Timothy Dew |
 | 64 | 274 | Theo Pinnow |
@@ -88,10 +88,10 @@
 | 80 | 226 | Sharon Reynolds |
 | 81 | 223 | TSwag |
 | 82 | 222 | Kristen Gideon |
-| 83 | 213 | Lexuriuos Lifestlye |
-| 84 | 213 | Billie Dawn Sparks |
-| 85 | 212 | Jaimie Lynn |
-| 86 | 212 | Mandyy Rae |
+| 83 | 213 | Billie Dawn Sparks |
+| 84 | 213 | Lexuriuos Lifestlye |
+| 85 | 212 | Mandyy Rae |
+| 86 | 212 | Jaimie Lynn |
 | 87 | 211 | Marianita Garcia |
 | 88 | 211 | june october |
 | 89 | 210 | Ly Phethmany |
@@ -149,13 +149,13 @@
 | 141 | 145 | Angela Fairbank |
 | 142 | 144 | femmefatale |
 | 143 | 144 | Plucky Ziggy |
-| 144 | 144 | femmefatale |
+| 144 | 144 | Gary Gobin |
 | 145 | 143 | Sarah Marie |
 | 146 | 142 | Colleen Wise |
 | 147 | 141 | Blaire Bruckoff |
 | 148 | 140 | Miguel Teixeira |
-| 149 | 138 | Cranky Pattern |
-| 150 | 138 | Death |
+| 149 | 138 | Death |
+| 150 | 138 | Cranky Pattern |
 | 151 | 137 | Nadine Velardo |
 | 152 | 136 | Dino |
 | 153 | 135 | Cody Slav |
@@ -182,8 +182,8 @@
 | 174 | 122 | Margo Wagner |
 | 175 | 122 | Melissa Lemmon |
 | 176 | 121 | April Carroll |
-| 177 | 120 | Alenoush Karimian |
-| 178 | 120 | Kimmie Kimms |
+| 177 | 120 | Kimmie Kimms |
+| 178 | 120 | Alenoush Karimian |
 | 179 | 119 | Tater |
 | 180 | 116 | Jessica Russell |
 | 181 | 115 | Mrs.Patrica |

@@ -63,8 +63,8 @@
 | 55 | 546 | Danielle Mogg |
 | 56 | 546 | Dan Rob |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Giddy Drop |
-| 59 | 528 | Natasha Jones |
+| 58 | 528 | Natasha Jones |
+| 59 | 528 | Giddy Drop |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | CeceGeGe |
-| 111 | 309 | Rich LeBlanc |
+| 110 | 309 | Rich LeBlanc |
+| 111 | 309 | CeceGeGe |
 | 112 | 307 | Blocked |
 | 113 | 307 | Peggi Charon |
 | 114 | 300 | Sherika C. McDaniels |
@@ -235,8 +235,8 @@
 | 227 | 145 | Emma |
 | 228 | 145 | Bryan Byrd |
 | 229 | 142 | Jl |
-| 230 | 142 | Erica Anderson |
-| 231 | 142 | David Bardo |
+| 230 | 142 | David Bardo |
+| 231 | 142 | Erica Anderson |
 | 232 | 139 | Loopy Clusterer |
 | 233 | 138 | Boldy Corner |
 | 234 | 137 | Cheryl Hinch Tenbrook |
@@ -342,8 +342,8 @@
 | 334 | 96 | Christopher Woost |
 | 335 | 96 | D3NO |
 | 336 | 95 | Brooke Bauer |
-| 337 | 94 | Tracey Cox |
-| 338 | 94 | Nichole Greene |
+| 337 | 94 | Nichole Greene |
+| 338 | 94 | Tracey Cox |
 | 339 | 93 | Tiffany Ford |
 | 340 | 93 | Martin Bernier |
 | 341 | 93 | Kevin Russell |
