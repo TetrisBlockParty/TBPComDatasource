@@ -23,8 +23,8 @@
 | 15 | 446 | Valerie Roberts |
 | 16 | 402 | Samantha Peterson |
 | 17 | 390 | Alicia Bass |
-| 18 | 383 | Carmethia Clemons Haslerig |
-| 19 | 383 | Johnathan Martinez |
+| 18 | 383 | Johnathan Martinez |
+| 19 | 383 | Carmethia Clemons Haslerig |
 | 20 | 348 | Rodney McMath Jr. |
 | 21 | 345 | Ancient Intuition |
 | 22 | 339 | LisaJo Picken Buchanan |
@@ -40,8 +40,8 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Jenna Ingersoll |
-| 36 | 231 | Michelle Marie |
+| 35 | 231 | Michelle Marie |
+| 36 | 231 | Jenna Ingersoll |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
@@ -71,8 +71,8 @@
 | 63 | 145 | Edward White |
 | 64 | 141 | Malakai Darien Fox |
 | 65 | 140 | Shannon Ferrari |
-| 66 | 134 | Chirpy Basepiece |
-| 67 | 134 | Jessica Bohlken |
+| 66 | 134 | Jessica Bohlken |
+| 67 | 134 | Chirpy Basepiece |
 | 68 | 133 | Robin Watters |
 | 69 | 132 | Degenerate |
 | 70 | 132 | Jenna McGeorge |

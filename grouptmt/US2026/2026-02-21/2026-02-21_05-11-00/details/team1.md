@@ -93,8 +93,8 @@
 | 85 | 128 | Shiny Gridmatch |
 | 86 | 126 | Cece Ibarra |
 | 87 | 121 | Bouncy Grid |
-| 88 | 119 | Irual Hctrab |
-| 89 | 119 | Tater |
+| 88 | 119 | Tater |
+| 89 | 119 | Irual Hctrab |
 | 90 | 115 | comrade fish |
 | 91 | 114 | Michael |
 | 92 | 114 | Colleen Wise |
@@ -110,8 +110,8 @@
 | 102 | 108 | Tavia |
 | 103 | 107 | Jodee Woods |
 | 104 | 106 | Ash Galvan |
-| 105 | 105 | Barry Mac'Ockner |
-| 106 | 105 | Flashy Rotator |
+| 105 | 105 | Flashy Rotator |
+| 106 | 105 | Barry Mac'Ockner |
 | 107 | 103 | Adryane Schnase |
 | 108 | 102 | Jennifer ManWarren |
 | 109 | 100 | Bhelle Sumile |

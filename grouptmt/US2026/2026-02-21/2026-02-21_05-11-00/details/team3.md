@@ -131,8 +131,8 @@
 | 123 | 140 | Jay Horn |
 | 124 | 139 | Angel Mendez |
 | 125 | 135 | Nicole Flippo |
-| 126 | 134 | DanceLuvLaugh |
-| 127 | 134 | Emma |
+| 126 | 134 | Emma |
+| 127 | 134 | DanceLuvLaugh |
 | 128 | 133 | Giddy Twistbuilder |
 | 129 | 131 | Jl |
 | 130 | 131 | Elaine Webb Graves |

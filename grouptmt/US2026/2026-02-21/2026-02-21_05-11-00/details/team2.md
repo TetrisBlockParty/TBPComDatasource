@@ -86,8 +86,8 @@
 | 78 | 658 | Dreamy Blast |
 | 79 | 658 | Vistabrat |
 | 80 | 653 | Becky Weeks-Garry |
-| 81 | 649 | Anna Edwards |
-| 82 | 649 | Stephanie Chapman |
+| 81 | 649 | Stephanie Chapman |
+| 82 | 649 | Anna Edwards |
 | 83 | 631 | Loopy Clusterbuilder |
 | 84 | 608 | John Bednarik |
 | 85 | 601 | Nancy Reid |
@@ -211,8 +211,8 @@
 | 203 | 288 | Deborah Miller |
 | 204 | 287 | Claire |
 | 205 | 286 | Ryan Gunther |
-| 206 | 285 | June E Hanson |
-| 207 | 285 | Oscar Bernie |
+| 206 | 285 | Oscar Bernie |
+| 207 | 285 | June E Hanson |
 | 208 | 284 | Macy Williams |
 | 209 | 284 | Mamachelle Eisweirth |
 | 210 | 283 | Davetta Sanford |
