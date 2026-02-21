@@ -157,9 +157,9 @@
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
-| 152 | 149 | Angel Mendez |
+| 152 | 149 | Bea Miles |
 | 153 | 149 | Trisha Balmer |
-| 154 | 149 | Bea Miles |
+| 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
 | 156 | 146 | Latoya Mayne |
 | 157 | 146 | Denita Mungro |

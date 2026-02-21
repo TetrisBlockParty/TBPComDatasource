@@ -76,16 +76,16 @@
 | 68 | 179 | Epic Curvetile |
 | 69 | 175 | Dustee Craddock-Harrison |
 | 70 | 173 | Jeff Brian Gates |
-| 71 | 171 | Zethra Prenisha Rahming |
-| 72 | 171 | Melvin Baird |
-| 73 | 170 | Girl |
-| 74 | 170 | Leah Kutz Zirbel |
+| 71 | 171 | Melvin Baird |
+| 72 | 171 | Zethra Prenisha Rahming |
+| 73 | 170 | Leah Kutz Zirbel |
+| 74 | 170 | Girl |
 | 75 | 167 | Denise Carlson |
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Holly Jolly |
-| 80 | 159 | Justin Hannigan |
+| 79 | 159 | Justin Hannigan |
+| 80 | 159 | Holly Jolly |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -131,8 +131,8 @@
 | 123 | 113 | Andria Lynn |
 | 124 | 113 | Stephme310 |
 | 125 | 112 | Austin Owens |
-| 126 | 112 | Brittany Marsh |
-| 127 | 112 | Bryan Hodgins |
+| 126 | 112 | Bryan Hodgins |
+| 127 | 112 | Brittany Marsh |
 | 128 | 111 | Gwendolyn Pitcairn |
 | 129 | 111 | Lazy Blocker |
 | 130 | 110 | H.R. Block |
@@ -184,9 +184,9 @@
 | 176 | 85 | Shukee Lo |
 | 177 | 85 | Mimi |
 | 178 | 83 | Avy Absol |
-| 179 | 83 | Abigail Murphy |
+| 179 | 83 | Holly |
 | 180 | 83 | Joseph Gray |
-| 181 | 83 | Holly |
+| 181 | 83 | Abigail Murphy |
 | 182 | 82 | Jason Frehner |
 | 183 | 82 | Kim Hunt |
 | 184 | 81 | Jumpy Zonepiece |
