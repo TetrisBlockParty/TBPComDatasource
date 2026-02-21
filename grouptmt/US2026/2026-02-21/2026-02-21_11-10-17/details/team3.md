@@ -43,12 +43,12 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |

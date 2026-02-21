@@ -149,8 +149,8 @@
 | 141 | 520 | Kimberly Schall |
 | 142 | 519 | Maria Escobar |
 | 143 | 517 | Debra Williams |
-| 144 | 515 | Real Ri |
-| 145 | 515 | Kaylee McCafferty |
+| 144 | 515 | Kaylee McCafferty |
+| 145 | 515 | Real Ri |
 | 146 | 513 | Butta |
 | 147 | 511 | Dizzy Zone |
 | 148 | 510 | Ashley House |
@@ -409,8 +409,8 @@
 | 401 | 207 | Shylee Tilman |
 | 402 | 206 | RAEPR05 |
 | 403 | 206 | Neko Preston |
-| 404 | 205 | Lylymom |
-| 405 | 205 | ElizabethAnn Dickinson |
+| 404 | 205 | ElizabethAnn Dickinson |
+| 405 | 205 | Lylymom |
 | 406 | 204 | Ali Gralski |
 | 407 | 204 | Rebecca Doughman |
 | 408 | 203 | Gary Stash |
@@ -547,8 +547,8 @@
 | 539 | 154 | Lori Maring |
 | 540 | 153 | Luna |
 | 541 | 153 | Poppy Gridder |
-| 542 | 152 | Kyle LeRoy Harris |
-| 543 | 152 | James Smith |
+| 542 | 152 | James Smith |
+| 543 | 152 | Kyle LeRoy Harris |
 | 544 | 152 | Kristin King |
 | 545 | 152 | JP Parks |
 | 546 | 152 | Anthony Mignacca |
