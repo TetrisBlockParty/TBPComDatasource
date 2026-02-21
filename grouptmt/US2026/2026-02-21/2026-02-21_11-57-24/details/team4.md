@@ -23,8 +23,8 @@
 | 15 | 625 | GreenJeepGirl |
 | 16 | 608 | Denny Shives |
 | 17 | 606 | Rachel Anne |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Zethra Prenisha Rahming |
-| 77 | 171 | Melvin Baird |
+| 76 | 171 | Melvin Baird |
+| 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Casey Grabner |

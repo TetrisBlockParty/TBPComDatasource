@@ -250,8 +250,8 @@
 | 242 | 333 | Brittney Jean |
 | 243 | 332 | TF Dyer |
 | 244 | 331 | Shelley Thornburgh Wright |
-| 245 | 330 | Taryece Gause |
-| 246 | 330 | Victoria Moore-Smith |
+| 245 | 330 | Victoria Moore-Smith |
+| 246 | 330 | Taryece Gause |
 | 247 | 329 | Christina Ashley |
 | 248 | 328 | Marie Boyd Faulk |
 | 249 | 327 | Danielle Simmons |
@@ -324,8 +324,8 @@
 | 316 | 269 | Reece Smith |
 | 317 | 268 | Tanya Parsons |
 | 318 | 268 | Chummy Blockbuilder |
-| 319 | 266 | Mike Aprilliano |
-| 320 | 266 | Mighty Shatterfit |
+| 319 | 266 | Mighty Shatterfit |
+| 320 | 266 | Mike Aprilliano |
 | 321 | 264 | Dapper Dasher |
 | 322 | 263 | Taylor Flowers |
 | 323 | 262 | Taren Cowan |
@@ -357,8 +357,8 @@
 | 349 | 247 | Andrea Devery Beck |
 | 350 | 247 | Fancy Twister |
 | 351 | 246 | Kathryn Townsley |
-| 352 | 246 | Ashley Lopez |
-| 353 | 246 | Stephanie Lumanlan |
+| 352 | 246 | Stephanie Lumanlan |
+| 353 | 246 | Ashley Lopez |
 | 354 | 245 | Rachael Senard |
 | 355 | 245 | Sanaa Nounoussa |
 | 356 | 245 | ShinyRose |
@@ -375,8 +375,8 @@
 | 367 | 236 | Julio A Laracuente |
 | 368 | 236 | Niceday |
 | 369 | 235 | Kimberly Mitchell |
-| 370 | 234 | Manny Trindade |
-| 371 | 234 | Jennifer Leigh |
+| 370 | 234 | Jennifer Leigh |
+| 371 | 234 | Manny Trindade |
 | 372 | 234 | Jaybee Nguyen |
 | 373 | 233 | Jumpy Gridclear |
 | 374 | 233 | Robin Kerby |
@@ -411,8 +411,8 @@
 | 403 | 211 | Ys Muhammed |
 | 404 | 210 | Vaniel Glover |
 | 405 | 209 | Dawn L Washington-Feuquay |
-| 406 | 208 | Mema |
-| 407 | 208 | Nancy Pohlman |
+| 406 | 208 | Nancy Pohlman |
+| 407 | 208 | Mema |
 | 408 | 207 | Melissa McCall |
 | 409 | 207 | Brave Gridpiece |
 | 410 | 207 | Shylee Tilman |

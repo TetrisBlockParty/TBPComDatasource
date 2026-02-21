@@ -43,13 +43,13 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 562 | Stephanie Allmon |
-| 43 | 546 | Snappy Glidepiece |
-| 44 | 546 | Dolores Falco |
+| 43 | 546 | Dolores Falco |
+| 44 | 546 | Snappy Glidepiece |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -249,13 +249,13 @@
 | 241 | 100 | Elizabeth Renee |
 | 242 | 100 | Demetrious Shaw Sr. |
 | 243 | 100 | Edwin Calvillo Jr. |
-| 244 | 99 | Michael Nowogorski |
+| 244 | 99 | Nichol Graham |
 | 245 | 99 | MizzMonick Smith |
-| 246 | 99 | Nichol Graham |
-| 247 | 98 | Armi |
-| 248 | 98 | Erika Thornton |
+| 246 | 99 | Michael Nowogorski |
+| 247 | 98 | Funky Jumper |
+| 248 | 98 | Armi |
 | 249 | 98 | Jocelyne Baca |
-| 250 | 98 | Funky Jumper |
+| 250 | 98 | Erika Thornton |
 | 251 | 97 | Ashley Jones |
 | 252 | 96 | D3NO |
 | 253 | 96 | Jason-Ashley Ludlow |
@@ -263,8 +263,8 @@
 | 255 | 96 | Hanna Kim |
 | 256 | 96 | Tasha Wesson-Torrence |
 | 257 | 95 | Brooke Bauer |
-| 258 | 94 | Angie Harper |
-| 259 | 94 | Andrew Thorson |
+| 258 | 94 | Andrew Thorson |
+| 259 | 94 | Angie Harper |
 | 260 | 93 | Tiffany Ford |
 | 261 | 92 | Trice Thomas |
 | 262 | 92 | Ava Petito |
@@ -385,7 +385,7 @@
 | 377 | 67 | Will Miller |
 | 378 | 67 | Daryn Elliott |
 | 379 | 67 | Mel Murr |
-| 380 | 67 | Dee |
+| 380 | 67 | Romeo |
 | 381 | 67 | Wendy Dearden |
 | 382 | 66 | Cozy Stagger |
 | 383 | 66 | Michelle Abrams |

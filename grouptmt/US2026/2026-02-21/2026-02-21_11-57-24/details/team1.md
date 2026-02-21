@@ -111,8 +111,8 @@
 | 103 | 143 | Sarah Marie |
 | 104 | 141 | Blaire Bruckoff |
 | 105 | 141 | Greg Premoe |
-| 106 | 138 | Gary Gobin |
-| 107 | 138 | Cranky Pattern |
+| 106 | 138 | Cranky Pattern |
+| 107 | 138 | Gary Gobin |
 | 108 | 137 | Nadine Velardo |
 | 109 | 136 | Dena Kayy |
 | 110 | 135 | Cece Ibarra |
