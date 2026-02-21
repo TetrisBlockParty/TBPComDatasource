@@ -46,8 +46,8 @@
 | 38 | 511 | Jen Sartain |
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
-| 41 | 486 | Sarah Lombardo |
-| 42 | 486 | Sevens4L |
+| 41 | 486 | Sevens4L |
+| 42 | 486 | Sarah Lombardo |
 | 43 | 483 | Ryan Lunnin |
 | 44 | 480 | Kristen Roles Robben |
 | 45 | 469 | Kathi Snustad |
@@ -268,8 +268,8 @@
 | 260 | 89 | Itspaigebro |
 | 261 | 89 | Isodor |
 | 262 | 88 | Gewb |
-| 263 | 88 | DaRascal |
-| 264 | 88 | Colleen Pinette |
+| 263 | 88 | Colleen Pinette |
+| 264 | 88 | DaRascal |
 | 265 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 266 | 86 | Steven Collins |
 | 267 | 85 | Lakeisha Chapman |

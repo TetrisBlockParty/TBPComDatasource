@@ -561,8 +561,8 @@
 | 553 | 245 | sup |
 | 554 | 245 | Sanaa Nounoussa |
 | 555 | 244 | Belle |
-| 556 | 244 | Court |
-| 557 | 244 | Nakiiya Dreamcatcher Gore |
+| 556 | 244 | Nakiiya Dreamcatcher Gore |
+| 557 | 244 | Court |
 | 558 | 243 | JacJac |
 | 559 | 242 | Donna Chandler |
 | 560 | 242 | Lianne Giandalone LaBounty |

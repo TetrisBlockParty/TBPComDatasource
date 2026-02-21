@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -137,8 +137,8 @@
 | 129 | 164 | ThaEviLJeNiuZ |
 | 130 | 160 | ZeeZee |
 | 131 | 158 | Shane Kalamata Platoon |
-| 132 | 157 | quicksand420 |
-| 133 | 157 | Jenna McGeorge |
+| 132 | 157 | Jenna McGeorge |
+| 133 | 157 | quicksand420 |
 | 134 | 156 | Holly |
 | 135 | 156 | Jessica Bohlken |
 | 136 | 153 | Empress Oasis |
@@ -491,7 +491,7 @@
 | 483 | 49 | Angel Raya |
 | 484 | 49 | Jessica Graham |
 | 485 | 49 | Rae Henderson |
-| 486 | 49 | Angel Raya |
+| 486 | 49 | Lakesha Johnson |
 | 487 | 49 | Brad Campbell |
 | 488 | 48 | Lilya Troutman |
 | 489 | 48 | giantslover514 |
@@ -644,7 +644,7 @@
 | 636 | 35 | Somnium Era |
 | 637 | 35 | Kevin L Cafleux |
 | 638 | 35 | Greg Steinert |
-| 639 | 34 | Jim Gray |
+| 639 | 34 | Robert Everett |
 | 640 | 34 | Shiny Fit |
 | 641 | 34 | Jim Gray |
 | 642 | 34 | Laura Hosford |
