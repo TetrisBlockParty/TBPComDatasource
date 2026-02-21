@@ -26,8 +26,8 @@
 | 18 | 345 | Ancient Intuition |
 | 19 | 339 | LisaJo Picken Buchanan |
 | 20 | 338 | Nope Young |
-| 21 | 330 | Johnathan Martinez |
-| 22 | 330 | Samantha Peterson |
+| 21 | 330 | Samantha Peterson |
+| 22 | 330 | Johnathan Martinez |
 | 23 | 324 | Isabel Aguilar |
 | 24 | 320 | Kimyatta Cavin |
 | 25 | 315 | Carolyn Wallace |
@@ -41,8 +41,8 @@
 | 33 | 244 | Isabella Blanco |
 | 34 | 227 | Jenna Ingersoll |
 | 35 | 201 | Alyssa Papen |
-| 36 | 194 | Jamie Mann-Deichmann |
-| 37 | 194 | Rachel Anne |
+| 36 | 194 | Rachel Anne |
+| 37 | 194 | Jamie Mann-Deichmann |
 | 38 | 190 | Brittney Orengo |
 | 39 | 185 | loulou |
 | 40 | 184 | Autum Leigh |
