@@ -128,13 +128,13 @@
 | 120 | 703 | YiFei |
 | 121 | 701 | Mischelle Clay |
 | 122 | 700 | Vincent Petrella |
-| 123 | 700 | Beverly Owens |
-| 124 | 700 | Rosemadder |
+| 123 | 700 | Rosemadder |
+| 124 | 700 | Beverly Owens |
 | 125 | 699 | Anna Edwards |
 | 126 | 698 | Lola Contreras |
 | 127 | 697 | Real Ri |
-| 128 | 694 | Vo'Landa Reels |
-| 129 | 694 | Nancy Reid |
+| 128 | 694 | Nancy Reid |
+| 129 | 694 | Vo'Landa Reels |
 | 130 | 690 | Cool Clearer |
 | 131 | 688 | Dreamy Blast |
 | 132 | 679 | Gold Rose |
@@ -170,8 +170,8 @@
 | 162 | 580 | Steve Grotto |
 | 163 | 576 | Shannon Joslin |
 | 164 | 571 | Thomas Hedrick |
-| 165 | 569 | Vaniel Glover |
-| 166 | 569 | Gary Stash |
+| 165 | 569 | Gary Stash |
+| 166 | 569 | Vaniel Glover |
 | 167 | 563 | goofinoff |
 | 168 | 561 | Maria Escobar |
 | 169 | 550 | Jumpy Gridpiece |
@@ -368,14 +368,14 @@
 | 360 | 296 | Jennifer Casey-Kay |
 | 361 | 296 | AISlop |
 | 362 | 296 | Jennifer Darby |
-| 363 | 295 | Melissa Kay Gibson |
-| 364 | 295 | Matt Johnson |
+| 363 | 295 | Matt Johnson |
+| 364 | 295 | Melissa Kay Gibson |
 | 365 | 295 | Noel Tarmy |
 | 366 | 294 | Frisky Riserbuilder |
 | 367 | 294 | Barbra Miller |
 | 368 | 292 | Maegan Beaule |
-| 369 | 290 | Maya June |
-| 370 | 290 | Sabrina Burton |
+| 369 | 290 | Sabrina Burton |
+| 370 | 290 | Maya June |
 | 371 | 289 | Hyper Cluster |
 | 372 | 289 | Frisky Clearpiece |
 | 373 | 285 | Mandi Douglas Hilt |
@@ -389,8 +389,8 @@
 | 381 | 281 | Justin Hines |
 | 382 | 280 | Shorty |
 | 383 | 280 | Lonne Emade |
-| 384 | 280 | Lyndi Robinson Wakefield |
-| 385 | 280 | SwampRebel |
+| 384 | 280 | SwampRebel |
+| 385 | 280 | Lyndi Robinson Wakefield |
 | 386 | 279 | Glitzy Stackzone |
 | 387 | 278 | Deana |
 | 388 | 278 | Demeka Dangerous-kisses Johnson |
@@ -477,8 +477,8 @@
 | 469 | 233 | Jumpy Gridclear |
 | 470 | 232 | Amber Brion |
 | 471 | 231 | Hong Tang |
-| 472 | 231 | Dylan Thomason |
-| 473 | 231 | Brave Gridpiece |
+| 472 | 231 | Brave Gridpiece |
+| 473 | 231 | Dylan Thomason |
 | 474 | 230 | Leslie Johnson Guinto |
 | 475 | 228 | Michelle Sager |
 | 476 | 227 | Myleaha Holley |

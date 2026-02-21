@@ -103,8 +103,8 @@
 | 95 | 344 | Joey Banks |
 | 96 | 342 | Tiff Vs Tiffany |
 | 97 | 332 | Chauntee Alfrey-Cardinale |
-| 98 | 323 | Ashley Raines |
-| 99 | 323 | Sherry Ogden |
+| 98 | 323 | Sherry Ogden |
+| 99 | 323 | Ashley Raines |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
 | 102 | 309 | Rich LeBlanc |
@@ -260,8 +260,8 @@
 | 252 | 115 | Hoppy Buildout |
 | 253 | 114 | Amanda Neal |
 | 254 | 113 | Brave Brickster |
-| 255 | 113 | Beppy |
-| 256 | 113 | Brian Battjes |
+| 255 | 113 | Brian Battjes |
+| 256 | 113 | Beppy |
 | 257 | 111 | France Vézina |
 | 258 | 111 | Jason-Ashley Ludlow |
 | 259 | 111 | Stephanie Zahm |

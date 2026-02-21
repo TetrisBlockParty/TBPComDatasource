@@ -72,8 +72,8 @@
 | 64 | 279 | Lauren Scott |
 | 65 | 277 | KJ Pool |
 | 66 | 274 | Elizabeth Sallas |
-| 67 | 269 | KM8 |
-| 68 | 269 | Desi Desporte |
+| 67 | 269 | Desi Desporte |
+| 68 | 269 | KM8 |
 | 69 | 256 | Brittney Griggs |
 | 70 | 252 | Bubbly Puzzler |
 | 71 | 247 | Isabella Blanco |
@@ -90,11 +90,11 @@
 | 82 | 200 | Monica Daley |
 | 83 | 200 | Holly Jolly |
 | 84 | 199 | shar |
-| 85 | 198 | Mike Solo |
-| 86 | 198 | Dustee Craddock-Harrison |
+| 85 | 198 | Dustee Craddock-Harrison |
+| 86 | 198 | Mike Solo |
 | 87 | 194 | Zany Twisterfit |
-| 88 | 191 | Melvin Baird |
-| 89 | 191 | loulou |
+| 88 | 191 | loulou |
+| 89 | 191 | Melvin Baird |
 | 90 | 189 | Calvin Dennis |
 | 91 | 187 | Swanky Fitline |
 | 92 | 187 | Joeliecea Cobb |

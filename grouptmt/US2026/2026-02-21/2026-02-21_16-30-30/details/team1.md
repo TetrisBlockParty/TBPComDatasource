@@ -207,8 +207,8 @@
 | 199 | 100 | Tami Luce Martin |
 | 200 | 100 | Cheeky Pop |
 | 201 | 99 | Melissa Bires Hussar |
-| 202 | 99 | Mizzledagod |
-| 203 | 99 | Barrbaric |
+| 202 | 99 | Barrbaric |
+| 203 | 99 | Mizzledagod |
 | 204 | 98 | Witty Builderfit |
 | 205 | 97 | Steve Bomkamp |
 | 206 | 96 | Howdi Duty |
