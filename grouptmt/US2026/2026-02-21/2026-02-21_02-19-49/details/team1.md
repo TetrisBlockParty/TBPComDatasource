@@ -32,8 +32,8 @@
 | 24 | 243 | Tipsy Column |
 | 25 | 221 | Maria C. Hernandez |
 | 26 | 215 | Sarah Roberts |
-| 27 | 208 | Marianne Louise West |
-| 28 | 208 | Tdub |
+| 27 | 208 | Tdub |
+| 28 | 208 | Marianne Louise West |
 | 29 | 204 | Ly Phethmany |
 | 30 | 203 | Elaine Elaine |
 | 31 | 201 | Anaid Sanchez |
@@ -160,8 +160,8 @@
 | 152 | 58 | Jeremy Maubert |
 | 153 | 58 | Paula Martin |
 | 154 | 57 | Logan McFarland |
-| 155 | 57 | Felicia Lewis |
-| 156 | 57 | Lis |
+| 155 | 57 | Lis |
+| 156 | 57 | Felicia Lewis |
 | 157 | 56 | Henry Lanier |
 | 158 | 56 | Kellie |
 | 159 | 54 | MIKOZ |

@@ -34,8 +34,8 @@
 | 26 | 476 | Susan Valentino |
 | 27 | 476 | Poppy Dashfit |
 | 28 | 466 | Kay |
-| 29 | 446 | Jennifer Willis |
-| 30 | 446 | Kathryn Keenan-Taggart |
+| 29 | 446 | Kathryn Keenan-Taggart |
+| 30 | 446 | Jennifer Willis |
 | 31 | 432 | Nate Burnside |
 | 32 | 387 | Nerdy Spinblock |
 | 33 | 385 | Gracie |
@@ -127,11 +127,11 @@
 | 119 | 108 | Rachel Napper |
 | 120 | 107 | Bryan Byrd |
 | 121 | 105 | Hoppy Buildout |
-| 122 | 103 | Annie Déè |
-| 123 | 103 | Brian Battjes |
+| 122 | 103 | Brian Battjes |
+| 123 | 103 | Annie Déè |
 | 124 | 102 | Sarah Moyer |
-| 125 | 102 | Jenny Hrndz |
-| 126 | 102 | mommablock |
+| 125 | 102 | mommablock |
+| 126 | 102 | Jenny Hrndz |
 | 127 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 128 | 100 | Fredd Thomas |
 | 129 | 100 | Elizabeth Renee |
@@ -166,8 +166,8 @@
 | 158 | 85 | Kevin Russell |
 | 159 | 85 | Chris Bell |
 | 160 | 84 | Ava Petito |
-| 161 | 84 | Flashy Rumbler |
-| 162 | 84 | Amanda L Baker |
+| 161 | 84 | Amanda L Baker |
+| 162 | 84 | Flashy Rumbler |
 | 163 | 83 | LaTanya GeminiondaRise Johnson |
 | 164 | 82 | Tasha Wesson-Torrence |
 | 165 | 82 | Crystel b520 |
@@ -322,10 +322,10 @@
 | 314 | 45 | Jessica Christian |
 | 315 | 45 | Marci Mize Fandrich |
 | 316 | 45 | Pizzi |
-| 317 | 45 | Juliana Dottore |
-| 318 | 45 | Groovy Pivoty |
+| 317 | 45 | Groovy Pivoty |
+| 318 | 45 | Juliana Dottore |
 | 319 | 45 | Paul Hudak |
-| 320 | 44 | Mimi Pidou |
+| 320 | 44 | Snappy Glidepiece |
 | 321 | 44 | Victoria Wangler Lewis |
 | 322 | 44 | Mimi Pidou |
 | 323 | 44 | Sunny Tiltgrid |

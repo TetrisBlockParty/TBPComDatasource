@@ -47,8 +47,8 @@
 | 39 | 153 | Lucille Truesdale |
 | 40 | 147 | Courtney Cicoria |
 | 41 | 141 | Edward White |
-| 42 | 140 | Carter Jones |
-| 43 | 140 | Shannon Ferrari |
+| 42 | 140 | Shannon Ferrari |
+| 43 | 140 | Carter Jones |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
 | 46 | 133 | Robin Watters |
@@ -68,8 +68,8 @@
 | 60 | 113 | Degenerate |
 | 61 | 112 | Mr. Party |
 | 62 | 112 | Chirpy Basepiece |
-| 63 | 111 | Gwendolyn Pitcairn |
-| 64 | 111 | Zany Shatterer |
+| 63 | 111 | Zany Shatterer |
+| 64 | 111 | Gwendolyn Pitcairn |
 | 65 | 110 | Diana Houts |
 | 66 | 110 | H.R. Block |
 | 67 | 109 | Bryan Hodgins |
@@ -175,7 +175,7 @@
 | 167 | 50 | Hyper Builder |
 | 168 | 50 | April Rondinone |
 | 169 | 49 | Lakesha Johnson |
-| 170 | 49 | April Rondinone |
+| 170 | 49 | Rio Rocha |
 | 171 | 48 | Mbeth Moore |
 | 172 | 47 | Mylo Lipscomb |
 | 173 | 47 | Amy Sanford |
