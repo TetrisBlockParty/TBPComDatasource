@@ -82,15 +82,15 @@
 | 74 | 185 | Andy Cabral |
 | 75 | 185 | loulou |
 | 76 | 184 | Dizzy Tiley |
-| 77 | 180 | shar |
-| 78 | 180 | Leah Kutz Zirbel |
+| 77 | 180 | Leah Kutz Zirbel |
+| 78 | 180 | shar |
 | 79 | 179 | Epic Curvetile |
 | 80 | 178 | Lori |
-| 81 | 173 | Zethra Prenisha Rahming |
-| 82 | 173 | Jeff Brian Gates |
+| 81 | 173 | Jeff Brian Gates |
+| 82 | 173 | Zethra Prenisha Rahming |
 | 83 | 171 | Melvin Baird |
-| 84 | 170 | Girl |
-| 85 | 170 | Justin Hannigan |
+| 84 | 170 | Justin Hannigan |
+| 85 | 170 | Girl |
 | 86 | 167 | Denise Carlson |
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
@@ -153,8 +153,8 @@
 | 145 | 112 | Jackie Marie |
 | 146 | 111 | Gwendolyn Pitcairn |
 | 147 | 111 | Lazy Blocker |
-| 148 | 110 | YoMomma |
-| 149 | 110 | H.R. Block |
+| 148 | 110 | H.R. Block |
+| 149 | 110 | YoMomma |
 | 150 | 108 | Ali Ian |
 | 151 | 107 | Marcus Todd |
 | 152 | 106 | Avy Absol |
@@ -263,8 +263,8 @@
 | 255 | 69 | Carol Ricks Raymond |
 | 256 | 69 | Jessica Wells |
 | 257 | 68 | GBR |
-| 258 | 68 | LS |
-| 259 | 68 | 中山成巳 |
+| 258 | 68 | 中山成巳 |
+| 259 | 68 | LS |
 | 260 | 68 | Jennifer Perkins |
 | 261 | 67 | Frank Joseph Epson |
 | 262 | 67 | JPW |

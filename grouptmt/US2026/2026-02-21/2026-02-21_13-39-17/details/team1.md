@@ -70,16 +70,16 @@
 | 62 | 217 | Deanna L Hermanson |
 | 63 | 212 | Jaimie Lynn |
 | 64 | 211 | Marianita Garcia |
-| 65 | 208 | Carrie Beck Geartz |
-| 66 | 208 | Mandyy Rae |
+| 65 | 208 | Mandyy Rae |
+| 66 | 208 | Carrie Beck Geartz |
 | 67 | 205 | Trippy Redd |
-| 68 | 204 | Lexuriuos Lifestlye |
-| 69 | 204 | Ly Phethmany |
+| 68 | 204 | Ly Phethmany |
+| 69 | 204 | Lexuriuos Lifestlye |
 | 70 | 202 | Dee Perry |
-| 71 | 201 | Ananda Mendez |
-| 72 | 201 | Anaid Sanchez |
-| 73 | 198 | Happy Snapbuild |
-| 74 | 198 | Billie Dawn Sparks |
+| 71 | 201 | Anaid Sanchez |
+| 72 | 201 | Ananda Mendez |
+| 73 | 198 | Billie Dawn Sparks |
+| 74 | 198 | Happy Snapbuild |
 | 75 | 197 | Cynthia Bradley |
 | 76 | 194 | Giggly Builderline |
 | 77 | 193 | Lachelle Dillon |
@@ -143,8 +143,8 @@
 | 135 | 119 | Tater |
 | 136 | 118 | Barry Mac'Ockner |
 | 137 | 116 | Evie Khalil |
-| 138 | 115 | Chuck Gannon |
-| 139 | 115 | Mrs.Patrica |
+| 138 | 115 | Mrs.Patrica |
+| 139 | 115 | Chuck Gannon |
 | 140 | 114 | Giddy Cascade |
 | 141 | 113 | Desiree Deschaine Havee |
 | 142 | 112 | Carolyn Smith |
@@ -187,8 +187,8 @@
 | 179 | 96 | Melissa Lemmon |
 | 180 | 94 | Brad MG |
 | 181 | 92 | Timothy Dew |
-| 182 | 90 | Grace Joanne Agnant |
-| 183 | 90 | Fmp |
+| 182 | 90 | Fmp |
+| 183 | 90 | Grace Joanne Agnant |
 | 184 | 89 | Mara Hilker |
 | 185 | 88 | MommaKFC |
 | 186 | 88 | Larry Tilton |

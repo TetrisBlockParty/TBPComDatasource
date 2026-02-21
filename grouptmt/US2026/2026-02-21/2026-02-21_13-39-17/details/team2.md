@@ -173,8 +173,8 @@
 | 165 | 495 | Poppy Snap |
 | 166 | 488 | Teresa Gillmore |
 | 167 | 486 | MrsCandyfine As Wine Truss |
-| 168 | 485 | Gene Mills |
-| 169 | 485 | Leah Keesling |
+| 168 | 485 | Leah Keesling |
+| 169 | 485 | Gene Mills |
 | 170 | 484 | Suki Kaur |
 | 171 | 483 | Jordan Kaiser |
 | 172 | 482 | Eckoman518 |
@@ -192,8 +192,8 @@
 | 184 | 453 | Osun Anuket Esu |
 | 185 | 453 | Mischelle Clay |
 | 186 | 452 | Alezandra Smith |
-| 187 | 450 | Giggy Blocker |
-| 188 | 450 | Cheech Dta |
+| 187 | 450 | Cheech Dta |
+| 188 | 450 | Giggy Blocker |
 | 189 | 448 | Jojo Momma |
 | 190 | 442 | Daphne Jordan |
 | 191 | 442 | Leah |
@@ -356,8 +356,8 @@
 | 348 | 270 | Angela Lynn |
 | 349 | 269 | Reece Smith |
 | 350 | 268 | Chummy Blockbuilder |
-| 351 | 266 | Mighty Shatterfit |
-| 352 | 266 | Mike Aprilliano |
+| 351 | 266 | Mike Aprilliano |
+| 352 | 266 | Mighty Shatterfit |
 | 353 | 264 | Dapper Dasher |
 | 354 | 264 | Giddy Gridclear |
 | 355 | 263 | Taylor Flowers |
@@ -379,8 +379,8 @@
 | 371 | 254 | Rose Fx |
 | 372 | 254 | Julie Hamilton |
 | 373 | 253 | Tansaria Couch-Butler |
-| 374 | 252 | Matt Johnson |
-| 375 | 252 | Alyssia Tancredi |
+| 374 | 252 | Alyssia Tancredi |
+| 375 | 252 | Matt Johnson |
 | 376 | 252 | Britt Stunkel |
 | 377 | 251 | Ann Knutson Anderson |
 | 378 | 250 | Steve Man |
@@ -421,8 +421,8 @@
 | 413 | 231 | Hong Tang |
 | 414 | 230 | Leslie Johnson Guinto |
 | 415 | 229 | Tonya Lee |
-| 416 | 229 | Justin Hines |
-| 417 | 229 | Kimmy Newman |
+| 416 | 229 | Kimmy Newman |
+| 417 | 229 | Justin Hines |
 | 418 | 228 | Michelle Sager |
 | 419 | 227 | JacJac |
 | 420 | 226 | Mary Marie |
@@ -447,8 +447,8 @@
 | 439 | 211 | Trisha Gallagher |
 | 440 | 209 | Dawn L Washington-Feuquay |
 | 441 | 208 | Nancy Pohlman |
-| 442 | 207 | Melissa McCall |
-| 443 | 207 | Brave Gridpiece |
+| 442 | 207 | Brave Gridpiece |
+| 443 | 207 | Melissa McCall |
 | 444 | 207 | Shylee Tilman |
 | 445 | 206 | RAEPR05 |
 | 446 | 206 | Neko Preston |
