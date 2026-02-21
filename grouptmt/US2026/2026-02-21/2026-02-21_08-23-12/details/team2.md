@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 4259 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -121,8 +121,8 @@
 | 113 | 545 | Brittany Alicia |
 | 114 | 542 | Rosa Franklin |
 | 115 | 541 | SaraMarie Eveland |
-| 116 | 540 | Charvi' Carter |
-| 117 | 540 | YiFei |
+| 116 | 540 | YiFei |
+| 117 | 540 | Charvi' Carter |
 | 118 | 534 | Poppy Snapper |
 | 119 | 531 | Chris Wanner |
 | 120 | 529 | Tonya Morgan |
@@ -134,8 +134,8 @@
 | 126 | 520 | Kimberly Schall |
 | 127 | 519 | Maria Escobar |
 | 128 | 517 | Debra Williams |
-| 129 | 515 | Real Ri |
-| 130 | 515 | Kaylee McCafferty |
+| 129 | 515 | Kaylee McCafferty |
+| 130 | 515 | Real Ri |
 | 131 | 515 | Peppy Zone |
 | 132 | 513 | Butta |
 | 133 | 510 | Ashley House |
@@ -190,8 +190,8 @@
 | 182 | 380 | Joshua Mandel |
 | 183 | 380 | Calandra Shaya Robinson |
 | 184 | 378 | Cody Nishimura |
-| 185 | 377 | Liberty |
-| 186 | 377 | Roy Salyer |
+| 185 | 377 | Roy Salyer |
+| 186 | 377 | Liberty |
 | 187 | 364 | Shinette Dobson |
 | 188 | 363 | William Meussner |
 | 189 | 359 | Brainy Smurf |
@@ -281,8 +281,8 @@
 | 273 | 272 | Mikayala Szaz |
 | 274 | 271 | Ann Marie Davis |
 | 275 | 271 | Toni Lynn |
-| 276 | 270 | Angela Lynn |
-| 277 | 270 | Christina Ashley |
+| 276 | 270 | Christina Ashley |
+| 277 | 270 | Angela Lynn |
 | 278 | 270 | Alexandra Weir |
 | 279 | 268 | Tanya Parsons |
 | 280 | 268 | Chummy Blockbuilder |
@@ -321,8 +321,8 @@
 | 313 | 247 | Fancy Twister |
 | 314 | 247 | Andrea Devery Beck |
 | 315 | 246 | Kathryn Townsley |
-| 316 | 246 | Ashley Lopez |
-| 317 | 246 | Stephanie Lumanlan |
+| 316 | 246 | Stephanie Lumanlan |
+| 317 | 246 | Ashley Lopez |
 | 318 | 245 | Rachael Senard |
 | 319 | 245 | Taryece Gause |
 | 320 | 245 | Mischelle Clay |
@@ -380,8 +380,8 @@
 | 372 | 207 | Shylee Tilman |
 | 373 | 206 | Neko Preston |
 | 374 | 206 | RAEPR05 |
-| 375 | 205 | ElizabethAnn Dickinson |
-| 376 | 205 | Lylymom |
+| 375 | 205 | Lylymom |
+| 376 | 205 | ElizabethAnn Dickinson |
 | 377 | 204 | Ali Gralski |
 | 378 | 204 | Rebecca Doughman |
 | 379 | 203 | Gary Stash |
@@ -932,8 +932,8 @@
 | 924 | 89 | Mayra May May Orta |
 | 925 | 89 | Joshua Sommerville |
 | 926 | 89 | Sparkles  Sabrina |
-| 927 | 88 | David Duncan |
-| 928 | 88 | Ilse Chaparro |
+| 927 | 88 | Ilse Chaparro |
+| 928 | 88 | David Duncan |
 | 929 | 88 | Lorie Richardson |
 | 930 | 88 | Jai |
 | 931 | 88 | Breana Valdez |

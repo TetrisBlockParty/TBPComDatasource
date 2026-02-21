@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Valerie Roberts |
-| 15 | 590 | Dee Kay |
+| 14 | 590 | Dee Kay |
+| 15 | 590 | Valerie Roberts |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -203,8 +203,8 @@
 | 195 | 77 | Twisty Cascadezone |
 | 196 | 76 | Madison Sweere |
 | 197 | 76 | Bethany Ison |
-| 198 | 75 | Christina Black |
-| 199 | 75 | Rosemary Foster |
+| 198 | 75 | Rosemary Foster |
+| 199 | 75 | Christina Black |
 | 200 | 74 | Bradley Reeves |
 | 201 | 74 | Krs |
 | 202 | 73 | April Rondinone |

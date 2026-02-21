@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -250,8 +250,8 @@
 | 242 | 94 | Angie Harper |
 | 243 | 94 | Carrie Huskey |
 | 244 | 93 | Tiffany Ford |
-| 245 | 92 | Ava Petito |
-| 246 | 92 | Trice Thomas |
+| 245 | 92 | Trice Thomas |
+| 246 | 92 | Ava Petito |
 | 247 | 92 | Jennifer Caputo |
 | 248 | 91 | Martin Bernier |
 | 249 | 90 | Nichole Greene |
