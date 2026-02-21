@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -101,8 +101,8 @@
 | 93 | 815 | blarg |
 | 94 | 801 | Tralonda Weeks |
 | 95 | 800 | Tacara Cummings |
-| 96 | 789 | James Simms III |
-| 97 | 789 | Stephanie Chapman |
+| 96 | 789 | Stephanie Chapman |
+| 97 | 789 | James Simms III |
 | 98 | 787 | Laura McCarthey |
 | 99 | 780 | Amanda Grohmann |
 | 100 | 772 | Megan Ferguson Leone |
@@ -139,8 +139,8 @@
 | 131 | 631 | Peppy Zone |
 | 132 | 620 | BYM4L |
 | 133 | 619 | Jamie Otero |
-| 134 | 608 | Sommer Shope |
-| 135 | 608 | John Bednarik |
+| 134 | 608 | John Bednarik |
+| 135 | 608 | Sommer Shope |
 | 136 | 604 | Amber Shoemaker |
 | 137 | 603 | Cassie Maynard |
 | 138 | 602 | L3sli3 |
@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Gene Mills |
-| 184 | 485 | Leah Keesling |
+| 183 | 485 | Leah Keesling |
+| 184 | 485 | Gene Mills |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -268,8 +268,8 @@
 | 260 | 356 | Deyawn Smith |
 | 261 | 355 | Shandrica Lowe |
 | 262 | 355 | Kristen O'Neal |
-| 263 | 354 | Tracy Wise |
-| 264 | 354 | Brave Dropmatch |
+| 263 | 354 | Brave Dropmatch |
+| 264 | 354 | Tracy Wise |
 | 265 | 353 | Cheery Matchzone |
 | 266 | 352 | ruth |
 | 267 | 351 | Tara Lynn Janes |
@@ -315,8 +315,8 @@
 | 307 | 315 | Alisa Lamb |
 | 308 | 314 | NanDa Cruzan VI |
 | 309 | 314 | Amanda West |
-| 310 | 312 | Andrea Maher |
-| 311 | 312 | Michelle Pike |
+| 310 | 312 | Michelle Pike |
+| 311 | 312 | Andrea Maher |
 | 312 | 311 | Véronique Lévesque Sabourin |
 | 313 | 310 | Brandy Andre |
 | 314 | 309 | Oscar Bernie |
@@ -357,8 +357,8 @@
 | 349 | 280 | Lyndi Robinson Wakefield |
 | 350 | 280 | SwampRebel |
 | 351 | 279 | Glitzy Stackzone |
-| 352 | 278 | Noel Tarmy |
-| 353 | 278 | Deana |
+| 352 | 278 | Deana |
+| 353 | 278 | Noel Tarmy |
 | 354 | 278 | Peachy Blockbuilder |
 | 355 | 278 | Demeka Dangerous-kisses Johnson |
 | 356 | 276 | Lindsey Leigh |
@@ -381,10 +381,10 @@
 | 373 | 269 | Reece Smith |
 | 374 | 268 | Chummy Blockbuilder |
 | 375 | 267 | Britt Stunkel |
-| 376 | 266 | Denise Rickman |
-| 377 | 266 | Mike Aprilliano |
-| 378 | 264 | Thomas Hughes |
-| 379 | 264 | Dapper Dasher |
+| 376 | 266 | Mike Aprilliano |
+| 377 | 266 | Denise Rickman |
+| 378 | 264 | Dapper Dasher |
+| 379 | 264 | Thomas Hughes |
 | 380 | 264 | Giddy Gridclear |
 | 381 | 262 | Taren Cowan |
 | 382 | 262 | Min |
@@ -394,8 +394,8 @@
 | 386 | 257 | Anthony Mignacca |
 | 387 | 257 | Kathryn Townsley |
 | 388 | 257 | Jackie Jackie Lee |
-| 389 | 256 | Barbra Miller |
-| 390 | 256 | Alishac Marie |
+| 389 | 256 | Alishac Marie |
+| 390 | 256 | Barbra Miller |
 | 391 | 256 | Tee Jaleesa |
 | 392 | 254 | Rose Fx |
 | 393 | 254 | Elizabeth Diraffaele |
@@ -672,9 +672,9 @@
 | 664 | 149 | Brianna Cerney |
 | 665 | 149 | Carson Goldminc |
 | 666 | 147 | Lush Link |
-| 667 | 147 | Dap Duong |
-| 668 | 147 | Smiley Strike |
-| 669 | 147 | Sassy Pivot |
+| 667 | 147 | Smiley Strike |
+| 668 | 147 | Sassy Pivot |
+| 669 | 147 | Dap Duong |
 | 670 | 146 | Sherry Aguinaga |
 | 671 | 145 | Scott Rackley |
 | 672 | 145 | Chareen Lauritzen |

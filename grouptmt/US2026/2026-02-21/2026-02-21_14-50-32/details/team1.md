@@ -98,9 +98,9 @@
 | 90 | 180 | Erez Yosef |
 | 91 | 178 | Danielle Little-Daugherty |
 | 92 | 177 | Diane Byrd |
-| 93 | 173 | june october |
+| 93 | 173 | Jennifer Olewnik Soborowski |
 | 94 | 173 | Frothy Pattern |
-| 95 | 173 | Jennifer Olewnik Soborowski |
+| 95 | 173 | june october |
 | 96 | 171 | Greg Premoe |
 | 97 | 166 | Rico Rico |
 | 98 | 165 | Veronica Eve |
@@ -128,8 +128,8 @@
 | 120 | 142 | Colleen Wise |
 | 121 | 141 | Blaire Bruckoff |
 | 122 | 140 | Miguel Teixeira |
-| 123 | 138 | Cranky Pattern |
-| 124 | 138 | Gary Gobin |
+| 123 | 138 | Gary Gobin |
+| 124 | 138 | Cranky Pattern |
 | 125 | 137 | Adele Rahman |
 | 126 | 137 | Michael |
 | 127 | 137 | Nadine Velardo |
@@ -137,9 +137,9 @@
 | 129 | 135 | Giddy Cascade |
 | 130 | 134 | Trina Gee |
 | 131 | 133 | Breanna Luna |
-| 132 | 132 | Cody Gates |
+| 132 | 132 | Davery Spencer Adair |
 | 133 | 132 | LaQuetta Faith Hines |
-| 134 | 132 | Davery Spencer Adair |
+| 134 | 132 | Cody Gates |
 | 135 | 131 | Uhog SF |
 | 136 | 130 | Dandy Basegrid |
 | 137 | 129 | Dino |

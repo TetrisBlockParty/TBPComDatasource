@@ -193,8 +193,8 @@
 | 185 | 151 | Brenda Lee Vander Molen |
 | 186 | 151 | MsBee |
 | 187 | 150 | Nicole Myers |
-| 188 | 149 | Angel Mendez |
-| 189 | 149 | Bea Miles |
+| 188 | 149 | Bea Miles |
+| 189 | 149 | Angel Mendez |
 | 190 | 149 | Alexis Taylor |
 | 191 | 149 | Desiree Gold |
 | 192 | 146 | Latoya Mayne |
