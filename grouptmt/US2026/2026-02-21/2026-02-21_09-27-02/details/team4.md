@@ -130,8 +130,8 @@
 | 122 | 115 | Jayk |
 | 123 | 113 | Stephme310 |
 | 124 | 113 | Andria Lynn |
-| 125 | 112 | Austin Owens |
-| 126 | 112 | Bryan Hodgins |
+| 125 | 112 | Bryan Hodgins |
+| 126 | 112 | Austin Owens |
 | 127 | 112 | Brittany Marsh |
 | 128 | 111 | Gwendolyn Pitcairn |
 | 129 | 111 | Lazy Blocker |

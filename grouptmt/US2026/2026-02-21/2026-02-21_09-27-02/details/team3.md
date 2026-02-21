@@ -41,8 +41,8 @@
 | 33 | 613 | Amber Hughes |
 | 34 | 608 | River |
 | 35 | 598 | Jennifer Willis |
-| 36 | 587 | Danielle Becker |
-| 37 | 587 | Suzieq |
+| 36 | 587 | Suzieq |
+| 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
 | 40 | 552 | Rachel Bowers |
@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Mykal Burton |
-| 102 | 224 | Judi Dobson |
+| 101 | 224 | Judi Dobson |
+| 102 | 224 | Mykal Burton |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |

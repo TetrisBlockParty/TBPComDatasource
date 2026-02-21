@@ -213,8 +213,8 @@
 | 205 | 354 | Tracy Wise |
 | 206 | 353 | Joseph Musick |
 | 207 | 352 | ruth |
-| 208 | 350 | Brave Dropmatch |
-| 209 | 350 | Chris Harr |
+| 208 | 350 | Chris Harr |
+| 209 | 350 | Brave Dropmatch |
 | 210 | 350 | Kimberly Randesi |
 | 211 | 348 | Richard Horton |
 | 212 | 348 | Cherica Taylor |
@@ -403,8 +403,8 @@
 | 395 | 200 | LaWanda Powell |
 | 396 | 200 | Sarah Ridenour |
 | 397 | 199 | Fi Ne |
-| 398 | 199 | Jessica Sutter |
-| 399 | 199 | Jenny Castro |
+| 398 | 199 | Jenny Castro |
+| 399 | 199 | Jessica Sutter |
 | 400 | 198 | Angie Bolton Workman |
 | 401 | 198 | Alyssa Dean |
 | 402 | 196 | Besma Ao |
@@ -459,8 +459,8 @@
 | 451 | 176 | Trisha Gallagher |
 | 452 | 176 | Jennifer Malloy - Cardy |
 | 453 | 175 | Snippy Rumbler |
-| 454 | 175 | Jaybee Nguyen |
-| 455 | 175 | Lucero Ramirez |
+| 454 | 175 | Lucero Ramirez |
+| 455 | 175 | Jaybee Nguyen |
 | 456 | 175 | Tina Blessed Cage |
 | 457 | 175 | Shandrica Lowe |
 | 458 | 174 | Jason Garnatz |
