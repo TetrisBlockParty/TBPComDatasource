@@ -81,8 +81,8 @@
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
-| 76 | 190 | Sweetts |
-| 77 | 190 | Thorne Shumate |
+| 76 | 190 | Thorne Shumate |
+| 77 | 190 | Sweetts |
 | 78 | 189 | Happy Basegrid |
 | 79 | 180 | Erez Yosef |
 | 80 | 178 | Danielle Little-Daugherty |
@@ -105,8 +105,8 @@
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
 | 99 | 144 | Tanya Carpenter-Reynolds |
-| 100 | 144 | femmefatale |
-| 101 | 144 | Plucky Ziggy |
+| 100 | 144 | Plucky Ziggy |
+| 101 | 144 | femmefatale |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
 | 104 | 138 | Gary Gobin |

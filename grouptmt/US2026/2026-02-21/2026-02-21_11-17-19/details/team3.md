@@ -157,8 +157,8 @@
 | 149 | 156 | Joey Banks |
 | 150 | 155 | BŘŰŤİÇŨŚ |
 | 151 | 154 | Angela M. Fletcher |
-| 152 | 153 | Beth Ingham |
-| 153 | 153 | Stephanie Whitefield |
+| 152 | 153 | Stephanie Whitefield |
+| 153 | 153 | Beth Ingham |
 | 154 | 152 | Shiny Zonebuilder |
 | 155 | 151 | MsBee |
 | 156 | 150 | Nicole Myers |
@@ -210,8 +210,8 @@
 | 202 | 115 | Daring Builder |
 | 203 | 114 | Tiffany Davie |
 | 204 | 114 | Jessica Bechler |
-| 205 | 113 | Brian Battjes |
-| 206 | 113 | Valerie Gendron |
+| 205 | 113 | Valerie Gendron |
+| 206 | 113 | Brian Battjes |
 | 207 | 111 | Stephanie Zahm |
 | 208 | 110 | Danielle Weikel |
 | 209 | 110 | Stella |

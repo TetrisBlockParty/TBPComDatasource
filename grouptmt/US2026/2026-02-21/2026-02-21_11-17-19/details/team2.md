@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -314,8 +314,8 @@
 | 306 | 272 | Mikayala Szaz |
 | 307 | 271 | Ann Marie Davis |
 | 308 | 271 | Toni Lynn |
-| 309 | 270 | Angela Lynn |
-| 310 | 270 | Christina Ashley |
+| 309 | 270 | Christina Ashley |
+| 310 | 270 | Angela Lynn |
 | 311 | 269 | Reece Smith |
 | 312 | 268 | Chummy Blockbuilder |
 | 313 | 268 | Tanya Parsons |
@@ -329,8 +329,8 @@
 | 321 | 260 | Denise Rickman |
 | 322 | 257 | Lyndi Robinson Wakefield |
 | 323 | 256 | Giddy Gridclear |
-| 324 | 256 | Tee Jaleesa |
-| 325 | 256 | CC |
+| 324 | 256 | CC |
+| 325 | 256 | Tee Jaleesa |
 | 326 | 255 | Santana Miyagi |
 | 327 | 254 | Elizabeth Diraffaele |
 | 328 | 254 | Rose Fx |
@@ -477,8 +477,8 @@
 | 469 | 176 | Trisha Gallagher |
 | 470 | 176 | Stacy Harper |
 | 471 | 175 | Snippy Rumbler |
-| 472 | 175 | Shandrica Lowe |
-| 473 | 175 | Tina Blessed Cage |
+| 472 | 175 | Tina Blessed Cage |
+| 473 | 175 | Shandrica Lowe |
 | 474 | 175 | Lucero Ramirez |
 | 475 | 174 | Jason Garnatz |
 | 476 | 174 | Veronica Guerra |
@@ -515,8 +515,8 @@
 | 507 | 160 | Rhonda Petro |
 | 508 | 160 | Gary Schaffner Jr. |
 | 509 | 160 | Cynthia Ward |
-| 510 | 160 | Marcie McLain Dodd |
-| 511 | 160 | Lazy Riseclear |
+| 510 | 160 | Lazy Riseclear |
+| 511 | 160 | Marcie McLain Dodd |
 | 512 | 159 | Bee |
 | 513 | 158 | ItsJennifer Neriss |
 | 514 | 158 | Allison Hewitt |
@@ -743,16 +743,16 @@
 | 735 | 118 | Nina Woodill |
 | 736 | 118 | Emilie Victoria Cordero |
 | 737 | 118 | Amanda Perez |
-| 738 | 117 | Cody Kelsey |
-| 739 | 117 | Theresa Ring |
+| 738 | 117 | Theresa Ring |
+| 739 | 117 | Cody Kelsey |
 | 740 | 117 | Kelli Clark |
 | 741 | 117 | Myleaha Holley |
 | 742 | 117 | BeaNzMaMa |
 | 743 | 117 | Angi Harrison |
 | 744 | 117 | Keri Higuchi |
 | 745 | 117 | Luceros7 |
-| 746 | 116 | Blaine Birchem |
-| 747 | 116 | Nikki Arlene |
+| 746 | 116 | Nikki Arlene |
+| 747 | 116 | Blaine Birchem |
 | 748 | 116 | Patrick Langford |
 | 749 | 116 | Jennifer Monroe Kelly |
 | 750 | 116 | SpaceCase085 |
@@ -764,8 +764,8 @@
 | 756 | 115 | Mike73 |
 | 757 | 115 | Melissa Schwager |
 | 758 | 115 | Angela KaplaSchwahn |
-| 759 | 115 | AsnPryBoy83 |
-| 760 | 115 | Fae-Bulous |
+| 759 | 115 | Fae-Bulous |
+| 760 | 115 | AsnPryBoy83 |
 | 761 | 114 | Melissa Maples |
 | 762 | 114 | Juan Castillo |
 | 763 | 114 | James Louie |
