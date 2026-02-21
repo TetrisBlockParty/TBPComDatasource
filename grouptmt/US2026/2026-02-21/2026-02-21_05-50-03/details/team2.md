@@ -88,8 +88,8 @@
 | 80 | 658 | Pacynthia Williams |
 | 81 | 658 | Vistabrat |
 | 82 | 653 | Becky Weeks-Garry |
-| 83 | 649 | Anna Edwards |
-| 84 | 649 | Stephanie Chapman |
+| 83 | 649 | Stephanie Chapman |
+| 84 | 649 | Anna Edwards |
 | 85 | 631 | Loopy Clusterbuilder |
 | 86 | 608 | John Bednarik |
 | 87 | 601 | Nancy Reid |
