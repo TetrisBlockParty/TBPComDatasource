@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Melvin Baird |
-| 77 | 171 | Zethra Prenisha Rahming |
+| 76 | 171 | Zethra Prenisha Rahming |
+| 77 | 171 | Melvin Baird |
 | 78 | 170 | Girl |
 | 79 | 167 | Andy Cabral |
 | 80 | 167 | Denise Carlson |
@@ -98,8 +98,8 @@
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
-| 93 | 147 | Jay28 |
-| 94 | 147 | 030Synner |
+| 93 | 147 | 030Synner |
+| 94 | 147 | Jay28 |
 | 95 | 146 | Peachy Fall |
 | 96 | 143 | Nugget |
 | 97 | 141 | Malakai Darien Fox |
@@ -110,10 +110,10 @@
 | 102 | 134 | Jessica Bohlken |
 | 103 | 134 | Serena Goodridge |
 | 104 | 133 | Robin Watters |
-| 105 | 132 | Jenna McGeorge |
+| 105 | 132 | Melissa Priest Sellers |
 | 106 | 132 | Jessica Cagle |
-| 107 | 132 | Degenerate |
-| 108 | 132 | Melissa Priest Sellers |
+| 107 | 132 | Jenna McGeorge |
+| 108 | 132 | Degenerate |
 | 109 | 131 | Mr. Party |
 | 110 | 130 | Lucas J Sutton |
 | 111 | 130 | Casey Jeffcoat |
@@ -172,8 +172,8 @@
 | 164 | 96 | Zappy Snaplink |
 | 165 | 95 | Meagan Nicole |
 | 166 | 95 | Victoria Faniel |
-| 167 | 94 | DonMega |
-| 168 | 94 | Kim Hunt |
+| 167 | 94 | Kim Hunt |
+| 168 | 94 | DonMega |
 | 169 | 94 | Chastity Mitchell |
 | 170 | 93 | Zesty Twistbuilder |
 | 171 | 92 | Misty Hollibaugh |

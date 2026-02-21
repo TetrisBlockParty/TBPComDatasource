@@ -94,8 +94,8 @@
 | 86 | 759 | Jose Mendoza |
 | 87 | 756 | Stephanie Neuburger |
 | 88 | 751 | Loony Snapper |
-| 89 | 734 | Tralonda Weeks |
-| 90 | 734 | Melissa Cole |
+| 89 | 734 | Melissa Cole |
+| 90 | 734 | Tralonda Weeks |
 | 91 | 722 | Tesha Oldaker |
 | 92 | 718 | Mari Ac |
 | 93 | 709 | Jerilyn Andrina |
@@ -178,8 +178,8 @@
 | 170 | 460 | Cody Smith-Candelaria |
 | 171 | 456 | Drwatson187 |
 | 172 | 454 | Casey Schumacher |
-| 173 | 453 | Mischelle Clay |
-| 174 | 453 | Osun Anuket Esu |
+| 173 | 453 | Osun Anuket Esu |
+| 174 | 453 | Mischelle Clay |
 | 175 | 452 | Alezandra Smith |
 | 176 | 450 | Cheech Dta |
 | 177 | 450 | Giggy Blocker |
@@ -336,8 +336,8 @@
 | 328 | 260 | Ebony Deloach Bryant |
 | 329 | 257 | Lyndi Robinson Wakefield |
 | 330 | 256 | Giddy Gridclear |
-| 331 | 256 | Tee Jaleesa |
-| 332 | 256 | CC |
+| 331 | 256 | CC |
+| 332 | 256 | Tee Jaleesa |
 | 333 | 255 | Santana Miyagi |
 | 334 | 254 | Rose Fx |
 | 335 | 254 | Elizabeth Diraffaele |
@@ -372,10 +372,10 @@
 | 364 | 240 | Angie Marie |
 | 365 | 240 | Adam Erikson |
 | 366 | 238 | Cheery Matchzone |
-| 367 | 236 | snkylnk |
-| 368 | 236 | Frisky Riserbuilder |
-| 369 | 236 | Niceday |
-| 370 | 236 | Julio A Laracuente |
+| 367 | 236 | Frisky Riserbuilder |
+| 368 | 236 | snkylnk |
+| 369 | 236 | Julio A Laracuente |
+| 370 | 236 | Niceday |
 | 371 | 235 | Kimberly Mitchell |
 | 372 | 234 | Manny Trindade |
 | 373 | 234 | Jennifer Leigh |
@@ -656,9 +656,9 @@
 | 648 | 134 | Swanky Columnbuilder |
 | 649 | 134 | Slinky Risegrid |
 | 650 | 134 | Dandy Drop |
-| 651 | 134 | Leebo Slice |
-| 652 | 134 | Sarah Massey |
-| 653 | 134 | Quinn |
+| 651 | 134 | Sarah Massey |
+| 652 | 134 | Quinn |
+| 653 | 134 | Leebo Slice |
 | 654 | 134 | Christina Jones |
 | 655 | 133 | JinxxedMozzerella |
 | 656 | 133 | Britt Woolston |

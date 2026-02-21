@@ -44,12 +44,12 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Suzieq |
-| 40 | 587 | Danielle Becker |
+| 39 | 587 | Danielle Becker |
+| 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -90,10 +90,10 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | Rich LeBlanc |
-| 86 | 309 | CeceGeGe |
-| 87 | 307 | Blocked |
-| 88 | 307 | Peggi Charon |
+| 85 | 309 | CeceGeGe |
+| 86 | 309 | Rich LeBlanc |
+| 87 | 307 | Peggi Charon |
+| 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -135,8 +135,8 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
@@ -188,7 +188,7 @@
 | 180 | 128 | Jen Lewis |
 | 181 | 127 | Marquita Sheard |
 | 182 | 127 | Aerian Preston |
-| 183 | 127 | Marquita Sheard |
+| 183 | 127 | Joy Petroski |
 | 184 | 126 | Brandon Givens |
 | 185 | 125 | Shimika Enay Wallace |
 | 186 | 125 | Felicia Doxey |
@@ -215,11 +215,11 @@
 | 207 | 115 | Daring Builder |
 | 208 | 115 | Jennifer Alvey |
 | 209 | 114 | Jessica Bechler |
-| 210 | 113 | Valerie Gendron |
-| 211 | 113 | Brian Battjes |
+| 210 | 113 | Brian Battjes |
+| 211 | 113 | Valerie Gendron |
 | 212 | 111 | Stephanie Zahm |
-| 213 | 110 | Stella |
-| 214 | 110 | Danielle Weikel |
+| 213 | 110 | Danielle Weikel |
+| 214 | 110 | Stella |
 | 215 | 110 | Tye Stovall |
 | 216 | 109 | Brave Brickster |
 | 217 | 109 | Lys |
