@@ -117,16 +117,16 @@
 | 109 | 350 | Tiff Vs Tiffany |
 | 110 | 348 | CeceGeGe |
 | 111 | 332 | Chauntee Alfrey-Cardinale |
-| 112 | 323 | Ashley Raines |
-| 113 | 323 | Sherry Ogden |
+| 112 | 323 | Sherry Ogden |
+| 113 | 323 | Ashley Raines |
 | 114 | 321 | Dapper Snap |
 | 115 | 320 | Or Reznitsky |
 | 116 | 318 | Chasity |
 | 117 | 316 | Fancy Cascader |
 | 118 | 312 | Jay Horn |
 | 119 | 309 | Rich LeBlanc |
-| 120 | 307 | Blocked |
-| 121 | 307 | Peggi Charon |
+| 120 | 307 | Peggi Charon |
+| 121 | 307 | Blocked |
 | 122 | 305 | Tessina Dewey-Mancino |
 | 123 | 300 | Sherika C. McDaniels |
 | 124 | 293 | Poppy Splitter |
@@ -137,8 +137,8 @@
 | 129 | 278 | Rufus Lincoln |
 | 130 | 276 | Crimson |
 | 131 | 272 | opf |
-| 132 | 271 | Ashley Muncey |
-| 133 | 271 | Leah Barnett |
+| 132 | 271 | Leah Barnett |
+| 133 | 271 | Ashley Muncey |
 | 134 | 270 | Stephanie Blkpep Davidson |
 | 135 | 267 | Denise Nardoni |
 | 136 | 263 | Angeline Joseph |
@@ -199,8 +199,8 @@
 | 191 | 182 | Hyper Matchzone |
 | 192 | 181 | Nicholas Roddy |
 | 193 | 180 | Connie Mohler-Fair |
-| 194 | 179 | Daira Largen |
-| 195 | 179 | Ashley Jones |
+| 194 | 179 | Ashley Jones |
+| 195 | 179 | Daira Largen |
 | 196 | 179 | Tipsy Zonebuilder |
 | 197 | 178 | Ryan Williams |
 | 198 | 178 | AlsoJess |
@@ -220,11 +220,11 @@
 | 212 | 166 | Beth Ingham |
 | 213 | 166 | Kelly Ann Child |
 | 214 | 165 | Kali Kelz Williams |
-| 215 | 163 | Stephanie Hill |
-| 216 | 163 | Christine Trester |
+| 215 | 163 | Christine Trester |
+| 216 | 163 | Stephanie Hill |
 | 217 | 162 | Stephanie Whitefield |
-| 218 | 161 | BŘŰŤİÇŨŚ |
-| 219 | 161 | Irene Arreguin |
+| 218 | 161 | Irene Arreguin |
+| 219 | 161 | BŘŰŤİÇŨŚ |
 | 220 | 160 | Tiffany Davie |
 | 221 | 159 | Jone |
 | 222 | 157 | Patricia Gadsden |

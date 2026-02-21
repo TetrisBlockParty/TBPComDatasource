@@ -146,8 +146,8 @@
 | 138 | 156 | Jessica Bohlken |
 | 139 | 156 | Holly |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Avy Absol |
-| 142 | 151 | Bethany Ison |
+| 141 | 151 | Bethany Ison |
+| 142 | 151 | Avy Absol |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -178,8 +178,8 @@
 | 170 | 132 | Degenerate |
 | 171 | 131 | TinyLegoRose |
 | 172 | 131 | Michelle Morris |
-| 173 | 130 | Casey Jeffcoat |
-| 174 | 130 | Shukee Lo |
+| 173 | 130 | Shukee Lo |
+| 174 | 130 | Casey Jeffcoat |
 | 175 | 129 | Crystal Nicolette Moore |
 | 176 | 129 | Dreamy Snapgrid |
 | 177 | 128 | April Rondinone |
@@ -321,7 +321,7 @@
 | 313 | 77 | JPW |
 | 314 | 76 | Cristy Duerksen |
 | 315 | 76 | Rebecca Blake |
-| 316 | 76 | Cristy Duerksen |
+| 316 | 76 | Kevin Bush |
 | 317 | 76 | Crystal Lynn |
 | 318 | 75 | Vanessa Smart |
 | 319 | 75 | Snippy Puzzle |
@@ -449,8 +449,8 @@
 | 441 | 55 | Shiny Pivoty |
 | 442 | 55 | RiahRose |
 | 443 | 55 | BenLane |
-| 444 | 55 | Kris Brisco |
-| 445 | 55 | Wacky Fitzone |
+| 444 | 55 | Wacky Fitzone |
+| 445 | 55 | Kris Brisco |
 | 446 | 55 | RobinC |
 | 447 | 54 | tipsy tiger |
 | 448 | 54 | Cursed Hag |

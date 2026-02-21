@@ -191,8 +191,8 @@
 | 183 | 619 | Jamie Otero |
 | 184 | 619 | Chirpy Staggerpiece |
 | 185 | 613 | Melissa Holsinger |
-| 186 | 608 | John Bednarik |
-| 187 | 608 | Sommer Shope |
+| 186 | 608 | Sommer Shope |
+| 187 | 608 | John Bednarik |
 | 188 | 604 | Danielle Johnson-Chandler |
 | 189 | 603 | Cassie Maynard |
 | 190 | 597 | Erica Williams |
@@ -381,10 +381,10 @@
 | 373 | 354 | Rickey Johnson |
 | 374 | 353 | Cheery Matchzone |
 | 375 | 352 | Juanita Lyons |
-| 376 | 352 | ruth |
-| 377 | 352 | Tj Ball |
-| 378 | 350 | Chris Harr |
-| 379 | 350 | F-X |
+| 376 | 352 | Tj Ball |
+| 377 | 352 | ruth |
+| 378 | 350 | F-X |
+| 379 | 350 | Chris Harr |
 | 380 | 348 | Véronique Lévesque Sabourin |
 | 381 | 348 | Richard Horton |
 | 382 | 347 | Cheyenne Donovan |
@@ -567,8 +567,8 @@
 | 559 | 245 | Sanaa Nounoussa |
 | 560 | 245 | Mary Boss |
 | 561 | 244 | Belle |
-| 562 | 244 | Nakiiya Dreamcatcher Gore |
-| 563 | 244 | Court |
+| 562 | 244 | Court |
+| 563 | 244 | Nakiiya Dreamcatcher Gore |
 | 564 | 243 | JacJac |
 | 565 | 242 | Donna Chandler |
 | 566 | 242 | Lianne Giandalone LaBounty |
