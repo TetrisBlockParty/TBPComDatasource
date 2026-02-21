@@ -131,8 +131,8 @@
 | 123 | 176 | Basment Living |
 | 124 | 175 | Nicole Roseberry Weber |
 | 125 | 174 | Michael |
-| 126 | 171 | David DeSantis |
-| 127 | 171 | Greg Premoe |
+| 126 | 171 | Greg Premoe |
+| 127 | 171 | David DeSantis |
 | 128 | 170 | Veronica Eve |
 | 129 | 169 | Abbey Crespo |
 | 130 | 168 | Standia Civil |

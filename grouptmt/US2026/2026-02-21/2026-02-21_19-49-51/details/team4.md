@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -171,8 +171,8 @@
 | 163 | 132 | Jessica Cagle |
 | 164 | 132 | Degenerate |
 | 165 | 130 | Casey Jeffcoat |
-| 166 | 129 | Dreamy Snapgrid |
-| 167 | 129 | Crystal Nicolette Moore |
+| 166 | 129 | Crystal Nicolette Moore |
+| 167 | 129 | Dreamy Snapgrid |
 | 168 | 128 | Rio Rocha |
 | 169 | 128 | Stephme310 |
 | 170 | 128 | TinyLegoRose |
@@ -268,7 +268,7 @@
 | 260 | 90 | Carol Ricks Raymond |
 | 261 | 90 | Thomas Hettenhaus |
 | 262 | 89 | Joseph Pace |
-| 263 | 88 | Michelle Parker |
+| 263 | 88 | Savannah Overdorf |
 | 264 | 88 | Kesha Brady |
 | 265 | 88 | Michelle Parker |
 | 266 | 87 | Alan George LaRage |
@@ -332,7 +332,7 @@
 | 324 | 73 | Rheanda Weaskus |
 | 325 | 72 | Jackson Karen |
 | 326 | 72 | Raegan Lane-Ross |
-| 327 | 72 | Jackson Karen |
+| 327 | 72 | Jennifer Perkins |
 | 328 | 72 | Brave Spinbuilder |
 | 329 | 71 | Dapper Climber |
 | 330 | 71 | Speedy Wipeblock |

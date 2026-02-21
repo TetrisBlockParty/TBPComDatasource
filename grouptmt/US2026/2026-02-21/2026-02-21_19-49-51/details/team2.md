@@ -310,8 +310,8 @@
 | 302 | 412 | Vanessa Moreno |
 | 303 | 411 | Ricky Fortune |
 | 304 | 410 | Altamirano Michael |
-| 305 | 409 | Julay |
-| 306 | 409 | Sparkles |
+| 305 | 409 | Sparkles |
+| 306 | 409 | Julay |
 | 307 | 406 | Erin StFrancis |
 | 308 | 405 | Sarah Massey |
 | 309 | 405 | Christy Krissie |
@@ -803,7 +803,7 @@
 | 795 | 162 | LC Hamilton |
 | 796 | 162 | Chirpy Snapper |
 | 797 | 162 | Mary Lopez Sr. |
-| 798 | 161 | Patrick Fleming |
+| 798 | 161 | Crystal Herndon |
 | 799 | 161 | Perry Hubert |
 | 800 | 161 | Patrick Fleming |
 | 801 | 161 | Melissa Wilson |
@@ -2824,7 +2824,7 @@
 | 2816 | 49 | Cheery Striker |
 | 2817 | 49 | Ryan |
 | 2818 | 48 | Flashy Shatterer |
-| 2819 | 48 | Armani Walker |
+| 2819 | 48 | Will Wonder |
 | 2820 | 48 | babyboo |
 | 2821 | 48 | Cheyanne Encalade |
 | 2822 | 48 | Elisa Henry |

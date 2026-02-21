@@ -156,16 +156,16 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Jimmie Clemons |
-| 152 | 222 | Hoppy Buildout |
+| 151 | 222 | Hoppy Buildout |
+| 152 | 222 | Jimmie Clemons |
 | 153 | 219 | Shunta Jacobs |
-| 154 | 218 | Rochelle Hazelett |
-| 155 | 218 | LaNette Morgan |
+| 154 | 218 | LaNette Morgan |
+| 155 | 218 | Rochelle Hazelett |
 | 156 | 217 | Jess Bissett |
-| 157 | 216 | Aaron Pitkin |
-| 158 | 216 | Nikki Pags |
-| 159 | 214 | Amy Fuller Heaton |
-| 160 | 214 | Jenny Hrndz |
+| 157 | 216 | Nikki Pags |
+| 158 | 216 | Aaron Pitkin |
+| 159 | 214 | Jenny Hrndz |
+| 160 | 214 | Amy Fuller Heaton |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
 | 163 | 207 | Jessica |
@@ -175,17 +175,17 @@
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
 | 169 | 197 | Staci George Fitzsimmons |
-| 170 | 195 | Nicha Hooker |
-| 171 | 195 | Michael Lucado |
+| 170 | 195 | Michael Lucado |
+| 171 | 195 | Nicha Hooker |
 | 172 | 194 | glichmod |
 | 173 | 193 | Clever Shiftsnap |
 | 174 | 193 | Duane Bright |
 | 175 | 193 | Stephanie Burtin |
 | 176 | 193 | Karon Griffin |
 | 177 | 191 | Rebel124 |
-| 178 | 191 | Brenda Lee Vander Molen |
-| 179 | 191 | Scott Carleton |
-| 180 | 191 | Giddy Twistbuilder |
+| 178 | 191 | Giddy Twistbuilder |
+| 179 | 191 | Brenda Lee Vander Molen |
+| 180 | 191 | Scott Carleton |
 | 181 | 189 | Sissy Lowery Davis |
 | 182 | 188 | Angie Harper |
 | 183 | 186 | Khaleada McGill Banks |
@@ -198,11 +198,11 @@
 | 190 | 178 | Ryan Williams |
 | 191 | 178 | AlsoJess |
 | 192 | 177 | Trisha Balmer |
-| 193 | 175 | DanceLuvLaugh |
+| 193 | 175 | Connie Mohler-Fair |
 | 194 | 175 | Tasha Wesson-Torrence |
-| 195 | 175 | Connie Mohler-Fair |
-| 196 | 174 | Loopy Fallmatch |
-| 197 | 174 | rosy |
+| 195 | 175 | DanceLuvLaugh |
+| 196 | 174 | rosy |
+| 197 | 174 | Loopy Fallmatch |
 | 198 | 173 | Sarajane Lokan |
 | 199 | 171 | Marquita Sheard |
 | 200 | 169 | Santeria Trece Candles |
@@ -219,8 +219,8 @@
 | 211 | 163 | Christine Trester |
 | 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | BŘŰŤİÇŨŚ |
-| 215 | 161 | Irene Arreguin |
+| 214 | 161 | Irene Arreguin |
+| 215 | 161 | BŘŰŤİÇŨŚ |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -236,8 +236,8 @@
 | 228 | 152 | Katrina E Jelks |
 | 229 | 152 | Shiny Zonebuilder |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Peachy Rollfit |
-| 232 | 149 | Alexis Taylor |
+| 231 | 149 | Alexis Taylor |
+| 232 | 149 | Peachy Rollfit |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Sabrina Hardrick |
 | 235 | 148 | Jennifer Alvey |
@@ -256,8 +256,8 @@
 | 248 | 142 | Erica Anderson |
 | 249 | 142 | Jl |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Erykah |
