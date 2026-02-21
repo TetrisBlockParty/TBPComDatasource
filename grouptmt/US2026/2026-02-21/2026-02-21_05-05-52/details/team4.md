@@ -47,13 +47,13 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Girl |
-| 48 | 170 | Leah Kutz Zirbel |
+| 47 | 170 | Leah Kutz Zirbel |
+| 48 | 170 | Girl |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Courtney Cicoria |
 | 51 | 165 | Casey Grabner |
@@ -71,8 +71,8 @@
 | 63 | 145 | Edward White |
 | 64 | 141 | Malakai Darien Fox |
 | 65 | 140 | Shannon Ferrari |
-| 66 | 134 | Jessica Bohlken |
-| 67 | 134 | Chirpy Basepiece |
+| 66 | 134 | Chirpy Basepiece |
+| 67 | 134 | Jessica Bohlken |
 | 68 | 133 | Robin Watters |
 | 69 | 132 | Degenerate |
 | 70 | 132 | Jenna McGeorge |
@@ -102,8 +102,8 @@
 | 94 | 108 | Rio Rocha |
 | 95 | 107 | Marcus Todd |
 | 96 | 106 | Jonathan Kimbrough |
-| 97 | 105 | Sam Middleton |
-| 98 | 105 | TheNeesh50 |
+| 97 | 105 | TheNeesh50 |
+| 98 | 105 | Sam Middleton |
 | 99 | 104 | YoMomma |
 | 100 | 103 | Zany Twisterfit |
 | 101 | 102 | Faja |
@@ -114,7 +114,7 @@
 | 106 | 98 | 030Synner |
 | 107 | 98 | TinyLegoRose |
 | 108 | 98 | Allen Lloyd |
-| 109 | 98 | 030Synner |
+| 109 | 98 | Duck |
 | 110 | 96 | Zappy Snaplink |
 | 111 | 93 | Zesty Twistbuilder |
 | 112 | 92 | Chaz |

@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3323 | Sean Dugar |
@@ -82,12 +82,12 @@
 | 74 | 674 | Dannette Goldberg-Richards |
 | 75 | 672 | Wendy Harder Gage |
 | 76 | 665 | Dineisha Carpenter |
-| 77 | 658 | Vistabrat |
-| 78 | 658 | Dreamy Blast |
-| 79 | 658 | Pacynthia Williams |
+| 77 | 658 | Dreamy Blast |
+| 78 | 658 | Pacynthia Williams |
+| 79 | 658 | Vistabrat |
 | 80 | 653 | Becky Weeks-Garry |
-| 81 | 649 | Stephanie Chapman |
-| 82 | 649 | Anna Edwards |
+| 81 | 649 | Anna Edwards |
+| 82 | 649 | Stephanie Chapman |
 | 83 | 631 | Loopy Clusterbuilder |
 | 84 | 608 | John Bednarik |
 | 85 | 601 | Nancy Reid |
@@ -202,9 +202,9 @@
 | 194 | 303 | Crystal Greene |
 | 195 | 299 | Christy Krissie |
 | 196 | 296 | Jennifer Casey-Kay |
-| 197 | 295 | Angela Bonquiqui Dinish |
-| 198 | 295 | Zany Clusterbuilder |
-| 199 | 295 | Diallo Sparkman |
+| 197 | 295 | Diallo Sparkman |
+| 198 | 295 | Angela Bonquiqui Dinish |
+| 199 | 295 | Zany Clusterbuilder |
 | 200 | 293 | David Holliday |
 | 201 | 291 | Arwa Fatimah |
 | 202 | 290 | Jessie McDougald |

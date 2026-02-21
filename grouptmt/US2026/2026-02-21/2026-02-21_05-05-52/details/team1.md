@@ -115,23 +115,23 @@
 | 107 | 103 | Adryane Schnase |
 | 108 | 102 | Jennifer ManWarren |
 | 109 | 100 | Bhelle Sumile |
-| 110 | 99 | Melissa Bires Hussar |
-| 111 | 99 | Ty Brown |
-| 112 | 96 | Melissa Lemmon |
-| 113 | 96 | Nery Martinez |
+| 110 | 99 | Ty Brown |
+| 111 | 99 | Melissa Bires Hussar |
+| 112 | 96 | Nery Martinez |
+| 113 | 96 | Melissa Lemmon |
 | 114 | 95 | Spunky Piecebuilder |
-| 115 | 94 | Bindi |
-| 116 | 94 | Luciano Moreira |
-| 117 | 93 | Aimee Horton |
-| 118 | 93 | Loony Fitzone |
+| 115 | 94 | Luciano Moreira |
+| 116 | 94 | Bindi |
+| 117 | 93 | Loony Fitzone |
+| 118 | 93 | Aimee Horton |
 | 119 | 92 | Jessica Russell |
 | 120 | 90 | TSwag |
 | 121 | 90 | Madison Wicks |
 | 122 | 89 | Mizzledagod |
 | 123 | 89 | Mara Hilker |
 | 124 | 87 | Jessi Sauer |
-| 125 | 86 | Desiree Deschaine Havee |
-| 126 | 86 | Basment Living |
+| 125 | 86 | Basment Living |
+| 126 | 86 | Desiree Deschaine Havee |
 | 127 | 85 | Steve Schneider |
 | 128 | 84 | Yvonne Marie |
 | 129 | 84 | Charla Pross-Fugleberg |
