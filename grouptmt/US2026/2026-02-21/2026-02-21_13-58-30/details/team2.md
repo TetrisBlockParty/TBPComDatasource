@@ -319,8 +319,8 @@
 | 311 | 296 | Jennifer Casey-Kay |
 | 312 | 296 | Heather Schelkopf |
 | 313 | 296 | Amber Gray |
-| 314 | 295 | Diallo Sparkman |
-| 315 | 295 | Angela Bonquiqui Dinish |
+| 314 | 295 | Angela Bonquiqui Dinish |
+| 315 | 295 | Diallo Sparkman |
 | 316 | 294 | Lee Harper |
 | 317 | 293 | David Holliday |
 | 318 | 290 | Maya June |
@@ -417,8 +417,8 @@
 | 409 | 236 | Julio A Laracuente |
 | 410 | 236 | Niceday |
 | 411 | 235 | Kimberly Mitchell |
-| 412 | 234 | Manny Trindade |
-| 413 | 234 | Jennifer Leigh |
+| 412 | 234 | Jennifer Leigh |
+| 413 | 234 | Manny Trindade |
 | 414 | 234 | Jaybee Nguyen |
 | 415 | 233 | Nutty Matchline |
 | 416 | 233 | Jumpy Gridclear |
@@ -432,16 +432,16 @@
 | 424 | 228 | Daring Matchfit |
 | 425 | 228 | Michelle Sager |
 | 426 | 227 | JacJac |
-| 427 | 226 | Jodi Mitnick |
-| 428 | 226 | Mary Marie |
+| 427 | 226 | Mary Marie |
+| 428 | 226 | Jodi Mitnick |
 | 429 | 226 | Juliana Marques Do Nascimento Gordy |
 | 430 | 224 | Alice Ball |
-| 431 | 223 | LegoCarpet |
-| 432 | 223 | Jess Morrison |
+| 431 | 223 | Jess Morrison |
+| 432 | 223 | LegoCarpet |
 | 433 | 223 | Laura Wyatt |
 | 434 | 223 | Kristi Biddinger |
-| 435 | 222 | Jason Garnatz |
-| 436 | 222 | Amanda Canterbury |
+| 435 | 222 | Amanda Canterbury |
+| 436 | 222 | Jason Garnatz |
 | 437 | 220 | Katrina Weston |
 | 438 | 220 | Sho Nuff |
 | 439 | 219 | Ashle Scranton |
@@ -482,8 +482,8 @@
 | 474 | 198 | Alyssa Dean |
 | 475 | 197 | Kati Russeau |
 | 476 | 196 | Besma Ao |
-| 477 | 196 | Cass Shirley |
-| 478 | 196 | Alexandra Reese |
+| 477 | 196 | Alexandra Reese |
+| 478 | 196 | Cass Shirley |
 | 479 | 195 | Snappy Shatterfit |
 | 480 | 195 | Darlene Bowman |
 | 481 | 195 | Brenna Ann |

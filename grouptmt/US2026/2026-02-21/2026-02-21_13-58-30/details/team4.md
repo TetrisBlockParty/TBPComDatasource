@@ -81,8 +81,8 @@
 | 73 | 195 | Dustee Craddock-Harrison |
 | 74 | 194 | Jamie Mann-Deichmann |
 | 75 | 187 | Swanky Fitline |
-| 76 | 185 | loulou |
-| 77 | 185 | Andy Cabral |
+| 76 | 185 | Andy Cabral |
+| 77 | 185 | loulou |
 | 78 | 184 | Dizzy Tiley |
 | 79 | 180 | shar |
 | 80 | 180 | Lauren Scott |
@@ -107,8 +107,8 @@
 | 99 | 151 | Dana Scott |
 | 100 | 150 | ZeeZee |
 | 101 | 149 | Carlton Unfiltered |
-| 102 | 147 | Jay28 |
-| 103 | 147 | 030Synner |
+| 102 | 147 | 030Synner |
+| 103 | 147 | Jay28 |
 | 104 | 146 | Peachy Fall |
 | 105 | 143 | Nugget |
 | 106 | 141 | Malakai Darien Fox |
@@ -171,8 +171,8 @@
 | 163 | 102 | April Rondinone |
 | 164 | 102 | ĥuf |
 | 165 | 102 | Faja |
-| 166 | 101 | Michelle Morris |
-| 167 | 101 | Saulc1991 |
+| 166 | 101 | Saulc1991 |
+| 167 | 101 | Michelle Morris |
 | 168 | 100 | Alexandra Karavias |
 | 169 | 99 | Michael Orris |
 | 170 | 99 | Anthony Bryan Riva |

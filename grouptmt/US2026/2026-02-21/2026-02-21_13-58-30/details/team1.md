@@ -71,11 +71,11 @@
 | 63 | 217 | Deanna L Hermanson |
 | 64 | 212 | Jaimie Lynn |
 | 65 | 211 | Marianita Garcia |
-| 66 | 208 | Carrie Beck Geartz |
-| 67 | 208 | Mandyy Rae |
+| 66 | 208 | Mandyy Rae |
+| 67 | 208 | Carrie Beck Geartz |
 | 68 | 205 | Trippy Redd |
-| 69 | 204 | Lexuriuos Lifestlye |
-| 70 | 204 | Ly Phethmany |
+| 69 | 204 | Ly Phethmany |
+| 70 | 204 | Lexuriuos Lifestlye |
 | 71 | 202 | Dee Perry |
 | 72 | 201 | Ananda Mendez |
 | 73 | 201 | Ryan Lunnin |
@@ -118,8 +118,8 @@
 | 110 | 146 | Irual Hctrab |
 | 111 | 146 | Tanya Carpenter-Reynolds |
 | 112 | 145 | BigWeenie69 |
-| 113 | 144 | Plucky Ziggy |
-| 114 | 144 | femmefatale |
+| 113 | 144 | femmefatale |
+| 114 | 144 | Plucky Ziggy |
 | 115 | 143 | Sarah Marie |
 | 116 | 142 | Colleen Wise |
 | 117 | 141 | Blaire Bruckoff |
@@ -149,8 +149,8 @@
 | 141 | 118 | Barry Mac'Ockner |
 | 142 | 117 | Adele Rahman |
 | 143 | 116 | Evie Khalil |
-| 144 | 115 | Mrs.Patrica |
-| 145 | 115 | Chuck Gannon |
+| 144 | 115 | Chuck Gannon |
+| 145 | 115 | Mrs.Patrica |
 | 146 | 113 | Desiree Deschaine Havee |
 | 147 | 112 | Carolyn Smith |
 | 148 | 112 | Nicole Roseberry Weber |
@@ -222,7 +222,7 @@
 | 214 | 80 | Brandi Egbert |
 | 215 | 79 | Cheeky Pop |
 | 216 | 79 | Christina Torres |
-| 217 | 79 | Cheeky Pop |
+| 217 | 79 | George Dalton |
 | 218 | 78 | Kerry Lee Powell |
 | 219 | 77 | Lynn Adams |
 | 220 | 77 | Teddy Alexander |
