@@ -73,8 +73,8 @@
 | 65 | 239 | Lush Buildout |
 | 66 | 224 | Mykal Burton |
 | 67 | 214 | Amy Fuller Heaton |
-| 68 | 210 | Annie Déè |
-| 69 | 210 | Zippy Strikesnap |
+| 68 | 210 | Zippy Strikesnap |
+| 69 | 210 | Annie Déè |
 | 70 | 207 | rnr junky |
 | 71 | 205 | Snappy Glidepiece |
 | 72 | 203 | Crimson |
@@ -83,8 +83,8 @@
 | 75 | 193 | Clever Shiftsnap |
 | 76 | 193 | Shunta Jacobs |
 | 77 | 192 | Jimmie Clemons |
-| 78 | 187 | Cherry Parker |
-| 79 | 187 | Speedy Bridger |
+| 78 | 187 | Speedy Bridger |
+| 79 | 187 | Cherry Parker |
 | 80 | 185 | Danielle Cutler |
 | 81 | 184 | Jennie Beranek |
 | 82 | 180 | Tessina Dewey-Mancino |
@@ -166,9 +166,9 @@
 | 158 | 90 | LaTanya GeminiondaRise Johnson |
 | 159 | 90 | Tiffany Kaupang |
 | 160 | 90 | Eon Harris |
-| 161 | 90 | Tiffany Kaupang |
-| 162 | 89 | Hyper Bridger |
-| 163 | 89 | Carrie Huskey |
+| 161 | 90 | Rebel124 |
+| 162 | 89 | Carrie Huskey |
+| 163 | 89 | Hyper Bridger |
 | 164 | 88 | Shicken Nuggit |
 | 165 | 88 | Danielle Becker |
 | 166 | 88 | Brandon Givens |

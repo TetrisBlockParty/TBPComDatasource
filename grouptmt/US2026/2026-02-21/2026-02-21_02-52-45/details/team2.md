@@ -127,8 +127,8 @@
 | 119 | 390 | Dustin Rains |
 | 120 | 386 | Ashie Ann |
 | 121 | 385 | Sam |
-| 122 | 384 | Lina Sanders |
-| 123 | 384 | Mighty Patternzone |
+| 122 | 384 | Mighty Patternzone |
+| 123 | 384 | Lina Sanders |
 | 124 | 380 | Joshua Mandel |
 | 125 | 377 | Liberty |
 | 126 | 374 | Sommer Shope |

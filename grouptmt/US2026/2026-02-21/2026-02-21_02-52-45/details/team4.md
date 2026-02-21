@@ -127,8 +127,8 @@
 | 119 | 71 | Christina Black |
 | 120 | 71 | Joseph Pace |
 | 121 | 70 | Valerie Roberts |
-| 122 | 69 | Michelle Marie |
-| 123 | 69 | Carol Ricks Raymond |
+| 122 | 69 | Carol Ricks Raymond |
+| 123 | 69 | Michelle Marie |
 | 124 | 68 | LS |
 | 125 | 67 | Lindsey Gonzalez |
 | 126 | 67 | Frank Joseph Epson |
