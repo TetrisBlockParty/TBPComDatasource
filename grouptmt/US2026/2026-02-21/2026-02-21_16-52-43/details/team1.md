@@ -29,8 +29,8 @@
 | 21 | 618 | Amanda Summey Schoemer |
 | 22 | 547 | Marianne Louise West |
 | 23 | 543 | Aaron Garnett |
-| 24 | 541 | Drew Magnus |
-| 25 | 541 | Jorge Andrade |
+| 24 | 541 | Jorge Andrade |
+| 25 | 541 | Drew Magnus |
 | 26 | 521 | Hyp James NObettadanluvarat |
 | 27 | 517 | Felicia Lewis |
 | 28 | 516 | comrade fish |
@@ -64,8 +64,8 @@
 | 56 | 287 | Hyper |
 | 57 | 279 | Shauna Loe |
 | 58 | 278 | Carrie Beck Geartz |
-| 59 | 274 | Theo Pinnow |
-| 60 | 274 | Sweet Baker |
+| 59 | 274 | Sweet Baker |
+| 60 | 274 | Theo Pinnow |
 | 61 | 270 | Sarah Roberts |
 | 62 | 266 | Tipsy Column |
 | 63 | 261 | Bhelle Sumile |
@@ -82,10 +82,10 @@
 | 74 | 220 | Dee Perry |
 | 75 | 217 | Deanna L Hermanson |
 | 76 | 213 | Billie Dawn Sparks |
-| 77 | 212 | Mandyy Rae |
-| 78 | 212 | Jaimie Lynn |
-| 79 | 211 | june october |
-| 80 | 211 | Marianita Garcia |
+| 77 | 212 | Jaimie Lynn |
+| 78 | 212 | Mandyy Rae |
+| 79 | 211 | Marianita Garcia |
+| 80 | 211 | june october |
 | 81 | 210 | Ly Phethmany |
 | 82 | 205 | Trippy Redd |
 | 83 | 204 | Lexuriuos Lifestlye |

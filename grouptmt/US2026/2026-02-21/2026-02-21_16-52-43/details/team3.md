@@ -162,12 +162,12 @@
 | 154 | 193 | Clever Shiftsnap |
 | 155 | 191 | Giddy Twistbuilder |
 | 156 | 191 | Scott Carleton |
-| 157 | 189 | Sissy Lowery Davis |
-| 158 | 189 | Staci George Fitzsimmons |
+| 157 | 189 | Staci George Fitzsimmons |
+| 158 | 189 | Sissy Lowery Davis |
 | 159 | 189 | Fallorina Susana |
 | 160 | 188 | Angie Harper |
-| 161 | 184 | Jennie Beranek |
-| 162 | 184 | Rebel124 |
+| 161 | 184 | Rebel124 |
+| 162 | 184 | Jennie Beranek |
 | 163 | 182 | Hyper Matchzone |
 | 164 | 181 | Karon Griffin |
 | 165 | 181 | Aerian Preston |
@@ -214,14 +214,14 @@
 | 206 | 149 | Alexis Taylor |
 | 207 | 149 | Angel Mendez |
 | 208 | 148 | Lesley Perez |
-| 209 | 148 | Jennifer Alvey |
-| 210 | 148 | Gumbo |
-| 211 | 146 | Ashley Lynn Marchese |
-| 212 | 146 | Denita Mungro |
-| 213 | 146 | Latoya Mayne |
-| 214 | 146 | Carrie Huskey |
-| 215 | 145 | Bryan Byrd |
-| 216 | 145 | Emma |
+| 209 | 148 | Gumbo |
+| 210 | 148 | Jennifer Alvey |
+| 211 | 146 | Denita Mungro |
+| 212 | 146 | Ashley Lynn Marchese |
+| 213 | 146 | Carrie Huskey |
+| 214 | 146 | Latoya Mayne |
+| 215 | 145 | Emma |
+| 216 | 145 | Bryan Byrd |
 | 217 | 142 | Jl |
 | 218 | 142 | David Bardo |
 | 219 | 142 | Erica Anderson |
@@ -238,8 +238,8 @@
 | 230 | 131 | Darlene McMillan |
 | 231 | 130 | Weerae |
 | 232 | 129 | Juliana Dottore |
-| 233 | 128 | Cesar Barraza |
-| 234 | 128 | Jen Lewis |
+| 233 | 128 | Jen Lewis |
+| 234 | 128 | Cesar Barraza |
 | 235 | 126 | April Matthew Kibble |
 | 236 | 125 | Shimika Enay Wallace |
 | 237 | 125 | Felicia Doxey |
