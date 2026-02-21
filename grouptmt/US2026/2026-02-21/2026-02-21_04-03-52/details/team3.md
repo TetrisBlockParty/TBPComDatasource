@@ -71,8 +71,8 @@
 | 63 | 304 | Tasha Schriewer |
 | 64 | 300 | Sherika C. McDaniels |
 | 65 | 298 | Ashley Raines |
-| 66 | 272 | Cherry Parker |
-| 67 | 272 | Mahman |
+| 66 | 272 | Mahman |
+| 67 | 272 | Cherry Parker |
 | 68 | 261 | Chauntee Alfrey-Cardinale |
 | 69 | 251 | Rufus Lincoln |
 | 70 | 249 | Denise Nardoni |

@@ -26,8 +26,8 @@
 | 18 | 345 | Ancient Intuition |
 | 19 | 339 | LisaJo Picken Buchanan |
 | 20 | 338 | Nope Young |
-| 21 | 330 | Johnathan Martinez |
-| 22 | 330 | Samantha Peterson |
+| 21 | 330 | Samantha Peterson |
+| 22 | 330 | Johnathan Martinez |
 | 23 | 324 | Isabel Aguilar |
 | 24 | 320 | Kimyatta Cavin |
 | 25 | 315 | Carolyn Wallace |
@@ -140,7 +140,7 @@
 | 132 | 78 | Chair |
 | 133 | 77 | Chris Alexinas |
 | 134 | 76 | Bethany Ison |
-| 135 | 75 | Casey Grabner |
+| 135 | 75 | 🥔🥔 Spudz |
 | 136 | 75 | Rosemary Foster |
 | 137 | 75 | Casey Grabner |
 | 138 | 74 | Melvin Baird |

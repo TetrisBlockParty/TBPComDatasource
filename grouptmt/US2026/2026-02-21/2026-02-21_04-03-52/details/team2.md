@@ -307,8 +307,8 @@
 | 299 | 196 | Alexandra Reese |
 | 300 | 196 | Cass Shirley |
 | 301 | 196 | Besma Ao |
-| 302 | 194 | Kimberly Ann |
-| 303 | 194 | Mike Aprilliano |
+| 302 | 194 | Mike Aprilliano |
+| 303 | 194 | Kimberly Ann |
 | 304 | 194 | Hoppy Brickmatch |
 | 305 | 193 | Nika Bee |
 | 306 | 192 | Michelle Sager |
