@@ -153,8 +153,8 @@
 | 145 | 219 | Tom Nault |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
-| 148 | 214 | Amy Fuller Heaton |
-| 149 | 214 | Jenny Hrndz |
+| 148 | 214 | Jenny Hrndz |
+| 149 | 214 | Amy Fuller Heaton |
 | 150 | 214 | Leah Barnett |
 | 151 | 212 | Krystal Gerstberger |
 | 152 | 211 | Katrina Schroeder |
@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Michael Lucado |
-| 163 | 195 | Nicha Hooker |
+| 162 | 195 | Nicha Hooker |
+| 163 | 195 | Michael Lucado |
 | 164 | 194 | glichmod |
 | 165 | 193 | Duane Bright |
 | 166 | 193 | Clever Shiftsnap |
@@ -178,9 +178,9 @@
 | 170 | 191 | Ashley Muncey |
 | 171 | 191 | Giddy Twistbuilder |
 | 172 | 191 | Rebel124 |
-| 173 | 189 | Sissy Lowery Davis |
+| 173 | 189 | Staci George Fitzsimmons |
 | 174 | 189 | Fallorina Susana |
-| 175 | 189 | Staci George Fitzsimmons |
+| 175 | 189 | Sissy Lowery Davis |
 | 176 | 188 | Angie Harper |
 | 177 | 186 | Khaleada McGill Banks |
 | 178 | 185 | Sashay Tapae Simpson |
@@ -206,8 +206,8 @@
 | 198 | 166 | Kelly Ann Child |
 | 199 | 166 | Betty Rosas |
 | 200 | 165 | Kali Kelz Williams |
-| 201 | 163 | Stephanie Hill |
-| 202 | 163 | Christine Trester |
+| 201 | 163 | Christine Trester |
+| 202 | 163 | Stephanie Hill |
 | 203 | 162 | Stephanie Whitefield |
 | 204 | 161 | BŘŰŤİÇŨŚ |
 | 205 | 160 | Tiffany Davie |
@@ -266,12 +266,12 @@
 | 258 | 126 | Pam Holt Powell |
 | 259 | 126 | April Matthew Kibble |
 | 260 | 126 | RickyG |
-| 261 | 125 | Felicia Doxey |
-| 262 | 125 | Shimika Enay Wallace |
+| 261 | 125 | Shimika Enay Wallace |
+| 262 | 125 | Felicia Doxey |
 | 263 | 124 | Funky Jumper |
-| 264 | 123 | Michael Latasha Gray |
-| 265 | 123 | France Vézina |
-| 266 | 123 | Rachel |
+| 264 | 123 | France Vézina |
+| 265 | 123 | Rachel |
+| 266 | 123 | Michael Latasha Gray |
 | 267 | 122 | Eon Harris |
 | 268 | 122 | Giggly Brickroll |
 | 269 | 122 | Beppy |

@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Lawrence Belanger |
-| 36 | 508 | Michelle Nicole |
+| 35 | 508 | Michelle Nicole |
+| 36 | 508 | Lawrence Belanger |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Sweetts |
-| 105 | 190 | Thorne Shumate |
+| 104 | 190 | Thorne Shumate |
+| 105 | 190 | Sweetts |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -137,28 +137,28 @@
 | 129 | 155 | Cece Ibarra |
 | 130 | 154 | Irual Hctrab |
 | 131 | 153 | Shiny Gridmatch |
-| 132 | 152 | Jacqueline Unique |
-| 133 | 152 | Speedy Snapfall |
-| 134 | 150 | Trina Gee |
-| 135 | 150 | Adele Rahman |
+| 132 | 152 | Speedy Snapfall |
+| 133 | 152 | Jacqueline Unique |
+| 134 | 150 | Adele Rahman |
+| 135 | 150 | Trina Gee |
 | 136 | 149 | Jennifer ManWarren |
 | 137 | 149 | Arianna O'Brien |
 | 138 | 148 | Shauntina Burke |
 | 139 | 147 | Leslie Bush Yarbrough |
 | 140 | 146 | Christy Jones |
-| 141 | 145 | Angela Fairbank |
-| 142 | 145 | BigWeenie69 |
+| 141 | 145 | BigWeenie69 |
+| 142 | 145 | Angela Fairbank |
 | 143 | 145 | Agustin Duarte Orozco |
 | 144 | 144 | Gary Gobin |
-| 145 | 144 | Plucky Ziggy |
-| 146 | 144 | femmefatale |
-| 147 | 144 | Bouncy Grid |
+| 145 | 144 | Bouncy Grid |
+| 146 | 144 | Plucky Ziggy |
+| 147 | 144 | femmefatale |
 | 148 | 143 | Sarah Marie |
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Cranky Pattern |
-| 153 | 138 | Death |
+| 152 | 138 | Death |
+| 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |

@@ -193,8 +193,8 @@
 | 185 | 541 | SaraMarie Eveland |
 | 186 | 541 | Giggy Blocker |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Teresa Gillmore |
-| 189 | 534 | Stephen Stephen |
+| 188 | 534 | Stephen Stephen |
+| 189 | 534 | Teresa Gillmore |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
@@ -237,8 +237,8 @@
 | 229 | 475 | Jánine Riggs |
 | 230 | 475 | Khalil Lowe |
 | 231 | 474 | Calandra Shaya Robinson |
-| 232 | 474 | Auntie B |
-| 233 | 474 | Ashley Collins |
+| 232 | 474 | Ashley Collins |
+| 233 | 474 | Auntie B |
 | 234 | 470 | Jerry Tempelmeyer |
 | 235 | 469 | Ashley Rose Frederick |
 | 236 | 467 | Scott Treadway |
@@ -285,8 +285,8 @@
 | 277 | 407 | Rhonda Milstead |
 | 278 | 406 | Erin StFrancis |
 | 279 | 406 | Maegan Beaule |
-| 280 | 405 | Christy Krissie |
-| 281 | 405 | Sarah Massey |
+| 280 | 405 | Sarah Massey |
+| 281 | 405 | Christy Krissie |
 | 282 | 402 | Joshua Mandel |
 | 283 | 400 | Tammy Allen |
 | 284 | 398 | Moni Foxe |
@@ -602,8 +602,8 @@
 | 594 | 205 | ElizabethAnn Dickinson |
 | 595 | 204 | Ali Gralski |
 | 596 | 204 | Ryan Lauer |
-| 597 | 204 | Kimberly Ann |
-| 598 | 204 | Brenna Ann |
+| 597 | 204 | Brenna Ann |
+| 598 | 204 | Kimberly Ann |
 | 599 | 203 | Alyssa Dean |
 | 600 | 202 | Layna Lyons |
 | 601 | 201 | Matthew Turner |
@@ -1078,7 +1078,7 @@
 | 1070 | 118 | Nikki Arlene |
 | 1071 | 118 | Chilly Wrecker |
 | 1072 | 117 | Luceros7 |
-| 1073 | 117 | Kimmae Kimbrough |
+| 1073 | 117 | Britney Volz |
 | 1074 | 117 | Snazzy Striker |
 | 1075 | 117 | Kimmae Kimbrough |
 | 1076 | 117 | Sean Kinsey |
@@ -1087,8 +1087,8 @@
 | 1079 | 117 | Theresa Ring |
 | 1080 | 117 | Funky Riseclear |
 | 1081 | 117 | Kelli Clark |
-| 1082 | 116 | Gaby |
-| 1083 | 116 | Spunky Dash |
+| 1082 | 116 | Spunky Dash |
+| 1083 | 116 | Gaby |
 | 1084 | 116 | Patrick Langford |
 | 1085 | 116 | Slimkaite |
 | 1086 | 116 | Chyrisse Norton |

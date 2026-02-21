@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Lucas J Sutton |
-| 80 | 230 | Autum Leigh |
+| 79 | 230 | Autum Leigh |
+| 80 | 230 | Lucas J Sutton |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
@@ -153,8 +153,8 @@
 | 145 | 137 | Roger Coulter |
 | 146 | 136 | Serena Goodridge |
 | 147 | 136 | Tanner Lund |
-| 148 | 135 | ĥuf |
-| 149 | 135 | Victoria Faniel |
+| 148 | 135 | Victoria Faniel |
+| 149 | 135 | ĥuf |
 | 150 | 134 | Chirpy Basepiece |
 | 151 | 134 | Zany Shatterer |
 | 152 | 132 | Melissa Priest Sellers |
