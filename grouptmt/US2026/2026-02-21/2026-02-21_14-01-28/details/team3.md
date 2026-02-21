@@ -135,8 +135,8 @@
 | 127 | 195 | Nicha Hooker |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Clever Shiftsnap |
-| 131 | 193 | Duane Bright |
+| 130 | 193 | Duane Bright |
+| 131 | 193 | Clever Shiftsnap |
 | 132 | 192 | Chasity |
 | 133 | 192 | Joe-Maggie Mathews |
 | 134 | 191 | Scott Carleton |
@@ -153,7 +153,7 @@
 | 145 | 179 | Joye Sims Binion |
 | 146 | 179 | Daira Largen |
 | 147 | 178 | AlsoJess |
-| 148 | 178 | Mcathen |
+| 148 | 178 | Khaleada McGill Banks |
 | 149 | 176 | Ryan Williams |
 | 150 | 167 | Raven Dudley |
 | 151 | 167 | Rebel124 |

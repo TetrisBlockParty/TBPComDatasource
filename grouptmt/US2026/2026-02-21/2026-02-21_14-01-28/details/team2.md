@@ -95,8 +95,8 @@
 | 87 | 814 | Whitney Nicole Waterman |
 | 88 | 801 | Tralonda Weeks |
 | 89 | 800 | Tacara Cummings |
-| 90 | 789 | Stephanie Chapman |
-| 91 | 789 | James Simms III |
+| 90 | 789 | James Simms III |
+| 91 | 789 | Stephanie Chapman |
 | 92 | 787 | Laura McCarthey |
 | 93 | 780 | Amanda Grohmann |
 | 94 | 772 | Megan Ferguson Leone |
@@ -152,8 +152,8 @@
 | 144 | 541 | SaraMarie Eveland |
 | 145 | 540 | Charvi' Carter |
 | 146 | 534 | Stephen Stephen |
-| 147 | 534 | Poppy Snapper |
-| 148 | 534 | Real Ri |
+| 147 | 534 | Real Ri |
+| 148 | 534 | Poppy Snapper |
 | 149 | 531 | Chris Wanner |
 | 150 | 527 | Adira Brown |
 | 151 | 527 | Stacy Stickle |
@@ -273,8 +273,8 @@
 | 265 | 341 | Joce Lynn |
 | 266 | 338 | Mr. Street Stack |
 | 267 | 334 | Moni Foxe |
-| 268 | 334 | Missie Lawson Gebhardt |
-| 269 | 334 | Felicia Lynn |
+| 268 | 334 | Felicia Lynn |
+| 269 | 334 | Missie Lawson Gebhardt |
 | 270 | 333 | Brittney Jean |
 | 271 | 333 | ShinyRose |
 | 272 | 332 | Skyler Morgan |
@@ -385,8 +385,8 @@
 | 377 | 254 | Rose Fx |
 | 378 | 254 | Julie Hamilton |
 | 379 | 253 | Tansaria Couch-Butler |
-| 380 | 252 | Alyssia Tancredi |
-| 381 | 252 | Matt Johnson |
+| 380 | 252 | Matt Johnson |
+| 381 | 252 | Alyssia Tancredi |
 | 382 | 251 | Ann Knutson Anderson |
 | 383 | 250 | Steve Man |
 | 384 | 250 | Anthony Mignacca |

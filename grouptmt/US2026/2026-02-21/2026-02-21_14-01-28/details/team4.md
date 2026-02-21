@@ -189,7 +189,7 @@
 | 181 | 95 | Jen Caldwell |
 | 182 | 94 | DonMega |
 | 183 | 94 | Chastity Mitchell |
-| 184 | 94 | DonMega |
+| 184 | 94 | Kim Hunt |
 | 185 | 93 | Zesty Twistbuilder |
 | 186 | 92 | Misty Hollibaugh |
 | 187 | 90 | No Strings Attached Ra |
