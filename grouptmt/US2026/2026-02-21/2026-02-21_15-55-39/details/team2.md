@@ -78,8 +78,8 @@
 | 70 | 1038 | Denisha Dawkins |
 | 71 | 1013 | Sarah Freitas |
 | 72 | 992 | Samantha Roberts |
-| 73 | 973 | Zappy Cascade |
-| 74 | 973 | Kim Dean |
+| 73 | 973 | Kim Dean |
+| 74 | 973 | Zappy Cascade |
 | 75 | 962 | Janel Turley-Garner |
 | 76 | 962 | Charie Holland |
 | 77 | 946 | Carrie Trigg |
@@ -253,8 +253,8 @@
 | 245 | 396 | Stefanie Zonzini-Gagliardi |
 | 246 | 393 | Taylor Flowers |
 | 247 | 393 | Altamirano Michael |
-| 248 | 391 | Brenda Utphall |
-| 249 | 391 | Chilly Bridgepiece |
+| 248 | 391 | Chilly Bridgepiece |
+| 249 | 391 | Brenda Utphall |
 | 250 | 391 | Qiana Sanders |
 | 251 | 390 | Kimberly Randesi |
 | 252 | 386 | Macy Williams |
@@ -437,8 +437,8 @@
 | 429 | 247 | Fancy Twister |
 | 430 | 247 | Andrea Devery Beck |
 | 431 | 247 | Eric Carlson |
-| 432 | 246 | Stephanie Lumanlan |
-| 433 | 246 | Ashley Lopez |
+| 432 | 246 | Ashley Lopez |
+| 433 | 246 | Stephanie Lumanlan |
 | 434 | 246 | Pocho Zavala |
 | 435 | 245 | Rachael Senard |
 | 436 | 245 | Sanaa Nounoussa |
@@ -461,8 +461,8 @@
 | 453 | 232 | Amber Brion |
 | 454 | 232 | Quirky Twistline |
 | 455 | 231 | Hong Tang |
-| 456 | 231 | Brave Gridpiece |
-| 457 | 231 | Dylan Thomason |
+| 456 | 231 | Dylan Thomason |
+| 457 | 231 | Brave Gridpiece |
 | 458 | 230 | Leslie Johnson Guinto |
 | 459 | 229 | Tonya Lee |
 | 460 | 228 | Michelle Sager |

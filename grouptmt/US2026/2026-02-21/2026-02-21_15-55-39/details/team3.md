@@ -251,8 +251,8 @@
 | 243 | 118 | Fancy Curver |
 | 244 | 118 | Damian Reid |
 | 245 | 116 | BugMansMom |
-| 246 | 115 | Stella |
-| 247 | 115 | Hoppy Buildout |
+| 246 | 115 | Hoppy Buildout |
+| 247 | 115 | Stella |
 | 248 | 115 | Daring Builder |
 | 249 | 113 | Brian Battjes |
 | 250 | 113 | Beppy |
@@ -286,8 +286,8 @@
 | 278 | 104 | El Chapa |
 | 279 | 104 | Samantha Lynn |
 | 280 | 103 | Wetwet |
-| 281 | 103 | Lisa Lisa |
-| 282 | 103 | Kate Farok |
+| 281 | 103 | Kate Farok |
+| 282 | 103 | Lisa Lisa |
 | 283 | 102 | Christian Luna |
 | 284 | 101 | Hyper Bridger |
 | 285 | 101 | Sabrina Ruth Archuletta-Gauna |
