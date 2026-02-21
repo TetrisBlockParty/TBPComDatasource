@@ -197,8 +197,8 @@
 | 189 | 541 | SaraMarie Eveland |
 | 190 | 541 | Giggy Blocker |
 | 191 | 535 | Jessie McDougald |
-| 192 | 534 | Teresa Gillmore |
-| 193 | 534 | Stephen Stephen |
+| 192 | 534 | Stephen Stephen |
+| 193 | 534 | Teresa Gillmore |
 | 194 | 531 | Chris Wanner |
 | 195 | 528 | Brownie Sheena |
 | 196 | 527 | Stacy Stickle |
@@ -314,8 +314,8 @@
 | 306 | 382 | David Holliday |
 | 307 | 381 | Bubbly Snapfit |
 | 308 | 380 | Desiree Harris Rosch |
-| 309 | 378 | Christina Ashley |
-| 310 | 378 | Cody Nishimura |
+| 309 | 378 | Cody Nishimura |
+| 310 | 378 | Christina Ashley |
 | 311 | 377 | Roy Salyer |
 | 312 | 374 | Johnny Yeates |
 | 313 | 374 | Lee Harper |
@@ -355,8 +355,8 @@
 | 347 | 345 | Angie Bolton Workman |
 | 348 | 345 | Rhianna DiLorenzo |
 | 349 | 344 | Glenn Cobbins |
-| 350 | 344 | Ginger |
-| 351 | 344 | Felicia Lynn |
+| 350 | 344 | Felicia Lynn |
+| 351 | 344 | Ginger |
 | 352 | 343 | F-X |
 | 353 | 342 | Ebony Deloach Bryant |
 | 354 | 341 | Melissa Rebbe-Lehman |
@@ -649,11 +649,11 @@
 | 641 | 194 | Sarah block |
 | 642 | 193 | D5wag2014 |
 | 643 | 193 | Kelly Ann McCormick |
-| 644 | 193 | Seth Wrieden |
-| 645 | 193 | Kristen Casale Berry |
+| 644 | 193 | Kristen Casale Berry |
+| 645 | 193 | Seth Wrieden |
 | 646 | 193 | Brenda Pierpoint |
-| 647 | 192 | Leroy Jenkins |
-| 648 | 192 | Sandra Link-Gable |
+| 647 | 192 | Sandra Link-Gable |
+| 648 | 192 | Leroy Jenkins |
 | 649 | 192 | Beth Decker |
 | 650 | 191 | Stacy Harper |
 | 651 | 191 | Wakanda Forever |

@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
@@ -120,8 +120,8 @@
 | 112 | 179 | Epic Curvetile |
 | 113 | 178 | Lori |
 | 114 | 177 | Andria Lynn |
-| 115 | 174 | Zethra Prenisha Rahming |
-| 116 | 174 | Dihcheese444 |
+| 115 | 174 | Dihcheese444 |
+| 116 | 174 | Zethra Prenisha Rahming |
 | 117 | 173 | Ren Mc |
 | 118 | 173 | blockstar |
 | 119 | 170 | Girl |
@@ -158,10 +158,10 @@
 | 150 | 134 | Chirpy Basepiece |
 | 151 | 134 | Zany Shatterer |
 | 152 | 132 | Degenerate |
-| 153 | 132 | Jessica Cagle |
-| 154 | 132 | Melissa Priest Sellers |
-| 155 | 131 | Diana Houts |
-| 156 | 131 | Angela Geist Jusinski |
+| 153 | 132 | Melissa Priest Sellers |
+| 154 | 132 | Jessica Cagle |
+| 155 | 131 | Angela Geist Jusinski |
+| 156 | 131 | Diana Houts |
 | 157 | 130 | Casey Jeffcoat |
 | 158 | 129 | Dreamy Snapgrid |
 | 159 | 128 | Stephme310 |
