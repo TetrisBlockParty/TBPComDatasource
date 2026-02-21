@@ -126,8 +126,8 @@
 | 118 | 843 | Suki Kaur |
 | 119 | 821 | Cynthia Ward |
 | 120 | 820 | Andea Beck |
-| 121 | 815 | blarg |
-| 122 | 815 | Cindy Sechler Taninecz |
+| 121 | 815 | Cindy Sechler Taninecz |
+| 122 | 815 | blarg |
 | 123 | 802 | Robin Kerby |
 | 124 | 801 | Tralonda Weeks |
 | 125 | 800 | Tacara Cummings |
@@ -202,8 +202,8 @@
 | 194 | 591 | Alisha |
 | 195 | 591 | Diana Fitzwater |
 | 196 | 586 | Stephen Stephen |
-| 197 | 583 | Steve Grotto |
-| 198 | 583 | Jessicah Myers |
+| 197 | 583 | Jessicah Myers |
+| 198 | 583 | Steve Grotto |
 | 199 | 579 | Gary Stash |
 | 200 | 577 | Hyper Cluster |
 | 201 | 576 | Shannon Joslin |

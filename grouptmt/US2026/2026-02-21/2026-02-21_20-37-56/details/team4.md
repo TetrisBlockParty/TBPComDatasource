@@ -114,8 +114,8 @@
 | 106 | 197 | Swanky Fitline |
 | 107 | 196 | Jeff Brian Gates |
 | 108 | 194 | Zany Twisterfit |
-| 109 | 192 | Crystal Carroll |
-| 110 | 192 | Shauna Havard |
+| 109 | 192 | Shauna Havard |
+| 110 | 192 | Crystal Carroll |
 | 111 | 191 | loulou |
 | 112 | 191 | Melvin Baird |
 | 113 | 189 | Calvin Dennis |
@@ -132,8 +132,8 @@
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
 | 126 | 176 | Stacey Stano |
-| 127 | 174 | Dihcheese444 |
-| 128 | 174 | shark tato |
+| 127 | 174 | shark tato |
+| 128 | 174 | Dihcheese444 |
 | 129 | 174 | Zethra Prenisha Rahming |
 | 130 | 173 | Ren Mc |
 | 131 | 173 | blockstar |
@@ -146,8 +146,8 @@
 | 138 | 156 | Holly |
 | 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Bethany Ison |
-| 142 | 151 | Avy Absol |
+| 141 | 151 | Avy Absol |
+| 142 | 151 | Bethany Ison |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -200,8 +200,8 @@
 | 192 | 121 | Joseph Pace |
 | 193 | 120 | Jackie Marie |
 | 194 | 120 | Zesty Twistbuilder |
-| 195 | 120 | KayM |
-| 196 | 120 | Joshua Guess |
+| 195 | 120 | Joshua Guess |
+| 196 | 120 | KayM |
 | 197 | 119 | Kristin Manee |
 | 198 | 119 | Gwendolyn Pitcairn |
 | 199 | 119 | Judy Cox |
@@ -209,8 +209,8 @@
 | 201 | 118 | Mary Ann Pabukis |
 | 202 | 115 | Sam Middleton |
 | 203 | 115 | Nubian1 |
-| 204 | 115 | Ultramarine |
-| 205 | 115 | Jayk |
+| 204 | 115 | Jayk |
+| 205 | 115 | Ultramarine |
 | 206 | 113 | Dandy Cascadefit |
 | 207 | 113 | Adam Randall |
 | 208 | 112 | Jeremy Steines |

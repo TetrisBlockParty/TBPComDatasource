@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -105,8 +105,8 @@
 | 97 | 389 | Mcathen |
 | 98 | 386 | Katie Knaus |
 | 99 | 384 | Shannon Matthew Byers |
-| 100 | 378 | Makelini Mausia |
-| 101 | 378 | Tasha Schriewer |
+| 100 | 378 | Tasha Schriewer |
+| 101 | 378 | Makelini Mausia |
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
@@ -118,16 +118,16 @@
 | 110 | 348 | CeceGeGe |
 | 111 | 332 | Chauntee Alfrey-Cardinale |
 | 112 | 323 | Sherry Ogden |
-| 113 | 323 | Hasty Cascadefit |
-| 114 | 323 | Ashley Raines |
+| 113 | 323 | Ashley Raines |
+| 114 | 323 | Hasty Cascadefit |
 | 115 | 321 | Dapper Snap |
 | 116 | 320 | Or Reznitsky |
 | 117 | 318 | Chasity |
 | 118 | 316 | Fancy Cascader |
 | 119 | 312 | Jay Horn |
 | 120 | 309 | Rich LeBlanc |
-| 121 | 307 | Peggi Charon |
-| 122 | 307 | Blocked |
+| 121 | 307 | Blocked |
+| 122 | 307 | Peggi Charon |
 | 123 | 305 | Tessina Dewey-Mancino |
 | 124 | 300 | Sherika C. McDaniels |
 | 125 | 293 | Poppy Splitter |
@@ -161,8 +161,8 @@
 | 153 | 227 | Nikki Pags |
 | 154 | 226 | Grego Daniel |
 | 155 | 223 | Jeana Gilbert |
-| 156 | 222 | Jimmie Clemons |
-| 157 | 222 | Hoppy Buildout |
+| 156 | 222 | Hoppy Buildout |
+| 157 | 222 | Jimmie Clemons |
 | 158 | 219 | Shunta Jacobs |
 | 159 | 218 | LaNette Morgan |
 | 160 | 217 | Jess Bissett |
