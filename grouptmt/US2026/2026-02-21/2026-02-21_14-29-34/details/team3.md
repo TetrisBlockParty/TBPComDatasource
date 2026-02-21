@@ -33,12 +33,12 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Delilah belle |
-| 29 | 867 | Briarblack |
+| 28 | 867 | Briarblack |
+| 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Shane Wilson Jr. |
-| 33 | 810 | Zippy Strikesnap |
+| 32 | 810 | Zippy Strikesnap |
+| 33 | 810 | Shane Wilson Jr. |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 733 | Chummy Shatterer |
 | 36 | 720 | Amber Jones |
@@ -137,18 +137,18 @@
 | 129 | 204 | Aaron Pitkin |
 | 130 | 202 | Twisty Brick LT |
 | 131 | 199 | joclisa |
-| 132 | 195 | Jenny Hrndz |
-| 133 | 195 | Nicha Hooker |
+| 132 | 195 | Nicha Hooker |
+| 133 | 195 | Jenny Hrndz |
 | 134 | 194 | glichmod |
 | 135 | 193 | Stephanie Burtin |
-| 136 | 193 | Clever Shiftsnap |
-| 137 | 193 | Duane Bright |
+| 136 | 193 | Duane Bright |
+| 137 | 193 | Clever Shiftsnap |
 | 138 | 192 | Chasity |
 | 139 | 191 | Giddy Twistbuilder |
 | 140 | 191 | Scott Carleton |
 | 141 | 189 | Sissy Lowery Davis |
-| 142 | 189 | Staci George Fitzsimmons |
-| 143 | 189 | Fallorina Susana |
+| 142 | 189 | Fallorina Susana |
+| 143 | 189 | Staci George Fitzsimmons |
 | 144 | 184 | Jennie Beranek |
 | 145 | 183 | Chris Bell |
 | 146 | 182 | Hyper Matchzone |
@@ -187,8 +187,8 @@
 | 179 | 152 | Katrina E Jelks |
 | 180 | 152 | Shiny Zonebuilder |
 | 181 | 151 | Nikki Pags |
-| 182 | 151 | Brenda Lee Vander Molen |
-| 183 | 151 | MsBee |
+| 182 | 151 | MsBee |
+| 183 | 151 | Brenda Lee Vander Molen |
 | 184 | 150 | Nicole Myers |
 | 185 | 149 | Angel Mendez |
 | 186 | 149 | Desiree Gold |
@@ -256,8 +256,8 @@
 | 248 | 108 | Hanna Kim |
 | 249 | 107 | Sherry Ogden |
 | 250 | 107 | Bouncy Blockbuilder |
-| 251 | 106 | Noettín Kan Zasnemoore |
-| 252 | 106 | Rachel |
+| 251 | 106 | Rachel |
+| 252 | 106 | Noettín Kan Zasnemoore |
 | 253 | 105 | Carol Cain Thurman |
 | 254 | 105 | Donna |
 | 255 | 105 | Boldy Blocker |
@@ -290,8 +290,8 @@
 | 282 | 98 | Armi |
 | 283 | 97 | Shicken Nuggit |
 | 284 | 97 | Ashley Jones |
-| 285 | 96 | D3NO |
-| 286 | 96 | Christopher Woost |
+| 285 | 96 | Christopher Woost |
+| 286 | 96 | D3NO |
 | 287 | 95 | FATTY |
 | 288 | 95 | Brooke Bauer |
 | 289 | 94 | Tracey Cox |

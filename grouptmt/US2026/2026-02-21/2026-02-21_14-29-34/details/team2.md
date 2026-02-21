@@ -251,8 +251,8 @@
 | 243 | 371 | Kimberly Randesi |
 | 244 | 366 | Wuntayk |
 | 245 | 365 | Christina Lewis-Vickers |
-| 246 | 364 | Shinette Dobson |
-| 247 | 364 | Brandon Armstrong |
+| 246 | 364 | Brandon Armstrong |
+| 247 | 364 | Shinette Dobson |
 | 248 | 363 | William Meussner |
 | 249 | 362 | AkaLefty |
 | 250 | 359 | Brainy Smurf |

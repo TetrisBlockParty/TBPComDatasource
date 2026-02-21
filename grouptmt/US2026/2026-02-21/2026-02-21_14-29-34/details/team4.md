@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -102,8 +102,8 @@
 | 94 | 164 | ThaEviLJeNiuZ |
 | 95 | 162 | Shauna Havard |
 | 96 | 161 | Joeliecea Cobb |
-| 97 | 160 | Stacey Stano |
-| 98 | 160 | Carter Jones |
+| 97 | 160 | Carter Jones |
+| 98 | 160 | Stacey Stano |
 | 99 | 159 | Holly Jolly |
 | 100 | 157 | quicksand420 |
 | 101 | 154 | Zany Twisterfit |
@@ -145,12 +145,12 @@
 | 137 | 121 | Smiley Tiltbuilder |
 | 138 | 121 | Zany Shatterer |
 | 139 | 120 | Joshua Guess |
-| 140 | 119 | Stephme310 |
-| 141 | 119 | Kristin Manee |
+| 140 | 119 | Kristin Manee |
+| 141 | 119 | Stephme310 |
 | 142 | 118 | Leslie Nicole |
 | 143 | 116 | Diana Houts |
-| 144 | 115 | Ultramarine |
-| 145 | 115 | Jayk |
+| 144 | 115 | Jayk |
+| 145 | 115 | Ultramarine |
 | 146 | 113 | Adam Randall |
 | 147 | 112 | Brittany Marsh |
 | 148 | 112 | Austin Owens |

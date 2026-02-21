@@ -96,9 +96,9 @@
 | 88 | 180 | Erez Yosef |
 | 89 | 178 | Danielle Little-Daugherty |
 | 90 | 177 | Diane Byrd |
-| 91 | 173 | Jennifer Olewnik Soborowski |
-| 92 | 173 | Frothy Pattern |
-| 93 | 173 | june october |
+| 91 | 173 | Frothy Pattern |
+| 92 | 173 | june october |
+| 93 | 173 | Jennifer Olewnik Soborowski |
 | 94 | 171 | Greg Premoe |
 | 95 | 168 | Redlicious 1 |
 | 96 | 166 | Rico Rico |
@@ -174,8 +174,8 @@
 | 166 | 106 | Alyssa Ingram |
 | 167 | 105 | Ty Brown |
 | 168 | 105 | Angela Fairbank |
-| 169 | 104 | Charla Pross-Fugleberg |
-| 170 | 104 | Bindi |
+| 169 | 104 | Bindi |
+| 170 | 104 | Charla Pross-Fugleberg |
 | 171 | 103 | Chantelle Ceno |
 | 172 | 102 | Yvonne Marie |
 | 173 | 101 | Loony Fitzone |
@@ -189,12 +189,12 @@
 | 181 | 99 | Melissa Bires Hussar |
 | 182 | 98 | Witty Builderfit |
 | 183 | 96 | Nery Martinez |
-| 184 | 96 | Barrbaric |
-| 185 | 96 | Melissa Lemmon |
+| 184 | 96 | Melissa Lemmon |
+| 185 | 96 | Barrbaric |
 | 186 | 96 | Guest |
 | 187 | 94 | Brad MG |
-| 188 | 93 | Howdi Duty |
-| 189 | 93 | Tipsy Riseclear |
+| 188 | 93 | Tipsy Riseclear |
+| 189 | 93 | Howdi Duty |
 | 190 | 92 | Timothy Dew |
 | 191 | 90 | John Kim |
 | 192 | 90 | Steve Schneider |
