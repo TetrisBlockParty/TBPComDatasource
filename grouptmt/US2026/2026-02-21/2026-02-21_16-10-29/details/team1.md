@@ -85,8 +85,8 @@
 | 77 | 210 | Ly Phethmany |
 | 78 | 205 | Trippy Redd |
 | 79 | 204 | Lexuriuos Lifestlye |
-| 80 | 201 | Ananda Mendez |
-| 81 | 201 | Anaid Sanchez |
+| 80 | 201 | Anaid Sanchez |
+| 81 | 201 | Ananda Mendez |
 | 82 | 200 | Giggly Builderline |
 | 83 | 198 | Brandi Huntington |
 | 84 | 198 | Happy Snapbuild |

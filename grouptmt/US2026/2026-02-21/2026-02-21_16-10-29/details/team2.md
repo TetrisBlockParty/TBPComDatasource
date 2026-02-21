@@ -338,13 +338,13 @@
 | 330 | 315 | Alisa Lamb |
 | 331 | 314 | NanDa Cruzan VI |
 | 332 | 314 | Amanda West |
-| 333 | 312 | Michelle Pike |
-| 334 | 312 | Andrea Maher |
-| 335 | 309 | Ginger |
-| 336 | 309 | Oscar Bernie |
+| 333 | 312 | Andrea Maher |
+| 334 | 312 | Michelle Pike |
+| 335 | 309 | Oscar Bernie |
+| 336 | 309 | Ginger |
 | 337 | 309 | James Zaragoza |
-| 338 | 307 | Catina Hutchison |
-| 339 | 307 | Offonar Facey |
+| 338 | 307 | Offonar Facey |
+| 339 | 307 | Catina Hutchison |
 | 340 | 306 | Kristopher Miller |
 | 341 | 305 | Tum |
 | 342 | 305 | Zany Clusterbuilder |
@@ -422,8 +422,8 @@
 | 414 | 256 | Tee Jaleesa |
 | 415 | 254 | Ann Knutson Anderson |
 | 416 | 254 | Julie Hamilton |
-| 417 | 254 | Elizabeth Diraffaele |
-| 418 | 254 | Rose Fx |
+| 417 | 254 | Rose Fx |
+| 418 | 254 | Elizabeth Diraffaele |
 | 419 | 253 | Luna |
 | 420 | 253 | Kimmy Newman |
 | 421 | 253 | Tansaria Couch-Butler |

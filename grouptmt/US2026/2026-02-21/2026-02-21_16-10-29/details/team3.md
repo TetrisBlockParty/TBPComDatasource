@@ -117,8 +117,8 @@
 | 109 | 284 | Jay Horn |
 | 110 | 267 | Rufus Lincoln |
 | 111 | 264 | Tiff Vs Tiffany |
-| 112 | 263 | mjl574 |
-| 113 | 263 | Angeline Joseph |
+| 112 | 263 | Angeline Joseph |
+| 113 | 263 | mjl574 |
 | 114 | 262 | Joe-Maggie Mathews |
 | 115 | 259 | opf |
 | 116 | 256 | ren |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | Chris Bell |
-| 142 | 207 | rnr junky |
+| 141 | 207 | rnr junky |
+| 142 | 207 | Chris Bell |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -165,8 +165,8 @@
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
 | 159 | 182 | Hyper Matchzone |
-| 160 | 181 | Karon Griffin |
-| 161 | 181 | Aerian Preston |
+| 160 | 181 | Aerian Preston |
+| 161 | 181 | Karon Griffin |
 | 162 | 179 | Joye Sims Binion |
 | 163 | 179 | Daira Largen |
 | 164 | 179 | Ashley Jones |
@@ -193,8 +193,8 @@
 | 185 | 159 | Rochelle Hazelett |
 | 186 | 159 | Jone |
 | 187 | 158 | Grams |
-| 188 | 157 | Nicholas Roddy |
-| 189 | 157 | Patricia Gadsden |
+| 188 | 157 | Patricia Gadsden |
+| 189 | 157 | Nicholas Roddy |
 | 190 | 156 | Bea Miles |
 | 191 | 153 | Beth Ingham |
 | 192 | 152 | Katrina E Jelks |
@@ -288,8 +288,8 @@
 | 280 | 104 | Ashley Rufus Bythcez |
 | 281 | 104 | Sarah Moyer |
 | 282 | 104 | Peachy Rollfit |
-| 283 | 103 | Lisa Lisa |
-| 284 | 103 | Kate Farok |
+| 283 | 103 | Kate Farok |
+| 284 | 103 | Lisa Lisa |
 | 285 | 103 | Wetwet |
 | 286 | 102 | Christian Luna |
 | 287 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -361,9 +361,9 @@
 | 353 | 83 | Deseree Ewing |
 | 354 | 82 | Justice 4 P |
 | 355 | 82 | Rebecca Funderburk Kirby |
-| 356 | 82 | Moimyzean |
-| 357 | 82 | Eileen Brady Thurber |
-| 358 | 82 | lema ean |
+| 356 | 82 | Eileen Brady Thurber |
+| 357 | 82 | lema ean |
+| 358 | 82 | Moimyzean |
 | 359 | 81 | Joseph Vargas |
 | 360 | 81 | Katheline Lazo Luizaga |
 | 361 | 81 | Tammy Rosenberry |
