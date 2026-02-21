@@ -183,8 +183,8 @@
 | 175 | 440 | Liberty |
 | 176 | 427 | Destiny Cozier |
 | 177 | 426 | Magic steve |
-| 178 | 424 | Nashu |
-| 179 | 424 | Jamie Otero |
+| 178 | 424 | Jamie Otero |
+| 179 | 424 | Nashu |
 | 180 | 422 | Mamachelle Eisweirth |
 | 181 | 418 | Mighty Patternzone |
 | 182 | 416 | Lina Sanders |
@@ -400,12 +400,12 @@
 | 392 | 212 | BK Queen |
 | 393 | 212 | Aleasha M Brown |
 | 394 | 211 | Ys Muhammed |
-| 395 | 209 | Dawn L Washington-Feuquay |
-| 396 | 209 | Jerry Tempelmeyer |
-| 397 | 208 | Nancy Pohlman |
-| 398 | 208 | Mema |
-| 399 | 207 | Melissa McCall |
-| 400 | 207 | Brave Gridpiece |
+| 395 | 209 | Jerry Tempelmeyer |
+| 396 | 209 | Dawn L Washington-Feuquay |
+| 397 | 208 | Mema |
+| 398 | 208 | Nancy Pohlman |
+| 399 | 207 | Brave Gridpiece |
+| 400 | 207 | Melissa McCall |
 | 401 | 207 | Shylee Tilman |
 | 402 | 206 | RAEPR05 |
 | 403 | 206 | Neko Preston |
@@ -566,8 +566,8 @@
 | 558 | 148 | Tyler C. Jung |
 | 559 | 148 | AgileDragon |
 | 560 | 148 | Cleo Sims |
-| 561 | 147 | Smiley Strike |
-| 562 | 147 | Sassy Pivot |
+| 561 | 147 | Sassy Pivot |
+| 562 | 147 | Smiley Strike |
 | 563 | 147 | Jeremy Parodi |
 | 564 | 146 | Sherry Aguinaga |
 | 565 | 146 | Ibiza Carolina LaRose |

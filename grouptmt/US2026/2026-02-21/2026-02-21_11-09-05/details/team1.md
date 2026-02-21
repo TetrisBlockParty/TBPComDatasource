@@ -169,8 +169,8 @@
 | 161 | 93 | Cody Gates |
 | 162 | 92 | Timothy Dew |
 | 163 | 90 | TSwag |
-| 164 | 90 | Dizzy Party |
-| 165 | 90 | Madison Wicks |
+| 164 | 90 | Madison Wicks |
+| 165 | 90 | Dizzy Party |
 | 166 | 89 | Mara Hilker |
 | 167 | 88 | Larry Tilton |
 | 168 | 88 | Tyler Whitley |

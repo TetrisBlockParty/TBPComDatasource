@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -174,8 +174,8 @@
 | 166 | 140 | Jay Horn |
 | 167 | 140 | Carrie Huskey |
 | 168 | 135 | Cheryl Hinch Tenbrook |
-| 169 | 134 | Emma |
-| 170 | 134 | DanceLuvLaugh |
+| 169 | 134 | DanceLuvLaugh |
+| 170 | 134 | Emma |
 | 171 | 131 | Jl |
 | 172 | 129 | Lesley Perez |
 | 173 | 129 | Logan Naccarato |
