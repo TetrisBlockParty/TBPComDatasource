@@ -117,8 +117,8 @@
 | 109 | 665 | Dineisha Carpenter |
 | 110 | 658 | Pacynthia Williams |
 | 111 | 653 | Becky Weeks-Garry |
-| 112 | 649 | Anna Edwards |
-| 113 | 649 | Stephanie Chapman |
+| 112 | 649 | Stephanie Chapman |
+| 113 | 649 | Anna Edwards |
 | 114 | 641 | Ricardo Burton |
 | 115 | 632 | Beth |
 | 116 | 631 | Loopy Clusterbuilder |
@@ -358,8 +358,8 @@
 | 350 | 262 | Min |
 | 351 | 262 | Taren Cowan |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Ebony Deloach Bryant |
-| 354 | 260 | Denise Rickman |
+| 353 | 260 | Denise Rickman |
+| 354 | 260 | Ebony Deloach Bryant |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
 | 356 | 258 | Mr. Street Stack |
 | 357 | 258 | Cheery Matchzone |
@@ -529,9 +529,9 @@
 | 521 | 171 | William Hunt |
 | 522 | 170 | BTA |
 | 523 | 170 | Kenya Felix |
-| 524 | 170 | Sherisse Bigelow-Staples |
+| 524 | 170 | Bee |
 | 525 | 170 | Dedra Steward |
-| 526 | 170 | Bee |
+| 526 | 170 | Sherisse Bigelow-Staples |
 | 527 | 169 | Eddie Perez |
 | 528 | 168 | Phil J. Grombliniak |
 | 529 | 168 | Nicol Craven |

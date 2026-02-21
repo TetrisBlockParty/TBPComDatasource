@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Jenny Hrndz |
-| 125 | 195 | Nicha Hooker |
+| 124 | 195 | Nicha Hooker |
+| 125 | 195 | Jenny Hrndz |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -202,8 +202,8 @@
 | 194 | 128 | Jen Lewis |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
-| 197 | 125 | Felicia Doxey |
-| 198 | 125 | Shimika Enay Wallace |
+| 197 | 125 | Shimika Enay Wallace |
+| 198 | 125 | Felicia Doxey |
 | 199 | 124 | Cesar Barraza |
 | 200 | 123 | Marci Mize Fandrich |
 | 201 | 123 | Sarajane Lokan |

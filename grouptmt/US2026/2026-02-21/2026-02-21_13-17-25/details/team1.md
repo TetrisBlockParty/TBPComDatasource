@@ -27,8 +27,8 @@
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
 | 21 | 513 | comrade fish |
-| 22 | 511 | Jen Sartain |
-| 23 | 511 | Amanda Summey Schoemer |
+| 22 | 511 | Amanda Summey Schoemer |
+| 23 | 511 | Jen Sartain |
 | 24 | 510 | Colena Davenport |
 | 25 | 502 | Lawrence Belanger |
 | 26 | 490 | Jorge Andrade |
@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 325 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -116,8 +116,8 @@
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 140 | Miguel Teixeira |
-| 111 | 138 | Cranky Pattern |
-| 112 | 138 | Gary Gobin |
+| 111 | 138 | Gary Gobin |
+| 112 | 138 | Cranky Pattern |
 | 113 | 137 | Nadine Velardo |
 | 114 | 134 | Trina Gee |
 | 115 | 133 | Brandi Huntington |
@@ -142,8 +142,8 @@
 | 134 | 116 | Evie Khalil |
 | 135 | 115 | Mrs.Patrica |
 | 136 | 115 | Chuck Gannon |
-| 137 | 114 | Giddy Cascade |
-| 138 | 114 | Colleen Wise |
+| 137 | 114 | Colleen Wise |
+| 138 | 114 | Giddy Cascade |
 | 139 | 113 | Desiree Deschaine Havee |
 | 140 | 112 | Chris65 |
 | 141 | 112 | Flashy Rotator |
@@ -153,7 +153,7 @@
 | 145 | 111 | Jessica Russell |
 | 146 | 111 | Agustin Duarte Orozco |
 | 147 | 110 | Garcia Bailey |
-| 148 | 108 | Luciano Moreira |
+| 148 | 108 | Dizzy Party |
 | 149 | 108 | Tavia |
 | 150 | 108 | Luciano Moreira |
 | 151 | 107 | LD1 |
@@ -164,8 +164,8 @@
 | 156 | 105 | Ty Brown |
 | 157 | 104 | Charla Pross-Fugleberg |
 | 158 | 104 | Bindi |
-| 159 | 103 | Chantelle Ceno |
-| 160 | 103 | Angela Fairbank |
+| 159 | 103 | Angela Fairbank |
+| 160 | 103 | Chantelle Ceno |
 | 161 | 102 | Jennifer ManWarren |
 | 162 | 101 | Jessie |
 | 163 | 101 | Loony Fitzone |
