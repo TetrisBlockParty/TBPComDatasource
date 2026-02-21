@@ -157,8 +157,8 @@
 | 149 | 110 | Stella |
 | 150 | 110 | Tiff Vs Tiffany |
 | 151 | 109 | Brian Battjes |
-| 152 | 109 | Fredd Thomas |
-| 153 | 109 | Diana Ibarra |
+| 152 | 109 | Diana Ibarra |
+| 153 | 109 | Fredd Thomas |
 | 154 | 108 | Rachel Napper |
 | 155 | 108 | LaTanya GeminiondaRise Johnson |
 | 156 | 107 | Bryan Byrd |

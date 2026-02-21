@@ -76,8 +76,8 @@
 | 68 | 129 | John Brunetti |
 | 69 | 125 | Lauren Scott |
 | 70 | 123 | Nugget |
-| 71 | 122 | Sherri |
-| 72 | 122 | Shelly Chandler |
+| 71 | 122 | Shelly Chandler |
+| 72 | 122 | Sherri |
 | 73 | 121 | Smiley Tiltbuilder |
 | 74 | 120 | Joshua Guess |
 | 75 | 119 | Holly Jolly |

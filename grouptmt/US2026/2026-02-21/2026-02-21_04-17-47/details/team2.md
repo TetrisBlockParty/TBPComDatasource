@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3035 | Cassie Donica |
@@ -151,8 +151,8 @@
 | 143 | 385 | Sam |
 | 144 | 380 | Joshua Mandel |
 | 145 | 379 | Chris Wanner |
-| 146 | 377 | Roy Salyer |
-| 147 | 377 | Liberty |
+| 146 | 377 | Liberty |
+| 147 | 377 | Roy Salyer |
 | 148 | 374 | Calandra Shaya Robinson |
 | 149 | 365 | April Dawn Gussler |
 | 150 | 364 | Shinette Dobson |
@@ -167,8 +167,8 @@
 | 159 | 348 | Cherica Taylor |
 | 160 | 345 | Alyssaaelena |
 | 161 | 345 | Brenda Messer |
-| 162 | 345 | Rhianna DiLorenzo |
-| 163 | 345 | Wuntayk |
+| 162 | 345 | Wuntayk |
+| 163 | 345 | Rhianna DiLorenzo |
 | 164 | 344 | Christina Lewis-Vickers |
 | 165 | 344 | Julie Kresal |
 | 166 | 342 | Tracy Wise |
@@ -300,16 +300,16 @@
 | 292 | 202 | Christina Ashley |
 | 293 | 200 | Cheeky Brickmatch |
 | 294 | 200 | Sarah Ridenour |
-| 295 | 199 | Jessica Sutter |
-| 296 | 199 | Jenny Castro |
+| 295 | 199 | Jenny Castro |
+| 296 | 199 | Jessica Sutter |
 | 297 | 198 | Andea Beck |
 | 298 | 198 | Peppy Snapfall |
 | 299 | 198 | Amber Brion |
 | 300 | 198 | Alyssa Dean |
 | 301 | 197 | Smashanator |
 | 302 | 196 | Besma Ao |
-| 303 | 196 | Alexandra Reese |
-| 304 | 196 | Cass Shirley |
+| 303 | 196 | Cass Shirley |
+| 304 | 196 | Alexandra Reese |
 | 305 | 194 | Hoppy Brickmatch |
 | 306 | 194 | Mike Aprilliano |
 | 307 | 194 | Kimberly Ann |
@@ -360,14 +360,14 @@
 | 352 | 168 | Kati Russeau |
 | 353 | 168 | Robin |
 | 354 | 167 | Sabrena Yeisley |
-| 355 | 165 | Cathy Bitters |
-| 356 | 165 | Austin Wilson |
+| 355 | 165 | Austin Wilson |
+| 356 | 165 | Cathy Bitters |
 | 357 | 164 | Jamie Stevey |
 | 358 | 164 | Sara Pennington |
 | 359 | 163 | Albert McKnight |
 | 360 | 163 | HarleyJane |
-| 361 | 162 | Brenna Ann |
-| 362 | 162 | Elizabeth Pearson |
+| 361 | 162 | Elizabeth Pearson |
+| 362 | 162 | Brenna Ann |
 | 363 | 162 | LC Hamilton |
 | 364 | 160 | Cynthia Ward |
 | 365 | 160 | Rhonda Petro |
@@ -402,10 +402,10 @@
 | 394 | 152 | Alisa Lamb |
 | 395 | 151 | Jennifer Rajek |
 | 396 | 151 | John Quiring |
-| 397 | 151 | D'Aaron Black |
-| 398 | 151 | Marcie McLain Dodd |
-| 399 | 150 | Jodi Mitnick |
-| 400 | 150 | Brandon McDonald |
+| 397 | 151 | Marcie McLain Dodd |
+| 398 | 151 | D'Aaron Black |
+| 399 | 150 | Brandon McDonald |
+| 400 | 150 | Jodi Mitnick |
 | 401 | 150 | Hong Tang |
 | 402 | 149 | JacJac |
 | 403 | 149 | Boldy Cascadepiece |
