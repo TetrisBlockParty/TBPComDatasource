@@ -148,8 +148,8 @@
 | 140 | 186 | Jennifer Olewnik Soborowski |
 | 141 | 186 | Margo Wagner |
 | 142 | 185 | Basment Living |
-| 143 | 180 | Michael |
-| 144 | 180 | BigWeenie69 |
+| 143 | 180 | BigWeenie69 |
+| 144 | 180 | Michael |
 | 145 | 180 | Erez Yosef |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Chad Atchley |
@@ -189,8 +189,8 @@
 | 181 | 147 | Davery Spencer Adair |
 | 182 | 145 | Agustin Duarte Orozco |
 | 183 | 144 | Miguel Teixeira |
-| 184 | 144 | Cranky Pattern |
-| 185 | 144 | Gary Gobin |
+| 184 | 144 | Gary Gobin |
+| 185 | 144 | Cranky Pattern |
 | 186 | 142 | Colleen Wise |
 | 187 | 141 | Blaire Bruckoff |
 | 188 | 141 | Dino |
@@ -201,10 +201,10 @@
 | 193 | 137 | Witty Builderfit |
 | 194 | 137 | Cody Gates |
 | 195 | 136 | Breanna Luna |
-| 196 | 135 | Giddy Cascade |
-| 197 | 135 | Aimee Horton |
-| 198 | 135 | Tipsy Riseclear |
-| 199 | 135 | Guest |
+| 196 | 135 | Aimee Horton |
+| 197 | 135 | Tipsy Riseclear |
+| 198 | 135 | Guest |
+| 199 | 135 | Giddy Cascade |
 | 200 | 134 | Brave Wrecker |
 | 201 | 133 | Fmp |
 | 202 | 133 | Kimberly Garcia |

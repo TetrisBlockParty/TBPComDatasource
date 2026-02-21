@@ -200,8 +200,8 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 664 | Brittany Clark |
 | 199 | 661 | Claire Noland |
@@ -464,10 +464,10 @@
 | 456 | 333 | Tra Barnum |
 | 457 | 332 | Elisheva Mizrachi |
 | 458 | 331 | Kia Humphery |
-| 459 | 330 | Lucy Marshall |
-| 460 | 330 | CC |
-| 461 | 329 | Chummy Blockbuilder |
-| 462 | 329 | Jroc |
+| 459 | 330 | CC |
+| 460 | 330 | Lucy Marshall |
+| 461 | 329 | Jroc |
+| 462 | 329 | Chummy Blockbuilder |
 | 463 | 328 | Lewis Sturgeon |
 | 464 | 328 | bru |
 | 465 | 328 | Jane Crew |

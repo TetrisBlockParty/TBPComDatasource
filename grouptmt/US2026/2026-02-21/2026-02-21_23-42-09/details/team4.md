@@ -73,8 +73,8 @@
 | 65 | 391 | Ramel Rhodes |
 | 66 | 390 | Carlton Unfiltered |
 | 67 | 388 | YoMomma |
-| 68 | 376 | Marie-Pier Desjardins |
-| 69 | 376 | quicksand420 |
+| 68 | 376 | quicksand420 |
+| 69 | 376 | Marie-Pier Desjardins |
 | 70 | 373 | Joseph Guthrie |
 | 71 | 370 | Leslie Thomas |
 | 72 | 369 | Nope Young |
@@ -98,8 +98,8 @@
 | 90 | 281 | Leslie Nicole |
 | 91 | 277 | KJ Pool |
 | 92 | 274 | Desi Desporte |
-| 93 | 273 | Carrie Brian |
-| 94 | 273 | shark tato |
+| 93 | 273 | shark tato |
+| 94 | 273 | Carrie Brian |
 | 95 | 264 | Epic Curvetile |
 | 96 | 264 | Girl |
 | 97 | 260 | Amy Suckarieh |
@@ -147,8 +147,8 @@
 | 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Andria Lynn |
-| 142 | 181 | Klo |
-| 143 | 181 | Carter Jones |
+| 142 | 181 | Carter Jones |
+| 143 | 181 | Klo |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
 | 146 | 176 | Zethra Prenisha Rahming |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | 030Synner |
-| 153 | 164 | ThaEviLJeNiuZ |
+| 152 | 164 | ThaEviLJeNiuZ |
+| 153 | 164 | 030Synner |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
@@ -169,8 +169,8 @@
 | 161 | 151 | Bethany Ison |
 | 162 | 149 | Shainne Brewer |
 | 163 | 148 | Mr. Party |
-| 164 | 148 | Janita Parrish |
-| 165 | 148 | Brittany Marsh |
+| 164 | 148 | Brittany Marsh |
+| 165 | 148 | Janita Parrish |
 | 166 | 147 | B Renee Desjardin |
 | 167 | 147 | Jay28 |
 | 168 | 142 | Zippy Gridlock |

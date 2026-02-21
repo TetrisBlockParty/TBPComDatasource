@@ -78,8 +78,8 @@
 | 70 | 566 | Dan Rob |
 | 71 | 565 | Dolores Falco |
 | 72 | 561 | Rachael McClain Owens |
-| 73 | 536 | Joey Banks |
-| 74 | 536 | Giddy Drop |
+| 73 | 536 | Giddy Drop |
+| 74 | 536 | Joey Banks |
 | 75 | 533 | Sarah Fehring |
 | 76 | 530 | Tiff Vs Tiffany |
 | 77 | 526 | Cynthia Castros-Hampton |
@@ -111,13 +111,13 @@
 | 103 | 402 | Stephanie Simpson |
 | 104 | 400 | Luciana Braganca Vieira |
 | 105 | 397 | Mcathen |
-| 106 | 394 | joclisa |
-| 107 | 394 | Annie Déè |
+| 106 | 394 | Annie Déè |
+| 107 | 394 | joclisa |
 | 108 | 392 | Michelle |
 | 109 | 391 | Calista Jo Dickson |
 | 110 | 390 | Hasty Cascadefit |
-| 111 | 389 | Jessica Bechler |
-| 112 | 389 | FuzzyNavel |
+| 111 | 389 | FuzzyNavel |
+| 112 | 389 | Jessica Bechler |
 | 113 | 386 | Katie Knaus |
 | 114 | 384 | Shannon Matthew Byers |
 | 115 | 378 | Makelini Mausia |
@@ -171,8 +171,8 @@
 | 163 | 254 | Duane Bright |
 | 164 | 252 | Nicole Flippo |
 | 165 | 249 | Santeria Trece Candles |
-| 166 | 245 | Latoya Mayne |
-| 167 | 245 | Annie Marie |
+| 166 | 245 | Annie Marie |
+| 167 | 245 | Latoya Mayne |
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
@@ -302,7 +302,7 @@
 | 294 | 142 | Gray Hicks |
 | 295 | 141 | Joy Petroski |
 | 296 | 139 | Terry Jo Jones |
-| 297 | 138 | Melissa Orth Hunter |
+| 297 | 138 | Boldy Corner |
 | 298 | 138 | Skinny Baldez |
 | 299 | 138 | Melissa Orth Hunter |
 | 300 | 138 | Pam Holt Powell |
