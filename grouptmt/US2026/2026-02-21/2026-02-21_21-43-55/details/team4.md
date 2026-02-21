@@ -96,15 +96,15 @@
 | 88 | 254 | Holly Jolly |
 | 89 | 238 | Casey Jeffcoat |
 | 90 | 237 | Lori Walker |
-| 91 | 230 | Autum Leigh |
-| 92 | 230 | Lucas J Sutton |
+| 91 | 230 | Lucas J Sutton |
+| 92 | 230 | Autum Leigh |
 | 93 | 228 | Brittney Orengo |
 | 94 | 224 | H.R. Block |
 | 95 | 223 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -156,9 +156,9 @@
 | 148 | 149 | Roger Coulter |
 | 149 | 148 | Brittany Marsh |
 | 150 | 148 | Janita Parrish |
-| 151 | 147 | Shainne Brewer |
+| 151 | 147 | Jay28 |
 | 152 | 147 | Chair |
-| 153 | 147 | Jay28 |
+| 153 | 147 | Shainne Brewer |
 | 154 | 145 | Daria Rycewicz |
 | 155 | 144 | Mr. Party |
 | 156 | 141 | Marcus Todd |
@@ -192,8 +192,8 @@
 | 184 | 128 | April Rondinone |
 | 185 | 126 | Nerdy Twisterfit |
 | 186 | 125 | Judy Cox |
-| 187 | 125 | Duck |
-| 188 | 125 | Heather Tushner |
+| 187 | 125 | Heather Tushner |
+| 188 | 125 | Duck |
 | 189 | 124 | Allen Lloyd |
 | 190 | 124 | SammieJo Guy |
 | 191 | 123 | Austin Owens |
@@ -238,7 +238,7 @@
 | 230 | 103 | Berklie Apedaile |
 | 231 | 103 | Kate |
 | 232 | 103 | rebel4lyfe |
-| 233 | 102 | Christina O'Dell-Ishau |
+| 233 | 102 | Autumn Kumzi |
 | 234 | 102 | Cheery Risebuilder |
 | 235 | 102 | Christina O'Dell-Ishau |
 | 236 | 102 | Jumpy Zonepiece |
@@ -266,10 +266,10 @@
 | 258 | 96 | Sammy Noguera |
 | 259 | 96 | Marcus TheeyoungWoe Gilmore |
 | 260 | 96 | Jessica Miller |
-| 261 | 95 | Tina Martinez |
-| 262 | 95 | Meagan Nicole |
-| 263 | 95 | Patron Anderson |
-| 264 | 95 | LS |
+| 261 | 95 | Meagan Nicole |
+| 262 | 95 | Tina Martinez |
+| 263 | 95 | LS |
+| 264 | 95 | Patron Anderson |
 | 265 | 94 | Christina Black |
 | 266 | 94 | DonMega |
 | 267 | 94 | Madison Sweere |
@@ -320,7 +320,7 @@
 | 312 | 79 | Jason Allen |
 | 313 | 79 | Silly Zonebuilder |
 | 314 | 78 | Sallie Sanborn |
-| 315 | 78 | Steph Marie |
+| 315 | 78 | Brandon Crabbs |
 | 316 | 78 | Kristina Black |
 | 317 | 78 | Adawna Swires |
 | 318 | 78 | Steph Marie |

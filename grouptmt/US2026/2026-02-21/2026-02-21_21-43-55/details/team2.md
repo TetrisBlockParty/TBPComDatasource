@@ -313,8 +313,8 @@
 | 305 | 436 | Melissa Kay Gibson |
 | 306 | 435 | Kimberly Randesi |
 | 307 | 433 | Victor Obiakarije |
-| 308 | 428 | Crystie Hicks |
-| 309 | 428 | Rhonda Milstead |
+| 308 | 428 | Rhonda Milstead |
+| 309 | 428 | Crystie Hicks |
 | 310 | 427 | Destiny Cozier |
 | 311 | 427 | Amanda Ferrell |
 | 312 | 425 | Skyler Morgan |
@@ -423,11 +423,11 @@
 | 415 | 338 | Shorty |
 | 416 | 337 | Sassy Pattern |
 | 417 | 335 | Brooke Leigh Strube |
-| 418 | 334 | Peppy Snapfall |
-| 419 | 334 | Brittney Jean |
-| 420 | 334 | Regina Young |
-| 421 | 333 | LordZophar |
-| 422 | 333 | Tra Barnum |
+| 418 | 334 | Regina Young |
+| 419 | 334 | Peppy Snapfall |
+| 420 | 334 | Brittney Jean |
+| 421 | 333 | Tra Barnum |
+| 422 | 333 | LordZophar |
 | 423 | 332 | Nicole Cannon |
 | 424 | 331 | Kia Humphery |
 | 425 | 330 | Lucy Marshall |
@@ -488,8 +488,8 @@
 | 480 | 301 | Funky Caster |
 | 481 | 299 | Megan Phillips |
 | 482 | 299 | Diallo Sparkman |
-| 483 | 298 | Snappy Shatterfit |
-| 484 | 298 | RetroLemur |
+| 483 | 298 | RetroLemur |
+| 484 | 298 | Snappy Shatterfit |
 | 485 | 297 | Peachy Blockbuilder |
 | 486 | 296 | Jennifer Darby |
 | 487 | 296 | Amber Gray |
@@ -523,15 +523,15 @@
 | 515 | 277 | Anthony Mignacca |
 | 516 | 276 | Patrick Bartlett |
 | 517 | 276 | Loony Basepiece |
-| 518 | 276 | Irene Jones |
-| 519 | 276 | Vonceial Boone |
+| 518 | 276 | Vonceial Boone |
+| 519 | 276 | Irene Jones |
 | 520 | 276 | Lindsey Leigh |
 | 521 | 275 | Dapper Dasher |
 | 522 | 274 | Jamie Stevey |
 | 523 | 274 | Michelle Sager |
 | 524 | 273 | Jenna Nance |
-| 525 | 273 | Britt Stunkel |
-| 526 | 273 | Luna |
+| 525 | 273 | Luna |
+| 526 | 273 | Britt Stunkel |
 | 527 | 271 | Toni Lynn |
 | 528 | 271 | Ann Marie Davis |
 | 529 | 270 | Kathryn Townsley |
