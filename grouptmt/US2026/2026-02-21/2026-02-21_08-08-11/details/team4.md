@@ -105,8 +105,8 @@
 | 97 | 131 | Zany Twisterfit |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | Landon Keith Graffeo |
-| 101 | 129 | John Brunetti |
+| 100 | 129 | John Brunetti |
+| 101 | 129 | Landon Keith Graffeo |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Cherrish Duren |
 | 104 | 123 | Nugget |
@@ -148,8 +148,8 @@
 | 140 | 101 | Saulc1991 |
 | 141 | 100 | Alexandra Karavias |
 | 142 | 100 | Megan Cutshaw |
-| 143 | 98 | Duck |
-| 144 | 98 | Chaz |
+| 143 | 98 | Chaz |
+| 144 | 98 | Duck |
 | 145 | 98 | Allen Lloyd |
 | 146 | 97 | Brandi Durig |
 | 147 | 96 | Zappy Snaplink |

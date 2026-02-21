@@ -61,8 +61,8 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Ananda Mendez |
-| 57 | 201 | Anaid Sanchez |
+| 56 | 201 | Anaid Sanchez |
+| 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Billie Dawn Sparks |
 | 60 | 198 | Happy Snapbuild |
@@ -84,8 +84,8 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
@@ -103,8 +103,8 @@
 | 95 | 138 | Gary Gobin |
 | 96 | 137 | Nadine Velardo |
 | 97 | 134 | Trina Gee |
-| 98 | 133 | Bhelle Sumile |
-| 99 | 133 | Brandi Huntington |
+| 98 | 133 | Brandi Huntington |
+| 99 | 133 | Bhelle Sumile |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
 | 102 | 128 | lil mickey |
@@ -112,8 +112,8 @@
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
-| 107 | 123 | LaQuetta Faith Hines |
-| 108 | 123 | june october |
+| 107 | 123 | june october |
+| 108 | 123 | LaQuetta Faith Hines |
 | 109 | 121 | Bouncy Grid |
 | 110 | 119 | April Carroll |
 | 111 | 119 | Tater |

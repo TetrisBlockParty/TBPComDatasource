@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | CeceGeGe |
-| 81 | 309 | Rich LeBlanc |
+| 80 | 309 | Rich LeBlanc |
+| 81 | 309 | CeceGeGe |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -173,8 +173,8 @@
 | 165 | 126 | Joy Petroski |
 | 166 | 126 | Dan Rob |
 | 167 | 126 | Bryan Byrd |
-| 168 | 125 | Felicia Doxey |
-| 169 | 125 | Shimika Enay Wallace |
+| 168 | 125 | Shimika Enay Wallace |
+| 169 | 125 | Felicia Doxey |
 | 170 | 124 | Cesar Barraza |
 | 171 | 123 | Kristie McFarland |
 | 172 | 123 | Terry Jo Jones |
@@ -250,8 +250,8 @@
 | 242 | 94 | Carrie Huskey |
 | 243 | 93 | Tiffany Ford |
 | 244 | 92 | Trice Thomas |
-| 245 | 92 | Ava Petito |
-| 246 | 92 | Jennifer Caputo |
+| 245 | 92 | Jennifer Caputo |
+| 246 | 92 | Ava Petito |
 | 247 | 91 | Martin Bernier |
 | 248 | 90 | Rebel124 |
 | 249 | 90 | Nichole Greene |
