@@ -28,8 +28,8 @@
 | 20 | 625 | GreenJeepGirl |
 | 21 | 620 | Kimyatta Cavin |
 | 22 | 608 | Denny Shives |
-| 23 | 590 | Dee Kay |
-| 24 | 590 | Valerie Roberts |
+| 23 | 590 | Valerie Roberts |
+| 24 | 590 | Dee Kay |
 | 25 | 589 | Chilly Line |
 | 26 | 541 | Rebecca Moulton Pinciaro |
 | 27 | 528 | LisaJo Picken Buchanan |
@@ -156,14 +156,14 @@
 | 148 | 128 | Stephme310 |
 | 149 | 128 | Rio Rocha |
 | 150 | 127 | Dreamy Snapgrid |
-| 151 | 126 | Dihcheese444 |
-| 152 | 126 | TinyLegoRose |
+| 151 | 126 | TinyLegoRose |
+| 152 | 126 | Dihcheese444 |
 | 153 | 125 | AyeKay |
 | 154 | 124 | Allen Lloyd |
 | 155 | 123 | Cherrish Duren |
-| 156 | 122 | 🥔🥔 Spudz |
-| 157 | 122 | Carlos Ramirez |
-| 158 | 122 | Sherri |
+| 156 | 122 | Carlos Ramirez |
+| 157 | 122 | Sherri |
+| 158 | 122 | 🥔🥔 Spudz |
 | 159 | 121 | Smiley Tiltbuilder |
 | 160 | 121 | Megan Cutshaw |
 | 161 | 120 | Joshua Guess |

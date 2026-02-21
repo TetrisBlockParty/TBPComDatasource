@@ -66,8 +66,8 @@
 | 58 | 287 | Hyper |
 | 59 | 281 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Sweet Baker |
-| 62 | 274 | Theo Pinnow |
+| 61 | 274 | Theo Pinnow |
+| 62 | 274 | Sweet Baker |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 263 | Bhelle Sumile |
