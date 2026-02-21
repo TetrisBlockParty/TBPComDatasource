@@ -180,8 +180,8 @@
 | 172 | 223 | Jeana Gilbert |
 | 173 | 222 | Jimmie Clemons |
 | 174 | 222 | Hoppy Buildout |
-| 175 | 219 | Shunta Jacobs |
-| 176 | 219 | Rebecca Bailey |
+| 175 | 219 | Rebecca Bailey |
+| 176 | 219 | Shunta Jacobs |
 | 177 | 218 | LaNette Morgan |
 | 178 | 217 | Jess Bissett |
 | 179 | 214 | Jenny Hrndz |

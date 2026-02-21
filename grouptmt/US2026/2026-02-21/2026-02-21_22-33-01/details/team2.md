@@ -471,11 +471,11 @@
 | 463 | 316 | Gloria Ininahazwe |
 | 464 | 315 | Ryan Meilleur |
 | 465 | 314 | James Zaragoza |
-| 466 | 314 | Amanda West |
-| 467 | 314 | Party d |
-| 468 | 312 | Michelle Pike |
+| 466 | 314 | Party d |
+| 467 | 314 | Amanda West |
+| 468 | 312 | Justin Hines |
 | 469 | 312 | Andrea Maher |
-| 470 | 312 | Justin Hines |
+| 470 | 312 | Michelle Pike |
 | 471 | 310 | Cheeky Brickmatch |
 | 472 | 310 | Sharon Mills |
 | 473 | 309 | Autumn Schaeffer |

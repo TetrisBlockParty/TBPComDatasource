@@ -140,11 +140,11 @@
 | 132 | 187 | Snippy Wipebuilder |
 | 133 | 186 | Jennifer Olewnik Soborowski |
 | 134 | 182 | Spunky Piecebuilder |
-| 135 | 180 | BigWeenie69 |
-| 136 | 180 | Erez Yosef |
+| 135 | 180 | Erez Yosef |
+| 136 | 180 | BigWeenie69 |
 | 137 | 179 | Danielle Little-Daugherty |
-| 138 | 178 | Chad Atchley |
-| 139 | 178 | Michael |
+| 138 | 178 | Michael |
+| 139 | 178 | Chad Atchley |
 | 140 | 177 | ParisandCory Champagne |
 | 141 | 176 | Basment Living |
 | 142 | 175 | John Barron |
@@ -154,9 +154,9 @@
 | 146 | 170 | Cartier |
 | 147 | 169 | Abbey Crespo |
 | 148 | 168 | Standia Civil |
-| 149 | 166 | Katie Daniels |
-| 150 | 166 | Tyler Werts |
-| 151 | 166 | Rico Rico |
+| 149 | 166 | Tyler Werts |
+| 150 | 166 | Rico Rico |
+| 151 | 166 | Katie Daniels |
 | 152 | 165 | Nadine Velardo |
 | 153 | 163 | Tyler Whitley |
 | 154 | 163 | Tanya Carpenter-Reynolds |
@@ -260,7 +260,7 @@
 | 252 | 103 | Strig |
 | 253 | 102 | Meechie |
 | 254 | 102 | Barrbaric |
-| 255 | 101 | Loony Fitzone |
+| 255 | 101 | Owicked1 |
 | 256 | 101 | Mizzledagod |
 | 257 | 101 | Loony Fitzone |
 | 258 | 100 | Plucky Fallzone |
@@ -432,8 +432,8 @@
 | 424 | 63 | Lush Zoney |
 | 425 | 62 | Angela Spann |
 | 426 | 62 | Kristen Rhoads |
-| 427 | 62 | Angela Spann |
-| 428 | 62 | Angela Martin Hardy |
+| 427 | 62 | Angela Martin Hardy |
+| 428 | 62 | Wanda Honey |
 | 429 | 62 | Constance Risner |
 | 430 | 61 | Christine Sheridan |
 | 431 | 61 | Michelle |

@@ -185,8 +185,8 @@
 | 177 | 132 | Degenerate |
 | 178 | 131 | Michelle Morris |
 | 179 | 131 | TinyLegoRose |
-| 180 | 130 | Carlos Ramirez |
-| 181 | 130 | Shukee Lo |
+| 180 | 130 | Shukee Lo |
+| 181 | 130 | Carlos Ramirez |
 | 182 | 129 | Dreamy Snapgrid |
 | 183 | 129 | Crystal Nicolette Moore |
 | 184 | 129 | Jen Caldwell |
@@ -280,13 +280,13 @@
 | 272 | 94 | Madison Sweere |
 | 273 | 94 | Christina Black |
 | 274 | 93 | No Strings Attached Ra |
-| 275 | 92 | Zippy Gridlock |
-| 276 | 92 | TRCuse |
+| 275 | 92 | TRCuse |
+| 276 | 92 | Zippy Gridlock |
 | 277 | 91 | wombat |
 | 278 | 91 | Sunny Filler |
 | 279 | 90 | Hyper Builder |
-| 280 | 90 | Carol Ricks Raymond |
-| 281 | 90 | Chirpy Slammer |
+| 280 | 90 | Chirpy Slammer |
+| 281 | 90 | Carol Ricks Raymond |
 | 282 | 90 | Thomas Hettenhaus |
 | 283 | 89 | bloat princess |
 | 284 | 89 | Jonathan Mahfood |
@@ -306,7 +306,7 @@
 | 298 | 85 | conceptCollector |
 | 299 | 84 | Jen Hallin |
 | 300 | 84 | Jennifer Renee |
-| 301 | 84 | Jen Hallin |
+| 301 | 84 | Ruben Wheeler |
 | 302 | 84 | mini |
 | 303 | 83 | Lynn Marie |
 | 304 | 83 | Abigail Murphy |
@@ -458,8 +458,8 @@
 | 450 | 58 | Paul Abono |
 | 451 | 58 | Samantha Kimes |
 | 452 | 58 | Elie Pean |
-| 453 | 57 | David V. Bowers |
-| 454 | 57 | Jobadia Steelerton |
+| 453 | 57 | Jen May |
+| 454 | 57 | David V. Bowers |
 | 455 | 57 | Badatvs |
 | 456 | 57 | Jackie Clark |
 | 457 | 57 | Jobadia Steelerton |
