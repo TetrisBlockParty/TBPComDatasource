@@ -291,8 +291,8 @@
 | 283 | 442 | Daphne Jordan |
 | 284 | 442 | Joshua Mandel |
 | 285 | 440 | Liberty |
-| 286 | 439 | Alisa Lamb |
-| 287 | 439 | Joseph Musick |
+| 286 | 439 | Joseph Musick |
+| 287 | 439 | Alisa Lamb |
 | 288 | 439 | Nashu |
 | 289 | 437 | Arwa Fatimah |
 | 290 | 436 | Melissa Kay Gibson |
@@ -320,8 +320,8 @@
 | 312 | 409 | Sparkles |
 | 313 | 409 | Julay |
 | 314 | 406 | Erin StFrancis |
-| 315 | 405 | Sarah Massey |
-| 316 | 405 | Christy Krissie |
+| 315 | 405 | Christy Krissie |
+| 316 | 405 | Sarah Massey |
 | 317 | 402 | Brandy Andre |
 | 318 | 401 | Taylor Flowers |
 | 319 | 400 | Tammy Allen |
@@ -621,8 +621,8 @@
 | 613 | 218 | Shylee Tilman |
 | 614 | 218 | Twisty Tetriblast |
 | 615 | 217 | Natasha Edmonds |
-| 616 | 217 | Layna Lyons |
-| 617 | 217 | Erika Meaux |
+| 616 | 217 | Erika Meaux |
+| 617 | 217 | Layna Lyons |
 | 618 | 217 | Dad |
 | 619 | 215 | Mary Boss |
 | 620 | 215 | Binyah-Binyah |

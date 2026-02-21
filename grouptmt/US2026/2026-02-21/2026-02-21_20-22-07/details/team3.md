@@ -312,8 +312,8 @@
 | 304 | 116 | Bleu Sun Beams |
 | 305 | 116 | Brittany |
 | 306 | 115 | Stella |
-| 307 | 114 | Amanda Neal |
-| 308 | 114 | Demetrious Shaw Sr. |
+| 307 | 114 | Demetrious Shaw Sr. |
+| 308 | 114 | Amanda Neal |
 | 309 | 114 | Elizabeth Renee |
 | 310 | 114 | LaTanya GeminiondaRise Johnson |
 | 311 | 113 | Brave Brickster |
@@ -322,15 +322,15 @@
 | 314 | 113 | Jason-Ashley Ludlow |
 | 315 | 113 | Romeo |
 | 316 | 111 | Stephanie Zahm |
-| 317 | 111 | Rainbow77375 |
-| 318 | 111 | Amber Groover Taylor |
-| 319 | 110 | Danielle Weikel |
-| 320 | 110 | Tye Stovall |
+| 317 | 111 | Amber Groover Taylor |
+| 318 | 111 | Rainbow77375 |
+| 319 | 110 | Tye Stovall |
+| 320 | 110 | Danielle Weikel |
 | 321 | 110 | Carol Cain Thurman |
 | 322 | 109 | Diana Ibarra |
 | 323 | 109 | mommablock |
-| 324 | 108 | Nichol Graham |
-| 325 | 108 | Hanna Kim |
+| 324 | 108 | Hanna Kim |
+| 325 | 108 | Nichol Graham |
 | 326 | 108 | Chummy Caster |
 | 327 | 108 | Boldy Blocker |
 | 328 | 107 | Ava Petito |
