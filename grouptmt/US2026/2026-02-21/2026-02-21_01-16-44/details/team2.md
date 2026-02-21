@@ -244,8 +244,8 @@
 | 236 | 176 | Jessica Kaye DeAguero |
 | 237 | 175 | Tina Blessed Cage |
 | 238 | 173 | Macy Williams |
-| 239 | 170 | Taryece Gause |
-| 240 | 170 | Darlene Bowman |
+| 239 | 170 | Darlene Bowman |
+| 240 | 170 | Taryece Gause |
 | 241 | 170 | Kenya Felix |
 | 242 | 169 | Lively Catcher |
 | 243 | 168 | Robin |
@@ -255,11 +255,11 @@
 | 247 | 163 | Dedra Steward |
 | 248 | 162 | Jennifer Malloy - Cardy |
 | 249 | 161 | Austin Wilson |
-| 250 | 160 | Nancy Pohlman |
+| 250 | 160 | Jessicah Myers |
 | 251 | 160 | Robin Kerby |
-| 252 | 160 | Jessicah Myers |
-| 253 | 160 | Rhonda Petro |
-| 254 | 160 | Cynthia Ward |
+| 252 | 160 | Nancy Pohlman |
+| 253 | 160 | Cynthia Ward |
+| 254 | 160 | Rhonda Petro |
 | 255 | 159 | Phil J. Grombliniak |
 | 256 | 159 | Peppy Zone |
 | 257 | 158 | Matthew Turner |

@@ -108,8 +108,8 @@
 | 100 | 111 | Joy Petroski |
 | 101 | 110 | Tiff Vs Tiffany |
 | 102 | 110 | Stella |
-| 103 | 108 | Grams |
-| 104 | 108 | Rachel Napper |
+| 103 | 108 | Rachel Napper |
+| 104 | 108 | Grams |
 | 105 | 107 | Bryan Byrd |
 | 106 | 105 | Hoppy Buildout |
 | 107 | 103 | Brian Battjes |

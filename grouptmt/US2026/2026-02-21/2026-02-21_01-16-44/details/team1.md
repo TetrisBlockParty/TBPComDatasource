@@ -68,8 +68,8 @@
 | 60 | 112 | Nicole Roseberry Weber |
 | 61 | 110 | Heidi Feurer |
 | 62 | 109 | Dandy Basegrid |
-| 63 | 108 | Susanna Guerry |
-| 64 | 108 | Tavia |
+| 63 | 108 | Tavia |
+| 64 | 108 | Susanna Guerry |
 | 65 | 105 | Barry Mac'Ockner |
 | 66 | 105 | BigWeenie69 |
 | 67 | 104 | Robert Beck |

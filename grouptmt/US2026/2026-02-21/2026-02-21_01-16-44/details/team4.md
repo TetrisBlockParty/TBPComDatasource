@@ -54,8 +54,8 @@
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
-| 49 | 116 | Serena Goodridge |
-| 50 | 116 | Sherri |
+| 49 | 116 | Sherri |
+| 50 | 116 | Serena Goodridge |
 | 51 | 116 | Jessica Bohlken |
 | 52 | 114 | Jessica Cagle |
 | 53 | 113 | Degenerate |
@@ -109,8 +109,8 @@
 | 101 | 65 | Angela Geist Jusinski |
 | 102 | 64 | rebel4lyfe |
 | 103 | 64 | Shukee Lo |
-| 104 | 64 | Damn Libra |
-| 105 | 64 | Marcus Todd |
+| 104 | 64 | Marcus Todd |
+| 105 | 64 | Damn Libra |
 | 106 | 63 | Lindsey Gonzalez |
 | 107 | 62 | Melvin Baird |
 | 108 | 61 | Jackson Karen |
@@ -136,8 +136,8 @@
 | 128 | 54 | Destiney Carter |
 | 129 | 54 | Jennifer Perkins |
 | 130 | 54 | mitch |
-| 131 | 53 | Zany Twisterfit |
-| 132 | 53 | Julian Garcia |
+| 131 | 53 | Julian Garcia |
+| 132 | 53 | Zany Twisterfit |
 | 133 | 52 | JPW |
 | 134 | 52 | Glitzy Crasher |
 | 135 | 52 | Allison Judith |
