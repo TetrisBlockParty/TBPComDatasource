@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Devin Lee |
-| 38 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Katrina Williams Balmir |
+| 38 | 1173 | Devin Lee |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1148 | Reese Nguyen |
@@ -147,8 +147,8 @@
 | 139 | 520 | Kimberly Schall |
 | 140 | 519 | Maria Escobar |
 | 141 | 517 | Debra Williams |
-| 142 | 515 | Kaylee McCafferty |
-| 143 | 515 | Real Ri |
+| 142 | 515 | Real Ri |
+| 143 | 515 | Kaylee McCafferty |
 | 144 | 513 | Butta |
 | 145 | 511 | Dizzy Zone |
 | 146 | 510 | Ashley House |
@@ -327,8 +327,8 @@
 | 319 | 256 | Tee Jaleesa |
 | 320 | 256 | CC |
 | 321 | 255 | Santana Miyagi |
-| 322 | 254 | Elizabeth Diraffaele |
-| 323 | 254 | Rose Fx |
+| 322 | 254 | Rose Fx |
+| 323 | 254 | Elizabeth Diraffaele |
 | 324 | 254 | Julie Hamilton |
 | 325 | 253 | Tansaria Couch-Butler |
 | 326 | 252 | Matt Johnson |
@@ -417,8 +417,8 @@
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |
-| 412 | 196 | Cass Shirley |
-| 413 | 196 | Alexandra Reese |
+| 412 | 196 | Alexandra Reese |
+| 413 | 196 | Cass Shirley |
 | 414 | 196 | Besma Ao |
 | 415 | 195 | Emily Lyric Converse |
 | 416 | 195 | Snappy Shatterfit |
@@ -534,9 +534,9 @@
 | 526 | 155 | Cris cris |
 | 527 | 154 | Lori Maring |
 | 528 | 154 | Bryan Werleman |
-| 529 | 154 | Tiffney Wroten |
-| 530 | 154 | Cini |
-| 531 | 154 | Lydia Greenman |
+| 529 | 154 | Lydia Greenman |
+| 530 | 154 | Tiffney Wroten |
+| 531 | 154 | Cini |
 | 532 | 153 | Poppy Gridder |
 | 533 | 153 | Luna |
 | 534 | 152 | Kristin King |
@@ -554,10 +554,10 @@
 | 546 | 150 | Renee Bowers |
 | 547 | 149 | Melissa Rebbe-Lehman |
 | 548 | 149 | Brianna Cerney |
-| 549 | 149 | Boldy Cascadepiece |
-| 550 | 149 | Leslie Porter |
-| 551 | 148 | AgileDragon |
-| 552 | 148 | Tyler C. Jung |
+| 549 | 149 | Leslie Porter |
+| 550 | 149 | Boldy Cascadepiece |
+| 551 | 148 | Tyler C. Jung |
+| 552 | 148 | AgileDragon |
 | 553 | 148 | Cleo Sims |
 | 554 | 147 | Jeremy Parodi |
 | 555 | 147 | Sassy Pivot |

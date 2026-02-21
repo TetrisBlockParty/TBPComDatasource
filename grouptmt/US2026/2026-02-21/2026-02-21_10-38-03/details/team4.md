@@ -86,8 +86,8 @@
 | 78 | 165 | Casey Grabner |
 | 79 | 165 | Courtney Cicoria |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Justin Hannigan |
-| 82 | 159 | Holly Jolly |
+| 81 | 159 | Holly Jolly |
+| 82 | 159 | Justin Hannigan |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -191,10 +191,10 @@
 | 183 | 85 | Mimi |
 | 184 | 85 | Lindsey Gonzalez |
 | 185 | 84 | Perky Piecegrid |
-| 186 | 83 | Holly |
-| 187 | 83 | Joseph Gray |
-| 188 | 83 | Abigail Murphy |
-| 189 | 83 | Avy Absol |
+| 186 | 83 | Joseph Gray |
+| 187 | 83 | Avy Absol |
+| 188 | 83 | Holly |
+| 189 | 83 | Abigail Murphy |
 | 190 | 82 | Jason Frehner |
 | 191 | 81 | Chair |
 | 192 | 81 | Jumpy Zonepiece |
