@@ -201,8 +201,8 @@
 | 193 | 380 | Calandra Shaya Robinson |
 | 194 | 380 | Joshua Mandel |
 | 195 | 378 | Cody Nishimura |
-| 196 | 377 | Liberty |
-| 197 | 377 | Roy Salyer |
+| 196 | 377 | Roy Salyer |
+| 197 | 377 | Liberty |
 | 198 | 364 | Shinette Dobson |
 | 199 | 363 | William Meussner |
 | 200 | 362 | AkaLefty |

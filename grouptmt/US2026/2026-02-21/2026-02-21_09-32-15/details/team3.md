@@ -46,8 +46,8 @@
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
 | 40 | 552 | Rachel Bowers |
-| 41 | 546 | Dolores Falco |
-| 42 | 546 | Snappy Glidepiece |
+| 41 | 546 | Snappy Glidepiece |
+| 42 | 546 | Dolores Falco |
 | 43 | 541 | MissTaylor |
 | 44 | 533 | Sarah Fehring |
 | 45 | 528 | Natasha Jones |
@@ -166,10 +166,10 @@
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |
-| 161 | 135 | Nicole Flippo |
-| 162 | 135 | Cheryl Hinch Tenbrook |
-| 163 | 134 | DanceLuvLaugh |
-| 164 | 134 | Emma |
+| 161 | 135 | Cheryl Hinch Tenbrook |
+| 162 | 135 | Nicole Flippo |
+| 163 | 134 | Emma |
+| 164 | 134 | DanceLuvLaugh |
 | 165 | 131 | Jl |
 | 166 | 129 | Kali Kelz Williams |
 | 167 | 129 | Stephanie Burtin |
