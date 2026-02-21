@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Nancy Green |
-| 18 | 281 | Kathi Snustad |
+| 17 | 281 | Kathi Snustad |
+| 18 | 281 | Nancy Green |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |

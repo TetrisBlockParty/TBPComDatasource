@@ -268,8 +268,8 @@
 | 260 | 157 | HarleyJane |
 | 261 | 157 | Jánine Riggs |
 | 262 | 157 | Julie Hamilton |
-| 263 | 156 | Nuggets |
-| 264 | 156 | Deanna Morton |
+| 263 | 156 | Deanna Morton |
+| 264 | 156 | Nuggets |
 | 265 | 156 | Ramone Armstrong |
 | 266 | 155 | Alexandra Weir |
 | 267 | 154 | Tiffney Wroten |
