@@ -153,8 +153,8 @@
 | 145 | 807 | Rebecca Doughman |
 | 146 | 807 | Khalil Lowe |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Danielle Johnson-Chandler |
-| 149 | 800 | Tacara Cummings |
+| 148 | 800 | Tacara Cummings |
+| 149 | 800 | Danielle Johnson-Chandler |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -200,8 +200,8 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Charvi' Carter |
-| 196 | 666 | Ashie Ann |
+| 195 | 666 | Ashie Ann |
+| 196 | 666 | Charvi' Carter |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 661 | Claire Noland |
 | 199 | 660 | Bussyiano Page |

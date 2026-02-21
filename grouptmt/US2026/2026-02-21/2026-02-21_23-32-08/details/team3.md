@@ -47,8 +47,8 @@
 | 39 | 998 | Liv Whetson |
 | 40 | 996 | Danielle Cutler |
 | 41 | 989 | Kay |
-| 42 | 928 | Snappy Fitzone |
-| 43 | 928 | Stephanie Rice |
+| 42 | 928 | Stephanie Rice |
+| 43 | 928 | Snappy Fitzone |
 | 44 | 915 | Fancy Slam |
 | 45 | 879 | Shonna Roberts |
 | 46 | 874 | Jessica Pineda-Lopez |
@@ -147,8 +147,8 @@
 | 139 | 300 | Sherika C. McDaniels |
 | 140 | 293 | Poppy Splitter |
 | 141 | 289 | Hoppy Buildout |
-| 142 | 286 | Jacqueline Rodriguez |
-| 143 | 286 | Marci Mize Fandrich |
+| 142 | 286 | Marci Mize Fandrich |
+| 143 | 286 | Jacqueline Rodriguez |
 | 144 | 283 | Joye Sims Binion |
 | 145 | 280 | Jennifer Petrie |
 | 146 | 278 | Rufus Lincoln |
@@ -181,8 +181,8 @@
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
-| 176 | 228 | Morgan Martinez |
-| 177 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 176 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 177 | 228 | Morgan Martinez |
 | 178 | 226 | Grego Daniel |
 | 179 | 224 | Nicole Myers |
 | 180 | 223 | Jeana Gilbert |
@@ -239,8 +239,8 @@
 | 231 | 174 | Marquita Sheard |
 | 232 | 173 | Betty Ivy |
 | 233 | 172 | Grams |
-| 234 | 169 | Emma |
-| 235 | 169 | Daryn Elliott |
+| 234 | 169 | Daryn Elliott |
+| 235 | 169 | Emma |
 | 236 | 169 | BŘŰŤİÇŨŚ |
 | 237 | 168 | MsBee |
 | 238 | 166 | Betty Rosas |

@@ -174,9 +174,9 @@
 | 166 | 147 | B Renee Desjardin |
 | 167 | 147 | Jay28 |
 | 168 | 142 | Zippy Gridlock |
-| 169 | 141 | ĥuf |
-| 170 | 141 | Kathy Allen |
-| 171 | 141 | Marcus Todd |
+| 169 | 141 | Marcus Todd |
+| 170 | 141 | ĥuf |
+| 171 | 141 | Kathy Allen |
 | 172 | 140 | John Brunetti |
 | 173 | 140 | Stephme310 |
 | 174 | 137 | PeaceOs |
@@ -185,8 +185,8 @@
 | 177 | 136 | Tanner Lund |
 | 178 | 136 | Chaz |
 | 179 | 135 | Victoria Faniel |
-| 180 | 134 | Chirpy Basepiece |
-| 181 | 134 | Kim Klutz Olson |
+| 180 | 134 | Kim Klutz Olson |
+| 181 | 134 | Chirpy Basepiece |
 | 182 | 133 | TinyLegoRose |
 | 183 | 133 | Angela Geist Jusinski |
 | 184 | 133 | Sam Bishop |
@@ -242,9 +242,9 @@
 | 234 | 111 | Lazy Blocker |
 | 235 | 111 | Rafael Valentin |
 | 236 | 110 | Zach Kerbs |
-| 237 | 109 | Jessica Miller |
-| 238 | 109 | LS |
-| 239 | 109 | Ak Jones |
+| 237 | 109 | LS |
+| 238 | 109 | Ak Jones |
+| 239 | 109 | Jessica Miller |
 | 240 | 109 | Frank Cook |
 | 241 | 108 | Rebecca Morris |
 | 242 | 108 | Ali Ian |

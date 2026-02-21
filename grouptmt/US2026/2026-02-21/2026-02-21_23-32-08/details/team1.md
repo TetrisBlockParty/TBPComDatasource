@@ -43,8 +43,8 @@
 | 35 | 587 | Marianne Louise West |
 | 36 | 585 | Jennifer Cates |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Drew Magnus |
-| 39 | 541 | Kristen Roles Robben |
+| 38 | 541 | Kristen Roles Robben |
+| 39 | 541 | Drew Magnus |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -148,9 +148,9 @@
 | 140 | 186 | Jennifer Olewnik Soborowski |
 | 141 | 186 | Margo Wagner |
 | 142 | 185 | Basment Living |
-| 143 | 180 | BigWeenie69 |
-| 144 | 180 | Michael |
-| 145 | 180 | Erez Yosef |
+| 143 | 180 | Erez Yosef |
+| 144 | 180 | BigWeenie69 |
+| 145 | 180 | Michael |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Shiny Gridmatch |
 | 148 | 178 | Chad Atchley |
@@ -210,8 +210,8 @@
 | 202 | 133 | Fmp |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
-| 205 | 130 | Gilbert Ortiz Jr. |
-| 206 | 130 | LD1 |
+| 205 | 130 | LD1 |
+| 206 | 130 | Gilbert Ortiz Jr. |
 | 207 | 129 | Larry Tilton |
 | 208 | 128 | lil mickey |
 | 209 | 126 | Tami Luce Martin |
