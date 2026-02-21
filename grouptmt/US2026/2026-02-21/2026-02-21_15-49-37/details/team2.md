@@ -243,9 +243,9 @@
 | 235 | 405 | Christy Krissie |
 | 236 | 405 | Sarah Massey |
 | 237 | 402 | Joshua Mandel |
-| 238 | 400 | Tammy Allen |
-| 239 | 400 | Crystie Hicks |
-| 240 | 400 | Rhonda Milstead |
+| 238 | 400 | Rhonda Milstead |
+| 239 | 400 | Tammy Allen |
+| 240 | 400 | Crystie Hicks |
 | 241 | 397 | Ashley Guernsey-Martin |
 | 242 | 397 | coleksquad |
 | 243 | 396 | Steven Marshaun |
@@ -351,8 +351,8 @@
 | 343 | 299 | Diallo Sparkman |
 | 344 | 296 | Jennifer Darby |
 | 345 | 296 | Amber Gray |
-| 346 | 296 | Heather Schelkopf |
-| 347 | 296 | Jennifer Casey-Kay |
+| 346 | 296 | Jennifer Casey-Kay |
+| 347 | 296 | Heather Schelkopf |
 | 348 | 295 | Melissa Kay Gibson |
 | 349 | 294 | Barbra Miller |
 | 350 | 294 | Frisky Riserbuilder |
@@ -361,8 +361,8 @@
 | 353 | 289 | Hyper Cluster |
 | 354 | 289 | Frisky Clearpiece |
 | 355 | 288 | Megan Phillips |
-| 356 | 285 | June E Hanson |
-| 357 | 285 | Mandi Douglas Hilt |
+| 356 | 285 | Mandi Douglas Hilt |
+| 357 | 285 | June E Hanson |
 | 358 | 284 | Autumn Schaeffer |
 | 359 | 283 | Byung Bae Park |
 | 360 | 282 | Shaun Church |
@@ -426,8 +426,8 @@
 | 418 | 251 | Ann Knutson Anderson |
 | 419 | 250 | Steve Man |
 | 420 | 250 | Danielle DeLozier Plesec |
-| 421 | 249 | Porsche' Nicole |
-| 422 | 249 | Nicky Jackson |
+| 421 | 249 | Nicky Jackson |
+| 422 | 249 | Porsche' Nicole |
 | 423 | 248 | Aimee Byrom |
 | 424 | 248 | Maddy Petersen |
 | 425 | 248 | Bubbly Snapfit |
@@ -455,8 +455,8 @@
 | 447 | 234 | Manny Trindade |
 | 448 | 234 | Jaybee Nguyen |
 | 449 | 233 | Nutty Matchline |
-| 450 | 233 | Jumpy Gridclear |
-| 451 | 233 | Daring Matchfit |
+| 450 | 233 | Daring Matchfit |
+| 451 | 233 | Jumpy Gridclear |
 | 452 | 232 | Aleasha M Brown |
 | 453 | 232 | Amber Brion |
 | 454 | 232 | Quirky Twistline |
@@ -472,10 +472,10 @@
 | 464 | 226 | Juliana Marques Do Nascimento Gordy |
 | 465 | 226 | Morgan Easter |
 | 466 | 225 | Breezy Tilt |
-| 467 | 224 | Besma Ao |
-| 468 | 224 | Alice Ball |
-| 469 | 223 | LegoCarpet |
-| 470 | 223 | Jess Morrison |
+| 467 | 224 | Alice Ball |
+| 468 | 224 | Besma Ao |
+| 469 | 223 | Jess Morrison |
+| 470 | 223 | LegoCarpet |
 | 471 | 223 | Kristi Biddinger |
 | 472 | 223 | Laura Wyatt |
 | 473 | 222 | Jason Garnatz |

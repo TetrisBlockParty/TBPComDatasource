@@ -88,8 +88,8 @@
 | 80 | 201 | Anaid Sanchez |
 | 81 | 201 | Ananda Mendez |
 | 82 | 200 | Giggly Builderline |
-| 83 | 198 | Happy Snapbuild |
-| 84 | 198 | Brandi Huntington |
+| 83 | 198 | Brandi Huntington |
+| 84 | 198 | Happy Snapbuild |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
@@ -103,9 +103,9 @@
 | 95 | 179 | Spunky Piecebuilder |
 | 96 | 178 | Danielle Little-Daugherty |
 | 97 | 178 | Chad Atchley |
-| 98 | 173 | Jennifer Olewnik Soborowski |
-| 99 | 173 | june october |
-| 100 | 173 | Frothy Pattern |
+| 98 | 173 | Frothy Pattern |
+| 99 | 173 | Jennifer Olewnik Soborowski |
+| 100 | 173 | june october |
 | 101 | 171 | David DeSantis |
 | 102 | 171 | Greg Premoe |
 | 103 | 169 | Abbey Crespo |
@@ -122,21 +122,21 @@
 | 114 | 153 | Shiny Gridmatch |
 | 115 | 152 | Jacqueline Unique |
 | 116 | 150 | Adele Rahman |
-| 117 | 149 | Arianna O'Brien |
-| 118 | 149 | Jennifer ManWarren |
+| 117 | 149 | Jennifer ManWarren |
+| 118 | 149 | Arianna O'Brien |
 | 119 | 148 | Shauntina Burke |
 | 120 | 146 | Irual Hctrab |
 | 121 | 145 | BigWeenie69 |
 | 122 | 144 | femmefatale |
 | 123 | 144 | Plucky Ziggy |
 | 124 | 143 | Sarah Marie |
-| 125 | 142 | Dandy Basegrid |
-| 126 | 142 | Colleen Wise |
+| 125 | 142 | Colleen Wise |
+| 126 | 142 | Dandy Basegrid |
 | 127 | 141 | Blaire Bruckoff |
 | 128 | 140 | Miguel Teixeira |
-| 129 | 138 | Cranky Pattern |
+| 129 | 138 | Gary Gobin |
 | 130 | 138 | Michael |
-| 131 | 138 | Gary Gobin |
+| 131 | 138 | Cranky Pattern |
 | 132 | 137 | Nadine Velardo |
 | 133 | 135 | Giddy Cascade |
 | 134 | 135 | Cody Slav |
@@ -165,15 +165,15 @@
 | 157 | 119 | Tater |
 | 158 | 116 | Jessica Russell |
 | 159 | 116 | Evie Khalil |
-| 160 | 115 | Mrs.Patrica |
-| 161 | 115 | Chuck Gannon |
+| 160 | 115 | Chuck Gannon |
+| 161 | 115 | Mrs.Patrica |
 | 162 | 113 | Desiree Deschaine Havee |
 | 163 | 112 | Nicole Roseberry Weber |
 | 164 | 112 | Flashy Rotator |
 | 165 | 112 | Chris65 |
-| 166 | 111 | Agustin Duarte Orozco |
+| 166 | 111 | Chirpy Smasher |
 | 167 | 111 | Jessi Sauer |
-| 168 | 111 | Chirpy Smasher |
+| 168 | 111 | Agustin Duarte Orozco |
 | 169 | 110 | Garcia Bailey |
 | 170 | 110 | Madison Wicks |
 | 171 | 109 | Nery Martinez |
@@ -272,7 +272,7 @@
 | 264 | 73 | Mark Smith |
 | 265 | 72 | Tipsy Strikerpiece |
 | 266 | 71 | Loneell Hyland |
-| 267 | 70 | Kenton Billings |
+| 267 | 70 | Jennifer Duttry |
 | 268 | 70 | Nerdy Linkblock |
 | 269 | 70 | Kenton Billings |
 | 270 | 70 | Timothy Danaher |

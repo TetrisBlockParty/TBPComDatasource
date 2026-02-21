@@ -134,8 +134,8 @@
 | 126 | 139 | Robin Watters |
 | 127 | 136 | Tanner Lund |
 | 128 | 135 | ĥuf |
-| 129 | 134 | Chirpy Basepiece |
-| 130 | 134 | Serena Goodridge |
+| 129 | 134 | Serena Goodridge |
+| 130 | 134 | Chirpy Basepiece |
 | 131 | 132 | Degenerate |
 | 132 | 132 | Melissa Priest Sellers |
 | 133 | 132 | Jessica Cagle |
@@ -147,8 +147,8 @@
 | 139 | 126 | TinyLegoRose |
 | 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
-| 142 | 123 | Cherrish Duren |
-| 143 | 123 | Angela Geist Jusinski |
+| 142 | 123 | Angela Geist Jusinski |
+| 143 | 123 | Cherrish Duren |
 | 144 | 123 | Chair |
 | 145 | 122 | Carlos Ramirez |
 | 146 | 122 | Sherri |
