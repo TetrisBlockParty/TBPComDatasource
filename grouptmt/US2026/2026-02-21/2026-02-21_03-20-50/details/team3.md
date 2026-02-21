@@ -163,9 +163,9 @@
 | 155 | 96 | D3NO |
 | 156 | 96 | Skinny Baldez |
 | 157 | 95 | Brooke Bauer |
-| 158 | 95 | Daring Builder |
-| 159 | 95 | Funky Jumper |
-| 160 | 95 | Demetrious Shaw Sr. |
+| 158 | 95 | Funky Jumper |
+| 159 | 95 | Demetrious Shaw Sr. |
+| 160 | 95 | Daring Builder |
 | 161 | 95 | Katie Knaus |
 | 162 | 94 | Carrie Huskey |
 | 163 | 94 | Hanna Kim |
@@ -255,8 +255,8 @@
 | 247 | 64 | Loony Slider |
 | 248 | 64 | Bleu Sun Beams |
 | 249 | 64 | Saucy Buildout |
-| 250 | 63 | Eileen Brady Thurber |
-| 251 | 63 | BugMansMom |
+| 250 | 63 | BugMansMom |
+| 251 | 63 | Eileen Brady Thurber |
 | 252 | 63 | Hasty Wipebuilder |
 | 253 | 62 | Mcathen |
 | 254 | 62 | Danielle Weikel |

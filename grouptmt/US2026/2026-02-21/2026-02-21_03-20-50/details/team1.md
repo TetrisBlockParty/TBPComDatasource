@@ -47,8 +47,8 @@
 | 39 | 194 | Sharon Reynolds |
 | 40 | 192 | Mandyy Rae |
 | 41 | 191 | Jazzy Framezone |
-| 42 | 190 | Sweetts |
-| 43 | 190 | Thorne Shumate |
+| 42 | 190 | Thorne Shumate |
+| 43 | 190 | Sweetts |
 | 44 | 189 | Happy Basegrid |
 | 45 | 185 | Karin Gillen |
 | 46 | 173 | Frothy Pattern |
@@ -61,8 +61,8 @@
 | 53 | 148 | Jessie Lynn |
 | 54 | 148 | Josie Kirt |
 | 55 | 147 | Veronica Eve |
-| 56 | 145 | BigWeenie69 |
-| 57 | 145 | Lachelle Dillon |
+| 56 | 145 | Lachelle Dillon |
+| 57 | 145 | BigWeenie69 |
 | 58 | 144 | Tanya Carpenter-Reynolds |
 | 59 | 144 | Tana |
 | 60 | 144 | Plucky Ziggy |

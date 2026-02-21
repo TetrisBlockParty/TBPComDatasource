@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Kimberly Love |
-| 23 | 300 | Johnathan Martinez |
+| 22 | 300 | Johnathan Martinez |
+| 23 | 300 | Kimberly Love |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 280 | Kimyatta Cavin |
@@ -49,8 +49,8 @@
 | 41 | 170 | Leah Kutz Zirbel |
 | 42 | 168 | Anthony Magaraci |
 | 43 | 153 | Jae Job |
-| 44 | 152 | Courtney Cicoria |
-| 45 | 152 | Denise Carlson |
+| 44 | 152 | Denise Carlson |
+| 45 | 152 | Courtney Cicoria |
 | 46 | 148 | Carter Jones |
 | 47 | 145 | Edward White |
 | 48 | 140 | Shannon Ferrari |
@@ -78,8 +78,8 @@
 | 70 | 112 | Austin Owens |
 | 71 | 111 | Gwendolyn Pitcairn |
 | 72 | 110 | Diana Houts |
-| 73 | 110 | John Brunetti |
-| 74 | 110 | H.R. Block |
+| 73 | 110 | H.R. Block |
+| 74 | 110 | John Brunetti |
 | 75 | 107 | Marcus Todd |
 | 76 | 103 | Sam Middleton |
 | 77 | 102 | Faja |

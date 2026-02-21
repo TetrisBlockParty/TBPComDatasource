@@ -143,16 +143,16 @@
 | 135 | 377 | Roy Salyer |
 | 136 | 374 | Calandra Shaya Robinson |
 | 137 | 365 | April Dawn Gussler |
-| 138 | 364 | Tammy Allen |
-| 139 | 364 | Shinette Dobson |
+| 138 | 364 | Shinette Dobson |
+| 139 | 364 | Tammy Allen |
 | 140 | 363 | William Meussner |
 | 141 | 362 | Dineisha Carpenter |
 | 142 | 359 | Brainy Smurf |
 | 143 | 350 | Chris Harr |
 | 144 | 350 | Kimberly Randesi |
 | 145 | 348 | Cherica Taylor |
-| 146 | 345 | Alyssaaelena |
-| 147 | 345 | Brenda Messer |
+| 146 | 345 | Brenda Messer |
+| 147 | 345 | Alyssaaelena |
 | 148 | 345 | Rhianna DiLorenzo |
 | 149 | 344 | Christina Lewis-Vickers |
 | 150 | 342 | Tracy Wise |
