@@ -93,8 +93,8 @@
 | 85 | 129 | Ashley Tookes |
 | 86 | 128 | Angel Mendez |
 | 87 | 127 | mjl574 |
-| 88 | 125 | Felicia Doxey |
-| 89 | 125 | Stephanie Simpson |
+| 88 | 125 | Stephanie Simpson |
+| 89 | 125 | Felicia Doxey |
 | 90 | 124 | Marquita Sheard |
 | 91 | 122 | Aerian Preston |
 | 92 | 120 | Jessica |

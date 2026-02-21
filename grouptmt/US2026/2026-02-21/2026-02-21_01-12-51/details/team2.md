@@ -124,8 +124,8 @@
 | 116 | 306 | Nerdy Clearfit |
 | 117 | 306 | Véronique Lévesque Sabourin |
 | 118 | 297 | James Zaragoza |
-| 119 | 295 | Zany Clusterbuilder |
-| 120 | 295 | Diallo Sparkman |
+| 119 | 295 | Diallo Sparkman |
+| 120 | 295 | Zany Clusterbuilder |
 | 121 | 292 | Steve Grotto |
 | 122 | 290 | Jessie McDougald |
 | 123 | 287 | Claire |

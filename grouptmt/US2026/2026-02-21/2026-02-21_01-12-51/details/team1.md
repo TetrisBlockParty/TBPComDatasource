@@ -22,8 +22,8 @@
 | 14 | 339 | Lawrence Belanger |
 | 15 | 301 | Zerin Graham |
 | 16 | 294 | Jacqueline Williams |
-| 17 | 281 | Nancy Green |
-| 18 | 281 | Kathi Snustad |
+| 17 | 281 | Kathi Snustad |
+| 18 | 281 | Nancy Green |
 | 19 | 279 | COOL as Icer |
 | 20 | 263 | Andrea Dañielle Ortiz |
 | 21 | 239 | Tipsy Column |
@@ -69,10 +69,10 @@
 | 61 | 110 | Heidi Feurer |
 | 62 | 109 | Dandy Basegrid |
 | 63 | 108 | Tavia |
-| 64 | 105 | BigWeenie69 |
-| 65 | 105 | Barry Mac'Ockner |
-| 66 | 100 | comrade fish |
-| 67 | 100 | Ash Galvan |
+| 64 | 105 | Barry Mac'Ockner |
+| 65 | 105 | BigWeenie69 |
+| 66 | 100 | Ash Galvan |
+| 67 | 100 | comrade fish |
 | 68 | 99 | Uhog SF |
 | 69 | 98 | Susanna Guerry |
 | 70 | 98 | Flashy Rotator |
