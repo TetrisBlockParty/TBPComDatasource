@@ -20,8 +20,8 @@
 | 12 | 608 | Denny Shives |
 | 13 | 606 | Rachel Anne |
 | 14 | 594 | Lucille Truesdale |
-| 15 | 590 | Valerie Roberts |
-| 16 | 590 | Dee Kay |
+| 15 | 590 | Dee Kay |
+| 16 | 590 | Valerie Roberts |
 | 17 | 589 | Chilly Line |
 | 18 | 587 | Koshin Abdirahman |
 | 19 | 578 | Leah Gorsuch |
@@ -103,8 +103,8 @@
 | 95 | 132 | Melissa Priest Sellers |
 | 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -185,8 +185,8 @@
 | 177 | 83 | Joseph Gray |
 | 178 | 83 | Holly |
 | 179 | 83 | Avy Absol |
-| 180 | 82 | Kim Hunt |
-| 181 | 82 | Jason Frehner |
+| 180 | 82 | Jason Frehner |
+| 181 | 82 | Kim Hunt |
 | 182 | 81 | Chair |
 | 183 | 81 | Blessedmama |
 | 184 | 81 | Jumpy Zonepiece |
@@ -218,7 +218,7 @@
 | 210 | 73 | Lynn Marie |
 | 211 | 73 | bloat princess |
 | 212 | 72 | Robin Getchel |
-| 213 | 71 | Ericca Eldridge |
+| 213 | 71 | Marcela Johnson |
 | 214 | 71 | Lindsey Gonzalez |
 | 215 | 71 | Ericca Eldridge |
 | 216 | 70 | Patron Anderson |
@@ -662,8 +662,8 @@
 | 654 | 18 | George Castillo |
 | 655 | 18 | D3TROITB0RN74 |
 | 656 | 18 | Alison Welsh |
-| 657 | 18 | Eric Quan |
-| 658 | 18 | Saucy Brickfit |
+| 657 | 18 | Saucy Brickfit |
+| 658 | 18 | Eric Quan |
 | 659 | 17 | Wacky Blockclear |
 | 660 | 17 | Tawna Curry |
 | 661 | 17 | Jen |

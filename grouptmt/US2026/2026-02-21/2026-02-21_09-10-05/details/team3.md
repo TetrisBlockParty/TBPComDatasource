@@ -41,8 +41,8 @@
 | 33 | 613 | Amber Hughes |
 | 34 | 608 | River |
 | 35 | 598 | Jennifer Willis |
-| 36 | 587 | Danielle Becker |
-| 37 | 587 | Suzieq |
+| 36 | 587 | Suzieq |
+| 37 | 587 | Danielle Becker |
 | 38 | 580 | Amanda L Baker |
 | 39 | 568 | Shonna Roberts |
 | 40 | 546 | Dolores Falco |
@@ -144,8 +144,8 @@
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
 | 138 | 159 | Mcathen |
-| 139 | 159 | Morgan Martinez |
-| 140 | 159 | Jone |
+| 139 | 159 | Jone |
+| 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
 | 142 | 157 | Patricia Gadsden |
 | 143 | 157 | Nicholas Roddy |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Bea Miles |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Gumbo |
 | 160 | 140 | Jay Horn |

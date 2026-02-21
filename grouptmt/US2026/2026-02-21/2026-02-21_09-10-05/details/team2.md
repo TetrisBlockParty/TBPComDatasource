@@ -399,8 +399,8 @@
 | 391 | 200 | LaWanda Powell |
 | 392 | 200 | Sarah Ridenour |
 | 393 | 199 | Fi Ne |
-| 394 | 199 | Jenny Castro |
-| 395 | 199 | Jessica Sutter |
+| 394 | 199 | Jessica Sutter |
+| 395 | 199 | Jenny Castro |
 | 396 | 198 | Angie Bolton Workman |
 | 397 | 198 | Alyssa Dean |
 | 398 | 196 | Besma Ao |
@@ -617,8 +617,8 @@
 | 609 | 133 | JinxxedMozzerella |
 | 610 | 133 | Candy Pitts |
 | 611 | 133 | candy |
-| 612 | 133 | Epic Stackzone |
-| 613 | 133 | Rae Rae |
+| 612 | 133 | Rae Rae |
+| 613 | 133 | Epic Stackzone |
 | 614 | 132 | Mr. Street Stack |
 | 615 | 132 | Chilly Rollblock |
 | 616 | 132 | Paula Snyder |
@@ -916,8 +916,8 @@
 | 908 | 93 | Kiana Serrao |
 | 909 | 93 | Chyrisse Norton |
 | 910 | 93 | Lush Link |
-| 911 | 93 | Sunny Frame |
-| 912 | 93 | Melissa Gates |
+| 911 | 93 | Melissa Gates |
+| 912 | 93 | Sunny Frame |
 | 913 | 93 | Kelli Couture |
 | 914 | 93 | Sandra Link-Gable |
 | 915 | 93 | Miranda Jackson |
@@ -941,9 +941,9 @@
 | 933 | 91 | Gigi |
 | 934 | 91 | Vung Nguyen |
 | 935 | 90 | Lakie Fogle |
-| 936 | 90 | Carrie Green |
-| 937 | 90 | Rainah Floyd |
-| 938 | 90 | Dude |
+| 936 | 90 | Dude |
+| 937 | 90 | Carrie Green |
+| 938 | 90 | Rainah Floyd |
 | 939 | 90 | Sweetheart81 |
 | 940 | 90 | Apollo |
 | 941 | 90 | J-nae Kettoman |
@@ -1079,8 +1079,8 @@
 | 1071 | 80 | José Vega |
 | 1072 | 80 | Mary-Pat Ward |
 | 1073 | 80 | Kay Perkins |
-| 1074 | 79 | Big Games |
-| 1075 | 79 | Sassy Base |
+| 1074 | 79 | Sassy Base |
+| 1075 | 79 | Big Games |
 | 1076 | 79 | Monica DeLoach Jandran |
 | 1077 | 79 | Wacky Brickbuilder |
 | 1078 | 79 | Giggy Grabber |
@@ -1185,8 +1185,8 @@
 | 1177 | 73 | Breanna Morgan |
 | 1178 | 73 | Karla Patricia Garcia |
 | 1179 | 73 | Veridian Glades |
-| 1180 | 72 | Stacy Odom |
-| 1181 | 72 | Bubbl3s |
+| 1180 | 72 | Bubbl3s |
+| 1181 | 72 | Stacy Odom |
 | 1182 | 72 | Tina Elliott |
 | 1183 | 72 | Saucy Ziggy |
 | 1184 | 72 | Andrea Cooper |
