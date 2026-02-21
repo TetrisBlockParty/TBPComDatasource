@@ -57,8 +57,8 @@
 | 49 | 256 | Tipsy Column |
 | 50 | 253 | Bhelle Sumile |
 | 51 | 244 | Franswa |
-| 52 | 241 | Kristen Roles Robben |
-| 53 | 241 | Adryane Schnase |
+| 52 | 241 | Adryane Schnase |
+| 53 | 241 | Kristen Roles Robben |
 | 54 | 240 | Rachael |
 | 55 | 225 | Elaine Elaine |
 | 56 | 217 | Deanna L Hermanson |
@@ -233,8 +233,8 @@
 | 225 | 74 | Meechie |
 | 226 | 73 | Silly Align |
 | 227 | 73 | Shanae Grant |
-| 228 | 72 | Tipsy Strikerpiece |
-| 229 | 72 | Ric Hard Hernandez |
+| 228 | 72 | Ric Hard Hernandez |
+| 229 | 72 | Tipsy Strikerpiece |
 | 230 | 71 | Loneell Hyland |
 | 231 | 70 | Seth Wesson |
 | 232 | 70 | Jennifer Duttry |

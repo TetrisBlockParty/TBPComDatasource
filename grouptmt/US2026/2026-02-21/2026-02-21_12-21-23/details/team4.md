@@ -84,18 +84,18 @@
 | 76 | 172 | Andy Cabral |
 | 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 171 | Melvin Baird |
-| 79 | 170 | Girl |
-| 80 | 170 | Justin Hannigan |
+| 79 | 170 | Justin Hannigan |
+| 80 | 170 | Girl |
 | 81 | 167 | Denise Carlson |
-| 82 | 165 | Courtney Cicoria |
-| 83 | 165 | Casey Grabner |
+| 82 | 165 | Casey Grabner |
+| 83 | 165 | Courtney Cicoria |
 | 84 | 162 | Shauna Havard |
 | 85 | 160 | Carter Jones |
 | 86 | 159 | KM8 |
 | 87 | 159 | Holly Jolly |
 | 88 | 157 | quicksand420 |
-| 89 | 154 | Zany Twisterfit |
-| 90 | 154 | ThaEviLJeNiuZ |
+| 89 | 154 | ThaEviLJeNiuZ |
+| 90 | 154 | Zany Twisterfit |
 | 91 | 153 | Jae Job |
 | 92 | 151 | Dana Scott |
 | 93 | 150 | ZeeZee |

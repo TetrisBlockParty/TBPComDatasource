@@ -44,8 +44,8 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Suzieq |
-| 40 | 587 | Danielle Becker |
+| 39 | 587 | Danielle Becker |
+| 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
 | 43 | 546 | Snappy Glidepiece |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -193,8 +193,8 @@
 | 185 | 127 | Joy Petroski |
 | 186 | 127 | Marquita Sheard |
 | 187 | 126 | Brandon Givens |
-| 188 | 125 | Shimika Enay Wallace |
-| 189 | 125 | Felicia Doxey |
+| 188 | 125 | Felicia Doxey |
+| 189 | 125 | Shimika Enay Wallace |
 | 190 | 124 | Cesar Barraza |
 | 191 | 123 | Marci Mize Fandrich |
 | 192 | 123 | Sarajane Lokan |
@@ -313,8 +313,8 @@
 | 305 | 80 | Vixen Queen |
 | 306 | 80 | Me,Him,Yu |
 | 307 | 79 | Bleu Sun Beams |
-| 308 | 79 | Jessie Chung |
-| 309 | 79 | Brittany K Ward |
+| 308 | 79 | Brittany K Ward |
+| 309 | 79 | Jessie Chung |
 | 310 | 79 | Amanda Neal |
 | 311 | 78 | El Chapa |
 | 312 | 78 | Cozy Snaplink |
@@ -555,7 +555,7 @@
 | 547 | 48 | Happy Buildsnap |
 | 548 | 48 | Adriana M. Del Valle |
 | 549 | 48 | Yvonne Felicia Garcia |
-| 550 | 47 | Flashy Brickline |
+| 550 | 47 | Dorothy |
 | 551 | 47 | Rerrie |
 | 552 | 47 | Flashy Brickline |
 | 553 | 47 | Erica Burk |
@@ -669,7 +669,7 @@
 | 661 | 40 | Bethany Baughman |
 | 662 | 40 | Makelini Mausia |
 | 663 | 40 | Katie Morton |
-| 664 | 40 | Makelini Mausia |
+| 664 | 40 | Shaynna Marshall-Scott |
 | 665 | 39 | Dana Hicks |
 | 666 | 39 | Alexis Cook |
 | 667 | 39 | Roxy Rojas-Rangel |

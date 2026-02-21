@@ -111,8 +111,8 @@
 | 103 | 674 | Dannette Goldberg-Richards |
 | 104 | 672 | Wendy Harder Gage |
 | 105 | 665 | Dineisha Carpenter |
-| 106 | 658 | Pacynthia Williams |
-| 107 | 658 | Vistabrat |
+| 106 | 658 | Vistabrat |
+| 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
 | 110 | 649 | Stephanie Chapman |
@@ -433,8 +433,8 @@
 | 425 | 202 | Layna Lyons |
 | 426 | 201 | Twisty Tetriblast |
 | 427 | 201 | Peppy Snapfall |
-| 428 | 200 | LaWanda Powell |
-| 429 | 200 | Sarah Ridenour |
+| 428 | 200 | Sarah Ridenour |
+| 429 | 200 | LaWanda Powell |
 | 430 | 199 | Fi Ne |
 | 431 | 199 | Jessica Sutter |
 | 432 | 199 | Jenny Castro |
@@ -508,8 +508,8 @@
 | 500 | 172 | Mr. Street Stack |
 | 501 | 171 | William Hunt |
 | 502 | 171 | Cappin You |
-| 503 | 170 | Darlene Bowman |
-| 504 | 170 | Dedra Steward |
+| 503 | 170 | Dedra Steward |
+| 504 | 170 | Darlene Bowman |
 | 505 | 170 | BTA |
 | 506 | 170 | Kenya Felix |
 | 507 | 169 | Eddie Perez |
@@ -526,8 +526,8 @@
 | 518 | 164 | Sara Pennington |
 | 519 | 164 | Jessica Vega |
 | 520 | 163 | Danielle Ayoub |
-| 521 | 163 | Albert McKnight |
-| 522 | 163 | Angelica |
+| 521 | 163 | Angelica |
+| 522 | 163 | Albert McKnight |
 | 523 | 162 | LC Hamilton |
 | 524 | 162 | Lee Harper |
 | 525 | 162 | Chirpy Snapper |
@@ -849,7 +849,7 @@
 | 841 | 107 | Northphilly Fly |
 | 842 | 107 | Foxxo |
 | 843 | 107 | Traci Johnson |
-| 844 | 107 | Chyrisse Norton |
+| 844 | 107 | Wil Allen |
 | 845 | 107 | Adrian Benitez |
 | 846 | 107 | Zesty Pivot |
 | 847 | 107 | Chyrisse Norton |
