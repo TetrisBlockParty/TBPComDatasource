@@ -111,8 +111,8 @@
 | 103 | 328 | Marie Boyd Faulk |
 | 104 | 327 | Debra Williams |
 | 105 | 323 | Danielle Simmons |
-| 106 | 317 | bru |
-| 107 | 317 | Desiree Anderson |
+| 106 | 317 | Desiree Anderson |
+| 107 | 317 | bru |
 | 108 | 299 | Véronique Lévesque Sabourin |
 | 109 | 297 | James Zaragoza |
 | 110 | 295 | Diallo Sparkman |
@@ -341,10 +341,10 @@
 | 333 | 119 | Mandi Douglas Hilt |
 | 334 | 119 | Alison Emmons |
 | 335 | 118 | Erica Williams |
-| 336 | 118 | Poppy Gridder |
-| 337 | 118 | Maria Escobar |
-| 338 | 117 | Cody Kelsey |
-| 339 | 117 | August Hale |
+| 336 | 118 | Maria Escobar |
+| 337 | 118 | Poppy Gridder |
+| 338 | 117 | August Hale |
+| 339 | 117 | Cody Kelsey |
 | 340 | 117 | Myleaha Holley |
 | 341 | 116 | Amber Gray |
 | 342 | 116 | Stephen Stephen |
