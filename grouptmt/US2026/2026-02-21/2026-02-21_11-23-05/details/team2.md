@@ -113,8 +113,8 @@
 | 105 | 658 | Vistabrat |
 | 106 | 658 | Pacynthia Williams |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Stephanie Chapman |
-| 109 | 649 | Anna Edwards |
+| 108 | 649 | Anna Edwards |
+| 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
 | 112 | 631 | Peppy Zone |
@@ -149,8 +149,8 @@
 | 141 | 520 | Kimberly Schall |
 | 142 | 519 | Maria Escobar |
 | 143 | 517 | Debra Williams |
-| 144 | 515 | Kaylee McCafferty |
-| 145 | 515 | Real Ri |
+| 144 | 515 | Real Ri |
+| 145 | 515 | Kaylee McCafferty |
 | 146 | 513 | Butta |
 | 147 | 511 | Ramone Armstrong |
 | 148 | 511 | Dizzy Zone |
@@ -205,12 +205,12 @@
 | 197 | 391 | Qiana Sanders |
 | 198 | 386 | Ashie Ann |
 | 199 | 386 | Macy Williams |
-| 200 | 385 | Arwa Fatimah |
-| 201 | 385 | Sam |
+| 200 | 385 | Sam |
+| 201 | 385 | Arwa Fatimah |
 | 202 | 382 | Leah |
 | 203 | 381 | Amanda Ferrell |
-| 204 | 380 | Calandra Shaya Robinson |
-| 205 | 380 | Joshua Mandel |
+| 204 | 380 | Joshua Mandel |
+| 205 | 380 | Calandra Shaya Robinson |
 | 206 | 378 | Cody Nishimura |
 | 207 | 377 | Roy Salyer |
 | 208 | 364 | Shinette Dobson |
@@ -244,8 +244,8 @@
 | 236 | 333 | Brittney Jean |
 | 237 | 332 | TF Dyer |
 | 238 | 331 | Shelley Thornburgh Wright |
-| 239 | 330 | Taryece Gause |
-| 240 | 330 | Victoria Moore-Smith |
+| 239 | 330 | Victoria Moore-Smith |
+| 240 | 330 | Taryece Gause |
 | 241 | 328 | Marie Boyd Faulk |
 | 242 | 327 | Danielle Simmons |
 | 243 | 323 | Juanita Lyons |
@@ -332,8 +332,8 @@
 | 324 | 256 | Tee Jaleesa |
 | 325 | 256 | CC |
 | 326 | 255 | Santana Miyagi |
-| 327 | 254 | Elizabeth Diraffaele |
-| 328 | 254 | Rose Fx |
+| 327 | 254 | Rose Fx |
+| 328 | 254 | Elizabeth Diraffaele |
 | 329 | 254 | Julie Hamilton |
 | 330 | 253 | Tansaria Couch-Butler |
 | 331 | 252 | Matt Johnson |
@@ -355,8 +355,8 @@
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
-| 350 | 242 | Donna Chandler |
-| 351 | 242 | Lawanda Forbes |
+| 350 | 242 | Lawanda Forbes |
+| 351 | 242 | Donna Chandler |
 | 352 | 241 | Sabrina Burton |
 | 353 | 240 | Angie Marie |
 | 354 | 240 | Adam Erikson |
@@ -370,8 +370,8 @@
 | 362 | 234 | Jennifer Leigh |
 | 363 | 234 | Manny Trindade |
 | 364 | 234 | Jaybee Nguyen |
-| 365 | 233 | Robin Kerby |
-| 366 | 233 | Jumpy Gridclear |
+| 365 | 233 | Jumpy Gridclear |
+| 366 | 233 | Robin Kerby |
 | 367 | 233 | Nutty Matchline |
 | 368 | 232 | Amber Brion |
 | 369 | 231 | Dylan Thomason |
@@ -422,13 +422,13 @@
 | 414 | 200 | LaWanda Powell |
 | 415 | 199 | Fi Ne |
 | 416 | 199 | Jenny Castro |
-| 417 | 199 | Alyssa Nadine Medelez |
-| 418 | 199 | Jessica Sutter |
+| 417 | 199 | Jessica Sutter |
+| 418 | 199 | Alyssa Nadine Medelez |
 | 419 | 198 | Angie Bolton Workman |
 | 420 | 198 | Alyssa Dean |
 | 421 | 196 | Besma Ao |
-| 422 | 196 | Alexandra Reese |
-| 423 | 196 | Cass Shirley |
+| 422 | 196 | Cass Shirley |
+| 423 | 196 | Alexandra Reese |
 | 424 | 195 | Snappy Shatterfit |
 | 425 | 195 | Emily Lyric Converse |
 | 426 | 194 | Kimberly Ann |
@@ -468,7 +468,7 @@
 | 460 | 179 | Elizabeth Pearson |
 | 461 | 179 | Lively Catcher |
 | 462 | 179 | Bette Prieto |
-| 463 | 179 | Lively Catcher |
+| 463 | 179 | Cat |
 | 464 | 178 | Michelle Shrum |
 | 465 | 177 | Facuetoo |
 | 466 | 177 | Ryan Meilleur |
@@ -509,8 +509,8 @@
 | 501 | 164 | Sara Pennington |
 | 502 | 163 | Lakeela Wise |
 | 503 | 163 | Danielle Ayoub |
-| 504 | 163 | Angelica |
-| 505 | 163 | Albert McKnight |
+| 504 | 163 | Albert McKnight |
+| 505 | 163 | Angelica |
 | 506 | 162 | LC Hamilton |
 | 507 | 162 | Chirpy Snapper |
 | 508 | 160 | Amy Reynolds |
@@ -544,8 +544,8 @@
 | 536 | 155 | Cris cris |
 | 537 | 155 | Jacob Huffman |
 | 538 | 155 | Angela Murgia-Owen |
-| 539 | 154 | Cini |
-| 540 | 154 | Tiffney Wroten |
+| 539 | 154 | Tiffney Wroten |
+| 540 | 154 | Cini |
 | 541 | 154 | Lydia Greenman |
 | 542 | 154 | Bryan Werleman |
 | 543 | 154 | Lori Maring |
@@ -579,8 +579,8 @@
 | 571 | 145 | William Hughes |
 | 572 | 145 | Scott Rackley |
 | 573 | 145 | Chareen Lauritzen |
-| 574 | 145 | Arkei Luster |
-| 575 | 145 | Anastacio Hernandez |
+| 574 | 145 | Anastacio Hernandez |
+| 575 | 145 | Arkei Luster |
 | 576 | 145 | Kiorah Blaze |
 | 577 | 144 | Tristan Lamothe |
 | 578 | 144 | Regina Young |
