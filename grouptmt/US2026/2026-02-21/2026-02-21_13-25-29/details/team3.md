@@ -31,8 +31,8 @@
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
 | 25 | 880 | Tetris Master |
-| 26 | 867 | Briarblack |
-| 27 | 867 | Delilah belle |
+| 26 | 867 | Delilah belle |
+| 27 | 867 | Briarblack |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
 | 30 | 810 | Zippy Strikesnap |
@@ -49,8 +49,8 @@
 | 41 | 587 | Danielle Becker |
 | 42 | 580 | Amanda L Baker |
 | 43 | 568 | Shonna Roberts |
-| 44 | 546 | Snappy Glidepiece |
-| 45 | 546 | Dolores Falco |
+| 44 | 546 | Dolores Falco |
+| 45 | 546 | Snappy Glidepiece |
 | 46 | 541 | MissTaylor |
 | 47 | 533 | Sarah Fehring |
 | 48 | 528 | Natasha Jones |
@@ -130,8 +130,8 @@
 | 122 | 204 | Aaron Pitkin |
 | 123 | 202 | Twisty Brick LT |
 | 124 | 199 | joclisa |
-| 125 | 195 | Nicha Hooker |
-| 126 | 195 | Jenny Hrndz |
+| 125 | 195 | Jenny Hrndz |
+| 126 | 195 | Nicha Hooker |
 | 127 | 194 | glichmod |
 | 128 | 193 | Stephanie Burtin |
 | 129 | 193 | Clever Shiftsnap |
@@ -192,8 +192,8 @@
 | 184 | 140 | Gumbo |
 | 185 | 137 | Aerian Preston |
 | 186 | 136 | Boldy Corner |
-| 187 | 135 | Cheryl Hinch Tenbrook |
-| 188 | 135 | Connie Mohler-Fair |
+| 187 | 135 | Connie Mohler-Fair |
+| 188 | 135 | Cheryl Hinch Tenbrook |
 | 189 | 134 | Emma |
 | 190 | 133 | Joy Petroski |
 | 191 | 131 | Jl |

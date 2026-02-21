@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Valerie Roberts |
-| 20 | 590 | Dee Kay |
+| 19 | 590 | Dee Kay |
+| 20 | 590 | Valerie Roberts |
 | 21 | 589 | Chilly Line |
 | 22 | 584 | Anthony Magaraci |
 | 23 | 578 | Leah Gorsuch |
@@ -95,8 +95,8 @@
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
 | 89 | 162 | Shauna Havard |
-| 90 | 160 | Stacey Stano |
-| 91 | 160 | Carter Jones |
+| 90 | 160 | Carter Jones |
+| 91 | 160 | Stacey Stano |
 | 92 | 159 | Holly Jolly |
 | 93 | 157 | quicksand420 |
 | 94 | 154 | Zany Twisterfit |
@@ -139,10 +139,10 @@
 | 131 | 120 | Joshua Guess |
 | 132 | 119 | Kristin Manee |
 | 133 | 118 | Leslie Nicole |
-| 134 | 116 | Stephme310 |
-| 135 | 116 | Diana Houts |
-| 136 | 115 | Ultramarine |
-| 137 | 115 | Jayk |
+| 134 | 116 | Diana Houts |
+| 135 | 116 | Stephme310 |
+| 136 | 115 | Jayk |
+| 137 | 115 | Ultramarine |
 | 138 | 113 | Adam Randall |
 | 139 | 113 | Andria Lynn |
 | 140 | 112 | Bryan Hodgins |
@@ -163,10 +163,10 @@
 | 155 | 104 | Avy Absol |
 | 156 | 104 | Damn Libra |
 | 157 | 103 | Judy Cox |
-| 158 | 102 | ĥuf |
-| 159 | 102 | Faja |
-| 160 | 101 | Michelle Morris |
-| 161 | 101 | Saulc1991 |
+| 158 | 102 | Faja |
+| 159 | 102 | ĥuf |
+| 160 | 101 | Saulc1991 |
+| 161 | 101 | Michelle Morris |
 | 162 | 100 | Alexandra Karavias |
 | 163 | 99 | April Rondinone |
 | 164 | 99 | Anthony Bryan Riva |

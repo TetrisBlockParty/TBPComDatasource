@@ -209,8 +209,8 @@
 | 201 | 409 | Sparkles |
 | 202 | 406 | Erin StFrancis |
 | 203 | 402 | Joshua Mandel |
-| 204 | 400 | Tammy Allen |
-| 205 | 400 | Rhonda Milstead |
+| 204 | 400 | Rhonda Milstead |
+| 205 | 400 | Tammy Allen |
 | 206 | 400 | Crystie Hicks |
 | 207 | 397 | Ashley Guernsey-Martin |
 | 208 | 397 | coleksquad |
@@ -235,8 +235,8 @@
 | 227 | 371 | Kimberly Randesi |
 | 228 | 366 | Wuntayk |
 | 229 | 365 | Christina Lewis-Vickers |
-| 230 | 364 | Shinette Dobson |
-| 231 | 364 | Brandon Armstrong |
+| 230 | 364 | Brandon Armstrong |
+| 231 | 364 | Shinette Dobson |
 | 232 | 363 | William Meussner |
 | 233 | 362 | AkaLefty |
 | 234 | 359 | Brainy Smurf |
@@ -418,8 +418,8 @@
 | 410 | 231 | Hong Tang |
 | 411 | 230 | Leslie Johnson Guinto |
 | 412 | 229 | Tonya Lee |
-| 413 | 229 | Kimmy Newman |
-| 414 | 229 | Justin Hines |
+| 413 | 229 | Justin Hines |
+| 414 | 229 | Kimmy Newman |
 | 415 | 228 | Michelle Sager |
 | 416 | 227 | JacJac |
 | 417 | 226 | Jodi Mitnick |
@@ -495,8 +495,8 @@
 | 487 | 184 | BamaGirlinTX |
 | 488 | 183 | Lynzekwi |
 | 489 | 183 | Brenna Ann |
-| 490 | 183 | Brandon McDonald |
-| 491 | 183 | Wakanda Forever |
+| 490 | 183 | Wakanda Forever |
+| 491 | 183 | Brandon McDonald |
 | 492 | 182 | Tamara Bailey |
 | 493 | 182 | Donna M Carter |
 | 494 | 181 | Tom Steffen |
@@ -515,8 +515,8 @@
 | 507 | 177 | Angel |
 | 508 | 177 | Facuetoo |
 | 509 | 176 | Stacy Harper |
-| 510 | 176 | Jennifer Malloy - Cardy |
-| 511 | 176 | Trisha Gallagher |
+| 510 | 176 | Trisha Gallagher |
+| 511 | 176 | Jennifer Malloy - Cardy |
 | 512 | 175 | Snippy Rumbler |
 | 513 | 175 | Tina Blessed Cage |
 | 514 | 175 | Lucero Ramirez |
