@@ -193,11 +193,11 @@
 | 185 | 388 | coleksquad |
 | 186 | 386 | Macy Williams |
 | 187 | 386 | Ashie Ann |
-| 188 | 385 | Arwa Fatimah |
-| 189 | 385 | Sam |
+| 188 | 385 | Sam |
+| 189 | 385 | Arwa Fatimah |
 | 190 | 381 | Amanda Ferrell |
-| 191 | 380 | Joshua Mandel |
-| 192 | 380 | Calandra Shaya Robinson |
+| 191 | 380 | Calandra Shaya Robinson |
+| 192 | 380 | Joshua Mandel |
 | 193 | 378 | Cody Nishimura |
 | 194 | 377 | Roy Salyer |
 | 195 | 377 | Liberty |
@@ -270,8 +270,8 @@
 | 262 | 282 | Carl Bradshaw |
 | 263 | 282 | Shaun Church |
 | 264 | 281 | Maegan Beaule |
-| 265 | 280 | Autumn Schaeffer |
-| 266 | 280 | Shorty |
+| 265 | 280 | Shorty |
+| 266 | 280 | Autumn Schaeffer |
 | 267 | 279 | Nika Bee |
 | 268 | 278 | Noel Tarmy |
 | 269 | 276 | Lindsey Leigh |
@@ -318,8 +318,8 @@
 | 310 | 252 | Matt Johnson |
 | 311 | 252 | Cheech Dta |
 | 312 | 251 | Ann Knutson Anderson |
-| 313 | 250 | Barbra Miller |
-| 314 | 250 | Johnny Yeates |
+| 313 | 250 | Johnny Yeates |
+| 314 | 250 | Barbra Miller |
 | 315 | 250 | Peachy Blockbuilder |
 | 316 | 249 | Porsche' Nicole |
 | 317 | 249 | Nicky Jackson |
@@ -327,8 +327,8 @@
 | 319 | 248 | Leah Keesling |
 | 320 | 248 | Maddy Petersen |
 | 321 | 248 | Dany Murillo |
-| 322 | 247 | Fancy Twister |
-| 323 | 247 | Andrea Devery Beck |
+| 322 | 247 | Andrea Devery Beck |
+| 323 | 247 | Fancy Twister |
 | 324 | 246 | Kathryn Townsley |
 | 325 | 246 | Stephanie Lumanlan |
 | 326 | 246 | Ashley Lopez |
@@ -338,15 +338,15 @@
 | 330 | 244 | Aimee Byrom |
 | 331 | 243 | Brandy Andre |
 | 332 | 243 | Adira Brown |
-| 333 | 242 | Donna Chandler |
-| 334 | 242 | Lawanda Forbes |
+| 333 | 242 | Lawanda Forbes |
+| 334 | 242 | Donna Chandler |
 | 335 | 241 | Sabrina Burton |
-| 336 | 240 | Angie Marie |
-| 337 | 240 | Adam Erikson |
+| 336 | 240 | Adam Erikson |
+| 337 | 240 | Angie Marie |
 | 338 | 239 | Roger Grabbit |
 | 339 | 238 | Cheery Matchzone |
-| 340 | 236 | snkylnk |
-| 341 | 236 | Frisky Riserbuilder |
+| 340 | 236 | Frisky Riserbuilder |
+| 341 | 236 | snkylnk |
 | 342 | 236 | Niceday |
 | 343 | 236 | Julio A Laracuente |
 | 344 | 235 | Kimberly Mitchell |

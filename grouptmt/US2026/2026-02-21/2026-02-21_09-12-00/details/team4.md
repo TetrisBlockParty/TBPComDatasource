@@ -99,9 +99,9 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Jessica Cagle |
-| 95 | 132 | Melissa Priest Sellers |
-| 96 | 132 | Degenerate |
+| 94 | 132 | Degenerate |
+| 95 | 132 | Jessica Cagle |
+| 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 131 | Zany Twisterfit |
 | 99 | 131 | Mr. Party |
