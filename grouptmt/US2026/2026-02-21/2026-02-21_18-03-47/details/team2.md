@@ -119,8 +119,8 @@
 | 111 | 780 | Amanda Grohmann |
 | 112 | 772 | Megan Ferguson Leone |
 | 113 | 771 | Terri McKelvey McKinley |
-| 114 | 763 | Robin Kerby |
-| 115 | 763 | Samantha Jo |
+| 114 | 763 | Samantha Jo |
+| 115 | 763 | Robin Kerby |
 | 116 | 759 | Jose Mendoza |
 | 117 | 756 | Stephanie Neuburger |
 | 118 | 751 | Loony Snapper |
@@ -174,8 +174,8 @@
 | 166 | 592 | Ashle Scranton |
 | 167 | 591 | Alisha |
 | 168 | 589 | Erica Williams |
-| 169 | 583 | Jessicah Myers |
-| 170 | 583 | Jumpy Gridpiece |
+| 169 | 583 | Jumpy Gridpiece |
+| 170 | 583 | Jessicah Myers |
 | 171 | 580 | Steve Grotto |
 | 172 | 579 | Gary Stash |
 | 173 | 577 | Ellie Jonas |
@@ -251,8 +251,8 @@
 | 243 | 452 | Allan Wayne Lamia |
 | 244 | 452 | Alezandra Smith |
 | 245 | 448 | Jojo Momma |
-| 246 | 445 | Calandra Shaya Robinson |
-| 247 | 445 | Dedra Steward |
+| 246 | 445 | Dedra Steward |
+| 247 | 445 | Calandra Shaya Robinson |
 | 248 | 442 | Daphne Jordan |
 | 249 | 442 | Leah |
 | 250 | 440 | Liberty |

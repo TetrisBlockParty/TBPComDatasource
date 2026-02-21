@@ -166,9 +166,9 @@
 | 158 | 201 | Ashley Tookes |
 | 159 | 195 | Nicha Hooker |
 | 160 | 194 | glichmod |
-| 161 | 193 | Stephanie Burtin |
-| 162 | 193 | Duane Bright |
-| 163 | 193 | Clever Shiftsnap |
+| 161 | 193 | Clever Shiftsnap |
+| 162 | 193 | Stephanie Burtin |
+| 163 | 193 | Duane Bright |
 | 164 | 191 | Giddy Twistbuilder |
 | 165 | 191 | Ashley Muncey |
 | 166 | 191 | Scott Carleton |

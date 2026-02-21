@@ -67,8 +67,8 @@
 | 59 | 334 | Leslie Thomas |
 | 60 | 309 | Lisa Davis |
 | 61 | 308 | Jen Allison |
-| 62 | 300 | David Lay |
-| 63 | 300 | Jason Hart |
+| 62 | 300 | Jason Hart |
+| 63 | 300 | David Lay |
 | 64 | 299 | Livvy |
 | 65 | 295 | Latisha Davis |
 | 66 | 293 | HastyGrabber |
@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Jae Job |
-| 80 | 215 | Alyssa Papen |
+| 79 | 215 | Alyssa Papen |
+| 80 | 215 | Jae Job |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -116,8 +116,8 @@
 | 108 | 173 | blockstar |
 | 109 | 173 | Ren Mc |
 | 110 | 171 | Denise Carlson |
-| 111 | 170 | Peachy Fall |
-| 112 | 170 | Girl |
+| 111 | 170 | Girl |
+| 112 | 170 | Peachy Fall |
 | 113 | 164 | ThaEviLJeNiuZ |
 | 114 | 161 | Nugget |
 | 115 | 160 | ZeeZee |
