@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Gary Gobin |
-| 83 | 128 | Uhog SF |
+| 82 | 128 | Uhog SF |
+| 83 | 128 | Gary Gobin |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Tater |
@@ -127,11 +127,11 @@
 | 119 | 92 | Jessica Russell |
 | 120 | 90 | TSwag |
 | 121 | 90 | Madison Wicks |
-| 122 | 89 | Mizzledagod |
-| 123 | 89 | Mara Hilker |
+| 122 | 89 | Mara Hilker |
+| 123 | 89 | Mizzledagod |
 | 124 | 87 | Jessi Sauer |
-| 125 | 86 | Basment Living |
-| 126 | 86 | Desiree Deschaine Havee |
+| 125 | 86 | Desiree Deschaine Havee |
+| 126 | 86 | Basment Living |
 | 127 | 85 | Steve Schneider |
 | 128 | 84 | Yvonne Marie |
 | 129 | 84 | Charla Pross-Fugleberg |

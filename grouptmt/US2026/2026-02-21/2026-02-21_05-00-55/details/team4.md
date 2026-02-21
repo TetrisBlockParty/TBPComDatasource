@@ -55,8 +55,8 @@
 | 47 | 170 | Leah Kutz Zirbel |
 | 48 | 170 | Girl |
 | 49 | 168 | Anthony Magaraci |
-| 50 | 165 | Casey Grabner |
-| 51 | 165 | Courtney Cicoria |
+| 50 | 165 | Courtney Cicoria |
+| 51 | 165 | Casey Grabner |
 | 52 | 163 | Denise Carlson |
 | 53 | 163 | Livvy |
 | 54 | 160 | Carter Jones |

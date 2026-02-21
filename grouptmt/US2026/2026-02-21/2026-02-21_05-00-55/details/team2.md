@@ -257,8 +257,8 @@
 | 249 | 248 | Leah Keesling |
 | 250 | 248 | Bubbly Snapfit |
 | 251 | 248 | Chummy Blockbuilder |
-| 252 | 247 | Fancy Twister |
-| 253 | 247 | Andrea Devery Beck |
+| 252 | 247 | Andrea Devery Beck |
+| 253 | 247 | Fancy Twister |
 | 254 | 246 | Matt Johnson |
 | 255 | 246 | Ashley Lopez |
 | 256 | 245 | Rachael Senard |
@@ -267,8 +267,8 @@
 | 259 | 244 | Shorty |
 | 260 | 243 | Brandy Andre |
 | 261 | 242 | Donna Chandler |
-| 262 | 241 | Peppy Zone |
-| 263 | 241 | Em Chen |
+| 262 | 241 | Em Chen |
+| 263 | 241 | Peppy Zone |
 | 264 | 241 | Sabrina Burton |
 | 265 | 240 | Angie Marie |
 | 266 | 240 | Johnny Yeates |
@@ -285,8 +285,8 @@
 | 277 | 231 | Dylan Thomason |
 | 278 | 230 | snkylnk |
 | 279 | 228 | Michelle Sager |
-| 280 | 227 | Nutty Matchline |
-| 281 | 227 | Amber Gray |
+| 280 | 227 | Amber Gray |
+| 281 | 227 | Nutty Matchline |
 | 282 | 227 | Sanaa Nounoussa |
 | 283 | 226 | Leslie Ann Carter |
 | 284 | 223 | Giddy Gridclear |
