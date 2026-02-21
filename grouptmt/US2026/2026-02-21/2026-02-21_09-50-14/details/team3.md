@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -138,8 +138,8 @@
 | 130 | 178 | AlsoJess |
 | 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Danielle Mogg |
-| 134 | 166 | Kelly Ann Child |
+| 133 | 166 | Kelly Ann Child |
+| 134 | 166 | Danielle Mogg |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 162 | Kali Kelz Williams |
@@ -162,8 +162,8 @@
 | 154 | 149 | Angel Mendez |
 | 155 | 149 | Trisha Balmer |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Denita Mungro |
-| 158 | 146 | Latoya Mayne |
+| 157 | 146 | Latoya Mayne |
+| 158 | 146 | Denita Mungro |
 | 159 | 142 | Erica Anderson |
 | 160 | 140 | Gumbo |
 | 161 | 140 | Jay Horn |

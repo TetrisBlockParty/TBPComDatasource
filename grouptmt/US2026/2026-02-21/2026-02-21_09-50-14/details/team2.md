@@ -145,8 +145,8 @@
 | 137 | 520 | Kimberly Schall |
 | 138 | 519 | Maria Escobar |
 | 139 | 517 | Debra Williams |
-| 140 | 515 | Real Ri |
-| 141 | 515 | Kaylee McCafferty |
+| 140 | 515 | Kaylee McCafferty |
+| 141 | 515 | Real Ri |
 | 142 | 513 | Butta |
 | 143 | 511 | Dizzy Zone |
 | 144 | 510 | Ashley House |
@@ -184,8 +184,8 @@
 | 176 | 411 | Ricky Fortune |
 | 177 | 409 | Sparkles |
 | 178 | 406 | Erin StFrancis |
-| 179 | 400 | Crystie Hicks |
-| 180 | 400 | Tammy Allen |
+| 179 | 400 | Tammy Allen |
+| 180 | 400 | Crystie Hicks |
 | 181 | 397 | Ashley Guernsey-Martin |
 | 182 | 396 | Rhonda Milstead |
 | 183 | 394 | Em Chen |
@@ -256,11 +256,11 @@
 | 248 | 303 | Crystal Greene |
 | 249 | 303 | Amanda Schaffer |
 | 250 | 301 | Claire |
-| 251 | 299 | Deborah Miller |
-| 252 | 299 | Christy Krissie |
+| 251 | 299 | Christy Krissie |
+| 252 | 299 | Deborah Miller |
 | 253 | 297 | Brenda Utphall |
-| 254 | 296 | Amber Gray |
-| 255 | 296 | Jennifer Casey-Kay |
+| 254 | 296 | Jennifer Casey-Kay |
+| 255 | 296 | Amber Gray |
 | 256 | 296 | Jennifer Darby |
 | 257 | 295 | Zany Clusterbuilder |
 | 258 | 295 | Diallo Sparkman |
@@ -281,8 +281,8 @@
 | 273 | 279 | Nika Bee |
 | 274 | 278 | Noel Tarmy |
 | 275 | 276 | Lindsey Leigh |
-| 276 | 276 | SwampRebel |
-| 277 | 276 | Vonceial Boone |
+| 276 | 276 | Vonceial Boone |
+| 277 | 276 | SwampRebel |
 | 278 | 275 | Cheeky Brickmatch |
 | 279 | 275 | Shiny Rollzone |
 | 280 | 275 | Ann Matzkanin |
@@ -367,8 +367,8 @@
 | 359 | 229 | Kimmy Newman |
 | 360 | 228 | Michelle Sager |
 | 361 | 227 | Nutty Matchline |
-| 362 | 227 | JacJac |
-| 363 | 227 | Sanaa Nounoussa |
+| 362 | 227 | Sanaa Nounoussa |
+| 363 | 227 | JacJac |
 | 364 | 227 | Demeka Dangerous-kisses Johnson |
 | 365 | 226 | Leslie Ann Carter |
 | 366 | 226 | Mary Marie |
@@ -415,8 +415,8 @@
 | 407 | 195 | Emily Lyric Converse |
 | 408 | 195 | Snappy Shatterfit |
 | 409 | 194 | Hoppy Brickmatch |
-| 410 | 194 | Mike Aprilliano |
-| 411 | 194 | Kimberly Ann |
+| 410 | 194 | Kimberly Ann |
+| 411 | 194 | Mike Aprilliano |
 | 412 | 193 | Matthew Turner |
 | 413 | 193 | Kelly Ann McCormick |
 | 414 | 191 | Lauren Fitzgerald Thomas |
@@ -432,8 +432,8 @@
 | 424 | 186 | Joshua Mullings |
 | 425 | 186 | Jackie Jackie Lee |
 | 426 | 185 | Jaybee Nguyen |
-| 427 | 184 | Theresa Sterrett |
-| 428 | 184 | Regina Unruh |
+| 427 | 184 | Regina Unruh |
+| 428 | 184 | Theresa Sterrett |
 | 429 | 184 | Sassy Linkbuilder |
 | 430 | 184 | Brittany Radaszewski |
 | 431 | 183 | Brandon McDonald |

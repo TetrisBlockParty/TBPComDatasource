@@ -36,8 +36,8 @@
 | 28 | 399 | Drew Magnus |
 | 29 | 380 | Robert Beck |
 | 30 | 365 | Karin Gillen |
-| 31 | 348 | Chipper Gridlock |
-| 32 | 348 | Stef Hu |
+| 31 | 348 | Stef Hu |
+| 32 | 348 | Chipper Gridlock |
 | 33 | 338 | Stephanie Zahn |
 | 34 | 301 | Zerin Graham |
 | 35 | 298 | Angel Fowler |
@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Tipsy Column |
 | 44 | 256 | Shauna Loe |
@@ -67,17 +67,17 @@
 | 59 | 201 | Ananda Mendez |
 | 60 | 201 | Anaid Sanchez |
 | 61 | 200 | Lexuriuos Lifestlye |
-| 62 | 198 | Happy Snapbuild |
-| 63 | 198 | Billie Dawn Sparks |
+| 62 | 198 | Billie Dawn Sparks |
+| 63 | 198 | Happy Snapbuild |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Sharon Reynolds |
-| 66 | 194 | Giggly Builderline |
+| 65 | 194 | Giggly Builderline |
+| 66 | 194 | Sharon Reynolds |
 | 67 | 193 | Lachelle Dillon |
 | 68 | 192 | Mandyy Rae |
 | 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
-| 71 | 190 | Sweetts |
-| 72 | 190 | Thorne Shumate |
+| 71 | 190 | Thorne Shumate |
+| 72 | 190 | Sweetts |
 | 73 | 189 | Happy Basegrid |
 | 74 | 180 | Erez Yosef |
 | 75 | 173 | june october |
@@ -123,8 +123,8 @@
 | 115 | 121 | Bouncy Grid |
 | 116 | 120 | Kimmie Kimms |
 | 117 | 119 | Tater |
-| 118 | 119 | April Carroll |
-| 119 | 119 | Irual Hctrab |
+| 118 | 119 | Irual Hctrab |
+| 119 | 119 | April Carroll |
 | 120 | 118 | Barry Mac'Ockner |
 | 121 | 116 | Evie Khalil |
 | 122 | 115 | Mrs.Patrica |
@@ -144,8 +144,8 @@
 | 136 | 106 | Aimee Horton |
 | 137 | 106 | Ash Galvan |
 | 138 | 105 | Flashy Rotator |
-| 139 | 104 | Bindi |
-| 140 | 104 | Charla Pross-Fugleberg |
+| 139 | 104 | Charla Pross-Fugleberg |
+| 140 | 104 | Bindi |
 | 141 | 103 | Adryane Schnase |
 | 142 | 102 | Jennifer ManWarren |
 | 143 | 100 | Tami Luce Martin |
@@ -295,7 +295,7 @@
 | 287 | 55 | Carrie Smith |
 | 288 | 55 | Panda Thagreat |
 | 289 | 55 | Ruf Lowman |
-| 290 | 55 | Panda Thagreat |
+| 290 | 55 | Danielle Mae |
 | 291 | 54 | Theeranart Mahawan |
 | 292 | 54 | Odell Barnett |
 | 293 | 54 | Dena Kayy |

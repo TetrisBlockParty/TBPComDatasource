@@ -57,8 +57,8 @@
 | 49 | 277 | KJ Pool |
 | 50 | 274 | Elizabeth Sallas |
 | 51 | 272 | Livvy |
-| 52 | 265 | Clarence Patawaran |
-| 53 | 265 | Julian Garcia |
+| 52 | 265 | Julian Garcia |
+| 53 | 265 | Clarence Patawaran |
 | 54 | 256 | Brittney Griggs |
 | 55 | 244 | Isabella Blanco |
 | 56 | 241 | Desi Desporte |
@@ -81,8 +81,8 @@
 | 73 | 170 | Leah Kutz Zirbel |
 | 74 | 170 | Girl |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
 | 79 | 159 | Justin Hannigan |
 | 80 | 159 | Holly Jolly |
@@ -112,8 +112,8 @@
 | 104 | 129 | John Brunetti |
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
-| 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
+| 107 | 123 | Nugget |
+| 108 | 123 | Bubbly Puzzler |
 | 109 | 123 | Cherrish Duren |
 | 110 | 122 | Sherri |
 | 111 | 121 | Klo |
@@ -214,8 +214,8 @@
 | 206 | 76 | Madison Sweere |
 | 207 | 76 | Crystal Lynn |
 | 208 | 76 | Bethany Ison |
-| 209 | 75 | Rosemary Foster |
-| 210 | 75 | Christina Black |
+| 209 | 75 | Christina Black |
+| 210 | 75 | Rosemary Foster |
 | 211 | 74 | Krs |
 | 212 | 74 | Tyler Terrific |
 | 213 | 73 | Lynn Marie |
@@ -252,7 +252,7 @@
 | 244 | 65 | Lee Silpe |
 | 245 | 65 | Mylo Lipscomb |
 | 246 | 65 | Angela Geist Jusinski |
-| 247 | 64 | Sarah Brown |
+| 247 | 64 | Mousey406 |
 | 248 | 64 | rebel4lyfe |
 | 249 | 64 | Sarah Brown |
 | 250 | 64 | Joseph Edmonson |
