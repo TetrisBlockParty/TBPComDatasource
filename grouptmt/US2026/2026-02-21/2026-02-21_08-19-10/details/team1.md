@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -112,8 +112,8 @@
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
-| 107 | 123 | june october |
-| 108 | 123 | LaQuetta Faith Hines |
+| 107 | 123 | LaQuetta Faith Hines |
+| 108 | 123 | june october |
 | 109 | 121 | Bouncy Grid |
 | 110 | 119 | April Carroll |
 | 111 | 119 | Irual Hctrab |

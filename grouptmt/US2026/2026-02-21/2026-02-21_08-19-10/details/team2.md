@@ -120,8 +120,8 @@
 | 112 | 545 | Brittany Alicia |
 | 113 | 542 | Rosa Franklin |
 | 114 | 541 | SaraMarie Eveland |
-| 115 | 540 | YiFei |
-| 116 | 540 | Charvi' Carter |
+| 115 | 540 | Charvi' Carter |
+| 116 | 540 | YiFei |
 | 117 | 534 | Poppy Snapper |
 | 118 | 531 | Chris Wanner |
 | 119 | 529 | Tonya Morgan |
@@ -175,8 +175,8 @@
 | 167 | 409 | Sparkles |
 | 168 | 406 | Erin StFrancis |
 | 169 | 401 | Poppy Snap |
-| 170 | 400 | Crystie Hicks |
-| 171 | 400 | Tammy Allen |
+| 170 | 400 | Tammy Allen |
+| 171 | 400 | Crystie Hicks |
 | 172 | 397 | Ashley Guernsey-Martin |
 | 173 | 391 | Rhonda Milstead |
 | 174 | 391 | Chilly Bridgepiece |
@@ -189,8 +189,8 @@
 | 181 | 380 | Joshua Mandel |
 | 182 | 380 | Calandra Shaya Robinson |
 | 183 | 378 | Cody Nishimura |
-| 184 | 377 | Liberty |
-| 185 | 377 | Roy Salyer |
+| 184 | 377 | Roy Salyer |
+| 185 | 377 | Liberty |
 | 186 | 364 | Shinette Dobson |
 | 187 | 363 | Stephen Stephen |
 | 188 | 363 | William Meussner |
@@ -606,8 +606,8 @@
 | 598 | 131 | Jennie Lee Huntley |
 | 599 | 131 | Deidre Shaffer |
 | 600 | 131 | Zeleana Perry |
-| 601 | 130 | Nerdy Riserfit |
-| 602 | 130 | Roger Grabbit |
+| 601 | 130 | Roger Grabbit |
+| 602 | 130 | Nerdy Riserfit |
 | 603 | 130 | Cranky Zonebuilder |
 | 604 | 130 | Amy Ross |
 | 605 | 130 | Sandy Aragon |

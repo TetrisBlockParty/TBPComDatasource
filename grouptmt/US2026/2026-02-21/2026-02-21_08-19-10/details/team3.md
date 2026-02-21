@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,14 +75,14 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Annie Déè |
-| 71 | 342 | Trezure Gonzalez |
+| 70 | 342 | Trezure Gonzalez |
+| 71 | 342 | Annie Déè |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Michelle |
-| 77 | 322 | Mendoza Lee Christy |
+| 76 | 322 | Mendoza Lee Christy |
+| 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | CeceGeGe |
@@ -166,8 +166,8 @@
 | 158 | 134 | Emma |
 | 159 | 131 | Jl |
 | 160 | 129 | Stephanie Burtin |
-| 161 | 127 | Marquita Sheard |
-| 162 | 127 | Connie Mohler-Fair |
+| 161 | 127 | Connie Mohler-Fair |
+| 162 | 127 | Marquita Sheard |
 | 163 | 127 | Aerian Preston |
 | 164 | 126 | Joy Petroski |
 | 165 | 126 | Brandon Givens |
@@ -250,8 +250,8 @@
 | 242 | 94 | Angie Harper |
 | 243 | 94 | Carrie Huskey |
 | 244 | 93 | Tiffany Ford |
-| 245 | 92 | Trice Thomas |
-| 246 | 92 | Jennifer Caputo |
+| 245 | 92 | Jennifer Caputo |
+| 246 | 92 | Trice Thomas |
 | 247 | 92 | Ava Petito |
 | 248 | 91 | Martin Bernier |
 | 249 | 90 | Tiffany Kaupang |

@@ -141,7 +141,7 @@
 | 133 | 105 | TheNeesh50 |
 | 134 | 105 | 🥔🥔 Spudz |
 | 135 | 105 | AyeKay |
-| 136 | 105 | 🥔🥔 Spudz |
+| 136 | 105 | Dihcheese444 |
 | 137 | 104 | Damn Libra |
 | 138 | 104 | YoMomma |
 | 139 | 104 | Adam Randall |
@@ -214,8 +214,8 @@
 | 206 | 73 | April Rondinone |
 | 207 | 73 | Joshua Cuellar |
 | 208 | 72 | Robin Getchel |
-| 209 | 71 | Lindsey Gonzalez |
-| 210 | 71 | Marcela Johnson |
+| 209 | 71 | Marcela Johnson |
+| 210 | 71 | Lindsey Gonzalez |
 | 211 | 70 | Patron Anderson |
 | 212 | 70 | Richard-April Kice |
 | 213 | 69 | Carol Ricks Raymond |
@@ -259,9 +259,9 @@
 | 251 | 60 | Ahleek Mitchell |
 | 252 | 59 | Jen Mattei |
 | 253 | 59 | Lori |
-| 254 | 59 | Jen Mattei |
-| 255 | 58 | Autumn Kumzi |
-| 256 | 58 | Paige Kittles |
+| 254 | 59 | Jasmine S Caldwell |
+| 255 | 58 | Paige Kittles |
+| 256 | 58 | Autumn Kumzi |
 | 257 | 58 | Rebecca Morris |
 | 258 | 57 | Hyper Matchclear |
 | 259 | 57 | Courtney Halleck |
@@ -295,8 +295,8 @@
 | 287 | 54 | Lisha Billups |
 | 288 | 53 | Allison Judith |
 | 289 | 53 | Poppy Brickmatch |
-| 290 | 52 | Chassidy Martin |
-| 291 | 52 | Nerdy Twisterfit |
+| 290 | 52 | Nerdy Twisterfit |
+| 291 | 52 | Chassidy Martin |
 | 292 | 52 | Nicole Silvers |
 | 293 | 51 | George Nutt |
 | 294 | 51 | Frank Cook |
