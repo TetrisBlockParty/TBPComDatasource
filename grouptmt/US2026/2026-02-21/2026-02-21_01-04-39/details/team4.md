@@ -54,8 +54,8 @@
 | 46 | 123 | Nugget |
 | 47 | 122 | Shelly Chandler |
 | 48 | 121 | Smiley Tiltbuilder |
-| 49 | 116 | Serena Goodridge |
-| 50 | 116 | Sherri |
+| 49 | 116 | Sherri |
+| 50 | 116 | Serena Goodridge |
 | 51 | 114 | Jessica Cagle |
 | 52 | 113 | Degenerate |
 | 53 | 112 | Chirpy Basepiece |
@@ -70,8 +70,8 @@
 | 62 | 98 | Stephme310 |
 | 63 | 98 | Duck |
 | 64 | 96 | Zappy Snaplink |
-| 65 | 94 | TinyLegoRose |
-| 66 | 94 | Chilly Line |
+| 65 | 94 | Chilly Line |
+| 66 | 94 | TinyLegoRose |
 | 67 | 93 | YoMomma |
 | 68 | 92 | Kristin MacDonald |
 | 69 | 90 | ZeeZee |

@@ -59,11 +59,11 @@
 | 51 | 223 | Shari Garber |
 | 52 | 214 | Amy Fuller Heaton |
 | 53 | 207 | rnr junky |
-| 54 | 206 | Jennifer Willis |
-| 55 | 206 | MissTaylor |
+| 54 | 206 | MissTaylor |
+| 55 | 206 | Jennifer Willis |
 | 56 | 203 | Crimson |
-| 57 | 193 | Clever Shiftsnap |
-| 58 | 193 | Shunta Jacobs |
+| 57 | 193 | Shunta Jacobs |
+| 58 | 193 | Clever Shiftsnap |
 | 59 | 187 | Speedy Bridger |
 | 60 | 185 | Danielle Cutler |
 | 61 | 184 | Jennie Beranek |
@@ -88,8 +88,8 @@
 | 80 | 134 | DanceLuvLaugh |
 | 81 | 131 | Emma |
 | 82 | 130 | Tessina Dewey-Mancino |
-| 83 | 129 | Giddy Twistbuilder |
-| 84 | 129 | Ashley Tookes |
+| 83 | 129 | Ashley Tookes |
+| 84 | 129 | Giddy Twistbuilder |
 | 85 | 128 | Angel Mendez |
 | 86 | 127 | mjl574 |
 | 87 | 125 | Stephanie Simpson |

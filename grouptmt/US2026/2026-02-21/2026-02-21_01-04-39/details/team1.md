@@ -37,8 +37,8 @@
 | 29 | 190 | Jennifer Cates |
 | 30 | 187 | Dee Perry |
 | 31 | 185 | Karin Gillen |
-| 32 | 176 | Jazzy Framezone |
-| 33 | 176 | Mandyy Rae |
+| 32 | 176 | Mandyy Rae |
+| 33 | 176 | Jazzy Framezone |
 | 34 | 173 | Frothy Pattern |
 | 35 | 169 | Erez Yosef |
 | 36 | 160 | Ananda Mendez |
@@ -70,8 +70,8 @@
 | 62 | 109 | Dandy Basegrid |
 | 63 | 108 | Tavia |
 | 64 | 105 | Barry Mac'Ockner |
-| 65 | 100 | Ash Galvan |
-| 66 | 100 | comrade fish |
+| 65 | 100 | comrade fish |
+| 66 | 100 | Ash Galvan |
 | 67 | 99 | Uhog SF |
 | 68 | 98 | Flashy Rotator |
 | 69 | 95 | Jodee Woods |

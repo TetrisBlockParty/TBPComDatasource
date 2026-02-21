@@ -174,10 +174,10 @@
 | 166 | 238 | Steven Marshaun |
 | 167 | 238 | Dany Murillo |
 | 168 | 236 | Frisky Riserbuilder |
-| 169 | 232 | Chummy Blockbuilder |
-| 170 | 232 | Ann Knutson Anderson |
-| 171 | 231 | Dylan Thomason |
-| 172 | 231 | Ginger |
+| 169 | 232 | Ann Knutson Anderson |
+| 170 | 232 | Chummy Blockbuilder |
+| 171 | 231 | Ginger |
+| 172 | 231 | Dylan Thomason |
 | 173 | 231 | Ashley Lopez |
 | 174 | 230 | Dapper Dasher |
 | 175 | 228 | Davetta Sanford |
@@ -240,8 +240,8 @@
 | 232 | 175 | Tina Blessed Cage |
 | 233 | 173 | Macy Williams |
 | 234 | 171 | Poppy Snapper |
-| 235 | 170 | Taryece Gause |
-| 236 | 170 | Darlene Bowman |
+| 235 | 170 | Darlene Bowman |
+| 236 | 170 | Taryece Gause |
 | 237 | 170 | Kenya Felix |
 | 238 | 169 | Lively Catcher |
 | 239 | 168 | Robin |
@@ -286,8 +286,8 @@
 | 278 | 147 | Eddie Perez |
 | 279 | 146 | Kyle Saunders |
 | 280 | 146 | JacJac |
-| 281 | 145 | Scott Rackley |
-| 282 | 145 | William Hughes |
+| 281 | 145 | William Hughes |
+| 282 | 145 | Scott Rackley |
 | 283 | 143 | Angelica |
 | 284 | 142 | Frisky Clearpiece |
 | 285 | 142 | Kyle LeRoy Harris |
