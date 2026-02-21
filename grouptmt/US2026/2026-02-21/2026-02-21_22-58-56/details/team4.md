@@ -133,8 +133,8 @@
 | 125 | 196 | Jenna McGeorge |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Stacey Stano |
-| 129 | 189 | Calvin Dennis |
+| 128 | 189 | Calvin Dennis |
+| 129 | 189 | Stacey Stano |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |
@@ -152,8 +152,8 @@
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
-| 147 | 164 | 030Synner |
-| 148 | 164 | ThaEviLJeNiuZ |
+| 147 | 164 | ThaEviLJeNiuZ |
+| 148 | 164 | 030Synner |
 | 149 | 160 | ZeeZee |
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
@@ -267,8 +267,8 @@
 | 259 | 100 | Alexandra Karavias |
 | 260 | 100 | Jacob Richard |
 | 261 | 100 | Blessedmama |
-| 262 | 100 | Jennifer Perkins |
-| 263 | 100 | Bradley Reeves |
+| 262 | 100 | Bradley Reeves |
+| 263 | 100 | Jennifer Perkins |
 | 264 | 99 | Michael Orris |
 | 265 | 98 | Groovy Gridlock |
 | 266 | 98 | Perky Piecegrid |
@@ -286,7 +286,7 @@
 | 278 | 91 | wombat |
 | 279 | 91 | Sunny Filler |
 | 280 | 90 | Hyper Builder |
-| 281 | 90 | Carol Ricks Raymond |
+| 281 | 90 | Thomas Hettenhaus |
 | 282 | 90 | Chirpy Slammer |
 | 283 | 90 | Carol Ricks Raymond |
 | 284 | 89 | Jonathan Mahfood |

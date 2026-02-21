@@ -122,8 +122,8 @@
 | 114 | 1000 | Megan Ferguson Leone |
 | 115 | 995 | Samantha Roberts |
 | 116 | 986 | RAEPR05 |
-| 117 | 983 | Anna Edwards |
-| 118 | 983 | Adam Erikson |
+| 117 | 983 | Adam Erikson |
+| 118 | 983 | Anna Edwards |
 | 119 | 973 | Janel Turley-Garner |
 | 120 | 973 | Kim Dean |
 | 121 | 964 | Poppy Snapper |
@@ -448,8 +448,8 @@
 | 440 | 333 | Tra Barnum |
 | 441 | 332 | Nicole Cannon |
 | 442 | 331 | Kia Humphery |
-| 443 | 330 | CC |
-| 444 | 330 | Lucy Marshall |
+| 443 | 330 | Lucy Marshall |
+| 444 | 330 | CC |
 | 445 | 329 | Chummy Blockbuilder |
 | 446 | 329 | Jroc |
 | 447 | 328 | bru |
@@ -475,12 +475,12 @@
 | 467 | 316 | Gloria Ininahazwe |
 | 468 | 316 | Mikayala Szaz |
 | 469 | 315 | Ryan Meilleur |
-| 470 | 314 | Party d |
-| 471 | 314 | Amanda West |
+| 470 | 314 | Amanda West |
+| 471 | 314 | Party d |
 | 472 | 314 | James Zaragoza |
 | 473 | 313 | Natasha Edmonds |
-| 474 | 312 | Justin Hines |
-| 475 | 312 | Andrea Maher |
+| 474 | 312 | Andrea Maher |
+| 475 | 312 | Justin Hines |
 | 476 | 312 | Michelle Pike |
 | 477 | 310 | Cheeky Brickmatch |
 | 478 | 310 | Sharon Mills |

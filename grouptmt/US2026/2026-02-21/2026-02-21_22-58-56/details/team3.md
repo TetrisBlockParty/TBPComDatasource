@@ -144,8 +144,8 @@
 | 136 | 293 | Poppy Splitter |
 | 137 | 290 | Logan Naccarato |
 | 138 | 286 | Jacqueline Rodriguez |
-| 139 | 283 | Joye Sims Binion |
-| 140 | 283 | Marci Mize Fandrich |
+| 139 | 283 | Marci Mize Fandrich |
+| 140 | 283 | Joye Sims Binion |
 | 141 | 278 | Rufus Lincoln |
 | 142 | 276 | Crimson |
 | 143 | 272 | opf |
@@ -313,7 +313,7 @@
 | 305 | 131 | Noettín Kan Zasnemoore |
 | 306 | 130 | Karen Picaboo |
 | 307 | 130 | Melissa Orth Hunter |
-| 308 | 130 | Karen Picaboo |
+| 308 | 130 | TotoCherue |
 | 309 | 129 | Donna |
 | 310 | 129 | Juliana Dottore |
 | 311 | 128 | David Kozen |

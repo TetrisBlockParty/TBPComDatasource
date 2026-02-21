@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Stef Hu |
-| 67 | 348 | Trina Gee |
+| 66 | 348 | Trina Gee |
+| 67 | 348 | Stef Hu |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Bhelle Sumile |
-| 95 | 270 | Jennifer ManWarren |
+| 94 | 270 | Jennifer ManWarren |
+| 95 | 270 | Bhelle Sumile |
 | 96 | 263 | Sharon Reynolds |
 | 97 | 261 | Rachael |
 | 98 | 258 | Dandy Basegrid |
@@ -109,10 +109,10 @@
 | 101 | 251 | june october |
 | 102 | 249 | Elaine Elaine |
 | 103 | 244 | Franswa |
-| 104 | 240 | Tana |
-| 105 | 240 | Chelsea Dahlquist |
-| 106 | 238 | Steve Schneider |
-| 107 | 238 | John J. Cronin |
+| 104 | 240 | Chelsea Dahlquist |
+| 105 | 240 | Tana |
+| 106 | 238 | John J. Cronin |
+| 107 | 238 | Steve Schneider |
 | 108 | 237 | Seante Bullock |
 | 109 | 230 | Frothy Pattern |
 | 110 | 228 | Trippy Redd |
@@ -127,18 +127,18 @@
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 205 | MRdot Rooski |
 | 121 | 204 | Ananda Mendez |
-| 122 | 203 | Giggly Builderline |
-| 123 | 203 | GATOR |
+| 122 | 203 | GATOR |
+| 123 | 203 | Giggly Builderline |
 | 124 | 198 | Happy Snapbuild |
-| 125 | 194 | Tyler Werts |
-| 126 | 194 | Ash Galvan |
+| 125 | 194 | Ash Galvan |
+| 126 | 194 | Tyler Werts |
 | 127 | 193 | Lachelle Dillon |
 | 128 | 192 | Spunky Piecebuilder |
 | 129 | 192 | Jessica Sheehan |
 | 130 | 192 | Shaykmia |
 | 131 | 191 | Diane Byrd |
-| 132 | 190 | Sweetts |
-| 133 | 190 | Thorne Shumate |
+| 132 | 190 | Thorne Shumate |
+| 133 | 190 | Sweetts |
 | 134 | 188 | Sam Williams |
 | 135 | 187 | Snippy Wipebuilder |
 | 136 | 186 | Jennifer Olewnik Soborowski |
@@ -146,8 +146,8 @@
 | 138 | 180 | Erez Yosef |
 | 139 | 180 | BigWeenie69 |
 | 140 | 179 | Danielle Little-Daugherty |
-| 141 | 178 | Shiny Gridmatch |
-| 142 | 178 | Chad Atchley |
+| 141 | 178 | Chad Atchley |
+| 142 | 178 | Shiny Gridmatch |
 | 143 | 177 | ParisandCory Champagne |
 | 144 | 176 | Basment Living |
 | 145 | 175 | John Barron |
@@ -157,8 +157,8 @@
 | 149 | 170 | Cartier |
 | 150 | 169 | Abbey Crespo |
 | 151 | 168 | Standia Civil |
-| 152 | 166 | Rico Rico |
-| 153 | 166 | Katie Daniels |
+| 152 | 166 | Katie Daniels |
+| 153 | 166 | Rico Rico |
 | 154 | 165 | Nadine Velardo |
 | 155 | 164 | Tanya Carpenter-Reynolds |
 | 156 | 163 | Tyler Whitley |
