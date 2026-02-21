@@ -218,8 +218,8 @@
 | 210 | 110 | Adam Stephanie Parker |
 | 211 | 109 | Chaz |
 | 212 | 108 | Ali Ian |
-| 213 | 107 | Rafael Valentin |
-| 214 | 107 | Nerdy Twisterfit |
+| 213 | 107 | Nerdy Twisterfit |
+| 214 | 107 | Rafael Valentin |
 | 215 | 106 | Zappy Snaplink |
 | 216 | 106 | Rebecca Morris |
 | 217 | 105 | Brandi Durig |
@@ -371,16 +371,16 @@
 | 363 | 66 | Jen Mattei |
 | 364 | 66 | Undeniable Williams |
 | 365 | 66 | Montiette Mcglown |
-| 366 | 65 | Barcelos |
-| 367 | 65 | Brittany Price |
-| 368 | 65 | Chantilly Laace |
+| 366 | 65 | Brittany Price |
+| 367 | 65 | Chantilly Laace |
+| 368 | 65 | Barcelos |
 | 369 | 65 | Angelito |
 | 370 | 64 | Hyper Matchclear |
-| 371 | 64 | Plucky Patternblock |
-| 372 | 64 | Daring Pivot |
+| 371 | 64 | Tamika Starkey |
+| 372 | 64 | Joseph Edmonson |
 | 373 | 64 | Cj Lewis-haut |
-| 374 | 64 | Tamika Starkey |
-| 375 | 64 | Joseph Edmonson |
+| 374 | 64 | Daring Pivot |
+| 375 | 64 | Plucky Patternblock |
 | 376 | 64 | Mousey406 |
 | 377 | 63 | Gilles Lanctot |
 | 378 | 63 | Zesty Snapmatch |

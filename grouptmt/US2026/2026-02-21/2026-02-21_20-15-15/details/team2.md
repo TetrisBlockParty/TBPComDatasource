@@ -122,8 +122,8 @@
 | 114 | 843 | Suki Kaur |
 | 115 | 821 | Cynthia Ward |
 | 116 | 820 | Andea Beck |
-| 117 | 815 | blarg |
-| 118 | 815 | Cindy Sechler Taninecz |
+| 117 | 815 | Cindy Sechler Taninecz |
+| 118 | 815 | blarg |
 | 119 | 802 | Robin Kerby |
 | 120 | 801 | Tralonda Weeks |
 | 121 | 800 | Tacara Cummings |
@@ -154,8 +154,8 @@
 | 146 | 705 | Roger Grabbit |
 | 147 | 704 | Nerdy Clearfit |
 | 148 | 703 | Debra Williams |
-| 149 | 700 | Rosemadder |
-| 150 | 700 | Beverly Owens |
+| 149 | 700 | Beverly Owens |
+| 150 | 700 | Rosemadder |
 | 151 | 700 | Vincent Petrella |
 | 152 | 698 | Lola Contreras |
 | 153 | 697 | Real Ri |
@@ -629,8 +629,8 @@
 | 621 | 214 | Wacky Cascade |
 | 622 | 212 | Josh Webster |
 | 623 | 212 | Denelle Wendt-Ramalho |
-| 624 | 212 | Gina Justbeingme Chillis |
-| 625 | 212 | BK Queen |
+| 624 | 212 | BK Queen |
+| 625 | 212 | Gina Justbeingme Chillis |
 | 626 | 211 | Trisha Gallagher |
 | 627 | 210 | Mary Boss |
 | 628 | 210 | Cappin You |
@@ -714,10 +714,10 @@
 | 706 | 188 | Ethan Stienbarger |
 | 707 | 188 | Sassy Linkroll |
 | 708 | 188 | Kii |
-| 709 | 187 | Brandon McDonald |
-| 710 | 187 | Josh Dill |
-| 711 | 187 | Angel |
-| 712 | 187 | Wacky Brickbuilder |
+| 709 | 187 | Josh Dill |
+| 710 | 187 | Brandon McDonald |
+| 711 | 187 | Wacky Brickbuilder |
+| 712 | 187 | Angel |
 | 713 | 186 | Doowop40 |
 | 714 | 186 | Joshua Mullings |
 | 715 | 186 | Lazy Riseclear |
@@ -884,9 +884,9 @@
 | 876 | 151 | Jennifer Rajek |
 | 877 | 151 | Lively Piecebuilder |
 | 878 | 151 | Cool Grabber |
-| 879 | 150 | Amanda |
-| 880 | 150 | Breezy Filler |
-| 881 | 150 | Candace Noel |
+| 879 | 150 | Candace Noel |
+| 880 | 150 | Amanda |
+| 881 | 150 | Breezy Filler |
 | 882 | 150 | SwifftFox |
 | 883 | 150 | Miyah Erraina |
 | 884 | 150 | Martina Gabrielle LaPolla |
