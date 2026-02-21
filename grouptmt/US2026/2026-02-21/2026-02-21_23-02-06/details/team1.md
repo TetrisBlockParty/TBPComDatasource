@@ -83,8 +83,8 @@
 | 75 | 318 | Dee Perry |
 | 76 | 310 | Seth Wesson |
 | 77 | 308 | Kellie |
-| 78 | 305 | Plucky Ziggy |
-| 79 | 305 | Patrick Luckenbill |
+| 78 | 305 | Patrick Luckenbill |
+| 79 | 305 | Plucky Ziggy |
 | 80 | 304 | Nicole Roseberry Weber |
 | 81 | 303 | Maria C. Hernandez |
 | 82 | 301 | Hyper |

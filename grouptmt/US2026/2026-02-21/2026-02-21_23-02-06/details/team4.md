@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | Marie-Pier Desjardins |
-| 68 | 376 | quicksand420 |
+| 67 | 376 | quicksand420 |
+| 68 | 376 | Marie-Pier Desjardins |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -133,13 +133,13 @@
 | 125 | 196 | Jeff Brian Gates |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Calvin Dennis |
-| 129 | 189 | Stacey Stano |
+| 128 | 189 | Stacey Stano |
+| 129 | 189 | Calvin Dennis |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |
-| 133 | 185 | Andy Cabral |
-| 134 | 185 | Malakai Darien Fox |
+| 133 | 185 | Malakai Darien Fox |
+| 134 | 185 | Andy Cabral |
 | 135 | 184 | Justin Hannigan |
 | 136 | 181 | Andria Lynn |
 | 137 | 181 | Carter Jones |
@@ -158,8 +158,8 @@
 | 150 | 156 | Holly |
 | 151 | 155 | AyeKay |
 | 152 | 153 | Empress Oasis |
-| 153 | 153 | Avy Absol |
-| 154 | 153 | Chair |
+| 153 | 153 | Chair |
+| 154 | 153 | Avy Absol |
 | 155 | 151 | Bethany Ison |
 | 156 | 149 | Shainne Brewer |
 | 157 | 149 | Roger Coulter |

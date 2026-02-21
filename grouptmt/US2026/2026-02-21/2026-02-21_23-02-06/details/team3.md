@@ -194,8 +194,8 @@
 | 186 | 211 | Khaleada McGill Banks |
 | 187 | 211 | Katrina Turner |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Chris Bell |
-| 190 | 207 | Jessica |
+| 189 | 207 | Jessica |
+| 190 | 207 | Chris Bell |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |
@@ -238,8 +238,8 @@
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | Emma |
-| 234 | 169 | BŘŰŤİÇŨŚ |
+| 233 | 169 | BŘŰŤİÇŨŚ |
+| 234 | 169 | Emma |
 | 235 | 168 | MsBee |
 | 236 | 166 | Beth Ingham |
 | 237 | 166 | Betty Rosas |
