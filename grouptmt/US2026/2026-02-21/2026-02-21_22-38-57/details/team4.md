@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Chastity Mitchell |
-| 112 | 208 | Twisty Cascadezone |
+| 111 | 208 | Twisty Cascadezone |
+| 112 | 208 | Chastity Mitchell |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |
@@ -155,8 +155,8 @@
 | 147 | 156 | Holly |
 | 148 | 155 | AyeKay |
 | 149 | 153 | Empress Oasis |
-| 150 | 153 | Chair |
-| 151 | 153 | Avy Absol |
+| 150 | 153 | Avy Absol |
+| 151 | 153 | Chair |
 | 152 | 151 | Bethany Ison |
 | 153 | 149 | Shainne Brewer |
 | 154 | 149 | Jen Caldwell |
@@ -202,9 +202,9 @@
 | 194 | 124 | Allen Lloyd |
 | 195 | 124 | SammieJo Guy |
 | 196 | 123 | Austin Owens |
-| 197 | 123 | Chaz |
-| 198 | 123 | Tyler Terrific |
-| 199 | 123 | Matt Dell'Olio |
+| 197 | 123 | Matt Dell'Olio |
+| 198 | 123 | Chaz |
+| 199 | 123 | Tyler Terrific |
 | 200 | 122 | Sherri |
 | 201 | 122 | 🥔🥔 Spudz |
 | 202 | 121 | Joseph Pace |

@@ -126,8 +126,8 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | Giggly Builderline |
-| 122 | 203 | GATOR |
+| 121 | 203 | GATOR |
+| 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
@@ -167,8 +167,8 @@
 | 159 | 158 | Arianna O'Brien |
 | 160 | 154 | Irual Hctrab |
 | 161 | 153 | Shiny Gridmatch |
-| 162 | 152 | Speedy Snapfall |
-| 163 | 152 | Jacqueline Unique |
+| 162 | 152 | Jacqueline Unique |
+| 163 | 152 | Speedy Snapfall |
 | 164 | 151 | Christy Jones |
 | 165 | 150 | Adele Rahman |
 | 166 | 150 | David Miller |

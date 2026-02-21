@@ -247,13 +247,13 @@
 | 239 | 543 | Adira Brown |
 | 240 | 543 | Mema |
 | 241 | 537 | Slip |
-| 242 | 535 | Paul Huber |
-| 243 | 535 | Jessie McDougald |
+| 242 | 535 | Jessie McDougald |
+| 243 | 535 | Paul Huber |
 | 244 | 531 | Chris Wanner |
 | 245 | 528 | Brownie Sheena |
 | 246 | 527 | Stacy Stickle |
-| 247 | 527 | Heather Causey |
-| 248 | 527 | Ryan Gunther |
+| 247 | 527 | Ryan Gunther |
+| 248 | 527 | Heather Causey |
 | 249 | 526 | Ashley Guernsey-Martin |
 | 250 | 525 | Desiree Anderson |
 | 251 | 525 | Tommy Tha Boss Gunz |
@@ -262,9 +262,9 @@
 | 254 | 520 | Cheech Dta |
 | 255 | 519 | Deanna Morton |
 | 256 | 519 | Rob Brown |
-| 257 | 514 | Laquetta Royston |
+| 257 | 514 | Dizzy Zone |
 | 258 | 514 | Lisa Ongtowasruk |
-| 259 | 514 | Dizzy Zone |
+| 259 | 514 | Laquetta Royston |
 | 260 | 513 | Angela Bonquiqui Dinish |
 | 261 | 511 | Laura Mclean |
 | 262 | 509 | Kelli Wells |
@@ -277,8 +277,8 @@
 | 269 | 502 | Poppy Snap |
 | 270 | 500 | Sarah Ridenour |
 | 271 | 500 | Em Chen |
-| 272 | 497 | Juliana Marques Do Nascimento Gordy |
-| 273 | 497 | Jeremy Parodi |
+| 272 | 497 | Jeremy Parodi |
+| 273 | 497 | Juliana Marques Do Nascimento Gordy |
 | 274 | 495 | Matt Johnson |
 | 275 | 493 | Lylymom |
 | 276 | 491 | Michael Buckner |
@@ -374,11 +374,11 @@
 | 366 | 383 | Arkei Luster |
 | 367 | 382 | David Holliday |
 | 368 | 381 | Melissa Rebbe-Lehman |
-| 369 | 381 | Bubbly Snapfit |
-| 370 | 381 | Lee Harper |
-| 371 | 378 | Cody Nishimura |
+| 369 | 381 | Lee Harper |
+| 370 | 381 | Bubbly Snapfit |
+| 371 | 378 | TF Dyer |
 | 372 | 378 | Christina Ashley |
-| 373 | 378 | TF Dyer |
+| 373 | 378 | Cody Nishimura |
 | 374 | 376 | Caitlin Schmid |
 | 375 | 374 | Alexandra Weir |
 | 376 | 374 | Johnny Yeates |
@@ -386,9 +386,9 @@
 | 378 | 371 | Wuntayk |
 | 379 | 370 | Angela Lynn |
 | 380 | 369 | AkaLefty |
-| 381 | 369 | Tara Lynn Janes |
-| 382 | 369 | Tony Lea |
-| 383 | 369 | Victoria Moore-Smith |
+| 381 | 369 | Tony Lea |
+| 382 | 369 | Victoria Moore-Smith |
+| 383 | 369 | Tara Lynn Janes |
 | 384 | 367 | Deyawn Smith |
 | 385 | 366 | Darcy Mae |
 | 386 | 366 | Michele Morgan |
@@ -412,8 +412,8 @@
 | 404 | 354 | Lawanda Forbes |
 | 405 | 354 | Rickey Johnson |
 | 406 | 353 | Cheery Matchzone |
-| 407 | 352 | ruth |
-| 408 | 352 | KayLynn Ogden McClelland |
+| 407 | 352 | KayLynn Ogden McClelland |
+| 408 | 352 | ruth |
 | 409 | 352 | Angie Bolton Workman |
 | 410 | 350 | Chris Harr |
 | 411 | 350 | Fi Ne |
@@ -610,13 +610,13 @@
 | 602 | 245 | Sanaa Nounoussa |
 | 603 | 245 | Mary Boss |
 | 604 | 244 | Maxwell Escalera |
-| 605 | 244 | Court |
-| 606 | 244 | Nakiiya Dreamcatcher Gore |
+| 605 | 244 | Nakiiya Dreamcatcher Gore |
+| 606 | 244 | Court |
 | 607 | 244 | Crystal Elam |
 | 608 | 243 | JacJac |
 | 609 | 243 | Jessica Lamb |
-| 610 | 242 | Lianne Giandalone LaBounty |
-| 611 | 242 | Donna Chandler |
+| 610 | 242 | Donna Chandler |
+| 611 | 242 | Lianne Giandalone LaBounty |
 | 612 | 241 | Ronda Cary |
 | 613 | 240 | Kelly |
 | 614 | 239 | Dad |
@@ -720,8 +720,8 @@
 | 712 | 204 | Kimberly Ann |
 | 713 | 203 | Tina Blessed Cage |
 | 714 | 203 | Sveta Lana |
-| 715 | 202 | Groovy Tilefall |
-| 716 | 202 | Chirpy Snapper |
+| 715 | 202 | Chirpy Snapper |
+| 716 | 202 | Groovy Tilefall |
 | 717 | 201 | Moua Ying |
 | 718 | 201 | Lakeela Wise |
 | 719 | 201 | Abby Klaski |
@@ -760,9 +760,9 @@
 | 752 | 193 | Giggy Grabber |
 | 753 | 193 | Kristen Casale Berry |
 | 754 | 193 | D5wag2014 |
-| 755 | 193 | TJ Nash |
-| 756 | 193 | Kelly Ann McCormick |
-| 757 | 193 | Johanna Massaro |
+| 755 | 193 | Kelly Ann McCormick |
+| 756 | 193 | Johanna Massaro |
+| 757 | 193 | TJ Nash |
 | 758 | 192 | Beth Decker |
 | 759 | 192 | Leroy Jenkins |
 | 760 | 192 | Snippy Rumbler |

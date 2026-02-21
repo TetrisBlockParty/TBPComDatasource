@@ -107,8 +107,8 @@
 | 99 | 403 | Christine Filson |
 | 100 | 402 | Stephanie Simpson |
 | 101 | 397 | Mcathen |
-| 102 | 394 | Annie Déè |
-| 103 | 394 | joclisa |
+| 102 | 394 | joclisa |
+| 103 | 394 | Annie Déè |
 | 104 | 392 | Michelle |
 | 105 | 391 | Calista Jo Dickson |
 | 106 | 390 | Hasty Cascadefit |
@@ -143,8 +143,8 @@
 | 135 | 293 | Poppy Splitter |
 | 136 | 287 | Logan Naccarato |
 | 137 | 286 | Jacqueline Rodriguez |
-| 138 | 283 | Joye Sims Binion |
-| 139 | 283 | Marci Mize Fandrich |
+| 138 | 283 | Marci Mize Fandrich |
+| 139 | 283 | Joye Sims Binion |
 | 140 | 278 | Rufus Lincoln |
 | 141 | 276 | Crimson |
 | 142 | 272 | opf |
@@ -173,8 +173,8 @@
 | 165 | 235 | DidIdothat |
 | 166 | 233 | Ray Lader |
 | 167 | 231 | Nikki Pags |
-| 168 | 228 | Jennifer Lynn Fahrenholtz-Summers |
-| 169 | 228 | Morgan Martinez |
+| 168 | 228 | Morgan Martinez |
+| 169 | 228 | Jennifer Lynn Fahrenholtz-Summers |
 | 170 | 226 | Grego Daniel |
 | 171 | 224 | Nicole Myers |
 | 172 | 223 | Jeana Gilbert |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Raven Dudley |
-| 214 | 182 | Hyper Matchzone |
+| 213 | 182 | Hyper Matchzone |
+| 214 | 182 | Raven Dudley |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | DanceLuvLaugh |
