@@ -90,8 +90,8 @@
 | 82 | 144 | Denita Mungro |
 | 83 | 143 | ren |
 | 84 | 138 | Gumbo |
-| 85 | 135 | Latoya Mayne |
-| 86 | 135 | Nicole Flippo |
+| 85 | 135 | Nicole Flippo |
+| 86 | 135 | Latoya Mayne |
 | 87 | 134 | DanceLuvLaugh |
 | 88 | 131 | Emma |
 | 89 | 130 | Michelle |

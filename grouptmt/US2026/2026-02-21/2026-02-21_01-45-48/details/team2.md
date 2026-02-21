@@ -477,8 +477,8 @@
 | 469 | 99 | Zesty Pivot |
 | 470 | 99 | Nerdy Blockpiece |
 | 471 | 98 | Monarca26 |
-| 472 | 98 | Snappy Slamdrop |
-| 473 | 98 | Ekaterina Gokmen |
+| 472 | 98 | Ekaterina Gokmen |
+| 473 | 98 | Snappy Slamdrop |
 | 474 | 98 | Brenna Ann |
 | 475 | 98 | Alexandra Eryn |
 | 476 | 98 | Julie Kresal |
