@@ -188,21 +188,21 @@
 | 180 | 397 | Ashley Guernsey-Martin |
 | 181 | 394 | Em Chen |
 | 182 | 393 | Altamirano Michael |
-| 183 | 391 | Steven Marshaun |
-| 184 | 391 | Chilly Bridgepiece |
+| 183 | 391 | Chilly Bridgepiece |
+| 184 | 391 | Steven Marshaun |
 | 185 | 391 | Rhonda Milstead |
 | 186 | 391 | Qiana Sanders |
 | 187 | 388 | coleksquad |
 | 188 | 386 | Macy Williams |
 | 189 | 386 | Ashie Ann |
-| 190 | 385 | Arwa Fatimah |
-| 191 | 385 | Sam |
+| 190 | 385 | Sam |
+| 191 | 385 | Arwa Fatimah |
 | 192 | 381 | Amanda Ferrell |
 | 193 | 380 | Calandra Shaya Robinson |
 | 194 | 380 | Joshua Mandel |
 | 195 | 378 | Cody Nishimura |
-| 196 | 377 | Roy Salyer |
-| 197 | 377 | Liberty |
+| 196 | 377 | Liberty |
+| 197 | 377 | Roy Salyer |
 | 198 | 364 | Shinette Dobson |
 | 199 | 363 | William Meussner |
 | 200 | 359 | Brainy Smurf |
@@ -213,8 +213,8 @@
 | 205 | 354 | Tracy Wise |
 | 206 | 353 | Joseph Musick |
 | 207 | 352 | ruth |
-| 208 | 350 | Brave Dropmatch |
-| 209 | 350 | Chris Harr |
+| 208 | 350 | Chris Harr |
+| 209 | 350 | Brave Dropmatch |
 | 210 | 350 | Kimberly Randesi |
 | 211 | 348 | Richard Horton |
 | 212 | 348 | Cherica Taylor |
@@ -283,8 +283,8 @@
 | 275 | 275 | Cheeky Brickmatch |
 | 276 | 275 | Shiny Rollzone |
 | 277 | 275 | Ann Matzkanin |
-| 278 | 274 | Jamie Stevey |
-| 279 | 274 | Melissa Holsinger |
+| 278 | 274 | Melissa Holsinger |
+| 279 | 274 | Jamie Stevey |
 | 280 | 274 | Lonne Emade |
 | 281 | 273 | Ray Ray Prado |
 | 282 | 273 | Jenna Nance |
@@ -403,13 +403,13 @@
 | 395 | 200 | LaWanda Powell |
 | 396 | 200 | Sarah Ridenour |
 | 397 | 199 | Fi Ne |
-| 398 | 199 | Jessica Sutter |
-| 399 | 199 | Jenny Castro |
+| 398 | 199 | Jenny Castro |
+| 399 | 199 | Jessica Sutter |
 | 400 | 198 | Angie Bolton Workman |
 | 401 | 198 | Alyssa Dean |
 | 402 | 196 | Besma Ao |
-| 403 | 196 | Cass Shirley |
-| 404 | 196 | Alexandra Reese |
+| 403 | 196 | Alexandra Reese |
+| 404 | 196 | Cass Shirley |
 | 405 | 195 | Snappy Shatterfit |
 | 406 | 195 | Emily Lyric Converse |
 | 407 | 194 | Kimberly Ann |
@@ -422,8 +422,8 @@
 | 414 | 191 | Deana |
 | 415 | 191 | Sho Nuff |
 | 416 | 191 | John Quiring |
-| 417 | 190 | Layna Lyons |
-| 418 | 190 | Jessica Kaye DeAguero |
+| 417 | 190 | Jessica Kaye DeAguero |
+| 418 | 190 | Layna Lyons |
 | 419 | 189 | Alishac Marie |
 | 420 | 188 | Seth Wrieden |
 | 421 | 188 | Justin Hines |
@@ -493,8 +493,8 @@
 | 485 | 162 | Andrea Maher |
 | 486 | 160 | Marcie McLain Dodd |
 | 487 | 160 | Unica Rector |
-| 488 | 160 | Gary Schaffner Jr. |
-| 489 | 160 | Cynthia Ward |
+| 488 | 160 | Cynthia Ward |
+| 489 | 160 | Gary Schaffner Jr. |
 | 490 | 160 | Rhonda Petro |
 | 491 | 160 | Amy Reynolds |
 | 492 | 159 | Bee |
@@ -518,8 +518,8 @@
 | 510 | 156 | Deanna Morton |
 | 511 | 155 | Angela Murgia-Owen |
 | 512 | 155 | Cris cris |
-| 513 | 155 | Monarca26 |
-| 514 | 155 | Chelle |
+| 513 | 155 | Chelle |
+| 514 | 155 | Monarca26 |
 | 515 | 154 | Bryan Werleman |
 | 516 | 154 | Tiffney Wroten |
 | 517 | 154 | Lydia Greenman |
@@ -541,8 +541,8 @@
 | 533 | 150 | Josh Dill |
 | 534 | 149 | Boldy Cascadepiece |
 | 535 | 149 | Leslie Porter |
-| 536 | 149 | Brianna Cerney |
-| 537 | 149 | Melissa Rebbe-Lehman |
+| 536 | 149 | Melissa Rebbe-Lehman |
+| 537 | 149 | Brianna Cerney |
 | 538 | 148 | Cleo Sims |
 | 539 | 148 | AgileDragon |
 | 540 | 147 | Smiley Strike |
@@ -558,8 +558,8 @@
 | 550 | 145 | Steve Man |
 | 551 | 145 | Lazy Riseclear |
 | 552 | 145 | Anastacio Hernandez |
-| 553 | 144 | RavensBeard |
-| 554 | 144 | Tee Davis |
+| 553 | 144 | Tee Davis |
+| 554 | 144 | RavensBeard |
 | 555 | 144 | Tristan Lamothe |
 | 556 | 144 | Alexis Richardson |
 | 557 | 144 | Mandi Douglas Hilt |
@@ -676,8 +676,8 @@
 | 668 | 124 | Tommy Stuck |
 | 669 | 124 | Kendall Fullerton |
 | 670 | 124 | Samantha Williams-Bittner |
-| 671 | 124 | Witty Piecebuilder |
-| 672 | 124 | Jazzy Grabber |
+| 671 | 124 | Jazzy Grabber |
+| 672 | 124 | Witty Piecebuilder |
 | 673 | 123 | Elizabeth Ann Arrowood |
 | 674 | 123 | DeeDee |
 | 675 | 123 | Andre Love |
@@ -737,8 +737,8 @@
 | 729 | 114 | James Louie |
 | 730 | 114 | Kimberly Mcmullen |
 | 731 | 113 | Hillary Franklin |
-| 732 | 113 | Della Hole |
-| 733 | 113 | Brave Gridzone |
+| 732 | 113 | Brave Gridzone |
+| 733 | 113 | Della Hole |
 | 734 | 113 | Amanda Michelle Pigeon |
 | 735 | 113 | Renee Bowers |
 | 736 | 112 | Kaytlyn Brown |
