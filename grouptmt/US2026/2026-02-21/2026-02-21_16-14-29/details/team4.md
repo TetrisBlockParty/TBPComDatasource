@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Dizzy Tiley |
-| 78 | 211 | Casey Grabner |
+| 77 | 211 | Casey Grabner |
+| 78 | 211 | Dizzy Tiley |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -135,8 +135,8 @@
 | 127 | 140 | Jenna McGeorge |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
-| 130 | 136 | Serena Goodridge |
-| 131 | 136 | Tanner Lund |
+| 130 | 136 | Tanner Lund |
+| 131 | 136 | Serena Goodridge |
 | 132 | 135 | ĥuf |
 | 133 | 134 | Chirpy Basepiece |
 | 134 | 132 | Degenerate |
@@ -157,14 +157,14 @@
 | 149 | 122 | Sherri |
 | 150 | 122 | Carlos Ramirez |
 | 151 | 121 | Megan Cutshaw |
-| 152 | 121 | Zany Shatterer |
-| 153 | 121 | Smiley Tiltbuilder |
+| 152 | 121 | Smiley Tiltbuilder |
+| 153 | 121 | Zany Shatterer |
 | 154 | 120 | Joshua Guess |
-| 155 | 119 | Gwendolyn Pitcairn |
-| 156 | 119 | Kristin Manee |
+| 155 | 119 | Kristin Manee |
+| 156 | 119 | Gwendolyn Pitcairn |
 | 157 | 116 | Diana Houts |
-| 158 | 115 | Jayk |
-| 159 | 115 | Ultramarine |
+| 158 | 115 | Ultramarine |
+| 159 | 115 | Jayk |
 | 160 | 113 | Adam Randall |
 | 161 | 112 | Bryan Hodgins |
 | 162 | 112 | Zesty Twistbuilder |
@@ -196,8 +196,8 @@
 | 188 | 99 | Michael Orris |
 | 189 | 99 | Anthony Bryan Riva |
 | 190 | 98 | Duck |
-| 191 | 98 | Shane Kalamata Platoon |
-| 192 | 98 | Jeremy Steines |
+| 191 | 98 | Jeremy Steines |
+| 192 | 98 | Shane Kalamata Platoon |
 | 193 | 97 | Brandi Durig |
 | 194 | 96 | Marcus TheeyoungWoe Gilmore |
 | 195 | 96 | Zappy Snaplink |

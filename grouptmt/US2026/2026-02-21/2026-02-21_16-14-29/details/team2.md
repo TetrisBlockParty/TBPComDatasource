@@ -206,9 +206,9 @@
 | 198 | 496 | Ashie Ann |
 | 199 | 495 | Poppy Snap |
 | 200 | 486 | MrsCandyfine As Wine Truss |
-| 201 | 485 | Leah Keesling |
-| 202 | 485 | Lylymom |
-| 203 | 485 | Gene Mills |
+| 201 | 485 | Lylymom |
+| 202 | 485 | Gene Mills |
+| 203 | 485 | Leah Keesling |
 | 204 | 484 | Suki Kaur |
 | 205 | 483 | Jordan Kaiser |
 | 206 | 482 | Eckoman518 |
@@ -309,8 +309,8 @@
 | 301 | 340 | Felicia Lynn |
 | 302 | 338 | Mr. Street Stack |
 | 303 | 335 | Brooke Leigh Strube |
-| 304 | 334 | Véronique Lévesque Sabourin |
-| 305 | 334 | Moni Foxe |
+| 304 | 334 | Moni Foxe |
+| 305 | 334 | Véronique Lévesque Sabourin |
 | 306 | 333 | Brittney Jean |
 | 307 | 333 | ShinyRose |
 | 308 | 332 | TF Dyer |

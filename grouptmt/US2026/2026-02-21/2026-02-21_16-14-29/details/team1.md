@@ -78,8 +78,8 @@
 | 70 | 222 | Kristen Gideon |
 | 71 | 217 | Deanna L Hermanson |
 | 72 | 216 | Dee Perry |
-| 73 | 212 | Jaimie Lynn |
-| 74 | 212 | Mandyy Rae |
+| 73 | 212 | Mandyy Rae |
+| 74 | 212 | Jaimie Lynn |
 | 75 | 211 | Marianita Garcia |
 | 76 | 211 | Billie Dawn Sparks |
 | 77 | 210 | Ly Phethmany |
@@ -88,8 +88,8 @@
 | 80 | 201 | Anaid Sanchez |
 | 81 | 201 | Ananda Mendez |
 | 82 | 200 | Giggly Builderline |
-| 83 | 198 | Happy Snapbuild |
-| 84 | 198 | Brandi Huntington |
+| 83 | 198 | Brandi Huntington |
+| 84 | 198 | Happy Snapbuild |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | Lachelle Dillon |
 | 87 | 192 | Shaykmia |
@@ -108,8 +108,8 @@
 | 100 | 178 | Chad Atchley |
 | 101 | 173 | Frothy Pattern |
 | 102 | 173 | june october |
-| 103 | 171 | Greg Premoe |
-| 104 | 171 | David DeSantis |
+| 103 | 171 | David DeSantis |
+| 104 | 171 | Greg Premoe |
 | 105 | 169 | Abbey Crespo |
 | 106 | 166 | Rico Rico |
 | 107 | 166 | Tana |
@@ -156,8 +156,8 @@
 | 148 | 128 | lil mickey |
 | 149 | 127 | Brave Wrecker |
 | 150 | 127 | Aimee Horton |
-| 151 | 124 | Speedy Snapfall |
-| 152 | 124 | Cartier |
+| 151 | 124 | Cartier |
+| 152 | 124 | Speedy Snapfall |
 | 153 | 124 | Flashy Rotator |
 | 154 | 122 | Melissa Lemmon |
 | 155 | 121 | Tipsy Riseclear |

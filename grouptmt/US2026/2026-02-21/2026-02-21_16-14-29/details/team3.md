@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Sissy Lowery Davis |
@@ -372,9 +372,9 @@
 | 364 | 80 | Me,Him,Yu |
 | 365 | 80 | Vixen Queen |
 | 366 | 79 | Bleu Sun Beams |
-| 367 | 79 | Mike Spritzer |
-| 368 | 79 | Jessie Chung |
-| 369 | 79 | Brittany K Ward |
+| 367 | 79 | Jessie Chung |
+| 368 | 79 | Brittany K Ward |
+| 369 | 79 | Mike Spritzer |
 | 370 | 78 | Nena Somerville Kelly |
 | 371 | 78 | Sabrina Mansfield |
 | 372 | 78 | Clever Patterner |
