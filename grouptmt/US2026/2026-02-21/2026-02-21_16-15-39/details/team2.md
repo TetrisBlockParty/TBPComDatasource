@@ -260,8 +260,8 @@
 | 252 | 396 | Stefanie Zonzini-Gagliardi |
 | 253 | 393 | Taylor Flowers |
 | 254 | 393 | Altamirano Michael |
-| 255 | 391 | Brenda Utphall |
-| 256 | 391 | Chilly Bridgepiece |
+| 255 | 391 | Chilly Bridgepiece |
+| 256 | 391 | Brenda Utphall |
 | 257 | 391 | Qiana Sanders |
 | 258 | 390 | Kimberly Randesi |
 | 259 | 386 | Macy Williams |
@@ -283,16 +283,16 @@
 | 275 | 364 | Brandon Armstrong |
 | 276 | 363 | William Meussner |
 | 277 | 362 | AkaLefty |
-| 278 | 359 | Mighty Shatterfit |
-| 279 | 359 | Johnny Yeates |
+| 278 | 359 | Johnny Yeates |
+| 279 | 359 | Mighty Shatterfit |
 | 280 | 358 | Smashanator |
 | 281 | 358 | Alyssaaelena |
 | 282 | 357 | Shannon Byrd |
 | 283 | 357 | Julie Kresal |
 | 284 | 355 | Shandrica Lowe |
 | 285 | 355 | Kristen O'Neal |
-| 286 | 354 | Brave Dropmatch |
-| 287 | 354 | Tracy Wise |
+| 286 | 354 | Tracy Wise |
+| 287 | 354 | Brave Dropmatch |
 | 288 | 353 | Cheery Matchzone |
 | 289 | 352 | Juanita Lyons |
 | 290 | 352 | ruth |
@@ -309,8 +309,8 @@
 | 301 | 340 | Felicia Lynn |
 | 302 | 338 | Mr. Street Stack |
 | 303 | 335 | Brooke Leigh Strube |
-| 304 | 334 | Véronique Lévesque Sabourin |
-| 305 | 334 | Moni Foxe |
+| 304 | 334 | Moni Foxe |
+| 305 | 334 | Véronique Lévesque Sabourin |
 | 306 | 333 | Brittney Jean |
 | 307 | 333 | ShinyRose |
 | 308 | 332 | TF Dyer |

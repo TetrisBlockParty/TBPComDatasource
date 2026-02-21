@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -145,11 +145,11 @@
 | 137 | 132 | Jessica Cagle |
 | 138 | 130 | Casey Jeffcoat |
 | 139 | 129 | John Brunetti |
-| 140 | 128 | Stephme310 |
-| 141 | 128 | Rio Rocha |
+| 140 | 128 | Rio Rocha |
+| 141 | 128 | Stephme310 |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | Dihcheese444 |
-| 144 | 126 | TinyLegoRose |
+| 143 | 126 | TinyLegoRose |
+| 144 | 126 | Dihcheese444 |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Cherrish Duren |
@@ -181,7 +181,7 @@
 | 173 | 105 | TheNeesh50 |
 | 174 | 105 | Kristin MacDonald |
 | 175 | 105 | 🥔🥔 Spudz |
-| 176 | 105 | TheNeesh50 |
+| 176 | 105 | Sam Middleton |
 | 177 | 104 | Damn Libra |
 | 178 | 103 | Judy Cox |
 | 179 | 103 | April Rondinone |
@@ -199,7 +199,7 @@
 | 191 | 98 | Jeremy Steines |
 | 192 | 98 | Duck |
 | 193 | 97 | Brandi Durig |
-| 194 | 96 | Marcus TheeyoungWoe Gilmore |
+| 194 | 96 | Adam Stephanie Parker |
 | 195 | 96 | Zappy Snaplink |
 | 196 | 96 | Sammy Noguera |
 | 197 | 96 | Marcus TheeyoungWoe Gilmore |

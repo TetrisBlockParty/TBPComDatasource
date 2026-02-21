@@ -102,17 +102,17 @@
 | 94 | 349 | Makelini Mausia |
 | 95 | 344 | Joey Banks |
 | 96 | 332 | Chauntee Alfrey-Cardinale |
-| 97 | 323 | Ashley Raines |
-| 98 | 323 | Sherry Ogden |
+| 97 | 323 | Sherry Ogden |
+| 98 | 323 | Ashley Raines |
 | 99 | 320 | Or Reznitsky |
 | 100 | 316 | Fancy Cascader |
-| 101 | 309 | Rich LeBlanc |
-| 102 | 309 | CeceGeGe |
+| 101 | 309 | CeceGeGe |
+| 102 | 309 | Rich LeBlanc |
 | 103 | 307 | Blocked |
 | 104 | 307 | Peggi Charon |
 | 105 | 306 | Speedy Bridger |
-| 106 | 300 | Tessina Dewey-Mancino |
-| 107 | 300 | Sherika C. McDaniels |
+| 106 | 300 | Sherika C. McDaniels |
+| 107 | 300 | Tessina Dewey-Mancino |
 | 108 | 293 | Poppy Splitter |
 | 109 | 284 | Jay Horn |
 | 110 | 267 | Rufus Lincoln |
@@ -159,8 +159,8 @@
 | 151 | 193 | Duane Bright |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
-| 154 | 189 | Sissy Lowery Davis |
-| 155 | 189 | Staci George Fitzsimmons |
+| 154 | 189 | Staci George Fitzsimmons |
+| 155 | 189 | Sissy Lowery Davis |
 | 156 | 189 | Fallorina Susana |
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
@@ -240,8 +240,8 @@
 | 232 | 124 | Funky Jumper |
 | 233 | 124 | Danielle Allison |
 | 234 | 123 | Michael Latasha Gray |
-| 235 | 122 | BabyTonj Evans |
-| 236 | 122 | Giggly Brickroll |
+| 235 | 122 | Giggly Brickroll |
+| 236 | 122 | BabyTonj Evans |
 | 237 | 121 | Loopy Clusterer |
 | 238 | 121 | mzcatzy |
 | 239 | 120 | Eon Harris |
@@ -271,8 +271,8 @@
 | 263 | 109 | Fredd Thomas |
 | 264 | 109 | Diana Ibarra |
 | 265 | 109 | mommablock |
-| 266 | 108 | LaTanya GeminiondaRise Johnson |
-| 267 | 108 | Rachel Napper |
+| 266 | 108 | Rachel Napper |
+| 267 | 108 | LaTanya GeminiondaRise Johnson |
 | 268 | 108 | Hanna Kim |
 | 269 | 107 | Jumpy Wrecker |
 | 270 | 107 | Rachel |

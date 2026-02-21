@@ -70,8 +70,8 @@
 | 62 | 256 | Tipsy Column |
 | 63 | 252 | Dena Kayy |
 | 64 | 249 | Rachael |
-| 65 | 244 | Tdub |
-| 66 | 244 | Franswa |
+| 65 | 244 | Franswa |
+| 66 | 244 | Tdub |
 | 67 | 241 | Patrick Luckenbill |
 | 68 | 237 | Elaine Elaine |
 | 69 | 226 | Sharon Reynolds |
@@ -85,11 +85,11 @@
 | 77 | 210 | Ly Phethmany |
 | 78 | 205 | Trippy Redd |
 | 79 | 204 | Lexuriuos Lifestlye |
-| 80 | 201 | Anaid Sanchez |
-| 81 | 201 | Ananda Mendez |
+| 80 | 201 | Ananda Mendez |
+| 81 | 201 | Anaid Sanchez |
 | 82 | 200 | Giggly Builderline |
-| 83 | 198 | Happy Snapbuild |
-| 84 | 198 | Brandi Huntington |
+| 83 | 198 | Brandi Huntington |
+| 84 | 198 | Happy Snapbuild |
 | 85 | 197 | Cynthia Bradley |
 | 86 | 193 | TSwag |
 | 87 | 193 | Lachelle Dillon |
