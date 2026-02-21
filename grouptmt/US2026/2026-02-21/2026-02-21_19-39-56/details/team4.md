@@ -34,8 +34,8 @@
 | 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -129,9 +129,9 @@
 | 121 | 173 | Ren Mc |
 | 122 | 173 | blockstar |
 | 123 | 170 | Girl |
-| 124 | 164 | ThaEviLJeNiuZ |
-| 125 | 164 | 030Synner |
-| 126 | 164 | Chaz Duncan |
+| 124 | 164 | Chaz Duncan |
+| 125 | 164 | ThaEviLJeNiuZ |
+| 126 | 164 | 030Synner |
 | 127 | 160 | ZeeZee |
 | 128 | 157 | Jenna McGeorge |
 | 129 | 157 | quicksand420 |
@@ -161,14 +161,14 @@
 | 153 | 136 | Tanner Lund |
 | 154 | 136 | Serena Goodridge |
 | 155 | 135 | Victoria Faniel |
-| 156 | 134 | Chirpy Basepiece |
+| 156 | 134 | Kim Klutz Olson |
 | 157 | 134 | Zany Shatterer |
-| 158 | 134 | Kim Klutz Olson |
-| 159 | 133 | Mylo Lipscomb |
-| 160 | 133 | Angela Geist Jusinski |
-| 161 | 132 | Degenerate |
-| 162 | 132 | Melissa Priest Sellers |
-| 163 | 132 | Jessica Cagle |
+| 158 | 134 | Chirpy Basepiece |
+| 159 | 133 | Angela Geist Jusinski |
+| 160 | 133 | Mylo Lipscomb |
+| 161 | 132 | Melissa Priest Sellers |
+| 162 | 132 | Jessica Cagle |
+| 163 | 132 | Degenerate |
 | 164 | 130 | Casey Jeffcoat |
 | 165 | 129 | Crystal Nicolette Moore |
 | 166 | 129 | Dreamy Snapgrid |
