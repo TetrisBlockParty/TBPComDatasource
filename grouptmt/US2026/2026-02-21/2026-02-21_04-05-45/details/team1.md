@@ -88,8 +88,8 @@
 | 80 | 119 | Irual Hctrab |
 | 81 | 116 | Kristen Roles Robben |
 | 82 | 115 | comrade fish |
-| 83 | 114 | Giddy Cascade |
-| 84 | 114 | Colleen Wise |
+| 83 | 114 | Colleen Wise |
+| 84 | 114 | Giddy Cascade |
 | 85 | 112 | Miguel Teixeira |
 | 86 | 112 | Kristen Gideon |
 | 87 | 112 | Christina Graham |
@@ -99,8 +99,8 @@
 | 91 | 110 | Heidi Feurer |
 | 92 | 108 | Tavia |
 | 93 | 107 | Jodee Woods |
-| 94 | 105 | Barry Mac'Ockner |
-| 95 | 105 | Flashy Rotator |
+| 94 | 105 | Flashy Rotator |
+| 95 | 105 | Barry Mac'Ockner |
 | 96 | 103 | Ash Galvan |
 | 97 | 102 | Happy Snapbuild |
 | 98 | 102 | Jennifer ManWarren |
@@ -154,8 +154,8 @@
 | 146 | 73 | Shanae Grant |
 | 147 | 73 | Tipsy Riseclear |
 | 148 | 72 | Tipsy Strikerpiece |
-| 149 | 71 | John Kim |
-| 150 | 71 | Brandi Egbert |
+| 149 | 71 | Brandi Egbert |
+| 150 | 71 | John Kim |
 | 151 | 70 | Seth Wesson |
 | 152 | 70 | Daring Fitclear |
 | 153 | 69 | Christina Torres |

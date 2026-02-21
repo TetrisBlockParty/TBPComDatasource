@@ -211,16 +211,16 @@
 | 203 | 273 | Missie Lawson Gebhardt |
 | 204 | 271 | Oscar Bernie |
 | 205 | 271 | Ann Marie Davis |
-| 206 | 271 | Lonne Emade |
-| 207 | 271 | Toni Lynn |
+| 206 | 271 | Toni Lynn |
+| 207 | 271 | Lonne Emade |
 | 208 | 270 | Alexandra Weir |
 | 209 | 268 | Vanessa Moreno |
 | 210 | 267 | Mindy Leigh Head |
 | 211 | 266 | Mighty Shatterfit |
 | 212 | 266 | Autumn Schaeffer |
 | 213 | 266 | Joyce Johnson Vaughn |
-| 214 | 263 | Taylor Flowers |
-| 215 | 263 | August Hale |
+| 214 | 263 | August Hale |
+| 215 | 263 | Taylor Flowers |
 | 216 | 262 | Taren Cowan |
 | 217 | 261 | MrsClaudette Will'sIam Matthews |
 | 218 | 261 | Ann Matzkanin |
@@ -316,8 +316,8 @@
 | 308 | 191 | Sho Nuff |
 | 309 | 191 | Lauren Fitzgerald Thomas |
 | 310 | 190 | blarg |
-| 311 | 188 | Brave Gridpiece |
-| 312 | 188 | Justin Hines |
+| 311 | 188 | Justin Hines |
+| 312 | 188 | Brave Gridpiece |
 | 313 | 187 | Shelley Thornburgh Wright |
 | 314 | 186 | Joshua Mullings |
 | 315 | 184 | Sassy Linkbuilder |
@@ -421,11 +421,11 @@
 | 413 | 142 | Joy LaJeunesse |
 | 414 | 142 | Angela Lynn |
 | 415 | 141 | Erika Meaux |
-| 416 | 141 | Kimmy Newman |
-| 417 | 141 | Markisha Poyndexter |
+| 416 | 141 | Markisha Poyndexter |
+| 417 | 141 | Kimmy Newman |
 | 418 | 140 | King Shamell Young |
-| 419 | 140 | Preya Patel |
-| 420 | 140 | Kimberly Ann |
+| 419 | 140 | Kimberly Ann |
+| 420 | 140 | Preya Patel |
 | 421 | 139 | Jackson Smith |
 | 422 | 139 | Octavio Garza |
 | 423 | 138 | Gursharan Sandhu |

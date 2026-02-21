@@ -127,10 +127,10 @@
 | 119 | 131 | Emma |
 | 120 | 129 | Giddy Twistbuilder |
 | 121 | 128 | Angel Mendez |
-| 122 | 127 | Aerian Preston |
-| 123 | 127 | Marquita Sheard |
-| 124 | 126 | Brandon Green |
-| 125 | 126 | Dan Rob |
+| 122 | 127 | Marquita Sheard |
+| 123 | 127 | Aerian Preston |
+| 124 | 126 | Dan Rob |
+| 125 | 126 | Brandon Green |
 | 126 | 125 | Felicia Doxey |
 | 127 | 125 | Stephanie Simpson |
 | 128 | 123 | Kristie McFarland |
