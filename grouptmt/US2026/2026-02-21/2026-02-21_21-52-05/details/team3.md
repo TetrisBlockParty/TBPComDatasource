@@ -66,8 +66,8 @@
 | 58 | 597 | Elaine Webb Graves |
 | 59 | 591 | Suzieq |
 | 60 | 588 | yoyo |
-| 61 | 582 | Natasha Jones |
-| 62 | 582 | Katrina Schroeder |
+| 61 | 582 | Katrina Schroeder |
+| 62 | 582 | Natasha Jones |
 | 63 | 581 | Danielle Mogg |
 | 64 | 580 | Amanda L Baker |
 | 65 | 566 | Dan Rob |
@@ -104,8 +104,8 @@
 | 96 | 394 | Mcathen |
 | 97 | 392 | Michelle |
 | 98 | 391 | Calista Jo Dickson |
-| 99 | 390 | Annie Déè |
-| 100 | 390 | Hasty Cascadefit |
+| 99 | 390 | Hasty Cascadefit |
+| 100 | 390 | Annie Déè |
 | 101 | 389 | Elissa S-k |
 | 102 | 386 | Katie Knaus |
 | 103 | 384 | Shannon Matthew Byers |
@@ -144,8 +144,8 @@
 | 136 | 278 | Rufus Lincoln |
 | 137 | 276 | Crimson |
 | 138 | 272 | opf |
-| 139 | 271 | Ashley Muncey |
-| 140 | 271 | Leah Barnett |
+| 139 | 271 | Leah Barnett |
+| 140 | 271 | Ashley Muncey |
 | 141 | 267 | Denise Nardoni |
 | 142 | 266 | Marci Mize Fandrich |
 | 143 | 263 | Angeline Joseph |
@@ -242,8 +242,8 @@
 | 234 | 159 | Jone |
 | 235 | 159 | Daryn Elliott |
 | 236 | 157 | Katrina E Jelks |
-| 237 | 157 | Sabrina Hardrick |
-| 238 | 157 | Patricia Gadsden |
+| 237 | 157 | Patricia Gadsden |
+| 238 | 157 | Sabrina Hardrick |
 | 239 | 155 | Annie Marie |
 | 240 | 155 | Loopy Fallzone |
 | 241 | 154 | Laurie Allen |

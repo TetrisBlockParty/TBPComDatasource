@@ -230,9 +230,9 @@
 | 222 | 549 | Charvi' Carter |
 | 223 | 549 | Kaylee McCafferty |
 | 224 | 543 | Adira Brown |
-| 225 | 541 | SaraMarie Eveland |
-| 226 | 541 | Giggy Blocker |
-| 227 | 541 | Desiree Harris Rosch |
+| 225 | 541 | Desiree Harris Rosch |
+| 226 | 541 | SaraMarie Eveland |
+| 227 | 541 | Giggy Blocker |
 | 228 | 540 | Teresa Gillmore |
 | 229 | 537 | Slip |
 | 230 | 535 | Paul Huber |

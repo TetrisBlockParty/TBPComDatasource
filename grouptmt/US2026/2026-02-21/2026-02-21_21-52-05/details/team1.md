@@ -202,8 +202,8 @@
 | 194 | 128 | Barry Mac'Ockner |
 | 195 | 128 | lil mickey |
 | 196 | 126 | Tami Luce Martin |
-| 197 | 125 | Larry Tilton |
-| 198 | 125 | Fmp |
+| 197 | 125 | Fmp |
+| 198 | 125 | Larry Tilton |
 | 199 | 124 | Cartier |
 | 200 | 123 | MRdot Rooski |
 | 201 | 122 | Margo Wagner |
@@ -275,10 +275,10 @@
 | 267 | 95 | Jeanna Dunn |
 | 268 | 94 | Mitchel White |
 | 269 | 92 | Christina Backer |
-| 270 | 91 | Virginia Gray Floyd |
+| 270 | 91 | Beazel75 |
 | 271 | 91 | Erin Hodges Plumb |
-| 272 | 91 | Beazel75 |
-| 273 | 90 | Bob |
+| 272 | 91 | Virginia Gray Floyd |
+| 273 | 90 | Jam |
 | 274 | 90 | Grace Joanne Agnant |
 | 275 | 90 | Daring Fitclear |
 | 276 | 90 | Nick R Montague |

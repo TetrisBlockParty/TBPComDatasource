@@ -103,8 +103,8 @@
 | 95 | 225 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -131,9 +131,9 @@
 | 123 | 185 | Peachy Fall |
 | 124 | 185 | Andy Cabral |
 | 125 | 184 | Justin Hannigan |
-| 126 | 181 | Savannah Overdorf |
-| 127 | 181 | Andria Lynn |
-| 128 | 181 | Carter Jones |
+| 126 | 181 | Andria Lynn |
+| 127 | 181 | Carter Jones |
+| 128 | 181 | Savannah Overdorf |
 | 129 | 180 | Leah Kutz Zirbel |
 | 130 | 178 | Lori |
 | 131 | 176 | Stacey Stano |
@@ -279,8 +279,8 @@
 | 271 | 92 | Zippy Gridlock |
 | 272 | 91 | Sunny Filler |
 | 273 | 91 | wombat |
-| 274 | 90 | Thomas Hettenhaus |
-| 275 | 90 | Carol Ricks Raymond |
+| 274 | 90 | Carol Ricks Raymond |
+| 275 | 90 | Thomas Hettenhaus |
 | 276 | 90 | Hyper Builder |
 | 277 | 89 | bloat princess |
 | 278 | 89 | Jonathan Mahfood |
@@ -361,7 +361,7 @@
 | 353 | 70 | PlatinumRose |
 | 354 | 70 | Niome Encinias |
 | 355 | 69 | Beth Helms |
-| 356 | 69 | Frisky Column |
+| 356 | 69 | Meli  Jackson |
 | 357 | 69 | Jessica Wells |
 | 358 | 69 | Frisky Column |
 | 359 | 68 | 中山成巳 |
