@@ -119,10 +119,10 @@
 | 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
-| 114 | 133 | Brandi Huntington |
-| 115 | 133 | Breanna Luna |
-| 116 | 132 | LaQuetta Faith Hines |
-| 117 | 132 | Davery Spencer Adair |
+| 114 | 133 | Breanna Luna |
+| 115 | 133 | Brandi Huntington |
+| 116 | 132 | Davery Spencer Adair |
+| 117 | 132 | LaQuetta Faith Hines |
 | 118 | 131 | Uhog SF |
 | 119 | 130 | Dandy Basegrid |
 | 120 | 129 | Dino |

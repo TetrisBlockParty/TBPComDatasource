@@ -35,8 +35,8 @@
 | 27 | 821 | Jennifer Willis |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Shane Wilson Jr. |
-| 31 | 810 | Zippy Strikesnap |
+| 30 | 810 | Zippy Strikesnap |
+| 31 | 810 | Shane Wilson Jr. |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Trezure Gonzalez |
-| 76 | 342 | Annie Déè |
+| 75 | 342 | Annie Déè |
+| 76 | 342 | Trezure Gonzalez |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |

@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
