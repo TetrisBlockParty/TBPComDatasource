@@ -104,8 +104,8 @@
 | 96 | 230 | Autum Leigh |
 | 97 | 222 | Joeliecea Cobb |
 | 98 | 221 | Alyssa Papen |
-| 99 | 218 | Casey Grabner |
-| 100 | 218 | Denise Carlson |
+| 99 | 218 | Denise Carlson |
+| 100 | 218 | Casey Grabner |
 | 101 | 218 | Antony Dwayne Beasley |
 | 102 | 215 | Dustee Craddock-Harrison |
 | 103 | 213 | Chaz Duncan |
@@ -164,8 +164,8 @@
 | 156 | 145 | Daria Rycewicz |
 | 157 | 144 | Mr. Party |
 | 158 | 141 | Malakai Darien Fox |
-| 159 | 141 | ĥuf |
-| 160 | 141 | Marcus Todd |
+| 159 | 141 | Marcus Todd |
+| 160 | 141 | ĥuf |
 | 161 | 141 | Kathy Allen |
 | 162 | 140 | Shannon Ferrari |
 | 163 | 140 | AyeKay |
@@ -267,8 +267,8 @@
 | 259 | 97 | Rosemary Foster |
 | 260 | 97 | Meagan Nicole |
 | 261 | 97 | Marcela Johnson |
-| 262 | 96 | Marcus TheeyoungWoe Gilmore |
-| 263 | 96 | Jessica Miller |
+| 262 | 96 | Jessica Miller |
+| 263 | 96 | Marcus TheeyoungWoe Gilmore |
 | 264 | 96 | Sammy Noguera |
 | 265 | 95 | LS |
 | 266 | 95 | Tina Martinez |
@@ -292,8 +292,8 @@
 | 284 | 88 | Kesha Brady |
 | 285 | 88 | Michelle Parker |
 | 286 | 87 | Alan George LaRage |
-| 287 | 86 | Joseph Edmonson |
-| 288 | 86 | Tony Pavelka |
+| 287 | 86 | Tony Pavelka |
+| 288 | 86 | Joseph Edmonson |
 | 289 | 86 | BigSammy420 |
 | 290 | 86 | Destiney Carter |
 | 291 | 86 | amy |
@@ -304,9 +304,9 @@
 | 296 | 85 | Joseph Gray |
 | 297 | 85 | conceptCollector |
 | 298 | 85 | Tim Knight-ten |
-| 299 | 84 | Ruben Wheeler |
-| 300 | 84 | Jen Hallin |
-| 301 | 84 | Jennifer Renee |
+| 299 | 84 | Jennifer Renee |
+| 300 | 84 | Ruben Wheeler |
+| 301 | 84 | Jen Hallin |
 | 302 | 84 | mini |
 | 303 | 83 | Abigail Murphy |
 | 304 | 83 | Daresha Fair |

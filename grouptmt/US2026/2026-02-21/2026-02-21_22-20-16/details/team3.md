@@ -102,16 +102,16 @@
 | 94 | 403 | Christine Filson |
 | 95 | 402 | Stephanie Simpson |
 | 96 | 397 | Mcathen |
-| 97 | 394 | joclisa |
-| 98 | 394 | Annie Déè |
+| 97 | 394 | Annie Déè |
+| 98 | 394 | joclisa |
 | 99 | 393 | Elissa S-k |
 | 100 | 392 | Michelle |
 | 101 | 391 | Calista Jo Dickson |
 | 102 | 390 | Hasty Cascadefit |
 | 103 | 386 | Katie Knaus |
 | 104 | 384 | Shannon Matthew Byers |
-| 105 | 378 | Makelini Mausia |
-| 106 | 378 | Tasha Schriewer |
+| 105 | 378 | Tasha Schriewer |
+| 106 | 378 | Makelini Mausia |
 | 107 | 377 | Jesse Olive |
 | 108 | 372 | Jessica Bechler |
 | 109 | 368 | Stephanie Woods |
@@ -233,8 +233,8 @@
 | 225 | 175 | Latoya Mayne |
 | 226 | 174 | Marquita Sheard |
 | 227 | 172 | Grams |
-| 228 | 169 | BŘŰŤİÇŨŚ |
-| 229 | 169 | Emma |
+| 228 | 169 | Emma |
+| 229 | 169 | BŘŰŤİÇŨŚ |
 | 230 | 168 | MsBee |
 | 231 | 166 | Betty Rosas |
 | 232 | 166 | Beth Ingham |

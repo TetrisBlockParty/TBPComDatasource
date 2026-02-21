@@ -184,8 +184,8 @@
 | 176 | 142 | Colleen Wise |
 | 177 | 141 | Blaire Bruckoff |
 | 178 | 140 | Miguel Teixeira |
-| 179 | 139 | Jenny Gingrich Fuentes |
-| 180 | 139 | Flashy Rotator |
+| 179 | 139 | Flashy Rotator |
+| 180 | 139 | Jenny Gingrich Fuentes |
 | 181 | 138 | Death |
 | 182 | 137 | Cody Gates |
 | 183 | 137 | Witty Builderfit |
