@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -137,8 +137,8 @@
 | 129 | 155 | Cece Ibarra |
 | 130 | 154 | Irual Hctrab |
 | 131 | 153 | Shiny Gridmatch |
-| 132 | 152 | Speedy Snapfall |
-| 133 | 152 | Jacqueline Unique |
+| 132 | 152 | Jacqueline Unique |
+| 133 | 152 | Speedy Snapfall |
 | 134 | 150 | Adele Rahman |
 | 135 | 149 | Arianna O'Brien |
 | 136 | 149 | Jennifer ManWarren |

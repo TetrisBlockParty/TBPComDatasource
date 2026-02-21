@@ -192,8 +192,8 @@
 | 184 | 541 | SaraMarie Eveland |
 | 185 | 541 | Giggy Blocker |
 | 186 | 535 | Jessie McDougald |
-| 187 | 534 | Stephen Stephen |
-| 188 | 534 | Teresa Gillmore |
+| 187 | 534 | Teresa Gillmore |
+| 188 | 534 | Stephen Stephen |
 | 189 | 531 | Chris Wanner |
 | 190 | 528 | Brownie Sheena |
 | 191 | 527 | Stacy Stickle |
@@ -1028,7 +1028,7 @@
 | 1020 | 123 | Goofy Catcher |
 | 1021 | 122 | Erika Deer Kauffman |
 | 1022 | 122 | Monica Stroud |
-| 1023 | 122 | Erika Deer Kauffman |
+| 1023 | 122 | MauroPRM |
 | 1024 | 122 | Chere Kelly |
 | 1025 | 122 | Smiley Filler |
 | 1026 | 122 | Rain |

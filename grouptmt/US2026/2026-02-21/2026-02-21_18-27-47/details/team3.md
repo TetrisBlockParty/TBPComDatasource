@@ -109,8 +109,8 @@
 | 101 | 344 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
-| 104 | 323 | Sherry Ogden |
-| 105 | 323 | Ashley Raines |
+| 104 | 323 | Ashley Raines |
+| 105 | 323 | Sherry Ogden |
 | 106 | 321 | Dapper Snap |
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
