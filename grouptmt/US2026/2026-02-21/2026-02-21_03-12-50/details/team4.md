@@ -79,7 +79,7 @@
 | 71 | 111 | Zany Shatterer |
 | 72 | 110 | H.R. Block |
 | 73 | 110 | John Brunetti |
-| 74 | 110 | H.R. Block |
+| 74 | 110 | Diana Houts |
 | 75 | 107 | Marcus Todd |
 | 76 | 103 | Sam Middleton |
 | 77 | 102 | Faja |
@@ -118,14 +118,14 @@
 | 110 | 80 | Melissa Adams |
 | 111 | 79 | 030Synner |
 | 112 | 79 | Shainne Brewer |
-| 113 | 78 | Zesty Linkgrid |
-| 114 | 78 | Chair |
-| 115 | 77 | Chris Alexinas |
-| 116 | 77 | Destiney Carter |
+| 113 | 78 | Chair |
+| 114 | 78 | Zesty Linkgrid |
+| 115 | 77 | Destiney Carter |
+| 116 | 77 | Chris Alexinas |
 | 117 | 76 | Jessica Miller |
 | 118 | 76 | Bethany Ison |
-| 119 | 75 | 🥔🥔 Spudz |
-| 120 | 75 | Rosemary Foster |
+| 119 | 75 | Rosemary Foster |
+| 120 | 75 | 🥔🥔 Spudz |
 | 121 | 73 | April Rondinone |
 | 122 | 72 | Lazy Blocker |
 | 123 | 72 | Shukee Lo |

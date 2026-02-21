@@ -182,8 +182,8 @@
 | 174 | 285 | June E Hanson |
 | 175 | 284 | Macy Williams |
 | 176 | 284 | Mamachelle Eisweirth |
-| 177 | 280 | TF Dyer |
-| 178 | 280 | Joseph Musick |
+| 177 | 280 | Joseph Musick |
+| 178 | 280 | TF Dyer |
 | 179 | 280 | Kimberly Schall |
 | 180 | 278 | Noel Tarmy |
 | 181 | 276 | Lindsey Leigh |
@@ -192,8 +192,8 @@
 | 184 | 274 | Ariel |
 | 185 | 273 | Missie Lawson Gebhardt |
 | 186 | 271 | Ann Marie Davis |
-| 187 | 271 | Toni Lynn |
-| 188 | 271 | Lonne Emade |
+| 187 | 271 | Lonne Emade |
+| 188 | 271 | Toni Lynn |
 | 189 | 269 | Janel Turley-Garner |
 | 190 | 268 | Vanessa Moreno |
 | 191 | 267 | Mindy Leigh Head |
@@ -333,8 +333,8 @@
 | 325 | 162 | Elizabeth Pearson |
 | 326 | 162 | Brenna Ann |
 | 327 | 161 | Dizzy Zone |
-| 328 | 160 | Rhonda Petro |
-| 329 | 160 | Cynthia Ward |
+| 328 | 160 | Cynthia Ward |
+| 329 | 160 | Rhonda Petro |
 | 330 | 160 | HarleyJane |
 | 331 | 159 | Phil J. Grombliniak |
 | 332 | 158 | Ashley Cooper Tharin |

@@ -46,8 +46,8 @@
 | 38 | 194 | Sharon Reynolds |
 | 39 | 192 | Mandyy Rae |
 | 40 | 191 | Jazzy Framezone |
-| 41 | 190 | Sweetts |
-| 42 | 190 | Thorne Shumate |
+| 41 | 190 | Thorne Shumate |
+| 42 | 190 | Sweetts |
 | 43 | 189 | Happy Basegrid |
 | 44 | 189 | Joe Smith |
 | 45 | 185 | Karin Gillen |
@@ -74,8 +74,8 @@
 | 66 | 128 | Uhog SF |
 | 67 | 126 | Cece Ibarra |
 | 68 | 125 | Rico Rico |
-| 69 | 124 | Trina Gee |
-| 70 | 124 | Billie Dawn Sparks |
+| 69 | 124 | Billie Dawn Sparks |
+| 70 | 124 | Trina Gee |
 | 71 | 119 | Irual Hctrab |
 | 72 | 117 | David DeSantis |
 | 73 | 116 | Kristen Roles Robben |

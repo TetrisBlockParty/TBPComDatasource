@@ -170,9 +170,9 @@
 | 162 | 93 | Tiffany Ford |
 | 163 | 92 | Jennifer Caputo |
 | 164 | 91 | Sarajane Lokan |
-| 165 | 90 | LaTanya GeminiondaRise Johnson |
+| 165 | 90 | Tiffany Kaupang |
 | 166 | 90 | Chauntee Alfrey-Cardinale |
-| 167 | 90 | Tiffany Kaupang |
+| 167 | 90 | LaTanya GeminiondaRise Johnson |
 | 168 | 90 | Eon Harris |
 | 169 | 90 | Rebel124 |
 | 170 | 89 | Hyper Bridger |
@@ -198,8 +198,8 @@
 | 190 | 78 | Clever Patterner |
 | 191 | 78 | Karon Griffin |
 | 192 | 78 | Boldy Blocker |
-| 193 | 78 | Angie Harper |
-| 194 | 78 | Nichole Greene |
+| 193 | 78 | Nichole Greene |
+| 194 | 78 | Angie Harper |
 | 195 | 77 | Denise Marie |
 | 196 | 77 | Rania Zaqout |
 | 197 | 77 | Lush Risebuilder |
@@ -280,7 +280,7 @@
 | 272 | 57 | Tammy Wooton-Taylor |
 | 273 | 57 | Keayn Smith |
 | 274 | 57 | Richard Rowell |
-| 275 | 57 | Keayn Smith |
+| 275 | 57 | Rachel |
 | 276 | 56 | Bastian Campbell |
 | 277 | 56 | Ernest Holloway |
 | 278 | 56 | Heather De Vries Cobb |
