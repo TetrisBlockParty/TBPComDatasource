@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -73,8 +73,8 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
 | 71 | 194 | Giggly Builderline |
 | 72 | 194 | Sharon Reynolds |
@@ -99,8 +99,8 @@
 | 91 | 155 | David DeSantis |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Arianna O'Brien |
-| 95 | 149 | Tana |
+| 94 | 149 | Tana |
+| 95 | 149 | Arianna O'Brien |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |

@@ -43,12 +43,12 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 544 | Stephanie Allmon |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
@@ -127,8 +127,8 @@
 | 119 | 195 | Jenny Hrndz |
 | 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
-| 122 | 193 | Stephanie Burtin |
-| 123 | 193 | Clever Shiftsnap |
+| 122 | 193 | Clever Shiftsnap |
+| 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -142,8 +142,8 @@
 | 134 | 178 | Khaleada McGill Banks |
 | 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Betty Rosas |
+| 137 | 166 | Betty Rosas |
+| 138 | 166 | Danielle Mogg |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
@@ -173,13 +173,13 @@
 | 165 | 146 | Latoya Mayne |
 | 166 | 145 | Bryan Byrd |
 | 167 | 142 | Erica Anderson |
-| 168 | 140 | Gumbo |
+| 168 | 140 | Carrie Huskey |
 | 169 | 140 | Jay Horn |
 | 170 | 140 | Tiffany Davie |
 | 171 | 140 | Gumbo |
 | 172 | 135 | Cheryl Hinch Tenbrook |
-| 173 | 134 | DanceLuvLaugh |
-| 174 | 134 | Emma |
+| 173 | 134 | Emma |
+| 174 | 134 | DanceLuvLaugh |
 | 175 | 133 | Connie Mohler-Fair |
 | 176 | 131 | Jl |
 | 177 | 129 | Logan Naccarato |
@@ -189,8 +189,8 @@
 | 181 | 127 | Marquita Sheard |
 | 182 | 127 | Aerian Preston |
 | 183 | 126 | Brandon Givens |
-| 184 | 125 | Felicia Doxey |
-| 185 | 125 | Shimika Enay Wallace |
+| 184 | 125 | Shimika Enay Wallace |
+| 185 | 125 | Felicia Doxey |
 | 186 | 124 | Cesar Barraza |
 | 187 | 123 | Sarajane Lokan |
 | 188 | 123 | Marci Mize Fandrich |
@@ -263,8 +263,8 @@
 | 255 | 96 | Hanna Kim |
 | 256 | 96 | Christopher Woost |
 | 257 | 95 | Brooke Bauer |
-| 258 | 94 | Andrew Thorson |
-| 259 | 94 | Angie Harper |
+| 258 | 94 | Angie Harper |
+| 259 | 94 | Andrew Thorson |
 | 260 | 93 | Tiffany Ford |
 | 261 | 92 | Ava Petito |
 | 262 | 92 | Trice Thomas |

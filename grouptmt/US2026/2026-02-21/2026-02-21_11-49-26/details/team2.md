@@ -13,8 +13,8 @@
 | 5 | 4359 | Sean Dugar |
 | 6 | 3844 | 赵珞涵 |
 | 7 | 3719 | Cassie Donica |
-| 8 | 3567 | Taylana Mincy |
-| 9 | 3567 | Rickey Goins Jr. |
+| 8 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Taylana Mincy |
 | 10 | 3460 | Poppy Snap |
 | 11 | 3453 | Tiaira Patrice' |
 | 12 | 3057 | Nicole Rowley |
@@ -518,8 +518,8 @@
 | 510 | 164 | Jessica Vega |
 | 511 | 163 | Lakeela Wise |
 | 512 | 163 | Danielle Ayoub |
-| 513 | 163 | Albert McKnight |
-| 514 | 163 | Angelica |
+| 513 | 163 | Angelica |
+| 514 | 163 | Albert McKnight |
 | 515 | 162 | LC Hamilton |
 | 516 | 162 | Lee Harper |
 | 517 | 162 | Chirpy Snapper |
@@ -549,10 +549,10 @@
 | 541 | 157 | Klee |
 | 542 | 156 | Nuggets |
 | 543 | 156 | Deanna Morton |
-| 544 | 156 | Renee Bowers |
-| 545 | 156 | RetroLemur |
-| 546 | 155 | Monarca26 |
-| 547 | 155 | Chelle |
+| 544 | 156 | RetroLemur |
+| 545 | 156 | Renee Bowers |
+| 546 | 155 | Chelle |
+| 547 | 155 | Monarca26 |
 | 548 | 155 | Cris cris |
 | 549 | 155 | Jacob Huffman |
 | 550 | 155 | Angela Murgia-Owen |
@@ -591,8 +591,8 @@
 | 583 | 146 | Ibiza Carolina LaRose |
 | 584 | 146 | Sherry Aguinaga |
 | 585 | 145 | Chareen Lauritzen |
-| 586 | 145 | William Hughes |
-| 587 | 145 | Scott Rackley |
+| 586 | 145 | Scott Rackley |
+| 587 | 145 | William Hughes |
 | 588 | 145 | Anastacio Hernandez |
 | 589 | 145 | Kiorah Blaze |
 | 590 | 144 | Tristan Lamothe |
