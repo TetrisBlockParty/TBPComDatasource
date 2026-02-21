@@ -73,8 +73,8 @@
 | 65 | 368 | Tdub |
 | 66 | 364 | Jacqueline Williams |
 | 67 | 359 | Nerdy Linkblock |
-| 68 | 348 | Stef Hu |
-| 69 | 348 | Trina Gee |
+| 68 | 348 | Trina Gee |
+| 69 | 348 | Stef Hu |
 | 70 | 347 | pjbeta |
 | 71 | 338 | Stephanie Zahn |
 | 72 | 337 | Tipsy Strikerpiece |
@@ -102,8 +102,8 @@
 | 94 | 273 | Happy Basegrid |
 | 95 | 272 | Sarah Roberts |
 | 96 | 270 | Bhelle Sumile |
-| 97 | 269 | Seante Bullock |
-| 98 | 269 | Rachael |
+| 97 | 269 | Rachael |
+| 98 | 269 | Seante Bullock |
 | 99 | 263 | Sharon Reynolds |
 | 100 | 258 | Dandy Basegrid |
 | 101 | 257 | june october |
@@ -129,8 +129,8 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | Giggly Builderline |
-| 125 | 203 | GATOR |
+| 124 | 203 | GATOR |
+| 125 | 203 | Giggly Builderline |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
@@ -168,8 +168,8 @@
 | 160 | 166 | Rico Rico |
 | 161 | 166 | Katie Daniels |
 | 162 | 165 | Nadine Velardo |
-| 163 | 163 | Tyler Whitley |
-| 164 | 163 | Jenny Gingrich Fuentes |
+| 163 | 163 | Jenny Gingrich Fuentes |
+| 164 | 163 | Tyler Whitley |
 | 165 | 162 | Cece Ibarra |
 | 166 | 161 | SavageBooty98 |
 | 167 | 161 | Jessie Lynn |
@@ -198,16 +198,16 @@
 | 190 | 139 | Flashy Rotator |
 | 191 | 139 | Mel Hogan |
 | 192 | 138 | Death |
-| 193 | 137 | Witty Builderfit |
-| 194 | 137 | Cody Gates |
+| 193 | 137 | Cody Gates |
+| 194 | 137 | Witty Builderfit |
 | 195 | 136 | Breanna Luna |
 | 196 | 135 | Tipsy Riseclear |
 | 197 | 135 | Giddy Cascade |
 | 198 | 135 | Guest |
 | 199 | 135 | Aimee Horton |
 | 200 | 134 | Brave Wrecker |
-| 201 | 133 | Kimberly Garcia |
-| 202 | 133 | Fmp |
+| 201 | 133 | Fmp |
+| 202 | 133 | Kimberly Garcia |
 | 203 | 132 | Layzietyme |
 | 204 | 131 | Uhog SF |
 | 205 | 130 | Gilbert Ortiz Jr. |

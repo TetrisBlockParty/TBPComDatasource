@@ -98,8 +98,8 @@
 | 90 | 459 | Nerdy Riseclear |
 | 91 | 447 | Mykal Burton |
 | 92 | 446 | Danielle Rhoades |
-| 93 | 445 | Silly Twist |
-| 94 | 445 | Kristie McFarland |
+| 93 | 445 | Kristie McFarland |
+| 94 | 445 | Silly Twist |
 | 95 | 430 | Patricia White |
 | 96 | 428 | Elissa S-k |
 | 97 | 425 | Patty Allen |
@@ -110,8 +110,8 @@
 | 102 | 402 | Stephanie Simpson |
 | 103 | 400 | Luciana Braganca Vieira |
 | 104 | 397 | Mcathen |
-| 105 | 394 | Annie Déè |
-| 106 | 394 | joclisa |
+| 105 | 394 | joclisa |
+| 106 | 394 | Annie Déè |
 | 107 | 392 | Michelle |
 | 108 | 391 | Speedy Bridger |
 | 109 | 391 | Calista Jo Dickson |
@@ -120,8 +120,8 @@
 | 112 | 389 | FuzzyNavel |
 | 113 | 386 | Katie Knaus |
 | 114 | 384 | Shannon Matthew Byers |
-| 115 | 378 | Tasha Schriewer |
-| 116 | 378 | Makelini Mausia |
+| 115 | 378 | Makelini Mausia |
+| 116 | 378 | Tasha Schriewer |
 | 117 | 377 | Jesse Olive |
 | 118 | 368 | Stephanie Blkpep Davidson |
 | 119 | 368 | Stephanie Woods |
@@ -193,13 +193,13 @@
 | 185 | 214 | Amy Fuller Heaton |
 | 186 | 214 | Jenny Hrndz |
 | 187 | 212 | Krystal Gerstberger |
-| 188 | 211 | Katrina Turner |
-| 189 | 211 | Khaleada McGill Banks |
-| 190 | 211 | Giddy Twistbuilder |
+| 188 | 211 | Khaleada McGill Banks |
+| 189 | 211 | Giddy Twistbuilder |
+| 190 | 211 | Katrina Turner |
 | 191 | 210 | Michael Lucado |
 | 192 | 209 | Twisty Brick LT |
-| 193 | 207 | Jessica |
-| 194 | 207 | Chris Bell |
+| 193 | 207 | Chris Bell |
+| 194 | 207 | Jessica |
 | 195 | 205 | Sarah Moyer |
 | 196 | 204 | Danielle Allison |
 | 197 | 201 | IamJust Neyamijah Washington Sr. |

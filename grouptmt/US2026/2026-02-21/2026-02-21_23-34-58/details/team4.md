@@ -205,9 +205,9 @@
 | 197 | 128 | Kristin MacDonald |
 | 198 | 128 | Rio Rocha |
 | 199 | 127 | Zesty Twistbuilder |
-| 200 | 126 | Nerdy Twisterfit |
-| 201 | 126 | icequeenx |
-| 202 | 125 | Heather Tushner |
+| 200 | 126 | icequeenx |
+| 201 | 126 | Nerdy Twisterfit |
+| 202 | 125 | Duck |
 | 203 | 125 | Judy Cox |
 | 204 | 125 | Heather Tushner |
 | 205 | 124 | Kristina Black |
@@ -537,7 +537,7 @@
 | 529 | 52 | Petty |
 | 530 | 52 | Earnest Thompson |
 | 531 | 51 | George Nutt |
-| 532 | 51 | Zappy Buildgrid |
+| 532 | 51 | Morti |
 | 533 | 51 | Bad company |
 | 534 | 51 | Tabi Williams |
 | 535 | 51 | Garrett G-luv Kyser |

@@ -141,8 +141,8 @@
 | 133 | 881 | Tanya Parsons |
 | 134 | 875 | Kelly Trent |
 | 135 | 869 | Desiree Harris Rosch |
-| 136 | 867 | Rosa Franklin |
-| 137 | 867 | Michele Gabriel |
+| 136 | 867 | Michele Gabriel |
+| 137 | 867 | Rosa Franklin |
 | 138 | 861 | Jennifer Peachey |
 | 139 | 849 | Jennifer Kistner |
 | 140 | 845 | April Dawn Gussler |
@@ -184,8 +184,8 @@
 | 176 | 705 | Roger Grabbit |
 | 177 | 703 | Debra Williams |
 | 178 | 700 | Vincent Petrella |
-| 179 | 700 | Beverly Owens |
-| 180 | 700 | Rosemadder |
+| 179 | 700 | Rosemadder |
+| 180 | 700 | Beverly Owens |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
 | 183 | 692 | Wendy Harder Gage |
@@ -307,8 +307,8 @@
 | 299 | 469 | Ashley Rose Frederick |
 | 300 | 469 | Ashley Lopez |
 | 301 | 468 | Drwatson187 |
-| 302 | 467 | Scott Treadway |
-| 303 | 467 | Dedra Steward |
+| 302 | 467 | Dedra Steward |
+| 303 | 467 | Scott Treadway |
 | 304 | 464 | Rachael Senard |
 | 305 | 463 | Sue Leard |
 | 306 | 460 | Barbra Miller |
@@ -526,8 +526,8 @@
 | 518 | 296 | Amber Gray |
 | 519 | 296 | Sassy Linkbuilder |
 | 520 | 295 | Noel Tarmy |
-| 521 | 294 | Frisky Riserbuilder |
-| 522 | 294 | Amanda Edwards |
+| 521 | 294 | Amanda Edwards |
+| 522 | 294 | Frisky Riserbuilder |
 | 523 | 292 | Deana |
 | 524 | 289 | Kimmy Newman |
 | 525 | 287 | Alice Ball |
@@ -772,9 +772,9 @@
 | 764 | 199 | Jenny Castro |
 | 765 | 199 | Michael David Hollis |
 | 766 | 198 | Austin Wilson |
-| 767 | 197 | Octavio Garza |
-| 768 | 197 | Sarah Dean |
-| 769 | 197 | Kati Russeau |
+| 767 | 197 | Sarah Dean |
+| 768 | 197 | Kati Russeau |
+| 769 | 197 | Octavio Garza |
 | 770 | 197 | Karyn Yurcho Dooley |
 | 771 | 197 | Sassy Linkroll |
 | 772 | 196 | Crafty Brickline |
