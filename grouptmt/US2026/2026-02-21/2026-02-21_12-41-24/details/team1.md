@@ -110,13 +110,13 @@
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | Tanya Carpenter-Reynolds |
-| 106 | 144 | Plucky Ziggy |
-| 107 | 144 | femmefatale |
+| 105 | 144 | Plucky Ziggy |
+| 106 | 144 | femmefatale |
+| 107 | 144 | Tanya Carpenter-Reynolds |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
-| 110 | 138 | Cranky Pattern |
-| 111 | 138 | Gary Gobin |
+| 110 | 138 | Gary Gobin |
+| 111 | 138 | Cranky Pattern |
 | 112 | 137 | Nadine Velardo |
 | 113 | 134 | Trina Gee |
 | 114 | 133 | Brandi Huntington |
@@ -161,8 +161,8 @@
 | 153 | 105 | Chris65 |
 | 154 | 104 | Charla Pross-Fugleberg |
 | 155 | 104 | Bindi |
-| 156 | 103 | Chantelle Ceno |
-| 157 | 103 | Angela Fairbank |
+| 156 | 103 | Angela Fairbank |
+| 157 | 103 | Chantelle Ceno |
 | 158 | 102 | Jennifer ManWarren |
 | 159 | 101 | Loony Fitzone |
 | 160 | 100 | Jessica Weed |
@@ -195,7 +195,7 @@
 | 187 | 84 | Kayla Marie Stevenson |
 | 188 | 84 | Eddie Dillon |
 | 189 | 84 | Yvonne Marie |
-| 190 | 83 | Layzietyme |
+| 190 | 83 | Daring Fitclear |
 | 191 | 83 | Tipsy Riseclear |
 | 192 | 83 | Death |
 | 193 | 83 | Guest |

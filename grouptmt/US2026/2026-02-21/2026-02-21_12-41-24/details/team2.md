@@ -123,8 +123,8 @@
 | 115 | 631 | Loopy Clusterbuilder |
 | 116 | 620 | BYM4L |
 | 117 | 619 | Jamie Otero |
-| 118 | 608 | Sommer Shope |
-| 119 | 608 | John Bednarik |
+| 118 | 608 | John Bednarik |
+| 119 | 608 | Sommer Shope |
 | 120 | 601 | Nancy Reid |
 | 121 | 597 | Andea Beck |
 | 122 | 591 | Alisha |
@@ -226,8 +226,8 @@
 | 218 | 371 | Kimberly Randesi |
 | 219 | 366 | Wuntayk |
 | 220 | 365 | Christina Lewis-Vickers |
-| 221 | 364 | Brandon Armstrong |
-| 222 | 364 | Shinette Dobson |
+| 221 | 364 | Shinette Dobson |
+| 222 | 364 | Brandon Armstrong |
 | 223 | 363 | William Meussner |
 | 224 | 362 | AkaLefty |
 | 225 | 359 | Brainy Smurf |
@@ -269,8 +269,8 @@
 | 261 | 318 | Alexandra Weir |
 | 262 | 318 | Trista Dumais |
 | 263 | 317 | Heather Westrum |
-| 264 | 317 | bru |
-| 265 | 317 | Zombi3 |
+| 264 | 317 | Zombi3 |
+| 265 | 317 | bru |
 | 266 | 315 | Alisa Lamb |
 | 267 | 314 | NanDa Cruzan VI |
 | 268 | 314 | Amanda West |

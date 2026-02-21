@@ -90,8 +90,8 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
 | 87 | 307 | Peggi Charon |
 | 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
@@ -126,8 +126,8 @@
 | 118 | 204 | Aaron Pitkin |
 | 119 | 202 | Twisty Brick LT |
 | 120 | 199 | joclisa |
-| 121 | 195 | Jenny Hrndz |
-| 122 | 195 | Nicha Hooker |
+| 121 | 195 | Nicha Hooker |
+| 122 | 195 | Jenny Hrndz |
 | 123 | 194 | glichmod |
 | 124 | 193 | Clever Shiftsnap |
 | 125 | 193 | Stephanie Burtin |
@@ -167,8 +167,8 @@
 | 159 | 156 | Joey Banks |
 | 160 | 155 | BŘŰŤİÇŨŚ |
 | 161 | 154 | Angela M. Fletcher |
-| 162 | 153 | Stephanie Whitefield |
-| 163 | 153 | Beth Ingham |
+| 162 | 153 | Beth Ingham |
+| 163 | 153 | Stephanie Whitefield |
 | 164 | 152 | Shiny Zonebuilder |
 | 165 | 151 | MsBee |
 | 166 | 150 | Nicole Myers |
@@ -411,8 +411,8 @@
 | 403 | 65 | Eunhye Lee |
 | 404 | 65 | Angela Scott |
 | 405 | 65 | Sara Bell |
-| 406 | 65 | Johnathan Dowe |
-| 407 | 65 | Sara Dunn |
+| 406 | 65 | Sara Dunn |
+| 407 | 65 | Johnathan Dowe |
 | 408 | 64 | Beejangles |
 | 409 | 64 | Anastasia Williams |
 | 410 | 63 | Mana |
