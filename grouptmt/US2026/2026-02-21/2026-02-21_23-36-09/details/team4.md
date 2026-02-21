@@ -98,8 +98,8 @@
 | 90 | 281 | Leslie Nicole |
 | 91 | 277 | KJ Pool |
 | 92 | 274 | Desi Desporte |
-| 93 | 273 | shark tato |
-| 94 | 273 | Carrie Brian |
+| 93 | 273 | Carrie Brian |
+| 94 | 273 | shark tato |
 | 95 | 264 | Epic Curvetile |
 | 96 | 264 | Girl |
 | 97 | 258 | Brittney Orengo |
@@ -185,8 +185,8 @@
 | 177 | 136 | Tanner Lund |
 | 178 | 136 | Chaz |
 | 179 | 135 | Victoria Faniel |
-| 180 | 134 | Kim Klutz Olson |
-| 181 | 134 | Chirpy Basepiece |
+| 180 | 134 | Chirpy Basepiece |
+| 181 | 134 | Kim Klutz Olson |
 | 182 | 133 | TinyLegoRose |
 | 183 | 133 | Sam Bishop |
 | 184 | 133 | Angela Geist Jusinski |
@@ -195,8 +195,8 @@
 | 187 | 132 | Melissa Priest Sellers |
 | 188 | 132 | Jessica Cagle |
 | 189 | 131 | Michelle Morris |
-| 190 | 130 | Shukee Lo |
-| 191 | 130 | Carlos Ramirez |
+| 190 | 130 | Carlos Ramirez |
+| 191 | 130 | Shukee Lo |
 | 192 | 130 | Chris Bernstein |
 | 193 | 129 | Dreamy Snapgrid |
 | 194 | 128 | Ericca Eldridge |
@@ -665,10 +665,10 @@
 | 657 | 39 | Austin Trent Weaver |
 | 658 | 39 | Morgan Patrick |
 | 659 | 39 | Daws |
-| 660 | 39 | Morgan Patrick |
+| 660 | 39 | JD |
 | 661 | 38 | Mike Burlingame |
-| 662 | 38 | Lora |
-| 663 | 38 | Jade Rian |
+| 662 | 38 | Jade Rian |
+| 663 | 38 | Lora |
 | 664 | 38 | Wacky Blockclear |
 | 665 | 38 | 0934 |
 | 666 | 38 | Patrick Watkins |

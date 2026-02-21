@@ -236,8 +236,8 @@
 | 228 | 589 | Thomas Hedrick |
 | 229 | 587 | Hyper Cluster |
 | 230 | 586 | Stephen Stephen |
-| 231 | 583 | Steve Grotto |
-| 232 | 583 | Jessicah Myers |
+| 231 | 583 | Jessicah Myers |
+| 232 | 583 | Steve Grotto |
 | 233 | 582 | Gary Stash |
 | 234 | 581 | Jánine Riggs |
 | 235 | 580 | Leslie Ann Carter |

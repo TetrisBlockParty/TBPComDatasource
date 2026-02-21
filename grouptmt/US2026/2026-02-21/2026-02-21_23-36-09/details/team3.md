@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 578 | Brandon Green |
@@ -116,8 +116,8 @@
 | 108 | 391 | Speedy Bridger |
 | 109 | 391 | Calista Jo Dickson |
 | 110 | 390 | Hasty Cascadefit |
-| 111 | 389 | Jessica Bechler |
-| 112 | 389 | FuzzyNavel |
+| 111 | 389 | FuzzyNavel |
+| 112 | 389 | Jessica Bechler |
 | 113 | 386 | Katie Knaus |
 | 114 | 384 | Shannon Matthew Byers |
 | 115 | 378 | Makelini Mausia |
@@ -134,8 +134,8 @@
 | 126 | 347 | Darlene McMillan |
 | 127 | 343 | Chasity |
 | 128 | 330 | Logan Naccarato |
-| 129 | 328 | Aaron Pitkin |
-| 130 | 328 | Jeni Dow |
+| 129 | 328 | Jeni Dow |
+| 130 | 328 | Aaron Pitkin |
 | 131 | 327 | Dapper Snap |
 | 132 | 326 | Fancy Cascader |
 | 133 | 323 | Ashley Raines |
@@ -176,8 +176,8 @@
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
-| 171 | 237 | Brandon Givens |
-| 172 | 237 | Rebecca Funderburk Kirby |
+| 171 | 237 | Rebecca Funderburk Kirby |
+| 172 | 237 | Brandon Givens |
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
@@ -193,9 +193,9 @@
 | 185 | 214 | Amy Fuller Heaton |
 | 186 | 214 | Jenny Hrndz |
 | 187 | 212 | Krystal Gerstberger |
-| 188 | 211 | Katrina Turner |
-| 189 | 211 | Khaleada McGill Banks |
-| 190 | 211 | Giddy Twistbuilder |
+| 188 | 211 | Giddy Twistbuilder |
+| 189 | 211 | Katrina Turner |
+| 190 | 211 | Khaleada McGill Banks |
 | 191 | 210 | Michael Lucado |
 | 192 | 209 | Twisty Brick LT |
 | 193 | 207 | Jessica |

@@ -43,8 +43,8 @@
 | 35 | 587 | Marianne Louise West |
 | 36 | 585 | Jennifer Cates |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Kristen Roles Robben |
-| 39 | 541 | Drew Magnus |
+| 38 | 541 | Drew Magnus |
+| 39 | 541 | Kristen Roles Robben |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -73,8 +73,8 @@
 | 65 | 368 | Tdub |
 | 66 | 364 | Jacqueline Williams |
 | 67 | 359 | Nerdy Linkblock |
-| 68 | 348 | Stef Hu |
-| 69 | 348 | Trina Gee |
+| 68 | 348 | Trina Gee |
+| 69 | 348 | Stef Hu |
 | 70 | 347 | pjbeta |
 | 71 | 338 | Stephanie Zahn |
 | 72 | 337 | Tipsy Strikerpiece |
@@ -145,8 +145,8 @@
 | 137 | 190 | Thorne Shumate |
 | 138 | 188 | Sam Williams |
 | 139 | 187 | Snippy Wipebuilder |
-| 140 | 186 | Margo Wagner |
-| 141 | 186 | Jennifer Olewnik Soborowski |
+| 140 | 186 | Jennifer Olewnik Soborowski |
+| 141 | 186 | Margo Wagner |
 | 142 | 185 | Basment Living |
 | 143 | 180 | Michael |
 | 144 | 180 | Erez Yosef |
@@ -165,8 +165,8 @@
 | 157 | 169 | Abbey Crespo |
 | 158 | 168 | Standia Civil |
 | 159 | 167 | Erin Hodges Plumb |
-| 160 | 166 | Rico Rico |
-| 161 | 166 | Katie Daniels |
+| 160 | 166 | Katie Daniels |
+| 161 | 166 | Rico Rico |
 | 162 | 165 | Nadine Velardo |
 | 163 | 163 | Tyler Whitley |
 | 164 | 163 | Jenny Gingrich Fuentes |
@@ -242,8 +242,8 @@
 | 234 | 110 | Madison Wicks |
 | 235 | 110 | Garcia Bailey |
 | 236 | 110 | Howdi Duty |
-| 237 | 109 | Nicolette Ivory Chastain |
-| 238 | 109 | Cheeky Pop |
+| 237 | 109 | Cheeky Pop |
+| 238 | 109 | Funky Piecebuilder |
 | 239 | 109 | John Kim |
 | 240 | 109 | Nicolette Ivory Chastain |
 | 241 | 108 | Tavia |
