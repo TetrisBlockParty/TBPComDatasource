@@ -44,8 +44,8 @@
 | 36 | 511 | Jen Sartain |
 | 37 | 510 | Colena Davenport |
 | 38 | 508 | Michelle Nicole |
-| 39 | 486 | Sevens4L |
-| 40 | 486 | Sarah Lombardo |
+| 39 | 486 | Sarah Lombardo |
+| 40 | 486 | Sevens4L |
 | 41 | 483 | Ryan Lunnin |
 | 42 | 469 | Kathi Snustad |
 | 43 | 464 | Carolyn Smith |

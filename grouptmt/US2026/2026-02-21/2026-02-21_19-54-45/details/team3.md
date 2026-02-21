@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Tasha Schriewer |
-| 99 | 378 | Makelini Mausia |
+| 98 | 378 | Makelini Mausia |
+| 99 | 378 | Tasha Schriewer |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -156,11 +156,11 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Hoppy Buildout |
-| 152 | 222 | Jimmie Clemons |
+| 151 | 222 | Jimmie Clemons |
+| 152 | 222 | Hoppy Buildout |
 | 153 | 219 | Shunta Jacobs |
-| 154 | 218 | LaNette Morgan |
-| 155 | 218 | Rochelle Hazelett |
+| 154 | 218 | Rochelle Hazelett |
+| 155 | 218 | LaNette Morgan |
 | 156 | 217 | Jess Bissett |
 | 157 | 216 | Nikki Pags |
 | 158 | 216 | Aaron Pitkin |
@@ -168,15 +168,15 @@
 | 160 | 214 | Jenny Hrndz |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
-| 163 | 207 | Jessica |
-| 164 | 207 | rnr junky |
+| 163 | 207 | rnr junky |
+| 164 | 207 | Jessica |
 | 165 | 207 | Nicole Myers |
 | 166 | 207 | Chris Bell |
 | 167 | 203 | Twisty Brick LT |
 | 168 | 201 | Ashley Tookes |
 | 169 | 197 | Staci George Fitzsimmons |
-| 170 | 195 | Michael Lucado |
-| 171 | 195 | Nicha Hooker |
+| 170 | 195 | Nicha Hooker |
+| 171 | 195 | Michael Lucado |
 | 172 | 194 | glichmod |
 | 173 | 193 | Duane Bright |
 | 174 | 193 | Karon Griffin |
@@ -219,8 +219,8 @@
 | 211 | 163 | Stephanie Hill |
 | 212 | 163 | Christine Trester |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | Irene Arreguin |
-| 215 | 161 | BŘŰŤİÇŨŚ |
+| 214 | 161 | BŘŰŤİÇŨŚ |
+| 215 | 161 | Irene Arreguin |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |
@@ -299,8 +299,8 @@
 | 291 | 121 | Noettín Kan Zasnemoore |
 | 292 | 119 | BugMansMom |
 | 293 | 119 | Daring Builder |
-| 294 | 118 | Fancy Curver |
-| 295 | 118 | Damian Reid |
+| 294 | 118 | Damian Reid |
+| 295 | 118 | Fancy Curver |
 | 296 | 117 | Rania Zaqout |
 | 297 | 117 | Dee Pratt |
 | 298 | 116 | Denise Marie |

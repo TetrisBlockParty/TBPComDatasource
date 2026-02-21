@@ -282,11 +282,11 @@
 | 274 | 445 | Dedra Steward |
 | 275 | 445 | Mar Q Thomas |
 | 276 | 442 | Leah |
-| 277 | 442 | Joshua Mandel |
-| 278 | 442 | Daphne Jordan |
+| 277 | 442 | Daphne Jordan |
+| 278 | 442 | Joshua Mandel |
 | 279 | 440 | Liberty |
-| 280 | 439 | Joseph Musick |
-| 281 | 439 | Alisa Lamb |
+| 280 | 439 | Alisa Lamb |
+| 281 | 439 | Joseph Musick |
 | 282 | 439 | Foxxo |
 | 283 | 437 | Nashu |
 | 284 | 437 | Arwa Fatimah |
@@ -310,8 +310,8 @@
 | 302 | 412 | Vanessa Moreno |
 | 303 | 411 | Ricky Fortune |
 | 304 | 410 | Altamirano Michael |
-| 305 | 409 | Sparkles |
-| 306 | 409 | Julay |
+| 305 | 409 | Julay |
+| 306 | 409 | Sparkles |
 | 307 | 406 | Erin StFrancis |
 | 308 | 405 | Sarah Massey |
 | 309 | 405 | Christy Krissie |

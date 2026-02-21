@@ -143,16 +143,16 @@
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
-| 138 | 147 | Jay28 |
-| 139 | 147 | Chair |
-| 140 | 147 | Shainne Brewer |
+| 138 | 147 | Chair |
+| 139 | 147 | Shainne Brewer |
+| 140 | 147 | Jay28 |
 | 141 | 146 | Klo |
 | 142 | 145 | Amy Suckarieh |
 | 143 | 145 | Daria Rycewicz |
 | 144 | 144 | Mr. Party |
-| 145 | 141 | Marcus Todd |
+| 145 | 141 | ĥuf |
 | 146 | 141 | Kathy Allen |
-| 147 | 141 | ĥuf |
+| 147 | 141 | Marcus Todd |
 | 148 | 141 | Malakai Darien Fox |
 | 149 | 140 | John Brunetti |
 | 150 | 140 | Roger Coulter |
@@ -254,8 +254,8 @@
 | 246 | 95 | Berklie Apedaile |
 | 247 | 95 | Jen Caldwell |
 | 248 | 95 | Patron Anderson |
-| 249 | 94 | DonMega |
-| 250 | 94 | Madison Sweere |
+| 249 | 94 | Madison Sweere |
+| 250 | 94 | DonMega |
 | 251 | 94 | Chastity Mitchell |
 | 252 | 93 | Matt Dell'Olio |
 | 253 | 92 | Christina Black |
