@@ -128,9 +128,9 @@
 | 120 | 144 | Mr. Party |
 | 121 | 143 | Nugget |
 | 122 | 141 | Malakai Darien Fox |
-| 123 | 140 | Shainne Brewer |
+| 123 | 140 | Jenna McGeorge |
 | 124 | 140 | Shannon Ferrari |
-| 125 | 140 | Jenna McGeorge |
+| 125 | 140 | Shainne Brewer |
 | 126 | 139 | Robin Watters |
 | 127 | 136 | Tanner Lund |
 | 128 | 135 | ĥuf |
@@ -141,8 +141,8 @@
 | 133 | 132 | Jessica Cagle |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
 | 139 | 126 | Dihcheese444 |
 | 140 | 126 | TinyLegoRose |
@@ -168,7 +168,7 @@
 | 160 | 113 | Adam Randall |
 | 161 | 112 | Bryan Hodgins |
 | 162 | 112 | Austin Owens |
-| 163 | 112 | Bryan Hodgins |
+| 163 | 112 | Jackie Marie |
 | 164 | 111 | Lazy Blocker |
 | 165 | 111 | Michelle Morris |
 | 166 | 110 | H.R. Block |

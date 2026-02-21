@@ -171,9 +171,9 @@
 | 163 | 546 | Charvi' Carter |
 | 164 | 543 | Diana Fitzwater |
 | 165 | 541 | SaraMarie Eveland |
-| 166 | 534 | Stephen Stephen |
-| 167 | 534 | Poppy Snapper |
-| 168 | 534 | Teresa Gillmore |
+| 166 | 534 | Poppy Snapper |
+| 167 | 534 | Teresa Gillmore |
+| 168 | 534 | Stephen Stephen |
 | 169 | 531 | Chris Wanner |
 | 170 | 527 | Adira Brown |
 | 171 | 527 | Stacy Stickle |
@@ -285,8 +285,8 @@
 | 277 | 357 | Julie Kresal |
 | 278 | 355 | Shandrica Lowe |
 | 279 | 355 | Kristen O'Neal |
-| 280 | 354 | Brave Dropmatch |
-| 281 | 354 | Tracy Wise |
+| 280 | 354 | Tracy Wise |
+| 281 | 354 | Brave Dropmatch |
 | 282 | 353 | Cheery Matchzone |
 | 283 | 352 | Juanita Lyons |
 | 284 | 352 | ruth |
@@ -458,8 +458,8 @@
 | 450 | 233 | Jumpy Gridclear |
 | 451 | 233 | Daring Matchfit |
 | 452 | 232 | Aleasha M Brown |
-| 453 | 232 | Amber Brion |
-| 454 | 232 | Quirky Twistline |
+| 453 | 232 | Quirky Twistline |
+| 454 | 232 | Amber Brion |
 | 455 | 231 | Hong Tang |
 | 456 | 231 | Dylan Thomason |
 | 457 | 231 | Brave Gridpiece |

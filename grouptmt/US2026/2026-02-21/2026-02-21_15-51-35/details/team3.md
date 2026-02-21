@@ -109,8 +109,8 @@
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |
-| 104 | 300 | Sherika C. McDaniels |
-| 105 | 300 | Tessina Dewey-Mancino |
+| 104 | 300 | Tessina Dewey-Mancino |
+| 105 | 300 | Sherika C. McDaniels |
 | 106 | 293 | Poppy Splitter |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 266 | Joey Banks |
@@ -307,7 +307,7 @@
 | 299 | 98 | Shicken Nuggit |
 | 300 | 98 | Tasha Wesson-Torrence |
 | 301 | 98 | Andrew Thorson |
-| 302 | 98 | Shicken Nuggit |
+| 302 | 98 | Jocelyne Baca |
 | 303 | 97 | Paula Little |
 | 304 | 96 | Christopher Woost |
 | 305 | 96 | D3NO |
@@ -377,8 +377,8 @@
 | 369 | 78 | Myriam Lapierre |
 | 370 | 78 | Clever Patterner |
 | 371 | 77 | Tommy Proctor |
-| 372 | 77 | Jess Reppert |
-| 373 | 77 | Bekah Dietrich |
+| 372 | 77 | Bekah Dietrich |
+| 373 | 77 | Jess Reppert |
 | 374 | 77 | Tanesha BigBabby Darling |
 | 375 | 77 | Jennifer Palermo |
 | 376 | 77 | Monica Crespo |
