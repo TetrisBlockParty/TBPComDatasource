@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | Marie-Pier Desjardins |
-| 64 | 376 | quicksand420 |
+| 63 | 376 | quicksand420 |
+| 64 | 376 | Marie-Pier Desjardins |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -136,11 +136,11 @@
 | 128 | 176 | Stacey Stano |
 | 129 | 176 | Klo |
 | 130 | 174 | shark tato |
-| 131 | 174 | Zethra Prenisha Rahming |
-| 132 | 174 | Dihcheese444 |
+| 131 | 174 | Dihcheese444 |
+| 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -164,8 +164,8 @@
 | 156 | 141 | Marcus Todd |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | John Brunetti |
-| 160 | 140 | Shannon Ferrari |
+| 159 | 140 | Shannon Ferrari |
+| 160 | 140 | John Brunetti |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Serena Goodridge |
 | 163 | 136 | Tanner Lund |
@@ -213,8 +213,8 @@
 | 205 | 118 | Mary Ann Pabukis |
 | 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
-| 208 | 115 | Ultramarine |
-| 209 | 115 | Jayk |
+| 208 | 115 | Jayk |
+| 209 | 115 | Ultramarine |
 | 210 | 115 | Sam Middleton |
 | 211 | 115 | Tyler Terrific |
 | 212 | 115 | Nubian1 |
@@ -235,7 +235,7 @@
 | 227 | 103 | Richard-April Kice |
 | 228 | 103 | rebel4lyfe |
 | 229 | 103 | Berklie Apedaile |
-| 230 | 103 | Richard-April Kice |
+| 230 | 103 | Lauren Lamb |
 | 231 | 103 | Kate |
 | 232 | 102 | Autumn Kumzi |
 | 233 | 102 | Christina O'Dell-Ishau |
@@ -254,8 +254,8 @@
 | 246 | 100 | Maureen Flanigan |
 | 247 | 100 | Blessedmama |
 | 248 | 99 | Michael Orris |
-| 249 | 98 | Bradley Reeves |
-| 250 | 98 | Sam Bishop |
+| 249 | 98 | Sam Bishop |
+| 250 | 98 | Bradley Reeves |
 | 251 | 98 | Perky Piecegrid |
 | 252 | 97 | Jen Caldwell |
 | 253 | 97 | Rosemary Foster |

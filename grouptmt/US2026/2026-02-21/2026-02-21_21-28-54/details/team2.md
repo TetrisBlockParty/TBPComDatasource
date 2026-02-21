@@ -145,10 +145,10 @@
 | 137 | 780 | Amanda Grohmann |
 | 138 | 775 | YiFei |
 | 139 | 772 | Megan Ferguson Leone |
-| 140 | 771 | Terri McKelvey McKinley |
-| 141 | 771 | Missie Lawson Gebhardt |
-| 142 | 763 | Samantha Jo |
-| 143 | 763 | Ladyrainbootz |
+| 140 | 771 | Missie Lawson Gebhardt |
+| 141 | 771 | Terri McKelvey McKinley |
+| 142 | 763 | Ladyrainbootz |
+| 143 | 763 | Samantha Jo |
 | 144 | 756 | Stephanie Neuburger |
 | 145 | 751 | Loony Snapper |
 | 146 | 750 | Jumpy Gridpiece |
@@ -407,9 +407,9 @@
 | 399 | 347 | Cheyenne Donovan |
 | 400 | 345 | Angie Bolton Workman |
 | 401 | 345 | Rhianna DiLorenzo |
-| 402 | 344 | Glenn Cobbins |
-| 403 | 344 | Ginger |
-| 404 | 344 | Felicia Lynn |
+| 402 | 344 | Ginger |
+| 403 | 344 | Felicia Lynn |
+| 404 | 344 | Glenn Cobbins |
 | 405 | 342 | Ebony Deloach Bryant |
 | 406 | 342 | Sydney Busse |
 | 407 | 342 | Angi Harrison |
@@ -818,8 +818,8 @@
 | 810 | 170 | Kenya Felix |
 | 811 | 170 | AndrewandShela Gornik |
 | 812 | 170 | Fae-Bulous |
-| 813 | 169 | Frothy Shatter |
-| 814 | 169 | Angela Murgia-Owen |
+| 813 | 169 | Angela Murgia-Owen |
+| 814 | 169 | Frothy Shatter |
 | 815 | 169 | Greenshades00 |
 | 816 | 169 | Fancy Glidezone |
 | 817 | 168 | Jay Dreamer-x Shelly |
