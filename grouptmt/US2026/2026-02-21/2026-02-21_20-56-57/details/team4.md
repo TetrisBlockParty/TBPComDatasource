@@ -91,13 +91,13 @@
 | 83 | 255 | Jae Job |
 | 84 | 254 | Holly Jolly |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Autum Leigh |
-| 87 | 230 | Lucas J Sutton |
+| 86 | 230 | Lucas J Sutton |
+| 87 | 230 | Autum Leigh |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |
-| 91 | 218 | Casey Grabner |
-| 92 | 218 | Brittney Orengo |
+| 91 | 218 | Brittney Orengo |
+| 92 | 218 | Casey Grabner |
 | 93 | 218 | Antony Dwayne Beasley |
 | 94 | 215 | Dustee Craddock-Harrison |
 | 95 | 212 | Calvin Cannon |
@@ -225,8 +225,8 @@
 | 217 | 109 | Frank Cook |
 | 218 | 108 | Rebecca Morris |
 | 219 | 108 | Ali Ian |
-| 220 | 107 | Nerdy Twisterfit |
-| 221 | 107 | Rafael Valentin |
+| 220 | 107 | Rafael Valentin |
+| 221 | 107 | Nerdy Twisterfit |
 | 222 | 106 | Zappy Snaplink |
 | 223 | 105 | Brandi Durig |
 | 224 | 104 | Chris Alexinas |
@@ -274,13 +274,13 @@
 | 266 | 92 | Christina Black |
 | 267 | 91 | wombat |
 | 268 | 91 | Sunny Filler |
-| 269 | 90 | Carol Ricks Raymond |
-| 270 | 90 | Hyper Builder |
+| 269 | 90 | Hyper Builder |
+| 270 | 90 | Carol Ricks Raymond |
 | 271 | 90 | Thomas Hettenhaus |
 | 272 | 90 | No Strings Attached Ra |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Kesha Brady |
-| 275 | 88 | Michelle Parker |
+| 274 | 88 | Michelle Parker |
+| 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | Jason Frehner |
 | 278 | 86 | Destiney Carter |

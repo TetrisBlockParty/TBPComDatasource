@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -160,8 +160,8 @@
 | 152 | 233 | Cynthia Herrmann Egland |
 | 153 | 233 | Ray Lader |
 | 154 | 229 | Nikki Pags |
-| 155 | 228 | Morgan Martinez |
-| 156 | 228 | Rochelle Hazelett |
+| 155 | 228 | Rochelle Hazelett |
+| 156 | 228 | Morgan Martinez |
 | 157 | 226 | Grego Daniel |
 | 158 | 223 | Jeana Gilbert |
 | 159 | 222 | Hoppy Buildout |
@@ -227,8 +227,8 @@
 | 219 | 166 | Betty Rosas |
 | 220 | 166 | Beth Ingham |
 | 221 | 165 | Kali Kelz Williams |
-| 222 | 163 | Stephanie Hill |
-| 223 | 163 | Christine Trester |
+| 222 | 163 | Christine Trester |
+| 223 | 163 | Stephanie Hill |
 | 224 | 162 | Stephanie Whitefield |
 | 225 | 161 | Irene Arreguin |
 | 226 | 160 | Tiffany Davie |
@@ -267,8 +267,8 @@
 | 259 | 141 | LaTanya GeminiondaRise Johnson |
 | 260 | 141 | IamJust Neyamijah Washington Sr. |
 | 261 | 140 | Joy Petroski |
-| 262 | 139 | Funky Jumper |
-| 263 | 139 | Loopy Clusterer |
+| 262 | 139 | Loopy Clusterer |
+| 263 | 139 | Funky Jumper |
 | 264 | 138 | Boldy Corner |
 | 265 | 137 | Cesar Barraza |
 | 266 | 136 | Rachel |

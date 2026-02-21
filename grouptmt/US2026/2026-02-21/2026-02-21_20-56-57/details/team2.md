@@ -206,8 +206,8 @@
 | 198 | 591 | Diana Fitzwater |
 | 199 | 587 | Hyper Cluster |
 | 200 | 586 | Stephen Stephen |
-| 201 | 583 | Steve Grotto |
-| 202 | 583 | Jessicah Myers |
+| 201 | 583 | Jessicah Myers |
+| 202 | 583 | Steve Grotto |
 | 203 | 579 | Gary Stash |
 | 204 | 576 | Shannon Joslin |
 | 205 | 571 | Thomas Hedrick |
@@ -250,8 +250,8 @@
 | 242 | 510 | Lisa Ongtowasruk |
 | 243 | 509 | Kelli Wells |
 | 244 | 506 | AISlop |
-| 245 | 504 | Gene Mills |
-| 246 | 504 | Cherica Taylor |
+| 245 | 504 | Cherica Taylor |
+| 246 | 504 | Gene Mills |
 | 247 | 503 | tejas25 |
 | 248 | 502 | Magic steve |
 | 249 | 502 | Poppy Snap |
@@ -343,8 +343,8 @@
 | 335 | 394 | Taryece Gause |
 | 336 | 392 | Mighty Shatterfit |
 | 337 | 391 | Chilly Bridgepiece |
-| 338 | 391 | Qiana Sanders |
-| 339 | 391 | Alexandra Reese |
+| 338 | 391 | Alexandra Reese |
+| 339 | 391 | Qiana Sanders |
 | 340 | 389 | Kristen O'Neal |
 | 341 | 386 | Deanna Morton |
 | 342 | 385 | Brave Dropmatch |
