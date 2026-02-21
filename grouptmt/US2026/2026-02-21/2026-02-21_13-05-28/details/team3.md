@@ -76,8 +76,8 @@
 | 68 | 376 | Tasha Schriewer |
 | 69 | 372 | Patty Allen |
 | 70 | 371 | Jesse Olive |
-| 71 | 370 | yoyo |
-| 72 | 370 | Patricia White |
+| 71 | 370 | Patricia White |
+| 72 | 370 | yoyo |
 | 73 | 362 | Liv Whetson |
 | 74 | 360 | Ebony West-Cundiff |
 | 75 | 353 | Stephanie Woods |
@@ -117,8 +117,8 @@
 | 109 | 224 | Mykal Burton |
 | 110 | 224 | Judi Dobson |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Jimmie Clemons |
-| 113 | 222 | Nicole Flippo |
+| 112 | 222 | Nicole Flippo |
+| 113 | 222 | Jimmie Clemons |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -138,8 +138,8 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Staci George Fitzsimmons |
-| 134 | 189 | Fallorina Susana |
+| 133 | 189 | Fallorina Susana |
+| 134 | 189 | Staci George Fitzsimmons |
 | 135 | 184 | Jennie Beranek |
 | 136 | 182 | Hyper Matchzone |
 | 137 | 182 | Ashley Tookes |
@@ -170,8 +170,8 @@
 | 162 | 157 | Nicholas Roddy |
 | 163 | 156 | Joey Banks |
 | 164 | 154 | Angela M. Fletcher |
-| 165 | 153 | Stephanie Whitefield |
-| 166 | 153 | Beth Ingham |
+| 165 | 153 | Beth Ingham |
+| 166 | 153 | Stephanie Whitefield |
 | 167 | 152 | Shiny Zonebuilder |
 | 168 | 151 | MsBee |
 | 169 | 150 | Nicole Myers |
@@ -188,8 +188,8 @@
 | 180 | 140 | Jay Horn |
 | 181 | 140 | Gumbo |
 | 182 | 136 | Boldy Corner |
-| 183 | 135 | Connie Mohler-Fair |
-| 184 | 135 | Cheryl Hinch Tenbrook |
+| 183 | 135 | Cheryl Hinch Tenbrook |
+| 184 | 135 | Connie Mohler-Fair |
 | 185 | 134 | Emma |
 | 186 | 133 | Joy Petroski |
 | 187 | 133 | Aerian Preston |

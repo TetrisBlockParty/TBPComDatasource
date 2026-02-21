@@ -110,9 +110,9 @@
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
-| 105 | 144 | Tanya Carpenter-Reynolds |
-| 106 | 144 | femmefatale |
-| 107 | 144 | Plucky Ziggy |
+| 105 | 144 | femmefatale |
+| 106 | 144 | Plucky Ziggy |
+| 107 | 144 | Tanya Carpenter-Reynolds |
 | 108 | 143 | Sarah Marie |
 | 109 | 141 | Blaire Bruckoff |
 | 110 | 140 | Miguel Teixeira |

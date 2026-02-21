@@ -170,8 +170,8 @@
 | 162 | 495 | Poppy Snap |
 | 163 | 488 | Teresa Gillmore |
 | 164 | 486 | MrsCandyfine As Wine Truss |
-| 165 | 485 | Leah Keesling |
-| 166 | 485 | Gene Mills |
+| 165 | 485 | Gene Mills |
+| 166 | 485 | Leah Keesling |
 | 167 | 484 | Suki Kaur |
 | 168 | 483 | Jordan Kaiser |
 | 169 | 482 | Eckoman518 |
