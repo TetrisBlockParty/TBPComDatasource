@@ -85,7 +85,7 @@
 | 77 | 145 | Lachelle Dillon |
 | 78 | 144 | Tanya Carpenter-Reynolds |
 | 79 | 144 | Plucky Ziggy |
-| 80 | 144 | Tanya Carpenter-Reynolds |
+| 80 | 144 | femmefatale |
 | 81 | 143 | Sarah Marie |
 | 82 | 141 | Blaire Bruckoff |
 | 83 | 141 | Susanna Guerry |

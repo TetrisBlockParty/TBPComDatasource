@@ -52,8 +52,8 @@
 | 44 | 226 | Breannah Grafe |
 | 45 | 207 | Alyssa Papen |
 | 46 | 205 | Sarah Neathery |
-| 47 | 204 | David Lay |
-| 48 | 204 | Brittney Orengo |
+| 47 | 204 | Brittney Orengo |
+| 48 | 204 | David Lay |
 | 49 | 198 | Mike Solo |
 | 50 | 197 | Autum Leigh |
 | 51 | 194 | Jamie Mann-Deichmann |
@@ -80,8 +80,8 @@
 | 72 | 141 | Malakai Darien Fox |
 | 73 | 141 | Desi Desporte |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Jessica Bohlken |
-| 76 | 134 | Chirpy Basepiece |
+| 75 | 134 | Chirpy Basepiece |
+| 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Melissa Priest Sellers |
 | 79 | 132 | Jenna McGeorge |
@@ -95,8 +95,8 @@
 | 87 | 129 | John Brunetti |
 | 88 | 126 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
-| 90 | 123 | Nugget |
-| 91 | 123 | Bubbly Puzzler |
+| 90 | 123 | Bubbly Puzzler |
+| 91 | 123 | Nugget |
 | 92 | 122 | Shelly Chandler |
 | 93 | 122 | Sherri |
 | 94 | 121 | Klo |
@@ -105,8 +105,8 @@
 | 97 | 120 | Joshua Guess |
 | 98 | 119 | Kristin Manee |
 | 99 | 118 | Leslie Nicole |
-| 100 | 116 | Serena Goodridge |
-| 101 | 116 | Diana Houts |
+| 100 | 116 | Diana Houts |
+| 101 | 116 | Serena Goodridge |
 | 102 | 114 | Zany Shatterer |
 | 103 | 114 | Jessica Cagle |
 | 104 | 113 | Andria Lynn |
@@ -130,7 +130,7 @@
 | 122 | 101 | Michelle Morris |
 | 123 | 101 | Stephme310 |
 | 124 | 101 | Saulc1991 |
-| 125 | 100 | Jeff Brian Gates |
+| 125 | 100 | Megan Cutshaw |
 | 126 | 100 | Alexandra Karavias |
 | 127 | 100 | Jeff Brian Gates |
 | 128 | 98 | Chaz |

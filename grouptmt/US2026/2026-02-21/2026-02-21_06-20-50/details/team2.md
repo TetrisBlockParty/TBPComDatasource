@@ -182,10 +182,10 @@
 | 174 | 348 | Richard Horton |
 | 175 | 348 | Cherica Taylor |
 | 176 | 345 | Brenda Messer |
-| 177 | 345 | Rhianna DiLorenzo |
-| 178 | 345 | Wuntayk |
-| 179 | 344 | Julie Kresal |
-| 180 | 344 | Christina Lewis-Vickers |
+| 177 | 345 | Wuntayk |
+| 178 | 345 | Rhianna DiLorenzo |
+| 179 | 344 | Christina Lewis-Vickers |
+| 180 | 344 | Julie Kresal |
 | 181 | 342 | Tracy Wise |
 | 182 | 339 | Qiana Sanders |
 | 183 | 337 | Joseph Musick |
