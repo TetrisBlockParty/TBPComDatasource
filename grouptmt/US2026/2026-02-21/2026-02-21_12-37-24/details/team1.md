@@ -49,8 +49,8 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Sweet Baker |
-| 45 | 274 | Theo Pinnow |
+| 44 | 274 | Theo Pinnow |
+| 45 | 274 | Sweet Baker |
 | 46 | 272 | Adam Byrd |
 | 47 | 264 | Shauna Loe |
 | 48 | 257 | Sarah Roberts |
@@ -161,8 +161,8 @@
 | 153 | 105 | Ty Brown |
 | 154 | 104 | Bindi |
 | 155 | 104 | Charla Pross-Fugleberg |
-| 156 | 103 | Angela Fairbank |
-| 157 | 103 | Chantelle Ceno |
+| 156 | 103 | Chantelle Ceno |
+| 157 | 103 | Angela Fairbank |
 | 158 | 102 | Jennifer ManWarren |
 | 159 | 101 | Loony Fitzone |
 | 160 | 100 | Debbie Davis |
@@ -228,9 +228,9 @@
 | 220 | 75 | Plucky Wrecker |
 | 221 | 75 | Funky Piecebuilder |
 | 222 | 75 | Fresno Beotoni |
-| 223 | 74 | Grace Joanne Agnant |
+| 223 | 74 | Owicked1 |
 | 224 | 74 | Meechie |
-| 225 | 74 | Owicked1 |
+| 225 | 74 | Grace Joanne Agnant |
 | 226 | 73 | Shanae Grant |
 | 227 | 73 | Silly Align |
 | 228 | 72 | Ric Hard Hernandez |

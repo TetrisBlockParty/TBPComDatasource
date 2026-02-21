@@ -88,8 +88,8 @@
 | 80 | 170 | Justin Hannigan |
 | 81 | 170 | Girl |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Casey Grabner |
-| 84 | 165 | Courtney Cicoria |
+| 83 | 165 | Courtney Cicoria |
+| 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
 | 87 | 160 | Stacey Stano |

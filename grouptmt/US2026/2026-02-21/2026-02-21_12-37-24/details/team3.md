@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Shane Wilson Jr. |
-| 31 | 810 | Zippy Strikesnap |
+| 30 | 810 | Zippy Strikesnap |
+| 31 | 810 | Shane Wilson Jr. |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -251,8 +251,8 @@
 | 243 | 101 | Hyper Bridger |
 | 244 | 100 | Demetrious Shaw Sr. |
 | 245 | 100 | Bobbi Moore |
-| 246 | 100 | Donna |
-| 247 | 100 | Elizabeth Renee |
+| 246 | 100 | Elizabeth Renee |
+| 247 | 100 | Donna |
 | 248 | 100 | Edwin Calvillo Jr. |
 | 249 | 99 | MizzMonick Smith |
 | 250 | 99 | Michael Nowogorski |
@@ -271,9 +271,9 @@
 | 263 | 94 | Angie Harper |
 | 264 | 94 | Andrew Thorson |
 | 265 | 93 | Tiffany Ford |
-| 266 | 92 | Jennifer Caputo |
-| 267 | 92 | Ava Petito |
-| 268 | 92 | Trice Thomas |
+| 266 | 92 | Trice Thomas |
+| 267 | 92 | Jennifer Caputo |
+| 268 | 92 | Ava Petito |
 | 269 | 92 | Jackie-Lynne Goertzen |
 | 270 | 91 | Martin Bernier |
 | 271 | 91 | Crystal Hine |
