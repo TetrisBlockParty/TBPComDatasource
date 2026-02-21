@@ -133,8 +133,8 @@
 | 125 | 700 | Beverly Owens |
 | 126 | 698 | Lola Contreras |
 | 127 | 697 | Real Ri |
-| 128 | 694 | Nancy Reid |
-| 129 | 694 | Vo'Landa Reels |
+| 128 | 694 | Vo'Landa Reels |
+| 129 | 694 | Nancy Reid |
 | 130 | 690 | Cool Clearer |
 | 131 | 688 | Dreamy Blast |
 | 132 | 679 | Gold Rose |
@@ -196,8 +196,8 @@
 | 188 | 511 | Ramone Armstrong |
 | 189 | 511 | Dizzy Zone |
 | 190 | 511 | Laura Mclean |
-| 191 | 510 | Cheech Dta |
-| 192 | 510 | Lisa Ongtowasruk |
+| 191 | 510 | Lisa Ongtowasruk |
+| 192 | 510 | Cheech Dta |
 | 193 | 509 | Kelli Wells |
 | 194 | 509 | Ariel |
 | 195 | 504 | Cherica Taylor |
@@ -305,8 +305,8 @@
 | 297 | 345 | Brenda Messer |
 | 298 | 345 | Angie Bolton Workman |
 | 299 | 345 | Rhianna DiLorenzo |
-| 300 | 344 | Glenn Cobbins |
-| 301 | 344 | Lawanda Forbes |
+| 300 | 344 | Lawanda Forbes |
+| 301 | 344 | Glenn Cobbins |
 | 302 | 343 | F-X |
 | 303 | 341 | Joce Lynn |
 | 304 | 340 | Felicia Lynn |
@@ -351,8 +351,8 @@
 | 343 | 309 | James Zaragoza |
 | 344 | 307 | Catina Hutchison |
 | 345 | 306 | Kristopher Miller |
-| 346 | 305 | Zany Clusterbuilder |
-| 347 | 305 | Tum |
+| 346 | 305 | Tum |
+| 347 | 305 | Zany Clusterbuilder |
 | 348 | 305 | Libby Hicks |
 | 349 | 305 | Matt Johnson |
 | 350 | 303 | Crystal Greene |
@@ -749,7 +749,7 @@
 | 741 | 146 | Sherry Aguinaga |
 | 742 | 145 | Scott Rackley |
 | 743 | 145 | Chareen Lauritzen |
-| 744 | 145 | Scott Rackley |
+| 744 | 145 | Lively Piecebuilder |
 | 745 | 145 | Anastacio Hernandez |
 | 746 | 144 | Matthew Joseph Acevedo |
 | 747 | 144 | Quinn |

@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Dizzy Tiley |
-| 78 | 211 | Casey Grabner |
+| 77 | 211 | Casey Grabner |
+| 78 | 211 | Dizzy Tiley |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
@@ -93,16 +93,16 @@
 | 85 | 198 | Dustee Craddock-Harrison |
 | 86 | 198 | Mike Solo |
 | 87 | 194 | Zany Twisterfit |
-| 88 | 191 | loulou |
-| 89 | 191 | Melvin Baird |
+| 88 | 191 | Melvin Baird |
+| 89 | 191 | loulou |
 | 90 | 189 | Calvin Dennis |
 | 91 | 187 | Joeliecea Cobb |
 | 92 | 187 | Swanky Fitline |
 | 93 | 186 | Jeff Brian Gates |
 | 94 | 185 | Andy Cabral |
 | 95 | 181 | Carter Jones |
-| 96 | 180 | Leah Kutz Zirbel |
-| 97 | 180 | Leslie Nicole |
+| 96 | 180 | Leslie Nicole |
+| 97 | 180 | Leah Kutz Zirbel |
 | 98 | 179 | Epic Curvetile |
 | 99 | 178 | Lori |
 | 100 | 177 | Andria Lynn |
@@ -114,13 +114,13 @@
 | 106 | 164 | ThaEviLJeNiuZ |
 | 107 | 162 | Shauna Havard |
 | 108 | 160 | ZeeZee |
-| 109 | 160 | Stacey Stano |
-| 110 | 160 | Crystal Carroll |
+| 109 | 160 | Crystal Carroll |
+| 110 | 160 | Stacey Stano |
 | 111 | 157 | quicksand420 |
 | 112 | 156 | Holly |
 | 113 | 152 | Jessica Bohlken |
-| 114 | 151 | Dana Scott |
-| 115 | 151 | Bethany Ison |
+| 114 | 151 | Bethany Ison |
+| 115 | 151 | Dana Scott |
 | 116 | 148 | Janita Parrish |
 | 117 | 148 | Brittany Marsh |
 | 118 | 147 | Chair |

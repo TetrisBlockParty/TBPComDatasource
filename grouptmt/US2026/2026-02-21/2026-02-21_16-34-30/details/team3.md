@@ -156,8 +156,8 @@
 | 148 | 195 | Nicha Hooker |
 | 149 | 194 | glichmod |
 | 150 | 193 | Stephanie Burtin |
-| 151 | 193 | Clever Shiftsnap |
-| 152 | 193 | Duane Bright |
+| 151 | 193 | Duane Bright |
+| 152 | 193 | Clever Shiftsnap |
 | 153 | 191 | Giddy Twistbuilder |
 | 154 | 191 | Scott Carleton |
 | 155 | 189 | Sissy Lowery Davis |
@@ -167,8 +167,8 @@
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
 | 161 | 182 | Hyper Matchzone |
-| 162 | 181 | Karon Griffin |
-| 163 | 181 | Aerian Preston |
+| 162 | 181 | Aerian Preston |
+| 163 | 181 | Karon Griffin |
 | 164 | 179 | Joye Sims Binion |
 | 165 | 179 | Daira Largen |
 | 166 | 179 | Ashley Jones |
@@ -212,8 +212,8 @@
 | 204 | 149 | Alexis Taylor |
 | 205 | 148 | Lesley Perez |
 | 206 | 148 | Gumbo |
-| 207 | 146 | Denita Mungro |
-| 208 | 146 | Ashley Lynn Marchese |
+| 207 | 146 | Ashley Lynn Marchese |
+| 208 | 146 | Denita Mungro |
 | 209 | 146 | Carrie Huskey |
 | 210 | 146 | Latoya Mayne |
 | 211 | 145 | Emma |
@@ -605,7 +605,7 @@
 | 597 | 53 | Payden Dover |
 | 598 | 53 | Snippy Brickster |
 | 599 | 53 | Kari Gibson Simmons |
-| 600 | 53 | Snippy Brickster |
+| 600 | 53 | PerkyCascade |
 | 601 | 53 | Scott Doss |
 | 602 | 53 | Anna Moeller |
 | 603 | 52 | Sharon Coughenour Bolling Selvey |
