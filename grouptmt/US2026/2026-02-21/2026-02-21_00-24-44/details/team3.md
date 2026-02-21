@@ -125,10 +125,10 @@
 | 117 | 93 | Tiffany Ford |
 | 118 | 92 | Skinny Baldez |
 | 119 | 90 | Tiffany Kaupang |
-| 120 | 89 | Annie Déè |
-| 121 | 89 | Hyper Bridger |
-| 122 | 88 | Funky Jumper |
-| 123 | 88 | Martin Bernier |
+| 120 | 89 | Hyper Bridger |
+| 121 | 89 | Annie Déè |
+| 122 | 88 | Martin Bernier |
+| 123 | 88 | Funky Jumper |
 | 124 | 86 | Dan Rob |
 | 125 | 84 | Eon Harris |
 | 126 | 84 | Ava Petito |

@@ -70,8 +70,8 @@
 | 62 | 90 | ZeeZee |
 | 63 | 88 | Jenna McGeorge |
 | 64 | 87 | Brandi Durig |
-| 65 | 87 | Jen Caldwell |
-| 66 | 87 | Malakai Darien Fox |
+| 65 | 87 | Malakai Darien Fox |
+| 66 | 87 | Jen Caldwell |
 | 67 | 86 | amy |
 | 68 | 85 | Mimi |
 | 69 | 81 | Kesha Brady |
