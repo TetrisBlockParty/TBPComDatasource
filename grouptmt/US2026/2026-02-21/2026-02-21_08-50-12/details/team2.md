@@ -132,8 +132,8 @@
 | 124 | 527 | Stacy Stickle |
 | 125 | 526 | April Dawn Gussler |
 | 126 | 525 | Tommy Tha Boss Gunz |
-| 127 | 525 | Stephen Stephen |
-| 128 | 525 | Desiree Anderson |
+| 127 | 525 | Desiree Anderson |
+| 128 | 525 | Stephen Stephen |
 | 129 | 522 | Slip |
 | 130 | 520 | Kimberly Schall |
 | 131 | 519 | Maria Escobar |
@@ -206,8 +206,8 @@
 | 198 | 356 | Deyawn Smith |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
-| 201 | 350 | Chris Harr |
-| 202 | 350 | Brave Dropmatch |
+| 201 | 350 | Brave Dropmatch |
+| 202 | 350 | Chris Harr |
 | 203 | 350 | Kimberly Randesi |
 | 204 | 348 | Richard Horton |
 | 205 | 348 | Cherica Taylor |

@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Tasha Schriewer |
-| 61 | 371 | Jesse Olive |
+| 60 | 371 | Jesse Olive |
+| 61 | 371 | Tasha Schriewer |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -123,8 +123,8 @@
 | 115 | 200 | Twisty Brick LT |
 | 116 | 199 | joclisa |
 | 117 | 196 | Dan Rob |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -178,8 +178,8 @@
 | 170 | 127 | Marquita Sheard |
 | 171 | 126 | Brandon Givens |
 | 172 | 126 | Bryan Byrd |
-| 173 | 125 | Shimika Enay Wallace |
-| 174 | 125 | Felicia Doxey |
+| 173 | 125 | Felicia Doxey |
+| 174 | 125 | Shimika Enay Wallace |
 | 175 | 124 | Cesar Barraza |
 | 176 | 123 | Kristie McFarland |
 | 177 | 123 | Sarajane Lokan |
@@ -288,7 +288,7 @@
 | 280 | 80 | Vixen Queen |
 | 281 | 80 | Christian Luna |
 | 282 | 79 | Jessie Chung |
-| 283 | 79 | Rania Zaqout |
+| 283 | 79 | Brittany K Ward |
 | 284 | 79 | Amanda Neal |
 | 285 | 79 | Bleu Sun Beams |
 | 286 | 79 | Rania Zaqout |
