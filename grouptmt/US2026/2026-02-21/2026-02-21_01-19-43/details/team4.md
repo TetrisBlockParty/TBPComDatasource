@@ -43,8 +43,8 @@
 | 35 | 147 | Courtney Cicoria |
 | 36 | 147 | Kimyatta Cavin |
 | 37 | 141 | Edward White |
-| 38 | 140 | GreenJeepGirl |
-| 39 | 140 | Carter Jones |
+| 38 | 140 | Carter Jones |
+| 39 | 140 | GreenJeepGirl |
 | 40 | 130 | Casey Jeffcoat |
 | 41 | 129 | Samantha Peterson |
 | 42 | 128 | Robin Watters |
@@ -62,10 +62,10 @@
 | 54 | 112 | Chirpy Basepiece |
 | 55 | 111 | Gwendolyn Pitcairn |
 | 56 | 110 | H.R. Block |
-| 57 | 109 | Epic Curvetile |
-| 58 | 109 | Bryan Hodgins |
-| 59 | 108 | Diana Houts |
-| 60 | 108 | Mr. Party |
+| 57 | 109 | Bryan Hodgins |
+| 58 | 109 | Epic Curvetile |
+| 59 | 108 | Mr. Party |
+| 60 | 108 | Diana Houts |
 | 61 | 100 | Andria Lynn |
 | 62 | 100 | Michelle Morris |
 | 63 | 98 | Zany Shatterer |

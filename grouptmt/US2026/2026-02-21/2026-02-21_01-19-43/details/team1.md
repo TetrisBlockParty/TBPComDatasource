@@ -34,8 +34,8 @@
 | 26 | 196 | Elaine Elaine |
 | 27 | 194 | Sharon Reynolds |
 | 28 | 192 | Mandyy Rae |
-| 29 | 190 | Sweetts |
-| 30 | 190 | Jennifer Cates |
+| 29 | 190 | Jennifer Cates |
+| 30 | 190 | Sweetts |
 | 31 | 187 | Dee Perry |
 | 32 | 185 | Karin Gillen |
 | 33 | 180 | Happy Basegrid |
@@ -68,8 +68,8 @@
 | 60 | 112 | Nicole Roseberry Weber |
 | 61 | 110 | Heidi Feurer |
 | 62 | 109 | Dandy Basegrid |
-| 63 | 108 | Tavia |
-| 64 | 108 | Susanna Guerry |
+| 63 | 108 | Susanna Guerry |
+| 64 | 108 | Tavia |
 | 65 | 105 | Barry Mac'Ockner |
 | 66 | 105 | BigWeenie69 |
 | 67 | 104 | Robert Beck |

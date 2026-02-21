@@ -148,8 +148,8 @@
 | 140 | 271 | Toni Lynn |
 | 141 | 268 | Lonne Emade |
 | 142 | 268 | Vanessa Moreno |
-| 143 | 266 | Mighty Shatterfit |
-| 144 | 266 | Autumn Schaeffer |
+| 143 | 266 | Autumn Schaeffer |
+| 144 | 266 | Mighty Shatterfit |
 | 145 | 266 | Joyce Johnson Vaughn |
 | 146 | 265 | Wuntayk |
 | 147 | 263 | Shiny Rollzone |
@@ -399,8 +399,8 @@
 | 391 | 111 | Ri St |
 | 392 | 111 | Sabrena Yeisley |
 | 393 | 111 | Ashley M. Davis |
-| 394 | 110 | Theresa Ring |
-| 395 | 110 | Leslie |
+| 394 | 110 | Leslie |
+| 395 | 110 | Theresa Ring |
 | 396 | 110 | Britni Deas |
 | 397 | 109 | Lazy Riseclear |
 | 398 | 109 | Jroc |
