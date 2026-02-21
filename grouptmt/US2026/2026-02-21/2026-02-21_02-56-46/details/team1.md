@@ -85,14 +85,14 @@
 | 77 | 110 | Garcia Bailey |
 | 78 | 110 | Heidi Feurer |
 | 79 | 109 | Dandy Basegrid |
-| 80 | 108 | Tavia |
-| 81 | 108 | comrade fish |
+| 80 | 108 | comrade fish |
+| 81 | 108 | Tavia |
 | 82 | 107 | Jodee Woods |
 | 83 | 105 | Barry Mac'Ockner |
 | 84 | 105 | Flashy Rotator |
 | 85 | 100 | Ash Galvan |
-| 86 | 99 | Bhelle Sumile |
-| 87 | 99 | Ty Brown |
+| 86 | 99 | Ty Brown |
+| 87 | 99 | Bhelle Sumile |
 | 88 | 98 | Gary Gobin |
 | 89 | 96 | Nery Martinez |
 | 90 | 96 | Melissa Lemmon |

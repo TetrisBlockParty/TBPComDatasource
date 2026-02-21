@@ -46,16 +46,16 @@
 | 38 | 170 | Girl |
 | 39 | 168 | Anthony Magaraci |
 | 40 | 164 | Epic Curvetile |
-| 41 | 153 | Jae Job |
-| 42 | 153 | Lucille Truesdale |
+| 41 | 153 | Lucille Truesdale |
+| 42 | 153 | Jae Job |
 | 43 | 152 | Denise Carlson |
 | 44 | 149 | Courtney Cicoria |
 | 45 | 148 | Carter Jones |
 | 46 | 145 | Edward White |
 | 47 | 140 | Shannon Ferrari |
 | 48 | 138 | BertMofo |
-| 49 | 133 | Robin Watters |
-| 50 | 133 | Jessica Bohlken |
+| 49 | 133 | Jessica Bohlken |
+| 50 | 133 | Robin Watters |
 | 51 | 132 | Jenna McGeorge |
 | 52 | 131 | Dustee Craddock-Harrison |
 | 53 | 130 | Casey Jeffcoat |
@@ -114,8 +114,8 @@
 | 106 | 81 | Blessedmama |
 | 107 | 80 | Melissa Adams |
 | 108 | 79 | Shainne Brewer |
-| 109 | 78 | Zesty Linkgrid |
-| 110 | 78 | Chair |
+| 109 | 78 | Chair |
+| 110 | 78 | Zesty Linkgrid |
 | 111 | 77 | Destiney Carter |
 | 112 | 76 | Bethany Ison |
 | 113 | 76 | Jessica Miller |
