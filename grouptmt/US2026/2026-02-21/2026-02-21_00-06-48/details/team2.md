@@ -104,8 +104,8 @@
 | 96 | 317 | bru |
 | 97 | 299 | Véronique Lévesque Sabourin |
 | 98 | 297 | James Zaragoza |
-| 99 | 295 | Zany Clusterbuilder |
-| 100 | 295 | Diallo Sparkman |
+| 99 | 295 | Diallo Sparkman |
+| 100 | 295 | Zany Clusterbuilder |
 | 101 | 292 | Steve Grotto |
 | 102 | 286 | Juanita Lyons |
 | 103 | 285 | June E Hanson |
@@ -139,8 +139,8 @@
 | 131 | 249 | Janel Turley-Garner |
 | 132 | 247 | Fancy Twister |
 | 133 | 247 | Andrea Devery Beck |
-| 134 | 243 | Brandy Andre |
-| 135 | 243 | Shameika Trail |
+| 134 | 243 | Shameika Trail |
+| 135 | 243 | Brandy Andre |
 | 136 | 241 | Sabrina Burton |
 | 137 | 239 | Tee Jaleesa |
 | 138 | 238 | Cheech Dta |
