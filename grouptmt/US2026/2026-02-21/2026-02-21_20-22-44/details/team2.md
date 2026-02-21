@@ -291,8 +291,8 @@
 | 283 | 442 | Daphne Jordan |
 | 284 | 442 | Joshua Mandel |
 | 285 | 440 | Liberty |
-| 286 | 439 | Alisa Lamb |
-| 287 | 439 | Joseph Musick |
+| 286 | 439 | Joseph Musick |
+| 287 | 439 | Alisa Lamb |
 | 288 | 439 | Nashu |
 | 289 | 437 | Arwa Fatimah |
 | 290 | 436 | Melissa Kay Gibson |
@@ -1154,8 +1154,8 @@
 | 1146 | 118 | Samuel Labruno |
 | 1147 | 118 | ThunderSword |
 | 1148 | 118 | Chilly Wrecker |
-| 1149 | 117 | Britney Volz |
-| 1150 | 117 | Snazzy Striker |
+| 1149 | 117 | Snazzy Striker |
+| 1150 | 117 | Britney Volz |
 | 1151 | 117 | Kimmae Kimbrough |
 | 1152 | 117 | Luceros7 |
 | 1153 | 117 | Misty Mitchell |

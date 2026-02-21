@@ -78,8 +78,8 @@
 | 70 | 299 | Lehrin Maria |
 | 71 | 298 | Carrie Beck Geartz |
 | 72 | 297 | cc |
-| 73 | 293 | Shauna Loe |
-| 74 | 293 | Adam Byrd |
+| 73 | 293 | Adam Byrd |
+| 74 | 293 | Shauna Loe |
 | 75 | 291 | Sweet Baker |
 | 76 | 287 | Hyper |
 | 77 | 277 | Timothy Dew |
@@ -100,8 +100,8 @@
 | 92 | 238 | John J. Cronin |
 | 93 | 237 | Seante Bullock |
 | 94 | 230 | Frothy Pattern |
-| 95 | 228 | Trippy Redd |
-| 96 | 228 | Kellie |
+| 95 | 228 | Kellie |
+| 96 | 228 | Trippy Redd |
 | 97 | 226 | Sharon Reynolds |
 | 98 | 222 | Kristen Gideon |
 | 99 | 214 | Billie Dawn Sparks |
@@ -140,9 +140,9 @@
 | 132 | 170 | Veronica Eve |
 | 133 | 169 | Abbey Crespo |
 | 134 | 168 | Standia Civil |
-| 135 | 166 | John Barron |
-| 136 | 166 | Tana |
-| 137 | 166 | Rico Rico |
+| 135 | 166 | Tana |
+| 136 | 166 | Rico Rico |
+| 137 | 166 | John Barron |
 | 138 | 165 | Nadine Velardo |
 | 139 | 164 | Katie Daniels |
 | 140 | 163 | Tyler Whitley |
@@ -252,8 +252,8 @@
 | 244 | 99 | Meechie |
 | 245 | 98 | DoodleBug |
 | 246 | 98 | Howdi Duty |
-| 247 | 97 | Steve Bomkamp |
-| 248 | 97 | Jessica Rabon |
+| 247 | 97 | Jessica Rabon |
+| 248 | 97 | Steve Bomkamp |
 | 249 | 96 | Strig |
 | 250 | 96 | Teddy Alexander |
 | 251 | 95 | Jeanna Dunn |

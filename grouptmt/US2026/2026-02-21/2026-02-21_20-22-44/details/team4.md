@@ -195,10 +195,10 @@
 | 187 | 122 | 🥔🥔 Spudz |
 | 188 | 122 | Sherri |
 | 189 | 121 | Megan Cutshaw |
-| 190 | 121 | Joseph Pace |
-| 191 | 121 | Smiley Tiltbuilder |
-| 192 | 120 | KayM |
-| 193 | 120 | Jackie Marie |
+| 190 | 121 | Smiley Tiltbuilder |
+| 191 | 121 | Joseph Pace |
+| 192 | 120 | Jackie Marie |
+| 193 | 120 | KayM |
 | 194 | 120 | Joshua Guess |
 | 195 | 119 | Kristin Manee |
 | 196 | 119 | Judy Cox |

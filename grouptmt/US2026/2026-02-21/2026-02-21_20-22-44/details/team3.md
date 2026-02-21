@@ -116,8 +116,8 @@
 | 108 | 350 | Tiff Vs Tiffany |
 | 109 | 348 | CeceGeGe |
 | 110 | 332 | Chauntee Alfrey-Cardinale |
-| 111 | 323 | Ashley Raines |
-| 112 | 323 | Sherry Ogden |
+| 111 | 323 | Sherry Ogden |
+| 112 | 323 | Ashley Raines |
 | 113 | 321 | Dapper Snap |
 | 114 | 320 | Or Reznitsky |
 | 115 | 318 | Chasity |
@@ -165,8 +165,8 @@
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
 | 159 | 216 | Aaron Pitkin |
-| 160 | 214 | Amy Fuller Heaton |
-| 161 | 214 | Jenny Hrndz |
+| 160 | 214 | Jenny Hrndz |
+| 161 | 214 | Amy Fuller Heaton |
 | 162 | 212 | Krystal Gerstberger |
 | 163 | 211 | Katrina Turner |
 | 164 | 207 | Nicole Myers |
