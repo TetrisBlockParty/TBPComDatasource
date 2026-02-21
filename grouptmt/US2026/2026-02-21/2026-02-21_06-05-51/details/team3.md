@@ -39,8 +39,8 @@
 | 31 | 587 | Danielle Becker |
 | 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
-| 34 | 546 | Snappy Glidepiece |
-| 35 | 546 | Dolores Falco |
+| 34 | 546 | Dolores Falco |
+| 35 | 546 | Snappy Glidepiece |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |
@@ -57,8 +57,8 @@
 | 49 | 387 | Nerdy Spinblock |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
-| 52 | 372 | Patty Allen |
-| 53 | 372 | Rachel Bowers |
+| 52 | 372 | Rachel Bowers |
+| 53 | 372 | Patty Allen |
 | 54 | 371 | Jesse Olive |
 | 55 | 370 | yoyo |
 | 56 | 367 | Tetris Master |
@@ -119,8 +119,8 @@
 | 111 | 173 | Stephanie Simpson |
 | 112 | 172 | Ryan Williams |
 | 113 | 166 | Danielle Mogg |
-| 114 | 164 | rosy |
-| 115 | 164 | Louise Stacy Sisson |
+| 114 | 164 | Louise Stacy Sisson |
+| 115 | 164 | rosy |
 | 116 | 159 | Jone |
 | 117 | 159 | Morgan Martinez |
 | 118 | 158 | Grams |

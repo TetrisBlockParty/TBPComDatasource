@@ -207,8 +207,8 @@
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
 | 201 | 312 | Michelle Pike |
-| 202 | 311 | Véronique Lévesque Sabourin |
-| 203 | 311 | Dizzy Zone |
+| 202 | 311 | Dizzy Zone |
+| 203 | 311 | Véronique Lévesque Sabourin |
 | 204 | 309 | James Zaragoza |
 | 205 | 309 | Oscar Bernie |
 | 206 | 306 | Kristopher Miller |
@@ -256,18 +256,18 @@
 | 248 | 263 | Taylor Flowers |
 | 249 | 262 | Taren Cowan |
 | 250 | 261 | Leah |
-| 251 | 261 | MrsClaudette Will'sIam Matthews |
-| 252 | 261 | Peppy Zone |
-| 253 | 260 | Dapper Dasher |
-| 254 | 260 | Denise Rickman |
+| 251 | 261 | Peppy Zone |
+| 252 | 261 | MrsClaudette Will'sIam Matthews |
+| 253 | 260 | Denise Rickman |
+| 254 | 260 | Dapper Dasher |
 | 255 | 257 | Shameika Trail |
 | 256 | 257 | Lyndi Robinson Wakefield |
 | 257 | 256 | Giddy Gridclear |
 | 258 | 256 | Tee Jaleesa |
 | 259 | 255 | Santana Miyagi |
 | 260 | 254 | Julie Hamilton |
-| 261 | 252 | Matt Johnson |
-| 262 | 252 | Alezandra Smith |
+| 261 | 252 | Alezandra Smith |
+| 262 | 252 | Matt Johnson |
 | 263 | 251 | Ann Knutson Anderson |
 | 264 | 250 | Barbra Miller |
 | 265 | 249 | SwampRebel |
@@ -276,10 +276,10 @@
 | 268 | 248 | Dany Murillo |
 | 269 | 248 | Maddy Petersen |
 | 270 | 248 | Leah Keesling |
-| 271 | 247 | Andrea Devery Beck |
-| 272 | 247 | Fancy Twister |
-| 273 | 246 | Ashley Lopez |
-| 274 | 246 | Stephanie Lumanlan |
+| 271 | 247 | Fancy Twister |
+| 272 | 247 | Andrea Devery Beck |
+| 273 | 246 | Stephanie Lumanlan |
+| 274 | 246 | Ashley Lopez |
 | 275 | 245 | Rachael Senard |
 | 276 | 245 | Mischelle Clay |
 | 277 | 245 | Taryece Gause |
@@ -335,8 +335,8 @@
 | 327 | 205 | ElizabethAnn Dickinson |
 | 328 | 204 | Ali Gralski |
 | 329 | 204 | Rebecca Doughman |
-| 330 | 203 | Gary Stash |
-| 331 | 203 | coleksquad |
+| 330 | 203 | coleksquad |
+| 331 | 203 | Gary Stash |
 | 332 | 203 | Auntie B |
 | 333 | 202 | Christina Ashley |
 | 334 | 201 | Ashlyn Berner |
@@ -354,8 +354,8 @@
 | 346 | 196 | Neko Preston |
 | 347 | 196 | Alexandra Reese |
 | 348 | 194 | Hoppy Brickmatch |
-| 349 | 194 | Kimberly Ann |
-| 350 | 194 | Mike Aprilliano |
+| 349 | 194 | Mike Aprilliano |
+| 350 | 194 | Kimberly Ann |
 | 351 | 193 | Nika Bee |
 | 352 | 193 | Kelly Ann McCormick |
 | 353 | 193 | Matthew Turner |

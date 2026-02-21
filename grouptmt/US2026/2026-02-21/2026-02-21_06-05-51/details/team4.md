@@ -58,8 +58,8 @@
 | 50 | 185 | loulou |
 | 51 | 183 | David Lay |
 | 52 | 179 | Epic Curvetile |
-| 53 | 170 | Leah Kutz Zirbel |
-| 54 | 170 | Girl |
+| 53 | 170 | Girl |
+| 54 | 170 | Leah Kutz Zirbel |
 | 55 | 168 | Anthony Magaraci |
 | 56 | 167 | Dustee Craddock-Harrison |
 | 57 | 166 | Denise Carlson |
@@ -78,19 +78,19 @@
 | 70 | 145 | Edward White |
 | 71 | 141 | Malakai Darien Fox |
 | 72 | 140 | Shannon Ferrari |
-| 73 | 134 | Jessica Bohlken |
-| 74 | 134 | Chirpy Basepiece |
+| 73 | 134 | Chirpy Basepiece |
+| 74 | 134 | Jessica Bohlken |
 | 75 | 133 | Robin Watters |
 | 76 | 132 | Jenna McGeorge |
 | 77 | 132 | Melissa Priest Sellers |
 | 78 | 132 | Degenerate |
 | 79 | 131 | Zany Twisterfit |
-| 80 | 131 | Mr. Party |
-| 81 | 131 | Dana Scott |
+| 80 | 131 | Dana Scott |
+| 81 | 131 | Mr. Party |
 | 82 | 130 | Casey Jeffcoat |
 | 83 | 130 | Lucas J Sutton |
-| 84 | 129 | Landon Keith Graffeo |
-| 85 | 129 | John Brunetti |
+| 84 | 129 | John Brunetti |
+| 85 | 129 | Landon Keith Graffeo |
 | 86 | 126 | Tanner Lund |
 | 87 | 125 | Lauren Scott |
 | 88 | 123 | Nugget |

@@ -173,8 +173,8 @@
 | 165 | 74 | Grace Joanne Agnant |
 | 166 | 74 | Owicked1 |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | John J. Cronin |
-| 169 | 72 | Tipsy Strikerpiece |
+| 168 | 72 | Tipsy Strikerpiece |
+| 169 | 72 | John J. Cronin |
 | 170 | 71 | John Kim |
 | 171 | 70 | lil mickey |
 | 172 | 70 | Kenton Billings |
@@ -182,8 +182,8 @@
 | 174 | 70 | Seth Wesson |
 | 175 | 69 | Christy Jones |
 | 176 | 69 | Christina Torres |
-| 177 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 178 | 68 | Ariel Whittington |
+| 177 | 68 | Ariel Whittington |
+| 178 | 68 | Unelanuhi Belladonna Mystikal Bomar |
 | 179 | 67 | Mitchel White |
 | 180 | 66 | Dede |
 | 181 | 66 | Angela Fairbank |
