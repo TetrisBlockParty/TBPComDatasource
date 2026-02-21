@@ -107,13 +107,13 @@
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Chad Atchley |
-| 103 | 178 | Danielle Little-Daugherty |
+| 102 | 178 | Danielle Little-Daugherty |
+| 103 | 178 | Chad Atchley |
 | 104 | 175 | Nicole Roseberry Weber |
 | 105 | 175 | Dandy Basegrid |
 | 106 | 173 | Frothy Pattern |
-| 107 | 171 | Greg Premoe |
-| 108 | 171 | David DeSantis |
+| 107 | 171 | David DeSantis |
+| 108 | 171 | Greg Premoe |
 | 109 | 169 | Abbey Crespo |
 | 110 | 166 | Rico Rico |
 | 111 | 166 | Tana |
@@ -149,8 +149,8 @@
 | 141 | 138 | Gary Gobin |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
-| 144 | 135 | Cody Slav |
-| 145 | 135 | Giddy Cascade |
+| 144 | 135 | Giddy Cascade |
+| 145 | 135 | Cody Slav |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
 | 148 | 132 | Cody Gates |

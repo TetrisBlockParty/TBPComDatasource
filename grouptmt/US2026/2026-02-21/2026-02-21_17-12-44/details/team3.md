@@ -144,8 +144,8 @@
 | 136 | 222 | Jimmie Clemons |
 | 137 | 220 | Stephanie Blkpep Davidson |
 | 138 | 217 | Jess Bissett |
-| 139 | 216 | Tom Nault |
-| 140 | 216 | Aaron Pitkin |
+| 139 | 216 | Aaron Pitkin |
+| 140 | 216 | Tom Nault |
 | 141 | 214 | Amy Fuller Heaton |
 | 142 | 214 | Leah Barnett |
 | 143 | 213 | Morgan Martinez |
@@ -217,7 +217,7 @@
 | 209 | 150 | Valerie Gendron |
 | 210 | 149 | Peachy Rollfit |
 | 211 | 149 | Angel Mendez |
-| 212 | 149 | Peachy Rollfit |
+| 212 | 149 | Alexis Taylor |
 | 213 | 148 | Lesley Perez |
 | 214 | 148 | Gumbo |
 | 215 | 148 | Jennifer Alvey |

@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -372,8 +372,8 @@
 | 364 | 305 | Libby Hicks |
 | 365 | 304 | Frisky Clearpiece |
 | 366 | 303 | Amanda Schaffer |
-| 367 | 303 | Melissa Kay Gibson |
-| 368 | 303 | Crystal Greene |
+| 367 | 303 | Crystal Greene |
+| 368 | 303 | Melissa Kay Gibson |
 | 369 | 301 | Claire |
 | 370 | 300 | Angela Lynn |
 | 371 | 299 | Megan Phillips |
@@ -396,8 +396,8 @@
 | 388 | 283 | Byung Bae Park |
 | 389 | 282 | Shaun Church |
 | 390 | 282 | Carl Bradshaw |
-| 391 | 281 | Ellie Jonas |
-| 392 | 281 | Justin Hines |
+| 391 | 281 | Justin Hines |
+| 392 | 281 | Ellie Jonas |
 | 393 | 280 | Shorty |
 | 394 | 280 | Tonya Lee |
 | 395 | 280 | SwampRebel |
@@ -405,8 +405,8 @@
 | 397 | 280 | Lonne Emade |
 | 398 | 279 | Glitzy Stackzone |
 | 399 | 278 | Deana |
-| 400 | 278 | Demeka Dangerous-kisses Johnson |
-| 401 | 278 | Ray Ray Prado |
+| 400 | 278 | Ray Ray Prado |
+| 401 | 278 | Demeka Dangerous-kisses Johnson |
 | 402 | 277 | Mary Marie |
 | 403 | 276 | Lindsey Leigh |
 | 404 | 276 | Vonceial Boone |
@@ -439,8 +439,8 @@
 | 431 | 256 | Tee Jaleesa |
 | 432 | 255 | Snappy Shatterfit |
 | 433 | 254 | Julie Hamilton |
-| 434 | 254 | Rose Fx |
-| 435 | 254 | Elizabeth Diraffaele |
+| 434 | 254 | Elizabeth Diraffaele |
+| 435 | 254 | Rose Fx |
 | 436 | 254 | Ann Knutson Anderson |
 | 437 | 253 | Kimmy Newman |
 | 438 | 253 | Tansaria Couch-Butler |
@@ -467,8 +467,8 @@
 | 459 | 246 | Stephanie Lumanlan |
 | 460 | 246 | Pocho Zavala |
 | 461 | 245 | Rachael Senard |
-| 462 | 245 | Lewis Sturgeon |
-| 463 | 245 | Sanaa Nounoussa |
+| 462 | 245 | Sanaa Nounoussa |
+| 463 | 245 | Lewis Sturgeon |
 | 464 | 244 | Belle |
 | 465 | 244 | Nakiiya Dreamcatcher Gore |
 | 466 | 243 | JacJac |
