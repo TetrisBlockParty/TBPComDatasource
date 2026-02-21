@@ -14,8 +14,8 @@
 | 6 | 3844 | 赵珞涵 |
 | 7 | 3719 | Cassie Donica |
 | 8 | 3701 | Nicole Rowley |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3460 | Poppy Snap |
 | 12 | 3453 | Tiaira Patrice' |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -124,8 +124,8 @@
 | 116 | 631 | Loopy Clusterbuilder |
 | 117 | 620 | BYM4L |
 | 118 | 619 | Jamie Otero |
-| 119 | 608 | Sommer Shope |
-| 120 | 608 | John Bednarik |
+| 119 | 608 | John Bednarik |
+| 120 | 608 | Sommer Shope |
 | 121 | 602 | L3sli3 |
 | 122 | 601 | Nancy Reid |
 | 123 | 597 | Andea Beck |
@@ -188,8 +188,8 @@
 | 180 | 453 | Em Chen |
 | 181 | 453 | Mischelle Clay |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Cheech Dta |
-| 184 | 450 | Giggy Blocker |
+| 183 | 450 | Giggy Blocker |
+| 184 | 450 | Cheech Dta |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |
@@ -247,8 +247,8 @@
 | 239 | 348 | Richard Horton |
 | 240 | 345 | Rhianna DiLorenzo |
 | 241 | 345 | Brenda Messer |
-| 242 | 344 | Julie Kresal |
-| 243 | 344 | Glenn Cobbins |
+| 242 | 344 | Glenn Cobbins |
+| 243 | 344 | Julie Kresal |
 | 244 | 343 | F-X |
 | 245 | 341 | Joce Lynn |
 | 246 | 340 | Cassie Maynard |
@@ -408,8 +408,8 @@
 | 400 | 233 | Jumpy Gridclear |
 | 401 | 233 | Nutty Matchline |
 | 402 | 232 | Amber Brion |
-| 403 | 231 | Dylan Thomason |
-| 404 | 231 | Mema |
+| 403 | 231 | Mema |
+| 404 | 231 | Dylan Thomason |
 | 405 | 231 | Hong Tang |
 | 406 | 230 | Anthony Mignacca |
 | 407 | 230 | Leslie Johnson Guinto |
@@ -451,17 +451,17 @@
 | 443 | 201 | Peppy Snapfall |
 | 444 | 201 | Twisty Tetriblast |
 | 445 | 200 | Angela Yantz |
-| 446 | 200 | LaWanda Powell |
-| 447 | 200 | Sarah Ridenour |
+| 446 | 200 | Sarah Ridenour |
+| 447 | 200 | LaWanda Powell |
 | 448 | 199 | Fi Ne |
-| 449 | 199 | Jessica Sutter |
-| 450 | 199 | Jenny Castro |
-| 451 | 199 | Alyssa Nadine Medelez |
+| 449 | 199 | Jenny Castro |
+| 450 | 199 | Alyssa Nadine Medelez |
+| 451 | 199 | Jessica Sutter |
 | 452 | 198 | Angie Bolton Workman |
 | 453 | 198 | Alyssa Dean |
 | 454 | 196 | Besma Ao |
-| 455 | 196 | Alexandra Reese |
-| 456 | 196 | Cass Shirley |
+| 455 | 196 | Cass Shirley |
+| 456 | 196 | Alexandra Reese |
 | 457 | 195 | Snappy Shatterfit |
 | 458 | 195 | Kiana Boschh |
 | 459 | 194 | Kitybox |
@@ -815,8 +815,8 @@
 | 807 | 116 | Moua Ying |
 | 808 | 116 | Jennifer Monroe Kelly |
 | 809 | 116 | Nicolle Danielle |
-| 810 | 115 | AsnPryBoy83 |
-| 811 | 115 | Fae-Bulous |
+| 810 | 115 | Fae-Bulous |
+| 811 | 115 | AsnPryBoy83 |
 | 812 | 115 | Angela KaplaSchwahn |
 | 813 | 115 | Melissa Schwager |
 | 814 | 114 | James Louie |
@@ -860,8 +860,8 @@
 | 852 | 109 | Scott |
 | 853 | 109 | DreBeast |
 | 854 | 109 | Chummy Caster |
-| 855 | 109 | Stephanie Matas |
-| 856 | 109 | hyperbole |
+| 855 | 109 | hyperbole |
+| 856 | 109 | Stephanie Matas |
 | 857 | 109 | Jaxson |
 | 858 | 109 | Andrew Engman |
 | 859 | 108 | Jeffrey Barrows |

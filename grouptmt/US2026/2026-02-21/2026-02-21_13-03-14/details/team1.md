@@ -50,8 +50,8 @@
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
 | 44 | 276 | Kristen Roles Robben |
-| 45 | 274 | Theo Pinnow |
-| 46 | 274 | Sweet Baker |
+| 45 | 274 | Sweet Baker |
+| 46 | 274 | Theo Pinnow |
 | 47 | 272 | Adam Byrd |
 | 48 | 264 | Shauna Loe |
 | 49 | 257 | Sarah Roberts |
@@ -69,11 +69,11 @@
 | 61 | 212 | Jaimie Lynn |
 | 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Carrie Beck Geartz |
-| 65 | 208 | Mandyy Rae |
+| 64 | 208 | Mandyy Rae |
+| 65 | 208 | Carrie Beck Geartz |
 | 66 | 205 | Trippy Redd |
-| 67 | 204 | Lexuriuos Lifestlye |
-| 68 | 204 | Ly Phethmany |
+| 67 | 204 | Ly Phethmany |
+| 68 | 204 | Lexuriuos Lifestlye |
 | 69 | 202 | Dee Perry |
 | 70 | 201 | Ananda Mendez |
 | 71 | 201 | Anaid Sanchez |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -100,9 +100,9 @@
 | 92 | 162 | Patrick Luckenbill |
 | 93 | 161 | Abbey Crespo |
 | 94 | 156 | Jessie Lynn |
-| 95 | 155 | Cece Ibarra |
-| 96 | 155 | Standia Civil |
-| 97 | 155 | David DeSantis |
+| 95 | 155 | Standia Civil |
+| 96 | 155 | David DeSantis |
+| 97 | 155 | Cece Ibarra |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
 | 100 | 149 | Arianna O'Brien |
@@ -239,8 +239,8 @@
 | 231 | 74 | BadG52 |
 | 232 | 74 | Owicked1 |
 | 233 | 73 | Shanae Grant |
-| 234 | 72 | Ric Hard Hernandez |
-| 235 | 72 | Tipsy Strikerpiece |
+| 234 | 72 | Tipsy Strikerpiece |
+| 235 | 72 | Ric Hard Hernandez |
 | 236 | 71 | Loneell Hyland |
 | 237 | 70 | Kenton Billings |
 | 238 | 70 | LaFontaine Leslie |

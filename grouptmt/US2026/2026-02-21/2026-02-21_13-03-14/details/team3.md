@@ -92,8 +92,8 @@
 | 84 | 320 | Or Reznitsky |
 | 85 | 316 | Fancy Cascader |
 | 86 | 313 | Elaine Webb Graves |
-| 87 | 309 | Rich LeBlanc |
-| 88 | 309 | CeceGeGe |
+| 87 | 309 | CeceGeGe |
+| 88 | 309 | Rich LeBlanc |
 | 89 | 307 | Peggi Charon |
 | 90 | 307 | Blocked |
 | 91 | 300 | Sherika C. McDaniels |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Jenny Hrndz |
-| 125 | 195 | Nicha Hooker |
+| 124 | 195 | Nicha Hooker |
+| 125 | 195 | Jenny Hrndz |
 | 126 | 194 | glichmod |
 | 127 | 193 | Clever Shiftsnap |
 | 128 | 193 | Stephanie Burtin |
@@ -151,8 +151,8 @@
 | 143 | 175 | Logan Naccarato |
 | 144 | 167 | Rebel124 |
 | 145 | 167 | Raven Dudley |
-| 146 | 166 | Danielle Mogg |
-| 147 | 166 | Betty Rosas |
+| 146 | 166 | Betty Rosas |
+| 147 | 166 | Danielle Mogg |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
 | 150 | 164 | DanceLuvLaugh |
