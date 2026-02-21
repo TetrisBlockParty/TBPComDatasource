@@ -83,8 +83,8 @@
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Casey Grabner |
-| 79 | 165 | Courtney Cicoria |
+| 78 | 165 | Courtney Cicoria |
+| 79 | 165 | Casey Grabner |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Justin Hannigan |
 | 82 | 159 | Shauna Havard |
@@ -100,8 +100,8 @@
 | 92 | 140 | Shannon Ferrari |
 | 93 | 138 | Shainne Brewer |
 | 94 | 136 | Tanner Lund |
-| 95 | 134 | Jessica Bohlken |
-| 96 | 134 | Chirpy Basepiece |
+| 95 | 134 | Chirpy Basepiece |
+| 96 | 134 | Jessica Bohlken |
 | 97 | 133 | Robin Watters |
 | 98 | 132 | Melissa Priest Sellers |
 | 99 | 132 | Jenna McGeorge |

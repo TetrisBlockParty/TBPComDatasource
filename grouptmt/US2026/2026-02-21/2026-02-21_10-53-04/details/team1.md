@@ -75,13 +75,13 @@
 | 67 | 198 | Billie Dawn Sparks |
 | 68 | 198 | Happy Snapbuild |
 | 69 | 197 | Cynthia Bradley |
-| 70 | 194 | Giggly Builderline |
-| 71 | 194 | Sharon Reynolds |
+| 70 | 194 | Sharon Reynolds |
+| 71 | 194 | Giggly Builderline |
 | 72 | 193 | Lachelle Dillon |
 | 73 | 192 | Shaykmia |
 | 74 | 191 | Jazzy Framezone |
-| 75 | 190 | Thorne Shumate |
-| 76 | 190 | Sweetts |
+| 75 | 190 | Sweetts |
+| 76 | 190 | Thorne Shumate |
 | 77 | 189 | Happy Basegrid |
 | 78 | 180 | Erez Yosef |
 | 79 | 173 | june october |
@@ -147,8 +147,8 @@
 | 139 | 106 | Ash Galvan |
 | 140 | 106 | Aimee Horton |
 | 141 | 105 | Ty Brown |
-| 142 | 104 | Charla Pross-Fugleberg |
-| 143 | 104 | Bindi |
+| 142 | 104 | Bindi |
+| 143 | 104 | Charla Pross-Fugleberg |
 | 144 | 103 | Angela Fairbank |
 | 145 | 103 | Adryane Schnase |
 | 146 | 102 | Jennifer ManWarren |

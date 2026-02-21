@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Mendoza Lee Christy |
-| 71 | 345 | Christine Niles |
+| 70 | 345 | Christine Niles |
+| 71 | 345 | Mendoza Lee Christy |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Annie Déè |
 | 74 | 342 | Trezure Gonzalez |
@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -137,8 +137,8 @@
 | 129 | 182 | Ashley Tookes |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
-| 132 | 178 | Khaleada McGill Banks |
-| 133 | 178 | AlsoJess |
+| 132 | 178 | AlsoJess |
+| 133 | 178 | Khaleada McGill Banks |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
 | 136 | 168 | Giddy Twistbuilder |
@@ -147,26 +147,26 @@
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
-| 142 | 159 | Morgan Martinez |
-| 143 | 159 | Jone |
-| 144 | 159 | Mcathen |
+| 142 | 159 | Jone |
+| 143 | 159 | Mcathen |
+| 144 | 159 | Morgan Martinez |
 | 145 | 158 | Grams |
 | 146 | 157 | Patricia Gadsden |
 | 147 | 157 | Nicholas Roddy |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Stephanie Whitefield |
-| 152 | 153 | Beth Ingham |
+| 151 | 153 | Beth Ingham |
+| 152 | 153 | Stephanie Whitefield |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
 | 156 | 149 | Angel Mendez |
-| 157 | 149 | Bea Miles |
-| 158 | 149 | Trisha Balmer |
+| 157 | 149 | Trisha Balmer |
+| 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Latoya Mayne |
-| 161 | 146 | Denita Mungro |
+| 160 | 146 | Denita Mungro |
+| 161 | 146 | Latoya Mayne |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Jay Horn |
@@ -183,8 +183,8 @@
 | 175 | 127 | Aerian Preston |
 | 176 | 127 | Joy Petroski |
 | 177 | 126 | Brandon Givens |
-| 178 | 125 | Felicia Doxey |
-| 179 | 125 | Shimika Enay Wallace |
+| 178 | 125 | Shimika Enay Wallace |
+| 179 | 125 | Felicia Doxey |
 | 180 | 124 | Cesar Barraza |
 | 181 | 123 | Terry Jo Jones |
 | 182 | 123 | Marci Mize Fandrich |

@@ -112,8 +112,8 @@
 | 104 | 658 | Pacynthia Williams |
 | 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Anna Edwards |
-| 108 | 649 | Stephanie Chapman |
+| 107 | 649 | Stephanie Chapman |
+| 108 | 649 | Anna Edwards |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
 | 111 | 631 | Peppy Zone |
@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | Ramone Armstrong |
-| 155 | 486 | MrsCandyfine As Wine Truss |
+| 154 | 486 | MrsCandyfine As Wine Truss |
+| 155 | 486 | Ramone Armstrong |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -268,12 +268,12 @@
 | 260 | 299 | Christy Krissie |
 | 261 | 299 | Deborah Miller |
 | 262 | 297 | Brenda Utphall |
-| 263 | 296 | Amber Gray |
-| 264 | 296 | Jennifer Casey-Kay |
+| 263 | 296 | Jennifer Casey-Kay |
+| 264 | 296 | Amber Gray |
 | 265 | 296 | Jennifer Darby |
-| 266 | 295 | Zany Clusterbuilder |
-| 267 | 295 | Diallo Sparkman |
-| 268 | 295 | Angela Bonquiqui Dinish |
+| 266 | 295 | Angela Bonquiqui Dinish |
+| 267 | 295 | Zany Clusterbuilder |
+| 268 | 295 | Diallo Sparkman |
 | 269 | 293 | Scott Treadway |
 | 270 | 293 | David Holliday |
 | 271 | 290 | Jessie McDougald |
@@ -562,14 +562,14 @@
 | 554 | 148 | ItsJennifer Neriss |
 | 555 | 148 | Tyler C. Jung |
 | 556 | 148 | Cleo Sims |
-| 557 | 147 | Smiley Strike |
-| 558 | 147 | Sassy Pivot |
+| 557 | 147 | Sassy Pivot |
+| 558 | 147 | Smiley Strike |
 | 559 | 147 | Jeremy Parodi |
 | 560 | 146 | Sherry Aguinaga |
 | 561 | 146 | Ibiza Carolina LaRose |
 | 562 | 145 | William Hughes |
-| 563 | 145 | Chareen Lauritzen |
-| 564 | 145 | Scott Rackley |
+| 563 | 145 | Scott Rackley |
+| 564 | 145 | Chareen Lauritzen |
 | 565 | 145 | Anastacio Hernandez |
 | 566 | 145 | Kiorah Blaze |
 | 567 | 144 | Jamie Brickley |
