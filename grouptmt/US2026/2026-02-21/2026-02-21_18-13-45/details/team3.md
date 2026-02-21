@@ -115,8 +115,8 @@
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | CeceGeGe |
-| 111 | 309 | Rich LeBlanc |
+| 110 | 309 | Rich LeBlanc |
+| 111 | 309 | CeceGeGe |
 | 112 | 307 | Peggi Charon |
 | 113 | 307 | Blocked |
 | 114 | 300 | Sherika C. McDaniels |
@@ -260,8 +260,8 @@
 | 252 | 128 | Jen Lewis |
 | 253 | 128 | MizzMonick Smith |
 | 254 | 127 | mzcatzy |
-| 255 | 126 | April Matthew Kibble |
-| 256 | 126 | Pam Holt Powell |
+| 255 | 126 | Pam Holt Powell |
+| 256 | 126 | April Matthew Kibble |
 | 257 | 126 | RickyG |
 | 258 | 125 | Felicia Doxey |
 | 259 | 125 | Shimika Enay Wallace |
@@ -302,8 +302,8 @@
 | 294 | 109 | Diana Ibarra |
 | 295 | 108 | LaTanya GeminiondaRise Johnson |
 | 296 | 108 | Hanna Kim |
-| 297 | 107 | Jumpy Wrecker |
-| 298 | 107 | Melissa Snyder |
+| 297 | 107 | Melissa Snyder |
+| 298 | 107 | Jumpy Wrecker |
 | 299 | 107 | Bouncy Blockbuilder |
 | 300 | 106 | Cheeky Snapper |
 | 301 | 106 | Saucy Buildout |
@@ -315,9 +315,9 @@
 | 307 | 104 | bean |
 | 308 | 104 | Ashley Rufus Bythcez |
 | 309 | 103 | Lisa Lisa |
-| 310 | 103 | Kate Farok |
+| 310 | 103 | Andrew Thorson |
 | 311 | 103 | Wetwet |
-| 312 | 103 | Andrew Thorson |
+| 312 | 103 | Kate Farok |
 | 313 | 102 | Criss |
 | 314 | 102 | Christian Luna |
 | 315 | 102 | Rania Zaqout |
@@ -346,8 +346,8 @@
 | 338 | 96 | Christopher Woost |
 | 339 | 96 | D3NO |
 | 340 | 95 | Brooke Bauer |
-| 341 | 94 | Tracey Cox |
-| 342 | 94 | Nichole Greene |
+| 341 | 94 | Nichole Greene |
+| 342 | 94 | Tracey Cox |
 | 343 | 93 | Tiffany Ford |
 | 344 | 93 | Kevin Russell |
 | 345 | 93 | Martin Bernier |

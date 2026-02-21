@@ -293,8 +293,8 @@
 | 285 | 391 | Brenda Utphall |
 | 286 | 390 | Kimberly Randesi |
 | 287 | 389 | Kristen O'Neal |
-| 288 | 386 | Macy Williams |
-| 289 | 386 | Deanna Morton |
+| 288 | 386 | Deanna Morton |
+| 289 | 386 | Macy Williams |
 | 290 | 383 | Arkei Luster |
 | 291 | 382 | David Holliday |
 | 292 | 381 | Bubbly Snapfit |
@@ -319,8 +319,8 @@
 | 311 | 358 | Alyssaaelena |
 | 312 | 357 | Shannon Byrd |
 | 313 | 357 | Julie Kresal |
-| 314 | 355 | Shandrica Lowe |
-| 315 | 355 | Alexandra Weir |
+| 314 | 355 | Alexandra Weir |
+| 315 | 355 | Shandrica Lowe |
 | 316 | 354 | Lawanda Forbes |
 | 317 | 354 | Brave Dropmatch |
 | 318 | 354 | Tracy Wise |
@@ -508,8 +508,8 @@
 | 500 | 237 | Ben Barkley |
 | 501 | 237 | Heather Piotrowski |
 | 502 | 237 | Kiorah Blaze |
-| 503 | 236 | snkylnk |
-| 504 | 236 | Brave Gridpiece |
+| 503 | 236 | Brave Gridpiece |
+| 504 | 236 | snkylnk |
 | 505 | 236 | Julio A Laracuente |
 | 506 | 234 | KayLynn Ogden McClelland |
 | 507 | 234 | Manny Trindade |
@@ -558,11 +558,11 @@
 | 550 | 214 | Dawn L Washington-Feuquay |
 | 551 | 214 | Jelly |
 | 552 | 214 | James Smith |
-| 553 | 213 | Stanley Vanekelenburg |
-| 554 | 213 | Kitybox |
+| 553 | 213 | Kitybox |
+| 554 | 213 | Stanley Vanekelenburg |
 | 555 | 212 | Wacky Cascade |
-| 556 | 212 | BK Queen |
-| 557 | 212 | Denelle Wendt-Ramalho |
+| 556 | 212 | Denelle Wendt-Ramalho |
+| 557 | 212 | BK Queen |
 | 558 | 211 | Trisha Gallagher |
 | 559 | 211 | Ys Muhammed |
 | 560 | 210 | Joshua Switzer |
@@ -600,15 +600,15 @@
 | 592 | 200 | Sveta Lana |
 | 593 | 199 | Jenny Castro |
 | 594 | 199 | Jessica Sutter |
-| 595 | 199 | Jenny Castro |
+| 595 | 199 | Alyssa Nadine Medelez |
 | 596 | 198 | Angi Harrison |
 | 597 | 197 | Kati Russeau |
 | 598 | 196 | Zak Dunn |
 | 599 | 196 | Alexandra Reese |
 | 600 | 195 | Synn |
-| 601 | 195 | Jannan Haimour |
-| 602 | 195 | Mary Boss |
-| 603 | 195 | Darlene Bowman |
+| 601 | 195 | Mary Boss |
+| 602 | 195 | Darlene Bowman |
+| 603 | 195 | Jannan Haimour |
 | 604 | 195 | Darcy Mae |
 | 605 | 194 | Regina Unruh |
 | 606 | 194 | Rachel Switala |

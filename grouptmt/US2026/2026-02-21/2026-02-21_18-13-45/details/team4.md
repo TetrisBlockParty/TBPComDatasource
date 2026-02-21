@@ -92,11 +92,11 @@
 | 84 | 205 | Sarah Neathery |
 | 85 | 204 | Brittney Orengo |
 | 86 | 202 | Monica Daley |
-| 87 | 201 | shar |
-| 88 | 201 | Joseph Guthrie |
+| 87 | 201 | Joseph Guthrie |
+| 88 | 201 | shar |
 | 89 | 200 | Holly Jolly |
-| 90 | 198 | Mike Solo |
-| 91 | 198 | Dustee Craddock-Harrison |
+| 90 | 198 | Dustee Craddock-Harrison |
+| 91 | 198 | Mike Solo |
 | 92 | 196 | Jeff Brian Gates |
 | 93 | 194 | Calvin Cannon |
 | 94 | 194 | Zany Twisterfit |
@@ -174,8 +174,8 @@
 | 166 | 122 | Sherri |
 | 167 | 121 | Megan Cutshaw |
 | 168 | 121 | Smiley Tiltbuilder |
-| 169 | 120 | KayM |
-| 170 | 120 | Joshua Guess |
+| 169 | 120 | Joshua Guess |
+| 170 | 120 | KayM |
 | 171 | 119 | Judy Cox |
 | 172 | 119 | Kristin Manee |
 | 173 | 119 | Gwendolyn Pitcairn |

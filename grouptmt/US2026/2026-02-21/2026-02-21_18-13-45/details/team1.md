@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -98,8 +98,8 @@
 | 90 | 211 | Marianita Garcia |
 | 91 | 210 | Ly Phethmany |
 | 92 | 205 | Frothy Pattern |
-| 93 | 204 | Ananda Mendez |
-| 94 | 204 | Anaid Sanchez |
+| 93 | 204 | Anaid Sanchez |
+| 94 | 204 | Ananda Mendez |
 | 95 | 203 | Giggly Builderline |
 | 96 | 198 | Happy Snapbuild |
 | 97 | 197 | Cynthia Bradley |
@@ -160,8 +160,8 @@
 | 152 | 138 | Death |
 | 153 | 137 | Nadine Velardo |
 | 154 | 136 | Dino |
-| 155 | 135 | Giddy Cascade |
-| 156 | 135 | Cody Slav |
+| 155 | 135 | Cody Slav |
+| 156 | 135 | Giddy Cascade |
 | 157 | 134 | Trina Gee |
 | 158 | 133 | Breanna Luna |
 | 159 | 132 | Davery Spencer Adair |
@@ -183,8 +183,8 @@
 | 175 | 122 | Melissa Lemmon |
 | 176 | 122 | Margo Wagner |
 | 177 | 121 | April Carroll |
-| 178 | 120 | Kimmie Kimms |
-| 179 | 120 | Alenoush Karimian |
+| 178 | 120 | Alenoush Karimian |
+| 179 | 120 | Kimmie Kimms |
 | 180 | 119 | Tater |
 | 181 | 118 | Luciano Moreira |
 | 182 | 116 | Jessica Russell |
@@ -209,11 +209,11 @@
 | 201 | 106 | Alyssa Ingram |
 | 202 | 106 | Chantelle Ceno |
 | 203 | 106 | Bloknboy |
-| 204 | 105 | Ty Brown |
+| 204 | 105 | Funky Piecebuilder |
 | 205 | 105 | Fmp |
-| 206 | 105 | Funky Piecebuilder |
-| 207 | 104 | Charla Pross-Fugleberg |
-| 208 | 104 | Bindi |
+| 206 | 105 | Ty Brown |
+| 207 | 104 | Bindi |
+| 208 | 104 | Charla Pross-Fugleberg |
 | 209 | 103 | Kayla Marie Stevenson |
 | 210 | 102 | Gracie |
 | 211 | 101 | Owicked1 |
