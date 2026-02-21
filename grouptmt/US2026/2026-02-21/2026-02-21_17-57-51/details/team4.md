@@ -91,10 +91,10 @@
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Monica Daley |
-| 87 | 200 | Holly Jolly |
-| 88 | 198 | Dustee Craddock-Harrison |
-| 89 | 198 | Mike Solo |
+| 86 | 200 | Holly Jolly |
+| 87 | 200 | Monica Daley |
+| 88 | 198 | Mike Solo |
+| 89 | 198 | Dustee Craddock-Harrison |
 | 90 | 194 | Zany Twisterfit |
 | 91 | 194 | Calvin Cannon |
 | 92 | 192 | Crystal Carroll |

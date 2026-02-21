@@ -104,8 +104,8 @@
 | 96 | 359 | Jessica Bechler |
 | 97 | 356 | Adrian Marcel Pate |
 | 98 | 352 | Trezure Gonzalez |
-| 99 | 350 | Speedy Bridger |
-| 100 | 350 | Shannon Matthew Byers |
+| 99 | 350 | Shannon Matthew Byers |
+| 100 | 350 | Speedy Bridger |
 | 101 | 344 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
@@ -209,8 +209,8 @@
 | 201 | 160 | Tiffany Davie |
 | 202 | 159 | Jone |
 | 203 | 157 | Marquita Sheard |
-| 204 | 157 | Patricia Gadsden |
-| 205 | 157 | Nicholas Roddy |
+| 204 | 157 | Nicholas Roddy |
+| 205 | 157 | Patricia Gadsden |
 | 206 | 156 | Bea Miles |
 | 207 | 155 | Loopy Fallzone |
 | 208 | 153 | Cozy Snaplink |
@@ -232,8 +232,8 @@
 | 224 | 146 | Latoya Mayne |
 | 225 | 146 | Carrie Huskey |
 | 226 | 145 | Jeni Dow |
-| 227 | 145 | Emma |
-| 228 | 145 | Bryan Byrd |
+| 227 | 145 | Bryan Byrd |
+| 228 | 145 | Emma |
 | 229 | 142 | Jl |
 | 230 | 142 | David Bardo |
 | 231 | 142 | Erica Anderson |
@@ -299,8 +299,8 @@
 | 291 | 109 | mommablock |
 | 292 | 108 | LaTanya GeminiondaRise Johnson |
 | 293 | 108 | Hanna Kim |
-| 294 | 107 | Melissa Snyder |
-| 295 | 107 | Jumpy Wrecker |
+| 294 | 107 | Jumpy Wrecker |
+| 295 | 107 | Melissa Snyder |
 | 296 | 107 | Bouncy Blockbuilder |
 | 297 | 106 | Cheeky Snapper |
 | 298 | 106 | Saucy Buildout |
@@ -342,8 +342,8 @@
 | 334 | 96 | Christopher Woost |
 | 335 | 96 | D3NO |
 | 336 | 95 | Brooke Bauer |
-| 337 | 94 | Tracey Cox |
-| 338 | 94 | Nichole Greene |
+| 337 | 94 | Nichole Greene |
+| 338 | 94 | Tracey Cox |
 | 339 | 93 | Tiffany Ford |
 | 340 | 93 | Kevin Russell |
 | 341 | 93 | Martin Bernier |

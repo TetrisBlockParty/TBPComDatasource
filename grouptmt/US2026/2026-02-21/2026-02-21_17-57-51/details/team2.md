@@ -164,8 +164,8 @@
 | 156 | 620 | BYM4L |
 | 157 | 619 | Jamie Otero |
 | 158 | 613 | Rebecca Doughman |
-| 159 | 608 | John Bednarik |
-| 160 | 608 | Sommer Shope |
+| 159 | 608 | Sommer Shope |
+| 160 | 608 | John Bednarik |
 | 161 | 604 | Danielle Johnson-Chandler |
 | 162 | 604 | Amber Shoemaker |
 | 163 | 603 | Cassie Maynard |
@@ -271,8 +271,8 @@
 | 263 | 409 | Sparkles |
 | 264 | 408 | Amanda Ferrell |
 | 265 | 406 | Erin StFrancis |
-| 266 | 405 | Sarah Massey |
-| 267 | 405 | Christy Krissie |
+| 266 | 405 | Christy Krissie |
+| 267 | 405 | Sarah Massey |
 | 268 | 402 | Joshua Mandel |
 | 269 | 400 | Maegan Beaule |
 | 270 | 400 | Tammy Allen |
@@ -639,7 +639,7 @@
 | 631 | 184 | Amanda Diegel |
 | 632 | 184 | Monarca26 |
 | 633 | 184 | Theresa Sterrett |
-| 634 | 184 | Monarca26 |
+| 634 | 184 | Donna M Carter |
 | 635 | 184 | BamaGirlinTX |
 | 636 | 183 | Cappin You |
 | 637 | 183 | Wakanda Forever |
@@ -721,9 +721,9 @@
 | 713 | 164 | Jessica Vega |
 | 714 | 164 | Dapper Blockroll |
 | 715 | 164 | Sara Pennington |
-| 716 | 163 | Jacob Huffman |
-| 717 | 163 | Ethan Stienbarger |
-| 718 | 163 | Tiffney Wroten |
+| 716 | 163 | Tiffney Wroten |
+| 717 | 163 | Jacob Huffman |
+| 718 | 163 | Ethan Stienbarger |
 | 719 | 163 | Angelica |
 | 720 | 162 | Alice Samm |
 | 721 | 162 | LC Hamilton |

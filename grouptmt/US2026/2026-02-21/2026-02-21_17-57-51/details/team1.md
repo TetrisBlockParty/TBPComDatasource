@@ -65,8 +65,8 @@
 | 57 | 293 | Adam Byrd |
 | 58 | 287 | Hyper |
 | 59 | 286 | Tipsy Column |
-| 60 | 285 | Carrie Beck Geartz |
-| 61 | 285 | Sweet Baker |
+| 60 | 285 | Sweet Baker |
+| 61 | 285 | Carrie Beck Geartz |
 | 62 | 281 | Shauna Loe |
 | 63 | 277 | Timothy Dew |
 | 64 | 274 | Theo Pinnow |
@@ -235,8 +235,8 @@
 | 227 | 93 | Jenny Gingrich Fuentes |
 | 228 | 93 | Dizzy Riseclear |
 | 229 | 90 | Steve Schneider |
-| 230 | 90 | Daring Fitclear |
-| 231 | 90 | Grace Joanne Agnant |
+| 230 | 90 | Grace Joanne Agnant |
+| 231 | 90 | Daring Fitclear |
 | 232 | 89 | Isodor |
 | 233 | 88 | Larry Tilton |
 | 234 | 88 | DaRascal |
