@@ -64,8 +64,8 @@
 | 56 | 287 | Hyper |
 | 57 | 279 | Shauna Loe |
 | 58 | 278 | Carrie Beck Geartz |
-| 59 | 274 | Theo Pinnow |
-| 60 | 274 | Sweet Baker |
+| 59 | 274 | Sweet Baker |
+| 60 | 274 | Theo Pinnow |
 | 61 | 270 | Sarah Roberts |
 | 62 | 261 | Tipsy Column |
 | 63 | 261 | Bhelle Sumile |
@@ -152,8 +152,8 @@
 | 144 | 133 | Breanna Luna |
 | 145 | 132 | Cody Gates |
 | 146 | 132 | Davery Spencer Adair |
-| 147 | 131 | Uhog SF |
-| 148 | 131 | Kimberly Garcia |
+| 147 | 131 | Kimberly Garcia |
+| 148 | 131 | Uhog SF |
 | 149 | 130 | LD1 |
 | 150 | 129 | Dino |
 | 151 | 128 | Barry Mac'Ockner |

@@ -61,8 +61,8 @@
 | 53 | 339 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 293 | HastyGrabber |
@@ -89,8 +89,8 @@
 | 81 | 205 | Sarah Neathery |
 | 82 | 204 | Brittney Orengo |
 | 83 | 201 | shar |
-| 84 | 200 | Monica Daley |
-| 85 | 200 | Holly Jolly |
+| 84 | 200 | Holly Jolly |
+| 85 | 200 | Monica Daley |
 | 86 | 198 | Mike Solo |
 | 87 | 198 | Dustee Craddock-Harrison |
 | 88 | 197 | Joeliecea Cobb |
@@ -103,8 +103,8 @@
 | 95 | 186 | Jeff Brian Gates |
 | 96 | 185 | Andy Cabral |
 | 97 | 181 | Carter Jones |
-| 98 | 180 | Leslie Nicole |
-| 99 | 180 | Leah Kutz Zirbel |
+| 98 | 180 | Leah Kutz Zirbel |
+| 99 | 180 | Leslie Nicole |
 | 100 | 179 | Epic Curvetile |
 | 101 | 178 | Lori |
 | 102 | 177 | Andria Lynn |
@@ -148,11 +148,11 @@
 | 140 | 132 | Jessica Cagle |
 | 141 | 130 | Casey Jeffcoat |
 | 142 | 129 | John Brunetti |
-| 143 | 128 | Rio Rocha |
-| 144 | 128 | Stephme310 |
+| 143 | 128 | Stephme310 |
+| 144 | 128 | Rio Rocha |
 | 145 | 127 | Dreamy Snapgrid |
-| 146 | 126 | TinyLegoRose |
-| 147 | 126 | Dihcheese444 |
+| 146 | 126 | Dihcheese444 |
+| 147 | 126 | TinyLegoRose |
 | 148 | 125 | AyeKay |
 | 149 | 124 | Allen Lloyd |
 | 150 | 124 | Zany Shatterer |

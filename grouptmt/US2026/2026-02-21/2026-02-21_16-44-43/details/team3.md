@@ -120,8 +120,8 @@
 | 112 | 284 | Jay Horn |
 | 113 | 277 | Logan Naccarato |
 | 114 | 267 | Rufus Lincoln |
-| 115 | 263 | mjl574 |
-| 116 | 263 | Angeline Joseph |
+| 115 | 263 | Angeline Joseph |
+| 116 | 263 | mjl574 |
 | 117 | 262 | Joe-Maggie Mathews |
 | 118 | 259 | Louise Stacy Sisson |
 | 119 | 259 | opf |
@@ -167,8 +167,8 @@
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
 | 161 | 182 | Hyper Matchzone |
-| 162 | 181 | Karon Griffin |
-| 163 | 181 | Aerian Preston |
+| 162 | 181 | Aerian Preston |
+| 163 | 181 | Karon Griffin |
 | 164 | 179 | Joye Sims Binion |
 | 165 | 179 | Ashley Jones |
 | 166 | 179 | Daira Largen |
@@ -182,8 +182,8 @@
 | 174 | 173 | Sarajane Lokan |
 | 175 | 172 | Loopy Fallmatch |
 | 176 | 170 | Trisha Balmer |
-| 177 | 167 | Sashay Tapae Simpson |
-| 178 | 167 | Connie Mohler-Fair |
+| 177 | 167 | Connie Mohler-Fair |
+| 178 | 167 | Sashay Tapae Simpson |
 | 179 | 167 | Raven Dudley |
 | 180 | 166 | Betty Rosas |
 | 181 | 166 | Kelly Ann Child |
@@ -226,8 +226,8 @@
 | 218 | 142 | Erica Anderson |
 | 219 | 142 | David Bardo |
 | 220 | 138 | Boldy Corner |
-| 221 | 137 | Cheryl Hinch Tenbrook |
-| 222 | 137 | Joy Petroski |
+| 221 | 137 | Joy Petroski |
+| 222 | 137 | Cheryl Hinch Tenbrook |
 | 223 | 134 | Marquita Sheard |
 | 224 | 133 | Terry Jo Jones |
 | 225 | 133 | LaNette Morgan |
@@ -237,8 +237,8 @@
 | 229 | 131 | Darlene McMillan |
 | 230 | 130 | Weerae |
 | 231 | 129 | Juliana Dottore |
-| 232 | 128 | Jen Lewis |
-| 233 | 128 | Cesar Barraza |
+| 232 | 128 | Cesar Barraza |
+| 233 | 128 | Jen Lewis |
 | 234 | 126 | April Matthew Kibble |
 | 235 | 125 | Shimika Enay Wallace |
 | 236 | 125 | Felicia Doxey |
@@ -263,14 +263,14 @@
 | 255 | 115 | Stella |
 | 256 | 114 | Amanda Neal |
 | 257 | 113 | Brave Brickster |
-| 258 | 113 | Brian Battjes |
-| 259 | 113 | Beppy |
+| 258 | 113 | Beppy |
+| 259 | 113 | Brian Battjes |
 | 260 | 111 | France Vézina |
 | 261 | 111 | Stephanie Zahm |
 | 262 | 111 | El Chapa |
 | 263 | 111 | Jason-Ashley Ludlow |
-| 264 | 110 | Danielle Weikel |
-| 265 | 110 | Tye Stovall |
+| 264 | 110 | Tye Stovall |
+| 265 | 110 | Danielle Weikel |
 | 266 | 110 | Carol Cain Thurman |
 | 267 | 109 | Denise Marie |
 | 268 | 109 | Diana Ibarra |
