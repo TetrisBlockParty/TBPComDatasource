@@ -248,8 +248,8 @@
 | 240 | 101 | Saulc1991 |
 | 241 | 101 | Zesty Linkgrid |
 | 242 | 100 | Jacob Richard |
-| 243 | 100 | Alexandra Karavias |
-| 244 | 100 | Maureen Flanigan |
+| 243 | 100 | Maureen Flanigan |
+| 244 | 100 | Alexandra Karavias |
 | 245 | 99 | Michael Orris |
 | 246 | 98 | Bradley Reeves |
 | 247 | 98 | Sam Bishop |
@@ -282,7 +282,7 @@
 | 274 | 88 | Michelle Parker |
 | 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
-| 277 | 86 | Jason Frehner |
+| 277 | 86 | amy |
 | 278 | 86 | Destiney Carter |
 | 279 | 86 | Jason Frehner |
 | 280 | 86 | BigSammy420 |
@@ -325,8 +325,8 @@
 | 317 | 76 | Rebecca Blake |
 | 318 | 76 | Kevin Bush |
 | 319 | 76 | Cristy Duerksen |
-| 320 | 75 | Vanessa Smart |
-| 321 | 75 | Snippy Puzzle |
+| 320 | 75 | Snippy Puzzle |
+| 321 | 75 | Vanessa Smart |
 | 322 | 75 | Peppy Drop |
 | 323 | 75 | Moonsterix |
 | 324 | 75 | mini |

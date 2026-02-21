@@ -119,8 +119,8 @@
 | 111 | 203 | Giggly Builderline |
 | 112 | 198 | Happy Snapbuild |
 | 113 | 195 | Jason Jones |
-| 114 | 194 | Ash Galvan |
-| 115 | 194 | GATOR |
+| 114 | 194 | GATOR |
+| 115 | 194 | Ash Galvan |
 | 116 | 193 | Lachelle Dillon |
 | 117 | 192 | Shaykmia |
 | 118 | 191 | Diane Byrd |
@@ -177,8 +177,8 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Cranky Pattern |
-| 173 | 138 | Death |
+| 172 | 138 | Death |
+| 173 | 138 | Cranky Pattern |
 | 174 | 137 | Cody Gates |
 | 175 | 136 | Dino |
 | 176 | 136 | Breanna Luna |

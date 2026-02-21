@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -70,16 +70,16 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
 | 70 | 528 | Giddy Drop |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Joey Banks |
-| 74 | 502 | Justin Ritter |
+| 73 | 502 | Justin Ritter |
+| 74 | 502 | Joey Banks |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 480 | Nate Burnside |
@@ -98,16 +98,16 @@
 | 90 | 408 | Patty Allen |
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
-| 93 | 394 | Mcathen |
-| 94 | 394 | joclisa |
+| 93 | 394 | joclisa |
+| 94 | 394 | Mcathen |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
 | 97 | 390 | Annie Déè |
 | 98 | 389 | Elissa S-k |
 | 99 | 386 | Katie Knaus |
 | 100 | 384 | Shannon Matthew Byers |
-| 101 | 378 | Makelini Mausia |
-| 102 | 378 | Tasha Schriewer |
+| 101 | 378 | Tasha Schriewer |
+| 102 | 378 | Makelini Mausia |
 | 103 | 372 | Jessica Bechler |
 | 104 | 371 | Hasty Cascadefit |
 | 105 | 371 | Jesse Olive |
@@ -127,11 +127,11 @@
 | 119 | 316 | Fancy Cascader |
 | 120 | 312 | Jay Horn |
 | 121 | 309 | Rich LeBlanc |
-| 122 | 307 | Peggi Charon |
-| 123 | 307 | Blocked |
+| 122 | 307 | Blocked |
+| 123 | 307 | Peggi Charon |
 | 124 | 305 | Tessina Dewey-Mancino |
-| 125 | 300 | Stephanie Blkpep Davidson |
-| 126 | 300 | Sherika C. McDaniels |
+| 125 | 300 | Sherika C. McDaniels |
+| 126 | 300 | Stephanie Blkpep Davidson |
 | 127 | 293 | Poppy Splitter |
 | 128 | 291 | Aaron Pitkin |
 | 129 | 287 | Logan Naccarato |
@@ -176,7 +176,7 @@
 | 168 | 207 | Jessica |
 | 169 | 207 | Nicole Myers |
 | 170 | 207 | rnr junky |
-| 171 | 207 | Nicole Myers |
+| 171 | 207 | Chris Bell |
 | 172 | 205 | Sarah Moyer |
 | 173 | 203 | Twisty Brick LT |
 | 174 | 201 | Karon Griffin |
@@ -267,8 +267,8 @@
 | 259 | 141 | LaTanya GeminiondaRise Johnson |
 | 260 | 141 | IamJust Neyamijah Washington Sr. |
 | 261 | 140 | Joy Petroski |
-| 262 | 139 | Funky Jumper |
-| 263 | 139 | Loopy Clusterer |
+| 262 | 139 | Loopy Clusterer |
+| 263 | 139 | Funky Jumper |
 | 264 | 138 | Boldy Corner |
 | 265 | 137 | Cesar Barraza |
 | 266 | 136 | Rachel |
@@ -294,22 +294,22 @@
 | 286 | 128 | David Kozen |
 | 287 | 128 | MizzMonick Smith |
 | 288 | 128 | Jen Lewis |
-| 289 | 127 | Edwin Calvillo Jr. |
-| 290 | 127 | Brittany |
+| 289 | 127 | Brittany |
+| 290 | 127 | Edwin Calvillo Jr. |
 | 291 | 127 | mzcatzy |
 | 292 | 126 | RickyG |
 | 293 | 126 | Stella |
 | 294 | 126 | Pam Holt Powell |
 | 295 | 125 | Shimika Enay Wallace |
 | 296 | 125 | Felicia Doxey |
-| 297 | 125 | Shimika Enay Wallace |
+| 297 | 125 | Lys |
 | 298 | 124 | Rania Zaqout |
 | 299 | 123 | France Vézina |
 | 300 | 123 | Michael Latasha Gray |
 | 301 | 122 | Romeo |
 | 302 | 122 | BabyTonj Evans |
 | 303 | 122 | Eon Harris |
-| 304 | 122 | BabyTonj Evans |
+| 304 | 122 | Giggly Brickroll |
 | 305 | 121 | Fredd Thomas |
 | 306 | 119 | Daring Builder |
 | 307 | 119 | BugMansMom |

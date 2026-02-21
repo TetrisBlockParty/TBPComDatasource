@@ -206,8 +206,8 @@
 | 198 | 591 | Diana Fitzwater |
 | 199 | 587 | Hyper Cluster |
 | 200 | 586 | Stephen Stephen |
-| 201 | 583 | Steve Grotto |
-| 202 | 583 | Jessicah Myers |
+| 201 | 583 | Jessicah Myers |
+| 202 | 583 | Steve Grotto |
 | 203 | 579 | Gary Stash |
 | 204 | 576 | Shannon Joslin |
 | 205 | 573 | Sally Dennis |
@@ -343,8 +343,8 @@
 | 335 | 394 | Taryece Gause |
 | 336 | 392 | Mighty Shatterfit |
 | 337 | 391 | Chilly Bridgepiece |
-| 338 | 391 | Qiana Sanders |
-| 339 | 391 | Alexandra Reese |
+| 338 | 391 | Alexandra Reese |
+| 339 | 391 | Qiana Sanders |
 | 340 | 389 | Kristen O'Neal |
 | 341 | 386 | Deanna Morton |
 | 342 | 385 | Brave Dropmatch |
@@ -403,8 +403,8 @@
 | 395 | 344 | Glenn Cobbins |
 | 396 | 342 | Ebony Deloach Bryant |
 | 397 | 342 | Fi Ne |
-| 398 | 342 | Angi Harrison |
-| 399 | 342 | Sydney Busse |
+| 398 | 342 | Sydney Busse |
+| 399 | 342 | Angi Harrison |
 | 400 | 339 | Cool Rollpiece |
 | 401 | 338 | Shorty |
 | 402 | 337 | Sassy Pattern |
@@ -546,8 +546,8 @@
 | 538 | 256 | Dylan Thomason |
 | 539 | 256 | Amy Humphreys |
 | 540 | 256 | Tee Jaleesa |
-| 541 | 256 | Quirky Twistline |
-| 542 | 256 | Brenna Yearian |
+| 541 | 256 | Brenna Yearian |
+| 542 | 256 | Quirky Twistline |
 | 543 | 255 | Hillary Crawford |
 | 544 | 255 | Danielle Ayoub |
 | 545 | 254 | Elizabeth Diraffaele |
@@ -608,8 +608,8 @@
 | 600 | 233 | Jumpy Gridclear |
 | 601 | 232 | Tom Steffen |
 | 602 | 230 | Leslie Johnson Guinto |
-| 603 | 229 | Heather Anspaugh |
-| 604 | 229 | Deidre Jenkins |
+| 603 | 229 | Deidre Jenkins |
+| 604 | 229 | Heather Anspaugh |
 | 605 | 228 | Amanda Canterbury |
 | 606 | 228 | Samantha Angelo |
 | 607 | 227 | Sho Nuff |
@@ -684,8 +684,8 @@
 | 676 | 203 | Alyssa Dean |
 | 677 | 203 | Sveta Lana |
 | 678 | 202 | Jennifer Coe |
-| 679 | 201 | Jennifer Rajek |
-| 680 | 201 | Michael Artis |
+| 679 | 201 | Michael Artis |
+| 680 | 201 | Jennifer Rajek |
 | 681 | 201 | Matthew Turner |
 | 682 | 201 | Tammy Mitchell |
 | 683 | 201 | Moua Ying |
