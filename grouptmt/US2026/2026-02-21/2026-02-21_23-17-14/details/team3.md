@@ -69,16 +69,16 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Giddy Drop |
-| 73 | 536 | Joey Banks |
+| 72 | 536 | Joey Banks |
+| 73 | 536 | Giddy Drop |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Kristie McFarland |
-| 93 | 445 | Silly Twist |
+| 92 | 445 | Silly Twist |
+| 93 | 445 | Kristie McFarland |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -160,8 +160,8 @@
 | 152 | 262 | Joe-Maggie Mathews |
 | 153 | 261 | Tiffany Ford |
 | 154 | 260 | Louise Stacy Sisson |
-| 155 | 258 | Tamara Deherrera |
-| 156 | 258 | Ashley Tookes |
+| 155 | 258 | Ashley Tookes |
+| 156 | 258 | Tamara Deherrera |
 | 157 | 256 | ren |
 | 158 | 254 | Duane Bright |
 | 159 | 252 | Nicole Flippo |

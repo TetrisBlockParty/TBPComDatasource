@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Stef Hu |
-| 67 | 348 | Trina Gee |
+| 66 | 348 | Trina Gee |
+| 67 | 348 | Stef Hu |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |

@@ -140,8 +140,8 @@
 | 132 | 881 | Tanya Parsons |
 | 133 | 875 | Kelly Trent |
 | 134 | 869 | Desiree Harris Rosch |
-| 135 | 867 | Rosa Franklin |
-| 136 | 867 | Michele Gabriel |
+| 135 | 867 | Michele Gabriel |
+| 136 | 867 | Rosa Franklin |
 | 137 | 861 | Jennifer Peachey |
 | 138 | 859 | Ray Ray Prado |
 | 139 | 849 | Jennifer Kistner |
@@ -299,8 +299,8 @@
 | 291 | 471 | Maya June |
 | 292 | 471 | Rae Rae |
 | 293 | 470 | Jerry Tempelmeyer |
-| 294 | 469 | Amélie Cadieux |
-| 295 | 469 | Ashley Lopez |
+| 294 | 469 | Ashley Lopez |
+| 295 | 469 | Amélie Cadieux |
 | 296 | 469 | Ashley Rose Frederick |
 | 297 | 468 | Drwatson187 |
 | 298 | 467 | Scott Treadway |
@@ -377,14 +377,14 @@
 | 369 | 391 | Chilly Bridgepiece |
 | 370 | 390 | Caitlin Schmid |
 | 371 | 386 | Irene Jones |
-| 372 | 384 | Johnny Yeates |
-| 373 | 384 | Mike Aprilliano |
+| 372 | 384 | Mike Aprilliano |
+| 373 | 384 | Johnny Yeates |
 | 374 | 383 | Arkei Luster |
 | 375 | 382 | David Holliday |
 | 376 | 381 | Melissa Rebbe-Lehman |
 | 377 | 381 | Lee Harper |
-| 378 | 381 | Taylor Phillips |
-| 379 | 381 | Bubbly Snapfit |
+| 378 | 381 | Bubbly Snapfit |
+| 379 | 381 | Taylor Phillips |
 | 380 | 378 | TF Dyer |
 | 381 | 378 | Niceday |
 | 382 | 378 | Christina Ashley |
@@ -395,8 +395,8 @@
 | 387 | 371 | Jaycee |
 | 388 | 371 | AkaLefty |
 | 389 | 370 | Angela Lynn |
-| 390 | 369 | Victoria Moore-Smith |
-| 391 | 369 | Tony Lea |
+| 390 | 369 | Tony Lea |
+| 391 | 369 | Victoria Moore-Smith |
 | 392 | 369 | Tara Lynn Janes |
 | 393 | 367 | Deyawn Smith |
 | 394 | 366 | Darcy Mae |

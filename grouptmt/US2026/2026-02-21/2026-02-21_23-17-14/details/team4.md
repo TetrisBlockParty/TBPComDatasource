@@ -117,8 +117,8 @@
 | 109 | 218 | Casey Grabner |
 | 110 | 213 | Chaz Duncan |
 | 111 | 212 | Calvin Cannon |
-| 112 | 211 | loulou |
-| 113 | 211 | Dizzy Tiley |
+| 112 | 211 | Dizzy Tiley |
+| 113 | 211 | loulou |
 | 114 | 210 | Damn Libra |
 | 115 | 208 | Twisty Cascadezone |
 | 116 | 208 | Chastity Mitchell |
@@ -135,8 +135,8 @@
 | 127 | 196 | Jeff Brian Gates |
 | 128 | 194 | Zany Twisterfit |
 | 129 | 192 | Shauna Havard |
-| 130 | 189 | Calvin Dennis |
-| 131 | 189 | Stacey Stano |
+| 130 | 189 | Stacey Stano |
+| 131 | 189 | Calvin Dennis |
 | 132 | 188 | Katherine Crane |
 | 133 | 187 | TheNeesh50 |
 | 134 | 185 | Malakai Darien Fox |
@@ -234,10 +234,10 @@
 | 226 | 114 | Circuit8 |
 | 227 | 113 | Dandy Cascadefit |
 | 228 | 113 | Adam Randall |
-| 229 | 112 | rebel4lyfe |
-| 230 | 112 | Jeremy Steines |
-| 231 | 111 | Lazy Blocker |
-| 232 | 111 | Rafael Valentin |
+| 229 | 112 | Jeremy Steines |
+| 230 | 112 | rebel4lyfe |
+| 231 | 111 | Rafael Valentin |
+| 232 | 111 | Lazy Blocker |
 | 233 | 110 | Zach Kerbs |
 | 234 | 109 | LS |
 | 235 | 109 | Jessica Miller |
@@ -461,8 +461,8 @@
 | 453 | 60 | Kris Zulch |
 | 454 | 60 | DaRuler |
 | 455 | 60 | Tammy Lewis |
-| 456 | 59 | Ziggy |
-| 457 | 59 | Amy Sanford |
+| 456 | 59 | Amy Sanford |
+| 457 | 59 | Ziggy |
 | 458 | 59 | Caitlyn Brown |
 | 459 | 59 | Rick SJ |
 | 460 | 59 | Sticherella |
