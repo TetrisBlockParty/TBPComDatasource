@@ -274,8 +274,8 @@
 | 266 | 442 | Daphne Jordan |
 | 267 | 440 | Heather Westrum |
 | 268 | 440 | Liberty |
-| 269 | 439 | Alisa Lamb |
-| 270 | 439 | Joseph Musick |
+| 269 | 439 | Joseph Musick |
+| 270 | 439 | Alisa Lamb |
 | 271 | 439 | Foxxo |
 | 272 | 438 | Hyper Cluster |
 | 273 | 437 | Melissa Holsinger |
@@ -477,8 +477,8 @@
 | 469 | 273 | Britt Stunkel |
 | 470 | 273 | Dapper Dasher |
 | 471 | 272 | Mikayala Szaz |
-| 472 | 271 | Loony Basepiece |
-| 473 | 271 | Toni Lynn |
+| 472 | 271 | Toni Lynn |
+| 473 | 271 | Loony Basepiece |
 | 474 | 271 | Ann Marie Davis |
 | 475 | 270 | NickyBrooks |
 | 476 | 270 | Tim Dyer |
@@ -524,7 +524,7 @@
 | 516 | 248 | Dany Murillo |
 | 517 | 248 | Maddy Petersen |
 | 518 | 248 | Kimberly Mitchell |
-| 519 | 248 | Dany Murillo |
+| 519 | 248 | Warren Marleau |
 | 520 | 247 | Dolores Russworn |
 | 521 | 247 | Andrea Devery Beck |
 | 522 | 246 | Robin L. Vial |
@@ -640,12 +640,12 @@
 | 632 | 200 | Cassie Newton |
 | 633 | 200 | LaWanda Powell |
 | 634 | 200 | Sara Silvernail-Kay |
-| 635 | 200 | Synn |
+| 635 | 200 | Michelle Fleming Luna |
 | 636 | 200 | Biggest thing |
-| 637 | 200 | Michelle Fleming Luna |
-| 638 | 199 | Jessica Sutter |
-| 639 | 199 | Jenny Castro |
-| 640 | 199 | Alyssa Nadine Medelez |
+| 637 | 200 | Synn |
+| 638 | 199 | Jenny Castro |
+| 639 | 199 | Alyssa Nadine Medelez |
+| 640 | 199 | Jessica Sutter |
 | 641 | 198 | Angi Harrison |
 | 642 | 197 | Jannan Haimour |
 | 643 | 197 | Kati Russeau |

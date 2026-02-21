@@ -112,9 +112,9 @@
 | 104 | 193 | Lachelle Dillon |
 | 105 | 192 | Shaykmia |
 | 106 | 191 | Diane Byrd |
-| 107 | 190 | Sweetts |
-| 108 | 190 | Thorne Shumate |
-| 109 | 190 | Gracie |
+| 107 | 190 | Gracie |
+| 108 | 190 | Sweetts |
+| 109 | 190 | Thorne Shumate |
 | 110 | 189 | Happy Basegrid |
 | 111 | 188 | Sam Williams |
 | 112 | 187 | Snippy Wipebuilder |
@@ -128,8 +128,8 @@
 | 120 | 176 | Basment Living |
 | 121 | 175 | Nicole Roseberry Weber |
 | 122 | 174 | Michael |
-| 123 | 171 | Greg Premoe |
-| 124 | 171 | David DeSantis |
+| 123 | 171 | David DeSantis |
+| 124 | 171 | Greg Premoe |
 | 125 | 170 | Veronica Eve |
 | 126 | 169 | Abbey Crespo |
 | 127 | 168 | Standia Civil |

@@ -34,8 +34,8 @@
 | 26 | 625 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -54,8 +54,8 @@
 | 46 | 442 | Michelle Marie |
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
-| 49 | 411 | TeeJ |
-| 50 | 411 | Jonathan Kimbrough |
+| 49 | 411 | Jonathan Kimbrough |
+| 50 | 411 | TeeJ |
 | 51 | 399 | Jenna Ingersoll |
 | 52 | 397 | Courtney Cicoria |
 | 53 | 396 | Alicia Bass |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |

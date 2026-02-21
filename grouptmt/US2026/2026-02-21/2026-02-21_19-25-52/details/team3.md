@@ -113,8 +113,8 @@
 | 105 | 350 | Shannon Matthew Byers |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Ashley Raines |
-| 109 | 323 | Sherry Ogden |
+| 108 | 323 | Sherry Ogden |
+| 109 | 323 | Ashley Raines |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
@@ -196,9 +196,9 @@
 | 188 | 178 | AlsoJess |
 | 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
-| 191 | 175 | Tasha Wesson-Torrence |
-| 192 | 175 | DanceLuvLaugh |
-| 193 | 175 | Connie Mohler-Fair |
+| 191 | 175 | Connie Mohler-Fair |
+| 192 | 175 | Tasha Wesson-Torrence |
+| 193 | 175 | DanceLuvLaugh |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
 | 196 | 173 | Sarajane Lokan |
@@ -271,11 +271,11 @@
 | 263 | 128 | MizzMonick Smith |
 | 264 | 127 | mzcatzy |
 | 265 | 126 | Grego Daniel |
-| 266 | 126 | Pam Holt Powell |
-| 267 | 126 | RickyG |
+| 266 | 126 | RickyG |
+| 267 | 126 | Pam Holt Powell |
 | 268 | 125 | fraulila |
-| 269 | 125 | Shimika Enay Wallace |
-| 270 | 125 | Felicia Doxey |
+| 269 | 125 | Felicia Doxey |
+| 270 | 125 | Shimika Enay Wallace |
 | 271 | 124 | Funky Jumper |
 | 272 | 124 | Rachel |
 | 273 | 123 | Michael Latasha Gray |
