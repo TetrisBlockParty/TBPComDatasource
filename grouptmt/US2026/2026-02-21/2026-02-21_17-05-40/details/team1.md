@@ -29,8 +29,8 @@
 | 21 | 618 | Amanda Summey Schoemer |
 | 22 | 547 | Marianne Louise West |
 | 23 | 543 | Aaron Garnett |
-| 24 | 541 | Drew Magnus |
-| 25 | 541 | Jorge Andrade |
+| 24 | 541 | Jorge Andrade |
+| 25 | 541 | Drew Magnus |
 | 26 | 521 | Hyp James NObettadanluvarat |
 | 27 | 517 | Felicia Lewis |
 | 28 | 516 | comrade fish |
@@ -71,8 +71,8 @@
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
-| 66 | 252 | Dena Kayy |
-| 67 | 252 | Tdub |
+| 66 | 252 | Tdub |
+| 67 | 252 | Dena Kayy |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -129,8 +129,8 @@
 | 121 | 152 | Jacqueline Unique |
 | 122 | 152 | Speedy Snapfall |
 | 123 | 150 | Adele Rahman |
-| 124 | 149 | Jennifer ManWarren |
-| 125 | 149 | Arianna O'Brien |
+| 124 | 149 | Arianna O'Brien |
+| 125 | 149 | Jennifer ManWarren |
 | 126 | 148 | Shauntina Burke |
 | 127 | 147 | Timothy Dew |
 | 128 | 146 | Irual Hctrab |
@@ -153,8 +153,8 @@
 | 145 | 135 | Giddy Cascade |
 | 146 | 134 | Trina Gee |
 | 147 | 133 | Breanna Luna |
-| 148 | 132 | Cody Gates |
-| 149 | 132 | Davery Spencer Adair |
+| 148 | 132 | Davery Spencer Adair |
+| 149 | 132 | Cody Gates |
 | 150 | 131 | Kimberly Garcia |
 | 151 | 131 | Uhog SF |
 | 152 | 130 | LD1 |
@@ -222,7 +222,7 @@
 | 214 | 96 | Howdi Duty |
 | 215 | 94 | Brad MG |
 | 216 | 91 | Sleepysloath5745 |
-| 217 | 90 | Steve Schneider |
+| 217 | 90 | Grace Joanne Agnant |
 | 218 | 90 | Daring Fitclear |
 | 219 | 90 | Steve Schneider |
 | 220 | 90 | John Kim |

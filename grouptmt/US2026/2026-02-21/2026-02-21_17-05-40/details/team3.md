@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -122,8 +122,8 @@
 | 114 | 284 | Jay Horn |
 | 115 | 277 | Logan Naccarato |
 | 116 | 267 | Rufus Lincoln |
-| 117 | 263 | Angeline Joseph |
-| 118 | 263 | mjl574 |
+| 117 | 263 | mjl574 |
+| 118 | 263 | Angeline Joseph |
 | 119 | 262 | Joe-Maggie Mathews |
 | 120 | 259 | Louise Stacy Sisson |
 | 121 | 259 | opf |
@@ -143,8 +143,8 @@
 | 135 | 222 | Jimmie Clemons |
 | 136 | 220 | Stephanie Blkpep Davidson |
 | 137 | 217 | Jess Bissett |
-| 138 | 216 | Aaron Pitkin |
-| 139 | 216 | Tom Nault |
+| 138 | 216 | Tom Nault |
+| 139 | 216 | Aaron Pitkin |
 | 140 | 214 | Amy Fuller Heaton |
 | 141 | 214 | Leah Barnett |
 | 142 | 213 | Morgan Martinez |
@@ -174,8 +174,8 @@
 | 166 | 181 | Aerian Preston |
 | 167 | 181 | Karon Griffin |
 | 168 | 179 | Joye Sims Binion |
-| 169 | 179 | Ashley Jones |
-| 170 | 179 | Daira Largen |
+| 169 | 179 | Daira Largen |
+| 170 | 179 | Ashley Jones |
 | 171 | 178 | Ryan Williams |
 | 172 | 178 | AlsoJess |
 | 173 | 178 | Khaleada McGill Banks |

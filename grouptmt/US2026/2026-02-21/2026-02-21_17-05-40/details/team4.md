@@ -150,8 +150,8 @@
 | 142 | 131 | Angela Geist Jusinski |
 | 143 | 130 | Casey Jeffcoat |
 | 144 | 129 | John Brunetti |
-| 145 | 128 | Stephme310 |
-| 146 | 128 | Rio Rocha |
+| 145 | 128 | Rio Rocha |
+| 146 | 128 | Stephme310 |
 | 147 | 127 | Dreamy Snapgrid |
 | 148 | 127 | Zany Shatterer |
 | 149 | 126 | Dihcheese444 |
@@ -164,8 +164,8 @@
 | 156 | 121 | Smiley Tiltbuilder |
 | 157 | 121 | Megan Cutshaw |
 | 158 | 120 | Joshua Guess |
-| 159 | 119 | Kristin Manee |
-| 160 | 119 | Judy Cox |
+| 159 | 119 | Judy Cox |
+| 160 | 119 | Kristin Manee |
 | 161 | 119 | Gwendolyn Pitcairn |
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Jayk |

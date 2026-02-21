@@ -267,8 +267,8 @@
 | 259 | 396 | Stefanie Zonzini-Gagliardi |
 | 260 | 393 | Taylor Flowers |
 | 261 | 393 | Altamirano Michael |
-| 262 | 391 | Chilly Bridgepiece |
-| 263 | 391 | Brenda Utphall |
+| 262 | 391 | Brenda Utphall |
+| 263 | 391 | Chilly Bridgepiece |
 | 264 | 391 | Qiana Sanders |
 | 265 | 390 | Kimberly Randesi |
 | 266 | 389 | Julay |
@@ -503,8 +503,8 @@
 | 495 | 226 | Morgan Easter |
 | 496 | 226 | Christina Wsn |
 | 497 | 225 | Breezy Tilt |
-| 498 | 224 | Besma Ao |
-| 499 | 224 | Alice Ball |
+| 498 | 224 | Alice Ball |
+| 499 | 224 | Besma Ao |
 | 500 | 223 | LegoCarpet |
 | 501 | 223 | Jess Morrison |
 | 502 | 223 | Laura Wyatt |
