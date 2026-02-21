@@ -84,21 +84,21 @@
 | 76 | 110 | Garcia Bailey |
 | 77 | 110 | Heidi Feurer |
 | 78 | 109 | Dandy Basegrid |
-| 79 | 108 | comrade fish |
-| 80 | 108 | Tavia |
+| 79 | 108 | Tavia |
+| 80 | 108 | comrade fish |
 | 81 | 107 | Jodee Woods |
 | 82 | 105 | Barry Mac'Ockner |
 | 83 | 102 | Billie Dawn Sparks |
 | 84 | 100 | Ash Galvan |
-| 85 | 99 | Bhelle Sumile |
-| 86 | 99 | Ty Brown |
+| 85 | 99 | Ty Brown |
+| 86 | 99 | Bhelle Sumile |
 | 87 | 98 | Gary Gobin |
 | 88 | 98 | Flashy Rotator |
 | 89 | 96 | Melissa Lemmon |
 | 90 | 96 | Nery Martinez |
 | 91 | 94 | Bindi |
-| 92 | 93 | Loony Fitzone |
-| 93 | 93 | Adryane Schnase |
+| 92 | 93 | Adryane Schnase |
+| 93 | 93 | Loony Fitzone |
 | 94 | 91 | Spunky Piecebuilder |
 | 95 | 90 | Madison Wicks |
 | 96 | 87 | Jessi Sauer |
