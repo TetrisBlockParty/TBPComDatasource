@@ -428,12 +428,12 @@
 | 420 | 236 | Julio A Laracuente |
 | 421 | 236 | snkylnk |
 | 422 | 235 | Kimberly Mitchell |
-| 423 | 234 | Manny Trindade |
-| 424 | 234 | Jennifer Leigh |
+| 423 | 234 | Jennifer Leigh |
+| 424 | 234 | Manny Trindade |
 | 425 | 234 | Jaybee Nguyen |
 | 426 | 233 | Nutty Matchline |
-| 427 | 233 | Daring Matchfit |
-| 428 | 233 | Jumpy Gridclear |
+| 427 | 233 | Jumpy Gridclear |
+| 428 | 233 | Daring Matchfit |
 | 429 | 232 | Amber Brion |
 | 430 | 232 | Quirky Twistline |
 | 431 | 231 | Hong Tang |
@@ -452,8 +452,8 @@
 | 444 | 223 | LegoCarpet |
 | 445 | 223 | Laura Wyatt |
 | 446 | 223 | Kristi Biddinger |
-| 447 | 222 | Amanda Canterbury |
-| 448 | 222 | Jason Garnatz |
+| 447 | 222 | Jason Garnatz |
+| 448 | 222 | Amanda Canterbury |
 | 449 | 220 | Katrina Weston |
 | 450 | 220 | Sho Nuff |
 | 451 | 219 | Ashle Scranton |
@@ -561,9 +561,9 @@
 | 553 | 175 | Tina Blessed Cage |
 | 554 | 175 | Lucero Ramirez |
 | 555 | 174 | Veronica Guerra |
-| 556 | 173 | Nuke Morris |
-| 557 | 173 | kippykay |
-| 558 | 173 | Robin |
+| 556 | 173 | Robin |
+| 557 | 173 | Nuke Morris |
+| 558 | 173 | kippykay |
 | 559 | 173 | Ocean-Brianna McGregor |
 | 560 | 173 | William Hunt |
 | 561 | 172 | Kiorah Blaze |

@@ -37,8 +37,8 @@
 | 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
-| 32 | 810 | Zippy Strikesnap |
-| 33 | 810 | Shane Wilson Jr. |
+| 32 | 810 | Shane Wilson Jr. |
+| 33 | 810 | Zippy Strikesnap |
 | 34 | 772 | Corie A. Brinson |
 | 35 | 739 | Amber Jones |
 | 36 | 733 | Chummy Shatterer |
@@ -170,8 +170,8 @@
 | 162 | 166 | Kelly Ann Child |
 | 163 | 165 | Kali Kelz Williams |
 | 164 | 164 | rosy |
-| 165 | 163 | Trisha Balmer |
-| 166 | 163 | Sashay Tapae Simpson |
+| 165 | 163 | Sashay Tapae Simpson |
+| 166 | 163 | Trisha Balmer |
 | 167 | 163 | Stephanie Hill |
 | 168 | 161 | BŘŰŤİÇŨŚ |
 | 169 | 160 | Tiffany Davie |

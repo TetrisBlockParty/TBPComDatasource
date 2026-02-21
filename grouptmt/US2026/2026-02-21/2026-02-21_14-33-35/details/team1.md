@@ -83,9 +83,9 @@
 | 75 | 201 | Patrick Luckenbill |
 | 76 | 201 | Ananda Mendez |
 | 77 | 200 | Giggly Builderline |
-| 78 | 198 | Brandi Huntington |
-| 79 | 198 | Happy Snapbuild |
-| 80 | 198 | Billie Dawn Sparks |
+| 78 | 198 | Billie Dawn Sparks |
+| 79 | 198 | Brandi Huntington |
+| 80 | 198 | Happy Snapbuild |
 | 81 | 197 | Cynthia Bradley |
 | 82 | 193 | Lachelle Dillon |
 | 83 | 192 | Shaykmia |
@@ -97,8 +97,8 @@
 | 89 | 178 | Danielle Little-Daugherty |
 | 90 | 177 | Diane Byrd |
 | 91 | 173 | Jennifer Olewnik Soborowski |
-| 92 | 173 | june october |
-| 93 | 173 | Frothy Pattern |
+| 92 | 173 | Frothy Pattern |
+| 93 | 173 | june october |
 | 94 | 171 | Greg Premoe |
 | 95 | 168 | Redlicious 1 |
 | 96 | 166 | Rico Rico |
