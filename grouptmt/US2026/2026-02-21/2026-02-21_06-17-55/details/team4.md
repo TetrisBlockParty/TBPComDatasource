@@ -59,13 +59,13 @@
 | 51 | 194 | Jamie Mann-Deichmann |
 | 52 | 185 | loulou |
 | 53 | 179 | Epic Curvetile |
-| 54 | 170 | Girl |
-| 55 | 170 | Leah Kutz Zirbel |
+| 54 | 170 | Leah Kutz Zirbel |
+| 55 | 170 | Girl |
 | 56 | 168 | Anthony Magaraci |
 | 57 | 167 | Dustee Craddock-Harrison |
 | 58 | 166 | Denise Carlson |
-| 59 | 165 | Courtney Cicoria |
-| 60 | 165 | Casey Grabner |
+| 59 | 165 | Casey Grabner |
+| 60 | 165 | Courtney Cicoria |
 | 61 | 160 | Carter Jones |
 | 62 | 159 | Swanky Fitline |
 | 63 | 159 | Justin Hannigan |
@@ -127,8 +127,8 @@
 | 119 | 104 | YoMomma |
 | 120 | 104 | Adam Randall |
 | 121 | 102 | Faja |
-| 122 | 101 | Stephme310 |
-| 123 | 101 | Michelle Morris |
+| 122 | 101 | Michelle Morris |
+| 123 | 101 | Stephme310 |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Megan Cutshaw |
 | 126 | 100 | Alexandra Karavias |
@@ -192,8 +192,8 @@
 | 184 | 70 | shar |
 | 185 | 70 | Richard-April Kice |
 | 186 | 69 | Carol Ricks Raymond |
-| 187 | 68 | LS |
-| 188 | 68 | 中山成巳 |
+| 187 | 68 | 中山成巳 |
+| 188 | 68 | LS |
 | 189 | 68 | GBR |
 | 190 | 67 | Dennis Bradley |
 | 191 | 67 | Frank Joseph Epson |

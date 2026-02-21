@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Danielle Becker |
-| 32 | 587 | Suzieq |
+| 31 | 587 | Suzieq |
+| 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
 | 34 | 546 | Dolores Falco |
 | 35 | 546 | Snappy Glidepiece |
@@ -173,8 +173,8 @@
 | 165 | 118 | Fancy Curver |
 | 166 | 116 | Joy Petroski |
 | 167 | 115 | Jennifer Alvey |
-| 168 | 114 | Jessica Bechler |
-| 169 | 114 | Nicholas Roddy |
+| 168 | 114 | Nicholas Roddy |
+| 169 | 114 | Jessica Bechler |
 | 170 | 113 | Brian Battjes |
 | 171 | 113 | Valerie Gendron |
 | 172 | 111 | Mcathen |

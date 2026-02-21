@@ -35,8 +35,8 @@
 | 27 | 291 | Nancy Green |
 | 28 | 286 | Michelle Nicole |
 | 29 | 281 | Maria C. Hernandez |
-| 30 | 274 | Sweet Baker |
-| 31 | 274 | Theo Pinnow |
+| 30 | 274 | Theo Pinnow |
+| 31 | 274 | Sweet Baker |
 | 32 | 265 | Jennifer Cates |
 | 33 | 256 | Robert Benito |
 | 34 | 252 | Tipsy Column |
@@ -87,8 +87,8 @@
 | 79 | 144 | Plucky Ziggy |
 | 80 | 144 | femmefatale |
 | 81 | 143 | Sarah Marie |
-| 82 | 141 | Susanna Guerry |
-| 83 | 141 | Blaire Bruckoff |
+| 82 | 141 | Blaire Bruckoff |
+| 83 | 141 | Susanna Guerry |
 | 84 | 138 | Gary Gobin |
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |

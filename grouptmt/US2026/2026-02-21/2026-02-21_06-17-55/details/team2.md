@@ -89,8 +89,8 @@
 | 81 | 658 | Pacynthia Williams |
 | 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Stephanie Chapman |
-| 85 | 649 | Anna Edwards |
+| 84 | 649 | Anna Edwards |
+| 85 | 649 | Stephanie Chapman |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 628 | Mari Ac |
 | 88 | 613 | Stephanie Neuburger |
@@ -435,8 +435,8 @@
 | 427 | 161 | Alisa Lamb |
 | 428 | 161 | Brandon McDonald |
 | 429 | 160 | Marcie McLain Dodd |
-| 430 | 160 | Rhonda Petro |
-| 431 | 160 | Amy Reynolds |
+| 430 | 160 | Amy Reynolds |
+| 431 | 160 | Rhonda Petro |
 | 432 | 160 | Gary Schaffner Jr. |
 | 433 | 160 | Cynthia Ward |
 | 434 | 159 | Bee |
