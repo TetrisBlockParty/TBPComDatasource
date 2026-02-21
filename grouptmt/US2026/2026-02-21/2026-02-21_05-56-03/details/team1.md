@@ -103,13 +103,13 @@
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
-| 98 | 114 | Colleen Wise |
-| 99 | 114 | Giddy Cascade |
+| 98 | 114 | Giddy Cascade |
+| 99 | 114 | Colleen Wise |
 | 100 | 113 | Evie Khalil |
-| 101 | 112 | Nicole Roseberry Weber |
+| 101 | 112 | Christina Graham |
 | 102 | 112 | Miguel Teixeira |
 | 103 | 112 | Kristen Gideon |
-| 104 | 112 | Christina Graham |
+| 104 | 112 | Nicole Roseberry Weber |
 | 105 | 111 | Agustin Duarte Orozco |
 | 106 | 110 | Heidi Feurer |
 | 107 | 110 | Garcia Bailey |
@@ -141,9 +141,9 @@
 | 133 | 86 | Basment Living |
 | 134 | 86 | Desiree Deschaine Havee |
 | 135 | 85 | Steve Schneider |
-| 136 | 84 | Charla Pross-Fugleberg |
-| 137 | 84 | Speedy Snapfall |
-| 138 | 84 | Yvonne Marie |
+| 136 | 84 | Yvonne Marie |
+| 137 | 84 | Charla Pross-Fugleberg |
+| 138 | 84 | Speedy Snapfall |
 | 139 | 83 | Timothy Dew |
 | 140 | 83 | Cody Gates |
 | 141 | 83 | Death |
@@ -173,8 +173,8 @@
 | 165 | 74 | Grace Joanne Agnant |
 | 166 | 74 | Owicked1 |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | Tipsy Strikerpiece |
-| 169 | 72 | John J. Cronin |
+| 168 | 72 | John J. Cronin |
+| 169 | 72 | Tipsy Strikerpiece |
 | 170 | 71 | John Kim |
 | 171 | 70 | Seth Wesson |
 | 172 | 70 | Kenton Billings |

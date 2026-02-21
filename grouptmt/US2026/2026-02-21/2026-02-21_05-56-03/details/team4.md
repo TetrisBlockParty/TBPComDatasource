@@ -65,9 +65,9 @@
 | 57 | 165 | Casey Grabner |
 | 58 | 163 | Denise Carlson |
 | 59 | 160 | Carter Jones |
-| 60 | 159 | Justin Hannigan |
-| 61 | 159 | David Lay |
-| 62 | 159 | Holly Jolly |
+| 60 | 159 | David Lay |
+| 61 | 159 | Holly Jolly |
+| 62 | 159 | Justin Hannigan |
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 151 | BertMofo |
@@ -132,8 +132,8 @@
 | 124 | 98 | Chaz |
 | 125 | 98 | Allen Lloyd |
 | 126 | 96 | Zappy Snaplink |
-| 127 | 93 | Lisa Davis |
-| 128 | 93 | Zesty Twistbuilder |
+| 127 | 93 | Zesty Twistbuilder |
+| 128 | 93 | Lisa Davis |
 | 129 | 92 | Kristin MacDonald |
 | 130 | 90 | Judy Cox |
 | 131 | 89 | Brandi Durig |
@@ -157,7 +157,7 @@
 | 149 | 83 | Holly |
 | 150 | 83 | Avy Absol |
 | 151 | 82 | Kim Hunt |
-| 152 | 81 | Michelle Parker |
+| 152 | 81 | Chair |
 | 153 | 81 | Jumpy Zonepiece |
 | 154 | 81 | Michelle Parker |
 | 155 | 81 | Blessedmama |

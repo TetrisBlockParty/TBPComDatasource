@@ -89,8 +89,8 @@
 | 81 | 658 | Vistabrat |
 | 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Stephanie Chapman |
-| 85 | 649 | Anna Edwards |
+| 84 | 649 | Anna Edwards |
+| 85 | 649 | Stephanie Chapman |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 608 | John Bednarik |
 | 88 | 601 | Nancy Reid |
@@ -180,8 +180,8 @@
 | 172 | 348 | Richard Horton |
 | 173 | 348 | Cherica Taylor |
 | 174 | 345 | Brenda Messer |
-| 175 | 345 | Wuntayk |
-| 176 | 345 | Rhianna DiLorenzo |
+| 175 | 345 | Rhianna DiLorenzo |
+| 176 | 345 | Wuntayk |
 | 177 | 344 | Julie Kresal |
 | 178 | 344 | Christina Lewis-Vickers |
 | 179 | 342 | Tracy Wise |
@@ -236,8 +236,8 @@
 | 228 | 276 | Vonceial Boone |
 | 229 | 275 | Shiny Rollzone |
 | 230 | 275 | Ann Matzkanin |
-| 231 | 274 | Melissa Holsinger |
-| 232 | 274 | Jamie Stevey |
+| 231 | 274 | Jamie Stevey |
+| 232 | 274 | Melissa Holsinger |
 | 233 | 274 | Lonne Emade |
 | 234 | 273 | Jenna Nance |
 | 235 | 272 | August Hale |
@@ -295,8 +295,8 @@
 | 287 | 237 | Altamirano Michael |
 | 288 | 236 | Frisky Riserbuilder |
 | 289 | 235 | Kimberly Mitchell |
-| 290 | 233 | Alyssia Tancredi |
-| 291 | 233 | Robin Kerby |
+| 290 | 233 | Robin Kerby |
+| 291 | 233 | Alyssia Tancredi |
 | 292 | 232 | Amber Brion |
 | 293 | 231 | Ginger |
 | 294 | 231 | Dylan Thomason |
@@ -322,8 +322,8 @@
 | 314 | 212 | Aleasha M Brown |
 | 315 | 208 | Mema |
 | 316 | 208 | Smashanator |
-| 317 | 207 | Brave Gridpiece |
-| 318 | 207 | Melissa McCall |
+| 317 | 207 | Melissa McCall |
+| 318 | 207 | Brave Gridpiece |
 | 319 | 207 | Shylee Tilman |
 | 320 | 206 | Julio A Laracuente |
 | 321 | 206 | RAEPR05 |
@@ -473,8 +473,8 @@
 | 465 | 149 | Melissa Rebbe-Lehman |
 | 466 | 148 | Shannon Byrd |
 | 467 | 147 | Juliana Marques Do Nascimento Gordy |
-| 468 | 146 | Sherry Aguinaga |
-| 469 | 146 | Ibiza Carolina LaRose |
+| 468 | 146 | Ibiza Carolina LaRose |
+| 469 | 146 | Sherry Aguinaga |
 | 470 | 145 | William Hughes |
 | 471 | 145 | Scott Rackley |
 | 472 | 145 | Catina Hutchison |
@@ -663,7 +663,7 @@
 | 655 | 105 | Heather Westrum |
 | 656 | 105 | trabuco |
 | 657 | 105 | Kara Jennifer |
-| 658 | 104 | Lively Piecebuilder |
+| 658 | 104 | Jessica Conaway |
 | 659 | 104 | sup |
 | 660 | 104 | Chelsea Gutierrez |
 | 661 | 104 | Lively Piecebuilder |

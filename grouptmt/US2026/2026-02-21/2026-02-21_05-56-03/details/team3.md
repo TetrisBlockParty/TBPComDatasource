@@ -101,8 +101,8 @@
 | 93 | 202 | Shannon Matthew Byers |
 | 94 | 200 | Twisty Brick LT |
 | 95 | 199 | joclisa |
-| 96 | 195 | Jenny Hrndz |
-| 97 | 195 | Nicha Hooker |
+| 96 | 195 | Nicha Hooker |
+| 97 | 195 | Jenny Hrndz |
 | 98 | 193 | Clever Shiftsnap |
 | 99 | 193 | Shunta Jacobs |
 | 100 | 192 | Chasity |
@@ -189,8 +189,8 @@
 | 181 | 104 | mommablock |
 | 182 | 104 | Sarah Moyer |
 | 183 | 103 | BabyTonj Evans |
-| 184 | 102 | Kali Kelz Williams |
-| 185 | 102 | Sashay Tapae Simpson |
+| 184 | 102 | Sashay Tapae Simpson |
+| 185 | 102 | Kali Kelz Williams |
 | 186 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 187 | 101 | Hyper Bridger |
 | 188 | 100 | Elizabeth Renee |
