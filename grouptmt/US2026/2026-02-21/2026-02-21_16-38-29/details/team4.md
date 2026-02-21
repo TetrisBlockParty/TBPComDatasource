@@ -61,8 +61,8 @@
 | 53 | 339 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -82,8 +82,8 @@
 | 74 | 226 | Breannah Grafe |
 | 75 | 215 | Alyssa Papen |
 | 76 | 213 | Jae Job |
-| 77 | 211 | Casey Grabner |
-| 78 | 211 | Dizzy Tiley |
+| 77 | 211 | Dizzy Tiley |
+| 78 | 211 | Casey Grabner |
 | 79 | 210 | Lucas J Sutton |
 | 80 | 209 | Robin Watters |
 | 81 | 205 | Sarah Neathery |
@@ -181,9 +181,9 @@
 | 173 | 107 | Marcus Todd |
 | 174 | 107 | Rafael Valentin |
 | 175 | 106 | Avy Absol |
-| 176 | 105 | 🥔🥔 Spudz |
+| 176 | 105 | Kristin MacDonald |
 | 177 | 105 | TheNeesh50 |
-| 178 | 105 | Kristin MacDonald |
+| 178 | 105 | 🥔🥔 Spudz |
 | 179 | 104 | Damn Libra |
 | 180 | 103 | Lauren Lamb |
 | 181 | 103 | Judy Cox |

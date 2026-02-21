@@ -36,8 +36,8 @@
 | 28 | 516 | comrade fish |
 | 29 | 511 | Jen Sartain |
 | 30 | 510 | Colena Davenport |
-| 31 | 508 | Lawrence Belanger |
-| 32 | 508 | Michelle Nicole |
+| 31 | 508 | Michelle Nicole |
+| 32 | 508 | Lawrence Belanger |
 | 33 | 486 | Sevens4L |
 | 34 | 483 | Ryan Lunnin |
 | 35 | 466 | Kathi Snustad |
@@ -63,8 +63,8 @@
 | 55 | 287 | Hyper |
 | 56 | 279 | Shauna Loe |
 | 57 | 278 | Carrie Beck Geartz |
-| 58 | 274 | Sweet Baker |
-| 59 | 274 | Theo Pinnow |
+| 58 | 274 | Theo Pinnow |
+| 59 | 274 | Sweet Baker |
 | 60 | 271 | Jazzy Framezone |
 | 61 | 270 | Sarah Roberts |
 | 62 | 261 | Bhelle Sumile |
@@ -108,8 +108,8 @@
 | 100 | 178 | Danielle Little-Daugherty |
 | 101 | 178 | Chad Atchley |
 | 102 | 173 | Frothy Pattern |
-| 103 | 171 | Greg Premoe |
-| 104 | 171 | David DeSantis |
+| 103 | 171 | David DeSantis |
+| 104 | 171 | Greg Premoe |
 | 105 | 169 | Abbey Crespo |
 | 106 | 166 | Rico Rico |
 | 107 | 166 | Tana |
@@ -158,8 +158,8 @@
 | 150 | 129 | Dino |
 | 151 | 128 | Barry Mac'Ockner |
 | 152 | 128 | lil mickey |
-| 153 | 127 | Aimee Horton |
-| 154 | 127 | Brave Wrecker |
+| 153 | 127 | Brave Wrecker |
+| 154 | 127 | Aimee Horton |
 | 155 | 126 | Nerdy Linkblock |
 | 156 | 124 | Flashy Rotator |
 | 157 | 124 | Cartier |
@@ -176,8 +176,8 @@
 | 168 | 115 | Chuck Gannon |
 | 169 | 114 | Gilbert Ortiz Jr. |
 | 170 | 113 | Desiree Deschaine Havee |
-| 171 | 112 | Nicole Roseberry Weber |
-| 172 | 112 | Chris65 |
+| 171 | 112 | Chris65 |
+| 172 | 112 | Nicole Roseberry Weber |
 | 173 | 111 | Chirpy Smasher |
 | 174 | 111 | Agustin Duarte Orozco |
 | 175 | 111 | Jessi Sauer |
@@ -234,8 +234,8 @@
 | 226 | 84 | Rachel Nichole Henry |
 | 227 | 83 | Layzietyme |
 | 228 | 83 | Bob |
-| 229 | 83 | Daring Fitclear |
-| 230 | 83 | FableGray |
+| 229 | 83 | FableGray |
+| 230 | 83 | Daring Fitclear |
 | 231 | 82 | Sarah Lombardo |
 | 232 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 233 | 81 | Giddy Glider |

@@ -88,8 +88,8 @@
 | 80 | 383 | Mahman |
 | 81 | 381 | Katie Knaus |
 | 82 | 379 | Elissa S-k |
-| 83 | 378 | Tasha Schriewer |
-| 84 | 378 | Elaine Webb Graves |
+| 83 | 378 | Elaine Webb Graves |
+| 84 | 378 | Tasha Schriewer |
 | 85 | 376 | Shari Garber |
 | 86 | 372 | Patty Allen |
 | 87 | 371 | Jesse Olive |
@@ -167,8 +167,8 @@
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
 | 161 | 182 | Hyper Matchzone |
-| 162 | 181 | Aerian Preston |
-| 163 | 181 | Karon Griffin |
+| 162 | 181 | Karon Griffin |
+| 163 | 181 | Aerian Preston |
 | 164 | 179 | Joye Sims Binion |
 | 165 | 179 | Ashley Jones |
 | 166 | 179 | Daira Largen |
@@ -196,8 +196,8 @@
 | 188 | 160 | Tiffany Davie |
 | 189 | 159 | Jone |
 | 190 | 158 | Grams |
-| 191 | 157 | Nicholas Roddy |
-| 192 | 157 | Patricia Gadsden |
+| 191 | 157 | Patricia Gadsden |
+| 192 | 157 | Nicholas Roddy |
 | 193 | 156 | Bea Miles |
 | 194 | 152 | Shiny Zonebuilder |
 | 195 | 152 | Cozy Snaplink |
@@ -255,7 +255,7 @@
 | 247 | 120 | Lys |
 | 248 | 118 | Fancy Curver |
 | 249 | 118 | Sabrina Hardrick |
-| 250 | 118 | Fancy Curver |
+| 250 | 118 | Damian Reid |
 | 251 | 116 | BugMansMom |
 | 252 | 115 | Hoppy Buildout |
 | 253 | 115 | Stella |
