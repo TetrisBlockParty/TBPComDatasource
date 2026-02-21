@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -105,8 +105,8 @@
 | 97 | 559 | Zappy Cascade |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Thomas Hedrick |
-| 101 | 540 | Charvi' Carter |
+| 100 | 540 | Charvi' Carter |
+| 101 | 540 | Thomas Hedrick |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -137,8 +137,8 @@
 | 129 | 455 | Alicia Parrish |
 | 130 | 453 | Osun Anuket Esu |
 | 131 | 450 | Giggy Blocker |
-| 132 | 448 | Nick Jensen |
-| 133 | 448 | Jojo Momma |
+| 132 | 448 | Jojo Momma |
+| 133 | 448 | Nick Jensen |
 | 134 | 442 | Daphne Jordan |
 | 135 | 440 | Cody Smith-Candelaria |
 | 136 | 440 | BYM4L |
@@ -333,9 +333,9 @@
 | 325 | 198 | Alyssa Dean |
 | 326 | 197 | Scott Treadway |
 | 327 | 196 | Besma Ao |
-| 328 | 196 | Neko Preston |
-| 329 | 196 | Alexandra Reese |
-| 330 | 196 | Cass Shirley |
+| 328 | 196 | Cass Shirley |
+| 329 | 196 | Neko Preston |
+| 330 | 196 | Alexandra Reese |
 | 331 | 194 | Hoppy Brickmatch |
 | 332 | 194 | Kimberly Ann |
 | 333 | 194 | Mike Aprilliano |

@@ -35,8 +35,8 @@
 | 27 | 613 | Amber Hughes |
 | 28 | 608 | River |
 | 29 | 598 | Jennifer Willis |
-| 30 | 587 | Danielle Becker |
-| 31 | 587 | Suzieq |
+| 30 | 587 | Suzieq |
+| 31 | 587 | Danielle Becker |
 | 32 | 568 | Shonna Roberts |
 | 33 | 553 | Clever Roll |
 | 34 | 546 | Dolores Falco |
@@ -98,8 +98,8 @@
 | 90 | 203 | Crimson |
 | 91 | 199 | joclisa |
 | 92 | 195 | Nicha Hooker |
-| 93 | 193 | Shunta Jacobs |
-| 94 | 193 | Clever Shiftsnap |
+| 93 | 193 | Clever Shiftsnap |
+| 94 | 193 | Shunta Jacobs |
 | 95 | 192 | Chasity |
 | 96 | 188 | Twisty Brick LT |
 | 97 | 187 | Speedy Bridger |

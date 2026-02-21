@@ -90,16 +90,16 @@
 | 82 | 132 | Davery Spencer Adair |
 | 83 | 130 | Dandy Basegrid |
 | 84 | 129 | Trina Gee |
-| 85 | 128 | Gary Gobin |
-| 86 | 128 | Uhog SF |
+| 85 | 128 | Uhog SF |
+| 86 | 128 | Gary Gobin |
 | 87 | 126 | Cece Ibarra |
 | 88 | 121 | Bouncy Grid |
 | 89 | 119 | Tater |
 | 90 | 119 | Irual Hctrab |
 | 91 | 115 | comrade fish |
-| 92 | 114 | Giddy Cascade |
-| 93 | 114 | Colleen Wise |
-| 94 | 114 | Michael |
+| 92 | 114 | Michael |
+| 93 | 114 | Giddy Cascade |
+| 94 | 114 | Colleen Wise |
 | 95 | 113 | Evie Khalil |
 | 96 | 112 | Kristen Gideon |
 | 97 | 112 | Miguel Teixeira |
