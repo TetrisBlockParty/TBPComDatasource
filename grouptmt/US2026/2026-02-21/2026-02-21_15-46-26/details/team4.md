@@ -117,13 +117,13 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Bethany Ison |
-| 113 | 151 | Dana Scott |
+| 112 | 151 | Dana Scott |
+| 113 | 151 | Bethany Ison |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |
-| 117 | 146 | Klo |
-| 118 | 146 | Peachy Fall |
+| 117 | 146 | Peachy Fall |
+| 118 | 146 | Klo |
 | 119 | 145 | Jessica Bohlken |
 | 120 | 144 | Mr. Party |
 | 121 | 143 | Nugget |
@@ -144,8 +144,8 @@
 | 136 | 128 | Stephme310 |
 | 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | TinyLegoRose |
-| 140 | 126 | Dihcheese444 |
+| 139 | 126 | Dihcheese444 |
+| 140 | 126 | TinyLegoRose |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Angela Geist Jusinski |
 | 143 | 123 | Cherrish Duren |

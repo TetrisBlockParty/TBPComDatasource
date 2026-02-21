@@ -451,8 +451,8 @@
 | 443 | 236 | snkylnk |
 | 444 | 236 | Julio A Laracuente |
 | 445 | 235 | Kimberly Mitchell |
-| 446 | 234 | Manny Trindade |
-| 447 | 234 | Jennifer Leigh |
+| 446 | 234 | Jennifer Leigh |
+| 447 | 234 | Manny Trindade |
 | 448 | 234 | Jaybee Nguyen |
 | 449 | 233 | Nutty Matchline |
 | 450 | 233 | Daring Matchfit |
@@ -469,8 +469,8 @@
 | 461 | 227 | JacJac |
 | 462 | 226 | Jodi Mitnick |
 | 463 | 226 | Juliana Marques Do Nascimento Gordy |
-| 464 | 226 | Morgan Easter |
-| 465 | 226 | Christina Wsn |
+| 464 | 226 | Christina Wsn |
+| 465 | 226 | Morgan Easter |
 | 466 | 225 | Breezy Tilt |
 | 467 | 224 | Alice Ball |
 | 468 | 224 | Besma Ao |

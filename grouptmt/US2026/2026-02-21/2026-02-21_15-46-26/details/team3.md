@@ -185,8 +185,8 @@
 | 177 | 163 | Sashay Tapae Simpson |
 | 178 | 163 | Trisha Balmer |
 | 179 | 162 | Stephanie Whitefield |
-| 180 | 161 | BŘŰŤİÇŨŚ |
-| 181 | 161 | Nikki Pags |
+| 180 | 161 | Nikki Pags |
+| 181 | 161 | BŘŰŤİÇŨŚ |
 | 182 | 160 | Tiffany Davie |
 | 183 | 160 | Sarajane Lokan |
 | 184 | 159 | Jone |
@@ -236,8 +236,8 @@
 | 228 | 124 | Funky Jumper |
 | 229 | 124 | Marci Mize Fandrich |
 | 230 | 123 | Michael Latasha Gray |
-| 231 | 122 | Giggly Brickroll |
-| 232 | 122 | BabyTonj Evans |
+| 231 | 122 | BabyTonj Evans |
+| 232 | 122 | Giggly Brickroll |
 | 233 | 121 | Loopy Clusterer |
 | 234 | 121 | mzcatzy |
 | 235 | 121 | Valerie Gendron |
