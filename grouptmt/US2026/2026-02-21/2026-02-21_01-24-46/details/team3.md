@@ -72,8 +72,8 @@
 | 64 | 180 | joclisa |
 | 65 | 179 | Daira Largen |
 | 66 | 177 | Fallorina Susana |
-| 67 | 170 | Delilah belle |
-| 68 | 170 | Fancy Slam |
+| 67 | 170 | Fancy Slam |
+| 68 | 170 | Delilah belle |
 | 69 | 166 | Danielle Mogg |
 | 70 | 160 | Tessina Dewey-Mancino |
 | 71 | 159 | Morgan Martinez |

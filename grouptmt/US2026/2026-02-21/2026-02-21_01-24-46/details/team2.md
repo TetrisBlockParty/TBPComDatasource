@@ -80,8 +80,8 @@
 | 72 | 461 | Priscilla Noel |
 | 73 | 456 | Lisa Ongtowasruk |
 | 74 | 451 | Sam McKenzie |
-| 75 | 448 | Nick Jensen |
-| 76 | 448 | Jojo Momma |
+| 75 | 448 | Jojo Momma |
+| 76 | 448 | Nick Jensen |
 | 77 | 440 | Mari Ac |
 | 78 | 431 | Slip |
 | 79 | 429 | Ashley Rose Frederick |

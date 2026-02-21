@@ -98,8 +98,8 @@
 | 90 | 75 | Chair |
 | 91 | 73 | Jeff Brian Gates |
 | 92 | 73 | Lauren Lamb |
-| 93 | 72 | Joshua Cuellar |
-| 94 | 72 | Jae Job |
+| 93 | 72 | Jae Job |
+| 94 | 72 | Joshua Cuellar |
 | 95 | 71 | Christina Black |
 | 96 | 71 | Joseph Pace |
 | 97 | 70 | Valerie Roberts |
