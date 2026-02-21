@@ -176,8 +176,8 @@
 | 168 | 514 | Ashley House |
 | 169 | 511 | Dizzy Zone |
 | 170 | 511 | Ramone Armstrong |
-| 171 | 510 | Cheech Dta |
-| 172 | 510 | Lisa Ongtowasruk |
+| 171 | 510 | Lisa Ongtowasruk |
+| 172 | 510 | Cheech Dta |
 | 173 | 509 | Kelli Wells |
 | 174 | 505 | Danielle Johnson-Chandler |
 | 175 | 504 | Cherica Taylor |
@@ -232,9 +232,9 @@
 | 224 | 405 | Christy Krissie |
 | 225 | 404 | Mema |
 | 226 | 402 | Joshua Mandel |
-| 227 | 400 | Tammy Allen |
-| 228 | 400 | Crystie Hicks |
-| 229 | 400 | Rhonda Milstead |
+| 227 | 400 | Rhonda Milstead |
+| 228 | 400 | Tammy Allen |
+| 229 | 400 | Crystie Hicks |
 | 230 | 397 | Ashley Guernsey-Martin |
 | 231 | 397 | Angela Bonquiqui Dinish |
 | 232 | 397 | coleksquad |
@@ -592,8 +592,8 @@
 | 584 | 170 | BTA |
 | 585 | 170 | Sharon Crawford |
 | 586 | 170 | Kenya Felix |
-| 587 | 169 | Eddie Perez |
-| 588 | 169 | Greenshades00 |
+| 587 | 169 | Greenshades00 |
+| 588 | 169 | Eddie Perez |
 | 589 | 169 | Sassy Linkroll |
 | 590 | 168 | Joel Rosado |
 | 591 | 168 | Phil J. Grombliniak |

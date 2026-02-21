@@ -137,8 +137,8 @@
 | 129 | 213 | Tom Nault |
 | 130 | 212 | Shunta Jacobs |
 | 131 | 211 | Katrina Schroeder |
-| 132 | 207 | rnr junky |
-| 133 | 207 | Chris Bell |
+| 132 | 207 | Chris Bell |
+| 133 | 207 | rnr junky |
 | 134 | 206 | Chasity |
 | 135 | 204 | Mcathen |
 | 136 | 204 | Aaron Pitkin |
@@ -168,8 +168,8 @@
 | 160 | 178 | AlsoJess |
 | 161 | 176 | Rebel124 |
 | 162 | 175 | DanceLuvLaugh |
-| 163 | 168 | rosy |
-| 164 | 168 | Angie Harper |
+| 163 | 168 | Angie Harper |
+| 164 | 168 | rosy |
 | 165 | 167 | Raven Dudley |
 | 166 | 166 | Danielle Mogg |
 | 167 | 166 | Loopy Fallmatch |
@@ -180,8 +180,8 @@
 | 172 | 163 | Sashay Tapae Simpson |
 | 173 | 163 | Trisha Balmer |
 | 174 | 163 | Stephanie Hill |
-| 175 | 161 | BŘŰŤİÇŨŚ |
-| 176 | 161 | Nikki Pags |
+| 175 | 161 | Nikki Pags |
+| 176 | 161 | BŘŰŤİÇŨŚ |
 | 177 | 160 | Tiffany Davie |
 | 178 | 159 | Stephanie Whitefield |
 | 179 | 159 | Jone |
