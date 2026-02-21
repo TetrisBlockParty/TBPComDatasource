@@ -44,8 +44,8 @@
 | 36 | 539 | Karin Gillen |
 | 37 | 521 | Hyp James NObettadanluvarat |
 | 38 | 518 | comrade fish |
-| 39 | 517 | Jen Sartain |
-| 40 | 517 | Felicia Lewis |
+| 39 | 517 | Felicia Lewis |
+| 40 | 517 | Jen Sartain |
 | 41 | 510 | Colena Davenport |
 | 42 | 508 | Michelle Nicole |
 | 43 | 508 | Kristen Roles Robben |
@@ -121,8 +121,8 @@
 | 113 | 212 | Mandyy Rae |
 | 114 | 211 | Marianita Garcia |
 | 115 | 204 | Ananda Mendez |
-| 116 | 203 | GATOR |
-| 117 | 203 | Giggly Builderline |
+| 116 | 203 | Giggly Builderline |
+| 117 | 203 | GATOR |
 | 118 | 198 | Happy Snapbuild |
 | 119 | 194 | Ash Galvan |
 | 120 | 193 | Lachelle Dillon |

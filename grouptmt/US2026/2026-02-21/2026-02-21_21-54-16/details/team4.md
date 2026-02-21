@@ -217,7 +217,7 @@
 | 209 | 115 | Ultramarine |
 | 210 | 115 | Tyler Terrific |
 | 211 | 115 | Nubian1 |
-| 212 | 115 | Tyler Terrific |
+| 212 | 115 | Sam Middleton |
 | 213 | 114 | Circuit8 |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 113 | Adam Randall |
