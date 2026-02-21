@@ -297,8 +297,8 @@
 | 289 | 442 | Daphne Jordan |
 | 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Joseph Musick |
-| 293 | 439 | Alisa Lamb |
+| 292 | 439 | Alisa Lamb |
+| 293 | 439 | Joseph Musick |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -584,8 +584,8 @@
 | 576 | 245 | Sanaa Nounoussa |
 | 577 | 245 | Mary Boss |
 | 578 | 244 | Maxwell Escalera |
-| 579 | 244 | Court |
-| 580 | 244 | Nakiiya Dreamcatcher Gore |
+| 579 | 244 | Nakiiya Dreamcatcher Gore |
+| 580 | 244 | Court |
 | 581 | 243 | JacJac |
 | 582 | 242 | Donna Chandler |
 | 583 | 242 | Lianne Giandalone LaBounty |

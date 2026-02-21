@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Stephanie Rice |
-| 35 | 928 | Snappy Fitzone |
+| 34 | 928 | Snappy Fitzone |
+| 35 | 928 | Stephanie Rice |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 879 | Shonna Roberts |
@@ -70,8 +70,8 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -99,17 +99,17 @@
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
 | 93 | 396 | Jay Horn |
-| 94 | 394 | joclisa |
-| 95 | 394 | Mcathen |
+| 94 | 394 | Mcathen |
+| 95 | 394 | joclisa |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Annie Déè |
-| 99 | 390 | Hasty Cascadefit |
+| 98 | 390 | Hasty Cascadefit |
+| 99 | 390 | Annie Déè |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Tasha Schriewer |
-| 104 | 378 | Makelini Mausia |
+| 103 | 378 | Makelini Mausia |
+| 104 | 378 | Tasha Schriewer |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Woods |
@@ -238,8 +238,8 @@
 | 230 | 157 | Patricia Gadsden |
 | 231 | 157 | Sabrina Hardrick |
 | 232 | 156 | Daryn Elliott |
-| 233 | 155 | Loopy Fallzone |
-| 234 | 155 | Latoya Mayne |
+| 233 | 155 | Latoya Mayne |
+| 234 | 155 | Loopy Fallzone |
 | 235 | 154 | Laurie Allen |
 | 236 | 153 | Rachel Napper |
 | 237 | 153 | Desiree Gold |

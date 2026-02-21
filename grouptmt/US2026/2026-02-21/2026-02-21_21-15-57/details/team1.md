@@ -166,8 +166,8 @@
 | 158 | 150 | Adele Rahman |
 | 159 | 148 | Shauntina Burke |
 | 160 | 148 | Bouncy Grid |
-| 161 | 147 | Davery Spencer Adair |
-| 162 | 147 | Leslie Bush Yarbrough |
+| 161 | 147 | Leslie Bush Yarbrough |
+| 162 | 147 | Davery Spencer Adair |
 | 163 | 146 | Christy Jones |
 | 164 | 145 | Agustin Duarte Orozco |
 | 165 | 145 | Angela Fairbank |
@@ -243,8 +243,8 @@
 | 235 | 105 | J.F. Fields |
 | 236 | 105 | Brad MG |
 | 237 | 104 | Dizzy Riseclear |
-| 238 | 104 | Charla Pross-Fugleberg |
-| 239 | 104 | Bindi |
+| 238 | 104 | Bindi |
+| 239 | 104 | Charla Pross-Fugleberg |
 | 240 | 103 | Kayla Marie Stevenson |
 | 241 | 103 | Strig |
 | 242 | 103 | MommaKFC |

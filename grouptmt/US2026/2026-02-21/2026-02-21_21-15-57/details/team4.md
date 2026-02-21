@@ -139,8 +139,8 @@
 | 131 | 174 | Dihcheese444 |
 | 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -149,10 +149,10 @@
 | 141 | 156 | Holly |
 | 142 | 156 | Jessica Bohlken |
 | 143 | 153 | Empress Oasis |
-| 144 | 151 | Avy Absol |
-| 145 | 151 | Bethany Ison |
-| 146 | 149 | Roger Coulter |
-| 147 | 149 | Diana Houts |
+| 144 | 151 | Bethany Ison |
+| 145 | 151 | Avy Absol |
+| 146 | 149 | Diana Houts |
+| 147 | 149 | Roger Coulter |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
 | 150 | 147 | Chair |
@@ -246,11 +246,11 @@
 | 238 | 101 | Nikki Rae Gordon |
 | 239 | 101 | mike |
 | 240 | 101 | Zesty Linkgrid |
-| 241 | 101 | Zach Kerbs |
-| 242 | 101 | Saulc1991 |
+| 241 | 101 | Saulc1991 |
+| 242 | 101 | Zach Kerbs |
 | 243 | 100 | Jacob Richard |
-| 244 | 100 | Alexandra Karavias |
-| 245 | 100 | Maureen Flanigan |
+| 244 | 100 | Maureen Flanigan |
+| 245 | 100 | Alexandra Karavias |
 | 246 | 99 | Michael Orris |
 | 247 | 98 | Perky Piecegrid |
 | 248 | 98 | Sam Bishop |
@@ -279,8 +279,8 @@
 | 271 | 90 | Hyper Builder |
 | 272 | 90 | Carol Ricks Raymond |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Kesha Brady |
-| 275 | 88 | Michelle Parker |
+| 274 | 88 | Michelle Parker |
+| 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | amy |
 | 278 | 86 | Jason Frehner |
@@ -327,7 +327,7 @@
 | 319 | 77 | Mike |
 | 320 | 76 | Rebecca Blake |
 | 321 | 76 | Kevin Bush |
-| 322 | 76 | Rebecca Blake |
+| 322 | 76 | Crystal Lynn |
 | 323 | 76 | Cristy Duerksen |
 | 324 | 75 | Peppy Drop |
 | 325 | 75 | Snippy Puzzle |
