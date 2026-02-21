@@ -72,8 +72,8 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Annie Déè |
-| 68 | 342 | Trezure Gonzalez |
+| 67 | 342 | Trezure Gonzalez |
+| 68 | 342 | Annie Déè |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
@@ -130,8 +130,8 @@
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Kelly Ann Child |
-| 126 | 166 | Danielle Mogg |
+| 125 | 166 | Danielle Mogg |
+| 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
 | 128 | 159 | Morgan Martinez |
 | 129 | 159 | Jone |
@@ -162,7 +162,7 @@
 | 154 | 134 | DanceLuvLaugh |
 | 155 | 131 | Jl |
 | 156 | 129 | Stephanie Burtin |
-| 157 | 127 | Connie Mohler-Fair |
+| 157 | 127 | Marquita Sheard |
 | 158 | 127 | Aerian Preston |
 | 159 | 127 | Connie Mohler-Fair |
 | 160 | 126 | Brandon Givens |
@@ -183,8 +183,8 @@
 | 175 | 121 | Juliana Dottore |
 | 176 | 120 | Jessica |
 | 177 | 118 | Fancy Curver |
-| 178 | 116 | Joy Petroski |
-| 179 | 116 | Skinny Baldez |
+| 178 | 116 | Skinny Baldez |
+| 179 | 116 | Joy Petroski |
 | 180 | 115 | Jennifer Alvey |
 | 181 | 114 | Jessica Bechler |
 | 182 | 114 | Nicholas Roddy |
@@ -267,8 +267,8 @@
 | 259 | 85 | Chris Bell |
 | 260 | 85 | Crystel b520 |
 | 261 | 84 | Amanda L Baker |
-| 262 | 84 | Flashy Rumbler |
-| 263 | 84 | gremicx |
+| 262 | 84 | gremicx |
+| 263 | 84 | Flashy Rumbler |
 | 264 | 83 | Deseree Ewing |
 | 265 | 82 | Rebecca Funderburk Kirby |
 | 266 | 81 | Tina Baurdau |

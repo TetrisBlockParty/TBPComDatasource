@@ -215,8 +215,8 @@
 | 207 | 323 | Briana Alexander |
 | 208 | 318 | Trista Dumais |
 | 209 | 317 | Heather Westrum |
-| 210 | 317 | Dizzy Zone |
-| 211 | 317 | bru |
+| 210 | 317 | bru |
+| 211 | 317 | Dizzy Zone |
 | 212 | 314 | Amanda West |
 | 213 | 312 | Michelle Pike |
 | 214 | 311 | Véronique Lévesque Sabourin |
@@ -303,8 +303,8 @@
 | 295 | 246 | Ashley Lopez |
 | 296 | 246 | Stephanie Lumanlan |
 | 297 | 245 | Rachael Senard |
-| 298 | 245 | Taryece Gause |
-| 299 | 245 | Mischelle Clay |
+| 298 | 245 | Mischelle Clay |
+| 299 | 245 | Taryece Gause |
 | 300 | 244 | Aimee Byrom |
 | 301 | 243 | Brandy Andre |
 | 302 | 243 | Amélie Cadieux |
