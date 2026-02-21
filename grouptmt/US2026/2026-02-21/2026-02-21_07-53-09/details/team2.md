@@ -297,9 +297,9 @@
 | 289 | 256 | CC |
 | 290 | 256 | Smashanator |
 | 291 | 255 | Santana Miyagi |
-| 292 | 254 | Elizabeth Diraffaele |
-| 293 | 254 | Rose Fx |
-| 294 | 254 | Julie Hamilton |
+| 292 | 254 | Julie Hamilton |
+| 293 | 254 | Elizabeth Diraffaele |
+| 294 | 254 | Rose Fx |
 | 295 | 253 | Tansaria Couch-Butler |
 | 296 | 252 | Cheech Dta |
 | 297 | 252 | Matt Johnson |
@@ -361,8 +361,8 @@
 | 353 | 216 | Tum |
 | 354 | 215 | Jordan Petro |
 | 355 | 215 | Ashlyn Berner |
-| 356 | 212 | BK Queen |
-| 357 | 212 | Amanda Canterbury |
+| 356 | 212 | Amanda Canterbury |
+| 357 | 212 | BK Queen |
 | 358 | 212 | Aleasha M Brown |
 | 359 | 209 | Jerry Tempelmeyer |
 | 360 | 208 | Mema |

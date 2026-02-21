@@ -73,14 +73,14 @@
 | 65 | 351 | Calista Jo Dickson |
 | 66 | 345 | Christine Niles |
 | 67 | 343 | Silly Twist |
-| 68 | 342 | Trezure Gonzalez |
-| 69 | 342 | Annie Déè |
+| 68 | 342 | Annie Déè |
+| 69 | 342 | Trezure Gonzalez |
 | 70 | 338 | Danielle Rhoades |
 | 71 | 332 | Chauntee Alfrey-Cardinale |
 | 72 | 325 | Shari Garber |
 | 73 | 323 | Ashley Raines |
-| 74 | 322 | Mendoza Lee Christy |
-| 75 | 322 | Michelle |
+| 74 | 322 | Michelle |
+| 75 | 322 | Mendoza Lee Christy |
 | 76 | 320 | Or Reznitsky |
 | 77 | 318 | Tasha Schriewer |
 | 78 | 316 | Fancy Cascader |
@@ -116,8 +116,8 @@
 | 108 | 200 | Twisty Brick LT |
 | 109 | 199 | joclisa |
 | 110 | 196 | Speedy Bridger |
-| 111 | 195 | Jenny Hrndz |
-| 112 | 195 | Nicha Hooker |
+| 111 | 195 | Nicha Hooker |
+| 112 | 195 | Jenny Hrndz |
 | 113 | 194 | Amanda L Baker |
 | 114 | 194 | glichmod |
 | 115 | 193 | Clever Shiftsnap |
@@ -127,8 +127,8 @@
 | 119 | 184 | Jennie Beranek |
 | 120 | 182 | Hyper Matchzone |
 | 121 | 182 | Ashley Tookes |
-| 122 | 180 | Tessina Dewey-Mancino |
-| 123 | 180 | Fallorina Susana |
+| 122 | 180 | Fallorina Susana |
+| 123 | 180 | Tessina Dewey-Mancino |
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
@@ -144,8 +144,8 @@
 | 136 | 156 | Joey Banks |
 | 137 | 155 | BŘŰŤİÇŨŚ |
 | 138 | 154 | Angela M. Fletcher |
-| 139 | 153 | Giddy Twistbuilder |
-| 140 | 153 | Beth Ingham |
+| 139 | 153 | Beth Ingham |
+| 140 | 153 | Giddy Twistbuilder |
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
@@ -165,8 +165,8 @@
 | 157 | 131 | Jl |
 | 158 | 129 | Stephanie Burtin |
 | 159 | 128 | Tiff Vs Tiffany |
-| 160 | 127 | Connie Mohler-Fair |
-| 161 | 127 | Aerian Preston |
+| 160 | 127 | Aerian Preston |
+| 161 | 127 | Connie Mohler-Fair |
 | 162 | 127 | Marquita Sheard |
 | 163 | 126 | Brandon Givens |
 | 164 | 126 | Bryan Byrd |
