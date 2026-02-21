@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Mykal Burton |
-| 102 | 224 | Judi Dobson |
+| 101 | 224 | Judi Dobson |
+| 102 | 224 | Mykal Burton |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |
@@ -162,8 +162,8 @@
 | 154 | 149 | Trisha Balmer |
 | 155 | 149 | Bea Miles |
 | 156 | 147 | Sashay Tapae Simpson |
-| 157 | 146 | Latoya Mayne |
-| 158 | 146 | Denita Mungro |
+| 157 | 146 | Denita Mungro |
+| 158 | 146 | Latoya Mayne |
 | 159 | 142 | Erica Anderson |
 | 160 | 140 | Gumbo |
 | 161 | 140 | Jay Horn |
@@ -257,9 +257,9 @@
 | 249 | 95 | Brooke Bauer |
 | 250 | 94 | Angie Harper |
 | 251 | 93 | Tiffany Ford |
-| 252 | 92 | Ava Petito |
-| 253 | 92 | Jennifer Caputo |
-| 254 | 92 | Trice Thomas |
+| 252 | 92 | Jennifer Caputo |
+| 253 | 92 | Trice Thomas |
+| 254 | 92 | Ava Petito |
 | 255 | 91 | Martin Bernier |
 | 256 | 90 | Nichole Greene |
 | 257 | 90 | Tiffany Kaupang |
@@ -384,8 +384,8 @@
 | 376 | 64 | Tasha Gillespie |
 | 377 | 64 | Beejangles |
 | 378 | 63 | Hasty Wipebuilder |
-| 379 | 63 | Cary M. Fong |
-| 380 | 63 | Marci Mize Fandrich |
+| 379 | 63 | Mana |
+| 380 | 63 | Cary M. Fong |
 | 381 | 63 | Ruggergamer1 |
 | 382 | 62 | Kate Gaines |
 | 383 | 62 | Breanna Marsden |

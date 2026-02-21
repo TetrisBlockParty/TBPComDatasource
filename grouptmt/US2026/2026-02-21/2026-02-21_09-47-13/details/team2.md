@@ -215,8 +215,8 @@
 | 207 | 354 | Tracy Wise |
 | 208 | 353 | Joseph Musick |
 | 209 | 352 | ruth |
-| 210 | 350 | Chris Harr |
-| 211 | 350 | Brave Dropmatch |
+| 210 | 350 | Brave Dropmatch |
+| 211 | 350 | Chris Harr |
 | 212 | 350 | Kimberly Randesi |
 | 213 | 349 | Johnny Yeates |
 | 214 | 348 | Richard Horton |
@@ -319,8 +319,8 @@
 | 311 | 256 | Tee Jaleesa |
 | 312 | 256 | CC |
 | 313 | 255 | Santana Miyagi |
-| 314 | 254 | Rose Fx |
-| 315 | 254 | Elizabeth Diraffaele |
+| 314 | 254 | Elizabeth Diraffaele |
+| 315 | 254 | Rose Fx |
 | 316 | 254 | Julie Hamilton |
 | 317 | 253 | Tansaria Couch-Butler |
 | 318 | 252 | Matt Johnson |
