@@ -114,8 +114,8 @@
 | 106 | 229 | Angeline Joseph |
 | 107 | 227 | Crimson |
 | 108 | 225 | Speedy Bridger |
-| 109 | 224 | Mykal Burton |
-| 110 | 224 | Judi Dobson |
+| 109 | 224 | Judi Dobson |
+| 110 | 224 | Mykal Burton |
 | 111 | 223 | Jeana Gilbert |
 | 112 | 222 | Nicole Flippo |
 | 113 | 222 | Jimmie Clemons |

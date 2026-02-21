@@ -69,16 +69,16 @@
 | 61 | 212 | Jaimie Lynn |
 | 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Mandyy Rae |
-| 65 | 208 | Carrie Beck Geartz |
+| 64 | 208 | Carrie Beck Geartz |
+| 65 | 208 | Mandyy Rae |
 | 66 | 205 | Trippy Redd |
 | 67 | 204 | Ly Phethmany |
 | 68 | 204 | Lexuriuos Lifestlye |
 | 69 | 202 | Dee Perry |
-| 70 | 201 | Anaid Sanchez |
-| 71 | 201 | Ananda Mendez |
-| 72 | 198 | Happy Snapbuild |
-| 73 | 198 | Billie Dawn Sparks |
+| 70 | 201 | Ananda Mendez |
+| 71 | 201 | Anaid Sanchez |
+| 72 | 198 | Billie Dawn Sparks |
+| 73 | 198 | Happy Snapbuild |
 | 74 | 197 | Cynthia Bradley |
 | 75 | 194 | Giggly Builderline |
 | 76 | 193 | Lachelle Dillon |
@@ -120,16 +120,16 @@
 | 112 | 138 | Gary Gobin |
 | 113 | 137 | Nadine Velardo |
 | 114 | 134 | Trina Gee |
-| 115 | 133 | Brandi Huntington |
-| 116 | 133 | Breanna Luna |
+| 115 | 133 | Breanna Luna |
+| 116 | 133 | Brandi Huntington |
 | 117 | 132 | Davery Spencer Adair |
 | 118 | 132 | LaQuetta Faith Hines |
 | 119 | 131 | Uhog SF |
 | 120 | 131 | Lehrin Maria |
 | 121 | 130 | Dandy Basegrid |
 | 122 | 129 | Dino |
-| 123 | 128 | Cody Gates |
-| 124 | 128 | lil mickey |
+| 123 | 128 | lil mickey |
+| 124 | 128 | Cody Gates |
 | 125 | 127 | Michael |
 | 126 | 124 | Cartier |
 | 127 | 121 | Bouncy Grid |
@@ -241,8 +241,8 @@
 | 233 | 74 | Meechie |
 | 234 | 74 | BadG52 |
 | 235 | 73 | Shanae Grant |
-| 236 | 72 | Tipsy Strikerpiece |
-| 237 | 72 | Ric Hard Hernandez |
+| 236 | 72 | Ric Hard Hernandez |
+| 237 | 72 | Tipsy Strikerpiece |
 | 238 | 71 | Loneell Hyland |
 | 239 | 70 | Seth Wesson |
 | 240 | 70 | Henry Lanier |

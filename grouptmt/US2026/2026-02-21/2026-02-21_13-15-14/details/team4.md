@@ -83,11 +83,11 @@
 | 75 | 179 | Epic Curvetile |
 | 76 | 178 | Lori |
 | 77 | 175 | Dustee Craddock-Harrison |
-| 78 | 173 | Jeff Brian Gates |
-| 79 | 173 | Zethra Prenisha Rahming |
+| 78 | 173 | Zethra Prenisha Rahming |
+| 79 | 173 | Jeff Brian Gates |
 | 80 | 171 | Melvin Baird |
-| 81 | 170 | Justin Hannigan |
-| 82 | 170 | Girl |
+| 81 | 170 | Girl |
+| 82 | 170 | Justin Hannigan |
 | 83 | 167 | Denise Carlson |
 | 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
@@ -149,8 +149,8 @@
 | 141 | 112 | Austin Owens |
 | 142 | 111 | Lazy Blocker |
 | 143 | 111 | Gwendolyn Pitcairn |
-| 144 | 110 | H.R. Block |
-| 145 | 110 | YoMomma |
+| 144 | 110 | YoMomma |
+| 145 | 110 | H.R. Block |
 | 146 | 108 | Ali Ian |
 | 147 | 107 | Marcus Todd |
 | 148 | 105 | Sam Middleton |
@@ -160,10 +160,10 @@
 | 152 | 104 | Avy Absol |
 | 153 | 104 | Damn Libra |
 | 154 | 103 | Judy Cox |
-| 155 | 102 | ĥuf |
-| 156 | 102 | Faja |
-| 157 | 101 | Michelle Morris |
-| 158 | 101 | Saulc1991 |
+| 155 | 102 | Faja |
+| 156 | 102 | ĥuf |
+| 157 | 101 | Saulc1991 |
+| 158 | 101 | Michelle Morris |
 | 159 | 100 | Alexandra Karavias |
 | 160 | 99 | April Rondinone |
 | 161 | 99 | Anthony Bryan Riva |
@@ -181,8 +181,8 @@
 | 173 | 95 | Jen Caldwell |
 | 174 | 95 | Meagan Nicole |
 | 175 | 94 | Kim Hunt |
-| 176 | 94 | Chastity Mitchell |
-| 177 | 94 | DonMega |
+| 176 | 94 | DonMega |
+| 177 | 94 | Chastity Mitchell |
 | 178 | 93 | Zesty Twistbuilder |
 | 179 | 92 | Misty Hollibaugh |
 | 180 | 91 | Robin Getchel |
@@ -248,8 +248,8 @@
 | 240 | 72 | Sam Bishop |
 | 241 | 71 | Marcela Johnson |
 | 242 | 71 | Ericca Eldridge |
-| 243 | 70 | Patron Anderson |
-| 244 | 70 | Thomas Hettenhaus |
+| 243 | 70 | Ahleek Mitchell |
+| 244 | 70 | Joeliecea Cobb |
 | 245 | 70 | Richard-April Kice |
 | 246 | 70 | Thomas Hettenhaus |
 | 247 | 70 | Patron Anderson |

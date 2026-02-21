@@ -285,8 +285,8 @@
 | 277 | 312 | Michelle Pike |
 | 278 | 311 | Véronique Lévesque Sabourin |
 | 279 | 311 | Dar |
-| 280 | 310 | Brandy Andre |
-| 281 | 310 | Vaniel Glover |
+| 280 | 310 | Vaniel Glover |
+| 281 | 310 | Brandy Andre |
 | 282 | 309 | Ginger |
 | 283 | 309 | Oscar Bernie |
 | 284 | 309 | James Zaragoza |
@@ -350,8 +350,8 @@
 | 342 | 270 | Angela Lynn |
 | 343 | 269 | Reece Smith |
 | 344 | 268 | Chummy Blockbuilder |
-| 345 | 266 | Mike Aprilliano |
-| 346 | 266 | Mighty Shatterfit |
+| 345 | 266 | Mighty Shatterfit |
+| 346 | 266 | Mike Aprilliano |
 | 347 | 264 | Dapper Dasher |
 | 348 | 264 | Giddy Gridclear |
 | 349 | 263 | Taylor Flowers |
@@ -365,8 +365,8 @@
 | 357 | 257 | Diana Fitzwater |
 | 358 | 256 | Alishac Marie |
 | 359 | 256 | CC |
-| 360 | 256 | Tee Jaleesa |
-| 361 | 256 | Barbra Miller |
+| 360 | 256 | Barbra Miller |
+| 361 | 256 | Tee Jaleesa |
 | 362 | 255 | Kathryn Townsley |
 | 363 | 255 | Santana Miyagi |
 | 364 | 254 | Julie Hamilton |
@@ -390,8 +390,8 @@
 | 382 | 246 | Ashley Lopez |
 | 383 | 246 | Stephanie Lumanlan |
 | 384 | 245 | Rachael Senard |
-| 385 | 245 | Sanaa Nounoussa |
-| 386 | 245 | Robin Kerby |
+| 385 | 245 | Robin Kerby |
+| 386 | 245 | Sanaa Nounoussa |
 | 387 | 243 | Britt Stunkel |
 | 388 | 242 | Donna Chandler |
 | 389 | 241 | Sabrina Burton |
@@ -486,8 +486,8 @@
 | 478 | 186 | Joshua Mullings |
 | 479 | 186 | Jackie Jackie Lee |
 | 480 | 184 | BamaGirlinTX |
-| 481 | 184 | HarleyJane |
-| 482 | 184 | Brittany Radaszewski |
+| 481 | 184 | Brittany Radaszewski |
+| 482 | 184 | HarleyJane |
 | 483 | 184 | Sassy Linkbuilder |
 | 484 | 184 | Theresa Sterrett |
 | 485 | 184 | Regina Unruh |
