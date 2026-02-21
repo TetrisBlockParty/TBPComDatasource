@@ -211,8 +211,8 @@
 | 203 | 273 | Missie Lawson Gebhardt |
 | 204 | 271 | Oscar Bernie |
 | 205 | 271 | Ann Marie Davis |
-| 206 | 271 | Lonne Emade |
-| 207 | 271 | Toni Lynn |
+| 206 | 271 | Toni Lynn |
+| 207 | 271 | Lonne Emade |
 | 208 | 270 | Alexandra Weir |
 | 209 | 268 | Vanessa Moreno |
 | 210 | 267 | Mindy Leigh Head |
@@ -360,9 +360,9 @@
 | 352 | 164 | Jamie Stevey |
 | 353 | 163 | Albert McKnight |
 | 354 | 162 | LC Hamilton |
-| 355 | 162 | HarleyJane |
-| 356 | 162 | Brenna Ann |
-| 357 | 162 | Elizabeth Pearson |
+| 355 | 162 | Brenna Ann |
+| 356 | 162 | Elizabeth Pearson |
+| 357 | 162 | HarleyJane |
 | 358 | 160 | Rhonda Petro |
 | 359 | 160 | Cynthia Ward |
 | 360 | 159 | Facuetoo |
@@ -421,8 +421,8 @@
 | 413 | 142 | RavensBeard |
 | 414 | 142 | Melissa Kay Gibson |
 | 415 | 141 | Erika Meaux |
-| 416 | 141 | Kimmy Newman |
-| 417 | 141 | Markisha Poyndexter |
+| 416 | 141 | Markisha Poyndexter |
+| 417 | 141 | Kimmy Newman |
 | 418 | 140 | King Shamell Young |
 | 419 | 140 | Preya Patel |
 | 420 | 140 | Kimberly Ann |

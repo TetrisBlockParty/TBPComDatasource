@@ -95,8 +95,8 @@
 | 87 | 112 | Nicole Roseberry Weber |
 | 88 | 112 | Kristen Gideon |
 | 89 | 111 | Agustin Duarte Orozco |
-| 90 | 110 | Garcia Bailey |
-| 91 | 110 | Heidi Feurer |
+| 90 | 110 | Heidi Feurer |
+| 91 | 110 | Garcia Bailey |
 | 92 | 108 | Tavia |
 | 93 | 107 | Jodee Woods |
 | 94 | 105 | Barry Mac'Ockner |

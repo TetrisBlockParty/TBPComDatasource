@@ -45,8 +45,8 @@
 | 37 | 201 | Alyssa Papen |
 | 38 | 198 | Mike Solo |
 | 39 | 197 | Autum Leigh |
-| 40 | 194 | Rachel Anne |
-| 41 | 194 | Jamie Mann-Deichmann |
+| 40 | 194 | Jamie Mann-Deichmann |
+| 41 | 194 | Rachel Anne |
 | 42 | 190 | Brittney Orengo |
 | 43 | 185 | loulou |
 | 44 | 179 | Epic Curvetile |
@@ -76,8 +76,8 @@
 | 68 | 121 | Smiley Tiltbuilder |
 | 69 | 120 | Joshua Guess |
 | 70 | 116 | Serena Goodridge |
-| 71 | 114 | Jessica Cagle |
-| 72 | 114 | Zany Shatterer |
+| 71 | 114 | Zany Shatterer |
+| 72 | 114 | Jessica Cagle |
 | 73 | 113 | Andria Lynn |
 | 74 | 113 | Leslie Nicole |
 | 75 | 113 | Degenerate |
@@ -96,13 +96,13 @@
 | 88 | 106 | Jonathan Kimbrough |
 | 89 | 103 | Sam Middleton |
 | 90 | 102 | Faja |
-| 91 | 101 | YoMomma |
-| 92 | 101 | Michelle Morris |
+| 91 | 101 | Michelle Morris |
+| 92 | 101 | YoMomma |
 | 93 | 100 | Stephme310 |
 | 94 | 100 | Jeff Brian Gates |
-| 95 | 98 | 030Synner |
-| 96 | 98 | Allen Lloyd |
-| 97 | 98 | Duck |
+| 95 | 98 | Duck |
+| 96 | 98 | 030Synner |
+| 97 | 98 | Allen Lloyd |
 | 98 | 97 | TinyLegoRose |
 | 99 | 96 | Zappy Snaplink |
 | 100 | 92 | Kristin MacDonald |
