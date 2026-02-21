@@ -136,8 +136,8 @@
 | 128 | 185 | Peachy Fall |
 | 129 | 185 | Andy Cabral |
 | 130 | 184 | Justin Hannigan |
-| 131 | 181 | Carter Jones |
-| 132 | 181 | Andria Lynn |
+| 131 | 181 | Andria Lynn |
+| 132 | 181 | Carter Jones |
 | 133 | 180 | Leah Kutz Zirbel |
 | 134 | 178 | Lori |
 | 135 | 178 | shark tato |
@@ -149,8 +149,8 @@
 | 141 | 173 | blockstar |
 | 142 | 172 | Jessica Bohlken |
 | 143 | 171 | Diana Houts |
-| 144 | 164 | ThaEviLJeNiuZ |
-| 145 | 164 | 030Synner |
+| 144 | 164 | 030Synner |
+| 145 | 164 | ThaEviLJeNiuZ |
 | 146 | 160 | ZeeZee |
 | 147 | 159 | Jen Caldwell |
 | 148 | 157 | Malakai Darien Fox |
@@ -229,10 +229,10 @@
 | 221 | 114 | Lindsey Gonzalez |
 | 222 | 113 | Dandy Cascadefit |
 | 223 | 113 | Adam Randall |
-| 224 | 112 | rebel4lyfe |
-| 225 | 112 | Jeremy Steines |
-| 226 | 111 | Kristin MacDonald |
-| 227 | 111 | Lazy Blocker |
+| 224 | 112 | Jeremy Steines |
+| 225 | 112 | rebel4lyfe |
+| 226 | 111 | Lazy Blocker |
+| 227 | 111 | Kristin MacDonald |
 | 228 | 110 | Zach Kerbs |
 | 229 | 109 | LS |
 | 230 | 109 | Ak Jones |
@@ -264,19 +264,19 @@
 | 256 | 100 | Scott Jameson |
 | 257 | 100 | Alexandra Karavias |
 | 258 | 100 | Jacob Richard |
-| 259 | 100 | Bradley Reeves |
+| 259 | 100 | Blessedmama |
 | 260 | 100 | Jennifer Perkins |
-| 261 | 100 | Blessedmama |
+| 261 | 100 | Bradley Reeves |
 | 262 | 99 | Michael Orris |
 | 263 | 98 | Groovy Gridlock |
 | 264 | 98 | Perky Piecegrid |
 | 265 | 97 | Rosemary Foster |
 | 266 | 97 | Marcela Johnson |
-| 267 | 96 | Jessica Miller |
-| 268 | 96 | Marcus TheeyoungWoe Gilmore |
+| 267 | 96 | Marcus TheeyoungWoe Gilmore |
+| 268 | 96 | Jessica Miller |
 | 269 | 96 | Sammy Noguera |
-| 270 | 95 | Tina Martinez |
-| 271 | 95 | Patron Anderson |
+| 270 | 95 | Patron Anderson |
+| 271 | 95 | Tina Martinez |
 | 272 | 94 | DonMega |
 | 273 | 94 | Madison Sweere |
 | 274 | 94 | Christina Black |

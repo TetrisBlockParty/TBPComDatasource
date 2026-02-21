@@ -263,15 +263,15 @@
 | 255 | 519 | Deanna Morton |
 | 256 | 519 | Rob Brown |
 | 257 | 514 | Laquetta Royston |
-| 258 | 514 | Dizzy Zone |
-| 259 | 514 | Lisa Ongtowasruk |
+| 258 | 514 | Lisa Ongtowasruk |
+| 259 | 514 | Dizzy Zone |
 | 260 | 513 | Angela Bonquiqui Dinish |
 | 261 | 511 | Laura Mclean |
 | 262 | 509 | Kelli Wells |
 | 263 | 509 | Jordan Kaiser |
 | 264 | 506 | AISlop |
-| 265 | 504 | Cherica Taylor |
-| 266 | 504 | Gene Mills |
+| 265 | 504 | Gene Mills |
+| 266 | 504 | Cherica Taylor |
 | 267 | 503 | tejas25 |
 | 268 | 502 | Poppy Snap |
 | 269 | 502 | Magic steve |
@@ -321,8 +321,8 @@
 | 313 | 442 | Joshua Mandel |
 | 314 | 440 | Liberty |
 | 315 | 439 | Nickole Andrews |
-| 316 | 439 | Joseph Musick |
-| 317 | 439 | Alisa Lamb |
+| 316 | 439 | Alisa Lamb |
+| 317 | 439 | Joseph Musick |
 | 318 | 437 | Arwa Fatimah |
 | 319 | 436 | Melissa Kay Gibson |
 | 320 | 435 | Kimberly Randesi |
