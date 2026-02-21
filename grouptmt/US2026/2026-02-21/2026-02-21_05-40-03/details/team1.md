@@ -42,8 +42,8 @@
 | 34 | 243 | Sarah Roberts |
 | 35 | 241 | Kristen Roles Robben |
 | 36 | 228 | Michelle Nicole |
-| 37 | 212 | Tdub |
-| 38 | 212 | Jaimie Lynn |
+| 37 | 212 | Jaimie Lynn |
+| 38 | 212 | Tdub |
 | 39 | 211 | Deanna L Hermanson |
 | 40 | 208 | Carrie Beck Geartz |
 | 41 | 206 | Elaine Elaine |
@@ -53,8 +53,8 @@
 | 45 | 201 | Anaid Sanchez |
 | 46 | 201 | Ananda Mendez |
 | 47 | 200 | Lexuriuos Lifestlye |
-| 48 | 198 | Happy Snapbuild |
-| 49 | 198 | Billie Dawn Sparks |
+| 48 | 198 | Billie Dawn Sparks |
+| 49 | 198 | Happy Snapbuild |
 | 50 | 194 | Sharon Reynolds |
 | 51 | 192 | Mandyy Rae |
 | 52 | 191 | Jazzy Framezone |
@@ -83,8 +83,8 @@
 | 75 | 144 | femmefatale |
 | 76 | 144 | Tanya Carpenter-Reynolds |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Blaire Bruckoff |
-| 79 | 141 | Susanna Guerry |
+| 78 | 141 | Susanna Guerry |
+| 79 | 141 | Blaire Bruckoff |
 | 80 | 137 | Nadine Velardo |
 | 81 | 137 | Gary Gobin |
 | 82 | 133 | Brandi Huntington |
@@ -94,12 +94,12 @@
 | 86 | 128 | Uhog SF |
 | 87 | 126 | Cece Ibarra |
 | 88 | 121 | Bouncy Grid |
-| 89 | 119 | Irual Hctrab |
-| 90 | 119 | Tater |
+| 89 | 119 | Tater |
+| 90 | 119 | Irual Hctrab |
 | 91 | 115 | comrade fish |
 | 92 | 114 | Giddy Cascade |
-| 93 | 114 | Colleen Wise |
-| 94 | 114 | Michael |
+| 93 | 114 | Michael |
+| 94 | 114 | Colleen Wise |
 | 95 | 113 | Evie Khalil |
 | 96 | 112 | Christina Graham |
 | 97 | 112 | Miguel Teixeira |

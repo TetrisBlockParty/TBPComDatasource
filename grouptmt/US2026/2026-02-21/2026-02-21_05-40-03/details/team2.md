@@ -260,8 +260,8 @@
 | 252 | 256 | Giddy Gridclear |
 | 253 | 256 | Tee Jaleesa |
 | 254 | 255 | Santana Miyagi |
-| 255 | 254 | Julie Hamilton |
-| 256 | 254 | Libby Hicks |
+| 255 | 254 | Libby Hicks |
+| 256 | 254 | Julie Hamilton |
 | 257 | 252 | Matt Johnson |
 | 258 | 252 | Em Chen |
 | 259 | 252 | Alezandra Smith |
@@ -321,8 +321,8 @@
 | 313 | 207 | Shylee Tilman |
 | 314 | 206 | RAEPR05 |
 | 315 | 206 | Julio A Laracuente |
-| 316 | 205 | ElizabethAnn Dickinson |
-| 317 | 205 | Lylymom |
+| 316 | 205 | Lylymom |
+| 317 | 205 | ElizabethAnn Dickinson |
 | 318 | 204 | Ali Gralski |
 | 319 | 204 | Rebecca Doughman |
 | 320 | 203 | Gary Stash |
