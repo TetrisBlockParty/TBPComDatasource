@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -159,8 +159,8 @@
 | 151 | 500 | tejas25 |
 | 152 | 495 | Poppy Snap |
 | 153 | 488 | Teresa Gillmore |
-| 154 | 486 | MrsCandyfine As Wine Truss |
-| 155 | 486 | Ramone Armstrong |
+| 154 | 486 | Ramone Armstrong |
+| 155 | 486 | MrsCandyfine As Wine Truss |
 | 156 | 485 | Gene Mills |
 | 157 | 484 | Suki Kaur |
 | 158 | 483 | Jordan Kaiser |
@@ -203,8 +203,8 @@
 | 195 | 391 | Qiana Sanders |
 | 196 | 386 | Ashie Ann |
 | 197 | 386 | Macy Williams |
-| 198 | 385 | Arwa Fatimah |
-| 199 | 385 | Sam |
+| 198 | 385 | Sam |
+| 199 | 385 | Arwa Fatimah |
 | 200 | 381 | Amanda Ferrell |
 | 201 | 380 | Calandra Shaya Robinson |
 | 202 | 380 | Joshua Mandel |
@@ -240,8 +240,8 @@
 | 232 | 333 | Brittney Jean |
 | 233 | 332 | TF Dyer |
 | 234 | 331 | Shelley Thornburgh Wright |
-| 235 | 330 | Taryece Gause |
-| 236 | 330 | Victoria Moore-Smith |
+| 235 | 330 | Victoria Moore-Smith |
+| 236 | 330 | Taryece Gause |
 | 237 | 328 | Marie Boyd Faulk |
 | 238 | 327 | Danielle Simmons |
 | 239 | 323 | Juanita Lyons |
@@ -308,8 +308,8 @@
 | 300 | 272 | Mikayala Szaz |
 | 301 | 271 | Ann Marie Davis |
 | 302 | 271 | Toni Lynn |
-| 303 | 270 | Angela Lynn |
-| 304 | 270 | Christina Ashley |
+| 303 | 270 | Christina Ashley |
+| 304 | 270 | Angela Lynn |
 | 305 | 270 | Alexandra Weir |
 | 306 | 269 | Reece Smith |
 | 307 | 268 | Tanya Parsons |
@@ -433,8 +433,8 @@
 | 425 | 191 | Lauren Fitzgerald Thomas |
 | 426 | 191 | Deana |
 | 427 | 191 | John Quiring |
-| 428 | 190 | Jessica Kaye DeAguero |
-| 429 | 190 | Layna Lyons |
+| 428 | 190 | Layna Lyons |
+| 429 | 190 | Jessica Kaye DeAguero |
 | 430 | 188 | Seth Wrieden |
 | 431 | 188 | Michael Artis |
 | 432 | 188 | Justin Hines |
@@ -452,8 +452,8 @@
 | 444 | 183 | Lynzekwi |
 | 445 | 182 | Donna M Carter |
 | 446 | 182 | Tamara Bailey |
-| 447 | 181 | Julay |
-| 448 | 181 | Wacky Cascade |
+| 447 | 181 | Wacky Cascade |
+| 448 | 181 | Julay |
 | 449 | 180 | Jackie Lucas |
 | 450 | 180 | Peter Palestino |
 | 451 | 179 | Elizabeth Pearson |
@@ -483,8 +483,8 @@
 | 475 | 172 | Twisty Tetriblast |
 | 476 | 171 | William Hunt |
 | 477 | 171 | Cappin You |
-| 478 | 170 | Dedra Steward |
-| 479 | 170 | Darlene Bowman |
+| 478 | 170 | Darlene Bowman |
+| 479 | 170 | Dedra Steward |
 | 480 | 170 | Kenya Felix |
 | 481 | 169 | Eddie Perez |
 | 482 | 169 | Catina Hutchison |
@@ -541,8 +541,8 @@
 | 533 | 154 | Lori Maring |
 | 534 | 153 | Luna |
 | 535 | 153 | Poppy Gridder |
-| 536 | 152 | James Smith |
-| 537 | 152 | Kyle LeRoy Harris |
+| 536 | 152 | Kyle LeRoy Harris |
+| 537 | 152 | James Smith |
 | 538 | 152 | Kristin King |
 | 539 | 152 | Anthony Mignacca |
 | 540 | 152 | JP Parks |
@@ -752,7 +752,7 @@
 | 744 | 115 | Fae-Bulous |
 | 745 | 115 | AsnPryBoy83 |
 | 746 | 114 | Melissa Maples |
-| 747 | 114 | Brenda |
+| 747 | 114 | James Louie |
 | 748 | 114 | Juan Castillo |
 | 749 | 114 | Biggest thing |
 | 750 | 114 | Jordyn Morrison |
@@ -828,7 +828,7 @@
 | 820 | 104 | Chill Piecegrid |
 | 821 | 103 | Cool Grabber |
 | 822 | 103 | Brian Wood |
-| 823 | 103 | Cool Grabber |
+| 823 | 103 | Jeffrey Barrows |
 | 824 | 103 | Meli |
 | 825 | 103 | Andrew Willis |
 | 826 | 103 | Crystal Cornelius |

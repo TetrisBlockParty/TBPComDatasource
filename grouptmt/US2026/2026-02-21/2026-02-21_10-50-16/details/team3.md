@@ -127,8 +127,8 @@
 | 119 | 195 | Nicha Hooker |
 | 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Scott Carleton |
 | 126 | 189 | Fallorina Susana |
@@ -137,8 +137,8 @@
 | 129 | 182 | Ashley Tookes |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
-| 132 | 178 | AlsoJess |
-| 133 | 178 | Khaleada McGill Banks |
+| 132 | 178 | Khaleada McGill Banks |
+| 133 | 178 | AlsoJess |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
 | 136 | 168 | Giddy Twistbuilder |
@@ -183,8 +183,8 @@
 | 175 | 127 | Marquita Sheard |
 | 176 | 127 | Aerian Preston |
 | 177 | 126 | Brandon Givens |
-| 178 | 125 | Shimika Enay Wallace |
-| 179 | 125 | Felicia Doxey |
+| 178 | 125 | Felicia Doxey |
+| 179 | 125 | Shimika Enay Wallace |
 | 180 | 124 | Cesar Barraza |
 | 181 | 123 | Marci Mize Fandrich |
 | 182 | 123 | Terry Jo Jones |

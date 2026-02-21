@@ -60,16 +60,16 @@
 | 52 | 225 | Elaine Elaine |
 | 53 | 221 | Adam Byrd |
 | 54 | 217 | Deanna L Hermanson |
-| 55 | 212 | Jaimie Lynn |
-| 56 | 212 | Tdub |
+| 55 | 212 | Tdub |
+| 56 | 212 | Jaimie Lynn |
 | 57 | 211 | Marianita Garcia |
 | 58 | 208 | Carrie Beck Geartz |
 | 59 | 205 | Trippy Redd |
 | 60 | 204 | Ly Phethmany |
-| 61 | 202 | Hyper |
-| 62 | 202 | Dee Perry |
-| 63 | 201 | Ananda Mendez |
-| 64 | 201 | Anaid Sanchez |
+| 61 | 202 | Dee Perry |
+| 62 | 202 | Hyper |
+| 63 | 201 | Anaid Sanchez |
+| 64 | 201 | Ananda Mendez |
 | 65 | 200 | Lexuriuos Lifestlye |
 | 66 | 198 | Happy Snapbuild |
 | 67 | 198 | Mandyy Rae |
@@ -143,9 +143,9 @@
 | 135 | 110 | Garcia Bailey |
 | 136 | 108 | Tavia |
 | 137 | 107 | Jodee Woods |
-| 138 | 106 | Aimee Horton |
-| 139 | 106 | Ash Galvan |
-| 140 | 106 | Bloknboy |
+| 138 | 106 | Ash Galvan |
+| 139 | 106 | Bloknboy |
+| 140 | 106 | Aimee Horton |
 | 141 | 105 | Ty Brown |
 | 142 | 104 | Bindi |
 | 143 | 104 | Charla Pross-Fugleberg |
