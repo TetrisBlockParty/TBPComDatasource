@@ -58,8 +58,8 @@
 | 50 | 256 | Brittney Griggs |
 | 51 | 244 | Isabella Blanco |
 | 52 | 241 | Desi Desporte |
-| 53 | 231 | Michelle Marie |
-| 54 | 231 | Jenna Ingersoll |
+| 53 | 231 | Jenna Ingersoll |
+| 54 | 231 | Michelle Marie |
 | 55 | 226 | Breannah Grafe |
 | 56 | 207 | Alyssa Papen |
 | 57 | 205 | Sarah Neathery |
@@ -198,8 +198,8 @@
 | 190 | 77 | Chris Alexinas |
 | 191 | 76 | Bethany Ison |
 | 192 | 76 | Madison Sweere |
-| 193 | 75 | Christina Black |
-| 194 | 75 | Rosemary Foster |
+| 193 | 75 | Rosemary Foster |
+| 194 | 75 | Christina Black |
 | 195 | 74 | Krs |
 | 196 | 73 | April Rondinone |
 | 197 | 73 | Rheanda Weaskus |
@@ -247,12 +247,12 @@
 | 239 | 62 | Glitzy Crasher |
 | 240 | 62 | Jaycool |
 | 241 | 61 | TeeJ |
-| 242 | 61 | Chilly Crasher |
-| 243 | 61 | Plucky Patternblock |
+| 242 | 61 | Plucky Patternblock |
+| 243 | 61 | Chilly Crasher |
 | 244 | 61 | Alee Marie |
 | 245 | 61 | Jackson Karen |
-| 246 | 61 | Bradley Reeves |
-| 247 | 61 | Shauna Havard |
+| 246 | 61 | Shauna Havard |
+| 247 | 61 | Bradley Reeves |
 | 248 | 60 | Ahleek Mitchell |
 | 249 | 59 | Lori |
 | 250 | 59 | Jasmine S Caldwell |
@@ -296,10 +296,10 @@
 | 288 | 52 | Chassidy Martin |
 | 289 | 52 | Nicole Silvers |
 | 290 | 52 | Susan Williams |
-| 291 | 51 | George Nutt |
-| 292 | 51 | Frank Cook |
-| 293 | 50 | Elie Pean |
-| 294 | 50 | Kelly Duncan |
+| 291 | 51 | Frank Cook |
+| 292 | 51 | George Nutt |
+| 293 | 50 | Kelly Duncan |
+| 294 | 50 | Elie Pean |
 | 295 | 50 | Christian Torres |
 | 296 | 50 | Sarah Brown |
 | 297 | 50 | Smiley Linkgrid |

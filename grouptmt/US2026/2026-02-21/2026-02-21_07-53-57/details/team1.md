@@ -44,8 +44,8 @@
 | 36 | 291 | Nancy Green |
 | 37 | 286 | Michelle Nicole |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Sweet Baker |
-| 40 | 274 | Theo Pinnow |
+| 39 | 274 | Theo Pinnow |
+| 40 | 274 | Sweet Baker |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Tipsy Column |
 | 43 | 256 | Robert Benito |
@@ -53,8 +53,8 @@
 | 45 | 243 | Sarah Roberts |
 | 46 | 241 | Kristen Roles Robben |
 | 47 | 240 | Rachael |
-| 48 | 212 | Elaine Elaine |
-| 49 | 212 | Tdub |
+| 48 | 212 | Tdub |
+| 49 | 212 | Elaine Elaine |
 | 50 | 212 | Jaimie Lynn |
 | 51 | 211 | Deanna L Hermanson |
 | 52 | 208 | Carrie Beck Geartz |
@@ -84,8 +84,8 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | Standia Civil |
-| 80 | 155 | David DeSantis |
+| 79 | 155 | David DeSantis |
+| 80 | 155 | Standia Civil |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |

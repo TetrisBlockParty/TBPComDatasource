@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -171,8 +171,8 @@
 | 163 | 406 | Erin StFrancis |
 | 164 | 405 | Peppy Zone |
 | 165 | 401 | Poppy Snap |
-| 166 | 400 | Crystie Hicks |
-| 167 | 400 | Tammy Allen |
+| 166 | 400 | Tammy Allen |
+| 167 | 400 | Crystie Hicks |
 | 168 | 397 | Ashley Guernsey-Martin |
 | 169 | 391 | Steven Marshaun |
 | 170 | 391 | Chilly Bridgepiece |
@@ -388,8 +388,8 @@
 | 380 | 198 | Angie Bolton Workman |
 | 381 | 198 | Alyssa Dean |
 | 382 | 196 | Besma Ao |
-| 383 | 196 | Alexandra Reese |
-| 384 | 196 | Cass Shirley |
+| 383 | 196 | Cass Shirley |
+| 384 | 196 | Alexandra Reese |
 | 385 | 195 | Snappy Shatterfit |
 | 386 | 195 | Emily Lyric Converse |
 | 387 | 194 | Kimberly Ann |

@@ -132,8 +132,8 @@
 | 124 | 179 | Daira Largen |
 | 125 | 178 | Khaleada McGill Banks |
 | 126 | 176 | Ryan Williams |
-| 127 | 166 | Kelly Ann Child |
-| 128 | 166 | Danielle Mogg |
+| 127 | 166 | Danielle Mogg |
+| 128 | 166 | Kelly Ann Child |
 | 129 | 164 | rosy |
 | 130 | 163 | Karon Griffin |
 | 131 | 159 | Jone |
@@ -144,8 +144,8 @@
 | 136 | 156 | Joey Banks |
 | 137 | 155 | BŘŰŤİÇŨŚ |
 | 138 | 154 | Angela M. Fletcher |
-| 139 | 153 | Giddy Twistbuilder |
-| 140 | 153 | Beth Ingham |
+| 139 | 153 | Beth Ingham |
+| 140 | 153 | Giddy Twistbuilder |
 | 141 | 152 | Shiny Zonebuilder |
 | 142 | 151 | MsBee |
 | 143 | 150 | Nicole Myers |
@@ -160,8 +160,8 @@
 | 152 | 140 | Gumbo |
 | 153 | 135 | Nicole Flippo |
 | 154 | 135 | Cheryl Hinch Tenbrook |
-| 155 | 134 | Emma |
-| 156 | 134 | DanceLuvLaugh |
+| 155 | 134 | DanceLuvLaugh |
+| 156 | 134 | Emma |
 | 157 | 131 | Jl |
 | 158 | 129 | Stephanie Burtin |
 | 159 | 128 | Tiff Vs Tiffany |
