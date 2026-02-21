@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -457,8 +457,8 @@
 | 449 | 207 | Melissa McCall |
 | 450 | 207 | Brave Gridpiece |
 | 451 | 207 | Shylee Tilman |
-| 452 | 206 | RAEPR05 |
-| 453 | 206 | Alice Ball |
+| 452 | 206 | Alice Ball |
+| 453 | 206 | RAEPR05 |
 | 454 | 206 | Neko Preston |
 | 455 | 205 | ElizabethAnn Dickinson |
 | 456 | 205 | Tj Ball |
@@ -546,8 +546,8 @@
 | 538 | 172 | B-rad B-rad |
 | 539 | 171 | Cappin You |
 | 540 | 171 | Bee |
-| 541 | 170 | Dedra Steward |
-| 542 | 170 | Sherisse Bigelow-Staples |
+| 541 | 170 | Sherisse Bigelow-Staples |
+| 542 | 170 | Dedra Steward |
 | 543 | 170 | Kenya Felix |
 | 544 | 170 | BTA |
 | 545 | 169 | Sue Leard |

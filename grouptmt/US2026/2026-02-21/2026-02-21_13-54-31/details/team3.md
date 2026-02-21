@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Briarblack |
-| 28 | 867 | Delilah belle |
+| 27 | 867 | Delilah belle |
+| 28 | 867 | Briarblack |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Shane Wilson Jr. |
@@ -118,8 +118,8 @@
 | 110 | 224 | Judi Dobson |
 | 111 | 224 | Mykal Burton |
 | 112 | 223 | Jeana Gilbert |
-| 113 | 222 | Nicole Flippo |
-| 114 | 222 | Jimmie Clemons |
+| 113 | 222 | Jimmie Clemons |
+| 114 | 222 | Nicole Flippo |
 | 115 | 218 | mjl574 |
 | 116 | 214 | Amy Fuller Heaton |
 | 117 | 213 | Tom Nault |
@@ -182,11 +182,11 @@
 | 174 | 151 | MsBee |
 | 175 | 150 | Nicole Myers |
 | 176 | 150 | Sashay Tapae Simpson |
-| 177 | 149 | Bea Miles |
-| 178 | 149 | Angel Mendez |
+| 177 | 149 | Angel Mendez |
+| 178 | 149 | Bea Miles |
 | 179 | 147 | Desiree Gold |
-| 180 | 146 | Latoya Mayne |
-| 181 | 146 | Denita Mungro |
+| 180 | 146 | Denita Mungro |
+| 181 | 146 | Latoya Mayne |
 | 182 | 145 | Bryan Byrd |
 | 183 | 145 | Rochelle Hazelett |
 | 184 | 143 | Nikki Pags |
@@ -408,7 +408,7 @@
 | 400 | 70 | Leticia Lynn Lowe |
 | 401 | 69 | Spunky Combofall |
 | 402 | 69 | Lisa Feddeck |
-| 403 | 69 | Spunky Combofall |
+| 403 | 69 | Frilly Stackzone |
 | 404 | 69 | Kristian Thurman |
 | 405 | 68 | Vaners |
 | 406 | 68 | Tamara Deherrera |
