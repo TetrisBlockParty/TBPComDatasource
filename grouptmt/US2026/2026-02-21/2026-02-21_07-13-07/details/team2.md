@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -124,8 +124,8 @@
 | 116 | 520 | Kimberly Schall |
 | 117 | 519 | Maria Escobar |
 | 118 | 517 | Debra Williams |
-| 119 | 515 | Kaylee McCafferty |
-| 120 | 515 | Real Ri |
+| 119 | 515 | Real Ri |
+| 120 | 515 | Kaylee McCafferty |
 | 121 | 513 | Butta |
 | 122 | 510 | Ashley House |
 | 123 | 509 | Kelli Wells |
@@ -151,8 +151,8 @@
 | 143 | 453 | Osun Anuket Esu |
 | 144 | 452 | Alezandra Smith |
 | 145 | 450 | Giggy Blocker |
-| 146 | 448 | Nick Jensen |
-| 147 | 448 | Jojo Momma |
+| 146 | 448 | Jojo Momma |
+| 147 | 448 | Nick Jensen |
 | 148 | 442 | Daphne Jordan |
 | 149 | 427 | Destiny Cozier |
 | 150 | 426 | Magic steve |

@@ -40,8 +40,8 @@
 | 32 | 291 | Nancy Green |
 | 33 | 286 | Michelle Nicole |
 | 34 | 281 | Maria C. Hernandez |
-| 35 | 274 | Sweet Baker |
-| 36 | 274 | Theo Pinnow |
+| 35 | 274 | Theo Pinnow |
+| 36 | 274 | Sweet Baker |
 | 37 | 265 | Jennifer Cates |
 | 38 | 256 | Tipsy Column |
 | 39 | 256 | Robert Benito |
@@ -94,14 +94,14 @@
 | 86 | 141 | Susanna Guerry |
 | 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
-| 89 | 137 | Patrick Luckenbill |
-| 90 | 137 | Nadine Velardo |
+| 89 | 137 | Nadine Velardo |
+| 90 | 137 | Patrick Luckenbill |
 | 91 | 133 | Brandi Huntington |
 | 92 | 132 | Davery Spencer Adair |
 | 93 | 131 | Trina Gee |
 | 94 | 130 | Dandy Basegrid |
-| 95 | 128 | Uhog SF |
-| 96 | 128 | lil mickey |
+| 95 | 128 | lil mickey |
+| 96 | 128 | Uhog SF |
 | 97 | 127 | Michael |
 | 98 | 126 | Cece Ibarra |
 | 99 | 126 | Rachael |

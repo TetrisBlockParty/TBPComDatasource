@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -183,8 +183,8 @@
 | 175 | 116 | Skinny Baldez |
 | 176 | 116 | Joy Petroski |
 | 177 | 115 | Jennifer Alvey |
-| 178 | 114 | Jessica Bechler |
-| 179 | 114 | Nicholas Roddy |
+| 178 | 114 | Nicholas Roddy |
+| 179 | 114 | Jessica Bechler |
 | 180 | 113 | Brian Battjes |
 | 181 | 113 | Valerie Gendron |
 | 182 | 110 | Tiff Vs Tiffany |

@@ -51,8 +51,8 @@
 | 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Michelle Marie |
-| 47 | 231 | Jenna Ingersoll |
+| 46 | 231 | Jenna Ingersoll |
+| 47 | 231 | Michelle Marie |
 | 48 | 226 | Breannah Grafe |
 | 49 | 223 | Lisa Davis |
 | 50 | 209 | Clarence Patawaran |
