@@ -84,8 +84,8 @@
 | 76 | 319 | Deanna L Hermanson |
 | 77 | 318 | Dee Perry |
 | 78 | 310 | Seth Wesson |
-| 79 | 305 | Plucky Ziggy |
-| 80 | 305 | Patrick Luckenbill |
+| 79 | 305 | Patrick Luckenbill |
+| 80 | 305 | Plucky Ziggy |
 | 81 | 304 | Nicole Roseberry Weber |
 | 82 | 303 | Maria C. Hernandez |
 | 83 | 301 | Hyper |
@@ -129,16 +129,16 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | GATOR |
-| 125 | 203 | Giggly Builderline |
+| 124 | 203 | Giggly Builderline |
+| 125 | 203 | GATOR |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
-| 129 | 194 | Tyler Werts |
-| 130 | 194 | Ash Galvan |
+| 129 | 194 | Ash Galvan |
+| 130 | 194 | Tyler Werts |
 | 131 | 193 | Lachelle Dillon |
-| 132 | 192 | Shaykmia |
-| 133 | 192 | Jessica Sheehan |
+| 132 | 192 | Jessica Sheehan |
+| 133 | 192 | Shaykmia |
 | 134 | 191 | Diane Byrd |
 | 135 | 190 | Thorne Shumate |
 | 136 | 190 | Sweetts |
@@ -185,8 +185,8 @@
 | 177 | 150 | David Miller |
 | 178 | 148 | Shauntina Burke |
 | 179 | 148 | Bouncy Grid |
-| 180 | 147 | Davery Spencer Adair |
-| 181 | 147 | Angela Fairbank |
+| 180 | 147 | Angela Fairbank |
+| 181 | 147 | Davery Spencer Adair |
 | 182 | 145 | Agustin Duarte Orozco |
 | 183 | 144 | Gary Gobin |
 | 184 | 144 | Miguel Teixeira |
@@ -217,8 +217,8 @@
 | 209 | 126 | Tami Luce Martin |
 | 210 | 122 | Melissa Lemmon |
 | 211 | 121 | Mark Smith |
-| 212 | 120 | Alenoush Karimian |
-| 213 | 120 | Silly Align |
+| 212 | 120 | Silly Align |
+| 213 | 120 | Alenoush Karimian |
 | 214 | 120 | Kimmie Kimms |
 | 215 | 119 | Tater |
 | 216 | 119 | Brenda Alexander |
