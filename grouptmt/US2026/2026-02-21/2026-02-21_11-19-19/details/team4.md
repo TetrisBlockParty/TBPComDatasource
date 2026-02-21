@@ -95,16 +95,16 @@
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | 030Synner |
-| 91 | 147 | Jay28 |
+| 90 | 147 | Jay28 |
+| 91 | 147 | 030Synner |
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
 | 95 | 138 | Nugget |
 | 96 | 138 | Shainne Brewer |
 | 97 | 136 | Tanner Lund |
-| 98 | 134 | Chirpy Basepiece |
-| 99 | 134 | Jessica Bohlken |
+| 98 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 133 | Robin Watters |
 | 101 | 132 | Jessica Cagle |
 | 102 | 132 | Melissa Priest Sellers |
@@ -138,7 +138,7 @@
 | 130 | 113 | Stephme310 |
 | 131 | 112 | Austin Owens |
 | 132 | 112 | Bryan Hodgins |
-| 133 | 112 | Austin Owens |
+| 133 | 112 | Brittany Marsh |
 | 134 | 111 | Lazy Blocker |
 | 135 | 111 | Gwendolyn Pitcairn |
 | 136 | 110 | H.R. Block |

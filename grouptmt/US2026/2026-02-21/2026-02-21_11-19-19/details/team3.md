@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -108,8 +108,8 @@
 | 100 | 229 | Angeline Joseph |
 | 101 | 226 | Shannon Matthew Byers |
 | 102 | 225 | Speedy Bridger |
-| 103 | 224 | Judi Dobson |
-| 104 | 224 | Mykal Burton |
+| 103 | 224 | Mykal Burton |
+| 104 | 224 | Judi Dobson |
 | 105 | 223 | Jeana Gilbert |
 | 106 | 222 | Jimmie Clemons |
 | 107 | 218 | mjl574 |
@@ -130,17 +130,17 @@
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
 | 124 | 192 | Chasity |
-| 125 | 191 | Giddy Twistbuilder |
-| 126 | 191 | Scott Carleton |
+| 125 | 191 | Scott Carleton |
+| 126 | 191 | Giddy Twistbuilder |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Kelly Ann Child |
 | 138 | 166 | Danielle Mogg |
@@ -166,8 +166,8 @@
 | 158 | 149 | Angel Mendez |
 | 159 | 149 | Bea Miles |
 | 160 | 147 | Sashay Tapae Simpson |
-| 161 | 146 | Denita Mungro |
-| 162 | 146 | Latoya Mayne |
+| 161 | 146 | Latoya Mayne |
+| 162 | 146 | Denita Mungro |
 | 163 | 145 | Bryan Byrd |
 | 164 | 142 | Erica Anderson |
 | 165 | 140 | Jay Horn |

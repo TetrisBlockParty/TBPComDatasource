@@ -332,8 +332,8 @@
 | 324 | 256 | Tee Jaleesa |
 | 325 | 256 | CC |
 | 326 | 255 | Santana Miyagi |
-| 327 | 254 | Rose Fx |
-| 328 | 254 | Elizabeth Diraffaele |
+| 327 | 254 | Elizabeth Diraffaele |
+| 328 | 254 | Rose Fx |
 | 329 | 254 | Julie Hamilton |
 | 330 | 253 | Tansaria Couch-Butler |
 | 331 | 252 | Matt Johnson |
@@ -355,11 +355,11 @@
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
-| 350 | 242 | Lawanda Forbes |
-| 351 | 242 | Donna Chandler |
+| 350 | 242 | Donna Chandler |
+| 351 | 242 | Lawanda Forbes |
 | 352 | 241 | Sabrina Burton |
-| 353 | 240 | Angie Marie |
-| 354 | 240 | Adam Erikson |
+| 353 | 240 | Adam Erikson |
+| 354 | 240 | Angie Marie |
 | 355 | 239 | Roger Grabbit |
 | 356 | 238 | Cheery Matchzone |
 | 357 | 236 | Frisky Riserbuilder |
@@ -441,8 +441,8 @@
 | 433 | 191 | Deana |
 | 434 | 191 | John Quiring |
 | 435 | 190 | Jessica Kaye DeAguero |
-| 436 | 188 | Seth Wrieden |
-| 437 | 188 | Michael Artis |
+| 436 | 188 | Michael Artis |
+| 437 | 188 | Seth Wrieden |
 | 438 | 188 | Justin Hines |
 | 439 | 187 | Stefanie Zonzini-Gagliardi |
 | 440 | 186 | Joshua Mullings |
@@ -633,8 +633,8 @@
 | 625 | 135 | Breezy Filler |
 | 626 | 135 | Gigi |
 | 627 | 135 | Robin L. Vial |
-| 628 | 135 | Yemaja Obba Olokun |
-| 629 | 135 | Michelle Loar |
+| 628 | 135 | Michelle Loar |
+| 629 | 135 | Yemaja Obba Olokun |
 | 630 | 135 | Leslie |
 | 631 | 134 | Slinky Risegrid |
 | 632 | 134 | Speedy Pivoty |
@@ -681,8 +681,8 @@
 | 673 | 129 | Kara Jennifer |
 | 674 | 128 | Mine |
 | 675 | 128 | Russell J Gindlesperger II |
-| 676 | 128 | Amanda Diegel |
-| 677 | 128 | Carrie Pike |
+| 676 | 128 | Carrie Pike |
+| 677 | 128 | Amanda Diegel |
 | 678 | 128 | Adelina Roth |
 | 679 | 128 | Diana Fitzwater |
 | 680 | 128 | Nate Lee |

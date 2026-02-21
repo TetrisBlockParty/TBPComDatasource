@@ -113,8 +113,8 @@
 | 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
-| 108 | 133 | Breanna Luna |
-| 109 | 133 | Brandi Huntington |
+| 108 | 133 | Brandi Huntington |
+| 109 | 133 | Breanna Luna |
 | 110 | 132 | LaQuetta Faith Hines |
 | 111 | 132 | Davery Spencer Adair |
 | 112 | 130 | Cece Ibarra |
