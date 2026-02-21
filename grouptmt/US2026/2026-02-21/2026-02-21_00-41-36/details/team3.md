@@ -61,8 +61,8 @@
 | 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Shunta Jacobs |
-| 57 | 193 | Clever Shiftsnap |
+| 56 | 193 | Clever Shiftsnap |
+| 57 | 193 | Shunta Jacobs |
 | 58 | 187 | Speedy Bridger |
 | 59 | 185 | Danielle Cutler |
 | 60 | 184 | Jennie Beranek |
@@ -87,8 +87,8 @@
 | 79 | 130 | Tessina Dewey-Mancino |
 | 80 | 129 | Giddy Twistbuilder |
 | 81 | 128 | Angel Mendez |
-| 82 | 127 | Dolores Falco |
-| 83 | 127 | mjl574 |
+| 82 | 127 | mjl574 |
+| 83 | 127 | Dolores Falco |
 | 84 | 125 | Stephanie Simpson |
 | 85 | 121 | Ashley Tookes |
 | 86 | 120 | Jessica |

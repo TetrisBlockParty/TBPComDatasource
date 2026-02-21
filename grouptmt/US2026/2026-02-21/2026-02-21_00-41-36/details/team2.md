@@ -148,8 +148,8 @@
 | 140 | 251 | Shameika Trail |
 | 141 | 250 | Barbra Miller |
 | 142 | 249 | Janel Turley-Garner |
-| 143 | 247 | Andrea Devery Beck |
-| 144 | 247 | Fancy Twister |
+| 143 | 247 | Fancy Twister |
+| 144 | 247 | Andrea Devery Beck |
 | 145 | 244 | Elisheva Mizrachi |
 | 146 | 243 | Brandy Andre |
 | 147 | 241 | Sabrina Burton |
