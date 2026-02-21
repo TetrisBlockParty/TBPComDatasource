@@ -136,8 +136,8 @@
 | 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Tanner Lund |
 | 135 | 136 | Serena Goodridge |

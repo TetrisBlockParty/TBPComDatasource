@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -260,8 +260,8 @@
 | 252 | 119 | BugMansMom |
 | 253 | 119 | France Vézina |
 | 254 | 118 | Sabrina Hardrick |
-| 255 | 118 | Damian Reid |
-| 256 | 118 | Fancy Curver |
+| 255 | 118 | Fancy Curver |
+| 256 | 118 | Damian Reid |
 | 257 | 116 | Denise Marie |
 | 258 | 115 | Stella |
 | 259 | 115 | Daring Builder |
@@ -289,8 +289,8 @@
 | 281 | 106 | Cheeky Snapper |
 | 282 | 106 | Noettín Kan Zasnemoore |
 | 283 | 105 | Donna |
-| 284 | 105 | Emi |
-| 285 | 105 | Boldy Blocker |
+| 284 | 105 | Boldy Blocker |
+| 285 | 105 | Emi |
 | 286 | 104 | Samantha Lynn |
 | 287 | 104 | Sarah Moyer |
 | 288 | 104 | bean |

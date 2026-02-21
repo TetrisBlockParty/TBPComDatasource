@@ -159,8 +159,8 @@
 | 151 | 614 | Robin Kerby |
 | 152 | 608 | Sommer Shope |
 | 153 | 608 | John Bednarik |
-| 154 | 604 | Amber Shoemaker |
-| 155 | 604 | Danielle Johnson-Chandler |
+| 154 | 604 | Danielle Johnson-Chandler |
+| 155 | 604 | Amber Shoemaker |
 | 156 | 603 | Cassie Maynard |
 | 157 | 602 | L3sli3 |
 | 158 | 596 | Thomas Hughes |
@@ -214,8 +214,8 @@
 | 206 | 495 | Poppy Snap |
 | 207 | 491 | Gene Mills |
 | 208 | 486 | MrsCandyfine As Wine Truss |
-| 209 | 485 | Lylymom |
-| 210 | 485 | Leah Keesling |
+| 209 | 485 | Leah Keesling |
+| 210 | 485 | Lylymom |
 | 211 | 484 | Suki Kaur |
 | 212 | 483 | Jordan Kaiser |
 | 213 | 483 | Osun Anuket Esu |
@@ -256,8 +256,8 @@
 | 248 | 409 | Sparkles |
 | 249 | 408 | Amanda Ferrell |
 | 250 | 406 | Erin StFrancis |
-| 251 | 405 | Sarah Massey |
-| 252 | 405 | Christy Krissie |
+| 251 | 405 | Christy Krissie |
+| 252 | 405 | Sarah Massey |
 | 253 | 403 | Crystie Hicks |
 | 254 | 402 | Joshua Mandel |
 | 255 | 400 | Tammy Allen |

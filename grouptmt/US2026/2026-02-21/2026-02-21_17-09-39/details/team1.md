@@ -71,8 +71,8 @@
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
-| 66 | 252 | Tdub |
-| 67 | 252 | Dena Kayy |
+| 66 | 252 | Dena Kayy |
+| 67 | 252 | Tdub |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -94,26 +94,26 @@
 | 86 | 202 | Giggly Builderline |
 | 87 | 201 | Anaid Sanchez |
 | 88 | 199 | TSwag |
-| 89 | 198 | Brandi Huntington |
-| 90 | 198 | Happy Snapbuild |
+| 89 | 198 | Happy Snapbuild |
+| 90 | 198 | Brandi Huntington |
 | 91 | 197 | Cynthia Bradley |
 | 92 | 193 | Lachelle Dillon |
 | 93 | 192 | Shaykmia |
 | 94 | 191 | Diane Byrd |
-| 95 | 190 | Sweetts |
-| 96 | 190 | Thorne Shumate |
+| 95 | 190 | Thorne Shumate |
+| 96 | 190 | Sweetts |
 | 97 | 189 | Happy Basegrid |
 | 98 | 186 | Jennifer Olewnik Soborowski |
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Danielle Little-Daugherty |
-| 103 | 178 | Chad Atchley |
+| 102 | 178 | Chad Atchley |
+| 103 | 178 | Danielle Little-Daugherty |
 | 104 | 175 | Nicole Roseberry Weber |
 | 105 | 175 | Dandy Basegrid |
 | 106 | 173 | Frothy Pattern |
-| 107 | 171 | David DeSantis |
-| 108 | 171 | Greg Premoe |
+| 107 | 171 | Greg Premoe |
+| 108 | 171 | David DeSantis |
 | 109 | 169 | Abbey Crespo |
 | 110 | 166 | Rico Rico |
 | 111 | 166 | Tana |
@@ -215,7 +215,7 @@
 | 207 | 100 | Tami Luce Martin |
 | 208 | 100 | Plucky Fallzone |
 | 209 | 100 | Cheeky Pop |
-| 210 | 100 | Plucky Fallzone |
+| 210 | 100 | Debbie Davis |
 | 211 | 99 | Barrbaric |
 | 212 | 97 | Steve Bomkamp |
 | 213 | 96 | Howdi Duty |
