@@ -94,8 +94,8 @@
 | 86 | 320 | Or Reznitsky |
 | 87 | 316 | Fancy Cascader |
 | 88 | 313 | Elaine Webb Graves |
-| 89 | 309 | CeceGeGe |
-| 90 | 309 | Rich LeBlanc |
+| 89 | 309 | Rich LeBlanc |
+| 90 | 309 | CeceGeGe |
 | 91 | 307 | Peggi Charon |
 | 92 | 307 | Lush Buildout |
 | 93 | 307 | Blocked |
@@ -149,8 +149,8 @@
 | 141 | 182 | Ashley Tookes |
 | 142 | 179 | Daira Largen |
 | 143 | 179 | Joye Sims Binion |
-| 144 | 178 | Khaleada McGill Banks |
-| 145 | 178 | AlsoJess |
+| 144 | 178 | AlsoJess |
+| 145 | 178 | Khaleada McGill Banks |
 | 146 | 176 | Ryan Williams |
 | 147 | 167 | Rebel124 |
 | 148 | 167 | Raven Dudley |
@@ -246,8 +246,8 @@
 | 238 | 107 | France Vézina |
 | 239 | 107 | Sherry Ogden |
 | 240 | 107 | Bouncy Blockbuilder |
-| 241 | 106 | Rachel |
-| 242 | 106 | Noettín Kan Zasnemoore |
+| 241 | 106 | Noettín Kan Zasnemoore |
+| 242 | 106 | Rachel |
 | 243 | 105 | Boldy Blocker |
 | 244 | 105 | Carol Cain Thurman |
 | 245 | 105 | Emi |
