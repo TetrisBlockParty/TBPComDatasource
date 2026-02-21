@@ -31,10 +31,10 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
-| 28 | 274 | Theo Pinnow |
-| 29 | 274 | Sweet Baker |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
+| 28 | 274 | Sweet Baker |
+| 29 | 274 | Theo Pinnow |
 | 30 | 265 | Jennifer Cates |
 | 31 | 256 | Robert Benito |
 | 32 | 252 | Tipsy Column |
@@ -49,8 +49,8 @@
 | 41 | 205 | Trippy Redd |
 | 42 | 204 | Ly Phethmany |
 | 43 | 202 | Dee Perry |
-| 44 | 201 | Ananda Mendez |
-| 45 | 201 | Anaid Sanchez |
+| 44 | 201 | Anaid Sanchez |
+| 45 | 201 | Ananda Mendez |
 | 46 | 200 | Lexuriuos Lifestlye |
 | 47 | 198 | Billie Dawn Sparks |
 | 48 | 198 | Happy Snapbuild |
@@ -83,8 +83,8 @@
 | 75 | 144 | femmefatale |
 | 76 | 144 | Tanya Carpenter-Reynolds |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Susanna Guerry |
-| 79 | 141 | Blaire Bruckoff |
+| 78 | 141 | Blaire Bruckoff |
+| 79 | 141 | Susanna Guerry |
 | 80 | 137 | Nadine Velardo |
 | 81 | 133 | Brandi Huntington |
 | 82 | 132 | Davery Spencer Adair |
@@ -111,8 +111,8 @@
 | 103 | 108 | Tavia |
 | 104 | 107 | Jodee Woods |
 | 105 | 106 | Ash Galvan |
-| 106 | 105 | Flashy Rotator |
-| 107 | 105 | Barry Mac'Ockner |
+| 106 | 105 | Barry Mac'Ockner |
+| 107 | 105 | Flashy Rotator |
 | 108 | 104 | Bhelle Sumile |
 | 109 | 103 | Adryane Schnase |
 | 110 | 102 | Jennifer ManWarren |
@@ -122,8 +122,8 @@
 | 114 | 96 | Melissa Lemmon |
 | 115 | 96 | Nery Martinez |
 | 116 | 95 | Spunky Piecebuilder |
-| 117 | 94 | Luciano Moreira |
-| 118 | 94 | Bindi |
+| 117 | 94 | Bindi |
+| 118 | 94 | Luciano Moreira |
 | 119 | 93 | Loony Fitzone |
 | 120 | 92 | Jessica Russell |
 | 121 | 90 | Dizzy Party |
@@ -132,8 +132,8 @@
 | 124 | 89 | Mara Hilker |
 | 125 | 89 | Mizzledagod |
 | 126 | 87 | Jessi Sauer |
-| 127 | 86 | Desiree Deschaine Havee |
-| 128 | 86 | Basment Living |
+| 127 | 86 | Basment Living |
+| 128 | 86 | Desiree Deschaine Havee |
 | 129 | 85 | Steve Schneider |
 | 130 | 84 | Charla Pross-Fugleberg |
 | 131 | 84 | Speedy Snapfall |

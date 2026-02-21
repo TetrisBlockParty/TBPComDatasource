@@ -110,8 +110,8 @@
 | 102 | 108 | Rio Rocha |
 | 103 | 107 | Marcus Todd |
 | 104 | 106 | Jonathan Kimbrough |
-| 105 | 105 | Sam Middleton |
-| 106 | 105 | TheNeesh50 |
+| 105 | 105 | TheNeesh50 |
+| 106 | 105 | Sam Middleton |
 | 107 | 104 | YoMomma |
 | 108 | 102 | Faja |
 | 109 | 101 | Michelle Morris |
