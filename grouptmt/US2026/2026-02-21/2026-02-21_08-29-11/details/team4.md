@@ -143,8 +143,8 @@
 | 135 | 105 | Sam Middleton |
 | 136 | 105 | TheNeesh50 |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | YoMomma |
-| 139 | 104 | Damn Libra |
+| 138 | 104 | Damn Libra |
+| 139 | 104 | YoMomma |
 | 140 | 102 | Faja |
 | 141 | 101 | Michelle Morris |
 | 142 | 101 | Saulc1991 |

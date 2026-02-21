@@ -284,8 +284,8 @@
 | 276 | 270 | Angela Lynn |
 | 277 | 270 | Christina Ashley |
 | 278 | 270 | Alexandra Weir |
-| 279 | 268 | Chummy Blockbuilder |
-| 280 | 268 | Tanya Parsons |
+| 279 | 268 | Tanya Parsons |
+| 280 | 268 | Chummy Blockbuilder |
 | 281 | 267 | Mindy Leigh Head |
 | 282 | 266 | Mighty Shatterfit |
 | 283 | 266 | Autumn Schaeffer |
@@ -295,8 +295,8 @@
 | 287 | 262 | Taren Cowan |
 | 288 | 261 | Leah |
 | 289 | 261 | MrsClaudette Will'sIam Matthews |
-| 290 | 260 | Ebony Deloach Bryant |
-| 291 | 260 | Denise Rickman |
+| 290 | 260 | Denise Rickman |
+| 291 | 260 | Ebony Deloach Bryant |
 | 292 | 257 | Shameika Trail |
 | 293 | 257 | Lyndi Robinson Wakefield |
 | 294 | 256 | Giddy Gridclear |
@@ -305,8 +305,8 @@
 | 297 | 256 | CC |
 | 298 | 255 | Santana Miyagi |
 | 299 | 254 | Julie Hamilton |
-| 300 | 254 | Elizabeth Diraffaele |
-| 301 | 254 | Rose Fx |
+| 300 | 254 | Rose Fx |
+| 301 | 254 | Elizabeth Diraffaele |
 | 302 | 253 | Tansaria Couch-Butler |
 | 303 | 252 | Matt Johnson |
 | 304 | 252 | Cheech Dta |
@@ -450,8 +450,8 @@
 | 442 | 176 | Trisha Gallagher |
 | 443 | 175 | Snippy Rumbler |
 | 444 | 175 | Lucero Ramirez |
-| 445 | 175 | Shandrica Lowe |
-| 446 | 175 | Tina Blessed Cage |
+| 445 | 175 | Tina Blessed Cage |
+| 446 | 175 | Shandrica Lowe |
 | 447 | 174 | Jason Garnatz |
 | 448 | 173 | Ocean-Brianna McGregor |
 | 449 | 173 | Robin |
@@ -481,10 +481,10 @@
 | 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
-| 476 | 160 | Rhonda Petro |
-| 477 | 160 | Amy Reynolds |
-| 478 | 160 | Gary Schaffner Jr. |
-| 479 | 160 | Cynthia Ward |
+| 476 | 160 | Cynthia Ward |
+| 477 | 160 | Rhonda Petro |
+| 478 | 160 | Amy Reynolds |
+| 479 | 160 | Gary Schaffner Jr. |
 | 480 | 159 | Bee |
 | 481 | 158 | RaeVan Worthington |
 | 482 | 158 | Connie Lepore-Mann |

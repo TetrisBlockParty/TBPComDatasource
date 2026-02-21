@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Trezure Gonzalez |
-| 71 | 342 | Annie Déè |
+| 70 | 342 | Annie Déè |
+| 71 | 342 | Trezure Gonzalez |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | CeceGeGe |
-| 81 | 309 | Rich LeBlanc |
+| 80 | 309 | Rich LeBlanc |
+| 81 | 309 | CeceGeGe |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -197,8 +197,8 @@
 | 189 | 115 | Hoppy Buildout |
 | 190 | 114 | Jessica Bechler |
 | 191 | 114 | Nicholas Roddy |
-| 192 | 113 | Valerie Gendron |
-| 193 | 113 | Brian Battjes |
+| 192 | 113 | Brian Battjes |
+| 193 | 113 | Valerie Gendron |
 | 194 | 112 | Jessica Ann |
 | 195 | 110 | Stella |
 | 196 | 110 | Tye Stovall |

@@ -55,8 +55,8 @@
 | 47 | 240 | Rachael |
 | 48 | 217 | Deanna L Hermanson |
 | 49 | 216 | Elaine Elaine |
-| 50 | 212 | Tdub |
-| 51 | 212 | Jaimie Lynn |
+| 50 | 212 | Jaimie Lynn |
+| 51 | 212 | Tdub |
 | 52 | 208 | Carrie Beck Geartz |
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
@@ -64,8 +64,8 @@
 | 56 | 201 | Ananda Mendez |
 | 57 | 201 | Anaid Sanchez |
 | 58 | 200 | Lexuriuos Lifestlye |
-| 59 | 198 | Billie Dawn Sparks |
-| 60 | 198 | Happy Snapbuild |
+| 59 | 198 | Happy Snapbuild |
+| 60 | 198 | Billie Dawn Sparks |
 | 61 | 197 | Cynthia Bradley |
 | 62 | 194 | Giggly Builderline |
 | 63 | 194 | Sharon Reynolds |
