@@ -45,8 +45,8 @@
 | 37 | 827 | Jennie Beranek |
 | 38 | 821 | Jessica Ann |
 | 39 | 811 | Corie A. Brinson |
-| 40 | 810 | Zippy Strikesnap |
-| 41 | 810 | Shane Wilson Jr. |
+| 40 | 810 | Shane Wilson Jr. |
+| 41 | 810 | Zippy Strikesnap |
 | 42 | 733 | Chummy Shatterer |
 | 43 | 702 | Stephanie Allmon |
 | 44 | 695 | Snappy Glidepiece |
@@ -211,8 +211,8 @@
 | 203 | 161 | BŘŰŤİÇŨŚ |
 | 204 | 160 | Tiffany Davie |
 | 205 | 159 | Jone |
-| 206 | 157 | Nicholas Roddy |
-| 207 | 157 | Patricia Gadsden |
+| 206 | 157 | Patricia Gadsden |
+| 207 | 157 | Nicholas Roddy |
 | 208 | 157 | Marquita Sheard |
 | 209 | 156 | Bea Miles |
 | 210 | 155 | Loopy Fallzone |
@@ -238,8 +238,8 @@
 | 230 | 145 | Bryan Byrd |
 | 231 | 145 | Emma |
 | 232 | 145 | Jeni Dow |
-| 233 | 142 | Erica Anderson |
-| 234 | 142 | David Bardo |
+| 233 | 142 | David Bardo |
+| 234 | 142 | Erica Anderson |
 | 235 | 142 | Danielle Allison |
 | 236 | 142 | Jl |
 | 237 | 141 | Daryn Elliott |
@@ -265,8 +265,8 @@
 | 257 | 126 | Rebecca Funderburk Kirby |
 | 258 | 126 | Pam Holt Powell |
 | 259 | 126 | RickyG |
-| 260 | 125 | Felicia Doxey |
-| 261 | 125 | Shimika Enay Wallace |
+| 260 | 125 | Shimika Enay Wallace |
+| 261 | 125 | Felicia Doxey |
 | 262 | 124 | Funky Jumper |
 | 263 | 123 | Michael Latasha Gray |
 | 264 | 123 | Rachel |

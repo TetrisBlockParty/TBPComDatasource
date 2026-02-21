@@ -752,8 +752,8 @@
 | 744 | 164 | Jessica Vega |
 | 745 | 163 | Angelica |
 | 746 | 163 | Christina Jones |
-| 747 | 163 | Jacob Huffman |
-| 748 | 163 | Tiffney Wroten |
+| 747 | 163 | Tiffney Wroten |
+| 748 | 163 | Jacob Huffman |
 | 749 | 163 | Ethan Stienbarger |
 | 750 | 162 | Teddi Notyalc |
 | 751 | 162 | Alice Samm |

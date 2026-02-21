@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Lawrence Belanger |
-| 36 | 508 | Michelle Nicole |
+| 35 | 508 | Michelle Nicole |
+| 36 | 508 | Lawrence Belanger |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -97,8 +97,8 @@
 | 89 | 213 | Lexuriuos Lifestlye |
 | 90 | 212 | Jaimie Lynn |
 | 91 | 212 | Mandyy Rae |
-| 92 | 211 | june october |
-| 93 | 211 | Marianita Garcia |
+| 92 | 211 | Marianita Garcia |
+| 93 | 211 | june october |
 | 94 | 210 | Ly Phethmany |
 | 95 | 205 | Frothy Pattern |
 | 96 | 204 | Ananda Mendez |
@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Sweetts |
-| 105 | 190 | Thorne Shumate |
+| 104 | 190 | Thorne Shumate |
+| 105 | 190 | Sweetts |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -188,8 +188,8 @@
 | 180 | 120 | Alenoush Karimian |
 | 181 | 119 | Tater |
 | 182 | 116 | Jessica Russell |
-| 183 | 115 | Chuck Gannon |
-| 184 | 115 | Mrs.Patrica |
+| 183 | 115 | Mrs.Patrica |
+| 184 | 115 | Chuck Gannon |
 | 185 | 113 | Desiree Deschaine Havee |
 | 186 | 112 | Chris65 |
 | 187 | 111 | Rachel Nichole Henry |

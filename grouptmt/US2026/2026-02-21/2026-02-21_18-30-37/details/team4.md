@@ -41,8 +41,8 @@
 | 33 | 494 | Rodney McMath Jr. |
 | 34 | 488 | Anthony Bryan Riva |
 | 35 | 486 | Landon Keith Graffeo |
-| 36 | 483 | Kimberly Love |
-| 37 | 483 | Carmethia Clemons Haslerig |
+| 36 | 483 | Carmethia Clemons Haslerig |
+| 37 | 483 | Kimberly Love |
 | 38 | 480 | KM8 |
 | 39 | 465 | Dawn Alexander |
 | 40 | 458 | Carolyn Wallace |
@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
-| 84 | 215 | Alyssa Papen |
-| 85 | 215 | Jae Job |
+| 84 | 215 | Jae Job |
+| 85 | 215 | Alyssa Papen |
 | 86 | 212 | Calvin Cannon |
 | 87 | 211 | Dizzy Tiley |
 | 88 | 205 | Sarah Neathery |
@@ -111,16 +111,16 @@
 | 103 | 186 | Leslie Nicole |
 | 104 | 185 | Andy Cabral |
 | 105 | 181 | Carter Jones |
-| 106 | 180 | Leah Kutz Zirbel |
-| 107 | 180 | Justin Hannigan |
-| 108 | 180 | Denise Carlson |
+| 106 | 180 | Denise Carlson |
+| 107 | 180 | Leah Kutz Zirbel |
+| 108 | 180 | Justin Hannigan |
 | 109 | 179 | Epic Curvetile |
 | 110 | 178 | Antony Dwayne Beasley |
 | 111 | 178 | Lori |
 | 112 | 177 | Andria Lynn |
 | 113 | 174 | Zethra Prenisha Rahming |
-| 114 | 173 | Ren Mc |
-| 115 | 173 | blockstar |
+| 114 | 173 | blockstar |
+| 115 | 173 | Ren Mc |
 | 116 | 171 | Damn Libra |
 | 117 | 170 | Girl |
 | 118 | 170 | Peachy Fall |
@@ -149,8 +149,8 @@
 | 141 | 140 | Shannon Ferrari |
 | 142 | 140 | Jenna McGeorge |
 | 143 | 140 | John Brunetti |
-| 144 | 137 | Roger Coulter |
-| 145 | 137 | PeaceOs |
+| 144 | 137 | PeaceOs |
+| 145 | 137 | Roger Coulter |
 | 146 | 136 | Tanner Lund |
 | 147 | 136 | Serena Goodridge |
 | 148 | 135 | ĥuf |
