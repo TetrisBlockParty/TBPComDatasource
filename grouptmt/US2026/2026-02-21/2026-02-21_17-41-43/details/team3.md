@@ -61,8 +61,8 @@
 | 53 | 553 | Rachael McClain Owens |
 | 54 | 553 | Cherry Parker |
 | 55 | 533 | Sarah Fehring |
-| 56 | 528 | Giddy Drop |
-| 57 | 528 | Natasha Jones |
+| 56 | 528 | Natasha Jones |
+| 57 | 528 | Giddy Drop |
 | 58 | 520 | Gracie |
 | 59 | 506 | Dan Rob |
 | 60 | 493 | Mandy Smith Oldham |
@@ -223,10 +223,10 @@
 | 215 | 149 | Alexis Taylor |
 | 216 | 149 | Peachy Rollfit |
 | 217 | 148 | Lesley Perez |
-| 218 | 148 | Jennifer Alvey |
-| 219 | 148 | Gumbo |
-| 220 | 146 | Ashley Lynn Marchese |
-| 221 | 146 | Denita Mungro |
+| 218 | 148 | Gumbo |
+| 219 | 148 | Jennifer Alvey |
+| 220 | 146 | Denita Mungro |
+| 221 | 146 | Ashley Lynn Marchese |
 | 222 | 146 | Latoya Mayne |
 | 223 | 146 | Carrie Huskey |
 | 224 | 145 | Emma |
@@ -241,8 +241,8 @@
 | 233 | 137 | Cheryl Hinch Tenbrook |
 | 234 | 135 | Erykah |
 | 235 | 134 | Skinny Baldez |
-| 236 | 133 | LaNette Morgan |
-| 237 | 133 | Terry Jo Jones |
+| 236 | 133 | Terry Jo Jones |
+| 237 | 133 | LaNette Morgan |
 | 238 | 132 | Daryn Elliott |
 | 239 | 131 | Darlene McMillan |
 | 240 | 130 | Weerae |
@@ -275,11 +275,11 @@
 | 267 | 115 | Stella |
 | 268 | 115 | Daring Builder |
 | 269 | 114 | Elizabeth Renee |
-| 270 | 114 | Amanda Neal |
-| 271 | 114 | JerseyJess |
+| 270 | 114 | JerseyJess |
+| 271 | 114 | Amanda Neal |
 | 272 | 113 | Brave Brickster |
-| 273 | 113 | Beppy |
-| 274 | 113 | Brian Battjes |
+| 273 | 113 | Brian Battjes |
+| 274 | 113 | Beppy |
 | 275 | 112 | Rachel |
 | 276 | 111 | Rainbow77375 |
 | 277 | 111 | Jason-Ashley Ludlow |
@@ -340,8 +340,8 @@
 | 332 | 96 | Oliver Neal II |
 | 333 | 96 | D3NO |
 | 334 | 95 | Brooke Bauer |
-| 335 | 94 | Nichole Greene |
-| 336 | 94 | Tracey Cox |
+| 335 | 94 | Tracey Cox |
+| 336 | 94 | Nichole Greene |
 | 337 | 93 | Tiffany Ford |
 | 338 | 93 | Kevin Russell |
 | 339 | 93 | Martin Bernier |
@@ -353,8 +353,8 @@
 | 345 | 91 | Tammy Rosenberry |
 | 346 | 91 | Dee Pratt |
 | 347 | 90 | Snazzy Brickzone |
-| 348 | 90 | Tiffany Kaupang |
-| 349 | 90 | Flashy Rumbler |
+| 348 | 90 | Flashy Rumbler |
+| 349 | 90 | Tiffany Kaupang |
 | 350 | 90 | Allie Kershner |
 | 351 | 90 | Whitney Manuel |
 | 352 | 90 | Alexis Ford |

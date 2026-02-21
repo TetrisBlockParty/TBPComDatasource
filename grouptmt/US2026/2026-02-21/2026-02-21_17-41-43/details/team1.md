@@ -32,8 +32,8 @@
 | 24 | 590 | Robert Beck |
 | 25 | 547 | Marianne Louise West |
 | 26 | 543 | Aaron Garnett |
-| 27 | 541 | Jorge Andrade |
-| 28 | 541 | Drew Magnus |
+| 27 | 541 | Drew Magnus |
+| 28 | 541 | Jorge Andrade |
 | 29 | 521 | Hyp James NObettadanluvarat |
 | 30 | 517 | Felicia Lewis |
 | 31 | 516 | comrade fish |
@@ -172,8 +172,8 @@
 | 164 | 127 | Aimee Horton |
 | 165 | 126 | Nerdy Linkblock |
 | 166 | 125 | Tipsy Riseclear |
-| 167 | 124 | Flashy Rotator |
-| 168 | 124 | Cartier |
+| 167 | 124 | Cartier |
+| 168 | 124 | Flashy Rotator |
 | 169 | 124 | Witty Builderfit |
 | 170 | 122 | Margo Wagner |
 | 171 | 122 | Melissa Lemmon |

@@ -132,8 +132,8 @@
 | 124 | 705 | Roger Grabbit |
 | 125 | 705 | Nika Bee |
 | 126 | 704 | Nerdy Clearfit |
-| 127 | 703 | YiFei |
-| 128 | 703 | Cynthia Ward |
+| 127 | 703 | Cynthia Ward |
+| 128 | 703 | YiFei |
 | 129 | 700 | Vincent Petrella |
 | 130 | 700 | Rosemadder |
 | 131 | 700 | Beverly Owens |
@@ -207,8 +207,8 @@
 | 199 | 511 | Ramone Armstrong |
 | 200 | 511 | Laura Mclean |
 | 201 | 511 | Dizzy Zone |
-| 202 | 510 | Lisa Ongtowasruk |
-| 203 | 510 | Cheech Dta |
+| 202 | 510 | Cheech Dta |
+| 203 | 510 | Lisa Ongtowasruk |
 | 204 | 509 | Kelli Wells |
 | 205 | 504 | Cherica Taylor |
 | 206 | 503 | Adam Erikson |
@@ -281,8 +281,8 @@
 | 273 | 393 | Taylor Flowers |
 | 274 | 392 | Maegan Beaule |
 | 275 | 391 | Qiana Sanders |
-| 276 | 391 | Brenda Utphall |
-| 277 | 391 | Chilly Bridgepiece |
+| 276 | 391 | Chilly Bridgepiece |
+| 277 | 391 | Brenda Utphall |
 | 278 | 390 | Kimberly Randesi |
 | 279 | 389 | Kristen O'Neal |
 | 280 | 386 | Macy Williams |
@@ -340,8 +340,8 @@
 | 332 | 335 | Brooke Leigh Strube |
 | 333 | 334 | Véronique Lévesque Sabourin |
 | 334 | 334 | Aimee Byrom |
-| 335 | 333 | Brittney Jean |
-| 336 | 333 | Offonar Facey |
+| 335 | 333 | Offonar Facey |
+| 336 | 333 | Brittney Jean |
 | 337 | 333 | Sabrina Burton |
 | 338 | 332 | TF Dyer |
 | 339 | 332 | Jaycee |

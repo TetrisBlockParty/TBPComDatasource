@@ -84,8 +84,8 @@
 | 76 | 230 | Autum Leigh |
 | 77 | 220 | Joeliecea Cobb |
 | 78 | 218 | Casey Grabner |
-| 79 | 215 | Jae Job |
-| 80 | 215 | Alyssa Papen |
+| 79 | 215 | Alyssa Papen |
+| 80 | 215 | Jae Job |
 | 81 | 211 | Dizzy Tiley |
 | 82 | 210 | Lucas J Sutton |
 | 83 | 205 | Sarah Neathery |
@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | Ren Mc |
-| 108 | 173 | blockstar |
+| 107 | 173 | blockstar |
+| 108 | 173 | Ren Mc |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Girl |
 | 111 | 170 | Peachy Fall |
@@ -125,8 +125,8 @@
 | 117 | 156 | Holly |
 | 118 | 153 | Empress Oasis |
 | 119 | 152 | Jessica Bohlken |
-| 120 | 151 | Dana Scott |
-| 121 | 151 | Bethany Ison |
+| 120 | 151 | Bethany Ison |
+| 121 | 151 | Dana Scott |
 | 122 | 148 | Brittany Marsh |
 | 123 | 148 | Janita Parrish |
 | 124 | 147 | Chair |
@@ -134,8 +134,8 @@
 | 126 | 147 | 030Synner |
 | 127 | 147 | Nugget |
 | 128 | 146 | Klo |
-| 129 | 144 | Shainne Brewer |
-| 130 | 144 | Mr. Party |
+| 129 | 144 | Mr. Party |
+| 130 | 144 | Shainne Brewer |
 | 131 | 141 | Malakai Darien Fox |
 | 132 | 140 | John Brunetti |
 | 133 | 140 | Jenna McGeorge |
@@ -184,8 +184,8 @@
 | 176 | 111 | Lazy Blocker |
 | 177 | 110 | H.R. Block |
 | 178 | 108 | Ali Ian |
-| 179 | 107 | Rafael Valentin |
-| 180 | 107 | Marcus Todd |
+| 179 | 107 | Marcus Todd |
+| 180 | 107 | Rafael Valentin |
 | 181 | 106 | Avy Absol |
 | 182 | 105 | Kristin MacDonald |
 | 183 | 105 | April Rondinone |
