@@ -226,12 +226,12 @@
 | 218 | 119 | Kristin Manee |
 | 219 | 119 | Gwendolyn Pitcairn |
 | 220 | 116 | Adam Stephanie Parker |
-| 221 | 115 | Nubian1 |
+| 221 | 115 | Jayk |
 | 222 | 115 | Lindsey Gonzalez |
-| 223 | 115 | Jayk |
+| 223 | 115 | Nubian1 |
 | 224 | 115 | Sam Middleton |
-| 225 | 114 | Kesha Brady |
-| 226 | 114 | Circuit8 |
+| 225 | 114 | Circuit8 |
+| 226 | 114 | Kesha Brady |
 | 227 | 113 | Dandy Cascadefit |
 | 228 | 113 | Adam Randall |
 | 229 | 112 | rebel4lyfe |
@@ -267,7 +267,7 @@
 | 259 | 101 | Saulc1991 |
 | 260 | 100 | Alexandra Karavias |
 | 261 | 100 | Jacob Richard |
-| 262 | 100 | Alexandra Karavias |
+| 262 | 100 | Blessedmama |
 | 263 | 100 | Bradley Reeves |
 | 264 | 100 | Jennifer Perkins |
 | 265 | 99 | Michael Orris |

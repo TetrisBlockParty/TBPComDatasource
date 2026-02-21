@@ -139,8 +139,8 @@
 | 131 | 881 | Tanya Parsons |
 | 132 | 875 | Kelly Trent |
 | 133 | 869 | Desiree Harris Rosch |
-| 134 | 867 | Rosa Franklin |
-| 135 | 867 | Michele Gabriel |
+| 134 | 867 | Michele Gabriel |
+| 135 | 867 | Rosa Franklin |
 | 136 | 861 | Jennifer Peachey |
 | 137 | 849 | Jennifer Kistner |
 | 138 | 845 | April Dawn Gussler |
@@ -188,13 +188,13 @@
 | 180 | 700 | Vincent Petrella |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
-| 183 | 692 | Chelle |
-| 184 | 692 | Jennifer Casey-Kay |
+| 183 | 692 | Jennifer Casey-Kay |
+| 184 | 692 | Chelle |
 | 185 | 690 | Deborah Miller |
 | 186 | 688 | Dreamy Blast |
 | 187 | 688 | Wendy Harder Gage |
-| 188 | 686 | Dannette Goldberg-Richards |
-| 189 | 686 | Ashley Guernsey-Martin |
+| 188 | 686 | Ashley Guernsey-Martin |
+| 189 | 686 | Dannette Goldberg-Richards |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
@@ -207,8 +207,8 @@
 | 199 | 658 | Erica Williams |
 | 200 | 651 | Roseanna Peloso |
 | 201 | 651 | Mandi Douglas Hilt |
-| 202 | 651 | Unica Rector |
-| 203 | 651 | ShinyRose |
+| 202 | 651 | ShinyRose |
+| 203 | 651 | Unica Rector |
 | 204 | 650 | Shiny Rollzone |
 | 205 | 646 | Ashie Ann |
 | 206 | 641 | Joce Lynn |
