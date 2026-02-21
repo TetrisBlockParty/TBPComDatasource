@@ -30,8 +30,8 @@
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
 | 24 | 494 | Rodney McMath Jr. |
-| 25 | 486 | Anthony Magaraci |
-| 26 | 486 | LisaJo Picken Buchanan |
+| 25 | 486 | LisaJo Picken Buchanan |
+| 26 | 486 | Anthony Magaraci |
 | 27 | 480 | Kimyatta Cavin |
 | 28 | 469 | Carmethia Clemons Haslerig |
 | 29 | 465 | Dawn Alexander |
@@ -92,8 +92,8 @@
 | 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Stacey Stano |
-| 88 | 160 | Carter Jones |
+| 87 | 160 | Carter Jones |
+| 88 | 160 | Stacey Stano |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
@@ -108,9 +108,9 @@
 | 100 | 140 | Shannon Ferrari |
 | 101 | 138 | Shainne Brewer |
 | 102 | 136 | Tanner Lund |
-| 103 | 134 | Chirpy Basepiece |
-| 104 | 134 | Jessica Bohlken |
-| 105 | 134 | Serena Goodridge |
+| 103 | 134 | Serena Goodridge |
+| 104 | 134 | Chirpy Basepiece |
+| 105 | 134 | Jessica Bohlken |
 | 106 | 133 | Robin Watters |
 | 107 | 132 | Jessica Cagle |
 | 108 | 132 | Degenerate |

@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Michelle |
 | 79 | 332 | Chauntee Alfrey-Cardinale |
