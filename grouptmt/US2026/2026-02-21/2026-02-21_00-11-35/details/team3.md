@@ -81,8 +81,8 @@
 | 73 | 130 | Tessina Dewey-Mancino |
 | 74 | 129 | Giddy Twistbuilder |
 | 75 | 128 | Angel Mendez |
-| 76 | 127 | mjl574 |
-| 77 | 127 | Dolores Falco |
+| 76 | 127 | Dolores Falco |
+| 77 | 127 | mjl574 |
 | 78 | 125 | Stephanie Simpson |
 | 79 | 124 | Delilah belle |
 | 80 | 122 | Emma |

@@ -116,8 +116,8 @@
 | 108 | 280 | Christina Lewis-Vickers |
 | 109 | 280 | Kimberly Schall |
 | 110 | 274 | Melissa Holsinger |
-| 111 | 271 | Ann Marie Davis |
-| 112 | 271 | Jojo Momma |
+| 111 | 271 | Jojo Momma |
+| 112 | 271 | Ann Marie Davis |
 | 113 | 268 | Vanessa Moreno |
 | 114 | 266 | Mighty Shatterfit |
 | 115 | 266 | Joyce Johnson Vaughn |
@@ -153,8 +153,8 @@
 | 145 | 235 | TF Dyer |
 | 146 | 233 | Bubbly Snapfit |
 | 147 | 232 | Ann Knutson Anderson |
-| 148 | 231 | Ginger |
-| 149 | 231 | Dylan Thomason |
+| 148 | 231 | Dylan Thomason |
+| 149 | 231 | Ginger |
 | 150 | 231 | Ashley Lopez |
 | 151 | 227 | Alyssia Tancredi |
 | 152 | 225 | Lindsey Leigh |
@@ -212,8 +212,8 @@
 | 204 | 169 | Lively Catcher |
 | 205 | 168 | Robin |
 | 206 | 168 | Taryece Gause |
-| 207 | 167 | Fi Ne |
-| 208 | 167 | Mema |
+| 207 | 167 | Mema |
+| 208 | 167 | Fi Ne |
 | 209 | 166 | Jessica Kaye DeAguero |
 | 210 | 165 | Davetta Sanford |
 | 211 | 165 | Cathy Bitters |
@@ -249,8 +249,8 @@
 | 241 | 145 | Scott Rackley |
 | 242 | 145 | William Hughes |
 | 243 | 144 | Kimberly Ann |
-| 244 | 143 | Katrina Williams Balmir |
-| 245 | 143 | Allison Hewitt |
+| 244 | 143 | Allison Hewitt |
+| 245 | 143 | Katrina Williams Balmir |
 | 246 | 142 | Frisky Clearpiece |
 | 247 | 142 | Kyle LeRoy Harris |
 | 248 | 142 | Elisheva Mizrachi |

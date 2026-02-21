@@ -20,8 +20,8 @@
 | 12 | 371 | Colena Davenport |
 | 13 | 301 | Zerin Graham |
 | 14 | 294 | Jacqueline Williams |
-| 15 | 281 | Nancy Green |
-| 16 | 281 | Kathi Snustad |
+| 15 | 281 | Kathi Snustad |
+| 16 | 281 | Nancy Green |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 234 | Tipsy Column |
 | 19 | 230 | Jayme Sellers |
@@ -36,8 +36,8 @@
 | 28 | 172 | COOL as Icer |
 | 29 | 169 | Erez Yosef |
 | 30 | 153 | Standia Civil |
-| 31 | 151 | Hyper |
-| 32 | 151 | Thorne Shumate |
+| 31 | 151 | Thorne Shumate |
+| 32 | 151 | Hyper |
 | 33 | 148 | Lawrence Belanger |
 | 34 | 146 | Abbey Crespo |
 | 35 | 145 | Lachelle Dillon |
@@ -126,10 +126,10 @@
 | 118 | 56 | Lehrin Maria |
 | 119 | 56 | Henry Lanier |
 | 120 | 54 | Ariel Whittington |
-| 121 | 54 | Speedy Snapfall |
-| 122 | 54 | Michelle |
-| 123 | 53 | Virginia Gray Floyd |
-| 124 | 53 | J.D3D.D |
+| 121 | 54 | Michelle |
+| 122 | 54 | Speedy Snapfall |
+| 123 | 53 | J.D3D.D |
+| 124 | 53 | Virginia Gray Floyd |
 | 125 | 52 | Sid Castro |
 | 126 | 51 | Nathan William |
 | 127 | 51 | Giddy Cascade |
