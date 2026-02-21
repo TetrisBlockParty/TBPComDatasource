@@ -155,8 +155,8 @@
 | 147 | 228 | Morgan Martinez |
 | 148 | 226 | Grego Daniel |
 | 149 | 223 | Jeana Gilbert |
-| 150 | 222 | Hoppy Buildout |
-| 151 | 222 | Jimmie Clemons |
+| 150 | 222 | Jimmie Clemons |
+| 151 | 222 | Hoppy Buildout |
 | 152 | 220 | Katrina Schroeder |
 | 153 | 219 | Shunta Jacobs |
 | 154 | 218 | Rochelle Hazelett |
@@ -249,15 +249,15 @@
 | 241 | 147 | Ashley Lynn Marchese |
 | 242 | 146 | Latoya Mayne |
 | 243 | 146 | Denita Mungro |
-| 244 | 145 | Bryan Byrd |
-| 245 | 145 | Jeni Dow |
-| 246 | 142 | Jl |
-| 247 | 142 | David Bardo |
-| 248 | 142 | Erica Anderson |
-| 249 | 142 | Danielle Allison |
+| 244 | 145 | Jeni Dow |
+| 245 | 145 | Bryan Byrd |
+| 246 | 142 | Danielle Allison |
+| 247 | 142 | Jl |
+| 248 | 142 | David Bardo |
+| 249 | 142 | Erica Anderson |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Funky Jumper |
-| 252 | 139 | Loopy Clusterer |
+| 251 | 139 | Loopy Clusterer |
+| 252 | 139 | Funky Jumper |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Erykah |
@@ -272,8 +272,8 @@
 | 264 | 129 | Juliana Dottore |
 | 265 | 129 | Samantha Lynn |
 | 266 | 128 | Beppy |
-| 267 | 128 | MizzMonick Smith |
-| 268 | 128 | Jen Lewis |
+| 267 | 128 | Jen Lewis |
+| 268 | 128 | MizzMonick Smith |
 | 269 | 127 | mzcatzy |
 | 270 | 126 | Pam Holt Powell |
 | 271 | 126 | RickyG |

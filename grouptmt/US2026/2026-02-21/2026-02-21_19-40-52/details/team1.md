@@ -171,11 +171,11 @@
 | 163 | 138 | Death |
 | 164 | 137 | Cody Gates |
 | 165 | 136 | Dino |
-| 166 | 135 | Cody Slav |
+| 166 | 135 | Giddy Cascade |
 | 167 | 135 | Guest |
-| 168 | 135 | Giddy Cascade |
-| 169 | 133 | Breanna Luna |
-| 170 | 133 | Luciano Moreira |
+| 168 | 135 | Cody Slav |
+| 169 | 133 | Luciano Moreira |
+| 170 | 133 | Breanna Luna |
 | 171 | 132 | Mel Hogan |
 | 172 | 131 | Uhog SF |
 | 173 | 131 | Kimberly Garcia |
@@ -189,8 +189,8 @@
 | 181 | 127 | Brave Wrecker |
 | 182 | 126 | Nerdy Linkblock |
 | 183 | 125 | Tipsy Riseclear |
-| 184 | 124 | Flashy Rotator |
-| 185 | 124 | Cartier |
+| 184 | 124 | Cartier |
+| 185 | 124 | Flashy Rotator |
 | 186 | 122 | Margo Wagner |
 | 187 | 122 | Melissa Lemmon |
 | 188 | 121 | April Carroll |

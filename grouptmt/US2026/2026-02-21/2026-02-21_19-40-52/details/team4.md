@@ -85,8 +85,8 @@
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
 | 79 | 232 | Jae Job |
-| 80 | 230 | Lucas J Sutton |
-| 81 | 230 | Autum Leigh |
+| 80 | 230 | Autum Leigh |
+| 81 | 230 | Lucas J Sutton |
 | 82 | 224 | H.R. Block |
 | 83 | 221 | Alyssa Papen |
 | 84 | 220 | Joeliecea Cobb |

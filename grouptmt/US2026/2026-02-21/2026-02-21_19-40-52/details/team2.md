@@ -438,8 +438,8 @@
 | 430 | 303 | Crystal Greene |
 | 431 | 302 | Shorty |
 | 432 | 301 | Claire |
-| 433 | 299 | Diallo Sparkman |
-| 434 | 299 | Ann Knutson Anderson |
+| 433 | 299 | Ann Knutson Anderson |
+| 434 | 299 | Diallo Sparkman |
 | 435 | 299 | Megan Phillips |
 | 436 | 298 | Snappy Shatterfit |
 | 437 | 298 | RetroLemur |
@@ -547,8 +547,8 @@
 | 539 | 244 | Belle |
 | 540 | 244 | Nakiiya Dreamcatcher Gore |
 | 541 | 243 | JacJac |
-| 542 | 242 | Lianne Giandalone LaBounty |
-| 543 | 242 | Donna Chandler |
+| 542 | 242 | Donna Chandler |
+| 543 | 242 | Lianne Giandalone LaBounty |
 | 544 | 241 | Britney M. |
 | 545 | 241 | Ronda Cary |
 | 546 | 240 | Kelly |
