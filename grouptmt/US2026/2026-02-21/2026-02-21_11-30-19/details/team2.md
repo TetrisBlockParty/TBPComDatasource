@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -436,16 +436,16 @@
 | 428 | 194 | Kitybox |
 | 429 | 194 | Kimberly Ann |
 | 430 | 194 | Hoppy Brickmatch |
-| 431 | 193 | Matthew Turner |
-| 432 | 193 | Kelly Ann McCormick |
+| 431 | 193 | Kelly Ann McCormick |
+| 432 | 193 | Matthew Turner |
 | 433 | 193 | Alishac Marie |
 | 434 | 191 | Lauren Fitzgerald Thomas |
 | 435 | 191 | John Quiring |
 | 436 | 191 | Deana |
 | 437 | 190 | Poldo Ilano |
 | 438 | 190 | Jessica Kaye DeAguero |
-| 439 | 188 | Michael Artis |
-| 440 | 188 | Seth Wrieden |
+| 439 | 188 | Seth Wrieden |
+| 440 | 188 | Michael Artis |
 | 441 | 188 | Justin Hines |
 | 442 | 187 | Stefanie Zonzini-Gagliardi |
 | 443 | 186 | Joshua Mullings |

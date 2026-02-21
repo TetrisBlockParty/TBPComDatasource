@@ -113,13 +113,13 @@
 | 105 | 138 | Gary Gobin |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
-| 108 | 133 | Breanna Luna |
-| 109 | 133 | Brandi Huntington |
+| 108 | 133 | Brandi Huntington |
+| 109 | 133 | Breanna Luna |
 | 110 | 132 | LaQuetta Faith Hines |
 | 111 | 132 | Davery Spencer Adair |
 | 112 | 131 | Uhog SF |
-| 113 | 130 | Dandy Basegrid |
-| 114 | 130 | Cece Ibarra |
+| 113 | 130 | Cece Ibarra |
+| 114 | 130 | Dandy Basegrid |
 | 115 | 128 | lil mickey |
 | 116 | 127 | Michael |
 | 117 | 124 | Cartier |

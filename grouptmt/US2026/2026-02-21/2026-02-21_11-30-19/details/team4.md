@@ -69,8 +69,8 @@
 | 61 | 207 | Alyssa Papen |
 | 62 | 205 | Sarah Neathery |
 | 63 | 204 | Brittney Orengo |
-| 64 | 198 | Lori Walker |
-| 65 | 198 | Mike Solo |
+| 64 | 198 | Mike Solo |
+| 65 | 198 | Lori Walker |
 | 66 | 197 | Autum Leigh |
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
@@ -167,8 +167,8 @@
 | 159 | 97 | Kristin MacDonald |
 | 160 | 96 | Marcus TheeyoungWoe Gilmore |
 | 161 | 96 | Zappy Snaplink |
-| 162 | 95 | Victoria Faniel |
-| 163 | 95 | Meagan Nicole |
+| 162 | 95 | Meagan Nicole |
+| 163 | 95 | Victoria Faniel |
 | 164 | 94 | DonMega |
 | 165 | 94 | Chastity Mitchell |
 | 166 | 94 | Kim Hunt |
