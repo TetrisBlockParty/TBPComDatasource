@@ -98,8 +98,8 @@
 | 90 | 153 | Jae Job |
 | 91 | 151 | Dana Scott |
 | 92 | 150 | ZeeZee |
-| 93 | 147 | Jay28 |
-| 94 | 147 | 030Synner |
+| 93 | 147 | 030Synner |
+| 94 | 147 | Jay28 |
 | 95 | 146 | Peachy Fall |
 | 96 | 143 | Nugget |
 | 97 | 141 | Malakai Darien Fox |
@@ -176,8 +176,8 @@
 | 168 | 94 | Chastity Mitchell |
 | 169 | 94 | Kim Hunt |
 | 170 | 93 | Zesty Twistbuilder |
-| 171 | 92 | Misty Hollibaugh |
-| 172 | 92 | Sammy Noguera |
+| 171 | 92 | Sammy Noguera |
+| 172 | 92 | Misty Hollibaugh |
 | 173 | 90 | Amy Suckarieh |
 | 174 | 90 | Judy Cox |
 | 175 | 90 | No Strings Attached Ra |
@@ -444,7 +444,7 @@
 | 436 | 38 | MistyBayou |
 | 437 | 37 | Ren Mc |
 | 438 | 37 | Lynette Manning |
-| 439 | 37 | Ren Mc |
+| 439 | 37 | Patrick Cossette |
 | 440 | 37 | mistresscoundrl1 |
 | 441 | 36 | Daniel E Little Sr. |
 | 442 | 36 | InfinitLee |

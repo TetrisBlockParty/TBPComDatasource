@@ -98,8 +98,8 @@
 | 90 | 162 | Patrick Luckenbill |
 | 91 | 161 | Abbey Crespo |
 | 92 | 156 | Jessie Lynn |
-| 93 | 155 | David DeSantis |
-| 94 | 155 | Standia Civil |
+| 93 | 155 | Standia Civil |
+| 94 | 155 | David DeSantis |
 | 95 | 153 | Shiny Gridmatch |
 | 96 | 152 | Jacqueline Unique |
 | 97 | 149 | Tana |
@@ -160,8 +160,8 @@
 | 152 | 103 | Angela Fairbank |
 | 153 | 103 | Adryane Schnase |
 | 154 | 102 | Jennifer ManWarren |
-| 155 | 101 | Chantelle Ceno |
-| 156 | 101 | Loony Fitzone |
+| 155 | 101 | Loony Fitzone |
+| 156 | 101 | Chantelle Ceno |
 | 157 | 100 | Debbie Davis |
 | 158 | 100 | Jessica Weed |
 | 159 | 100 | Tami Luce Martin |
@@ -175,8 +175,8 @@
 | 167 | 96 | Barrbaric |
 | 168 | 96 | Melissa Lemmon |
 | 169 | 94 | Brad MG |
-| 170 | 93 | Tyler Whitley |
-| 171 | 93 | Cody Gates |
+| 170 | 93 | Cody Gates |
+| 171 | 93 | Tyler Whitley |
 | 172 | 92 | Timothy Dew |
 | 173 | 90 | TSwag |
 | 174 | 90 | Madison Wicks |

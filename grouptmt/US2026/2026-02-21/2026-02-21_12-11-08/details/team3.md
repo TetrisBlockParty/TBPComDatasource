@@ -48,8 +48,8 @@
 | 40 | 587 | Suzieq |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -92,8 +92,8 @@
 | 84 | 313 | Elaine Webb Graves |
 | 85 | 309 | CeceGeGe |
 | 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Peggi Charon |
-| 88 | 307 | Blocked |
+| 87 | 307 | Blocked |
+| 88 | 307 | Peggi Charon |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -116,16 +116,16 @@
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -142,8 +142,8 @@
 | 134 | 178 | Khaleada McGill Banks |
 | 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Betty Rosas |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Betty Rosas |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
@@ -162,8 +162,8 @@
 | 154 | 156 | Joey Banks |
 | 155 | 155 | BŘŰŤİÇŨŚ |
 | 156 | 154 | Angela M. Fletcher |
-| 157 | 153 | Stephanie Whitefield |
-| 158 | 153 | Beth Ingham |
+| 157 | 153 | Beth Ingham |
+| 158 | 153 | Stephanie Whitefield |
 | 159 | 152 | Shiny Zonebuilder |
 | 160 | 151 | MsBee |
 | 161 | 150 | Nicole Myers |
@@ -177,8 +177,8 @@
 | 169 | 145 | Bryan Byrd |
 | 170 | 142 | Erica Anderson |
 | 171 | 140 | Gumbo |
-| 172 | 140 | Carrie Huskey |
-| 173 | 140 | Jay Horn |
+| 172 | 140 | Jay Horn |
+| 173 | 140 | Carrie Huskey |
 | 174 | 135 | Connie Mohler-Fair |
 | 175 | 135 | Cheryl Hinch Tenbrook |
 | 176 | 134 | Emma |
@@ -190,8 +190,8 @@
 | 182 | 127 | Joy Petroski |
 | 183 | 127 | Marquita Sheard |
 | 184 | 126 | Brandon Givens |
-| 185 | 125 | Felicia Doxey |
-| 186 | 125 | Shimika Enay Wallace |
+| 185 | 125 | Shimika Enay Wallace |
+| 186 | 125 | Felicia Doxey |
 | 187 | 124 | Cesar Barraza |
 | 188 | 123 | Sarajane Lokan |
 | 189 | 123 | Boldy Corner |
@@ -264,8 +264,8 @@
 | 256 | 96 | Tasha Wesson-Torrence |
 | 257 | 96 | Christopher Woost |
 | 258 | 95 | Brooke Bauer |
-| 259 | 94 | Andrew Thorson |
-| 260 | 94 | Angie Harper |
+| 259 | 94 | Angie Harper |
+| 260 | 94 | Andrew Thorson |
 | 261 | 93 | Tiffany Ford |
 | 262 | 92 | Trice Thomas |
 | 263 | 92 | Jennifer Caputo |
