@@ -60,10 +60,10 @@
 | 52 | 197 | Cynthia Bradley |
 | 53 | 194 | Sharon Reynolds |
 | 54 | 192 | Mandyy Rae |
-| 55 | 191 | Giggly Builderline |
-| 56 | 191 | Jazzy Framezone |
-| 57 | 190 | Thorne Shumate |
-| 58 | 190 | Sweetts |
+| 55 | 191 | Jazzy Framezone |
+| 56 | 191 | Giggly Builderline |
+| 57 | 190 | Sweetts |
+| 58 | 190 | Thorne Shumate |
 | 59 | 189 | Happy Basegrid |
 | 60 | 185 | Karin Gillen |
 | 61 | 173 | Frothy Pattern |
@@ -72,10 +72,10 @@
 | 64 | 169 | Erez Yosef |
 | 65 | 166 | Rico Rico |
 | 66 | 163 | Chad Atchley |
-| 67 | 161 | Jennifer Olewnik Soborowski |
-| 68 | 161 | Abbey Crespo |
-| 69 | 155 | Standia Civil |
-| 70 | 155 | David DeSantis |
+| 67 | 161 | Abbey Crespo |
+| 68 | 161 | Jennifer Olewnik Soborowski |
+| 69 | 155 | David DeSantis |
+| 70 | 155 | Standia Civil |
 | 71 | 153 | Shiny Gridmatch |
 | 72 | 152 | Jacqueline Unique |
 | 73 | 149 | Tana |
@@ -87,8 +87,8 @@
 | 79 | 144 | Plucky Ziggy |
 | 80 | 144 | Tanya Carpenter-Reynolds |
 | 81 | 143 | Sarah Marie |
-| 82 | 141 | Susanna Guerry |
-| 83 | 141 | Blaire Bruckoff |
+| 82 | 141 | Blaire Bruckoff |
+| 83 | 141 | Susanna Guerry |
 | 84 | 138 | Gary Gobin |
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
@@ -100,8 +100,8 @@
 | 92 | 127 | Michael |
 | 93 | 126 | Cece Ibarra |
 | 94 | 121 | Bouncy Grid |
-| 95 | 119 | Tater |
-| 96 | 119 | Irual Hctrab |
+| 95 | 119 | Irual Hctrab |
+| 96 | 119 | Tater |
 | 97 | 118 | Barry Mac'Ockner |
 | 98 | 115 | comrade fish |
 | 99 | 115 | lil mickey |

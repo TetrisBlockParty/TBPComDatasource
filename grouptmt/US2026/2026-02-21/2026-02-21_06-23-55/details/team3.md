@@ -96,8 +96,8 @@
 | 88 | 223 | Jeana Gilbert |
 | 89 | 222 | Jimmie Clemons |
 | 90 | 219 | Louise Stacy Sisson |
-| 91 | 218 | Judi Dobson |
-| 92 | 218 | mjl574 |
+| 91 | 218 | mjl574 |
+| 92 | 218 | Judi Dobson |
 | 93 | 214 | Amy Fuller Heaton |
 | 94 | 213 | Tom Nault |
 | 95 | 211 | Elaine Webb Graves |
@@ -138,9 +138,9 @@
 | 130 | 152 | Shiny Zonebuilder |
 | 131 | 152 | Karon Griffin |
 | 132 | 150 | Nicole Myers |
-| 133 | 149 | Trisha Balmer |
+| 133 | 149 | Bea Miles |
 | 134 | 149 | Angel Mendez |
-| 135 | 149 | Bea Miles |
+| 135 | 149 | Trisha Balmer |
 | 136 | 147 | Sashay Tapae Simpson |
 | 137 | 146 | Latoya Mayne |
 | 138 | 146 | Denita Mungro |
@@ -190,8 +190,8 @@
 | 182 | 107 | Sherry Ogden |
 | 183 | 106 | Eon Harris |
 | 184 | 106 | Desiree Gold |
-| 185 | 105 | Hoppy Buildout |
-| 186 | 105 | Emi |
+| 185 | 105 | Emi |
+| 186 | 105 | Hoppy Buildout |
 | 187 | 104 | Sarah Moyer |
 | 188 | 104 | Peachy Rollfit |
 | 189 | 104 | Ashley Rufus Bythcez |

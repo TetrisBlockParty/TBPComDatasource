@@ -372,8 +372,8 @@
 | 364 | 191 | Sho Nuff |
 | 365 | 191 | John Quiring |
 | 366 | 190 | blarg |
-| 367 | 190 | Jennifer Leigh |
-| 368 | 190 | Jessica Kaye DeAguero |
+| 367 | 190 | Jessica Kaye DeAguero |
+| 368 | 190 | Jennifer Leigh |
 | 369 | 188 | Seth Wrieden |
 | 370 | 188 | Justin Hines |
 | 371 | 187 | Stefanie Zonzini-Gagliardi |
@@ -388,8 +388,8 @@
 | 380 | 183 | Wakanda Forever |
 | 381 | 182 | Donna M Carter |
 | 382 | 182 | Niceday |
-| 383 | 181 | Wacky Cascade |
-| 384 | 181 | Julay |
+| 383 | 181 | Julay |
+| 384 | 181 | Wacky Cascade |
 | 385 | 180 | Peter Palestino |
 | 386 | 180 | Jackie Lucas |
 | 387 | 179 | Desiree Harris Rosch |

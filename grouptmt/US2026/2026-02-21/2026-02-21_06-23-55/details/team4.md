@@ -83,11 +83,11 @@
 | 75 | 134 | Chirpy Basepiece |
 | 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
-| 78 | 132 | Degenerate |
-| 79 | 132 | Melissa Priest Sellers |
-| 80 | 132 | Jenna McGeorge |
-| 81 | 131 | Dana Scott |
-| 82 | 131 | Mr. Party |
+| 78 | 132 | Melissa Priest Sellers |
+| 79 | 132 | Jenna McGeorge |
+| 80 | 132 | Degenerate |
+| 81 | 131 | Mr. Party |
+| 82 | 131 | Dana Scott |
 | 83 | 131 | Zany Twisterfit |
 | 84 | 130 | Casey Jeffcoat |
 | 85 | 130 | Lucas J Sutton |
@@ -127,8 +127,8 @@
 | 119 | 104 | Adam Randall |
 | 120 | 104 | YoMomma |
 | 121 | 102 | Faja |
-| 122 | 101 | Stephme310 |
-| 123 | 101 | Michelle Morris |
+| 122 | 101 | Michelle Morris |
+| 123 | 101 | Stephme310 |
 | 124 | 101 | Saulc1991 |
 | 125 | 100 | Alexandra Karavias |
 | 126 | 100 | Jeff Brian Gates |
