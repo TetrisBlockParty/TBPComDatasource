@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Annie Déè |
-| 62 | 342 | Trezure Gonzalez |
+| 61 | 342 | Trezure Gonzalez |
+| 62 | 342 | Annie Déè |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -88,8 +88,8 @@
 | 80 | 224 | Mykal Burton |
 | 81 | 223 | Jeana Gilbert |
 | 82 | 222 | Jimmie Clemons |
-| 83 | 218 | Judi Dobson |
-| 84 | 218 | mjl574 |
+| 83 | 218 | mjl574 |
+| 84 | 218 | Judi Dobson |
 | 85 | 214 | Amy Fuller Heaton |
 | 86 | 207 | rnr junky |
 | 87 | 206 | Stephanie Blkpep Davidson |
@@ -220,8 +220,8 @@
 | 212 | 88 | Martin Bernier |
 | 213 | 88 | Ava Petito |
 | 214 | 87 | Kevin Russell |
-| 215 | 87 | Boldy Blocker |
-| 216 | 87 | Kellie Montgomery |
+| 215 | 87 | Kellie Montgomery |
+| 216 | 87 | Boldy Blocker |
 | 217 | 86 | Criss |
 | 218 | 86 | Clever Clearbuilder |
 | 219 | 85 | Chris Bell |

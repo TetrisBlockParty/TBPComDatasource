@@ -212,8 +212,8 @@
 | 204 | 288 | Deborah Miller |
 | 205 | 287 | Claire |
 | 206 | 286 | Ryan Gunther |
-| 207 | 285 | June E Hanson |
-| 208 | 285 | Oscar Bernie |
+| 207 | 285 | Oscar Bernie |
+| 208 | 285 | June E Hanson |
 | 209 | 284 | Macy Williams |
 | 210 | 284 | Mamachelle Eisweirth |
 | 211 | 283 | Davetta Sanford |
@@ -446,7 +446,7 @@
 | 438 | 150 | Candace Noel |
 | 439 | 150 | Hong Tang |
 | 440 | 149 | Melissa Rebbe-Lehman |
-| 441 | 149 | Boldy Cascadepiece |
+| 441 | 149 | JacJac |
 | 442 | 149 | Leslie Porter |
 | 443 | 149 | Bee |
 | 444 | 149 | Boldy Cascadepiece |

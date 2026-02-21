@@ -49,11 +49,11 @@
 | 41 | 205 | Trippy Redd |
 | 42 | 204 | Ly Phethmany |
 | 43 | 202 | Dee Perry |
-| 44 | 201 | Ananda Mendez |
-| 45 | 201 | Anaid Sanchez |
+| 44 | 201 | Anaid Sanchez |
+| 45 | 201 | Ananda Mendez |
 | 46 | 200 | Lexuriuos Lifestlye |
-| 47 | 198 | Happy Snapbuild |
-| 48 | 198 | Billie Dawn Sparks |
+| 47 | 198 | Billie Dawn Sparks |
+| 48 | 198 | Happy Snapbuild |
 | 49 | 194 | Sharon Reynolds |
 | 50 | 192 | Mandyy Rae |
 | 51 | 191 | Giggly Builderline |
@@ -93,8 +93,8 @@
 | 85 | 128 | Uhog SF |
 | 86 | 126 | Cece Ibarra |
 | 87 | 121 | Bouncy Grid |
-| 88 | 119 | Tater |
-| 89 | 119 | Irual Hctrab |
+| 88 | 119 | Irual Hctrab |
+| 89 | 119 | Tater |
 | 90 | 115 | comrade fish |
 | 91 | 114 | Colleen Wise |
 | 92 | 114 | Michael |
