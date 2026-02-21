@@ -130,8 +130,8 @@
 | 122 | 368 | Stephanie Blkpep Davidson |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
-| 125 | 355 | Sherry Ogden |
-| 126 | 355 | Tessina Dewey-Mancino |
+| 125 | 355 | Tessina Dewey-Mancino |
+| 126 | 355 | Sherry Ogden |
 | 127 | 348 | CeceGeGe |
 | 128 | 348 | Loopy Clusterer |
 | 129 | 347 | Darlene McMillan |
@@ -150,15 +150,15 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Marci Mize Fandrich |
-| 146 | 286 | Jacqueline Rodriguez |
+| 145 | 286 | Jacqueline Rodriguez |
+| 146 | 286 | Marci Mize Fandrich |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
-| 150 | 272 | opf |
-| 151 | 272 | rnr junky |
-| 152 | 271 | Ashley Muncey |
-| 153 | 271 | Leah Barnett |
+| 150 | 272 | rnr junky |
+| 151 | 272 | opf |
+| 152 | 271 | Leah Barnett |
+| 153 | 271 | Ashley Muncey |
 | 154 | 267 | Denise Nardoni |
 | 155 | 265 | DidIdothat |
 | 156 | 263 | Angeline Joseph |
@@ -166,8 +166,8 @@
 | 158 | 261 | Tiffany Ford |
 | 159 | 260 | Louise Stacy Sisson |
 | 160 | 258 | Tamara Deherrera |
-| 161 | 256 | KayB |
-| 162 | 256 | ren |
+| 161 | 256 | ren |
+| 162 | 256 | KayB |
 | 163 | 255 | Tom Nault |
 | 164 | 254 | Duane Bright |
 | 165 | 252 | Nicole Flippo |
@@ -284,8 +284,8 @@
 | 276 | 148 | Carrie Huskey |
 | 277 | 148 | Gumbo |
 | 278 | 147 | Ashley Lynn Marchese |
-| 279 | 146 | Ava Petito |
-| 280 | 146 | Tony Waters |
+| 279 | 146 | Tony Waters |
+| 280 | 146 | Ava Petito |
 | 281 | 146 | Rachel |
 | 282 | 145 | Bryan Byrd |
 | 283 | 144 | Tenisha Semidey |

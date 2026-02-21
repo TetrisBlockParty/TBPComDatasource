@@ -312,8 +312,8 @@
 | 304 | 470 | Jerry Tempelmeyer |
 | 305 | 469 | Jai Jackson |
 | 306 | 469 | Ashley Rose Frederick |
-| 307 | 469 | Amélie Cadieux |
-| 308 | 469 | Ashley Lopez |
+| 307 | 469 | Ashley Lopez |
+| 308 | 469 | Amélie Cadieux |
 | 309 | 468 | Drwatson187 |
 | 310 | 467 | Dedra Steward |
 | 311 | 467 | Scott Treadway |
@@ -325,8 +325,8 @@
 | 317 | 454 | Casey Schumacher |
 | 318 | 454 | Nashu |
 | 319 | 453 | Cozy Filler |
-| 320 | 453 | Rhonda Petro |
-| 321 | 453 | Joshua Sommerville |
+| 320 | 453 | Joshua Sommerville |
+| 321 | 453 | Rhonda Petro |
 | 322 | 452 | Alezandra Smith |
 | 323 | 451 | Daphne Jordan |
 | 324 | 451 | Dylan Thomason |
@@ -458,8 +458,8 @@
 | 450 | 341 | Daniel Amos |
 | 451 | 341 | Traci Johnson |
 | 452 | 339 | Cool Rollpiece |
-| 453 | 338 | Peppy Snapfall |
-| 454 | 338 | Shorty |
+| 453 | 338 | Shorty |
+| 454 | 338 | Peppy Snapfall |
 | 455 | 337 | Sassy Pattern |
 | 456 | 336 | Hong Tang |
 | 457 | 335 | Brooke Leigh Strube |
@@ -496,8 +496,8 @@
 | 488 | 314 | Party d |
 | 489 | 314 | James Zaragoza |
 | 490 | 313 | Natasha Edmonds |
-| 491 | 312 | Justin Hines |
-| 492 | 312 | Andrea Maher |
+| 491 | 312 | Andrea Maher |
+| 492 | 312 | Justin Hines |
 | 493 | 312 | Michelle Pike |
 | 494 | 311 | Mary Marie |
 | 495 | 311 | Kristin Gower |
@@ -581,16 +581,16 @@
 | 573 | 272 | Ryan Lauer |
 | 574 | 272 | Witty Piecebuilder |
 | 575 | 271 | Ann Marie Davis |
-| 576 | 270 | Court |
-| 577 | 270 | Tim Dyer |
-| 578 | 270 | Ben Barkley |
+| 576 | 270 | Tim Dyer |
+| 577 | 270 | Ben Barkley |
+| 578 | 270 | Court |
 | 579 | 270 | Santana Miyagi |
 | 580 | 269 | Reece Smith |
 | 581 | 269 | Gauri Shrotriya |
 | 582 | 269 | Susan Arnburg |
 | 583 | 269 | Pocho Zavala |
-| 584 | 268 | Min |
-| 585 | 268 | Christina Wsn |
+| 584 | 268 | Christina Wsn |
+| 585 | 268 | Min |
 | 586 | 268 | Speedy Spinblock |
 | 587 | 267 | Kelsey Sullivan |
 | 588 | 267 | Lauren Fitzgerald Thomas |

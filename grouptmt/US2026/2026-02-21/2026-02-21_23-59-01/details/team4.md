@@ -51,8 +51,8 @@
 | 43 | 526 | Goatimus Lombardi |
 | 44 | 519 | Anthony Bryan Riva |
 | 45 | 504 | Ash |
-| 46 | 500 | Savannah Overdorf |
-| 47 | 500 | Rodney McMath Jr. |
+| 46 | 500 | Rodney McMath Jr. |
+| 47 | 500 | Savannah Overdorf |
 | 48 | 496 | Carolyn Wallace |
 | 49 | 491 | Casey Jeffcoat |
 | 50 | 486 | Landon Keith Graffeo |
@@ -105,8 +105,8 @@
 | 97 | 273 | Carrie Brian |
 | 98 | 271 | Sarah Brown |
 | 99 | 268 | Meagan Nicole |
-| 100 | 264 | Epic Curvetile |
-| 101 | 264 | Girl |
+| 100 | 264 | Girl |
+| 101 | 264 | Epic Curvetile |
 | 102 | 258 | Brittney Orengo |
 | 103 | 257 | Holly Jolly |
 | 104 | 255 | Lindsay Ball |
@@ -117,10 +117,10 @@
 | 109 | 230 | Autum Leigh |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
-| 112 | 218 | Casey Grabner |
-| 113 | 218 | Antony Dwayne Beasley |
-| 114 | 213 | Chaz Duncan |
-| 115 | 213 | loulou |
+| 112 | 218 | Antony Dwayne Beasley |
+| 113 | 218 | Casey Grabner |
+| 114 | 213 | loulou |
+| 115 | 213 | Chaz Duncan |
 | 116 | 212 | Calvin Cannon |
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
@@ -281,8 +281,8 @@
 | 273 | 100 | Porkobello |
 | 274 | 99 | Michael Orris |
 | 275 | 99 | Chance Strickland |
-| 276 | 98 | Perky Piecegrid |
-| 277 | 98 | Groovy Gridlock |
+| 276 | 98 | Groovy Gridlock |
+| 277 | 98 | Perky Piecegrid |
 | 278 | 97 | Denise B |
 | 279 | 97 | Marcela Johnson |
 | 280 | 97 | Madison Sweere |

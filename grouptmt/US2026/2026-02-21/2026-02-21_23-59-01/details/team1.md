@@ -103,8 +103,8 @@
 | 95 | 277 | Ly Phethmany |
 | 96 | 273 | Happy Basegrid |
 | 97 | 271 | Bhelle Sumile |
-| 98 | 269 | Rachael |
-| 99 | 269 | Seante Bullock |
+| 98 | 269 | Seante Bullock |
+| 99 | 269 | Rachael |
 | 100 | 266 | Luciano Moreira |
 | 101 | 263 | Sharon Reynolds |
 | 102 | 262 | Dandy Basegrid |
@@ -130,16 +130,16 @@
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
 | 124 | 204 | Ananda Mendez |
-| 125 | 203 | GATOR |
-| 126 | 203 | Giggly Builderline |
+| 125 | 203 | Giggly Builderline |
+| 126 | 203 | GATOR |
 | 127 | 201 | Spunky Piecebuilder |
 | 128 | 199 | Jennifer Hardman |
 | 129 | 198 | Tanya Carpenter-Reynolds |
 | 130 | 198 | Happy Snapbuild |
 | 131 | 195 | Daring Fitclear |
-| 132 | 194 | Ash Galvan |
-| 133 | 194 | Tyler Werts |
-| 134 | 193 | Death |
+| 132 | 194 | Tyler Werts |
+| 133 | 194 | Ash Galvan |
+| 134 | 193 | Lachelle Dillon |
 | 135 | 193 | Shiny Gridmatch |
 | 136 | 193 | Death |
 | 137 | 192 | Jessica Sheehan |
@@ -168,8 +168,8 @@
 | 160 | 170 | Veronica Eve |
 | 161 | 169 | Abbey Crespo |
 | 162 | 168 | Standia Civil |
-| 163 | 167 | Erin Hodges Plumb |
-| 164 | 167 | Nery Martinez |
+| 163 | 167 | Nery Martinez |
+| 164 | 167 | Erin Hodges Plumb |
 | 165 | 166 | Rico Rico |
 | 166 | 165 | Nadine Velardo |
 | 167 | 163 | Tyler Whitley |
@@ -177,8 +177,8 @@
 | 169 | 161 | SavageBooty98 |
 | 170 | 161 | Jessie Lynn |
 | 171 | 159 | Bindi |
-| 172 | 158 | Arianna O'Brien |
-| 173 | 158 | Sarah Marie |
+| 172 | 158 | Sarah Marie |
+| 173 | 158 | Arianna O'Brien |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
 | 176 | 152 | Speedy Snapfall |
