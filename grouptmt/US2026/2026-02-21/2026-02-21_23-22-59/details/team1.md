@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Mandyy Rae |
-| 120 | 212 | Jaimie Lynn |
+| 119 | 212 | Jaimie Lynn |
+| 120 | 212 | Mandyy Rae |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
@@ -140,8 +140,8 @@
 | 132 | 192 | Jessica Sheehan |
 | 133 | 192 | Shaykmia |
 | 134 | 191 | Diane Byrd |
-| 135 | 190 | Thorne Shumate |
-| 136 | 190 | Sweetts |
+| 135 | 190 | Sweetts |
+| 136 | 190 | Thorne Shumate |
 | 137 | 188 | Sam Williams |
 | 138 | 187 | Snippy Wipebuilder |
 | 139 | 186 | Jennifer Olewnik Soborowski |

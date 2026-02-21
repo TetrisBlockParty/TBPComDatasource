@@ -153,8 +153,8 @@
 | 145 | 807 | Khalil Lowe |
 | 146 | 806 | Tralonda Weeks |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Danielle Johnson-Chandler |
-| 149 | 800 | Tacara Cummings |
+| 148 | 800 | Tacara Cummings |
+| 149 | 800 | Danielle Johnson-Chandler |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -193,8 +193,8 @@
 | 185 | 690 | Deborah Miller |
 | 186 | 688 | Dreamy Blast |
 | 187 | 688 | Wendy Harder Gage |
-| 188 | 686 | Ashley Guernsey-Martin |
-| 189 | 686 | Dannette Goldberg-Richards |
+| 188 | 686 | Dannette Goldberg-Richards |
+| 189 | 686 | Ashley Guernsey-Martin |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
@@ -249,8 +249,8 @@
 | 241 | 556 | Shavonna Haynes |
 | 242 | 549 | Kaylee McCafferty |
 | 243 | 547 | Giggy Blocker |
-| 244 | 543 | Teresa Gillmore |
-| 245 | 543 | Adira Brown |
+| 244 | 543 | Adira Brown |
+| 245 | 543 | Teresa Gillmore |
 | 246 | 543 | Mema |
 | 247 | 537 | Slip |
 | 248 | 535 | Jessie McDougald |
@@ -303,14 +303,14 @@
 | 295 | 469 | Amélie Cadieux |
 | 296 | 469 | Ashley Lopez |
 | 297 | 468 | Drwatson187 |
-| 298 | 467 | Dedra Steward |
-| 299 | 467 | Scott Treadway |
+| 298 | 467 | Scott Treadway |
+| 299 | 467 | Dedra Steward |
 | 300 | 463 | Sue Leard |
 | 301 | 460 | Barbra Miller |
 | 302 | 460 | Glitzy Stackzone |
 | 303 | 460 | Cody Smith-Candelaria |
-| 304 | 459 | Brainy Smurf |
-| 305 | 459 | Doowop40 |
+| 304 | 459 | Doowop40 |
+| 305 | 459 | Brainy Smurf |
 | 306 | 458 | Maegan Beaule |
 | 307 | 454 | Nashu |
 | 308 | 454 | Casey Schumacher |
@@ -638,8 +638,8 @@
 | 630 | 240 | Tom Steffen |
 | 631 | 239 | Dad |
 | 632 | 238 | Manny Trindade |
-| 633 | 237 | Breezy Tilt |
-| 634 | 237 | Devlin Ogg |
+| 633 | 237 | Devlin Ogg |
+| 634 | 237 | Breezy Tilt |
 | 635 | 237 | Heather Piotrowski |
 | 636 | 236 | Julio A Laracuente |
 | 637 | 236 | Angela Yantz |
@@ -868,8 +868,8 @@
 | 860 | 173 | Nuke Morris |
 | 861 | 173 | Yemaja Obba Olokun |
 | 862 | 173 | Cleo Sims |
-| 863 | 173 | kippykay |
-| 864 | 173 | Robin |
+| 863 | 173 | Robin |
+| 864 | 173 | kippykay |
 | 865 | 173 | Rachel Walka Farnam |
 | 866 | 172 | Patty |
 | 867 | 172 | Jacob Huffman |

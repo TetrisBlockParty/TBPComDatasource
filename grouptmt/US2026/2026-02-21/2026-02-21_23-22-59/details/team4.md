@@ -114,15 +114,15 @@
 | 106 | 230 | Autum Leigh |
 | 107 | 222 | Joeliecea Cobb |
 | 108 | 221 | Alyssa Papen |
-| 109 | 218 | Antony Dwayne Beasley |
-| 110 | 218 | Casey Grabner |
+| 109 | 218 | Casey Grabner |
+| 110 | 218 | Antony Dwayne Beasley |
 | 111 | 213 | Chaz Duncan |
 | 112 | 212 | Calvin Cannon |
-| 113 | 211 | loulou |
-| 114 | 211 | Dizzy Tiley |
+| 113 | 211 | Dizzy Tiley |
+| 114 | 211 | loulou |
 | 115 | 210 | Damn Libra |
-| 116 | 208 | Twisty Cascadezone |
-| 117 | 208 | Chastity Mitchell |
+| 116 | 208 | Chastity Mitchell |
+| 117 | 208 | Twisty Cascadezone |
 | 118 | 206 | Mylo Lipscomb |
 | 119 | 205 | Sarah Neathery |
 | 120 | 204 | Jen Caldwell |
@@ -154,8 +154,8 @@
 | 146 | 174 | Dihcheese444 |
 | 147 | 172 | Jessica Bohlken |
 | 148 | 171 | Diana Houts |
-| 149 | 164 | 030Synner |
-| 150 | 164 | ThaEviLJeNiuZ |
+| 149 | 164 | ThaEviLJeNiuZ |
+| 150 | 164 | 030Synner |
 | 151 | 160 | ZeeZee |
 | 152 | 156 | Holly |
 | 153 | 155 | AyeKay |
@@ -275,8 +275,8 @@
 | 267 | 99 | Michael Orris |
 | 268 | 98 | Groovy Gridlock |
 | 269 | 98 | Perky Piecegrid |
-| 270 | 97 | Marcela Johnson |
-| 271 | 97 | Rosemary Foster |
+| 270 | 97 | Rosemary Foster |
+| 271 | 97 | Marcela Johnson |
 | 272 | 96 | Marcus TheeyoungWoe Gilmore |
 | 273 | 96 | Sammy Noguera |
 | 274 | 95 | Mimi |
@@ -381,8 +381,8 @@
 | 373 | 70 | Niome Encinias |
 | 374 | 70 | PlatinumRose |
 | 375 | 70 | mitch |
-| 376 | 69 | Jobadia Steelerton |
-| 377 | 69 | Jessica Wells |
+| 376 | 69 | Jessica Wells |
+| 377 | 69 | Jobadia Steelerton |
 | 378 | 69 | Meli  Jackson |
 | 379 | 69 | Frisky Column |
 | 380 | 69 | Beth Helms |

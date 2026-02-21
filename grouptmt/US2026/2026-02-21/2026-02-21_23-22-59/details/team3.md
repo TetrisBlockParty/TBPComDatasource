@@ -77,8 +77,8 @@
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Joey Banks |
-| 73 | 536 | Giddy Drop |
+| 72 | 536 | Giddy Drop |
+| 73 | 536 | Joey Banks |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -119,8 +119,8 @@
 | 111 | 386 | Katie Knaus |
 | 112 | 384 | Shannon Matthew Byers |
 | 113 | 380 | Tiff Vs Tiffany |
-| 114 | 378 | Makelini Mausia |
-| 115 | 378 | Tasha Schriewer |
+| 114 | 378 | Tasha Schriewer |
+| 115 | 378 | Makelini Mausia |
 | 116 | 377 | Jesse Olive |
 | 117 | 368 | Stephanie Woods |
 | 118 | 368 | Stephanie Blkpep Davidson |
@@ -132,8 +132,8 @@
 | 124 | 348 | CeceGeGe |
 | 125 | 347 | Darlene McMillan |
 | 126 | 343 | Chasity |
-| 127 | 328 | Aaron Pitkin |
-| 128 | 328 | Jeni Dow |
+| 127 | 328 | Jeni Dow |
+| 128 | 328 | Aaron Pitkin |
 | 129 | 327 | Dapper Snap |
 | 130 | 326 | Fancy Cascader |
 | 131 | 323 | Ashley Raines |
@@ -219,8 +219,8 @@
 | 211 | 191 | Brenda Lee Vander Molen |
 | 212 | 189 | Sissy Lowery Davis |
 | 213 | 188 | JerseyJess |
-| 214 | 186 | Sunny Rotater |
-| 215 | 186 | Aerian Preston |
+| 214 | 186 | Aerian Preston |
+| 215 | 186 | Sunny Rotater |
 | 216 | 184 | Troy |
 | 217 | 183 | Ashley Jones |
 | 218 | 182 | Raven Dudley |
@@ -372,10 +372,10 @@
 | 364 | 111 | Stephanie Zahm |
 | 365 | 111 | Leticia Lynn Lowe |
 | 366 | 110 | Carol Cain Thurman |
-| 367 | 110 | Tracey Cox |
+| 367 | 110 | Danielle Weikel |
 | 368 | 110 | Tye Stovall |
-| 369 | 110 | Danielle Weikel |
-| 370 | 109 | Diana Ibarra |
+| 369 | 110 | Tracey Cox |
+| 370 | 109 | mommablock |
 | 371 | 109 | Ashley Rufus Bythcez |
 | 372 | 109 | Diana Ibarra |
 | 373 | 107 | Megan Stanley |
