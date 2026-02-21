@@ -114,12 +114,12 @@
 | 106 | 131 | Emma |
 | 107 | 129 | Giddy Twistbuilder |
 | 108 | 128 | Angel Mendez |
-| 109 | 127 | Aerian Preston |
-| 110 | 127 | Marquita Sheard |
+| 109 | 127 | Marquita Sheard |
+| 110 | 127 | Aerian Preston |
 | 111 | 126 | Brandon Green |
 | 112 | 125 | BŘŰŤİÇŨŚ |
-| 113 | 125 | Felicia Doxey |
-| 114 | 125 | Stephanie Simpson |
+| 113 | 125 | Stephanie Simpson |
+| 114 | 125 | Felicia Doxey |
 | 115 | 123 | Kristie McFarland |
 | 116 | 122 | Shimika Enay Wallace |
 | 117 | 121 | Michael Latasha Gray |
