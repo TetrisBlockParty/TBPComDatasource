@@ -124,8 +124,8 @@
 | 116 | 219 | Lexuriuos Lifestlye |
 | 117 | 216 | MRdot Rooski |
 | 118 | 214 | Billie Dawn Sparks |
-| 119 | 212 | Mandyy Rae |
-| 120 | 212 | Jaimie Lynn |
+| 119 | 212 | Jaimie Lynn |
+| 120 | 212 | Mandyy Rae |
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 205 | Jenny Gingrich Fuentes |
@@ -500,7 +500,7 @@
 | 492 | 57 | Sunshine |
 | 493 | 57 | I Am |
 | 494 | 57 | Chipper Wipegrid |
-| 495 | 57 | Sunshine |
+| 495 | 57 | Sari Jones |
 | 496 | 57 | Crystal Cardenas |
 | 497 | 57 | Andrew Boone |
 | 498 | 56 | Glitzy Curvebuilder |

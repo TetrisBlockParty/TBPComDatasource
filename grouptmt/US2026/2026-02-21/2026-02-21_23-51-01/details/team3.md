@@ -119,8 +119,8 @@
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
 | 113 | 390 | Patti Skiles |
-| 114 | 389 | FuzzyNavel |
-| 115 | 389 | Jessica Bechler |
+| 114 | 389 | Jessica Bechler |
+| 115 | 389 | FuzzyNavel |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
 | 118 | 378 | Tasha Schriewer |
@@ -137,8 +137,8 @@
 | 129 | 343 | Chasity |
 | 130 | 336 | Loopy Clusterer |
 | 131 | 330 | Logan Naccarato |
-| 132 | 328 | Jeni Dow |
-| 133 | 328 | Aaron Pitkin |
+| 132 | 328 | Aaron Pitkin |
+| 133 | 328 | Jeni Dow |
 | 134 | 327 | Dapper Snap |
 | 135 | 326 | Fancy Cascader |
 | 136 | 324 | Tasha Gillespie |

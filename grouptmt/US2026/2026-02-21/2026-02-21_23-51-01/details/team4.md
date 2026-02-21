@@ -86,8 +86,8 @@
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
 | 80 | 311 | David Lay |
-| 81 | 308 | Jen Allison |
-| 82 | 308 | Livvy |
+| 81 | 308 | Livvy |
+| 82 | 308 | Jen Allison |
 | 83 | 303 | Lauren Scott |
 | 84 | 300 | Jason Hart |
 | 85 | 295 | Latisha Davis |
@@ -143,8 +143,8 @@
 | 135 | 189 | Stacey Stano |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Andy Cabral |
-| 139 | 185 | Malakai Darien Fox |
+| 138 | 185 | Malakai Darien Fox |
+| 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Carter Jones |
 | 142 | 181 | Klo |
@@ -198,8 +198,8 @@
 | 190 | 132 | Melissa Priest Sellers |
 | 191 | 132 | Jessica Cagle |
 | 192 | 131 | Michelle Morris |
-| 193 | 130 | Shukee Lo |
-| 194 | 130 | Carlos Ramirez |
+| 193 | 130 | Carlos Ramirez |
+| 194 | 130 | Shukee Lo |
 | 195 | 130 | Chris Bernstein |
 | 196 | 129 | Dreamy Snapgrid |
 | 197 | 128 | Rio Rocha |
@@ -329,7 +329,7 @@
 | 321 | 84 | Matt Gooder |
 | 322 | 84 | Ruben Wheeler |
 | 323 | 84 | mini |
-| 324 | 83 | Lynn Marie |
+| 324 | 83 | Abigail Murphy |
 | 325 | 83 | Lee Silpe |
 | 326 | 83 | Daresha Fair |
 | 327 | 83 | Lynn Marie |

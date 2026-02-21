@@ -528,8 +528,8 @@
 | 520 | 297 | Toni Lynn |
 | 521 | 297 | Peachy Blockbuilder |
 | 522 | 297 | Maxwell Escalera |
-| 523 | 296 | Amber Gray |
-| 524 | 296 | Sassy Linkbuilder |
+| 523 | 296 | Sassy Linkbuilder |
+| 524 | 296 | Amber Gray |
 | 525 | 296 | Jennifer Darby |
 | 526 | 295 | Noel Tarmy |
 | 527 | 294 | Frisky Riserbuilder |
