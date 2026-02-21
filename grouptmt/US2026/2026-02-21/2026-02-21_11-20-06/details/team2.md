@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Loopy Clusterbuilder |
-| 113 | 631 | Peppy Zone |
+| 112 | 631 | Peppy Zone |
+| 113 | 631 | Loopy Clusterbuilder |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -239,8 +239,8 @@
 | 231 | 344 | Christina Lewis-Vickers |
 | 232 | 343 | F-X |
 | 233 | 334 | Moni Foxe |
-| 234 | 334 | Felicia Lynn |
-| 235 | 334 | Missie Lawson Gebhardt |
+| 234 | 334 | Missie Lawson Gebhardt |
+| 235 | 334 | Felicia Lynn |
 | 236 | 333 | Brittney Jean |
 | 237 | 332 | TF Dyer |
 | 238 | 331 | Shelley Thornburgh Wright |
@@ -270,11 +270,11 @@
 | 262 | 303 | Amanda Schaffer |
 | 263 | 301 | Claire |
 | 264 | 300 | Unica Rector |
-| 265 | 299 | Christy Krissie |
-| 266 | 299 | Deborah Miller |
+| 265 | 299 | Deborah Miller |
+| 266 | 299 | Christy Krissie |
 | 267 | 297 | Brenda Utphall |
-| 268 | 296 | Amber Gray |
-| 269 | 296 | Jennifer Casey-Kay |
+| 268 | 296 | Jennifer Casey-Kay |
+| 269 | 296 | Amber Gray |
 | 270 | 296 | Jennifer Darby |
 | 271 | 295 | Zany Clusterbuilder |
 | 272 | 295 | Diallo Sparkman |
@@ -286,8 +286,8 @@
 | 278 | 289 | Hyper Cluster |
 | 279 | 288 | Megan Phillips |
 | 280 | 286 | Ryan Gunther |
-| 281 | 285 | June E Hanson |
-| 282 | 285 | Jánine Riggs |
+| 281 | 285 | Jánine Riggs |
+| 282 | 285 | June E Hanson |
 | 283 | 283 | Davetta Sanford |
 | 284 | 282 | Carl Bradshaw |
 | 285 | 282 | Shaun Church |
@@ -317,8 +317,8 @@
 | 309 | 270 | Christina Ashley |
 | 310 | 270 | Angela Lynn |
 | 311 | 269 | Reece Smith |
-| 312 | 268 | Tanya Parsons |
-| 313 | 268 | Chummy Blockbuilder |
+| 312 | 268 | Chummy Blockbuilder |
+| 313 | 268 | Tanya Parsons |
 | 314 | 266 | Mighty Shatterfit |
 | 315 | 266 | Mike Aprilliano |
 | 316 | 264 | Dapper Dasher |
@@ -332,8 +332,8 @@
 | 324 | 256 | CC |
 | 325 | 256 | Tee Jaleesa |
 | 326 | 255 | Santana Miyagi |
-| 327 | 254 | Rose Fx |
-| 328 | 254 | Elizabeth Diraffaele |
+| 327 | 254 | Elizabeth Diraffaele |
+| 328 | 254 | Rose Fx |
 | 329 | 254 | Julie Hamilton |
 | 330 | 253 | Tansaria Couch-Butler |
 | 331 | 252 | Matt Johnson |
@@ -350,8 +350,8 @@
 | 342 | 247 | Fancy Twister |
 | 343 | 247 | Andrea Devery Beck |
 | 344 | 246 | Kathryn Townsley |
-| 345 | 246 | Ashley Lopez |
-| 346 | 246 | Stephanie Lumanlan |
+| 345 | 246 | Stephanie Lumanlan |
+| 346 | 246 | Ashley Lopez |
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
@@ -364,11 +364,11 @@
 | 356 | 238 | Cheery Matchzone |
 | 357 | 236 | Frisky Riserbuilder |
 | 358 | 236 | snkylnk |
-| 359 | 236 | Julio A Laracuente |
-| 360 | 236 | Niceday |
+| 359 | 236 | Niceday |
+| 360 | 236 | Julio A Laracuente |
 | 361 | 235 | Kimberly Mitchell |
-| 362 | 234 | Manny Trindade |
-| 363 | 234 | Jennifer Leigh |
+| 362 | 234 | Jennifer Leigh |
+| 363 | 234 | Manny Trindade |
 | 364 | 234 | Jaybee Nguyen |
 | 365 | 233 | Jumpy Gridclear |
 | 366 | 233 | Robin Kerby |
@@ -441,8 +441,8 @@
 | 433 | 191 | Deana |
 | 434 | 191 | John Quiring |
 | 435 | 190 | Jessica Kaye DeAguero |
-| 436 | 188 | Seth Wrieden |
-| 437 | 188 | Michael Artis |
+| 436 | 188 | Michael Artis |
+| 437 | 188 | Seth Wrieden |
 | 438 | 188 | Justin Hines |
 | 439 | 187 | Stefanie Zonzini-Gagliardi |
 | 440 | 186 | Joshua Mullings |

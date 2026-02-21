@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -43,8 +43,8 @@
 | 35 | 622 | River |
 | 36 | 613 | Amber Hughes |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Suzieq |
-| 39 | 587 | Danielle Becker |
+| 38 | 587 | Danielle Becker |
+| 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -115,8 +115,8 @@
 | 107 | 218 | mjl574 |
 | 108 | 214 | Amy Fuller Heaton |
 | 109 | 213 | Tom Nault |
-| 110 | 212 | Shunta Jacobs |
-| 111 | 212 | Kristie McFarland |
+| 110 | 212 | Kristie McFarland |
+| 111 | 212 | Shunta Jacobs |
 | 112 | 211 | Katrina Schroeder |
 | 113 | 207 | rnr junky |
 | 114 | 206 | Stephanie Blkpep Davidson |
@@ -124,8 +124,8 @@
 | 116 | 203 | Crimson |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -142,8 +142,8 @@
 | 134 | 178 | Khaleada McGill Banks |
 | 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Kelly Ann Child |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
@@ -157,8 +157,8 @@
 | 149 | 156 | Joey Banks |
 | 150 | 155 | BŘŰŤİÇŨŚ |
 | 151 | 154 | Angela M. Fletcher |
-| 152 | 153 | Stephanie Whitefield |
-| 153 | 153 | Beth Ingham |
+| 152 | 153 | Beth Ingham |
+| 153 | 153 | Stephanie Whitefield |
 | 154 | 152 | Shiny Zonebuilder |
 | 155 | 151 | MsBee |
 | 156 | 150 | Nicole Myers |
@@ -263,8 +263,8 @@
 | 255 | 95 | Brooke Bauer |
 | 256 | 94 | Angie Harper |
 | 257 | 93 | Tiffany Ford |
-| 258 | 92 | Jennifer Caputo |
-| 259 | 92 | Trice Thomas |
+| 258 | 92 | Trice Thomas |
+| 259 | 92 | Jennifer Caputo |
 | 260 | 92 | Ava Petito |
 | 261 | 92 | Jackie-Lynne Goertzen |
 | 262 | 91 | Martin Bernier |

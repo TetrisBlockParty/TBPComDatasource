@@ -85,26 +85,26 @@
 | 77 | 170 | Girl |
 | 78 | 170 | Leah Kutz Zirbel |
 | 79 | 167 | Denise Carlson |
-| 80 | 165 | Casey Grabner |
-| 81 | 165 | Courtney Cicoria |
+| 80 | 165 | Courtney Cicoria |
+| 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
-| 84 | 159 | Justin Hannigan |
-| 85 | 159 | Holly Jolly |
+| 84 | 159 | Holly Jolly |
+| 85 | 159 | Justin Hannigan |
 | 86 | 157 | quicksand420 |
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | 030Synner |
-| 91 | 147 | Jay28 |
+| 90 | 147 | Jay28 |
+| 91 | 147 | 030Synner |
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
 | 95 | 138 | Shainne Brewer |
 | 96 | 138 | Nugget |
 | 97 | 136 | Tanner Lund |
-| 98 | 134 | Chirpy Basepiece |
-| 99 | 134 | Jessica Bohlken |
+| 98 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 133 | Robin Watters |
 | 101 | 132 | Degenerate |
 | 102 | 132 | Jessica Cagle |
@@ -138,7 +138,7 @@
 | 130 | 113 | Andria Lynn |
 | 131 | 112 | Austin Owens |
 | 132 | 112 | Bryan Hodgins |
-| 133 | 112 | Austin Owens |
+| 133 | 112 | Brittany Marsh |
 | 134 | 111 | Lazy Blocker |
 | 135 | 111 | Gwendolyn Pitcairn |
 | 136 | 110 | H.R. Block |
@@ -241,8 +241,8 @@
 | 233 | 70 | Richard-April Kice |
 | 234 | 69 | Jessica Wells |
 | 235 | 69 | Carol Ricks Raymond |
-| 236 | 68 | Jennifer Perkins |
-| 237 | 68 | GBR |
+| 236 | 68 | 中山成巳 |
+| 237 | 68 | LS |
 | 238 | 68 | Mylo Lipscomb |
 | 239 | 68 | GBR |
 | 240 | 68 | Jennifer Perkins |
@@ -280,8 +280,8 @@
 | 272 | 61 | Jackson Karen |
 | 273 | 61 | Chilly Crasher |
 | 274 | 61 | Alee Marie |
-| 275 | 60 | Ahleek Mitchell |
-| 276 | 60 | Kris Zulch |
+| 275 | 60 | Kris Zulch |
+| 276 | 60 | Ahleek Mitchell |
 | 277 | 59 | Angelito |
 | 278 | 59 | Jasmine S Caldwell |
 | 279 | 59 | Chris Bernstein |
