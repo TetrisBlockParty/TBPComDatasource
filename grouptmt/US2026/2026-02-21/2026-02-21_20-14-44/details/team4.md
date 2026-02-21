@@ -172,7 +172,7 @@
 | 164 | 134 | Zany Shatterer |
 | 165 | 134 | Kim Klutz Olson |
 | 166 | 133 | Angela Geist Jusinski |
-| 167 | 132 | Degenerate |
+| 167 | 132 | Melissa Priest Sellers |
 | 168 | 132 | Jessica Cagle |
 | 169 | 132 | Degenerate |
 | 170 | 131 | Michelle Morris |
@@ -372,8 +372,8 @@
 | 364 | 66 | Brandon Crabbs |
 | 365 | 66 | Montiette Mcglown |
 | 366 | 65 | Barcelos |
-| 367 | 65 | Brittany Price |
-| 368 | 65 | Chantilly Laace |
+| 367 | 65 | Chantilly Laace |
+| 368 | 65 | Brittany Price |
 | 369 | 65 | Angelito |
 | 370 | 64 | Hyper Matchclear |
 | 371 | 64 | Plucky Patternblock |

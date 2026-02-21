@@ -68,8 +68,8 @@
 | 60 | 577 | Danielle Mogg |
 | 61 | 568 | MissTaylor |
 | 62 | 566 | Dan Rob |
-| 63 | 561 | Rachael McClain Owens |
-| 64 | 561 | Dolores Falco |
+| 63 | 561 | Dolores Falco |
+| 64 | 561 | Rachael McClain Owens |
 | 65 | 560 | Elaine Webb Graves |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |

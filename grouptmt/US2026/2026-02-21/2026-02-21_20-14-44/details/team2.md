@@ -632,9 +632,9 @@
 | 624 | 212 | Gina Justbeingme Chillis |
 | 625 | 212 | BK Queen |
 | 626 | 211 | Trisha Gallagher |
-| 627 | 210 | Cappin You |
-| 628 | 210 | Nancy Pohlman |
-| 629 | 210 | Marcie McLain Dodd |
+| 627 | 210 | Marcie McLain Dodd |
+| 628 | 210 | Cappin You |
+| 629 | 210 | Nancy Pohlman |
 | 630 | 210 | Joshua Switzer |
 | 631 | 209 | Chummy Breaker |
 | 632 | 209 | John Quiring |
@@ -856,10 +856,10 @@
 | 848 | 157 | Miranda Jackson |
 | 849 | 156 | Tara Creel |
 | 850 | 156 | Carlos Javier Del Toro |
-| 851 | 156 | Monica Brown |
-| 852 | 156 | Elizabeth Cotton |
-| 853 | 156 | Sweetheart81 |
-| 854 | 156 | JessieP123 |
+| 851 | 156 | Elizabeth Cotton |
+| 852 | 156 | Monica Brown |
+| 853 | 156 | JessieP123 |
+| 854 | 156 | Sweetheart81 |
 | 855 | 155 | Cris cris |
 | 856 | 155 | Tyler C. Jung |
 | 857 | 155 | Markisha Poyndexter |

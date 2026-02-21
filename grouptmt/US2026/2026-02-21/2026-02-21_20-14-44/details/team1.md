@@ -54,8 +54,8 @@
 | 46 | 421 | Christina Graham |
 | 47 | 413 | Odell Barnett |
 | 48 | 403 | Nancy Green |
-| 49 | 392 | Redlicious 1 |
-| 50 | 392 | Anaid Sanchez |
+| 49 | 392 | Anaid Sanchez |
+| 50 | 392 | Redlicious 1 |
 | 51 | 385 | Jazzy Framezone |
 | 52 | 382 | Lori Sanders- Davis |
 | 53 | 375 | Angel Fowler |
@@ -105,8 +105,8 @@
 | 97 | 222 | Kristen Gideon |
 | 98 | 214 | Billie Dawn Sparks |
 | 99 | 213 | Lexuriuos Lifestlye |
-| 100 | 212 | Jaimie Lynn |
-| 101 | 212 | Mandyy Rae |
+| 100 | 212 | Mandyy Rae |
+| 101 | 212 | Jaimie Lynn |
 | 102 | 211 | Marianita Garcia |
 | 103 | 210 | Ly Phethmany |
 | 104 | 204 | Ananda Mendez |
