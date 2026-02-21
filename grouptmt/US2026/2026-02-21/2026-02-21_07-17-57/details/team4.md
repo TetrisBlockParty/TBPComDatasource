@@ -75,8 +75,8 @@
 | 67 | 165 | Casey Grabner |
 | 68 | 165 | Courtney Cicoria |
 | 69 | 160 | Carter Jones |
-| 70 | 159 | Holly Jolly |
-| 71 | 159 | Justin Hannigan |
+| 70 | 159 | Justin Hannigan |
+| 71 | 159 | Holly Jolly |
 | 72 | 157 | quicksand420 |
 | 73 | 155 | Christine Marie |
 | 74 | 154 | ThaEviLJeNiuZ |
@@ -103,15 +103,15 @@
 | 95 | 129 | Landon Keith Graffeo |
 | 96 | 129 | John Brunetti |
 | 97 | 125 | Lauren Scott |
-| 98 | 123 | Bubbly Puzzler |
-| 99 | 123 | Cherrish Duren |
-| 100 | 123 | Nugget |
+| 98 | 123 | Cherrish Duren |
+| 99 | 123 | Nugget |
+| 100 | 123 | Bubbly Puzzler |
 | 101 | 122 | Shelly Chandler |
 | 102 | 122 | Sherri |
-| 103 | 121 | 030Synner |
-| 104 | 121 | Klo |
-| 105 | 121 | Smiley Tiltbuilder |
-| 106 | 121 | Zany Shatterer |
+| 103 | 121 | Klo |
+| 104 | 121 | 030Synner |
+| 105 | 121 | Zany Shatterer |
+| 106 | 121 | Smiley Tiltbuilder |
 | 107 | 120 | Joshua Guess |
 | 108 | 119 | Kristin Manee |
 | 109 | 118 | Leslie Nicole |
@@ -188,10 +188,10 @@
 | 180 | 79 | Joseph Pace |
 | 181 | 78 | Zesty Linkgrid |
 | 182 | 78 | Jessica Miller |
-| 183 | 77 | Twisty Cascadezone |
-| 184 | 77 | Marvin Lou Martin |
-| 185 | 77 | Zippy Gridlock |
-| 186 | 77 | Chris Alexinas |
+| 183 | 77 | Marvin Lou Martin |
+| 184 | 77 | Twisty Cascadezone |
+| 185 | 77 | Chris Alexinas |
+| 186 | 77 | Zippy Gridlock |
 | 187 | 76 | Bethany Ison |
 | 188 | 76 | Madison Sweere |
 | 189 | 75 | Rosemary Foster |
@@ -203,8 +203,8 @@
 | 195 | 73 | Lynn Marie |
 | 196 | 72 | Robin Getchel |
 | 197 | 72 | Joshua Cuellar |
-| 198 | 71 | Lindsey Gonzalez |
-| 199 | 71 | Chaz Duncan |
+| 198 | 71 | Chaz Duncan |
+| 199 | 71 | Lindsey Gonzalez |
 | 200 | 71 | Marcela Johnson |
 | 201 | 70 | Richard-April Kice |
 | 202 | 69 | Jessica Wells |

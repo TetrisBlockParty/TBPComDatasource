@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -151,8 +151,8 @@
 | 143 | 453 | Osun Anuket Esu |
 | 144 | 452 | Alezandra Smith |
 | 145 | 450 | Giggy Blocker |
-| 146 | 448 | Jojo Momma |
-| 147 | 448 | Nick Jensen |
+| 146 | 448 | Nick Jensen |
+| 147 | 448 | Jojo Momma |
 | 148 | 442 | Daphne Jordan |
 | 149 | 427 | Destiny Cozier |
 | 150 | 426 | Magic steve |
@@ -165,8 +165,8 @@
 | 157 | 406 | Erin StFrancis |
 | 158 | 401 | Poppy Snap |
 | 159 | 400 | Tacara Cummings |
-| 160 | 400 | Crystie Hicks |
-| 161 | 400 | Tammy Allen |
+| 160 | 400 | Tammy Allen |
+| 161 | 400 | Crystie Hicks |
 | 162 | 397 | Ashley Guernsey-Martin |
 | 163 | 391 | Chilly Bridgepiece |
 | 164 | 391 | Steven Marshaun |
@@ -262,9 +262,9 @@
 | 254 | 271 | Toni Lynn |
 | 255 | 270 | Angela Lynn |
 | 256 | 270 | Alexandra Weir |
-| 257 | 268 | Tanya Parsons |
-| 258 | 268 | Vanessa Moreno |
-| 259 | 268 | Chummy Blockbuilder |
+| 257 | 268 | Chummy Blockbuilder |
+| 258 | 268 | Tanya Parsons |
+| 259 | 268 | Vanessa Moreno |
 | 260 | 267 | Mindy Leigh Head |
 | 261 | 266 | Mighty Shatterfit |
 | 262 | 266 | Autumn Schaeffer |

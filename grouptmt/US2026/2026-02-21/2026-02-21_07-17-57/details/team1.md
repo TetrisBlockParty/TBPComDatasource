@@ -65,8 +65,8 @@
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
-| 60 | 191 | Jazzy Framezone |
-| 61 | 191 | Giggly Builderline |
+| 60 | 191 | Giggly Builderline |
+| 61 | 191 | Jazzy Framezone |
 | 62 | 190 | Sweetts |
 | 63 | 190 | Thorne Shumate |
 | 64 | 189 | Happy Basegrid |
@@ -107,8 +107,8 @@
 | 99 | 126 | Rachael |
 | 100 | 123 | LaQuetta Faith Hines |
 | 101 | 121 | Bouncy Grid |
-| 102 | 119 | Irual Hctrab |
-| 103 | 119 | Tater |
+| 102 | 119 | Tater |
+| 103 | 119 | Irual Hctrab |
 | 104 | 118 | Barry Mac'Ockner |
 | 105 | 116 | Evie Khalil |
 | 106 | 115 | comrade fish |
