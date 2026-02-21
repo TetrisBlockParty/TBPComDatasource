@@ -84,8 +84,8 @@
 | 76 | 163 | Chad Atchley |
 | 77 | 162 | Patrick Luckenbill |
 | 78 | 161 | Abbey Crespo |
-| 79 | 155 | David DeSantis |
-| 80 | 155 | Standia Civil |
+| 79 | 155 | Standia Civil |
+| 80 | 155 | David DeSantis |
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
@@ -112,8 +112,8 @@
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
-| 107 | 123 | june october |
-| 108 | 123 | LaQuetta Faith Hines |
+| 107 | 123 | LaQuetta Faith Hines |
+| 108 | 123 | june october |
 | 109 | 121 | Bouncy Grid |
 | 110 | 119 | Irual Hctrab |
 | 111 | 119 | Tater |

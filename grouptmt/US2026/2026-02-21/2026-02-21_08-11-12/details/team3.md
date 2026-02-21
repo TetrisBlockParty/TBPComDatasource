@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -43,8 +43,8 @@
 | 35 | 587 | Danielle Becker |
 | 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Dolores Falco |
-| 39 | 546 | Snappy Glidepiece |
+| 38 | 546 | Snappy Glidepiece |
+| 39 | 546 | Dolores Falco |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -81,8 +81,8 @@
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 325 | Shari Garber |
 | 75 | 323 | Ashley Raines |
-| 76 | 322 | Michelle |
-| 77 | 322 | Mendoza Lee Christy |
+| 76 | 322 | Mendoza Lee Christy |
+| 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
 | 80 | 309 | CeceGeGe |
@@ -92,8 +92,8 @@
 | 84 | 299 | Cynthia Castros-Hampton |
 | 85 | 272 | Mahman |
 | 86 | 267 | Rufus Lincoln |
-| 87 | 256 | ren |
-| 88 | 256 | Elaine Webb Graves |
+| 87 | 256 | Elaine Webb Graves |
+| 88 | 256 | ren |
 | 89 | 251 | Katie Knaus |
 | 90 | 250 | Elissa S-k |
 | 91 | 249 | Denise Nardoni |
@@ -171,7 +171,7 @@
 | 163 | 127 | Marquita Sheard |
 | 164 | 126 | Brandon Givens |
 | 165 | 126 | Joy Petroski |
-| 166 | 126 | Brandon Givens |
+| 166 | 126 | Dan Rob |
 | 167 | 126 | Bryan Byrd |
 | 168 | 125 | Shimika Enay Wallace |
 | 169 | 125 | Felicia Doxey |
@@ -337,8 +337,8 @@
 | 329 | 71 | Weerae |
 | 330 | 71 | Duane Bright |
 | 331 | 70 | Brave Bruno |
-| 332 | 70 | cherry 🍒pie |
-| 333 | 70 | Leticia Lynn Lowe |
+| 332 | 70 | Leticia Lynn Lowe |
+| 333 | 70 | cherry 🍒pie |
 | 334 | 70 | Willow |
 | 335 | 69 | Jen Lewis |
 | 336 | 69 | Spunky Combofall |

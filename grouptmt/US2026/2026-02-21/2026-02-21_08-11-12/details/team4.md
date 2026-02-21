@@ -105,8 +105,8 @@
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Bubbly Puzzler |
 | 104 | 123 | Cherrish Duren |
@@ -238,8 +238,8 @@
 | 230 | 65 | BlockBabe |
 | 231 | 65 | Asher |
 | 232 | 65 | Angela Geist Jusinski |
-| 233 | 64 | Joseph Edmonson |
-| 234 | 64 | rebel4lyfe |
+| 233 | 64 | rebel4lyfe |
+| 234 | 64 | Joseph Edmonson |
 | 235 | 63 | Cheery Risebuilder |
 | 236 | 63 | Cristy Duerksen |
 | 237 | 62 | Jennifer Perkins |

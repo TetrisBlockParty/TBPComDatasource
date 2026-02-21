@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3936 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -319,8 +319,8 @@
 | 311 | 247 | Andrea Devery Beck |
 | 312 | 247 | Fancy Twister |
 | 313 | 246 | Kathryn Townsley |
-| 314 | 246 | Ashley Lopez |
-| 315 | 246 | Stephanie Lumanlan |
+| 314 | 246 | Stephanie Lumanlan |
+| 315 | 246 | Ashley Lopez |
 | 316 | 245 | Rachael Senard |
 | 317 | 245 | Taryece Gause |
 | 318 | 245 | Mischelle Clay |
@@ -334,8 +334,8 @@
 | 326 | 240 | Johnny Yeates |
 | 327 | 240 | Angie Marie |
 | 328 | 238 | Cheery Matchzone |
-| 329 | 236 | snkylnk |
-| 330 | 236 | Frisky Riserbuilder |
+| 329 | 236 | Frisky Riserbuilder |
+| 330 | 236 | snkylnk |
 | 331 | 236 | Julio A Laracuente |
 | 332 | 235 | Kimberly Mitchell |
 | 333 | 235 | Cheeky Brickmatch |
@@ -373,8 +373,8 @@
 | 365 | 209 | Jerry Tempelmeyer |
 | 366 | 208 | Nancy Pohlman |
 | 367 | 208 | Mema |
-| 368 | 207 | Brave Gridpiece |
-| 369 | 207 | Melissa McCall |
+| 368 | 207 | Melissa McCall |
+| 369 | 207 | Brave Gridpiece |
 | 370 | 207 | Shylee Tilman |
 | 371 | 206 | RAEPR05 |
 | 372 | 206 | Neko Preston |
@@ -401,14 +401,14 @@
 | 393 | 194 | Kimberly Ann |
 | 394 | 194 | Mike Aprilliano |
 | 395 | 194 | Hoppy Brickmatch |
-| 396 | 193 | Matthew Turner |
-| 397 | 193 | Kelly Ann McCormick |
+| 396 | 193 | Kelly Ann McCormick |
+| 397 | 193 | Matthew Turner |
 | 398 | 193 | Nika Bee |
 | 399 | 192 | Alyssa Nadine Medelez |
 | 400 | 191 | Lauren Fitzgerald Thomas |
-| 401 | 191 | Deana |
+| 401 | 191 | Sho Nuff |
 | 402 | 191 | John Quiring |
-| 403 | 191 | Sho Nuff |
+| 403 | 191 | Deana |
 | 404 | 190 | blarg |
 | 405 | 190 | Layna Lyons |
 | 406 | 190 | Jessica Kaye DeAguero |
@@ -467,8 +467,8 @@
 | 459 | 167 | Tamara Bailey |
 | 460 | 166 | suuny |
 | 461 | 165 | Catherine Varea |
-| 462 | 165 | Cathy Bitters |
-| 463 | 165 | Austin Wilson |
+| 462 | 165 | Austin Wilson |
+| 463 | 165 | Cathy Bitters |
 | 464 | 164 | Jessica Vega |
 | 465 | 164 | Sara Pennington |
 | 466 | 163 | Danielle Ayoub |
@@ -514,8 +514,8 @@
 | 506 | 152 | Kyle LeRoy Harris |
 | 507 | 152 | James Smith |
 | 508 | 152 | Kristin King |
-| 509 | 152 | JP Parks |
-| 510 | 152 | Anthony Mignacca |
+| 509 | 152 | Anthony Mignacca |
+| 510 | 152 | JP Parks |
 | 511 | 151 | Jennifer Rajek |
 | 512 | 151 | D'Aaron Black |
 | 513 | 151 | Kia Humphery |
@@ -546,9 +546,9 @@
 | 538 | 144 | RavensBeard |
 | 539 | 143 | Jay Levy |
 | 540 | 143 | Angelica |
-| 541 | 142 | Zachary Boyarski |
-| 542 | 142 | Frisky Clearpiece |
-| 543 | 142 | Amy Humphreys |
+| 541 | 142 | Frisky Clearpiece |
+| 542 | 142 | Amy Humphreys |
+| 543 | 142 | Zachary Boyarski |
 | 544 | 142 | Joy LaJeunesse |
 | 545 | 142 | Melissa Kay Gibson |
 | 546 | 141 | Erika Meaux |
@@ -563,8 +563,8 @@
 | 555 | 139 | Jackson Smith |
 | 556 | 139 | Octavio Garza |
 | 557 | 138 | Gursharan Sandhu |
-| 558 | 138 | ItsJennifer Neriss |
-| 559 | 138 | Iris Angelica Perez Cantos |
+| 558 | 138 | Iris Angelica Perez Cantos |
+| 559 | 138 | ItsJennifer Neriss |
 | 560 | 137 | Jannan Haimour |
 | 561 | 137 | Arlet Alba |
 | 562 | 136 | Britney M. |
