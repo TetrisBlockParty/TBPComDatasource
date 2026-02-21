@@ -97,8 +97,8 @@
 | 89 | 193 | Lachelle Dillon |
 | 90 | 192 | Shaykmia |
 | 91 | 191 | Diane Byrd |
-| 92 | 190 | Thorne Shumate |
-| 93 | 190 | Sweetts |
+| 92 | 190 | Sweetts |
+| 93 | 190 | Thorne Shumate |
 | 94 | 189 | Happy Basegrid |
 | 95 | 186 | Jennifer Olewnik Soborowski |
 | 96 | 185 | Ash Galvan |
@@ -207,8 +207,8 @@
 | 199 | 100 | Tami Luce Martin |
 | 200 | 100 | Jessica Weed |
 | 201 | 99 | Barrbaric |
-| 202 | 99 | Melissa Bires Hussar |
-| 203 | 99 | Mizzledagod |
+| 202 | 99 | Mizzledagod |
+| 203 | 99 | Melissa Bires Hussar |
 | 204 | 98 | Witty Builderfit |
 | 205 | 96 | Howdi Duty |
 | 206 | 96 | MommaKFC |
@@ -254,8 +254,8 @@
 | 246 | 79 | BadG52 |
 | 247 | 79 | George Dalton |
 | 248 | 78 | Pauline Cortez |
-| 249 | 78 | Silly Align |
-| 250 | 78 | Kerry Lee Powell |
+| 249 | 78 | Kerry Lee Powell |
+| 250 | 78 | Silly Align |
 | 251 | 77 | Lynn Adams |
 | 252 | 77 | LaFontaine Leslie |
 | 253 | 77 | Monica Rivas |

@@ -170,8 +170,8 @@
 | 162 | 580 | Steve Grotto |
 | 163 | 576 | Shannon Joslin |
 | 164 | 571 | Thomas Hedrick |
-| 165 | 569 | Gary Stash |
-| 166 | 569 | Vaniel Glover |
+| 165 | 569 | Vaniel Glover |
+| 166 | 569 | Gary Stash |
 | 167 | 563 | goofinoff |
 | 168 | 561 | Maria Escobar |
 | 169 | 550 | Jumpy Gridpiece |
@@ -221,8 +221,8 @@
 | 213 | 469 | Ashley Rose Frederick |
 | 214 | 467 | Scott Treadway |
 | 215 | 465 | Drwatson187 |
-| 216 | 464 | Nett |
-| 217 | 464 | Ryan Gunther |
+| 216 | 464 | Ryan Gunther |
+| 217 | 464 | Nett |
 | 218 | 463 | Sue Leard |
 | 219 | 463 | Osun Anuket Esu |
 | 220 | 460 | Cody Smith-Candelaria |
@@ -284,16 +284,16 @@
 | 276 | 364 | Brandon Armstrong |
 | 277 | 363 | William Meussner |
 | 278 | 362 | AkaLefty |
-| 279 | 359 | Johnny Yeates |
-| 280 | 359 | Mighty Shatterfit |
+| 279 | 359 | Mighty Shatterfit |
+| 280 | 359 | Johnny Yeates |
 | 281 | 358 | Smashanator |
 | 282 | 358 | Alyssaaelena |
 | 283 | 357 | Shannon Byrd |
 | 284 | 357 | Julie Kresal |
 | 285 | 355 | Shandrica Lowe |
 | 286 | 355 | Kristen O'Neal |
-| 287 | 354 | Tracy Wise |
-| 288 | 354 | Brave Dropmatch |
+| 287 | 354 | Brave Dropmatch |
+| 288 | 354 | Tracy Wise |
 | 289 | 353 | Cheery Matchzone |
 | 290 | 352 | Juanita Lyons |
 | 291 | 352 | ruth |
@@ -329,8 +329,8 @@
 | 321 | 326 | Elisheva Mizrachi |
 | 322 | 326 | Denise Rickman |
 | 323 | 324 | Offonar Facey |
-| 324 | 323 | KhaosLord |
-| 325 | 323 | Briana Alexander |
+| 324 | 323 | Briana Alexander |
+| 325 | 323 | KhaosLord |
 | 326 | 322 | Brandy Andre |
 | 327 | 320 | Cynthia Ward |
 | 328 | 318 | CC |
@@ -406,9 +406,9 @@
 | 398 | 273 | Giddy Gridclear |
 | 399 | 272 | Mikayala Szaz |
 | 400 | 271 | Ann Marie Davis |
-| 401 | 271 | Toni Lynn |
+| 401 | 271 | Loony Basepiece |
 | 402 | 271 | Tonya Lee |
-| 403 | 271 | Loony Basepiece |
+| 403 | 271 | Toni Lynn |
 | 404 | 270 | Mary Marie |
 | 405 | 269 | Reece Smith |
 | 406 | 267 | Britt Stunkel |
@@ -494,8 +494,8 @@
 | 486 | 223 | Kristi Biddinger |
 | 487 | 223 | Laura Wyatt |
 | 488 | 222 | Kiorah Blaze |
-| 489 | 222 | Amanda Canterbury |
-| 490 | 222 | Jason Garnatz |
+| 489 | 222 | Jason Garnatz |
+| 490 | 222 | Amanda Canterbury |
 | 491 | 221 | Michelle Lee |
 | 492 | 220 | Katrina Weston |
 | 493 | 220 | Sho Nuff |
@@ -511,8 +511,8 @@
 | 503 | 212 | Angela Yantz |
 | 504 | 212 | BK Queen |
 | 505 | 211 | Trisha Gallagher |
-| 506 | 211 | Peppy Snapfall |
-| 507 | 211 | Brownie Sheena |
+| 506 | 211 | Brownie Sheena |
+| 507 | 211 | Peppy Snapfall |
 | 508 | 211 | Ys Muhammed |
 | 509 | 210 | Nancy Pohlman |
 | 510 | 209 | Jelly |
@@ -543,8 +543,8 @@
 | 535 | 200 | LaWanda Powell |
 | 536 | 200 | Sarah Ridenour |
 | 537 | 199 | Alyssa Nadine Medelez |
-| 538 | 199 | Jessica Sutter |
-| 539 | 199 | Jenny Castro |
+| 538 | 199 | Jenny Castro |
+| 539 | 199 | Jessica Sutter |
 | 540 | 198 | Angi Harrison |
 | 541 | 197 | Kati Russeau |
 | 542 | 196 | Tony Lea |

@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Sissy Lowery Davis |
@@ -166,13 +166,13 @@
 | 158 | 188 | Angie Harper |
 | 159 | 184 | Jennie Beranek |
 | 160 | 182 | Hyper Matchzone |
-| 161 | 181 | Aerian Preston |
-| 162 | 181 | Karon Griffin |
+| 161 | 181 | Karon Griffin |
+| 162 | 181 | Aerian Preston |
 | 163 | 179 | Joye Sims Binion |
-| 164 | 179 | Ashley Jones |
-| 165 | 179 | Daira Largen |
-| 166 | 178 | Khaleada McGill Banks |
-| 167 | 178 | AlsoJess |
+| 164 | 179 | Daira Largen |
+| 165 | 179 | Ashley Jones |
+| 166 | 178 | AlsoJess |
+| 167 | 178 | Khaleada McGill Banks |
 | 168 | 178 | Ryan Williams |
 | 169 | 177 | Dapper Snap |
 | 170 | 177 | Rebel124 |
@@ -252,8 +252,8 @@
 | 244 | 120 | Lys |
 | 245 | 120 | Jessica |
 | 246 | 118 | Sabrina Hardrick |
-| 247 | 118 | Fancy Curver |
-| 248 | 118 | Damian Reid |
+| 247 | 118 | Damian Reid |
+| 248 | 118 | Fancy Curver |
 | 249 | 116 | BugMansMom |
 | 250 | 115 | Stella |
 | 251 | 115 | Daring Builder |

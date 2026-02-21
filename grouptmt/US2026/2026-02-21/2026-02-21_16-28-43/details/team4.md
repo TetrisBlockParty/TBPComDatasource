@@ -131,8 +131,8 @@
 | 123 | 144 | Mr. Party |
 | 124 | 143 | Nugget |
 | 125 | 141 | Malakai Darien Fox |
-| 126 | 140 | Shannon Ferrari |
-| 127 | 140 | Jenna McGeorge |
+| 126 | 140 | Jenna McGeorge |
+| 127 | 140 | Shannon Ferrari |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
 | 130 | 136 | Serena Goodridge |
@@ -212,7 +212,7 @@
 | 204 | 95 | Berklie Apedaile |
 | 205 | 94 | Kim Hunt |
 | 206 | 94 | Chastity Mitchell |
-| 207 | 94 | Kim Hunt |
+| 207 | 94 | DonMega |
 | 208 | 93 | Matt Dell'Olio |
 | 209 | 92 | Lindsey Gonzalez |
 | 210 | 91 | Nubian1 |
