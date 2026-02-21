@@ -61,8 +61,8 @@
 | 53 | 278 | Carrie Beck Geartz |
 | 54 | 278 | Robert Benito |
 | 55 | 277 | Shauna Loe |
-| 56 | 274 | Theo Pinnow |
-| 57 | 274 | Sweet Baker |
+| 56 | 274 | Sweet Baker |
+| 57 | 274 | Theo Pinnow |
 | 58 | 272 | Adam Byrd |
 | 59 | 261 | Bhelle Sumile |
 | 60 | 257 | Sarah Roberts |

@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 821 | Jessica Ann |
 | 36 | 819 | Kay |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -91,8 +91,8 @@
 | 83 | 372 | Patty Allen |
 | 84 | 371 | Jesse Olive |
 | 85 | 370 | yoyo |
-| 86 | 367 | Nerdy Riseclear |
-| 87 | 367 | Shari Garber |
+| 86 | 367 | Shari Garber |
+| 87 | 367 | Nerdy Riseclear |
 | 88 | 362 | Liv Whetson |
 | 89 | 353 | Stephanie Woods |
 | 90 | 351 | Trezure Gonzalez |
@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Sissy Lowery Davis |
@@ -165,8 +165,8 @@
 | 157 | 188 | Angie Harper |
 | 158 | 184 | Jennie Beranek |
 | 159 | 182 | Hyper Matchzone |
-| 160 | 181 | Karon Griffin |
-| 161 | 181 | Aerian Preston |
+| 160 | 181 | Aerian Preston |
+| 161 | 181 | Karon Griffin |
 | 162 | 179 | Joye Sims Binion |
 | 163 | 179 | Ashley Jones |
 | 164 | 179 | Daira Largen |
@@ -192,14 +192,14 @@
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 158 | Grams |
-| 187 | 157 | Patricia Gadsden |
-| 188 | 157 | Nicholas Roddy |
+| 187 | 157 | Nicholas Roddy |
+| 188 | 157 | Patricia Gadsden |
 | 189 | 156 | Bea Miles |
 | 190 | 153 | Beth Ingham |
 | 191 | 153 | Rochelle Hazelett |
 | 192 | 152 | Cozy Snaplink |
-| 193 | 152 | Katrina E Jelks |
-| 194 | 152 | Shiny Zonebuilder |
+| 193 | 152 | Shiny Zonebuilder |
+| 194 | 152 | Katrina E Jelks |
 | 195 | 151 | Connie Mohler-Fair |
 | 196 | 151 | Loopy Fallzone |
 | 197 | 151 | Brenda Lee Vander Molen |
@@ -225,8 +225,8 @@
 | 217 | 133 | LaNette Morgan |
 | 218 | 131 | Darlene McMillan |
 | 219 | 131 | Jl |
-| 220 | 128 | Jen Lewis |
-| 221 | 128 | Cesar Barraza |
+| 220 | 128 | Cesar Barraza |
+| 221 | 128 | Jen Lewis |
 | 222 | 128 | David Bardo |
 | 223 | 127 | Marquita Sheard |
 | 224 | 127 | Jennifer Alvey |

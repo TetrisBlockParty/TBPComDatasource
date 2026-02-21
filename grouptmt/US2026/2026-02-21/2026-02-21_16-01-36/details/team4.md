@@ -88,14 +88,14 @@
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
 | 82 | 199 | Monica Daley |
-| 83 | 198 | Dustee Craddock-Harrison |
-| 84 | 198 | Mike Solo |
+| 83 | 198 | Mike Solo |
+| 84 | 198 | Dustee Craddock-Harrison |
 | 85 | 191 | loulou |
 | 86 | 189 | Calvin Dennis |
 | 87 | 187 | Swanky Fitline |
 | 88 | 186 | Jeff Brian Gates |
-| 89 | 185 | Andy Cabral |
-| 90 | 185 | shar |
+| 89 | 185 | shar |
+| 90 | 185 | Andy Cabral |
 | 91 | 181 | Carter Jones |
 | 92 | 180 | Leah Kutz Zirbel |
 | 93 | 179 | Epic Curvetile |
@@ -117,8 +117,8 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Bethany Ison |
-| 113 | 151 | Dana Scott |
+| 112 | 151 | Dana Scott |
+| 113 | 151 | Bethany Ison |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |
@@ -150,8 +150,8 @@
 | 142 | 126 | Dihcheese444 |
 | 143 | 126 | TinyLegoRose |
 | 144 | 124 | Allen Lloyd |
-| 145 | 123 | Cherrish Duren |
-| 146 | 123 | Angela Geist Jusinski |
+| 145 | 123 | Angela Geist Jusinski |
+| 146 | 123 | Cherrish Duren |
 | 147 | 122 | Sherri |
 | 148 | 122 | Carlos Ramirez |
 | 149 | 121 | Zany Shatterer |

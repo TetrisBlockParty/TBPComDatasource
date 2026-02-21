@@ -15,8 +15,8 @@
 | 7 | 3999 | Kristen Sceurman |
 | 8 | 3844 | 赵珞涵 |
 | 9 | 3819 | Cassie Donica |
-| 10 | 3567 | Taylana Mincy |
-| 11 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Rickey Goins Jr. |
+| 11 | 3567 | Taylana Mincy |
 | 12 | 3553 | Tiaira Patrice' |
 | 13 | 3514 | Brian Jefferson |
 | 14 | 3460 | Poppy Snap |
