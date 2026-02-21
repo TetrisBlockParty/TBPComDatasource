@@ -255,8 +255,8 @@
 | 247 | 160 | Jessicah Myers |
 | 248 | 160 | Nancy Pohlman |
 | 249 | 160 | Robin Kerby |
-| 250 | 160 | Rhonda Petro |
-| 251 | 160 | Cynthia Ward |
+| 250 | 160 | Cynthia Ward |
+| 251 | 160 | Rhonda Petro |
 | 252 | 159 | Phil J. Grombliniak |
 | 253 | 158 | Groovy Puzzle |
 | 254 | 158 | Taren Cowan |

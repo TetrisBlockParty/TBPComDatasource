@@ -70,8 +70,8 @@
 | 62 | 180 | joclisa |
 | 63 | 179 | Daira Largen |
 | 64 | 177 | Fallorina Susana |
-| 65 | 170 | Zippy Strikesnap |
-| 66 | 170 | Delilah belle |
+| 65 | 170 | Delilah belle |
+| 66 | 170 | Zippy Strikesnap |
 | 67 | 166 | Danielle Mogg |
 | 68 | 159 | Morgan Martinez |
 | 69 | 154 | Angela M. Fletcher |
@@ -135,8 +135,8 @@
 | 127 | 90 | Tiffany Kaupang |
 | 128 | 89 | Hyper Bridger |
 | 129 | 89 | Annie Déè |
-| 130 | 88 | Martin Bernier |
-| 131 | 88 | Funky Jumper |
+| 130 | 88 | Funky Jumper |
+| 131 | 88 | Martin Bernier |
 | 132 | 86 | Dan Rob |
 | 133 | 85 | Kevin Russell |
 | 134 | 84 | Eon Harris |

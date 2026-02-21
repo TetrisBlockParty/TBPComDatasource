@@ -40,8 +40,8 @@
 | 32 | 167 | Rachel Anne |
 | 33 | 163 | Johnathan Martinez |
 | 34 | 153 | Lucille Truesdale |
-| 35 | 147 | Courtney Cicoria |
-| 36 | 147 | Kimyatta Cavin |
+| 35 | 147 | Kimyatta Cavin |
+| 36 | 147 | Courtney Cicoria |
 | 37 | 141 | Edward White |
 | 38 | 140 | Carter Jones |
 | 39 | 140 | GreenJeepGirl |
