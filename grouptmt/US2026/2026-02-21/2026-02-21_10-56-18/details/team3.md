@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Snappy Glidepiece |
@@ -75,11 +75,11 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Trezure Gonzalez |
-| 74 | 342 | Annie Déè |
+| 73 | 342 | Annie Déè |
+| 74 | 342 | Trezure Gonzalez |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -114,8 +114,8 @@
 | 106 | 218 | mjl574 |
 | 107 | 214 | Amy Fuller Heaton |
 | 108 | 213 | Tom Nault |
-| 109 | 212 | Kristie McFarland |
-| 110 | 212 | Shunta Jacobs |
+| 109 | 212 | Shunta Jacobs |
+| 110 | 212 | Kristie McFarland |
 | 111 | 211 | Katrina Schroeder |
 | 112 | 207 | rnr junky |
 | 113 | 206 | Stephanie Blkpep Davidson |
@@ -124,8 +124,8 @@
 | 116 | 202 | Shannon Matthew Byers |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
@@ -156,8 +156,8 @@
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Beth Ingham |
-| 152 | 153 | Stephanie Whitefield |
+| 151 | 153 | Stephanie Whitefield |
+| 152 | 153 | Beth Ingham |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
@@ -212,8 +212,8 @@
 | 204 | 113 | Valerie Gendron |
 | 205 | 113 | Brian Battjes |
 | 206 | 111 | Stephanie Zahm |
-| 207 | 110 | Tye Stovall |
-| 208 | 110 | Danielle Weikel |
+| 207 | 110 | Danielle Weikel |
+| 208 | 110 | Tye Stovall |
 | 209 | 110 | Stella |
 | 210 | 109 | Fredd Thomas |
 | 211 | 109 | Diana Ibarra |
@@ -266,7 +266,7 @@
 | 258 | 92 | Jennifer Caputo |
 | 259 | 92 | Trice Thomas |
 | 260 | 91 | Martin Bernier |
-| 261 | 90 | Nichole Greene |
+| 261 | 90 | Tiffany Kaupang |
 | 262 | 90 | Alexis Ford |
 | 263 | 90 | Nichole Greene |
 | 264 | 90 | Whitney Manuel |

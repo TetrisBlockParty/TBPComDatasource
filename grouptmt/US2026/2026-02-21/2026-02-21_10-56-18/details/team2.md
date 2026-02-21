@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -219,8 +219,8 @@
 | 211 | 358 | Smashanator |
 | 212 | 357 | Shannon Byrd |
 | 213 | 356 | Deyawn Smith |
-| 214 | 354 | Brave Dropmatch |
-| 215 | 354 | Tracy Wise |
+| 214 | 354 | Tracy Wise |
+| 215 | 354 | Brave Dropmatch |
 | 216 | 353 | Joseph Musick |
 | 217 | 352 | ruth |
 | 218 | 350 | Chris Harr |
@@ -292,8 +292,8 @@
 | 284 | 278 | Noel Tarmy |
 | 285 | 278 | Peachy Blockbuilder |
 | 286 | 276 | Lindsey Leigh |
-| 287 | 276 | SwampRebel |
-| 288 | 276 | Vonceial Boone |
+| 287 | 276 | Vonceial Boone |
+| 288 | 276 | SwampRebel |
 | 289 | 275 | Cheeky Brickmatch |
 | 290 | 275 | Shiny Rollzone |
 | 291 | 275 | Ann Matzkanin |
@@ -368,8 +368,8 @@
 | 360 | 234 | Manny Trindade |
 | 361 | 234 | Jennifer Leigh |
 | 362 | 234 | Jaybee Nguyen |
-| 363 | 233 | Robin Kerby |
-| 364 | 233 | Jumpy Gridclear |
+| 363 | 233 | Jumpy Gridclear |
+| 364 | 233 | Robin Kerby |
 | 365 | 232 | Amber Brion |
 | 366 | 231 | Dylan Thomason |
 | 367 | 231 | Hong Tang |
@@ -416,8 +416,8 @@
 | 408 | 200 | LaWanda Powell |
 | 409 | 200 | Sarah Ridenour |
 | 410 | 199 | Fi Ne |
-| 411 | 199 | Jessica Sutter |
-| 412 | 199 | Jenny Castro |
+| 411 | 199 | Jenny Castro |
+| 412 | 199 | Jessica Sutter |
 | 413 | 198 | Angie Bolton Workman |
 | 414 | 198 | Alyssa Dean |
 | 415 | 197 | Alyssa Nadine Medelez |
@@ -806,7 +806,7 @@
 | 798 | 107 | Traci Johnson |
 | 799 | 107 | Foxxo |
 | 800 | 107 | Dara |
-| 801 | 107 | Funky Riseclear |
+| 801 | 107 | Northphilly Fly |
 | 802 | 107 | Eileen Hale |
 | 803 | 107 | Funky Riseclear |
 | 804 | 106 | Jessica Wayne Cornwall |
