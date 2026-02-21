@@ -305,7 +305,7 @@
 | 297 | 63 | Lincon |
 | 298 | 63 | Margo Wagner |
 | 299 | 63 | Meri Mass |
-| 300 | 63 | Lincon |
+| 300 | 63 | Swanky Crasher |
 | 301 | 62 | Katie Daniels |
 | 302 | 62 | Tofy |
 | 303 | 62 | Angela Spann |

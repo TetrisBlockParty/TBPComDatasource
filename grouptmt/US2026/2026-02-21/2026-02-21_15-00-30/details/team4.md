@@ -83,15 +83,15 @@
 | 75 | 207 | Jae Job |
 | 76 | 205 | Sarah Neathery |
 | 77 | 204 | Brittney Orengo |
-| 78 | 198 | Mike Solo |
-| 79 | 198 | Dustee Craddock-Harrison |
+| 78 | 198 | Dustee Craddock-Harrison |
+| 79 | 198 | Mike Solo |
 | 80 | 194 | Jamie Mann-Deichmann |
 | 81 | 193 | Monica Daley |
 | 82 | 191 | loulou |
 | 83 | 189 | Calvin Dennis |
 | 84 | 187 | Swanky Fitline |
-| 85 | 185 | Andy Cabral |
-| 86 | 185 | shar |
+| 85 | 185 | shar |
+| 86 | 185 | Andy Cabral |
 | 87 | 181 | Carter Jones |
 | 88 | 180 | Leah Kutz Zirbel |
 | 89 | 179 | Epic Curvetile |
@@ -139,9 +139,9 @@
 | 131 | 128 | Rio Rocha |
 | 132 | 128 | Stephme310 |
 | 133 | 127 | Dreamy Snapgrid |
-| 134 | 126 | TinyLegoRose |
-| 135 | 126 | Klo |
-| 136 | 126 | Dihcheese444 |
+| 134 | 126 | Dihcheese444 |
+| 135 | 126 | TinyLegoRose |
+| 136 | 126 | Klo |
 | 137 | 124 | Allen Lloyd |
 | 138 | 123 | Angela Geist Jusinski |
 | 139 | 123 | Cherrish Duren |

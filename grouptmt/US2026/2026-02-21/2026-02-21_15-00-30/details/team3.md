@@ -101,8 +101,8 @@
 | 93 | 320 | Or Reznitsky |
 | 94 | 316 | Fancy Cascader |
 | 95 | 313 | Elaine Webb Graves |
-| 96 | 309 | Rich LeBlanc |
-| 97 | 309 | CeceGeGe |
+| 96 | 309 | CeceGeGe |
+| 97 | 309 | Rich LeBlanc |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
 | 100 | 300 | Sherika C. McDaniels |
@@ -155,8 +155,8 @@
 | 147 | 189 | Staci George Fitzsimmons |
 | 148 | 189 | Fallorina Susana |
 | 149 | 184 | Jennie Beranek |
-| 150 | 182 | Ashley Tookes |
-| 151 | 182 | Hyper Matchzone |
+| 150 | 182 | Hyper Matchzone |
+| 151 | 182 | Ashley Tookes |
 | 152 | 181 | Karon Griffin |
 | 153 | 181 | Aerian Preston |
 | 154 | 179 | Joye Sims Binion |
@@ -191,8 +191,8 @@
 | 183 | 152 | Shiny Zonebuilder |
 | 184 | 152 | Katrina E Jelks |
 | 185 | 152 | Sarajane Lokan |
-| 186 | 151 | Brenda Lee Vander Molen |
-| 187 | 151 | MsBee |
+| 186 | 151 | MsBee |
+| 187 | 151 | Brenda Lee Vander Molen |
 | 188 | 151 | Connie Mohler-Fair |
 | 189 | 150 | Nicole Myers |
 | 190 | 149 | Bea Miles |
