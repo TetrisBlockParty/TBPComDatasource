@@ -35,8 +35,8 @@
 | 27 | 867 | Delilah belle |
 | 28 | 852 | cowboy25469 |
 | 29 | 821 | Jessica Ann |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -123,8 +123,8 @@
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
 | 117 | 212 | Shunta Jacobs |
-| 118 | 211 | Jessica Bechler |
-| 119 | 211 | Katrina Schroeder |
+| 118 | 211 | Katrina Schroeder |
+| 119 | 211 | Jessica Bechler |
 | 120 | 207 | rnr junky |
 | 121 | 206 | Stephanie Blkpep Davidson |
 | 122 | 204 | Aaron Pitkin |
@@ -276,18 +276,18 @@
 | 268 | 98 | Erika Thornton |
 | 269 | 98 | Jocelyne Baca |
 | 270 | 97 | Ashley Jones |
-| 271 | 96 | D3NO |
+| 271 | 96 | Christopher Woost |
 | 272 | 96 | Tasha Wesson-Torrence |
-| 273 | 96 | Christopher Woost |
+| 273 | 96 | D3NO |
 | 274 | 95 | Brooke Bauer |
 | 275 | 94 | Angie Harper |
 | 276 | 94 | Tracey Cox |
 | 277 | 93 | Tiffany Ford |
 | 278 | 92 | Ava Petito |
 | 279 | 92 | Jennifer Caputo |
-| 280 | 92 | Melanie Sherwood |
-| 281 | 92 | Trice Thomas |
-| 282 | 92 | Jackie-Lynne Goertzen |
+| 280 | 92 | Trice Thomas |
+| 281 | 92 | Jackie-Lynne Goertzen |
+| 282 | 92 | Melanie Sherwood |
 | 283 | 91 | Crystal Hine |
 | 284 | 91 | Martin Bernier |
 | 285 | 90 | Whitney Manuel |
@@ -303,7 +303,7 @@
 | 295 | 89 | Matty Ray |
 | 296 | 88 | Kevin Russell |
 | 297 | 88 | Kelly Koenig |
-| 298 | 88 | Kevin Russell |
+| 298 | 88 | Kate Farok |
 | 299 | 88 | RickyG |
 | 300 | 88 | Dapper Towerfit |
 | 301 | 87 | FATTY |
@@ -467,7 +467,7 @@
 | 459 | 58 | Chelsea Hall |
 | 460 | 58 | Mandie Alexandra Adones |
 | 461 | 58 | David Kozen |
-| 462 | 58 | Monnie Parra |
+| 462 | 58 | Erzulie |
 | 463 | 58 | Charles Perrone |
 | 464 | 57 | Kristina Gardner |
 | 465 | 57 | Emily Dahl |

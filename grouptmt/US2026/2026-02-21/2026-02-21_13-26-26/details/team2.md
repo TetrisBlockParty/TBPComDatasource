@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -172,8 +172,8 @@
 | 164 | 495 | Poppy Snap |
 | 165 | 488 | Teresa Gillmore |
 | 166 | 486 | MrsCandyfine As Wine Truss |
-| 167 | 485 | Gene Mills |
-| 168 | 485 | Leah Keesling |
+| 167 | 485 | Leah Keesling |
+| 168 | 485 | Gene Mills |
 | 169 | 484 | Suki Kaur |
 | 170 | 483 | Jordan Kaiser |
 | 171 | 482 | Eckoman518 |
@@ -185,8 +185,8 @@
 | 177 | 464 | Ryan Gunther |
 | 178 | 460 | Amélie Cadieux |
 | 179 | 460 | Cody Smith-Candelaria |
-| 180 | 456 | Marie Boyd Faulk |
-| 181 | 456 | Drwatson187 |
+| 180 | 456 | Drwatson187 |
+| 181 | 456 | Marie Boyd Faulk |
 | 182 | 454 | Casey Schumacher |
 | 183 | 453 | Em Chen |
 | 184 | 453 | Osun Anuket Esu |
@@ -235,8 +235,8 @@
 | 227 | 371 | Kimberly Randesi |
 | 228 | 366 | Wuntayk |
 | 229 | 365 | Christina Lewis-Vickers |
-| 230 | 364 | Shinette Dobson |
-| 231 | 364 | Brandon Armstrong |
+| 230 | 364 | Brandon Armstrong |
+| 231 | 364 | Shinette Dobson |
 | 232 | 363 | William Meussner |
 | 233 | 363 | Shameika Trail |
 | 234 | 362 | AkaLefty |
@@ -466,8 +466,8 @@
 | 458 | 198 | Angie Bolton Workman |
 | 459 | 198 | Alyssa Dean |
 | 460 | 196 | Besma Ao |
-| 461 | 196 | Cass Shirley |
-| 462 | 196 | Alexandra Reese |
+| 461 | 196 | Alexandra Reese |
+| 462 | 196 | Cass Shirley |
 | 463 | 195 | Snappy Shatterfit |
 | 464 | 195 | Darlene Bowman |
 | 465 | 194 | Kitybox |

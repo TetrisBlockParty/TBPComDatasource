@@ -51,13 +51,13 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Theo Pinnow |
-| 47 | 274 | Sweet Baker |
+| 46 | 274 | Sweet Baker |
+| 47 | 274 | Theo Pinnow |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -89,8 +89,8 @@
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
-| 84 | 173 | june october |
-| 85 | 173 | Frothy Pattern |
+| 84 | 173 | Frothy Pattern |
+| 85 | 173 | june october |
 | 86 | 173 | Jennifer Olewnik Soborowski |
 | 87 | 171 | Greg Premoe |
 | 88 | 168 | Lehrin Maria |
