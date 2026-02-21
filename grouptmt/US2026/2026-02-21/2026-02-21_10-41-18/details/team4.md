@@ -76,18 +76,18 @@
 | 68 | 180 | shar |
 | 69 | 179 | Epic Curvetile |
 | 70 | 175 | Dustee Craddock-Harrison |
-| 71 | 173 | Lori |
-| 72 | 173 | Jeff Brian Gates |
-| 73 | 171 | Melvin Baird |
-| 74 | 171 | Zethra Prenisha Rahming |
-| 75 | 170 | Leah Kutz Zirbel |
-| 76 | 170 | Girl |
+| 71 | 173 | Jeff Brian Gates |
+| 72 | 173 | Lori |
+| 73 | 171 | Zethra Prenisha Rahming |
+| 74 | 171 | Melvin Baird |
+| 75 | 170 | Girl |
+| 76 | 170 | Leah Kutz Zirbel |
 | 77 | 167 | Denise Carlson |
 | 78 | 165 | Courtney Cicoria |
 | 79 | 165 | Casey Grabner |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Holly Jolly |
-| 82 | 159 | Justin Hannigan |
+| 81 | 159 | Justin Hannigan |
+| 82 | 159 | Holly Jolly |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |

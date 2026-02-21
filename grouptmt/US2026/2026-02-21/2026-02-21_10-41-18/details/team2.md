@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -190,9 +190,9 @@
 | 182 | 411 | Ricky Fortune |
 | 183 | 409 | Sparkles |
 | 184 | 406 | Erin StFrancis |
-| 185 | 400 | Rhonda Milstead |
-| 186 | 400 | Crystie Hicks |
-| 187 | 400 | Tammy Allen |
+| 185 | 400 | Crystie Hicks |
+| 186 | 400 | Tammy Allen |
+| 187 | 400 | Rhonda Milstead |
 | 188 | 397 | Ashley Guernsey-Martin |
 | 189 | 397 | coleksquad |
 | 190 | 394 | Em Chen |
@@ -286,8 +286,8 @@
 | 278 | 282 | Carl Bradshaw |
 | 279 | 282 | Shaun Church |
 | 280 | 281 | Maegan Beaule |
-| 281 | 280 | Autumn Schaeffer |
-| 282 | 280 | Shorty |
+| 281 | 280 | Shorty |
+| 282 | 280 | Autumn Schaeffer |
 | 283 | 278 | Noel Tarmy |
 | 284 | 278 | Peachy Blockbuilder |
 | 285 | 276 | Vonceial Boone |
