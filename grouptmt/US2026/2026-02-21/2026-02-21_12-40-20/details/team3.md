@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -110,27 +110,27 @@
 | 102 | 229 | Angeline Joseph |
 | 103 | 227 | Crimson |
 | 104 | 225 | Speedy Bridger |
-| 105 | 224 | Mykal Burton |
-| 106 | 224 | Judi Dobson |
+| 105 | 224 | Judi Dobson |
+| 106 | 224 | Mykal Burton |
 | 107 | 223 | Jeana Gilbert |
 | 108 | 222 | Jimmie Clemons |
 | 109 | 222 | Nicole Flippo |
 | 110 | 218 | mjl574 |
 | 111 | 214 | Amy Fuller Heaton |
 | 112 | 213 | Tom Nault |
-| 113 | 212 | Shunta Jacobs |
-| 114 | 212 | Kristie McFarland |
+| 113 | 212 | Kristie McFarland |
+| 114 | 212 | Shunta Jacobs |
 | 115 | 211 | Katrina Schroeder |
 | 116 | 207 | rnr junky |
 | 117 | 206 | Stephanie Blkpep Davidson |
 | 118 | 204 | Aaron Pitkin |
 | 119 | 202 | Twisty Brick LT |
 | 120 | 199 | joclisa |
-| 121 | 195 | Jenny Hrndz |
-| 122 | 195 | Nicha Hooker |
+| 121 | 195 | Nicha Hooker |
+| 122 | 195 | Jenny Hrndz |
 | 123 | 194 | glichmod |
-| 124 | 193 | Clever Shiftsnap |
-| 125 | 193 | Stephanie Burtin |
+| 124 | 193 | Stephanie Burtin |
+| 125 | 193 | Clever Shiftsnap |
 | 126 | 192 | Chasity |
 | 127 | 191 | Giddy Twistbuilder |
 | 128 | 191 | Scott Carleton |
@@ -167,8 +167,8 @@
 | 159 | 156 | Joey Banks |
 | 160 | 155 | BŘŰŤİÇŨŚ |
 | 161 | 154 | Angela M. Fletcher |
-| 162 | 153 | Stephanie Whitefield |
-| 163 | 153 | Beth Ingham |
+| 162 | 153 | Beth Ingham |
+| 163 | 153 | Stephanie Whitefield |
 | 164 | 152 | Shiny Zonebuilder |
 | 165 | 151 | MsBee |
 | 166 | 150 | Nicole Myers |

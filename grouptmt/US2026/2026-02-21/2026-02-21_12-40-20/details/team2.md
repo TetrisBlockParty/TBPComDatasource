@@ -206,8 +206,8 @@
 | 198 | 406 | Erin StFrancis |
 | 199 | 402 | Joshua Mandel |
 | 200 | 400 | Tammy Allen |
-| 201 | 400 | Crystie Hicks |
-| 202 | 400 | Rhonda Milstead |
+| 201 | 400 | Rhonda Milstead |
+| 202 | 400 | Crystie Hicks |
 | 203 | 397 | Ashley Guernsey-Martin |
 | 204 | 397 | coleksquad |
 | 205 | 396 | Steven Marshaun |
@@ -251,8 +251,8 @@
 | 243 | 344 | Glenn Cobbins |
 | 244 | 343 | F-X |
 | 245 | 334 | Moni Foxe |
-| 246 | 334 | Felicia Lynn |
-| 247 | 334 | Missie Lawson Gebhardt |
+| 246 | 334 | Missie Lawson Gebhardt |
+| 247 | 334 | Felicia Lynn |
 | 248 | 333 | Brittney Jean |
 | 249 | 333 | ShinyRose |
 | 250 | 332 | TF Dyer |

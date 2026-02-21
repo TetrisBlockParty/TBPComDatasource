@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | Jay28 |
-| 96 | 147 | 030Synner |
+| 95 | 147 | 030Synner |
+| 96 | 147 | Jay28 |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -135,10 +135,10 @@
 | 127 | 120 | Joshua Guess |
 | 128 | 119 | Kristin Manee |
 | 129 | 118 | Leslie Nicole |
-| 130 | 116 | Diana Houts |
-| 131 | 116 | Stephme310 |
-| 132 | 115 | Ultramarine |
-| 133 | 115 | Jayk |
+| 130 | 116 | Stephme310 |
+| 131 | 116 | Diana Houts |
+| 132 | 115 | Jayk |
+| 133 | 115 | Ultramarine |
 | 134 | 113 | Adam Randall |
 | 135 | 113 | Andria Lynn |
 | 136 | 112 | Austin Owens |

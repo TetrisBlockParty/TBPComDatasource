@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Thorne Shumate |
-| 80 | 190 | Sweetts |
+| 79 | 190 | Sweetts |
+| 80 | 190 | Thorne Shumate |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |
@@ -154,7 +154,7 @@
 | 146 | 108 | Tavia |
 | 147 | 108 | Dizzy Party |
 | 148 | 107 | Jodee Woods |
-| 149 | 106 | Bloknboy |
+| 149 | 106 | Ash Galvan |
 | 150 | 106 | Aimee Horton |
 | 151 | 106 | Bloknboy |
 | 152 | 105 | Ty Brown |
@@ -183,10 +183,10 @@
 | 175 | 90 | Madison Wicks |
 | 176 | 90 | TSwag |
 | 177 | 89 | Mara Hilker |
-| 178 | 88 | Larry Tilton |
-| 179 | 88 | MommaKFC |
-| 180 | 87 | Jessi Sauer |
-| 181 | 87 | Jenny Gingrich Fuentes |
+| 178 | 88 | MommaKFC |
+| 179 | 88 | Larry Tilton |
+| 180 | 87 | Jenny Gingrich Fuentes |
+| 181 | 87 | Jessi Sauer |
 | 182 | 86 | Basment Living |
 | 183 | 85 | Steve Schneider |
 | 184 | 85 | John Barron |
