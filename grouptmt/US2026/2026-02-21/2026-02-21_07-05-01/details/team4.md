@@ -47,12 +47,12 @@
 | 39 | 274 | Elizabeth Sallas |
 | 40 | 270 | Livvy |
 | 41 | 265 | Julian Garcia |
-| 42 | 256 | Dustin Robert |
-| 43 | 256 | Brittney Griggs |
+| 42 | 256 | Brittney Griggs |
+| 43 | 256 | Dustin Robert |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Michelle Marie |
-| 47 | 231 | Jenna Ingersoll |
+| 46 | 231 | Jenna Ingersoll |
+| 47 | 231 | Michelle Marie |
 | 48 | 226 | Breannah Grafe |
 | 49 | 219 | Lisa Davis |
 | 50 | 207 | Alyssa Papen |
@@ -67,8 +67,8 @@
 | 59 | 179 | Epic Curvetile |
 | 60 | 175 | Dustee Craddock-Harrison |
 | 61 | 171 | Clarence Patawaran |
-| 62 | 170 | Girl |
-| 63 | 170 | Leah Kutz Zirbel |
+| 62 | 170 | Leah Kutz Zirbel |
+| 63 | 170 | Girl |
 | 64 | 167 | Denise Carlson |
 | 65 | 165 | Courtney Cicoria |
 | 66 | 165 | Casey Grabner |
@@ -135,8 +135,8 @@
 | 127 | 104 | Damn Libra |
 | 128 | 104 | Adam Randall |
 | 129 | 102 | Faja |
-| 130 | 101 | Stephme310 |
-| 131 | 101 | Michelle Morris |
+| 130 | 101 | Michelle Morris |
+| 131 | 101 | Stephme310 |
 | 132 | 101 | Saulc1991 |
 | 133 | 100 | Zethra Prenisha Rahming |
 | 134 | 100 | Alexandra Karavias |
@@ -151,9 +151,9 @@
 | 143 | 92 | Kristin MacDonald |
 | 144 | 90 | Judy Cox |
 | 145 | 90 | No Strings Attached Ra |
-| 146 | 89 | Shainne Brewer |
+| 146 | 89 | Brandi Durig |
 | 147 | 89 | Jeremy Steines |
-| 148 | 89 | Brandi Durig |
+| 148 | 89 | Shainne Brewer |
 | 149 | 88 | Kesha Brady |
 | 150 | 88 | Heather Tushner |
 | 151 | 87 | Lauren Lamb |
@@ -162,7 +162,7 @@
 | 154 | 86 | Destiney Carter |
 | 155 | 85 | Mimi |
 | 156 | 85 | Shukee Lo |
-| 157 | 85 | Mimi |
+| 157 | 85 | shark tato |
 | 158 | 85 | Tim Knight-ten |
 | 159 | 85 | Dizzy Tiley |
 | 160 | 85 | Chastity Mitchell |

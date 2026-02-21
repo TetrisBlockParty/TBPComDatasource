@@ -100,8 +100,8 @@
 | 92 | 224 | Mykal Burton |
 | 93 | 223 | Jeana Gilbert |
 | 94 | 222 | Jimmie Clemons |
-| 95 | 218 | mjl574 |
-| 96 | 218 | Judi Dobson |
+| 95 | 218 | Judi Dobson |
+| 96 | 218 | mjl574 |
 | 97 | 214 | Amy Fuller Heaton |
 | 98 | 213 | Tom Nault |
 | 99 | 211 | Blocked |
@@ -121,19 +121,19 @@
 | 113 | 191 | Scott Carleton |
 | 114 | 187 | Katrina Schroeder |
 | 115 | 184 | Jennie Beranek |
-| 116 | 182 | Hyper Matchzone |
-| 117 | 182 | Ashley Tookes |
-| 118 | 180 | Fallorina Susana |
-| 119 | 180 | Tessina Dewey-Mancino |
+| 116 | 182 | Ashley Tookes |
+| 117 | 182 | Hyper Matchzone |
+| 118 | 180 | Tessina Dewey-Mancino |
+| 119 | 180 | Fallorina Susana |
 | 120 | 179 | Daira Largen |
 | 121 | 178 | Khaleada McGill Banks |
 | 122 | 176 | Ryan Williams |
 | 123 | 168 | Mendoza Lee Christy |
-| 124 | 166 | Kelly Ann Child |
-| 125 | 166 | Danielle Mogg |
+| 124 | 166 | Danielle Mogg |
+| 125 | 166 | Kelly Ann Child |
 | 126 | 164 | rosy |
-| 127 | 159 | Jone |
-| 128 | 159 | Morgan Martinez |
+| 127 | 159 | Morgan Martinez |
+| 128 | 159 | Jone |
 | 129 | 158 | Grams |
 | 130 | 156 | Joey Banks |
 | 131 | 155 | BŘŰŤİÇŨŚ |
@@ -180,8 +180,8 @@
 | 172 | 121 | Juliana Dottore |
 | 173 | 120 | Jessica |
 | 174 | 118 | Fancy Curver |
-| 175 | 116 | Skinny Baldez |
-| 176 | 116 | Joy Petroski |
+| 175 | 116 | Joy Petroski |
+| 176 | 116 | Skinny Baldez |
 | 177 | 115 | Jennifer Alvey |
 | 178 | 114 | Jessica Bechler |
 | 179 | 114 | Nicholas Roddy |

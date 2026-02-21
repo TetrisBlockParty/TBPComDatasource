@@ -163,8 +163,8 @@
 | 155 | 409 | Sparkles |
 | 156 | 406 | Erin StFrancis |
 | 157 | 401 | Poppy Snap |
-| 158 | 400 | Tammy Allen |
-| 159 | 400 | Crystie Hicks |
+| 158 | 400 | Crystie Hicks |
+| 159 | 400 | Tammy Allen |
 | 160 | 397 | Ashley Guernsey-Martin |
 | 161 | 391 | Chilly Bridgepiece |
 | 162 | 391 | Steven Marshaun |
@@ -175,8 +175,8 @@
 | 167 | 381 | Amanda Ferrell |
 | 168 | 380 | Calandra Shaya Robinson |
 | 169 | 380 | Joshua Mandel |
-| 170 | 377 | Roy Salyer |
-| 171 | 377 | Liberty |
+| 170 | 377 | Liberty |
+| 171 | 377 | Roy Salyer |
 | 172 | 367 | Nashu |
 | 173 | 365 | April Dawn Gussler |
 | 174 | 364 | Shinette Dobson |
@@ -261,9 +261,9 @@
 | 253 | 271 | Toni Lynn |
 | 254 | 270 | Angela Lynn |
 | 255 | 270 | Alexandra Weir |
-| 256 | 268 | Chummy Blockbuilder |
-| 257 | 268 | Tanya Parsons |
-| 258 | 268 | Vanessa Moreno |
+| 256 | 268 | Tanya Parsons |
+| 257 | 268 | Vanessa Moreno |
+| 258 | 268 | Chummy Blockbuilder |
 | 259 | 267 | Mindy Leigh Head |
 | 260 | 266 | Mighty Shatterfit |
 | 261 | 266 | Autumn Schaeffer |
