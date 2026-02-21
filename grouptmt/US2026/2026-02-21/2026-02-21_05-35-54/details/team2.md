@@ -115,8 +115,8 @@
 | 107 | 520 | Kimberly Schall |
 | 108 | 519 | Maria Escobar |
 | 109 | 517 | Debra Williams |
-| 110 | 515 | Kaylee McCafferty |
-| 111 | 515 | Real Ri |
+| 110 | 515 | Real Ri |
+| 111 | 515 | Kaylee McCafferty |
 | 112 | 513 | Butta |
 | 113 | 509 | Kelli Wells |
 | 114 | 505 | Danielle Johnson-Chandler |
@@ -206,8 +206,8 @@
 | 198 | 309 | James Zaragoza |
 | 199 | 305 | Kristopher Miller |
 | 200 | 303 | Crystal Greene |
-| 201 | 299 | Christy Krissie |
-| 202 | 299 | Deborah Miller |
+| 201 | 299 | Deborah Miller |
+| 202 | 299 | Christy Krissie |
 | 203 | 296 | Amber Gray |
 | 204 | 296 | Jennifer Casey-Kay |
 | 205 | 295 | Diallo Sparkman |
@@ -232,8 +232,8 @@
 | 224 | 276 | Lindsey Leigh |
 | 225 | 276 | Vonceial Boone |
 | 226 | 275 | Shiny Rollzone |
-| 227 | 274 | Melissa Holsinger |
-| 228 | 274 | Jamie Stevey |
+| 227 | 274 | Jamie Stevey |
+| 228 | 274 | Melissa Holsinger |
 | 229 | 273 | Jenna Nance |
 | 230 | 272 | August Hale |
 | 231 | 271 | Ann Marie Davis |
@@ -252,7 +252,7 @@
 | 244 | 262 | Taren Cowan |
 | 245 | 261 | Leah |
 | 246 | 261 | Peppy Zone |
-| 247 | 261 | Ann Matzkanin |
+| 247 | 261 | MrsClaudette Will'sIam Matthews |
 | 248 | 260 | Denise Rickman |
 | 249 | 260 | Dapper Dasher |
 | 250 | 257 | Shameika Trail |
@@ -291,8 +291,8 @@
 | 283 | 237 | Altamirano Michael |
 | 284 | 236 | Frisky Riserbuilder |
 | 285 | 235 | Kimberly Mitchell |
-| 286 | 233 | Alyssia Tancredi |
-| 287 | 233 | Robin Kerby |
+| 286 | 233 | Robin Kerby |
+| 287 | 233 | Alyssia Tancredi |
 | 288 | 232 | Amber Brion |
 | 289 | 232 | Maddy Petersen |
 | 290 | 231 | Ginger |

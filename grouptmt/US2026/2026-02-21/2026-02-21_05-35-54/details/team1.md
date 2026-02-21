@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
 | 28 | 274 | Theo Pinnow |
 | 29 | 274 | Sweet Baker |
 | 30 | 265 | Jennifer Cates |
@@ -83,8 +83,8 @@
 | 75 | 144 | Plucky Ziggy |
 | 76 | 144 | femmefatale |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Susanna Guerry |
-| 79 | 141 | Blaire Bruckoff |
+| 78 | 141 | Blaire Bruckoff |
+| 79 | 141 | Susanna Guerry |
 | 80 | 137 | Nadine Velardo |
 | 81 | 134 | Gary Gobin |
 | 82 | 133 | Brandi Huntington |

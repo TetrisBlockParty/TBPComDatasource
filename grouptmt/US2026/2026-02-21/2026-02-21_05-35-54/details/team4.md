@@ -79,8 +79,8 @@
 | 71 | 134 | Chirpy Basepiece |
 | 72 | 134 | Jessica Bohlken |
 | 73 | 133 | Robin Watters |
-| 74 | 132 | Jenna McGeorge |
-| 75 | 132 | Degenerate |
+| 74 | 132 | Degenerate |
+| 75 | 132 | Jenna McGeorge |
 | 76 | 131 | Zany Twisterfit |
 | 77 | 130 | Lucas J Sutton |
 | 78 | 130 | Casey Jeffcoat |
@@ -89,8 +89,8 @@
 | 81 | 126 | Tanner Lund |
 | 82 | 125 | Lauren Scott |
 | 83 | 123 | Nugget |
-| 84 | 122 | Sherri |
-| 85 | 122 | Shelly Chandler |
+| 84 | 122 | Shelly Chandler |
+| 85 | 122 | Sherri |
 | 86 | 121 | Smiley Tiltbuilder |
 | 87 | 120 | Joshua Guess |
 | 88 | 119 | Kristin Manee |
@@ -158,8 +158,8 @@
 | 150 | 80 | Melissa Adams |
 | 151 | 79 | Nubian1 |
 | 152 | 79 | Shainne Brewer |
-| 153 | 78 | Jessica Miller |
-| 154 | 78 | Zesty Linkgrid |
+| 153 | 78 | Zesty Linkgrid |
+| 154 | 78 | Jessica Miller |
 | 155 | 77 | Zippy Gridlock |
 | 156 | 77 | Chris Alexinas |
 | 157 | 76 | Madison Sweere |
