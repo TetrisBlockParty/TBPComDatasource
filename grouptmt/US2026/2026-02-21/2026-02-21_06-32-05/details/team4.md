@@ -44,8 +44,8 @@
 | 36 | 274 | Elizabeth Sallas |
 | 37 | 270 | Livvy |
 | 38 | 265 | Julian Garcia |
-| 39 | 256 | Dustin Robert |
-| 40 | 256 | Brittney Griggs |
+| 39 | 256 | Brittney Griggs |
+| 40 | 256 | Dustin Robert |
 | 41 | 244 | Isabella Blanco |
 | 42 | 241 | Desi Desporte |
 | 43 | 231 | Michelle Marie |
@@ -53,8 +53,8 @@
 | 45 | 226 | Breannah Grafe |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |
-| 48 | 204 | Brittney Orengo |
-| 49 | 204 | David Lay |
+| 48 | 204 | David Lay |
+| 49 | 204 | Brittney Orengo |
 | 50 | 198 | Mike Solo |
 | 51 | 197 | Autum Leigh |
 | 52 | 194 | Jamie Mann-Deichmann |
@@ -65,8 +65,8 @@
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Casey Grabner |
-| 61 | 165 | Courtney Cicoria |
+| 60 | 165 | Courtney Cicoria |
+| 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
 | 63 | 159 | Swanky Fitline |
 | 64 | 159 | Justin Hannigan |
@@ -95,8 +95,8 @@
 | 87 | 129 | John Brunetti |
 | 88 | 127 | Tanner Lund |
 | 89 | 125 | Lauren Scott |
-| 90 | 123 | Nugget |
-| 91 | 123 | Bubbly Puzzler |
+| 90 | 123 | Bubbly Puzzler |
+| 91 | 123 | Nugget |
 | 92 | 122 | Shelly Chandler |
 | 93 | 122 | Sherri |
 | 94 | 121 | Smiley Tiltbuilder |

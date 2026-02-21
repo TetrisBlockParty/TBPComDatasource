@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -112,8 +112,8 @@
 | 104 | 541 | SaraMarie Eveland |
 | 105 | 540 | Charvi' Carter |
 | 106 | 534 | Poppy Snapper |
-| 107 | 531 | Chris Wanner |
-| 108 | 531 | Lola Contreras |
+| 107 | 531 | Lola Contreras |
+| 108 | 531 | Chris Wanner |
 | 109 | 529 | Tonya Morgan |
 | 110 | 527 | Stacy Stickle |
 | 111 | 525 | Tommy Tha Boss Gunz |
@@ -121,8 +121,8 @@
 | 113 | 520 | Kimberly Schall |
 | 114 | 519 | Maria Escobar |
 | 115 | 517 | Debra Williams |
-| 116 | 515 | Real Ri |
-| 117 | 515 | Kaylee McCafferty |
+| 116 | 515 | Kaylee McCafferty |
+| 117 | 515 | Real Ri |
 | 118 | 513 | Butta |
 | 119 | 510 | Ashley House |
 | 120 | 509 | Kelli Wells |
@@ -160,8 +160,8 @@
 | 152 | 409 | Sparkles |
 | 153 | 406 | Erin StFrancis |
 | 154 | 401 | Poppy Snap |
-| 155 | 400 | Tammy Allen |
-| 156 | 400 | Crystie Hicks |
+| 155 | 400 | Crystie Hicks |
+| 156 | 400 | Tammy Allen |
 | 157 | 397 | Ashley Guernsey-Martin |
 | 158 | 391 | Chilly Bridgepiece |
 | 159 | 391 | Steven Marshaun |
@@ -183,17 +183,17 @@
 | 175 | 348 | Richard Horton |
 | 176 | 348 | Cherica Taylor |
 | 177 | 345 | Brenda Messer |
-| 178 | 345 | Wuntayk |
-| 179 | 345 | Rhianna DiLorenzo |
-| 180 | 344 | Christina Lewis-Vickers |
-| 181 | 344 | Julie Kresal |
+| 178 | 345 | Rhianna DiLorenzo |
+| 179 | 345 | Wuntayk |
+| 180 | 344 | Julie Kresal |
+| 181 | 344 | Christina Lewis-Vickers |
 | 182 | 342 | Tracy Wise |
 | 183 | 339 | Qiana Sanders |
 | 184 | 337 | Joseph Musick |
 | 185 | 336 | Tralonda Weeks |
 | 186 | 334 | Missie Lawson Gebhardt |
-| 187 | 334 | Moni Foxe |
-| 188 | 334 | Nashu |
+| 187 | 334 | Nashu |
+| 188 | 334 | Moni Foxe |
 | 189 | 332 | TF Dyer |
 | 190 | 331 | Brave Dropmatch |
 | 191 | 330 | Victoria Moore-Smith |
@@ -215,10 +215,10 @@
 | 207 | 306 | Kristopher Miller |
 | 208 | 305 | Libby Hicks |
 | 209 | 303 | Crystal Greene |
-| 210 | 299 | Deborah Miller |
-| 211 | 299 | Christy Krissie |
-| 212 | 296 | Amber Gray |
-| 213 | 296 | Jennifer Casey-Kay |
+| 210 | 299 | Christy Krissie |
+| 211 | 299 | Deborah Miller |
+| 212 | 296 | Jennifer Casey-Kay |
+| 213 | 296 | Amber Gray |
 | 214 | 295 | Angela Bonquiqui Dinish |
 | 215 | 295 | Diallo Sparkman |
 | 216 | 295 | Zany Clusterbuilder |
@@ -274,8 +274,8 @@
 | 266 | 255 | Santana Miyagi |
 | 267 | 254 | Rose Fx |
 | 268 | 254 | Julie Hamilton |
-| 269 | 252 | Alezandra Smith |
-| 270 | 252 | Matt Johnson |
+| 269 | 252 | Matt Johnson |
+| 270 | 252 | Alezandra Smith |
 | 271 | 251 | Ann Knutson Anderson |
 | 272 | 250 | Barbra Miller |
 | 273 | 249 | Nicky Jackson |
@@ -352,8 +352,8 @@
 | 344 | 201 | Peppy Snapfall |
 | 345 | 200 | Sarah Ridenour |
 | 346 | 200 | Cheeky Brickmatch |
-| 347 | 199 | Jessica Sutter |
-| 348 | 199 | Jenny Castro |
+| 347 | 199 | Jenny Castro |
+| 348 | 199 | Jessica Sutter |
 | 349 | 198 | Angie Bolton Workman |
 | 350 | 198 | Alyssa Dean |
 | 351 | 196 | Besma Ao |
@@ -362,8 +362,8 @@
 | 354 | 196 | Cass Shirley |
 | 355 | 195 | Snappy Shatterfit |
 | 356 | 194 | Hoppy Brickmatch |
-| 357 | 194 | Kimberly Ann |
-| 358 | 194 | Mike Aprilliano |
+| 357 | 194 | Mike Aprilliano |
+| 358 | 194 | Kimberly Ann |
 | 359 | 193 | Nika Bee |
 | 360 | 193 | Kelly Ann McCormick |
 | 361 | 193 | Matthew Turner |

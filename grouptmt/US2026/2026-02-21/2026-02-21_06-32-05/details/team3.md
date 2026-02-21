@@ -97,8 +97,8 @@
 | 89 | 224 | Mykal Burton |
 | 90 | 223 | Jeana Gilbert |
 | 91 | 222 | Jimmie Clemons |
-| 92 | 218 | Judi Dobson |
-| 93 | 218 | mjl574 |
+| 92 | 218 | mjl574 |
+| 93 | 218 | Judi Dobson |
 | 94 | 214 | Amy Fuller Heaton |
 | 95 | 213 | Tom Nault |
 | 96 | 207 | rnr junky |
@@ -154,8 +154,8 @@
 | 146 | 134 | Emma |
 | 147 | 134 | DanceLuvLaugh |
 | 148 | 131 | Jl |
-| 149 | 127 | Marquita Sheard |
-| 150 | 127 | Aerian Preston |
+| 149 | 127 | Aerian Preston |
+| 150 | 127 | Marquita Sheard |
 | 151 | 126 | Kelly Ann Child |
 | 152 | 126 | Stephanie Burtin |
 | 153 | 126 | Dan Rob |
