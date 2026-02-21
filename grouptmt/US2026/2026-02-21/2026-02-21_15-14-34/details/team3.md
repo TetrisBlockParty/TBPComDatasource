@@ -152,8 +152,8 @@
 | 144 | 193 | Clever Shiftsnap |
 | 145 | 191 | Giddy Twistbuilder |
 | 146 | 191 | Scott Carleton |
-| 147 | 189 | Staci George Fitzsimmons |
-| 148 | 189 | Sissy Lowery Davis |
+| 147 | 189 | Sissy Lowery Davis |
+| 148 | 189 | Staci George Fitzsimmons |
 | 149 | 189 | Fallorina Susana |
 | 150 | 184 | Jennie Beranek |
 | 151 | 182 | Ashley Tookes |

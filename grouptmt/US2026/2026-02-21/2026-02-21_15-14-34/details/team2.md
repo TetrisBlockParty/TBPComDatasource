@@ -310,8 +310,8 @@
 | 302 | 327 | Danielle Simmons |
 | 303 | 326 | Elisheva Mizrachi |
 | 304 | 324 | Kiana Boschh |
-| 305 | 323 | Briana Alexander |
-| 306 | 323 | KhaosLord |
+| 305 | 323 | KhaosLord |
+| 306 | 323 | Briana Alexander |
 | 307 | 323 | Trista Dumais |
 | 308 | 318 | CC |
 | 309 | 318 | Alexandra Weir |
@@ -659,8 +659,8 @@
 | 651 | 155 | Jacob Huffman |
 | 652 | 154 | Cini |
 | 653 | 154 | Lydia Greenman |
-| 654 | 154 | Bryan Werleman |
-| 655 | 154 | Ashe Corso |
+| 654 | 154 | Ashe Corso |
+| 655 | 154 | Bryan Werleman |
 | 656 | 154 | Lori Maring |
 | 657 | 153 | Luna |
 | 658 | 153 | Keila Adames |

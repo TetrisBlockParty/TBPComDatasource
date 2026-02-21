@@ -109,8 +109,8 @@
 | 101 | 164 | ThaEviLJeNiuZ |
 | 102 | 162 | Shauna Havard |
 | 103 | 161 | Joeliecea Cobb |
-| 104 | 160 | ZeeZee |
-| 105 | 160 | Stacey Stano |
+| 104 | 160 | Stacey Stano |
+| 105 | 160 | ZeeZee |
 | 106 | 159 | Holly Jolly |
 | 107 | 157 | quicksand420 |
 | 108 | 154 | Zany Twisterfit |
@@ -159,8 +159,8 @@
 | 151 | 119 | Kristin Manee |
 | 152 | 118 | Leslie Nicole |
 | 153 | 116 | Diana Houts |
-| 154 | 115 | Jayk |
-| 155 | 115 | Ultramarine |
+| 154 | 115 | Ultramarine |
+| 155 | 115 | Jayk |
 | 156 | 113 | Adam Randall |
 | 157 | 112 | Austin Owens |
 | 158 | 112 | Bryan Hodgins |
@@ -205,8 +205,8 @@
 | 197 | 94 | Chastity Mitchell |
 | 198 | 94 | Kim Hunt |
 | 199 | 93 | Zesty Twistbuilder |
-| 200 | 90 | Amy Suckarieh |
-| 201 | 90 | No Strings Attached Ra |
+| 200 | 90 | No Strings Attached Ra |
+| 201 | 90 | Amy Suckarieh |
 | 202 | 89 | mike |
 | 203 | 89 | shark tato |
 | 204 | 88 | Lindsey Gonzalez |
