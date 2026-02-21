@@ -122,8 +122,8 @@
 | 114 | 148 | Shauntina Burke |
 | 115 | 146 | Irual Hctrab |
 | 116 | 145 | BigWeenie69 |
-| 117 | 144 | Plucky Ziggy |
-| 118 | 144 | femmefatale |
+| 117 | 144 | femmefatale |
+| 118 | 144 | Plucky Ziggy |
 | 119 | 143 | Sarah Marie |
 | 120 | 142 | Colleen Wise |
 | 121 | 141 | Blaire Bruckoff |
@@ -165,17 +165,17 @@
 | 157 | 111 | Chirpy Smasher |
 | 158 | 110 | Madison Wicks |
 | 159 | 110 | Garcia Bailey |
-| 160 | 108 | Luciano Moreira |
+| 160 | 108 | Tavia |
 | 161 | 108 | Dizzy Party |
-| 162 | 108 | Tavia |
+| 162 | 108 | Luciano Moreira |
 | 163 | 107 | Jodee Woods |
 | 164 | 107 | LD1 |
 | 165 | 106 | Bloknboy |
 | 166 | 106 | Alyssa Ingram |
 | 167 | 105 | Ty Brown |
 | 168 | 105 | Angela Fairbank |
-| 169 | 104 | Bindi |
-| 170 | 104 | Charla Pross-Fugleberg |
+| 169 | 104 | Charla Pross-Fugleberg |
+| 170 | 104 | Bindi |
 | 171 | 103 | Chantelle Ceno |
 | 172 | 102 | Yvonne Marie |
 | 173 | 101 | Loony Fitzone |

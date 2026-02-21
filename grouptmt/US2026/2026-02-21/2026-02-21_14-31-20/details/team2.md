@@ -156,8 +156,8 @@
 | 148 | 549 | Kaylee McCafferty |
 | 149 | 546 | Charvi' Carter |
 | 150 | 541 | SaraMarie Eveland |
-| 151 | 534 | Poppy Snapper |
-| 152 | 534 | Stephen Stephen |
+| 151 | 534 | Stephen Stephen |
+| 152 | 534 | Poppy Snapper |
 | 153 | 534 | Real Ri |
 | 154 | 531 | Chris Wanner |
 | 155 | 527 | Adira Brown |
@@ -251,8 +251,8 @@
 | 243 | 371 | Kimberly Randesi |
 | 244 | 366 | Wuntayk |
 | 245 | 365 | Christina Lewis-Vickers |
-| 246 | 364 | Brandon Armstrong |
-| 247 | 364 | Shinette Dobson |
+| 246 | 364 | Shinette Dobson |
+| 247 | 364 | Brandon Armstrong |
 | 248 | 363 | William Meussner |
 | 249 | 362 | AkaLefty |
 | 250 | 359 | Brainy Smurf |
@@ -279,8 +279,8 @@
 | 271 | 338 | Mr. Street Stack |
 | 272 | 335 | Brooke Leigh Strube |
 | 273 | 334 | Moni Foxe |
-| 274 | 334 | Missie Lawson Gebhardt |
-| 275 | 334 | Felicia Lynn |
+| 274 | 334 | Felicia Lynn |
+| 275 | 334 | Missie Lawson Gebhardt |
 | 276 | 333 | Brittney Jean |
 | 277 | 333 | ShinyRose |
 | 278 | 332 | Skyler Morgan |
@@ -363,8 +363,8 @@
 | 355 | 275 | Shiny Rollzone |
 | 356 | 275 | Cheeky Brickmatch |
 | 357 | 274 | Lonne Emade |
-| 358 | 274 | Melissa Holsinger |
-| 359 | 274 | Jamie Stevey |
+| 358 | 274 | Jamie Stevey |
+| 359 | 274 | Melissa Holsinger |
 | 360 | 274 | August Hale |
 | 361 | 273 | Vanessa Moreno |
 | 362 | 273 | Ray Ray Prado |
@@ -376,8 +376,8 @@
 | 368 | 269 | Reece Smith |
 | 369 | 268 | Chummy Blockbuilder |
 | 370 | 267 | Britt Stunkel |
-| 371 | 266 | Denise Rickman |
-| 372 | 266 | Mike Aprilliano |
+| 371 | 266 | Mike Aprilliano |
+| 372 | 266 | Denise Rickman |
 | 373 | 264 | Dapper Dasher |
 | 374 | 264 | Nicole Cannon |
 | 375 | 264 | Thomas Hughes |
@@ -903,7 +903,7 @@
 | 895 | 114 | Jennifer Foster |
 | 896 | 114 | Jaquare M-bul Wizlee |
 | 897 | 114 | Kristen Rogers |
-| 898 | 114 | Jennifer Foster |
+| 898 | 114 | Kimberly Mcmullen |
 | 899 | 113 | SwifftFox |
 | 900 | 113 | Della Hole |
 | 901 | 113 | Spunky Dash |

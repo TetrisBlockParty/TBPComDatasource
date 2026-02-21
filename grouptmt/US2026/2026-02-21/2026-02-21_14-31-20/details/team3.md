@@ -33,8 +33,8 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Briarblack |
-| 29 | 867 | Delilah belle |
+| 28 | 867 | Delilah belle |
+| 29 | 867 | Briarblack |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
 | 32 | 810 | Zippy Strikesnap |
@@ -179,13 +179,13 @@
 | 171 | 159 | Stephanie Whitefield |
 | 172 | 159 | Morgan Martinez |
 | 173 | 158 | Grams |
-| 174 | 157 | Nicholas Roddy |
-| 175 | 157 | Patricia Gadsden |
+| 174 | 157 | Patricia Gadsden |
+| 175 | 157 | Nicholas Roddy |
 | 176 | 156 | Joey Banks |
 | 177 | 154 | Angela M. Fletcher |
 | 178 | 153 | Beth Ingham |
-| 179 | 152 | Katrina E Jelks |
-| 180 | 152 | Shiny Zonebuilder |
+| 179 | 152 | Shiny Zonebuilder |
+| 180 | 152 | Katrina E Jelks |
 | 181 | 151 | Nikki Pags |
 | 182 | 151 | MsBee |
 | 183 | 151 | Brenda Lee Vander Molen |
