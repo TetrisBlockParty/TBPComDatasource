@@ -200,8 +200,8 @@
 | 192 | 314 | Amanda West |
 | 193 | 313 | Brittany Alicia |
 | 194 | 312 | Michelle Pike |
-| 195 | 311 | Dizzy Zone |
-| 196 | 311 | Véronique Lévesque Sabourin |
+| 195 | 311 | Véronique Lévesque Sabourin |
+| 196 | 311 | Dizzy Zone |
 | 197 | 309 | James Zaragoza |
 | 198 | 306 | Stephanie Neuburger |
 | 199 | 305 | Kristopher Miller |
@@ -243,8 +243,8 @@
 | 235 | 268 | Chummy Blockbuilder |
 | 236 | 268 | Vanessa Moreno |
 | 237 | 267 | Mindy Leigh Head |
-| 238 | 266 | Autumn Schaeffer |
-| 239 | 266 | Mighty Shatterfit |
+| 238 | 266 | Mighty Shatterfit |
+| 239 | 266 | Autumn Schaeffer |
 | 240 | 266 | Joyce Johnson Vaughn |
 | 241 | 263 | Taylor Flowers |
 | 242 | 262 | Taren Cowan |
@@ -294,8 +294,8 @@
 | 286 | 233 | Robin Kerby |
 | 287 | 233 | Alyssia Tancredi |
 | 288 | 232 | Amber Brion |
-| 289 | 231 | Ginger |
-| 290 | 231 | Dylan Thomason |
+| 289 | 231 | Dylan Thomason |
+| 290 | 231 | Ginger |
 | 291 | 230 | snkylnk |
 | 292 | 228 | Michelle Sager |
 | 293 | 227 | Nutty Matchline |
@@ -323,8 +323,8 @@
 | 315 | 205 | Lylymom |
 | 316 | 204 | Ali Gralski |
 | 317 | 204 | Rebecca Doughman |
-| 318 | 203 | coleksquad |
-| 319 | 203 | Gary Stash |
+| 318 | 203 | Gary Stash |
+| 319 | 203 | coleksquad |
 | 320 | 202 | Christina Ashley |
 | 321 | 201 | Zombi3 |
 | 322 | 201 | Peppy Snapfall |
@@ -339,8 +339,8 @@
 | 331 | 196 | Alexandra Reese |
 | 332 | 196 | Neko Preston |
 | 333 | 194 | Hoppy Brickmatch |
-| 334 | 194 | Kimberly Ann |
-| 335 | 194 | Mike Aprilliano |
+| 334 | 194 | Mike Aprilliano |
+| 335 | 194 | Kimberly Ann |
 | 336 | 193 | Nika Bee |
 | 337 | 192 | Angie Bolton Workman |
 | 338 | 191 | Lauren Fitzgerald Thomas |
@@ -362,8 +362,8 @@
 | 354 | 183 | Shaun Church |
 | 355 | 183 | Kimmy Newman |
 | 356 | 182 | Donna M Carter |
-| 357 | 181 | Julay |
-| 358 | 181 | Wacky Cascade |
+| 357 | 181 | Wacky Cascade |
+| 358 | 181 | Julay |
 | 359 | 180 | Jackie Lucas |
 | 360 | 180 | Peter Palestino |
 | 361 | 180 | Niceday |

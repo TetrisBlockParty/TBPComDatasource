@@ -121,8 +121,8 @@
 | 113 | 158 | Grams |
 | 114 | 156 | Joey Banks |
 | 115 | 155 | BŘŰŤİÇŨŚ |
-| 116 | 154 | Louise Stacy Sisson |
-| 117 | 154 | Angela M. Fletcher |
+| 116 | 154 | Angela M. Fletcher |
+| 117 | 154 | Louise Stacy Sisson |
 | 118 | 153 | Beth Ingham |
 | 119 | 152 | Shiny Zonebuilder |
 | 120 | 149 | Bea Miles |
@@ -134,8 +134,8 @@
 | 126 | 140 | Gumbo |
 | 127 | 135 | Nicole Flippo |
 | 128 | 134 | Emma |
-| 129 | 134 | Elaine Webb Graves |
-| 130 | 134 | DanceLuvLaugh |
+| 129 | 134 | DanceLuvLaugh |
+| 130 | 134 | Elaine Webb Graves |
 | 131 | 133 | Giddy Twistbuilder |
 | 132 | 131 | Jl |
 | 133 | 127 | Marquita Sheard |
