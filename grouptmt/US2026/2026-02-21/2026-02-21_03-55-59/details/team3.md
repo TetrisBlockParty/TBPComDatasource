@@ -38,8 +38,8 @@
 | 30 | 533 | Sarah Fehring |
 | 31 | 528 | Natasha Jones |
 | 32 | 507 | Stephanie Allmon |
-| 33 | 476 | Susan Valentino |
-| 34 | 476 | Snappy Glidepiece |
+| 33 | 476 | Snappy Glidepiece |
+| 34 | 476 | Susan Valentino |
 | 35 | 474 | Delilah belle |
 | 36 | 466 | Kay |
 | 37 | 465 | Gracie |
@@ -103,8 +103,8 @@
 | 95 | 166 | Danielle Mogg |
 | 96 | 164 | rosy |
 | 97 | 161 | Twisty Brick LT |
-| 98 | 159 | Jone |
-| 99 | 159 | Morgan Martinez |
+| 98 | 159 | Morgan Martinez |
+| 99 | 159 | Jone |
 | 100 | 156 | Joey Banks |
 | 101 | 155 | Shannon Matthew Byers |
 | 102 | 154 | Angela M. Fletcher |

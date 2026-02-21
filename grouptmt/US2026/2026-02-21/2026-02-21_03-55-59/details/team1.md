@@ -98,8 +98,8 @@
 | 90 | 110 | Heidi Feurer |
 | 91 | 108 | Tavia |
 | 92 | 107 | Jodee Woods |
-| 93 | 105 | Barry Mac'Ockner |
-| 94 | 105 | Flashy Rotator |
+| 93 | 105 | Flashy Rotator |
+| 94 | 105 | Barry Mac'Ockner |
 | 95 | 103 | Ash Galvan |
 | 96 | 102 | Jennifer ManWarren |
 | 97 | 99 | Ty Brown |
@@ -110,16 +110,16 @@
 | 102 | 95 | Spunky Piecebuilder |
 | 103 | 94 | Bindi |
 | 104 | 94 | Luciano Moreira |
-| 105 | 93 | Adryane Schnase |
-| 106 | 93 | Loony Fitzone |
+| 105 | 93 | Loony Fitzone |
+| 106 | 93 | Adryane Schnase |
 | 107 | 92 | Jessica Russell |
 | 108 | 90 | Madison Wicks |
 | 109 | 90 | TSwag |
 | 110 | 87 | Jessi Sauer |
-| 111 | 86 | Desiree Deschaine Havee |
-| 112 | 86 | Basment Living |
-| 113 | 85 | Steve Schneider |
-| 114 | 85 | Trippy Redd |
+| 111 | 86 | Basment Living |
+| 112 | 86 | Desiree Deschaine Havee |
+| 113 | 85 | Trippy Redd |
+| 114 | 85 | Steve Schneider |
 | 115 | 84 | Yvonne Marie |
 | 116 | 84 | Speedy Snapfall |
 | 117 | 84 | Charla Pross-Fugleberg |
@@ -153,8 +153,8 @@
 | 145 | 74 | Owicked1 |
 | 146 | 73 | Shanae Grant |
 | 147 | 72 | Tipsy Strikerpiece |
-| 148 | 71 | Brandi Egbert |
-| 149 | 71 | John Kim |
+| 148 | 71 | John Kim |
+| 149 | 71 | Brandi Egbert |
 | 150 | 70 | Seth Wesson |
 | 151 | 70 | Daring Fitclear |
 | 152 | 69 | Christina Torres |

@@ -262,8 +262,8 @@
 | 254 | 227 | snkylnk |
 | 255 | 227 | Sanaa Nounoussa |
 | 256 | 227 | Nutty Matchline |
-| 257 | 226 | Leslie Ann Carter |
-| 258 | 226 | Vonceial Boone |
+| 257 | 226 | Vonceial Boone |
+| 258 | 226 | Leslie Ann Carter |
 | 259 | 224 | Arwa Fatimah |
 | 260 | 223 | Matt Johnson |
 | 261 | 223 | LegoCarpet |
@@ -294,15 +294,15 @@
 | 286 | 202 | Christina Ashley |
 | 287 | 200 | Cheeky Brickmatch |
 | 288 | 200 | Sarah Ridenour |
-| 289 | 199 | Jessica Sutter |
-| 290 | 199 | Jenny Castro |
+| 289 | 199 | Jenny Castro |
+| 290 | 199 | Jessica Sutter |
 | 291 | 198 | Andea Beck |
 | 292 | 198 | Peppy Zone |
 | 293 | 198 | Alyssa Dean |
 | 294 | 197 | Smashanator |
 | 295 | 197 | Amber Gray |
-| 296 | 196 | Alexandra Reese |
-| 297 | 196 | Cass Shirley |
+| 296 | 196 | Cass Shirley |
+| 297 | 196 | Alexandra Reese |
 | 298 | 196 | Besma Ao |
 | 299 | 194 | Kimberly Ann |
 | 300 | 194 | Mike Aprilliano |
@@ -338,10 +338,10 @@
 | 330 | 172 | Joshua Mullings |
 | 331 | 171 | Cappin You |
 | 332 | 170 | Darlene Bowman |
-| 333 | 170 | Rhonda Milstead |
-| 334 | 170 | Kenya Felix |
-| 335 | 169 | Eddie Perez |
-| 336 | 169 | Lively Catcher |
+| 333 | 170 | Kenya Felix |
+| 334 | 170 | Rhonda Milstead |
+| 335 | 169 | Lively Catcher |
+| 336 | 169 | Eddie Perez |
 | 337 | 169 | Fi Ne |
 | 338 | 168 | Kati Russeau |
 | 339 | 168 | Robin |

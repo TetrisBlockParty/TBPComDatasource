@@ -26,8 +26,8 @@
 | 18 | 345 | Ancient Intuition |
 | 19 | 339 | LisaJo Picken Buchanan |
 | 20 | 338 | Nope Young |
-| 21 | 330 | Johnathan Martinez |
-| 22 | 330 | Samantha Peterson |
+| 21 | 330 | Samantha Peterson |
+| 22 | 330 | Johnathan Martinez |
 | 23 | 324 | Isabel Aguilar |
 | 24 | 320 | Kimyatta Cavin |
 | 25 | 315 | Carolyn Wallace |
@@ -53,8 +53,8 @@
 | 45 | 170 | Girl |
 | 46 | 168 | Anthony Magaraci |
 | 47 | 153 | Jae Job |
-| 48 | 152 | Courtney Cicoria |
-| 49 | 152 | Denise Carlson |
+| 48 | 152 | Denise Carlson |
+| 49 | 152 | Courtney Cicoria |
 | 50 | 151 | Sarah Neathery |
 | 51 | 148 | Carter Jones |
 | 52 | 145 | Edward White |
