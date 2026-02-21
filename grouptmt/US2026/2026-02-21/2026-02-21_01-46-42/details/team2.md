@@ -143,8 +143,8 @@
 | 135 | 306 | Véronique Lévesque Sabourin |
 | 136 | 297 | James Zaragoza |
 | 137 | 296 | Jennifer Casey-Kay |
-| 138 | 295 | Zany Clusterbuilder |
-| 139 | 295 | Diallo Sparkman |
+| 138 | 295 | Diallo Sparkman |
+| 139 | 295 | Zany Clusterbuilder |
 | 140 | 290 | Jessie McDougald |
 | 141 | 287 | Claire |
 | 142 | 286 | Juanita Lyons |
@@ -164,14 +164,14 @@
 | 156 | 266 | Autumn Schaeffer |
 | 157 | 266 | Joyce Johnson Vaughn |
 | 158 | 265 | Wuntayk |
-| 159 | 263 | Taylor Flowers |
-| 160 | 263 | Shiny Rollzone |
+| 159 | 263 | Shiny Rollzone |
+| 160 | 263 | Taylor Flowers |
 | 161 | 263 | Oscar Bernie |
 | 162 | 261 | MrsClaudette Will'sIam Matthews |
 | 163 | 257 | Alex Hill |
 | 164 | 256 | Dapper Dasher |
-| 165 | 255 | Michelle Pike |
-| 166 | 255 | Santana Miyagi |
+| 165 | 255 | Santana Miyagi |
+| 166 | 255 | Michelle Pike |
 | 167 | 254 | Libby Hicks |
 | 168 | 252 | Alezandra Smith |
 | 169 | 251 | Shameika Trail |

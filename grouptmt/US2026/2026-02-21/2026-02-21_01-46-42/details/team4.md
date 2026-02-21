@@ -74,8 +74,8 @@
 | 66 | 100 | Andria Lynn |
 | 67 | 100 | Jeff Brian Gates |
 | 68 | 99 | YoMomma |
-| 69 | 98 | Duck |
-| 70 | 98 | Stephme310 |
+| 69 | 98 | Stephme310 |
+| 70 | 98 | Duck |
 | 71 | 96 | TinyLegoRose |
 | 72 | 96 | Zappy Snaplink |
 | 73 | 92 | Kristin MacDonald |
