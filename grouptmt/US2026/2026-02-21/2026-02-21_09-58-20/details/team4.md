@@ -174,8 +174,8 @@
 | 166 | 88 | Kesha Brady |
 | 167 | 88 | Heather Tushner |
 | 168 | 87 | Jen Caldwell |
-| 169 | 87 | Bradley Reeves |
-| 170 | 87 | Lauren Lamb |
+| 169 | 87 | Lauren Lamb |
+| 170 | 87 | Bradley Reeves |
 | 171 | 86 | amy |
 | 172 | 86 | Jacob Richard |
 | 173 | 86 | Destiney Carter |

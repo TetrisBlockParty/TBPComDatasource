@@ -45,8 +45,8 @@
 | 37 | 294 | Jacqueline Williams |
 | 38 | 291 | Nancy Green |
 | 39 | 281 | Maria C. Hernandez |
-| 40 | 274 | Theo Pinnow |
-| 41 | 274 | Sweet Baker |
+| 40 | 274 | Sweet Baker |
+| 41 | 274 | Theo Pinnow |
 | 42 | 265 | Jennifer Cates |
 | 43 | 256 | Robert Benito |
 | 44 | 256 | Shauna Loe |
@@ -70,11 +70,11 @@
 | 62 | 198 | Happy Snapbuild |
 | 63 | 198 | Billie Dawn Sparks |
 | 64 | 197 | Cynthia Bradley |
-| 65 | 194 | Giggly Builderline |
-| 66 | 194 | Sharon Reynolds |
+| 65 | 194 | Sharon Reynolds |
+| 66 | 194 | Giggly Builderline |
 | 67 | 193 | Lachelle Dillon |
-| 68 | 192 | Shaykmia |
-| 69 | 192 | Mandyy Rae |
+| 68 | 192 | Mandyy Rae |
+| 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
 | 71 | 190 | Sweetts |
 | 72 | 190 | Thorne Shumate |
@@ -90,8 +90,8 @@
 | 82 | 162 | Patrick Luckenbill |
 | 83 | 161 | Abbey Crespo |
 | 84 | 156 | Jessie Lynn |
-| 85 | 155 | Standia Civil |
-| 86 | 155 | David DeSantis |
+| 85 | 155 | David DeSantis |
+| 86 | 155 | Standia Civil |
 | 87 | 153 | Shiny Gridmatch |
 | 88 | 153 | Bhelle Sumile |
 | 89 | 152 | Jacqueline Unique |
@@ -100,9 +100,9 @@
 | 92 | 148 | Shauntina Burke |
 | 93 | 147 | Veronica Eve |
 | 94 | 145 | BigWeenie69 |
-| 95 | 144 | femmefatale |
+| 95 | 144 | Plucky Ziggy |
 | 96 | 144 | Tanya Carpenter-Reynolds |
-| 97 | 144 | Plucky Ziggy |
+| 97 | 144 | femmefatale |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
 | 100 | 138 | Gary Gobin |
@@ -111,8 +111,8 @@
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Brandi Huntington |
 | 105 | 133 | Breanna Luna |
-| 106 | 132 | Davery Spencer Adair |
-| 107 | 132 | Lori Sanders- Davis |
+| 106 | 132 | Lori Sanders- Davis |
+| 107 | 132 | Davery Spencer Adair |
 | 108 | 130 | Dandy Basegrid |
 | 109 | 128 | lil mickey |
 | 110 | 128 | Uhog SF |
@@ -220,7 +220,7 @@
 | 212 | 73 | Shanae Grant |
 | 213 | 73 | Silly Align |
 | 214 | 72 | Tipsy Strikerpiece |
-| 215 | 70 | Seth Wesson |
+| 215 | 70 | Daring Fitclear |
 | 216 | 70 | Henry Lanier |
 | 217 | 70 | Ric Hard Hernandez |
 | 218 | 70 | Seth Wesson |

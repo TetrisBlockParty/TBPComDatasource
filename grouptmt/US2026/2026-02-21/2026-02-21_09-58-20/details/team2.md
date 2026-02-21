@@ -248,8 +248,8 @@
 | 240 | 312 | Michelle Pike |
 | 241 | 311 | Véronique Lévesque Sabourin |
 | 242 | 311 | Dar |
-| 243 | 309 | Oscar Bernie |
-| 244 | 309 | Ginger |
+| 243 | 309 | Ginger |
+| 244 | 309 | Oscar Bernie |
 | 245 | 309 | James Zaragoza |
 | 246 | 306 | Kristopher Miller |
 | 247 | 305 | Libby Hicks |
@@ -333,8 +333,8 @@
 | 325 | 248 | Dany Murillo |
 | 326 | 248 | Maddy Petersen |
 | 327 | 248 | Bubbly Snapfit |
-| 328 | 247 | Andrea Devery Beck |
-| 329 | 247 | Fancy Twister |
+| 328 | 247 | Fancy Twister |
+| 329 | 247 | Andrea Devery Beck |
 | 330 | 246 | Kathryn Townsley |
 | 331 | 246 | Alyssia Tancredi |
 | 332 | 246 | Stephanie Lumanlan |

@@ -33,8 +33,8 @@
 | 25 | 852 | cowboy25469 |
 | 26 | 821 | Jessica Ann |
 | 27 | 818 | Delilah belle |
-| 28 | 810 | Zippy Strikesnap |
-| 29 | 810 | Shane Wilson Jr. |
+| 28 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Zippy Strikesnap |
 | 30 | 772 | Corie A. Brinson |
 | 31 | 733 | Chummy Shatterer |
 | 32 | 714 | Amber Jones |
@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -153,8 +153,8 @@
 | 145 | 156 | Joey Banks |
 | 146 | 155 | BŘŰŤİÇŨŚ |
 | 147 | 154 | Angela M. Fletcher |
-| 148 | 153 | Beth Ingham |
-| 149 | 153 | Stephanie Whitefield |
+| 148 | 153 | Stephanie Whitefield |
+| 149 | 153 | Beth Ingham |
 | 150 | 152 | Shiny Zonebuilder |
 | 151 | 151 | MsBee |
 | 152 | 150 | Nicole Myers |
