@@ -51,8 +51,8 @@
 | 43 | 140 | Carter Jones |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Robin Watters |
-| 47 | 133 | Jessica Bohlken |
+| 46 | 133 | Jessica Bohlken |
+| 47 | 133 | Robin Watters |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
@@ -90,8 +90,8 @@
 | 82 | 89 | Zesty Twistbuilder |
 | 83 | 88 | Heather Tushner |
 | 84 | 88 | Brandi Durig |
-| 85 | 87 | Jen Caldwell |
-| 86 | 87 | Malakai Darien Fox |
+| 85 | 87 | Malakai Darien Fox |
+| 86 | 87 | Jen Caldwell |
 | 87 | 87 | Lauren Lamb |
 | 88 | 86 | amy |
 | 89 | 85 | shark tato |

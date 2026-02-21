@@ -58,9 +58,9 @@
 | 50 | 147 | Veronica Eve |
 | 51 | 145 | Lachelle Dillon |
 | 52 | 145 | BigWeenie69 |
-| 53 | 144 | Tana |
-| 54 | 144 | Tanya Carpenter-Reynolds |
-| 55 | 144 | Plucky Ziggy |
+| 53 | 144 | Plucky Ziggy |
+| 54 | 144 | Tana |
+| 55 | 144 | Tanya Carpenter-Reynolds |
 | 56 | 141 | Susanna Guerry |
 | 57 | 138 | Joe Smith |
 | 58 | 137 | Nadine Velardo |
@@ -85,8 +85,8 @@
 | 77 | 108 | Tavia |
 | 78 | 107 | Jodee Woods |
 | 79 | 105 | Barry Mac'Ockner |
-| 80 | 100 | Ash Galvan |
-| 81 | 100 | comrade fish |
+| 80 | 100 | comrade fish |
+| 81 | 100 | Ash Galvan |
 | 82 | 99 | Bhelle Sumile |
 | 83 | 98 | Flashy Rotator |
 | 84 | 98 | Gary Gobin |
@@ -99,8 +99,8 @@
 | 91 | 93 | Adryane Schnase |
 | 92 | 91 | Spunky Piecebuilder |
 | 93 | 90 | Madison Wicks |
-| 94 | 87 | TSwag |
-| 95 | 87 | Jessi Sauer |
+| 94 | 87 | Jessi Sauer |
+| 95 | 87 | TSwag |
 | 96 | 85 | Steve Schneider |
 | 97 | 84 | Charla Pross-Fugleberg |
 | 98 | 84 | Yvonne Marie |

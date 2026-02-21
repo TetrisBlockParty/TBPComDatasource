@@ -201,8 +201,8 @@
 | 193 | 241 | Sabrina Burton |
 | 194 | 240 | Adam Erikson |
 | 195 | 239 | Tee Jaleesa |
-| 196 | 238 | Cheery Matchzone |
-| 197 | 238 | Cheech Dta |
+| 196 | 238 | Cheech Dta |
+| 197 | 238 | Cheery Matchzone |
 | 198 | 236 | Frisky Riserbuilder |
 | 199 | 233 | Alyssia Tancredi |
 | 200 | 232 | Chummy Blockbuilder |
@@ -236,7 +236,7 @@
 | 228 | 202 | Christina Ashley |
 | 229 | 201 | Em Chen |
 | 230 | 200 | Poppy Snapper |
-| 231 | 200 | Rebecca Doughman |
+| 231 | 200 | Howard Forest |
 | 232 | 200 | Sarah Ridenour |
 | 233 | 200 | Rebecca Doughman |
 | 234 | 200 | Cheeky Brickmatch |
