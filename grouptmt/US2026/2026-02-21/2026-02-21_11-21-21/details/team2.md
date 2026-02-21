@@ -174,8 +174,8 @@
 | 166 | 460 | Cody Smith-Candelaria |
 | 167 | 456 | Drwatson187 |
 | 168 | 454 | Casey Schumacher |
-| 169 | 453 | Mischelle Clay |
-| 170 | 453 | Osun Anuket Esu |
+| 169 | 453 | Osun Anuket Esu |
+| 170 | 453 | Mischelle Clay |
 | 171 | 452 | Alezandra Smith |
 | 172 | 450 | Giggy Blocker |
 | 173 | 450 | Cheech Dta |
@@ -223,8 +223,8 @@
 | 215 | 357 | Shannon Byrd |
 | 216 | 356 | Deyawn Smith |
 | 217 | 356 | Shameika Trail |
-| 218 | 354 | Tracy Wise |
-| 219 | 354 | Brave Dropmatch |
+| 218 | 354 | Brave Dropmatch |
+| 219 | 354 | Tracy Wise |
 | 220 | 353 | Joseph Musick |
 | 221 | 352 | ruth |
 | 222 | 350 | Chris Harr |
@@ -273,8 +273,8 @@
 | 265 | 299 | Christy Krissie |
 | 266 | 299 | Deborah Miller |
 | 267 | 297 | Brenda Utphall |
-| 268 | 296 | Amber Gray |
-| 269 | 296 | Jennifer Casey-Kay |
+| 268 | 296 | Jennifer Casey-Kay |
+| 269 | 296 | Amber Gray |
 | 270 | 296 | Jennifer Darby |
 | 271 | 295 | Angela Bonquiqui Dinish |
 | 272 | 295 | Zany Clusterbuilder |
@@ -319,8 +319,8 @@
 | 311 | 269 | Reece Smith |
 | 312 | 268 | Tanya Parsons |
 | 313 | 268 | Chummy Blockbuilder |
-| 314 | 266 | Mighty Shatterfit |
-| 315 | 266 | Mike Aprilliano |
+| 314 | 266 | Mike Aprilliano |
+| 315 | 266 | Mighty Shatterfit |
 | 316 | 264 | Dapper Dasher |
 | 317 | 263 | Taylor Flowers |
 | 318 | 262 | Taren Cowan |
@@ -367,8 +367,8 @@
 | 359 | 236 | Julio A Laracuente |
 | 360 | 236 | Niceday |
 | 361 | 235 | Kimberly Mitchell |
-| 362 | 234 | Manny Trindade |
-| 363 | 234 | Jennifer Leigh |
+| 362 | 234 | Jennifer Leigh |
+| 363 | 234 | Manny Trindade |
 | 364 | 234 | Jaybee Nguyen |
 | 365 | 233 | Robin Kerby |
 | 366 | 233 | Jumpy Gridclear |
@@ -650,8 +650,8 @@
 | 642 | 133 | Gina Caulder |
 | 643 | 133 | Britt Woolston |
 | 644 | 133 | candy |
-| 645 | 133 | Epic Stackzone |
-| 646 | 133 | Rae Rae |
+| 645 | 133 | Rae Rae |
+| 646 | 133 | Epic Stackzone |
 | 647 | 132 | Mr. Street Stack |
 | 648 | 132 | Samie Dayle |
 | 649 | 132 | Chilly Rollblock |
@@ -679,10 +679,10 @@
 | 671 | 129 | Tiny |
 | 672 | 129 | Jordyn Morrison |
 | 673 | 129 | Kara Jennifer |
-| 674 | 128 | Russell J Gindlesperger II |
-| 675 | 128 | Mine |
-| 676 | 128 | Carrie Pike |
-| 677 | 128 | Amanda Diegel |
+| 674 | 128 | Mine |
+| 675 | 128 | Russell J Gindlesperger II |
+| 676 | 128 | Amanda Diegel |
+| 677 | 128 | Carrie Pike |
 | 678 | 128 | Adelina Roth |
 | 679 | 128 | Nate Lee |
 | 680 | 128 | Diana Fitzwater |

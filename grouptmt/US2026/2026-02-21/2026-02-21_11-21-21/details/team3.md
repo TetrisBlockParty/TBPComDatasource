@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Trezure Gonzalez |
 | 74 | 342 | Annie Déè |
@@ -166,8 +166,8 @@
 | 158 | 149 | Trisha Balmer |
 | 159 | 149 | Angel Mendez |
 | 160 | 147 | Sashay Tapae Simpson |
-| 161 | 146 | Latoya Mayne |
-| 162 | 146 | Denita Mungro |
+| 161 | 146 | Denita Mungro |
+| 162 | 146 | Latoya Mayne |
 | 163 | 145 | Bryan Byrd |
 | 164 | 142 | Erica Anderson |
 | 165 | 140 | Carrie Huskey |
@@ -263,9 +263,9 @@
 | 255 | 95 | Brooke Bauer |
 | 256 | 94 | Angie Harper |
 | 257 | 93 | Tiffany Ford |
-| 258 | 92 | Jennifer Caputo |
-| 259 | 92 | Trice Thomas |
-| 260 | 92 | Ava Petito |
+| 258 | 92 | Ava Petito |
+| 259 | 92 | Jennifer Caputo |
+| 260 | 92 | Trice Thomas |
 | 261 | 92 | Jackie-Lynne Goertzen |
 | 262 | 91 | Martin Bernier |
 | 263 | 90 | Whitney Manuel |

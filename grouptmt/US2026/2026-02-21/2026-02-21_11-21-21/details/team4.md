@@ -85,8 +85,8 @@
 | 77 | 170 | Girl |
 | 78 | 170 | Leah Kutz Zirbel |
 | 79 | 167 | Denise Carlson |
-| 80 | 165 | Casey Grabner |
-| 81 | 165 | Courtney Cicoria |
+| 80 | 165 | Courtney Cicoria |
+| 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
 | 84 | 159 | Justin Hannigan |
@@ -100,8 +100,8 @@
 | 92 | 146 | Peachy Fall |
 | 93 | 141 | Malakai Darien Fox |
 | 94 | 140 | Shannon Ferrari |
-| 95 | 138 | Shainne Brewer |
-| 96 | 138 | Nugget |
+| 95 | 138 | Nugget |
+| 96 | 138 | Shainne Brewer |
 | 97 | 136 | Tanner Lund |
 | 98 | 134 | Chirpy Basepiece |
 | 99 | 134 | Jessica Bohlken |
@@ -115,8 +115,8 @@
 | 107 | 131 | Zany Twisterfit |
 | 108 | 130 | Casey Jeffcoat |
 | 109 | 130 | Lucas J Sutton |
-| 110 | 129 | Landon Keith Graffeo |
-| 111 | 129 | John Brunetti |
+| 110 | 129 | John Brunetti |
+| 111 | 129 | Landon Keith Graffeo |
 | 112 | 126 | Dihcheese444 |
 | 113 | 125 | Lauren Scott |
 | 114 | 124 | Serena Goodridge |
@@ -136,7 +136,7 @@
 | 128 | 115 | Jayk |
 | 129 | 115 | Ultramarine |
 | 130 | 113 | Andria Lynn |
-| 131 | 112 | Austin Owens |
+| 131 | 112 | Brittany Marsh |
 | 132 | 112 | Bryan Hodgins |
 | 133 | 112 | Austin Owens |
 | 134 | 111 | Lazy Blocker |
@@ -153,8 +153,8 @@
 | 145 | 105 | 🥔🥔 Spudz |
 | 146 | 104 | Damn Libra |
 | 147 | 104 | YoMomma |
-| 148 | 102 | Faja |
-| 149 | 102 | ĥuf |
+| 148 | 102 | ĥuf |
+| 149 | 102 | Faja |
 | 150 | 101 | Saulc1991 |
 | 151 | 101 | Michelle Morris |
 | 152 | 100 | Alexandra Karavias |
