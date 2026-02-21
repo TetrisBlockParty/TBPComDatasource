@@ -91,11 +91,11 @@
 | 83 | 674 | Dannette Goldberg-Richards |
 | 84 | 672 | Wendy Harder Gage |
 | 85 | 665 | Dineisha Carpenter |
-| 86 | 658 | Pacynthia Williams |
-| 87 | 658 | Vistabrat |
+| 86 | 658 | Vistabrat |
+| 87 | 658 | Pacynthia Williams |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Anna Edwards |
-| 90 | 649 | Stephanie Chapman |
+| 89 | 649 | Stephanie Chapman |
+| 90 | 649 | Anna Edwards |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -286,8 +286,8 @@
 | 278 | 255 | Santana Miyagi |
 | 279 | 254 | Rose Fx |
 | 280 | 254 | Julie Hamilton |
-| 281 | 252 | Matt Johnson |
-| 282 | 252 | Cheech Dta |
+| 281 | 252 | Cheech Dta |
+| 282 | 252 | Matt Johnson |
 | 283 | 251 | Ann Knutson Anderson |
 | 284 | 250 | Barbra Miller |
 | 285 | 250 | Peachy Blockbuilder |

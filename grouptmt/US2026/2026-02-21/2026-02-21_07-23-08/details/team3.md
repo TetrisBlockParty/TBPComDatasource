@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -183,8 +183,8 @@
 | 175 | 121 | Boldy Corner |
 | 176 | 120 | Jessica |
 | 177 | 118 | Fancy Curver |
-| 178 | 116 | Joy Petroski |
-| 179 | 116 | Skinny Baldez |
+| 178 | 116 | Skinny Baldez |
+| 179 | 116 | Joy Petroski |
 | 180 | 115 | Jennifer Alvey |
 | 181 | 114 | Jessica Bechler |
 | 182 | 114 | Nicholas Roddy |
@@ -195,8 +195,8 @@
 | 187 | 109 | Brave Brickster |
 | 188 | 109 | Fredd Thomas |
 | 189 | 109 | Diana Ibarra |
-| 190 | 108 | LaTanya GeminiondaRise Johnson |
-| 191 | 108 | Rachel Napper |
+| 190 | 108 | Rachel Napper |
+| 191 | 108 | LaTanya GeminiondaRise Johnson |
 | 192 | 107 | Sherry Ogden |
 | 193 | 106 | Desiree Gold |
 | 194 | 106 | Eon Harris |

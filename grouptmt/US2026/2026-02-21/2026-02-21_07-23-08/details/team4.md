@@ -248,8 +248,8 @@
 | 240 | 61 | Jackson Karen |
 | 241 | 61 | Bradley Reeves |
 | 242 | 60 | Ahleek Mitchell |
-| 243 | 59 | Jen Mattei |
-| 244 | 59 | Jasmine S Caldwell |
+| 243 | 59 | Jasmine S Caldwell |
+| 244 | 59 | Jen Mattei |
 | 245 | 58 | Rebecca Morris |
 | 246 | 58 | Autumn Kumzi |
 | 247 | 58 | Paige Kittles |
@@ -345,7 +345,7 @@
 | 337 | 42 | Kim Klutz Olson |
 | 338 | 42 | Natasha Crossley |
 | 339 | 42 | Cursed Hag |
-| 340 | 42 | Groovy Brickmatch |
+| 340 | 42 | Zzz |
 | 341 | 42 | Mary Ann Pabukis |
 | 342 | 42 | Groovy Brickmatch |
 | 343 | 42 | Kristina Black |

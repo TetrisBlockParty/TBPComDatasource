@@ -44,8 +44,8 @@
 | 36 | 274 | Theo Pinnow |
 | 37 | 274 | Sweet Baker |
 | 38 | 265 | Jennifer Cates |
-| 39 | 256 | Tipsy Column |
-| 40 | 256 | Robert Benito |
+| 39 | 256 | Robert Benito |
+| 40 | 256 | Tipsy Column |
 | 41 | 244 | Franswa |
 | 42 | 243 | Sarah Roberts |
 | 43 | 241 | Kristen Roles Robben |
@@ -78,8 +78,8 @@
 | 70 | 165 | GATOR |
 | 71 | 163 | Chad Atchley |
 | 72 | 162 | Patrick Luckenbill |
-| 73 | 161 | Jennifer Olewnik Soborowski |
-| 74 | 161 | Abbey Crespo |
+| 73 | 161 | Abbey Crespo |
+| 74 | 161 | Jennifer Olewnik Soborowski |
 | 75 | 155 | David DeSantis |
 | 76 | 155 | Standia Civil |
 | 77 | 153 | Shiny Gridmatch |
