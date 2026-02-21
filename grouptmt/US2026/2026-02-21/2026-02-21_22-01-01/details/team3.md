@@ -229,8 +229,8 @@
 | 221 | 175 | Tasha Wesson-Torrence |
 | 222 | 174 | Marquita Sheard |
 | 223 | 172 | Grams |
-| 224 | 169 | Emma |
-| 225 | 169 | BŘŰŤİÇŨŚ |
+| 224 | 169 | BŘŰŤİÇŨŚ |
+| 225 | 169 | Emma |
 | 226 | 168 | MsBee |
 | 227 | 166 | Betty Rosas |
 | 228 | 166 | Beth Ingham |

@@ -521,8 +521,8 @@
 | 513 | 278 | Demeka Dangerous-kisses Johnson |
 | 514 | 278 | Niceday |
 | 515 | 277 | Stephanie Lumanlan |
-| 516 | 277 | NickyBrooks |
-| 517 | 277 | August Hale |
+| 516 | 277 | August Hale |
+| 517 | 277 | NickyBrooks |
 | 518 | 277 | Anthony Mignacca |
 | 519 | 276 | Patrick Bartlett |
 | 520 | 276 | Irene Jones |

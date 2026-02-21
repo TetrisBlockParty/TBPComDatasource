@@ -69,8 +69,8 @@
 | 61 | 395 | Christine Marie |
 | 62 | 390 | Carlton Unfiltered |
 | 63 | 388 | YoMomma |
-| 64 | 376 | Marie-Pier Desjardins |
-| 65 | 376 | quicksand420 |
+| 64 | 376 | quicksand420 |
+| 65 | 376 | Marie-Pier Desjardins |
 | 66 | 370 | Leslie Thomas |
 | 67 | 369 | Nope Young |
 | 68 | 367 | Joseph Guthrie |
@@ -91,8 +91,8 @@
 | 83 | 281 | Leslie Nicole |
 | 84 | 277 | KJ Pool |
 | 85 | 274 | Desi Desporte |
-| 86 | 264 | Girl |
-| 87 | 264 | Epic Curvetile |
+| 86 | 264 | Epic Curvetile |
+| 87 | 264 | Girl |
 | 88 | 258 | Brittney Orengo |
 | 89 | 257 | Jae Job |
 | 90 | 255 | Lindsay Ball |
@@ -111,8 +111,8 @@
 | 103 | 212 | Calvin Cannon |
 | 104 | 211 | Dizzy Tiley |
 | 105 | 210 | Damn Libra |
-| 106 | 208 | Chastity Mitchell |
-| 107 | 208 | Twisty Cascadezone |
+| 106 | 208 | Twisty Cascadezone |
+| 107 | 208 | Chastity Mitchell |
 | 108 | 206 | Mylo Lipscomb |
 | 109 | 205 | Sarah Neathery |
 | 110 | 204 | Dana Scott |
@@ -120,8 +120,8 @@
 | 112 | 201 | Melvin Baird |
 | 113 | 198 | Mike Solo |
 | 114 | 197 | Swanky Fitline |
-| 115 | 196 | Jeff Brian Gates |
-| 116 | 196 | Jenna McGeorge |
+| 115 | 196 | Jenna McGeorge |
+| 116 | 196 | Jeff Brian Gates |
 | 117 | 194 | Zany Twisterfit |
 | 118 | 192 | Shauna Havard |
 | 119 | 191 | loulou |
@@ -131,9 +131,9 @@
 | 123 | 185 | Peachy Fall |
 | 124 | 185 | Andy Cabral |
 | 125 | 184 | Justin Hannigan |
-| 126 | 181 | Savannah Overdorf |
+| 126 | 181 | Carter Jones |
 | 127 | 181 | Andria Lynn |
-| 128 | 181 | Carter Jones |
+| 128 | 181 | Savannah Overdorf |
 | 129 | 180 | Leah Kutz Zirbel |
 | 130 | 180 | Serena Goodridge |
 | 131 | 178 | Lori |
@@ -264,8 +264,8 @@
 | 256 | 97 | Jen Caldwell |
 | 257 | 97 | Rosemary Foster |
 | 258 | 97 | Marcela Johnson |
-| 259 | 96 | Marcus TheeyoungWoe Gilmore |
-| 260 | 96 | Jessica Miller |
+| 259 | 96 | Jessica Miller |
+| 260 | 96 | Marcus TheeyoungWoe Gilmore |
 | 261 | 96 | Sammy Noguera |
 | 262 | 95 | Patron Anderson |
 | 263 | 95 | LS |
@@ -283,8 +283,8 @@
 | 275 | 90 | Carol Ricks Raymond |
 | 276 | 90 | Thomas Hettenhaus |
 | 277 | 90 | Hyper Builder |
-| 278 | 89 | bloat princess |
-| 279 | 89 | Jonathan Mahfood |
+| 278 | 89 | Jonathan Mahfood |
+| 279 | 89 | bloat princess |
 | 280 | 88 | Michelle Parker |
 | 281 | 88 | Kesha Brady |
 | 282 | 87 | Alan George LaRage |

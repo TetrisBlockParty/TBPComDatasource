@@ -137,8 +137,8 @@
 | 129 | 187 | Snippy Wipebuilder |
 | 130 | 186 | Jennifer Olewnik Soborowski |
 | 131 | 182 | Spunky Piecebuilder |
-| 132 | 180 | Erez Yosef |
-| 133 | 180 | BigWeenie69 |
+| 132 | 180 | BigWeenie69 |
+| 133 | 180 | Erez Yosef |
 | 134 | 179 | Danielle Little-Daugherty |
 | 135 | 178 | Michael |
 | 136 | 178 | Chad Atchley |
