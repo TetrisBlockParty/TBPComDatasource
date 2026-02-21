@@ -37,8 +37,8 @@
 | 29 | 194 | Sharon Reynolds |
 | 30 | 192 | Mandyy Rae |
 | 31 | 191 | Maria C. Hernandez |
-| 32 | 190 | Sweetts |
-| 33 | 190 | Thorne Shumate |
+| 32 | 190 | Thorne Shumate |
+| 33 | 190 | Sweetts |
 | 34 | 189 | Happy Basegrid |
 | 35 | 187 | Dee Perry |
 | 36 | 185 | Karin Gillen |

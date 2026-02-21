@@ -38,8 +38,8 @@
 | 30 | 190 | Brittney Orengo |
 | 31 | 185 | loulou |
 | 32 | 174 | Jamie Mann-Deichmann |
-| 33 | 170 | Girl |
-| 34 | 170 | Leah Kutz Zirbel |
+| 33 | 170 | Leah Kutz Zirbel |
+| 34 | 170 | Girl |
 | 35 | 168 | Anthony Magaraci |
 | 36 | 167 | Rachel Anne |
 | 37 | 165 | Kimyatta Cavin |
@@ -48,8 +48,8 @@
 | 40 | 141 | Edward White |
 | 41 | 140 | Shannon Ferrari |
 | 42 | 140 | Carter Jones |
-| 43 | 133 | Jessica Bohlken |
-| 44 | 133 | Robin Watters |
+| 43 | 133 | Robin Watters |
+| 44 | 133 | Jessica Bohlken |
 | 45 | 132 | Jenna McGeorge |
 | 46 | 130 | Casey Jeffcoat |
 | 47 | 129 | Samantha Peterson |
@@ -96,14 +96,14 @@
 | 88 | 84 | Marcus Todd |
 | 89 | 83 | Jae Job |
 | 90 | 82 | Kim Hunt |
-| 91 | 82 | Chaz |
-| 92 | 82 | Dizzy Tiley |
-| 93 | 81 | Michelle Parker |
-| 94 | 81 | Kesha Brady |
+| 91 | 82 | Dizzy Tiley |
+| 92 | 82 | Chaz |
+| 93 | 81 | Kesha Brady |
+| 94 | 81 | Michelle Parker |
 | 95 | 80 | Melissa Adams |
 | 96 | 79 | Avy Absol |
 | 97 | 79 | Shainne Brewer |
-| 98 | 78 | Zesty Linkgrid |
+| 98 | 78 | Chair |
 | 99 | 78 | Rebecca Moulton Pinciaro |
 | 100 | 78 | Zesty Linkgrid |
 | 101 | 76 | Bethany Ison |
