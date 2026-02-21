@@ -268,8 +268,8 @@
 | 260 | 391 | Qiana Sanders |
 | 261 | 390 | Kimberly Randesi |
 | 262 | 386 | Macy Williams |
-| 263 | 385 | Skyler Morgan |
-| 264 | 385 | Sam |
+| 263 | 385 | Sam |
+| 264 | 385 | Skyler Morgan |
 | 265 | 383 | Arkei Luster |
 | 266 | 382 | David Holliday |
 | 267 | 378 | Cody Nishimura |
@@ -302,8 +302,8 @@
 | 294 | 350 | Chris Harr |
 | 295 | 348 | Richard Horton |
 | 296 | 347 | Cheyenne Donovan |
-| 297 | 345 | Brenda Messer |
-| 298 | 345 | Angie Bolton Workman |
+| 297 | 345 | Angie Bolton Workman |
+| 298 | 345 | Brenda Messer |
 | 299 | 345 | Rhianna DiLorenzo |
 | 300 | 345 | Julay |
 | 301 | 344 | Glenn Cobbins |
@@ -523,10 +523,10 @@
 | 515 | 211 | Wacky Cascade |
 | 516 | 211 | Trisha Gallagher |
 | 517 | 210 | Nancy Pohlman |
-| 518 | 209 | Dawn L Washington-Feuquay |
-| 519 | 209 | Jelly |
-| 520 | 209 | Samantha Morgan |
-| 521 | 209 | John Quiring |
+| 518 | 209 | John Quiring |
+| 519 | 209 | Samantha Morgan |
+| 520 | 209 | Jelly |
+| 521 | 209 | Dawn L Washington-Feuquay |
 | 522 | 208 | Nerdy Riserfit |
 | 523 | 207 | Melissa McCall |
 | 524 | 207 | Caitlin Johnson |

@@ -98,8 +98,8 @@
 | 90 | 193 | Lachelle Dillon |
 | 91 | 192 | Shaykmia |
 | 92 | 191 | Diane Byrd |
-| 93 | 190 | Sweetts |
-| 94 | 190 | Thorne Shumate |
+| 93 | 190 | Thorne Shumate |
+| 94 | 190 | Sweetts |
 | 95 | 189 | Happy Basegrid |
 | 96 | 186 | Jennifer Olewnik Soborowski |
 | 97 | 185 | Ash Galvan |
@@ -181,9 +181,9 @@
 | 173 | 111 | Jessi Sauer |
 | 174 | 111 | Chirpy Smasher |
 | 175 | 111 | Agustin Duarte Orozco |
-| 176 | 110 | Guest |
-| 177 | 110 | Garcia Bailey |
-| 178 | 110 | Madison Wicks |
+| 176 | 110 | Garcia Bailey |
+| 177 | 110 | Madison Wicks |
+| 178 | 110 | Guest |
 | 179 | 109 | Nery Martinez |
 | 180 | 108 | Dizzy Party |
 | 181 | 108 | Luciano Moreira |
@@ -212,9 +212,9 @@
 | 204 | 99 | Melissa Bires Hussar |
 | 205 | 98 | Witty Builderfit |
 | 206 | 97 | Steve Bomkamp |
-| 207 | 96 | Mara Hilker |
-| 208 | 96 | MommaKFC |
-| 209 | 96 | Howdi Duty |
+| 207 | 96 | Howdi Duty |
+| 208 | 96 | Mara Hilker |
+| 209 | 96 | MommaKFC |
 | 210 | 94 | Brad MG |
 | 211 | 91 | Owicked1 |
 | 212 | 91 | Sleepysloath5745 |

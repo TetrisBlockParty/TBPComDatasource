@@ -83,8 +83,8 @@
 | 75 | 226 | Breannah Grafe |
 | 76 | 215 | Alyssa Papen |
 | 77 | 213 | Jae Job |
-| 78 | 211 | Casey Grabner |
-| 79 | 211 | Dizzy Tiley |
+| 78 | 211 | Dizzy Tiley |
+| 79 | 211 | Casey Grabner |
 | 80 | 210 | Lucas J Sutton |
 | 81 | 205 | Sarah Neathery |
 | 82 | 204 | Brittney Orengo |

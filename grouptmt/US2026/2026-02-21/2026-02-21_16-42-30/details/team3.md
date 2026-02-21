@@ -187,7 +187,7 @@
 | 179 | 167 | Raven Dudley |
 | 180 | 166 | Beth Ingham |
 | 181 | 166 | Kelly Ann Child |
-| 182 | 166 | Beth Ingham |
+| 182 | 166 | Betty Rosas |
 | 183 | 165 | Kali Kelz Williams |
 | 184 | 163 | Stephanie Hill |
 | 185 | 162 | Stephanie Whitefield |
@@ -237,8 +237,8 @@
 | 229 | 131 | Erykah |
 | 230 | 130 | Weerae |
 | 231 | 129 | Juliana Dottore |
-| 232 | 128 | Cesar Barraza |
-| 233 | 128 | Jen Lewis |
+| 232 | 128 | Jen Lewis |
+| 233 | 128 | Cesar Barraza |
 | 234 | 126 | April Matthew Kibble |
 | 235 | 125 | Shimika Enay Wallace |
 | 236 | 125 | Felicia Doxey |
@@ -282,8 +282,8 @@
 | 274 | 107 | Melissa Snyder |
 | 275 | 107 | Jumpy Wrecker |
 | 276 | 107 | Bouncy Blockbuilder |
-| 277 | 106 | Elizabeth Renee |
-| 278 | 106 | Cheeky Snapper |
+| 277 | 106 | Cheeky Snapper |
+| 278 | 106 | Elizabeth Renee |
 | 279 | 106 | Noettín Kan Zasnemoore |
 | 280 | 105 | Donna |
 | 281 | 105 | Boldy Blocker |
@@ -373,8 +373,8 @@
 | 365 | 82 | Moimyzean |
 | 366 | 82 | lema ean |
 | 367 | 81 | Joseph Vargas |
-| 368 | 81 | Elyse Grabowsky |
-| 369 | 81 | Katheline Lazo Luizaga |
+| 368 | 81 | Katheline Lazo Luizaga |
+| 369 | 81 | Elyse Grabowsky |
 | 370 | 80 | Josh Borquez |
 | 371 | 80 | Vixen Queen |
 | 372 | 80 | Me,Him,Yu |
