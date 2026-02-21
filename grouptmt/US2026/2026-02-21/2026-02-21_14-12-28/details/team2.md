@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -115,7 +115,7 @@
 | 107 | 704 | Nerdy Clearfit |
 | 108 | 700 | Vincent Petrella |
 | 109 | 698 | Lola Contreras |
-| 110 | 694 | Vo'Landa Reels |
+| 110 | 694 | Nika Bee |
 | 111 | 694 | Nancy Reid |
 | 112 | 694 | Vo'Landa Reels |
 | 113 | 693 | YiFei |

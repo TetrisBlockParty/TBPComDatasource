@@ -53,13 +53,13 @@
 | 45 | 291 | Nancy Green |
 | 46 | 287 | Hyper |
 | 47 | 276 | Kristen Roles Robben |
-| 48 | 274 | Theo Pinnow |
-| 49 | 274 | Sweet Baker |
+| 48 | 274 | Sweet Baker |
+| 49 | 274 | Theo Pinnow |
 | 50 | 272 | Adam Byrd |
 | 51 | 264 | Shauna Loe |
 | 52 | 257 | Sarah Roberts |
-| 53 | 256 | Robert Benito |
-| 54 | 256 | Tipsy Column |
+| 53 | 256 | Tipsy Column |
+| 54 | 256 | Robert Benito |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
 | 57 | 244 | Franswa |

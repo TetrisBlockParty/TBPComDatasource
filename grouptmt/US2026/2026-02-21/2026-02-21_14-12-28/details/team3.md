@@ -175,13 +175,13 @@
 | 167 | 159 | Jone |
 | 168 | 159 | Morgan Martinez |
 | 169 | 158 | Grams |
-| 170 | 157 | Nicholas Roddy |
-| 171 | 157 | Patricia Gadsden |
+| 170 | 157 | Patricia Gadsden |
+| 171 | 157 | Nicholas Roddy |
 | 172 | 156 | Joey Banks |
 | 173 | 154 | Angela M. Fletcher |
 | 174 | 153 | Beth Ingham |
-| 175 | 152 | Katrina E Jelks |
-| 176 | 152 | Shiny Zonebuilder |
+| 175 | 152 | Shiny Zonebuilder |
+| 176 | 152 | Katrina E Jelks |
 | 177 | 151 | MsBee |
 | 178 | 150 | Nicole Myers |
 | 179 | 149 | Bea Miles |
@@ -239,8 +239,8 @@
 | 231 | 113 | Beppy |
 | 232 | 111 | France Vézina |
 | 233 | 111 | Stephanie Zahm |
-| 234 | 110 | Danielle Weikel |
-| 235 | 110 | Tye Stovall |
+| 234 | 110 | Tye Stovall |
+| 235 | 110 | Danielle Weikel |
 | 236 | 110 | Stella |
 | 237 | 109 | mommablock |
 | 238 | 109 | Fredd Thomas |
@@ -311,8 +311,8 @@
 | 303 | 89 | Patti Skiles |
 | 304 | 89 | Matty Ray |
 | 305 | 89 | Rania Zaqout |
-| 306 | 88 | Kevin Russell |
-| 307 | 88 | RickyG |
+| 306 | 88 | RickyG |
+| 307 | 88 | Kevin Russell |
 | 308 | 88 | Dapper Towerfit |
 | 309 | 88 | Kelly Koenig |
 | 310 | 87 | Kellie Montgomery |

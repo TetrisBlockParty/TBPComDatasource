@@ -82,8 +82,8 @@
 | 74 | 195 | Dustee Craddock-Harrison |
 | 75 | 194 | Jamie Mann-Deichmann |
 | 76 | 187 | Swanky Fitline |
-| 77 | 185 | Andy Cabral |
-| 78 | 185 | loulou |
+| 77 | 185 | loulou |
+| 78 | 185 | Andy Cabral |
 | 79 | 184 | Dizzy Tiley |
 | 80 | 182 | shar |
 | 81 | 180 | Leah Kutz Zirbel |
@@ -92,8 +92,8 @@
 | 84 | 173 | Zethra Prenisha Rahming |
 | 85 | 173 | Jeff Brian Gates |
 | 86 | 171 | Melvin Baird |
-| 87 | 170 | Justin Hannigan |
-| 88 | 170 | Girl |
+| 87 | 170 | Girl |
+| 88 | 170 | Justin Hannigan |
 | 89 | 168 | Jae Job |
 | 90 | 167 | Carlton Unfiltered |
 | 91 | 167 | Denise Carlson |
@@ -101,8 +101,8 @@
 | 93 | 164 | ThaEviLJeNiuZ |
 | 94 | 162 | Shauna Havard |
 | 95 | 161 | Joeliecea Cobb |
-| 96 | 160 | Carter Jones |
-| 97 | 160 | Stacey Stano |
+| 96 | 160 | Stacey Stano |
+| 97 | 160 | Carter Jones |
 | 98 | 159 | Holly Jolly |
 | 99 | 157 | quicksand420 |
 | 100 | 154 | Zany Twisterfit |
@@ -127,8 +127,8 @@
 | 119 | 132 | Melissa Priest Sellers |
 | 120 | 132 | Jenna McGeorge |
 | 121 | 130 | Casey Jeffcoat |
-| 122 | 129 | Landon Keith Graffeo |
-| 123 | 129 | John Brunetti |
+| 122 | 129 | John Brunetti |
+| 123 | 129 | Landon Keith Graffeo |
 | 124 | 128 | Rio Rocha |
 | 125 | 126 | ĥuf |
 | 126 | 126 | TinyLegoRose |
