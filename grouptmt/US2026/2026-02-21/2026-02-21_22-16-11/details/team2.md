@@ -211,8 +211,8 @@
 | 203 | 608 | Sommer Shope |
 | 204 | 604 | Danielle Johnson-Chandler |
 | 205 | 603 | Cassie Maynard |
-| 206 | 596 | Jelly |
-| 207 | 596 | Ellie Jonas |
+| 206 | 596 | Ellie Jonas |
+| 207 | 596 | Jelly |
 | 208 | 592 | Ashle Scranton |
 | 209 | 590 | Auntie B |
 | 210 | 589 | Thomas Hedrick |
@@ -296,8 +296,8 @@
 | 288 | 463 | Sue Leard |
 | 289 | 460 | Barbra Miller |
 | 290 | 460 | Cody Smith-Candelaria |
-| 291 | 459 | Doowop40 |
-| 292 | 459 | Brainy Smurf |
+| 291 | 459 | Brainy Smurf |
+| 292 | 459 | Doowop40 |
 | 293 | 459 | Dedra Steward |
 | 294 | 454 | Casey Schumacher |
 | 295 | 453 | Cozy Filler |
@@ -887,8 +887,8 @@
 | 879 | 163 | Latrenya Paynes |
 | 880 | 163 | Mandi Marie Smith |
 | 881 | 163 | Epic Fitzone |
-| 882 | 163 | Mandi Marie Smith |
-| 883 | 163 | Latrenya Paynes |
+| 882 | 163 | Jackson Smith |
+| 883 | 163 | Christina Jones |
 | 884 | 163 | Tiffney Wroten |
 | 885 | 163 | Jacob Huffman |
 | 886 | 162 | Mary Lopez Sr. |

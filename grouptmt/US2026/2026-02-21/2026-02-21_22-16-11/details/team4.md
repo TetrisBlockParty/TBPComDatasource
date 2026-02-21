@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | Marie-Pier Desjardins |
-| 66 | 376 | quicksand420 |
+| 65 | 376 | quicksand420 |
+| 66 | 376 | Marie-Pier Desjardins |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |

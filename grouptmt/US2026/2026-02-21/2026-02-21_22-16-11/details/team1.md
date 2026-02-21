@@ -44,13 +44,13 @@
 | 36 | 539 | Karin Gillen |
 | 37 | 521 | Hyp James NObettadanluvarat |
 | 38 | 518 | comrade fish |
-| 39 | 517 | Kristen Roles Robben |
-| 40 | 517 | Jen Sartain |
-| 41 | 517 | Felicia Lewis |
+| 39 | 517 | Felicia Lewis |
+| 40 | 517 | Kristen Roles Robben |
+| 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -212,8 +212,8 @@
 | 204 | 122 | Melissa Lemmon |
 | 205 | 122 | Margo Wagner |
 | 206 | 121 | Mark Smith |
-| 207 | 120 | Kimmie Kimms |
-| 208 | 120 | Alenoush Karimian |
+| 207 | 120 | Alenoush Karimian |
+| 208 | 120 | Kimmie Kimms |
 | 209 | 119 | Tater |
 | 210 | 118 | SavageBooty98 |
 | 211 | 116 | Jessica Russell |
@@ -247,8 +247,8 @@
 | 239 | 106 | Alyssa Ingram |
 | 240 | 106 | Chantelle Ceno |
 | 241 | 105 | Ty Brown |
-| 242 | 105 | J.F. Fields |
-| 243 | 105 | Brad MG |
+| 242 | 105 | Brad MG |
+| 243 | 105 | J.F. Fields |
 | 244 | 105 | Funky Piecebuilder |
 | 245 | 104 | Charla Pross-Fugleberg |
 | 246 | 104 | Shanae Grant |

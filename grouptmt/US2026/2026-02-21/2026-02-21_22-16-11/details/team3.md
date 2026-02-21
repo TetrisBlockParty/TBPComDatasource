@@ -110,8 +110,8 @@
 | 102 | 390 | Hasty Cascadefit |
 | 103 | 386 | Katie Knaus |
 | 104 | 384 | Shannon Matthew Byers |
-| 105 | 378 | Tasha Schriewer |
-| 106 | 378 | Makelini Mausia |
+| 105 | 378 | Makelini Mausia |
+| 106 | 378 | Tasha Schriewer |
 | 107 | 377 | Jesse Olive |
 | 108 | 372 | Jessica Bechler |
 | 109 | 368 | Stephanie Woods |
@@ -128,8 +128,8 @@
 | 120 | 343 | Chasity |
 | 121 | 327 | Dapper Snap |
 | 122 | 324 | Fancy Cascader |
-| 123 | 323 | Ashley Raines |
-| 124 | 323 | Sherry Ogden |
+| 123 | 323 | Sherry Ogden |
+| 124 | 323 | Ashley Raines |
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | Judi Dobson |
-| 150 | 256 | ren |
+| 149 | 256 | ren |
+| 150 | 256 | Judi Dobson |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |
