@@ -63,13 +63,13 @@
 | 55 | 108 | Mr. Party |
 | 56 | 105 | Diana Houts |
 | 57 | 103 | Serena Goodridge |
-| 58 | 100 | Michelle Morris |
-| 59 | 100 | Andria Lynn |
-| 60 | 98 | Duck |
-| 61 | 98 | Stephme310 |
+| 58 | 100 | Andria Lynn |
+| 59 | 100 | Michelle Morris |
+| 60 | 98 | Stephme310 |
+| 61 | 98 | Duck |
 | 62 | 96 | Zappy Snaplink |
-| 63 | 94 | TinyLegoRose |
-| 64 | 94 | Chilly Line |
+| 63 | 94 | Chilly Line |
+| 64 | 94 | TinyLegoRose |
 | 65 | 93 | YoMomma |
 | 66 | 92 | Kristin MacDonald |
 | 67 | 90 | Carter Jones |

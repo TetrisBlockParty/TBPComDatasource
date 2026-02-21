@@ -83,8 +83,8 @@
 | 75 | 87 | Jessi Sauer |
 | 76 | 86 | TSwag |
 | 77 | 84 | Charla Pross-Fugleberg |
-| 78 | 83 | Timothy Dew |
-| 79 | 83 | Guest |
+| 78 | 83 | Guest |
+| 79 | 83 | Timothy Dew |
 | 80 | 83 | Death |
 | 81 | 81 | Bob |
 | 82 | 81 | Jennifer ManWarren |

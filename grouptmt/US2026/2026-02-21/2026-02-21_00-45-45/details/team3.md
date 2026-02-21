@@ -80,19 +80,19 @@
 | 72 | 144 | Denita Mungro |
 | 73 | 143 | ren |
 | 74 | 140 | Zippy Strikesnap |
-| 75 | 135 | Nicole Flippo |
-| 76 | 135 | Latoya Mayne |
+| 75 | 135 | Latoya Mayne |
+| 76 | 135 | Nicole Flippo |
 | 77 | 134 | DanceLuvLaugh |
 | 78 | 131 | Emma |
 | 79 | 130 | Tessina Dewey-Mancino |
 | 80 | 129 | Giddy Twistbuilder |
 | 81 | 128 | Angel Mendez |
-| 82 | 127 | mjl574 |
-| 83 | 127 | Dolores Falco |
+| 82 | 127 | Dolores Falco |
+| 83 | 127 | mjl574 |
 | 84 | 125 | Stephanie Simpson |
 | 85 | 123 | Ashley Tookes |
-| 86 | 120 | Jessica |
-| 87 | 120 | Michael Latasha Gray |
+| 86 | 120 | Michael Latasha Gray |
+| 87 | 120 | Jessica |
 | 88 | 118 | Bea Miles |
 | 89 | 114 | Terry Jo Jones |
 | 90 | 113 | Jennifer Alvey |
