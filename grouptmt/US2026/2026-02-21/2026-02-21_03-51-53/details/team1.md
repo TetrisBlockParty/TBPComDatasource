@@ -105,18 +105,18 @@
 | 97 | 99 | Bhelle Sumile |
 | 98 | 99 | Ty Brown |
 | 99 | 99 | Melissa Bires Hussar |
-| 100 | 96 | Nery Martinez |
-| 101 | 96 | Melissa Lemmon |
+| 100 | 96 | Melissa Lemmon |
+| 101 | 96 | Nery Martinez |
 | 102 | 95 | Spunky Piecebuilder |
-| 103 | 94 | Luciano Moreira |
-| 104 | 94 | Bindi |
+| 103 | 94 | Bindi |
+| 104 | 94 | Luciano Moreira |
 | 105 | 93 | Loony Fitzone |
 | 106 | 93 | Adryane Schnase |
 | 107 | 90 | TSwag |
 | 108 | 90 | Madison Wicks |
 | 109 | 87 | Jessi Sauer |
-| 110 | 86 | Desiree Deschaine Havee |
-| 111 | 86 | Basment Living |
+| 110 | 86 | Basment Living |
+| 111 | 86 | Desiree Deschaine Havee |
 | 112 | 85 | Steve Schneider |
 | 113 | 84 | Speedy Snapfall |
 | 114 | 84 | Yvonne Marie |
@@ -160,11 +160,11 @@
 | 152 | 69 | Tipsy Riseclear |
 | 153 | 67 | Mitchel White |
 | 154 | 66 | Angela Fairbank |
-| 155 | 65 | OneCrazyGator |
-| 156 | 65 | Giddy Glider |
-| 157 | 65 | Trippy Redd |
-| 158 | 65 | MamaB24 |
-| 159 | 65 | Jennifer Olewnik Soborowski |
+| 155 | 65 | Jennifer Olewnik Soborowski |
+| 156 | 65 | Trippy Redd |
+| 157 | 65 | OneCrazyGator |
+| 158 | 65 | Giddy Glider |
+| 159 | 65 | MamaB24 |
 | 160 | 64 | Alex Gauthier |
 | 161 | 64 | Tyler Hertzog |
 | 162 | 64 | Chantelle Ceno |

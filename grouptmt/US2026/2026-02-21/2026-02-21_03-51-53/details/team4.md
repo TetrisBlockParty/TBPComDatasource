@@ -123,13 +123,13 @@
 | 115 | 85 | Chirpy Slammer |
 | 116 | 85 | Dizzy Tiley |
 | 117 | 84 | Klo |
-| 118 | 83 | Avy Absol |
-| 119 | 83 | Abigail Murphy |
+| 118 | 83 | Abigail Murphy |
+| 119 | 83 | Avy Absol |
 | 120 | 82 | Kim Hunt |
 | 121 | 81 | Jumpy Zonepiece |
-| 122 | 81 | Blessedmama |
-| 123 | 81 | Michelle Parker |
-| 124 | 81 | Kesha Brady |
+| 122 | 81 | Kesha Brady |
+| 123 | 81 | Blessedmama |
+| 124 | 81 | Michelle Parker |
 | 125 | 80 | Melissa Adams |
 | 126 | 79 | Shainne Brewer |
 | 127 | 78 | Zesty Linkgrid |
@@ -185,9 +185,9 @@
 | 177 | 57 | Perky Piecegrid |
 | 178 | 56 | Cj Lewis-haut |
 | 179 | 56 | Jennifer Perkins |
-| 180 | 55 | mini |
-| 181 | 55 | Mylo Lipscomb |
-| 182 | 55 | David Phifer |
+| 180 | 55 | David Phifer |
+| 181 | 55 | mini |
+| 182 | 55 | Mylo Lipscomb |
 | 183 | 55 | RiahRose |
 | 184 | 54 | JPW |
 | 185 | 54 | Bradley Reeves |

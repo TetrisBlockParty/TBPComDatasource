@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -264,8 +264,8 @@
 | 256 | 226 | Leslie Ann Carter |
 | 257 | 226 | Vonceial Boone |
 | 258 | 224 | Arwa Fatimah |
-| 259 | 223 | Matt Johnson |
-| 260 | 223 | LegoCarpet |
+| 259 | 223 | LegoCarpet |
+| 260 | 223 | Matt Johnson |
 | 261 | 223 | Giddy Gridclear |
 | 262 | 221 | Victoria Moore-Smith |
 | 263 | 220 | Mary Marie |
@@ -307,8 +307,8 @@
 | 299 | 194 | Mike Aprilliano |
 | 300 | 194 | Hoppy Brickmatch |
 | 301 | 193 | Nika Bee |
-| 302 | 191 | Deana |
-| 303 | 191 | Sho Nuff |
+| 302 | 191 | Sho Nuff |
+| 303 | 191 | Deana |
 | 304 | 191 | Lauren Fitzgerald Thomas |
 | 305 | 190 | blarg |
 | 306 | 188 | Justin Hines |
@@ -316,8 +316,8 @@
 | 308 | 187 | Shelley Thornburgh Wright |
 | 309 | 184 | Sassy Linkbuilder |
 | 310 | 184 | Stefanie Zonzini-Gagliardi |
-| 311 | 183 | Brave Dropmatch |
-| 312 | 183 | Dizzy Zone |
+| 311 | 183 | Dizzy Zone |
+| 312 | 183 | Brave Dropmatch |
 | 313 | 181 | Julay |
 | 314 | 180 | Peter Palestino |
 | 315 | 179 | Denise Rickman |
