@@ -86,8 +86,8 @@
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
-| 81 | 305 | Patrick Luckenbill |
-| 82 | 305 | Plucky Ziggy |
+| 81 | 305 | Plucky Ziggy |
+| 82 | 305 | Patrick Luckenbill |
 | 83 | 304 | Nicole Roseberry Weber |
 | 84 | 303 | Maria C. Hernandez |
 | 85 | 301 | Hyper |
@@ -116,8 +116,8 @@
 | 108 | 244 | Franswa |
 | 109 | 240 | Tana |
 | 110 | 240 | Chelsea Dahlquist |
-| 111 | 238 | Steve Schneider |
-| 112 | 238 | John J. Cronin |
+| 111 | 238 | John J. Cronin |
+| 112 | 238 | Steve Schneider |
 | 113 | 230 | Frothy Pattern |
 | 114 | 228 | Trippy Redd |
 | 115 | 222 | Kristen Gideon |
@@ -181,18 +181,18 @@
 | 173 | 158 | Sarah Marie |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
-| 176 | 152 | Jacqueline Unique |
-| 177 | 152 | Speedy Snapfall |
+| 176 | 152 | Speedy Snapfall |
+| 177 | 152 | Jacqueline Unique |
 | 178 | 150 | ALFD |
 | 179 | 150 | David Miller |
 | 180 | 150 | Adele Rahman |
-| 181 | 148 | Shauntina Burke |
-| 182 | 148 | Bouncy Grid |
+| 181 | 148 | Bouncy Grid |
+| 182 | 148 | Shauntina Burke |
 | 183 | 147 | Davery Spencer Adair |
 | 184 | 145 | Agustin Duarte Orozco |
-| 185 | 144 | Gary Gobin |
-| 186 | 144 | Miguel Teixeira |
-| 187 | 144 | Cranky Pattern |
+| 185 | 144 | Cranky Pattern |
+| 186 | 144 | Gary Gobin |
+| 187 | 144 | Miguel Teixeira |
 | 188 | 142 | Colleen Wise |
 | 189 | 141 | Dino |
 | 190 | 141 | Blaire Bruckoff |

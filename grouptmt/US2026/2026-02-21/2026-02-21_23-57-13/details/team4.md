@@ -80,14 +80,14 @@
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Shane Kalamata Platoon |
-| 76 | 358 | Nugget |
+| 75 | 358 | Nugget |
+| 76 | 358 | Shane Kalamata Platoon |
 | 77 | 355 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
 | 80 | 311 | David Lay |
-| 81 | 308 | Livvy |
-| 82 | 308 | Jen Allison |
+| 81 | 308 | Jen Allison |
+| 82 | 308 | Livvy |
 | 83 | 303 | Lauren Scott |
 | 84 | 300 | Jason Hart |
 | 85 | 295 | Amy Suckarieh |
@@ -157,8 +157,8 @@
 | 149 | 174 | Dihcheese444 |
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
-| 152 | 164 | ThaEviLJeNiuZ |
-| 153 | 164 | 030Synner |
+| 152 | 164 | 030Synner |
+| 153 | 164 | ThaEviLJeNiuZ |
 | 154 | 160 | ZeeZee |
 | 155 | 156 | Holly |
 | 156 | 155 | AyeKay |
@@ -296,8 +296,8 @@
 | 288 | 95 | TRCuse |
 | 289 | 94 | DonMega |
 | 290 | 93 | No Strings Attached Ra |
-| 291 | 92 | Hyper Builder |
-| 292 | 92 | Frilly Blocky |
+| 291 | 92 | Frilly Blocky |
+| 292 | 92 | Hyper Builder |
 | 293 | 91 | wombat |
 | 294 | 91 | Sunny Filler |
 | 295 | 90 | Chirpy Slammer |

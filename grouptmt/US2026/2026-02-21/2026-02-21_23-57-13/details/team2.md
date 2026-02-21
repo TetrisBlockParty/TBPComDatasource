@@ -344,12 +344,12 @@
 | 336 | 436 | Melissa Kay Gibson |
 | 337 | 435 | Kimberly Randesi |
 | 338 | 433 | Victor Obiakarije |
-| 339 | 428 | Crystie Hicks |
-| 340 | 428 | Rhonda Milstead |
+| 339 | 428 | Rhonda Milstead |
+| 340 | 428 | Crystie Hicks |
 | 341 | 427 | Amanda Ferrell |
 | 342 | 427 | Destiny Cozier |
-| 343 | 425 | Julay |
-| 344 | 425 | Skyler Morgan |
+| 343 | 425 | Skyler Morgan |
+| 344 | 425 | Julay |
 | 345 | 424 | Regina Young |
 | 346 | 423 | Sam |
 | 347 | 423 | Shaun Church |
@@ -366,8 +366,8 @@
 | 358 | 406 | Erin StFrancis |
 | 359 | 406 | Tj Ball |
 | 360 | 406 | Julie Kresal |
-| 361 | 405 | Christy Krissie |
-| 362 | 405 | Sarah Massey |
+| 361 | 405 | Sarah Massey |
+| 362 | 405 | Christy Krissie |
 | 363 | 403 | Tonya Lee |
 | 364 | 403 | Snippy Rumbler |
 | 365 | 402 | Catina Hutchison |

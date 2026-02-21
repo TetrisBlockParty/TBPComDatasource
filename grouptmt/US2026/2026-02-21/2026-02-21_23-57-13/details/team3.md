@@ -107,8 +107,8 @@
 | 99 | 428 | Elissa S-k |
 | 100 | 425 | Patty Allen |
 | 101 | 424 | Bea Miles |
-| 102 | 416 | Mary Pellegrino |
-| 103 | 416 | Speedy Bridger |
+| 102 | 416 | Speedy Bridger |
+| 103 | 416 | Mary Pellegrino |
 | 104 | 403 | Christine Filson |
 | 105 | 402 | Stephanie Simpson |
 | 106 | 400 | Luciana Braganca Vieira |
@@ -123,23 +123,23 @@
 | 115 | 389 | Jessica Bechler |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
-| 118 | 378 | Makelini Mausia |
-| 119 | 378 | Tasha Schriewer |
+| 118 | 378 | Tasha Schriewer |
+| 119 | 378 | Makelini Mausia |
 | 120 | 377 | Jesse Olive |
 | 121 | 368 | Stephanie Woods |
 | 122 | 368 | Stephanie Blkpep Davidson |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
-| 125 | 355 | Sherry Ogden |
-| 126 | 355 | Tessina Dewey-Mancino |
+| 125 | 355 | Tessina Dewey-Mancino |
+| 126 | 355 | Sherry Ogden |
 | 127 | 348 | CeceGeGe |
 | 128 | 347 | Darlene McMillan |
 | 129 | 346 | Loopy Clusterer |
 | 130 | 343 | Chasity |
 | 131 | 330 | Logan Naccarato |
 | 132 | 329 | Tasha Gillespie |
-| 133 | 328 | Aaron Pitkin |
-| 134 | 328 | Jeni Dow |
+| 133 | 328 | Jeni Dow |
+| 134 | 328 | Aaron Pitkin |
 | 135 | 327 | Dapper Snap |
 | 136 | 326 | Fancy Cascader |
 | 137 | 323 | Ashley Raines |
@@ -174,8 +174,8 @@
 | 166 | 249 | Santeria Trece Candles |
 | 167 | 245 | Latoya Mayne |
 | 168 | 245 | Annie Marie |
-| 169 | 243 | Cynthia Herrmann Egland |
-| 170 | 243 | Rochelle Hazelett |
+| 169 | 243 | Rochelle Hazelett |
+| 170 | 243 | Cynthia Herrmann Egland |
 | 171 | 240 | Jimmie Clemons |
 | 172 | 237 | Rebecca Funderburk Kirby |
 | 173 | 237 | Brandon Givens |
@@ -346,9 +346,9 @@
 | 338 | 124 | Romeo |
 | 339 | 124 | Goofy Fall |
 | 340 | 123 | Michael Latasha Gray |
-| 341 | 122 | Nichol Graham |
-| 342 | 122 | BabyTonj Evans |
-| 343 | 122 | Arden White Kirsch |
+| 341 | 122 | BabyTonj Evans |
+| 342 | 122 | Arden White Kirsch |
+| 343 | 122 | Nichol Graham |
 | 344 | 122 | Giggly Brickroll |
 | 345 | 121 | Michael Johnson |
 | 346 | 121 | Fredd Thomas |
