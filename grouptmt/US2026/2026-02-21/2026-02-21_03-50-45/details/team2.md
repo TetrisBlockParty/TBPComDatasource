@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -95,8 +95,8 @@
 | 87 | 535 | Erica Williams |
 | 88 | 534 | Jerilyn Andrina |
 | 89 | 525 | Desiree Anderson |
-| 90 | 515 | Kaylee McCafferty |
-| 91 | 515 | Real Ri |
+| 90 | 515 | Real Ri |
+| 91 | 515 | Kaylee McCafferty |
 | 92 | 509 | Kelli Wells |
 | 93 | 505 | Danielle Johnson-Chandler |
 | 94 | 499 | Samantha Jo |
@@ -338,8 +338,8 @@
 | 330 | 171 | Cappin You |
 | 331 | 170 | Darlene Bowman |
 | 332 | 170 | Kenya Felix |
-| 333 | 169 | Eddie Perez |
-| 334 | 169 | Lively Catcher |
+| 333 | 169 | Lively Catcher |
+| 334 | 169 | Eddie Perez |
 | 335 | 169 | Fi Ne |
 | 336 | 168 | Kati Russeau |
 | 337 | 168 | Robin |

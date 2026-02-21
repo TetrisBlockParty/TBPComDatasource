@@ -53,8 +53,8 @@
 | 45 | 170 | Girl |
 | 46 | 168 | Anthony Magaraci |
 | 47 | 153 | Jae Job |
-| 48 | 152 | Denise Carlson |
-| 49 | 152 | Courtney Cicoria |
+| 48 | 152 | Courtney Cicoria |
+| 49 | 152 | Denise Carlson |
 | 50 | 148 | Carter Jones |
 | 51 | 145 | Edward White |
 | 52 | 140 | Shannon Ferrari |
@@ -195,8 +195,8 @@
 | 187 | 54 | JPW |
 | 188 | 53 | Courtney Halleck |
 | 189 | 53 | Zany Twisterfit |
-| 190 | 53 | Courtney Halleck |
-| 191 | 52 | Nicole Silvers |
+| 190 | 53 | Allison Judith |
+| 191 | 52 | David Lay |
 | 192 | 52 | Tyler Terrific |
 | 193 | 52 | Nicole Silvers |
 | 194 | 51 | Frank Cook |

@@ -88,8 +88,8 @@
 | 80 | 200 | mjl574 |
 | 81 | 199 | joclisa |
 | 82 | 195 | Nicha Hooker |
-| 83 | 193 | Clever Shiftsnap |
-| 84 | 193 | Shunta Jacobs |
+| 83 | 193 | Shunta Jacobs |
+| 84 | 193 | Clever Shiftsnap |
 | 85 | 192 | Chasity |
 | 86 | 187 | Speedy Bridger |
 | 87 | 185 | Danielle Cutler |
@@ -224,7 +224,7 @@
 | 216 | 76 | Crystal Woodward |
 | 217 | 76 | Oliver Neal II |
 | 218 | 76 | Rima Mackelburger |
-| 219 | 76 | Oliver Neal II |
+| 219 | 76 | Chad Wilson |
 | 220 | 76 | Melissa Orth Hunter |
 | 221 | 75 | Whitney Manuel |
 | 222 | 75 | Janelle Goetz |
