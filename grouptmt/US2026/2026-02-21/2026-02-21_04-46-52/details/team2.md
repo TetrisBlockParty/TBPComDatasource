@@ -229,8 +229,8 @@
 | 221 | 268 | Vanessa Moreno |
 | 222 | 268 | Elisheva Mizrachi |
 | 223 | 267 | Mindy Leigh Head |
-| 224 | 266 | Autumn Schaeffer |
-| 225 | 266 | Mighty Shatterfit |
+| 224 | 266 | Mighty Shatterfit |
+| 225 | 266 | Autumn Schaeffer |
 | 226 | 266 | Joyce Johnson Vaughn |
 | 227 | 263 | Taylor Flowers |
 | 228 | 263 | August Hale |
@@ -306,8 +306,8 @@
 | 298 | 205 | ElizabethAnn Dickinson |
 | 299 | 204 | Ali Gralski |
 | 300 | 204 | Rebecca Doughman |
-| 301 | 203 | Gary Stash |
-| 302 | 203 | coleksquad |
+| 301 | 203 | coleksquad |
+| 302 | 203 | Gary Stash |
 | 303 | 202 | Christina Ashley |
 | 304 | 201 | Zombi3 |
 | 305 | 201 | Peppy Snapfall |
@@ -327,8 +327,8 @@
 | 319 | 194 | Kimberly Ann |
 | 320 | 194 | Mike Aprilliano |
 | 321 | 193 | Nika Bee |
-| 322 | 191 | Deana |
-| 323 | 191 | Sho Nuff |
+| 322 | 191 | Sho Nuff |
+| 323 | 191 | Deana |
 | 324 | 191 | Lauren Fitzgerald Thomas |
 | 325 | 190 | blarg |
 | 326 | 188 | Justin Hines |
@@ -370,8 +370,8 @@
 | 362 | 169 | Eddie Perez |
 | 363 | 169 | Lively Catcher |
 | 364 | 169 | Fi Ne |
-| 365 | 168 | Seth Wrieden |
-| 366 | 168 | Kati Russeau |
+| 365 | 168 | Kati Russeau |
+| 366 | 168 | Seth Wrieden |
 | 367 | 168 | Robin |
 | 368 | 167 | Wacky Cascade |
 | 369 | 167 | Sabrena Yeisley |

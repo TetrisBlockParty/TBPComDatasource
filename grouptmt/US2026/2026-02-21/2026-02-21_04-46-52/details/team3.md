@@ -110,8 +110,8 @@
 | 102 | 172 | Ryan Williams |
 | 103 | 166 | Danielle Mogg |
 | 104 | 164 | rosy |
-| 105 | 159 | Jone |
-| 106 | 159 | Morgan Martinez |
+| 105 | 159 | Morgan Martinez |
+| 106 | 159 | Jone |
 | 107 | 158 | Grams |
 | 108 | 156 | Joey Banks |
 | 109 | 155 | BŘŰŤİÇŨŚ |
@@ -172,8 +172,8 @@
 | 164 | 106 | Desiree Gold |
 | 165 | 105 | Hoppy Buildout |
 | 166 | 105 | Emi |
-| 167 | 104 | mommablock |
-| 168 | 104 | Sarah Moyer |
+| 167 | 104 | Sarah Moyer |
+| 168 | 104 | mommablock |
 | 169 | 102 | Kali Kelz Williams |
 | 170 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 171 | 100 | Donna |
