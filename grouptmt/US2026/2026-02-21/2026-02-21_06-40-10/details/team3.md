@@ -41,8 +41,8 @@
 | 33 | 587 | Suzieq |
 | 34 | 587 | Danielle Becker |
 | 35 | 568 | Shonna Roberts |
-| 36 | 546 | Dolores Falco |
-| 37 | 546 | Snappy Glidepiece |
+| 36 | 546 | Snappy Glidepiece |
+| 37 | 546 | Dolores Falco |
 | 38 | 541 | MissTaylor |
 | 39 | 533 | Sarah Fehring |
 | 40 | 528 | Natasha Jones |
@@ -70,8 +70,8 @@
 | 62 | 360 | Ebony West-Cundiff |
 | 63 | 351 | Calista Jo Dickson |
 | 64 | 343 | Silly Twist |
-| 65 | 342 | Trezure Gonzalez |
-| 66 | 342 | Annie Déè |
+| 65 | 342 | Annie Déè |
+| 66 | 342 | Trezure Gonzalez |
 | 67 | 338 | Danielle Rhoades |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
 | 69 | 325 | Shari Garber |

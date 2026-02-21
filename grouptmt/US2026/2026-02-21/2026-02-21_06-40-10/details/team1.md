@@ -74,8 +74,8 @@
 | 66 | 169 | Erez Yosef |
 | 67 | 166 | Rico Rico |
 | 68 | 163 | Chad Atchley |
-| 69 | 161 | Jennifer Olewnik Soborowski |
-| 70 | 161 | Abbey Crespo |
+| 69 | 161 | Abbey Crespo |
+| 70 | 161 | Jennifer Olewnik Soborowski |
 | 71 | 160 | Stephanie Zahn |
 | 72 | 155 | David DeSantis |
 | 73 | 155 | Standia Civil |
@@ -192,8 +192,8 @@
 | 184 | 70 | Kenton Billings |
 | 185 | 69 | Christy Jones |
 | 186 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 187 | 68 | Ariel Whittington |
-| 188 | 68 | NicaOrlice |
+| 187 | 68 | NicaOrlice |
+| 188 | 68 | Ariel Whittington |
 | 189 | 67 | Jennifer Duttry |
 | 190 | 67 | Mitchel White |
 | 191 | 66 | Angela Fairbank |

@@ -68,9 +68,9 @@
 | 60 | 165 | Courtney Cicoria |
 | 61 | 165 | Casey Grabner |
 | 62 | 160 | Carter Jones |
-| 63 | 159 | Holly Jolly |
+| 63 | 159 | Swanky Fitline |
 | 64 | 159 | Justin Hannigan |
-| 65 | 159 | Swanky Fitline |
+| 65 | 159 | Holly Jolly |
 | 66 | 154 | ThaEviLJeNiuZ |
 | 67 | 153 | Jae Job |
 | 68 | 152 | Clarence Patawaran |
@@ -101,8 +101,8 @@
 | 93 | 122 | Shelly Chandler |
 | 94 | 122 | Sherri |
 | 95 | 121 | Smiley Tiltbuilder |
-| 96 | 121 | 030Synner |
-| 97 | 121 | Klo |
+| 96 | 121 | Klo |
+| 97 | 121 | 030Synner |
 | 98 | 120 | Joshua Guess |
 | 99 | 119 | Kristin Manee |
 | 100 | 118 | Jessica Cagle |

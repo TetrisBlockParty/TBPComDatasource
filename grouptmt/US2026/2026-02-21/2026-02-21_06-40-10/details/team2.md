@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -161,8 +161,8 @@
 | 153 | 409 | Sparkles |
 | 154 | 406 | Erin StFrancis |
 | 155 | 401 | Poppy Snap |
-| 156 | 400 | Crystie Hicks |
-| 157 | 400 | Tammy Allen |
+| 156 | 400 | Tammy Allen |
+| 157 | 400 | Crystie Hicks |
 | 158 | 397 | Ashley Guernsey-Martin |
 | 159 | 391 | Chilly Bridgepiece |
 | 160 | 391 | Steven Marshaun |
@@ -299,8 +299,8 @@
 | 291 | 243 | Brandy Andre |
 | 292 | 242 | Donna Chandler |
 | 293 | 241 | Sabrina Burton |
-| 294 | 240 | Adam Erikson |
-| 295 | 240 | Angie Marie |
+| 294 | 240 | Angie Marie |
+| 295 | 240 | Adam Erikson |
 | 296 | 240 | Johnny Yeates |
 | 297 | 238 | Cheech Dta |
 | 298 | 238 | Cheery Matchzone |
@@ -342,8 +342,8 @@
 | 334 | 207 | Brave Gridpiece |
 | 335 | 207 | Shylee Tilman |
 | 336 | 206 | RAEPR05 |
-| 337 | 205 | ElizabethAnn Dickinson |
-| 338 | 205 | Lylymom |
+| 337 | 205 | Lylymom |
+| 338 | 205 | ElizabethAnn Dickinson |
 | 339 | 204 | Ali Gralski |
 | 340 | 204 | Rebecca Doughman |
 | 341 | 203 | coleksquad |
@@ -479,8 +479,8 @@
 | 471 | 153 | Poppy Gridder |
 | 472 | 152 | James Smith |
 | 473 | 152 | Kristin King |
-| 474 | 152 | Anthony Mignacca |
-| 475 | 152 | JP Parks |
+| 474 | 152 | JP Parks |
+| 475 | 152 | Anthony Mignacca |
 | 476 | 151 | Jennifer Rajek |
 | 477 | 151 | Kia Humphery |
 | 478 | 151 | D'Aaron Black |
