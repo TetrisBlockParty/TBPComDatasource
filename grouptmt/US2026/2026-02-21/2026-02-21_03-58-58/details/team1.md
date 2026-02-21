@@ -67,8 +67,8 @@
 | 59 | 150 | Rico Rico |
 | 60 | 148 | Jessie Lynn |
 | 61 | 147 | Veronica Eve |
-| 62 | 145 | BigWeenie69 |
-| 63 | 145 | Lachelle Dillon |
+| 62 | 145 | Lachelle Dillon |
+| 63 | 145 | BigWeenie69 |
 | 64 | 144 | Plucky Ziggy |
 | 65 | 144 | Tana |
 | 66 | 144 | Tanya Carpenter-Reynolds |
@@ -153,8 +153,8 @@
 | 145 | 74 | Tyler Whitley |
 | 146 | 73 | Shanae Grant |
 | 147 | 72 | Tipsy Strikerpiece |
-| 148 | 71 | John Kim |
-| 149 | 71 | Brandi Egbert |
+| 148 | 71 | Brandi Egbert |
+| 149 | 71 | John Kim |
 | 150 | 70 | Seth Wesson |
 | 151 | 70 | Daring Fitclear |
 | 152 | 69 | Christina Torres |

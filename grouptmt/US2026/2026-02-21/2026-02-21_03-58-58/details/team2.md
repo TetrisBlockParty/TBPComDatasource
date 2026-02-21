@@ -210,8 +210,8 @@
 | 202 | 273 | Missie Lawson Gebhardt |
 | 203 | 271 | Oscar Bernie |
 | 204 | 271 | Ann Marie Davis |
-| 205 | 271 | Toni Lynn |
-| 206 | 271 | Lonne Emade |
+| 205 | 271 | Lonne Emade |
+| 206 | 271 | Toni Lynn |
 | 207 | 270 | Alexandra Weir |
 | 208 | 268 | Vanessa Moreno |
 | 209 | 267 | Mindy Leigh Head |
@@ -555,9 +555,9 @@
 | 547 | 109 | Scott |
 | 548 | 109 | Nicolle Danielle |
 | 549 | 109 | Stephanie Matas |
-| 550 | 109 | Jessica Vega |
-| 551 | 108 | Sean Kinsey |
-| 552 | 108 | John-Jessica Manongdo |
+| 550 | 109 | Jroc |
+| 551 | 108 | John-Jessica Manongdo |
+| 552 | 108 | Sean Kinsey |
 | 553 | 107 | Carl Bradshaw |
 | 554 | 107 | Dara |
 | 555 | 107 | Eileen Hale |
@@ -565,8 +565,8 @@
 | 557 | 107 | Funky Riseclear |
 | 558 | 106 | Arlet Alba |
 | 559 | 106 | Meganator42 |
-| 560 | 105 | bigskyeffect |
-| 561 | 105 | Denise Darknlovely Davis |
+| 560 | 105 | Denise Darknlovely Davis |
+| 561 | 105 | bigskyeffect |
 | 562 | 105 | Heather Westrum |
 | 563 | 105 | Jessica Wayne Cornwall |
 | 564 | 105 | trabuco |

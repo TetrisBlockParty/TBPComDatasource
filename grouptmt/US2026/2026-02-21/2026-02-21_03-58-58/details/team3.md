@@ -88,8 +88,8 @@
 | 80 | 200 | mjl574 |
 | 81 | 199 | joclisa |
 | 82 | 195 | Nicha Hooker |
-| 83 | 193 | Shunta Jacobs |
-| 84 | 193 | Clever Shiftsnap |
+| 83 | 193 | Clever Shiftsnap |
+| 84 | 193 | Shunta Jacobs |
 | 85 | 192 | Chasity |
 | 86 | 187 | Speedy Bridger |
 | 87 | 185 | Danielle Cutler |
