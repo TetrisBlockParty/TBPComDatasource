@@ -255,7 +255,7 @@
 | 247 | 263 | Taylor Flowers |
 | 248 | 262 | Taren Cowan |
 | 249 | 261 | Leah |
-| 250 | 261 | Em Chen |
+| 250 | 261 | Peppy Zone |
 | 251 | 261 | MrsClaudette Will'sIam Matthews |
 | 252 | 261 | Em Chen |
 | 253 | 260 | Denise Rickman |
@@ -266,8 +266,8 @@
 | 258 | 256 | Tee Jaleesa |
 | 259 | 255 | Santana Miyagi |
 | 260 | 254 | Julie Hamilton |
-| 261 | 252 | Matt Johnson |
-| 262 | 252 | Alezandra Smith |
+| 261 | 252 | Alezandra Smith |
+| 262 | 252 | Matt Johnson |
 | 263 | 251 | Ann Knutson Anderson |
 | 264 | 250 | Barbra Miller |
 | 265 | 249 | SwampRebel |
@@ -278,8 +278,8 @@
 | 270 | 248 | Dany Murillo |
 | 271 | 247 | Fancy Twister |
 | 272 | 247 | Andrea Devery Beck |
-| 273 | 246 | Stephanie Lumanlan |
-| 274 | 246 | Ashley Lopez |
+| 273 | 246 | Ashley Lopez |
+| 274 | 246 | Stephanie Lumanlan |
 | 275 | 245 | Rachael Senard |
 | 276 | 245 | Mischelle Clay |
 | 277 | 245 | Taryece Gause |

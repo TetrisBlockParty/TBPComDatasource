@@ -93,8 +93,8 @@
 | 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
 | 87 | 132 | Davery Spencer Adair |
-| 88 | 130 | Dandy Basegrid |
-| 89 | 130 | Trina Gee |
+| 88 | 130 | Trina Gee |
+| 89 | 130 | Dandy Basegrid |
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
@@ -173,8 +173,8 @@
 | 165 | 74 | Owicked1 |
 | 166 | 74 | Grace Joanne Agnant |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | John J. Cronin |
-| 169 | 72 | Tipsy Strikerpiece |
+| 168 | 72 | Tipsy Strikerpiece |
+| 169 | 72 | John J. Cronin |
 | 170 | 71 | John Kim |
 | 171 | 70 | Kenton Billings |
 | 172 | 70 | Seth Wesson |
