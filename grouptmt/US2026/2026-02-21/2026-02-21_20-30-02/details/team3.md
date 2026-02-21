@@ -136,8 +136,8 @@
 | 128 | 278 | Rufus Lincoln |
 | 129 | 276 | Crimson |
 | 130 | 272 | opf |
-| 131 | 271 | Leah Barnett |
-| 132 | 271 | Ashley Muncey |
+| 131 | 271 | Ashley Muncey |
+| 132 | 271 | Leah Barnett |
 | 133 | 270 | Stephanie Blkpep Davidson |
 | 134 | 267 | Denise Nardoni |
 | 135 | 263 | Angeline Joseph |
@@ -216,12 +216,12 @@
 | 208 | 168 | JerseyJess |
 | 209 | 167 | Grams |
 | 210 | 167 | Raven Dudley |
-| 211 | 166 | Beth Ingham |
+| 211 | 166 | Kelly Ann Child |
 | 212 | 166 | Betty Rosas |
-| 213 | 166 | Kelly Ann Child |
+| 213 | 166 | Beth Ingham |
 | 214 | 165 | Kali Kelz Williams |
-| 215 | 163 | Christine Trester |
-| 216 | 163 | Stephanie Hill |
+| 215 | 163 | Stephanie Hill |
+| 216 | 163 | Christine Trester |
 | 217 | 162 | Stephanie Whitefield |
 | 218 | 161 | Irene Arreguin |
 | 219 | 161 | BŘŰŤİÇŨŚ |
@@ -260,8 +260,8 @@
 | 252 | 142 | Jl |
 | 253 | 142 | Danielle Allison |
 | 254 | 141 | IamJust Neyamijah Washington Sr. |
-| 255 | 139 | Loopy Clusterer |
-| 256 | 139 | Funky Jumper |
+| 255 | 139 | Funky Jumper |
+| 256 | 139 | Loopy Clusterer |
 | 257 | 138 | Boldy Corner |
 | 258 | 137 | Joy Petroski |
 | 259 | 135 | Erykah |

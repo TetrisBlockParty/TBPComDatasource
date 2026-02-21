@@ -191,9 +191,9 @@
 | 183 | 124 | SammieJo Guy |
 | 184 | 124 | Allen Lloyd |
 | 185 | 123 | Chaz |
-| 186 | 122 | Carlos Ramirez |
-| 187 | 122 | Sherri |
-| 188 | 122 | 🥔🥔 Spudz |
+| 186 | 122 | Sherri |
+| 187 | 122 | 🥔🥔 Spudz |
+| 188 | 122 | Carlos Ramirez |
 | 189 | 121 | Smiley Tiltbuilder |
 | 190 | 121 | Joseph Pace |
 | 191 | 121 | Megan Cutshaw |
@@ -335,8 +335,8 @@
 | 327 | 73 | Lynn Marie |
 | 328 | 73 | Rheanda Weaskus |
 | 329 | 73 | Jennifer Perkins |
-| 330 | 72 | Raegan Lane-Ross |
-| 331 | 72 | Jackson Karen |
+| 330 | 72 | Jackson Karen |
+| 331 | 72 | Raegan Lane-Ross |
 | 332 | 72 | Brave Spinbuilder |
 | 333 | 71 | Speedy Wipeblock |
 | 334 | 71 | Dapper Climber |
