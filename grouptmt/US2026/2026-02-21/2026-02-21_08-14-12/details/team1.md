@@ -68,8 +68,8 @@
 | 60 | 198 | Happy Snapbuild |
 | 61 | 197 | Cynthia Bradley |
 | 62 | 194 | Sharon Reynolds |
-| 63 | 192 | Mandyy Rae |
-| 64 | 192 | Shaykmia |
+| 63 | 192 | Shaykmia |
+| 64 | 192 | Mandyy Rae |
 | 65 | 191 | Jazzy Framezone |
 | 66 | 191 | Giggly Builderline |
 | 67 | 190 | Thorne Shumate |
@@ -107,8 +107,8 @@
 | 99 | 133 | Bhelle Sumile |
 | 100 | 132 | Davery Spencer Adair |
 | 101 | 130 | Dandy Basegrid |
-| 102 | 128 | Uhog SF |
-| 103 | 128 | lil mickey |
+| 102 | 128 | lil mickey |
+| 103 | 128 | Uhog SF |
 | 104 | 127 | Michael |
 | 105 | 126 | Cece Ibarra |
 | 106 | 124 | Cartier |
@@ -156,9 +156,9 @@
 | 148 | 94 | Luciano Moreira |
 | 149 | 93 | Cody Gates |
 | 150 | 91 | Kimmie Kimms |
-| 151 | 90 | Dizzy Party |
+| 151 | 90 | TSwag |
 | 152 | 90 | Madison Wicks |
-| 153 | 90 | TSwag |
+| 153 | 90 | Dizzy Party |
 | 154 | 89 | Mara Hilker |
 | 155 | 87 | Jenny Gingrich Fuentes |
 | 156 | 87 | Jessi Sauer |

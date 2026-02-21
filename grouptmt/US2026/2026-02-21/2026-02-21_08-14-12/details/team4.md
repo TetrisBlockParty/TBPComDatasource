@@ -19,8 +19,8 @@
 | 11 | 608 | Denny Shives |
 | 12 | 606 | Rachel Anne |
 | 13 | 594 | Lucille Truesdale |
-| 14 | 590 | Dee Kay |
-| 15 | 590 | Valerie Roberts |
+| 14 | 590 | Valerie Roberts |
+| 15 | 590 | Dee Kay |
 | 16 | 587 | Koshin Abdirahman |
 | 17 | 586 | Chilly Line |
 | 18 | 578 | Leah Gorsuch |
@@ -256,8 +256,8 @@
 | 248 | 61 | TeeJ |
 | 249 | 61 | Bradley Reeves |
 | 250 | 60 | Ahleek Mitchell |
-| 251 | 59 | Jasmine S Caldwell |
-| 252 | 59 | Lori |
+| 251 | 59 | Lori |
+| 252 | 59 | Jasmine S Caldwell |
 | 253 | 59 | Gilles Lanctot |
 | 254 | 59 | Jen Mattei |
 | 255 | 58 | Rebecca Morris |
@@ -360,10 +360,10 @@
 | 352 | 43 | Manuel Groleau |
 | 353 | 43 | Dot Flanagan |
 | 354 | 42 | Kristina Black |
-| 355 | 42 | Mary Ann Pabukis |
-| 356 | 42 | Zzz |
-| 357 | 42 | Natasha Crossley |
-| 358 | 42 | Kim Klutz Olson |
+| 355 | 42 | Zzz |
+| 356 | 42 | Mary Ann Pabukis |
+| 357 | 42 | Kim Klutz Olson |
+| 358 | 42 | Natasha Crossley |
 | 359 | 41 | Helen Chao |
 | 360 | 41 | Juicee |
 | 361 | 41 | Berklie Apedaile |

@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Suzieq |
-| 36 | 587 | Danielle Becker |
+| 35 | 587 | Danielle Becker |
+| 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
 | 38 | 546 | Snappy Glidepiece |
 | 39 | 546 | Dolores Falco |
@@ -85,8 +85,8 @@
 | 77 | 322 | Michelle |
 | 78 | 320 | Or Reznitsky |
 | 79 | 316 | Fancy Cascader |
-| 80 | 309 | Rich LeBlanc |
-| 81 | 309 | CeceGeGe |
+| 80 | 309 | CeceGeGe |
+| 81 | 309 | Rich LeBlanc |
 | 82 | 307 | Peggi Charon |
 | 83 | 300 | Sherika C. McDaniels |
 | 84 | 299 | Cynthia Castros-Hampton |
@@ -118,8 +118,8 @@
 | 110 | 200 | Twisty Brick LT |
 | 111 | 199 | joclisa |
 | 112 | 196 | Speedy Bridger |
-| 113 | 195 | Nicha Hooker |
-| 114 | 195 | Jenny Hrndz |
+| 113 | 195 | Jenny Hrndz |
+| 114 | 195 | Nicha Hooker |
 | 115 | 194 | glichmod |
 | 116 | 193 | Clever Shiftsnap |
 | 117 | 192 | Chasity |
@@ -208,8 +208,8 @@
 | 200 | 108 | LaTanya GeminiondaRise Johnson |
 | 201 | 108 | Rachel Napper |
 | 202 | 107 | Sherry Ogden |
-| 203 | 106 | Desiree Gold |
-| 204 | 106 | Eon Harris |
+| 203 | 106 | Eon Harris |
+| 204 | 106 | Desiree Gold |
 | 205 | 105 | Emi |
 | 206 | 105 | Carol Cain Thurman |
 | 207 | 104 | mommablock |

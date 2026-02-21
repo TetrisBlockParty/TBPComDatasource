@@ -196,8 +196,8 @@
 | 188 | 359 | Brainy Smurf |
 | 189 | 358 | Arwa Fatimah |
 | 190 | 357 | Shannon Byrd |
-| 191 | 356 | Alyssaaelena |
-| 192 | 356 | Deyawn Smith |
+| 191 | 356 | Deyawn Smith |
+| 192 | 356 | Alyssaaelena |
 | 193 | 352 | ruth |
 | 194 | 350 | Chris Harr |
 | 195 | 350 | Kimberly Randesi |
@@ -394,8 +394,8 @@
 | 386 | 198 | Angie Bolton Workman |
 | 387 | 198 | Alyssa Dean |
 | 388 | 196 | Besma Ao |
-| 389 | 196 | Alexandra Reese |
-| 390 | 196 | Cass Shirley |
+| 389 | 196 | Cass Shirley |
+| 390 | 196 | Alexandra Reese |
 | 391 | 195 | Snappy Shatterfit |
 | 392 | 195 | Emily Lyric Converse |
 | 393 | 194 | Mike Aprilliano |
@@ -442,8 +442,8 @@
 | 434 | 177 | Angel |
 | 435 | 177 | Ryan Meilleur |
 | 436 | 177 | John |
-| 437 | 176 | Trisha Gallagher |
-| 438 | 176 | Jennifer Malloy - Cardy |
+| 437 | 176 | Jennifer Malloy - Cardy |
+| 438 | 176 | Trisha Gallagher |
 | 439 | 175 | Snippy Rumbler |
 | 440 | 175 | Lucero Ramirez |
 | 441 | 175 | Shandrica Lowe |
@@ -502,8 +502,8 @@
 | 494 | 156 | Nuggets |
 | 495 | 156 | Deanna Morton |
 | 496 | 156 | RetroLemur |
-| 497 | 155 | Chelle |
-| 498 | 155 | Monarca26 |
+| 497 | 155 | Monarca26 |
+| 498 | 155 | Chelle |
 | 499 | 155 | Angela Murgia-Owen |
 | 500 | 154 | Tiffney Wroten |
 | 501 | 154 | Cini |
@@ -685,7 +685,7 @@
 | 677 | 117 | Kelli Clark |
 | 678 | 117 | Luceros7 |
 | 679 | 117 | BeaNzMaMa |
-| 680 | 117 | BrokeBetty |
+| 680 | 117 | Keri Higuchi |
 | 681 | 117 | Myleaha Holley |
 | 682 | 117 | BrokeBetty |
 | 683 | 116 | Slimkaite |
