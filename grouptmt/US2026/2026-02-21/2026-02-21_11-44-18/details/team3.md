@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -213,18 +213,18 @@
 | 205 | 115 | Jennifer Alvey |
 | 206 | 115 | Hoppy Buildout |
 | 207 | 114 | Jessica Bechler |
-| 208 | 113 | Brian Battjes |
-| 209 | 113 | Valerie Gendron |
+| 208 | 113 | Valerie Gendron |
+| 209 | 113 | Brian Battjes |
 | 210 | 111 | Stephanie Zahm |
 | 211 | 110 | Danielle Weikel |
 | 212 | 110 | Stella |
 | 213 | 110 | Tye Stovall |
 | 214 | 109 | Brave Brickster |
-| 215 | 109 | Fredd Thomas |
-| 216 | 109 | Diana Ibarra |
+| 215 | 109 | Diana Ibarra |
+| 216 | 109 | Fredd Thomas |
 | 217 | 109 | mzcatzy |
-| 218 | 108 | Rachel Napper |
-| 219 | 108 | LaTanya GeminiondaRise Johnson |
+| 218 | 108 | LaTanya GeminiondaRise Johnson |
+| 219 | 108 | Rachel Napper |
 | 220 | 107 | Sherry Ogden |
 | 221 | 106 | Noettín Kan Zasnemoore |
 | 222 | 106 | Desiree Gold |
@@ -297,8 +297,8 @@
 | 289 | 85 | Crystel b520 |
 | 290 | 85 | Rania Zaqout |
 | 291 | 84 | Spunky Racker |
-| 292 | 84 | Flashy Rumbler |
-| 293 | 84 | gremicx |
+| 292 | 84 | gremicx |
+| 293 | 84 | Flashy Rumbler |
 | 294 | 83 | Deseree Ewing |
 | 295 | 82 | Rebecca Funderburk Kirby |
 | 296 | 82 | Nikki Pags |

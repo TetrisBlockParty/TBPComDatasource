@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -330,8 +330,8 @@
 | 322 | 263 | Taylor Flowers |
 | 323 | 262 | Taren Cowan |
 | 324 | 261 | MrsClaudette Will'sIam Matthews |
-| 325 | 260 | Denise Rickman |
-| 326 | 260 | Ebony Deloach Bryant |
+| 325 | 260 | Ebony Deloach Bryant |
+| 326 | 260 | Denise Rickman |
 | 327 | 257 | Lyndi Robinson Wakefield |
 | 328 | 256 | Giddy Gridclear |
 | 329 | 256 | Tee Jaleesa |
@@ -376,8 +376,8 @@
 | 368 | 234 | Manny Trindade |
 | 369 | 234 | Jaybee Nguyen |
 | 370 | 233 | Nutty Matchline |
-| 371 | 233 | Jumpy Gridclear |
-| 372 | 233 | Robin Kerby |
+| 371 | 233 | Robin Kerby |
+| 372 | 233 | Jumpy Gridclear |
 | 373 | 232 | Amber Brion |
 | 374 | 231 | Dylan Thomason |
 | 375 | 231 | Hong Tang |
@@ -415,8 +415,8 @@
 | 407 | 207 | Shylee Tilman |
 | 408 | 206 | RAEPR05 |
 | 409 | 206 | Neko Preston |
-| 410 | 205 | ElizabethAnn Dickinson |
-| 411 | 205 | Lylymom |
+| 410 | 205 | Lylymom |
+| 411 | 205 | ElizabethAnn Dickinson |
 | 412 | 204 | Ali Gralski |
 | 413 | 204 | Rebecca Doughman |
 | 414 | 203 | Gary Stash |
@@ -459,8 +459,8 @@
 | 451 | 184 | Brittany Radaszewski |
 | 452 | 184 | HarleyJane |
 | 453 | 183 | Wakanda Forever |
-| 454 | 183 | Brandon McDonald |
-| 455 | 183 | Brenna Ann |
+| 454 | 183 | Brenna Ann |
+| 455 | 183 | Brandon McDonald |
 | 456 | 183 | Lynzekwi |
 | 457 | 182 | Donna M Carter |
 | 458 | 182 | Tamara Bailey |
@@ -483,8 +483,8 @@
 | 475 | 176 | Jennifer Malloy - Cardy |
 | 476 | 176 | Trisha Gallagher |
 | 477 | 175 | Snippy Rumbler |
-| 478 | 175 | Shandrica Lowe |
-| 479 | 175 | Tina Blessed Cage |
+| 478 | 175 | Tina Blessed Cage |
+| 479 | 175 | Shandrica Lowe |
 | 480 | 175 | Lucero Ramirez |
 | 481 | 174 | Jason Garnatz |
 | 482 | 174 | Veronica Guerra |
@@ -820,8 +820,8 @@
 | 812 | 110 | Abhishek Mutha |
 | 813 | 109 | Andrew Engman |
 | 814 | 109 | Jaxson |
-| 815 | 109 | Mo Shine On |
-| 816 | 109 | hyperbole |
+| 815 | 109 | hyperbole |
+| 816 | 109 | Mo Shine On |
 | 817 | 109 | Stephanie Matas |
 | 818 | 109 | Scott |
 | 819 | 109 | Chummy Caster |
@@ -884,9 +884,9 @@
 | 876 | 102 | Mandy Fisher |
 | 877 | 101 | Elizabeth Cotton |
 | 878 | 101 | Chipper Risebuilder |
-| 879 | 101 | Elizabeth Cotton |
+| 879 | 101 | Boldy Block |
 | 880 | 101 | Britney Nelson Coy |
-| 881 | 101 | D5wag2014 |
+| 881 | 101 | Sandra Link-Gable |
 | 882 | 101 | Joice Hansen |
 | 883 | 101 | Speedy Twistbuilder |
 | 884 | 101 | Janai Vrabel |

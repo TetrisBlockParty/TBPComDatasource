@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -104,9 +104,9 @@
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Jessica Bohlken |
+| 99 | 134 | Chirpy Basepiece |
 | 100 | 134 | Serena Goodridge |
-| 101 | 134 | Chirpy Basepiece |
+| 101 | 134 | Jessica Bohlken |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Jessica Cagle |
 | 104 | 132 | Degenerate |
@@ -270,7 +270,7 @@
 | 262 | 65 | Lee Silpe |
 | 263 | 65 | Angela Geist Jusinski |
 | 264 | 64 | Sarah Brown |
-| 265 | 64 | rebel4lyfe |
+| 265 | 64 | Joseph Edmonson |
 | 266 | 64 | Mousey406 |
 | 267 | 64 | rebel4lyfe |
 | 268 | 63 | Gilles Lanctot |
