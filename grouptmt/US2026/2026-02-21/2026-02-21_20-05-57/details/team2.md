@@ -154,8 +154,8 @@
 | 146 | 705 | Nika Bee |
 | 147 | 704 | Nerdy Clearfit |
 | 148 | 700 | Vincent Petrella |
-| 149 | 700 | Beverly Owens |
-| 150 | 700 | Rosemadder |
+| 149 | 700 | Rosemadder |
+| 150 | 700 | Beverly Owens |
 | 151 | 698 | Lola Contreras |
 | 152 | 697 | Real Ri |
 | 153 | 695 | Debra Williams |
@@ -188,8 +188,8 @@
 | 180 | 604 | Danielle Johnson-Chandler |
 | 181 | 603 | Cassie Maynard |
 | 182 | 597 | Erica Williams |
-| 183 | 596 | Jelly |
-| 184 | 596 | Ellie Jonas |
+| 183 | 596 | Ellie Jonas |
+| 184 | 596 | Jelly |
 | 185 | 592 | Ashle Scranton |
 | 186 | 591 | Alisha |
 | 187 | 591 | Diana Fitzwater |

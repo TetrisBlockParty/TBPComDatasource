@@ -56,8 +56,8 @@
 | 48 | 403 | Nancy Green |
 | 49 | 392 | Redlicious 1 |
 | 50 | 385 | Jazzy Framezone |
-| 51 | 382 | Anaid Sanchez |
-| 52 | 382 | Lori Sanders- Davis |
+| 51 | 382 | Lori Sanders- Davis |
+| 52 | 382 | Anaid Sanchez |
 | 53 | 375 | Angel Fowler |
 | 54 | 356 | Tinah Montanna |
 | 55 | 352 | Jacqueline Williams |
@@ -104,8 +104,8 @@
 | 96 | 222 | Kristen Gideon |
 | 97 | 214 | Billie Dawn Sparks |
 | 98 | 213 | Lexuriuos Lifestlye |
-| 99 | 212 | Mandyy Rae |
-| 100 | 212 | Jaimie Lynn |
+| 99 | 212 | Jaimie Lynn |
+| 100 | 212 | Mandyy Rae |
 | 101 | 211 | Marianita Garcia |
 | 102 | 210 | Ly Phethmany |
 | 103 | 204 | Ananda Mendez |
@@ -126,8 +126,8 @@
 | 118 | 186 | Jennifer Olewnik Soborowski |
 | 119 | 185 | Ash Galvan |
 | 120 | 182 | Spunky Piecebuilder |
-| 121 | 180 | BigWeenie69 |
-| 122 | 180 | Erez Yosef |
+| 121 | 180 | Erez Yosef |
+| 122 | 180 | BigWeenie69 |
 | 123 | 179 | Danielle Little-Daugherty |
 | 124 | 178 | Chad Atchley |
 | 125 | 176 | Basment Living |

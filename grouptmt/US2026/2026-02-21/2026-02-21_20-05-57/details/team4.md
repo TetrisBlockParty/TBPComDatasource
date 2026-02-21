@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -55,8 +55,8 @@
 | 47 | 433 | Isabel Aguilar |
 | 48 | 427 | Tammi Crnza |
 | 49 | 419 | Lisa Davis |
-| 50 | 411 | Jonathan Kimbrough |
-| 51 | 411 | TeeJ |
+| 50 | 411 | TeeJ |
+| 51 | 411 | Jonathan Kimbrough |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -110,8 +110,8 @@
 | 102 | 197 | Swanky Fitline |
 | 103 | 196 | Jeff Brian Gates |
 | 104 | 194 | Zany Twisterfit |
-| 105 | 192 | Crystal Carroll |
-| 106 | 192 | Shauna Havard |
+| 105 | 192 | Shauna Havard |
+| 106 | 192 | Crystal Carroll |
 | 107 | 191 | Melvin Baird |
 | 108 | 191 | loulou |
 | 109 | 189 | Calvin Dennis |
@@ -331,8 +331,8 @@
 | 323 | 74 | Dizzy Matchzone |
 | 324 | 74 | Sharyn Lemire |
 | 325 | 74 | Matt Gooder |
-| 326 | 73 | Lynn Marie |
-| 327 | 73 | Rheanda Weaskus |
+| 326 | 73 | Rheanda Weaskus |
+| 327 | 73 | Lynn Marie |
 | 328 | 72 | Jackson Karen |
 | 329 | 72 | Brave Spinbuilder |
 | 330 | 72 | Jennifer Perkins |
@@ -432,7 +432,7 @@
 | 424 | 57 | Gracie Ann Taylor |
 | 425 | 57 | Jeff Roberts |
 | 426 | 57 | Groovy Brickmatch |
-| 427 | 56 | Squeezy Pearsall |
+| 427 | 56 | Elle Joe |
 | 428 | 56 | June Hoffman |
 | 429 | 56 | Squeezy Pearsall |
 | 430 | 56 | Amy C Brown |

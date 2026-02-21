@@ -103,8 +103,8 @@
 | 95 | 390 | Annie Déè |
 | 96 | 389 | Elissa S-k |
 | 97 | 386 | Katie Knaus |
-| 98 | 378 | Makelini Mausia |
-| 99 | 378 | Tasha Schriewer |
+| 98 | 378 | Tasha Schriewer |
+| 99 | 378 | Makelini Mausia |
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
@@ -367,7 +367,7 @@
 | 359 | 97 | Paula Little |
 | 360 | 96 | Oliver Neal II |
 | 361 | 96 | Christopher Woost |
-| 362 | 96 | Oliver Neal II |
+| 362 | 96 | D3NO |
 | 363 | 95 | Trice Thomas |
 | 364 | 95 | Brooke Bauer |
 | 365 | 94 | Tracey Cox |
