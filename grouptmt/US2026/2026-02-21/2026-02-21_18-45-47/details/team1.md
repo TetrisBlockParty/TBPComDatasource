@@ -128,8 +128,8 @@
 | 120 | 169 | Michael |
 | 121 | 169 | Abbey Crespo |
 | 122 | 168 | Standia Civil |
-| 123 | 166 | Tana |
-| 124 | 166 | Rico Rico |
+| 123 | 166 | Rico Rico |
+| 124 | 166 | Tana |
 | 125 | 165 | Veronica Eve |
 | 126 | 163 | Tyler Whitley |
 | 127 | 162 | Tanya Carpenter-Reynolds |
@@ -161,8 +161,8 @@
 | 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
-| 156 | 135 | Cody Slav |
-| 157 | 135 | Giddy Cascade |
+| 156 | 135 | Giddy Cascade |
+| 157 | 135 | Cody Slav |
 | 158 | 133 | Breanna Luna |
 | 159 | 132 | Cody Gates |
 | 160 | 132 | Davery Spencer Adair |

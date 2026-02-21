@@ -142,8 +142,8 @@
 | 134 | 705 | Roger Grabbit |
 | 135 | 704 | Nerdy Clearfit |
 | 136 | 700 | Vincent Petrella |
-| 137 | 700 | Beverly Owens |
-| 138 | 700 | Rosemadder |
+| 137 | 700 | Rosemadder |
+| 138 | 700 | Beverly Owens |
 | 139 | 698 | Lola Contreras |
 | 140 | 697 | Real Ri |
 | 141 | 694 | Vo'Landa Reels |
@@ -247,8 +247,8 @@
 | 239 | 466 | Amélie Cadieux |
 | 240 | 465 | Maya June |
 | 241 | 465 | Drwatson187 |
-| 242 | 464 | Ryan Gunther |
-| 243 | 464 | Nett |
+| 242 | 464 | Nett |
+| 243 | 464 | Ryan Gunther |
 | 244 | 463 | Sue Leard |
 | 245 | 460 | Cody Smith-Candelaria |
 | 246 | 459 | Brainy Smurf |

@@ -149,8 +149,8 @@
 | 141 | 223 | Jeana Gilbert |
 | 142 | 222 | Hoppy Buildout |
 | 143 | 222 | Jimmie Clemons |
-| 144 | 219 | Tom Nault |
-| 145 | 219 | Shunta Jacobs |
+| 144 | 219 | Shunta Jacobs |
+| 145 | 219 | Tom Nault |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Aaron Pitkin |
 | 148 | 214 | Jenny Hrndz |
@@ -181,8 +181,8 @@
 | 173 | 190 | Fallorina Susana |
 | 174 | 189 | Staci George Fitzsimmons |
 | 175 | 189 | Sissy Lowery Davis |
-| 176 | 188 | Angie Harper |
-| 177 | 188 | Brenda Lee Vander Molen |
+| 176 | 188 | Brenda Lee Vander Molen |
+| 177 | 188 | Angie Harper |
 | 178 | 186 | Khaleada McGill Banks |
 | 179 | 185 | Sashay Tapae Simpson |
 | 180 | 185 | Aerian Preston |
@@ -226,7 +226,7 @@
 | 218 | 153 | Daryn Elliott |
 | 219 | 152 | Lesley Perez |
 | 220 | 152 | Katrina E Jelks |
-| 221 | 152 | Lesley Perez |
+| 221 | 152 | Shiny Zonebuilder |
 | 222 | 150 | Valerie Gendron |
 | 223 | 149 | Angel Mendez |
 | 224 | 149 | Peachy Rollfit |
@@ -239,12 +239,12 @@
 | 231 | 146 | Latoya Mayne |
 | 232 | 146 | Carrie Huskey |
 | 233 | 146 | Denita Mungro |
-| 234 | 145 | Emma |
-| 235 | 145 | Bryan Byrd |
+| 234 | 145 | Bryan Byrd |
+| 235 | 145 | Emma |
 | 236 | 145 | Jeni Dow |
-| 237 | 142 | David Bardo |
-| 238 | 142 | Danielle Allison |
-| 239 | 142 | Erica Anderson |
+| 237 | 142 | Danielle Allison |
+| 238 | 142 | Erica Anderson |
+| 239 | 142 | David Bardo |
 | 240 | 142 | Jl |
 | 241 | 141 | IamJust Neyamijah Washington Sr. |
 | 242 | 140 | Troy |
@@ -357,7 +357,7 @@
 | 349 | 93 | Kevin Russell |
 | 350 | 93 | Tiffany Ford |
 | 351 | 93 | Martin Bernier |
-| 352 | 92 | Trice Thomas |
+| 352 | 92 | Jackie-Lynne Goertzen |
 | 353 | 92 | Jennifer Caputo |
 | 354 | 92 | Trice Thomas |
 | 355 | 92 | Melanie Sherwood |

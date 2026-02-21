@@ -104,10 +104,10 @@
 | 96 | 196 | Damn Libra |
 | 97 | 196 | Jeff Brian Gates |
 | 98 | 194 | Zany Twisterfit |
-| 99 | 192 | Crystal Carroll |
-| 100 | 192 | Shauna Havard |
-| 101 | 191 | loulou |
-| 102 | 191 | Melvin Baird |
+| 99 | 192 | Shauna Havard |
+| 100 | 192 | Crystal Carroll |
+| 101 | 191 | Melvin Baird |
+| 102 | 191 | loulou |
 | 103 | 189 | Calvin Dennis |
 | 104 | 187 | TheNeesh50 |
 | 105 | 187 | Swanky Fitline |
@@ -124,8 +124,8 @@
 | 116 | 174 | Dihcheese444 |
 | 117 | 173 | blockstar |
 | 118 | 173 | Ren Mc |
-| 119 | 170 | Peachy Fall |
-| 120 | 170 | Girl |
+| 119 | 170 | Girl |
+| 120 | 170 | Peachy Fall |
 | 121 | 164 | shark tato |
 | 122 | 164 | ThaEviLJeNiuZ |
 | 123 | 160 | ZeeZee |
@@ -183,9 +183,9 @@
 | 175 | 121 | Marcus Todd |
 | 176 | 120 | Joshua Guess |
 | 177 | 120 | KayM |
-| 178 | 119 | Kristin Manee |
+| 178 | 119 | Gwendolyn Pitcairn |
 | 179 | 119 | Judy Cox |
-| 180 | 119 | Gwendolyn Pitcairn |
+| 180 | 119 | Kristin Manee |
 | 181 | 118 | Mary Ann Pabukis |
 | 182 | 115 | Jayk |
 | 183 | 115 | Ultramarine |
