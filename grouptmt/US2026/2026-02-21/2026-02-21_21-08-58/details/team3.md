@@ -247,8 +247,8 @@
 | 239 | 152 | Shiny Zonebuilder |
 | 240 | 152 | Katrina E Jelks |
 | 241 | 150 | Valerie Gendron |
-| 242 | 149 | Alexis Taylor |
-| 243 | 149 | Peachy Rollfit |
+| 242 | 149 | Peachy Rollfit |
+| 243 | 149 | Alexis Taylor |
 | 244 | 149 | Angel Mendez |
 | 245 | 148 | Jennifer Alvey |
 | 246 | 148 | Gumbo |

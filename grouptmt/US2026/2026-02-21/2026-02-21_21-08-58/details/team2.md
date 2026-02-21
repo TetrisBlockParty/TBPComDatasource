@@ -207,8 +207,8 @@
 | 199 | 591 | Diana Fitzwater |
 | 200 | 587 | Hyper Cluster |
 | 201 | 586 | Stephen Stephen |
-| 202 | 583 | Steve Grotto |
-| 203 | 583 | Jessicah Myers |
+| 202 | 583 | Jessicah Myers |
+| 203 | 583 | Steve Grotto |
 | 204 | 579 | Gary Stash |
 | 205 | 578 | Sally Dennis |
 | 206 | 576 | Shannon Joslin |
@@ -253,8 +253,8 @@
 | 245 | 510 | Laquetta Royston |
 | 246 | 509 | Kelli Wells |
 | 247 | 506 | AISlop |
-| 248 | 504 | Gene Mills |
-| 249 | 504 | Cherica Taylor |
+| 248 | 504 | Cherica Taylor |
+| 249 | 504 | Gene Mills |
 | 250 | 503 | tejas25 |
 | 251 | 502 | Magic steve |
 | 252 | 502 | Poppy Snap |

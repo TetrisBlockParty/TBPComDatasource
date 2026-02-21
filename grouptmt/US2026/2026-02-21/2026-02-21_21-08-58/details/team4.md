@@ -47,8 +47,8 @@
 | 39 | 497 | Anthony Bryan Riva |
 | 40 | 494 | Rodney McMath Jr. |
 | 41 | 486 | Landon Keith Graffeo |
-| 42 | 483 | Kimberly Love |
-| 43 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Carmethia Clemons Haslerig |
+| 43 | 483 | Kimberly Love |
 | 44 | 470 | Carolyn Wallace |
 | 45 | 465 | Dawn Alexander |
 | 46 | 463 | Lisa Davis |
@@ -92,8 +92,8 @@
 | 84 | 255 | Lindsay Ball |
 | 85 | 254 | Holly Jolly |
 | 86 | 237 | Lori Walker |
-| 87 | 230 | Lucas J Sutton |
-| 88 | 230 | Autum Leigh |
+| 87 | 230 | Autum Leigh |
+| 88 | 230 | Lucas J Sutton |
 | 89 | 228 | Brittney Orengo |
 | 90 | 224 | H.R. Block |
 | 91 | 221 | Alyssa Papen |
@@ -155,9 +155,9 @@
 | 147 | 149 | Roger Coulter |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
-| 150 | 147 | Jay28 |
-| 151 | 147 | Shainne Brewer |
-| 152 | 147 | Chair |
+| 150 | 147 | Shainne Brewer |
+| 151 | 147 | Chair |
+| 152 | 147 | Jay28 |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
 | 155 | 141 | Marcus Todd |
@@ -320,11 +320,11 @@
 | 312 | 78 | Adawna Swires |
 | 313 | 78 | Sallie Sanborn |
 | 314 | 77 | JPW |
-| 315 | 77 | Mike |
-| 316 | 77 | Marvin Lou Martin |
+| 315 | 77 | Marvin Lou Martin |
+| 316 | 77 | Mike |
 | 317 | 76 | Rebecca Blake |
-| 318 | 76 | Kevin Bush |
-| 319 | 76 | Crystal Lynn |
+| 318 | 76 | Crystal Lynn |
+| 319 | 76 | Kevin Bush |
 | 320 | 76 | Cristy Duerksen |
 | 321 | 75 | Jennifer Perkins |
 | 322 | 75 | Heather Bruce |

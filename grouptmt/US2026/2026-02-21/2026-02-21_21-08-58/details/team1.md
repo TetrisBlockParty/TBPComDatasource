@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 576 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 521 | Hyp James NObettadanluvarat |
 | 37 | 517 | Felicia Lewis |
@@ -141,8 +141,8 @@
 | 133 | 177 | Michael |
 | 134 | 177 | ParisandCory Champagne |
 | 135 | 176 | Basment Living |
-| 136 | 171 | David DeSantis |
-| 137 | 171 | Greg Premoe |
+| 136 | 171 | Greg Premoe |
+| 137 | 171 | David DeSantis |
 | 138 | 170 | Veronica Eve |
 | 139 | 169 | Abbey Crespo |
 | 140 | 169 | Austin James |
