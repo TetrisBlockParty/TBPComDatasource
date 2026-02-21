@@ -937,10 +937,10 @@
 | 929 | 143 | Tammi Dorsey |
 | 930 | 143 | Gigi |
 | 931 | 143 | Cheery Puzzler |
-| 932 | 142 | Alison Emmons |
-| 933 | 142 | Marsha Sosa Kiech |
-| 934 | 142 | Brandy |
-| 935 | 142 | Eunique Griffin |
+| 932 | 142 | Marsha Sosa Kiech |
+| 933 | 142 | Alison Emmons |
+| 934 | 142 | Eunique Griffin |
+| 935 | 142 | Brandy |
 | 936 | 142 | candy |
 | 937 | 142 | Epic Stackbuilder |
 | 938 | 141 | Aprill Bolton |

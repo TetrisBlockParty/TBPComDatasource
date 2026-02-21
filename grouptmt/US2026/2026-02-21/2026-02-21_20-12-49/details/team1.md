@@ -127,15 +127,15 @@
 | 119 | 186 | Jennifer Olewnik Soborowski |
 | 120 | 185 | Ash Galvan |
 | 121 | 182 | Spunky Piecebuilder |
-| 122 | 180 | BigWeenie69 |
-| 123 | 180 | Erez Yosef |
+| 122 | 180 | Erez Yosef |
+| 123 | 180 | BigWeenie69 |
 | 124 | 179 | Danielle Little-Daugherty |
 | 125 | 178 | Chad Atchley |
 | 126 | 176 | Basment Living |
 | 127 | 175 | Nicole Roseberry Weber |
 | 128 | 174 | Michael |
-| 129 | 171 | Greg Premoe |
-| 130 | 171 | David DeSantis |
+| 129 | 171 | David DeSantis |
+| 130 | 171 | Greg Premoe |
 | 131 | 170 | Veronica Eve |
 | 132 | 169 | Abbey Crespo |
 | 133 | 168 | Standia Civil |

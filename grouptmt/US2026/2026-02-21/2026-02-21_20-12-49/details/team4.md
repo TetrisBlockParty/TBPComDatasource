@@ -220,8 +220,8 @@
 | 212 | 108 | Ali Ian |
 | 213 | 107 | Nerdy Twisterfit |
 | 214 | 107 | Rafael Valentin |
-| 215 | 106 | Zappy Snaplink |
-| 216 | 106 | Rebecca Morris |
+| 215 | 106 | Rebecca Morris |
+| 216 | 106 | Zappy Snaplink |
 | 217 | 105 | Brandi Durig |
 | 218 | 104 | Lindsey Gonzalez |
 | 219 | 104 | Chris Alexinas |
@@ -411,7 +411,7 @@
 | 403 | 60 | Gdiguy |
 | 404 | 60 | Kris Zulch |
 | 405 | 59 | Ziggy |
-| 406 | 59 | Red |
+| 406 | 59 | Amy Sanford |
 | 407 | 59 | Jasmine S Caldwell |
 | 408 | 59 | Red |
 | 409 | 59 | Albert Walker III |
@@ -491,7 +491,7 @@
 | 483 | 49 | Angel Raya |
 | 484 | 49 | Jessica Graham |
 | 485 | 49 | Rae Henderson |
-| 486 | 49 | Angel Raya |
+| 486 | 49 | Lakesha Johnson |
 | 487 | 49 | Brad Campbell |
 | 488 | 48 | Lilya Troutman |
 | 489 | 48 | Stephanie Mico |

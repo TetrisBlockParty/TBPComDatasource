@@ -68,8 +68,8 @@
 | 60 | 577 | Danielle Mogg |
 | 61 | 568 | MissTaylor |
 | 62 | 566 | Dan Rob |
-| 63 | 561 | Rachael McClain Owens |
-| 64 | 561 | Dolores Falco |
+| 63 | 561 | Dolores Falco |
+| 64 | 561 | Rachael McClain Owens |
 | 65 | 560 | Elaine Webb Graves |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
@@ -108,8 +108,8 @@
 | 100 | 372 | Jessica Bechler |
 | 101 | 371 | Jesse Olive |
 | 102 | 368 | Stephanie Woods |
-| 103 | 367 | mjl574 |
-| 104 | 367 | Nerdy Riseclear |
+| 103 | 367 | Nerdy Riseclear |
+| 104 | 367 | mjl574 |
 | 105 | 366 | Speedy Bridger |
 | 106 | 358 | Shannon Matthew Byers |
 | 107 | 356 | Adrian Marcel Pate |
