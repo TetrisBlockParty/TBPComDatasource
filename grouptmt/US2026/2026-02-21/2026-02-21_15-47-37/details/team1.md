@@ -68,8 +68,8 @@
 | 60 | 256 | Tipsy Column |
 | 61 | 252 | Dena Kayy |
 | 62 | 249 | Rachael |
-| 63 | 244 | Tdub |
-| 64 | 244 | Franswa |
+| 63 | 244 | Franswa |
+| 64 | 244 | Tdub |
 | 65 | 241 | Patrick Luckenbill |
 | 66 | 238 | Carrie Beck Geartz |
 | 67 | 237 | Elaine Elaine |

@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 785 | Kay |
 | 39 | 754 | Shonna Roberts |
@@ -104,18 +104,18 @@
 | 96 | 323 | Ashley Raines |
 | 97 | 320 | Or Reznitsky |
 | 98 | 316 | Fancy Cascader |
-| 99 | 309 | CeceGeGe |
-| 100 | 309 | Rich LeBlanc |
+| 99 | 309 | Rich LeBlanc |
+| 100 | 309 | CeceGeGe |
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |
-| 104 | 300 | Tessina Dewey-Mancino |
-| 105 | 300 | Sherika C. McDaniels |
+| 104 | 300 | Sherika C. McDaniels |
+| 105 | 300 | Tessina Dewey-Mancino |
 | 106 | 293 | Poppy Splitter |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 264 | Tiff Vs Tiffany |
-| 109 | 263 | mjl574 |
-| 110 | 263 | Angeline Joseph |
+| 109 | 263 | Angeline Joseph |
+| 110 | 263 | mjl574 |
 | 111 | 262 | Joe-Maggie Mathews |
 | 112 | 259 | opf |
 | 113 | 256 | ren |
@@ -164,14 +164,14 @@
 | 156 | 188 | Angie Harper |
 | 157 | 184 | Jennie Beranek |
 | 158 | 182 | Hyper Matchzone |
-| 159 | 181 | Karon Griffin |
-| 160 | 181 | Aerian Preston |
+| 159 | 181 | Aerian Preston |
+| 160 | 181 | Karon Griffin |
 | 161 | 179 | Joye Sims Binion |
 | 162 | 179 | Daira Largen |
 | 163 | 179 | Ashley Jones |
 | 164 | 178 | Khaleada McGill Banks |
-| 165 | 178 | Ryan Williams |
-| 166 | 178 | AlsoJess |
+| 165 | 178 | AlsoJess |
+| 166 | 178 | Ryan Williams |
 | 167 | 176 | Rebel124 |
 | 168 | 175 | DanceLuvLaugh |
 | 169 | 174 | Danielle Mogg |
@@ -195,11 +195,11 @@
 | 187 | 157 | Nicholas Roddy |
 | 188 | 156 | Bea Miles |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Katrina E Jelks |
-| 191 | 152 | Shiny Zonebuilder |
+| 190 | 152 | Shiny Zonebuilder |
+| 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | MsBee |
-| 194 | 151 | Brenda Lee Vander Molen |
+| 193 | 151 | Brenda Lee Vander Molen |
+| 194 | 151 | MsBee |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Desiree Gold |
 | 197 | 149 | Alexis Taylor |
@@ -232,8 +232,8 @@
 | 224 | 126 | April Matthew Kibble |
 | 225 | 125 | Shimika Enay Wallace |
 | 226 | 125 | Felicia Doxey |
-| 227 | 124 | Danielle Allison |
-| 228 | 124 | Funky Jumper |
+| 227 | 124 | Funky Jumper |
+| 228 | 124 | Danielle Allison |
 | 229 | 124 | Marci Mize Fandrich |
 | 230 | 123 | Michael Latasha Gray |
 | 231 | 122 | BabyTonj Evans |
@@ -257,8 +257,8 @@
 | 249 | 113 | Brian Battjes |
 | 250 | 113 | Brave Brickster |
 | 251 | 111 | Stephanie Zahm |
-| 252 | 111 | Jason-Ashley Ludlow |
-| 253 | 111 | France Vézina |
+| 252 | 111 | France Vézina |
+| 253 | 111 | Jason-Ashley Ludlow |
 | 254 | 110 | Carol Cain Thurman |
 | 255 | 110 | Tye Stovall |
 | 256 | 110 | Danielle Weikel |

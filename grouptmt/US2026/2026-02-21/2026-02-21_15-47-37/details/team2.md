@@ -15,8 +15,8 @@
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3770 | Kristen Sceurman |
 | 9 | 3739 | Cassie Donica |
-| 10 | 3567 | Rickey Goins Jr. |
-| 11 | 3567 | Taylana Mincy |
+| 10 | 3567 | Taylana Mincy |
+| 11 | 3567 | Rickey Goins Jr. |
 | 12 | 3553 | Tiaira Patrice' |
 | 13 | 3514 | Brian Jefferson |
 | 14 | 3460 | Poppy Snap |
@@ -478,8 +478,8 @@
 | 470 | 223 | Jess Morrison |
 | 471 | 223 | Kristi Biddinger |
 | 472 | 223 | Laura Wyatt |
-| 473 | 222 | Amanda Canterbury |
-| 474 | 222 | Jason Garnatz |
+| 473 | 222 | Jason Garnatz |
+| 474 | 222 | Amanda Canterbury |
 | 475 | 221 | Michelle Lee |
 | 476 | 220 | Katrina Weston |
 | 477 | 220 | Sho Nuff |
@@ -667,7 +667,7 @@
 | 659 | 157 | Andrew Bratton-Tomes |
 | 660 | 156 | Deanna Morton |
 | 661 | 156 | Gemini Washington |
-| 662 | 156 | Beth Decker |
+| 662 | 156 | Elizabeth Cotton |
 | 663 | 156 | Renee Bowers |
 | 664 | 156 | Beth Decker |
 | 665 | 155 | Chelle |
