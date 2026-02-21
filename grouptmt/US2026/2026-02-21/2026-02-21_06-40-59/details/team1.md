@@ -183,8 +183,8 @@
 | 175 | 74 | Owicked1 |
 | 176 | 74 | Eddie Dillon |
 | 177 | 73 | Shanae Grant |
-| 178 | 72 | Tipsy Strikerpiece |
-| 179 | 72 | John J. Cronin |
+| 178 | 72 | John J. Cronin |
+| 179 | 72 | Tipsy Strikerpiece |
 | 180 | 71 | John Kim |
 | 181 | 70 | Daring Fitclear |
 | 182 | 70 | Nerdy Linkblock |

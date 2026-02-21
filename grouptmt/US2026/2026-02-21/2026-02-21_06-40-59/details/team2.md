@@ -171,8 +171,8 @@
 | 163 | 381 | Amanda Ferrell |
 | 164 | 380 | Joshua Mandel |
 | 165 | 380 | Calandra Shaya Robinson |
-| 166 | 377 | Liberty |
-| 167 | 377 | Roy Salyer |
+| 166 | 377 | Roy Salyer |
+| 167 | 377 | Liberty |
 | 168 | 365 | April Dawn Gussler |
 | 169 | 364 | Shinette Dobson |
 | 170 | 363 | William Meussner |
@@ -203,8 +203,8 @@
 | 195 | 327 | Danielle Simmons |
 | 196 | 323 | Juanita Lyons |
 | 197 | 323 | Briana Alexander |
-| 198 | 318 | Arwa Fatimah |
-| 199 | 318 | Trista Dumais |
+| 198 | 318 | Trista Dumais |
+| 199 | 318 | Arwa Fatimah |
 | 200 | 317 | bru |
 | 201 | 314 | Amanda West |
 | 202 | 313 | Brittany Alicia |
@@ -272,16 +272,16 @@
 | 264 | 257 | Shameika Trail |
 | 265 | 257 | Lyndi Robinson Wakefield |
 | 266 | 256 | Giddy Gridclear |
-| 267 | 256 | Smashanator |
-| 268 | 256 | Tee Jaleesa |
+| 267 | 256 | Tee Jaleesa |
+| 268 | 256 | Smashanator |
 | 269 | 255 | Santana Miyagi |
-| 270 | 254 | Julie Hamilton |
-| 271 | 254 | Rose Fx |
+| 270 | 254 | Rose Fx |
+| 271 | 254 | Julie Hamilton |
 | 272 | 252 | Matt Johnson |
 | 273 | 251 | Ann Knutson Anderson |
 | 274 | 250 | Barbra Miller |
-| 275 | 249 | Nicky Jackson |
-| 276 | 249 | Porsche' Nicole |
+| 275 | 249 | Porsche' Nicole |
+| 276 | 249 | Nicky Jackson |
 | 277 | 249 | SwampRebel |
 | 278 | 248 | Bubbly Snapfit |
 | 279 | 248 | Maddy Petersen |
@@ -309,8 +309,8 @@
 | 301 | 236 | Julio A Laracuente |
 | 302 | 235 | Kimberly Mitchell |
 | 303 | 234 | Casey Schumacher |
-| 304 | 233 | Robin Kerby |
-| 305 | 233 | Alyssia Tancredi |
+| 304 | 233 | Alyssia Tancredi |
+| 305 | 233 | Robin Kerby |
 | 306 | 232 | Amber Brion |
 | 307 | 231 | Dylan Thomason |
 | 308 | 231 | Ginger |
@@ -338,8 +338,8 @@
 | 330 | 212 | BK Queen |
 | 331 | 212 | Amanda Canterbury |
 | 332 | 208 | Mema |
-| 333 | 207 | Melissa McCall |
-| 334 | 207 | Brave Gridpiece |
+| 333 | 207 | Brave Gridpiece |
+| 334 | 207 | Melissa McCall |
 | 335 | 207 | Shylee Tilman |
 | 336 | 206 | RAEPR05 |
 | 337 | 205 | Lylymom |
@@ -374,12 +374,12 @@
 | 366 | 191 | John Quiring |
 | 367 | 191 | Sho Nuff |
 | 368 | 190 | blarg |
-| 369 | 190 | Jessica Kaye DeAguero |
-| 370 | 190 | Jennifer Leigh |
+| 369 | 190 | Jennifer Leigh |
+| 370 | 190 | Jessica Kaye DeAguero |
 | 371 | 188 | Seth Wrieden |
 | 372 | 188 | Justin Hines |
-| 373 | 187 | Stefanie Zonzini-Gagliardi |
-| 374 | 187 | Amélie Cadieux |
+| 373 | 187 | Amélie Cadieux |
+| 374 | 187 | Stefanie Zonzini-Gagliardi |
 | 375 | 186 | Joshua Mullings |
 | 376 | 186 | Jackie Jackie Lee |
 | 377 | 185 | JacJac |
@@ -419,18 +419,18 @@
 | 411 | 173 | kippykay |
 | 412 | 173 | Ocean-Brianna McGregor |
 | 413 | 171 | Cappin You |
-| 414 | 170 | Dedra Steward |
-| 415 | 170 | Darlene Bowman |
+| 414 | 170 | Darlene Bowman |
+| 415 | 170 | Dedra Steward |
 | 416 | 170 | Kenya Felix |
-| 417 | 169 | Eddie Perez |
-| 418 | 169 | Hyper Cluster |
+| 417 | 169 | Hyper Cluster |
+| 418 | 169 | Eddie Perez |
 | 419 | 169 | Lively Catcher |
 | 420 | 169 | William Hunt |
 | 421 | 168 | Phil J. Grombliniak |
-| 422 | 168 | Kati Russeau |
-| 423 | 168 | HarleyJane |
-| 424 | 167 | Sabrena Yeisley |
-| 425 | 167 | mshir |
+| 422 | 168 | HarleyJane |
+| 423 | 168 | Kati Russeau |
+| 424 | 167 | mshir |
+| 425 | 167 | Sabrena Yeisley |
 | 426 | 166 | suuny |
 | 427 | 165 | Cathy Bitters |
 | 428 | 165 | Austin Wilson |
@@ -860,8 +860,8 @@
 | 852 | 88 | kickstante |
 | 853 | 88 | Ilse Chaparro |
 | 854 | 87 | Anita Rose Green |
-| 855 | 87 | Stephanie Garber |
-| 856 | 87 | Kayla Krol |
+| 855 | 87 | Kayla Krol |
+| 856 | 87 | Cotea Cunningham |
 | 857 | 87 | Chris Emanuel |
 | 858 | 87 | Epic Fitzone |
 | 859 | 87 | Stephanie Garber |

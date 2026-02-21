@@ -41,8 +41,8 @@
 | 33 | 587 | Suzieq |
 | 34 | 587 | Danielle Becker |
 | 35 | 568 | Shonna Roberts |
-| 36 | 546 | Dolores Falco |
-| 37 | 546 | Snappy Glidepiece |
+| 36 | 546 | Snappy Glidepiece |
+| 37 | 546 | Dolores Falco |
 | 38 | 541 | MissTaylor |
 | 39 | 533 | Sarah Fehring |
 | 40 | 528 | Natasha Jones |
@@ -70,8 +70,8 @@
 | 62 | 360 | Ebony West-Cundiff |
 | 63 | 351 | Calista Jo Dickson |
 | 64 | 343 | Silly Twist |
-| 65 | 342 | Trezure Gonzalez |
-| 66 | 342 | Annie Déè |
+| 65 | 342 | Annie Déè |
+| 66 | 342 | Trezure Gonzalez |
 | 67 | 338 | Danielle Rhoades |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
 | 69 | 325 | Shari Garber |
@@ -110,12 +110,12 @@
 | 102 | 195 | Nicha Hooker |
 | 103 | 195 | Jenny Hrndz |
 | 104 | 194 | glichmod |
-| 105 | 193 | Clever Shiftsnap |
-| 106 | 193 | Shunta Jacobs |
+| 105 | 193 | Shunta Jacobs |
+| 106 | 193 | Clever Shiftsnap |
 | 107 | 192 | Chasity |
 | 108 | 191 | Scott Carleton |
-| 109 | 187 | Speedy Bridger |
-| 110 | 187 | Katrina Schroeder |
+| 109 | 187 | Katrina Schroeder |
+| 110 | 187 | Speedy Bridger |
 | 111 | 184 | Jennie Beranek |
 | 112 | 182 | Hyper Matchzone |
 | 113 | 182 | Ashley Tookes |
@@ -141,8 +141,8 @@
 | 133 | 151 | MsBee |
 | 134 | 150 | Nicole Myers |
 | 135 | 149 | Bea Miles |
-| 136 | 149 | Angel Mendez |
-| 137 | 149 | Trisha Balmer |
+| 136 | 149 | Trisha Balmer |
+| 137 | 149 | Angel Mendez |
 | 138 | 147 | Sashay Tapae Simpson |
 | 139 | 146 | Denita Mungro |
 | 140 | 146 | Kelly Ann Child |
@@ -152,11 +152,11 @@
 | 144 | 140 | Gumbo |
 | 145 | 135 | Nicole Flippo |
 | 146 | 135 | Cheryl Hinch Tenbrook |
-| 147 | 134 | Emma |
-| 148 | 134 | DanceLuvLaugh |
+| 147 | 134 | DanceLuvLaugh |
+| 148 | 134 | Emma |
 | 149 | 131 | Jl |
-| 150 | 127 | Marquita Sheard |
-| 151 | 127 | Aerian Preston |
+| 150 | 127 | Aerian Preston |
+| 151 | 127 | Marquita Sheard |
 | 152 | 126 | Dan Rob |
 | 153 | 126 | Stephanie Burtin |
 | 154 | 125 | Shimika Enay Wallace |
@@ -175,8 +175,8 @@
 | 167 | 121 | Boldy Corner |
 | 168 | 120 | Jessica |
 | 169 | 118 | Fancy Curver |
-| 170 | 116 | Joy Petroski |
-| 171 | 116 | Skinny Baldez |
+| 170 | 116 | Skinny Baldez |
+| 171 | 116 | Joy Petroski |
 | 172 | 115 | Jennifer Alvey |
 | 173 | 114 | Jessica Bechler |
 | 174 | 114 | Nicholas Roddy |
