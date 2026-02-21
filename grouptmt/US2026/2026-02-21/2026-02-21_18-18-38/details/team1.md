@@ -160,8 +160,8 @@
 | 152 | 138 | Death |
 | 153 | 137 | Nadine Velardo |
 | 154 | 136 | Dino |
-| 155 | 135 | Cody Slav |
-| 156 | 135 | Giddy Cascade |
+| 155 | 135 | Giddy Cascade |
+| 156 | 135 | Cody Slav |
 | 157 | 134 | Trina Gee |
 | 158 | 133 | Breanna Luna |
 | 159 | 132 | Davery Spencer Adair |
@@ -905,10 +905,10 @@
 | 897 | 19 | Goofy Dropzone |
 | 898 | 19 | Krie |
 | 899 | 19 | Soany Barrera |
-| 900 | 19 | dhardy |
-| 901 | 19 | Zany Snapline |
-| 902 | 19 | Shy Lu |
-| 903 | 19 | Brian Ash |
+| 900 | 19 | Brian Ash |
+| 901 | 19 | Shy Lu |
+| 902 | 19 | Zany Snapline |
+| 903 | 19 | dhardy |
 | 904 | 19 | Cynthia Dalton |
 | 905 | 19 | Billy Furrer |
 | 906 | 19 | Edward Woodall |

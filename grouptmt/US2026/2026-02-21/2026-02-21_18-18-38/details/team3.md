@@ -191,8 +191,8 @@
 | 183 | 178 | Ryan Williams |
 | 184 | 178 | AlsoJess |
 | 185 | 176 | Trisha Balmer |
-| 186 | 175 | Connie Mohler-Fair |
-| 187 | 175 | DanceLuvLaugh |
+| 186 | 175 | DanceLuvLaugh |
+| 187 | 175 | Connie Mohler-Fair |
 | 188 | 174 | rosy |
 | 189 | 174 | Loopy Fallmatch |
 | 190 | 173 | Sarajane Lokan |
@@ -215,7 +215,7 @@
 | 207 | 156 | Bea Miles |
 | 208 | 155 | Loopy Fallzone |
 | 209 | 154 | Laurie Allen |
-| 210 | 153 | Rachel Napper |
+| 210 | 153 | Tipsy Zonebuilder |
 | 211 | 153 | Cozy Snaplink |
 | 212 | 153 | Rachel Napper |
 | 213 | 152 | Lesley Perez |
@@ -257,11 +257,11 @@
 | 249 | 131 | Darlene McMillan |
 | 250 | 130 | Weerae |
 | 251 | 129 | Juliana Dottore |
-| 252 | 128 | MizzMonick Smith |
-| 253 | 128 | Jen Lewis |
+| 252 | 128 | Jen Lewis |
+| 253 | 128 | MizzMonick Smith |
 | 254 | 127 | mzcatzy |
-| 255 | 126 | Pam Holt Powell |
-| 256 | 126 | April Matthew Kibble |
+| 255 | 126 | April Matthew Kibble |
+| 256 | 126 | Pam Holt Powell |
 | 257 | 126 | RickyG |
 | 258 | 125 | Shimika Enay Wallace |
 | 259 | 125 | Felicia Doxey |
@@ -270,8 +270,8 @@
 | 262 | 122 | Eon Harris |
 | 263 | 122 | Giggly Brickroll |
 | 264 | 122 | BabyTonj Evans |
-| 265 | 121 | Noettín Kan Zasnemoore |
-| 266 | 121 | Fredd Thomas |
+| 265 | 121 | Fredd Thomas |
+| 266 | 121 | Noettín Kan Zasnemoore |
 | 267 | 121 | France Vézina |
 | 268 | 120 | Lys |
 | 269 | 119 | BugMansMom |

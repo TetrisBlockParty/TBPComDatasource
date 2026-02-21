@@ -197,15 +197,15 @@
 | 189 | 110 | April Rondinone |
 | 190 | 108 | Crystal Nicolette Moore |
 | 191 | 108 | Ali Ian |
-| 192 | 107 | Mary Ann Pabukis |
+| 192 | 107 | Rafael Valentin |
 | 193 | 107 | Marcus Todd |
 | 194 | 107 | Mary Ann Pabukis |
 | 195 | 106 | Avy Absol |
 | 196 | 104 | Katherine Crane |
 | 197 | 104 | Chris Alexinas |
 | 198 | 103 | Lauren Lamb |
-| 199 | 103 | Chris Bernstein |
-| 200 | 103 | Sarah Brown |
+| 199 | 103 | Sarah Brown |
+| 200 | 103 | Chris Bernstein |
 | 201 | 103 | Richard-April Kice |
 | 202 | 102 | Autumn Kumzi |
 | 203 | 102 | Faja |
