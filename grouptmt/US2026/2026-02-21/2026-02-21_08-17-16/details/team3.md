@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
 | 38 | 546 | Snappy Glidepiece |
 | 39 | 546 | Dolores Falco |
@@ -160,10 +160,10 @@
 | 152 | 142 | Erica Anderson |
 | 153 | 140 | Jay Horn |
 | 154 | 140 | Gumbo |
-| 155 | 135 | Nicole Flippo |
-| 156 | 135 | Cheryl Hinch Tenbrook |
-| 157 | 134 | DanceLuvLaugh |
-| 158 | 134 | Emma |
+| 155 | 135 | Cheryl Hinch Tenbrook |
+| 156 | 135 | Nicole Flippo |
+| 157 | 134 | Emma |
+| 158 | 134 | DanceLuvLaugh |
 | 159 | 131 | Jl |
 | 160 | 129 | Stephanie Burtin |
 | 161 | 127 | Marquita Sheard |

@@ -41,8 +41,8 @@
 | 33 | 345 | Ancient Intuition |
 | 34 | 338 | Nope Young |
 | 35 | 337 | BertMofo |
-| 36 | 329 | Michelle Pearman |
-| 37 | 329 | Jenna Ingersoll |
+| 36 | 329 | Jenna Ingersoll |
+| 37 | 329 | Michelle Pearman |
 | 38 | 320 | Kimyatta Cavin |
 | 39 | 307 | Kimberly Love |
 | 40 | 306 | Lisa Davis |
@@ -189,8 +189,8 @@
 | 181 | 81 | Carlos Ramirez |
 | 182 | 81 | Nubian1 |
 | 183 | 81 | Michelle Parker |
-| 184 | 80 | Melissa Adams |
-| 185 | 80 | Chaz Duncan |
+| 184 | 80 | Chaz Duncan |
+| 185 | 80 | Melissa Adams |
 | 186 | 79 | Perky Piecegrid |
 | 187 | 79 | Kametsunoyaiba |
 | 188 | 79 | Anthony Bryan Riva |
@@ -295,13 +295,13 @@
 | 287 | 54 | Lisha Billups |
 | 288 | 53 | Allison Judith |
 | 289 | 53 | Poppy Brickmatch |
-| 290 | 52 | Nerdy Twisterfit |
-| 291 | 52 | Chassidy Martin |
+| 290 | 52 | Chassidy Martin |
+| 291 | 52 | Nerdy Twisterfit |
 | 292 | 52 | Nicole Silvers |
-| 293 | 51 | Frank Cook |
-| 294 | 51 | George Nutt |
-| 295 | 50 | Elie Pean |
-| 296 | 50 | Kelly Duncan |
+| 293 | 51 | George Nutt |
+| 294 | 51 | Frank Cook |
+| 295 | 50 | Kelly Duncan |
+| 296 | 50 | Elie Pean |
 | 297 | 50 | Christian Torres |
 | 298 | 50 | Smiley Linkgrid |
 | 299 | 50 | Sarah Brown |

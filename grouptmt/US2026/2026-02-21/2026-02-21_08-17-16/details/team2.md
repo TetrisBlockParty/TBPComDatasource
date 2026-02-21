@@ -228,8 +228,8 @@
 | 220 | 323 | Briana Alexander |
 | 221 | 318 | Trista Dumais |
 | 222 | 317 | Heather Westrum |
-| 223 | 317 | Dizzy Zone |
-| 224 | 317 | bru |
+| 223 | 317 | bru |
+| 224 | 317 | Dizzy Zone |
 | 225 | 315 | Alisa Lamb |
 | 226 | 314 | Amanda West |
 | 227 | 313 | Amélie Cadieux |
@@ -254,8 +254,8 @@
 | 246 | 293 | Scott Treadway |
 | 247 | 293 | David Holliday |
 | 248 | 290 | Jessie McDougald |
-| 249 | 288 | Megan Phillips |
-| 250 | 288 | Elisheva Mizrachi |
+| 249 | 288 | Elisheva Mizrachi |
+| 250 | 288 | Megan Phillips |
 | 251 | 286 | Ryan Gunther |
 | 252 | 286 | Jennifer Darby |
 | 253 | 285 | June E Hanson |
@@ -303,8 +303,8 @@
 | 295 | 256 | CC |
 | 296 | 255 | Santana Miyagi |
 | 297 | 254 | Julie Hamilton |
-| 298 | 254 | Elizabeth Diraffaele |
-| 299 | 254 | Rose Fx |
+| 298 | 254 | Rose Fx |
+| 299 | 254 | Elizabeth Diraffaele |
 | 300 | 253 | Tansaria Couch-Butler |
 | 301 | 252 | Matt Johnson |
 | 302 | 252 | Cheech Dta |
