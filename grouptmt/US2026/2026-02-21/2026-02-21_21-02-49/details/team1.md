@@ -26,8 +26,8 @@
 | 18 | 792 | LaQuetta Faith Hines |
 | 19 | 781 | Robert Beck |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Zappy Curvetile |
-| 22 | 770 | Adryane Schnase |
+| 21 | 770 | Adryane Schnase |
+| 22 | 770 | Zappy Curvetile |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 658 | Carolyn Smith |
@@ -93,8 +93,8 @@
 | 85 | 272 | Sarah Roberts |
 | 86 | 270 | Jennifer ManWarren |
 | 87 | 266 | Bhelle Sumile |
-| 88 | 258 | Kellie |
-| 89 | 258 | Dandy Basegrid |
+| 88 | 258 | Dandy Basegrid |
+| 89 | 258 | Kellie |
 | 90 | 254 | Rachael |
 | 91 | 252 | Dena Kayy |
 | 92 | 251 | june october |
@@ -125,8 +125,8 @@
 | 117 | 193 | Lachelle Dillon |
 | 118 | 192 | Shaykmia |
 | 119 | 191 | Diane Byrd |
-| 120 | 190 | Thorne Shumate |
-| 121 | 190 | Sweetts |
+| 120 | 190 | Sweetts |
+| 121 | 190 | Thorne Shumate |
 | 122 | 189 | Happy Basegrid |
 | 123 | 188 | Sam Williams |
 | 124 | 187 | Plucky Ziggy |
@@ -153,8 +153,8 @@
 | 145 | 163 | Tyler Whitley |
 | 146 | 162 | Tanya Carpenter-Reynolds |
 | 147 | 161 | Jessie Lynn |
-| 148 | 156 | Tyler Werts |
-| 149 | 156 | Arianna O'Brien |
+| 148 | 156 | Arianna O'Brien |
+| 149 | 156 | Tyler Werts |
 | 150 | 155 | Cece Ibarra |
 | 151 | 154 | Irual Hctrab |
 | 152 | 153 | Shiny Gridmatch |
@@ -163,10 +163,10 @@
 | 155 | 152 | Trina Gee |
 | 156 | 150 | Adele Rahman |
 | 157 | 150 | David Miller |
-| 158 | 148 | Shauntina Burke |
-| 159 | 148 | Bouncy Grid |
-| 160 | 147 | Davery Spencer Adair |
-| 161 | 147 | Leslie Bush Yarbrough |
+| 158 | 148 | Bouncy Grid |
+| 159 | 148 | Shauntina Burke |
+| 160 | 147 | Leslie Bush Yarbrough |
+| 161 | 147 | Davery Spencer Adair |
 | 162 | 146 | Christy Jones |
 | 163 | 145 | Angela Fairbank |
 | 164 | 145 | Agustin Duarte Orozco |
@@ -177,11 +177,11 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Death |
-| 173 | 138 | Cranky Pattern |
+| 172 | 138 | Cranky Pattern |
+| 173 | 138 | Death |
 | 174 | 137 | Cody Gates |
-| 175 | 136 | Breanna Luna |
-| 176 | 136 | Dino |
+| 175 | 136 | Dino |
+| 176 | 136 | Breanna Luna |
 | 177 | 135 | Guest |
 | 178 | 135 | Giddy Cascade |
 | 179 | 134 | Brave Wrecker |
@@ -200,8 +200,8 @@
 | 192 | 125 | Fmp |
 | 193 | 125 | Larry Tilton |
 | 194 | 124 | Cartier |
-| 195 | 122 | Margo Wagner |
-| 196 | 122 | Melissa Lemmon |
+| 195 | 122 | Melissa Lemmon |
+| 196 | 122 | Margo Wagner |
 | 197 | 121 | Mark Smith |
 | 198 | 120 | Alenoush Karimian |
 | 199 | 120 | Kimmie Kimms |

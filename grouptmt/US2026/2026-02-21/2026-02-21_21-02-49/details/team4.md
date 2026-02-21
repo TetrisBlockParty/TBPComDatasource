@@ -47,8 +47,8 @@
 | 39 | 497 | Anthony Bryan Riva |
 | 40 | 494 | Rodney McMath Jr. |
 | 41 | 486 | Landon Keith Graffeo |
-| 42 | 483 | Kimberly Love |
-| 43 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Carmethia Clemons Haslerig |
+| 43 | 483 | Kimberly Love |
 | 44 | 470 | Carolyn Wallace |
 | 45 | 465 | Dawn Alexander |
 | 46 | 463 | Lisa Davis |
@@ -74,8 +74,8 @@
 | 66 | 358 | Nugget |
 | 67 | 355 | Jamie Mann-Deichmann |
 | 68 | 345 | Ancient Intuition |
-| 69 | 308 | David Lay |
-| 70 | 308 | Jen Allison |
+| 69 | 308 | Jen Allison |
+| 70 | 308 | David Lay |
 | 71 | 304 | Livvy |
 | 72 | 303 | Lauren Scott |
 | 73 | 300 | Jason Hart |
@@ -92,8 +92,8 @@
 | 84 | 255 | Lindsay Ball |
 | 85 | 254 | Holly Jolly |
 | 86 | 237 | Lori Walker |
-| 87 | 230 | Lucas J Sutton |
-| 88 | 230 | Autum Leigh |
+| 87 | 230 | Autum Leigh |
+| 88 | 230 | Lucas J Sutton |
 | 89 | 224 | H.R. Block |
 | 90 | 221 | Alyssa Papen |
 | 91 | 220 | Joeliecea Cobb |
@@ -116,8 +116,8 @@
 | 108 | 197 | Swanky Fitline |
 | 109 | 196 | Jeff Brian Gates |
 | 110 | 194 | Zany Twisterfit |
-| 111 | 192 | Crystal Carroll |
-| 112 | 192 | Shauna Havard |
+| 111 | 192 | Shauna Havard |
+| 112 | 192 | Crystal Carroll |
 | 113 | 191 | loulou |
 | 114 | 189 | Calvin Dennis |
 | 115 | 188 | Katherine Crane |
@@ -174,7 +174,7 @@
 | 166 | 135 | Stephme310 |
 | 167 | 134 | Kim Klutz Olson |
 | 168 | 134 | Zany Shatterer |
-| 169 | 134 | Kim Klutz Olson |
+| 169 | 134 | Chirpy Basepiece |
 | 170 | 133 | Angela Geist Jusinski |
 | 171 | 132 | Melissa Priest Sellers |
 | 172 | 132 | Jessica Cagle |

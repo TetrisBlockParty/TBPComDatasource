@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Gracie |
-| 54 | 614 | Jamie Furr |
+| 53 | 614 | Jamie Furr |
+| 54 | 614 | Gracie |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -70,8 +70,8 @@
 | 62 | 577 | Danielle Mogg |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -98,12 +98,12 @@
 | 90 | 408 | Patty Allen |
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
-| 93 | 394 | joclisa |
-| 94 | 394 | Mcathen |
+| 93 | 394 | Mcathen |
+| 94 | 394 | joclisa |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
-| 97 | 390 | Annie Déè |
-| 98 | 390 | Hasty Cascadefit |
+| 97 | 390 | Hasty Cascadefit |
+| 98 | 390 | Annie Déè |
 | 99 | 389 | Elissa S-k |
 | 100 | 386 | Katie Knaus |
 | 101 | 384 | Shannon Matthew Byers |
@@ -114,8 +114,8 @@
 | 106 | 368 | Stephanie Woods |
 | 107 | 367 | mjl574 |
 | 108 | 367 | Nerdy Riseclear |
-| 109 | 366 | Adrian Marcel Pate |
-| 110 | 366 | Speedy Bridger |
+| 109 | 366 | Speedy Bridger |
+| 110 | 366 | Adrian Marcel Pate |
 | 111 | 350 | Tiff Vs Tiffany |
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
@@ -301,8 +301,8 @@
 | 293 | 126 | RickyG |
 | 294 | 126 | Pam Holt Powell |
 | 295 | 125 | Lys |
-| 296 | 125 | Felicia Doxey |
-| 297 | 125 | Shimika Enay Wallace |
+| 296 | 125 | Shimika Enay Wallace |
+| 297 | 125 | Felicia Doxey |
 | 298 | 124 | Rania Zaqout |
 | 299 | 123 | Michael Latasha Gray |
 | 300 | 123 | France Vézina |
