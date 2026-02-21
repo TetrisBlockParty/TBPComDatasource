@@ -40,8 +40,8 @@
 | 32 | 399 | Drew Magnus |
 | 33 | 382 | Lori Sanders- Davis |
 | 34 | 380 | Robert Beck |
-| 35 | 348 | Chipper Gridlock |
-| 36 | 348 | Stef Hu |
+| 35 | 348 | Stef Hu |
+| 36 | 348 | Chipper Gridlock |
 | 37 | 338 | Stephanie Zahn |
 | 38 | 325 | Jennifer Cates |
 | 39 | 307 | Adryane Schnase |
@@ -165,8 +165,8 @@
 | 157 | 106 | Ash Galvan |
 | 158 | 106 | Bloknboy |
 | 159 | 105 | Ty Brown |
-| 160 | 104 | Charla Pross-Fugleberg |
-| 161 | 104 | Bindi |
+| 160 | 104 | Bindi |
+| 161 | 104 | Charla Pross-Fugleberg |
 | 162 | 103 | Chantelle Ceno |
 | 163 | 103 | Angela Fairbank |
 | 164 | 102 | Jennifer ManWarren |
@@ -187,8 +187,8 @@
 | 179 | 96 | Tyler Whitley |
 | 180 | 94 | Brad MG |
 | 181 | 92 | Timothy Dew |
-| 182 | 90 | Grace Joanne Agnant |
-| 183 | 90 | Fmp |
+| 182 | 90 | Fmp |
+| 183 | 90 | Grace Joanne Agnant |
 | 184 | 89 | Mara Hilker |
 | 185 | 88 | Sam Williams |
 | 186 | 88 | Larry Tilton |

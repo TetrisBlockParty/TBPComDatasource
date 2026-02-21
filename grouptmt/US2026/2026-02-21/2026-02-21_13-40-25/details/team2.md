@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -432,8 +432,8 @@
 | 424 | 223 | Jess Morrison |
 | 425 | 223 | Laura Wyatt |
 | 426 | 223 | Kristi Biddinger |
-| 427 | 222 | Jason Garnatz |
-| 428 | 222 | Amanda Canterbury |
+| 427 | 222 | Amanda Canterbury |
+| 428 | 222 | Jason Garnatz |
 | 429 | 220 | Katrina Weston |
 | 430 | 220 | Sho Nuff |
 | 431 | 219 | Ashle Scranton |

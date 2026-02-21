@@ -126,8 +126,8 @@
 | 118 | 129 | John Brunetti |
 | 119 | 129 | Landon Keith Graffeo |
 | 120 | 128 | Rio Rocha |
-| 121 | 126 | Dihcheese444 |
-| 122 | 126 | Klo |
+| 121 | 126 | Klo |
+| 122 | 126 | Dihcheese444 |
 | 123 | 124 | Allen Lloyd |
 | 124 | 123 | TinyLegoRose |
 | 125 | 123 | Bubbly Puzzler |
@@ -304,7 +304,7 @@
 | 296 | 61 | Plucky Patternblock |
 | 297 | 60 | Adam Stephanie Parker |
 | 298 | 60 | Kris Zulch |
-| 299 | 59 | Jasmine S Caldwell |
+| 299 | 59 | Chris Bernstein |
 | 300 | 59 | Angelito |
 | 301 | 59 | Jasmine S Caldwell |
 | 302 | 58 | Sandra Safford |
