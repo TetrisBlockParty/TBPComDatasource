@@ -279,8 +279,8 @@
 | 271 | 39 | Keith Hiller |
 | 272 | 38 | Mavria Comeaux Hinton |
 | 273 | 38 | Dustin Johnston |
-| 274 | 38 | Mavria Comeaux Hinton |
-| 275 | 38 | Ty Meach |
+| 274 | 38 | Ty Meach |
+| 275 | 38 | Connie Butler |
 | 276 | 37 | Loony Zoney |
 | 277 | 37 | William Maix |
 | 278 | 37 | Steven Collins |

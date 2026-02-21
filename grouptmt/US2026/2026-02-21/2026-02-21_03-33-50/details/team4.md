@@ -50,8 +50,8 @@
 | 42 | 170 | Leah Kutz Zirbel |
 | 43 | 168 | Anthony Magaraci |
 | 44 | 153 | Jae Job |
-| 45 | 152 | Courtney Cicoria |
-| 46 | 152 | Denise Carlson |
+| 45 | 152 | Denise Carlson |
+| 46 | 152 | Courtney Cicoria |
 | 47 | 148 | Carter Jones |
 | 48 | 145 | Edward White |
 | 49 | 140 | Shannon Ferrari |
@@ -98,8 +98,8 @@
 | 90 | 96 | Zappy Snaplink |
 | 91 | 92 | Kristin MacDonald |
 | 92 | 90 | Bubbly Puzzler |
-| 93 | 90 | ZeeZee |
-| 94 | 90 | Judy Cox |
+| 93 | 90 | Judy Cox |
+| 94 | 90 | ZeeZee |
 | 95 | 89 | Zesty Twistbuilder |
 | 96 | 88 | Heather Tushner |
 | 97 | 88 | Brandi Durig |

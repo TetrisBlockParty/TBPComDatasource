@@ -139,8 +139,8 @@
 | 131 | 385 | Sam |
 | 132 | 384 | Lina Sanders |
 | 133 | 380 | Joshua Mandel |
-| 134 | 377 | Roy Salyer |
-| 135 | 377 | Liberty |
+| 134 | 377 | Liberty |
+| 135 | 377 | Roy Salyer |
 | 136 | 374 | Calandra Shaya Robinson |
 | 137 | 365 | April Dawn Gussler |
 | 138 | 364 | Shinette Dobson |
