@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -61,8 +61,8 @@
 | 53 | 328 | Landon Keith Graffeo |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -113,9 +113,9 @@
 | 105 | 167 | Denise Carlson |
 | 106 | 164 | ThaEviLJeNiuZ |
 | 107 | 162 | Shauna Havard |
-| 108 | 160 | Crystal Carroll |
-| 109 | 160 | Stacey Stano |
-| 110 | 160 | ZeeZee |
+| 108 | 160 | Stacey Stano |
+| 109 | 160 | ZeeZee |
+| 110 | 160 | Crystal Carroll |
 | 111 | 157 | quicksand420 |
 | 112 | 156 | Holly |
 | 113 | 152 | Jessica Bohlken |
@@ -131,12 +131,12 @@
 | 123 | 144 | Shainne Brewer |
 | 124 | 143 | Nugget |
 | 125 | 141 | Malakai Darien Fox |
-| 126 | 140 | Shannon Ferrari |
-| 127 | 140 | Jenna McGeorge |
+| 126 | 140 | Jenna McGeorge |
+| 127 | 140 | Shannon Ferrari |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
-| 130 | 136 | Serena Goodridge |
-| 131 | 136 | Tanner Lund |
+| 130 | 136 | Tanner Lund |
+| 131 | 136 | Serena Goodridge |
 | 132 | 135 | ĥuf |
 | 133 | 134 | Chirpy Basepiece |
 | 134 | 132 | Degenerate |
@@ -145,11 +145,11 @@
 | 137 | 132 | Melissa Priest Sellers |
 | 138 | 130 | Casey Jeffcoat |
 | 139 | 129 | John Brunetti |
-| 140 | 128 | Stephme310 |
-| 141 | 128 | Rio Rocha |
+| 140 | 128 | Rio Rocha |
+| 141 | 128 | Stephme310 |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | Dihcheese444 |
-| 144 | 126 | TinyLegoRose |
+| 143 | 126 | TinyLegoRose |
+| 144 | 126 | Dihcheese444 |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Angela Geist Jusinski |

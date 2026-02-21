@@ -107,13 +107,13 @@
 | 99 | 323 | Sherry Ogden |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
-| 102 | 309 | Rich LeBlanc |
-| 103 | 309 | CeceGeGe |
+| 102 | 309 | CeceGeGe |
+| 103 | 309 | Rich LeBlanc |
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
-| 107 | 300 | Tessina Dewey-Mancino |
-| 108 | 300 | Sherika C. McDaniels |
+| 107 | 300 | Sherika C. McDaniels |
+| 108 | 300 | Tessina Dewey-Mancino |
 | 109 | 293 | Poppy Splitter |
 | 110 | 284 | Jay Horn |
 | 111 | 267 | Rufus Lincoln |
@@ -169,10 +169,10 @@
 | 161 | 181 | Aerian Preston |
 | 162 | 181 | Karon Griffin |
 | 163 | 179 | Joye Sims Binion |
-| 164 | 179 | Daira Largen |
-| 165 | 179 | Ashley Jones |
-| 166 | 178 | Khaleada McGill Banks |
-| 167 | 178 | AlsoJess |
+| 164 | 179 | Ashley Jones |
+| 165 | 179 | Daira Largen |
+| 166 | 178 | AlsoJess |
+| 167 | 178 | Khaleada McGill Banks |
 | 168 | 178 | Ryan Williams |
 | 169 | 177 | Rebel124 |
 | 170 | 175 | DanceLuvLaugh |
@@ -363,14 +363,14 @@
 | 355 | 83 | Glitzy Slide |
 | 356 | 83 | Deseree Ewing |
 | 357 | 82 | Justice 4 P |
-| 358 | 82 | Eileen Brady Thurber |
+| 358 | 82 | Rebecca Funderburk Kirby |
 | 359 | 82 | lema ean |
 | 360 | 82 | Eileen Brady Thurber |
 | 361 | 82 | Moimyzean |
 | 362 | 81 | Joseph Vargas |
 | 363 | 81 | Katheline Lazo Luizaga |
-| 364 | 80 | Oliver Neal II |
-| 365 | 80 | Josh Borquez |
+| 364 | 80 | Josh Borquez |
+| 365 | 80 | Oliver Neal II |
 | 366 | 80 | Vixen Queen |
 | 367 | 80 | Me,Him,Yu |
 | 368 | 79 | Bleu Sun Beams |

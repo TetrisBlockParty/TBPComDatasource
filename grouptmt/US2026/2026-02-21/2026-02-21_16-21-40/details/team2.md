@@ -169,8 +169,8 @@
 | 161 | 580 | Steve Grotto |
 | 162 | 576 | Shannon Joslin |
 | 163 | 571 | Thomas Hedrick |
-| 164 | 569 | Vaniel Glover |
-| 165 | 569 | Gary Stash |
+| 164 | 569 | Gary Stash |
+| 165 | 569 | Vaniel Glover |
 | 166 | 563 | goofinoff |
 | 167 | 561 | Maria Escobar |
 | 168 | 550 | Jumpy Gridpiece |

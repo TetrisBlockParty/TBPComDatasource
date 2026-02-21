@@ -70,8 +70,8 @@
 | 62 | 256 | Tipsy Column |
 | 63 | 252 | Dena Kayy |
 | 64 | 249 | Rachael |
-| 65 | 244 | Franswa |
-| 66 | 244 | Tdub |
+| 65 | 244 | Tdub |
+| 66 | 244 | Franswa |
 | 67 | 241 | Patrick Luckenbill |
 | 68 | 237 | Elaine Elaine |
 | 69 | 226 | Sharon Reynolds |
