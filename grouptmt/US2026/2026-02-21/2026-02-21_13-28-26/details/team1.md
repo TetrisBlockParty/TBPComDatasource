@@ -51,8 +51,8 @@
 | 43 | 291 | Nancy Green |
 | 44 | 287 | Hyper |
 | 45 | 276 | Kristen Roles Robben |
-| 46 | 274 | Sweet Baker |
-| 47 | 274 | Theo Pinnow |
+| 46 | 274 | Theo Pinnow |
+| 47 | 274 | Sweet Baker |
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
@@ -84,8 +84,8 @@
 | 76 | 193 | Lachelle Dillon |
 | 77 | 192 | Shaykmia |
 | 78 | 191 | Jazzy Framezone |
-| 79 | 190 | Sweetts |
-| 80 | 190 | Thorne Shumate |
+| 79 | 190 | Thorne Shumate |
+| 80 | 190 | Sweetts |
 | 81 | 189 | Happy Basegrid |
 | 82 | 180 | Erez Yosef |
 | 83 | 178 | Danielle Little-Daugherty |

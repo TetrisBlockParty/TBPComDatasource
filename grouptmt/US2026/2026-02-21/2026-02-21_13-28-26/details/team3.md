@@ -49,8 +49,8 @@
 | 41 | 587 | Danielle Becker |
 | 42 | 580 | Amanda L Baker |
 | 43 | 568 | Shonna Roberts |
-| 44 | 546 | Dolores Falco |
-| 45 | 546 | Snappy Glidepiece |
+| 44 | 546 | Snappy Glidepiece |
+| 45 | 546 | Dolores Falco |
 | 46 | 541 | MissTaylor |
 | 47 | 533 | Sarah Fehring |
 | 48 | 528 | Natasha Jones |
@@ -93,8 +93,8 @@
 | 85 | 320 | Or Reznitsky |
 | 86 | 316 | Fancy Cascader |
 | 87 | 313 | Elaine Webb Graves |
-| 88 | 309 | Rich LeBlanc |
-| 89 | 309 | CeceGeGe |
+| 88 | 309 | CeceGeGe |
+| 89 | 309 | Rich LeBlanc |
 | 90 | 307 | Peggi Charon |
 | 91 | 307 | Blocked |
 | 92 | 300 | Sherika C. McDaniels |
@@ -134,8 +134,8 @@
 | 126 | 195 | Nicha Hooker |
 | 127 | 194 | glichmod |
 | 128 | 193 | Stephanie Burtin |
-| 129 | 193 | Duane Bright |
-| 130 | 193 | Clever Shiftsnap |
+| 129 | 193 | Clever Shiftsnap |
+| 130 | 193 | Duane Bright |
 | 131 | 192 | Chasity |
 | 132 | 191 | Giddy Twistbuilder |
 | 133 | 191 | Scott Carleton |
@@ -192,14 +192,14 @@
 | 184 | 140 | Jay Horn |
 | 185 | 137 | Aerian Preston |
 | 186 | 136 | Boldy Corner |
-| 187 | 135 | Connie Mohler-Fair |
-| 188 | 135 | Cheryl Hinch Tenbrook |
+| 187 | 135 | Cheryl Hinch Tenbrook |
+| 188 | 135 | Connie Mohler-Fair |
 | 189 | 134 | Emma |
 | 190 | 133 | Joy Petroski |
 | 191 | 131 | Jl |
 | 192 | 129 | Lesley Perez |
-| 193 | 128 | Jen Lewis |
-| 194 | 128 | David Bardo |
+| 193 | 128 | David Bardo |
+| 194 | 128 | Jen Lewis |
 | 195 | 127 | Marquita Sheard |
 | 196 | 126 | Brandon Givens |
 | 197 | 125 | Nikki Pags |
@@ -280,8 +280,8 @@
 | 272 | 96 | D3NO |
 | 273 | 96 | Tasha Wesson-Torrence |
 | 274 | 95 | Brooke Bauer |
-| 275 | 94 | Tracey Cox |
-| 276 | 94 | Angie Harper |
+| 275 | 94 | Angie Harper |
+| 276 | 94 | Tracey Cox |
 | 277 | 93 | Tiffany Ford |
 | 278 | 92 | Ava Petito |
 | 279 | 92 | Jennifer Caputo |
@@ -345,8 +345,8 @@
 | 337 | 77 | Denise Marie |
 | 338 | 77 | Tommy Proctor |
 | 339 | 77 | Tanesha BigBabby Darling |
-| 340 | 76 | Alma M Brown |
-| 341 | 76 | JustLessie |
+| 340 | 76 | JustLessie |
+| 341 | 76 | Alma M Brown |
 | 342 | 76 | Kammy Hill |
 | 343 | 76 | Nerdy Snapbuild |
 | 344 | 76 | Melissa Orth Hunter |

@@ -95,8 +95,8 @@
 | 87 | 165 | Casey Grabner |
 | 88 | 164 | ThaEviLJeNiuZ |
 | 89 | 162 | Shauna Havard |
-| 90 | 160 | Carter Jones |
-| 91 | 160 | Stacey Stano |
+| 90 | 160 | Stacey Stano |
+| 91 | 160 | Carter Jones |
 | 92 | 159 | Holly Jolly |
 | 93 | 157 | quicksand420 |
 | 94 | 154 | Zany Twisterfit |
@@ -163,10 +163,10 @@
 | 155 | 104 | Damn Libra |
 | 156 | 104 | Avy Absol |
 | 157 | 103 | Judy Cox |
-| 158 | 102 | Faja |
-| 159 | 102 | ĥuf |
-| 160 | 101 | Saulc1991 |
-| 161 | 101 | Michelle Morris |
+| 158 | 102 | ĥuf |
+| 159 | 102 | Faja |
+| 160 | 101 | Michelle Morris |
+| 161 | 101 | Saulc1991 |
 | 162 | 100 | Alexandra Karavias |
 | 163 | 99 | April Rondinone |
 | 164 | 99 | Anthony Bryan Riva |
@@ -303,7 +303,7 @@
 | 295 | 61 | Chilly Crasher |
 | 296 | 60 | Adam Stephanie Parker |
 | 297 | 60 | Kris Zulch |
-| 298 | 59 | Angelito |
+| 298 | 59 | Chris Bernstein |
 | 299 | 59 | Jasmine S Caldwell |
 | 300 | 59 | Angelito |
 | 301 | 58 | Sandra Safford |

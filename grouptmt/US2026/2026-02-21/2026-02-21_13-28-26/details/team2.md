@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -126,8 +126,8 @@
 | 118 | 631 | Peppy Zone |
 | 119 | 620 | BYM4L |
 | 120 | 619 | Jamie Otero |
-| 121 | 608 | John Bednarik |
-| 122 | 608 | Sommer Shope |
+| 121 | 608 | Sommer Shope |
+| 122 | 608 | John Bednarik |
 | 123 | 602 | L3sli3 |
 | 124 | 601 | Nancy Reid |
 | 125 | 597 | Andea Beck |
@@ -188,9 +188,9 @@
 | 180 | 456 | Marie Boyd Faulk |
 | 181 | 456 | Drwatson187 |
 | 182 | 454 | Casey Schumacher |
-| 183 | 453 | Em Chen |
-| 184 | 453 | Osun Anuket Esu |
-| 185 | 453 | Mischelle Clay |
+| 183 | 453 | Mischelle Clay |
+| 184 | 453 | Em Chen |
+| 185 | 453 | Osun Anuket Esu |
 | 186 | 452 | Alezandra Smith |
 | 187 | 450 | Giggy Blocker |
 | 188 | 450 | Cheech Dta |
@@ -408,8 +408,8 @@
 | 400 | 236 | snkylnk |
 | 401 | 236 | Frisky Riserbuilder |
 | 402 | 235 | Kimberly Mitchell |
-| 403 | 234 | Jennifer Leigh |
-| 404 | 234 | Manny Trindade |
+| 403 | 234 | Manny Trindade |
+| 404 | 234 | Jennifer Leigh |
 | 405 | 234 | Jaybee Nguyen |
 | 406 | 233 | Nutty Matchline |
 | 407 | 233 | Jumpy Gridclear |
@@ -474,14 +474,14 @@
 | 466 | 194 | Kimberly Ann |
 | 467 | 194 | Biggest thing |
 | 468 | 194 | Hoppy Brickmatch |
-| 469 | 193 | Matthew Turner |
-| 470 | 193 | Kelly Ann McCormick |
+| 469 | 193 | Kelly Ann McCormick |
+| 470 | 193 | Matthew Turner |
 | 471 | 191 | Lauren Fitzgerald Thomas |
 | 472 | 191 | John Quiring |
 | 473 | 190 | Jessica Kaye DeAguero |
-| 474 | 188 | Michael Artis |
-| 475 | 188 | Irene Jones |
-| 476 | 188 | Seth Wrieden |
+| 474 | 188 | Irene Jones |
+| 475 | 188 | Seth Wrieden |
+| 476 | 188 | Michael Artis |
 | 477 | 187 | Stefanie Zonzini-Gagliardi |
 | 478 | 186 | Joshua Mullings |
 | 479 | 186 | Jackie Jackie Lee |
