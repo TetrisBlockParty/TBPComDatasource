@@ -184,8 +184,8 @@
 | 176 | 473 | Ashley Collins |
 | 177 | 470 | Jerry Tempelmeyer |
 | 178 | 469 | Ashley Rose Frederick |
-| 179 | 464 | Ariel |
-| 180 | 464 | Ryan Gunther |
+| 179 | 464 | Ryan Gunther |
+| 180 | 464 | Ariel |
 | 181 | 460 | Amélie Cadieux |
 | 182 | 460 | Cody Smith-Candelaria |
 | 183 | 456 | Drwatson187 |

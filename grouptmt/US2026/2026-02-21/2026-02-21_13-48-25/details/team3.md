@@ -141,8 +141,8 @@
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
 | 135 | 189 | Sissy Lowery Davis |
-| 136 | 189 | Staci George Fitzsimmons |
-| 137 | 189 | Fallorina Susana |
+| 136 | 189 | Fallorina Susana |
+| 137 | 189 | Staci George Fitzsimmons |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
 | 140 | 182 | Hyper Matchzone |
@@ -154,7 +154,7 @@
 | 146 | 176 | Ryan Williams |
 | 147 | 167 | Rebel124 |
 | 148 | 167 | Raven Dudley |
-| 149 | 166 | Danielle Mogg |
+| 149 | 166 | Loopy Fallmatch |
 | 150 | 166 | Betty Rosas |
 | 151 | 166 | Mcathen |
 | 152 | 166 | Danielle Mogg |
@@ -226,11 +226,11 @@
 | 218 | 118 | Sabrina Hardrick |
 | 219 | 116 | LaNette Morgan |
 | 220 | 116 | BugMansMom |
-| 221 | 115 | Jennifer Alvey |
-| 222 | 115 | Daring Builder |
+| 221 | 115 | Daring Builder |
+| 222 | 115 | Jennifer Alvey |
 | 223 | 115 | Hoppy Buildout |
-| 224 | 113 | Beppy |
-| 225 | 113 | Brian Battjes |
+| 224 | 113 | Brian Battjes |
+| 225 | 113 | Beppy |
 | 226 | 111 | Stephanie Zahm |
 | 227 | 110 | Danielle Weikel |
 | 228 | 110 | Tye Stovall |
