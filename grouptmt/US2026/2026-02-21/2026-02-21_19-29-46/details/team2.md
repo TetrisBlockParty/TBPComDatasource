@@ -275,8 +275,8 @@
 | 267 | 442 | Joshua Mandel |
 | 268 | 440 | Heather Westrum |
 | 269 | 440 | Liberty |
-| 270 | 439 | Alisa Lamb |
-| 271 | 439 | Joseph Musick |
+| 270 | 439 | Joseph Musick |
+| 271 | 439 | Alisa Lamb |
 | 272 | 439 | Foxxo |
 | 273 | 438 | Hyper Cluster |
 | 274 | 437 | Arwa Fatimah |

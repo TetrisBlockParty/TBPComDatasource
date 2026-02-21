@@ -164,8 +164,8 @@
 | 156 | 214 | Jenny Hrndz |
 | 157 | 212 | Krystal Gerstberger |
 | 158 | 212 | Rochelle Hazelett |
-| 159 | 211 | Katrina Turner |
-| 160 | 211 | Katrina Schroeder |
+| 159 | 211 | Katrina Schroeder |
+| 160 | 211 | Katrina Turner |
 | 161 | 207 | Nicole Myers |
 | 162 | 207 | rnr junky |
 | 163 | 207 | Chris Bell |
@@ -173,8 +173,8 @@
 | 165 | 203 | Twisty Brick LT |
 | 166 | 201 | Ashley Tookes |
 | 167 | 197 | Staci George Fitzsimmons |
-| 168 | 195 | Nicha Hooker |
-| 169 | 195 | Michael Lucado |
+| 168 | 195 | Michael Lucado |
+| 169 | 195 | Nicha Hooker |
 | 170 | 194 | glichmod |
 | 171 | 193 | Stephanie Burtin |
 | 172 | 193 | Duane Bright |
@@ -191,10 +191,10 @@
 | 183 | 184 | Troy |
 | 184 | 182 | Hyper Matchzone |
 | 185 | 181 | Nicholas Roddy |
-| 186 | 179 | Ashley Jones |
-| 187 | 179 | Daira Largen |
-| 188 | 178 | Ryan Williams |
-| 189 | 178 | AlsoJess |
+| 186 | 179 | Daira Largen |
+| 187 | 179 | Ashley Jones |
+| 188 | 178 | AlsoJess |
+| 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Connie Mohler-Fair |
 | 192 | 175 | Tasha Wesson-Torrence |
@@ -252,8 +252,8 @@
 | 244 | 142 | Erica Anderson |
 | 245 | 142 | Jl |
 | 246 | 141 | IamJust Neyamijah Washington Sr. |
-| 247 | 139 | Loopy Clusterer |
-| 248 | 139 | LaNette Morgan |
+| 247 | 139 | LaNette Morgan |
+| 248 | 139 | Loopy Clusterer |
 | 249 | 138 | Boldy Corner |
 | 250 | 137 | Joy Petroski |
 | 251 | 135 | Terry Jo Jones |
@@ -279,8 +279,8 @@
 | 271 | 125 | fraulila |
 | 272 | 125 | Felicia Doxey |
 | 273 | 124 | Rachel |
-| 274 | 123 | France Vézina |
-| 275 | 123 | Michael Latasha Gray |
+| 274 | 123 | Michael Latasha Gray |
+| 275 | 123 | France Vézina |
 | 276 | 123 | Lys |
 | 277 | 122 | Giggly Brickroll |
 | 278 | 122 | BabyTonj Evans |

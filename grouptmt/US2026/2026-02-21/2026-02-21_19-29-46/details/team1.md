@@ -94,8 +94,8 @@
 | 86 | 239 | Cynthia Bradley |
 | 87 | 238 | John J. Cronin |
 | 88 | 230 | Frothy Pattern |
-| 89 | 228 | Trippy Redd |
-| 90 | 228 | Kellie |
+| 89 | 228 | Kellie |
+| 90 | 228 | Trippy Redd |
 | 91 | 226 | Sharon Reynolds |
 | 92 | 224 | TSwag |
 | 93 | 222 | Kristen Gideon |

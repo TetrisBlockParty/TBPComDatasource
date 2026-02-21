@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Kimberly Love |
-| 40 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Carmethia Clemons Haslerig |
+| 40 | 483 | Kimberly Love |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -170,7 +170,7 @@
 | 162 | 132 | Degenerate |
 | 163 | 130 | Casey Jeffcoat |
 | 164 | 129 | Dreamy Snapgrid |
-| 165 | 128 | Rio Rocha |
+| 165 | 128 | Stephme310 |
 | 166 | 128 | TinyLegoRose |
 | 167 | 128 | Rio Rocha |
 | 168 | 125 | Heather Tushner |
@@ -209,9 +209,9 @@
 | 201 | 111 | Kristin MacDonald |
 | 202 | 111 | Lazy Blocker |
 | 203 | 109 | Chaz |
-| 204 | 108 | Shane Kalamata Platoon |
+| 204 | 108 | Ali Ian |
 | 205 | 108 | Crystal Nicolette Moore |
-| 206 | 108 | Ali Ian |
+| 206 | 108 | Shane Kalamata Platoon |
 | 207 | 107 | Rafael Valentin |
 | 208 | 106 | Rebecca Morris |
 | 209 | 106 | Zappy Snaplink |
