@@ -48,8 +48,8 @@
 | 40 | 144 | Tanya Carpenter-Reynolds |
 | 41 | 143 | Veronica Eve |
 | 42 | 135 | Jennifer Cates |
-| 43 | 133 | Brandi Huntington |
-| 44 | 133 | Mandyy Rae |
+| 43 | 133 | Mandyy Rae |
+| 44 | 133 | Brandi Huntington |
 | 45 | 126 | Cece Ibarra |
 | 46 | 125 | Sharon Reynolds |
 | 47 | 125 | Karin Gillen |

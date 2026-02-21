@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
 | 56 | 193 | Clever Shiftsnap |
@@ -97,15 +97,15 @@
 | 89 | 113 | Jennifer Alvey |
 | 90 | 112 | Connie Mohler-Fair |
 | 91 | 111 | Joy Petroski |
-| 92 | 110 | Tiff Vs Tiffany |
-| 93 | 110 | Stella |
+| 92 | 110 | Stella |
+| 93 | 110 | Tiff Vs Tiffany |
 | 94 | 108 | Grams |
 | 95 | 107 | Bryan Byrd |
 | 96 | 105 | Hoppy Buildout |
 | 97 | 103 | Brian Battjes |
 | 98 | 102 | Sarah Moyer |
 | 99 | 102 | mommablock |
-| 100 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 100 | 101 | Mykal Burton |
 | 101 | 101 | Rufus Lincoln |
 | 102 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 103 | 100 | Fancy Slam |

@@ -45,8 +45,8 @@
 | 37 | 129 | Samantha Peterson |
 | 38 | 128 | Robin Watters |
 | 39 | 124 | Jay28 |
-| 40 | 123 | Courtney Cicoria |
-| 41 | 123 | Nugget |
+| 40 | 123 | Nugget |
+| 41 | 123 | Courtney Cicoria |
 | 42 | 121 | Smiley Tiltbuilder |
 | 43 | 120 | Lauren Scott |
 | 44 | 117 | Denise Carlson |
@@ -55,13 +55,13 @@
 | 47 | 113 | Degenerate |
 | 48 | 112 | Chirpy Basepiece |
 | 49 | 111 | Gwendolyn Pitcairn |
-| 50 | 109 | Epic Curvetile |
-| 51 | 109 | Bryan Hodgins |
+| 50 | 109 | Bryan Hodgins |
+| 51 | 109 | Epic Curvetile |
 | 52 | 108 | Mr. Party |
 | 53 | 105 | Diana Houts |
 | 54 | 103 | Serena Goodridge |
-| 55 | 100 | Michelle Morris |
-| 56 | 100 | Andria Lynn |
+| 55 | 100 | Andria Lynn |
+| 56 | 100 | Michelle Morris |
 | 57 | 98 | Stephme310 |
 | 58 | 98 | Duck |
 | 59 | 96 | Zappy Snaplink |
