@@ -63,8 +63,8 @@
 | 55 | 556 | Dan Rob |
 | 56 | 553 | Rachael McClain Owens |
 | 57 | 533 | Sarah Fehring |
-| 58 | 528 | Giddy Drop |
-| 59 | 528 | Natasha Jones |
+| 58 | 528 | Natasha Jones |
+| 59 | 528 | Giddy Drop |
 | 60 | 520 | Gracie |
 | 61 | 493 | Mandy Smith Oldham |
 | 62 | 485 | Fancy Slam |
@@ -190,8 +190,8 @@
 | 182 | 178 | Ryan Williams |
 | 183 | 177 | Sashay Tapae Simpson |
 | 184 | 176 | Trisha Balmer |
-| 185 | 175 | DanceLuvLaugh |
-| 186 | 175 | Connie Mohler-Fair |
+| 185 | 175 | Connie Mohler-Fair |
+| 186 | 175 | DanceLuvLaugh |
 | 187 | 174 | rosy |
 | 188 | 173 | Sarajane Lokan |
 | 189 | 172 | Jacqueline Rodriguez |
@@ -257,8 +257,8 @@
 | 249 | 131 | Darlene McMillan |
 | 250 | 130 | Weerae |
 | 251 | 129 | Juliana Dottore |
-| 252 | 128 | MizzMonick Smith |
-| 253 | 128 | Jen Lewis |
+| 252 | 128 | Jen Lewis |
+| 253 | 128 | MizzMonick Smith |
 | 254 | 127 | mzcatzy |
 | 255 | 126 | Pam Holt Powell |
 | 256 | 126 | April Matthew Kibble |
@@ -380,7 +380,7 @@
 | 372 | 85 | Crystel b520 |
 | 373 | 85 | Lush Risebuilder |
 | 374 | 85 | Wancharlene Hercules |
-| 375 | 85 | Sheila M Frazier |
+| 375 | 85 | Heather De Vries Cobb |
 | 376 | 85 | Mike Spritzer |
 | 377 | 85 | Sheila M Frazier |
 | 378 | 84 | Kevin Fountain |

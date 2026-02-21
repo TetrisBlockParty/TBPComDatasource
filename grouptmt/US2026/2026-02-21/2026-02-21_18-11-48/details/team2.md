@@ -155,8 +155,8 @@
 | 147 | 661 | Debra Williams |
 | 148 | 659 | Poldo Ilano |
 | 149 | 651 | Unica Rector |
-| 150 | 650 | Claire Noland |
-| 151 | 650 | Shiny Rollzone |
+| 150 | 650 | Shiny Rollzone |
+| 151 | 650 | Claire Noland |
 | 152 | 641 | Ricardo Burton |
 | 153 | 632 | Beth |
 | 154 | 631 | Peppy Zone |
@@ -212,8 +212,8 @@
 | 204 | 511 | Ramone Armstrong |
 | 205 | 511 | Dizzy Zone |
 | 206 | 511 | Laura Mclean |
-| 207 | 510 | Lisa Ongtowasruk |
-| 208 | 510 | Cheech Dta |
+| 207 | 510 | Cheech Dta |
+| 208 | 510 | Lisa Ongtowasruk |
 | 209 | 509 | Kelli Wells |
 | 210 | 504 | Cherica Taylor |
 | 211 | 503 | Adam Erikson |

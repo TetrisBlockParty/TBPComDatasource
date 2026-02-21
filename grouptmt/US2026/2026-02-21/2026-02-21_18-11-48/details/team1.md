@@ -40,8 +40,8 @@
 | 32 | 516 | comrade fish |
 | 33 | 511 | Jen Sartain |
 | 34 | 510 | Colena Davenport |
-| 35 | 508 | Michelle Nicole |
-| 36 | 508 | Lawrence Belanger |
+| 35 | 508 | Lawrence Belanger |
+| 36 | 508 | Michelle Nicole |
 | 37 | 486 | Sevens4L |
 | 38 | 483 | Ryan Lunnin |
 | 39 | 466 | Kathi Snustad |
@@ -150,7 +150,7 @@
 | 142 | 145 | Angela Fairbank |
 | 143 | 144 | Gary Gobin |
 | 144 | 144 | Plucky Ziggy |
-| 145 | 144 | Gary Gobin |
+| 145 | 144 | femmefatale |
 | 146 | 143 | Sarah Marie |
 | 147 | 142 | Colleen Wise |
 | 148 | 141 | Blaire Bruckoff |
@@ -183,8 +183,8 @@
 | 175 | 122 | Margo Wagner |
 | 176 | 122 | Melissa Lemmon |
 | 177 | 121 | April Carroll |
-| 178 | 120 | Alenoush Karimian |
-| 179 | 120 | Kimmie Kimms |
+| 178 | 120 | Kimmie Kimms |
+| 179 | 120 | Alenoush Karimian |
 | 180 | 119 | Tater |
 | 181 | 116 | Jessica Russell |
 | 182 | 115 | Chuck Gannon |
