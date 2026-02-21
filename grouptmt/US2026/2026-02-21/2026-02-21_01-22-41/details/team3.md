@@ -93,8 +93,8 @@
 | 85 | 129 | Ashley Tookes |
 | 86 | 128 | Angel Mendez |
 | 87 | 127 | mjl574 |
-| 88 | 125 | Stephanie Simpson |
-| 89 | 125 | Felicia Doxey |
+| 88 | 125 | Felicia Doxey |
+| 89 | 125 | Stephanie Simpson |
 | 90 | 124 | Marquita Sheard |
 | 91 | 122 | Aerian Preston |
 | 92 | 120 | Jessica |
@@ -382,7 +382,7 @@
 | 374 | 34 | Christopher Woost |
 | 375 | 34 | Julie Fratrik |
 | 376 | 34 | Jared Craddox |
-| 377 | 34 | Julie Fratrik |
+| 377 | 34 | Beejangles |
 | 378 | 34 | Jone |
 | 379 | 34 | SJ Jimenez |
 | 380 | 34 | Tasha Gillespie |

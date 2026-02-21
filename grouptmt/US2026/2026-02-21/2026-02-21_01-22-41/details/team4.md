@@ -81,8 +81,8 @@
 | 73 | 88 | Heather Tushner |
 | 74 | 88 | Brandi Durig |
 | 75 | 88 | Jenna McGeorge |
-| 76 | 87 | Malakai Darien Fox |
-| 77 | 87 | Jen Caldwell |
+| 76 | 87 | Jen Caldwell |
+| 77 | 87 | Malakai Darien Fox |
 | 78 | 86 | amy |
 | 79 | 85 | Mimi |
 | 80 | 82 | Kim Hunt |
