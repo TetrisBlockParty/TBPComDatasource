@@ -44,8 +44,8 @@
 | 36 | 129 | Samantha Peterson |
 | 37 | 128 | Robin Watters |
 | 38 | 124 | Jay28 |
-| 39 | 123 | Nugget |
-| 40 | 123 | Courtney Cicoria |
+| 39 | 123 | Courtney Cicoria |
+| 40 | 123 | Nugget |
 | 41 | 121 | Smiley Tiltbuilder |
 | 42 | 117 | Lauren Scott |
 | 43 | 117 | Denise Carlson |
@@ -58,9 +58,9 @@
 | 50 | 108 | Mr. Party |
 | 51 | 101 | Kimberly Love |
 | 52 | 101 | Bryan Hodgins |
-| 53 | 100 | Andria Lynn |
+| 53 | 100 | Michelle Morris |
 | 54 | 100 | Diana Houts |
-| 55 | 100 | Michelle Morris |
+| 55 | 100 | Andria Lynn |
 | 56 | 98 | Duck |
 | 57 | 98 | Stephme310 |
 | 58 | 96 | Zappy Snaplink |
@@ -105,7 +105,7 @@
 | 97 | 61 | Alee Marie |
 | 98 | 60 | rebel4lyfe |
 | 99 | 60 | Dustee Craddock-Harrison |
-| 100 | 60 | rebel4lyfe |
+| 100 | 60 | Ahleek Mitchell |
 | 101 | 59 | Joseph Pace |
 | 102 | 57 | Stephanie Jones |
 | 103 | 57 | Justin Hannigan |

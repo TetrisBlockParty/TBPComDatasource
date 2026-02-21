@@ -90,8 +90,8 @@
 | 82 | 351 | Giggy Blocker |
 | 83 | 350 | Chris Harr |
 | 84 | 349 | Sarah Freitas |
-| 85 | 345 | Alyssaaelena |
-| 86 | 345 | Rhianna DiLorenzo |
+| 85 | 345 | Rhianna DiLorenzo |
+| 86 | 345 | Alyssaaelena |
 | 87 | 345 | Brenda Messer |
 | 88 | 344 | Christina Lewis-Vickers |
 | 89 | 342 | Tracy Wise |

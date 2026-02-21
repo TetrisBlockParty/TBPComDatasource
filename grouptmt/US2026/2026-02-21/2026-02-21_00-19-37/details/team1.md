@@ -310,28 +310,28 @@
 | 302 | 22 | Patricia Mills |
 | 303 | 22 | Theeranart Mahawan |
 | 304 | 22 | Jake Mcnabb |
-| 305 | 22 | Theeranart Mahawan |
-| 306 | 22 | Daring Clusterline |
-| 307 | 22 | Michelle Nicole |
-| 308 | 22 | Chadocho |
-| 309 | 22 | Stephanie Twoallbeefpattiez Johnson |
-| 310 | 22 | Patricia Mills |
+| 305 | 22 | Chadocho |
+| 306 | 22 | Phu ckalldems |
+| 307 | 22 | Stephanie Twoallbeefpattiez Johnson |
+| 308 | 22 | Riley Lee |
+| 309 | 22 | ash |
+| 310 | 22 | Daring Clusterline |
 | 311 | 21 | Oliver Hollins |
-| 312 | 21 | Patrick Luckenbill |
+| 312 | 21 | Julie Marie Hernandez |
 | 313 | 21 | Kryatal Poulin |
-| 314 | 21 | Jessica Russell |
-| 315 | 21 | Katie Daniels |
-| 316 | 21 | Dizzy Riseclear |
-| 317 | 21 | Rachael |
-| 318 | 21 | Rick Clark |
-| 319 | 21 | Mark Smith |
-| 320 | 21 | Dandy Towerbuilder |
-| 321 | 21 | Julie Marie Hernandez |
-| 322 | 20 | Shannan Porter |
-| 323 | 20 | Frank |
-| 324 | 20 | Matthew Vd |
-| 325 | 20 | Clinton Castle |
-| 326 | 20 | Wolf Man |
+| 314 | 21 | Rick Clark |
+| 315 | 21 | Mark Smith |
+| 316 | 21 | Jessica Russell |
+| 317 | 21 | Katie Daniels |
+| 318 | 21 | Dandy Towerbuilder |
+| 319 | 21 | Patrick Luckenbill |
+| 320 | 21 | Rachael |
+| 321 | 21 | Dizzy Riseclear |
+| 322 | 20 | Zany Gridclear |
+| 323 | 20 | Joe Coon |
+| 324 | 20 | Nicole Bryant |
+| 325 | 20 | VaSharon Crenshaw |
+| 326 | 20 | Matthew Vd |
 | 327 | 20 | Funky Zonebuilder |
 | 328 | 20 | Gina Bettikofer |
 | 329 | 20 | Shannan Porter |
