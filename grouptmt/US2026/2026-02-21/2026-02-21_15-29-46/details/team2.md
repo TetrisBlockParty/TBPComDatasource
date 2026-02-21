@@ -1301,8 +1301,8 @@
 | 1293 | 83 | Boldy Slamdrop |
 | 1294 | 83 | Jazzy Edgepiece |
 | 1295 | 83 | Kelley McGrane |
-| 1296 | 83 | Jonathan Handelsman |
-| 1297 | 83 | Veridian Glades |
+| 1296 | 83 | Veridian Glades |
+| 1297 | 83 | Jonathan Handelsman |
 | 1298 | 83 | Demitri Smith |
 | 1299 | 83 | Nutty Cascade |
 | 1300 | 83 | Carrie Adams Youngcourt |

@@ -154,8 +154,8 @@
 | 146 | 193 | Clever Shiftsnap |
 | 147 | 191 | Giddy Twistbuilder |
 | 148 | 191 | Scott Carleton |
-| 149 | 189 | Staci George Fitzsimmons |
-| 150 | 189 | Sissy Lowery Davis |
+| 149 | 189 | Sissy Lowery Davis |
+| 150 | 189 | Staci George Fitzsimmons |
 | 151 | 189 | Fallorina Susana |
 | 152 | 188 | Angie Harper |
 | 153 | 186 | Brandon Givens |
@@ -195,8 +195,8 @@
 | 187 | 156 | Bea Miles |
 | 188 | 155 | Sarajane Lokan |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Shiny Zonebuilder |
-| 191 | 152 | Katrina E Jelks |
+| 190 | 152 | Katrina E Jelks |
+| 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
 | 193 | 151 | Brenda Lee Vander Molen |
 | 194 | 151 | MsBee |
