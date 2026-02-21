@@ -42,8 +42,8 @@
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
 | 36 | 1210 | Brittany Alicia |
-| 37 | 1173 | Devin Lee |
-| 38 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Katrina Williams Balmir |
+| 38 | 1173 | Devin Lee |
 | 39 | 1157 | Priscilla Noel |
 | 40 | 1150 | Izabel Herrera |
 | 41 | 1143 | Lucky Ladybug |
@@ -219,8 +219,8 @@
 | 211 | 354 | Tracy Wise |
 | 212 | 353 | Joseph Musick |
 | 213 | 352 | ruth |
-| 214 | 350 | Chris Harr |
-| 215 | 350 | Brave Dropmatch |
+| 214 | 350 | Brave Dropmatch |
+| 215 | 350 | Chris Harr |
 | 216 | 350 | Kimberly Randesi |
 | 217 | 349 | Johnny Yeates |
 | 218 | 348 | Richard Horton |
@@ -276,8 +276,8 @@
 | 268 | 290 | Maya June |
 | 269 | 288 | Megan Phillips |
 | 270 | 286 | Ryan Gunther |
-| 271 | 285 | Jánine Riggs |
-| 272 | 285 | June E Hanson |
+| 271 | 285 | June E Hanson |
+| 272 | 285 | Jánine Riggs |
 | 273 | 283 | Davetta Sanford |
 | 274 | 282 | Carl Bradshaw |
 | 275 | 282 | Shaun Church |
@@ -325,8 +325,8 @@
 | 317 | 256 | Tee Jaleesa |
 | 318 | 256 | CC |
 | 319 | 255 | Santana Miyagi |
-| 320 | 254 | Rose Fx |
-| 321 | 254 | Elizabeth Diraffaele |
+| 320 | 254 | Elizabeth Diraffaele |
+| 321 | 254 | Rose Fx |
 | 322 | 254 | Julie Hamilton |
 | 323 | 253 | Tansaria Couch-Butler |
 | 324 | 252 | Matt Johnson |
@@ -355,10 +355,10 @@
 | 347 | 240 | Angie Marie |
 | 348 | 239 | Roger Grabbit |
 | 349 | 238 | Cheery Matchzone |
-| 350 | 236 | snkylnk |
-| 351 | 236 | Frisky Riserbuilder |
-| 352 | 236 | Julio A Laracuente |
-| 353 | 236 | Niceday |
+| 350 | 236 | Frisky Riserbuilder |
+| 351 | 236 | snkylnk |
+| 352 | 236 | Niceday |
+| 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
 | 355 | 234 | Jennifer Leigh |
 | 356 | 234 | Manny Trindade |
@@ -407,8 +407,8 @@
 | 399 | 203 | Gary Stash |
 | 400 | 201 | Peppy Snapfall |
 | 401 | 201 | Zombi3 |
-| 402 | 200 | Sarah Ridenour |
-| 403 | 200 | LaWanda Powell |
+| 402 | 200 | LaWanda Powell |
+| 403 | 200 | Sarah Ridenour |
 | 404 | 199 | Fi Ne |
 | 405 | 199 | Jessica Sutter |
 | 406 | 199 | Jenny Castro |
@@ -424,8 +424,8 @@
 | 416 | 195 | Snappy Shatterfit |
 | 417 | 194 | Hoppy Brickmatch |
 | 418 | 194 | Kimberly Ann |
-| 419 | 193 | Matthew Turner |
-| 420 | 193 | Kelly Ann McCormick |
+| 419 | 193 | Kelly Ann McCormick |
+| 420 | 193 | Matthew Turner |
 | 421 | 191 | Lauren Fitzgerald Thomas |
 | 422 | 191 | John Quiring |
 | 423 | 191 | Deana |
@@ -578,8 +578,8 @@
 | 570 | 144 | Regina Young |
 | 571 | 143 | Angelica |
 | 572 | 143 | Jay Levy |
-| 573 | 142 | Joy LaJeunesse |
-| 574 | 142 | Melissa Kay Gibson |
+| 573 | 142 | Melissa Kay Gibson |
+| 574 | 142 | Joy LaJeunesse |
 | 575 | 142 | Zachary Boyarski |
 | 576 | 142 | Frisky Clearpiece |
 | 577 | 142 | Amy Humphreys |
@@ -763,8 +763,8 @@
 | 755 | 112 | Ashley Bacote |
 | 756 | 112 | Kaytlyn Brown |
 | 757 | 111 | April Bennett |
-| 758 | 111 | Lively Edgepiece |
-| 759 | 111 | Crystal Heller Gonzalez |
+| 758 | 111 | Crystal Heller Gonzalez |
+| 759 | 111 | Lively Edgepiece |
 | 760 | 111 | Netty |
 | 761 | 111 | Jroc |
 | 762 | 111 | Ashley M. Davis |

@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -204,9 +204,9 @@
 | 196 | 81 | Kathy Allen |
 | 197 | 80 | Melissa Adams |
 | 198 | 80 | Chaz Duncan |
-| 199 | 79 | Perky Piecegrid |
+| 199 | 79 | Kametsunoyaiba |
 | 200 | 79 | Joseph Pace |
-| 201 | 79 | Kametsunoyaiba |
+| 201 | 79 | Perky Piecegrid |
 | 202 | 78 | Zesty Linkgrid |
 | 203 | 78 | Jessica Miller |
 | 204 | 77 | Marvin Lou Martin |

@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -148,8 +148,8 @@
 | 140 | 163 | Giddy Twistbuilder |
 | 141 | 163 | Karon Griffin |
 | 142 | 159 | Jone |
-| 143 | 159 | Morgan Martinez |
-| 144 | 159 | Mcathen |
+| 143 | 159 | Mcathen |
+| 144 | 159 | Morgan Martinez |
 | 145 | 158 | Grams |
 | 146 | 157 | Nicholas Roddy |
 | 147 | 157 | Patricia Gadsden |
@@ -172,8 +172,8 @@
 | 164 | 140 | Gumbo |
 | 165 | 140 | Jay Horn |
 | 166 | 135 | Cheryl Hinch Tenbrook |
-| 167 | 134 | DanceLuvLaugh |
-| 168 | 134 | Emma |
+| 167 | 134 | Emma |
+| 168 | 134 | DanceLuvLaugh |
 | 169 | 131 | Jl |
 | 170 | 129 | Logan Naccarato |
 | 171 | 129 | Lesley Perez |
