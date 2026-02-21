@@ -48,17 +48,17 @@
 | 40 | 274 | Theo Pinnow |
 | 41 | 274 | Sweet Baker |
 | 42 | 265 | Jennifer Cates |
-| 43 | 256 | Robert Benito |
-| 44 | 256 | Tipsy Column |
-| 45 | 256 | Shauna Loe |
+| 43 | 256 | Shauna Loe |
+| 44 | 256 | Robert Benito |
+| 45 | 256 | Tipsy Column |
 | 46 | 244 | Franswa |
 | 47 | 243 | Sarah Roberts |
 | 48 | 241 | Kristen Roles Robben |
 | 49 | 240 | Rachael |
 | 50 | 225 | Elaine Elaine |
 | 51 | 217 | Deanna L Hermanson |
-| 52 | 212 | Tdub |
-| 53 | 212 | Jaimie Lynn |
+| 52 | 212 | Jaimie Lynn |
+| 53 | 212 | Tdub |
 | 54 | 208 | Carrie Beck Geartz |
 | 55 | 205 | Trippy Redd |
 | 56 | 204 | Ly Phethmany |
@@ -105,8 +105,8 @@
 | 97 | 144 | femmefatale |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
-| 100 | 138 | Cranky Pattern |
-| 101 | 138 | Gary Gobin |
+| 100 | 138 | Gary Gobin |
+| 101 | 138 | Cranky Pattern |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Breanna Luna |

@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |

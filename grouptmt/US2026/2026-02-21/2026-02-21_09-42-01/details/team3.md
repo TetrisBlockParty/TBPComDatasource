@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Danielle Mogg |
-| 134 | 166 | Kelly Ann Child |
+| 133 | 166 | Kelly Ann Child |
+| 134 | 166 | Danielle Mogg |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
@@ -147,8 +147,8 @@
 | 139 | 159 | Jone |
 | 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -157,9 +157,9 @@
 | 149 | 152 | Shiny Zonebuilder |
 | 150 | 151 | MsBee |
 | 151 | 150 | Nicole Myers |
-| 152 | 149 | Angel Mendez |
-| 153 | 149 | Bea Miles |
-| 154 | 149 | Trisha Balmer |
+| 152 | 149 | Trisha Balmer |
+| 153 | 149 | Angel Mendez |
+| 154 | 149 | Bea Miles |
 | 155 | 147 | Sashay Tapae Simpson |
 | 156 | 146 | Denita Mungro |
 | 157 | 146 | Latoya Mayne |
@@ -213,8 +213,8 @@
 | 205 | 109 | Diana Ibarra |
 | 206 | 109 | Brave Brickster |
 | 207 | 109 | Fredd Thomas |
-| 208 | 108 | LaTanya GeminiondaRise Johnson |
-| 209 | 108 | Rachel Napper |
+| 208 | 108 | Rachel Napper |
+| 209 | 108 | LaTanya GeminiondaRise Johnson |
 | 210 | 107 | Sherry Ogden |
 | 211 | 106 | Desiree Gold |
 | 212 | 106 | Eon Harris |
@@ -417,7 +417,7 @@
 | 409 | 58 | Mandie Alexandra Adones |
 | 410 | 58 | Chelsea Hall |
 | 411 | 58 | Erzulie |
-| 412 | 58 | Mandie Alexandra Adones |
+| 412 | 58 | David Kozen |
 | 413 | 58 | Charles Perrone |
 | 414 | 57 | Keayn Smith |
 | 415 | 57 | Trey Ward |

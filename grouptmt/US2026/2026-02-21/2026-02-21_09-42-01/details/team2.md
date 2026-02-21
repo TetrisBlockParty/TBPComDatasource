@@ -41,8 +41,8 @@
 | 33 | 1257 | Crystalin Heath Lewis |
 | 34 | 1234 | blackq |
 | 35 | 1215 | Megan Garrick |
-| 36 | 1173 | Devin Lee |
-| 37 | 1173 | Katrina Williams Balmir |
+| 36 | 1173 | Katrina Williams Balmir |
+| 37 | 1173 | Devin Lee |
 | 38 | 1157 | Priscilla Noel |
 | 39 | 1150 | Izabel Herrera |
 | 40 | 1143 | Lucky Ladybug |
@@ -471,8 +471,8 @@
 | 463 | 171 | Cappin You |
 | 464 | 171 | William Hunt |
 | 465 | 170 | Kenya Felix |
-| 466 | 170 | Darlene Bowman |
-| 467 | 170 | Dedra Steward |
+| 466 | 170 | Dedra Steward |
+| 467 | 170 | Darlene Bowman |
 | 468 | 169 | Eddie Perez |
 | 469 | 169 | Lively Catcher |
 | 470 | 168 | Phil J. Grombliniak |
@@ -516,8 +516,8 @@
 | 508 | 157 | Ty Quarles |
 | 509 | 157 | Twisty Tetriblast |
 | 510 | 156 | RetroLemur |
-| 511 | 156 | Nuggets |
-| 512 | 156 | Deanna Morton |
+| 511 | 156 | Deanna Morton |
+| 512 | 156 | Nuggets |
 | 513 | 155 | Angela Murgia-Owen |
 | 514 | 155 | Cris cris |
 | 515 | 155 | Chelle |
@@ -696,10 +696,10 @@
 | 688 | 120 | Latrenya Paynes |
 | 689 | 120 | Janet Marie Vega |
 | 690 | 120 | Richelle Chapin |
-| 691 | 120 | Courtney Burcham |
-| 692 | 120 | Layla LS |
-| 693 | 119 | Perry Hubert |
-| 694 | 119 | Mary Boss |
+| 691 | 120 | Layla LS |
+| 692 | 120 | Courtney Burcham |
+| 693 | 119 | Mary Boss |
+| 694 | 119 | Perry Hubert |
 | 695 | 119 | Gloria Ininahazwe |
 | 696 | 119 | Zappy Stackbuilder |
 | 697 | 118 | Raffaella Dowling |
