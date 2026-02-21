@@ -75,8 +75,8 @@
 | 67 | 216 | Dee Perry |
 | 68 | 212 | Jaimie Lynn |
 | 69 | 211 | Marianita Garcia |
-| 70 | 208 | Carrie Beck Geartz |
-| 71 | 208 | Mandyy Rae |
+| 70 | 208 | Mandyy Rae |
+| 71 | 208 | Carrie Beck Geartz |
 | 72 | 205 | Trippy Redd |
 | 73 | 204 | Ly Phethmany |
 | 74 | 204 | Lexuriuos Lifestlye |
@@ -122,8 +122,8 @@
 | 114 | 148 | Shauntina Burke |
 | 115 | 146 | Irual Hctrab |
 | 116 | 145 | BigWeenie69 |
-| 117 | 144 | femmefatale |
-| 118 | 144 | Plucky Ziggy |
+| 117 | 144 | Plucky Ziggy |
+| 118 | 144 | femmefatale |
 | 119 | 143 | Sarah Marie |
 | 120 | 142 | Colleen Wise |
 | 121 | 141 | Blaire Bruckoff |

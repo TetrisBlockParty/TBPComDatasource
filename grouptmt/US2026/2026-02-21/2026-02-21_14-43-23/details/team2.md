@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Taylana Mincy |
-| 10 | 3567 | Rickey Goins Jr. |
+| 9 | 3567 | Rickey Goins Jr. |
+| 10 | 3567 | Taylana Mincy |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -243,8 +243,8 @@
 | 235 | 391 | Amanda Ferrell |
 | 236 | 389 | Gary Stash |
 | 237 | 386 | Macy Williams |
-| 238 | 385 | Sam |
-| 239 | 385 | Arwa Fatimah |
+| 238 | 385 | Arwa Fatimah |
+| 239 | 385 | Sam |
 | 240 | 383 | Arkei Luster |
 | 241 | 379 | Jánine Riggs |
 | 242 | 378 | Cody Nishimura |
@@ -367,9 +367,9 @@
 | 359 | 275 | Ann Matzkanin |
 | 360 | 275 | Cheeky Brickmatch |
 | 361 | 274 | Lonne Emade |
-| 362 | 274 | Jamie Stevey |
-| 363 | 274 | August Hale |
-| 364 | 274 | Melissa Holsinger |
+| 362 | 274 | Melissa Holsinger |
+| 363 | 274 | Jamie Stevey |
+| 364 | 274 | August Hale |
 | 365 | 273 | Vanessa Moreno |
 | 366 | 273 | Ray Ray Prado |
 | 367 | 273 | Jenna Nance |
@@ -400,8 +400,8 @@
 | 392 | 254 | Rose Fx |
 | 393 | 254 | Julie Hamilton |
 | 394 | 253 | Tansaria Couch-Butler |
-| 395 | 252 | Matt Johnson |
-| 396 | 252 | Alyssia Tancredi |
+| 395 | 252 | Alyssia Tancredi |
+| 396 | 252 | Matt Johnson |
 | 397 | 251 | Ann Knutson Anderson |
 | 398 | 250 | Steve Man |
 | 399 | 249 | Nicky Jackson |

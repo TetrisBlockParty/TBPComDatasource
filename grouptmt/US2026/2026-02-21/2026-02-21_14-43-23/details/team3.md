@@ -159,8 +159,8 @@
 | 151 | 179 | Joye Sims Binion |
 | 152 | 179 | Daira Largen |
 | 153 | 179 | Ashley Jones |
-| 154 | 178 | AlsoJess |
-| 155 | 178 | Khaleada McGill Banks |
+| 154 | 178 | Khaleada McGill Banks |
+| 155 | 178 | AlsoJess |
 | 156 | 176 | Ryan Williams |
 | 157 | 175 | DanceLuvLaugh |
 | 158 | 173 | Rebel124 |
@@ -208,8 +208,8 @@
 | 200 | 140 | Gumbo |
 | 201 | 140 | Jay Horn |
 | 202 | 137 | Emma |
-| 203 | 136 | Joy Petroski |
-| 204 | 136 | Boldy Corner |
+| 203 | 136 | Boldy Corner |
+| 204 | 136 | Joy Petroski |
 | 205 | 135 | Cheryl Hinch Tenbrook |
 | 206 | 133 | LaNette Morgan |
 | 207 | 132 | Terry Jo Jones |
@@ -397,7 +397,7 @@
 | 389 | 74 | Angel |
 | 390 | 73 | punky monkey buttky |
 | 391 | 73 | Nerdy Wipeout |
-| 392 | 73 | Weerae |
+| 392 | 73 | Elyse Grabowsky |
 | 393 | 73 | Spicy Caster |
 | 394 | 73 | Weerae |
 | 395 | 72 | Barbara Bennett |

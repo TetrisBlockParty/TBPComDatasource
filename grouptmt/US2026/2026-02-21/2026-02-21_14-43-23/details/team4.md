@@ -140,8 +140,8 @@
 | 132 | 126 | TinyLegoRose |
 | 133 | 126 | Dihcheese444 |
 | 134 | 124 | Allen Lloyd |
-| 135 | 123 | Cherrish Duren |
-| 136 | 123 | Angela Geist Jusinski |
+| 135 | 123 | Angela Geist Jusinski |
+| 136 | 123 | Cherrish Duren |
 | 137 | 122 | Sherri |
 | 138 | 121 | Zany Shatterer |
 | 139 | 121 | Megan Cutshaw |
