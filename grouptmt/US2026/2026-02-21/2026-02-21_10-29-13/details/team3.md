@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -123,11 +123,11 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
-| 121 | 193 | Clever Shiftsnap |
-| 122 | 193 | Stephanie Burtin |
+| 121 | 193 | Stephanie Burtin |
+| 122 | 193 | Clever Shiftsnap |
 | 123 | 192 | Chasity |
 | 124 | 191 | Scott Carleton |
 | 125 | 189 | Fallorina Susana |
@@ -151,8 +151,8 @@
 | 143 | 159 | Mcathen |
 | 144 | 159 | Morgan Martinez |
 | 145 | 158 | Grams |
-| 146 | 157 | Patricia Gadsden |
-| 147 | 157 | Nicholas Roddy |
+| 146 | 157 | Nicholas Roddy |
+| 147 | 157 | Patricia Gadsden |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
@@ -165,8 +165,8 @@
 | 157 | 149 | Angel Mendez |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Denita Mungro |
-| 161 | 146 | Latoya Mayne |
+| 160 | 146 | Latoya Mayne |
+| 161 | 146 | Denita Mungro |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Gumbo |

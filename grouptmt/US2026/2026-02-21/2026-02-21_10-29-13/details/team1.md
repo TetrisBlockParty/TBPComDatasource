@@ -79,8 +79,8 @@
 | 71 | 193 | Lachelle Dillon |
 | 72 | 192 | Shaykmia |
 | 73 | 191 | Jazzy Framezone |
-| 74 | 190 | Thorne Shumate |
-| 75 | 190 | Sweetts |
+| 74 | 190 | Sweetts |
+| 75 | 190 | Thorne Shumate |
 | 76 | 189 | Happy Basegrid |
 | 77 | 180 | Erez Yosef |
 | 78 | 173 | Frothy Pattern |

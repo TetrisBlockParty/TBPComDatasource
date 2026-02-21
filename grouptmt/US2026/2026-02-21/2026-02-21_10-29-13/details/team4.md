@@ -92,8 +92,8 @@
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
 | 86 | 150 | ZeeZee |
-| 87 | 147 | 030Synner |
-| 88 | 147 | Jay28 |
+| 87 | 147 | Jay28 |
+| 88 | 147 | 030Synner |
 | 89 | 146 | Peachy Fall |
 | 90 | 141 | Malakai Darien Fox |
 | 91 | 140 | Shannon Ferrari |
@@ -207,8 +207,8 @@
 | 199 | 80 | Chaz Duncan |
 | 200 | 79 | Joseph Pace |
 | 201 | 79 | Kametsunoyaiba |
-| 202 | 78 | Jessica Miller |
-| 203 | 78 | Zesty Linkgrid |
+| 202 | 78 | Zesty Linkgrid |
+| 203 | 78 | Jessica Miller |
 | 204 | 77 | Marvin Lou Martin |
 | 205 | 77 | Zippy Gridlock |
 | 206 | 77 | Twisty Cascadezone |

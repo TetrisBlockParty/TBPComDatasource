@@ -375,8 +375,8 @@
 | 367 | 227 | Nutty Matchline |
 | 368 | 227 | Demeka Dangerous-kisses Johnson |
 | 369 | 227 | JacJac |
-| 370 | 226 | Juliana Marques Do Nascimento Gordy |
-| 371 | 226 | Mary Marie |
+| 370 | 226 | Mary Marie |
+| 371 | 226 | Juliana Marques Do Nascimento Gordy |
 | 372 | 226 | Leslie Ann Carter |
 | 373 | 223 | Kristi Biddinger |
 | 374 | 223 | LegoCarpet |
@@ -544,8 +544,8 @@
 | 536 | 152 | Anthony Mignacca |
 | 537 | 152 | JP Parks |
 | 538 | 152 | Kristin King |
-| 539 | 151 | D'Aaron Black |
-| 540 | 151 | Kia Humphery |
+| 539 | 151 | Kia Humphery |
+| 540 | 151 | D'Aaron Black |
 | 541 | 151 | Jennifer Rajek |
 | 542 | 150 | Greenshades00 |
 | 543 | 150 | Candace Noel |
