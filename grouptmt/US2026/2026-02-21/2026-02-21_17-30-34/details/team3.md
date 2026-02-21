@@ -85,8 +85,8 @@
 | 77 | 411 | Cynthia Castros-Hampton |
 | 78 | 403 | Christine Filson |
 | 79 | 402 | Stephanie Simpson |
-| 80 | 394 | joclisa |
-| 81 | 394 | Shari Garber |
+| 80 | 394 | Shari Garber |
+| 81 | 394 | joclisa |
 | 82 | 392 | Michelle |
 | 83 | 391 | Calista Jo Dickson |
 | 84 | 390 | Annie Déè |
@@ -153,9 +153,9 @@
 | 145 | 212 | Shunta Jacobs |
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
-| 148 | 207 | Chris Bell |
-| 149 | 207 | rnr junky |
-| 150 | 207 | Jessica |
+| 148 | 207 | Jessica |
+| 149 | 207 | Chris Bell |
+| 150 | 207 | rnr junky |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 201 | Rochelle Hazelett |
@@ -188,7 +188,7 @@
 | 180 | 173 | Marci Mize Fandrich |
 | 181 | 173 | Sarajane Lokan |
 | 182 | 172 | Loopy Fallmatch |
-| 183 | 167 | Sashay Tapae Simpson |
+| 183 | 167 | Connie Mohler-Fair |
 | 184 | 167 | Raven Dudley |
 | 185 | 167 | Sashay Tapae Simpson |
 | 186 | 166 | Betty Rosas |
@@ -198,8 +198,8 @@
 | 190 | 163 | Stephanie Hill |
 | 191 | 163 | Christine Trester |
 | 192 | 162 | Stephanie Whitefield |
-| 193 | 161 | BŘŰŤİÇŨŚ |
-| 194 | 161 | Tamara Deherrera |
+| 193 | 161 | Tamara Deherrera |
+| 194 | 161 | BŘŰŤİÇŨŚ |
 | 195 | 160 | Tiffany Davie |
 | 196 | 159 | Jone |
 | 197 | 158 | Grams |
@@ -272,8 +272,8 @@
 | 264 | 115 | Stella |
 | 265 | 115 | Daring Builder |
 | 266 | 115 | Hoppy Buildout |
-| 267 | 114 | Elizabeth Renee |
-| 268 | 114 | JerseyJess |
+| 267 | 114 | JerseyJess |
+| 268 | 114 | Elizabeth Renee |
 | 269 | 114 | Amanda Neal |
 | 270 | 113 | Brave Brickster |
 | 271 | 113 | Brian Battjes |

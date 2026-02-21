@@ -95,8 +95,8 @@
 | 87 | 200 | Monica Daley |
 | 88 | 198 | Dustee Craddock-Harrison |
 | 89 | 198 | Mike Solo |
-| 90 | 194 | Zany Twisterfit |
-| 91 | 194 | Calvin Cannon |
+| 90 | 194 | Calvin Cannon |
+| 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
 | 93 | 191 | loulou |
 | 94 | 191 | Melvin Baird |
@@ -105,8 +105,8 @@
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
 | 99 | 181 | Carter Jones |
-| 100 | 180 | Leslie Nicole |
-| 101 | 180 | Leah Kutz Zirbel |
+| 100 | 180 | Leah Kutz Zirbel |
+| 101 | 180 | Leslie Nicole |
 | 102 | 179 | Epic Curvetile |
 | 103 | 178 | Lori |
 | 104 | 177 | Andria Lynn |
@@ -140,8 +140,8 @@
 | 132 | 140 | Shannon Ferrari |
 | 133 | 140 | Jenna McGeorge |
 | 134 | 137 | PeaceOs |
-| 135 | 136 | Tanner Lund |
-| 136 | 136 | Serena Goodridge |
+| 135 | 136 | Serena Goodridge |
+| 136 | 136 | Tanner Lund |
 | 137 | 135 | ĥuf |
 | 138 | 134 | Chirpy Basepiece |
 | 139 | 133 | Zany Shatterer |
@@ -168,8 +168,8 @@
 | 160 | 121 | Megan Cutshaw |
 | 161 | 120 | Joshua Guess |
 | 162 | 119 | Kristin Manee |
-| 163 | 119 | Gwendolyn Pitcairn |
-| 164 | 119 | Judy Cox |
+| 163 | 119 | Judy Cox |
+| 164 | 119 | Gwendolyn Pitcairn |
 | 165 | 115 | Ultramarine |
 | 166 | 115 | Jayk |
 | 167 | 115 | Sam Middleton |
