@@ -128,8 +128,8 @@
 | 120 | 351 | Giggy Blocker |
 | 121 | 350 | Chris Harr |
 | 122 | 345 | Brenda Messer |
-| 123 | 345 | Rhianna DiLorenzo |
-| 124 | 345 | Alyssaaelena |
+| 123 | 345 | Alyssaaelena |
+| 124 | 345 | Rhianna DiLorenzo |
 | 125 | 344 | Christina Lewis-Vickers |
 | 126 | 344 | Lina Sanders |
 | 127 | 343 | Cherica Taylor |
@@ -229,8 +229,8 @@
 | 221 | 205 | ElizabethAnn Dickinson |
 | 222 | 204 | Ali Gralski |
 | 223 | 203 | Gary Stash |
-| 224 | 202 | Mema |
-| 225 | 202 | Christina Ashley |
+| 224 | 202 | Christina Ashley |
+| 225 | 202 | Mema |
 | 226 | 201 | Em Chen |
 | 227 | 200 | Howard Forest |
 | 228 | 200 | Sarah Ridenour |
@@ -366,10 +366,10 @@
 | 358 | 128 | Arwa Fatimah |
 | 359 | 127 | Ellie Jonas |
 | 360 | 126 | Ethan Stienbarger |
-| 361 | 125 | Martina Gabrielle LaPolla |
-| 362 | 125 | Tina Marie |
-| 363 | 125 | Marsha Sosa Kiech |
-| 364 | 125 | Chilly Rollblock |
+| 361 | 125 | Tina Marie |
+| 362 | 125 | Martina Gabrielle LaPolla |
+| 363 | 125 | Chilly Rollblock |
+| 364 | 125 | Marsha Sosa Kiech |
 | 365 | 124 | Erica Williams |
 | 366 | 124 | Jazzy Grabber |
 | 367 | 124 | Witty Piecebuilder |
@@ -383,12 +383,12 @@
 | 375 | 121 | Fancy Chiseler |
 | 376 | 121 | Jessica Szymecki |
 | 377 | 121 | Amy Humphreys |
-| 378 | 121 | Fancy Chiseler |
+| 378 | 121 | Pam Doughty |
 | 379 | 120 | Lively Brickfit |
 | 380 | 120 | Courtney Burcham |
-| 381 | 120 | Makayla Harris |
-| 382 | 120 | Kara Gillen |
-| 383 | 120 | Latrenya Paynes |
+| 381 | 120 | Latrenya Paynes |
+| 382 | 120 | Makayla Harris |
+| 383 | 120 | Kara Gillen |
 | 384 | 119 | Alison Emmons |
 | 385 | 119 | Leebo Slice |
 | 386 | 119 | Gloria Ininahazwe |

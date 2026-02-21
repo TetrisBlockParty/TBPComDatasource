@@ -38,8 +38,8 @@
 | 30 | 190 | Brittney Orengo |
 | 31 | 185 | loulou |
 | 32 | 174 | Jamie Mann-Deichmann |
-| 33 | 170 | Girl |
-| 34 | 170 | Leah Kutz Zirbel |
+| 33 | 170 | Leah Kutz Zirbel |
+| 34 | 170 | Girl |
 | 35 | 168 | Anthony Magaraci |
 | 36 | 167 | Rachel Anne |
 | 37 | 165 | Kimyatta Cavin |

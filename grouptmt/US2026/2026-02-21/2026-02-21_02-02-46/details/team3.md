@@ -86,8 +86,8 @@
 | 78 | 159 | Morgan Martinez |
 | 79 | 154 | Shannon Matthew Byers |
 | 80 | 154 | Angela M. Fletcher |
-| 81 | 152 | rosy |
-| 82 | 152 | Shiny Zonebuilder |
+| 81 | 152 | Shiny Zonebuilder |
+| 82 | 152 | rosy |
 | 83 | 149 | Trisha Balmer |
 | 84 | 146 | Denita Mungro |
 | 85 | 146 | Latoya Mayne |
@@ -102,9 +102,9 @@
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
-| 97 | 125 | BŘŰŤİÇŨŚ |
+| 97 | 125 | Stephanie Simpson |
 | 98 | 125 | Felicia Doxey |
-| 99 | 125 | Stephanie Simpson |
+| 99 | 125 | BŘŰŤİÇŨŚ |
 | 100 | 124 | Marquita Sheard |
 | 101 | 122 | Aerian Preston |
 | 102 | 122 | Shimika Enay Wallace |
