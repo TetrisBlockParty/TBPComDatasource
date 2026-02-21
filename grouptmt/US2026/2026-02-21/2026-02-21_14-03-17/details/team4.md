@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -126,8 +126,8 @@
 | 118 | 132 | Degenerate |
 | 119 | 132 | Jessica Cagle |
 | 120 | 130 | Casey Jeffcoat |
-| 121 | 129 | John Brunetti |
-| 122 | 129 | Landon Keith Graffeo |
+| 121 | 129 | Landon Keith Graffeo |
+| 122 | 129 | John Brunetti |
 | 123 | 128 | Rio Rocha |
 | 124 | 126 | TinyLegoRose |
 | 125 | 126 | Klo |
@@ -171,8 +171,8 @@
 | 163 | 103 | Judy Cox |
 | 164 | 102 | April Rondinone |
 | 165 | 102 | Faja |
-| 166 | 101 | Michelle Morris |
-| 167 | 101 | Saulc1991 |
+| 166 | 101 | Saulc1991 |
+| 167 | 101 | Michelle Morris |
 | 168 | 100 | Alexandra Karavias |
 | 169 | 99 | Michael Orris |
 | 170 | 99 | Anthony Bryan Riva |
@@ -248,10 +248,10 @@
 | 240 | 75 | Christina Black |
 | 241 | 75 | Rosemary Foster |
 | 242 | 74 | Tyler Terrific |
-| 243 | 73 | Cristy Duerksen |
-| 244 | 73 | Staci Robinson Jones |
-| 245 | 73 | Lynn Marie |
-| 246 | 73 | Rheanda Weaskus |
+| 243 | 73 | Staci Robinson Jones |
+| 244 | 73 | Lynn Marie |
+| 245 | 73 | Rheanda Weaskus |
+| 246 | 73 | Cristy Duerksen |
 | 247 | 72 | Sam Bishop |
 | 248 | 71 | Ruben Wheeler |
 | 249 | 71 | Ericca Eldridge |

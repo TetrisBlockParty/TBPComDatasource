@@ -177,8 +177,8 @@
 | 169 | 495 | Poppy Snap |
 | 170 | 488 | Teresa Gillmore |
 | 171 | 486 | MrsCandyfine As Wine Truss |
-| 172 | 485 | Leah Keesling |
-| 173 | 485 | Gene Mills |
+| 172 | 485 | Gene Mills |
+| 173 | 485 | Leah Keesling |
 | 174 | 484 | Suki Kaur |
 | 175 | 483 | Jordan Kaiser |
 | 176 | 483 | goofinoff |
@@ -259,8 +259,8 @@
 | 251 | 356 | Deyawn Smith |
 | 252 | 355 | Shandrica Lowe |
 | 253 | 355 | Kristen O'Neal |
-| 254 | 354 | Brave Dropmatch |
-| 255 | 354 | Tracy Wise |
+| 254 | 354 | Tracy Wise |
+| 255 | 354 | Brave Dropmatch |
 | 256 | 353 | Cheery Matchzone |
 | 257 | 352 | ruth |
 | 258 | 350 | Chris Harr |
@@ -417,8 +417,8 @@
 | 409 | 236 | Julio A Laracuente |
 | 410 | 236 | snkylnk |
 | 411 | 235 | Kimberly Mitchell |
-| 412 | 234 | Jennifer Leigh |
-| 413 | 234 | Manny Trindade |
+| 412 | 234 | Manny Trindade |
+| 413 | 234 | Jennifer Leigh |
 | 414 | 234 | Jaybee Nguyen |
 | 415 | 233 | Nutty Matchline |
 | 416 | 233 | Jumpy Gridclear |
@@ -744,7 +744,7 @@
 | 736 | 131 | Christine Moradians |
 | 737 | 131 | Kendall Fullerton |
 | 738 | 131 | Jaadd |
-| 739 | 131 | Kendall Fullerton |
+| 739 | 131 | Zeleana Perry |
 | 740 | 130 | Nerdy Riserfit |
 | 741 | 130 | Martina Gabrielle LaPolla |
 | 742 | 130 | Christina Eckert |
@@ -866,8 +866,8 @@
 | 858 | 116 | Meganator42 |
 | 859 | 116 | Slimkaite |
 | 860 | 116 | Jennifer Monroe Kelly |
-| 861 | 115 | Jroc |
-| 862 | 115 | AsnPryBoy83 |
+| 861 | 115 | AsnPryBoy83 |
+| 862 | 115 | Jroc |
 | 863 | 115 | Angela KaplaSchwahn |
 | 864 | 115 | Melissa Schwager |
 | 865 | 114 | James Louie |

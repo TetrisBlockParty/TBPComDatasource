@@ -62,8 +62,8 @@
 | 54 | 256 | Robert Benito |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
-| 57 | 244 | Franswa |
-| 58 | 244 | Tdub |
+| 57 | 244 | Tdub |
+| 58 | 244 | Franswa |
 | 59 | 240 | Rachael |
 | 60 | 237 | Elaine Elaine |
 | 61 | 226 | Sharon Reynolds |

@@ -183,8 +183,8 @@
 | 175 | 152 | Shiny Zonebuilder |
 | 176 | 151 | MsBee |
 | 177 | 150 | Nicole Myers |
-| 178 | 149 | Bea Miles |
-| 179 | 149 | Angel Mendez |
+| 178 | 149 | Angel Mendez |
+| 179 | 149 | Bea Miles |
 | 180 | 147 | Desiree Gold |
 | 181 | 146 | Carrie Huskey |
 | 182 | 146 | Latoya Mayne |
@@ -236,8 +236,8 @@
 | 228 | 113 | Brian Battjes |
 | 229 | 111 | Stephanie Zahm |
 | 230 | 111 | Brenda Lee Vander Molen |
-| 231 | 110 | Tye Stovall |
-| 232 | 110 | Danielle Weikel |
+| 231 | 110 | Danielle Weikel |
+| 232 | 110 | Tye Stovall |
 | 233 | 110 | Stella |
 | 234 | 109 | Brave Brickster |
 | 235 | 109 | Fredd Thomas |
