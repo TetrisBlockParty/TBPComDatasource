@@ -88,8 +88,8 @@
 | 80 | 658 | Pacynthia Williams |
 | 81 | 658 | Vistabrat |
 | 82 | 653 | Becky Weeks-Garry |
-| 83 | 649 | Stephanie Chapman |
-| 84 | 649 | Anna Edwards |
+| 83 | 649 | Anna Edwards |
+| 84 | 649 | Stephanie Chapman |
 | 85 | 631 | Loopy Clusterbuilder |
 | 86 | 608 | John Bednarik |
 | 87 | 601 | Nancy Reid |
@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Charvi' Carter |
-| 101 | 540 | Thomas Hedrick |
+| 100 | 540 | Thomas Hedrick |
+| 101 | 540 | Charvi' Carter |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -138,8 +138,8 @@
 | 130 | 455 | Alicia Parrish |
 | 131 | 453 | Osun Anuket Esu |
 | 132 | 450 | Giggy Blocker |
-| 133 | 448 | Jojo Momma |
-| 134 | 448 | Nick Jensen |
+| 133 | 448 | Nick Jensen |
+| 134 | 448 | Jojo Momma |
 | 135 | 442 | Daphne Jordan |
 | 136 | 440 | BYM4L |
 | 137 | 431 | Slip |
@@ -159,8 +159,8 @@
 | 151 | 397 | Ashley Guernsey-Martin |
 | 152 | 391 | Chilly Bridgepiece |
 | 153 | 391 | Steven Marshaun |
-| 154 | 386 | Ashie Ann |
-| 155 | 386 | Jumpy Gridpiece |
+| 154 | 386 | Jumpy Gridpiece |
+| 155 | 386 | Ashie Ann |
 | 156 | 385 | Sam |
 | 157 | 384 | Stephanie Neuburger |
 | 158 | 381 | Amanda Ferrell |
@@ -314,11 +314,11 @@
 | 306 | 215 | Jordan Petro |
 | 307 | 212 | Aleasha M Brown |
 | 308 | 212 | Amanda Canterbury |
-| 309 | 208 | Smashanator |
-| 310 | 208 | Mema |
-| 311 | 207 | Kimmy Newman |
-| 312 | 207 | Melissa McCall |
-| 313 | 207 | Brave Gridpiece |
+| 309 | 208 | Mema |
+| 310 | 208 | Smashanator |
+| 311 | 207 | Brave Gridpiece |
+| 312 | 207 | Kimmy Newman |
+| 313 | 207 | Melissa McCall |
 | 314 | 207 | Shylee Tilman |
 | 315 | 206 | RAEPR05 |
 | 316 | 206 | Julio A Laracuente |
