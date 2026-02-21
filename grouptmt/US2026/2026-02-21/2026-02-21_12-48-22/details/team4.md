@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 520 | Kimyatta Cavin |
@@ -85,15 +85,15 @@
 | 77 | 173 | Jeff Brian Gates |
 | 78 | 171 | Melvin Baird |
 | 79 | 171 | Zethra Prenisha Rahming |
-| 80 | 170 | Girl |
-| 81 | 170 | Justin Hannigan |
+| 80 | 170 | Justin Hannigan |
+| 81 | 170 | Girl |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Courtney Cicoria |
-| 84 | 165 | Casey Grabner |
+| 83 | 165 | Casey Grabner |
+| 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Carter Jones |
-| 88 | 160 | Stacey Stano |
+| 87 | 160 | Stacey Stano |
+| 88 | 160 | Carter Jones |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
@@ -137,8 +137,8 @@
 | 129 | 118 | Leslie Nicole |
 | 130 | 116 | Diana Houts |
 | 131 | 116 | Stephme310 |
-| 132 | 115 | Jayk |
-| 133 | 115 | Ultramarine |
+| 132 | 115 | Ultramarine |
+| 133 | 115 | Jayk |
 | 134 | 113 | Adam Randall |
 | 135 | 113 | Andria Lynn |
 | 136 | 112 | Austin Owens |
@@ -924,91 +924,91 @@
 | 916 | 8 | Joe Dardar |
 | 917 | 8 | Dawn Plumb |
 | 918 | 8 | Shiny Matchfit |
-| 919 | 8 | Jennifer Pfeiffer Johnson |
-| 920 | 8 | Joe Dardar |
-| 921 | 8 | Heather Hilferty |
-| 922 | 8 | Dawn Plumb |
-| 923 | 8 | Tracey Lehmann |
-| 924 | 8 | Lofty Lue |
-| 925 | 8 | Loopy Rollbuilder |
-| 926 | 7 | Valerie Eileen |
-| 927 | 7 | Aleasha Haukenfrers |
-| 928 | 7 | Snazzy Tilemaker |
-| 929 | 7 | Jamie Hirtle |
-| 930 | 7 | Tory Miller |
-| 931 | 7 | Chirpy Balancer |
-| 932 | 7 | MoP11 |
-| 933 | 7 | Alicia Falk |
-| 934 | 7 | Earnest Thompson |
-| 935 | 7 | Zany Shatterbuilder |
-| 936 | 7 | Nicholas Jordan |
-| 937 | 7 | Flashy Twister |
-| 938 | 7 | Sunny babes |
+| 919 | 8 | Loopy Rollbuilder |
+| 920 | 8 | Heather Hilferty |
+| 921 | 8 | Lofty Lue |
+| 922 | 8 | Jermre Owens |
+| 923 | 8 | Nutty Grid |
+| 924 | 8 | Cherry cola pepper |
+| 925 | 8 | Tracey Lehmann |
+| 926 | 7 | Snazzy Tilemaker |
+| 927 | 7 | Jamie Hirtle |
+| 928 | 7 | Trish |
+| 929 | 7 | MoP11 |
+| 930 | 7 | Alicia Falk |
+| 931 | 7 | Barcelos |
+| 932 | 7 | Peachy Pop |
+| 933 | 7 | Earnest Thompson |
+| 934 | 7 | Zany Shatterbuilder |
+| 935 | 7 | Chirpy Balancer |
+| 936 | 7 | Tara |
+| 937 | 7 | Aleasha Haukenfrers |
+| 938 | 7 | Nicholas Jordan |
 | 939 | 7 | Cassie Haydis |
-| 940 | 7 | Trish |
-| 941 | 7 | Snippy |
-| 942 | 7 | Tina Connick |
-| 943 | 7 | Barcelos |
-| 944 | 7 | Tara |
-| 945 | 7 | Peachy Pop |
-| 946 | 7 | Kayd |
-| 947 | 7 | Laure Houtman |
-| 948 | 7 | ZZZZZZZ |
-| 949 | 6 | Laura Davis |
-| 950 | 6 | Slinky Lifter |
-| 951 | 6 | Colleen Brown |
-| 952 | 6 | Garrick Wilfork |
-| 953 | 6 | Jesus Garcia |
-| 954 | 6 | KrakaLackin |
-| 955 | 6 | Tiffany Root |
-| 956 | 6 | Shmaka |
-| 957 | 6 | Chirpy Tetriblast |
-| 958 | 6 | Ashley Ingram |
-| 959 | 6 | Brittanny Simpson |
-| 960 | 6 | Laurmarcar |
-| 961 | 6 | Swift |
-| 962 | 6 | Tamela Harvey |
+| 940 | 7 | Tory Miller |
+| 941 | 7 | Kayd |
+| 942 | 7 | Flashy Twister |
+| 943 | 7 | Laure Houtman |
+| 944 | 7 | ZZZZZZZ |
+| 945 | 7 | Tina Connick |
+| 946 | 7 | Sunny babes |
+| 947 | 7 | Valerie Eileen |
+| 948 | 7 | Snippy |
+| 949 | 6 | Lazy Clusterfit |
+| 950 | 6 | Andrew Easley |
+| 951 | 6 | Elaine Hall |
+| 952 | 6 | Snazzy Grid |
+| 953 | 6 | Raw Jean |
+| 954 | 6 | Laurmarcar |
+| 955 | 6 | Lush Cascadeclear |
+| 956 | 6 | Tamela Harvey |
+| 957 | 6 | Ak Jones |
+| 958 | 6 | Swift |
+| 959 | 6 | Lindsey Bergkvist |
+| 960 | 6 | Lively Blockline |
+| 961 | 6 | Garrick Wilfork |
+| 962 | 6 | Cool Stackbuilder |
 | 963 | 6 | Tangelo |
-| 964 | 6 | Raw Jean |
-| 965 | 6 | Elaine Hall |
-| 966 | 6 | Lively Blockline |
-| 967 | 6 | Snazzy Grid |
-| 968 | 6 | Lindsey Bergkvist |
-| 969 | 6 | Andrew Easley |
-| 970 | 6 | Eric Mcgaughy |
-| 971 | 6 | Ak Jones |
-| 972 | 6 | Cool Stackbuilder |
-| 973 | 6 | Lazy Clusterfit |
-| 974 | 6 | Lush Cascadeclear |
-| 975 | 5 | canglem |
-| 976 | 5 | Nolegs Tukikit |
-| 977 | 5 | Laurel Coppess |
-| 978 | 5 | Moneybagg Keyshawn |
-| 979 | 5 | Daria Rycewicz |
+| 964 | 6 | Eric Mcgaughy |
+| 965 | 6 | Chirpy Tetriblast |
+| 966 | 6 | Laura Davis |
+| 967 | 6 | Shmaka |
+| 968 | 6 | Slinky Lifter |
+| 969 | 6 | Ashley Ingram |
+| 970 | 6 | Brittanny Simpson |
+| 971 | 6 | Colleen Brown |
+| 972 | 6 | KrakaLackin |
+| 973 | 6 | Tiffany Root |
+| 974 | 6 | Jesus Garcia |
+| 975 | 5 | Albert Mariano |
+| 976 | 5 | Jessica Petersen |
+| 977 | 5 | Moneybagg Keyshawn |
+| 978 | 5 | Daria Rycewicz |
+| 979 | 5 | canglem |
 | 980 | 5 | Mathew Dissinger |
 | 981 | 5 | George Clemis |
-| 982 | 5 | Priscilla Lewandowski |
-| 983 | 5 | Quirky Clearfit |
-| 984 | 5 | Allison Moody |
-| 985 | 5 | Quirky Dash |
-| 986 | 5 | Amy Anderson-Franks |
-| 987 | 5 | Albert Mariano |
-| 988 | 5 | Jmier |
-| 989 | 5 | Matthew Rodriguez |
-| 990 | 5 | Jessica Petersen |
-| 991 | 5 | Cannonfodda81 |
-| 992 | 5 | Rebecca A Rit |
-| 993 | 5 | Samantha Kleine |
-| 994 | 5 | Jazzy Climber |
-| 995 | 5 | Brad Caldwell |
-| 996 | 5 | Shane Vick |
-| 997 | 5 | Cheery Shatterclear |
-| 998 | 5 | Dana |
-| 999 | 5 | Dapper Caster |
-| 1000 | 5 | Brian Owens |
+| 982 | 5 | Jazzy Climber |
+| 983 | 5 | Jmier |
+| 984 | 5 | Nolegs Tukikit |
+| 985 | 5 | Samantha Kleine |
+| 986 | 5 | Laurel Coppess |
+| 987 | 5 | Amy Anderson-Franks |
+| 988 | 5 | Quirky Dash |
+| 989 | 5 | Dapper Caster |
+| 990 | 5 | Allison Moody |
+| 991 | 5 | Rebecca A Rit |
+| 992 | 5 | Priscilla Lewandowski |
+| 993 | 5 | Brian Owens |
+| 994 | 5 | Brad Caldwell |
+| 995 | 5 | Matthew Rodriguez |
+| 996 | 5 | Jared M D Campbell |
+| 997 | 5 | Cannonfodda81 |
+| 998 | 5 | Shane Vick |
+| 999 | 5 | Quirky Clearfit |
+| 1000 | 5 | Cheery Shatterclear |
 | 1001 | 5 | Dreamy Snapgrid |
 | 1002 | 5 | Amy Jean |
-| 1003 | 5 | Jared M D Campbell |
+| 1003 | 5 | Dana |
 
 ---
 *Standings created by tournaments datasource generation tool*

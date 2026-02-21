@@ -153,8 +153,8 @@
 | 145 | 522 | Slip |
 | 146 | 520 | Kimberly Schall |
 | 147 | 517 | Debra Williams |
-| 148 | 515 | Real Ri |
-| 149 | 515 | Kaylee McCafferty |
+| 148 | 515 | Kaylee McCafferty |
+| 149 | 515 | Real Ri |
 | 150 | 514 | Ashley House |
 | 151 | 513 | Butta |
 | 152 | 511 | Ramone Armstrong |

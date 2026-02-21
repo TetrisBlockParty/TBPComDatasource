@@ -25,8 +25,8 @@
 | 17 | 1151 | Rachel Bowers |
 | 18 | 1119 | Lauren d |
 | 19 | 1037 | Lori Barnaby |
-| 20 | 1015 | Jennifer Willis |
-| 21 | 1015 | Josiah Fam |
+| 20 | 1015 | Josiah Fam |
+| 21 | 1015 | Jennifer Willis |
 | 22 | 953 | Laura Melton |
 | 23 | 928 | Snappy Fitzone |
 | 24 | 924 | Stephanie Rice |
@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Snappy Glidepiece |
-| 44 | 546 | Dolores Falco |
+| 43 | 546 | Dolores Falco |
+| 44 | 546 | Snappy Glidepiece |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -81,8 +81,8 @@
 | 73 | 353 | Stephanie Woods |
 | 74 | 346 | Shannon Matthew Byers |
 | 75 | 345 | Christine Niles |
-| 76 | 342 | Trezure Gonzalez |
-| 77 | 342 | Annie Déè |
+| 76 | 342 | Annie Déè |
+| 77 | 342 | Trezure Gonzalez |
 | 78 | 338 | Danielle Rhoades |
 | 79 | 332 | Chauntee Alfrey-Cardinale |
 | 80 | 325 | Shari Garber |
