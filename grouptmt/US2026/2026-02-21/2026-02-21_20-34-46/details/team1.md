@@ -25,8 +25,8 @@
 | 17 | 792 | LaQuetta Faith Hines |
 | 18 | 779 | Andrea Dañielle Ortiz |
 | 19 | 771 | Robert Beck |
-| 20 | 770 | Adryane Schnase |
-| 21 | 770 | Zappy Curvetile |
+| 20 | 770 | Zappy Curvetile |
+| 21 | 770 | Adryane Schnase |
 | 22 | 699 | Josie Kirt |
 | 23 | 683 | Chipper Gridlock |
 | 24 | 658 | Carolyn Smith |
@@ -47,8 +47,8 @@
 | 39 | 510 | Colena Davenport |
 | 40 | 508 | Michelle Nicole |
 | 41 | 493 | Kristen Roles Robben |
-| 42 | 486 | Sevens4L |
-| 43 | 486 | Sarah Lombardo |
+| 42 | 486 | Sarah Lombardo |
+| 43 | 486 | Sevens4L |
 | 44 | 483 | Ryan Lunnin |
 | 45 | 469 | Kathi Snustad |
 | 46 | 460 | Matt |
@@ -107,8 +107,8 @@
 | 99 | 222 | Kristen Gideon |
 | 100 | 214 | Billie Dawn Sparks |
 | 101 | 213 | Lexuriuos Lifestlye |
-| 102 | 212 | Jaimie Lynn |
-| 103 | 212 | Mandyy Rae |
+| 102 | 212 | Mandyy Rae |
+| 103 | 212 | Jaimie Lynn |
 | 104 | 211 | Marianita Garcia |
 | 105 | 210 | Ly Phethmany |
 | 106 | 204 | Ananda Mendez |
@@ -249,7 +249,7 @@
 | 241 | 100 | Debbie Davis |
 | 242 | 100 | Plucky Fallzone |
 | 243 | 100 | Jessica Weed |
-| 244 | 100 | ParisandCory Champagne |
+| 244 | 100 | Cheeky Pop |
 | 245 | 99 | Meechie |
 | 246 | 98 | DoodleBug |
 | 247 | 98 | Howdi Duty |

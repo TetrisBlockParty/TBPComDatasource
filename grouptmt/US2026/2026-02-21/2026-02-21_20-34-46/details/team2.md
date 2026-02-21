@@ -191,8 +191,8 @@
 | 183 | 619 | Jamie Otero |
 | 184 | 619 | Chirpy Staggerpiece |
 | 185 | 613 | Melissa Holsinger |
-| 186 | 608 | John Bednarik |
-| 187 | 608 | Sommer Shope |
+| 186 | 608 | Sommer Shope |
+| 187 | 608 | John Bednarik |
 | 188 | 604 | Danielle Johnson-Chandler |
 | 189 | 603 | Cassie Maynard |
 | 190 | 597 | Erica Williams |
@@ -202,8 +202,8 @@
 | 194 | 591 | Alisha |
 | 195 | 591 | Diana Fitzwater |
 | 196 | 586 | Stephen Stephen |
-| 197 | 583 | Jessicah Myers |
-| 198 | 583 | Steve Grotto |
+| 197 | 583 | Steve Grotto |
+| 198 | 583 | Jessicah Myers |
 | 199 | 579 | Gary Stash |
 | 200 | 577 | Hyper Cluster |
 | 201 | 576 | Shannon Joslin |
@@ -455,8 +455,8 @@
 | 447 | 304 | Michelle Shrum |
 | 448 | 304 | NFLPITMOM |
 | 449 | 303 | Amanda Schaffer |
-| 450 | 303 | Angie Marie |
-| 451 | 303 | Crystal Greene |
+| 450 | 303 | Crystal Greene |
+| 451 | 303 | Angie Marie |
 | 452 | 302 | stacey |
 | 453 | 301 | Audra Williams |
 | 454 | 301 | Claire |
@@ -567,8 +567,8 @@
 | 559 | 245 | Mary Boss |
 | 560 | 245 | Sanaa Nounoussa |
 | 561 | 244 | Belle |
-| 562 | 244 | Nakiiya Dreamcatcher Gore |
-| 563 | 244 | Court |
+| 562 | 244 | Court |
+| 563 | 244 | Nakiiya Dreamcatcher Gore |
 | 564 | 243 | JacJac |
 | 565 | 242 | Donna Chandler |
 | 566 | 242 | Lianne Giandalone LaBounty |

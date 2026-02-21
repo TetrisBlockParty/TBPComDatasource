@@ -55,8 +55,8 @@
 | 47 | 442 | Lisa Davis |
 | 48 | 433 | Isabel Aguilar |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | TeeJ |
-| 51 | 411 | Jonathan Kimbrough |
+| 50 | 411 | Jonathan Kimbrough |
+| 51 | 411 | TeeJ |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
@@ -143,8 +143,8 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Jessica Bohlken |
-| 139 | 156 | Holly |
+| 138 | 156 | Holly |
+| 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
 | 141 | 151 | Avy Absol |
 | 142 | 151 | Bethany Ison |
@@ -333,11 +333,11 @@
 | 325 | 74 | Alee Marie |
 | 326 | 74 | Dizzy Matchzone |
 | 327 | 74 | Matt Gooder |
-| 328 | 73 | Lynn Marie |
-| 329 | 73 | Rheanda Weaskus |
+| 328 | 73 | Rheanda Weaskus |
+| 329 | 73 | Lynn Marie |
 | 330 | 73 | Jennifer Perkins |
-| 331 | 72 | Jackson Karen |
-| 332 | 72 | Raegan Lane-Ross |
+| 331 | 72 | Raegan Lane-Ross |
+| 332 | 72 | Jackson Karen |
 | 333 | 72 | Brave Spinbuilder |
 | 334 | 71 | Dapper Climber |
 | 335 | 71 | Speedy Wipeblock |

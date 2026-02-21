@@ -105,8 +105,8 @@
 | 97 | 389 | Mcathen |
 | 98 | 386 | Katie Knaus |
 | 99 | 384 | Shannon Matthew Byers |
-| 100 | 378 | Tasha Schriewer |
-| 101 | 378 | Makelini Mausia |
+| 100 | 378 | Makelini Mausia |
+| 101 | 378 | Tasha Schriewer |
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
@@ -137,8 +137,8 @@
 | 129 | 278 | Rufus Lincoln |
 | 130 | 276 | Crimson |
 | 131 | 272 | opf |
-| 132 | 271 | Ashley Muncey |
-| 133 | 271 | Leah Barnett |
+| 132 | 271 | Leah Barnett |
+| 133 | 271 | Ashley Muncey |
 | 134 | 270 | Stephanie Blkpep Davidson |
 | 135 | 267 | Denise Nardoni |
 | 136 | 263 | Angeline Joseph |
@@ -179,9 +179,9 @@
 | 171 | 200 | glichmod |
 | 172 | 200 | Sharisse Baltimore |
 | 173 | 197 | Staci George Fitzsimmons |
-| 174 | 195 | Nicha Hooker |
-| 175 | 195 | Michael Lucado |
-| 176 | 193 | Angie Harper |
+| 174 | 195 | Michael Lucado |
+| 175 | 195 | Nicha Hooker |
+| 176 | 193 | Clever Shiftsnap |
 | 177 | 193 | Duane Bright |
 | 178 | 193 | Stephanie Burtin |
 | 179 | 193 | Karon Griffin |
@@ -220,8 +220,8 @@
 | 212 | 166 | Beth Ingham |
 | 213 | 166 | Betty Rosas |
 | 214 | 165 | Kali Kelz Williams |
-| 215 | 163 | Stephanie Hill |
-| 216 | 163 | Christine Trester |
+| 215 | 163 | Christine Trester |
+| 216 | 163 | Stephanie Hill |
 | 217 | 162 | Stephanie Whitefield |
 | 218 | 161 | BŘŰŤİÇŨŚ |
 | 219 | 161 | Irene Arreguin |
