@@ -630,7 +630,7 @@
 | 622 | 225 | Stanley Vanekelenburg |
 | 623 | 225 | Blacc Blac |
 | 624 | 224 | Besma Ao |
-| 625 | 223 | J.L. Roberts |
+| 625 | 223 | LegoCarpet |
 | 626 | 223 | Jess Morrison |
 | 627 | 223 | J.L. Roberts |
 | 628 | 223 | Michele Moren |
@@ -642,8 +642,8 @@
 | 634 | 220 | Jennifer Coe |
 | 635 | 220 | Katrina Weston |
 | 636 | 220 | Brenna Ann |
-| 637 | 219 | Trista Carter |
-| 638 | 219 | Cathy Bitters |
+| 637 | 219 | Cathy Bitters |
+| 638 | 219 | Trista Carter |
 | 639 | 219 | Josh Webster |
 | 640 | 218 | Twisty Tetriblast |
 | 641 | 218 | Shylee Tilman |
@@ -675,14 +675,14 @@
 | 667 | 209 | Jannan Haimour |
 | 668 | 209 | Stacy Harper |
 | 669 | 209 | John Quiring |
-| 670 | 209 | Stacy Harper |
+| 670 | 209 | Chummy Breaker |
 | 671 | 209 | Ocean-Brianna McGregor |
 | 672 | 208 | Ashley MoBetta Humes |
 | 673 | 208 | Lauren Fitzgerald Thomas |
 | 674 | 208 | Jessica Sutter |
 | 675 | 208 | Alyssa Dean |
-| 676 | 207 | Nicolle Danielle |
-| 677 | 207 | Caitlin Johnson |
+| 676 | 207 | Caitlin Johnson |
+| 677 | 207 | Nicolle Danielle |
 | 678 | 207 | Jeffrey Barrows |
 | 679 | 207 | Sara Pennington |
 | 680 | 206 | Neko Preston |

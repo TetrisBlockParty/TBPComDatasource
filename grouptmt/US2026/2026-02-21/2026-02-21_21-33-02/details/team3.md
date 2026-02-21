@@ -78,8 +78,8 @@
 | 70 | 533 | Sarah Fehring |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Justin Ritter |
-| 74 | 502 | Joey Banks |
+| 73 | 502 | Joey Banks |
+| 74 | 502 | Justin Ritter |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 481 | Jay Horn |
@@ -103,8 +103,8 @@
 | 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Annie Déè |
-| 99 | 390 | Hasty Cascadefit |
+| 98 | 390 | Hasty Cascadefit |
+| 99 | 390 | Annie Déè |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -164,8 +164,8 @@
 | 156 | 234 | Tom Nault |
 | 157 | 233 | Ray Lader |
 | 158 | 229 | Nikki Pags |
-| 159 | 228 | Morgan Martinez |
-| 160 | 228 | Rochelle Hazelett |
+| 159 | 228 | Rochelle Hazelett |
+| 160 | 228 | Morgan Martinez |
 | 161 | 226 | Grego Daniel |
 | 162 | 224 | Nicole Myers |
 | 163 | 223 | Jeana Gilbert |
@@ -276,8 +276,8 @@
 | 268 | 139 | Funky Jumper |
 | 269 | 138 | Boldy Corner |
 | 270 | 137 | Cesar Barraza |
-| 271 | 136 | Sabrina Mansfield |
-| 272 | 136 | Rachel |
+| 271 | 136 | Rachel |
+| 272 | 136 | Sabrina Mansfield |
 | 273 | 135 | Skinny Baldez |
 | 274 | 135 | Terry Jo Jones |
 | 275 | 134 | Kristian Thurman |

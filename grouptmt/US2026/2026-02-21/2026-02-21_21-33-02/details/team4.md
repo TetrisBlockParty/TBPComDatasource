@@ -160,15 +160,15 @@
 | 152 | 147 | Shainne Brewer |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
-| 155 | 141 | Malakai Darien Fox |
+| 155 | 141 | ĥuf |
 | 156 | 141 | Marcus Todd |
-| 157 | 141 | ĥuf |
+| 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
 | 159 | 140 | Shannon Ferrari |
 | 160 | 140 | John Brunetti |
 | 161 | 137 | PeaceOs |
-| 162 | 136 | Tanner Lund |
-| 163 | 136 | Serena Goodridge |
+| 162 | 136 | Serena Goodridge |
+| 163 | 136 | Tanner Lund |
 | 164 | 136 | Sarah Brown |
 | 165 | 135 | Victoria Faniel |
 | 166 | 135 | Stephme310 |

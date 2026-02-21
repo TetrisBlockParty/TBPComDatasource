@@ -102,8 +102,8 @@
 | 94 | 251 | june october |
 | 95 | 245 | Nicole Roseberry Weber |
 | 96 | 244 | Franswa |
-| 97 | 240 | Tana |
-| 98 | 240 | Elaine Elaine |
+| 97 | 240 | Elaine Elaine |
+| 98 | 240 | Tana |
 | 99 | 239 | Cynthia Bradley |
 | 100 | 238 | John J. Cronin |
 | 101 | 237 | Seante Bullock |
@@ -160,9 +160,9 @@
 | 152 | 156 | Tyler Werts |
 | 153 | 154 | Irual Hctrab |
 | 154 | 153 | Shiny Gridmatch |
-| 155 | 152 | Speedy Snapfall |
-| 156 | 152 | Jacqueline Unique |
-| 157 | 152 | Trina Gee |
+| 155 | 152 | Trina Gee |
+| 156 | 152 | Speedy Snapfall |
+| 157 | 152 | Jacqueline Unique |
 | 158 | 150 | David Miller |
 | 159 | 150 | Adele Rahman |
 | 160 | 148 | Bouncy Grid |
@@ -170,16 +170,16 @@
 | 162 | 147 | Leslie Bush Yarbrough |
 | 163 | 147 | Davery Spencer Adair |
 | 164 | 146 | Christy Jones |
-| 165 | 145 | Agustin Duarte Orozco |
-| 166 | 145 | Angela Fairbank |
-| 167 | 144 | Gary Gobin |
-| 168 | 144 | femmefatale |
+| 165 | 145 | Angela Fairbank |
+| 166 | 145 | Agustin Duarte Orozco |
+| 167 | 144 | femmefatale |
+| 168 | 144 | Gary Gobin |
 | 169 | 143 | Sarah Marie |
 | 170 | 142 | Colleen Wise |
 | 171 | 141 | Blaire Bruckoff |
 | 172 | 140 | Miguel Teixeira |
-| 173 | 139 | Flashy Rotator |
-| 174 | 139 | Jenny Gingrich Fuentes |
+| 173 | 139 | Jenny Gingrich Fuentes |
+| 174 | 139 | Flashy Rotator |
 | 175 | 138 | Cranky Pattern |
 | 176 | 138 | Death |
 | 177 | 137 | Cody Gates |
@@ -189,8 +189,8 @@
 | 181 | 135 | Giddy Cascade |
 | 182 | 134 | Witty Builderfit |
 | 183 | 134 | Brave Wrecker |
-| 184 | 132 | Mel Hogan |
-| 185 | 132 | Tipsy Riseclear |
+| 184 | 132 | Tipsy Riseclear |
+| 185 | 132 | Mel Hogan |
 | 186 | 131 | Uhog SF |
 | 187 | 131 | Kimberly Garcia |
 | 188 | 130 | LD1 |
