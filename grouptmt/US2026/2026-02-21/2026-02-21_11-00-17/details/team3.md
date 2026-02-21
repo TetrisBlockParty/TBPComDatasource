@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Judi Dobson |
-| 103 | 224 | Mykal Burton |
+| 102 | 224 | Mykal Burton |
+| 103 | 224 | Judi Dobson |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -147,17 +147,17 @@
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
-| 142 | 159 | Jone |
-| 143 | 159 | Mcathen |
-| 144 | 159 | Morgan Martinez |
+| 142 | 159 | Mcathen |
+| 143 | 159 | Morgan Martinez |
+| 144 | 159 | Jone |
 | 145 | 158 | Grams |
-| 146 | 157 | Patricia Gadsden |
-| 147 | 157 | Nicholas Roddy |
+| 146 | 157 | Nicholas Roddy |
+| 147 | 157 | Patricia Gadsden |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
-| 151 | 153 | Stephanie Whitefield |
-| 152 | 153 | Beth Ingham |
+| 151 | 153 | Beth Ingham |
+| 152 | 153 | Stephanie Whitefield |
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
@@ -347,8 +347,8 @@
 | 339 | 73 | Rainbow77375 |
 | 340 | 73 | Loopy Fallmatch |
 | 341 | 73 | Spicy Caster |
-| 342 | 73 | Rainbow77375 |
-| 343 | 73 | Loopy Fallmatch |
+| 342 | 73 | Nerdy Wipeout |
+| 343 | 73 | punky monkey buttky |
 | 344 | 73 | Elyse Grabowsky |
 | 345 | 72 | Gimmegimmebeer |
 | 346 | 72 | Alexsandran Valdivia |

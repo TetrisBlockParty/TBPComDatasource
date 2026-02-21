@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -172,8 +172,8 @@
 | 164 | 460 | Cody Smith-Candelaria |
 | 165 | 456 | Drwatson187 |
 | 166 | 454 | Casey Schumacher |
-| 167 | 453 | Mischelle Clay |
-| 168 | 453 | Osun Anuket Esu |
+| 167 | 453 | Osun Anuket Esu |
+| 168 | 453 | Mischelle Clay |
 | 169 | 452 | Alezandra Smith |
 | 170 | 450 | Giggy Blocker |
 | 171 | 450 | Cheech Dta |
@@ -206,8 +206,8 @@
 | 198 | 385 | Arwa Fatimah |
 | 199 | 385 | Sam |
 | 200 | 381 | Amanda Ferrell |
-| 201 | 380 | Joshua Mandel |
-| 202 | 380 | Calandra Shaya Robinson |
+| 201 | 380 | Calandra Shaya Robinson |
+| 202 | 380 | Joshua Mandel |
 | 203 | 378 | Cody Nishimura |
 | 204 | 377 | Roy Salyer |
 | 205 | 364 | Shinette Dobson |
@@ -265,11 +265,11 @@
 | 257 | 303 | Crystal Greene |
 | 258 | 303 | Amanda Schaffer |
 | 259 | 301 | Claire |
-| 260 | 299 | Christy Krissie |
-| 261 | 299 | Deborah Miller |
+| 260 | 299 | Deborah Miller |
+| 261 | 299 | Christy Krissie |
 | 262 | 297 | Brenda Utphall |
-| 263 | 296 | Amber Gray |
-| 264 | 296 | Jennifer Casey-Kay |
+| 263 | 296 | Jennifer Casey-Kay |
+| 264 | 296 | Amber Gray |
 | 265 | 296 | Jennifer Darby |
 | 266 | 295 | Zany Clusterbuilder |
 | 267 | 295 | Diallo Sparkman |
@@ -297,11 +297,11 @@
 | 289 | 276 | SwampRebel |
 | 290 | 276 | Vonceial Boone |
 | 291 | 275 | Cheeky Brickmatch |
-| 292 | 275 | Ann Matzkanin |
-| 293 | 275 | Shiny Rollzone |
-| 294 | 274 | Jamie Stevey |
-| 295 | 274 | Alexandra Weir |
-| 296 | 274 | Melissa Holsinger |
+| 292 | 275 | Shiny Rollzone |
+| 293 | 275 | Ann Matzkanin |
+| 294 | 274 | Melissa Holsinger |
+| 295 | 274 | Jamie Stevey |
+| 296 | 274 | Alexandra Weir |
 | 297 | 274 | Lonne Emade |
 | 298 | 273 | Jenna Nance |
 | 299 | 273 | Ray Ray Prado |
@@ -310,8 +310,8 @@
 | 302 | 272 | Mikayala Szaz |
 | 303 | 271 | Ann Marie Davis |
 | 304 | 271 | Toni Lynn |
-| 305 | 270 | Christina Ashley |
-| 306 | 270 | Angela Lynn |
+| 305 | 270 | Angela Lynn |
+| 306 | 270 | Christina Ashley |
 | 307 | 269 | Reece Smith |
 | 308 | 268 | Tanya Parsons |
 | 309 | 268 | Chummy Blockbuilder |
@@ -331,8 +331,8 @@
 | 323 | 256 | CC |
 | 324 | 255 | Santana Miyagi |
 | 325 | 254 | Julie Hamilton |
-| 326 | 254 | Elizabeth Diraffaele |
-| 327 | 254 | Rose Fx |
+| 326 | 254 | Rose Fx |
+| 327 | 254 | Elizabeth Diraffaele |
 | 328 | 253 | Tansaria Couch-Butler |
 | 329 | 252 | Matt Johnson |
 | 330 | 252 | Alyssia Tancredi |
@@ -344,8 +344,8 @@
 | 336 | 248 | Leah Keesling |
 | 337 | 248 | Dany Murillo |
 | 338 | 248 | Bubbly Snapfit |
-| 339 | 247 | Andrea Devery Beck |
-| 340 | 247 | Fancy Twister |
+| 339 | 247 | Fancy Twister |
+| 340 | 247 | Andrea Devery Beck |
 | 341 | 246 | Kathryn Townsley |
 | 342 | 246 | Ashley Lopez |
 | 343 | 246 | Stephanie Lumanlan |
@@ -365,8 +365,8 @@
 | 357 | 236 | Niceday |
 | 358 | 236 | Julio A Laracuente |
 | 359 | 235 | Kimberly Mitchell |
-| 360 | 234 | Jennifer Leigh |
-| 361 | 234 | Manny Trindade |
+| 360 | 234 | Manny Trindade |
+| 361 | 234 | Jennifer Leigh |
 | 362 | 234 | Jaybee Nguyen |
 | 363 | 233 | Jumpy Gridclear |
 | 364 | 233 | Robin Kerby |
@@ -733,8 +733,8 @@
 | 725 | 118 | Starrs Dcct |
 | 726 | 118 | Raffaella Dowling |
 | 727 | 118 | Nina Woodill |
-| 728 | 118 | Amanda Perez |
-| 729 | 118 | Emilie Victoria Cordero |
+| 728 | 118 | Emilie Victoria Cordero |
+| 729 | 118 | Amanda Perez |
 | 730 | 117 | Cody Kelsey |
 | 731 | 117 | Kelli Clark |
 | 732 | 117 | Theresa Ring |
@@ -748,8 +748,8 @@
 | 740 | 116 | BeenRich Theceo |
 | 741 | 116 | SpaceCase085 |
 | 742 | 116 | Moua Ying |
-| 743 | 116 | Meganator42 |
-| 744 | 116 | Slimkaite |
+| 743 | 116 | Slimkaite |
+| 744 | 116 | Meganator42 |
 | 745 | 115 | Melissa Schwager |
 | 746 | 115 | Angela KaplaSchwahn |
 | 747 | 115 | Fae-Bulous |
@@ -762,9 +762,9 @@
 | 754 | 114 | Kimberly Mcmullen |
 | 755 | 114 | Kristen Rogers |
 | 756 | 113 | SwifftFox |
-| 757 | 113 | Della Hole |
+| 757 | 113 | Brave Gridzone |
 | 758 | 113 | Hillary Franklin |
-| 759 | 113 | Brave Gridzone |
+| 759 | 113 | Della Hole |
 | 760 | 113 | Amanda Michelle Pigeon |
 | 761 | 112 | Goofy Catcher |
 | 762 | 112 | Ashley Bacote |

@@ -66,8 +66,8 @@
 | 58 | 208 | Carrie Beck Geartz |
 | 59 | 205 | Trippy Redd |
 | 60 | 204 | Ly Phethmany |
-| 61 | 202 | Dee Perry |
-| 62 | 202 | Hyper |
+| 61 | 202 | Hyper |
+| 62 | 202 | Dee Perry |
 | 63 | 201 | Anaid Sanchez |
 | 64 | 201 | Ananda Mendez |
 | 65 | 200 | Lexuriuos Lifestlye |
@@ -109,8 +109,8 @@
 | 101 | 144 | Tanya Carpenter-Reynolds |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
-| 104 | 138 | Cranky Pattern |
-| 105 | 138 | Gary Gobin |
+| 104 | 138 | Gary Gobin |
+| 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
 | 108 | 133 | Brandi Huntington |
@@ -147,10 +147,10 @@
 | 139 | 106 | Bloknboy |
 | 140 | 106 | Aimee Horton |
 | 141 | 105 | Ty Brown |
-| 142 | 104 | Charla Pross-Fugleberg |
-| 143 | 104 | Bindi |
-| 144 | 103 | Angela Fairbank |
-| 145 | 103 | Adryane Schnase |
+| 142 | 104 | Bindi |
+| 143 | 104 | Charla Pross-Fugleberg |
+| 144 | 103 | Adryane Schnase |
+| 145 | 103 | Angela Fairbank |
 | 146 | 102 | Jennifer ManWarren |
 | 147 | 100 | Spunky Piecebuilder |
 | 148 | 100 | Tami Luce Martin |

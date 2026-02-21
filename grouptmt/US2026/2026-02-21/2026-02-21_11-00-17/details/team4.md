@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Valerie Roberts |
-| 19 | 590 | Dee Kay |
+| 18 | 590 | Dee Kay |
+| 19 | 590 | Valerie Roberts |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -165,8 +165,8 @@
 | 157 | 98 | Chaz |
 | 158 | 97 | Brandi Durig |
 | 159 | 97 | Kristin MacDonald |
-| 160 | 96 | Zappy Snaplink |
-| 161 | 96 | Marcus TheeyoungWoe Gilmore |
+| 160 | 96 | Marcus TheeyoungWoe Gilmore |
+| 161 | 96 | Zappy Snaplink |
 | 162 | 95 | Meagan Nicole |
 | 163 | 95 | Victoria Faniel |
 | 164 | 94 | DonMega |
@@ -175,8 +175,8 @@
 | 167 | 93 | Zesty Twistbuilder |
 | 168 | 90 | No Strings Attached Ra |
 | 169 | 90 | Judy Cox |
-| 170 | 89 | shark tato |
-| 171 | 89 | mike |
+| 170 | 89 | mike |
+| 171 | 89 | shark tato |
 | 172 | 88 | Heather Tushner |
 | 173 | 88 | Kesha Brady |
 | 174 | 87 | Bradley Reeves |
