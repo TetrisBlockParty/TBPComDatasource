@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |

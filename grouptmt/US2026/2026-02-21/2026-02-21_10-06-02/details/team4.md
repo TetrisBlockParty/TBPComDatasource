@@ -113,8 +113,8 @@
 | 105 | 129 | Landon Keith Graffeo |
 | 106 | 126 | Dihcheese444 |
 | 107 | 125 | Lauren Scott |
-| 108 | 123 | Nugget |
-| 109 | 123 | Bubbly Puzzler |
+| 108 | 123 | Bubbly Puzzler |
+| 109 | 123 | Nugget |
 | 110 | 123 | Cherrish Duren |
 | 111 | 122 | Sherri |
 | 112 | 121 | Megan Cutshaw |
@@ -153,7 +153,7 @@
 | 145 | 101 | Saulc1991 |
 | 146 | 101 | Michelle Morris |
 | 147 | 100 | Alexandra Karavias |
-| 148 | 98 | Duck |
+| 148 | 98 | Allen Lloyd |
 | 149 | 98 | Jeremy Steines |
 | 150 | 98 | Duck |
 | 151 | 98 | Chaz |

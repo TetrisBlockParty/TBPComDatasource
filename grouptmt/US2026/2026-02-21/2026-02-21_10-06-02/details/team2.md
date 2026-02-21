@@ -114,8 +114,8 @@
 | 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Loopy Clusterbuilder |
-| 110 | 631 | Peppy Zone |
+| 109 | 631 | Peppy Zone |
+| 110 | 631 | Loopy Clusterbuilder |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -688,8 +688,8 @@
 | 680 | 125 | Goofy Blockfall |
 | 681 | 125 | Jamie Frank Karolyi |
 | 682 | 124 | Witty Piecebuilder |
-| 683 | 124 | Jazzy Grabber |
-| 684 | 124 | Samantha Williams-Bittner |
+| 683 | 124 | Samantha Williams-Bittner |
+| 684 | 124 | Jazzy Grabber |
 | 685 | 124 | Kendall Fullerton |
 | 686 | 124 | Tommy Stuck |
 | 687 | 123 | Samie Dayle |
@@ -756,7 +756,7 @@
 | 748 | 112 | Christina Wsn |
 | 749 | 112 | Ashley Bacote |
 | 750 | 112 | Goofy Catcher |
-| 751 | 112 | Christina Wsn |
+| 751 | 112 | Kaytlyn Brown |
 | 752 | 112 | Leroy Jenkins |
 | 753 | 111 | Jroc |
 | 754 | 111 | Ashley M. Davis |
