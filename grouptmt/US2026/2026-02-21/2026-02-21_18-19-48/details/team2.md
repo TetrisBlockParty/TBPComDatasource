@@ -476,8 +476,8 @@
 | 468 | 251 | Niceday |
 | 469 | 250 | Mike73 |
 | 470 | 250 | Steve Man |
-| 471 | 249 | Porsche' Nicole |
-| 472 | 249 | Nicky Jackson |
+| 471 | 249 | Nicky Jackson |
+| 472 | 249 | Porsche' Nicole |
 | 473 | 248 | Gursharan Sandhu |
 | 474 | 248 | Warren Marleau |
 | 475 | 248 | Dany Murillo |

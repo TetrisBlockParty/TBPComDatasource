@@ -109,9 +109,9 @@
 | 101 | 187 | Swanky Fitline |
 | 102 | 185 | Andy Cabral |
 | 103 | 181 | Carter Jones |
-| 104 | 180 | Justin Hannigan |
-| 105 | 180 | Leslie Nicole |
-| 106 | 180 | Leah Kutz Zirbel |
+| 104 | 180 | Leslie Nicole |
+| 105 | 180 | Leah Kutz Zirbel |
+| 106 | 180 | Justin Hannigan |
 | 107 | 179 | Epic Curvetile |
 | 108 | 178 | Lori |
 | 109 | 177 | Andria Lynn |

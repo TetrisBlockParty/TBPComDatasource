@@ -176,9 +176,9 @@
 | 168 | 191 | Giddy Twistbuilder |
 | 169 | 191 | Scott Carleton |
 | 170 | 191 | Rebel124 |
-| 171 | 189 | Sissy Lowery Davis |
-| 172 | 189 | Staci George Fitzsimmons |
-| 173 | 189 | Fallorina Susana |
+| 171 | 189 | Fallorina Susana |
+| 172 | 189 | Sissy Lowery Davis |
+| 173 | 189 | Staci George Fitzsimmons |
 | 174 | 188 | Angie Harper |
 | 175 | 186 | Khaleada McGill Banks |
 | 176 | 182 | Sashay Tapae Simpson |
@@ -232,11 +232,11 @@
 | 224 | 148 | Jennifer Alvey |
 | 225 | 147 | Ashley Lynn Marchese |
 | 226 | 147 | Cheryl Hinch Tenbrook |
-| 227 | 146 | Latoya Mayne |
-| 228 | 146 | Carrie Huskey |
+| 227 | 146 | Carrie Huskey |
+| 228 | 146 | Latoya Mayne |
 | 229 | 146 | Denita Mungro |
-| 230 | 145 | Bryan Byrd |
-| 231 | 145 | Emma |
+| 230 | 145 | Emma |
+| 231 | 145 | Bryan Byrd |
 | 232 | 145 | Jeni Dow |
 | 233 | 142 | Danielle Allison |
 | 234 | 142 | Erica Anderson |
@@ -250,8 +250,8 @@
 | 242 | 135 | Terry Jo Jones |
 | 243 | 135 | Erykah |
 | 244 | 134 | Cesar Barraza |
-| 245 | 134 | Sarah Moyer |
-| 246 | 134 | Skinny Baldez |
+| 245 | 134 | Skinny Baldez |
+| 246 | 134 | Sarah Moyer |
 | 247 | 133 | LaNette Morgan |
 | 248 | 132 | Daryn Elliott |
 | 249 | 131 | Darlene McMillan |
@@ -315,9 +315,9 @@
 | 307 | 104 | Samantha Lynn |
 | 308 | 104 | Ashley Rufus Bythcez |
 | 309 | 103 | Lisa Lisa |
-| 310 | 103 | Andrew Thorson |
-| 311 | 103 | Kate Farok |
-| 312 | 103 | Wetwet |
+| 310 | 103 | Kate Farok |
+| 311 | 103 | Wetwet |
+| 312 | 103 | Andrew Thorson |
 | 313 | 102 | Criss |
 | 314 | 102 | Rebecca Funderburk Kirby |
 | 315 | 102 | Christian Luna |
