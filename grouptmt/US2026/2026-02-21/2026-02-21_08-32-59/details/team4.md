@@ -143,19 +143,19 @@
 | 135 | 105 | AyeKay |
 | 136 | 105 | Sam Middleton |
 | 137 | 104 | Adam Randall |
-| 138 | 104 | Damn Libra |
-| 139 | 104 | YoMomma |
+| 138 | 104 | YoMomma |
+| 139 | 104 | Damn Libra |
 | 140 | 102 | Faja |
 | 141 | 101 | Michelle Morris |
 | 142 | 101 | Saulc1991 |
 | 143 | 100 | Alexandra Karavias |
-| 144 | 98 | Allen Lloyd |
-| 145 | 98 | Duck |
+| 144 | 98 | Duck |
+| 145 | 98 | Allen Lloyd |
 | 146 | 98 | Chaz |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
-| 149 | 95 | Victoria Faniel |
-| 150 | 95 | Meagan Nicole |
+| 149 | 95 | Meagan Nicole |
+| 150 | 95 | Victoria Faniel |
 | 151 | 93 | Zesty Twistbuilder |
 | 152 | 92 | Kristin MacDonald |
 | 153 | 90 | Judy Cox |

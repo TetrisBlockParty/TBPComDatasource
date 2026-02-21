@@ -476,8 +476,8 @@
 | 468 | 164 | Sara Pennington |
 | 469 | 163 | Danielle Ayoub |
 | 470 | 163 | Albert McKnight |
-| 471 | 162 | LC Hamilton |
-| 472 | 162 | Michael Artis |
+| 471 | 162 | Michael Artis |
+| 472 | 162 | LC Hamilton |
 | 473 | 162 | Andrea Maher |
 | 474 | 161 | Brandon McDonald |
 | 475 | 160 | Marcie McLain Dodd |
@@ -798,7 +798,7 @@
 | 790 | 102 | Justin Morris |
 | 791 | 102 | Alisa Donald |
 | 792 | 102 | Jennifer Heaney |
-| 793 | 101 | Boldy Block |
+| 793 | 101 | Chipper Risebuilder |
 | 794 | 101 | Elizabeth Cotton |
 | 795 | 101 | Boldy Block |
 | 796 | 101 | Jacob Huffman |
