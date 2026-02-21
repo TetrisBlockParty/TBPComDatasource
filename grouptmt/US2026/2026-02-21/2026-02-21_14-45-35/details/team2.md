@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Leah Keesling |
-| 184 | 485 | Gene Mills |
+| 183 | 485 | Gene Mills |
+| 184 | 485 | Leah Keesling |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -199,8 +199,8 @@
 | 191 | 470 | Jerry Tempelmeyer |
 | 192 | 469 | Ashley Rose Frederick |
 | 193 | 465 | Drwatson187 |
-| 194 | 464 | Ryan Gunther |
-| 195 | 464 | Ariel |
+| 194 | 464 | Ariel |
+| 195 | 464 | Ryan Gunther |
 | 196 | 460 | Amélie Cadieux |
 | 197 | 460 | Cody Smith-Candelaria |
 | 198 | 454 | Casey Schumacher |
@@ -353,9 +353,9 @@
 | 345 | 281 | Ellie Jonas |
 | 346 | 281 | Jaycee |
 | 347 | 280 | Shorty |
-| 348 | 280 | Sabrina Burton |
-| 349 | 280 | SwampRebel |
-| 350 | 280 | Lyndi Robinson Wakefield |
+| 348 | 280 | Lyndi Robinson Wakefield |
+| 349 | 280 | Sabrina Burton |
+| 350 | 280 | SwampRebel |
 | 351 | 279 | Glitzy Stackzone |
 | 352 | 278 | Deana |
 | 353 | 278 | Noel Tarmy |
@@ -389,23 +389,23 @@
 | 381 | 262 | Taren Cowan |
 | 382 | 261 | MrsClaudette Will'sIam Matthews |
 | 383 | 260 | Santana Miyagi |
-| 384 | 257 | Diana Fitzwater |
-| 385 | 257 | Anthony Mignacca |
+| 384 | 257 | Anthony Mignacca |
+| 385 | 257 | Diana Fitzwater |
 | 386 | 257 | Kathryn Townsley |
 | 387 | 257 | Jackie Jackie Lee |
 | 388 | 256 | Alishac Marie |
 | 389 | 256 | Barbra Miller |
 | 390 | 256 | Tee Jaleesa |
-| 391 | 254 | Rose Fx |
-| 392 | 254 | Elizabeth Diraffaele |
+| 391 | 254 | Elizabeth Diraffaele |
+| 392 | 254 | Rose Fx |
 | 393 | 254 | Julie Hamilton |
 | 394 | 253 | Tansaria Couch-Butler |
 | 395 | 252 | Matt Johnson |
 | 396 | 252 | Alyssia Tancredi |
 | 397 | 251 | Ann Knutson Anderson |
 | 398 | 250 | Steve Man |
-| 399 | 249 | Porsche' Nicole |
-| 400 | 249 | Nicky Jackson |
+| 399 | 249 | Nicky Jackson |
+| 400 | 249 | Porsche' Nicole |
 | 401 | 248 | Aimee Byrom |
 | 402 | 248 | Dany Murillo |
 | 403 | 248 | Maddy Petersen |
@@ -723,11 +723,11 @@
 | 715 | 139 | Jackson Smith |
 | 716 | 139 | Octavio Garza |
 | 717 | 138 | Joshua Self |
-| 718 | 138 | Kiely Tomaskovich |
-| 719 | 138 | Dee |
+| 718 | 138 | Dee |
+| 719 | 138 | Kiely Tomaskovich |
 | 720 | 138 | Jennie Lee Huntley |
-| 721 | 138 | Iris Angelica Perez Cantos |
-| 722 | 138 | Gursharan Sandhu |
+| 721 | 138 | Gursharan Sandhu |
+| 722 | 138 | Iris Angelica Perez Cantos |
 | 723 | 137 | Jannan Haimour |
 | 724 | 137 | Hazel Spears |
 | 725 | 137 | Willow |

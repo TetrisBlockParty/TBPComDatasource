@@ -55,8 +55,8 @@
 | 47 | 287 | Hyper |
 | 48 | 283 | Odell Barnett |
 | 49 | 276 | Kristen Roles Robben |
-| 50 | 274 | Theo Pinnow |
-| 51 | 274 | Sweet Baker |
+| 50 | 274 | Sweet Baker |
+| 51 | 274 | Theo Pinnow |
 | 52 | 272 | Adam Byrd |
 | 53 | 270 | Shauna Loe |
 | 54 | 267 | Redlicious 1 |
@@ -91,8 +91,8 @@
 | 83 | 193 | Lachelle Dillon |
 | 84 | 192 | Shaykmia |
 | 85 | 191 | Jazzy Framezone |
-| 86 | 190 | Thorne Shumate |
-| 87 | 190 | Sweetts |
+| 86 | 190 | Sweetts |
+| 87 | 190 | Thorne Shumate |
 | 88 | 189 | Happy Basegrid |
 | 89 | 180 | Erez Yosef |
 | 90 | 178 | Danielle Little-Daugherty |
@@ -102,8 +102,8 @@
 | 94 | 173 | Frothy Pattern |
 | 95 | 171 | Greg Premoe |
 | 96 | 166 | Rico Rico |
-| 97 | 165 | GATOR |
-| 98 | 165 | Veronica Eve |
+| 97 | 165 | Veronica Eve |
+| 98 | 165 | GATOR |
 | 99 | 163 | Chad Atchley |
 | 100 | 162 | Ash Galvan |
 | 101 | 162 | Tyler Whitley |

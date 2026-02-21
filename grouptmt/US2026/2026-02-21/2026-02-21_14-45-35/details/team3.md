@@ -149,15 +149,15 @@
 | 141 | 191 | Giddy Twistbuilder |
 | 142 | 191 | Scott Carleton |
 | 143 | 189 | Sissy Lowery Davis |
-| 144 | 189 | Fallorina Susana |
-| 145 | 189 | Staci George Fitzsimmons |
+| 144 | 189 | Staci George Fitzsimmons |
+| 145 | 189 | Fallorina Susana |
 | 146 | 184 | Jennie Beranek |
 | 147 | 182 | Hyper Matchzone |
 | 148 | 182 | Ashley Tookes |
-| 149 | 181 | Karon Griffin |
-| 150 | 181 | Aerian Preston |
-| 151 | 179 | Joye Sims Binion |
-| 152 | 179 | Daira Largen |
+| 149 | 181 | Aerian Preston |
+| 150 | 181 | Karon Griffin |
+| 151 | 179 | Daira Largen |
+| 152 | 179 | Joye Sims Binion |
 | 153 | 179 | Ashley Jones |
 | 154 | 178 | Khaleada McGill Banks |
 | 155 | 178 | AlsoJess |
@@ -183,8 +183,8 @@
 | 175 | 159 | Jone |
 | 176 | 159 | Stephanie Whitefield |
 | 177 | 158 | Grams |
-| 178 | 157 | Patricia Gadsden |
-| 179 | 157 | Nicholas Roddy |
+| 178 | 157 | Nicholas Roddy |
+| 179 | 157 | Patricia Gadsden |
 | 180 | 156 | Joey Banks |
 | 181 | 154 | Angela M. Fletcher |
 | 182 | 153 | Beth Ingham |
@@ -275,8 +275,8 @@
 | 267 | 104 | Ashley Rufus Bythcez |
 | 268 | 104 | bean |
 | 269 | 103 | Kate Farok |
-| 270 | 103 | Wetwet |
-| 271 | 103 | BabyTonj Evans |
+| 270 | 103 | BabyTonj Evans |
+| 271 | 103 | Wetwet |
 | 272 | 102 | Christian Luna |
 | 273 | 101 | Hyper Bridger |
 | 274 | 101 | Sabrina Ruth Archuletta-Gauna |
@@ -611,7 +611,7 @@
 | 603 | 49 | Hasty Gridpiece |
 | 604 | 49 | Beth Smith |
 | 605 | 48 | Yvonne Felicia Garcia |
-| 606 | 48 | JeffnDarla Holmes |
+| 606 | 48 | Terrie Miranda |
 | 607 | 48 | Bela PC |
 | 608 | 48 | JeffnDarla Holmes |
 | 609 | 48 | Cheery Brickster |
