@@ -78,8 +78,8 @@
 | 70 | 1038 | Denisha Dawkins |
 | 71 | 1013 | Sarah Freitas |
 | 72 | 992 | Samantha Roberts |
-| 73 | 973 | Kim Dean |
-| 74 | 973 | Zappy Cascade |
+| 73 | 973 | Zappy Cascade |
+| 74 | 973 | Kim Dean |
 | 75 | 962 | Charie Holland |
 | 76 | 962 | Janel Turley-Garner |
 | 77 | 946 | Carrie Trigg |
@@ -171,9 +171,9 @@
 | 163 | 546 | Charvi' Carter |
 | 164 | 543 | Diana Fitzwater |
 | 165 | 541 | SaraMarie Eveland |
-| 166 | 534 | Stephen Stephen |
-| 167 | 534 | Poppy Snapper |
-| 168 | 534 | Teresa Gillmore |
+| 166 | 534 | Poppy Snapper |
+| 167 | 534 | Teresa Gillmore |
+| 168 | 534 | Stephen Stephen |
 | 169 | 531 | Chris Wanner |
 | 170 | 527 | Adira Brown |
 | 171 | 527 | Stacy Stickle |
@@ -199,9 +199,9 @@
 | 191 | 496 | Ashie Ann |
 | 192 | 495 | Poppy Snap |
 | 193 | 486 | MrsCandyfine As Wine Truss |
-| 194 | 485 | Leah Keesling |
-| 195 | 485 | Gene Mills |
-| 196 | 485 | Lylymom |
+| 194 | 485 | Lylymom |
+| 195 | 485 | Leah Keesling |
+| 196 | 485 | Gene Mills |
 | 197 | 484 | Suki Kaur |
 | 198 | 483 | Jordan Kaiser |
 | 199 | 482 | Eckoman518 |
@@ -361,8 +361,8 @@
 | 353 | 289 | Hyper Cluster |
 | 354 | 289 | Frisky Clearpiece |
 | 355 | 288 | Megan Phillips |
-| 356 | 285 | June E Hanson |
-| 357 | 285 | Mandi Douglas Hilt |
+| 356 | 285 | Mandi Douglas Hilt |
+| 357 | 285 | June E Hanson |
 | 358 | 284 | Autumn Schaeffer |
 | 359 | 283 | Byung Bae Park |
 | 360 | 282 | Shaun Church |
@@ -458,8 +458,8 @@
 | 450 | 233 | Jumpy Gridclear |
 | 451 | 233 | Daring Matchfit |
 | 452 | 232 | Aleasha M Brown |
-| 453 | 232 | Amber Brion |
-| 454 | 232 | Quirky Twistline |
+| 453 | 232 | Quirky Twistline |
+| 454 | 232 | Amber Brion |
 | 455 | 231 | Hong Tang |
 | 456 | 231 | Dylan Thomason |
 | 457 | 231 | Brave Gridpiece |
@@ -468,12 +468,12 @@
 | 460 | 228 | Michelle Sager |
 | 461 | 227 | JacJac |
 | 462 | 226 | Jodi Mitnick |
-| 463 | 226 | Christina Wsn |
-| 464 | 226 | Juliana Marques Do Nascimento Gordy |
+| 463 | 226 | Juliana Marques Do Nascimento Gordy |
+| 464 | 226 | Christina Wsn |
 | 465 | 226 | Morgan Easter |
 | 466 | 225 | Breezy Tilt |
-| 467 | 224 | Besma Ao |
-| 468 | 224 | Alice Ball |
+| 467 | 224 | Alice Ball |
+| 468 | 224 | Besma Ao |
 | 469 | 223 | LegoCarpet |
 | 470 | 223 | Jess Morrison |
 | 471 | 223 | Kristi Biddinger |

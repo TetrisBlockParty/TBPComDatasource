@@ -87,8 +87,8 @@
 | 79 | 210 | Lucas J Sutton |
 | 80 | 205 | Sarah Neathery |
 | 81 | 204 | Brittney Orengo |
-| 82 | 198 | Dustee Craddock-Harrison |
-| 83 | 198 | Mike Solo |
+| 82 | 198 | Mike Solo |
+| 83 | 198 | Dustee Craddock-Harrison |
 | 84 | 193 | Monica Daley |
 | 85 | 191 | loulou |
 | 86 | 189 | Calvin Dennis |
@@ -110,15 +110,15 @@
 | 102 | 164 | ThaEviLJeNiuZ |
 | 103 | 162 | Shauna Havard |
 | 104 | 161 | Joeliecea Cobb |
-| 105 | 160 | Crystal Carroll |
-| 106 | 160 | Stacey Stano |
-| 107 | 160 | ZeeZee |
+| 105 | 160 | Stacey Stano |
+| 106 | 160 | ZeeZee |
+| 107 | 160 | Crystal Carroll |
 | 108 | 159 | Holly Jolly |
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Dana Scott |
-| 113 | 151 | Bethany Ison |
+| 112 | 151 | Bethany Ison |
+| 113 | 151 | Dana Scott |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |

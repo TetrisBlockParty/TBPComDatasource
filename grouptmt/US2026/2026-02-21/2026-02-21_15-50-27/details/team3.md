@@ -164,8 +164,8 @@
 | 156 | 188 | Angie Harper |
 | 157 | 184 | Jennie Beranek |
 | 158 | 182 | Hyper Matchzone |
-| 159 | 181 | Aerian Preston |
-| 160 | 181 | Karon Griffin |
+| 159 | 181 | Karon Griffin |
+| 160 | 181 | Aerian Preston |
 | 161 | 179 | Joye Sims Binion |
 | 162 | 179 | Ashley Jones |
 | 163 | 179 | Daira Largen |

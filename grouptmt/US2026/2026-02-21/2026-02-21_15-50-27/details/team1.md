@@ -150,8 +150,8 @@
 | 142 | 130 | LD1 |
 | 143 | 129 | Dino |
 | 144 | 129 | Christy Jones |
-| 145 | 128 | Barry Mac'Ockner |
-| 146 | 128 | lil mickey |
+| 145 | 128 | lil mickey |
+| 146 | 128 | Barry Mac'Ockner |
 | 147 | 127 | Brave Wrecker |
 | 148 | 127 | Aimee Horton |
 | 149 | 126 | Death |
@@ -165,8 +165,8 @@
 | 157 | 119 | Tater |
 | 158 | 116 | Jessica Russell |
 | 159 | 116 | Evie Khalil |
-| 160 | 115 | Mrs.Patrica |
-| 161 | 115 | Chuck Gannon |
+| 160 | 115 | Chuck Gannon |
+| 161 | 115 | Mrs.Patrica |
 | 162 | 113 | Desiree Deschaine Havee |
 | 163 | 112 | Nicole Roseberry Weber |
 | 164 | 112 | Flashy Rotator |
@@ -182,12 +182,12 @@
 | 174 | 108 | Tavia |
 | 175 | 108 | Luciano Moreira |
 | 176 | 107 | Jodee Woods |
-| 177 | 106 | Bloknboy |
-| 178 | 106 | Alyssa Ingram |
+| 177 | 106 | Alyssa Ingram |
+| 178 | 106 | Bloknboy |
 | 179 | 105 | Ty Brown |
-| 180 | 104 | Speedy Snapfall |
-| 181 | 104 | Charla Pross-Fugleberg |
-| 182 | 104 | Bindi |
+| 180 | 104 | Bindi |
+| 181 | 104 | Speedy Snapfall |
+| 182 | 104 | Charla Pross-Fugleberg |
 | 183 | 103 | Chantelle Ceno |
 | 184 | 101 | Fmp |
 | 185 | 101 | Loony Fitzone |
