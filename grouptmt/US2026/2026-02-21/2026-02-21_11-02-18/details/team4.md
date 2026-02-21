@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Mike Solo |
-| 63 | 198 | Lori Walker |
+| 62 | 198 | Lori Walker |
+| 63 | 198 | Mike Solo |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -78,10 +78,10 @@
 | 70 | 178 | Lori |
 | 71 | 175 | Dustee Craddock-Harrison |
 | 72 | 173 | Jeff Brian Gates |
-| 73 | 171 | Zethra Prenisha Rahming |
-| 74 | 171 | Melvin Baird |
-| 75 | 170 | Girl |
-| 76 | 170 | Leah Kutz Zirbel |
+| 73 | 171 | Melvin Baird |
+| 74 | 171 | Zethra Prenisha Rahming |
+| 75 | 170 | Leah Kutz Zirbel |
+| 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
 | 78 | 165 | Courtney Cicoria |
 | 79 | 165 | Casey Grabner |
@@ -101,8 +101,8 @@
 | 93 | 140 | Shannon Ferrari |
 | 94 | 138 | Shainne Brewer |
 | 95 | 136 | Tanner Lund |
-| 96 | 134 | Jessica Bohlken |
-| 97 | 134 | Chirpy Basepiece |
+| 96 | 134 | Chirpy Basepiece |
+| 97 | 134 | Jessica Bohlken |
 | 98 | 133 | Robin Watters |
 | 99 | 132 | Jessica Cagle |
 | 100 | 132 | Melissa Priest Sellers |

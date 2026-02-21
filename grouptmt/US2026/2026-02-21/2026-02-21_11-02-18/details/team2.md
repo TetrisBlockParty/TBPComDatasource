@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Taylana Mincy |
-| 7 | 3567 | Rickey Goins Jr. |
+| 6 | 3567 | Rickey Goins Jr. |
+| 7 | 3567 | Taylana Mincy |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -112,12 +112,12 @@
 | 104 | 658 | Vistabrat |
 | 105 | 658 | Pacynthia Williams |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Anna Edwards |
-| 108 | 649 | Stephanie Chapman |
+| 107 | 649 | Stephanie Chapman |
+| 108 | 649 | Anna Edwards |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
-| 111 | 631 | Peppy Zone |
-| 112 | 631 | Loopy Clusterbuilder |
+| 111 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Peppy Zone |
 | 113 | 620 | BYM4L |
 | 114 | 608 | John Bednarik |
 | 115 | 601 | Nancy Reid |
@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Real Ri |
-| 144 | 515 | Kaylee McCafferty |
+| 143 | 515 | Kaylee McCafferty |
+| 144 | 515 | Real Ri |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -347,16 +347,16 @@
 | 339 | 247 | Andrea Devery Beck |
 | 340 | 247 | Fancy Twister |
 | 341 | 246 | Kathryn Townsley |
-| 342 | 246 | Ashley Lopez |
-| 343 | 246 | Stephanie Lumanlan |
+| 342 | 246 | Stephanie Lumanlan |
+| 343 | 246 | Ashley Lopez |
 | 344 | 245 | Rachael Senard |
 | 345 | 245 | Sanaa Nounoussa |
 | 346 | 244 | Aimee Byrom |
-| 347 | 242 | Lawanda Forbes |
-| 348 | 242 | Donna Chandler |
+| 347 | 242 | Donna Chandler |
+| 348 | 242 | Lawanda Forbes |
 | 349 | 241 | Sabrina Burton |
-| 350 | 240 | Adam Erikson |
-| 351 | 240 | Angie Marie |
+| 350 | 240 | Angie Marie |
+| 351 | 240 | Adam Erikson |
 | 352 | 239 | Roger Grabbit |
 | 353 | 238 | Cheery Matchzone |
 | 354 | 237 | Steve Man |
@@ -365,8 +365,8 @@
 | 357 | 236 | Julio A Laracuente |
 | 358 | 236 | Niceday |
 | 359 | 235 | Kimberly Mitchell |
-| 360 | 234 | Manny Trindade |
-| 361 | 234 | Jennifer Leigh |
+| 360 | 234 | Jennifer Leigh |
+| 361 | 234 | Manny Trindade |
 | 362 | 234 | Jaybee Nguyen |
 | 363 | 233 | Jumpy Gridclear |
 | 364 | 233 | Robin Kerby |
@@ -565,8 +565,8 @@
 | 557 | 148 | Tyler C. Jung |
 | 558 | 148 | AgileDragon |
 | 559 | 148 | Cleo Sims |
-| 560 | 147 | Smiley Strike |
-| 561 | 147 | Sassy Pivot |
+| 560 | 147 | Sassy Pivot |
+| 561 | 147 | Smiley Strike |
 | 562 | 147 | Jeremy Parodi |
 | 563 | 146 | Sherry Aguinaga |
 | 564 | 146 | Ibiza Carolina LaRose |

@@ -43,8 +43,8 @@
 | 35 | 613 | Amber Hughes |
 | 36 | 608 | River |
 | 37 | 598 | Jennifer Willis |
-| 38 | 587 | Danielle Becker |
-| 39 | 587 | Suzieq |
+| 38 | 587 | Suzieq |
+| 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
 | 42 | 546 | Dolores Falco |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Christine Niles |
-| 71 | 345 | Mendoza Lee Christy |
+| 70 | 345 | Mendoza Lee Christy |
+| 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Trezure Gonzalez |
 | 74 | 342 | Annie Déè |
@@ -139,11 +139,11 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Kelly Ann Child |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
@@ -173,8 +173,8 @@
 | 165 | 140 | Gumbo |
 | 166 | 140 | Jay Horn |
 | 167 | 135 | Cheryl Hinch Tenbrook |
-| 168 | 134 | Emma |
-| 169 | 134 | DanceLuvLaugh |
+| 168 | 134 | DanceLuvLaugh |
+| 169 | 134 | Emma |
 | 170 | 131 | Jl |
 | 171 | 129 | Logan Naccarato |
 | 172 | 129 | Lesley Perez |
@@ -222,8 +222,8 @@
 | 214 | 108 | LaTanya GeminiondaRise Johnson |
 | 215 | 108 | Rachel Napper |
 | 216 | 107 | Sherry Ogden |
-| 217 | 106 | Noettín Kan Zasnemoore |
-| 218 | 106 | Desiree Gold |
+| 217 | 106 | Desiree Gold |
+| 218 | 106 | Noettín Kan Zasnemoore |
 | 219 | 105 | Emi |
 | 220 | 105 | Carol Cain Thurman |
 | 221 | 104 | Ashley Rufus Bythcez |
