@@ -109,8 +109,8 @@
 | 101 | 674 | Dannette Goldberg-Richards |
 | 102 | 672 | Wendy Harder Gage |
 | 103 | 665 | Dineisha Carpenter |
-| 104 | 658 | Pacynthia Williams |
-| 105 | 658 | Vistabrat |
+| 104 | 658 | Vistabrat |
+| 105 | 658 | Pacynthia Williams |
 | 106 | 653 | Becky Weeks-Garry |
 | 107 | 649 | Anna Edwards |
 | 108 | 649 | Stephanie Chapman |
@@ -381,8 +381,8 @@
 | 373 | 228 | Michelle Sager |
 | 374 | 227 | Demeka Dangerous-kisses Johnson |
 | 375 | 227 | JacJac |
-| 376 | 226 | Mary Marie |
-| 377 | 226 | Juliana Marques Do Nascimento Gordy |
+| 376 | 226 | Juliana Marques Do Nascimento Gordy |
+| 377 | 226 | Mary Marie |
 | 378 | 226 | Leslie Ann Carter |
 | 379 | 223 | Kristi Biddinger |
 | 380 | 223 | LegoCarpet |
@@ -400,12 +400,12 @@
 | 392 | 212 | BK Queen |
 | 393 | 212 | Aleasha M Brown |
 | 394 | 211 | Ys Muhammed |
-| 395 | 209 | Jerry Tempelmeyer |
-| 396 | 209 | Dawn L Washington-Feuquay |
-| 397 | 208 | Mema |
-| 398 | 208 | Nancy Pohlman |
-| 399 | 207 | Brave Gridpiece |
-| 400 | 207 | Melissa McCall |
+| 395 | 209 | Dawn L Washington-Feuquay |
+| 396 | 209 | Jerry Tempelmeyer |
+| 397 | 208 | Nancy Pohlman |
+| 398 | 208 | Mema |
+| 399 | 207 | Melissa McCall |
+| 400 | 207 | Brave Gridpiece |
 | 401 | 207 | Shylee Tilman |
 | 402 | 206 | RAEPR05 |
 | 403 | 206 | Neko Preston |
@@ -566,8 +566,8 @@
 | 558 | 148 | AgileDragon |
 | 559 | 148 | Tyler C. Jung |
 | 560 | 148 | Cleo Sims |
-| 561 | 147 | Sassy Pivot |
-| 562 | 147 | Smiley Strike |
+| 561 | 147 | Smiley Strike |
+| 562 | 147 | Sassy Pivot |
 | 563 | 147 | Jeremy Parodi |
 | 564 | 146 | Sherry Aguinaga |
 | 565 | 146 | Ibiza Carolina LaRose |

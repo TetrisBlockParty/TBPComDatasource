@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -124,7 +124,7 @@
 | 116 | 123 | Cherrish Duren |
 | 117 | 122 | Sherri |
 | 118 | 121 | Zany Shatterer |
-| 119 | 121 | Smiley Tiltbuilder |
+| 119 | 121 | Megan Cutshaw |
 | 120 | 121 | Klo |
 | 121 | 121 | Smiley Tiltbuilder |
 | 122 | 120 | Joshua Guess |

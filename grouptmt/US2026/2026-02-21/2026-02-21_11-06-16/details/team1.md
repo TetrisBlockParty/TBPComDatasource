@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Chipper Gridlock |
-| 33 | 348 | Stef Hu |
+| 32 | 348 | Stef Hu |
+| 33 | 348 | Chipper Gridlock |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -61,8 +61,8 @@
 | 53 | 225 | Elaine Elaine |
 | 54 | 224 | Adam Byrd |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 205 | Trippy Redd |
@@ -73,21 +73,21 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
 | 71 | 194 | Giggly Builderline |
 | 72 | 194 | Sharon Reynolds |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
-| 76 | 190 | Sweetts |
-| 77 | 190 | Thorne Shumate |
+| 76 | 190 | Thorne Shumate |
+| 77 | 190 | Sweetts |
 | 78 | 189 | Happy Basegrid |
 | 79 | 180 | Erez Yosef |
 | 80 | 178 | Danielle Little-Daugherty |
-| 81 | 173 | june october |
-| 82 | 173 | Frothy Pattern |
+| 81 | 173 | Frothy Pattern |
+| 82 | 173 | june october |
 | 83 | 171 | Jennifer Olewnik Soborowski |
 | 84 | 166 | Rico Rico |
 | 85 | 165 | GATOR |
@@ -105,12 +105,12 @@
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
 | 99 | 144 | Plucky Ziggy |
-| 100 | 144 | Tanya Carpenter-Reynolds |
-| 101 | 144 | femmefatale |
+| 100 | 144 | femmefatale |
+| 101 | 144 | Tanya Carpenter-Reynolds |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
-| 104 | 138 | Cranky Pattern |
-| 105 | 138 | Gary Gobin |
+| 104 | 138 | Gary Gobin |
+| 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
 | 108 | 133 | Brandi Huntington |
@@ -126,8 +126,8 @@
 | 118 | 121 | Bouncy Grid |
 | 119 | 120 | Alenoush Karimian |
 | 120 | 120 | Kimmie Kimms |
-| 121 | 119 | April Carroll |
-| 122 | 119 | Tater |
+| 121 | 119 | Tater |
+| 122 | 119 | April Carroll |
 | 123 | 119 | Irual Hctrab |
 | 124 | 118 | Barry Mac'Ockner |
 | 125 | 116 | Evie Khalil |
@@ -135,113 +135,113 @@
 | 127 | 114 | Colleen Wise |
 | 128 | 114 | Giddy Cascade |
 | 129 | 112 | Nicole Roseberry Weber |
-| 130 | 112 | Kristen Gideon |
-| 131 | 112 | Flashy Rotator |
-| 132 | 112 | Miguel Teixeira |
-| 133 | 111 | Jessica Russell |
-| 134 | 111 | Agustin Duarte Orozco |
+| 130 | 112 | Miguel Teixeira |
+| 131 | 112 | Kristen Gideon |
+| 132 | 112 | Flashy Rotator |
+| 133 | 111 | Agustin Duarte Orozco |
+| 134 | 111 | Jessica Russell |
 | 135 | 110 | Garcia Bailey |
 | 136 | 108 | Tavia |
 | 137 | 107 | Jodee Woods |
-| 138 | 106 | Bloknboy |
-| 139 | 106 | Aimee Horton |
-| 140 | 106 | Ash Galvan |
+| 138 | 106 | Ash Galvan |
+| 139 | 106 | Bloknboy |
+| 140 | 106 | Aimee Horton |
 | 141 | 105 | Ty Brown |
-| 142 | 104 | Charla Pross-Fugleberg |
-| 143 | 104 | Bindi |
+| 142 | 104 | Bindi |
+| 143 | 104 | Charla Pross-Fugleberg |
 | 144 | 103 | Adryane Schnase |
 | 145 | 103 | Angela Fairbank |
 | 146 | 102 | Jennifer ManWarren |
-| 147 | 100 | Tami Luce Martin |
-| 148 | 100 | Debbie Davis |
-| 149 | 100 | Jessica Weed |
-| 150 | 100 | Spunky Piecebuilder |
-| 151 | 99 | Tyler Hertzog |
+| 147 | 100 | Spunky Piecebuilder |
+| 148 | 100 | Tami Luce Martin |
+| 149 | 100 | Debbie Davis |
+| 150 | 100 | Jessica Weed |
+| 151 | 99 | Melissa Bires Hussar |
 | 152 | 99 | Mizzledagod |
-| 153 | 99 | Melissa Bires Hussar |
-| 154 | 98 | Loony Fitzone |
-| 155 | 98 | Witty Builderfit |
-| 156 | 96 | Nery Martinez |
+| 153 | 99 | Tyler Hertzog |
+| 154 | 98 | Witty Builderfit |
+| 155 | 98 | Loony Fitzone |
+| 156 | 96 | Melissa Lemmon |
 | 157 | 96 | Barrbaric |
-| 158 | 96 | Chantelle Ceno |
-| 159 | 96 | Melissa Lemmon |
+| 158 | 96 | Nery Martinez |
+| 159 | 96 | Chantelle Ceno |
 | 160 | 94 | Luciano Moreira |
 | 161 | 93 | Cody Gates |
 | 162 | 92 | Timothy Dew |
 | 163 | 90 | TSwag |
-| 164 | 90 | Madison Wicks |
-| 165 | 90 | Dizzy Party |
+| 164 | 90 | Dizzy Party |
+| 165 | 90 | Madison Wicks |
 | 166 | 89 | Mara Hilker |
 | 167 | 88 | Larry Tilton |
 | 168 | 88 | Tyler Whitley |
-| 169 | 87 | Jessi Sauer |
-| 170 | 87 | Jenny Gingrich Fuentes |
+| 169 | 87 | Jenny Gingrich Fuentes |
+| 170 | 87 | Jessi Sauer |
 | 171 | 86 | Basment Living |
 | 172 | 86 | Desiree Deschaine Havee |
-| 173 | 85 | Steve Schneider |
-| 174 | 85 | John Barron |
-| 175 | 84 | Yvonne Marie |
-| 176 | 84 | Kayla Marie Stevenson |
-| 177 | 84 | Rachel Nichole Henry |
+| 173 | 85 | John Barron |
+| 174 | 85 | Steve Schneider |
+| 175 | 84 | Eddie Dillon |
+| 176 | 84 | Rachel Nichole Henry |
+| 177 | 84 | Kayla Marie Stevenson |
 | 178 | 84 | Speedy Snapfall |
-| 179 | 84 | Eddie Dillon |
-| 180 | 83 | Guest |
-| 181 | 83 | MommaKFC |
-| 182 | 83 | Tipsy Riseclear |
+| 179 | 84 | Yvonne Marie |
+| 180 | 83 | MommaKFC |
+| 181 | 83 | Death |
+| 182 | 83 | Guest |
 | 183 | 83 | Layzietyme |
-| 184 | 83 | Death |
+| 184 | 83 | Tipsy Riseclear |
 | 185 | 81 | Howdi Duty |
-| 186 | 81 | Chuck Gannon |
-| 187 | 81 | Shawn Thisismyoldaccount Gilmore |
-| 188 | 81 | John Kim |
-| 189 | 81 | Bob |
+| 186 | 81 | John Kim |
+| 187 | 81 | Bob |
+| 188 | 81 | Chuck Gannon |
+| 189 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 190 | 80 | pjbeta |
 | 191 | 80 | Brandi Egbert |
 | 192 | 80 | Matt Cinelli |
-| 193 | 79 | Cheeky Pop |
-| 194 | 79 | Chris65 |
+| 193 | 79 | Chris65 |
+| 194 | 79 | George Dalton |
 | 195 | 79 | LD1 |
-| 196 | 79 | George Dalton |
-| 197 | 79 | Christina Torres |
-| 198 | 78 | Sam Williams |
-| 199 | 78 | Kerry Lee Powell |
-| 200 | 77 | Lynn Adams |
-| 201 | 77 | Teddy Alexander |
-| 202 | 77 | John J. Cronin |
-| 203 | 77 | Kellie |
-| 204 | 76 | Archie Ware |
-| 205 | 76 | Fmp |
-| 206 | 76 | cc |
+| 196 | 79 | Christina Torres |
+| 197 | 79 | Cheeky Pop |
+| 198 | 78 | Kerry Lee Powell |
+| 199 | 78 | Sam Williams |
+| 200 | 77 | Teddy Alexander |
+| 201 | 77 | John J. Cronin |
+| 202 | 77 | Kellie |
+| 203 | 77 | Lynn Adams |
+| 204 | 76 | Fmp |
+| 205 | 76 | cc |
+| 206 | 76 | Archie Ware |
 | 207 | 76 | Dizzy Riseclear |
 | 208 | 76 | Virginia Gray Floyd |
 | 209 | 75 | Fresno Beotoni |
-| 210 | 75 | Tyler L Hunt |
-| 211 | 75 | Plucky Wrecker |
-| 212 | 74 | Grace Joanne Agnant |
+| 210 | 75 | Plucky Wrecker |
+| 211 | 75 | Tyler L Hunt |
+| 212 | 74 | Owicked1 |
 | 213 | 74 | Meechie |
-| 214 | 74 | Owicked1 |
-| 215 | 73 | Shanae Grant |
-| 216 | 73 | Silly Align |
+| 214 | 74 | Grace Joanne Agnant |
+| 215 | 73 | Silly Align |
+| 216 | 73 | Shanae Grant |
 | 217 | 72 | Tipsy Strikerpiece |
 | 218 | 71 | Chirpy Smasher |
-| 219 | 70 | Nerdy Linkblock |
-| 220 | 70 | Daring Fitclear |
-| 221 | 70 | Kenton Billings |
-| 222 | 70 | Ric Hard Hernandez |
-| 223 | 70 | Henry Lanier |
-| 224 | 70 | Seth Wesson |
-| 225 | 69 | Christy Jones |
-| 226 | 69 | Connie |
-| 227 | 68 | John Ramirez |
-| 228 | 68 | Ariel Whittington |
-| 229 | 68 | NicaOrlice |
-| 230 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 231 | 68 | Pamela Elliott |
-| 232 | 67 | Brave Slice |
-| 233 | 67 | Loneell Hyland |
-| 234 | 67 | Brad MG |
-| 235 | 67 | Jennifer Duttry |
-| 236 | 67 | Mitchel White |
+| 219 | 70 | Henry Lanier |
+| 220 | 70 | Seth Wesson |
+| 221 | 70 | Daring Fitclear |
+| 222 | 70 | Kenton Billings |
+| 223 | 70 | Ric Hard Hernandez |
+| 224 | 70 | Nerdy Linkblock |
+| 225 | 69 | Connie |
+| 226 | 69 | Christy Jones |
+| 227 | 68 | Pamela Elliott |
+| 228 | 68 | NicaOrlice |
+| 229 | 68 | John Ramirez |
+| 230 | 68 | Ariel Whittington |
+| 231 | 68 | Unelanuhi Belladonna Mystikal Bomar |
+| 232 | 67 | Jennifer Duttry |
+| 233 | 67 | Brad MG |
+| 234 | 67 | Mitchel White |
+| 235 | 67 | Loneell Hyland |
+| 236 | 67 | Brave Slice |
 | 237 | 66 | Al Smith Jr |
 | 238 | 66 | Dede |
 | 239 | 65 | MamaB24 |
@@ -335,9 +335,9 @@
 | 327 | 51 | Nathan Sealander |
 | 328 | 51 | Jesse Meehan |
 | 329 | 51 | Jesse Stephenson |
-| 330 | 51 | Nikki Fridley |
-| 331 | 51 | Ike Williams |
-| 332 | 51 | Sarah Barrow |
+| 330 | 51 | Tim Giacobone |
+| 331 | 51 | yoyoluv |
+| 332 | 51 | Jasmine Riley |
 | 333 | 50 | Tanya Banks |
 | 334 | 50 | Greg Hart |
 | 335 | 50 | Timothy Danaher |
@@ -698,7 +698,7 @@
 | 690 | 20 | Purp |
 | 691 | 20 | UffleFluff |
 | 692 | 20 | Channis |
-| 693 | 20 | Purp |
+| 693 | 20 | Gina Bettikofer |
 | 694 | 20 | Alyssa Ingram |
 | 695 | 20 | Shannan Porter |
 | 696 | 20 | Dorny |
