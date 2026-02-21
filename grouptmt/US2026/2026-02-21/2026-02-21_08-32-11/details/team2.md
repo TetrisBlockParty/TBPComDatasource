@@ -295,8 +295,8 @@
 | 287 | 262 | Taren Cowan |
 | 288 | 261 | Leah |
 | 289 | 261 | MrsClaudette Will'sIam Matthews |
-| 290 | 260 | Denise Rickman |
-| 291 | 260 | Ebony Deloach Bryant |
+| 290 | 260 | Ebony Deloach Bryant |
+| 291 | 260 | Denise Rickman |
 | 292 | 257 | Shameika Trail |
 | 293 | 257 | Lyndi Robinson Wakefield |
 | 294 | 256 | Giddy Gridclear |
@@ -599,9 +599,9 @@
 | 591 | 133 | Britt Woolston |
 | 592 | 133 | JinxxedMozzerella |
 | 593 | 133 | candy |
-| 594 | 133 | Rae Rae |
+| 594 | 133 | Epic Stackzone |
 | 595 | 133 | Amanda Schaffer |
-| 596 | 133 | Epic Stackzone |
+| 596 | 133 | Rae Rae |
 | 597 | 132 | Mr. Street Stack |
 | 598 | 132 | Chilly Rollblock |
 | 599 | 132 | Paula Snyder |

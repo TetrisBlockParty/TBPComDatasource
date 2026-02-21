@@ -44,8 +44,8 @@
 | 36 | 587 | Danielle Becker |
 | 37 | 576 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
-| 39 | 546 | Dolores Falco |
-| 40 | 546 | Snappy Glidepiece |
+| 39 | 546 | Snappy Glidepiece |
+| 40 | 546 | Dolores Falco |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -75,8 +75,8 @@
 | 67 | 351 | Calista Jo Dickson |
 | 68 | 345 | Christine Niles |
 | 69 | 343 | Silly Twist |
-| 70 | 342 | Annie Déè |
-| 71 | 342 | Trezure Gonzalez |
+| 70 | 342 | Trezure Gonzalez |
+| 71 | 342 | Annie Déè |
 | 72 | 338 | Danielle Rhoades |
 | 73 | 332 | Chauntee Alfrey-Cardinale |
 | 74 | 331 | Mendoza Lee Christy |
@@ -103,8 +103,8 @@
 | 95 | 239 | Lush Buildout |
 | 96 | 234 | Louise Stacy Sisson |
 | 97 | 232 | Poppy Splitter |
-| 98 | 224 | Judi Dobson |
-| 99 | 224 | Mykal Burton |
+| 98 | 224 | Mykal Burton |
+| 99 | 224 | Judi Dobson |
 | 100 | 223 | Jeana Gilbert |
 | 101 | 222 | Jimmie Clemons |
 | 102 | 218 | mjl574 |
@@ -127,10 +127,10 @@
 | 119 | 192 | Chasity |
 | 120 | 191 | Scott Carleton |
 | 121 | 184 | Jennie Beranek |
-| 122 | 182 | Hyper Matchzone |
-| 123 | 182 | Ashley Tookes |
-| 124 | 180 | Fallorina Susana |
-| 125 | 180 | Tessina Dewey-Mancino |
+| 122 | 182 | Ashley Tookes |
+| 123 | 182 | Hyper Matchzone |
+| 124 | 180 | Tessina Dewey-Mancino |
+| 125 | 180 | Fallorina Susana |
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
@@ -251,9 +251,9 @@
 | 243 | 94 | Angie Harper |
 | 244 | 94 | Carrie Huskey |
 | 245 | 93 | Tiffany Ford |
-| 246 | 92 | Trice Thomas |
-| 247 | 92 | Jennifer Caputo |
-| 248 | 92 | Ava Petito |
+| 246 | 92 | Jennifer Caputo |
+| 247 | 92 | Ava Petito |
+| 248 | 92 | Trice Thomas |
 | 249 | 91 | Martin Bernier |
 | 250 | 90 | Whitney Manuel |
 | 251 | 90 | Rebel124 |
