@@ -132,8 +132,8 @@
 | 124 | 67 | Frank Joseph Epson |
 | 125 | 67 | Lindsey Gonzalez |
 | 126 | 66 | Chris Alexinas |
-| 127 | 65 | Angela Geist Jusinski |
-| 128 | 65 | Rebecca Blake |
+| 127 | 65 | Rebecca Blake |
+| 128 | 65 | Angela Geist Jusinski |
 | 129 | 64 | Damn Libra |
 | 130 | 64 | Chaz Duncan |
 | 131 | 64 | rebel4lyfe |

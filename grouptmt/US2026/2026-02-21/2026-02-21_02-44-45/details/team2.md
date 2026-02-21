@@ -141,8 +141,8 @@
 | 133 | 350 | Chris Harr |
 | 134 | 348 | Cherica Taylor |
 | 135 | 345 | Brenda Messer |
-| 136 | 345 | Rhianna DiLorenzo |
-| 137 | 345 | Alyssaaelena |
+| 136 | 345 | Alyssaaelena |
+| 137 | 345 | Rhianna DiLorenzo |
 | 138 | 344 | Christina Lewis-Vickers |
 | 139 | 342 | Tracy Wise |
 | 140 | 340 | Kimberly Randesi |
@@ -328,8 +328,8 @@
 | 320 | 157 | Klee |
 | 321 | 157 | HarleyJane |
 | 322 | 156 | Ramone Armstrong |
-| 323 | 156 | Deanna Morton |
-| 324 | 156 | Nuggets |
+| 323 | 156 | Nuggets |
+| 324 | 156 | Deanna Morton |
 | 325 | 156 | Ashlyn Berner |
 | 326 | 155 | Monarca26 |
 | 327 | 155 | Alexandra Weir |
@@ -337,8 +337,8 @@
 | 329 | 154 | Tiffney Wroten |
 | 330 | 154 | Bryan Werleman |
 | 331 | 152 | Alisa Lamb |
-| 332 | 151 | Marcie McLain Dodd |
-| 333 | 151 | D'Aaron Black |
+| 332 | 151 | D'Aaron Black |
+| 333 | 151 | Marcie McLain Dodd |
 | 334 | 150 | Jodi Mitnick |
 | 335 | 150 | Eddie Perez |
 | 336 | 149 | Leslie Porter |
