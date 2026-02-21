@@ -341,7 +341,7 @@
 | 333 | 55 | Panda Thagreat |
 | 334 | 54 | MIKOZ |
 | 335 | 54 | Theeranart Mahawan |
-| 336 | 54 | MIKOZ |
+| 336 | 54 | Michael Butler |
 | 337 | 54 | Tipsy Tiltpiece |
 | 338 | 53 | Almïghty Stoner |
 | 339 | 53 | Renee Tucker |

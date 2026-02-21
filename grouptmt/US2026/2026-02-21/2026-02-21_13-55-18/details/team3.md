@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Briarblack |
-| 28 | 867 | Delilah belle |
+| 27 | 867 | Delilah belle |
+| 28 | 867 | Briarblack |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Zippy Strikesnap |
@@ -51,8 +51,8 @@
 | 43 | 583 | Lush Buildout |
 | 44 | 580 | Amanda L Baker |
 | 45 | 568 | Shonna Roberts |
-| 46 | 546 | Snappy Glidepiece |
-| 47 | 546 | Dolores Falco |
+| 46 | 546 | Dolores Falco |
+| 47 | 546 | Snappy Glidepiece |
 | 48 | 541 | MissTaylor |
 | 49 | 533 | Sarah Fehring |
 | 50 | 528 | Natasha Jones |
@@ -135,23 +135,23 @@
 | 127 | 195 | Nicha Hooker |
 | 128 | 194 | glichmod |
 | 129 | 193 | Stephanie Burtin |
-| 130 | 193 | Duane Bright |
-| 131 | 193 | Clever Shiftsnap |
+| 130 | 193 | Clever Shiftsnap |
+| 131 | 193 | Duane Bright |
 | 132 | 192 | Chasity |
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
 | 135 | 189 | Sissy Lowery Davis |
-| 136 | 189 | Staci George Fitzsimmons |
-| 137 | 189 | Fallorina Susana |
+| 136 | 189 | Fallorina Susana |
+| 137 | 189 | Staci George Fitzsimmons |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
-| 140 | 182 | Hyper Matchzone |
-| 141 | 182 | Ashley Tookes |
+| 140 | 182 | Ashley Tookes |
+| 141 | 182 | Hyper Matchzone |
 | 142 | 181 | Karon Griffin |
 | 143 | 179 | Daira Largen |
 | 144 | 179 | Joye Sims Binion |
-| 145 | 178 | AlsoJess |
-| 146 | 178 | Khaleada McGill Banks |
+| 145 | 178 | Khaleada McGill Banks |
+| 146 | 178 | AlsoJess |
 | 147 | 176 | Ryan Williams |
 | 148 | 173 | Mcathen |
 | 149 | 167 | Rebel124 |
@@ -180,8 +180,8 @@
 | 172 | 153 | Beth Ingham |
 | 173 | 152 | Shiny Zonebuilder |
 | 174 | 151 | MsBee |
-| 175 | 150 | Nicole Myers |
-| 176 | 150 | Sashay Tapae Simpson |
+| 175 | 150 | Sashay Tapae Simpson |
+| 176 | 150 | Nicole Myers |
 | 177 | 149 | Bea Miles |
 | 178 | 149 | Angel Mendez |
 | 179 | 147 | Desiree Gold |
@@ -250,8 +250,8 @@
 | 242 | 107 | Bouncy Blockbuilder |
 | 243 | 106 | Noettín Kan Zasnemoore |
 | 244 | 106 | Rachel |
-| 245 | 105 | Carol Cain Thurman |
-| 246 | 105 | Boldy Blocker |
+| 245 | 105 | Boldy Blocker |
+| 246 | 105 | Carol Cain Thurman |
 | 247 | 105 | Emi |
 | 248 | 104 | Samantha Lynn |
 | 249 | 104 | Sarah Moyer |
@@ -310,8 +310,8 @@
 | 302 | 88 | Kate Farok |
 | 303 | 88 | RickyG |
 | 304 | 88 | Dapper Towerfit |
-| 305 | 87 | Chris Bell |
-| 306 | 87 | Kellie Montgomery |
+| 305 | 87 | Kellie Montgomery |
+| 306 | 87 | Chris Bell |
 | 307 | 87 | FATTY |
 | 308 | 86 | Clever Clearbuilder |
 | 309 | 86 | Criss |
@@ -348,8 +348,8 @@
 | 340 | 77 | Tommy Proctor |
 | 341 | 77 | Bekah Dietrich |
 | 342 | 77 | Tanesha BigBabby Darling |
-| 343 | 76 | Alma M Brown |
-| 344 | 76 | JustLessie |
+| 343 | 76 | JustLessie |
+| 344 | 76 | Alma M Brown |
 | 345 | 76 | Kammy Hill |
 | 346 | 76 | Crystal Woodward |
 | 347 | 76 | Chad Wilson |

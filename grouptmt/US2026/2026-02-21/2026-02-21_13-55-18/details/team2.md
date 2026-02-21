@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -301,8 +301,8 @@
 | 293 | 311 | Véronique Lévesque Sabourin |
 | 294 | 311 | Dar |
 | 295 | 310 | Brandy Andre |
-| 296 | 309 | Ginger |
-| 297 | 309 | Oscar Bernie |
+| 296 | 309 | Oscar Bernie |
+| 297 | 309 | Ginger |
 | 298 | 309 | James Zaragoza |
 | 299 | 306 | Kristopher Miller |
 | 300 | 305 | Zany Clusterbuilder |
@@ -367,8 +367,8 @@
 | 359 | 264 | Dapper Dasher |
 | 360 | 264 | Giddy Gridclear |
 | 361 | 263 | Taylor Flowers |
-| 362 | 262 | Min |
-| 363 | 262 | Taren Cowan |
+| 362 | 262 | Taren Cowan |
+| 363 | 262 | Min |
 | 364 | 261 | MrsClaudette Will'sIam Matthews |
 | 365 | 260 | Ebony Deloach Bryant |
 | 366 | 260 | Denise Rickman |
