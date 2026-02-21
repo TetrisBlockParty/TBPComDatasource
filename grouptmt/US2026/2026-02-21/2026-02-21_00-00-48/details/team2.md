@@ -91,13 +91,13 @@
 | 83 | 345 | Alyssaaelena |
 | 84 | 345 | Rhianna DiLorenzo |
 | 85 | 342 | Tracy Wise |
-| 86 | 341 | Sarah Freitas |
-| 87 | 341 | Sam McKenzie |
+| 86 | 341 | Sam McKenzie |
+| 87 | 341 | Sarah Freitas |
 | 88 | 340 | Kimberly Randesi |
 | 89 | 337 | Alisha Peoples |
 | 90 | 328 | Marie Boyd Faulk |
-| 91 | 323 | Daphne Jordan |
-| 92 | 323 | Danielle Simmons |
+| 91 | 323 | Danielle Simmons |
+| 92 | 323 | Daphne Jordan |
 | 93 | 320 | Mari Ac |
 | 94 | 317 | Debra Williams |
 | 95 | 317 | bru |
@@ -118,8 +118,8 @@
 | 110 | 266 | Mighty Shatterfit |
 | 111 | 266 | Jojo Momma |
 | 112 | 266 | Joyce Johnson Vaughn |
-| 113 | 265 | Joseph Musick |
-| 114 | 265 | Wuntayk |
+| 113 | 265 | Wuntayk |
+| 114 | 265 | Joseph Musick |
 | 115 | 264 | Lonne Emade |
 | 116 | 263 | Shiny Rollzone |
 | 117 | 263 | Taylor Flowers |
