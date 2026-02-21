@@ -98,9 +98,9 @@
 | 90 | 65 | Jessica Miller |
 | 91 | 64 | Marcus Todd |
 | 92 | 64 | Damn Libra |
-| 93 | 62 | Shukee Lo |
-| 94 | 62 | Melvin Baird |
-| 95 | 61 | Alee Marie |
+| 93 | 62 | Melvin Baird |
+| 94 | 62 | Shukee Lo |
+| 95 | 61 | Richard-April Kice |
 | 96 | 61 | Shauna Havard |
 | 97 | 61 | Alee Marie |
 | 98 | 60 | rebel4lyfe |

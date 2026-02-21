@@ -20,8 +20,8 @@
 | 12 | 371 | Colena Davenport |
 | 13 | 301 | Zerin Graham |
 | 14 | 294 | Jacqueline Williams |
-| 15 | 281 | Nancy Green |
-| 16 | 281 | Kathi Snustad |
+| 15 | 281 | Kathi Snustad |
+| 16 | 281 | Nancy Green |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 261 | Jayme Sellers |
 | 19 | 234 | Tipsy Column |
