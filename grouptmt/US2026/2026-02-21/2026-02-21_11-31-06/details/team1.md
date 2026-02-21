@@ -99,22 +99,22 @@
 | 91 | 155 | Standia Civil |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Tana |
-| 95 | 149 | Arianna O'Brien |
+| 94 | 149 | Arianna O'Brien |
+| 95 | 149 | Tana |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
-| 99 | 144 | Tanya Carpenter-Reynolds |
-| 100 | 144 | Plucky Ziggy |
-| 101 | 144 | femmefatale |
+| 99 | 144 | femmefatale |
+| 100 | 144 | Tanya Carpenter-Reynolds |
+| 101 | 144 | Plucky Ziggy |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
-| 104 | 138 | Cranky Pattern |
-| 105 | 138 | Gary Gobin |
+| 104 | 138 | Gary Gobin |
+| 105 | 138 | Cranky Pattern |
 | 106 | 137 | Nadine Velardo |
 | 107 | 134 | Trina Gee |
-| 108 | 133 | Breanna Luna |
-| 109 | 133 | Brandi Huntington |
+| 108 | 133 | Brandi Huntington |
+| 109 | 133 | Breanna Luna |
 | 110 | 132 | LaQuetta Faith Hines |
 | 111 | 132 | Davery Spencer Adair |
 | 112 | 131 | Uhog SF |

@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Mendoza Lee Christy |
-| 71 | 345 | Christine Niles |
+| 70 | 345 | Christine Niles |
+| 71 | 345 | Mendoza Lee Christy |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Trezure Gonzalez |
 | 74 | 342 | Annie Déè |
@@ -130,20 +130,20 @@
 | 122 | 193 | Stephanie Burtin |
 | 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
-| 125 | 191 | Scott Carleton |
-| 126 | 191 | Giddy Twistbuilder |
+| 125 | 191 | Giddy Twistbuilder |
+| 126 | 191 | Scott Carleton |
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
 | 134 | 178 | Khaleada McGill Banks |
 | 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Danielle Mogg |
-| 138 | 166 | Kelly Ann Child |
+| 137 | 166 | Kelly Ann Child |
+| 138 | 166 | Danielle Mogg |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
 | 141 | 163 | Karon Griffin |
@@ -269,7 +269,7 @@
 | 261 | 92 | Ava Petito |
 | 262 | 92 | Jackie-Lynne Goertzen |
 | 263 | 91 | Martin Bernier |
-| 264 | 90 | Alexis Ford |
+| 264 | 90 | Nichole Greene |
 | 265 | 90 | Whitney Manuel |
 | 266 | 90 | Snazzy Brickzone |
 | 267 | 90 | Tiffany Kaupang |
@@ -353,8 +353,8 @@
 | 345 | 73 | Spicy Caster |
 | 346 | 73 | Elyse Grabowsky |
 | 347 | 72 | Tanesha BigBabby Darling |
-| 348 | 72 | Gimmegimmebeer |
-| 349 | 72 | Alexsandran Valdivia |
+| 348 | 72 | Alexsandran Valdivia |
+| 349 | 72 | Gimmegimmebeer |
 | 350 | 72 | Jodi Kaczynski-O'Dowd |
 | 351 | 71 | Amber Groover Taylor |
 | 352 | 71 | Tasha Gillespie |

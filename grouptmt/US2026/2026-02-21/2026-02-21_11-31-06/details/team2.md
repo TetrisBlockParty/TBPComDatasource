@@ -255,8 +255,8 @@
 | 247 | 318 | Elisheva Mizrachi |
 | 248 | 318 | Trista Dumais |
 | 249 | 317 | Heather Westrum |
-| 250 | 317 | bru |
-| 251 | 317 | Zombi3 |
+| 250 | 317 | Zombi3 |
+| 251 | 317 | bru |
 | 252 | 315 | Alisa Lamb |
 | 253 | 314 | Amanda West |
 | 254 | 312 | Michelle Pike |
@@ -334,8 +334,8 @@
 | 326 | 256 | CC |
 | 327 | 255 | Santana Miyagi |
 | 328 | 254 | Julie Hamilton |
-| 329 | 254 | Rose Fx |
-| 330 | 254 | Elizabeth Diraffaele |
+| 329 | 254 | Elizabeth Diraffaele |
+| 330 | 254 | Rose Fx |
 | 331 | 253 | Tansaria Couch-Butler |
 | 332 | 252 | Matt Johnson |
 | 333 | 252 | Alyssia Tancredi |
@@ -351,8 +351,8 @@
 | 343 | 247 | Andrea Devery Beck |
 | 344 | 247 | Fancy Twister |
 | 345 | 246 | Kathryn Townsley |
-| 346 | 246 | Ashley Lopez |
-| 347 | 246 | Stephanie Lumanlan |
+| 346 | 246 | Stephanie Lumanlan |
+| 347 | 246 | Ashley Lopez |
 | 348 | 245 | Rachael Senard |
 | 349 | 245 | Sanaa Nounoussa |
 | 350 | 244 | Aimee Byrom |
@@ -371,8 +371,8 @@
 | 363 | 235 | Glenn Cobbins |
 | 364 | 235 | Byung Bae Park |
 | 365 | 234 | Jaybee Nguyen |
-| 366 | 234 | Jennifer Leigh |
-| 367 | 234 | Manny Trindade |
+| 366 | 234 | Manny Trindade |
+| 367 | 234 | Jennifer Leigh |
 | 368 | 233 | Nutty Matchline |
 | 369 | 233 | Jumpy Gridclear |
 | 370 | 233 | Robin Kerby |
@@ -413,8 +413,8 @@
 | 405 | 207 | Shylee Tilman |
 | 406 | 206 | RAEPR05 |
 | 407 | 206 | Neko Preston |
-| 408 | 205 | Lylymom |
-| 409 | 205 | ElizabethAnn Dickinson |
+| 408 | 205 | ElizabethAnn Dickinson |
+| 409 | 205 | Lylymom |
 | 410 | 204 | Ali Gralski |
 | 411 | 204 | Rebecca Doughman |
 | 412 | 203 | Gary Stash |
@@ -504,8 +504,8 @@
 | 496 | 166 | suuny |
 | 497 | 165 | Tara Lynn Janes |
 | 498 | 165 | Catherine Varea |
-| 499 | 165 | Cathy Bitters |
-| 500 | 165 | Austin Wilson |
+| 499 | 165 | Austin Wilson |
+| 500 | 165 | Cathy Bitters |
 | 501 | 164 | Jessica Vega |
 | 502 | 164 | Sara Pennington |
 | 503 | 163 | Lakeela Wise |
@@ -557,8 +557,8 @@
 | 549 | 153 | Poppy Gridder |
 | 550 | 152 | James Smith |
 | 551 | 152 | Kristin King |
-| 552 | 152 | Anthony Mignacca |
-| 553 | 152 | JP Parks |
+| 552 | 152 | JP Parks |
+| 553 | 152 | Anthony Mignacca |
 | 554 | 151 | Jennifer Rajek |
 | 555 | 151 | D'Aaron Black |
 | 556 | 151 | Kia Humphery |
