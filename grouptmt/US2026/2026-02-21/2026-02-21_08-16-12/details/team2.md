@@ -175,8 +175,8 @@
 | 167 | 409 | Sparkles |
 | 168 | 406 | Erin StFrancis |
 | 169 | 401 | Poppy Snap |
-| 170 | 400 | Tammy Allen |
-| 171 | 400 | Crystie Hicks |
+| 170 | 400 | Crystie Hicks |
+| 171 | 400 | Tammy Allen |
 | 172 | 397 | Ashley Guernsey-Martin |
 | 173 | 391 | Steven Marshaun |
 | 174 | 391 | Chilly Bridgepiece |
@@ -189,8 +189,8 @@
 | 181 | 380 | Calandra Shaya Robinson |
 | 182 | 380 | Joshua Mandel |
 | 183 | 378 | Cody Nishimura |
-| 184 | 377 | Roy Salyer |
-| 185 | 377 | Liberty |
+| 184 | 377 | Liberty |
+| 185 | 377 | Roy Salyer |
 | 186 | 364 | Shinette Dobson |
 | 187 | 363 | William Meussner |
 | 188 | 363 | Stephen Stephen |
@@ -303,8 +303,8 @@
 | 295 | 256 | CC |
 | 296 | 255 | Santana Miyagi |
 | 297 | 254 | Julie Hamilton |
-| 298 | 254 | Elizabeth Diraffaele |
-| 299 | 254 | Rose Fx |
+| 298 | 254 | Rose Fx |
+| 299 | 254 | Elizabeth Diraffaele |
 | 300 | 253 | Tansaria Couch-Butler |
 | 301 | 252 | Matt Johnson |
 | 302 | 252 | Cheech Dta |
@@ -450,8 +450,8 @@
 | 442 | 175 | Tina Blessed Cage |
 | 443 | 174 | Jason Garnatz |
 | 444 | 173 | Ocean-Brianna McGregor |
-| 445 | 173 | Robin |
-| 446 | 173 | kippykay |
+| 445 | 173 | kippykay |
+| 446 | 173 | Robin |
 | 447 | 172 | HarleyJane |
 | 448 | 171 | Cappin You |
 | 449 | 171 | Tamara Bailey |

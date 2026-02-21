@@ -61,8 +61,8 @@
 | 53 | 205 | Trippy Redd |
 | 54 | 204 | Ly Phethmany |
 | 55 | 202 | Dee Perry |
-| 56 | 201 | Ananda Mendez |
-| 57 | 201 | Anaid Sanchez |
+| 56 | 201 | Anaid Sanchez |
+| 57 | 201 | Ananda Mendez |
 | 58 | 200 | Lexuriuos Lifestlye |
 | 59 | 198 | Happy Snapbuild |
 | 60 | 198 | Billie Dawn Sparks |
@@ -190,9 +190,9 @@
 | 182 | 79 | Chris65 |
 | 183 | 78 | Kerry Lee Powell |
 | 184 | 78 | Sam Williams |
-| 185 | 77 | John J. Cronin |
-| 186 | 77 | Kellie |
-| 187 | 77 | George Dalton |
+| 185 | 77 | George Dalton |
+| 186 | 77 | John J. Cronin |
+| 187 | 77 | Kellie |
 | 188 | 77 | Teddy Alexander |
 | 189 | 76 | Virginia Gray Floyd |
 | 190 | 76 | Dizzy Riseclear |

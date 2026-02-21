@@ -43,8 +43,8 @@
 | 35 | 587 | Danielle Becker |
 | 36 | 587 | Suzieq |
 | 37 | 568 | Shonna Roberts |
-| 38 | 546 | Snappy Glidepiece |
-| 39 | 546 | Dolores Falco |
+| 38 | 546 | Dolores Falco |
+| 39 | 546 | Snappy Glidepiece |
 | 40 | 541 | MissTaylor |
 | 41 | 533 | Sarah Fehring |
 | 42 | 528 | Natasha Jones |
@@ -134,8 +134,8 @@
 | 126 | 179 | Daira Largen |
 | 127 | 178 | Khaleada McGill Banks |
 | 128 | 176 | Ryan Williams |
-| 129 | 166 | Kelly Ann Child |
-| 130 | 166 | Danielle Mogg |
+| 129 | 166 | Danielle Mogg |
+| 130 | 166 | Kelly Ann Child |
 | 131 | 164 | rosy |
 | 132 | 163 | Karon Griffin |
 | 133 | 161 | Giddy Twistbuilder |
@@ -242,7 +242,7 @@
 | 234 | 97 | mzcatzy |
 | 235 | 96 | Hanna Kim |
 | 236 | 96 | Jason-Ashley Ludlow |
-| 237 | 96 | Hanna Kim |
+| 237 | 96 | Tasha Wesson-Torrence |
 | 238 | 96 | Christopher Woost |
 | 239 | 96 | D3NO |
 | 240 | 95 | MizzMonick Smith |

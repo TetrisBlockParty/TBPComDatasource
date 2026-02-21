@@ -41,8 +41,8 @@
 | 33 | 345 | Ancient Intuition |
 | 34 | 338 | Nope Young |
 | 35 | 337 | BertMofo |
-| 36 | 329 | Michelle Pearman |
-| 37 | 329 | Jenna Ingersoll |
+| 36 | 329 | Jenna Ingersoll |
+| 37 | 329 | Michelle Pearman |
 | 38 | 320 | Kimyatta Cavin |
 | 39 | 307 | Kimberly Love |
 | 40 | 306 | Lisa Davis |
@@ -110,15 +110,15 @@
 | 102 | 129 | John Brunetti |
 | 103 | 125 | Lauren Scott |
 | 104 | 123 | Cherrish Duren |
-| 105 | 123 | Nugget |
-| 106 | 123 | Bubbly Puzzler |
+| 105 | 123 | Bubbly Puzzler |
+| 106 | 123 | Nugget |
 | 107 | 122 | Sherri |
 | 108 | 121 | Klo |
 | 109 | 121 | 030Synner |
 | 110 | 121 | Zany Shatterer |
 | 111 | 121 | Smiley Tiltbuilder |
-| 112 | 121 | Megan Cutshaw |
-| 113 | 121 | Dawn Alexander |
+| 112 | 121 | Dawn Alexander |
+| 113 | 121 | Megan Cutshaw |
 | 114 | 120 | Joshua Guess |
 | 115 | 119 | Kristin Manee |
 | 116 | 118 | Leslie Nicole |
@@ -295,8 +295,8 @@
 | 287 | 54 | Sam Bishop |
 | 288 | 53 | Allison Judith |
 | 289 | 53 | Poppy Brickmatch |
-| 290 | 52 | Nerdy Twisterfit |
-| 291 | 52 | Chassidy Martin |
+| 290 | 52 | Chassidy Martin |
+| 291 | 52 | Nerdy Twisterfit |
 | 292 | 52 | Nicole Silvers |
 | 293 | 51 | Frank Cook |
 | 294 | 51 | George Nutt |
