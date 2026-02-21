@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -83,8 +83,8 @@
 | 75 | 170 | Leah Kutz Zirbel |
 | 76 | 170 | Girl |
 | 77 | 167 | Denise Carlson |
-| 78 | 165 | Casey Grabner |
-| 79 | 165 | Courtney Cicoria |
+| 78 | 165 | Courtney Cicoria |
+| 79 | 165 | Casey Grabner |
 | 80 | 162 | Shauna Havard |
 | 81 | 160 | Carter Jones |
 | 82 | 159 | Holly Jolly |
@@ -96,8 +96,8 @@
 | 88 | 147 | Jay28 |
 | 89 | 147 | 030Synner |
 | 90 | 146 | Peachy Fall |
-| 91 | 141 | Malakai Darien Fox |
-| 92 | 141 | Latisha Davis |
+| 91 | 141 | Latisha Davis |
+| 92 | 141 | Malakai Darien Fox |
 | 93 | 140 | Shannon Ferrari |
 | 94 | 138 | Shainne Brewer |
 | 95 | 136 | Tanner Lund |
@@ -113,8 +113,8 @@
 | 105 | 131 | Dana Scott |
 | 106 | 130 | Casey Jeffcoat |
 | 107 | 130 | Lucas J Sutton |
-| 108 | 129 | Landon Keith Graffeo |
-| 109 | 129 | John Brunetti |
+| 108 | 129 | John Brunetti |
+| 109 | 129 | Landon Keith Graffeo |
 | 110 | 126 | Dihcheese444 |
 | 111 | 125 | Lauren Scott |
 | 112 | 123 | Bubbly Puzzler |
@@ -138,8 +138,8 @@
 | 130 | 112 | Austin Owens |
 | 131 | 112 | Bryan Hodgins |
 | 132 | 112 | Brittany Marsh |
-| 133 | 111 | Lazy Blocker |
-| 134 | 111 | Gwendolyn Pitcairn |
+| 133 | 111 | Gwendolyn Pitcairn |
+| 134 | 111 | Lazy Blocker |
 | 135 | 110 | H.R. Block |
 | 136 | 108 | Rio Rocha |
 | 137 | 107 | Marcus Todd |
@@ -169,9 +169,9 @@
 | 161 | 96 | Marcus TheeyoungWoe Gilmore |
 | 162 | 95 | Meagan Nicole |
 | 163 | 95 | Victoria Faniel |
-| 164 | 94 | Chastity Mitchell |
-| 165 | 94 | Kim Hunt |
-| 166 | 94 | DonMega |
+| 164 | 94 | DonMega |
+| 165 | 94 | Chastity Mitchell |
+| 166 | 94 | Kim Hunt |
 | 167 | 93 | Zesty Twistbuilder |
 | 168 | 90 | Judy Cox |
 | 169 | 90 | No Strings Attached Ra |

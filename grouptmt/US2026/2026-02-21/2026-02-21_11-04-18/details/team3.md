@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -161,8 +161,8 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Trisha Balmer |
-| 157 | 149 | Angel Mendez |
+| 156 | 149 | Angel Mendez |
+| 157 | 149 | Trisha Balmer |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Latoya Mayne |
@@ -288,9 +288,9 @@
 | 280 | 86 | Clever Clearbuilder |
 | 281 | 85 | Crystel b520 |
 | 282 | 85 | Chris Bell |
-| 283 | 84 | Flashy Rumbler |
+| 283 | 84 | gremicx |
 | 284 | 84 | Spunky Racker |
-| 285 | 84 | gremicx |
+| 285 | 84 | Flashy Rumbler |
 | 286 | 83 | Deseree Ewing |
 | 287 | 82 | Rebecca Funderburk Kirby |
 | 288 | 81 | Tina Baurdau |
@@ -338,7 +338,7 @@
 | 330 | 75 | Tony Mia Christian |
 | 331 | 75 | Ant Ant |
 | 332 | 75 | Alixandra Delao |
-| 333 | 74 | Mike Spritzer |
+| 333 | 74 | Loony Slider |
 | 334 | 74 | Jess Dearborn |
 | 335 | 74 | Mike Spritzer |
 | 336 | 74 | ROODBOY |

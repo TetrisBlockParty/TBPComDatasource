@@ -109,11 +109,11 @@
 | 101 | 674 | Dannette Goldberg-Richards |
 | 102 | 672 | Wendy Harder Gage |
 | 103 | 665 | Dineisha Carpenter |
-| 104 | 658 | Vistabrat |
-| 105 | 658 | Pacynthia Williams |
+| 104 | 658 | Pacynthia Williams |
+| 105 | 658 | Vistabrat |
 | 106 | 653 | Becky Weeks-Garry |
-| 107 | 649 | Stephanie Chapman |
-| 108 | 649 | Anna Edwards |
+| 107 | 649 | Anna Edwards |
+| 108 | 649 | Stephanie Chapman |
 | 109 | 641 | Ricardo Burton |
 | 110 | 632 | Beth |
 | 111 | 631 | Loopy Clusterbuilder |
@@ -176,8 +176,8 @@
 | 168 | 453 | Osun Anuket Esu |
 | 169 | 453 | Mischelle Clay |
 | 170 | 452 | Alezandra Smith |
-| 171 | 450 | Giggy Blocker |
-| 172 | 450 | Cheech Dta |
+| 171 | 450 | Cheech Dta |
+| 172 | 450 | Giggy Blocker |
 | 173 | 448 | Jojo Momma |
 | 174 | 442 | Daphne Jordan |
 | 175 | 440 | Liberty |
@@ -475,8 +475,8 @@
 | 467 | 176 | Trisha Gallagher |
 | 468 | 176 | Stacy Harper |
 | 469 | 175 | Snippy Rumbler |
-| 470 | 175 | Shandrica Lowe |
-| 471 | 175 | Tina Blessed Cage |
+| 470 | 175 | Tina Blessed Cage |
+| 471 | 175 | Shandrica Lowe |
 | 472 | 175 | Lucero Ramirez |
 | 473 | 174 | Poldo Ilano |
 | 474 | 174 | Jason Garnatz |
