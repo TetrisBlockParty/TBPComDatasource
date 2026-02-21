@@ -91,8 +91,8 @@
 | 83 | 454 | Brandon Green |
 | 84 | 447 | Mykal Burton |
 | 85 | 446 | Danielle Rhoades |
-| 86 | 445 | Kristie McFarland |
-| 87 | 445 | Silly Twist |
+| 86 | 445 | Silly Twist |
+| 87 | 445 | Kristie McFarland |
 | 88 | 442 | Christine Niles |
 | 89 | 430 | Patricia White |
 | 90 | 416 | Mary Pellegrino |
@@ -109,8 +109,8 @@
 | 101 | 389 | Elissa S-k |
 | 102 | 386 | Katie Knaus |
 | 103 | 384 | Shannon Matthew Byers |
-| 104 | 378 | Tasha Schriewer |
-| 105 | 378 | Makelini Mausia |
+| 104 | 378 | Makelini Mausia |
+| 105 | 378 | Tasha Schriewer |
 | 106 | 377 | Jesse Olive |
 | 107 | 372 | Jessica Bechler |
 | 108 | 368 | Stephanie Woods |
@@ -261,8 +261,8 @@
 | 253 | 148 | Gumbo |
 | 254 | 148 | Wetwet |
 | 255 | 148 | Jennifer Alvey |
-| 256 | 147 | Ashley Lynn Marchese |
-| 257 | 147 | Carrie Huskey |
+| 256 | 147 | Carrie Huskey |
+| 257 | 147 | Ashley Lynn Marchese |
 | 258 | 146 | Denita Mungro |
 | 259 | 145 | Jeni Dow |
 | 260 | 145 | Bryan Byrd |
@@ -277,8 +277,8 @@
 | 269 | 141 | LaTanya GeminiondaRise Johnson |
 | 270 | 140 | Funky Jumper |
 | 271 | 138 | Boldy Corner |
-| 272 | 137 | Cesar Barraza |
-| 273 | 137 | Rachel |
+| 272 | 137 | Rachel |
+| 273 | 137 | Cesar Barraza |
 | 274 | 136 | Sabrina Mansfield |
 | 275 | 135 | Skinny Baldez |
 | 276 | 135 | Terry Jo Jones |

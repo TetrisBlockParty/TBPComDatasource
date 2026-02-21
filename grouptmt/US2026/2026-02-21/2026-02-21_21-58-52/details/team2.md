@@ -214,8 +214,8 @@
 | 206 | 589 | Thomas Hedrick |
 | 207 | 587 | Hyper Cluster |
 | 208 | 586 | Stephen Stephen |
-| 209 | 583 | Steve Grotto |
-| 210 | 583 | Jessicah Myers |
+| 209 | 583 | Jessicah Myers |
+| 210 | 583 | Steve Grotto |
 | 211 | 581 | Jánine Riggs |
 | 212 | 579 | Gary Stash |
 | 213 | 579 | Roy Salyer |
@@ -227,8 +227,8 @@
 | 219 | 561 | Kristopher Miller |
 | 220 | 556 | Shavonna Haynes |
 | 221 | 553 | Leslie Ann Carter |
-| 222 | 549 | Kaylee McCafferty |
-| 223 | 549 | Charvi' Carter |
+| 222 | 549 | Charvi' Carter |
+| 223 | 549 | Kaylee McCafferty |
 | 224 | 544 | Desiree Harris Rosch |
 | 225 | 543 | Adira Brown |
 | 226 | 541 | Giggy Blocker |

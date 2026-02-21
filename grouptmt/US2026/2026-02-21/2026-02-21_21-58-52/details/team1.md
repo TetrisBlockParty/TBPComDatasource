@@ -97,8 +97,8 @@
 | 89 | 272 | Sarah Roberts |
 | 90 | 270 | Jennifer ManWarren |
 | 91 | 267 | Bhelle Sumile |
-| 92 | 258 | Dandy Basegrid |
-| 93 | 258 | Kellie |
+| 92 | 258 | Kellie |
+| 93 | 258 | Dandy Basegrid |
 | 94 | 254 | Rachael |
 | 95 | 252 | Dena Kayy |
 | 96 | 251 | june october |
@@ -106,8 +106,8 @@
 | 98 | 244 | Franswa |
 | 99 | 240 | Tana |
 | 100 | 239 | Cynthia Bradley |
-| 101 | 238 | John J. Cronin |
-| 102 | 238 | Steve Schneider |
+| 101 | 238 | Steve Schneider |
+| 102 | 238 | John J. Cronin |
 | 103 | 237 | Seante Bullock |
 | 104 | 230 | Frothy Pattern |
 | 105 | 228 | Trippy Redd |
