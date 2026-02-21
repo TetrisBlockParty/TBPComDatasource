@@ -168,8 +168,8 @@
 | 160 | 176 | Rebel124 |
 | 161 | 176 | Ryan Williams |
 | 162 | 175 | DanceLuvLaugh |
-| 163 | 168 | rosy |
-| 164 | 168 | Angie Harper |
+| 163 | 168 | Angie Harper |
+| 164 | 168 | rosy |
 | 165 | 167 | Raven Dudley |
 | 166 | 166 | Loopy Fallmatch |
 | 167 | 166 | Danielle Mogg |
@@ -186,26 +186,26 @@
 | 178 | 159 | Stephanie Whitefield |
 | 179 | 159 | Jone |
 | 180 | 158 | Grams |
-| 181 | 157 | Nicholas Roddy |
-| 182 | 157 | Patricia Gadsden |
+| 181 | 157 | Patricia Gadsden |
+| 182 | 157 | Nicholas Roddy |
 | 183 | 156 | Joey Banks |
 | 184 | 155 | Sarajane Lokan |
 | 185 | 153 | Beth Ingham |
 | 186 | 152 | Katrina E Jelks |
 | 187 | 152 | Shiny Zonebuilder |
 | 188 | 151 | Connie Mohler-Fair |
-| 189 | 151 | MsBee |
-| 190 | 151 | Brenda Lee Vander Molen |
+| 189 | 151 | Brenda Lee Vander Molen |
+| 190 | 151 | MsBee |
 | 191 | 150 | Nicole Myers |
 | 192 | 149 | Leah Barnett |
 | 193 | 149 | Bea Miles |
-| 194 | 149 | Alexis Taylor |
-| 195 | 149 | Desiree Gold |
-| 196 | 149 | Angel Mendez |
-| 197 | 146 | Ashley Lynn Marchese |
-| 198 | 146 | Carrie Huskey |
-| 199 | 146 | Latoya Mayne |
-| 200 | 146 | Denita Mungro |
+| 194 | 149 | Angel Mendez |
+| 195 | 149 | Alexis Taylor |
+| 196 | 149 | Desiree Gold |
+| 197 | 146 | Latoya Mayne |
+| 198 | 146 | Denita Mungro |
+| 199 | 146 | Ashley Lynn Marchese |
+| 200 | 146 | Carrie Huskey |
 | 201 | 145 | Bryan Byrd |
 | 202 | 145 | Rochelle Hazelett |
 | 203 | 142 | Erica Anderson |

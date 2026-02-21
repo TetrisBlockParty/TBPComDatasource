@@ -122,8 +122,8 @@
 | 114 | 704 | Nerdy Clearfit |
 | 115 | 700 | Vincent Petrella |
 | 116 | 698 | Lola Contreras |
-| 117 | 694 | Vo'Landa Reels |
-| 118 | 694 | Nancy Reid |
+| 117 | 694 | Nancy Reid |
+| 118 | 694 | Vo'Landa Reels |
 | 119 | 693 | YiFei |
 | 120 | 692 | Crystal Hoffman |
 | 121 | 688 | Dreamy Blast |
@@ -232,9 +232,9 @@
 | 224 | 405 | Christy Krissie |
 | 225 | 404 | Mema |
 | 226 | 402 | Joshua Mandel |
-| 227 | 400 | Tammy Allen |
-| 228 | 400 | Crystie Hicks |
-| 229 | 400 | Rhonda Milstead |
+| 227 | 400 | Rhonda Milstead |
+| 228 | 400 | Tammy Allen |
+| 229 | 400 | Crystie Hicks |
 | 230 | 397 | Ashley Guernsey-Martin |
 | 231 | 397 | coleksquad |
 | 232 | 397 | Angela Bonquiqui Dinish |

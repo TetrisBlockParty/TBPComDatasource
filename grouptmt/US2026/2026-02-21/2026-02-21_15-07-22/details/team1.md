@@ -163,8 +163,8 @@
 | 155 | 118 | Barry Mac'Ockner |
 | 156 | 116 | Jessica Russell |
 | 157 | 116 | Evie Khalil |
-| 158 | 115 | Mrs.Patrica |
-| 159 | 115 | Chuck Gannon |
+| 158 | 115 | Chuck Gannon |
+| 159 | 115 | Mrs.Patrica |
 | 160 | 113 | Desiree Deschaine Havee |
 | 161 | 112 | Chris65 |
 | 162 | 112 | Nicole Roseberry Weber |
@@ -174,12 +174,12 @@
 | 166 | 110 | Garcia Bailey |
 | 167 | 110 | Madison Wicks |
 | 168 | 109 | Nery Martinez |
-| 169 | 108 | Dizzy Party |
-| 170 | 108 | Tavia |
+| 169 | 108 | Tavia |
+| 170 | 108 | Dizzy Party |
 | 171 | 108 | Luciano Moreira |
 | 172 | 107 | Jodee Woods |
-| 173 | 106 | Alyssa Ingram |
-| 174 | 106 | Bloknboy |
+| 173 | 106 | Bloknboy |
+| 174 | 106 | Alyssa Ingram |
 | 175 | 105 | Angela Fairbank |
 | 176 | 105 | Ty Brown |
 | 177 | 104 | Charla Pross-Fugleberg |
