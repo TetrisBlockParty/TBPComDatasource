@@ -115,8 +115,8 @@
 | 107 | 90 | Judy Cox |
 | 108 | 89 | Zesty Twistbuilder |
 | 109 | 89 | Jeremy Steines |
-| 110 | 88 | Heather Tushner |
-| 111 | 88 | Brandi Durig |
+| 110 | 88 | Brandi Durig |
+| 111 | 88 | Heather Tushner |
 | 112 | 87 | Jen Caldwell |
 | 113 | 87 | Chaz |
 | 114 | 87 | Lauren Lamb |

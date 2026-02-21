@@ -91,8 +91,8 @@
 | 83 | 200 | mjl574 |
 | 84 | 199 | joclisa |
 | 85 | 195 | Nicha Hooker |
-| 86 | 193 | Shunta Jacobs |
-| 87 | 193 | Clever Shiftsnap |
+| 86 | 193 | Clever Shiftsnap |
+| 87 | 193 | Shunta Jacobs |
 | 88 | 192 | Chasity |
 | 89 | 187 | Speedy Bridger |
 | 90 | 187 | Twisty Brick LT |
@@ -157,9 +157,9 @@
 | 149 | 112 | Juliana Dottore |
 | 150 | 110 | Tiff Vs Tiffany |
 | 151 | 110 | Stella |
-| 152 | 109 | Fredd Thomas |
+| 152 | 109 | Diana Ibarra |
 | 153 | 109 | Brian Battjes |
-| 154 | 109 | Diana Ibarra |
+| 154 | 109 | Fredd Thomas |
 | 155 | 108 | Rachel Napper |
 | 156 | 108 | LaTanya GeminiondaRise Johnson |
 | 157 | 107 | Sherry Ogden |
@@ -168,8 +168,8 @@
 | 160 | 105 | Hoppy Buildout |
 | 161 | 105 | Emi |
 | 162 | 104 | Sarah Moyer |
-| 163 | 102 | mommablock |
-| 164 | 102 | Kali Kelz Williams |
+| 163 | 102 | Kali Kelz Williams |
+| 164 | 102 | mommablock |
 | 165 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 166 | 100 | Donna |
 | 167 | 100 | Bobbi Moore |

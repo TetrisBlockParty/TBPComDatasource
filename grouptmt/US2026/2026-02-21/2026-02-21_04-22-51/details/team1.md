@@ -118,7 +118,7 @@
 | 110 | 93 | Aimee Horton |
 | 111 | 93 | Loony Fitzone |
 | 112 | 92 | Jessica Russell |
-| 113 | 90 | Deanna L Hermanson |
+| 113 | 90 | Madison Wicks |
 | 114 | 90 | TSwag |
 | 115 | 90 | Deanna L Hermanson |
 | 116 | 89 | Mizzledagod |

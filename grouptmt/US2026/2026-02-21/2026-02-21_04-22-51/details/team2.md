@@ -169,8 +169,8 @@
 | 161 | 345 | Alyssaaelena |
 | 162 | 345 | Rhianna DiLorenzo |
 | 163 | 345 | Wuntayk |
-| 164 | 344 | Christina Lewis-Vickers |
-| 165 | 344 | Julie Kresal |
+| 164 | 344 | Julie Kresal |
+| 165 | 344 | Christina Lewis-Vickers |
 | 166 | 342 | Tracy Wise |
 | 167 | 334 | Moni Foxe |
 | 168 | 332 | TF Dyer |
@@ -324,8 +324,8 @@
 | 316 | 190 | blarg |
 | 317 | 188 | Justin Hines |
 | 318 | 187 | Shelley Thornburgh Wright |
-| 319 | 186 | Joshua Mullings |
-| 320 | 186 | Rhonda Milstead |
+| 319 | 186 | Rhonda Milstead |
+| 320 | 186 | Joshua Mullings |
 | 321 | 184 | Sassy Linkbuilder |
 | 322 | 184 | Stefanie Zonzini-Gagliardi |
 | 323 | 183 | Dizzy Zone |
@@ -338,8 +338,8 @@
 | 330 | 179 | Bette Prieto |
 | 331 | 179 | Qiana Sanders |
 | 332 | 177 | Kristi Biddinger |
-| 333 | 177 | John |
-| 334 | 177 | Angel |
+| 333 | 177 | Angel |
+| 334 | 177 | John |
 | 335 | 176 | Nancy Pohlman |
 | 336 | 176 | Jennifer Malloy - Cardy |
 | 337 | 176 | Trisha Gallagher |
