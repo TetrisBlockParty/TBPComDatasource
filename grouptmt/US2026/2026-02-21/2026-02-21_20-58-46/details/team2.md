@@ -206,8 +206,8 @@
 | 198 | 591 | Diana Fitzwater |
 | 199 | 587 | Hyper Cluster |
 | 200 | 586 | Stephen Stephen |
-| 201 | 583 | Steve Grotto |
-| 202 | 583 | Jessicah Myers |
+| 201 | 583 | Jessicah Myers |
+| 202 | 583 | Steve Grotto |
 | 203 | 579 | Gary Stash |
 | 204 | 576 | Shannon Joslin |
 | 205 | 573 | Sally Dennis |
@@ -365,8 +365,8 @@
 | 357 | 369 | Tara Lynn Janes |
 | 358 | 369 | AkaLefty |
 | 359 | 367 | Deyawn Smith |
-| 360 | 366 | Jaycee |
-| 361 | 366 | Wuntayk |
+| 360 | 366 | Wuntayk |
+| 361 | 366 | Jaycee |
 | 362 | 365 | Christina Lewis-Vickers |
 | 363 | 365 | Audrey Jones |
 | 364 | 365 | Kayla |

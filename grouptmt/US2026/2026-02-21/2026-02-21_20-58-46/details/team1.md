@@ -26,8 +26,8 @@
 | 18 | 792 | LaQuetta Faith Hines |
 | 19 | 781 | Robert Beck |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Adryane Schnase |
-| 22 | 770 | Zappy Curvetile |
+| 21 | 770 | Zappy Curvetile |
+| 22 | 770 | Adryane Schnase |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 658 | Carolyn Smith |
@@ -48,8 +48,8 @@
 | 40 | 510 | Colena Davenport |
 | 41 | 508 | Michelle Nicole |
 | 42 | 493 | Kristen Roles Robben |
-| 43 | 486 | Sarah Lombardo |
-| 44 | 486 | Sevens4L |
+| 43 | 486 | Sevens4L |
+| 44 | 486 | Sarah Lombardo |
 | 45 | 483 | Ryan Lunnin |
 | 46 | 469 | Kathi Snustad |
 | 47 | 460 | Tipsy Column |
@@ -140,8 +140,8 @@
 | 132 | 177 | Michael |
 | 133 | 177 | ParisandCory Champagne |
 | 134 | 176 | Basment Living |
-| 135 | 171 | Greg Premoe |
-| 136 | 171 | David DeSantis |
+| 135 | 171 | David DeSantis |
+| 136 | 171 | Greg Premoe |
 | 137 | 170 | Veronica Eve |
 | 138 | 169 | Abbey Crespo |
 | 139 | 169 | Luciano Moreira |
@@ -158,9 +158,9 @@
 | 150 | 155 | Cece Ibarra |
 | 151 | 154 | Irual Hctrab |
 | 152 | 153 | Shiny Gridmatch |
-| 153 | 152 | Jacqueline Unique |
-| 154 | 152 | Trina Gee |
-| 155 | 152 | Speedy Snapfall |
+| 153 | 152 | Trina Gee |
+| 154 | 152 | Speedy Snapfall |
+| 155 | 152 | Jacqueline Unique |
 | 156 | 150 | Adele Rahman |
 | 157 | 150 | David Miller |
 | 158 | 148 | Bouncy Grid |
@@ -177,8 +177,8 @@
 | 169 | 141 | Blaire Bruckoff |
 | 170 | 140 | Miguel Teixeira |
 | 171 | 139 | Jenny Gingrich Fuentes |
-| 172 | 138 | Cranky Pattern |
-| 173 | 138 | Death |
+| 172 | 138 | Death |
+| 173 | 138 | Cranky Pattern |
 | 174 | 137 | Cody Gates |
 | 175 | 136 | Dino |
 | 176 | 136 | Breanna Luna |
@@ -200,8 +200,8 @@
 | 192 | 125 | Larry Tilton |
 | 193 | 125 | Fmp |
 | 194 | 124 | Cartier |
-| 195 | 122 | Melissa Lemmon |
-| 196 | 122 | Margo Wagner |
+| 195 | 122 | Margo Wagner |
+| 196 | 122 | Melissa Lemmon |
 | 197 | 121 | Mark Smith |
 | 198 | 120 | Kimmie Kimms |
 | 199 | 120 | Alenoush Karimian |

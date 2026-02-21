@@ -133,12 +133,12 @@
 | 125 | 179 | Epic Curvetile |
 | 126 | 178 | Lori |
 | 127 | 176 | Stacey Stano |
-| 128 | 174 | Dihcheese444 |
-| 129 | 174 | shark tato |
+| 128 | 174 | shark tato |
+| 129 | 174 | Dihcheese444 |
 | 130 | 174 | Zethra Prenisha Rahming |
 | 131 | 173 | Twisty Cascadezone |
-| 132 | 173 | blockstar |
-| 133 | 173 | Ren Mc |
+| 132 | 173 | Ren Mc |
+| 133 | 173 | blockstar |
 | 134 | 172 | Jenna McGeorge |
 | 135 | 170 | Amy Suckarieh |
 | 136 | 166 | Klo |
@@ -322,8 +322,8 @@
 | 314 | 77 | Mike |
 | 315 | 77 | Marvin Lou Martin |
 | 316 | 76 | Crystal Lynn |
-| 317 | 76 | Rebecca Blake |
-| 318 | 76 | Kevin Bush |
+| 317 | 76 | Kevin Bush |
+| 318 | 76 | Rebecca Blake |
 | 319 | 76 | Cristy Duerksen |
 | 320 | 75 | mini |
 | 321 | 75 | Heather Bruce |

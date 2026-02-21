@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -98,8 +98,8 @@
 | 90 | 408 | Patty Allen |
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
-| 93 | 394 | Mcathen |
-| 94 | 394 | joclisa |
+| 93 | 394 | joclisa |
+| 94 | 394 | Mcathen |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
 | 97 | 390 | Hasty Cascadefit |
@@ -120,15 +120,15 @@
 | 112 | 348 | CeceGeGe |
 | 113 | 332 | Chauntee Alfrey-Cardinale |
 | 114 | 327 | Dapper Snap |
-| 115 | 323 | Ashley Raines |
-| 116 | 323 | Sherry Ogden |
+| 115 | 323 | Sherry Ogden |
+| 116 | 323 | Ashley Raines |
 | 117 | 320 | Or Reznitsky |
 | 118 | 318 | Chasity |
 | 119 | 316 | Fancy Cascader |
 | 120 | 312 | Jay Horn |
 | 121 | 309 | Rich LeBlanc |
-| 122 | 307 | Peggi Charon |
-| 123 | 307 | Blocked |
+| 122 | 307 | Blocked |
+| 123 | 307 | Peggi Charon |
 | 124 | 305 | Tessina Dewey-Mancino |
 | 125 | 300 | Stephanie Blkpep Davidson |
 | 126 | 300 | Sherika C. McDaniels |
@@ -179,8 +179,8 @@
 | 171 | 207 | Jessica |
 | 172 | 205 | Sarah Moyer |
 | 173 | 203 | Twisty Brick LT |
-| 174 | 201 | Karon Griffin |
-| 175 | 201 | Ashley Tookes |
+| 174 | 201 | Ashley Tookes |
+| 175 | 201 | Karon Griffin |
 | 176 | 200 | Sharisse Baltimore |
 | 177 | 200 | glichmod |
 | 178 | 197 | Staci George Fitzsimmons |
@@ -253,12 +253,12 @@
 | 245 | 148 | Jennifer Alvey |
 | 246 | 148 | Gumbo |
 | 247 | 147 | Carrie Huskey |
-| 248 | 147 | Cheryl Hinch Tenbrook |
-| 249 | 147 | Ashley Lynn Marchese |
-| 250 | 146 | Latoya Mayne |
-| 251 | 146 | Denita Mungro |
-| 252 | 145 | Bryan Byrd |
-| 253 | 145 | Jeni Dow |
+| 248 | 147 | Ashley Lynn Marchese |
+| 249 | 147 | Cheryl Hinch Tenbrook |
+| 250 | 146 | Denita Mungro |
+| 251 | 146 | Latoya Mayne |
+| 252 | 145 | Jeni Dow |
+| 253 | 145 | Bryan Byrd |
 | 254 | 142 | Jl |
 | 255 | 142 | Erykah |
 | 256 | 142 | Erica Anderson |
@@ -267,15 +267,15 @@
 | 259 | 141 | LaTanya GeminiondaRise Johnson |
 | 260 | 141 | IamJust Neyamijah Washington Sr. |
 | 261 | 140 | Joy Petroski |
-| 262 | 139 | Funky Jumper |
-| 263 | 139 | Loopy Clusterer |
+| 262 | 139 | Loopy Clusterer |
+| 263 | 139 | Funky Jumper |
 | 264 | 138 | Boldy Corner |
 | 265 | 137 | Cesar Barraza |
 | 266 | 136 | Rachel |
 | 267 | 136 | Sabrina Mansfield |
 | 268 | 135 | Terry Jo Jones |
-| 269 | 134 | Kristian Thurman |
-| 270 | 134 | Skinny Baldez |
+| 269 | 134 | Skinny Baldez |
+| 270 | 134 | Kristian Thurman |
 | 271 | 133 | Samantha Lynn |
 | 272 | 133 | Weerae |
 | 273 | 132 | Angela Scott |
