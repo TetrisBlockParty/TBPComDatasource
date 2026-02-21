@@ -68,9 +68,9 @@
 | 60 | 674 | Dannette Goldberg-Richards |
 | 61 | 672 | Wendy Harder Gage |
 | 62 | 671 | Vo'Landa Reels |
-| 63 | 658 | Vistabrat |
-| 64 | 658 | Pacynthia Williams |
-| 65 | 658 | Dreamy Blast |
+| 63 | 658 | Pacynthia Williams |
+| 64 | 658 | Dreamy Blast |
+| 65 | 658 | Vistabrat |
 | 66 | 656 | E_Money04 |
 | 67 | 649 | Stephanie Chapman |
 | 68 | 639 | Anna Edwards |
@@ -329,7 +329,7 @@
 | 321 | 157 | Klee |
 | 322 | 156 | Ramone Armstrong |
 | 323 | 156 | Deanna Morton |
-| 324 | 156 | Ramone Armstrong |
+| 324 | 156 | Nuggets |
 | 325 | 156 | Ashlyn Berner |
 | 326 | 155 | Monarca26 |
 | 327 | 155 | Chelle |

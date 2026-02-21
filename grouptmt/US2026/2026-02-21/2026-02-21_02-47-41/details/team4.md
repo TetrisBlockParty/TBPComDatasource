@@ -83,11 +83,11 @@
 | 75 | 103 | Sam Middleton |
 | 76 | 102 | Faja |
 | 77 | 101 | Michelle Morris |
-| 78 | 100 | Jeff Brian Gates |
-| 79 | 100 | Stephme310 |
+| 78 | 100 | Stephme310 |
+| 79 | 100 | Jeff Brian Gates |
 | 80 | 99 | YoMomma |
-| 81 | 98 | Duck |
-| 82 | 98 | Allen Lloyd |
+| 81 | 98 | Allen Lloyd |
+| 82 | 98 | Duck |
 | 83 | 97 | TinyLegoRose |
 | 84 | 96 | Zappy Snaplink |
 | 85 | 92 | Kristin MacDonald |

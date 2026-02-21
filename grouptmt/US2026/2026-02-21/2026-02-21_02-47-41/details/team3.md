@@ -33,8 +33,8 @@
 | 25 | 546 | Dolores Falco |
 | 26 | 528 | Natasha Jones |
 | 27 | 507 | Stephanie Allmon |
-| 28 | 476 | Susan Valentino |
-| 29 | 476 | Jennifer Willis |
+| 28 | 476 | Jennifer Willis |
+| 29 | 476 | Susan Valentino |
 | 30 | 466 | Kay |
 | 31 | 446 | Kathryn Keenan-Taggart |
 | 32 | 432 | Nate Burnside |
@@ -58,8 +58,8 @@
 | 50 | 320 | Or Reznitsky |
 | 51 | 316 | Fancy Cascader |
 | 52 | 311 | Kristie |
-| 53 | 307 | Clever Roll |
-| 54 | 307 | Peggi Charon |
+| 53 | 307 | Peggi Charon |
+| 54 | 307 | Clever Roll |
 | 55 | 303 | Tasha Schriewer |
 | 56 | 300 | Sherika C. McDaniels |
 | 57 | 297 | Delilah belle |
