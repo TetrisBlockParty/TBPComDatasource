@@ -109,8 +109,8 @@
 | 101 | 405 | Samantha Jo |
 | 102 | 402 | Sparkles |
 | 103 | 401 | Poppy Snap |
-| 104 | 400 | Thomas Hedrick |
-| 105 | 400 | BYM4L |
+| 104 | 400 | BYM4L |
+| 105 | 400 | Thomas Hedrick |
 | 106 | 397 | Ashley Guernsey-Martin |
 | 107 | 391 | Chilly Bridgepiece |
 | 108 | 390 | Dustin Rains |
@@ -183,9 +183,9 @@
 | 175 | 251 | Shameika Trail |
 | 176 | 250 | Barbra Miller |
 | 177 | 249 | Janel Turley-Garner |
-| 178 | 248 | Dany Murillo |
-| 179 | 248 | Bubbly Snapfit |
-| 180 | 248 | Davetta Sanford |
+| 178 | 248 | Bubbly Snapfit |
+| 179 | 248 | Davetta Sanford |
+| 180 | 248 | Dany Murillo |
 | 181 | 247 | Fancy Twister |
 | 182 | 247 | Ann Knutson Anderson |
 | 183 | 247 | Andrea Devery Beck |
@@ -347,8 +347,8 @@
 | 339 | 134 | Candace Noel |
 | 340 | 134 | Christina Jones |
 | 341 | 134 | Sarah Massey |
-| 342 | 133 | Candy Pitts |
-| 343 | 133 | Jess Orosz |
+| 342 | 133 | Jess Orosz |
+| 343 | 133 | Candy Pitts |
 | 344 | 133 | coleksquad |
 | 345 | 132 | Paula Snyder |
 | 346 | 131 | Gigi |
@@ -403,8 +403,8 @@
 | 395 | 117 | Angelina Marie |
 | 396 | 117 | Myleaha Holley |
 | 397 | 116 | Stephen Stephen |
-| 398 | 116 | BeenRich Theceo |
-| 399 | 116 | Ty Quarles |
+| 398 | 116 | Ty Quarles |
+| 399 | 116 | BeenRich Theceo |
 | 400 | 115 | Jamie Brickley |
 | 401 | 115 | Fae-Bulous |
 | 402 | 115 | Slinky Risegrid |

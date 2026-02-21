@@ -106,9 +106,9 @@
 | 98 | 78 | Rebecca Moulton Pinciaro |
 | 99 | 78 | Chair |
 | 100 | 78 | Zesty Linkgrid |
-| 101 | 76 | Jessica Miller |
-| 102 | 76 | Dustee Craddock-Harrison |
-| 103 | 76 | Bethany Ison |
+| 101 | 76 | Bethany Ison |
+| 102 | 76 | Jessica Miller |
+| 103 | 76 | Dustee Craddock-Harrison |
 | 104 | 75 | 🥔🥔 Spudz |
 | 105 | 75 | Rosemary Foster |
 | 106 | 75 | Marcus TheeyoungWoe Gilmore |

@@ -97,8 +97,8 @@
 | 89 | 135 | Nicole Flippo |
 | 90 | 134 | DanceLuvLaugh |
 | 91 | 131 | Emma |
-| 92 | 129 | Giddy Twistbuilder |
-| 93 | 129 | Ashley Tookes |
+| 92 | 129 | Ashley Tookes |
+| 93 | 129 | Giddy Twistbuilder |
 | 94 | 128 | Angel Mendez |
 | 95 | 127 | mjl574 |
 | 96 | 126 | Brandon Green |
