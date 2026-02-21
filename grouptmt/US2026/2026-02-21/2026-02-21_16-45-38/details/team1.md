@@ -42,8 +42,8 @@
 | 34 | 483 | Ryan Lunnin |
 | 35 | 466 | Kathi Snustad |
 | 36 | 406 | Christina Graham |
-| 37 | 405 | Jennifer Cates |
-| 38 | 405 | Karin Gillen |
+| 37 | 405 | Karin Gillen |
+| 38 | 405 | Jennifer Cates |
 | 39 | 403 | Nancy Green |
 | 40 | 402 | Odell Barnett |
 | 41 | 392 | Redlicious 1 |
@@ -222,9 +222,9 @@
 | 214 | 90 | Steve Schneider |
 | 215 | 90 | John Kim |
 | 216 | 89 | Isodor |
-| 217 | 88 | Larry Tilton |
+| 217 | 88 | DoodleBug |
 | 218 | 88 | Sam Williams |
-| 219 | 88 | DoodleBug |
+| 219 | 88 | Larry Tilton |
 | 220 | 87 | Jenny Gingrich Fuentes |
 | 221 | 86 | Steven Collins |
 | 222 | 86 | Basment Living |

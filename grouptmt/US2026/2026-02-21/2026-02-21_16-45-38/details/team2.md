@@ -163,8 +163,8 @@
 | 155 | 602 | L3sli3 |
 | 156 | 596 | Thomas Hughes |
 | 157 | 592 | Ashle Scranton |
-| 158 | 591 | Rebecca Doughman |
-| 159 | 591 | Alisha |
+| 158 | 591 | Alisha |
+| 159 | 591 | Rebecca Doughman |
 | 160 | 589 | Erica Williams |
 | 161 | 583 | Jessicah Myers |
 | 162 | 580 | Steve Grotto |
@@ -180,8 +180,8 @@
 | 172 | 543 | Diana Fitzwater |
 | 173 | 541 | SaraMarie Eveland |
 | 174 | 534 | Poppy Snapper |
-| 175 | 534 | Teresa Gillmore |
-| 176 | 534 | Stephen Stephen |
+| 175 | 534 | Stephen Stephen |
+| 176 | 534 | Teresa Gillmore |
 | 177 | 531 | Chris Wanner |
 | 178 | 527 | Stacy Stickle |
 | 179 | 527 | Adira Brown |
@@ -224,8 +224,8 @@
 | 216 | 469 | Ashley Rose Frederick |
 | 217 | 467 | Scott Treadway |
 | 218 | 465 | Drwatson187 |
-| 219 | 464 | Ryan Gunther |
-| 220 | 464 | Nett |
+| 219 | 464 | Nett |
+| 220 | 464 | Ryan Gunther |
 | 221 | 463 | Sue Leard |
 | 222 | 460 | Amélie Cadieux |
 | 223 | 460 | Cody Smith-Candelaria |
@@ -421,8 +421,8 @@
 | 413 | 265 | Sassy Linkbuilder |
 | 414 | 264 | Dapper Dasher |
 | 415 | 262 | Jackie Lucas |
-| 416 | 262 | Taren Cowan |
-| 417 | 262 | Min |
+| 416 | 262 | Min |
+| 417 | 262 | Taren Cowan |
 | 418 | 261 | Anthony Mignacca |
 | 419 | 261 | Brownie Sheena |
 | 420 | 261 | MrsClaudette Will'sIam Matthews |
@@ -523,29 +523,29 @@
 | 515 | 211 | Wacky Cascade |
 | 516 | 211 | Trisha Gallagher |
 | 517 | 210 | Nancy Pohlman |
-| 518 | 209 | John Quiring |
-| 519 | 209 | Samantha Morgan |
-| 520 | 209 | Dawn L Washington-Feuquay |
-| 521 | 209 | Jelly |
+| 518 | 209 | Dawn L Washington-Feuquay |
+| 519 | 209 | Jelly |
+| 520 | 209 | Samantha Morgan |
+| 521 | 209 | John Quiring |
 | 522 | 208 | Nerdy Riserfit |
-| 523 | 207 | Amy Humphreys |
-| 524 | 207 | Melissa McCall |
-| 525 | 207 | Caitlin Johnson |
+| 523 | 207 | Melissa McCall |
+| 524 | 207 | Caitlin Johnson |
+| 525 | 207 | Amy Humphreys |
 | 526 | 206 | RAEPR05 |
 | 527 | 206 | Neko Preston |
 | 528 | 205 | Joel Rosado |
-| 529 | 205 | B-rad B-rad |
+| 529 | 205 | Lauren Fitzgerald Thomas |
 | 530 | 205 | Tj Ball |
 | 531 | 205 | ElizabethAnn Dickinson |
-| 532 | 205 | Lauren Fitzgerald Thomas |
+| 532 | 205 | B-rad B-rad |
 | 533 | 204 | Ali Gralski |
 | 534 | 204 | Ryan Lauer |
 | 535 | 204 | Brenna Ann |
 | 536 | 204 | Nicolle Danielle |
 | 537 | 204 | Kimberly Ann |
 | 538 | 202 | Alyssa Dean |
-| 539 | 202 | Layna Lyons |
-| 540 | 202 | Snappy Shatterfit |
+| 539 | 202 | Snappy Shatterfit |
+| 540 | 202 | Layna Lyons |
 | 541 | 201 | Matthew Turner |
 | 542 | 201 | Stanley Vanekelenburg |
 | 543 | 201 | Lakeela Wise |
@@ -578,8 +578,8 @@
 | 570 | 189 | Nate Skidmore |
 | 571 | 188 | Seth Wrieden |
 | 572 | 188 | Irene Jones |
-| 573 | 187 | Brandon McDonald |
-| 574 | 187 | Josh Dill |
+| 573 | 187 | Josh Dill |
+| 574 | 187 | Brandon McDonald |
 | 575 | 186 | Adam Simmons |
 | 576 | 186 | Joshua Mullings |
 | 577 | 185 | Lively Catcher |

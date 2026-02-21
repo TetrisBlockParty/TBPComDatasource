@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 809 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -120,8 +120,8 @@
 | 112 | 284 | Jay Horn |
 | 113 | 277 | Logan Naccarato |
 | 114 | 267 | Rufus Lincoln |
-| 115 | 263 | mjl574 |
-| 116 | 263 | Angeline Joseph |
+| 115 | 263 | Angeline Joseph |
+| 116 | 263 | mjl574 |
 | 117 | 262 | Joe-Maggie Mathews |
 | 118 | 259 | Louise Stacy Sisson |
 | 119 | 259 | opf |
@@ -155,14 +155,14 @@
 | 147 | 197 | Ashley Tookes |
 | 148 | 195 | Nicha Hooker |
 | 149 | 194 | glichmod |
-| 150 | 193 | Rochelle Hazelett |
-| 151 | 193 | Stephanie Burtin |
+| 150 | 193 | Stephanie Burtin |
+| 151 | 193 | Rochelle Hazelett |
 | 152 | 193 | Duane Bright |
 | 153 | 193 | Clever Shiftsnap |
 | 154 | 191 | Giddy Twistbuilder |
 | 155 | 191 | Scott Carleton |
-| 156 | 189 | Sissy Lowery Davis |
-| 157 | 189 | Staci George Fitzsimmons |
+| 156 | 189 | Staci George Fitzsimmons |
+| 157 | 189 | Sissy Lowery Davis |
 | 158 | 189 | Fallorina Susana |
 | 159 | 188 | Angie Harper |
 | 160 | 184 | Jennie Beranek |
@@ -210,8 +210,8 @@
 | 202 | 150 | Valerie Gendron |
 | 203 | 150 | Nicole Myers |
 | 204 | 150 | Desiree Gold |
-| 205 | 149 | Angel Mendez |
-| 206 | 149 | Alexis Taylor |
+| 205 | 149 | Alexis Taylor |
+| 206 | 149 | Angel Mendez |
 | 207 | 148 | Lesley Perez |
 | 208 | 148 | Jennifer Alvey |
 | 209 | 148 | Gumbo |
@@ -223,8 +223,8 @@
 | 215 | 145 | Bryan Byrd |
 | 216 | 145 | Emma |
 | 217 | 142 | Jl |
-| 218 | 142 | Erica Anderson |
-| 219 | 142 | David Bardo |
+| 218 | 142 | David Bardo |
+| 219 | 142 | Erica Anderson |
 | 220 | 138 | Boldy Corner |
 | 221 | 137 | Joy Petroski |
 | 222 | 137 | Cheryl Hinch Tenbrook |

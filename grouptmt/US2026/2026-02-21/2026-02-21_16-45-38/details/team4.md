@@ -115,9 +115,9 @@
 | 107 | 167 | Denise Carlson |
 | 108 | 164 | ThaEviLJeNiuZ |
 | 109 | 162 | Shauna Havard |
-| 110 | 160 | Stacey Stano |
-| 111 | 160 | Crystal Carroll |
-| 112 | 160 | ZeeZee |
+| 110 | 160 | Crystal Carroll |
+| 111 | 160 | ZeeZee |
+| 112 | 160 | Stacey Stano |
 | 113 | 157 | quicksand420 |
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
@@ -170,9 +170,9 @@
 | 162 | 115 | Ultramarine |
 | 163 | 114 | Jackie Marie |
 | 164 | 113 | Adam Randall |
-| 165 | 112 | Zesty Twistbuilder |
-| 166 | 112 | Austin Owens |
-| 167 | 112 | Bryan Hodgins |
+| 165 | 112 | Austin Owens |
+| 166 | 112 | Bryan Hodgins |
+| 167 | 112 | Zesty Twistbuilder |
 | 168 | 111 | Lazy Blocker |
 | 169 | 111 | Michelle Morris |
 | 170 | 110 | H.R. Block |
