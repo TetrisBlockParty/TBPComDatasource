@@ -94,8 +94,8 @@
 | 86 | 452 | Judi Dobson |
 | 87 | 447 | Mykal Burton |
 | 88 | 446 | Danielle Rhoades |
-| 89 | 445 | Silly Twist |
-| 90 | 445 | Kristie McFarland |
+| 89 | 445 | Kristie McFarland |
+| 90 | 445 | Silly Twist |
 | 91 | 442 | Christine Niles |
 | 92 | 430 | Patricia White |
 | 93 | 428 | Elissa S-k |
@@ -235,16 +235,16 @@
 | 227 | 175 | Latoya Mayne |
 | 228 | 174 | Marquita Sheard |
 | 229 | 172 | Grams |
-| 230 | 169 | BŘŰŤİÇŨŚ |
-| 231 | 169 | Emma |
+| 230 | 169 | Emma |
+| 231 | 169 | BŘŰŤİÇŨŚ |
 | 232 | 168 | MsBee |
 | 233 | 166 | Betty Ivy |
 | 234 | 166 | Betty Rosas |
 | 235 | 166 | Beth Ingham |
 | 236 | 165 | Kali Kelz Williams |
 | 237 | 165 | Irene Arreguin |
-| 238 | 163 | Stephanie Hill |
-| 239 | 163 | Christine Trester |
+| 238 | 163 | Christine Trester |
+| 239 | 163 | Stephanie Hill |
 | 240 | 162 | Stephanie Whitefield |
 | 241 | 160 | Tiffany Davie |
 | 242 | 159 | Jone |

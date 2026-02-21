@@ -99,8 +99,8 @@
 | 91 | 277 | Ly Phethmany |
 | 92 | 273 | Happy Basegrid |
 | 93 | 272 | Sarah Roberts |
-| 94 | 270 | Bhelle Sumile |
-| 95 | 270 | Jennifer ManWarren |
+| 94 | 270 | Jennifer ManWarren |
+| 95 | 270 | Bhelle Sumile |
 | 96 | 258 | Dandy Basegrid |
 | 97 | 255 | Cynthia Bradley |
 | 98 | 254 | Rachael |
@@ -126,8 +126,8 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | Giggly Builderline |
-| 122 | 203 | GATOR |
+| 121 | 203 | GATOR |
+| 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
@@ -163,12 +163,12 @@
 | 155 | 161 | Jessie Lynn |
 | 156 | 160 | Nery Martinez |
 | 157 | 159 | Cece Ibarra |
-| 158 | 158 | Arianna O'Brien |
-| 159 | 158 | Sarah Marie |
+| 158 | 158 | Sarah Marie |
+| 159 | 158 | Arianna O'Brien |
 | 160 | 154 | Irual Hctrab |
 | 161 | 153 | Shiny Gridmatch |
-| 162 | 152 | Speedy Snapfall |
-| 163 | 152 | Jacqueline Unique |
+| 162 | 152 | Jacqueline Unique |
+| 163 | 152 | Speedy Snapfall |
 | 164 | 151 | Christy Jones |
 | 165 | 150 | Adele Rahman |
 | 166 | 150 | David Miller |
@@ -223,8 +223,8 @@
 | 215 | 115 | Jessi Sauer |
 | 216 | 115 | Jacob Shaddock |
 | 217 | 115 | Zany Tiler |
-| 218 | 114 | Hector Cruz |
-| 219 | 114 | Tyler Hertzog |
+| 218 | 114 | Tyler Hertzog |
+| 219 | 114 | Hector Cruz |
 | 220 | 113 | Desiree Deschaine Havee |
 | 221 | 112 | Chris65 |
 | 222 | 112 | Crystal Joslin |

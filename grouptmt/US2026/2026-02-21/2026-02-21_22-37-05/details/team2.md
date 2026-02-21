@@ -404,8 +404,8 @@
 | 396 | 360 | Brenda Messer |
 | 397 | 358 | Alyssaaelena |
 | 398 | 358 | Smashanator |
-| 399 | 357 | Shannon Byrd |
-| 400 | 357 | Véronique Lévesque Sabourin |
+| 399 | 357 | Véronique Lévesque Sabourin |
+| 400 | 357 | Shannon Byrd |
 | 401 | 356 | Adam Simmons |
 | 402 | 355 | Shandrica Lowe |
 | 403 | 354 | Darlene Bowman |
@@ -495,8 +495,8 @@
 | 487 | 303 | Audra Williams |
 | 488 | 303 | Byung Bae Park |
 | 489 | 303 | Ann Knutson Anderson |
-| 490 | 303 | Angie Marie |
-| 491 | 303 | Candy Pitts |
+| 490 | 303 | Candy Pitts |
+| 491 | 303 | Angie Marie |
 | 492 | 302 | stacey |
 | 493 | 301 | Funky Caster |
 | 494 | 299 | Megan Phillips |
@@ -739,12 +739,12 @@
 | 731 | 200 | Biggest thing |
 | 732 | 200 | Sara Silvernail-Kay |
 | 733 | 199 | Michael David Hollis |
-| 734 | 199 | BeaNzMaMa |
-| 735 | 199 | Jenny Castro |
+| 734 | 199 | Jenny Castro |
+| 735 | 199 | BeaNzMaMa |
 | 736 | 199 | Alyssa Nadine Medelez |
-| 737 | 197 | Sarah Dean |
+| 737 | 197 | Kati Russeau |
 | 738 | 197 | Octavio Garza |
-| 739 | 197 | Kati Russeau |
+| 739 | 197 | Sarah Dean |
 | 740 | 197 | Karyn Yurcho Dooley |
 | 741 | 196 | Boldy Block |
 | 742 | 196 | Regina Unruh |
