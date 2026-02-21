@@ -184,8 +184,8 @@
 | 176 | 543 | Diana Fitzwater |
 | 177 | 541 | SaraMarie Eveland |
 | 178 | 534 | Teresa Gillmore |
-| 179 | 534 | Stephen Stephen |
-| 180 | 534 | Poppy Snapper |
+| 179 | 534 | Poppy Snapper |
+| 180 | 534 | Stephen Stephen |
 | 181 | 531 | Chris Wanner |
 | 182 | 527 | Adira Brown |
 | 183 | 527 | Stacy Stickle |
@@ -300,8 +300,8 @@
 | 292 | 357 | Julie Kresal |
 | 293 | 355 | Shandrica Lowe |
 | 294 | 355 | Kristen O'Neal |
-| 295 | 354 | Brave Dropmatch |
-| 296 | 354 | Tracy Wise |
+| 295 | 354 | Tracy Wise |
+| 296 | 354 | Brave Dropmatch |
 | 297 | 353 | Cheery Matchzone |
 | 298 | 352 | Juanita Lyons |
 | 299 | 352 | ruth |
@@ -346,8 +346,8 @@
 | 338 | 323 | Briana Alexander |
 | 339 | 323 | KhaosLord |
 | 340 | 322 | Brandy Andre |
-| 341 | 320 | Sarah Ridenour |
-| 342 | 320 | NanDa Cruzan VI |
+| 341 | 320 | NanDa Cruzan VI |
+| 342 | 320 | Sarah Ridenour |
 | 343 | 320 | Cynthia Ward |
 | 344 | 318 | CC |
 | 345 | 317 | Ebony Deloach Bryant |
@@ -719,8 +719,8 @@
 | 711 | 157 | Leslie |
 | 712 | 157 | Ty Quarles |
 | 713 | 156 | Tara Creel |
-| 714 | 156 | Renee Bowers |
-| 715 | 156 | Elizabeth Cotton |
+| 714 | 156 | Elizabeth Cotton |
+| 715 | 156 | Renee Bowers |
 | 716 | 155 | Monarca26 |
 | 717 | 155 | Zachary Boyarski |
 | 718 | 155 | Cris cris |

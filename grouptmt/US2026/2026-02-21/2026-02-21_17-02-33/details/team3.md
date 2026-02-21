@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -122,8 +122,8 @@
 | 114 | 277 | joclisa |
 | 115 | 277 | Logan Naccarato |
 | 116 | 267 | Rufus Lincoln |
-| 117 | 263 | mjl574 |
-| 118 | 263 | Angeline Joseph |
+| 117 | 263 | Angeline Joseph |
+| 118 | 263 | mjl574 |
 | 119 | 262 | Joe-Maggie Mathews |
 | 120 | 259 | Louise Stacy Sisson |
 | 121 | 259 | opf |
@@ -235,12 +235,12 @@
 | 227 | 133 | Terry Jo Jones |
 | 228 | 133 | LaNette Morgan |
 | 229 | 132 | Daryn Elliott |
-| 230 | 131 | Erykah |
-| 231 | 131 | Darlene McMillan |
+| 230 | 131 | Darlene McMillan |
+| 231 | 131 | Erykah |
 | 232 | 130 | Weerae |
 | 233 | 129 | Juliana Dottore |
-| 234 | 128 | Jen Lewis |
-| 235 | 128 | Skinny Baldez |
+| 234 | 128 | Skinny Baldez |
+| 235 | 128 | Jen Lewis |
 | 236 | 128 | Cesar Barraza |
 | 237 | 126 | April Matthew Kibble |
 | 238 | 125 | Shimika Enay Wallace |
@@ -253,8 +253,8 @@
 | 245 | 121 | Fredd Thomas |
 | 246 | 121 | Loopy Clusterer |
 | 247 | 121 | mzcatzy |
-| 248 | 120 | Lys |
-| 249 | 120 | Eon Harris |
+| 248 | 120 | Eon Harris |
+| 249 | 120 | Lys |
 | 250 | 120 | Tasha Wesson-Torrence |
 | 251 | 119 | BugMansMom |
 | 252 | 119 | France Vézina |
@@ -366,8 +366,8 @@
 | 358 | 85 | Heather De Vries Cobb |
 | 359 | 85 | Mike Spritzer |
 | 360 | 84 | Shalanda Hardy |
-| 361 | 84 | gremicx |
-| 362 | 84 | Spunky Racker |
+| 361 | 84 | Spunky Racker |
+| 362 | 84 | gremicx |
 | 363 | 83 | Glitzy Slide |
 | 364 | 83 | Deseree Ewing |
 | 365 | 82 | Rebecca Funderburk Kirby |

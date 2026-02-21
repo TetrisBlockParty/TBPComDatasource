@@ -27,8 +27,8 @@
 | 19 | 625 | GreenJeepGirl |
 | 20 | 620 | Kimyatta Cavin |
 | 21 | 608 | Denny Shives |
-| 22 | 590 | Valerie Roberts |
-| 23 | 590 | Dee Kay |
+| 22 | 590 | Dee Kay |
+| 23 | 590 | Valerie Roberts |
 | 24 | 589 | Chilly Line |
 | 25 | 541 | Rebecca Moulton Pinciaro |
 | 26 | 511 | LisaJo Picken Buchanan |
@@ -68,8 +68,8 @@
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
 | 62 | 291 | Leslie Thomas |
-| 63 | 287 | KM8 |
-| 64 | 287 | Robin Getchel |
+| 63 | 287 | Robin Getchel |
+| 64 | 287 | KM8 |
 | 65 | 286 | Julian Garcia |
 | 66 | 279 | Lauren Scott |
 | 67 | 277 | KJ Pool |
@@ -130,17 +130,17 @@
 | 122 | 147 | 030Synner |
 | 123 | 147 | Chair |
 | 124 | 147 | Jay28 |
-| 125 | 146 | Peachy Fall |
-| 126 | 146 | Klo |
+| 125 | 146 | Klo |
+| 126 | 146 | Peachy Fall |
 | 127 | 144 | Mr. Party |
 | 128 | 144 | Shainne Brewer |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
-| 134 | 136 | Serena Goodridge |
-| 135 | 136 | Tanner Lund |
+| 134 | 136 | Tanner Lund |
+| 135 | 136 | Serena Goodridge |
 | 136 | 135 | ĥuf |
 | 137 | 134 | Chirpy Basepiece |
 | 138 | 132 | Jessica Cagle |
@@ -201,8 +201,8 @@
 | 193 | 101 | Zesty Linkgrid |
 | 194 | 100 | Alexandra Karavias |
 | 195 | 100 | Rebecca Morris |
-| 196 | 99 | Michael Orris |
-| 197 | 99 | Anthony Bryan Riva |
+| 196 | 99 | Anthony Bryan Riva |
+| 197 | 99 | Michael Orris |
 | 198 | 98 | Shane Kalamata Platoon |
 | 199 | 98 | Duck |
 | 200 | 97 | Nubian1 |

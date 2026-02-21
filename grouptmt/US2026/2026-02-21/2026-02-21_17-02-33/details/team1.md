@@ -29,15 +29,15 @@
 | 21 | 618 | Amanda Summey Schoemer |
 | 22 | 547 | Marianne Louise West |
 | 23 | 543 | Aaron Garnett |
-| 24 | 541 | Jorge Andrade |
-| 25 | 541 | Drew Magnus |
+| 24 | 541 | Drew Magnus |
+| 25 | 541 | Jorge Andrade |
 | 26 | 521 | Hyp James NObettadanluvarat |
 | 27 | 517 | Felicia Lewis |
 | 28 | 516 | comrade fish |
 | 29 | 511 | Jen Sartain |
 | 30 | 510 | Colena Davenport |
-| 31 | 508 | Michelle Nicole |
-| 32 | 508 | Lawrence Belanger |
+| 31 | 508 | Lawrence Belanger |
+| 32 | 508 | Michelle Nicole |
 | 33 | 486 | Sevens4L |
 | 34 | 483 | Ryan Lunnin |
 | 35 | 466 | Kathi Snustad |
@@ -66,13 +66,13 @@
 | 58 | 287 | Hyper |
 | 59 | 279 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Sweet Baker |
-| 62 | 274 | Theo Pinnow |
+| 61 | 274 | Theo Pinnow |
+| 62 | 274 | Sweet Baker |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 261 | Bhelle Sumile |
-| 66 | 252 | Tdub |
-| 67 | 252 | Dena Kayy |
+| 66 | 252 | Dena Kayy |
+| 67 | 252 | Tdub |
 | 68 | 249 | Rachael |
 | 69 | 244 | Franswa |
 | 70 | 241 | Patrick Luckenbill |
@@ -129,8 +129,8 @@
 | 121 | 152 | Speedy Snapfall |
 | 122 | 152 | Jacqueline Unique |
 | 123 | 150 | Adele Rahman |
-| 124 | 149 | Arianna O'Brien |
-| 125 | 149 | Jennifer ManWarren |
+| 124 | 149 | Jennifer ManWarren |
+| 125 | 149 | Arianna O'Brien |
 | 126 | 148 | Shauntina Burke |
 | 127 | 147 | Timothy Dew |
 | 128 | 146 | Christy Jones |
@@ -227,8 +227,8 @@
 | 219 | 90 | John Kim |
 | 220 | 90 | Steve Schneider |
 | 221 | 89 | Isodor |
-| 222 | 88 | DoodleBug |
-| 223 | 88 | Larry Tilton |
+| 222 | 88 | Larry Tilton |
+| 223 | 88 | DoodleBug |
 | 224 | 88 | Sam Williams |
 | 225 | 87 | Jenny Gingrich Fuentes |
 | 226 | 86 | Steven Collins |
