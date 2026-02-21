@@ -59,10 +59,10 @@
 | 51 | 362 | Liv Whetson |
 | 52 | 360 | Ebony West-Cundiff |
 | 53 | 351 | Calista Jo Dickson |
-| 54 | 342 | Trezure Gonzalez |
-| 55 | 342 | Annie Déè |
-| 56 | 338 | Tetris Master |
-| 57 | 338 | Danielle Rhoades |
+| 54 | 342 | Annie Déè |
+| 55 | 342 | Trezure Gonzalez |
+| 56 | 338 | Danielle Rhoades |
+| 57 | 338 | Tetris Master |
 | 58 | 337 | Silly Twist |
 | 59 | 325 | Shari Garber |
 | 60 | 322 | Michelle |
@@ -116,10 +116,10 @@
 | 108 | 154 | Angela M. Fletcher |
 | 109 | 153 | Beth Ingham |
 | 110 | 152 | Shiny Zonebuilder |
-| 111 | 149 | Bea Miles |
-| 112 | 149 | Trisha Balmer |
-| 113 | 146 | Latoya Mayne |
-| 114 | 146 | Denita Mungro |
+| 111 | 149 | Trisha Balmer |
+| 112 | 149 | Bea Miles |
+| 113 | 146 | Denita Mungro |
+| 114 | 146 | Latoya Mayne |
 | 115 | 140 | Jay Horn |
 | 116 | 138 | Gumbo |
 | 117 | 135 | Nicole Flippo |
@@ -140,8 +140,8 @@
 | 132 | 122 | Terry Jo Jones |
 | 133 | 122 | Shimika Enay Wallace |
 | 134 | 121 | Danielle Allison |
-| 135 | 121 | Michael Latasha Gray |
-| 136 | 121 | Boldy Corner |
+| 135 | 121 | Boldy Corner |
+| 136 | 121 | Michael Latasha Gray |
 | 137 | 120 | Elaine Webb Graves |
 | 138 | 120 | Jessica |
 | 139 | 118 | Fancy Curver |
@@ -165,8 +165,8 @@
 | 157 | 107 | Sherry Ogden |
 | 158 | 107 | Bryan Byrd |
 | 159 | 106 | Desiree Gold |
-| 160 | 105 | Emi |
-| 161 | 105 | Hoppy Buildout |
+| 160 | 105 | Hoppy Buildout |
+| 161 | 105 | Emi |
 | 162 | 104 | Sarah Moyer |
 | 163 | 103 | Giggly Brickroll |
 | 164 | 102 | Kali Kelz Williams |

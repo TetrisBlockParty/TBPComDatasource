@@ -52,8 +52,8 @@
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
-| 47 | 170 | Leah Kutz Zirbel |
-| 48 | 170 | Girl |
+| 47 | 170 | Girl |
+| 48 | 170 | Leah Kutz Zirbel |
 | 49 | 168 | Anthony Magaraci |
 | 50 | 165 | Casey Grabner |
 | 51 | 163 | Denise Carlson |
@@ -98,8 +98,8 @@
 | 90 | 107 | Marcus Todd |
 | 91 | 106 | Jonathan Kimbrough |
 | 92 | 103 | Sam Middleton |
-| 93 | 102 | YoMomma |
-| 94 | 102 | Faja |
+| 93 | 102 | Faja |
+| 94 | 102 | YoMomma |
 | 95 | 101 | Michelle Morris |
 | 96 | 100 | Stephme310 |
 | 97 | 100 | Jeff Brian Gates |
@@ -110,7 +110,7 @@
 | 102 | 97 | TinyLegoRose |
 | 103 | 96 | Zappy Snaplink |
 | 104 | 92 | Kristin MacDonald |
-| 105 | 90 | Judy Cox |
+| 105 | 90 | Bubbly Puzzler |
 | 106 | 90 | ZeeZee |
 | 107 | 90 | Judy Cox |
 | 108 | 89 | Jeremy Steines |

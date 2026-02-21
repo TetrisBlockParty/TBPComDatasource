@@ -167,10 +167,10 @@
 | 159 | 348 | Cherica Taylor |
 | 160 | 345 | Alyssaaelena |
 | 161 | 345 | Brenda Messer |
-| 162 | 345 | Rhianna DiLorenzo |
-| 163 | 345 | Wuntayk |
-| 164 | 344 | Julie Kresal |
-| 165 | 344 | Christina Lewis-Vickers |
+| 162 | 345 | Wuntayk |
+| 163 | 345 | Rhianna DiLorenzo |
+| 164 | 344 | Christina Lewis-Vickers |
+| 165 | 344 | Julie Kresal |
 | 166 | 342 | Tracy Wise |
 | 167 | 334 | Moni Foxe |
 | 168 | 332 | TF Dyer |
