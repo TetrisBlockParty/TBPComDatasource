@@ -81,8 +81,8 @@
 | 73 | 114 | Giddy Cascade |
 | 74 | 114 | Colleen Wise |
 | 75 | 112 | Nicole Roseberry Weber |
-| 76 | 112 | Christina Graham |
-| 77 | 112 | Miguel Teixeira |
+| 76 | 112 | Miguel Teixeira |
+| 77 | 112 | Christina Graham |
 | 78 | 110 | Garcia Bailey |
 | 79 | 110 | Heidi Feurer |
 | 80 | 109 | Dandy Basegrid |

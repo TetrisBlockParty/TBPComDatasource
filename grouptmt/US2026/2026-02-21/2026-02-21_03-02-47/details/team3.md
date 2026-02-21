@@ -181,7 +181,7 @@
 | 173 | 85 | Chris Bell |
 | 174 | 85 | Kevin Russell |
 | 175 | 84 | Ava Petito |
-| 176 | 84 | Kali Kelz Williams |
+| 176 | 84 | Flashy Rumbler |
 | 177 | 84 | Amanda L Baker |
 | 178 | 84 | Kali Kelz Williams |
 | 179 | 82 | Clever Clearbuilder |

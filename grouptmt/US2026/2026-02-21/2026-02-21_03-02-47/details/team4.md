@@ -54,8 +54,8 @@
 | 46 | 145 | Edward White |
 | 47 | 140 | Shannon Ferrari |
 | 48 | 138 | BertMofo |
-| 49 | 133 | Robin Watters |
-| 50 | 133 | Jessica Bohlken |
+| 49 | 133 | Jessica Bohlken |
+| 50 | 133 | Robin Watters |
 | 51 | 132 | Jenna McGeorge |
 | 52 | 131 | Dustee Craddock-Harrison |
 | 53 | 130 | Casey Jeffcoat |

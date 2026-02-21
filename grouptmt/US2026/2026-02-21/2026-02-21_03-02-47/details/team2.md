@@ -106,8 +106,8 @@
 | 98 | 465 | Tommy Tha Boss Gunz |
 | 99 | 459 | Lisa Ongtowasruk |
 | 100 | 450 | Mari Ac |
-| 101 | 448 | Nick Jensen |
-| 102 | 448 | Jojo Momma |
+| 101 | 448 | Jojo Momma |
+| 102 | 448 | Nick Jensen |
 | 103 | 442 | Daphne Jordan |
 | 104 | 440 | Becky Weeks-Garry |
 | 105 | 440 | BYM4L |
@@ -224,16 +224,16 @@
 | 216 | 240 | Angie Marie |
 | 217 | 240 | Adam Erikson |
 | 218 | 239 | Tee Jaleesa |
-| 219 | 238 | Cheech Dta |
-| 220 | 238 | Cheery Matchzone |
+| 219 | 238 | Cheery Matchzone |
+| 220 | 238 | Cheech Dta |
 | 221 | 236 | Frisky Riserbuilder |
 | 222 | 235 | Chummy Blockbuilder |
 | 223 | 233 | Alyssia Tancredi |
 | 224 | 233 | Robin Kerby |
 | 225 | 233 | Maegan Beaule |
 | 226 | 231 | Ashley Lopez |
-| 227 | 231 | Ginger |
-| 228 | 231 | Dylan Thomason |
+| 227 | 231 | Dylan Thomason |
+| 228 | 231 | Ginger |
 | 229 | 227 | Nutty Matchline |
 | 230 | 226 | Vonceial Boone |
 | 231 | 224 | snkylnk |
