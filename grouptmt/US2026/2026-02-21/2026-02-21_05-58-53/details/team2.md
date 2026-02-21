@@ -159,8 +159,8 @@
 | 151 | 400 | Crystie Hicks |
 | 152 | 400 | Tammy Allen |
 | 153 | 397 | Ashley Guernsey-Martin |
-| 154 | 391 | Chilly Bridgepiece |
-| 155 | 391 | Steven Marshaun |
+| 154 | 391 | Steven Marshaun |
+| 155 | 391 | Chilly Bridgepiece |
 | 156 | 386 | Ashie Ann |
 | 157 | 386 | Jumpy Gridpiece |
 | 158 | 385 | Sam |
@@ -182,8 +182,8 @@
 | 174 | 345 | Brenda Messer |
 | 175 | 345 | Wuntayk |
 | 176 | 345 | Rhianna DiLorenzo |
-| 177 | 344 | Christina Lewis-Vickers |
-| 178 | 344 | Julie Kresal |
+| 177 | 344 | Julie Kresal |
+| 178 | 344 | Christina Lewis-Vickers |
 | 179 | 342 | Tracy Wise |
 | 180 | 339 | Qiana Sanders |
 | 181 | 337 | Joseph Musick |

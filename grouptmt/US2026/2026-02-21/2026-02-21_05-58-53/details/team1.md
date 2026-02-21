@@ -73,8 +73,8 @@
 | 65 | 166 | Rico Rico |
 | 66 | 163 | Chad Atchley |
 | 67 | 161 | Abbey Crespo |
-| 68 | 155 | Standia Civil |
-| 69 | 155 | David DeSantis |
+| 68 | 155 | David DeSantis |
+| 69 | 155 | Standia Civil |
 | 70 | 153 | Shiny Gridmatch |
 | 71 | 152 | Jacqueline Unique |
 | 72 | 149 | Tana |
@@ -98,8 +98,8 @@
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
-| 93 | 119 | Tater |
-| 94 | 119 | Irual Hctrab |
+| 93 | 119 | Irual Hctrab |
+| 94 | 119 | Tater |
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
@@ -111,8 +111,8 @@
 | 103 | 112 | Miguel Teixeira |
 | 104 | 112 | Nicole Roseberry Weber |
 | 105 | 111 | Agustin Duarte Orozco |
-| 106 | 110 | Garcia Bailey |
-| 107 | 110 | Heidi Feurer |
+| 106 | 110 | Heidi Feurer |
+| 107 | 110 | Garcia Bailey |
 | 108 | 108 | Tavia |
 | 109 | 107 | Jodee Woods |
 | 110 | 106 | Ash Galvan |
@@ -121,9 +121,9 @@
 | 113 | 103 | Adryane Schnase |
 | 114 | 102 | Jennifer ManWarren |
 | 115 | 100 | Tami Luce Martin |
-| 116 | 99 | Aimee Horton |
-| 117 | 99 | Melissa Bires Hussar |
-| 118 | 99 | Ty Brown |
+| 116 | 99 | Melissa Bires Hussar |
+| 117 | 99 | Ty Brown |
+| 118 | 99 | Aimee Horton |
 | 119 | 96 | Melissa Lemmon |
 | 120 | 96 | Nery Martinez |
 | 121 | 95 | Spunky Piecebuilder |
@@ -138,8 +138,8 @@
 | 130 | 89 | Mizzledagod |
 | 131 | 89 | Mara Hilker |
 | 132 | 87 | Jessi Sauer |
-| 133 | 86 | Desiree Deschaine Havee |
-| 134 | 86 | Basment Living |
+| 133 | 86 | Basment Living |
+| 134 | 86 | Desiree Deschaine Havee |
 | 135 | 85 | Steve Schneider |
 | 136 | 84 | Charla Pross-Fugleberg |
 | 137 | 84 | Yvonne Marie |
@@ -161,8 +161,8 @@
 | 153 | 79 | Chris65 |
 | 154 | 78 | Kerry Lee Powell |
 | 155 | 78 | Sam Williams |
-| 156 | 77 | Kellie |
-| 157 | 77 | Teddy Alexander |
+| 156 | 77 | Teddy Alexander |
+| 157 | 77 | Kellie |
 | 158 | 76 | Virginia Gray Floyd |
 | 159 | 76 | Archie Ware |
 | 160 | 76 | Fmp |

@@ -39,8 +39,8 @@
 | 31 | 587 | Suzieq |
 | 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
-| 34 | 546 | Snappy Glidepiece |
-| 35 | 546 | Dolores Falco |
+| 34 | 546 | Dolores Falco |
+| 35 | 546 | Snappy Glidepiece |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |
@@ -66,8 +66,8 @@
 | 58 | 360 | Ebony West-Cundiff |
 | 59 | 351 | Calista Jo Dickson |
 | 60 | 343 | Silly Twist |
-| 61 | 342 | Trezure Gonzalez |
-| 62 | 342 | Annie Déè |
+| 61 | 342 | Annie Déè |
+| 62 | 342 | Trezure Gonzalez |
 | 63 | 338 | Danielle Rhoades |
 | 64 | 332 | Chauntee Alfrey-Cardinale |
 | 65 | 325 | Shari Garber |
@@ -91,8 +91,8 @@
 | 83 | 224 | Mykal Burton |
 | 84 | 223 | Jeana Gilbert |
 | 85 | 222 | Jimmie Clemons |
-| 86 | 218 | Judi Dobson |
-| 87 | 218 | mjl574 |
+| 86 | 218 | mjl574 |
+| 87 | 218 | Judi Dobson |
 | 88 | 214 | Amy Fuller Heaton |
 | 89 | 207 | rnr junky |
 | 90 | 206 | Stephanie Blkpep Davidson |
@@ -229,8 +229,8 @@
 | 221 | 88 | RickyG |
 | 222 | 88 | Katrina Schroeder |
 | 223 | 88 | Martin Bernier |
-| 224 | 87 | Kellie Montgomery |
-| 225 | 87 | Kevin Russell |
+| 224 | 87 | Kevin Russell |
+| 225 | 87 | Kellie Montgomery |
 | 226 | 87 | Boldy Blocker |
 | 227 | 86 | Criss |
 | 228 | 86 | Michael Nowogorski |
