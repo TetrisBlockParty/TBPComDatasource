@@ -92,8 +92,8 @@
 | 84 | 162 | Patrick Luckenbill |
 | 85 | 161 | Abbey Crespo |
 | 86 | 156 | Jessie Lynn |
-| 87 | 155 | Standia Civil |
-| 88 | 155 | David DeSantis |
+| 87 | 155 | David DeSantis |
+| 88 | 155 | Standia Civil |
 | 89 | 153 | Shiny Gridmatch |
 | 90 | 152 | Jacqueline Unique |
 | 91 | 149 | Arianna O'Brien |

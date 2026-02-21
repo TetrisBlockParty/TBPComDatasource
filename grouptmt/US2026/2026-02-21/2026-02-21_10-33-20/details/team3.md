@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -137,22 +137,22 @@
 | 129 | 182 | Ashley Tookes |
 | 130 | 180 | Tessina Dewey-Mancino |
 | 131 | 179 | Daira Largen |
-| 132 | 178 | AlsoJess |
-| 133 | 178 | Khaleada McGill Banks |
+| 132 | 178 | Khaleada McGill Banks |
+| 133 | 178 | AlsoJess |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
-| 136 | 166 | Kelly Ann Child |
-| 137 | 166 | Danielle Mogg |
+| 136 | 166 | Danielle Mogg |
+| 137 | 166 | Kelly Ann Child |
 | 138 | 165 | Kali Kelz Williams |
 | 139 | 164 | rosy |
-| 140 | 163 | Giddy Twistbuilder |
-| 141 | 163 | Karon Griffin |
-| 142 | 159 | Mcathen |
+| 140 | 163 | Karon Griffin |
+| 141 | 163 | Giddy Twistbuilder |
+| 142 | 159 | Morgan Martinez |
 | 143 | 159 | Jone |
-| 144 | 159 | Morgan Martinez |
+| 144 | 159 | Mcathen |
 | 145 | 158 | Grams |
-| 146 | 157 | Nicholas Roddy |
-| 147 | 157 | Patricia Gadsden |
+| 146 | 157 | Patricia Gadsden |
+| 147 | 157 | Nicholas Roddy |
 | 148 | 156 | Joey Banks |
 | 149 | 155 | BŘŰŤİÇŨŚ |
 | 150 | 154 | Angela M. Fletcher |
@@ -165,8 +165,8 @@
 | 157 | 149 | Trisha Balmer |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Latoya Mayne |
-| 161 | 146 | Denita Mungro |
+| 160 | 146 | Denita Mungro |
+| 161 | 146 | Latoya Mayne |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Jay Horn |

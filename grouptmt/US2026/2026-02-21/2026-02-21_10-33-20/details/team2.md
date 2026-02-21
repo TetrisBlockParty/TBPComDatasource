@@ -114,8 +114,8 @@
 | 106 | 649 | Anna Edwards |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Loopy Clusterbuilder |
-| 110 | 631 | Peppy Zone |
+| 109 | 631 | Peppy Zone |
+| 110 | 631 | Loopy Clusterbuilder |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -430,10 +430,10 @@
 | 422 | 191 | Lauren Fitzgerald Thomas |
 | 423 | 191 | John Quiring |
 | 424 | 191 | Deana |
-| 425 | 190 | Layna Lyons |
-| 426 | 190 | Jessica Kaye DeAguero |
-| 427 | 188 | Seth Wrieden |
-| 428 | 188 | Michael Artis |
+| 425 | 190 | Jessica Kaye DeAguero |
+| 426 | 190 | Layna Lyons |
+| 427 | 188 | Michael Artis |
+| 428 | 188 | Seth Wrieden |
 | 429 | 188 | Justin Hines |
 | 430 | 187 | Stefanie Zonzini-Gagliardi |
 | 431 | 186 | Joshua Mullings |
@@ -458,7 +458,7 @@
 | 450 | 179 | Desiree Harris Rosch |
 | 451 | 179 | Lively Catcher |
 | 452 | 179 | Cat |
-| 453 | 179 | Lively Catcher |
+| 453 | 179 | Bette Prieto |
 | 454 | 178 | Michelle Shrum |
 | 455 | 177 | Facuetoo |
 | 456 | 177 | John |
