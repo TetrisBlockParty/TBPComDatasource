@@ -153,8 +153,8 @@
 | 145 | 807 | Rebecca Doughman |
 | 146 | 807 | Khalil Lowe |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Tacara Cummings |
-| 149 | 800 | Danielle Johnson-Chandler |
+| 148 | 800 | Danielle Johnson-Chandler |
+| 149 | 800 | Tacara Cummings |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -184,8 +184,8 @@
 | 176 | 705 | Roger Grabbit |
 | 177 | 703 | Debra Williams |
 | 178 | 700 | Vincent Petrella |
-| 179 | 700 | Rosemadder |
-| 180 | 700 | Beverly Owens |
+| 179 | 700 | Beverly Owens |
+| 180 | 700 | Rosemadder |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
 | 183 | 692 | Jennifer Casey-Kay |
@@ -278,9 +278,9 @@
 | 270 | 504 | Cherica Taylor |
 | 271 | 504 | Gene Mills |
 | 272 | 503 | Matt Johnson |
-| 273 | 502 | Magic steve |
-| 274 | 502 | Sparkles |
-| 275 | 502 | Poppy Snap |
+| 273 | 502 | Poppy Snap |
+| 274 | 502 | Magic steve |
+| 275 | 502 | Sparkles |
 | 276 | 500 | Sarah Ridenour |
 | 277 | 500 | Em Chen |
 | 278 | 499 | Alisa Lamb |
@@ -381,8 +381,8 @@
 | 373 | 384 | Johnny Yeates |
 | 374 | 384 | Mike Aprilliano |
 | 375 | 383 | Arkei Luster |
-| 376 | 382 | David Holliday |
-| 377 | 382 | KhaosLord |
+| 376 | 382 | KhaosLord |
+| 377 | 382 | David Holliday |
 | 378 | 381 | Melissa Rebbe-Lehman |
 | 379 | 381 | Bubbly Snapfit |
 | 380 | 381 | Taylor Phillips |
@@ -407,9 +407,9 @@
 | 399 | 366 | Smashanator |
 | 400 | 365 | Christina Lewis-Vickers |
 | 401 | 365 | Audrey Jones |
-| 402 | 365 | Christina Lewis-Vickers |
-| 403 | 364 | Ginger |
-| 404 | 364 | Lively Edgepiece |
+| 402 | 365 | Kayla |
+| 403 | 364 | Lively Edgepiece |
+| 404 | 364 | Ginger |
 | 405 | 364 | Shinette Dobson |
 | 406 | 363 | Happy Caster |
 | 407 | 362 | Tracy Wise |
@@ -423,7 +423,7 @@
 | 415 | 354 | Rickey Johnson |
 | 416 | 354 | Amber Brion |
 | 417 | 353 | Cheery Matchzone |
-| 418 | 352 | Katrina Weston |
+| 418 | 352 | ruth |
 | 419 | 352 | KayLynn Ogden McClelland |
 | 420 | 352 | Katrina Weston |
 | 421 | 350 | Chris Harr |

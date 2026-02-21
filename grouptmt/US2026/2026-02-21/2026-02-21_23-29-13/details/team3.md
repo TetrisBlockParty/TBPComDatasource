@@ -119,8 +119,8 @@
 | 111 | 389 | FuzzyNavel |
 | 112 | 386 | Katie Knaus |
 | 113 | 384 | Shannon Matthew Byers |
-| 114 | 378 | Tasha Schriewer |
-| 115 | 378 | Makelini Mausia |
+| 114 | 378 | Makelini Mausia |
+| 115 | 378 | Tasha Schriewer |
 | 116 | 377 | Jesse Olive |
 | 117 | 371 | Speedy Bridger |
 | 118 | 368 | Stephanie Woods |
@@ -176,8 +176,8 @@
 | 168 | 243 | Cynthia Herrmann Egland |
 | 169 | 241 | Rochelle Hazelett |
 | 170 | 240 | Jimmie Clemons |
-| 171 | 237 | Rebecca Funderburk Kirby |
-| 172 | 237 | Brandon Givens |
+| 171 | 237 | Brandon Givens |
+| 172 | 237 | Rebecca Funderburk Kirby |
 | 173 | 236 | Fallorina Susana |
 | 174 | 233 | Ray Lader |
 | 175 | 231 | Nikki Pags |
@@ -227,7 +227,7 @@
 | 219 | 182 | Raven Dudley |
 | 220 | 181 | Nicholas Roddy |
 | 221 | 180 | Loopy Fallmatch |
-| 222 | 179 | Tipsy Zonebuilder |
+| 222 | 179 | DanceLuvLaugh |
 | 223 | 179 | Daira Largen |
 | 224 | 179 | Tipsy Zonebuilder |
 | 225 | 178 | Sarajane Lokan |

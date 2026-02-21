@@ -188,9 +188,9 @@
 | 180 | 147 | Davery Spencer Adair |
 | 181 | 147 | Angela Fairbank |
 | 182 | 145 | Agustin Duarte Orozco |
-| 183 | 144 | Cranky Pattern |
+| 183 | 144 | Gary Gobin |
 | 184 | 144 | Miguel Teixeira |
-| 185 | 144 | Gary Gobin |
+| 185 | 144 | Cranky Pattern |
 | 186 | 142 | Colleen Wise |
 | 187 | 141 | Dino |
 | 188 | 141 | Blaire Bruckoff |

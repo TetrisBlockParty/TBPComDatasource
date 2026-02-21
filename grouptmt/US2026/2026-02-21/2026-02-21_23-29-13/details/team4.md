@@ -73,8 +73,8 @@
 | 65 | 391 | Ramel Rhodes |
 | 66 | 390 | Carlton Unfiltered |
 | 67 | 388 | YoMomma |
-| 68 | 376 | quicksand420 |
-| 69 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | quicksand420 |
 | 70 | 373 | Joseph Guthrie |
 | 71 | 370 | Leslie Thomas |
 | 72 | 369 | Nope Young |
@@ -287,8 +287,8 @@
 | 279 | 94 | Madison Sweere |
 | 280 | 94 | DonMega |
 | 281 | 93 | No Strings Attached Ra |
-| 282 | 92 | TRCuse |
-| 283 | 92 | Hyper Builder |
+| 282 | 92 | Hyper Builder |
+| 283 | 92 | TRCuse |
 | 284 | 91 | wombat |
 | 285 | 91 | Sunny Filler |
 | 286 | 90 | Thomas Hettenhaus |
