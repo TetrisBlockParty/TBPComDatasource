@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 339 | Mendoza Lee Christy |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
@@ -124,8 +124,8 @@
 | 116 | 202 | Shannon Matthew Byers |
 | 117 | 200 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -161,9 +161,9 @@
 | 153 | 152 | Shiny Zonebuilder |
 | 154 | 151 | MsBee |
 | 155 | 150 | Nicole Myers |
-| 156 | 149 | Trisha Balmer |
+| 156 | 149 | Bea Miles |
 | 157 | 149 | Angel Mendez |
-| 158 | 149 | Bea Miles |
+| 158 | 149 | Trisha Balmer |
 | 159 | 147 | Sashay Tapae Simpson |
 | 160 | 146 | Denita Mungro |
 | 161 | 146 | Latoya Mayne |

@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Real Ri |
-| 144 | 515 | Kaylee McCafferty |
+| 143 | 515 | Kaylee McCafferty |
+| 144 | 515 | Real Ri |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -203,8 +203,8 @@
 | 195 | 391 | Qiana Sanders |
 | 196 | 386 | Ashie Ann |
 | 197 | 386 | Macy Williams |
-| 198 | 385 | Sam |
-| 199 | 385 | Arwa Fatimah |
+| 198 | 385 | Arwa Fatimah |
+| 199 | 385 | Sam |
 | 200 | 381 | Amanda Ferrell |
 | 201 | 380 | Calandra Shaya Robinson |
 | 202 | 380 | Joshua Mandel |
@@ -240,8 +240,8 @@
 | 232 | 333 | Brittney Jean |
 | 233 | 332 | TF Dyer |
 | 234 | 331 | Shelley Thornburgh Wright |
-| 235 | 330 | Victoria Moore-Smith |
-| 236 | 330 | Taryece Gause |
+| 235 | 330 | Taryece Gause |
+| 236 | 330 | Victoria Moore-Smith |
 | 237 | 328 | Marie Boyd Faulk |
 | 238 | 327 | Danielle Simmons |
 | 239 | 323 | Juanita Lyons |
@@ -312,10 +312,10 @@
 | 304 | 270 | Christina Ashley |
 | 305 | 270 | Alexandra Weir |
 | 306 | 269 | Reece Smith |
-| 307 | 268 | Tanya Parsons |
-| 308 | 268 | Chummy Blockbuilder |
-| 309 | 266 | Mighty Shatterfit |
-| 310 | 266 | Mike Aprilliano |
+| 307 | 268 | Chummy Blockbuilder |
+| 308 | 268 | Tanya Parsons |
+| 309 | 266 | Mike Aprilliano |
+| 310 | 266 | Mighty Shatterfit |
 | 311 | 264 | Dapper Dasher |
 | 312 | 263 | Taylor Flowers |
 | 313 | 262 | Taren Cowan |
@@ -353,8 +353,8 @@
 | 345 | 242 | Lawanda Forbes |
 | 346 | 242 | Donna Chandler |
 | 347 | 241 | Sabrina Burton |
-| 348 | 240 | Angie Marie |
-| 349 | 240 | Adam Erikson |
+| 348 | 240 | Adam Erikson |
+| 349 | 240 | Angie Marie |
 | 350 | 239 | Roger Grabbit |
 | 351 | 238 | Cheery Matchzone |
 | 352 | 236 | snkylnk |
@@ -526,17 +526,17 @@
 | 518 | 157 | Ty Quarles |
 | 519 | 157 | Klee |
 | 520 | 157 | Nicol Craven |
-| 521 | 156 | Nuggets |
-| 522 | 156 | Deanna Morton |
+| 521 | 156 | Deanna Morton |
+| 522 | 156 | Nuggets |
 | 523 | 156 | Renee Bowers |
 | 524 | 156 | RetroLemur |
 | 525 | 155 | Chelle |
 | 526 | 155 | Monarca26 |
 | 527 | 155 | Cris cris |
 | 528 | 155 | Angela Murgia-Owen |
-| 529 | 154 | Tiffney Wroten |
-| 530 | 154 | Lydia Greenman |
-| 531 | 154 | Cini |
+| 529 | 154 | Lydia Greenman |
+| 530 | 154 | Cini |
+| 531 | 154 | Tiffney Wroten |
 | 532 | 154 | Bryan Werleman |
 | 533 | 154 | Lori Maring |
 | 534 | 153 | Luna |
@@ -789,8 +789,8 @@
 | 781 | 109 | Angi Harrison |
 | 782 | 109 | Jordyn Morrison |
 | 783 | 109 | Mo Shine On |
-| 784 | 109 | Nicolle Danielle |
-| 785 | 109 | hyperbole |
+| 784 | 109 | hyperbole |
+| 785 | 109 | Nicolle Danielle |
 | 786 | 109 | Stephanie Matas |
 | 787 | 108 | LML |
 | 788 | 108 | Sean Kinsey |
