@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -40,8 +40,8 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
 | 38 | 546 | Dolores Falco |
 | 39 | 546 | Snappy Glidepiece |
@@ -118,8 +118,8 @@
 | 110 | 199 | joclisa |
 | 111 | 198 | Tiff Vs Tiffany |
 | 112 | 196 | Speedy Bridger |
-| 113 | 195 | Jenny Hrndz |
-| 114 | 195 | Nicha Hooker |
+| 113 | 195 | Nicha Hooker |
+| 114 | 195 | Jenny Hrndz |
 | 115 | 194 | glichmod |
 | 116 | 193 | Clever Shiftsnap |
 | 117 | 192 | Chasity |
@@ -173,8 +173,8 @@
 | 165 | 126 | Joy Petroski |
 | 166 | 126 | Brandon Givens |
 | 167 | 126 | Bryan Byrd |
-| 168 | 125 | Shimika Enay Wallace |
-| 169 | 125 | Felicia Doxey |
+| 168 | 125 | Felicia Doxey |
+| 169 | 125 | Shimika Enay Wallace |
 | 170 | 124 | Cesar Barraza |
 | 171 | 123 | Sarajane Lokan |
 | 172 | 123 | Terry Jo Jones |
@@ -269,14 +269,14 @@
 | 261 | 87 | Stephanie Whitefield |
 | 262 | 87 | FATTY |
 | 263 | 87 | Kellie Montgomery |
-| 264 | 86 | Criss |
-| 265 | 86 | Clever Clearbuilder |
+| 264 | 86 | Clever Clearbuilder |
+| 265 | 86 | Criss |
 | 266 | 85 | Crystel b520 |
 | 267 | 85 | Chris Bell |
 | 268 | 84 | gremicx |
 | 269 | 84 | Flashy Rumbler |
-| 270 | 83 | Deseree Ewing |
-| 271 | 83 | Stephanie Zahm |
+| 270 | 83 | Stephanie Zahm |
+| 271 | 83 | Deseree Ewing |
 | 272 | 82 | Rebecca Funderburk Kirby |
 | 273 | 81 | Tina Baurdau |
 | 274 | 80 | Vixen Queen |

@@ -105,8 +105,8 @@
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Nugget |
 | 104 | 123 | Cherrish Duren |
@@ -379,11 +379,11 @@
 | 371 | 40 | Bussy Bay |
 | 372 | 40 | slurp |
 | 373 | 40 | Alexis Kelly |
-| 374 | 39 | Amber bamber |
-| 375 | 39 | Meli  Jackson |
-| 376 | 39 | Saucy Stackbuilder |
-| 377 | 39 | Ees17 |
-| 378 | 39 | Jen May |
+| 374 | 39 | Saucy Stackbuilder |
+| 375 | 39 | Amber bamber |
+| 376 | 39 | Meli  Jackson |
+| 377 | 39 | Jen May |
+| 378 | 39 | Ees17 |
 | 379 | 39 | Haruko Bullock-Brown |
 | 380 | 38 | Marco |
 | 381 | 38 | Lindsay Ball |

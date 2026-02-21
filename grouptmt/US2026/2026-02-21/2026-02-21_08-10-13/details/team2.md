@@ -174,8 +174,8 @@
 | 166 | 406 | Erin StFrancis |
 | 167 | 404 | Kiok |
 | 168 | 401 | Poppy Snap |
-| 169 | 400 | Tammy Allen |
-| 170 | 400 | Crystie Hicks |
+| 169 | 400 | Crystie Hicks |
+| 170 | 400 | Tammy Allen |
 | 171 | 397 | Ashley Guernsey-Martin |
 | 172 | 391 | Steven Marshaun |
 | 173 | 391 | Chilly Bridgepiece |
@@ -394,8 +394,8 @@
 | 386 | 198 | Angie Bolton Workman |
 | 387 | 198 | Alyssa Dean |
 | 388 | 196 | Besma Ao |
-| 389 | 196 | Cass Shirley |
-| 390 | 196 | Alexandra Reese |
+| 389 | 196 | Alexandra Reese |
+| 390 | 196 | Cass Shirley |
 | 391 | 195 | Snappy Shatterfit |
 | 392 | 195 | Emily Lyric Converse |
 | 393 | 194 | Kimberly Ann |
@@ -434,8 +434,8 @@
 | 426 | 180 | Jackie Lucas |
 | 427 | 179 | Elizabeth Pearson |
 | 428 | 179 | Desiree Harris Rosch |
-| 429 | 179 | Cat |
-| 430 | 179 | Bette Prieto |
+| 429 | 179 | Bette Prieto |
+| 430 | 179 | Cat |
 | 431 | 178 | Michelle Shrum |
 | 432 | 177 | Facuetoo |
 | 433 | 177 | Juliana Marques Do Nascimento Gordy |
@@ -563,8 +563,8 @@
 | 555 | 139 | Jackson Smith |
 | 556 | 139 | Octavio Garza |
 | 557 | 138 | Gursharan Sandhu |
-| 558 | 138 | ItsJennifer Neriss |
-| 559 | 138 | Iris Angelica Perez Cantos |
+| 558 | 138 | Iris Angelica Perez Cantos |
+| 559 | 138 | ItsJennifer Neriss |
 | 560 | 137 | Jannan Haimour |
 | 561 | 137 | Arlet Alba |
 | 562 | 136 | Ericka Marie Smith |

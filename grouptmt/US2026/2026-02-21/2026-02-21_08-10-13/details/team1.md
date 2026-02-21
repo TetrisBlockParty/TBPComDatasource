@@ -34,8 +34,8 @@
 | 26 | 406 | Christina Graham |
 | 27 | 399 | Drew Magnus |
 | 28 | 365 | Karin Gillen |
-| 29 | 348 | Stef Hu |
-| 30 | 348 | Chipper Gridlock |
+| 29 | 348 | Chipper Gridlock |
+| 30 | 348 | Stef Hu |
 | 31 | 339 | Robert Beck |
 | 32 | 301 | Zerin Graham |
 | 33 | 300 | Stephanie Zahn |
@@ -89,8 +89,8 @@
 | 81 | 153 | Shiny Gridmatch |
 | 82 | 152 | Jacqueline Unique |
 | 83 | 149 | Tana |
-| 84 | 148 | Jessie Lynn |
-| 85 | 148 | Shauntina Burke |
+| 84 | 148 | Shauntina Burke |
+| 85 | 148 | Jessie Lynn |
 | 86 | 147 | Veronica Eve |
 | 87 | 146 | Arianna O'Brien |
 | 88 | 145 | Lachelle Dillon |
