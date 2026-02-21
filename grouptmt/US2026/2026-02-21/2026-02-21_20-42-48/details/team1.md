@@ -25,8 +25,8 @@
 | 17 | 792 | LaQuetta Faith Hines |
 | 18 | 779 | Andrea Dañielle Ortiz |
 | 19 | 771 | Robert Beck |
-| 20 | 770 | Adryane Schnase |
-| 21 | 770 | Zappy Curvetile |
+| 20 | 770 | Zappy Curvetile |
+| 21 | 770 | Adryane Schnase |
 | 22 | 699 | Josie Kirt |
 | 23 | 683 | Chipper Gridlock |
 | 24 | 658 | Carolyn Smith |
@@ -140,8 +140,8 @@
 | 132 | 171 | Greg Premoe |
 | 133 | 171 | David DeSantis |
 | 134 | 170 | Veronica Eve |
-| 135 | 169 | Luciano Moreira |
-| 136 | 169 | Abbey Crespo |
+| 135 | 169 | Abbey Crespo |
+| 136 | 169 | Luciano Moreira |
 | 137 | 168 | Standia Civil |
 | 138 | 166 | Tana |
 | 139 | 166 | Rico Rico |
@@ -160,8 +160,8 @@
 | 152 | 150 | Adele Rahman |
 | 153 | 150 | David Miller |
 | 154 | 149 | Arianna O'Brien |
-| 155 | 148 | Bouncy Grid |
-| 156 | 148 | Shauntina Burke |
+| 155 | 148 | Shauntina Burke |
+| 156 | 148 | Bouncy Grid |
 | 157 | 147 | Leslie Bush Yarbrough |
 | 158 | 147 | Davery Spencer Adair |
 | 159 | 146 | Christy Jones |
@@ -276,8 +276,8 @@
 | 268 | 89 | Itspaigebro |
 | 269 | 89 | Isodor |
 | 270 | 88 | DaRascal |
-| 271 | 88 | Colleen Pinette |
-| 272 | 88 | Gewb |
+| 271 | 88 | Gewb |
+| 272 | 88 | Colleen Pinette |
 | 273 | 87 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 274 | 86 | Steven Collins |
 | 275 | 85 | Lakeisha Chapman |

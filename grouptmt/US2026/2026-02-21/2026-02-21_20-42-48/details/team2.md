@@ -216,8 +216,8 @@
 | 208 | 561 | Kristopher Miller |
 | 209 | 556 | Shavonna Haynes |
 | 210 | 553 | Leslie Ann Carter |
-| 211 | 549 | Kaylee McCafferty |
-| 212 | 549 | Charvi' Carter |
+| 211 | 549 | Charvi' Carter |
+| 212 | 549 | Kaylee McCafferty |
 | 213 | 543 | Melinda Brown |
 | 214 | 541 | SaraMarie Eveland |
 | 215 | 541 | Giggy Blocker |
@@ -230,8 +230,8 @@
 | 222 | 528 | Brownie Sheena |
 | 223 | 527 | Stacy Stickle |
 | 224 | 527 | Ryan Gunther |
-| 225 | 527 | Adira Brown |
-| 226 | 527 | Heather Causey |
+| 225 | 527 | Heather Causey |
+| 226 | 527 | Adira Brown |
 | 227 | 526 | Ashley Guernsey-Martin |
 | 228 | 525 | Desiree Anderson |
 | 229 | 525 | Tommy Tha Boss Gunz |
@@ -621,15 +621,15 @@
 | 613 | 221 | Michelle Lee |
 | 614 | 220 | Katrina Weston |
 | 615 | 220 | Sho Nuff |
-| 616 | 219 | Trista Carter |
-| 617 | 219 | Cathy Bitters |
+| 616 | 219 | Cathy Bitters |
+| 617 | 219 | Trista Carter |
 | 618 | 218 | Joy LaJeunesse |
 | 619 | 218 | Wacky Cascade |
 | 620 | 218 | Twisty Tetriblast |
 | 621 | 218 | Shylee Tilman |
 | 622 | 217 | Natasha Edmonds |
-| 623 | 217 | Layna Lyons |
-| 624 | 217 | Erika Meaux |
+| 623 | 217 | Erika Meaux |
+| 624 | 217 | Layna Lyons |
 | 625 | 217 | Dad |
 | 626 | 216 | Nerdy Riserfit |
 | 627 | 216 | Dee |
