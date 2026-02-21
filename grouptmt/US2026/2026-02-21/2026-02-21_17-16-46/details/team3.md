@@ -124,8 +124,8 @@
 | 116 | 277 | Logan Naccarato |
 | 117 | 272 | opf |
 | 118 | 267 | Rufus Lincoln |
-| 119 | 263 | mjl574 |
-| 120 | 263 | Angeline Joseph |
+| 119 | 263 | Angeline Joseph |
+| 120 | 263 | mjl574 |
 | 121 | 262 | Joe-Maggie Mathews |
 | 122 | 259 | Louise Stacy Sisson |
 | 123 | 256 | Adrian Marcel Pate |
@@ -228,8 +228,8 @@
 | 220 | 145 | Emma |
 | 221 | 145 | Bryan Byrd |
 | 222 | 142 | Jl |
-| 223 | 142 | Erica Anderson |
-| 224 | 142 | David Bardo |
+| 223 | 142 | David Bardo |
+| 224 | 142 | Erica Anderson |
 | 225 | 138 | Boldy Corner |
 | 226 | 137 | Cheryl Hinch Tenbrook |
 | 227 | 137 | Joy Petroski |
@@ -244,8 +244,8 @@
 | 236 | 128 | Jen Lewis |
 | 237 | 128 | Cesar Barraza |
 | 238 | 126 | April Matthew Kibble |
-| 239 | 125 | Shimika Enay Wallace |
-| 240 | 125 | Tasha Wesson-Torrence |
+| 239 | 125 | Tasha Wesson-Torrence |
+| 240 | 125 | Shimika Enay Wallace |
 | 241 | 125 | Felicia Doxey |
 | 242 | 124 | Funky Jumper |
 | 243 | 124 | Danielle Allison |
@@ -255,10 +255,10 @@
 | 247 | 121 | Fredd Thomas |
 | 248 | 121 | Loopy Clusterer |
 | 249 | 121 | mzcatzy |
-| 250 | 120 | Lys |
-| 251 | 120 | Eon Harris |
-| 252 | 119 | BugMansMom |
-| 253 | 119 | France Vézina |
+| 250 | 120 | Eon Harris |
+| 251 | 120 | Lys |
+| 252 | 119 | France Vézina |
+| 253 | 119 | BugMansMom |
 | 254 | 118 | Damian Reid |
 | 255 | 118 | Fancy Curver |
 | 256 | 118 | Sabrina Hardrick |

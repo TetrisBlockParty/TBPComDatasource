@@ -151,8 +151,8 @@
 | 143 | 131 | Angela Geist Jusinski |
 | 144 | 130 | Casey Jeffcoat |
 | 145 | 129 | John Brunetti |
-| 146 | 128 | Stephme310 |
-| 147 | 128 | Rio Rocha |
+| 146 | 128 | Rio Rocha |
+| 147 | 128 | Stephme310 |
 | 148 | 127 | Dreamy Snapgrid |
 | 149 | 126 | TinyLegoRose |
 | 150 | 126 | Dihcheese444 |

@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Rosemadder |
-| 129 | 700 | Beverly Owens |
+| 128 | 700 | Beverly Owens |
+| 129 | 700 | Rosemadder |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -342,7 +342,7 @@
 | 334 | 330 | Dar |
 | 335 | 329 | Chummy Blockbuilder |
 | 336 | 329 | Nicole Cannon |
-| 337 | 329 | Chummy Blockbuilder |
+| 337 | 329 | Trista Dumais |
 | 338 | 328 | Khalil Lowe |
 | 339 | 327 | Kiana Boschh |
 | 340 | 327 | Danielle Simmons |

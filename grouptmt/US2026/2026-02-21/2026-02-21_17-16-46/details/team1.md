@@ -37,8 +37,8 @@
 | 29 | 516 | comrade fish |
 | 30 | 511 | Jen Sartain |
 | 31 | 510 | Colena Davenport |
-| 32 | 508 | Michelle Nicole |
-| 33 | 508 | Lawrence Belanger |
+| 32 | 508 | Lawrence Belanger |
+| 33 | 508 | Michelle Nicole |
 | 34 | 486 | Sevens4L |
 | 35 | 483 | Ryan Lunnin |
 | 36 | 466 | Kathi Snustad |
@@ -83,12 +83,12 @@
 | 75 | 226 | Sharon Reynolds |
 | 76 | 222 | Kristen Gideon |
 | 77 | 217 | Deanna L Hermanson |
-| 78 | 213 | Lexuriuos Lifestlye |
-| 79 | 213 | Billie Dawn Sparks |
+| 78 | 213 | Billie Dawn Sparks |
+| 79 | 213 | Lexuriuos Lifestlye |
 | 80 | 212 | Mandyy Rae |
 | 81 | 212 | Jaimie Lynn |
-| 82 | 211 | Marianita Garcia |
-| 83 | 211 | june october |
+| 82 | 211 | june october |
+| 83 | 211 | Marianita Garcia |
 | 84 | 210 | Ly Phethmany |
 | 85 | 204 | Ananda Mendez |
 | 86 | 202 | Giggly Builderline |
@@ -107,10 +107,10 @@
 | 99 | 185 | Ash Galvan |
 | 100 | 182 | Spunky Piecebuilder |
 | 101 | 180 | Erez Yosef |
-| 102 | 178 | Danielle Little-Daugherty |
-| 103 | 178 | Chad Atchley |
-| 104 | 175 | Nicole Roseberry Weber |
-| 105 | 175 | Dandy Basegrid |
+| 102 | 178 | Chad Atchley |
+| 103 | 178 | Danielle Little-Daugherty |
+| 104 | 175 | Dandy Basegrid |
+| 105 | 175 | Nicole Roseberry Weber |
 | 106 | 173 | Frothy Pattern |
 | 107 | 171 | Greg Premoe |
 | 108 | 171 | David DeSantis |
@@ -133,10 +133,10 @@
 | 125 | 149 | Jennifer ManWarren |
 | 126 | 149 | Arianna O'Brien |
 | 127 | 148 | Shauntina Burke |
-| 128 | 146 | Christy Jones |
-| 129 | 146 | Irual Hctrab |
-| 130 | 145 | Angela Fairbank |
-| 131 | 145 | BigWeenie69 |
+| 128 | 146 | Irual Hctrab |
+| 129 | 146 | Christy Jones |
+| 130 | 145 | BigWeenie69 |
+| 131 | 145 | Angela Fairbank |
 | 132 | 144 | femmefatale |
 | 133 | 144 | Plucky Ziggy |
 | 134 | 144 | Michael |
@@ -158,8 +158,8 @@
 | 150 | 131 | Uhog SF |
 | 151 | 131 | Kimberly Garcia |
 | 152 | 130 | LD1 |
-| 153 | 128 | Layzietyme |
-| 154 | 128 | lil mickey |
+| 153 | 128 | lil mickey |
+| 154 | 128 | Layzietyme |
 | 155 | 128 | Barry Mac'Ockner |
 | 156 | 127 | Brave Wrecker |
 | 157 | 127 | Aimee Horton |
