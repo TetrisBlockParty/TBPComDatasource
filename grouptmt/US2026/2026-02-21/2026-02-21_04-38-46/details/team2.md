@@ -148,8 +148,8 @@
 | 140 | 397 | Destiny Cozier |
 | 141 | 394 | Tammy Allen |
 | 142 | 391 | Chilly Bridgepiece |
-| 143 | 386 | Jumpy Gridpiece |
-| 144 | 386 | Ashie Ann |
+| 143 | 386 | Ashie Ann |
+| 144 | 386 | Jumpy Gridpiece |
 | 145 | 385 | Sam |
 | 146 | 384 | Poppy Snapper |
 | 147 | 380 | Calandra Shaya Robinson |
@@ -225,8 +225,8 @@
 | 217 | 268 | Vanessa Moreno |
 | 218 | 268 | Elisheva Mizrachi |
 | 219 | 267 | Mindy Leigh Head |
-| 220 | 266 | Autumn Schaeffer |
-| 221 | 266 | Mighty Shatterfit |
+| 220 | 266 | Mighty Shatterfit |
+| 221 | 266 | Autumn Schaeffer |
 | 222 | 266 | Joyce Johnson Vaughn |
 | 223 | 263 | Taylor Flowers |
 | 224 | 263 | August Hale |

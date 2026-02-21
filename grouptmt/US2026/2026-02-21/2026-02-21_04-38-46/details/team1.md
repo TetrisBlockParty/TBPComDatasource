@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Maria C. Hernandez |
-| 25 | 281 | Nancy Green |
+| 24 | 281 | Nancy Green |
+| 25 | 281 | Maria C. Hernandez |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |
@@ -84,8 +84,8 @@
 | 76 | 132 | Davery Spencer Adair |
 | 77 | 130 | Dandy Basegrid |
 | 78 | 129 | Trina Gee |
-| 79 | 128 | Uhog SF |
-| 80 | 128 | Gary Gobin |
+| 79 | 128 | Gary Gobin |
+| 80 | 128 | Uhog SF |
 | 81 | 126 | Cece Ibarra |
 | 82 | 125 | Kristen Roles Robben |
 | 83 | 122 | Deanna L Hermanson |

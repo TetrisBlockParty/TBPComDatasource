@@ -91,8 +91,8 @@
 | 83 | 200 | mjl574 |
 | 84 | 199 | joclisa |
 | 85 | 195 | Nicha Hooker |
-| 86 | 193 | Clever Shiftsnap |
-| 87 | 193 | Shunta Jacobs |
+| 86 | 193 | Shunta Jacobs |
+| 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
 | 89 | 187 | Speedy Bridger |
 | 90 | 187 | Brandon Green |
@@ -130,8 +130,8 @@
 | 122 | 131 | Jl |
 | 123 | 131 | Emma |
 | 124 | 128 | Angel Mendez |
-| 125 | 127 | Aerian Preston |
-| 126 | 127 | Marquita Sheard |
+| 125 | 127 | Marquita Sheard |
+| 126 | 127 | Aerian Preston |
 | 127 | 126 | Dan Rob |
 | 128 | 126 | Stephanie Burtin |
 | 129 | 125 | Felicia Doxey |
