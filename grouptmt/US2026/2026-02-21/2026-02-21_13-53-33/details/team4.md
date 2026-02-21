@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -84,8 +84,8 @@
 | 76 | 185 | Andy Cabral |
 | 77 | 185 | loulou |
 | 78 | 184 | Dizzy Tiley |
-| 79 | 180 | Leah Kutz Zirbel |
-| 80 | 180 | shar |
+| 79 | 180 | shar |
+| 80 | 180 | Leah Kutz Zirbel |
 | 81 | 179 | Epic Curvetile |
 | 82 | 178 | Lori |
 | 83 | 173 | Zethra Prenisha Rahming |

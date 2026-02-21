@@ -118,8 +118,8 @@
 | 110 | 224 | Judi Dobson |
 | 111 | 224 | Mykal Burton |
 | 112 | 223 | Jeana Gilbert |
-| 113 | 222 | Nicole Flippo |
-| 114 | 222 | Jimmie Clemons |
+| 113 | 222 | Jimmie Clemons |
+| 114 | 222 | Nicole Flippo |
 | 115 | 218 | mjl574 |
 | 116 | 214 | Amy Fuller Heaton |
 | 117 | 213 | Tom Nault |
@@ -141,8 +141,8 @@
 | 133 | 191 | Giddy Twistbuilder |
 | 134 | 191 | Scott Carleton |
 | 135 | 189 | Sissy Lowery Davis |
-| 136 | 189 | Fallorina Susana |
-| 137 | 189 | Staci George Fitzsimmons |
+| 136 | 189 | Staci George Fitzsimmons |
+| 137 | 189 | Fallorina Susana |
 | 138 | 185 | Logan Naccarato |
 | 139 | 184 | Jennie Beranek |
 | 140 | 182 | Hyper Matchzone |
@@ -161,8 +161,8 @@
 | 153 | 166 | Danielle Mogg |
 | 154 | 166 | Kelly Ann Child |
 | 155 | 165 | Kali Kelz Williams |
-| 156 | 164 | rosy |
-| 157 | 164 | DanceLuvLaugh |
+| 156 | 164 | DanceLuvLaugh |
+| 157 | 164 | rosy |
 | 158 | 163 | Trisha Balmer |
 | 159 | 163 | Stephanie Hill |
 | 160 | 162 | Joe-Maggie Mathews |
@@ -185,8 +185,8 @@
 | 177 | 149 | Bea Miles |
 | 178 | 149 | Angel Mendez |
 | 179 | 147 | Desiree Gold |
-| 180 | 146 | Latoya Mayne |
-| 181 | 146 | Denita Mungro |
+| 180 | 146 | Denita Mungro |
+| 181 | 146 | Latoya Mayne |
 | 182 | 145 | Bryan Byrd |
 | 183 | 145 | Rochelle Hazelett |
 | 184 | 143 | Nikki Pags |
@@ -202,12 +202,12 @@
 | 194 | 133 | Joy Petroski |
 | 195 | 131 | Jl |
 | 196 | 129 | Lesley Perez |
-| 197 | 128 | Jen Lewis |
-| 198 | 128 | David Bardo |
+| 197 | 128 | David Bardo |
+| 198 | 128 | Jen Lewis |
 | 199 | 127 | Marquita Sheard |
 | 200 | 126 | Brandon Givens |
-| 201 | 125 | Felicia Doxey |
-| 202 | 125 | Shimika Enay Wallace |
+| 201 | 125 | Shimika Enay Wallace |
+| 202 | 125 | Felicia Doxey |
 | 203 | 124 | Cesar Barraza |
 | 204 | 123 | Sarajane Lokan |
 | 205 | 123 | Terry Jo Jones |
@@ -340,7 +340,7 @@
 | 332 | 79 | Amanda Neal |
 | 333 | 78 | El Chapa |
 | 334 | 78 | Cozy Snaplink |
-| 335 | 78 | Myriam Lapierre |
+| 335 | 78 | Clever Patterner |
 | 336 | 78 | Sabrina Mansfield |
 | 337 | 78 | Myriam Lapierre |
 | 338 | 77 | Bekah Dietrich |
