@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Colena Davenport |
-| 36 | 510 | Lawrence Belanger |
+| 35 | 510 | Lawrence Belanger |
+| 36 | 510 | Colena Davenport |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -94,8 +94,8 @@
 | 86 | 239 | Cynthia Bradley |
 | 87 | 238 | John J. Cronin |
 | 88 | 230 | Frothy Pattern |
-| 89 | 228 | Kellie |
-| 90 | 228 | Trippy Redd |
+| 89 | 228 | Trippy Redd |
+| 90 | 228 | Kellie |
 | 91 | 226 | Sharon Reynolds |
 | 92 | 224 | TSwag |
 | 93 | 222 | Kristen Gideon |
@@ -113,8 +113,8 @@
 | 105 | 192 | Shaykmia |
 | 106 | 191 | Diane Byrd |
 | 107 | 190 | Gracie |
-| 108 | 190 | Sweetts |
-| 109 | 190 | Thorne Shumate |
+| 108 | 190 | Thorne Shumate |
+| 109 | 190 | Sweetts |
 | 110 | 189 | Happy Basegrid |
 | 111 | 188 | Sam Williams |
 | 112 | 187 | Snippy Wipebuilder |
@@ -128,8 +128,8 @@
 | 120 | 176 | Basment Living |
 | 121 | 175 | Nicole Roseberry Weber |
 | 122 | 174 | Michael |
-| 123 | 171 | David DeSantis |
-| 124 | 171 | Greg Premoe |
+| 123 | 171 | Greg Premoe |
+| 124 | 171 | David DeSantis |
 | 125 | 170 | Veronica Eve |
 | 126 | 169 | Abbey Crespo |
 | 127 | 168 | Standia Civil |

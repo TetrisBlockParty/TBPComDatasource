@@ -226,8 +226,8 @@
 | 218 | 510 | Laquetta Royston |
 | 219 | 509 | Kelli Wells |
 | 220 | 505 | Jelly |
-| 221 | 504 | Cherica Taylor |
-| 222 | 504 | Gene Mills |
+| 221 | 504 | Gene Mills |
+| 222 | 504 | Cherica Taylor |
 | 223 | 503 | tejas25 |
 | 224 | 503 | AISlop |
 | 225 | 502 | Magic steve |
@@ -289,8 +289,8 @@
 | 281 | 422 | Morgue Chick |
 | 282 | 422 | Mamachelle Eisweirth |
 | 283 | 419 | Amanda Ferrell |
-| 284 | 416 | Lina Sanders |
-| 285 | 416 | Crystie Hicks |
+| 284 | 416 | Crystie Hicks |
+| 285 | 416 | Lina Sanders |
 | 286 | 414 | Emily Lyric Converse |
 | 287 | 413 | Sam |
 | 288 | 411 | Ricky Fortune |
@@ -310,8 +310,8 @@
 | 302 | 395 | Julay |
 | 303 | 393 | Taylor Flowers |
 | 304 | 391 | Qiana Sanders |
-| 305 | 391 | Chilly Bridgepiece |
-| 306 | 391 | Brenda Utphall |
+| 305 | 391 | Brenda Utphall |
+| 306 | 391 | Chilly Bridgepiece |
 | 307 | 390 | Kimberly Randesi |
 | 308 | 389 | Melissa Holsinger |
 | 309 | 389 | Kristen O'Neal |
@@ -399,8 +399,8 @@
 | 391 | 325 | bru |
 | 392 | 325 | Daniel Amos |
 | 393 | 325 | Lewis Sturgeon |
-| 394 | 323 | Briana Alexander |
-| 395 | 323 | KhaosLord |
+| 394 | 323 | KhaosLord |
+| 395 | 323 | Briana Alexander |
 | 396 | 322 | NanDa Cruzan VI |
 | 397 | 321 | Tamara Bailey |
 | 398 | 319 | Rose Fx |

@@ -30,12 +30,12 @@
 | 22 | 676 | Lucille Truesdale |
 | 23 | 647 | Robin Watters |
 | 24 | 636 | Rachel Anne |
-| 25 | 625 | GreenJeepGirl |
-| 26 | 625 | Kimyatta Cavin |
+| 25 | 625 | Kimyatta Cavin |
+| 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -89,8 +89,8 @@
 | 81 | 224 | H.R. Block |
 | 82 | 221 | Alyssa Papen |
 | 83 | 220 | Joeliecea Cobb |
-| 84 | 218 | Casey Grabner |
-| 85 | 218 | Antony Dwayne Beasley |
+| 84 | 218 | Antony Dwayne Beasley |
+| 85 | 218 | Casey Grabner |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
 | 88 | 211 | Dizzy Tiley |
@@ -106,8 +106,8 @@
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
-| 101 | 192 | Shauna Havard |
-| 102 | 192 | Crystal Carroll |
+| 101 | 192 | Crystal Carroll |
+| 102 | 192 | Shauna Havard |
 | 103 | 191 | Melvin Baird |
 | 104 | 191 | loulou |
 | 105 | 189 | Calvin Dennis |
@@ -207,9 +207,9 @@
 | 199 | 111 | Kristin MacDonald |
 | 200 | 111 | Michelle Morris |
 | 201 | 109 | Chaz |
-| 202 | 108 | Ali Ian |
+| 202 | 108 | Crystal Nicolette Moore |
 | 203 | 108 | Shane Kalamata Platoon |
-| 204 | 108 | Crystal Nicolette Moore |
+| 204 | 108 | Ali Ian |
 | 205 | 107 | Rafael Valentin |
 | 206 | 106 | Avy Absol |
 | 207 | 106 | Zappy Snaplink |
@@ -269,8 +269,8 @@
 | 261 | 88 | Savannah Overdorf |
 | 262 | 87 | Alan George LaRage |
 | 263 | 87 | Hyper Builder |
-| 264 | 86 | amy |
-| 265 | 86 | Tony Pavelka |
+| 264 | 86 | Tony Pavelka |
+| 265 | 86 | amy |
 | 266 | 86 | Destiney Carter |
 | 267 | 86 | BigSammy420 |
 | 268 | 85 | Mimi |
@@ -303,7 +303,7 @@
 | 295 | 79 | Silly Zonebuilder |
 | 296 | 78 | TRCuse |
 | 297 | 78 | Adawna Swires |
-| 298 | 78 | Steph Marie |
+| 298 | 78 | Sallie Sanborn |
 | 299 | 78 | Maureen Flanigan |
 | 300 | 78 | Steph Marie |
 | 301 | 77 | JPW |
@@ -402,7 +402,7 @@
 | 394 | 60 | Groovy Gridlock |
 | 395 | 59 | Ziggy |
 | 396 | 59 | Amy Sanford |
-| 397 | 59 | Ziggy |
+| 397 | 59 | Jasmine S Caldwell |
 | 398 | 59 | Albert Walker III |
 | 399 | 58 | Tracey Oger |
 | 400 | 58 | Angela Srubar-Norman |

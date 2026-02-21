@@ -101,8 +101,8 @@
 | 93 | 389 | Elissa S-k |
 | 94 | 386 | Katie Knaus |
 | 95 | 383 | Joey Banks |
-| 96 | 378 | Makelini Mausia |
-| 97 | 378 | Tasha Schriewer |
+| 96 | 378 | Tasha Schriewer |
+| 97 | 378 | Makelini Mausia |
 | 98 | 372 | Jessica Bechler |
 | 99 | 371 | Jesse Olive |
 | 100 | 368 | Stephanie Woods |
@@ -113,16 +113,16 @@
 | 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Sherry Ogden |
-| 109 | 323 | Ashley Raines |
+| 108 | 323 | Ashley Raines |
+| 109 | 323 | Sherry Ogden |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
 | 113 | 316 | Fancy Cascader |
 | 114 | 312 | Jay Horn |
 | 115 | 309 | Rich LeBlanc |
-| 116 | 307 | Blocked |
-| 117 | 307 | Peggi Charon |
+| 116 | 307 | Peggi Charon |
+| 117 | 307 | Blocked |
 | 118 | 300 | Sherika C. McDaniels |
 | 119 | 300 | Tessina Dewey-Mancino |
 | 120 | 293 | Poppy Splitter |
@@ -157,10 +157,10 @@
 | 149 | 222 | Jimmie Clemons |
 | 150 | 219 | Shunta Jacobs |
 | 151 | 217 | Jess Bissett |
-| 152 | 216 | Aaron Pitkin |
-| 153 | 216 | Nikki Pags |
-| 154 | 214 | Jenny Hrndz |
-| 155 | 214 | Amy Fuller Heaton |
+| 152 | 216 | Nikki Pags |
+| 153 | 216 | Aaron Pitkin |
+| 154 | 214 | Amy Fuller Heaton |
+| 155 | 214 | Jenny Hrndz |
 | 156 | 213 | Fallorina Susana |
 | 157 | 212 | Krystal Gerstberger |
 | 158 | 211 | Katrina Schroeder |
@@ -197,8 +197,8 @@
 | 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | Connie Mohler-Fair |
-| 192 | 175 | Tasha Wesson-Torrence |
-| 193 | 175 | DanceLuvLaugh |
+| 192 | 175 | DanceLuvLaugh |
+| 193 | 175 | Tasha Wesson-Torrence |
 | 194 | 174 | rosy |
 | 195 | 174 | Loopy Fallmatch |
 | 196 | 173 | Sarajane Lokan |
