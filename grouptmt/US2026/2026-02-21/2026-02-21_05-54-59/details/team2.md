@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3588 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -140,8 +140,8 @@
 | 132 | 455 | Alicia Parrish |
 | 133 | 453 | Osun Anuket Esu |
 | 134 | 450 | Giggy Blocker |
-| 135 | 448 | Jojo Momma |
-| 136 | 448 | Nick Jensen |
+| 135 | 448 | Nick Jensen |
+| 136 | 448 | Jojo Momma |
 | 137 | 442 | Daphne Jordan |
 | 138 | 440 | BYM4L |
 | 139 | 431 | Slip |
@@ -161,8 +161,8 @@
 | 153 | 397 | Ashley Guernsey-Martin |
 | 154 | 391 | Chilly Bridgepiece |
 | 155 | 391 | Steven Marshaun |
-| 156 | 386 | Jumpy Gridpiece |
-| 157 | 386 | Ashie Ann |
+| 156 | 386 | Ashie Ann |
+| 157 | 386 | Jumpy Gridpiece |
 | 158 | 385 | Sam |
 | 159 | 381 | Amanda Ferrell |
 | 160 | 380 | Calandra Shaya Robinson |

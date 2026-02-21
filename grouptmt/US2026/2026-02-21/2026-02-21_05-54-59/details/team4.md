@@ -57,8 +57,8 @@
 | 49 | 194 | Jamie Mann-Deichmann |
 | 50 | 185 | loulou |
 | 51 | 179 | Epic Curvetile |
-| 52 | 170 | Leah Kutz Zirbel |
-| 53 | 170 | Girl |
+| 52 | 170 | Girl |
+| 53 | 170 | Leah Kutz Zirbel |
 | 54 | 168 | Anthony Magaraci |
 | 55 | 167 | Dustee Craddock-Harrison |
 | 56 | 165 | Courtney Cicoria |
@@ -80,7 +80,7 @@
 | 72 | 134 | Chirpy Basepiece |
 | 73 | 134 | Jessica Bohlken |
 | 74 | 133 | Robin Watters |
-| 75 | 132 | Jenna McGeorge |
+| 75 | 132 | Degenerate |
 | 76 | 132 | Melissa Priest Sellers |
 | 77 | 132 | Jenna McGeorge |
 | 78 | 131 | Zany Twisterfit |

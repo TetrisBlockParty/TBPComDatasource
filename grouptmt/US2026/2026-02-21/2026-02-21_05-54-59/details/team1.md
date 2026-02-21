@@ -43,8 +43,8 @@
 | 35 | 244 | Franswa |
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
-| 38 | 212 | Tdub |
-| 39 | 212 | Jaimie Lynn |
+| 38 | 212 | Jaimie Lynn |
+| 39 | 212 | Tdub |
 | 40 | 211 | Deanna L Hermanson |
 | 41 | 208 | Carrie Beck Geartz |
 | 42 | 206 | Elaine Elaine |
@@ -59,8 +59,8 @@
 | 51 | 197 | Cynthia Bradley |
 | 52 | 194 | Sharon Reynolds |
 | 53 | 192 | Mandyy Rae |
-| 54 | 191 | Giggly Builderline |
-| 55 | 191 | Jazzy Framezone |
+| 54 | 191 | Jazzy Framezone |
+| 55 | 191 | Giggly Builderline |
 | 56 | 190 | Sweetts |
 | 57 | 190 | Thorne Shumate |
 | 58 | 189 | Happy Basegrid |
@@ -79,8 +79,8 @@
 | 71 | 149 | Tana |
 | 72 | 148 | Jessie Lynn |
 | 73 | 147 | Veronica Eve |
-| 74 | 145 | Lachelle Dillon |
-| 75 | 145 | BigWeenie69 |
+| 74 | 145 | BigWeenie69 |
+| 75 | 145 | Lachelle Dillon |
 | 76 | 144 | Plucky Ziggy |
 | 77 | 144 | Tanya Carpenter-Reynolds |
 | 78 | 144 | femmefatale |
@@ -122,10 +122,10 @@
 | 114 | 102 | Jennifer ManWarren |
 | 115 | 100 | Tami Luce Martin |
 | 116 | 99 | Aimee Horton |
-| 117 | 99 | Ty Brown |
-| 118 | 99 | Melissa Bires Hussar |
-| 119 | 96 | Nery Martinez |
-| 120 | 96 | Melissa Lemmon |
+| 117 | 99 | Melissa Bires Hussar |
+| 118 | 99 | Ty Brown |
+| 119 | 96 | Melissa Lemmon |
+| 120 | 96 | Nery Martinez |
 | 121 | 95 | Spunky Piecebuilder |
 | 122 | 94 | Luciano Moreira |
 | 123 | 94 | Bindi |
@@ -168,7 +168,7 @@
 | 160 | 76 | Fmp |
 | 161 | 75 | Tyler L Hunt |
 | 162 | 75 | Witty Builderfit |
-| 163 | 75 | Tyler L Hunt |
+| 163 | 75 | Fresno Beotoni |
 | 164 | 74 | Grace Joanne Agnant |
 | 165 | 74 | Eddie Dillon |
 | 166 | 74 | Owicked1 |
