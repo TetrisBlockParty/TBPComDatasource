@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 696 | Danielle Cutler |
@@ -122,8 +122,8 @@
 | 114 | 277 | joclisa |
 | 115 | 277 | Logan Naccarato |
 | 116 | 267 | Rufus Lincoln |
-| 117 | 263 | mjl574 |
-| 118 | 263 | Angeline Joseph |
+| 117 | 263 | Angeline Joseph |
+| 118 | 263 | mjl574 |
 | 119 | 262 | Joe-Maggie Mathews |
 | 120 | 259 | Louise Stacy Sisson |
 | 121 | 259 | opf |
@@ -192,8 +192,8 @@
 | 184 | 166 | Beth Ingham |
 | 185 | 166 | Betty Rosas |
 | 186 | 165 | Kali Kelz Williams |
-| 187 | 163 | Christine Trester |
-| 188 | 163 | Stephanie Hill |
+| 187 | 163 | Stephanie Hill |
+| 188 | 163 | Christine Trester |
 | 189 | 162 | Stephanie Whitefield |
 | 190 | 161 | BŘŰŤİÇŨŚ |
 | 191 | 161 | Marci Mize Fandrich |
@@ -321,8 +321,8 @@
 | 313 | 98 | Rebecca Bailey |
 | 314 | 98 | Rania Zaqout |
 | 315 | 97 | Saucy Buildout |
-| 316 | 97 | Tina Baurdau |
-| 317 | 97 | Paula Little |
+| 316 | 97 | Paula Little |
+| 317 | 97 | Tina Baurdau |
 | 318 | 96 | Oliver Neal II |
 | 319 | 96 | D3NO |
 | 320 | 96 | Christopher Woost |
@@ -370,12 +370,12 @@
 | 362 | 84 | Spunky Racker |
 | 363 | 83 | Glitzy Slide |
 | 364 | 83 | Deseree Ewing |
-| 365 | 82 | Rebecca Funderburk Kirby |
+| 365 | 82 | Justice 4 P |
 | 366 | 82 | Carrie Linkous |
-| 367 | 82 | Justice 4 P |
-| 368 | 82 | Eileen Brady Thurber |
-| 369 | 82 | lema ean |
-| 370 | 82 | Moimyzean |
+| 367 | 82 | Rebecca Funderburk Kirby |
+| 368 | 82 | lema ean |
+| 369 | 82 | Moimyzean |
+| 370 | 82 | Eileen Brady Thurber |
 | 371 | 81 | Joseph Vargas |
 | 372 | 81 | Katheline Lazo Luizaga |
 | 373 | 81 | JerseyJess |

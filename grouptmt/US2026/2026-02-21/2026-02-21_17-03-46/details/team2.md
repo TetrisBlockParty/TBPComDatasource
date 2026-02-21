@@ -133,8 +133,8 @@
 | 125 | 704 | Nerdy Clearfit |
 | 126 | 703 | YiFei |
 | 127 | 700 | Vincent Petrella |
-| 128 | 700 | Beverly Owens |
-| 129 | 700 | Rosemadder |
+| 128 | 700 | Rosemadder |
+| 129 | 700 | Beverly Owens |
 | 130 | 698 | Lola Contreras |
 | 131 | 697 | Real Ri |
 | 132 | 694 | Vo'Landa Reels |
@@ -312,8 +312,8 @@
 | 304 | 348 | Richard Horton |
 | 305 | 348 | Lawanda Forbes |
 | 306 | 347 | Cheyenne Donovan |
-| 307 | 345 | Brenda Messer |
-| 308 | 345 | Angie Bolton Workman |
+| 307 | 345 | Angie Bolton Workman |
+| 308 | 345 | Brenda Messer |
 | 309 | 345 | Rhianna DiLorenzo |
 | 310 | 344 | Ginger |
 | 311 | 344 | Glenn Cobbins |
@@ -637,8 +637,8 @@
 | 629 | 176 | Stacy Harper |
 | 630 | 176 | Dee |
 | 631 | 176 | Dandy Drop |
-| 632 | 176 | Andrew Bratton-Tomes |
-| 633 | 176 | William Hunt |
+| 632 | 176 | William Hunt |
+| 633 | 176 | Andrew Bratton-Tomes |
 | 634 | 175 | Lucero Ramirez |
 | 635 | 173 | Rachel Walka Farnam |
 | 636 | 173 | Binyah-Binyah |
@@ -663,12 +663,12 @@
 | 655 | 169 | Greenshades00 |
 | 656 | 169 | Eddie Perez |
 | 657 | 169 | Sassy Linkroll |
-| 658 | 168 | Cini |
-| 659 | 168 | Kelsey Sullivan |
+| 658 | 168 | Kelsey Sullivan |
+| 659 | 168 | Cini |
 | 660 | 168 | Nicol Craven |
-| 661 | 167 | Sabrena Yeisley |
-| 662 | 167 | Swanky Columnbuilder |
-| 663 | 167 | mshir |
+| 661 | 167 | Swanky Columnbuilder |
+| 662 | 167 | mshir |
+| 663 | 167 | Sabrena Yeisley |
 | 664 | 166 | Gemini Washington |
 | 665 | 166 | Rhonda Petro |
 | 666 | 166 | Robin L. Vial |
@@ -694,8 +694,8 @@
 | 686 | 162 | LC Hamilton |
 | 687 | 162 | Alice Samm |
 | 688 | 162 | Chirpy Snapper |
-| 689 | 161 | Perry Hubert |
-| 690 | 161 | Crystal Herndon |
+| 689 | 161 | Crystal Herndon |
+| 690 | 161 | Perry Hubert |
 | 691 | 160 | Poppy Gridder |
 | 692 | 160 | Amy Reynolds |
 | 693 | 160 | Sharice Thompson |
@@ -1001,8 +1001,8 @@
 | 993 | 116 | Carla Cervantes |
 | 994 | 116 | Slimkaite |
 | 995 | 116 | Ashley Dow |
-| 996 | 116 | Moua Ying |
-| 997 | 116 | Patrick Langford |
+| 996 | 116 | Patrick Langford |
+| 997 | 116 | Moua Ying |
 | 998 | 115 | Angela KaplaSchwahn |
 | 999 | 115 | Melissa Schwager |
 | 1000 | 115 | Crystal Heller Gonzalez |

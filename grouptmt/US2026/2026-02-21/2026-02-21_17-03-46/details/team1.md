@@ -29,15 +29,15 @@
 | 21 | 618 | Amanda Summey Schoemer |
 | 22 | 547 | Marianne Louise West |
 | 23 | 543 | Aaron Garnett |
-| 24 | 541 | Jorge Andrade |
-| 25 | 541 | Drew Magnus |
+| 24 | 541 | Drew Magnus |
+| 25 | 541 | Jorge Andrade |
 | 26 | 521 | Hyp James NObettadanluvarat |
 | 27 | 517 | Felicia Lewis |
 | 28 | 516 | comrade fish |
 | 29 | 511 | Jen Sartain |
 | 30 | 510 | Colena Davenport |
-| 31 | 508 | Michelle Nicole |
-| 32 | 508 | Lawrence Belanger |
+| 31 | 508 | Lawrence Belanger |
+| 32 | 508 | Michelle Nicole |
 | 33 | 486 | Sevens4L |
 | 34 | 483 | Ryan Lunnin |
 | 35 | 466 | Kathi Snustad |
@@ -126,8 +126,8 @@
 | 118 | 156 | Jessie Lynn |
 | 119 | 155 | Cece Ibarra |
 | 120 | 153 | Shiny Gridmatch |
-| 121 | 152 | Speedy Snapfall |
-| 122 | 152 | Jacqueline Unique |
+| 121 | 152 | Jacqueline Unique |
+| 122 | 152 | Speedy Snapfall |
 | 123 | 150 | Adele Rahman |
 | 124 | 149 | Arianna O'Brien |
 | 125 | 149 | Jennifer ManWarren |
@@ -144,9 +144,9 @@
 | 136 | 142 | Colleen Wise |
 | 137 | 141 | Blaire Bruckoff |
 | 138 | 140 | Miguel Teixeira |
-| 139 | 138 | Gary Gobin |
-| 140 | 138 | Cranky Pattern |
-| 141 | 138 | Death |
+| 139 | 138 | Cranky Pattern |
+| 140 | 138 | Death |
+| 141 | 138 | Gary Gobin |
 | 142 | 137 | Nadine Velardo |
 | 143 | 136 | Dino |
 | 144 | 135 | Cody Slav |
@@ -184,8 +184,8 @@
 | 176 | 111 | Agustin Duarte Orozco |
 | 177 | 111 | Chirpy Smasher |
 | 178 | 110 | Guest |
-| 179 | 110 | Madison Wicks |
-| 180 | 110 | Garcia Bailey |
+| 179 | 110 | Garcia Bailey |
+| 180 | 110 | Madison Wicks |
 | 181 | 109 | Witty Builderfit |
 | 182 | 109 | Nery Martinez |
 | 183 | 108 | Melissa Bires Hussar |

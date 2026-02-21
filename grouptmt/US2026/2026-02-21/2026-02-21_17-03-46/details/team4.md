@@ -68,8 +68,8 @@
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
 | 62 | 291 | Leslie Thomas |
-| 63 | 287 | KM8 |
-| 64 | 287 | Robin Getchel |
+| 63 | 287 | Robin Getchel |
+| 64 | 287 | KM8 |
 | 65 | 286 | Julian Garcia |
 | 66 | 279 | Lauren Scott |
 | 67 | 277 | KJ Pool |
@@ -98,7 +98,7 @@
 | 90 | 194 | Zany Twisterfit |
 | 91 | 191 | Jeff Brian Gates |
 | 92 | 191 | loulou |
-| 93 | 191 | Jeff Brian Gates |
+| 93 | 191 | Melvin Baird |
 | 94 | 189 | Calvin Dennis |
 | 95 | 187 | Swanky Fitline |
 | 96 | 185 | Andy Cabral |
@@ -115,9 +115,9 @@
 | 107 | 170 | Girl |
 | 108 | 167 | Denise Carlson |
 | 109 | 164 | ThaEviLJeNiuZ |
-| 110 | 160 | ZeeZee |
-| 111 | 160 | Crystal Carroll |
-| 112 | 160 | Stacey Stano |
+| 110 | 160 | Crystal Carroll |
+| 111 | 160 | Stacey Stano |
+| 112 | 160 | ZeeZee |
 | 113 | 157 | quicksand420 |
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
@@ -132,12 +132,12 @@
 | 124 | 147 | Jay28 |
 | 125 | 146 | Peachy Fall |
 | 126 | 146 | Klo |
-| 127 | 144 | Mr. Party |
-| 128 | 144 | Shainne Brewer |
+| 127 | 144 | Shainne Brewer |
+| 128 | 144 | Mr. Party |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Jenna McGeorge |
-| 132 | 140 | Shannon Ferrari |
+| 131 | 140 | Shannon Ferrari |
+| 132 | 140 | Jenna McGeorge |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Serena Goodridge |
 | 135 | 136 | Tanner Lund |
