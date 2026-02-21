@@ -291,8 +291,8 @@
 | 283 | 442 | Leah |
 | 284 | 442 | Joshua Mandel |
 | 285 | 440 | Liberty |
-| 286 | 439 | Alisa Lamb |
-| 287 | 439 | Joseph Musick |
+| 286 | 439 | Joseph Musick |
+| 287 | 439 | Alisa Lamb |
 | 288 | 439 | Nashu |
 | 289 | 437 | Arwa Fatimah |
 | 290 | 436 | Melissa Kay Gibson |
@@ -737,8 +737,8 @@
 | 729 | 184 | Tina Blessed Cage |
 | 730 | 184 | Amanda Diegel |
 | 731 | 183 | Lynzekwi |
-| 732 | 182 | Veronica Guerra |
-| 733 | 182 | Sharon Crawford |
+| 732 | 182 | Sharon Crawford |
+| 733 | 182 | Veronica Guerra |
 | 734 | 182 | Tammie Siegfried |
 | 735 | 181 | Lucero Ramirez |
 | 736 | 180 | Peter Palestino |

@@ -106,8 +106,8 @@
 | 98 | 222 | Kristen Gideon |
 | 99 | 214 | Billie Dawn Sparks |
 | 100 | 213 | Lexuriuos Lifestlye |
-| 101 | 212 | Mandyy Rae |
-| 102 | 212 | Jaimie Lynn |
+| 101 | 212 | Jaimie Lynn |
+| 102 | 212 | Mandyy Rae |
 | 103 | 211 | Marianita Garcia |
 | 104 | 210 | Ly Phethmany |
 | 105 | 210 | Seth Wesson |

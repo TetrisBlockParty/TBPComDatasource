@@ -69,8 +69,8 @@
 | 61 | 577 | Danielle Mogg |
 | 62 | 569 | Elaine Webb Graves |
 | 63 | 566 | Dan Rob |
-| 64 | 561 | Dolores Falco |
-| 65 | 561 | Rachael McClain Owens |
+| 64 | 561 | Rachael McClain Owens |
+| 65 | 561 | Dolores Falco |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
 | 68 | 552 | Katrina Schroeder |
@@ -165,8 +165,8 @@
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
 | 159 | 216 | Aaron Pitkin |
-| 160 | 214 | Amy Fuller Heaton |
-| 161 | 214 | Jenny Hrndz |
+| 160 | 214 | Jenny Hrndz |
+| 161 | 214 | Amy Fuller Heaton |
 | 162 | 212 | Krystal Gerstberger |
 | 163 | 211 | Katrina Turner |
 | 164 | 207 | rnr junky |
@@ -219,8 +219,8 @@
 | 211 | 166 | Beth Ingham |
 | 212 | 166 | Betty Rosas |
 | 213 | 165 | Kali Kelz Williams |
-| 214 | 163 | Stephanie Hill |
-| 215 | 163 | Christine Trester |
+| 214 | 163 | Christine Trester |
+| 215 | 163 | Stephanie Hill |
 | 216 | 162 | Stephanie Whitefield |
 | 217 | 161 | Irene Arreguin |
 | 218 | 161 | BŘŰŤİÇŨŚ |

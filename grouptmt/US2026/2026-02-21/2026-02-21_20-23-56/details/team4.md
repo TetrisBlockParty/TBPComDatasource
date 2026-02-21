@@ -44,8 +44,8 @@
 | 36 | 494 | Rodney McMath Jr. |
 | 37 | 488 | Anthony Bryan Riva |
 | 38 | 486 | Landon Keith Graffeo |
-| 39 | 483 | Carmethia Clemons Haslerig |
-| 40 | 483 | Kimberly Love |
+| 39 | 483 | Kimberly Love |
+| 40 | 483 | Carmethia Clemons Haslerig |
 | 41 | 470 | Carolyn Wallace |
 | 42 | 465 | Dawn Alexander |
 | 43 | 459 | Brittney Griggs |
@@ -170,7 +170,7 @@
 | 162 | 135 | Stephme310 |
 | 163 | 134 | Chirpy Basepiece |
 | 164 | 134 | Kim Klutz Olson |
-| 165 | 134 | Chirpy Basepiece |
+| 165 | 134 | Zany Shatterer |
 | 166 | 133 | Angela Geist Jusinski |
 | 167 | 132 | Melissa Priest Sellers |
 | 168 | 132 | Jessica Cagle |
@@ -313,7 +313,7 @@
 | 305 | 79 | Krs |
 | 306 | 78 | Sallie Sanborn |
 | 307 | 78 | Steph Marie |
-| 308 | 78 | Sallie Sanborn |
+| 308 | 78 | Kristina Black |
 | 309 | 78 | Adawna Swires |
 | 310 | 77 | Zippy Gridlock |
 | 311 | 77 | JPW |
@@ -409,8 +409,8 @@
 | 401 | 61 | Kelli Steinmetz |
 | 402 | 61 | Tracey Oger |
 | 403 | 60 | Amanda Maciel Clarke |
-| 404 | 60 | Kris Zulch |
-| 405 | 60 | Gdiguy |
+| 404 | 60 | Gdiguy |
+| 405 | 60 | Kris Zulch |
 | 406 | 59 | Jasmine S Caldwell |
 | 407 | 59 | Red |
 | 408 | 59 | KimoKoala |
