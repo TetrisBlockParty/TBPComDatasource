@@ -122,8 +122,8 @@
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
-| 117 | 154 | Angela M. Fletcher |
-| 118 | 154 | Louise Stacy Sisson |
+| 117 | 154 | Louise Stacy Sisson |
+| 118 | 154 | Angela M. Fletcher |
 | 119 | 153 | Beth Ingham |
 | 120 | 152 | Shiny Zonebuilder |
 | 121 | 149 | Angel Mendez |
@@ -141,8 +141,8 @@
 | 133 | 131 | Jl |
 | 134 | 127 | Marquita Sheard |
 | 135 | 127 | Aerian Preston |
-| 136 | 126 | Dan Rob |
-| 137 | 126 | Josiah Fam |
+| 136 | 126 | Josiah Fam |
+| 137 | 126 | Dan Rob |
 | 138 | 126 | Stephanie Burtin |
 | 139 | 125 | Felicia Doxey |
 | 140 | 125 | Stephanie Simpson |

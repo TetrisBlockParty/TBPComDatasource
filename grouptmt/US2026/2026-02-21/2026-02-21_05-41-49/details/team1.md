@@ -33,8 +33,8 @@
 | 25 | 294 | Jacqueline Williams |
 | 26 | 281 | Maria C. Hernandez |
 | 27 | 281 | Nancy Green |
-| 28 | 274 | Theo Pinnow |
-| 29 | 274 | Sweet Baker |
+| 28 | 274 | Sweet Baker |
+| 29 | 274 | Theo Pinnow |
 | 30 | 265 | Jennifer Cates |
 | 31 | 256 | Robert Benito |
 | 32 | 252 | Tipsy Column |
@@ -50,8 +50,8 @@
 | 42 | 205 | Trippy Redd |
 | 43 | 204 | Ly Phethmany |
 | 44 | 202 | Dee Perry |
-| 45 | 201 | Ananda Mendez |
-| 46 | 201 | Anaid Sanchez |
+| 45 | 201 | Anaid Sanchez |
+| 46 | 201 | Ananda Mendez |
 | 47 | 200 | Lexuriuos Lifestlye |
 | 48 | 198 | Happy Snapbuild |
 | 49 | 198 | Billie Dawn Sparks |
