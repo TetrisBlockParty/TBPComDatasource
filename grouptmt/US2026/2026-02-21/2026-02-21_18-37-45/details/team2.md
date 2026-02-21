@@ -193,8 +193,8 @@
 | 185 | 541 | SaraMarie Eveland |
 | 186 | 541 | Giggy Blocker |
 | 187 | 535 | Jessie McDougald |
-| 188 | 534 | Teresa Gillmore |
-| 189 | 534 | Stephen Stephen |
+| 188 | 534 | Stephen Stephen |
+| 189 | 534 | Teresa Gillmore |
 | 190 | 531 | Chris Wanner |
 | 191 | 528 | Brownie Sheena |
 | 192 | 527 | Stacy Stickle |
@@ -331,8 +331,8 @@
 | 323 | 358 | Alyssaaelena |
 | 324 | 357 | Shannon Byrd |
 | 325 | 357 | Julie Kresal |
-| 326 | 355 | Shandrica Lowe |
-| 327 | 355 | Alexandra Weir |
+| 326 | 355 | Alexandra Weir |
+| 327 | 355 | Shandrica Lowe |
 | 328 | 354 | Lawanda Forbes |
 | 329 | 354 | Brave Dropmatch |
 | 330 | 354 | Tracy Wise |
@@ -606,8 +606,8 @@
 | 598 | 204 | Brenna Ann |
 | 599 | 203 | Alyssa Dean |
 | 600 | 202 | Layna Lyons |
-| 601 | 201 | Matthew Turner |
-| 602 | 201 | Michael Artis |
+| 601 | 201 | Michael Artis |
+| 602 | 201 | Matthew Turner |
 | 603 | 201 | Lakeela Wise |
 | 604 | 201 | Moua Ying |
 | 605 | 200 | Sara Silvernail-Kay |
@@ -702,7 +702,7 @@
 | 694 | 177 | Ryan Meilleur |
 | 695 | 176 | Crafty Brickline |
 | 696 | 176 | Dandy Drop |
-| 697 | 176 | Crafty Brickline |
+| 697 | 176 | Andrew Bratton-Tomes |
 | 698 | 176 | William Hunt |
 | 699 | 176 | Jennifer Malloy - Cardy |
 | 700 | 176 | Dee |
@@ -850,10 +850,10 @@
 | 842 | 146 | Dizzy Clicker |
 | 843 | 146 | Carrie Pike |
 | 844 | 146 | Sherry Aguinaga |
-| 845 | 145 | Chareen Lauritzen |
-| 846 | 145 | Chilly Rollblock |
+| 845 | 145 | Scott Rackley |
+| 846 | 145 | Chareen Lauritzen |
 | 847 | 145 | Lively Piecebuilder |
-| 848 | 145 | Scott Rackley |
+| 848 | 145 | Chilly Rollblock |
 | 849 | 145 | Andre Love |
 | 850 | 145 | Anastacio Hernandez |
 | 851 | 144 | Dandy Combo |

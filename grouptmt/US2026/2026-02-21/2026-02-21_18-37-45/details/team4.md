@@ -153,8 +153,8 @@
 | 145 | 137 | Roger Coulter |
 | 146 | 136 | Serena Goodridge |
 | 147 | 136 | Tanner Lund |
-| 148 | 135 | ĥuf |
-| 149 | 135 | Victoria Faniel |
+| 148 | 135 | Victoria Faniel |
+| 149 | 135 | ĥuf |
 | 150 | 134 | Chirpy Basepiece |
 | 151 | 134 | Zany Shatterer |
 | 152 | 132 | Degenerate |

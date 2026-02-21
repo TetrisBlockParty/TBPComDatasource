@@ -109,16 +109,16 @@
 | 101 | 348 | Joey Banks |
 | 102 | 342 | Tiff Vs Tiffany |
 | 103 | 332 | Chauntee Alfrey-Cardinale |
-| 104 | 323 | Sherry Ogden |
-| 105 | 323 | Ashley Raines |
+| 104 | 323 | Ashley Raines |
+| 105 | 323 | Sherry Ogden |
 | 106 | 321 | Dapper Snap |
 | 107 | 320 | Or Reznitsky |
 | 108 | 318 | Chasity |
 | 109 | 316 | Fancy Cascader |
-| 110 | 309 | CeceGeGe |
-| 111 | 309 | Rich LeBlanc |
-| 112 | 307 | Peggi Charon |
-| 113 | 307 | Blocked |
+| 110 | 309 | Rich LeBlanc |
+| 111 | 309 | CeceGeGe |
+| 112 | 307 | Blocked |
+| 113 | 307 | Peggi Charon |
 | 114 | 304 | Mykal Burton |
 | 115 | 300 | Sherika C. McDaniels |
 | 116 | 300 | Tessina Dewey-Mancino |
@@ -269,9 +269,9 @@
 | 261 | 125 | Felicia Doxey |
 | 262 | 125 | Shimika Enay Wallace |
 | 263 | 124 | Funky Jumper |
-| 264 | 123 | Michael Latasha Gray |
-| 265 | 123 | France Vézina |
-| 266 | 123 | Rachel |
+| 264 | 123 | France Vézina |
+| 265 | 123 | Rachel |
+| 266 | 123 | Michael Latasha Gray |
 | 267 | 122 | Eon Harris |
 | 268 | 122 | BabyTonj Evans |
 | 269 | 122 | Giggly Brickroll |
@@ -355,7 +355,7 @@
 | 347 | 93 | Kevin Russell |
 | 348 | 93 | Tiffany Ford |
 | 349 | 93 | Martin Bernier |
-| 350 | 92 | Jackie-Lynne Goertzen |
+| 350 | 92 | Melanie Sherwood |
 | 351 | 92 | Jennifer Caputo |
 | 352 | 92 | Trice Thomas |
 | 353 | 92 | Jackie-Lynne Goertzen |

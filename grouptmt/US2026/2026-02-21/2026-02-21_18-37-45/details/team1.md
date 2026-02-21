@@ -33,8 +33,8 @@
 | 25 | 565 | Jennifer Cates |
 | 26 | 547 | Marianne Louise West |
 | 27 | 543 | Aaron Garnett |
-| 28 | 541 | Drew Magnus |
-| 29 | 541 | Jorge Andrade |
+| 28 | 541 | Jorge Andrade |
+| 29 | 541 | Drew Magnus |
 | 30 | 521 | Hyp James NObettadanluvarat |
 | 31 | 517 | Felicia Lewis |
 | 32 | 516 | comrade fish |
@@ -137,28 +137,28 @@
 | 129 | 155 | Cece Ibarra |
 | 130 | 154 | Irual Hctrab |
 | 131 | 153 | Shiny Gridmatch |
-| 132 | 152 | Jacqueline Unique |
-| 133 | 152 | Speedy Snapfall |
-| 134 | 150 | Trina Gee |
-| 135 | 150 | Adele Rahman |
+| 132 | 152 | Speedy Snapfall |
+| 133 | 152 | Jacqueline Unique |
+| 134 | 150 | Adele Rahman |
+| 135 | 150 | Trina Gee |
 | 136 | 149 | Jennifer ManWarren |
 | 137 | 149 | Arianna O'Brien |
 | 138 | 148 | Shauntina Burke |
 | 139 | 147 | Leslie Bush Yarbrough |
 | 140 | 146 | Christy Jones |
-| 141 | 145 | Angela Fairbank |
-| 142 | 145 | BigWeenie69 |
+| 141 | 145 | BigWeenie69 |
+| 142 | 145 | Angela Fairbank |
 | 143 | 145 | Agustin Duarte Orozco |
 | 144 | 144 | Gary Gobin |
-| 145 | 144 | Plucky Ziggy |
-| 146 | 144 | femmefatale |
-| 147 | 144 | Bouncy Grid |
+| 145 | 144 | Bouncy Grid |
+| 146 | 144 | Plucky Ziggy |
+| 147 | 144 | femmefatale |
 | 148 | 143 | Sarah Marie |
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Cranky Pattern |
-| 153 | 138 | Death |
+| 152 | 138 | Death |
+| 153 | 138 | Cranky Pattern |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
