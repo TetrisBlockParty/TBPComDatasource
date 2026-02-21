@@ -80,7 +80,7 @@
 | 72 | 134 | Jessica Bohlken |
 | 73 | 134 | Chirpy Basepiece |
 | 74 | 133 | Robin Watters |
-| 75 | 132 | Degenerate |
+| 75 | 132 | Jenna McGeorge |
 | 76 | 132 | Melissa Priest Sellers |
 | 77 | 132 | Degenerate |
 | 78 | 131 | Zany Twisterfit |
@@ -93,8 +93,8 @@
 | 85 | 129 | Landon Keith Graffeo |
 | 86 | 126 | Tanner Lund |
 | 87 | 125 | Lauren Scott |
-| 88 | 123 | Nugget |
-| 89 | 123 | Bubbly Puzzler |
+| 88 | 123 | Bubbly Puzzler |
+| 89 | 123 | Nugget |
 | 90 | 122 | Sherri |
 | 91 | 122 | Shelly Chandler |
 | 92 | 121 | 030Synner |

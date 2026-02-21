@@ -53,8 +53,8 @@
 | 45 | 444 | Nate Burnside |
 | 46 | 416 | Fancy Slam |
 | 47 | 390 | Kristie |
-| 48 | 387 | Nerdy Spinblock |
-| 49 | 387 | Cherry Parker |
+| 48 | 387 | Cherry Parker |
+| 49 | 387 | Nerdy Spinblock |
 | 50 | 385 | Brandon Green |
 | 51 | 378 | Christine Filson |
 | 52 | 372 | Patty Allen |

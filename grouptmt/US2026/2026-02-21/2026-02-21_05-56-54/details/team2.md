@@ -89,8 +89,8 @@
 | 81 | 658 | Pacynthia Williams |
 | 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Stephanie Chapman |
-| 85 | 649 | Anna Edwards |
+| 84 | 649 | Anna Edwards |
+| 85 | 649 | Stephanie Chapman |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 608 | John Bednarik |
 | 88 | 601 | Nancy Reid |
@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Charvi' Carter |
-| 101 | 540 | Thomas Hedrick |
+| 100 | 540 | Thomas Hedrick |
+| 101 | 540 | Charvi' Carter |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 534 | Poppy Snapper |
 | 104 | 531 | Chris Wanner |
@@ -156,8 +156,8 @@
 | 148 | 409 | Sparkles |
 | 149 | 406 | Erin StFrancis |
 | 150 | 401 | Poppy Snap |
-| 151 | 400 | Crystie Hicks |
-| 152 | 400 | Tammy Allen |
+| 151 | 400 | Tammy Allen |
+| 152 | 400 | Crystie Hicks |
 | 153 | 397 | Ashley Guernsey-Martin |
 | 154 | 391 | Chilly Bridgepiece |
 | 155 | 391 | Steven Marshaun |
@@ -167,8 +167,8 @@
 | 159 | 381 | Amanda Ferrell |
 | 160 | 380 | Calandra Shaya Robinson |
 | 161 | 380 | Joshua Mandel |
-| 162 | 377 | Liberty |
-| 163 | 377 | Roy Salyer |
+| 162 | 377 | Roy Salyer |
+| 163 | 377 | Liberty |
 | 164 | 365 | April Dawn Gussler |
 | 165 | 364 | Shinette Dobson |
 | 166 | 363 | William Meussner |
@@ -592,9 +592,9 @@
 | 584 | 119 | Ericka Marie Smith |
 | 585 | 118 | Amanda Perez |
 | 586 | 118 | Emilie Victoria Cordero |
-| 587 | 118 | Raffaella Dowling |
-| 588 | 118 | Wha |
-| 589 | 118 | Starrs Dcct |
+| 587 | 118 | Starrs Dcct |
+| 588 | 118 | Raffaella Dowling |
+| 589 | 118 | Wha |
 | 590 | 117 | Myleaha Holley |
 | 591 | 117 | BeaNzMaMa |
 | 592 | 117 | Cody Kelsey |
@@ -628,7 +628,7 @@
 | 620 | 112 | Goofy Catcher |
 | 621 | 111 | Crystal Heller Gonzalez |
 | 622 | 111 | Lively Edgepiece |
-| 623 | 111 | Crystal Heller Gonzalez |
+| 623 | 111 | April Bennett |
 | 624 | 111 | Ashley M. Davis |
 | 625 | 111 | Jroc |
 | 626 | 110 | Cranky Pattern |
