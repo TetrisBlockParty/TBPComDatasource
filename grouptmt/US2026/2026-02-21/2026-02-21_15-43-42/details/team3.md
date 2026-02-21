@@ -26,8 +26,8 @@
 | 18 | 1297 | Shelby Michelle |
 | 19 | 1177 | Clever Roll |
 | 20 | 1152 | Ashley Kiara |
-| 21 | 1151 | Rachel Bowers |
-| 22 | 1151 | Jennifer Willis |
+| 21 | 1151 | Jennifer Willis |
+| 22 | 1151 | Rachel Bowers |
 | 23 | 1140 | Nerdy Spinblock |
 | 24 | 1119 | Lauren d |
 | 25 | 1059 | Lori Barnaby |
@@ -114,8 +114,8 @@
 | 106 | 293 | Poppy Splitter |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 264 | Tiff Vs Tiffany |
-| 109 | 263 | Angeline Joseph |
-| 110 | 263 | mjl574 |
+| 109 | 263 | mjl574 |
+| 110 | 263 | Angeline Joseph |
 | 111 | 262 | Joe-Maggie Mathews |
 | 112 | 259 | opf |
 | 113 | 256 | ren |
@@ -153,12 +153,12 @@
 | 145 | 195 | Nicha Hooker |
 | 146 | 194 | glichmod |
 | 147 | 193 | Stephanie Burtin |
-| 148 | 193 | Duane Bright |
-| 149 | 193 | Clever Shiftsnap |
+| 148 | 193 | Clever Shiftsnap |
+| 149 | 193 | Duane Bright |
 | 150 | 191 | Giddy Twistbuilder |
 | 151 | 191 | Scott Carleton |
-| 152 | 189 | Staci George Fitzsimmons |
-| 153 | 189 | Sissy Lowery Davis |
+| 152 | 189 | Sissy Lowery Davis |
+| 153 | 189 | Staci George Fitzsimmons |
 | 154 | 189 | Fallorina Susana |
 | 155 | 188 | Angie Harper |
 | 156 | 184 | Jennie Beranek |
@@ -182,11 +182,11 @@
 | 174 | 166 | Kelly Ann Child |
 | 175 | 165 | Kali Kelz Williams |
 | 176 | 163 | Stephanie Hill |
-| 177 | 163 | Sashay Tapae Simpson |
-| 178 | 163 | Trisha Balmer |
+| 177 | 163 | Trisha Balmer |
+| 178 | 163 | Sashay Tapae Simpson |
 | 179 | 162 | Stephanie Whitefield |
-| 180 | 161 | Nikki Pags |
-| 181 | 161 | BŘŰŤİÇŨŚ |
+| 180 | 161 | BŘŰŤİÇŨŚ |
+| 181 | 161 | Nikki Pags |
 | 182 | 160 | Tiffany Davie |
 | 183 | 160 | Sarajane Lokan |
 | 184 | 159 | Jone |
@@ -195,8 +195,8 @@
 | 187 | 157 | Nicholas Roddy |
 | 188 | 156 | Bea Miles |
 | 189 | 153 | Beth Ingham |
-| 190 | 152 | Shiny Zonebuilder |
-| 191 | 152 | Katrina E Jelks |
+| 190 | 152 | Katrina E Jelks |
+| 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
 | 193 | 151 | Brenda Lee Vander Molen |
 | 194 | 151 | MsBee |
@@ -205,17 +205,17 @@
 | 197 | 149 | Desiree Gold |
 | 198 | 149 | Angel Mendez |
 | 199 | 146 | Latoya Mayne |
-| 200 | 146 | Carrie Huskey |
+| 200 | 146 | Denita Mungro |
 | 201 | 146 | Ashley Lynn Marchese |
-| 202 | 146 | Denita Mungro |
+| 202 | 146 | Carrie Huskey |
 | 203 | 145 | Bryan Byrd |
 | 204 | 145 | Emma |
 | 205 | 145 | Rochelle Hazelett |
 | 206 | 142 | Erica Anderson |
 | 207 | 141 | Loopy Fallzone |
 | 208 | 140 | Gumbo |
-| 209 | 136 | Boldy Corner |
-| 210 | 136 | Joy Petroski |
+| 209 | 136 | Joy Petroski |
+| 210 | 136 | Boldy Corner |
 | 211 | 135 | Cheryl Hinch Tenbrook |
 | 212 | 134 | Cozy Snaplink |
 | 213 | 133 | LaNette Morgan |

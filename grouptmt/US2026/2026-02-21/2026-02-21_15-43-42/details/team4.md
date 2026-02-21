@@ -26,8 +26,8 @@
 | 18 | 625 | GreenJeepGirl |
 | 19 | 608 | Denny Shives |
 | 20 | 606 | Rachel Anne |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -117,8 +117,8 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Dana Scott |
-| 113 | 151 | Bethany Ison |
+| 112 | 151 | Bethany Ison |
+| 113 | 151 | Dana Scott |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | Jay28 |
 | 116 | 147 | 030Synner |
@@ -141,11 +141,11 @@
 | 133 | 132 | Melissa Priest Sellers |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Chair |
 | 143 | 123 | Angela Geist Jusinski |
