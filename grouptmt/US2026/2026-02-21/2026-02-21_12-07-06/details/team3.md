@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -44,8 +44,8 @@
 | 36 | 622 | River |
 | 37 | 613 | Amber Hughes |
 | 38 | 598 | Jennifer Willis |
-| 39 | 587 | Danielle Becker |
-| 40 | 587 | Suzieq |
+| 39 | 587 | Suzieq |
+| 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
 | 43 | 546 | Snappy Glidepiece |
@@ -146,8 +146,8 @@
 | 138 | 166 | Betty Rosas |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
-| 141 | 164 | rosy |
-| 142 | 164 | DanceLuvLaugh |
+| 141 | 164 | DanceLuvLaugh |
+| 142 | 164 | rosy |
 | 143 | 163 | Raven Dudley |
 | 144 | 163 | Karon Griffin |
 | 145 | 163 | Stephanie Hill |

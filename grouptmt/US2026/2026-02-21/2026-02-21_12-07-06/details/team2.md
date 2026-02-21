@@ -118,8 +118,8 @@
 | 110 | 649 | Anna Edwards |
 | 111 | 641 | Ricardo Burton |
 | 112 | 632 | Beth |
-| 113 | 631 | Peppy Zone |
-| 114 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Loopy Clusterbuilder |
+| 114 | 631 | Peppy Zone |
 | 115 | 620 | BYM4L |
 | 116 | 608 | Sommer Shope |
 | 117 | 608 | John Bednarik |
@@ -252,8 +252,8 @@
 | 244 | 333 | Brittney Jean |
 | 245 | 332 | TF Dyer |
 | 246 | 331 | Shelley Thornburgh Wright |
-| 247 | 330 | Victoria Moore-Smith |
-| 248 | 330 | Taryece Gause |
+| 247 | 330 | Taryece Gause |
+| 248 | 330 | Victoria Moore-Smith |
 | 249 | 329 | Christina Ashley |
 | 250 | 328 | Marie Boyd Faulk |
 | 251 | 327 | Danielle Simmons |
@@ -310,8 +310,8 @@
 | 302 | 276 | Lindsey Leigh |
 | 303 | 276 | Vonceial Boone |
 | 304 | 275 | Cheeky Brickmatch |
-| 305 | 275 | Ann Matzkanin |
-| 306 | 275 | Shiny Rollzone |
+| 305 | 275 | Shiny Rollzone |
+| 306 | 275 | Ann Matzkanin |
 | 307 | 274 | Jamie Stevey |
 | 308 | 274 | Melissa Holsinger |
 | 309 | 274 | Lonne Emade |
@@ -324,8 +324,8 @@
 | 316 | 271 | Toni Lynn |
 | 317 | 270 | Angela Lynn |
 | 318 | 269 | Reece Smith |
-| 319 | 268 | Tanya Parsons |
-| 320 | 268 | Chummy Blockbuilder |
+| 319 | 268 | Chummy Blockbuilder |
+| 320 | 268 | Tanya Parsons |
 | 321 | 266 | Mike Aprilliano |
 | 322 | 266 | Mighty Shatterfit |
 | 323 | 264 | Dapper Dasher |
@@ -366,8 +366,8 @@
 | 358 | 245 | Sanaa Nounoussa |
 | 359 | 244 | Aimee Byrom |
 | 360 | 244 | Byung Bae Park |
-| 361 | 242 | Lawanda Forbes |
-| 362 | 242 | Donna Chandler |
+| 361 | 242 | Donna Chandler |
+| 362 | 242 | Lawanda Forbes |
 | 363 | 241 | Sabrina Burton |
 | 364 | 240 | Adam Erikson |
 | 365 | 240 | Angie Marie |
@@ -566,8 +566,8 @@
 | 558 | 154 | Bryan Werleman |
 | 559 | 154 | Lori Maring |
 | 560 | 153 | Luna |
-| 561 | 153 | Leslie |
-| 562 | 153 | Poppy Gridder |
+| 561 | 153 | Poppy Gridder |
+| 562 | 153 | Leslie |
 | 563 | 152 | James Smith |
 | 564 | 152 | Mr. Street Stack |
 | 565 | 152 | Kristin King |
