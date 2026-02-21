@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -74,8 +74,8 @@
 | 66 | 674 | Dannette Goldberg-Richards |
 | 67 | 672 | Wendy Harder Gage |
 | 68 | 664 | E_Money04 |
-| 69 | 658 | Vistabrat |
-| 70 | 658 | Dreamy Blast |
+| 69 | 658 | Dreamy Blast |
+| 70 | 658 | Vistabrat |
 | 71 | 658 | Pacynthia Williams |
 | 72 | 649 | Stephanie Chapman |
 | 73 | 649 | Anna Edwards |
@@ -130,8 +130,8 @@
 | 122 | 402 | Sparkles |
 | 123 | 401 | Poppy Snap |
 | 124 | 400 | Crystie Hicks |
-| 125 | 397 | Destiny Cozier |
-| 126 | 397 | Ashley Guernsey-Martin |
+| 125 | 397 | Ashley Guernsey-Martin |
+| 126 | 397 | Destiny Cozier |
 | 127 | 391 | Chilly Bridgepiece |
 | 128 | 390 | Dustin Rains |
 | 129 | 386 | Osun Anuket Esu |
@@ -206,8 +206,8 @@
 | 198 | 271 | Toni Lynn |
 | 199 | 268 | Vanessa Moreno |
 | 200 | 267 | Mindy Leigh Head |
-| 201 | 266 | Autumn Schaeffer |
-| 202 | 266 | Mighty Shatterfit |
+| 201 | 266 | Mighty Shatterfit |
+| 202 | 266 | Autumn Schaeffer |
 | 203 | 266 | Joyce Johnson Vaughn |
 | 204 | 263 | August Hale |
 | 205 | 263 | Alexandra Weir |

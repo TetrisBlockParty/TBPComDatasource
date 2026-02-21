@@ -46,8 +46,8 @@
 | 38 | 185 | loulou |
 | 39 | 179 | Epic Curvetile |
 | 40 | 174 | Jamie Mann-Deichmann |
-| 41 | 170 | Leah Kutz Zirbel |
-| 42 | 170 | Girl |
+| 41 | 170 | Girl |
+| 42 | 170 | Leah Kutz Zirbel |
 | 43 | 168 | Anthony Magaraci |
 | 44 | 153 | Mike Solo |
 | 45 | 153 | Jae Job |

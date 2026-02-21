@@ -48,8 +48,8 @@
 | 40 | 194 | Sharon Reynolds |
 | 41 | 192 | Mandyy Rae |
 | 42 | 191 | Jazzy Framezone |
-| 43 | 190 | Sweetts |
-| 44 | 190 | Thorne Shumate |
+| 43 | 190 | Thorne Shumate |
+| 44 | 190 | Sweetts |
 | 45 | 189 | Happy Basegrid |
 | 46 | 185 | Karin Gillen |
 | 47 | 173 | Frothy Pattern |
@@ -75,8 +75,8 @@
 | 67 | 135 | Sarah Marie |
 | 68 | 133 | Brandi Huntington |
 | 69 | 132 | Davery Spencer Adair |
-| 70 | 128 | Uhog SF |
-| 71 | 128 | Gary Gobin |
+| 70 | 128 | Gary Gobin |
+| 71 | 128 | Uhog SF |
 | 72 | 126 | Cece Ibarra |
 | 73 | 125 | Rico Rico |
 | 74 | 124 | Trina Gee |
@@ -96,8 +96,8 @@
 | 88 | 109 | Dandy Basegrid |
 | 89 | 108 | Tavia |
 | 90 | 107 | Jodee Woods |
-| 91 | 105 | Flashy Rotator |
-| 92 | 105 | Barry Mac'Ockner |
+| 91 | 105 | Barry Mac'Ockner |
+| 92 | 105 | Flashy Rotator |
 | 93 | 103 | Ash Galvan |
 | 94 | 102 | Jennifer ManWarren |
 | 95 | 101 | Agustin Duarte Orozco |
@@ -115,8 +115,8 @@
 | 107 | 90 | Madison Wicks |
 | 108 | 90 | TSwag |
 | 109 | 87 | Jessi Sauer |
-| 110 | 86 | Desiree Deschaine Havee |
-| 111 | 86 | Basment Living |
+| 110 | 86 | Basment Living |
+| 111 | 86 | Desiree Deschaine Havee |
 | 112 | 85 | Steve Schneider |
 | 113 | 84 | Charla Pross-Fugleberg |
 | 114 | 84 | Yvonne Marie |

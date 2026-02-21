@@ -87,8 +87,8 @@
 | 79 | 200 | mjl574 |
 | 80 | 199 | joclisa |
 | 81 | 195 | Nicha Hooker |
-| 82 | 193 | Shunta Jacobs |
-| 83 | 193 | Clever Shiftsnap |
+| 82 | 193 | Clever Shiftsnap |
+| 83 | 193 | Shunta Jacobs |
 | 84 | 192 | Chasity |
 | 85 | 187 | Speedy Bridger |
 | 86 | 185 | Danielle Cutler |
@@ -120,8 +120,8 @@
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
-| 115 | 126 | Brandon Green |
-| 116 | 126 | Dan Rob |
+| 115 | 126 | Dan Rob |
+| 116 | 126 | Brandon Green |
 | 117 | 125 | BŘŰŤİÇŨŚ |
 | 118 | 125 | Felicia Doxey |
 | 119 | 125 | Stephanie Simpson |
@@ -261,8 +261,8 @@
 | 253 | 65 | Eunhye Lee |
 | 254 | 65 | mzcatzy |
 | 255 | 64 | Loony Slider |
-| 256 | 64 | Saucy Buildout |
-| 257 | 64 | France Vézina |
+| 256 | 64 | France Vézina |
+| 257 | 64 | Saucy Buildout |
 | 258 | 63 | Eileen Brady Thurber |
 | 259 | 63 | BugMansMom |
 | 260 | 63 | Hasty Wipebuilder |
