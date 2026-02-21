@@ -103,8 +103,8 @@
 | 95 | 223 | shar |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Casey Grabner |
-| 99 | 218 | Denise Carlson |
+| 98 | 218 | Denise Carlson |
+| 99 | 218 | Casey Grabner |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
@@ -174,12 +174,12 @@
 | 166 | 136 | Tanner Lund |
 | 167 | 135 | AyeKay |
 | 168 | 135 | Victoria Faniel |
-| 169 | 134 | Chirpy Basepiece |
-| 170 | 134 | Kim Klutz Olson |
+| 169 | 134 | Kim Klutz Olson |
+| 170 | 134 | Chirpy Basepiece |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
-| 173 | 132 | Degenerate |
-| 174 | 132 | Melissa Priest Sellers |
+| 173 | 132 | Melissa Priest Sellers |
+| 174 | 132 | Degenerate |
 | 175 | 132 | Jessica Cagle |
 | 176 | 131 | TinyLegoRose |
 | 177 | 131 | Michelle Morris |
@@ -345,8 +345,8 @@
 | 337 | 74 | Dizzy Matchzone |
 | 338 | 74 | Matt Gooder |
 | 339 | 74 | Alee Marie |
-| 340 | 73 | Jacob Campbell |
-| 341 | 73 | Rheanda Weaskus |
+| 340 | 73 | Rheanda Weaskus |
+| 341 | 73 | Jacob Campbell |
 | 342 | 72 | Brave Spinbuilder |
 | 343 | 72 | Jackson Karen |
 | 344 | 72 | Angel Raya |

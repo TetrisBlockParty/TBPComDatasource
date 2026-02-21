@@ -59,8 +59,8 @@
 | 51 | 702 | Stephanie Allmon |
 | 52 | 621 | Cherry Parker |
 | 53 | 618 | MissTaylor |
-| 54 | 614 | Jamie Furr |
-| 55 | 614 | Gracie |
+| 54 | 614 | Gracie |
+| 55 | 614 | Jamie Furr |
 | 56 | 613 | Amber Hughes |
 | 57 | 604 | Danielle Becker |
 | 58 | 597 | Elaine Webb Graves |
@@ -144,8 +144,8 @@
 | 136 | 278 | Rufus Lincoln |
 | 137 | 276 | Crimson |
 | 138 | 272 | opf |
-| 139 | 271 | Leah Barnett |
-| 140 | 271 | Ashley Muncey |
+| 139 | 271 | Ashley Muncey |
+| 140 | 271 | Leah Barnett |
 | 141 | 267 | Denise Nardoni |
 | 142 | 265 | Marci Mize Fandrich |
 | 143 | 263 | Angeline Joseph |
@@ -234,8 +234,8 @@
 | 226 | 166 | Beth Ingham |
 | 227 | 166 | Betty Ivy |
 | 228 | 165 | Kali Kelz Williams |
-| 229 | 163 | Christine Trester |
-| 230 | 163 | Stephanie Hill |
+| 229 | 163 | Stephanie Hill |
+| 230 | 163 | Christine Trester |
 | 231 | 162 | Stephanie Whitefield |
 | 232 | 161 | Irene Arreguin |
 | 233 | 160 | Tiffany Davie |
