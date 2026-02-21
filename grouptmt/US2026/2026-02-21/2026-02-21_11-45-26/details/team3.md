@@ -89,10 +89,10 @@
 | 81 | 320 | Or Reznitsky |
 | 82 | 316 | Fancy Cascader |
 | 83 | 313 | Elaine Webb Graves |
-| 84 | 309 | Rich LeBlanc |
-| 85 | 309 | CeceGeGe |
-| 86 | 307 | Peggi Charon |
-| 87 | 307 | Blocked |
+| 84 | 309 | CeceGeGe |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 307 | Blocked |
+| 87 | 307 | Peggi Charon |
 | 88 | 300 | Sherika C. McDaniels |
 | 89 | 299 | Cynthia Castros-Hampton |
 | 90 | 272 | Mahman |
@@ -189,8 +189,8 @@
 | 181 | 127 | Aerian Preston |
 | 182 | 127 | Marquita Sheard |
 | 183 | 126 | Brandon Givens |
-| 184 | 125 | Shimika Enay Wallace |
-| 185 | 125 | Felicia Doxey |
+| 184 | 125 | Felicia Doxey |
+| 185 | 125 | Shimika Enay Wallace |
 | 186 | 124 | Cesar Barraza |
 | 187 | 123 | Terry Jo Jones |
 | 188 | 123 | Marci Mize Fandrich |
@@ -262,8 +262,8 @@
 | 254 | 96 | Hanna Kim |
 | 255 | 96 | Tasha Wesson-Torrence |
 | 256 | 95 | Brooke Bauer |
-| 257 | 94 | Andrew Thorson |
-| 258 | 94 | Angie Harper |
+| 257 | 94 | Angie Harper |
+| 258 | 94 | Andrew Thorson |
 | 259 | 93 | Tiffany Ford |
 | 260 | 92 | Ava Petito |
 | 261 | 92 | Trice Thomas |
@@ -300,8 +300,8 @@
 | 292 | 84 | Flashy Rumbler |
 | 293 | 84 | Spunky Racker |
 | 294 | 83 | Deseree Ewing |
-| 295 | 82 | Rebecca Funderburk Kirby |
-| 296 | 82 | Nikki Pags |
+| 295 | 82 | Nikki Pags |
+| 296 | 82 | Rebecca Funderburk Kirby |
 | 297 | 81 | Tina Baurdau |
 | 298 | 80 | Vixen Queen |
 | 299 | 80 | Oliver Neal II |

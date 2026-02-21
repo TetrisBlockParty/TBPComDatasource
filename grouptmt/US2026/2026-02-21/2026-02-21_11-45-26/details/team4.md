@@ -75,23 +75,23 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Melvin Baird |
-| 77 | 171 | Zethra Prenisha Rahming |
+| 76 | 171 | Zethra Prenisha Rahming |
+| 77 | 171 | Melvin Baird |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Courtney Cicoria |
 | 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
-| 84 | 159 | Justin Hannigan |
-| 85 | 159 | Andy Cabral |
-| 86 | 159 | Holly Jolly |
+| 84 | 159 | Andy Cabral |
+| 85 | 159 | Holly Jolly |
+| 86 | 159 | Justin Hannigan |
 | 87 | 157 | quicksand420 |
 | 88 | 154 | ThaEviLJeNiuZ |
 | 89 | 153 | Jae Job |
@@ -137,7 +137,7 @@
 | 129 | 115 | Ultramarine |
 | 130 | 115 | Jayk |
 | 131 | 113 | Andria Lynn |
-| 132 | 112 | Brittany Marsh |
+| 132 | 112 | Bryan Hodgins |
 | 133 | 112 | Austin Owens |
 | 134 | 112 | Brittany Marsh |
 | 135 | 111 | Lazy Blocker |
@@ -153,10 +153,10 @@
 | 145 | 105 | AyeKay |
 | 146 | 105 | Sam Middleton |
 | 147 | 104 | Damn Libra |
-| 148 | 102 | ĥuf |
-| 149 | 102 | Faja |
-| 150 | 101 | Saulc1991 |
-| 151 | 101 | Michelle Morris |
+| 148 | 102 | Faja |
+| 149 | 102 | ĥuf |
+| 150 | 101 | Michelle Morris |
+| 151 | 101 | Saulc1991 |
 | 152 | 100 | Alexandra Karavias |
 | 153 | 99 | Anthony Bryan Riva |
 | 154 | 98 | Allen Lloyd |

@@ -313,8 +313,8 @@
 | 305 | 274 | Melissa Holsinger |
 | 306 | 274 | Jamie Stevey |
 | 307 | 274 | Lonne Emade |
-| 308 | 273 | Ray Ray Prado |
-| 309 | 273 | Jenna Nance |
+| 308 | 273 | Jenna Nance |
+| 309 | 273 | Ray Ray Prado |
 | 310 | 273 | Vanessa Moreno |
 | 311 | 273 | August Hale |
 | 312 | 272 | Mikayala Szaz |
@@ -600,8 +600,8 @@
 | 592 | 144 | Mandi Douglas Hilt |
 | 593 | 144 | Tristan Lamothe |
 | 594 | 144 | Jamie Brickley |
-| 595 | 144 | Tee Davis |
-| 596 | 144 | RavensBeard |
+| 595 | 144 | RavensBeard |
+| 596 | 144 | Tee Davis |
 | 597 | 143 | Jay Levy |
 | 598 | 142 | Joy LaJeunesse |
 | 599 | 142 | Melissa Kay Gibson |
@@ -701,8 +701,8 @@
 | 693 | 128 | Carrie Pike |
 | 694 | 128 | Nate Lee |
 | 695 | 128 | Diana Fitzwater |
-| 696 | 127 | Brittany Sizemore |
-| 697 | 127 | ForestGem |
+| 696 | 127 | ForestGem |
+| 697 | 127 | Brittany Sizemore |
 | 698 | 127 | Natasha Christine Shepard |
 | 699 | 127 | Lively Brickfit |
 | 700 | 127 | Britt TwoTymes |
