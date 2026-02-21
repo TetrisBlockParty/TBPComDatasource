@@ -24,8 +24,8 @@
 | 16 | 619 | Devinlee Brown |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
@@ -91,8 +91,8 @@
 | 83 | 165 | Courtney Cicoria |
 | 84 | 162 | Shauna Havard |
 | 85 | 160 | Carter Jones |
-| 86 | 159 | KM8 |
-| 87 | 159 | Holly Jolly |
+| 86 | 159 | Holly Jolly |
+| 87 | 159 | KM8 |
 | 88 | 157 | quicksand420 |
 | 89 | 154 | ThaEviLJeNiuZ |
 | 90 | 154 | Zany Twisterfit |

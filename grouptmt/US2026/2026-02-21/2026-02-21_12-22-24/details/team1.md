@@ -150,8 +150,8 @@
 | 142 | 111 | Agustin Duarte Orozco |
 | 143 | 110 | Garcia Bailey |
 | 144 | 108 | Luciano Moreira |
-| 145 | 108 | Tavia |
-| 146 | 108 | Dizzy Party |
+| 145 | 108 | Dizzy Party |
+| 146 | 108 | Tavia |
 | 147 | 107 | Jodee Woods |
 | 148 | 106 | Bloknboy |
 | 149 | 106 | Aimee Horton |
@@ -229,10 +229,10 @@
 | 221 | 75 | Fresno Beotoni |
 | 222 | 75 | Plucky Wrecker |
 | 223 | 74 | Grace Joanne Agnant |
-| 224 | 74 | Owicked1 |
-| 225 | 74 | Meechie |
-| 226 | 73 | Silly Align |
-| 227 | 73 | Shanae Grant |
+| 224 | 74 | Meechie |
+| 225 | 74 | Owicked1 |
+| 226 | 73 | Shanae Grant |
+| 227 | 73 | Silly Align |
 | 228 | 72 | Tipsy Strikerpiece |
 | 229 | 72 | Ric Hard Hernandez |
 | 230 | 71 | Loneell Hyland |

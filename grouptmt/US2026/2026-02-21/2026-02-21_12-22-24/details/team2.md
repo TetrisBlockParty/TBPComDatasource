@@ -167,8 +167,8 @@
 | 159 | 495 | Poppy Snap |
 | 160 | 488 | Teresa Gillmore |
 | 161 | 486 | MrsCandyfine As Wine Truss |
-| 162 | 485 | Gene Mills |
-| 163 | 485 | Leah Keesling |
+| 162 | 485 | Leah Keesling |
+| 163 | 485 | Gene Mills |
 | 164 | 484 | Suki Kaur |
 | 165 | 483 | Jordan Kaiser |
 | 166 | 482 | Eckoman518 |
@@ -202,9 +202,9 @@
 | 194 | 409 | Sparkles |
 | 195 | 406 | Erin StFrancis |
 | 196 | 402 | Joshua Mandel |
-| 197 | 400 | Tammy Allen |
-| 198 | 400 | Rhonda Milstead |
-| 199 | 400 | Crystie Hicks |
+| 197 | 400 | Rhonda Milstead |
+| 198 | 400 | Crystie Hicks |
+| 199 | 400 | Tammy Allen |
 | 200 | 397 | Ashley Guernsey-Martin |
 | 201 | 397 | coleksquad |
 | 202 | 396 | Steven Marshaun |
@@ -232,10 +232,10 @@
 | 224 | 358 | Smashanator |
 | 225 | 357 | Shannon Byrd |
 | 226 | 356 | Deyawn Smith |
-| 227 | 356 | Kimberly Randesi |
-| 228 | 356 | Shameika Trail |
-| 229 | 354 | Brave Dropmatch |
-| 230 | 354 | Tracy Wise |
+| 227 | 356 | Shameika Trail |
+| 228 | 356 | Kimberly Randesi |
+| 229 | 354 | Tracy Wise |
+| 230 | 354 | Brave Dropmatch |
 | 231 | 353 | Joseph Musick |
 | 232 | 352 | ruth |
 | 233 | 350 | Chris Harr |
@@ -305,8 +305,8 @@
 | 297 | 282 | Shaun Church |
 | 298 | 281 | Maegan Beaule |
 | 299 | 280 | SwampRebel |
-| 300 | 280 | Shorty |
-| 301 | 280 | Offonar Facey |
+| 300 | 280 | Offonar Facey |
+| 301 | 280 | Shorty |
 | 302 | 279 | Tara Lynn Janes |
 | 303 | 278 | Peachy Blockbuilder |
 | 304 | 278 | Tanya Parsons |
@@ -388,8 +388,8 @@
 | 380 | 233 | Jumpy Gridclear |
 | 381 | 233 | Robin Kerby |
 | 382 | 233 | Nutty Matchline |
-| 383 | 232 | Angelina Marie |
-| 384 | 232 | Amber Brion |
+| 383 | 232 | Amber Brion |
+| 384 | 232 | Angelina Marie |
 | 385 | 231 | Dylan Thomason |
 | 386 | 231 | Hong Tang |
 | 387 | 230 | Leslie Johnson Guinto |
@@ -590,7 +590,7 @@
 | 582 | 149 | Brianna Cerney |
 | 583 | 149 | Tyler C. Jung |
 | 584 | 149 | Leslie Porter |
-| 585 | 149 | Tyler C. Jung |
+| 585 | 149 | Boldy Cascadepiece |
 | 586 | 148 | AgileDragon |
 | 587 | 148 | Cleo Sims |
 | 588 | 147 | Sassy Pivot |
