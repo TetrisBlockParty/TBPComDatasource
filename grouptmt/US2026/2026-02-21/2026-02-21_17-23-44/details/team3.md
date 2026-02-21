@@ -180,8 +180,8 @@
 | 172 | 178 | Khaleada McGill Banks |
 | 173 | 178 | Ryan Williams |
 | 174 | 178 | AlsoJess |
-| 175 | 176 | Trisha Balmer |
-| 176 | 176 | Nikki Pags |
+| 175 | 176 | Nikki Pags |
+| 176 | 176 | Trisha Balmer |
 | 177 | 175 | DanceLuvLaugh |
 | 178 | 174 | rosy |
 | 179 | 174 | Danielle Mogg |
@@ -203,8 +203,8 @@
 | 195 | 159 | Jone |
 | 196 | 158 | Grams |
 | 197 | 157 | Marquita Sheard |
-| 198 | 157 | Nicholas Roddy |
-| 199 | 157 | Patricia Gadsden |
+| 198 | 157 | Patricia Gadsden |
+| 199 | 157 | Nicholas Roddy |
 | 200 | 156 | Bea Miles |
 | 201 | 155 | Loopy Fallzone |
 | 202 | 152 | Shiny Zonebuilder |
@@ -231,8 +231,8 @@
 | 223 | 142 | David Bardo |
 | 224 | 142 | Erica Anderson |
 | 225 | 138 | Boldy Corner |
-| 226 | 137 | Joy Petroski |
-| 227 | 137 | Cheryl Hinch Tenbrook |
+| 226 | 137 | Cheryl Hinch Tenbrook |
+| 227 | 137 | Joy Petroski |
 | 228 | 135 | Erykah |
 | 229 | 134 | Skinny Baldez |
 | 230 | 133 | Terry Jo Jones |

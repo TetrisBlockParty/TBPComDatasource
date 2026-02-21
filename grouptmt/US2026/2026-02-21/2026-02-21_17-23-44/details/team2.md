@@ -112,8 +112,8 @@
 | 104 | 812 | Andea Beck |
 | 105 | 801 | Tralonda Weeks |
 | 106 | 800 | Tacara Cummings |
-| 107 | 789 | James Simms III |
-| 108 | 789 | Stephanie Chapman |
+| 107 | 789 | Stephanie Chapman |
+| 108 | 789 | James Simms III |
 | 109 | 787 | Laura McCarthey |
 | 110 | 780 | Amanda Grohmann |
 | 111 | 772 | Megan Ferguson Leone |
@@ -421,10 +421,10 @@
 | 413 | 273 | Giddy Gridclear |
 | 414 | 272 | Mikayala Szaz |
 | 415 | 271 | Ann Marie Davis |
-| 416 | 271 | Toni Lynn |
-| 417 | 271 | Loony Basepiece |
-| 418 | 269 | Reece Smith |
-| 419 | 269 | Anthony Mignacca |
+| 416 | 271 | Loony Basepiece |
+| 417 | 271 | Toni Lynn |
+| 418 | 269 | Anthony Mignacca |
+| 419 | 269 | Reece Smith |
 | 420 | 268 | Danielle DeLozier Plesec |
 | 421 | 268 | Dapper Dasher |
 | 422 | 267 | Britt Stunkel |

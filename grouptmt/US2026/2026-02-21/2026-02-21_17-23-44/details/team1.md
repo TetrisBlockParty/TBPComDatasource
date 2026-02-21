@@ -30,8 +30,8 @@
 | 22 | 618 | Amanda Summey Schoemer |
 | 23 | 547 | Marianne Louise West |
 | 24 | 543 | Aaron Garnett |
-| 25 | 541 | Jorge Andrade |
-| 26 | 541 | Drew Magnus |
+| 25 | 541 | Drew Magnus |
+| 26 | 541 | Jorge Andrade |
 | 27 | 521 | Hyp James NObettadanluvarat |
 | 28 | 517 | Felicia Lewis |
 | 29 | 516 | comrade fish |
@@ -66,8 +66,8 @@
 | 58 | 287 | Hyper |
 | 59 | 281 | Shauna Loe |
 | 60 | 278 | Carrie Beck Geartz |
-| 61 | 274 | Theo Pinnow |
-| 62 | 274 | Sweet Baker |
+| 61 | 274 | Sweet Baker |
+| 62 | 274 | Theo Pinnow |
 | 63 | 270 | Sarah Roberts |
 | 64 | 266 | Tipsy Column |
 | 65 | 263 | Bhelle Sumile |
