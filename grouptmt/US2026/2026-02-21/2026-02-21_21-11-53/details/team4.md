@@ -149,8 +149,8 @@
 | 141 | 156 | Holly |
 | 142 | 156 | Jessica Bohlken |
 | 143 | 153 | Empress Oasis |
-| 144 | 151 | Bethany Ison |
-| 145 | 151 | Avy Absol |
+| 144 | 151 | Avy Absol |
+| 145 | 151 | Bethany Ison |
 | 146 | 149 | Diana Houts |
 | 147 | 149 | Roger Coulter |
 | 148 | 148 | Brittany Marsh |
@@ -164,8 +164,8 @@
 | 156 | 141 | ĥuf |
 | 157 | 141 | Malakai Darien Fox |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | John Brunetti |
-| 160 | 140 | Shannon Ferrari |
+| 159 | 140 | Shannon Ferrari |
+| 160 | 140 | John Brunetti |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Tanner Lund |
 | 163 | 136 | Sarah Brown |
@@ -208,8 +208,8 @@
 | 200 | 120 | Joshua Guess |
 | 201 | 120 | KayM |
 | 202 | 119 | Kristin Manee |
-| 203 | 119 | Gwendolyn Pitcairn |
-| 204 | 119 | Judy Cox |
+| 203 | 119 | Judy Cox |
+| 204 | 119 | Gwendolyn Pitcairn |
 | 205 | 118 | Chris Bernstein |
 | 206 | 118 | Mary Ann Pabukis |
 | 207 | 116 | Adam Stephanie Parker |
@@ -236,8 +236,8 @@
 | 228 | 103 | Lauren Lamb |
 | 229 | 103 | Berklie Apedaile |
 | 230 | 103 | Kate |
-| 231 | 102 | Autumn Kumzi |
-| 232 | 102 | Christina O'Dell-Ishau |
+| 231 | 102 | Christina O'Dell-Ishau |
+| 232 | 102 | Autumn Kumzi |
 | 233 | 102 | Faja |
 | 234 | 102 | Cheery Risebuilder |
 | 235 | 102 | Kim Hunt |
@@ -252,15 +252,15 @@
 | 244 | 100 | Maureen Flanigan |
 | 245 | 100 | Alexandra Karavias |
 | 246 | 99 | Michael Orris |
-| 247 | 98 | Bradley Reeves |
-| 248 | 98 | Perky Piecegrid |
+| 247 | 98 | Perky Piecegrid |
+| 248 | 98 | Bradley Reeves |
 | 249 | 98 | Sam Bishop |
 | 250 | 97 | Marcela Johnson |
 | 251 | 97 | Rosemary Foster |
 | 252 | 97 | Jen Caldwell |
 | 253 | 96 | Blessedmama |
-| 254 | 96 | Sammy Noguera |
-| 255 | 96 | Jessica Miller |
+| 254 | 96 | Jessica Miller |
+| 255 | 96 | Sammy Noguera |
 | 256 | 96 | Marcus TheeyoungWoe Gilmore |
 | 257 | 95 | Meagan Nicole |
 | 258 | 95 | Groovy Gridlock |
@@ -282,7 +282,7 @@
 | 274 | 88 | Michelle Parker |
 | 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
-| 277 | 86 | Destiney Carter |
+| 277 | 86 | Jason Frehner |
 | 278 | 86 | amy |
 | 279 | 86 | Destiney Carter |
 | 280 | 86 | Tony Pavelka |

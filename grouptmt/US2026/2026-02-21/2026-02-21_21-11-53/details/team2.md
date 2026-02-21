@@ -249,8 +249,8 @@
 | 241 | 514 | Dizzy Zone |
 | 242 | 513 | Angela Bonquiqui Dinish |
 | 243 | 511 | Laura Mclean |
-| 244 | 510 | Laquetta Royston |
-| 245 | 510 | Lisa Ongtowasruk |
+| 244 | 510 | Lisa Ongtowasruk |
+| 245 | 510 | Laquetta Royston |
 | 246 | 509 | Kelli Wells |
 | 247 | 506 | AISlop |
 | 248 | 504 | Gene Mills |
@@ -274,8 +274,8 @@
 | 266 | 474 | Ashley Collins |
 | 267 | 474 | Calandra Shaya Robinson |
 | 268 | 470 | Jerry Tempelmeyer |
-| 269 | 469 | Ashley Rose Frederick |
-| 270 | 469 | Amélie Cadieux |
+| 269 | 469 | Amélie Cadieux |
+| 270 | 469 | Ashley Rose Frederick |
 | 271 | 467 | Scott Treadway |
 | 272 | 465 | Drwatson187 |
 | 273 | 465 | Maya June |
@@ -294,11 +294,11 @@
 | 286 | 445 | Mar Q Thomas |
 | 287 | 445 | Dedra Steward |
 | 288 | 442 | Joshua Mandel |
-| 289 | 442 | Leah |
-| 290 | 442 | Daphne Jordan |
+| 289 | 442 | Daphne Jordan |
+| 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Alisa Lamb |
-| 293 | 439 | Joseph Musick |
+| 292 | 439 | Joseph Musick |
+| 293 | 439 | Alisa Lamb |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -308,8 +308,8 @@
 | 300 | 428 | Rhonda Milstead |
 | 301 | 427 | Destiny Cozier |
 | 302 | 427 | Amanda Ferrell |
-| 303 | 425 | Julay |
-| 304 | 425 | Skyler Morgan |
+| 303 | 425 | Skyler Morgan |
+| 304 | 425 | Julay |
 | 305 | 423 | Shaun Church |
 | 306 | 422 | Morgue Chick |
 | 307 | 422 | Mamachelle Eisweirth |
@@ -660,8 +660,8 @@
 | 652 | 212 | Josh Webster |
 | 653 | 211 | Trisha Gallagher |
 | 654 | 211 | Joel Rosado |
-| 655 | 210 | Cappin You |
-| 656 | 210 | Nancy Pohlman |
+| 655 | 210 | Nancy Pohlman |
+| 656 | 210 | Cappin You |
 | 657 | 210 | Marcie McLain Dodd |
 | 658 | 210 | Joshua Switzer |
 | 659 | 209 | Jannan Haimour |
