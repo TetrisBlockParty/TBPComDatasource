@@ -108,10 +108,10 @@
 | 100 | 138 | Gary Gobin |
 | 101 | 137 | Nadine Velardo |
 | 102 | 134 | Trina Gee |
-| 103 | 133 | Brandi Huntington |
-| 104 | 133 | Breanna Luna |
-| 105 | 132 | Davery Spencer Adair |
-| 106 | 132 | Lori Sanders- Davis |
+| 103 | 133 | Breanna Luna |
+| 104 | 133 | Brandi Huntington |
+| 105 | 132 | Lori Sanders- Davis |
+| 106 | 132 | Davery Spencer Adair |
 | 107 | 130 | Dandy Basegrid |
 | 108 | 128 | lil mickey |
 | 109 | 128 | Uhog SF |

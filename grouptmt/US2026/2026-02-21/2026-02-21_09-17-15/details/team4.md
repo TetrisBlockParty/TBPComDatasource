@@ -103,8 +103,8 @@
 | 95 | 132 | Melissa Priest Sellers |
 | 96 | 132 | Degenerate |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Mr. Party |
-| 99 | 131 | Zany Twisterfit |
+| 98 | 131 | Zany Twisterfit |
+| 99 | 131 | Mr. Party |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
-| 109 | 123 | Cherrish Duren |
+| 108 | 123 | Cherrish Duren |
+| 109 | 123 | Nugget |
 | 110 | 122 | Sherri |
 | 111 | 121 | Klo |
 | 112 | 121 | Megan Cutshaw |
@@ -400,7 +400,7 @@
 | 392 | 39 | Jen May |
 | 393 | 39 | Haruko Bullock-Brown |
 | 394 | 39 | Amber bamber |
-| 395 | 39 | Ees17 |
+| 395 | 39 | Frothy Patterner |
 | 396 | 39 | Meli  Jackson |
 | 397 | 38 | Lora |
 | 398 | 38 | Jade Rian |

@@ -447,8 +447,8 @@
 | 439 | 180 | Peter Palestino |
 | 440 | 179 | Desiree Harris Rosch |
 | 441 | 179 | Elizabeth Pearson |
-| 442 | 179 | Cat |
-| 443 | 179 | Bette Prieto |
+| 442 | 179 | Bette Prieto |
+| 443 | 179 | Cat |
 | 444 | 178 | Michelle Shrum |
 | 445 | 177 | Facuetoo |
 | 446 | 177 | Ryan Meilleur |
@@ -539,8 +539,8 @@
 | 531 | 150 | Greenshades00 |
 | 532 | 149 | Brianna Cerney |
 | 533 | 149 | Melissa Rebbe-Lehman |
-| 534 | 149 | Boldy Cascadepiece |
-| 535 | 149 | Leslie Porter |
+| 534 | 149 | Leslie Porter |
+| 535 | 149 | Boldy Cascadepiece |
 | 536 | 148 | AgileDragon |
 | 537 | 147 | Smiley Strike |
 | 538 | 147 | Sassy Pivot |
@@ -656,9 +656,9 @@
 | 648 | 127 | ForestGem |
 | 649 | 126 | Tessa Gonzalez |
 | 650 | 126 | Mar Q Thomas |
-| 651 | 126 | Tessa Gonzalez |
-| 652 | 126 | Crystal Herndon |
-| 653 | 126 | Lucy Marshall |
+| 651 | 126 | Cleo Sims |
+| 652 | 126 | Ethan Stienbarger |
+| 653 | 126 | Jackie Avila |
 | 654 | 126 | Fancy Chiseler |
 | 655 | 126 | Tara Creel |
 | 656 | 126 | Crystal Herndon |
@@ -841,7 +841,7 @@
 | 833 | 100 | Tiberia Chasse |
 | 834 | 100 | Shayla Lamartina |
 | 835 | 99 | Asha Nichols-Collins |
-| 836 | 99 | Katelyn Fitzsimmons |
+| 836 | 99 | Dee Moore |
 | 837 | 99 | Stacey N Kelly Lee |
 | 838 | 99 | Ashley Dow |
 | 839 | 99 | Katelyn Fitzsimmons |

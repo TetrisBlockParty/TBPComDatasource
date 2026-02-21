@@ -106,8 +106,8 @@
 | 98 | 234 | Louise Stacy Sisson |
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
-| 101 | 224 | Judi Dobson |
-| 102 | 224 | Mykal Burton |
+| 101 | 224 | Mykal Burton |
+| 102 | 224 | Judi Dobson |
 | 103 | 223 | Jeana Gilbert |
 | 104 | 222 | Jimmie Clemons |
 | 105 | 218 | mjl574 |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Jenny Hrndz |
-| 119 | 195 | Nicha Hooker |
+| 118 | 195 | Nicha Hooker |
+| 119 | 195 | Jenny Hrndz |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -164,8 +164,8 @@
 | 156 | 146 | Denita Mungro |
 | 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
-| 159 | 140 | Jay Horn |
-| 160 | 140 | Gumbo |
+| 159 | 140 | Gumbo |
+| 160 | 140 | Jay Horn |
 | 161 | 135 | Nicole Flippo |
 | 162 | 135 | Cheryl Hinch Tenbrook |
 | 163 | 134 | Emma |
