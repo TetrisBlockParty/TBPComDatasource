@@ -186,8 +186,8 @@
 | 178 | 705 | Roger Grabbit |
 | 179 | 703 | Debra Williams |
 | 180 | 700 | Vincent Petrella |
-| 181 | 700 | Beverly Owens |
-| 182 | 700 | Rosemadder |
+| 181 | 700 | Rosemadder |
+| 182 | 700 | Beverly Owens |
 | 183 | 699 | Vo'Landa Reels |
 | 184 | 697 | Real Ri |
 | 185 | 692 | Chelle |

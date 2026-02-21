@@ -100,8 +100,8 @@
 | 92 | 459 | Nerdy Riseclear |
 | 93 | 447 | Mykal Burton |
 | 94 | 446 | Danielle Rhoades |
-| 95 | 445 | Kristie McFarland |
-| 96 | 445 | Silly Twist |
+| 95 | 445 | Silly Twist |
+| 96 | 445 | Kristie McFarland |
 | 97 | 430 | Patricia White |
 | 98 | 429 | Domo Washington |
 | 99 | 428 | Elissa S-k |
@@ -119,15 +119,15 @@
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
 | 113 | 390 | Patti Skiles |
-| 114 | 389 | Jessica Bechler |
-| 115 | 389 | FuzzyNavel |
+| 114 | 389 | FuzzyNavel |
+| 115 | 389 | Jessica Bechler |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
 | 118 | 378 | Tasha Schriewer |
 | 119 | 378 | Makelini Mausia |
 | 120 | 377 | Jesse Olive |
-| 121 | 368 | Stephanie Blkpep Davidson |
-| 122 | 368 | Stephanie Woods |
+| 121 | 368 | Stephanie Woods |
+| 122 | 368 | Stephanie Blkpep Davidson |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
 | 125 | 355 | Tessina Dewey-Mancino |
@@ -155,10 +155,10 @@
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
-| 150 | 272 | rnr junky |
-| 151 | 272 | opf |
-| 152 | 271 | Leah Barnett |
-| 153 | 271 | Ashley Muncey |
+| 150 | 272 | opf |
+| 151 | 272 | rnr junky |
+| 152 | 271 | Ashley Muncey |
+| 153 | 271 | Leah Barnett |
 | 154 | 267 | Denise Nardoni |
 | 155 | 265 | DidIdothat |
 | 156 | 263 | Angeline Joseph |
@@ -177,8 +177,8 @@
 | 169 | 243 | Rochelle Hazelett |
 | 170 | 243 | Cynthia Herrmann Egland |
 | 171 | 240 | Jimmie Clemons |
-| 172 | 237 | Rebecca Funderburk Kirby |
-| 173 | 237 | Brandon Givens |
+| 172 | 237 | Brandon Givens |
+| 173 | 237 | Rebecca Funderburk Kirby |
 | 174 | 236 | Fallorina Susana |
 | 175 | 233 | Ray Lader |
 | 176 | 231 | Nikki Pags |
@@ -212,7 +212,7 @@
 | 204 | 200 | Sharisse Baltimore |
 | 205 | 197 | Staci George Fitzsimmons |
 | 206 | 197 | Angie Harper |
-| 207 | 197 | Staci George Fitzsimmons |
+| 207 | 197 | Connie Mohler-Fair |
 | 208 | 195 | Nicha Hooker |
 | 209 | 193 | Stephanie Burtin |
 | 210 | 193 | Clever Shiftsnap |

@@ -81,8 +81,8 @@
 | 73 | 338 | Tipsy Strikerpiece |
 | 74 | 333 | Brandi Huntington |
 | 75 | 328 | Gracie |
-| 76 | 323 | Candy Jones |
-| 77 | 323 | Kellie |
+| 76 | 323 | Kellie |
+| 77 | 323 | Candy Jones |
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
@@ -137,8 +137,8 @@
 | 129 | 198 | Happy Snapbuild |
 | 130 | 196 | Tanya Carpenter-Reynolds |
 | 131 | 195 | Daring Fitclear |
-| 132 | 194 | Tyler Werts |
-| 133 | 194 | Ash Galvan |
+| 132 | 194 | Ash Galvan |
+| 133 | 194 | Tyler Werts |
 | 134 | 193 | Lachelle Dillon |
 | 135 | 193 | Shiny Gridmatch |
 | 136 | 192 | Shaykmia |
@@ -214,8 +214,8 @@
 | 206 | 131 | Uhog SF |
 | 207 | 130 | Gilbert Ortiz Jr. |
 | 208 | 129 | Larry Tilton |
-| 209 | 128 | lil mickey |
-| 210 | 128 | Brenda Alexander |
+| 209 | 128 | Brenda Alexander |
+| 210 | 128 | lil mickey |
 | 211 | 127 | Cheeky Pop |
 | 212 | 126 | Tami Luce Martin |
 | 213 | 122 | Melissa Lemmon |

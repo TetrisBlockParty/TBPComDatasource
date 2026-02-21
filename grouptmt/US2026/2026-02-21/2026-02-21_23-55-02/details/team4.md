@@ -74,14 +74,14 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | Marie-Pier Desjardins |
-| 70 | 376 | quicksand420 |
+| 69 | 376 | quicksand420 |
+| 70 | 376 | Marie-Pier Desjardins |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Shane Kalamata Platoon |
-| 76 | 358 | Nugget |
+| 75 | 358 | Nugget |
+| 76 | 358 | Shane Kalamata Platoon |
 | 77 | 355 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
@@ -139,8 +139,8 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Stacey Stano |
-| 135 | 189 | Calvin Dennis |
+| 134 | 189 | Calvin Dennis |
+| 135 | 189 | Stacey Stano |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Andy Cabral |
