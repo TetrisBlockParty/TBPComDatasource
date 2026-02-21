@@ -176,9 +176,9 @@
 | 168 | 191 | Giddy Twistbuilder |
 | 169 | 191 | Scott Carleton |
 | 170 | 191 | Rebel124 |
-| 171 | 189 | Fallorina Susana |
-| 172 | 189 | Sissy Lowery Davis |
-| 173 | 189 | Staci George Fitzsimmons |
+| 171 | 189 | Sissy Lowery Davis |
+| 172 | 189 | Staci George Fitzsimmons |
+| 173 | 189 | Fallorina Susana |
 | 174 | 188 | Angie Harper |
 | 175 | 186 | Khaleada McGill Banks |
 | 176 | 182 | Sashay Tapae Simpson |
@@ -232,15 +232,15 @@
 | 224 | 148 | Gumbo |
 | 225 | 147 | Ashley Lynn Marchese |
 | 226 | 147 | Cheryl Hinch Tenbrook |
-| 227 | 146 | Carrie Huskey |
-| 228 | 146 | Latoya Mayne |
+| 227 | 146 | Latoya Mayne |
+| 228 | 146 | Carrie Huskey |
 | 229 | 146 | Denita Mungro |
 | 230 | 145 | Bryan Byrd |
 | 231 | 145 | Emma |
 | 232 | 145 | Jeni Dow |
-| 233 | 142 | Erica Anderson |
-| 234 | 142 | Danielle Allison |
-| 235 | 142 | David Bardo |
+| 233 | 142 | David Bardo |
+| 234 | 142 | Erica Anderson |
+| 235 | 142 | Danielle Allison |
 | 236 | 142 | Jl |
 | 237 | 141 | IamJust Neyamijah Washington Sr. |
 | 238 | 139 | Loopy Clusterer |
@@ -260,8 +260,8 @@
 | 252 | 128 | Jen Lewis |
 | 253 | 128 | MizzMonick Smith |
 | 254 | 127 | mzcatzy |
-| 255 | 126 | April Matthew Kibble |
-| 256 | 126 | Pam Holt Powell |
+| 255 | 126 | Pam Holt Powell |
+| 256 | 126 | April Matthew Kibble |
 | 257 | 126 | RickyG |
 | 258 | 125 | Felicia Doxey |
 | 259 | 125 | Shimika Enay Wallace |
@@ -308,11 +308,11 @@
 | 300 | 106 | Cheeky Snapper |
 | 301 | 106 | Saucy Buildout |
 | 302 | 105 | Donna |
-| 303 | 105 | Boldy Blocker |
-| 304 | 105 | FATTY |
-| 305 | 105 | Emi |
-| 306 | 104 | bean |
-| 307 | 104 | Samantha Lynn |
+| 303 | 105 | FATTY |
+| 304 | 105 | Emi |
+| 305 | 105 | Boldy Blocker |
+| 306 | 104 | Samantha Lynn |
+| 307 | 104 | bean |
 | 308 | 104 | Ashley Rufus Bythcez |
 | 309 | 103 | Lisa Lisa |
 | 310 | 103 | Wetwet |
