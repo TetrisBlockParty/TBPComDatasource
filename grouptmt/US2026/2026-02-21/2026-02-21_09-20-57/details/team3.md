@@ -135,20 +135,20 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | AlsoJess |
-| 131 | 178 | Khaleada McGill Banks |
+| 130 | 178 | Khaleada McGill Banks |
+| 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
 | 135 | 164 | rosy |
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
-| 138 | 159 | Jone |
-| 139 | 159 | Morgan Martinez |
-| 140 | 159 | Mcathen |
+| 138 | 159 | Morgan Martinez |
+| 139 | 159 | Mcathen |
+| 140 | 159 | Jone |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
@@ -172,10 +172,10 @@
 | 164 | 134 | Emma |
 | 165 | 131 | Jl |
 | 166 | 129 | Stephanie Burtin |
-| 167 | 127 | Aerian Preston |
-| 168 | 127 | Marquita Sheard |
-| 169 | 127 | Aerian Preston |
-| 170 | 127 | Joy Petroski |
+| 167 | 127 | Joy Petroski |
+| 168 | 127 | Aerian Preston |
+| 169 | 127 | Connie Mohler-Fair |
+| 170 | 127 | Marquita Sheard |
 | 171 | 126 | Brandon Givens |
 | 172 | 126 | Bryan Byrd |
 | 173 | 126 | Kali Kelz Williams |
@@ -255,9 +255,9 @@
 | 247 | 95 | MizzMonick Smith |
 | 248 | 94 | Angie Harper |
 | 249 | 93 | Tiffany Ford |
-| 250 | 92 | Trice Thomas |
-| 251 | 92 | Ava Petito |
-| 252 | 92 | Jennifer Caputo |
+| 250 | 92 | Ava Petito |
+| 251 | 92 | Jennifer Caputo |
+| 252 | 92 | Trice Thomas |
 | 253 | 91 | Martin Bernier |
 | 254 | 90 | Whitney Manuel |
 | 255 | 90 | Snazzy Brickzone |

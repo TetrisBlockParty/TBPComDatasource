@@ -170,8 +170,8 @@
 | 162 | 90 | TSwag |
 | 163 | 89 | Mara Hilker |
 | 164 | 88 | Larry Tilton |
-| 165 | 87 | Jessi Sauer |
-| 166 | 87 | Jenny Gingrich Fuentes |
+| 165 | 87 | Jenny Gingrich Fuentes |
+| 166 | 87 | Jessi Sauer |
 | 167 | 86 | Tyler Whitley |
 | 168 | 86 | Basment Living |
 | 169 | 86 | Desiree Deschaine Havee |
@@ -288,7 +288,7 @@
 | 280 | 57 | Crystal Cardenas |
 | 281 | 57 | Chipper Wipegrid |
 | 282 | 56 | Skuba Cece |
-| 283 | 56 | Beau Galvan |
+| 283 | 56 | Jeanna Dunn |
 | 284 | 56 | Nerdy Curvebuilder |
 | 285 | 56 | Beau Galvan |
 | 286 | 55 | Danielle Mae |

@@ -339,8 +339,8 @@
 | 331 | 244 | Aimee Byrom |
 | 332 | 243 | Brandy Andre |
 | 333 | 243 | Adira Brown |
-| 334 | 242 | Lawanda Forbes |
-| 335 | 242 | Donna Chandler |
+| 334 | 242 | Donna Chandler |
+| 335 | 242 | Lawanda Forbes |
 | 336 | 241 | Sabrina Burton |
 | 337 | 240 | Adam Erikson |
 | 338 | 240 | Angie Marie |

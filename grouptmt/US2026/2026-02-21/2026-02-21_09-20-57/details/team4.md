@@ -151,8 +151,8 @@
 | 143 | 101 | Saulc1991 |
 | 144 | 101 | Michelle Morris |
 | 145 | 100 | Alexandra Karavias |
-| 146 | 98 | Duck |
-| 147 | 98 | Allen Lloyd |
+| 146 | 98 | Allen Lloyd |
+| 147 | 98 | Duck |
 | 148 | 98 | Chaz |
 | 149 | 97 | Brandi Durig |
 | 150 | 96 | Zappy Snaplink |
