@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 325 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -56,8 +56,8 @@
 | 48 | 272 | Adam Byrd |
 | 49 | 264 | Shauna Loe |
 | 50 | 257 | Sarah Roberts |
-| 51 | 256 | Robert Benito |
-| 52 | 256 | Tipsy Column |
+| 51 | 256 | Tipsy Column |
+| 52 | 256 | Robert Benito |
 | 53 | 253 | Bhelle Sumile |
 | 54 | 252 | Dena Kayy |
 | 55 | 244 | Franswa |
@@ -122,8 +122,8 @@
 | 114 | 134 | Trina Gee |
 | 115 | 133 | Brandi Huntington |
 | 116 | 133 | Breanna Luna |
-| 117 | 132 | Davery Spencer Adair |
-| 118 | 132 | LaQuetta Faith Hines |
+| 117 | 132 | LaQuetta Faith Hines |
+| 118 | 132 | Davery Spencer Adair |
 | 119 | 131 | Uhog SF |
 | 120 | 130 | Dandy Basegrid |
 | 121 | 129 | Dino |
@@ -136,8 +136,8 @@
 | 128 | 120 | Kimmie Kimms |
 | 129 | 120 | Alenoush Karimian |
 | 130 | 119 | April Carroll |
-| 131 | 119 | Irual Hctrab |
-| 132 | 119 | Tater |
+| 131 | 119 | Tater |
+| 132 | 119 | Irual Hctrab |
 | 133 | 118 | Barry Mac'Ockner |
 | 134 | 116 | Evie Khalil |
 | 135 | 115 | Mrs.Patrica |
@@ -168,7 +168,7 @@
 | 160 | 103 | Angela Fairbank |
 | 161 | 102 | Jennifer ManWarren |
 | 162 | 101 | Loony Fitzone |
-| 163 | 100 | Jessica Weed |
+| 163 | 100 | Spunky Piecebuilder |
 | 164 | 100 | Debbie Davis |
 | 165 | 100 | Tami Luce Martin |
 | 166 | 100 | Jessica Weed |

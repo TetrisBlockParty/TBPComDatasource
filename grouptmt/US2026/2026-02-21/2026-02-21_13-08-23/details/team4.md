@@ -109,12 +109,12 @@
 | 101 | 139 | Robin Watters |
 | 102 | 138 | Shainne Brewer |
 | 103 | 136 | Tanner Lund |
-| 104 | 134 | Jessica Bohlken |
-| 105 | 134 | Serena Goodridge |
-| 106 | 134 | Chirpy Basepiece |
-| 107 | 132 | Degenerate |
-| 108 | 132 | Jenna McGeorge |
-| 109 | 132 | Melissa Priest Sellers |
+| 104 | 134 | Chirpy Basepiece |
+| 105 | 134 | Jessica Bohlken |
+| 106 | 134 | Serena Goodridge |
+| 107 | 132 | Jenna McGeorge |
+| 108 | 132 | Melissa Priest Sellers |
+| 109 | 132 | Degenerate |
 | 110 | 132 | Jessica Cagle |
 | 111 | 131 | Mr. Party |
 | 112 | 130 | Lucas J Sutton |
@@ -171,7 +171,7 @@
 | 163 | 98 | Duck |
 | 164 | 98 | Chaz |
 | 165 | 98 | Jeremy Steines |
-| 166 | 97 | Rafael Valentin |
+| 166 | 97 | Brandi Durig |
 | 167 | 97 | Kristin MacDonald |
 | 168 | 97 | Rafael Valentin |
 | 169 | 96 | Zappy Snaplink |
@@ -179,16 +179,16 @@
 | 171 | 96 | Marcus TheeyoungWoe Gilmore |
 | 172 | 95 | Meagan Nicole |
 | 173 | 95 | Victoria Faniel |
-| 174 | 95 | Meagan Nicole |
-| 175 | 94 | DonMega |
-| 176 | 94 | Kim Hunt |
-| 177 | 94 | Chastity Mitchell |
+| 174 | 95 | Jen Caldwell |
+| 175 | 94 | Chastity Mitchell |
+| 176 | 94 | DonMega |
+| 177 | 94 | Kim Hunt |
 | 178 | 93 | Zesty Twistbuilder |
 | 179 | 92 | Misty Hollibaugh |
 | 180 | 90 | Amy Suckarieh |
 | 181 | 90 | No Strings Attached Ra |
-| 182 | 89 | shark tato |
-| 183 | 89 | mike |
+| 182 | 89 | mike |
+| 183 | 89 | shark tato |
 | 184 | 88 | Kesha Brady |
 | 185 | 88 | Heather Tushner |
 | 186 | 87 | Zesty Linkgrid |
@@ -261,30 +261,30 @@
 | 253 | 68 | GBR |
 | 254 | 68 | LS |
 | 255 | 68 | 中山成巳 |
-| 256 | 67 | Frank Joseph Epson |
-| 257 | 67 | Courtney Halleck |
-| 258 | 67 | Dennis Bradley |
-| 259 | 67 | Laurie McGregor |
+| 256 | 67 | JPW |
+| 257 | 67 | Cozy Framezone |
+| 258 | 67 | Courtney Halleck |
+| 259 | 67 | Frank Joseph Epson |
 | 260 | 67 | mini |
-| 261 | 67 | Flavoredsausage |
-| 262 | 67 | JPW |
-| 263 | 67 | Cozy Framezone |
-| 264 | 66 | Rebecca Blake |
-| 265 | 66 | mitch |
-| 266 | 66 | Terrance Fung |
-| 267 | 66 | Asher |
+| 261 | 67 | Laurie McGregor |
+| 262 | 67 | Flavoredsausage |
+| 263 | 67 | Dennis Bradley |
+| 264 | 66 | Asher |
+| 265 | 66 | Terrance Fung |
+| 266 | 66 | mitch |
+| 267 | 66 | Rebecca Blake |
 | 268 | 65 | BlockBabe |
-| 269 | 65 | Jen Mattei |
-| 270 | 65 | Chantilly Laace |
-| 271 | 65 | Lee Silpe |
-| 272 | 65 | Angela Geist Jusinski |
-| 273 | 64 | Joseph Edmonson |
+| 269 | 65 | Angela Geist Jusinski |
+| 270 | 65 | Lee Silpe |
+| 271 | 65 | Chantilly Laace |
+| 272 | 65 | Jen Mattei |
+| 273 | 64 | Mousey406 |
 | 274 | 64 | Sarah Brown |
-| 275 | 64 | rebel4lyfe |
-| 276 | 64 | Daring Pivot |
-| 277 | 64 | Mousey406 |
-| 278 | 63 | Zesty Snapmatch |
-| 279 | 63 | Cheery Risebuilder |
+| 275 | 64 | Daring Pivot |
+| 276 | 64 | rebel4lyfe |
+| 277 | 64 | Joseph Edmonson |
+| 278 | 63 | Cheery Risebuilder |
+| 279 | 63 | Zesty Snapmatch |
 | 280 | 63 | Gilles Lanctot |
 | 281 | 62 | Nicole Silvers |
 | 282 | 62 | Glitzy Crasher |

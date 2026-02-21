@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Nicha Hooker |
-| 125 | 195 | Jenny Hrndz |
+| 124 | 195 | Jenny Hrndz |
+| 125 | 195 | Nicha Hooker |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -160,8 +160,8 @@
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Duane Bright |
 | 154 | 163 | Stephanie Hill |
-| 155 | 160 | Tiffany Davie |
-| 156 | 160 | Mcathen |
+| 155 | 160 | Mcathen |
+| 156 | 160 | Tiffany Davie |
 | 157 | 159 | Morgan Martinez |
 | 158 | 159 | Jone |
 | 159 | 158 | Grams |
@@ -170,8 +170,8 @@
 | 162 | 157 | Patricia Gadsden |
 | 163 | 156 | Joey Banks |
 | 164 | 154 | Angela M. Fletcher |
-| 165 | 153 | Beth Ingham |
-| 166 | 153 | Stephanie Whitefield |
+| 165 | 153 | Stephanie Whitefield |
+| 166 | 153 | Beth Ingham |
 | 167 | 152 | Shiny Zonebuilder |
 | 168 | 151 | MsBee |
 | 169 | 150 | Nicole Myers |

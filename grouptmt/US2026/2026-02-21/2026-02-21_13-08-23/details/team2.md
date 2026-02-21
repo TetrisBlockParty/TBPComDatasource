@@ -125,8 +125,8 @@
 | 117 | 631 | Peppy Zone |
 | 118 | 620 | BYM4L |
 | 119 | 619 | Jamie Otero |
-| 120 | 608 | Sommer Shope |
-| 121 | 608 | John Bednarik |
+| 120 | 608 | John Bednarik |
+| 121 | 608 | Sommer Shope |
 | 122 | 602 | L3sli3 |
 | 123 | 601 | Nancy Reid |
 | 124 | 597 | Andea Beck |
@@ -154,8 +154,8 @@
 | 146 | 522 | Slip |
 | 147 | 520 | Kimberly Schall |
 | 148 | 517 | Debra Williams |
-| 149 | 515 | Real Ri |
-| 150 | 515 | Kaylee McCafferty |
+| 149 | 515 | Kaylee McCafferty |
+| 150 | 515 | Real Ri |
 | 151 | 514 | Ashley House |
 | 152 | 513 | Butta |
 | 153 | 511 | Ramone Armstrong |
@@ -403,8 +403,8 @@
 | 395 | 236 | Julio A Laracuente |
 | 396 | 236 | Niceday |
 | 397 | 235 | Kimberly Mitchell |
-| 398 | 234 | Manny Trindade |
-| 399 | 234 | Jennifer Leigh |
+| 398 | 234 | Jennifer Leigh |
+| 399 | 234 | Manny Trindade |
 | 400 | 234 | Jaybee Nguyen |
 | 401 | 233 | Mema |
 | 402 | 233 | Jumpy Gridclear |
