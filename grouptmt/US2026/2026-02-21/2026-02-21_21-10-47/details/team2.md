@@ -207,8 +207,8 @@
 | 199 | 591 | Diana Fitzwater |
 | 200 | 587 | Hyper Cluster |
 | 201 | 586 | Stephen Stephen |
-| 202 | 583 | Steve Grotto |
-| 203 | 583 | Jessicah Myers |
+| 202 | 583 | Jessicah Myers |
+| 203 | 583 | Steve Grotto |
 | 204 | 579 | Gary Stash |
 | 205 | 578 | Sally Dennis |
 | 206 | 576 | Shannon Joslin |
@@ -454,8 +454,8 @@
 | 446 | 314 | Regina Young |
 | 447 | 314 | James Zaragoza |
 | 448 | 312 | Michelle Pike |
-| 449 | 312 | Andrea Maher |
-| 450 | 312 | Justin Hines |
+| 449 | 312 | Justin Hines |
+| 450 | 312 | Andrea Maher |
 | 451 | 310 | Sharon Mills |
 | 452 | 309 | Autumn Schaeffer |
 | 453 | 308 | Spunkysmom |
@@ -471,16 +471,16 @@
 | 463 | 303 | Ann Knutson Anderson |
 | 464 | 303 | Candy Pitts |
 | 465 | 303 | Angie Marie |
-| 466 | 303 | Crystal Greene |
-| 467 | 303 | Amanda Schaffer |
+| 466 | 303 | Amanda Schaffer |
+| 467 | 303 | Crystal Greene |
 | 468 | 302 | stacey |
 | 469 | 301 | Audra Williams |
 | 470 | 301 | Claire |
 | 471 | 301 | Funky Caster |
 | 472 | 299 | Megan Phillips |
 | 473 | 299 | Diallo Sparkman |
-| 474 | 298 | Snappy Shatterfit |
-| 475 | 298 | RetroLemur |
+| 474 | 298 | RetroLemur |
+| 475 | 298 | Snappy Shatterfit |
 | 476 | 297 | Peachy Blockbuilder |
 | 477 | 296 | Jennifer Darby |
 | 478 | 296 | Jennifer Casey-Kay |

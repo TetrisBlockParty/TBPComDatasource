@@ -39,8 +39,8 @@
 | 31 | 996 | Danielle Cutler |
 | 32 | 989 | Kay |
 | 33 | 945 | Liv Whetson |
-| 34 | 928 | Stephanie Rice |
-| 35 | 928 | Snappy Fitzone |
+| 34 | 928 | Snappy Fitzone |
+| 35 | 928 | Stephanie Rice |
 | 36 | 917 | Mahman |
 | 37 | 903 | Briarblack |
 | 38 | 879 | Shonna Roberts |
@@ -70,8 +70,8 @@
 | 62 | 580 | Amanda L Baker |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Rachael McClain Owens |
-| 66 | 561 | Dolores Falco |
+| 65 | 561 | Dolores Falco |
+| 66 | 561 | Rachael McClain Owens |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -132,8 +132,8 @@
 | 124 | 307 | Peggi Charon |
 | 125 | 307 | Blocked |
 | 126 | 305 | Tessina Dewey-Mancino |
-| 127 | 300 | Stephanie Blkpep Davidson |
-| 128 | 300 | Sherika C. McDaniels |
+| 127 | 300 | Sherika C. McDaniels |
+| 128 | 300 | Stephanie Blkpep Davidson |
 | 129 | 293 | Poppy Splitter |
 | 130 | 287 | Logan Naccarato |
 | 131 | 286 | Jacqueline Rodriguez |
@@ -364,8 +364,8 @@
 | 356 | 102 | Crystal Hine |
 | 357 | 102 | Sdot |
 | 358 | 102 | Christian Luna |
-| 359 | 101 | Hyper Bridger |
-| 360 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 359 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 360 | 101 | Hyper Bridger |
 | 361 | 100 | Brooke Bauer |
 | 362 | 100 | Bobbi Moore |
 | 363 | 99 | Elyse Grabowsky |

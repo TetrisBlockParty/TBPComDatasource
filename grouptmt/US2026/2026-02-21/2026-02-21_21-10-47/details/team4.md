@@ -47,8 +47,8 @@
 | 39 | 497 | Anthony Bryan Riva |
 | 40 | 494 | Rodney McMath Jr. |
 | 41 | 486 | Landon Keith Graffeo |
-| 42 | 483 | Kimberly Love |
-| 43 | 483 | Carmethia Clemons Haslerig |
+| 42 | 483 | Carmethia Clemons Haslerig |
+| 43 | 483 | Kimberly Love |
 | 44 | 470 | Carolyn Wallace |
 | 45 | 465 | Dawn Alexander |
 | 46 | 463 | Lisa Davis |
@@ -160,9 +160,9 @@
 | 152 | 147 | Jay28 |
 | 153 | 145 | Daria Rycewicz |
 | 154 | 144 | Mr. Party |
-| 155 | 141 | ĥuf |
-| 156 | 141 | Malakai Darien Fox |
-| 157 | 141 | Marcus Todd |
+| 155 | 141 | Malakai Darien Fox |
+| 156 | 141 | Marcus Todd |
+| 157 | 141 | ĥuf |
 | 158 | 141 | Kathy Allen |
 | 159 | 140 | John Brunetti |
 | 160 | 140 | Shannon Ferrari |
@@ -245,9 +245,9 @@
 | 237 | 101 | mike |
 | 238 | 101 | Nikki Rae Gordon |
 | 239 | 101 | Spicy Cascadezone |
-| 240 | 101 | Saulc1991 |
-| 241 | 101 | Zesty Linkgrid |
-| 242 | 101 | Zach Kerbs |
+| 240 | 101 | Zesty Linkgrid |
+| 241 | 101 | Zach Kerbs |
+| 242 | 101 | Saulc1991 |
 | 243 | 100 | Jacob Richard |
 | 244 | 100 | Maureen Flanigan |
 | 245 | 100 | Alexandra Karavias |
