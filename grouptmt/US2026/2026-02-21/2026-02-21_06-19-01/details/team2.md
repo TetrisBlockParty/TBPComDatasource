@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3648 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -89,8 +89,8 @@
 | 81 | 658 | Pacynthia Williams |
 | 82 | 658 | Vistabrat |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Stephanie Chapman |
-| 85 | 649 | Anna Edwards |
+| 84 | 649 | Anna Edwards |
+| 85 | 649 | Stephanie Chapman |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 628 | Mari Ac |
 | 88 | 613 | Stephanie Neuburger |
@@ -159,8 +159,8 @@
 | 151 | 409 | Sparkles |
 | 152 | 406 | Erin StFrancis |
 | 153 | 401 | Poppy Snap |
-| 154 | 400 | Tammy Allen |
-| 155 | 400 | Crystie Hicks |
+| 154 | 400 | Crystie Hicks |
+| 155 | 400 | Tammy Allen |
 | 156 | 397 | Ashley Guernsey-Martin |
 | 157 | 391 | Chilly Bridgepiece |
 | 158 | 391 | Steven Marshaun |
@@ -207,8 +207,8 @@
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
 | 201 | 312 | Michelle Pike |
-| 202 | 311 | Dizzy Zone |
-| 203 | 311 | Véronique Lévesque Sabourin |
+| 202 | 311 | Véronique Lévesque Sabourin |
+| 203 | 311 | Dizzy Zone |
 | 204 | 309 | James Zaragoza |
 | 205 | 309 | Oscar Bernie |
 | 206 | 306 | Kristopher Miller |
@@ -392,8 +392,8 @@
 | 384 | 180 | Peter Palestino |
 | 385 | 180 | Jackie Lucas |
 | 386 | 179 | Desiree Harris Rosch |
-| 387 | 179 | Bette Prieto |
-| 388 | 179 | Cat |
+| 387 | 179 | Cat |
+| 388 | 179 | Bette Prieto |
 | 389 | 177 | Facuetoo |
 | 390 | 177 | John |
 | 391 | 177 | Ryan Meilleur |
@@ -418,11 +418,11 @@
 | 410 | 169 | William Hunt |
 | 411 | 169 | Eddie Perez |
 | 412 | 169 | Fi Ne |
-| 413 | 168 | HarleyJane |
-| 414 | 168 | Kati Russeau |
+| 413 | 168 | Kati Russeau |
+| 414 | 168 | HarleyJane |
 | 415 | 168 | Phil J. Grombliniak |
-| 416 | 167 | Sabrena Yeisley |
-| 417 | 167 | mshir |
+| 416 | 167 | mshir |
+| 417 | 167 | Sabrena Yeisley |
 | 418 | 166 | suuny |
 | 419 | 165 | Cathy Bitters |
 | 420 | 165 | Austin Wilson |
@@ -564,7 +564,7 @@
 | 556 | 126 | Lucy Marshall |
 | 557 | 126 | Tara Creel |
 | 558 | 125 | Tina Marie |
-| 559 | 125 | NickyBrooks |
+| 559 | 125 | Martina Gabrielle LaPolla |
 | 560 | 125 | Connor Gaughran |
 | 561 | 125 | NickyBrooks |
 | 562 | 125 | Maya June |
@@ -620,8 +620,8 @@
 | 612 | 116 | Slimkaite |
 | 613 | 115 | Melissa Schwager |
 | 614 | 115 | Heather Schelkopf |
-| 615 | 115 | Jamie Brickley |
-| 616 | 115 | Fae-Bulous |
+| 615 | 115 | Fae-Bulous |
+| 616 | 115 | Jamie Brickley |
 | 617 | 114 | Melissa Maples |
 | 618 | 114 | Kelli Clark |
 | 619 | 114 | Biggest thing |

@@ -39,8 +39,8 @@
 | 31 | 587 | Danielle Becker |
 | 32 | 587 | Suzieq |
 | 33 | 568 | Shonna Roberts |
-| 34 | 546 | Dolores Falco |
-| 35 | 546 | Snappy Glidepiece |
+| 34 | 546 | Snappy Glidepiece |
+| 35 | 546 | Dolores Falco |
 | 36 | 541 | MissTaylor |
 | 37 | 533 | Sarah Fehring |
 | 38 | 528 | Natasha Jones |

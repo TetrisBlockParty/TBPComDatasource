@@ -59,8 +59,8 @@
 | 51 | 194 | Jamie Mann-Deichmann |
 | 52 | 185 | loulou |
 | 53 | 179 | Epic Curvetile |
-| 54 | 170 | Girl |
-| 55 | 170 | Leah Kutz Zirbel |
+| 54 | 170 | Leah Kutz Zirbel |
+| 55 | 170 | Girl |
 | 56 | 168 | Anthony Magaraci |
 | 57 | 167 | Dustee Craddock-Harrison |
 | 58 | 166 | Denise Carlson |
@@ -77,8 +77,8 @@
 | 69 | 150 | ZeeZee |
 | 70 | 147 | Jay28 |
 | 71 | 146 | Peachy Fall |
-| 72 | 141 | Desi Desporte |
-| 73 | 141 | Malakai Darien Fox |
+| 72 | 141 | Malakai Darien Fox |
+| 73 | 141 | Desi Desporte |
 | 74 | 140 | Shannon Ferrari |
 | 75 | 134 | Chirpy Basepiece |
 | 76 | 134 | Jessica Bohlken |
@@ -202,8 +202,8 @@
 | 194 | 67 | Frank Joseph Epson |
 | 195 | 67 | Cozy Framezone |
 | 196 | 66 | Rebecca Blake |
-| 197 | 66 | Moonsterix |
-| 198 | 66 | Ericca Eldridge |
+| 197 | 66 | Ericca Eldridge |
+| 198 | 66 | Moonsterix |
 | 199 | 66 | mitch |
 | 200 | 65 | Chaz Duncan |
 | 201 | 65 | Lee Silpe |
