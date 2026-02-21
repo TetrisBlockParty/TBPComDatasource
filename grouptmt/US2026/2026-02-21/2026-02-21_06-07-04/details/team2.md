@@ -201,8 +201,8 @@
 | 193 | 323 | Juanita Lyons |
 | 194 | 323 | Briana Alexander |
 | 195 | 319 | Brittney Jean |
-| 196 | 318 | Arwa Fatimah |
-| 197 | 318 | Trista Dumais |
+| 196 | 318 | Trista Dumais |
+| 197 | 318 | Arwa Fatimah |
 | 198 | 317 | bru |
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
@@ -258,16 +258,16 @@
 | 250 | 261 | Leah |
 | 251 | 261 | MrsClaudette Will'sIam Matthews |
 | 252 | 261 | Peppy Zone |
-| 253 | 260 | Dapper Dasher |
-| 254 | 260 | Denise Rickman |
+| 253 | 260 | Denise Rickman |
+| 254 | 260 | Dapper Dasher |
 | 255 | 257 | Shameika Trail |
 | 256 | 257 | Lyndi Robinson Wakefield |
 | 257 | 256 | Giddy Gridclear |
 | 258 | 256 | Tee Jaleesa |
 | 259 | 255 | Santana Miyagi |
 | 260 | 254 | Julie Hamilton |
-| 261 | 252 | Matt Johnson |
-| 262 | 252 | Alezandra Smith |
+| 261 | 252 | Alezandra Smith |
+| 262 | 252 | Matt Johnson |
 | 263 | 251 | Ann Knutson Anderson |
 | 264 | 250 | Barbra Miller |
 | 265 | 249 | SwampRebel |
@@ -300,8 +300,8 @@
 | 292 | 233 | Robin Kerby |
 | 293 | 233 | Alyssia Tancredi |
 | 294 | 232 | Amber Brion |
-| 295 | 231 | Ginger |
-| 296 | 231 | Dylan Thomason |
+| 295 | 231 | Dylan Thomason |
+| 296 | 231 | Ginger |
 | 297 | 230 | snkylnk |
 | 298 | 228 | Michelle Sager |
 | 299 | 227 | Nutty Matchline |

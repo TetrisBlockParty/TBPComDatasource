@@ -222,8 +222,8 @@
 | 214 | 94 | Angie Harper |
 | 215 | 94 | Carrie Huskey |
 | 216 | 93 | Tiffany Ford |
-| 217 | 92 | Ava Petito |
-| 218 | 92 | Jennifer Caputo |
+| 217 | 92 | Jennifer Caputo |
+| 218 | 92 | Ava Petito |
 | 219 | 91 | Martin Bernier |
 | 220 | 90 | Tiffany Kaupang |
 | 221 | 90 | Nichole Greene |
