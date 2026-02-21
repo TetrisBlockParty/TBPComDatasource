@@ -260,8 +260,8 @@
 | 252 | 176 | Jessica Kaye DeAguero |
 | 253 | 175 | Tina Blessed Cage |
 | 254 | 173 | Macy Williams |
-| 255 | 170 | Taryece Gause |
-| 256 | 170 | Darlene Bowman |
+| 255 | 170 | Darlene Bowman |
+| 256 | 170 | Taryece Gause |
 | 257 | 170 | Kenya Felix |
 | 258 | 169 | Lively Catcher |
 | 259 | 168 | Peppy Zone |
@@ -349,7 +349,7 @@
 | 341 | 130 | Nerdy Riserfit |
 | 342 | 130 | Cranky Zonebuilder |
 | 343 | 129 | Jean FU Jagielski |
-| 344 | 129 | Amy Ross |
+| 344 | 129 | Angela Kummer |
 | 345 | 129 | snaps |
 | 346 | 129 | Amy Ross |
 | 347 | 129 | Britt Woolston |

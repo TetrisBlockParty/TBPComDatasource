@@ -63,12 +63,12 @@
 | 55 | 114 | Jessica Cagle |
 | 56 | 113 | Degenerate |
 | 57 | 112 | Chirpy Basepiece |
-| 58 | 111 | Gwendolyn Pitcairn |
-| 59 | 111 | Zany Shatterer |
+| 58 | 111 | Zany Shatterer |
+| 59 | 111 | Gwendolyn Pitcairn |
 | 60 | 110 | H.R. Block |
-| 61 | 109 | Epic Curvetile |
-| 62 | 109 | Diana Houts |
-| 63 | 109 | Bryan Hodgins |
+| 61 | 109 | Bryan Hodgins |
+| 62 | 109 | Epic Curvetile |
+| 63 | 109 | Diana Houts |
 | 64 | 108 | Mr. Party |
 | 65 | 101 | Michelle Morris |
 | 66 | 100 | Andria Lynn |
@@ -76,8 +76,8 @@
 | 68 | 99 | YoMomma |
 | 69 | 98 | Stephme310 |
 | 70 | 98 | Duck |
-| 71 | 96 | TinyLegoRose |
-| 72 | 96 | Zappy Snaplink |
+| 71 | 96 | Zappy Snaplink |
+| 72 | 96 | TinyLegoRose |
 | 73 | 92 | Kristin MacDonald |
 | 74 | 90 | ZeeZee |
 | 75 | 89 | Zesty Twistbuilder |
@@ -95,10 +95,10 @@
 | 87 | 81 | Michelle Parker |
 | 88 | 81 | Kesha Brady |
 | 89 | 80 | Melissa Adams |
-| 90 | 79 | Avy Absol |
-| 91 | 79 | Shainne Brewer |
-| 92 | 78 | Chair |
-| 93 | 78 | Rebecca Moulton Pinciaro |
+| 90 | 79 | Shainne Brewer |
+| 91 | 79 | Avy Absol |
+| 92 | 78 | Rebecca Moulton Pinciaro |
+| 93 | 78 | Chair |
 | 94 | 77 | Jae Job |
 | 95 | 76 | Jessica Miller |
 | 96 | 75 | Rosemary Foster |
