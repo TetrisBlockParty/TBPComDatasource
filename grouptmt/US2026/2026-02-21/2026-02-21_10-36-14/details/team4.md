@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Lori Walker |
-| 63 | 198 | Mike Solo |
+| 62 | 198 | Mike Solo |
+| 63 | 198 | Lori Walker |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -92,15 +92,15 @@
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
 | 86 | 150 | ZeeZee |
-| 87 | 147 | 030Synner |
-| 88 | 147 | Jay28 |
+| 87 | 147 | Jay28 |
+| 88 | 147 | 030Synner |
 | 89 | 146 | Peachy Fall |
 | 90 | 141 | Malakai Darien Fox |
 | 91 | 140 | Shannon Ferrari |
 | 92 | 138 | Shainne Brewer |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Chirpy Basepiece |
-| 95 | 134 | Jessica Bohlken |
+| 94 | 134 | Jessica Bohlken |
+| 95 | 134 | Chirpy Basepiece |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Melissa Priest Sellers |
 | 98 | 132 | Jessica Cagle |
@@ -152,8 +152,8 @@
 | 144 | 104 | YoMomma |
 | 145 | 102 | Faja |
 | 146 | 102 | ĥuf |
-| 147 | 101 | Michelle Morris |
-| 148 | 101 | Saulc1991 |
+| 147 | 101 | Saulc1991 |
+| 148 | 101 | Michelle Morris |
 | 149 | 100 | Alexandra Karavias |
 | 150 | 99 | Anthony Bryan Riva |
 | 151 | 99 | KM8 |

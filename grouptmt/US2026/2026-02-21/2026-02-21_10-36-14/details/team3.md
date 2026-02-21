@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Dolores Falco |
-| 43 | 546 | Snappy Glidepiece |
+| 42 | 546 | Snappy Glidepiece |
+| 43 | 546 | Dolores Falco |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -141,8 +141,8 @@
 | 133 | 178 | AlsoJess |
 | 134 | 176 | Ryan Williams |
 | 135 | 172 | Nicole Flippo |
-| 136 | 166 | Danielle Mogg |
-| 137 | 166 | Kelly Ann Child |
+| 136 | 166 | Kelly Ann Child |
+| 137 | 166 | Danielle Mogg |
 | 138 | 165 | Kali Kelz Williams |
 | 139 | 164 | rosy |
 | 140 | 163 | Karon Griffin |
@@ -165,8 +165,8 @@
 | 157 | 149 | Angel Mendez |
 | 158 | 149 | Bea Miles |
 | 159 | 147 | Sashay Tapae Simpson |
-| 160 | 146 | Denita Mungro |
-| 161 | 146 | Latoya Mayne |
+| 160 | 146 | Latoya Mayne |
+| 161 | 146 | Denita Mungro |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
 | 164 | 140 | Jay Horn |
@@ -182,8 +182,8 @@
 | 174 | 127 | Connie Mohler-Fair |
 | 175 | 127 | Aerian Preston |
 | 176 | 126 | Brandon Givens |
-| 177 | 125 | Shimika Enay Wallace |
-| 178 | 125 | Felicia Doxey |
+| 177 | 125 | Felicia Doxey |
+| 178 | 125 | Shimika Enay Wallace |
 | 179 | 124 | Cesar Barraza |
 | 180 | 123 | Marci Mize Fandrich |
 | 181 | 123 | Terry Jo Jones |

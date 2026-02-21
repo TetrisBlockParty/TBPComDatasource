@@ -638,8 +638,8 @@
 | 630 | 133 | Gina Caulder |
 | 631 | 133 | Britt Woolston |
 | 632 | 133 | candy |
-| 633 | 133 | Rae Rae |
-| 634 | 133 | Epic Stackzone |
+| 633 | 133 | Epic Stackzone |
+| 634 | 133 | Rae Rae |
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Samie Dayle |
 | 637 | 132 | Chilly Rollblock |
