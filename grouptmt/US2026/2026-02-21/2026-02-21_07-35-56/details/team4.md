@@ -75,8 +75,8 @@
 | 67 | 170 | Leah Kutz Zirbel |
 | 68 | 170 | Girl |
 | 69 | 167 | Denise Carlson |
-| 70 | 165 | Casey Grabner |
-| 71 | 165 | Courtney Cicoria |
+| 70 | 165 | Courtney Cicoria |
+| 71 | 165 | Casey Grabner |
 | 72 | 160 | Carter Jones |
 | 73 | 159 | Justin Hannigan |
 | 74 | 159 | Holly Jolly |
@@ -111,10 +111,10 @@
 | 103 | 123 | Nugget |
 | 104 | 123 | Cherrish Duren |
 | 105 | 122 | Sherri |
-| 106 | 121 | 030Synner |
+| 106 | 121 | Smiley Tiltbuilder |
 | 107 | 121 | Klo |
 | 108 | 121 | Zany Shatterer |
-| 109 | 121 | Smiley Tiltbuilder |
+| 109 | 121 | 030Synner |
 | 110 | 120 | Joshua Guess |
 | 111 | 119 | East Mamba |
 | 112 | 119 | Kristin Manee |
@@ -142,13 +142,13 @@
 | 134 | 104 | YoMomma |
 | 135 | 104 | Adam Randall |
 | 136 | 102 | Faja |
-| 137 | 101 | Stephme310 |
-| 138 | 101 | Michelle Morris |
+| 137 | 101 | Michelle Morris |
+| 138 | 101 | Stephme310 |
 | 139 | 101 | Saulc1991 |
 | 140 | 100 | Alexandra Karavias |
 | 141 | 100 | Megan Cutshaw |
-| 142 | 98 | Chaz |
-| 143 | 98 | Duck |
+| 142 | 98 | Duck |
+| 143 | 98 | Chaz |
 | 144 | 98 | Allen Lloyd |
 | 145 | 97 | Brandi Durig |
 | 146 | 96 | Zappy Snaplink |
@@ -268,12 +268,12 @@
 | 260 | 57 | Hyper Matchclear |
 | 261 | 57 | Heather Bruce |
 | 262 | 56 | Brittany Little |
-| 263 | 56 | Cj Lewis-haut |
-| 264 | 56 | Crystal Lynn |
+| 263 | 56 | Crystal Lynn |
+| 264 | 56 | Cj Lewis-haut |
 | 265 | 56 | Brandon Crabbs |
-| 266 | 55 | TRCuse |
-| 267 | 55 | Gdiguy |
-| 268 | 55 | Keshia Lyons |
+| 266 | 55 | Keshia Lyons |
+| 267 | 55 | TRCuse |
+| 268 | 55 | Gdiguy |
 | 269 | 55 | Mylo Lipscomb |
 | 270 | 55 | James Hurley Jr. |
 | 271 | 55 | David Phifer |

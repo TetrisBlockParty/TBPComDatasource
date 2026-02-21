@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3725 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -92,8 +92,8 @@
 | 84 | 674 | Dannette Goldberg-Richards |
 | 85 | 672 | Wendy Harder Gage |
 | 86 | 665 | Dineisha Carpenter |
-| 87 | 658 | Vistabrat |
-| 88 | 658 | Pacynthia Williams |
+| 87 | 658 | Pacynthia Williams |
+| 88 | 658 | Vistabrat |
 | 89 | 653 | Becky Weeks-Garry |
 | 90 | 649 | Stephanie Chapman |
 | 91 | 649 | Anna Edwards |
@@ -232,14 +232,14 @@
 | 224 | 305 | Libby Hicks |
 | 225 | 303 | Crystal Greene |
 | 226 | 301 | Claire |
-| 227 | 299 | Deborah Miller |
-| 228 | 299 | Christy Krissie |
+| 227 | 299 | Christy Krissie |
+| 228 | 299 | Deborah Miller |
 | 229 | 297 | Brenda Utphall |
 | 230 | 296 | Jennifer Casey-Kay |
 | 231 | 296 | Amber Gray |
 | 232 | 295 | Zany Clusterbuilder |
-| 233 | 295 | Angela Bonquiqui Dinish |
-| 234 | 295 | Diallo Sparkman |
+| 233 | 295 | Diallo Sparkman |
+| 234 | 295 | Angela Bonquiqui Dinish |
 | 235 | 293 | Scott Treadway |
 | 236 | 293 | David Holliday |
 | 237 | 290 | Jessie McDougald |
@@ -519,7 +519,7 @@
 | 511 | 146 | Ibiza Carolina LaRose |
 | 512 | 145 | Scott Rackley |
 | 513 | 145 | Chareen Lauritzen |
-| 514 | 145 | Scott Rackley |
+| 514 | 145 | William Hughes |
 | 515 | 145 | Catina Hutchison |
 | 516 | 145 | Lazy Riseclear |
 | 517 | 145 | Lakeela Wise |
