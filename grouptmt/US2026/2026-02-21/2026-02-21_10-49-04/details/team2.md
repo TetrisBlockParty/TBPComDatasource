@@ -148,8 +148,8 @@
 | 140 | 520 | Kimberly Schall |
 | 141 | 519 | Maria Escobar |
 | 142 | 517 | Debra Williams |
-| 143 | 515 | Real Ri |
-| 144 | 515 | Kaylee McCafferty |
+| 143 | 515 | Kaylee McCafferty |
+| 144 | 515 | Real Ri |
 | 145 | 513 | Butta |
 | 146 | 511 | Dizzy Zone |
 | 147 | 510 | Ashley House |
@@ -746,7 +746,7 @@
 | 738 | 116 | SpaceCase085 |
 | 739 | 116 | Slimkaite |
 | 740 | 116 | Meganator42 |
-| 741 | 116 | Slimkaite |
+| 741 | 116 | Moua Ying |
 | 742 | 115 | Melissa Schwager |
 | 743 | 115 | Angela KaplaSchwahn |
 | 744 | 115 | AsnPryBoy83 |

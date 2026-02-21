@@ -88,10 +88,10 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
-| 85 | 307 | Blocked |
-| 86 | 307 | Peggi Charon |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
+| 85 | 307 | Peggi Charon |
+| 86 | 307 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
 | 88 | 299 | Cynthia Castros-Hampton |
 | 89 | 272 | Mahman |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -186,8 +186,8 @@
 | 178 | 125 | Shimika Enay Wallace |
 | 179 | 125 | Felicia Doxey |
 | 180 | 124 | Cesar Barraza |
-| 181 | 123 | Sarajane Lokan |
-| 182 | 123 | Terry Jo Jones |
+| 181 | 123 | Terry Jo Jones |
+| 182 | 123 | Sarajane Lokan |
 | 183 | 123 | Marci Mize Fandrich |
 | 184 | 122 | Katrina E Jelks |
 | 185 | 122 | Giggly Brickroll |
@@ -363,8 +363,8 @@
 | 355 | 70 | Willow |
 | 356 | 70 | cherry 🍒pie |
 | 357 | 70 | Brave Bruno |
-| 358 | 70 | Willow |
-| 359 | 70 | cherry 🍒pie |
+| 358 | 70 | Rachel |
+| 359 | 70 | Leticia Lynn Lowe |
 | 360 | 69 | Spunky Combofall |
 | 361 | 68 | Reina Roth |
 | 362 | 67 | Will Miller |
