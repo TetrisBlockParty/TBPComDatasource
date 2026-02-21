@@ -135,8 +135,8 @@
 | 127 | 180 | Tessina Dewey-Mancino |
 | 128 | 180 | Fallorina Susana |
 | 129 | 179 | Daira Largen |
-| 130 | 178 | Khaleada McGill Banks |
-| 131 | 178 | AlsoJess |
+| 130 | 178 | AlsoJess |
+| 131 | 178 | Khaleada McGill Banks |
 | 132 | 176 | Ryan Williams |
 | 133 | 166 | Danielle Mogg |
 | 134 | 166 | Kelly Ann Child |
@@ -161,8 +161,8 @@
 | 153 | 149 | Trisha Balmer |
 | 154 | 149 | Angel Mendez |
 | 155 | 147 | Sashay Tapae Simpson |
-| 156 | 146 | Latoya Mayne |
-| 157 | 146 | Denita Mungro |
+| 156 | 146 | Denita Mungro |
+| 157 | 146 | Latoya Mayne |
 | 158 | 142 | Erica Anderson |
 | 159 | 140 | Jay Horn |
 | 160 | 140 | Gumbo |
@@ -215,8 +215,8 @@
 | 207 | 108 | LaTanya GeminiondaRise Johnson |
 | 208 | 108 | Rachel Napper |
 | 209 | 107 | Sherry Ogden |
-| 210 | 106 | Desiree Gold |
-| 211 | 106 | Eon Harris |
+| 210 | 106 | Eon Harris |
+| 211 | 106 | Desiree Gold |
 | 212 | 105 | Emi |
 | 213 | 105 | Carol Cain Thurman |
 | 214 | 105 | Danielle Weikel |

@@ -188,8 +188,8 @@
 | 180 | 397 | Ashley Guernsey-Martin |
 | 181 | 394 | Em Chen |
 | 182 | 393 | Altamirano Michael |
-| 183 | 391 | Chilly Bridgepiece |
-| 184 | 391 | Steven Marshaun |
+| 183 | 391 | Steven Marshaun |
+| 184 | 391 | Chilly Bridgepiece |
 | 185 | 391 | Rhonda Milstead |
 | 186 | 391 | Qiana Sanders |
 | 187 | 388 | coleksquad |
@@ -412,8 +412,8 @@
 | 404 | 196 | Cass Shirley |
 | 405 | 195 | Snappy Shatterfit |
 | 406 | 195 | Emily Lyric Converse |
-| 407 | 194 | Kimberly Ann |
-| 408 | 194 | Mike Aprilliano |
+| 407 | 194 | Mike Aprilliano |
+| 408 | 194 | Kimberly Ann |
 | 409 | 194 | Hoppy Brickmatch |
 | 410 | 193 | Matthew Turner |
 | 411 | 193 | Kelly Ann McCormick |
@@ -476,8 +476,8 @@
 | 468 | 169 | Lively Catcher |
 | 469 | 168 | Phil J. Grombliniak |
 | 470 | 168 | Kati Russeau |
-| 471 | 167 | mshir |
-| 472 | 167 | Sabrena Yeisley |
+| 471 | 167 | Sabrena Yeisley |
+| 472 | 167 | mshir |
 | 473 | 166 | suuny |
 | 474 | 165 | Tara Lynn Janes |
 | 475 | 165 | Catherine Varea |
@@ -485,8 +485,8 @@
 | 477 | 165 | Cathy Bitters |
 | 478 | 164 | Jessica Vega |
 | 479 | 164 | Sara Pennington |
-| 480 | 163 | Lakeela Wise |
-| 481 | 163 | Danielle Ayoub |
+| 480 | 163 | Danielle Ayoub |
+| 481 | 163 | Lakeela Wise |
 | 482 | 163 | Albert McKnight |
 | 483 | 162 | Michael Artis |
 | 484 | 162 | LC Hamilton |
@@ -522,13 +522,13 @@
 | 514 | 155 | Monarca26 |
 | 515 | 154 | Bryan Werleman |
 | 516 | 154 | Lydia Greenman |
-| 517 | 154 | Cini |
-| 518 | 154 | Tiffney Wroten |
+| 517 | 154 | Tiffney Wroten |
+| 518 | 154 | Cini |
 | 519 | 154 | Lori Maring |
 | 520 | 153 | Luna |
 | 521 | 153 | Poppy Gridder |
-| 522 | 152 | James Smith |
-| 523 | 152 | Kyle LeRoy Harris |
+| 522 | 152 | Kyle LeRoy Harris |
+| 523 | 152 | James Smith |
 | 524 | 152 | Anthony Mignacca |
 | 525 | 152 | JP Parks |
 | 526 | 152 | Kristin King |

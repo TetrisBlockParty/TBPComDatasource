@@ -22,8 +22,8 @@
 | 14 | 608 | Denny Shives |
 | 15 | 606 | Rachel Anne |
 | 16 | 594 | Lucille Truesdale |
-| 17 | 590 | Valerie Roberts |
-| 18 | 590 | Dee Kay |
+| 17 | 590 | Dee Kay |
+| 18 | 590 | Valerie Roberts |
 | 19 | 589 | Chilly Line |
 | 20 | 587 | Koshin Abdirahman |
 | 21 | 578 | Leah Gorsuch |
@@ -84,8 +84,8 @@
 | 76 | 165 | Courtney Cicoria |
 | 77 | 165 | Casey Grabner |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -99,22 +99,22 @@
 | 91 | 134 | Chirpy Basepiece |
 | 92 | 134 | Jessica Bohlken |
 | 93 | 133 | Robin Watters |
-| 94 | 132 | Jessica Cagle |
-| 95 | 132 | Degenerate |
-| 96 | 132 | Melissa Priest Sellers |
+| 94 | 132 | Degenerate |
+| 95 | 132 | Melissa Priest Sellers |
+| 96 | 132 | Jessica Cagle |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
-| 101 | 130 | Lucas J Sutton |
-| 102 | 130 | Casey Jeffcoat |
-| 103 | 129 | John Brunetti |
-| 104 | 129 | Landon Keith Graffeo |
+| 101 | 130 | Casey Jeffcoat |
+| 102 | 130 | Lucas J Sutton |
+| 103 | 129 | Landon Keith Graffeo |
+| 104 | 129 | John Brunetti |
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Nugget |
-| 109 | 123 | Cherrish Duren |
+| 108 | 123 | Cherrish Duren |
+| 109 | 123 | Nugget |
 | 110 | 122 | Sherri |
 | 111 | 121 | Zany Shatterer |
 | 112 | 121 | Klo |
@@ -183,8 +183,8 @@
 | 175 | 85 | Marcus TheeyoungWoe Gilmore |
 | 176 | 85 | Mimi |
 | 177 | 83 | Avy Absol |
-| 178 | 83 | Joseph Gray |
-| 179 | 83 | Holly |
+| 178 | 83 | Holly |
+| 179 | 83 | Joseph Gray |
 | 180 | 83 | Abigail Murphy |
 | 181 | 82 | Jason Frehner |
 | 182 | 82 | Kim Hunt |
@@ -197,7 +197,7 @@
 | 189 | 81 | Kathy Allen |
 | 190 | 80 | Chaz Duncan |
 | 191 | 80 | Melissa Adams |
-| 192 | 79 | Anthony Bryan Riva |
+| 192 | 79 | Kametsunoyaiba |
 | 193 | 79 | Perky Piecegrid |
 | 194 | 79 | Joseph Pace |
 | 195 | 79 | Anthony Bryan Riva |
