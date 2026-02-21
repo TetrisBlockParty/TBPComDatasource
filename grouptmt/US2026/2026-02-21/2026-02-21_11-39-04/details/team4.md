@@ -104,9 +104,9 @@
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Serena Goodridge |
+| 99 | 134 | Jessica Bohlken |
 | 100 | 134 | Chirpy Basepiece |
-| 101 | 134 | Jessica Bohlken |
+| 101 | 134 | Serena Goodridge |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Melissa Priest Sellers |
 | 104 | 132 | Jenna McGeorge |

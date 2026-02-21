@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Stef Hu |
-| 35 | 348 | Chipper Gridlock |
+| 34 | 348 | Chipper Gridlock |
+| 35 | 348 | Stef Hu |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -61,8 +61,8 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Tdub |
-| 57 | 212 | Jaimie Lynn |
+| 56 | 212 | Jaimie Lynn |
+| 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Carrie Beck Geartz |
 | 60 | 208 | Mandyy Rae |
@@ -73,8 +73,8 @@
 | 65 | 201 | Ananda Mendez |
 | 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Billie Dawn Sparks |
-| 69 | 198 | Happy Snapbuild |
+| 68 | 198 | Happy Snapbuild |
+| 69 | 198 | Billie Dawn Sparks |
 | 70 | 197 | Cynthia Bradley |
 | 71 | 194 | Giggly Builderline |
 | 72 | 194 | Sharon Reynolds |
@@ -166,8 +166,8 @@
 | 158 | 99 | Mizzledagod |
 | 159 | 99 | Melissa Bires Hussar |
 | 160 | 98 | Witty Builderfit |
-| 161 | 96 | Barrbaric |
-| 162 | 96 | Melissa Lemmon |
+| 161 | 96 | Melissa Lemmon |
+| 162 | 96 | Barrbaric |
 | 163 | 96 | Nery Martinez |
 | 164 | 94 | Luciano Moreira |
 | 165 | 93 | Cody Gates |

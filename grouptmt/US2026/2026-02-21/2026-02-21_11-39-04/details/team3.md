@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -78,8 +78,8 @@
 | 70 | 348 | Mendoza Lee Christy |
 | 71 | 345 | Christine Niles |
 | 72 | 343 | Silly Twist |
-| 73 | 342 | Trezure Gonzalez |
-| 74 | 342 | Annie Déè |
+| 73 | 342 | Annie Déè |
+| 74 | 342 | Trezure Gonzalez |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
@@ -116,8 +116,8 @@
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Shunta Jacobs |
-| 112 | 212 | Kristie McFarland |
+| 111 | 212 | Kristie McFarland |
+| 112 | 212 | Shunta Jacobs |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -135,12 +135,12 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
@@ -260,7 +260,7 @@
 | 252 | 96 | Tasha Wesson-Torrence |
 | 253 | 96 | Jason-Ashley Ludlow |
 | 254 | 96 | Hanna Kim |
-| 255 | 96 | D3NO |
+| 255 | 96 | Christopher Woost |
 | 256 | 95 | Brooke Bauer |
 | 257 | 94 | Angie Harper |
 | 258 | 94 | Andrew Thorson |

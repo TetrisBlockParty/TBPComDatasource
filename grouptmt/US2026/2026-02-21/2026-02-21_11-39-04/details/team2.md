@@ -45,8 +45,8 @@
 | 37 | 1234 | blackq |
 | 38 | 1215 | Megan Garrick |
 | 39 | 1210 | Brittany Alicia |
-| 40 | 1173 | Devin Lee |
-| 41 | 1173 | Katrina Williams Balmir |
+| 40 | 1173 | Katrina Williams Balmir |
+| 41 | 1173 | Devin Lee |
 | 42 | 1157 | Priscilla Noel |
 | 43 | 1150 | Izabel Herrera |
 | 44 | 1143 | Lucky Ladybug |
@@ -113,12 +113,12 @@
 | 105 | 658 | Vistabrat |
 | 106 | 658 | Pacynthia Williams |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Stephanie Chapman |
-| 109 | 649 | Anna Edwards |
+| 108 | 649 | Anna Edwards |
+| 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Peppy Zone |
-| 113 | 631 | Loopy Clusterbuilder |
+| 112 | 631 | Loopy Clusterbuilder |
+| 113 | 631 | Peppy Zone |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -149,8 +149,8 @@
 | 141 | 520 | Kimberly Schall |
 | 142 | 519 | Maria Escobar |
 | 143 | 517 | Debra Williams |
-| 144 | 515 | Kaylee McCafferty |
-| 145 | 515 | Real Ri |
+| 144 | 515 | Real Ri |
+| 145 | 515 | Kaylee McCafferty |
 | 146 | 513 | Butta |
 | 147 | 511 | Ramone Armstrong |
 | 148 | 511 | Dizzy Zone |
@@ -207,8 +207,8 @@
 | 199 | 391 | Qiana Sanders |
 | 200 | 386 | Ashie Ann |
 | 201 | 386 | Macy Williams |
-| 202 | 385 | Arwa Fatimah |
-| 203 | 385 | Sam |
+| 202 | 385 | Sam |
+| 203 | 385 | Arwa Fatimah |
 | 204 | 381 | Amanda Ferrell |
 | 205 | 380 | Calandra Shaya Robinson |
 | 206 | 380 | Joshua Mandel |
@@ -376,8 +376,8 @@
 | 368 | 234 | Jennifer Leigh |
 | 369 | 234 | Jaybee Nguyen |
 | 370 | 233 | Nutty Matchline |
-| 371 | 233 | Jumpy Gridclear |
-| 372 | 233 | Robin Kerby |
+| 371 | 233 | Robin Kerby |
+| 372 | 233 | Jumpy Gridclear |
 | 373 | 232 | Amber Brion |
 | 374 | 231 | Dylan Thomason |
 | 375 | 231 | Hong Tang |
