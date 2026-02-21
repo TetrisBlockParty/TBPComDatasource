@@ -45,8 +45,8 @@
 | 37 | 184 | Rachel Anne |
 | 38 | 179 | Epic Curvetile |
 | 39 | 174 | Jamie Mann-Deichmann |
-| 40 | 170 | Girl |
-| 41 | 170 | Leah Kutz Zirbel |
+| 40 | 170 | Leah Kutz Zirbel |
+| 41 | 170 | Girl |
 | 42 | 168 | Anthony Magaraci |
 | 43 | 153 | Jae Job |
 | 44 | 152 | Courtney Cicoria |
