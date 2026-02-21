@@ -88,8 +88,8 @@
 | 80 | 658 | Pacynthia Williams |
 | 81 | 658 | Vistabrat |
 | 82 | 653 | Becky Weeks-Garry |
-| 83 | 649 | Anna Edwards |
-| 84 | 649 | Stephanie Chapman |
+| 83 | 649 | Stephanie Chapman |
+| 84 | 649 | Anna Edwards |
 | 85 | 631 | Loopy Clusterbuilder |
 | 86 | 608 | John Bednarik |
 | 87 | 601 | Nancy Reid |
@@ -105,8 +105,8 @@
 | 97 | 562 | Linda Pierce |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Thomas Hedrick |
-| 101 | 540 | Charvi' Carter |
+| 100 | 540 | Charvi' Carter |
+| 101 | 540 | Thomas Hedrick |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -154,8 +154,8 @@
 | 146 | 411 | Ricky Fortune |
 | 147 | 409 | Sparkles |
 | 148 | 401 | Poppy Snap |
-| 149 | 400 | Tammy Allen |
-| 150 | 400 | Crystie Hicks |
+| 149 | 400 | Crystie Hicks |
+| 150 | 400 | Tammy Allen |
 | 151 | 397 | Ashley Guernsey-Martin |
 | 152 | 391 | Steven Marshaun |
 | 153 | 391 | Chilly Bridgepiece |

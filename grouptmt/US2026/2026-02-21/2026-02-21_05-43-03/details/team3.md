@@ -95,8 +95,8 @@
 | 87 | 207 | rnr junky |
 | 88 | 206 | Stephanie Blkpep Davidson |
 | 89 | 205 | Christine Niles |
-| 90 | 203 | Crimson |
-| 91 | 203 | Rich LeBlanc |
+| 90 | 203 | Rich LeBlanc |
+| 91 | 203 | Crimson |
 | 92 | 200 | Twisty Brick LT |
 | 93 | 199 | joclisa |
 | 94 | 195 | Jenny Hrndz |
@@ -117,13 +117,13 @@
 | 109 | 172 | Ryan Williams |
 | 110 | 166 | Danielle Mogg |
 | 111 | 164 | rosy |
-| 112 | 159 | Jone |
-| 113 | 159 | Morgan Martinez |
+| 112 | 159 | Morgan Martinez |
+| 113 | 159 | Jone |
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
-| 117 | 154 | Angela M. Fletcher |
-| 118 | 154 | Louise Stacy Sisson |
+| 117 | 154 | Louise Stacy Sisson |
+| 118 | 154 | Angela M. Fletcher |
 | 119 | 153 | Beth Ingham |
 | 120 | 152 | Shiny Zonebuilder |
 | 121 | 149 | Trisha Balmer |
