@@ -81,8 +81,8 @@
 | 73 | 132 | Davery Spencer Adair |
 | 74 | 130 | Dandy Basegrid |
 | 75 | 129 | Trina Gee |
-| 76 | 128 | Gary Gobin |
-| 77 | 128 | Uhog SF |
+| 76 | 128 | Uhog SF |
+| 77 | 128 | Gary Gobin |
 | 78 | 126 | Cece Ibarra |
 | 79 | 120 | Blaire Bruckoff |
 | 80 | 119 | Irual Hctrab |

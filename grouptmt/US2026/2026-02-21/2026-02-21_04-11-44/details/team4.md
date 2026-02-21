@@ -65,8 +65,8 @@
 | 57 | 145 | Edward White |
 | 58 | 141 | Malakai Darien Fox |
 | 59 | 140 | Shannon Ferrari |
-| 60 | 134 | Chirpy Basepiece |
-| 61 | 134 | Jessica Bohlken |
+| 60 | 134 | Jessica Bohlken |
+| 61 | 134 | Chirpy Basepiece |
 | 62 | 133 | Robin Watters |
 | 63 | 132 | Jenna McGeorge |
 | 64 | 132 | Degenerate |

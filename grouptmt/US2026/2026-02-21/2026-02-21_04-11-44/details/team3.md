@@ -51,8 +51,8 @@
 | 43 | 387 | Nerdy Spinblock |
 | 44 | 371 | Jesse Olive |
 | 45 | 370 | yoyo |
-| 46 | 369 | Kristie |
-| 47 | 369 | Rachel Bowers |
+| 46 | 369 | Rachel Bowers |
+| 47 | 369 | Kristie |
 | 48 | 366 | Patty Allen |
 | 49 | 364 | Christine Filson |
 | 50 | 362 | Liv Whetson |
@@ -65,8 +65,8 @@
 | 57 | 325 | Shari Garber |
 | 58 | 322 | Michelle |
 | 59 | 320 | Or Reznitsky |
-| 60 | 316 | Fancy Cascader |
-| 61 | 316 | Tetris Master |
+| 60 | 316 | Tetris Master |
+| 61 | 316 | Fancy Cascader |
 | 62 | 307 | Peggi Charon |
 | 63 | 304 | Tasha Schriewer |
 | 64 | 300 | Zippy Strikesnap |
@@ -106,8 +106,8 @@
 | 98 | 166 | Danielle Mogg |
 | 99 | 164 | rosy |
 | 100 | 161 | Twisty Brick LT |
-| 101 | 159 | Morgan Martinez |
-| 102 | 159 | Jone |
+| 101 | 159 | Jone |
+| 102 | 159 | Morgan Martinez |
 | 103 | 156 | Joey Banks |
 | 104 | 155 | BŘŰŤİÇŨŚ |
 | 105 | 155 | Shannon Matthew Byers |
@@ -166,8 +166,8 @@
 | 158 | 105 | Hoppy Buildout |
 | 159 | 105 | Emi |
 | 160 | 104 | Sarah Moyer |
-| 161 | 102 | mommablock |
-| 162 | 102 | Kali Kelz Williams |
+| 161 | 102 | Kali Kelz Williams |
+| 162 | 102 | mommablock |
 | 163 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 164 | 100 | Elizabeth Renee |
 | 165 | 100 | Bobbi Moore |
@@ -198,8 +198,8 @@
 | 190 | 90 | Eon Harris |
 | 191 | 89 | Hyper Bridger |
 | 192 | 89 | Shicken Nuggit |
-| 193 | 88 | Martin Bernier |
-| 194 | 88 | Brandon Givens |
+| 193 | 88 | Brandon Givens |
+| 194 | 88 | Martin Bernier |
 | 195 | 87 | Boldy Blocker |
 | 196 | 86 | Stephanie Blkpep Davidson |
 | 197 | 86 | Criss |

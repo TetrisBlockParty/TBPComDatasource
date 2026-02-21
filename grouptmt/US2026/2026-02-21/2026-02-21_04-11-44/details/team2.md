@@ -164,8 +164,8 @@
 | 156 | 350 | Kimberly Randesi |
 | 157 | 348 | Richard Horton |
 | 158 | 348 | Cherica Taylor |
-| 159 | 345 | Alyssaaelena |
-| 160 | 345 | Brenda Messer |
+| 159 | 345 | Brenda Messer |
+| 160 | 345 | Alyssaaelena |
 | 161 | 345 | Rhianna DiLorenzo |
 | 162 | 345 | Wuntayk |
 | 163 | 344 | Julie Kresal |
