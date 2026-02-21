@@ -143,8 +143,8 @@
 | 135 | 180 | Erez Yosef |
 | 136 | 180 | BigWeenie69 |
 | 137 | 179 | Danielle Little-Daugherty |
-| 138 | 178 | Michael |
-| 139 | 178 | Chad Atchley |
+| 138 | 178 | Chad Atchley |
+| 139 | 178 | Michael |
 | 140 | 177 | ParisandCory Champagne |
 | 141 | 176 | Basment Living |
 | 142 | 175 | John Barron |

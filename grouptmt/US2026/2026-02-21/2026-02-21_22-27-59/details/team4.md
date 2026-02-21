@@ -70,8 +70,8 @@
 | 62 | 395 | Christine Marie |
 | 63 | 390 | Carlton Unfiltered |
 | 64 | 388 | YoMomma |
-| 65 | 376 | Marie-Pier Desjardins |
-| 66 | 376 | quicksand420 |
+| 65 | 376 | quicksand420 |
+| 66 | 376 | Marie-Pier Desjardins |
 | 67 | 370 | Leslie Thomas |
 | 68 | 369 | Nope Young |
 | 69 | 367 | Joseph Guthrie |
@@ -201,11 +201,11 @@
 | 193 | 124 | Allen Lloyd |
 | 194 | 124 | SammieJo Guy |
 | 195 | 123 | Austin Owens |
-| 196 | 123 | Tyler Terrific |
-| 197 | 123 | Matt Dell'Olio |
-| 198 | 123 | Chaz |
-| 199 | 122 | 🥔🥔 Spudz |
-| 200 | 122 | Sherri |
+| 196 | 123 | Matt Dell'Olio |
+| 197 | 123 | Chaz |
+| 198 | 123 | Tyler Terrific |
+| 199 | 122 | Sherri |
+| 200 | 122 | 🥔🥔 Spudz |
 | 201 | 121 | Megan Cutshaw |
 | 202 | 121 | Smiley Tiltbuilder |
 | 203 | 121 | Joseph Pace |
@@ -228,11 +228,11 @@
 | 220 | 112 | Jeremy Steines |
 | 221 | 112 | rebel4lyfe |
 | 222 | 111 | Lindsey Gonzalez |
-| 223 | 111 | Kristin MacDonald |
-| 224 | 111 | Lazy Blocker |
+| 223 | 111 | Lazy Blocker |
+| 224 | 111 | Kristin MacDonald |
 | 225 | 110 | Zach Kerbs |
-| 226 | 109 | Ak Jones |
-| 227 | 109 | Frank Cook |
+| 226 | 109 | Frank Cook |
+| 227 | 109 | Ak Jones |
 | 228 | 108 | Rebecca Morris |
 | 229 | 108 | Ali Ian |
 | 230 | 107 | Rafael Valentin |
@@ -542,7 +542,7 @@
 | 534 | 48 | Metsfan |
 | 535 | 48 | OneBuke FollowMe |
 | 536 | 48 | Lilya Troutman |
-| 537 | 48 | OneBuke FollowMe |
+| 537 | 48 | giantslover514 |
 | 538 | 48 | Boldy Linkfall |
 | 539 | 47 | Volodymyr Teslyuk |
 | 540 | 47 | Ellen Durfee |
@@ -846,7 +846,7 @@
 | 838 | 24 | Miriam Ruiz |
 | 839 | 24 | Patrick Cookson |
 | 840 | 24 | Cranky Rollpiece |
-| 841 | 24 | Miriam Ruiz |
+| 841 | 24 | Dan Kraly |
 | 842 | 23 | Noel Christa |
 | 843 | 23 | ChasingZen |
 | 844 | 23 | Poppy Twistslam |

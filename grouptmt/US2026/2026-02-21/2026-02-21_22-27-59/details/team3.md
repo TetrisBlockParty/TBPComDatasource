@@ -222,7 +222,7 @@
 | 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
-| 217 | 179 | Daira Largen |
+| 217 | 179 | Tipsy Zonebuilder |
 | 218 | 179 | Ashley Jones |
 | 219 | 179 | DanceLuvLaugh |
 | 220 | 179 | Daira Largen |
@@ -230,8 +230,8 @@
 | 222 | 178 | AlsoJess |
 | 223 | 177 | Sarajane Lokan |
 | 224 | 176 | rosy |
-| 225 | 175 | Latoya Mayne |
-| 226 | 175 | Tasha Wesson-Torrence |
+| 225 | 175 | Tasha Wesson-Torrence |
+| 226 | 175 | Latoya Mayne |
 | 227 | 174 | Marquita Sheard |
 | 228 | 172 | Grams |
 | 229 | 169 | BŘŰŤİÇŨŚ |
