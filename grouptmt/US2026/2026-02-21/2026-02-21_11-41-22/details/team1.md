@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -48,12 +48,12 @@
 | 40 | 291 | Nancy Green |
 | 41 | 290 | Jennifer Cates |
 | 42 | 281 | Maria C. Hernandez |
-| 43 | 274 | Theo Pinnow |
-| 44 | 274 | Sweet Baker |
+| 43 | 274 | Sweet Baker |
+| 44 | 274 | Theo Pinnow |
 | 45 | 272 | Adam Byrd |
 | 46 | 258 | Shauna Loe |
-| 47 | 256 | Tipsy Column |
-| 48 | 256 | Robert Benito |
+| 47 | 256 | Robert Benito |
+| 48 | 256 | Tipsy Column |
 | 49 | 253 | Bhelle Sumile |
 | 50 | 244 | Franswa |
 | 51 | 243 | Sarah Roberts |
@@ -64,8 +64,8 @@
 | 56 | 212 | Jaimie Lynn |
 | 57 | 212 | Tdub |
 | 58 | 211 | Marianita Garcia |
-| 59 | 208 | Carrie Beck Geartz |
-| 60 | 208 | Mandyy Rae |
+| 59 | 208 | Mandyy Rae |
+| 60 | 208 | Carrie Beck Geartz |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
 | 63 | 202 | Dee Perry |
@@ -105,8 +105,8 @@
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
 | 99 | 144 | Tanya Carpenter-Reynolds |
-| 100 | 144 | Plucky Ziggy |
-| 101 | 144 | femmefatale |
+| 100 | 144 | femmefatale |
+| 101 | 144 | Plucky Ziggy |
 | 102 | 143 | Sarah Marie |
 | 103 | 141 | Blaire Bruckoff |
 | 104 | 140 | Redlicious 1 |
@@ -173,11 +173,11 @@
 | 165 | 93 | Cody Gates |
 | 166 | 92 | Timothy Dew |
 | 167 | 91 | Tyler Whitley |
-| 168 | 90 | Madison Wicks |
-| 169 | 90 | Dizzy Party |
+| 168 | 90 | Dizzy Party |
+| 169 | 90 | Madison Wicks |
 | 170 | 90 | TSwag |
-| 171 | 89 | Mara Hilker |
-| 172 | 89 | Brad MG |
+| 171 | 89 | Brad MG |
+| 172 | 89 | Mara Hilker |
 | 173 | 88 | Larry Tilton |
 | 174 | 87 | Jenny Gingrich Fuentes |
 | 175 | 87 | Jessi Sauer |

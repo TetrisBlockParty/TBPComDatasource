@@ -367,17 +367,17 @@
 | 359 | 240 | Adam Erikson |
 | 360 | 238 | Cheery Matchzone |
 | 361 | 238 | Byung Bae Park |
-| 362 | 236 | Niceday |
-| 363 | 236 | Julio A Laracuente |
+| 362 | 236 | Julio A Laracuente |
+| 363 | 236 | Niceday |
 | 364 | 236 | snkylnk |
 | 365 | 236 | Frisky Riserbuilder |
 | 366 | 235 | Kimberly Mitchell |
-| 367 | 234 | Jennifer Leigh |
-| 368 | 234 | Manny Trindade |
+| 367 | 234 | Manny Trindade |
+| 368 | 234 | Jennifer Leigh |
 | 369 | 234 | Jaybee Nguyen |
 | 370 | 233 | Nutty Matchline |
-| 371 | 233 | Robin Kerby |
-| 372 | 233 | Jumpy Gridclear |
+| 371 | 233 | Jumpy Gridclear |
+| 372 | 233 | Robin Kerby |
 | 373 | 232 | Amber Brion |
 | 374 | 231 | Dylan Thomason |
 | 375 | 231 | Hong Tang |

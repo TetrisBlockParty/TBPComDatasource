@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -81,8 +81,8 @@
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
 | 75 | 173 | Jeff Brian Gates |
-| 76 | 171 | Zethra Prenisha Rahming |
-| 77 | 171 | Melvin Baird |
+| 76 | 171 | Melvin Baird |
+| 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
 | 80 | 165 | Casey Grabner |
@@ -96,16 +96,16 @@
 | 88 | 154 | ThaEviLJeNiuZ |
 | 89 | 153 | Jae Job |
 | 90 | 150 | ZeeZee |
-| 91 | 147 | 030Synner |
-| 92 | 147 | Jay28 |
+| 91 | 147 | Jay28 |
+| 92 | 147 | 030Synner |
 | 93 | 146 | Peachy Fall |
 | 94 | 143 | Nugget |
 | 95 | 141 | Malakai Darien Fox |
 | 96 | 140 | Shannon Ferrari |
 | 97 | 138 | Shainne Brewer |
 | 98 | 136 | Tanner Lund |
-| 99 | 134 | Chirpy Basepiece |
-| 100 | 134 | Serena Goodridge |
+| 99 | 134 | Serena Goodridge |
+| 100 | 134 | Chirpy Basepiece |
 | 101 | 134 | Jessica Bohlken |
 | 102 | 133 | Robin Watters |
 | 103 | 132 | Jessica Cagle |

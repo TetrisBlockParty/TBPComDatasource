@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -84,8 +84,8 @@
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
 | 78 | 323 | Ashley Raines |
-| 79 | 322 | Shannon Matthew Byers |
-| 80 | 322 | Michelle |
+| 79 | 322 | Michelle |
+| 80 | 322 | Shannon Matthew Byers |
 | 81 | 320 | Or Reznitsky |
 | 82 | 316 | Fancy Cascader |
 | 83 | 313 | Elaine Webb Graves |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -139,8 +139,8 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
@@ -149,9 +149,9 @@
 | 141 | 163 | Raven Dudley |
 | 142 | 163 | Karon Griffin |
 | 143 | 162 | Rebel124 |
-| 144 | 159 | Jone |
+| 144 | 159 | Mcathen |
 | 145 | 159 | Morgan Martinez |
-| 146 | 159 | Mcathen |
+| 146 | 159 | Jone |
 | 147 | 158 | Grams |
 | 148 | 157 | Nicholas Roddy |
 | 149 | 157 | Patricia Gadsden |
@@ -173,8 +173,8 @@
 | 165 | 145 | Bryan Byrd |
 | 166 | 142 | Erica Anderson |
 | 167 | 140 | Gumbo |
-| 168 | 140 | Carrie Huskey |
-| 169 | 140 | Jay Horn |
+| 168 | 140 | Jay Horn |
+| 169 | 140 | Carrie Huskey |
 | 170 | 138 | Stephanie Hill |
 | 171 | 135 | Cheryl Hinch Tenbrook |
 | 172 | 134 | DanceLuvLaugh |
