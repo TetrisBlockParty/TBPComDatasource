@@ -34,8 +34,8 @@
 | 26 | 528 | Natasha Jones |
 | 27 | 476 | Susan Valentino |
 | 28 | 466 | Kay |
-| 29 | 446 | Jennifer Willis |
-| 30 | 446 | Kathryn Keenan-Taggart |
+| 29 | 446 | Kathryn Keenan-Taggart |
+| 30 | 446 | Jennifer Willis |
 | 31 | 432 | Nate Burnside |
 | 32 | 387 | Nerdy Spinblock |
 | 33 | 385 | Gracie |
@@ -113,8 +113,8 @@
 | 105 | 123 | Kristie McFarland |
 | 106 | 122 | Shimika Enay Wallace |
 | 107 | 122 | Aerian Preston |
-| 108 | 120 | Jessica |
-| 109 | 120 | Michael Latasha Gray |
+| 108 | 120 | Michael Latasha Gray |
+| 109 | 120 | Jessica |
 | 110 | 119 | Terry Jo Jones |
 | 111 | 118 | Bea Miles |
 | 112 | 118 | Fancy Curver |

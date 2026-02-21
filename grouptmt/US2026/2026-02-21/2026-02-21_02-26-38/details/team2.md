@@ -113,15 +113,15 @@
 | 105 | 418 | RdRydnHd |
 | 106 | 402 | Sparkles |
 | 107 | 401 | Poppy Snap |
-| 108 | 400 | Thomas Hedrick |
-| 109 | 400 | Vincent Petrella |
+| 108 | 400 | Vincent Petrella |
+| 109 | 400 | Thomas Hedrick |
 | 110 | 397 | Ashley Guernsey-Martin |
 | 111 | 391 | Chilly Bridgepiece |
 | 112 | 390 | Dustin Rains |
 | 113 | 386 | Ashie Ann |
 | 114 | 385 | Sam |
-| 115 | 384 | Lina Sanders |
-| 116 | 384 | Mighty Patternzone |
+| 115 | 384 | Mighty Patternzone |
+| 116 | 384 | Lina Sanders |
 | 117 | 380 | Joshua Mandel |
 | 118 | 374 | Sommer Shope |
 | 119 | 369 | Calandra Shaya Robinson |

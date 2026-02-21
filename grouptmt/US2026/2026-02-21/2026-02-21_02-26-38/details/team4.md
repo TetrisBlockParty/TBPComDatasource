@@ -57,8 +57,8 @@
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
 | 51 | 125 | Lauren Scott |
-| 52 | 124 | Jay28 |
-| 53 | 124 | Epic Curvetile |
+| 52 | 124 | Epic Curvetile |
+| 53 | 124 | Jay28 |
 | 54 | 123 | Nugget |
 | 55 | 122 | Shelly Chandler |
 | 56 | 121 | Smiley Tiltbuilder |

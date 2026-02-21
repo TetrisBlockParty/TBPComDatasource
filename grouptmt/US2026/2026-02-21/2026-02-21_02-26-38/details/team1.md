@@ -78,10 +78,10 @@
 | 70 | 116 | Kristen Roles Robben |
 | 71 | 114 | Giddy Cascade |
 | 72 | 114 | Colleen Wise |
-| 73 | 112 | Miguel Teixeira |
-| 74 | 112 | Nicole Roseberry Weber |
-| 75 | 110 | Heidi Feurer |
-| 76 | 110 | Garcia Bailey |
+| 73 | 112 | Nicole Roseberry Weber |
+| 74 | 112 | Miguel Teixeira |
+| 75 | 110 | Garcia Bailey |
+| 76 | 110 | Heidi Feurer |
 | 77 | 109 | Dandy Basegrid |
 | 78 | 108 | Tavia |
 | 79 | 107 | Jodee Woods |
@@ -96,12 +96,12 @@
 | 88 | 96 | Nery Martinez |
 | 89 | 96 | Billie Dawn Sparks |
 | 90 | 94 | Bindi |
-| 91 | 93 | Loony Fitzone |
-| 92 | 93 | Adryane Schnase |
+| 91 | 93 | Adryane Schnase |
+| 92 | 93 | Loony Fitzone |
 | 93 | 91 | Spunky Piecebuilder |
 | 94 | 90 | Madison Wicks |
-| 95 | 87 | Jessi Sauer |
-| 96 | 87 | TSwag |
+| 95 | 87 | TSwag |
+| 96 | 87 | Jessi Sauer |
 | 97 | 85 | Steve Schneider |
 | 98 | 84 | Charla Pross-Fugleberg |
 | 99 | 84 | Yvonne Marie |
@@ -122,8 +122,8 @@
 | 114 | 76 | Kerry Lee Powell |
 | 115 | 75 | Fresno Beotoni |
 | 116 | 75 | Tyler L Hunt |
-| 117 | 74 | Eddie Dillon |
-| 118 | 74 | Grace Joanne Agnant |
+| 117 | 74 | Grace Joanne Agnant |
+| 118 | 74 | Eddie Dillon |
 | 119 | 73 | Witty Builderfit |
 | 120 | 72 | Tipsy Strikerpiece |
 | 121 | 71 | John Kim |
