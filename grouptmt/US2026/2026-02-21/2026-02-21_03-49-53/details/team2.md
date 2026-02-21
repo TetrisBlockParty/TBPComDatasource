@@ -113,10 +113,10 @@
 | 105 | 469 | Ashley Rose Frederick |
 | 106 | 465 | Tommy Tha Boss Gunz |
 | 107 | 459 | Lisa Ongtowasruk |
-| 108 | 450 | Giggy Blocker |
-| 109 | 450 | Mari Ac |
-| 110 | 448 | Jojo Momma |
-| 111 | 448 | Nick Jensen |
+| 108 | 450 | Mari Ac |
+| 109 | 450 | Giggy Blocker |
+| 110 | 448 | Nick Jensen |
+| 111 | 448 | Jojo Momma |
 | 112 | 442 | Daphne Jordan |
 | 113 | 440 | Becky Weeks-Garry |
 | 114 | 440 | BYM4L |

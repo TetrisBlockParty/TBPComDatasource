@@ -249,9 +249,9 @@
 | 241 | 70 | Leticia Lynn Lowe |
 | 242 | 69 | Jen Lewis |
 | 243 | 67 | Will Miller |
-| 244 | 67 | Romeo |
-| 245 | 67 | Daryn Elliott |
-| 246 | 67 | Tommy Proctor |
+| 244 | 67 | Tommy Proctor |
+| 245 | 67 | Romeo |
+| 246 | 67 | Daryn Elliott |
 | 247 | 66 | Christen Cannon Layhew |
 | 248 | 66 | Nimka Jams |
 | 249 | 66 | Weerae |

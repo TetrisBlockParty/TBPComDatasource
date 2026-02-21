@@ -123,8 +123,8 @@
 | 115 | 84 | Yvonne Marie |
 | 116 | 83 | Guest |
 | 117 | 83 | Cody Gates |
-| 118 | 83 | Death |
-| 119 | 83 | Guest |
+| 118 | 83 | Timothy Dew |
+| 119 | 83 | Death |
 | 120 | 82 | Jessica Russell |
 | 121 | 81 | Alenoush Karimian |
 | 122 | 81 | Bob |
