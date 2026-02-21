@@ -195,14 +195,14 @@
 | 187 | 388 | coleksquad |
 | 188 | 386 | Macy Williams |
 | 189 | 386 | Ashie Ann |
-| 190 | 385 | Arwa Fatimah |
-| 191 | 385 | Sam |
+| 190 | 385 | Sam |
+| 191 | 385 | Arwa Fatimah |
 | 192 | 381 | Amanda Ferrell |
 | 193 | 380 | Calandra Shaya Robinson |
 | 194 | 380 | Joshua Mandel |
 | 195 | 378 | Cody Nishimura |
-| 196 | 377 | Roy Salyer |
-| 197 | 377 | Liberty |
+| 196 | 377 | Liberty |
+| 197 | 377 | Roy Salyer |
 | 198 | 364 | Shinette Dobson |
 | 199 | 363 | William Meussner |
 | 200 | 359 | Brainy Smurf |
@@ -283,8 +283,8 @@
 | 275 | 275 | Cheeky Brickmatch |
 | 276 | 275 | Shiny Rollzone |
 | 277 | 275 | Ann Matzkanin |
-| 278 | 274 | Jamie Stevey |
-| 279 | 274 | Melissa Holsinger |
+| 278 | 274 | Melissa Holsinger |
+| 279 | 274 | Jamie Stevey |
 | 280 | 274 | Lonne Emade |
 | 281 | 273 | Ray Ray Prado |
 | 282 | 273 | Jenna Nance |
@@ -316,9 +316,9 @@
 | 308 | 256 | Smashanator |
 | 309 | 256 | CC |
 | 310 | 255 | Santana Miyagi |
-| 311 | 254 | Rose Fx |
-| 312 | 254 | Elizabeth Diraffaele |
-| 313 | 254 | Julie Hamilton |
+| 311 | 254 | Julie Hamilton |
+| 312 | 254 | Rose Fx |
+| 313 | 254 | Elizabeth Diraffaele |
 | 314 | 253 | Tansaria Couch-Butler |
 | 315 | 252 | Matt Johnson |
 | 316 | 251 | Ann Knutson Anderson |
@@ -408,8 +408,8 @@
 | 400 | 198 | Angie Bolton Workman |
 | 401 | 198 | Alyssa Dean |
 | 402 | 196 | Besma Ao |
-| 403 | 196 | Cass Shirley |
-| 404 | 196 | Alexandra Reese |
+| 403 | 196 | Alexandra Reese |
+| 404 | 196 | Cass Shirley |
 | 405 | 195 | Snappy Shatterfit |
 | 406 | 195 | Emily Lyric Converse |
 | 407 | 194 | Kimberly Ann |
@@ -518,8 +518,8 @@
 | 510 | 156 | Deanna Morton |
 | 511 | 155 | Angela Murgia-Owen |
 | 512 | 155 | Cris cris |
-| 513 | 155 | Monarca26 |
-| 514 | 155 | Chelle |
+| 513 | 155 | Chelle |
+| 514 | 155 | Monarca26 |
 | 515 | 154 | Bryan Werleman |
 | 516 | 154 | Lydia Greenman |
 | 517 | 154 | Cini |
@@ -527,8 +527,8 @@
 | 519 | 154 | Lori Maring |
 | 520 | 153 | Luna |
 | 521 | 153 | Poppy Gridder |
-| 522 | 152 | James Smith |
-| 523 | 152 | Kyle LeRoy Harris |
+| 522 | 152 | Kyle LeRoy Harris |
+| 523 | 152 | James Smith |
 | 524 | 152 | Anthony Mignacca |
 | 525 | 152 | JP Parks |
 | 526 | 152 | Kristin King |
@@ -676,8 +676,8 @@
 | 668 | 124 | Tommy Stuck |
 | 669 | 124 | Kendall Fullerton |
 | 670 | 124 | Samantha Williams-Bittner |
-| 671 | 124 | Witty Piecebuilder |
-| 672 | 124 | Jazzy Grabber |
+| 671 | 124 | Jazzy Grabber |
+| 672 | 124 | Witty Piecebuilder |
 | 673 | 123 | Elizabeth Ann Arrowood |
 | 674 | 123 | DeeDee |
 | 675 | 123 | Andre Love |

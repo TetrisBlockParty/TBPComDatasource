@@ -22,8 +22,8 @@
 | 14 | 608 | Denny Shives |
 | 15 | 606 | Rachel Anne |
 | 16 | 594 | Lucille Truesdale |
-| 17 | 590 | Valerie Roberts |
-| 18 | 590 | Dee Kay |
+| 17 | 590 | Dee Kay |
+| 18 | 590 | Valerie Roberts |
 | 19 | 589 | Chilly Line |
 | 20 | 587 | Koshin Abdirahman |
 | 21 | 578 | Leah Gorsuch |
@@ -76,16 +76,16 @@
 | 68 | 179 | Epic Curvetile |
 | 69 | 175 | Dustee Craddock-Harrison |
 | 70 | 173 | Jeff Brian Gates |
-| 71 | 171 | Melvin Baird |
-| 72 | 171 | Zethra Prenisha Rahming |
-| 73 | 170 | Girl |
-| 74 | 170 | Leah Kutz Zirbel |
+| 71 | 171 | Zethra Prenisha Rahming |
+| 72 | 171 | Melvin Baird |
+| 73 | 170 | Leah Kutz Zirbel |
+| 74 | 170 | Girl |
 | 75 | 167 | Denise Carlson |
-| 76 | 165 | Courtney Cicoria |
-| 77 | 165 | Casey Grabner |
+| 76 | 165 | Casey Grabner |
+| 77 | 165 | Courtney Cicoria |
 | 78 | 160 | Carter Jones |
-| 79 | 159 | Justin Hannigan |
-| 80 | 159 | Holly Jolly |
+| 79 | 159 | Holly Jolly |
+| 80 | 159 | Justin Hannigan |
 | 81 | 157 | quicksand420 |
 | 82 | 154 | ThaEviLJeNiuZ |
 | 83 | 153 | Jae Job |
@@ -103,8 +103,8 @@
 | 95 | 132 | Degenerate |
 | 96 | 132 | Melissa Priest Sellers |
 | 97 | 132 | Jenna McGeorge |
-| 98 | 131 | Zany Twisterfit |
-| 99 | 131 | Mr. Party |
+| 98 | 131 | Mr. Party |
+| 99 | 131 | Zany Twisterfit |
 | 100 | 131 | Dana Scott |
 | 101 | 130 | Lucas J Sutton |
 | 102 | 130 | Casey Jeffcoat |
@@ -183,9 +183,9 @@
 | 175 | 85 | Shukee Lo |
 | 176 | 85 | Mimi |
 | 177 | 83 | Avy Absol |
-| 178 | 83 | Joseph Gray |
+| 178 | 83 | Abigail Murphy |
 | 179 | 83 | Holly |
-| 180 | 83 | Abigail Murphy |
+| 180 | 83 | Joseph Gray |
 | 181 | 82 | Jason Frehner |
 | 182 | 82 | Kim Hunt |
 | 183 | 81 | Michelle Parker |
@@ -272,8 +272,8 @@
 | 264 | 61 | Chilly Crasher |
 | 265 | 60 | Ahleek Mitchell |
 | 266 | 60 | Kris Zulch |
-| 267 | 59 | Jen Mattei |
-| 268 | 59 | Jasmine S Caldwell |
+| 267 | 59 | Jasmine S Caldwell |
+| 268 | 59 | Jen Mattei |
 | 269 | 59 | Angelito |
 | 270 | 58 | Paige Kittles |
 | 271 | 58 | Autumn Kumzi |

@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Annie Déè |
-| 73 | 342 | Trezure Gonzalez |
+| 72 | 342 | Trezure Gonzalez |
+| 73 | 342 | Annie Déè |
 | 74 | 338 | Danielle Rhoades |
 | 75 | 332 | Chauntee Alfrey-Cardinale |
 | 76 | 331 | Mendoza Lee Christy |
@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | CeceGeGe |
-| 84 | 309 | Rich LeBlanc |
+| 83 | 309 | Rich LeBlanc |
+| 84 | 309 | CeceGeGe |
 | 85 | 307 | Peggi Charon |
 | 86 | 301 | Blocked |
 | 87 | 300 | Sherika C. McDaniels |
@@ -144,11 +144,11 @@
 | 136 | 163 | Karon Griffin |
 | 137 | 161 | Giddy Twistbuilder |
 | 138 | 159 | Morgan Martinez |
-| 139 | 159 | Mcathen |
-| 140 | 159 | Jone |
+| 139 | 159 | Jone |
+| 140 | 159 | Mcathen |
 | 141 | 158 | Grams |
-| 142 | 157 | Nicholas Roddy |
-| 143 | 157 | Patricia Gadsden |
+| 142 | 157 | Patricia Gadsden |
+| 143 | 157 | Nicholas Roddy |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |
