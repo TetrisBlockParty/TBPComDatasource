@@ -62,8 +62,8 @@
 | 54 | 482 | Susan Valentino |
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
-| 57 | 449 | Kathryn Keenan-Taggart |
-| 58 | 449 | Justin Ritter |
+| 57 | 449 | Justin Ritter |
+| 58 | 449 | Kathryn Keenan-Taggart |
 | 59 | 446 | Ebony West-Cundiff |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
@@ -252,8 +252,8 @@
 | 244 | 109 | mommablock |
 | 245 | 109 | Diana Ibarra |
 | 246 | 108 | Rachel Napper |
-| 247 | 108 | LaTanya GeminiondaRise Johnson |
-| 248 | 108 | Hanna Kim |
+| 247 | 108 | Hanna Kim |
+| 248 | 108 | LaTanya GeminiondaRise Johnson |
 | 249 | 107 | Sherry Ogden |
 | 250 | 107 | Bouncy Blockbuilder |
 | 251 | 106 | Rachel |

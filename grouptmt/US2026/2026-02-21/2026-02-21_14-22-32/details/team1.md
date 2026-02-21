@@ -63,8 +63,8 @@
 | 55 | 256 | Robert Benito |
 | 56 | 253 | Bhelle Sumile |
 | 57 | 252 | Dena Kayy |
-| 58 | 244 | Franswa |
-| 59 | 244 | Tdub |
+| 58 | 244 | Tdub |
+| 59 | 244 | Franswa |
 | 60 | 240 | Rachael |
 | 61 | 237 | Elaine Elaine |
 | 62 | 226 | Sharon Reynolds |
@@ -73,8 +73,8 @@
 | 65 | 216 | Dee Perry |
 | 66 | 212 | Jaimie Lynn |
 | 67 | 211 | Marianita Garcia |
-| 68 | 208 | Carrie Beck Geartz |
-| 69 | 208 | Mandyy Rae |
+| 68 | 208 | Mandyy Rae |
+| 69 | 208 | Carrie Beck Geartz |
 | 70 | 205 | Trippy Redd |
 | 71 | 204 | Lexuriuos Lifestlye |
 | 72 | 204 | Ly Phethmany |
@@ -95,8 +95,8 @@
 | 87 | 180 | Erez Yosef |
 | 88 | 178 | Danielle Little-Daugherty |
 | 89 | 177 | Diane Byrd |
-| 90 | 173 | Jennifer Olewnik Soborowski |
-| 91 | 173 | Frothy Pattern |
+| 90 | 173 | Frothy Pattern |
+| 91 | 173 | Jennifer Olewnik Soborowski |
 | 92 | 173 | june october |
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |

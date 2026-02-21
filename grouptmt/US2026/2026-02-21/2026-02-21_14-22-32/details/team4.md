@@ -78,8 +78,8 @@
 | 70 | 205 | Sarah Neathery |
 | 71 | 204 | Brittney Orengo |
 | 72 | 201 | Dizzy Tiley |
-| 73 | 198 | Dustee Craddock-Harrison |
-| 74 | 198 | Mike Solo |
+| 73 | 198 | Mike Solo |
+| 74 | 198 | Dustee Craddock-Harrison |
 | 75 | 197 | Autum Leigh |
 | 76 | 194 | Jamie Mann-Deichmann |
 | 77 | 187 | loulou |
@@ -156,8 +156,8 @@
 | 148 | 112 | Bryan Hodgins |
 | 149 | 112 | Jackie Marie |
 | 150 | 112 | Austin Owens |
-| 151 | 111 | Lazy Blocker |
-| 152 | 111 | Gwendolyn Pitcairn |
+| 151 | 111 | Gwendolyn Pitcairn |
+| 152 | 111 | Lazy Blocker |
 | 153 | 110 | H.R. Block |
 | 154 | 108 | Ali Ian |
 | 155 | 107 | Marcus Todd |
