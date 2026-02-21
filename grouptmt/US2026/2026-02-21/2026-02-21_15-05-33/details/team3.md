@@ -110,8 +110,8 @@
 | 102 | 299 | Speedy Bridger |
 | 103 | 267 | Rufus Lincoln |
 | 104 | 264 | Tiff Vs Tiffany |
-| 105 | 263 | mjl574 |
-| 106 | 263 | Angeline Joseph |
+| 105 | 263 | Angeline Joseph |
+| 106 | 263 | mjl574 |
 | 107 | 262 | Joe-Maggie Mathews |
 | 108 | 259 | opf |
 | 109 | 256 | ren |
@@ -329,7 +329,7 @@
 | 321 | 88 | Kelly Koenig |
 | 322 | 88 | April Matthew Kibble |
 | 323 | 87 | Kellie Montgomery |
-| 324 | 86 | Clever Clearbuilder |
+| 324 | 86 | Criss |
 | 325 | 86 | Salena Whitlock |
 | 326 | 86 | Clever Clearbuilder |
 | 327 | 85 | Crystel b520 |

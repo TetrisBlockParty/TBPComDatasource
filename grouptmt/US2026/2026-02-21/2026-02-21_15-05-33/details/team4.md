@@ -68,8 +68,8 @@
 | 60 | 272 | YoMomma |
 | 61 | 269 | Desi Desporte |
 | 62 | 265 | Julian Garcia |
-| 63 | 260 | Carlton Unfiltered |
-| 64 | 260 | Jason Hart |
+| 63 | 260 | Jason Hart |
+| 64 | 260 | Carlton Unfiltered |
 | 65 | 258 | KM8 |
 | 66 | 256 | Brittney Griggs |
 | 67 | 244 | Isabella Blanco |

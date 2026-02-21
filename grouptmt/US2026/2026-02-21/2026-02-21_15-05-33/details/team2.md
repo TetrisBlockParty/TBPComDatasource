@@ -166,8 +166,8 @@
 | 158 | 534 | Stephen Stephen |
 | 159 | 534 | Poppy Snapper |
 | 160 | 531 | Chris Wanner |
-| 161 | 527 | Stacy Stickle |
-| 162 | 527 | Adira Brown |
+| 161 | 527 | Adira Brown |
+| 162 | 527 | Stacy Stickle |
 | 163 | 526 | April Dawn Gussler |
 | 164 | 525 | Tommy Tha Boss Gunz |
 | 165 | 525 | Desiree Anderson |
@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Gene Mills |
-| 184 | 485 | Leah Keesling |
+| 183 | 485 | Leah Keesling |
+| 184 | 485 | Gene Mills |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -318,8 +318,8 @@
 | 310 | 315 | Alisa Lamb |
 | 311 | 314 | NanDa Cruzan VI |
 | 312 | 314 | Amanda West |
-| 313 | 312 | Andrea Maher |
-| 314 | 312 | Michelle Pike |
+| 313 | 312 | Michelle Pike |
+| 314 | 312 | Andrea Maher |
 | 315 | 311 | Véronique Lévesque Sabourin |
 | 316 | 310 | Brandy Andre |
 | 317 | 309 | Oscar Bernie |
@@ -354,8 +354,8 @@
 | 346 | 283 | Byung Bae Park |
 | 347 | 282 | Shaun Church |
 | 348 | 282 | Carl Bradshaw |
-| 349 | 281 | Ellie Jonas |
-| 350 | 281 | Jaycee |
+| 349 | 281 | Jaycee |
+| 350 | 281 | Ellie Jonas |
 | 351 | 280 | Shorty |
 | 352 | 280 | Lyndi Robinson Wakefield |
 | 353 | 280 | Sabrina Burton |
@@ -463,8 +463,8 @@
 | 455 | 223 | LegoCarpet |
 | 456 | 223 | Laura Wyatt |
 | 457 | 223 | Kristi Biddinger |
-| 458 | 222 | Amanda Canterbury |
-| 459 | 222 | Jason Garnatz |
+| 458 | 222 | Jason Garnatz |
+| 459 | 222 | Amanda Canterbury |
 | 460 | 220 | Katrina Weston |
 | 461 | 220 | Sho Nuff |
 | 462 | 219 | Maxwell Escalera |
@@ -728,7 +728,7 @@
 | 720 | 140 | Michael Tate |
 | 721 | 140 | Helena Kelly |
 | 722 | 140 | Ms806 |
-| 723 | 140 | Helena Kelly |
+| 723 | 140 | King Shamell Young |
 | 724 | 139 | Squirrel |
 | 725 | 139 | Tamara Slaten |
 | 726 | 139 | Jackson Smith |
