@@ -69,8 +69,8 @@
 | 61 | 577 | Danielle Mogg |
 | 62 | 569 | Elaine Webb Graves |
 | 63 | 566 | Dan Rob |
-| 64 | 561 | Dolores Falco |
-| 65 | 561 | Rachael McClain Owens |
+| 64 | 561 | Rachael McClain Owens |
+| 65 | 561 | Dolores Falco |
 | 66 | 555 | Ebony West-Cundiff |
 | 67 | 554 | Groovy Catcher |
 | 68 | 552 | Katrina Schroeder |
@@ -165,8 +165,8 @@
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
 | 159 | 216 | Aaron Pitkin |
-| 160 | 214 | Amy Fuller Heaton |
-| 161 | 214 | Jenny Hrndz |
+| 160 | 214 | Jenny Hrndz |
+| 161 | 214 | Amy Fuller Heaton |
 | 162 | 212 | Krystal Gerstberger |
 | 163 | 211 | Katrina Turner |
 | 164 | 207 | Nicole Myers |
@@ -252,12 +252,12 @@
 | 244 | 147 | Carrie Huskey |
 | 245 | 146 | Denita Mungro |
 | 246 | 146 | Latoya Mayne |
-| 247 | 145 | Jeni Dow |
-| 248 | 145 | Bryan Byrd |
-| 249 | 142 | David Bardo |
-| 250 | 142 | Danielle Allison |
-| 251 | 142 | Jl |
-| 252 | 142 | Erica Anderson |
+| 247 | 145 | Bryan Byrd |
+| 248 | 145 | Jeni Dow |
+| 249 | 142 | Erica Anderson |
+| 250 | 142 | Jl |
+| 251 | 142 | David Bardo |
+| 252 | 142 | Danielle Allison |
 | 253 | 141 | IamJust Neyamijah Washington Sr. |
 | 254 | 139 | Loopy Clusterer |
 | 255 | 139 | Funky Jumper |

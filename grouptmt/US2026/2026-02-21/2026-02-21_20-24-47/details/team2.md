@@ -243,8 +243,8 @@
 | 235 | 510 | Lisa Ongtowasruk |
 | 236 | 509 | Kelli Wells |
 | 237 | 508 | Foxxo |
-| 238 | 504 | Cherica Taylor |
-| 239 | 504 | Gene Mills |
+| 238 | 504 | Gene Mills |
+| 239 | 504 | Cherica Taylor |
 | 240 | 503 | tejas25 |
 | 241 | 503 | AISlop |
 | 242 | 502 | Magic steve |
@@ -660,8 +660,8 @@
 | 652 | 206 | Neko Preston |
 | 653 | 205 | ElizabethAnn Dickinson |
 | 654 | 205 | Joel Rosado |
-| 655 | 204 | Brenna Ann |
-| 656 | 204 | Kimberly Ann |
+| 655 | 204 | Kimberly Ann |
+| 656 | 204 | Brenna Ann |
 | 657 | 204 | Ryan Lauer |
 | 658 | 204 | Ali Gralski |
 | 659 | 203 | Alyssa Dean |

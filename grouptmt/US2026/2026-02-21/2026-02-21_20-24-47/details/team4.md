@@ -55,8 +55,8 @@
 | 47 | 433 | Isabel Aguilar |
 | 48 | 430 | Lisa Davis |
 | 49 | 427 | Tammi Crnza |
-| 50 | 411 | TeeJ |
-| 51 | 411 | Jonathan Kimbrough |
+| 50 | 411 | Jonathan Kimbrough |
+| 51 | 411 | TeeJ |
 | 52 | 402 | Courtney Cicoria |
 | 53 | 399 | Jenna Ingersoll |
 | 54 | 396 | Alicia Bass |
