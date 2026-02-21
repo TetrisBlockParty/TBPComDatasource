@@ -142,8 +142,8 @@
 | 134 | 104 | Damn Libra |
 | 135 | 104 | YoMomma |
 | 136 | 102 | Faja |
-| 137 | 101 | Michelle Morris |
-| 138 | 101 | Stephme310 |
+| 137 | 101 | Stephme310 |
+| 138 | 101 | Michelle Morris |
 | 139 | 101 | Saulc1991 |
 | 140 | 100 | Alexandra Karavias |
 | 141 | 100 | Megan Cutshaw |
@@ -180,10 +180,10 @@
 | 172 | 83 | Joseph Gray |
 | 173 | 83 | Avy Absol |
 | 174 | 82 | Kim Hunt |
-| 175 | 81 | Michelle Parker |
-| 176 | 81 | Blessedmama |
+| 175 | 81 | Blessedmama |
+| 176 | 81 | Chair |
 | 177 | 81 | Jumpy Zonepiece |
-| 178 | 81 | Chair |
+| 178 | 81 | Michelle Parker |
 | 179 | 81 | Carlos Ramirez |
 | 180 | 81 | Nubian1 |
 | 181 | 80 | Melissa Adams |

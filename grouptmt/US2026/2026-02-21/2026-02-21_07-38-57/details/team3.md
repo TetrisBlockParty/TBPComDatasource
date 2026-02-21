@@ -72,14 +72,14 @@
 | 64 | 351 | Calista Jo Dickson |
 | 65 | 345 | Christine Niles |
 | 66 | 343 | Silly Twist |
-| 67 | 342 | Trezure Gonzalez |
-| 68 | 342 | Annie Déè |
+| 67 | 342 | Annie Déè |
+| 68 | 342 | Trezure Gonzalez |
 | 69 | 338 | Danielle Rhoades |
 | 70 | 332 | Chauntee Alfrey-Cardinale |
 | 71 | 325 | Shari Garber |
 | 72 | 323 | Ashley Raines |
-| 73 | 322 | Michelle |
-| 74 | 322 | Mendoza Lee Christy |
+| 73 | 322 | Mendoza Lee Christy |
+| 74 | 322 | Michelle |
 | 75 | 320 | Or Reznitsky |
 | 76 | 316 | Fancy Cascader |
 | 77 | 312 | Stephanie Woods |
@@ -134,7 +134,7 @@
 | 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
-| 129 | 159 | Mcathen |
+| 129 | 159 | Morgan Martinez |
 | 130 | 159 | Jone |
 | 131 | 159 | Mcathen |
 | 132 | 158 | Grams |
