@@ -487,8 +487,8 @@
 | 479 | 151 | Jennifer Rajek |
 | 480 | 150 | Jodi Mitnick |
 | 481 | 150 | Candace Noel |
-| 482 | 149 | Leslie Porter |
-| 483 | 149 | Boldy Cascadepiece |
+| 482 | 149 | Boldy Cascadepiece |
+| 483 | 149 | Leslie Porter |
 | 484 | 149 | Melissa Rebbe-Lehman |
 | 485 | 148 | Shannon Byrd |
 | 486 | 146 | Sherry Aguinaga |
@@ -497,15 +497,15 @@
 | 489 | 145 | Chareen Lauritzen |
 | 490 | 145 | Scott Rackley |
 | 491 | 145 | Catina Hutchison |
-| 492 | 144 | Alexis Richardson |
-| 493 | 144 | Kyle LeRoy Harris |
+| 492 | 144 | Kyle LeRoy Harris |
+| 493 | 144 | Alexis Richardson |
 | 494 | 144 | Tee Davis |
 | 495 | 144 | RavensBeard |
 | 496 | 143 | Jay Levy |
 | 497 | 143 | Leslie Johnson Guinto |
 | 498 | 143 | Angelica |
-| 499 | 142 | Frisky Clearpiece |
-| 500 | 142 | Amy Humphreys |
+| 499 | 142 | Amy Humphreys |
+| 500 | 142 | Frisky Clearpiece |
 | 501 | 142 | Melissa Kay Gibson |
 | 502 | 142 | Joy LaJeunesse |
 | 503 | 141 | Erika Meaux |
@@ -517,8 +517,8 @@
 | 509 | 140 | Preya Patel |
 | 510 | 139 | Jackson Smith |
 | 511 | 139 | Octavio Garza |
-| 512 | 138 | Iris Angelica Perez Cantos |
-| 513 | 138 | Gursharan Sandhu |
+| 512 | 138 | Gursharan Sandhu |
+| 513 | 138 | Iris Angelica Perez Cantos |
 | 514 | 137 | Greenshades00 |
 | 515 | 136 | Hasty Riseclear |
 | 516 | 136 | Dolores Russworn |

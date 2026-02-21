@@ -90,8 +90,8 @@
 | 82 | 144 | Tanya Carpenter-Reynolds |
 | 83 | 144 | femmefatale |
 | 84 | 143 | Sarah Marie |
-| 85 | 141 | Blaire Bruckoff |
-| 86 | 141 | Susanna Guerry |
+| 85 | 141 | Susanna Guerry |
+| 86 | 141 | Blaire Bruckoff |
 | 87 | 139 | GATOR |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
