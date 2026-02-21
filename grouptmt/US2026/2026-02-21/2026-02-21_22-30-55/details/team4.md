@@ -190,8 +190,8 @@
 | 182 | 129 | Dreamy Snapgrid |
 | 183 | 129 | Crystal Nicolette Moore |
 | 184 | 128 | Rio Rocha |
-| 185 | 128 | Ericca Eldridge |
-| 186 | 128 | April Rondinone |
+| 185 | 128 | April Rondinone |
+| 186 | 128 | Ericca Eldridge |
 | 187 | 127 | Chris Bernstein |
 | 188 | 126 | Nerdy Twisterfit |
 | 189 | 125 | Mary Ann Pabukis |

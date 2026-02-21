@@ -190,8 +190,8 @@
 | 182 | 211 | Khaleada McGill Banks |
 | 183 | 211 | Katrina Turner |
 | 184 | 210 | Michael Lucado |
-| 185 | 207 | Chris Bell |
-| 186 | 207 | Jessica |
+| 185 | 207 | Jessica |
+| 186 | 207 | Chris Bell |
 | 187 | 205 | Sarah Moyer |
 | 188 | 204 | Danielle Allison |
 | 189 | 203 | Twisty Brick LT |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Raven Dudley |
-| 214 | 182 | Hyper Matchzone |
+| 213 | 182 | Hyper Matchzone |
+| 214 | 182 | Raven Dudley |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Ashley Jones |
@@ -234,8 +234,8 @@
 | 226 | 175 | Latoya Mayne |
 | 227 | 174 | Marquita Sheard |
 | 228 | 172 | Grams |
-| 229 | 169 | Emma |
-| 230 | 169 | BŘŰŤİÇŨŚ |
+| 229 | 169 | BŘŰŤİÇŨŚ |
+| 230 | 169 | Emma |
 | 231 | 168 | MsBee |
 | 232 | 166 | Betty Ivy |
 | 233 | 166 | Betty Rosas |

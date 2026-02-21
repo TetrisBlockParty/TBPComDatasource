@@ -158,8 +158,8 @@
 | 150 | 166 | Katie Daniels |
 | 151 | 166 | Rico Rico |
 | 152 | 165 | Nadine Velardo |
-| 153 | 163 | Tyler Whitley |
-| 154 | 163 | Tanya Carpenter-Reynolds |
+| 153 | 163 | Tanya Carpenter-Reynolds |
+| 154 | 163 | Tyler Whitley |
 | 155 | 161 | Jessie Lynn |
 | 156 | 160 | Nery Martinez |
 | 157 | 159 | Cece Ibarra |
