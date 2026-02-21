@@ -73,8 +73,8 @@
 | 65 | 300 | Brittney Griggs |
 | 66 | 300 | David Lay |
 | 67 | 300 | Jason Hart |
-| 68 | 299 | Lauren Scott |
-| 69 | 299 | Livvy |
+| 68 | 299 | Livvy |
+| 69 | 299 | Lauren Scott |
 | 70 | 295 | Latisha Davis |
 | 71 | 293 | HastyGrabber |
 | 72 | 289 | Julian Garcia |
@@ -84,8 +84,8 @@
 | 76 | 255 | Lindsay Ball |
 | 77 | 247 | Isabella Blanco |
 | 78 | 237 | Lori Walker |
-| 79 | 230 | Autum Leigh |
-| 80 | 230 | Lucas J Sutton |
+| 79 | 230 | Lucas J Sutton |
+| 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
 | 83 | 218 | Casey Grabner |
@@ -99,8 +99,8 @@
 | 91 | 202 | Monica Daley |
 | 92 | 201 | shar |
 | 93 | 200 | Holly Jolly |
-| 94 | 198 | Mike Solo |
-| 95 | 198 | Dustee Craddock-Harrison |
+| 94 | 198 | Dustee Craddock-Harrison |
+| 95 | 198 | Mike Solo |
 | 96 | 196 | Jeff Brian Gates |
 | 97 | 194 | Zany Twisterfit |
 | 98 | 192 | Crystal Carroll |
@@ -186,8 +186,8 @@
 | 178 | 119 | Kristin Manee |
 | 179 | 119 | Judy Cox |
 | 180 | 118 | Mary Ann Pabukis |
-| 181 | 115 | Sam Middleton |
-| 182 | 115 | Duck |
+| 181 | 115 | Duck |
+| 182 | 115 | Sam Middleton |
 | 183 | 115 | Ultramarine |
 | 184 | 115 | Jayk |
 | 185 | 114 | Jackie Marie |

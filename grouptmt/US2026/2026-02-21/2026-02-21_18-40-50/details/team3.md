@@ -117,8 +117,8 @@
 | 109 | 318 | Chasity |
 | 110 | 316 | Fancy Cascader |
 | 111 | 309 | Rich LeBlanc |
-| 112 | 307 | Blocked |
-| 113 | 307 | Peggi Charon |
+| 112 | 307 | Peggi Charon |
+| 113 | 307 | Blocked |
 | 114 | 304 | Mykal Burton |
 | 115 | 300 | Sherika C. McDaniels |
 | 116 | 300 | Tessina Dewey-Mancino |
@@ -206,8 +206,8 @@
 | 198 | 166 | Betty Rosas |
 | 199 | 166 | Kelly Ann Child |
 | 200 | 165 | Kali Kelz Williams |
-| 201 | 163 | Christine Trester |
-| 202 | 163 | Stephanie Hill |
+| 201 | 163 | Stephanie Hill |
+| 202 | 163 | Christine Trester |
 | 203 | 162 | Stephanie Whitefield |
 | 204 | 161 | BŘŰŤİÇŨŚ |
 | 205 | 160 | Tiffany Davie |
@@ -266,8 +266,8 @@
 | 258 | 126 | April Matthew Kibble |
 | 259 | 126 | Pam Holt Powell |
 | 260 | 126 | RickyG |
-| 261 | 125 | Shimika Enay Wallace |
-| 262 | 125 | Felicia Doxey |
+| 261 | 125 | Felicia Doxey |
+| 262 | 125 | Shimika Enay Wallace |
 | 263 | 124 | Funky Jumper |
 | 264 | 123 | Rachel |
 | 265 | 123 | Michael Latasha Gray |
@@ -280,8 +280,8 @@
 | 272 | 121 | Noettín Kan Zasnemoore |
 | 273 | 120 | Lys |
 | 274 | 119 | BugMansMom |
-| 275 | 118 | Sabrina Hardrick |
-| 276 | 118 | Damian Reid |
+| 275 | 118 | Damian Reid |
+| 276 | 118 | Sabrina Hardrick |
 | 277 | 118 | Fancy Curver |
 | 278 | 117 | Dee Pratt |
 | 279 | 116 | Denise Marie |
@@ -294,9 +294,9 @@
 | 286 | 113 | Brave Brickster |
 | 287 | 113 | Jason-Ashley Ludlow |
 | 288 | 113 | Brian Battjes |
-| 289 | 111 | Stephanie Zahm |
-| 290 | 111 | Amber Groover Taylor |
-| 291 | 111 | El Chapa |
+| 289 | 111 | El Chapa |
+| 290 | 111 | Stephanie Zahm |
+| 291 | 111 | Amber Groover Taylor |
 | 292 | 111 | Rainbow77375 |
 | 293 | 110 | Danielle Weikel |
 | 294 | 110 | Carol Cain Thurman |

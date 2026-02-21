@@ -594,8 +594,8 @@
 | 586 | 208 | Lauren Fitzgerald Thomas |
 | 587 | 208 | Nerdy Riserfit |
 | 588 | 208 | Ashley MoBetta Humes |
-| 589 | 207 | Nicolle Danielle |
-| 590 | 207 | Caitlin Johnson |
+| 589 | 207 | Caitlin Johnson |
+| 590 | 207 | Nicolle Danielle |
 | 591 | 206 | RAEPR05 |
 | 592 | 206 | Neko Preston |
 | 593 | 205 | Joel Rosado |
