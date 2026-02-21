@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Katrina Schroeder |
-| 65 | 582 | Natasha Jones |
+| 64 | 582 | Natasha Jones |
+| 65 | 582 | Katrina Schroeder |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Silly Twist |
-| 93 | 445 | Kristie McFarland |
+| 92 | 445 | Kristie McFarland |
+| 93 | 445 | Silly Twist |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -139,8 +139,8 @@
 | 131 | 323 | Ashley Raines |
 | 132 | 320 | Or Reznitsky |
 | 133 | 309 | Rich LeBlanc |
-| 134 | 307 | Blocked |
-| 135 | 307 | Peggi Charon |
+| 134 | 307 | Peggi Charon |
+| 135 | 307 | Blocked |
 | 136 | 300 | Sherika C. McDaniels |
 | 137 | 294 | Logan Naccarato |
 | 138 | 293 | Poppy Splitter |

@@ -25,8 +25,8 @@
 | 17 | 889 | Robert Beck |
 | 18 | 883 | Roger Aschbrenner |
 | 19 | 854 | Derek MF Blakey |
-| 20 | 792 | LaQuetta Faith Hines |
-| 21 | 792 | Tipsy Column |
+| 20 | 792 | Tipsy Column |
+| 21 | 792 | LaQuetta Faith Hines |
 | 22 | 791 | Adryane Schnase |
 | 23 | 784 | COOL as Icer |
 | 24 | 779 | Andrea Dañielle Ortiz |
@@ -100,8 +100,8 @@
 | 92 | 277 | Ly Phethmany |
 | 93 | 273 | Happy Basegrid |
 | 94 | 272 | Sarah Roberts |
-| 95 | 270 | Bhelle Sumile |
-| 96 | 270 | Jennifer ManWarren |
+| 95 | 270 | Jennifer ManWarren |
+| 96 | 270 | Bhelle Sumile |
 | 97 | 263 | Sharon Reynolds |
 | 98 | 261 | Rachael |
 | 99 | 258 | Dandy Basegrid |
@@ -129,16 +129,16 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | Giggly Builderline |
-| 125 | 203 | GATOR |
+| 124 | 203 | GATOR |
+| 125 | 203 | Giggly Builderline |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
 | 129 | 194 | Tyler Werts |
 | 130 | 194 | Ash Galvan |
 | 131 | 193 | Lachelle Dillon |
-| 132 | 192 | Jessica Sheehan |
-| 133 | 192 | Shaykmia |
+| 132 | 192 | Shaykmia |
+| 133 | 192 | Jessica Sheehan |
 | 134 | 191 | Diane Byrd |
 | 135 | 190 | Thorne Shumate |
 | 136 | 190 | Sweetts |
@@ -148,8 +148,8 @@
 | 140 | 186 | Margo Wagner |
 | 141 | 185 | Basment Living |
 | 142 | 180 | Erez Yosef |
-| 143 | 180 | Michael |
-| 144 | 180 | BigWeenie69 |
+| 143 | 180 | BigWeenie69 |
+| 144 | 180 | Michael |
 | 145 | 179 | Danielle Little-Daugherty |
 | 146 | 178 | Shiny Gridmatch |
 | 147 | 178 | Chad Atchley |
@@ -187,8 +187,8 @@
 | 179 | 147 | Davery Spencer Adair |
 | 180 | 147 | Angela Fairbank |
 | 181 | 145 | Agustin Duarte Orozco |
-| 182 | 144 | Miguel Teixeira |
-| 183 | 144 | Cranky Pattern |
+| 182 | 144 | Cranky Pattern |
+| 183 | 144 | Miguel Teixeira |
 | 184 | 144 | Gary Gobin |
 | 185 | 142 | Colleen Wise |
 | 186 | 141 | Blaire Bruckoff |
@@ -197,8 +197,8 @@
 | 189 | 139 | Mel Hogan |
 | 190 | 139 | Flashy Rotator |
 | 191 | 138 | Death |
-| 192 | 137 | Cody Gates |
-| 193 | 137 | Witty Builderfit |
+| 192 | 137 | Witty Builderfit |
+| 193 | 137 | Cody Gates |
 | 194 | 136 | Breanna Luna |
 | 195 | 135 | Aimee Horton |
 | 196 | 135 | Guest |

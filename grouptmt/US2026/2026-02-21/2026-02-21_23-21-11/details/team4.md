@@ -160,8 +160,8 @@
 | 152 | 156 | Holly |
 | 153 | 155 | AyeKay |
 | 154 | 153 | Empress Oasis |
-| 155 | 153 | Avy Absol |
-| 156 | 153 | Chair |
+| 155 | 153 | Chair |
+| 156 | 153 | Avy Absol |
 | 157 | 152 | Roger Coulter |
 | 158 | 151 | Bethany Ison |
 | 159 | 149 | Shainne Brewer |

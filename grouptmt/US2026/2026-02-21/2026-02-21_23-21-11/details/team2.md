@@ -249,8 +249,8 @@
 | 241 | 556 | Shavonna Haynes |
 | 242 | 549 | Kaylee McCafferty |
 | 243 | 547 | Giggy Blocker |
-| 244 | 543 | Teresa Gillmore |
-| 245 | 543 | Adira Brown |
+| 244 | 543 | Adira Brown |
+| 245 | 543 | Teresa Gillmore |
 | 246 | 543 | Mema |
 | 247 | 537 | Slip |
 | 248 | 535 | Jessie McDougald |
@@ -320,8 +320,8 @@
 | 312 | 452 | Jai Jackson |
 | 313 | 451 | Daphne Jordan |
 | 314 | 451 | Dylan Thomason |
-| 315 | 449 | Davetta Sanford |
-| 316 | 449 | Shelley Thornburgh Wright |
+| 315 | 449 | Shelley Thornburgh Wright |
+| 316 | 449 | Davetta Sanford |
 | 317 | 448 | Jojo Momma |
 | 318 | 447 | Heather Schelkopf |
 | 319 | 447 | Lourisha |
@@ -335,12 +335,12 @@
 | 327 | 435 | Kimberly Randesi |
 | 328 | 433 | Victor Obiakarije |
 | 329 | 432 | Rachael Senard |
-| 330 | 428 | Crystie Hicks |
-| 331 | 428 | Rhonda Milstead |
+| 330 | 428 | Rhonda Milstead |
+| 331 | 428 | Crystie Hicks |
 | 332 | 427 | Amanda Ferrell |
 | 333 | 427 | Destiny Cozier |
-| 334 | 425 | Skyler Morgan |
-| 335 | 425 | Julay |
+| 334 | 425 | Julay |
+| 335 | 425 | Skyler Morgan |
 | 336 | 424 | Regina Young |
 | 337 | 423 | Sam |
 | 338 | 423 | Shaun Church |
@@ -377,8 +377,8 @@
 | 369 | 391 | Chilly Bridgepiece |
 | 370 | 390 | Caitlin Schmid |
 | 371 | 386 | Irene Jones |
-| 372 | 384 | Mike Aprilliano |
-| 373 | 384 | Johnny Yeates |
+| 372 | 384 | Johnny Yeates |
+| 373 | 384 | Mike Aprilliano |
 | 374 | 383 | Arkei Luster |
 | 375 | 382 | David Holliday |
 | 376 | 382 | KhaosLord |
@@ -649,7 +649,7 @@
 | 641 | 234 | Jennifer Leigh |
 | 642 | 234 | Kay Stevenson |
 | 643 | 233 | Epic Spinfit |
-| 644 | 233 | Christine Bollig |
+| 644 | 233 | Myleaha Holley |
 | 645 | 233 | Nutty Matchline |
 | 646 | 233 | Christine Bollig |
 | 647 | 233 | Jumpy Gridclear |
