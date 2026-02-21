@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3223 | Trisha Gill |
@@ -320,8 +320,8 @@
 | 312 | 231 | Dylan Thomason |
 | 313 | 231 | Ginger |
 | 314 | 231 | Hong Tang |
-| 315 | 230 | snkylnk |
-| 316 | 230 | Peachy Blockbuilder |
+| 315 | 230 | Peachy Blockbuilder |
+| 316 | 230 | snkylnk |
 | 317 | 229 | Kimmy Newman |
 | 318 | 228 | Michelle Sager |
 | 319 | 227 | Nutty Matchline |

@@ -42,8 +42,8 @@
 | 34 | 587 | Danielle Becker |
 | 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -130,8 +130,8 @@
 | 122 | 178 | Khaleada McGill Banks |
 | 123 | 176 | Ryan Williams |
 | 124 | 168 | Mendoza Lee Christy |
-| 125 | 166 | Kelly Ann Child |
-| 126 | 166 | Danielle Mogg |
+| 125 | 166 | Danielle Mogg |
+| 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
 | 128 | 159 | Jone |
 | 129 | 159 | Morgan Martinez |
@@ -150,8 +150,8 @@
 | 142 | 149 | Trisha Balmer |
 | 143 | 149 | Angel Mendez |
 | 144 | 147 | Sashay Tapae Simpson |
-| 145 | 146 | Latoya Mayne |
-| 146 | 146 | Denita Mungro |
+| 145 | 146 | Denita Mungro |
+| 146 | 146 | Latoya Mayne |
 | 147 | 142 | Erica Anderson |
 | 148 | 140 | Jay Horn |
 | 149 | 140 | Gumbo |
@@ -160,11 +160,11 @@
 | 152 | 134 | DanceLuvLaugh |
 | 153 | 134 | Emma |
 | 154 | 131 | Jl |
-| 155 | 127 | Connie Mohler-Fair |
-| 156 | 127 | Marquita Sheard |
-| 157 | 127 | Aerian Preston |
-| 158 | 126 | Stephanie Burtin |
-| 159 | 126 | Dan Rob |
+| 155 | 127 | Aerian Preston |
+| 156 | 127 | Connie Mohler-Fair |
+| 157 | 127 | Marquita Sheard |
+| 158 | 126 | Dan Rob |
+| 159 | 126 | Stephanie Burtin |
 | 160 | 125 | Felicia Doxey |
 | 161 | 125 | Shimika Enay Wallace |
 | 162 | 124 | Cesar Barraza |
@@ -197,9 +197,9 @@
 | 189 | 108 | LaTanya GeminiondaRise Johnson |
 | 190 | 108 | Brandon Givens |
 | 191 | 107 | Sherry Ogden |
-| 192 | 106 | Eon Harris |
-| 193 | 106 | Desiree Gold |
-| 194 | 105 | Hoppy Buildout |
+| 192 | 106 | Desiree Gold |
+| 193 | 106 | Eon Harris |
+| 194 | 105 | Carol Cain Thurman |
 | 195 | 105 | Emi |
 | 196 | 105 | Hoppy Buildout |
 | 197 | 104 | Ashley Rufus Bythcez |

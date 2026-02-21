@@ -67,8 +67,8 @@
 | 59 | 179 | Epic Curvetile |
 | 60 | 175 | Dustee Craddock-Harrison |
 | 61 | 171 | Clarence Patawaran |
-| 62 | 170 | Girl |
-| 63 | 170 | Leah Kutz Zirbel |
+| 62 | 170 | Leah Kutz Zirbel |
+| 63 | 170 | Girl |
 | 64 | 167 | Denise Carlson |
 | 65 | 165 | Courtney Cicoria |
 | 66 | 165 | Casey Grabner |
@@ -184,8 +184,8 @@
 | 176 | 79 | Perky Piecegrid |
 | 177 | 79 | Kametsunoyaiba |
 | 178 | 79 | Joseph Pace |
-| 179 | 78 | Zesty Linkgrid |
-| 180 | 78 | Jessica Miller |
+| 179 | 78 | Jessica Miller |
+| 180 | 78 | Zesty Linkgrid |
 | 181 | 78 | 🥔🥔 Spudz |
 | 182 | 77 | Zippy Gridlock |
 | 183 | 77 | Chris Alexinas |
