@@ -165,8 +165,8 @@
 | 157 | 297 | James Zaragoza |
 | 158 | 296 | Jennifer Casey-Kay |
 | 159 | 296 | Brittney Jean |
-| 160 | 295 | Diallo Sparkman |
-| 161 | 295 | Zany Clusterbuilder |
+| 160 | 295 | Zany Clusterbuilder |
+| 161 | 295 | Diallo Sparkman |
 | 162 | 295 | Angela Bonquiqui Dinish |
 | 163 | 290 | Jessie McDougald |
 | 164 | 289 | Juanita Lyons |

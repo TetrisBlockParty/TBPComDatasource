@@ -175,7 +175,7 @@
 | 167 | 56 | Kellie |
 | 168 | 56 | Henry Lanier |
 | 169 | 55 | Howdi Duty |
-| 170 | 54 | Ariel Whittington |
+| 170 | 54 | MIKOZ |
 | 171 | 54 | Michelle |
 | 172 | 54 | Speedy Snapfall |
 | 173 | 54 | .running. |

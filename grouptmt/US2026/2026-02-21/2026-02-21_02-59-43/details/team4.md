@@ -63,20 +63,20 @@
 | 55 | 125 | Lauren Scott |
 | 56 | 124 | Jay28 |
 | 57 | 123 | Nugget |
-| 58 | 122 | Shelly Chandler |
-| 59 | 122 | Sherri |
+| 58 | 122 | Sherri |
+| 59 | 122 | Shelly Chandler |
 | 60 | 121 | Smiley Tiltbuilder |
 | 61 | 116 | Serena Goodridge |
 | 62 | 114 | Jessica Cagle |
-| 63 | 113 | Degenerate |
-| 64 | 113 | Leslie Nicole |
+| 63 | 113 | Leslie Nicole |
+| 64 | 113 | Degenerate |
 | 65 | 112 | Mr. Party |
 | 66 | 112 | Chirpy Basepiece |
 | 67 | 111 | Gwendolyn Pitcairn |
 | 68 | 111 | Zany Shatterer |
 | 69 | 110 | Diana Houts |
-| 70 | 110 | John Brunetti |
-| 71 | 110 | H.R. Block |
+| 70 | 110 | H.R. Block |
+| 71 | 110 | John Brunetti |
 | 72 | 109 | Bryan Hodgins |
 | 73 | 107 | Marcus Todd |
 | 74 | 104 | Andria Lynn |
@@ -420,8 +420,8 @@
 | 412 | 22 | Ernest Maxwell |
 | 413 | 22 | JD |
 | 414 | 21 | Daws |
-| 415 | 21 | @ |
-| 416 | 21 | Frisky Matchgrid |
+| 415 | 21 | Candice Carasiti |
+| 416 | 21 | Arqunita Nene Marbury |
 | 417 | 21 | Robert Rangel |
 | 418 | 21 | @ |
 | 419 | 21 | Jason Allen |

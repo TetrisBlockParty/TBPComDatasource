@@ -131,8 +131,8 @@
 | 123 | 115 | Jennifer Alvey |
 | 124 | 114 | Jessica Bechler |
 | 125 | 111 | Joy Petroski |
-| 126 | 110 | Stella |
-| 127 | 110 | Tiff Vs Tiffany |
+| 126 | 110 | Tiff Vs Tiffany |
+| 127 | 110 | Stella |
 | 128 | 109 | Fredd Thomas |
 | 129 | 108 | Rachel Napper |
 | 130 | 108 | Grams |
@@ -148,8 +148,8 @@
 | 140 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 141 | 100 | Donna |
 | 142 | 100 | Bobbi Moore |
-| 143 | 100 | Elizabeth Renee |
-| 144 | 100 | Ryan Williams |
+| 143 | 100 | Ryan Williams |
+| 144 | 100 | Elizabeth Renee |
 | 145 | 99 | Nichol Graham |
 | 146 | 99 | Lys |
 | 147 | 98 | Jocelyne Baca |
