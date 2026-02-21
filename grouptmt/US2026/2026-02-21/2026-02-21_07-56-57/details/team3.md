@@ -153,8 +153,8 @@
 | 145 | 149 | Bea Miles |
 | 146 | 149 | Angel Mendez |
 | 147 | 147 | Sashay Tapae Simpson |
-| 148 | 146 | Denita Mungro |
-| 149 | 146 | Latoya Mayne |
+| 148 | 146 | Latoya Mayne |
+| 149 | 146 | Denita Mungro |
 | 150 | 142 | Erica Anderson |
 | 151 | 140 | Gumbo |
 | 152 | 140 | Jay Horn |
@@ -287,7 +287,7 @@
 | 279 | 79 | Bleu Sun Beams |
 | 280 | 79 | Amanda Neal |
 | 281 | 78 | El Chapa |
-| 282 | 78 | Cozy Snaplink |
+| 282 | 78 | Sabrina Mansfield |
 | 283 | 78 | Clever Patterner |
 | 284 | 78 | Cozy Snaplink |
 | 285 | 78 | Myriam Lapierre |

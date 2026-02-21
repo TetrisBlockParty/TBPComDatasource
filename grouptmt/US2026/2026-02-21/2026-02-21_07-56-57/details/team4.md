@@ -105,8 +105,8 @@
 | 97 | 131 | Mr. Party |
 | 98 | 130 | Casey Jeffcoat |
 | 99 | 130 | Lucas J Sutton |
-| 100 | 129 | John Brunetti |
-| 101 | 129 | Landon Keith Graffeo |
+| 100 | 129 | Landon Keith Graffeo |
+| 101 | 129 | John Brunetti |
 | 102 | 125 | Lauren Scott |
 | 103 | 123 | Nugget |
 | 104 | 123 | Bubbly Puzzler |
@@ -124,8 +124,8 @@
 | 116 | 116 | Diana Houts |
 | 117 | 115 | Ultramarine |
 | 118 | 113 | Andria Lynn |
-| 119 | 112 | Bryan Hodgins |
-| 120 | 112 | Brittany Marsh |
+| 119 | 112 | Brittany Marsh |
+| 120 | 112 | Bryan Hodgins |
 | 121 | 112 | Austin Owens |
 | 122 | 111 | Lazy Blocker |
 | 123 | 111 | Stephme310 |
@@ -254,8 +254,8 @@
 | 246 | 61 | Bradley Reeves |
 | 247 | 61 | Shauna Havard |
 | 248 | 60 | Ahleek Mitchell |
-| 249 | 59 | Jasmine S Caldwell |
-| 250 | 59 | Lori |
+| 249 | 59 | Lori |
+| 250 | 59 | Jasmine S Caldwell |
 | 251 | 59 | Jen Mattei |
 | 252 | 58 | Rebecca Morris |
 | 253 | 58 | Gilles Lanctot |

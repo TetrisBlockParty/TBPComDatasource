@@ -95,11 +95,11 @@
 | 87 | 674 | Dannette Goldberg-Richards |
 | 88 | 672 | Wendy Harder Gage |
 | 89 | 665 | Dineisha Carpenter |
-| 90 | 658 | Vistabrat |
-| 91 | 658 | Pacynthia Williams |
+| 90 | 658 | Pacynthia Williams |
+| 91 | 658 | Vistabrat |
 | 92 | 653 | Becky Weeks-Garry |
-| 93 | 649 | Anna Edwards |
-| 94 | 649 | Stephanie Chapman |
+| 93 | 649 | Stephanie Chapman |
+| 94 | 649 | Anna Edwards |
 | 95 | 631 | Loopy Clusterbuilder |
 | 96 | 620 | BYM4L |
 | 97 | 608 | John Bednarik |
@@ -262,11 +262,11 @@
 | 254 | 280 | Shorty |
 | 255 | 278 | Noel Tarmy |
 | 256 | 276 | Lindsey Leigh |
-| 257 | 276 | Vonceial Boone |
-| 258 | 276 | SwampRebel |
+| 257 | 276 | SwampRebel |
+| 258 | 276 | Vonceial Boone |
 | 259 | 275 | Amélie Cadieux |
-| 260 | 275 | Ann Matzkanin |
-| 261 | 275 | Shiny Rollzone |
+| 260 | 275 | Shiny Rollzone |
+| 261 | 275 | Ann Matzkanin |
 | 262 | 274 | Melissa Holsinger |
 | 263 | 274 | Jamie Stevey |
 | 264 | 274 | Lonne Emade |
@@ -319,8 +319,8 @@
 | 311 | 246 | Ashley Lopez |
 | 312 | 246 | Stephanie Lumanlan |
 | 313 | 245 | Rachael Senard |
-| 314 | 245 | Mischelle Clay |
-| 315 | 245 | Taryece Gause |
+| 314 | 245 | Taryece Gause |
+| 315 | 245 | Mischelle Clay |
 | 316 | 244 | Aimee Byrom |
 | 317 | 243 | Brandy Andre |
 | 318 | 243 | Mikayala Szaz |
