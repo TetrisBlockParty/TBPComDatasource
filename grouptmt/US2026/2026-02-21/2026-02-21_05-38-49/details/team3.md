@@ -122,8 +122,8 @@
 | 114 | 158 | Grams |
 | 115 | 156 | Joey Banks |
 | 116 | 155 | BŘŰŤİÇŨŚ |
-| 117 | 154 | Louise Stacy Sisson |
-| 118 | 154 | Angela M. Fletcher |
+| 117 | 154 | Angela M. Fletcher |
+| 118 | 154 | Louise Stacy Sisson |
 | 119 | 153 | Beth Ingham |
 | 120 | 152 | Shiny Zonebuilder |
 | 121 | 149 | Bea Miles |

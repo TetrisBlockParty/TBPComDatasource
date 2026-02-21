@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Carmethia Clemons Haslerig |
-| 20 | 383 | Johnathan Martinez |
+| 19 | 383 | Johnathan Martinez |
+| 20 | 383 | Carmethia Clemons Haslerig |
 | 21 | 363 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -57,8 +57,8 @@
 | 49 | 194 | Jamie Mann-Deichmann |
 | 50 | 185 | loulou |
 | 51 | 179 | Epic Curvetile |
-| 52 | 170 | Girl |
-| 53 | 170 | Leah Kutz Zirbel |
+| 52 | 170 | Leah Kutz Zirbel |
+| 53 | 170 | Girl |
 | 54 | 168 | Anthony Magaraci |
 | 55 | 167 | Dustee Craddock-Harrison |
 | 56 | 165 | Courtney Cicoria |
@@ -76,8 +76,8 @@
 | 68 | 145 | Edward White |
 | 69 | 141 | Malakai Darien Fox |
 | 70 | 140 | Shannon Ferrari |
-| 71 | 134 | Jessica Bohlken |
-| 72 | 134 | Chirpy Basepiece |
+| 71 | 134 | Chirpy Basepiece |
+| 72 | 134 | Jessica Bohlken |
 | 73 | 133 | Robin Watters |
 | 74 | 132 | Degenerate |
 | 75 | 132 | Jenna McGeorge |
@@ -154,7 +154,7 @@
 | 146 | 81 | Blessedmama |
 | 147 | 81 | Jumpy Zonepiece |
 | 148 | 81 | Michelle Parker |
-| 149 | 81 | Jumpy Zonepiece |
+| 149 | 81 | Chair |
 | 150 | 80 | Melissa Adams |
 | 151 | 79 | Nubian1 |
 | 152 | 79 | Joseph Pace |

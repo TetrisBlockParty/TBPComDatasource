@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Taylana Mincy |
-| 3 | 3567 | Rickey Goins Jr. |
+| 2 | 3567 | Rickey Goins Jr. |
+| 3 | 3567 | Taylana Mincy |
 | 4 | 3475 | Cassie Donica |
 | 5 | 3460 | Poppy Snap |
 | 6 | 3453 | Tiaira Patrice' |
@@ -154,8 +154,8 @@
 | 146 | 411 | Ricky Fortune |
 | 147 | 409 | Sparkles |
 | 148 | 401 | Poppy Snap |
-| 149 | 400 | Crystie Hicks |
-| 150 | 400 | Tammy Allen |
+| 149 | 400 | Tammy Allen |
+| 150 | 400 | Crystie Hicks |
 | 151 | 397 | Ashley Guernsey-Martin |
 | 152 | 391 | Steven Marshaun |
 | 153 | 391 | Chilly Bridgepiece |
@@ -237,8 +237,8 @@
 | 229 | 273 | Jenna Nance |
 | 230 | 272 | August Hale |
 | 231 | 271 | Ann Marie Davis |
-| 232 | 271 | Toni Lynn |
-| 233 | 271 | Lonne Emade |
+| 232 | 271 | Lonne Emade |
+| 233 | 271 | Toni Lynn |
 | 234 | 270 | Angela Lynn |
 | 235 | 270 | Ann Matzkanin |
 | 236 | 270 | Alexandra Weir |
@@ -291,8 +291,8 @@
 | 283 | 237 | Altamirano Michael |
 | 284 | 236 | Frisky Riserbuilder |
 | 285 | 235 | Kimberly Mitchell |
-| 286 | 233 | Robin Kerby |
-| 287 | 233 | Alyssia Tancredi |
+| 286 | 233 | Alyssia Tancredi |
+| 287 | 233 | Robin Kerby |
 | 288 | 232 | Amber Brion |
 | 289 | 232 | Maddy Petersen |
 | 290 | 231 | Dylan Thomason |

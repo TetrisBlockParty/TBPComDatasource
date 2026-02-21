@@ -31,10 +31,10 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Maria C. Hernandez |
-| 27 | 281 | Nancy Green |
-| 28 | 274 | Sweet Baker |
-| 29 | 274 | Theo Pinnow |
+| 26 | 281 | Nancy Green |
+| 27 | 281 | Maria C. Hernandez |
+| 28 | 274 | Theo Pinnow |
+| 29 | 274 | Sweet Baker |
 | 30 | 265 | Jennifer Cates |
 | 31 | 256 | Robert Benito |
 | 32 | 252 | Tipsy Column |
