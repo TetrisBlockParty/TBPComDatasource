@@ -120,8 +120,8 @@
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
-| 115 | 126 | Brandon Green |
-| 116 | 126 | Dan Rob |
+| 115 | 126 | Dan Rob |
+| 116 | 126 | Brandon Green |
 | 117 | 125 | BŘŰŤİÇŨŚ |
 | 118 | 125 | Stephanie Simpson |
 | 119 | 125 | Felicia Doxey |

@@ -394,8 +394,8 @@
 | 386 | 145 | Scott Rackley |
 | 387 | 144 | Tee Davis |
 | 388 | 144 | Bette Prieto |
-| 389 | 144 | Kyle LeRoy Harris |
-| 390 | 144 | Alexis Richardson |
+| 389 | 144 | Alexis Richardson |
+| 390 | 144 | Kyle LeRoy Harris |
 | 391 | 143 | Angelica |
 | 392 | 143 | David Holliday |
 | 393 | 142 | RavensBeard |

@@ -46,8 +46,8 @@
 | 38 | 185 | loulou |
 | 39 | 179 | Epic Curvetile |
 | 40 | 174 | Jamie Mann-Deichmann |
-| 41 | 170 | Leah Kutz Zirbel |
-| 42 | 170 | Girl |
+| 41 | 170 | Girl |
+| 42 | 170 | Leah Kutz Zirbel |
 | 43 | 168 | Anthony Magaraci |
 | 44 | 153 | Mike Solo |
 | 45 | 153 | Jae Job |
@@ -135,8 +135,8 @@
 | 127 | 76 | Jessica Miller |
 | 128 | 75 | Rosemary Foster |
 | 129 | 75 | 🥔🥔 Spudz |
-| 130 | 74 | Melvin Baird |
-| 131 | 74 | Julian Garcia |
+| 130 | 74 | Julian Garcia |
+| 131 | 74 | Melvin Baird |
 | 132 | 73 | April Rondinone |
 | 133 | 72 | Joshua Cuellar |
 | 134 | 71 | Joseph Pace |
