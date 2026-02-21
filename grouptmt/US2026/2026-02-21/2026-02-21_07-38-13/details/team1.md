@@ -83,8 +83,8 @@
 | 75 | 163 | Chad Atchley |
 | 76 | 162 | Patrick Luckenbill |
 | 77 | 161 | Abbey Crespo |
-| 78 | 155 | Standia Civil |
-| 79 | 155 | David DeSantis |
+| 78 | 155 | David DeSantis |
+| 79 | 155 | Standia Civil |
 | 80 | 153 | Shiny Gridmatch |
 | 81 | 152 | Jacqueline Unique |
 | 82 | 149 | Tana |
@@ -94,8 +94,8 @@
 | 86 | 145 | Lachelle Dillon |
 | 87 | 145 | BigWeenie69 |
 | 88 | 144 | femmefatale |
-| 89 | 144 | Plucky Ziggy |
-| 90 | 144 | Tanya Carpenter-Reynolds |
+| 89 | 144 | Tanya Carpenter-Reynolds |
+| 90 | 144 | Plucky Ziggy |
 | 91 | 143 | Sarah Marie |
 | 92 | 141 | Blaire Bruckoff |
 | 93 | 138 | Gary Gobin |

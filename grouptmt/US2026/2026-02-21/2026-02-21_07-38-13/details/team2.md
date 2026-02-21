@@ -95,8 +95,8 @@
 | 87 | 658 | Vistabrat |
 | 88 | 658 | Pacynthia Williams |
 | 89 | 653 | Becky Weeks-Garry |
-| 90 | 649 | Anna Edwards |
-| 91 | 649 | Stephanie Chapman |
+| 90 | 649 | Stephanie Chapman |
+| 91 | 649 | Anna Edwards |
 | 92 | 631 | Loopy Clusterbuilder |
 | 93 | 620 | BYM4L |
 | 94 | 608 | John Bednarik |
@@ -155,8 +155,8 @@
 | 147 | 453 | Osun Anuket Esu |
 | 148 | 452 | Alezandra Smith |
 | 149 | 450 | Giggy Blocker |
-| 150 | 448 | Nick Jensen |
-| 151 | 448 | Jojo Momma |
+| 150 | 448 | Jojo Momma |
+| 151 | 448 | Nick Jensen |
 | 152 | 442 | Daphne Jordan |
 | 153 | 427 | Destiny Cozier |
 | 154 | 426 | Magic steve |

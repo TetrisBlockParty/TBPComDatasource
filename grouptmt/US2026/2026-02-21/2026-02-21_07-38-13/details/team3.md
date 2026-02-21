@@ -130,8 +130,8 @@
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Kelly Ann Child |
-| 126 | 166 | Danielle Mogg |
+| 125 | 166 | Danielle Mogg |
+| 126 | 166 | Kelly Ann Child |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
 | 129 | 159 | Mcathen |
@@ -151,8 +151,8 @@
 | 143 | 149 | Trisha Balmer |
 | 144 | 149 | Angel Mendez |
 | 145 | 147 | Sashay Tapae Simpson |
-| 146 | 146 | Latoya Mayne |
-| 147 | 146 | Denita Mungro |
+| 146 | 146 | Denita Mungro |
+| 147 | 146 | Latoya Mayne |
 | 148 | 142 | Erica Anderson |
 | 149 | 140 | Gumbo |
 | 150 | 140 | Jay Horn |
@@ -201,10 +201,10 @@
 | 193 | 108 | LaTanya GeminiondaRise Johnson |
 | 194 | 108 | Rachel Napper |
 | 195 | 107 | Sherry Ogden |
-| 196 | 106 | Desiree Gold |
-| 197 | 106 | Eon Harris |
-| 198 | 105 | Emi |
-| 199 | 105 | Carol Cain Thurman |
+| 196 | 106 | Eon Harris |
+| 197 | 106 | Desiree Gold |
+| 198 | 105 | Carol Cain Thurman |
+| 199 | 105 | Emi |
 | 200 | 105 | Hoppy Buildout |
 | 201 | 104 | Ashley Rufus Bythcez |
 | 202 | 104 | Beppy |
