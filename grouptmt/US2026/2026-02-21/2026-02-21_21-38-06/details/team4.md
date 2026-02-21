@@ -156,9 +156,9 @@
 | 148 | 149 | Diana Houts |
 | 149 | 148 | Brittany Marsh |
 | 150 | 148 | Janita Parrish |
-| 151 | 147 | Shainne Brewer |
-| 152 | 147 | Jay28 |
-| 153 | 147 | Chair |
+| 151 | 147 | Jay28 |
+| 152 | 147 | Chair |
+| 153 | 147 | Shainne Brewer |
 | 154 | 145 | Daria Rycewicz |
 | 155 | 144 | Mr. Party |
 | 156 | 141 | Marcus Todd |
@@ -210,8 +210,8 @@
 | 202 | 120 | Jackie Marie |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
-| 205 | 118 | Chris Bernstein |
-| 206 | 118 | Mary Ann Pabukis |
+| 205 | 118 | Mary Ann Pabukis |
+| 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Ultramarine |
 | 209 | 115 | Jayk |
@@ -237,7 +237,7 @@
 | 229 | 103 | Berklie Apedaile |
 | 230 | 103 | rebel4lyfe |
 | 231 | 103 | Kate |
-| 232 | 102 | Autumn Kumzi |
+| 232 | 102 | Cheery Risebuilder |
 | 233 | 102 | Christina O'Dell-Ishau |
 | 234 | 102 | Autumn Kumzi |
 | 235 | 102 | Faja |

@@ -58,8 +58,8 @@
 | 50 | 631 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 593 | Elaine Webb Graves |
@@ -99,12 +99,12 @@
 | 91 | 408 | Patty Allen |
 | 92 | 403 | Christine Filson |
 | 93 | 402 | Stephanie Simpson |
-| 94 | 394 | Mcathen |
-| 95 | 394 | joclisa |
+| 94 | 394 | joclisa |
+| 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Hasty Cascadefit |
-| 99 | 390 | Annie Déè |
+| 98 | 390 | Annie Déè |
+| 99 | 390 | Hasty Cascadefit |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -130,8 +130,8 @@
 | 122 | 316 | Fancy Cascader |
 | 123 | 314 | Aaron Pitkin |
 | 124 | 309 | Rich LeBlanc |
-| 125 | 307 | Blocked |
-| 126 | 307 | Peggi Charon |
+| 125 | 307 | Peggi Charon |
+| 126 | 307 | Blocked |
 | 127 | 305 | Tessina Dewey-Mancino |
 | 128 | 302 | Bea Miles |
 | 129 | 300 | Sherika C. McDaniels |
@@ -143,8 +143,8 @@
 | 135 | 276 | Domo Washington |
 | 136 | 276 | Crimson |
 | 137 | 272 | opf |
-| 138 | 271 | Ashley Muncey |
-| 139 | 271 | Leah Barnett |
+| 138 | 271 | Leah Barnett |
+| 139 | 271 | Ashley Muncey |
 | 140 | 267 | Denise Nardoni |
 | 141 | 265 | Marci Mize Fandrich |
 | 142 | 263 | Angeline Joseph |
@@ -164,8 +164,8 @@
 | 156 | 234 | Tom Nault |
 | 157 | 233 | Ray Lader |
 | 158 | 229 | Nikki Pags |
-| 159 | 228 | Rochelle Hazelett |
-| 160 | 228 | Morgan Martinez |
+| 159 | 228 | Morgan Martinez |
+| 160 | 228 | Rochelle Hazelett |
 | 161 | 226 | Grego Daniel |
 | 162 | 224 | Nicole Myers |
 | 163 | 223 | Jeana Gilbert |
@@ -175,8 +175,8 @@
 | 167 | 219 | Rebecca Bailey |
 | 168 | 218 | LaNette Morgan |
 | 169 | 217 | Jess Bissett |
-| 170 | 214 | Jenny Hrndz |
-| 171 | 214 | Amy Fuller Heaton |
+| 170 | 214 | Amy Fuller Heaton |
+| 171 | 214 | Jenny Hrndz |
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Khaleada McGill Banks |
 | 174 | 211 | Katrina Turner |

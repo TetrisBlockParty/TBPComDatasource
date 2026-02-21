@@ -121,8 +121,8 @@
 | 113 | 210 | Ly Phethmany |
 | 114 | 204 | Ananda Mendez |
 | 115 | 203 | Giggly Builderline |
-| 116 | 198 | Happy Snapbuild |
-| 117 | 198 | GATOR |
+| 116 | 198 | GATOR |
+| 117 | 198 | Happy Snapbuild |
 | 118 | 195 | Jason Jones |
 | 119 | 194 | Ash Galvan |
 | 120 | 193 | Lachelle Dillon |
