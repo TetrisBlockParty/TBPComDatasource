@@ -59,8 +59,8 @@
 | 51 | 126 | Cece Ibarra |
 | 52 | 126 | Marianne Louise West |
 | 53 | 125 | Rico Rico |
-| 54 | 120 | BigWeenie69 |
-| 55 | 120 | Giggly Builderline |
+| 54 | 120 | Giggly Builderline |
+| 55 | 120 | BigWeenie69 |
 | 56 | 119 | Irual Hctrab |
 | 57 | 117 | David DeSantis |
 | 58 | 116 | Kristen Roles Robben |
@@ -98,8 +98,8 @@
 | 90 | 81 | Bob |
 | 91 | 81 | Garcia Bailey |
 | 92 | 81 | Jennifer ManWarren |
-| 93 | 80 | pjbeta |
-| 94 | 80 | Matt Cinelli |
+| 93 | 80 | Matt Cinelli |
+| 94 | 80 | pjbeta |
 | 95 | 79 | Chris65 |
 | 96 | 78 | Carrie Beck Geartz |
 | 97 | 77 | Teddy Alexander |

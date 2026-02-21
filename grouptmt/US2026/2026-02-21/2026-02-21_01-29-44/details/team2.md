@@ -306,8 +306,8 @@
 | 298 | 145 | William Hughes |
 | 299 | 144 | kippykay |
 | 300 | 144 | Alexis Richardson |
-| 301 | 143 | Kyle LeRoy Harris |
-| 302 | 143 | Angelica |
+| 301 | 143 | Angelica |
+| 302 | 143 | Kyle LeRoy Harris |
 | 303 | 142 | Frisky Clearpiece |
 | 304 | 142 | Angela Lynn |
 | 305 | 141 | Markisha Poyndexter |
@@ -315,8 +315,8 @@
 | 307 | 140 | Amber Gray |
 | 308 | 139 | Jackson Smith |
 | 309 | 139 | Ashlyn Berner |
-| 310 | 139 | Caitlin Johnson |
-| 311 | 139 | Leslie Porter |
+| 310 | 139 | Leslie Porter |
+| 311 | 139 | Caitlin Johnson |
 | 312 | 138 | Gursharan Sandhu |
 | 313 | 138 | King Shamell Young |
 | 314 | 138 | Ibiza Carolina LaRose |

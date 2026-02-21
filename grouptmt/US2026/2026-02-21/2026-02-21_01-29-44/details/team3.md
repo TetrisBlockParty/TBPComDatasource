@@ -142,11 +142,11 @@
 | 134 | 92 | Tetris Master |
 | 135 | 92 | Jennifer Caputo |
 | 136 | 90 | Tiffany Kaupang |
-| 137 | 89 | Hyper Bridger |
-| 138 | 89 | Annie Déè |
+| 137 | 89 | Annie Déè |
+| 138 | 89 | Hyper Bridger |
 | 139 | 88 | Danielle Becker |
-| 140 | 88 | Funky Jumper |
-| 141 | 88 | Martin Bernier |
+| 140 | 88 | Martin Bernier |
+| 141 | 88 | Funky Jumper |
 | 142 | 86 | Dan Rob |
 | 143 | 85 | Kevin Russell |
 | 144 | 84 | Ava Petito |
