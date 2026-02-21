@@ -125,8 +125,8 @@
 | 117 | 208 | Twisty Cascadezone |
 | 118 | 206 | Mylo Lipscomb |
 | 119 | 205 | Sarah Neathery |
-| 120 | 204 | Dana Scott |
-| 121 | 204 | Jen Caldwell |
+| 120 | 204 | Jen Caldwell |
+| 121 | 204 | Dana Scott |
 | 122 | 202 | Monica Daley |
 | 123 | 201 | Swanky Fitline |
 | 124 | 201 | Melvin Baird |
@@ -148,10 +148,10 @@
 | 140 | 181 | Carter Jones |
 | 141 | 180 | Leah Kutz Zirbel |
 | 142 | 178 | Lori |
-| 143 | 176 | Zethra Prenisha Rahming |
-| 144 | 176 | Klo |
-| 145 | 175 | blockstar |
-| 146 | 175 | Ren Mc |
+| 143 | 176 | Klo |
+| 144 | 176 | Zethra Prenisha Rahming |
+| 145 | 175 | Ren Mc |
+| 146 | 175 | blockstar |
 | 147 | 174 | Dihcheese444 |
 | 148 | 172 | Jessica Bohlken |
 | 149 | 171 | Diana Houts |
@@ -301,8 +301,8 @@
 | 293 | 88 | Silly Zonebuilder |
 | 294 | 88 | Elie Pean |
 | 295 | 87 | Alan George LaRage |
-| 296 | 86 | Joseph Edmonson |
-| 297 | 86 | BigSammy420 |
+| 296 | 86 | BigSammy420 |
+| 297 | 86 | Joseph Edmonson |
 | 298 | 86 | Tony Pavelka |
 | 299 | 86 | amy |
 | 300 | 86 | Destiney Carter |

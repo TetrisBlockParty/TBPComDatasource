@@ -153,8 +153,8 @@
 | 145 | 807 | Rebecca Doughman |
 | 146 | 807 | Khalil Lowe |
 | 147 | 802 | Robin Kerby |
-| 148 | 800 | Tacara Cummings |
-| 149 | 800 | Danielle Johnson-Chandler |
+| 148 | 800 | Danielle Johnson-Chandler |
+| 149 | 800 | Tacara Cummings |
 | 150 | 791 | Chirpy Staggerpiece |
 | 151 | 789 | James Simms III |
 | 152 | 789 | Stephanie Chapman |
@@ -200,8 +200,8 @@
 | 192 | 669 | Melissa Holsinger |
 | 193 | 669 | Amber Shoemaker |
 | 194 | 667 | Lisa Ongtowasruk |
-| 195 | 666 | Ashie Ann |
-| 196 | 666 | Charvi' Carter |
+| 195 | 666 | Charvi' Carter |
+| 196 | 666 | Ashie Ann |
 | 197 | 665 | Dineisha Carpenter |
 | 198 | 661 | Claire Noland |
 | 199 | 660 | Bussyiano Page |
@@ -381,8 +381,8 @@
 | 373 | 384 | Mike Aprilliano |
 | 374 | 384 | Johnny Yeates |
 | 375 | 383 | Arkei Luster |
-| 376 | 382 | David Holliday |
-| 377 | 382 | KhaosLord |
+| 376 | 382 | KhaosLord |
+| 377 | 382 | David Holliday |
 | 378 | 381 | Melissa Rebbe-Lehman |
 | 379 | 381 | Bubbly Snapfit |
 | 380 | 381 | Taylor Phillips |
@@ -474,8 +474,8 @@
 | 466 | 323 | Snappy Shatterfit |
 | 467 | 323 | Tum |
 | 468 | 323 | Briana Alexander |
-| 469 | 322 | NanDa Cruzan VI |
-| 470 | 322 | Alexis Richardson |
+| 469 | 322 | Alexis Richardson |
+| 470 | 322 | NanDa Cruzan VI |
 | 471 | 321 | Autumn Schaeffer |
 | 472 | 321 | Tamara Bailey |
 | 473 | 319 | Connie Lepore-Mann |

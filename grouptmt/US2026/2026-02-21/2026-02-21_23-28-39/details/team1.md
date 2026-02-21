@@ -25,8 +25,8 @@
 | 17 | 897 | Robert Beck |
 | 18 | 883 | Roger Aschbrenner |
 | 19 | 854 | Derek MF Blakey |
-| 20 | 792 | Tipsy Column |
-| 21 | 792 | LaQuetta Faith Hines |
+| 20 | 792 | LaQuetta Faith Hines |
+| 21 | 792 | Tipsy Column |
 | 22 | 791 | Adryane Schnase |
 | 23 | 784 | COOL as Icer |
 | 24 | 779 | Andrea Dañielle Ortiz |
@@ -43,8 +43,8 @@
 | 35 | 585 | Jennifer Cates |
 | 36 | 582 | TSwag |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Kristen Roles Robben |
-| 39 | 541 | Drew Magnus |
+| 38 | 541 | Drew Magnus |
+| 39 | 541 | Kristen Roles Robben |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -134,8 +134,8 @@
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
-| 129 | 194 | Ash Galvan |
-| 130 | 194 | Tyler Werts |
+| 129 | 194 | Tyler Werts |
+| 130 | 194 | Ash Galvan |
 | 131 | 193 | Lachelle Dillon |
 | 132 | 192 | Shaykmia |
 | 133 | 192 | Jessica Sheehan |
@@ -165,8 +165,8 @@
 | 157 | 169 | Abbey Crespo |
 | 158 | 168 | Standia Civil |
 | 159 | 167 | Erin Hodges Plumb |
-| 160 | 166 | Rico Rico |
-| 161 | 166 | Katie Daniels |
+| 160 | 166 | Katie Daniels |
+| 161 | 166 | Rico Rico |
 | 162 | 165 | Nadine Velardo |
 | 163 | 163 | Tyler Whitley |
 | 164 | 162 | Cece Ibarra |
@@ -188,9 +188,9 @@
 | 180 | 147 | Davery Spencer Adair |
 | 181 | 147 | Angela Fairbank |
 | 182 | 145 | Agustin Duarte Orozco |
-| 183 | 144 | Cranky Pattern |
+| 183 | 144 | Gary Gobin |
 | 184 | 144 | Miguel Teixeira |
-| 185 | 144 | Gary Gobin |
+| 185 | 144 | Cranky Pattern |
 | 186 | 142 | Colleen Wise |
 | 187 | 141 | Dino |
 | 188 | 141 | Blaire Bruckoff |
