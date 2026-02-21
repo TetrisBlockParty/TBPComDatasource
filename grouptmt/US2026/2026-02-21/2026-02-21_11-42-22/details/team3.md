@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Zippy Strikesnap |
-| 30 | 810 | Shane Wilson Jr. |
+| 29 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Zippy Strikesnap |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -84,8 +84,8 @@
 | 76 | 332 | Chauntee Alfrey-Cardinale |
 | 77 | 325 | Shari Garber |
 | 78 | 323 | Ashley Raines |
-| 79 | 322 | Shannon Matthew Byers |
-| 80 | 322 | Michelle |
+| 79 | 322 | Michelle |
+| 80 | 322 | Shannon Matthew Byers |
 | 81 | 320 | Or Reznitsky |
 | 82 | 316 | Fancy Cascader |
 | 83 | 313 | Elaine Webb Graves |
@@ -149,17 +149,17 @@
 | 141 | 163 | Raven Dudley |
 | 142 | 163 | Karon Griffin |
 | 143 | 162 | Rebel124 |
-| 144 | 159 | Jone |
-| 145 | 159 | Morgan Martinez |
-| 146 | 159 | Mcathen |
+| 144 | 159 | Mcathen |
+| 145 | 159 | Jone |
+| 146 | 159 | Morgan Martinez |
 | 147 | 158 | Grams |
 | 148 | 157 | Nicholas Roddy |
 | 149 | 157 | Patricia Gadsden |
 | 150 | 156 | Joey Banks |
 | 151 | 155 | BŘŰŤİÇŨŚ |
 | 152 | 154 | Angela M. Fletcher |
-| 153 | 153 | Beth Ingham |
-| 154 | 153 | Stephanie Whitefield |
+| 153 | 153 | Stephanie Whitefield |
+| 154 | 153 | Beth Ingham |
 | 155 | 152 | Shiny Zonebuilder |
 | 156 | 151 | MsBee |
 | 157 | 150 | Nicole Myers |
@@ -213,11 +213,11 @@
 | 205 | 115 | Daring Builder |
 | 206 | 115 | Jennifer Alvey |
 | 207 | 114 | Jessica Bechler |
-| 208 | 113 | Valerie Gendron |
-| 209 | 113 | Brian Battjes |
+| 208 | 113 | Brian Battjes |
+| 209 | 113 | Valerie Gendron |
 | 210 | 111 | Stephanie Zahm |
-| 211 | 110 | Stella |
-| 212 | 110 | Danielle Weikel |
+| 211 | 110 | Danielle Weikel |
+| 212 | 110 | Stella |
 | 213 | 110 | Tye Stovall |
 | 214 | 109 | Brave Brickster |
 | 215 | 109 | Fredd Thomas |
@@ -226,8 +226,8 @@
 | 218 | 108 | Rachel Napper |
 | 219 | 108 | LaTanya GeminiondaRise Johnson |
 | 220 | 107 | Sherry Ogden |
-| 221 | 106 | Desiree Gold |
-| 222 | 106 | Noettín Kan Zasnemoore |
+| 221 | 106 | Noettín Kan Zasnemoore |
+| 222 | 106 | Desiree Gold |
 | 223 | 105 | Emi |
 | 224 | 105 | Carol Cain Thurman |
 | 225 | 104 | Sarah Moyer |
@@ -253,8 +253,8 @@
 | 245 | 99 | MizzMonick Smith |
 | 246 | 98 | Jocelyne Baca |
 | 247 | 98 | Armi |
-| 248 | 98 | Jocelyne Baca |
-| 249 | 98 | Erika Thornton |
+| 248 | 98 | Erika Thornton |
+| 249 | 98 | Funky Jumper |
 | 250 | 97 | Ashley Jones |
 | 251 | 96 | D3NO |
 | 252 | 96 | Christopher Woost |

@@ -45,8 +45,8 @@
 | 37 | 1234 | blackq |
 | 38 | 1215 | Megan Garrick |
 | 39 | 1210 | Brittany Alicia |
-| 40 | 1173 | Katrina Williams Balmir |
-| 41 | 1173 | Devin Lee |
+| 40 | 1173 | Devin Lee |
+| 41 | 1173 | Katrina Williams Balmir |
 | 42 | 1157 | Priscilla Noel |
 | 43 | 1150 | Izabel Herrera |
 | 44 | 1143 | Lucky Ladybug |
@@ -117,8 +117,8 @@
 | 109 | 649 | Stephanie Chapman |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
-| 112 | 631 | Loopy Clusterbuilder |
-| 113 | 631 | Peppy Zone |
+| 112 | 631 | Peppy Zone |
+| 113 | 631 | Loopy Clusterbuilder |
 | 114 | 620 | BYM4L |
 | 115 | 608 | John Bednarik |
 | 116 | 601 | Nancy Reid |
@@ -267,8 +267,8 @@
 | 259 | 311 | Véronique Lévesque Sabourin |
 | 260 | 311 | Dar |
 | 261 | 310 | Brandy Andre |
-| 262 | 309 | Ginger |
-| 263 | 309 | Oscar Bernie |
+| 262 | 309 | Oscar Bernie |
+| 263 | 309 | Ginger |
 | 264 | 309 | James Zaragoza |
 | 265 | 306 | Kristopher Miller |
 | 266 | 305 | Libby Hicks |
@@ -292,8 +292,8 @@
 | 284 | 288 | Megan Phillips |
 | 285 | 288 | Leah Keesling |
 | 286 | 286 | Ryan Gunther |
-| 287 | 285 | Jánine Riggs |
-| 288 | 285 | June E Hanson |
+| 287 | 285 | June E Hanson |
+| 288 | 285 | Jánine Riggs |
 | 289 | 283 | Davetta Sanford |
 | 290 | 282 | Carl Bradshaw |
 | 291 | 282 | Shaun Church |
@@ -334,8 +334,8 @@
 | 326 | 260 | Ebony Deloach Bryant |
 | 327 | 257 | Lyndi Robinson Wakefield |
 | 328 | 256 | Giddy Gridclear |
-| 329 | 256 | Tee Jaleesa |
-| 330 | 256 | CC |
+| 329 | 256 | CC |
+| 330 | 256 | Tee Jaleesa |
 | 331 | 255 | Santana Miyagi |
 | 332 | 254 | Rose Fx |
 | 333 | 254 | Elizabeth Diraffaele |
@@ -360,11 +360,11 @@
 | 352 | 245 | Rachael Senard |
 | 353 | 245 | Sanaa Nounoussa |
 | 354 | 244 | Aimee Byrom |
-| 355 | 242 | Lawanda Forbes |
-| 356 | 242 | Donna Chandler |
+| 355 | 242 | Donna Chandler |
+| 356 | 242 | Lawanda Forbes |
 | 357 | 241 | Sabrina Burton |
-| 358 | 240 | Angie Marie |
-| 359 | 240 | Adam Erikson |
+| 358 | 240 | Adam Erikson |
+| 359 | 240 | Angie Marie |
 | 360 | 238 | Cheery Matchzone |
 | 361 | 238 | Byung Bae Park |
 | 362 | 236 | Niceday |
@@ -376,8 +376,8 @@
 | 368 | 234 | Manny Trindade |
 | 369 | 234 | Jaybee Nguyen |
 | 370 | 233 | Nutty Matchline |
-| 371 | 233 | Robin Kerby |
-| 372 | 233 | Jumpy Gridclear |
+| 371 | 233 | Jumpy Gridclear |
+| 372 | 233 | Robin Kerby |
 | 373 | 232 | Amber Brion |
 | 374 | 231 | Dylan Thomason |
 | 375 | 231 | Hong Tang |

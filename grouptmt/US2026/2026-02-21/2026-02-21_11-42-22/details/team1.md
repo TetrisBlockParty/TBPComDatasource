@@ -61,17 +61,17 @@
 | 53 | 240 | Rachael |
 | 54 | 225 | Elaine Elaine |
 | 55 | 217 | Deanna L Hermanson |
-| 56 | 212 | Jaimie Lynn |
-| 57 | 212 | Tdub |
+| 56 | 212 | Tdub |
+| 57 | 212 | Jaimie Lynn |
 | 58 | 211 | Marianita Garcia |
 | 59 | 208 | Mandyy Rae |
 | 60 | 208 | Carrie Beck Geartz |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
-| 63 | 202 | Dee Perry |
-| 64 | 202 | Hyper |
-| 65 | 201 | Anaid Sanchez |
-| 66 | 201 | Ananda Mendez |
+| 63 | 202 | Hyper |
+| 64 | 202 | Dee Perry |
+| 65 | 201 | Ananda Mendez |
+| 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
 | 68 | 198 | Happy Snapbuild |
 | 69 | 198 | Billie Dawn Sparks |
@@ -81,8 +81,8 @@
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
-| 76 | 190 | Sweetts |
-| 77 | 190 | Thorne Shumate |
+| 76 | 190 | Thorne Shumate |
+| 77 | 190 | Sweetts |
 | 78 | 189 | Happy Basegrid |
 | 79 | 180 | Erez Yosef |
 | 80 | 178 | Danielle Little-Daugherty |
@@ -95,12 +95,12 @@
 | 87 | 162 | Patrick Luckenbill |
 | 88 | 161 | Abbey Crespo |
 | 89 | 156 | Jessie Lynn |
-| 90 | 155 | Standia Civil |
-| 91 | 155 | David DeSantis |
+| 90 | 155 | David DeSantis |
+| 91 | 155 | Standia Civil |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Arianna O'Brien |
-| 95 | 149 | Tana |
+| 94 | 149 | Tana |
+| 95 | 149 | Arianna O'Brien |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
@@ -225,8 +225,8 @@
 | 217 | 75 | Funky Piecebuilder |
 | 218 | 75 | Plucky Wrecker |
 | 219 | 74 | Meechie |
-| 220 | 74 | Owicked1 |
-| 221 | 74 | Grace Joanne Agnant |
+| 220 | 74 | Grace Joanne Agnant |
+| 221 | 74 | Owicked1 |
 | 222 | 73 | Shanae Grant |
 | 223 | 73 | Silly Align |
 | 224 | 72 | Tipsy Strikerpiece |
