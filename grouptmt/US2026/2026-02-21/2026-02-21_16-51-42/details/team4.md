@@ -26,8 +26,8 @@
 | 18 | 636 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 580 | Kimyatta Cavin |
 | 25 | 541 | Rebecca Moulton Pinciaro |
@@ -135,8 +135,8 @@
 | 127 | 144 | Shainne Brewer |
 | 128 | 143 | Nugget |
 | 129 | 141 | Malakai Darien Fox |
-| 130 | 140 | Shannon Ferrari |
-| 131 | 140 | Jenna McGeorge |
+| 130 | 140 | Jenna McGeorge |
+| 131 | 140 | Shannon Ferrari |
 | 132 | 137 | PeaceOs |
 | 133 | 136 | Serena Goodridge |
 | 134 | 136 | Tanner Lund |
@@ -149,8 +149,8 @@
 | 141 | 131 | Angela Geist Jusinski |
 | 142 | 130 | Casey Jeffcoat |
 | 143 | 129 | John Brunetti |
-| 144 | 128 | Stephme310 |
-| 145 | 128 | Rio Rocha |
+| 144 | 128 | Rio Rocha |
+| 145 | 128 | Stephme310 |
 | 146 | 127 | Dreamy Snapgrid |
 | 147 | 126 | Dihcheese444 |
 | 148 | 126 | TinyLegoRose |
@@ -164,8 +164,8 @@
 | 156 | 121 | Megan Cutshaw |
 | 157 | 121 | Smiley Tiltbuilder |
 | 158 | 120 | Joshua Guess |
-| 159 | 119 | Gwendolyn Pitcairn |
-| 160 | 119 | Kristin Manee |
+| 159 | 119 | Kristin Manee |
+| 160 | 119 | Gwendolyn Pitcairn |
 | 161 | 116 | Diana Houts |
 | 162 | 115 | Ultramarine |
 | 163 | 115 | Jayk |

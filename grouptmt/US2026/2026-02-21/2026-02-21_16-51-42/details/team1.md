@@ -64,8 +64,8 @@
 | 56 | 287 | Hyper |
 | 57 | 279 | Shauna Loe |
 | 58 | 278 | Carrie Beck Geartz |
-| 59 | 274 | Theo Pinnow |
-| 60 | 274 | Sweet Baker |
+| 59 | 274 | Sweet Baker |
+| 60 | 274 | Theo Pinnow |
 | 61 | 270 | Sarah Roberts |
 | 62 | 266 | Tipsy Column |
 | 63 | 261 | Bhelle Sumile |
@@ -93,8 +93,8 @@
 | 85 | 201 | Ananda Mendez |
 | 86 | 201 | Anaid Sanchez |
 | 87 | 199 | TSwag |
-| 88 | 198 | Brandi Huntington |
-| 89 | 198 | Happy Snapbuild |
+| 88 | 198 | Happy Snapbuild |
+| 89 | 198 | Brandi Huntington |
 | 90 | 197 | Cynthia Bradley |
 | 91 | 193 | Lachelle Dillon |
 | 92 | 192 | Shaykmia |
@@ -167,8 +167,8 @@
 | 159 | 124 | Flashy Rotator |
 | 160 | 124 | Cartier |
 | 161 | 122 | Melissa Lemmon |
-| 162 | 121 | April Carroll |
-| 163 | 121 | Bouncy Grid |
+| 162 | 121 | Bouncy Grid |
+| 163 | 121 | April Carroll |
 | 164 | 120 | Kimmie Kimms |
 | 165 | 120 | Alenoush Karimian |
 | 166 | 119 | Tater |

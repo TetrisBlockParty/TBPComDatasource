@@ -432,8 +432,8 @@
 | 424 | 259 | Kathryn Townsley |
 | 425 | 257 | Jackie Jackie Lee |
 | 426 | 256 | Tee Jaleesa |
-| 427 | 256 | Quirky Twistline |
-| 428 | 256 | Alishac Marie |
+| 427 | 256 | Alishac Marie |
+| 428 | 256 | Quirky Twistline |
 | 429 | 254 | Julie Hamilton |
 | 430 | 254 | Rose Fx |
 | 431 | 254 | Elizabeth Diraffaele |
@@ -478,10 +478,10 @@
 | 470 | 234 | Jennifer Leigh |
 | 471 | 234 | Manny Trindade |
 | 472 | 234 | Jaybee Nguyen |
-| 473 | 233 | Nutty Matchline |
-| 474 | 233 | Anita Rose Green |
-| 475 | 233 | Daring Matchfit |
-| 476 | 233 | Jumpy Gridclear |
+| 473 | 233 | Anita Rose Green |
+| 474 | 233 | Nutty Matchline |
+| 475 | 233 | Jumpy Gridclear |
+| 476 | 233 | Daring Matchfit |
 | 477 | 232 | Amber Brion |
 | 478 | 231 | Hong Tang |
 | 479 | 231 | Peppy Snapfall |
@@ -492,13 +492,13 @@
 | 484 | 228 | Michelle Sager |
 | 485 | 227 | Myleaha Holley |
 | 486 | 226 | Morgan Easter |
-| 487 | 226 | Christina Wsn |
-| 488 | 226 | Juliana Marques Do Nascimento Gordy |
+| 487 | 226 | Juliana Marques Do Nascimento Gordy |
+| 488 | 226 | Christina Wsn |
 | 489 | 226 | Jodi Mitnick |
 | 490 | 225 | Kiorah Blaze |
 | 491 | 225 | Breezy Tilt |
-| 492 | 224 | Besma Ao |
-| 493 | 224 | Alice Ball |
+| 492 | 224 | Alice Ball |
+| 493 | 224 | Besma Ao |
 | 494 | 223 | Jess Morrison |
 | 495 | 223 | LegoCarpet |
 | 496 | 223 | Laura Wyatt |

@@ -114,8 +114,8 @@
 | 106 | 309 | CeceGeGe |
 | 107 | 307 | Blocked |
 | 108 | 307 | Peggi Charon |
-| 109 | 300 | Tessina Dewey-Mancino |
-| 110 | 300 | Sherika C. McDaniels |
+| 109 | 300 | Sherika C. McDaniels |
+| 110 | 300 | Tessina Dewey-Mancino |
 | 111 | 293 | Poppy Splitter |
 | 112 | 284 | Jay Horn |
 | 113 | 277 | Logan Naccarato |
@@ -198,8 +198,8 @@
 | 190 | 160 | Adrian Marcel Pate |
 | 191 | 159 | Jone |
 | 192 | 158 | Grams |
-| 193 | 157 | Nicholas Roddy |
-| 194 | 157 | Patricia Gadsden |
+| 193 | 157 | Patricia Gadsden |
+| 194 | 157 | Nicholas Roddy |
 | 195 | 156 | Bea Miles |
 | 196 | 153 | Marci Mize Fandrich |
 | 197 | 152 | Cozy Snaplink |
@@ -214,8 +214,8 @@
 | 206 | 149 | Alexis Taylor |
 | 207 | 149 | Angel Mendez |
 | 208 | 148 | Lesley Perez |
-| 209 | 148 | Jennifer Alvey |
-| 210 | 148 | Gumbo |
+| 209 | 148 | Gumbo |
+| 210 | 148 | Jennifer Alvey |
 | 211 | 146 | Ashley Lynn Marchese |
 | 212 | 146 | Denita Mungro |
 | 213 | 146 | Latoya Mayne |
