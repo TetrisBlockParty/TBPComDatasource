@@ -213,13 +213,13 @@
 | 205 | 359 | Brainy Smurf |
 | 206 | 358 | Smashanator |
 | 207 | 357 | Shannon Byrd |
-| 208 | 356 | Deyawn Smith |
-| 209 | 356 | Alyssaaelena |
+| 208 | 356 | Alyssaaelena |
+| 209 | 356 | Deyawn Smith |
 | 210 | 354 | Tracy Wise |
 | 211 | 353 | Joseph Musick |
 | 212 | 352 | ruth |
-| 213 | 350 | Chris Harr |
-| 214 | 350 | Brave Dropmatch |
+| 213 | 350 | Brave Dropmatch |
+| 214 | 350 | Chris Harr |
 | 215 | 350 | Kimberly Randesi |
 | 216 | 349 | Johnny Yeates |
 | 217 | 348 | Richard Horton |
@@ -314,7 +314,7 @@
 | 306 | 263 | Taylor Flowers |
 | 307 | 262 | Taren Cowan |
 | 308 | 261 | MrsClaudette Will'sIam Matthews |
-| 309 | 260 | Brandy Andre |
+| 309 | 260 | Ebony Deloach Bryant |
 | 310 | 260 | Denise Rickman |
 | 311 | 260 | Brandy Andre |
 | 312 | 257 | Shameika Trail |
@@ -360,8 +360,8 @@
 | 352 | 236 | Niceday |
 | 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
-| 355 | 234 | Manny Trindade |
-| 356 | 234 | Jennifer Leigh |
+| 355 | 234 | Jennifer Leigh |
+| 356 | 234 | Manny Trindade |
 | 357 | 234 | Jaybee Nguyen |
 | 358 | 233 | Robin Kerby |
 | 359 | 233 | Jumpy Gridclear |

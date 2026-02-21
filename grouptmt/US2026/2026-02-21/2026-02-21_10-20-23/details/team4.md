@@ -77,17 +77,17 @@
 | 69 | 179 | Epic Curvetile |
 | 70 | 175 | Dustee Craddock-Harrison |
 | 71 | 173 | Jeff Brian Gates |
-| 72 | 171 | Melvin Baird |
-| 73 | 171 | Zethra Prenisha Rahming |
+| 72 | 171 | Zethra Prenisha Rahming |
+| 73 | 171 | Melvin Baird |
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 170 | Girl |
 | 76 | 167 | Denise Carlson |
-| 77 | 165 | Courtney Cicoria |
-| 78 | 165 | Casey Grabner |
+| 77 | 165 | Casey Grabner |
+| 78 | 165 | Courtney Cicoria |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Holly Jolly |
-| 82 | 159 | Justin Hannigan |
+| 81 | 159 | Justin Hannigan |
+| 82 | 159 | Holly Jolly |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -132,9 +132,9 @@
 | 124 | 115 | Ultramarine |
 | 125 | 113 | Stephme310 |
 | 126 | 113 | Andria Lynn |
-| 127 | 112 | Brittany Marsh |
-| 128 | 112 | Bryan Hodgins |
-| 129 | 112 | Austin Owens |
+| 127 | 112 | Austin Owens |
+| 128 | 112 | Brittany Marsh |
+| 129 | 112 | Bryan Hodgins |
 | 130 | 111 | Gwendolyn Pitcairn |
 | 131 | 111 | Lazy Blocker |
 | 132 | 110 | H.R. Block |
@@ -148,11 +148,11 @@
 | 140 | 105 | Jason Hart |
 | 141 | 104 | Adam Randall |
 | 142 | 104 | Damn Libra |
-| 143 | 104 | Adam Randall |
+| 143 | 104 | YoMomma |
 | 144 | 102 | Faja |
 | 145 | 102 | ĥuf |
-| 146 | 101 | Saulc1991 |
-| 147 | 101 | Michelle Morris |
+| 146 | 101 | Michelle Morris |
+| 147 | 101 | Saulc1991 |
 | 148 | 100 | Alexandra Karavias |
 | 149 | 99 | KM8 |
 | 150 | 98 | Chaz |

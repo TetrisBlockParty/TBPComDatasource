@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -260,8 +260,8 @@
 | 252 | 95 | Brooke Bauer |
 | 253 | 94 | Angie Harper |
 | 254 | 93 | Tiffany Ford |
-| 255 | 92 | Ava Petito |
-| 256 | 92 | Jennifer Caputo |
+| 255 | 92 | Jennifer Caputo |
+| 256 | 92 | Ava Petito |
 | 257 | 92 | Trice Thomas |
 | 258 | 91 | Martin Bernier |
 | 259 | 90 | Snazzy Brickzone |
