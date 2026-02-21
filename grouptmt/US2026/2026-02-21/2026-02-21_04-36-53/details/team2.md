@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3215 | Cassie Donica |
@@ -591,7 +591,7 @@
 | 583 | 109 | ForestGem |
 | 584 | 109 | Stephanie Matas |
 | 585 | 109 | Nicolle Danielle |
-| 586 | 109 | Stephanie Matas |
+| 586 | 109 | Jroc |
 | 587 | 108 | Sean Kinsey |
 | 588 | 108 | Beth Decker |
 | 589 | 108 | John-Jessica Manongdo |

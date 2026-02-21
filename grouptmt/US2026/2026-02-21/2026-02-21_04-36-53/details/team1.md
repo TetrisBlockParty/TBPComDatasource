@@ -29,8 +29,8 @@
 | 21 | 322 | Kathi Snustad |
 | 22 | 301 | Zerin Graham |
 | 23 | 294 | Jacqueline Williams |
-| 24 | 281 | Nancy Green |
-| 25 | 281 | Maria C. Hernandez |
+| 24 | 281 | Maria C. Hernandez |
+| 25 | 281 | Nancy Green |
 | 26 | 274 | Theo Pinnow |
 | 27 | 265 | Jennifer Cates |
 | 28 | 256 | Robert Benito |

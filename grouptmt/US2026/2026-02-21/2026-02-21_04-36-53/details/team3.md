@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 578 | Jennifer Willis |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Snappy Glidepiece |
-| 31 | 546 | Dolores Falco |
+| 30 | 546 | Dolores Falco |
+| 31 | 546 | Snappy Glidepiece |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -94,8 +94,8 @@
 | 86 | 193 | Shunta Jacobs |
 | 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
-| 89 | 187 | Twisty Brick LT |
-| 90 | 187 | Speedy Bridger |
+| 89 | 187 | Speedy Bridger |
+| 90 | 187 | Twisty Brick LT |
 | 91 | 185 | Danielle Cutler |
 | 92 | 184 | Jennie Beranek |
 | 93 | 183 | Judi Dobson |
@@ -132,8 +132,8 @@
 | 124 | 128 | Angel Mendez |
 | 125 | 127 | Marquita Sheard |
 | 126 | 127 | Aerian Preston |
-| 127 | 126 | Dan Rob |
-| 128 | 126 | Stephanie Burtin |
+| 127 | 126 | Stephanie Burtin |
+| 128 | 126 | Dan Rob |
 | 129 | 125 | Felicia Doxey |
 | 130 | 125 | Stephanie Simpson |
 | 131 | 123 | Kristie McFarland |
@@ -220,8 +220,8 @@
 | 212 | 82 | Stephanie Whitefield |
 | 213 | 82 | Crystel b520 |
 | 214 | 81 | Tina Baurdau |
-| 215 | 80 | Vixen Queen |
-| 216 | 80 | Oliver Neal II |
+| 215 | 80 | Oliver Neal II |
+| 216 | 80 | Vixen Queen |
 | 217 | 79 | Jessie Chung |
 | 218 | 79 | Rania Zaqout |
 | 219 | 79 | gremicx |
