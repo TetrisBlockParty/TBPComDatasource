@@ -86,8 +86,8 @@
 | 78 | 210 | Lucas J Sutton |
 | 79 | 205 | Sarah Neathery |
 | 80 | 204 | Brittney Orengo |
-| 81 | 198 | Mike Solo |
-| 82 | 198 | Dustee Craddock-Harrison |
+| 81 | 198 | Dustee Craddock-Harrison |
+| 82 | 198 | Mike Solo |
 | 83 | 194 | Jamie Mann-Deichmann |
 | 84 | 193 | Monica Daley |
 | 85 | 191 | loulou |
@@ -141,11 +141,11 @@
 | 133 | 132 | Jessica Cagle |
 | 134 | 130 | Casey Jeffcoat |
 | 135 | 129 | John Brunetti |
-| 136 | 128 | Rio Rocha |
-| 137 | 128 | Stephme310 |
+| 136 | 128 | Stephme310 |
+| 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | Dihcheese444 |
-| 140 | 126 | TinyLegoRose |
+| 139 | 126 | TinyLegoRose |
+| 140 | 126 | Dihcheese444 |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Cherrish Duren |
 | 143 | 123 | Angela Geist Jusinski |
@@ -161,9 +161,9 @@
 | 153 | 119 | Kristin Manee |
 | 154 | 118 | Leslie Nicole |
 | 155 | 116 | Diana Houts |
-| 156 | 115 | AyeKay |
-| 157 | 115 | Jayk |
-| 158 | 115 | Ultramarine |
+| 156 | 115 | Jayk |
+| 157 | 115 | Ultramarine |
+| 158 | 115 | AyeKay |
 | 159 | 113 | Adam Randall |
 | 160 | 112 | Jackie Marie |
 | 161 | 112 | Austin Owens |
@@ -172,8 +172,8 @@
 | 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
-| 167 | 107 | Rafael Valentin |
-| 168 | 107 | Marcus Todd |
+| 167 | 107 | Marcus Todd |
+| 168 | 107 | Rafael Valentin |
 | 169 | 106 | Avy Absol |
 | 170 | 105 | 🥔🥔 Spudz |
 | 171 | 105 | Sam Middleton |
@@ -276,8 +276,8 @@
 | 268 | 71 | Ericca Eldridge |
 | 269 | 70 | PlatinumRose |
 | 270 | 70 | Lee Silpe |
-| 271 | 70 | Brittany Little |
-| 272 | 70 | Richard-April Kice |
+| 271 | 70 | Patron Anderson |
+| 272 | 70 | Thomas Hettenhaus |
 | 273 | 70 | Niome Encinias |
 | 274 | 70 | Richard-April Kice |
 | 275 | 70 | Brittany Little |

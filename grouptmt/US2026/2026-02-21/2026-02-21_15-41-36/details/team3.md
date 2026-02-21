@@ -100,18 +100,18 @@
 | 92 | 338 | Danielle Rhoades |
 | 93 | 332 | Chauntee Alfrey-Cardinale |
 | 94 | 323 | Ashley Raines |
-| 95 | 320 | Elaine Webb Graves |
-| 96 | 320 | Or Reznitsky |
+| 95 | 320 | Or Reznitsky |
+| 96 | 320 | Elaine Webb Graves |
 | 97 | 316 | Fancy Cascader |
 | 98 | 309 | CeceGeGe |
 | 99 | 309 | Rich LeBlanc |
 | 100 | 307 | Peggi Charon |
 | 101 | 307 | Blocked |
 | 102 | 306 | Speedy Bridger |
-| 103 | 300 | Tessina Dewey-Mancino |
-| 104 | 300 | Sherika C. McDaniels |
-| 105 | 293 | Mandy Smith Oldham |
-| 106 | 293 | Poppy Splitter |
+| 103 | 300 | Sherika C. McDaniels |
+| 104 | 300 | Tessina Dewey-Mancino |
+| 105 | 293 | Poppy Splitter |
+| 106 | 293 | Mandy Smith Oldham |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 264 | Tiff Vs Tiffany |
 | 109 | 263 | Angeline Joseph |
@@ -153,8 +153,8 @@
 | 145 | 195 | Nicha Hooker |
 | 146 | 194 | glichmod |
 | 147 | 193 | Stephanie Burtin |
-| 148 | 193 | Clever Shiftsnap |
-| 149 | 193 | Duane Bright |
+| 148 | 193 | Duane Bright |
+| 149 | 193 | Clever Shiftsnap |
 | 150 | 191 | Giddy Twistbuilder |
 | 151 | 191 | Scott Carleton |
 | 152 | 189 | Staci George Fitzsimmons |
@@ -198,8 +198,8 @@
 | 190 | 152 | Katrina E Jelks |
 | 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | MsBee |
-| 194 | 151 | Brenda Lee Vander Molen |
+| 193 | 151 | Brenda Lee Vander Molen |
+| 194 | 151 | MsBee |
 | 195 | 150 | Nicole Myers |
 | 196 | 149 | Angel Mendez |
 | 197 | 149 | Desiree Gold |
@@ -224,8 +224,8 @@
 | 216 | 131 | Darlene McMillan |
 | 217 | 129 | Lesley Perez |
 | 218 | 128 | David Bardo |
-| 219 | 128 | Cesar Barraza |
-| 220 | 128 | Jen Lewis |
+| 219 | 128 | Jen Lewis |
+| 220 | 128 | Cesar Barraza |
 | 221 | 127 | Jennifer Alvey |
 | 222 | 127 | Marquita Sheard |
 | 223 | 126 | Juliana Dottore |

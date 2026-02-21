@@ -76,8 +76,8 @@
 | 68 | 222 | Kristen Gideon |
 | 69 | 217 | Deanna L Hermanson |
 | 70 | 216 | Dee Perry |
-| 71 | 212 | Jaimie Lynn |
-| 72 | 212 | Mandyy Rae |
+| 71 | 212 | Mandyy Rae |
+| 72 | 212 | Jaimie Lynn |
 | 73 | 211 | Marianita Garcia |
 | 74 | 208 | Carrie Beck Geartz |
 | 75 | 207 | Ly Phethmany |
@@ -138,12 +138,12 @@
 | 130 | 138 | Cranky Pattern |
 | 131 | 138 | Michael |
 | 132 | 137 | Nadine Velardo |
-| 133 | 135 | Cody Slav |
-| 134 | 135 | Giddy Cascade |
+| 133 | 135 | Giddy Cascade |
+| 134 | 135 | Cody Slav |
 | 135 | 134 | Trina Gee |
 | 136 | 133 | Breanna Luna |
-| 137 | 132 | Cody Gates |
-| 138 | 132 | LaQuetta Faith Hines |
+| 137 | 132 | LaQuetta Faith Hines |
+| 138 | 132 | Cody Gates |
 | 139 | 132 | Davery Spencer Adair |
 | 140 | 131 | Kimberly Garcia |
 | 141 | 131 | Uhog SF |
@@ -164,12 +164,12 @@
 | 156 | 119 | Tater |
 | 157 | 116 | Jessica Russell |
 | 158 | 116 | Evie Khalil |
-| 159 | 115 | Mrs.Patrica |
-| 160 | 115 | Chuck Gannon |
+| 159 | 115 | Chuck Gannon |
+| 160 | 115 | Mrs.Patrica |
 | 161 | 113 | Desiree Deschaine Havee |
-| 162 | 112 | Flashy Rotator |
-| 163 | 112 | Chris65 |
-| 164 | 112 | Nicole Roseberry Weber |
+| 162 | 112 | Chris65 |
+| 163 | 112 | Nicole Roseberry Weber |
+| 164 | 112 | Flashy Rotator |
 | 165 | 111 | Agustin Duarte Orozco |
 | 166 | 111 | Christy Jones |
 | 167 | 111 | Chirpy Smasher |
@@ -184,8 +184,8 @@
 | 176 | 106 | Alyssa Ingram |
 | 177 | 106 | Bloknboy |
 | 178 | 105 | Ty Brown |
-| 179 | 104 | Bindi |
-| 180 | 104 | Charla Pross-Fugleberg |
+| 179 | 104 | Charla Pross-Fugleberg |
+| 180 | 104 | Bindi |
 | 181 | 103 | Chantelle Ceno |
 | 182 | 101 | Jessie |
 | 183 | 101 | Loony Fitzone |

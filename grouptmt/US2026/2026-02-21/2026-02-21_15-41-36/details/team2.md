@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Christy Krissie |
-| 235 | 405 | Sarah Massey |
+| 234 | 405 | Sarah Massey |
+| 235 | 405 | Christy Krissie |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Crystie Hicks |
 | 238 | 400 | Rhonda Milstead |
@@ -251,8 +251,8 @@
 | 243 | 393 | Altamirano Michael |
 | 244 | 393 | Taylor Flowers |
 | 245 | 391 | Qiana Sanders |
-| 246 | 391 | Brenda Utphall |
-| 247 | 391 | Chilly Bridgepiece |
+| 246 | 391 | Chilly Bridgepiece |
+| 247 | 391 | Brenda Utphall |
 | 248 | 386 | Macy Williams |
 | 249 | 385 | Arwa Fatimah |
 | 250 | 385 | Skyler Morgan |
@@ -281,8 +281,8 @@
 | 273 | 357 | Julie Kresal |
 | 274 | 355 | Shandrica Lowe |
 | 275 | 355 | Kristen O'Neal |
-| 276 | 354 | Brave Dropmatch |
-| 277 | 354 | Tracy Wise |
+| 276 | 354 | Tracy Wise |
+| 277 | 354 | Brave Dropmatch |
 | 278 | 353 | Cheery Matchzone |
 | 279 | 352 | Juanita Lyons |
 | 280 | 352 | ruth |
@@ -358,8 +358,8 @@
 | 350 | 289 | Hyper Cluster |
 | 351 | 289 | Frisky Clearpiece |
 | 352 | 288 | Megan Phillips |
-| 353 | 285 | June E Hanson |
-| 354 | 285 | Mandi Douglas Hilt |
+| 353 | 285 | Mandi Douglas Hilt |
+| 354 | 285 | June E Hanson |
 | 355 | 284 | Autumn Schaeffer |
 | 356 | 283 | Byung Bae Park |
 | 357 | 282 | Shaun Church |
