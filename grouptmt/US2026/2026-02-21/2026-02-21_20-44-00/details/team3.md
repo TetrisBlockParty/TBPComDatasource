@@ -105,8 +105,8 @@
 | 97 | 389 | Elissa S-k |
 | 98 | 386 | Katie Knaus |
 | 99 | 384 | Shannon Matthew Byers |
-| 100 | 378 | Tasha Schriewer |
-| 101 | 378 | Makelini Mausia |
+| 100 | 378 | Makelini Mausia |
+| 101 | 378 | Tasha Schriewer |
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
@@ -137,8 +137,8 @@
 | 129 | 278 | Rufus Lincoln |
 | 130 | 276 | Crimson |
 | 131 | 272 | opf |
-| 132 | 271 | Ashley Muncey |
-| 133 | 271 | Leah Barnett |
+| 132 | 271 | Leah Barnett |
+| 133 | 271 | Ashley Muncey |
 | 134 | 270 | Stephanie Blkpep Davidson |
 | 135 | 267 | Denise Nardoni |
 | 136 | 266 | Mary Pellegrino |

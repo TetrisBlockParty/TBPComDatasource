@@ -91,8 +91,8 @@
 | 83 | 252 | Girl |
 | 84 | 245 | Jae Job |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Lucas J Sutton |
-| 87 | 230 | Autum Leigh |
+| 86 | 230 | Autum Leigh |
+| 87 | 230 | Lucas J Sutton |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |
@@ -116,8 +116,8 @@
 | 108 | 194 | Zany Twisterfit |
 | 109 | 192 | Crystal Carroll |
 | 110 | 192 | Shauna Havard |
-| 111 | 191 | Melvin Baird |
-| 112 | 191 | loulou |
+| 111 | 191 | loulou |
+| 112 | 191 | Melvin Baird |
 | 113 | 189 | Calvin Dennis |
 | 114 | 188 | Katherine Crane |
 | 115 | 187 | TheNeesh50 |
@@ -146,8 +146,8 @@
 | 138 | 156 | Holly |
 | 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Avy Absol |
-| 142 | 151 | Bethany Ison |
+| 141 | 151 | Bethany Ison |
+| 142 | 151 | Avy Absol |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -170,8 +170,8 @@
 | 162 | 135 | Stephme310 |
 | 163 | 135 | Victoria Faniel |
 | 164 | 134 | Chirpy Basepiece |
-| 165 | 134 | Zany Shatterer |
-| 166 | 134 | Kim Klutz Olson |
+| 165 | 134 | Kim Klutz Olson |
+| 166 | 134 | Zany Shatterer |
 | 167 | 133 | Angela Geist Jusinski |
 | 168 | 132 | Melissa Priest Sellers |
 | 169 | 132 | Jessica Cagle |
@@ -203,14 +203,14 @@
 | 195 | 120 | Joshua Guess |
 | 196 | 120 | KayM |
 | 197 | 119 | Kristin Manee |
-| 198 | 119 | Gwendolyn Pitcairn |
-| 199 | 119 | Judy Cox |
+| 198 | 119 | Judy Cox |
+| 199 | 119 | Gwendolyn Pitcairn |
 | 200 | 118 | Chris Bernstein |
 | 201 | 118 | Mary Ann Pabukis |
-| 202 | 115 | Sam Middleton |
-| 203 | 115 | Nubian1 |
-| 204 | 115 | Jayk |
-| 205 | 115 | Ultramarine |
+| 202 | 115 | Nubian1 |
+| 203 | 115 | Sam Middleton |
+| 204 | 115 | Ultramarine |
+| 205 | 115 | Jayk |
 | 206 | 113 | Dandy Cascadefit |
 | 207 | 113 | Adam Randall |
 | 208 | 112 | Austin Owens |

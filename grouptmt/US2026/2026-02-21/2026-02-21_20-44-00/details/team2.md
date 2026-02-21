@@ -138,11 +138,11 @@
 | 130 | 787 | Laura McCarthey |
 | 131 | 780 | Amanda Grohmann |
 | 132 | 772 | Megan Ferguson Leone |
-| 133 | 771 | Missie Lawson Gebhardt |
-| 134 | 771 | Terri McKelvey McKinley |
+| 133 | 771 | Terri McKelvey McKinley |
+| 134 | 771 | Missie Lawson Gebhardt |
 | 135 | 765 | YiFei |
-| 136 | 763 | Ladyrainbootz |
-| 137 | 763 | Samantha Jo |
+| 136 | 763 | Samantha Jo |
+| 137 | 763 | Ladyrainbootz |
 | 138 | 756 | Stephanie Neuburger |
 | 139 | 751 | Loony Snapper |
 | 140 | 750 | Jumpy Gridpiece |
@@ -243,8 +243,8 @@
 | 235 | 511 | Laura Mclean |
 | 236 | 511 | Dizzy Zone |
 | 237 | 510 | Cheech Dta |
-| 238 | 510 | Lisa Ongtowasruk |
-| 239 | 510 | Laquetta Royston |
+| 238 | 510 | Laquetta Royston |
+| 239 | 510 | Lisa Ongtowasruk |
 | 240 | 509 | Kelli Wells |
 | 241 | 508 | Allan Wayne Lamia |
 | 242 | 504 | Cherica Taylor |
@@ -405,8 +405,8 @@
 | 397 | 339 | Cool Rollpiece |
 | 398 | 337 | Sassy Pattern |
 | 399 | 335 | Brooke Leigh Strube |
-| 400 | 334 | Brittney Jean |
-| 401 | 334 | Peppy Snapfall |
+| 400 | 334 | Peppy Snapfall |
+| 401 | 334 | Brittney Jean |
 | 402 | 333 | Offonar Facey |
 | 403 | 333 | Tra Barnum |
 | 404 | 333 | LordZophar |

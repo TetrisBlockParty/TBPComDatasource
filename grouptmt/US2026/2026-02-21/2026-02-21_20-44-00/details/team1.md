@@ -25,8 +25,8 @@
 | 17 | 792 | LaQuetta Faith Hines |
 | 18 | 779 | Andrea Dañielle Ortiz |
 | 19 | 771 | Robert Beck |
-| 20 | 770 | Adryane Schnase |
-| 21 | 770 | Zappy Curvetile |
+| 20 | 770 | Zappy Curvetile |
+| 21 | 770 | Adryane Schnase |
 | 22 | 699 | Josie Kirt |
 | 23 | 683 | Chipper Gridlock |
 | 24 | 658 | Carolyn Smith |
@@ -108,8 +108,8 @@
 | 100 | 222 | Kristen Gideon |
 | 101 | 214 | Billie Dawn Sparks |
 | 102 | 213 | Lexuriuos Lifestlye |
-| 103 | 212 | Jaimie Lynn |
-| 104 | 212 | Mandyy Rae |
+| 103 | 212 | Mandyy Rae |
+| 104 | 212 | Jaimie Lynn |
 | 105 | 211 | Marianita Garcia |
 | 106 | 210 | Ly Phethmany |
 | 107 | 205 | Nicole Roseberry Weber |
@@ -140,8 +140,8 @@
 | 132 | 171 | Greg Premoe |
 | 133 | 171 | David DeSantis |
 | 134 | 170 | Veronica Eve |
-| 135 | 169 | Luciano Moreira |
-| 136 | 169 | Abbey Crespo |
+| 135 | 169 | Abbey Crespo |
+| 136 | 169 | Luciano Moreira |
 | 137 | 168 | Standia Civil |
 | 138 | 166 | Tana |
 | 139 | 166 | Rico Rico |
