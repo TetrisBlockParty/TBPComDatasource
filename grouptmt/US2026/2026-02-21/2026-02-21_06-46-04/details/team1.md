@@ -41,13 +41,13 @@
 | 33 | 274 | Theo Pinnow |
 | 34 | 274 | Sweet Baker |
 | 35 | 265 | Jennifer Cates |
-| 36 | 256 | Robert Benito |
-| 37 | 256 | Tipsy Column |
+| 36 | 256 | Tipsy Column |
+| 37 | 256 | Robert Benito |
 | 38 | 244 | Franswa |
 | 39 | 243 | Sarah Roberts |
 | 40 | 241 | Kristen Roles Robben |
-| 41 | 212 | Tdub |
-| 42 | 212 | Jaimie Lynn |
+| 41 | 212 | Jaimie Lynn |
+| 42 | 212 | Tdub |
 | 43 | 211 | Deanna L Hermanson |
 | 44 | 208 | Carrie Beck Geartz |
 | 45 | 206 | Elaine Elaine |

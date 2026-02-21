@@ -445,10 +445,10 @@
 | 437 | 162 | Brenna Ann |
 | 438 | 161 | Brandon McDonald |
 | 439 | 161 | Snippy Rumbler |
-| 440 | 160 | Cynthia Ward |
+| 440 | 160 | Gary Schaffner Jr. |
 | 441 | 160 | Rhonda Petro |
-| 442 | 160 | Gary Schaffner Jr. |
-| 443 | 160 | Amy Reynolds |
+| 442 | 160 | Amy Reynolds |
+| 443 | 160 | Cynthia Ward |
 | 444 | 160 | Marcie McLain Dodd |
 | 445 | 159 | Bee |
 | 446 | 158 | Allison Hewitt |

@@ -115,7 +115,7 @@
 | 107 | 116 | Serena Goodridge |
 | 108 | 114 | Zany Shatterer |
 | 109 | 113 | Andria Lynn |
-| 110 | 112 | Brittany Marsh |
+| 110 | 112 | Bryan Hodgins |
 | 111 | 112 | Austin Owens |
 | 112 | 112 | Brittany Marsh |
 | 113 | 111 | Lazy Blocker |
@@ -132,8 +132,8 @@
 | 124 | 104 | YoMomma |
 | 125 | 104 | Adam Randall |
 | 126 | 102 | Faja |
-| 127 | 101 | Stephme310 |
-| 128 | 101 | Michelle Morris |
+| 127 | 101 | Michelle Morris |
+| 128 | 101 | Stephme310 |
 | 129 | 101 | Saulc1991 |
 | 130 | 100 | Alexandra Karavias |
 | 131 | 100 | Megan Cutshaw |

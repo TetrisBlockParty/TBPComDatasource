@@ -149,20 +149,20 @@
 | 141 | 146 | Denita Mungro |
 | 142 | 146 | Latoya Mayne |
 | 143 | 142 | Erica Anderson |
-| 144 | 140 | Jay Horn |
-| 145 | 140 | Gumbo |
+| 144 | 140 | Gumbo |
+| 145 | 140 | Jay Horn |
 | 146 | 138 | Mendoza Lee Christy |
 | 147 | 135 | Cheryl Hinch Tenbrook |
 | 148 | 135 | Nicole Flippo |
-| 149 | 134 | Emma |
-| 150 | 134 | DanceLuvLaugh |
+| 149 | 134 | DanceLuvLaugh |
+| 150 | 134 | Emma |
 | 151 | 131 | Jl |
 | 152 | 127 | Marquita Sheard |
 | 153 | 127 | Aerian Preston |
 | 154 | 126 | Dan Rob |
 | 155 | 126 | Stephanie Burtin |
-| 156 | 125 | Shimika Enay Wallace |
-| 157 | 125 | Felicia Doxey |
+| 156 | 125 | Felicia Doxey |
+| 157 | 125 | Shimika Enay Wallace |
 | 158 | 124 | Connie Mohler-Fair |
 | 159 | 124 | Cesar Barraza |
 | 160 | 123 | Terry Jo Jones |
