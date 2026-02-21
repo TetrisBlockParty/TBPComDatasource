@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -345,8 +345,8 @@
 | 337 | 207 | Melissa McCall |
 | 338 | 207 | Shylee Tilman |
 | 339 | 206 | RAEPR05 |
-| 340 | 205 | ElizabethAnn Dickinson |
-| 341 | 205 | Lylymom |
+| 340 | 205 | Lylymom |
+| 341 | 205 | ElizabethAnn Dickinson |
 | 342 | 204 | Ali Gralski |
 | 343 | 204 | Rebecca Doughman |
 | 344 | 203 | Gary Stash |
@@ -354,11 +354,11 @@
 | 346 | 201 | Zombi3 |
 | 347 | 201 | Ashlyn Berner |
 | 348 | 201 | Peppy Snapfall |
-| 349 | 200 | LaWanda Powell |
-| 350 | 200 | Sarah Ridenour |
+| 349 | 200 | Sarah Ridenour |
+| 350 | 200 | LaWanda Powell |
 | 351 | 200 | Cheeky Brickmatch |
-| 352 | 199 | Jessica Sutter |
-| 353 | 199 | Jenny Castro |
+| 352 | 199 | Jenny Castro |
+| 353 | 199 | Jessica Sutter |
 | 354 | 198 | Angie Bolton Workman |
 | 355 | 198 | Alyssa Dean |
 | 356 | 196 | Besma Ao |

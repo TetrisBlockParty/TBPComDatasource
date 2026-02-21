@@ -39,8 +39,8 @@
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Danielle Becker |
-| 35 | 587 | Suzieq |
+| 34 | 587 | Suzieq |
+| 35 | 587 | Danielle Becker |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Dolores Falco |
 | 38 | 546 | Snappy Glidepiece |
@@ -100,8 +100,8 @@
 | 92 | 224 | Mykal Burton |
 | 93 | 223 | Jeana Gilbert |
 | 94 | 222 | Jimmie Clemons |
-| 95 | 218 | mjl574 |
-| 96 | 218 | Judi Dobson |
+| 95 | 218 | Judi Dobson |
+| 96 | 218 | mjl574 |
 | 97 | 214 | Amy Fuller Heaton |
 | 98 | 213 | Tom Nault |
 | 99 | 211 | Blocked |
@@ -132,8 +132,8 @@
 | 124 | 166 | Danielle Mogg |
 | 125 | 166 | Kelly Ann Child |
 | 126 | 164 | rosy |
-| 127 | 159 | Jone |
-| 128 | 159 | Morgan Martinez |
+| 127 | 159 | Morgan Martinez |
+| 128 | 159 | Jone |
 | 129 | 158 | Grams |
 | 130 | 156 | Joey Banks |
 | 131 | 155 | BŘŰŤİÇŨŚ |
@@ -179,8 +179,8 @@
 | 171 | 121 | Michael Latasha Gray |
 | 172 | 120 | Jessica |
 | 173 | 118 | Fancy Curver |
-| 174 | 116 | Skinny Baldez |
-| 175 | 116 | Joy Petroski |
+| 174 | 116 | Joy Petroski |
+| 175 | 116 | Skinny Baldez |
 | 176 | 115 | Jennifer Alvey |
 | 177 | 114 | Jessica Bechler |
 | 178 | 114 | Nicholas Roddy |

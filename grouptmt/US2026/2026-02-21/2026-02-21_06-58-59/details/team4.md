@@ -51,8 +51,8 @@
 | 43 | 256 | Brittney Griggs |
 | 44 | 244 | Isabella Blanco |
 | 45 | 241 | Desi Desporte |
-| 46 | 231 | Michelle Marie |
-| 47 | 231 | Jenna Ingersoll |
+| 46 | 231 | Jenna Ingersoll |
+| 47 | 231 | Michelle Marie |
 | 48 | 226 | Breannah Grafe |
 | 49 | 209 | Lisa Davis |
 | 50 | 207 | Alyssa Papen |
@@ -86,8 +86,8 @@
 | 78 | 141 | Malakai Darien Fox |
 | 79 | 140 | Shannon Ferrari |
 | 80 | 136 | Tanner Lund |
-| 81 | 134 | Jessica Bohlken |
-| 82 | 134 | Chirpy Basepiece |
+| 81 | 134 | Chirpy Basepiece |
+| 82 | 134 | Jessica Bohlken |
 | 83 | 133 | Robin Watters |
 | 84 | 132 | Jenna McGeorge |
 | 85 | 132 | Degenerate |
@@ -116,11 +116,11 @@
 | 108 | 116 | Diana Houts |
 | 109 | 116 | Serena Goodridge |
 | 110 | 113 | Andria Lynn |
-| 111 | 112 | Austin Owens |
-| 112 | 112 | Bryan Hodgins |
-| 113 | 112 | Brittany Marsh |
-| 114 | 111 | Gwendolyn Pitcairn |
-| 115 | 111 | Lazy Blocker |
+| 111 | 112 | Brittany Marsh |
+| 112 | 112 | Austin Owens |
+| 113 | 112 | Bryan Hodgins |
+| 114 | 111 | Lazy Blocker |
+| 115 | 111 | Gwendolyn Pitcairn |
 | 116 | 110 | H.R. Block |
 | 117 | 108 | Rio Rocha |
 | 118 | 107 | Marcus Todd |
@@ -133,8 +133,8 @@
 | 125 | 104 | YoMomma |
 | 126 | 104 | Adam Randall |
 | 127 | 102 | Faja |
-| 128 | 101 | Stephme310 |
-| 129 | 101 | Michelle Morris |
+| 128 | 101 | Michelle Morris |
+| 129 | 101 | Stephme310 |
 | 130 | 101 | Saulc1991 |
 | 131 | 100 | Alexandra Karavias |
 | 132 | 100 | Zethra Prenisha Rahming |
@@ -158,7 +158,7 @@
 | 150 | 87 | Jen Caldwell |
 | 151 | 86 | amy |
 | 152 | 86 | Destiney Carter |
-| 153 | 85 | Mimi |
+| 153 | 85 | shark tato |
 | 154 | 85 | Shukee Lo |
 | 155 | 85 | Mimi |
 | 156 | 85 | Chastity Mitchell |

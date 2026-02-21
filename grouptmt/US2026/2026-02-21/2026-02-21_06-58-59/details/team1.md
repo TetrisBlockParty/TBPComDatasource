@@ -33,8 +33,8 @@
 | 25 | 315 | Stef Hu |
 | 26 | 301 | Zerin Graham |
 | 27 | 298 | Angel Fowler |
-| 28 | 294 | Jacqueline Williams |
-| 29 | 294 | Felicia Lewis |
+| 28 | 294 | Felicia Lewis |
+| 29 | 294 | Jacqueline Williams |
 | 30 | 291 | Nancy Green |
 | 31 | 286 | Michelle Nicole |
 | 32 | 283 | Stephanie Zahn |
@@ -42,13 +42,13 @@
 | 34 | 274 | Sweet Baker |
 | 35 | 274 | Theo Pinnow |
 | 36 | 265 | Jennifer Cates |
-| 37 | 256 | Robert Benito |
-| 38 | 256 | Tipsy Column |
+| 37 | 256 | Tipsy Column |
+| 38 | 256 | Robert Benito |
 | 39 | 244 | Franswa |
 | 40 | 243 | Sarah Roberts |
 | 41 | 241 | Kristen Roles Robben |
-| 42 | 212 | Tdub |
-| 43 | 212 | Jaimie Lynn |
+| 42 | 212 | Jaimie Lynn |
+| 43 | 212 | Tdub |
 | 44 | 211 | Deanna L Hermanson |
 | 45 | 209 | Robert Beck |
 | 46 | 208 | Carrie Beck Geartz |
@@ -102,8 +102,8 @@
 | 94 | 128 | lil mickey |
 | 95 | 128 | Uhog SF |
 | 96 | 127 | Michael |
-| 97 | 126 | Rachael |
-| 98 | 126 | Cece Ibarra |
+| 97 | 126 | Cece Ibarra |
+| 98 | 126 | Rachael |
 | 99 | 121 | Bouncy Grid |
 | 100 | 119 | Tater |
 | 101 | 119 | Irual Hctrab |
@@ -190,7 +190,7 @@
 | 182 | 72 | John J. Cronin |
 | 183 | 70 | Seth Wesson |
 | 184 | 70 | Kenton Billings |
-| 185 | 70 | Seth Wesson |
+| 185 | 70 | Nerdy Linkblock |
 | 186 | 70 | Daring Fitclear |
 | 187 | 69 | Connie |
 | 188 | 69 | Christy Jones |
