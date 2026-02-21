@@ -168,8 +168,8 @@
 | 160 | 495 | Poppy Snap |
 | 161 | 488 | Teresa Gillmore |
 | 162 | 486 | MrsCandyfine As Wine Truss |
-| 163 | 485 | Gene Mills |
-| 164 | 485 | Leah Keesling |
+| 163 | 485 | Leah Keesling |
+| 164 | 485 | Gene Mills |
 | 165 | 484 | Suki Kaur |
 | 166 | 483 | Jordan Kaiser |
 | 167 | 482 | Eckoman518 |
@@ -309,8 +309,8 @@
 | 301 | 284 | Autumn Schaeffer |
 | 302 | 283 | Davetta Sanford |
 | 303 | 283 | Byung Bae Park |
-| 304 | 282 | Arkei Luster |
-| 305 | 282 | Shaun Church |
+| 304 | 282 | Shaun Church |
+| 305 | 282 | Arkei Luster |
 | 306 | 282 | Carl Bradshaw |
 | 307 | 281 | Maegan Beaule |
 | 308 | 280 | SwampRebel |
@@ -406,8 +406,8 @@
 | 398 | 229 | Kimmy Newman |
 | 399 | 228 | Michelle Sager |
 | 400 | 227 | JacJac |
-| 401 | 226 | Juliana Marques Do Nascimento Gordy |
-| 402 | 226 | Mary Marie |
+| 401 | 226 | Mary Marie |
+| 402 | 226 | Juliana Marques Do Nascimento Gordy |
 | 403 | 226 | Leslie Ann Carter |
 | 404 | 226 | Alishac Marie |
 | 405 | 224 | Justin Hines |

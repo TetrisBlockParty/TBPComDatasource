@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 320 | Jennifer Cates |
 | 38 | 311 | Michelle Nicole |
@@ -49,8 +49,8 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Theo Pinnow |
-| 45 | 274 | Sweet Baker |
+| 44 | 274 | Sweet Baker |
+| 45 | 274 | Theo Pinnow |
 | 46 | 272 | Adam Byrd |
 | 47 | 264 | Shauna Loe |
 | 48 | 257 | Sarah Roberts |
@@ -68,8 +68,8 @@
 | 60 | 212 | Jaimie Lynn |
 | 61 | 212 | Tdub |
 | 62 | 211 | Marianita Garcia |
-| 63 | 208 | Carrie Beck Geartz |
-| 64 | 208 | Mandyy Rae |
+| 63 | 208 | Mandyy Rae |
+| 64 | 208 | Carrie Beck Geartz |
 | 65 | 205 | Trippy Redd |
 | 66 | 204 | Ly Phethmany |
 | 67 | 202 | Dee Perry |
@@ -105,8 +105,8 @@
 | 97 | 155 | David DeSantis |
 | 98 | 153 | Shiny Gridmatch |
 | 99 | 152 | Jacqueline Unique |
-| 100 | 149 | Arianna O'Brien |
-| 101 | 149 | Tana |
+| 100 | 149 | Tana |
+| 101 | 149 | Arianna O'Brien |
 | 102 | 148 | Shauntina Burke |
 | 103 | 147 | Veronica Eve |
 | 104 | 145 | BigWeenie69 |
@@ -143,8 +143,8 @@
 | 135 | 114 | Colleen Wise |
 | 136 | 114 | Giddy Cascade |
 | 137 | 112 | Flashy Rotator |
-| 138 | 112 | Miguel Teixeira |
-| 139 | 112 | Nicole Roseberry Weber |
+| 138 | 112 | Nicole Roseberry Weber |
+| 139 | 112 | Miguel Teixeira |
 | 140 | 112 | Kristen Gideon |
 | 141 | 111 | Agustin Duarte Orozco |
 | 142 | 111 | Jessica Russell |

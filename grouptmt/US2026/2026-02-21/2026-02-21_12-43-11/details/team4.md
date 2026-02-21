@@ -92,8 +92,8 @@
 | 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Stacey Stano |
-| 88 | 160 | Carter Jones |
+| 87 | 160 | Carter Jones |
+| 88 | 160 | Stacey Stano |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
@@ -115,7 +115,7 @@
 | 107 | 132 | Melissa Priest Sellers |
 | 108 | 132 | Jenna McGeorge |
 | 109 | 132 | Jessica Cagle |
-| 110 | 132 | Jenna McGeorge |
+| 110 | 132 | Degenerate |
 | 111 | 131 | Mr. Party |
 | 112 | 130 | Lucas J Sutton |
 | 113 | 130 | Casey Jeffcoat |
@@ -125,8 +125,8 @@
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
 | 119 | 123 | Bubbly Puzzler |
-| 120 | 123 | Cherrish Duren |
-| 121 | 123 | TinyLegoRose |
+| 120 | 123 | TinyLegoRose |
+| 121 | 123 | Cherrish Duren |
 | 122 | 122 | Sherri |
 | 123 | 121 | Smiley Tiltbuilder |
 | 124 | 121 | Klo |

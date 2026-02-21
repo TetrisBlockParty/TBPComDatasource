@@ -153,8 +153,8 @@
 | 145 | 166 | Danielle Mogg |
 | 146 | 166 | Kelly Ann Child |
 | 147 | 165 | Kali Kelz Williams |
-| 148 | 164 | DanceLuvLaugh |
-| 149 | 164 | rosy |
+| 148 | 164 | rosy |
+| 149 | 164 | DanceLuvLaugh |
 | 150 | 163 | Karon Griffin |
 | 151 | 163 | Stephanie Hill |
 | 152 | 160 | Tiffany Davie |
