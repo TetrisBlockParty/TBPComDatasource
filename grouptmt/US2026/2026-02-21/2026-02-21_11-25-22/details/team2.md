@@ -113,8 +113,8 @@
 | 105 | 658 | Pacynthia Williams |
 | 106 | 658 | Vistabrat |
 | 107 | 653 | Becky Weeks-Garry |
-| 108 | 649 | Anna Edwards |
-| 109 | 649 | Stephanie Chapman |
+| 108 | 649 | Stephanie Chapman |
+| 109 | 649 | Anna Edwards |
 | 110 | 641 | Ricardo Burton |
 | 111 | 632 | Beth |
 | 112 | 631 | Loopy Clusterbuilder |
@@ -209,8 +209,8 @@
 | 201 | 385 | Arwa Fatimah |
 | 202 | 382 | Leah |
 | 203 | 381 | Amanda Ferrell |
-| 204 | 380 | Joshua Mandel |
-| 205 | 380 | Calandra Shaya Robinson |
+| 204 | 380 | Calandra Shaya Robinson |
+| 205 | 380 | Joshua Mandel |
 | 206 | 378 | Cody Nishimura |
 | 207 | 377 | Roy Salyer |
 | 208 | 364 | Shinette Dobson |
@@ -350,13 +350,13 @@
 | 342 | 247 | Fancy Twister |
 | 343 | 247 | Andrea Devery Beck |
 | 344 | 246 | Kathryn Townsley |
-| 345 | 246 | Stephanie Lumanlan |
-| 346 | 246 | Ashley Lopez |
+| 345 | 246 | Ashley Lopez |
+| 346 | 246 | Stephanie Lumanlan |
 | 347 | 245 | Rachael Senard |
 | 348 | 245 | Sanaa Nounoussa |
 | 349 | 244 | Aimee Byrom |
-| 350 | 242 | Lawanda Forbes |
-| 351 | 242 | Donna Chandler |
+| 350 | 242 | Donna Chandler |
+| 351 | 242 | Lawanda Forbes |
 | 352 | 241 | Sabrina Burton |
 | 353 | 240 | Angie Marie |
 | 354 | 240 | Adam Erikson |
@@ -367,11 +367,11 @@
 | 359 | 236 | Niceday |
 | 360 | 236 | Julio A Laracuente |
 | 361 | 235 | Kimberly Mitchell |
-| 362 | 234 | Jennifer Leigh |
-| 363 | 234 | Manny Trindade |
+| 362 | 234 | Manny Trindade |
+| 363 | 234 | Jennifer Leigh |
 | 364 | 234 | Jaybee Nguyen |
-| 365 | 233 | Jumpy Gridclear |
-| 366 | 233 | Robin Kerby |
+| 365 | 233 | Robin Kerby |
+| 366 | 233 | Jumpy Gridclear |
 | 367 | 233 | Nutty Matchline |
 | 368 | 232 | Amber Brion |
 | 369 | 231 | Dylan Thomason |
@@ -454,14 +454,14 @@
 | 446 | 184 | Regina Unruh |
 | 447 | 184 | Theresa Sterrett |
 | 448 | 183 | Lynzekwi |
-| 449 | 183 | Brenna Ann |
-| 450 | 183 | Brandon McDonald |
-| 451 | 183 | Wakanda Forever |
+| 449 | 183 | Brandon McDonald |
+| 450 | 183 | Wakanda Forever |
+| 451 | 183 | Brenna Ann |
 | 452 | 182 | Andrea Maher |
 | 453 | 182 | Tamara Bailey |
 | 454 | 182 | Donna M Carter |
-| 455 | 181 | Julay |
-| 456 | 181 | Wacky Cascade |
+| 455 | 181 | Wacky Cascade |
+| 456 | 181 | Julay |
 | 457 | 180 | Peter Palestino |
 | 458 | 180 | Jackie Lucas |
 | 459 | 179 | Desiree Harris Rosch |
@@ -503,8 +503,8 @@
 | 495 | 166 | suuny |
 | 496 | 165 | Tara Lynn Janes |
 | 497 | 165 | Catherine Varea |
-| 498 | 165 | Cathy Bitters |
-| 499 | 165 | Austin Wilson |
+| 498 | 165 | Austin Wilson |
+| 499 | 165 | Cathy Bitters |
 | 500 | 164 | Jessica Vega |
 | 501 | 164 | Sara Pennington |
 | 502 | 163 | Danielle Ayoub |
@@ -532,8 +532,8 @@
 | 524 | 158 | Ashley Cooper Tharin |
 | 525 | 158 | Groovy Puzzle |
 | 526 | 157 | Andrew Bratton-Tomes |
-| 527 | 157 | Nicol Craven |
-| 528 | 157 | Klee |
+| 527 | 157 | Klee |
+| 528 | 157 | Nicol Craven |
 | 529 | 157 | Ty Quarles |
 | 530 | 156 | Deanna Morton |
 | 531 | 156 | Nuggets |

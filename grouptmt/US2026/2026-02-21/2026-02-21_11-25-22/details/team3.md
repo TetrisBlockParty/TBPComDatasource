@@ -47,8 +47,8 @@
 | 39 | 587 | Suzieq |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -75,8 +75,8 @@
 | 67 | 362 | Liv Whetson |
 | 68 | 360 | Ebony West-Cundiff |
 | 69 | 353 | Stephanie Woods |
-| 70 | 345 | Mendoza Lee Christy |
-| 71 | 345 | Christine Niles |
+| 70 | 345 | Christine Niles |
+| 71 | 345 | Mendoza Lee Christy |
 | 72 | 343 | Silly Twist |
 | 73 | 342 | Trezure Gonzalez |
 | 74 | 342 | Annie Déè |
@@ -127,8 +127,8 @@
 | 119 | 195 | Nicha Hooker |
 | 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
-| 122 | 193 | Clever Shiftsnap |
-| 123 | 193 | Stephanie Burtin |
+| 122 | 193 | Stephanie Burtin |
+| 123 | 193 | Clever Shiftsnap |
 | 124 | 192 | Chasity |
 | 125 | 191 | Giddy Twistbuilder |
 | 126 | 191 | Scott Carleton |
@@ -139,8 +139,8 @@
 | 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | Khaleada McGill Banks |
-| 135 | 178 | AlsoJess |
+| 134 | 178 | AlsoJess |
+| 135 | 178 | Khaleada McGill Banks |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Danielle Mogg |
 | 138 | 166 | Kelly Ann Child |
@@ -153,8 +153,8 @@
 | 145 | 159 | Morgan Martinez |
 | 146 | 159 | Jone |
 | 147 | 158 | Grams |
-| 148 | 157 | Patricia Gadsden |
-| 149 | 157 | Nicholas Roddy |
+| 148 | 157 | Nicholas Roddy |
+| 149 | 157 | Patricia Gadsden |
 | 150 | 156 | Joey Banks |
 | 151 | 155 | BŘŰŤİÇŨŚ |
 | 152 | 154 | Angela M. Fletcher |

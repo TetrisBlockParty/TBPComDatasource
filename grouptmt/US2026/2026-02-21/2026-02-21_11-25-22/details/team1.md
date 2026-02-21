@@ -68,8 +68,8 @@
 | 60 | 208 | Mandyy Rae |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
-| 63 | 202 | Dee Perry |
-| 64 | 202 | Hyper |
+| 63 | 202 | Hyper |
+| 64 | 202 | Dee Perry |
 | 65 | 201 | Ananda Mendez |
 | 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
@@ -81,8 +81,8 @@
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
-| 76 | 190 | Thorne Shumate |
-| 77 | 190 | Sweetts |
+| 76 | 190 | Sweetts |
+| 77 | 190 | Thorne Shumate |
 | 78 | 189 | Happy Basegrid |
 | 79 | 180 | Erez Yosef |
 | 80 | 178 | Danielle Little-Daugherty |

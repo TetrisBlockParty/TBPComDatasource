@@ -89,22 +89,22 @@
 | 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 160 | Carter Jones |
-| 84 | 159 | Holly Jolly |
-| 85 | 159 | Justin Hannigan |
+| 84 | 159 | Justin Hannigan |
+| 85 | 159 | Holly Jolly |
 | 86 | 157 | quicksand420 |
 | 87 | 154 | ThaEviLJeNiuZ |
 | 88 | 153 | Jae Job |
 | 89 | 150 | ZeeZee |
-| 90 | 147 | 030Synner |
-| 91 | 147 | Jay28 |
+| 90 | 147 | Jay28 |
+| 91 | 147 | 030Synner |
 | 92 | 146 | Peachy Fall |
 | 93 | 143 | Nugget |
 | 94 | 141 | Malakai Darien Fox |
 | 95 | 140 | Shannon Ferrari |
 | 96 | 138 | Shainne Brewer |
 | 97 | 136 | Tanner Lund |
-| 98 | 134 | Jessica Bohlken |
-| 99 | 134 | Chirpy Basepiece |
+| 98 | 134 | Chirpy Basepiece |
+| 99 | 134 | Jessica Bohlken |
 | 100 | 133 | Robin Watters |
 | 101 | 132 | Jenna McGeorge |
 | 102 | 132 | Melissa Priest Sellers |
@@ -112,9 +112,9 @@
 | 104 | 132 | Degenerate |
 | 105 | 131 | Dana Scott |
 | 106 | 131 | Mr. Party |
-| 107 | 131 | Dana Scott |
-| 108 | 130 | Casey Jeffcoat |
-| 109 | 130 | Lucas J Sutton |
+| 107 | 131 | Zany Twisterfit |
+| 108 | 130 | Lucas J Sutton |
+| 109 | 130 | Casey Jeffcoat |
 | 110 | 129 | John Brunetti |
 | 111 | 129 | Landon Keith Graffeo |
 | 112 | 126 | Dihcheese444 |
