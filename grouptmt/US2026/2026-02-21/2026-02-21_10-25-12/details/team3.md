@@ -88,8 +88,8 @@
 | 80 | 320 | Or Reznitsky |
 | 81 | 316 | Fancy Cascader |
 | 82 | 313 | Elaine Webb Graves |
-| 83 | 309 | Rich LeBlanc |
-| 84 | 309 | CeceGeGe |
+| 83 | 309 | CeceGeGe |
+| 84 | 309 | Rich LeBlanc |
 | 85 | 307 | Blocked |
 | 86 | 307 | Peggi Charon |
 | 87 | 300 | Sherika C. McDaniels |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -126,8 +126,8 @@
 | 118 | 195 | Jenny Hrndz |
 | 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
-| 121 | 193 | Stephanie Burtin |
-| 122 | 193 | Clever Shiftsnap |
+| 121 | 193 | Clever Shiftsnap |
+| 122 | 193 | Stephanie Burtin |
 | 123 | 192 | Chasity |
 | 124 | 191 | Scott Carleton |
 | 125 | 187 | Fallorina Susana |
@@ -136,8 +136,8 @@
 | 128 | 182 | Hyper Matchzone |
 | 129 | 180 | Tessina Dewey-Mancino |
 | 130 | 179 | Daira Largen |
-| 131 | 178 | Khaleada McGill Banks |
-| 132 | 178 | AlsoJess |
+| 131 | 178 | AlsoJess |
+| 132 | 178 | Khaleada McGill Banks |
 | 133 | 176 | Ryan Williams |
 | 134 | 170 | Kristie McFarland |
 | 135 | 166 | Kelly Ann Child |

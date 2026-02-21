@@ -82,8 +82,8 @@
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 170 | Girl |
 | 76 | 167 | Denise Carlson |
-| 77 | 165 | Casey Grabner |
-| 78 | 165 | Courtney Cicoria |
+| 77 | 165 | Courtney Cicoria |
+| 78 | 165 | Casey Grabner |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Holly Jolly |
@@ -99,8 +99,8 @@
 | 91 | 140 | Shannon Ferrari |
 | 92 | 138 | Shainne Brewer |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Jessica Bohlken |
-| 95 | 134 | Chirpy Basepiece |
+| 94 | 134 | Chirpy Basepiece |
+| 95 | 134 | Jessica Bohlken |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Jenna McGeorge |
 | 98 | 132 | Degenerate |
@@ -215,7 +215,7 @@
 | 207 | 77 | Zippy Gridlock |
 | 208 | 76 | Bethany Ison |
 | 209 | 76 | Madison Sweere |
-| 210 | 76 | Bethany Ison |
+| 210 | 76 | Crystal Lynn |
 | 211 | 75 | Christina Black |
 | 212 | 75 | Rosemary Foster |
 | 213 | 74 | Krs |
