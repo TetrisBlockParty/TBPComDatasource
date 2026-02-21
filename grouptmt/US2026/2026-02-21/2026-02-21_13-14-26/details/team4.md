@@ -92,8 +92,8 @@
 | 84 | 165 | Casey Grabner |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
-| 87 | 160 | Stacey Stano |
-| 88 | 160 | Carter Jones |
+| 87 | 160 | Carter Jones |
+| 88 | 160 | Stacey Stano |
 | 89 | 159 | Holly Jolly |
 | 90 | 157 | quicksand420 |
 | 91 | 154 | Zany Twisterfit |
@@ -120,8 +120,8 @@
 | 112 | 131 | Mr. Party |
 | 113 | 130 | Casey Jeffcoat |
 | 114 | 130 | Lucas J Sutton |
-| 115 | 129 | Landon Keith Graffeo |
-| 116 | 129 | John Brunetti |
+| 115 | 129 | John Brunetti |
+| 116 | 129 | Landon Keith Graffeo |
 | 117 | 128 | Rio Rocha |
 | 118 | 126 | Klo |
 | 119 | 126 | Dihcheese444 |

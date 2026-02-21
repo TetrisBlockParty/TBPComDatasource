@@ -50,8 +50,8 @@
 | 42 | 1187 | Katrina Williams Balmir |
 | 43 | 1173 | Devin Lee |
 | 44 | 1157 | Priscilla Noel |
-| 45 | 1150 | Izabel Herrera |
-| 46 | 1150 | Brian Jefferson |
+| 45 | 1150 | Brian Jefferson |
+| 46 | 1150 | Izabel Herrera |
 | 47 | 1143 | Lucky Ladybug |
 | 48 | 1140 | Kiok |
 | 49 | 1130 | Jose Vega |
@@ -320,8 +320,8 @@
 | 312 | 283 | Byung Bae Park |
 | 313 | 283 | Davetta Sanford |
 | 314 | 282 | Carl Bradshaw |
-| 315 | 282 | Catina Hutchison |
-| 316 | 282 | Mandi Douglas Hilt |
+| 315 | 282 | Mandi Douglas Hilt |
+| 316 | 282 | Catina Hutchison |
 | 317 | 282 | Shaun Church |
 | 318 | 281 | Maegan Beaule |
 | 319 | 280 | SwampRebel |
@@ -358,8 +358,8 @@
 | 350 | 262 | Min |
 | 351 | 262 | Taren Cowan |
 | 352 | 261 | MrsClaudette Will'sIam Matthews |
-| 353 | 260 | Denise Rickman |
-| 354 | 260 | Ebony Deloach Bryant |
+| 353 | 260 | Ebony Deloach Bryant |
+| 354 | 260 | Denise Rickman |
 | 355 | 259 | Demeka Dangerous-kisses Johnson |
 | 356 | 257 | Lyndi Robinson Wakefield |
 | 357 | 257 | Diana Fitzwater |
@@ -422,8 +422,8 @@
 | 414 | 226 | Mary Marie |
 | 415 | 226 | Leslie Ann Carter |
 | 416 | 224 | Justin Hines |
-| 417 | 223 | Jess Morrison |
-| 418 | 223 | LegoCarpet |
+| 417 | 223 | LegoCarpet |
+| 418 | 223 | Jess Morrison |
 | 419 | 223 | Laura Wyatt |
 | 420 | 223 | Kristi Biddinger |
 | 421 | 222 | Amanda Canterbury |
@@ -456,8 +456,8 @@
 | 448 | 201 | Twisty Tetriblast |
 | 449 | 201 | Mr. Street Stack |
 | 450 | 200 | Angela Yantz |
-| 451 | 200 | Sarah Ridenour |
-| 452 | 200 | LaWanda Powell |
+| 451 | 200 | LaWanda Powell |
+| 452 | 200 | Sarah Ridenour |
 | 453 | 199 | Fi Ne |
 | 454 | 199 | Alyssa Nadine Medelez |
 | 455 | 199 | Jenny Castro |
@@ -509,9 +509,9 @@
 | 501 | 179 | Bette Prieto |
 | 502 | 178 | Michelle Shrum |
 | 503 | 178 | Cathy Bitters |
-| 504 | 177 | Angel |
-| 505 | 177 | John |
-| 506 | 177 | Ryan Meilleur |
+| 504 | 177 | John |
+| 505 | 177 | Ryan Meilleur |
+| 506 | 177 | Angel |
 | 507 | 177 | Facuetoo |
 | 508 | 176 | Trisha Gallagher |
 | 509 | 176 | Jennifer Malloy - Cardy |

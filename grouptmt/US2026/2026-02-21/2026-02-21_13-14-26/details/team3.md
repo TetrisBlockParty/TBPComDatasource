@@ -117,8 +117,8 @@
 | 109 | 224 | Mykal Burton |
 | 110 | 224 | Judi Dobson |
 | 111 | 223 | Jeana Gilbert |
-| 112 | 222 | Jimmie Clemons |
-| 113 | 222 | Nicole Flippo |
+| 112 | 222 | Nicole Flippo |
+| 113 | 222 | Jimmie Clemons |
 | 114 | 218 | mjl574 |
 | 115 | 214 | Amy Fuller Heaton |
 | 116 | 213 | Tom Nault |
@@ -394,7 +394,7 @@
 | 386 | 70 | Ruggergamer1 |
 | 387 | 70 | Willow |
 | 388 | 70 | cherry 🍒pie |
-| 389 | 70 | Willow |
+| 389 | 70 | Leticia Lynn Lowe |
 | 390 | 70 | Brave Bruno |
 | 391 | 69 | Kristian Thurman |
 | 392 | 69 | Spunky Combofall |

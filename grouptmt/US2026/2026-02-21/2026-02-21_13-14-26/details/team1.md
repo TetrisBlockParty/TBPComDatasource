@@ -145,7 +145,7 @@
 | 137 | 114 | Colleen Wise |
 | 138 | 114 | Giddy Cascade |
 | 139 | 113 | Desiree Deschaine Havee |
-| 140 | 112 | Nicole Roseberry Weber |
+| 140 | 112 | Chris65 |
 | 141 | 112 | Kristen Gideon |
 | 142 | 112 | Nicole Roseberry Weber |
 | 143 | 112 | Flashy Rotator |
