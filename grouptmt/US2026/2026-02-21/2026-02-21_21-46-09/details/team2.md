@@ -227,8 +227,8 @@
 | 219 | 561 | Kristopher Miller |
 | 220 | 556 | Shavonna Haynes |
 | 221 | 553 | Leslie Ann Carter |
-| 222 | 549 | Kaylee McCafferty |
-| 223 | 549 | Charvi' Carter |
+| 222 | 549 | Charvi' Carter |
+| 223 | 549 | Kaylee McCafferty |
 | 224 | 543 | Adira Brown |
 | 225 | 541 | Desiree Harris Rosch |
 | 226 | 541 | SaraMarie Eveland |
@@ -394,8 +394,8 @@
 | 386 | 355 | Shandrica Lowe |
 | 387 | 355 | Nickole Andrews |
 | 388 | 354 | Rickey Johnson |
-| 389 | 354 | Darlene Bowman |
-| 390 | 354 | Lawanda Forbes |
+| 389 | 354 | Lawanda Forbes |
+| 390 | 354 | Darlene Bowman |
 | 391 | 353 | Cheery Matchzone |
 | 392 | 352 | Juanita Lyons |
 | 393 | 352 | KayLynn Ogden McClelland |
@@ -403,8 +403,8 @@
 | 395 | 352 | ruth |
 | 396 | 351 | Rebecca Miller |
 | 397 | 350 | Fi Ne |
-| 398 | 350 | Chris Harr |
-| 399 | 350 | F-X |
+| 398 | 350 | F-X |
+| 399 | 350 | Chris Harr |
 | 400 | 348 | Véronique Lévesque Sabourin |
 | 401 | 348 | Richard Horton |
 | 402 | 347 | Cheyenne Donovan |
@@ -467,8 +467,8 @@
 | 459 | 312 | Andrea Maher |
 | 460 | 310 | Cheeky Brickmatch |
 | 461 | 310 | Sharon Mills |
-| 462 | 309 | Autumn Schaeffer |
-| 463 | 309 | Glitzy Stackzone |
+| 462 | 309 | Glitzy Stackzone |
+| 463 | 309 | Autumn Schaeffer |
 | 464 | 307 | Kitybox |
 | 465 | 306 | Frisky Clearpiece |
 | 466 | 305 | Zany Clusterbuilder |
@@ -571,9 +571,9 @@
 | 563 | 250 | Kristi Biddinger |
 | 564 | 249 | Porsche' Nicole |
 | 565 | 249 | Nicky Jackson |
-| 566 | 248 | Angelina Marie |
+| 566 | 248 | Gursharan Sandhu |
 | 567 | 248 | James Smith |
-| 568 | 248 | Gursharan Sandhu |
+| 568 | 248 | Angelina Marie |
 | 569 | 248 | Warren Marleau |
 | 570 | 248 | Kimberly Mitchell |
 | 571 | 248 | Maddy Petersen |
@@ -585,8 +585,8 @@
 | 577 | 246 | Morgan Easter |
 | 578 | 246 | Robin L. Vial |
 | 579 | 246 | Pocho Zavala |
-| 580 | 245 | Sanaa Nounoussa |
-| 581 | 245 | Mary Boss |
+| 580 | 245 | Mary Boss |
+| 581 | 245 | Sanaa Nounoussa |
 | 582 | 244 | Maxwell Escalera |
 | 583 | 244 | Nakiiya Dreamcatcher Gore |
 | 584 | 244 | Court |
@@ -743,8 +743,8 @@
 | 735 | 192 | Beth Decker |
 | 736 | 192 | Leroy Jenkins |
 | 737 | 192 | Snippy Rumbler |
-| 738 | 190 | Elizabeth Pearson |
-| 739 | 190 | Jessica Kaye DeAguero |
+| 738 | 190 | Jessica Kaye DeAguero |
+| 739 | 190 | Elizabeth Pearson |
 | 740 | 190 | Nat |
 | 741 | 190 | Johanna Massaro |
 | 742 | 189 | Nate Skidmore |

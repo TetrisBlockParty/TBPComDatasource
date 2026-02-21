@@ -96,8 +96,8 @@
 | 88 | 255 | Lindsay Ball |
 | 89 | 254 | Holly Jolly |
 | 90 | 237 | Lori Walker |
-| 91 | 230 | Autum Leigh |
-| 92 | 230 | Lucas J Sutton |
+| 91 | 230 | Lucas J Sutton |
+| 92 | 230 | Autum Leigh |
 | 93 | 228 | Brittney Orengo |
 | 94 | 224 | H.R. Block |
 | 95 | 223 | shar |
@@ -178,9 +178,9 @@
 | 170 | 134 | Kim Klutz Olson |
 | 171 | 134 | Zany Shatterer |
 | 172 | 133 | Angela Geist Jusinski |
-| 173 | 132 | Jessica Cagle |
-| 174 | 132 | Degenerate |
-| 175 | 132 | Melissa Priest Sellers |
+| 173 | 132 | Melissa Priest Sellers |
+| 174 | 132 | Jessica Cagle |
+| 175 | 132 | Degenerate |
 | 176 | 131 | Michelle Morris |
 | 177 | 131 | TinyLegoRose |
 | 178 | 130 | Carlos Ramirez |
@@ -198,8 +198,8 @@
 | 190 | 124 | SammieJo Guy |
 | 191 | 123 | Austin Owens |
 | 192 | 123 | Chaz |
-| 193 | 122 | Sherri |
-| 194 | 122 | 🥔🥔 Spudz |
+| 193 | 122 | 🥔🥔 Spudz |
+| 194 | 122 | Sherri |
 | 195 | 121 | Megan Cutshaw |
 | 196 | 121 | Joseph Pace |
 | 197 | 121 | Smiley Tiltbuilder |
@@ -256,9 +256,9 @@
 | 248 | 100 | Jennifer Perkins |
 | 249 | 100 | Blessedmama |
 | 250 | 99 | Michael Orris |
-| 251 | 98 | Groovy Gridlock |
-| 252 | 98 | Bradley Reeves |
-| 253 | 98 | Sam Bishop |
+| 251 | 98 | Sam Bishop |
+| 252 | 98 | Groovy Gridlock |
+| 253 | 98 | Bradley Reeves |
 | 254 | 98 | Perky Piecegrid |
 | 255 | 97 | Marcela Johnson |
 | 256 | 97 | Rosemary Foster |

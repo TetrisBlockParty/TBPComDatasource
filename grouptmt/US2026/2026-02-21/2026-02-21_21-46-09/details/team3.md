@@ -100,8 +100,8 @@
 | 92 | 408 | Patty Allen |
 | 93 | 403 | Christine Filson |
 | 94 | 402 | Stephanie Simpson |
-| 95 | 394 | Mcathen |
-| 96 | 394 | joclisa |
+| 95 | 394 | joclisa |
+| 96 | 394 | Mcathen |
 | 97 | 392 | Michelle |
 | 98 | 391 | Calista Jo Dickson |
 | 99 | 390 | Hasty Cascadefit |
@@ -109,8 +109,8 @@
 | 101 | 389 | Elissa S-k |
 | 102 | 386 | Katie Knaus |
 | 103 | 384 | Shannon Matthew Byers |
-| 104 | 378 | Tasha Schriewer |
-| 105 | 378 | Makelini Mausia |
+| 104 | 378 | Makelini Mausia |
+| 105 | 378 | Tasha Schriewer |
 | 106 | 377 | Jesse Olive |
 | 107 | 372 | Jessica Bechler |
 | 108 | 368 | Stephanie Woods |
@@ -189,8 +189,8 @@
 | 181 | 204 | Danielle Allison |
 | 182 | 203 | Twisty Brick LT |
 | 183 | 201 | Karon Griffin |
-| 184 | 200 | glichmod |
-| 185 | 200 | Sharisse Baltimore |
+| 184 | 200 | Sharisse Baltimore |
+| 185 | 200 | glichmod |
 | 186 | 197 | Staci George Fitzsimmons |
 | 187 | 195 | Michael Lucado |
 | 188 | 195 | Nicha Hooker |
