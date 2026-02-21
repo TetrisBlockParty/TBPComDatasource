@@ -33,10 +33,10 @@
 | 25 | 298 | Angel Fowler |
 | 26 | 294 | Jacqueline Williams |
 | 27 | 286 | Michelle Nicole |
-| 28 | 281 | Maria C. Hernandez |
-| 29 | 281 | Nancy Green |
-| 30 | 274 | Theo Pinnow |
-| 31 | 274 | Sweet Baker |
+| 28 | 281 | Nancy Green |
+| 29 | 281 | Maria C. Hernandez |
+| 30 | 274 | Sweet Baker |
+| 31 | 274 | Theo Pinnow |
 | 32 | 265 | Jennifer Cates |
 | 33 | 256 | Robert Benito |
 | 34 | 252 | Tipsy Column |
@@ -87,10 +87,10 @@
 | 79 | 144 | Tanya Carpenter-Reynolds |
 | 80 | 144 | Plucky Ziggy |
 | 81 | 143 | Sarah Marie |
-| 82 | 141 | Susanna Guerry |
-| 83 | 141 | Blaire Bruckoff |
-| 84 | 137 | Nadine Velardo |
-| 85 | 137 | Gary Gobin |
+| 82 | 141 | Blaire Bruckoff |
+| 83 | 141 | Susanna Guerry |
+| 84 | 137 | Gary Gobin |
+| 85 | 137 | Nadine Velardo |
 | 86 | 133 | Brandi Huntington |
 | 87 | 132 | Davery Spencer Adair |
 | 88 | 130 | Dandy Basegrid |
@@ -98,8 +98,8 @@
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
-| 93 | 119 | Tater |
-| 94 | 119 | Irual Hctrab |
+| 93 | 119 | Irual Hctrab |
+| 94 | 119 | Tater |
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
@@ -173,8 +173,8 @@
 | 165 | 74 | Grace Joanne Agnant |
 | 166 | 74 | Owicked1 |
 | 167 | 73 | Shanae Grant |
-| 168 | 72 | John J. Cronin |
-| 169 | 72 | Tipsy Strikerpiece |
+| 168 | 72 | Tipsy Strikerpiece |
+| 169 | 72 | John J. Cronin |
 | 170 | 71 | John Kim |
 | 171 | 70 | lil mickey |
 | 172 | 70 | Kenton Billings |
@@ -182,8 +182,8 @@
 | 174 | 70 | Seth Wesson |
 | 175 | 69 | Christy Jones |
 | 176 | 69 | Christina Torres |
-| 177 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 178 | 68 | Ariel Whittington |
+| 177 | 68 | Ariel Whittington |
+| 178 | 68 | Unelanuhi Belladonna Mystikal Bomar |
 | 179 | 67 | Mitchel White |
 | 180 | 66 | Dede |
 | 181 | 66 | Angela Fairbank |

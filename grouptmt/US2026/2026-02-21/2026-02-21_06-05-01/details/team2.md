@@ -191,8 +191,8 @@
 | 183 | 337 | Joseph Musick |
 | 184 | 336 | Tralonda Weeks |
 | 185 | 334 | Missie Lawson Gebhardt |
-| 186 | 334 | Nashu |
-| 187 | 334 | Moni Foxe |
+| 186 | 334 | Moni Foxe |
+| 187 | 334 | Nashu |
 | 188 | 332 | TF Dyer |
 | 189 | 331 | Brave Dropmatch |
 | 190 | 330 | Victoria Moore-Smith |
@@ -281,9 +281,9 @@
 | 273 | 246 | Ashley Lopez |
 | 274 | 246 | Stephanie Lumanlan |
 | 275 | 245 | Rachael Senard |
-| 276 | 245 | Taryece Gause |
-| 277 | 245 | Mischelle Clay |
-| 278 | 245 | Porsche' Nicole |
+| 276 | 245 | Mischelle Clay |
+| 277 | 245 | Porsche' Nicole |
+| 278 | 245 | Taryece Gause |
 | 279 | 244 | Shorty |
 | 280 | 243 | Brandy Andre |
 | 281 | 242 | Donna Chandler |
@@ -331,12 +331,12 @@
 | 323 | 207 | Shylee Tilman |
 | 324 | 206 | RAEPR05 |
 | 325 | 206 | Julio A Laracuente |
-| 326 | 205 | Lylymom |
-| 327 | 205 | ElizabethAnn Dickinson |
+| 326 | 205 | ElizabethAnn Dickinson |
+| 327 | 205 | Lylymom |
 | 328 | 204 | Ali Gralski |
 | 329 | 204 | Rebecca Doughman |
-| 330 | 203 | Gary Stash |
-| 331 | 203 | coleksquad |
+| 330 | 203 | coleksquad |
+| 331 | 203 | Gary Stash |
 | 332 | 203 | Auntie B |
 | 333 | 202 | Christina Ashley |
 | 334 | 201 | Zombi3 |

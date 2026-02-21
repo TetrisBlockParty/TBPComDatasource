@@ -24,8 +24,8 @@
 | 16 | 446 | Valerie Roberts |
 | 17 | 402 | Samantha Peterson |
 | 18 | 390 | Alicia Bass |
-| 19 | 383 | Johnathan Martinez |
-| 20 | 383 | Carmethia Clemons Haslerig |
+| 19 | 383 | Carmethia Clemons Haslerig |
+| 20 | 383 | Johnathan Martinez |
 | 21 | 373 | Rodney McMath Jr. |
 | 22 | 345 | Ancient Intuition |
 | 23 | 339 | LisaJo Picken Buchanan |
@@ -66,8 +66,8 @@
 | 58 | 165 | Casey Grabner |
 | 59 | 165 | Courtney Cicoria |
 | 60 | 160 | Carter Jones |
-| 61 | 159 | Justin Hannigan |
-| 62 | 159 | Holly Jolly |
+| 61 | 159 | Holly Jolly |
+| 62 | 159 | Justin Hannigan |
 | 63 | 154 | ThaEviLJeNiuZ |
 | 64 | 153 | Jae Job |
 | 65 | 152 | Clarence Patawaran |
@@ -78,8 +78,8 @@
 | 70 | 145 | Edward White |
 | 71 | 141 | Malakai Darien Fox |
 | 72 | 140 | Shannon Ferrari |
-| 73 | 134 | Jessica Bohlken |
-| 74 | 134 | Chirpy Basepiece |
+| 73 | 134 | Chirpy Basepiece |
+| 74 | 134 | Jessica Bohlken |
 | 75 | 133 | Robin Watters |
 | 76 | 132 | Jenna McGeorge |
 | 77 | 132 | Melissa Priest Sellers |

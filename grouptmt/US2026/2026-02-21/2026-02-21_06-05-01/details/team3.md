@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Danielle Becker |
-| 32 | 587 | Suzieq |
+| 31 | 587 | Suzieq |
+| 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
 | 34 | 546 | Snappy Glidepiece |
 | 35 | 546 | Dolores Falco |
