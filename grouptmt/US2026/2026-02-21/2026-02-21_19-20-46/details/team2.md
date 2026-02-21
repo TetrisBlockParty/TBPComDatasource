@@ -297,8 +297,8 @@
 | 289 | 410 | Altamirano Michael |
 | 290 | 409 | Sparkles |
 | 291 | 406 | Erin StFrancis |
-| 292 | 405 | Sarah Massey |
-| 293 | 405 | Christy Krissie |
+| 292 | 405 | Christy Krissie |
+| 293 | 405 | Sarah Massey |
 | 294 | 403 | Joshua Sommerville |
 | 295 | 402 | Brandy Andre |
 | 296 | 400 | Tammy Allen |
@@ -328,9 +328,9 @@
 | 320 | 378 | Christina Ashley |
 | 321 | 377 | Roy Salyer |
 | 322 | 376 | Caitlin Schmid |
-| 323 | 374 | Lee Harper |
-| 324 | 374 | Alexandra Weir |
-| 325 | 374 | Johnny Yeates |
+| 323 | 374 | Alexandra Weir |
+| 324 | 374 | Johnny Yeates |
+| 325 | 374 | Lee Harper |
 | 326 | 369 | Victoria Moore-Smith |
 | 327 | 369 | Tara Lynn Janes |
 | 328 | 367 | Deyawn Smith |
@@ -387,8 +387,8 @@
 | 379 | 332 | Nicole Cannon |
 | 380 | 331 | Shelley Thornburgh Wright |
 | 381 | 330 | Angela Lynn |
-| 382 | 330 | Taryece Gause |
-| 383 | 330 | CC |
+| 382 | 330 | CC |
+| 383 | 330 | Taryece Gause |
 | 384 | 329 | Trista Dumais |
 | 385 | 329 | Chummy Blockbuilder |
 | 386 | 327 | Danielle Simmons |
@@ -522,8 +522,8 @@
 | 514 | 248 | James Smith |
 | 515 | 248 | Maddy Petersen |
 | 516 | 248 | Dany Murillo |
-| 517 | 248 | Kimberly Mitchell |
-| 518 | 248 | Warren Marleau |
+| 517 | 248 | Warren Marleau |
+| 518 | 248 | Kimberly Mitchell |
 | 519 | 247 | Dolores Russworn |
 | 520 | 247 | Andrea Devery Beck |
 | 521 | 246 | Morgan Easter |
@@ -551,8 +551,8 @@
 | 543 | 236 | Angela Yantz |
 | 544 | 236 | Julio A Laracuente |
 | 545 | 236 | Dylan Thomason |
-| 546 | 235 | Daring Matchfit |
-| 547 | 235 | Jennifer Monroe Kelly |
+| 546 | 235 | Jennifer Monroe Kelly |
+| 547 | 235 | Daring Matchfit |
 | 548 | 234 | Jennifer Leigh |
 | 549 | 234 | Jaybee Nguyen |
 | 550 | 234 | KayLynn Ogden McClelland |

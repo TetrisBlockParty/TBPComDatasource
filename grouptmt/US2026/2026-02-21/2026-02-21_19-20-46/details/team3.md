@@ -266,8 +266,8 @@
 | 258 | 130 | Melissa Orth Hunter |
 | 259 | 129 | Juliana Dottore |
 | 260 | 129 | Samantha Lynn |
-| 261 | 128 | Jen Lewis |
-| 262 | 128 | MizzMonick Smith |
+| 261 | 128 | MizzMonick Smith |
+| 262 | 128 | Jen Lewis |
 | 263 | 127 | mzcatzy |
 | 264 | 126 | RickyG |
 | 265 | 126 | Pam Holt Powell |
@@ -357,7 +357,7 @@
 | 349 | 97 | Paula Little |
 | 350 | 96 | Christopher Woost |
 | 351 | 96 | D3NO |
-| 352 | 96 | Christopher Woost |
+| 352 | 96 | Oliver Neal II |
 | 353 | 95 | Brooke Bauer |
 | 354 | 94 | Bleu Sun Beams |
 | 355 | 94 | Nichole Greene |

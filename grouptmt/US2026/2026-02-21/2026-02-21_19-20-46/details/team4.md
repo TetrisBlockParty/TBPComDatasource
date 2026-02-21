@@ -30,8 +30,8 @@
 | 22 | 676 | Lucille Truesdale |
 | 23 | 647 | Robin Watters |
 | 24 | 636 | Rachel Anne |
-| 25 | 625 | GreenJeepGirl |
-| 26 | 625 | Kimyatta Cavin |
+| 25 | 625 | Kimyatta Cavin |
+| 26 | 625 | GreenJeepGirl |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
 | 29 | 590 | Valerie Roberts |
@@ -97,12 +97,12 @@
 | 89 | 210 | Damn Libra |
 | 90 | 205 | Sarah Neathery |
 | 91 | 204 | Brittney Orengo |
-| 92 | 202 | shar |
-| 93 | 202 | Monica Daley |
+| 92 | 202 | Monica Daley |
+| 93 | 202 | shar |
 | 94 | 200 | Holly Jolly |
-| 95 | 198 | Denise Carlson |
-| 96 | 198 | Dustee Craddock-Harrison |
-| 97 | 198 | Mike Solo |
+| 95 | 198 | Mike Solo |
+| 96 | 198 | Denise Carlson |
+| 97 | 198 | Dustee Craddock-Harrison |
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
