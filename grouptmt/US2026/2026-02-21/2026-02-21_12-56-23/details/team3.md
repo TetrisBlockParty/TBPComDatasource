@@ -35,8 +35,8 @@
 | 27 | 852 | cowboy25469 |
 | 28 | 821 | Jessica Ann |
 | 29 | 818 | Delilah belle |
-| 30 | 810 | Zippy Strikesnap |
-| 31 | 810 | Shane Wilson Jr. |
+| 30 | 810 | Shane Wilson Jr. |
+| 31 | 810 | Zippy Strikesnap |
 | 32 | 772 | Corie A. Brinson |
 | 33 | 733 | Chummy Shatterer |
 | 34 | 714 | Amber Jones |
@@ -129,8 +129,8 @@
 | 121 | 204 | Aaron Pitkin |
 | 122 | 202 | Twisty Brick LT |
 | 123 | 199 | joclisa |
-| 124 | 195 | Jenny Hrndz |
-| 125 | 195 | Nicha Hooker |
+| 124 | 195 | Nicha Hooker |
+| 125 | 195 | Jenny Hrndz |
 | 126 | 194 | glichmod |
 | 127 | 193 | Stephanie Burtin |
 | 128 | 193 | Clever Shiftsnap |
@@ -159,8 +159,8 @@
 | 151 | 164 | rosy |
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Stephanie Hill |
-| 154 | 160 | Tiffany Davie |
-| 155 | 160 | Mcathen |
+| 154 | 160 | Mcathen |
+| 155 | 160 | Tiffany Davie |
 | 156 | 159 | Jone |
 | 157 | 159 | Morgan Martinez |
 | 158 | 158 | Grams |
@@ -188,8 +188,8 @@
 | 180 | 140 | Gumbo |
 | 181 | 137 | Duane Bright |
 | 182 | 136 | Boldy Corner |
-| 183 | 135 | Connie Mohler-Fair |
-| 184 | 135 | Cheryl Hinch Tenbrook |
+| 183 | 135 | Cheryl Hinch Tenbrook |
+| 184 | 135 | Connie Mohler-Fair |
 | 185 | 134 | Emma |
 | 186 | 133 | Aerian Preston |
 | 187 | 133 | Joy Petroski |
@@ -200,8 +200,8 @@
 | 192 | 128 | David Bardo |
 | 193 | 127 | Marquita Sheard |
 | 194 | 126 | Brandon Givens |
-| 195 | 125 | Felicia Doxey |
-| 196 | 125 | Shimika Enay Wallace |
+| 195 | 125 | Shimika Enay Wallace |
+| 196 | 125 | Felicia Doxey |
 | 197 | 124 | Cesar Barraza |
 | 198 | 123 | Marci Mize Fandrich |
 | 199 | 123 | Terry Jo Jones |
@@ -223,8 +223,8 @@
 | 215 | 115 | Daring Builder |
 | 216 | 115 | Jennifer Alvey |
 | 217 | 113 | Valerie Gendron |
-| 218 | 113 | Brian Battjes |
-| 219 | 113 | Beppy |
+| 218 | 113 | Beppy |
+| 219 | 113 | Brian Battjes |
 | 220 | 111 | Stephanie Zahm |
 | 221 | 110 | Tye Stovall |
 | 222 | 110 | Danielle Weikel |
@@ -237,7 +237,7 @@
 | 229 | 108 | Rachel Napper |
 | 230 | 108 | LaTanya GeminiondaRise Johnson |
 | 231 | 107 | Sherry Ogden |
-| 232 | 107 | Nikki Pags |
+| 232 | 107 | France Vézina |
 | 233 | 106 | Noettín Kan Zasnemoore |
 | 234 | 105 | Emi |
 | 235 | 105 | Carol Cain Thurman |

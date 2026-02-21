@@ -154,8 +154,8 @@
 | 146 | 522 | Slip |
 | 147 | 520 | Kimberly Schall |
 | 148 | 517 | Debra Williams |
-| 149 | 515 | Real Ri |
-| 150 | 515 | Kaylee McCafferty |
+| 149 | 515 | Kaylee McCafferty |
+| 150 | 515 | Real Ri |
 | 151 | 514 | Ashley House |
 | 152 | 513 | Butta |
 | 153 | 511 | Ramone Armstrong |
@@ -188,8 +188,8 @@
 | 180 | 453 | Osun Anuket Esu |
 | 181 | 453 | Em Chen |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Cheech Dta |
-| 184 | 450 | Giggy Blocker |
+| 183 | 450 | Giggy Blocker |
+| 184 | 450 | Cheech Dta |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |

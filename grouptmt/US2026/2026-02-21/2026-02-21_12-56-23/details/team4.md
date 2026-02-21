@@ -82,14 +82,14 @@
 | 74 | 179 | Epic Curvetile |
 | 75 | 178 | Lori |
 | 76 | 175 | Dustee Craddock-Harrison |
-| 77 | 173 | Jeff Brian Gates |
-| 78 | 173 | Zethra Prenisha Rahming |
+| 77 | 173 | Zethra Prenisha Rahming |
+| 78 | 173 | Jeff Brian Gates |
 | 79 | 171 | Melvin Baird |
 | 80 | 170 | Girl |
 | 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
-| 83 | 165 | Courtney Cicoria |
-| 84 | 165 | Casey Grabner |
+| 83 | 165 | Casey Grabner |
+| 84 | 165 | Courtney Cicoria |
 | 85 | 164 | ThaEviLJeNiuZ |
 | 86 | 162 | Shauna Havard |
 | 87 | 160 | Carter Jones |
