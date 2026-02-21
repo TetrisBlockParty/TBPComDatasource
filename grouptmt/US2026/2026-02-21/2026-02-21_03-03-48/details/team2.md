@@ -176,8 +176,8 @@
 | 168 | 285 | June E Hanson |
 | 169 | 284 | Macy Williams |
 | 170 | 284 | Mamachelle Eisweirth |
-| 171 | 280 | Joseph Musick |
-| 172 | 280 | TF Dyer |
+| 171 | 280 | TF Dyer |
+| 172 | 280 | Joseph Musick |
 | 173 | 280 | Kimberly Schall |
 | 174 | 278 | Noel Tarmy |
 | 175 | 276 | Lindsey Leigh |
@@ -190,8 +190,8 @@
 | 182 | 270 | Lonne Emade |
 | 183 | 270 | Linda Pierce |
 | 184 | 268 | Vanessa Moreno |
-| 185 | 266 | Autumn Schaeffer |
-| 186 | 266 | Mighty Shatterfit |
+| 185 | 266 | Mighty Shatterfit |
+| 186 | 266 | Autumn Schaeffer |
 | 187 | 266 | Joyce Johnson Vaughn |
 | 188 | 265 | Wuntayk |
 | 189 | 264 | Ariel |
@@ -221,11 +221,11 @@
 | 213 | 244 | Elisheva Mizrachi |
 | 214 | 243 | Brandy Andre |
 | 215 | 241 | Sabrina Burton |
-| 216 | 240 | Angie Marie |
-| 217 | 240 | Adam Erikson |
+| 216 | 240 | Adam Erikson |
+| 217 | 240 | Angie Marie |
 | 218 | 239 | Tee Jaleesa |
-| 219 | 238 | Cheech Dta |
-| 220 | 238 | Cheery Matchzone |
+| 219 | 238 | Cheery Matchzone |
+| 220 | 238 | Cheech Dta |
 | 221 | 236 | Frisky Riserbuilder |
 | 222 | 235 | Chummy Blockbuilder |
 | 223 | 233 | Robin Kerby |

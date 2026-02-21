@@ -128,8 +128,8 @@
 | 120 | 77 | Teddy Alexander |
 | 121 | 76 | Kerry Lee Powell |
 | 122 | 76 | Archie Ware |
-| 123 | 75 | Fresno Beotoni |
-| 124 | 75 | Tyler L Hunt |
+| 123 | 75 | Tyler L Hunt |
+| 124 | 75 | Fresno Beotoni |
 | 125 | 74 | Eddie Dillon |
 | 126 | 74 | Grace Joanne Agnant |
 | 127 | 73 | Luciano Moreira |
@@ -171,9 +171,9 @@
 | 163 | 58 | Aaron Garnett |
 | 164 | 57 | Logan McFarland |
 | 165 | 57 | Felicia Lewis |
-| 166 | 57 | Logan McFarland |
-| 167 | 56 | Henry Lanier |
-| 168 | 56 | Kellie |
+| 166 | 57 | Lis |
+| 167 | 56 | Kellie |
+| 168 | 56 | Henry Lanier |
 | 169 | 55 | Howdi Duty |
 | 170 | 54 | MIKOZ |
 | 171 | 54 | .running. |
