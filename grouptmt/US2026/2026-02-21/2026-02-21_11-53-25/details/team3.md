@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -147,8 +147,8 @@
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
-| 142 | 163 | Karon Griffin |
-| 143 | 163 | Raven Dudley |
+| 142 | 163 | Raven Dudley |
+| 143 | 163 | Karon Griffin |
 | 144 | 162 | Rebel124 |
 | 145 | 162 | Stephanie Hill |
 | 146 | 159 | Jone |
@@ -189,8 +189,8 @@
 | 181 | 127 | Marquita Sheard |
 | 182 | 127 | Joy Petroski |
 | 183 | 126 | Brandon Givens |
-| 184 | 125 | Shimika Enay Wallace |
-| 185 | 125 | Felicia Doxey |
+| 184 | 125 | Felicia Doxey |
+| 185 | 125 | Shimika Enay Wallace |
 | 186 | 124 | Cesar Barraza |
 | 187 | 123 | Sarajane Lokan |
 | 188 | 123 | Terry Jo Jones |
@@ -266,9 +266,9 @@
 | 258 | 94 | Andrew Thorson |
 | 259 | 94 | Angie Harper |
 | 260 | 93 | Tiffany Ford |
-| 261 | 92 | Jennifer Caputo |
-| 262 | 92 | Ava Petito |
-| 263 | 92 | Trice Thomas |
+| 261 | 92 | Ava Petito |
+| 262 | 92 | Trice Thomas |
+| 263 | 92 | Jennifer Caputo |
 | 264 | 92 | Jackie-Lynne Goertzen |
 | 265 | 91 | Martin Bernier |
 | 266 | 90 | Alexis Ford |

@@ -53,8 +53,8 @@
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 257 | Sarah Roberts |
-| 48 | 256 | Tipsy Column |
-| 49 | 256 | Robert Benito |
+| 48 | 256 | Robert Benito |
+| 49 | 256 | Tipsy Column |
 | 50 | 253 | Bhelle Sumile |
 | 51 | 244 | Franswa |
 | 52 | 241 | Kristen Roles Robben |

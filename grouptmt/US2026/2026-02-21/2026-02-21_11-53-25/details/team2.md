@@ -178,11 +178,11 @@
 | 170 | 460 | Cody Smith-Candelaria |
 | 171 | 456 | Drwatson187 |
 | 172 | 454 | Casey Schumacher |
-| 173 | 453 | Mischelle Clay |
-| 174 | 453 | Osun Anuket Esu |
+| 173 | 453 | Osun Anuket Esu |
+| 174 | 453 | Mischelle Clay |
 | 175 | 452 | Alezandra Smith |
-| 176 | 450 | Giggy Blocker |
-| 177 | 450 | Cheech Dta |
+| 176 | 450 | Cheech Dta |
+| 177 | 450 | Giggy Blocker |
 | 178 | 448 | Jojo Momma |
 | 179 | 442 | Daphne Jordan |
 | 180 | 442 | Leah |
@@ -241,8 +241,8 @@
 | 233 | 345 | Rhianna DiLorenzo |
 | 234 | 345 | Brenda Messer |
 | 235 | 344 | Julie Kresal |
-| 236 | 344 | Glenn Cobbins |
-| 237 | 344 | Christina Lewis-Vickers |
+| 236 | 344 | Christina Lewis-Vickers |
+| 237 | 344 | Glenn Cobbins |
 | 238 | 343 | F-X |
 | 239 | 334 | Moni Foxe |
 | 240 | 334 | Felicia Lynn |
@@ -250,8 +250,8 @@
 | 242 | 333 | Brittney Jean |
 | 243 | 332 | TF Dyer |
 | 244 | 331 | Shelley Thornburgh Wright |
-| 245 | 330 | Victoria Moore-Smith |
-| 246 | 330 | Taryece Gause |
+| 245 | 330 | Taryece Gause |
+| 246 | 330 | Victoria Moore-Smith |
 | 247 | 329 | Christina Ashley |
 | 248 | 328 | Marie Boyd Faulk |
 | 249 | 327 | Danielle Simmons |
@@ -375,8 +375,8 @@
 | 367 | 236 | Julio A Laracuente |
 | 368 | 236 | Niceday |
 | 369 | 235 | Kimberly Mitchell |
-| 370 | 234 | Jennifer Leigh |
-| 371 | 234 | Manny Trindade |
+| 370 | 234 | Manny Trindade |
+| 371 | 234 | Jennifer Leigh |
 | 372 | 234 | Jaybee Nguyen |
 | 373 | 233 | Robin Kerby |
 | 374 | 233 | Jumpy Gridclear |
@@ -425,8 +425,8 @@
 | 417 | 203 | Gary Stash |
 | 418 | 202 | Layna Lyons |
 | 419 | 201 | Peppy Snapfall |
-| 420 | 200 | Sarah Ridenour |
-| 421 | 200 | LaWanda Powell |
+| 420 | 200 | LaWanda Powell |
+| 421 | 200 | Sarah Ridenour |
 | 422 | 199 | Fi Ne |
 | 423 | 199 | Alyssa Nadine Medelez |
 | 424 | 199 | Jenny Castro |
@@ -469,8 +469,8 @@
 | 461 | 182 | Donna M Carter |
 | 462 | 181 | Julay |
 | 463 | 181 | Wacky Cascade |
-| 464 | 180 | Peter Palestino |
-| 465 | 180 | Jackie Lucas |
+| 464 | 180 | Jackie Lucas |
+| 465 | 180 | Peter Palestino |
 | 466 | 180 | Biggest thing |
 | 467 | 179 | Bette Prieto |
 | 468 | 179 | Cat |
@@ -499,8 +499,8 @@
 | 491 | 172 | Twisty Tetriblast |
 | 492 | 171 | William Hunt |
 | 493 | 171 | Cappin You |
-| 494 | 170 | Darlene Bowman |
-| 495 | 170 | Dedra Steward |
+| 494 | 170 | Dedra Steward |
+| 495 | 170 | Darlene Bowman |
 | 496 | 170 | BTA |
 | 497 | 170 | Kenya Felix |
 | 498 | 169 | Eddie Perez |
@@ -637,7 +637,7 @@
 | 629 | 137 | Jannan Haimour |
 | 630 | 136 | Brandy |
 | 631 | 136 | Ericka Marie Smith |
-| 632 | 136 | Brandy |
+| 632 | 136 | Tamara Slaten |
 | 633 | 136 | Britney M. |
 | 634 | 136 | Lazy Builderfit |
 | 635 | 136 | Dolores Russworn |
@@ -657,7 +657,7 @@
 | 649 | 134 | Swanky Columnbuilder |
 | 650 | 134 | Leebo Slice |
 | 651 | 134 | Sarah Massey |
-| 652 | 134 | Leebo Slice |
+| 652 | 134 | Christina Jones |
 | 653 | 134 | Quinn |
 | 654 | 133 | Candy Pitts |
 | 655 | 133 | JinxxedMozzerella |
@@ -666,8 +666,8 @@
 | 658 | 133 | Gina Caulder |
 | 659 | 133 | candy |
 | 660 | 133 | Ellie Jonas |
-| 661 | 133 | Rae Rae |
-| 662 | 133 | Epic Stackzone |
+| 661 | 133 | Epic Stackzone |
+| 662 | 133 | Rae Rae |
 | 663 | 132 | Mr. Street Stack |
 | 664 | 132 | Samie Dayle |
 | 665 | 132 | Chilly Rollblock |
@@ -694,8 +694,8 @@
 | 686 | 129 | Jean FU Jagielski |
 | 687 | 129 | Jordyn Morrison |
 | 688 | 129 | Kara Jennifer |
-| 689 | 128 | Mine |
-| 690 | 128 | Russell J Gindlesperger II |
+| 689 | 128 | Russell J Gindlesperger II |
+| 690 | 128 | Mine |
 | 691 | 128 | Carrie Pike |
 | 692 | 128 | Amanda Diegel |
 | 693 | 128 | Adelina Roth |
@@ -721,8 +721,8 @@
 | 713 | 125 | Goofy Blockfall |
 | 714 | 125 | Binyah-Binyah |
 | 715 | 125 | Jamie Frank Karolyi |
-| 716 | 125 | NickyBrooks |
-| 717 | 125 | Tina Marie |
+| 716 | 125 | Tina Marie |
+| 717 | 125 | NickyBrooks |
 | 718 | 125 | Martina Gabrielle LaPolla |
 | 719 | 125 | Connor Gaughran |
 | 720 | 124 | Witty Piecebuilder |

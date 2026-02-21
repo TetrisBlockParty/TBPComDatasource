@@ -85,8 +85,8 @@
 | 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
-| 80 | 165 | Casey Grabner |
-| 81 | 165 | Courtney Cicoria |
+| 80 | 165 | Courtney Cicoria |
+| 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 162 | Andy Cabral |
 | 84 | 160 | Carter Jones |
@@ -135,8 +135,8 @@
 | 127 | 118 | Leslie Nicole |
 | 128 | 116 | Stephme310 |
 | 129 | 116 | Diana Houts |
-| 130 | 115 | Jayk |
-| 131 | 115 | Ultramarine |
+| 130 | 115 | Ultramarine |
+| 131 | 115 | Jayk |
 | 132 | 113 | Andria Lynn |
 | 133 | 112 | Bryan Hodgins |
 | 134 | 112 | Austin Owens |
@@ -167,8 +167,8 @@
 | 159 | 97 | Rafael Valentin |
 | 160 | 97 | Kristin MacDonald |
 | 161 | 97 | Brandi Durig |
-| 162 | 96 | Zappy Snaplink |
-| 163 | 96 | Marcus TheeyoungWoe Gilmore |
+| 162 | 96 | Marcus TheeyoungWoe Gilmore |
+| 163 | 96 | Zappy Snaplink |
 | 164 | 95 | Meagan Nicole |
 | 165 | 95 | Victoria Faniel |
 | 166 | 94 | Chastity Mitchell |
