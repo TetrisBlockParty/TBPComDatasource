@@ -154,12 +154,12 @@
 | 146 | 98 | Chaz |
 | 147 | 97 | Brandi Durig |
 | 148 | 96 | Zappy Snaplink |
-| 149 | 95 | Victoria Faniel |
-| 150 | 95 | Meagan Nicole |
+| 149 | 95 | Meagan Nicole |
+| 150 | 95 | Victoria Faniel |
 | 151 | 93 | Zesty Twistbuilder |
 | 152 | 92 | Kristin MacDonald |
-| 153 | 90 | Judy Cox |
-| 154 | 90 | No Strings Attached Ra |
+| 153 | 90 | No Strings Attached Ra |
+| 154 | 90 | Judy Cox |
 | 155 | 89 | mike |
 | 156 | 89 | shark tato |
 | 157 | 89 | Jeremy Steines |
@@ -203,8 +203,8 @@
 | 195 | 77 | Chris Alexinas |
 | 196 | 76 | Madison Sweere |
 | 197 | 76 | Bethany Ison |
-| 198 | 75 | Rosemary Foster |
-| 199 | 75 | Christina Black |
+| 198 | 75 | Christina Black |
+| 199 | 75 | Rosemary Foster |
 | 200 | 74 | Bradley Reeves |
 | 201 | 74 | Krs |
 | 202 | 73 | Staci Robinson Jones |
@@ -239,8 +239,8 @@
 | 231 | 65 | Lee Silpe |
 | 232 | 65 | Asher |
 | 233 | 65 | Angela Geist Jusinski |
-| 234 | 64 | rebel4lyfe |
-| 235 | 64 | Joseph Edmonson |
+| 234 | 64 | Joseph Edmonson |
+| 235 | 64 | rebel4lyfe |
 | 236 | 63 | Gilles Lanctot |
 | 237 | 63 | Cheery Risebuilder |
 | 238 | 63 | Cristy Duerksen |
@@ -378,8 +378,8 @@
 | 370 | 41 | Amy Suckarieh |
 | 371 | 40 | Bussy Bay |
 | 372 | 40 | Tabi Williams |
-| 373 | 40 | Bussy Bay |
-| 374 | 40 | KanVus |
+| 373 | 40 | KanVus |
+| 374 | 40 | slurp |
 | 375 | 40 | Alexis Kelly |
 | 376 | 39 | Meli  Jackson |
 | 377 | 39 | Saucy Stackbuilder |

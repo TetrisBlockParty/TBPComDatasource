@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 637 | Chummy Shatterer |
@@ -40,12 +40,12 @@
 | 32 | 612 | Danielle Cutler |
 | 33 | 608 | River |
 | 34 | 598 | Jennifer Willis |
-| 35 | 587 | Danielle Becker |
-| 36 | 587 | Suzieq |
+| 35 | 587 | Suzieq |
+| 36 | 587 | Danielle Becker |
 | 37 | 568 | Shonna Roberts |
 | 38 | 567 | Amanda L Baker |
-| 39 | 546 | Snappy Glidepiece |
-| 40 | 546 | Dolores Falco |
+| 39 | 546 | Dolores Falco |
+| 40 | 546 | Snappy Glidepiece |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
@@ -165,7 +165,7 @@
 | 157 | 135 | Cheryl Hinch Tenbrook |
 | 158 | 134 | DanceLuvLaugh |
 | 159 | 134 | AlsoJess |
-| 160 | 134 | DanceLuvLaugh |
+| 160 | 134 | Emma |
 | 161 | 131 | Jl |
 | 162 | 129 | Stephanie Burtin |
 | 163 | 127 | Connie Mohler-Fair |
@@ -197,8 +197,8 @@
 | 189 | 115 | Hoppy Buildout |
 | 190 | 114 | Jessica Bechler |
 | 191 | 114 | Nicholas Roddy |
-| 192 | 113 | Brian Battjes |
-| 193 | 113 | Valerie Gendron |
+| 192 | 113 | Valerie Gendron |
+| 193 | 113 | Brian Battjes |
 | 194 | 112 | Jessica Ann |
 | 195 | 110 | Tye Stovall |
 | 196 | 110 | Stella |

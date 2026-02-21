@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 4259 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3243 | Trisha Gill |
@@ -267,8 +267,8 @@
 | 259 | 280 | Shorty |
 | 260 | 278 | Noel Tarmy |
 | 261 | 276 | Lindsey Leigh |
-| 262 | 276 | SwampRebel |
-| 263 | 276 | Vonceial Boone |
+| 262 | 276 | Vonceial Boone |
+| 263 | 276 | SwampRebel |
 | 264 | 275 | Cheeky Brickmatch |
 | 265 | 275 | Ann Matzkanin |
 | 266 | 275 | Shiny Rollzone |
@@ -504,8 +504,8 @@
 | 496 | 156 | Nuggets |
 | 497 | 156 | Deanna Morton |
 | 498 | 156 | RetroLemur |
-| 499 | 155 | Chelle |
-| 500 | 155 | Monarca26 |
+| 499 | 155 | Monarca26 |
+| 500 | 155 | Chelle |
 | 501 | 155 | Angela Murgia-Owen |
 | 502 | 154 | Cini |
 | 503 | 154 | Tiffney Wroten |
