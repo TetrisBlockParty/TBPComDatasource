@@ -109,12 +109,12 @@
 | 101 | 367 | Nerdy Riseclear |
 | 102 | 366 | Speedy Bridger |
 | 103 | 356 | Adrian Marcel Pate |
-| 104 | 350 | Tiff Vs Tiffany |
-| 105 | 350 | Shannon Matthew Byers |
+| 104 | 350 | Shannon Matthew Byers |
+| 105 | 350 | Tiff Vs Tiffany |
 | 106 | 348 | CeceGeGe |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Ashley Raines |
-| 109 | 323 | Sherry Ogden |
+| 108 | 323 | Sherry Ogden |
+| 109 | 323 | Ashley Raines |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
@@ -292,8 +292,8 @@
 | 284 | 119 | BugMansMom |
 | 285 | 118 | Damian Reid |
 | 286 | 118 | Fancy Curver |
-| 287 | 117 | Dee Pratt |
-| 288 | 117 | Angela Scott |
+| 287 | 117 | Angela Scott |
+| 288 | 117 | Dee Pratt |
 | 289 | 117 | Rania Zaqout |
 | 290 | 116 | Denise Marie |
 | 291 | 115 | Stella |

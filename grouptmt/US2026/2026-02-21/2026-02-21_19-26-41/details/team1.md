@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Lawrence Belanger |
-| 36 | 510 | Colena Davenport |
+| 35 | 510 | Colena Davenport |
+| 36 | 510 | Lawrence Belanger |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -78,8 +78,8 @@
 | 70 | 281 | Patrick Luckenbill |
 | 71 | 277 | Timothy Dew |
 | 72 | 274 | Theo Pinnow |
-| 73 | 270 | Sarah Roberts |
-| 74 | 270 | Jennifer ManWarren |
+| 73 | 270 | Jennifer ManWarren |
+| 74 | 270 | Sarah Roberts |
 | 75 | 265 | Dee Perry |
 | 76 | 264 | Anaid Sanchez |
 | 77 | 263 | Bhelle Sumile |
