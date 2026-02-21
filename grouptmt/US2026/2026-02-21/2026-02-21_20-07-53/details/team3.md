@@ -165,8 +165,8 @@
 | 157 | 218 | LaNette Morgan |
 | 158 | 217 | Jess Bissett |
 | 159 | 216 | Aaron Pitkin |
-| 160 | 214 | Jenny Hrndz |
-| 161 | 214 | Amy Fuller Heaton |
+| 160 | 214 | Amy Fuller Heaton |
+| 161 | 214 | Jenny Hrndz |
 | 162 | 212 | Krystal Gerstberger |
 | 163 | 211 | Katrina Turner |
 | 164 | 207 | Chris Bell |
@@ -212,15 +212,15 @@
 | 204 | 168 | MsBee |
 | 205 | 167 | Grams |
 | 206 | 167 | Raven Dudley |
-| 207 | 166 | Kelly Ann Child |
+| 207 | 166 | Betty Rosas |
 | 208 | 166 | Beth Ingham |
-| 209 | 166 | Betty Rosas |
+| 209 | 166 | Kelly Ann Child |
 | 210 | 165 | Kali Kelz Williams |
 | 211 | 163 | Christine Trester |
 | 212 | 163 | Stephanie Hill |
 | 213 | 162 | Stephanie Whitefield |
-| 214 | 161 | BŘŰŤİÇŨŚ |
-| 215 | 161 | Irene Arreguin |
+| 214 | 161 | Irene Arreguin |
+| 215 | 161 | BŘŰŤİÇŨŚ |
 | 216 | 160 | Tiffany Davie |
 | 217 | 159 | Jone |
 | 218 | 157 | Patricia Gadsden |

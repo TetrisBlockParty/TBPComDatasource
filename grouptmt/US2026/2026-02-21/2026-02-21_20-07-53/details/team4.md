@@ -153,9 +153,9 @@
 | 145 | 145 | Amy Suckarieh |
 | 146 | 145 | Daria Rycewicz |
 | 147 | 144 | Mr. Party |
-| 148 | 141 | Kathy Allen |
-| 149 | 141 | Malakai Darien Fox |
-| 150 | 141 | ĥuf |
+| 148 | 141 | Malakai Darien Fox |
+| 149 | 141 | ĥuf |
+| 150 | 141 | Kathy Allen |
 | 151 | 141 | Marcus Todd |
 | 152 | 140 | Shannon Ferrari |
 | 153 | 140 | John Brunetti |
@@ -287,9 +287,9 @@
 | 279 | 85 | Chirpy Slammer |
 | 280 | 85 | Mimi |
 | 281 | 84 | Tyler Terrific |
-| 282 | 84 | Jen Hallin |
-| 283 | 84 | Jennifer Renee |
-| 284 | 84 | Ruben Wheeler |
+| 282 | 84 | Ruben Wheeler |
+| 283 | 84 | Jen Hallin |
+| 284 | 84 | Jennifer Renee |
 | 285 | 83 | Daresha Fair |
 | 286 | 83 | Abigail Murphy |
 | 287 | 82 | Kametsunoyaiba |
