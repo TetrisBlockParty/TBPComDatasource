@@ -109,14 +109,14 @@
 | 101 | 307 | Peggi Charon |
 | 102 | 307 | Blocked |
 | 103 | 306 | Speedy Bridger |
-| 104 | 300 | Tessina Dewey-Mancino |
-| 105 | 300 | Sherika C. McDaniels |
+| 104 | 300 | Sherika C. McDaniels |
+| 105 | 300 | Tessina Dewey-Mancino |
 | 106 | 293 | Poppy Splitter |
 | 107 | 292 | Joey Banks |
 | 108 | 267 | Rufus Lincoln |
 | 109 | 264 | Tiff Vs Tiffany |
-| 110 | 263 | mjl574 |
-| 111 | 263 | Angeline Joseph |
+| 110 | 263 | Angeline Joseph |
+| 111 | 263 | mjl574 |
 | 112 | 262 | Joe-Maggie Mathews |
 | 113 | 259 | opf |
 | 114 | 256 | ren |
@@ -187,8 +187,8 @@
 | 179 | 163 | Stephanie Hill |
 | 180 | 163 | Sashay Tapae Simpson |
 | 181 | 162 | Stephanie Whitefield |
-| 182 | 161 | Nikki Pags |
-| 183 | 161 | BŘŰŤİÇŨŚ |
+| 182 | 161 | BŘŰŤİÇŨŚ |
+| 183 | 161 | Nikki Pags |
 | 184 | 160 | Tiffany Davie |
 | 185 | 159 | Jone |
 | 186 | 158 | Grams |
@@ -261,8 +261,8 @@
 | 253 | 111 | Jason-Ashley Ludlow |
 | 254 | 111 | France Vézina |
 | 255 | 110 | Carol Cain Thurman |
-| 256 | 110 | Danielle Weikel |
-| 257 | 110 | Tye Stovall |
+| 256 | 110 | Tye Stovall |
+| 257 | 110 | Danielle Weikel |
 | 258 | 109 | mommablock |
 | 259 | 109 | Diana Ibarra |
 | 260 | 109 | Fredd Thomas |
@@ -310,8 +310,8 @@
 | 302 | 98 | Andrew Thorson |
 | 303 | 98 | Jocelyne Baca |
 | 304 | 97 | Paula Little |
-| 305 | 96 | D3NO |
-| 306 | 96 | Christopher Woost |
+| 305 | 96 | Christopher Woost |
+| 306 | 96 | D3NO |
 | 307 | 95 | Brooke Bauer |
 | 308 | 94 | Tracey Cox |
 | 309 | 94 | Rania Zaqout |

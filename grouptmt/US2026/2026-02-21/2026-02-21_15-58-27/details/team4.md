@@ -60,8 +60,8 @@
 | 52 | 326 | Carlton Unfiltered |
 | 53 | 308 | Jen Allison |
 | 54 | 306 | Lisa Davis |
-| 55 | 300 | David Lay |
-| 56 | 300 | Jason Hart |
+| 55 | 300 | Jason Hart |
+| 56 | 300 | David Lay |
 | 57 | 299 | Livvy |
 | 58 | 295 | Latisha Davis |
 | 59 | 291 | Leslie Thomas |
@@ -345,7 +345,7 @@
 | 337 | 58 | Sandra Safford |
 | 338 | 58 | Marco |
 | 339 | 57 | Amy Sanford |
-| 340 | 57 | David V. Bowers |
+| 340 | 57 | Stephanie Jones |
 | 341 | 57 | Susan Williams |
 | 342 | 57 | Jackie Clark |
 | 343 | 57 | David V. Bowers |

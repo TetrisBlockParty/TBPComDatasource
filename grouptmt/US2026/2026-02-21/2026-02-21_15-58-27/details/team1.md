@@ -61,8 +61,8 @@
 | 53 | 278 | Robert Benito |
 | 54 | 278 | Carrie Beck Geartz |
 | 55 | 277 | Shauna Loe |
-| 56 | 274 | Sweet Baker |
-| 57 | 274 | Theo Pinnow |
+| 56 | 274 | Theo Pinnow |
+| 57 | 274 | Sweet Baker |
 | 58 | 272 | Adam Byrd |
 | 59 | 261 | Bhelle Sumile |
 | 60 | 257 | Sarah Roberts |
@@ -73,13 +73,13 @@
 | 65 | 244 | Tdub |
 | 66 | 241 | Patrick Luckenbill |
 | 67 | 237 | Elaine Elaine |
-| 68 | 226 | Carolyn Smith |
-| 69 | 226 | Sharon Reynolds |
+| 68 | 226 | Sharon Reynolds |
+| 69 | 226 | Carolyn Smith |
 | 70 | 222 | Kristen Gideon |
 | 71 | 217 | Deanna L Hermanson |
 | 72 | 216 | Dee Perry |
-| 73 | 212 | Jaimie Lynn |
-| 74 | 212 | Mandyy Rae |
+| 73 | 212 | Mandyy Rae |
+| 74 | 212 | Jaimie Lynn |
 | 75 | 211 | Marianita Garcia |
 | 76 | 210 | Ly Phethmany |
 | 77 | 210 | Billie Dawn Sparks |
@@ -153,8 +153,8 @@
 | 145 | 129 | Dino |
 | 146 | 128 | Barry Mac'Ockner |
 | 147 | 128 | lil mickey |
-| 148 | 127 | Brave Wrecker |
-| 149 | 127 | Aimee Horton |
+| 148 | 127 | Aimee Horton |
+| 149 | 127 | Brave Wrecker |
 | 150 | 124 | Cartier |
 | 151 | 122 | Melissa Lemmon |
 | 152 | 121 | Bouncy Grid |
