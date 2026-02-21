@@ -218,7 +218,7 @@
 | 210 | 73 | bloat princess |
 | 211 | 73 | Lynn Marie |
 | 212 | 72 | Robin Getchel |
-| 213 | 71 | Marcela Johnson |
+| 213 | 71 | Lindsey Gonzalez |
 | 214 | 71 | Ericca Eldridge |
 | 215 | 71 | Marcela Johnson |
 | 216 | 70 | Richard-April Kice |

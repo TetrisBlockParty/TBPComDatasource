@@ -31,8 +31,8 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Shane Wilson Jr. |
-| 27 | 810 | Zippy Strikesnap |
+| 26 | 810 | Zippy Strikesnap |
+| 27 | 810 | Shane Wilson Jr. |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 733 | Chummy Shatterer |
 | 30 | 714 | Amber Jones |
@@ -123,8 +123,8 @@
 | 115 | 202 | Shannon Matthew Byers |
 | 116 | 200 | Twisty Brick LT |
 | 117 | 199 | joclisa |
-| 118 | 195 | Nicha Hooker |
-| 119 | 195 | Jenny Hrndz |
+| 118 | 195 | Jenny Hrndz |
+| 119 | 195 | Nicha Hooker |
 | 120 | 194 | glichmod |
 | 121 | 193 | Clever Shiftsnap |
 | 122 | 192 | Chasity |
@@ -208,8 +208,8 @@
 | 200 | 109 | Fredd Thomas |
 | 201 | 109 | Brave Brickster |
 | 202 | 109 | Diana Ibarra |
-| 203 | 108 | Rachel Napper |
-| 204 | 108 | LaTanya GeminiondaRise Johnson |
+| 203 | 108 | LaTanya GeminiondaRise Johnson |
+| 204 | 108 | Rachel Napper |
 | 205 | 107 | Sherry Ogden |
 | 206 | 106 | Eon Harris |
 | 207 | 106 | Desiree Gold |
@@ -254,9 +254,9 @@
 | 246 | 95 | MizzMonick Smith |
 | 247 | 94 | Angie Harper |
 | 248 | 93 | Tiffany Ford |
-| 249 | 92 | Trice Thomas |
-| 250 | 92 | Ava Petito |
-| 251 | 92 | Jennifer Caputo |
+| 249 | 92 | Jennifer Caputo |
+| 250 | 92 | Trice Thomas |
+| 251 | 92 | Ava Petito |
 | 252 | 91 | Martin Bernier |
 | 253 | 91 | LaNette Morgan |
 | 254 | 90 | Snazzy Brickzone |

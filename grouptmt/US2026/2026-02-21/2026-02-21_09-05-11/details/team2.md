@@ -137,8 +137,8 @@
 | 129 | 527 | Stacy Stickle |
 | 130 | 526 | April Dawn Gussler |
 | 131 | 525 | Tommy Tha Boss Gunz |
-| 132 | 525 | Stephen Stephen |
-| 133 | 525 | Desiree Anderson |
+| 132 | 525 | Desiree Anderson |
+| 133 | 525 | Stephen Stephen |
 | 134 | 522 | Slip |
 | 135 | 520 | Kimberly Schall |
 | 136 | 519 | Maria Escobar |
@@ -198,8 +198,8 @@
 | 190 | 380 | Joshua Mandel |
 | 191 | 380 | Calandra Shaya Robinson |
 | 192 | 378 | Cody Nishimura |
-| 193 | 377 | Roy Salyer |
-| 194 | 377 | Liberty |
+| 193 | 377 | Liberty |
+| 194 | 377 | Roy Salyer |
 | 195 | 364 | Shinette Dobson |
 | 196 | 363 | William Meussner |
 | 197 | 359 | Brainy Smurf |
@@ -249,8 +249,8 @@
 | 241 | 305 | Libby Hicks |
 | 242 | 303 | Crystal Greene |
 | 243 | 301 | Claire |
-| 244 | 299 | Christy Krissie |
-| 245 | 299 | Deborah Miller |
+| 244 | 299 | Deborah Miller |
+| 245 | 299 | Christy Krissie |
 | 246 | 297 | Brenda Utphall |
 | 247 | 296 | Amber Gray |
 | 248 | 296 | Jennifer Casey-Kay |
@@ -691,7 +691,7 @@
 | 683 | 120 | Samie Dayle |
 | 684 | 120 | Layla LS |
 | 685 | 120 | Courtney Burcham |
-| 686 | 119 | Perry Hubert |
+| 686 | 119 | Mary Boss |
 | 687 | 119 | Lydia Greenman |
 | 688 | 119 | Dee |
 | 689 | 119 | Perry Hubert |
@@ -1858,9 +1858,9 @@
 | 1850 | 48 | Dapper Puzzle |
 | 1851 | 48 | Jessica Larkin |
 | 1852 | 48 | Frothy Rollzone |
-| 1853 | 47 | Victoria Mullis |
-| 1854 | 47 | Optimusjane |
-| 1855 | 47 | Jessica Wade |
+| 1853 | 47 | Optimusjane |
+| 1854 | 47 | Jessica Wade |
+| 1855 | 47 | Victoria Mullis |
 | 1856 | 47 | Matt Hughes |
 | 1857 | 47 | Spicy Gridmatch |
 | 1858 | 47 | Cynthia Arhontis |
