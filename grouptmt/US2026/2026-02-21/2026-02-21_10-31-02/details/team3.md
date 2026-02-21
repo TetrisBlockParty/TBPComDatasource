@@ -34,8 +34,8 @@
 | 26 | 842 | Rachel Bowers |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -77,8 +77,8 @@
 | 69 | 353 | Stephanie Woods |
 | 70 | 345 | Christine Niles |
 | 71 | 343 | Silly Twist |
-| 72 | 342 | Trezure Gonzalez |
-| 73 | 342 | Annie Déè |
+| 72 | 342 | Annie Déè |
+| 73 | 342 | Trezure Gonzalez |
 | 74 | 339 | Mendoza Lee Christy |
 | 75 | 338 | Danielle Rhoades |
 | 76 | 332 | Chauntee Alfrey-Cardinale |
@@ -107,8 +107,8 @@
 | 99 | 232 | Poppy Splitter |
 | 100 | 229 | Angeline Joseph |
 | 101 | 225 | Speedy Bridger |
-| 102 | 224 | Mykal Burton |
-| 103 | 224 | Judi Dobson |
+| 102 | 224 | Judi Dobson |
+| 103 | 224 | Mykal Burton |
 | 104 | 223 | Jeana Gilbert |
 | 105 | 222 | Jimmie Clemons |
 | 106 | 218 | mjl574 |
@@ -169,11 +169,11 @@
 | 161 | 146 | Denita Mungro |
 | 162 | 145 | Bryan Byrd |
 | 163 | 142 | Erica Anderson |
-| 164 | 140 | Jay Horn |
-| 165 | 140 | Gumbo |
+| 164 | 140 | Gumbo |
+| 165 | 140 | Jay Horn |
 | 166 | 135 | Cheryl Hinch Tenbrook |
-| 167 | 134 | Emma |
-| 168 | 134 | DanceLuvLaugh |
+| 167 | 134 | DanceLuvLaugh |
+| 168 | 134 | Emma |
 | 169 | 131 | Jl |
 | 170 | 129 | Logan Naccarato |
 | 171 | 129 | Lesley Perez |

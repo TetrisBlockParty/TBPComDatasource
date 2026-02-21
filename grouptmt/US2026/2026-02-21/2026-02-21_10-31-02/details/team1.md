@@ -59,8 +59,8 @@
 | 51 | 240 | Rachael |
 | 52 | 225 | Elaine Elaine |
 | 53 | 217 | Deanna L Hermanson |
-| 54 | 212 | Tdub |
-| 55 | 212 | Jaimie Lynn |
+| 54 | 212 | Jaimie Lynn |
+| 55 | 212 | Tdub |
 | 56 | 208 | Carrie Beck Geartz |
 | 57 | 205 | Trippy Redd |
 | 58 | 204 | Ly Phethmany |
@@ -70,8 +70,8 @@
 | 62 | 201 | Anaid Sanchez |
 | 63 | 201 | Ananda Mendez |
 | 64 | 200 | Lexuriuos Lifestlye |
-| 65 | 198 | Billie Dawn Sparks |
-| 66 | 198 | Happy Snapbuild |
+| 65 | 198 | Happy Snapbuild |
+| 66 | 198 | Billie Dawn Sparks |
 | 67 | 197 | Cynthia Bradley |
 | 68 | 195 | Mandyy Rae |
 | 69 | 194 | Giggly Builderline |
@@ -83,8 +83,8 @@
 | 75 | 190 | Sweetts |
 | 76 | 189 | Happy Basegrid |
 | 77 | 180 | Erez Yosef |
-| 78 | 173 | Frothy Pattern |
-| 79 | 173 | june october |
+| 78 | 173 | june october |
+| 79 | 173 | Frothy Pattern |
 | 80 | 171 | Jennifer Olewnik Soborowski |
 | 81 | 166 | Rico Rico |
 | 82 | 165 | GATOR |
@@ -161,8 +161,8 @@
 | 153 | 98 | Loony Fitzone |
 | 154 | 98 | Witty Builderfit |
 | 155 | 96 | Melissa Lemmon |
-| 156 | 96 | Barrbaric |
-| 157 | 96 | Nery Martinez |
+| 156 | 96 | Nery Martinez |
+| 157 | 96 | Barrbaric |
 | 158 | 94 | Luciano Moreira |
 | 159 | 93 | Cody Gates |
 | 160 | 92 | Timothy Dew |

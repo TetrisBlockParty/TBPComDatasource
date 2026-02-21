@@ -147,8 +147,8 @@
 | 139 | 520 | Kimberly Schall |
 | 140 | 519 | Maria Escobar |
 | 141 | 517 | Debra Williams |
-| 142 | 515 | Real Ri |
-| 143 | 515 | Kaylee McCafferty |
+| 142 | 515 | Kaylee McCafferty |
+| 143 | 515 | Real Ri |
 | 144 | 513 | Butta |
 | 145 | 511 | Dizzy Zone |
 | 146 | 510 | Ashley House |
@@ -326,8 +326,8 @@
 | 318 | 256 | CC |
 | 319 | 256 | Tee Jaleesa |
 | 320 | 255 | Santana Miyagi |
-| 321 | 254 | Rose Fx |
-| 322 | 254 | Elizabeth Diraffaele |
+| 321 | 254 | Elizabeth Diraffaele |
+| 322 | 254 | Rose Fx |
 | 323 | 254 | Julie Hamilton |
 | 324 | 253 | Tansaria Couch-Butler |
 | 325 | 252 | Matt Johnson |
@@ -417,8 +417,8 @@
 | 409 | 198 | Angie Bolton Workman |
 | 410 | 198 | Alyssa Dean |
 | 411 | 197 | Alyssa Nadine Medelez |
-| 412 | 196 | Cass Shirley |
-| 413 | 196 | Alexandra Reese |
+| 412 | 196 | Alexandra Reese |
+| 413 | 196 | Cass Shirley |
 | 414 | 196 | Besma Ao |
 | 415 | 195 | Emily Lyric Converse |
 | 416 | 195 | Snappy Shatterfit |
@@ -475,15 +475,15 @@
 | 467 | 174 | Veronica Guerra |
 | 468 | 174 | Jason Garnatz |
 | 469 | 173 | Ocean-Brianna McGregor |
-| 470 | 173 | Robin |
-| 471 | 173 | kippykay |
+| 470 | 173 | kippykay |
+| 471 | 173 | Robin |
 | 472 | 171 | Cappin You |
 | 473 | 171 | William Hunt |
 | 474 | 170 | Kenya Felix |
-| 475 | 170 | Dedra Steward |
-| 476 | 170 | Darlene Bowman |
-| 477 | 169 | Heather Schelkopf |
-| 478 | 169 | Eddie Perez |
+| 475 | 170 | Darlene Bowman |
+| 476 | 170 | Dedra Steward |
+| 477 | 169 | Eddie Perez |
+| 478 | 169 | Heather Schelkopf |
 | 479 | 168 | Phil J. Grombliniak |
 | 480 | 168 | Kati Russeau |
 | 481 | 167 | mshir |
@@ -526,12 +526,12 @@
 | 518 | 157 | Klee |
 | 519 | 157 | Twisty Tetriblast |
 | 520 | 156 | RetroLemur |
-| 521 | 156 | Deanna Morton |
-| 522 | 156 | Nuggets |
+| 521 | 156 | Nuggets |
+| 522 | 156 | Deanna Morton |
 | 523 | 155 | Angela Murgia-Owen |
 | 524 | 155 | Cris cris |
-| 525 | 155 | Chelle |
-| 526 | 155 | Monarca26 |
+| 525 | 155 | Monarca26 |
+| 526 | 155 | Chelle |
 | 527 | 154 | Bryan Werleman |
 | 528 | 154 | Tiffney Wroten |
 | 529 | 154 | Lydia Greenman |
