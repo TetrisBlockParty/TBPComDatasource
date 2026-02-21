@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Thorne Shumate |
-| 105 | 190 | Sweetts |
+| 104 | 190 | Sweetts |
+| 105 | 190 | Thorne Shumate |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 187 | Snippy Wipebuilder |
@@ -157,8 +157,8 @@
 | 149 | 142 | Colleen Wise |
 | 150 | 141 | Blaire Bruckoff |
 | 151 | 140 | Miguel Teixeira |
-| 152 | 138 | Death |
-| 153 | 138 | Cranky Pattern |
+| 152 | 138 | Cranky Pattern |
+| 153 | 138 | Death |
 | 154 | 137 | Nadine Velardo |
 | 155 | 136 | Dino |
 | 156 | 135 | Giddy Cascade |
@@ -262,8 +262,8 @@
 | 254 | 84 | Strig |
 | 255 | 84 | Stoney Smith |
 | 256 | 83 | FableGray |
-| 257 | 83 | Brave Slice |
-| 258 | 83 | Bob |
+| 257 | 83 | Bob |
+| 258 | 83 | Brave Slice |
 | 259 | 82 | Kerry Lee Powell |
 | 260 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 261 | 81 | Ajayy Carlson |

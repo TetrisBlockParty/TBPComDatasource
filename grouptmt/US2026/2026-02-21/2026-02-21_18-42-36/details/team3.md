@@ -167,8 +167,8 @@
 | 159 | 203 | Twisty Brick LT |
 | 160 | 202 | Nikki Pags |
 | 161 | 201 | Ashley Tookes |
-| 162 | 195 | Nicha Hooker |
-| 163 | 195 | Michael Lucado |
+| 162 | 195 | Michael Lucado |
+| 163 | 195 | Nicha Hooker |
 | 164 | 194 | glichmod |
 | 165 | 193 | Clever Shiftsnap |
 | 166 | 193 | Duane Bright |
@@ -232,8 +232,8 @@
 | 224 | 149 | Alexis Taylor |
 | 225 | 149 | Angel Mendez |
 | 226 | 148 | Wetwet |
-| 227 | 148 | Jennifer Alvey |
-| 228 | 148 | Gumbo |
+| 227 | 148 | Gumbo |
+| 228 | 148 | Jennifer Alvey |
 | 229 | 147 | Ashley Lynn Marchese |
 | 230 | 147 | Cheryl Hinch Tenbrook |
 | 231 | 146 | Latoya Mayne |
@@ -263,14 +263,14 @@
 | 255 | 128 | MizzMonick Smith |
 | 256 | 128 | Jen Lewis |
 | 257 | 127 | mzcatzy |
-| 258 | 126 | April Matthew Kibble |
-| 259 | 126 | Pam Holt Powell |
+| 258 | 126 | Pam Holt Powell |
+| 259 | 126 | April Matthew Kibble |
 | 260 | 126 | RickyG |
-| 261 | 125 | Shimika Enay Wallace |
-| 262 | 125 | Felicia Doxey |
+| 261 | 125 | Felicia Doxey |
+| 262 | 125 | Shimika Enay Wallace |
 | 263 | 124 | Funky Jumper |
-| 264 | 123 | France Vézina |
-| 265 | 123 | Michael Latasha Gray |
+| 264 | 123 | Michael Latasha Gray |
+| 265 | 123 | France Vézina |
 | 266 | 123 | Rachel |
 | 267 | 122 | Eon Harris |
 | 268 | 122 | BabyTonj Evans |
