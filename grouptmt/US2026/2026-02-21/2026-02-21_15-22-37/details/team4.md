@@ -53,8 +53,8 @@
 | 45 | 345 | Ancient Intuition |
 | 46 | 342 | TeeJ |
 | 47 | 331 | Clarence Patawaran |
-| 48 | 308 | Jen Allison |
-| 49 | 308 | Carlton Unfiltered |
+| 48 | 308 | Carlton Unfiltered |
+| 49 | 308 | Jen Allison |
 | 50 | 306 | Lisa Davis |
 | 51 | 303 | Tammi Crnza |
 | 52 | 300 | David Lay |
@@ -92,8 +92,8 @@
 | 84 | 191 | loulou |
 | 85 | 189 | Calvin Dennis |
 | 86 | 187 | Swanky Fitline |
-| 87 | 185 | Andy Cabral |
-| 88 | 185 | shar |
+| 87 | 185 | shar |
+| 88 | 185 | Andy Cabral |
 | 89 | 181 | Carter Jones |
 | 90 | 180 | Leah Kutz Zirbel |
 | 91 | 179 | Epic Curvetile |
@@ -128,8 +128,8 @@
 | 120 | 141 | Malakai Darien Fox |
 | 121 | 140 | Shannon Ferrari |
 | 122 | 139 | Robin Watters |
-| 123 | 138 | Brittany Marsh |
-| 124 | 138 | Shainne Brewer |
+| 123 | 138 | Shainne Brewer |
+| 124 | 138 | Brittany Marsh |
 | 125 | 136 | Tanner Lund |
 | 126 | 135 | ĥuf |
 | 127 | 134 | Serena Goodridge |

@@ -153,8 +153,8 @@
 | 145 | 193 | Clever Shiftsnap |
 | 146 | 191 | Giddy Twistbuilder |
 | 147 | 191 | Scott Carleton |
-| 148 | 189 | Staci George Fitzsimmons |
-| 149 | 189 | Sissy Lowery Davis |
+| 148 | 189 | Sissy Lowery Davis |
+| 149 | 189 | Staci George Fitzsimmons |
 | 150 | 189 | Fallorina Susana |
 | 151 | 188 | Angie Harper |
 | 152 | 184 | Jennie Beranek |
@@ -346,8 +346,8 @@
 | 338 | 83 | Glitzy Slide |
 | 339 | 82 | Rebecca Funderburk Kirby |
 | 340 | 82 | lema ean |
-| 341 | 82 | Moimyzean |
-| 342 | 82 | Eileen Brady Thurber |
+| 341 | 82 | Eileen Brady Thurber |
+| 342 | 82 | Moimyzean |
 | 343 | 82 | Justice 4 P |
 | 344 | 81 | Katheline Lazo Luizaga |
 | 345 | 81 | Tammy Rosenberry |

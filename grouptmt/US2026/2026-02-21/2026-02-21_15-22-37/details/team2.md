@@ -375,8 +375,8 @@
 | 367 | 278 | Demeka Dangerous-kisses Johnson |
 | 368 | 276 | Vonceial Boone |
 | 369 | 276 | Lindsey Leigh |
-| 370 | 275 | Ann Matzkanin |
-| 371 | 275 | Shiny Rollzone |
+| 370 | 275 | Shiny Rollzone |
+| 371 | 275 | Ann Matzkanin |
 | 372 | 275 | Cheeky Brickmatch |
 | 373 | 274 | Jamie Stevey |
 | 374 | 274 | August Hale |
