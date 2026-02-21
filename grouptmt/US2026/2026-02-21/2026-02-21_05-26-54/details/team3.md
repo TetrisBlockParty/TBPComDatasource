@@ -231,8 +231,8 @@
 | 223 | 84 | Flashy Rumbler |
 | 224 | 84 | Amanda L Baker |
 | 225 | 83 | Trice Thomas |
-| 226 | 82 | Stephanie Whitefield |
-| 227 | 82 | Crystel b520 |
+| 226 | 82 | Crystel b520 |
+| 227 | 82 | Stephanie Whitefield |
 | 228 | 81 | Tina Baurdau |
 | 229 | 80 | Oliver Neal II |
 | 230 | 80 | Vixen Queen |

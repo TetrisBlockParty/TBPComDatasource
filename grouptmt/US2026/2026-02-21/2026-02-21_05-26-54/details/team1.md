@@ -49,8 +49,8 @@
 | 41 | 205 | Trippy Redd |
 | 42 | 204 | Ly Phethmany |
 | 43 | 202 | Dee Perry |
-| 44 | 201 | Anaid Sanchez |
-| 45 | 201 | Ananda Mendez |
+| 44 | 201 | Ananda Mendez |
+| 45 | 201 | Anaid Sanchez |
 | 46 | 200 | Lexuriuos Lifestlye |
 | 47 | 198 | Jaimie Lynn |
 | 48 | 198 | Happy Snapbuild |
@@ -83,8 +83,8 @@
 | 75 | 144 | femmefatale |
 | 76 | 144 | Plucky Ziggy |
 | 77 | 143 | Sarah Marie |
-| 78 | 141 | Blaire Bruckoff |
-| 79 | 141 | Susanna Guerry |
+| 78 | 141 | Susanna Guerry |
+| 79 | 141 | Blaire Bruckoff |
 | 80 | 137 | Nadine Velardo |
 | 81 | 133 | Brandi Huntington |
 | 82 | 132 | Davery Spencer Adair |
@@ -122,8 +122,8 @@
 | 114 | 96 | Melissa Lemmon |
 | 115 | 96 | Nery Martinez |
 | 116 | 95 | Spunky Piecebuilder |
-| 117 | 94 | Bindi |
-| 118 | 94 | Luciano Moreira |
+| 117 | 94 | Luciano Moreira |
+| 118 | 94 | Bindi |
 | 119 | 93 | Loony Fitzone |
 | 120 | 92 | Jessica Russell |
 | 121 | 90 | TSwag |

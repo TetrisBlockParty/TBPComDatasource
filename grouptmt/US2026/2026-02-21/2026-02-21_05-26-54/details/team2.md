@@ -87,8 +87,8 @@
 | 79 | 658 | Pacynthia Williams |
 | 80 | 658 | Vistabrat |
 | 81 | 653 | Becky Weeks-Garry |
-| 82 | 649 | Stephanie Chapman |
-| 83 | 649 | Anna Edwards |
+| 82 | 649 | Anna Edwards |
+| 83 | 649 | Stephanie Chapman |
 | 84 | 631 | Loopy Clusterbuilder |
 | 85 | 608 | John Bednarik |
 | 86 | 601 | Nancy Reid |
@@ -105,8 +105,8 @@
 | 97 | 559 | Zappy Cascade |
 | 98 | 542 | Rosa Franklin |
 | 99 | 541 | SaraMarie Eveland |
-| 100 | 540 | Charvi' Carter |
-| 101 | 540 | Thomas Hedrick |
+| 100 | 540 | Thomas Hedrick |
+| 101 | 540 | Charvi' Carter |
 | 102 | 534 | Jerilyn Andrina |
 | 103 | 531 | Chris Wanner |
 | 104 | 529 | Tonya Morgan |
@@ -115,8 +115,8 @@
 | 107 | 520 | Kimberly Schall |
 | 108 | 519 | Maria Escobar |
 | 109 | 517 | Debra Williams |
-| 110 | 515 | Real Ri |
-| 111 | 515 | Kaylee McCafferty |
+| 110 | 515 | Kaylee McCafferty |
+| 111 | 515 | Real Ri |
 | 112 | 509 | Kelli Wells |
 | 113 | 505 | Danielle Johnson-Chandler |
 | 114 | 503 | Butta |
@@ -159,8 +159,8 @@
 | 151 | 394 | Poppy Snapper |
 | 152 | 391 | Chilly Bridgepiece |
 | 153 | 391 | Steven Marshaun |
-| 154 | 386 | Jumpy Gridpiece |
-| 155 | 386 | Ashie Ann |
+| 154 | 386 | Ashie Ann |
+| 155 | 386 | Jumpy Gridpiece |
 | 156 | 385 | Sam |
 | 157 | 381 | Amanda Ferrell |
 | 158 | 380 | Calandra Shaya Robinson |
@@ -321,8 +321,8 @@
 | 313 | 205 | ElizabethAnn Dickinson |
 | 314 | 204 | Ali Gralski |
 | 315 | 204 | Rebecca Doughman |
-| 316 | 203 | coleksquad |
-| 317 | 203 | Gary Stash |
+| 316 | 203 | Gary Stash |
+| 317 | 203 | coleksquad |
 | 318 | 202 | Christina Ashley |
 | 319 | 201 | Zombi3 |
 | 320 | 201 | Peppy Snapfall |
@@ -337,8 +337,8 @@
 | 329 | 196 | Neko Preston |
 | 330 | 196 | Alexandra Reese |
 | 331 | 194 | Hoppy Brickmatch |
-| 332 | 194 | Mike Aprilliano |
-| 333 | 194 | Kimberly Ann |
+| 332 | 194 | Kimberly Ann |
+| 333 | 194 | Mike Aprilliano |
 | 334 | 193 | Nika Bee |
 | 335 | 191 | Sho Nuff |
 | 336 | 191 | Deana |
@@ -460,8 +460,8 @@
 | 452 | 148 | Shannon Byrd |
 | 453 | 147 | Juliana Marques Do Nascimento Gordy |
 | 454 | 146 | Sherry Aguinaga |
-| 455 | 145 | Scott Rackley |
-| 456 | 145 | William Hughes |
+| 455 | 145 | William Hughes |
+| 456 | 145 | Scott Rackley |
 | 457 | 145 | Catina Hutchison |
 | 458 | 144 | Alexis Richardson |
 | 459 | 144 | Kyle LeRoy Harris |
