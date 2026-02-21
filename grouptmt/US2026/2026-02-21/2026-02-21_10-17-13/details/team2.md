@@ -11,8 +11,8 @@
 | 3 | 4359 | Sean Dugar |
 | 4 | 3844 | 赵珞涵 |
 | 5 | 3575 | Cassie Donica |
-| 6 | 3567 | Rickey Goins Jr. |
-| 7 | 3567 | Taylana Mincy |
+| 6 | 3567 | Taylana Mincy |
+| 7 | 3567 | Rickey Goins Jr. |
 | 8 | 3460 | Poppy Snap |
 | 9 | 3453 | Tiaira Patrice' |
 | 10 | 3243 | Trisha Gill |
@@ -114,8 +114,8 @@
 | 106 | 649 | Stephanie Chapman |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Peppy Zone |
-| 110 | 631 | Loopy Clusterbuilder |
+| 109 | 631 | Loopy Clusterbuilder |
+| 110 | 631 | Peppy Zone |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -287,8 +287,8 @@
 | 279 | 278 | Noel Tarmy |
 | 280 | 278 | Peachy Blockbuilder |
 | 281 | 276 | Lindsey Leigh |
-| 282 | 276 | SwampRebel |
-| 283 | 276 | Vonceial Boone |
+| 282 | 276 | Vonceial Boone |
+| 283 | 276 | SwampRebel |
 | 284 | 275 | Cheeky Brickmatch |
 | 285 | 275 | Ann Matzkanin |
 | 286 | 275 | Shiny Rollzone |
@@ -346,8 +346,8 @@
 | 338 | 245 | Rachael Senard |
 | 339 | 244 | Aimee Byrom |
 | 340 | 243 | Brandy Andre |
-| 341 | 242 | Donna Chandler |
-| 342 | 242 | Lawanda Forbes |
+| 341 | 242 | Lawanda Forbes |
+| 342 | 242 | Donna Chandler |
 | 343 | 242 | Hyper Cluster |
 | 344 | 241 | Sabrina Burton |
 | 345 | 240 | Adam Erikson |
@@ -360,8 +360,8 @@
 | 352 | 236 | Niceday |
 | 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
-| 355 | 234 | Jennifer Leigh |
-| 356 | 234 | Manny Trindade |
+| 355 | 234 | Manny Trindade |
+| 356 | 234 | Jennifer Leigh |
 | 357 | 234 | Jaybee Nguyen |
 | 358 | 233 | Robin Kerby |
 | 359 | 233 | Jumpy Gridclear |
@@ -638,8 +638,8 @@
 | 630 | 133 | Candy Pitts |
 | 631 | 133 | Britt Woolston |
 | 632 | 133 | candy |
-| 633 | 133 | Rae Rae |
-| 634 | 133 | Epic Stackzone |
+| 633 | 133 | Epic Stackzone |
+| 634 | 133 | Rae Rae |
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Chilly Rollblock |
 | 637 | 132 | Joann |

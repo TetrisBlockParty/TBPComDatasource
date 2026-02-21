@@ -47,8 +47,8 @@
 | 39 | 587 | Danielle Becker |
 | 40 | 580 | Amanda L Baker |
 | 41 | 568 | Shonna Roberts |
-| 42 | 546 | Snappy Glidepiece |
-| 43 | 546 | Dolores Falco |
+| 42 | 546 | Dolores Falco |
+| 43 | 546 | Snappy Glidepiece |
 | 44 | 541 | MissTaylor |
 | 45 | 533 | Sarah Fehring |
 | 46 | 528 | Natasha Jones |
@@ -138,8 +138,8 @@
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 178 | AlsoJess |
 | 132 | 176 | Ryan Williams |
-| 133 | 166 | Kelly Ann Child |
-| 134 | 166 | Danielle Mogg |
+| 133 | 166 | Danielle Mogg |
+| 134 | 166 | Kelly Ann Child |
 | 135 | 165 | Kali Kelz Williams |
 | 136 | 164 | rosy |
 | 137 | 163 | Giddy Twistbuilder |

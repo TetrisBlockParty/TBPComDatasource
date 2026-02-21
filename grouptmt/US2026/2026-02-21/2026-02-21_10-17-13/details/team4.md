@@ -67,8 +67,8 @@
 | 59 | 207 | Alyssa Papen |
 | 60 | 205 | Sarah Neathery |
 | 61 | 204 | Brittney Orengo |
-| 62 | 198 | Mike Solo |
-| 63 | 198 | Lori Walker |
+| 62 | 198 | Lori Walker |
+| 63 | 198 | Mike Solo |
 | 64 | 197 | Autum Leigh |
 | 65 | 194 | Jamie Mann-Deichmann |
 | 66 | 187 | Swanky Fitline |
@@ -82,8 +82,8 @@
 | 74 | 170 | Leah Kutz Zirbel |
 | 75 | 170 | Girl |
 | 76 | 167 | Denise Carlson |
-| 77 | 165 | Casey Grabner |
-| 78 | 165 | Courtney Cicoria |
+| 77 | 165 | Courtney Cicoria |
+| 78 | 165 | Casey Grabner |
 | 79 | 161 | Lori |
 | 80 | 160 | Carter Jones |
 | 81 | 159 | Justin Hannigan |
@@ -111,8 +111,8 @@
 | 103 | 131 | Zany Twisterfit |
 | 104 | 130 | Lucas J Sutton |
 | 105 | 130 | Casey Jeffcoat |
-| 106 | 129 | Landon Keith Graffeo |
-| 107 | 129 | John Brunetti |
+| 106 | 129 | John Brunetti |
+| 107 | 129 | Landon Keith Graffeo |
 | 108 | 126 | Dihcheese444 |
 | 109 | 125 | Lauren Scott |
 | 110 | 123 | Nugget |
@@ -227,8 +227,8 @@
 | 219 | 73 | Lynn Marie |
 | 220 | 73 | Staci Robinson Jones |
 | 221 | 72 | Robin Getchel |
-| 222 | 71 | Ericca Eldridge |
-| 223 | 71 | Marcela Johnson |
+| 222 | 71 | Marcela Johnson |
+| 223 | 71 | Ericca Eldridge |
 | 224 | 70 | Patron Anderson |
 | 225 | 70 | Richard-April Kice |
 | 226 | 70 | Niome Encinias |
