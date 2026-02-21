@@ -330,8 +330,8 @@
 | 322 | 340 | Felicia Lynn |
 | 323 | 340 | Mandi Douglas Hilt |
 | 324 | 337 | Victoria Moore-Smith |
-| 325 | 337 | Sassy Pattern |
-| 326 | 337 | Alisa Lamb |
+| 325 | 337 | Alisa Lamb |
+| 326 | 337 | Sassy Pattern |
 | 327 | 336 | Moni Foxe |
 | 328 | 335 | Brooke Leigh Strube |
 | 329 | 334 | Aimee Byrom |

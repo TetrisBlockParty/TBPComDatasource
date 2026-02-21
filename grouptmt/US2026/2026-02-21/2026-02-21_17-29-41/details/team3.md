@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 708 | Danielle Cutler |
 | 42 | 702 | Stephanie Allmon |
@@ -85,8 +85,8 @@
 | 77 | 411 | Cynthia Castros-Hampton |
 | 78 | 403 | Christine Filson |
 | 79 | 402 | Stephanie Simpson |
-| 80 | 394 | joclisa |
-| 81 | 394 | Shari Garber |
+| 80 | 394 | Shari Garber |
+| 81 | 394 | joclisa |
 | 82 | 392 | Michelle |
 | 83 | 391 | Calista Jo Dickson |
 | 84 | 390 | Annie Déè |
@@ -153,9 +153,9 @@
 | 145 | 212 | Shunta Jacobs |
 | 146 | 211 | Katrina Schroeder |
 | 147 | 210 | Jenny Hrndz |
-| 148 | 207 | Chris Bell |
-| 149 | 207 | rnr junky |
-| 150 | 207 | Jessica |
+| 148 | 207 | Jessica |
+| 149 | 207 | Chris Bell |
+| 150 | 207 | rnr junky |
 | 151 | 203 | Twisty Brick LT |
 | 152 | 201 | Ashley Tookes |
 | 153 | 199 | Rochelle Hazelett |
@@ -198,8 +198,8 @@
 | 190 | 163 | Stephanie Hill |
 | 191 | 163 | Christine Trester |
 | 192 | 162 | Stephanie Whitefield |
-| 193 | 161 | BŘŰŤİÇŨŚ |
-| 194 | 161 | Tamara Deherrera |
+| 193 | 161 | Tamara Deherrera |
+| 194 | 161 | BŘŰŤİÇŨŚ |
 | 195 | 160 | Tiffany Davie |
 | 196 | 159 | Jone |
 | 197 | 158 | Grams |

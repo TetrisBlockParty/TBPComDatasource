@@ -130,8 +130,8 @@
 | 122 | 152 | Jacqueline Unique |
 | 123 | 152 | Speedy Snapfall |
 | 124 | 150 | Adele Rahman |
-| 125 | 149 | Arianna O'Brien |
-| 126 | 149 | Jennifer ManWarren |
+| 125 | 149 | Jennifer ManWarren |
+| 126 | 149 | Arianna O'Brien |
 | 127 | 148 | Shauntina Burke |
 | 128 | 148 | Tipsy Strikerpiece |
 | 129 | 147 | Michael |
