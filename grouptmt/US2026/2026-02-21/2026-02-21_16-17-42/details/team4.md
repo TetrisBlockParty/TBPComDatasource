@@ -61,8 +61,8 @@
 | 53 | 328 | Landon Keith Graffeo |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -72,8 +72,8 @@
 | 64 | 279 | Lauren Scott |
 | 65 | 277 | KJ Pool |
 | 66 | 274 | Elizabeth Sallas |
-| 67 | 269 | Desi Desporte |
-| 68 | 269 | KM8 |
+| 67 | 269 | KM8 |
+| 68 | 269 | Desi Desporte |
 | 69 | 256 | Brittney Griggs |
 | 70 | 252 | Bubbly Puzzler |
 | 71 | 247 | Isabella Blanco |
@@ -135,8 +135,8 @@
 | 127 | 140 | Shannon Ferrari |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
-| 130 | 136 | Tanner Lund |
-| 131 | 136 | Serena Goodridge |
+| 130 | 136 | Serena Goodridge |
+| 131 | 136 | Tanner Lund |
 | 132 | 135 | ĥuf |
 | 133 | 134 | Chirpy Basepiece |
 | 134 | 132 | Jessica Cagle |
@@ -163,8 +163,8 @@
 | 155 | 119 | Kristin Manee |
 | 156 | 119 | Gwendolyn Pitcairn |
 | 157 | 116 | Diana Houts |
-| 158 | 115 | Ultramarine |
-| 159 | 115 | Jayk |
+| 158 | 115 | Jayk |
+| 159 | 115 | Ultramarine |
 | 160 | 113 | Adam Randall |
 | 161 | 112 | Austin Owens |
 | 162 | 112 | Zesty Twistbuilder |

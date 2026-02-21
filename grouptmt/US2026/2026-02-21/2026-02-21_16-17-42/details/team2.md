@@ -195,8 +195,8 @@
 | 187 | 511 | Ramone Armstrong |
 | 188 | 511 | Dizzy Zone |
 | 189 | 511 | Laura Mclean |
-| 190 | 510 | Cheech Dta |
-| 191 | 510 | Lisa Ongtowasruk |
+| 190 | 510 | Lisa Ongtowasruk |
+| 191 | 510 | Cheech Dta |
 | 192 | 509 | Kelli Wells |
 | 193 | 504 | Cherica Taylor |
 | 194 | 503 | Adam Erikson |
@@ -366,8 +366,8 @@
 | 358 | 296 | Jennifer Darby |
 | 359 | 295 | Melissa Kay Gibson |
 | 360 | 295 | Noel Tarmy |
-| 361 | 294 | Frisky Riserbuilder |
-| 362 | 294 | Denise Rickman |
+| 361 | 294 | Denise Rickman |
+| 362 | 294 | Frisky Riserbuilder |
 | 363 | 294 | Barbra Miller |
 | 364 | 292 | Maegan Beaule |
 | 365 | 290 | Maya June |
@@ -462,17 +462,17 @@
 | 454 | 237 | Ben Barkley |
 | 455 | 236 | snkylnk |
 | 456 | 236 | Julio A Laracuente |
-| 457 | 234 | Manny Trindade |
-| 458 | 234 | Jennifer Leigh |
+| 457 | 234 | Jennifer Leigh |
+| 458 | 234 | Manny Trindade |
 | 459 | 234 | Jaybee Nguyen |
 | 460 | 233 | Nutty Matchline |
 | 461 | 233 | Jumpy Gridclear |
 | 462 | 233 | Daring Matchfit |
-| 463 | 232 | Quirky Twistline |
-| 464 | 232 | Amber Brion |
+| 463 | 232 | Amber Brion |
+| 464 | 232 | Quirky Twistline |
 | 465 | 231 | Hong Tang |
-| 466 | 231 | Dylan Thomason |
-| 467 | 231 | Brave Gridpiece |
+| 466 | 231 | Brave Gridpiece |
+| 467 | 231 | Dylan Thomason |
 | 468 | 230 | Leslie Johnson Guinto |
 | 469 | 229 | Tonya Lee |
 | 470 | 228 | Michelle Sager |

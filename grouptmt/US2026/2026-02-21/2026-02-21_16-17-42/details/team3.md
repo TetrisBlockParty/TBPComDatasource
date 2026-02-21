@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Shane Wilson Jr. |
-| 38 | 810 | Zippy Strikesnap |
+| 37 | 810 | Zippy Strikesnap |
+| 38 | 810 | Shane Wilson Jr. |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -171,8 +171,8 @@
 | 163 | 179 | Joye Sims Binion |
 | 164 | 179 | Daira Largen |
 | 165 | 179 | Ashley Jones |
-| 166 | 178 | AlsoJess |
-| 167 | 178 | Khaleada McGill Banks |
+| 166 | 178 | Khaleada McGill Banks |
+| 167 | 178 | AlsoJess |
 | 168 | 178 | Ryan Williams |
 | 169 | 177 | Rebel124 |
 | 170 | 175 | DanceLuvLaugh |
@@ -230,8 +230,8 @@
 | 222 | 131 | Darlene McMillan |
 | 223 | 130 | Marci Mize Fandrich |
 | 224 | 128 | David Bardo |
-| 225 | 128 | Cesar Barraza |
-| 226 | 128 | Jen Lewis |
+| 225 | 128 | Jen Lewis |
+| 226 | 128 | Cesar Barraza |
 | 227 | 127 | Jennifer Alvey |
 | 228 | 126 | Juliana Dottore |
 | 229 | 126 | April Matthew Kibble |

@@ -49,8 +49,8 @@
 | 41 | 380 | Robert Beck |
 | 42 | 365 | Jennifer Cates |
 | 43 | 363 | Angel Fowler |
-| 44 | 349 | Jacqueline Williams |
-| 45 | 349 | Nancy Green |
+| 44 | 349 | Nancy Green |
+| 45 | 349 | Jacqueline Williams |
 | 46 | 348 | Stef Hu |
 | 47 | 338 | Stephanie Zahn |
 | 48 | 322 | Robert Benito |
