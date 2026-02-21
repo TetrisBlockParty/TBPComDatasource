@@ -212,10 +212,10 @@
 | 204 | 553 | Leslie Ann Carter |
 | 205 | 549 | Charvi' Carter |
 | 206 | 549 | Kaylee McCafferty |
-| 207 | 541 | SaraMarie Eveland |
-| 208 | 541 | Giggy Blocker |
-| 209 | 535 | Paul Huber |
-| 210 | 535 | Jessie McDougald |
+| 207 | 541 | Giggy Blocker |
+| 208 | 541 | SaraMarie Eveland |
+| 209 | 535 | Jessie McDougald |
+| 210 | 535 | Paul Huber |
 | 211 | 534 | Teresa Gillmore |
 | 212 | 533 | April Dawn Gussler |
 | 213 | 533 | Mema |
@@ -291,8 +291,8 @@
 | 283 | 442 | Daphne Jordan |
 | 284 | 442 | Joshua Mandel |
 | 285 | 440 | Liberty |
-| 286 | 439 | Joseph Musick |
-| 287 | 439 | Alisa Lamb |
+| 286 | 439 | Alisa Lamb |
+| 287 | 439 | Joseph Musick |
 | 288 | 439 | Nashu |
 | 289 | 437 | Arwa Fatimah |
 | 290 | 436 | Melissa Kay Gibson |
@@ -419,8 +419,8 @@
 | 411 | 325 | Daniel Amos |
 | 412 | 325 | Lewis Sturgeon |
 | 413 | 323 | Teddi Notyalc |
-| 414 | 323 | KhaosLord |
-| 415 | 323 | Briana Alexander |
+| 414 | 323 | Briana Alexander |
+| 415 | 323 | KhaosLord |
 | 416 | 322 | NanDa Cruzan VI |
 | 417 | 321 | Tamara Bailey |
 | 418 | 319 | Rose Fx |
@@ -490,8 +490,8 @@
 | 482 | 278 | Demeka Dangerous-kisses Johnson |
 | 483 | 278 | Ray Ray Prado |
 | 484 | 277 | Anthony Mignacca |
-| 485 | 277 | NickyBrooks |
-| 486 | 277 | August Hale |
+| 485 | 277 | August Hale |
+| 486 | 277 | NickyBrooks |
 | 487 | 276 | Lindsey Leigh |
 | 488 | 276 | Vonceial Boone |
 | 489 | 274 | Michelle Sager |
@@ -514,8 +514,8 @@
 | 506 | 265 | Sassy Linkbuilder |
 | 507 | 265 | Sandra Link-Gable |
 | 508 | 263 | nikki |
-| 509 | 262 | Jackie Lucas |
-| 510 | 262 | Ryan Meilleur |
+| 509 | 262 | Ryan Meilleur |
+| 510 | 262 | Jackie Lucas |
 | 511 | 262 | Taren Cowan |
 | 512 | 261 | MrsClaudette Will'sIam Matthews |
 | 513 | 261 | Britney M. |

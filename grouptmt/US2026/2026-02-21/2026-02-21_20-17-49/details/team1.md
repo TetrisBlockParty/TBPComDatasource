@@ -54,8 +54,8 @@
 | 46 | 421 | Christina Graham |
 | 47 | 413 | Odell Barnett |
 | 48 | 403 | Nancy Green |
-| 49 | 392 | Anaid Sanchez |
-| 50 | 392 | Redlicious 1 |
+| 49 | 392 | Redlicious 1 |
+| 50 | 392 | Anaid Sanchez |
 | 51 | 385 | Jazzy Framezone |
 | 52 | 382 | Lori Sanders- Davis |
 | 53 | 380 | Matt |
