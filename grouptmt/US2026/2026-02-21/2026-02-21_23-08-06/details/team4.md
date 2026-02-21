@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | quicksand420 |
-| 68 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | quicksand420 |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -108,8 +108,8 @@
 | 100 | 245 | Amy Suckarieh |
 | 101 | 239 | Dustee Craddock-Harrison |
 | 102 | 237 | Lori Walker |
-| 103 | 230 | Autum Leigh |
-| 104 | 230 | Lucas J Sutton |
+| 103 | 230 | Lucas J Sutton |
+| 104 | 230 | Autum Leigh |
 | 105 | 222 | Joeliecea Cobb |
 | 106 | 221 | Alyssa Papen |
 | 107 | 218 | Antony Dwayne Beasley |
@@ -247,8 +247,8 @@
 | 239 | 108 | Ali Ian |
 | 240 | 107 | Sam Bishop |
 | 241 | 106 | Scott Jameson |
-| 242 | 106 | Zappy Snaplink |
-| 243 | 106 | Brandi Durig |
+| 242 | 106 | Brandi Durig |
+| 243 | 106 | Zappy Snaplink |
 | 244 | 105 | Kim Hunt |
 | 245 | 104 | Maureen Flanigan |
 | 246 | 104 | Chris Alexinas |

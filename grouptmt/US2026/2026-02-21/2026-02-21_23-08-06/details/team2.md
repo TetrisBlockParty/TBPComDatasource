@@ -481,15 +481,15 @@
 | 473 | 314 | Amanda West |
 | 474 | 314 | James Zaragoza |
 | 475 | 313 | Natasha Edmonds |
-| 476 | 312 | Justin Hines |
-| 477 | 312 | Andrea Maher |
+| 476 | 312 | Andrea Maher |
+| 477 | 312 | Justin Hines |
 | 478 | 312 | Michelle Pike |
 | 479 | 310 | Cheeky Brickmatch |
 | 480 | 310 | Sharon Mills |
-| 481 | 308 | Ann Knutson Anderson |
-| 482 | 308 | Christina Jarvis-Swarbrick |
-| 483 | 307 | Kitybox |
-| 484 | 307 | Diallo Sparkman |
+| 481 | 308 | Christina Jarvis-Swarbrick |
+| 482 | 308 | Ann Knutson Anderson |
+| 483 | 307 | Diallo Sparkman |
+| 484 | 307 | Kitybox |
 | 485 | 305 | Samantha Scibelli |
 | 486 | 305 | Claire |
 | 487 | 305 | Zany Clusterbuilder |
@@ -544,8 +544,8 @@
 | 536 | 278 | Demeka Dangerous-kisses Johnson |
 | 537 | 277 | Anthony Mignacca |
 | 538 | 277 | Stephanie Lumanlan |
-| 539 | 277 | NickyBrooks |
-| 540 | 277 | August Hale |
+| 539 | 277 | August Hale |
+| 540 | 277 | NickyBrooks |
 | 541 | 276 | Lindsey Leigh |
 | 542 | 276 | Patrick Bartlett |
 | 543 | 276 | Loony Basepiece |
@@ -561,8 +561,8 @@
 | 553 | 271 | Ann Marie Davis |
 | 554 | 270 | Tim Dyer |
 | 555 | 270 | Santana Miyagi |
-| 556 | 269 | Gauri Shrotriya |
-| 557 | 269 | Reece Smith |
+| 556 | 269 | Reece Smith |
+| 557 | 269 | Gauri Shrotriya |
 | 558 | 269 | Susan Arnburg |
 | 559 | 269 | Pocho Zavala |
 | 560 | 268 | Min |
@@ -571,8 +571,8 @@
 | 563 | 267 | Lauren Fitzgerald Thomas |
 | 564 | 266 | Jason Garnatz |
 | 565 | 265 | Venita Ray |
-| 566 | 265 | Sandra Link-Gable |
-| 567 | 265 | Steve Man |
+| 566 | 265 | Steve Man |
+| 567 | 265 | Sandra Link-Gable |
 | 568 | 264 | Brave Gridpiece |
 | 569 | 263 | Alyssia Tancredi |
 | 570 | 263 | Sara Pennington |
@@ -691,11 +691,11 @@
 | 683 | 217 | Jessica Hughes |
 | 684 | 216 | Ashley Dow |
 | 685 | 216 | Jamie Main |
-| 686 | 215 | Scott |
-| 687 | 215 | Ashlyn Berner |
-| 688 | 215 | Natalie M Wells |
-| 689 | 214 | Dawn L Washington-Feuquay |
-| 690 | 214 | Cass Shirley |
+| 686 | 215 | Ashlyn Berner |
+| 687 | 215 | Natalie M Wells |
+| 688 | 215 | Scott |
+| 689 | 214 | Cass Shirley |
+| 690 | 214 | Dawn L Washington-Feuquay |
 | 691 | 213 | Janai Vrabel |
 | 692 | 213 | Jasmine Kenney |
 | 693 | 212 | Angelica |
@@ -802,7 +802,7 @@
 | 794 | 187 | Anna Mayo |
 | 795 | 187 | Wacky Brickbuilder |
 | 796 | 186 | Bette Prieto |
-| 797 | 185 | Lively Catcher |
+| 797 | 185 | Sharon Crawford |
 | 798 | 185 | Nerdy Blockpiece |
 | 799 | 185 | Lively Catcher |
 | 800 | 185 | Angela Murgia-Owen |

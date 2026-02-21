@@ -69,8 +69,8 @@
 | 61 | 604 | Danielle Becker |
 | 62 | 591 | Suzieq |
 | 63 | 588 | yoyo |
-| 64 | 582 | Natasha Jones |
-| 65 | 582 | Katrina Schroeder |
+| 64 | 582 | Katrina Schroeder |
+| 65 | 582 | Natasha Jones |
 | 66 | 581 | Danielle Mogg |
 | 67 | 580 | Amanda L Baker |
 | 68 | 566 | Dan Rob |
@@ -124,8 +124,8 @@
 | 116 | 368 | Stephanie Woods |
 | 117 | 368 | Stephanie Blkpep Davidson |
 | 118 | 367 | mjl574 |
-| 119 | 366 | Adrian Marcel Pate |
-| 120 | 366 | Speedy Bridger |
+| 119 | 366 | Speedy Bridger |
+| 120 | 366 | Adrian Marcel Pate |
 | 121 | 355 | Sherry Ogden |
 | 122 | 355 | Tessina Dewey-Mancino |
 | 123 | 350 | FuzzyNavel |
@@ -139,8 +139,8 @@
 | 131 | 323 | Ashley Raines |
 | 132 | 320 | Or Reznitsky |
 | 133 | 309 | Rich LeBlanc |
-| 134 | 307 | Blocked |
-| 135 | 307 | Peggi Charon |
+| 134 | 307 | Peggi Charon |
+| 135 | 307 | Blocked |
 | 136 | 300 | Sherika C. McDaniels |
 | 137 | 293 | Poppy Splitter |
 | 138 | 290 | Logan Naccarato |
@@ -194,8 +194,8 @@
 | 186 | 211 | Katrina Turner |
 | 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Jessica |
-| 190 | 207 | Chris Bell |
+| 189 | 207 | Chris Bell |
+| 190 | 207 | Jessica |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |
@@ -205,9 +205,9 @@
 | 197 | 200 | glichmod |
 | 198 | 197 | Staci George Fitzsimmons |
 | 199 | 195 | Nicha Hooker |
-| 200 | 193 | Stephanie Burtin |
-| 201 | 193 | Clever Shiftsnap |
-| 202 | 193 | Angie Harper |
+| 200 | 193 | Clever Shiftsnap |
+| 201 | 193 | Angie Harper |
+| 202 | 193 | Stephanie Burtin |
 | 203 | 192 | Kelly Ann Child |
 | 204 | 191 | Rebel124 |
 | 205 | 191 | Brenda Lee Vander Molen |
@@ -238,8 +238,8 @@
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | BŘŰŤİÇŨŚ |
-| 234 | 169 | Emma |
+| 233 | 169 | Emma |
+| 234 | 169 | BŘŰŤİÇŨŚ |
 | 235 | 168 | MsBee |
 | 236 | 166 | Beth Ingham |
 | 237 | 166 | Betty Rosas |
