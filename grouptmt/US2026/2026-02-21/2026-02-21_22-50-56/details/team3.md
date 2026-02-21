@@ -173,8 +173,8 @@
 | 165 | 235 | DidIdothat |
 | 166 | 233 | Ray Lader |
 | 167 | 231 | Nikki Pags |
-| 168 | 228 | Jennifer Lynn Fahrenholtz-Summers |
-| 169 | 228 | Morgan Martinez |
+| 168 | 228 | Morgan Martinez |
+| 169 | 228 | Jennifer Lynn Fahrenholtz-Summers |
 | 170 | 228 | Rebecca Funderburk Kirby |
 | 171 | 226 | Grego Daniel |
 | 172 | 224 | Nicole Myers |
@@ -401,8 +401,8 @@
 | 393 | 99 | Elyse Grabowsky |
 | 394 | 99 | Michelle Ramirez |
 | 395 | 98 | Katie Morton |
-| 396 | 98 | Jessica Rose-Morgan |
-| 397 | 98 | Martin Bernier |
+| 396 | 98 | Jocelyne Baca |
+| 397 | 98 | Erika Thornton |
 | 398 | 98 | Armi |
 | 399 | 98 | Martin Bernier |
 | 400 | 98 | Jessica Rose-Morgan |

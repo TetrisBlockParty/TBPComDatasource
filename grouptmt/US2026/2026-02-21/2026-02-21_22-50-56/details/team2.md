@@ -485,11 +485,11 @@
 | 477 | 310 | Sharon Mills |
 | 478 | 308 | Ann Knutson Anderson |
 | 479 | 308 | Christina Jarvis-Swarbrick |
-| 480 | 307 | Kitybox |
-| 481 | 307 | Diallo Sparkman |
+| 480 | 307 | Diallo Sparkman |
+| 481 | 307 | Kitybox |
 | 482 | 305 | Zany Clusterbuilder |
-| 483 | 305 | Samantha Scibelli |
-| 484 | 305 | Claire |
+| 483 | 305 | Claire |
+| 484 | 305 | Samantha Scibelli |
 | 485 | 305 | Libby Hicks |
 | 486 | 304 | Michelle Shrum |
 | 487 | 304 | Sam Joe |
@@ -641,9 +641,9 @@
 | 633 | 234 | Jennifer Leigh |
 | 634 | 234 | Kay Stevenson |
 | 635 | 233 | Jumpy Gridclear |
-| 636 | 233 | Epic Spinfit |
-| 637 | 233 | Nutty Matchline |
-| 638 | 233 | Myleaha Holley |
+| 636 | 233 | Nutty Matchline |
+| 637 | 233 | Myleaha Holley |
+| 638 | 233 | Epic Spinfit |
 | 639 | 232 | Zappy Dropmatch |
 | 640 | 232 | Ys Muhammed |
 | 641 | 232 | Tom Steffen |

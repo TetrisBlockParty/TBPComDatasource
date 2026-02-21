@@ -83,8 +83,8 @@
 | 75 | 318 | Dee Perry |
 | 76 | 310 | Seth Wesson |
 | 77 | 308 | Kellie |
-| 78 | 305 | Plucky Ziggy |
-| 79 | 305 | Patrick Luckenbill |
+| 78 | 305 | Patrick Luckenbill |
+| 79 | 305 | Plucky Ziggy |
 | 80 | 304 | Nicole Roseberry Weber |
 | 81 | 303 | Maria C. Hernandez |
 | 82 | 301 | Hyper |
@@ -121,16 +121,16 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Jaimie Lynn |
-| 117 | 212 | Mandyy Rae |
+| 116 | 212 | Mandyy Rae |
+| 117 | 212 | Jaimie Lynn |
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
-| 124 | 194 | Ash Galvan |
-| 125 | 194 | Tyler Werts |
+| 124 | 194 | Tyler Werts |
+| 125 | 194 | Ash Galvan |
 | 126 | 193 | Lachelle Dillon |
 | 127 | 192 | Jessica Sheehan |
 | 128 | 192 | Shaykmia |
@@ -346,12 +346,12 @@
 | 338 | 79 | Lynn Adams |
 | 339 | 79 | Cool Combo |
 | 340 | 78 | Angela Ellyson |
-| 341 | 78 | Jay Tressler |
-| 342 | 78 | Becky Coker |
-| 343 | 77 | Jo Kerley |
+| 341 | 78 | Becky Coker |
+| 342 | 78 | Jay Tressler |
+| 343 | 77 | Jason Cox |
 | 344 | 77 | Carrie Smith |
 | 345 | 77 | Monica Rivas |
-| 346 | 77 | Jason Cox |
+| 346 | 77 | Jo Kerley |
 | 347 | 76 | Tim Mccrary |
 | 348 | 76 | Mary Love |
 | 349 | 76 | Steph |
