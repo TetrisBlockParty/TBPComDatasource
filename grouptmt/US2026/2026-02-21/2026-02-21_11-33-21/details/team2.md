@@ -440,8 +440,8 @@
 | 432 | 193 | Alishac Marie |
 | 433 | 193 | Kelly Ann McCormick |
 | 434 | 191 | Lauren Fitzgerald Thomas |
-| 435 | 191 | Deana |
-| 436 | 191 | John Quiring |
+| 435 | 191 | John Quiring |
+| 436 | 191 | Deana |
 | 437 | 190 | Poldo Ilano |
 | 438 | 190 | Jessica Kaye DeAguero |
 | 439 | 188 | Seth Wrieden |
@@ -461,8 +461,8 @@
 | 453 | 183 | Brenna Ann |
 | 454 | 182 | Tamara Bailey |
 | 455 | 182 | Donna M Carter |
-| 456 | 181 | Wacky Cascade |
-| 457 | 181 | Julay |
+| 456 | 181 | Julay |
+| 457 | 181 | Wacky Cascade |
 | 458 | 180 | Peter Palestino |
 | 459 | 180 | Jackie Lucas |
 | 460 | 179 | Desiree Harris Rosch |
@@ -987,7 +987,7 @@
 | 979 | 93 | Jennifer Mahon |
 | 980 | 93 | Jennifer Riley |
 | 981 | 93 | Kelli Couture |
-| 982 | 93 | Lush Link |
+| 982 | 93 | Sunny Frame |
 | 983 | 93 | Melissa Gates |
 | 984 | 93 | Lush Link |
 | 985 | 92 | Lashea Lyons |
@@ -1038,7 +1038,7 @@
 | 1030 | 88 | NinaTheVillain |
 | 1031 | 88 | Iycis Shelton |
 | 1032 | 87 | Kray Kray Katelynn |
-| 1033 | 87 | Kayla Krol |
+| 1033 | 87 | Mindy Folsom |
 | 1034 | 87 | Anita Rose Green |
 | 1035 | 87 | Stephanie Garber |
 | 1036 | 87 | Kayla Krol |

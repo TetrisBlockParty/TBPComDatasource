@@ -142,12 +142,12 @@
 | 134 | 178 | Khaleada McGill Banks |
 | 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Kelly Ann Child |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Kelly Ann Child |
 | 139 | 165 | Kali Kelz Williams |
 | 140 | 164 | rosy |
-| 141 | 163 | Raven Dudley |
-| 142 | 163 | Karon Griffin |
+| 141 | 163 | Karon Griffin |
+| 142 | 163 | Raven Dudley |
 | 143 | 162 | Rebel124 |
 | 144 | 159 | Jone |
 | 145 | 159 | Mcathen |
@@ -167,8 +167,8 @@
 | 159 | 149 | Trisha Balmer |
 | 160 | 149 | Angel Mendez |
 | 161 | 147 | Sashay Tapae Simpson |
-| 162 | 146 | Latoya Mayne |
-| 163 | 146 | Denita Mungro |
+| 162 | 146 | Denita Mungro |
+| 163 | 146 | Latoya Mayne |
 | 164 | 145 | Bryan Byrd |
 | 165 | 142 | Erica Anderson |
 | 166 | 140 | Gumbo |
@@ -185,10 +185,10 @@
 | 177 | 127 | Connie Mohler-Fair |
 | 178 | 127 | Marquita Sheard |
 | 179 | 127 | Joy Petroski |
-| 180 | 127 | Marquita Sheard |
+| 180 | 127 | Aerian Preston |
 | 181 | 126 | Brandon Givens |
-| 182 | 125 | Felicia Doxey |
-| 183 | 125 | Shimika Enay Wallace |
+| 182 | 125 | Shimika Enay Wallace |
+| 183 | 125 | Felicia Doxey |
 | 184 | 124 | Cesar Barraza |
 | 185 | 123 | Sarajane Lokan |
 | 186 | 123 | Marci Mize Fandrich |
@@ -207,8 +207,8 @@
 | 199 | 118 | Fancy Curver |
 | 200 | 118 | Skinny Baldez |
 | 201 | 116 | Eon Harris |
-| 202 | 116 | LaNette Morgan |
-| 203 | 116 | BugMansMom |
+| 202 | 116 | BugMansMom |
+| 203 | 116 | LaNette Morgan |
 | 204 | 115 | Jennifer Alvey |
 | 205 | 115 | Hoppy Buildout |
 | 206 | 115 | Daring Builder |
@@ -299,16 +299,16 @@
 | 291 | 84 | gremicx |
 | 292 | 83 | Matty Ray |
 | 293 | 83 | Deseree Ewing |
-| 294 | 82 | Rebecca Funderburk Kirby |
-| 295 | 82 | Nikki Pags |
+| 294 | 82 | Nikki Pags |
+| 295 | 82 | Rebecca Funderburk Kirby |
 | 296 | 81 | Tina Baurdau |
 | 297 | 80 | Vixen Queen |
 | 298 | 80 | Me,Him,Yu |
 | 299 | 80 | Oliver Neal II |
 | 300 | 80 | Josh Borquez |
-| 301 | 79 | Bleu Sun Beams |
-| 302 | 79 | Jessie Chung |
-| 303 | 79 | Amanda Neal |
+| 301 | 79 | Jessie Chung |
+| 302 | 79 | Amanda Neal |
+| 303 | 79 | Bleu Sun Beams |
 | 304 | 79 | Brittany K Ward |
 | 305 | 78 | El Chapa |
 | 306 | 78 | Cozy Snaplink |
