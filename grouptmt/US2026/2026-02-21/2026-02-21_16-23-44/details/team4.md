@@ -61,8 +61,8 @@
 | 53 | 328 | Landon Keith Graffeo |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | David Lay |
-| 57 | 300 | Jason Hart |
+| 56 | 300 | Jason Hart |
+| 57 | 300 | David Lay |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |

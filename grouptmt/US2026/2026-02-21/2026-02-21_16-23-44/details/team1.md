@@ -34,8 +34,8 @@
 | 26 | 516 | comrade fish |
 | 27 | 511 | Jen Sartain |
 | 28 | 510 | Colena Davenport |
-| 29 | 508 | Lawrence Belanger |
-| 30 | 508 | Michelle Nicole |
+| 29 | 508 | Michelle Nicole |
+| 30 | 508 | Lawrence Belanger |
 | 31 | 490 | Jorge Andrade |
 | 32 | 484 | Sevens4L |
 | 33 | 483 | Ryan Lunnin |
@@ -63,8 +63,8 @@
 | 55 | 284 | Adam Byrd |
 | 56 | 279 | Shauna Loe |
 | 57 | 278 | Carrie Beck Geartz |
-| 58 | 274 | Sweet Baker |
-| 59 | 274 | Theo Pinnow |
+| 58 | 274 | Theo Pinnow |
+| 59 | 274 | Sweet Baker |
 | 60 | 261 | Bhelle Sumile |
 | 61 | 257 | Sarah Roberts |
 | 62 | 256 | Tipsy Column |
@@ -86,8 +86,8 @@
 | 78 | 210 | Ly Phethmany |
 | 79 | 205 | Trippy Redd |
 | 80 | 204 | Lexuriuos Lifestlye |
-| 81 | 201 | Anaid Sanchez |
-| 82 | 201 | Ananda Mendez |
+| 81 | 201 | Ananda Mendez |
+| 82 | 201 | Anaid Sanchez |
 | 83 | 200 | Giggly Builderline |
 | 84 | 199 | TSwag |
 | 85 | 198 | Brandi Huntington |
@@ -108,8 +108,8 @@
 | 100 | 178 | Danielle Little-Daugherty |
 | 101 | 173 | june october |
 | 102 | 173 | Frothy Pattern |
-| 103 | 171 | Greg Premoe |
-| 104 | 171 | David DeSantis |
+| 103 | 171 | David DeSantis |
+| 104 | 171 | Greg Premoe |
 | 105 | 169 | Abbey Crespo |
 | 106 | 166 | Rico Rico |
 | 107 | 166 | Tana |
@@ -131,10 +131,10 @@
 | 123 | 146 | Irual Hctrab |
 | 124 | 146 | Dandy Basegrid |
 | 125 | 145 | BigWeenie69 |
-| 126 | 144 | femmefatale |
-| 127 | 144 | Plucky Ziggy |
-| 128 | 143 | Sarah Marie |
-| 129 | 143 | Kellie |
+| 126 | 144 | Plucky Ziggy |
+| 127 | 144 | femmefatale |
+| 128 | 143 | Kellie |
+| 129 | 143 | Sarah Marie |
 | 130 | 142 | Colleen Wise |
 | 131 | 141 | Blaire Bruckoff |
 | 132 | 140 | Miguel Teixeira |
@@ -211,8 +211,8 @@
 | 203 | 99 | Barrbaric |
 | 204 | 98 | Witty Builderfit |
 | 205 | 96 | Howdi Duty |
-| 206 | 96 | MommaKFC |
-| 207 | 96 | Mara Hilker |
+| 206 | 96 | Mara Hilker |
+| 207 | 96 | MommaKFC |
 | 208 | 94 | Brad MG |
 | 209 | 93 | Kayla Marie Stevenson |
 | 210 | 91 | Owicked1 |

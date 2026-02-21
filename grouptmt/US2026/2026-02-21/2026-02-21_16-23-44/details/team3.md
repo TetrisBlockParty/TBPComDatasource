@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | Chris Bell |
-| 142 | 207 | rnr junky |
+| 141 | 207 | rnr junky |
+| 142 | 207 | Chris Bell |
 | 143 | 206 | Chasity |
 | 144 | 202 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -243,8 +243,8 @@
 | 235 | 124 | Danielle Allison |
 | 236 | 123 | Michael Latasha Gray |
 | 237 | 122 | Skinny Baldez |
-| 238 | 122 | Giggly Brickroll |
-| 239 | 122 | BabyTonj Evans |
+| 238 | 122 | BabyTonj Evans |
+| 239 | 122 | Giggly Brickroll |
 | 240 | 121 | Loopy Clusterer |
 | 241 | 121 | mzcatzy |
 | 242 | 120 | Jessica |
@@ -377,13 +377,13 @@
 | 369 | 79 | Brittany K Ward |
 | 370 | 79 | Jessie Chung |
 | 371 | 78 | Nena Somerville Kelly |
-| 372 | 78 | Myriam Lapierre |
-| 373 | 78 | Clever Patterner |
-| 374 | 77 | Tommy Proctor |
-| 375 | 77 | Bekah Dietrich |
-| 376 | 77 | Jess Reppert |
+| 372 | 78 | Clever Patterner |
+| 373 | 78 | Myriam Lapierre |
+| 374 | 77 | Bekah Dietrich |
+| 375 | 77 | Jess Reppert |
+| 376 | 77 | Tommy Proctor |
 | 377 | 77 | Randy Clevenger |
-| 378 | 77 | Tanesha BigBabby Darling |
+| 378 | 77 | Monica Crespo |
 | 379 | 77 | Jennifer Palermo |
 | 380 | 77 | Tanesha BigBabby Darling |
 | 381 | 76 | Crystal Woodward |

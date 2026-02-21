@@ -132,8 +132,8 @@
 | 124 | 700 | Rosemadder |
 | 125 | 698 | Lola Contreras |
 | 126 | 697 | Real Ri |
-| 127 | 694 | Nancy Reid |
-| 128 | 694 | Vo'Landa Reels |
+| 127 | 694 | Vo'Landa Reels |
+| 128 | 694 | Nancy Reid |
 | 129 | 690 | Cool Clearer |
 | 130 | 688 | Dreamy Blast |
 | 131 | 679 | Gold Rose |
@@ -249,8 +249,8 @@
 | 241 | 409 | Sparkles |
 | 242 | 408 | Amanda Ferrell |
 | 243 | 406 | Erin StFrancis |
-| 244 | 405 | Christy Krissie |
-| 245 | 405 | Sarah Massey |
+| 244 | 405 | Sarah Massey |
+| 245 | 405 | Christy Krissie |
 | 246 | 402 | Joshua Mandel |
 | 247 | 400 | Tammy Allen |
 | 248 | 400 | Crystie Hicks |
@@ -261,13 +261,13 @@
 | 253 | 396 | Stefanie Zonzini-Gagliardi |
 | 254 | 393 | Taylor Flowers |
 | 255 | 393 | Altamirano Michael |
-| 256 | 391 | Brenda Utphall |
-| 257 | 391 | Chilly Bridgepiece |
+| 256 | 391 | Chilly Bridgepiece |
+| 257 | 391 | Brenda Utphall |
 | 258 | 391 | Qiana Sanders |
 | 259 | 390 | Kimberly Randesi |
 | 260 | 386 | Macy Williams |
-| 261 | 385 | Skyler Morgan |
-| 262 | 385 | Sam |
+| 261 | 385 | Sam |
+| 262 | 385 | Skyler Morgan |
 | 263 | 383 | Arkei Luster |
 | 264 | 382 | David Holliday |
 | 265 | 379 | Jánine Riggs |
@@ -323,7 +323,7 @@
 | 315 | 329 | Chummy Blockbuilder |
 | 316 | 329 | Jessie McDougald |
 | 317 | 329 | Trista Dumais |
-| 318 | 329 | Jessie McDougald |
+| 318 | 329 | Nicole Cannon |
 | 319 | 327 | Danielle Simmons |
 | 320 | 327 | Kiana Boschh |
 | 321 | 326 | Elisheva Mizrachi |
@@ -401,8 +401,8 @@
 | 393 | 274 | August Hale |
 | 394 | 273 | Vanessa Moreno |
 | 395 | 273 | Ray Ray Prado |
-| 396 | 273 | Giddy Gridclear |
-| 397 | 273 | Jenna Nance |
+| 396 | 273 | Jenna Nance |
+| 397 | 273 | Giddy Gridclear |
 | 398 | 272 | Mikayala Szaz |
 | 399 | 271 | Ann Marie Davis |
 | 400 | 271 | Toni Lynn |
@@ -411,11 +411,11 @@
 | 403 | 269 | Reece Smith |
 | 404 | 267 | Britt Stunkel |
 | 405 | 266 | Mike Aprilliano |
-| 406 | 265 | Sassy Linkbuilder |
-| 407 | 265 | Matt Johnson |
+| 406 | 265 | Matt Johnson |
+| 407 | 265 | Sassy Linkbuilder |
 | 408 | 264 | Dapper Dasher |
-| 409 | 262 | Taren Cowan |
-| 410 | 262 | Min |
+| 409 | 262 | Min |
+| 410 | 262 | Taren Cowan |
 | 411 | 261 | MrsClaudette Will'sIam Matthews |
 | 412 | 260 | Santana Miyagi |
 | 413 | 259 | Kathryn Townsley |
@@ -434,8 +434,8 @@
 | 426 | 252 | Aleasha M Brown |
 | 427 | 250 | Steve Man |
 | 428 | 250 | Danielle DeLozier Plesec |
-| 429 | 249 | Porsche' Nicole |
-| 430 | 249 | Nicky Jackson |
+| 429 | 249 | Nicky Jackson |
+| 430 | 249 | Porsche' Nicole |
 | 431 | 248 | Aimee Byrom |
 | 432 | 248 | Bubbly Snapfit |
 | 433 | 248 | Maddy Petersen |
