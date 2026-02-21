@@ -95,8 +95,8 @@
 | 87 | 96 | Nery Martinez |
 | 88 | 95 | Melissa Lemmon |
 | 89 | 94 | Bindi |
-| 90 | 93 | Adryane Schnase |
-| 91 | 93 | Loony Fitzone |
+| 90 | 93 | Loony Fitzone |
+| 91 | 93 | Adryane Schnase |
 | 92 | 91 | Spunky Piecebuilder |
 | 93 | 90 | Madison Wicks |
 | 94 | 87 | TSwag |
@@ -149,7 +149,7 @@
 | 141 | 62 | Tina Englert |
 | 142 | 61 | Chantelle Ceno |
 | 143 | 61 | Christine Sheridan |
-| 144 | 61 | Chantelle Ceno |
+| 144 | 61 | Carolyn Smith |
 | 145 | 60 | Melissa Bires Hussar |
 | 146 | 59 | Mel Hogan |
 | 147 | 59 | Greg Premoe |

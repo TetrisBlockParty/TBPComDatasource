@@ -149,8 +149,8 @@
 | 141 | 297 | Michelle Pike |
 | 142 | 297 | James Zaragoza |
 | 143 | 296 | Jennifer Casey-Kay |
-| 144 | 295 | Zany Clusterbuilder |
-| 145 | 295 | Diallo Sparkman |
+| 144 | 295 | Diallo Sparkman |
+| 145 | 295 | Zany Clusterbuilder |
 | 146 | 290 | Jessie McDougald |
 | 147 | 287 | Claire |
 | 148 | 286 | Juanita Lyons |
@@ -169,8 +169,8 @@
 | 161 | 271 | Toni Lynn |
 | 162 | 270 | Lonne Emade |
 | 163 | 268 | Vanessa Moreno |
-| 164 | 266 | Autumn Schaeffer |
-| 165 | 266 | Mighty Shatterfit |
+| 164 | 266 | Mighty Shatterfit |
+| 165 | 266 | Autumn Schaeffer |
 | 166 | 266 | Joyce Johnson Vaughn |
 | 167 | 265 | Nancy Reid |
 | 168 | 265 | Wuntayk |

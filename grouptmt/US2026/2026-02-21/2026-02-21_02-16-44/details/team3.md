@@ -33,8 +33,8 @@
 | 25 | 528 | Natasha Jones |
 | 26 | 476 | Susan Valentino |
 | 27 | 466 | Kay |
-| 28 | 446 | Kathryn Keenan-Taggart |
-| 29 | 446 | Jennifer Willis |
+| 28 | 446 | Jennifer Willis |
+| 29 | 446 | Kathryn Keenan-Taggart |
 | 30 | 439 | Poppy Dashfit |
 | 31 | 432 | Nate Burnside |
 | 32 | 387 | Nerdy Spinblock |
