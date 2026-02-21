@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Valerie Roberts |
-| 21 | 590 | Dee Kay |
+| 20 | 590 | Dee Kay |
+| 21 | 590 | Valerie Roberts |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -152,10 +152,10 @@
 | 144 | 115 | Jayk |
 | 145 | 115 | Ultramarine |
 | 146 | 113 | Adam Randall |
-| 147 | 112 | Brittany Marsh |
-| 148 | 112 | Bryan Hodgins |
+| 147 | 112 | Austin Owens |
+| 148 | 112 | Brittany Marsh |
 | 149 | 112 | Jackie Marie |
-| 150 | 112 | Austin Owens |
+| 150 | 112 | Bryan Hodgins |
 | 151 | 111 | Lazy Blocker |
 | 152 | 111 | Gwendolyn Pitcairn |
 | 153 | 110 | H.R. Block |

@@ -59,12 +59,12 @@
 | 51 | 272 | Adam Byrd |
 | 52 | 264 | Shauna Loe |
 | 53 | 257 | Sarah Roberts |
-| 54 | 256 | Tipsy Column |
-| 55 | 256 | Robert Benito |
+| 54 | 256 | Robert Benito |
+| 55 | 256 | Tipsy Column |
 | 56 | 253 | Bhelle Sumile |
 | 57 | 252 | Dena Kayy |
-| 58 | 244 | Franswa |
-| 59 | 244 | Tdub |
+| 58 | 244 | Tdub |
+| 59 | 244 | Franswa |
 | 60 | 240 | Rachael |
 | 61 | 237 | Elaine Elaine |
 | 62 | 226 | Sharon Reynolds |
@@ -76,10 +76,10 @@
 | 68 | 208 | Mandyy Rae |
 | 69 | 208 | Carrie Beck Geartz |
 | 70 | 205 | Trippy Redd |
-| 71 | 204 | Lexuriuos Lifestlye |
-| 72 | 204 | Ly Phethmany |
-| 73 | 201 | Patrick Luckenbill |
-| 74 | 201 | Anaid Sanchez |
+| 71 | 204 | Ly Phethmany |
+| 72 | 204 | Lexuriuos Lifestlye |
+| 73 | 201 | Anaid Sanchez |
+| 74 | 201 | Patrick Luckenbill |
 | 75 | 201 | Ananda Mendez |
 | 76 | 198 | Billie Dawn Sparks |
 | 77 | 198 | Happy Snapbuild |
@@ -101,8 +101,8 @@
 | 93 | 171 | Greg Premoe |
 | 94 | 168 | Redlicious 1 |
 | 95 | 166 | Rico Rico |
-| 96 | 165 | GATOR |
-| 97 | 165 | Veronica Eve |
+| 96 | 165 | Veronica Eve |
+| 97 | 165 | GATOR |
 | 98 | 163 | Chad Atchley |
 | 99 | 162 | Tyler Whitley |
 | 100 | 161 | Abbey Crespo |
@@ -147,8 +147,8 @@
 | 139 | 121 | Bouncy Grid |
 | 140 | 120 | Alenoush Karimian |
 | 141 | 120 | Kimmie Kimms |
-| 142 | 119 | April Carroll |
-| 143 | 119 | Tater |
+| 142 | 119 | Tater |
+| 143 | 119 | April Carroll |
 | 144 | 118 | Barry Mac'Ockner |
 | 145 | 116 | Jessica Russell |
 | 146 | 116 | Evie Khalil |

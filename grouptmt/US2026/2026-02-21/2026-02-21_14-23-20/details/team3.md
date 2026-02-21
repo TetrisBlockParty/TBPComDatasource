@@ -252,8 +252,8 @@
 | 244 | 109 | Fredd Thomas |
 | 245 | 109 | Diana Ibarra |
 | 246 | 108 | Rachel Napper |
-| 247 | 108 | LaTanya GeminiondaRise Johnson |
-| 248 | 108 | Hanna Kim |
+| 247 | 108 | Hanna Kim |
+| 248 | 108 | LaTanya GeminiondaRise Johnson |
 | 249 | 107 | Sherry Ogden |
 | 250 | 107 | Bouncy Blockbuilder |
 | 251 | 106 | Rachel |

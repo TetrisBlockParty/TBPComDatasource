@@ -627,8 +627,8 @@
 | 619 | 156 | RetroLemur |
 | 620 | 155 | Chelle |
 | 621 | 155 | Monarca26 |
-| 622 | 155 | Jacob Huffman |
-| 623 | 155 | Angela Murgia-Owen |
+| 622 | 155 | Angela Murgia-Owen |
+| 623 | 155 | Jacob Huffman |
 | 624 | 155 | Cris cris |
 | 625 | 154 | Lori Maring |
 | 626 | 154 | Lydia Greenman |
