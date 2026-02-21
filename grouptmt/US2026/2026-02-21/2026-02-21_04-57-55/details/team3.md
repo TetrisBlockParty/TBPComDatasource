@@ -224,8 +224,8 @@
 | 216 | 84 | Amanda L Baker |
 | 217 | 84 | Flashy Rumbler |
 | 218 | 83 | Michael Nowogorski |
-| 219 | 82 | Crystel b520 |
-| 220 | 82 | Stephanie Whitefield |
+| 219 | 82 | Stephanie Whitefield |
+| 220 | 82 | Crystel b520 |
 | 221 | 81 | Tina Baurdau |
 | 222 | 80 | Oliver Neal II |
 | 223 | 80 | Vixen Queen |

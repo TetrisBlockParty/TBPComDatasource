@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3435 | Cassie Donica |
 | 6 | 3323 | Sean Dugar |
@@ -227,13 +227,13 @@
 | 219 | 271 | Lonne Emade |
 | 220 | 271 | Toni Lynn |
 | 221 | 271 | Ann Marie Davis |
-| 222 | 270 | Alexandra Weir |
-| 223 | 270 | Victoria Moore-Smith |
+| 222 | 270 | Victoria Moore-Smith |
+| 223 | 270 | Alexandra Weir |
 | 224 | 268 | Vanessa Moreno |
 | 225 | 268 | Elisheva Mizrachi |
 | 226 | 267 | Mindy Leigh Head |
-| 227 | 266 | Mighty Shatterfit |
-| 228 | 266 | Autumn Schaeffer |
+| 227 | 266 | Autumn Schaeffer |
+| 228 | 266 | Mighty Shatterfit |
 | 229 | 266 | Joyce Johnson Vaughn |
 | 230 | 263 | Taylor Flowers |
 | 231 | 263 | August Hale |
@@ -241,8 +241,8 @@
 | 233 | 261 | Leah |
 | 234 | 261 | MrsClaudette Will'sIam Matthews |
 | 235 | 261 | Ann Matzkanin |
-| 236 | 260 | Dapper Dasher |
-| 237 | 260 | Denise Rickman |
+| 236 | 260 | Denise Rickman |
+| 237 | 260 | Dapper Dasher |
 | 238 | 257 | Shameika Trail |
 | 239 | 257 | Lyndi Robinson Wakefield |
 | 240 | 256 | Tee Jaleesa |
@@ -425,9 +425,9 @@
 | 417 | 154 | Bryan Werleman |
 | 418 | 153 | Angie Bolton Workman |
 | 419 | 153 | Poppy Gridder |
-| 420 | 152 | Alisa Lamb |
-| 421 | 152 | JP Parks |
-| 422 | 152 | Anthony Mignacca |
+| 420 | 152 | JP Parks |
+| 421 | 152 | Anthony Mignacca |
+| 422 | 152 | Alisa Lamb |
 | 423 | 151 | Jennifer Rajek |
 | 424 | 151 | John Quiring |
 | 425 | 151 | D'Aaron Black |

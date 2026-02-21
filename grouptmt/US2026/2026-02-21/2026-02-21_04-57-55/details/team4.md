@@ -40,15 +40,15 @@
 | 32 | 256 | Brittney Griggs |
 | 33 | 246 | Dustin Robert |
 | 34 | 244 | Isabella Blanco |
-| 35 | 231 | Michelle Marie |
-| 36 | 231 | Jenna Ingersoll |
+| 35 | 231 | Jenna Ingersoll |
+| 36 | 231 | Michelle Marie |
 | 37 | 220 | Julian Garcia |
 | 38 | 207 | Alyssa Papen |
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
@@ -105,8 +105,8 @@
 | 97 | 104 | YoMomma |
 | 98 | 103 | Sam Middleton |
 | 99 | 102 | Faja |
-| 100 | 101 | Michelle Morris |
-| 101 | 101 | Stephme310 |
+| 100 | 101 | Stephme310 |
+| 101 | 101 | Michelle Morris |
 | 102 | 100 | Jeff Brian Gates |
 | 103 | 98 | 030Synner |
 | 104 | 98 | Duck |

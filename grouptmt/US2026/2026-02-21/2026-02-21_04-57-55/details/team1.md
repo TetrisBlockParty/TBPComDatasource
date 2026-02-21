@@ -31,8 +31,8 @@
 | 23 | 371 | Colena Davenport |
 | 24 | 301 | Zerin Graham |
 | 25 | 294 | Jacqueline Williams |
-| 26 | 281 | Nancy Green |
-| 27 | 281 | Maria C. Hernandez |
+| 26 | 281 | Maria C. Hernandez |
+| 27 | 281 | Nancy Green |
 | 28 | 274 | Theo Pinnow |
 | 29 | 265 | Jennifer Cates |
 | 30 | 256 | Robert Benito |
@@ -67,8 +67,8 @@
 | 59 | 169 | Erez Yosef |
 | 60 | 163 | Chad Atchley |
 | 61 | 161 | Abbey Crespo |
-| 62 | 155 | David DeSantis |
-| 63 | 155 | Standia Civil |
+| 62 | 155 | Standia Civil |
+| 63 | 155 | David DeSantis |
 | 64 | 152 | Jacqueline Unique |
 | 65 | 151 | Kristen Roles Robben |
 | 66 | 150 | Rico Rico |
@@ -87,8 +87,8 @@
 | 79 | 132 | Davery Spencer Adair |
 | 80 | 130 | Dandy Basegrid |
 | 81 | 129 | Trina Gee |
-| 82 | 128 | Uhog SF |
-| 83 | 128 | Gary Gobin |
+| 82 | 128 | Gary Gobin |
+| 83 | 128 | Uhog SF |
 | 84 | 126 | Cece Ibarra |
 | 85 | 120 | Blaire Bruckoff |
 | 86 | 119 | Irual Hctrab |
@@ -159,8 +159,8 @@
 | 151 | 76 | Virginia Gray Floyd |
 | 152 | 76 | Kerry Lee Powell |
 | 153 | 75 | Fresno Beotoni |
-| 154 | 75 | Tyler L Hunt |
-| 155 | 75 | Witty Builderfit |
+| 154 | 75 | Witty Builderfit |
+| 155 | 75 | Tyler L Hunt |
 | 156 | 74 | Grace Joanne Agnant |
 | 157 | 74 | Owicked1 |
 | 158 | 74 | Eddie Dillon |
