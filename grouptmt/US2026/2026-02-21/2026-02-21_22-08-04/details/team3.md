@@ -168,8 +168,8 @@
 | 160 | 234 | Tom Nault |
 | 161 | 233 | Ray Lader |
 | 162 | 231 | Nikki Pags |
-| 163 | 228 | Morgan Martinez |
-| 164 | 228 | Rochelle Hazelett |
+| 163 | 228 | Rochelle Hazelett |
+| 164 | 228 | Morgan Martinez |
 | 165 | 226 | Grego Daniel |
 | 166 | 224 | Nicole Myers |
 | 167 | 223 | Jeana Gilbert |

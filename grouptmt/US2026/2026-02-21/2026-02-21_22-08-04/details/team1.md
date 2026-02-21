@@ -117,8 +117,8 @@
 | 109 | 219 | Lexuriuos Lifestlye |
 | 110 | 214 | Billie Dawn Sparks |
 | 111 | 213 | Jason Jones |
-| 112 | 212 | Mandyy Rae |
-| 113 | 212 | Jaimie Lynn |
+| 112 | 212 | Jaimie Lynn |
+| 113 | 212 | Mandyy Rae |
 | 114 | 211 | Marianita Garcia |
 | 115 | 210 | Plucky Ziggy |
 | 116 | 204 | Ananda Mendez |
@@ -211,8 +211,8 @@
 | 203 | 122 | Melissa Lemmon |
 | 204 | 122 | Margo Wagner |
 | 205 | 121 | Mark Smith |
-| 206 | 120 | Kimmie Kimms |
-| 207 | 120 | Alenoush Karimian |
+| 206 | 120 | Alenoush Karimian |
+| 207 | 120 | Kimmie Kimms |
 | 208 | 119 | Tater |
 | 209 | 119 | Jennifer Hardman |
 | 210 | 118 | SavageBooty98 |

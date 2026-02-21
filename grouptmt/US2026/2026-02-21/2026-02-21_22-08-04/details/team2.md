@@ -722,8 +722,8 @@
 | 714 | 200 | LaWanda Powell |
 | 715 | 200 | HarleyJane |
 | 716 | 200 | Zak Dunn |
-| 717 | 200 | Biggest thing |
-| 718 | 200 | Michelle Fleming Luna |
+| 717 | 200 | Michelle Fleming Luna |
+| 718 | 200 | Biggest thing |
 | 719 | 200 | Synn |
 | 720 | 200 | Sara Silvernail-Kay |
 | 721 | 199 | Michael David Hollis |
@@ -732,8 +732,8 @@
 | 724 | 199 | BeaNzMaMa |
 | 725 | 198 | Christina Jarvis-Swarbrick |
 | 726 | 197 | Kati Russeau |
-| 727 | 197 | Sarah Dean |
-| 728 | 197 | Octavio Garza |
+| 727 | 197 | Octavio Garza |
+| 728 | 197 | Sarah Dean |
 | 729 | 197 | Karyn Yurcho Dooley |
 | 730 | 196 | Regina Unruh |
 | 731 | 196 | Boldy Block |
@@ -778,9 +778,9 @@
 | 770 | 185 | Jason H Baker |
 | 771 | 184 | BamaGirlinTX |
 | 772 | 184 | Donna M Carter |
-| 773 | 184 | Christina Eckert |
+| 773 | 184 | Amanda Diegel |
 | 774 | 184 | Brittany Radaszewski |
-| 775 | 184 | Amanda Diegel |
+| 775 | 184 | Christina Eckert |
 | 776 | 183 | Tiara Elizabeth Baker |
 | 777 | 183 | Lynzekwi |
 | 778 | 183 | Giggy Mover |
@@ -808,8 +808,8 @@
 | 800 | 178 | Kim McGrath |
 | 801 | 178 | Wungun Shun |
 | 802 | 178 | Hyper Gridroll |
-| 803 | 177 | Leslie Porter |
-| 804 | 177 | RaeVan Worthington |
+| 803 | 177 | RaeVan Worthington |
+| 804 | 177 | Leslie Porter |
 | 805 | 177 | Andrew Engman |
 | 806 | 177 | Trevor Jordan |
 | 807 | 177 | Pam Doughty |

@@ -158,17 +158,17 @@
 | 150 | 149 | Shainne Brewer |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
-| 153 | 147 | Jay28 |
-| 154 | 147 | Chair |
+| 153 | 147 | Chair |
+| 154 | 147 | Jay28 |
 | 155 | 145 | Daria Rycewicz |
 | 156 | 144 | Mr. Party |
-| 157 | 141 | Malakai Darien Fox |
-| 158 | 141 | ĥuf |
+| 157 | 141 | ĥuf |
+| 158 | 141 | Malakai Darien Fox |
 | 159 | 141 | Marcus Todd |
 | 160 | 141 | Kathy Allen |
 | 161 | 140 | Shannon Ferrari |
-| 162 | 140 | John Brunetti |
-| 163 | 140 | Stephme310 |
+| 162 | 140 | Stephme310 |
+| 163 | 140 | John Brunetti |
 | 164 | 137 | PeaceOs |
 | 165 | 136 | Tanner Lund |
 | 166 | 136 | Sarah Brown |
@@ -222,12 +222,12 @@
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 113 | Adam Randall |
 | 216 | 112 | Jeremy Steines |
-| 217 | 111 | Kristin MacDonald |
-| 218 | 111 | Lazy Blocker |
+| 217 | 111 | Lazy Blocker |
+| 218 | 111 | Kristin MacDonald |
 | 219 | 111 | Lindsey Gonzalez |
 | 220 | 110 | Zach Kerbs |
-| 221 | 109 | Ak Jones |
-| 222 | 109 | Frank Cook |
+| 221 | 109 | Frank Cook |
+| 222 | 109 | Ak Jones |
 | 223 | 108 | Rebecca Morris |
 | 224 | 108 | Ali Ian |
 | 225 | 107 | Rafael Valentin |
