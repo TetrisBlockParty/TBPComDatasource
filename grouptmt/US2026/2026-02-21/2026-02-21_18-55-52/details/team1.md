@@ -110,8 +110,8 @@
 | 102 | 193 | Lachelle Dillon |
 | 103 | 192 | Shaykmia |
 | 104 | 191 | Diane Byrd |
-| 105 | 190 | Thorne Shumate |
-| 106 | 190 | Sweetts |
+| 105 | 190 | Sweetts |
+| 106 | 190 | Thorne Shumate |
 | 107 | 189 | Happy Basegrid |
 | 108 | 188 | Sam Williams |
 | 109 | 187 | Snippy Wipebuilder |

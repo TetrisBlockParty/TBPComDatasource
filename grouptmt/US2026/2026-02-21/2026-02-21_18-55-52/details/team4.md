@@ -34,8 +34,8 @@
 | 26 | 620 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Dee Kay |
-| 30 | 590 | Valerie Roberts |
+| 29 | 590 | Valerie Roberts |
+| 30 | 590 | Dee Kay |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -43,8 +43,8 @@
 | 35 | 494 | Rodney McMath Jr. |
 | 36 | 488 | Anthony Bryan Riva |
 | 37 | 486 | Landon Keith Graffeo |
-| 38 | 483 | Kimberly Love |
-| 39 | 483 | Carmethia Clemons Haslerig |
+| 38 | 483 | Carmethia Clemons Haslerig |
+| 39 | 483 | Kimberly Love |
 | 40 | 470 | Carolyn Wallace |
 | 41 | 465 | Dawn Alexander |
 | 42 | 449 | Shelly Chandler |
@@ -109,8 +109,8 @@
 | 101 | 191 | Melvin Baird |
 | 102 | 191 | loulou |
 | 103 | 189 | Calvin Dennis |
-| 104 | 187 | TheNeesh50 |
-| 105 | 187 | Swanky Fitline |
+| 104 | 187 | Swanky Fitline |
+| 105 | 187 | TheNeesh50 |
 | 106 | 186 | Leslie Nicole |
 | 107 | 185 | Andy Cabral |
 | 108 | 181 | Carter Jones |

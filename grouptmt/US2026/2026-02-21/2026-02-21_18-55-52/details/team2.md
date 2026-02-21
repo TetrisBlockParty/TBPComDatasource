@@ -268,8 +268,8 @@
 | 260 | 442 | Leah |
 | 261 | 441 | Matt Johnson |
 | 262 | 440 | Liberty |
-| 263 | 439 | Joseph Musick |
-| 264 | 439 | Alisa Lamb |
+| 263 | 439 | Alisa Lamb |
+| 264 | 439 | Joseph Musick |
 | 265 | 439 | Foxxo |
 | 266 | 438 | Hyper Cluster |
 | 267 | 437 | Arwa Fatimah |
