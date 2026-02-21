@@ -53,8 +53,8 @@
 | 45 | 291 | Nancy Green |
 | 46 | 287 | Hyper |
 | 47 | 276 | Kristen Roles Robben |
-| 48 | 274 | Sweet Baker |
-| 49 | 274 | Theo Pinnow |
+| 48 | 274 | Theo Pinnow |
+| 49 | 274 | Sweet Baker |
 | 50 | 272 | Adam Byrd |
 | 51 | 264 | Shauna Loe |
 | 52 | 257 | Sarah Roberts |
@@ -62,8 +62,8 @@
 | 54 | 256 | Robert Benito |
 | 55 | 253 | Bhelle Sumile |
 | 56 | 252 | Dena Kayy |
-| 57 | 244 | Franswa |
-| 58 | 244 | Tdub |
+| 57 | 244 | Tdub |
+| 58 | 244 | Franswa |
 | 59 | 240 | Rachael |
 | 60 | 226 | Sharon Reynolds |
 | 61 | 225 | Elaine Elaine |
@@ -71,8 +71,8 @@
 | 63 | 217 | Deanna L Hermanson |
 | 64 | 212 | Jaimie Lynn |
 | 65 | 211 | Marianita Garcia |
-| 66 | 208 | Mandyy Rae |
-| 67 | 208 | Carrie Beck Geartz |
+| 66 | 208 | Carrie Beck Geartz |
+| 67 | 208 | Mandyy Rae |
 | 68 | 205 | Trippy Redd |
 | 69 | 204 | Ly Phethmany |
 | 70 | 204 | Lexuriuos Lifestlye |
@@ -87,8 +87,8 @@
 | 79 | 193 | Lachelle Dillon |
 | 80 | 192 | Shaykmia |
 | 81 | 191 | Jazzy Framezone |
-| 82 | 190 | Sweetts |
-| 83 | 190 | Thorne Shumate |
+| 82 | 190 | Thorne Shumate |
+| 83 | 190 | Sweetts |
 | 84 | 189 | Happy Basegrid |
 | 85 | 180 | Erez Yosef |
 | 86 | 178 | Brandi Huntington |

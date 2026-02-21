@@ -126,8 +126,8 @@
 | 118 | 132 | Melissa Priest Sellers |
 | 119 | 132 | Jessica Cagle |
 | 120 | 130 | Casey Jeffcoat |
-| 121 | 129 | John Brunetti |
-| 122 | 129 | Landon Keith Graffeo |
+| 121 | 129 | Landon Keith Graffeo |
+| 122 | 129 | John Brunetti |
 | 123 | 128 | Rio Rocha |
 | 124 | 126 | Klo |
 | 125 | 126 | TinyLegoRose |
@@ -148,10 +148,10 @@
 | 140 | 116 | Diana Houts |
 | 141 | 115 | Jayk |
 | 142 | 115 | Ultramarine |
-| 143 | 113 | Adam Randall |
-| 144 | 113 | Andria Lynn |
-| 145 | 112 | Jackie Marie |
-| 146 | 112 | Bryan Hodgins |
+| 143 | 113 | Andria Lynn |
+| 144 | 113 | Adam Randall |
+| 145 | 112 | Bryan Hodgins |
+| 146 | 112 | Jackie Marie |
 | 147 | 112 | Brittany Marsh |
 | 148 | 112 | Austin Owens |
 | 149 | 111 | Gwendolyn Pitcairn |

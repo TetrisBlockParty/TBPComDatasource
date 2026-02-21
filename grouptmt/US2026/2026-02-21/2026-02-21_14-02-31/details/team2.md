@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3460 | Poppy Snap |
 | 13 | 3051 | Kimberly Michelle Brown |
@@ -95,8 +95,8 @@
 | 87 | 814 | Whitney Nicole Waterman |
 | 88 | 801 | Tralonda Weeks |
 | 89 | 800 | Tacara Cummings |
-| 90 | 789 | Stephanie Chapman |
-| 91 | 789 | James Simms III |
+| 90 | 789 | James Simms III |
+| 91 | 789 | Stephanie Chapman |
 | 92 | 787 | Laura McCarthey |
 | 93 | 780 | Amanda Grohmann |
 | 94 | 772 | Megan Ferguson Leone |
@@ -177,8 +177,8 @@
 | 169 | 495 | Poppy Snap |
 | 170 | 488 | Teresa Gillmore |
 | 171 | 486 | MrsCandyfine As Wine Truss |
-| 172 | 485 | Leah Keesling |
-| 173 | 485 | Gene Mills |
+| 172 | 485 | Gene Mills |
+| 173 | 485 | Leah Keesling |
 | 174 | 484 | Suki Kaur |
 | 175 | 483 | goofinoff |
 | 176 | 483 | Jordan Kaiser |
@@ -234,8 +234,8 @@
 | 226 | 391 | Amanda Ferrell |
 | 227 | 390 | Lylymom |
 | 228 | 386 | Macy Williams |
-| 229 | 385 | Arwa Fatimah |
-| 230 | 385 | Sam |
+| 229 | 385 | Sam |
+| 230 | 385 | Arwa Fatimah |
 | 231 | 385 | Christy Krissie |
 | 232 | 383 | Arkei Luster |
 | 233 | 378 | Cody Nishimura |
@@ -245,8 +245,8 @@
 | 237 | 371 | Kimberly Randesi |
 | 238 | 366 | Wuntayk |
 | 239 | 365 | Christina Lewis-Vickers |
-| 240 | 364 | Brandon Armstrong |
-| 241 | 364 | Shinette Dobson |
+| 240 | 364 | Shinette Dobson |
+| 241 | 364 | Brandon Armstrong |
 | 242 | 363 | William Meussner |
 | 243 | 362 | AkaLefty |
 | 244 | 360 | Scott Treadway |
