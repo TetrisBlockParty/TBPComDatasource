@@ -85,11 +85,11 @@
 | 77 | 149 | Tana |
 | 78 | 148 | Jessie Lynn |
 | 79 | 147 | Veronica Eve |
-| 80 | 145 | Lachelle Dillon |
-| 81 | 145 | BigWeenie69 |
-| 82 | 144 | Plucky Ziggy |
-| 83 | 144 | Tanya Carpenter-Reynolds |
-| 84 | 144 | femmefatale |
+| 80 | 145 | BigWeenie69 |
+| 81 | 145 | Lachelle Dillon |
+| 82 | 144 | Tanya Carpenter-Reynolds |
+| 83 | 144 | femmefatale |
+| 84 | 144 | Plucky Ziggy |
 | 85 | 143 | Sarah Marie |
 | 86 | 141 | Susanna Guerry |
 | 87 | 141 | Blaire Bruckoff |
@@ -103,11 +103,11 @@
 | 95 | 128 | Uhog SF |
 | 96 | 128 | lil mickey |
 | 97 | 127 | Michael |
-| 98 | 126 | Cece Ibarra |
-| 99 | 126 | Rachael |
+| 98 | 126 | Rachael |
+| 99 | 126 | Cece Ibarra |
 | 100 | 121 | Bouncy Grid |
-| 101 | 119 | Irual Hctrab |
-| 102 | 119 | Tater |
+| 101 | 119 | Tater |
+| 102 | 119 | Irual Hctrab |
 | 103 | 118 | Barry Mac'Ockner |
 | 104 | 116 | Evie Khalil |
 | 105 | 115 | comrade fish |
@@ -149,7 +149,7 @@
 | 141 | 87 | Barrbaric |
 | 142 | 87 | Jessi Sauer |
 | 143 | 86 | Basment Living |
-| 144 | 86 | Barrbaric |
+| 144 | 86 | Desiree Deschaine Havee |
 | 145 | 85 | Steve Schneider |
 | 146 | 84 | Speedy Snapfall |
 | 147 | 84 | Kayla Marie Stevenson |

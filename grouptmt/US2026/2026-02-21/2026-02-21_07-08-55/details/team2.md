@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -91,8 +91,8 @@
 | 83 | 674 | Dannette Goldberg-Richards |
 | 84 | 672 | Wendy Harder Gage |
 | 85 | 665 | Dineisha Carpenter |
-| 86 | 658 | Pacynthia Williams |
-| 87 | 658 | Vistabrat |
+| 86 | 658 | Vistabrat |
+| 87 | 658 | Pacynthia Williams |
 | 88 | 653 | Becky Weeks-Garry |
 | 89 | 649 | Stephanie Chapman |
 | 90 | 649 | Anna Edwards |
@@ -124,8 +124,8 @@
 | 116 | 520 | Kimberly Schall |
 | 117 | 519 | Maria Escobar |
 | 118 | 517 | Debra Williams |
-| 119 | 515 | Real Ri |
-| 120 | 515 | Kaylee McCafferty |
+| 119 | 515 | Kaylee McCafferty |
+| 120 | 515 | Real Ri |
 | 121 | 513 | Butta |
 | 122 | 510 | Ashley House |
 | 123 | 509 | Kelli Wells |
@@ -236,8 +236,8 @@
 | 228 | 293 | Scott Treadway |
 | 229 | 293 | David Holliday |
 | 230 | 290 | Jessie McDougald |
-| 231 | 288 | Elisheva Mizrachi |
-| 232 | 288 | Megan Phillips |
+| 231 | 288 | Megan Phillips |
+| 232 | 288 | Elisheva Mizrachi |
 | 233 | 287 | Claire |
 | 234 | 286 | Ryan Gunther |
 | 235 | 285 | June E Hanson |
@@ -395,8 +395,8 @@
 | 387 | 184 | Regina Unruh |
 | 388 | 184 | Brittany Radaszewski |
 | 389 | 183 | Wakanda Forever |
-| 390 | 183 | Ys Muhammed |
-| 391 | 183 | Shaun Church |
+| 390 | 183 | Shaun Church |
+| 391 | 183 | Ys Muhammed |
 | 392 | 182 | Niceday |
 | 393 | 182 | Donna M Carter |
 | 394 | 181 | Wacky Cascade |
@@ -404,14 +404,14 @@
 | 396 | 181 | Julay |
 | 397 | 180 | Jackie Lucas |
 | 398 | 180 | Peter Palestino |
-| 399 | 179 | Elizabeth Pearson |
-| 400 | 179 | Desiree Harris Rosch |
-| 401 | 179 | Cat |
-| 402 | 179 | Bette Prieto |
+| 399 | 179 | Desiree Harris Rosch |
+| 400 | 179 | Elizabeth Pearson |
+| 401 | 179 | Bette Prieto |
+| 402 | 179 | Cat |
 | 403 | 177 | Facuetoo |
 | 404 | 177 | Juliana Marques Do Nascimento Gordy |
-| 405 | 177 | John |
-| 406 | 177 | Angel |
+| 405 | 177 | Angel |
+| 406 | 177 | John |
 | 407 | 177 | Ryan Meilleur |
 | 408 | 176 | Nancy Pohlman |
 | 409 | 176 | Trisha Gallagher |
@@ -446,7 +446,7 @@
 | 438 | 164 | Jessica Vega |
 | 439 | 163 | Danielle Ayoub |
 | 440 | 163 | Albert McKnight |
-| 441 | 162 | Shannon Byrd |
+| 441 | 162 | Michael Artis |
 | 442 | 162 | LC Hamilton |
 | 443 | 162 | Shannon Byrd |
 | 444 | 162 | Brenna Ann |
@@ -758,9 +758,9 @@
 | 750 | 100 | IdRatherbeaNinja |
 | 751 | 100 | Jacqueline Robinson |
 | 752 | 100 | Christy Miller Donham |
-| 753 | 100 | IdRatherbeaNinja |
-| 754 | 100 | Tacara Cummings |
-| 755 | 100 | Shayla Lamartina |
+| 753 | 100 | LeVeL27 |
+| 754 | 100 | Shayla Lamartina |
+| 755 | 100 | Tacara Cummings |
 | 756 | 99 | Angela KaplaSchwahn |
 | 757 | 99 | Ashley Dow |
 | 758 | 99 | Patrick Fleming |
