@@ -114,8 +114,8 @@
 | 106 | 649 | Anna Edwards |
 | 107 | 641 | Ricardo Burton |
 | 108 | 632 | Beth |
-| 109 | 631 | Peppy Zone |
-| 110 | 631 | Loopy Clusterbuilder |
+| 109 | 631 | Loopy Clusterbuilder |
+| 110 | 631 | Peppy Zone |
 | 111 | 620 | BYM4L |
 | 112 | 608 | John Bednarik |
 | 113 | 601 | Nancy Reid |
@@ -281,11 +281,11 @@
 | 273 | 279 | Nika Bee |
 | 274 | 278 | Noel Tarmy |
 | 275 | 276 | Lindsey Leigh |
-| 276 | 276 | SwampRebel |
-| 277 | 276 | Vonceial Boone |
+| 276 | 276 | Vonceial Boone |
+| 277 | 276 | SwampRebel |
 | 278 | 275 | Cheeky Brickmatch |
-| 279 | 275 | Ann Matzkanin |
-| 280 | 275 | Shiny Rollzone |
+| 279 | 275 | Shiny Rollzone |
+| 280 | 275 | Ann Matzkanin |
 | 281 | 274 | Jamie Stevey |
 | 282 | 274 | Melissa Holsinger |
 | 283 | 274 | Lonne Emade |
@@ -296,8 +296,8 @@
 | 288 | 272 | Mikayala Szaz |
 | 289 | 271 | Ann Marie Davis |
 | 290 | 271 | Toni Lynn |
-| 291 | 270 | Christina Ashley |
-| 292 | 270 | Angela Lynn |
+| 291 | 270 | Angela Lynn |
+| 292 | 270 | Christina Ashley |
 | 293 | 270 | Alexandra Weir |
 | 294 | 269 | Reece Smith |
 | 295 | 268 | Tanya Parsons |
@@ -336,8 +336,8 @@
 | 328 | 247 | Andrea Devery Beck |
 | 329 | 247 | Fancy Twister |
 | 330 | 246 | Kathryn Townsley |
-| 331 | 246 | Ashley Lopez |
-| 332 | 246 | Stephanie Lumanlan |
+| 331 | 246 | Stephanie Lumanlan |
+| 332 | 246 | Ashley Lopez |
 | 333 | 245 | Rachael Senard |
 | 334 | 245 | Mischelle Clay |
 | 335 | 245 | Taryece Gause |
@@ -404,8 +404,8 @@
 | 396 | 200 | Sarah Ridenour |
 | 397 | 200 | LaWanda Powell |
 | 398 | 199 | Fi Ne |
-| 399 | 199 | Jenny Castro |
-| 400 | 199 | Jessica Sutter |
+| 399 | 199 | Jessica Sutter |
+| 400 | 199 | Jenny Castro |
 | 401 | 198 | Angie Bolton Workman |
 | 402 | 198 | Alyssa Dean |
 | 403 | 197 | Alyssa Nadine Medelez |
@@ -544,8 +544,8 @@
 | 536 | 150 | Candace Noel |
 | 537 | 149 | Leslie Porter |
 | 538 | 149 | Boldy Cascadepiece |
-| 539 | 149 | Melissa Rebbe-Lehman |
-| 540 | 149 | Brianna Cerney |
+| 539 | 149 | Brianna Cerney |
+| 540 | 149 | Melissa Rebbe-Lehman |
 | 541 | 148 | Cleo Sims |
 | 542 | 148 | AgileDragon |
 | 543 | 147 | Smiley Strike |

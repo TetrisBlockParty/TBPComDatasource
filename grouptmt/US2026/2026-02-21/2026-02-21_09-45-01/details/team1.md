@@ -73,8 +73,8 @@
 | 65 | 194 | Giggly Builderline |
 | 66 | 194 | Sharon Reynolds |
 | 67 | 193 | Lachelle Dillon |
-| 68 | 192 | Shaykmia |
-| 69 | 192 | Mandyy Rae |
+| 68 | 192 | Mandyy Rae |
+| 69 | 192 | Shaykmia |
 | 70 | 191 | Jazzy Framezone |
 | 71 | 190 | Thorne Shumate |
 | 72 | 190 | Sweetts |
@@ -105,8 +105,8 @@
 | 97 | 144 | Plucky Ziggy |
 | 98 | 143 | Sarah Marie |
 | 99 | 141 | Blaire Bruckoff |
-| 100 | 138 | Gary Gobin |
-| 101 | 138 | Cranky Pattern |
+| 100 | 138 | Cranky Pattern |
+| 101 | 138 | Gary Gobin |
 | 102 | 137 | Nadine Velardo |
 | 103 | 134 | Trina Gee |
 | 104 | 133 | Breanna Luna |

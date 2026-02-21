@@ -113,8 +113,8 @@
 | 105 | 126 | Dihcheese444 |
 | 106 | 125 | Lauren Scott |
 | 107 | 123 | Bubbly Puzzler |
-| 108 | 123 | Cherrish Duren |
-| 109 | 123 | Nugget |
+| 108 | 123 | Nugget |
+| 109 | 123 | Cherrish Duren |
 | 110 | 122 | Sherri |
 | 111 | 121 | Zany Shatterer |
 | 112 | 121 | Megan Cutshaw |
