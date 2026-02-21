@@ -37,8 +37,8 @@
 | 29 | 399 | Drew Magnus |
 | 30 | 380 | Robert Beck |
 | 31 | 365 | Karin Gillen |
-| 32 | 348 | Chipper Gridlock |
-| 33 | 348 | Stef Hu |
+| 32 | 348 | Stef Hu |
+| 33 | 348 | Chipper Gridlock |
 | 34 | 338 | Stephanie Zahn |
 | 35 | 301 | Zerin Graham |
 | 36 | 298 | Angel Fowler |
@@ -49,9 +49,9 @@
 | 41 | 281 | Maria C. Hernandez |
 | 42 | 274 | Sweet Baker |
 | 43 | 274 | Theo Pinnow |
-| 44 | 256 | Shauna Loe |
-| 45 | 256 | Tipsy Column |
-| 46 | 256 | Robert Benito |
+| 44 | 256 | Robert Benito |
+| 45 | 256 | Shauna Loe |
+| 46 | 256 | Tipsy Column |
 | 47 | 253 | Bhelle Sumile |
 | 48 | 244 | Franswa |
 | 49 | 243 | Sarah Roberts |

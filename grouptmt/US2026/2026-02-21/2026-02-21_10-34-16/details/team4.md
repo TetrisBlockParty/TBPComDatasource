@@ -86,8 +86,8 @@
 | 78 | 165 | Courtney Cicoria |
 | 79 | 165 | Casey Grabner |
 | 80 | 160 | Carter Jones |
-| 81 | 159 | Holly Jolly |
-| 82 | 159 | Justin Hannigan |
+| 81 | 159 | Justin Hannigan |
+| 82 | 159 | Holly Jolly |
 | 83 | 157 | quicksand420 |
 | 84 | 154 | ThaEviLJeNiuZ |
 | 85 | 153 | Jae Job |
@@ -115,9 +115,9 @@
 | 107 | 129 | Landon Keith Graffeo |
 | 108 | 126 | Dihcheese444 |
 | 109 | 125 | Lauren Scott |
-| 110 | 123 | Cherrish Duren |
+| 110 | 123 | Nugget |
 | 111 | 123 | Bubbly Puzzler |
-| 112 | 123 | Nugget |
+| 112 | 123 | Cherrish Duren |
 | 113 | 122 | Sherri |
 | 114 | 121 | Klo |
 | 115 | 121 | Zany Shatterer |

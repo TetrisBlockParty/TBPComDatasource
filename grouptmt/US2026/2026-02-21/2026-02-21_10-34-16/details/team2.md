@@ -430,10 +430,10 @@
 | 422 | 191 | Lauren Fitzgerald Thomas |
 | 423 | 191 | John Quiring |
 | 424 | 191 | Deana |
-| 425 | 190 | Layna Lyons |
-| 426 | 190 | Jessica Kaye DeAguero |
-| 427 | 188 | Seth Wrieden |
-| 428 | 188 | Michael Artis |
+| 425 | 190 | Jessica Kaye DeAguero |
+| 426 | 190 | Layna Lyons |
+| 427 | 188 | Michael Artis |
+| 428 | 188 | Seth Wrieden |
 | 429 | 188 | Justin Hines |
 | 430 | 187 | Stefanie Zonzini-Gagliardi |
 | 431 | 186 | Joshua Mullings |
@@ -663,8 +663,8 @@
 | 655 | 129 | Angela Kummer |
 | 656 | 129 | Jean FU Jagielski |
 | 657 | 129 | Kara Jennifer |
-| 658 | 128 | Mine |
-| 659 | 128 | Russell J Gindlesperger II |
+| 658 | 128 | Russell J Gindlesperger II |
+| 659 | 128 | Mine |
 | 660 | 128 | Nate Lee |
 | 661 | 128 | Leslie |
 | 662 | 128 | Adelina Roth |
