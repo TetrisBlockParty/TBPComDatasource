@@ -138,31 +138,31 @@
 | 130 | 191 | Giddy Twistbuilder |
 | 131 | 191 | Scott Carleton |
 | 132 | 189 | Sissy Lowery Davis |
-| 133 | 189 | Staci George Fitzsimmons |
-| 134 | 189 | Fallorina Susana |
+| 133 | 189 | Fallorina Susana |
+| 134 | 189 | Staci George Fitzsimmons |
 | 135 | 184 | Jennie Beranek |
 | 136 | 182 | Hyper Matchzone |
 | 137 | 182 | Ashley Tookes |
 | 138 | 179 | Daira Largen |
 | 139 | 179 | Joye Sims Binion |
-| 140 | 178 | Khaleada McGill Banks |
-| 141 | 178 | AlsoJess |
+| 140 | 178 | AlsoJess |
+| 141 | 178 | Khaleada McGill Banks |
 | 142 | 176 | Ryan Williams |
 | 143 | 175 | Logan Naccarato |
 | 144 | 167 | Raven Dudley |
 | 145 | 167 | Rebel124 |
-| 146 | 166 | Danielle Mogg |
-| 147 | 166 | Betty Rosas |
+| 146 | 166 | Betty Rosas |
+| 147 | 166 | Danielle Mogg |
 | 148 | 166 | Kelly Ann Child |
 | 149 | 165 | Kali Kelz Williams |
-| 150 | 164 | rosy |
-| 151 | 164 | DanceLuvLaugh |
+| 150 | 164 | DanceLuvLaugh |
+| 151 | 164 | rosy |
 | 152 | 163 | Karon Griffin |
 | 153 | 163 | Stephanie Hill |
-| 154 | 160 | Mcathen |
-| 155 | 160 | Tiffany Davie |
-| 156 | 159 | Morgan Martinez |
-| 157 | 159 | Jone |
+| 154 | 160 | Tiffany Davie |
+| 155 | 160 | Mcathen |
+| 156 | 159 | Jone |
+| 157 | 159 | Morgan Martinez |
 | 158 | 158 | Grams |
 | 159 | 158 | BŘŰŤİÇŨŚ |
 | 160 | 157 | Nicholas Roddy |
@@ -266,7 +266,7 @@
 | 258 | 98 | Erika Thornton |
 | 259 | 98 | Jocelyne Baca |
 | 260 | 98 | Armi |
-| 261 | 98 | Jocelyne Baca |
+| 261 | 98 | Funky Jumper |
 | 262 | 97 | Ashley Jones |
 | 263 | 96 | Christopher Woost |
 | 264 | 96 | Tasha Wesson-Torrence |
