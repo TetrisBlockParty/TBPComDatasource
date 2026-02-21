@@ -37,8 +37,8 @@
 | 29 | 187 | Dee Perry |
 | 30 | 185 | Jennifer Cates |
 | 31 | 185 | Karin Gillen |
-| 32 | 176 | Mandyy Rae |
-| 33 | 176 | Jazzy Framezone |
+| 32 | 176 | Jazzy Framezone |
+| 33 | 176 | Mandyy Rae |
 | 34 | 173 | Frothy Pattern |
 | 35 | 169 | Erez Yosef |
 | 36 | 160 | Ananda Mendez |
@@ -70,8 +70,8 @@
 | 62 | 109 | Dandy Basegrid |
 | 63 | 108 | Tavia |
 | 64 | 105 | Barry Mac'Ockner |
-| 65 | 100 | comrade fish |
-| 66 | 100 | Ash Galvan |
+| 65 | 100 | Ash Galvan |
+| 66 | 100 | comrade fish |
 | 67 | 99 | Uhog SF |
 | 68 | 98 | Flashy Rotator |
 | 69 | 95 | Jodee Woods |
@@ -100,8 +100,8 @@
 | 92 | 75 | Tyler L Hunt |
 | 93 | 75 | Fresno Beotoni |
 | 94 | 74 | Grace Joanne Agnant |
-| 95 | 73 | Witty Builderfit |
-| 96 | 73 | Loony Fitzone |
+| 95 | 73 | Loony Fitzone |
+| 96 | 73 | Witty Builderfit |
 | 97 | 72 | Tipsy Strikerpiece |
 | 98 | 71 | Teddy Alexander |
 | 99 | 71 | Susanna Guerry |

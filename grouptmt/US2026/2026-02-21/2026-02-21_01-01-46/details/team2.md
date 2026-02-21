@@ -211,18 +211,18 @@
 | 203 | 198 | Julio A Laracuente |
 | 204 | 197 | Smashanator |
 | 205 | 196 | Alexandra Reese |
-| 206 | 194 | Mike Aprilliano |
-| 207 | 194 | Kimberly Ann |
+| 206 | 194 | Kimberly Ann |
+| 207 | 194 | Mike Aprilliano |
 | 208 | 193 | Nika Bee |
 | 209 | 193 | Ariel |
-| 210 | 191 | Deana |
+| 210 | 191 | Rebecca Doughman |
 | 211 | 191 | Sho Nuff |
-| 212 | 191 | Rebecca Doughman |
+| 212 | 191 | Deana |
 | 213 | 190 | blarg |
 | 214 | 189 | Sanaa Nounoussa |
 | 215 | 188 | Justin Hines |
-| 216 | 184 | Jumpy Gridpiece |
-| 217 | 184 | Sassy Linkbuilder |
+| 216 | 184 | Sassy Linkbuilder |
+| 217 | 184 | Jumpy Gridpiece |
 | 218 | 182 | Mindy Leigh Head |
 | 219 | 181 | Katrina Williams Balmir |
 | 220 | 181 | Julay |
@@ -308,8 +308,8 @@
 | 300 | 134 | Gursharan Sandhu |
 | 301 | 134 | Sarah Massey |
 | 302 | 133 | Candy Pitts |
-| 303 | 133 | coleksquad |
-| 304 | 133 | August Hale |
+| 303 | 133 | August Hale |
+| 304 | 133 | coleksquad |
 | 305 | 132 | Paula Snyder |
 | 306 | 131 | Angie Bolton Workman |
 | 307 | 130 | Jasmine Kenney |

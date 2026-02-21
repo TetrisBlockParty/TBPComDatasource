@@ -122,8 +122,8 @@
 | 114 | 100 | Donna |
 | 115 | 99 | Lys |
 | 116 | 99 | Nichol Graham |
-| 117 | 98 | Ryan Williams |
-| 118 | 98 | Armi |
+| 117 | 98 | Armi |
+| 118 | 98 | Ryan Williams |
 | 119 | 98 | Jocelyne Baca |
 | 120 | 96 | Sherry Ogden |
 | 121 | 96 | D3NO |
