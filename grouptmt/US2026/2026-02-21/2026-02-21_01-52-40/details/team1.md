@@ -114,8 +114,8 @@
 | 106 | 77 | Theo Pinnow |
 | 107 | 76 | Archie Ware |
 | 108 | 76 | Kerry Lee Powell |
-| 109 | 75 | Fresno Beotoni |
-| 110 | 75 | Tyler L Hunt |
+| 109 | 75 | Tyler L Hunt |
+| 110 | 75 | Fresno Beotoni |
 | 111 | 74 | Grace Joanne Agnant |
 | 112 | 73 | 'Gilberto Martinez' |
 | 113 | 73 | Loony Fitzone |

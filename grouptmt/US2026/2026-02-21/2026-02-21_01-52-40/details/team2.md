@@ -144,8 +144,8 @@
 | 136 | 309 | Tralonda Weeks |
 | 137 | 297 | James Zaragoza |
 | 138 | 296 | Jennifer Casey-Kay |
-| 139 | 295 | Zany Clusterbuilder |
-| 140 | 295 | Diallo Sparkman |
+| 139 | 295 | Diallo Sparkman |
+| 140 | 295 | Zany Clusterbuilder |
 | 141 | 290 | Jessie McDougald |
 | 142 | 287 | Claire |
 | 143 | 286 | Juanita Lyons |
@@ -153,8 +153,8 @@
 | 145 | 285 | June E Hanson |
 | 146 | 284 | Brittney Jean |
 | 147 | 280 | Kimberly Schall |
-| 148 | 280 | Joseph Musick |
-| 149 | 280 | TF Dyer |
+| 148 | 280 | TF Dyer |
+| 149 | 280 | Joseph Musick |
 | 150 | 278 | Noel Tarmy |
 | 151 | 274 | Melissa Holsinger |
 | 152 | 273 | Missie Lawson Gebhardt |
@@ -174,8 +174,8 @@
 | 166 | 258 | Steven Marshaun |
 | 167 | 257 | Alex Hill |
 | 168 | 256 | Dapper Dasher |
-| 169 | 255 | Santana Miyagi |
-| 170 | 255 | Michelle Pike |
+| 169 | 255 | Michelle Pike |
+| 170 | 255 | Santana Miyagi |
 | 171 | 254 | Libby Hicks |
 | 172 | 252 | Alezandra Smith |
 | 173 | 251 | Shameika Trail |
@@ -249,8 +249,8 @@
 | 241 | 189 | Sanaa Nounoussa |
 | 242 | 188 | Justin Hines |
 | 243 | 185 | Poppy Snapper |
-| 244 | 184 | Sassy Linkbuilder |
-| 245 | 184 | Jumpy Gridpiece |
+| 244 | 184 | Jumpy Gridpiece |
+| 245 | 184 | Sassy Linkbuilder |
 | 246 | 183 | Julie Hamilton |
 | 247 | 183 | Peppy Zone |
 | 248 | 181 | Julay |
@@ -312,8 +312,8 @@
 | 304 | 150 | Eddie Perez |
 | 305 | 149 | Leslie Porter |
 | 306 | 148 | Brittany Radaszewski |
-| 307 | 148 | Shannon Byrd |
-| 308 | 148 | Destiny Cozier |
+| 307 | 148 | Destiny Cozier |
+| 308 | 148 | Shannon Byrd |
 | 309 | 146 | Angie Bolton Workman |
 | 310 | 146 | JacJac |
 | 311 | 146 | Alisa Lamb |
@@ -335,11 +335,11 @@
 | 327 | 138 | Gursharan Sandhu |
 | 328 | 138 | King Shamell Young |
 | 329 | 138 | Ibiza Carolina LaRose |
-| 330 | 136 | Erika Meaux |
-| 331 | 136 | RavensBeard |
+| 330 | 136 | RavensBeard |
+| 331 | 136 | Erika Meaux |
 | 332 | 135 | Robin L. Vial |
-| 333 | 135 | Nancy Reid |
-| 334 | 135 | Michelle Loar |
+| 333 | 135 | Michelle Loar |
+| 334 | 135 | Nancy Reid |
 | 335 | 134 | Candace Noel |
 | 336 | 134 | Christina Jones |
 | 337 | 134 | Sarah Massey |
@@ -385,8 +385,8 @@
 | 377 | 120 | Lively Brickfit |
 | 378 | 120 | Courtney Burcham |
 | 379 | 120 | Latrenya Paynes |
-| 380 | 120 | Makayla Harris |
-| 381 | 120 | Kara Gillen |
+| 380 | 120 | Kara Gillen |
+| 381 | 120 | Makayla Harris |
 | 382 | 119 | Leebo Slice |
 | 383 | 119 | Alison Emmons |
 | 384 | 119 | Deidre Shaffer |

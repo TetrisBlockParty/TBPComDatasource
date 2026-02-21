@@ -58,10 +58,10 @@
 | 50 | 123 | Nugget |
 | 51 | 122 | Shelly Chandler |
 | 52 | 121 | Smiley Tiltbuilder |
-| 53 | 116 | Serena Goodridge |
-| 54 | 116 | Sherri |
-| 55 | 114 | Jessica Cagle |
-| 56 | 114 | Epic Curvetile |
+| 53 | 116 | Sherri |
+| 54 | 116 | Serena Goodridge |
+| 55 | 114 | Epic Curvetile |
+| 56 | 114 | Jessica Cagle |
 | 57 | 113 | Degenerate |
 | 58 | 112 | Jenna McGeorge |
 | 59 | 112 | Chirpy Basepiece |
@@ -115,8 +115,8 @@
 | 107 | 69 | Carol Ricks Raymond |
 | 108 | 69 | Faja |
 | 109 | 68 | LS |
-| 110 | 66 | Bethany Ison |
-| 111 | 66 | Chris Alexinas |
+| 110 | 66 | Chris Alexinas |
+| 111 | 66 | Bethany Ison |
 | 112 | 65 | Angela Geist Jusinski |
 | 113 | 64 | rebel4lyfe |
 | 114 | 64 | Lindsey Gonzalez |
