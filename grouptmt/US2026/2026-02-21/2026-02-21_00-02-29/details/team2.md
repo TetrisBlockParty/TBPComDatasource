@@ -220,11 +220,11 @@
 | 212 | 160 | Rhonda Petro |
 | 213 | 159 | Charvi' Carter |
 | 214 | 158 | Toni Roberson |
-| 215 | 158 | RaeVan Worthington |
-| 216 | 158 | Matthew Turner |
+| 215 | 158 | Matthew Turner |
+| 216 | 158 | RaeVan Worthington |
 | 217 | 157 | Jánine Riggs |
-| 218 | 157 | Klee |
-| 219 | 157 | HarleyJane |
+| 218 | 157 | HarleyJane |
+| 219 | 157 | Klee |
 | 220 | 157 | Dineisha Carpenter |
 | 221 | 156 | Nuggets |
 | 222 | 156 | Ramone Armstrong |
@@ -249,15 +249,15 @@
 | 241 | 142 | Frisky Clearpiece |
 | 242 | 142 | Angela Lynn |
 | 243 | 141 | Markisha Poyndexter |
-| 244 | 140 | Anthony Huebel |
-| 245 | 140 | Peter Palestino |
+| 244 | 140 | Peter Palestino |
+| 245 | 140 | Anthony Huebel |
 | 246 | 139 | Noel Tarmy |
 | 247 | 139 | Jackson Smith |
 | 248 | 138 | Ibiza Carolina LaRose |
 | 249 | 138 | Sho Nuff |
 | 250 | 137 | Chummy Blockbuilder |
-| 251 | 135 | Michelle Loar |
-| 252 | 135 | Nancy Reid |
+| 251 | 135 | Nancy Reid |
+| 252 | 135 | Michelle Loar |
 | 253 | 135 | Davetta Sanford |
 | 254 | 134 | Sarah Massey |
 | 255 | 134 | Ashlyn Berner |

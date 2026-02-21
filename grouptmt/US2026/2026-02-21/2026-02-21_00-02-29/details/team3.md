@@ -42,8 +42,8 @@
 | 34 | 333 | Silly Twist |
 | 35 | 329 | Danielle Rhoades |
 | 36 | 320 | Or Reznitsky |
-| 37 | 307 | Peggi Charon |
-| 38 | 307 | Kristie |
+| 37 | 307 | Kristie |
+| 38 | 307 | Peggi Charon |
 | 39 | 300 | Sherika C. McDaniels |
 | 40 | 296 | Tasha Schriewer |
 | 41 | 295 | Clever Roll |
@@ -68,8 +68,8 @@
 | 60 | 179 | Daira Largen |
 | 61 | 170 | Nerdy Riseclear |
 | 62 | 166 | Danielle Mogg |
-| 63 | 152 | Shiny Zonebuilder |
-| 64 | 152 | Shannon Matthew Byers |
+| 63 | 152 | Shannon Matthew Byers |
+| 64 | 152 | Shiny Zonebuilder |
 | 65 | 149 | Fallorina Susana |
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
