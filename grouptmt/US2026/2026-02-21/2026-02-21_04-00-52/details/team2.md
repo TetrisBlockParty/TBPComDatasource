@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 4805 | Twlight Welch |
-| 2 | 3567 | Rickey Goins Jr. |
-| 3 | 3567 | Taylana Mincy |
+| 2 | 3567 | Taylana Mincy |
+| 3 | 3567 | Rickey Goins Jr. |
 | 4 | 3460 | Poppy Snap |
 | 5 | 3323 | Sean Dugar |
 | 6 | 3032 | Trisha Gill |
@@ -215,8 +215,8 @@
 | 207 | 270 | Alexandra Weir |
 | 208 | 268 | Vanessa Moreno |
 | 209 | 267 | Mindy Leigh Head |
-| 210 | 266 | Mighty Shatterfit |
-| 211 | 266 | Autumn Schaeffer |
+| 210 | 266 | Autumn Schaeffer |
+| 211 | 266 | Mighty Shatterfit |
 | 212 | 266 | Joyce Johnson Vaughn |
 | 213 | 263 | August Hale |
 | 214 | 263 | Taylor Flowers |

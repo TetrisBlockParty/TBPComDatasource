@@ -48,8 +48,8 @@
 | 40 | 194 | Sharon Reynolds |
 | 41 | 192 | Mandyy Rae |
 | 42 | 191 | Jazzy Framezone |
-| 43 | 190 | Sweetts |
-| 44 | 190 | Thorne Shumate |
+| 43 | 190 | Thorne Shumate |
+| 44 | 190 | Sweetts |
 | 45 | 189 | Happy Basegrid |
 | 46 | 185 | Karin Gillen |
 | 47 | 180 | Billie Dawn Sparks |
@@ -94,12 +94,12 @@
 | 86 | 112 | Kristen Gideon |
 | 87 | 112 | Nicole Roseberry Weber |
 | 88 | 111 | Agustin Duarte Orozco |
-| 89 | 110 | Garcia Bailey |
-| 90 | 110 | Heidi Feurer |
+| 89 | 110 | Heidi Feurer |
+| 90 | 110 | Garcia Bailey |
 | 91 | 108 | Tavia |
 | 92 | 107 | Jodee Woods |
-| 93 | 105 | Flashy Rotator |
-| 94 | 105 | Barry Mac'Ockner |
+| 93 | 105 | Barry Mac'Ockner |
+| 94 | 105 | Flashy Rotator |
 | 95 | 103 | Ash Galvan |
 | 96 | 102 | Jennifer ManWarren |
 | 97 | 99 | Ty Brown |
