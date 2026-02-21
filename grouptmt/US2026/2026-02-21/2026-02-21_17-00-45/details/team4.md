@@ -62,8 +62,8 @@
 | 54 | 341 | Clarence Patawaran |
 | 55 | 309 | Lisa Davis |
 | 56 | 308 | Jen Allison |
-| 57 | 300 | Jason Hart |
-| 58 | 300 | David Lay |
+| 57 | 300 | David Lay |
+| 58 | 300 | Jason Hart |
 | 59 | 299 | Livvy |
 | 60 | 295 | Latisha Davis |
 | 61 | 293 | HastyGrabber |
@@ -122,8 +122,8 @@
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
 | 116 | 152 | Jessica Bohlken |
-| 117 | 151 | Dana Scott |
-| 118 | 151 | Bethany Ison |
+| 117 | 151 | Bethany Ison |
+| 118 | 151 | Dana Scott |
 | 119 | 150 | Ren Mc |
 | 120 | 148 | Brittany Marsh |
 | 121 | 148 | Janita Parrish |
@@ -136,8 +136,8 @@
 | 128 | 144 | Mr. Party |
 | 129 | 143 | Nugget |
 | 130 | 141 | Malakai Darien Fox |
-| 131 | 140 | Shannon Ferrari |
-| 132 | 140 | Jenna McGeorge |
+| 131 | 140 | Jenna McGeorge |
+| 132 | 140 | Shannon Ferrari |
 | 133 | 137 | PeaceOs |
 | 134 | 136 | Serena Goodridge |
 | 135 | 136 | Tanner Lund |
@@ -159,14 +159,14 @@
 | 151 | 125 | AyeKay |
 | 152 | 124 | Allen Lloyd |
 | 153 | 123 | Cherrish Duren |
-| 154 | 122 | Sherri |
-| 155 | 122 | Carlos Ramirez |
-| 156 | 121 | Smiley Tiltbuilder |
-| 157 | 121 | Megan Cutshaw |
+| 154 | 122 | Carlos Ramirez |
+| 155 | 122 | Sherri |
+| 156 | 121 | Megan Cutshaw |
+| 157 | 121 | Smiley Tiltbuilder |
 | 158 | 120 | Joshua Guess |
 | 159 | 119 | Gwendolyn Pitcairn |
-| 160 | 119 | Kristin Manee |
-| 161 | 119 | Judy Cox |
+| 160 | 119 | Judy Cox |
+| 161 | 119 | Kristin Manee |
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Ultramarine |
 | 164 | 115 | Jayk |

@@ -151,8 +151,8 @@
 | 143 | 212 | Krystal Gerstberger |
 | 144 | 211 | Katrina Schroeder |
 | 145 | 210 | Jenny Hrndz |
-| 146 | 207 | Chris Bell |
-| 147 | 207 | rnr junky |
+| 146 | 207 | rnr junky |
+| 147 | 207 | Chris Bell |
 | 148 | 203 | Twisty Brick LT |
 | 149 | 197 | Ashley Tookes |
 | 150 | 195 | Nicha Hooker |
@@ -262,9 +262,9 @@
 | 254 | 118 | Damian Reid |
 | 255 | 118 | Sabrina Hardrick |
 | 256 | 115 | Hoppy Buildout |
-| 257 | 115 | Daring Builder |
-| 258 | 115 | Stella |
-| 259 | 115 | Denise Marie |
+| 257 | 115 | Stella |
+| 258 | 115 | Denise Marie |
+| 259 | 115 | Daring Builder |
 | 260 | 114 | Amanda Neal |
 | 261 | 113 | Brave Brickster |
 | 262 | 113 | Brian Battjes |
@@ -275,21 +275,21 @@
 | 267 | 110 | Danielle Weikel |
 | 268 | 110 | Tye Stovall |
 | 269 | 110 | Carol Cain Thurman |
-| 270 | 109 | mommablock |
-| 271 | 109 | Diana Ibarra |
-| 272 | 108 | Rachel Napper |
-| 273 | 108 | LaTanya GeminiondaRise Johnson |
+| 270 | 109 | Diana Ibarra |
+| 271 | 109 | mommablock |
+| 272 | 108 | LaTanya GeminiondaRise Johnson |
+| 273 | 108 | Rachel Napper |
 | 274 | 108 | Hanna Kim |
 | 275 | 108 | Rachel |
-| 276 | 107 | Jumpy Wrecker |
-| 277 | 107 | Melissa Snyder |
+| 276 | 107 | Melissa Snyder |
+| 277 | 107 | Jumpy Wrecker |
 | 278 | 107 | Bouncy Blockbuilder |
-| 279 | 106 | Elizabeth Renee |
-| 280 | 106 | Cheeky Snapper |
+| 279 | 106 | Cheeky Snapper |
+| 280 | 106 | Elizabeth Renee |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
-| 283 | 105 | Boldy Blocker |
-| 284 | 105 | Emi |
+| 283 | 105 | Emi |
+| 284 | 105 | Boldy Blocker |
 | 285 | 104 | Samantha Lynn |
 | 286 | 104 | Sarah Moyer |
 | 287 | 104 | bean |
@@ -321,8 +321,8 @@
 | 313 | 98 | Rania Zaqout |
 | 314 | 98 | Erika Thornton |
 | 315 | 97 | Saucy Buildout |
-| 316 | 97 | Paula Little |
-| 317 | 97 | Tina Baurdau |
+| 316 | 97 | Tina Baurdau |
+| 317 | 97 | Paula Little |
 | 318 | 96 | Oliver Neal II |
 | 319 | 96 | Christopher Woost |
 | 320 | 96 | D3NO |
