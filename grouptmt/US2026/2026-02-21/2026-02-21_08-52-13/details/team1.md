@@ -110,8 +110,8 @@
 | 102 | 132 | Lori Sanders- Davis |
 | 103 | 132 | Davery Spencer Adair |
 | 104 | 130 | Dandy Basegrid |
-| 105 | 128 | Uhog SF |
-| 106 | 128 | lil mickey |
+| 105 | 128 | lil mickey |
+| 106 | 128 | Uhog SF |
 | 107 | 127 | Michael |
 | 108 | 126 | Cece Ibarra |
 | 109 | 124 | Cartier |

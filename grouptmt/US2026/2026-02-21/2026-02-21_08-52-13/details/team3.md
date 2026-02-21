@@ -44,8 +44,8 @@
 | 36 | 587 | Danielle Becker |
 | 37 | 580 | Amanda L Baker |
 | 38 | 568 | Shonna Roberts |
-| 39 | 546 | Dolores Falco |
-| 40 | 546 | Snappy Glidepiece |
+| 39 | 546 | Snappy Glidepiece |
+| 40 | 546 | Dolores Falco |
 | 41 | 541 | MissTaylor |
 | 42 | 533 | Sarah Fehring |
 | 43 | 528 | Natasha Jones |
