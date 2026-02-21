@@ -112,8 +112,8 @@
 | 104 | 348 | CeceGeGe |
 | 105 | 346 | Groovy Catcher |
 | 106 | 332 | Chauntee Alfrey-Cardinale |
-| 107 | 323 | Sherry Ogden |
-| 108 | 323 | Ashley Raines |
+| 107 | 323 | Ashley Raines |
+| 108 | 323 | Sherry Ogden |
 | 109 | 321 | Dapper Snap |
 | 110 | 320 | Or Reznitsky |
 | 111 | 318 | Chasity |
@@ -140,8 +140,8 @@
 | 132 | 259 | Louise Stacy Sisson |
 | 133 | 258 | Tamara Deherrera |
 | 134 | 256 | ren |
-| 135 | 252 | Mcathen |
-| 136 | 252 | Nicole Flippo |
+| 135 | 252 | Nicole Flippo |
+| 136 | 252 | Mcathen |
 | 137 | 249 | Denise Nardoni |
 | 138 | 246 | Sashay Tapae Simpson |
 | 139 | 237 | Brandon Givens |
@@ -229,8 +229,8 @@
 | 221 | 153 | Tipsy Zonebuilder |
 | 222 | 153 | Cozy Snaplink |
 | 223 | 152 | Shiny Zonebuilder |
-| 224 | 152 | Katrina E Jelks |
-| 225 | 152 | Lesley Perez |
+| 224 | 152 | Lesley Perez |
+| 225 | 152 | Katrina E Jelks |
 | 226 | 150 | Valerie Gendron |
 | 227 | 149 | Peachy Rollfit |
 | 228 | 149 | Alexis Taylor |
@@ -265,8 +265,8 @@
 | 257 | 130 | Melissa Orth Hunter |
 | 258 | 129 | Juliana Dottore |
 | 259 | 129 | Samantha Lynn |
-| 260 | 128 | MizzMonick Smith |
-| 261 | 128 | Jen Lewis |
+| 260 | 128 | Jen Lewis |
+| 261 | 128 | MizzMonick Smith |
 | 262 | 127 | mzcatzy |
 | 263 | 126 | Pam Holt Powell |
 | 264 | 126 | RickyG |
@@ -382,7 +382,7 @@
 | 374 | 90 | Brittany |
 | 375 | 90 | Kellie Montgomery |
 | 376 | 90 | Whitney Manuel |
-| 377 | 89 | Zac Hudak |
+| 377 | 89 | Patti Skiles |
 | 378 | 89 | Alison Baus |
 | 379 | 89 | Matty Ray |
 | 380 | 89 | Zac Hudak |

@@ -96,8 +96,8 @@
 | 88 | 211 | Dizzy Tiley |
 | 89 | 205 | Sarah Neathery |
 | 90 | 204 | Brittney Orengo |
-| 91 | 202 | shar |
-| 92 | 202 | Monica Daley |
+| 91 | 202 | Monica Daley |
+| 92 | 202 | shar |
 | 93 | 200 | Holly Jolly |
 | 94 | 198 | Mike Solo |
 | 95 | 198 | Dustee Craddock-Harrison |
@@ -105,12 +105,12 @@
 | 97 | 196 | Jeff Brian Gates |
 | 98 | 196 | Damn Libra |
 | 99 | 194 | Zany Twisterfit |
-| 100 | 192 | Crystal Carroll |
-| 101 | 192 | Shauna Havard |
+| 100 | 192 | Shauna Havard |
+| 101 | 192 | Crystal Carroll |
 | 102 | 191 | loulou |
 | 103 | 191 | Melvin Baird |
-| 104 | 189 | Denise Carlson |
-| 105 | 189 | Calvin Dennis |
+| 104 | 189 | Calvin Dennis |
+| 105 | 189 | Denise Carlson |
 | 106 | 187 | TheNeesh50 |
 | 107 | 186 | Leslie Nicole |
 | 108 | 185 | Andy Cabral |

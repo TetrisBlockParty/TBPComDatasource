@@ -40,8 +40,8 @@
 | 32 | 517 | Felicia Lewis |
 | 33 | 516 | comrade fish |
 | 34 | 511 | Jen Sartain |
-| 35 | 510 | Lawrence Belanger |
-| 36 | 510 | Colena Davenport |
+| 35 | 510 | Colena Davenport |
+| 36 | 510 | Lawrence Belanger |
 | 37 | 508 | Michelle Nicole |
 | 38 | 486 | Sevens4L |
 | 39 | 483 | Ryan Lunnin |
@@ -239,9 +239,9 @@
 | 231 | 99 | Barrbaric |
 | 232 | 99 | Brad MG |
 | 233 | 98 | DoodleBug |
-| 234 | 97 | Meechie |
-| 235 | 97 | Steve Bomkamp |
-| 236 | 97 | Dizzy Riseclear |
+| 234 | 97 | Steve Bomkamp |
+| 235 | 97 | Dizzy Riseclear |
+| 236 | 97 | Meechie |
 | 237 | 96 | Howdi Duty |
 | 238 | 95 | Jeanna Dunn |
 | 239 | 93 | Jenny Gingrich Fuentes |
