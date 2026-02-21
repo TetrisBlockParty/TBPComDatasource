@@ -46,8 +46,8 @@
 | 38 | 244 | Franswa |
 | 39 | 243 | Sarah Roberts |
 | 40 | 241 | Kristen Roles Robben |
-| 41 | 212 | Jaimie Lynn |
-| 42 | 212 | Tdub |
+| 41 | 212 | Tdub |
+| 42 | 212 | Jaimie Lynn |
 | 43 | 211 | Deanna L Hermanson |
 | 44 | 208 | Carrie Beck Geartz |
 | 45 | 206 | Elaine Elaine |
@@ -153,7 +153,7 @@
 | 145 | 84 | Speedy Snapfall |
 | 146 | 84 | Charla Pross-Fugleberg |
 | 147 | 83 | Tipsy Riseclear |
-| 148 | 83 | Timothy Dew |
+| 148 | 83 | Guest |
 | 149 | 83 | Death |
 | 150 | 83 | Timothy Dew |
 | 151 | 81 | Shawn Thisismyoldaccount Gilmore |
@@ -192,8 +192,8 @@
 | 184 | 70 | Nerdy Linkblock |
 | 185 | 69 | Christy Jones |
 | 186 | 68 | Unelanuhi Belladonna Mystikal Bomar |
-| 187 | 68 | NicaOrlice |
-| 188 | 68 | Ariel Whittington |
+| 187 | 68 | Ariel Whittington |
+| 188 | 68 | NicaOrlice |
 | 189 | 67 | Jennifer Duttry |
 | 190 | 67 | Mitchel White |
 | 191 | 66 | Angela Fairbank |

@@ -259,8 +259,8 @@
 | 251 | 84 | gremicx |
 | 252 | 82 | Stephanie Whitefield |
 | 253 | 81 | Tina Baurdau |
-| 254 | 80 | Oliver Neal II |
-| 255 | 80 | Vixen Queen |
+| 254 | 80 | Vixen Queen |
+| 255 | 80 | Oliver Neal II |
 | 256 | 80 | Christian Luna |
 | 257 | 79 | Rania Zaqout |
 | 258 | 79 | Jessie Chung |

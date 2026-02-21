@@ -171,8 +171,8 @@
 | 163 | 381 | Amanda Ferrell |
 | 164 | 380 | Joshua Mandel |
 | 165 | 380 | Calandra Shaya Robinson |
-| 166 | 377 | Liberty |
-| 167 | 377 | Roy Salyer |
+| 166 | 377 | Roy Salyer |
+| 167 | 377 | Liberty |
 | 168 | 365 | April Dawn Gussler |
 | 169 | 364 | Shinette Dobson |
 | 170 | 363 | William Meussner |
@@ -272,11 +272,11 @@
 | 264 | 257 | Shameika Trail |
 | 265 | 257 | Lyndi Robinson Wakefield |
 | 266 | 256 | Giddy Gridclear |
-| 267 | 256 | Smashanator |
-| 268 | 256 | Tee Jaleesa |
+| 267 | 256 | Tee Jaleesa |
+| 268 | 256 | Smashanator |
 | 269 | 255 | Santana Miyagi |
-| 270 | 254 | Julie Hamilton |
-| 271 | 254 | Rose Fx |
+| 270 | 254 | Rose Fx |
+| 271 | 254 | Julie Hamilton |
 | 272 | 252 | Matt Johnson |
 | 273 | 251 | Ann Knutson Anderson |
 | 274 | 250 | Barbra Miller |
@@ -364,8 +364,8 @@
 | 356 | 196 | Cass Shirley |
 | 357 | 195 | Snappy Shatterfit |
 | 358 | 194 | Hoppy Brickmatch |
-| 359 | 194 | Kimberly Ann |
-| 360 | 194 | Mike Aprilliano |
+| 359 | 194 | Mike Aprilliano |
+| 360 | 194 | Kimberly Ann |
 | 361 | 193 | Nika Bee |
 | 362 | 193 | Kelly Ann McCormick |
 | 363 | 193 | Matthew Turner |
@@ -374,12 +374,12 @@
 | 366 | 191 | John Quiring |
 | 367 | 191 | Sho Nuff |
 | 368 | 190 | blarg |
-| 369 | 190 | Jessica Kaye DeAguero |
-| 370 | 190 | Jennifer Leigh |
+| 369 | 190 | Jennifer Leigh |
+| 370 | 190 | Jessica Kaye DeAguero |
 | 371 | 188 | Seth Wrieden |
 | 372 | 188 | Justin Hines |
-| 373 | 187 | Stefanie Zonzini-Gagliardi |
-| 374 | 187 | Amélie Cadieux |
+| 373 | 187 | Amélie Cadieux |
+| 374 | 187 | Stefanie Zonzini-Gagliardi |
 | 375 | 186 | Joshua Mullings |
 | 376 | 186 | Jackie Jackie Lee |
 | 377 | 185 | JacJac |
@@ -388,8 +388,8 @@
 | 380 | 184 | Regina Unruh |
 | 381 | 184 | Brittany Radaszewski |
 | 382 | 183 | Wakanda Forever |
-| 383 | 183 | Ys Muhammed |
-| 384 | 183 | Shaun Church |
+| 383 | 183 | Shaun Church |
+| 384 | 183 | Ys Muhammed |
 | 385 | 182 | Niceday |
 | 386 | 182 | Donna M Carter |
 | 387 | 181 | Julay |
@@ -422,8 +422,8 @@
 | 414 | 170 | Dedra Steward |
 | 415 | 170 | Darlene Bowman |
 | 416 | 170 | Kenya Felix |
-| 417 | 169 | Eddie Perez |
-| 418 | 169 | Hyper Cluster |
+| 417 | 169 | Hyper Cluster |
+| 418 | 169 | Eddie Perez |
 | 419 | 169 | Lively Catcher |
 | 420 | 169 | William Hunt |
 | 421 | 168 | Phil J. Grombliniak |
