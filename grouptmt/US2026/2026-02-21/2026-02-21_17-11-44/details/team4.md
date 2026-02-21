@@ -111,8 +111,8 @@
 | 103 | 177 | Andria Lynn |
 | 104 | 176 | Justin Hannigan |
 | 105 | 174 | Zethra Prenisha Rahming |
-| 106 | 173 | Ren Mc |
-| 107 | 173 | blockstar |
+| 106 | 173 | blockstar |
+| 107 | 173 | Ren Mc |
 | 108 | 170 | Girl |
 | 109 | 167 | Denise Carlson |
 | 110 | 164 | ThaEviLJeNiuZ |
@@ -139,8 +139,8 @@
 | 131 | 140 | Jenna McGeorge |
 | 132 | 140 | Shannon Ferrari |
 | 133 | 137 | PeaceOs |
-| 134 | 136 | Serena Goodridge |
-| 135 | 136 | Tanner Lund |
+| 134 | 136 | Tanner Lund |
+| 135 | 136 | Serena Goodridge |
 | 136 | 135 | ĥuf |
 | 137 | 134 | Chirpy Basepiece |
 | 138 | 132 | Roger Coulter |
@@ -164,9 +164,9 @@
 | 156 | 121 | Megan Cutshaw |
 | 157 | 121 | Smiley Tiltbuilder |
 | 158 | 120 | Joshua Guess |
-| 159 | 119 | Kristin Manee |
-| 160 | 119 | Gwendolyn Pitcairn |
-| 161 | 119 | Judy Cox |
+| 159 | 119 | Judy Cox |
+| 160 | 119 | Kristin Manee |
+| 161 | 119 | Gwendolyn Pitcairn |
 | 162 | 116 | Diana Houts |
 | 163 | 115 | Ultramarine |
 | 164 | 115 | Jayk |

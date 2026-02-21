@@ -144,8 +144,8 @@
 | 136 | 222 | Jimmie Clemons |
 | 137 | 220 | Stephanie Blkpep Davidson |
 | 138 | 217 | Jess Bissett |
-| 139 | 216 | Tom Nault |
-| 140 | 216 | Aaron Pitkin |
+| 139 | 216 | Aaron Pitkin |
+| 140 | 216 | Tom Nault |
 | 141 | 214 | Amy Fuller Heaton |
 | 142 | 214 | Leah Barnett |
 | 143 | 213 | Morgan Martinez |
@@ -252,8 +252,8 @@
 | 244 | 123 | Michael Latasha Gray |
 | 245 | 122 | BabyTonj Evans |
 | 246 | 122 | Giggly Brickroll |
-| 247 | 121 | Loopy Clusterer |
-| 248 | 121 | Fredd Thomas |
+| 247 | 121 | Fredd Thomas |
+| 248 | 121 | Loopy Clusterer |
 | 249 | 121 | mzcatzy |
 | 250 | 120 | Eon Harris |
 | 251 | 120 | Lys |
