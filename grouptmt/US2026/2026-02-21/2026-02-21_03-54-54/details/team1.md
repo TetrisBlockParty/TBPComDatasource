@@ -90,16 +90,16 @@
 | 82 | 114 | Giddy Cascade |
 | 83 | 114 | Colleen Wise |
 | 84 | 112 | Miguel Teixeira |
-| 85 | 112 | Kristen Gideon |
-| 86 | 112 | Christina Graham |
+| 85 | 112 | Christina Graham |
+| 86 | 112 | Kristen Gideon |
 | 87 | 112 | Nicole Roseberry Weber |
 | 88 | 111 | Agustin Duarte Orozco |
 | 89 | 110 | Garcia Bailey |
 | 90 | 110 | Heidi Feurer |
 | 91 | 108 | Tavia |
 | 92 | 107 | Jodee Woods |
-| 93 | 105 | Barry Mac'Ockner |
-| 94 | 105 | Flashy Rotator |
+| 93 | 105 | Flashy Rotator |
+| 94 | 105 | Barry Mac'Ockner |
 | 95 | 103 | Ash Galvan |
 | 96 | 102 | Jennifer ManWarren |
 | 97 | 99 | Bhelle Sumile |

@@ -136,8 +136,8 @@
 | 128 | 409 | Sparkles |
 | 129 | 401 | Poppy Snap |
 | 130 | 400 | Crystie Hicks |
-| 131 | 397 | Destiny Cozier |
-| 132 | 397 | Ashley Guernsey-Martin |
+| 131 | 397 | Ashley Guernsey-Martin |
+| 132 | 397 | Destiny Cozier |
 | 133 | 391 | Chilly Bridgepiece |
 | 134 | 390 | Dustin Rains |
 | 135 | 388 | Howard Forest |
@@ -171,8 +171,8 @@
 | 163 | 328 | Marie Boyd Faulk |
 | 164 | 327 | Danielle Simmons |
 | 165 | 320 | Sam Smith |
-| 166 | 318 | Juanita Lyons |
-| 167 | 318 | Trista Dumais |
+| 166 | 318 | Trista Dumais |
+| 167 | 318 | Juanita Lyons |
 | 168 | 317 | bru |
 | 169 | 316 | Maria Escobar |
 | 170 | 312 | Michelle Pike |

@@ -131,8 +131,8 @@
 | 123 | 123 | Kristie McFarland |
 | 124 | 122 | Shimika Enay Wallace |
 | 125 | 122 | Terry Jo Jones |
-| 126 | 121 | Boldy Corner |
-| 127 | 121 | Michael Latasha Gray |
+| 126 | 121 | Michael Latasha Gray |
+| 127 | 121 | Boldy Corner |
 | 128 | 120 | Jessica |
 | 129 | 118 | Fancy Curver |
 | 130 | 117 | Beth Ingham |
