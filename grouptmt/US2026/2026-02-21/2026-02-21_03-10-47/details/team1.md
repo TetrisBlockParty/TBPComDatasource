@@ -58,14 +58,14 @@
 | 50 | 154 | Sweet Baker |
 | 51 | 153 | Standia Civil |
 | 52 | 151 | Hyper |
-| 53 | 148 | Josie Kirt |
-| 54 | 148 | Jessie Lynn |
+| 53 | 148 | Jessie Lynn |
+| 54 | 148 | Josie Kirt |
 | 55 | 147 | Veronica Eve |
 | 56 | 145 | BigWeenie69 |
 | 57 | 145 | Lachelle Dillon |
 | 58 | 144 | Plucky Ziggy |
-| 59 | 144 | Tanya Carpenter-Reynolds |
-| 60 | 144 | Tana |
+| 59 | 144 | Tana |
+| 60 | 144 | Tanya Carpenter-Reynolds |
 | 61 | 141 | Susanna Guerry |
 | 62 | 137 | Nadine Velardo |
 | 63 | 133 | Brandi Huntington |
@@ -79,8 +79,8 @@
 | 71 | 119 | Irual Hctrab |
 | 72 | 117 | David DeSantis |
 | 73 | 116 | Kristen Roles Robben |
-| 74 | 114 | Giddy Cascade |
-| 75 | 114 | Colleen Wise |
+| 74 | 114 | Colleen Wise |
+| 75 | 114 | Giddy Cascade |
 | 76 | 112 | Christina Graham |
 | 77 | 112 | Kristen Gideon |
 | 78 | 112 | Miguel Teixeira |
