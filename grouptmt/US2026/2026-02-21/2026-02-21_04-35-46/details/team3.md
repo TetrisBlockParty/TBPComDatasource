@@ -94,14 +94,14 @@
 | 86 | 193 | Shunta Jacobs |
 | 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
-| 89 | 187 | Twisty Brick LT |
-| 90 | 187 | Speedy Bridger |
+| 89 | 187 | Speedy Bridger |
+| 90 | 187 | Twisty Brick LT |
 | 91 | 185 | Danielle Cutler |
 | 92 | 184 | Jennie Beranek |
 | 93 | 183 | Judi Dobson |
 | 94 | 182 | Ashley Tookes |
-| 95 | 180 | Fallorina Susana |
-| 96 | 180 | Tessina Dewey-Mancino |
+| 95 | 180 | Tessina Dewey-Mancino |
+| 96 | 180 | Fallorina Susana |
 | 97 | 179 | Daira Largen |
 | 98 | 178 | Khaleada McGill Banks |
 | 99 | 175 | Jenny Hrndz |
@@ -127,8 +127,8 @@
 | 119 | 135 | Nicole Flippo |
 | 120 | 134 | DanceLuvLaugh |
 | 121 | 133 | Giddy Twistbuilder |
-| 122 | 131 | Emma |
-| 123 | 131 | Jl |
+| 122 | 131 | Jl |
+| 123 | 131 | Emma |
 | 124 | 128 | Angel Mendez |
 | 125 | 127 | Marquita Sheard |
 | 126 | 127 | Aerian Preston |
@@ -217,8 +217,8 @@
 | 209 | 84 | Ava Petito |
 | 210 | 84 | Amanda L Baker |
 | 211 | 83 | Michael Nowogorski |
-| 212 | 82 | Crystel b520 |
-| 213 | 82 | Stephanie Whitefield |
+| 212 | 82 | Stephanie Whitefield |
+| 213 | 82 | Crystel b520 |
 | 214 | 81 | Tina Baurdau |
 | 215 | 80 | Vixen Queen |
 | 216 | 80 | Oliver Neal II |
