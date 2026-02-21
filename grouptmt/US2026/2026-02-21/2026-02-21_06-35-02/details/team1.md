@@ -76,15 +76,15 @@
 | 68 | 163 | Chad Atchley |
 | 69 | 161 | Abbey Crespo |
 | 70 | 161 | Jennifer Olewnik Soborowski |
-| 71 | 155 | David DeSantis |
-| 72 | 155 | Standia Civil |
+| 71 | 155 | Standia Civil |
+| 72 | 155 | David DeSantis |
 | 73 | 153 | Shiny Gridmatch |
 | 74 | 152 | Jacqueline Unique |
 | 75 | 149 | Tana |
 | 76 | 148 | Jessie Lynn |
 | 77 | 147 | Veronica Eve |
-| 78 | 145 | BigWeenie69 |
-| 79 | 145 | Lachelle Dillon |
+| 78 | 145 | Lachelle Dillon |
+| 79 | 145 | BigWeenie69 |
 | 80 | 144 | Tanya Carpenter-Reynolds |
 | 81 | 144 | Plucky Ziggy |
 | 82 | 144 | femmefatale |
@@ -182,10 +182,10 @@
 | 174 | 74 | Eddie Dillon |
 | 175 | 74 | Grace Joanne Agnant |
 | 176 | 73 | Shanae Grant |
-| 177 | 72 | John J. Cronin |
-| 178 | 72 | Tipsy Strikerpiece |
+| 177 | 72 | Tipsy Strikerpiece |
+| 178 | 72 | John J. Cronin |
 | 179 | 71 | John Kim |
-| 180 | 70 | Kenton Billings |
+| 180 | 70 | Nerdy Linkblock |
 | 181 | 70 | Seth Wesson |
 | 182 | 70 | Daring Fitclear |
 | 183 | 70 | Kenton Billings |

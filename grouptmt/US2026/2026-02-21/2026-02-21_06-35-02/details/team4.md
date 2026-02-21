@@ -53,8 +53,8 @@
 | 45 | 226 | Breannah Grafe |
 | 46 | 207 | Alyssa Papen |
 | 47 | 205 | Sarah Neathery |
-| 48 | 204 | David Lay |
-| 49 | 204 | Brittney Orengo |
+| 48 | 204 | Brittney Orengo |
+| 49 | 204 | David Lay |
 | 50 | 198 | Mike Solo |
 | 51 | 197 | Autum Leigh |
 | 52 | 194 | Jamie Mann-Deichmann |
@@ -65,8 +65,8 @@
 | 57 | 168 | Anthony Magaraci |
 | 58 | 167 | Dustee Craddock-Harrison |
 | 59 | 166 | Denise Carlson |
-| 60 | 165 | Courtney Cicoria |
-| 61 | 165 | Casey Grabner |
+| 60 | 165 | Casey Grabner |
+| 61 | 165 | Courtney Cicoria |
 | 62 | 160 | Carter Jones |
 | 63 | 159 | Holly Jolly |
 | 64 | 159 | Swanky Fitline |
@@ -80,8 +80,8 @@
 | 72 | 146 | Peachy Fall |
 | 73 | 141 | Malakai Darien Fox |
 | 74 | 140 | Shannon Ferrari |
-| 75 | 134 | Jessica Bohlken |
-| 76 | 134 | Chirpy Basepiece |
+| 75 | 134 | Chirpy Basepiece |
+| 76 | 134 | Jessica Bohlken |
 | 77 | 133 | Robin Watters |
 | 78 | 132 | Degenerate |
 | 79 | 132 | Jenna McGeorge |
@@ -120,9 +120,9 @@
 | 112 | 108 | Rio Rocha |
 | 113 | 107 | Marcus Todd |
 | 114 | 106 | Jonathan Kimbrough |
-| 115 | 105 | Sam Middleton |
-| 116 | 105 | TinyLegoRose |
-| 117 | 105 | TheNeesh50 |
+| 115 | 105 | TheNeesh50 |
+| 116 | 105 | Sam Middleton |
+| 117 | 105 | TinyLegoRose |
 | 118 | 105 | AyeKay |
 | 119 | 104 | YoMomma |
 | 120 | 104 | Adam Randall |
@@ -343,7 +343,7 @@
 | 335 | 40 | Tabi Williams |
 | 336 | 40 | Bussy Bay |
 | 337 | 40 | Alexis Kelly |
-| 338 | 40 | Tabi Williams |
+| 338 | 40 | slurp |
 | 339 | 40 | Angelson |
 | 340 | 40 | Zach Kerbs |
 | 341 | 39 | Meli  Jackson |

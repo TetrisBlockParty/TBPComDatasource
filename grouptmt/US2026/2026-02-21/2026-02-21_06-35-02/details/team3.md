@@ -70,8 +70,8 @@
 | 62 | 360 | Ebony West-Cundiff |
 | 63 | 351 | Calista Jo Dickson |
 | 64 | 343 | Silly Twist |
-| 65 | 342 | Annie Déè |
-| 66 | 342 | Trezure Gonzalez |
+| 65 | 342 | Trezure Gonzalez |
+| 66 | 342 | Annie Déè |
 | 67 | 338 | Danielle Rhoades |
 | 68 | 332 | Chauntee Alfrey-Cardinale |
 | 69 | 325 | Shari Garber |
@@ -97,8 +97,8 @@
 | 89 | 224 | Mykal Burton |
 | 90 | 223 | Jeana Gilbert |
 | 91 | 222 | Jimmie Clemons |
-| 92 | 218 | mjl574 |
-| 93 | 218 | Judi Dobson |
+| 92 | 218 | Judi Dobson |
+| 93 | 218 | mjl574 |
 | 94 | 214 | Amy Fuller Heaton |
 | 95 | 213 | Tom Nault |
 | 96 | 207 | rnr junky |
@@ -107,11 +107,11 @@
 | 99 | 202 | Shannon Matthew Byers |
 | 100 | 200 | Twisty Brick LT |
 | 101 | 199 | joclisa |
-| 102 | 195 | Nicha Hooker |
-| 103 | 195 | Jenny Hrndz |
+| 102 | 195 | Jenny Hrndz |
+| 103 | 195 | Nicha Hooker |
 | 104 | 194 | glichmod |
-| 105 | 193 | Shunta Jacobs |
-| 106 | 193 | Clever Shiftsnap |
+| 105 | 193 | Clever Shiftsnap |
+| 106 | 193 | Shunta Jacobs |
 | 107 | 192 | Chasity |
 | 108 | 187 | Scott Carleton |
 | 109 | 187 | Speedy Bridger |
@@ -127,8 +127,8 @@
 | 119 | 170 | Blocked |
 | 120 | 166 | Danielle Mogg |
 | 121 | 164 | rosy |
-| 122 | 159 | Jone |
-| 123 | 159 | Morgan Martinez |
+| 122 | 159 | Morgan Martinez |
+| 123 | 159 | Jone |
 | 124 | 158 | Grams |
 | 125 | 156 | Joey Banks |
 | 126 | 155 | BŘŰŤİÇŨŚ |
@@ -237,9 +237,9 @@
 | 229 | 90 | Nichole Greene |
 | 230 | 90 | Tiffany Kaupang |
 | 231 | 90 | Rebel124 |
-| 232 | 89 | Patti Skiles |
-| 233 | 89 | Saucy Buildout |
-| 234 | 89 | Shicken Nuggit |
+| 232 | 89 | Shicken Nuggit |
+| 233 | 89 | Patti Skiles |
+| 234 | 89 | Saucy Buildout |
 | 235 | 88 | Erika Thornton |
 | 236 | 88 | Kate Farok |
 | 237 | 88 | Dapper Towerfit |
