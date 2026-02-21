@@ -34,8 +34,8 @@
 | 26 | 852 | cowboy25469 |
 | 27 | 821 | Jessica Ann |
 | 28 | 818 | Delilah belle |
-| 29 | 810 | Shane Wilson Jr. |
-| 30 | 810 | Zippy Strikesnap |
+| 29 | 810 | Zippy Strikesnap |
+| 30 | 810 | Shane Wilson Jr. |
 | 31 | 772 | Corie A. Brinson |
 | 32 | 733 | Chummy Shatterer |
 | 33 | 714 | Amber Jones |
@@ -90,10 +90,10 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Peggi Charon |
-| 88 | 307 | Blocked |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
+| 87 | 307 | Blocked |
+| 88 | 307 | Peggi Charon |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -109,15 +109,15 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
 | 109 | 214 | Amy Fuller Heaton |
 | 110 | 213 | Tom Nault |
-| 111 | 212 | Kristie McFarland |
-| 112 | 212 | Shunta Jacobs |
+| 111 | 212 | Shunta Jacobs |
+| 112 | 212 | Kristie McFarland |
 | 113 | 211 | Katrina Schroeder |
 | 114 | 207 | rnr junky |
 | 115 | 206 | Stephanie Blkpep Davidson |
@@ -139,8 +139,8 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Betty Rosas |
 | 138 | 166 | Danielle Mogg |
@@ -218,8 +218,8 @@
 | 210 | 113 | Brian Battjes |
 | 211 | 113 | Valerie Gendron |
 | 212 | 111 | Stephanie Zahm |
-| 213 | 110 | Danielle Weikel |
-| 214 | 110 | Stella |
+| 213 | 110 | Stella |
+| 214 | 110 | Danielle Weikel |
 | 215 | 110 | Tye Stovall |
 | 216 | 109 | Brave Brickster |
 | 217 | 109 | Lys |

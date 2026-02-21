@@ -23,8 +23,8 @@
 | 15 | 625 | GreenJeepGirl |
 | 16 | 608 | Denny Shives |
 | 17 | 606 | Rachel Anne |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -90,8 +90,8 @@
 | 82 | 165 | Casey Grabner |
 | 83 | 162 | Shauna Havard |
 | 84 | 160 | Carter Jones |
-| 85 | 159 | Holly Jolly |
-| 86 | 159 | Justin Hannigan |
+| 85 | 159 | Justin Hannigan |
+| 86 | 159 | Holly Jolly |
 | 87 | 157 | quicksand420 |
 | 88 | 154 | ThaEviLJeNiuZ |
 | 89 | 154 | Zany Twisterfit |
@@ -157,8 +157,8 @@
 | 149 | 104 | Avy Absol |
 | 150 | 102 | Faja |
 | 151 | 102 | ĥuf |
-| 152 | 101 | Saulc1991 |
-| 153 | 101 | Michelle Morris |
+| 152 | 101 | Michelle Morris |
+| 153 | 101 | Saulc1991 |
 | 154 | 100 | Alexandra Karavias |
 | 155 | 99 | Anthony Bryan Riva |
 | 156 | 98 | Duck |

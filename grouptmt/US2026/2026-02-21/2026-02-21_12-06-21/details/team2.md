@@ -360,8 +360,8 @@
 | 352 | 247 | Fancy Twister |
 | 353 | 247 | Andrea Devery Beck |
 | 354 | 246 | Kathryn Townsley |
-| 355 | 246 | Stephanie Lumanlan |
-| 356 | 246 | Ashley Lopez |
+| 355 | 246 | Ashley Lopez |
+| 356 | 246 | Stephanie Lumanlan |
 | 357 | 245 | Rachael Senard |
 | 358 | 245 | Sanaa Nounoussa |
 | 359 | 244 | Aimee Byrom |
@@ -369,8 +369,8 @@
 | 361 | 242 | Lawanda Forbes |
 | 362 | 242 | Donna Chandler |
 | 363 | 241 | Sabrina Burton |
-| 364 | 240 | Adam Erikson |
-| 365 | 240 | Angie Marie |
+| 364 | 240 | Angie Marie |
+| 365 | 240 | Adam Erikson |
 | 366 | 238 | Cheery Matchzone |
 | 367 | 236 | Frisky Riserbuilder |
 | 368 | 236 | snkylnk |
@@ -503,8 +503,8 @@
 | 495 | 173 | Ocean-Brianna McGregor |
 | 496 | 171 | William Hunt |
 | 497 | 171 | Cappin You |
-| 498 | 170 | Dedra Steward |
-| 499 | 170 | Darlene Bowman |
+| 498 | 170 | Darlene Bowman |
+| 499 | 170 | Dedra Steward |
 | 500 | 170 | BTA |
 | 501 | 170 | Kenya Felix |
 | 502 | 169 | Eddie Perez |
