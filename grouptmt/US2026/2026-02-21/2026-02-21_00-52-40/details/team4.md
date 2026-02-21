@@ -102,8 +102,8 @@
 | 94 | 66 | Chris Alexinas |
 | 95 | 65 | Angela Geist Jusinski |
 | 96 | 65 | Jessica Miller |
-| 97 | 64 | Shukee Lo |
-| 98 | 64 | rebel4lyfe |
+| 97 | 64 | rebel4lyfe |
+| 98 | 64 | Shukee Lo |
 | 99 | 64 | Marcus Todd |
 | 100 | 64 | Damn Libra |
 | 101 | 63 | Lindsey Gonzalez |
@@ -139,8 +139,8 @@
 | 131 | 51 | BertMofo |
 | 132 | 50 | Landon Keith Graffeo |
 | 133 | 50 | Brandon Crabbs |
-| 134 | 50 | Smiley Linkgrid |
-| 135 | 50 | GBR |
+| 134 | 50 | GBR |
+| 135 | 50 | Smiley Linkgrid |
 | 136 | 49 | shark tato |
 | 137 | 49 | Lakesha Johnson |
 | 138 | 49 | Rio Rocha |
@@ -151,8 +151,8 @@
 | 143 | 46 | Aly Eggers |
 | 144 | 46 | Natalie;) |
 | 145 | 46 | Lori Walker |
-| 146 | 46 | Klo |
-| 147 | 46 | Autumn Kumzi |
+| 146 | 46 | Autumn Kumzi |
+| 147 | 46 | Klo |
 | 148 | 45 | Sarah Brown |
 | 149 | 45 | Tyler Terrific |
 | 150 | 45 | Randy |

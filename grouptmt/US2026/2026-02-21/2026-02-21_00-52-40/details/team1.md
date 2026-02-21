@@ -87,17 +87,17 @@
 | 79 | 84 | Josie Kirt |
 | 80 | 84 | Charla Pross-Fugleberg |
 | 81 | 83 | Guest |
-| 82 | 83 | Timothy Dew |
-| 83 | 83 | Death |
-| 84 | 81 | Bob |
-| 85 | 81 | Garcia Bailey |
+| 82 | 83 | Death |
+| 83 | 83 | Timothy Dew |
+| 84 | 81 | Garcia Bailey |
+| 85 | 81 | Bob |
 | 86 | 81 | Jennifer ManWarren |
-| 87 | 80 | Matt Cinelli |
-| 88 | 80 | pjbeta |
+| 87 | 80 | pjbeta |
+| 88 | 80 | Matt Cinelli |
 | 89 | 79 | Chris65 |
 | 90 | 78 | Carrie Beck Geartz |
-| 91 | 75 | Tyler L Hunt |
-| 92 | 75 | Fresno Beotoni |
+| 91 | 75 | Fresno Beotoni |
+| 92 | 75 | Tyler L Hunt |
 | 93 | 74 | Grace Joanne Agnant |
 | 94 | 73 | Witty Builderfit |
 | 95 | 73 | Loony Fitzone |

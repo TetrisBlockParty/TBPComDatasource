@@ -86,8 +86,8 @@
 | 78 | 402 | Sparkles |
 | 79 | 401 | Poppy Snap |
 | 80 | 400 | Thomas Hedrick |
-| 81 | 397 | Ashley Guernsey-Martin |
-| 82 | 397 | Desiree Anderson |
+| 81 | 397 | Desiree Anderson |
+| 82 | 397 | Ashley Guernsey-Martin |
 | 83 | 391 | Chilly Bridgepiece |
 | 84 | 390 | Dustin Rains |
 | 85 | 385 | Sam |
@@ -116,8 +116,8 @@
 | 108 | 317 | bru |
 | 109 | 299 | Véronique Lévesque Sabourin |
 | 110 | 297 | James Zaragoza |
-| 111 | 295 | Diallo Sparkman |
-| 112 | 295 | Zany Clusterbuilder |
+| 111 | 295 | Zany Clusterbuilder |
+| 112 | 295 | Diallo Sparkman |
 | 113 | 292 | Steve Grotto |
 | 114 | 290 | Jessie McDougald |
 | 115 | 286 | Juanita Lyons |
@@ -216,8 +216,8 @@
 | 208 | 189 | Rebecca Doughman |
 | 209 | 189 | Sanaa Nounoussa |
 | 210 | 188 | Justin Hines |
-| 211 | 184 | Sassy Linkbuilder |
-| 212 | 184 | Jumpy Gridpiece |
+| 211 | 184 | Jumpy Gridpiece |
+| 212 | 184 | Sassy Linkbuilder |
 | 213 | 182 | Mindy Leigh Head |
 | 214 | 181 | Julay |
 | 215 | 181 | Jordan Petro |

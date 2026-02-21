@@ -62,8 +62,8 @@
 | 54 | 206 | MissTaylor |
 | 55 | 203 | Crimson |
 | 56 | 198 | Nerdy Riseclear |
-| 57 | 193 | Shunta Jacobs |
-| 58 | 193 | Clever Shiftsnap |
+| 57 | 193 | Clever Shiftsnap |
+| 58 | 193 | Shunta Jacobs |
 | 59 | 187 | Speedy Bridger |
 | 60 | 185 | Danielle Cutler |
 | 61 | 184 | Jennie Beranek |
@@ -96,8 +96,8 @@
 | 88 | 122 | Aerian Preston |
 | 89 | 120 | Jessica |
 | 90 | 120 | Michael Latasha Gray |
-| 91 | 118 | Fancy Curver |
-| 92 | 118 | Bea Miles |
+| 91 | 118 | Bea Miles |
+| 92 | 118 | Fancy Curver |
 | 93 | 114 | Terry Jo Jones |
 | 94 | 113 | Rufus Lincoln |
 | 95 | 113 | Jennifer Alvey |
@@ -110,10 +110,10 @@
 | 102 | 107 | Bryan Byrd |
 | 103 | 105 | Hoppy Buildout |
 | 104 | 103 | Brian Battjes |
-| 105 | 102 | Jimmie Clemons |
-| 106 | 102 | mommablock |
-| 107 | 102 | Sarah Moyer |
-| 108 | 102 | Jenny Hrndz |
+| 105 | 102 | Sarah Moyer |
+| 106 | 102 | Jimmie Clemons |
+| 107 | 102 | Jenny Hrndz |
+| 108 | 102 | mommablock |
 | 109 | 101 | Mykal Burton |
 | 110 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 111 | 100 | Fredd Thomas |
