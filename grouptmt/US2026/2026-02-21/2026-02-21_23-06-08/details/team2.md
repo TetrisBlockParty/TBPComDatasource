@@ -364,8 +364,8 @@
 | 356 | 401 | Taylor Flowers |
 | 357 | 400 | Tammy Allen |
 | 358 | 400 | Catina Hutchison |
-| 359 | 399 | Steven Marshaun |
-| 360 | 399 | Juanita Lyons |
+| 359 | 399 | Juanita Lyons |
+| 360 | 399 | Steven Marshaun |
 | 361 | 398 | Brenda Utphall |
 | 362 | 398 | Moni Foxe |
 | 363 | 397 | coleksquad |
@@ -481,8 +481,8 @@
 | 473 | 314 | Party d |
 | 474 | 314 | James Zaragoza |
 | 475 | 313 | Natasha Edmonds |
-| 476 | 312 | Andrea Maher |
-| 477 | 312 | Justin Hines |
+| 476 | 312 | Justin Hines |
+| 477 | 312 | Andrea Maher |
 | 478 | 312 | Michelle Pike |
 | 479 | 310 | Cheeky Brickmatch |
 | 480 | 310 | Sharon Mills |
@@ -778,8 +778,8 @@
 | 770 | 193 | Kelly Ann McCormick |
 | 771 | 193 | TJ Nash |
 | 772 | 192 | Leroy Jenkins |
-| 773 | 192 | Taylor Phillips |
-| 774 | 192 | Snippy Rumbler |
+| 773 | 192 | Snippy Rumbler |
+| 774 | 192 | Taylor Phillips |
 | 775 | 191 | Nicol Craven |
 | 776 | 190 | Elizabeth Pearson |
 | 777 | 190 | Jessica Kaye DeAguero |

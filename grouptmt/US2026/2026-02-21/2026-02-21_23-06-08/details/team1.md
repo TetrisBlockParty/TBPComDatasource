@@ -49,8 +49,8 @@
 | 41 | 517 | Jen Sartain |
 | 42 | 510 | Colena Davenport |
 | 43 | 508 | Michelle Nicole |
-| 44 | 503 | Redlicious 1 |
-| 45 | 503 | Cody Slav |
+| 44 | 503 | Cody Slav |
+| 45 | 503 | Redlicious 1 |
 | 46 | 491 | Sarah Lombardo |
 | 47 | 486 | Sevens4L |
 | 48 | 483 | Ryan Lunnin |
@@ -71,8 +71,8 @@
 | 63 | 368 | Tdub |
 | 64 | 364 | Jacqueline Williams |
 | 65 | 359 | Nerdy Linkblock |
-| 66 | 348 | Stef Hu |
-| 67 | 348 | Trina Gee |
+| 66 | 348 | Trina Gee |
+| 67 | 348 | Stef Hu |
 | 68 | 347 | pjbeta |
 | 69 | 341 | Robert Benito |
 | 70 | 338 | Stephanie Zahn |
@@ -111,8 +111,8 @@
 | 103 | 244 | Franswa |
 | 104 | 240 | Chelsea Dahlquist |
 | 105 | 240 | Tana |
-| 106 | 238 | John J. Cronin |
-| 107 | 238 | Steve Schneider |
+| 106 | 238 | Steve Schneider |
+| 107 | 238 | John J. Cronin |
 | 108 | 237 | Seante Bullock |
 | 109 | 230 | Frothy Pattern |
 | 110 | 228 | Trippy Redd |
@@ -121,8 +121,8 @@
 | 113 | 219 | Lexuriuos Lifestlye |
 | 114 | 214 | Billie Dawn Sparks |
 | 115 | 213 | Jason Jones |
-| 116 | 212 | Mandyy Rae |
-| 117 | 212 | Jaimie Lynn |
+| 116 | 212 | Jaimie Lynn |
+| 117 | 212 | Mandyy Rae |
 | 118 | 211 | Marianita Garcia |
 | 119 | 208 | MRdot Rooski |
 | 120 | 207 | Leslie Bush Yarbrough |
@@ -133,12 +133,12 @@
 | 125 | 194 | Ash Galvan |
 | 126 | 194 | Tyler Werts |
 | 127 | 193 | Lachelle Dillon |
-| 128 | 192 | Jessica Sheehan |
-| 129 | 192 | Shaykmia |
-| 130 | 192 | Spunky Piecebuilder |
+| 128 | 192 | Spunky Piecebuilder |
+| 129 | 192 | Jessica Sheehan |
+| 130 | 192 | Shaykmia |
 | 131 | 191 | Diane Byrd |
-| 132 | 190 | Thorne Shumate |
-| 133 | 190 | Sweetts |
+| 132 | 190 | Sweetts |
+| 133 | 190 | Thorne Shumate |
 | 134 | 188 | Sam Williams |
 | 135 | 187 | Snippy Wipebuilder |
 | 136 | 186 | Jennifer Olewnik Soborowski |
@@ -206,8 +206,8 @@
 | 198 | 133 | Mel Hogan |
 | 199 | 132 | Tipsy Riseclear |
 | 200 | 132 | Layzietyme |
-| 201 | 131 | Uhog SF |
-| 202 | 131 | Fmp |
+| 201 | 131 | Fmp |
+| 202 | 131 | Uhog SF |
 | 203 | 130 | LD1 |
 | 204 | 130 | Gilbert Ortiz Jr. |
 | 205 | 128 | Barry Mac'Ockner |

@@ -119,8 +119,8 @@
 | 111 | 211 | Dizzy Tiley |
 | 112 | 211 | loulou |
 | 113 | 210 | Damn Libra |
-| 114 | 208 | Twisty Cascadezone |
-| 115 | 208 | Chastity Mitchell |
+| 114 | 208 | Chastity Mitchell |
+| 115 | 208 | Twisty Cascadezone |
 | 116 | 206 | Mylo Lipscomb |
 | 117 | 205 | Sarah Neathery |
 | 118 | 204 | Dana Scott |
@@ -133,8 +133,8 @@
 | 125 | 196 | Jeff Brian Gates |
 | 126 | 194 | Zany Twisterfit |
 | 127 | 192 | Shauna Havard |
-| 128 | 189 | Stacey Stano |
-| 129 | 189 | Calvin Dennis |
+| 128 | 189 | Calvin Dennis |
+| 129 | 189 | Stacey Stano |
 | 130 | 188 | Katherine Crane |
 | 131 | 187 | TheNeesh50 |
 | 132 | 185 | Peachy Fall |

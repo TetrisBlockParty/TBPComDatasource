@@ -97,8 +97,8 @@
 | 89 | 454 | Brandon Green |
 | 90 | 447 | Mykal Burton |
 | 91 | 446 | Danielle Rhoades |
-| 92 | 445 | Kristie McFarland |
-| 93 | 445 | Silly Twist |
+| 92 | 445 | Silly Twist |
+| 93 | 445 | Kristie McFarland |
 | 94 | 430 | Patricia White |
 | 95 | 428 | Elissa S-k |
 | 96 | 425 | Patty Allen |
@@ -194,13 +194,13 @@
 | 186 | 211 | Katrina Turner |
 | 187 | 211 | Khaleada McGill Banks |
 | 188 | 210 | Michael Lucado |
-| 189 | 207 | Jessica |
-| 190 | 207 | Chris Bell |
+| 189 | 207 | Chris Bell |
+| 190 | 207 | Jessica |
 | 191 | 205 | Sarah Moyer |
 | 192 | 204 | Danielle Allison |
 | 193 | 203 | Twisty Brick LT |
-| 194 | 201 | Karon Griffin |
-| 195 | 201 | IamJust Neyamijah Washington Sr. |
+| 194 | 201 | IamJust Neyamijah Washington Sr. |
+| 195 | 201 | Karon Griffin |
 | 196 | 200 | Sharisse Baltimore |
 | 197 | 200 | glichmod |
 | 198 | 197 | Staci George Fitzsimmons |
@@ -238,8 +238,8 @@
 | 230 | 174 | Marquita Sheard |
 | 231 | 173 | Betty Ivy |
 | 232 | 172 | Grams |
-| 233 | 169 | BŘŰŤİÇŨŚ |
-| 234 | 169 | Emma |
+| 233 | 169 | Emma |
+| 234 | 169 | BŘŰŤİÇŨŚ |
 | 235 | 168 | MsBee |
 | 236 | 166 | Beth Ingham |
 | 237 | 166 | Betty Rosas |
