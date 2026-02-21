@@ -89,8 +89,8 @@
 | 81 | 658 | Vistabrat |
 | 82 | 658 | Pacynthia Williams |
 | 83 | 653 | Becky Weeks-Garry |
-| 84 | 649 | Anna Edwards |
-| 85 | 649 | Stephanie Chapman |
+| 84 | 649 | Stephanie Chapman |
+| 85 | 649 | Anna Edwards |
 | 86 | 631 | Loopy Clusterbuilder |
 | 87 | 613 | Stephanie Neuburger |
 | 88 | 608 | John Bednarik |
@@ -182,10 +182,10 @@
 | 174 | 348 | Richard Horton |
 | 175 | 348 | Cherica Taylor |
 | 176 | 345 | Brenda Messer |
-| 177 | 345 | Wuntayk |
-| 178 | 345 | Rhianna DiLorenzo |
-| 179 | 344 | Christina Lewis-Vickers |
-| 180 | 344 | Julie Kresal |
+| 177 | 345 | Rhianna DiLorenzo |
+| 178 | 345 | Wuntayk |
+| 179 | 344 | Julie Kresal |
+| 180 | 344 | Christina Lewis-Vickers |
 | 181 | 342 | Tracy Wise |
 | 182 | 339 | Qiana Sanders |
 | 183 | 337 | Joseph Musick |
@@ -201,8 +201,8 @@
 | 193 | 325 | Brittney Jean |
 | 194 | 323 | Juanita Lyons |
 | 195 | 323 | Briana Alexander |
-| 196 | 318 | Arwa Fatimah |
-| 197 | 318 | Trista Dumais |
+| 196 | 318 | Trista Dumais |
+| 197 | 318 | Arwa Fatimah |
 | 198 | 317 | bru |
 | 199 | 314 | Amanda West |
 | 200 | 313 | Brittany Alicia |
@@ -691,7 +691,7 @@
 | 683 | 103 | Crystal Cornelius |
 | 684 | 103 | Jadelynn Sarbacher |
 | 685 | 103 | Spunky Dash |
-| 686 | 103 | Andrew W |
+| 686 | 103 | Speedy Shatterfit |
 | 687 | 103 | Heisenberg |
 | 688 | 103 | Eric Castaneda |
 | 689 | 103 | Andrew W |

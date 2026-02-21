@@ -64,8 +64,8 @@
 | 56 | 168 | Anthony Magaraci |
 | 57 | 167 | Dustee Craddock-Harrison |
 | 58 | 166 | Denise Carlson |
-| 59 | 165 | Casey Grabner |
-| 60 | 165 | Courtney Cicoria |
+| 59 | 165 | Courtney Cicoria |
+| 60 | 165 | Casey Grabner |
 | 61 | 160 | Carter Jones |
 | 62 | 159 | Justin Hannigan |
 | 63 | 159 | Holly Jolly |
@@ -87,7 +87,7 @@
 | 79 | 132 | Melissa Priest Sellers |
 | 80 | 131 | Mr. Party |
 | 81 | 131 | Dana Scott |
-| 82 | 131 | Mr. Party |
+| 82 | 131 | Zany Twisterfit |
 | 83 | 130 | Casey Jeffcoat |
 | 84 | 130 | Lucas J Sutton |
 | 85 | 129 | John Brunetti |
