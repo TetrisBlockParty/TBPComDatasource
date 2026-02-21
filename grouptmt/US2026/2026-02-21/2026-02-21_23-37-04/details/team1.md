@@ -43,8 +43,8 @@
 | 35 | 587 | Marianne Louise West |
 | 36 | 585 | Jennifer Cates |
 | 37 | 543 | Aaron Garnett |
-| 38 | 541 | Kristen Roles Robben |
-| 39 | 541 | Drew Magnus |
+| 38 | 541 | Drew Magnus |
+| 39 | 541 | Kristen Roles Robben |
 | 40 | 539 | Karin Gillen |
 | 41 | 527 | comrade fish |
 | 42 | 521 | Hyp James NObettadanluvarat |
@@ -102,8 +102,8 @@
 | 94 | 273 | Happy Basegrid |
 | 95 | 272 | Sarah Roberts |
 | 96 | 270 | Bhelle Sumile |
-| 97 | 269 | Seante Bullock |
-| 98 | 269 | Rachael |
+| 97 | 269 | Rachael |
+| 98 | 269 | Seante Bullock |
 | 99 | 263 | Sharon Reynolds |
 | 100 | 258 | Dandy Basegrid |
 | 101 | 257 | june october |
@@ -129,8 +129,8 @@
 | 121 | 211 | Marianita Garcia |
 | 122 | 207 | Leslie Bush Yarbrough |
 | 123 | 204 | Ananda Mendez |
-| 124 | 203 | GATOR |
-| 125 | 203 | Giggly Builderline |
+| 124 | 203 | Giggly Builderline |
+| 125 | 203 | GATOR |
 | 126 | 201 | Spunky Piecebuilder |
 | 127 | 199 | Jennifer Hardman |
 | 128 | 198 | Happy Snapbuild |
@@ -148,9 +148,9 @@
 | 140 | 186 | Margo Wagner |
 | 141 | 186 | Jennifer Olewnik Soborowski |
 | 142 | 185 | Basment Living |
-| 143 | 180 | Michael |
-| 144 | 180 | Erez Yosef |
-| 145 | 180 | BigWeenie69 |
+| 143 | 180 | BigWeenie69 |
+| 144 | 180 | Michael |
+| 145 | 180 | Erez Yosef |
 | 146 | 179 | Danielle Little-Daugherty |
 | 147 | 178 | Shiny Gridmatch |
 | 148 | 178 | Chad Atchley |

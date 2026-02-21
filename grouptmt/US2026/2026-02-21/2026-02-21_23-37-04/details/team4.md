@@ -98,8 +98,8 @@
 | 90 | 281 | Leslie Nicole |
 | 91 | 277 | KJ Pool |
 | 92 | 274 | Desi Desporte |
-| 93 | 273 | shark tato |
-| 94 | 273 | Carrie Brian |
+| 93 | 273 | Carrie Brian |
+| 94 | 273 | shark tato |
 | 95 | 264 | Epic Curvetile |
 | 96 | 264 | Girl |
 | 97 | 258 | Brittney Orengo |
@@ -138,8 +138,8 @@
 | 130 | 196 | Jeff Brian Gates |
 | 131 | 194 | Zany Twisterfit |
 | 132 | 192 | Shauna Havard |
-| 133 | 189 | Stacey Stano |
-| 134 | 189 | Calvin Dennis |
+| 133 | 189 | Calvin Dennis |
+| 134 | 189 | Stacey Stano |
 | 135 | 188 | Katherine Crane |
 | 136 | 187 | TheNeesh50 |
 | 137 | 187 | Sarah Brown |
@@ -214,8 +214,8 @@
 | 206 | 124 | Allen Lloyd |
 | 207 | 124 | Kristina Black |
 | 208 | 123 | Austin Owens |
-| 209 | 123 | Matt Dell'Olio |
-| 210 | 123 | Tyler Terrific |
+| 209 | 123 | Tyler Terrific |
+| 210 | 123 | Matt Dell'Olio |
 | 211 | 122 | 🥔🥔 Spudz |
 | 212 | 122 | Sherri |
 | 213 | 121 | Smiley Tiltbuilder |

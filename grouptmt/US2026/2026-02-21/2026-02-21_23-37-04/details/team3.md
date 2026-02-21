@@ -47,8 +47,8 @@
 | 39 | 998 | Liv Whetson |
 | 40 | 996 | Danielle Cutler |
 | 41 | 989 | Kay |
-| 42 | 928 | Stephanie Rice |
-| 43 | 928 | Snappy Fitzone |
+| 42 | 928 | Snappy Fitzone |
+| 43 | 928 | Stephanie Rice |
 | 44 | 915 | Fancy Slam |
 | 45 | 879 | Shonna Roberts |
 | 46 | 874 | Jessica Pineda-Lopez |
@@ -113,8 +113,8 @@
 | 105 | 394 | joclisa |
 | 106 | 394 | Annie Déè |
 | 107 | 392 | Michelle |
-| 108 | 391 | Speedy Bridger |
-| 109 | 391 | Calista Jo Dickson |
+| 108 | 391 | Calista Jo Dickson |
+| 109 | 391 | Speedy Bridger |
 | 110 | 390 | Hasty Cascadefit |
 | 111 | 389 | FuzzyNavel |
 | 112 | 389 | Jessica Bechler |
@@ -190,8 +190,8 @@
 | 182 | 219 | Rebecca Bailey |
 | 183 | 218 | LaNette Morgan |
 | 184 | 217 | Jess Bissett |
-| 185 | 214 | Amy Fuller Heaton |
-| 186 | 214 | Jenny Hrndz |
+| 185 | 214 | Jenny Hrndz |
+| 186 | 214 | Amy Fuller Heaton |
 | 187 | 212 | Krystal Gerstberger |
 | 188 | 211 | Khaleada McGill Banks |
 | 189 | 211 | Giddy Twistbuilder |
@@ -267,8 +267,8 @@
 | 259 | 157 | Sabrina Hardrick |
 | 260 | 157 | Samantha Lynn |
 | 261 | 155 | RickyG |
-| 262 | 154 | Valerie Gendron |
-| 263 | 154 | Desiree Gold |
+| 262 | 154 | Desiree Gold |
+| 263 | 154 | Valerie Gendron |
 | 264 | 153 | Cozy Snaplink |
 | 265 | 153 | Sheila M Frazier |
 | 266 | 152 | Brittany |
@@ -280,8 +280,8 @@
 | 272 | 149 | Peachy Rollfit |
 | 273 | 149 | Angel Mendez |
 | 274 | 148 | Carrie Huskey |
-| 275 | 148 | Gumbo |
-| 276 | 148 | Wetwet |
+| 275 | 148 | Wetwet |
+| 276 | 148 | Gumbo |
 | 277 | 147 | Ashley Lynn Marchese |
 | 278 | 146 | Rachel |
 | 279 | 146 | Tony Waters |

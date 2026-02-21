@@ -188,13 +188,13 @@
 | 180 | 700 | Beverly Owens |
 | 181 | 699 | Vo'Landa Reels |
 | 182 | 697 | Real Ri |
-| 183 | 692 | Chelle |
+| 183 | 692 | Wendy Harder Gage |
 | 184 | 692 | Jennifer Casey-Kay |
-| 185 | 692 | Wendy Harder Gage |
+| 185 | 692 | Chelle |
 | 186 | 690 | Deborah Miller |
 | 187 | 688 | Dreamy Blast |
-| 188 | 686 | Dannette Goldberg-Richards |
-| 189 | 686 | Ashley Guernsey-Martin |
+| 188 | 686 | Ashley Guernsey-Martin |
+| 189 | 686 | Dannette Goldberg-Richards |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
@@ -208,8 +208,8 @@
 | 200 | 659 | Poldo Ilano |
 | 201 | 658 | Erica Williams |
 | 202 | 654 | Mandi Douglas Hilt |
-| 203 | 651 | ShinyRose |
-| 204 | 651 | Unica Rector |
+| 203 | 651 | Unica Rector |
+| 204 | 651 | ShinyRose |
 | 205 | 651 | Roseanna Peloso |
 | 206 | 650 | Shiny Rollzone |
 | 207 | 647 | Ashle Scranton |
@@ -353,8 +353,8 @@
 | 345 | 416 | Lina Sanders |
 | 346 | 414 | Sabrina Burton |
 | 347 | 414 | Kara Gillen |
-| 348 | 414 | Emily Lyric Converse |
-| 349 | 414 | John |
+| 348 | 414 | John |
+| 349 | 414 | Emily Lyric Converse |
 | 350 | 411 | Kristen O'Neal |
 | 351 | 411 | Ricky Fortune |
 | 352 | 406 | Erin StFrancis |
