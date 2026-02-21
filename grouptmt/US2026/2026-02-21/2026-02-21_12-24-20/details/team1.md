@@ -48,8 +48,8 @@
 | 40 | 294 | Jacqueline Williams |
 | 41 | 291 | Nancy Green |
 | 42 | 290 | Jennifer Cates |
-| 43 | 274 | Theo Pinnow |
-| 44 | 274 | Sweet Baker |
+| 43 | 274 | Sweet Baker |
+| 44 | 274 | Theo Pinnow |
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 257 | Sarah Roberts |
@@ -179,8 +179,8 @@
 | 171 | 93 | Chuck Gannon |
 | 172 | 93 | Tyler Whitley |
 | 173 | 92 | Timothy Dew |
-| 174 | 90 | Madison Wicks |
-| 175 | 90 | TSwag |
+| 174 | 90 | TSwag |
+| 175 | 90 | Madison Wicks |
 | 176 | 89 | Mara Hilker |
 | 177 | 88 | Larry Tilton |
 | 178 | 88 | MommaKFC |
@@ -203,7 +203,7 @@
 | 195 | 81 | John Kim |
 | 196 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 197 | 81 | Howdi Duty |
-| 198 | 81 | John Kim |
+| 198 | 81 | Giddy Glider |
 | 199 | 80 | Brandi Egbert |
 | 200 | 80 | Matt Cinelli |
 | 201 | 80 | pjbeta |

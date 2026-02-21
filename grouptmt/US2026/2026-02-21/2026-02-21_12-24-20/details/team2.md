@@ -215,8 +215,8 @@
 | 207 | 390 | Lylymom |
 | 208 | 386 | Ashie Ann |
 | 209 | 386 | Macy Williams |
-| 210 | 385 | Sam |
-| 211 | 385 | Arwa Fatimah |
+| 210 | 385 | Arwa Fatimah |
+| 211 | 385 | Sam |
 | 212 | 381 | Amanda Ferrell |
 | 213 | 380 | Calandra Shaya Robinson |
 | 214 | 378 | Cody Nishimura |
@@ -247,14 +247,14 @@
 | 239 | 344 | Glenn Cobbins |
 | 240 | 343 | F-X |
 | 241 | 334 | Moni Foxe |
-| 242 | 334 | Missie Lawson Gebhardt |
-| 243 | 334 | Felicia Lynn |
+| 242 | 334 | Felicia Lynn |
+| 243 | 334 | Missie Lawson Gebhardt |
 | 244 | 333 | Brittney Jean |
 | 245 | 333 | ShinyRose |
 | 246 | 332 | TF Dyer |
 | 247 | 331 | Shelley Thornburgh Wright |
-| 248 | 330 | Taryece Gause |
-| 249 | 330 | Victoria Moore-Smith |
+| 248 | 330 | Victoria Moore-Smith |
+| 249 | 330 | Taryece Gause |
 | 250 | 329 | Brenda Utphall |
 | 251 | 329 | Christina Ashley |
 | 252 | 328 | Marie Boyd Faulk |
@@ -599,8 +599,8 @@
 | 591 | 146 | Sherry Aguinaga |
 | 592 | 146 | Ibiza Carolina LaRose |
 | 593 | 145 | Chareen Lauritzen |
-| 594 | 145 | William Hughes |
-| 595 | 145 | Scott Rackley |
+| 594 | 145 | Scott Rackley |
+| 595 | 145 | William Hughes |
 | 596 | 145 | Kiorah Blaze |
 | 597 | 145 | Anastacio Hernandez |
 | 598 | 144 | BamaGirlinTX |

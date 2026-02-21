@@ -29,8 +29,8 @@
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 494 | Rodney McMath Jr. |
-| 24 | 486 | LisaJo Picken Buchanan |
-| 25 | 486 | Anthony Magaraci |
+| 24 | 486 | Anthony Magaraci |
+| 25 | 486 | LisaJo Picken Buchanan |
 | 26 | 474 | Rebecca Moulton Pinciaro |
 | 27 | 469 | Carmethia Clemons Haslerig |
 | 28 | 465 | Dawn Alexander |
@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | shar |
-| 71 | 180 | Leah Kutz Zirbel |
+| 70 | 180 | Leah Kutz Zirbel |
+| 71 | 180 | shar |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -117,8 +117,8 @@
 | 109 | 132 | Jessica Cagle |
 | 110 | 132 | Jenna McGeorge |
 | 111 | 131 | Mr. Party |
-| 112 | 130 | Lucas J Sutton |
-| 113 | 130 | Casey Jeffcoat |
+| 112 | 130 | Casey Jeffcoat |
+| 113 | 130 | Lucas J Sutton |
 | 114 | 129 | Landon Keith Graffeo |
 | 115 | 129 | John Brunetti |
 | 116 | 128 | Rio Rocha |
@@ -157,10 +157,10 @@
 | 149 | 104 | Damn Libra |
 | 150 | 104 | Avy Absol |
 | 151 | 103 | Judy Cox |
-| 152 | 102 | ĥuf |
-| 153 | 102 | Faja |
-| 154 | 101 | Michelle Morris |
-| 155 | 101 | Saulc1991 |
+| 152 | 102 | Faja |
+| 153 | 102 | ĥuf |
+| 154 | 101 | Saulc1991 |
+| 155 | 101 | Michelle Morris |
 | 156 | 100 | Alexandra Karavias |
 | 157 | 99 | Anthony Bryan Riva |
 | 158 | 98 | Chaz |

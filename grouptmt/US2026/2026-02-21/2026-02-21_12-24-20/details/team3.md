@@ -48,8 +48,8 @@
 | 40 | 587 | Danielle Becker |
 | 41 | 580 | Amanda L Baker |
 | 42 | 568 | Shonna Roberts |
-| 43 | 546 | Dolores Falco |
-| 44 | 546 | Snappy Glidepiece |
+| 43 | 546 | Snappy Glidepiece |
+| 44 | 546 | Dolores Falco |
 | 45 | 541 | MissTaylor |
 | 46 | 533 | Sarah Fehring |
 | 47 | 528 | Natasha Jones |
@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Nicha Hooker |
-| 120 | 195 | Jenny Hrndz |
+| 119 | 195 | Jenny Hrndz |
+| 120 | 195 | Nicha Hooker |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -149,8 +149,8 @@
 | 141 | 166 | Danielle Mogg |
 | 142 | 166 | Kelly Ann Child |
 | 143 | 165 | Kali Kelz Williams |
-| 144 | 164 | rosy |
-| 145 | 164 | DanceLuvLaugh |
+| 144 | 164 | DanceLuvLaugh |
+| 145 | 164 | rosy |
 | 146 | 163 | Karon Griffin |
 | 147 | 163 | Stephanie Hill |
 | 148 | 160 | Tiffany Davie |
@@ -193,8 +193,8 @@
 | 185 | 127 | Marquita Sheard |
 | 186 | 127 | Joy Petroski |
 | 187 | 126 | Brandon Givens |
-| 188 | 125 | Felicia Doxey |
-| 189 | 125 | Shimika Enay Wallace |
+| 188 | 125 | Shimika Enay Wallace |
+| 189 | 125 | Felicia Doxey |
 | 190 | 124 | Cesar Barraza |
 | 191 | 123 | Marci Mize Fandrich |
 | 192 | 123 | Sarajane Lokan |
@@ -267,8 +267,8 @@
 | 259 | 96 | Christopher Woost |
 | 260 | 96 | Tasha Wesson-Torrence |
 | 261 | 95 | Brooke Bauer |
-| 262 | 94 | Angie Harper |
-| 263 | 94 | Andrew Thorson |
+| 262 | 94 | Andrew Thorson |
+| 263 | 94 | Angie Harper |
 | 264 | 93 | Tiffany Ford |
 | 265 | 92 | Ava Petito |
 | 266 | 92 | Trice Thomas |
