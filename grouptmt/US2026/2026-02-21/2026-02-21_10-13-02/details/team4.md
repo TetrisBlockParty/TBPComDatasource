@@ -23,8 +23,8 @@
 | 15 | 608 | Denny Shives |
 | 16 | 606 | Rachel Anne |
 | 17 | 594 | Lucille Truesdale |
-| 18 | 590 | Dee Kay |
-| 19 | 590 | Valerie Roberts |
+| 18 | 590 | Valerie Roberts |
+| 19 | 590 | Dee Kay |
 | 20 | 589 | Chilly Line |
 | 21 | 578 | Leah Gorsuch |
 | 22 | 569 | Devinlee Brown |
@@ -322,11 +322,11 @@
 | 314 | 53 | Poppy Brickmatch |
 | 315 | 52 | Nerdy Twisterfit |
 | 316 | 52 | Chassidy Martin |
-| 317 | 51 | George Nutt |
-| 318 | 51 | Frank Cook |
+| 317 | 51 | Frank Cook |
+| 318 | 51 | George Nutt |
 | 319 | 50 | Elie Pean |
 | 320 | 50 | Kelly Duncan |
-| 321 | 50 | Smiley Linkgrid |
+| 321 | 50 | Christian Torres |
 | 322 | 50 | Mike |
 | 323 | 50 | Smiley Linkgrid |
 | 324 | 49 | Snappy Combofall |

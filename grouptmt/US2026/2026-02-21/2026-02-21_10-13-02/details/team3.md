@@ -163,8 +163,8 @@
 | 155 | 149 | Trisha Balmer |
 | 156 | 149 | Bea Miles |
 | 157 | 147 | Sashay Tapae Simpson |
-| 158 | 146 | Denita Mungro |
-| 159 | 146 | Latoya Mayne |
+| 158 | 146 | Latoya Mayne |
+| 159 | 146 | Denita Mungro |
 | 160 | 145 | Bryan Byrd |
 | 161 | 142 | Erica Anderson |
 | 162 | 140 | Jay Horn |

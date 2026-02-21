@@ -259,8 +259,8 @@
 | 251 | 303 | Crystal Greene |
 | 252 | 303 | Amanda Schaffer |
 | 253 | 301 | Claire |
-| 254 | 299 | Deborah Miller |
-| 255 | 299 | Christy Krissie |
+| 254 | 299 | Christy Krissie |
+| 255 | 299 | Deborah Miller |
 | 256 | 297 | Brenda Utphall |
 | 257 | 296 | Jennifer Casey-Kay |
 | 258 | 296 | Amber Gray |
@@ -350,8 +350,8 @@
 | 342 | 242 | Donna Chandler |
 | 343 | 242 | Hyper Cluster |
 | 344 | 241 | Sabrina Burton |
-| 345 | 240 | Angie Marie |
-| 346 | 240 | Adam Erikson |
+| 345 | 240 | Adam Erikson |
+| 346 | 240 | Angie Marie |
 | 347 | 239 | Roger Grabbit |
 | 348 | 238 | Cheery Matchzone |
 | 349 | 236 | Frisky Riserbuilder |
@@ -423,8 +423,8 @@
 | 415 | 195 | Snappy Shatterfit |
 | 416 | 194 | Hoppy Brickmatch |
 | 417 | 194 | Kimberly Ann |
-| 418 | 193 | Kelly Ann McCormick |
-| 419 | 193 | Matthew Turner |
+| 418 | 193 | Matthew Turner |
+| 419 | 193 | Kelly Ann McCormick |
 | 420 | 191 | Lauren Fitzgerald Thomas |
 | 421 | 191 | Deana |
 | 422 | 191 | John Quiring |
@@ -473,8 +473,8 @@
 | 465 | 174 | Veronica Guerra |
 | 466 | 174 | Jason Garnatz |
 | 467 | 173 | Ocean-Brianna McGregor |
-| 468 | 173 | kippykay |
-| 469 | 173 | Robin |
+| 468 | 173 | Robin |
+| 469 | 173 | kippykay |
 | 470 | 171 | Cappin You |
 | 471 | 171 | William Hunt |
 | 472 | 170 | Kenya Felix |
