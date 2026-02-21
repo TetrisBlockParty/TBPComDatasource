@@ -26,8 +26,8 @@
 | 18 | 1297 | Shelby Michelle |
 | 19 | 1177 | Clever Roll |
 | 20 | 1152 | Ashley Kiara |
-| 21 | 1151 | Rachel Bowers |
-| 22 | 1151 | Jennifer Willis |
+| 21 | 1151 | Jennifer Willis |
+| 22 | 1151 | Rachel Bowers |
 | 23 | 1140 | Nerdy Spinblock |
 | 24 | 1119 | Lauren d |
 | 25 | 1059 | Lori Barnaby |
@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 769 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -114,8 +114,8 @@
 | 106 | 293 | Mandy Smith Oldham |
 | 107 | 267 | Rufus Lincoln |
 | 108 | 264 | Tiff Vs Tiffany |
-| 109 | 263 | mjl574 |
-| 110 | 263 | Angeline Joseph |
+| 109 | 263 | Angeline Joseph |
+| 110 | 263 | mjl574 |
 | 111 | 262 | Joe-Maggie Mathews |
 | 112 | 259 | opf |
 | 113 | 256 | ren |
@@ -198,12 +198,12 @@
 | 190 | 152 | Katrina E Jelks |
 | 191 | 152 | Shiny Zonebuilder |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
-| 196 | 149 | Alexis Taylor |
-| 197 | 149 | Desiree Gold |
-| 198 | 149 | Angel Mendez |
+| 196 | 149 | Desiree Gold |
+| 197 | 149 | Angel Mendez |
+| 198 | 149 | Alexis Taylor |
 | 199 | 146 | Latoya Mayne |
 | 200 | 146 | Denita Mungro |
 | 201 | 146 | Carrie Huskey |
@@ -214,8 +214,8 @@
 | 206 | 142 | Erica Anderson |
 | 207 | 141 | Loopy Fallzone |
 | 208 | 140 | Gumbo |
-| 209 | 136 | Joy Petroski |
-| 210 | 136 | Boldy Corner |
+| 209 | 136 | Boldy Corner |
+| 210 | 136 | Joy Petroski |
 | 211 | 135 | Cheryl Hinch Tenbrook |
 | 212 | 134 | Cozy Snaplink |
 | 213 | 133 | LaNette Morgan |
@@ -226,8 +226,8 @@
 | 218 | 128 | David Bardo |
 | 219 | 128 | Jen Lewis |
 | 220 | 128 | Cesar Barraza |
-| 221 | 127 | Jennifer Alvey |
-| 222 | 127 | Marquita Sheard |
+| 221 | 127 | Marquita Sheard |
+| 222 | 127 | Jennifer Alvey |
 | 223 | 126 | Juliana Dottore |
 | 224 | 126 | April Matthew Kibble |
 | 225 | 125 | Shimika Enay Wallace |
@@ -267,8 +267,8 @@
 | 259 | 108 | Rachel Napper |
 | 260 | 108 | LaTanya GeminiondaRise Johnson |
 | 261 | 108 | Hanna Kim |
-| 262 | 107 | Jumpy Wrecker |
-| 263 | 107 | Sherry Ogden |
+| 262 | 107 | Sherry Ogden |
+| 263 | 107 | Jumpy Wrecker |
 | 264 | 107 | Rachel |
 | 265 | 107 | Bouncy Blockbuilder |
 | 266 | 106 | Cheeky Snapper |

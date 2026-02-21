@@ -86,8 +86,8 @@
 | 78 | 210 | Lucas J Sutton |
 | 79 | 205 | Sarah Neathery |
 | 80 | 204 | Brittney Orengo |
-| 81 | 198 | Dustee Craddock-Harrison |
-| 82 | 198 | Mike Solo |
+| 81 | 198 | Mike Solo |
+| 82 | 198 | Dustee Craddock-Harrison |
 | 83 | 194 | Jamie Mann-Deichmann |
 | 84 | 193 | Monica Daley |
 | 85 | 191 | loulou |
@@ -128,8 +128,8 @@
 | 120 | 144 | Mr. Party |
 | 121 | 143 | Nugget |
 | 122 | 141 | Malakai Darien Fox |
-| 123 | 140 | Shannon Ferrari |
-| 124 | 140 | Jenna McGeorge |
+| 123 | 140 | Jenna McGeorge |
+| 124 | 140 | Shannon Ferrari |
 | 125 | 139 | Robin Watters |
 | 126 | 138 | Shainne Brewer |
 | 127 | 136 | Tanner Lund |
@@ -144,8 +144,8 @@
 | 136 | 128 | Stephme310 |
 | 137 | 128 | Rio Rocha |
 | 138 | 127 | Dreamy Snapgrid |
-| 139 | 126 | TinyLegoRose |
-| 140 | 126 | Dihcheese444 |
+| 139 | 126 | Dihcheese444 |
+| 140 | 126 | TinyLegoRose |
 | 141 | 124 | Allen Lloyd |
 | 142 | 123 | Angela Geist Jusinski |
 | 143 | 123 | Cherrish Duren |
@@ -168,8 +168,8 @@
 | 160 | 112 | Bryan Hodgins |
 | 161 | 112 | Jackie Marie |
 | 162 | 112 | Austin Owens |
-| 163 | 111 | Lazy Blocker |
-| 164 | 111 | Michelle Morris |
+| 163 | 111 | Michelle Morris |
+| 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
 | 167 | 107 | Marcus Todd |
