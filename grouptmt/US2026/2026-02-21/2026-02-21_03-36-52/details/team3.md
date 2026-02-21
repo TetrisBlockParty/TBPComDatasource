@@ -75,8 +75,8 @@
 | 67 | 249 | Denise Nardoni |
 | 68 | 247 | Cherry Parker |
 | 69 | 240 | Nerdy Riseclear |
-| 70 | 239 | Lush Buildout |
-| 71 | 239 | Cheeky Match |
+| 70 | 239 | Cheeky Match |
+| 71 | 239 | Lush Buildout |
 | 72 | 224 | Mykal Burton |
 | 73 | 222 | Jimmie Clemons |
 | 74 | 221 | Chauntee Alfrey-Cardinale |

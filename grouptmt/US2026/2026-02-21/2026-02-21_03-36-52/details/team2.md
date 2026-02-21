@@ -94,8 +94,8 @@
 | 86 | 541 | SaraMarie Eveland |
 | 87 | 534 | Jerilyn Andrina |
 | 88 | 525 | Desiree Anderson |
-| 89 | 515 | Kaylee McCafferty |
-| 90 | 515 | Real Ri |
+| 89 | 515 | Real Ri |
+| 90 | 515 | Kaylee McCafferty |
 | 91 | 509 | Kelli Wells |
 | 92 | 505 | Danielle Johnson-Chandler |
 | 93 | 499 | Samantha Jo |
@@ -171,8 +171,8 @@
 | 163 | 317 | bru |
 | 164 | 316 | Maria Escobar |
 | 165 | 312 | Michelle Pike |
-| 166 | 311 | Erica Williams |
-| 167 | 311 | Véronique Lévesque Sabourin |
+| 166 | 311 | Véronique Lévesque Sabourin |
+| 167 | 311 | Erica Williams |
 | 168 | 309 | James Zaragoza |
 | 169 | 309 | Tralonda Weeks |
 | 170 | 305 | Steven Marshaun |
