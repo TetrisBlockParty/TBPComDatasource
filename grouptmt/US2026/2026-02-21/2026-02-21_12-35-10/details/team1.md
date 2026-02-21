@@ -49,13 +49,13 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Theo Pinnow |
-| 45 | 274 | Sweet Baker |
+| 44 | 274 | Sweet Baker |
+| 45 | 274 | Theo Pinnow |
 | 46 | 272 | Adam Byrd |
 | 47 | 264 | Shauna Loe |
 | 48 | 257 | Sarah Roberts |
-| 49 | 256 | Tipsy Column |
-| 50 | 256 | Robert Benito |
+| 49 | 256 | Robert Benito |
+| 50 | 256 | Tipsy Column |
 | 51 | 253 | Bhelle Sumile |
 | 52 | 244 | Dena Kayy |
 | 53 | 244 | Franswa |
@@ -174,9 +174,9 @@
 | 166 | 99 | Tyler Hertzog |
 | 167 | 98 | Witty Builderfit |
 | 168 | 98 | Desiree Deschaine Havee |
-| 169 | 96 | Barrbaric |
-| 170 | 96 | Nery Martinez |
-| 171 | 96 | Melissa Lemmon |
+| 169 | 96 | Melissa Lemmon |
+| 170 | 96 | Barrbaric |
+| 171 | 96 | Nery Martinez |
 | 172 | 94 | Brad MG |
 | 173 | 93 | Tyler Whitley |
 | 174 | 92 | Timothy Dew |

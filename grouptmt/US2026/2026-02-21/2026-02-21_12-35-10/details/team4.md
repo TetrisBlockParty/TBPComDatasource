@@ -24,14 +24,14 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
 | 24 | 494 | Rodney McMath Jr. |
-| 25 | 486 | Anthony Magaraci |
-| 26 | 486 | LisaJo Picken Buchanan |
+| 25 | 486 | LisaJo Picken Buchanan |
+| 26 | 486 | Anthony Magaraci |
 | 27 | 469 | Carmethia Clemons Haslerig |
 | 28 | 465 | Dawn Alexander |
 | 29 | 449 | Shelly Chandler |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | 030Synner |
-| 96 | 147 | Jay28 |
+| 95 | 147 | Jay28 |
+| 96 | 147 | 030Synner |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -157,8 +157,8 @@
 | 149 | 104 | Avy Absol |
 | 150 | 104 | Damn Libra |
 | 151 | 103 | Judy Cox |
-| 152 | 102 | ĥuf |
-| 153 | 102 | Faja |
+| 152 | 102 | Faja |
+| 153 | 102 | ĥuf |
 | 154 | 101 | Saulc1991 |
 | 155 | 101 | Michelle Morris |
 | 156 | 100 | Alexandra Karavias |
