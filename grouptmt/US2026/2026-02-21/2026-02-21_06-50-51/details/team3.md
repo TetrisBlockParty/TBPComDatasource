@@ -42,8 +42,8 @@
 | 34 | 587 | Danielle Becker |
 | 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Snappy Glidepiece |
-| 38 | 546 | Dolores Falco |
+| 37 | 546 | Dolores Falco |
+| 38 | 546 | Snappy Glidepiece |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
@@ -122,8 +122,8 @@
 | 114 | 184 | Jennie Beranek |
 | 115 | 182 | Ashley Tookes |
 | 116 | 182 | Hyper Matchzone |
-| 117 | 180 | Fallorina Susana |
-| 118 | 180 | Tessina Dewey-Mancino |
+| 117 | 180 | Tessina Dewey-Mancino |
+| 118 | 180 | Fallorina Susana |
 | 119 | 179 | Daira Largen |
 | 120 | 178 | Khaleada McGill Banks |
 | 121 | 176 | Ryan Williams |

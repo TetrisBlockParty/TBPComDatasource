@@ -212,8 +212,8 @@
 | 204 | 314 | Amanda West |
 | 205 | 313 | Brittany Alicia |
 | 206 | 312 | Michelle Pike |
-| 207 | 311 | Véronique Lévesque Sabourin |
-| 208 | 311 | Dizzy Zone |
+| 207 | 311 | Dizzy Zone |
+| 208 | 311 | Véronique Lévesque Sabourin |
 | 209 | 309 | James Zaragoza |
 | 210 | 309 | Oscar Bernie |
 | 211 | 306 | Kristopher Miller |
@@ -226,9 +226,9 @@
 | 218 | 298 | Peppy Zone |
 | 219 | 296 | Amber Gray |
 | 220 | 296 | Jennifer Casey-Kay |
-| 221 | 295 | Diallo Sparkman |
+| 221 | 295 | Zany Clusterbuilder |
 | 222 | 295 | Angela Bonquiqui Dinish |
-| 223 | 295 | Zany Clusterbuilder |
+| 223 | 295 | Diallo Sparkman |
 | 224 | 293 | Scott Treadway |
 | 225 | 293 | David Holliday |
 | 226 | 290 | Jessie McDougald |
@@ -339,8 +339,8 @@
 | 331 | 212 | Amanda Canterbury |
 | 332 | 212 | BK Queen |
 | 333 | 208 | Mema |
-| 334 | 207 | Melissa McCall |
-| 335 | 207 | Brave Gridpiece |
+| 334 | 207 | Brave Gridpiece |
+| 335 | 207 | Melissa McCall |
 | 336 | 207 | Shylee Tilman |
 | 337 | 206 | RAEPR05 |
 | 338 | 205 | ElizabethAnn Dickinson |
@@ -370,9 +370,9 @@
 | 362 | 193 | Matthew Turner |
 | 363 | 193 | Kelly Ann McCormick |
 | 364 | 191 | Lauren Fitzgerald Thomas |
-| 365 | 191 | John Quiring |
-| 366 | 191 | Deana |
-| 367 | 191 | Sho Nuff |
+| 365 | 191 | Sho Nuff |
+| 366 | 191 | John Quiring |
+| 367 | 191 | Deana |
 | 368 | 190 | blarg |
 | 369 | 190 | Jessica Kaye DeAguero |
 | 370 | 190 | Jennifer Leigh |

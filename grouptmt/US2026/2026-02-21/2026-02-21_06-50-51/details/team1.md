@@ -91,8 +91,8 @@
 | 83 | 144 | Plucky Ziggy |
 | 84 | 144 | Tanya Carpenter-Reynolds |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Blaire Bruckoff |
-| 87 | 141 | Susanna Guerry |
+| 86 | 141 | Susanna Guerry |
+| 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
