@@ -75,8 +75,8 @@
 | 67 | 194 | Jamie Mann-Deichmann |
 | 68 | 187 | Swanky Fitline |
 | 69 | 185 | loulou |
-| 70 | 180 | Leah Kutz Zirbel |
-| 71 | 180 | shar |
+| 70 | 180 | shar |
+| 71 | 180 | Leah Kutz Zirbel |
 | 72 | 179 | Epic Curvetile |
 | 73 | 178 | Lori |
 | 74 | 175 | Dustee Craddock-Harrison |
@@ -85,8 +85,8 @@
 | 77 | 171 | Melvin Baird |
 | 78 | 170 | Girl |
 | 79 | 167 | Denise Carlson |
-| 80 | 165 | Casey Grabner |
-| 81 | 165 | Courtney Cicoria |
+| 80 | 165 | Courtney Cicoria |
+| 81 | 165 | Casey Grabner |
 | 82 | 162 | Shauna Havard |
 | 83 | 162 | Andy Cabral |
 | 84 | 160 | Carter Jones |
@@ -97,8 +97,8 @@
 | 89 | 153 | Jae Job |
 | 90 | 151 | Dana Scott |
 | 91 | 150 | ZeeZee |
-| 92 | 147 | Jay28 |
-| 93 | 147 | 030Synner |
+| 92 | 147 | 030Synner |
+| 93 | 147 | Jay28 |
 | 94 | 146 | Peachy Fall |
 | 95 | 143 | Nugget |
 | 96 | 141 | Malakai Darien Fox |
@@ -195,8 +195,8 @@
 | 187 | 85 | Chirpy Slammer |
 | 188 | 85 | Shukee Lo |
 | 189 | 85 | Mimi |
-| 190 | 85 | Tim Knight-ten |
-| 191 | 85 | Autumn Kumzi |
+| 190 | 85 | Dizzy Tiley |
+| 191 | 85 | Tim Knight-ten |
 | 192 | 84 | Perky Piecegrid |
 | 193 | 83 | Avy Absol |
 | 194 | 83 | Holly |

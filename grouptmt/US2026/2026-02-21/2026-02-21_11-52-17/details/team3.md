@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -139,11 +139,11 @@
 | 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
-| 137 | 166 | Betty Rosas |
-| 138 | 166 | Danielle Mogg |
+| 137 | 166 | Danielle Mogg |
+| 138 | 166 | Betty Rosas |
 | 139 | 166 | Kelly Ann Child |
 | 140 | 165 | Kali Kelz Williams |
 | 141 | 164 | rosy |
@@ -185,9 +185,9 @@
 | 177 | 129 | Logan Naccarato |
 | 178 | 129 | Lesley Perez |
 | 179 | 128 | Jen Lewis |
-| 180 | 127 | Aerian Preston |
-| 181 | 127 | Joy Petroski |
-| 182 | 127 | Marquita Sheard |
+| 180 | 127 | Joy Petroski |
+| 181 | 127 | Marquita Sheard |
+| 182 | 127 | Aerian Preston |
 | 183 | 126 | Brandon Givens |
 | 184 | 125 | Shimika Enay Wallace |
 | 185 | 125 | Felicia Doxey |
