@@ -26,8 +26,8 @@
 | 18 | 547 | Marianne Louise West |
 | 19 | 543 | Aaron Garnett |
 | 20 | 517 | Felicia Lewis |
-| 21 | 511 | Amanda Summey Schoemer |
-| 22 | 511 | Jen Sartain |
+| 21 | 511 | Jen Sartain |
+| 22 | 511 | Amanda Summey Schoemer |
 | 23 | 510 | Colena Davenport |
 | 24 | 502 | Lawrence Belanger |
 | 25 | 493 | comrade fish |
@@ -49,13 +49,13 @@
 | 41 | 298 | Angel Fowler |
 | 42 | 294 | Jacqueline Williams |
 | 43 | 291 | Nancy Green |
-| 44 | 274 | Theo Pinnow |
-| 45 | 274 | Sweet Baker |
+| 44 | 274 | Sweet Baker |
+| 45 | 274 | Theo Pinnow |
 | 46 | 272 | Adam Byrd |
 | 47 | 264 | Shauna Loe |
 | 48 | 257 | Sarah Roberts |
-| 49 | 256 | Tipsy Column |
-| 50 | 256 | Robert Benito |
+| 49 | 256 | Robert Benito |
+| 50 | 256 | Tipsy Column |
 | 51 | 253 | Bhelle Sumile |
 | 52 | 244 | Franswa |
 | 53 | 241 | Kristen Roles Robben |

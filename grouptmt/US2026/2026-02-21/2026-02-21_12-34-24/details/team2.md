@@ -115,8 +115,8 @@
 | 107 | 658 | Pacynthia Williams |
 | 108 | 653 | Becky Weeks-Garry |
 | 109 | 653 | Roger Grabbit |
-| 110 | 649 | Stephanie Chapman |
-| 111 | 649 | Anna Edwards |
+| 110 | 649 | Anna Edwards |
+| 111 | 649 | Stephanie Chapman |
 | 112 | 641 | Ricardo Burton |
 | 113 | 632 | Beth |
 | 114 | 631 | Loopy Clusterbuilder |
@@ -294,8 +294,8 @@
 | 286 | 296 | Amber Gray |
 | 287 | 296 | Jennifer Casey-Kay |
 | 288 | 295 | Zany Clusterbuilder |
-| 289 | 295 | Diallo Sparkman |
-| 290 | 295 | Angela Bonquiqui Dinish |
+| 289 | 295 | Angela Bonquiqui Dinish |
+| 290 | 295 | Diallo Sparkman |
 | 291 | 293 | Scott Treadway |
 | 292 | 293 | David Holliday |
 | 293 | 290 | Maya June |
@@ -337,8 +337,8 @@
 | 329 | 270 | Angela Lynn |
 | 330 | 269 | Reece Smith |
 | 331 | 268 | Chummy Blockbuilder |
-| 332 | 266 | Mighty Shatterfit |
-| 333 | 266 | Mike Aprilliano |
+| 332 | 266 | Mike Aprilliano |
+| 333 | 266 | Mighty Shatterfit |
 | 334 | 264 | Dapper Dasher |
 | 335 | 264 | Giddy Gridclear |
 | 336 | 263 | Taylor Flowers |
@@ -385,8 +385,8 @@
 | 377 | 240 | Adam Erikson |
 | 378 | 239 | Angelina Marie |
 | 379 | 238 | Cheery Matchzone |
-| 380 | 236 | Frisky Riserbuilder |
-| 381 | 236 | snkylnk |
+| 380 | 236 | snkylnk |
+| 381 | 236 | Frisky Riserbuilder |
 | 382 | 236 | Julio A Laracuente |
 | 383 | 236 | Niceday |
 | 384 | 235 | Kimberly Mitchell |
@@ -438,8 +438,8 @@
 | 430 | 202 | Layna Lyons |
 | 431 | 201 | Twisty Tetriblast |
 | 432 | 201 | Peppy Snapfall |
-| 433 | 200 | Sarah Ridenour |
-| 434 | 200 | LaWanda Powell |
+| 433 | 200 | LaWanda Powell |
+| 434 | 200 | Sarah Ridenour |
 | 435 | 199 | Fi Ne |
 | 436 | 199 | Jessica Sutter |
 | 437 | 199 | Jenny Castro |
@@ -480,9 +480,9 @@
 | 472 | 183 | Brenna Ann |
 | 473 | 182 | Tamara Bailey |
 | 474 | 182 | Donna M Carter |
-| 475 | 181 | Wacky Cascade |
+| 475 | 181 | Tom Steffen |
 | 476 | 181 | Julay |
-| 477 | 181 | Tom Steffen |
+| 477 | 181 | Wacky Cascade |
 | 478 | 181 | Mr. Street Stack |
 | 479 | 180 | Amanda Grohmann |
 | 480 | 180 | Peter Palestino |

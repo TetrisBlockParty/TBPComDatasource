@@ -24,8 +24,8 @@
 | 16 | 625 | GreenJeepGirl |
 | 17 | 608 | Denny Shives |
 | 18 | 606 | Rachel Anne |
-| 19 | 590 | Dee Kay |
-| 20 | 590 | Valerie Roberts |
+| 19 | 590 | Valerie Roberts |
+| 20 | 590 | Dee Kay |
 | 21 | 589 | Chilly Line |
 | 22 | 578 | Leah Gorsuch |
 | 23 | 509 | Rebecca Moulton Pinciaro |
@@ -84,9 +84,9 @@
 | 76 | 173 | Jeff Brian Gates |
 | 77 | 171 | Zethra Prenisha Rahming |
 | 78 | 171 | Melvin Baird |
-| 79 | 170 | KM8 |
-| 80 | 170 | Justin Hannigan |
-| 81 | 170 | Girl |
+| 79 | 170 | Girl |
+| 80 | 170 | KM8 |
+| 81 | 170 | Justin Hannigan |
 | 82 | 167 | Denise Carlson |
 | 83 | 165 | Courtney Cicoria |
 | 84 | 165 | Casey Grabner |
@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | 030Synner |
-| 96 | 147 | Jay28 |
+| 95 | 147 | Jay28 |
+| 96 | 147 | 030Synner |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -112,7 +112,7 @@
 | 104 | 134 | Serena Goodridge |
 | 105 | 134 | Chirpy Basepiece |
 | 106 | 133 | Robin Watters |
-| 107 | 132 | Degenerate |
+| 107 | 132 | Jenna McGeorge |
 | 108 | 132 | Melissa Priest Sellers |
 | 109 | 132 | Degenerate |
 | 110 | 132 | Jessica Cagle |
@@ -157,8 +157,8 @@
 | 149 | 104 | Avy Absol |
 | 150 | 104 | Damn Libra |
 | 151 | 103 | Judy Cox |
-| 152 | 102 | ĥuf |
-| 153 | 102 | Faja |
+| 152 | 102 | Faja |
+| 153 | 102 | ĥuf |
 | 154 | 101 | Saulc1991 |
 | 155 | 101 | Michelle Morris |
 | 156 | 100 | Alexandra Karavias |

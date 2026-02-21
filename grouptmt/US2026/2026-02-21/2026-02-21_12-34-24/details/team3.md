@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Trezure Gonzalez |
-| 76 | 342 | Annie Déè |
+| 75 | 342 | Annie Déè |
+| 76 | 342 | Trezure Gonzalez |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -126,8 +126,8 @@
 | 118 | 204 | Aaron Pitkin |
 | 119 | 202 | Twisty Brick LT |
 | 120 | 199 | joclisa |
-| 121 | 195 | Jenny Hrndz |
-| 122 | 195 | Nicha Hooker |
+| 121 | 195 | Nicha Hooker |
+| 122 | 195 | Jenny Hrndz |
 | 123 | 194 | glichmod |
 | 124 | 193 | Stephanie Burtin |
 | 125 | 193 | Clever Shiftsnap |
@@ -271,9 +271,9 @@
 | 263 | 94 | Angie Harper |
 | 264 | 94 | Andrew Thorson |
 | 265 | 93 | Tiffany Ford |
-| 266 | 92 | Trice Thomas |
-| 267 | 92 | Jennifer Caputo |
-| 268 | 92 | Ava Petito |
+| 266 | 92 | Jennifer Caputo |
+| 267 | 92 | Ava Petito |
+| 268 | 92 | Trice Thomas |
 | 269 | 92 | Jackie-Lynne Goertzen |
 | 270 | 91 | Martin Bernier |
 | 271 | 90 | Tiffany Kaupang |
