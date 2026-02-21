@@ -112,12 +112,12 @@
 | 104 | 378 | Tasha Schriewer |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
-| 107 | 368 | Stephanie Blkpep Davidson |
-| 108 | 368 | Stephanie Woods |
-| 109 | 367 | mjl574 |
-| 110 | 367 | Nerdy Riseclear |
-| 111 | 366 | Adrian Marcel Pate |
-| 112 | 366 | Speedy Bridger |
+| 107 | 368 | Stephanie Woods |
+| 108 | 368 | Stephanie Blkpep Davidson |
+| 109 | 367 | Nerdy Riseclear |
+| 110 | 367 | mjl574 |
+| 111 | 366 | Speedy Bridger |
+| 112 | 366 | Adrian Marcel Pate |
 | 113 | 350 | Tiff Vs Tiffany |
 | 114 | 348 | CeceGeGe |
 | 115 | 347 | Darlene McMillan |
@@ -143,8 +143,8 @@
 | 135 | 276 | Crimson |
 | 136 | 276 | Domo Washington |
 | 137 | 272 | opf |
-| 138 | 271 | Ashley Muncey |
-| 139 | 271 | Leah Barnett |
+| 138 | 271 | Leah Barnett |
+| 139 | 271 | Ashley Muncey |
 | 140 | 267 | Denise Nardoni |
 | 141 | 265 | Marci Mize Fandrich |
 | 142 | 263 | Angeline Joseph |
@@ -169,14 +169,14 @@
 | 161 | 226 | Grego Daniel |
 | 162 | 224 | Nicole Myers |
 | 163 | 223 | Jeana Gilbert |
-| 164 | 222 | Hoppy Buildout |
-| 165 | 222 | Jimmie Clemons |
+| 164 | 222 | Jimmie Clemons |
+| 165 | 222 | Hoppy Buildout |
 | 166 | 219 | Rebecca Bailey |
 | 167 | 219 | Shunta Jacobs |
 | 168 | 218 | LaNette Morgan |
 | 169 | 217 | Jess Bissett |
-| 170 | 214 | Jenny Hrndz |
-| 171 | 214 | Amy Fuller Heaton |
+| 170 | 214 | Amy Fuller Heaton |
+| 171 | 214 | Jenny Hrndz |
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Khaleada McGill Banks |
 | 174 | 211 | Katrina Turner |
@@ -193,9 +193,9 @@
 | 185 | 197 | Staci George Fitzsimmons |
 | 186 | 195 | Michael Lucado |
 | 187 | 195 | Nicha Hooker |
-| 188 | 193 | Stephanie Burtin |
+| 188 | 193 | Angie Harper |
 | 189 | 193 | Clever Shiftsnap |
-| 190 | 193 | Angie Harper |
+| 190 | 193 | Stephanie Burtin |
 | 191 | 192 | Kelly Ann Child |
 | 192 | 191 | Brenda Lee Vander Molen |
 | 193 | 191 | Rebecca Funderburk Kirby |

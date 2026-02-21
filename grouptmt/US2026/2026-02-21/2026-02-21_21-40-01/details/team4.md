@@ -165,8 +165,8 @@
 | 157 | 141 | Marcus Todd |
 | 158 | 141 | ĥuf |
 | 159 | 141 | Kathy Allen |
-| 160 | 140 | Shannon Ferrari |
-| 161 | 140 | John Brunetti |
+| 160 | 140 | John Brunetti |
+| 161 | 140 | Shannon Ferrari |
 | 162 | 137 | PeaceOs |
 | 163 | 136 | Tanner Lund |
 | 164 | 136 | Serena Goodridge |
@@ -183,8 +183,8 @@
 | 175 | 132 | Degenerate |
 | 176 | 131 | Michelle Morris |
 | 177 | 131 | TinyLegoRose |
-| 178 | 130 | Carlos Ramirez |
-| 179 | 130 | Shukee Lo |
+| 178 | 130 | Shukee Lo |
+| 179 | 130 | Carlos Ramirez |
 | 180 | 129 | Dreamy Snapgrid |
 | 181 | 129 | Crystal Nicolette Moore |
 | 182 | 128 | Rio Rocha |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Lazy Blocker |
-| 217 | 111 | Kristin MacDonald |
+| 216 | 111 | Kristin MacDonald |
+| 217 | 111 | Lazy Blocker |
 | 218 | 109 | Frank Cook |
 | 219 | 109 | Ak Jones |
 | 220 | 108 | Rebecca Morris |

@@ -143,14 +143,14 @@
 | 135 | 177 | ParisandCory Champagne |
 | 136 | 177 | Michael |
 | 137 | 176 | Basment Living |
-| 138 | 171 | David DeSantis |
-| 139 | 171 | Greg Premoe |
+| 138 | 171 | Greg Premoe |
+| 139 | 171 | David DeSantis |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
 | 143 | 166 | Katie Daniels |
-| 144 | 166 | John Barron |
-| 145 | 166 | Rico Rico |
+| 144 | 166 | Rico Rico |
+| 145 | 166 | John Barron |
 | 146 | 165 | Nadine Velardo |
 | 147 | 163 | Tyler Whitley |
 | 148 | 162 | Tanya Carpenter-Reynolds |
@@ -179,8 +179,8 @@
 | 171 | 142 | Colleen Wise |
 | 172 | 141 | Blaire Bruckoff |
 | 173 | 140 | Miguel Teixeira |
-| 174 | 139 | Flashy Rotator |
-| 175 | 139 | Jenny Gingrich Fuentes |
+| 174 | 139 | Jenny Gingrich Fuentes |
+| 175 | 139 | Flashy Rotator |
 | 176 | 138 | Death |
 | 177 | 137 | Cody Gates |
 | 178 | 136 | Dino |
@@ -220,7 +220,7 @@
 | 212 | 114 | Tyler Hertzog |
 | 213 | 114 | Hector Cruz |
 | 214 | 113 | Desiree Deschaine Havee |
-| 215 | 112 | MRdot Rooski |
+| 215 | 112 | Jessica Sheehan |
 | 216 | 112 | Chris65 |
 | 217 | 112 | MRdot Rooski |
 | 218 | 111 | Rachel Nichole Henry |
@@ -272,7 +272,7 @@
 | 264 | 95 | Jeanna Dunn |
 | 265 | 94 | Mitchel White |
 | 266 | 92 | Christina Backer |
-| 267 | 91 | Virginia Gray Floyd |
+| 267 | 91 | Beazel75 |
 | 268 | 91 | Erin Hodges Plumb |
 | 269 | 91 | Virginia Gray Floyd |
 | 270 | 90 | Grace Joanne Agnant |

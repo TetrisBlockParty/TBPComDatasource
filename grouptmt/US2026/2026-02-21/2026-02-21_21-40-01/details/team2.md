@@ -588,8 +588,8 @@
 | 580 | 245 | Mary Boss |
 | 581 | 245 | Sanaa Nounoussa |
 | 582 | 244 | Maxwell Escalera |
-| 583 | 244 | Nakiiya Dreamcatcher Gore |
-| 584 | 244 | Court |
+| 583 | 244 | Court |
+| 584 | 244 | Nakiiya Dreamcatcher Gore |
 | 585 | 243 | JacJac |
 | 586 | 242 | Lianne Giandalone LaBounty |
 | 587 | 242 | Donna Chandler |
