@@ -14,8 +14,8 @@
 | 6 | 4359 | Sean Dugar |
 | 7 | 3844 | 赵珞涵 |
 | 8 | 3719 | Cassie Donica |
-| 9 | 3567 | Rickey Goins Jr. |
-| 10 | 3567 | Taylana Mincy |
+| 9 | 3567 | Taylana Mincy |
+| 10 | 3567 | Rickey Goins Jr. |
 | 11 | 3553 | Tiaira Patrice' |
 | 12 | 3514 | Brian Jefferson |
 | 13 | 3460 | Poppy Snap |
@@ -166,8 +166,8 @@
 | 158 | 534 | Poppy Snapper |
 | 159 | 534 | Stephen Stephen |
 | 160 | 531 | Chris Wanner |
-| 161 | 527 | Adira Brown |
-| 162 | 527 | Stacy Stickle |
+| 161 | 527 | Stacy Stickle |
+| 162 | 527 | Adira Brown |
 | 163 | 526 | April Dawn Gussler |
 | 164 | 525 | Tommy Tha Boss Gunz |
 | 165 | 525 | Desiree Anderson |
@@ -176,8 +176,8 @@
 | 168 | 514 | Ashley House |
 | 169 | 511 | Dizzy Zone |
 | 170 | 511 | Ramone Armstrong |
-| 171 | 510 | Lisa Ongtowasruk |
-| 172 | 510 | Cheech Dta |
+| 171 | 510 | Cheech Dta |
+| 172 | 510 | Lisa Ongtowasruk |
 | 173 | 509 | Kelli Wells |
 | 174 | 505 | Danielle Johnson-Chandler |
 | 175 | 504 | Cherica Taylor |

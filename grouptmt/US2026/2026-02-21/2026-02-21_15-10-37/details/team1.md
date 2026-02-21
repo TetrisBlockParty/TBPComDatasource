@@ -100,9 +100,9 @@
 | 92 | 180 | Erez Yosef |
 | 93 | 179 | Yvonne Marie |
 | 94 | 178 | Danielle Little-Daugherty |
-| 95 | 173 | Jennifer Olewnik Soborowski |
+| 95 | 173 | june october |
 | 96 | 173 | Frothy Pattern |
-| 97 | 173 | june october |
+| 97 | 173 | Jennifer Olewnik Soborowski |
 | 98 | 171 | Greg Premoe |
 | 99 | 169 | Abbey Crespo |
 | 100 | 166 | Rico Rico |
@@ -166,11 +166,11 @@
 | 158 | 115 | Chuck Gannon |
 | 159 | 115 | Mrs.Patrica |
 | 160 | 113 | Desiree Deschaine Havee |
-| 161 | 112 | Flashy Rotator |
+| 161 | 112 | Chris65 |
 | 162 | 112 | Nicole Roseberry Weber |
-| 163 | 112 | Chris65 |
-| 164 | 111 | Agustin Duarte Orozco |
-| 165 | 111 | Chirpy Smasher |
+| 163 | 112 | Flashy Rotator |
+| 164 | 111 | Chirpy Smasher |
+| 165 | 111 | Agustin Duarte Orozco |
 | 166 | 110 | Garcia Bailey |
 | 167 | 110 | Madison Wicks |
 | 168 | 109 | Nery Martinez |

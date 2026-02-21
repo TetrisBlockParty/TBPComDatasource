@@ -105,8 +105,8 @@
 | 97 | 309 | Rich LeBlanc |
 | 98 | 307 | Peggi Charon |
 | 99 | 307 | Blocked |
-| 100 | 300 | Tessina Dewey-Mancino |
-| 101 | 300 | Sherika C. McDaniels |
+| 100 | 300 | Sherika C. McDaniels |
+| 101 | 300 | Tessina Dewey-Mancino |
 | 102 | 299 | Speedy Bridger |
 | 103 | 267 | Rufus Lincoln |
 | 104 | 264 | Tiff Vs Tiffany |
@@ -209,12 +209,12 @@
 | 201 | 145 | Bryan Byrd |
 | 202 | 145 | Rochelle Hazelett |
 | 203 | 142 | Erica Anderson |
-| 204 | 141 | Emma |
-| 205 | 141 | Loopy Fallzone |
-| 206 | 140 | Gumbo |
-| 207 | 140 | Jay Horn |
-| 208 | 136 | Joy Petroski |
-| 209 | 136 | Boldy Corner |
+| 204 | 141 | Loopy Fallzone |
+| 205 | 141 | Emma |
+| 206 | 140 | Jay Horn |
+| 207 | 140 | Gumbo |
+| 208 | 136 | Boldy Corner |
+| 209 | 136 | Joy Petroski |
 | 210 | 135 | Cheryl Hinch Tenbrook |
 | 211 | 133 | LaNette Morgan |
 | 212 | 132 | Terry Jo Jones |
@@ -247,11 +247,11 @@
 | 239 | 118 | Fancy Curver |
 | 240 | 118 | Damian Reid |
 | 241 | 116 | BugMansMom |
-| 242 | 115 | Daring Builder |
-| 243 | 115 | Stella |
-| 244 | 115 | Hoppy Buildout |
-| 245 | 113 | Beppy |
-| 246 | 113 | Brian Battjes |
+| 242 | 115 | Stella |
+| 243 | 115 | Hoppy Buildout |
+| 244 | 115 | Daring Builder |
+| 245 | 113 | Brian Battjes |
+| 246 | 113 | Beppy |
 | 247 | 112 | Cozy Snaplink |
 | 248 | 111 | Stephanie Zahm |
 | 249 | 111 | France Vézina |
@@ -301,8 +301,8 @@
 | 293 | 98 | Andrew Thorson |
 | 294 | 98 | Shicken Nuggit |
 | 295 | 97 | Paula Little |
-| 296 | 96 | D3NO |
-| 297 | 96 | Christopher Woost |
+| 296 | 96 | Christopher Woost |
+| 297 | 96 | D3NO |
 | 298 | 95 | Brooke Bauer |
 | 299 | 95 | FATTY |
 | 300 | 94 | Nichole Greene |
