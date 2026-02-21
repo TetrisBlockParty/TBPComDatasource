@@ -135,10 +135,10 @@
 | 127 | 115 | Jennifer Alvey |
 | 128 | 115 | Connie Mohler-Fair |
 | 129 | 114 | Jessica Bechler |
-| 130 | 110 | Tiff Vs Tiffany |
-| 131 | 110 | Stella |
-| 132 | 109 | Fredd Thomas |
-| 133 | 109 | Brian Battjes |
+| 130 | 110 | Stella |
+| 131 | 110 | Tiff Vs Tiffany |
+| 132 | 109 | Brian Battjes |
+| 133 | 109 | Fredd Thomas |
 | 134 | 108 | Rachel Napper |
 | 135 | 108 | Jay Horn |
 | 136 | 108 | Grams |
@@ -177,8 +177,8 @@
 | 169 | 90 | Eon Harris |
 | 170 | 90 | Rebel124 |
 | 171 | 89 | Hyper Bridger |
-| 172 | 88 | Danielle Becker |
-| 173 | 88 | Shicken Nuggit |
+| 172 | 88 | Shicken Nuggit |
+| 173 | 88 | Danielle Becker |
 | 174 | 88 | Brandon Givens |
 | 175 | 88 | Martin Bernier |
 | 176 | 87 | Juliana Dottore |

@@ -263,11 +263,11 @@
 | 255 | 208 | Mema |
 | 256 | 207 | Melissa McCall |
 | 257 | 206 | RAEPR05 |
-| 258 | 205 | Lylymom |
-| 259 | 205 | ElizabethAnn Dickinson |
+| 258 | 205 | ElizabethAnn Dickinson |
+| 259 | 205 | Lylymom |
 | 260 | 204 | Ali Gralski |
-| 261 | 204 | Rebecca Doughman |
-| 262 | 204 | Johnny Yeates |
+| 261 | 204 | Johnny Yeates |
+| 262 | 204 | Rebecca Doughman |
 | 263 | 203 | Gary Stash |
 | 264 | 203 | Julio A Laracuente |
 | 265 | 202 | Christina Ashley |
@@ -320,14 +320,14 @@
 | 312 | 170 | Darlene Bowman |
 | 313 | 170 | Kenya Felix |
 | 314 | 169 | Lively Catcher |
-| 315 | 169 | Fi Ne |
-| 316 | 169 | Wakanda Forever |
+| 315 | 169 | Wakanda Forever |
+| 316 | 169 | Fi Ne |
 | 317 | 168 | Robin |
 | 318 | 168 | Kati Russeau |
 | 319 | 167 | Dedra Steward |
 | 320 | 165 | Cathy Bitters |
-| 321 | 164 | kippykay |
-| 322 | 164 | Jamie Stevey |
+| 321 | 164 | Jamie Stevey |
+| 322 | 164 | kippykay |
 | 323 | 164 | Eddie Perez |
 | 324 | 163 | Albert McKnight |
 | 325 | 163 | Austin Wilson |

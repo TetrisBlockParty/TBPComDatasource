@@ -131,8 +131,8 @@
 | 123 | 75 | Rosemary Foster |
 | 124 | 75 | 🥔🥔 Spudz |
 | 125 | 73 | April Rondinone |
-| 126 | 72 | Joshua Cuellar |
-| 127 | 72 | Shukee Lo |
+| 126 | 72 | Shukee Lo |
+| 127 | 72 | Joshua Cuellar |
 | 128 | 71 | Julian Garcia |
 | 129 | 71 | Joseph Pace |
 | 130 | 71 | Christina Black |
