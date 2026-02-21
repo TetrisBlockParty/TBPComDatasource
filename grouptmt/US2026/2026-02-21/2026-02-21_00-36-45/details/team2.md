@@ -96,8 +96,8 @@
 | 88 | 351 | Giggy Blocker |
 | 89 | 350 | Chris Harr |
 | 90 | 345 | Brenda Messer |
-| 91 | 345 | Alyssaaelena |
-| 92 | 345 | Rhianna DiLorenzo |
+| 91 | 345 | Rhianna DiLorenzo |
+| 92 | 345 | Alyssaaelena |
 | 93 | 344 | Christina Lewis-Vickers |
 | 94 | 343 | Wendy Harder Gage |
 | 95 | 342 | Tracy Wise |
@@ -111,10 +111,10 @@
 | 103 | 317 | Debra Williams |
 | 104 | 317 | bru |
 | 105 | 299 | Véronique Lévesque Sabourin |
-| 106 | 297 | Desiree Anderson |
-| 107 | 297 | James Zaragoza |
-| 108 | 295 | Zany Clusterbuilder |
-| 109 | 295 | Diallo Sparkman |
+| 106 | 297 | James Zaragoza |
+| 107 | 297 | Desiree Anderson |
+| 108 | 295 | Diallo Sparkman |
+| 109 | 295 | Zany Clusterbuilder |
 | 110 | 292 | Steve Grotto |
 | 111 | 286 | Juanita Lyons |
 | 112 | 285 | June E Hanson |
@@ -227,8 +227,8 @@
 | 219 | 169 | Mema |
 | 220 | 169 | Lively Catcher |
 | 221 | 168 | Robin |
-| 222 | 167 | Christina Ashley |
-| 223 | 167 | Fi Ne |
+| 222 | 167 | Fi Ne |
+| 223 | 167 | Christina Ashley |
 | 224 | 166 | Jessica Kaye DeAguero |
 | 225 | 165 | Shorty |
 | 226 | 165 | Cathy Bitters |
@@ -315,8 +315,8 @@
 | 307 | 122 | Scott Treadway |
 | 308 | 121 | Fancy Chiseler |
 | 309 | 121 | Amy Humphreys |
-| 310 | 121 | Jessica Szymecki |
-| 311 | 121 | Fancy Chiseler |
+| 310 | 121 | Pam Doughty |
+| 311 | 121 | Jessica Szymecki |
 | 312 | 121 | Maegan Beaule |
 | 313 | 120 | Cheeky Brickmatch |
 | 314 | 120 | Michael Tate |
@@ -330,8 +330,8 @@
 | 322 | 119 | Perry Hubert |
 | 323 | 119 | Alison Emmons |
 | 324 | 118 | Erica Williams |
-| 325 | 118 | Poppy Gridder |
-| 326 | 118 | Maria Escobar |
+| 325 | 118 | Maria Escobar |
+| 326 | 118 | Poppy Gridder |
 | 327 | 117 | Myleaha Holley |
 | 328 | 117 | Cody Kelsey |
 | 329 | 117 | Kelly Trent |

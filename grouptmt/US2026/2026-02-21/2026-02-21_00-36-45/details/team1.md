@@ -62,8 +62,8 @@
 | 54 | 114 | Colleen Wise |
 | 55 | 112 | Miguel Teixeira |
 | 56 | 110 | Heidi Feurer |
-| 57 | 109 | Dandy Basegrid |
-| 58 | 109 | Happy Basegrid |
+| 57 | 109 | Happy Basegrid |
+| 58 | 109 | Dandy Basegrid |
 | 59 | 108 | Tavia |
 | 60 | 105 | Barry Mac'Ockner |
 | 61 | 100 | Frothy Pattern |
@@ -95,17 +95,17 @@
 | 87 | 78 | Carrie Beck Geartz |
 | 88 | 75 | Tyler L Hunt |
 | 89 | 74 | Grace Joanne Agnant |
-| 90 | 73 | Loony Fitzone |
-| 91 | 73 | Witty Builderfit |
+| 90 | 73 | Witty Builderfit |
+| 91 | 73 | Loony Fitzone |
 | 92 | 72 | Tipsy Strikerpiece |
 | 93 | 72 | Anaid Sanchez |
 | 94 | 71 | Teddy Alexander |
 | 95 | 69 | Christina Torres |
 | 96 | 68 | Blaire Bruckoff |
 | 97 | 66 | Archie Ware |
-| 98 | 65 | Jennifer Olewnik Soborowski |
-| 99 | 65 | MamaB24 |
-| 100 | 65 | Trippy Redd |
+| 98 | 65 | Trippy Redd |
+| 99 | 65 | Jennifer Olewnik Soborowski |
+| 100 | 65 | MamaB24 |
 | 101 | 65 | Yvonne Marie |
 | 102 | 64 | Alex Gauthier |
 | 103 | 64 | Aimee Horton |

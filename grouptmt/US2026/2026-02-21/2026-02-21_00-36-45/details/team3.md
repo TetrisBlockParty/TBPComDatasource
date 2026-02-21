@@ -61,8 +61,8 @@
 | 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Clever Shiftsnap |
-| 57 | 193 | Shunta Jacobs |
+| 56 | 193 | Shunta Jacobs |
+| 57 | 193 | Clever Shiftsnap |
 | 58 | 187 | Speedy Bridger |
 | 59 | 185 | Danielle Cutler |
 | 60 | 184 | Jennie Beranek |
@@ -77,8 +77,8 @@
 | 69 | 147 | Trisha Balmer |
 | 70 | 143 | ren |
 | 71 | 141 | Denita Mungro |
-| 72 | 135 | Nicole Flippo |
-| 73 | 135 | Latoya Mayne |
+| 72 | 135 | Latoya Mayne |
+| 73 | 135 | Nicole Flippo |
 | 74 | 134 | DanceLuvLaugh |
 | 75 | 131 | Emma |
 | 76 | 130 | Tessina Dewey-Mancino |

@@ -136,10 +136,10 @@
 | 128 | 51 | Swanky Fitline |
 | 129 | 50 | GBR |
 | 130 | 50 | Smiley Linkgrid |
-| 131 | 50 | Brandon Crabbs |
-| 132 | 50 | Landon Keith Graffeo |
-| 133 | 49 | shark tato |
-| 134 | 49 | Rio Rocha |
+| 131 | 50 | Landon Keith Graffeo |
+| 132 | 50 | Brandon Crabbs |
+| 133 | 49 | Rio Rocha |
+| 134 | 49 | shark tato |
 | 135 | 49 | Lakesha Johnson |
 | 136 | 47 | Robin Getchel |
 | 137 | 47 | Amy Sanford |
