@@ -127,8 +127,8 @@
 | 119 | 166 | Rico Rico |
 | 120 | 166 | Tana |
 | 121 | 165 | Veronica Eve |
-| 122 | 163 | Kellie |
-| 123 | 163 | Tyler Whitley |
+| 122 | 163 | Tyler Whitley |
+| 123 | 163 | Kellie |
 | 124 | 162 | Tanya Carpenter-Reynolds |
 | 125 | 161 | Jessie Lynn |
 | 126 | 157 | Snippy Wipebuilder |

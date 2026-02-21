@@ -119,8 +119,8 @@
 | 111 | 780 | Amanda Grohmann |
 | 112 | 772 | Megan Ferguson Leone |
 | 113 | 771 | Terri McKelvey McKinley |
-| 114 | 763 | Samantha Jo |
-| 115 | 763 | Robin Kerby |
+| 114 | 763 | Robin Kerby |
+| 115 | 763 | Samantha Jo |
 | 116 | 759 | Jose Mendoza |
 | 117 | 756 | Stephanie Neuburger |
 | 118 | 751 | Loony Snapper |
@@ -155,8 +155,8 @@
 | 147 | 659 | Poldo Ilano |
 | 148 | 658 | Pacynthia Williams |
 | 149 | 651 | Unica Rector |
-| 150 | 650 | Shiny Rollzone |
-| 151 | 650 | Claire Noland |
+| 150 | 650 | Claire Noland |
+| 151 | 650 | Shiny Rollzone |
 | 152 | 641 | Ricardo Burton |
 | 153 | 632 | Beth |
 | 154 | 631 | Peppy Zone |
@@ -240,8 +240,8 @@
 | 232 | 469 | Ashley Rose Frederick |
 | 233 | 467 | Scott Treadway |
 | 234 | 465 | Drwatson187 |
-| 235 | 464 | Nett |
-| 236 | 464 | Ryan Gunther |
+| 235 | 464 | Ryan Gunther |
+| 236 | 464 | Nett |
 | 237 | 463 | Sue Leard |
 | 238 | 460 | Amélie Cadieux |
 | 239 | 460 | Cody Smith-Candelaria |
@@ -251,8 +251,8 @@
 | 243 | 452 | Allan Wayne Lamia |
 | 244 | 452 | Alezandra Smith |
 | 245 | 448 | Jojo Momma |
-| 246 | 445 | Dedra Steward |
-| 247 | 445 | Calandra Shaya Robinson |
+| 246 | 445 | Calandra Shaya Robinson |
+| 247 | 445 | Dedra Steward |
 | 248 | 442 | Daphne Jordan |
 | 249 | 442 | Leah |
 | 250 | 440 | Liberty |
@@ -619,7 +619,7 @@
 | 611 | 193 | Kristen Casale Berry |
 | 612 | 192 | Leroy Jenkins |
 | 613 | 192 | Sandra Link-Gable |
-| 614 | 192 | Leroy Jenkins |
+| 614 | 192 | Beth Decker |
 | 615 | 191 | Stacy Harper |
 | 616 | 190 | Jessica Kaye DeAguero |
 | 617 | 190 | HarleyJane |
