@@ -82,8 +82,8 @@
 | 74 | 195 | Dustee Craddock-Harrison |
 | 75 | 194 | Jamie Mann-Deichmann |
 | 76 | 187 | Swanky Fitline |
-| 77 | 185 | loulou |
-| 78 | 185 | Andy Cabral |
+| 77 | 185 | Andy Cabral |
+| 78 | 185 | loulou |
 | 79 | 184 | Dizzy Tiley |
 | 80 | 182 | shar |
 | 81 | 180 | Leah Kutz Zirbel |
@@ -157,8 +157,8 @@
 | 149 | 112 | Brittany Marsh |
 | 150 | 111 | Lazy Blocker |
 | 151 | 111 | Gwendolyn Pitcairn |
-| 152 | 110 | H.R. Block |
-| 153 | 110 | YoMomma |
+| 152 | 110 | YoMomma |
+| 153 | 110 | H.R. Block |
 | 154 | 108 | Ali Ian |
 | 155 | 107 | Marcus Todd |
 | 156 | 106 | Avy Absol |
@@ -197,7 +197,7 @@
 | 189 | 90 | Amy Suckarieh |
 | 190 | 89 | mike |
 | 191 | 89 | shark tato |
-| 192 | 88 | Heather Tushner |
+| 192 | 88 | Kesha Brady |
 | 193 | 88 | Lindsey Gonzalez |
 | 194 | 88 | Heather Tushner |
 | 195 | 87 | Chair |

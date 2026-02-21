@@ -33,8 +33,8 @@
 | 25 | 928 | Snappy Fitzone |
 | 26 | 924 | Stephanie Rice |
 | 27 | 880 | Tetris Master |
-| 28 | 867 | Delilah belle |
-| 29 | 867 | Briarblack |
+| 28 | 867 | Briarblack |
+| 29 | 867 | Delilah belle |
 | 30 | 852 | cowboy25469 |
 | 31 | 821 | Jessica Ann |
 | 32 | 810 | Zippy Strikesnap |
@@ -63,8 +63,8 @@
 | 55 | 471 | Mendoza Lee Christy |
 | 56 | 462 | Nate Burnside |
 | 57 | 449 | Justin Ritter |
-| 58 | 446 | Ebony West-Cundiff |
-| 59 | 446 | Kathryn Keenan-Taggart |
+| 58 | 446 | Kathryn Keenan-Taggart |
+| 59 | 446 | Ebony West-Cundiff |
 | 60 | 445 | Kristie McFarland |
 | 61 | 431 | Dave Herzog |
 | 62 | 430 | Patricia White |
@@ -136,8 +136,8 @@
 | 128 | 195 | Nicha Hooker |
 | 129 | 194 | glichmod |
 | 130 | 193 | Stephanie Burtin |
-| 131 | 193 | Clever Shiftsnap |
-| 132 | 193 | Duane Bright |
+| 131 | 193 | Duane Bright |
+| 132 | 193 | Clever Shiftsnap |
 | 133 | 192 | Chasity |
 | 134 | 191 | Giddy Twistbuilder |
 | 135 | 191 | Scott Carleton |
@@ -175,8 +175,8 @@
 | 167 | 159 | Jone |
 | 168 | 159 | Morgan Martinez |
 | 169 | 158 | Grams |
-| 170 | 157 | Patricia Gadsden |
-| 171 | 157 | Nicholas Roddy |
+| 170 | 157 | Nicholas Roddy |
+| 171 | 157 | Patricia Gadsden |
 | 172 | 156 | Joey Banks |
 | 173 | 154 | Angela M. Fletcher |
 | 174 | 153 | Beth Ingham |
@@ -276,8 +276,8 @@
 | 268 | 100 | Bobbi Moore |
 | 269 | 100 | Demetrious Shaw Sr. |
 | 270 | 100 | Edwin Calvillo Jr. |
-| 271 | 99 | Nichol Graham |
-| 272 | 99 | MizzMonick Smith |
+| 271 | 99 | MizzMonick Smith |
+| 272 | 99 | Nichol Graham |
 | 273 | 99 | Michael Nowogorski |
 | 274 | 98 | Jocelyne Baca |
 | 275 | 98 | Armi |
