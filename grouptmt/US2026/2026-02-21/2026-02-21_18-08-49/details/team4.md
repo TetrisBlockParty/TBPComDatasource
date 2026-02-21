@@ -81,8 +81,8 @@
 | 73 | 256 | Brittney Griggs |
 | 74 | 247 | Isabella Blanco |
 | 75 | 237 | Lori Walker |
-| 76 | 230 | Lucas J Sutton |
-| 77 | 230 | Autum Leigh |
+| 76 | 230 | Autum Leigh |
+| 77 | 230 | Lucas J Sutton |
 | 78 | 220 | Joeliecea Cobb |
 | 79 | 218 | Casey Grabner |
 | 80 | 218 | Nugget |

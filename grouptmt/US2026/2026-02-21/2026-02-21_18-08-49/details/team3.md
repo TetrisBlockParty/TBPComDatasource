@@ -209,8 +209,8 @@
 | 201 | 160 | Tiffany Davie |
 | 202 | 159 | Jone |
 | 203 | 157 | Marquita Sheard |
-| 204 | 157 | Patricia Gadsden |
-| 205 | 157 | Nicholas Roddy |
+| 204 | 157 | Nicholas Roddy |
+| 205 | 157 | Patricia Gadsden |
 | 206 | 156 | Bea Miles |
 | 207 | 155 | Loopy Fallzone |
 | 208 | 154 | Laurie Allen |

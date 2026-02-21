@@ -184,8 +184,8 @@
 | 176 | 569 | Vaniel Glover |
 | 177 | 563 | goofinoff |
 | 178 | 563 | Maria Escobar |
-| 179 | 549 | Kaylee McCafferty |
-| 180 | 549 | Charvi' Carter |
+| 179 | 549 | Charvi' Carter |
+| 180 | 549 | Kaylee McCafferty |
 | 181 | 545 | Leslie Ann Carter |
 | 182 | 543 | Diana Fitzwater |
 | 183 | 541 | SaraMarie Eveland |
