@@ -155,8 +155,8 @@
 | 147 | 195 | Nicha Hooker |
 | 148 | 194 | glichmod |
 | 149 | 193 | Stephanie Burtin |
-| 150 | 193 | Clever Shiftsnap |
-| 151 | 193 | Duane Bright |
+| 150 | 193 | Duane Bright |
+| 151 | 193 | Clever Shiftsnap |
 | 152 | 191 | Giddy Twistbuilder |
 | 153 | 191 | Scott Carleton |
 | 154 | 189 | Sissy Lowery Davis |
@@ -346,10 +346,10 @@
 | 338 | 89 | Matty Ray |
 | 339 | 89 | Zac Hudak |
 | 340 | 89 | Patti Skiles |
-| 341 | 88 | Sabrina Mansfield |
-| 342 | 88 | Dapper Towerfit |
-| 343 | 88 | Kaitie Oliver |
-| 344 | 88 | Kelly Koenig |
+| 341 | 88 | Kelly Koenig |
+| 342 | 88 | Kaitie Oliver |
+| 343 | 88 | Sabrina Mansfield |
+| 344 | 88 | Dapper Towerfit |
 | 345 | 88 | RickyG |
 | 346 | 86 | Criss |
 | 347 | 86 | Salena Whitlock |

@@ -132,8 +132,8 @@
 | 124 | 700 | Rosemadder |
 | 125 | 698 | Lola Contreras |
 | 126 | 697 | Real Ri |
-| 127 | 694 | Nancy Reid |
-| 128 | 694 | Vo'Landa Reels |
+| 127 | 694 | Vo'Landa Reels |
+| 128 | 694 | Nancy Reid |
 | 129 | 690 | Cool Clearer |
 | 130 | 688 | Dreamy Blast |
 | 131 | 679 | Gold Rose |

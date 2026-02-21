@@ -63,8 +63,8 @@
 | 55 | 284 | Adam Byrd |
 | 56 | 279 | Shauna Loe |
 | 57 | 278 | Carrie Beck Geartz |
-| 58 | 274 | Sweet Baker |
-| 59 | 274 | Theo Pinnow |
+| 58 | 274 | Theo Pinnow |
+| 59 | 274 | Sweet Baker |
 | 60 | 261 | Bhelle Sumile |
 | 61 | 257 | Sarah Roberts |
 | 62 | 256 | Tipsy Column |
