@@ -116,8 +116,8 @@
 | 108 | 212 | Calvin Cannon |
 | 109 | 211 | Dizzy Tiley |
 | 110 | 210 | Damn Libra |
-| 111 | 208 | Twisty Cascadezone |
-| 112 | 208 | Chastity Mitchell |
+| 111 | 208 | Chastity Mitchell |
+| 112 | 208 | Twisty Cascadezone |
 | 113 | 206 | Mylo Lipscomb |
 | 114 | 205 | Sarah Neathery |
 | 115 | 204 | Dana Scott |

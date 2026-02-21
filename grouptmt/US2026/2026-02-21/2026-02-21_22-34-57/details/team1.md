@@ -110,8 +110,8 @@
 | 102 | 244 | Franswa |
 | 103 | 240 | Tana |
 | 104 | 240 | Chelsea Dahlquist |
-| 105 | 238 | John J. Cronin |
-| 106 | 238 | Steve Schneider |
+| 105 | 238 | Steve Schneider |
+| 106 | 238 | John J. Cronin |
 | 107 | 237 | Seante Bullock |
 | 108 | 230 | Frothy Pattern |
 | 109 | 228 | Trippy Redd |
@@ -126,13 +126,13 @@
 | 118 | 211 | Marianita Garcia |
 | 119 | 207 | Leslie Bush Yarbrough |
 | 120 | 204 | Ananda Mendez |
-| 121 | 203 | GATOR |
-| 122 | 203 | Giggly Builderline |
+| 121 | 203 | Giggly Builderline |
+| 122 | 203 | GATOR |
 | 123 | 198 | Happy Snapbuild |
 | 124 | 194 | Ash Galvan |
 | 125 | 193 | Lachelle Dillon |
-| 126 | 192 | Shaykmia |
-| 127 | 192 | Jessica Sheehan |
+| 126 | 192 | Jessica Sheehan |
+| 127 | 192 | Shaykmia |
 | 128 | 191 | Diane Byrd |
 | 129 | 190 | Thorne Shumate |
 | 130 | 190 | Sweetts |
@@ -167,8 +167,8 @@
 | 159 | 158 | Sarah Marie |
 | 160 | 154 | Irual Hctrab |
 | 161 | 153 | Shiny Gridmatch |
-| 162 | 152 | Jacqueline Unique |
-| 163 | 152 | Speedy Snapfall |
+| 162 | 152 | Speedy Snapfall |
+| 163 | 152 | Jacqueline Unique |
 | 164 | 151 | Christy Jones |
 | 165 | 150 | David Miller |
 | 166 | 150 | Adele Rahman |

@@ -143,8 +143,8 @@
 | 135 | 293 | Poppy Splitter |
 | 136 | 287 | Logan Naccarato |
 | 137 | 286 | Jacqueline Rodriguez |
-| 138 | 283 | Marci Mize Fandrich |
-| 139 | 283 | Joye Sims Binion |
+| 138 | 283 | Joye Sims Binion |
+| 139 | 283 | Marci Mize Fandrich |
 | 140 | 278 | Rufus Lincoln |
 | 141 | 276 | Crimson |
 | 142 | 272 | opf |
@@ -173,8 +173,8 @@
 | 165 | 234 | Rochelle Hazelett |
 | 166 | 233 | Ray Lader |
 | 167 | 231 | Nikki Pags |
-| 168 | 228 | Morgan Martinez |
-| 169 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 168 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 169 | 228 | Morgan Martinez |
 | 170 | 226 | Grego Daniel |
 | 171 | 224 | Nicole Myers |
 | 172 | 223 | Jeana Gilbert |
@@ -195,10 +195,10 @@
 | 187 | 205 | Sarah Moyer |
 | 188 | 204 | Danielle Allison |
 | 189 | 203 | Twisty Brick LT |
-| 190 | 201 | IamJust Neyamijah Washington Sr. |
-| 191 | 201 | Karon Griffin |
-| 192 | 200 | glichmod |
-| 193 | 200 | Sharisse Baltimore |
+| 190 | 201 | Karon Griffin |
+| 191 | 201 | IamJust Neyamijah Washington Sr. |
+| 192 | 200 | Sharisse Baltimore |
+| 193 | 200 | glichmod |
 | 194 | 197 | Staci George Fitzsimmons |
 | 195 | 195 | Nicha Hooker |
 | 196 | 193 | Clever Shiftsnap |
@@ -218,8 +218,8 @@
 | 210 | 185 | Aerian Preston |
 | 211 | 184 | Troy |
 | 212 | 183 | Trisha Balmer |
-| 213 | 182 | Hyper Matchzone |
-| 214 | 182 | Raven Dudley |
+| 213 | 182 | Raven Dudley |
+| 214 | 182 | Hyper Matchzone |
 | 215 | 181 | Nicholas Roddy |
 | 216 | 180 | Loopy Fallmatch |
 | 217 | 179 | Tipsy Zonebuilder |
@@ -292,8 +292,8 @@
 | 284 | 137 | Rachel |
 | 285 | 137 | Cesar Barraza |
 | 286 | 136 | Sabrina Mansfield |
-| 287 | 135 | Skinny Baldez |
-| 288 | 135 | Terry Jo Jones |
+| 287 | 135 | Terry Jo Jones |
+| 288 | 135 | Skinny Baldez |
 | 289 | 134 | Tammy |
 | 290 | 133 | Jen Lewis |
 | 291 | 133 | Weerae |
