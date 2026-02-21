@@ -91,13 +91,13 @@
 | 83 | 253 | Jae Job |
 | 84 | 252 | Girl |
 | 85 | 237 | Lori Walker |
-| 86 | 230 | Autum Leigh |
-| 87 | 230 | Lucas J Sutton |
+| 86 | 230 | Lucas J Sutton |
+| 87 | 230 | Autum Leigh |
 | 88 | 224 | H.R. Block |
 | 89 | 221 | Alyssa Papen |
 | 90 | 220 | Joeliecea Cobb |
-| 91 | 218 | Casey Grabner |
-| 92 | 218 | Brittney Orengo |
+| 91 | 218 | Brittney Orengo |
+| 92 | 218 | Casey Grabner |
 | 93 | 218 | Antony Dwayne Beasley |
 | 94 | 215 | Dustee Craddock-Harrison |
 | 95 | 212 | Calvin Cannon |
@@ -114,8 +114,8 @@
 | 106 | 197 | Swanky Fitline |
 | 107 | 196 | Jeff Brian Gates |
 | 108 | 194 | Zany Twisterfit |
-| 109 | 192 | Shauna Havard |
-| 110 | 192 | Crystal Carroll |
+| 109 | 192 | Crystal Carroll |
+| 110 | 192 | Shauna Havard |
 | 111 | 191 | Melvin Baird |
 | 112 | 191 | loulou |
 | 113 | 189 | Calvin Dennis |
@@ -132,8 +132,8 @@
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
 | 126 | 176 | Stacey Stano |
-| 127 | 174 | Dihcheese444 |
-| 128 | 174 | shark tato |
+| 127 | 174 | shark tato |
+| 128 | 174 | Dihcheese444 |
 | 129 | 174 | Zethra Prenisha Rahming |
 | 130 | 173 | Ren Mc |
 | 131 | 173 | blockstar |
@@ -143,11 +143,11 @@
 | 135 | 161 | Klo |
 | 136 | 160 | ZeeZee |
 | 137 | 157 | Jenna McGeorge |
-| 138 | 156 | Jessica Bohlken |
-| 139 | 156 | Holly |
+| 138 | 156 | Holly |
+| 139 | 156 | Jessica Bohlken |
 | 140 | 153 | Empress Oasis |
-| 141 | 151 | Bethany Ison |
-| 142 | 151 | Avy Absol |
+| 141 | 151 | Avy Absol |
+| 142 | 151 | Bethany Ison |
 | 143 | 149 | Diana Houts |
 | 144 | 148 | Brittany Marsh |
 | 145 | 148 | Janita Parrish |
@@ -1125,7 +1125,7 @@
 | 1117 | 8 | Lofty Lue |
 | 1118 | 8 | DaReal007EJW |
 | 1119 | 8 | April |
-| 1120 | 8 | DaReal007EJW |
+| 1120 | 8 | Justin Petty |
 | 1121 | 8 | Matthew Rodriguez |
 | 1122 | 8 | Dawn Plumb |
 | 1123 | 8 | Crafty Snapline |

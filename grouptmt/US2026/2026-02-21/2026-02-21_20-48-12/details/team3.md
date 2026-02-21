@@ -70,8 +70,8 @@
 | 62 | 575 | Elaine Webb Graves |
 | 63 | 572 | Katrina Schroeder |
 | 64 | 566 | Dan Rob |
-| 65 | 561 | Dolores Falco |
-| 66 | 561 | Rachael McClain Owens |
+| 65 | 561 | Rachael McClain Owens |
+| 66 | 561 | Dolores Falco |
 | 67 | 555 | Ebony West-Cundiff |
 | 68 | 554 | Groovy Catcher |
 | 69 | 533 | Sarah Fehring |
@@ -105,13 +105,13 @@
 | 97 | 389 | Elissa S-k |
 | 98 | 386 | Katie Knaus |
 | 99 | 384 | Shannon Matthew Byers |
-| 100 | 378 | Makelini Mausia |
-| 101 | 378 | Tasha Schriewer |
+| 100 | 378 | Tasha Schriewer |
+| 101 | 378 | Makelini Mausia |
 | 102 | 372 | Jessica Bechler |
 | 103 | 371 | Jesse Olive |
 | 104 | 368 | Stephanie Woods |
-| 105 | 367 | Nerdy Riseclear |
-| 106 | 367 | mjl574 |
+| 105 | 367 | mjl574 |
+| 106 | 367 | Nerdy Riseclear |
 | 107 | 366 | Speedy Bridger |
 | 108 | 356 | Adrian Marcel Pate |
 | 109 | 356 | Hasty Cascadefit |

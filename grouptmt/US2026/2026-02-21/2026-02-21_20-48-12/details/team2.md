@@ -212,8 +212,8 @@
 | 204 | 571 | Thomas Hedrick |
 | 205 | 569 | Vaniel Glover |
 | 206 | 569 | Jánine Riggs |
-| 207 | 563 | goofinoff |
-| 208 | 563 | Auntie B |
+| 207 | 563 | Auntie B |
+| 208 | 563 | goofinoff |
 | 209 | 561 | Kristopher Miller |
 | 210 | 556 | Shavonna Haynes |
 | 211 | 553 | Leslie Ann Carter |

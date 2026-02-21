@@ -48,8 +48,8 @@
 | 40 | 510 | Colena Davenport |
 | 41 | 508 | Michelle Nicole |
 | 42 | 493 | Kristen Roles Robben |
-| 43 | 486 | Sevens4L |
-| 44 | 486 | Sarah Lombardo |
+| 43 | 486 | Sarah Lombardo |
+| 44 | 486 | Sevens4L |
 | 45 | 483 | Ryan Lunnin |
 | 46 | 469 | Kathi Snustad |
 | 47 | 421 | Christina Graham |
@@ -127,8 +127,8 @@
 | 119 | 190 | Sweetts |
 | 120 | 189 | Happy Basegrid |
 | 121 | 188 | Sam Williams |
-| 122 | 187 | Snippy Wipebuilder |
-| 123 | 187 | Plucky Ziggy |
+| 122 | 187 | Plucky Ziggy |
+| 123 | 187 | Snippy Wipebuilder |
 | 124 | 186 | Jennifer Olewnik Soborowski |
 | 125 | 182 | Spunky Piecebuilder |
 | 126 | 180 | BigWeenie69 |
