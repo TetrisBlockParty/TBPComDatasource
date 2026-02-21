@@ -42,8 +42,8 @@
 | 34 | 835 | Shonna Roberts |
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
-| 37 | 810 | Zippy Strikesnap |
-| 38 | 810 | Shane Wilson Jr. |
+| 37 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Zippy Strikesnap |
 | 39 | 801 | Corie A. Brinson |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 691 | Danielle Cutler |
@@ -103,12 +103,12 @@
 | 95 | 344 | Joey Banks |
 | 96 | 342 | Tiff Vs Tiffany |
 | 97 | 332 | Chauntee Alfrey-Cardinale |
-| 98 | 323 | Sherry Ogden |
-| 99 | 323 | Ashley Raines |
+| 98 | 323 | Ashley Raines |
+| 99 | 323 | Sherry Ogden |
 | 100 | 320 | Or Reznitsky |
 | 101 | 316 | Fancy Cascader |
-| 102 | 309 | CeceGeGe |
-| 103 | 309 | Rich LeBlanc |
+| 102 | 309 | Rich LeBlanc |
+| 103 | 309 | CeceGeGe |
 | 104 | 307 | Blocked |
 | 105 | 307 | Peggi Charon |
 | 106 | 306 | Speedy Bridger |
@@ -117,8 +117,8 @@
 | 109 | 293 | Poppy Splitter |
 | 110 | 284 | Jay Horn |
 | 111 | 267 | Rufus Lincoln |
-| 112 | 263 | mjl574 |
-| 113 | 263 | Angeline Joseph |
+| 112 | 263 | Angeline Joseph |
+| 113 | 263 | mjl574 |
 | 114 | 262 | Joe-Maggie Mathews |
 | 115 | 259 | Louise Stacy Sisson |
 | 116 | 259 | opf |
@@ -146,8 +146,8 @@
 | 138 | 212 | Aaron Pitkin |
 | 139 | 211 | Katrina Schroeder |
 | 140 | 210 | Jenny Hrndz |
-| 141 | 207 | rnr junky |
-| 142 | 207 | Chris Bell |
+| 141 | 207 | Chris Bell |
+| 142 | 207 | rnr junky |
 | 143 | 206 | Chasity |
 | 144 | 203 | Twisty Brick LT |
 | 145 | 199 | joclisa |
@@ -180,8 +180,8 @@
 | 172 | 173 | Sarajane Lokan |
 | 173 | 170 | Trisha Balmer |
 | 174 | 168 | rosy |
-| 175 | 167 | Raven Dudley |
-| 176 | 167 | Sashay Tapae Simpson |
+| 175 | 167 | Sashay Tapae Simpson |
+| 176 | 167 | Raven Dudley |
 | 177 | 166 | Loopy Fallmatch |
 | 178 | 166 | Betty Rosas |
 | 179 | 166 | Kelly Ann Child |
@@ -216,8 +216,8 @@
 | 208 | 146 | Ashley Lynn Marchese |
 | 209 | 146 | Carrie Huskey |
 | 210 | 146 | Latoya Mayne |
-| 211 | 145 | Bryan Byrd |
-| 212 | 145 | Emma |
+| 211 | 145 | Emma |
+| 212 | 145 | Bryan Byrd |
 | 213 | 142 | David Bardo |
 | 214 | 142 | Erica Anderson |
 | 215 | 139 | Marci Mize Fandrich |
@@ -260,8 +260,8 @@
 | 252 | 115 | Hoppy Buildout |
 | 253 | 114 | Amanda Neal |
 | 254 | 113 | Brave Brickster |
-| 255 | 113 | Brian Battjes |
-| 256 | 113 | Beppy |
+| 255 | 113 | Beppy |
+| 256 | 113 | Brian Battjes |
 | 257 | 111 | France Vézina |
 | 258 | 111 | Stephanie Zahm |
 | 259 | 111 | El Chapa |
@@ -269,11 +269,11 @@
 | 261 | 110 | Danielle Weikel |
 | 262 | 110 | Tye Stovall |
 | 263 | 110 | Carol Cain Thurman |
-| 264 | 109 | Diana Ibarra |
-| 265 | 109 | Fredd Thomas |
+| 264 | 109 | Fredd Thomas |
+| 265 | 109 | Diana Ibarra |
 | 266 | 109 | mommablock |
-| 267 | 108 | Rachel Napper |
-| 268 | 108 | LaTanya GeminiondaRise Johnson |
+| 267 | 108 | LaTanya GeminiondaRise Johnson |
+| 268 | 108 | Rachel Napper |
 | 269 | 108 | Hanna Kim |
 | 270 | 107 | Jumpy Wrecker |
 | 271 | 107 | Rachel |

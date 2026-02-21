@@ -311,8 +311,8 @@
 | 303 | 340 | Felicia Lynn |
 | 304 | 338 | Mr. Street Stack |
 | 305 | 335 | Brooke Leigh Strube |
-| 306 | 334 | Véronique Lévesque Sabourin |
-| 307 | 334 | Moni Foxe |
+| 306 | 334 | Moni Foxe |
+| 307 | 334 | Véronique Lévesque Sabourin |
 | 308 | 333 | Brittney Jean |
 | 309 | 333 | ShinyRose |
 | 310 | 332 | TF Dyer |

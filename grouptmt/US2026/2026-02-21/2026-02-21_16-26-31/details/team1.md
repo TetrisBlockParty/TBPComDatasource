@@ -123,12 +123,12 @@
 | 115 | 153 | Shiny Gridmatch |
 | 116 | 152 | Jacqueline Unique |
 | 117 | 150 | Adele Rahman |
-| 118 | 149 | Arianna O'Brien |
-| 119 | 149 | Jennifer ManWarren |
+| 118 | 149 | Jennifer ManWarren |
+| 119 | 149 | Arianna O'Brien |
 | 120 | 148 | Shauntina Burke |
 | 121 | 147 | Timothy Dew |
-| 122 | 146 | Dandy Basegrid |
-| 123 | 146 | Christy Jones |
+| 122 | 146 | Christy Jones |
+| 123 | 146 | Dandy Basegrid |
 | 124 | 146 | Irual Hctrab |
 | 125 | 145 | BigWeenie69 |
 | 126 | 144 | Plucky Ziggy |
@@ -169,10 +169,10 @@
 | 161 | 120 | Alenoush Karimian |
 | 162 | 120 | Kimmie Kimms |
 | 163 | 119 | Tater |
-| 164 | 116 | Jessica Russell |
-| 165 | 116 | Evie Khalil |
-| 166 | 115 | Mrs.Patrica |
-| 167 | 115 | Chuck Gannon |
+| 164 | 116 | Evie Khalil |
+| 165 | 116 | Jessica Russell |
+| 166 | 115 | Chuck Gannon |
+| 167 | 115 | Mrs.Patrica |
 | 168 | 114 | Gilbert Ortiz Jr. |
 | 169 | 113 | Desiree Deschaine Havee |
 | 170 | 112 | Chris65 |
@@ -221,9 +221,9 @@
 | 213 | 90 | John Kim |
 | 214 | 90 | Grace Joanne Agnant |
 | 215 | 89 | Isodor |
-| 216 | 88 | Sam Williams |
+| 216 | 88 | Larry Tilton |
 | 217 | 88 | DoodleBug |
-| 218 | 88 | Larry Tilton |
+| 218 | 88 | Sam Williams |
 | 219 | 87 | Jenny Gingrich Fuentes |
 | 220 | 86 | Basment Living |
 | 221 | 85 | John Barron |

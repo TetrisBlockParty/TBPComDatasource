@@ -26,8 +26,8 @@
 | 18 | 627 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Valerie Roberts |
-| 22 | 590 | Dee Kay |
+| 21 | 590 | Dee Kay |
+| 22 | 590 | Valerie Roberts |
 | 23 | 589 | Chilly Line |
 | 24 | 541 | Rebecca Moulton Pinciaro |
 | 25 | 540 | Kimyatta Cavin |
@@ -61,8 +61,8 @@
 | 53 | 337 | Carlton Unfiltered |
 | 54 | 309 | Lisa Davis |
 | 55 | 308 | Jen Allison |
-| 56 | 300 | Jason Hart |
-| 57 | 300 | David Lay |
+| 56 | 300 | David Lay |
+| 57 | 300 | Jason Hart |
 | 58 | 299 | Livvy |
 | 59 | 295 | Latisha Davis |
 | 60 | 291 | Leslie Thomas |
@@ -119,8 +119,8 @@
 | 111 | 157 | quicksand420 |
 | 112 | 156 | Holly |
 | 113 | 152 | Jessica Bohlken |
-| 114 | 151 | Dana Scott |
-| 115 | 151 | Bethany Ison |
+| 114 | 151 | Bethany Ison |
+| 115 | 151 | Dana Scott |
 | 116 | 148 | Brittany Marsh |
 | 117 | 147 | Jay28 |
 | 118 | 147 | 030Synner |
@@ -131,8 +131,8 @@
 | 123 | 144 | Mr. Party |
 | 124 | 143 | Nugget |
 | 125 | 141 | Malakai Darien Fox |
-| 126 | 140 | Jenna McGeorge |
-| 127 | 140 | Shannon Ferrari |
+| 126 | 140 | Shannon Ferrari |
+| 127 | 140 | Jenna McGeorge |
 | 128 | 139 | Robin Watters |
 | 129 | 137 | PeaceOs |
 | 130 | 136 | Tanner Lund |
@@ -148,8 +148,8 @@
 | 140 | 128 | Rio Rocha |
 | 141 | 128 | Stephme310 |
 | 142 | 127 | Dreamy Snapgrid |
-| 143 | 126 | TinyLegoRose |
-| 144 | 126 | Dihcheese444 |
+| 143 | 126 | Dihcheese444 |
+| 144 | 126 | TinyLegoRose |
 | 145 | 125 | AyeKay |
 | 146 | 124 | Allen Lloyd |
 | 147 | 123 | Angela Geist Jusinski |
