@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Judi Dobson |
-| 105 | 224 | Mykal Burton |
+| 104 | 224 | Mykal Burton |
+| 105 | 224 | Judi Dobson |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -135,12 +135,12 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Ashley Tookes |
-| 131 | 182 | Hyper Matchzone |
+| 130 | 182 | Hyper Matchzone |
+| 131 | 182 | Ashley Tookes |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 166 | Betty Rosas |
 | 138 | 166 | Danielle Mogg |
@@ -160,8 +160,8 @@
 | 152 | 156 | Joey Banks |
 | 153 | 155 | BŘŰŤİÇŨŚ |
 | 154 | 154 | Angela M. Fletcher |
-| 155 | 153 | Beth Ingham |
-| 156 | 153 | Stephanie Whitefield |
+| 155 | 153 | Stephanie Whitefield |
+| 156 | 153 | Beth Ingham |
 | 157 | 152 | Shiny Zonebuilder |
 | 158 | 151 | MsBee |
 | 159 | 150 | Nicole Myers |
@@ -255,7 +255,7 @@
 | 247 | 98 | Armi |
 | 248 | 98 | Funky Jumper |
 | 249 | 98 | Erika Thornton |
-| 250 | 98 | Funky Jumper |
+| 250 | 98 | Jocelyne Baca |
 | 251 | 97 | Ashley Jones |
 | 252 | 96 | Christopher Woost |
 | 253 | 96 | Jason-Ashley Ludlow |

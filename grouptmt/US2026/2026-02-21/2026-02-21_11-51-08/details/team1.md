@@ -39,8 +39,8 @@
 | 31 | 399 | Drew Magnus |
 | 32 | 382 | Lori Sanders- Davis |
 | 33 | 380 | Robert Beck |
-| 34 | 348 | Chipper Gridlock |
-| 35 | 348 | Stef Hu |
+| 34 | 348 | Stef Hu |
+| 35 | 348 | Chipper Gridlock |
 | 36 | 338 | Stephanie Zahn |
 | 37 | 298 | Angel Fowler |
 | 38 | 295 | Michelle Nicole |
@@ -48,8 +48,8 @@
 | 40 | 291 | Nancy Green |
 | 41 | 290 | Jennifer Cates |
 | 42 | 281 | Maria C. Hernandez |
-| 43 | 274 | Theo Pinnow |
-| 44 | 274 | Sweet Baker |
+| 43 | 274 | Sweet Baker |
+| 44 | 274 | Theo Pinnow |
 | 45 | 272 | Adam Byrd |
 | 46 | 264 | Shauna Loe |
 | 47 | 257 | Sarah Roberts |
@@ -73,11 +73,11 @@
 | 65 | 201 | Anaid Sanchez |
 | 66 | 201 | Ananda Mendez |
 | 67 | 200 | Lexuriuos Lifestlye |
-| 68 | 198 | Happy Snapbuild |
-| 69 | 198 | Billie Dawn Sparks |
+| 68 | 198 | Billie Dawn Sparks |
+| 69 | 198 | Happy Snapbuild |
 | 70 | 197 | Cynthia Bradley |
-| 71 | 194 | Giggly Builderline |
-| 72 | 194 | Sharon Reynolds |
+| 71 | 194 | Sharon Reynolds |
+| 72 | 194 | Giggly Builderline |
 | 73 | 193 | Lachelle Dillon |
 | 74 | 192 | Shaykmia |
 | 75 | 191 | Jazzy Framezone |
