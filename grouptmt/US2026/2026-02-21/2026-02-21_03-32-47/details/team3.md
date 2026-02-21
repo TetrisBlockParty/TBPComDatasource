@@ -100,8 +100,8 @@
 | 92 | 177 | Fallorina Susana |
 | 93 | 166 | Danielle Mogg |
 | 94 | 161 | rosy |
-| 95 | 159 | Morgan Martinez |
-| 96 | 159 | Jone |
+| 95 | 159 | Jone |
+| 96 | 159 | Morgan Martinez |
 | 97 | 155 | Shannon Matthew Byers |
 | 98 | 154 | Angela M. Fletcher |
 | 99 | 152 | Shiny Zonebuilder |
@@ -115,8 +115,8 @@
 | 107 | 135 | Nicole Flippo |
 | 108 | 134 | DanceLuvLaugh |
 | 109 | 131 | Emma |
-| 110 | 129 | Jenny Hrndz |
-| 111 | 129 | Giddy Twistbuilder |
+| 110 | 129 | Giddy Twistbuilder |
+| 111 | 129 | Jenny Hrndz |
 | 112 | 128 | Angel Mendez |
 | 113 | 127 | Marquita Sheard |
 | 114 | 127 | Aerian Preston |
@@ -174,9 +174,9 @@
 | 166 | 94 | Carrie Huskey |
 | 167 | 93 | Tiffany Ford |
 | 168 | 92 | Jennifer Caputo |
-| 169 | 90 | LaTanya GeminiondaRise Johnson |
-| 170 | 90 | Tiffany Kaupang |
-| 171 | 90 | Eon Harris |
+| 169 | 90 | Tiffany Kaupang |
+| 170 | 90 | Eon Harris |
+| 171 | 90 | LaTanya GeminiondaRise Johnson |
 | 172 | 90 | Rebel124 |
 | 173 | 89 | Cesar Barraza |
 | 174 | 89 | Shicken Nuggit |

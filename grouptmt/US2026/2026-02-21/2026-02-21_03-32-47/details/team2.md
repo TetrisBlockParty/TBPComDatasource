@@ -164,8 +164,8 @@
 | 156 | 327 | Danielle Simmons |
 | 157 | 327 | Moni Foxe |
 | 158 | 319 | Jumpy Gridpiece |
-| 159 | 318 | Trista Dumais |
-| 160 | 318 | Juanita Lyons |
+| 159 | 318 | Juanita Lyons |
+| 160 | 318 | Trista Dumais |
 | 161 | 317 | bru |
 | 162 | 316 | ruth |
 | 163 | 316 | Maria Escobar |
@@ -190,8 +190,8 @@
 | 182 | 284 | Macy Williams |
 | 183 | 284 | Mamachelle Eisweirth |
 | 184 | 283 | Davetta Sanford |
-| 185 | 280 | TF Dyer |
-| 186 | 280 | Joseph Musick |
+| 185 | 280 | Joseph Musick |
+| 186 | 280 | TF Dyer |
 | 187 | 280 | Kimberly Schall |
 | 188 | 278 | Noel Tarmy |
 | 189 | 276 | Lindsey Leigh |
