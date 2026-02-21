@@ -455,8 +455,8 @@
 | 447 | 307 | Kitybox |
 | 448 | 307 | Cheeky Brickmatch |
 | 449 | 306 | Frisky Clearpiece |
-| 450 | 305 | Zany Clusterbuilder |
-| 451 | 305 | Tum |
+| 450 | 305 | Tum |
+| 451 | 305 | Zany Clusterbuilder |
 | 452 | 305 | Libby Hicks |
 | 453 | 304 | Michelle Shrum |
 | 454 | 304 | Ann Matzkanin |
@@ -674,8 +674,8 @@
 | 666 | 205 | ElizabethAnn Dickinson |
 | 667 | 204 | Ali Gralski |
 | 668 | 204 | Ryan Lauer |
-| 669 | 204 | Kimberly Ann |
-| 670 | 204 | Brenna Ann |
+| 669 | 204 | Brenna Ann |
+| 670 | 204 | Kimberly Ann |
 | 671 | 203 | Alyssa Dean |
 | 672 | 203 | Sveta Lana |
 | 673 | 202 | Jennifer Coe |
@@ -961,8 +961,8 @@
 | 953 | 143 | Gigi |
 | 954 | 143 | Cheery Puzzler |
 | 955 | 143 | Tammi Dorsey |
-| 956 | 142 | Miranda Morris |
-| 957 | 142 | Epic Stackbuilder |
+| 956 | 142 | Epic Stackbuilder |
+| 957 | 142 | Miranda Morris |
 | 958 | 142 | Marsha Sosa Kiech |
 | 959 | 142 | Alison Emmons |
 | 960 | 142 | Eunique Griffin |

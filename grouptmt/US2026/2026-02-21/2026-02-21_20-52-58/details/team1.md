@@ -48,8 +48,8 @@
 | 40 | 510 | Colena Davenport |
 | 41 | 508 | Michelle Nicole |
 | 42 | 493 | Kristen Roles Robben |
-| 43 | 486 | Sarah Lombardo |
-| 44 | 486 | Sevens4L |
+| 43 | 486 | Sevens4L |
+| 44 | 486 | Sarah Lombardo |
 | 45 | 483 | Ryan Lunnin |
 | 46 | 469 | Kathi Snustad |
 | 47 | 421 | Christina Graham |

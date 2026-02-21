@@ -132,8 +132,8 @@
 | 124 | 179 | Epic Curvetile |
 | 125 | 178 | Lori |
 | 126 | 176 | Stacey Stano |
-| 127 | 174 | shark tato |
-| 128 | 174 | Dihcheese444 |
+| 127 | 174 | Dihcheese444 |
+| 128 | 174 | shark tato |
 | 129 | 174 | Zethra Prenisha Rahming |
 | 130 | 173 | blockstar |
 | 131 | 173 | Ren Mc |
@@ -251,7 +251,7 @@
 | 243 | 100 | Maureen Flanigan |
 | 244 | 100 | Alexandra Karavias |
 | 245 | 99 | Michael Orris |
-| 246 | 98 | Perky Piecegrid |
+| 246 | 98 | Sam Bishop |
 | 247 | 98 | Bradley Reeves |
 | 248 | 98 | Perky Piecegrid |
 | 249 | 97 | Rosemary Foster |
