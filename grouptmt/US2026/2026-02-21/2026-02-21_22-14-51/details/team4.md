@@ -154,16 +154,16 @@
 | 146 | 153 | Empress Oasis |
 | 147 | 153 | Avy Absol |
 | 148 | 151 | Bethany Ison |
-| 149 | 149 | Roger Coulter |
-| 150 | 149 | Shainne Brewer |
+| 149 | 149 | Shainne Brewer |
+| 150 | 149 | Roger Coulter |
 | 151 | 148 | Brittany Marsh |
 | 152 | 148 | Janita Parrish |
 | 153 | 147 | Chair |
 | 154 | 147 | Jay28 |
 | 155 | 145 | Daria Rycewicz |
 | 156 | 144 | Mr. Party |
-| 157 | 141 | Marcus Todd |
-| 158 | 141 | Malakai Darien Fox |
+| 157 | 141 | Malakai Darien Fox |
+| 158 | 141 | Marcus Todd |
 | 159 | 141 | ĥuf |
 | 160 | 141 | Kathy Allen |
 | 161 | 140 | Shannon Ferrari |
@@ -317,11 +317,11 @@
 | 309 | 81 | Crystal Lynn |
 | 310 | 80 | GBR |
 | 311 | 80 | Ahleek Mitchell |
-| 312 | 80 | Brittany Little |
-| 313 | 80 | Jason Bosco |
-| 314 | 80 | Melissa Adams |
-| 315 | 79 | Silly Zonebuilder |
-| 316 | 79 | Jason Allen |
+| 312 | 80 | Jason Bosco |
+| 313 | 80 | Melissa Adams |
+| 314 | 80 | Brittany Little |
+| 315 | 79 | Jason Allen |
+| 316 | 79 | Silly Zonebuilder |
 | 317 | 79 | Krs |
 | 318 | 78 | Adawna Swires |
 | 319 | 78 | Brandon Crabbs |
@@ -337,7 +337,7 @@
 | 329 | 76 | Sharyn Lemire |
 | 330 | 75 | Heather Bruce |
 | 331 | 75 | Moonsterix |
-| 332 | 75 | Snippy Puzzle |
+| 332 | 75 | Dennis Bradley |
 | 333 | 75 | Peppy Drop |
 | 334 | 75 | Snippy Puzzle |
 | 335 | 75 | Vanessa Smart |

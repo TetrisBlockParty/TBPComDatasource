@@ -154,8 +154,8 @@
 | 146 | 262 | Joe-Maggie Mathews |
 | 147 | 260 | Louise Stacy Sisson |
 | 148 | 258 | Tamara Deherrera |
-| 149 | 256 | Judi Dobson |
-| 150 | 256 | ren |
+| 149 | 256 | ren |
+| 150 | 256 | Judi Dobson |
 | 151 | 254 | Duane Bright |
 | 152 | 252 | Nicole Flippo |
 | 153 | 250 | FuzzyNavel |
@@ -247,9 +247,9 @@
 | 239 | 160 | Tiffany Davie |
 | 240 | 159 | Daryn Elliott |
 | 241 | 159 | Jone |
-| 242 | 157 | Katrina E Jelks |
-| 243 | 157 | Sabrina Hardrick |
-| 244 | 157 | Patricia Gadsden |
+| 242 | 157 | Patricia Gadsden |
+| 243 | 157 | Katrina E Jelks |
+| 244 | 157 | Sabrina Hardrick |
 | 245 | 155 | RickyG |
 | 246 | 155 | Loopy Fallzone |
 | 247 | 154 | Desiree Gold |
