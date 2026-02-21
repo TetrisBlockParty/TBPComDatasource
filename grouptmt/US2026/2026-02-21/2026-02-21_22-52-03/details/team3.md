@@ -107,8 +107,8 @@
 | 99 | 403 | Christine Filson |
 | 100 | 402 | Stephanie Simpson |
 | 101 | 397 | Mcathen |
-| 102 | 394 | joclisa |
-| 103 | 394 | Annie Déè |
+| 102 | 394 | Annie Déè |
+| 103 | 394 | joclisa |
 | 104 | 392 | Michelle |
 | 105 | 391 | Calista Jo Dickson |
 | 106 | 390 | Hasty Cascadefit |
@@ -137,14 +137,14 @@
 | 129 | 323 | Ashley Raines |
 | 130 | 320 | Or Reznitsky |
 | 131 | 309 | Rich LeBlanc |
-| 132 | 307 | Blocked |
-| 133 | 307 | Peggi Charon |
+| 132 | 307 | Peggi Charon |
+| 133 | 307 | Blocked |
 | 134 | 300 | Sherika C. McDaniels |
 | 135 | 293 | Poppy Splitter |
 | 136 | 287 | Logan Naccarato |
 | 137 | 286 | Jacqueline Rodriguez |
-| 138 | 283 | Marci Mize Fandrich |
-| 139 | 283 | Joye Sims Binion |
+| 138 | 283 | Joye Sims Binion |
+| 139 | 283 | Marci Mize Fandrich |
 | 140 | 278 | Rufus Lincoln |
 | 141 | 276 | Crimson |
 | 142 | 272 | opf |
@@ -156,8 +156,8 @@
 | 148 | 262 | Joe-Maggie Mathews |
 | 149 | 261 | Tiffany Ford |
 | 150 | 260 | Louise Stacy Sisson |
-| 151 | 258 | Ashley Tookes |
-| 152 | 258 | Tamara Deherrera |
+| 151 | 258 | Tamara Deherrera |
+| 152 | 258 | Ashley Tookes |
 | 153 | 256 | ren |
 | 154 | 255 | Loopy Clusterer |
 | 155 | 254 | Duane Bright |
@@ -192,8 +192,8 @@
 | 184 | 211 | Khaleada McGill Banks |
 | 185 | 211 | Katrina Turner |
 | 186 | 210 | Michael Lucado |
-| 187 | 207 | Jessica |
-| 188 | 207 | Chris Bell |
+| 187 | 207 | Chris Bell |
+| 188 | 207 | Jessica |
 | 189 | 205 | Sarah Moyer |
 | 190 | 204 | Danielle Allison |
 | 191 | 203 | Twisty Brick LT |

@@ -83,8 +83,8 @@
 | 75 | 318 | Dee Perry |
 | 76 | 310 | Seth Wesson |
 | 77 | 308 | Kellie |
-| 78 | 305 | Plucky Ziggy |
-| 79 | 305 | Patrick Luckenbill |
+| 78 | 305 | Patrick Luckenbill |
+| 79 | 305 | Plucky Ziggy |
 | 80 | 304 | Nicole Roseberry Weber |
 | 81 | 303 | Maria C. Hernandez |
 | 82 | 301 | Hyper |
@@ -129,8 +129,8 @@
 | 121 | 203 | GATOR |
 | 122 | 203 | Giggly Builderline |
 | 123 | 198 | Happy Snapbuild |
-| 124 | 194 | Ash Galvan |
-| 125 | 194 | Tyler Werts |
+| 124 | 194 | Tyler Werts |
+| 125 | 194 | Ash Galvan |
 | 126 | 193 | Lachelle Dillon |
 | 127 | 192 | Jessica Sheehan |
 | 128 | 192 | Shaykmia |
@@ -191,8 +191,8 @@
 | 183 | 139 | Jenny Gingrich Fuentes |
 | 184 | 139 | Flashy Rotator |
 | 185 | 138 | Death |
-| 186 | 137 | Witty Builderfit |
-| 187 | 137 | Cody Gates |
+| 186 | 137 | Cody Gates |
+| 187 | 137 | Witty Builderfit |
 | 188 | 136 | Breanna Luna |
 | 189 | 135 | Aimee Horton |
 | 190 | 135 | Giddy Cascade |

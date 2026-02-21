@@ -106,8 +106,8 @@
 | 98 | 245 | Amy Suckarieh |
 | 99 | 239 | Dustee Craddock-Harrison |
 | 100 | 237 | Lori Walker |
-| 101 | 230 | Lucas J Sutton |
-| 102 | 230 | Autum Leigh |
+| 101 | 230 | Autum Leigh |
+| 102 | 230 | Lucas J Sutton |
 | 103 | 222 | Joeliecea Cobb |
 | 104 | 221 | Alyssa Papen |
 | 105 | 218 | Casey Grabner |
@@ -147,8 +147,8 @@
 | 139 | 178 | Lori |
 | 140 | 176 | Klo |
 | 141 | 175 | Ren Mc |
-| 142 | 174 | Zethra Prenisha Rahming |
-| 143 | 174 | Dihcheese444 |
+| 142 | 174 | Dihcheese444 |
+| 143 | 174 | Zethra Prenisha Rahming |
 | 144 | 173 | blockstar |
 | 145 | 172 | Jessica Bohlken |
 | 146 | 171 | Diana Houts |
@@ -294,7 +294,7 @@
 | 286 | 88 | Silly Zonebuilder |
 | 287 | 88 | Michelle Parker |
 | 288 | 87 | Alan George LaRage |
-| 289 | 86 | Tony Pavelka |
+| 289 | 86 | Joseph Edmonson |
 | 290 | 86 | BigSammy420 |
 | 291 | 86 | Tony Pavelka |
 | 292 | 86 | Jason Frehner |
@@ -651,7 +651,7 @@
 | 643 | 39 | Kristina Renea Day |
 | 644 | 39 | Kat |
 | 645 | 39 | Amber bamber |
-| 646 | 39 | Morgan Patrick |
+| 646 | 39 | Hoppy Clearer |
 | 647 | 39 | Googenheim |
 | 648 | 39 | Daws |
 | 649 | 39 | Morgan Patrick |

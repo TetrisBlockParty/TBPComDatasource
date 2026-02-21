@@ -344,8 +344,8 @@
 | 336 | 421 | Vanessa Moreno |
 | 337 | 420 | Sparkles |
 | 338 | 416 | Lina Sanders |
-| 339 | 414 | Kara Gillen |
-| 340 | 414 | Sabrina Burton |
+| 339 | 414 | Sabrina Burton |
+| 340 | 414 | Kara Gillen |
 | 341 | 414 | Emily Lyric Converse |
 | 342 | 414 | John |
 | 343 | 411 | Ricky Fortune |
@@ -362,8 +362,8 @@
 | 354 | 401 | Taylor Flowers |
 | 355 | 400 | Tammy Allen |
 | 356 | 400 | Catina Hutchison |
-| 357 | 399 | Juanita Lyons |
-| 358 | 399 | Steven Marshaun |
+| 357 | 399 | Steven Marshaun |
+| 358 | 399 | Juanita Lyons |
 | 359 | 398 | Brenda Utphall |
 | 360 | 398 | Moni Foxe |
 | 361 | 397 | coleksquad |
@@ -382,8 +382,8 @@
 | 374 | 381 | Bubbly Snapfit |
 | 375 | 380 | Glitzy Stackzone |
 | 376 | 378 | Cody Nishimura |
-| 377 | 378 | Christina Ashley |
-| 378 | 378 | TF Dyer |
+| 377 | 378 | TF Dyer |
+| 378 | 378 | Christina Ashley |
 | 379 | 376 | Caitlin Schmid |
 | 380 | 374 | Johnny Yeates |
 | 381 | 374 | Alexandra Weir |
@@ -392,8 +392,8 @@
 | 384 | 370 | Angela Lynn |
 | 385 | 369 | AkaLefty |
 | 386 | 369 | Tara Lynn Janes |
-| 387 | 369 | Tony Lea |
-| 388 | 369 | Victoria Moore-Smith |
+| 387 | 369 | Victoria Moore-Smith |
+| 388 | 369 | Tony Lea |
 | 389 | 367 | Deyawn Smith |
 | 390 | 366 | Courtney Burcham |
 | 391 | 366 | Darcy Mae |
@@ -411,8 +411,8 @@
 | 403 | 357 | Shannon Byrd |
 | 404 | 356 | Adam Simmons |
 | 405 | 355 | Shandrica Lowe |
-| 406 | 354 | Darlene Bowman |
-| 407 | 354 | Lawanda Forbes |
+| 406 | 354 | Lawanda Forbes |
+| 407 | 354 | Darlene Bowman |
 | 408 | 354 | Rickey Johnson |
 | 409 | 353 | Cheery Matchzone |
 | 410 | 352 | ruth |
@@ -425,11 +425,11 @@
 | 417 | 348 | Richard Horton |
 | 418 | 347 | Cheyenne Donovan |
 | 419 | 346 | Morgan Easter |
-| 420 | 345 | Rhianna DiLorenzo |
-| 421 | 345 | Offonar Facey |
-| 422 | 344 | Ginger |
+| 420 | 345 | Offonar Facey |
+| 421 | 345 | Rhianna DiLorenzo |
+| 422 | 344 | Glenn Cobbins |
 | 423 | 344 | Felicia Lynn |
-| 424 | 344 | Glenn Cobbins |
+| 424 | 344 | Ginger |
 | 425 | 343 | Rose Fx |
 | 426 | 342 | Angi Harrison |
 | 427 | 342 | Sydney Busse |
@@ -472,8 +472,8 @@
 | 464 | 318 | Jane Crew |
 | 465 | 317 | Zombi3 |
 | 466 | 317 | snkylnk |
-| 467 | 316 | Mikayala Szaz |
-| 468 | 316 | Gloria Ininahazwe |
+| 467 | 316 | Gloria Ininahazwe |
+| 468 | 316 | Mikayala Szaz |
 | 469 | 315 | Ryan Meilleur |
 | 470 | 314 | Amanda West |
 | 471 | 314 | Party d |
@@ -546,8 +546,8 @@
 | 538 | 276 | Vonceial Boone |
 | 539 | 276 | Loony Basepiece |
 | 540 | 275 | Dapper Dasher |
-| 541 | 274 | Eric Carlson |
-| 542 | 274 | Jamie Stevey |
+| 541 | 274 | Jamie Stevey |
+| 542 | 274 | Eric Carlson |
 | 543 | 274 | Michelle Sager |
 | 544 | 273 | Jenna Nance |
 | 545 | 273 | Rae Rae |
