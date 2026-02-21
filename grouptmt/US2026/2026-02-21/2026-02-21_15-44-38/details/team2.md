@@ -199,8 +199,8 @@
 | 191 | 496 | Ashie Ann |
 | 192 | 495 | Poppy Snap |
 | 193 | 486 | MrsCandyfine As Wine Truss |
-| 194 | 485 | Leah Keesling |
-| 195 | 485 | Gene Mills |
+| 194 | 485 | Gene Mills |
+| 195 | 485 | Leah Keesling |
 | 196 | 484 | Suki Kaur |
 | 197 | 483 | Jordan Kaiser |
 | 198 | 482 | Eckoman518 |
@@ -211,8 +211,8 @@
 | 203 | 469 | Ashley Rose Frederick |
 | 204 | 467 | Scott Treadway |
 | 205 | 465 | Drwatson187 |
-| 206 | 464 | Ariel |
-| 207 | 464 | Ryan Gunther |
+| 206 | 464 | Ryan Gunther |
+| 207 | 464 | Ariel |
 | 208 | 463 | Sue Leard |
 | 209 | 463 | Osun Anuket Esu |
 | 210 | 460 | Cody Smith-Candelaria |
@@ -239,8 +239,8 @@
 | 231 | 409 | Sparkles |
 | 232 | 408 | Amanda Ferrell |
 | 233 | 406 | Erin StFrancis |
-| 234 | 405 | Sarah Massey |
-| 235 | 405 | Christy Krissie |
+| 234 | 405 | Christy Krissie |
+| 235 | 405 | Sarah Massey |
 | 236 | 402 | Joshua Mandel |
 | 237 | 400 | Rhonda Milstead |
 | 238 | 400 | Tammy Allen |
@@ -316,11 +316,11 @@
 | 308 | 327 | Kiana Boschh |
 | 309 | 326 | Elisheva Mizrachi |
 | 310 | 323 | Davetta Sanford |
-| 311 | 323 | KhaosLord |
-| 312 | 323 | Briana Alexander |
+| 311 | 323 | Briana Alexander |
+| 312 | 323 | KhaosLord |
 | 313 | 323 | Trista Dumais |
-| 314 | 318 | CC |
-| 315 | 318 | Alexandra Weir |
+| 314 | 318 | Alexandra Weir |
+| 315 | 318 | CC |
 | 316 | 317 | Heather Westrum |
 | 317 | 317 | Ebony Deloach Bryant |
 | 318 | 317 | bru |
@@ -415,8 +415,8 @@
 | 407 | 256 | Alishac Marie |
 | 408 | 256 | Tee Jaleesa |
 | 409 | 254 | Julie Hamilton |
-| 410 | 254 | Rose Fx |
-| 411 | 254 | Elizabeth Diraffaele |
+| 410 | 254 | Elizabeth Diraffaele |
+| 411 | 254 | Rose Fx |
 | 412 | 253 | Kimmy Newman |
 | 413 | 253 | Tansaria Couch-Butler |
 | 414 | 252 | Alyssia Tancredi |
@@ -472,10 +472,10 @@
 | 464 | 226 | Morgan Easter |
 | 465 | 226 | Juliana Marques Do Nascimento Gordy |
 | 466 | 225 | Breezy Tilt |
-| 467 | 224 | Besma Ao |
-| 468 | 224 | Alice Ball |
-| 469 | 223 | LegoCarpet |
-| 470 | 223 | Jess Morrison |
+| 467 | 224 | Alice Ball |
+| 468 | 224 | Besma Ao |
+| 469 | 223 | Jess Morrison |
+| 470 | 223 | LegoCarpet |
 | 471 | 223 | Kristi Biddinger |
 | 472 | 223 | Laura Wyatt |
 | 473 | 222 | Jason Garnatz |
@@ -507,8 +507,8 @@
 | 499 | 205 | ElizabethAnn Dickinson |
 | 500 | 204 | Ali Gralski |
 | 501 | 204 | Ryan Lauer |
-| 502 | 204 | Nicolle Danielle |
-| 503 | 204 | Brenna Ann |
+| 502 | 204 | Brenna Ann |
+| 503 | 204 | Nicolle Danielle |
 | 504 | 204 | Kimberly Ann |
 | 505 | 203 | Cass Shirley |
 | 506 | 202 | Lauren Fitzgerald Thomas |
@@ -540,9 +540,9 @@
 | 532 | 191 | Wacky Cascade |
 | 533 | 190 | Jessica Kaye DeAguero |
 | 534 | 189 | Nate Skidmore |
-| 535 | 188 | Irene Jones |
-| 536 | 188 | B-rad B-rad |
-| 537 | 188 | Seth Wrieden |
+| 535 | 188 | B-rad B-rad |
+| 536 | 188 | Seth Wrieden |
+| 537 | 188 | Irene Jones |
 | 538 | 187 | Josh Dill |
 | 539 | 186 | Joshua Mullings |
 | 540 | 185 | Lively Catcher |
@@ -613,7 +613,7 @@
 | 605 | 169 | Sassy Linkroll |
 | 606 | 168 | Joel Rosado |
 | 607 | 168 | Cini |
-| 608 | 168 | Joel Rosado |
+| 608 | 168 | Nicol Craven |
 | 609 | 167 | Sabrena Yeisley |
 | 610 | 167 | mshir |
 | 611 | 166 | suuny |
@@ -1147,9 +1147,9 @@
 | 1139 | 96 | Monica Oliver |
 | 1140 | 96 | James Cho |
 | 1141 | 96 | Bubbly Snapbuild |
-| 1142 | 96 | Tammi Dorsey |
-| 1143 | 96 | MineMineMine |
-| 1144 | 96 | Goofy Dasher |
+| 1142 | 96 | MineMineMine |
+| 1143 | 96 | Goofy Dasher |
+| 1144 | 96 | Tammi Dorsey |
 | 1145 | 96 | Cheeky Bouncer |
 | 1146 | 96 | De Hawkins |
 | 1147 | 96 | Terry Paulson |

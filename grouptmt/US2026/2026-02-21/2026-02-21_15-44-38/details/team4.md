@@ -117,8 +117,8 @@
 | 109 | 157 | quicksand420 |
 | 110 | 156 | Holly |
 | 111 | 154 | Zany Twisterfit |
-| 112 | 151 | Dana Scott |
-| 113 | 151 | Bethany Ison |
+| 112 | 151 | Bethany Ison |
+| 113 | 151 | Dana Scott |
 | 114 | 148 | Brittany Marsh |
 | 115 | 147 | 030Synner |
 | 116 | 147 | Jay28 |
@@ -128,8 +128,8 @@
 | 120 | 144 | Mr. Party |
 | 121 | 143 | Nugget |
 | 122 | 141 | Malakai Darien Fox |
-| 123 | 140 | Shannon Ferrari |
-| 124 | 140 | Jenna McGeorge |
+| 123 | 140 | Jenna McGeorge |
+| 124 | 140 | Shannon Ferrari |
 | 125 | 139 | Robin Watters |
 | 126 | 138 | Shainne Brewer |
 | 127 | 136 | Tanner Lund |
@@ -172,8 +172,8 @@
 | 164 | 111 | Lazy Blocker |
 | 165 | 110 | H.R. Block |
 | 166 | 108 | Ali Ian |
-| 167 | 107 | Marcus Todd |
-| 168 | 107 | Rafael Valentin |
+| 167 | 107 | Rafael Valentin |
+| 168 | 107 | Marcus Todd |
 | 169 | 106 | Avy Absol |
 | 170 | 105 | Sam Middleton |
 | 171 | 105 | TheNeesh50 |

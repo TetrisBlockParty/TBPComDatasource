@@ -26,8 +26,8 @@
 | 18 | 1297 | Shelby Michelle |
 | 19 | 1177 | Clever Roll |
 | 20 | 1152 | Ashley Kiara |
-| 21 | 1151 | Rachel Bowers |
-| 22 | 1151 | Jennifer Willis |
+| 21 | 1151 | Jennifer Willis |
+| 22 | 1151 | Rachel Bowers |
 | 23 | 1140 | Nerdy Spinblock |
 | 24 | 1119 | Lauren d |
 | 25 | 1059 | Lori Barnaby |
@@ -170,8 +170,8 @@
 | 162 | 179 | Ashley Jones |
 | 163 | 179 | Daira Largen |
 | 164 | 178 | Khaleada McGill Banks |
-| 165 | 178 | AlsoJess |
-| 166 | 178 | Ryan Williams |
+| 165 | 178 | Ryan Williams |
+| 166 | 178 | AlsoJess |
 | 167 | 176 | Rebel124 |
 | 168 | 175 | DanceLuvLaugh |
 | 169 | 174 | Danielle Mogg |
@@ -198,12 +198,12 @@
 | 190 | 152 | Shiny Zonebuilder |
 | 191 | 152 | Katrina E Jelks |
 | 192 | 151 | Connie Mohler-Fair |
-| 193 | 151 | Brenda Lee Vander Molen |
-| 194 | 151 | MsBee |
+| 193 | 151 | MsBee |
+| 194 | 151 | Brenda Lee Vander Molen |
 | 195 | 150 | Nicole Myers |
-| 196 | 149 | Alexis Taylor |
+| 196 | 149 | Angel Mendez |
 | 197 | 149 | Desiree Gold |
-| 198 | 149 | Angel Mendez |
+| 198 | 149 | Alexis Taylor |
 | 199 | 146 | Latoya Mayne |
 | 200 | 146 | Ashley Lynn Marchese |
 | 201 | 146 | Denita Mungro |
@@ -226,8 +226,8 @@
 | 218 | 128 | David Bardo |
 | 219 | 128 | Cesar Barraza |
 | 220 | 128 | Jen Lewis |
-| 221 | 127 | Marquita Sheard |
-| 222 | 127 | Jennifer Alvey |
+| 221 | 127 | Jennifer Alvey |
+| 222 | 127 | Marquita Sheard |
 | 223 | 126 | Juliana Dottore |
 | 224 | 126 | April Matthew Kibble |
 | 225 | 125 | Shimika Enay Wallace |
@@ -250,11 +250,11 @@
 | 242 | 118 | Damian Reid |
 | 243 | 118 | Fancy Curver |
 | 244 | 116 | BugMansMom |
-| 245 | 115 | Daring Builder |
-| 246 | 115 | Hoppy Buildout |
-| 247 | 115 | Stella |
-| 248 | 113 | Brian Battjes |
-| 249 | 113 | Beppy |
+| 245 | 115 | Stella |
+| 246 | 115 | Daring Builder |
+| 247 | 115 | Hoppy Buildout |
+| 248 | 113 | Beppy |
+| 249 | 113 | Brian Battjes |
 | 250 | 113 | Brave Brickster |
 | 251 | 111 | Stephanie Zahm |
 | 252 | 111 | France Vézina |
