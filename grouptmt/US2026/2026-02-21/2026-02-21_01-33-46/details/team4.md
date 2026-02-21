@@ -80,7 +80,7 @@
 | 72 | 92 | Kristin MacDonald |
 | 73 | 90 | ZeeZee |
 | 74 | 89 | Zesty Twistbuilder |
-| 75 | 88 | Jenna McGeorge |
+| 75 | 88 | Brandi Durig |
 | 76 | 88 | Heather Tushner |
 | 77 | 88 | Jenna McGeorge |
 | 78 | 87 | Jen Caldwell |

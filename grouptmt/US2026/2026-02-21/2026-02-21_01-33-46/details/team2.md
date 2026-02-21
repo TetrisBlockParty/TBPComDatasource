@@ -255,8 +255,8 @@
 | 247 | 176 | Jessica Kaye DeAguero |
 | 248 | 175 | Tina Blessed Cage |
 | 249 | 173 | Macy Williams |
-| 250 | 170 | Taryece Gause |
-| 251 | 170 | Darlene Bowman |
+| 250 | 170 | Darlene Bowman |
+| 251 | 170 | Taryece Gause |
 | 252 | 170 | Kenya Felix |
 | 253 | 169 | Lively Catcher |
 | 254 | 168 | Peppy Zone |
@@ -277,7 +277,7 @@
 | 269 | 160 | Jessicah Myers |
 | 270 | 160 | Nancy Pohlman |
 | 271 | 159 | Phil J. Grombliniak |
-| 272 | 158 | Toni Roberson |
+| 272 | 158 | Groovy Puzzle |
 | 273 | 158 | Taren Cowan |
 | 274 | 158 | Toni Roberson |
 | 275 | 158 | RaeVan Worthington |

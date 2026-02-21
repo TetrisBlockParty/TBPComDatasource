@@ -106,15 +106,15 @@
 | 98 | 120 | Michael Latasha Gray |
 | 99 | 120 | Shimika Enay Wallace |
 | 100 | 119 | Terry Jo Jones |
-| 101 | 118 | Fancy Curver |
-| 102 | 118 | Bea Miles |
+| 101 | 118 | Bea Miles |
+| 102 | 118 | Fancy Curver |
 | 103 | 115 | BŘŰŤİÇŨŚ |
 | 104 | 113 | Jennifer Alvey |
-| 105 | 112 | Connie Mohler-Fair |
-| 106 | 112 | Jimmie Clemons |
+| 105 | 112 | Jimmie Clemons |
+| 106 | 112 | Connie Mohler-Fair |
 | 107 | 111 | Joy Petroski |
-| 108 | 110 | Tiff Vs Tiffany |
-| 109 | 110 | Stella |
+| 108 | 110 | Stella |
+| 109 | 110 | Tiff Vs Tiffany |
 | 110 | 108 | Rachel Napper |
 | 111 | 108 | Grams |
 | 112 | 107 | Bryan Byrd |
