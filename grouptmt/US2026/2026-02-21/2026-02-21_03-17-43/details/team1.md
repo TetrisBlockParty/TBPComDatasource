@@ -47,8 +47,8 @@
 | 39 | 194 | Sharon Reynolds |
 | 40 | 192 | Mandyy Rae |
 | 41 | 191 | Jazzy Framezone |
-| 42 | 190 | Thorne Shumate |
-| 43 | 190 | Sweetts |
+| 42 | 190 | Sweetts |
+| 43 | 190 | Thorne Shumate |
 | 44 | 189 | Happy Basegrid |
 | 45 | 185 | Karin Gillen |
 | 46 | 173 | Frothy Pattern |
@@ -110,8 +110,8 @@
 | 102 | 90 | TSwag |
 | 103 | 90 | Madison Wicks |
 | 104 | 87 | Jessi Sauer |
-| 105 | 86 | Basment Living |
-| 106 | 86 | Desiree Deschaine Havee |
+| 105 | 86 | Desiree Deschaine Havee |
+| 106 | 86 | Basment Living |
 | 107 | 85 | Steve Schneider |
 | 108 | 84 | Yvonne Marie |
 | 109 | 84 | Charla Pross-Fugleberg |

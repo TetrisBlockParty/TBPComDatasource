@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Johnathan Martinez |
-| 23 | 300 | Kimberly Love |
+| 22 | 300 | Kimberly Love |
+| 23 | 300 | Johnathan Martinez |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 277 | KJ Pool |
@@ -72,7 +72,7 @@
 | 64 | 113 | Andria Lynn |
 | 65 | 113 | Degenerate |
 | 66 | 113 | Leslie Nicole |
-| 67 | 112 | Chirpy Basepiece |
+| 67 | 112 | Mr. Party |
 | 68 | 112 | Austin Owens |
 | 69 | 112 | Chirpy Basepiece |
 | 70 | 112 | Bryan Hodgins |
@@ -171,8 +171,8 @@
 | 163 | 57 | Stephanie Jones |
 | 164 | 57 | Carlos G Reyes |
 | 165 | 57 | Justin Hannigan |
-| 166 | 56 | Jennifer Perkins |
-| 167 | 56 | Cj Lewis-haut |
+| 166 | 56 | Cj Lewis-haut |
+| 167 | 56 | Jennifer Perkins |
 | 168 | 55 | David Phifer |
 | 169 | 55 | Mylo Lipscomb |
 | 170 | 55 | mini |

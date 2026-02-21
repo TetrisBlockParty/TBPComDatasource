@@ -138,8 +138,8 @@
 | 130 | 385 | Sam |
 | 131 | 384 | Lina Sanders |
 | 132 | 380 | Joshua Mandel |
-| 133 | 377 | Roy Salyer |
-| 134 | 377 | Liberty |
+| 133 | 377 | Liberty |
+| 134 | 377 | Roy Salyer |
 | 135 | 374 | Calandra Shaya Robinson |
 | 136 | 370 | Alex Hill |
 | 137 | 365 | April Dawn Gussler |
@@ -183,8 +183,8 @@
 | 175 | 285 | June E Hanson |
 | 176 | 284 | Macy Williams |
 | 177 | 284 | Mamachelle Eisweirth |
-| 178 | 280 | TF Dyer |
-| 179 | 280 | Joseph Musick |
+| 178 | 280 | Joseph Musick |
+| 179 | 280 | TF Dyer |
 | 180 | 280 | Kimberly Schall |
 | 181 | 279 | Ariel |
 | 182 | 278 | Noel Tarmy |
@@ -193,8 +193,8 @@
 | 185 | 274 | Melissa Holsinger |
 | 186 | 273 | Missie Lawson Gebhardt |
 | 187 | 271 | Ann Marie Davis |
-| 188 | 271 | Lonne Emade |
-| 189 | 271 | Toni Lynn |
+| 188 | 271 | Toni Lynn |
+| 189 | 271 | Lonne Emade |
 | 190 | 269 | Janel Turley-Garner |
 | 191 | 268 | Vanessa Moreno |
 | 192 | 267 | Mindy Leigh Head |
@@ -220,8 +220,8 @@
 | 212 | 248 | Leah Keesling |
 | 213 | 248 | Davetta Sanford |
 | 214 | 248 | Bubbly Snapfit |
-| 215 | 247 | Andrea Devery Beck |
-| 216 | 247 | Fancy Twister |
+| 215 | 247 | Fancy Twister |
+| 216 | 247 | Andrea Devery Beck |
 | 217 | 245 | Mischelle Clay |
 | 218 | 245 | Rachael Senard |
 | 219 | 244 | Elisheva Mizrachi |
@@ -232,13 +232,13 @@
 | 224 | 240 | Angie Marie |
 | 225 | 240 | Adam Erikson |
 | 226 | 239 | Tee Jaleesa |
-| 227 | 238 | Cheech Dta |
-| 228 | 238 | Cheery Matchzone |
+| 227 | 238 | Cheery Matchzone |
+| 228 | 238 | Cheech Dta |
 | 229 | 236 | Frisky Riserbuilder |
-| 230 | 233 | Robin Kerby |
-| 231 | 233 | Alyssia Tancredi |
-| 232 | 231 | Ginger |
-| 233 | 231 | Dylan Thomason |
+| 230 | 233 | Alyssia Tancredi |
+| 231 | 233 | Robin Kerby |
+| 232 | 231 | Dylan Thomason |
+| 233 | 231 | Ginger |
 | 234 | 231 | Ashley Lopez |
 | 235 | 228 | Trista Dumais |
 | 236 | 227 | Nutty Matchline |
@@ -313,8 +313,8 @@
 | 305 | 175 | Shandrica Lowe |
 | 306 | 174 | Jason Garnatz |
 | 307 | 171 | Cappin You |
-| 308 | 170 | Darlene Bowman |
-| 309 | 170 | Stefanie Zonzini-Gagliardi |
+| 308 | 170 | Stefanie Zonzini-Gagliardi |
+| 309 | 170 | Darlene Bowman |
 | 310 | 170 | Kenya Felix |
 | 311 | 169 | Lively Catcher |
 | 312 | 169 | Fi Ne |
