@@ -86,14 +86,14 @@
 | 78 | 193 | Lachelle Dillon |
 | 79 | 192 | Shaykmia |
 | 80 | 191 | Jazzy Framezone |
-| 81 | 190 | Thorne Shumate |
-| 82 | 190 | Sweetts |
+| 81 | 190 | Sweetts |
+| 82 | 190 | Thorne Shumate |
 | 83 | 189 | Happy Basegrid |
 | 84 | 180 | Erez Yosef |
 | 85 | 178 | Danielle Little-Daugherty |
 | 86 | 177 | Diane Byrd |
-| 87 | 173 | Jennifer Olewnik Soborowski |
-| 88 | 173 | june october |
+| 87 | 173 | june october |
+| 88 | 173 | Jennifer Olewnik Soborowski |
 | 89 | 173 | Frothy Pattern |
 | 90 | 171 | Greg Premoe |
 | 91 | 168 | Redlicious 1 |
@@ -120,8 +120,8 @@
 | 112 | 144 | femmefatale |
 | 113 | 143 | Sarah Marie |
 | 114 | 142 | Colleen Wise |
-| 115 | 141 | Blaire Bruckoff |
-| 116 | 141 | Jennifer ManWarren |
+| 115 | 141 | Jennifer ManWarren |
+| 116 | 141 | Blaire Bruckoff |
 | 117 | 140 | Miguel Teixeira |
 | 118 | 138 | Cranky Pattern |
 | 119 | 138 | Gary Gobin |
@@ -135,15 +135,15 @@
 | 127 | 130 | Dandy Basegrid |
 | 128 | 129 | Dino |
 | 129 | 128 | lil mickey |
-| 130 | 127 | Aimee Horton |
-| 131 | 127 | Michael |
+| 130 | 127 | Michael |
+| 131 | 127 | Aimee Horton |
 | 132 | 124 | Cartier |
 | 133 | 121 | Bouncy Grid |
 | 134 | 121 | TSwag |
 | 135 | 120 | Kimmie Kimms |
 | 136 | 120 | Alenoush Karimian |
-| 137 | 119 | Tater |
-| 138 | 119 | April Carroll |
+| 137 | 119 | April Carroll |
+| 138 | 119 | Tater |
 | 139 | 118 | Barry Mac'Ockner |
 | 140 | 118 | Giddy Cascade |
 | 141 | 116 | Evie Khalil |

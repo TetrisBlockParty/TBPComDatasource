@@ -32,8 +32,8 @@
 | 24 | 928 | Snappy Fitzone |
 | 25 | 924 | Stephanie Rice |
 | 26 | 880 | Tetris Master |
-| 27 | 867 | Delilah belle |
-| 28 | 867 | Briarblack |
+| 27 | 867 | Briarblack |
+| 28 | 867 | Delilah belle |
 | 29 | 852 | cowboy25469 |
 | 30 | 821 | Jessica Ann |
 | 31 | 810 | Shane Wilson Jr. |
@@ -308,7 +308,7 @@
 | 300 | 88 | RickyG |
 | 301 | 88 | Kate Farok |
 | 302 | 88 | Kelly Koenig |
-| 303 | 88 | RickyG |
+| 303 | 88 | Kevin Russell |
 | 304 | 88 | Dapper Towerfit |
 | 305 | 87 | Kellie Montgomery |
 | 306 | 87 | Chris Bell |
