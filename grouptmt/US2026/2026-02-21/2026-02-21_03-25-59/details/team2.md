@@ -301,8 +301,8 @@
 | 293 | 184 | Sassy Linkbuilder |
 | 294 | 184 | Stefanie Zonzini-Gagliardi |
 | 295 | 181 | Julay |
-| 296 | 180 | Peter Palestino |
-| 297 | 180 | August Hale |
+| 296 | 180 | August Hale |
+| 297 | 180 | Peter Palestino |
 | 298 | 179 | Denise Rickman |
 | 299 | 179 | Desiree Harris Rosch |
 | 300 | 179 | Taren Cowan |
@@ -327,16 +327,16 @@
 | 319 | 168 | Robin |
 | 320 | 167 | Dedra Steward |
 | 321 | 165 | Cathy Bitters |
-| 322 | 164 | Jamie Stevey |
-| 323 | 164 | kippykay |
+| 322 | 164 | kippykay |
+| 323 | 164 | Jamie Stevey |
 | 324 | 164 | Eddie Perez |
 | 325 | 163 | Albert McKnight |
 | 326 | 163 | Austin Wilson |
-| 327 | 162 | Brenna Ann |
-| 328 | 162 | Elizabeth Pearson |
-| 329 | 162 | Amber Gray |
+| 327 | 162 | Elizabeth Pearson |
+| 328 | 162 | Brenna Ann |
+| 329 | 162 | LC Hamilton |
 | 330 | 162 | Joshua Mullings |
-| 331 | 162 | LC Hamilton |
+| 331 | 162 | Amber Gray |
 | 332 | 161 | Dizzy Zone |
 | 333 | 160 | Rhonda Petro |
 | 334 | 160 | Cynthia Ward |

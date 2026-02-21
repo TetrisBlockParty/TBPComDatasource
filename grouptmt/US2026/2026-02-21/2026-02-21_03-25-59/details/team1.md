@@ -47,8 +47,8 @@
 | 39 | 194 | Sharon Reynolds |
 | 40 | 192 | Mandyy Rae |
 | 41 | 191 | Jazzy Framezone |
-| 42 | 190 | Sweetts |
-| 43 | 190 | Thorne Shumate |
+| 42 | 190 | Thorne Shumate |
+| 43 | 190 | Sweetts |
 | 44 | 189 | Happy Basegrid |
 | 45 | 185 | Karin Gillen |
 | 46 | 173 | Frothy Pattern |
@@ -105,8 +105,8 @@
 | 97 | 96 | Nery Martinez |
 | 98 | 95 | Spunky Piecebuilder |
 | 99 | 94 | Bindi |
-| 100 | 93 | Loony Fitzone |
-| 101 | 93 | Adryane Schnase |
+| 100 | 93 | Adryane Schnase |
+| 101 | 93 | Loony Fitzone |
 | 102 | 92 | Franswa |
 | 103 | 90 | TSwag |
 | 104 | 90 | Madison Wicks |
@@ -258,7 +258,7 @@
 | 250 | 41 | Jam |
 | 251 | 40 | Mama Zelda |
 | 252 | 40 | Kenton Billings |
-| 253 | 40 | Tim Mccrary |
+| 253 | 40 | Swanky Crasher |
 | 254 | 40 | BoneDaddy |
 | 255 | 40 | Tim Mccrary |
 | 256 | 39 | Walter Brown |

@@ -152,8 +152,8 @@
 | 144 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 145 | 100 | Donna |
 | 146 | 100 | Bobbi Moore |
-| 147 | 100 | Ryan Williams |
-| 148 | 100 | Elizabeth Renee |
+| 147 | 100 | Elizabeth Renee |
+| 148 | 100 | Ryan Williams |
 | 149 | 99 | Lys |
 | 150 | 99 | Nichol Graham |
 | 151 | 98 | Jocelyne Baca |
