@@ -301,8 +301,8 @@
 | 293 | 393 | Altamirano Michael |
 | 294 | 393 | Taylor Flowers |
 | 295 | 391 | Qiana Sanders |
-| 296 | 391 | Brenda Utphall |
-| 297 | 391 | Chilly Bridgepiece |
+| 296 | 391 | Chilly Bridgepiece |
+| 297 | 391 | Brenda Utphall |
 | 298 | 390 | Kimberly Randesi |
 | 299 | 389 | Kristen O'Neal |
 | 300 | 387 | Lourisha |

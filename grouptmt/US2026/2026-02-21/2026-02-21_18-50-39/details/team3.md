@@ -111,8 +111,8 @@
 | 103 | 348 | CeceGeGe |
 | 104 | 342 | Tiff Vs Tiffany |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
-| 106 | 323 | Sherry Ogden |
-| 107 | 323 | Ashley Raines |
+| 106 | 323 | Ashley Raines |
+| 107 | 323 | Sherry Ogden |
 | 108 | 321 | Dapper Snap |
 | 109 | 320 | Or Reznitsky |
 | 110 | 318 | Chasity |
@@ -149,8 +149,8 @@
 | 141 | 223 | Jeana Gilbert |
 | 142 | 222 | Hoppy Buildout |
 | 143 | 222 | Jimmie Clemons |
-| 144 | 219 | Shunta Jacobs |
-| 145 | 219 | Tom Nault |
+| 144 | 219 | Tom Nault |
+| 145 | 219 | Shunta Jacobs |
 | 146 | 217 | Jess Bissett |
 | 147 | 216 | Marci Mize Fandrich |
 | 148 | 216 | Aaron Pitkin |
@@ -203,10 +203,10 @@
 | 195 | 168 | MsBee |
 | 196 | 167 | Raven Dudley |
 | 197 | 167 | Grams |
-| 198 | 166 | Rebecca Funderburk Kirby |
-| 199 | 166 | Kelly Ann Child |
-| 200 | 166 | Beth Ingham |
-| 201 | 166 | Betty Rosas |
+| 198 | 166 | Betty Rosas |
+| 199 | 166 | Beth Ingham |
+| 200 | 166 | Kelly Ann Child |
+| 201 | 166 | Rebecca Funderburk Kirby |
 | 202 | 165 | Kali Kelz Williams |
 | 203 | 163 | Stephanie Hill |
 | 204 | 163 | Christine Trester |

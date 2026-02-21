@@ -88,8 +88,8 @@
 | 80 | 230 | Autum Leigh |
 | 81 | 224 | H.R. Block |
 | 82 | 220 | Joeliecea Cobb |
-| 83 | 218 | Casey Grabner |
-| 84 | 218 | Antony Dwayne Beasley |
+| 83 | 218 | Antony Dwayne Beasley |
+| 84 | 218 | Casey Grabner |
 | 85 | 215 | Alyssa Papen |
 | 86 | 215 | Jae Job |
 | 87 | 212 | Calvin Cannon |
@@ -104,13 +104,13 @@
 | 96 | 196 | Jeff Brian Gates |
 | 97 | 196 | Damn Libra |
 | 98 | 194 | Zany Twisterfit |
-| 99 | 192 | Shauna Havard |
-| 100 | 192 | Crystal Carroll |
-| 101 | 191 | loulou |
-| 102 | 191 | Melvin Baird |
+| 99 | 192 | Crystal Carroll |
+| 100 | 192 | Shauna Havard |
+| 101 | 191 | Melvin Baird |
+| 102 | 191 | loulou |
 | 103 | 189 | Calvin Dennis |
-| 104 | 187 | Swanky Fitline |
-| 105 | 187 | TheNeesh50 |
+| 104 | 187 | TheNeesh50 |
+| 105 | 187 | Swanky Fitline |
 | 106 | 186 | Leslie Nicole |
 | 107 | 185 | Andy Cabral |
 | 108 | 181 | Carter Jones |
@@ -160,8 +160,8 @@
 | 152 | 132 | Degenerate |
 | 153 | 132 | Melissa Priest Sellers |
 | 154 | 132 | Jessica Cagle |
-| 155 | 131 | Angela Geist Jusinski |
-| 156 | 131 | Diana Houts |
+| 155 | 131 | Diana Houts |
+| 156 | 131 | Angela Geist Jusinski |
 | 157 | 130 | Casey Jeffcoat |
 | 158 | 129 | Dreamy Snapgrid |
 | 159 | 128 | TinyLegoRose |
@@ -321,8 +321,8 @@
 | 313 | 73 | Lynn Marie |
 | 314 | 72 | Jackson Karen |
 | 315 | 72 | Raegan Lane-Ross |
-| 316 | 71 | Speedy Wipeblock |
-| 317 | 71 | Mylo Lipscomb |
+| 316 | 71 | Mylo Lipscomb |
+| 317 | 71 | Speedy Wipeblock |
 | 318 | 71 | Dapper Climber |
 | 319 | 70 | Circuit8 |
 | 320 | 70 | Thomas Hettenhaus |
