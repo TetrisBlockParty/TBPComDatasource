@@ -156,16 +156,16 @@
 | 148 | 228 | Morgan Martinez |
 | 149 | 226 | Grego Daniel |
 | 150 | 223 | Jeana Gilbert |
-| 151 | 222 | Hoppy Buildout |
-| 152 | 222 | Jimmie Clemons |
+| 151 | 222 | Jimmie Clemons |
+| 152 | 222 | Hoppy Buildout |
 | 153 | 219 | Shunta Jacobs |
 | 154 | 218 | LaNette Morgan |
 | 155 | 218 | Rochelle Hazelett |
 | 156 | 217 | Jess Bissett |
-| 157 | 216 | Nikki Pags |
-| 158 | 216 | Aaron Pitkin |
-| 159 | 214 | Jenny Hrndz |
-| 160 | 214 | Amy Fuller Heaton |
+| 157 | 216 | Aaron Pitkin |
+| 158 | 216 | Nikki Pags |
+| 159 | 214 | Amy Fuller Heaton |
+| 160 | 214 | Jenny Hrndz |
 | 161 | 212 | Krystal Gerstberger |
 | 162 | 211 | Katrina Turner |
 | 163 | 207 | Nicole Myers |
@@ -236,8 +236,8 @@
 | 228 | 152 | Katrina E Jelks |
 | 229 | 152 | Lesley Perez |
 | 230 | 150 | Valerie Gendron |
-| 231 | 149 | Alexis Taylor |
-| 232 | 149 | Peachy Rollfit |
+| 231 | 149 | Peachy Rollfit |
+| 232 | 149 | Alexis Taylor |
 | 233 | 149 | Angel Mendez |
 | 234 | 148 | Sabrina Hardrick |
 | 235 | 148 | Gumbo |
@@ -256,8 +256,8 @@
 | 248 | 142 | David Bardo |
 | 249 | 142 | Danielle Allison |
 | 250 | 141 | IamJust Neyamijah Washington Sr. |
-| 251 | 139 | Loopy Clusterer |
-| 252 | 139 | Funky Jumper |
+| 251 | 139 | Funky Jumper |
+| 252 | 139 | Loopy Clusterer |
 | 253 | 138 | Boldy Corner |
 | 254 | 137 | Joy Petroski |
 | 255 | 135 | Terry Jo Jones |

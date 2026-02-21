@@ -44,8 +44,8 @@
 | 36 | 511 | Jen Sartain |
 | 37 | 510 | Colena Davenport |
 | 38 | 508 | Michelle Nicole |
-| 39 | 486 | Sevens4L |
-| 40 | 486 | Sarah Lombardo |
+| 39 | 486 | Sarah Lombardo |
+| 40 | 486 | Sevens4L |
 | 41 | 483 | Ryan Lunnin |
 | 42 | 469 | Kathi Snustad |
 | 43 | 444 | Carolyn Smith |
@@ -171,9 +171,9 @@
 | 163 | 138 | Death |
 | 164 | 137 | Cody Gates |
 | 165 | 136 | Dino |
-| 166 | 135 | Giddy Cascade |
-| 167 | 135 | Guest |
-| 168 | 135 | Cody Slav |
+| 166 | 135 | Cody Slav |
+| 167 | 135 | Giddy Cascade |
+| 168 | 135 | Guest |
 | 169 | 134 | Witty Builderfit |
 | 170 | 133 | Luciano Moreira |
 | 171 | 133 | Breanna Luna |
@@ -194,8 +194,8 @@
 | 186 | 122 | Melissa Lemmon |
 | 187 | 122 | Margo Wagner |
 | 188 | 121 | April Carroll |
-| 189 | 120 | Alenoush Karimian |
-| 190 | 120 | Kimmie Kimms |
+| 189 | 120 | Kimmie Kimms |
+| 190 | 120 | Alenoush Karimian |
 | 191 | 119 | Tater |
 | 192 | 117 | Larry Tilton |
 | 193 | 116 | Jessica Russell |

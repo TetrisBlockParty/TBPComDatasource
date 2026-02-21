@@ -346,8 +346,8 @@
 | 338 | 369 | Victoria Moore-Smith |
 | 339 | 369 | Tara Lynn Janes |
 | 340 | 367 | Deyawn Smith |
-| 341 | 366 | Wuntayk |
-| 342 | 366 | Mike Aprilliano |
+| 341 | 366 | Mike Aprilliano |
+| 342 | 366 | Wuntayk |
 | 343 | 365 | Christina Lewis-Vickers |
 | 344 | 365 | Kayla |
 | 345 | 365 | Audrey Jones |

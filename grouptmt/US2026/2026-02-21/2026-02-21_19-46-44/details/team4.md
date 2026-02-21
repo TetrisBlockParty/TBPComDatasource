@@ -98,11 +98,11 @@
 | 90 | 210 | Damn Libra |
 | 91 | 205 | Sarah Neathery |
 | 92 | 204 | Brittney Orengo |
-| 93 | 202 | shar |
-| 94 | 202 | Monica Daley |
+| 93 | 202 | Monica Daley |
+| 94 | 202 | shar |
 | 95 | 200 | Holly Jolly |
-| 96 | 198 | Mike Solo |
-| 97 | 198 | Denise Carlson |
+| 96 | 198 | Denise Carlson |
+| 97 | 198 | Mike Solo |
 | 98 | 197 | Swanky Fitline |
 | 99 | 196 | Jeff Brian Gates |
 | 100 | 194 | Zany Twisterfit |
@@ -143,8 +143,8 @@
 | 135 | 149 | Diana Houts |
 | 136 | 148 | Brittany Marsh |
 | 137 | 148 | Janita Parrish |
-| 138 | 147 | Shainne Brewer |
-| 139 | 147 | Jay28 |
+| 138 | 147 | Jay28 |
+| 139 | 147 | Shainne Brewer |
 | 140 | 147 | Chair |
 | 141 | 146 | Klo |
 | 142 | 145 | Daria Rycewicz |
