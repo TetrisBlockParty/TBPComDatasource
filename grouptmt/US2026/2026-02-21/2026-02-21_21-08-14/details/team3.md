@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -98,12 +98,12 @@
 | 90 | 408 | Patty Allen |
 | 91 | 403 | Christine Filson |
 | 92 | 402 | Stephanie Simpson |
-| 93 | 394 | Mcathen |
-| 94 | 394 | joclisa |
+| 93 | 394 | joclisa |
+| 94 | 394 | Mcathen |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
-| 97 | 390 | Hasty Cascadefit |
-| 98 | 390 | Annie Déè |
+| 97 | 390 | Annie Déè |
+| 98 | 390 | Hasty Cascadefit |
 | 99 | 389 | Elissa S-k |
 | 100 | 387 | Jay Horn |
 | 101 | 386 | Katie Knaus |
@@ -163,8 +163,8 @@
 | 155 | 229 | Nikki Pags |
 | 156 | 228 | Rochelle Hazelett |
 | 157 | 228 | Morgan Martinez |
-| 158 | 226 | Grego Daniel |
-| 159 | 226 | Bea Miles |
+| 158 | 226 | Bea Miles |
+| 159 | 226 | Grego Daniel |
 | 160 | 223 | Jeana Gilbert |
 | 161 | 222 | Jimmie Clemons |
 | 162 | 222 | Hoppy Buildout |
@@ -228,8 +228,8 @@
 | 220 | 166 | Betty Rosas |
 | 221 | 166 | Beth Ingham |
 | 222 | 165 | Kali Kelz Williams |
-| 223 | 163 | Christine Trester |
-| 224 | 163 | Stephanie Hill |
+| 223 | 163 | Stephanie Hill |
+| 224 | 163 | Christine Trester |
 | 225 | 162 | Stephanie Whitefield |
 | 226 | 161 | Irene Arreguin |
 | 227 | 160 | Tiffany Davie |
@@ -247,8 +247,8 @@
 | 239 | 152 | Shiny Zonebuilder |
 | 240 | 152 | Katrina E Jelks |
 | 241 | 150 | Valerie Gendron |
-| 242 | 149 | Alexis Taylor |
-| 243 | 149 | Peachy Rollfit |
+| 242 | 149 | Peachy Rollfit |
+| 243 | 149 | Alexis Taylor |
 | 244 | 149 | Angel Mendez |
 | 245 | 148 | Jennifer Alvey |
 | 246 | 148 | Wetwet |
@@ -273,8 +273,8 @@
 | 265 | 139 | Loopy Clusterer |
 | 266 | 138 | Boldy Corner |
 | 267 | 137 | Cesar Barraza |
-| 268 | 136 | Rachel |
-| 269 | 136 | Sabrina Mansfield |
+| 268 | 136 | Sabrina Mansfield |
+| 269 | 136 | Rachel |
 | 270 | 135 | Terry Jo Jones |
 | 271 | 134 | Kristian Thurman |
 | 272 | 134 | Skinny Baldez |

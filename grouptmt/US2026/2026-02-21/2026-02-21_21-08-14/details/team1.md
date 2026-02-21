@@ -26,8 +26,8 @@
 | 18 | 792 | LaQuetta Faith Hines |
 | 19 | 781 | Robert Beck |
 | 20 | 779 | Andrea Dañielle Ortiz |
-| 21 | 770 | Adryane Schnase |
-| 22 | 770 | Zappy Curvetile |
+| 21 | 770 | Zappy Curvetile |
+| 22 | 770 | Adryane Schnase |
 | 23 | 699 | Josie Kirt |
 | 24 | 683 | Chipper Gridlock |
 | 25 | 658 | Carolyn Smith |
@@ -38,8 +38,8 @@
 | 30 | 585 | Jennifer Cates |
 | 31 | 576 | Marianne Louise West |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 521 | Hyp James NObettadanluvarat |
 | 37 | 517 | Felicia Lewis |
@@ -83,8 +83,8 @@
 | 75 | 299 | Lehrin Maria |
 | 76 | 298 | Carrie Beck Geartz |
 | 77 | 297 | cc |
-| 78 | 293 | Shauna Loe |
-| 79 | 293 | Adam Byrd |
+| 78 | 293 | Adam Byrd |
+| 79 | 293 | Shauna Loe |
 | 80 | 291 | Sweet Baker |
 | 81 | 287 | Hyper |
 | 82 | 282 | TSwag |
@@ -138,11 +138,11 @@
 | 130 | 180 | Erez Yosef |
 | 131 | 179 | Danielle Little-Daugherty |
 | 132 | 178 | Chad Atchley |
-| 133 | 177 | ParisandCory Champagne |
-| 134 | 177 | Michael |
+| 133 | 177 | Michael |
+| 134 | 177 | ParisandCory Champagne |
 | 135 | 176 | Basment Living |
-| 136 | 171 | David DeSantis |
-| 137 | 171 | Greg Premoe |
+| 136 | 171 | Greg Premoe |
+| 137 | 171 | David DeSantis |
 | 138 | 170 | Veronica Eve |
 | 139 | 169 | Abbey Crespo |
 | 140 | 168 | Standia Civil |

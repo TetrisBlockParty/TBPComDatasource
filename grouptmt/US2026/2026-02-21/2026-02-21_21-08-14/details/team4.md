@@ -57,8 +57,8 @@
 | 49 | 449 | Shelly Chandler |
 | 50 | 447 | Samantha Peterson |
 | 51 | 433 | Isabel Aguilar |
-| 52 | 411 | TeeJ |
-| 53 | 411 | Jonathan Kimbrough |
+| 52 | 411 | Jonathan Kimbrough |
+| 53 | 411 | TeeJ |
 | 54 | 409 | Isabella Blanco |
 | 55 | 402 | Courtney Cicoria |
 | 56 | 399 | Jenna Ingersoll |
@@ -164,16 +164,16 @@
 | 156 | 141 | ĥuf |
 | 157 | 141 | Marcus Todd |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | Shannon Ferrari |
-| 160 | 140 | John Brunetti |
+| 159 | 140 | John Brunetti |
+| 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Sarah Brown |
 | 163 | 136 | Tanner Lund |
 | 164 | 136 | Serena Goodridge |
-| 165 | 135 | Victoria Faniel |
-| 166 | 135 | Stephme310 |
-| 167 | 134 | Kim Klutz Olson |
-| 168 | 134 | Zany Shatterer |
+| 165 | 135 | Stephme310 |
+| 166 | 135 | Victoria Faniel |
+| 167 | 134 | Zany Shatterer |
+| 168 | 134 | Kim Klutz Olson |
 | 169 | 134 | Chirpy Basepiece |
 | 170 | 133 | Angela Geist Jusinski |
 | 171 | 132 | Degenerate |
@@ -194,8 +194,8 @@
 | 186 | 125 | AyeKay |
 | 187 | 124 | SammieJo Guy |
 | 188 | 124 | Allen Lloyd |
-| 189 | 123 | Chaz |
-| 190 | 123 | Austin Owens |
+| 189 | 123 | Austin Owens |
+| 190 | 123 | Chaz |
 | 191 | 122 | Carlos Ramirez |
 | 192 | 122 | Sherri |
 | 193 | 122 | 🥔🥔 Spudz |
@@ -279,8 +279,8 @@
 | 271 | 90 | Carol Ricks Raymond |
 | 272 | 90 | Hyper Builder |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Kesha Brady |
-| 275 | 88 | Michelle Parker |
+| 274 | 88 | Michelle Parker |
+| 275 | 88 | Kesha Brady |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | Jason Frehner |
 | 278 | 86 | amy |

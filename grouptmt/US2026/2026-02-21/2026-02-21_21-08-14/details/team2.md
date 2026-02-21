@@ -274,8 +274,8 @@
 | 266 | 474 | Ashley Collins |
 | 267 | 474 | Calandra Shaya Robinson |
 | 268 | 470 | Jerry Tempelmeyer |
-| 269 | 469 | Amélie Cadieux |
-| 270 | 469 | Ashley Rose Frederick |
+| 269 | 469 | Ashley Rose Frederick |
+| 270 | 469 | Amélie Cadieux |
 | 271 | 467 | Scott Treadway |
 | 272 | 465 | Drwatson187 |
 | 273 | 465 | Maya June |
@@ -297,8 +297,8 @@
 | 289 | 442 | Daphne Jordan |
 | 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Joseph Musick |
-| 293 | 439 | Alisa Lamb |
+| 292 | 439 | Alisa Lamb |
+| 293 | 439 | Joseph Musick |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -325,8 +325,8 @@
 | 317 | 411 | Ricky Fortune |
 | 318 | 410 | Altamirano Michael |
 | 319 | 409 | Sparkles |
-| 320 | 406 | Erin StFrancis |
-| 321 | 406 | Heather Schelkopf |
+| 320 | 406 | Heather Schelkopf |
+| 321 | 406 | Erin StFrancis |
 | 322 | 405 | Christy Krissie |
 | 323 | 405 | Sarah Massey |
 | 324 | 403 | nikki |
@@ -344,8 +344,8 @@
 | 336 | 394 | Taryece Gause |
 | 337 | 392 | Mighty Shatterfit |
 | 338 | 391 | Chilly Bridgepiece |
-| 339 | 391 | Alexandra Reese |
-| 340 | 391 | Qiana Sanders |
+| 339 | 391 | Qiana Sanders |
+| 340 | 391 | Alexandra Reese |
 | 341 | 389 | Kristen O'Neal |
 | 342 | 386 | Deanna Morton |
 | 343 | 384 | Mike Aprilliano |
