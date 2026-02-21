@@ -47,8 +47,8 @@
 | 39 | 244 | Franswa |
 | 40 | 243 | Sarah Roberts |
 | 41 | 241 | Kristen Roles Robben |
-| 42 | 212 | Tdub |
-| 43 | 212 | Jaimie Lynn |
+| 42 | 212 | Jaimie Lynn |
+| 43 | 212 | Tdub |
 | 44 | 211 | Deanna L Hermanson |
 | 45 | 209 | Robert Beck |
 | 46 | 208 | Carrie Beck Geartz |
@@ -99,8 +99,8 @@
 | 91 | 132 | Davery Spencer Adair |
 | 92 | 131 | Trina Gee |
 | 93 | 130 | Dandy Basegrid |
-| 94 | 128 | lil mickey |
-| 95 | 128 | Uhog SF |
+| 94 | 128 | Uhog SF |
+| 95 | 128 | lil mickey |
 | 96 | 127 | Michael |
 | 97 | 126 | Rachael |
 | 98 | 126 | Cece Ibarra |
@@ -150,16 +150,16 @@
 | 142 | 86 | Basment Living |
 | 143 | 86 | Desiree Deschaine Havee |
 | 144 | 85 | Steve Schneider |
-| 145 | 84 | Yvonne Marie |
-| 146 | 84 | Kayla Marie Stevenson |
-| 147 | 84 | Speedy Snapfall |
+| 145 | 84 | Kayla Marie Stevenson |
+| 146 | 84 | Speedy Snapfall |
+| 147 | 84 | Yvonne Marie |
 | 148 | 83 | Guest |
 | 149 | 83 | Timothy Dew |
 | 150 | 83 | Death |
 | 151 | 83 | Tipsy Riseclear |
 | 152 | 83 | MommaKFC |
 | 153 | 82 | Barrbaric |
-| 154 | 81 | John Kim |
+| 154 | 81 | Bob |
 | 155 | 81 | Shawn Thisismyoldaccount Gilmore |
 | 156 | 81 | John Kim |
 | 157 | 80 | Brandi Egbert |
@@ -186,9 +186,9 @@
 | 178 | 74 | Eddie Dillon |
 | 179 | 74 | Grace Joanne Agnant |
 | 180 | 73 | Shanae Grant |
-| 181 | 72 | Tipsy Strikerpiece |
-| 182 | 72 | John J. Cronin |
-| 183 | 70 | Seth Wesson |
+| 181 | 72 | John J. Cronin |
+| 182 | 72 | Tipsy Strikerpiece |
+| 183 | 70 | Nerdy Linkblock |
 | 184 | 70 | Kenton Billings |
 | 185 | 70 | Daring Fitclear |
 | 186 | 70 | Seth Wesson |

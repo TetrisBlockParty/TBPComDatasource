@@ -182,8 +182,8 @@
 | 174 | 116 | Skinny Baldez |
 | 175 | 116 | Joy Petroski |
 | 176 | 115 | Jennifer Alvey |
-| 177 | 114 | Jessica Bechler |
-| 178 | 114 | Nicholas Roddy |
+| 177 | 114 | Nicholas Roddy |
+| 178 | 114 | Jessica Bechler |
 | 179 | 113 | Brian Battjes |
 | 180 | 113 | Valerie Gendron |
 | 181 | 110 | Tye Stovall |

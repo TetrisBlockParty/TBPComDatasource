@@ -73,8 +73,8 @@
 | 65 | 165 | Casey Grabner |
 | 66 | 165 | Courtney Cicoria |
 | 67 | 160 | Carter Jones |
-| 68 | 159 | Holly Jolly |
-| 69 | 159 | Justin Hannigan |
+| 68 | 159 | Justin Hannigan |
+| 69 | 159 | Holly Jolly |
 | 70 | 157 | quicksand420 |
 | 71 | 154 | ThaEviLJeNiuZ |
 | 72 | 153 | Jae Job |
@@ -86,8 +86,8 @@
 | 78 | 141 | Malakai Darien Fox |
 | 79 | 140 | Shannon Ferrari |
 | 80 | 136 | Tanner Lund |
-| 81 | 134 | Jessica Bohlken |
-| 82 | 134 | Chirpy Basepiece |
+| 81 | 134 | Chirpy Basepiece |
+| 82 | 134 | Jessica Bohlken |
 | 83 | 133 | Robin Watters |
 | 84 | 132 | Degenerate |
 | 85 | 132 | Melissa Priest Sellers |

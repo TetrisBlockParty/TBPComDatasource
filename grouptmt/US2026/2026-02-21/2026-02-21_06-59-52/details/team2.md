@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3720 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Taylana Mincy |
-| 5 | 3567 | Rickey Goins Jr. |
+| 4 | 3567 | Rickey Goins Jr. |
+| 5 | 3567 | Taylana Mincy |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -150,8 +150,8 @@
 | 142 | 453 | Osun Anuket Esu |
 | 143 | 452 | Alezandra Smith |
 | 144 | 450 | Giggy Blocker |
-| 145 | 448 | Jojo Momma |
-| 146 | 448 | Nick Jensen |
+| 145 | 448 | Nick Jensen |
+| 146 | 448 | Jojo Momma |
 | 147 | 442 | Daphne Jordan |
 | 148 | 442 | Slip |
 | 149 | 427 | Destiny Cozier |
@@ -316,8 +316,8 @@
 | 308 | 233 | Robin Kerby |
 | 309 | 233 | Alyssia Tancredi |
 | 310 | 232 | Amber Brion |
-| 311 | 231 | Ginger |
-| 312 | 231 | Dylan Thomason |
+| 311 | 231 | Dylan Thomason |
+| 312 | 231 | Ginger |
 | 313 | 231 | Hong Tang |
 | 314 | 230 | Peachy Blockbuilder |
 | 315 | 230 | snkylnk |
