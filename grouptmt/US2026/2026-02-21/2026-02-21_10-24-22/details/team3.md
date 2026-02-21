@@ -132,12 +132,12 @@
 | 124 | 191 | Scott Carleton |
 | 125 | 187 | Fallorina Susana |
 | 126 | 184 | Jennie Beranek |
-| 127 | 182 | Ashley Tookes |
-| 128 | 182 | Hyper Matchzone |
+| 127 | 182 | Hyper Matchzone |
+| 128 | 182 | Ashley Tookes |
 | 129 | 180 | Tessina Dewey-Mancino |
 | 130 | 179 | Daira Largen |
-| 131 | 178 | Khaleada McGill Banks |
-| 132 | 178 | AlsoJess |
+| 131 | 178 | AlsoJess |
+| 132 | 178 | Khaleada McGill Banks |
 | 133 | 176 | Ryan Williams |
 | 134 | 170 | Kristie McFarland |
 | 135 | 166 | Danielle Mogg |

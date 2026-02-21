@@ -276,8 +276,8 @@
 | 268 | 290 | Maya June |
 | 269 | 288 | Megan Phillips |
 | 270 | 286 | Ryan Gunther |
-| 271 | 285 | June E Hanson |
-| 272 | 285 | Jánine Riggs |
+| 271 | 285 | Jánine Riggs |
+| 272 | 285 | June E Hanson |
 | 273 | 283 | Davetta Sanford |
 | 274 | 282 | Carl Bradshaw |
 | 275 | 282 | Shaun Church |
@@ -355,8 +355,8 @@
 | 347 | 240 | Angie Marie |
 | 348 | 239 | Roger Grabbit |
 | 349 | 238 | Cheery Matchzone |
-| 350 | 236 | Frisky Riserbuilder |
-| 351 | 236 | snkylnk |
+| 350 | 236 | snkylnk |
+| 351 | 236 | Frisky Riserbuilder |
 | 352 | 236 | Niceday |
 | 353 | 236 | Julio A Laracuente |
 | 354 | 235 | Kimberly Mitchell |
@@ -585,8 +585,8 @@
 | 577 | 142 | Frisky Clearpiece |
 | 578 | 141 | Mary Lopez Sr. |
 | 579 | 141 | Markisha Poyndexter |
-| 580 | 141 | Arkei Luster |
-| 581 | 141 | Aprill Bolton |
+| 580 | 141 | Aprill Bolton |
+| 581 | 141 | Arkei Luster |
 | 582 | 141 | Monica Brown |
 | 583 | 141 | Erika Meaux |
 | 584 | 140 | Preya Patel |
@@ -638,8 +638,8 @@
 | 630 | 133 | Candy Pitts |
 | 631 | 133 | Jess Orosz |
 | 632 | 133 | candy |
-| 633 | 133 | Epic Stackzone |
-| 634 | 133 | Rae Rae |
+| 633 | 133 | Rae Rae |
+| 634 | 133 | Epic Stackzone |
 | 635 | 132 | Mr. Street Stack |
 | 636 | 132 | Chilly Rollblock |
 | 637 | 132 | Samie Dayle |
@@ -894,9 +894,9 @@
 | 886 | 98 | Brian Easterday |
 | 887 | 98 | Claire Noland |
 | 888 | 97 | Nat |
-| 889 | 97 | William Bresee |
+| 889 | 97 | Mikey |
 | 890 | 97 | Pixie Stixs |
-| 891 | 97 | Mikey |
+| 891 | 97 | William Bresee |
 | 892 | 97 | Zany Twistslam |
 | 893 | 97 | Tj Ball |
 | 894 | 97 | Mighty Towerer |
@@ -956,10 +956,10 @@
 | 948 | 92 | Loony Dashy |
 | 949 | 92 | Jacqueline Muellerleile |
 | 950 | 92 | Jelly |
-| 951 | 91 | Sienna Parsons |
-| 952 | 91 | Ængeli Haze |
-| 953 | 91 | Chipper Snaplink |
-| 954 | 91 | Chilly Wrecker |
+| 951 | 91 | Ængeli Haze |
+| 952 | 91 | Sienna Parsons |
+| 953 | 91 | Chilly Wrecker |
+| 954 | 91 | Chipper Snaplink |
 | 955 | 91 | Moist_B-hole |
 | 956 | 91 | Richard Kennard |
 | 957 | 91 | Gigi |

@@ -99,8 +99,8 @@
 | 91 | 138 | Shainne Brewer |
 | 92 | 137 | 030Synner |
 | 93 | 136 | Tanner Lund |
-| 94 | 134 | Jessica Bohlken |
-| 95 | 134 | Chirpy Basepiece |
+| 94 | 134 | Chirpy Basepiece |
+| 95 | 134 | Jessica Bohlken |
 | 96 | 133 | Robin Watters |
 | 97 | 132 | Jessica Cagle |
 | 98 | 132 | Melissa Priest Sellers |
