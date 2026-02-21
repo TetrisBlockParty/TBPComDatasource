@@ -168,8 +168,8 @@
 | 160 | 705 | Roger Grabbit |
 | 161 | 703 | Lola Contreras |
 | 162 | 703 | Debra Williams |
-| 163 | 700 | Rosemadder |
-| 164 | 700 | Beverly Owens |
+| 163 | 700 | Beverly Owens |
+| 164 | 700 | Rosemadder |
 | 165 | 700 | Vincent Petrella |
 | 166 | 699 | Vo'Landa Reels |
 | 167 | 697 | Real Ri |
@@ -473,8 +473,8 @@
 | 465 | 309 | Autumn Schaeffer |
 | 466 | 307 | Kitybox |
 | 467 | 306 | Frisky Clearpiece |
-| 468 | 305 | Zany Clusterbuilder |
-| 469 | 305 | Tum |
+| 468 | 305 | Tum |
+| 469 | 305 | Zany Clusterbuilder |
 | 470 | 305 | Libby Hicks |
 | 471 | 304 | Michelle Shrum |
 | 472 | 304 | NFLPITMOM |

@@ -103,16 +103,16 @@
 | 95 | 230 | Lucas J Sutton |
 | 96 | 222 | Joeliecea Cobb |
 | 97 | 221 | Alyssa Papen |
-| 98 | 218 | Denise Carlson |
-| 99 | 218 | Casey Grabner |
+| 98 | 218 | Casey Grabner |
+| 99 | 218 | Denise Carlson |
 | 100 | 218 | Antony Dwayne Beasley |
 | 101 | 215 | Dustee Craddock-Harrison |
 | 102 | 213 | Chaz Duncan |
 | 103 | 212 | Calvin Cannon |
 | 104 | 211 | Dizzy Tiley |
 | 105 | 210 | Damn Libra |
-| 106 | 208 | Twisty Cascadezone |
-| 107 | 208 | Chastity Mitchell |
+| 106 | 208 | Chastity Mitchell |
+| 107 | 208 | Twisty Cascadezone |
 | 108 | 206 | Mylo Lipscomb |
 | 109 | 205 | Sarah Neathery |
 | 110 | 204 | Dana Scott |
@@ -141,8 +141,8 @@
 | 133 | 176 | Stacey Stano |
 | 134 | 175 | Ren Mc |
 | 135 | 174 | shark tato |
-| 136 | 174 | Zethra Prenisha Rahming |
-| 137 | 174 | Dihcheese444 |
+| 136 | 174 | Dihcheese444 |
+| 137 | 174 | Zethra Prenisha Rahming |
 | 138 | 173 | blockstar |
 | 139 | 171 | Diana Houts |
 | 140 | 170 | Amy Suckarieh |
@@ -260,9 +260,9 @@
 | 252 | 98 | Groovy Gridlock |
 | 253 | 98 | Perky Piecegrid |
 | 254 | 98 | Sam Bishop |
-| 255 | 98 | Groovy Gridlock |
-| 256 | 97 | Rosemary Foster |
-| 257 | 97 | Jen Caldwell |
+| 255 | 98 | Bradley Reeves |
+| 256 | 97 | Jen Caldwell |
+| 257 | 97 | Rosemary Foster |
 | 258 | 97 | Marcela Johnson |
 | 259 | 96 | Jessica Miller |
 | 260 | 96 | Marcus TheeyoungWoe Gilmore |
@@ -280,8 +280,8 @@
 | 272 | 92 | Zippy Gridlock |
 | 273 | 91 | Sunny Filler |
 | 274 | 91 | wombat |
-| 275 | 90 | Thomas Hettenhaus |
-| 276 | 90 | Carol Ricks Raymond |
+| 275 | 90 | Carol Ricks Raymond |
+| 276 | 90 | Thomas Hettenhaus |
 | 277 | 90 | Hyper Builder |
 | 278 | 89 | Jonathan Mahfood |
 | 279 | 89 | bloat princess |
@@ -306,8 +306,8 @@
 | 298 | 84 | Ruben Wheeler |
 | 299 | 84 | mini |
 | 300 | 83 | Daresha Fair |
-| 301 | 83 | Lynn Marie |
-| 302 | 83 | Abigail Murphy |
+| 301 | 83 | Abigail Murphy |
+| 302 | 83 | Lynn Marie |
 | 303 | 82 | Nick Gray |
 | 304 | 82 | Kametsunoyaiba |
 | 305 | 81 | Joshua Cuellar |
@@ -362,8 +362,8 @@
 | 354 | 70 | Niome Encinias |
 | 355 | 70 | Brittany Price |
 | 356 | 69 | Beth Helms |
-| 357 | 69 | Meli  Jackson |
-| 358 | 69 | Frisky Column |
+| 357 | 69 | Frisky Column |
+| 358 | 69 | Meli  Jackson |
 | 359 | 69 | Jessica Wells |
 | 360 | 68 | mitch |
 | 361 | 68 | Dapper Frame |

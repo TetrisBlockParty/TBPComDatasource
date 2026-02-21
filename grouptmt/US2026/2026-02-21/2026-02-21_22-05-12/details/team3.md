@@ -133,8 +133,8 @@
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
-| 128 | 307 | Blocked |
-| 129 | 307 | Peggi Charon |
+| 128 | 307 | Peggi Charon |
+| 129 | 307 | Blocked |
 | 130 | 305 | Tessina Dewey-Mancino |
 | 131 | 302 | Bea Miles |
 | 132 | 300 | Sherika C. McDaniels |
@@ -182,8 +182,8 @@
 | 174 | 214 | Jenny Hrndz |
 | 175 | 214 | Amy Fuller Heaton |
 | 176 | 212 | Krystal Gerstberger |
-| 177 | 211 | Khaleada McGill Banks |
-| 178 | 211 | Katrina Turner |
+| 177 | 211 | Katrina Turner |
+| 178 | 211 | Khaleada McGill Banks |
 | 179 | 209 | Annie Marie |
 | 180 | 207 | Jessica |
 | 181 | 207 | Chris Bell |
