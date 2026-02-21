@@ -90,10 +90,10 @@
 | 82 | 320 | Or Reznitsky |
 | 83 | 316 | Fancy Cascader |
 | 84 | 313 | Elaine Webb Graves |
-| 85 | 309 | CeceGeGe |
-| 86 | 309 | Rich LeBlanc |
-| 87 | 307 | Blocked |
-| 88 | 307 | Peggi Charon |
+| 85 | 309 | Rich LeBlanc |
+| 86 | 309 | CeceGeGe |
+| 87 | 307 | Peggi Charon |
+| 88 | 307 | Blocked |
 | 89 | 300 | Sherika C. McDaniels |
 | 90 | 272 | Mahman |
 | 91 | 267 | Rufus Lincoln |
@@ -109,8 +109,8 @@
 | 101 | 229 | Angeline Joseph |
 | 102 | 227 | Crimson |
 | 103 | 225 | Speedy Bridger |
-| 104 | 224 | Mykal Burton |
-| 105 | 224 | Judi Dobson |
+| 104 | 224 | Judi Dobson |
+| 105 | 224 | Mykal Burton |
 | 106 | 223 | Jeana Gilbert |
 | 107 | 222 | Jimmie Clemons |
 | 108 | 218 | mjl574 |
@@ -263,8 +263,8 @@
 | 255 | 96 | Christopher Woost |
 | 256 | 96 | Jason-Ashley Ludlow |
 | 257 | 95 | Brooke Bauer |
-| 258 | 94 | Angie Harper |
-| 259 | 94 | Andrew Thorson |
+| 258 | 94 | Andrew Thorson |
+| 259 | 94 | Angie Harper |
 | 260 | 93 | Tiffany Ford |
 | 261 | 92 | Ava Petito |
 | 262 | 92 | Jennifer Caputo |

@@ -313,8 +313,8 @@
 | 305 | 274 | Jamie Stevey |
 | 306 | 274 | Melissa Holsinger |
 | 307 | 274 | Lonne Emade |
-| 308 | 273 | Jenna Nance |
-| 309 | 273 | Ray Ray Prado |
+| 308 | 273 | Ray Ray Prado |
+| 309 | 273 | Jenna Nance |
 | 310 | 273 | August Hale |
 | 311 | 273 | Vanessa Moreno |
 | 312 | 272 | Mikayala Szaz |
@@ -548,7 +548,7 @@
 | 540 | 157 | Ty Quarles |
 | 541 | 157 | Tom Steffen |
 | 542 | 157 | Nicol Craven |
-| 543 | 157 | Tom Steffen |
+| 543 | 157 | Klee |
 | 544 | 156 | Nuggets |
 | 545 | 156 | Deanna Morton |
 | 546 | 156 | RetroLemur |
@@ -604,8 +604,8 @@
 | 596 | 144 | RavensBeard |
 | 597 | 144 | Tee Davis |
 | 598 | 143 | Jay Levy |
-| 599 | 142 | Melissa Kay Gibson |
-| 600 | 142 | Joy LaJeunesse |
+| 599 | 142 | Joy LaJeunesse |
+| 600 | 142 | Melissa Kay Gibson |
 | 601 | 142 | Zachary Boyarski |
 | 602 | 142 | Amy Humphreys |
 | 603 | 141 | Markisha Poyndexter |
@@ -666,8 +666,8 @@
 | 658 | 133 | Gina Caulder |
 | 659 | 133 | candy |
 | 660 | 133 | Ellie Jonas |
-| 661 | 133 | Epic Stackzone |
-| 662 | 133 | Rae Rae |
+| 661 | 133 | Rae Rae |
+| 662 | 133 | Epic Stackzone |
 | 663 | 132 | Mr. Street Stack |
 | 664 | 132 | Min |
 | 665 | 132 | Chilly Rollblock |
@@ -826,11 +826,11 @@
 | 818 | 109 | hyperbole |
 | 819 | 109 | Stephanie Matas |
 | 820 | 109 | DreBeast |
-| 821 | 109 | Chummy Caster |
-| 822 | 109 | Scott |
-| 823 | 108 | Jeffrey Barrows |
-| 824 | 108 | John-Jessica Manongdo |
-| 825 | 108 | Beth Decker |
+| 821 | 109 | Scott |
+| 822 | 109 | Chummy Caster |
+| 823 | 108 | Beth Decker |
+| 824 | 108 | Jeffrey Barrows |
+| 825 | 108 | John-Jessica Manongdo |
 | 826 | 108 | Kiana Boschh |
 | 827 | 108 | LML |
 | 828 | 107 | Dara |

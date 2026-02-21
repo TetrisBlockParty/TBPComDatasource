@@ -172,8 +172,8 @@
 | 164 | 95 | Meagan Nicole |
 | 165 | 95 | Victoria Faniel |
 | 166 | 94 | Chastity Mitchell |
-| 167 | 94 | Kim Hunt |
-| 168 | 94 | DonMega |
+| 167 | 94 | DonMega |
+| 168 | 94 | Kim Hunt |
 | 169 | 93 | Zesty Twistbuilder |
 | 170 | 92 | Sammy Noguera |
 | 171 | 92 | Misty Hollibaugh |
