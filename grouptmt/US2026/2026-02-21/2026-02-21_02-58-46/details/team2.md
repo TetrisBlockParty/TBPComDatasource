@@ -316,8 +316,8 @@
 | 308 | 164 | Jamie Stevey |
 | 309 | 164 | kippykay |
 | 310 | 163 | Austin Wilson |
-| 311 | 163 | Albert McKnight |
-| 312 | 163 | Taren Cowan |
+| 311 | 163 | Taren Cowan |
+| 312 | 163 | Albert McKnight |
 | 313 | 162 | LC Hamilton |
 | 314 | 162 | Jason Garnatz |
 | 315 | 162 | Elizabeth Pearson |

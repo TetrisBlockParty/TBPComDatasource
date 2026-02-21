@@ -193,8 +193,8 @@
 | 185 | 49 | Rio Rocha |
 | 186 | 49 | Lakesha Johnson |
 | 187 | 48 | Mbeth Moore |
-| 188 | 47 | Amy Sanford |
-| 189 | 47 | JEan Price |
+| 188 | 47 | JEan Price |
+| 189 | 47 | Amy Sanford |
 | 190 | 47 | Robin Getchel |
 | 191 | 46 | Aly Eggers |
 | 192 | 46 | Natalie;) |

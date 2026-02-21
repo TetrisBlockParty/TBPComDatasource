@@ -178,8 +178,8 @@
 | 170 | 54 | Ariel Whittington |
 | 171 | 54 | Michelle |
 | 172 | 54 | .running. |
-| 173 | 54 | Speedy Snapfall |
-| 174 | 54 | Ariel Whittington |
+| 173 | 54 | MIKOZ |
+| 174 | 54 | Speedy Snapfall |
 | 175 | 53 | Mindy Gloska |
 | 176 | 53 | Dino |
 | 177 | 53 | J.D3D.D |

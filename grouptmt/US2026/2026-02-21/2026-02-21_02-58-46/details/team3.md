@@ -74,8 +74,8 @@
 | 66 | 239 | Lush Buildout |
 | 67 | 224 | Mykal Burton |
 | 68 | 214 | Amy Fuller Heaton |
-| 69 | 210 | Zippy Strikesnap |
-| 70 | 210 | Annie Déè |
+| 69 | 210 | Annie Déè |
+| 70 | 210 | Zippy Strikesnap |
 | 71 | 207 | rnr junky |
 | 72 | 203 | Crimson |
 | 73 | 199 | joclisa |
@@ -83,8 +83,8 @@
 | 75 | 195 | Nicha Hooker |
 | 76 | 193 | Clever Shiftsnap |
 | 77 | 193 | Shunta Jacobs |
-| 78 | 192 | Jimmie Clemons |
-| 79 | 192 | Chasity |
+| 78 | 192 | Chasity |
+| 79 | 192 | Jimmie Clemons |
 | 80 | 187 | Speedy Bridger |
 | 81 | 185 | Danielle Cutler |
 | 82 | 184 | Jennie Beranek |
@@ -116,8 +116,8 @@
 | 108 | 127 | Aerian Preston |
 | 109 | 127 | Marquita Sheard |
 | 110 | 126 | Brandon Green |
-| 111 | 125 | Stephanie Simpson |
-| 112 | 125 | BŘŰŤİÇŨŚ |
+| 111 | 125 | BŘŰŤİÇŨŚ |
+| 112 | 125 | Stephanie Simpson |
 | 113 | 125 | Felicia Doxey |
 | 114 | 123 | Kristie McFarland |
 | 115 | 123 | Jone |
