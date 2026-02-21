@@ -79,8 +79,8 @@
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
 | 73 | 504 | Jay Horn |
-| 74 | 502 | Justin Ritter |
-| 75 | 502 | Joey Banks |
+| 74 | 502 | Joey Banks |
+| 75 | 502 | Justin Ritter |
 | 76 | 493 | Mandy Smith Oldham |
 | 77 | 485 | Susan Valentino |
 | 78 | 480 | Nate Burnside |
@@ -99,8 +99,8 @@
 | 91 | 408 | Patty Allen |
 | 92 | 403 | Christine Filson |
 | 93 | 402 | Stephanie Simpson |
-| 94 | 394 | Mcathen |
-| 95 | 394 | joclisa |
+| 94 | 394 | joclisa |
+| 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
 | 98 | 390 | Annie Déè |
@@ -108,8 +108,8 @@
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
-| 103 | 378 | Makelini Mausia |
-| 104 | 378 | Tasha Schriewer |
+| 103 | 378 | Tasha Schriewer |
+| 104 | 378 | Makelini Mausia |
 | 105 | 377 | Jesse Olive |
 | 106 | 372 | Jessica Bechler |
 | 107 | 368 | Stephanie Blkpep Davidson |
@@ -175,8 +175,8 @@
 | 167 | 219 | Shunta Jacobs |
 | 168 | 218 | LaNette Morgan |
 | 169 | 217 | Jess Bissett |
-| 170 | 214 | Jenny Hrndz |
-| 171 | 214 | Amy Fuller Heaton |
+| 170 | 214 | Amy Fuller Heaton |
+| 171 | 214 | Jenny Hrndz |
 | 172 | 212 | Krystal Gerstberger |
 | 173 | 211 | Khaleada McGill Banks |
 | 174 | 211 | Katrina Turner |
@@ -208,18 +208,18 @@
 | 200 | 184 | Troy |
 | 201 | 182 | Hyper Matchzone |
 | 202 | 181 | Nicholas Roddy |
-| 203 | 180 | Connie Mohler-Fair |
-| 204 | 180 | Loopy Fallmatch |
-| 205 | 179 | Daira Largen |
-| 206 | 179 | Tipsy Zonebuilder |
+| 203 | 180 | Loopy Fallmatch |
+| 204 | 180 | Connie Mohler-Fair |
+| 205 | 179 | Tipsy Zonebuilder |
+| 206 | 179 | Daira Largen |
 | 207 | 179 | Ashley Jones |
 | 208 | 178 | Ryan Williams |
 | 209 | 178 | AlsoJess |
 | 210 | 177 | Raven Dudley |
 | 211 | 177 | Trisha Balmer |
 | 212 | 176 | rosy |
-| 213 | 175 | Tasha Wesson-Torrence |
-| 214 | 175 | DanceLuvLaugh |
+| 213 | 175 | DanceLuvLaugh |
+| 214 | 175 | Tasha Wesson-Torrence |
 | 215 | 173 | Sarajane Lokan |
 | 216 | 173 | JerseyJess |
 | 217 | 172 | Grams |
@@ -251,10 +251,10 @@
 | 243 | 152 | Lesley Perez |
 | 244 | 152 | Shiny Zonebuilder |
 | 245 | 150 | Valerie Gendron |
-| 246 | 149 | Alexis Taylor |
-| 247 | 149 | Peachy Rollfit |
-| 248 | 149 | Angel Mendez |
-| 249 | 148 | Wetwet |
+| 246 | 149 | Peachy Rollfit |
+| 247 | 149 | Angel Mendez |
+| 248 | 149 | Alexis Taylor |
+| 249 | 148 | Jennifer Alvey |
 | 250 | 148 | Gumbo |
 | 251 | 148 | Wetwet |
 | 252 | 147 | Ashley Lynn Marchese |
@@ -276,8 +276,8 @@
 | 268 | 139 | Funky Jumper |
 | 269 | 138 | Boldy Corner |
 | 270 | 137 | Cesar Barraza |
-| 271 | 136 | Rachel |
-| 272 | 136 | Sabrina Mansfield |
+| 271 | 136 | Sabrina Mansfield |
+| 272 | 136 | Rachel |
 | 273 | 135 | Skinny Baldez |
 | 274 | 135 | Terry Jo Jones |
 | 275 | 134 | Kristian Thurman |

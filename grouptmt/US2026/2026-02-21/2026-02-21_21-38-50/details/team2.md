@@ -302,8 +302,8 @@
 | 294 | 447 | Maegan Beaule |
 | 295 | 447 | Lourisha |
 | 296 | 445 | Mar Q Thomas |
-| 297 | 442 | Leah |
-| 298 | 442 | Daphne Jordan |
+| 297 | 442 | Daphne Jordan |
+| 298 | 442 | Leah |
 | 299 | 442 | Joshua Mandel |
 | 300 | 440 | Liberty |
 | 301 | 439 | Alisa Lamb |
@@ -628,8 +628,8 @@
 | 620 | 226 | Cassie Newton |
 | 621 | 226 | Jodi Mitnick |
 | 622 | 226 | Christina Wsn |
-| 623 | 225 | Meganator42 |
-| 624 | 225 | BK Queen |
+| 623 | 225 | BK Queen |
+| 624 | 225 | Meganator42 |
 | 625 | 225 | Blacc Blac |
 | 626 | 225 | Stanley Vanekelenburg |
 | 627 | 223 | Jess Morrison |

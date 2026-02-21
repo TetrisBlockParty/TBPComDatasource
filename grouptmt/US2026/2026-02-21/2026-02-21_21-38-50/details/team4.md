@@ -68,8 +68,8 @@
 | 60 | 395 | Christine Marie |
 | 61 | 390 | Carlton Unfiltered |
 | 62 | 388 | YoMomma |
-| 63 | 376 | quicksand420 |
-| 64 | 376 | Marie-Pier Desjardins |
+| 63 | 376 | Marie-Pier Desjardins |
+| 64 | 376 | quicksand420 |
 | 65 | 370 | Leslie Thomas |
 | 66 | 369 | Nope Young |
 | 67 | 367 | Joseph Guthrie |
@@ -137,8 +137,8 @@
 | 129 | 176 | Stacey Stano |
 | 130 | 176 | Klo |
 | 131 | 174 | shark tato |
-| 132 | 174 | Dihcheese444 |
-| 133 | 174 | Zethra Prenisha Rahming |
+| 132 | 174 | Zethra Prenisha Rahming |
+| 133 | 174 | Dihcheese444 |
 | 134 | 173 | Twisty Cascadezone |
 | 135 | 173 | blockstar |
 | 136 | 173 | Ren Mc |
@@ -165,8 +165,8 @@
 | 157 | 141 | ĥuf |
 | 158 | 141 | Malakai Darien Fox |
 | 159 | 141 | Kathy Allen |
-| 160 | 140 | Shannon Ferrari |
-| 161 | 140 | John Brunetti |
+| 160 | 140 | John Brunetti |
+| 161 | 140 | Shannon Ferrari |
 | 162 | 137 | PeaceOs |
 | 163 | 136 | Tanner Lund |
 | 164 | 136 | Sarah Brown |
