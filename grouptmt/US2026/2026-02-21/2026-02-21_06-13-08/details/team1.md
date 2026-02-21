@@ -81,8 +81,8 @@
 | 73 | 149 | Tana |
 | 74 | 148 | Jessie Lynn |
 | 75 | 147 | Veronica Eve |
-| 76 | 145 | Lachelle Dillon |
-| 77 | 145 | BigWeenie69 |
+| 76 | 145 | BigWeenie69 |
+| 77 | 145 | Lachelle Dillon |
 | 78 | 144 | femmefatale |
 | 79 | 144 | Plucky Ziggy |
 | 80 | 144 | Tanya Carpenter-Reynolds |
@@ -121,8 +121,8 @@
 | 113 | 103 | Adryane Schnase |
 | 114 | 102 | Jennifer ManWarren |
 | 115 | 100 | Tami Luce Martin |
-| 116 | 99 | Melissa Bires Hussar |
-| 117 | 99 | Aimee Horton |
+| 116 | 99 | Aimee Horton |
+| 117 | 99 | Melissa Bires Hussar |
 | 118 | 99 | Ty Brown |
 | 119 | 96 | Melissa Lemmon |
 | 120 | 96 | Nery Martinez |
@@ -217,7 +217,7 @@
 | 209 | 60 | Jason Cox |
 | 210 | 59 | Shauna Loe |
 | 211 | 59 | Tasha McCormack |
-| 212 | 59 | Shauna Loe |
+| 212 | 59 | Dino |
 | 213 | 59 | Mel Hogan |
 | 214 | 59 | Jennifer Duttry |
 | 215 | 58 | DoodleBug |

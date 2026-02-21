@@ -158,8 +158,8 @@
 | 150 | 409 | Sparkles |
 | 151 | 406 | Erin StFrancis |
 | 152 | 401 | Poppy Snap |
-| 153 | 400 | Crystie Hicks |
-| 154 | 400 | Tammy Allen |
+| 153 | 400 | Tammy Allen |
+| 154 | 400 | Crystie Hicks |
 | 155 | 397 | Ashley Guernsey-Martin |
 | 156 | 391 | Chilly Bridgepiece |
 | 157 | 391 | Steven Marshaun |
@@ -191,8 +191,8 @@
 | 183 | 337 | Joseph Musick |
 | 184 | 336 | Tralonda Weeks |
 | 185 | 334 | Missie Lawson Gebhardt |
-| 186 | 334 | Nashu |
-| 187 | 334 | Moni Foxe |
+| 186 | 334 | Moni Foxe |
+| 187 | 334 | Nashu |
 | 188 | 332 | TF Dyer |
 | 189 | 331 | Brave Dropmatch |
 | 190 | 330 | Victoria Moore-Smith |

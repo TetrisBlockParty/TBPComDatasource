@@ -36,8 +36,8 @@
 | 28 | 613 | Amber Hughes |
 | 29 | 608 | River |
 | 30 | 598 | Jennifer Willis |
-| 31 | 587 | Danielle Becker |
-| 32 | 587 | Suzieq |
+| 31 | 587 | Suzieq |
+| 32 | 587 | Danielle Becker |
 | 33 | 568 | Shonna Roberts |
 | 34 | 546 | Snappy Glidepiece |
 | 35 | 546 | Dolores Falco |
@@ -107,8 +107,8 @@
 | 99 | 195 | Jenny Hrndz |
 | 100 | 195 | Nicha Hooker |
 | 101 | 194 | glichmod |
-| 102 | 193 | Shunta Jacobs |
-| 103 | 193 | Clever Shiftsnap |
+| 102 | 193 | Clever Shiftsnap |
+| 103 | 193 | Shunta Jacobs |
 | 104 | 192 | Chasity |
 | 105 | 187 | Speedy Bridger |
 | 106 | 184 | Jennie Beranek |
@@ -167,7 +167,7 @@
 | 159 | 121 | Boldy Corner |
 | 160 | 121 | Juliana Dottore |
 | 161 | 121 | Danielle Allison |
-| 162 | 121 | Boldy Corner |
+| 162 | 121 | Michael Latasha Gray |
 | 163 | 120 | Jessica |
 | 164 | 118 | Fancy Curver |
 | 165 | 116 | Joy Petroski |
