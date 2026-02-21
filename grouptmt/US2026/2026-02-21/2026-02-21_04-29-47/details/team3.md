@@ -35,8 +35,8 @@
 | 27 | 587 | Suzieq |
 | 28 | 578 | Jennifer Willis |
 | 29 | 568 | Shonna Roberts |
-| 30 | 546 | Snappy Glidepiece |
-| 31 | 546 | Dolores Falco |
+| 30 | 546 | Dolores Falco |
+| 31 | 546 | Snappy Glidepiece |
 | 32 | 541 | MissTaylor |
 | 33 | 533 | Sarah Fehring |
 | 34 | 528 | Natasha Jones |
@@ -107,8 +107,8 @@
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
 | 101 | 164 | rosy |
-| 102 | 159 | Jone |
-| 103 | 159 | Morgan Martinez |
+| 102 | 159 | Morgan Martinez |
+| 103 | 159 | Jone |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
 | 106 | 155 | Shannon Matthew Byers |
@@ -257,10 +257,10 @@
 | 249 | 72 | Christian Luna |
 | 250 | 72 | Danielle Balcom |
 | 251 | 72 | Jess Reppert |
-| 252 | 71 | AlsoJess |
-| 253 | 71 | Snazzy Filler |
-| 254 | 71 | LaKisha Legrone |
-| 255 | 71 | Gimmegimmebeer |
+| 252 | 71 | Gimmegimmebeer |
+| 253 | 71 | LaKisha Legrone |
+| 254 | 71 | AlsoJess |
+| 255 | 71 | Snazzy Filler |
 | 256 | 70 | Leticia Lynn Lowe |
 | 257 | 70 | Willow |
 | 258 | 69 | Jen Lewis |
