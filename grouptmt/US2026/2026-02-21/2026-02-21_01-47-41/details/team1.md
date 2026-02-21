@@ -32,12 +32,12 @@
 | 24 | 204 | Ly Phethmany |
 | 25 | 203 | Elaine Elaine |
 | 26 | 201 | Anaid Sanchez |
-| 27 | 200 | Jennifer Cates |
-| 28 | 200 | Lexuriuos Lifestlye |
+| 27 | 200 | Lexuriuos Lifestlye |
+| 28 | 200 | Jennifer Cates |
 | 29 | 194 | Sharon Reynolds |
 | 30 | 192 | Mandyy Rae |
-| 31 | 190 | Sweetts |
-| 32 | 190 | Thorne Shumate |
+| 31 | 190 | Thorne Shumate |
+| 32 | 190 | Sweetts |
 | 33 | 189 | Happy Basegrid |
 | 34 | 187 | Dee Perry |
 | 35 | 185 | Karin Gillen |
@@ -50,10 +50,10 @@
 | 42 | 146 | Abbey Crespo |
 | 43 | 145 | BigWeenie69 |
 | 44 | 145 | Lachelle Dillon |
-| 45 | 144 | Plucky Ziggy |
-| 46 | 144 | Tana |
-| 47 | 144 | Tanya Carpenter-Reynolds |
-| 48 | 144 | Jessie Lynn |
+| 45 | 144 | Tanya Carpenter-Reynolds |
+| 46 | 144 | Jessie Lynn |
+| 47 | 144 | Tana |
+| 48 | 144 | Plucky Ziggy |
 | 49 | 143 | Veronica Eve |
 | 50 | 141 | Susanna Guerry |
 | 51 | 137 | Nadine Velardo |
@@ -70,9 +70,9 @@
 | 62 | 114 | Colleen Wise |
 | 63 | 112 | Miguel Teixeira |
 | 64 | 112 | Nicole Roseberry Weber |
-| 65 | 110 | Garcia Bailey |
-| 66 | 110 | Heidi Feurer |
-| 67 | 110 | Robert Beck |
+| 65 | 110 | Robert Beck |
+| 66 | 110 | Garcia Bailey |
+| 67 | 110 | Heidi Feurer |
 | 68 | 109 | Dandy Basegrid |
 | 69 | 108 | Tavia |
 | 70 | 105 | Barry Mac'Ockner |
@@ -86,8 +86,8 @@
 | 78 | 95 | Gary Gobin |
 | 79 | 94 | Bindi |
 | 80 | 94 | Bhelle Sumile |
-| 81 | 93 | Ty Brown |
-| 82 | 93 | Adryane Schnase |
+| 81 | 93 | Adryane Schnase |
+| 82 | 93 | Ty Brown |
 | 83 | 91 | Melissa Lemmon |
 | 84 | 91 | Spunky Piecebuilder |
 | 85 | 90 | Madison Wicks |
@@ -114,8 +114,8 @@
 | 106 | 75 | Fresno Beotoni |
 | 107 | 74 | Grace Joanne Agnant |
 | 108 | 74 | Robert Benito |
-| 109 | 73 | Loony Fitzone |
-| 110 | 73 | Witty Builderfit |
+| 109 | 73 | Witty Builderfit |
+| 110 | 73 | Loony Fitzone |
 | 111 | 72 | Tipsy Strikerpiece |
 | 112 | 71 | John Kim |
 | 113 | 71 | Steve Schneider |

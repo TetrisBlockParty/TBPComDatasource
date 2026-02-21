@@ -60,15 +60,15 @@
 | 52 | 248 | Shari Garber |
 | 53 | 240 | Nerdy Riseclear |
 | 54 | 239 | Lush Buildout |
-| 55 | 216 | Jennifer Willis |
-| 56 | 216 | Delilah belle |
+| 55 | 216 | Delilah belle |
+| 56 | 216 | Jennifer Willis |
 | 57 | 214 | Amy Fuller Heaton |
 | 58 | 210 | Zippy Strikesnap |
 | 59 | 210 | Fancy Slam |
 | 60 | 207 | rnr junky |
 | 61 | 203 | Crimson |
-| 62 | 193 | Clever Shiftsnap |
-| 63 | 193 | Shunta Jacobs |
+| 62 | 193 | Shunta Jacobs |
+| 63 | 193 | Clever Shiftsnap |
 | 64 | 187 | Speedy Bridger |
 | 65 | 185 | Danielle Cutler |
 | 66 | 184 | Mykal Burton |

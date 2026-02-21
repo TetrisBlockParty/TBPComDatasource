@@ -151,8 +151,8 @@
 | 143 | 286 | Ryan Gunther |
 | 144 | 285 | June E Hanson |
 | 145 | 284 | Brittney Jean |
-| 146 | 280 | Joseph Musick |
-| 147 | 280 | Kimberly Schall |
+| 146 | 280 | Kimberly Schall |
+| 147 | 280 | Joseph Musick |
 | 148 | 280 | TF Dyer |
 | 149 | 278 | Noel Tarmy |
 | 150 | 274 | Melissa Holsinger |
@@ -160,8 +160,8 @@
 | 152 | 271 | Toni Lynn |
 | 153 | 268 | Lonne Emade |
 | 154 | 268 | Vanessa Moreno |
-| 155 | 266 | Mighty Shatterfit |
-| 156 | 266 | Autumn Schaeffer |
+| 155 | 266 | Autumn Schaeffer |
+| 156 | 266 | Mighty Shatterfit |
 | 157 | 266 | Joyce Johnson Vaughn |
 | 158 | 265 | Wuntayk |
 | 159 | 263 | Oscar Bernie |
@@ -170,8 +170,8 @@
 | 162 | 261 | MrsClaudette Will'sIam Matthews |
 | 163 | 257 | Alex Hill |
 | 164 | 256 | Dapper Dasher |
-| 165 | 255 | Michelle Pike |
-| 166 | 255 | Santana Miyagi |
+| 165 | 255 | Santana Miyagi |
+| 166 | 255 | Michelle Pike |
 | 167 | 254 | Libby Hicks |
 | 168 | 252 | Alezandra Smith |
 | 169 | 251 | Shameika Trail |
