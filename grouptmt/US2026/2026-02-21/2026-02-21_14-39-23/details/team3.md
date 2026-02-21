@@ -177,9 +177,9 @@
 | 169 | 163 | Stephanie Hill |
 | 170 | 161 | BŘŰŤİÇŨŚ |
 | 171 | 160 | Tiffany Davie |
-| 172 | 159 | Morgan Martinez |
+| 172 | 159 | Stephanie Whitefield |
 | 173 | 159 | Jone |
-| 174 | 159 | Stephanie Whitefield |
+| 174 | 159 | Morgan Martinez |
 | 175 | 158 | Grams |
 | 176 | 157 | Nicholas Roddy |
 | 177 | 157 | Patricia Gadsden |
