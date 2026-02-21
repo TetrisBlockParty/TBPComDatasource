@@ -92,8 +92,8 @@
 | 84 | 674 | Dannette Goldberg-Richards |
 | 85 | 672 | Wendy Harder Gage |
 | 86 | 665 | Dineisha Carpenter |
-| 87 | 658 | Pacynthia Williams |
-| 88 | 658 | Vistabrat |
+| 87 | 658 | Vistabrat |
+| 88 | 658 | Pacynthia Williams |
 | 89 | 653 | Becky Weeks-Garry |
 | 90 | 649 | Stephanie Chapman |
 | 91 | 649 | Anna Edwards |
@@ -116,8 +116,8 @@
 | 108 | 545 | Brittany Alicia |
 | 109 | 542 | Rosa Franklin |
 | 110 | 541 | SaraMarie Eveland |
-| 111 | 540 | Charvi' Carter |
-| 112 | 540 | YiFei |
+| 111 | 540 | YiFei |
+| 112 | 540 | Charvi' Carter |
 | 113 | 534 | Poppy Snapper |
 | 114 | 531 | Chris Wanner |
 | 115 | 529 | Tonya Morgan |

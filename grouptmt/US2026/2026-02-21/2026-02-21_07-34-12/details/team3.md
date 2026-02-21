@@ -31,16 +31,16 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 613 | Amber Hughes |
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
 | 37 | 546 | Snappy Glidepiece |
 | 38 | 546 | Dolores Falco |
@@ -81,8 +81,8 @@
 | 73 | 322 | Michelle |
 | 74 | 320 | Or Reznitsky |
 | 75 | 316 | Fancy Cascader |
-| 76 | 309 | Rich LeBlanc |
-| 77 | 309 | CeceGeGe |
+| 76 | 309 | CeceGeGe |
+| 77 | 309 | Rich LeBlanc |
 | 78 | 307 | Peggi Charon |
 | 79 | 304 | Tasha Schriewer |
 | 80 | 300 | Sherika C. McDaniels |
@@ -123,15 +123,15 @@
 | 115 | 191 | Scott Carleton |
 | 116 | 187 | Katrina Schroeder |
 | 117 | 184 | Jennie Beranek |
-| 118 | 182 | Hyper Matchzone |
-| 119 | 182 | Ashley Tookes |
+| 118 | 182 | Ashley Tookes |
+| 119 | 182 | Hyper Matchzone |
 | 120 | 180 | Tessina Dewey-Mancino |
 | 121 | 180 | Fallorina Susana |
 | 122 | 179 | Daira Largen |
 | 123 | 178 | Khaleada McGill Banks |
 | 124 | 176 | Ryan Williams |
-| 125 | 166 | Danielle Mogg |
-| 126 | 166 | Kelly Ann Child |
+| 125 | 166 | Kelly Ann Child |
+| 126 | 166 | Danielle Mogg |
 | 127 | 164 | rosy |
 | 128 | 163 | Karon Griffin |
 | 129 | 159 | Morgan Martinez |
@@ -158,8 +158,8 @@
 | 150 | 140 | Gumbo |
 | 151 | 135 | Cheryl Hinch Tenbrook |
 | 152 | 135 | Nicole Flippo |
-| 153 | 134 | Emma |
-| 154 | 134 | DanceLuvLaugh |
+| 153 | 134 | DanceLuvLaugh |
+| 154 | 134 | Emma |
 | 155 | 131 | Jl |
 | 156 | 129 | Stephanie Burtin |
 | 157 | 127 | Marquita Sheard |
