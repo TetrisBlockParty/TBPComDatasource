@@ -382,14 +382,14 @@
 | 374 | 369 | AkaLefty |
 | 375 | 369 | Tara Lynn Janes |
 | 376 | 369 | Victoria Moore-Smith |
-| 377 | 369 | Tara Lynn Janes |
+| 377 | 369 | Tony Lea |
 | 378 | 367 | Deyawn Smith |
 | 379 | 365 | Audrey Jones |
-| 380 | 365 | Kayla |
-| 381 | 365 | Christina Lewis-Vickers |
-| 382 | 364 | Julie Kresal |
+| 380 | 365 | Christina Lewis-Vickers |
+| 381 | 365 | Kayla |
+| 382 | 364 | Lively Edgepiece |
 | 383 | 364 | Shinette Dobson |
-| 384 | 364 | Lively Edgepiece |
+| 384 | 364 | Julie Kresal |
 | 385 | 363 | Happy Caster |
 | 386 | 362 | Tracy Wise |
 | 387 | 360 | Brenda Messer |
@@ -735,8 +735,8 @@
 | 727 | 197 | Kati Russeau |
 | 728 | 197 | Sarah Dean |
 | 729 | 197 | Karyn Yurcho Dooley |
-| 730 | 196 | Boldy Block |
-| 731 | 196 | Regina Unruh |
+| 730 | 196 | Regina Unruh |
+| 731 | 196 | Boldy Block |
 | 732 | 196 | Crafty Brickline |
 | 733 | 195 | Wakanda Forever |
 | 734 | 195 | Samantha Scibelli |
@@ -751,9 +751,9 @@
 | 743 | 193 | Giggy Grabber |
 | 744 | 193 | Seth Wrieden |
 | 745 | 193 | D5wag2014 |
-| 746 | 193 | Johanna Massaro |
-| 747 | 193 | TJ Nash |
-| 748 | 193 | Kelly Ann McCormick |
+| 746 | 193 | TJ Nash |
+| 747 | 193 | Kelly Ann McCormick |
+| 748 | 193 | Johanna Massaro |
 | 749 | 192 | Beth Decker |
 | 750 | 192 | Leroy Jenkins |
 | 751 | 192 | Snippy Rumbler |

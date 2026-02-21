@@ -146,8 +146,8 @@
 | 138 | 173 | blockstar |
 | 139 | 171 | Diana Houts |
 | 140 | 170 | Amy Suckarieh |
-| 141 | 164 | 030Synner |
-| 142 | 164 | ThaEviLJeNiuZ |
+| 141 | 164 | ThaEviLJeNiuZ |
+| 142 | 164 | 030Synner |
 | 143 | 160 | ZeeZee |
 | 144 | 156 | Jessica Bohlken |
 | 145 | 156 | Holly |
@@ -167,8 +167,8 @@
 | 159 | 141 | ĥuf |
 | 160 | 141 | Kathy Allen |
 | 161 | 140 | Shannon Ferrari |
-| 162 | 140 | John Brunetti |
-| 163 | 140 | Stephme310 |
+| 162 | 140 | Stephme310 |
+| 163 | 140 | John Brunetti |
 | 164 | 137 | PeaceOs |
 | 165 | 136 | Tanner Lund |
 | 166 | 136 | Sarah Brown |
@@ -255,7 +255,7 @@
 | 247 | 100 | Jacob Richard |
 | 248 | 100 | Blessedmama |
 | 249 | 100 | Maureen Flanigan |
-| 250 | 100 | Blessedmama |
+| 250 | 100 | Jennifer Perkins |
 | 251 | 99 | Michael Orris |
 | 252 | 98 | Groovy Gridlock |
 | 253 | 98 | Sam Bishop |
@@ -349,8 +349,8 @@
 | 341 | 73 | Rheanda Weaskus |
 | 342 | 73 | Jacob Campbell |
 | 343 | 72 | Angel Raya |
-| 344 | 72 | Raegan Lane-Ross |
-| 345 | 72 | Brave Spinbuilder |
+| 344 | 72 | Brave Spinbuilder |
+| 345 | 72 | Raegan Lane-Ross |
 | 346 | 72 | Orchislactea |
 | 347 | 72 | Jackson Karen |
 | 348 | 71 | Speedy Wipeblock |

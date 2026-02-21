@@ -27,8 +27,8 @@
 | 19 | 827 | Alexis Cor |
 | 20 | 792 | LaQuetta Faith Hines |
 | 21 | 779 | Andrea Dañielle Ortiz |
-| 22 | 770 | Zappy Curvetile |
-| 23 | 770 | Adryane Schnase |
+| 22 | 770 | Adryane Schnase |
+| 23 | 770 | Zappy Curvetile |
 | 24 | 699 | Josie Kirt |
 | 25 | 685 | Jorge Andrade |
 | 26 | 683 | Chipper Gridlock |
@@ -131,8 +131,8 @@
 | 123 | 193 | Lachelle Dillon |
 | 124 | 192 | Shaykmia |
 | 125 | 191 | Diane Byrd |
-| 126 | 190 | Thorne Shumate |
-| 127 | 190 | Sweetts |
+| 126 | 190 | Sweetts |
+| 127 | 190 | Thorne Shumate |
 | 128 | 188 | Sam Williams |
 | 129 | 187 | Snippy Wipebuilder |
 | 130 | 186 | Jennifer Olewnik Soborowski |
@@ -184,8 +184,8 @@
 | 176 | 142 | Colleen Wise |
 | 177 | 141 | Blaire Bruckoff |
 | 178 | 140 | Miguel Teixeira |
-| 179 | 139 | Jenny Gingrich Fuentes |
-| 180 | 139 | Flashy Rotator |
+| 179 | 139 | Flashy Rotator |
+| 180 | 139 | Jenny Gingrich Fuentes |
 | 181 | 138 | Death |
 | 182 | 137 | Cody Gates |
 | 183 | 136 | Dino |
@@ -198,13 +198,13 @@
 | 190 | 133 | Kimberly Garcia |
 | 191 | 133 | Mel Hogan |
 | 192 | 132 | Tipsy Riseclear |
-| 193 | 131 | Uhog SF |
-| 194 | 131 | Fmp |
+| 193 | 131 | Fmp |
+| 194 | 131 | Uhog SF |
 | 195 | 130 | Gilbert Ortiz Jr. |
 | 196 | 130 | LD1 |
-| 197 | 128 | Barry Mac'Ockner |
-| 198 | 128 | lil mickey |
-| 199 | 128 | Layzietyme |
+| 197 | 128 | lil mickey |
+| 198 | 128 | Layzietyme |
+| 199 | 128 | Barry Mac'Ockner |
 | 200 | 126 | Tami Luce Martin |
 | 201 | 125 | Larry Tilton |
 | 202 | 123 | MRdot Rooski |

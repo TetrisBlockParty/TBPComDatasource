@@ -128,8 +128,8 @@
 | 120 | 332 | Chauntee Alfrey-Cardinale |
 | 121 | 327 | Dapper Snap |
 | 122 | 324 | Fancy Cascader |
-| 123 | 323 | Sherry Ogden |
-| 124 | 323 | Ashley Raines |
+| 123 | 323 | Ashley Raines |
+| 124 | 323 | Sherry Ogden |
 | 125 | 320 | Or Reznitsky |
 | 126 | 314 | Aaron Pitkin |
 | 127 | 309 | Rich LeBlanc |
