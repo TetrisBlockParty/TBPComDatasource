@@ -99,8 +99,8 @@
 | 91 | 193 | Lachelle Dillon |
 | 92 | 192 | Shaykmia |
 | 93 | 191 | Diane Byrd |
-| 94 | 190 | Sweetts |
-| 95 | 190 | Thorne Shumate |
+| 94 | 190 | Thorne Shumate |
+| 95 | 190 | Sweetts |
 | 96 | 189 | Happy Basegrid |
 | 97 | 186 | Jennifer Olewnik Soborowski |
 | 98 | 185 | Ash Galvan |
@@ -129,9 +129,9 @@
 | 121 | 149 | Jennifer ManWarren |
 | 122 | 148 | Shauntina Burke |
 | 123 | 147 | Timothy Dew |
-| 124 | 146 | Dandy Basegrid |
-| 125 | 146 | Irual Hctrab |
-| 126 | 146 | Christy Jones |
+| 124 | 146 | Christy Jones |
+| 125 | 146 | Dandy Basegrid |
+| 126 | 146 | Irual Hctrab |
 | 127 | 145 | BigWeenie69 |
 | 128 | 145 | Angela Fairbank |
 | 129 | 144 | femmefatale |
@@ -142,9 +142,9 @@
 | 134 | 142 | Colleen Wise |
 | 135 | 141 | Blaire Bruckoff |
 | 136 | 140 | Miguel Teixeira |
-| 137 | 138 | Death |
+| 137 | 138 | Cranky Pattern |
 | 138 | 138 | Gary Gobin |
-| 139 | 138 | Cranky Pattern |
+| 139 | 138 | Death |
 | 140 | 137 | Nadine Velardo |
 | 141 | 135 | Giddy Cascade |
 | 142 | 135 | Cody Slav |

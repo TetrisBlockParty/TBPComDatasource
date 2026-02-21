@@ -114,8 +114,8 @@
 | 106 | 309 | CeceGeGe |
 | 107 | 307 | Blocked |
 | 108 | 307 | Peggi Charon |
-| 109 | 300 | Sherika C. McDaniels |
-| 110 | 300 | Tessina Dewey-Mancino |
+| 109 | 300 | Tessina Dewey-Mancino |
+| 110 | 300 | Sherika C. McDaniels |
 | 111 | 293 | Poppy Splitter |
 | 112 | 284 | Jay Horn |
 | 113 | 277 | Logan Naccarato |
@@ -283,16 +283,16 @@
 | 275 | 107 | Melissa Snyder |
 | 276 | 107 | Jumpy Wrecker |
 | 277 | 107 | Bouncy Blockbuilder |
-| 278 | 106 | Elizabeth Renee |
-| 279 | 106 | Cheeky Snapper |
+| 278 | 106 | Cheeky Snapper |
+| 279 | 106 | Elizabeth Renee |
 | 280 | 106 | Noettín Kan Zasnemoore |
 | 281 | 105 | Donna |
 | 282 | 105 | Boldy Blocker |
 | 283 | 105 | Emi |
 | 284 | 104 | Samantha Lynn |
-| 285 | 104 | bean |
+| 285 | 104 | Sarah Moyer |
 | 286 | 104 | Ashley Rufus Bythcez |
-| 287 | 104 | Sarah Moyer |
+| 287 | 104 | bean |
 | 288 | 103 | Kate Farok |
 | 289 | 103 | Lisa Lisa |
 | 290 | 103 | Andrew Thorson |

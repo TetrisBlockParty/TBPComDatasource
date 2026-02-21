@@ -26,8 +26,8 @@
 | 18 | 636 | Rachel Anne |
 | 19 | 625 | GreenJeepGirl |
 | 20 | 608 | Denny Shives |
-| 21 | 590 | Dee Kay |
-| 22 | 590 | Valerie Roberts |
+| 21 | 590 | Valerie Roberts |
+| 22 | 590 | Dee Kay |
 | 23 | 589 | Chilly Line |
 | 24 | 580 | Kimyatta Cavin |
 | 25 | 541 | Rebecca Moulton Pinciaro |
@@ -94,8 +94,8 @@
 | 86 | 198 | Mike Solo |
 | 87 | 198 | Dustee Craddock-Harrison |
 | 88 | 197 | Joeliecea Cobb |
-| 89 | 194 | Zany Twisterfit |
-| 90 | 194 | Calvin Cannon |
+| 89 | 194 | Calvin Cannon |
+| 90 | 194 | Zany Twisterfit |
 | 91 | 191 | loulou |
 | 92 | 191 | Melvin Baird |
 | 93 | 189 | Calvin Dennis |
@@ -103,8 +103,8 @@
 | 95 | 186 | Jeff Brian Gates |
 | 96 | 185 | Andy Cabral |
 | 97 | 181 | Carter Jones |
-| 98 | 180 | Leah Kutz Zirbel |
-| 99 | 180 | Leslie Nicole |
+| 98 | 180 | Leslie Nicole |
+| 99 | 180 | Leah Kutz Zirbel |
 | 100 | 179 | Epic Curvetile |
 | 101 | 178 | Lori |
 | 102 | 177 | Andria Lynn |
@@ -122,8 +122,8 @@
 | 114 | 156 | Holly |
 | 115 | 153 | Empress Oasis |
 | 116 | 152 | Jessica Bohlken |
-| 117 | 151 | Dana Scott |
-| 118 | 151 | Bethany Ison |
+| 117 | 151 | Bethany Ison |
+| 118 | 151 | Dana Scott |
 | 119 | 148 | Janita Parrish |
 | 120 | 148 | Brittany Marsh |
 | 121 | 147 | Jay28 |
@@ -163,11 +163,11 @@
 | 155 | 121 | Smiley Tiltbuilder |
 | 156 | 121 | Megan Cutshaw |
 | 157 | 120 | Joshua Guess |
-| 158 | 119 | Gwendolyn Pitcairn |
-| 159 | 119 | Kristin Manee |
+| 158 | 119 | Kristin Manee |
+| 159 | 119 | Gwendolyn Pitcairn |
 | 160 | 116 | Diana Houts |
-| 161 | 115 | Jayk |
-| 162 | 115 | Ultramarine |
+| 161 | 115 | Ultramarine |
+| 162 | 115 | Jayk |
 | 163 | 114 | Jackie Marie |
 | 164 | 113 | Adam Randall |
 | 165 | 112 | Austin Owens |

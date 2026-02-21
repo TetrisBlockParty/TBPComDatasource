@@ -135,8 +135,8 @@
 | 127 | 700 | Beverly Owens |
 | 128 | 698 | Lola Contreras |
 | 129 | 697 | Real Ri |
-| 130 | 694 | Vo'Landa Reels |
-| 131 | 694 | Nancy Reid |
+| 130 | 694 | Nancy Reid |
+| 131 | 694 | Vo'Landa Reels |
 | 132 | 688 | Dreamy Blast |
 | 133 | 679 | Gold Rose |
 | 134 | 674 | Dannette Goldberg-Richards |
