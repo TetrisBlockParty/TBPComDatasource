@@ -80,8 +80,8 @@
 | 72 | 353 | Stephanie Woods |
 | 73 | 346 | Shannon Matthew Byers |
 | 74 | 345 | Christine Niles |
-| 75 | 342 | Annie Déè |
-| 76 | 342 | Trezure Gonzalez |
+| 75 | 342 | Trezure Gonzalez |
+| 76 | 342 | Annie Déè |
 | 77 | 338 | Danielle Rhoades |
 | 78 | 332 | Chauntee Alfrey-Cardinale |
 | 79 | 325 | Shari Garber |
@@ -135,12 +135,12 @@
 | 127 | 190 | Nicole Flippo |
 | 128 | 189 | Fallorina Susana |
 | 129 | 184 | Jennie Beranek |
-| 130 | 182 | Hyper Matchzone |
-| 131 | 182 | Ashley Tookes |
+| 130 | 182 | Ashley Tookes |
+| 131 | 182 | Hyper Matchzone |
 | 132 | 180 | Tessina Dewey-Mancino |
 | 133 | 179 | Daira Largen |
-| 134 | 178 | AlsoJess |
-| 135 | 178 | Khaleada McGill Banks |
+| 134 | 178 | Khaleada McGill Banks |
+| 135 | 178 | AlsoJess |
 | 136 | 176 | Ryan Williams |
 | 137 | 167 | Raven Dudley |
 | 138 | 166 | Betty Rosas |
@@ -462,8 +462,8 @@
 | 454 | 56 | Ernest Holloway |
 | 455 | 56 | Christine Vosburgh |
 | 456 | 56 | Robert Sibigtroth |
-| 457 | 56 | Heather De Vries Cobb |
-| 458 | 56 | Tracy Marino |
+| 457 | 56 | Tracy Marino |
+| 458 | 56 | Heather De Vries Cobb |
 | 459 | 56 | Lisa Ann |
 | 460 | 56 | Stormy Anguish |
 | 461 | 56 | Dakota Lee DeMarrias |

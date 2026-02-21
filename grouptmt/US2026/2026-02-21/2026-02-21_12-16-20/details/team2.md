@@ -222,8 +222,8 @@
 | 214 | 378 | Cody Nishimura |
 | 215 | 377 | Roy Salyer |
 | 216 | 366 | Wuntayk |
-| 217 | 364 | Shinette Dobson |
-| 218 | 364 | Brandon Armstrong |
+| 217 | 364 | Brandon Armstrong |
+| 218 | 364 | Shinette Dobson |
 | 219 | 363 | William Meussner |
 | 220 | 362 | AkaLefty |
 | 221 | 359 | Brainy Smurf |

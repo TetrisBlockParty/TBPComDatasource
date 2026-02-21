@@ -116,8 +116,8 @@
 | 108 | 132 | Degenerate |
 | 109 | 132 | Melissa Priest Sellers |
 | 110 | 131 | Mr. Party |
-| 111 | 130 | Casey Jeffcoat |
-| 112 | 130 | Lucas J Sutton |
+| 111 | 130 | Lucas J Sutton |
+| 112 | 130 | Casey Jeffcoat |
 | 113 | 129 | John Brunetti |
 | 114 | 129 | Landon Keith Graffeo |
 | 115 | 128 | Rio Rocha |
