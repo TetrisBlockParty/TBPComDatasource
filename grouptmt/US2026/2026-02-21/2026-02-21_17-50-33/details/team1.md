@@ -147,14 +147,14 @@
 | 139 | 145 | BigWeenie69 |
 | 140 | 145 | Agustin Duarte Orozco |
 | 141 | 144 | femmefatale |
-| 142 | 144 | Gary Gobin |
-| 143 | 144 | Plucky Ziggy |
+| 142 | 144 | Plucky Ziggy |
+| 143 | 144 | Gary Gobin |
 | 144 | 143 | Sarah Marie |
 | 145 | 142 | Colleen Wise |
 | 146 | 141 | Blaire Bruckoff |
 | 147 | 140 | Miguel Teixeira |
-| 148 | 138 | Death |
-| 149 | 138 | Cranky Pattern |
+| 148 | 138 | Cranky Pattern |
+| 149 | 138 | Death |
 | 150 | 137 | Nadine Velardo |
 | 151 | 136 | Dino |
 | 152 | 135 | Giddy Cascade |
@@ -178,8 +178,8 @@
 | 170 | 124 | Witty Builderfit |
 | 171 | 124 | Flashy Rotator |
 | 172 | 124 | Cartier |
-| 173 | 122 | Melissa Lemmon |
-| 174 | 122 | Margo Wagner |
+| 173 | 122 | Margo Wagner |
+| 174 | 122 | Melissa Lemmon |
 | 175 | 121 | April Carroll |
 | 176 | 120 | Alenoush Karimian |
 | 177 | 120 | Kimmie Kimms |

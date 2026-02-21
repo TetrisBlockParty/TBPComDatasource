@@ -91,16 +91,16 @@
 | 83 | 205 | Sarah Neathery |
 | 84 | 204 | Brittney Orengo |
 | 85 | 201 | shar |
-| 86 | 200 | Monica Daley |
-| 87 | 200 | Holly Jolly |
-| 88 | 198 | Dustee Craddock-Harrison |
-| 89 | 198 | Mike Solo |
-| 90 | 194 | Zany Twisterfit |
-| 91 | 194 | Calvin Cannon |
+| 86 | 200 | Holly Jolly |
+| 87 | 200 | Monica Daley |
+| 88 | 198 | Mike Solo |
+| 89 | 198 | Dustee Craddock-Harrison |
+| 90 | 194 | Calvin Cannon |
+| 91 | 194 | Zany Twisterfit |
 | 92 | 192 | Shauna Havard |
-| 93 | 191 | loulou |
-| 94 | 191 | Jeff Brian Gates |
-| 95 | 191 | Melvin Baird |
+| 93 | 191 | Melvin Baird |
+| 94 | 191 | loulou |
+| 95 | 191 | Jeff Brian Gates |
 | 96 | 189 | Calvin Dennis |
 | 97 | 187 | Swanky Fitline |
 | 98 | 185 | Andy Cabral |
@@ -112,8 +112,8 @@
 | 104 | 177 | Andria Lynn |
 | 105 | 176 | Justin Hannigan |
 | 106 | 174 | Zethra Prenisha Rahming |
-| 107 | 173 | Ren Mc |
-| 108 | 173 | blockstar |
+| 107 | 173 | blockstar |
+| 108 | 173 | Ren Mc |
 | 109 | 171 | Denise Carlson |
 | 110 | 170 | Girl |
 | 111 | 170 | Peachy Fall |

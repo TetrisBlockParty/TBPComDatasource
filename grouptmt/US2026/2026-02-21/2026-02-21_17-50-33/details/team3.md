@@ -43,8 +43,8 @@
 | 35 | 835 | Shonna Roberts |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Zippy Strikesnap |
-| 39 | 810 | Shane Wilson Jr. |
+| 38 | 810 | Shane Wilson Jr. |
+| 39 | 810 | Zippy Strikesnap |
 | 40 | 772 | Danielle Cutler |
 | 41 | 733 | Chummy Shatterer |
 | 42 | 702 | Stephanie Allmon |
@@ -208,8 +208,8 @@
 | 200 | 160 | Tiffany Davie |
 | 201 | 159 | Jone |
 | 202 | 157 | Marquita Sheard |
-| 203 | 157 | Nicholas Roddy |
-| 204 | 157 | Patricia Gadsden |
+| 203 | 157 | Patricia Gadsden |
+| 204 | 157 | Nicholas Roddy |
 | 205 | 156 | Bea Miles |
 | 206 | 155 | Loopy Fallzone |
 | 207 | 153 | Cozy Snaplink |
@@ -337,8 +337,8 @@
 | 329 | 98 | Erika Thornton |
 | 330 | 97 | Tina Baurdau |
 | 331 | 97 | Paula Little |
-| 332 | 96 | Christopher Woost |
-| 333 | 96 | Oliver Neal II |
+| 332 | 96 | Oliver Neal II |
+| 333 | 96 | Christopher Woost |
 | 334 | 96 | D3NO |
 | 335 | 95 | Brooke Bauer |
 | 336 | 94 | Nichole Greene |
@@ -350,12 +350,12 @@
 | 342 | 92 | Trice Thomas |
 | 343 | 92 | Jennifer Caputo |
 | 344 | 92 | Melanie Sherwood |
-| 345 | 91 | Dee Pratt |
+| 345 | 91 | Tammy Rosenberry |
 | 346 | 91 | G |
-| 347 | 91 | Tammy Rosenberry |
-| 348 | 90 | Snazzy Brickzone |
-| 349 | 90 | Allie Kershner |
-| 350 | 90 | Tiffany Kaupang |
+| 347 | 91 | Dee Pratt |
+| 348 | 90 | Allie Kershner |
+| 349 | 90 | Tiffany Kaupang |
+| 350 | 90 | Snazzy Brickzone |
 | 351 | 90 | Flashy Rumbler |
 | 352 | 90 | Whitney Manuel |
 | 353 | 90 | Alexis Ford |
