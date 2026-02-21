@@ -34,8 +34,8 @@
 | 26 | 620 | Kimyatta Cavin |
 | 27 | 608 | Denny Shives |
 | 28 | 597 | Chilly Line |
-| 29 | 590 | Valerie Roberts |
-| 30 | 590 | Dee Kay |
+| 29 | 590 | Dee Kay |
+| 30 | 590 | Valerie Roberts |
 | 31 | 546 | LisaJo Picken Buchanan |
 | 32 | 541 | Rebecca Moulton Pinciaro |
 | 33 | 530 | Clarence Patawaran |
@@ -188,7 +188,7 @@
 | 180 | 120 | Joshua Guess |
 | 181 | 119 | Judy Cox |
 | 182 | 119 | Kristin Manee |
-| 183 | 119 | Judy Cox |
+| 183 | 119 | Gwendolyn Pitcairn |
 | 184 | 118 | Mary Ann Pabukis |
 | 185 | 115 | Sam Middleton |
 | 186 | 115 | Nubian1 |
@@ -210,8 +210,8 @@
 | 202 | 108 | Crystal Nicolette Moore |
 | 203 | 108 | Shane Kalamata Platoon |
 | 204 | 107 | Rafael Valentin |
-| 205 | 106 | Zappy Snaplink |
-| 206 | 106 | Avy Absol |
+| 205 | 106 | Avy Absol |
+| 206 | 106 | Zappy Snaplink |
 | 207 | 104 | Chris Alexinas |
 | 208 | 103 | Richard-April Kice |
 | 209 | 103 | Chris Bernstein |

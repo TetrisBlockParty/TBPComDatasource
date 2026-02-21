@@ -398,8 +398,8 @@
 | 390 | 325 | bru |
 | 391 | 325 | Daniel Amos |
 | 392 | 325 | Lewis Sturgeon |
-| 393 | 323 | KhaosLord |
-| 394 | 323 | Briana Alexander |
+| 393 | 323 | Briana Alexander |
+| 394 | 323 | KhaosLord |
 | 395 | 322 | NanDa Cruzan VI |
 | 396 | 321 | Tamara Bailey |
 | 397 | 319 | Rose Fx |

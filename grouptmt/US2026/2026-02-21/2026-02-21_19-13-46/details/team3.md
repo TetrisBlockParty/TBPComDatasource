@@ -113,8 +113,8 @@
 | 105 | 348 | CeceGeGe |
 | 106 | 346 | Groovy Catcher |
 | 107 | 332 | Chauntee Alfrey-Cardinale |
-| 108 | 323 | Ashley Raines |
-| 109 | 323 | Sherry Ogden |
+| 108 | 323 | Sherry Ogden |
+| 109 | 323 | Ashley Raines |
 | 110 | 321 | Dapper Snap |
 | 111 | 320 | Or Reznitsky |
 | 112 | 318 | Chasity |
@@ -191,10 +191,10 @@
 | 183 | 184 | Troy |
 | 184 | 182 | Hyper Matchzone |
 | 185 | 181 | Nicholas Roddy |
-| 186 | 179 | Ashley Jones |
-| 187 | 179 | Daira Largen |
-| 188 | 178 | Ryan Williams |
-| 189 | 178 | AlsoJess |
+| 186 | 179 | Daira Largen |
+| 187 | 179 | Ashley Jones |
+| 188 | 178 | AlsoJess |
+| 189 | 178 | Ryan Williams |
 | 190 | 177 | Trisha Balmer |
 | 191 | 175 | DanceLuvLaugh |
 | 192 | 175 | Tasha Wesson-Torrence |
@@ -425,7 +425,7 @@
 | 417 | 80 | Nicole Summers-Nelson |
 | 418 | 80 | Josh Borquez |
 | 419 | 80 | Vixen Queen |
-| 420 | 80 | Nicole Summers-Nelson |
+| 420 | 80 | Linda Draper |
 | 421 | 80 | Sherry DeLong |
 | 422 | 79 | Katie Bolich |
 | 423 | 79 | Brittany K Ward |
