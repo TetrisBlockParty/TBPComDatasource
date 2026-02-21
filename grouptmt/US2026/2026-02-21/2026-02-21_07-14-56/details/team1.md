@@ -48,9 +48,9 @@
 | 40 | 244 | Franswa |
 | 41 | 243 | Sarah Roberts |
 | 42 | 241 | Kristen Roles Robben |
-| 43 | 212 | Elaine Elaine |
-| 44 | 212 | Tdub |
-| 45 | 212 | Jaimie Lynn |
+| 43 | 212 | Tdub |
+| 44 | 212 | Jaimie Lynn |
+| 45 | 212 | Elaine Elaine |
 | 46 | 211 | Deanna L Hermanson |
 | 47 | 209 | Robert Beck |
 | 48 | 208 | Carrie Beck Geartz |
@@ -60,8 +60,8 @@
 | 52 | 201 | Anaid Sanchez |
 | 53 | 201 | Ananda Mendez |
 | 54 | 200 | Lexuriuos Lifestlye |
-| 55 | 198 | Happy Snapbuild |
-| 56 | 198 | Billie Dawn Sparks |
+| 55 | 198 | Billie Dawn Sparks |
+| 56 | 198 | Happy Snapbuild |
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
@@ -91,8 +91,8 @@
 | 83 | 144 | Plucky Ziggy |
 | 84 | 144 | Tanya Carpenter-Reynolds |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Blaire Bruckoff |
-| 87 | 141 | Susanna Guerry |
+| 86 | 141 | Susanna Guerry |
+| 87 | 141 | Blaire Bruckoff |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Patrick Luckenbill |
 | 90 | 137 | Nadine Velardo |

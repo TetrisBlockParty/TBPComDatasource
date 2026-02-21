@@ -146,8 +146,8 @@
 | 138 | 152 | Karon Griffin |
 | 139 | 151 | MsBee |
 | 140 | 150 | Nicole Myers |
-| 141 | 149 | Bea Miles |
-| 142 | 149 | Angel Mendez |
+| 141 | 149 | Angel Mendez |
+| 142 | 149 | Bea Miles |
 | 143 | 149 | Trisha Balmer |
 | 144 | 147 | Sashay Tapae Simpson |
 | 145 | 146 | Denita Mungro |
