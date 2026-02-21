@@ -99,10 +99,10 @@
 | 91 | 202 | Monica Daley |
 | 92 | 201 | shar |
 | 93 | 200 | Holly Jolly |
-| 94 | 198 | Mike Solo |
-| 95 | 198 | Dustee Craddock-Harrison |
-| 96 | 196 | Damn Libra |
-| 97 | 196 | Jeff Brian Gates |
+| 94 | 198 | Dustee Craddock-Harrison |
+| 95 | 198 | Mike Solo |
+| 96 | 196 | Jeff Brian Gates |
+| 97 | 196 | Damn Libra |
 | 98 | 194 | Zany Twisterfit |
 | 99 | 192 | Crystal Carroll |
 | 100 | 192 | Shauna Havard |

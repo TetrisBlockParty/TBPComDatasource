@@ -314,8 +314,8 @@
 | 306 | 382 | David Holliday |
 | 307 | 381 | Bubbly Snapfit |
 | 308 | 380 | Desiree Harris Rosch |
-| 309 | 378 | Christina Ashley |
-| 310 | 378 | Cody Nishimura |
+| 309 | 378 | Cody Nishimura |
+| 310 | 378 | Christina Ashley |
 | 311 | 377 | Roy Salyer |
 | 312 | 375 | Caitlin Schmid |
 | 313 | 374 | Lee Harper |
@@ -355,8 +355,8 @@
 | 347 | 345 | Angie Bolton Workman |
 | 348 | 345 | Rhianna DiLorenzo |
 | 349 | 344 | Glenn Cobbins |
-| 350 | 344 | Ginger |
-| 351 | 344 | Felicia Lynn |
+| 350 | 344 | Felicia Lynn |
+| 351 | 344 | Ginger |
 | 352 | 343 | F-X |
 | 353 | 342 | Ebony Deloach Bryant |
 | 354 | 341 | Melissa Rebbe-Lehman |

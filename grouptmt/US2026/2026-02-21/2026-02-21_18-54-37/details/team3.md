@@ -111,15 +111,15 @@
 | 103 | 348 | CeceGeGe |
 | 104 | 342 | Tiff Vs Tiffany |
 | 105 | 332 | Chauntee Alfrey-Cardinale |
-| 106 | 323 | Ashley Raines |
-| 107 | 323 | Sherry Ogden |
+| 106 | 323 | Sherry Ogden |
+| 107 | 323 | Ashley Raines |
 | 108 | 321 | Dapper Snap |
 | 109 | 320 | Or Reznitsky |
 | 110 | 318 | Chasity |
 | 111 | 316 | Fancy Cascader |
 | 112 | 309 | Rich LeBlanc |
-| 113 | 307 | Peggi Charon |
-| 114 | 307 | Blocked |
+| 113 | 307 | Blocked |
+| 114 | 307 | Peggi Charon |
 | 115 | 300 | Sherika C. McDaniels |
 | 116 | 300 | Tessina Dewey-Mancino |
 | 117 | 293 | Poppy Splitter |

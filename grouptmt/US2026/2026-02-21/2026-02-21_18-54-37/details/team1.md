@@ -128,8 +128,8 @@
 | 120 | 171 | David DeSantis |
 | 121 | 169 | Abbey Crespo |
 | 122 | 168 | Standia Civil |
-| 123 | 166 | Tana |
-| 124 | 166 | Rico Rico |
+| 123 | 166 | Rico Rico |
+| 124 | 166 | Tana |
 | 125 | 165 | Veronica Eve |
 | 126 | 163 | Tyler Whitley |
 | 127 | 162 | Tanya Carpenter-Reynolds |
