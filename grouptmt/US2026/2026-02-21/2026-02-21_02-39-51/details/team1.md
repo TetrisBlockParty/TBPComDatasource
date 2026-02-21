@@ -114,8 +114,8 @@
 | 106 | 81 | Jennifer ManWarren |
 | 107 | 81 | Bob |
 | 108 | 80 | Larry Tilton |
-| 109 | 80 | pjbeta |
-| 110 | 80 | Matt Cinelli |
+| 109 | 80 | Matt Cinelli |
+| 110 | 80 | pjbeta |
 | 111 | 79 | Chris65 |
 | 112 | 78 | Carrie Beck Geartz |
 | 113 | 78 | Sam Williams |

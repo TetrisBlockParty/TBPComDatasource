@@ -104,14 +104,14 @@
 | 96 | 134 | DanceLuvLaugh |
 | 97 | 131 | Emma |
 | 98 | 130 | Annie Déè |
-| 99 | 129 | Ashley Raines |
-| 100 | 129 | Giddy Twistbuilder |
+| 99 | 129 | Giddy Twistbuilder |
+| 100 | 129 | Ashley Raines |
 | 101 | 128 | Angel Mendez |
 | 102 | 127 | Aerian Preston |
 | 103 | 126 | Brandon Green |
 | 104 | 125 | Stephanie Simpson |
-| 105 | 125 | BŘŰŤİÇŨŚ |
-| 106 | 125 | Felicia Doxey |
+| 105 | 125 | Felicia Doxey |
+| 106 | 125 | BŘŰŤİÇŨŚ |
 | 107 | 124 | Marquita Sheard |
 | 108 | 123 | Kristie McFarland |
 | 109 | 122 | Shimika Enay Wallace |

@@ -40,8 +40,8 @@
 | 32 | 185 | loulou |
 | 33 | 174 | Jamie Mann-Deichmann |
 | 34 | 171 | Rachel Anne |
-| 35 | 170 | Girl |
-| 36 | 170 | Leah Kutz Zirbel |
+| 35 | 170 | Leah Kutz Zirbel |
+| 36 | 170 | Girl |
 | 37 | 169 | Kimyatta Cavin |
 | 38 | 168 | Anthony Magaraci |
 | 39 | 153 | Lucille Truesdale |
@@ -122,13 +122,13 @@
 | 114 | 75 | Rosemary Foster |
 | 115 | 72 | Joshua Cuellar |
 | 116 | 71 | Christina Black |
-| 117 | 71 | Joseph Pace |
-| 118 | 71 | Shukee Lo |
+| 117 | 71 | Shukee Lo |
+| 118 | 71 | Joseph Pace |
 | 119 | 70 | Valerie Roberts |
 | 120 | 69 | Michelle Marie |
 | 121 | 69 | Carol Ricks Raymond |
 | 122 | 68 | LS |
-| 123 | 67 | Frank Joseph Epson |
+| 123 | 67 | Lindsey Gonzalez |
 | 124 | 67 | Cozy Framezone |
 | 125 | 67 | Frank Joseph Epson |
 | 126 | 66 | Chris Alexinas |
