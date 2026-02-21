@@ -413,8 +413,8 @@
 | 405 | 207 | Shylee Tilman |
 | 406 | 206 | RAEPR05 |
 | 407 | 206 | Neko Preston |
-| 408 | 205 | Lylymom |
-| 409 | 205 | ElizabethAnn Dickinson |
+| 408 | 205 | ElizabethAnn Dickinson |
+| 409 | 205 | Lylymom |
 | 410 | 204 | Ali Gralski |
 | 411 | 204 | Rebecca Doughman |
 | 412 | 203 | Gary Stash |
@@ -557,8 +557,8 @@
 | 549 | 153 | Poppy Gridder |
 | 550 | 152 | James Smith |
 | 551 | 152 | Kristin King |
-| 552 | 152 | Anthony Mignacca |
-| 553 | 152 | JP Parks |
+| 552 | 152 | JP Parks |
+| 553 | 152 | Anthony Mignacca |
 | 554 | 151 | Jennifer Rajek |
 | 555 | 151 | D'Aaron Black |
 | 556 | 151 | Kia Humphery |

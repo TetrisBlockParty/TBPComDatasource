@@ -68,8 +68,8 @@
 | 60 | 208 | Mandyy Rae |
 | 61 | 205 | Trippy Redd |
 | 62 | 204 | Ly Phethmany |
-| 63 | 202 | Dee Perry |
-| 64 | 202 | Hyper |
+| 63 | 202 | Hyper |
+| 64 | 202 | Dee Perry |
 | 65 | 201 | Ananda Mendez |
 | 66 | 201 | Anaid Sanchez |
 | 67 | 200 | Lexuriuos Lifestlye |
@@ -99,8 +99,8 @@
 | 91 | 155 | Standia Civil |
 | 92 | 153 | Shiny Gridmatch |
 | 93 | 152 | Jacqueline Unique |
-| 94 | 149 | Tana |
-| 95 | 149 | Arianna O'Brien |
+| 94 | 149 | Arianna O'Brien |
+| 95 | 149 | Tana |
 | 96 | 148 | Shauntina Burke |
 | 97 | 147 | Veronica Eve |
 | 98 | 145 | BigWeenie69 |
@@ -176,8 +176,8 @@
 | 168 | 90 | Madison Wicks |
 | 169 | 90 | TSwag |
 | 170 | 89 | Mara Hilker |
-| 171 | 88 | Tyler Whitley |
-| 172 | 88 | Larry Tilton |
+| 171 | 88 | Larry Tilton |
+| 172 | 88 | Tyler Whitley |
 | 173 | 87 | Jessi Sauer |
 | 174 | 87 | Jenny Gingrich Fuentes |
 | 175 | 86 | Basment Living |

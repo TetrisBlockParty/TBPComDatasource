@@ -132,8 +132,8 @@
 | 124 | 120 | Joshua Guess |
 | 125 | 119 | Kristin Manee |
 | 126 | 118 | Leslie Nicole |
-| 127 | 116 | Diana Houts |
-| 128 | 116 | Stephme310 |
+| 127 | 116 | Stephme310 |
+| 128 | 116 | Diana Houts |
 | 129 | 115 | Ultramarine |
 | 130 | 115 | Jayk |
 | 131 | 113 | Andria Lynn |

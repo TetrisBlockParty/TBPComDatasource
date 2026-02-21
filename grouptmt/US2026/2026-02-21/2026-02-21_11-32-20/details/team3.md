@@ -124,8 +124,8 @@
 | 116 | 204 | Aaron Pitkin |
 | 117 | 202 | Twisty Brick LT |
 | 118 | 199 | joclisa |
-| 119 | 195 | Jenny Hrndz |
-| 120 | 195 | Nicha Hooker |
+| 119 | 195 | Nicha Hooker |
+| 120 | 195 | Jenny Hrndz |
 | 121 | 194 | glichmod |
 | 122 | 193 | Clever Shiftsnap |
 | 123 | 193 | Stephanie Burtin |
@@ -172,8 +172,8 @@
 | 164 | 145 | Bryan Byrd |
 | 165 | 142 | Erica Anderson |
 | 166 | 140 | Gumbo |
-| 167 | 140 | Jay Horn |
-| 168 | 140 | Carrie Huskey |
+| 167 | 140 | Carrie Huskey |
+| 168 | 140 | Jay Horn |
 | 169 | 135 | Cheryl Hinch Tenbrook |
 | 170 | 134 | DanceLuvLaugh |
 | 171 | 134 | Emma |
