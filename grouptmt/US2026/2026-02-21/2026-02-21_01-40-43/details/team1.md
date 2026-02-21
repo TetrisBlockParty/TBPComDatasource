@@ -66,8 +66,8 @@
 | 58 | 119 | Irual Hctrab |
 | 59 | 117 | David DeSantis |
 | 60 | 116 | Kristen Roles Robben |
-| 61 | 114 | Giddy Cascade |
-| 62 | 114 | Colleen Wise |
+| 61 | 114 | Colleen Wise |
+| 62 | 114 | Giddy Cascade |
 | 63 | 112 | Miguel Teixeira |
 | 64 | 112 | Nicole Roseberry Weber |
 | 65 | 110 | Heidi Feurer |
@@ -75,9 +75,9 @@
 | 67 | 108 | Tavia |
 | 68 | 105 | Barry Mac'Ockner |
 | 69 | 104 | Robert Beck |
-| 70 | 100 | Ash Galvan |
+| 70 | 100 | comrade fish |
 | 71 | 100 | Uhog SF |
-| 72 | 100 | comrade fish |
+| 72 | 100 | Ash Galvan |
 | 73 | 99 | Josie Kirt |
 | 74 | 98 | Flashy Rotator |
 | 75 | 96 | Nery Martinez |

@@ -37,8 +37,8 @@
 | 29 | 185 | loulou |
 | 30 | 174 | Jamie Mann-Deichmann |
 | 31 | 174 | Koshin Abdirahman |
-| 32 | 170 | Leah Kutz Zirbel |
-| 33 | 170 | Girl |
+| 32 | 170 | Girl |
+| 33 | 170 | Leah Kutz Zirbel |
 | 34 | 168 | Anthony Magaraci |
 | 35 | 167 | Chilly Line |
 | 36 | 167 | Rachel Anne |
@@ -95,8 +95,8 @@
 | 87 | 81 | Kesha Brady |
 | 88 | 81 | Michelle Parker |
 | 89 | 80 | Melissa Adams |
-| 90 | 79 | Shainne Brewer |
-| 91 | 79 | Avy Absol |
+| 90 | 79 | Avy Absol |
+| 91 | 79 | Shainne Brewer |
 | 92 | 78 | Rebecca Moulton Pinciaro |
 | 93 | 76 | Jessica Miller |
 | 94 | 75 | Rosemary Foster |

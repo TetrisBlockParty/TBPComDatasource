@@ -93,8 +93,8 @@
 | 85 | 135 | Latoya Mayne |
 | 86 | 134 | DanceLuvLaugh |
 | 87 | 131 | Emma |
-| 88 | 129 | Ashley Tookes |
-| 89 | 129 | Giddy Twistbuilder |
+| 88 | 129 | Giddy Twistbuilder |
+| 89 | 129 | Ashley Tookes |
 | 90 | 128 | Angel Mendez |
 | 91 | 127 | mjl574 |
 | 92 | 127 | Fancy Cascader |
