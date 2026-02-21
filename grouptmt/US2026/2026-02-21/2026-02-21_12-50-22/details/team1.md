@@ -66,11 +66,11 @@
 | 58 | 225 | Elaine Elaine |
 | 59 | 217 | Deanna L Hermanson |
 | 60 | 216 | Hyp James NObettadanluvarat |
-| 61 | 212 | Tdub |
-| 62 | 212 | Jaimie Lynn |
+| 61 | 212 | Jaimie Lynn |
+| 62 | 212 | Tdub |
 | 63 | 211 | Marianita Garcia |
-| 64 | 208 | Carrie Beck Geartz |
-| 65 | 208 | Mandyy Rae |
+| 64 | 208 | Mandyy Rae |
+| 65 | 208 | Carrie Beck Geartz |
 | 66 | 205 | Trippy Redd |
 | 67 | 204 | Ly Phethmany |
 | 68 | 202 | Dee Perry |
@@ -146,9 +146,9 @@
 | 138 | 112 | Flashy Rotator |
 | 139 | 112 | Kristen Gideon |
 | 140 | 112 | Nicole Roseberry Weber |
-| 141 | 111 | Jessica Russell |
-| 142 | 111 | Chirpy Smasher |
-| 143 | 111 | Agustin Duarte Orozco |
+| 141 | 111 | Agustin Duarte Orozco |
+| 142 | 111 | Jessica Russell |
+| 143 | 111 | Chirpy Smasher |
 | 144 | 110 | Garcia Bailey |
 | 145 | 108 | Dizzy Party |
 | 146 | 108 | Luciano Moreira |

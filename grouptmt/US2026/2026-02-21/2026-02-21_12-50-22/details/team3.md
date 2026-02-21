@@ -75,8 +75,8 @@
 | 67 | 372 | Patty Allen |
 | 68 | 371 | Jesse Olive |
 | 69 | 370 | yoyo |
-| 70 | 362 | Michelle |
-| 71 | 362 | Liv Whetson |
+| 70 | 362 | Liv Whetson |
+| 71 | 362 | Michelle |
 | 72 | 360 | Ebony West-Cundiff |
 | 73 | 353 | Stephanie Woods |
 | 74 | 346 | Shannon Matthew Byers |
@@ -201,7 +201,7 @@
 | 193 | 125 | Shimika Enay Wallace |
 | 194 | 125 | Felicia Doxey |
 | 195 | 124 | Cesar Barraza |
-| 196 | 123 | Terry Jo Jones |
+| 196 | 123 | Marci Mize Fandrich |
 | 197 | 123 | Sarajane Lokan |
 | 198 | 123 | Terry Jo Jones |
 | 199 | 122 | Giggly Brickroll |
@@ -299,8 +299,8 @@
 | 291 | 88 | Kate Farok |
 | 292 | 88 | Dapper Towerfit |
 | 293 | 87 | FATTY |
-| 294 | 87 | Boldy Blocker |
-| 295 | 87 | Kellie Montgomery |
+| 294 | 87 | Kellie Montgomery |
+| 295 | 87 | Boldy Blocker |
 | 296 | 86 | Clever Clearbuilder |
 | 297 | 86 | Salena Whitlock |
 | 298 | 86 | Criss |

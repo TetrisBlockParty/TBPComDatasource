@@ -188,8 +188,8 @@
 | 180 | 453 | Em Chen |
 | 181 | 453 | Mischelle Clay |
 | 182 | 452 | Alezandra Smith |
-| 183 | 450 | Cheech Dta |
-| 184 | 450 | Giggy Blocker |
+| 183 | 450 | Giggy Blocker |
+| 184 | 450 | Cheech Dta |
 | 185 | 448 | Jojo Momma |
 | 186 | 442 | Daphne Jordan |
 | 187 | 442 | Leah |
@@ -247,8 +247,8 @@
 | 239 | 348 | Richard Horton |
 | 240 | 345 | Rhianna DiLorenzo |
 | 241 | 345 | Brenda Messer |
-| 242 | 344 | Glenn Cobbins |
-| 243 | 344 | Julie Kresal |
+| 242 | 344 | Julie Kresal |
+| 243 | 344 | Glenn Cobbins |
 | 244 | 343 | F-X |
 | 245 | 334 | Moni Foxe |
 | 246 | 334 | Felicia Lynn |

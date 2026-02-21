@@ -100,8 +100,8 @@
 | 92 | 153 | Jae Job |
 | 93 | 151 | Dana Scott |
 | 94 | 150 | ZeeZee |
-| 95 | 147 | 030Synner |
-| 96 | 147 | Jay28 |
+| 95 | 147 | Jay28 |
+| 96 | 147 | 030Synner |
 | 97 | 146 | Peachy Fall |
 | 98 | 143 | Nugget |
 | 99 | 141 | Malakai Darien Fox |
@@ -119,8 +119,8 @@
 | 111 | 131 | Mr. Party |
 | 112 | 130 | Lucas J Sutton |
 | 113 | 130 | Casey Jeffcoat |
-| 114 | 129 | Landon Keith Graffeo |
-| 115 | 129 | John Brunetti |
+| 114 | 129 | John Brunetti |
+| 115 | 129 | Landon Keith Graffeo |
 | 116 | 128 | Rio Rocha |
 | 117 | 126 | Dihcheese444 |
 | 118 | 125 | Lauren Scott |
@@ -180,7 +180,7 @@
 | 172 | 95 | Meagan Nicole |
 | 173 | 94 | DonMega |
 | 174 | 94 | Chastity Mitchell |
-| 175 | 94 | DonMega |
+| 175 | 94 | Kim Hunt |
 | 176 | 93 | Zesty Twistbuilder |
 | 177 | 92 | Misty Hollibaugh |
 | 178 | 90 | No Strings Attached Ra |
@@ -357,7 +357,7 @@
 | 349 | 50 | Shiny Pivoty |
 | 350 | 50 | Christian Torres |
 | 351 | 49 | Rae Henderson |
-| 352 | 49 | Jessica Graham |
+| 352 | 49 | Lakesha Johnson |
 | 353 | 49 | Snappy Combofall |
 | 354 | 49 | Jessica Graham |
 | 355 | 48 | Stephanie Mico |
