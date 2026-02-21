@@ -97,8 +97,8 @@
 | 89 | 178 | Danielle Little-Daugherty |
 | 90 | 177 | Diane Byrd |
 | 91 | 173 | Jennifer Olewnik Soborowski |
-| 92 | 173 | june october |
-| 93 | 173 | Frothy Pattern |
+| 92 | 173 | Frothy Pattern |
+| 93 | 173 | june october |
 | 94 | 171 | Greg Premoe |
 | 95 | 168 | Redlicious 1 |
 | 96 | 166 | Rico Rico |

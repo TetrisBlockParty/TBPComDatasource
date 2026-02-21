@@ -452,8 +452,8 @@
 | 444 | 223 | LegoCarpet |
 | 445 | 223 | Laura Wyatt |
 | 446 | 223 | Kristi Biddinger |
-| 447 | 222 | Amanda Canterbury |
-| 448 | 222 | Jason Garnatz |
+| 447 | 222 | Jason Garnatz |
+| 448 | 222 | Amanda Canterbury |
 | 449 | 220 | Katrina Weston |
 | 450 | 220 | Sho Nuff |
 | 451 | 219 | Ashle Scranton |
@@ -498,8 +498,8 @@
 | 490 | 199 | Jenny Castro |
 | 491 | 198 | Angie Bolton Workman |
 | 492 | 198 | Alyssa Dean |
-| 493 | 197 | Kati Russeau |
-| 494 | 197 | Jelly |
+| 493 | 197 | Jelly |
+| 494 | 197 | Kati Russeau |
 | 495 | 196 | Tony Lea |
 | 496 | 196 | Cass Shirley |
 | 497 | 196 | Alexandra Reese |
@@ -536,9 +536,9 @@
 | 528 | 183 | Brandon McDonald |
 | 529 | 183 | Wakanda Forever |
 | 530 | 182 | Tamara Bailey |
-| 531 | 181 | Julay |
-| 532 | 181 | Wacky Cascade |
-| 533 | 181 | Tom Steffen |
+| 531 | 181 | Tom Steffen |
+| 532 | 181 | Julay |
+| 533 | 181 | Wacky Cascade |
 | 534 | 181 | Rachel Switala |
 | 535 | 180 | Jason H Baker |
 | 536 | 180 | Audra Williams |
@@ -593,8 +593,8 @@
 | 585 | 165 | Catherine Varea |
 | 586 | 164 | Sara Pennington |
 | 587 | 164 | Jessica Vega |
-| 588 | 163 | Danielle Ayoub |
-| 589 | 163 | Tiffney Wroten |
+| 588 | 163 | Tiffney Wroten |
+| 589 | 163 | Danielle Ayoub |
 | 590 | 163 | Angelica |
 | 591 | 162 | LC Hamilton |
 | 592 | 162 | Chirpy Snapper |
