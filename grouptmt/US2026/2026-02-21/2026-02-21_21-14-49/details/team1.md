@@ -166,8 +166,8 @@
 | 158 | 150 | Adele Rahman |
 | 159 | 148 | Shauntina Burke |
 | 160 | 148 | Bouncy Grid |
-| 161 | 147 | Davery Spencer Adair |
-| 162 | 147 | Leslie Bush Yarbrough |
+| 161 | 147 | Leslie Bush Yarbrough |
+| 162 | 147 | Davery Spencer Adair |
 | 163 | 146 | Christy Jones |
 | 164 | 145 | Agustin Duarte Orozco |
 | 165 | 145 | Angela Fairbank |
@@ -406,8 +406,8 @@
 | 398 | 64 | April Jones |
 | 399 | 64 | Jeff Jack II |
 | 400 | 63 | Lil H |
-| 401 | 63 | Lincon |
-| 402 | 63 | Lush Zoney |
+| 401 | 63 | Lush Zoney |
+| 402 | 63 | Lincon |
 | 403 | 63 | Chipper Piecefit |
 | 404 | 62 | Wanda Honey |
 | 405 | 62 | Angela Spann |

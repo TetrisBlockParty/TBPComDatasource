@@ -81,8 +81,8 @@
 | 73 | 1235 | Katrina Williams Balmir |
 | 74 | 1234 | blarg |
 | 75 | 1232 | Jen Tramack |
-| 76 | 1215 | Megan Garrick |
-| 77 | 1215 | Becky Weeks-Garry |
+| 76 | 1215 | Becky Weeks-Garry |
+| 77 | 1215 | Megan Garrick |
 | 78 | 1208 | Groovy Puzzle |
 | 79 | 1204 | Lucky Ladybug |
 | 80 | 1192 | Denisha Dawkins |
@@ -235,9 +235,9 @@
 | 227 | 531 | Chris Wanner |
 | 228 | 528 | Brownie Sheena |
 | 229 | 527 | Stacy Stickle |
-| 230 | 527 | Ryan Gunther |
+| 230 | 527 | Heather Causey |
 | 231 | 527 | Adira Brown |
-| 232 | 527 | Heather Causey |
+| 232 | 527 | Ryan Gunther |
 | 233 | 526 | Ashley Guernsey-Martin |
 | 234 | 525 | Desiree Anderson |
 | 235 | 525 | Tommy Tha Boss Gunz |
@@ -390,8 +390,8 @@
 | 382 | 353 | Cheery Matchzone |
 | 383 | 352 | Juanita Lyons |
 | 384 | 352 | Tj Ball |
-| 385 | 352 | ruth |
-| 386 | 352 | KayLynn Ogden McClelland |
+| 385 | 352 | KayLynn Ogden McClelland |
+| 386 | 352 | ruth |
 | 387 | 351 | Rebecca Miller |
 | 388 | 350 | Fi Ne |
 | 389 | 350 | F-X |
@@ -596,8 +596,8 @@
 | 588 | 238 | Manny Trindade |
 | 589 | 237 | Heather Piotrowski |
 | 590 | 237 | Kiorah Blaze |
-| 591 | 237 | Breezy Tilt |
-| 592 | 237 | Ben Barkley |
+| 591 | 237 | Ben Barkley |
+| 592 | 237 | Breezy Tilt |
 | 593 | 236 | Angela Yantz |
 | 594 | 236 | Patrick Bartlett |
 | 595 | 236 | Julio A Laracuente |

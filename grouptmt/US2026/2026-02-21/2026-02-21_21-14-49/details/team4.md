@@ -133,14 +133,14 @@
 | 125 | 181 | Savannah Overdorf |
 | 126 | 180 | Leah Kutz Zirbel |
 | 127 | 178 | Lori |
-| 128 | 176 | Klo |
-| 129 | 176 | Stacey Stano |
+| 128 | 176 | Stacey Stano |
+| 129 | 176 | Klo |
 | 130 | 174 | shark tato |
 | 131 | 174 | Dihcheese444 |
 | 132 | 174 | Zethra Prenisha Rahming |
 | 133 | 173 | Twisty Cascadezone |
-| 134 | 173 | Ren Mc |
-| 135 | 173 | blockstar |
+| 134 | 173 | blockstar |
+| 135 | 173 | Ren Mc |
 | 136 | 172 | Jenna McGeorge |
 | 137 | 170 | Amy Suckarieh |
 | 138 | 164 | ThaEviLJeNiuZ |
@@ -221,8 +221,8 @@
 | 213 | 113 | Adam Randall |
 | 214 | 113 | Dandy Cascadefit |
 | 215 | 112 | Jeremy Steines |
-| 216 | 111 | Kristin MacDonald |
-| 217 | 111 | Lazy Blocker |
+| 216 | 111 | Lazy Blocker |
+| 217 | 111 | Kristin MacDonald |
 | 218 | 109 | Frank Cook |
 | 219 | 108 | Rebecca Morris |
 | 220 | 108 | Ali Ian |
@@ -249,8 +249,8 @@
 | 241 | 101 | Zach Kerbs |
 | 242 | 101 | Saulc1991 |
 | 243 | 100 | Jacob Richard |
-| 244 | 100 | Alexandra Karavias |
-| 245 | 100 | Maureen Flanigan |
+| 244 | 100 | Maureen Flanigan |
+| 245 | 100 | Alexandra Karavias |
 | 246 | 99 | Michael Orris |
 | 247 | 98 | Bradley Reeves |
 | 248 | 98 | Perky Piecegrid |
@@ -279,8 +279,8 @@
 | 271 | 90 | Carol Ricks Raymond |
 | 272 | 90 | Hyper Builder |
 | 273 | 89 | Jonathan Mahfood |
-| 274 | 88 | Michelle Parker |
-| 275 | 88 | Kesha Brady |
+| 274 | 88 | Kesha Brady |
+| 275 | 88 | Michelle Parker |
 | 276 | 87 | Alan George LaRage |
 | 277 | 86 | Jason Frehner |
 | 278 | 86 | amy |
@@ -569,8 +569,8 @@
 | 561 | 43 | Lauren R. Walls |
 | 562 | 43 | Happy Combo |
 | 563 | 42 | Frothy Shatter |
-| 564 | 42 | Becky Shimko |
-| 565 | 42 | Kirsten Britt O'Donnell |
+| 564 | 42 | Kirsten Britt O'Donnell |
+| 565 | 42 | Becky Shimko |
 | 566 | 42 | Kanci McKnight |
 | 567 | 42 | Natasha Crossley |
 | 568 | 41 | Helen Chao |
