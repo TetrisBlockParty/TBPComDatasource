@@ -72,8 +72,8 @@
 | 64 | 395 | Christine Marie |
 | 65 | 390 | Carlton Unfiltered |
 | 66 | 388 | YoMomma |
-| 67 | 376 | quicksand420 |
-| 68 | 376 | Marie-Pier Desjardins |
+| 67 | 376 | Marie-Pier Desjardins |
+| 68 | 376 | quicksand420 |
 | 69 | 373 | Joseph Guthrie |
 | 70 | 370 | Leslie Thomas |
 | 71 | 369 | Nope Young |
@@ -113,8 +113,8 @@
 | 105 | 230 | Lucas J Sutton |
 | 106 | 222 | Joeliecea Cobb |
 | 107 | 221 | Alyssa Papen |
-| 108 | 218 | Antony Dwayne Beasley |
-| 109 | 218 | Casey Grabner |
+| 108 | 218 | Casey Grabner |
+| 109 | 218 | Antony Dwayne Beasley |
 | 110 | 213 | Chaz Duncan |
 | 111 | 212 | Calvin Cannon |
 | 112 | 211 | Dizzy Tiley |
@@ -172,8 +172,8 @@
 | 164 | 144 | Meagan Nicole |
 | 165 | 142 | Zippy Gridlock |
 | 166 | 141 | Kathy Allen |
-| 167 | 141 | Marcus Todd |
-| 168 | 141 | ĥuf |
+| 167 | 141 | ĥuf |
+| 168 | 141 | Marcus Todd |
 | 169 | 140 | John Brunetti |
 | 170 | 140 | Stephme310 |
 | 171 | 139 | Mary Ann Pabukis |
@@ -230,12 +230,12 @@
 | 222 | 115 | Nubian1 |
 | 223 | 115 | Jayk |
 | 224 | 115 | Sam Middleton |
-| 225 | 114 | Circuit8 |
-| 226 | 114 | Kesha Brady |
+| 225 | 114 | Kesha Brady |
+| 226 | 114 | Circuit8 |
 | 227 | 113 | Dandy Cascadefit |
 | 228 | 113 | Adam Randall |
-| 229 | 112 | Jeremy Steines |
-| 230 | 112 | rebel4lyfe |
+| 229 | 112 | rebel4lyfe |
+| 230 | 112 | Jeremy Steines |
 | 231 | 111 | Lazy Blocker |
 | 232 | 111 | Rafael Valentin |
 | 233 | 110 | Zach Kerbs |

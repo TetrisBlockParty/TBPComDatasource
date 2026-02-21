@@ -77,8 +77,8 @@
 | 69 | 565 | Dolores Falco |
 | 70 | 561 | Rachael McClain Owens |
 | 71 | 555 | Ebony West-Cundiff |
-| 72 | 536 | Giddy Drop |
-| 73 | 536 | Joey Banks |
+| 72 | 536 | Joey Banks |
+| 73 | 536 | Giddy Drop |
 | 74 | 533 | Sarah Fehring |
 | 75 | 526 | Cynthia Castros-Hampton |
 | 76 | 510 | Dave Herzog |
@@ -179,8 +179,8 @@
 | 171 | 235 | DidIdothat |
 | 172 | 233 | Ray Lader |
 | 173 | 231 | Nikki Pags |
-| 174 | 228 | Morgan Martinez |
-| 175 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 174 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 175 | 228 | Morgan Martinez |
 | 176 | 226 | Grego Daniel |
 | 177 | 224 | Nicole Myers |
 | 178 | 223 | Jeana Gilbert |

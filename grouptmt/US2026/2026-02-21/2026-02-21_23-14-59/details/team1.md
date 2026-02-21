@@ -41,8 +41,8 @@
 | 33 | 587 | Marianne Louise West |
 | 34 | 585 | Jennifer Cates |
 | 35 | 543 | Aaron Garnett |
-| 36 | 541 | Drew Magnus |
-| 37 | 541 | Kristen Roles Robben |
+| 36 | 541 | Kristen Roles Robben |
+| 37 | 541 | Drew Magnus |
 | 38 | 539 | Karin Gillen |
 | 39 | 533 | Redlicious 1 |
 | 40 | 523 | comrade fish |
@@ -147,12 +147,12 @@
 | 139 | 186 | Margo Wagner |
 | 140 | 186 | Jennifer Olewnik Soborowski |
 | 141 | 185 | Basment Living |
-| 142 | 180 | Erez Yosef |
-| 143 | 180 | BigWeenie69 |
+| 142 | 180 | BigWeenie69 |
+| 143 | 180 | Erez Yosef |
 | 144 | 180 | Michael |
 | 145 | 179 | Danielle Little-Daugherty |
-| 146 | 178 | Shiny Gridmatch |
-| 147 | 178 | Chad Atchley |
+| 146 | 178 | Chad Atchley |
+| 147 | 178 | Shiny Gridmatch |
 | 148 | 177 | ParisandCory Champagne |
 | 149 | 175 | Irual Hctrab |
 | 150 | 175 | John Barron |
@@ -196,8 +196,8 @@
 | 188 | 139 | Flashy Rotator |
 | 189 | 139 | Jenny Gingrich Fuentes |
 | 190 | 138 | Death |
-| 191 | 137 | Cody Gates |
-| 192 | 137 | Witty Builderfit |
+| 191 | 137 | Witty Builderfit |
+| 192 | 137 | Cody Gates |
 | 193 | 136 | Breanna Luna |
 | 194 | 135 | Guest |
 | 195 | 135 | Tipsy Riseclear |
@@ -207,8 +207,8 @@
 | 199 | 133 | Mel Hogan |
 | 200 | 133 | Kimberly Garcia |
 | 201 | 132 | Layzietyme |
-| 202 | 131 | Fmp |
-| 203 | 131 | Uhog SF |
+| 202 | 131 | Uhog SF |
+| 203 | 131 | Fmp |
 | 204 | 130 | Gilbert Ortiz Jr. |
 | 205 | 130 | LD1 |
 | 206 | 128 | Barry Mac'Ockner |

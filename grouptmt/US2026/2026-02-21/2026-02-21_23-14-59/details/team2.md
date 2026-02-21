@@ -193,8 +193,8 @@
 | 185 | 690 | Deborah Miller |
 | 186 | 688 | Dreamy Blast |
 | 187 | 688 | Wendy Harder Gage |
-| 188 | 686 | Ashley Guernsey-Martin |
-| 189 | 686 | Dannette Goldberg-Richards |
+| 188 | 686 | Dannette Goldberg-Richards |
+| 189 | 686 | Ashley Guernsey-Martin |
 | 190 | 679 | Gold Rose |
 | 191 | 671 | Pacynthia Williams |
 | 192 | 669 | Melissa Holsinger |
