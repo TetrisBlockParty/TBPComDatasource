@@ -185,10 +185,10 @@
 | 177 | 131 | Michelle Morris |
 | 178 | 130 | Shukee Lo |
 | 179 | 130 | Carlos Ramirez |
-| 180 | 129 | Dreamy Snapgrid |
-| 181 | 129 | Crystal Nicolette Moore |
-| 182 | 128 | Ericca Eldridge |
-| 183 | 128 | Rio Rocha |
+| 180 | 129 | Crystal Nicolette Moore |
+| 181 | 129 | Dreamy Snapgrid |
+| 182 | 128 | Rio Rocha |
+| 183 | 128 | Ericca Eldridge |
 | 184 | 128 | April Rondinone |
 | 185 | 126 | Nerdy Twisterfit |
 | 186 | 125 | Heather Tushner |
@@ -210,8 +210,8 @@
 | 202 | 120 | Jackie Marie |
 | 203 | 119 | Gwendolyn Pitcairn |
 | 204 | 119 | Kristin Manee |
-| 205 | 118 | Chris Bernstein |
-| 206 | 118 | Mary Ann Pabukis |
+| 205 | 118 | Mary Ann Pabukis |
+| 206 | 118 | Chris Bernstein |
 | 207 | 116 | Adam Stephanie Parker |
 | 208 | 115 | Jayk |
 | 209 | 115 | Ultramarine |

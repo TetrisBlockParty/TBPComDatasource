@@ -38,8 +38,8 @@
 | 30 | 586 | Marianne Louise West |
 | 31 | 585 | Jennifer Cates |
 | 32 | 543 | Aaron Garnett |
-| 33 | 541 | Drew Magnus |
-| 34 | 541 | Jorge Andrade |
+| 33 | 541 | Jorge Andrade |
+| 34 | 541 | Drew Magnus |
 | 35 | 539 | Karin Gillen |
 | 36 | 533 | Tipsy Column |
 | 37 | 521 | Hyp James NObettadanluvarat |
@@ -121,8 +121,8 @@
 | 113 | 210 | Ly Phethmany |
 | 114 | 204 | Ananda Mendez |
 | 115 | 203 | Giggly Builderline |
-| 116 | 198 | Happy Snapbuild |
-| 117 | 198 | GATOR |
+| 116 | 198 | GATOR |
+| 117 | 198 | Happy Snapbuild |
 | 118 | 195 | Jason Jones |
 | 119 | 194 | Ash Galvan |
 | 120 | 193 | Lachelle Dillon |
@@ -143,8 +143,8 @@
 | 135 | 177 | Michael |
 | 136 | 177 | ParisandCory Champagne |
 | 137 | 176 | Basment Living |
-| 138 | 171 | Greg Premoe |
-| 139 | 171 | David DeSantis |
+| 138 | 171 | David DeSantis |
+| 139 | 171 | Greg Premoe |
 | 140 | 170 | Veronica Eve |
 | 141 | 169 | Abbey Crespo |
 | 142 | 168 | Standia Civil |
@@ -220,8 +220,8 @@
 | 212 | 114 | Tyler Hertzog |
 | 213 | 114 | Hector Cruz |
 | 214 | 113 | Desiree Deschaine Havee |
-| 215 | 112 | Jessica Sheehan |
-| 216 | 112 | Chris65 |
+| 215 | 112 | Chris65 |
+| 216 | 112 | Jessica Sheehan |
 | 217 | 111 | Rachel Nichole Henry |
 | 218 | 111 | Chirpy Smasher |
 | 219 | 110 | Madison Wicks |

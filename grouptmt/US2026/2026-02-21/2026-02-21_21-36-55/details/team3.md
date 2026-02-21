@@ -99,12 +99,12 @@
 | 91 | 408 | Patty Allen |
 | 92 | 403 | Christine Filson |
 | 93 | 402 | Stephanie Simpson |
-| 94 | 394 | Mcathen |
-| 95 | 394 | joclisa |
+| 94 | 394 | joclisa |
+| 95 | 394 | Mcathen |
 | 96 | 392 | Michelle |
 | 97 | 391 | Calista Jo Dickson |
-| 98 | 390 | Hasty Cascadefit |
-| 99 | 390 | Annie Déè |
+| 98 | 390 | Annie Déè |
+| 99 | 390 | Hasty Cascadefit |
 | 100 | 389 | Elissa S-k |
 | 101 | 386 | Katie Knaus |
 | 102 | 384 | Shannon Matthew Byers |
@@ -123,8 +123,8 @@
 | 115 | 347 | Darlene McMillan |
 | 116 | 332 | Chauntee Alfrey-Cardinale |
 | 117 | 327 | Dapper Snap |
-| 118 | 323 | Ashley Raines |
-| 119 | 323 | Sherry Ogden |
+| 118 | 323 | Sherry Ogden |
+| 119 | 323 | Ashley Raines |
 | 120 | 320 | Or Reznitsky |
 | 121 | 318 | Chasity |
 | 122 | 316 | Fancy Cascader |
@@ -164,8 +164,8 @@
 | 156 | 234 | Tom Nault |
 | 157 | 233 | Ray Lader |
 | 158 | 229 | Nikki Pags |
-| 159 | 228 | Rochelle Hazelett |
-| 160 | 228 | Morgan Martinez |
+| 159 | 228 | Morgan Martinez |
+| 160 | 228 | Rochelle Hazelett |
 | 161 | 226 | Grego Daniel |
 | 162 | 224 | Nicole Myers |
 | 163 | 223 | Jeana Gilbert |
@@ -178,8 +178,8 @@
 | 170 | 214 | Jenny Hrndz |
 | 171 | 214 | Amy Fuller Heaton |
 | 172 | 212 | Krystal Gerstberger |
-| 173 | 211 | Khaleada McGill Banks |
-| 174 | 211 | Katrina Turner |
+| 173 | 211 | Katrina Turner |
+| 174 | 211 | Khaleada McGill Banks |
 | 175 | 207 | rnr junky |
 | 176 | 207 | Chris Bell |
 | 177 | 207 | Jessica |
@@ -218,8 +218,8 @@
 | 210 | 177 | Trisha Balmer |
 | 211 | 177 | Raven Dudley |
 | 212 | 176 | rosy |
-| 213 | 175 | DanceLuvLaugh |
-| 214 | 175 | Tasha Wesson-Torrence |
+| 213 | 175 | Tasha Wesson-Torrence |
+| 214 | 175 | DanceLuvLaugh |
 | 215 | 173 | Sarajane Lokan |
 | 216 | 172 | Grams |
 | 217 | 171 | Marquita Sheard |
