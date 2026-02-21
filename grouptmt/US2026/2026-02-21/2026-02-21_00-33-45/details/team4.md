@@ -30,8 +30,8 @@
 | 22 | 201 | Alyssa Papen |
 | 23 | 188 | Dustin Robert |
 | 24 | 185 | loulou |
-| 25 | 174 | Koshin Abdirahman |
-| 26 | 174 | Jamie Mann-Deichmann |
+| 25 | 174 | Jamie Mann-Deichmann |
+| 26 | 174 | Koshin Abdirahman |
 | 27 | 171 | Brittney Orengo |
 | 28 | 170 | Girl |
 | 29 | 168 | Anthony Magaraci |

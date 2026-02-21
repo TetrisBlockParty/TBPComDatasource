@@ -74,8 +74,8 @@
 | 66 | 93 | Bhelle Sumile |
 | 67 | 93 | Adryane Schnase |
 | 68 | 93 | Ty Brown |
-| 69 | 91 | Melissa Lemmon |
-| 70 | 91 | Spunky Piecebuilder |
+| 69 | 91 | Spunky Piecebuilder |
+| 70 | 91 | Melissa Lemmon |
 | 71 | 90 | comrade fish |
 | 72 | 90 | Madison Wicks |
 | 73 | 87 | Jessi Sauer |
@@ -94,8 +94,8 @@
 | 86 | 78 | Carrie Beck Geartz |
 | 87 | 75 | Tyler L Hunt |
 | 88 | 74 | Grace Joanne Agnant |
-| 89 | 73 | Witty Builderfit |
-| 90 | 73 | Loony Fitzone |
+| 89 | 73 | Loony Fitzone |
+| 90 | 73 | Witty Builderfit |
 | 91 | 72 | Tipsy Strikerpiece |
 | 92 | 72 | Anaid Sanchez |
 | 93 | 71 | Teddy Alexander |
