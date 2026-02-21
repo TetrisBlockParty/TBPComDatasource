@@ -25,8 +25,8 @@
 | 17 | 625 | GreenJeepGirl |
 | 18 | 608 | Denny Shives |
 | 19 | 606 | Rachel Anne |
-| 20 | 590 | Dee Kay |
-| 21 | 590 | Valerie Roberts |
+| 20 | 590 | Valerie Roberts |
+| 21 | 590 | Dee Kay |
 | 22 | 589 | Chilly Line |
 | 23 | 578 | Leah Gorsuch |
 | 24 | 540 | Kimyatta Cavin |
@@ -108,15 +108,15 @@
 | 100 | 164 | blockstar |
 | 101 | 162 | Shauna Havard |
 | 102 | 161 | Joeliecea Cobb |
-| 103 | 160 | Stacey Stano |
-| 104 | 160 | ZeeZee |
+| 103 | 160 | ZeeZee |
+| 104 | 160 | Stacey Stano |
 | 105 | 159 | Holly Jolly |
 | 106 | 157 | quicksand420 |
 | 107 | 154 | Zany Twisterfit |
 | 108 | 151 | Dana Scott |
 | 109 | 151 | Bethany Ison |
-| 110 | 147 | Jay28 |
-| 111 | 147 | 030Synner |
+| 110 | 147 | 030Synner |
+| 111 | 147 | Jay28 |
 | 112 | 146 | Peachy Fall |
 | 113 | 145 | Jessica Bohlken |
 | 114 | 144 | Mr. Party |
@@ -143,8 +143,8 @@
 | 135 | 126 | TinyLegoRose |
 | 136 | 126 | Klo |
 | 137 | 124 | Allen Lloyd |
-| 138 | 123 | Angela Geist Jusinski |
-| 139 | 123 | Cherrish Duren |
+| 138 | 123 | Cherrish Duren |
+| 139 | 123 | Angela Geist Jusinski |
 | 140 | 122 | Sherri |
 | 141 | 121 | Smiley Tiltbuilder |
 | 142 | 121 | Zany Shatterer |

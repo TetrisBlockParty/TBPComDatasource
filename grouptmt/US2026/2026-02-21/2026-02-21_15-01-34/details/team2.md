@@ -188,8 +188,8 @@
 | 180 | 495 | Poppy Snap |
 | 181 | 488 | Teresa Gillmore |
 | 182 | 486 | MrsCandyfine As Wine Truss |
-| 183 | 485 | Leah Keesling |
-| 184 | 485 | Gene Mills |
+| 183 | 485 | Gene Mills |
+| 184 | 485 | Leah Keesling |
 | 185 | 484 | Suki Kaur |
 | 186 | 483 | Jordan Kaiser |
 | 187 | 482 | Eckoman518 |
@@ -258,8 +258,8 @@
 | 250 | 366 | Wuntayk |
 | 251 | 365 | Christina Lewis-Vickers |
 | 252 | 364 | Lee Harper |
-| 253 | 364 | Shinette Dobson |
-| 254 | 364 | Brandon Armstrong |
+| 253 | 364 | Brandon Armstrong |
+| 254 | 364 | Shinette Dobson |
 | 255 | 363 | William Meussner |
 | 256 | 362 | AkaLefty |
 | 257 | 359 | Brainy Smurf |
@@ -605,8 +605,8 @@
 | 597 | 165 | Catherine Varea |
 | 598 | 164 | Sara Pennington |
 | 599 | 164 | Jessica Vega |
-| 600 | 163 | Danielle Ayoub |
-| 601 | 163 | Tiffney Wroten |
+| 600 | 163 | Tiffney Wroten |
+| 601 | 163 | Danielle Ayoub |
 | 602 | 163 | RetroLemur |
 | 603 | 163 | Angelica |
 | 604 | 162 | LC Hamilton |
@@ -643,8 +643,8 @@
 | 635 | 157 | Klee |
 | 636 | 157 | Ty Quarles |
 | 637 | 157 | Andrew Bratton-Tomes |
-| 638 | 156 | Elizabeth Cotton |
-| 639 | 156 | Renee Bowers |
+| 638 | 156 | Renee Bowers |
+| 639 | 156 | Elizabeth Cotton |
 | 640 | 156 | Deanna Morton |
 | 641 | 156 | Gemini Washington |
 | 642 | 155 | Jacob Huffman |

@@ -164,8 +164,8 @@
 | 156 | 179 | Ashley Jones |
 | 157 | 178 | Khaleada McGill Banks |
 | 158 | 178 | AlsoJess |
-| 159 | 176 | Ryan Williams |
-| 160 | 176 | Rebel124 |
+| 159 | 176 | Rebel124 |
+| 160 | 176 | Ryan Williams |
 | 161 | 175 | DanceLuvLaugh |
 | 162 | 168 | Angie Harper |
 | 163 | 168 | rosy |
