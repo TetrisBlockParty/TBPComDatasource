@@ -91,11 +91,11 @@
 | 83 | 200 | mjl574 |
 | 84 | 199 | joclisa |
 | 85 | 195 | Nicha Hooker |
-| 86 | 193 | Clever Shiftsnap |
-| 87 | 193 | Shunta Jacobs |
+| 86 | 193 | Shunta Jacobs |
+| 87 | 193 | Clever Shiftsnap |
 | 88 | 192 | Chasity |
-| 89 | 187 | Twisty Brick LT |
-| 90 | 187 | Speedy Bridger |
+| 89 | 187 | Speedy Bridger |
+| 90 | 187 | Twisty Brick LT |
 | 91 | 185 | Danielle Cutler |
 | 92 | 184 | Jennie Beranek |
 | 93 | 183 | Judi Dobson |
@@ -107,8 +107,8 @@
 | 99 | 175 | Jenny Hrndz |
 | 100 | 166 | Danielle Mogg |
 | 101 | 164 | rosy |
-| 102 | 159 | Jone |
-| 103 | 159 | Morgan Martinez |
+| 102 | 159 | Morgan Martinez |
+| 103 | 159 | Jone |
 | 104 | 158 | Grams |
 | 105 | 156 | Joey Banks |
 | 106 | 155 | Shannon Matthew Byers |
@@ -125,8 +125,8 @@
 | 117 | 135 | Nicole Flippo |
 | 118 | 134 | DanceLuvLaugh |
 | 119 | 133 | Giddy Twistbuilder |
-| 120 | 131 | Emma |
-| 121 | 131 | Jl |
+| 120 | 131 | Jl |
+| 121 | 131 | Emma |
 | 122 | 128 | Angel Mendez |
 | 123 | 127 | Ryan Williams |
 | 124 | 127 | Aerian Preston |
@@ -151,8 +151,8 @@
 | 143 | 116 | Connie Mohler-Fair |
 | 144 | 115 | Jennifer Alvey |
 | 145 | 115 | Sarajane Lokan |
-| 146 | 114 | Jessica Bechler |
-| 147 | 114 | Nicholas Roddy |
+| 146 | 114 | Nicholas Roddy |
+| 147 | 114 | Jessica Bechler |
 | 148 | 113 | Valerie Gendron |
 | 149 | 112 | Juliana Dottore |
 | 150 | 110 | Tiff Vs Tiffany |
@@ -257,10 +257,10 @@
 | 249 | 72 | Danielle Balcom |
 | 250 | 72 | Christian Luna |
 | 251 | 71 | Gimmegimmebeer |
-| 252 | 71 | Snazzy Filler |
-| 253 | 71 | Gimmegimmebeer |
-| 254 | 70 | Willow |
-| 255 | 70 | Leticia Lynn Lowe |
+| 252 | 71 | LaKisha Legrone |
+| 253 | 71 | Snazzy Filler |
+| 254 | 70 | Leticia Lynn Lowe |
+| 255 | 70 | Willow |
 | 256 | 69 | Jen Lewis |
 | 257 | 68 | Weerae |
 | 258 | 67 | Romeo |

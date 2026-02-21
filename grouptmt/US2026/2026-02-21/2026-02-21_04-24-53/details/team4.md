@@ -47,8 +47,8 @@
 | 39 | 205 | Sarah Neathery |
 | 40 | 198 | Mike Solo |
 | 41 | 197 | Autum Leigh |
-| 42 | 194 | Jamie Mann-Deichmann |
-| 43 | 194 | Rachel Anne |
+| 42 | 194 | Rachel Anne |
+| 43 | 194 | Jamie Mann-Deichmann |
 | 44 | 190 | Brittney Orengo |
 | 45 | 185 | loulou |
 | 46 | 179 | Epic Curvetile |
@@ -78,8 +78,8 @@
 | 70 | 129 | John Brunetti |
 | 71 | 125 | Lauren Scott |
 | 72 | 123 | Nugget |
-| 73 | 122 | Shelly Chandler |
-| 74 | 122 | Sherri |
+| 73 | 122 | Sherri |
+| 74 | 122 | Shelly Chandler |
 | 75 | 121 | Smiley Tiltbuilder |
 | 76 | 120 | Joshua Guess |
 | 77 | 116 | Serena Goodridge |

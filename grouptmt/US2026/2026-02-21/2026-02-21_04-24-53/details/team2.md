@@ -305,8 +305,8 @@
 | 297 | 201 | Zombi3 |
 | 298 | 200 | Cheeky Brickmatch |
 | 299 | 200 | Sarah Ridenour |
-| 300 | 199 | Jenny Castro |
-| 301 | 199 | Jessica Sutter |
+| 300 | 199 | Jessica Sutter |
+| 301 | 199 | Jenny Castro |
 | 302 | 198 | Andea Beck |
 | 303 | 198 | Alyssa Dean |
 | 304 | 198 | Peppy Snapfall |
@@ -314,8 +314,8 @@
 | 306 | 196 | Cass Shirley |
 | 307 | 196 | Alexandra Reese |
 | 308 | 195 | Brave Gridpiece |
-| 309 | 194 | Mike Aprilliano |
-| 310 | 194 | Kimberly Ann |
+| 309 | 194 | Kimberly Ann |
+| 310 | 194 | Mike Aprilliano |
 | 311 | 194 | Hoppy Brickmatch |
 | 312 | 193 | Nika Bee |
 | 313 | 191 | Deana |
@@ -324,10 +324,10 @@
 | 316 | 190 | blarg |
 | 317 | 188 | Justin Hines |
 | 318 | 187 | Shelley Thornburgh Wright |
-| 319 | 186 | Rhonda Milstead |
-| 320 | 186 | Joshua Mullings |
-| 321 | 184 | Stefanie Zonzini-Gagliardi |
-| 322 | 184 | Sassy Linkbuilder |
+| 319 | 186 | Joshua Mullings |
+| 320 | 186 | Rhonda Milstead |
+| 321 | 184 | Sassy Linkbuilder |
+| 322 | 184 | Stefanie Zonzini-Gagliardi |
 | 323 | 183 | Dizzy Zone |
 | 324 | 183 | Brittany Radaszewski |
 | 325 | 182 | Denise Rickman |
@@ -350,8 +350,8 @@
 | 342 | 175 | Tina Blessed Cage |
 | 343 | 174 | Jason Garnatz |
 | 344 | 173 | Wakanda Forever |
-| 345 | 171 | kippykay |
-| 346 | 171 | Cappin You |
+| 345 | 171 | Cappin You |
+| 346 | 171 | kippykay |
 | 347 | 170 | Dedra Steward |
 | 348 | 170 | Darlene Bowman |
 | 349 | 170 | Kenya Felix |
