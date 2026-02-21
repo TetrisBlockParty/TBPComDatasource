@@ -195,8 +195,8 @@
 | 187 | 77 | Chris Alexinas |
 | 188 | 76 | Bethany Ison |
 | 189 | 76 | Madison Sweere |
-| 190 | 75 | Rosemary Foster |
-| 191 | 75 | Christina Black |
+| 190 | 75 | Christina Black |
+| 191 | 75 | Rosemary Foster |
 | 192 | 74 | Krs |
 | 193 | 73 | Lynn Marie |
 | 194 | 73 | Rheanda Weaskus |
@@ -205,8 +205,8 @@
 | 197 | 73 | Joshua Cuellar |
 | 198 | 72 | Robin Getchel |
 | 199 | 71 | Chaz Duncan |
-| 200 | 71 | Lindsey Gonzalez |
-| 201 | 71 | Marcela Johnson |
+| 200 | 71 | Marcela Johnson |
+| 201 | 71 | Lindsey Gonzalez |
 | 202 | 70 | Richard-April Kice |
 | 203 | 69 | Jessica Wells |
 | 204 | 69 | Carol Ricks Raymond |

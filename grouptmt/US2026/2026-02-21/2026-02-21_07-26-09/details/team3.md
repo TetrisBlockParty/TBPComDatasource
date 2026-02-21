@@ -31,19 +31,19 @@
 | 23 | 867 | Briarblack |
 | 24 | 852 | cowboy25469 |
 | 25 | 818 | Delilah belle |
-| 26 | 810 | Zippy Strikesnap |
-| 27 | 810 | Shane Wilson Jr. |
+| 26 | 810 | Shane Wilson Jr. |
+| 27 | 810 | Zippy Strikesnap |
 | 28 | 772 | Corie A. Brinson |
 | 29 | 714 | Amber Jones |
 | 30 | 613 | Amber Hughes |
 | 31 | 612 | Danielle Cutler |
 | 32 | 608 | River |
 | 33 | 598 | Jennifer Willis |
-| 34 | 587 | Suzieq |
-| 35 | 587 | Danielle Becker |
+| 34 | 587 | Danielle Becker |
+| 35 | 587 | Suzieq |
 | 36 | 568 | Shonna Roberts |
-| 37 | 546 | Dolores Falco |
-| 38 | 546 | Snappy Glidepiece |
+| 37 | 546 | Snappy Glidepiece |
+| 38 | 546 | Dolores Falco |
 | 39 | 541 | MissTaylor |
 | 40 | 533 | Sarah Fehring |
 | 41 | 528 | Natasha Jones |
