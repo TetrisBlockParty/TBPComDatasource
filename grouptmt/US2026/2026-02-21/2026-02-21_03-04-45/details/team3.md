@@ -83,8 +83,8 @@
 | 75 | 195 | Nicha Hooker |
 | 76 | 193 | Clever Shiftsnap |
 | 77 | 193 | Shunta Jacobs |
-| 78 | 192 | Jimmie Clemons |
-| 79 | 192 | Chasity |
+| 78 | 192 | Chasity |
+| 79 | 192 | Jimmie Clemons |
 | 80 | 187 | Speedy Bridger |
 | 81 | 185 | Danielle Cutler |
 | 82 | 184 | Jennie Beranek |
@@ -155,8 +155,8 @@
 | 147 | 98 | Jocelyne Baca |
 | 148 | 98 | Armi |
 | 149 | 96 | Tasha Wesson-Torrence |
-| 150 | 96 | Skinny Baldez |
-| 151 | 96 | D3NO |
+| 150 | 96 | D3NO |
+| 151 | 96 | Skinny Baldez |
 | 152 | 95 | Brooke Bauer |
 | 153 | 95 | Daring Builder |
 | 154 | 95 | Demetrious Shaw Sr. |
@@ -200,8 +200,8 @@
 | 192 | 78 | Angie Harper |
 | 193 | 77 | Rania Zaqout |
 | 194 | 77 | Denise Marie |
-| 195 | 77 | Rania Zaqout |
-| 196 | 77 | Lush Risebuilder |
+| 195 | 77 | Lush Risebuilder |
+| 196 | 77 | Nikki Pags |
 | 197 | 76 | Melissa Orth Hunter |
 | 198 | 76 | Sarah Fehring |
 | 199 | 76 | Oliver Neal II |

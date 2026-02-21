@@ -27,8 +27,8 @@
 | 19 | 338 | Nope Young |
 | 20 | 324 | Isabel Aguilar |
 | 21 | 315 | Carolyn Wallace |
-| 22 | 300 | Johnathan Martinez |
-| 23 | 300 | Kimberly Love |
+| 22 | 300 | Kimberly Love |
+| 23 | 300 | Johnathan Martinez |
 | 24 | 293 | Marie-Pier Desjardins |
 | 25 | 283 | HastyGrabber |
 | 26 | 277 | KJ Pool |
@@ -84,11 +84,11 @@
 | 76 | 102 | Faja |
 | 77 | 102 | Austin Owens |
 | 78 | 101 | Michelle Morris |
-| 79 | 100 | Stephme310 |
-| 80 | 100 | Jeff Brian Gates |
+| 79 | 100 | Jeff Brian Gates |
+| 80 | 100 | Stephme310 |
 | 81 | 99 | YoMomma |
-| 82 | 98 | Allen Lloyd |
-| 83 | 98 | Duck |
+| 82 | 98 | Duck |
+| 83 | 98 | Allen Lloyd |
 | 84 | 97 | TinyLegoRose |
 | 85 | 96 | Zappy Snaplink |
 | 86 | 92 | Kristin MacDonald |
