@@ -58,8 +58,8 @@
 | 50 | 622 | River |
 | 51 | 621 | Cherry Parker |
 | 52 | 618 | MissTaylor |
-| 53 | 614 | Jamie Furr |
-| 54 | 614 | Gracie |
+| 53 | 614 | Gracie |
+| 54 | 614 | Jamie Furr |
 | 55 | 613 | Amber Hughes |
 | 56 | 604 | Danielle Becker |
 | 57 | 591 | Suzieq |
@@ -78,8 +78,8 @@
 | 70 | 528 | Giddy Drop |
 | 71 | 526 | Cynthia Castros-Hampton |
 | 72 | 510 | Dave Herzog |
-| 73 | 502 | Joey Banks |
-| 74 | 502 | Justin Ritter |
+| 73 | 502 | Justin Ritter |
+| 74 | 502 | Joey Banks |
 | 75 | 493 | Mandy Smith Oldham |
 | 76 | 485 | Susan Valentino |
 | 77 | 480 | Nate Burnside |
@@ -102,8 +102,8 @@
 | 94 | 394 | joclisa |
 | 95 | 392 | Michelle |
 | 96 | 391 | Calista Jo Dickson |
-| 97 | 390 | Hasty Cascadefit |
-| 98 | 390 | Annie Déè |
+| 97 | 390 | Annie Déè |
+| 98 | 390 | Hasty Cascadefit |
 | 99 | 389 | Elissa S-k |
 | 100 | 387 | Jay Horn |
 | 101 | 386 | Katie Knaus |
@@ -132,8 +132,8 @@
 | 124 | 307 | Blocked |
 | 125 | 307 | Peggi Charon |
 | 126 | 305 | Tessina Dewey-Mancino |
-| 127 | 300 | Sherika C. McDaniels |
-| 128 | 300 | Stephanie Blkpep Davidson |
+| 127 | 300 | Stephanie Blkpep Davidson |
+| 128 | 300 | Sherika C. McDaniels |
 | 129 | 293 | Poppy Splitter |
 | 130 | 287 | Logan Naccarato |
 | 131 | 286 | Jacqueline Rodriguez |

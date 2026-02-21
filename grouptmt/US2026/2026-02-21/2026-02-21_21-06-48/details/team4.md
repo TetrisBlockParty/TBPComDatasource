@@ -47,8 +47,8 @@
 | 39 | 497 | Anthony Bryan Riva |
 | 40 | 494 | Rodney McMath Jr. |
 | 41 | 486 | Landon Keith Graffeo |
-| 42 | 483 | Carmethia Clemons Haslerig |
-| 43 | 483 | Kimberly Love |
+| 42 | 483 | Kimberly Love |
+| 43 | 483 | Carmethia Clemons Haslerig |
 | 44 | 470 | Carolyn Wallace |
 | 45 | 465 | Dawn Alexander |
 | 46 | 463 | Lisa Davis |
@@ -74,8 +74,8 @@
 | 66 | 358 | Nugget |
 | 67 | 355 | Jamie Mann-Deichmann |
 | 68 | 345 | Ancient Intuition |
-| 69 | 308 | Jen Allison |
-| 70 | 308 | David Lay |
+| 69 | 308 | David Lay |
+| 70 | 308 | Jen Allison |
 | 71 | 304 | Livvy |
 | 72 | 303 | Lauren Scott |
 | 73 | 300 | Jason Hart |
@@ -132,10 +132,10 @@
 | 124 | 180 | Leah Kutz Zirbel |
 | 125 | 179 | Epic Curvetile |
 | 126 | 178 | Lori |
-| 127 | 176 | Stacey Stano |
-| 128 | 176 | Klo |
-| 129 | 174 | shark tato |
-| 130 | 174 | Dihcheese444 |
+| 127 | 176 | Klo |
+| 128 | 176 | Stacey Stano |
+| 129 | 174 | Dihcheese444 |
+| 130 | 174 | shark tato |
 | 131 | 174 | Zethra Prenisha Rahming |
 | 132 | 173 | Twisty Cascadezone |
 | 133 | 173 | Ren Mc |
@@ -149,10 +149,10 @@
 | 141 | 156 | Jessica Bohlken |
 | 142 | 156 | Holly |
 | 143 | 153 | Empress Oasis |
-| 144 | 151 | Bethany Ison |
-| 145 | 151 | Avy Absol |
-| 146 | 149 | Roger Coulter |
-| 147 | 149 | Diana Houts |
+| 144 | 151 | Avy Absol |
+| 145 | 151 | Bethany Ison |
+| 146 | 149 | Diana Houts |
+| 147 | 149 | Roger Coulter |
 | 148 | 148 | Brittany Marsh |
 | 149 | 148 | Janita Parrish |
 | 150 | 147 | Jay28 |
@@ -164,8 +164,8 @@
 | 156 | 141 | Marcus Todd |
 | 157 | 141 | ĥuf |
 | 158 | 141 | Kathy Allen |
-| 159 | 140 | Shannon Ferrari |
-| 160 | 140 | John Brunetti |
+| 159 | 140 | John Brunetti |
+| 160 | 140 | Shannon Ferrari |
 | 161 | 137 | PeaceOs |
 | 162 | 136 | Sarah Brown |
 | 163 | 136 | Tanner Lund |
@@ -176,9 +176,9 @@
 | 168 | 134 | Zany Shatterer |
 | 169 | 134 | Chirpy Basepiece |
 | 170 | 133 | Angela Geist Jusinski |
-| 171 | 132 | Jessica Cagle |
-| 172 | 132 | Degenerate |
-| 173 | 132 | Melissa Priest Sellers |
+| 171 | 132 | Melissa Priest Sellers |
+| 172 | 132 | Jessica Cagle |
+| 173 | 132 | Degenerate |
 | 174 | 131 | Michelle Morris |
 | 175 | 131 | TinyLegoRose |
 | 176 | 130 | Shukee Lo |

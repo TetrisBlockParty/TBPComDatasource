@@ -207,8 +207,8 @@
 | 199 | 591 | Diana Fitzwater |
 | 200 | 587 | Hyper Cluster |
 | 201 | 586 | Stephen Stephen |
-| 202 | 583 | Jessicah Myers |
-| 203 | 583 | Steve Grotto |
+| 202 | 583 | Steve Grotto |
+| 203 | 583 | Jessicah Myers |
 | 204 | 579 | Gary Stash |
 | 205 | 578 | Sally Dennis |
 | 206 | 576 | Shannon Joslin |
@@ -222,8 +222,8 @@
 | 214 | 553 | Leslie Ann Carter |
 | 215 | 549 | Charvi' Carter |
 | 216 | 549 | Kaylee McCafferty |
-| 217 | 541 | SaraMarie Eveland |
-| 218 | 541 | Giggy Blocker |
+| 217 | 541 | Giggy Blocker |
+| 218 | 541 | SaraMarie Eveland |
 | 219 | 540 | Allan Wayne Lamia |
 | 220 | 537 | Mr. Street Stack |
 | 221 | 536 | Desiree Harris Rosch |
@@ -274,8 +274,8 @@
 | 266 | 474 | Ashley Collins |
 | 267 | 474 | Calandra Shaya Robinson |
 | 268 | 470 | Jerry Tempelmeyer |
-| 269 | 469 | Amélie Cadieux |
-| 270 | 469 | Ashley Rose Frederick |
+| 269 | 469 | Ashley Rose Frederick |
+| 270 | 469 | Amélie Cadieux |
 | 271 | 467 | Scott Treadway |
 | 272 | 465 | Drwatson187 |
 | 273 | 465 | Maya June |
@@ -297,8 +297,8 @@
 | 289 | 442 | Daphne Jordan |
 | 290 | 442 | Leah |
 | 291 | 440 | Liberty |
-| 292 | 439 | Joseph Musick |
-| 293 | 439 | Alisa Lamb |
+| 292 | 439 | Alisa Lamb |
+| 293 | 439 | Joseph Musick |
 | 294 | 439 | Nashu |
 | 295 | 437 | Arwa Fatimah |
 | 296 | 436 | Melissa Kay Gibson |
@@ -307,8 +307,8 @@
 | 299 | 429 | ShinyRose |
 | 300 | 428 | Rhonda Milstead |
 | 301 | 427 | Destiny Cozier |
-| 302 | 425 | Julay |
-| 303 | 425 | Skyler Morgan |
+| 302 | 425 | Skyler Morgan |
+| 303 | 425 | Julay |
 | 304 | 423 | Shaun Church |
 | 305 | 422 | Morgue Chick |
 | 306 | 422 | Mamachelle Eisweirth |
@@ -344,8 +344,8 @@
 | 336 | 394 | Taryece Gause |
 | 337 | 392 | Mighty Shatterfit |
 | 338 | 391 | Chilly Bridgepiece |
-| 339 | 391 | Alexandra Reese |
-| 340 | 391 | Qiana Sanders |
+| 339 | 391 | Qiana Sanders |
+| 340 | 391 | Alexandra Reese |
 | 341 | 389 | Kristen O'Neal |
 | 342 | 386 | Deanna Morton |
 | 343 | 384 | Mike Aprilliano |
