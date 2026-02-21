@@ -65,8 +65,8 @@
 | 57 | 387 | Nerdy Spinblock |
 | 58 | 385 | Brandon Green |
 | 59 | 372 | Patty Allen |
-| 60 | 371 | Jesse Olive |
-| 61 | 371 | Tasha Schriewer |
+| 60 | 371 | Tasha Schriewer |
+| 61 | 371 | Jesse Olive |
 | 62 | 370 | yoyo |
 | 63 | 367 | Tetris Master |
 | 64 | 362 | Liv Whetson |
@@ -132,8 +132,8 @@
 | 124 | 184 | Jennie Beranek |
 | 125 | 182 | Hyper Matchzone |
 | 126 | 182 | Ashley Tookes |
-| 127 | 180 | Tessina Dewey-Mancino |
-| 128 | 180 | Fallorina Susana |
+| 127 | 180 | Fallorina Susana |
+| 128 | 180 | Tessina Dewey-Mancino |
 | 129 | 179 | Daira Largen |
 | 130 | 178 | Khaleada McGill Banks |
 | 131 | 176 | Ryan Williams |
@@ -147,8 +147,8 @@
 | 139 | 159 | Mcathen |
 | 140 | 159 | Morgan Martinez |
 | 141 | 158 | Grams |
-| 142 | 157 | Patricia Gadsden |
-| 143 | 157 | Nicholas Roddy |
+| 142 | 157 | Nicholas Roddy |
+| 143 | 157 | Patricia Gadsden |
 | 144 | 156 | Joey Banks |
 | 145 | 155 | BŘŰŤİÇŨŚ |
 | 146 | 154 | Angela M. Fletcher |

@@ -202,8 +202,8 @@
 | 194 | 363 | William Meussner |
 | 195 | 359 | Brainy Smurf |
 | 196 | 357 | Shannon Byrd |
-| 197 | 356 | Alyssaaelena |
-| 198 | 356 | Deyawn Smith |
+| 197 | 356 | Deyawn Smith |
+| 198 | 356 | Alyssaaelena |
 | 199 | 354 | Tracy Wise |
 | 200 | 352 | ruth |
 | 201 | 350 | Brave Dropmatch |

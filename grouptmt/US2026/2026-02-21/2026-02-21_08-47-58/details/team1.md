@@ -44,8 +44,8 @@
 | 36 | 294 | Jacqueline Williams |
 | 37 | 291 | Nancy Green |
 | 38 | 281 | Maria C. Hernandez |
-| 39 | 274 | Theo Pinnow |
-| 40 | 274 | Sweet Baker |
+| 39 | 274 | Sweet Baker |
+| 40 | 274 | Theo Pinnow |
 | 41 | 265 | Jennifer Cates |
 | 42 | 256 | Robert Benito |
 | 43 | 256 | Tipsy Column |
@@ -86,8 +86,8 @@
 | 78 | 163 | Chad Atchley |
 | 79 | 162 | Patrick Luckenbill |
 | 80 | 161 | Abbey Crespo |
-| 81 | 155 | Standia Civil |
-| 82 | 155 | David DeSantis |
+| 81 | 155 | David DeSantis |
+| 82 | 155 | Standia Civil |
 | 83 | 153 | Shiny Gridmatch |
 | 84 | 152 | Jacqueline Unique |
 | 85 | 149 | Tana |
@@ -107,8 +107,8 @@
 | 99 | 137 | Nadine Velardo |
 | 100 | 134 | Trina Gee |
 | 101 | 133 | Brandi Huntington |
-| 102 | 132 | Lori Sanders- Davis |
-| 103 | 132 | Davery Spencer Adair |
+| 102 | 132 | Davery Spencer Adair |
+| 103 | 132 | Lori Sanders- Davis |
 | 104 | 130 | Dandy Basegrid |
 | 105 | 128 | lil mickey |
 | 106 | 128 | Uhog SF |
