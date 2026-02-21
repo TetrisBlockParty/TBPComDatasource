@@ -51,8 +51,8 @@
 | 43 | 140 | Carter Jones |
 | 44 | 139 | Denise Carlson |
 | 45 | 138 | BertMofo |
-| 46 | 133 | Jessica Bohlken |
-| 47 | 133 | Robin Watters |
+| 46 | 133 | Robin Watters |
+| 47 | 133 | Jessica Bohlken |
 | 48 | 132 | Jenna McGeorge |
 | 49 | 130 | Casey Jeffcoat |
 | 50 | 129 | Samantha Peterson |
@@ -119,8 +119,8 @@
 | 111 | 71 | Christina Black |
 | 112 | 71 | Shukee Lo |
 | 113 | 70 | Valerie Roberts |
-| 114 | 69 | Michelle Marie |
-| 115 | 69 | Carol Ricks Raymond |
+| 114 | 69 | Carol Ricks Raymond |
+| 115 | 69 | Michelle Marie |
 | 116 | 68 | LS |
 | 117 | 67 | Lindsey Gonzalez |
 | 118 | 67 | Cozy Framezone |

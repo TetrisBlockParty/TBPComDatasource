@@ -112,8 +112,8 @@
 | 104 | 124 | Marquita Sheard |
 | 105 | 122 | Aerian Preston |
 | 106 | 122 | Shimika Enay Wallace |
-| 107 | 120 | Jessica |
-| 108 | 120 | Michael Latasha Gray |
+| 107 | 120 | Michael Latasha Gray |
+| 108 | 120 | Jessica |
 | 109 | 119 | Terry Jo Jones |
 | 110 | 118 | Bea Miles |
 | 111 | 118 | Fancy Curver |
@@ -121,14 +121,14 @@
 | 113 | 113 | Jennifer Alvey |
 | 114 | 112 | Connie Mohler-Fair |
 | 115 | 111 | Joy Petroski |
-| 116 | 110 | Stella |
-| 117 | 110 | Tiff Vs Tiffany |
+| 116 | 110 | Tiff Vs Tiffany |
+| 117 | 110 | Stella |
 | 118 | 108 | Grams |
 | 119 | 108 | Rachel Napper |
 | 120 | 107 | Bryan Byrd |
 | 121 | 105 | Hoppy Buildout |
-| 122 | 103 | Brian Battjes |
-| 123 | 103 | Annie Déè |
+| 122 | 103 | Annie Déè |
+| 123 | 103 | Brian Battjes |
 | 124 | 102 | Sarah Moyer |
 | 125 | 102 | mommablock |
 | 126 | 102 | Jenny Hrndz |
@@ -143,8 +143,8 @@
 | 135 | 98 | Ryan Williams |
 | 136 | 98 | Jocelyne Baca |
 | 137 | 98 | Armi |
-| 138 | 96 | D3NO |
-| 139 | 96 | Skinny Baldez |
+| 138 | 96 | Skinny Baldez |
+| 139 | 96 | D3NO |
 | 140 | 96 | Sherry Ogden |
 | 141 | 95 | Brooke Bauer |
 | 142 | 95 | Demetrious Shaw Sr. |
