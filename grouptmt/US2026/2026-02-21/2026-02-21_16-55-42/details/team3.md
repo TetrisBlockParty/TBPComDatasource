@@ -43,8 +43,8 @@
 | 35 | 829 | Kay |
 | 36 | 821 | Jessica Ann |
 | 37 | 811 | Corie A. Brinson |
-| 38 | 810 | Shane Wilson Jr. |
-| 39 | 810 | Zippy Strikesnap |
+| 38 | 810 | Zippy Strikesnap |
+| 39 | 810 | Shane Wilson Jr. |
 | 40 | 733 | Chummy Shatterer |
 | 41 | 702 | Stephanie Allmon |
 | 42 | 691 | Danielle Cutler |
@@ -110,8 +110,8 @@
 | 102 | 321 | Dapper Snap |
 | 103 | 320 | Or Reznitsky |
 | 104 | 316 | Fancy Cascader |
-| 105 | 309 | CeceGeGe |
-| 106 | 309 | Rich LeBlanc |
+| 105 | 309 | Rich LeBlanc |
+| 106 | 309 | CeceGeGe |
 | 107 | 307 | Blocked |
 | 108 | 307 | Peggi Charon |
 | 109 | 301 | Chasity |
@@ -288,8 +288,8 @@
 | 280 | 106 | Cheeky Snapper |
 | 281 | 106 | Noettín Kan Zasnemoore |
 | 282 | 105 | Donna |
-| 283 | 105 | Boldy Blocker |
-| 284 | 105 | Emi |
+| 283 | 105 | Emi |
+| 284 | 105 | Boldy Blocker |
 | 285 | 104 | Samantha Lynn |
 | 286 | 104 | Sarah Moyer |
 | 287 | 104 | Ashley Rufus Bythcez |
@@ -386,10 +386,10 @@
 | 378 | 78 | Nena Somerville Kelly |
 | 379 | 78 | Myriam Lapierre |
 | 380 | 78 | Clever Patterner |
-| 381 | 77 | Tommy Proctor |
-| 382 | 77 | Danielle Balcom |
-| 383 | 77 | Randy Clevenger |
-| 384 | 77 | Jess Reppert |
+| 381 | 77 | Randy Clevenger |
+| 382 | 77 | Tommy Proctor |
+| 383 | 77 | Jess Reppert |
+| 384 | 77 | Danielle Balcom |
 | 385 | 77 | Bekah Dietrich |
 | 386 | 77 | Tanesha BigBabby Darling |
 | 387 | 77 | Monica Crespo |
