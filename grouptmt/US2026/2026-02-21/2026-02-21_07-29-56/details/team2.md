@@ -38,8 +38,8 @@
 | 30 | 1257 | Crystalin Heath Lewis |
 | 31 | 1234 | blackq |
 | 32 | 1215 | Megan Garrick |
-| 33 | 1173 | Katrina Williams Balmir |
-| 34 | 1173 | Devin Lee |
+| 33 | 1173 | Devin Lee |
+| 34 | 1173 | Katrina Williams Balmir |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -116,8 +116,8 @@
 | 108 | 545 | Brittany Alicia |
 | 109 | 542 | Rosa Franklin |
 | 110 | 541 | SaraMarie Eveland |
-| 111 | 540 | YiFei |
-| 112 | 540 | Charvi' Carter |
+| 111 | 540 | Charvi' Carter |
+| 112 | 540 | YiFei |
 | 113 | 534 | Poppy Snapper |
 | 114 | 531 | Chris Wanner |
 | 115 | 529 | Tonya Morgan |
@@ -517,7 +517,7 @@
 | 509 | 146 | Sherry Aguinaga |
 | 510 | 145 | William Hughes |
 | 511 | 145 | Scott Rackley |
-| 512 | 145 | William Hughes |
+| 512 | 145 | Chareen Lauritzen |
 | 513 | 145 | Catina Hutchison |
 | 514 | 145 | Lakeela Wise |
 | 515 | 145 | Lazy Riseclear |
@@ -540,8 +540,8 @@
 | 532 | 140 | Jasmine Kenney |
 | 533 | 140 | Sheretta Holmes Lil'bit |
 | 534 | 140 | Brandy Sutton |
-| 535 | 140 | Preya Patel |
-| 536 | 140 | Kimberly Ann |
+| 535 | 140 | Kimberly Ann |
+| 536 | 140 | Preya Patel |
 | 537 | 139 | Jackson Smith |
 | 538 | 139 | Octavio Garza |
 | 539 | 138 | Gursharan Sandhu |
@@ -703,7 +703,7 @@
 | 695 | 110 | Theresa Ring |
 | 696 | 110 | Narutofreak13 |
 | 697 | 110 | Sarah Dean |
-| 698 | 110 | Narutofreak13 |
+| 698 | 110 | Britni Deas |
 | 699 | 109 | Scott |
 | 700 | 109 | Andrew Engman |
 | 701 | 109 | Nicolle Danielle |

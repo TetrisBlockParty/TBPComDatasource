@@ -79,8 +79,8 @@
 | 71 | 165 | GATOR |
 | 72 | 163 | Chad Atchley |
 | 73 | 162 | Patrick Luckenbill |
-| 74 | 161 | Jennifer Olewnik Soborowski |
-| 75 | 161 | Abbey Crespo |
+| 74 | 161 | Abbey Crespo |
+| 75 | 161 | Jennifer Olewnik Soborowski |
 | 76 | 155 | Standia Civil |
 | 77 | 155 | David DeSantis |
 | 78 | 153 | Rachael |
@@ -156,8 +156,8 @@
 | 148 | 89 | Mara Hilker |
 | 149 | 88 | Shauntina Burke |
 | 150 | 87 | Jessi Sauer |
-| 151 | 86 | Desiree Deschaine Havee |
-| 152 | 86 | Basment Living |
+| 151 | 86 | Basment Living |
+| 152 | 86 | Desiree Deschaine Havee |
 | 153 | 85 | Steve Schneider |
 | 154 | 84 | Kayla Marie Stevenson |
 | 155 | 84 | Eddie Dillon |

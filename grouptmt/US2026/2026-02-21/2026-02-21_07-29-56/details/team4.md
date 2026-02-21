@@ -102,8 +102,8 @@
 | 94 | 131 | Dana Scott |
 | 95 | 130 | Lucas J Sutton |
 | 96 | 130 | Casey Jeffcoat |
-| 97 | 129 | Landon Keith Graffeo |
-| 98 | 129 | John Brunetti |
+| 97 | 129 | John Brunetti |
+| 98 | 129 | Landon Keith Graffeo |
 | 99 | 125 | Lauren Scott |
 | 100 | 123 | Nugget |
 | 101 | 123 | Cherrish Duren |
