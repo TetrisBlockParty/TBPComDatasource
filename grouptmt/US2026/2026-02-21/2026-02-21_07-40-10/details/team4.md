@@ -112,10 +112,10 @@
 | 104 | 123 | Bubbly Puzzler |
 | 105 | 123 | Cherrish Duren |
 | 106 | 122 | Sherri |
-| 107 | 121 | Zany Shatterer |
-| 108 | 121 | 030Synner |
-| 109 | 121 | Klo |
-| 110 | 121 | Smiley Tiltbuilder |
+| 107 | 121 | Klo |
+| 108 | 121 | Smiley Tiltbuilder |
+| 109 | 121 | 030Synner |
+| 110 | 121 | Zany Shatterer |
 | 111 | 120 | Joshua Guess |
 | 112 | 119 | Kristin Manee |
 | 113 | 118 | Leslie Nicole |
@@ -180,9 +180,9 @@
 | 172 | 83 | Joseph Gray |
 | 173 | 83 | Avy Absol |
 | 174 | 82 | Kim Hunt |
-| 175 | 81 | Michelle Parker |
+| 175 | 81 | Jumpy Zonepiece |
 | 176 | 81 | Blessedmama |
-| 177 | 81 | Jumpy Zonepiece |
+| 177 | 81 | Michelle Parker |
 | 178 | 81 | Chair |
 | 179 | 81 | Nubian1 |
 | 180 | 81 | Carlos Ramirez |
@@ -268,8 +268,8 @@
 | 260 | 57 | Heather Bruce |
 | 261 | 57 | Hyper Matchclear |
 | 262 | 56 | Brittany Little |
-| 263 | 56 | Crystal Lynn |
-| 264 | 56 | Brandon Crabbs |
+| 263 | 56 | Brandon Crabbs |
+| 264 | 56 | Crystal Lynn |
 | 265 | 56 | Cj Lewis-haut |
 | 266 | 55 | Mylo Lipscomb |
 | 267 | 55 | Keshia Lyons |
