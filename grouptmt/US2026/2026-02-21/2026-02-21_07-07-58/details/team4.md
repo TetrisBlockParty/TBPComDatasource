@@ -67,14 +67,14 @@
 | 59 | 179 | Epic Curvetile |
 | 60 | 175 | Dustee Craddock-Harrison |
 | 61 | 171 | Clarence Patawaran |
-| 62 | 170 | Leah Kutz Zirbel |
-| 63 | 170 | Girl |
+| 62 | 170 | Girl |
+| 63 | 170 | Leah Kutz Zirbel |
 | 64 | 167 | Denise Carlson |
 | 65 | 165 | Casey Grabner |
 | 66 | 165 | Courtney Cicoria |
 | 67 | 160 | Carter Jones |
-| 68 | 159 | Holly Jolly |
-| 69 | 159 | Justin Hannigan |
+| 68 | 159 | Justin Hannigan |
+| 69 | 159 | Holly Jolly |
 | 70 | 157 | quicksand420 |
 | 71 | 154 | ThaEviLJeNiuZ |
 | 72 | 154 | shar |
@@ -89,8 +89,8 @@
 | 81 | 134 | Chirpy Basepiece |
 | 82 | 134 | Jessica Bohlken |
 | 83 | 133 | Robin Watters |
-| 84 | 132 | Jenna McGeorge |
-| 85 | 132 | Degenerate |
+| 84 | 132 | Degenerate |
+| 85 | 132 | Jenna McGeorge |
 | 86 | 132 | Melissa Priest Sellers |
 | 87 | 131 | Mr. Party |
 | 88 | 131 | Zany Twisterfit |

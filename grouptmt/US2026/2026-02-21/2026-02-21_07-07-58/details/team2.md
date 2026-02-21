@@ -38,8 +38,8 @@
 | 30 | 1234 | blackq |
 | 31 | 1215 | Megan Garrick |
 | 32 | 1214 | Dustin Rains |
-| 33 | 1173 | Devin Lee |
-| 34 | 1173 | Katrina Williams Balmir |
+| 33 | 1173 | Katrina Williams Balmir |
+| 34 | 1173 | Devin Lee |
 | 35 | 1157 | Priscilla Noel |
 | 36 | 1150 | Izabel Herrera |
 | 37 | 1143 | Lucky Ladybug |
@@ -94,8 +94,8 @@
 | 86 | 658 | Pacynthia Williams |
 | 87 | 658 | Vistabrat |
 | 88 | 653 | Becky Weeks-Garry |
-| 89 | 649 | Anna Edwards |
-| 90 | 649 | Stephanie Chapman |
+| 89 | 649 | Stephanie Chapman |
+| 90 | 649 | Anna Edwards |
 | 91 | 631 | Loopy Clusterbuilder |
 | 92 | 620 | BYM4L |
 | 93 | 608 | John Bednarik |
@@ -151,8 +151,8 @@
 | 143 | 453 | Osun Anuket Esu |
 | 144 | 452 | Alezandra Smith |
 | 145 | 450 | Giggy Blocker |
-| 146 | 448 | Jojo Momma |
-| 147 | 448 | Nick Jensen |
+| 146 | 448 | Nick Jensen |
+| 147 | 448 | Jojo Momma |
 | 148 | 442 | Daphne Jordan |
 | 149 | 427 | Destiny Cozier |
 | 150 | 426 | Magic steve |
@@ -189,8 +189,8 @@
 | 181 | 348 | Richard Horton |
 | 182 | 348 | Cherica Taylor |
 | 183 | 345 | Brenda Messer |
-| 184 | 345 | Rhianna DiLorenzo |
-| 185 | 345 | Wuntayk |
+| 184 | 345 | Wuntayk |
+| 185 | 345 | Rhianna DiLorenzo |
 | 186 | 344 | Julie Kresal |
 | 187 | 344 | Christina Lewis-Vickers |
 | 188 | 344 | Brave Dropmatch |
@@ -395,8 +395,8 @@
 | 387 | 184 | Sassy Linkbuilder |
 | 388 | 184 | Brittany Radaszewski |
 | 389 | 183 | Wakanda Forever |
-| 390 | 183 | Ys Muhammed |
-| 391 | 183 | Shaun Church |
+| 390 | 183 | Shaun Church |
+| 391 | 183 | Ys Muhammed |
 | 392 | 182 | Niceday |
 | 393 | 182 | Donna M Carter |
 | 394 | 181 | Fi Ne |
@@ -660,8 +660,8 @@
 | 652 | 114 | James Louie |
 | 653 | 114 | Biggest thing |
 | 654 | 114 | Kimberly Mcmullen |
-| 655 | 113 | Della Hole |
-| 656 | 113 | Hillary Franklin |
+| 655 | 113 | Hillary Franklin |
+| 656 | 113 | Della Hole |
 | 657 | 113 | Brave Gridzone |
 | 658 | 112 | Emily Lyric Converse |
 | 659 | 112 | Leroy Jenkins |
@@ -773,7 +773,7 @@
 | 765 | 99 | Boogie SoAnimated Johnson |
 | 766 | 99 | Karen Madigan |
 | 767 | 99 | Bri Lynn |
-| 768 | 98 | Chris Mcadams |
+| 768 | 98 | Plucky Cascadeclear |
 | 769 | 98 | Anita Ortiz |
 | 770 | 98 | Ekaterina Gokmen |
 | 771 | 98 | Chris Mcadams |

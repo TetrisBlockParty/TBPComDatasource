@@ -180,8 +180,8 @@
 | 172 | 121 | Juliana Dottore |
 | 173 | 120 | Jessica |
 | 174 | 118 | Fancy Curver |
-| 175 | 116 | Joy Petroski |
-| 176 | 116 | Skinny Baldez |
+| 175 | 116 | Skinny Baldez |
+| 176 | 116 | Joy Petroski |
 | 177 | 115 | Jennifer Alvey |
 | 178 | 114 | Nicholas Roddy |
 | 179 | 114 | Jessica Bechler |

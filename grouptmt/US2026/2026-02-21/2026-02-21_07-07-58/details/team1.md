@@ -57,11 +57,11 @@
 | 49 | 205 | Trippy Redd |
 | 50 | 204 | Ly Phethmany |
 | 51 | 202 | Dee Perry |
-| 52 | 201 | Anaid Sanchez |
-| 53 | 201 | Ananda Mendez |
+| 52 | 201 | Ananda Mendez |
+| 53 | 201 | Anaid Sanchez |
 | 54 | 200 | Lexuriuos Lifestlye |
-| 55 | 198 | Happy Snapbuild |
-| 56 | 198 | Billie Dawn Sparks |
+| 55 | 198 | Billie Dawn Sparks |
+| 56 | 198 | Happy Snapbuild |
 | 57 | 197 | Cynthia Bradley |
 | 58 | 194 | Sharon Reynolds |
 | 59 | 192 | Mandyy Rae |
@@ -76,8 +76,8 @@
 | 68 | 166 | Rico Rico |
 | 69 | 165 | GATOR |
 | 70 | 163 | Chad Atchley |
-| 71 | 161 | Abbey Crespo |
-| 72 | 161 | Jennifer Olewnik Soborowski |
+| 71 | 161 | Jennifer Olewnik Soborowski |
+| 72 | 161 | Abbey Crespo |
 | 73 | 155 | David DeSantis |
 | 74 | 155 | Standia Civil |
 | 75 | 153 | Shiny Gridmatch |
@@ -91,8 +91,8 @@
 | 83 | 144 | Tanya Carpenter-Reynolds |
 | 84 | 144 | femmefatale |
 | 85 | 143 | Sarah Marie |
-| 86 | 141 | Susanna Guerry |
-| 87 | 141 | Blaire Bruckoff |
+| 86 | 141 | Blaire Bruckoff |
+| 87 | 141 | Susanna Guerry |
 | 88 | 138 | Gary Gobin |
 | 89 | 137 | Nadine Velardo |
 | 90 | 133 | Brandi Huntington |
@@ -106,8 +106,8 @@
 | 98 | 126 | Cece Ibarra |
 | 99 | 126 | Rachael |
 | 100 | 121 | Bouncy Grid |
-| 101 | 119 | Irual Hctrab |
-| 102 | 119 | Tater |
+| 101 | 119 | Tater |
+| 102 | 119 | Irual Hctrab |
 | 103 | 118 | Barry Mac'Ockner |
 | 104 | 116 | Evie Khalil |
 | 105 | 115 | comrade fish |
@@ -147,9 +147,9 @@
 | 139 | 90 | Madison Wicks |
 | 140 | 89 | Mara Hilker |
 | 141 | 87 | Jessi Sauer |
-| 142 | 86 | Desiree Deschaine Havee |
+| 142 | 86 | Barrbaric |
 | 143 | 86 | Basment Living |
-| 144 | 86 | Barrbaric |
+| 144 | 86 | Desiree Deschaine Havee |
 | 145 | 85 | Steve Schneider |
 | 146 | 84 | Speedy Snapfall |
 | 147 | 84 | Yvonne Marie |
@@ -309,7 +309,7 @@
 | 301 | 48 | Vivian Bush |
 | 302 | 48 | Greg Hart |
 | 303 | 48 | TristansDad |
-| 304 | 47 | Cheery Zonegrid |
+| 304 | 47 | Mary Love |
 | 305 | 47 | Lush Zoney |
 | 306 | 47 | Nick |
 | 307 | 47 | Cheery Zonegrid |
