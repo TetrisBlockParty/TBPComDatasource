@@ -426,8 +426,8 @@
 | 418 | 157 | Klee |
 | 419 | 157 | Twisty Tetriblast |
 | 420 | 156 | RetroLemur |
-| 421 | 156 | Nuggets |
-| 422 | 156 | Ramone Armstrong |
+| 421 | 156 | Ramone Armstrong |
+| 422 | 156 | Nuggets |
 | 423 | 156 | Deanna Morton |
 | 424 | 155 | Angela Murgia-Owen |
 | 425 | 155 | Chelle |
@@ -442,8 +442,8 @@
 | 434 | 152 | Anthony Mignacca |
 | 435 | 151 | Jennifer Rajek |
 | 436 | 151 | D'Aaron Black |
-| 437 | 150 | Jodi Mitnick |
-| 438 | 150 | Candace Noel |
+| 437 | 150 | Candace Noel |
+| 438 | 150 | Jodi Mitnick |
 | 439 | 150 | Hong Tang |
 | 440 | 149 | Melissa Rebbe-Lehman |
 | 441 | 149 | JacJac |
@@ -544,14 +544,14 @@
 | 536 | 124 | Samantha Williams-Bittner |
 | 537 | 124 | Monica Brown |
 | 538 | 124 | Kia Humphery |
-| 539 | 124 | Witty Piecebuilder |
+| 539 | 124 | Jazzy Grabber |
 | 540 | 123 | Ri St |
-| 541 | 122 | Michael Tate |
-| 542 | 122 | Mia Muse Best |
-| 543 | 122 | Cassie Newton |
+| 541 | 122 | Cassie Newton |
+| 542 | 122 | Michael Tate |
+| 543 | 122 | Mia Muse Best |
 | 544 | 122 | BK Queen |
-| 545 | 121 | Stephen Stephen |
-| 546 | 121 | g |
+| 545 | 121 | g |
+| 546 | 121 | Stephen Stephen |
 | 547 | 121 | Pam Doughty |
 | 548 | 121 | Amy Humphreys |
 | 549 | 121 | Brandy |

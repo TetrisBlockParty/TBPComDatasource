@@ -89,8 +89,8 @@
 | 81 | 132 | Davery Spencer Adair |
 | 82 | 130 | Dandy Basegrid |
 | 83 | 129 | Trina Gee |
-| 84 | 128 | Gary Gobin |
-| 85 | 128 | Uhog SF |
+| 84 | 128 | Uhog SF |
+| 85 | 128 | Gary Gobin |
 | 86 | 126 | Cece Ibarra |
 | 87 | 121 | Bouncy Grid |
 | 88 | 119 | Tater |
@@ -151,7 +151,7 @@
 | 143 | 80 | Matt Cinelli |
 | 144 | 79 | LD1 |
 | 145 | 79 | Chris65 |
-| 146 | 79 | LD1 |
+| 146 | 79 | Tyler Whitley |
 | 147 | 78 | Sam Williams |
 | 148 | 77 | Kellie |
 | 149 | 77 | Teddy Alexander |
@@ -163,8 +163,8 @@
 | 155 | 75 | Tyler L Hunt |
 | 156 | 75 | Fresno Beotoni |
 | 157 | 74 | Owicked1 |
-| 158 | 74 | Grace Joanne Agnant |
-| 159 | 74 | Eddie Dillon |
+| 158 | 74 | Eddie Dillon |
+| 159 | 74 | Grace Joanne Agnant |
 | 160 | 73 | Shanae Grant |
 | 161 | 72 | Tipsy Strikerpiece |
 | 162 | 71 | John Kim |
