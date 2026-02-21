@@ -40,8 +40,8 @@
 | 32 | 867 | Briarblack |
 | 33 | 859 | Amber Jones |
 | 34 | 821 | Jessica Ann |
-| 35 | 810 | Zippy Strikesnap |
-| 36 | 810 | Shane Wilson Jr. |
+| 35 | 810 | Shane Wilson Jr. |
+| 36 | 810 | Zippy Strikesnap |
 | 37 | 801 | Corie A. Brinson |
 | 38 | 761 | Kay |
 | 39 | 733 | Chummy Shatterer |
@@ -102,8 +102,8 @@
 | 94 | 320 | Or Reznitsky |
 | 95 | 316 | Fancy Cascader |
 | 96 | 315 | Elaine Webb Graves |
-| 97 | 309 | Rich LeBlanc |
-| 98 | 309 | CeceGeGe |
+| 97 | 309 | CeceGeGe |
+| 98 | 309 | Rich LeBlanc |
 | 99 | 307 | Peggi Charon |
 | 100 | 307 | Blocked |
 | 101 | 306 | Speedy Bridger |

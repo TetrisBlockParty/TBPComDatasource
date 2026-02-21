@@ -198,8 +198,8 @@
 | 190 | 485 | Leah Keesling |
 | 191 | 484 | Suki Kaur |
 | 192 | 483 | Jordan Kaiser |
-| 193 | 482 | Eckoman518 |
-| 194 | 482 | Thomas Hughes |
+| 193 | 482 | Thomas Hughes |
+| 194 | 482 | Eckoman518 |
 | 195 | 481 | Lylymom |
 | 196 | 474 | Auntie B |
 | 197 | 473 | Ashley Collins |
@@ -253,9 +253,9 @@
 | 245 | 391 | Brenda Utphall |
 | 246 | 391 | Chilly Bridgepiece |
 | 247 | 386 | Macy Williams |
-| 248 | 385 | Skyler Morgan |
-| 249 | 385 | Sam |
-| 250 | 385 | Arwa Fatimah |
+| 248 | 385 | Sam |
+| 249 | 385 | Arwa Fatimah |
+| 250 | 385 | Skyler Morgan |
 | 251 | 383 | Arkei Luster |
 | 252 | 382 | David Holliday |
 | 253 | 379 | Jánine Riggs |
@@ -306,8 +306,8 @@
 | 298 | 330 | Taryece Gause |
 | 299 | 330 | Victoria Moore-Smith |
 | 300 | 330 | Dar |
-| 301 | 329 | Jessie McDougald |
-| 302 | 329 | Nicole Cannon |
+| 301 | 329 | Nicole Cannon |
+| 302 | 329 | Jessie McDougald |
 | 303 | 327 | Danielle Simmons |
 | 304 | 326 | Elisheva Mizrachi |
 | 305 | 324 | Kiana Boschh |
