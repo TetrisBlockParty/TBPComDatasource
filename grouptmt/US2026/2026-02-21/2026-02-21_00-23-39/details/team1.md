@@ -21,8 +21,8 @@
 | 13 | 338 | Jayme Sellers |
 | 14 | 301 | Zerin Graham |
 | 15 | 294 | Jacqueline Williams |
-| 16 | 281 | Kathi Snustad |
-| 17 | 281 | Nancy Green |
+| 16 | 281 | Nancy Green |
+| 17 | 281 | Kathi Snustad |
 | 18 | 263 | Andrea Dañielle Ortiz |
 | 19 | 238 | Tipsy Column |
 | 20 | 217 | COOL as Icer |
@@ -75,8 +75,8 @@
 | 67 | 93 | Ty Brown |
 | 68 | 91 | Spunky Piecebuilder |
 | 69 | 91 | Melissa Lemmon |
-| 70 | 90 | Madison Wicks |
-| 71 | 90 | comrade fish |
+| 70 | 90 | comrade fish |
+| 71 | 90 | Madison Wicks |
 | 72 | 87 | Jessi Sauer |
 | 73 | 84 | Charla Pross-Fugleberg |
 | 74 | 83 | TSwag |

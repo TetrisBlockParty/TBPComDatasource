@@ -57,12 +57,12 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | MissTaylor |
-| 53 | 206 | Jennifer Willis |
+| 52 | 206 | Jennifer Willis |
+| 53 | 206 | MissTaylor |
 | 54 | 203 | Crimson |
 | 55 | 198 | Nerdy Riseclear |
-| 56 | 193 | Clever Shiftsnap |
-| 57 | 193 | Shunta Jacobs |
+| 56 | 193 | Shunta Jacobs |
+| 57 | 193 | Clever Shiftsnap |
 | 58 | 187 | Speedy Bridger |
 | 59 | 184 | Jennie Beranek |
 | 60 | 180 | joclisa |
@@ -92,8 +92,8 @@
 | 84 | 118 | Bea Miles |
 | 85 | 116 | Ashley Tookes |
 | 86 | 114 | Terry Jo Jones |
-| 87 | 113 | rosy |
-| 88 | 113 | Jennifer Alvey |
+| 87 | 113 | Jennifer Alvey |
+| 88 | 113 | rosy |
 | 89 | 112 | Connie Mohler-Fair |
 | 90 | 111 | Joy Petroski |
 | 91 | 110 | Nicole Flippo |
@@ -103,10 +103,10 @@
 | 95 | 107 | Bryan Byrd |
 | 96 | 105 | Hoppy Buildout |
 | 97 | 103 | Brian Battjes |
-| 98 | 102 | mommablock |
-| 99 | 102 | Sarah Moyer |
-| 100 | 101 | Rufus Lincoln |
-| 101 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 98 | 102 | Sarah Moyer |
+| 99 | 102 | mommablock |
+| 100 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 101 | 101 | Rufus Lincoln |
 | 102 | 101 | Mykal Burton |
 | 103 | 100 | Bobbi Moore |
 | 104 | 100 | Fancy Slam |

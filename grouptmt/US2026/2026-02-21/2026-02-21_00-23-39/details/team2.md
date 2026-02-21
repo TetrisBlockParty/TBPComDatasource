@@ -192,8 +192,8 @@
 | 184 | 194 | Drwatson187 |
 | 185 | 194 | Mike Aprilliano |
 | 186 | 193 | Ariel |
-| 187 | 191 | Deana |
-| 188 | 191 | Sho Nuff |
+| 187 | 191 | Sho Nuff |
+| 188 | 191 | Deana |
 | 189 | 190 | blarg |
 | 190 | 189 | Sanaa Nounoussa |
 | 191 | 189 | Ashley Rose Frederick |
@@ -205,8 +205,8 @@
 | 197 | 181 | Julay |
 | 198 | 180 | Peter Palestino |
 | 199 | 180 | Ali Gralski |
-| 200 | 179 | Davetta Sanford |
-| 201 | 179 | Cat |
+| 200 | 179 | Cat |
+| 201 | 179 | Davetta Sanford |
 | 202 | 179 | Desiree Harris Rosch |
 | 203 | 177 | John |
 | 204 | 176 | Missie Lawson Gebhardt |
@@ -218,8 +218,8 @@
 | 210 | 170 | Darlene Bowman |
 | 211 | 169 | Lively Catcher |
 | 212 | 168 | Robin |
-| 213 | 167 | Fi Ne |
-| 214 | 167 | Mema |
+| 213 | 167 | Mema |
+| 214 | 167 | Fi Ne |
 | 215 | 166 | Jessica Kaye DeAguero |
 | 216 | 165 | Cathy Bitters |
 | 217 | 165 | Shorty |
@@ -238,9 +238,9 @@
 | 230 | 157 | Klee |
 | 231 | 157 | Jánine Riggs |
 | 232 | 157 | Dineisha Carpenter |
-| 233 | 156 | Deanna Morton |
-| 234 | 156 | Nuggets |
-| 235 | 156 | Ramone Armstrong |
+| 233 | 156 | Ramone Armstrong |
+| 234 | 156 | Deanna Morton |
+| 235 | 156 | Nuggets |
 | 236 | 155 | Alexandra Weir |
 | 237 | 153 | Cappin You |
 | 238 | 152 | Denise Rickman |
