@@ -118,8 +118,8 @@
 | 110 | 274 | Melissa Holsinger |
 | 111 | 271 | Ann Marie Davis |
 | 112 | 268 | Vanessa Moreno |
-| 113 | 266 | Jojo Momma |
-| 114 | 266 | Mighty Shatterfit |
+| 113 | 266 | Mighty Shatterfit |
+| 114 | 266 | Jojo Momma |
 | 115 | 266 | Joyce Johnson Vaughn |
 | 116 | 265 | Wuntayk |
 | 117 | 265 | Joseph Musick |
@@ -430,8 +430,8 @@
 | 422 | 88 | Jai |
 | 423 | 88 | Pixie Stixs |
 | 424 | 87 | Nicolle Danielle |
-| 425 | 87 | Anita Rose Green |
-| 426 | 87 | Kayla Krol |
+| 425 | 87 | Kayla Krol |
+| 426 | 87 | Anita Rose Green |
 | 427 | 86 | Chipper Risebuilder |
 | 428 | 86 | Frilly Fallzone |
 | 429 | 86 | Katelyn Fitzsimmons |

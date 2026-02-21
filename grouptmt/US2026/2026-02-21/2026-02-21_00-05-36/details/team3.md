@@ -57,8 +57,8 @@
 | 49 | 223 | Shari Garber |
 | 50 | 214 | Amy Fuller Heaton |
 | 51 | 207 | rnr junky |
-| 52 | 206 | Jennifer Willis |
-| 53 | 206 | MissTaylor |
+| 52 | 206 | MissTaylor |
+| 53 | 206 | Jennifer Willis |
 | 54 | 203 | Crimson |
 | 55 | 193 | Shunta Jacobs |
 | 56 | 193 | Clever Shiftsnap |
@@ -68,8 +68,8 @@
 | 60 | 179 | Daira Largen |
 | 61 | 170 | Nerdy Riseclear |
 | 62 | 166 | Danielle Mogg |
-| 63 | 152 | Shannon Matthew Byers |
-| 64 | 152 | Shiny Zonebuilder |
+| 63 | 152 | Shiny Zonebuilder |
+| 64 | 152 | Shannon Matthew Byers |
 | 65 | 149 | Fallorina Susana |
 | 66 | 147 | Trisha Balmer |
 | 67 | 143 | ren |
@@ -172,7 +172,7 @@
 | 164 | 64 | Leticia Lynn Lowe |
 | 165 | 64 | Tommy Proctor |
 | 166 | 64 | Lush Risebuilder |
-| 167 | 63 | Eileen Brady Thurber |
+| 167 | 63 | Hasty Wipebuilder |
 | 168 | 63 | BugMansMom |
 | 169 | 63 | Eileen Brady Thurber |
 | 170 | 62 | Bekah Dietrich |

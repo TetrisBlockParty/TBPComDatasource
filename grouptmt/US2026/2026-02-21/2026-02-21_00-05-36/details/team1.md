@@ -20,8 +20,8 @@
 | 12 | 371 | Colena Davenport |
 | 13 | 301 | Zerin Graham |
 | 14 | 294 | Jacqueline Williams |
-| 15 | 281 | Kathi Snustad |
-| 16 | 281 | Nancy Green |
+| 15 | 281 | Nancy Green |
+| 16 | 281 | Kathi Snustad |
 | 17 | 263 | Andrea Dañielle Ortiz |
 | 18 | 234 | Tipsy Column |
 | 19 | 230 | Jayme Sellers |
@@ -46,8 +46,8 @@
 | 38 | 144 | Tana |
 | 39 | 143 | Veronica Eve |
 | 40 | 134 | Plucky Ziggy |
-| 41 | 133 | Brandi Huntington |
-| 42 | 133 | Mandyy Rae |
+| 41 | 133 | Mandyy Rae |
+| 42 | 133 | Brandi Huntington |
 | 43 | 130 | Jennifer Cates |
 | 44 | 126 | Cece Ibarra |
 | 45 | 123 | Rico Rico |
