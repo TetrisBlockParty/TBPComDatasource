@@ -74,8 +74,8 @@
 | 66 | 367 | Jennifer ManWarren |
 | 67 | 364 | Jacqueline Williams |
 | 68 | 359 | Nerdy Linkblock |
-| 69 | 348 | Stef Hu |
-| 70 | 348 | Trina Gee |
+| 69 | 348 | Trina Gee |
+| 70 | 348 | Stef Hu |
 | 71 | 347 | pjbeta |
 | 72 | 338 | Stephanie Zahn |
 | 73 | 337 | Tipsy Strikerpiece |
@@ -161,8 +161,8 @@
 | 153 | 171 | David DeSantis |
 | 154 | 171 | femmefatale |
 | 155 | 171 | Greg Premoe |
-| 156 | 170 | Cartier |
-| 157 | 170 | Veronica Eve |
+| 156 | 170 | Veronica Eve |
+| 157 | 170 | Cartier |
 | 158 | 169 | Abbey Crespo |
 | 159 | 168 | Katie Daniels |
 | 160 | 168 | Standia Civil |

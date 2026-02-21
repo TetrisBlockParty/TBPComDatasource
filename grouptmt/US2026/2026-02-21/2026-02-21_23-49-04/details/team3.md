@@ -244,9 +244,9 @@
 | 236 | 174 | Marquita Sheard |
 | 237 | 172 | Grams |
 | 238 | 170 | Lesley Perez |
-| 239 | 169 | BŘŰŤİÇŨŚ |
+| 239 | 169 | Emma |
 | 240 | 169 | Daryn Elliott |
-| 241 | 169 | Emma |
+| 241 | 169 | BŘŰŤİÇŨŚ |
 | 242 | 168 | MsBee |
 | 243 | 166 | Beth Ingham |
 | 244 | 166 | Betty Rosas |
