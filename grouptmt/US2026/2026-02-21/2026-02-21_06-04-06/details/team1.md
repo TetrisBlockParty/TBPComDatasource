@@ -43,8 +43,8 @@
 | 35 | 244 | Franswa |
 | 36 | 243 | Sarah Roberts |
 | 37 | 241 | Kristen Roles Robben |
-| 38 | 212 | Tdub |
-| 39 | 212 | Jaimie Lynn |
+| 38 | 212 | Jaimie Lynn |
+| 39 | 212 | Tdub |
 | 40 | 211 | Deanna L Hermanson |
 | 41 | 208 | Carrie Beck Geartz |
 | 42 | 206 | Elaine Elaine |
@@ -54,8 +54,8 @@
 | 46 | 201 | Anaid Sanchez |
 | 47 | 201 | Ananda Mendez |
 | 48 | 200 | Lexuriuos Lifestlye |
-| 49 | 198 | Billie Dawn Sparks |
-| 50 | 198 | Happy Snapbuild |
+| 49 | 198 | Happy Snapbuild |
+| 50 | 198 | Billie Dawn Sparks |
 | 51 | 197 | Cynthia Bradley |
 | 52 | 196 | Felicia Lewis |
 | 53 | 194 | Sharon Reynolds |
@@ -98,13 +98,13 @@
 | 90 | 128 | Uhog SF |
 | 91 | 126 | Cece Ibarra |
 | 92 | 121 | Bouncy Grid |
-| 93 | 119 | Tater |
-| 94 | 119 | Irual Hctrab |
+| 93 | 119 | Irual Hctrab |
+| 94 | 119 | Tater |
 | 95 | 118 | Barry Mac'Ockner |
 | 96 | 117 | Michael |
 | 97 | 115 | comrade fish |
-| 98 | 114 | Colleen Wise |
-| 99 | 114 | Giddy Cascade |
+| 98 | 114 | Giddy Cascade |
+| 99 | 114 | Colleen Wise |
 | 100 | 113 | Evie Khalil |
 | 101 | 112 | Christina Graham |
 | 102 | 112 | Kristen Gideon |

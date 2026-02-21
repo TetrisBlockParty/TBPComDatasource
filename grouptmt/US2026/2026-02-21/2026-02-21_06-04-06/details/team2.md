@@ -9,8 +9,8 @@
 | 1 | 4805 | Twlight Welch |
 | 2 | 3648 | Sean Dugar |
 | 3 | 3575 | Cassie Donica |
-| 4 | 3567 | Rickey Goins Jr. |
-| 5 | 3567 | Taylana Mincy |
+| 4 | 3567 | Taylana Mincy |
+| 5 | 3567 | Rickey Goins Jr. |
 | 6 | 3460 | Poppy Snap |
 | 7 | 3453 | Tiaira Patrice' |
 | 8 | 3158 | Trisha Gill |
@@ -159,10 +159,10 @@
 | 151 | 400 | Crystie Hicks |
 | 152 | 400 | Tammy Allen |
 | 153 | 397 | Ashley Guernsey-Martin |
-| 154 | 391 | Steven Marshaun |
-| 155 | 391 | Chilly Bridgepiece |
-| 156 | 386 | Ashie Ann |
-| 157 | 386 | Jumpy Gridpiece |
+| 154 | 391 | Chilly Bridgepiece |
+| 155 | 391 | Steven Marshaun |
+| 156 | 386 | Jumpy Gridpiece |
+| 157 | 386 | Ashie Ann |
 | 158 | 385 | Sam |
 | 159 | 381 | Amanda Ferrell |
 | 160 | 380 | Joshua Mandel |
@@ -579,9 +579,9 @@
 | 571 | 121 | g |
 | 572 | 121 | Stephen Stephen |
 | 573 | 120 | Kara Gillen |
-| 574 | 120 | Makayla Harris |
-| 575 | 120 | Latrenya Paynes |
-| 576 | 120 | Janet Marie Vega |
+| 574 | 120 | Latrenya Paynes |
+| 575 | 120 | Janet Marie Vega |
+| 576 | 120 | Makayla Harris |
 | 577 | 120 | Courtney Burcham |
 | 578 | 120 | Layla LS |
 | 579 | 120 | Kerry Miller |
@@ -590,8 +590,8 @@
 | 582 | 119 | Goofy Blockfall |
 | 583 | 119 | Mandi Douglas Hilt |
 | 584 | 119 | Perry Hubert |
-| 585 | 118 | Emilie Victoria Cordero |
-| 586 | 118 | Amanda Perez |
+| 585 | 118 | Amanda Perez |
+| 586 | 118 | Emilie Victoria Cordero |
 | 587 | 118 | Raffaella Dowling |
 | 588 | 118 | Wha |
 | 589 | 118 | Starrs Dcct |
@@ -603,8 +603,8 @@
 | 595 | 116 | Jennifer Monroe Kelly |
 | 596 | 116 | BeenRich Theceo |
 | 597 | 116 | Patrick Langford |
-| 598 | 116 | Moua Ying |
-| 599 | 116 | Slimkaite |
+| 598 | 116 | Slimkaite |
+| 599 | 116 | Moua Ying |
 | 600 | 115 | Melissa Schwager |
 | 601 | 115 | Heather Schelkopf |
 | 602 | 115 | Chareen Lauritzen |
@@ -816,7 +816,7 @@
 | 808 | 88 | Ebony Deloach Bryant |
 | 809 | 88 | kickstante |
 | 810 | 88 | Breana Valdez |
-| 811 | 88 | Jai |
+| 811 | 88 | Lorie Richardson |
 | 812 | 88 | NinaTheVillain |
 | 813 | 88 | Kiana Serrao |
 | 814 | 88 | Ilse Chaparro |
@@ -888,7 +888,7 @@
 | 880 | 81 | Winter Knowles |
 | 881 | 81 | Jazzy Edgepiece |
 | 882 | 81 | GgReignz |
-| 883 | 81 | Cheery Puzzler |
+| 883 | 81 | Chirpy Riserpiece |
 | 884 | 81 | Asha Nichols-Collins |
 | 885 | 81 | Elizabeth Leinen |
 | 886 | 81 | Kristen |

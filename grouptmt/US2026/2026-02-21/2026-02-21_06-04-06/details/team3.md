@@ -238,9 +238,9 @@
 | 230 | 86 | Criss |
 | 231 | 85 | Chris Bell |
 | 232 | 85 | Crystel b520 |
-| 233 | 84 | Amanda L Baker |
-| 234 | 84 | Flashy Rumbler |
-| 235 | 84 | Patti Skiles |
+| 233 | 84 | Patti Skiles |
+| 234 | 84 | Amanda L Baker |
+| 235 | 84 | Flashy Rumbler |
 | 236 | 83 | Mendoza Lee Christy |
 | 237 | 83 | Trice Thomas |
 | 238 | 82 | Stephanie Whitefield |

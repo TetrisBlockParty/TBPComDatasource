@@ -93,8 +93,8 @@
 | 85 | 129 | John Brunetti |
 | 86 | 126 | Tanner Lund |
 | 87 | 125 | Lauren Scott |
-| 88 | 123 | Nugget |
-| 89 | 123 | Bubbly Puzzler |
+| 88 | 123 | Bubbly Puzzler |
+| 89 | 123 | Nugget |
 | 90 | 122 | Sherri |
 | 91 | 122 | Shelly Chandler |
 | 92 | 121 | Smiley Tiltbuilder |
