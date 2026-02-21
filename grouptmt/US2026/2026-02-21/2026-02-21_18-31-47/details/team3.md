@@ -177,9 +177,9 @@
 | 169 | 191 | Scott Carleton |
 | 170 | 191 | Giddy Twistbuilder |
 | 171 | 191 | Rebel124 |
-| 172 | 189 | Fallorina Susana |
+| 172 | 189 | Sissy Lowery Davis |
 | 173 | 189 | Staci George Fitzsimmons |
-| 174 | 189 | Sissy Lowery Davis |
+| 174 | 189 | Fallorina Susana |
 | 175 | 188 | Angie Harper |
 | 176 | 186 | Khaleada McGill Banks |
 | 177 | 185 | Sashay Tapae Simpson |
@@ -322,8 +322,8 @@
 | 314 | 103 | Kate Farok |
 | 315 | 103 | Andrew Thorson |
 | 316 | 102 | Criss |
-| 317 | 102 | Christian Luna |
-| 318 | 102 | Rania Zaqout |
+| 317 | 102 | Rania Zaqout |
+| 318 | 102 | Christian Luna |
 | 319 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 320 | 101 | Hyper Bridger |
 | 321 | 101 | Shicken Nuggit |
@@ -391,8 +391,8 @@
 | 383 | 85 | Lush Risebuilder |
 | 384 | 84 | Kevin Fountain |
 | 385 | 84 | Shalanda Hardy |
-| 386 | 84 | gremicx |
-| 387 | 84 | Spunky Racker |
+| 386 | 84 | Spunky Racker |
+| 387 | 84 | gremicx |
 | 388 | 83 | Glitzy Slide |
 | 389 | 83 | Deseree Ewing |
 | 390 | 83 | Bekah Dietrich |

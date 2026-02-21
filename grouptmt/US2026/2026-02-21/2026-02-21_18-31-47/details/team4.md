@@ -172,7 +172,7 @@
 | 164 | 124 | Allen Lloyd |
 | 165 | 124 | SammieJo Guy |
 | 166 | 123 | Cherrish Duren |
-| 167 | 122 | Sherri |
+| 167 | 122 | 🥔🥔 Spudz |
 | 168 | 122 | Carlos Ramirez |
 | 169 | 122 | Sherri |
 | 170 | 121 | Megan Cutshaw |
@@ -245,7 +245,7 @@
 | 237 | 94 | Kim Hunt |
 | 238 | 94 | Madison Sweere |
 | 239 | 94 | Chastity Mitchell |
-| 240 | 94 | Lindsey Gonzalez |
+| 240 | 94 | DonMega |
 | 241 | 93 | Bradley Reeves |
 | 242 | 93 | Matt Dell'Olio |
 | 243 | 92 | Heather Tushner |

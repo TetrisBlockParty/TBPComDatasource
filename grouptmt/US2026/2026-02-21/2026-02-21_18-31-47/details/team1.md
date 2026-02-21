@@ -109,8 +109,8 @@
 | 101 | 193 | Lachelle Dillon |
 | 102 | 192 | Shaykmia |
 | 103 | 191 | Diane Byrd |
-| 104 | 190 | Sweetts |
-| 105 | 190 | Thorne Shumate |
+| 104 | 190 | Thorne Shumate |
+| 105 | 190 | Sweetts |
 | 106 | 189 | Happy Basegrid |
 | 107 | 188 | Sam Williams |
 | 108 | 186 | Jennifer Olewnik Soborowski |
@@ -200,15 +200,15 @@
 | 192 | 110 | Madison Wicks |
 | 193 | 110 | Garcia Bailey |
 | 194 | 109 | Nery Martinez |
-| 195 | 109 | John Kim |
-| 196 | 109 | Tyler Hertzog |
+| 195 | 109 | Tyler Hertzog |
+| 196 | 109 | John Kim |
 | 197 | 108 | Tavia |
-| 198 | 108 | Melissa Bires Hussar |
-| 199 | 108 | Dizzy Party |
+| 198 | 108 | Dizzy Party |
+| 199 | 108 | Melissa Bires Hussar |
 | 200 | 107 | Jodee Woods |
 | 201 | 106 | Chantelle Ceno |
-| 202 | 106 | Bloknboy |
-| 203 | 106 | Alyssa Ingram |
+| 202 | 106 | Alyssa Ingram |
+| 203 | 106 | Bloknboy |
 | 204 | 105 | Funky Piecebuilder |
 | 205 | 105 | Ty Brown |
 | 206 | 105 | Fmp |
