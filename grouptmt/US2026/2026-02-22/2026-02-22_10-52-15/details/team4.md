@@ -49,21 +49,21 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -76,8 +76,8 @@
 | 68 | 530 | Yoset Mejia |
 | 69 | 524 | Amelpss |
 | 70 | 521 | Dawn Alexander |
-| 71 | 518 | Carolyn Wallace |
-| 72 | 518 | Eric Mcgaughy |
+| 71 | 518 | Eric Mcgaughy |
+| 72 | 518 | Carolyn Wallace |
 | 73 | 517 | H.R. Block |
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
@@ -145,9 +145,9 @@
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
-| 140 | 264 | Girl |
-| 141 | 264 | Dana Scott |
-| 142 | 264 | Epic Curvetile |
+| 140 | 264 | Dana Scott |
+| 141 | 264 | Epic Curvetile |
+| 142 | 264 | Girl |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -868,9 +868,9 @@
 | 860 | 38 | Oba Yozo |
 | 861 | 38 | Dapper Wiper |
 | 862 | 38 | Bold Buildsnap |
-| 863 | 38 | Mrsjcraw18 |
+| 863 | 38 | Norman Klick |
 | 864 | 38 | Milly Johnson |
-| 865 | 38 | Norman Klick |
+| 865 | 38 | Mrsjcraw18 |
 | 866 | 37 | Francis Fleurant |
 | 867 | 37 | Tipsy Zonepiece |
 | 868 | 37 | Matthew Pate |

@@ -956,7 +956,7 @@
 | 948 | 241 | Emoney Sanchez |
 | 949 | 241 | Travis Tinsley |
 | 950 | 240 | Renee Bowers |
-| 951 | 239 | Amy John Mills |
+| 951 | 239 | Shilo Anderson |
 | 952 | 239 | Daring Matchfit |
 | 953 | 239 | Joel Rosado |
 | 954 | 239 | AsnPryBoy83 |
@@ -1016,11 +1016,11 @@
 | 1008 | 226 | Anthony D Gritz Jr |
 | 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
-| 1011 | 225 | Caitlin Johnson |
+| 1011 | 225 | Samantha Morgan |
 | 1012 | 225 | Tyler C. Jung |
-| 1013 | 225 | Samantha Morgan |
-| 1014 | 225 | Anastacio Hernandez |
-| 1015 | 225 | Quiksilver |
+| 1013 | 225 | Caitlin Johnson |
+| 1014 | 225 | Quiksilver |
+| 1015 | 225 | Anastacio Hernandez |
 | 1016 | 224 | Wil Allen |
 | 1017 | 224 | Emily Valentine |
 | 1018 | 224 | Joann |
@@ -1243,8 +1243,8 @@
 | 1235 | 185 | Zany Dashpiece |
 | 1236 | 185 | Squirrel |
 | 1237 | 184 | Mindy Folsom |
-| 1238 | 184 | Jeremy Scott |
-| 1239 | 184 | BamaGirlinTX |
+| 1238 | 184 | BamaGirlinTX |
+| 1239 | 184 | Jeremy Scott |
 | 1240 | 183 | Lynzekwi |
 | 1241 | 183 | Harley Williams |
 | 1242 | 183 | Ericka Marie Smith |
@@ -1457,8 +1457,8 @@
 | 1449 | 158 | April Ann |
 | 1450 | 158 | Tammi Dorsey |
 | 1451 | 158 | John Cleland |
-| 1452 | 158 | Ryley Laughlin |
-| 1453 | 158 | Cerealkiller |
+| 1452 | 158 | Cerealkiller |
+| 1453 | 158 | Ryley Laughlin |
 | 1454 | 157 | Heather Walski |
 | 1455 | 157 | Ashley Fairchild |
 | 1456 | 157 | James Lucas |
@@ -1520,8 +1520,8 @@
 | 1512 | 152 | Alicia Sloan |
 | 1513 | 152 | Melinda Avriett |
 | 1514 | 151 | Britney Volz |
-| 1515 | 151 | hyperbole |
-| 1516 | 151 | Silly Brickzone |
+| 1515 | 151 | Silly Brickzone |
+| 1516 | 151 | hyperbole |
 | 1517 | 151 | Eve Marie |
 | 1518 | 151 | Keri Higuchi |
 | 1519 | 151 | Bashful |

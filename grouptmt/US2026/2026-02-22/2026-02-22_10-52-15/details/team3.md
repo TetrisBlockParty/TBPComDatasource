@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -174,9 +174,9 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Danielle Allison |
-| 170 | 370 | Logan Naccarato |
-| 171 | 370 | Santeria Trece Candles |
+| 169 | 370 | Logan Naccarato |
+| 170 | 370 | Santeria Trece Candles |
+| 171 | 370 | Danielle Allison |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
 | 174 | 362 | Darlene McMillan |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Araceli Parra |
+| 199 | 311 | Araceli Parra |
+| 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Daryn Elliott |
 | 203 | 308 | Rania Zaqout |
@@ -231,8 +231,8 @@
 | 223 | 283 | Cheeky Snapper |
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Valerie Gendron |
-| 226 | 278 | Rufus Lincoln |
-| 227 | 278 | Sabrina Hardrick |
+| 226 | 278 | Sabrina Hardrick |
+| 227 | 278 | Rufus Lincoln |
 | 228 | 277 | Keis |
 | 229 | 276 | _melisa223_ |
 | 230 | 276 | Crimson |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Nikki Pags |
-| 266 | 234 | Connie Mohler-Fair |
+| 265 | 234 | Connie Mohler-Fair |
+| 266 | 234 | Nikki Pags |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -287,11 +287,11 @@
 | 279 | 220 | rosy |
 | 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Cheryl Hinch Tenbrook |
-| 283 | 216 | Twisty Brick LT |
+| 282 | 216 | Twisty Brick LT |
+| 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -338,12 +338,12 @@
 | 330 | 181 | Denita Mungro |
 | 331 | 180 | Beth Ingham |
 | 332 | 179 | Christian Werndl |
-| 333 | 179 | DanceLuvLaugh |
-| 334 | 179 | Rachel Napper |
+| 333 | 179 | Rachel Napper |
+| 334 | 179 | DanceLuvLaugh |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
-| 337 | 176 | Melissa Orth Hunter |
-| 338 | 176 | Emma |
+| 337 | 176 | Emma |
+| 338 | 176 | Melissa Orth Hunter |
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Salena Whitlock |
 | 341 | 174 | Lesley Perez |
@@ -368,8 +368,8 @@
 | 360 | 164 | Ashley Rufus Bythcez |
 | 361 | 164 | momo |
 | 362 | 163 | Colleen Phelps |
-| 363 | 163 | Christine Trester |
-| 364 | 163 | Diana Ibarra |
+| 363 | 163 | Diana Ibarra |
+| 364 | 163 | Christine Trester |
 | 365 | 163 | Ava Petito |
 | 366 | 162 | Stephanie Whitefield |
 | 367 | 162 | Eric Caccavale |
@@ -418,8 +418,8 @@
 | 410 | 146 | Wettnippz |
 | 411 | 146 | Sdot |
 | 412 | 144 | Crystal Hine |
-| 413 | 144 | Blair Erin Waite |
-| 414 | 144 | Tenisha Semidey |
+| 413 | 144 | Tenisha Semidey |
+| 414 | 144 | Blair Erin Waite |
 | 415 | 143 | Deseree Ewing |
 | 416 | 142 | Erica Anderson |
 | 417 | 142 | Gray Hicks |
@@ -497,10 +497,10 @@
 | 489 | 121 | Brave Brickster |
 | 490 | 120 | Giggy Glidepiece |
 | 491 | 120 | Carol Cain Thurman |
-| 492 | 119 | Boldy Blocker |
-| 493 | 119 | Geoffrey Nash |
+| 492 | 119 | Tracey Cox |
+| 493 | 119 | Boldy Blocker |
 | 494 | 119 | Michelle Ramirez |
-| 495 | 119 | Tracey Cox |
+| 495 | 119 | Geoffrey Nash |
 | 496 | 119 | Everret Maxine |
 | 497 | 119 | Brian Quigley |
 | 498 | 118 | Damian Reid |
@@ -2195,8 +2195,8 @@
 | 2187 | 13 | A4dapay |
 | 2188 | 13 | Jody Hawbaker |
 | 2189 | 13 | Nerdy Splitter |
-| 2190 | 12 | Seth Jawitz |
-| 2191 | 12 | Avernouk |
+| 2190 | 12 | Avernouk |
+| 2191 | 12 | Seth Jawitz |
 | 2192 | 12 | Zippy Slice |
 | 2193 | 12 | Sharon Day |
 | 2194 | 12 | Mike Christina McCarty |
