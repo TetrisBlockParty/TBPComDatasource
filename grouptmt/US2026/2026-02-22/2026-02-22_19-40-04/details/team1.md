@@ -171,8 +171,8 @@
 | 163 | 293 | Letson Melissa |
 | 164 | 292 | David Lutcher |
 | 165 | 285 | ALFD |
-| 166 | 284 | Rachael |
-| 167 | 284 | Emily Adelaide Wheatley |
+| 166 | 284 | Emily Adelaide Wheatley |
+| 167 | 284 | Rachael |
 | 168 | 283 | Franswa |
 | 169 | 282 | Snippy Wipebuilder |
 | 170 | 282 | Cool Shiftsnap |

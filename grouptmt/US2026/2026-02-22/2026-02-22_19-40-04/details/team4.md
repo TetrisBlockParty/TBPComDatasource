@@ -148,8 +148,8 @@
 | 140 | 328 | Leslie Nicole |
 | 141 | 328 | Kris Bartlett |
 | 142 | 323 | Daria Rycewicz |
-| 143 | 321 | Trista Leah |
-| 144 | 321 | Klo |
+| 143 | 321 | Klo |
+| 144 | 321 | Trista Leah |
 | 145 | 319 | Guy Incognito |
 | 146 | 318 | Lauren Scott |
 | 147 | 316 | Meagan Nicole |
@@ -218,8 +218,8 @@
 | 210 | 237 | Jen Caldwell |
 | 211 | 236 | Swanky Fitline |
 | 212 | 235 | Chris Hartig |
-| 213 | 233 | Ruben Wheeler |
-| 214 | 233 | April Rondinone |
+| 213 | 233 | April Rondinone |
+| 214 | 233 | Ruben Wheeler |
 | 215 | 230 | blockstar |
 | 216 | 228 | Antony Dwayne Beasley |
 | 217 | 227 | Kim Hunt |
@@ -262,8 +262,8 @@
 | 254 | 198 | Calvin Dennis |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
-| 257 | 195 | 中山成巳 |
-| 258 | 195 | Snippy Puzzle |
+| 257 | 195 | Snippy Puzzle |
+| 258 | 195 | 中山成巳 |
 | 259 | 194 | Zany Twisterfit |
 | 260 | 192 | Stephme310 |
 | 261 | 192 | Andrew Dang |

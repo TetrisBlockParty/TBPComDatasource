@@ -318,8 +318,8 @@
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Fancy Twister |
-| 314 | 767 | Ashley Lopez |
+| 313 | 767 | Ashley Lopez |
+| 314 | 767 | Fancy Twister |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |

@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -265,10 +265,10 @@
 | 257 | 298 | MsBee |
 | 258 | 298 | Grams |
 | 259 | 297 | Jojo M |
-| 260 | 296 | Hoppy Buildout |
-| 261 | 296 | Katrina Turner |
+| 260 | 296 | Katrina Turner |
+| 261 | 296 | Hoppy Buildout |
 | 262 | 291 | Carrie Huskey |
-| 263 | 289 | Duane Bright |
+| 263 | 289 | DidIdothat |
 | 264 | 289 | Danielle Weikel |
 | 265 | 289 | Duane Bright |
 | 266 | 286 | Terry Jo Jones |
@@ -310,8 +310,8 @@
 | 302 | 256 | KayB |
 | 303 | 254 | Sharisse Baltimore |
 | 304 | 252 | Snazzy Filler |
-| 305 | 251 | Naur |
-| 306 | 251 | Twisty Brick LT |
+| 305 | 251 | Twisty Brick LT |
+| 306 | 251 | Naur |
 | 307 | 250 | Kaycee Kay |
 | 308 | 247 | Jessica |
 | 309 | 246 | Erika Thornton |
