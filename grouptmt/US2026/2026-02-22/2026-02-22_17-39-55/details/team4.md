@@ -218,8 +218,8 @@
 | 210 | 219 | JPW |
 | 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | ZeeZee |
-| 214 | 216 | Cristy Duerksen |
+| 213 | 216 | Cristy Duerksen |
+| 214 | 216 | ZeeZee |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |
@@ -288,8 +288,8 @@
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Matt Gooder |
 | 282 | 161 | Twisty Risebuilder |
-| 283 | 159 | Marcus Todd |
-| 284 | 159 | DonMega |
+| 283 | 159 | DonMega |
+| 284 | 159 | Marcus Todd |
 | 285 | 157 | Bethany Ison |
 | 286 | 157 | Paige Kittles |
 | 287 | 157 | Gracie Ann Taylor |

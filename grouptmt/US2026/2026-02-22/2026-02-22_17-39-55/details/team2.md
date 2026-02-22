@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Angela Bonquiqui Dinish |
-| 234 | 915 | Robin Kerby |
+| 233 | 915 | Robin Kerby |
+| 234 | 915 | Angela Bonquiqui Dinish |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -266,8 +266,8 @@
 | 258 | 860 | William Hunt |
 | 259 | 857 | Della Hole |
 | 260 | 855 | F-X |
-| 261 | 853 | Maria Escobar |
-| 262 | 853 | Meghan M |
+| 261 | 853 | Meghan M |
+| 262 | 853 | Maria Escobar |
 | 263 | 850 | Glitzy Stackzone |
 | 264 | 845 | Sheniya Spurgeon |
 | 265 | 844 | Terri McKelvey McKinley |
@@ -295,8 +295,8 @@
 | 287 | 787 | Laura McCarthey |
 | 288 | 783 | Lisa Ongtowasruk |
 | 289 | 781 | Angie Bolton Workman |
-| 290 | 777 | Tesha Oldaker |
-| 291 | 777 | Jessicah Myers |
+| 290 | 777 | Jessicah Myers |
+| 291 | 777 | Tesha Oldaker |
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
@@ -332,8 +332,8 @@
 | 324 | 704 | Shelley Thornburgh Wright |
 | 325 | 703 | Gold Rose |
 | 326 | 700 | Vincent Petrella |
-| 327 | 700 | Rosemadder |
-| 328 | 700 | Beverly Owens |
+| 327 | 700 | Beverly Owens |
+| 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
 | 330 | 697 | Dreamy Blast |
 | 331 | 697 | Ashle Scranton |

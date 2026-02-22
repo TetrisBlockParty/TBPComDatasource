@@ -187,9 +187,9 @@
 | 179 | 398 | Sherry Ogden |
 | 180 | 397 | Annie Déè |
 | 181 | 393 | Fallorina Susana |
-| 182 | 391 | Calista Jo Dickson |
-| 183 | 391 | Araceli Parra |
-| 184 | 391 | Sarah Cowan Burgos |
+| 182 | 391 | Araceli Parra |
+| 183 | 391 | Sarah Cowan Burgos |
+| 184 | 391 | Calista Jo Dickson |
 | 185 | 391 | Dapper Snap |
 | 186 | 390 | Chasity |
 | 187 | 390 | Shunta Jacobs |
@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Giddy Twistbuilder |
-| 197 | 372 | Tom Nault |
+| 196 | 372 | Tom Nault |
+| 197 | 372 | Giddy Twistbuilder |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 367 | Danielle Balcom |
@@ -238,8 +238,8 @@
 | 230 | 320 | Brittany |
 | 231 | 320 | Or Reznitsky |
 | 232 | 316 | Staci George Fitzsimmons |
-| 233 | 312 | Marci Mize Fandrich |
-| 234 | 312 | Charles Perrone |
+| 233 | 312 | Charles Perrone |
+| 234 | 312 | Marci Mize Fandrich |
 | 235 | 311 | Peppy Shifter |
 | 236 | 307 | Blocked |
 | 237 | 307 | rnr junky |
@@ -262,12 +262,12 @@
 | 254 | 282 | Angie Harper |
 | 255 | 281 | Carrie Huskey |
 | 256 | 280 | Terry Jo Jones |
-| 257 | 278 | Sabrina Hardrick |
-| 258 | 278 | Rufus Lincoln |
+| 257 | 278 | Rufus Lincoln |
+| 258 | 278 | Sabrina Hardrick |
 | 259 | 277 | Tracy Martin |
 | 260 | 276 | Crimson |
-| 261 | 276 | Connie Mohler-Fair |
-| 262 | 276 | _melisa223_ |
+| 261 | 276 | _melisa223_ |
+| 262 | 276 | Connie Mohler-Fair |
 | 263 | 275 | Cassandra Bryant |
 | 264 | 272 | Tasha Wesson-Torrence |
 | 265 | 272 | fraulila |
@@ -304,8 +304,8 @@
 | 296 | 240 | Eric Caccavale |
 | 297 | 240 | Jimmie Clemons |
 | 298 | 238 | Niki Dalrymple |
-| 299 | 236 | Angela Scott |
-| 300 | 236 | Lys |
+| 299 | 236 | Lys |
+| 300 | 236 | Angela Scott |
 | 301 | 236 | Jess Bissett |
 | 302 | 233 | Tony Waters |
 | 303 | 232 | Donna |
@@ -314,11 +314,11 @@
 | 306 | 230 | BigE |
 | 307 | 228 | Naur |
 | 308 | 227 | Rebel124 |
-| 309 | 227 | Meowsa |
-| 310 | 227 | ROODBOY |
+| 309 | 227 | ROODBOY |
+| 310 | 227 | Meowsa |
 | 311 | 226 | Jana Polk |
-| 312 | 225 | Stephanie Hill |
-| 313 | 225 | Steffi Chris Dacones |
+| 312 | 225 | Steffi Chris Dacones |
+| 313 | 225 | Stephanie Hill |
 | 314 | 225 | Dirtgirl27 |
 | 315 | 223 | Michael Lucado |
 | 316 | 223 | Kaycee Kay |
@@ -364,8 +364,8 @@
 | 356 | 205 | Rachel Napper |
 | 357 | 204 | Cesar Barraza |
 | 358 | 203 | DanceLuvLaugh |
-| 359 | 202 | Tipsy Zonebuilder |
-| 360 | 202 | Melanie Sherwood |
+| 359 | 202 | Melanie Sherwood |
+| 360 | 202 | Tipsy Zonebuilder |
 | 361 | 201 | Hyper Matchzone |
 | 362 | 200 | Colleen Phelps |
 | 363 | 200 | glichmod |
