@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -344,7 +344,7 @@
 | 336 | 129 | Sherri E Woods Hess |
 | 337 | 128 | Itspaigebro |
 | 338 | 128 | George Dalton |
-| 339 | 128 | Itspaigebro |
+| 339 | 128 | Alyssa Ingram |
 | 340 | 127 | Danielle Mae |
 | 341 | 127 | Test |
 | 342 | 126 | Zany Tiler |

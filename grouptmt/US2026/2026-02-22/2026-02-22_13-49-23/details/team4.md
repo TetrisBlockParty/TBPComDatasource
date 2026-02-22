@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Jonathan Kimbrough |
-| 57 | 659 | Rebecca Moulton Pinciaro |
+| 56 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Jonathan Kimbrough |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Ramel Rhodes |
-| 108 | 391 | Monica Daley |
+| 107 | 391 | Monica Daley |
+| 108 | 391 | Ramel Rhodes |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -278,8 +278,8 @@
 | 270 | 152 | Angela Geist Jusinski |
 | 271 | 152 | Faja |
 | 272 | 151 | Joseph Pace |
-| 273 | 150 | Brandon Link |
-| 274 | 150 | Jared Gutwein |
+| 273 | 150 | Jared Gutwein |
+| 274 | 150 | Brandon Link |
 | 275 | 149 | Shainne Brewer |
 | 276 | 148 | Nubian1 |
 | 277 | 148 | Cranky Rollpiece |
@@ -371,8 +371,8 @@
 | 363 | 117 | David V. Bowers |
 | 364 | 117 | Gracie Ann Taylor |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Smiley Shifter |
-| 367 | 116 | Kate |
+| 366 | 116 | Kate |
+| 367 | 116 | Smiley Shifter |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Kevin Bush |
 | 370 | 115 | Meg |

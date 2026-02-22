@@ -201,8 +201,8 @@
 | 193 | 982 | Moose Griffith |
 | 194 | 974 | Dolores Russworn |
 | 195 | 973 | Kim Dean |
-| 196 | 960 | Jennifer Kistner |
-| 197 | 960 | Juliana Marques Do Nascimento Gordy |
+| 196 | 960 | Juliana Marques Do Nascimento Gordy |
+| 197 | 960 | Jennifer Kistner |
 | 198 | 957 | Block Master |
 | 199 | 954 | Shannon Joslin |
 | 200 | 951 | Cynthia Ward |
@@ -360,8 +360,8 @@
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
-| 355 | 602 | Biggest thing |
-| 356 | 602 | Christine Bollig |
+| 355 | 602 | Christine Bollig |
+| 356 | 602 | Biggest thing |
 | 357 | 601 | Michele Morgan |
 | 358 | 600 | Demeka Dangerous-kisses Johnson |
 | 359 | 597 | Steven Marshaun |
@@ -397,8 +397,8 @@
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Taryece Gause |
-| 393 | 548 | Brownie Sheena |
+| 392 | 548 | Brownie Sheena |
+| 393 | 548 | Taryece Gause |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Steve Man |
 | 396 | 544 | Deidre Shaffer |
@@ -422,8 +422,8 @@
 | 414 | 525 | Desiree Anderson |
 | 415 | 524 | Lonne Emade |
 | 416 | 523 | Matt Johnson |
-| 417 | 522 | Joseph Musick |
-| 418 | 522 | Lylymom |
+| 417 | 522 | Lylymom |
+| 418 | 522 | Joseph Musick |
 | 419 | 521 | Tj Ball |
 | 420 | 520 | Maddy Petersen |
 | 421 | 520 | Angela Lynn |
