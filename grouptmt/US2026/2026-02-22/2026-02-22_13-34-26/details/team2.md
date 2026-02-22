@@ -139,8 +139,8 @@
 | 131 | 1273 | Cool Rollpiece |
 | 132 | 1265 | Katrina Williams Balmir |
 | 133 | 1257 | Eileen Hale |
-| 134 | 1248 | Isabela Shaw |
-| 135 | 1248 | Howard Forest |
+| 134 | 1248 | Howard Forest |
+| 135 | 1248 | Isabela Shaw |
 | 136 | 1242 | Altamirano Michael |
 | 137 | 1232 | Groovy Puzzle |
 | 138 | 1226 | Vo'Landa Reels |
@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 899 | Hillary Crawford |
@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Tesha Oldaker |
-| 257 | 777 | Jessicah Myers |
+| 256 | 777 | Jessicah Myers |
+| 257 | 777 | Tesha Oldaker |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -305,8 +305,8 @@
 | 297 | 697 | Dreamy Blast |
 | 298 | 696 | Jánine Riggs |
 | 299 | 695 | Lakeysha Dortch |
-| 300 | 692 | Jennifer Casey-Kay |
-| 301 | 692 | Dannette Goldberg-Richards |
+| 300 | 692 | Dannette Goldberg-Richards |
+| 301 | 692 | Jennifer Casey-Kay |
 | 302 | 691 | Joce Lynn |
 | 303 | 690 | Deborah Miller |
 | 304 | 689 | Giggy Blocker |
@@ -314,8 +314,8 @@
 | 306 | 688 | ShinyRose |
 | 307 | 687 | Dee |
 | 308 | 686 | Ashley Guernsey-Martin |
-| 309 | 685 | Binyah-Binyah |
-| 310 | 685 | Brenda Pierpoint |
+| 309 | 685 | Brenda Pierpoint |
+| 310 | 685 | Binyah-Binyah |
 | 311 | 681 | Melissa Holsinger |
 | 312 | 679 | Eric Castaneda |
 | 313 | 679 | Kassandra Hunt |
@@ -329,8 +329,8 @@
 | 321 | 664 | Sleepypanda67 |
 | 322 | 663 | Mandi Douglas Hilt |
 | 323 | 663 | Ashle Scranton |
-| 324 | 661 | BeQuo |
-| 325 | 661 | goofinoff |
+| 324 | 661 | goofinoff |
+| 325 | 661 | BeQuo |
 | 326 | 659 | Roseanna Peloso |
 | 327 | 659 | Draizen Montrell Thomas |
 | 328 | 659 | Tony Lea |
@@ -371,8 +371,8 @@
 | 363 | 589 | Thomas Hedrick |
 | 364 | 586 | Heather Schelkopf |
 | 365 | 586 | Brittney Jean |
-| 366 | 584 | Kimberly Randesi |
-| 367 | 584 | Eckoman518 |
+| 366 | 584 | Eckoman518 |
+| 367 | 584 | Kimberly Randesi |
 | 368 | 584 | Ginnell Browner |
 | 369 | 583 | Jackie Avila |
 | 370 | 582 | Gary Stash |
@@ -407,8 +407,8 @@
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
-| 402 | 536 | Shaun Church |
-| 403 | 536 | Caitlin Schmid |
+| 402 | 536 | Caitlin Schmid |
+| 403 | 536 | Shaun Church |
 | 404 | 535 | Paul Huber |
 | 405 | 534 | Kenny Alvarado |
 | 406 | 533 | Gauri Shrotriya |
@@ -481,8 +481,8 @@
 | 473 | 476 | Kiana Boschh |
 | 474 | 475 | Michelle Lee |
 | 475 | 474 | Calandra Shaya Robinson |
-| 476 | 473 | Wuntayk |
-| 477 | 473 | coleksquad |
+| 476 | 473 | coleksquad |
+| 477 | 473 | Wuntayk |
 | 478 | 473 | Lyndi Robinson Wakefield |
 | 479 | 472 | Arwa Fatimah |
 | 480 | 472 | Kyle LeRoy Harris |
@@ -693,8 +693,8 @@
 | 685 | 341 | Daniel Amos |
 | 686 | 341 | Shorty |
 | 687 | 339 | Denise Rickman |
-| 688 | 339 | Cynthia Louann Rose |
-| 689 | 339 | Twisty Tetriblast |
+| 688 | 339 | Twisty Tetriblast |
+| 689 | 339 | Cynthia Louann Rose |
 | 690 | 338 | Janitta Alvarez |
 | 691 | 337 | Sassy Pattern |
 | 692 | 337 | Tum |
@@ -720,8 +720,8 @@
 | 712 | 325 | Justin Hines |
 | 713 | 325 | Mike73 |
 | 714 | 324 | Prado |
-| 715 | 324 | Dale Haanpaa |
-| 716 | 324 | Tasia Stinson |
+| 715 | 324 | Tasia Stinson |
+| 716 | 324 | Dale Haanpaa |
 | 717 | 323 | Briana Alexander |
 | 718 | 322 | Christina Jarvis-Swarbrick |
 | 719 | 322 | Michelle Pike |
@@ -756,8 +756,8 @@
 | 748 | 310 | Cheeky Brickmatch |
 | 749 | 310 | Beth Decker |
 | 750 | 309 | Byung Bae Park |
-| 751 | 308 | Claire |
-| 752 | 308 | Sarah block |
+| 751 | 308 | Sarah block |
+| 752 | 308 | Claire |
 | 753 | 308 | Katie Joy McCombs |
 | 754 | 308 | Hyper Riseclear |
 | 755 | 306 | Kiorah Blaze |

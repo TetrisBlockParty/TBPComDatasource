@@ -336,16 +336,16 @@
 | 328 | 131 | Smiley Tiltbuilder |
 | 329 | 130 | Shukee Lo |
 | 330 | 130 | Zach Kerbs |
-| 331 | 129 | Berklie Apedaile |
-| 332 | 129 | Sherri |
+| 331 | 129 | Sherri |
+| 332 | 129 | Berklie Apedaile |
 | 333 | 129 | Dreamy Snapgrid |
 | 334 | 128 | Jeremy Steines |
 | 335 | 128 | Madison Sweere |
 | 336 | 128 | Silly Zonebuilder |
 | 337 | 128 | Elie Pean |
 | 338 | 127 | Robert Rodriguez |
-| 339 | 126 | Cheryl Johnson |
-| 340 | 126 | icequeenx |
+| 339 | 126 | icequeenx |
+| 340 | 126 | Cheryl Johnson |
 | 341 | 126 | PAPatty |
 | 342 | 126 | Terrance Fung |
 | 343 | 126 | Brave Spinbuilder |

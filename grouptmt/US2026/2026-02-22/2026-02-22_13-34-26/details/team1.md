@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -100,8 +100,8 @@
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
 | 94 | 382 | Jacqueline Williams |
-| 95 | 379 | Kimmie Kimms |
-| 96 | 379 | Austin James |
+| 95 | 379 | Austin James |
+| 96 | 379 | Kimmie Kimms |
 | 97 | 376 | lil mickey |
 | 98 | 374 | Tinah Montanna |
 | 99 | 364 | Shauna Loe |
@@ -116,8 +116,8 @@
 | 108 | 344 | Bhelle Sumile |
 | 109 | 342 | Brenda Stewart |
 | 110 | 341 | Nick R Montague |
-| 111 | 333 | Gracie |
-| 112 | 333 | Brandi Huntington |
+| 111 | 333 | Brandi Huntington |
+| 112 | 333 | Gracie |
 | 113 | 332 | Kristen Gideon |
 | 114 | 330 | Sweet Baker |
 | 115 | 326 | Monica Donato |
@@ -135,15 +135,15 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Elaine Elaine |
-| 131 | 300 | Chelsea Dahlquist |
+| 130 | 300 | Chelsea Dahlquist |
+| 131 | 300 | Elaine Elaine |
 | 132 | 298 | Erin Hodges Plumb |
-| 133 | 290 | Sarah Roberts |
-| 134 | 290 | Death |
+| 133 | 290 | Death |
+| 134 | 290 | Sarah Roberts |
 | 135 | 289 | David Miller |
 | 136 | 285 | Ananda Mendez |
-| 137 | 284 | Rachael |
-| 138 | 284 | Emily Adelaide Wheatley |
+| 137 | 284 | Emily Adelaide Wheatley |
+| 138 | 284 | Rachael |
 | 139 | 283 | Franswa |
 | 140 | 282 | Snippy Wipebuilder |
 | 141 | 282 | Cool Shiftsnap |
@@ -238,8 +238,8 @@
 | 230 | 187 | GringaLinga |
 | 231 | 186 | Margo Wagner |
 | 232 | 184 | Chris Sigurdson |
-| 233 | 183 | Amy Hess |
-| 234 | 183 | Andrew Boone |
+| 233 | 183 | Andrew Boone |
+| 234 | 183 | Amy Hess |
 | 235 | 182 | Phu ckalldems |
 | 236 | 181 | Melissa Lemmon |
 | 237 | 180 | Beau Galvan |
@@ -305,12 +305,12 @@
 | 297 | 147 | J.F. Fields |
 | 298 | 146 | Fresno Beotoni |
 | 299 | 145 | Tipsy Riseclear |
-| 300 | 145 | Rachel Nichole Henry |
-| 301 | 145 | Nerdy Curvebuilder |
+| 300 | 145 | Nerdy Curvebuilder |
+| 301 | 145 | Rachel Nichole Henry |
 | 302 | 144 | Miguel Teixeira |
 | 303 | 144 | Toph |
-| 304 | 143 | Chantelle Ceno |
-| 305 | 143 | Guest |
+| 304 | 143 | Guest |
+| 305 | 143 | Chantelle Ceno |
 | 306 | 142 | Jerry Danowski |
 | 307 | 141 | Pauline Cortez |
 | 308 | 141 | Наталья Солоид |

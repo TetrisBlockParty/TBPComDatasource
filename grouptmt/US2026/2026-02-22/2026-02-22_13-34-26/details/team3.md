@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 485 | Christine Filson |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 473 | mzcatzy |
 | 132 | 471 | Mendoza Lee Christy |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Mcathen |
-| 161 | 399 | Marcie Bressler |
+| 160 | 399 | Marcie Bressler |
+| 161 | 399 | Mcathen |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
@@ -229,8 +229,8 @@
 | 221 | 289 | DidIdothat |
 | 222 | 289 | Hoppy Buildout |
 | 223 | 289 | Duane Bright |
-| 224 | 286 | Charles Perrone |
-| 225 | 286 | Cynthia Herrmann Egland |
+| 224 | 286 | Cynthia Herrmann Egland |
+| 225 | 286 | Charles Perrone |
 | 226 | 284 | Denise Nardoni |
 | 227 | 283 | Cheeky Snapper |
 | 228 | 283 | Sarah Moyer |
@@ -312,8 +312,8 @@
 | 304 | 209 | Micayah Stevens |
 | 305 | 208 | AlsoJess |
 | 306 | 207 | angieelyn |
-| 307 | 207 | Daring Builder |
-| 308 | 207 | Jessica |
+| 307 | 207 | Jessica |
+| 308 | 207 | Daring Builder |
 | 309 | 206 | Tracy Martin |
 | 310 | 206 | Tammy Rosenberry |
 | 311 | 205 | April Matthew Kibble |
@@ -367,8 +367,8 @@
 | 359 | 176 | Skinny Baldez |
 | 360 | 175 | Eileen Brady Thurber |
 | 361 | 175 | Wacky Crasher |
-| 362 | 174 | Lesley Perez |
-| 363 | 174 | Niki Dalrymple |
+| 362 | 174 | Niki Dalrymple |
+| 363 | 174 | Lesley Perez |
 | 364 | 174 | TotoCherue |
 | 365 | 173 | Kiki |
 | 366 | 173 | MizzMonick Smith |
