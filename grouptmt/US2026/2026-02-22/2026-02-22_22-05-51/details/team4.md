@@ -48,8 +48,8 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Jae Job |
+| 43 | 846 | Jae Job |
+| 44 | 846 | Lucille Truesdale |
 | 45 | 846 | Christine Marie |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
@@ -83,8 +83,8 @@
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Savannah Overdorf |
-| 79 | 617 | Jason Hart |
+| 78 | 617 | Jason Hart |
+| 79 | 617 | Savannah Overdorf |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -144,12 +144,12 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Livvy |
-| 140 | 353 | Tyler Terrific |
+| 139 | 353 | Tyler Terrific |
+| 140 | 353 | Livvy |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
-| 143 | 343 | ThaEviLJeNiuZ |
-| 144 | 343 | Latisha Davis |
+| 143 | 343 | Latisha Davis |
+| 144 | 343 | ThaEviLJeNiuZ |
 | 145 | 339 | David Lay |
 | 146 | 336 | Klo |
 | 147 | 334 | Guy Incognito |
@@ -224,8 +224,8 @@
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 245 | Autum Leigh |
-| 219 | 245 | 23 |
-| 220 | 245 | Adam Stephanie Parker |
+| 219 | 245 | Adam Stephanie Parker |
+| 220 | 245 | 23 |
 | 221 | 243 | Mr. Party |
 | 222 | 241 | JPW |
 | 223 | 241 | Allen Lloyd |
@@ -252,8 +252,8 @@
 | 244 | 219 | BigSammy420 |
 | 245 | 216 | Chance Strickland |
 | 246 | 216 | ZeeZee |
-| 247 | 215 | Ziggy |
-| 248 | 215 | John Brunetti |
+| 247 | 215 | John Brunetti |
+| 248 | 215 | Ziggy |
 | 249 | 214 | Stacey Stano |
 | 250 | 213 | Rio Rocha |
 | 251 | 213 | Angela Geist Jusinski |
@@ -276,12 +276,12 @@
 | 268 | 198 | Calvin Dennis |
 | 269 | 198 | Silly SeaWeed |
 | 270 | 197 | Gilles Lanctot |
-| 271 | 195 | 中山成巳 |
-| 272 | 195 | Shainne Brewer |
+| 271 | 195 | Shainne Brewer |
+| 272 | 195 | 中山成巳 |
 | 273 | 194 | Zany Twisterfit |
 | 274 | 193 | Stephme310 |
-| 275 | 192 | Andrew Dang |
-| 276 | 192 | Stella |
+| 275 | 192 | Stella |
+| 276 | 192 | Andrew Dang |
 | 277 | 191 | Earnest Thompson |
 | 278 | 189 | 030Synner |
 | 279 | 187 | Cynthia Boudreau |

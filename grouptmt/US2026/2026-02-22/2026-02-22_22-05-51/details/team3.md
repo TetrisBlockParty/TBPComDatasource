@@ -170,8 +170,8 @@
 | 162 | 474 | Danielle Balcom |
 | 163 | 474 | Tasha Gillespie |
 | 164 | 473 | Calista Jo Dickson |
-| 165 | 471 | Rachel |
-| 166 | 471 | Mendoza Lee Christy |
+| 165 | 471 | Mendoza Lee Christy |
+| 166 | 471 | Rachel |
 | 167 | 470 | Logan Naccarato |
 | 168 | 469 | Melissa Orth Hunter |
 | 169 | 469 | Adrian Marcel Pate |

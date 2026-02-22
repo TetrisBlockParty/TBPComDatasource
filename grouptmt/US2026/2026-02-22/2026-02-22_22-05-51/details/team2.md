@@ -149,8 +149,8 @@
 | 141 | 1450 | Cody Smith-Candelaria |
 | 142 | 1418 | L3sli3 |
 | 143 | 1412 | Angi Harrison |
-| 144 | 1411 | niecy |
-| 145 | 1411 | Zappy Cascade |
+| 144 | 1411 | Zappy Cascade |
+| 145 | 1411 | niecy |
 | 146 | 1401 | Brandy Andre |
 | 147 | 1397 | Bussyiano Page |
 | 148 | 1394 | Cambrie Schultz |
@@ -341,8 +341,8 @@
 | 333 | 773 | Diana Fitzwater |
 | 334 | 772 | Danielle Simmons |
 | 335 | 768 | Joshua Self |
-| 336 | 767 | Ashley Lopez |
-| 337 | 767 | Fancy Twister |
+| 336 | 767 | Fancy Twister |
+| 337 | 767 | Ashley Lopez |
 | 338 | 763 | Heather Causey |
 | 339 | 761 | Hyper Cluster |
 | 340 | 760 | Cheech Dta |

@@ -64,8 +64,8 @@
 | 56 | 738 | Michelle Nicole |
 | 57 | 720 | Zippy Align |
 | 58 | 703 | Angel Fowler |
-| 59 | 691 | Marianne Louise West |
-| 60 | 691 | Seante Bullock |
+| 59 | 691 | Seante Bullock |
+| 60 | 691 | Marianne Louise West |
 | 61 | 687 | comrade fish |
 | 62 | 685 | Sevens4L |
 | 63 | 674 | Drew Magnus |
@@ -284,8 +284,8 @@
 | 276 | 202 | Amanda Holibaugh |
 | 277 | 201 | Colleen Wise |
 | 278 | 201 | Beau Galvan |
-| 279 | 200 | Silly Align |
-| 280 | 200 | Breanna Luna |
+| 279 | 200 | Breanna Luna |
+| 280 | 200 | Silly Align |
 | 281 | 199 | Alenoush Karimian |
 | 282 | 198 | Melissa Lemmon |
 | 283 | 198 | Happy Snapbuild |
