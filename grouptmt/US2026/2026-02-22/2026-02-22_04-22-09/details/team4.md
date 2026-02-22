@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Alicia Bass |
-| 75 | 396 | Amy Suckarieh |
+| 74 | 396 | Amy Suckarieh |
+| 75 | 396 | Alicia Bass |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -168,17 +168,17 @@
 | 160 | 194 | Zany Twisterfit |
 | 161 | 192 | Shauna Havard |
 | 162 | 189 | Calvin Dennis |
-| 163 | 189 | Chilly Crasher |
-| 164 | 189 | Stacey Stano |
+| 163 | 189 | Stacey Stano |
+| 164 | 189 | Chilly Crasher |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
-| 167 | 185 | Lori |
-| 168 | 185 | Andy Cabral |
-| 169 | 185 | Diana Houts |
+| 167 | 185 | Diana Houts |
+| 168 | 185 | Lori |
+| 169 | 185 | Andy Cabral |
 | 170 | 184 | Ak Jones |
 | 171 | 181 | Carter Jones |
-| 172 | 181 | Klo |
-| 173 | 181 | Alan George LaRage |
+| 172 | 181 | Alan George LaRage |
+| 173 | 181 | Klo |
 | 174 | 180 | Orchislactea |
 | 175 | 179 | blockstar |
 | 176 | 176 | Zethra Prenisha Rahming |

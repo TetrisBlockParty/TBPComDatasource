@@ -276,8 +276,8 @@
 | 268 | 647 | Peppy Zone |
 | 269 | 647 | Ashle Scranton |
 | 270 | 643 | Hoppy Brickmatch |
-| 271 | 641 | Joce Lynn |
-| 272 | 641 | Angie Bolton Workman |
+| 271 | 641 | Angie Bolton Workman |
+| 272 | 641 | Joce Lynn |
 | 273 | 640 | BYM4L |
 | 274 | 639 | Crystie Hicks |
 | 275 | 639 | Rebecca Miller |
@@ -288,8 +288,8 @@
 | 280 | 629 | Dee |
 | 281 | 626 | Allan Wayne Lamia |
 | 282 | 619 | Jánine Riggs |
-| 283 | 617 | tejas25 |
-| 284 | 617 | Leslie Ann Carter |
+| 283 | 617 | Leslie Ann Carter |
+| 284 | 617 | tejas25 |
 | 285 | 615 | Brandon Armstrong |
 | 286 | 613 | Ellie Jonas |
 | 287 | 609 | Stephen Stephen |
@@ -359,13 +359,13 @@
 | 351 | 496 | Blacc Blac |
 | 352 | 494 | Doowop40 |
 | 353 | 493 | Kara Gillen |
-| 354 | 492 | Armonie Smith |
-| 355 | 492 | Breezy Clusterer |
+| 354 | 492 | Breezy Clusterer |
+| 355 | 492 | Armonie Smith |
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Venita Ray |
-| 360 | 488 | Andrew Willis |
+| 359 | 488 | Andrew Willis |
+| 360 | 488 | Venita Ray |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -742,8 +742,8 @@
 | 734 | 258 | Scott |
 | 735 | 258 | Mordoks Pyrography |
 | 736 | 258 | Shylee Tilman |
-| 737 | 258 | JacJac |
-| 738 | 258 | Tee Jaleesa |
+| 737 | 258 | Tee Jaleesa |
+| 738 | 258 | JacJac |
 | 739 | 257 | Jackie Jackie Lee |
 | 740 | 256 | Brenna Yearian |
 | 741 | 256 | Quirky Twistline |

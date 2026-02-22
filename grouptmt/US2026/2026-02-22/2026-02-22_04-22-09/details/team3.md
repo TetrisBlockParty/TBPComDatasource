@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 968 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -211,8 +211,8 @@
 | 203 | 263 | Angeline Joseph |
 | 204 | 262 | Joe-Maggie Mathews |
 | 205 | 261 | Brittany |
-| 206 | 261 | Marquita Sheard |
-| 207 | 261 | Tiffany Ford |
+| 206 | 261 | Tiffany Ford |
+| 207 | 261 | Marquita Sheard |
 | 208 | 260 | Grams |
 | 209 | 258 | Tamara Deherrera |
 | 210 | 257 | Ashley Jones |
@@ -290,15 +290,15 @@
 | 282 | 179 | Rachel Napper |
 | 283 | 179 | Tipsy Zonebuilder |
 | 284 | 178 | Jess Dearborn |
-| 285 | 176 | Beth Ingham |
-| 286 | 176 | Melissa Orth Hunter |
-| 287 | 176 | Jennifer Alvey |
+| 285 | 176 | Jennifer Alvey |
+| 286 | 176 | Beth Ingham |
+| 287 | 176 | Melissa Orth Hunter |
 | 288 | 175 | Eileen Brady Thurber |
-| 289 | 174 | Betty Rosas |
-| 290 | 174 | fraulila |
+| 289 | 174 | fraulila |
+| 290 | 174 | Betty Rosas |
 | 291 | 174 | Lesley Perez |
-| 292 | 173 | Denita Mungro |
-| 293 | 173 | BŘŰŤİÇŨŚ |
+| 292 | 173 | BŘŰŤİÇŨŚ |
+| 293 | 173 | Denita Mungro |
 | 294 | 171 | Emma |
 | 295 | 170 | Cesar Barraza |
 | 296 | 169 | Peachy Rollfit |
@@ -375,8 +375,8 @@
 | 367 | 134 | Glenn Loving |
 | 368 | 134 | Tammy |
 | 369 | 134 | Jd Morris |
-| 370 | 133 | Jen Lewis |
-| 371 | 133 | Crystal Hine |
+| 370 | 133 | Crystal Hine |
+| 371 | 133 | Jen Lewis |
 | 372 | 132 | Andrew Thorson |
 | 373 | 132 | Hanna Kim |
 | 374 | 131 | Beppy |
@@ -391,10 +391,10 @@
 | 383 | 128 | David Kozen |
 | 384 | 127 | Sarah Whalen |
 | 385 | 127 | Jumpy Wrecker |
-| 386 | 126 | Crystal Martin |
-| 387 | 126 | Tipsy Puzzle |
-| 388 | 125 | Brian Battjes |
-| 389 | 125 | Shimika Enay Wallace |
+| 386 | 126 | Tipsy Puzzle |
+| 387 | 126 | Crystal Martin |
+| 388 | 125 | Shimika Enay Wallace |
+| 389 | 125 | Brian Battjes |
 | 390 | 125 | Felicia Doxey |
 | 391 | 124 | gremicx |
 | 392 | 124 | Ammmmmmy |
