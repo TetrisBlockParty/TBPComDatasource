@@ -122,8 +122,8 @@
 | 114 | 568 | Rachael McClain Owens |
 | 115 | 566 | Dolores Falco |
 | 116 | 565 | Patty Allen |
-| 117 | 562 | Louise Stacy Sisson |
-| 118 | 562 | Dave Herzog |
+| 117 | 562 | Dave Herzog |
+| 118 | 562 | Louise Stacy Sisson |
 | 119 | 554 | joclisa |
 | 120 | 550 | Nicole Myers |
 | 121 | 533 | Alaina Lee |
@@ -212,8 +212,8 @@
 | 204 | 346 | Tamara Deherrera |
 | 205 | 344 | Trisha Balmer |
 | 206 | 343 | Ashley Raines |
-| 207 | 341 | Noyb Adam |
-| 208 | 341 | Samantha Lynn |
+| 207 | 341 | Samantha Lynn |
+| 208 | 341 | Noyb Adam |
 | 209 | 340 | Ammmmmmy |
 | 210 | 338 | Gumbo |
 | 211 | 332 | Rich LeBlanc |
@@ -222,9 +222,9 @@
 | 214 | 324 | Kristal C Lee |
 | 215 | 324 | Sissy Lowery Davis |
 | 216 | 323 | Demetrious Shaw Sr. |
-| 217 | 320 | Ashley Muncey |
-| 218 | 320 | Brittany |
-| 219 | 320 | Keis |
+| 217 | 320 | Keis |
+| 218 | 320 | Ashley Muncey |
+| 219 | 320 | Brittany |
 | 220 | 320 | Or Reznitsky |
 | 221 | 319 | Cozy Snaplink |
 | 222 | 318 | Loopy Fallmatch |
@@ -397,8 +397,8 @@
 | 389 | 180 | Beth Ingham |
 | 390 | 179 | DanceLuvLaugh |
 | 391 | 179 | Skinny Baldez |
-| 392 | 178 | Joy Petroski |
-| 393 | 178 | Christian Luna |
+| 392 | 178 | Christian Luna |
+| 393 | 178 | Joy Petroski |
 | 394 | 177 | Kristin Delibac Corrigan |
 | 395 | 177 | Crystal Hine |
 | 396 | 176 | Emma |

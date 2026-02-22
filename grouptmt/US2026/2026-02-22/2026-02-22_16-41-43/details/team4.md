@@ -67,8 +67,8 @@
 | 59 | 698 | Anthony Bryan Riva |
 | 60 | 697 | Edward White |
 | 61 | 671 | D3TROITB0RN74 |
-| 62 | 664 | Valerie Roberts |
-| 63 | 664 | Kimyatta Cavin |
+| 62 | 664 | Kimyatta Cavin |
+| 63 | 664 | Valerie Roberts |
 | 64 | 659 | Jonathan Kimbrough |
 | 65 | 658 | loulou |
 | 66 | 654 | Chilly Line |
@@ -126,8 +126,8 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Livvy |
-| 122 | 353 | Tyler Terrific |
+| 121 | 353 | Tyler Terrific |
+| 122 | 353 | Livvy |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
@@ -213,8 +213,8 @@
 | 205 | 221 | Rheanda Weaskus |
 | 206 | 219 | Malakai Darien Fox |
 | 207 | 217 | Kim Hunt |
-| 208 | 216 | ZeeZee |
-| 209 | 216 | Cristy Duerksen |
+| 208 | 216 | Cristy Duerksen |
+| 209 | 216 | ZeeZee |
 | 210 | 216 | Chance Strickland |
 | 211 | 215 | Ziggy |
 | 212 | 213 | Shauna Havard |
@@ -253,8 +253,8 @@
 | 245 | 184 | Ak Jones |
 | 246 | 184 | Lauren Lamb |
 | 247 | 183 | JPW |
-| 248 | 181 | Carter Jones |
-| 249 | 181 | Jackie Marie |
+| 248 | 181 | Jackie Marie |
+| 249 | 181 | Carter Jones |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | TinyLegoRose |
 | 252 | 179 | Stephme310 |
@@ -311,9 +311,9 @@
 | 303 | 147 | Sticherella |
 | 304 | 147 | Andrew Dang |
 | 305 | 147 | Jay28 |
-| 306 | 145 | Daring Pivot |
-| 307 | 145 | Glitzy Crasher |
-| 308 | 145 | Maureen Flanigan |
+| 306 | 145 | Maureen Flanigan |
+| 307 | 145 | Daring Pivot |
+| 308 | 145 | Glitzy Crasher |
 | 309 | 145 | Sandra Safford |
 | 310 | 145 | Nick Gray |
 | 311 | 144 | Circuit8 |
@@ -813,7 +813,7 @@
 | 805 | 52 | Randy |
 | 806 | 52 | Giggy Bridgepiece |
 | 807 | 52 | Wacky Blockclear |
-| 808 | 52 | Randy |
+| 808 | 52 | Meow Meow |
 | 809 | 51 | George Nutt |
 | 810 | 51 | Mike Nelson |
 | 811 | 51 | Chilly Matchpiece |

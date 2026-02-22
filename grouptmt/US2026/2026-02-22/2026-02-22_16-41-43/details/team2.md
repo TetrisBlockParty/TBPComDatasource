@@ -176,8 +176,8 @@
 | 168 | 1154 | Stacy Stickle |
 | 169 | 1147 | Kiok |
 | 170 | 1131 | Stacey Clement |
-| 171 | 1124 | Jessie McDougald |
-| 172 | 1124 | Brandy Andre |
+| 171 | 1124 | Brandy Andre |
+| 172 | 1124 | Jessie McDougald |
 | 173 | 1121 | Megan Ferguson Leone |
 | 174 | 1117 | Ricardo Burton |
 | 175 | 1113 | Anna Edwards |
@@ -249,8 +249,8 @@
 | 241 | 880 | Sam Joe |
 | 242 | 875 | Jamie Otero |
 | 243 | 874 | Giggy Blocker |
-| 244 | 869 | Tony Lea |
-| 245 | 869 | Felicia Lynn |
+| 244 | 869 | Felicia Lynn |
+| 245 | 869 | Tony Lea |
 | 246 | 867 | Peppy Zone |
 | 247 | 867 | Michele Gabriel |
 | 248 | 864 | Ashlen Dorrell |
@@ -260,8 +260,8 @@
 | 252 | 860 | William Hunt |
 | 253 | 857 | Della Hole |
 | 254 | 855 | F-X |
-| 255 | 853 | Maria Escobar |
-| 256 | 853 | Meghan M |
+| 255 | 853 | Meghan M |
+| 256 | 853 | Maria Escobar |
 | 257 | 850 | Missie Lawson Gebhardt |
 | 258 | 845 | Sheniya Spurgeon |
 | 259 | 844 | Terri McKelvey McKinley |
@@ -600,8 +600,8 @@
 | 592 | 420 | Joice Hansen |
 | 593 | 420 | LaWanda Powell |
 | 594 | 420 | Samantha Scibelli |
-| 595 | 419 | Goofy Catcher |
-| 596 | 419 | Josh Dill |
+| 595 | 419 | Josh Dill |
+| 596 | 419 | Goofy Catcher |
 | 597 | 419 | Melissa Penelope Ann Dodge |
 | 598 | 419 | Pocho Zavala |
 | 599 | 418 | Snappy snappers |
@@ -668,8 +668,8 @@
 | 660 | 381 | Happy Caster |
 | 661 | 381 | Nicky Jackson |
 | 662 | 380 | Giggy Grabber |
-| 663 | 379 | Austin Wilson |
-| 664 | 379 | Cini |
+| 663 | 379 | Cini |
+| 664 | 379 | Austin Wilson |
 | 665 | 379 | DefaultUser |
 | 666 | 378 | TF Dyer |
 | 667 | 378 | Kelly Walters |
