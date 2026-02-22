@@ -529,8 +529,8 @@
 | 521 | 535 | Anthony Huebel |
 | 522 | 533 | Davetta Sanford |
 | 523 | 532 | Belle Mari |
-| 524 | 531 | Aishah Brice |
-| 525 | 531 | Briana Alexander |
+| 524 | 531 | Briana Alexander |
+| 525 | 531 | Aishah Brice |
 | 526 | 529 | Victoria Regina Girolami |
 | 527 | 528 | Anita Rose Green |
 | 528 | 527 | Ryan Gunther |
@@ -685,12 +685,12 @@
 | 677 | 426 | Courtney Burcham |
 | 678 | 423 | Smashanator |
 | 679 | 423 | Taylor Flowers |
-| 680 | 422 | Kimberly Ann |
-| 681 | 422 | Stefanie Zonzini-Gagliardi |
+| 680 | 422 | Stefanie Zonzini-Gagliardi |
+| 681 | 422 | Kimberly Ann |
 | 682 | 422 | Oscar Bernie |
 | 683 | 421 | Jasmine Kenney |
-| 684 | 421 | Beth Decker |
-| 685 | 421 | Nina Nav |
+| 684 | 421 | Nina Nav |
+| 685 | 421 | Beth Decker |
 | 686 | 420 | Ricky Fortune |
 | 687 | 420 | Daniel Amos |
 | 688 | 420 | Jessica Hughes |

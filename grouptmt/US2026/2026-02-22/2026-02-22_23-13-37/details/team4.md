@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -220,8 +220,8 @@
 | 212 | 261 | scott |
 | 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | Cheery Risebuilder |
-| 216 | 257 | PeaceOs |
+| 215 | 257 | PeaceOs |
+| 216 | 257 | Cheery Risebuilder |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -239,16 +239,16 @@
 | 231 | 241 | JPW |
 | 232 | 241 | Allen Lloyd |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Zesty Twistbuilder |
-| 235 | 238 | Chaz |
+| 234 | 238 | Chaz |
+| 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
 | 238 | 230 | Jade Rian |
 | 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Perky Patternblock |
-| 243 | 225 | Jenna McGeorge |
+| 242 | 225 | Jenna McGeorge |
+| 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | Rheanda Weaskus |
 | 246 | 221 | PurpleMoonMa |

@@ -175,14 +175,14 @@
 | 167 | 484 | Dapper Snap |
 | 168 | 479 | Poppy Splitter |
 | 169 | 475 | Tessina Dewey-Mancino |
-| 170 | 471 | Mendoza Lee Christy |
-| 171 | 471 | Rachel |
+| 170 | 471 | Rachel |
+| 171 | 471 | Mendoza Lee Christy |
 | 172 | 470 | Logan Naccarato |
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
 | 175 | 465 | Tasha Schriewer |
-| 176 | 464 | Makelini Mausia |
-| 177 | 464 | Michelle |
+| 176 | 464 | Michelle |
+| 177 | 464 | Makelini Mausia |
 | 178 | 461 | Shunta Jacobs |
 | 179 | 460 | Danielle Allison |
 | 180 | 460 | Araceli Parra |
@@ -232,8 +232,8 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Stephanie Woods |
-| 228 | 368 | Rebecca Funderburk Kirby |
+| 227 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Stephanie Woods |
 | 229 | 366 | Marquita Sheard |
 | 230 | 365 | Chummy Caster |
 | 231 | 365 | Tiffany Ford |
@@ -345,8 +345,8 @@
 | 337 | 253 | Alice |
 | 338 | 252 | Blair Erin Waite |
 | 339 | 251 | Naur |
-| 340 | 250 | Tosha Griffey |
-| 341 | 250 | Eric Caccavale |
+| 340 | 250 | Eric Caccavale |
+| 341 | 250 | Tosha Griffey |
 | 342 | 249 | Willow |
 | 343 | 247 | Jessica |
 | 344 | 247 | Daring Builder |
