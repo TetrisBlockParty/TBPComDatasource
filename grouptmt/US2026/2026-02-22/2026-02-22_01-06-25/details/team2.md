@@ -162,12 +162,12 @@
 | 154 | 845 | April Dawn Gussler |
 | 155 | 838 | Tralonda Weeks |
 | 156 | 826 | Cindy Sechler Taninecz |
-| 157 | 815 | Chirpy Staggerpiece |
-| 158 | 815 | Moni Foxe |
-| 159 | 811 | James Simms III |
-| 160 | 811 | Rebecca Doughman |
-| 161 | 808 | Missie Lawson Gebhardt |
-| 162 | 808 | John Bednarik |
+| 157 | 815 | Moni Foxe |
+| 158 | 815 | Chirpy Staggerpiece |
+| 159 | 811 | Rebecca Doughman |
+| 160 | 811 | James Simms III |
+| 161 | 808 | John Bednarik |
+| 162 | 808 | Missie Lawson Gebhardt |
 | 163 | 807 | Khalil Lowe |
 | 164 | 802 | Robin Kerby |
 | 165 | 800 | Danielle Johnson-Chandler |
@@ -766,9 +766,9 @@
 | 758 | 215 | Elizabeth Leinen |
 | 759 | 215 | Facuetoo |
 | 760 | 215 | Natalie M Wells |
-| 761 | 214 | Dawn L Washington-Feuquay |
+| 761 | 214 | Regina Unruh |
 | 762 | 214 | Cass Shirley |
-| 763 | 214 | Regina Unruh |
+| 763 | 214 | Dawn L Washington-Feuquay |
 | 764 | 213 | Janai Vrabel |
 | 765 | 212 | Angelica |
 | 766 | 212 | Laura Mcfee |

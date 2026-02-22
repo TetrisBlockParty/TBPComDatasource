@@ -92,8 +92,8 @@
 | 84 | 512 | Christine Niles |
 | 85 | 510 | Dave Herzog |
 | 86 | 506 | Sashay Tapae Simpson |
-| 87 | 503 | Susan Valentino |
-| 88 | 503 | Nate Burnside |
+| 87 | 503 | Nate Burnside |
+| 88 | 503 | Susan Valentino |
 | 89 | 502 | Justin Ritter |
 | 90 | 497 | Jennifer Petrie |
 | 91 | 493 | Mandy Smith Oldham |
@@ -135,12 +135,12 @@
 | 127 | 368 | Stephanie Woods |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Sherry Ogden |
-| 131 | 355 | Tessina Dewey-Mancino |
+| 130 | 355 | Tessina Dewey-Mancino |
+| 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
 | 137 | 340 | Patricia Gadsden |
 | 138 | 328 | Jeni Dow |
@@ -322,8 +322,8 @@
 | 314 | 138 | Pam Holt Powell |
 | 315 | 137 | kacihall |
 | 316 | 137 | sofaking |
-| 317 | 136 | Sabrina Mansfield |
-| 318 | 136 | Blair Erin Waite |
+| 317 | 136 | Blair Erin Waite |
+| 318 | 136 | Sabrina Mansfield |
 | 319 | 136 | Christian Werndl |
 | 320 | 134 | Tammy |
 | 321 | 134 | Bleu Sun Beams |

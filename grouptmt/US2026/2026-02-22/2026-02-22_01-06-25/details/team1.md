@@ -158,8 +158,8 @@
 | 150 | 186 | Jennifer Olewnik Soborowski |
 | 151 | 185 | Basment Living |
 | 152 | 182 | Monica Donato |
-| 153 | 180 | Erez Yosef |
-| 154 | 180 | BigWeenie69 |
+| 153 | 180 | BigWeenie69 |
+| 154 | 180 | Erez Yosef |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
 | 157 | 177 | Irual Hctrab |
@@ -1407,7 +1407,7 @@
 | 1399 | 6 | ~Tintta~ |
 | 1400 | 6 | Dreamy Linkblock |
 | 1401 | 6 | Block attack |
-| 1402 | 5 | Rikki Jo Creech |
+| 1402 | 5 | Kimberly Berry |
 | 1403 | 5 | Cleo Snider |
 | 1404 | 5 | Evelyn Kelly Motti |
 | 1405 | 5 | ColombianNuttz |

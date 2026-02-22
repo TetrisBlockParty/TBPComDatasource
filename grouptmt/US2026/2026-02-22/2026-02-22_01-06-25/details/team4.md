@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -121,8 +121,8 @@
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |
-| 116 | 218 | Antony Dwayne Beasley |
-| 117 | 218 | Casey Grabner |
+| 116 | 218 | Casey Grabner |
+| 117 | 218 | Antony Dwayne Beasley |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
 | 120 | 212 | Mike Solo |
@@ -133,8 +133,8 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Dana Scott |
-| 129 | 204 | Jen Caldwell |
+| 128 | 204 | Jen Caldwell |
+| 129 | 204 | Dana Scott |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -156,8 +156,8 @@
 | 148 | 181 | Andria Lynn |
 | 149 | 181 | Carter Jones |
 | 150 | 180 | Leah Kutz Zirbel |
-| 151 | 179 | Scott Jameson |
-| 152 | 179 | Ak Jones |
+| 151 | 179 | Ak Jones |
+| 152 | 179 | Scott Jameson |
 | 153 | 176 | Zethra Prenisha Rahming |
 | 154 | 175 | Ren Mc |
 | 155 | 175 | blockstar |
