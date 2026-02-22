@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -126,8 +126,8 @@
 | 118 | 303 | Lauren Scott |
 | 119 | 300 | Jason Hart |
 | 120 | 298 | Lucas J Sutton |
-| 121 | 296 | HastyGrabber |
-| 122 | 296 | Justin Hannigan |
+| 121 | 296 | Justin Hannigan |
+| 122 | 296 | HastyGrabber |
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
@@ -137,8 +137,8 @@
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |
 | 131 | 278 | Desi Desporte |
-| 132 | 277 | Scott Jameson |
-| 133 | 277 | Mary Ann Pabukis |
+| 132 | 277 | Mary Ann Pabukis |
+| 133 | 277 | Scott Jameson |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -186,8 +186,8 @@
 | 178 | 204 | Jen Caldwell |
 | 179 | 203 | Katherine Crane |
 | 180 | 202 | TRCuse |
-| 181 | 201 | Melvin Baird |
-| 182 | 201 | Chance Strickland |
+| 181 | 201 | Chance Strickland |
+| 182 | 201 | Melvin Baird |
 | 183 | 200 | Laura |
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |
@@ -415,7 +415,7 @@
 | 407 | 95 | Tina Martinez |
 | 408 | 95 | Jobadia Steelerton |
 | 409 | 95 | RedBoots82 |
-| 410 | 94 | Jeff Roberts |
+| 410 | 94 | DonMega |
 | 411 | 94 | Ahleek Mitchell |
 | 412 | 94 | Jeff Roberts |
 | 413 | 93 | Matt Gooder |

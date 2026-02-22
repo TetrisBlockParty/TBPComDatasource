@@ -290,8 +290,8 @@
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Jennifer Casey-Kay |
-| 286 | 692 | Dannette Goldberg-Richards |
+| 285 | 692 | Dannette Goldberg-Richards |
+| 286 | 692 | Jennifer Casey-Kay |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -300,8 +300,8 @@
 | 292 | 685 | Binyah-Binyah |
 | 293 | 681 | Melissa Holsinger |
 | 294 | 679 | Offonar Facey |
-| 295 | 679 | Brenda Utphall |
-| 296 | 679 | Dee |
+| 295 | 679 | Dee |
+| 296 | 679 | Brenda Utphall |
 | 297 | 679 | Kassandra Hunt |
 | 298 | 678 | Scott Treadway |
 | 299 | 677 | Mema |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -339,8 +339,8 @@
 | 331 | 613 | Caitlyn Blackwell |
 | 332 | 613 | Ellie Jonas |
 | 333 | 611 | Em Chen |
-| 334 | 611 | Carl Bradshaw |
-| 335 | 611 | Julio A Laracuente |
+| 334 | 611 | Julio A Laracuente |
+| 335 | 611 | Carl Bradshaw |
 | 336 | 605 | Jelly |
 | 337 | 603 | Cassie Maynard |
 | 338 | 602 | Christine Bollig |
@@ -528,23 +528,23 @@
 | 520 | 420 | LaWanda Powell |
 | 521 | 419 | Pocho Zavala |
 | 522 | 419 | Josh Dill |
-| 523 | 418 | Véronique Lévesque Sabourin |
-| 524 | 418 | Kristi Biddinger |
+| 523 | 418 | Kristi Biddinger |
+| 524 | 418 | Véronique Lévesque Sabourin |
 | 525 | 417 | Alexx Anaya |
 | 526 | 416 | Ricky Fortune |
 | 527 | 414 | John |
 | 528 | 414 | Sabrina Burton |
-| 529 | 413 | Lauren Fitzgerald Thomas |
-| 530 | 413 | Fancy Twister |
-| 531 | 413 | Biggest thing |
+| 529 | 413 | Fancy Twister |
+| 530 | 413 | Biggest thing |
+| 531 | 413 | Lauren Fitzgerald Thomas |
 | 532 | 413 | Juanita Lyons |
 | 533 | 411 | Kristen O'Neal |
 | 534 | 411 | Mighty Spinbuilder |
 | 535 | 410 | Tara Lynn Janes |
 | 536 | 410 | Nicole Cannon |
 | 537 | 408 | Brandon Jones |
-| 538 | 408 | Abimbola Bimbo |
-| 539 | 408 | Stefanie Zonzini-Gagliardi |
+| 538 | 408 | Stefanie Zonzini-Gagliardi |
+| 539 | 408 | Abimbola Bimbo |
 | 540 | 407 | Tipsy Filler |
 | 541 | 406 | Erin StFrancis |
 | 542 | 406 | Kimberly Ann |
@@ -604,8 +604,8 @@
 | 596 | 378 | TF Dyer |
 | 597 | 378 | Jasmine Kenney |
 | 598 | 377 | Jason H Baker |
-| 599 | 376 | James Zaragoza |
-| 600 | 376 | Darlene Bowman |
+| 599 | 376 | Darlene Bowman |
+| 600 | 376 | James Zaragoza |
 | 601 | 375 | Cecilia A Jenkins |
 | 602 | 375 | Lively Edgepiece |
 | 603 | 373 | Hunter Connors |
@@ -716,8 +716,8 @@
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Marina Linda |
 | 715 | 313 | Natasha Edmonds |
@@ -1176,8 +1176,8 @@
 | 1168 | 192 | Donna M Carter |
 | 1169 | 191 | Netty |
 | 1170 | 191 | Samuel Labruno |
-| 1171 | 191 | Casaundra Little-Abeling |
-| 1172 | 191 | Val Pal |
+| 1171 | 191 | Val Pal |
+| 1172 | 191 | Casaundra Little-Abeling |
 | 1173 | 190 | Lola |
 | 1174 | 190 | Jessica Kaye DeAguero |
 | 1175 | 190 | Cherry |
@@ -1339,13 +1339,13 @@
 | 1331 | 170 | Chummy Shiftsnap |
 | 1332 | 170 | Tigro Ace |
 | 1333 | 170 | Wayne Hayward |
-| 1334 | 169 | Jaci Marie |
-| 1335 | 169 | Jamie Frank Karolyi |
-| 1336 | 169 | Micky |
+| 1334 | 169 | Micky |
+| 1335 | 169 | Jaci Marie |
+| 1336 | 169 | Jamie Frank Karolyi |
 | 1337 | 169 | Christy Green |
 | 1338 | 169 | Zappy Stackbuilder |
-| 1339 | 169 | Ubu |
-| 1340 | 169 | Dapper Blockroll |
+| 1339 | 169 | Dapper Blockroll |
+| 1340 | 169 | Ubu |
 | 1341 | 169 | Corey Ross |
 | 1342 | 168 | Gaby |
 | 1343 | 168 | Hasan Nabil Jadallah |
@@ -1380,8 +1380,8 @@
 | 1372 | 165 | D'Aaron Black |
 | 1373 | 165 | Alexandra Eryn |
 | 1374 | 165 | Slinky Matchbuilder |
-| 1375 | 165 | Breezy Strikerpiece |
-| 1376 | 165 | Emmmz |
+| 1375 | 165 | Emmmz |
+| 1376 | 165 | Breezy Strikerpiece |
 | 1377 | 164 | Quiltygirl |
 | 1378 | 164 | Jennifer Foster |
 | 1379 | 164 | Ty Quarles |

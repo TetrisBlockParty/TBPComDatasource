@@ -226,8 +226,8 @@
 | 218 | 289 | Duane Bright |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -352,8 +352,8 @@
 | 344 | 168 | April Matthew Kibble |
 | 345 | 168 | Trice Thomas |
 | 346 | 167 | Shicken Nuggit |
-| 347 | 167 | Romeo |
-| 348 | 167 | Irene Arreguin |
+| 347 | 167 | Irene Arreguin |
+| 348 | 167 | Romeo |
 | 349 | 166 | Noettín Kan Zasnemoore |
 | 350 | 166 | Snarky McFace |
 | 351 | 166 | Angella Lyons |
