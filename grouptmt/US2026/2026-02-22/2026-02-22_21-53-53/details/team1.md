@@ -275,8 +275,8 @@
 | 267 | 207 | Katie Martin |
 | 268 | 206 | BadG52 |
 | 269 | 205 | Tyler L Hunt |
-| 270 | 204 | Mel Hogan |
-| 271 | 204 | Chris Sigurdson |
+| 270 | 204 | Chris Sigurdson |
+| 271 | 204 | Mel Hogan |
 | 272 | 203 | Andrew Boone |
 | 273 | 202 | Amanda Holibaugh |
 | 274 | 202 | Evan Richmond |

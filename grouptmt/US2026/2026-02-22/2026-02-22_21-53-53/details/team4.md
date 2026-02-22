@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Jae Job |
-| 44 | 846 | Christine Marie |
-| 45 | 846 | Lucille Truesdale |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Lucille Truesdale |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
@@ -131,8 +131,8 @@
 | 123 | 414 | Nope Young |
 | 124 | 409 | Marie-Pier Desjardins |
 | 125 | 408 | Amanda Pauldo-Ivy |
-| 126 | 400 | Ericca Eldridge |
-| 127 | 400 | Trista Leah |
+| 126 | 400 | Trista Leah |
+| 127 | 400 | Ericca Eldridge |
 | 128 | 393 | Carlton Unfiltered |
 | 129 | 391 | Lush Linkfall |
 | 130 | 391 | Austin Owens |
@@ -236,11 +236,11 @@
 | 228 | 235 | LaDonna LovinmesomeMe Lambert |
 | 229 | 233 | Ruben Wheeler |
 | 230 | 233 | Matt Gooder |
-| 231 | 230 | Jade Rian |
-| 232 | 230 | blockstar |
+| 231 | 230 | blockstar |
+| 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | PurpleMoonMa |
 | 238 | 221 | Rheanda Weaskus |
@@ -285,8 +285,8 @@
 | 277 | 189 | 030Synner |
 | 278 | 187 | Cynthia Boudreau |
 | 279 | 187 | Nita Wells |
-| 280 | 186 | wombat |
-| 281 | 186 | Lauren Lamb |
+| 280 | 186 | Lauren Lamb |
+| 281 | 186 | wombat |
 | 282 | 186 | June Hoffman |
 | 283 | 185 | Laura Hosford |
 | 284 | 185 | Nubian1 |
