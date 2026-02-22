@@ -179,8 +179,8 @@
 | 171 | 415 | ren |
 | 172 | 410 | Stephanie Simpson |
 | 173 | 407 | Jone |
-| 174 | 405 | Marcie Bressler |
-| 175 | 405 | JerseyJess |
+| 174 | 405 | JerseyJess |
+| 175 | 405 | Marcie Bressler |
 | 176 | 403 | Scott Lindsay |
 | 177 | 402 | Araceli Parra |
 | 178 | 401 | Katie Knaus |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Loopy Fallmatch |
-| 204 | 362 | Brandon Givens |
+| 203 | 362 | Brandon Givens |
+| 204 | 362 | Loopy Fallmatch |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -240,8 +240,8 @@
 | 232 | 320 | Ashley Muncey |
 | 233 | 320 | Keis |
 | 234 | 316 | Staci George Fitzsimmons |
-| 235 | 312 | Marci Mize Fandrich |
-| 236 | 312 | Charles Perrone |
+| 235 | 312 | Charles Perrone |
+| 236 | 312 | Marci Mize Fandrich |
 | 237 | 311 | Peppy Shifter |
 | 238 | 307 | Blocked |
 | 239 | 307 | rnr junky |
@@ -258,18 +258,18 @@
 | 250 | 289 | DidIdothat |
 | 251 | 286 | Tye Stovall |
 | 252 | 284 | Denise Nardoni |
-| 253 | 283 | Cheeky Snapper |
-| 254 | 283 | Sarah Moyer |
-| 255 | 282 | Angie Harper |
-| 256 | 282 | Marquita Sheard |
+| 253 | 283 | Sarah Moyer |
+| 254 | 283 | Cheeky Snapper |
+| 255 | 282 | Marquita Sheard |
+| 256 | 282 | Angie Harper |
 | 257 | 281 | Carrie Huskey |
 | 258 | 280 | Terry Jo Jones |
 | 259 | 278 | Sabrina Hardrick |
 | 260 | 278 | Rufus Lincoln |
 | 261 | 277 | Tracy Martin |
 | 262 | 276 | Crimson |
-| 263 | 276 | _melisa223_ |
-| 264 | 276 | Connie Mohler-Fair |
+| 263 | 276 | Connie Mohler-Fair |
+| 264 | 276 | _melisa223_ |
 | 265 | 275 | Cassandra Bryant |
 | 266 | 272 | Tasha Wesson-Torrence |
 | 267 | 272 | fraulila |

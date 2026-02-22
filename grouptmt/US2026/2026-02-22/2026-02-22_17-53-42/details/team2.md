@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Angela Bonquiqui Dinish |
-| 234 | 915 | Robin Kerby |
+| 233 | 915 | Robin Kerby |
+| 234 | 915 | Angela Bonquiqui Dinish |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -426,10 +426,10 @@
 | 418 | 579 | Roy Salyer |
 | 419 | 576 | Leslie Johnson Guinto |
 | 420 | 572 | Chris Wanner |
-| 421 | 571 | Fancy Twister |
-| 422 | 571 | Emily Lyric Converse |
-| 423 | 569 | Dapper Dasher |
-| 424 | 569 | Vaniel Glover |
+| 421 | 571 | Emily Lyric Converse |
+| 422 | 571 | Fancy Twister |
+| 423 | 569 | Vaniel Glover |
+| 424 | 569 | Dapper Dasher |
 | 425 | 567 | Michelle Fields |
 | 426 | 566 | Leah Keesling |
 | 427 | 565 | Steve Man |

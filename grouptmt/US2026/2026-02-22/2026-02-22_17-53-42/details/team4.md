@@ -133,8 +133,8 @@
 | 125 | 353 | Tyler Terrific |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
-| 128 | 338 | Lucas J Sutton |
-| 129 | 338 | ThaEviLJeNiuZ |
+| 128 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
 | 131 | 332 | HastyGrabber |
 | 132 | 332 | Desi Desporte |
@@ -218,8 +218,8 @@
 | 210 | 219 | JPW |
 | 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | ZeeZee |
-| 214 | 216 | Cristy Duerksen |
+| 213 | 216 | Cristy Duerksen |
+| 214 | 216 | ZeeZee |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |
@@ -748,7 +748,7 @@
 | 740 | 60 | Cooldamalley |
 | 741 | 60 | Too Low Lou |
 | 742 | 60 | JD |
-| 743 | 60 | Too Low Lou |
+| 743 | 60 | Marjorie Sims Rentz |
 | 744 | 59 | Noel Christa |
 | 745 | 59 | Stacy |
 | 746 | 59 | Riley Chelsie |
