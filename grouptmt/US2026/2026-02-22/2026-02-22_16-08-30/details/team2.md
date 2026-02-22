@@ -295,8 +295,8 @@
 | 287 | 768 | Michele Morgan |
 | 288 | 767 | Ashley Lopez |
 | 289 | 764 | Pacynthia Williams |
-| 290 | 763 | Beth |
-| 291 | 763 | Heather Causey |
+| 290 | 763 | Heather Causey |
+| 291 | 763 | Beth |
 | 292 | 761 | Hyper Cluster |
 | 293 | 760 | Danielle Simmons |
 | 294 | 759 | Jojo Momma |
@@ -421,8 +421,8 @@
 | 413 | 554 | Santana Miyagi |
 | 414 | 550 | Nashu |
 | 415 | 549 | Darcy Mae |
-| 416 | 549 | Kaylee McCafferty |
-| 417 | 549 | Frisky Clearpiece |
+| 416 | 549 | Frisky Clearpiece |
+| 417 | 549 | Kaylee McCafferty |
 | 418 | 548 | AISlop |
 | 419 | 547 | Kenny Alvarado |
 | 420 | 547 | Shaun Church |
@@ -718,16 +718,16 @@
 | 710 | 349 | Jenn Marie |
 | 711 | 348 | Kelly Meredeith |
 | 712 | 348 | Janitta Alvarez |
-| 713 | 348 | Peppy Snapfall |
-| 714 | 348 | Richard Horton |
+| 713 | 348 | Richard Horton |
+| 714 | 348 | Peppy Snapfall |
 | 715 | 347 | Zesty Pivot |
 | 716 | 346 | Sassy Linkbuilder |
 | 717 | 346 | Daniel Amos |
 | 718 | 346 | Danielle Ayoub |
 | 719 | 345 | Rhianna DiLorenzo |
 | 720 | 345 | Gina Caulder |
-| 721 | 344 | Glenn Cobbins |
-| 722 | 344 | Sarah block |
+| 721 | 344 | Sarah block |
+| 722 | 344 | Glenn Cobbins |
 | 723 | 343 | Snappy Shatterfit |
 | 724 | 343 | Cris cris |
 | 725 | 342 | Danielle DeLozier Plesec |

@@ -70,8 +70,8 @@
 | 62 | 908 | Alanna Rogers |
 | 63 | 903 | Sarah Fehring |
 | 64 | 900 | Nate Burnside |
-| 65 | 895 | Amanda L Baker |
-| 66 | 895 | Shonna Roberts |
+| 65 | 895 | Shonna Roberts |
+| 66 | 895 | Amanda L Baker |
 | 67 | 892 | Corie A. Brinson |
 | 68 | 882 | Susan Valentino |
 | 69 | 874 | Jessica Pineda-Lopez |
@@ -126,8 +126,8 @@
 | 118 | 533 | Alaina Lee |
 | 119 | 531 | Mykal Burton |
 | 120 | 526 | Cynthia Castros-Hampton |
-| 121 | 521 | Daryn Elliott |
-| 122 | 521 | Michelle Becker |
+| 121 | 521 | Michelle Becker |
+| 122 | 521 | Daryn Elliott |
 | 123 | 521 | Michael Nowogorski |
 | 124 | 518 | opf |
 | 125 | 507 | Justin Ritter |
@@ -295,11 +295,11 @@
 | 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Lys |
-| 291 | 236 | Jess Bissett |
+| 290 | 236 | Jess Bissett |
+| 291 | 236 | Lys |
 | 292 | 236 | Angela Scott |
-| 293 | 233 | Tony Waters |
-| 294 | 233 | Josh Borquez |
+| 293 | 233 | Josh Borquez |
+| 294 | 233 | Tony Waters |
 | 295 | 232 | Donna |
 | 296 | 227 | Rebel124 |
 | 297 | 227 | ROODBOY |
@@ -602,11 +602,11 @@
 | 594 | 115 | Whitney Manuel |
 | 595 | 115 | Beejangles |
 | 596 | 115 | Skippy |
-| 597 | 115 | Whitney Manuel |
-| 598 | 115 | JustGiGi |
+| 597 | 115 | Jonathn Poindexter |
+| 598 | 115 | Allie Kershner |
 | 599 | 115 | Will Miller |
-| 600 | 115 | Allie Kershner |
-| 601 | 115 | Cary M. Fong |
+| 600 | 115 | Cary M. Fong |
+| 601 | 115 | JustGiGi |
 | 602 | 115 | Beezwax |
 | 603 | 114 | JM MJ |
 | 604 | 114 | Marcey Peneaux |

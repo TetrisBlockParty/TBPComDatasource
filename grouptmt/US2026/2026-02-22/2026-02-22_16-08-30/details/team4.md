@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Avy Absol |
-| 71 | 608 | Savannah Overdorf |
+| 70 | 608 | Savannah Overdorf |
+| 71 | 608 | Avy Absol |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -144,8 +144,8 @@
 | 136 | 318 | Lauren Scott |
 | 137 | 314 | Andy Cabral |
 | 138 | 303 | Angela Srubar-Norman |
-| 139 | 300 | Dana Scott |
-| 140 | 300 | Jason Hart |
+| 139 | 300 | Jason Hart |
+| 140 | 300 | Dana Scott |
 | 141 | 299 | TRCuse |
 | 142 | 298 | Lucas J Sutton |
 | 143 | 295 | Bio Nelly |
@@ -254,9 +254,9 @@
 | 246 | 181 | Carter Jones |
 | 247 | 181 | Jackie Marie |
 | 248 | 180 | Orchislactea |
-| 249 | 179 | Christina Black |
-| 250 | 179 | TinyLegoRose |
-| 251 | 179 | Stephme310 |
+| 249 | 179 | Stephme310 |
+| 250 | 179 | Christina Black |
+| 251 | 179 | TinyLegoRose |
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Lorena Guerrero-Barron |
@@ -356,7 +356,7 @@
 | 348 | 131 | Smiley Tiltbuilder |
 | 349 | 131 | Peppy Drop |
 | 350 | 130 | Shukee Lo |
-| 351 | 130 | Linda Alexander Downing |
+| 351 | 130 | icequeenx |
 | 352 | 130 | Zach Kerbs |
 | 353 | 130 | Linda Alexander Downing |
 | 354 | 129 | Berklie Apedaile |
@@ -389,7 +389,7 @@
 | 381 | 121 | Riverdale |
 | 382 | 120 | wombat |
 | 383 | 120 | Jay You |
-| 384 | 120 | wombat |
+| 384 | 120 | Bryan Hodgins |
 | 385 | 119 | rebel4lyfe |
 | 386 | 119 | River Shady Sr. |
 | 387 | 118 | Michele Plunkett |
@@ -1346,8 +1346,8 @@
 | 1338 | 14 | Hasty Cluster |
 | 1339 | 14 | Leslie Ann Galvan |
 | 1340 | 14 | Breezy Linkfall |
-| 1341 | 14 | Rebecca Maino |
-| 1342 | 14 | Ladi A |
+| 1341 | 14 | Ladi A |
+| 1342 | 14 | Rebecca Maino |
 | 1343 | 14 | Hasty Balancer |
 | 1344 | 14 | Chirpy Tetriblast |
 | 1345 | 13 | Krystal Kirkley Cox |

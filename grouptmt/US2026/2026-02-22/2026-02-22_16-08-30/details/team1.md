@@ -131,8 +131,8 @@
 | 123 | 326 | Monica Donato |
 | 124 | 325 | Jennifer Hardman |
 | 125 | 322 | Ly Phethmany |
-| 126 | 321 | Tanya Carpenter-Reynolds |
-| 127 | 321 | Maria C. Hernandez |
+| 126 | 321 | Maria C. Hernandez |
+| 127 | 321 | Tanya Carpenter-Reynolds |
 | 128 | 318 | Jessica Sheehan |
 | 129 | 316 | Dizzy Party |
 | 130 | 313 | Virginia Gray Floyd |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | Desiree Deschaine Havee |
-| 189 | 235 | MRdot Rooski |
+| 188 | 235 | MRdot Rooski |
+| 189 | 235 | Desiree Deschaine Havee |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -446,7 +446,7 @@
 | 438 | 105 | Lucinda Thacker |
 | 439 | 105 | Bye Love |
 | 440 | 105 | Josh Riemer |
-| 441 | 104 | Serina Marie |
+| 441 | 104 | Charla Pross-Fugleberg |
 | 442 | 104 | Jamie Catlett |
 | 443 | 104 | Serina Marie |
 | 444 | 103 | Glitzy Grid |
