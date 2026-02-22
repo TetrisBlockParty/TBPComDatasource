@@ -131,8 +131,8 @@
 | 123 | 526 | Cynthia Castros-Hampton |
 | 124 | 525 | Justin Ritter |
 | 125 | 521 | Michael Nowogorski |
-| 126 | 521 | Daryn Elliott |
-| 127 | 521 | Michelle Becker |
+| 126 | 521 | Michelle Becker |
+| 127 | 521 | Daryn Elliott |
 | 128 | 518 | opf |
 | 129 | 511 | Domo Washington |
 | 130 | 506 | Sashay Tapae Simpson |
@@ -258,8 +258,8 @@
 | 250 | 282 | Angie Harper |
 | 251 | 281 | Carrie Huskey |
 | 252 | 280 | Terry Jo Jones |
-| 253 | 278 | Rufus Lincoln |
-| 254 | 278 | Sabrina Hardrick |
+| 253 | 278 | Sabrina Hardrick |
+| 254 | 278 | Rufus Lincoln |
 | 255 | 277 | Tracy Martin |
 | 256 | 276 | Crimson |
 | 257 | 276 | _melisa223_ |
@@ -270,14 +270,14 @@
 | 262 | 271 | Grego Daniel |
 | 263 | 269 | Danielle Weikel |
 | 264 | 268 | Krystal Gerstberger |
-| 265 | 267 | Tiffany Davie |
-| 266 | 267 | April Matthew Kibble |
+| 265 | 267 | April Matthew Kibble |
+| 266 | 267 | Tiffany Davie |
 | 267 | 266 | Snappy Balancer |
 | 268 | 266 | Quirky Dropzone |
 | 269 | 264 | Nikki Pags |
 | 270 | 263 | Brenda Schmid Wood |
-| 271 | 262 | Ray Lader |
-| 272 | 262 | Joe-Maggie Mathews |
+| 271 | 262 | Joe-Maggie Mathews |
+| 272 | 262 | Ray Lader |
 | 273 | 261 | Tiffany Ford |
 | 274 | 260 | Grams |
 | 275 | 259 | Michael Johnson |

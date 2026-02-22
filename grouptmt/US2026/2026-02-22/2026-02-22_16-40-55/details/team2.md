@@ -106,8 +106,8 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Janel Turley-Garner |
-| 102 | 1599 | Rob Riggin |
+| 101 | 1599 | Rob Riggin |
+| 102 | 1599 | Janel Turley-Garner |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1562 | Loopy Clusterbuilder |
@@ -176,8 +176,8 @@
 | 168 | 1154 | Stacy Stickle |
 | 169 | 1147 | Kiok |
 | 170 | 1131 | Stacey Clement |
-| 171 | 1124 | Jessie McDougald |
-| 172 | 1124 | Brandy Andre |
+| 171 | 1124 | Brandy Andre |
+| 172 | 1124 | Jessie McDougald |
 | 173 | 1121 | Megan Ferguson Leone |
 | 174 | 1117 | Ricardo Burton |
 | 175 | 1113 | Anna Edwards |
@@ -589,8 +589,8 @@
 | 581 | 429 | Tabs Reichert |
 | 582 | 428 | Lynda Toland |
 | 583 | 428 | Shyenn Gadsby |
-| 584 | 427 | Destiny Cozier |
-| 585 | 427 | Sabrina Burton |
+| 584 | 427 | Sabrina Burton |
+| 585 | 427 | Destiny Cozier |
 | 586 | 426 | De Hawkins |
 | 587 | 426 | Ashley Dow |
 | 588 | 424 | Saucy Fitzone |
@@ -632,8 +632,8 @@
 | 624 | 400 | Kathleen Driskell |
 | 625 | 399 | Oscar Bernie |
 | 626 | 399 | Crystal Heller Gonzalez |
-| 627 | 398 | Ebony Deloach Bryant |
-| 628 | 398 | Heather Sawtelle-Mckenzie |
+| 627 | 398 | Heather Sawtelle-Mckenzie |
+| 628 | 398 | Ebony Deloach Bryant |
 | 629 | 396 | Snazzy Basepiece |
 | 630 | 396 | Boogie SoAnimated Johnson |
 | 631 | 396 | Candy Pitts |

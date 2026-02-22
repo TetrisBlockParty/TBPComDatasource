@@ -110,8 +110,8 @@
 | 102 | 389 | Nery Martinez |
 | 103 | 383 | pjbeta |
 | 104 | 380 | Dee Perry |
-| 105 | 379 | Austin James |
-| 106 | 379 | Kimmie Kimms |
+| 105 | 379 | Kimmie Kimms |
+| 106 | 379 | Austin James |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
 | 109 | 364 | Shauna Loe |

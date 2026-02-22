@@ -53,8 +53,8 @@
 | 45 | 800 | Landon Keith Graffeo |
 | 46 | 798 | BertMofo |
 | 47 | 780 | TeeJ |
-| 48 | 775 | Dee Kay |
-| 49 | 775 | Rebecca Moulton Pinciaro |
+| 48 | 775 | Rebecca Moulton Pinciaro |
+| 49 | 775 | Dee Kay |
 | 50 | 767 | Shannon Ferrari |
 | 51 | 766 | Robin Watters |
 | 52 | 757 | Ancient Intuition |
@@ -67,8 +67,8 @@
 | 59 | 698 | Anthony Bryan Riva |
 | 60 | 697 | Edward White |
 | 61 | 671 | D3TROITB0RN74 |
-| 62 | 664 | Valerie Roberts |
-| 63 | 664 | Kimyatta Cavin |
+| 62 | 664 | Kimyatta Cavin |
+| 63 | 664 | Valerie Roberts |
 | 64 | 659 | Jonathan Kimbrough |
 | 65 | 658 | loulou |
 | 66 | 654 | Chilly Line |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -126,15 +126,15 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Livvy |
-| 122 | 353 | Tyler Terrific |
+| 121 | 353 | Tyler Terrific |
+| 122 | 353 | Livvy |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -253,12 +253,12 @@
 | 245 | 184 | Ak Jones |
 | 246 | 184 | Lauren Lamb |
 | 247 | 183 | JPW |
-| 248 | 181 | Carter Jones |
-| 249 | 181 | Jackie Marie |
+| 248 | 181 | Jackie Marie |
+| 249 | 181 | Carter Jones |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Christina Black |
-| 252 | 179 | Stephme310 |
-| 253 | 179 | TinyLegoRose |
+| 252 | 179 | TinyLegoRose |
+| 253 | 179 | Stephme310 |
 | 254 | 179 | AyeKay |
 | 255 | 175 | Lorena Guerrero-Barron |
 | 256 | 175 | Chair |
@@ -285,11 +285,11 @@
 | 277 | 159 | Marcus Todd |
 | 278 | 159 | DonMega |
 | 279 | 157 | Bethany Ison |
-| 280 | 157 | KayM |
+| 280 | 157 | B Renee Desjardin |
 | 281 | 157 | Paige Kittles |
-| 282 | 157 | B Renee Desjardin |
-| 283 | 156 | Terrance Fung |
-| 284 | 156 | Ultramarine |
+| 282 | 157 | KayM |
+| 283 | 156 | Ultramarine |
+| 284 | 156 | Terrance Fung |
 | 285 | 154 | Zany Shatterer |
 | 286 | 153 | Shainne Brewer |
 | 287 | 153 | Empress Oasis |
@@ -338,8 +338,8 @@
 | 330 | 139 | Lori Goudy |
 | 331 | 139 | O block |
 | 332 | 138 | Ashlee Carnes |
-| 333 | 138 | Jasmine S Caldwell |
-| 334 | 138 | Moonsterix |
+| 333 | 138 | Moonsterix |
+| 334 | 138 | Jasmine S Caldwell |
 | 335 | 137 | Red |
 | 336 | 137 | Brianna Walker |
 | 337 | 137 | Michele Plunkett |
