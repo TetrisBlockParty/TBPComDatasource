@@ -220,8 +220,8 @@
 | 212 | 344 | Roary Danner |
 | 213 | 344 | Trisha Balmer |
 | 214 | 343 | Ashley Raines |
-| 215 | 341 | Samantha Lynn |
-| 216 | 341 | Noyb Adam |
+| 215 | 341 | Noyb Adam |
+| 216 | 341 | Samantha Lynn |
 | 217 | 341 | Ashley Tookes |
 | 218 | 340 | Ammmmmmy |
 | 219 | 339 | Rania Zaqout |
@@ -258,10 +258,10 @@
 | 250 | 289 | Danielle Weikel |
 | 251 | 286 | Tye Stovall |
 | 252 | 284 | Denise Nardoni |
-| 253 | 283 | Cheeky Snapper |
-| 254 | 283 | Sarah Moyer |
-| 255 | 282 | Marquita Sheard |
-| 256 | 282 | Angie Harper |
+| 253 | 283 | Sarah Moyer |
+| 254 | 283 | Cheeky Snapper |
+| 255 | 282 | Angie Harper |
+| 256 | 282 | Marquita Sheard |
 | 257 | 281 | Carrie Huskey |
 | 258 | 280 | Terry Jo Jones |
 | 259 | 278 | Rufus Lincoln |
@@ -311,8 +311,8 @@
 | 303 | 236 | Angela Scott |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kiki |
-| 307 | 231 | Kevin Russell |
+| 306 | 231 | Kevin Russell |
+| 307 | 231 | Kiki |
 | 308 | 230 | BigE |
 | 309 | 228 | Naur |
 | 310 | 227 | Rebel124 |
@@ -395,8 +395,8 @@
 | 387 | 189 | Angella Lyons |
 | 388 | 188 | Crystal Hine |
 | 389 | 186 | Bryan Byrd |
-| 390 | 186 | Sameerah Smith |
-| 391 | 186 | Noettín Kan Zasnemoore |
+| 390 | 186 | Noettín Kan Zasnemoore |
+| 391 | 186 | Sameerah Smith |
 | 392 | 184 | Shanon R Jackson |
 | 393 | 184 | Salena Whitlock |
 | 394 | 183 | Smiley Zone |

@@ -222,9 +222,9 @@
 | 214 | 973 | Kim Dean |
 | 215 | 972 | Juliana Marques Do Nascimento Gordy |
 | 216 | 960 | Jennifer Kistner |
-| 217 | 957 | Crystal Hoffman |
-| 218 | 957 | Keri Womack |
-| 219 | 957 | Block Master |
+| 217 | 957 | Keri Womack |
+| 218 | 957 | Block Master |
+| 219 | 957 | Crystal Hoffman |
 | 220 | 954 | Shannon Joslin |
 | 221 | 951 | Cynthia Ward |
 | 222 | 950 | Teresa Gillmore |
@@ -554,8 +554,8 @@
 | 546 | 463 | Jaye EL Hunter |
 | 547 | 463 | Cody Nishimura |
 | 548 | 463 | Mia Muse Best |
-| 549 | 462 | Amanda Ferrell |
-| 550 | 462 | Daphne Jordan |
+| 549 | 462 | Daphne Jordan |
+| 550 | 462 | Amanda Ferrell |
 | 551 | 462 | Jennifer Scott |
 | 552 | 460 | Tara Lynn Janes |
 | 553 | 460 | LaWanda Powell |
@@ -859,8 +859,8 @@
 | 851 | 302 | Kena T. Tanner |
 | 852 | 302 | Epic Stackbuilder |
 | 853 | 302 | Trista Carter |
-| 854 | 300 | Warren Marleau |
-| 855 | 300 | Dandy Combo |
+| 854 | 300 | Dandy Combo |
+| 855 | 300 | Warren Marleau |
 | 856 | 300 | Jay Levy |
 | 857 | 299 | Himothy |
 | 858 | 299 | Nancy Pohlman |
@@ -1223,8 +1223,8 @@
 | 1215 | 223 | Perky Rollfit |
 | 1216 | 223 | Keila Adames |
 | 1217 | 223 | Seth Wrieden |
-| 1218 | 222 | Preya Patel |
-| 1219 | 222 | Mimerz |
+| 1218 | 222 | Mimerz |
+| 1219 | 222 | Preya Patel |
 | 1220 | 222 | Daring Lift |
 | 1221 | 222 | Brittani Jones |
 | 1222 | 222 | Wacky Edgefit |

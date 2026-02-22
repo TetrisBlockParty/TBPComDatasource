@@ -18,8 +18,8 @@
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
 | 12 | 1564 | Alicia Bass |
-| 13 | 1447 | Juggalo |
-| 14 | 1447 | GreenJeepGirl |
+| 13 | 1447 | GreenJeepGirl |
+| 14 | 1447 | Juggalo |
 | 15 | 1318 | Cassie Michaux |
 | 16 | 1292 | Roger Coulter |
 | 17 | 1237 | Tammi Crnza |
@@ -215,11 +215,11 @@
 | 207 | 221 | Kim Klutz Olson |
 | 208 | 221 | PurpleMoonMa |
 | 209 | 221 | Rheanda Weaskus |
-| 210 | 219 | JPW |
-| 211 | 219 | Malakai Darien Fox |
+| 210 | 219 | Malakai Darien Fox |
+| 211 | 219 | JPW |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | ZeeZee |
-| 214 | 216 | Cristy Duerksen |
+| 213 | 216 | Cristy Duerksen |
+| 214 | 216 | ZeeZee |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |
@@ -330,13 +330,13 @@
 | 322 | 147 | Jay28 |
 | 323 | 147 | ĥuf |
 | 324 | 146 | Brave Spinbuilder |
-| 325 | 145 | Sandra Safford |
-| 326 | 145 | Glitzy Crasher |
+| 325 | 145 | Glitzy Crasher |
+| 326 | 145 | Sandra Safford |
 | 327 | 145 | Daring Pivot |
 | 328 | 145 | Maureen Flanigan |
 | 329 | 144 | Squeezy Pearsall |
-| 330 | 143 | Asher |
-| 331 | 143 | Daresha Fair |
+| 330 | 143 | Daresha Fair |
+| 331 | 143 | Asher |
 | 332 | 143 | Metsfan |
 | 333 | 142 | Chaz |
 | 334 | 142 | Nerdy Twisterfit |
@@ -407,8 +407,8 @@
 | 399 | 122 | PennyCandee |
 | 400 | 122 | Spicy Cascadezone |
 | 401 | 122 | Kate |
-| 402 | 121 | Riverdale |
-| 403 | 121 | Cool Gridzone |
+| 402 | 121 | Cool Gridzone |
+| 403 | 121 | Riverdale |
 | 404 | 120 | wombat |
 | 405 | 120 | Bryan Hodgins |
 | 406 | 120 | Jay You |
