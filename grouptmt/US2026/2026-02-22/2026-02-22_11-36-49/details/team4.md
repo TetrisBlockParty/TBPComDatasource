@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -165,8 +165,8 @@
 | 157 | 230 | Cursed Hag |
 | 158 | 230 | Autum Leigh |
 | 159 | 228 | J-Rizzle |
-| 160 | 227 | Swanky Fitline |
-| 161 | 227 | Alyssa Papen |
+| 160 | 227 | Alyssa Papen |
+| 161 | 227 | Swanky Fitline |
 | 162 | 225 | Damn Libra |
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
@@ -186,8 +186,8 @@
 | 178 | 210 | Zethra Prenisha Rahming |
 | 179 | 207 | Chirpy Basepiece |
 | 180 | 205 | Kathy Brookins |
-| 181 | 204 | Jen Caldwell |
-| 182 | 204 | Carlos Ramirez |
+| 181 | 204 | Carlos Ramirez |
+| 182 | 204 | Jen Caldwell |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
 | 185 | 201 | Melvin Baird |
@@ -426,8 +426,8 @@
 | 418 | 97 | Serena Butter |
 | 419 | 97 | Cool Gridzone |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Chirpy Slammer |
-| 422 | 95 | Jobadia Steelerton |
+| 421 | 95 | Jobadia Steelerton |
+| 422 | 95 | Chirpy Slammer |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Adawna Swires |
 | 425 | 94 | Jeff Roberts |

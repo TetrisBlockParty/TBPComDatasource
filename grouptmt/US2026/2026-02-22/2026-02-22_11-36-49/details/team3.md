@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Rachael McClain Owens |
 | 104 | 565 | Patty Allen |
-| 105 | 562 | Dave Herzog |
-| 106 | 562 | Louise Stacy Sisson |
+| 105 | 562 | Louise Stacy Sisson |
+| 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -194,8 +194,8 @@
 | 186 | 347 | Jone |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -284,8 +284,8 @@
 | 276 | 221 | Vaners |
 | 277 | 221 | Alice |
 | 278 | 221 | Jaime Monhaut-Reed |
-| 279 | 220 | rosy |
-| 280 | 220 | Tosha Griffey |
+| 279 | 220 | Tosha Griffey |
+| 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
@@ -314,10 +314,10 @@
 | 306 | 203 | Angie Harper |
 | 307 | 202 | Tipsy Zonebuilder |
 | 308 | 202 | Staci George Fitzsimmons |
-| 309 | 201 | Alexmac |
-| 310 | 201 | Hyper Matchzone |
-| 311 | 200 | Sharisse Baltimore |
-| 312 | 200 | glichmod |
+| 309 | 201 | Hyper Matchzone |
+| 310 | 201 | Alexmac |
+| 311 | 200 | glichmod |
+| 312 | 200 | Sharisse Baltimore |
 | 313 | 200 | Saucy Buildout |
 | 314 | 199 | Mariah Williams |
 | 315 | 199 | Kristian Thurman |
@@ -342,8 +342,8 @@
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
 | 336 | 179 | Christian Werndl |
-| 337 | 179 | DanceLuvLaugh |
-| 338 | 179 | Rachel Napper |
+| 337 | 179 | Rachel Napper |
+| 338 | 179 | DanceLuvLaugh |
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
@@ -362,11 +362,11 @@
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Snarky McFace |
-| 358 | 166 | Angella Lyons |
+| 357 | 166 | Angella Lyons |
+| 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Ashley Lynn Marchese |
-| 361 | 165 | Rainbow77375 |
+| 360 | 165 | Rainbow77375 |
+| 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
 | 364 | 163 | Christine Trester |
@@ -394,12 +394,12 @@
 | 386 | 155 | Michell Hendershott Jackson |
 | 387 | 155 | Michael Leblanc |
 | 388 | 154 | Shanon R Jackson |
-| 389 | 153 | Stefanie LaPointe |
-| 390 | 153 | Tony Waters |
+| 389 | 153 | Tony Waters |
+| 390 | 153 | Stefanie LaPointe |
 | 391 | 153 | Sheila M Frazier |
 | 392 | 153 | Lys |
-| 393 | 152 | Silver Marchán |
-| 394 | 152 | Shiny Zonebuilder |
+| 393 | 152 | Shiny Zonebuilder |
+| 394 | 152 | Silver Marchán |
 | 395 | 151 | Sarah Cowan Burgos |
 | 396 | 150 | Sassy Brickmatch |
 | 397 | 149 | Alexis Taylor |

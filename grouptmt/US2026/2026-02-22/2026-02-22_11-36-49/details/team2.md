@@ -1134,10 +1134,10 @@
 | 1126 | 204 | ນາງ ບີ ລາດຊະຈັກ |
 | 1127 | 204 | Edralin Custodio |
 | 1128 | 203 | Giggy Mover |
-| 1129 | 202 | BIG BABY |
-| 1130 | 202 | Joshua Yonker |
-| 1131 | 201 | LintFunk |
-| 1132 | 201 | Jennifer Rajek |
+| 1129 | 202 | Joshua Yonker |
+| 1130 | 202 | BIG BABY |
+| 1131 | 201 | Jennifer Rajek |
+| 1132 | 201 | LintFunk |
 | 1133 | 201 | Betty Ruth Hale |
 | 1134 | 201 | Jadelynn Sarbacher |
 | 1135 | 200 | Sara Silvernail-Kay |
