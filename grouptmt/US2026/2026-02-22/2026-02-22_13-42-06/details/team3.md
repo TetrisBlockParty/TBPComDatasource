@@ -192,15 +192,15 @@
 | 184 | 361 | Jamie Lang |
 | 185 | 358 | Chummy Caster |
 | 186 | 358 | RickyG |
-| 187 | 357 | Stephanie Burtin |
-| 188 | 357 | Tom Nault |
+| 187 | 357 | Tom Nault |
+| 188 | 357 | Stephanie Burtin |
 | 189 | 353 | Nora Rogers |
 | 190 | 348 | Chasity |
 | 191 | 347 | Jone |
 | 192 | 343 | Ashley Raines |
 | 193 | 343 | Tamara Deherrera |
-| 194 | 341 | Samantha Lynn |
-| 195 | 341 | Noyb Adam |
+| 194 | 341 | Noyb Adam |
+| 195 | 341 | Samantha Lynn |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
 | 198 | 331 | Sarah Cowan Burgos |
@@ -348,8 +348,8 @@
 | 340 | 186 | Bryan Byrd |
 | 341 | 186 | Sameerah Smith |
 | 342 | 185 | Angella Lyons |
-| 343 | 184 | Troy |
-| 344 | 184 | Shanon R Jackson |
+| 343 | 184 | Shanon R Jackson |
+| 344 | 184 | Troy |
 | 345 | 183 | Salena Whitlock |
 | 346 | 183 | Cesar Barraza |
 | 347 | 182 | gremicx |
@@ -394,8 +394,8 @@
 | 386 | 162 | Eric Caccavale |
 | 387 | 162 | Loopy Fallzone |
 | 388 | 161 | Betty Bóò |
-| 389 | 161 | Bouncy Blockbuilder |
-| 390 | 161 | Julia Nicole |
+| 389 | 161 | Julia Nicole |
+| 390 | 161 | Bouncy Blockbuilder |
 | 391 | 160 | Michell Hendershott Jackson |
 | 392 | 160 | Sunny Lift |
 | 393 | 159 | Funky Jumper |

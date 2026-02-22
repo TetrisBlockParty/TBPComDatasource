@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Tesha Oldaker |
-| 257 | 777 | Jessicah Myers |
+| 256 | 777 | Jessicah Myers |
+| 257 | 777 | Tesha Oldaker |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -386,8 +386,8 @@
 | 378 | 561 | Irene Jones |
 | 379 | 561 | Traci Johnson |
 | 380 | 560 | Phil J. Grombliniak |
-| 381 | 558 | Mikayala Szaz |
-| 382 | 558 | Libby Hicks |
+| 381 | 558 | Libby Hicks |
+| 382 | 558 | Mikayala Szaz |
 | 383 | 556 | Slip |
 | 384 | 554 | Rachael Senard |
 | 385 | 554 | Santana Miyagi |
@@ -402,13 +402,13 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
-| 402 | 536 | Caitlin Schmid |
-| 403 | 536 | Shaun Church |
+| 402 | 536 | Shaun Church |
+| 403 | 536 | Caitlin Schmid |
 | 404 | 535 | Paul Huber |
 | 405 | 534 | Kenny Alvarado |
 | 406 | 533 | Gauri Shrotriya |
@@ -481,8 +481,8 @@
 | 473 | 476 | Kiana Boschh |
 | 474 | 475 | Michelle Lee |
 | 475 | 474 | Calandra Shaya Robinson |
-| 476 | 473 | coleksquad |
-| 477 | 473 | Wuntayk |
+| 476 | 473 | Wuntayk |
+| 477 | 473 | coleksquad |
 | 478 | 473 | Lyndi Robinson Wakefield |
 | 479 | 472 | Arwa Fatimah |
 | 480 | 472 | Kyle LeRoy Harris |
@@ -669,8 +669,8 @@
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |
 | 663 | 355 | Amanda Perez |
-| 664 | 354 | Rickey Johnson |
-| 665 | 354 | Rachel Kaminski |
+| 664 | 354 | Rachel Kaminski |
+| 665 | 354 | Rickey Johnson |
 | 666 | 352 | Rose Fx |
 | 667 | 352 | ruth |
 | 668 | 352 | Jean FU Jagielski |

@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -247,8 +247,8 @@
 | 239 | 180 | Beau Galvan |
 | 240 | 180 | Jessie Lynn |
 | 241 | 179 | Erin Rosberg |
-| 242 | 179 | Danielle Little-Daugherty |
-| 243 | 179 | femmefatale |
+| 242 | 179 | femmefatale |
+| 243 | 179 | Danielle Little-Daugherty |
 | 244 | 178 | Chad Atchley |
 | 245 | 177 | Amber Stoker |
 | 246 | 177 | Herm Junior |
