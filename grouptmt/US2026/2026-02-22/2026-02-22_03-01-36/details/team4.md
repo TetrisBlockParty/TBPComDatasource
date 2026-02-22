@@ -188,8 +188,8 @@
 | 180 | 160 | Carlos Ramirez |
 | 181 | 160 | ZeeZee |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Avy Absol |
-| 184 | 158 | Chair |
+| 183 | 158 | Chair |
+| 184 | 158 | Avy Absol |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 153 | Empress Oasis |

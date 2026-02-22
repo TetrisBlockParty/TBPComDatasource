@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 945 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -81,9 +81,9 @@
 | 73 | 608 | Danielle Becker |
 | 74 | 588 | yoyo |
 | 75 | 587 | Amanda L Baker |
-| 76 | 582 | Katrina Schroeder |
-| 77 | 582 | Jay Horn |
-| 78 | 582 | Natasha Jones |
+| 76 | 582 | Natasha Jones |
+| 77 | 582 | Katrina Schroeder |
+| 78 | 582 | Jay Horn |
 | 79 | 581 | Danielle Mogg |
 | 80 | 577 | Speedy Bridger |
 | 81 | 576 | Dan Rob |
@@ -117,8 +117,8 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Betty Ivy |
-| 113 | 428 | Elissa S-k |
+| 112 | 428 | Elissa S-k |
+| 113 | 428 | Betty Ivy |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
 | 116 | 410 | Stephanie Blkpep Davidson |
@@ -161,8 +161,8 @@
 | 153 | 316 | Rich LeBlanc |
 | 154 | 311 | Raya |
 | 155 | 309 | Leah Barnett |
-| 156 | 307 | Blocked |
-| 157 | 307 | rnr junky |
+| 156 | 307 | rnr junky |
+| 157 | 307 | Blocked |
 | 158 | 303 | Rania Zaqout |
 | 159 | 300 | Sherika C. McDaniels |
 | 160 | 298 | MsBee |
@@ -253,8 +253,8 @@
 | 245 | 195 | Nicha Hooker |
 | 246 | 195 | Cheryl Hinch Tenbrook |
 | 247 | 194 | Raven Dudley |
-| 248 | 193 | Clever Shiftsnap |
-| 249 | 193 | Hyper Matchzone |
+| 248 | 193 | Hyper Matchzone |
+| 249 | 193 | Clever Shiftsnap |
 | 250 | 192 | Kelly Ann Child |
 | 251 | 191 | Scott Carleton |
 | 252 | 190 | Saucy Buildout |
@@ -288,9 +288,9 @@
 | 280 | 167 | fraulila |
 | 281 | 167 | Shicken Nuggit |
 | 282 | 166 | Betty Rosas |
-| 283 | 165 | Kali Kelz Williams |
-| 284 | 165 | Irene Arreguin |
-| 285 | 163 | Stephanie Hill |
+| 283 | 165 | Irene Arreguin |
+| 284 | 165 | Kali Kelz Williams |
+| 285 | 163 | Christine Trester |
 | 286 | 163 | Diana Ibarra |
 | 287 | 163 | Stephanie Hill |
 | 288 | 162 | Loopy Fallzone |

@@ -120,8 +120,8 @@
 | 112 | 273 | Happy Basegrid |
 | 113 | 273 | Katie Daniels |
 | 114 | 265 | Dandy Basegrid |
-| 115 | 263 | Jason Jones |
-| 116 | 263 | Sharon Reynolds |
+| 115 | 263 | Sharon Reynolds |
+| 116 | 263 | Jason Jones |
 | 117 | 257 | june october |
 | 118 | 252 | Elaine Elaine |
 | 119 | 252 | Dena Kayy |
@@ -154,8 +154,8 @@
 | 146 | 198 | Happy Snapbuild |
 | 147 | 198 | Shiny Gridmatch |
 | 148 | 195 | Daring Fitclear |
-| 149 | 194 | Tyler Werts |
-| 150 | 194 | Ash Galvan |
+| 149 | 194 | Ash Galvan |
+| 150 | 194 | Tyler Werts |
 | 151 | 193 | Lachelle Dillon |
 | 152 | 192 | Jessica Sheehan |
 | 153 | 192 | Christy Jones |
@@ -168,8 +168,8 @@
 | 160 | 187 | Snippy Wipebuilder |
 | 161 | 187 | Jennifer Olewnik Soborowski |
 | 162 | 186 | Margo Wagner |
-| 163 | 185 | Basment Living |
-| 164 | 185 | ParisandCory Champagne |
+| 163 | 185 | ParisandCory Champagne |
+| 164 | 185 | Basment Living |
 | 165 | 183 | Sleepysloath5745 |
 | 166 | 183 | lil mickey |
 | 167 | 180 | Erez Yosef |
@@ -177,8 +177,8 @@
 | 169 | 179 | Danielle Little-Daugherty |
 | 170 | 179 | femmefatale |
 | 171 | 178 | Chad Atchley |
-| 172 | 177 | Jacqueline Unique |
-| 173 | 177 | Irual Hctrab |
+| 172 | 177 | Irual Hctrab |
+| 173 | 177 | Jacqueline Unique |
 | 174 | 176 | Mel Hogan |
 | 175 | 175 | John Barron |
 | 176 | 174 | Cheeky Pop |
@@ -202,8 +202,8 @@
 | 194 | 163 | Tyler Whitley |
 | 195 | 162 | Cece Ibarra |
 | 196 | 161 | SavageBooty98 |
-| 197 | 160 | David Miller |
-| 198 | 160 | Tedashi |
+| 197 | 160 | Tedashi |
+| 198 | 160 | David Miller |
 | 199 | 159 | Bindi |
 | 200 | 158 | Sarah Marie |
 | 201 | 154 | Jeanna Dunn |
@@ -225,8 +225,8 @@
 | 217 | 141 | Dino |
 | 218 | 141 | Blaire Bruckoff |
 | 219 | 139 | Flashy Rotator |
-| 220 | 138 | Mark Smith |
-| 221 | 138 | Hector Cruz |
+| 220 | 138 | Hector Cruz |
+| 221 | 138 | Mark Smith |
 | 222 | 138 | Giddy Cascade |
 | 223 | 137 | Cody Gates |
 | 224 | 137 | Marci Sanders |
@@ -247,12 +247,12 @@
 | 239 | 129 | Sherri E Woods Hess |
 | 240 | 129 | Jessica Russell |
 | 241 | 128 | Alyssa Ingram |
-| 242 | 128 | Brenda Alexander |
-| 243 | 128 | Desiree Deschaine Havee |
+| 242 | 128 | Desiree Deschaine Havee |
+| 243 | 128 | Brenda Alexander |
 | 244 | 126 | Alenoush Karimian |
 | 245 | 126 | Tami Luce Martin |
-| 246 | 125 | Chantelle Ceno |
-| 247 | 125 | Melissa Bires Hussar |
+| 246 | 125 | Melissa Bires Hussar |
+| 247 | 125 | Chantelle Ceno |
 | 248 | 124 | Rodney Schmerfeld |
 | 249 | 124 | Howdi Duty |
 | 250 | 123 | Zany Tiler |

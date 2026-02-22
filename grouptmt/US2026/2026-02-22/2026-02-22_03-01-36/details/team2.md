@@ -241,8 +241,8 @@
 | 233 | 679 | Gold Rose |
 | 234 | 678 | Scott Treadway |
 | 235 | 676 | Pacynthia Williams |
-| 236 | 675 | Tommy Tha Boss Gunz |
-| 237 | 675 | Brenda Utphall |
+| 236 | 675 | Brenda Utphall |
+| 237 | 675 | Tommy Tha Boss Gunz |
 | 238 | 674 | Auntie B |
 | 239 | 669 | Claire Noland |
 | 240 | 666 | Speedy Spinblock |
@@ -276,8 +276,8 @@
 | 268 | 605 | Jelly |
 | 269 | 603 | Cassie Maynard |
 | 270 | 601 | Michele Morgan |
-| 271 | 589 | Thomas Hedrick |
-| 272 | 589 | Shavonna Haynes |
+| 271 | 589 | Shavonna Haynes |
+| 272 | 589 | Thomas Hedrick |
 | 273 | 587 | Hyper Cluster |
 | 274 | 585 | Katrina Weston |
 | 275 | 583 | Jessicah Myers |
@@ -301,13 +301,13 @@
 | 293 | 543 | Teresa Gillmore |
 | 294 | 543 | Adira Brown |
 | 295 | 537 | Cherica Taylor |
-| 296 | 535 | Paul Huber |
-| 297 | 535 | Jessie McDougald |
+| 296 | 535 | Jessie McDougald |
+| 297 | 535 | Paul Huber |
 | 298 | 531 | Chris Wanner |
 | 299 | 528 | Brownie Sheena |
 | 300 | 527 | Offonar Facey |
-| 301 | 527 | Heather Causey |
-| 302 | 527 | Ryan Gunther |
+| 301 | 527 | Ryan Gunther |
+| 302 | 527 | Heather Causey |
 | 303 | 526 | Sheronda Jackson |
 | 304 | 525 | Desiree Anderson |
 | 305 | 521 | Tj Ball |
