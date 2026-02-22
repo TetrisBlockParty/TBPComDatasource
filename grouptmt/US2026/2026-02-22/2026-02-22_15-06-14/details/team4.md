@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -141,8 +141,8 @@
 | 133 | 318 | Carrie Brian |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -158,8 +158,8 @@
 | 150 | 275 | Dizzy Tiley |
 | 151 | 274 | Calvin Cannon |
 | 152 | 273 | Crystal Nicolette Moore |
-| 153 | 272 | Alan George LaRage |
-| 154 | 272 | Keshia Lyons |
+| 153 | 272 | Keshia Lyons |
+| 154 | 272 | Alan George LaRage |
 | 155 | 271 | Sarah Brown |
 | 156 | 267 | Damn Libra |
 | 157 | 265 | Jeff Brian Gates |
@@ -288,8 +288,8 @@
 | 280 | 153 | Lush Linkfall |
 | 281 | 152 | Angela Geist Jusinski |
 | 282 | 152 | Faja |
-| 283 | 151 | Shanon Klair |
-| 284 | 151 | Joseph Pace |
+| 283 | 151 | Joseph Pace |
+| 284 | 151 | Shanon Klair |
 | 285 | 150 | GBR |
 | 286 | 150 | Brandon Link |
 | 287 | 150 | Jared Gutwein |
@@ -373,13 +373,13 @@
 | 365 | 122 | PennyCandee |
 | 366 | 121 | Riverdale |
 | 367 | 121 | Chris Alexinas |
-| 368 | 120 | wombat |
-| 369 | 120 | Bryan Hodgins |
+| 368 | 120 | Bryan Hodgins |
+| 369 | 120 | wombat |
 | 370 | 119 | rebel4lyfe |
 | 371 | 119 | River Shady Sr. |
-| 372 | 118 | Darrin Rubalcava |
-| 373 | 118 | Mackenzie Forrester |
-| 374 | 118 | Perky Piecegrid |
+| 372 | 118 | Perky Piecegrid |
+| 373 | 118 | Darrin Rubalcava |
+| 374 | 118 | Mackenzie Forrester |
 | 375 | 117 | David V. Bowers |
 | 376 | 117 | BigSammy420 |
 | 377 | 117 | Grann8 |

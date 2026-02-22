@@ -113,8 +113,8 @@
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | phrmblk24 |
-| 109 | 352 | Jason Jones |
+| 108 | 352 | Jason Jones |
+| 109 | 352 | phrmblk24 |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |
@@ -148,8 +148,8 @@
 | 140 | 290 | Death |
 | 141 | 288 | GATOR |
 | 142 | 285 | Ananda Mendez |
-| 143 | 284 | Emily Adelaide Wheatley |
-| 144 | 284 | Rachael |
+| 143 | 284 | Rachael |
+| 144 | 284 | Emily Adelaide Wheatley |
 | 145 | 283 | Franswa |
 | 146 | 282 | Tyler Werts |
 | 147 | 282 | Snippy Wipebuilder |

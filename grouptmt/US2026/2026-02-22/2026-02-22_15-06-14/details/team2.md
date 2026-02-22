@@ -377,8 +377,8 @@
 | 369 | 606 | Brittney Jean |
 | 370 | 603 | Cassie Maynard |
 | 371 | 602 | KhaosLord |
-| 372 | 602 | Christine Bollig |
-| 373 | 602 | Biggest thing |
+| 372 | 602 | Biggest thing |
+| 373 | 602 | Christine Bollig |
 | 374 | 601 | Vonceial Boone |
 | 375 | 597 | Steven Marshaun |
 | 376 | 591 | AgileDragon |
@@ -416,10 +416,10 @@
 | 408 | 549 | Kaylee McCafferty |
 | 409 | 546 | AISlop |
 | 410 | 544 | Desiree Anderson |
-| 411 | 544 | Leah Keesling |
-| 412 | 544 | Deidre Shaffer |
-| 413 | 543 | Vanessa Moreno |
-| 414 | 543 | Julie Kresal |
+| 411 | 544 | Deidre Shaffer |
+| 412 | 544 | Leah Keesling |
+| 413 | 543 | Julie Kresal |
+| 414 | 543 | Vanessa Moreno |
 | 415 | 541 | g |
 | 416 | 540 | Dizzy Zone |
 | 417 | 539 | Dapper Dasher |
@@ -661,8 +661,8 @@
 | 653 | 369 | Juan Castillo |
 | 654 | 368 | Susan Arnburg |
 | 655 | 367 | Connie Lepore-Mann |
-| 656 | 366 | Lawanda Forbes |
-| 657 | 366 | Courtney Burcham |
+| 656 | 366 | Courtney Burcham |
+| 657 | 366 | Lawanda Forbes |
 | 658 | 365 | Christina Lewis-Vickers |
 | 659 | 364 | Shinette Dobson |
 | 660 | 364 | Matthew Joseph Acevedo |
@@ -706,14 +706,14 @@
 | 698 | 345 | Gina Caulder |
 | 699 | 345 | Rhianna DiLorenzo |
 | 700 | 344 | Glenn Cobbins |
-| 701 | 343 | Janitta Alvarez |
-| 702 | 343 | Cris cris |
-| 703 | 342 | Quirky Twistline |
-| 704 | 342 | Danielle DeLozier Plesec |
+| 701 | 343 | Cris cris |
+| 702 | 343 | Janitta Alvarez |
+| 703 | 342 | Danielle DeLozier Plesec |
+| 704 | 342 | Quirky Twistline |
 | 705 | 341 | Shorty |
 | 706 | 339 | Jenn Marie |
-| 707 | 339 | Twisty Tetriblast |
-| 708 | 339 | Cynthia Louann Rose |
+| 707 | 339 | Cynthia Louann Rose |
+| 708 | 339 | Twisty Tetriblast |
 | 709 | 338 | Lynda Toland |
 | 710 | 337 | Sassy Pattern |
 | 711 | 337 | Tum |
@@ -742,8 +742,8 @@
 | 734 | 326 | Ann Knutson Anderson |
 | 735 | 325 | Justin Hines |
 | 736 | 324 | Britney M. |
-| 737 | 324 | Dale Haanpaa |
-| 738 | 324 | Tasia Stinson |
+| 737 | 324 | Tasia Stinson |
+| 738 | 324 | Dale Haanpaa |
 | 739 | 323 | stacey |
 | 740 | 323 | Briana Alexander |
 | 741 | 322 | Luke Califf |
