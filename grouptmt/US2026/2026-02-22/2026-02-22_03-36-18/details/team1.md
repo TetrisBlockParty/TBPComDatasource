@@ -117,8 +117,8 @@
 | 109 | 283 | Franswa |
 | 110 | 282 | Timothy Dew |
 | 111 | 280 | Sarah Roberts |
-| 112 | 277 | Katie Daniels |
-| 113 | 277 | Ly Phethmany |
+| 112 | 277 | Ly Phethmany |
+| 113 | 277 | Katie Daniels |
 | 114 | 276 | Rachael |
 | 115 | 275 | Bhelle Sumile |
 | 116 | 273 | Happy Basegrid |
@@ -135,8 +135,8 @@
 | 127 | 236 | Mandyy Rae |
 | 128 | 232 | Jessi Sauer |
 | 129 | 232 | Jennifer Hardman |
-| 130 | 230 | Frothy Pattern |
-| 131 | 230 | Billie Dawn Sparks |
+| 130 | 230 | Billie Dawn Sparks |
+| 131 | 230 | Frothy Pattern |
 | 132 | 228 | Jenny Gingrich Fuentes |
 | 133 | 226 | Kandae |
 | 134 | 226 | ALFD |
@@ -144,8 +144,8 @@
 | 136 | 216 | MRdot Rooski |
 | 137 | 216 | Shauntina Burke |
 | 138 | 214 | GATOR |
-| 139 | 212 | Jaimie Lynn |
-| 140 | 212 | Lori Bales |
+| 139 | 212 | Lori Bales |
+| 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Giggly Builderline |
 | 143 | 208 | Bouncy Grid |

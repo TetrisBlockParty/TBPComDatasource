@@ -128,8 +128,8 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Scott Lindsay |
-| 124 | 403 | Christine Filson |
+| 123 | 403 | Christine Filson |
+| 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
 | 127 | 399 | Mcathen |
@@ -223,8 +223,8 @@
 | 215 | 240 | Brandon Givens |
 | 216 | 236 | Jess Bissett |
 | 217 | 235 | LaNette Morgan |
-| 218 | 234 | Nikki Pags |
-| 219 | 234 | Grego Daniel |
+| 218 | 234 | Grego Daniel |
+| 219 | 234 | Nikki Pags |
 | 220 | 233 | Ray Lader |
 | 221 | 232 | Donna |
 | 222 | 227 | Krystal Gerstberger |
@@ -326,8 +326,8 @@
 | 318 | 153 | Steffi Chris Dacones |
 | 319 | 153 | Sheila M Frazier |
 | 320 | 153 | Cozy Snaplink |
-| 321 | 152 | Ashley Lynn Marchese |
-| 322 | 152 | Shiny Zonebuilder |
+| 321 | 152 | Shiny Zonebuilder |
+| 322 | 152 | Ashley Lynn Marchese |
 | 323 | 152 | LaTanya GeminiondaRise Johnson |
 | 324 | 152 | Goofy Fall |
 | 325 | 151 | Rainbow77375 |
@@ -349,8 +349,8 @@
 | 341 | 142 | Erica Anderson |
 | 342 | 142 | Joy Petroski |
 | 343 | 142 | Gray Hicks |
-| 344 | 141 | Weerae |
-| 345 | 141 | Melissa Snyder |
+| 344 | 141 | Melissa Snyder |
+| 345 | 141 | Weerae |
 | 346 | 140 | Linda Draper |
 | 347 | 139 | Paula Little |
 | 348 | 138 | Skinny Baldez |

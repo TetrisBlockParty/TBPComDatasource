@@ -174,8 +174,8 @@
 | 166 | 185 | Lori |
 | 167 | 185 | Andy Cabral |
 | 168 | 184 | Ak Jones |
-| 169 | 181 | Carter Jones |
-| 170 | 181 | Klo |
+| 169 | 181 | Klo |
+| 170 | 181 | Carter Jones |
 | 171 | 179 | blockstar |
 | 172 | 176 | Zethra Prenisha Rahming |
 | 173 | 174 | Dihcheese444 |
@@ -191,11 +191,11 @@
 | 183 | 160 | TinyLegoRose |
 | 184 | 160 | Carlos Ramirez |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Chair |
-| 187 | 158 | Avy Absol |
+| 186 | 158 | Avy Absol |
+| 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
-| 189 | 154 | Laura Hosford |
-| 190 | 154 | scott |
+| 189 | 154 | scott |
+| 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | Austin Owens |
 | 193 | 152 | John Brunetti |
