@@ -96,8 +96,8 @@
 | 88 | 539 | Chris Baggett |
 | 89 | 537 | Dawn Alexander |
 | 90 | 531 | Amelpss |
-| 91 | 513 | Erin Thomas |
-| 92 | 513 | YoMomma |
+| 91 | 513 | YoMomma |
+| 92 | 513 | Erin Thomas |
 | 93 | 512 | Casey Jeffcoat |
 | 94 | 505 | Diana Houts |
 | 95 | 500 | Rodney McMath Jr. |
@@ -183,8 +183,8 @@
 | 175 | 268 | Christina LR |
 | 176 | 268 | Mimi |
 | 177 | 267 | Casey Grabner |
-| 178 | 267 | Kathy Brookins |
-| 179 | 267 | Holly |
+| 178 | 267 | Holly |
+| 179 | 267 | Kathy Brookins |
 | 180 | 266 | Laura |
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
@@ -218,8 +218,8 @@
 | 210 | 237 | Jen Caldwell |
 | 211 | 236 | Swanky Fitline |
 | 212 | 235 | Chris Hartig |
-| 213 | 233 | Ruben Wheeler |
-| 214 | 233 | April Rondinone |
+| 213 | 233 | April Rondinone |
+| 214 | 233 | Ruben Wheeler |
 | 215 | 230 | blockstar |
 | 216 | 228 | Antony Dwayne Beasley |
 | 217 | 227 | Kim Hunt |
@@ -413,7 +413,7 @@
 | 405 | 129 | Sherri |
 | 406 | 129 | Amy Sanford |
 | 407 | 128 | Denise B |
-| 408 | 128 | Cheery Fitline |
+| 408 | 128 | Raymond Roberts |
 | 409 | 128 | Madison Sweere |
 | 410 | 128 | Cheery Fitline |
 | 411 | 127 | Robert Rodriguez |

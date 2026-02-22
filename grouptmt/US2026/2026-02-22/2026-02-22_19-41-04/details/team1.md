@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | Ryan Lunnin |
-| 82 | 483 | MomMom |
+| 81 | 483 | MomMom |
+| 82 | 483 | Ryan Lunnin |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -171,8 +171,8 @@
 | 163 | 293 | Letson Melissa |
 | 164 | 292 | David Lutcher |
 | 165 | 285 | ALFD |
-| 166 | 284 | Rachael |
-| 167 | 284 | Emily Adelaide Wheatley |
+| 166 | 284 | Emily Adelaide Wheatley |
+| 167 | 284 | Rachael |
 | 168 | 283 | Franswa |
 | 169 | 282 | Snippy Wipebuilder |
 | 170 | 282 | Cool Shiftsnap |
@@ -298,8 +298,8 @@
 | 290 | 186 | Margo Wagner |
 | 291 | 185 | Hasty Columnbuilder |
 | 292 | 184 | Chris Sigurdson |
-| 293 | 183 | Dino |
-| 294 | 183 | Tina Englert |
+| 293 | 183 | Tina Englert |
+| 294 | 183 | Dino |
 | 295 | 181 | David DeSantis |
 | 296 | 179 | Ryan White |
 | 297 | 179 | Speedy Snapfall |

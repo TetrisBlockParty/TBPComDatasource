@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Dave Herzog |
-| 128 | 562 | Louise Stacy Sisson |
+| 127 | 562 | Louise Stacy Sisson |
+| 128 | 562 | Dave Herzog |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -154,12 +154,12 @@
 | 146 | 491 | Chauntee Alfrey-Cardinale |
 | 147 | 488 | CeceGeGe |
 | 148 | 484 | Samantha Greco |
-| 149 | 479 | Annie Marie |
-| 150 | 479 | Patti Skiles |
+| 149 | 479 | Patti Skiles |
+| 150 | 479 | Annie Marie |
 | 151 | 479 | Poppy Splitter |
 | 152 | 474 | Danielle Balcom |
-| 153 | 471 | Mendoza Lee Christy |
-| 154 | 471 | Nora Rogers |
+| 153 | 471 | Nora Rogers |
+| 154 | 471 | Mendoza Lee Christy |
 | 155 | 470 | Logan Naccarato |
 | 156 | 469 | Adrian Marcel Pate |
 | 157 | 468 | Betty Ivy |
@@ -262,11 +262,11 @@
 | 254 | 304 | Marquita Sheard |
 | 255 | 301 | Betty Rosas |
 | 256 | 299 | Angie Harper |
-| 257 | 298 | MsBee |
-| 258 | 298 | Grams |
+| 257 | 298 | Grams |
+| 258 | 298 | MsBee |
 | 259 | 297 | Jojo M |
-| 260 | 296 | Hoppy Buildout |
-| 261 | 296 | Katrina Turner |
+| 260 | 296 | Katrina Turner |
+| 261 | 296 | Hoppy Buildout |
 | 262 | 291 | Carrie Huskey |
 | 263 | 289 | Duane Bright |
 | 264 | 289 | DidIdothat |
