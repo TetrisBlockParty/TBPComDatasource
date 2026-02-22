@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Kimyatta Cavin |
-| 64 | 636 | Dustee Craddock-Harrison |
+| 63 | 636 | Dustee Craddock-Harrison |
+| 64 | 636 | Kimyatta Cavin |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |

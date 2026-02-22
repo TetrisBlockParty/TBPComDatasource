@@ -110,8 +110,8 @@
 | 102 | 1535 | Donnie Hunt |
 | 103 | 1534 | Loopy Clusterbuilder |
 | 104 | 1534 | Laura Marie Pelletier |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -450,12 +450,12 @@
 | 442 | 514 | Sarah Berger |
 | 443 | 511 | Laura Mclean |
 | 444 | 509 | Kelli Wells |
-| 445 | 509 | Jordan Kaiser |
-| 446 | 509 | Tonya Lee |
+| 445 | 509 | Tonya Lee |
+| 446 | 509 | Jordan Kaiser |
 | 447 | 507 | Kitybox |
 | 448 | 507 | Magic steve |
-| 449 | 504 | Kimmy Newman |
-| 450 | 504 | Brenna Ann |
+| 449 | 504 | Brenna Ann |
+| 450 | 504 | Kimmy Newman |
 | 451 | 502 | Sparkles |
 | 452 | 502 | Sheniya Spurgeon |
 | 453 | 502 | Dennis McLaurin |
@@ -474,8 +474,8 @@
 | 466 | 492 | Maya June |
 | 467 | 492 | Armonie Smith |
 | 468 | 491 | Michael Buckner |
-| 469 | 491 | Victor Obiakarije |
-| 470 | 491 | Jedi |
+| 469 | 491 | Jedi |
+| 470 | 491 | Victor Obiakarije |
 | 471 | 488 | Christina Wsn |
 | 472 | 487 | Morgan Easter |
 | 473 | 487 | MrsCandyfine As Wine Truss |
@@ -503,8 +503,8 @@
 | 495 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
 | 496 | 470 | Arlene Joy Belicina |
 | 497 | 469 | Spunkysmom |
-| 498 | 466 | Crystal Greene |
-| 499 | 466 | Kori Beth Babb |
+| 498 | 466 | Kori Beth Babb |
+| 499 | 466 | Crystal Greene |
 | 500 | 466 | Koa N Sharon Chen |
 | 501 | 465 | Davetta Sanford |
 | 502 | 465 | Belle Mari |
@@ -614,8 +614,8 @@
 | 606 | 392 | Jasmine Kenney |
 | 607 | 391 | Chilly Bridgepiece |
 | 608 | 391 | Qiana Sanders |
-| 609 | 390 | Frisky Riserbuilder |
-| 610 | 390 | Joice Hansen |
+| 609 | 390 | Joice Hansen |
+| 610 | 390 | Frisky Riserbuilder |
 | 611 | 390 | Moist_B-hole |
 | 612 | 389 | Julie Hamilton |
 | 613 | 389 | Kayla |
@@ -719,8 +719,8 @@
 | 711 | 335 | Alexandrea |
 | 712 | 335 | Brooke Leigh Strube |
 | 713 | 334 | Melissa James |
-| 714 | 333 | Adrian Benitez |
-| 715 | 333 | Woodys Glass |
+| 714 | 333 | Woodys Glass |
+| 715 | 333 | Adrian Benitez |
 | 716 | 333 | trabuco |
 | 717 | 331 | Johanna Massaro |
 | 718 | 330 | Jennifer Monroe Kelly |

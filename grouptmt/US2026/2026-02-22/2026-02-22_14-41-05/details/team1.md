@@ -99,8 +99,8 @@
 | 91 | 390 | Goose egg |
 | 92 | 390 | Candy Jones |
 | 93 | 390 | Lori Bales |
-| 94 | 389 | Nery Martinez |
-| 95 | 389 | Trina Gee |
+| 94 | 389 | Trina Gee |
+| 95 | 389 | Nery Martinez |
 | 96 | 383 | Loony Fitzone |
 | 97 | 382 | Jacqueline Williams |
 | 98 | 379 | Kimmie Kimms |
@@ -113,8 +113,8 @@
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | Jason Jones |
-| 109 | 352 | phrmblk24 |
+| 108 | 352 | phrmblk24 |
+| 109 | 352 | Jason Jones |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |
@@ -141,8 +141,8 @@
 | 133 | 301 | Lehrin Maria |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Death |
-| 137 | 290 | Sarah Roberts |
+| 136 | 290 | Sarah Roberts |
+| 137 | 290 | Death |
 | 138 | 289 | David Miller |
 | 139 | 288 | Constance Risner |
 | 140 | 285 | Ananda Mendez |
@@ -305,7 +305,7 @@
 | 297 | 154 | Gary Gobin |
 | 298 | 153 | Dino |
 | 299 | 153 | Tami Luce Martin |
-| 300 | 152 | Speedy Snapfall |
+| 300 | 152 | Strig |
 | 301 | 152 | Tavia |
 | 302 | 152 | Speedy Snapfall |
 | 303 | 151 | Gilbert Ortiz Jr. |
@@ -339,8 +339,8 @@
 | 331 | 136 | Jennifer Chilton-Metlock |
 | 332 | 135 | Mrs.Patrica |
 | 333 | 134 | Rachel Copas |
-| 334 | 133 | MommaKFC |
-| 335 | 133 | Jasmine Riley |
+| 334 | 133 | Jasmine Riley |
+| 335 | 133 | MommaKFC |
 | 336 | 132 | Layzietyme |
 | 337 | 132 | John Kim |
 | 338 | 131 | Plucky Wrecker |
@@ -366,8 +366,8 @@
 | 358 | 123 | Betsy |
 | 359 | 123 | Funky Piecebuilder |
 | 360 | 122 | Nathan Sealander |
-| 361 | 121 | .running. |
-| 362 | 121 | Jacob Shaddock |
+| 361 | 121 | Jacob Shaddock |
+| 362 | 121 | .running. |
 | 363 | 121 | John Ramirez |
 | 364 | 120 | Billie Ann Eason |
 | 365 | 120 | Sarah Henniker |
