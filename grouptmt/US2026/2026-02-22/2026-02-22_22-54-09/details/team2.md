@@ -225,8 +225,8 @@
 | 217 | 1067 | Jodi Blake |
 | 218 | 1062 | Crystal Slaughter |
 | 219 | 1058 | Jennifer Kistner |
-| 220 | 1057 | RAEPR05 |
-| 221 | 1057 | Desiree Harris Rosch |
+| 220 | 1057 | Desiree Harris Rosch |
+| 221 | 1057 | RAEPR05 |
 | 222 | 1056 | Dolores Russworn |
 | 223 | 1048 | Desiree Anderson |
 | 224 | 1048 | Moose Griffith |
@@ -362,8 +362,8 @@
 | 354 | 743 | Tiara Elizabeth Baker |
 | 355 | 741 | Mandi Douglas Hilt |
 | 356 | 740 | Jerry Tempelmeyer |
-| 357 | 739 | Brenda Utphall |
-| 358 | 739 | Jánine Riggs |
+| 357 | 739 | Jánine Riggs |
+| 358 | 739 | Brenda Utphall |
 | 359 | 738 | Aimee Campbell |
 | 360 | 737 | Jeremy Parodi |
 | 361 | 737 | Ginger |
@@ -486,8 +486,8 @@
 | 478 | 572 | Chris Wanner |
 | 479 | 572 | Alexandra Lynn |
 | 480 | 571 | Emily Lyric Converse |
-| 481 | 569 | Joseph Musick |
-| 482 | 569 | Vaniel Glover |
+| 481 | 569 | Vaniel Glover |
+| 482 | 569 | Joseph Musick |
 | 483 | 569 | Sparkles |
 | 484 | 569 | Ben Barkley |
 | 485 | 567 | Snappy Matchbuilder |
@@ -1140,12 +1140,12 @@
 | 1132 | 272 | Loopy Shatterblock |
 | 1133 | 272 | Jennifer Monteleone |
 | 1134 | 271 | Wil Allen |
-| 1135 | 271 | J-nae Kettoman |
-| 1136 | 271 | Pam Doughty |
+| 1135 | 271 | Pam Doughty |
+| 1136 | 271 | J-nae Kettoman |
 | 1137 | 271 | Shalisa Hill |
 | 1138 | 270 | Missie Sue |
-| 1139 | 270 | Anthony McAlister |
-| 1140 | 270 | Sharon Crawford |
+| 1139 | 270 | Sharon Crawford |
+| 1140 | 270 | Anthony McAlister |
 | 1141 | 270 | Amy John Mills |
 | 1142 | 269 | Chummy Caster |
 | 1143 | 269 | Chill Strike |

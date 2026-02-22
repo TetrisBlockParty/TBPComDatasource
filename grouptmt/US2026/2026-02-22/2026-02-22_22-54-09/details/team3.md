@@ -134,8 +134,8 @@
 | 126 | 618 | Bea Miles |
 | 127 | 617 | Leah Barnett |
 | 128 | 613 | JerseyJess |
-| 129 | 595 | Patricia White |
-| 130 | 595 | Giddy Drop |
+| 129 | 595 | Giddy Drop |
+| 130 | 595 | Patricia White |
 | 131 | 590 | Santeria Trece Candles |
 | 132 | 588 | Justin Ritter |
 | 133 | 587 | Daryn Elliott |

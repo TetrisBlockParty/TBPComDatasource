@@ -142,8 +142,8 @@
 | 134 | 376 | Brian Richardsson |
 | 135 | 364 | Shauna Loe |
 | 136 | 363 | Sharon Reynolds |
-| 137 | 360 | Wisa |
-| 138 | 360 | phrmblk24 |
+| 137 | 360 | phrmblk24 |
+| 138 | 360 | Wisa |
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
 | 141 | 352 | Jason Savage |
@@ -154,8 +154,8 @@
 | 146 | 343 | Tanya Carpenter-Reynolds |
 | 147 | 341 | Nick R Montague |
 | 148 | 336 | Elaine Elaine |
-| 149 | 334 | Jaimie Lynn |
-| 150 | 334 | Fmp |
+| 149 | 334 | Fmp |
+| 150 | 334 | Jaimie Lynn |
 | 151 | 333 | GATOR |
 | 152 | 333 | Gracie |
 | 153 | 333 | Jennifer Hardman |
@@ -260,9 +260,9 @@
 | 252 | 222 | Debbie Davis |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
-| 255 | 219 | Negan Mallory Knoxx Spence |
-| 256 | 219 | Joe Coon |
-| 257 | 219 | Chuck Gannon |
+| 255 | 219 | Joe Coon |
+| 256 | 219 | Chuck Gannon |
+| 257 | 219 | Negan Mallory Knoxx Spence |
 | 258 | 218 | Jessie Welch |
 | 259 | 216 | Chad Atchley |
 | 260 | 216 | Shauntina Burke |
@@ -282,8 +282,8 @@
 | 274 | 205 | Tyler L Hunt |
 | 275 | 204 | Mel Hogan |
 | 276 | 204 | Chris Sigurdson |
-| 277 | 203 | Andrew Boone |
-| 278 | 203 | Spunky Builderpiece |
+| 277 | 203 | Spunky Builderpiece |
+| 278 | 203 | Andrew Boone |
 | 279 | 202 | Amanda Holibaugh |
 | 280 | 201 | Beau Galvan |
 | 281 | 201 | Colleen Wise |
@@ -320,8 +320,8 @@
 | 312 | 187 | Speedy Snapfall |
 | 313 | 187 | Cool Towerzone |
 | 314 | 186 | Nikki Fridley |
-| 315 | 185 | Hasty Columnbuilder |
-| 316 | 185 | Oscar Zamora |
+| 315 | 185 | Oscar Zamora |
+| 316 | 185 | Hasty Columnbuilder |
 | 317 | 184 | Itspaigebro |
 | 318 | 184 | Cranky Pattern |
 | 319 | 183 | Dino |

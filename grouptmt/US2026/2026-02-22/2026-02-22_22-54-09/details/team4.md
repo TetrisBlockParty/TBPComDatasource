@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 751 | Rachel Anne |
@@ -105,8 +105,8 @@
 | 97 | 519 | Nugget |
 | 98 | 513 | Erin Thomas |
 | 99 | 513 | YoMomma |
-| 100 | 512 | Casey Jeffcoat |
-| 101 | 512 | Diana Houts |
+| 100 | 512 | Diana Houts |
+| 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
 | 104 | 499 | Trista Leah |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Courtney Cicoria |
-| 119 | 431 | Jolly Dashfit |
+| 118 | 431 | Jolly Dashfit |
+| 119 | 431 | Courtney Cicoria |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -170,9 +170,9 @@
 | 162 | 321 | jim |
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
-| 165 | 314 | Andy Cabral |
+| 165 | 314 | 🥔🥔 Spudz |
 | 166 | 314 | TRCuse |
-| 167 | 314 | 🥔🥔 Spudz |
+| 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
 | 170 | 307 | Bio Nelly |
@@ -231,8 +231,8 @@
 | 223 | 245 | 23 |
 | 224 | 245 | Adam Stephanie Parker |
 | 225 | 243 | Mr. Party |
-| 226 | 241 | JPW |
-| 227 | 241 | Allen Lloyd |
+| 226 | 241 | Allen Lloyd |
+| 227 | 241 | JPW |
 | 228 | 240 | Kim Hunt |
 | 229 | 238 | Zesty Twistbuilder |
 | 230 | 235 | Chris Hartig |
@@ -302,8 +302,8 @@
 | 294 | 185 | Laura Hosford |
 | 295 | 185 | Nubian1 |
 | 296 | 184 | Pee |
-| 297 | 183 | Cozy Balancer |
-| 298 | 183 | KayM |
+| 297 | 183 | KayM |
+| 298 | 183 | Cozy Balancer |
 | 299 | 183 | Twisty Risebuilder |
 | 300 | 181 | Jackie Marie |
 | 301 | 181 | Nikki Wilson |
@@ -343,8 +343,8 @@
 | 335 | 162 | Empress Oasis |
 | 336 | 162 | Victoria Faniel |
 | 337 | 161 | Tanner Lund |
-| 338 | 161 | Vamp |
-| 339 | 161 | Ruby Khalisadar |
+| 338 | 161 | Ruby Khalisadar |
+| 339 | 161 | Vamp |
 | 340 | 160 | Lora |
 | 341 | 159 | Circuit8 |
 | 342 | 159 | Brandon Link |
@@ -479,8 +479,8 @@
 | 471 | 124 | Cheery Towerzone |
 | 472 | 124 | Atia Scott |
 | 473 | 124 | Jackson Karen |
-| 474 | 123 | Sunny Filler |
-| 475 | 123 | Jennifer Perkins |
+| 474 | 123 | Jennifer Perkins |
+| 475 | 123 | Sunny Filler |
 | 476 | 123 | MOCHA |
 | 477 | 122 | Amy C Brown |
 | 478 | 122 | bloat princess |
