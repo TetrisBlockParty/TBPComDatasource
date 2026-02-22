@@ -103,10 +103,10 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | Erin Thomas |
-| 99 | 513 | YoMomma |
-| 100 | 512 | Casey Jeffcoat |
-| 101 | 512 | Diana Houts |
+| 98 | 513 | YoMomma |
+| 99 | 513 | Erin Thomas |
+| 100 | 512 | Diana Houts |
+| 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
 | 104 | 499 | Trista Leah |
@@ -165,8 +165,8 @@
 | 157 | 332 | Leslie Nicole |
 | 158 | 330 | Oscar Alberto Perez |
 | 159 | 329 | Jeff Brian Gates |
-| 160 | 328 | Brandon Crabbs |
-| 161 | 328 | Kris Bartlett |
+| 160 | 328 | Kris Bartlett |
+| 161 | 328 | Brandon Crabbs |
 | 162 | 321 | jim |
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |

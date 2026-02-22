@@ -262,8 +262,8 @@
 | 254 | 957 | Keri Womack |
 | 255 | 957 | Block Master |
 | 256 | 957 | Crystal Hoffman |
-| 257 | 955 | Angela Bonquiqui Dinish |
-| 258 | 955 | Kevin Walp |
+| 257 | 955 | Kevin Walp |
+| 258 | 955 | Angela Bonquiqui Dinish |
 | 259 | 951 | Cynthia Ward |
 | 260 | 941 | Cool Clearer |
 | 261 | 941 | Glitzy Stackzone |
@@ -283,8 +283,8 @@
 | 275 | 902 | William Hunt |
 | 276 | 901 | SaraMarie Eveland |
 | 277 | 899 | John Bednarik |
-| 278 | 895 | Michele Morgan |
-| 279 | 895 | Donna Colby |
+| 278 | 895 | Donna Colby |
+| 279 | 895 | Michele Morgan |
 | 280 | 893 | Missie Lawson Gebhardt |
 | 281 | 892 | Boldy Cascadepiece |
 | 282 | 887 | Barbra Miller |
@@ -302,8 +302,8 @@
 | 294 | 860 | Carl Bradshaw |
 | 295 | 858 | Porsche' Nicole |
 | 296 | 857 | Kara Gillen |
-| 297 | 856 | Jojo Momma |
-| 298 | 856 | Mighty Shatterfit |
+| 297 | 856 | Mighty Shatterfit |
+| 298 | 856 | Jojo Momma |
 | 299 | 853 | Meghan M |
 | 300 | 848 | Elizabeth Wilbanks |
 | 301 | 846 | Alyssa Hileman |
@@ -511,8 +511,8 @@
 | 503 | 550 | Michael Artis |
 | 504 | 550 | Frilly Fallzone |
 | 505 | 549 | Magic steve |
-| 506 | 549 | Koa N Sharon Chen |
-| 507 | 549 | Kaylee McCafferty |
+| 506 | 549 | Kaylee McCafferty |
+| 507 | 549 | Koa N Sharon Chen |
 | 508 | 546 | Melissa Kay Gibson |
 | 509 | 546 | Hannah Erskine |
 | 510 | 545 | Arlene Joy Belicina |

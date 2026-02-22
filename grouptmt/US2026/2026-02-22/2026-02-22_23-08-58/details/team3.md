@@ -211,8 +211,8 @@
 | 203 | 415 | Cass Mendoza |
 | 204 | 413 | Loopy Clusterer |
 | 205 | 410 | Stephanie Simpson |
-| 206 | 405 | Tom Nault |
-| 207 | 405 | Sherry Ogden |
+| 206 | 405 | Sherry Ogden |
+| 207 | 405 | Tom Nault |
 | 208 | 404 | Chasity |
 | 209 | 403 | Scott Lindsay |
 | 210 | 401 | Demetrious Shaw Sr. |
@@ -393,7 +393,7 @@
 | 385 | 222 | Kristin Delibac Corrigan |
 | 386 | 222 | gremicx |
 | 387 | 221 | Mariah Williams |
-| 388 | 221 | Bleu Sun Beams |
+| 388 | 221 | Ryan Williams |
 | 389 | 221 | Emma |
 | 390 | 221 | Vaners |
 | 391 | 221 | Bleu Sun Beams |
