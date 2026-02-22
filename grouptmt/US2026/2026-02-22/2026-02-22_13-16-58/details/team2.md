@@ -401,8 +401,8 @@
 | 393 | 545 | Frisky Clearpiece |
 | 394 | 544 | Deidre Shaffer |
 | 395 | 544 | Leah Keesling |
-| 396 | 543 | Vanessa Moreno |
-| 397 | 543 | Julie Kresal |
+| 396 | 543 | Julie Kresal |
+| 397 | 543 | Vanessa Moreno |
 | 398 | 542 | AISlop |
 | 399 | 541 | g |
 | 400 | 540 | Dizzy Zone |
@@ -461,8 +461,8 @@
 | 453 | 489 | Cassie Mercer |
 | 454 | 489 | Osun Anuket Esu |
 | 455 | 488 | Christina Wsn |
-| 456 | 487 | MrsCandyfine As Wine Truss |
-| 457 | 487 | Morgan Easter |
+| 456 | 487 | Morgan Easter |
+| 457 | 487 | MrsCandyfine As Wine Truss |
 | 458 | 485 | Mamachelle Eisweirth |
 | 459 | 485 | Dapper Dasher |
 | 460 | 485 | Ann Matzkanin |
@@ -583,8 +583,8 @@
 | 575 | 400 | Joshua Self |
 | 576 | 400 | Tammy Allen |
 | 577 | 400 | Kathleen Driskell |
-| 578 | 399 | Jennifer Scott |
-| 579 | 399 | Oscar Bernie |
+| 578 | 399 | Oscar Bernie |
+| 579 | 399 | Jennifer Scott |
 | 580 | 398 | Crystal Heller Gonzalez |
 | 581 | 396 | Candy Pitts |
 | 582 | 396 | AkaLefty |
@@ -609,8 +609,8 @@
 | 601 | 387 | Misti Markijohn |
 | 602 | 385 | Tansaria Couch-Butler |
 | 603 | 384 | Mary Marie |
-| 604 | 384 | Party d |
-| 605 | 384 | Kelly |
+| 604 | 384 | Kelly |
+| 605 | 384 | Party d |
 | 606 | 383 | Jessica Conaway |
 | 607 | 383 | Belle Mari |
 | 608 | 382 | David Holliday |
@@ -621,8 +621,8 @@
 | 613 | 380 | Giggy Grabber |
 | 614 | 380 | Christy Long |
 | 615 | 379 | Cini |
-| 616 | 378 | Tina Marie |
-| 617 | 378 | TF Dyer |
+| 616 | 378 | TF Dyer |
+| 617 | 378 | Tina Marie |
 | 618 | 378 | Jasmine Kenney |
 | 619 | 377 | DefaultUser |
 | 620 | 376 | James Zaragoza |

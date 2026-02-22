@@ -167,8 +167,8 @@
 | 159 | 249 | Leah Kutz Zirbel |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | J-Rizzle |
-| 163 | 244 | Twisty Cascadezone |
+| 162 | 244 | Twisty Cascadezone |
+| 163 | 244 | J-Rizzle |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
@@ -177,8 +177,8 @@
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
-| 172 | 221 | PurpleMoonMa |
-| 173 | 221 | Rheanda Weaskus |
+| 172 | 221 | Rheanda Weaskus |
+| 173 | 221 | PurpleMoonMa |
 | 174 | 217 | Kim Hunt |
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
@@ -400,7 +400,7 @@
 | 392 | 108 | Walter Beltran |
 | 393 | 108 | Ali Ian |
 | 394 | 108 | Denise B |
-| 395 | 108 | Walter Beltran |
+| 395 | 108 | mike |
 | 396 | 107 | Brandi Durig |
 | 397 | 106 | Zappy Snaplink |
 | 398 | 106 | Brave Spinbuilder |
