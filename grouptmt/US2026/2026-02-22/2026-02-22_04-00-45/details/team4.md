@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -111,14 +111,14 @@
 | 103 | 286 | Daria Rycewicz |
 | 104 | 284 | shark tato |
 | 105 | 279 | Ericca Eldridge |
-| 106 | 278 | Lucas J Sutton |
-| 107 | 278 | Carrie Brian |
+| 106 | 278 | Carrie Brian |
+| 107 | 278 | Lucas J Sutton |
 | 108 | 277 | KJ Pool |
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Epic Curvetile |
-| 113 | 264 | Girl |
+| 112 | 264 | Girl |
+| 113 | 264 | Epic Curvetile |
 | 114 | 264 | Dana Scott |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
@@ -176,8 +176,8 @@
 | 168 | 185 | Diana Houts |
 | 169 | 185 | Andy Cabral |
 | 170 | 184 | Ak Jones |
-| 171 | 181 | Carter Jones |
-| 172 | 181 | Klo |
+| 171 | 181 | Klo |
+| 172 | 181 | Carter Jones |
 | 173 | 180 | Orchislactea |
 | 174 | 179 | blockstar |
 | 175 | 176 | Zethra Prenisha Rahming |

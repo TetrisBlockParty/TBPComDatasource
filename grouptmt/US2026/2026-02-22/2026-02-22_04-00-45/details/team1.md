@@ -127,8 +127,8 @@
 | 119 | 263 | Sharon Reynolds |
 | 120 | 263 | Jason Jones |
 | 121 | 256 | David Miller |
-| 122 | 252 | Elaine Elaine |
-| 123 | 252 | Dena Kayy |
+| 122 | 252 | Dena Kayy |
+| 123 | 252 | Elaine Elaine |
 | 124 | 247 | Tana |
 | 125 | 246 | Jenny Gingrich Fuentes |
 | 126 | 243 | Chelsea Dahlquist |
@@ -670,7 +670,7 @@
 | 662 | 48 | Connie Butler |
 | 663 | 48 | Rachel Nilles |
 | 664 | 48 | McMeow |
-| 665 | 48 | Amanda Marie Sutton |
+| 665 | 48 | William Blackwell |
 | 666 | 48 | Crystal Mock |
 | 667 | 48 | Bree Smith |
 | 668 | 48 | Amanda Marie Sutton |

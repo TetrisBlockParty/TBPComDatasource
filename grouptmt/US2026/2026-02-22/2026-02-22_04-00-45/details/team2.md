@@ -234,9 +234,9 @@
 | 226 | 705 | Lola Contreras |
 | 227 | 705 | Roger Grabbit |
 | 228 | 703 | Gold Rose |
-| 229 | 700 | Rosemadder |
-| 230 | 700 | Beverly Owens |
-| 231 | 700 | Vincent Petrella |
+| 229 | 700 | Vincent Petrella |
+| 230 | 700 | Rosemadder |
+| 231 | 700 | Beverly Owens |
 | 232 | 698 | Mighty Shatterfit |
 | 233 | 697 | Dreamy Blast |
 | 234 | 692 | Chelle |
@@ -269,8 +269,8 @@
 | 261 | 647 | Peppy Zone |
 | 262 | 647 | Ashle Scranton |
 | 263 | 643 | Hoppy Brickmatch |
-| 264 | 641 | Angie Bolton Workman |
-| 265 | 641 | Joce Lynn |
+| 264 | 641 | Joce Lynn |
+| 265 | 641 | Angie Bolton Workman |
 | 266 | 640 | BYM4L |
 | 267 | 639 | Crystie Hicks |
 | 268 | 639 | Rebecca Miller |
