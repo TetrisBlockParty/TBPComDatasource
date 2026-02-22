@@ -155,8 +155,8 @@
 | 147 | 983 | Teddi Notyalc |
 | 148 | 977 | Ricardo Burton |
 | 149 | 974 | Dolores Russworn |
-| 150 | 973 | Janel Turley-Garner |
-| 151 | 973 | Kim Dean |
+| 150 | 973 | Kim Dean |
+| 151 | 973 | Janel Turley-Garner |
 | 152 | 970 | Mr. Street Stack |
 | 153 | 953 | Ladyrainbootz |
 | 154 | 951 | Cynthia Ward |
@@ -288,8 +288,8 @@
 | 280 | 589 | Shavonna Haynes |
 | 281 | 587 | Hyper Cluster |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Juliana Marques Do Nascimento Gordy |
-| 284 | 579 | Roy Salyer |
+| 283 | 579 | Roy Salyer |
+| 284 | 579 | Juliana Marques Do Nascimento Gordy |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |

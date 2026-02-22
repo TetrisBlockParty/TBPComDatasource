@@ -263,7 +263,7 @@
 | 255 | 123 | Joseph Edmonson |
 | 256 | 123 | Sandra Safford |
 | 257 | 121 | Joseph Pace |
-| 258 | 120 | Jolly Dashfit |
+| 258 | 120 | Rafael Valentin |
 | 259 | 120 | Maureen Flanigan |
 | 260 | 120 | Bryan Hodgins |
 | 261 | 120 | Metsfan |
@@ -343,8 +343,8 @@
 | 335 | 96 | Sammy Noguera |
 | 336 | 96 | Alan George LaRage |
 | 337 | 95 | Tina Martinez |
-| 338 | 95 | Jobadia Steelerton |
-| 339 | 95 | Daresha Fair |
+| 338 | 95 | Daresha Fair |
+| 339 | 95 | Jobadia Steelerton |
 | 340 | 95 | Patron Anderson |
 | 341 | 94 | DonMega |
 | 342 | 94 | Dizzy Matchzone |

@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Domo Washington |
-| 100 | 500 | Kristie |
+| 99 | 500 | Kristie |
+| 100 | 500 | Domo Washington |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
