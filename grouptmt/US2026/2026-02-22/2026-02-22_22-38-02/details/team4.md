@@ -59,8 +59,8 @@
 | 51 | 793 | Rebecca Moulton Pinciaro |
 | 52 | 790 | Jason Allen |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 751 | Rachel Anne |
 | 58 | 748 | loulou |
@@ -133,12 +133,12 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Carlton Unfiltered |
-| 129 | 393 | Trish |
+| 128 | 393 | Trish |
+| 129 | 393 | Carlton Unfiltered |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Ramel Rhodes |
-| 132 | 391 | Austin Owens |
-| 133 | 391 | Lush Linkfall |
+| 132 | 391 | Lush Linkfall |
+| 133 | 391 | Austin Owens |
 | 134 | 378 | Lucas J Sutton |
 | 135 | 377 | Jessica Bohlken |
 | 136 | 377 | Carrie Brian |
@@ -147,13 +147,13 @@
 | 139 | 371 | Jessica Lynn Cutlip |
 | 140 | 368 | Swanky Fitline |
 | 141 | 355 | Kristina Black |
-| 142 | 353 | Livvy |
-| 143 | 353 | Tyler Terrific |
+| 142 | 353 | Tyler Terrific |
+| 143 | 353 | Livvy |
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
-| 147 | 343 | ThaEviLJeNiuZ |
-| 148 | 343 | Latisha Davis |
+| 147 | 343 | Latisha Davis |
+| 148 | 343 | ThaEviLJeNiuZ |
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
@@ -163,8 +163,8 @@
 | 155 | 332 | Leslie Nicole |
 | 156 | 332 | Desi Desporte |
 | 157 | 330 | Oscar Alberto Perez |
-| 158 | 328 | Brandon Crabbs |
-| 159 | 328 | Kris Bartlett |
+| 158 | 328 | Kris Bartlett |
+| 159 | 328 | Brandon Crabbs |
 | 160 | 321 | jim |
 | 161 | 320 | Lauren Scott |
 | 162 | 316 | Meagan Nicole |
@@ -491,10 +491,10 @@
 | 483 | 119 | Richard-April Kice |
 | 484 | 119 | River Shady Sr. |
 | 485 | 119 | Lee Silpe |
-| 486 | 118 | Perky Piecegrid |
-| 487 | 118 | Jonathan Mahfood |
-| 488 | 118 | Mackenzie Forrester |
-| 489 | 117 | Peppy Strike |
+| 486 | 118 | Jonathan Mahfood |
+| 487 | 118 | Mackenzie Forrester |
+| 488 | 118 | Perky Piecegrid |
+| 489 | 117 | Jeff Roberts |
 | 490 | 117 | David V. Bowers |
 | 491 | 117 | Peppy Strike |
 | 492 | 116 | Kametsunoyaiba |

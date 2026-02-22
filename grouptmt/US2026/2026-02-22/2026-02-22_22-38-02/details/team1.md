@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -237,8 +237,8 @@
 | 229 | 238 | Tiffany Smith |
 | 230 | 238 | Sarah Somers Gray |
 | 231 | 235 | Bindi |
-| 232 | 234 | Shanae Grant |
-| 233 | 234 | Paula Martin |
+| 232 | 234 | Paula Martin |
+| 233 | 234 | Shanae Grant |
 | 234 | 233 | LC |
 | 235 | 231 | BadG52 |
 | 236 | 231 | Tyler Hertzog |
@@ -326,8 +326,8 @@
 | 318 | 184 | Cranky Pattern |
 | 319 | 183 | Dino |
 | 320 | 181 | David DeSantis |
-| 321 | 179 | Slinky Rotater |
-| 322 | 179 | Ryan White |
+| 321 | 179 | Ryan White |
+| 322 | 179 | Slinky Rotater |
 | 323 | 178 | Gabrielle Louise Malloch |
 | 324 | 178 | Larry Tilton |
 | 325 | 177 | Irual Hctrab |

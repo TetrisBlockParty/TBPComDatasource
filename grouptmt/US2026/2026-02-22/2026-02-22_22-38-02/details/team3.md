@@ -182,8 +182,8 @@
 | 174 | 464 | Michelle |
 | 175 | 464 | Makelini Mausia |
 | 176 | 461 | Shunta Jacobs |
-| 177 | 460 | Araceli Parra |
-| 178 | 460 | Danielle Allison |
+| 177 | 460 | Danielle Allison |
+| 178 | 460 | Araceli Parra |
 | 179 | 459 | Tasha Schriewer |
 | 180 | 458 | Danielle Rhoades |
 | 181 | 457 | Shannon Matthew Byers |
@@ -290,8 +290,8 @@
 | 282 | 293 | Beaudie Stroebel |
 | 283 | 293 | Tye Stovall |
 | 284 | 291 | Carrie Huskey |
-| 285 | 289 | DidIdothat |
-| 286 | 289 | Duane Bright |
+| 285 | 289 | Duane Bright |
+| 286 | 289 | DidIdothat |
 | 287 | 287 | Sabrina Hardrick |
 | 288 | 284 | fraulila |
 | 289 | 282 | LaShey Thompson |
