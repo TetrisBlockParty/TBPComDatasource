@@ -49,25 +49,25 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 664 | Valerie Roberts |
 | 51 | 661 | D3TROITB0RN74 |
-| 52 | 659 | Rebecca Moulton Pinciaro |
-| 53 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Jonathan Kimbrough |
+| 53 | 659 | Rebecca Moulton Pinciaro |
 | 54 | 658 | loulou |
 | 55 | 654 | Chilly Line |
 | 56 | 647 | KM8 |
 | 57 | 646 | Jacqueline Helm |
-| 58 | 636 | Kimyatta Cavin |
-| 59 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Dustee Craddock-Harrison |
+| 59 | 636 | Kimyatta Cavin |
 | 60 | 623 | Robin Getchel |
-| 61 | 614 | TheNeesh50 |
-| 62 | 614 | Justin Hannigan |
+| 61 | 614 | Justin Hannigan |
+| 62 | 614 | TheNeesh50 |
 | 63 | 599 | Brittney Griggs |
 | 64 | 593 | Lisa Davis |
 | 65 | 571 | Kimberly Love |
@@ -179,8 +179,8 @@
 | 171 | 223 | Antony Dwayne Beasley |
 | 172 | 221 | PurpleMoonMa |
 | 173 | 221 | Rheanda Weaskus |
-| 174 | 217 | Kim Hunt |
-| 175 | 217 | Chaz Duncan |
+| 174 | 217 | Chaz Duncan |
+| 175 | 217 | Kim Hunt |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
 | 178 | 213 | Sarah Neathery |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Madison Sweere |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |

@@ -587,8 +587,8 @@
 | 579 | 396 | Candy Pitts |
 | 580 | 396 | AkaLefty |
 | 581 | 396 | Boogie SoAnimated Johnson |
-| 582 | 393 | Jamie West |
-| 583 | 393 | bbv |
+| 582 | 393 | bbv |
+| 583 | 393 | Jamie West |
 | 584 | 393 | Deyawn Smith |
 | 585 | 393 | Smashanator |
 | 586 | 391 | Adam Simmons |
@@ -661,8 +661,8 @@
 | 653 | 357 | Shannon Byrd |
 | 654 | 357 | Tristan Szolek |
 | 655 | 355 | Amanda Perez |
-| 656 | 354 | Rickey Johnson |
-| 657 | 354 | Rachel Kaminski |
+| 656 | 354 | Rachel Kaminski |
+| 657 | 354 | Rickey Johnson |
 | 658 | 352 | Rose Fx |
 | 659 | 352 | Jean FU Jagielski |
 | 660 | 352 | ruth |
@@ -713,8 +713,8 @@
 | 705 | 325 | James Smith |
 | 706 | 325 | Justin Hines |
 | 707 | 325 | Mike73 |
-| 708 | 324 | Dale Haanpaa |
-| 709 | 324 | Tasia Stinson |
+| 708 | 324 | Tasia Stinson |
+| 709 | 324 | Dale Haanpaa |
 | 710 | 323 | Briana Alexander |
 | 711 | 322 | Lea Stewart |
 | 712 | 322 | Michelle Pike |
@@ -760,8 +760,8 @@
 | 752 | 305 | MamaBear11 |
 | 753 | 305 | Narutofreak13 |
 | 754 | 305 | Epic Fitzone |
-| 755 | 304 | NFLPITMOM |
-| 756 | 304 | Melissa McCall |
+| 755 | 304 | Melissa McCall |
+| 756 | 304 | NFLPITMOM |
 | 757 | 303 | Angie Marie |
 | 758 | 303 | Amanda Schaffer |
 | 759 | 303 | Alexandrea |
@@ -780,8 +780,8 @@
 | 772 | 297 | Frisky Patternline |
 | 773 | 297 | Ashley Robbins |
 | 774 | 296 | Jennifer Darby |
-| 775 | 296 | Zappy Dropmatch |
-| 776 | 296 | Frisky Riserbuilder |
+| 775 | 296 | Frisky Riserbuilder |
+| 776 | 296 | Zappy Dropmatch |
 | 777 | 295 | Noel Tarmy |
 | 778 | 294 | Amanda Edwards |
 | 779 | 294 | Swanky Snap |
@@ -803,7 +803,7 @@
 | 795 | 288 | thranduil |
 | 796 | 287 | N00D3S |
 | 797 | 287 | Epic Stackzone |
-| 798 | 287 | N00D3S |
+| 798 | 287 | Trista Carter |
 | 799 | 285 | Kimberly Mitchell |
 | 800 | 285 | Angelica |
 | 801 | 285 | Court |

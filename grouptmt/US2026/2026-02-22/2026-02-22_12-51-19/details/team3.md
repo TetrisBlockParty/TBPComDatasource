@@ -232,8 +232,8 @@
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
-| 227 | 283 | Cheeky Snapper |
-| 228 | 283 | Charles Perrone |
+| 227 | 283 | Charles Perrone |
+| 228 | 283 | Cheeky Snapper |
 | 229 | 281 | Valerie Gendron |
 | 230 | 278 | Sabrina Hardrick |
 | 231 | 278 | Rufus Lincoln |
@@ -285,16 +285,16 @@
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
 | 279 | 221 | Alice |
-| 280 | 221 | Jaime Monhaut-Reed |
-| 281 | 221 | kacihall |
+| 280 | 221 | kacihall |
+| 281 | 221 | Jaime Monhaut-Reed |
 | 282 | 220 | Tosha Griffey |
 | 283 | 220 | rosy |
 | 284 | 218 | Michael Lucado |
 | 285 | 216 | Twisty Brick LT |
 | 286 | 216 | Cheryl Hinch Tenbrook |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
-| 288 | 214 | Amy Fuller Heaton |
-| 289 | 214 | Angela Scott |
+| 288 | 214 | Angela Scott |
+| 289 | 214 | Amy Fuller Heaton |
 | 290 | 214 | Rebel124 |
 | 291 | 213 | Nicholas Roddy |
 | 292 | 212 | Desiree Gold |
@@ -645,7 +645,7 @@
 | 637 | 98 | Snazzy Filler |
 | 638 | 98 | Jess Reppert |
 | 639 | 98 | Serenity |
-| 640 | 98 | Snazzy Filler |
+| 640 | 98 | Skippy |
 | 641 | 98 | Jocelyne Baca |
 | 642 | 98 | Armi |
 | 643 | 98 | Adrea Ann |
