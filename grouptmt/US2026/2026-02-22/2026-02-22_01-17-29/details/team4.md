@@ -140,12 +140,12 @@
 | 132 | 201 | Melvin Baird |
 | 133 | 199 | Mary Ann Pabukis |
 | 134 | 197 | Peachy Fall |
-| 135 | 196 | Jeff Brian Gates |
-| 136 | 196 | Jenna McGeorge |
+| 135 | 196 | Jenna McGeorge |
+| 136 | 196 | Jeff Brian Gates |
 | 137 | 194 | Zany Twisterfit |
 | 138 | 192 | Shauna Havard |
-| 139 | 189 | Stacey Stano |
-| 140 | 189 | Calvin Dennis |
+| 139 | 189 | Calvin Dennis |
+| 140 | 189 | Stacey Stano |
 | 141 | 187 | TheNeesh50 |
 | 142 | 186 | Holly |
 | 143 | 185 | Lori |
