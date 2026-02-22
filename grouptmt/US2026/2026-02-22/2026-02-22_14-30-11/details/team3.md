@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Poppy Splitter |
-| 130 | 479 | Patti Skiles |
+| 129 | 479 | Patti Skiles |
+| 130 | 479 | Poppy Splitter |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -154,8 +154,8 @@
 | 146 | 439 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
-| 149 | 430 | Joye Sims Binion |
-| 150 | 430 | Tasha Gillespie |
+| 149 | 430 | Tasha Gillespie |
+| 150 | 430 | Joye Sims Binion |
 | 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
@@ -171,8 +171,8 @@
 | 163 | 399 | Mcathen |
 | 164 | 397 | Annie Déè |
 | 165 | 393 | Fallorina Susana |
-| 166 | 391 | Calista Jo Dickson |
-| 167 | 391 | Sarah Cowan Burgos |
+| 166 | 391 | Sarah Cowan Burgos |
+| 167 | 391 | Calista Jo Dickson |
 | 168 | 390 | Hasty Cascadefit |
 | 169 | 389 | Jeni Dow |
 | 170 | 384 | Dapper Snap |
@@ -194,8 +194,8 @@
 | 186 | 361 | Jamie Lang |
 | 187 | 358 | Chummy Caster |
 | 188 | 358 | RickyG |
-| 189 | 357 | Tom Nault |
-| 190 | 357 | Stephanie Burtin |
+| 189 | 357 | Stephanie Burtin |
+| 190 | 357 | Tom Nault |
 | 191 | 353 | Nora Rogers |
 | 192 | 349 | Amanda J. Mcneil-Anderson |
 | 193 | 348 | Chasity |
@@ -258,8 +258,8 @@
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
 | 252 | 262 | Joe-Maggie Mathews |
-| 253 | 261 | Tiffany Ford |
-| 254 | 261 | Tasha Wesson-Torrence |
+| 253 | 261 | Tasha Wesson-Torrence |
+| 254 | 261 | Tiffany Ford |
 | 255 | 261 | Marquita Sheard |
 | 256 | 260 | Grams |
 | 257 | 260 | Nikki Pags |
@@ -330,8 +330,8 @@
 | 322 | 203 | Angie Harper |
 | 323 | 202 | Tipsy Zonebuilder |
 | 324 | 201 | Hyper Matchzone |
-| 325 | 200 | glichmod |
-| 326 | 200 | Snazzy Filler |
+| 325 | 200 | Snazzy Filler |
+| 326 | 200 | glichmod |
 | 327 | 200 | Sharisse Baltimore |
 | 328 | 200 | Colleen Phelps |
 | 329 | 200 | Saucy Buildout |
@@ -342,8 +342,8 @@
 | 334 | 195 | Nicha Hooker |
 | 335 | 193 | Clever Shiftsnap |
 | 336 | 192 | Ryan Williams |
-| 337 | 192 | Melanie Sherwood |
-| 338 | 192 | Katrina E Jelks |
+| 337 | 192 | Katrina E Jelks |
+| 338 | 192 | Melanie Sherwood |
 | 339 | 192 | Kelly Ann Child |
 | 340 | 191 | Philip Rock |
 | 341 | 191 | Becca Engle |

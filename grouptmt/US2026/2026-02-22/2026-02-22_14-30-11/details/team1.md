@@ -145,8 +145,8 @@
 | 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Emily Adelaide Wheatley |
-| 141 | 284 | Rachael |
+| 140 | 284 | Rachael |
+| 141 | 284 | Emily Adelaide Wheatley |
 | 142 | 283 | Franswa |
 | 143 | 282 | Cool Shiftsnap |
 | 144 | 282 | Snippy Wipebuilder |
@@ -211,11 +211,11 @@
 | 203 | 207 | Brenda Alexander |
 | 204 | 207 | Leslie Bush Yarbrough |
 | 205 | 206 | BadG52 |
-| 206 | 205 | Snappy Matcher |
-| 207 | 205 | Tater |
+| 206 | 205 | Tater |
+| 207 | 205 | Snappy Matcher |
 | 208 | 204 | Lacy Wolfe |
-| 209 | 202 | Fmp |
-| 210 | 202 | Amanda Holibaugh |
+| 209 | 202 | Amanda Holibaugh |
+| 210 | 202 | Fmp |
 | 211 | 201 | Colleen Wise |
 | 212 | 200 | DaRascal |
 | 213 | 200 | Breanna Luna |

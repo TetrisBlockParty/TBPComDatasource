@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | J-Rizzle |
-| 166 | 244 | Twisty Cascadezone |
+| 165 | 244 | Twisty Cascadezone |
+| 166 | 244 | J-Rizzle |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -200,12 +200,12 @@
 | 192 | 212 | Joanna |
 | 193 | 211 | Jenna McGeorge |
 | 194 | 210 | Austin Owens |
-| 195 | 209 | Lindsey Gonzalez |
-| 196 | 209 | Sam Bishop |
+| 195 | 209 | Sam Bishop |
+| 196 | 209 | Lindsey Gonzalez |
 | 197 | 209 | Rafael Valentin |
 | 198 | 208 | Stacey Stano |
-| 199 | 207 | Chirpy Basepiece |
-| 200 | 207 | scott |
+| 199 | 207 | scott |
+| 200 | 207 | Chirpy Basepiece |
 | 201 | 206 | Ruben Wheeler |
 | 202 | 205 | Kathy Brookins |
 | 203 | 204 | Carlos Ramirez |
@@ -428,8 +428,8 @@
 | 420 | 105 | Michelle Parker |
 | 421 | 105 | Linda Alexander Downing |
 | 422 | 104 | Gdiguy |
-| 423 | 104 | Jessica Johnston |
-| 424 | 104 | Blessedmama |
+| 423 | 104 | Blessedmama |
+| 424 | 104 | Jessica Johnston |
 | 425 | 104 | Ryry |
 | 426 | 103 | Jesus Garcia |
 | 427 | 102 | Peppy Drop |

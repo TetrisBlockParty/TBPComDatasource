@@ -142,8 +142,8 @@
 | 134 | 1273 | Cool Rollpiece |
 | 135 | 1265 | Katrina Williams Balmir |
 | 136 | 1257 | Eileen Hale |
-| 137 | 1248 | Isabela Shaw |
-| 138 | 1248 | Howard Forest |
+| 137 | 1248 | Howard Forest |
+| 138 | 1248 | Isabela Shaw |
 | 139 | 1242 | Altamirano Michael |
 | 140 | 1232 | Groovy Puzzle |
 | 141 | 1230 | Megan Garrick |
@@ -270,8 +270,8 @@
 | 262 | 778 | Desire Rice |
 | 263 | 778 | Mischelle Clay |
 | 264 | 777 | Samantha Jo |
-| 265 | 777 | Jessicah Myers |
-| 266 | 777 | Tesha Oldaker |
+| 265 | 777 | Tesha Oldaker |
+| 266 | 777 | Jessicah Myers |
 | 267 | 772 | William Hunt |
 | 268 | 772 | Sam Joe |
 | 269 | 771 | Terri McKelvey McKinley |
@@ -323,8 +323,8 @@
 | 315 | 688 | ShinyRose |
 | 316 | 687 | Dee |
 | 317 | 686 | Ashley Guernsey-Martin |
-| 318 | 685 | Binyah-Binyah |
-| 319 | 685 | Brenda Pierpoint |
+| 318 | 685 | Brenda Pierpoint |
+| 319 | 685 | Binyah-Binyah |
 | 320 | 682 | Poldo Ilano |
 | 321 | 681 | Melissa Holsinger |
 | 322 | 680 | Glitzy Stackzone |
@@ -516,14 +516,14 @@
 | 508 | 462 | Jarboe |
 | 509 | 460 | Tara Lynn Janes |
 | 510 | 459 | Melissa Kay Gibson |
-| 511 | 458 | SwampRebel |
-| 512 | 458 | Casper The Chonk |
+| 511 | 458 | Casper The Chonk |
+| 512 | 458 | SwampRebel |
 | 513 | 456 | Skyler Morgan |
 | 514 | 454 | Casey Schumacher |
 | 515 | 453 | Rhonda Petro |
 | 516 | 452 | Juanita Lyons |
-| 517 | 451 | Anthony Huebel |
-| 518 | 451 | Funky Caster |
+| 517 | 451 | Funky Caster |
+| 518 | 451 | Anthony Huebel |
 | 519 | 450 | Cheery Matchzone |
 | 520 | 448 | Lee Harper |
 | 521 | 448 | Tina Marie |
@@ -794,15 +794,15 @@
 | 786 | 300 | Warren Marleau |
 | 787 | 300 | Kacee Conrad Bock |
 | 788 | 299 | Cassie Newton |
-| 789 | 298 | Timothy Jesuwole |
-| 790 | 298 | Ryan Stadel |
-| 791 | 298 | Lazy Riseclear |
-| 792 | 297 | Toni Lynn |
-| 793 | 297 | Frisky Patternline |
+| 789 | 298 | Ryan Stadel |
+| 790 | 298 | Lazy Riseclear |
+| 791 | 298 | Timothy Jesuwole |
+| 792 | 297 | Frisky Patternline |
+| 793 | 297 | Toni Lynn |
 | 794 | 297 | Ashley Robbins |
 | 795 | 296 | Jennifer Darby |
-| 796 | 296 | Zappy Dropmatch |
-| 797 | 296 | Cozy Drop |
+| 796 | 296 | Cozy Drop |
+| 797 | 296 | Zappy Dropmatch |
 | 798 | 295 | Noel Tarmy |
 | 799 | 295 | Devlin Ogg |
 | 800 | 295 | Sveta Lana |
@@ -923,11 +923,11 @@
 | 915 | 263 | Elizabeth Leinen |
 | 916 | 263 | Samie Dayle |
 | 917 | 263 | Sara Pennington |
-| 918 | 262 | Squirrel |
-| 919 | 262 | Taren Cowan |
-| 920 | 261 | Dany Murillo |
+| 918 | 262 | Taren Cowan |
+| 919 | 262 | Squirrel |
+| 920 | 261 | Gina Gina |
 | 921 | 261 | Chirpy Tilt |
-| 922 | 261 | Gina Gina |
+| 922 | 261 | Dany Murillo |
 | 923 | 261 | MrsClaudette Will'sIam Matthews |
 | 924 | 261 | Mellissa Evans |
 | 925 | 260 | Lianne Giandalone LaBounty |
