@@ -44,8 +44,8 @@
 | 36 | 880 | Koshin Abdirahman |
 | 37 | 873 | Elizabeth Sallas |
 | 38 | 871 | Denny Shives |
-| 39 | 846 | Lucille Truesdale |
-| 40 | 846 | Christine Marie |
+| 39 | 846 | Christine Marie |
+| 40 | 846 | Lucille Truesdale |
 | 41 | 843 | Jae Job |
 | 42 | 843 | Shelly Chandler |
 | 43 | 836 | LisaJo Picken Buchanan |
@@ -155,9 +155,9 @@
 | 147 | 300 | Dana Scott |
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
-| 150 | 294 | Calvin Cannon |
-| 151 | 294 | Kesha Brady |
-| 152 | 294 | Meagan Nicole |
+| 150 | 294 | Kesha Brady |
+| 151 | 294 | Meagan Nicole |
+| 152 | 294 | Calvin Cannon |
 | 153 | 292 | Cursed Hag |
 | 154 | 292 | Rafael Valentin |
 | 155 | 290 | Chaz Duncan |
@@ -235,8 +235,8 @@
 | 227 | 212 | Mike Solo |
 | 228 | 211 | Jenna McGeorge |
 | 229 | 210 | Adam Stephanie Parker |
-| 230 | 209 | Ak Jones |
-| 231 | 209 | Chris Hartig |
+| 230 | 209 | Chris Hartig |
+| 231 | 209 | Ak Jones |
 | 232 | 208 | Dizzy Matchzone |
 | 233 | 208 | Stacey Stano |
 | 234 | 208 | Oscar Alberto Perez |
@@ -336,11 +336,11 @@
 | 328 | 148 | Sam Middleton |
 | 329 | 148 | Cranky Rollpiece |
 | 330 | 147 | Jay28 |
-| 331 | 147 | Maureen Flanigan |
-| 332 | 147 | ĥuf |
+| 331 | 147 | ĥuf |
+| 332 | 147 | Maureen Flanigan |
 | 333 | 146 | Brave Spinbuilder |
-| 334 | 145 | Sandra Safford |
-| 335 | 145 | Glitzy Crasher |
+| 334 | 145 | Glitzy Crasher |
+| 335 | 145 | Sandra Safford |
 | 336 | 145 | Daring Pivot |
 | 337 | 144 | Squeezy Pearsall |
 | 338 | 143 | Metsfan |

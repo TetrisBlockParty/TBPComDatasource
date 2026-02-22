@@ -87,8 +87,8 @@
 | 79 | 830 | Stephanie Allmon |
 | 80 | 828 | Jessica Ann |
 | 81 | 826 | Shane Wilson Jr. |
-| 82 | 811 | Sarajane Lokan |
-| 83 | 811 | Jay Horn |
+| 82 | 811 | Jay Horn |
+| 83 | 811 | Sarajane Lokan |
 | 84 | 807 | Snappy Glidepiece |
 | 85 | 800 | Lauren Girouard |
 | 86 | 799 | Shari Garber |
@@ -128,8 +128,8 @@
 | 120 | 579 | Jd Morris |
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
-| 123 | 562 | Dave Herzog |
-| 124 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Louise Stacy Sisson |
+| 124 | 562 | Dave Herzog |
 | 125 | 551 | Alaina Lee |
 | 126 | 550 | Nicole Myers |
 | 127 | 546 | Domo Washington |
@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -266,12 +266,12 @@
 | 258 | 282 | Terry Jo Jones |
 | 259 | 282 | Angie Harper |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Rufus Lincoln |
-| 262 | 278 | Sabrina Hardrick |
+| 261 | 278 | Sabrina Hardrick |
+| 262 | 278 | Rufus Lincoln |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
-| 265 | 276 | Connie Mohler-Fair |
-| 266 | 276 | _melisa223_ |
+| 265 | 276 | _melisa223_ |
+| 266 | 276 | Connie Mohler-Fair |
 | 267 | 275 | Cassandra Bryant |
 | 268 | 273 | Troy |
 | 269 | 272 | fraulila |
