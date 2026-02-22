@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 43 | 846 | Jae Job |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | Erin Thomas |
-| 95 | 513 | YoMomma |
+| 94 | 513 | YoMomma |
+| 95 | 513 | Erin Thomas |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 501 | Zippy Gridlock |
@@ -122,8 +122,8 @@
 | 114 | 440 | shar |
 | 115 | 440 | Lori Walker |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -170,8 +170,8 @@
 | 162 | 307 | Girl |
 | 163 | 307 | TRCuse |
 | 164 | 303 | shark tato |
-| 165 | 301 | Andria Lynn |
-| 166 | 301 | Crystal Nicolette Moore |
+| 165 | 301 | Crystal Nicolette Moore |
+| 166 | 301 | Andria Lynn |
 | 167 | 300 | Dana Scott |
 | 168 | 295 | Cursed Hag |
 | 169 | 294 | Calvin Cannon |
@@ -197,8 +197,8 @@
 | 189 | 267 | Kathy Brookins |
 | 190 | 267 | Casey Grabner |
 | 191 | 267 | Holly |
-| 192 | 266 | Chris Bernstein |
-| 193 | 266 | Laura |
+| 192 | 266 | Laura |
+| 193 | 266 | Chris Bernstein |
 | 194 | 265 | J-Rizzle |
 | 195 | 264 | Epic Curvetile |
 | 196 | 262 | Joeliecea Cobb |
@@ -262,8 +262,8 @@
 | 254 | 205 | Christina Black |
 | 255 | 205 | James Hurley Jr. |
 | 256 | 203 | Katherine Crane |
-| 257 | 202 | Patron Anderson |
-| 258 | 202 | Orchislactea |
+| 257 | 202 | Orchislactea |
+| 258 | 202 | Patron Anderson |
 | 259 | 201 | Chaz |
 | 260 | 200 | Lori |
 | 261 | 200 | Googenheim |
@@ -300,8 +300,8 @@
 | 292 | 170 | Elie Pean |
 | 293 | 170 | PeaceOs |
 | 294 | 169 | Dante Korleon |
-| 295 | 169 | Jessica Atkinson |
-| 296 | 169 | Daring Pivot |
+| 295 | 169 | Daring Pivot |
+| 296 | 169 | Jessica Atkinson |
 | 297 | 169 | Ellen Durfee |
 | 298 | 168 | Kathy Allen |
 | 299 | 168 | Zippy Tilt |

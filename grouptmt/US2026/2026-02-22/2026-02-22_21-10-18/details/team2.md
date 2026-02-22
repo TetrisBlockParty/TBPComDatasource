@@ -414,8 +414,8 @@
 | 406 | 640 | Crystie Hicks |
 | 407 | 640 | BYM4L |
 | 408 | 640 | Gary Stash |
-| 409 | 639 | Rebecca Miller |
-| 410 | 639 | Steven Marshaun |
+| 409 | 639 | Steven Marshaun |
+| 410 | 639 | Rebecca Miller |
 | 411 | 639 | Melissa Penelope Ann Dodge |
 | 412 | 635 | Dennis McLaurin |
 | 413 | 630 | Brittney Jean |
@@ -436,8 +436,8 @@
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | Shaun Church |
-| 432 | 602 | KhaosLord |
+| 431 | 602 | KhaosLord |
+| 432 | 602 | Shaun Church |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
@@ -1005,8 +1005,8 @@
 | 997 | 286 | Angelina Marie |
 | 998 | 286 | Debbie Gerlib-Molinari Leigh |
 | 999 | 285 | Theresa Sterrett |
-| 1000 | 285 | Candace Cece Joseph |
-| 1001 | 285 | Nakiiya Dreamcatcher Gore |
+| 1000 | 285 | Nakiiya Dreamcatcher Gore |
+| 1001 | 285 | Candace Cece Joseph |
 | 1002 | 285 | Kimberly Mitchell |
 | 1003 | 285 | Kimmie Zimmerman-Rocha |
 | 1004 | 284 | Josh Webster |
