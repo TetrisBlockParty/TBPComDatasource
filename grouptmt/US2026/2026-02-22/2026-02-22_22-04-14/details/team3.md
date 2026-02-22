@@ -225,8 +225,8 @@
 | 217 | 369 | RickyG |
 | 218 | 368 | Stephanie Woods |
 | 219 | 367 | Loopy Fallmatch |
-| 220 | 365 | Tiffany Ford |
-| 221 | 365 | Chummy Caster |
+| 220 | 365 | Chummy Caster |
+| 221 | 365 | Tiffany Ford |
 | 222 | 362 | Brandon Givens |
 | 223 | 360 | Rebecca Funderburk Kirby |
 | 224 | 360 | Sheila M Frazier |
@@ -239,8 +239,8 @@
 | 231 | 347 | Trisha Balmer |
 | 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Rania Zaqout |
-| 235 | 344 | Roary Danner |
+| 234 | 344 | Roary Danner |
+| 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Noyb Adam |

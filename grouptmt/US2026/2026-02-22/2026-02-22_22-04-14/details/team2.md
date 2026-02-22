@@ -170,8 +170,8 @@
 | 162 | 1296 | Kristin Ruest |
 | 163 | 1294 | Ashley House |
 | 164 | 1286 | Altamirano Michael |
-| 165 | 1282 | Tanya Parsons |
-| 166 | 1282 | Ashley Rose Frederick |
+| 165 | 1282 | Ashley Rose Frederick |
+| 166 | 1282 | Tanya Parsons |
 | 167 | 1271 | Shandrica Lowe |
 | 168 | 1263 | Mema |
 | 169 | 1260 | Joshua Sommerville |
@@ -341,8 +341,8 @@
 | 333 | 773 | Diana Fitzwater |
 | 334 | 772 | Danielle Simmons |
 | 335 | 768 | Joshua Self |
-| 336 | 767 | Ashley Lopez |
-| 337 | 767 | Fancy Twister |
+| 336 | 767 | Fancy Twister |
+| 337 | 767 | Ashley Lopez |
 | 338 | 763 | Heather Causey |
 | 339 | 761 | Hyper Cluster |
 | 340 | 760 | Cheech Dta |
@@ -385,7 +385,7 @@
 | 377 | 700 | Vincent Petrella |
 | 378 | 699 | Dannette Goldberg-Richards |
 | 379 | 699 | Melissa Penelope Ann Dodge |
-| 380 | 698 | Breezy Filler |
+| 380 | 698 | Spunkysmom |
 | 381 | 698 | Joce Lynn |
 | 382 | 698 | Breezy Filler |
 | 383 | 697 | Ashle Scranton |
@@ -449,8 +449,8 @@
 | 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
-| 444 | 603 | Casper The Chonk |
-| 445 | 603 | Véronique Lévesque Sabourin |
+| 444 | 603 | Véronique Lévesque Sabourin |
+| 445 | 603 | Casper The Chonk |
 | 446 | 602 | Shaun Church |
 | 447 | 602 | KhaosLord |
 | 448 | 601 | Moua Ying |
@@ -465,8 +465,8 @@
 | 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
-| 460 | 583 | Ann Matzkanin |
-| 461 | 583 | Kitybox |
+| 460 | 583 | Kitybox |
+| 461 | 583 | Ann Matzkanin |
 | 462 | 582 | Bee |
 | 463 | 581 | Angie Marie |
 | 464 | 581 | snkylnk |
@@ -551,8 +551,8 @@
 | 543 | 497 | June E Hanson |
 | 544 | 495 | Michelle Lee |
 | 545 | 495 | Bubbly Snapbuild |
-| 546 | 494 | Snippy Rumbler |
-| 547 | 494 | Venita Ray |
+| 546 | 494 | Venita Ray |
+| 547 | 494 | Snippy Rumbler |
 | 548 | 493 | Sue Leard |
 | 549 | 493 | Besma Ao |
 | 550 | 492 | Breezy Clusterer |
@@ -808,8 +808,8 @@
 | 800 | 357 | Ys Muhammed |
 | 801 | 357 | Shannon Byrd |
 | 802 | 356 | Alyssia Tancredi |
-| 803 | 355 | Jaime E. Rodriguez |
-| 804 | 355 | Noel Tarmy |
+| 803 | 355 | Noel Tarmy |
+| 804 | 355 | Jaime E. Rodriguez |
 | 805 | 355 | Tammy Mitchell |
 | 806 | 355 | Mike73 |
 | 807 | 354 | Rachel Kaminski |
@@ -890,8 +890,8 @@
 | 882 | 325 | Justin Hines |
 | 883 | 324 | Trista Carter |
 | 884 | 324 | Dale Haanpaa |
-| 885 | 324 | Persipnei Cuesta |
-| 886 | 324 | Heather Renee Jeffers |
+| 885 | 324 | Heather Renee Jeffers |
+| 886 | 324 | Persipnei Cuesta |
 | 887 | 323 | Epic Stackbuilder |
 | 888 | 323 | Joshua Mullings |
 | 889 | 322 | Jeffrey Barrows |
@@ -912,10 +912,10 @@
 | 904 | 317 | Jumpy Gridclear |
 | 905 | 317 | Nancy Pohlman |
 | 906 | 316 | Macy Jarrett |
-| 907 | 316 | Nutty Slice |
-| 908 | 316 | Megan Phillips |
-| 909 | 316 | Funky Drop |
-| 910 | 316 | LeVeL27 |
+| 907 | 316 | Megan Phillips |
+| 908 | 316 | Funky Drop |
+| 909 | 316 | LeVeL27 |
+| 910 | 316 | Nutty Slice |
 | 911 | 316 | Epic Spinfit |
 | 912 | 315 | Sinistah42o |
 | 913 | 314 | Amanda West |

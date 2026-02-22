@@ -101,10 +101,10 @@
 | 93 | 544 | Amy Suckarieh |
 | 94 | 533 | Samantha Peterson |
 | 95 | 519 | Nugget |
-| 96 | 513 | Erin Thomas |
-| 97 | 513 | YoMomma |
-| 98 | 512 | Diana Houts |
-| 99 | 512 | Casey Jeffcoat |
+| 96 | 513 | YoMomma |
+| 97 | 513 | Erin Thomas |
+| 98 | 512 | Casey Jeffcoat |
+| 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
@@ -138,8 +138,8 @@
 | 130 | 391 | Ramel Rhodes |
 | 131 | 391 | Austin Owens |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -219,8 +219,8 @@
 | 211 | 253 | Lindsey Gonzalez |
 | 212 | 250 | Matt Dell'Olio |
 | 213 | 249 | Ak Jones |
-| 214 | 248 | Chirpy Basepiece |
-| 215 | 248 | Jose Dejesus |
+| 214 | 248 | Jose Dejesus |
+| 215 | 248 | Chirpy Basepiece |
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 245 | 23 |
@@ -232,10 +232,10 @@
 | 224 | 238 | Zesty Twistbuilder |
 | 225 | 237 | April Rondinone |
 | 226 | 236 | Kim Hunt |
-| 227 | 235 | LaDonna LovinmesomeMe Lambert |
-| 228 | 235 | Chris Hartig |
-| 229 | 233 | Matt Gooder |
-| 230 | 233 | Ruben Wheeler |
+| 227 | 235 | Chris Hartig |
+| 228 | 235 | LaDonna LovinmesomeMe Lambert |
+| 229 | 233 | Ruben Wheeler |
+| 230 | 233 | Matt Gooder |
 | 231 | 230 | blockstar |
 | 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
@@ -261,10 +261,10 @@
 | 253 | 212 | Mike Solo |
 | 254 | 209 | Chaz |
 | 255 | 208 | Rebecca Morris |
-| 256 | 207 | Snippy Puzzle |
-| 257 | 207 | Keith Kelley |
-| 258 | 205 | Christina Black |
-| 259 | 205 | James Hurley Jr. |
+| 256 | 207 | Keith Kelley |
+| 257 | 207 | Snippy Puzzle |
+| 258 | 205 | James Hurley Jr. |
+| 259 | 205 | Christina Black |
 | 260 | 203 | Katherine Crane |
 | 261 | 202 | Angelito |
 | 262 | 202 | Orchislactea |

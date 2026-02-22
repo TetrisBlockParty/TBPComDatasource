@@ -171,13 +171,13 @@
 | 163 | 309 | Rachael |
 | 164 | 307 | Sarah Roberts |
 | 165 | 306 | Happy Basegrid |
-| 166 | 306 | Jessi Sauer |
-| 167 | 306 | Bloknboy |
+| 166 | 306 | Bloknboy |
+| 167 | 306 | Jessi Sauer |
 | 168 | 305 | Constance Risner |
 | 169 | 304 | Nicole Roseberry Weber |
 | 170 | 302 | Mike Ames |
-| 171 | 298 | Danielle Little-Daugherty |
-| 172 | 298 | femmefatale |
+| 171 | 298 | femmefatale |
+| 172 | 298 | Danielle Little-Daugherty |
 | 173 | 296 | Madison Wicks |
 | 174 | 296 | ALFD |
 | 175 | 295 | David Lutcher |
@@ -238,8 +238,8 @@
 | 230 | 234 | Paula Martin |
 | 231 | 233 | LC |
 | 232 | 231 | Tyler Hertzog |
-| 233 | 230 | BigWeenie69 |
-| 234 | 230 | Diane Byrd |
+| 233 | 230 | Diane Byrd |
+| 234 | 230 | BigWeenie69 |
 | 235 | 229 | Standia Civil |
 | 236 | 228 | Erin Rosberg |
 | 237 | 228 | Shiny Gridmatch |
@@ -309,8 +309,8 @@
 | 301 | 191 | J.F. Fields |
 | 302 | 191 | Steph |
 | 303 | 190 | Sweetts |
-| 304 | 189 | Tawnya Peltonen |
-| 305 | 189 | Bird Person |
+| 304 | 189 | Bird Person |
+| 305 | 189 | Tawnya Peltonen |
 | 306 | 188 | Betsy |
 | 307 | 187 | Fresno Beotoni |
 | 308 | 187 | Jessica Weed |
@@ -431,7 +431,7 @@
 | 423 | 138 | Kirk Torrey |
 | 424 | 138 | Unicorn |
 | 425 | 138 | Sunny Shift |
-| 426 | 137 | Shiny Rotate |
+| 426 | 137 | Joshua Weeder |
 | 427 | 137 | Gina Bettikofer |
 | 428 | 137 | Shiny Rotate |
 | 429 | 136 | Jennifer Chilton-Metlock |
