@@ -180,8 +180,8 @@
 | 172 | 163 | Tyler Whitley |
 | 173 | 162 | Cece Ibarra |
 | 174 | 161 | SavageBooty98 |
-| 175 | 159 | Bindi |
-| 176 | 159 | David Miller |
+| 175 | 159 | David Miller |
+| 176 | 159 | Bindi |
 | 177 | 158 | Arianna O'Brien |
 | 178 | 158 | Sarah Marie |
 | 179 | 157 | Angela Fairbank |

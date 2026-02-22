@@ -250,8 +250,8 @@
 | 242 | 596 | Maegan Beaule |
 | 243 | 589 | Thomas Hedrick |
 | 244 | 587 | Hyper Cluster |
-| 245 | 586 | Hoppy Brickmatch |
-| 246 | 586 | Stephen Stephen |
+| 245 | 586 | Stephen Stephen |
+| 246 | 586 | Hoppy Brickmatch |
 | 247 | 583 | Jessicah Myers |
 | 248 | 583 | Steve Grotto |
 | 249 | 582 | Gary Stash |
@@ -272,8 +272,8 @@
 | 264 | 547 | Giggy Blocker |
 | 265 | 547 | Mema |
 | 266 | 544 | Leah Keesling |
-| 267 | 543 | Adira Brown |
-| 268 | 543 | Teresa Gillmore |
+| 267 | 543 | Teresa Gillmore |
+| 268 | 543 | Adira Brown |
 | 269 | 542 | Slip |
 | 270 | 535 | Paul Huber |
 | 271 | 535 | Jessie McDougald |
