@@ -112,8 +112,8 @@
 | 104 | 310 | Seth Wesson |
 | 105 | 310 | Jason Jones |
 | 106 | 306 | Happy Basegrid |
-| 107 | 304 | Nicole Roseberry Weber |
-| 108 | 304 | phrmblk24 |
+| 107 | 304 | phrmblk24 |
+| 108 | 304 | Nicole Roseberry Weber |
 | 109 | 301 | Lehrin Maria |
 | 110 | 294 | Theo Pinnow |
 | 111 | 292 | Kristen Gideon |
@@ -147,8 +147,8 @@
 | 139 | 238 | lil mickey |
 | 140 | 236 | Mandyy Rae |
 | 141 | 232 | Jessi Sauer |
-| 142 | 230 | Billie Dawn Sparks |
-| 143 | 230 | Frothy Pattern |
+| 142 | 230 | Frothy Pattern |
+| 143 | 230 | Billie Dawn Sparks |
 | 144 | 229 | David Lutcher |
 | 145 | 228 | ALFD |
 | 146 | 226 | Kandae |

@@ -740,8 +740,8 @@
 | 732 | 274 | Robin L. Vial |
 | 733 | 274 | Min |
 | 734 | 273 | Jennifer Aiken |
-| 735 | 273 | Britt Stunkel |
-| 736 | 273 | Kelly Meredeith |
+| 735 | 273 | Kelly Meredeith |
+| 736 | 273 | Britt Stunkel |
 | 737 | 272 | Witty Piecebuilder |
 | 738 | 271 | Shalisa Hill |
 | 739 | 270 | BK Queen |

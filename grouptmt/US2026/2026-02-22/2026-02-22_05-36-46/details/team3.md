@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 935 | Snappy Fitzone |
@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |
@@ -455,8 +455,8 @@
 | 447 | 115 | Whitney Manuel |
 | 448 | 115 | FATTY |
 | 449 | 114 | Elizabeth Renee |
-| 450 | 114 | Bhreagh Gentile |
-| 451 | 114 | Joseph Vargas |
+| 450 | 114 | Joseph Vargas |
+| 451 | 114 | Bhreagh Gentile |
 | 452 | 114 | Dapper Towerfit |
 | 453 | 113 | Gideon Walker |
 | 454 | 113 | Kristy Brown |

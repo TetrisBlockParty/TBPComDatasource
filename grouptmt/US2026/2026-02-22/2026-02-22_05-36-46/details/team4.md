@@ -85,8 +85,8 @@
 | 77 | 409 | Isabella Blanco |
 | 78 | 404 | Courtney Cicoria |
 | 79 | 402 | Julian Garcia |
-| 80 | 396 | Amy Suckarieh |
-| 81 | 396 | Alicia Bass |
+| 80 | 396 | Alicia Bass |
+| 81 | 396 | Amy Suckarieh |
 | 82 | 391 | Ramel Rhodes |
 | 83 | 390 | Carlton Unfiltered |
 | 84 | 382 | Marie-Pier Desjardins |
@@ -168,8 +168,8 @@
 | 160 | 205 | Cursed Hag |
 | 161 | 205 | Kathy Brookins |
 | 162 | 204 | Jen Caldwell |
-| 163 | 203 | Chris Bernstein |
-| 164 | 203 | Katherine Crane |
+| 163 | 203 | Katherine Crane |
+| 164 | 203 | Chris Bernstein |
 | 165 | 202 | TRCuse |
 | 166 | 201 | Chance Strickland |
 | 167 | 201 | Melvin Baird |
