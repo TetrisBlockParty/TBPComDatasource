@@ -276,8 +276,8 @@
 | 268 | 268 | Krystal Gerstberger |
 | 269 | 267 | April Matthew Kibble |
 | 270 | 267 | Tiffany Davie |
-| 271 | 266 | Snappy Balancer |
-| 272 | 266 | Quirky Dropzone |
+| 271 | 266 | Quirky Dropzone |
+| 272 | 266 | Snappy Balancer |
 | 273 | 265 | Nikki Pags |
 | 274 | 263 | Brenda Schmid Wood |
 | 275 | 262 | Joe-Maggie Mathews |
@@ -327,8 +327,8 @@
 | 319 | 221 | kacihall |
 | 320 | 221 | Bleu Sun Beams |
 | 321 | 221 | Ryan Williams |
-| 322 | 221 | Jaime Monhaut-Reed |
-| 323 | 221 | Vaners |
+| 322 | 221 | Vaners |
+| 323 | 221 | Jaime Monhaut-Reed |
 | 324 | 221 | Desiree Gold |
 | 325 | 220 | Tosha Griffey |
 | 326 | 217 | Goofy Fall |
@@ -525,8 +525,8 @@
 | 517 | 141 | Jen Lewis |
 | 518 | 140 | Boldy Corner |
 | 519 | 140 | Christine Vosburgh |
-| 520 | 139 | Paula Little |
-| 521 | 139 | Brave Brickster |
+| 520 | 139 | Brave Brickster |
+| 521 | 139 | Paula Little |
 | 522 | 138 | Daisy Rocha |
 | 523 | 138 | paranoid |
 | 524 | 137 | Patty White |

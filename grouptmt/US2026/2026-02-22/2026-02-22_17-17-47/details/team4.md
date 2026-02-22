@@ -169,8 +169,8 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Cursed Hag |
-| 165 | 268 | Trista Leah |
+| 164 | 268 | Trista Leah |
+| 165 | 268 | Cursed Hag |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Casey Grabner |
 | 168 | 267 | Damn Libra |
@@ -211,8 +211,8 @@
 | 203 | 226 | Zesty Twistbuilder |
 | 204 | 225 | Perky Patternblock |
 | 205 | 222 | blockstar |
-| 206 | 221 | Rheanda Weaskus |
-| 207 | 221 | PurpleMoonMa |
+| 206 | 221 | PurpleMoonMa |
+| 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
 | 210 | 216 | ZeeZee |
@@ -271,8 +271,8 @@
 | 263 | 170 | Elie Pean |
 | 264 | 168 | 23 |
 | 265 | 167 | Cozy Balancer |
-| 266 | 166 | Jenny Wells-Oakley |
-| 267 | 166 | SammieJo Guy |
+| 266 | 166 | SammieJo Guy |
+| 267 | 166 | Jenny Wells-Oakley |
 | 268 | 166 | Megan Cutshaw |
 | 269 | 166 | KimoKoala |
 | 270 | 165 | James Hurley Jr. |
@@ -350,8 +350,8 @@
 | 342 | 139 | Lori Goudy |
 | 343 | 139 | O block |
 | 344 | 138 | Ashlee Carnes |
-| 345 | 138 | Jasmine S Caldwell |
-| 346 | 138 | Moonsterix |
+| 345 | 138 | Moonsterix |
+| 346 | 138 | Jasmine S Caldwell |
 | 347 | 137 | Red |
 | 348 | 137 | Carlos Hernandez |
 | 349 | 137 | Brianna Walker |
@@ -418,8 +418,8 @@
 | 410 | 117 | Shiny Pivoty |
 | 411 | 117 | Grann8 |
 | 412 | 116 | Zesty Linkgrid |
-| 413 | 116 | Kate |
-| 414 | 116 | Smiley Shifter |
+| 413 | 116 | Smiley Shifter |
+| 414 | 116 | Kate |
 | 415 | 116 | Funky Risepiece |
 | 416 | 115 | Susan Williams |
 | 417 | 115 | Alexandra Karavias |
@@ -438,8 +438,8 @@
 | 430 | 113 | Dandy Cascadefit |
 | 431 | 112 | Jarred Falls |
 | 432 | 111 | Zocko Ellet |
-| 433 | 111 | Lazy Blocker |
-| 434 | 111 | Richard-April Kice |
+| 433 | 111 | Richard-April Kice |
+| 434 | 111 | Lazy Blocker |
 | 435 | 110 | Shane Vick |
 | 436 | 110 | No Strings Attached Ra |
 | 437 | 110 | JoAnna Zalkovsky |
@@ -589,8 +589,8 @@
 | 581 | 79 | Petty |
 | 582 | 79 | Lynette Manning |
 | 583 | 78 | Cranky Glidebuilder |
-| 584 | 78 | BROOKE |
-| 585 | 78 | RobinC |
+| 584 | 78 | RobinC |
+| 585 | 78 | BROOKE |
 | 586 | 77 | Sunny Holder |
 | 587 | 77 | Neil Ingham |
 | 588 | 77 | Mike |

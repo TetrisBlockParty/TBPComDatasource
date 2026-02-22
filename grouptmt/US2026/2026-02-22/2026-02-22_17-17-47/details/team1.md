@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Hyper |
-| 85 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Hyper |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -105,9 +105,9 @@
 | 97 | 409 | Yvonne Marie |
 | 98 | 401 | cc |
 | 99 | 400 | Cynthia Bradley |
-| 100 | 390 | Candy Jones |
-| 101 | 390 | Lori Bales |
-| 102 | 390 | Goose egg |
+| 100 | 390 | Goose egg |
+| 101 | 390 | Candy Jones |
+| 102 | 390 | Lori Bales |
 | 103 | 389 | Nery Martinez |
 | 104 | 385 | Brenda Stewart |
 | 105 | 383 | pjbeta |
@@ -116,8 +116,8 @@
 | 108 | 379 | Kimmie Kimms |
 | 109 | 376 | lil mickey |
 | 110 | 366 | David Miller |
-| 111 | 364 | Ly Phethmany |
-| 112 | 364 | Shauna Loe |
+| 111 | 364 | Shauna Loe |
+| 112 | 364 | Ly Phethmany |
 | 113 | 362 | Plucky Ziggy |
 | 114 | 360 | Wisa |
 | 115 | 359 | Chirpy Smasher |
@@ -408,9 +408,9 @@
 | 400 | 123 | Jumpy Rotate |
 | 401 | 123 | Joe Coon |
 | 402 | 122 | Tyler L Hunt |
-| 403 | 121 | Jacob Shaddock |
+| 403 | 121 | Amber Nixon |
 | 404 | 121 | John Ramirez |
-| 405 | 121 | Amber Nixon |
+| 405 | 121 | Jacob Shaddock |
 | 406 | 120 | Irv |
 | 407 | 118 | Jade |
 | 408 | 118 | Kerry Lee Powell |

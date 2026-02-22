@@ -300,8 +300,8 @@
 | 292 | 773 | Joshua Sommerville |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
-| 295 | 767 | Dee |
-| 296 | 767 | Ashley Lopez |
+| 295 | 767 | Ashley Lopez |
+| 296 | 767 | Dee |
 | 297 | 763 | Heather Causey |
 | 298 | 763 | Beth |
 | 299 | 761 | Hyper Cluster |
@@ -475,8 +475,8 @@
 | 467 | 516 | Diamond Scott |
 | 468 | 515 | Victoria Regina Girolami |
 | 469 | 515 | Laquetta Royston |
-| 470 | 514 | Sarah Berger |
-| 471 | 514 | Karen Posadas Centeno |
+| 470 | 514 | Karen Posadas Centeno |
+| 471 | 514 | Sarah Berger |
 | 472 | 512 | Leslie Jorgenson |
 | 473 | 511 | Laura Mclean |
 | 474 | 509 | Kelli Wells |
@@ -549,8 +549,8 @@
 | 541 | 462 | Jarboe |
 | 542 | 460 | Slinky Racker |
 | 543 | 460 | Tara Lynn Janes |
-| 544 | 460 | Gloria Ininahazwe |
-| 545 | 460 | Funky Caster |
+| 544 | 460 | Funky Caster |
+| 545 | 460 | Gloria Ininahazwe |
 | 546 | 458 | SwampRebel |
 | 547 | 458 | Casper The Chonk |
 | 548 | 456 | Denise Rickman |
@@ -604,8 +604,8 @@
 | 596 | 420 | Joice Hansen |
 | 597 | 420 | LaWanda Powell |
 | 598 | 419 | Pocho Zavala |
-| 599 | 419 | Josh Dill |
-| 600 | 419 | Goofy Catcher |
+| 599 | 419 | Goofy Catcher |
+| 600 | 419 | Josh Dill |
 | 601 | 418 | Snappy snappers |
 | 602 | 417 | Alexx Anaya |
 | 603 | 417 | Lauren Fitzgerald Thomas |
