@@ -133,8 +133,8 @@
 | 125 | 368 | Stephanie Woods |
 | 126 | 367 | mjl574 |
 | 127 | 366 | Adrian Marcel Pate |
-| 128 | 355 | Tessina Dewey-Mancino |
-| 129 | 355 | Sherry Ogden |
+| 128 | 355 | Sherry Ogden |
+| 129 | 355 | Tessina Dewey-Mancino |
 | 130 | 350 | Tasha Gillespie |
 | 131 | 348 | Logan Naccarato |
 | 132 | 348 | CeceGeGe |

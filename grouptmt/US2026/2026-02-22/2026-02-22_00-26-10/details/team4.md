@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | Marie-Pier Desjardins |
-| 71 | 376 | quicksand420 |
+| 70 | 376 | quicksand420 |
+| 71 | 376 | Marie-Pier Desjardins |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |
@@ -107,8 +107,8 @@
 | 99 | 273 | Carrie Brian |
 | 100 | 271 | Sarah Brown |
 | 101 | 268 | Meagan Nicole |
-| 102 | 264 | Girl |
-| 103 | 264 | Epic Curvetile |
+| 102 | 264 | Epic Curvetile |
+| 103 | 264 | Girl |
 | 104 | 258 | Brittney Orengo |
 | 105 | 257 | Holly Jolly |
 | 106 | 255 | Lindsay Ball |
@@ -126,8 +126,8 @@
 | 118 | 212 | Mike Solo |
 | 119 | 211 | Dizzy Tiley |
 | 120 | 210 | Damn Libra |
-| 121 | 208 | Chastity Mitchell |
-| 122 | 208 | Twisty Cascadezone |
+| 121 | 208 | Twisty Cascadezone |
+| 122 | 208 | Chastity Mitchell |
 | 123 | 206 | Mylo Lipscomb |
 | 124 | 205 | Sarah Neathery |
 | 125 | 204 | Dana Scott |
@@ -137,15 +137,15 @@
 | 129 | 201 | Melvin Baird |
 | 130 | 201 | Swanky Fitline |
 | 131 | 197 | Peachy Fall |
-| 132 | 196 | Jenna McGeorge |
-| 133 | 196 | Jeff Brian Gates |
+| 132 | 196 | Jeff Brian Gates |
+| 133 | 196 | Jenna McGeorge |
 | 134 | 194 | Zany Twisterfit |
 | 135 | 192 | Shauna Havard |
 | 136 | 189 | Stacey Stano |
 | 137 | 189 | Calvin Dennis |
 | 138 | 187 | TheNeesh50 |
-| 139 | 185 | Andy Cabral |
-| 140 | 185 | Malakai Darien Fox |
+| 139 | 185 | Malakai Darien Fox |
+| 140 | 185 | Andy Cabral |
 | 141 | 184 | Justin Hannigan |
 | 142 | 181 | Andria Lynn |
 | 143 | 181 | Klo |
@@ -155,8 +155,8 @@
 | 147 | 179 | Ak Jones |
 | 148 | 178 | Lori |
 | 149 | 176 | Zethra Prenisha Rahming |
-| 150 | 175 | Ren Mc |
-| 151 | 175 | blockstar |
+| 150 | 175 | blockstar |
+| 151 | 175 | Ren Mc |
 | 152 | 174 | Dihcheese444 |
 | 153 | 172 | Jessica Bohlken |
 | 154 | 171 | Diana Houts |
@@ -235,7 +235,7 @@
 | 227 | 120 | Cassie Michaux |
 | 228 | 119 | rebel4lyfe |
 | 229 | 119 | Gwendolyn Pitcairn |
-| 230 | 119 | rebel4lyfe |
+| 230 | 119 | Kristin Manee |
 | 231 | 116 | Adam Stephanie Parker |
 | 232 | 115 | Sam Middleton |
 | 233 | 115 | Nubian1 |
