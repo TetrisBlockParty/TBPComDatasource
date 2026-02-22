@@ -149,10 +149,10 @@
 | 141 | 449 | Danielle Rhoades |
 | 142 | 448 | Karon Griffin |
 | 143 | 445 | Shannon Matthew Byers |
-| 144 | 445 | Jacqueline Rodriguez |
-| 145 | 445 | Kristie McFarland |
-| 146 | 435 | Michelle |
-| 147 | 435 | Daryn Elliott |
+| 144 | 445 | Kristie McFarland |
+| 145 | 445 | Jacqueline Rodriguez |
+| 146 | 435 | Daryn Elliott |
+| 147 | 435 | Michelle |
 | 148 | 432 | Jenny Hrndz |
 | 149 | 430 | Joye Sims Binion |
 | 150 | 427 | Logan Naccarato |
@@ -166,8 +166,8 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Marcie Bressler |
-| 162 | 399 | Mcathen |
+| 161 | 399 | Mcathen |
+| 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
 | 165 | 391 | Sarah Cowan Burgos |
@@ -256,8 +256,8 @@
 | 248 | 261 | Tasha Wesson-Torrence |
 | 249 | 261 | Tiffany Ford |
 | 250 | 261 | Marquita Sheard |
-| 251 | 260 | Nikki Pags |
-| 252 | 260 | Grams |
+| 251 | 260 | Grams |
+| 252 | 260 | Nikki Pags |
 | 253 | 259 | Danielle Weikel |
 | 254 | 257 | Ashley Jones |
 | 255 | 256 | KayB |

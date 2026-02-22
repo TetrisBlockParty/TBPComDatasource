@@ -210,8 +210,8 @@
 | 202 | 201 | Melvin Baird |
 | 203 | 200 | Lori |
 | 204 | 200 | Laura |
-| 205 | 198 | Keith Kelley |
-| 206 | 198 | Zesty Twistbuilder |
+| 205 | 198 | Zesty Twistbuilder |
+| 206 | 198 | Keith Kelley |
 | 207 | 197 | Silly SeaWeed |
 | 208 | 196 | Lindsey Gonzalez |
 | 209 | 196 | Mr. Party |
@@ -226,8 +226,8 @@
 | 218 | 191 | Klo |
 | 219 | 190 | Cheery Risebuilder |
 | 220 | 189 | Calvin Dennis |
-| 221 | 189 | Dihcheese444 |
-| 222 | 189 | Stacey Stano |
+| 221 | 189 | Stacey Stano |
+| 222 | 189 | Dihcheese444 |
 | 223 | 186 | Holly |
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Lauren Lamb |
@@ -278,8 +278,8 @@
 | 270 | 152 | Angela Geist Jusinski |
 | 271 | 152 | Faja |
 | 272 | 151 | Joseph Pace |
-| 273 | 150 | Jared Gutwein |
-| 274 | 150 | Brandon Link |
+| 273 | 150 | Brandon Link |
+| 274 | 150 | Jared Gutwein |
 | 275 | 149 | Shainne Brewer |
 | 276 | 148 | Nubian1 |
 | 277 | 148 | Stephme310 |
@@ -361,8 +361,8 @@
 | 353 | 121 | Riverdale |
 | 354 | 120 | Bryan Hodgins |
 | 355 | 120 | wombat |
-| 356 | 119 | Gwendolyn Pitcairn |
-| 357 | 119 | rebel4lyfe |
+| 356 | 119 | rebel4lyfe |
+| 357 | 119 | Gwendolyn Pitcairn |
 | 358 | 119 | River Shady Sr. |
 | 359 | 118 | Mackenzie Forrester |
 | 360 | 118 | Darrin Rubalcava |

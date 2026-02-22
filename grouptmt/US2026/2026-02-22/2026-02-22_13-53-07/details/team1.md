@@ -95,8 +95,8 @@
 | 87 | 400 | Cynthia Bradley |
 | 88 | 399 | Nerdy Linkblock |
 | 89 | 397 | Tdub |
-| 90 | 390 | Goose egg |
-| 91 | 390 | Candy Jones |
+| 90 | 390 | Candy Jones |
+| 91 | 390 | Goose egg |
 | 92 | 390 | Lori Bales |
 | 93 | 389 | Trina Gee |
 | 94 | 383 | Loony Fitzone |
@@ -152,8 +152,8 @@
 | 144 | 282 | Cool Shiftsnap |
 | 145 | 282 | Timothy Dew |
 | 146 | 276 | Dandy Basegrid |
-| 147 | 270 | Ash Galvan |
-| 148 | 270 | Mandyy Rae |
+| 147 | 270 | Mandyy Rae |
+| 148 | 270 | Ash Galvan |
 | 149 | 268 | GATOR |
 | 150 | 265 | Nutty Spinblock |
 | 151 | 265 | SkipTheSadSauce |
