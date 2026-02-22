@@ -345,8 +345,8 @@
 | 337 | 247 | Jessica |
 | 338 | 246 | Erika Thornton |
 | 339 | 245 | Latoya Mayne |
-| 340 | 244 | LaNette Morgan |
-| 341 | 244 | Quackers |
+| 340 | 244 | Quackers |
+| 341 | 244 | LaNette Morgan |
 | 342 | 243 | Josh Borquez |
 | 343 | 242 | Randy Clevenger |
 | 344 | 240 | Rachel Grant |

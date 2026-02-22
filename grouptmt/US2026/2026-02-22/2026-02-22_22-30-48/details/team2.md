@@ -318,8 +318,8 @@
 | 310 | 821 | Diallo Sparkman |
 | 311 | 818 | Lola Contreras |
 | 312 | 817 | Nett |
-| 313 | 816 | Jessica Wayne Cornwall |
-| 314 | 816 | James Simms III |
+| 313 | 816 | James Simms III |
+| 314 | 816 | Jessica Wayne Cornwall |
 | 315 | 810 | Andrea Maher |
 | 316 | 808 | Melissa McCall |
 | 317 | 808 | Desire Rice |
@@ -343,8 +343,8 @@
 | 335 | 773 | Diana Fitzwater |
 | 336 | 772 | Danielle Simmons |
 | 337 | 768 | Joshua Self |
-| 338 | 767 | Fancy Twister |
-| 339 | 767 | Ashley Lopez |
+| 338 | 767 | Ashley Lopez |
+| 339 | 767 | Fancy Twister |
 | 340 | 763 | Heather Causey |
 | 341 | 761 | Hyper Cluster |
 | 342 | 760 | Cheech Dta |
@@ -356,8 +356,8 @@
 | 348 | 751 | Loony Snapper |
 | 349 | 746 | Jerilyn Andrina |
 | 350 | 745 | Kiely Tomaskovich |
-| 351 | 743 | Melissa Cole |
-| 352 | 743 | Tiara Elizabeth Baker |
+| 351 | 743 | Tiara Elizabeth Baker |
+| 352 | 743 | Melissa Cole |
 | 353 | 741 | Mandi Douglas Hilt |
 | 354 | 740 | Jerry Tempelmeyer |
 | 355 | 739 | Jánine Riggs |
@@ -369,8 +369,8 @@
 | 361 | 732 | Stephanie Lumanlan |
 | 362 | 728 | Dylan Thomason |
 | 363 | 728 | Tom Riefer |
-| 364 | 725 | Vonceial Boone |
-| 365 | 725 | Charvi' Carter |
+| 364 | 725 | Charvi' Carter |
+| 365 | 725 | Vonceial Boone |
 | 366 | 724 | Melissa Holsinger |
 | 367 | 724 | Dreamy Blast |
 | 368 | 723 | Leslie Ann Carter |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -499,8 +499,8 @@
 | 491 | 558 | Libby Hicks |
 | 492 | 558 | Cheery Matchzone |
 | 493 | 557 | Victor Obiakarije |
-| 494 | 554 | Rachael Senard |
-| 495 | 554 | Dizzy Zone |
+| 494 | 554 | Dizzy Zone |
+| 495 | 554 | Rachael Senard |
 | 496 | 554 | Laquetta Royston |
 | 497 | 554 | Tra Barnum |
 | 498 | 552 | Crystal Elam |
@@ -643,10 +643,10 @@
 | 635 | 445 | Mar Q Thomas |
 | 636 | 445 | Michelle Sager |
 | 637 | 444 | Chab |
-| 638 | 444 | Fi Ne |
-| 639 | 444 | Angela Murgia-Owen |
-| 640 | 442 | Niceday |
-| 641 | 442 | Juan Castillo |
+| 638 | 444 | Angela Murgia-Owen |
+| 639 | 444 | Fi Ne |
+| 640 | 442 | Juan Castillo |
+| 641 | 442 | Niceday |
 | 642 | 438 | Crystal Heller Gonzalez |
 | 643 | 438 | Lynda Toland |
 | 644 | 435 | Regina Young |

@@ -59,8 +59,8 @@
 | 51 | 793 | Rebecca Moulton Pinciaro |
 | 52 | 790 | Jason Allen |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 751 | Rachel Anne |
 | 58 | 748 | loulou |
@@ -108,8 +108,8 @@
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Christina LR |
-| 104 | 499 | Trista Leah |
+| 103 | 499 | Trista Leah |
+| 104 | 499 | Christina LR |
 | 105 | 488 | Jen Allison |
 | 106 | 487 | Alyssa Papen |
 | 107 | 481 | Serena Goodridge |
@@ -194,8 +194,8 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Mary Ann Pabukis |
-| 190 | 277 | Kim Klutz Olson |
+| 189 | 277 | Kim Klutz Olson |
+| 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
 | 192 | 272 | Dennis Bradley |
 | 193 | 272 | Alan George LaRage |
