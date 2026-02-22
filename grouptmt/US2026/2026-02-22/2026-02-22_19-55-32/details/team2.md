@@ -279,8 +279,8 @@
 | 271 | 867 | Peppy Zone |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
-| 274 | 860 | William Hunt |
-| 275 | 860 | April Dawn Gussler |
+| 274 | 860 | April Dawn Gussler |
+| 275 | 860 | William Hunt |
 | 276 | 857 | Kara Gillen |
 | 277 | 855 | F-X |
 | 278 | 853 | Meghan M |
@@ -359,8 +359,8 @@
 | 351 | 710 | tejas25 |
 | 352 | 703 | Gold Rose |
 | 353 | 700 | Vincent Petrella |
-| 354 | 700 | Rosemadder |
-| 355 | 700 | Beverly Owens |
+| 354 | 700 | Beverly Owens |
+| 355 | 700 | Rosemadder |
 | 356 | 697 | Dreamy Blast |
 | 357 | 697 | Ashle Scranton |
 | 358 | 695 | Mama T |
@@ -544,7 +544,7 @@
 | 536 | 484 | Street Sweeper |
 | 537 | 482 | Kathleen Driskell |
 | 538 | 482 | Drwatson187 |
-| 539 | 482 | Kathleen Driskell |
+| 539 | 482 | Amélie Cadieux |
 | 540 | 481 | Quirky Twistline |
 | 541 | 481 | Anthony Huebel |
 | 542 | 480 | Bubbly Snapfit |

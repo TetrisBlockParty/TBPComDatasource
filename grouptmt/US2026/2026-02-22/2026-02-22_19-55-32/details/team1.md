@@ -280,8 +280,8 @@
 | 272 | 196 | Marci Sanders |
 | 273 | 195 | Jennifer Olewnik Soborowski |
 | 274 | 194 | Glitzy Buildsnap |
-| 275 | 194 | Tiger Lily |
-| 276 | 194 | Poppy Riserpiece |
+| 275 | 194 | Poppy Riserpiece |
+| 276 | 194 | Tiger Lily |
 | 277 | 193 | Phu ckalldems |
 | 278 | 193 | Lachelle Dillon |
 | 279 | 191 | J.F. Fields |
@@ -302,8 +302,8 @@
 | 294 | 183 | Tina Englert |
 | 295 | 183 | Dino |
 | 296 | 181 | David DeSantis |
-| 297 | 179 | Ryan White |
-| 298 | 179 | Speedy Snapfall |
+| 297 | 179 | Speedy Snapfall |
+| 298 | 179 | Ryan White |
 | 299 | 178 | Gabrielle Louise Malloch |
 | 300 | 178 | Silly Align |
 | 301 | 178 | .running. |

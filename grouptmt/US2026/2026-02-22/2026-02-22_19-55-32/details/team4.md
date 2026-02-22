@@ -167,9 +167,9 @@
 | 159 | 292 | Cursed Hag |
 | 160 | 292 | Rafael Valentin |
 | 161 | 291 | shark tato |
-| 162 | 290 | Keshia Lyons |
-| 163 | 290 | Damn Libra |
-| 164 | 290 | 🥔🥔 Spudz |
+| 162 | 290 | 🥔🥔 Spudz |
+| 163 | 290 | Keshia Lyons |
+| 164 | 290 | Damn Libra |
 | 165 | 290 | Chaz Duncan |
 | 166 | 288 | Andria Lynn |
 | 167 | 288 | Leah Kutz Zirbel |
@@ -384,8 +384,8 @@
 | 376 | 140 | Joshua W. Benton |
 | 377 | 140 | Rico |
 | 378 | 139 | Bradley Reeves |
-| 379 | 139 | Ann G. Carrillo |
-| 380 | 139 | Lori Goudy |
+| 379 | 139 | Lori Goudy |
+| 380 | 139 | Ann G. Carrillo |
 | 381 | 138 | Jasmine S Caldwell |
 | 382 | 138 | Moonsterix |
 | 383 | 138 | Janis Brown |

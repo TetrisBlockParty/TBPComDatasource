@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -119,11 +119,11 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Amber Hughes |
-| 115 | 625 | Shavette |
+| 114 | 625 | Shavette |
+| 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
-| 117 | 618 | Kristie |
-| 118 | 618 | Bea Miles |
+| 117 | 618 | Bea Miles |
+| 118 | 618 | Kristie |
 | 119 | 595 | Patricia White |
 | 120 | 589 | Giddy Drop |
 | 121 | 583 | Karon Griffin |
@@ -160,8 +160,8 @@
 | 152 | 479 | Annie Marie |
 | 153 | 479 | Patti Skiles |
 | 154 | 474 | Danielle Balcom |
-| 155 | 471 | Nora Rogers |
-| 156 | 471 | Mendoza Lee Christy |
+| 155 | 471 | Mendoza Lee Christy |
+| 156 | 471 | Nora Rogers |
 | 157 | 470 | Logan Naccarato |
 | 158 | 469 | Adrian Marcel Pate |
 | 159 | 468 | JerseyJess |
@@ -370,7 +370,7 @@
 | 362 | 214 | Randy Clevenger |
 | 363 | 213 | Romeo |
 | 364 | 213 | Jess Dearborn |
-| 365 | 211 | El Chapa |
+| 365 | 211 | Kirhonda Autmon |
 | 366 | 211 | TotoCherue |
 | 367 | 211 | Hoppy Patternline |
 | 368 | 211 | El Chapa |
