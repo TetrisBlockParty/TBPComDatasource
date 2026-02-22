@@ -95,8 +95,8 @@
 | 87 | 512 | Casey Jeffcoat |
 | 88 | 500 | Rodney McMath Jr. |
 | 89 | 493 | Judy Cox |
-| 90 | 488 | Shane Kalamata Platoon |
-| 91 | 488 | Jen Allison |
+| 90 | 488 | Jen Allison |
+| 91 | 488 | Shane Kalamata Platoon |
 | 92 | 486 | Carmethia Clemons Haslerig |
 | 93 | 448 | Kristin Manee |
 | 94 | 447 | Erin Thomas |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -176,8 +176,8 @@
 | 168 | 262 | Holly Jolly |
 | 169 | 262 | Joeliecea Cobb |
 | 170 | 262 | Juls |
-| 171 | 256 | Mylo Lipscomb |
-| 172 | 256 | Porkobello |
+| 171 | 256 | Porkobello |
+| 172 | 256 | Mylo Lipscomb |
 | 173 | 255 | Diana Houts |
 | 174 | 253 | Casey Grabner |
 | 175 | 251 | Matt Summer |
@@ -185,8 +185,8 @@
 | 177 | 245 | Peachy Fall |
 | 178 | 245 | Autum Leigh |
 | 179 | 244 | Twisty Cascadezone |
-| 180 | 244 | Mimi |
-| 181 | 244 | J-Rizzle |
+| 180 | 244 | J-Rizzle |
+| 181 | 244 | Mimi |
 | 182 | 241 | Allen Lloyd |
 | 183 | 241 | Jose Dejesus |
 | 184 | 239 | Zethra Prenisha Rahming |
@@ -469,11 +469,11 @@
 | 461 | 99 | Dapper Frame |
 | 462 | 99 | Dapper Caster |
 | 463 | 99 | Heather Layne Smith |
-| 464 | 99 | Matt Gooder |
-| 465 | 99 | Jacob Campbell |
-| 466 | 98 | Morti |
+| 464 | 99 | Jacob Campbell |
+| 465 | 99 | Matt Gooder |
+| 466 | 98 | LunaMoon |
 | 467 | 98 | Brenda Bird |
-| 468 | 98 | LunaMoon |
+| 468 | 98 | Morti |
 | 469 | 98 | Squeezy Pearsall |
 | 470 | 98 | Groovy Gridlock |
 | 471 | 98 | Hyper Builder |

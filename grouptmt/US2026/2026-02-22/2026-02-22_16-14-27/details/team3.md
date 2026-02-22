@@ -320,9 +320,9 @@
 | 312 | 216 | Tina Smith Roy |
 | 313 | 216 | Frothy Snapper |
 | 314 | 216 | Cheryl Hinch Tenbrook |
-| 315 | 214 | Jennifer Alvey |
-| 316 | 214 | Lizabeth Fox |
-| 317 | 214 | Randy Clevenger |
+| 315 | 214 | Randy Clevenger |
+| 316 | 214 | Jennifer Alvey |
+| 317 | 214 | Lizabeth Fox |
 | 318 | 214 | Amy Fuller Heaton |
 | 319 | 213 | Nicholas Roddy |
 | 320 | 213 | Romeo |
@@ -333,14 +333,14 @@
 | 325 | 211 | El Chapa |
 | 326 | 210 | Criss |
 | 327 | 210 | Eileen Brady Thurber |
-| 328 | 209 | TotoCherue |
-| 329 | 209 | Micayah Stevens |
+| 328 | 209 | Micayah Stevens |
+| 329 | 209 | TotoCherue |
 | 330 | 209 | Philip Rock |
 | 331 | 208 | AlsoJess |
 | 332 | 208 | Niki Dalrymple |
 | 333 | 207 | angieelyn |
-| 334 | 207 | Jessica |
-| 335 | 207 | Daring Builder |
+| 334 | 207 | Daring Builder |
+| 335 | 207 | Jessica |
 | 336 | 206 | Tammy Rosenberry |
 | 337 | 205 | Rachel Napper |
 | 338 | 205 | Kirhonda Autmon |

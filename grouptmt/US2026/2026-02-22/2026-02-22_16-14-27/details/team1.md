@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Snippy Wipebuilder |
 | 149 | 282 | Timothy Dew |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | MRdot Rooski |
-| 189 | 235 | Desiree Deschaine Havee |
+| 188 | 235 | Desiree Deschaine Havee |
+| 189 | 235 | MRdot Rooski |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
