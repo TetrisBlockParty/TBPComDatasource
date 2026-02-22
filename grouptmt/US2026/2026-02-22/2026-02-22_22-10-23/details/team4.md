@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -78,13 +78,13 @@
 | 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Savannah Overdorf |
-| 79 | 617 | Jason Hart |
+| 78 | 617 | Jason Hart |
+| 79 | 617 | Savannah Overdorf |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 435 | Leslie Thomas |
 | 118 | 431 | Courtney Cicoria |
 | 119 | 429 | Ren Mc |
-| 120 | 427 | KJ Pool |
-| 121 | 427 | Jolly Dashfit |
+| 120 | 427 | Jolly Dashfit |
+| 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
 | 123 | 417 | Monica Daley |
 | 124 | 414 | Nope Young |
@@ -144,8 +144,8 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Tyler Terrific |
-| 140 | 353 | Livvy |
+| 139 | 353 | Livvy |
+| 140 | 353 | Tyler Terrific |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | ThaEviLJeNiuZ |

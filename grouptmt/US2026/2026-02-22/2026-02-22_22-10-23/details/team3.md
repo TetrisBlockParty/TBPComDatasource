@@ -239,8 +239,8 @@
 | 231 | 348 | Kristal C Lee |
 | 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Roary Danner |
-| 235 | 344 | Rania Zaqout |
+| 234 | 344 | Rania Zaqout |
+| 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Bmo |
 | 238 | 341 | Ashley Tookes |
