@@ -153,8 +153,8 @@
 | 145 | 192 | Jessica Sheehan |
 | 146 | 192 | Shaykmia |
 | 147 | 191 | Diane Byrd |
-| 148 | 190 | Sweetts |
-| 149 | 190 | Thorne Shumate |
+| 148 | 190 | Thorne Shumate |
+| 149 | 190 | Sweetts |
 | 150 | 188 | Sam Williams |
 | 151 | 187 | Snippy Wipebuilder |
 | 152 | 187 | Jennifer Olewnik Soborowski |
@@ -262,8 +262,8 @@
 | 254 | 114 | Constance Risner |
 | 255 | 114 | Tyler Hertzog |
 | 256 | 113 | Jamie Jury |
-| 257 | 112 | Crystal Joslin |
-| 258 | 112 | Chris65 |
+| 257 | 112 | Chris65 |
+| 258 | 112 | Crystal Joslin |
 | 259 | 112 | Nerdy Curvebuilder |
 | 260 | 111 | Chirpy Smasher |
 | 261 | 111 | Rachel Nichole Henry |

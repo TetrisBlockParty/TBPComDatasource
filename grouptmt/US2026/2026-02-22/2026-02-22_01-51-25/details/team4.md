@@ -111,8 +111,8 @@
 | 103 | 273 | Carrie Brian |
 | 104 | 271 | Sarah Brown |
 | 105 | 268 | Meagan Nicole |
-| 106 | 264 | Epic Curvetile |
-| 107 | 264 | Girl |
+| 106 | 264 | Girl |
+| 107 | 264 | Epic Curvetile |
 | 108 | 258 | Brittney Orengo |
 | 109 | 257 | Holly Jolly |
 | 110 | 256 | Mylo Lipscomb |
@@ -134,8 +134,8 @@
 | 126 | 217 | Chaz Duncan |
 | 127 | 215 | Jessica Bohlken |
 | 128 | 214 | Monica Daley |
-| 129 | 212 | Mike Solo |
-| 130 | 212 | Calvin Cannon |
+| 129 | 212 | Calvin Cannon |
+| 130 | 212 | Mike Solo |
 | 131 | 211 | Twisty Cascadezone |
 | 132 | 210 | Swanky Fitline |
 | 133 | 207 | Scott Jameson |
@@ -715,7 +715,7 @@
 | 707 | 39 | Lucky2Guns |
 | 708 | 39 | Morgan Patrick |
 | 709 | 39 | Googenheim |
-| 710 | 39 | Kat |
+| 710 | 39 | Hoppy Clearer |
 | 711 | 39 | Ees17 |
 | 712 | 39 | Daws |
 | 713 | 38 | Khu Muas |

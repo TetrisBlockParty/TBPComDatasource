@@ -171,8 +171,8 @@
 | 163 | 286 | Cynthia Herrmann Egland |
 | 164 | 283 | Joye Sims Binion |
 | 165 | 278 | Rufus Lincoln |
-| 166 | 276 | Crimson |
-| 167 | 276 | _melisa223_ |
+| 166 | 276 | _melisa223_ |
+| 167 | 276 | Crimson |
 | 168 | 274 | Tye Stovall |
 | 169 | 272 | opf |
 | 170 | 272 | Rebecca Bailey |
@@ -181,13 +181,13 @@
 | 173 | 267 | Denise Nardoni |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tiffany Ford |
-| 177 | 261 | Tom Nault |
+| 176 | 261 | Tom Nault |
+| 177 | 261 | Tiffany Ford |
 | 178 | 260 | Grams |
 | 179 | 258 | Tamara Deherrera |
 | 180 | 257 | Ashley Jones |
-| 181 | 256 | KayB |
-| 182 | 256 | Brenda Lee Vander Molen |
+| 181 | 256 | Brenda Lee Vander Molen |
+| 182 | 256 | KayB |
 | 183 | 254 | Duane Bright |
 | 184 | 249 | Terry Jo Jones |
 | 185 | 247 | Rebecca Funderburk Kirby |
@@ -250,8 +250,8 @@
 | 242 | 189 | Katie Leigh Blankenship |
 | 243 | 188 | JerseyJess |
 | 244 | 185 | AlsoJess |
-| 245 | 184 | Troy |
-| 246 | 184 | France Vézina |
+| 245 | 184 | France Vézina |
+| 246 | 184 | Troy |
 | 247 | 181 | Nicholas Roddy |
 | 248 | 180 | Ryan Williams |
 | 249 | 180 | Loopy Fallmatch |

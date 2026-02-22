@@ -266,11 +266,11 @@
 | 258 | 589 | Shavonna Haynes |
 | 259 | 587 | Hyper Cluster |
 | 260 | 586 | Hoppy Brickmatch |
-| 261 | 583 | Jessicah Myers |
-| 262 | 583 | Steve Grotto |
+| 261 | 583 | Steve Grotto |
+| 262 | 583 | Jessicah Myers |
 | 263 | 582 | Gary Stash |
-| 264 | 579 | Juliana Marques Do Nascimento Gordy |
-| 265 | 579 | Roy Salyer |
+| 264 | 579 | Roy Salyer |
+| 265 | 579 | Juliana Marques Do Nascimento Gordy |
 | 266 | 578 | Sally Dennis |
 | 267 | 576 | Ginger |
 | 268 | 572 | tejas25 |
@@ -285,16 +285,16 @@
 | 277 | 549 | Kaylee McCafferty |
 | 278 | 547 | Giggy Blocker |
 | 279 | 544 | Leah Keesling |
-| 280 | 543 | Teresa Gillmore |
-| 281 | 543 | Adira Brown |
+| 280 | 543 | Adira Brown |
+| 281 | 543 | Teresa Gillmore |
 | 282 | 542 | Slip |
-| 283 | 535 | Paul Huber |
-| 284 | 535 | Jessie McDougald |
+| 283 | 535 | Jessie McDougald |
+| 284 | 535 | Paul Huber |
 | 285 | 531 | Chris Wanner |
-| 286 | 528 | Brownie Sheena |
-| 287 | 528 | Taylor Phillips |
-| 288 | 527 | Ryan Gunther |
-| 289 | 527 | Heather Causey |
+| 286 | 528 | Taylor Phillips |
+| 287 | 528 | Brownie Sheena |
+| 288 | 527 | Heather Causey |
+| 289 | 527 | Ryan Gunther |
 | 290 | 525 | Desiree Anderson |
 | 291 | 520 | Cheech Dta |
 | 292 | 519 | Rob Brown |
@@ -312,8 +312,8 @@
 | 304 | 502 | Poppy Snap |
 | 305 | 500 | Glitzy Stackzone |
 | 306 | 500 | Sarah Ridenour |
-| 307 | 499 | Alisa Lamb |
-| 308 | 499 | Sarah Massey |
+| 307 | 499 | Sarah Massey |
+| 308 | 499 | Alisa Lamb |
 | 309 | 498 | Lylymom |
 | 310 | 497 | Jeremy Parodi |
 | 311 | 492 | Armonie Smith |
@@ -343,8 +343,8 @@
 | 335 | 465 | Blacc Blac |
 | 336 | 463 | Sue Leard |
 | 337 | 460 | Cody Smith-Candelaria |
-| 338 | 459 | Doowop40 |
-| 339 | 459 | Brainy Smurf |
+| 338 | 459 | Brainy Smurf |
+| 339 | 459 | Doowop40 |
 | 340 | 458 | Casper The Chonk |
 | 341 | 455 | Sam Joe |
 | 342 | 454 | Nashu |
@@ -433,14 +433,14 @@
 | 425 | 381 | Bubbly Snapfit |
 | 426 | 381 | Melissa Rebbe-Lehman |
 | 427 | 378 | Christina Ashley |
-| 428 | 378 | TF Dyer |
-| 429 | 378 | Niceday |
+| 428 | 378 | Niceday |
+| 429 | 378 | TF Dyer |
 | 430 | 376 | Darlene Bowman |
 | 431 | 374 | Gloria Ininahazwe |
-| 432 | 371 | Brenda Messer |
-| 433 | 371 | AkaLefty |
-| 434 | 371 | Wuntayk |
-| 435 | 371 | Jaycee |
+| 432 | 371 | AkaLefty |
+| 433 | 371 | Brenda Messer |
+| 434 | 371 | Jaycee |
+| 435 | 371 | Wuntayk |
 | 436 | 370 | Angela Lynn |
 | 437 | 369 | Tony Lea |
 | 438 | 369 | Tara Lynn Janes |
@@ -605,8 +605,8 @@
 | 597 | 286 | SwampRebel |
 | 598 | 285 | June E Hanson |
 | 599 | 284 | Anita Rose Green |
-| 600 | 284 | August Hale |
-| 601 | 284 | Dapper Dasher |
+| 600 | 284 | Dapper Dasher |
+| 601 | 284 | August Hale |
 | 602 | 284 | Hillary Franklin |
 | 603 | 283 | Tash Bell |
 | 604 | 280 | Giddy Gridclear |
@@ -693,8 +693,8 @@
 | 685 | 248 | Gursharan Sandhu |
 | 686 | 248 | Angelina Marie |
 | 687 | 248 | Twisty Tetriblast |
-| 688 | 248 | Warren Marleau |
-| 689 | 248 | Kimberly Mitchell |
+| 688 | 248 | Kimberly Mitchell |
+| 689 | 248 | Warren Marleau |
 | 690 | 247 | Chab |
 | 691 | 246 | Swanky Snap |
 | 692 | 246 | Josh Webster |
@@ -703,8 +703,8 @@
 | 695 | 244 | Nakiiya Dreamcatcher Gore |
 | 696 | 243 | JacJac |
 | 697 | 243 | Albert McKnight |
-| 698 | 242 | Aimee Campbell |
-| 699 | 242 | Angela Yantz |
+| 698 | 242 | Angela Yantz |
+| 699 | 242 | Aimee Campbell |
 | 700 | 242 | Donna Chandler |
 | 701 | 241 | Nutty Slice |
 | 702 | 241 | Travis Tinsley |
