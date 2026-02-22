@@ -120,8 +120,8 @@
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
-| 115 | 403 | FuzzyNavel |
-| 116 | 403 | Christine Filson |
+| 115 | 403 | Christine Filson |
+| 116 | 403 | FuzzyNavel |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 399 | Patti Skiles |
 | 119 | 399 | ren |
@@ -149,8 +149,8 @@
 | 141 | 347 | Louise Stacy Sisson |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Dapper Snap |
-| 145 | 328 | Aaron Pitkin |
+| 144 | 328 | Aaron Pitkin |
+| 145 | 328 | Dapper Snap |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -172,8 +172,8 @@
 | 164 | 286 | Jacqueline Rodriguez |
 | 165 | 283 | Joye Sims Binion |
 | 166 | 278 | Rufus Lincoln |
-| 167 | 276 | Crimson |
-| 168 | 276 | _melisa223_ |
+| 167 | 276 | _melisa223_ |
+| 168 | 276 | Crimson |
 | 169 | 274 | Tye Stovall |
 | 170 | 272 | opf |
 | 171 | 272 | Rebecca Bailey |
@@ -223,12 +223,12 @@
 | 215 | 215 | IamJust Neyamijah Washington Sr. |
 | 216 | 214 | Amy Fuller Heaton |
 | 217 | 212 | Twisty Brick LT |
-| 218 | 211 | Khaleada McGill Banks |
-| 219 | 211 | Giddy Twistbuilder |
+| 218 | 211 | Giddy Twistbuilder |
+| 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Chris Bell |
-| 223 | 207 | Jessica |
+| 222 | 207 | Jessica |
+| 223 | 207 | Chris Bell |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Aerian Preston |
 | 226 | 204 | Danielle Allison |
@@ -241,18 +241,18 @@
 | 233 | 199 | Rebel124 |
 | 234 | 197 | Angie Harper |
 | 235 | 195 | Nicha Hooker |
-| 236 | 194 | Raven Dudley |
-| 237 | 194 | Demetrious Shaw Sr. |
-| 238 | 193 | Clever Shiftsnap |
-| 239 | 193 | Hyper Matchzone |
-| 240 | 193 | Stephanie Burtin |
+| 236 | 194 | Demetrious Shaw Sr. |
+| 237 | 194 | Raven Dudley |
+| 238 | 193 | Hyper Matchzone |
+| 239 | 193 | Stephanie Burtin |
+| 240 | 193 | Clever Shiftsnap |
 | 241 | 192 | Kelly Ann Child |
 | 242 | 191 | Scott Carleton |
 | 243 | 189 | Katie Leigh Blankenship |
 | 244 | 188 | JerseyJess |
 | 245 | 185 | AlsoJess |
-| 246 | 184 | France Vézina |
-| 247 | 184 | Troy |
+| 246 | 184 | Troy |
+| 247 | 184 | France Vézina |
 | 248 | 181 | Nicholas Roddy |
 | 249 | 180 | Ryan Williams |
 | 250 | 180 | Loopy Fallmatch |
@@ -270,8 +270,8 @@
 | 262 | 173 | BŘŰŤİÇŨŚ |
 | 263 | 173 | Denita Mungro |
 | 264 | 171 | Emma |
-| 265 | 170 | Cesar Barraza |
-| 266 | 170 | Dee Franklin |
+| 265 | 170 | Dee Franklin |
+| 266 | 170 | Cesar Barraza |
 | 267 | 169 | Eileen Brady Thurber |
 | 268 | 169 | Kristian Thurman |
 | 269 | 167 | fraulila |

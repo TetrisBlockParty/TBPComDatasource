@@ -365,8 +365,8 @@
 | 357 | 451 | Dylan Thomason |
 | 358 | 449 | Davetta Sanford |
 | 359 | 449 | Shelley Thornburgh Wright |
-| 360 | 448 | Jojo Momma |
-| 361 | 448 | Kimberly Randesi |
+| 360 | 448 | Kimberly Randesi |
+| 361 | 448 | Jojo Momma |
 | 362 | 447 | Heather Schelkopf |
 | 363 | 447 | Lourisha |
 | 364 | 445 | Mar Q Thomas |
@@ -676,8 +676,8 @@
 | 668 | 259 | Man of Steel |
 | 669 | 259 | Sarah Sims |
 | 670 | 258 | Tee Jaleesa |
-| 671 | 258 | Mordoks Pyrography |
-| 672 | 258 | Shylee Tilman |
+| 671 | 258 | Shylee Tilman |
+| 672 | 258 | Mordoks Pyrography |
 | 673 | 258 | Ocean-Brianna McGregor |
 | 674 | 257 | Mary Boss |
 | 675 | 257 | Luke Califf |
@@ -692,8 +692,8 @@
 | 684 | 253 | Tansaria Couch-Butler |
 | 685 | 252 | Sheniya Spurgeon |
 | 686 | 252 | Aleasha M Brown |
-| 687 | 250 | Emilie Desma |
-| 688 | 250 | Lianne Giandalone LaBounty |
+| 687 | 250 | Lianne Giandalone LaBounty |
+| 688 | 250 | Emilie Desma |
 | 689 | 250 | Dandy Combo |
 | 690 | 249 | Nicky Jackson |
 | 691 | 249 | J.L. Roberts |
