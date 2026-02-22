@@ -93,8 +93,8 @@
 | 85 | 510 | Dave Herzog |
 | 86 | 507 | Jennifer Petrie |
 | 87 | 506 | Sashay Tapae Simpson |
-| 88 | 503 | Susan Valentino |
-| 89 | 503 | Nate Burnside |
+| 88 | 503 | Nate Burnside |
+| 89 | 503 | Susan Valentino |
 | 90 | 502 | Justin Ritter |
 | 91 | 493 | Mandy Smith Oldham |
 | 92 | 491 | Chauntee Alfrey-Cardinale |
@@ -118,8 +118,8 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | Annie Déè |
-| 114 | 394 | joclisa |
+| 113 | 394 | joclisa |
+| 114 | 394 | Annie Déè |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
 | 117 | 390 | Patti Skiles |

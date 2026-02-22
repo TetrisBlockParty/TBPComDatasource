@@ -284,14 +284,14 @@
 | 276 | 543 | Adira Brown |
 | 277 | 543 | Teresa Gillmore |
 | 278 | 542 | Slip |
-| 279 | 535 | Jessie McDougald |
-| 280 | 535 | Paul Huber |
+| 279 | 535 | Paul Huber |
+| 280 | 535 | Jessie McDougald |
 | 281 | 531 | Chris Wanner |
-| 282 | 528 | Taylor Phillips |
-| 283 | 528 | Brownie Sheena |
-| 284 | 527 | Stacy Stickle |
-| 285 | 527 | Heather Causey |
-| 286 | 527 | Ryan Gunther |
+| 282 | 528 | Brownie Sheena |
+| 283 | 528 | Taylor Phillips |
+| 284 | 527 | Ryan Gunther |
+| 285 | 527 | Stacy Stickle |
+| 286 | 527 | Heather Causey |
 | 287 | 525 | Desiree Anderson |
 | 288 | 520 | Cheech Dta |
 | 289 | 519 | Rob Brown |
@@ -300,8 +300,8 @@
 | 292 | 514 | Dizzy Zone |
 | 293 | 513 | Angela Bonquiqui Dinish |
 | 294 | 511 | Laura Mclean |
-| 295 | 509 | Jordan Kaiser |
-| 296 | 509 | Kelli Wells |
+| 295 | 509 | Kelli Wells |
+| 296 | 509 | Jordan Kaiser |
 | 297 | 506 | Cherica Taylor |
 | 298 | 504 | Magic steve |
 | 299 | 503 | Matt Johnson |
@@ -323,8 +323,8 @@
 | 315 | 480 | Dar |
 | 316 | 478 | Ashley Collins |
 | 317 | 474 | Calandra Shaya Robinson |
-| 318 | 471 | Maya June |
-| 319 | 471 | Rae Rae |
+| 318 | 471 | Rae Rae |
+| 319 | 471 | Maya June |
 | 320 | 470 | Jerry Tempelmeyer |
 | 321 | 469 | Ashley Rose Frederick |
 | 322 | 469 | Amélie Cadieux |

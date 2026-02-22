@@ -133,8 +133,8 @@
 | 125 | 211 | Twisty Cascadezone |
 | 126 | 210 | Swanky Fitline |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Dana Scott |
-| 129 | 204 | Jen Caldwell |
+| 128 | 204 | Jen Caldwell |
+| 129 | 204 | Dana Scott |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -315,8 +315,8 @@
 | 307 | 93 | Hyper Builder |
 | 308 | 93 | JPW |
 | 309 | 93 | No Strings Attached Ra |
-| 310 | 92 | Bigeddie |
-| 311 | 92 | Frilly Blocky |
+| 310 | 92 | Frilly Blocky |
+| 311 | 92 | Bigeddie |
 | 312 | 91 | wombat |
 | 313 | 91 | Sunny Filler |
 | 314 | 90 | Carol Ricks Raymond |

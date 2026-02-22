@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Yvonne Marie |
-| 63 | 388 | Jennifer ManWarren |
+| 62 | 388 | Jennifer ManWarren |
+| 63 | 388 | Yvonne Marie |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -83,8 +83,8 @@
 | 75 | 338 | Tipsy Strikerpiece |
 | 76 | 333 | Brandi Huntington |
 | 77 | 333 | Dee Perry |
-| 78 | 328 | Gracie |
-| 79 | 328 | Kellie |
+| 78 | 328 | Kellie |
+| 79 | 328 | Gracie |
 | 80 | 326 | Luciano Moreira |
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
@@ -139,14 +139,14 @@
 | 131 | 203 | Paula Martin |
 | 132 | 203 | GATOR |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Shiny Gridmatch |
-| 135 | 198 | Happy Snapbuild |
+| 134 | 198 | Happy Snapbuild |
+| 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Ash Galvan |
 | 138 | 194 | Tyler Werts |
 | 139 | 193 | Lachelle Dillon |
-| 140 | 192 | Shaykmia |
-| 141 | 192 | Jessica Sheehan |
+| 140 | 192 | Jessica Sheehan |
+| 141 | 192 | Shaykmia |
 | 142 | 191 | Diane Byrd |
 | 143 | 190 | Sweetts |
 | 144 | 190 | Thorne Shumate |
