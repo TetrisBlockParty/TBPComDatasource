@@ -105,9 +105,9 @@
 | 97 | 409 | Yvonne Marie |
 | 98 | 401 | cc |
 | 99 | 400 | Cynthia Bradley |
-| 100 | 390 | Candy Jones |
-| 101 | 390 | Lori Bales |
-| 102 | 390 | Goose egg |
+| 100 | 390 | Lori Bales |
+| 101 | 390 | Goose egg |
+| 102 | 390 | Candy Jones |
 | 103 | 389 | Nery Martinez |
 | 104 | 385 | Brenda Stewart |
 | 105 | 383 | pjbeta |
@@ -116,8 +116,8 @@
 | 108 | 379 | Kimmie Kimms |
 | 109 | 376 | lil mickey |
 | 110 | 366 | David Miller |
-| 111 | 364 | Ly Phethmany |
-| 112 | 364 | Shauna Loe |
+| 111 | 364 | Shauna Loe |
+| 112 | 364 | Ly Phethmany |
 | 113 | 362 | Plucky Ziggy |
 | 114 | 360 | Wisa |
 | 115 | 359 | Chirpy Smasher |
@@ -146,8 +146,8 @@
 | 138 | 308 | Erin Hodges Plumb |
 | 139 | 308 | Sharon Reynolds |
 | 140 | 307 | Kimberly Garcia |
-| 141 | 306 | Bloknboy |
-| 142 | 306 | Happy Basegrid |
+| 141 | 306 | Happy Basegrid |
+| 142 | 306 | Bloknboy |
 | 143 | 304 | Nicole Roseberry Weber |
 | 144 | 303 | Chelsea Dahlquist |
 | 145 | 301 | Lehrin Maria |
@@ -401,11 +401,11 @@
 | 393 | 126 | Shiny Rotate |
 | 394 | 126 | Divaaa |
 | 395 | 125 | Angela Spann |
-| 396 | 124 | Dandy Towerbuilder |
-| 397 | 124 | Billie Ann Eason |
+| 396 | 124 | Billie Ann Eason |
+| 397 | 124 | Dandy Towerbuilder |
 | 398 | 123 | Jumpy Rotate |
-| 399 | 123 | Joe Coon |
-| 400 | 123 | Betsy |
+| 399 | 123 | Betsy |
+| 400 | 123 | Joe Coon |
 | 401 | 123 | Funky Piecebuilder |
 | 402 | 122 | Tyler L Hunt |
 | 403 | 121 | Amber Nixon |
@@ -442,9 +442,9 @@
 | 434 | 111 | Carol Rogers |
 | 435 | 111 | san |
 | 436 | 111 | Damon J. Martin |
-| 437 | 110 | Jeremy Maubert |
+| 437 | 110 | Logan McFarland |
 | 438 | 110 | Jennifer Corrado |
-| 439 | 110 | Logan McFarland |
+| 439 | 110 | Jeremy Maubert |
 | 440 | 110 | Jen |
 | 441 | 109 | Ariel Whittington |
 | 442 | 109 | Nicolette Ivory Chastain |

@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1204 | Alicia Bass |
@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 836 | Jae Job |
 | 43 | 834 | quicksand420 |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Tyler Terrific |
-| 123 | 353 | Livvy |
+| 122 | 353 | Livvy |
+| 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
@@ -145,8 +145,8 @@
 | 137 | 319 | Guy Incognito |
 | 138 | 318 | Lauren Scott |
 | 139 | 314 | Andy Cabral |
-| 140 | 307 | Bio Nelly |
-| 141 | 307 | Angela Srubar-Norman |
+| 140 | 307 | Angela Srubar-Norman |
+| 141 | 307 | Bio Nelly |
 | 142 | 305 | Shauna Havard |
 | 143 | 300 | Dana Scott |
 | 144 | 300 | Jason Hart |
@@ -169,8 +169,8 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Cursed Hag |
-| 165 | 268 | Trista Leah |
+| 164 | 268 | Trista Leah |
+| 165 | 268 | Cursed Hag |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Casey Grabner |
 | 168 | 267 | Damn Libra |
@@ -215,8 +215,8 @@
 | 207 | 221 | PurpleMoonMa |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | Cristy Duerksen |
-| 211 | 216 | ZeeZee |
+| 210 | 216 | ZeeZee |
+| 211 | 216 | Cristy Duerksen |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 214 | Holly |
@@ -287,8 +287,8 @@
 | 279 | 161 | Matt Gooder |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | Marcus Todd |
-| 283 | 159 | DonMega |
+| 282 | 159 | DonMega |
+| 283 | 159 | Marcus Todd |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | B Renee Desjardin |
 | 286 | 157 | Gracie Ann Taylor |
@@ -347,8 +347,8 @@
 | 339 | 141 | Heather Bruce |
 | 340 | 141 | Courtney Halleck |
 | 341 | 140 | Rico |
-| 342 | 139 | Lori Goudy |
-| 343 | 139 | O block |
+| 342 | 139 | O block |
+| 343 | 139 | Lori Goudy |
 | 344 | 138 | Ashlee Carnes |
 | 345 | 138 | Moonsterix |
 | 346 | 138 | Jasmine S Caldwell |

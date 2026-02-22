@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Tom Nault |
-| 197 | 372 | Giddy Twistbuilder |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
@@ -250,8 +250,8 @@
 | 242 | 289 | Duane Bright |
 | 243 | 289 | Hoppy Buildout |
 | 244 | 289 | DidIdothat |
-| 245 | 286 | Cynthia Herrmann Egland |
-| 246 | 286 | Tye Stovall |
+| 245 | 286 | Tye Stovall |
+| 246 | 286 | Cynthia Herrmann Egland |
 | 247 | 285 | Eon Harris |
 | 248 | 284 | Denise Nardoni |
 | 249 | 283 | Cheeky Snapper |

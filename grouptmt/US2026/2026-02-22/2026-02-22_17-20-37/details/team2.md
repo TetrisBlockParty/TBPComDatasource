@@ -136,8 +136,8 @@
 | 128 | 1380 | Jose Mendoza |
 | 129 | 1371 | Zappy Cascade |
 | 130 | 1347 | Alisa Lamb |
-| 131 | 1342 | Christi Hulet |
-| 132 | 1342 | Eboni Banks |
+| 131 | 1342 | Eboni Banks |
+| 132 | 1342 | Christi Hulet |
 | 133 | 1342 | Bob |
 | 134 | 1339 | Karen Martini-Stapleton |
 | 135 | 1338 | Dawn Geist-Weasner |
@@ -294,8 +294,8 @@
 | 286 | 787 | Laura McCarthey |
 | 287 | 783 | Lisa Ongtowasruk |
 | 288 | 781 | Angie Bolton Workman |
-| 289 | 777 | Tesha Oldaker |
-| 290 | 777 | Jessicah Myers |
+| 289 | 777 | Jessicah Myers |
+| 290 | 777 | Tesha Oldaker |
 | 291 | 777 | Samantha Jo |
 | 292 | 773 | Joshua Sommerville |
 | 293 | 772 | Kristin Gower |
@@ -335,8 +335,8 @@
 | 327 | 700 | Beverly Owens |
 | 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Dreamy Blast |
-| 331 | 697 | Ashle Scranton |
+| 330 | 697 | Ashle Scranton |
+| 331 | 697 | Dreamy Blast |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -475,14 +475,14 @@
 | 467 | 516 | Diamond Scott |
 | 468 | 515 | Victoria Regina Girolami |
 | 469 | 515 | Laquetta Royston |
-| 470 | 514 | Sarah Berger |
-| 471 | 514 | Karen Posadas Centeno |
+| 470 | 514 | Karen Posadas Centeno |
+| 471 | 514 | Sarah Berger |
 | 472 | 512 | Leslie Jorgenson |
 | 473 | 511 | Laura Mclean |
 | 474 | 509 | Kelli Wells |
 | 475 | 509 | Jordan Kaiser |
-| 476 | 507 | Magic steve |
-| 477 | 507 | Kitybox |
+| 476 | 507 | Kitybox |
+| 477 | 507 | Magic steve |
 | 478 | 502 | Michael Artis |
 | 479 | 501 | Ann Matzkanin |
 | 480 | 500 | Sarah Ridenour |
@@ -525,8 +525,8 @@
 | 517 | 473 | coleksquad |
 | 518 | 473 | Tracy Wise |
 | 519 | 473 | Ashlee Cruz |
-| 520 | 472 | Arwa Fatimah |
-| 521 | 472 | KayLynn Ogden McClelland |
+| 520 | 472 | KayLynn Ogden McClelland |
+| 521 | 472 | Arwa Fatimah |
 | 522 | 472 | Kyle LeRoy Harris |
 | 523 | 471 | Rae Rae |
 | 524 | 470 | Snippy Rumbler |
