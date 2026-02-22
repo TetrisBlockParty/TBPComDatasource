@@ -398,9 +398,9 @@
 | 390 | 130 | Carl Claunch |
 | 391 | 130 | DoodleBug |
 | 392 | 129 | Sherri E Woods Hess |
-| 393 | 128 | George Dalton |
-| 394 | 128 | Sarah Henniker |
-| 395 | 128 | Alyssa Ingram |
+| 393 | 128 | Alyssa Ingram |
+| 394 | 128 | George Dalton |
+| 395 | 128 | Sarah Henniker |
 | 396 | 127 | Frisky Risebuilder |
 | 397 | 126 | Shiny Rotate |
 | 398 | 126 | Zany Tiler |

@@ -166,8 +166,8 @@
 | 158 | 285 | Chaz Duncan |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
-| 161 | 277 | Mary Ann Pabukis |
-| 162 | 277 | Cursed Hag |
+| 161 | 277 | Cursed Hag |
+| 162 | 277 | Mary Ann Pabukis |
 | 163 | 276 | Alyssa Papen |
 | 164 | 275 | Trista Leah |
 | 165 | 273 | Crystal Nicolette Moore |
@@ -218,8 +218,8 @@
 | 210 | 219 | JPW |
 | 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | ZeeZee |
-| 214 | 216 | Cristy Duerksen |
+| 213 | 216 | Cristy Duerksen |
+| 214 | 216 | ZeeZee |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |
@@ -327,8 +327,8 @@
 | 319 | 148 | Janita Parrish |
 | 320 | 148 | Ruby Khalisadar |
 | 321 | 147 | Sticherella |
-| 322 | 147 | Jay28 |
-| 323 | 147 | ĥuf |
+| 322 | 147 | ĥuf |
+| 323 | 147 | Jay28 |
 | 324 | 146 | Brave Spinbuilder |
 | 325 | 145 | Sandra Safford |
 | 326 | 145 | Glitzy Crasher |
@@ -407,8 +407,8 @@
 | 399 | 122 | Spicy Cascadezone |
 | 400 | 122 | PennyCandee |
 | 401 | 122 | Kate |
-| 402 | 121 | Riverdale |
-| 403 | 121 | Cool Gridzone |
+| 402 | 121 | Cool Gridzone |
+| 403 | 121 | Riverdale |
 | 404 | 120 | wombat |
 | 405 | 120 | Bryan Hodgins |
 | 406 | 120 | Jay You |

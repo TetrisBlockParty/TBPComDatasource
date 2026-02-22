@@ -331,7 +331,7 @@
 | 323 | 221 | Ryan Williams |
 | 324 | 221 | Jaime Monhaut-Reed |
 | 325 | 221 | Desiree Gold |
-| 326 | 221 | Jaime Monhaut-Reed |
+| 326 | 221 | Vaners |
 | 327 | 220 | Beaudie Stroebel |
 | 328 | 220 | Tosha Griffey |
 | 329 | 218 | Eileen Brady Thurber |
@@ -359,8 +359,8 @@
 | 351 | 209 | TotoCherue |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | angieelyn |
-| 355 | 207 | Kristian Thurman |
+| 354 | 207 | Kristian Thurman |
+| 355 | 207 | angieelyn |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
@@ -368,7 +368,7 @@
 | 360 | 202 | Melanie Sherwood |
 | 361 | 202 | Tipsy Zonebuilder |
 | 362 | 201 | Hyper Matchzone |
-| 363 | 200 | Sharisse Baltimore |
+| 363 | 200 | Colleen Phelps |
 | 364 | 200 | glichmod |
 | 365 | 200 | Sharisse Baltimore |
 | 366 | 199 | Samantha Worley |
@@ -395,8 +395,8 @@
 | 387 | 189 | Deseree Ewing |
 | 388 | 188 | Crystal Hine |
 | 389 | 186 | Bryan Byrd |
-| 390 | 186 | Sameerah Smith |
-| 391 | 186 | Noettín Kan Zasnemoore |
+| 390 | 186 | Noettín Kan Zasnemoore |
+| 391 | 186 | Sameerah Smith |
 | 392 | 184 | Shanon R Jackson |
 | 393 | 184 | Salena Whitlock |
 | 394 | 183 | Smiley Zone |

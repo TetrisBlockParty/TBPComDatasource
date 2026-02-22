@@ -554,8 +554,8 @@
 | 546 | 463 | Jaye EL Hunter |
 | 547 | 463 | Cody Nishimura |
 | 548 | 463 | Mia Muse Best |
-| 549 | 462 | Amanda Ferrell |
-| 550 | 462 | Daphne Jordan |
+| 549 | 462 | Daphne Jordan |
+| 550 | 462 | Amanda Ferrell |
 | 551 | 462 | Jennifer Scott |
 | 552 | 460 | Tara Lynn Janes |
 | 553 | 460 | LaWanda Powell |
@@ -1223,8 +1223,8 @@
 | 1215 | 223 | Perky Rollfit |
 | 1216 | 223 | Keila Adames |
 | 1217 | 223 | Seth Wrieden |
-| 1218 | 222 | Preya Patel |
-| 1219 | 222 | Mimerz |
+| 1218 | 222 | Mimerz |
+| 1219 | 222 | Preya Patel |
 | 1220 | 222 | Daring Lift |
 | 1221 | 222 | Brittani Jones |
 | 1222 | 222 | Wacky Edgefit |
