@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Tom Nault |
-| 197 | 372 | Giddy Twistbuilder |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
@@ -247,8 +247,8 @@
 | 239 | 297 | Jojo M |
 | 240 | 296 | Katrina Turner |
 | 241 | 292 | Roary Danner |
-| 242 | 289 | Duane Bright |
-| 243 | 289 | Hoppy Buildout |
+| 242 | 289 | Hoppy Buildout |
+| 243 | 289 | Duane Bright |
 | 244 | 289 | DidIdothat |
 | 245 | 286 | Cynthia Herrmann Egland |
 | 246 | 286 | Tye Stovall |
@@ -276,8 +276,8 @@
 | 268 | 268 | Krystal Gerstberger |
 | 269 | 267 | April Matthew Kibble |
 | 270 | 267 | Tiffany Davie |
-| 271 | 266 | Quirky Dropzone |
-| 272 | 266 | Snappy Balancer |
+| 271 | 266 | Snappy Balancer |
+| 272 | 266 | Quirky Dropzone |
 | 273 | 265 | Nikki Pags |
 | 274 | 263 | Brenda Schmid Wood |
 | 275 | 262 | Joe-Maggie Mathews |
@@ -525,8 +525,8 @@
 | 517 | 141 | Autumn Phillimore |
 | 518 | 140 | Boldy Corner |
 | 519 | 140 | Christine Vosburgh |
-| 520 | 139 | Paula Little |
-| 521 | 139 | Brave Brickster |
+| 520 | 139 | Brave Brickster |
+| 521 | 139 | Paula Little |
 | 522 | 138 | Daisy Rocha |
 | 523 | 138 | paranoid |
 | 524 | 137 | Giggly Brickroll |

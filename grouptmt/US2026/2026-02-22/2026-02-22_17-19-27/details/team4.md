@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 832 | Jae Job |
@@ -169,11 +169,11 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Cursed Hag |
-| 165 | 268 | Trista Leah |
+| 164 | 268 | Trista Leah |
+| 165 | 268 | Cursed Hag |
 | 166 | 267 | Kathy Brookins |
-| 167 | 267 | Casey Grabner |
-| 168 | 267 | Damn Libra |
+| 167 | 267 | Damn Libra |
+| 168 | 267 | Casey Grabner |
 | 169 | 266 | Laura |
 | 170 | 265 | Jeff Brian Gates |
 | 171 | 265 | Chris Bernstein |
@@ -215,8 +215,8 @@
 | 207 | 221 | PurpleMoonMa |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | Cristy Duerksen |
-| 211 | 216 | ZeeZee |
+| 210 | 216 | ZeeZee |
+| 211 | 216 | Cristy Duerksen |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 214 | Holly |
@@ -241,9 +241,9 @@
 | 233 | 200 | Rebecca Morris |
 | 234 | 200 | Lori |
 | 235 | 199 | April Rondinone |
-| 236 | 198 | Keith Kelley |
+| 236 | 198 | Silly SeaWeed |
 | 237 | 198 | Calvin Dennis |
-| 238 | 198 | Silly SeaWeed |
+| 238 | 198 | Keith Kelley |
 | 239 | 197 | Gilles Lanctot |
 | 240 | 195 | Snippy Puzzle |
 | 241 | 195 | 中山成巳 |
@@ -287,8 +287,8 @@
 | 279 | 161 | Tanner Lund |
 | 280 | 161 | Matt Gooder |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | Marcus Todd |
-| 283 | 159 | DonMega |
+| 282 | 159 | DonMega |
+| 283 | 159 | Marcus Todd |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | Linda Alexander Downing |
 | 286 | 157 | Paige Kittles |
@@ -345,10 +345,10 @@
 | 337 | 141 | Joshua Cuellar |
 | 338 | 141 | Tony Pavelka |
 | 339 | 141 | Montiette Mcglown |
-| 340 | 141 | Tony Pavelka |
+| 340 | 141 | Kathy Allen |
 | 341 | 140 | Rico |
-| 342 | 139 | Lori Goudy |
-| 343 | 139 | O block |
+| 342 | 139 | O block |
+| 343 | 139 | Lori Goudy |
 | 344 | 138 | Ashlee Carnes |
 | 345 | 138 | Moonsterix |
 | 346 | 138 | Jasmine S Caldwell |
