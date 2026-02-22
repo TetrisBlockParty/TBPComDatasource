@@ -68,14 +68,14 @@
 | 60 | 621 | Cherry Parker |
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
-| 63 | 618 | Brandon Green |
-| 64 | 618 | MissTaylor |
+| 63 | 618 | MissTaylor |
+| 64 | 618 | Brandon Green |
 | 65 | 613 | Amber Hughes |
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
 | 68 | 588 | yoyo |
-| 69 | 582 | Natasha Jones |
-| 70 | 582 | Katrina Schroeder |
+| 69 | 582 | Katrina Schroeder |
+| 70 | 582 | Natasha Jones |
 | 71 | 581 | Danielle Mogg |
 | 72 | 580 | Amanda L Baker |
 | 73 | 576 | Dan Rob |
@@ -170,8 +170,8 @@
 | 162 | 261 | Tiffany Ford |
 | 163 | 260 | Louise Stacy Sisson |
 | 164 | 258 | Tamara Deherrera |
-| 165 | 256 | KayB |
-| 166 | 256 | ren |
+| 165 | 256 | ren |
+| 166 | 256 | KayB |
 | 167 | 255 | Tom Nault |
 | 168 | 254 | Duane Bright |
 | 169 | 249 | Santeria Trece Candles |
@@ -229,8 +229,8 @@
 | 221 | 189 | Aerian Preston |
 | 222 | 189 | Sissy Lowery Davis |
 | 223 | 188 | JerseyJess |
-| 224 | 186 | Sunny Rotater |
-| 225 | 186 | Hyper Matchzone |
+| 224 | 186 | Hyper Matchzone |
+| 225 | 186 | Sunny Rotater |
 | 226 | 185 | AlsoJess |
 | 227 | 184 | Troy |
 | 228 | 183 | Ashley Jones |

@@ -186,13 +186,13 @@
 | 178 | 156 | Shanae Grant |
 | 179 | 154 | Christy Jones |
 | 180 | 153 | ALFD |
-| 181 | 152 | Speedy Snapfall |
-| 182 | 152 | Jacqueline Unique |
+| 181 | 152 | Jacqueline Unique |
+| 182 | 152 | Speedy Snapfall |
 | 183 | 150 | Adele Rahman |
-| 184 | 148 | Shauntina Burke |
-| 185 | 148 | Bouncy Grid |
-| 186 | 147 | Davery Spencer Adair |
-| 187 | 147 | DaRascal |
+| 184 | 148 | Bouncy Grid |
+| 185 | 148 | Shauntina Burke |
+| 186 | 147 | DaRascal |
+| 187 | 147 | Davery Spencer Adair |
 | 188 | 145 | Agustin Duarte Orozco |
 | 189 | 144 | Miguel Teixeira |
 | 190 | 144 | Cranky Pattern |
@@ -213,7 +213,7 @@
 | 205 | 135 | Aimee Horton |
 | 206 | 133 | LD1 |
 | 207 | 133 | Kimberly Garcia |
-| 208 | 133 | LD1 |
+| 208 | 133 | Fmp |
 | 209 | 132 | Layzietyme |
 | 210 | 131 | Uhog SF |
 | 211 | 130 | Gilbert Ortiz Jr. |

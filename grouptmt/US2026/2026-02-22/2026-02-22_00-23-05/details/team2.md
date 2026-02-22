@@ -237,8 +237,8 @@
 | 229 | 618 | Brenda Utphall |
 | 230 | 618 | Gabby Jenner |
 | 231 | 612 | Brandon Armstrong |
-| 232 | 608 | Sommer Shope |
-| 233 | 608 | goofinoff |
+| 232 | 608 | goofinoff |
+| 233 | 608 | Sommer Shope |
 | 234 | 606 | Ellie Jonas |
 | 235 | 605 | Jelly |
 | 236 | 603 | Cassie Maynard |
