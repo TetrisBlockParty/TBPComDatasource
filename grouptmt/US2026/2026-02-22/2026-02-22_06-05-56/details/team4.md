@@ -139,8 +139,8 @@
 | 131 | 255 | Lindsay Ball |
 | 132 | 249 | Leah Kutz Zirbel |
 | 133 | 245 | Diana Houts |
-| 134 | 240 | Jolly Dashfit |
-| 135 | 240 | Peachy Fall |
+| 134 | 240 | Peachy Fall |
+| 135 | 240 | Jolly Dashfit |
 | 136 | 236 | Chastity Mitchell |
 | 137 | 232 | Crystal Nicolette Moore |
 | 138 | 232 | Chilly Crasher |

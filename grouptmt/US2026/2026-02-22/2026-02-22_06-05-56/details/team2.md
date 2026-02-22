@@ -572,8 +572,8 @@
 | 564 | 365 | Audrey Jones |
 | 565 | 364 | Shinette Dobson |
 | 566 | 364 | Jasmine Kenney |
-| 567 | 363 | Kia Humphery |
-| 568 | 363 | Michelle Sager |
+| 567 | 363 | Michelle Sager |
+| 568 | 363 | Kia Humphery |
 | 569 | 362 | Tracy Wise |
 | 570 | 362 | Jennifer Scott |
 | 571 | 361 | Lewis Sturgeon |
@@ -620,8 +620,8 @@
 | 612 | 337 | Sassy Pattern |
 | 613 | 337 | Tum |
 | 614 | 337 | Savannah Alexander |
-| 615 | 336 | Austin Wilson |
-| 616 | 336 | bru |
+| 615 | 336 | bru |
+| 616 | 336 | Austin Wilson |
 | 617 | 336 | Swanky Columnbuilder |
 | 618 | 335 | Brooke Leigh Strube |
 | 619 | 334 | Caitlyn Blackwell |

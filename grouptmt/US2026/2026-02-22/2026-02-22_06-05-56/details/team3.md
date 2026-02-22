@@ -160,8 +160,8 @@
 | 152 | 374 | Fallorina Susana |
 | 153 | 374 | Sherry Ogden |
 | 154 | 371 | Michael Nowogorski |
-| 155 | 370 | Logan Naccarato |
-| 156 | 370 | Danielle Allison |
+| 155 | 370 | Danielle Allison |
+| 156 | 370 | Logan Naccarato |
 | 157 | 370 | Santeria Trece Candles |
 | 158 | 368 | Stephanie Woods |
 | 159 | 366 | Adrian Marcel Pate |
@@ -240,11 +240,11 @@
 | 232 | 256 | KayB |
 | 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
-| 235 | 249 | JerseyJess |
-| 236 | 249 | Annie Marie |
+| 235 | 249 | Annie Marie |
+| 236 | 249 | JerseyJess |
 | 237 | 246 | Eon Harris |
-| 238 | 246 | Rochelle Hazelett |
-| 239 | 246 | Peppy Shifter |
+| 238 | 246 | Peppy Shifter |
+| 239 | 246 | Rochelle Hazelett |
 | 240 | 245 | Latoya Mayne |
 | 241 | 240 | Jimmie Clemons |
 | 242 | 236 | Jess Bissett |
