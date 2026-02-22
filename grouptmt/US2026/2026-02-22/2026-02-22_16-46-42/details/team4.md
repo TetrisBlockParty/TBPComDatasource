@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -168,8 +168,8 @@
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
-| 163 | 268 | Trista Leah |
-| 164 | 268 | Cursed Hag |
+| 163 | 268 | Cursed Hag |
+| 164 | 268 | Trista Leah |
 | 165 | 267 | Kathy Brookins |
 | 166 | 267 | Damn Libra |
 | 167 | 267 | Casey Grabner |
@@ -304,8 +304,8 @@
 | 296 | 150 | Brandon Link |
 | 297 | 150 | GBR |
 | 298 | 148 | Nubian1 |
-| 299 | 148 | Cranky Rollpiece |
-| 300 | 148 | Sam Middleton |
+| 299 | 148 | Sam Middleton |
+| 300 | 148 | Cranky Rollpiece |
 | 301 | 148 | Ruby Khalisadar |
 | 302 | 148 | Janita Parrish |
 | 303 | 147 | Andrew Dang |
@@ -519,7 +519,7 @@
 | 511 | 88 | Joe Lonnemann |
 | 512 | 88 | Eric Wren |
 | 513 | 88 | Renee Marshall |
-| 514 | 88 | Eric Wren |
+| 514 | 88 | April Spoelma |
 | 515 | 88 | Chao Ma |
 | 516 | 87 | Derek Pendarvis |
 | 517 | 87 | Martha Lucinda Bishop |

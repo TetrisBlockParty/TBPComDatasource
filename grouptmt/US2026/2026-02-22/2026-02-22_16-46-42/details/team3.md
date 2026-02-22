@@ -122,8 +122,8 @@
 | 114 | 568 | Rachael McClain Owens |
 | 115 | 566 | Dolores Falco |
 | 116 | 565 | Patty Allen |
-| 117 | 562 | Dave Herzog |
-| 118 | 562 | Louise Stacy Sisson |
+| 117 | 562 | Louise Stacy Sisson |
+| 118 | 562 | Dave Herzog |
 | 119 | 554 | joclisa |
 | 120 | 550 | Nicole Myers |
 | 121 | 537 | Sunny Rotater |
@@ -258,8 +258,8 @@
 | 250 | 282 | Angie Harper |
 | 251 | 281 | Carrie Huskey |
 | 252 | 280 | Terry Jo Jones |
-| 253 | 278 | Sabrina Hardrick |
-| 254 | 278 | Rufus Lincoln |
+| 253 | 278 | Rufus Lincoln |
+| 254 | 278 | Sabrina Hardrick |
 | 255 | 277 | Tracy Martin |
 | 256 | 276 | Crimson |
 | 257 | 276 | _melisa223_ |
@@ -388,8 +388,8 @@
 | 380 | 186 | Bryan Byrd |
 | 381 | 186 | Noettín Kan Zasnemoore |
 | 382 | 186 | Sameerah Smith |
-| 383 | 185 | Angella Lyons |
-| 384 | 185 | Frilly Stackzone |
+| 383 | 185 | Frilly Stackzone |
+| 384 | 185 | Angella Lyons |
 | 385 | 184 | Shanon R Jackson |
 | 386 | 184 | Salena Whitlock |
 | 387 | 183 | Smiley Zone |
