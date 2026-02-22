@@ -170,8 +170,8 @@
 | 162 | 1048 | PsychKIRAtrist |
 | 163 | 1047 | Amy Sayers |
 | 164 | 1045 | Lourisha |
-| 165 | 1043 | Suki Kaur |
-| 166 | 1043 | Brave Dropmatch |
+| 165 | 1043 | Brave Dropmatch |
+| 166 | 1043 | Suki Kaur |
 | 167 | 1035 | Sarah Freitas |
 | 168 | 1026 | Heather Westrum |
 | 169 | 1023 | Brainy Smurf |
@@ -195,8 +195,8 @@
 | 187 | 950 | Teresa Gillmore |
 | 188 | 944 | Nika Bee |
 | 189 | 942 | Keri Womack |
-| 190 | 941 | Cool Clearer |
-| 191 | 941 | Marie Boyd Faulk |
+| 190 | 941 | Marie Boyd Faulk |
+| 191 | 941 | Cool Clearer |
 | 192 | 935 | William Meussner |
 | 193 | 932 | Catina Hutchison |
 | 194 | 925 | Moose Griffith |
@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -246,16 +246,16 @@
 | 238 | 777 | Jessicah Myers |
 | 239 | 777 | Tesha Oldaker |
 | 240 | 772 | Stephen Stephen |
-| 241 | 772 | William Hunt |
-| 242 | 772 | Sam Joe |
+| 241 | 772 | Sam Joe |
+| 242 | 772 | William Hunt |
 | 243 | 771 | Terri McKelvey McKinley |
 | 244 | 769 | Adira Brown |
 | 245 | 767 | Jessica Wayne Cornwall |
 | 246 | 766 | Lisa Ongtowasruk |
 | 247 | 765 | Jodi Blake |
 | 248 | 764 | Pacynthia Williams |
-| 249 | 763 | Mischelle Clay |
-| 250 | 763 | Samantha Jo |
+| 249 | 763 | Samantha Jo |
+| 250 | 763 | Mischelle Clay |
 | 251 | 763 | Beth |
 | 252 | 759 | Desire Rice |
 | 253 | 756 | Stephanie Neuburger |
@@ -316,8 +316,8 @@
 | 308 | 650 | Shiny Rollzone |
 | 309 | 645 | tejas25 |
 | 310 | 643 | Hoppy Brickmatch |
-| 311 | 641 | Angie Bolton Workman |
-| 312 | 641 | Joce Lynn |
+| 311 | 641 | Joce Lynn |
+| 312 | 641 | Angie Bolton Workman |
 | 313 | 640 | BYM4L |
 | 314 | 639 | Crystie Hicks |
 | 315 | 639 | Rebecca Miller |
@@ -387,8 +387,8 @@
 | 379 | 524 | Jojo Momma |
 | 380 | 524 | Shaun Church |
 | 381 | 523 | Matt Johnson |
-| 382 | 522 | Joseph Musick |
-| 383 | 522 | Lylymom |
+| 382 | 522 | Lylymom |
+| 383 | 522 | Joseph Musick |
 | 384 | 521 | Tj Ball |
 | 385 | 520 | Maddy Petersen |
 | 386 | 520 | Angela Lynn |
@@ -458,8 +458,8 @@
 | 450 | 466 | Crystal Greene |
 | 451 | 465 | Davetta Sanford |
 | 452 | 464 | snkylnk |
-| 453 | 463 | Jaye EL Hunter |
-| 454 | 463 | Sue Leard |
+| 453 | 463 | Sue Leard |
+| 454 | 463 | Jaye EL Hunter |
 | 455 | 462 | Jarboe |
 | 456 | 462 | Daphne Jordan |
 | 457 | 462 | Amanda Ferrell |
@@ -473,8 +473,8 @@
 | 465 | 451 | Cody Nishimura |
 | 466 | 451 | Dylan Thomason |
 | 467 | 450 | Cheery Matchzone |
-| 468 | 447 | Jessica S Flecha |
-| 469 | 447 | Brandy Andre |
+| 468 | 447 | Brandy Andre |
+| 469 | 447 | Jessica S Flecha |
 | 470 | 447 | Heather Schelkopf |
 | 471 | 446 | Snippy Rumbler |
 | 472 | 445 | Mar Q Thomas |

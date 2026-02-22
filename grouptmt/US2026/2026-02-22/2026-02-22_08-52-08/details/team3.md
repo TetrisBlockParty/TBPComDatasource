@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Amanda L Baker |
-| 58 | 895 | Shonna Roberts |
+| 57 | 895 | Shonna Roberts |
+| 58 | 895 | Amanda L Baker |
 | 59 | 886 | Khristen AC |
 | 60 | 874 | Jessica Pineda-Lopez |
 | 61 | 871 | Elaine Webb Graves |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Jay Horn |
-| 96 | 582 | Natasha Jones |
+| 95 | 582 | Natasha Jones |
+| 96 | 582 | Jay Horn |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -223,8 +223,8 @@
 | 215 | 289 | Duane Bright |
 | 216 | 286 | Cynthia Herrmann Egland |
 | 217 | 284 | Denise Nardoni |
-| 218 | 283 | Charles Perrone |
-| 219 | 283 | Cheeky Snapper |
+| 218 | 283 | Cheeky Snapper |
+| 219 | 283 | Charles Perrone |
 | 220 | 281 | Valerie Gendron |
 | 221 | 278 | Rufus Lincoln |
 | 222 | 278 | Jojo M |
@@ -553,12 +553,12 @@
 | 545 | 106 | SaSa Mac |
 | 546 | 105 | Emi |
 | 547 | 105 | Kristi Taylor |
-| 548 | 105 | Emi |
+| 548 | 105 | Zac Hudak |
 | 549 | 105 | Amy Wheeler |
 | 550 | 104 | Jessica Rose-Morgan |
 | 551 | 104 | bean |
-| 552 | 104 | Johnathan Dowe |
-| 553 | 104 | Jana Fagg |
+| 552 | 104 | Jana Fagg |
+| 553 | 104 | Johnathan Dowe |
 | 554 | 103 | Snappy Balancer |
 | 555 | 103 | Lisa Lisa |
 | 556 | 103 | Heather Bateman |

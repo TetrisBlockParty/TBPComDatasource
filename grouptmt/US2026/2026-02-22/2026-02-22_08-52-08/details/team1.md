@@ -86,8 +86,8 @@
 | 78 | 406 | Yvonne Marie |
 | 79 | 400 | Cynthia Bradley |
 | 80 | 390 | Candy Jones |
-| 81 | 389 | Lori Bales |
-| 82 | 389 | Trina Gee |
+| 81 | 389 | Trina Gee |
+| 82 | 389 | Lori Bales |
 | 83 | 388 | Jennifer ManWarren |
 | 84 | 388 | cc |
 | 85 | 383 | Loony Fitzone |
@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Lexuriuos Lifestlye |
-| 140 | 264 | Jenny Gingrich Fuentes |
+| 139 | 264 | Jenny Gingrich Fuentes |
+| 140 | 264 | Lexuriuos Lifestlye |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 257 | Amanda Jarnagin |
