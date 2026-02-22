@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Kimyatta Cavin |
-| 64 | 636 | Dustee Craddock-Harrison |
+| 63 | 636 | Dustee Craddock-Harrison |
+| 64 | 636 | Kimyatta Cavin |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
@@ -183,8 +183,8 @@
 | 175 | 234 | Cursed Hag |
 | 176 | 232 | Crystal Nicolette Moore |
 | 177 | 230 | Autum Leigh |
-| 178 | 227 | Alyssa Papen |
-| 179 | 227 | Andria Lynn |
+| 178 | 227 | Andria Lynn |
+| 179 | 227 | Alyssa Papen |
 | 180 | 224 | Matt Summer |
 | 181 | 223 | Antony Dwayne Beasley |
 | 182 | 222 | blockstar |
@@ -201,9 +201,9 @@
 | 193 | 212 | Joanna |
 | 194 | 211 | Jenna McGeorge |
 | 195 | 210 | Austin Owens |
-| 196 | 209 | Lindsey Gonzalez |
-| 197 | 209 | Sam Bishop |
-| 198 | 209 | Rafael Valentin |
+| 196 | 209 | Sam Bishop |
+| 197 | 209 | Rafael Valentin |
+| 198 | 209 | Lindsey Gonzalez |
 | 199 | 208 | Stacey Stano |
 | 200 | 207 | Chirpy Basepiece |
 | 201 | 207 | scott |
@@ -272,8 +272,8 @@
 | 264 | 159 | Marcus Todd |
 | 265 | 159 | DonMega |
 | 266 | 158 | Chair |
-| 267 | 157 | Bethany Ison |
-| 268 | 157 | Paige Kittles |
+| 267 | 157 | Paige Kittles |
+| 268 | 157 | Bethany Ison |
 | 269 | 157 | KayM |
 | 270 | 157 | B Renee Desjardin |
 | 271 | 156 | Ultramarine |
@@ -627,8 +627,8 @@
 | 619 | 67 | Selena Shaw |
 | 620 | 67 | Frank Joseph Epson |
 | 621 | 66 | Bubbly Twistpiece |
-| 622 | 66 | Savannah Roughton Jones |
-| 623 | 66 | Carlos G Reyes |
+| 622 | 66 | Carlos G Reyes |
+| 623 | 66 | Savannah Roughton Jones |
 | 624 | 66 | James Philpot Ross |
 | 625 | 66 | Amanda Maciel Clarke |
 | 626 | 65 | Tianna Frey |

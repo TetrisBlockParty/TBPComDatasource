@@ -107,14 +107,14 @@
 | 99 | 591 | Jesse Olive |
 | 100 | 589 | Giddy Drop |
 | 101 | 588 | yoyo |
-| 102 | 582 | Jay Horn |
-| 103 | 582 | Natasha Jones |
+| 102 | 582 | Natasha Jones |
+| 103 | 582 | Jay Horn |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 560 | Christine Filson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 551 | Kristie |
@@ -173,8 +173,8 @@
 | 165 | 399 | Marcie Bressler |
 | 166 | 397 | Annie Déè |
 | 167 | 393 | Fallorina Susana |
-| 168 | 391 | Calista Jo Dickson |
-| 169 | 391 | Sarah Cowan Burgos |
+| 168 | 391 | Sarah Cowan Burgos |
+| 169 | 391 | Calista Jo Dickson |
 | 170 | 390 | Hasty Cascadefit |
 | 171 | 389 | Jeni Dow |
 | 172 | 385 | Shunta Jacobs |
@@ -190,13 +190,13 @@
 | 182 | 370 | Danielle Allison |
 | 183 | 368 | Stephanie Woods |
 | 184 | 366 | Adrian Marcel Pate |
-| 185 | 362 | Rochelle Hazelett |
-| 186 | 362 | Darlene McMillan |
+| 185 | 362 | Darlene McMillan |
+| 186 | 362 | Rochelle Hazelett |
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Tom Nault |
-| 191 | 357 | Stephanie Burtin |
+| 190 | 357 | Stephanie Burtin |
+| 191 | 357 | Tom Nault |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -317,8 +317,8 @@
 | 309 | 210 | Criss |
 | 310 | 210 | Lizabeth Fox |
 | 311 | 209 | Micayah Stevens |
-| 312 | 208 | AlsoJess |
-| 313 | 208 | Niki Dalrymple |
+| 312 | 208 | Niki Dalrymple |
+| 313 | 208 | AlsoJess |
 | 314 | 207 | angieelyn |
 | 315 | 207 | ROODBOY |
 | 316 | 207 | Daring Builder |
@@ -481,10 +481,10 @@
 | 473 | 137 | Hanna Kim |
 | 474 | 137 | Cheery Brickster |
 | 475 | 137 | Giggly Brickroll |
-| 476 | 136 | Tia Moore |
+| 476 | 136 | Sabrina Mansfield |
 | 477 | 136 | Stephanie Zahm |
-| 478 | 136 | Carli Jean |
-| 479 | 136 | Sabrina Mansfield |
+| 478 | 136 | Tia Moore |
+| 479 | 136 | Carli Jean |
 | 480 | 136 | Karen Picaboo |
 | 481 | 135 | Christian Luna |
 | 482 | 135 | Morgan Cudo |

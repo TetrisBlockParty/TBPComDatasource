@@ -156,8 +156,8 @@
 | 148 | 276 | Dandy Basegrid |
 | 149 | 273 | Sassy Builderline |
 | 150 | 272 | Tana |
-| 151 | 270 | Mandyy Rae |
-| 152 | 270 | Ash Galvan |
+| 151 | 270 | Ash Galvan |
+| 152 | 270 | Mandyy Rae |
 | 153 | 268 | Jessi Sauer |
 | 154 | 268 | GATOR |
 | 155 | 265 | Nutty Spinblock |
