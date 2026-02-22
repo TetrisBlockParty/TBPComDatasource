@@ -52,8 +52,8 @@
 | 44 | 646 | Jacqueline Helm |
 | 45 | 634 | Anthony Bryan Riva |
 | 46 | 632 | Kimyatta Cavin |
-| 47 | 630 | Dustee Craddock-Harrison |
-| 48 | 630 | Chilly Line |
+| 47 | 630 | Chilly Line |
+| 48 | 630 | Dustee Craddock-Harrison |
 | 49 | 627 | Jonathan Kimbrough |
 | 50 | 623 | Robin Getchel |
 | 51 | 614 | KM8 |
@@ -129,8 +129,8 @@
 | 121 | 274 | Desi Desporte |
 | 122 | 271 | Sarah Brown |
 | 123 | 264 | Girl |
-| 124 | 264 | Epic Curvetile |
-| 125 | 264 | Dana Scott |
+| 124 | 264 | Dana Scott |
+| 125 | 264 | Epic Curvetile |
 | 126 | 262 | Holly Jolly |
 | 127 | 262 | Zippy Gridlock |
 | 128 | 258 | Brittney Orengo |
@@ -152,8 +152,8 @@
 | 144 | 223 | Antony Dwayne Beasley |
 | 145 | 222 | Joeliecea Cobb |
 | 146 | 222 | TheNeesh50 |
-| 147 | 221 | Rheanda Weaskus |
-| 148 | 221 | PurpleMoonMa |
+| 147 | 221 | PurpleMoonMa |
+| 148 | 221 | Rheanda Weaskus |
 | 149 | 220 | Matt Dell'Olio |
 | 150 | 218 | Casey Grabner |
 | 151 | 217 | Chaz Duncan |
@@ -168,8 +168,8 @@
 | 160 | 205 | Cursed Hag |
 | 161 | 205 | Kathy Brookins |
 | 162 | 204 | Jen Caldwell |
-| 163 | 203 | Chris Bernstein |
-| 164 | 203 | Katherine Crane |
+| 163 | 203 | Katherine Crane |
+| 164 | 203 | Chris Bernstein |
 | 165 | 202 | TRCuse |
 | 166 | 201 | Chance Strickland |
 | 167 | 201 | Melvin Baird |

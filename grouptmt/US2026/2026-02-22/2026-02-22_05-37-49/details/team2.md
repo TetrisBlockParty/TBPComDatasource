@@ -237,8 +237,8 @@
 | 229 | 755 | Katrina Weston |
 | 230 | 753 | SaraMarie Eveland |
 | 231 | 751 | Loony Snapper |
-| 232 | 749 | Pacynthia Williams |
-| 233 | 749 | Debra Williams |
+| 232 | 749 | Debra Williams |
+| 233 | 749 | Pacynthia Williams |
 | 234 | 747 | Mischelle Clay |
 | 235 | 742 | Jerilyn Andrina |
 | 236 | 739 | Keri Womack |

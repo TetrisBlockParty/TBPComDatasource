@@ -85,8 +85,8 @@
 | 77 | 649 | MissTaylor |
 | 78 | 628 | Tiff Vs Tiffany |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |
@@ -507,8 +507,8 @@
 | 499 | 104 | bean |
 | 500 | 104 | Jessica Rose-Morgan |
 | 501 | 103 | Chenoa Urban Sophicated Redy |
-| 502 | 103 | Breanna Marsden |
-| 503 | 103 | Heather Bateman |
+| 502 | 103 | Heather Bateman |
+| 503 | 103 | Breanna Marsden |
 | 504 | 103 | Lisa Lisa |
 | 505 | 102 | Kevin Russell |
 | 506 | 102 | Kaitie Oliver |
