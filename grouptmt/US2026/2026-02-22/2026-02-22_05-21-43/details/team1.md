@@ -130,8 +130,8 @@
 | 122 | 276 | Dandy Basegrid |
 | 123 | 266 | Jason Jones |
 | 124 | 265 | SkipTheSadSauce |
-| 125 | 264 | Jenny Gingrich Fuentes |
-| 126 | 264 | Lexuriuos Lifestlye |
+| 125 | 264 | Lexuriuos Lifestlye |
+| 126 | 264 | Jenny Gingrich Fuentes |
 | 127 | 263 | Sharon Reynolds |
 | 128 | 256 | David Miller |
 | 129 | 253 | Arianna O'Brien |
@@ -169,12 +169,12 @@
 | 161 | 206 | BadG52 |
 | 162 | 205 | Tater |
 | 163 | 204 | Lacy Wolfe |
-| 164 | 203 | LaFontaine Leslie |
-| 165 | 203 | Paula Martin |
+| 164 | 203 | Paula Martin |
+| 165 | 203 | LaFontaine Leslie |
 | 166 | 201 | Sam Williams |
 | 167 | 199 | Basment Living |
-| 168 | 198 | Happy Snapbuild |
-| 169 | 198 | Shiny Gridmatch |
+| 168 | 198 | Shiny Gridmatch |
+| 169 | 198 | Happy Snapbuild |
 | 170 | 197 | Amanda Jarnagin |
 | 171 | 195 | Shaykmia |
 | 172 | 194 | Tyler Werts |

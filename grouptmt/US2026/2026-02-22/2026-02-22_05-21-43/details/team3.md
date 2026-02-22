@@ -148,8 +148,8 @@
 | 140 | 399 | Mcathen |
 | 141 | 397 | Annie Déè |
 | 142 | 396 | Aaron Pitkin |
-| 143 | 392 | Tasha Gillespie |
-| 144 | 392 | Katie Knaus |
+| 143 | 392 | Katie Knaus |
+| 144 | 392 | Tasha Gillespie |
 | 145 | 391 | Calista Jo Dickson |
 | 146 | 390 | Hasty Cascadefit |
 | 147 | 389 | Jeni Dow |
@@ -315,12 +315,12 @@
 | 307 | 169 | Peachy Rollfit |
 | 308 | 169 | Kristian Thurman |
 | 309 | 168 | Trice Thomas |
-| 310 | 167 | Romeo |
-| 311 | 167 | Shicken Nuggit |
+| 310 | 167 | Shicken Nuggit |
+| 311 | 167 | Romeo |
 | 312 | 166 | Noettín Kan Zasnemoore |
 | 313 | 166 | April Matthew Kibble |
-| 314 | 165 | Irene Arreguin |
-| 315 | 165 | Kali Kelz Williams |
+| 314 | 165 | Kali Kelz Williams |
+| 315 | 165 | Irene Arreguin |
 | 316 | 163 | Diana Ibarra |
 | 317 | 163 | Stephanie Hill |
 | 318 | 163 | Christine Trester |

@@ -120,8 +120,8 @@
 | 112 | 1252 | Katrina Williams Balmir |
 | 113 | 1248 | Howard Forest |
 | 114 | 1242 | Altamirano Michael |
-| 115 | 1232 | Groovy Puzzle |
-| 116 | 1232 | Isabela Shaw |
+| 115 | 1232 | Isabela Shaw |
+| 116 | 1232 | Groovy Puzzle |
 | 117 | 1226 | Vo'Landa Reels |
 | 118 | 1216 | Kristin Ruest |
 | 119 | 1215 | Megan Garrick |
@@ -286,13 +286,13 @@
 | 278 | 647 | Peppy Zone |
 | 279 | 647 | Ashle Scranton |
 | 280 | 643 | Hoppy Brickmatch |
-| 281 | 641 | Joce Lynn |
-| 282 | 641 | Angie Bolton Workman |
+| 281 | 641 | Angie Bolton Workman |
+| 282 | 641 | Joce Lynn |
 | 283 | 640 | BYM4L |
 | 284 | 639 | Crystie Hicks |
 | 285 | 639 | Rebecca Miller |
-| 286 | 635 | Diana Fitzwater |
-| 287 | 635 | William Hunt |
+| 286 | 635 | William Hunt |
+| 287 | 635 | Diana Fitzwater |
 | 288 | 632 | Beth |
 | 289 | 631 | Marie Walker |
 | 290 | 629 | Sleepypanda67 |
@@ -535,8 +535,8 @@
 | 527 | 375 | Lively Edgepiece |
 | 528 | 375 | Wuntayk |
 | 529 | 374 | Elisheva Mizrachi |
-| 530 | 373 | Hunter Connors |
-| 531 | 373 | Jessica Hughes |
+| 530 | 373 | Jessica Hughes |
+| 531 | 373 | Hunter Connors |
 | 532 | 372 | Ebony Deloach Bryant |
 | 533 | 371 | Giggy Grabber |
 | 534 | 371 | Brenda Messer |
@@ -736,8 +736,8 @@
 | 728 | 273 | MamaBear11 |
 | 729 | 272 | Witty Piecebuilder |
 | 730 | 271 | Shalisa Hill |
-| 731 | 270 | Tim Dyer |
-| 732 | 270 | BK Queen |
+| 731 | 270 | BK Queen |
+| 732 | 270 | Tim Dyer |
 | 733 | 269 | Dandy Combo |
 | 734 | 267 | Luke Califf |
 | 735 | 267 | Josh Webster |
