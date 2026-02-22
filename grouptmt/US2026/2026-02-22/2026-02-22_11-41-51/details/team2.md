@@ -595,8 +595,8 @@
 | 587 | 389 | Alexis Richardson |
 | 588 | 389 | Kayla |
 | 589 | 388 | Christina Ashley |
-| 590 | 387 | Bold Brickster |
-| 591 | 387 | Misti Markijohn |
+| 590 | 387 | Misti Markijohn |
+| 591 | 387 | Bold Brickster |
 | 592 | 386 | Wuntayk |
 | 593 | 385 | Tansaria Couch-Butler |
 | 594 | 384 | Mary Marie |
@@ -689,8 +689,8 @@
 | 681 | 337 | Savannah Alexander |
 | 682 | 337 | Tum |
 | 683 | 336 | Swanky Columnbuilder |
-| 684 | 336 | Austin Wilson |
-| 685 | 336 | bru |
+| 684 | 336 | bru |
+| 685 | 336 | Austin Wilson |
 | 686 | 335 | Brooke Leigh Strube |
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Zombi3 |
-| 719 | 317 | Ashlyn Berner |
+| 718 | 317 | Ashlyn Berner |
+| 719 | 317 | Zombi3 |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -918,13 +918,13 @@
 | 910 | 254 | Elizabeth Diraffaele |
 | 911 | 252 | Aleasha M Brown |
 | 912 | 252 | Marget Kay |
-| 913 | 252 | Layna Lyons |
-| 914 | 252 | Amanda Segura |
+| 913 | 252 | Amanda Segura |
+| 914 | 252 | Layna Lyons |
 | 915 | 251 | Bold Clusterfit |
 | 916 | 251 | Regina Unruh |
 | 917 | 251 | Emoniee Sa'niaya |
-| 918 | 251 | Kimmie Zimmerman-Rocha |
-| 919 | 251 | Chipper Dashpiece |
+| 918 | 251 | Chipper Dashpiece |
+| 919 | 251 | Kimmie Zimmerman-Rocha |
 | 920 | 250 | Kay Stevenson |
 | 921 | 250 | Drew Berkelbach |
 | 922 | 249 | J.L. Roberts |
@@ -1024,8 +1024,8 @@
 | 1016 | 225 | Quiksilver |
 | 1017 | 225 | Anastacio Hernandez |
 | 1018 | 225 | Caitlin Johnson |
-| 1019 | 225 | Tyler C. Jung |
-| 1020 | 225 | Samantha Morgan |
+| 1019 | 225 | Samantha Morgan |
+| 1020 | 225 | Tyler C. Jung |
 | 1021 | 224 | Joann |
 | 1022 | 224 | Wil Allen |
 | 1023 | 223 | Laura Morrison |
@@ -1047,8 +1047,8 @@
 | 1039 | 222 | Angel Moorhead |
 | 1040 | 222 | Lovely |
 | 1041 | 220 | Amy Reynolds |
-| 1042 | 220 | Marcie McLain Dodd |
-| 1043 | 220 | HarleyJane |
+| 1042 | 220 | HarleyJane |
+| 1043 | 220 | Marcie McLain Dodd |
 | 1044 | 220 | Sandra McNab |
 | 1045 | 220 | Natalie M Wells |
 | 1046 | 219 | Cathy Bitters |
@@ -1353,9 +1353,9 @@
 | 1345 | 172 | Fancy Glidezone |
 | 1346 | 172 | Ashley M. Davis |
 | 1347 | 172 | Fredonia Lewis |
-| 1348 | 171 | Catherine Varea |
+| 1348 | 171 | Ashley Cooper Tharin |
 | 1349 | 171 | Lydia Greenman |
-| 1350 | 171 | Ashley Cooper Tharin |
+| 1350 | 171 | Catherine Varea |
 | 1351 | 171 | Chris Emanuel |
 | 1352 | 171 | Kimberly Bickling |
 | 1353 | 171 | Alicia Moreno |
@@ -1458,7 +1458,7 @@
 | 1450 | 161 | Dee Blokk |
 | 1451 | 160 | Jaadd |
 | 1452 | 160 | Monica Brown |
-| 1453 | 160 | Jaadd |
+| 1453 | 160 | Sharice Thompson |
 | 1454 | 160 | Ana Salazar |
 | 1455 | 160 | Strawberry Oatmeal |
 | 1456 | 160 | Sara |
@@ -1470,8 +1470,8 @@
 | 1462 | 159 | ForestGem |
 | 1463 | 159 | Markisha Poyndexter |
 | 1464 | 159 | Katia Johnson |
-| 1465 | 158 | Tammi Dorsey |
-| 1466 | 158 | April Ann |
+| 1465 | 158 | April Ann |
+| 1466 | 158 | Tammi Dorsey |
 | 1467 | 158 | John Cleland |
 | 1468 | 158 | Ryley Laughlin |
 | 1469 | 158 | Cerealkiller |
@@ -1484,8 +1484,8 @@
 | 1476 | 157 | Dakota Brown |
 | 1477 | 157 | Lively Piecebuilder |
 | 1478 | 157 | Dap Duong |
-| 1479 | 157 | Ashley Fairchild |
-| 1480 | 157 | James Lucas |
+| 1479 | 157 | James Lucas |
+| 1480 | 157 | Ashley Fairchild |
 | 1481 | 157 | Heather Walski |
 | 1482 | 156 | Tara Creel |
 | 1483 | 156 | Tabitha Chism |

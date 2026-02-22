@@ -134,8 +134,8 @@
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 289 | Jessica Lynn Cutlip |
 | 128 | 287 | Shannon Ferrari |
-| 129 | 286 | Daria Rycewicz |
-| 130 | 286 | shark tato |
+| 129 | 286 | shark tato |
+| 130 | 286 | Daria Rycewicz |
 | 131 | 283 | Brittney Orengo |
 | 132 | 281 | Meagan Nicole |
 | 133 | 278 | Desi Desporte |
@@ -147,8 +147,8 @@
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
 | 141 | 264 | Girl |
-| 142 | 264 | Dana Scott |
-| 143 | 264 | Epic Curvetile |
+| 142 | 264 | Epic Curvetile |
+| 143 | 264 | Dana Scott |
 | 144 | 262 | Holly Jolly |
 | 145 | 258 | Bio Nelly |
 | 146 | 256 | Mylo Lipscomb |
@@ -207,8 +207,8 @@
 | 199 | 191 | Sam Bishop |
 | 200 | 191 | Klo |
 | 201 | 190 | Cheery Risebuilder |
-| 202 | 189 | Stacey Stano |
-| 203 | 189 | Calvin Dennis |
+| 202 | 189 | Calvin Dennis |
+| 203 | 189 | Stacey Stano |
 | 204 | 188 | Andria Lynn |
 | 205 | 187 | blockstar |
 | 206 | 186 | Holly |
@@ -430,16 +430,16 @@
 | 422 | 95 | Chirpy Slammer |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Adawna Swires |
-| 425 | 94 | Ahleek Mitchell |
-| 426 | 94 | Jeff Roberts |
+| 425 | 94 | Jeff Roberts |
+| 426 | 94 | Ahleek Mitchell |
 | 427 | 93 | Mousey406 |
 | 428 | 93 | Matt Gooder |
 | 429 | 92 | Frilly Blocky |
 | 430 | 92 | bloat princess |
 | 431 | 92 | RogueRebel |
 | 432 | 92 | Krash |
-| 433 | 91 | Kametsunoyaiba |
-| 434 | 91 | Lee Silpe |
+| 433 | 91 | Lee Silpe |
+| 434 | 91 | Kametsunoyaiba |
 | 435 | 91 | Sunny Filler |
 | 436 | 90 | Thomas Hettenhaus |
 | 437 | 90 | June Hoffman |
