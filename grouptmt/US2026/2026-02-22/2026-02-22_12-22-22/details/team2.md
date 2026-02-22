@@ -293,10 +293,10 @@
 | 285 | 713 | Chelle |
 | 286 | 704 | Shelley Thornburgh Wright |
 | 287 | 703 | Gold Rose |
-| 288 | 700 | Hong Tang |
-| 289 | 700 | Vincent Petrella |
-| 290 | 700 | Rosemadder |
-| 291 | 700 | Beverly Owens |
+| 288 | 700 | Beverly Owens |
+| 289 | 700 | Rosemadder |
+| 290 | 700 | Hong Tang |
+| 291 | 700 | Vincent Petrella |
 | 292 | 697 | Dreamy Blast |
 | 293 | 696 | Kathryn Townsley |
 | 294 | 696 | Jánine Riggs |
@@ -306,8 +306,8 @@
 | 298 | 690 | Deborah Miller |
 | 299 | 689 | Giggy Blocker |
 | 300 | 688 | Brenda Utphall |
-| 301 | 688 | ShinyRose |
-| 302 | 688 | Tiara Elizabeth Baker |
+| 301 | 688 | Tiara Elizabeth Baker |
+| 302 | 688 | ShinyRose |
 | 303 | 687 | Dee |
 | 304 | 686 | Ashley Guernsey-Martin |
 | 305 | 685 | Binyah-Binyah |
@@ -558,8 +558,8 @@
 | 550 | 413 | Biggest thing |
 | 551 | 413 | Fancy Twister |
 | 552 | 412 | Jason H Baker |
-| 553 | 411 | Mighty Spinbuilder |
-| 554 | 411 | Kristen O'Neal |
+| 553 | 411 | Kristen O'Neal |
+| 554 | 411 | Mighty Spinbuilder |
 | 555 | 410 | Nicole Cannon |
 | 556 | 408 | Abimbola Bimbo |
 | 557 | 408 | Stefanie Zonzini-Gagliardi |
@@ -778,8 +778,8 @@
 | 770 | 296 | Zappy Dropmatch |
 | 771 | 296 | Frisky Riserbuilder |
 | 772 | 295 | Noel Tarmy |
-| 773 | 294 | Sveta Lana |
-| 774 | 294 | Amanda Edwards |
+| 773 | 294 | Amanda Edwards |
+| 774 | 294 | Sveta Lana |
 | 775 | 293 | Ann Marie Davis |
 | 776 | 293 | Joel Rosado |
 | 777 | 292 | Tom Steffen |
@@ -879,8 +879,8 @@
 | 871 | 263 | Amy Humphreys |
 | 872 | 263 | Sunshine711 |
 | 873 | 263 | Elizabeth Leinen |
-| 874 | 262 | Squirrel |
-| 875 | 262 | Taren Cowan |
+| 874 | 262 | Taren Cowan |
+| 875 | 262 | Squirrel |
 | 876 | 261 | Dany Murillo |
 | 877 | 261 | Gina Gina |
 | 878 | 261 | MrsClaudette Will'sIam Matthews |

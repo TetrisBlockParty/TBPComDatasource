@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Eric Mcgaughy |
-| 70 | 533 | Chris Baggett |
+| 69 | 533 | Chris Baggett |
+| 70 | 533 | Eric Mcgaughy |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Carmethia Clemons Haslerig |
-| 80 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Landon Keith Graffeo |
+| 80 | 486 | Carmethia Clemons Haslerig |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -139,8 +139,8 @@
 | 131 | 283 | Scott Jameson |
 | 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Carrie Brian |
-| 135 | 278 | Desi Desporte |
+| 134 | 278 | Desi Desporte |
+| 135 | 278 | Carrie Brian |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -167,8 +167,8 @@
 | 159 | 240 | Peachy Fall |
 | 160 | 237 | Chris Bernstein |
 | 161 | 232 | Crystal Nicolette Moore |
-| 162 | 230 | Cursed Hag |
-| 163 | 230 | Autum Leigh |
+| 162 | 230 | Autum Leigh |
+| 163 | 230 | Cursed Hag |
 | 164 | 228 | J-Rizzle |
 | 165 | 227 | Swanky Fitline |
 | 166 | 227 | Alyssa Papen |
@@ -237,9 +237,9 @@
 | 229 | 166 | SammieJo Guy |
 | 230 | 166 | Megan Cutshaw |
 | 231 | 166 | Juls |
-| 232 | 165 | James Hurley Jr. |
-| 233 | 165 | Zappy Buildgrid |
-| 234 | 165 | Jackie Marie |
+| 232 | 165 | Zappy Buildgrid |
+| 233 | 165 | Jackie Marie |
+| 234 | 165 | James Hurley Jr. |
 | 235 | 164 | 030Synner |
 | 236 | 163 | Kristina Black |
 | 237 | 162 | John Brunetti |
@@ -352,8 +352,8 @@
 | 344 | 121 | Chris Alexinas |
 | 345 | 121 | Riverdale |
 | 346 | 121 | Jim Hart |
-| 347 | 120 | wombat |
-| 348 | 120 | Bryan Hodgins |
+| 347 | 120 | Bryan Hodgins |
+| 348 | 120 | wombat |
 | 349 | 119 | rebel4lyfe |
 | 350 | 119 | Gwendolyn Pitcairn |
 | 351 | 119 | River Shady Sr. |
@@ -477,7 +477,7 @@
 | 469 | 85 | Zippy Block |
 | 470 | 85 | Twisty Risebuilder |
 | 471 | 85 | Jennifer Renee |
-| 472 | 85 | Paito |
+| 472 | 85 | Jackie Clark |
 | 473 | 85 | Cheery Towerzone |
 | 474 | 84 | Robert Sch |
 | 475 | 84 | Beth Helms |
@@ -499,7 +499,7 @@
 | 491 | 80 | Melissa Adams |
 | 492 | 80 | Brittany Little |
 | 493 | 80 | Somnium Era |
-| 494 | 80 | Christina Hyde |
+| 494 | 80 | Shirl |
 | 495 | 80 | Alo |
 | 496 | 79 | Sharyn Lemire |
 | 497 | 79 | Sassy Pattern |

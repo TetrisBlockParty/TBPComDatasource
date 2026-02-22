@@ -162,8 +162,8 @@
 | 154 | 403 | Scott Lindsay |
 | 155 | 401 | Katie Knaus |
 | 156 | 400 | Luciana Braganca Vieira |
-| 157 | 399 | Mcathen |
-| 158 | 399 | Marcie Bressler |
+| 157 | 399 | Marcie Bressler |
+| 158 | 399 | Mcathen |
 | 159 | 397 | Annie Déè |
 | 160 | 393 | Fallorina Susana |
 | 161 | 391 | Calista Jo Dickson |
@@ -177,8 +177,8 @@
 | 169 | 376 | Loopy Clusterer |
 | 170 | 374 | Sherry Ogden |
 | 171 | 371 | Michael Nowogorski |
-| 172 | 370 | Santeria Trece Candles |
-| 173 | 370 | Danielle Allison |
+| 172 | 370 | Danielle Allison |
+| 173 | 370 | Santeria Trece Candles |
 | 174 | 368 | Stephanie Woods |
 | 175 | 366 | Adrian Marcel Pate |
 | 176 | 362 | Darlene McMillan |
@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Araceli Parra |
-| 203 | 311 | Rochelle Hazelett |
+| 202 | 311 | Rochelle Hazelett |
+| 203 | 311 | Araceli Parra |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -274,13 +274,13 @@
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Stephanie Hill |
-| 275 | 225 | Dirtgirl27 |
+| 274 | 225 | Dirtgirl27 |
+| 275 | 225 | Stephanie Hill |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -377,9 +377,9 @@
 | 369 | 163 | Diana Ibarra |
 | 370 | 163 | Christine Trester |
 | 371 | 163 | Ava Petito |
-| 372 | 162 | Loopy Fallzone |
+| 372 | 162 | Stephanie Whitefield |
 | 373 | 162 | Eric Caccavale |
-| 374 | 162 | Stephanie Whitefield |
+| 374 | 162 | Loopy Fallzone |
 | 375 | 162 | Beaudie Stroebel |
 | 376 | 162 | Nicole Summers-Nelson |
 | 377 | 161 | Julia Nicole |
@@ -499,12 +499,12 @@
 | 491 | 122 | Amber Groover Taylor |
 | 492 | 122 | Lisa Ann |
 | 493 | 122 | Nichol Graham |
-| 494 | 121 | Jason-Ashley Ludlow |
-| 495 | 121 | Fredd Thomas |
-| 496 | 121 | Oliver Neal II |
+| 494 | 121 | Fredd Thomas |
+| 495 | 121 | Oliver Neal II |
+| 496 | 121 | Jason-Ashley Ludlow |
 | 497 | 121 | Brave Brickster |
-| 498 | 121 | Groovy Blockclear |
-| 499 | 121 | Jenna Baker |
+| 498 | 121 | Jenna Baker |
+| 499 | 121 | Groovy Blockclear |
 | 500 | 120 | Giggy Glidepiece |
 | 501 | 120 | Carol Cain Thurman |
 | 502 | 119 | Tracey Cox |
