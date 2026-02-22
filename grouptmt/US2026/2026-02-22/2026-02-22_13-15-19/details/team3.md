@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Natasha Jones |
-| 100 | 582 | Jay Horn |
+| 99 | 582 | Jay Horn |
+| 100 | 582 | Natasha Jones |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -147,11 +147,11 @@
 | 139 | 449 | Danielle Rhoades |
 | 140 | 448 | Karon Griffin |
 | 141 | 445 | Shannon Matthew Byers |
-| 142 | 445 | Kristie McFarland |
-| 143 | 445 | Jacqueline Rodriguez |
+| 142 | 445 | Jacqueline Rodriguez |
+| 143 | 445 | Kristie McFarland |
 | 144 | 438 | Leah Barnett |
-| 145 | 435 | Daryn Elliott |
-| 146 | 435 | Michelle |
+| 145 | 435 | Michelle |
+| 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
 | 148 | 427 | Wendy Dearden |
 | 149 | 427 | Logan Naccarato |
@@ -258,13 +258,13 @@
 | 250 | 259 | Nikki Pags |
 | 251 | 259 | Danielle Weikel |
 | 252 | 257 | Ashley Jones |
-| 253 | 256 | KayB |
-| 254 | 256 | Tiffany Davie |
+| 253 | 256 | Tiffany Davie |
+| 254 | 256 | KayB |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
-| 257 | 249 | Hasty Gridpiece |
+| 257 | 249 | Annie Marie |
 | 258 | 249 | JerseyJess |
-| 259 | 249 | Annie Marie |
+| 259 | 249 | Hasty Gridpiece |
 | 260 | 246 | Peppy Shifter |
 | 261 | 245 | Latoya Mayne |
 | 262 | 244 | LaNette Morgan |
@@ -309,8 +309,8 @@
 | 301 | 210 | Criss |
 | 302 | 209 | Micayah Stevens |
 | 303 | 208 | AlsoJess |
-| 304 | 207 | Daring Builder |
-| 305 | 207 | Jessica |
+| 304 | 207 | Jessica |
+| 305 | 207 | Daring Builder |
 | 306 | 207 | angieelyn |
 | 307 | 206 | Tammy Rosenberry |
 | 308 | 206 | Tracy Martin |
@@ -391,17 +391,17 @@
 | 383 | 162 | Stephanie Whitefield |
 | 384 | 162 | Eric Caccavale |
 | 385 | 161 | Betty Bóò |
-| 386 | 161 | Julia Nicole |
-| 387 | 161 | Bouncy Blockbuilder |
+| 386 | 161 | Bouncy Blockbuilder |
+| 387 | 161 | Julia Nicole |
 | 388 | 160 | Michell Hendershott Jackson |
 | 389 | 160 | Sunny Lift |
 | 390 | 159 | Joshua David Huie |
 | 391 | 158 | Willow |
 | 392 | 158 | FATTY |
-| 393 | 157 | Angel Mendez |
-| 394 | 157 | Miranda Taylor |
-| 395 | 157 | Wetwet |
-| 396 | 157 | Kevin Fountain |
+| 393 | 157 | Kevin Fountain |
+| 394 | 157 | Wetwet |
+| 395 | 157 | Angel Mendez |
+| 396 | 157 | Miranda Taylor |
 | 397 | 156 | Nichole Greene |
 | 398 | 156 | Niki Dalrymple |
 | 399 | 156 | Courtney Conboy |
@@ -539,7 +539,7 @@
 | 531 | 116 | Dapper Towerfit |
 | 532 | 116 | Mel Murr |
 | 533 | 116 | Shelby Crawford |
-| 534 | 115 | Will Miller |
+| 534 | 115 | Whitney Manuel |
 | 535 | 115 | Beejangles |
 | 536 | 115 | Will Miller |
 | 537 | 115 | JustGiGi |

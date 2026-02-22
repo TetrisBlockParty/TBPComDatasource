@@ -171,8 +171,8 @@
 | 163 | 244 | Twisty Cascadezone |
 | 164 | 240 | Peachy Fall |
 | 165 | 232 | Crystal Nicolette Moore |
-| 166 | 230 | Cursed Hag |
-| 167 | 230 | Autum Leigh |
+| 166 | 230 | Autum Leigh |
+| 167 | 230 | Cursed Hag |
 | 168 | 227 | Swanky Fitline |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
@@ -229,8 +229,8 @@
 | 221 | 185 | Laura Hosford |
 | 222 | 184 | Lauren Lamb |
 | 223 | 184 | Ak Jones |
-| 224 | 181 | Jackie Marie |
-| 225 | 181 | Carter Jones |
+| 224 | 181 | Carter Jones |
+| 225 | 181 | Jackie Marie |
 | 226 | 180 | Googenheim |
 | 227 | 180 | Orchislactea |
 | 228 | 179 | TinyLegoRose |
@@ -282,8 +282,8 @@
 | 274 | 147 | Adam Stephanie Parker |
 | 275 | 147 | Jay28 |
 | 276 | 146 | KimoKoala |
-| 277 | 145 | Sandra Safford |
-| 278 | 145 | Mimi |
+| 277 | 145 | Mimi |
+| 278 | 145 | Sandra Safford |
 | 279 | 144 | Sticherella |
 | 280 | 143 | Metsfan |
 | 281 | 143 | Dennis Bradley |

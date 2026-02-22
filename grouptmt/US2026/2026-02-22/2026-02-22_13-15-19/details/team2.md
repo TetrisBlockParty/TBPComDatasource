@@ -455,8 +455,8 @@
 | 447 | 492 | Breezy Clusterer |
 | 448 | 492 | Armonie Smith |
 | 449 | 492 | Maya June |
-| 450 | 491 | Jedi |
-| 451 | 491 | Victor Obiakarije |
+| 450 | 491 | Victor Obiakarije |
+| 451 | 491 | Jedi |
 | 452 | 491 | Michael Buckner |
 | 453 | 489 | Osun Anuket Esu |
 | 454 | 489 | Cassie Mercer |
@@ -583,8 +583,8 @@
 | 575 | 400 | Michael Artis |
 | 576 | 400 | Tammy Allen |
 | 577 | 400 | Kathleen Driskell |
-| 578 | 399 | Jennifer Scott |
-| 579 | 399 | Oscar Bernie |
+| 578 | 399 | Oscar Bernie |
+| 579 | 399 | Jennifer Scott |
 | 580 | 398 | Crystal Heller Gonzalez |
 | 581 | 396 | Candy Pitts |
 | 582 | 396 | AkaLefty |
@@ -674,8 +674,8 @@
 | 666 | 350 | Fi Ne |
 | 667 | 350 | Maria Hammett |
 | 668 | 350 | Kyla Louise |
-| 669 | 348 | Richard Horton |
-| 670 | 348 | Peppy Snapfall |
+| 669 | 348 | Peppy Snapfall |
+| 670 | 348 | Richard Horton |
 | 671 | 348 | Kelly Meredeith |
 | 672 | 347 | Zesty Pivot |
 | 673 | 347 | CC |
@@ -697,8 +697,8 @@
 | 689 | 336 | Swanky Columnbuilder |
 | 690 | 336 | bru |
 | 691 | 336 | Austin Wilson |
-| 692 | 335 | Brooke Leigh Strube |
-| 693 | 335 | Alexandrea |
+| 692 | 335 | Alexandrea |
+| 693 | 335 | Brooke Leigh Strube |
 | 694 | 335 | Maria Louise |
 | 695 | 334 | Melissa James |
 | 696 | 333 | Adrian Benitez |
@@ -790,12 +790,12 @@
 | 782 | 294 | Amanda Edwards |
 | 783 | 293 | Ann Marie Davis |
 | 784 | 292 | Bryan Werleman |
-| 785 | 292 | AsnPryBoy83 |
-| 786 | 292 | Tom Steffen |
-| 787 | 292 | Deana |
+| 785 | 292 | Deana |
+| 786 | 292 | AsnPryBoy83 |
+| 787 | 292 | Tom Steffen |
 | 788 | 291 | NickyBrooks |
-| 789 | 291 | Jennie Lee Huntley |
-| 790 | 291 | Bella Novia |
+| 789 | 291 | Bella Novia |
+| 790 | 291 | Jennie Lee Huntley |
 | 791 | 291 | Brave Gridpiece |
 | 792 | 289 | Cathy Bitters |
 | 793 | 289 | August Hale |
