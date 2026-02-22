@@ -191,8 +191,8 @@
 | 183 | 204 | Carlos Ramirez |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
-| 186 | 201 | Melvin Baird |
-| 187 | 201 | Chance Strickland |
+| 186 | 201 | Chance Strickland |
+| 187 | 201 | Melvin Baird |
 | 188 | 200 | Laura |
 | 189 | 198 | Keith Kelley |
 | 190 | 198 | Ruben Wheeler |

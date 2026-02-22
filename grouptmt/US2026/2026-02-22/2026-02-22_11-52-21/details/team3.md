@@ -225,12 +225,12 @@
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Duane Bright |
-| 221 | 289 | Hoppy Buildout |
+| 220 | 289 | Hoppy Buildout |
+| 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Cheeky Snapper |
-| 225 | 283 | Charles Perrone |
+| 224 | 283 | Charles Perrone |
+| 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Cesar Barraza |
-| 332 | 183 | Salena Whitlock |
+| 331 | 183 | Salena Whitlock |
+| 332 | 183 | Cesar Barraza |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -457,8 +457,8 @@
 | 449 | 134 | Cheery Brickster |
 | 450 | 134 | Sharon Dudley Lawson |
 | 451 | 134 | gremicx |
-| 452 | 133 | Jen Lewis |
-| 453 | 133 | Chummy Rumbler |
+| 452 | 133 | Chummy Rumbler |
+| 453 | 133 | Jen Lewis |
 | 454 | 132 | Hanna Kim |
 | 455 | 132 | Andrew Thorson |
 | 456 | 131 | Cheeky Setter |

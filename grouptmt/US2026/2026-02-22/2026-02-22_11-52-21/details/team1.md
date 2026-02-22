@@ -244,8 +244,8 @@
 | 236 | 177 | Perky Shiftsnap |
 | 237 | 177 | Jacqueline Unique |
 | 238 | 176 | Mel Hogan |
-| 239 | 175 | Kellie Tunstall |
-| 240 | 175 | John Barron |
+| 239 | 175 | John Barron |
+| 240 | 175 | Kellie Tunstall |
 | 241 | 174 | Cheeky Pop |
 | 242 | 173 | Gabrielle Louise Malloch |
 | 243 | 173 | Tiger Lily |
