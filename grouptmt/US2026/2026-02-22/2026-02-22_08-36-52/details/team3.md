@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Shonna Roberts |
-| 58 | 895 | Amanda L Baker |
+| 57 | 895 | Amanda L Baker |
+| 58 | 895 | Shonna Roberts |
 | 59 | 886 | Khristen AC |
 | 60 | 874 | Jessica Pineda-Lopez |
 | 61 | 867 | Corie A. Brinson |
@@ -99,14 +99,14 @@
 | 91 | 595 | Patricia White |
 | 92 | 591 | Jesse Olive |
 | 93 | 588 | yoyo |
-| 94 | 582 | Natasha Jones |
-| 95 | 582 | Jay Horn |
+| 94 | 582 | Jay Horn |
+| 95 | 582 | Natasha Jones |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 578 | Queen Kam |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |

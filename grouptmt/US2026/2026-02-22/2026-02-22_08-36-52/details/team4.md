@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -140,9 +140,9 @@
 | 132 | 277 | Mary Ann Pabukis |
 | 133 | 275 | Dizzy Tiley |
 | 134 | 271 | Sarah Brown |
-| 135 | 264 | Girl |
-| 136 | 264 | Dana Scott |
-| 137 | 264 | Epic Curvetile |
+| 135 | 264 | Dana Scott |
+| 136 | 264 | Epic Curvetile |
+| 137 | 264 | Girl |
 | 138 | 262 | Holly Jolly |
 | 139 | 256 | Mylo Lipscomb |
 | 140 | 255 | Lindsay Ball |
@@ -183,8 +183,8 @@
 | 175 | 204 | Jen Caldwell |
 | 176 | 203 | Katherine Crane |
 | 177 | 202 | TRCuse |
-| 178 | 201 | Chance Strickland |
-| 179 | 201 | Melvin Baird |
+| 178 | 201 | Melvin Baird |
+| 179 | 201 | Chance Strickland |
 | 180 | 199 | Zethra Prenisha Rahming |
 | 181 | 198 | Jessica Lynn Cutlip |
 | 182 | 196 | Oscar Alberto Perez |
@@ -703,7 +703,7 @@
 | 695 | 50 | Will Chamberlain |
 | 696 | 50 | Wacky Blockclear |
 | 697 | 50 | Josh Chapell |
-| 698 | 50 | Will Chamberlain |
+| 698 | 50 | Cool Towerbuilder |
 | 699 | 50 | Nick Horn |
 | 700 | 49 | Krista Bartlett |
 | 701 | 49 | L Bear Champion |
