@@ -289,8 +289,8 @@
 | 281 | 703 | Gold Rose |
 | 282 | 700 | Hong Tang |
 | 283 | 700 | Vincent Petrella |
-| 284 | 700 | Rosemadder |
-| 285 | 700 | Beverly Owens |
+| 284 | 700 | Beverly Owens |
+| 285 | 700 | Rosemadder |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -640,8 +640,8 @@
 | 632 | 362 | Veronics |
 | 633 | 362 | Andrea Maher |
 | 634 | 362 | Tracy Wise |
-| 635 | 362 | Jennifer Scott |
-| 636 | 362 | Aishah Brice |
+| 635 | 362 | Aishah Brice |
+| 636 | 362 | Jennifer Scott |
 | 637 | 361 | Michelle Shrum |
 | 638 | 361 | Lewis Sturgeon |
 | 639 | 360 | Jroc |
@@ -1440,8 +1440,8 @@
 | 1432 | 160 | Strawberry Oatmeal |
 | 1433 | 160 | Jaadd |
 | 1434 | 160 | Monica Brown |
-| 1435 | 160 | Strawberry Oatmeal |
-| 1436 | 160 | Sharice Thompson |
+| 1435 | 160 | Sharice Thompson |
+| 1436 | 160 | Ana Salazar |
 | 1437 | 160 | Crystal Hagy |
 | 1438 | 160 | Sara |
 | 1439 | 160 | Sassy Pivot |
@@ -1857,8 +1857,8 @@
 | 1849 | 125 | Yulonda F Clark |
 | 1850 | 125 | Melvin Mitchell |
 | 1851 | 125 | Ilse Chaparro |
-| 1852 | 125 | KOO |
-| 1853 | 125 | Josh N Corrine |
+| 1852 | 125 | Josh N Corrine |
+| 1853 | 125 | KOO |
 | 1854 | 125 | Michael Keim |
 | 1855 | 125 | Carla Hawkins |
 | 1856 | 124 | Mariana Rodrigues |

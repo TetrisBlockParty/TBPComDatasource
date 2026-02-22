@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | Katie Leigh Blankenship |
-| 324 | 189 | France Vézina |
+| 323 | 189 | France Vézina |
+| 324 | 189 | Katie Leigh Blankenship |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Sameerah Smith |
 | 327 | 184 | Troy |
@@ -440,8 +440,8 @@
 | 432 | 138 | Skinny Baldez |
 | 433 | 137 | Giggly Brickroll |
 | 434 | 136 | Karen Picaboo |
-| 435 | 136 | Stephanie Zahm |
-| 436 | 136 | Sabrina Mansfield |
+| 435 | 136 | Sabrina Mansfield |
+| 436 | 136 | Stephanie Zahm |
 | 437 | 135 | Morgan Cudo |
 | 438 | 135 | Silver Marchán |
 | 439 | 134 | gremicx |
