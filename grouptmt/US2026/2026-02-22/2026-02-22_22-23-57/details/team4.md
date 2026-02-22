@@ -108,8 +108,8 @@
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Trista Leah |
-| 104 | 499 | Christina LR |
+| 103 | 499 | Christina LR |
+| 104 | 499 | Trista Leah |
 | 105 | 488 | Jen Allison |
 | 106 | 481 | Serena Goodridge |
 | 107 | 476 | Matt Summer |
@@ -145,7 +145,7 @@
 | 137 | 373 | Joseph Guthrie |
 | 138 | 355 | Kristina Black |
 | 139 | 354 | Jessica Lynn Cutlip |
-| 140 | 353 | Cristy Duerksen |
+| 140 | 353 | Livvy |
 | 141 | 353 | Tyler Terrific |
 | 142 | 353 | Cristy Duerksen |
 | 143 | 350 | Angela Srubar-Norman |
@@ -263,8 +263,8 @@
 | 255 | 213 | Rio Rocha |
 | 256 | 212 | Mike Solo |
 | 257 | 209 | Chaz |
-| 258 | 208 | Rebecca Morris |
-| 259 | 208 | Christina Black |
+| 258 | 208 | Christina Black |
+| 259 | 208 | Rebecca Morris |
 | 260 | 207 | Snippy Puzzle |
 | 261 | 205 | James Hurley Jr. |
 | 262 | 203 | Katherine Crane |

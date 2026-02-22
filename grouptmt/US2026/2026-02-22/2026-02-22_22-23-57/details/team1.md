@@ -97,8 +97,8 @@
 | 89 | 489 | Deanna L Hermanson |
 | 90 | 486 | Tater |
 | 91 | 485 | Cartier |
-| 92 | 483 | Jennifer ManWarren |
-| 93 | 483 | Ryan Lunnin |
+| 92 | 483 | Ryan Lunnin |
+| 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
 | 96 | 472 | Kristen Gideon |
@@ -319,8 +319,8 @@
 | 311 | 187 | Jessica Weed |
 | 312 | 187 | GringaLinga |
 | 313 | 186 | Nikki Fridley |
-| 314 | 185 | Hasty Columnbuilder |
-| 315 | 185 | Oscar Zamora |
+| 314 | 185 | Oscar Zamora |
+| 315 | 185 | Hasty Columnbuilder |
 | 316 | 184 | Cranky Pattern |
 | 317 | 183 | Dino |
 | 318 | 181 | David DeSantis |
@@ -421,8 +421,8 @@
 | 413 | 145 | Chantelle Ceno |
 | 414 | 145 | Sunny Pivotfall |
 | 415 | 144 | Miguel Teixeira |
-| 416 | 144 | Danielle Mae |
-| 417 | 144 | Andrew Backes |
+| 416 | 144 | Andrew Backes |
+| 417 | 144 | Danielle Mae |
 | 418 | 143 | Guest |
 | 419 | 142 | Lynn Adams |
 | 420 | 141 | Jennifer Corrado |

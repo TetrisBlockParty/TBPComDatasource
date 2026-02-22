@@ -225,11 +225,11 @@
 | 217 | 372 | Rich LeBlanc |
 | 218 | 372 | Sarah Moyer |
 | 219 | 369 | RickyG |
-| 220 | 368 | Stephanie Woods |
-| 221 | 368 | Rebecca Funderburk Kirby |
+| 220 | 368 | Rebecca Funderburk Kirby |
+| 221 | 368 | Stephanie Woods |
 | 222 | 367 | Loopy Fallmatch |
-| 223 | 365 | Tiffany Ford |
-| 224 | 365 | Chummy Caster |
+| 223 | 365 | Chummy Caster |
+| 224 | 365 | Tiffany Ford |
 | 225 | 362 | Brandon Givens |
 | 226 | 360 | Sheila M Frazier |
 | 227 | 357 | Stephanie Burtin |
@@ -360,8 +360,8 @@
 | 352 | 235 | Cheryl Hinch Tenbrook |
 | 353 | 233 | Tony Waters |
 | 354 | 232 | Nicholas Roddy |
-| 355 | 231 | Frothy Snapper |
-| 356 | 231 | Kevin Russell |
+| 355 | 231 | Kevin Russell |
+| 356 | 231 | Frothy Snapper |
 | 357 | 230 | BigE |
 | 358 | 229 | DanceLuvLaugh |
 | 359 | 228 | Loopy Fallzone |
@@ -503,7 +503,7 @@
 | 495 | 169 | Peachy Rollfit |
 | 496 | 168 | Glenn Loving |
 | 497 | 168 | Jason |
-| 498 | 168 | Glenn Loving |
+| 498 | 168 | Peachy Tower |
 | 499 | 168 | Christina Marie Swisher |
 | 500 | 167 | Shicken Nuggit |
 | 501 | 167 | Nicole Summers-Nelson |
