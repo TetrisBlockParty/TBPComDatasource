@@ -145,8 +145,8 @@
 | 137 | 585 | opf |
 | 138 | 583 | Karon Griffin |
 | 139 | 582 | Natasha Jones |
-| 140 | 579 | Jaime Monhaut-Reed |
-| 141 | 579 | Annie Marie |
+| 140 | 579 | Annie Marie |
+| 141 | 579 | Jaime Monhaut-Reed |
 | 142 | 574 | Morgan Martinez |
 | 143 | 572 | CeceGeGe |
 | 144 | 571 | Nicole Myers |
@@ -344,8 +344,8 @@
 | 336 | 256 | KayB |
 | 337 | 255 | Sharisse Baltimore |
 | 338 | 254 | Desiree Gold |
-| 339 | 253 | Salena Whitlock |
-| 340 | 253 | Alice |
+| 339 | 253 | Alice |
+| 340 | 253 | Salena Whitlock |
 | 341 | 252 | Blair Erin Waite |
 | 342 | 251 | Naur |
 | 343 | 250 | Eric Caccavale |
@@ -372,8 +372,8 @@
 | 364 | 236 | Ashley Lynn Marchese |
 | 365 | 235 | Beppy |
 | 366 | 233 | Tony Waters |
-| 367 | 232 | Nicholas Roddy |
-| 368 | 232 | Michael Latasha Gray |
+| 367 | 232 | Michael Latasha Gray |
+| 368 | 232 | Nicholas Roddy |
 | 369 | 231 | Frothy Snapper |
 | 370 | 231 | Kevin Russell |
 | 371 | 230 | BigE |
@@ -499,8 +499,8 @@
 | 491 | 174 | Sierra Spencer |
 | 492 | 174 | Rayzer |
 | 493 | 173 | Jumpy Curvebuilder |
-| 494 | 173 | MizzMonick Smith |
-| 495 | 173 | momo |
+| 494 | 173 | momo |
+| 495 | 173 | MizzMonick Smith |
 | 496 | 173 | Hanul |
 | 497 | 172 | Miranda Taylor |
 | 498 | 172 | Jl |

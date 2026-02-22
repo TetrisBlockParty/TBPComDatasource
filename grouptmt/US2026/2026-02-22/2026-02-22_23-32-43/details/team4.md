@@ -80,8 +80,8 @@
 | 72 | 664 | Julian Garcia |
 | 73 | 664 | Valerie Roberts |
 | 74 | 659 | Jonathan Kimbrough |
-| 75 | 647 | Shauna Havard |
-| 76 | 647 | KM8 |
+| 75 | 647 | KM8 |
+| 76 | 647 | Shauna Havard |
 | 77 | 646 | Jacqueline Helm |
 | 78 | 633 | Lisa Davis |
 | 79 | 628 | TheNeesh50 |
@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -197,23 +197,23 @@
 | 189 | 288 | Leah Kutz Zirbel |
 | 190 | 287 | Plucky Patternblock |
 | 191 | 286 | Brittney Orengo |
-| 192 | 282 | Chris Bernstein |
-| 193 | 282 | Sue Joyce Staats |
+| 192 | 282 | Sue Joyce Staats |
+| 193 | 282 | Chris Bernstein |
 | 194 | 281 | Kim Klutz Olson |
 | 195 | 281 | Laura |
 | 196 | 277 | Mary Ann Pabukis |
 | 197 | 276 | Matt Dell'Olio |
 | 198 | 276 | Joeliecea Cobb |
 | 199 | 273 | Casey Grabner |
-| 200 | 272 | Dennis Bradley |
-| 201 | 272 | Alan George LaRage |
+| 200 | 272 | Alan George LaRage |
+| 201 | 272 | Dennis Bradley |
 | 202 | 271 | Sarah Brown |
 | 203 | 270 | Juls |
 | 204 | 270 | Melissa Adams |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Sam Bishop |
-| 207 | 268 | Porkobello |
-| 208 | 268 | Mimi |
+| 207 | 268 | Mimi |
+| 208 | 268 | Porkobello |
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
@@ -235,9 +235,9 @@
 | 227 | 245 | 23 |
 | 228 | 245 | Autum Leigh |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | Chris Hartig |
+| 230 | 241 | JPW |
 | 231 | 241 | Allen Lloyd |
-| 232 | 241 | JPW |
+| 232 | 241 | Chris Hartig |
 | 233 | 240 | Kim Hunt |
 | 234 | 238 | Chaz |
 | 235 | 238 | Zesty Twistbuilder |
