@@ -90,8 +90,8 @@
 | 82 | 561 | Rachael McClain Owens |
 | 83 | 559 | Morgan Martinez |
 | 84 | 548 | Dave Herzog |
-| 85 | 541 | Patty Allen |
-| 86 | 541 | Nate Burnside |
+| 85 | 541 | Nate Burnside |
+| 86 | 541 | Patty Allen |
 | 87 | 536 | Giddy Drop |
 | 88 | 526 | Cynthia Castros-Hampton |
 | 89 | 519 | Shari Garber |

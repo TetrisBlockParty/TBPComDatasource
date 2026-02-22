@@ -130,8 +130,8 @@
 | 122 | 230 | Daria Rycewicz |
 | 123 | 225 | Damn Libra |
 | 124 | 222 | Joeliecea Cobb |
-| 125 | 221 | PurpleMoonMa |
-| 126 | 221 | Alyssa Papen |
+| 125 | 221 | Alyssa Papen |
+| 126 | 221 | PurpleMoonMa |
 | 127 | 220 | Mary Ann Pabukis |
 | 128 | 220 | Matt Dell'Olio |
 | 129 | 218 | Antony Dwayne Beasley |
@@ -150,8 +150,8 @@
 | 142 | 203 | Katherine Crane |
 | 143 | 201 | Melvin Baird |
 | 144 | 198 | Jessica Lynn Cutlip |
-| 145 | 196 | Jenna McGeorge |
-| 146 | 196 | Jeff Brian Gates |
+| 145 | 196 | Jeff Brian Gates |
+| 146 | 196 | Jenna McGeorge |
 | 147 | 195 | Malakai Darien Fox |
 | 148 | 194 | Zany Twisterfit |
 | 149 | 192 | Shauna Havard |
@@ -168,8 +168,8 @@
 | 160 | 182 | Matt Summer |
 | 161 | 181 | Klo |
 | 162 | 181 | Carter Jones |
-| 163 | 180 | Ren Mc |
-| 164 | 180 | Leah Kutz Zirbel |
+| 163 | 180 | Leah Kutz Zirbel |
+| 164 | 180 | Ren Mc |
 | 165 | 176 | Zethra Prenisha Rahming |
 | 166 | 175 | blockstar |
 | 167 | 174 | Dihcheese444 |
@@ -184,8 +184,8 @@
 | 176 | 160 | Carlos Ramirez |
 | 177 | 160 | ZeeZee |
 | 178 | 159 | Marcus Todd |
-| 179 | 158 | Avy Absol |
-| 180 | 158 | Chair |
+| 179 | 158 | Chair |
+| 180 | 158 | Avy Absol |
 | 181 | 155 | AyeKay |
 | 182 | 154 | scott |
 | 183 | 153 | Empress Oasis |
