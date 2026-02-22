@@ -144,8 +144,8 @@
 | 136 | 218 | Antony Dwayne Beasley |
 | 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Ren Mc |
-| 140 | 215 | Jessica Bohlken |
+| 139 | 215 | Jessica Bohlken |
+| 140 | 215 | Ren Mc |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Mike Solo |
 | 143 | 212 | Calvin Cannon |
@@ -175,8 +175,8 @@
 | 167 | 185 | Andy Cabral |
 | 168 | 185 | Lori |
 | 169 | 184 | Ak Jones |
-| 170 | 181 | Klo |
-| 171 | 181 | Carter Jones |
+| 170 | 181 | Carter Jones |
+| 171 | 181 | Klo |
 | 172 | 179 | blockstar |
 | 173 | 176 | Zethra Prenisha Rahming |
 | 174 | 176 | Diana Houts |
@@ -191,14 +191,14 @@
 | 183 | 160 | Carlos Ramirez |
 | 184 | 160 | James Hurley Jr. |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Avy Absol |
-| 187 | 158 | Chair |
+| 186 | 158 | Chair |
+| 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
 | 189 | 154 | scott |
 | 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
-| 192 | 152 | Austin Owens |
-| 193 | 152 | John Brunetti |
+| 192 | 152 | John Brunetti |
+| 193 | 152 | Austin Owens |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
 | 196 | 149 | Judy Cox |

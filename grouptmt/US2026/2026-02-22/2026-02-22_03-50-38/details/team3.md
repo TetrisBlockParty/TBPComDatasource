@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
+| 77 | 582 | Natasha Jones |
 | 78 | 582 | Jay Horn |
-| 79 | 582 | Natasha Jones |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -214,8 +214,8 @@
 | 206 | 256 | Tiffany Davie |
 | 207 | 256 | Brenda Lee Vander Molen |
 | 208 | 253 | Nora Rogers |
-| 209 | 249 | Annie Marie |
-| 210 | 249 | JerseyJess |
+| 209 | 249 | JerseyJess |
+| 210 | 249 | Annie Marie |
 | 211 | 247 | Rebecca Funderburk Kirby |
 | 212 | 246 | Eon Harris |
 | 213 | 246 | Rochelle Hazelett |
@@ -310,8 +310,8 @@
 | 302 | 161 | Michael Johnson |
 | 303 | 161 | Bouncy Blockbuilder |
 | 304 | 160 | Rachel |
-| 305 | 159 | Jone |
-| 306 | 159 | Joshua David Huie |
+| 305 | 159 | Joshua David Huie |
+| 306 | 159 | Jone |
 | 307 | 158 | Willow |
 | 308 | 157 | Samantha Lynn |
 | 309 | 157 | Danielle Balcom |
@@ -335,8 +335,8 @@
 | 327 | 152 | Goofy Fall |
 | 328 | 151 | Rainbow77375 |
 | 329 | 150 | Gumbo |
-| 330 | 149 | Ava Petito |
-| 331 | 149 | Angel Mendez |
+| 330 | 149 | Angel Mendez |
+| 331 | 149 | Ava Petito |
 | 332 | 149 | Alexis Taylor |
 | 333 | 148 | Bryan Byrd |
 | 334 | 148 | Pam Holt Powell |
