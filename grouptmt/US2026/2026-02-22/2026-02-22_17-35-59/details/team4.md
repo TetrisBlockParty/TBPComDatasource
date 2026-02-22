@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | Valerie Roberts |
-| 65 | 664 | loulou |
+| 64 | 664 | loulou |
+| 65 | 664 | Valerie Roberts |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -133,8 +133,8 @@
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
 | 127 | 338 | Lucas J Sutton |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
@@ -242,9 +242,9 @@
 | 234 | 200 | Rebecca Morris |
 | 235 | 200 | Lori |
 | 236 | 199 | April Rondinone |
-| 237 | 198 | Silly SeaWeed |
-| 238 | 198 | Keith Kelley |
-| 239 | 198 | Calvin Dennis |
+| 237 | 198 | Calvin Dennis |
+| 238 | 198 | Silly SeaWeed |
+| 239 | 198 | Keith Kelley |
 | 240 | 197 | Gilles Lanctot |
 | 241 | 195 | Snippy Puzzle |
 | 242 | 195 | 中山成巳 |
@@ -282,8 +282,8 @@
 | 274 | 165 | Zappy Buildgrid |
 | 275 | 164 | Marvetta Williams |
 | 276 | 163 | Ellen Durfee |
-| 277 | 162 | John Brunetti |
-| 278 | 162 | Gwendolyn Pitcairn |
+| 277 | 162 | Gwendolyn Pitcairn |
+| 278 | 162 | John Brunetti |
 | 279 | 162 | conceptCollector |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Matt Gooder |

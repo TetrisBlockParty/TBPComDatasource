@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Michelle Becker |
-| 132 | 521 | Daryn Elliott |
+| 131 | 521 | Daryn Elliott |
+| 132 | 521 | Michelle Becker |
 | 133 | 518 | opf |
 | 134 | 506 | Sashay Tapae Simpson |
 | 135 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -278,8 +278,8 @@
 | 270 | 268 | Krystal Gerstberger |
 | 271 | 267 | Tiffany Davie |
 | 272 | 267 | April Matthew Kibble |
-| 273 | 266 | Snappy Balancer |
-| 274 | 266 | Quirky Dropzone |
+| 273 | 266 | Quirky Dropzone |
+| 274 | 266 | Snappy Balancer |
 | 275 | 265 | Nikki Pags |
 | 276 | 263 | Brenda Schmid Wood |
 | 277 | 262 | Ray Lader |
