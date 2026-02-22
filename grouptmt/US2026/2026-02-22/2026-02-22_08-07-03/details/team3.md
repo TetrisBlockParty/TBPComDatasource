@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -131,8 +131,8 @@
 | 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | CeceGeGe |
-| 127 | 473 | mzcatzy |
+| 126 | 473 | mzcatzy |
+| 127 | 473 | CeceGeGe |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -170,8 +170,8 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Logan Naccarato |
+| 165 | 370 | Logan Naccarato |
+| 166 | 370 | Santeria Trece Candles |
 | 167 | 370 | Danielle Allison |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
@@ -337,11 +337,11 @@
 | 329 | 169 | Peachy Rollfit |
 | 330 | 169 | Naur |
 | 331 | 169 | Kristian Thurman |
-| 332 | 168 | Trice Thomas |
-| 333 | 168 | April Matthew Kibble |
+| 332 | 168 | April Matthew Kibble |
+| 333 | 168 | Trice Thomas |
 | 334 | 167 | Shicken Nuggit |
-| 335 | 167 | Irene Arreguin |
-| 336 | 167 | Romeo |
+| 335 | 167 | Romeo |
+| 336 | 167 | Irene Arreguin |
 | 337 | 166 | Noettín Kan Zasnemoore |
 | 338 | 166 | Snarky McFace |
 | 339 | 165 | Rainbow77375 |

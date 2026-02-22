@@ -140,8 +140,8 @@
 | 132 | 276 | Dandy Basegrid |
 | 133 | 270 | Ash Galvan |
 | 134 | 265 | SkipTheSadSauce |
-| 135 | 264 | Lexuriuos Lifestlye |
-| 136 | 264 | Jenny Gingrich Fuentes |
+| 135 | 264 | Jenny Gingrich Fuentes |
+| 136 | 264 | Lexuriuos Lifestlye |
 | 137 | 263 | Sharon Reynolds |
 | 138 | 262 | Snippy Wipebuilder |
 | 139 | 258 | Virginia Gray Floyd |
@@ -160,8 +160,8 @@
 | 152 | 239 | Jamie Jury |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
-| 155 | 230 | Frothy Pattern |
-| 156 | 230 | Billie Dawn Sparks |
+| 155 | 230 | Billie Dawn Sparks |
+| 156 | 230 | Frothy Pattern |
 | 157 | 229 | David Lutcher |
 | 158 | 226 | Kandae |
 | 159 | 226 | Sleepysloath5745 |
@@ -263,8 +263,8 @@
 | 255 | 150 | Adele Rahman |
 | 256 | 149 | Jessica Russell |
 | 257 | 149 | Chirpy Smasher |
-| 258 | 147 | J.F. Fields |
-| 259 | 147 | Davery Spencer Adair |
+| 258 | 147 | Davery Spencer Adair |
+| 259 | 147 | J.F. Fields |
 | 260 | 145 | Tipsy Riseclear |
 | 261 | 144 | Miguel Teixeira |
 | 262 | 144 | Fmp |

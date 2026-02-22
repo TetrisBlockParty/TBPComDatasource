@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -122,15 +122,15 @@
 | 114 | 303 | Lauren Scott |
 | 115 | 300 | Jason Hart |
 | 116 | 298 | Lucas J Sutton |
-| 117 | 296 | HastyGrabber |
-| 118 | 296 | Justin Hannigan |
+| 117 | 296 | Justin Hannigan |
+| 118 | 296 | HastyGrabber |
 | 119 | 295 | Latisha Davis |
 | 120 | 294 | Kesha Brady |
 | 121 | 290 | 🥔🥔 Spudz |
 | 122 | 288 | Leslie Nicole |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | Daria Rycewicz |
-| 125 | 286 | shark tato |
+| 124 | 286 | shark tato |
+| 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
@@ -164,8 +164,8 @@
 | 156 | 223 | Kris Bartlett |
 | 157 | 222 | Joeliecea Cobb |
 | 158 | 222 | TheNeesh50 |
-| 159 | 221 | Rheanda Weaskus |
-| 160 | 221 | PurpleMoonMa |
+| 159 | 221 | PurpleMoonMa |
+| 160 | 221 | Rheanda Weaskus |
 | 161 | 220 | Matt Dell'Olio |
 | 162 | 218 | Casey Grabner |
 | 163 | 217 | Chaz Duncan |
@@ -219,9 +219,9 @@
 | 211 | 162 | Joanna |
 | 212 | 162 | John Brunetti |
 | 213 | 161 | Jenny Wells-Oakley |
-| 214 | 160 | Brittany Marsh |
-| 215 | 160 | Carlos Ramirez |
-| 216 | 160 | Laura Hosford |
+| 214 | 160 | Carlos Ramirez |
+| 215 | 160 | Laura Hosford |
+| 216 | 160 | Brittany Marsh |
 | 217 | 159 | Marcus Todd |
 | 218 | 158 | Chair |
 | 219 | 158 | Sam Bishop |
@@ -272,8 +272,8 @@
 | 264 | 136 | Maureen Flanigan |
 | 265 | 135 | Joshua Guess |
 | 266 | 134 | Duck |
-| 267 | 134 | Kim Klutz Olson |
-| 268 | 134 | Angelito |
+| 267 | 134 | Angelito |
+| 268 | 134 | Kim Klutz Olson |
 | 269 | 133 | KimoKoala |
 | 270 | 132 | Degenerate |
 | 271 | 132 | Jessica Cagle |

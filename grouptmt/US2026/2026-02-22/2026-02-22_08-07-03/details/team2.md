@@ -61,8 +61,8 @@
 | 53 | 2344 | Melinda Brown |
 | 54 | 2333 | Crystalin Heath Lewis |
 | 55 | 2298 | Brent Bittenbender |
-| 56 | 2280 | Ramone Armstrong |
-| 57 | 2280 | Robert Diddle |
+| 56 | 2280 | Robert Diddle |
+| 57 | 2280 | Ramone Armstrong |
 | 58 | 2151 | Kelly Crook |
 | 59 | 2137 | KellyDyan |
 | 60 | 2131 | RdRydnHd |
@@ -128,8 +128,8 @@
 | 120 | 1273 | Cool Rollpiece |
 | 121 | 1257 | Eileen Hale |
 | 122 | 1252 | Katrina Williams Balmir |
-| 123 | 1248 | Howard Forest |
-| 124 | 1248 | Isabela Shaw |
+| 123 | 1248 | Isabela Shaw |
+| 124 | 1248 | Howard Forest |
 | 125 | 1242 | Altamirano Michael |
 | 126 | 1232 | Groovy Puzzle |
 | 127 | 1226 | Vo'Landa Reels |
@@ -401,8 +401,8 @@
 | 393 | 509 | Kelli Wells |
 | 394 | 509 | Jordan Kaiser |
 | 395 | 507 | Irene Jones |
-| 396 | 507 | Joshua Mandel |
-| 397 | 507 | Magic steve |
+| 396 | 507 | Magic steve |
+| 397 | 507 | Joshua Mandel |
 | 398 | 504 | Kimmy Newman |
 | 399 | 502 | Sparkles |
 | 400 | 500 | Sarah Ridenour |
@@ -436,8 +436,8 @@
 | 428 | 481 | Klee |
 | 429 | 480 | Dar |
 | 430 | 478 | Ashley Collins |
-| 431 | 477 | Michelle Fields |
-| 432 | 477 | Julay |
+| 431 | 477 | Julay |
+| 432 | 477 | Michelle Fields |
 | 433 | 476 | Kitybox |
 | 434 | 475 | Michelle Lee |
 | 435 | 474 | Calandra Shaya Robinson |
@@ -917,8 +917,8 @@
 | 909 | 239 | Joel Rosado |
 | 910 | 239 | AsnPryBoy83 |
 | 911 | 239 | Amy John Mills |
-| 912 | 238 | SwifftFox |
-| 913 | 238 | Pfc Monei Rivera |
+| 912 | 238 | Pfc Monei Rivera |
+| 913 | 238 | SwifftFox |
 | 914 | 238 | Trista Carter |
 | 915 | 238 | Manny Trindade |
 | 916 | 237 | Nutty Matchline |
@@ -953,8 +953,8 @@
 | 945 | 229 | Chyrisse Norton |
 | 946 | 228 | Kandy Charmz |
 | 947 | 228 | Dara |
-| 948 | 228 | Yasmin Guzman |
-| 949 | 228 | Lee |
+| 948 | 228 | Lee |
+| 949 | 228 | Yasmin Guzman |
 | 950 | 228 | Queen |
 | 951 | 227 | Toni Whipple |
 | 952 | 227 | Wacky Cascade |
@@ -1135,8 +1135,8 @@
 | 1127 | 190 | Jessica Kaye DeAguero |
 | 1128 | 190 | Lola |
 | 1129 | 190 | Miyah Erraina |
-| 1130 | 190 | Andrew Bratton-Tomes |
-| 1131 | 190 | Quiksilver |
+| 1130 | 190 | Quiksilver |
+| 1131 | 190 | Andrew Bratton-Tomes |
 | 1132 | 190 | Katie Marie |
 | 1133 | 190 | LaFaye Rivers |
 | 1134 | 190 | Martina Gabrielle LaPolla |
@@ -1199,8 +1199,8 @@
 | 1191 | 180 | Lively Brickfit |
 | 1192 | 180 | Nuke Morris |
 | 1193 | 180 | Bethany Blanchette |
-| 1194 | 180 | Amanda Allmon |
-| 1195 | 180 | Zesty Shatterbuilder |
+| 1194 | 180 | Zesty Shatterbuilder |
+| 1195 | 180 | Amanda Allmon |
 | 1196 | 179 | mshir |
 | 1197 | 179 | Rain |
 | 1198 | 179 | William Hughes |
@@ -1321,8 +1321,8 @@
 | 1313 | 165 | Sandra McNab |
 | 1314 | 165 | Alexandra Eryn |
 | 1315 | 165 | Mellissa Evans |
-| 1316 | 164 | Jennifer Foster |
-| 1317 | 164 | Quiltygirl |
+| 1316 | 164 | Quiltygirl |
+| 1317 | 164 | Jennifer Foster |
 | 1318 | 164 | Ty Quarles |
 | 1319 | 164 | Brittany Chapman |
 | 1320 | 164 | Spicy Riser |
