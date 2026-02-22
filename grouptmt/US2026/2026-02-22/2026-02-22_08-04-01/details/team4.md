@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | TeeJ |
-| 75 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | Carmethia Clemons Haslerig |
+| 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |
@@ -129,8 +129,8 @@
 | 121 | 290 | 🥔🥔 Spudz |
 | 122 | 288 | Leslie Nicole |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | shark tato |
-| 125 | 286 | Daria Rycewicz |
+| 124 | 286 | Daria Rycewicz |
+| 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Desi Desporte |
@@ -139,9 +139,9 @@
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Epic Curvetile |
+| 134 | 264 | Girl |
 | 135 | 264 | Dana Scott |
-| 136 | 264 | Girl |
+| 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 256 | Mylo Lipscomb |
 | 139 | 255 | Lindsay Ball |
@@ -199,11 +199,11 @@
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
 | 193 | 184 | Ak Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 181 | Carter Jones |
+| 194 | 181 | Carter Jones |
+| 195 | 181 | Alan George LaRage |
 | 196 | 180 | Rafael Valentin |
-| 197 | 180 | Dihcheese444 |
-| 198 | 180 | Orchislactea |
+| 197 | 180 | Orchislactea |
+| 198 | 180 | Dihcheese444 |
 | 199 | 179 | blockstar |
 | 200 | 175 | TinyLegoRose |
 | 201 | 174 | Rio Rocha |
@@ -216,12 +216,12 @@
 | 208 | 165 | James Hurley Jr. |
 | 209 | 164 | 030Synner |
 | 210 | 163 | Kristina Black |
-| 211 | 162 | Joanna |
-| 212 | 162 | John Brunetti |
+| 211 | 162 | John Brunetti |
+| 212 | 162 | Joanna |
 | 213 | 161 | Jenny Wells-Oakley |
-| 214 | 160 | Carlos Ramirez |
-| 215 | 160 | Laura Hosford |
-| 216 | 160 | Brittany Marsh |
+| 214 | 160 | Laura Hosford |
+| 215 | 160 | Brittany Marsh |
+| 216 | 160 | Carlos Ramirez |
 | 217 | 159 | Marcus Todd |
 | 218 | 158 | Sam Bishop |
 | 219 | 158 | Avy Absol |
@@ -399,7 +399,7 @@
 | 391 | 95 | Chirpy Slammer |
 | 392 | 94 | DonMega |
 | 393 | 94 | Ahleek Mitchell |
-| 394 | 94 | DonMega |
+| 394 | 94 | Cynthia Boudreau |
 | 395 | 93 | Matt Gooder |
 | 396 | 92 | Frilly Blocky |
 | 397 | 92 | Krash |
@@ -423,7 +423,7 @@
 | 415 | 88 | Chris Hartig |
 | 416 | 88 | Michelle Parker |
 | 417 | 87 | Martha Lucinda Bishop |
-| 418 | 86 | Peppy Strike |
+| 418 | 86 | Destiney Carter |
 | 419 | 86 | amy |
 | 420 | 86 | Peppy Strike |
 | 421 | 85 | Jackie Clark |

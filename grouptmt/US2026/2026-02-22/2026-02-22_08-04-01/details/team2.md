@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Jaye EL Hunter |
-| 447 | 463 | Sue Leard |
+| 446 | 463 | Sue Leard |
+| 447 | 463 | Jaye EL Hunter |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Daphne Jordan |
 | 450 | 462 | Tonya Lee |
@@ -479,8 +479,8 @@
 | 471 | 438 | Johnny Yeates |
 | 472 | 437 | Bubbly Snapfit |
 | 473 | 436 | Brenda Pierpoint |
-| 474 | 435 | Regina Young |
-| 475 | 435 | James Louie |
+| 474 | 435 | James Louie |
+| 475 | 435 | Regina Young |
 | 476 | 433 | KayLynn Ogden McClelland |
 | 477 | 432 | Lucy Marshall |
 | 478 | 430 | Jackie Lucas |
@@ -522,8 +522,8 @@
 | 514 | 408 | Stefanie Zonzini-Gagliardi |
 | 515 | 408 | Brandon Jones |
 | 516 | 406 | Kimberly Ann |
-| 517 | 406 | Erin StFrancis |
-| 518 | 406 | Mighty Spinbuilder |
+| 517 | 406 | Mighty Spinbuilder |
+| 518 | 406 | Erin StFrancis |
 | 519 | 404 | Snappy snappers |
 | 520 | 404 | Fancy Twister |
 | 521 | 404 | Goofy Catcher |
@@ -898,8 +898,8 @@
 | 890 | 244 | Brooklynn Huckaby |
 | 891 | 244 | Erika Deer Kauffman |
 | 892 | 244 | David M. Platz |
-| 893 | 243 | Albert McKnight |
-| 894 | 243 | Cool Grabber |
+| 893 | 243 | Cool Grabber |
+| 894 | 243 | Albert McKnight |
 | 895 | 243 | Jaybee Nguyen |
 | 896 | 242 | Aimee Campbell |
 | 897 | 242 | Groovy Tilefall |
@@ -942,8 +942,8 @@
 | 934 | 233 | Nerdy Riserfit |
 | 935 | 232 | P. D. Paige |
 | 936 | 232 | Regina Unruh |
-| 937 | 231 | Michelle Fleming Luna |
-| 938 | 231 | Vung Nguyen |
+| 937 | 231 | Vung Nguyen |
+| 938 | 231 | Michelle Fleming Luna |
 | 939 | 231 | Stanley Vanekelenburg |
 | 940 | 230 | lady |
 | 941 | 230 | Andrew Engman |
@@ -953,8 +953,8 @@
 | 945 | 229 | Chyrisse Norton |
 | 946 | 228 | Kandy Charmz |
 | 947 | 228 | Dara |
-| 948 | 228 | Yasmin Guzman |
-| 949 | 228 | Lee |
+| 948 | 228 | Lee |
+| 949 | 228 | Yasmin Guzman |
 | 950 | 228 | Queen |
 | 951 | 227 | Toni Whipple |
 | 952 | 227 | Ethan Stienbarger |
@@ -1412,7 +1412,7 @@
 | 1404 | 154 | Fancy Setter |
 | 1405 | 154 | Stacey |
 | 1406 | 154 | Mine |
-| 1407 | 154 | Stacey |
+| 1407 | 154 | Alexander Rodriguez |
 | 1408 | 153 | Netty |
 | 1409 | 153 | Brave Gridzone |
 | 1410 | 153 | Amanda Fullerton |

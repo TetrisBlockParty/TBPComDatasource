@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -171,8 +171,8 @@
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
 | 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Logan Naccarato |
-| 167 | 370 | Danielle Allison |
+| 166 | 370 | Danielle Allison |
+| 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -185,8 +185,8 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Gumbo |
-| 181 | 338 | Leah Barnett |
+| 180 | 338 | Leah Barnett |
+| 181 | 338 | Gumbo |
 | 182 | 338 | Raven Dudley |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
@@ -236,9 +236,9 @@
 | 228 | 263 | Brittany |
 | 229 | 263 | Angeline Joseph |
 | 230 | 262 | Joe-Maggie Mathews |
-| 231 | 261 | Marquita Sheard |
-| 232 | 261 | Tiffany Ford |
-| 233 | 261 | Tasha Wesson-Torrence |
+| 231 | 261 | Tasha Wesson-Torrence |
+| 232 | 261 | Marquita Sheard |
+| 233 | 261 | Tiffany Ford |
 | 234 | 260 | Grams |
 | 235 | 259 | Danielle Weikel |
 | 236 | 258 | Tamara Deherrera |
@@ -313,8 +313,8 @@
 | 305 | 189 | Katie Leigh Blankenship |
 | 306 | 188 | Loopy Fallmatch |
 | 307 | 186 | Carrie Huskey |
-| 308 | 184 | France Vézina |
-| 309 | 184 | Troy |
+| 308 | 184 | Troy |
+| 309 | 184 | France Vézina |
 | 310 | 184 | Stephanie Hill |
 | 311 | 183 | Cesar Barraza |
 | 312 | 182 | Melanie Sherwood |
@@ -344,12 +344,12 @@
 | 336 | 167 | Romeo |
 | 337 | 166 | Noettín Kan Zasnemoore |
 | 338 | 166 | Snarky McFace |
-| 339 | 165 | Rainbow77375 |
-| 340 | 165 | Ashley Lynn Marchese |
+| 339 | 165 | Ashley Lynn Marchese |
+| 340 | 165 | Rainbow77375 |
 | 341 | 165 | Kali Kelz Williams |
 | 342 | 164 | Ashley Rufus Bythcez |
-| 343 | 163 | Christine Trester |
-| 344 | 163 | Diana Ibarra |
+| 343 | 163 | Diana Ibarra |
+| 344 | 163 | Christine Trester |
 | 345 | 162 | Nicole Summers-Nelson |
 | 346 | 162 | Loopy Fallzone |
 | 347 | 162 | Stephanie Whitefield |
@@ -361,9 +361,9 @@
 | 353 | 159 | Salena Whitlock |
 | 354 | 159 | Joshua David Huie |
 | 355 | 158 | Willow |
-| 356 | 157 | Katrina E Jelks |
+| 356 | 157 | Angel Mendez |
 | 357 | 157 | Steffi Chris Dacones |
-| 358 | 157 | Angel Mendez |
+| 358 | 157 | Katrina E Jelks |
 | 359 | 157 | Wetwet |
 | 360 | 156 | Nichole Greene |
 | 361 | 155 | Michell Hendershott Jackson |
