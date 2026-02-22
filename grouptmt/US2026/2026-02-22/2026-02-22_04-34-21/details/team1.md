@@ -73,8 +73,8 @@
 | 65 | 430 | Nancy Green |
 | 66 | 428 | Stephanie Zahn |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Jazzy Framezone |
-| 69 | 412 | Anaid Sanchez |
+| 68 | 412 | Anaid Sanchez |
+| 69 | 412 | Jazzy Framezone |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
@@ -274,8 +274,8 @@
 | 266 | 124 | Rodney Schmerfeld |
 | 267 | 123 | Zany Tiler |
 | 268 | 122 | Nate Funk |
-| 269 | 121 | Jacob Shaddock |
-| 270 | 121 | Jamie Jury |
+| 269 | 121 | Jamie Jury |
+| 270 | 121 | Jacob Shaddock |
 | 271 | 120 | DoodleBug |
 | 272 | 118 | Tyler Hertzog |
 | 273 | 118 | Garcia Bailey |

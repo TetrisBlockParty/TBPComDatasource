@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Dustee Craddock-Harrison |
-| 45 | 630 | Chilly Line |
+| 44 | 630 | Chilly Line |
+| 45 | 630 | Dustee Craddock-Harrison |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | Robin Getchel |
 | 48 | 614 | KM8 |
@@ -80,8 +80,8 @@
 | 72 | 409 | Isabella Blanco |
 | 73 | 404 | Courtney Cicoria |
 | 74 | 399 | Jenna Ingersoll |
-| 75 | 396 | Alicia Bass |
-| 76 | 396 | Amy Suckarieh |
+| 75 | 396 | Amy Suckarieh |
+| 76 | 396 | Alicia Bass |
 | 77 | 392 | YoMomma |
 | 78 | 391 | Ramel Rhodes |
 | 79 | 390 | Carlton Unfiltered |

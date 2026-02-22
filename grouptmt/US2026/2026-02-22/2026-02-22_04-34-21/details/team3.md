@@ -233,8 +233,8 @@
 | 225 | 240 | Brandon Givens |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Grego Daniel |
-| 229 | 234 | Nikki Pags |
+| 228 | 234 | Nikki Pags |
+| 229 | 234 | Grego Daniel |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -265,8 +265,8 @@
 | 257 | 203 | Angie Harper |
 | 258 | 202 | Staci George Fitzsimmons |
 | 259 | 200 | angieelyn |
-| 260 | 200 | glichmod |
-| 261 | 200 | Sharisse Baltimore |
+| 260 | 200 | Sharisse Baltimore |
+| 261 | 200 | glichmod |
 | 262 | 199 | Hyper Matchzone |
 | 263 | 197 | Raven Dudley |
 | 264 | 195 | Cheryl Hinch Tenbrook |

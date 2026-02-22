@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | Gabby Jenner |
-| 76 | 1603 | RdRydnHd |
+| 75 | 1603 | RdRydnHd |
+| 76 | 1603 | Gabby Jenner |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1587 | Rob Riggin |
 | 79 | 1553 | Charie Holland |
@@ -148,8 +148,8 @@
 | 140 | 1051 | Shandrica Lowe |
 | 141 | 1048 | PsychKIRAtrist |
 | 142 | 1047 | Amy Sayers |
-| 143 | 1043 | Suki Kaur |
-| 144 | 1043 | Brave Dropmatch |
+| 143 | 1043 | Brave Dropmatch |
+| 144 | 1043 | Suki Kaur |
 | 145 | 1032 | Sarah Freitas |
 | 146 | 1026 | Heather Westrum |
 | 147 | 1023 | Brainy Smurf |
@@ -201,8 +201,8 @@
 | 193 | 845 | April Dawn Gussler |
 | 194 | 838 | Tralonda Weeks |
 | 195 | 837 | Ashley Rose Frederick |
-| 196 | 834 | Rebecca Doughman |
-| 197 | 834 | Nika Bee |
+| 196 | 834 | Nika Bee |
+| 197 | 834 | Rebecca Doughman |
 | 198 | 828 | Cindy Sechler Taninecz |
 | 199 | 826 | Moose Griffith |
 | 200 | 824 | Felicia Lynn |
@@ -217,9 +217,9 @@
 | 209 | 799 | Foxxo |
 | 210 | 787 | Laura McCarthey |
 | 211 | 783 | Shuany Arias |
-| 212 | 777 | Barbra Miller |
+| 212 | 777 | Eric Carlson |
 | 213 | 777 | Tesha Oldaker |
-| 214 | 777 | Eric Carlson |
+| 214 | 777 | Barbra Miller |
 | 215 | 771 | Terri McKelvey McKinley |
 | 216 | 765 | Jodi Blake |
 | 217 | 763 | Samantha Jo |
@@ -248,8 +248,8 @@
 | 240 | 698 | Mighty Shatterfit |
 | 241 | 697 | Dreamy Blast |
 | 242 | 692 | Chelle |
-| 243 | 692 | Jennifer Casey-Kay |
-| 244 | 692 | Dannette Goldberg-Richards |
+| 243 | 692 | Dannette Goldberg-Richards |
+| 244 | 692 | Jennifer Casey-Kay |
 | 245 | 690 | Deborah Miller |
 | 246 | 689 | Auntie B |
 | 247 | 688 | ShinyRose |
@@ -260,8 +260,8 @@
 | 252 | 678 | Scott Treadway |
 | 253 | 677 | Mema |
 | 254 | 676 | Pacynthia Williams |
-| 255 | 675 | Tommy Tha Boss Gunz |
-| 256 | 675 | Brenda Utphall |
+| 255 | 675 | Brenda Utphall |
+| 256 | 675 | Tommy Tha Boss Gunz |
 | 257 | 672 | Danielle Simmons |
 | 258 | 669 | Claire Noland |
 | 259 | 666 | Speedy Spinblock |
@@ -342,8 +342,8 @@
 | 334 | 518 | Traci Johnson |
 | 335 | 517 | Porsche' Nicole |
 | 336 | 516 | Diamond Scott |
-| 337 | 515 | Matt Johnson |
-| 338 | 515 | Laquetta Royston |
+| 337 | 515 | Laquetta Royston |
+| 338 | 515 | Matt Johnson |
 | 339 | 511 | Laura Mclean |
 | 340 | 509 | Jordan Kaiser |
 | 341 | 509 | Kelli Wells |
@@ -669,8 +669,8 @@
 | 661 | 289 | August Hale |
 | 662 | 289 | Bella Novia |
 | 663 | 288 | thranduil |
-| 664 | 288 | Jenna Nance |
-| 665 | 288 | Kristi Biddinger |
+| 664 | 288 | Kristi Biddinger |
+| 665 | 288 | Jenna Nance |
 | 666 | 288 | Ashley Criner |
 | 667 | 287 | Toni Roberson |
 | 668 | 287 | Brave Gridpiece |
@@ -1140,7 +1140,7 @@
 | 1132 | 169 | Christy Green |
 | 1133 | 169 | Aqueelah Walters |
 | 1134 | 168 | Leslie |
-| 1135 | 168 | Koa N Sharon Chen |
+| 1135 | 168 | Val Pal |
 | 1136 | 168 | Chilly Linkfall |
 | 1137 | 168 | Koa N Sharon Chen |
 | 1138 | 168 | Melissa Licklider |
