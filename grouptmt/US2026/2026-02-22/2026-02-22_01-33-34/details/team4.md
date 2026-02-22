@@ -136,8 +136,8 @@
 | 128 | 210 | Mary Ann Pabukis |
 | 129 | 210 | Swanky Fitline |
 | 130 | 205 | Sarah Neathery |
-| 131 | 204 | Jen Caldwell |
-| 132 | 204 | Dana Scott |
+| 131 | 204 | Dana Scott |
+| 132 | 204 | Jen Caldwell |
 | 133 | 203 | Katherine Crane |
 | 134 | 201 | Melvin Baird |
 | 135 | 196 | Jenna McGeorge |

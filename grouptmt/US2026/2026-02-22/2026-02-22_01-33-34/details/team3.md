@@ -119,11 +119,11 @@
 | 111 | 403 | Christine Filson |
 | 112 | 403 | FuzzyNavel |
 | 113 | 400 | Luciana Braganca Vieira |
-| 114 | 399 | ren |
-| 115 | 399 | Mcathen |
+| 114 | 399 | Mcathen |
+| 115 | 399 | ren |
 | 116 | 396 | Shannon Matthew Byers |
-| 117 | 394 | Annie Déè |
-| 118 | 394 | joclisa |
+| 117 | 394 | joclisa |
+| 118 | 394 | Annie Déè |
 | 119 | 392 | Michelle |
 | 120 | 391 | Calista Jo Dickson |
 | 121 | 390 | Patti Skiles |
@@ -140,8 +140,8 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Sherry Ogden |
-| 136 | 355 | Tessina Dewey-Mancino |
+| 135 | 355 | Tessina Dewey-Mancino |
+| 136 | 355 | Sherry Ogden |
 | 137 | 348 | CeceGeGe |
 | 138 | 347 | Nicole Flippo |
 | 139 | 347 | Darlene McMillan |
@@ -181,8 +181,8 @@
 | 173 | 265 | DidIdothat |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tiffany Ford |
-| 177 | 261 | Tom Nault |
+| 176 | 261 | Tom Nault |
+| 177 | 261 | Tiffany Ford |
 | 178 | 258 | Tamara Deherrera |
 | 179 | 257 | Ashley Jones |
 | 180 | 256 | Brenda Lee Vander Molen |
@@ -217,8 +217,8 @@
 | 209 | 211 | Khaleada McGill Banks |
 | 210 | 210 | Michael Lucado |
 | 211 | 208 | Trisha Balmer |
-| 212 | 207 | Chris Bell |
-| 213 | 207 | Jessica |
+| 212 | 207 | Jessica |
+| 213 | 207 | Chris Bell |
 | 214 | 205 | Sarah Moyer |
 | 215 | 204 | Danielle Allison |
 | 216 | 204 | Sunny Rotater |
@@ -277,8 +277,8 @@
 | 269 | 163 | Christine Trester |
 | 270 | 163 | Stephanie Hill |
 | 271 | 163 | Diana Ibarra |
-| 272 | 162 | Loopy Fallzone |
-| 273 | 162 | Stephanie Whitefield |
+| 272 | 162 | Stephanie Whitefield |
+| 273 | 162 | Loopy Fallzone |
 | 274 | 162 | Cesar Barraza |
 | 275 | 161 | Bouncy Blockbuilder |
 | 276 | 160 | Tiffany Davie |
@@ -355,10 +355,10 @@
 | 347 | 127 | Edwin Calvillo Jr. |
 | 348 | 126 | Crystal Martin |
 | 349 | 126 | Stella |
-| 350 | 125 | Andrew Thorson |
-| 351 | 125 | Shimika Enay Wallace |
-| 352 | 125 | Felicia Doxey |
-| 353 | 125 | Andrew Thorson |
+| 350 | 125 | Shimika Enay Wallace |
+| 351 | 125 | Felicia Doxey |
+| 352 | 125 | Andrew Thorson |
+| 353 | 125 | Lys |
 | 354 | 124 | gremicx |
 | 355 | 124 | Romeo |
 | 356 | 124 | Tipsy Puzzle |
@@ -447,10 +447,10 @@
 | 439 | 99 | Kiki |
 | 440 | 99 | Elyse Grabowsky |
 | 441 | 98 | Katie Morton |
-| 442 | 98 | Jessica Rose-Morgan |
-| 443 | 98 | Armi |
+| 442 | 98 | Armi |
+| 443 | 98 | Erika Thornton |
 | 444 | 98 | Jocelyne Baca |
-| 445 | 98 | Erika Thornton |
+| 445 | 98 | Jessica Rose-Morgan |
 | 446 | 97 | Tina Baurdau |
 | 447 | 97 | Paula Little |
 | 448 | 96 | Kaitie Oliver |

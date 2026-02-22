@@ -84,13 +84,13 @@
 | 76 | 338 | Tipsy Strikerpiece |
 | 77 | 333 | Brandi Huntington |
 | 78 | 329 | Luciano Moreira |
-| 79 | 328 | Kellie |
-| 80 | 328 | Gracie |
-| 81 | 323 | Candy Jones |
-| 82 | 323 | Sweet Baker |
+| 79 | 328 | Gracie |
+| 80 | 328 | Kellie |
+| 81 | 323 | Sweet Baker |
+| 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Deanna L Hermanson |
-| 85 | 319 | Shauna Loe |
+| 84 | 319 | Shauna Loe |
+| 85 | 319 | Deanna L Hermanson |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -120,8 +120,8 @@
 | 112 | 249 | Elaine Elaine |
 | 113 | 248 | Jason Jones |
 | 114 | 244 | Franswa |
-| 115 | 243 | Trippy Redd |
-| 116 | 243 | Chelsea Dahlquist |
+| 115 | 243 | Chelsea Dahlquist |
+| 116 | 243 | Trippy Redd |
 | 117 | 241 | John J. Cronin |
 | 118 | 240 | Tana |
 | 119 | 236 | Mandyy Rae |
@@ -170,9 +170,9 @@
 | 162 | 175 | John Barron |
 | 163 | 174 | Cheeky Pop |
 | 164 | 173 | Gabrielle Louise Malloch |
-| 165 | 171 | femmefatale |
-| 166 | 171 | Greg Premoe |
-| 167 | 171 | David DeSantis |
+| 165 | 171 | David DeSantis |
+| 166 | 171 | femmefatale |
+| 167 | 171 | Greg Premoe |
 | 168 | 170 | Cartier |
 | 169 | 170 | Veronica Eve |
 | 170 | 169 | Abbey Crespo |
@@ -194,11 +194,11 @@
 | 186 | 159 | Bindi |
 | 187 | 158 | Sarah Marie |
 | 188 | 157 | Angela Fairbank |
-| 189 | 154 | Christy Jones |
-| 190 | 154 | Melissa Lemmon |
+| 189 | 154 | Melissa Lemmon |
+| 190 | 154 | Christy Jones |
 | 191 | 153 | Barry Mac'Ockner |
-| 192 | 152 | Speedy Snapfall |
-| 193 | 152 | Jacqueline Unique |
+| 192 | 152 | Jacqueline Unique |
+| 193 | 152 | Speedy Snapfall |
 | 194 | 150 | Adele Rahman |
 | 195 | 148 | Bouncy Grid |
 | 196 | 147 | Davery Spencer Adair |

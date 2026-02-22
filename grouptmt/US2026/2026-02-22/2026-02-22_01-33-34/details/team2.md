@@ -193,8 +193,8 @@
 | 185 | 747 | Real Ri |
 | 186 | 746 | Moose Griffith |
 | 187 | 739 | Gary Schaffner Jr. |
-| 188 | 738 | Melissa Cole |
-| 189 | 738 | Maria Escobar |
+| 188 | 738 | Maria Escobar |
+| 189 | 738 | Melissa Cole |
 | 190 | 737 | Kristopher Miller |
 | 191 | 736 | Ashie Ann |
 | 192 | 729 | Murrae Lynn Rebarchek |
@@ -525,14 +525,14 @@
 | 517 | 317 | Zombi3 |
 | 518 | 316 | Mikayala Szaz |
 | 519 | 314 | James Zaragoza |
-| 520 | 314 | Party d |
-| 521 | 314 | Amanda West |
+| 520 | 314 | Amanda West |
+| 521 | 314 | Party d |
 | 522 | 313 | Natasha Edmonds |
 | 523 | 312 | Justin Hines |
 | 524 | 312 | Christina Jarvis-Swarbrick |
 | 525 | 311 | Mary Marie |
-| 526 | 310 | Lonne Emade |
-| 527 | 310 | Cheeky Brickmatch |
+| 526 | 310 | Cheeky Brickmatch |
+| 527 | 310 | Lonne Emade |
 | 528 | 310 | Audra Williams |
 | 529 | 310 | Sharon Mills |
 | 530 | 309 | Diallo Sparkman |
