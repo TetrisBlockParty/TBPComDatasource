@@ -107,8 +107,8 @@
 | 99 | 1623 | Mr. Street Stack |
 | 100 | 1603 | Gabby Jenner |
 | 101 | 1601 | Ray Ray Prado |
-| 102 | 1599 | Rob Riggin |
-| 103 | 1599 | Janel Turley-Garner |
+| 102 | 1599 | Janel Turley-Garner |
+| 103 | 1599 | Rob Riggin |
 | 104 | 1567 | Sally Dennis |
 | 105 | 1564 | Charie Holland |
 | 106 | 1562 | Loopy Clusterbuilder |
@@ -220,9 +220,9 @@
 | 212 | 973 | Kim Dean |
 | 213 | 972 | Juliana Marques Do Nascimento Gordy |
 | 214 | 960 | Jennifer Kistner |
-| 215 | 957 | Block Master |
+| 215 | 957 | Crystal Hoffman |
 | 216 | 957 | Keri Womack |
-| 217 | 957 | Crystal Hoffman |
+| 217 | 957 | Block Master |
 | 218 | 954 | Shannon Joslin |
 | 219 | 953 | Melissa Rebbe-Lehman |
 | 220 | 951 | Cynthia Ward |
@@ -393,8 +393,8 @@
 | 385 | 611 | Em Chen |
 | 386 | 611 | Julio A Laracuente |
 | 387 | 606 | Brittney Jean |
-| 388 | 602 | Shaun Church |
-| 389 | 602 | KhaosLord |
+| 388 | 602 | KhaosLord |
+| 389 | 602 | Shaun Church |
 | 390 | 602 | Biggest thing |
 | 391 | 601 | Steven Marshaun |
 | 392 | 601 | Moua Ying |
@@ -434,8 +434,8 @@
 | 426 | 558 | Libby Hicks |
 | 427 | 557 | Osun Anuket Esu |
 | 428 | 556 | Slip |
-| 429 | 554 | Santana Miyagi |
-| 430 | 554 | Rachael Senard |
+| 429 | 554 | Rachael Senard |
+| 430 | 554 | Santana Miyagi |
 | 431 | 554 | Tra Barnum |
 | 432 | 551 | Julay |
 | 433 | 549 | Frisky Clearpiece |
@@ -459,8 +459,8 @@
 | 451 | 526 | Sheronda Jackson |
 | 452 | 525 | Belle Mari |
 | 453 | 525 | Joseph Musick |
-| 454 | 524 | Lonne Emade |
-| 455 | 524 | Doowop40 |
+| 454 | 524 | Doowop40 |
+| 455 | 524 | Lonne Emade |
 | 456 | 523 | Matt Johnson |
 | 457 | 522 | Leah |
 | 458 | 520 | Maddy Petersen |
@@ -640,8 +640,8 @@
 | 632 | 398 | Ebony Deloach Bryant |
 | 633 | 397 | Snazzy Basepiece |
 | 634 | 396 | Boogie SoAnimated Johnson |
-| 635 | 396 | Candy Pitts |
-| 636 | 396 | AkaLefty |
+| 635 | 396 | AkaLefty |
+| 636 | 396 | Candy Pitts |
 | 637 | 393 | Deyawn Smith |
 | 638 | 393 | Misti Markijohn |
 | 639 | 393 | Smashanator |
@@ -822,8 +822,8 @@
 | 814 | 311 | Audra Williams |
 | 815 | 311 | SwifftFox |
 | 816 | 311 | Megan Phillips |
-| 817 | 310 | Cheeky Brickmatch |
-| 818 | 310 | Wendy Ducheney |
+| 817 | 310 | Wendy Ducheney |
+| 818 | 310 | Cheeky Brickmatch |
 | 819 | 310 | Cozy Drop |
 | 820 | 309 | Daniell Martinez |
 | 821 | 309 | Byung Bae Park |

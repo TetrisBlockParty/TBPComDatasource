@@ -323,9 +323,9 @@
 | 315 | 223 | Troy |
 | 316 | 223 | Jennifer Alvey |
 | 317 | 222 | Aerian Preston |
-| 318 | 221 | Alice |
+| 318 | 221 | Bleu Sun Beams |
 | 319 | 221 | kacihall |
-| 320 | 221 | Bleu Sun Beams |
+| 320 | 221 | Alice |
 | 321 | 221 | Vaners |
 | 322 | 221 | Ryan Williams |
 | 323 | 221 | Desiree Gold |

@@ -133,8 +133,8 @@
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
 | 127 | 338 | Lucas J Sutton |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
@@ -164,8 +164,8 @@
 | 156 | 276 | Alyssa Papen |
 | 157 | 274 | Calvin Cannon |
 | 158 | 273 | Crystal Nicolette Moore |
-| 159 | 272 | Keshia Lyons |
-| 160 | 272 | Alan George LaRage |
+| 159 | 272 | Alan George LaRage |
+| 160 | 272 | Keshia Lyons |
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
@@ -186,8 +186,8 @@
 | 178 | 260 | Porkobello |
 | 179 | 256 | J-Rizzle |
 | 180 | 256 | Mylo Lipscomb |
-| 181 | 255 | Diana Houts |
-| 182 | 255 | Chaz Duncan |
+| 181 | 255 | Chaz Duncan |
+| 182 | 255 | Diana Houts |
 | 183 | 251 | Klo |
 | 184 | 251 | Matt Summer |
 | 185 | 250 | Matt Dell'Olio |
