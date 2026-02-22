@@ -77,8 +77,8 @@
 | 69 | 701 | D3TROITB0RN74 |
 | 70 | 691 | Carolyn Wallace |
 | 71 | 671 | Kimyatta Cavin |
-| 72 | 664 | Julian Garcia |
-| 73 | 664 | Valerie Roberts |
+| 72 | 664 | Valerie Roberts |
+| 73 | 664 | Julian Garcia |
 | 74 | 659 | Jonathan Kimbrough |
 | 75 | 647 | Shauna Havard |
 | 76 | 647 | KM8 |
@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Jolly Dashfit |
-| 121 | 431 | Courtney Cicoria |
+| 120 | 431 | Courtney Cicoria |
+| 121 | 431 | Jolly Dashfit |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -137,15 +137,15 @@
 | 129 | 401 | Jessica Lynn Cutlip |
 | 130 | 400 | Ericca Eldridge |
 | 131 | 394 | Austin Owens |
-| 132 | 393 | Trish |
-| 133 | 393 | Carlton Unfiltered |
+| 132 | 393 | Carlton Unfiltered |
+| 133 | 393 | Trish |
 | 134 | 392 | Cristy Duerksen |
 | 135 | 391 | Lush Linkfall |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
-| 139 | 377 | Jessica Bohlken |
-| 140 | 377 | Carrie Brian |
+| 139 | 377 | Carrie Brian |
+| 140 | 377 | Jessica Bohlken |
 | 141 | 376 | Kesha Brady |
 | 142 | 373 | Joseph Guthrie |
 | 143 | 368 | Brandon Crabbs |
@@ -176,8 +176,8 @@
 | 168 | 314 | Andy Cabral |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
-| 171 | 307 | Girl |
-| 172 | 307 | Bio Nelly |
+| 171 | 307 | Bio Nelly |
+| 172 | 307 | Girl |
 | 173 | 304 | Chaz Duncan |
 | 174 | 304 | Lindsey Gonzalez |
 | 175 | 303 | shark tato |
@@ -208,8 +208,8 @@
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Melissa Adams |
-| 204 | 270 | Juls |
+| 203 | 270 | Juls |
+| 204 | 270 | Melissa Adams |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Porkobello |
 | 207 | 268 | Mimi |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
@@ -239,16 +239,16 @@
 | 231 | 241 | Chris Hartig |
 | 232 | 241 | Allen Lloyd |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Zesty Twistbuilder |
-| 235 | 238 | Chaz |
+| 234 | 238 | Chaz |
+| 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
 | 238 | 230 | Jade Rian |
 | 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Perky Patternblock |
-| 243 | 225 | Jenna McGeorge |
+| 242 | 225 | Jenna McGeorge |
+| 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | PurpleMoonMa |
 | 246 | 221 | Rheanda Weaskus |

@@ -268,8 +268,8 @@
 | 260 | 955 | Angela Bonquiqui Dinish |
 | 261 | 955 | Kevin Walp |
 | 262 | 951 | Cynthia Ward |
-| 263 | 941 | Glitzy Stackzone |
-| 264 | 941 | Cool Clearer |
+| 263 | 941 | Cool Clearer |
+| 264 | 941 | Glitzy Stackzone |
 | 265 | 937 | Cindy Sechler Taninecz |
 | 266 | 936 | Rickey Johnson |
 | 267 | 934 | April Dawn Gussler |
@@ -293,8 +293,8 @@
 | 285 | 892 | Boldy Cascadepiece |
 | 286 | 887 | Barbra Miller |
 | 287 | 884 | Adira Brown |
-| 288 | 883 | Hong Tang |
-| 289 | 883 | nikki |
+| 288 | 883 | nikki |
+| 289 | 883 | Hong Tang |
 | 290 | 882 | Nashu |
 | 291 | 880 | Sam Joe |
 | 292 | 878 | Felicia Lynn |
@@ -382,8 +382,8 @@
 | 374 | 728 | Tom Riefer |
 | 375 | 725 | Vonceial Boone |
 | 376 | 724 | goofinoff |
-| 377 | 724 | Dreamy Blast |
-| 378 | 724 | Melissa Holsinger |
+| 377 | 724 | Melissa Holsinger |
+| 378 | 724 | Dreamy Blast |
 | 379 | 723 | Leslie Ann Carter |
 | 380 | 719 | Melissa Penelope Ann Dodge |
 | 381 | 716 | Arkei Luster |
@@ -736,8 +736,8 @@
 | 728 | 400 | Deana |
 | 729 | 400 | Tammy Allen |
 | 730 | 399 | Court |
-| 731 | 398 | Heather Sawtelle-Mckenzie |
-| 732 | 398 | Witty Piecebuilder |
+| 731 | 398 | Witty Piecebuilder |
+| 732 | 398 | Heather Sawtelle-Mckenzie |
 | 733 | 398 | Misti Markijohn |
 | 734 | 398 | Frisky Riserbuilder |
 | 735 | 397 | ItsJennifer Neriss |
@@ -5784,7 +5784,7 @@
 | 5776 | 49 | AaronMisty Otto |
 | 5777 | 49 | Brendan Li |
 | 5778 | 49 | Body |
-| 5779 | 49 | Brendan Li |
+| 5779 | 49 | Mariah Stowe McDonald |
 | 5780 | 49 | LoCoS7 |
 | 5781 | 49 | Kangaroo13 |
 | 5782 | 49 | Julie Boline Beach |

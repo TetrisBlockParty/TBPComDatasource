@@ -185,11 +185,11 @@
 | 177 | 465 | Tasha Schriewer |
 | 178 | 464 | Makelini Mausia |
 | 179 | 461 | Shunta Jacobs |
-| 180 | 460 | Danielle Allison |
-| 181 | 460 | Araceli Parra |
+| 180 | 460 | Araceli Parra |
+| 181 | 460 | Danielle Allison |
 | 182 | 458 | Danielle Rhoades |
-| 183 | 457 | Shannon Matthew Byers |
-| 184 | 457 | Jim Mathews |
+| 183 | 457 | Jim Mathews |
+| 184 | 457 | Shannon Matthew Byers |
 | 185 | 455 | Bmo |
 | 186 | 452 | Jacqueline Rodriguez |
 | 187 | 451 | Sarah Cowan Burgos |
@@ -199,8 +199,8 @@
 | 191 | 431 | Wendy Dearden |
 | 192 | 431 | Loopy Fallmatch |
 | 193 | 430 | Terry Jo Jones |
-| 194 | 430 | Joye Sims Binion |
-| 195 | 430 | Jeni Dow |
+| 194 | 430 | Jeni Dow |
+| 195 | 430 | Joye Sims Binion |
 | 196 | 426 | Rochelle Hazelett |
 | 197 | 425 | Michael Johnson |
 | 198 | 422 | Fallorina Susana |
@@ -330,8 +330,8 @@
 | 322 | 268 | Michael Lucado |
 | 323 | 268 | Velma Mull |
 | 324 | 267 | April Matthew Kibble |
-| 325 | 266 | Quirky Dropzone |
-| 326 | 266 | Donna |
+| 325 | 266 | Donna |
+| 326 | 266 | Quirky Dropzone |
 | 327 | 263 | Jimmie Clemons |
 | 328 | 262 | Cyd061769 |
 | 329 | 262 | Kristin Delibac Corrigan |
@@ -481,7 +481,7 @@
 | 473 | 182 | Alicia |
 | 474 | 181 | Sarah Whalen |
 | 475 | 181 | Beth Smith |
-| 476 | 181 | Sarah Whalen |
+| 476 | 181 | Shiny Zonebuilder |
 | 477 | 180 | Beth Ingham |
 | 478 | 179 | Snarky McFace |
 | 479 | 178 | Sarah Tschee |
