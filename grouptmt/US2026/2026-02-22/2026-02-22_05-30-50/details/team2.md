@@ -221,9 +221,9 @@
 | 213 | 800 | Danielle Johnson-Chandler |
 | 214 | 799 | Foxxo |
 | 215 | 787 | Laura McCarthey |
-| 216 | 777 | Jessicah Myers |
+| 216 | 777 | Tesha Oldaker |
 | 217 | 777 | Barbra Miller |
-| 218 | 777 | Tesha Oldaker |
+| 218 | 777 | Jessicah Myers |
 | 219 | 777 | Eric Carlson |
 | 220 | 774 | Auntie B |
 | 221 | 771 | Terri McKelvey McKinley |

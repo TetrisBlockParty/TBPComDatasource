@@ -415,8 +415,8 @@
 | 407 | 84 | Jen Hallin |
 | 408 | 84 | Ruben Wheeler |
 | 409 | 83 | Lynn Marie |
-| 410 | 82 | Oleg Zakharskiy |
-| 411 | 82 | Stacy Jones |
+| 410 | 82 | Stacy Jones |
+| 411 | 82 | Oleg Zakharskiy |
 | 412 | 81 | Robert Rangel |
 | 413 | 81 | Zippy Tilt |
 | 414 | 81 | Megan Boyce |

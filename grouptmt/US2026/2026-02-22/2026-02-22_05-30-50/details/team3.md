@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | CeceGeGe |
-| 161 | 353 | Shunta Jacobs |
+| 160 | 353 | Shunta Jacobs |
+| 161 | 353 | CeceGeGe |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 349 | Fallorina Susana |
