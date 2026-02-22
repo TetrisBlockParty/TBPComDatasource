@@ -204,8 +204,8 @@
 | 196 | 311 | Araceli Parra |
 | 197 | 311 | Rochelle Hazelett |
 | 198 | 310 | Danielle Balcom |
-| 199 | 308 | Rania Zaqout |
-| 200 | 308 | Daryn Elliott |
+| 199 | 308 | Daryn Elliott |
+| 200 | 308 | Rania Zaqout |
 | 201 | 307 | rnr junky |
 | 202 | 307 | Blocked |
 | 203 | 302 | Rebecca Bailey |
@@ -507,7 +507,7 @@
 | 499 | 114 | Christy Quick |
 | 500 | 113 | Christopher Woost |
 | 501 | 113 | Martin Bernier |
-| 502 | 113 | Christopher Woost |
+| 502 | 113 | Leticia Lynn Lowe |
 | 503 | 113 | Kristy Brown |
 | 504 | 113 | Tia Moore |
 | 505 | 113 | Block Baddie |
@@ -557,8 +557,8 @@
 | 549 | 105 | Amy Wheeler |
 | 550 | 104 | Jessica Rose-Morgan |
 | 551 | 104 | bean |
-| 552 | 104 | Jana Fagg |
-| 553 | 104 | Johnathan Dowe |
+| 552 | 104 | Johnathan Dowe |
+| 553 | 104 | Jana Fagg |
 | 554 | 103 | Snappy Balancer |
 | 555 | 103 | Breanna Marsden |
 | 556 | 103 | Lisa Lisa |

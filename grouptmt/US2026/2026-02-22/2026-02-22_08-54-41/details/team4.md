@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -246,8 +246,8 @@
 | 238 | 149 | Shainne Brewer |
 | 239 | 148 | Nubian1 |
 | 240 | 148 | Janita Parrish |
-| 241 | 147 | Jared Gutwein |
-| 242 | 147 | Jay28 |
+| 241 | 147 | Jay28 |
+| 242 | 147 | Jared Gutwein |
 | 243 | 147 | B Renee Desjardin |
 | 244 | 146 | Ultramarine |
 | 245 | 145 | Sandra Safford |

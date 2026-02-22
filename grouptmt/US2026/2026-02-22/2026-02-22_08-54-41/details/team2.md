@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Ramone Armstrong |
-| 59 | 2280 | Robert Diddle |
+| 58 | 2280 | Robert Diddle |
+| 59 | 2280 | Ramone Armstrong |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Isabela Shaw |
-| 128 | 1248 | Howard Forest |
+| 127 | 1248 | Howard Forest |
+| 128 | 1248 | Isabela Shaw |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -288,8 +288,8 @@
 | 280 | 692 | Dannette Goldberg-Richards |
 | 281 | 690 | Deborah Miller |
 | 282 | 689 | Giggy Blocker |
-| 283 | 688 | ShinyRose |
-| 284 | 688 | Tiara Elizabeth Baker |
+| 283 | 688 | Tiara Elizabeth Baker |
+| 284 | 688 | ShinyRose |
 | 285 | 686 | Ashley Guernsey-Martin |
 | 286 | 685 | Binyah-Binyah |
 | 287 | 681 | Melissa Holsinger |
@@ -308,8 +308,8 @@
 | 300 | 663 | Ashle Scranton |
 | 301 | 663 | Mandi Douglas Hilt |
 | 302 | 661 | Ginger |
-| 303 | 659 | Draizen Montrell Thomas |
-| 304 | 659 | Roseanna Peloso |
+| 303 | 659 | Roseanna Peloso |
+| 304 | 659 | Draizen Montrell Thomas |
 | 305 | 658 | Erica Williams |
 | 306 | 653 | goofinoff |
 | 307 | 651 | Unica Rector |
@@ -956,9 +956,9 @@
 | 948 | 234 | Jannan Haimour |
 | 949 | 233 | Allison Hewitt |
 | 950 | 233 | Andrew Engman |
-| 951 | 233 | Nerdy Riserfit |
-| 952 | 233 | Jessica Sutter |
-| 953 | 233 | Myleaha Holley |
+| 951 | 233 | Myleaha Holley |
+| 952 | 233 | Nerdy Riserfit |
+| 953 | 233 | Jessica Sutter |
 | 954 | 232 | P. D. Paige |
 | 955 | 231 | Vung Nguyen |
 | 956 | 231 | Michelle Fleming Luna |
