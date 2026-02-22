@@ -309,8 +309,8 @@
 | 301 | 502 | Poppy Snap |
 | 302 | 500 | Sarah Ridenour |
 | 303 | 500 | Glitzy Stackzone |
-| 304 | 499 | Alisa Lamb |
-| 305 | 499 | Sarah Massey |
+| 304 | 499 | Sarah Massey |
+| 305 | 499 | Alisa Lamb |
 | 306 | 498 | Lylymom |
 | 307 | 497 | Jeremy Parodi |
 | 308 | 492 | Armonie Smith |
@@ -350,8 +350,8 @@
 | 342 | 451 | Melissa Kay Gibson |
 | 343 | 451 | Cody Nishimura |
 | 344 | 451 | Dylan Thomason |
-| 345 | 449 | Shelley Thornburgh Wright |
-| 346 | 449 | Davetta Sanford |
+| 345 | 449 | Davetta Sanford |
+| 346 | 449 | Shelley Thornburgh Wright |
 | 347 | 448 | Jojo Momma |
 | 348 | 447 | Heather Schelkopf |
 | 349 | 447 | Lourisha |
@@ -369,8 +369,8 @@
 | 361 | 433 | Caitlin Schmid |
 | 362 | 428 | Crystie Hicks |
 | 363 | 428 | Rhonda Milstead |
-| 364 | 427 | Destiny Cozier |
-| 365 | 427 | Amanda Ferrell |
+| 364 | 427 | Amanda Ferrell |
+| 365 | 427 | Destiny Cozier |
 | 366 | 427 | Kori Beth Babb |
 | 367 | 425 | Skyler Morgan |
 | 368 | 423 | Victoria Moore-Smith |
@@ -398,8 +398,8 @@
 | 390 | 401 | Taylor Flowers |
 | 391 | 400 | Tammy Allen |
 | 392 | 400 | Lee Harper |
-| 393 | 399 | Steven Marshaun |
-| 394 | 399 | Juanita Lyons |
+| 393 | 399 | Juanita Lyons |
+| 394 | 399 | Steven Marshaun |
 | 395 | 398 | Véronique Lévesque Sabourin |
 | 396 | 397 | coleksquad |
 | 397 | 396 | Stefanie Zonzini-Gagliardi |
@@ -412,13 +412,13 @@
 | 404 | 391 | Qiana Sanders |
 | 405 | 391 | Chilly Bridgepiece |
 | 406 | 389 | Alexis Richardson |
-| 407 | 387 | Ann Matzkanin |
-| 408 | 387 | Johnny Yeates |
+| 407 | 387 | Johnny Yeates |
+| 408 | 387 | Ann Matzkanin |
 | 409 | 386 | Irene Jones |
 | 410 | 384 | Mike Aprilliano |
 | 411 | 383 | Arkei Luster |
-| 412 | 382 | David Holliday |
-| 413 | 382 | KhaosLord |
+| 412 | 382 | KhaosLord |
+| 413 | 382 | David Holliday |
 | 414 | 382 | Alexandra Weir |
 | 415 | 381 | Bubbly Snapfit |
 | 416 | 381 | Melissa Rebbe-Lehman |

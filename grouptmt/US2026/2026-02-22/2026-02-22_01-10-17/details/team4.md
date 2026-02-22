@@ -133,8 +133,8 @@
 | 125 | 211 | Dizzy Tiley |
 | 126 | 210 | Swanky Fitline |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Jen Caldwell |
-| 129 | 204 | Dana Scott |
+| 128 | 204 | Dana Scott |
+| 129 | 204 | Jen Caldwell |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -152,9 +152,9 @@
 | 144 | 185 | Andy Cabral |
 | 145 | 185 | Malakai Darien Fox |
 | 146 | 184 | Justin Hannigan |
-| 147 | 181 | Andria Lynn |
-| 148 | 181 | Carter Jones |
-| 149 | 181 | Klo |
+| 147 | 181 | Klo |
+| 148 | 181 | Andria Lynn |
+| 149 | 181 | Carter Jones |
 | 150 | 180 | Leah Kutz Zirbel |
 | 151 | 179 | Scott Jameson |
 | 152 | 179 | Ak Jones |
@@ -187,9 +187,9 @@
 | 179 | 145 | Zany Shatterer |
 | 180 | 145 | Mimi |
 | 181 | 142 | Zippy Gridlock |
-| 182 | 141 | Kathy Allen |
-| 183 | 141 | Victoria Faniel |
-| 184 | 141 | ĥuf |
+| 182 | 141 | Victoria Faniel |
+| 183 | 141 | ĥuf |
+| 184 | 141 | Kathy Allen |
 | 185 | 141 | Marcus Todd |
 | 186 | 140 | Stephme310 |
 | 187 | 140 | John Brunetti |

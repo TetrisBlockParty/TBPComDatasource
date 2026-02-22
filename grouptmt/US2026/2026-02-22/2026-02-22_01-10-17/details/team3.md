@@ -67,8 +67,8 @@
 | 59 | 645 | MissTaylor |
 | 60 | 628 | Tiff Vs Tiffany |
 | 61 | 625 | Elaine Webb Graves |
-| 62 | 621 | Cherry Parker |
-| 63 | 621 | Ebony West-Cundiff |
+| 62 | 621 | Ebony West-Cundiff |
+| 63 | 621 | Cherry Parker |
 | 64 | 619 | Jennifer |
 | 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
@@ -110,16 +110,16 @@
 | 102 | 441 | Jessica Bechler |
 | 103 | 438 | Bea Miles |
 | 104 | 430 | Patricia White |
-| 105 | 428 | Elissa S-k |
-| 106 | 428 | Betty Ivy |
+| 105 | 428 | Betty Ivy |
+| 106 | 428 | Elissa S-k |
 | 107 | 416 | Mary Pellegrino |
 | 108 | 410 | Stephanie Simpson |
 | 109 | 403 | Christine Filson |
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | joclisa |
-| 114 | 394 | Annie Déè |
+| 113 | 394 | Annie Déè |
+| 114 | 394 | joclisa |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
 | 117 | 390 | Hasty Cascadefit |
@@ -131,16 +131,16 @@
 | 123 | 378 | Tasha Gillespie |
 | 124 | 378 | Tasha Schriewer |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Woods |
-| 127 | 368 | Stephanie Blkpep Davidson |
+| 126 | 368 | Stephanie Blkpep Davidson |
+| 127 | 368 | Stephanie Woods |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Tessina Dewey-Mancino |
-| 131 | 355 | Sherry Ogden |
+| 130 | 355 | Sherry Ogden |
+| 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 340 | Patricia Gadsden |
 | 138 | 328 | Dapper Snap |
@@ -445,7 +445,7 @@
 | 437 | 98 | Erika Thornton |
 | 438 | 98 | Armi |
 | 439 | 98 | Katie Morton |
-| 440 | 98 | Erika Thornton |
+| 440 | 98 | Jocelyne Baca |
 | 441 | 97 | Paula Little |
 | 442 | 97 | Tina Baurdau |
 | 443 | 96 | Oliver Neal II |

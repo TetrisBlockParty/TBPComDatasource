@@ -128,8 +128,8 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | MRdot Rooski |
-| 124 | 216 | Shauntina Burke |
+| 123 | 216 | Shauntina Burke |
+| 124 | 216 | MRdot Rooski |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
@@ -142,14 +142,14 @@
 | 134 | 198 | Happy Snapbuild |
 | 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
-| 137 | 194 | Ash Galvan |
-| 138 | 194 | Tyler Werts |
+| 137 | 194 | Tyler Werts |
+| 138 | 194 | Ash Galvan |
 | 139 | 193 | Lachelle Dillon |
 | 140 | 192 | Jessica Sheehan |
 | 141 | 192 | Shaykmia |
 | 142 | 191 | Diane Byrd |
-| 143 | 190 | Sweetts |
-| 144 | 190 | Thorne Shumate |
+| 143 | 190 | Thorne Shumate |
+| 144 | 190 | Sweetts |
 | 145 | 188 | Sam Williams |
 | 146 | 187 | Snippy Wipebuilder |
 | 147 | 186 | Michael |
