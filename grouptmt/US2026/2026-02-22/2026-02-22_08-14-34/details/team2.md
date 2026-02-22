@@ -242,8 +242,8 @@
 | 234 | 777 | Tesha Oldaker |
 | 235 | 777 | Jessicah Myers |
 | 236 | 777 | Eric Carlson |
-| 237 | 772 | Stephen Stephen |
-| 238 | 772 | Sam Joe |
+| 237 | 772 | Sam Joe |
+| 238 | 772 | Stephen Stephen |
 | 239 | 771 | Terri McKelvey McKinley |
 | 240 | 769 | Adira Brown |
 | 241 | 767 | Jessica Wayne Cornwall |
@@ -474,8 +474,8 @@
 | 466 | 444 | Chab |
 | 467 | 442 | Leah |
 | 468 | 441 | Christina Wsn |
-| 469 | 440 | Sarah Berger |
-| 470 | 440 | Liberty |
+| 469 | 440 | Liberty |
+| 470 | 440 | Sarah Berger |
 | 471 | 440 | Snippy Rumbler |
 | 472 | 438 | Vanessa Moreno |
 | 473 | 438 | Johnny Yeates |
@@ -489,8 +489,8 @@
 | 481 | 430 | Jackie Lucas |
 | 482 | 430 | Gloria Ininahazwe |
 | 483 | 429 | Christy Krissie |
-| 484 | 428 | Kiana Boschh |
-| 485 | 428 | Arkei Luster |
+| 484 | 428 | Arkei Luster |
+| 485 | 428 | Kiana Boschh |
 | 486 | 428 | Shyenn Gadsby |
 | 487 | 427 | Destiny Cozier |
 | 488 | 427 | Quinn |
@@ -825,8 +825,8 @@
 | 817 | 264 | Debbie Gerlib-Molinari Leigh |
 | 818 | 264 | Sanaa Nounoussa |
 | 819 | 264 | Maria Hammett |
-| 820 | 263 | Laura Wyatt |
-| 821 | 263 | Sara Pennington |
+| 820 | 263 | Sara Pennington |
+| 821 | 263 | Laura Wyatt |
 | 822 | 263 | Elizabeth Leinen |
 | 823 | 263 | Katherin Camacho |
 | 824 | 263 | Sunshine711 |
@@ -1104,8 +1104,8 @@
 | 1096 | 196 | Jennifer Barclay |
 | 1097 | 196 | Donna Colby |
 | 1098 | 196 | Giggy Mover |
-| 1099 | 196 | Kimberly Hope Howell |
-| 1100 | 196 | Goofy Cascadeclear |
+| 1099 | 196 | Goofy Cascadeclear |
+| 1100 | 196 | Kimberly Hope Howell |
 | 1101 | 195 | Quiksilver |
 | 1102 | 195 | Persipnei Cuesta |
 | 1103 | 195 | Cheeky Brickroll |

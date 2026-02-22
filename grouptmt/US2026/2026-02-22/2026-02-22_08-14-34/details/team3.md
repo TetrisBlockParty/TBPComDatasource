@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -99,8 +99,8 @@
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
 | 93 | 582 | Speedy Bridger |
-| 94 | 582 | Jay Horn |
-| 95 | 582 | Natasha Jones |
+| 94 | 582 | Natasha Jones |
+| 95 | 582 | Jay Horn |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
@@ -195,9 +195,9 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Stephanie Burtin |
-| 191 | 311 | Rochelle Hazelett |
-| 192 | 311 | Araceli Parra |
+| 190 | 311 | Rochelle Hazelett |
+| 191 | 311 | Araceli Parra |
+| 192 | 311 | Stephanie Burtin |
 | 193 | 310 | Danielle Balcom |
 | 194 | 308 | Rania Zaqout |
 | 195 | 308 | Daryn Elliott |
@@ -215,8 +215,8 @@
 | 207 | 295 | RickyG |
 | 208 | 291 | Kristal C Lee |
 | 209 | 289 | DidIdothat |
-| 210 | 289 | Duane Bright |
-| 211 | 289 | Hoppy Buildout |
+| 210 | 289 | Hoppy Buildout |
+| 211 | 289 | Duane Bright |
 | 212 | 286 | Cynthia Herrmann Egland |
 | 213 | 284 | Denise Nardoni |
 | 214 | 283 | Cheeky Snapper |
