@@ -173,8 +173,8 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Ambyre Patterson |
-| 169 | 1232 | Groovy Puzzle |
+| 168 | 1232 | Groovy Puzzle |
+| 169 | 1232 | Ambyre Patterson |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -216,8 +216,8 @@
 | 208 | 1067 | Samantha Roberts |
 | 209 | 1062 | Crystal Slaughter |
 | 210 | 1058 | Jennifer Kistner |
-| 211 | 1057 | RAEPR05 |
-| 212 | 1057 | Desiree Harris Rosch |
+| 211 | 1057 | Desiree Harris Rosch |
+| 212 | 1057 | RAEPR05 |
 | 213 | 1056 | Amy Sayers |
 | 214 | 1045 | Lourisha |
 | 215 | 1043 | Brave Dropmatch |
@@ -258,8 +258,8 @@
 | 250 | 935 | Kevin Walp |
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 920 | Phil J. Grombliniak |
-| 253 | 919 | Isaac Trappiel IV |
-| 254 | 919 | Joshua Mandel |
+| 253 | 919 | Joshua Mandel |
+| 254 | 919 | Isaac Trappiel IV |
 | 255 | 916 | Butta |
 | 256 | 915 | Robin Kerby |
 | 257 | 915 | Kelly Trent |
@@ -328,8 +328,8 @@
 | 320 | 777 | Samantha Jo |
 | 321 | 774 | Ashley Dow |
 | 322 | 774 | Ginnell Browner |
-| 323 | 773 | Diana Fitzwater |
-| 324 | 773 | Heather Schelkopf |
+| 323 | 773 | Heather Schelkopf |
+| 324 | 773 | Diana Fitzwater |
 | 325 | 770 | Danielle Simmons |
 | 326 | 768 | Michele Morgan |
 | 327 | 767 | Ashley Lopez |
@@ -423,16 +423,16 @@
 | 415 | 628 | Brownie Sheena |
 | 416 | 628 | g |
 | 417 | 626 | Demeka Dangerous-kisses Johnson |
-| 418 | 620 | Traci Johnson |
-| 419 | 620 | Brandon Armstrong |
+| 418 | 620 | Brandon Armstrong |
+| 419 | 620 | Traci Johnson |
 | 420 | 618 | Vanessa Moreno |
 | 421 | 617 | Nicole Cannon |
 | 422 | 617 | Darcy Mae |
 | 423 | 616 | Jackie Avila |
 | 424 | 615 | Julio A Laracuente |
 | 425 | 614 | Emilee Burke |
-| 426 | 613 | Caitlyn Blackwell |
-| 427 | 613 | Tonya Lee |
+| 426 | 613 | Tonya Lee |
+| 427 | 613 | Caitlyn Blackwell |
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
@@ -802,8 +802,8 @@
 | 794 | 354 | Rickey Johnson |
 | 795 | 354 | Rachel Kaminski |
 | 796 | 352 | apokolypse |
-| 797 | 352 | Jean FU Jagielski |
-| 798 | 352 | Mary Boss |
+| 797 | 352 | Mary Boss |
+| 798 | 352 | Jean FU Jagielski |
 | 799 | 351 | NickyBrooks |
 | 800 | 351 | Christina Walker |
 | 801 | 351 | Twisty Tetriblast |
@@ -817,8 +817,8 @@
 | 809 | 349 | Jenn Marie |
 | 810 | 349 | Kiorah Blaze |
 | 811 | 348 | Richard Horton |
-| 812 | 348 | Sara Pennington |
-| 813 | 348 | stacey |
+| 812 | 348 | stacey |
+| 813 | 348 | Sara Pennington |
 | 814 | 347 | Zesty Pivot |
 | 815 | 347 | Jason Garnatz |
 | 816 | 346 | bru |

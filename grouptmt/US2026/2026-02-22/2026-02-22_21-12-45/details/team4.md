@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -99,8 +99,8 @@
 | 91 | 539 | Chris Baggett |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 501 | Zippy Gridlock |
@@ -122,8 +122,8 @@
 | 114 | 440 | Lori Walker |
 | 115 | 440 | shar |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 350 | Angela Srubar-Norman |
@@ -155,7 +155,7 @@
 | 147 | 332 | HastyGrabber |
 | 148 | 328 | Leslie Nicole |
 | 149 | 328 | Brandon Crabbs |
-| 150 | 328 | Leslie Nicole |
+| 150 | 328 | Kris Bartlett |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
 | 153 | 321 | Klo |
@@ -194,11 +194,11 @@
 | 186 | 269 | Nikki Rae Gordon |
 | 187 | 268 | Mimi |
 | 188 | 268 | Porkobello |
-| 189 | 267 | Casey Grabner |
-| 190 | 267 | Kathy Brookins |
+| 189 | 267 | Kathy Brookins |
+| 190 | 267 | Casey Grabner |
 | 191 | 267 | Holly |
-| 192 | 266 | Chris Bernstein |
-| 193 | 266 | Laura |
+| 192 | 266 | Laura |
+| 193 | 266 | Chris Bernstein |
 | 194 | 265 | J-Rizzle |
 | 195 | 264 | Epic Curvetile |
 | 196 | 262 | Holly Jolly |
@@ -278,8 +278,8 @@
 | 270 | 194 | Zany Twisterfit |
 | 271 | 193 | Shainne Brewer |
 | 272 | 193 | Stephme310 |
-| 273 | 192 | Andrew Dang |
-| 274 | 192 | Stella |
+| 273 | 192 | Stella |
+| 274 | 192 | Andrew Dang |
 | 275 | 191 | Earnest Thompson |
 | 276 | 189 | 030Synner |
 | 277 | 187 | Cynthia Boudreau |
