@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Crystal Hoffman |
-| 202 | 910 | Shuany Arias |
+| 201 | 910 | Shuany Arias |
+| 202 | 910 | Crystal Hoffman |
 | 203 | 907 | Gene Mills |
 | 204 | 901 | Jennifer Peachey |
 | 205 | 894 | Auntie B |
@@ -258,8 +258,8 @@
 | 250 | 766 | Lisa Ongtowasruk |
 | 251 | 765 | Jodi Blake |
 | 252 | 764 | Pacynthia Williams |
-| 253 | 763 | Mischelle Clay |
-| 254 | 763 | Samantha Jo |
+| 253 | 763 | Samantha Jo |
+| 254 | 763 | Mischelle Clay |
 | 255 | 763 | Beth |
 | 256 | 759 | Desire Rice |
 | 257 | 756 | Stephanie Neuburger |
@@ -285,8 +285,8 @@
 | 277 | 701 | Hyper Cluster |
 | 278 | 700 | Hong Tang |
 | 279 | 700 | Vincent Petrella |
-| 280 | 700 | Rosemadder |
-| 281 | 700 | Beverly Owens |
+| 280 | 700 | Beverly Owens |
+| 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
@@ -526,14 +526,14 @@
 | 518 | 420 | LaWanda Powell |
 | 519 | 419 | Pocho Zavala |
 | 520 | 419 | Josh Dill |
-| 521 | 418 | Kristi Biddinger |
-| 522 | 418 | Véronique Lévesque Sabourin |
+| 521 | 418 | Véronique Lévesque Sabourin |
+| 522 | 418 | Kristi Biddinger |
 | 523 | 417 | Alexx Anaya |
 | 524 | 416 | Ricky Fortune |
 | 525 | 414 | John |
 | 526 | 414 | Sabrina Burton |
-| 527 | 413 | Biggest thing |
-| 528 | 413 | Lauren Fitzgerald Thomas |
+| 527 | 413 | Lauren Fitzgerald Thomas |
+| 528 | 413 | Biggest thing |
 | 529 | 413 | Fancy Twister |
 | 530 | 413 | Juanita Lyons |
 | 531 | 411 | Mighty Spinbuilder |
@@ -613,8 +613,8 @@
 | 605 | 371 | Brenda Messer |
 | 606 | 371 | Giggy Grabber |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 369 | Tony Lea |
-| 609 | 369 | RaeVan Worthington |
+| 608 | 369 | RaeVan Worthington |
+| 609 | 369 | Tony Lea |
 | 610 | 369 | Juan Castillo |
 | 611 | 368 | Angi Harrison |
 | 612 | 367 | Jessica Lamb |
@@ -626,9 +626,9 @@
 | 618 | 365 | Susan Arnburg |
 | 619 | 365 | Audrey Jones |
 | 620 | 364 | Shinette Dobson |
-| 621 | 363 | Jes Norris |
-| 622 | 363 | Michelle Sager |
-| 623 | 363 | Kia Humphery |
+| 621 | 363 | Kia Humphery |
+| 622 | 363 | Jes Norris |
+| 623 | 363 | Michelle Sager |
 | 624 | 363 | Stephanie Fortune |
 | 625 | 362 | Andrea Maher |
 | 626 | 362 | Veronics |
@@ -799,8 +799,8 @@
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
-| 794 | 277 | Anthony Mignacca |
-| 795 | 277 | Brianna Cerney |
+| 794 | 277 | Brianna Cerney |
+| 795 | 277 | Anthony Mignacca |
 | 796 | 277 | Amanda Chamberlain |
 | 797 | 277 | Min |
 | 798 | 276 | Dandy Combo |
@@ -835,8 +835,8 @@
 | 827 | 270 | Nat |
 | 828 | 268 | Donald Nowland |
 | 829 | 267 | Dad |
-| 830 | 267 | Candace Cece Joseph |
-| 831 | 267 | Denisse Avilez |
+| 830 | 267 | Denisse Avilez |
+| 831 | 267 | Candace Cece Joseph |
 | 832 | 267 | David Duncan |
 | 833 | 266 | Jason Garnatz |
 | 834 | 266 | Man of Steel |
@@ -1139,8 +1139,8 @@
 | 1131 | 196 | Donna Colby |
 | 1132 | 196 | Renee Griffith |
 | 1133 | 196 | Giggy Mover |
-| 1134 | 196 | Kimberly Hope Howell |
-| 1135 | 196 | Goofy Cascadeclear |
+| 1134 | 196 | Goofy Cascadeclear |
+| 1135 | 196 | Kimberly Hope Howell |
 | 1136 | 195 | Persipnei Cuesta |
 | 1137 | 195 | Cheeky Brickroll |
 | 1138 | 195 | Muhammad |
@@ -1166,8 +1166,8 @@
 | 1158 | 192 | Joy Marie |
 | 1159 | 192 | Donna M Carter |
 | 1160 | 191 | Netty |
-| 1161 | 191 | Samuel Labruno |
-| 1162 | 191 | Andre Love |
+| 1161 | 191 | Andre Love |
+| 1162 | 191 | Samuel Labruno |
 | 1163 | 191 | Casaundra Little-Abeling |
 | 1164 | 190 | Jessica Kaye DeAguero |
 | 1165 | 190 | Cherry |

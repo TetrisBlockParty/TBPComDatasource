@@ -185,12 +185,12 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Melvin Baird |
-| 181 | 201 | Chance Strickland |
+| 180 | 201 | Chance Strickland |
+| 181 | 201 | Melvin Baird |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
-| 184 | 198 | Keith Kelley |
-| 185 | 198 | Jessica Lynn Cutlip |
+| 184 | 198 | Jessica Lynn Cutlip |
+| 185 | 198 | Keith Kelley |
 | 186 | 196 | Oscar Alberto Perez |
 | 187 | 195 | Malakai Darien Fox |
 | 188 | 195 | 中山成巳 |
@@ -199,8 +199,8 @@
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Sam Bishop |
 | 193 | 191 | Klo |
-| 194 | 190 | Cheery Risebuilder |
-| 195 | 190 | Alan George LaRage |
+| 194 | 190 | Alan George LaRage |
+| 195 | 190 | Cheery Risebuilder |
 | 196 | 189 | Lori |
 | 197 | 189 | Calvin Dennis |
 | 198 | 189 | Stacey Stano |
@@ -230,9 +230,9 @@
 | 222 | 162 | Joanna |
 | 223 | 162 | John Brunetti |
 | 224 | 161 | Jenny Wells-Oakley |
-| 225 | 160 | Laura Hosford |
-| 226 | 160 | Carlos Ramirez |
-| 227 | 160 | Brittany Marsh |
+| 225 | 160 | Carlos Ramirez |
+| 226 | 160 | Brittany Marsh |
+| 227 | 160 | Laura Hosford |
 | 228 | 159 | Marcus Todd |
 | 229 | 158 | Avy Absol |
 | 230 | 158 | Chair |

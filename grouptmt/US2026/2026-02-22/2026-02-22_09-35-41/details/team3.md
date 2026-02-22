@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 902 | Elaine Webb Graves |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -187,8 +187,8 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Jone |
-| 183 | 347 | Nicole Flippo |
+| 182 | 347 | Nicole Flippo |
+| 183 | 347 | Jone |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
@@ -216,14 +216,14 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Ammmmmmy |
-| 212 | 296 | Katrina Turner |
+| 211 | 296 | Katrina Turner |
+| 212 | 296 | Ammmmmmy |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Cheeky Snapper |
@@ -244,9 +244,9 @@
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Tiffany Ford |
-| 240 | 261 | Tasha Wesson-Torrence |
-| 241 | 261 | Marquita Sheard |
+| 239 | 261 | Marquita Sheard |
+| 240 | 261 | Tiffany Ford |
+| 241 | 261 | Tasha Wesson-Torrence |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
 | 244 | 258 | Tamara Deherrera |
@@ -285,8 +285,8 @@
 | 277 | 220 | rosy |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Cheryl Hinch Tenbrook |
-| 281 | 216 | Twisty Brick LT |
+| 280 | 216 | Twisty Brick LT |
+| 281 | 216 | Cheryl Hinch Tenbrook |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Angela Scott |
 | 284 | 214 | Amy Fuller Heaton |
@@ -404,9 +404,9 @@
 | 396 | 147 | David Bardo |
 | 397 | 147 | Kiki |
 | 398 | 147 | sofaking |
-| 399 | 146 | ROODBOY |
+| 399 | 146 | Sara Dunn |
 | 400 | 146 | Wettnippz |
-| 401 | 146 | Sara Dunn |
+| 401 | 146 | ROODBOY |
 | 402 | 146 | Sdot |
 | 403 | 146 | MizzMonick Smith |
 | 404 | 144 | Mariah Williams |
