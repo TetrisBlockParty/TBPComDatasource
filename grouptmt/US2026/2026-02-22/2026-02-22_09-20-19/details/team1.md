@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Marianne Louise West |
-| 49 | 635 | Angel Fowler |
+| 48 | 635 | Angel Fowler |
+| 49 | 635 | Marianne Louise West |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -173,8 +173,8 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |

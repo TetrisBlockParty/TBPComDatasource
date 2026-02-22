@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -160,8 +160,8 @@
 | 152 | 230 | Autum Leigh |
 | 153 | 230 | Cursed Hag |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Alyssa Papen |
-| 156 | 227 | Swanky Fitline |
+| 155 | 227 | Swanky Fitline |
+| 156 | 227 | Alyssa Papen |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Kris Bartlett |
@@ -241,12 +241,12 @@
 | 233 | 156 | Ultramarine |
 | 234 | 155 | AyeKay |
 | 235 | 154 | Zany Shatterer |
-| 236 | 153 | Mr. Party |
-| 237 | 153 | Empress Oasis |
+| 236 | 153 | Empress Oasis |
+| 237 | 153 | Mr. Party |
 | 238 | 152 | Austin Owens |
 | 239 | 152 | Faja |
-| 240 | 149 | Shainne Brewer |
-| 241 | 149 | Tanner Lund |
+| 240 | 149 | Tanner Lund |
+| 241 | 149 | Shainne Brewer |
 | 242 | 149 | Ruben Wheeler |
 | 243 | 148 | Nubian1 |
 | 244 | 148 | Janita Parrish |
@@ -459,7 +459,7 @@
 | 451 | 84 | Beth Helms |
 | 452 | 84 | mini |
 | 453 | 83 | Groovy Brickmatch |
-| 454 | 82 | Stacy Jones |
+| 454 | 82 | Eric Wren |
 | 455 | 82 | Oleg Zakharskiy |
 | 456 | 82 | Stacy Jones |
 | 457 | 81 | Crystal Lynn |

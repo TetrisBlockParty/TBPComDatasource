@@ -100,13 +100,13 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Natasha Jones |
-| 96 | 582 | Jay Horn |
+| 95 | 582 | Jay Horn |
+| 96 | 582 | Natasha Jones |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Patty Allen |
-| 101 | 565 | Rachael McClain Owens |
+| 100 | 565 | Rachael McClain Owens |
+| 101 | 565 | Patty Allen |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -215,8 +215,8 @@
 | 207 | 301 | RickyG |
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
-| 210 | 296 | Katrina Turner |
-| 211 | 296 | Ammmmmmy |
+| 210 | 296 | Ammmmmmy |
+| 211 | 296 | Katrina Turner |
 | 212 | 296 | Brandon Givens |
 | 213 | 295 | Marci Mize Fandrich |
 | 214 | 291 | Kristal C Lee |
@@ -226,8 +226,8 @@
 | 218 | 287 | Jojo M |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -236,24 +236,24 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Cass Mendoza |
-| 232 | 271 | Ashley Muncey |
+| 231 | 271 | Ashley Muncey |
+| 232 | 271 | Cass Mendoza |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Marquita Sheard |
-| 240 | 261 | Tasha Wesson-Torrence |
-| 241 | 261 | Tiffany Ford |
+| 239 | 261 | Tiffany Ford |
+| 240 | 261 | Marquita Sheard |
+| 241 | 261 | Tasha Wesson-Torrence |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | KayB |
-| 248 | 256 | Tiffany Davie |
+| 247 | 256 | Tiffany Davie |
+| 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -285,8 +285,8 @@
 | 277 | 220 | Tosha Griffey |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Twisty Brick LT |
-| 281 | 216 | Cheryl Hinch Tenbrook |
+| 280 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Twisty Brick LT |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Amy Fuller Heaton |
 | 284 | 214 | Rebel124 |
@@ -346,8 +346,8 @@
 | 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
 | 344 | 167 | Romeo |
 | 345 | 167 | Irene Arreguin |
@@ -371,8 +371,8 @@
 | 363 | 161 | Bouncy Blockbuilder |
 | 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Joshua David Huie |
-| 367 | 159 | Salena Whitlock |
+| 366 | 159 | Salena Whitlock |
+| 367 | 159 | Joshua David Huie |
 | 368 | 158 | Willow |
 | 369 | 157 | Steffi Chris Dacones |
 | 370 | 157 | Angel Mendez |
@@ -381,8 +381,8 @@
 | 373 | 156 | Nichole Greene |
 | 374 | 155 | Michell Hendershott Jackson |
 | 375 | 155 | Michael Leblanc |
-| 376 | 153 | Sheila M Frazier |
-| 377 | 153 | Lys |
+| 376 | 153 | Lys |
+| 377 | 153 | Sheila M Frazier |
 | 378 | 153 | Tony Waters |
 | 379 | 152 | Goofy Fall |
 | 380 | 152 | Eric Caccavale |
@@ -591,7 +591,7 @@
 | 583 | 100 | Jess Meyers |
 | 584 | 100 | Pam Green |
 | 585 | 100 | Kelly Koenig |
-| 586 | 100 | TEDDY |
+| 586 | 100 | Bree Sexton |
 | 587 | 100 | Stephanie Bradley |
 | 588 | 100 | TEDDY |
 | 589 | 99 | Elyse Grabowsky |

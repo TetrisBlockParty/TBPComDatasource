@@ -287,8 +287,8 @@
 | 279 | 700 | Beverly Owens |
 | 280 | 698 | Mighty Shatterfit |
 | 281 | 697 | Dreamy Blast |
-| 282 | 692 | Jennifer Casey-Kay |
-| 283 | 692 | Dannette Goldberg-Richards |
+| 282 | 692 | Dannette Goldberg-Richards |
+| 283 | 692 | Jennifer Casey-Kay |
 | 284 | 690 | Deborah Miller |
 | 285 | 689 | Giggy Blocker |
 | 286 | 688 | Tiara Elizabeth Baker |
@@ -690,8 +690,8 @@
 | 682 | 329 | Chummy Blockbuilder |
 | 683 | 329 | Jane Crew |
 | 684 | 329 | Snappy Shatterfit |
-| 685 | 328 | Jamie Carter Bierce |
-| 686 | 328 | BabyBird |
+| 685 | 328 | BabyBird |
+| 686 | 328 | Jamie Carter Bierce |
 | 687 | 326 | Ann Knutson Anderson |
 | 688 | 326 | Angela Murgia-Owen |
 | 689 | 325 | Justin Hines |
