@@ -96,14 +96,14 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Jay Horn |
-| 92 | 582 | Natasha Jones |
-| 93 | 582 | Speedy Bridger |
+| 91 | 582 | Natasha Jones |
+| 92 | 582 | Speedy Bridger |
+| 93 | 582 | Jay Horn |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -116,8 +116,8 @@
 | 108 | 506 | Sashay Tapae Simpson |
 | 109 | 502 | Justin Ritter |
 | 110 | 502 | Elissa S-k |
-| 111 | 500 | Domo Washington |
-| 112 | 500 | Kristie |
+| 111 | 500 | Kristie |
+| 112 | 500 | Domo Washington |
 | 113 | 497 | Mykal Burton |
 | 114 | 496 | opf |
 | 115 | 492 | Daira Largen |
@@ -322,8 +322,8 @@
 | 314 | 178 | Jess Dearborn |
 | 315 | 178 | Jennifer Alvey |
 | 316 | 177 | Rachel |
-| 317 | 176 | Melissa Orth Hunter |
-| 318 | 176 | Emma |
+| 317 | 176 | Emma |
+| 318 | 176 | Melissa Orth Hunter |
 | 319 | 175 | Eileen Brady Thurber |
 | 320 | 174 | Betty Rosas |
 | 321 | 174 | Lesley Perez |
@@ -444,9 +444,9 @@
 | 436 | 122 | Scouty |
 | 437 | 122 | BabyTonj Evans |
 | 438 | 122 | Lisa Ann |
-| 439 | 121 | Kellie Montgomery |
-| 440 | 121 | Oliver Neal II |
-| 441 | 121 | Fredd Thomas |
+| 439 | 121 | Oliver Neal II |
+| 440 | 121 | Fredd Thomas |
+| 441 | 121 | Kellie Montgomery |
 | 442 | 120 | Carol Cain Thurman |
 | 443 | 120 | Giggy Glidepiece |
 | 444 | 119 | Brian Quigley |
@@ -667,8 +667,8 @@
 | 659 | 83 | Six |
 | 660 | 83 | Janay Darkstallion Robinson |
 | 661 | 83 | Deseree Ewing |
-| 662 | 83 | Tony Tran |
-| 663 | 83 | Bela PC |
+| 662 | 83 | Bela PC |
+| 663 | 83 | Tony Tran |
 | 664 | 83 | Sarah Tschee |
 | 665 | 82 | Carrie Linkous |
 | 666 | 82 | Cranky Gridder |

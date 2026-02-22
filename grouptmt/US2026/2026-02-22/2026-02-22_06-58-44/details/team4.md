@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | Carmethia Clemons Haslerig |
-| 73 | 483 | TeeJ |
+| 72 | 483 | TeeJ |
+| 73 | 483 | Carmethia Clemons Haslerig |
 | 74 | 467 | Dawn Alexander |
 | 75 | 462 | Julian Garcia |
 | 76 | 447 | Samantha Peterson |
@@ -145,8 +145,8 @@
 | 137 | 253 | Jeff Brian Gates |
 | 138 | 249 | Leah Kutz Zirbel |
 | 139 | 245 | Diana Houts |
-| 140 | 240 | Peachy Fall |
-| 141 | 240 | Jolly Dashfit |
+| 140 | 240 | Jolly Dashfit |
+| 141 | 240 | Peachy Fall |
 | 142 | 232 | Crystal Nicolette Moore |
 | 143 | 230 | Autum Leigh |
 | 144 | 230 | Cursed Hag |
@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Chance Strickland |
-| 175 | 201 | Melvin Baird |
+| 174 | 201 | Melvin Baird |
+| 175 | 201 | Chance Strickland |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Oscar Alberto Perez |
 | 178 | 196 | Zethra Prenisha Rahming |
@@ -195,8 +195,8 @@
 | 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Lori |
-| 191 | 185 | Andy Cabral |
+| 190 | 185 | Andy Cabral |
+| 191 | 185 | Lori |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Carter Jones |
 | 194 | 181 | Alan George LaRage |
