@@ -76,8 +76,8 @@
 | 68 | 2218 | Dineisha Carpenter |
 | 69 | 2196 | YiFei |
 | 70 | 2151 | Kelly Crook |
-| 71 | 2137 | KellyDyan |
-| 72 | 2137 | Roger Grabbit |
+| 71 | 2137 | Roger Grabbit |
+| 72 | 2137 | KellyDyan |
 | 73 | 2108 | Heather Piotrowski |
 | 74 | 2103 | Alisha Peoples |
 | 75 | 2090 | Jordan Petro |
@@ -370,8 +370,8 @@
 | 362 | 643 | Hoppy Brickmatch |
 | 363 | 642 | Cassie Maynard |
 | 364 | 641 | Vonceial Boone |
-| 365 | 640 | BYM4L |
-| 366 | 640 | Kara Gillen |
+| 365 | 640 | Kara Gillen |
+| 366 | 640 | BYM4L |
 | 367 | 639 | Crystie Hicks |
 | 368 | 639 | Rebecca Miller |
 | 369 | 634 | Gary Stash |

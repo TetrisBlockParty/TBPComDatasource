@@ -201,13 +201,13 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Giddy Twistbuilder |
-| 197 | 372 | Tom Nault |
+| 196 | 372 | Tom Nault |
+| 197 | 372 | Giddy Twistbuilder |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
-| 201 | 362 | Loopy Fallmatch |
-| 202 | 362 | Brandon Givens |
+| 201 | 362 | Brandon Givens |
+| 202 | 362 | Loopy Fallmatch |
 | 203 | 358 | RickyG |
 | 204 | 358 | Chummy Caster |
 | 205 | 357 | Stephanie Burtin |
@@ -399,8 +399,8 @@
 | 391 | 183 | Smiley Zone |
 | 392 | 182 | gremicx |
 | 393 | 180 | Ava Petito |
-| 394 | 180 | Beth Ingham |
-| 395 | 180 | Funky Jumper |
+| 394 | 180 | Funky Jumper |
+| 395 | 180 | Beth Ingham |
 | 396 | 179 | DanceLuvLaugh |
 | 397 | 179 | Skinny Baldez |
 | 398 | 179 | Betty Bóò |

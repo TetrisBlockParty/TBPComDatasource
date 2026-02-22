@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1304 | Alicia Bass |
 | 16 | 1292 | Roger Coulter |
@@ -282,13 +282,13 @@
 | 274 | 163 | Ellen Durfee |
 | 275 | 162 | Gwendolyn Pitcairn |
 | 276 | 162 | John Brunetti |
-| 277 | 162 | Cynthia Boudreau |
-| 278 | 162 | conceptCollector |
+| 277 | 162 | conceptCollector |
+| 278 | 162 | Cynthia Boudreau |
 | 279 | 161 | Matt Gooder |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | DonMega |
-| 283 | 159 | Marcus Todd |
+| 282 | 159 | Marcus Todd |
+| 283 | 159 | DonMega |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | KayM |
 | 286 | 157 | Michele Plunkett |
@@ -698,9 +698,9 @@
 | 690 | 64 | Calen Torez |
 | 691 | 63 | Haruko Bullock-Brown |
 | 692 | 63 | Marco |
-| 693 | 63 | Caitlyn Brown |
-| 694 | 63 | Danelle Sulentic |
-| 695 | 63 | Tara |
+| 693 | 63 | Tara |
+| 694 | 63 | Caitlyn Brown |
+| 695 | 63 | Danelle Sulentic |
 | 696 | 63 | Samantha Kimes |
 | 697 | 63 | giantslover514 |
 | 698 | 63 | Frisky Matchgrid |

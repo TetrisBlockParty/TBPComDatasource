@@ -94,8 +94,8 @@
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
-| 89 | 433 | Tinah Montanna |
-| 90 | 433 | Trina Gee |
+| 89 | 433 | Trina Gee |
+| 90 | 433 | Tinah Montanna |
 | 91 | 429 | Tdub |
 | 92 | 428 | Stephanie Zahn |
 | 93 | 418 | Jazzy Framezone |
@@ -190,11 +190,11 @@
 | 182 | 252 | Dena Kayy |
 | 183 | 251 | Giggly Builderline |
 | 184 | 249 | Lakeisha Chapman |
-| 185 | 246 | Madison Wicks |
-| 186 | 246 | Mike Ames |
-| 187 | 244 | Serina Marie |
+| 185 | 246 | Mike Ames |
+| 186 | 246 | Madison Wicks |
+| 187 | 244 | Marianita Garcia |
 | 188 | 244 | Eddie Dillon |
-| 189 | 244 | Marianita Garcia |
+| 189 | 244 | Serina Marie |
 | 190 | 243 | Trippy Redd |
 | 191 | 242 | John Kim |
 | 192 | 241 | John J. Cronin |
