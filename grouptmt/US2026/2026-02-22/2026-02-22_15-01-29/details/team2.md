@@ -110,8 +110,8 @@
 | 102 | 1564 | Charie Holland |
 | 103 | 1535 | Donnie Hunt |
 | 104 | 1534 | Loopy Clusterbuilder |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -327,8 +327,8 @@
 | 319 | 688 | ShinyRose |
 | 320 | 687 | Dee |
 | 321 | 686 | Ashley Guernsey-Martin |
-| 322 | 685 | Brenda Pierpoint |
-| 323 | 685 | Binyah-Binyah |
+| 322 | 685 | Binyah-Binyah |
+| 323 | 685 | Brenda Pierpoint |
 | 324 | 682 | Poldo Ilano |
 | 325 | 681 | Melissa Holsinger |
 | 326 | 680 | Glitzy Stackzone |
@@ -341,11 +341,11 @@
 | 333 | 665 | Leslie Ann Carter |
 | 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | goofinoff |
-| 340 | 661 | BeQuo |
+| 339 | 661 | BeQuo |
+| 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
 | 343 | 650 | Shiny Rollzone |
@@ -354,8 +354,8 @@
 | 346 | 640 | BYM4L |
 | 347 | 640 | Kara Gillen |
 | 348 | 639 | Crystie Hicks |
-| 349 | 639 | Jelly |
-| 350 | 639 | Rebecca Miller |
+| 349 | 639 | Rebecca Miller |
+| 350 | 639 | Jelly |
 | 351 | 635 | Diana Fitzwater |
 | 352 | 631 | Phil J. Grombliniak |
 | 353 | 631 | Dylan Thomason |
@@ -418,8 +418,8 @@
 | 410 | 544 | Desiree Anderson |
 | 411 | 544 | Deidre Shaffer |
 | 412 | 544 | Leah Keesling |
-| 413 | 543 | Julie Kresal |
-| 414 | 543 | Vanessa Moreno |
+| 413 | 543 | Vanessa Moreno |
+| 414 | 543 | Julie Kresal |
 | 415 | 541 | g |
 | 416 | 540 | Dizzy Zone |
 | 417 | 539 | Dapper Dasher |
@@ -719,9 +719,9 @@
 | 711 | 337 | Tum |
 | 712 | 336 | bru |
 | 713 | 336 | Austin Wilson |
-| 714 | 335 | Maria Louise |
-| 715 | 335 | Brooke Leigh Strube |
-| 716 | 335 | Alexandrea |
+| 714 | 335 | Brooke Leigh Strube |
+| 715 | 335 | Alexandrea |
+| 716 | 335 | Maria Louise |
 | 717 | 334 | Melissa James |
 | 718 | 333 | Woodys Glass |
 | 719 | 333 | Adrian Benitez |
@@ -735,8 +735,8 @@
 | 727 | 329 | Snappy Shatterfit |
 | 728 | 329 | Loony Basepiece |
 | 729 | 328 | Sarah block |
-| 730 | 328 | BabyBird |
-| 731 | 328 | Jamie Carter Bierce |
+| 730 | 328 | Jamie Carter Bierce |
+| 731 | 328 | BabyBird |
 | 732 | 327 | Amanda Chamberlain |
 | 733 | 327 | Polly Pritchard Chesler |
 | 734 | 326 | Ann Knutson Anderson |

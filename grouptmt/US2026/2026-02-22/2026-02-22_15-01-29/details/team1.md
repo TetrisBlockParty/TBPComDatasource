@@ -171,8 +171,8 @@
 | 163 | 260 | Ty Brown |
 | 164 | 257 | Amanda Jarnagin |
 | 165 | 254 | Al Smith Jr |
-| 166 | 253 | Jamie Jury |
-| 167 | 253 | Witty Builderfit |
+| 166 | 253 | Witty Builderfit |
+| 167 | 253 | Jamie Jury |
 | 168 | 252 | Dena Kayy |
 | 169 | 249 | Lakeisha Chapman |
 | 170 | 246 | Mike Ames |
@@ -194,10 +194,10 @@
 | 186 | 229 | Chris K |
 | 187 | 226 | Kandae |
 | 188 | 224 | ParisandCory Champagne |
-| 189 | 223 | Erez Yosef |
-| 190 | 223 | Basment Living |
-| 191 | 222 | Debbie Davis |
-| 192 | 222 | Fmp |
+| 189 | 223 | Basment Living |
+| 190 | 223 | Erez Yosef |
+| 191 | 222 | Fmp |
+| 192 | 222 | Debbie Davis |
 | 193 | 221 | Daring Fitclear |
 | 194 | 220 | DaRascal |
 | 195 | 219 | Chuck Gannon |

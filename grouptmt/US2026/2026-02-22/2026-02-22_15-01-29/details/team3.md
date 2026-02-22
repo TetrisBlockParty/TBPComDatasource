@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -196,8 +196,8 @@
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Stephanie Burtin |
-| 192 | 357 | Tom Nault |
+| 191 | 357 | Tom Nault |
+| 192 | 357 | Stephanie Burtin |
 | 193 | 353 | Nora Rogers |
 | 194 | 349 | Amanda J. Mcneil-Anderson |
 | 195 | 348 | Chasity |
@@ -264,8 +264,8 @@
 | 256 | 262 | Joe-Maggie Mathews |
 | 257 | 261 | Tiffany Ford |
 | 258 | 261 | Tasha Wesson-Torrence |
-| 259 | 260 | Nikki Pags |
-| 260 | 260 | Grams |
+| 259 | 260 | Grams |
+| 260 | 260 | Nikki Pags |
 | 261 | 259 | Danielle Weikel |
 | 262 | 257 | Ashley Jones |
 | 263 | 256 | KayB |
@@ -501,8 +501,8 @@
 | 493 | 133 | Jumpy Wrecker |
 | 494 | 133 | Chummy Rumbler |
 | 495 | 132 | Andrew Thorson |
-| 496 | 131 | Erin Ervin |
-| 497 | 131 | Jolly Dashpiece |
+| 496 | 131 | Jolly Dashpiece |
+| 497 | 131 | Erin Ervin |
 | 498 | 130 | Alexi Pryor |
 | 499 | 130 | Jul |
 | 500 | 129 | Stella |

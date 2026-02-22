@@ -75,8 +75,8 @@
 | 67 | 613 | Ashley Ingram |
 | 68 | 608 | Avy Absol |
 | 69 | 600 | Michelle Marie |
-| 70 | 599 | Brittney Griggs |
-| 71 | 599 | Savannah Overdorf |
+| 70 | 599 | Savannah Overdorf |
+| 71 | 599 | Brittney Griggs |
 | 72 | 593 | Lisa Davis |
 | 73 | 588 | Eric Mcgaughy |
 | 74 | 575 | Jeremy Steines |
@@ -141,8 +141,8 @@
 | 133 | 316 | Jessica Bohlken |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -296,8 +296,8 @@
 | 288 | 149 | Shainne Brewer |
 | 289 | 148 | Nubian1 |
 | 290 | 148 | Cranky Rollpiece |
-| 291 | 148 | Ruby Khalisadar |
-| 292 | 148 | Janita Parrish |
+| 291 | 148 | Janita Parrish |
+| 292 | 148 | Ruby Khalisadar |
 | 293 | 147 | Adam Stephanie Parker |
 | 294 | 147 | Jay28 |
 | 295 | 145 | Sandra Safford |
@@ -812,15 +812,15 @@
 | 804 | 47 | Angel Johnson |
 | 805 | 47 | April Swinney |
 | 806 | 47 | Volodymyr Teslyuk |
-| 807 | 47 | Shane Hicks |
-| 808 | 47 | Angelson |
-| 809 | 47 | Zer0h |
-| 810 | 47 | Jelly |
-| 811 | 46 | Kelly Adams Carnahan |
-| 812 | 46 | Carlos Hernandez |
-| 813 | 46 | Michele Lauer |
-| 814 | 46 | Stephanie Griego |
-| 815 | 46 | mistresscoundrl1 |
+| 807 | 47 | Jelly |
+| 808 | 47 | Zer0h |
+| 809 | 47 | Shane Hicks |
+| 810 | 47 | Angelson |
+| 811 | 46 | Michele Lauer |
+| 812 | 46 | Natalie;) |
+| 813 | 46 | emd |
+| 814 | 46 | mistresscoundrl1 |
+| 815 | 46 | Stephanie Griego |
 | 816 | 46 | Willow Rose |
 | 817 | 46 | Bob Moores |
 | 818 | 46 | Carlos Hernandez |
