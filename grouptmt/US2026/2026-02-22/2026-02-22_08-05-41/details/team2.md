@@ -61,8 +61,8 @@
 | 53 | 2344 | Melinda Brown |
 | 54 | 2333 | Crystalin Heath Lewis |
 | 55 | 2298 | Brent Bittenbender |
-| 56 | 2280 | Ramone Armstrong |
-| 57 | 2280 | Robert Diddle |
+| 56 | 2280 | Robert Diddle |
+| 57 | 2280 | Ramone Armstrong |
 | 58 | 2151 | Kelly Crook |
 | 59 | 2137 | KellyDyan |
 | 60 | 2131 | RdRydnHd |
@@ -166,8 +166,8 @@
 | 158 | 1048 | PsychKIRAtrist |
 | 159 | 1047 | Amy Sayers |
 | 160 | 1045 | Lourisha |
-| 161 | 1043 | Suki Kaur |
-| 162 | 1043 | Brave Dropmatch |
+| 161 | 1043 | Brave Dropmatch |
+| 162 | 1043 | Suki Kaur |
 | 163 | 1035 | Sarah Freitas |
 | 164 | 1026 | Heather Westrum |
 | 165 | 1023 | Brainy Smurf |
@@ -401,8 +401,8 @@
 | 393 | 509 | Kelli Wells |
 | 394 | 509 | Jordan Kaiser |
 | 395 | 507 | Irene Jones |
-| 396 | 507 | Joshua Mandel |
-| 397 | 507 | Magic steve |
+| 396 | 507 | Magic steve |
+| 397 | 507 | Joshua Mandel |
 | 398 | 504 | Kimmy Newman |
 | 399 | 502 | Sparkles |
 | 400 | 500 | Sarah Ridenour |
@@ -436,8 +436,8 @@
 | 428 | 481 | Klee |
 | 429 | 480 | Dar |
 | 430 | 478 | Ashley Collins |
-| 431 | 477 | Michelle Fields |
-| 432 | 477 | Julay |
+| 431 | 477 | Julay |
+| 432 | 477 | Michelle Fields |
 | 433 | 476 | Kitybox |
 | 434 | 475 | Michelle Lee |
 | 435 | 474 | Calandra Shaya Robinson |
@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Jaye EL Hunter |
-| 447 | 463 | Sue Leard |
+| 446 | 463 | Sue Leard |
+| 447 | 463 | Jaye EL Hunter |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Daphne Jordan |
 | 450 | 462 | Tonya Lee |
@@ -484,13 +484,13 @@
 | 476 | 433 | KayLynn Ogden McClelland |
 | 477 | 432 | Lucy Marshall |
 | 478 | 430 | Jackie Lucas |
-| 479 | 430 | Niceday |
-| 480 | 430 | Gloria Ininahazwe |
+| 479 | 430 | Gloria Ininahazwe |
+| 480 | 430 | Niceday |
 | 481 | 429 | Christy Krissie |
 | 482 | 428 | Arkei Luster |
 | 483 | 428 | Shyenn Gadsby |
-| 484 | 427 | Destiny Cozier |
-| 485 | 427 | Quinn |
+| 484 | 427 | Quinn |
+| 485 | 427 | Destiny Cozier |
 | 486 | 427 | Kori Beth Babb |
 | 487 | 426 | Ashley Dow |
 | 488 | 425 | Vanessa Moreno |
@@ -505,25 +505,25 @@
 | 497 | 420 | Kiana Boschh |
 | 498 | 420 | LaWanda Powell |
 | 499 | 419 | Pocho Zavala |
-| 500 | 418 | Kristi Biddinger |
-| 501 | 418 | Véronique Lévesque Sabourin |
+| 500 | 418 | Véronique Lévesque Sabourin |
+| 501 | 418 | Kristi Biddinger |
 | 502 | 417 | Alexx Anaya |
 | 503 | 416 | Ricky Fortune |
 | 504 | 415 | Elisheva Mizrachi |
 | 505 | 414 | Sabrina Burton |
 | 506 | 414 | John |
 | 507 | 413 | Juanita Lyons |
-| 508 | 413 | Lauren Fitzgerald Thomas |
-| 509 | 413 | Biggest thing |
+| 508 | 413 | Biggest thing |
+| 509 | 413 | Lauren Fitzgerald Thomas |
 | 510 | 411 | Kristen O'Neal |
 | 511 | 410 | Tara Lynn Janes |
 | 512 | 410 | Nicole Cannon |
-| 513 | 408 | Abimbola Bimbo |
-| 514 | 408 | Stefanie Zonzini-Gagliardi |
+| 513 | 408 | Stefanie Zonzini-Gagliardi |
+| 514 | 408 | Abimbola Bimbo |
 | 515 | 408 | Brandon Jones |
 | 516 | 406 | Kimberly Ann |
-| 517 | 406 | Erin StFrancis |
-| 518 | 406 | Mighty Spinbuilder |
+| 517 | 406 | Mighty Spinbuilder |
+| 518 | 406 | Erin StFrancis |
 | 519 | 404 | Snappy snappers |
 | 520 | 404 | Fancy Twister |
 | 521 | 404 | Goofy Catcher |
@@ -953,8 +953,8 @@
 | 945 | 229 | Chyrisse Norton |
 | 946 | 228 | Kandy Charmz |
 | 947 | 228 | Dara |
-| 948 | 228 | Yasmin Guzman |
-| 949 | 228 | Lee |
+| 948 | 228 | Lee |
+| 949 | 228 | Yasmin Guzman |
 | 950 | 228 | Queen |
 | 951 | 227 | Toni Whipple |
 | 952 | 227 | Wacky Cascade |
@@ -1199,8 +1199,8 @@
 | 1191 | 180 | Lively Brickfit |
 | 1192 | 180 | Nuke Morris |
 | 1193 | 180 | Bethany Blanchette |
-| 1194 | 180 | Amanda Allmon |
-| 1195 | 180 | Zesty Shatterbuilder |
+| 1194 | 180 | Zesty Shatterbuilder |
+| 1195 | 180 | Amanda Allmon |
 | 1196 | 179 | mshir |
 | 1197 | 179 | Rain |
 | 1198 | 179 | Theresa Ring |
@@ -1277,8 +1277,8 @@
 | 1269 | 170 | Stormy McCormack |
 | 1270 | 170 | Orla Aherne |
 | 1271 | 170 | Tigro Ace |
-| 1272 | 169 | Corey Ross |
-| 1273 | 169 | Chummy Shiftsnap |
+| 1272 | 169 | Chummy Shiftsnap |
+| 1273 | 169 | Corey Ross |
 | 1274 | 169 | Ubu |
 | 1275 | 169 | Dapper Blockroll |
 | 1276 | 169 | Christy Green |
@@ -1321,8 +1321,8 @@
 | 1313 | 165 | Alexandra Eryn |
 | 1314 | 165 | Laura Freeman Hagen |
 | 1315 | 165 | Mellissa Evans |
-| 1316 | 164 | Jennifer Foster |
-| 1317 | 164 | Quiltygirl |
+| 1316 | 164 | Quiltygirl |
+| 1317 | 164 | Jennifer Foster |
 | 1318 | 164 | Ty Quarles |
 | 1319 | 164 | Squirrel |
 | 1320 | 164 | Brittany Chapman |

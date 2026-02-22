@@ -116,9 +116,9 @@
 | 108 | 319 | Deanna L Hermanson |
 | 109 | 319 | Patrick Luckenbill |
 | 110 | 313 | Tanya Carpenter-Reynolds |
-| 111 | 310 | Jason Jones |
+| 111 | 310 | Seth Wesson |
 | 112 | 310 | phrmblk24 |
-| 113 | 310 | Seth Wesson |
+| 113 | 310 | Jason Jones |
 | 114 | 306 | Happy Basegrid |
 | 115 | 304 | Nicole Roseberry Weber |
 | 116 | 301 | Lehrin Maria |

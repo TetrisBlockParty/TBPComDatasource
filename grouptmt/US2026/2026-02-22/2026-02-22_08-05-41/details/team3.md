@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -99,13 +99,13 @@
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
 | 93 | 582 | Natasha Jones |
-| 94 | 582 | Jay Horn |
-| 95 | 582 | Speedy Bridger |
+| 94 | 582 | Speedy Bridger |
+| 95 | 582 | Jay Horn |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 496 | Queen Kam |
 | 118 | 492 | Daira Largen |
@@ -221,8 +221,8 @@
 | 213 | 283 | Cheeky Snapper |
 | 214 | 281 | Valerie Gendron |
 | 215 | 278 | Rufus Lincoln |
-| 216 | 277 | Keis |
-| 217 | 277 | Charles Perrone |
+| 216 | 277 | Charles Perrone |
+| 217 | 277 | Keis |
 | 218 | 276 | _melisa223_ |
 | 219 | 276 | Crimson |
 | 220 | 275 | Cassandra Bryant |
@@ -328,8 +328,8 @@
 | 320 | 179 | Tipsy Zonebuilder |
 | 321 | 178 | Jess Dearborn |
 | 322 | 178 | Jennifer Alvey |
-| 323 | 176 | Melissa Orth Hunter |
-| 324 | 176 | Emma |
+| 323 | 176 | Emma |
+| 324 | 176 | Melissa Orth Hunter |
 | 325 | 175 | Eileen Brady Thurber |
 | 326 | 174 | Betty Rosas |
 | 327 | 174 | Lesley Perez |

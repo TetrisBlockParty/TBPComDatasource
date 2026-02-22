@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -122,8 +122,8 @@
 | 114 | 303 | Lauren Scott |
 | 115 | 300 | Jason Hart |
 | 116 | 298 | Lucas J Sutton |
-| 117 | 296 | HastyGrabber |
-| 118 | 296 | Justin Hannigan |
+| 117 | 296 | Justin Hannigan |
+| 118 | 296 | HastyGrabber |
 | 119 | 295 | Latisha Davis |
 | 120 | 294 | Kesha Brady |
 | 121 | 290 | 🥔🥔 Spudz |
@@ -139,8 +139,8 @@
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Girl |
-| 135 | 264 | Dana Scott |
+| 134 | 264 | Dana Scott |
+| 135 | 264 | Girl |
 | 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 256 | Mylo Lipscomb |
@@ -181,8 +181,8 @@
 | 173 | 204 | Jen Caldwell |
 | 174 | 203 | Katherine Crane |
 | 175 | 202 | TRCuse |
-| 176 | 201 | Chance Strickland |
-| 177 | 201 | Melvin Baird |
+| 176 | 201 | Melvin Baird |
+| 177 | 201 | Chance Strickland |
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |
@@ -193,16 +193,16 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Calvin Dennis |
-| 189 | 189 | Stacey Stano |
+| 188 | 189 | Stacey Stano |
+| 189 | 189 | Calvin Dennis |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
 | 193 | 184 | Ak Jones |
-| 194 | 181 | Carter Jones |
-| 195 | 181 | Alan George LaRage |
-| 196 | 180 | Rafael Valentin |
-| 197 | 180 | Orchislactea |
+| 194 | 181 | Alan George LaRage |
+| 195 | 181 | Carter Jones |
+| 196 | 180 | Orchislactea |
+| 197 | 180 | Rafael Valentin |
 | 198 | 180 | Dihcheese444 |
 | 199 | 179 | blockstar |
 | 200 | 175 | TinyLegoRose |
@@ -223,8 +223,8 @@
 | 215 | 160 | Carlos Ramirez |
 | 216 | 160 | Laura Hosford |
 | 217 | 159 | Marcus Todd |
-| 218 | 158 | Sam Bishop |
-| 219 | 158 | Avy Absol |
+| 218 | 158 | Avy Absol |
+| 219 | 158 | Sam Bishop |
 | 220 | 158 | Chair |
 | 221 | 157 | Paige Kittles |
 | 222 | 157 | KayM |
@@ -246,7 +246,7 @@
 | 238 | 146 | Ultramarine |
 | 239 | 145 | Sandra Safford |
 | 240 | 145 | Mimi |
-| 241 | 143 | Lauren Lamb |
+| 241 | 143 | Dennis Bradley |
 | 242 | 143 | Zesty Twistbuilder |
 | 243 | 143 | Lauren Lamb |
 | 244 | 142 | Chaz |
