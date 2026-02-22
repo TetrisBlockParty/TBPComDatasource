@@ -76,8 +76,8 @@
 | 68 | 2218 | Dineisha Carpenter |
 | 69 | 2196 | YiFei |
 | 70 | 2151 | Kelly Crook |
-| 71 | 2137 | Roger Grabbit |
-| 72 | 2137 | KellyDyan |
+| 71 | 2137 | KellyDyan |
+| 72 | 2137 | Roger Grabbit |
 | 73 | 2108 | Heather Piotrowski |
 | 74 | 2103 | Alisha Peoples |
 | 75 | 2090 | Jordan Petro |

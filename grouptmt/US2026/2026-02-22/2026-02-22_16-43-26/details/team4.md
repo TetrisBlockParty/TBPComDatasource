@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -67,8 +67,8 @@
 | 59 | 698 | Anthony Bryan Riva |
 | 60 | 697 | Edward White |
 | 61 | 671 | D3TROITB0RN74 |
-| 62 | 664 | Kimyatta Cavin |
-| 63 | 664 | Valerie Roberts |
+| 62 | 664 | Valerie Roberts |
+| 63 | 664 | Kimyatta Cavin |
 | 64 | 659 | Jonathan Kimbrough |
 | 65 | 658 | loulou |
 | 66 | 654 | Chilly Line |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Avy Absol |
-| 72 | 608 | Savannah Overdorf |
+| 71 | 608 | Savannah Overdorf |
+| 72 | 608 | Avy Absol |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -193,8 +193,8 @@
 | 185 | 245 | Autum Leigh |
 | 186 | 244 | Twisty Cascadezone |
 | 187 | 241 | Jose Dejesus |
-| 188 | 241 | Chaz Duncan |
-| 189 | 241 | Allen Lloyd |
+| 188 | 241 | Allen Lloyd |
+| 189 | 241 | Chaz Duncan |
 | 190 | 239 | Zethra Prenisha Rahming |
 | 191 | 237 | Austin Owens |
 | 192 | 237 | Jen Caldwell |
@@ -213,8 +213,8 @@
 | 205 | 221 | Rheanda Weaskus |
 | 206 | 219 | Malakai Darien Fox |
 | 207 | 217 | Kim Hunt |
-| 208 | 216 | ZeeZee |
-| 209 | 216 | Cristy Duerksen |
+| 208 | 216 | Cristy Duerksen |
+| 209 | 216 | ZeeZee |
 | 210 | 216 | Chance Strickland |
 | 211 | 215 | Ziggy |
 | 212 | 213 | Shauna Havard |
@@ -237,8 +237,8 @@
 | 229 | 200 | Googenheim |
 | 230 | 200 | Lori |
 | 231 | 199 | April Rondinone |
-| 232 | 198 | Keith Kelley |
-| 233 | 198 | Calvin Dennis |
+| 232 | 198 | Calvin Dennis |
+| 233 | 198 | Keith Kelley |
 | 234 | 197 | Silly SeaWeed |
 | 235 | 197 | Gilles Lanctot |
 | 236 | 195 | 中山成巳 |
@@ -250,11 +250,11 @@
 | 242 | 189 | 030Synner |
 | 243 | 186 | Holly |
 | 244 | 185 | Laura Hosford |
-| 245 | 184 | Ak Jones |
-| 246 | 184 | Lauren Lamb |
+| 245 | 184 | Lauren Lamb |
+| 246 | 184 | Ak Jones |
 | 247 | 183 | JPW |
-| 248 | 181 | Carter Jones |
-| 249 | 181 | Jackie Marie |
+| 248 | 181 | Jackie Marie |
+| 249 | 181 | Carter Jones |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Stephme310 |
 | 252 | 179 | TinyLegoRose |
@@ -303,8 +303,8 @@
 | 295 | 150 | Brandon Link |
 | 296 | 150 | GBR |
 | 297 | 149 | Jason Bosco |
-| 298 | 148 | Nubian1 |
-| 299 | 148 | Cranky Rollpiece |
+| 298 | 148 | Cranky Rollpiece |
+| 299 | 148 | Nubian1 |
 | 300 | 148 | Sam Middleton |
 | 301 | 148 | Janita Parrish |
 | 302 | 148 | Ruby Khalisadar |

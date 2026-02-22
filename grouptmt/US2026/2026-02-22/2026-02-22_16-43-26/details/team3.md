@@ -122,8 +122,8 @@
 | 114 | 568 | Rachael McClain Owens |
 | 115 | 566 | Dolores Falco |
 | 116 | 565 | Patty Allen |
-| 117 | 562 | Dave Herzog |
-| 118 | 562 | Louise Stacy Sisson |
+| 117 | 562 | Louise Stacy Sisson |
+| 118 | 562 | Dave Herzog |
 | 119 | 554 | joclisa |
 | 120 | 550 | Nicole Myers |
 | 121 | 533 | Alaina Lee |
@@ -212,8 +212,8 @@
 | 204 | 346 | Tamara Deherrera |
 | 205 | 344 | Trisha Balmer |
 | 206 | 343 | Ashley Raines |
-| 207 | 341 | Noyb Adam |
-| 208 | 341 | Samantha Lynn |
+| 207 | 341 | Samantha Lynn |
+| 208 | 341 | Noyb Adam |
 | 209 | 340 | Ammmmmmy |
 | 210 | 338 | Gumbo |
 | 211 | 332 | Rich LeBlanc |
@@ -270,14 +270,14 @@
 | 262 | 271 | Alexmac |
 | 263 | 269 | Danielle Weikel |
 | 264 | 268 | Krystal Gerstberger |
-| 265 | 267 | April Matthew Kibble |
-| 266 | 267 | Tiffany Davie |
+| 265 | 267 | Tiffany Davie |
+| 266 | 267 | April Matthew Kibble |
 | 267 | 266 | Snappy Balancer |
 | 268 | 266 | Quirky Dropzone |
 | 269 | 264 | Nikki Pags |
 | 270 | 263 | Brenda Schmid Wood |
-| 271 | 262 | Joe-Maggie Mathews |
-| 272 | 262 | Ray Lader |
+| 271 | 262 | Ray Lader |
+| 272 | 262 | Joe-Maggie Mathews |
 | 273 | 261 | Tiffany Ford |
 | 274 | 260 | Grams |
 | 275 | 259 | Michael Johnson |
@@ -299,8 +299,8 @@
 | 291 | 240 | Jimmie Clemons |
 | 292 | 238 | Niki Dalrymple |
 | 293 | 236 | Angela Scott |
-| 294 | 236 | Lys |
-| 295 | 236 | Jess Bissett |
+| 294 | 236 | Jess Bissett |
+| 295 | 236 | Lys |
 | 296 | 233 | Tony Waters |
 | 297 | 232 | Donna |
 | 298 | 230 | BigE |
@@ -371,8 +371,8 @@
 | 363 | 196 | Denita Mungro |
 | 364 | 195 | Nicha Hooker |
 | 365 | 194 | Kevin Fountain |
-| 366 | 193 | BŘŰŤİÇŨŚ |
-| 367 | 193 | Clever Shiftsnap |
+| 366 | 193 | Clever Shiftsnap |
+| 367 | 193 | BŘŰŤİÇŨŚ |
 | 368 | 193 | Loopy Fallzone |
 | 369 | 192 | Kelly Ann Child |
 | 370 | 192 | Katrina E Jelks |
@@ -384,9 +384,9 @@
 | 376 | 189 | Erykah |
 | 377 | 189 | Katheline Lazo Luizaga |
 | 378 | 189 | Katie Leigh Blankenship |
-| 379 | 186 | Noettín Kan Zasnemoore |
+| 379 | 186 | Bryan Byrd |
 | 380 | 186 | Eric Caccavale |
-| 381 | 186 | Bryan Byrd |
+| 381 | 186 | Noettín Kan Zasnemoore |
 | 382 | 186 | Sameerah Smith |
 | 383 | 185 | Angella Lyons |
 | 384 | 185 | Frilly Stackzone |
