@@ -115,8 +115,8 @@
 | 107 | 712 | Katrina Schroeder |
 | 108 | 704 | Suzieq |
 | 109 | 699 | Marcie Bressler |
-| 110 | 696 | Christine Niles |
-| 111 | 696 | Speedy Bridger |
+| 110 | 696 | Speedy Bridger |
+| 111 | 696 | Christine Niles |
 | 112 | 694 | joclisa |
 | 113 | 693 | Hasty Cascadefit |
 | 114 | 677 | Kristie |
@@ -267,10 +267,10 @@
 | 259 | 312 | Christian Werndl |
 | 260 | 312 | LadyTorad |
 | 261 | 309 | Felicia Rocha |
-| 262 | 308 | Cynthia Herrmann Egland |
-| 263 | 308 | Katrina Turner |
-| 264 | 307 | Blocked |
-| 265 | 307 | rnr junky |
+| 262 | 308 | Katrina Turner |
+| 263 | 308 | Cynthia Herrmann Egland |
+| 264 | 307 | rnr junky |
+| 265 | 307 | Blocked |
 | 266 | 304 | Marquita Sheard |
 | 267 | 303 | Alexmac |
 | 268 | 302 | Gray Hicks |
@@ -279,8 +279,8 @@
 | 271 | 299 | Angie Harper |
 | 272 | 299 | Ray Lader |
 | 273 | 298 | Grams |
-| 274 | 297 | kacihall |
-| 275 | 297 | Jojo M |
+| 274 | 297 | Jojo M |
+| 275 | 297 | kacihall |
 | 276 | 296 | Hoppy Buildout |
 | 277 | 294 | Tasha Wesson-Torrence |
 | 278 | 293 | Tye Stovall |
@@ -473,8 +473,8 @@
 | 465 | 181 | Beth Smith |
 | 466 | 181 | Happy Tetriblast |
 | 467 | 180 | Beth Ingham |
-| 468 | 179 | Snarky McFace |
-| 469 | 179 | Kali Kelz Williams |
+| 468 | 179 | Kali Kelz Williams |
+| 469 | 179 | Snarky McFace |
 | 470 | 178 | Morgan Cudo |
 | 471 | 178 | Sarah Tschee |
 | 472 | 178 | Flashy Rumbler |

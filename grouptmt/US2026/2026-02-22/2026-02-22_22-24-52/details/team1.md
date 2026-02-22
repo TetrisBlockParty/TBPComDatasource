@@ -101,8 +101,8 @@
 | 93 | 483 | Ryan Lunnin |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -250,8 +250,8 @@
 | 242 | 228 | Erin Rosberg |
 | 243 | 228 | Giddy Cascade |
 | 244 | 224 | ParisandCory Champagne |
-| 245 | 223 | Christina Backer |
-| 246 | 223 | Erez Yosef |
+| 245 | 223 | Erez Yosef |
+| 246 | 223 | Christina Backer |
 | 247 | 223 | Thorne Shumate |
 | 248 | 222 | Debbie Davis |
 | 249 | 222 | Snappy Bridgepiece |

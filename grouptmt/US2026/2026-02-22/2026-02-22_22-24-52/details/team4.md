@@ -108,8 +108,8 @@
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Trista Leah |
-| 104 | 499 | Christina LR |
+| 103 | 499 | Christina LR |
+| 104 | 499 | Trista Leah |
 | 105 | 488 | Jen Allison |
 | 106 | 481 | Serena Goodridge |
 | 107 | 476 | Matt Summer |
@@ -219,10 +219,10 @@
 | 211 | 255 | Lindsey Gonzalez |
 | 212 | 250 | Matt Dell'Olio |
 | 213 | 249 | Ak Jones |
-| 214 | 248 | Jose Dejesus |
-| 215 | 248 | Chirpy Basepiece |
-| 216 | 246 | Carlos Ramirez |
-| 217 | 246 | Zethra Prenisha Rahming |
+| 214 | 248 | Chirpy Basepiece |
+| 215 | 248 | Jose Dejesus |
+| 216 | 246 | Zethra Prenisha Rahming |
+| 217 | 246 | Carlos Ramirez |
 | 218 | 245 | April Rondinone |
 | 219 | 245 | 23 |
 | 220 | 245 | Adam Stephanie Parker |
@@ -253,9 +253,9 @@
 | 245 | 219 | Dizzy Matchzone |
 | 246 | 216 | Keith Kelley |
 | 247 | 216 | ZeeZee |
-| 248 | 216 | Keith Kelley |
-| 249 | 215 | John Brunetti |
-| 250 | 215 | Ziggy |
+| 248 | 216 | Chance Strickland |
+| 249 | 215 | Ziggy |
+| 250 | 215 | John Brunetti |
 | 251 | 214 | Stacey Stano |
 | 252 | 213 | Sarah Neathery |
 | 253 | 213 | Rio Rocha |
