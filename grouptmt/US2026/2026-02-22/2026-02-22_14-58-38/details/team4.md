@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 316 | Jessica Bohlken |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -278,7 +278,7 @@
 | 270 | 158 | Chair |
 | 271 | 157 | Bethany Ison |
 | 272 | 157 | KayM |
-| 273 | 157 | Bethany Ison |
+| 273 | 157 | Paige Kittles |
 | 274 | 157 | B Renee Desjardin |
 | 275 | 156 | Terrance Fung |
 | 276 | 156 | Ultramarine |
@@ -346,8 +346,8 @@
 | 338 | 132 | Degenerate |
 | 339 | 132 | Vamp |
 | 340 | 131 | Smiley Tiltbuilder |
-| 341 | 130 | Zach Kerbs |
-| 342 | 130 | Shukee Lo |
+| 341 | 130 | Shukee Lo |
+| 342 | 130 | Zach Kerbs |
 | 343 | 129 | Berklie Apedaile |
 | 344 | 129 | Dreamy Snapgrid |
 | 345 | 129 | Sherri |

@@ -272,15 +272,15 @@
 | 264 | 778 | Desire Rice |
 | 265 | 778 | Mischelle Clay |
 | 266 | 777 | Samantha Jo |
-| 267 | 777 | Jessicah Myers |
-| 268 | 777 | Tesha Oldaker |
+| 267 | 777 | Tesha Oldaker |
+| 268 | 777 | Jessicah Myers |
 | 269 | 772 | William Hunt |
 | 270 | 772 | Sam Joe |
 | 271 | 771 | Terri McKelvey McKinley |
 | 272 | 770 | Offonar Facey |
 | 273 | 768 | Mighty Shatterfit |
-| 274 | 767 | Jessica Wayne Cornwall |
-| 275 | 767 | Ashley Lopez |
+| 274 | 767 | Ashley Lopez |
+| 275 | 767 | Jessica Wayne Cornwall |
 | 276 | 765 | Jodi Blake |
 | 277 | 764 | Pacynthia Williams |
 | 278 | 763 | Angie Bolton Workman |
@@ -338,8 +338,8 @@
 | 330 | 669 | Charvi' Carter |
 | 331 | 668 | Roseanna Peloso |
 | 332 | 666 | Speedy Spinblock |
-| 333 | 665 | Prette Qui |
-| 334 | 665 | Leslie Ann Carter |
+| 333 | 665 | Leslie Ann Carter |
+| 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
 | 336 | 663 | Mandi Douglas Hilt |
 | 337 | 663 | Ashle Scranton |
@@ -354,8 +354,8 @@
 | 346 | 640 | Kara Gillen |
 | 347 | 640 | BYM4L |
 | 348 | 639 | Crystie Hicks |
-| 349 | 639 | Jelly |
-| 350 | 639 | Rebecca Miller |
+| 349 | 639 | Rebecca Miller |
+| 350 | 639 | Jelly |
 | 351 | 635 | Diana Fitzwater |
 | 352 | 631 | Dylan Thomason |
 | 353 | 631 | Marie Walker |
@@ -466,8 +466,8 @@
 | 458 | 499 | Sarah Massey |
 | 459 | 498 | Rhonda Milstead |
 | 460 | 498 | Aimee Campbell |
-| 461 | 497 | June E Hanson |
-| 462 | 497 | Doowop40 |
+| 461 | 497 | Doowop40 |
+| 462 | 497 | June E Hanson |
 | 463 | 496 | Erika Densmore |
 | 464 | 495 | Bubbly Snapbuild |
 | 465 | 494 | Venita Ray |
@@ -663,10 +663,10 @@
 | 655 | 366 | Lawanda Forbes |
 | 656 | 366 | Courtney Burcham |
 | 657 | 365 | Christina Lewis-Vickers |
-| 658 | 364 | Matthew Joseph Acevedo |
-| 659 | 364 | Shinette Dobson |
-| 660 | 363 | Kia Humphery |
-| 661 | 363 | Jes Norris |
+| 658 | 364 | Shinette Dobson |
+| 659 | 364 | Matthew Joseph Acevedo |
+| 660 | 363 | Jes Norris |
+| 661 | 363 | Kia Humphery |
 | 662 | 363 | Michelle Sager |
 | 663 | 363 | Veronica Stevenson |
 | 664 | 363 | Stephanie Fortune |
@@ -678,8 +678,8 @@
 | 670 | 361 | Michelle Shrum |
 | 671 | 360 | Jroc |
 | 672 | 359 | Cheyenne Donovan |
-| 673 | 358 | Sydney Busse |
-| 674 | 358 | Alyssaaelena |
+| 673 | 358 | Alyssaaelena |
+| 674 | 358 | Sydney Busse |
 | 675 | 358 | Frilly Fallzone |
 | 676 | 357 | Tristan Szolek |
 | 677 | 357 | Shannon Byrd |

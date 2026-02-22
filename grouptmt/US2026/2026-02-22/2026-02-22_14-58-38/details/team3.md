@@ -114,8 +114,8 @@
 | 106 | 568 | Rachael McClain Owens |
 | 107 | 566 | Dolores Falco |
 | 108 | 565 | Patty Allen |
-| 109 | 562 | Louise Stacy Sisson |
-| 110 | 562 | Dave Herzog |
+| 109 | 562 | Dave Herzog |
+| 110 | 562 | Louise Stacy Sisson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 552 | Keith J Oshman Jr. |
 | 113 | 551 | Kristie |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -196,8 +196,8 @@
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Tom Nault |
-| 192 | 357 | Stephanie Burtin |
+| 191 | 357 | Stephanie Burtin |
+| 192 | 357 | Tom Nault |
 | 193 | 353 | Nora Rogers |
 | 194 | 349 | Amanda J. Mcneil-Anderson |
 | 195 | 348 | Chasity |
@@ -286,8 +286,8 @@
 | 278 | 239 | Michael Johnson |
 | 279 | 238 | LaTanya GeminiondaRise Johnson |
 | 280 | 236 | Angela Scott |
-| 281 | 236 | Jess Bissett |
-| 282 | 236 | Lys |
+| 281 | 236 | Lys |
+| 282 | 236 | Jess Bissett |
 | 283 | 235 | Cozy Snaplink |
 | 284 | 233 | Ray Lader |
 | 285 | 233 | Josh Borquez |
@@ -942,8 +942,8 @@
 | 934 | 73 | Nerdy Wipeout |
 | 935 | 73 | Yvonne Felicia Garcia |
 | 936 | 73 | Rhiannon Nikkie Thomas Ashbeck |
-| 937 | 73 | Carrie Wheetley |
-| 938 | 73 | Snippy Brickster |
+| 937 | 73 | Snippy Brickster |
+| 938 | 73 | Carrie Wheetley |
 | 939 | 72 | Johnny Hill |
 | 940 | 72 | Rachael Hamelers |
 | 941 | 72 | Bouncy Line |
