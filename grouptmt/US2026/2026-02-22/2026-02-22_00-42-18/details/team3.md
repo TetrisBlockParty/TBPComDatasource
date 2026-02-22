@@ -105,8 +105,8 @@
 | 97 | 458 | Domo Washington |
 | 98 | 447 | Mykal Burton |
 | 99 | 446 | Danielle Rhoades |
-| 100 | 445 | Kristie McFarland |
-| 101 | 445 | Silly Twist |
+| 100 | 445 | Silly Twist |
+| 101 | 445 | Kristie McFarland |
 | 102 | 430 | Patricia White |
 | 103 | 428 | Betty Ivy |
 | 104 | 428 | Elissa S-k |
@@ -123,8 +123,8 @@
 | 115 | 391 | Calista Jo Dickson |
 | 116 | 390 | Hasty Cascadefit |
 | 117 | 390 | Patti Skiles |
-| 118 | 389 | Jessica Bechler |
-| 119 | 389 | FuzzyNavel |
+| 118 | 389 | FuzzyNavel |
+| 119 | 389 | Jessica Bechler |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
 | 122 | 378 | Makelini Mausia |
@@ -139,12 +139,12 @@
 | 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 328 | Jeni Dow |
-| 138 | 328 | Aaron Pitkin |
-| 139 | 328 | Dapper Snap |
+| 138 | 328 | Dapper Snap |
+| 139 | 328 | Aaron Pitkin |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
 | 142 | 320 | Or Reznitsky |

@@ -199,8 +199,8 @@
 | 191 | 700 | Vincent Petrella |
 | 192 | 699 | Vo'Landa Reels |
 | 193 | 697 | Real Ri |
-| 194 | 692 | Jennifer Casey-Kay |
-| 195 | 692 | Chelle |
+| 194 | 692 | Chelle |
+| 195 | 692 | Jennifer Casey-Kay |
 | 196 | 692 | Wendy Harder Gage |
 | 197 | 690 | Deborah Miller |
 | 198 | 688 | Dreamy Blast |
@@ -327,8 +327,8 @@
 | 319 | 463 | Sue Leard |
 | 320 | 460 | Barbra Miller |
 | 321 | 460 | Cody Smith-Candelaria |
-| 322 | 459 | Brainy Smurf |
-| 323 | 459 | Doowop40 |
+| 322 | 459 | Doowop40 |
+| 323 | 459 | Brainy Smurf |
 | 324 | 455 | Shuany Arias |
 | 325 | 454 | Nashu |
 | 326 | 454 | Casey Schumacher |
@@ -383,8 +383,8 @@
 | 375 | 406 | Julie Kresal |
 | 376 | 406 | Tj Ball |
 | 377 | 405 | Christy Krissie |
-| 378 | 403 | Tonya Lee |
-| 379 | 403 | Snippy Rumbler |
+| 378 | 403 | Snippy Rumbler |
+| 379 | 403 | Tonya Lee |
 | 380 | 402 | Gauri Shrotriya |
 | 381 | 402 | Spunkysmom |
 | 382 | 401 | Taylor Flowers |

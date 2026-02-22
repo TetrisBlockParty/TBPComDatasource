@@ -52,8 +52,8 @@
 | 44 | 530 | Clarence Patawaran |
 | 45 | 526 | Goatimus Lombardi |
 | 46 | 504 | Ash |
-| 47 | 500 | Savannah Overdorf |
-| 48 | 500 | Rodney McMath Jr. |
+| 47 | 500 | Rodney McMath Jr. |
+| 48 | 500 | Savannah Overdorf |
 | 49 | 496 | Carolyn Wallace |
 | 50 | 491 | Casey Jeffcoat |
 | 51 | 486 | Landon Keith Graffeo |
@@ -123,16 +123,16 @@
 | 115 | 218 | Casey Grabner |
 | 116 | 216 | Chaz Duncan |
 | 117 | 213 | loulou |
-| 118 | 212 | Mike Solo |
-| 119 | 212 | Calvin Cannon |
+| 118 | 212 | Calvin Cannon |
+| 119 | 212 | Mike Solo |
 | 120 | 212 | Toots |
 | 121 | 211 | Dizzy Tiley |
 | 122 | 211 | Twisty Cascadezone |
 | 123 | 208 | Chastity Mitchell |
 | 124 | 206 | Mylo Lipscomb |
 | 125 | 205 | Sarah Neathery |
-| 126 | 204 | Jen Caldwell |
-| 127 | 204 | Dana Scott |
+| 126 | 204 | Dana Scott |
+| 127 | 204 | Jen Caldwell |
 | 128 | 203 | Katherine Crane |
 | 129 | 202 | Monica Daley |
 | 130 | 201 | Swanky Fitline |
