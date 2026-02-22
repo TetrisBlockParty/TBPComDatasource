@@ -361,8 +361,8 @@
 | 353 | 728 | Dylan Thomason |
 | 354 | 728 | Tom Riefer |
 | 355 | 727 | Doowop40 |
-| 356 | 725 | Vonceial Boone |
-| 357 | 725 | Charvi' Carter |
+| 356 | 725 | Charvi' Carter |
+| 357 | 725 | Vonceial Boone |
 | 358 | 724 | Dreamy Blast |
 | 359 | 723 | Leslie Ann Carter |
 | 360 | 717 | Melissa Holsinger |

@@ -78,12 +78,12 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 605 | Lisa Davis |
 | 81 | 597 | Eric Mcgaughy |
@@ -146,8 +146,8 @@
 | 138 | 353 | Tyler Terrific |
 | 139 | 353 | Livvy |
 | 140 | 350 | Angela Srubar-Norman |
-| 141 | 343 | Latisha Davis |
-| 142 | 343 | ThaEviLJeNiuZ |
+| 141 | 343 | ThaEviLJeNiuZ |
+| 142 | 343 | Latisha Davis |
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
@@ -254,9 +254,9 @@
 | 246 | 215 | John Brunetti |
 | 247 | 215 | Ziggy |
 | 248 | 214 | Stacey Stano |
-| 249 | 213 | Rio Rocha |
-| 250 | 213 | Sarah Neathery |
-| 251 | 213 | Angela Geist Jusinski |
+| 249 | 213 | Angela Geist Jusinski |
+| 250 | 213 | Rio Rocha |
+| 251 | 213 | Sarah Neathery |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
 | 254 | 208 | Rebecca Morris |
