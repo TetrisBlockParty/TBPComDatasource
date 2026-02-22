@@ -223,12 +223,12 @@
 | 215 | 234 | Paula Martin |
 | 216 | 233 | LC |
 | 217 | 232 | Basment Living |
-| 218 | 231 | Sarah Somers Gray |
-| 219 | 231 | Tyler Hertzog |
+| 218 | 231 | Tyler Hertzog |
+| 219 | 231 | Sarah Somers Gray |
 | 220 | 230 | BigWeenie69 |
 | 221 | 230 | Jen Nystrom |
-| 222 | 228 | Cheeky Pop |
-| 223 | 228 | Giddy Cascade |
+| 222 | 228 | Giddy Cascade |
+| 223 | 228 | Cheeky Pop |
 | 224 | 228 | Shiny Gridmatch |
 | 225 | 227 | Speedy Liney |
 | 226 | 226 | Michael |

@@ -463,7 +463,7 @@
 | 455 | 566 | Leah Keesling |
 | 456 | 565 | Lyndi Robinson Wakefield |
 | 457 | 565 | Jaycee |
-| 458 | 563 | Lonne Emade |
+| 458 | 563 | Sarah Massey |
 | 459 | 563 | snkylnk |
 | 460 | 563 | Lonne Emade |
 | 461 | 562 | AISlop |
@@ -606,8 +606,8 @@
 | 598 | 450 | Mike Aprilliano |
 | 599 | 450 | Rich Sullivan |
 | 600 | 449 | Kristi Biddinger |
-| 601 | 448 | Lina Sanders |
-| 602 | 448 | Darlene Bowman |
+| 601 | 448 | Darlene Bowman |
+| 602 | 448 | Lina Sanders |
 | 603 | 447 | Boozi |
 | 604 | 446 | NanDa Cruzan VI |
 | 605 | 445 | Michelle Sager |
@@ -628,8 +628,8 @@
 | 620 | 434 | bbv |
 | 621 | 433 | Tom Steffen |
 | 622 | 432 | Abimbola Bimbo |
-| 623 | 431 | Quinn |
-| 624 | 431 | Hunter Connors |
+| 623 | 431 | Hunter Connors |
+| 624 | 431 | Quinn |
 | 625 | 429 | Goofy Catcher |
 | 626 | 429 | Angel Hunnewell |
 | 627 | 429 | Tabs Reichert |

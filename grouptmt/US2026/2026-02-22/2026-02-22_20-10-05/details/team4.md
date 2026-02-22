@@ -209,8 +209,8 @@
 | 201 | 247 | Dennis Bradley |
 | 202 | 246 | Carlos Ramirez |
 | 203 | 246 | Lindsey Gonzalez |
-| 204 | 245 | Autum Leigh |
-| 205 | 245 | 23 |
+| 204 | 245 | 23 |
+| 205 | 245 | Autum Leigh |
 | 206 | 244 | Twisty Cascadezone |
 | 207 | 243 | Jose Dejesus |
 | 208 | 243 | Mr. Party |
@@ -264,8 +264,8 @@
 | 256 | 200 | Googenheim |
 | 257 | 199 | Orchislactea |
 | 258 | 198 | Angelito |
-| 259 | 198 | Calvin Dennis |
-| 260 | 198 | Silly SeaWeed |
+| 259 | 198 | Silly SeaWeed |
+| 260 | 198 | Calvin Dennis |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
 | 263 | 195 | Snippy Puzzle |

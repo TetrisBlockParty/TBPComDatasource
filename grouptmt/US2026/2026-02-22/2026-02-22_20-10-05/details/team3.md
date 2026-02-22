@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 797 | Danielle Mogg |
@@ -233,8 +233,8 @@
 | 225 | 347 | Philip Rock |
 | 226 | 347 | Trisha Balmer |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Roary Danner |
-| 229 | 344 | Rania Zaqout |
+| 228 | 344 | Rania Zaqout |
+| 229 | 344 | Roary Danner |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Noyb Adam |
 | 232 | 341 | Ashley Tookes |
@@ -263,17 +263,17 @@
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | Grams |
-| 259 | 298 | MsBee |
+| 258 | 298 | MsBee |
+| 259 | 298 | Grams |
 | 260 | 297 | Jojo M |
 | 261 | 296 | Katrina Turner |
 | 262 | 296 | Hoppy Buildout |
 | 263 | 295 | Tiffany Davie |
 | 264 | 292 | Cheeky Snapper |
 | 265 | 291 | Carrie Huskey |
-| 266 | 289 | DidIdothat |
+| 266 | 289 | Danielle Weikel |
 | 267 | 289 | Duane Bright |
-| 268 | 289 | Danielle Weikel |
+| 268 | 289 | DidIdothat |
 | 269 | 287 | Sabrina Hardrick |
 | 270 | 286 | Christian Werndl |
 | 271 | 286 | Tye Stovall |
@@ -546,8 +546,8 @@
 | 538 | 148 | Groovy Blockclear |
 | 539 | 148 | Kate Farok |
 | 540 | 148 | neci |
-| 541 | 147 | Megan Rathmanner |
-| 542 | 147 | Carrie Resler |
+| 541 | 147 | Carrie Resler |
+| 542 | 147 | Megan Rathmanner |
 | 543 | 147 | Heather Bateman |
 | 544 | 146 | Amanda Declue |
 | 545 | 146 | Sara Dunn |
