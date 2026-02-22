@@ -185,8 +185,8 @@
 | 177 | 274 | Tye Stovall |
 | 178 | 272 | opf |
 | 179 | 271 | Ashley Muncey |
-| 180 | 267 | Terry Jo Jones |
-| 181 | 267 | Denise Nardoni |
+| 180 | 267 | Denise Nardoni |
+| 181 | 267 | Terry Jo Jones |
 | 182 | 263 | Angeline Joseph |
 | 183 | 262 | Joe-Maggie Mathews |
 | 184 | 261 | Tiffany Ford |
@@ -250,8 +250,8 @@
 | 242 | 199 | Rebel124 |
 | 243 | 195 | Nicha Hooker |
 | 244 | 194 | Raven Dudley |
-| 245 | 193 | Clever Shiftsnap |
-| 246 | 193 | Hyper Matchzone |
+| 245 | 193 | Hyper Matchzone |
+| 246 | 193 | Clever Shiftsnap |
 | 247 | 192 | JerseyJess |
 | 248 | 192 | Kelly Ann Child |
 | 249 | 191 | Scott Carleton |
@@ -262,8 +262,8 @@
 | 254 | 188 | AlsoJess |
 | 255 | 184 | Troy |
 | 256 | 184 | France Vézina |
-| 257 | 182 | Carrie Huskey |
-| 258 | 182 | Melanie Sherwood |
+| 257 | 182 | Melanie Sherwood |
+| 258 | 182 | Carrie Huskey |
 | 259 | 181 | Nicholas Roddy |
 | 260 | 180 | Ryan Williams |
 | 261 | 180 | Cheryl Hinch Tenbrook |
@@ -375,8 +375,8 @@
 | 367 | 125 | Shimika Enay Wallace |
 | 368 | 125 | Andrew Thorson |
 | 369 | 124 | Ammmmmmy |
-| 370 | 124 | Micayah Stevens |
-| 371 | 124 | gremicx |
+| 370 | 124 | gremicx |
+| 371 | 124 | Micayah Stevens |
 | 372 | 123 | Michael Latasha Gray |
 | 373 | 122 | Giggly Brickroll |
 | 374 | 122 | Daring Builder |
@@ -430,8 +430,8 @@
 | 422 | 108 | Lush Risebuilder |
 | 423 | 108 | Rachel Grant |
 | 424 | 107 | Megan Stanley |
-| 425 | 106 | Joseph Vargas |
-| 426 | 106 | Cheeky Setter |
+| 425 | 106 | Cheeky Setter |
+| 426 | 106 | Joseph Vargas |
 | 427 | 106 | Megan Riggins |
 | 428 | 105 | Snarky McFace |
 | 429 | 105 | Emi |

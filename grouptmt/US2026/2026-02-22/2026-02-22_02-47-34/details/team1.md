@@ -136,13 +136,13 @@
 | 128 | 230 | Frothy Pattern |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
-| 131 | 226 | Kandae |
-| 132 | 226 | ALFD |
+| 131 | 226 | ALFD |
+| 132 | 226 | Kandae |
 | 133 | 216 | Shauntina Burke |
 | 134 | 216 | MRdot Rooski |
 | 135 | 214 | GATOR |
-| 136 | 212 | Jaimie Lynn |
-| 137 | 212 | Lori Bales |
+| 136 | 212 | Lori Bales |
+| 137 | 212 | Jaimie Lynn |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -266,8 +266,8 @@
 | 258 | 118 | Garcia Bailey |
 | 259 | 117 | Chantelle Ceno |
 | 260 | 116 | Fresno Beotoni |
-| 261 | 115 | Chuck Gannon |
-| 262 | 115 | Mrs.Patrica |
+| 261 | 115 | Mrs.Patrica |
+| 262 | 115 | Chuck Gannon |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
 | 265 | 112 | Chris65 |
@@ -310,8 +310,8 @@
 | 302 | 102 | Barrbaric |
 | 303 | 101 | Mizzledagod |
 | 304 | 101 | Liliana Pena |
-| 305 | 100 | Brandi Egbert |
-| 306 | 100 | Debbie Davis |
+| 305 | 100 | Erin Rosberg |
+| 306 | 100 | Plucky Fallzone |
 | 307 | 100 | Jessica Weed |
 | 308 | 100 | Debbie Davis |
 | 309 | 100 | Brandi Egbert |
