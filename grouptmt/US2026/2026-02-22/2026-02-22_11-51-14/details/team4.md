@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -77,14 +77,14 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 474 | Amy Suckarieh |
 | 82 | 468 | Shane Kalamata Platoon |
@@ -191,8 +191,8 @@
 | 183 | 204 | Carlos Ramirez |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
-| 186 | 201 | Melvin Baird |
-| 187 | 201 | Chance Strickland |
+| 186 | 201 | Chance Strickland |
+| 187 | 201 | Melvin Baird |
 | 188 | 200 | Laura |
 | 189 | 198 | Keith Kelley |
 | 190 | 198 | Ruben Wheeler |
@@ -408,8 +408,8 @@
 | 400 | 104 | Gdiguy |
 | 401 | 104 | Cranky Rollpiece |
 | 402 | 103 | Sammy Noguera |
-| 403 | 102 | Brave Spinbuilder |
-| 404 | 102 | Christina O'Dell-Ishau |
+| 403 | 102 | Christina O'Dell-Ishau |
+| 404 | 102 | Brave Spinbuilder |
 | 405 | 102 | Bigeddie |
 | 406 | 101 | Saulc1991 |
 | 407 | 100 | Rico |
@@ -435,9 +435,9 @@
 | 427 | 94 | Jeff Roberts |
 | 428 | 93 | Matt Gooder |
 | 429 | 93 | Mousey406 |
-| 430 | 92 | Frilly Blocky |
-| 431 | 92 | RogueRebel |
-| 432 | 92 | bloat princess |
+| 430 | 92 | bloat princess |
+| 431 | 92 | Frilly Blocky |
+| 432 | 92 | RogueRebel |
 | 433 | 92 | Krash |
 | 434 | 91 | Susan Williams |
 | 435 | 91 | Sunny Filler |

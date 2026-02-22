@@ -190,8 +190,8 @@
 | 182 | 990 | Amber Shoemaker |
 | 183 | 989 | Teddi Notyalc |
 | 184 | 988 | Maegan Beaule |
-| 185 | 986 | Poppy Snap |
-| 186 | 986 | RAEPR05 |
+| 185 | 986 | RAEPR05 |
+| 186 | 986 | Poppy Snap |
 | 187 | 985 | Taylor Phillips |
 | 188 | 984 | Nika Bee |
 | 189 | 982 | Desiree Harris Rosch |
@@ -337,8 +337,8 @@
 | 329 | 639 | Rebecca Miller |
 | 330 | 635 | Diana Fitzwater |
 | 331 | 631 | Marie Walker |
-| 332 | 627 | Allan Wayne Lamia |
-| 333 | 627 | Victoria Moore-Smith |
+| 332 | 627 | Victoria Moore-Smith |
+| 333 | 627 | Allan Wayne Lamia |
 | 334 | 620 | Brandon Armstrong |
 | 335 | 617 | Leslie Ann Carter |
 | 336 | 613 | Breezy Filler |
@@ -436,8 +436,8 @@
 | 428 | 500 | Sarah Ridenour |
 | 429 | 499 | Sarah Massey |
 | 430 | 498 | Rhonda Milstead |
-| 431 | 497 | Doowop40 |
-| 432 | 497 | June E Hanson |
+| 431 | 497 | June E Hanson |
+| 432 | 497 | Doowop40 |
 | 433 | 494 | Venita Ray |
 | 434 | 493 | Kara Gillen |
 | 435 | 492 | Maya June |
@@ -554,8 +554,8 @@
 | 546 | 413 | Biggest thing |
 | 547 | 413 | Lauren Fitzgerald Thomas |
 | 548 | 412 | Jason H Baker |
-| 549 | 411 | Mighty Spinbuilder |
-| 550 | 411 | Kristen O'Neal |
+| 549 | 411 | Kristen O'Neal |
+| 550 | 411 | Mighty Spinbuilder |
 | 551 | 410 | Nicole Cannon |
 | 552 | 408 | Abimbola Bimbo |
 | 553 | 408 | Stefanie Zonzini-Gagliardi |
@@ -600,8 +600,8 @@
 | 592 | 386 | Wuntayk |
 | 593 | 385 | Tansaria Couch-Butler |
 | 594 | 384 | Mary Marie |
-| 595 | 384 | Party d |
-| 596 | 384 | Kelly |
+| 595 | 384 | Kelly |
+| 596 | 384 | Party d |
 | 597 | 383 | Jessica Conaway |
 | 598 | 383 | Belle Mari |
 | 599 | 382 | Amber Gray |
@@ -682,8 +682,8 @@
 | 674 | 341 | Daniel Amos |
 | 675 | 341 | Shorty |
 | 676 | 340 | Quirky Twistline |
-| 677 | 339 | Cynthia Louann Rose |
-| 678 | 339 | Denise Rickman |
+| 677 | 339 | Denise Rickman |
+| 678 | 339 | Cynthia Louann Rose |
 | 679 | 338 | Janitta Alvarez |
 | 680 | 337 | Sassy Pattern |
 | 681 | 337 | Tum |
@@ -716,35 +716,35 @@
 | 708 | 322 | Michelle Pike |
 | 709 | 322 | Lea Stewart |
 | 710 | 321 | Samantha Scibelli |
-| 711 | 321 | Ashley Criner |
-| 712 | 321 | Tamara Bailey |
+| 711 | 321 | Tamara Bailey |
+| 712 | 321 | Ashley Criner |
 | 713 | 320 | Tash Bell |
 | 714 | 320 | Mary Boss |
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Ashlyn Berner |
-| 719 | 317 | Zombi3 |
+| 718 | 317 | Zombi3 |
+| 719 | 317 | Ashlyn Berner |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
 | 723 | 316 | Johanna Massaro |
 | 724 | 314 | Amanda West |
-| 725 | 313 | Marina Linda |
-| 726 | 313 | Natasha Edmonds |
+| 725 | 313 | Natasha Edmonds |
+| 726 | 313 | Marina Linda |
 | 727 | 313 | Snippy Block |
 | 728 | 312 | Heather Renee Jeffers |
 | 729 | 312 | Sassy Linkbuilder |
 | 730 | 311 | Megan Phillips |
 | 731 | 311 | SwifftFox |
-| 732 | 310 | Audra Williams |
-| 733 | 310 | Beth Decker |
+| 732 | 310 | Beth Decker |
+| 733 | 310 | Audra Williams |
 | 734 | 310 | Wendy Ducheney |
 | 735 | 310 | Cheeky Brickmatch |
 | 736 | 309 | Byung Bae Park |
 | 737 | 308 | Sarah block |
-| 738 | 308 | Claire |
-| 739 | 308 | Hyper Riseclear |
+| 738 | 308 | Hyper Riseclear |
+| 739 | 308 | Claire |
 | 740 | 308 | Katie Joy McCombs |
 | 741 | 307 | Peachy Blockbuilder |
 | 742 | 307 | stacey |
@@ -761,8 +761,8 @@
 | 753 | 302 | Kena T. Tanner |
 | 754 | 302 | Maxwell Escalera |
 | 755 | 300 | Alice Ball |
-| 756 | 300 | Kacee Conrad Bock |
-| 757 | 300 | Warren Marleau |
+| 756 | 300 | Warren Marleau |
+| 757 | 300 | Kacee Conrad Bock |
 | 758 | 299 | Cassie Newton |
 | 759 | 298 | Frilly Fallzone |
 | 760 | 298 | Lazy Riseclear |
@@ -785,8 +785,8 @@
 | 777 | 291 | Brave Gridpiece |
 | 778 | 291 | Bella Novia |
 | 779 | 291 | NickyBrooks |
-| 780 | 289 | August Hale |
-| 781 | 289 | Min |
+| 780 | 289 | Min |
+| 781 | 289 | August Hale |
 | 782 | 289 | Ryan Chan |
 | 783 | 288 | thranduil |
 | 784 | 288 | Samantha Angelo |
@@ -898,8 +898,8 @@
 | 890 | 258 | DesertDreamer24 |
 | 891 | 257 | Queen |
 | 892 | 257 | Mama T |
-| 893 | 257 | Jackie Jackie Lee |
-| 894 | 257 | Ys Muhammed |
+| 893 | 257 | Ys Muhammed |
+| 894 | 257 | Jackie Jackie Lee |
 | 895 | 256 | Slinky Racker |
 | 896 | 256 | Brenna Yearian |
 | 897 | 256 | Monarca26 |
@@ -1311,8 +1311,8 @@
 | 1303 | 177 | Cris Darling |
 | 1304 | 177 | Rebecca Anzueto Estrada |
 | 1305 | 177 | Jennifer Rose |
-| 1306 | 177 | Ian Anderson |
-| 1307 | 177 | Angela KaplaSchwahn |
+| 1306 | 177 | Angela KaplaSchwahn |
+| 1307 | 177 | Ian Anderson |
 | 1308 | 176 | Gregorio Molina |
 | 1309 | 176 | Michelle Grant-Moncrieft |
 | 1310 | 176 | Gigi |
@@ -1357,8 +1357,8 @@
 | 1349 | 171 | Catherine Varea |
 | 1350 | 171 | Lydia Greenman |
 | 1351 | 171 | Ashley Cooper Tharin |
-| 1352 | 171 | Kimberly Bickling |
-| 1353 | 171 | Chris Emanuel |
+| 1352 | 171 | Chris Emanuel |
+| 1353 | 171 | Kimberly Bickling |
 | 1354 | 171 | Alicia Moreno |
 | 1355 | 171 | Tash |
 | 1356 | 171 | Abby Jensen |
@@ -1391,9 +1391,9 @@
 | 1383 | 168 | Melissa Licklider |
 | 1384 | 168 | JessieP123 |
 | 1385 | 168 | Mishka Upchurch |
-| 1386 | 168 | Gaby |
-| 1387 | 168 | Hasan Nabil Jadallah |
-| 1388 | 167 | Dreamy Fitclear |
+| 1386 | 168 | Hasan Nabil Jadallah |
+| 1387 | 168 | Gaby |
+| 1388 | 167 | Mary Lopez Sr. |
 | 1389 | 167 | Tamara Slaten |
 | 1390 | 167 | Dreamy Fitclear |
 | 1391 | 167 | Koko Charlotte Rudo |

@@ -182,10 +182,10 @@
 | 174 | 218 | LC |
 | 175 | 217 | ParisandCory Champagne |
 | 176 | 217 | Kimberly Garcia |
-| 177 | 216 | Shauntina Burke |
-| 178 | 216 | MRdot Rooski |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 177 | 216 | MRdot Rooski |
+| 178 | 216 | Shauntina Burke |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -244,8 +244,8 @@
 | 236 | 177 | Perky Shiftsnap |
 | 237 | 177 | Jacqueline Unique |
 | 238 | 176 | Mel Hogan |
-| 239 | 175 | Kellie Tunstall |
-| 240 | 175 | John Barron |
+| 239 | 175 | John Barron |
+| 240 | 175 | Kellie Tunstall |
 | 241 | 174 | Cheeky Pop |
 | 242 | 173 | Gabrielle Louise Malloch |
 | 243 | 173 | Tiger Lily |
