@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -214,15 +214,15 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | Rio Rocha |
-| 210 | 174 | JPW |
+| 209 | 174 | JPW |
+| 210 | 174 | Rio Rocha |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
 | 214 | 166 | Megan Cutshaw |
 | 215 | 166 | SammieJo Guy |
-| 216 | 165 | James Hurley Jr. |
-| 217 | 165 | Jackie Marie |
+| 216 | 165 | Jackie Marie |
+| 217 | 165 | James Hurley Jr. |
 | 218 | 164 | 030Synner |
 | 219 | 163 | Kristina Black |
 | 220 | 162 | John Brunetti |

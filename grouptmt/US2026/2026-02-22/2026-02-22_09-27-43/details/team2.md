@@ -61,8 +61,8 @@
 | 53 | 2361 | Rob Surace |
 | 54 | 2347 | Alex Hill |
 | 55 | 2344 | Melinda Brown |
-| 56 | 2333 | Ramone Armstrong |
-| 57 | 2333 | Crystalin Heath Lewis |
+| 56 | 2333 | Crystalin Heath Lewis |
+| 57 | 2333 | Ramone Armstrong |
 | 58 | 2298 | Brent Bittenbender |
 | 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
@@ -250,8 +250,8 @@
 | 242 | 777 | Tesha Oldaker |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | William Hunt |
-| 246 | 772 | Sam Joe |
+| 245 | 772 | Sam Joe |
+| 246 | 772 | William Hunt |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -338,8 +338,8 @@
 | 330 | 613 | Caitlyn Blackwell |
 | 331 | 613 | Ellie Jonas |
 | 332 | 611 | Em Chen |
-| 333 | 611 | Julio A Laracuente |
-| 334 | 611 | Carl Bradshaw |
+| 333 | 611 | Carl Bradshaw |
+| 334 | 611 | Julio A Laracuente |
 | 335 | 605 | Jelly |
 | 336 | 603 | Cassie Maynard |
 | 337 | 602 | Christine Bollig |
@@ -432,8 +432,8 @@
 | 424 | 489 | Cassie Mercer |
 | 425 | 489 | Osun Anuket Esu |
 | 426 | 488 | Venita Ray |
-| 427 | 487 | MrsCandyfine As Wine Truss |
-| 428 | 487 | Maya June |
+| 427 | 487 | Maya June |
+| 428 | 487 | MrsCandyfine As Wine Truss |
 | 429 | 486 | Sheniya Spurgeon |
 | 430 | 486 | Caitlin Schmid |
 | 431 | 485 | Ann Matzkanin |
@@ -540,8 +540,8 @@
 | 532 | 410 | Tara Lynn Janes |
 | 533 | 410 | Nicole Cannon |
 | 534 | 408 | Brandon Jones |
-| 535 | 408 | Stefanie Zonzini-Gagliardi |
-| 536 | 408 | Abimbola Bimbo |
+| 535 | 408 | Abimbola Bimbo |
+| 536 | 408 | Stefanie Zonzini-Gagliardi |
 | 537 | 407 | Tipsy Filler |
 | 538 | 406 | Erin StFrancis |
 | 539 | 406 | Kimberly Ann |
@@ -651,8 +651,8 @@
 | 643 | 351 | Connie Jimenez |
 | 644 | 350 | Fi Ne |
 | 645 | 350 | Chris Harr |
-| 646 | 348 | Heather Sawtelle-Mckenzie |
-| 647 | 348 | NanDa Cruzan VI |
+| 646 | 348 | NanDa Cruzan VI |
+| 647 | 348 | Heather Sawtelle-Mckenzie |
 | 648 | 348 | Peppy Snapfall |
 | 649 | 348 | Richard Horton |
 | 650 | 348 | Kelly Meredeith |
@@ -676,8 +676,8 @@
 | 668 | 337 | Diallo Sparkman |
 | 669 | 337 | Tum |
 | 670 | 337 | Savannah Alexander |
-| 671 | 336 | bru |
-| 672 | 336 | Austin Wilson |
+| 671 | 336 | Austin Wilson |
+| 672 | 336 | bru |
 | 673 | 336 | Swanky Columnbuilder |
 | 674 | 335 | Brooke Leigh Strube |
 | 675 | 335 | Maria Louise |
@@ -820,16 +820,16 @@
 | 812 | 274 | Sabrena Yeisley |
 | 813 | 274 | Jamie Stevey |
 | 814 | 274 | Matthew Joseph Acevedo |
-| 815 | 274 | Robin L. Vial |
-| 816 | 274 | Amanda Michelle Pigeon |
+| 815 | 274 | Amanda Michelle Pigeon |
+| 816 | 274 | Robin L. Vial |
 | 817 | 273 | Jennifer Aiken |
 | 818 | 273 | Britt Stunkel |
 | 819 | 273 | Swanky Snap |
 | 820 | 272 | Alexandrea |
 | 821 | 272 | Witty Piecebuilder |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Beverly Hodge |
-| 824 | 271 | Shalisa Hill |
+| 823 | 271 | Shalisa Hill |
+| 824 | 271 | Beverly Hodge |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Nat |
 | 827 | 270 | Lazy Builderfit |
@@ -934,11 +934,11 @@
 | 926 | 242 | Meganator42 |
 | 927 | 242 | Donna Chandler |
 | 928 | 242 | Groovy Tilefall |
-| 929 | 241 | Emoney Sanchez |
-| 930 | 241 | Ronda Cary |
+| 929 | 241 | Ronda Cary |
+| 930 | 241 | Emoney Sanchez |
 | 931 | 241 | Travis Tinsley |
-| 932 | 240 | Alison Emmons |
-| 933 | 240 | Renee Bowers |
+| 932 | 240 | Renee Bowers |
+| 933 | 240 | Alison Emmons |
 | 934 | 239 | Amy John Mills |
 | 935 | 239 | Daring Matchfit |
 | 936 | 239 | Joel Rosado |
@@ -975,8 +975,8 @@
 | 967 | 231 | Vung Nguyen |
 | 968 | 231 | Stanley Vanekelenburg |
 | 969 | 230 | lady |
-| 970 | 229 | BbqGuru |
-| 971 | 229 | ItsJennifer Neriss |
+| 970 | 229 | ItsJennifer Neriss |
+| 971 | 229 | BbqGuru |
 | 972 | 229 | Chyrisse Norton |
 | 973 | 229 | Heather Anspaugh |
 | 974 | 229 | Deidre Jenkins |

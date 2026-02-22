@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 896 | Elaine Webb Graves |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Natasha Jones |
-| 96 | 582 | Jay Horn |
+| 95 | 582 | Jay Horn |
+| 96 | 582 | Natasha Jones |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -216,8 +216,8 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Ammmmmmy |
-| 212 | 296 | Katrina Turner |
+| 211 | 296 | Katrina Turner |
+| 212 | 296 | Ammmmmmy |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Cozy Snaplink |
-| 271 | 225 | Dirtgirl27 |
+| 270 | 225 | Dirtgirl27 |
+| 271 | 225 | Cozy Snaplink |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -291,8 +291,8 @@
 | 283 | 214 | Amy Fuller Heaton |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Rebel124 |
-| 286 | 212 | Sunny Rotater |
-| 287 | 212 | Desiree Gold |
+| 286 | 212 | Desiree Gold |
+| 287 | 212 | Sunny Rotater |
 | 288 | 211 | Velma Mull |
 | 289 | 211 | El Chapa |
 | 290 | 211 | Khaleada McGill Banks |
@@ -346,8 +346,8 @@
 | 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
 | 344 | 167 | Irene Arreguin |
 | 345 | 167 | Romeo |
@@ -381,9 +381,9 @@
 | 373 | 156 | Nichole Greene |
 | 374 | 155 | Michell Hendershott Jackson |
 | 375 | 155 | Michael Leblanc |
-| 376 | 153 | Lys |
+| 376 | 153 | Betty Bóò |
 | 377 | 153 | Sheila M Frazier |
-| 378 | 153 | Betty Bóò |
+| 378 | 153 | Lys |
 | 379 | 153 | Tony Waters |
 | 380 | 152 | Goofy Fall |
 | 381 | 152 | Bryan Byrd |
