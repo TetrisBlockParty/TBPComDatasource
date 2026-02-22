@@ -93,8 +93,8 @@
 | 85 | 591 | Jesse Olive |
 | 86 | 588 | yoyo |
 | 87 | 582 | Jay Horn |
-| 88 | 582 | Speedy Bridger |
-| 89 | 582 | Natasha Jones |
+| 88 | 582 | Natasha Jones |
+| 89 | 582 | Speedy Bridger |
 | 90 | 581 | Danielle Mogg |
 | 91 | 579 | Jd Morris |
 | 92 | 577 | Sarajane Lokan |
@@ -142,12 +142,12 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
-| 141 | 399 | Marcie Bressler |
-| 142 | 399 | Mcathen |
+| 141 | 399 | Mcathen |
+| 142 | 399 | Marcie Bressler |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
 | 145 | 392 | Katie Knaus |
@@ -373,8 +373,8 @@
 | 365 | 147 | David Bardo |
 | 366 | 147 | sofaking |
 | 367 | 146 | Sdot |
-| 368 | 146 | Sara Dunn |
-| 369 | 146 | ROODBOY |
+| 368 | 146 | ROODBOY |
+| 369 | 146 | Sara Dunn |
 | 370 | 144 | Tenisha Semidey |
 | 371 | 142 | Gray Hicks |
 | 372 | 142 | Erica Anderson |

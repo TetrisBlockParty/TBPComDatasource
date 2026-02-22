@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Michelle Pearman |
-| 27 | 873 | Elizabeth Sallas |
+| 26 | 873 | Elizabeth Sallas |
+| 27 | 873 | Michelle Pearman |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -76,8 +76,8 @@
 | 68 | 501 | H.R. Block |
 | 69 | 500 | Rodney McMath Jr. |
 | 70 | 486 | Landon Keith Graffeo |
-| 71 | 483 | TeeJ |
-| 72 | 483 | Carmethia Clemons Haslerig |
+| 71 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | TeeJ |
 | 73 | 467 | Dawn Alexander |
 | 74 | 447 | Samantha Peterson |
 | 75 | 440 | Kristin Manee |
@@ -129,9 +129,9 @@
 | 121 | 277 | Scott Jameson |
 | 122 | 275 | Dizzy Tiley |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Dana Scott |
+| 124 | 264 | Girl |
 | 125 | 264 | Epic Curvetile |
-| 126 | 264 | Girl |
+| 126 | 264 | Dana Scott |
 | 127 | 262 | Holly Jolly |
 | 128 | 259 | Tyler Terrific |
 | 129 | 258 | Brittney Orengo |
@@ -174,8 +174,8 @@
 | 166 | 204 | Jen Caldwell |
 | 167 | 203 | Katherine Crane |
 | 168 | 202 | TRCuse |
-| 169 | 201 | Chance Strickland |
-| 170 | 201 | Melvin Baird |
+| 169 | 201 | Melvin Baird |
+| 170 | 201 | Chance Strickland |
 | 171 | 200 | Jeff Brian Gates |
 | 172 | 198 | Jessica Lynn Cutlip |
 | 173 | 196 | Oscar Alberto Perez |
@@ -183,8 +183,8 @@
 | 175 | 194 | Zany Twisterfit |
 | 176 | 192 | Shauna Havard |
 | 177 | 191 | Klo |
-| 178 | 189 | Calvin Dennis |
-| 179 | 189 | Stacey Stano |
+| 178 | 189 | Stacey Stano |
+| 179 | 189 | Calvin Dennis |
 | 180 | 188 | Zethra Prenisha Rahming |
 | 181 | 188 | Andria Lynn |
 | 182 | 186 | Holly |
@@ -192,10 +192,10 @@
 | 184 | 185 | Lori |
 | 185 | 185 | Andy Cabral |
 | 186 | 184 | Ak Jones |
-| 187 | 181 | Carter Jones |
-| 188 | 181 | Alan George LaRage |
-| 189 | 180 | Orchislactea |
-| 190 | 180 | Rafael Valentin |
+| 187 | 181 | Alan George LaRage |
+| 188 | 181 | Carter Jones |
+| 189 | 180 | Rafael Valentin |
+| 190 | 180 | Orchislactea |
 | 191 | 179 | blockstar |
 | 192 | 174 | Dihcheese444 |
 | 193 | 173 | ThaEviLJeNiuZ |
@@ -203,10 +203,10 @@
 | 195 | 171 | Autumn Kumzi |
 | 196 | 168 | TinyLegoRose |
 | 197 | 167 | Cozy Balancer |
-| 198 | 166 | SammieJo Guy |
-| 199 | 166 | Marvin Lou Martin |
-| 200 | 165 | James Hurley Jr. |
-| 201 | 165 | Jackie Marie |
+| 198 | 166 | Marvin Lou Martin |
+| 199 | 166 | SammieJo Guy |
+| 200 | 165 | Jackie Marie |
+| 201 | 165 | James Hurley Jr. |
 | 202 | 164 | 030Synner |
 | 203 | 163 | Kristina Black |
 | 204 | 162 | Joanna |

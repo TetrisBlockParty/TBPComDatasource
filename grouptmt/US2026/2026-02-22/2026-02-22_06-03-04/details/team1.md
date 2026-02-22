@@ -127,8 +127,8 @@
 | 119 | 285 | Ananda Mendez |
 | 120 | 284 | Emily Adelaide Wheatley |
 | 121 | 283 | Franswa |
-| 122 | 282 | Cool Shiftsnap |
-| 123 | 282 | Timothy Dew |
+| 122 | 282 | Timothy Dew |
+| 123 | 282 | Cool Shiftsnap |
 | 124 | 280 | Sarah Roberts |
 | 125 | 280 | Jennifer Hardman |
 | 126 | 278 | Rachael |
@@ -176,8 +176,8 @@
 | 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
-| 171 | 198 | Shiny Gridmatch |
-| 172 | 198 | Happy Snapbuild |
+| 171 | 198 | Happy Snapbuild |
+| 172 | 198 | Shiny Gridmatch |
 | 173 | 195 | Shaykmia |
 | 174 | 195 | Cartier |
 | 175 | 194 | Christy Jones |
@@ -241,8 +241,8 @@
 | 233 | 150 | Adele Rahman |
 | 234 | 149 | Chirpy Smasher |
 | 235 | 148 | Dino |
-| 236 | 147 | J.F. Fields |
-| 237 | 147 | Davery Spencer Adair |
+| 236 | 147 | Davery Spencer Adair |
+| 237 | 147 | J.F. Fields |
 | 238 | 145 | Tipsy Riseclear |
 | 239 | 144 | Fmp |
 | 240 | 144 | Toph |
@@ -309,9 +309,9 @@
 | 301 | 114 | Constance Risner |
 | 302 | 114 | Chris Sigurdson |
 | 303 | 113 | Itspaigebro |
-| 304 | 112 | Crystal Joslin |
-| 305 | 112 | Lush Zoney |
-| 306 | 112 | Chris65 |
+| 304 | 112 | Lush Zoney |
+| 305 | 112 | Chris65 |
+| 306 | 112 | Crystal Joslin |
 | 307 | 111 | Damon J. Martin |
 | 308 | 110 | Kayla Marie Stevenson |
 | 309 | 110 | Jennifer Corrado |
