@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Angel Fowler |
-| 49 | 635 | Marianne Louise West |
+| 48 | 635 | Marianne Louise West |
+| 49 | 635 | Angel Fowler |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Emily Adelaide Wheatley |
-| 128 | 284 | Rachael |
+| 127 | 284 | Rachael |
+| 128 | 284 | Emily Adelaide Wheatley |
 | 129 | 283 | Franswa |
 | 130 | 282 | Timothy Dew |
 | 131 | 282 | Cool Shiftsnap |
@@ -195,8 +195,8 @@
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |
