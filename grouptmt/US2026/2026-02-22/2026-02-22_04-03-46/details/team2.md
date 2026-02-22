@@ -166,8 +166,8 @@
 | 158 | 953 | Ladyrainbootz |
 | 159 | 951 | Cynthia Ward |
 | 160 | 950 | Teresa Gillmore |
-| 161 | 941 | Desiree Harris Rosch |
-| 162 | 941 | Marie Boyd Faulk |
+| 161 | 941 | Marie Boyd Faulk |
+| 162 | 941 | Desiree Harris Rosch |
 | 163 | 937 | Shannon Joslin |
 | 164 | 935 | William Meussner |
 | 165 | 932 | Cool Clearer |
@@ -239,8 +239,8 @@
 | 231 | 700 | Vincent Petrella |
 | 232 | 698 | Mighty Shatterfit |
 | 233 | 697 | Dreamy Blast |
-| 234 | 692 | Dannette Goldberg-Richards |
-| 235 | 692 | Jennifer Casey-Kay |
+| 234 | 692 | Jennifer Casey-Kay |
+| 235 | 692 | Dannette Goldberg-Richards |
 | 236 | 692 | Chelle |
 | 237 | 690 | Deborah Miller |
 | 238 | 688 | ShinyRose |
@@ -346,8 +346,8 @@
 | 338 | 507 | Magic steve |
 | 339 | 507 | Gauri Shrotriya |
 | 340 | 504 | Lylymom |
-| 341 | 502 | Poppy Snap |
-| 342 | 502 | Sparkles |
+| 341 | 502 | Sparkles |
+| 342 | 502 | Poppy Snap |
 | 343 | 500 | Sarah Ridenour |
 | 344 | 499 | Sarah Massey |
 | 345 | 497 | Jeremy Parodi |

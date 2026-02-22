@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Alicia Bass |
-| 75 | 396 | Amy Suckarieh |
+| 74 | 396 | Amy Suckarieh |
+| 75 | 396 | Alicia Bass |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -183,8 +183,8 @@
 | 175 | 176 | Zethra Prenisha Rahming |
 | 176 | 174 | Dihcheese444 |
 | 177 | 173 | ThaEviLJeNiuZ |
-| 178 | 166 | SammieJo Guy |
-| 179 | 166 | Cozy Balancer |
+| 178 | 166 | Cozy Balancer |
+| 179 | 166 | SammieJo Guy |
 | 180 | 164 | 030Synner |
 | 181 | 162 | Joanna |
 | 182 | 160 | TinyLegoRose |

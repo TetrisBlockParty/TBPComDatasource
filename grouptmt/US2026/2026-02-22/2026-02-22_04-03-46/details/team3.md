@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Simpson |
-| 122 | 410 | Stephanie Blkpep Davidson |
+| 121 | 410 | Stephanie Blkpep Davidson |
+| 122 | 410 | Stephanie Simpson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Christine Filson |
@@ -138,8 +138,8 @@
 | 130 | 399 | Mcathen |
 | 131 | 399 | ren |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Katie Knaus |
-| 134 | 392 | Tasha Gillespie |
+| 133 | 392 | Tasha Gillespie |
+| 134 | 392 | Katie Knaus |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Marcie Bressler |
 | 137 | 390 | Hasty Cascadefit |
@@ -191,8 +191,8 @@
 | 183 | 286 | Jacqueline Rodriguez |
 | 184 | 284 | Edwin Calvillo Jr. |
 | 185 | 283 | Joye Sims Binion |
-| 186 | 278 | Araceli Parra |
-| 187 | 278 | Rufus Lincoln |
+| 186 | 278 | Rufus Lincoln |
+| 187 | 278 | Araceli Parra |
 | 188 | 277 | Keis |
 | 189 | 276 | _melisa223_ |
 | 190 | 276 | Crimson |
@@ -245,12 +245,12 @@
 | 237 | 214 | Rebel124 |
 | 238 | 214 | Connie Mohler-Fair |
 | 239 | 213 | Stephanie Burtin |
-| 240 | 212 | Desiree Gold |
-| 241 | 212 | Twisty Brick LT |
+| 240 | 212 | Twisty Brick LT |
+| 241 | 212 | Desiree Gold |
 | 242 | 212 | Sunny Rotater |
 | 243 | 211 | Katrina Turner |
-| 244 | 211 | Trisha Balmer |
-| 245 | 211 | Khaleada McGill Banks |
+| 244 | 211 | Khaleada McGill Banks |
+| 245 | 211 | Trisha Balmer |
 | 246 | 207 | Jessica |
 | 247 | 204 | Danielle Allison |
 | 248 | 204 | Aerian Preston |
