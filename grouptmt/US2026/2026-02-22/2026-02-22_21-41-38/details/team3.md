@@ -231,8 +231,8 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Eon Harris |
-| 227 | 351 | Rebecca Funderburk Kirby |
+| 226 | 351 | Rebecca Funderburk Kirby |
+| 227 | 351 | Eon Harris |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |

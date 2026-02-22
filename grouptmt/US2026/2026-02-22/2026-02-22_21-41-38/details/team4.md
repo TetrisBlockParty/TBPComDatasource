@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Jae Job |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -73,8 +73,8 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
@@ -146,8 +146,8 @@
 | 138 | 353 | Livvy |
 | 139 | 353 | Tyler Terrific |
 | 140 | 350 | Angela Srubar-Norman |
-| 141 | 343 | Latisha Davis |
-| 142 | 343 | ThaEviLJeNiuZ |
+| 141 | 343 | ThaEviLJeNiuZ |
+| 142 | 343 | Latisha Davis |
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
@@ -203,8 +203,8 @@
 | 195 | 267 | Chris Bernstein |
 | 196 | 266 | Laura |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Holly Jolly |
-| 199 | 262 | Joeliecea Cobb |
+| 198 | 262 | Joeliecea Cobb |
+| 199 | 262 | Holly Jolly |
 | 200 | 261 | scott |
 | 201 | 259 | Swanky Fitline |
 | 202 | 259 | Melvin Baird |

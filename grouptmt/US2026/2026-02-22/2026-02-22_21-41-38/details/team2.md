@@ -646,8 +646,8 @@
 | 638 | 433 | Tabs Reichert |
 | 639 | 433 | Tom Steffen |
 | 640 | 431 | Joel Rosado |
-| 641 | 431 | Hunter Connors |
-| 642 | 431 | Quinn |
+| 641 | 431 | Quinn |
+| 642 | 431 | Hunter Connors |
 | 643 | 430 | De Hawkins |
 | 644 | 429 | Goofy Catcher |
 | 645 | 429 | Angel Hunnewell |

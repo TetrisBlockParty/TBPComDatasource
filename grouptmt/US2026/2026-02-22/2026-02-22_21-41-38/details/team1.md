@@ -127,9 +127,9 @@
 | 119 | 390 | Goose egg |
 | 120 | 389 | Ash Galvan |
 | 121 | 387 | Emily Adelaide Wheatley |
-| 122 | 386 | David Miller |
-| 123 | 386 | Ty Brown |
-| 124 | 386 | Plucky Ziggy |
+| 122 | 386 | Plucky Ziggy |
+| 123 | 386 | David Miller |
+| 124 | 386 | Ty Brown |
 | 125 | 383 | pjbeta |
 | 126 | 380 | Maria C. Hernandez |
 | 127 | 379 | Austin James |
@@ -140,8 +140,8 @@
 | 132 | 372 | Sweet Baker |
 | 133 | 370 | Ly Phethmany |
 | 134 | 364 | Shauna Loe |
-| 135 | 360 | phrmblk24 |
-| 136 | 360 | Wisa |
+| 135 | 360 | Wisa |
+| 136 | 360 | phrmblk24 |
 | 137 | 359 | Chirpy Smasher |
 | 138 | 357 | Amanda Johnson Huffman |
 | 139 | 350 | Tipsy Strikerpiece |
@@ -193,8 +193,8 @@
 | 185 | 281 | Desiree Deschaine Havee |
 | 186 | 279 | Tana |
 | 187 | 277 | Christy Jones |
-| 188 | 276 | Shiny Snapfit |
-| 189 | 276 | Damon J. Martin |
+| 188 | 276 | Damon J. Martin |
+| 189 | 276 | Shiny Snapfit |
 | 190 | 273 | Shannon Marie Pitts |
 | 191 | 272 | Sleepysloath5745 |
 | 192 | 270 | Mandyy Rae |
@@ -329,7 +329,7 @@
 | 321 | 178 | Gabrielle Louise Malloch |
 | 322 | 177 | Irual Hctrab |
 | 323 | 177 | Jacqueline Unique |
-| 324 | 177 | Irual Hctrab |
+| 324 | 177 | Jessica Russell |
 | 325 | 176 | Reesey Enyart |
 | 326 | 176 | Vivienne Carter |
 | 327 | 175 | Gary Gobin |
