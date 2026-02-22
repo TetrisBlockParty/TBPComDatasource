@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -418,8 +418,8 @@
 | 410 | 613 | Tonya Lee |
 | 411 | 605 | Biggest thing |
 | 412 | 605 | g |
-| 413 | 602 | Shaun Church |
-| 414 | 602 | KhaosLord |
+| 413 | 602 | KhaosLord |
+| 414 | 602 | Shaun Church |
 | 415 | 601 | Moua Ying |
 | 416 | 600 | Arkei Luster |
 | 417 | 599 | Nashu |
@@ -672,8 +672,8 @@
 | 664 | 403 | Nate Skidmore |
 | 665 | 402 | B |
 | 666 | 401 | Beth Decker |
-| 667 | 400 | Tammy Allen |
-| 668 | 400 | Lathasa Newkirk |
+| 667 | 400 | Lathasa Newkirk |
+| 668 | 400 | Tammy Allen |
 | 669 | 399 | Court |
 | 670 | 398 | Frisky Riserbuilder |
 | 671 | 398 | Heather Sawtelle-Mckenzie |
@@ -1084,8 +1084,8 @@
 | 1076 | 259 | Mary Ahne |
 | 1077 | 258 | Jo Nicole |
 | 1078 | 258 | Mordoks Pyrography |
-| 1079 | 258 | DesertDreamer24 |
-| 1080 | 258 | Kara Tolbert |
+| 1079 | 258 | Kara Tolbert |
+| 1080 | 258 | DesertDreamer24 |
 | 1081 | 258 | Monarca26 |
 | 1082 | 258 | Scott |
 | 1083 | 258 | Tee Jaleesa |

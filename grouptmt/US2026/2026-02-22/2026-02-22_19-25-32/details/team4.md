@@ -202,8 +202,8 @@
 | 194 | 247 | Dennis Bradley |
 | 195 | 247 | jim |
 | 196 | 246 | Carlos Ramirez |
-| 197 | 245 | Autum Leigh |
-| 198 | 245 | 23 |
+| 197 | 245 | 23 |
+| 198 | 245 | Autum Leigh |
 | 199 | 245 | Andria Lynn |
 | 200 | 244 | Lindsey Gonzalez |
 | 201 | 244 | Twisty Cascadezone |
@@ -277,8 +277,8 @@
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
 | 271 | 182 | TinyLegoRose |
-| 272 | 181 | Jackie Marie |
-| 273 | 181 | Carter Jones |
+| 272 | 181 | Carter Jones |
+| 273 | 181 | Jackie Marie |
 | 274 | 180 | Cozy Balancer |
 | 275 | 179 | AyeKay |
 | 276 | 175 | Lorena Guerrero-Barron |

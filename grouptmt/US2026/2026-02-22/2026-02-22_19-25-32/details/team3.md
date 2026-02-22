@@ -141,8 +141,8 @@
 | 133 | 526 | Cynthia Castros-Hampton |
 | 134 | 525 | Justin Ritter |
 | 135 | 521 | Leah Barnett |
-| 136 | 521 | Michelle Becker |
-| 137 | 521 | Michael Nowogorski |
+| 136 | 521 | Michael Nowogorski |
+| 137 | 521 | Michelle Becker |
 | 138 | 518 | opf |
 | 139 | 516 | Elissa S-k |
 | 140 | 506 | Sashay Tapae Simpson |
@@ -157,8 +157,8 @@
 | 149 | 479 | Poppy Splitter |
 | 150 | 479 | Patti Skiles |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Mendoza Lee Christy |
-| 153 | 471 | Nora Rogers |
+| 152 | 471 | Nora Rogers |
+| 153 | 471 | Mendoza Lee Christy |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -273,8 +273,8 @@
 | 265 | 285 | Terry Jo Jones |
 | 266 | 283 | Cheeky Snapper |
 | 267 | 279 | Connie Mohler-Fair |
-| 268 | 278 | Sabrina Hardrick |
-| 269 | 278 | Rufus Lincoln |
+| 268 | 278 | Rufus Lincoln |
+| 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
 | 272 | 276 | Crimson |
