@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | june october |
-| 85 | 347 | pjbeta |
+| 84 | 347 | pjbeta |
+| 85 | 347 | june october |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
@@ -204,9 +204,9 @@
 | 196 | 165 | Silly Align |
 | 197 | 165 | Nadine Velardo |
 | 198 | 164 | Shanae Grant |
-| 199 | 163 | Angela Fairbank |
+| 199 | 163 | DaRascal |
 | 200 | 163 | Tyler Whitley |
-| 201 | 163 | DaRascal |
+| 201 | 163 | Angela Fairbank |
 | 202 | 161 | SavageBooty98 |
 | 203 | 160 | Tedashi |
 | 204 | 158 | Sarah Marie |

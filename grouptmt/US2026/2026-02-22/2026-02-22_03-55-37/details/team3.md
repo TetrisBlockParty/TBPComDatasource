@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Natasha Jones |
+| 77 | 582 | Speedy Bridger |
 | 78 | 582 | Jay Horn |
-| 79 | 582 | Speedy Bridger |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Simpson |
-| 122 | 410 | Stephanie Blkpep Davidson |
+| 121 | 410 | Stephanie Blkpep Davidson |
+| 122 | 410 | Stephanie Simpson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Scott Lindsay |
@@ -154,8 +154,8 @@
 | 146 | 366 | Adrian Marcel Pate |
 | 147 | 365 | Logan Naccarato |
 | 148 | 359 | Dapper Snap |
-| 149 | 355 | Tessina Dewey-Mancino |
-| 150 | 355 | Sherry Ogden |
+| 149 | 355 | Sherry Ogden |
+| 150 | 355 | Tessina Dewey-Mancino |
 | 151 | 353 | CeceGeGe |
 | 152 | 353 | Shunta Jacobs |
 | 153 | 352 | Chris Bell |
@@ -191,8 +191,8 @@
 | 183 | 284 | Duane Bright |
 | 184 | 284 | Edwin Calvillo Jr. |
 | 185 | 283 | Joye Sims Binion |
-| 186 | 278 | Rufus Lincoln |
-| 187 | 278 | Araceli Parra |
+| 186 | 278 | Araceli Parra |
+| 187 | 278 | Rufus Lincoln |
 | 188 | 277 | Keis |
 | 189 | 276 | _melisa223_ |
 | 190 | 276 | Crimson |
@@ -252,8 +252,8 @@
 | 244 | 210 | Scott Carleton |
 | 245 | 207 | Jessica |
 | 246 | 205 | Connie Mohler-Fair |
-| 247 | 204 | Aerian Preston |
-| 248 | 204 | Danielle Allison |
+| 247 | 204 | Danielle Allison |
+| 248 | 204 | Aerian Preston |
 | 249 | 203 | Angie Harper |
 | 250 | 202 | Staci George Fitzsimmons |
 | 251 | 201 | AlsoJess |
@@ -352,8 +352,8 @@
 | 344 | 142 | Jl |
 | 345 | 142 | Erica Anderson |
 | 346 | 142 | Gray Hicks |
-| 347 | 141 | Melissa Snyder |
-| 348 | 141 | Weerae |
+| 347 | 141 | Weerae |
+| 348 | 141 | Melissa Snyder |
 | 349 | 140 | Linda Draper |
 | 350 | 139 | Paula Little |
 | 351 | 138 | Boldy Corner |
@@ -834,7 +834,7 @@
 | 826 | 62 | Monica Richter |
 | 827 | 62 | Justplain Killacam Phillips |
 | 828 | 62 | ifitresonates |
-| 829 | 61 | Rachell Barnett |
+| 829 | 61 | Cheeky Dashy |
 | 830 | 61 | Tipsy Dash |
 | 831 | 61 | Rachell Barnett |
 | 832 | 61 | Void |
