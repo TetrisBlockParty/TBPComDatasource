@@ -147,8 +147,8 @@
 | 139 | 488 | CeceGeGe |
 | 140 | 480 | Stephanie Blkpep Davidson |
 | 141 | 479 | Poppy Splitter |
-| 142 | 479 | Patti Skiles |
-| 143 | 479 | Annie Marie |
+| 142 | 479 | Annie Marie |
+| 143 | 479 | Patti Skiles |
 | 144 | 476 | Mary Pellegrino |
 | 145 | 473 | mzcatzy |
 | 146 | 471 | Mendoza Lee Christy |
@@ -162,12 +162,12 @@
 | 154 | 445 | Shannon Matthew Byers |
 | 155 | 441 | Rachel |
 | 156 | 439 | FuzzyNavel |
-| 157 | 438 | Valerie Gendron |
-| 158 | 438 | Logan Naccarato |
-| 159 | 432 | Luciana Braganca Vieira |
-| 160 | 432 | Jenny Hrndz |
-| 161 | 430 | Joye Sims Binion |
-| 162 | 430 | Tasha Gillespie |
+| 157 | 438 | Logan Naccarato |
+| 158 | 438 | Valerie Gendron |
+| 159 | 432 | Jenny Hrndz |
+| 160 | 432 | Luciana Braganca Vieira |
+| 161 | 430 | Tasha Gillespie |
+| 162 | 430 | Joye Sims Binion |
 | 163 | 430 | Jeni Dow |
 | 164 | 427 | Wendy Dearden |
 | 165 | 421 | LaTanya GeminiondaRise Johnson |
@@ -225,8 +225,8 @@
 | 217 | 324 | Sissy Lowery Davis |
 | 218 | 324 | Kristal C Lee |
 | 219 | 323 | Demetrious Shaw Sr. |
-| 220 | 320 | Brittany |
-| 221 | 320 | Keis |
+| 220 | 320 | Keis |
+| 221 | 320 | Brittany |
 | 222 | 320 | Ashley Muncey |
 | 223 | 320 | Or Reznitsky |
 | 224 | 318 | Loopy Fallmatch |
@@ -259,8 +259,8 @@
 | 251 | 282 | Angie Harper |
 | 252 | 281 | Carrie Huskey |
 | 253 | 280 | Terry Jo Jones |
-| 254 | 278 | Sabrina Hardrick |
-| 255 | 278 | Rufus Lincoln |
+| 254 | 278 | Rufus Lincoln |
+| 255 | 278 | Sabrina Hardrick |
 | 256 | 277 | Tracy Martin |
 | 257 | 276 | Crimson |
 | 258 | 276 | _melisa223_ |
@@ -353,8 +353,8 @@
 | 345 | 209 | Daring Builder |
 | 346 | 209 | TotoCherue |
 | 347 | 208 | AlsoJess |
-| 348 | 207 | angieelyn |
-| 349 | 207 | Kristian Thurman |
+| 348 | 207 | Kristian Thurman |
+| 349 | 207 | angieelyn |
 | 350 | 206 | Tammy Rosenberry |
 | 351 | 205 | Rachel Napper |
 | 352 | 205 | Kirhonda Autmon |

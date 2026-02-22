@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -144,8 +144,8 @@
 | 136 | 319 | Guy Incognito |
 | 137 | 318 | Lauren Scott |
 | 138 | 314 | Andy Cabral |
-| 139 | 307 | Angela Srubar-Norman |
-| 140 | 307 | Bio Nelly |
+| 139 | 307 | Bio Nelly |
+| 140 | 307 | Angela Srubar-Norman |
 | 141 | 300 | Jason Hart |
 | 142 | 300 | Dana Scott |
 | 143 | 299 | TRCuse |

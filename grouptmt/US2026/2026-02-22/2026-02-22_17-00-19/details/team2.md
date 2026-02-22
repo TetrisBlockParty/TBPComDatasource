@@ -235,8 +235,8 @@
 | 227 | 919 | Joshua Mandel |
 | 228 | 919 | Isaac Trappiel IV |
 | 229 | 916 | Butta |
-| 230 | 915 | Angela Bonquiqui Dinish |
-| 231 | 915 | Robin Kerby |
+| 230 | 915 | Robin Kerby |
+| 231 | 915 | Angela Bonquiqui Dinish |
 | 232 | 915 | Kelly Trent |
 | 233 | 910 | Shuany Arias |
 | 234 | 907 | Gene Mills |
@@ -255,12 +255,12 @@
 | 247 | 875 | Jamie Otero |
 | 248 | 874 | Giggy Blocker |
 | 249 | 869 | Felicia Lynn |
-| 250 | 867 | Michele Gabriel |
-| 251 | 867 | Peppy Zone |
+| 250 | 867 | Peppy Zone |
+| 251 | 867 | Michele Gabriel |
 | 252 | 862 | Brittany Radaszewski |
 | 253 | 860 | William Hunt |
-| 254 | 860 | April Dawn Gussler |
-| 255 | 860 | John Bednarik |
+| 254 | 860 | John Bednarik |
+| 255 | 860 | April Dawn Gussler |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
 | 258 | 853 | Meghan M |
@@ -374,8 +374,8 @@
 | 366 | 639 | Rebecca Miller |
 | 367 | 634 | Gary Stash |
 | 368 | 633 | Breezy Filler |
-| 369 | 631 | Marie Walker |
-| 370 | 631 | Dylan Thomason |
+| 369 | 631 | Dylan Thomason |
+| 370 | 631 | Marie Walker |
 | 371 | 629 | Heather Schelkopf |
 | 372 | 628 | Brownie Sheena |
 | 373 | 627 | Allan Wayne Lamia |
@@ -438,8 +438,8 @@
 | 430 | 554 | Tra Barnum |
 | 431 | 551 | Julay |
 | 432 | 549 | Frisky Clearpiece |
-| 433 | 549 | Kaylee McCafferty |
-| 434 | 549 | Darcy Mae |
+| 433 | 549 | Darcy Mae |
+| 434 | 549 | Kaylee McCafferty |
 | 435 | 548 | AISlop |
 | 436 | 547 | Osun Anuket Esu |
 | 437 | 545 | Sparkles |
@@ -505,8 +505,8 @@
 | 497 | 487 | Michael Artis |
 | 498 | 487 | MrsCandyfine As Wine Truss |
 | 499 | 485 | Mamachelle Eisweirth |
-| 500 | 484 | Wendy Unsain |
-| 501 | 484 | Street Sweeper |
+| 500 | 484 | Street Sweeper |
+| 501 | 484 | Wendy Unsain |
 | 502 | 483 | Alezandra Smith |
 | 503 | 482 | Amélie Cadieux |
 | 504 | 482 | Drwatson187 |

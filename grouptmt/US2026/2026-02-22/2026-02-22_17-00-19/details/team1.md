@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Lexuriuos Lifestlye |
-| 85 | 444 | Hyper |
+| 84 | 444 | Hyper |
+| 85 | 444 | Lexuriuos Lifestlye |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -126,8 +126,8 @@
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | David Miller |
-| 122 | 341 | Nick R Montague |
+| 121 | 341 | Nick R Montague |
+| 122 | 341 | David Miller |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -145,8 +145,8 @@
 | 137 | 308 | Erin Hodges Plumb |
 | 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
-| 140 | 306 | Happy Basegrid |
-| 141 | 306 | Bloknboy |
+| 140 | 306 | Bloknboy |
+| 141 | 306 | Happy Basegrid |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
 | 144 | 301 | Lehrin Maria |
@@ -215,8 +215,8 @@
 | 207 | 222 | Debbie Davis |
 | 208 | 221 | Daring Fitclear |
 | 209 | 220 | Giddy Cascade |
-| 210 | 220 | Jessie Lynn |
-| 211 | 220 | Madison Wicks |
+| 210 | 220 | Madison Wicks |
+| 211 | 220 | Jessie Lynn |
 | 212 | 219 | Chuck Gannon |
 | 213 | 217 | Michael |
 | 214 | 216 | Shauntina Burke |
