@@ -509,16 +509,16 @@
 | 501 | 472 | Arwa Fatimah |
 | 502 | 472 | Kyle LeRoy Harris |
 | 503 | 471 | Rae Rae |
-| 504 | 470 | Arlene Joy Belicina |
-| 505 | 470 | Snippy Rumbler |
-| 506 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
+| 504 | 470 | Snippy Rumbler |
+| 505 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
+| 506 | 470 | Arlene Joy Belicina |
 | 507 | 469 | Johnny Yeates |
 | 508 | 469 | Spunkysmom |
 | 509 | 467 | Audrey Jones |
 | 510 | 466 | Koa N Sharon Chen |
 | 511 | 466 | Tina Marie |
-| 512 | 466 | Crystal Greene |
-| 513 | 466 | Kori Beth Babb |
+| 512 | 466 | Kori Beth Babb |
+| 513 | 466 | Crystal Greene |
 | 514 | 465 | Davetta Sanford |
 | 515 | 463 | Cody Nishimura |
 | 516 | 463 | Jaye EL Hunter |
@@ -838,8 +838,8 @@
 | 830 | 292 | Bryan Werleman |
 | 831 | 292 | Dapper Setter |
 | 832 | 292 | AsnPryBoy83 |
-| 833 | 291 | Bella Novia |
-| 834 | 291 | Jennie Lee Huntley |
+| 833 | 291 | Jennie Lee Huntley |
+| 834 | 291 | Bella Novia |
 | 835 | 291 | Nikki Nikki |
 | 836 | 289 | Dandy Combo |
 | 837 | 289 | Min |

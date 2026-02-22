@@ -152,7 +152,7 @@
 | 144 | 284 | Emily Adelaide Wheatley |
 | 145 | 284 | Rachael |
 | 146 | 283 | Franswa |
-| 147 | 282 | Timothy Dew |
+| 147 | 282 | Snippy Wipebuilder |
 | 148 | 282 | Tyler Werts |
 | 149 | 282 | Timothy Dew |
 | 150 | 282 | Cool Shiftsnap |
@@ -226,8 +226,8 @@
 | 218 | 204 | Lacy Wolfe |
 | 219 | 202 | Amanda Holibaugh |
 | 220 | 201 | Colleen Wise |
-| 221 | 200 | Flashy Rotator |
-| 222 | 200 | Breanna Luna |
+| 221 | 200 | Breanna Luna |
+| 222 | 200 | Flashy Rotator |
 | 223 | 199 | Alenoush Karimian |
 | 224 | 198 | Shiny Gridmatch |
 | 225 | 198 | Melissa Lemmon |

@@ -65,8 +65,8 @@
 | 57 | 909 | Jennifer |
 | 58 | 908 | Alanna Rogers |
 | 59 | 903 | Sarah Fehring |
-| 60 | 895 | Shonna Roberts |
-| 61 | 895 | Amanda L Baker |
+| 60 | 895 | Amanda L Baker |
+| 61 | 895 | Shonna Roberts |
 | 62 | 893 | Khristen AC |
 | 63 | 882 | Susan Valentino |
 | 64 | 881 | Nate Burnside |
@@ -573,8 +573,8 @@
 | 565 | 119 | Amy Jeffers |
 | 566 | 119 | Peachy Westbrook |
 | 567 | 119 | Michelle Ramirez |
-| 568 | 118 | Martin Bernier |
-| 569 | 118 | Scott Doss |
+| 568 | 118 | Scott Doss |
+| 569 | 118 | Martin Bernier |
 | 570 | 118 | Damian Reid |
 | 571 | 117 | Elyse Grabowsky |
 | 572 | 117 | Daisy Rocha |

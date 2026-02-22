@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -117,8 +117,8 @@
 | 109 | 393 | Carlton Unfiltered |
 | 110 | 392 | Ericca Eldridge |
 | 111 | 392 | Scott Jameson |
-| 112 | 391 | Monica Daley |
-| 113 | 391 | Ramel Rhodes |
+| 112 | 391 | Ramel Rhodes |
+| 113 | 391 | Monica Daley |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |
@@ -331,7 +331,7 @@
 | 323 | 139 | Lori Goudy |
 | 324 | 139 | O block |
 | 325 | 138 | Sarah Hoffman |
-| 326 | 138 | Moonsterix |
+| 326 | 138 | Jasmine S Caldwell |
 | 327 | 138 | Ashlee Carnes |
 | 328 | 138 | Moonsterix |
 | 329 | 137 | Brianna Walker |
