@@ -121,8 +121,8 @@
 | 113 | 428 | Elissa S-k |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Simpson |
-| 117 | 410 | Stephanie Blkpep Davidson |
+| 116 | 410 | Stephanie Blkpep Davidson |
+| 117 | 410 | Stephanie Simpson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 402 | Shannon Matthew Byers |
@@ -212,8 +212,8 @@
 | 204 | 243 | Araceli Parra |
 | 205 | 241 | Eon Harris |
 | 206 | 241 | Keis |
-| 207 | 240 | Brandon Givens |
-| 208 | 240 | Jimmie Clemons |
+| 207 | 240 | Jimmie Clemons |
+| 208 | 240 | Brandon Givens |
 | 209 | 236 | Jess Bissett |
 | 210 | 235 | LaNette Morgan |
 | 211 | 234 | Nikki Pags |
@@ -248,23 +248,23 @@
 | 240 | 203 | Angie Harper |
 | 241 | 200 | glichmod |
 | 242 | 200 | Sharisse Baltimore |
-| 243 | 199 | Staci George Fitzsimmons |
-| 244 | 199 | Rebel124 |
+| 243 | 199 | Rebel124 |
+| 244 | 199 | Staci George Fitzsimmons |
 | 245 | 195 | Nicha Hooker |
 | 246 | 194 | Raven Dudley |
 | 247 | 193 | Clever Shiftsnap |
 | 248 | 193 | Hyper Matchzone |
 | 249 | 192 | Kelly Ann Child |
 | 250 | 191 | Scott Carleton |
-| 251 | 190 | Saucy Buildout |
-| 252 | 190 | Cheryl Hinch Tenbrook |
+| 251 | 190 | Cheryl Hinch Tenbrook |
+| 252 | 190 | Saucy Buildout |
 | 253 | 189 | Katie Leigh Blankenship |
 | 254 | 188 | AlsoJess |
 | 255 | 188 | Loopy Fallmatch |
 | 256 | 184 | Troy |
 | 257 | 184 | France Vézina |
-| 258 | 182 | Carrie Huskey |
-| 259 | 182 | Melanie Sherwood |
+| 258 | 182 | Melanie Sherwood |
+| 259 | 182 | Carrie Huskey |
 | 260 | 181 | Nicholas Roddy |
 | 261 | 180 | Criss |
 | 262 | 180 | Ryan Williams |

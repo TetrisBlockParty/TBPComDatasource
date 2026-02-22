@@ -195,15 +195,15 @@
 | 187 | 167 | Erin Hodges Plumb |
 | 188 | 167 | Nery Martinez |
 | 189 | 166 | Rico Rico |
-| 190 | 165 | Nadine Velardo |
-| 191 | 165 | Silly Align |
+| 190 | 165 | Silly Align |
+| 191 | 165 | Nadine Velardo |
 | 192 | 164 | Shanae Grant |
 | 193 | 163 | Tyler Whitley |
 | 194 | 163 | Angela Fairbank |
 | 195 | 162 | Cece Ibarra |
 | 196 | 161 | SavageBooty98 |
-| 197 | 160 | Tedashi |
-| 198 | 160 | David Miller |
+| 197 | 160 | David Miller |
+| 198 | 160 | Tedashi |
 | 199 | 159 | Bindi |
 | 200 | 158 | Sarah Marie |
 | 201 | 154 | Melissa Lemmon |
@@ -224,11 +224,11 @@
 | 216 | 141 | Dino |
 | 217 | 141 | Blaire Bruckoff |
 | 218 | 139 | Flashy Rotator |
-| 219 | 138 | Hector Cruz |
-| 220 | 138 | Mark Smith |
+| 219 | 138 | Mark Smith |
+| 220 | 138 | Hector Cruz |
 | 221 | 138 | Giddy Cascade |
-| 222 | 137 | Marci Sanders |
-| 223 | 137 | Cody Gates |
+| 222 | 137 | Cody Gates |
+| 223 | 137 | Marci Sanders |
 | 224 | 136 | Breanna Luna |
 | 225 | 136 | Tavia |
 | 226 | 136 | Tipsy Riseclear |

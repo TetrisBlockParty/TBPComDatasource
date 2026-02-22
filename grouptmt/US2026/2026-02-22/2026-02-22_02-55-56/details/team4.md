@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Rachel Anne |
-| 39 | 646 | Jacqueline Helm |
+| 38 | 646 | Jacqueline Helm |
+| 39 | 646 | Rachel Anne |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -128,8 +128,8 @@
 | 120 | 235 | Lucas J Sutton |
 | 121 | 232 | Crystal Nicolette Moore |
 | 122 | 231 | Chastity Mitchell |
-| 123 | 230 | Daria Rycewicz |
-| 124 | 230 | Autum Leigh |
+| 123 | 230 | Autum Leigh |
+| 124 | 230 | Daria Rycewicz |
 | 125 | 225 | Damn Libra |
 | 126 | 223 | Scott Jameson |
 | 127 | 222 | Joeliecea Cobb |
@@ -206,14 +206,14 @@
 | 198 | 145 | Mimi |
 | 199 | 145 | Zany Shatterer |
 | 200 | 144 | Tanner Lund |
-| 201 | 143 | Lauren Lamb |
-| 202 | 143 | Sam Bishop |
+| 201 | 143 | Sam Bishop |
+| 202 | 143 | Lauren Lamb |
 | 203 | 142 | Stephme310 |
 | 204 | 142 | Zippy Gridlock |
-| 205 | 141 | Kathy Allen |
-| 206 | 141 | ĥuf |
-| 207 | 141 | Victoria Faniel |
-| 208 | 141 | Montiette Mcglown |
+| 205 | 141 | Victoria Faniel |
+| 206 | 141 | Kathy Allen |
+| 207 | 141 | Montiette Mcglown |
+| 208 | 141 | ĥuf |
 | 209 | 139 | Nerdy Twisterfit |
 | 210 | 139 | Chaz |
 | 211 | 138 | Austin Owens |
@@ -258,12 +258,12 @@
 | 250 | 123 | Joseph Edmonson |
 | 251 | 123 | Sandra Safford |
 | 252 | 121 | Joseph Pace |
-| 253 | 120 | KayM |
-| 254 | 120 | Rafael Valentin |
-| 255 | 120 | Bryan Hodgins |
+| 253 | 120 | Bryan Hodgins |
+| 254 | 120 | KayM |
+| 255 | 120 | Rafael Valentin |
 | 256 | 120 | Joshua Guess |
-| 257 | 119 | Circuit8 |
-| 258 | 119 | rebel4lyfe |
+| 257 | 119 | rebel4lyfe |
+| 258 | 119 | Circuit8 |
 | 259 | 119 | Gwendolyn Pitcairn |
 | 260 | 118 | Porkobello |
 | 261 | 117 | LS |
