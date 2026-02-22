@@ -306,8 +306,8 @@
 | 298 | 651 | Unica Rector |
 | 299 | 650 | Shiny Rollzone |
 | 300 | 643 | Hoppy Brickmatch |
-| 301 | 641 | Angie Bolton Workman |
-| 302 | 641 | Joce Lynn |
+| 301 | 641 | Joce Lynn |
+| 302 | 641 | Angie Bolton Workman |
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |

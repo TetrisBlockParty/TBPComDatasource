@@ -116,8 +116,8 @@
 | 108 | 506 | Sashay Tapae Simpson |
 | 109 | 502 | Justin Ritter |
 | 110 | 502 | Elissa S-k |
-| 111 | 500 | Domo Washington |
-| 112 | 500 | Kristie |
+| 111 | 500 | Kristie |
+| 112 | 500 | Domo Washington |
 | 113 | 497 | Mykal Burton |
 | 114 | 492 | Daira Largen |
 | 115 | 491 | Chauntee Alfrey-Cardinale |
@@ -144,8 +144,8 @@
 | 136 | 409 | Karon Griffin |
 | 137 | 407 | Joye Sims Binion |
 | 138 | 405 | Michelle |
-| 139 | 403 | Scott Lindsay |
-| 140 | 403 | Christine Filson |
+| 139 | 403 | Christine Filson |
+| 140 | 403 | Scott Lindsay |
 | 141 | 402 | Shannon Matthew Byers |
 | 142 | 401 | Katie Knaus |
 | 143 | 400 | Luciana Braganca Vieira |
@@ -166,9 +166,9 @@
 | 158 | 376 | Loopy Clusterer |
 | 159 | 374 | Sherry Ogden |
 | 160 | 371 | Michael Nowogorski |
-| 161 | 370 | Danielle Allison |
-| 162 | 370 | Logan Naccarato |
-| 163 | 370 | Santeria Trece Candles |
+| 161 | 370 | Santeria Trece Candles |
+| 162 | 370 | Danielle Allison |
+| 163 | 370 | Logan Naccarato |
 | 164 | 368 | Stephanie Woods |
 | 165 | 366 | Adrian Marcel Pate |
 | 166 | 365 | Queen Kam |
@@ -193,8 +193,8 @@
 | 185 | 319 | Rebecca Funderburk Kirby |
 | 186 | 317 | Ashley Tookes |
 | 187 | 315 | Kammy Hill |
-| 188 | 311 | Raya |
-| 189 | 311 | Araceli Parra |
+| 188 | 311 | Araceli Parra |
+| 189 | 311 | Raya |
 | 190 | 310 | Danielle Balcom |
 | 191 | 308 | Rania Zaqout |
 | 192 | 308 | Daryn Elliott |
@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | KayB |
-| 237 | 256 | Tiffany Davie |
+| 236 | 256 | Tiffany Davie |
+| 237 | 256 | KayB |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | JerseyJess |

@@ -127,8 +127,8 @@
 | 119 | 286 | Daria Rycewicz |
 | 120 | 286 | shark tato |
 | 121 | 281 | Meagan Nicole |
-| 122 | 278 | Carrie Brian |
-| 123 | 278 | Desi Desporte |
+| 122 | 278 | Desi Desporte |
+| 123 | 278 | Carrie Brian |
 | 124 | 277 | Scott Jameson |
 | 125 | 277 | Mary Ann Pabukis |
 | 126 | 276 | ThaEviLJeNiuZ |
@@ -165,8 +165,8 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Jessica Bohlken |
-| 161 | 215 | Ren Mc |
+| 160 | 215 | Ren Mc |
+| 161 | 215 | Jessica Bohlken |
 | 162 | 214 | Twisty Cascadezone |
 | 163 | 213 | Sarah Neathery |
 | 164 | 213 | Jason Allen |
