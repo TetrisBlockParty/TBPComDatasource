@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Carmethia Clemons Haslerig |
-| 79 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Carmethia Clemons Haslerig |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -133,8 +133,8 @@
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | shark tato |
-| 129 | 286 | Daria Rycewicz |
+| 128 | 286 | Daria Rycewicz |
+| 129 | 286 | shark tato |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
@@ -186,8 +186,8 @@
 | 178 | 210 | Zethra Prenisha Rahming |
 | 179 | 207 | Chirpy Basepiece |
 | 180 | 205 | Kathy Brookins |
-| 181 | 204 | Carlos Ramirez |
-| 182 | 204 | Jen Caldwell |
+| 181 | 204 | Jen Caldwell |
+| 182 | 204 | Carlos Ramirez |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
 | 185 | 201 | Chance Strickland |
@@ -222,8 +222,8 @@
 | 214 | 179 | TinyLegoRose |
 | 215 | 177 | Laura Hosford |
 | 216 | 175 | Lorena Guerrero-Barron |
-| 217 | 174 | JPW |
-| 218 | 174 | Rio Rocha |
+| 217 | 174 | Rio Rocha |
+| 218 | 174 | JPW |
 | 219 | 172 | Gilles Lanctot |
 | 220 | 171 | Autumn Kumzi |
 | 221 | 168 | Lindsey Gonzalez |
@@ -303,10 +303,10 @@
 | 295 | 136 | Michelle Morris |
 | 296 | 135 | KimoKoala |
 | 297 | 135 | Joshua Guess |
-| 298 | 134 | Marvetta Williams |
+| 298 | 134 | Duck |
 | 299 | 134 | Kim Klutz Olson |
-| 300 | 134 | Duck |
-| 301 | 132 | Jason Bosco |
+| 300 | 134 | Marvetta Williams |
+| 301 | 132 | Melissa Priest Sellers |
 | 302 | 132 | Degenerate |
 | 303 | 132 | Jessica Cagle |
 | 304 | 132 | Vamp |
@@ -405,8 +405,8 @@
 | 397 | 104 | Blessedmama |
 | 398 | 104 | Jessica Johnston |
 | 399 | 103 | Sammy Noguera |
-| 400 | 102 | Christina O'Dell-Ishau |
-| 401 | 102 | Brave Spinbuilder |
+| 400 | 102 | Brave Spinbuilder |
+| 401 | 102 | Christina O'Dell-Ishau |
 | 402 | 102 | Bigeddie |
 | 403 | 101 | Jose Dejesus |
 | 404 | 101 | wombat |

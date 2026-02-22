@@ -175,8 +175,8 @@
 | 167 | 1048 | PsychKIRAtrist |
 | 168 | 1047 | Amy Sayers |
 | 169 | 1045 | Lourisha |
-| 170 | 1043 | Brave Dropmatch |
-| 171 | 1043 | Suki Kaur |
+| 170 | 1043 | Suki Kaur |
+| 171 | 1043 | Brave Dropmatch |
 | 172 | 1035 | Sarah Freitas |
 | 173 | 1024 | Bri Lynn |
 | 174 | 1023 | Brainy Smurf |
@@ -224,8 +224,8 @@
 | 216 | 867 | Peppy Zone |
 | 217 | 865 | Dedra Steward |
 | 218 | 863 | nikki |
-| 219 | 862 | Robin Kerby |
-| 220 | 862 | Brittany Radaszewski |
+| 219 | 862 | Brittany Radaszewski |
+| 220 | 862 | Robin Kerby |
 | 221 | 860 | April Dawn Gussler |
 | 222 | 857 | Della Hole |
 | 223 | 855 | F-X |
@@ -329,23 +329,23 @@
 | 321 | 650 | Shiny Rollzone |
 | 322 | 645 | tejas25 |
 | 323 | 643 | Hoppy Brickmatch |
-| 324 | 641 | Joce Lynn |
-| 325 | 641 | Angie Bolton Workman |
+| 324 | 641 | Angie Bolton Workman |
+| 325 | 641 | Joce Lynn |
 | 326 | 640 | BYM4L |
 | 327 | 639 | Crystie Hicks |
 | 328 | 639 | Rebecca Miller |
 | 329 | 635 | Diana Fitzwater |
 | 330 | 631 | Marie Walker |
-| 331 | 627 | Allan Wayne Lamia |
-| 332 | 627 | Victoria Moore-Smith |
+| 331 | 627 | Victoria Moore-Smith |
+| 332 | 627 | Allan Wayne Lamia |
 | 333 | 620 | Brandon Armstrong |
 | 334 | 617 | Leslie Ann Carter |
 | 335 | 613 | Caitlyn Blackwell |
 | 336 | 613 | Breezy Filler |
 | 337 | 613 | Ellie Jonas |
 | 338 | 611 | Em Chen |
-| 339 | 611 | Carl Bradshaw |
-| 340 | 611 | Julio A Laracuente |
+| 339 | 611 | Julio A Laracuente |
+| 340 | 611 | Carl Bradshaw |
 | 341 | 605 | Jelly |
 | 342 | 603 | Cassie Maynard |
 | 343 | 602 | KhaosLord |
@@ -408,8 +408,8 @@
 | 400 | 522 | Lylymom |
 | 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Maddy Petersen |
-| 404 | 520 | Angela Lynn |
+| 403 | 520 | Angela Lynn |
+| 404 | 520 | Maddy Petersen |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -466,8 +466,8 @@
 | 458 | 477 | Julay |
 | 459 | 476 | Kitybox |
 | 460 | 475 | Michelle Lee |
-| 461 | 474 | Steve Man |
-| 462 | 474 | Calandra Shaya Robinson |
+| 461 | 474 | Calandra Shaya Robinson |
+| 462 | 474 | Steve Man |
 | 463 | 473 | Lyndi Robinson Wakefield |
 | 464 | 472 | Arwa Fatimah |
 | 465 | 472 | Kyle LeRoy Harris |
@@ -493,8 +493,8 @@
 | 485 | 456 | Melissa Rebbe-Lehman |
 | 486 | 455 | Morgan Easter |
 | 487 | 454 | Casey Schumacher |
-| 488 | 453 | Joshua Sommerville |
-| 489 | 453 | Rhonda Petro |
+| 488 | 453 | Rhonda Petro |
+| 489 | 453 | Joshua Sommerville |
 | 490 | 451 | Funky Caster |
 | 491 | 450 | Cheery Matchzone |
 | 492 | 447 | Jessica S Flecha |
@@ -594,8 +594,8 @@
 | 586 | 389 | Kayla |
 | 587 | 389 | Julie Hamilton |
 | 588 | 388 | Christina Ashley |
-| 589 | 387 | Misti Markijohn |
-| 590 | 387 | Bold Brickster |
+| 589 | 387 | Bold Brickster |
+| 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
 | 593 | 384 | Kelly |
@@ -2144,7 +2144,7 @@
 | 2136 | 108 | Vonnie |
 | 2137 | 108 | Megan Marie Thomas |
 | 2138 | 108 | Brittany Pippin |
-| 2139 | 108 | Angie Strawser |
+| 2139 | 108 | Cammy Cullen |
 | 2140 | 108 | Quirky Blockmatch |
 | 2141 | 108 | Angie Strawser |
 | 2142 | 108 | Araba Tee |
