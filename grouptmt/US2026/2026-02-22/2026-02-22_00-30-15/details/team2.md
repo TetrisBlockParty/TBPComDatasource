@@ -391,8 +391,8 @@
 | 383 | 396 | Stefanie Zonzini-Gagliardi |
 | 384 | 395 | Angie Bolton Workman |
 | 385 | 394 | Taryece Gause |
-| 386 | 392 | Mighty Shatterfit |
-| 387 | 392 | Victoria Moore-Smith |
+| 386 | 392 | Victoria Moore-Smith |
+| 387 | 392 | Mighty Shatterfit |
 | 388 | 392 | Michele Morgan |
 | 389 | 392 | Gauri Shrotriya |
 | 390 | 391 | Chilly Bridgepiece |
@@ -543,16 +543,16 @@
 | 535 | 297 | Maxwell Escalera |
 | 536 | 297 | Peachy Blockbuilder |
 | 537 | 296 | Jennifer Darby |
-| 538 | 296 | Sassy Linkbuilder |
-| 539 | 296 | Amber Gray |
+| 538 | 296 | Amber Gray |
+| 539 | 296 | Sassy Linkbuilder |
 | 540 | 295 | Noel Tarmy |
 | 541 | 294 | Venita Ray |
 | 542 | 294 | Amanda Edwards |
 | 543 | 294 | Frilly Fallzone |
 | 544 | 294 | Frisky Riserbuilder |
 | 545 | 293 | Ann Marie Davis |
-| 546 | 293 | Carl Bradshaw |
-| 547 | 293 | Giggy Grabber |
+| 546 | 293 | Giggy Grabber |
+| 547 | 293 | Carl Bradshaw |
 | 548 | 292 | BeQuo |
 | 549 | 292 | Deana |
 | 550 | 288 | Snippy Block |
@@ -722,9 +722,9 @@
 | 714 | 223 | Laura Wyatt |
 | 715 | 222 | Jennifer Scott |
 | 716 | 222 | Erika Deer Kauffman |
-| 717 | 221 | Cool Grabber |
-| 718 | 221 | Layna Lyons |
-| 719 | 221 | Alison Emmons |
+| 717 | 221 | Alison Emmons |
+| 718 | 221 | Cool Grabber |
+| 719 | 221 | Layna Lyons |
 | 720 | 220 | Jennifer Coe |
 | 721 | 220 | Wacky Cascade |
 | 722 | 219 | Cathy Bitters |

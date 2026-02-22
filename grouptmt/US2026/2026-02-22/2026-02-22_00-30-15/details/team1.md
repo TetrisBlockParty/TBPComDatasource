@@ -41,8 +41,8 @@
 | 33 | 650 | TSwag |
 | 34 | 632 | Susanna Guerry |
 | 35 | 587 | Marianne Louise West |
-| 36 | 585 | Jennifer Cates |
-| 37 | 585 | Angel Fowler |
+| 36 | 585 | Angel Fowler |
+| 37 | 585 | Jennifer Cates |
 | 38 | 570 | Cody Slav |
 | 39 | 550 | Kristen Roles Robben |
 | 40 | 543 | Aaron Garnett |

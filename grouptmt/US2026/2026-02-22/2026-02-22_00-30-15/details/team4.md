@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | quicksand420 |
-| 71 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | Marie-Pier Desjardins |
+| 71 | 376 | quicksand420 |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |
@@ -126,8 +126,8 @@
 | 118 | 212 | Calvin Cannon |
 | 119 | 211 | Dizzy Tiley |
 | 120 | 210 | Damn Libra |
-| 121 | 208 | Twisty Cascadezone |
-| 122 | 208 | Chastity Mitchell |
+| 121 | 208 | Chastity Mitchell |
+| 122 | 208 | Twisty Cascadezone |
 | 123 | 206 | Mylo Lipscomb |
 | 124 | 205 | Sarah Neathery |
 | 125 | 204 | Dana Scott |
@@ -155,8 +155,8 @@
 | 147 | 179 | Scott Jameson |
 | 148 | 178 | Lori |
 | 149 | 176 | Zethra Prenisha Rahming |
-| 150 | 175 | blockstar |
-| 151 | 175 | Ren Mc |
+| 150 | 175 | Ren Mc |
+| 151 | 175 | blockstar |
 | 152 | 174 | Dihcheese444 |
 | 153 | 172 | Jessica Bohlken |
 | 154 | 171 | Diana Houts |

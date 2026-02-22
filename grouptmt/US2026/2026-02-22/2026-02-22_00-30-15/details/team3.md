@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Cherry Parker |
-| 61 | 621 | Ebony West-Cundiff |
+| 60 | 621 | Ebony West-Cundiff |
+| 61 | 621 | Cherry Parker |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
 | 64 | 618 | MissTaylor |
@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -126,8 +126,8 @@
 | 118 | 389 | Jessica Bechler |
 | 119 | 386 | Katie Knaus |
 | 120 | 383 | Jesse Olive |
-| 121 | 378 | Makelini Mausia |
-| 122 | 378 | Tasha Schriewer |
+| 121 | 378 | Tasha Schriewer |
+| 122 | 378 | Makelini Mausia |
 | 123 | 374 | Loopy Clusterer |
 | 124 | 368 | Stephanie Woods |
 | 125 | 368 | Stephanie Blkpep Davidson |
@@ -170,8 +170,8 @@
 | 162 | 261 | Tiffany Ford |
 | 163 | 261 | Louise Stacy Sisson |
 | 164 | 258 | Tamara Deherrera |
-| 165 | 256 | KayB |
-| 166 | 256 | ren |
+| 165 | 256 | ren |
+| 166 | 256 | KayB |
 | 167 | 255 | Tom Nault |
 | 168 | 254 | Duane Bright |
 | 169 | 250 | Cynthia Herrmann Egland |
@@ -199,9 +199,9 @@
 | 191 | 215 | IamJust Neyamijah Washington Sr. |
 | 192 | 214 | Jenny Hrndz |
 | 193 | 214 | Amy Fuller Heaton |
-| 194 | 211 | Giddy Twistbuilder |
+| 194 | 211 | Katrina Turner |
 | 195 | 211 | Khaleada McGill Banks |
-| 196 | 211 | Katrina Turner |
+| 196 | 211 | Giddy Twistbuilder |
 | 197 | 210 | Michael Lucado |
 | 198 | 209 | Twisty Brick LT |
 | 199 | 207 | Chris Bell |
