@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
@@ -144,8 +144,8 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Livvy |
-| 140 | 353 | Tyler Terrific |
+| 139 | 353 | Tyler Terrific |
+| 140 | 353 | Livvy |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | Latisha Davis |
@@ -262,8 +262,8 @@
 | 254 | 209 | Chaz |
 | 255 | 208 | Rebecca Morris |
 | 256 | 207 | Snippy Puzzle |
-| 257 | 205 | Keith Kelley |
-| 258 | 205 | James Hurley Jr. |
+| 257 | 205 | James Hurley Jr. |
+| 258 | 205 | Keith Kelley |
 | 259 | 205 | Christina Black |
 | 260 | 203 | Katherine Crane |
 | 261 | 202 | Patron Anderson |
@@ -275,12 +275,12 @@
 | 267 | 198 | Calvin Dennis |
 | 268 | 198 | Silly SeaWeed |
 | 269 | 197 | Gilles Lanctot |
-| 270 | 195 | Shainne Brewer |
-| 271 | 195 | 中山成巳 |
+| 270 | 195 | 中山成巳 |
+| 271 | 195 | Shainne Brewer |
 | 272 | 194 | Zany Twisterfit |
 | 273 | 193 | Stephme310 |
-| 274 | 192 | Andrew Dang |
-| 275 | 192 | Stella |
+| 274 | 192 | Stella |
+| 275 | 192 | Andrew Dang |
 | 276 | 191 | Earnest Thompson |
 | 277 | 189 | 030Synner |
 | 278 | 187 | Cynthia Boudreau |

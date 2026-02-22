@@ -212,8 +212,8 @@
 | 204 | 256 | Chris65 |
 | 205 | 254 | Giggly Builderline |
 | 206 | 254 | Al Smith Jr |
-| 207 | 253 | Debbie Kane |
-| 208 | 253 | Jamie Jury |
+| 207 | 253 | Jamie Jury |
+| 208 | 253 | Debbie Kane |
 | 209 | 252 | Dena Kayy |
 | 210 | 249 | Lakeisha Chapman |
 | 211 | 247 | Frothy Pattern |
@@ -270,13 +270,13 @@
 | 262 | 209 | Cece Ibarra |
 | 263 | 208 | Donna Addison Williams |
 | 264 | 208 | Michelle Beres |
-| 265 | 207 | Brenda Alexander |
-| 266 | 207 | Leslie Bush Yarbrough |
-| 267 | 207 | Katie Martin |
+| 265 | 207 | Leslie Bush Yarbrough |
+| 266 | 207 | Katie Martin |
+| 267 | 207 | Brenda Alexander |
 | 268 | 206 | BadG52 |
 | 269 | 205 | Tyler L Hunt |
-| 270 | 204 | Mel Hogan |
-| 271 | 204 | Chris Sigurdson |
+| 270 | 204 | Chris Sigurdson |
+| 271 | 204 | Mel Hogan |
 | 272 | 203 | Andrew Boone |
 | 273 | 202 | Evan Richmond |
 | 274 | 202 | Amanda Holibaugh |
@@ -361,8 +361,8 @@
 | 353 | 165 | Davery Spencer Adair |
 | 354 | 165 | Nadine Velardo |
 | 355 | 164 | Tami Luce Martin |
-| 356 | 163 | Blaire Bruckoff |
-| 357 | 163 | SavageBooty98 |
+| 356 | 163 | SavageBooty98 |
+| 357 | 163 | Blaire Bruckoff |
 | 358 | 163 | Tyler Whitley |
 | 359 | 162 | Charla Pross-Fugleberg |
 | 360 | 162 | Strig |

@@ -382,8 +382,8 @@
 | 374 | 700 | Vincent Petrella |
 | 375 | 699 | Dannette Goldberg-Richards |
 | 376 | 699 | Melissa Penelope Ann Dodge |
-| 377 | 698 | Joce Lynn |
-| 378 | 698 | Spunkysmom |
+| 377 | 698 | Spunkysmom |
+| 378 | 698 | Joce Lynn |
 | 379 | 697 | Ashle Scranton |
 | 380 | 695 | Lakeysha Dortch |
 | 381 | 693 | Breezy Filler |

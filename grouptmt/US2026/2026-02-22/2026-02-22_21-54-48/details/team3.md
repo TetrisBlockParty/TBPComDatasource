@@ -236,11 +236,11 @@
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
-| 231 | 347 | Philip Rock |
-| 232 | 347 | Trisha Balmer |
+| 231 | 347 | Trisha Balmer |
+| 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Roary Danner |
-| 235 | 344 | Rania Zaqout |
+| 234 | 344 | Rania Zaqout |
+| 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Noyb Adam |
@@ -354,9 +354,9 @@
 | 346 | 235 | Cheryl Hinch Tenbrook |
 | 347 | 233 | Tony Waters |
 | 348 | 232 | Nicholas Roddy |
-| 349 | 231 | Kiki |
+| 349 | 231 | Frothy Snapper |
 | 350 | 231 | Kevin Russell |
-| 351 | 231 | Frothy Snapper |
+| 351 | 231 | Kiki |
 | 352 | 230 | Michael Lucado |
 | 353 | 230 | BigE |
 | 354 | 228 | Beppy |
