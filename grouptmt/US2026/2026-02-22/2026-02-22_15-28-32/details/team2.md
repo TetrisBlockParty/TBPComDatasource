@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Stephen Stephen |
-| 107 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Mindy Leigh Head |
+| 107 | 1516 | Stephen Stephen |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -139,8 +139,8 @@
 | 131 | 1330 | Erica Williams |
 | 132 | 1316 | Rosa Franklin |
 | 133 | 1312 | Katrina Williams Balmir |
-| 134 | 1306 | Becca Widmer |
-| 135 | 1306 | Howard Forest |
+| 134 | 1306 | Howard Forest |
+| 135 | 1306 | Becca Widmer |
 | 136 | 1300 | Tacara Cummings |
 | 137 | 1292 | Alisa Lamb |
 | 138 | 1290 | Bussyiano Page |
@@ -483,8 +483,8 @@
 | 475 | 492 | Maya June |
 | 476 | 492 | Armonie Smith |
 | 477 | 491 | Michael Buckner |
-| 478 | 491 | Jedi |
-| 479 | 491 | Victor Obiakarije |
+| 478 | 491 | Victor Obiakarije |
+| 479 | 491 | Jedi |
 | 480 | 491 | Adam Simmons |
 | 481 | 488 | Christina Wsn |
 | 482 | 487 | Belle Mari |
@@ -720,8 +720,8 @@
 | 712 | 342 | Danielle DeLozier Plesec |
 | 713 | 341 | Loony Basepiece |
 | 714 | 339 | Jenn Marie |
-| 715 | 339 | Cynthia Louann Rose |
-| 716 | 339 | Twisty Tetriblast |
+| 715 | 339 | Twisty Tetriblast |
+| 716 | 339 | Cynthia Louann Rose |
 | 717 | 337 | Sassy Pattern |
 | 718 | 337 | Tum |
 | 719 | 336 | bru |

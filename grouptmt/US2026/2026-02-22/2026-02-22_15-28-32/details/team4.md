@@ -165,13 +165,13 @@
 | 157 | 267 | Damn Libra |
 | 158 | 265 | Jeff Brian Gates |
 | 159 | 265 | Angela Srubar-Norman |
-| 160 | 264 | Epic Curvetile |
-| 161 | 264 | Girl |
+| 160 | 264 | Girl |
+| 161 | 264 | Epic Curvetile |
 | 162 | 263 | Chris Bernstein |
-| 163 | 262 | Holly Jolly |
-| 164 | 262 | Joeliecea Cobb |
-| 165 | 256 | Porkobello |
-| 166 | 256 | Mylo Lipscomb |
+| 163 | 262 | Joeliecea Cobb |
+| 164 | 262 | Holly Jolly |
+| 165 | 256 | Mylo Lipscomb |
+| 166 | 256 | Porkobello |
 | 167 | 253 | Casey Grabner |
 | 168 | 251 | Matt Summer |
 | 169 | 250 | Matt Dell'Olio |

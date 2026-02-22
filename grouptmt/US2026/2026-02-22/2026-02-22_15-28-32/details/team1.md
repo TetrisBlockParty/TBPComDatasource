@@ -325,8 +325,8 @@
 | 317 | 150 | Barrbaric |
 | 318 | 149 | Melissa Bires Hussar |
 | 319 | 149 | Cody Gates |
-| 320 | 148 | Teddy Alexander |
-| 321 | 148 | Howdi Duty |
+| 320 | 148 | Howdi Duty |
+| 321 | 148 | Teddy Alexander |
 | 322 | 146 | Fresno Beotoni |
 | 323 | 146 | Jordan Brooks |
 | 324 | 145 | Rachel Nichole Henry |
