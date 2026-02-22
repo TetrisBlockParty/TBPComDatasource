@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Livvy |
-| 123 | 353 | Tyler Terrific |
+| 122 | 353 | Tyler Terrific |
+| 123 | 353 | Livvy |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
@@ -192,8 +192,8 @@
 | 184 | 250 | Matt Dell'Olio |
 | 185 | 247 | Sam Bishop |
 | 186 | 247 | Austin Owens |
-| 187 | 245 | Andria Lynn |
-| 188 | 245 | Peachy Fall |
+| 187 | 245 | Peachy Fall |
+| 188 | 245 | Andria Lynn |
 | 189 | 245 | Autum Leigh |
 | 190 | 244 | Twisty Cascadezone |
 | 191 | 243 | Mr. Party |
@@ -223,8 +223,8 @@
 | 215 | 212 | Joanna |
 | 216 | 212 | Mike Solo |
 | 217 | 211 | Jenna McGeorge |
-| 218 | 208 | scott |
-| 219 | 208 | Stacey Stano |
+| 218 | 208 | Stacey Stano |
+| 219 | 208 | scott |
 | 220 | 208 | Oscar Alberto Perez |
 | 221 | 208 | Dizzy Matchzone |
 | 222 | 207 | Chirpy Basepiece |

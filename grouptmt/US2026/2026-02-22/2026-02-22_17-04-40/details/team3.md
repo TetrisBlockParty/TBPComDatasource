@@ -134,8 +134,8 @@
 | 126 | 526 | Cynthia Castros-Hampton |
 | 127 | 525 | Justin Ritter |
 | 128 | 521 | Michael Nowogorski |
-| 129 | 521 | Daryn Elliott |
-| 130 | 521 | Michelle Becker |
+| 129 | 521 | Michelle Becker |
+| 130 | 521 | Daryn Elliott |
 | 131 | 518 | opf |
 | 132 | 506 | Sashay Tapae Simpson |
 | 133 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -418,16 +418,16 @@
 | 410 | 170 | Funky Jumper |
 | 411 | 169 | Peachy Rollfit |
 | 412 | 169 | Stella |
-| 413 | 168 | Geoffrey Nash |
-| 414 | 168 | Anna Moeller |
+| 413 | 168 | Anna Moeller |
+| 414 | 168 | Geoffrey Nash |
 | 415 | 168 | Snarky McFace |
 | 416 | 168 | Trice Thomas |
 | 417 | 167 | Shicken Nuggit |
 | 418 | 167 | Arden White Kirsch |
 | 419 | 167 | Boldy Blocker |
 | 420 | 167 | Irene Arreguin |
-| 421 | 166 | Joshua David Huie |
-| 422 | 166 | Rashad Green |
+| 421 | 166 | Rashad Green |
+| 422 | 166 | Joshua David Huie |
 | 423 | 165 | Kali Kelz Williams |
 | 424 | 165 | Silver Marchán |
 | 425 | 164 | Ashley Rufus Bythcez |

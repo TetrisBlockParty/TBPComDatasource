@@ -210,8 +210,8 @@
 | 202 | 998 | Tralonda Weeks |
 | 203 | 993 | Eric Carlson |
 | 204 | 991 | Moose Griffith |
-| 205 | 989 | Teddi Notyalc |
-| 206 | 989 | Desiree Harris Rosch |
+| 205 | 989 | Desiree Harris Rosch |
+| 206 | 989 | Teddi Notyalc |
 | 207 | 988 | Cherica Taylor |
 | 208 | 986 | RAEPR05 |
 | 209 | 979 | Hillary Crawford |
@@ -358,13 +358,13 @@
 | 350 | 665 | Taryece Gause |
 | 351 | 664 | Sleepypanda67 |
 | 352 | 662 | Melissa Rebbe-Lehman |
-| 353 | 661 | Christine Bollig |
-| 354 | 661 | BeQuo |
-| 355 | 661 | goofinoff |
+| 353 | 661 | goofinoff |
+| 354 | 661 | Christine Bollig |
+| 355 | 661 | BeQuo |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
-| 358 | 650 | Amber Brion |
-| 359 | 650 | Shiny Rollzone |
+| 358 | 650 | Shiny Rollzone |
+| 359 | 650 | Amber Brion |
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 642 | Cassie Maynard |
@@ -445,14 +445,14 @@
 | 437 | 545 | Sparkles |
 | 438 | 545 | Lyndi Robinson Wakefield |
 | 439 | 544 | Deidre Shaffer |
-| 440 | 543 | Vanessa Moreno |
-| 441 | 543 | Julie Kresal |
-| 442 | 540 | Melissa Kay Gibson |
-| 443 | 540 | Dizzy Zone |
+| 440 | 543 | Julie Kresal |
+| 441 | 543 | Vanessa Moreno |
+| 442 | 540 | Dizzy Zone |
+| 443 | 540 | Melissa Kay Gibson |
 | 444 | 536 | Caitlin Schmid |
 | 445 | 533 | Gauri Shrotriya |
-| 446 | 531 | Aishah Brice |
-| 447 | 531 | Briana Alexander |
+| 446 | 531 | Briana Alexander |
+| 447 | 531 | Aishah Brice |
 | 448 | 529 | Ben Barkley |
 | 449 | 528 | Anita Rose Green |
 | 450 | 527 | Ryan Gunther |
@@ -501,8 +501,8 @@
 | 493 | 491 | Victor Obiakarije |
 | 494 | 491 | Adam Simmons |
 | 495 | 488 | Christina Wsn |
-| 496 | 487 | Michael Artis |
-| 497 | 487 | Morgan Easter |
+| 496 | 487 | Morgan Easter |
+| 497 | 487 | Michael Artis |
 | 498 | 487 | MrsCandyfine As Wine Truss |
 | 499 | 485 | Mamachelle Eisweirth |
 | 500 | 484 | Wendy Unsain |
@@ -543,7 +543,7 @@
 | 535 | 463 | Jaye EL Hunter |
 | 536 | 463 | Mia Muse Best |
 | 537 | 462 | Jennifer Scott |
-| 538 | 462 | Jarboe |
+| 538 | 462 | Daphne Jordan |
 | 539 | 462 | Amanda Ferrell |
 | 540 | 462 | Jarboe |
 | 541 | 460 | Slinky Racker |
@@ -615,7 +615,7 @@
 | 607 | 413 | Angi Harrison |
 | 608 | 413 | Fancy Twister |
 | 609 | 413 | Hunter Connors |
-| 610 | 413 | Fancy Twister |
+| 610 | 413 | Kimberly Ann |
 | 611 | 412 | Dawn L Washington-Feuquay |
 | 612 | 412 | Jason H Baker |
 | 613 | 411 | Jessica Lamb |
@@ -701,8 +701,8 @@
 | 693 | 363 | Jes Norris |
 | 694 | 363 | Stephanie Fortune |
 | 695 | 363 | Veronica Stevenson |
-| 696 | 362 | Snappy Matchbuilder |
-| 697 | 362 | Janai Vrabel |
+| 696 | 362 | Janai Vrabel |
+| 697 | 362 | Snappy Matchbuilder |
 | 698 | 361 | Michelle Shrum |
 | 699 | 360 | Kacee Conrad Bock |
 | 700 | 360 | Jroc |
@@ -740,8 +740,8 @@
 | 732 | 344 | Sarah block |
 | 733 | 344 | stacey |
 | 734 | 343 | Cris cris |
-| 735 | 343 | bru |
-| 736 | 343 | Snappy Shatterfit |
+| 735 | 343 | Snappy Shatterfit |
+| 736 | 343 | bru |
 | 737 | 342 | Danielle DeLozier Plesec |
 | 738 | 342 | Zappy Dropmatch |
 | 739 | 339 | Twisty Tetriblast |

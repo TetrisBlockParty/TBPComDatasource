@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Hyper |
-| 85 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Hyper |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -145,12 +145,12 @@
 | 137 | 308 | Sharon Reynolds |
 | 138 | 308 | Erin Hodges Plumb |
 | 139 | 307 | Kimberly Garcia |
-| 140 | 306 | Bloknboy |
-| 141 | 306 | Happy Basegrid |
+| 140 | 306 | Happy Basegrid |
+| 141 | 306 | Bloknboy |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
-| 144 | 301 | Dandy Basegrid |
-| 145 | 301 | Lehrin Maria |
+| 144 | 301 | Lehrin Maria |
+| 145 | 301 | Dandy Basegrid |
 | 146 | 297 | Constance Risner |
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
@@ -179,7 +179,7 @@
 | 171 | 265 | Nutty Spinblock |
 | 172 | 264 | Ty Brown |
 | 173 | 264 | Brian Richardsson |
-| 174 | 264 | Ty Brown |
+| 174 | 264 | Jenny Gingrich Fuentes |
 | 175 | 261 | Witty Builderfit |
 | 176 | 258 | Billie Dawn Sparks |
 | 177 | 254 | Al Smith Jr |
@@ -189,7 +189,7 @@
 | 181 | 251 | Giggly Builderline |
 | 182 | 249 | Lakeisha Chapman |
 | 183 | 246 | Mike Ames |
-| 184 | 244 | Serina Marie |
+| 184 | 244 | Eddie Dillon |
 | 185 | 244 | Marianita Garcia |
 | 186 | 244 | Serina Marie |
 | 187 | 243 | Trippy Redd |
@@ -357,8 +357,8 @@
 | 349 | 144 | Miguel Teixeira |
 | 350 | 143 | Guest |
 | 351 | 142 | Nathan Sealander |
-| 352 | 141 | Ashley Adams |
-| 353 | 141 | Kayla Marie Stevenson |
+| 352 | 141 | Kayla Marie Stevenson |
+| 353 | 141 | Ashley Adams |
 | 354 | 140 | Nathan William |
 | 355 | 139 | Aimee Horton |
 | 356 | 139 | Cozy Shatterer |
