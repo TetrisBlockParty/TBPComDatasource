@@ -141,8 +141,8 @@
 | 133 | 1469 | Christi Hulet |
 | 134 | 1450 | Cody Smith-Candelaria |
 | 135 | 1418 | L3sli3 |
-| 136 | 1411 | niecy |
-| 137 | 1411 | Zappy Cascade |
+| 136 | 1411 | Zappy Cascade |
+| 137 | 1411 | niecy |
 | 138 | 1401 | Brandy Andre |
 | 139 | 1397 | Bussyiano Page |
 | 140 | 1390 | Erica Williams |
@@ -351,8 +351,8 @@
 | 343 | 737 | Jeremy Parodi |
 | 344 | 734 | Jánine Riggs |
 | 345 | 734 | Deborah Miller |
-| 346 | 729 | Cassie Mercer |
-| 347 | 729 | Aimee Campbell |
+| 346 | 729 | Aimee Campbell |
+| 347 | 729 | Cassie Mercer |
 | 348 | 729 | Stephanie Lumanlan |
 | 349 | 728 | Dylan Thomason |
 | 350 | 727 | Doowop40 |
@@ -472,8 +472,8 @@
 | 464 | 563 | snkylnk |
 | 465 | 562 | AISlop |
 | 466 | 559 | Blacc Blac |
-| 467 | 558 | Cheery Matchzone |
-| 468 | 558 | Frisky Clearpiece |
+| 467 | 558 | Frisky Clearpiece |
+| 468 | 558 | Cheery Matchzone |
 | 469 | 558 | Libby Hicks |
 | 470 | 556 | Slip |
 | 471 | 554 | Rachael Senard |
@@ -495,8 +495,8 @@
 | 487 | 533 | Davetta Sanford |
 | 488 | 533 | Gauri Shrotriya |
 | 489 | 532 | Belle Mari |
-| 490 | 531 | Briana Alexander |
-| 491 | 531 | Aishah Brice |
+| 490 | 531 | Aishah Brice |
+| 491 | 531 | Briana Alexander |
 | 492 | 529 | Victoria Regina Girolami |
 | 493 | 528 | Sarah Berger |
 | 494 | 528 | Anita Rose Green |
@@ -750,8 +750,8 @@
 | 742 | 371 | Gina Caulder |
 | 743 | 371 | Mandi Marie Smith |
 | 744 | 371 | Rose Fx |
-| 745 | 370 | Brave Gridpiece |
-| 746 | 370 | Sassy Linkbuilder |
+| 745 | 370 | Sassy Linkbuilder |
+| 746 | 370 | Brave Gridpiece |
 | 747 | 369 | Amanda Canterbury |
 | 748 | 368 | Anthony D Gritz Jr |
 | 749 | 368 | Veronics |

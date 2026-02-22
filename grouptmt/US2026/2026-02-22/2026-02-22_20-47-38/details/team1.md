@@ -112,8 +112,8 @@
 | 104 | 417 | Lori Sanders- Davis |
 | 105 | 412 | Anaid Sanchez |
 | 106 | 411 | Luciano Moreira |
-| 107 | 409 | Yvonne Marie |
-| 108 | 409 | Dandy Basegrid |
+| 107 | 409 | Dandy Basegrid |
+| 108 | 409 | Yvonne Marie |
 | 109 | 395 | Nery Martinez |
 | 110 | 394 | Chris K |
 | 111 | 391 | Lori Bales |
@@ -187,8 +187,8 @@
 | 179 | 281 | Desiree Deschaine Havee |
 | 180 | 279 | Tana |
 | 181 | 277 | Christy Jones |
-| 182 | 276 | Shiny Snapfit |
-| 183 | 276 | Damon J. Martin |
+| 182 | 276 | Damon J. Martin |
+| 183 | 276 | Shiny Snapfit |
 | 184 | 273 | Shannon Marie Pitts |
 | 185 | 272 | Sleepysloath5745 |
 | 186 | 270 | Mandyy Rae |
@@ -205,8 +205,8 @@
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
-| 200 | 254 | Giggly Builderline |
-| 201 | 254 | Al Smith Jr |
+| 200 | 254 | Al Smith Jr |
+| 201 | 254 | Giggly Builderline |
 | 202 | 253 | Jamie Jury |
 | 203 | 252 | Dena Kayy |
 | 204 | 249 | Lakeisha Chapman |
@@ -220,8 +220,8 @@
 | 212 | 240 | DaRascal |
 | 213 | 239 | Lacy Wolfe |
 | 214 | 238 | Tiffany Smith |
-| 215 | 236 | Matt Iaccheo |
-| 216 | 236 | Speedy Liney |
+| 215 | 236 | Speedy Liney |
+| 216 | 236 | Matt Iaccheo |
 | 217 | 235 | MRdot Rooski |
 | 218 | 234 | Paula Martin |
 | 219 | 234 | Shanae Grant |

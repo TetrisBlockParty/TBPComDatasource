@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -121,12 +121,12 @@
 | 113 | 643 | mzcatzy |
 | 114 | 638 | Jesse Olive |
 | 115 | 630 | yoyo |
-| 116 | 625 | Shavette |
-| 117 | 625 | Amber Hughes |
+| 116 | 625 | Amber Hughes |
+| 117 | 625 | Shavette |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Giddy Drop |
-| 121 | 595 | Patricia White |
+| 120 | 595 | Patricia White |
+| 121 | 595 | Giddy Drop |
 | 122 | 585 | opf |
 | 123 | 583 | Karon Griffin |
 | 124 | 582 | Natasha Jones |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Cynthia Castros-Hampton |
-| 141 | 526 | Michelle Becker |
+| 140 | 526 | Michelle Becker |
+| 141 | 526 | Cynthia Castros-Hampton |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -163,11 +163,11 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Mendoza Lee Christy |
-| 159 | 471 | Nora Rogers |
+| 158 | 471 | Nora Rogers |
+| 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Adrian Marcel Pate |
-| 162 | 469 | Melissa Orth Hunter |
+| 161 | 469 | Melissa Orth Hunter |
+| 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Michelle |
 | 165 | 464 | Makelini Mausia |
@@ -178,14 +178,14 @@
 | 170 | 455 | Tessina Dewey-Mancino |
 | 171 | 454 | Tasha Gillespie |
 | 172 | 453 | Shannon Matthew Byers |
-| 173 | 451 | FuzzyNavel |
-| 174 | 451 | Rachel |
+| 173 | 451 | Rachel |
+| 174 | 451 | FuzzyNavel |
 | 175 | 447 | Shunta Jacobs |
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
-| 178 | 432 | Luciana Braganca Vieira |
-| 179 | 432 | Jenny Hrndz |
-| 180 | 432 | Christine Trester |
+| 178 | 432 | Jenny Hrndz |
+| 179 | 432 | Christine Trester |
+| 180 | 432 | Luciana Braganca Vieira |
 | 181 | 431 | Sarah Cowan Burgos |
 | 182 | 430 | Jeni Dow |
 | 183 | 430 | Joye Sims Binion |
@@ -206,36 +206,36 @@
 | 198 | 400 | Sherika C. McDaniels |
 | 199 | 399 | Mcathen |
 | 200 | 391 | Cozy Snaplink |
-| 201 | 383 | Nicole Flippo |
-| 202 | 383 | rosy |
+| 201 | 383 | rosy |
+| 202 | 383 | Nicole Flippo |
 | 203 | 382 | Scott Carleton |
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Rich LeBlanc |
-| 208 | 372 | Giddy Twistbuilder |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Rich LeBlanc |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Marci Mize Fandrich |
-| 213 | 367 | Loopy Fallmatch |
-| 214 | 365 | Chummy Caster |
-| 215 | 365 | Tiffany Ford |
+| 212 | 367 | Loopy Fallmatch |
+| 213 | 367 | Marci Mize Fandrich |
+| 214 | 365 | Tiffany Ford |
+| 215 | 365 | Chummy Caster |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
-| 226 | 347 | Philip Rock |
-| 227 | 347 | Trisha Balmer |
+| 226 | 347 | Trisha Balmer |
+| 227 | 347 | Philip Rock |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Rania Zaqout |
-| 230 | 344 | Roary Danner |
+| 229 | 344 | Roary Danner |
+| 230 | 344 | Rania Zaqout |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Ashley Tookes |
 | 233 | 341 | Noyb Adam |
@@ -269,8 +269,8 @@
 | 261 | 298 | Grams |
 | 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Katrina Turner |
-| 265 | 296 | Hoppy Buildout |
+| 264 | 296 | Hoppy Buildout |
+| 265 | 296 | Katrina Turner |
 | 266 | 295 | Tiffany Davie |
 | 267 | 293 | Tye Stovall |
 | 268 | 292 | Cheeky Snapper |
@@ -304,7 +304,7 @@
 | 296 | 269 | ROODBOY |
 | 297 | 269 | Micayah Stevens |
 | 298 | 268 | Krystal Gerstberger |
-| 299 | 267 | Nikki Pags |
+| 299 | 267 | Aerian Preston |
 | 300 | 267 | April Matthew Kibble |
 | 301 | 267 | Nikki Pags |
 | 302 | 266 | Quirky Dropzone |
@@ -400,7 +400,7 @@
 | 392 | 202 | Tipsy Zonebuilder |
 | 393 | 202 | BŘŰŤİÇŨŚ |
 | 394 | 202 | Andrew Thorson |
-| 395 | 202 | Tipsy Zonebuilder |
+| 395 | 202 | Melanie Sherwood |
 | 396 | 201 | Hyper Matchzone |
 | 397 | 200 | glichmod |
 | 398 | 200 | Colleen Phelps |
@@ -533,10 +533,10 @@
 | 525 | 155 | Jonathn Poindexter |
 | 526 | 155 | Autumn Phillimore |
 | 527 | 154 | Jolly Dashpiece |
-| 528 | 153 | Kathleen Taylor |
-| 529 | 153 | Stefanie LaPointe |
+| 528 | 153 | Jada Cox |
+| 529 | 153 | Kathleen Taylor |
 | 530 | 153 | Tracey Cox |
-| 531 | 153 | Jada Cox |
+| 531 | 153 | Stefanie LaPointe |
 | 532 | 152 | lashanda |
 | 533 | 152 | Shiny Zonebuilder |
 | 534 | 152 | Elisha L Allman |

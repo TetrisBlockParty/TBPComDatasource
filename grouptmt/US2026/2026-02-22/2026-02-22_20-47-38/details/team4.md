@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 654 | Julian Garcia |
 | 72 | 652 | Carolyn Wallace |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | ThaEviLJeNiuZ |
-| 140 | 343 | Latisha Davis |
+| 139 | 343 | Latisha Davis |
+| 140 | 343 | ThaEviLJeNiuZ |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -236,8 +236,8 @@
 | 228 | 226 | Zesty Twistbuilder |
 | 229 | 225 | Perky Patternblock |
 | 230 | 222 | Brandi Durig |
-| 231 | 221 | Rheanda Weaskus |
-| 232 | 221 | PurpleMoonMa |
+| 231 | 221 | PurpleMoonMa |
+| 232 | 221 | Rheanda Weaskus |
 | 233 | 220 | Joanna |
 | 234 | 220 | Chair |
 | 235 | 219 | BigSammy420 |
@@ -252,8 +252,8 @@
 | 244 | 215 | Ziggy |
 | 245 | 214 | Stacey Stano |
 | 246 | 213 | Sarah Neathery |
-| 247 | 213 | Rio Rocha |
-| 248 | 213 | Angela Geist Jusinski |
+| 247 | 213 | Angela Geist Jusinski |
+| 248 | 213 | Rio Rocha |
 | 249 | 212 | Mike Solo |
 | 250 | 210 | Dihcheese444 |
 | 251 | 208 | Rebecca Morris |
