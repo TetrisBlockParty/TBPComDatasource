@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | CeceGeGe |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Mcathen |
-| 152 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Jacqueline Rodriguez |
+| 152 | 399 | Mcathen |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -337,11 +337,11 @@
 | 329 | 169 | Naur |
 | 330 | 169 | Peachy Rollfit |
 | 331 | 169 | Kristian Thurman |
-| 332 | 168 | Trice Thomas |
-| 333 | 168 | April Matthew Kibble |
+| 332 | 168 | April Matthew Kibble |
+| 333 | 168 | Trice Thomas |
 | 334 | 167 | Shicken Nuggit |
-| 335 | 167 | Romeo |
-| 336 | 167 | Irene Arreguin |
+| 335 | 167 | Irene Arreguin |
+| 336 | 167 | Romeo |
 | 337 | 166 | Noettín Kan Zasnemoore |
 | 338 | 166 | Snarky McFace |
 | 339 | 165 | Rainbow77375 |
@@ -363,14 +363,14 @@
 | 355 | 159 | Salena Whitlock |
 | 356 | 158 | Willow |
 | 357 | 157 | Angel Mendez |
-| 358 | 157 | Steffi Chris Dacones |
-| 359 | 157 | Katrina E Jelks |
+| 358 | 157 | Katrina E Jelks |
+| 359 | 157 | Steffi Chris Dacones |
 | 360 | 157 | Wetwet |
 | 361 | 156 | Nichole Greene |
 | 362 | 155 | Michell Hendershott Jackson |
 | 363 | 155 | Michael Leblanc |
-| 364 | 153 | Lys |
-| 365 | 153 | Sheila M Frazier |
+| 364 | 153 | Sheila M Frazier |
+| 365 | 153 | Lys |
 | 366 | 153 | Tony Waters |
 | 367 | 152 | Goofy Fall |
 | 368 | 152 | Eric Caccavale |
@@ -414,8 +414,8 @@
 | 406 | 137 | Reina Roth |
 | 407 | 137 | Giggly Brickroll |
 | 408 | 137 | Arden White Kirsch |
-| 409 | 136 | Crystal Hine |
-| 410 | 136 | Sabrina Mansfield |
+| 409 | 136 | Sabrina Mansfield |
+| 410 | 136 | Crystal Hine |
 | 411 | 135 | Morgan Cudo |
 | 412 | 134 | Maia |
 | 413 | 134 | Tammy |
@@ -537,8 +537,8 @@
 | 529 | 106 | JustGiGi |
 | 530 | 106 | Megan Riggins |
 | 531 | 105 | Emi |
-| 532 | 105 | Kristi Taylor |
-| 533 | 105 | Amy Wheeler |
+| 532 | 105 | Amy Wheeler |
+| 533 | 105 | Kristi Taylor |
 | 534 | 105 | Zac Hudak |
 | 535 | 104 | Christy Quick |
 | 536 | 104 | Jessica Rose-Morgan |

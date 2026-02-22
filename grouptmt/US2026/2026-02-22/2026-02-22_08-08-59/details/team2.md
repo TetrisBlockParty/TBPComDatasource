@@ -114,8 +114,8 @@
 | 106 | 1391 | blarg |
 | 107 | 1383 | Ladyrainbootz |
 | 108 | 1380 | Jose Mendoza |
-| 109 | 1342 | Christi Hulet |
-| 110 | 1342 | Eboni Banks |
+| 109 | 1342 | Eboni Banks |
+| 110 | 1342 | Christi Hulet |
 | 111 | 1335 | Kristopher Miller |
 | 112 | 1333 | Mr. Street Stack |
 | 113 | 1312 | Dawn Geist-Weasner |
@@ -430,8 +430,8 @@
 | 422 | 483 | Victor Obiakarije |
 | 423 | 483 | Alezandra Smith |
 | 424 | 482 | Amélie Cadieux |
-| 425 | 482 | Drwatson187 |
-| 426 | 482 | Eckoman518 |
+| 425 | 482 | Eckoman518 |
+| 426 | 482 | Drwatson187 |
 | 427 | 482 | Ben Barkley |
 | 428 | 481 | Klee |
 | 429 | 480 | Dar |
@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Sue Leard |
-| 447 | 463 | Jaye EL Hunter |
+| 446 | 463 | Jaye EL Hunter |
+| 447 | 463 | Sue Leard |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Tonya Lee |
 | 450 | 462 | Daphne Jordan |
@@ -550,9 +550,9 @@
 | 542 | 393 | bbv |
 | 543 | 393 | Jamie West |
 | 544 | 393 | Deyawn Smith |
-| 545 | 391 | Anthony Huebel |
-| 546 | 391 | Chilly Bridgepiece |
-| 547 | 391 | Adam Simmons |
+| 545 | 391 | Chilly Bridgepiece |
+| 546 | 391 | Adam Simmons |
+| 547 | 391 | Anthony Huebel |
 | 548 | 391 | Qiana Sanders |
 | 549 | 390 | Moist_B-hole |
 | 550 | 390 | Besma Ao |
@@ -736,8 +736,8 @@
 | 728 | 301 | Danielle Ayoub |
 | 729 | 300 | Alice Ball |
 | 730 | 300 | Kacee Conrad Bock |
-| 731 | 299 | Cassie Newton |
-| 732 | 299 | Hyper Riseclear |
+| 731 | 299 | Hyper Riseclear |
+| 732 | 299 | Cassie Newton |
 | 733 | 298 | Frilly Fallzone |
 | 734 | 298 | Ryan Stadel |
 | 735 | 298 | Lazy Riseclear |

@@ -96,8 +96,8 @@
 | 88 | 407 | Leslie Thomas |
 | 89 | 405 | Shane Kalamata Platoon |
 | 90 | 404 | Courtney Cicoria |
-| 91 | 396 | Alicia Bass |
-| 92 | 396 | Amy Suckarieh |
+| 91 | 396 | Amy Suckarieh |
+| 92 | 396 | Alicia Bass |
 | 93 | 392 | Ericca Eldridge |
 | 94 | 391 | Ramel Rhodes |
 | 95 | 390 | Carlton Unfiltered |
@@ -133,8 +133,8 @@
 | 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Carrie Brian |
-| 129 | 278 | Desi Desporte |
+| 128 | 278 | Desi Desporte |
+| 129 | 278 | Carrie Brian |
 | 130 | 277 | Scott Jameson |
 | 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
@@ -148,8 +148,8 @@
 | 140 | 253 | Jeff Brian Gates |
 | 141 | 249 | Leah Kutz Zirbel |
 | 142 | 245 | Diana Houts |
-| 143 | 244 | Twisty Cascadezone |
-| 144 | 244 | Calvin Cannon |
+| 143 | 244 | Calvin Cannon |
+| 144 | 244 | Twisty Cascadezone |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
 | 147 | 230 | Cursed Hag |
@@ -181,8 +181,8 @@
 | 173 | 204 | Jen Caldwell |
 | 174 | 203 | Katherine Crane |
 | 175 | 202 | TRCuse |
-| 176 | 201 | Melvin Baird |
-| 177 | 201 | Chance Strickland |
+| 176 | 201 | Chance Strickland |
+| 177 | 201 | Melvin Baird |
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |
@@ -193,8 +193,8 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
@@ -244,9 +244,9 @@
 | 236 | 147 | B Renee Desjardin |
 | 237 | 147 | Jay28 |
 | 238 | 146 | Ultramarine |
-| 239 | 145 | Mimi |
-| 240 | 145 | Sandra Safford |
-| 241 | 143 | Dennis Bradley |
+| 239 | 145 | Sandra Safford |
+| 240 | 145 | Mimi |
+| 241 | 143 | Lauren Lamb |
 | 242 | 143 | Zesty Twistbuilder |
 | 243 | 143 | Dennis Bradley |
 | 244 | 142 | Patron Anderson |
@@ -298,7 +298,7 @@
 | 290 | 128 | Kristin MacDonald |
 | 291 | 128 | Silly Zonebuilder |
 | 292 | 127 | Kim Hunt |
-| 293 | 126 | Chris Baggett |
+| 293 | 126 | PAPatty |
 | 294 | 126 | Cheryl Johnson |
 | 295 | 126 | Chris Baggett |
 | 296 | 126 | icequeenx |
