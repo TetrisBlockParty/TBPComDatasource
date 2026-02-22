@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 228 | Antony Dwayne Beasley |
 | 209 | 226 | Zesty Twistbuilder |
@@ -373,8 +373,8 @@
 | 365 | 136 | Jen Hallin |
 | 366 | 136 | Michelle Morris |
 | 367 | 135 | Joshua Guess |
-| 368 | 134 | Kristin MacDonald |
-| 369 | 134 | Hyper Builder |
+| 368 | 134 | Hyper Builder |
+| 369 | 134 | Kristin MacDonald |
 | 370 | 133 | Berklie Apedaile |
 | 371 | 133 | Jesus Garcia |
 | 372 | 132 | Meg |
@@ -440,9 +440,9 @@
 | 432 | 115 | Jayk |
 | 433 | 115 | Susan Williams |
 | 434 | 115 | Jobadia Steelerton |
-| 435 | 114 | Jason Frehner |
+| 435 | 114 | Rosemary Foster |
 | 436 | 114 | Jackson Karen |
-| 437 | 114 | Rosemary Foster |
+| 437 | 114 | Jason Frehner |
 | 438 | 114 | The Murphy |
 | 439 | 113 | Michael Orris |
 | 440 | 113 | Dandy Cascadefit |
@@ -673,7 +673,7 @@
 | 665 | 69 | ZZZZZZZ |
 | 666 | 69 | Tammy Lewis |
 | 667 | 68 | zelda Morgan |
-| 668 | 68 | Aly Eggers |
+| 668 | 68 | Jen May |
 | 669 | 68 | KanVus |
 | 670 | 68 | Aly Eggers |
 | 671 | 68 | Matthew Pate |

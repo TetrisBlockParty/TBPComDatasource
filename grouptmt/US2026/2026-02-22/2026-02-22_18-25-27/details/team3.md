@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -222,8 +222,8 @@
 | 214 | 346 | Tamara Deherrera |
 | 215 | 344 | Roary Danner |
 | 216 | 343 | Ashley Raines |
-| 217 | 341 | Noyb Adam |
-| 218 | 341 | Samantha Lynn |
+| 217 | 341 | Samantha Lynn |
+| 218 | 341 | Noyb Adam |
 | 219 | 341 | Ashley Tookes |
 | 220 | 340 | Ammmmmmy |
 | 221 | 339 | Marci Mize Fandrich |
@@ -232,8 +232,8 @@
 | 224 | 337 | Philip Rock |
 | 225 | 332 | Rich LeBlanc |
 | 226 | 330 | Rebecca Funderburk Kirby |
-| 227 | 324 | Sissy Lowery Davis |
-| 228 | 324 | Kristal C Lee |
+| 227 | 324 | Kristal C Lee |
+| 228 | 324 | Sissy Lowery Davis |
 | 229 | 323 | Demetrious Shaw Sr. |
 | 230 | 323 | Melissa Orth Hunter |
 | 231 | 321 | Rebecca Bailey |
@@ -266,8 +266,8 @@
 | 258 | 282 | Angie Harper |
 | 259 | 282 | Terry Jo Jones |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Sabrina Hardrick |
-| 262 | 278 | Rufus Lincoln |
+| 261 | 278 | Rufus Lincoln |
+| 262 | 278 | Sabrina Hardrick |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | LaShey Thompson |
 | 265 | 276 | Crimson |
@@ -284,8 +284,8 @@
 | 276 | 268 | Krystal Gerstberger |
 | 277 | 267 | April Matthew Kibble |
 | 278 | 267 | Tiffany Davie |
-| 279 | 266 | Snappy Balancer |
-| 280 | 266 | Quirky Dropzone |
+| 279 | 266 | Quirky Dropzone |
+| 280 | 266 | Snappy Balancer |
 | 281 | 265 | Nikki Pags |
 | 282 | 263 | Brenda Schmid Wood |
 | 283 | 262 | Joe-Maggie Mathews |
@@ -638,8 +638,8 @@
 | 630 | 118 | Damian Reid |
 | 631 | 118 | Samantha Lohmeyer |
 | 632 | 117 | Elyse Grabowsky |
-| 633 | 116 | Tina Baurdau |
-| 634 | 116 | Dapper Towerfit |
+| 633 | 116 | Dapper Towerfit |
+| 634 | 116 | bean |
 | 635 | 116 | Shelby Crawford |
 | 636 | 116 | Tina Baurdau |
 | 637 | 116 | Daring Rollfit |
