@@ -152,7 +152,7 @@
 | 144 | 333 | GATOR |
 | 145 | 332 | Lehrin Maria |
 | 146 | 332 | Fmp |
-| 147 | 332 | Lehrin Maria |
+| 147 | 332 | Kristen Gideon |
 | 148 | 328 | Jennifer Hardman |
 | 149 | 325 | Josh Riemer |
 | 150 | 324 | Ananda Mendez |
@@ -160,10 +160,10 @@
 | 152 | 318 | Jessica Sheehan |
 | 153 | 313 | Virginia Gray Floyd |
 | 154 | 310 | Kimberly Garcia |
-| 155 | 308 | Jason Savage |
-| 156 | 308 | Sharon Reynolds |
-| 157 | 306 | Happy Basegrid |
-| 158 | 306 | Bloknboy |
+| 155 | 308 | Sharon Reynolds |
+| 156 | 308 | Jason Savage |
+| 157 | 306 | Bloknboy |
+| 158 | 306 | Happy Basegrid |
 | 159 | 305 | Constance Risner |
 | 160 | 304 | Rachael |
 | 161 | 304 | Chelsea Dahlquist |

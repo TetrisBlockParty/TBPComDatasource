@@ -80,8 +80,8 @@
 | 72 | 895 | Corie A. Brinson |
 | 73 | 882 | Tiff Vs Tiffany |
 | 74 | 878 | Katie Knaus |
-| 75 | 874 | Jessica Pineda-Lopez |
-| 76 | 874 | Shari Garber |
+| 75 | 874 | Shari Garber |
+| 76 | 874 | Jessica Pineda-Lopez |
 | 77 | 870 | Nerdy Riseclear |
 | 78 | 866 | Ebony West-Cundiff |
 | 79 | 864 | Mary Pellegrino |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Cynthia Castros-Hampton |
-| 141 | 526 | Michelle Becker |
+| 140 | 526 | Michelle Becker |
+| 141 | 526 | Cynthia Castros-Hampton |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -169,8 +169,8 @@
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Michelle |
-| 165 | 464 | Makelini Mausia |
+| 164 | 464 | Makelini Mausia |
+| 165 | 464 | Michelle |
 | 166 | 461 | Jone |
 | 167 | 460 | Tasha Gillespie |
 | 168 | 460 | Danielle Allison |
@@ -206,8 +206,8 @@
 | 198 | 400 | Sherika C. McDaniels |
 | 199 | 399 | Mcathen |
 | 200 | 391 | Cozy Snaplink |
-| 201 | 383 | Nicole Flippo |
-| 202 | 383 | rosy |
+| 201 | 383 | rosy |
+| 202 | 383 | Nicole Flippo |
 | 203 | 382 | Scott Carleton |
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |

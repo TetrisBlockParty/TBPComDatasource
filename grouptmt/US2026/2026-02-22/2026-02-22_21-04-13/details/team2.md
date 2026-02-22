@@ -258,8 +258,8 @@
 | 250 | 935 | Kevin Walp |
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 920 | Phil J. Grombliniak |
-| 253 | 919 | Isaac Trappiel IV |
-| 254 | 919 | Joshua Mandel |
+| 253 | 919 | Joshua Mandel |
+| 254 | 919 | Isaac Trappiel IV |
 | 255 | 916 | Butta |
 | 256 | 915 | Robin Kerby |
 | 257 | 915 | Kelly Trent |
@@ -317,8 +317,8 @@
 | 309 | 793 | Binyah-Binyah |
 | 310 | 790 | Brenda Pierpoint |
 | 311 | 790 | Jackie Lucas |
-| 312 | 787 | Lisa Ongtowasruk |
-| 313 | 787 | Laura McCarthey |
+| 312 | 787 | Laura McCarthey |
+| 313 | 787 | Lisa Ongtowasruk |
 | 314 | 782 | Beth |
 | 315 | 781 | Hong Tang |
 | 316 | 778 | Lola Contreras |
@@ -431,13 +431,13 @@
 | 423 | 615 | Julio A Laracuente |
 | 424 | 614 | Emilee Burke |
 | 425 | 613 | Tonya Lee |
-| 426 | 613 | Lylymom |
-| 427 | 613 | Caitlyn Blackwell |
+| 426 | 613 | Caitlyn Blackwell |
+| 427 | 613 | Lylymom |
 | 428 | 609 | g |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | KhaosLord |
-| 432 | 602 | Shaun Church |
+| 431 | 602 | Shaun Church |
+| 432 | 602 | KhaosLord |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
@@ -639,8 +639,8 @@
 | 631 | 433 | Tabs Reichert |
 | 632 | 433 | Tom Steffen |
 | 633 | 431 | Joel Rosado |
-| 634 | 431 | Hunter Connors |
-| 635 | 431 | Quinn |
+| 634 | 431 | Quinn |
+| 635 | 431 | Hunter Connors |
 | 636 | 430 | De Hawkins |
 | 637 | 429 | Crystal Heller Gonzalez |
 | 638 | 429 | Goofy Catcher |

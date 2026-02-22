@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -153,9 +153,9 @@
 | 145 | 333 | Twisty Cascadezone |
 | 146 | 332 | HastyGrabber |
 | 147 | 332 | Desi Desporte |
-| 148 | 328 | Brandon Crabbs |
-| 149 | 328 | Leslie Nicole |
-| 150 | 328 | Kris Bartlett |
+| 148 | 328 | Leslie Nicole |
+| 149 | 328 | Kris Bartlett |
+| 150 | 328 | Brandon Crabbs |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
 | 153 | 321 | Klo |
@@ -167,8 +167,8 @@
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
 | 161 | 307 | TRCuse |
-| 162 | 307 | Girl |
-| 163 | 307 | Bio Nelly |
+| 162 | 307 | Bio Nelly |
+| 163 | 307 | Girl |
 | 164 | 303 | shark tato |
 | 165 | 301 | Crystal Nicolette Moore |
 | 166 | 301 | Andria Lynn |
@@ -228,7 +228,7 @@
 | 220 | 236 | Swanky Fitline |
 | 221 | 235 | Zesty Twistbuilder |
 | 222 | 235 | Oscar Alberto Perez |
-| 223 | 235 | Zesty Twistbuilder |
+| 223 | 235 | Chris Hartig |
 | 224 | 233 | April Rondinone |
 | 225 | 233 | Matt Gooder |
 | 226 | 233 | Ruben Wheeler |
