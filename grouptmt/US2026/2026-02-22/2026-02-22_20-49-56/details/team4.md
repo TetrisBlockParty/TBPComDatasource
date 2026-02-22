@@ -165,8 +165,8 @@
 | 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 308 | Jeff Brian Gates |
-| 160 | 307 | Bio Nelly |
-| 161 | 307 | TRCuse |
+| 160 | 307 | TRCuse |
+| 161 | 307 | Bio Nelly |
 | 162 | 307 | Girl |
 | 163 | 303 | shark tato |
 | 164 | 301 | Crystal Nicolette Moore |
@@ -261,8 +261,8 @@
 | 253 | 205 | Christina Black |
 | 254 | 205 | Keith Kelley |
 | 255 | 203 | Katherine Crane |
-| 256 | 202 | Patron Anderson |
-| 257 | 202 | Orchislactea |
+| 256 | 202 | Orchislactea |
+| 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
 | 259 | 200 | Googenheim |
 | 260 | 200 | Lori |
