@@ -130,8 +130,8 @@
 | 122 | 290 | Death |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Emily Adelaide Wheatley |
-| 126 | 284 | Rachael |
+| 125 | 284 | Rachael |
+| 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
 | 128 | 282 | Timothy Dew |
 | 129 | 282 | Cool Shiftsnap |
@@ -318,8 +318,8 @@
 | 310 | 122 | Nate Funk |
 | 311 | 122 | Tyler Hertzog |
 | 312 | 121 | John Ramirez |
-| 313 | 121 | Jacob Shaddock |
-| 314 | 121 | Pauline Cortez |
+| 313 | 121 | Pauline Cortez |
+| 314 | 121 | Jacob Shaddock |
 | 315 | 120 | Shiny Rotate |
 | 316 | 118 | Garcia Bailey |
 | 317 | 118 | Kerry Lee Powell |
@@ -327,8 +327,8 @@
 | 319 | 117 | Bob |
 | 320 | 117 | .running. |
 | 321 | 117 | Beazel75 |
-| 322 | 116 | Brad MG |
-| 323 | 116 | Fresno Beotoni |
+| 322 | 116 | Fresno Beotoni |
+| 323 | 116 | Brad MG |
 | 324 | 115 | Brave Slice |
 | 325 | 114 | Angela Rena Brooks |
 | 326 | 114 | Plucky Stacky |
@@ -384,8 +384,8 @@
 | 376 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 377 | 98 | Alfredo Vasquez |
 | 378 | 98 | Kirk Torrey |
-| 379 | 97 | Bird Person |
-| 380 | 97 | Edgar Algiere |
+| 379 | 97 | Edgar Algiere |
+| 380 | 97 | Bird Person |
 | 381 | 97 | Steve Bomkamp |
 | 382 | 96 | Lisa Marie |
 | 383 | 95 | Quirky Pusher |

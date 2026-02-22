@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -98,14 +98,14 @@
 | 90 | 595 | Patricia White |
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
-| 93 | 582 | Jay Horn |
-| 94 | 582 | Speedy Bridger |
+| 93 | 582 | Speedy Bridger |
+| 94 | 582 | Jay Horn |
 | 95 | 582 | Natasha Jones |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Queen Kam |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -216,8 +216,8 @@
 | 208 | 295 | Marci Mize Fandrich |
 | 209 | 291 | Kristal C Lee |
 | 210 | 289 | DidIdothat |
-| 211 | 289 | Duane Bright |
-| 212 | 289 | Hoppy Buildout |
+| 211 | 289 | Hoppy Buildout |
+| 212 | 289 | Duane Bright |
 | 213 | 286 | Cynthia Herrmann Egland |
 | 214 | 284 | Denise Nardoni |
 | 215 | 283 | Cheeky Snapper |
@@ -269,11 +269,11 @@
 | 261 | 230 | Connie Mohler-Fair |
 | 262 | 227 | Krystal Gerstberger |
 | 263 | 227 | Meowsa |
-| 264 | 225 | Dirtgirl27 |
-| 265 | 225 | Cozy Snaplink |
+| 264 | 225 | Cozy Snaplink |
+| 265 | 225 | Dirtgirl27 |
 | 266 | 221 | Vaners |
-| 267 | 221 | Jaime Monhaut-Reed |
-| 268 | 221 | Alice |
+| 267 | 221 | Alice |
+| 268 | 221 | Jaime Monhaut-Reed |
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
@@ -420,13 +420,13 @@
 | 412 | 136 | Sabrina Mansfield |
 | 413 | 136 | Crystal Hine |
 | 414 | 135 | Morgan Cudo |
-| 415 | 134 | Maia |
-| 416 | 134 | Glenn Loving |
+| 415 | 134 | Glenn Loving |
+| 416 | 134 | Maia |
 | 417 | 134 | Tammy |
 | 418 | 134 | gremicx |
 | 419 | 133 | Jen Lewis |
-| 420 | 132 | Hanna Kim |
-| 421 | 132 | Andrew Thorson |
+| 420 | 132 | Andrew Thorson |
+| 421 | 132 | Hanna Kim |
 | 422 | 131 | Cheeky Setter |
 | 423 | 130 | Sarah Whalen |
 | 424 | 130 | Karen Picaboo |

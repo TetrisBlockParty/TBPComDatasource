@@ -282,8 +282,8 @@
 | 274 | 698 | Mighty Shatterfit |
 | 275 | 697 | Dreamy Blast |
 | 276 | 692 | Chelle |
-| 277 | 692 | Jennifer Casey-Kay |
-| 278 | 692 | Dannette Goldberg-Richards |
+| 277 | 692 | Dannette Goldberg-Richards |
+| 278 | 692 | Jennifer Casey-Kay |
 | 279 | 690 | Deborah Miller |
 | 280 | 689 | Giggy Blocker |
 | 281 | 688 | Tiara Elizabeth Baker |
@@ -386,8 +386,8 @@
 | 378 | 524 | Jojo Momma |
 | 379 | 524 | Shaun Church |
 | 380 | 523 | Matt Johnson |
-| 381 | 522 | Lylymom |
-| 382 | 522 | Joseph Musick |
+| 381 | 522 | Joseph Musick |
+| 382 | 522 | Lylymom |
 | 383 | 521 | Tj Ball |
 | 384 | 520 | Maddy Petersen |
 | 385 | 520 | Angela Lynn |
@@ -421,8 +421,8 @@
 | 413 | 489 | Cassie Mercer |
 | 414 | 489 | Osun Anuket Esu |
 | 415 | 488 | Venita Ray |
-| 416 | 487 | MrsCandyfine As Wine Truss |
-| 417 | 487 | Maya June |
+| 416 | 487 | Maya June |
+| 417 | 487 | MrsCandyfine As Wine Truss |
 | 418 | 486 | Caitlin Schmid |
 | 419 | 485 | Ann Matzkanin |
 | 420 | 485 | Dapper Dasher |
