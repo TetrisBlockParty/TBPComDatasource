@@ -115,8 +115,8 @@
 | 107 | 328 | Shauna Loe |
 | 108 | 326 | Monica Donato |
 | 109 | 321 | Maria C. Hernandez |
-| 110 | 319 | Deanna L Hermanson |
-| 111 | 319 | Patrick Luckenbill |
+| 110 | 319 | Patrick Luckenbill |
+| 111 | 319 | Deanna L Hermanson |
 | 112 | 316 | Ly Phethmany |
 | 113 | 313 | Tanya Carpenter-Reynolds |
 | 114 | 310 | Seth Wesson |
@@ -130,8 +130,8 @@
 | 122 | 290 | Death |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Emily Adelaide Wheatley |
-| 126 | 284 | Rachael |
+| 125 | 284 | Rachael |
+| 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
 | 128 | 282 | Cool Shiftsnap |
 | 129 | 282 | Timothy Dew |
@@ -143,8 +143,8 @@
 | 135 | 270 | Ash Galvan |
 | 136 | 268 | GATOR |
 | 137 | 265 | SkipTheSadSauce |
-| 138 | 264 | Jenny Gingrich Fuentes |
-| 139 | 264 | Lexuriuos Lifestlye |
+| 138 | 264 | Lexuriuos Lifestlye |
+| 139 | 264 | Jenny Gingrich Fuentes |
 | 140 | 263 | Sharon Reynolds |
 | 141 | 258 | Virginia Gray Floyd |
 | 142 | 257 | Amanda Jarnagin |
@@ -322,8 +322,8 @@
 | 314 | 121 | Pauline Cortez |
 | 315 | 120 | Shiny Rotate |
 | 316 | 118 | Snappy Brickbuilder |
-| 317 | 118 | Kerry Lee Powell |
-| 318 | 118 | Garcia Bailey |
+| 317 | 118 | Garcia Bailey |
+| 318 | 118 | Kerry Lee Powell |
 | 319 | 117 | .running. |
 | 320 | 117 | Beazel75 |
 | 321 | 117 | Bob |

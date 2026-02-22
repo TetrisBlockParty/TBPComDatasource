@@ -105,8 +105,8 @@
 | 97 | 579 | Jd Morris |
 | 98 | 578 | Queen Kam |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -270,8 +270,8 @@
 | 262 | 230 | Connie Mohler-Fair |
 | 263 | 227 | Krystal Gerstberger |
 | 264 | 227 | Meowsa |
-| 265 | 225 | Dirtgirl27 |
-| 266 | 225 | Cozy Snaplink |
+| 265 | 225 | Cozy Snaplink |
+| 266 | 225 | Dirtgirl27 |
 | 267 | 221 | Vaners |
 | 268 | 221 | Jaime Monhaut-Reed |
 | 269 | 221 | Alice |
@@ -375,8 +375,8 @@
 | 367 | 156 | Nichole Greene |
 | 368 | 155 | Michell Hendershott Jackson |
 | 369 | 155 | Michael Leblanc |
-| 370 | 153 | Sheila M Frazier |
-| 371 | 153 | Lys |
+| 370 | 153 | Lys |
+| 371 | 153 | Sheila M Frazier |
 | 372 | 153 | Tony Waters |
 | 373 | 152 | Goofy Fall |
 | 374 | 152 | Quirky Dropzone |
