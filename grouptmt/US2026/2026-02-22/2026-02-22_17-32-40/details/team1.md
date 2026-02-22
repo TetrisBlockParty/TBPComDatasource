@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Hyper |
-| 85 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Hyper |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -117,8 +117,8 @@
 | 109 | 379 | Kimmie Kimms |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
-| 112 | 364 | Shauna Loe |
-| 113 | 364 | Ly Phethmany |
+| 112 | 364 | Ly Phethmany |
+| 113 | 364 | Shauna Loe |
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |
@@ -147,8 +147,8 @@
 | 139 | 308 | Erin Hodges Plumb |
 | 140 | 308 | Sharon Reynolds |
 | 141 | 307 | Kimberly Garcia |
-| 142 | 306 | Bloknboy |
-| 143 | 306 | Happy Basegrid |
+| 142 | 306 | Happy Basegrid |
+| 143 | 306 | Bloknboy |
 | 144 | 304 | Nicole Roseberry Weber |
 | 145 | 303 | Chelsea Dahlquist |
 | 146 | 301 | Lehrin Maria |
@@ -394,8 +394,8 @@
 | 386 | 130 | Katie Toothman |
 | 387 | 129 | Sherri E Woods Hess |
 | 388 | 128 | Sarah Henniker |
-| 389 | 128 | George Dalton |
-| 390 | 128 | Alyssa Ingram |
+| 389 | 128 | Alyssa Ingram |
+| 390 | 128 | George Dalton |
 | 391 | 127 | Frisky Risebuilder |
 | 392 | 127 | Danielle Mae |
 | 393 | 126 | Shiny Rotate |

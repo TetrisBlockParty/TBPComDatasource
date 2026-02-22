@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -193,8 +193,8 @@
 | 185 | 251 | Matt Summer |
 | 186 | 250 | Matt Dell'Olio |
 | 187 | 247 | Sam Bishop |
-| 188 | 245 | Peachy Fall |
-| 189 | 245 | Andria Lynn |
+| 188 | 245 | Andria Lynn |
+| 189 | 245 | Peachy Fall |
 | 190 | 245 | Autum Leigh |
 | 191 | 244 | Twisty Cascadezone |
 | 192 | 243 | Mr. Party |
@@ -255,8 +255,8 @@
 | 247 | 189 | 030Synner |
 | 248 | 188 | Stephme310 |
 | 249 | 185 | Laura Hosford |
-| 250 | 184 | Ak Jones |
-| 251 | 184 | Lauren Lamb |
+| 250 | 184 | Lauren Lamb |
+| 251 | 184 | Ak Jones |
 | 252 | 182 | TinyLegoRose |
 | 253 | 181 | Jackie Marie |
 | 254 | 181 | Carter Jones |
@@ -338,7 +338,7 @@
 | 330 | 142 | Chaz |
 | 331 | 142 | Nerdy Twisterfit |
 | 332 | 142 | Chantilly Laace |
-| 333 | 141 | Tony Pavelka |
+| 333 | 141 | Kathy Allen |
 | 334 | 141 | Montiette Mcglown |
 | 335 | 141 | Tony Pavelka |
 | 336 | 141 | Courtney Halleck |
@@ -909,7 +909,7 @@
 | 901 | 44 | Kat |
 | 902 | 44 | Ashley Kerr |
 | 903 | 44 | Matt Tackett |
-| 904 | 43 | Bob N Alisha Hinojosa |
+| 904 | 43 | tossan |
 | 905 | 43 | Chirpy Rollbuilder |
 | 906 | 43 | Bob N Alisha Hinojosa |
 | 907 | 43 | Tunia Torres |

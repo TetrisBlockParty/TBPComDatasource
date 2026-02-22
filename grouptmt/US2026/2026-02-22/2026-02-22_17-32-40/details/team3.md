@@ -127,8 +127,8 @@
 | 119 | 574 | Morgan Martinez |
 | 120 | 568 | Rachael McClain Owens |
 | 121 | 566 | Dolores Falco |
-| 122 | 562 | Louise Stacy Sisson |
-| 123 | 562 | Dave Herzog |
+| 122 | 562 | Dave Herzog |
+| 123 | 562 | Louise Stacy Sisson |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -178,8 +178,8 @@
 | 170 | 415 | ren |
 | 171 | 410 | Stephanie Simpson |
 | 172 | 407 | Jone |
-| 173 | 405 | Marcie Bressler |
-| 174 | 405 | JerseyJess |
+| 173 | 405 | JerseyJess |
+| 174 | 405 | Marcie Bressler |
 | 175 | 403 | Scott Lindsay |
 | 176 | 401 | Katie Knaus |
 | 177 | 400 | Sherika C. McDaniels |
@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Tom Nault |
-| 197 | 372 | Giddy Twistbuilder |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
@@ -317,14 +317,14 @@
 | 309 | 227 | ROODBOY |
 | 310 | 227 | Meowsa |
 | 311 | 226 | Jana Polk |
-| 312 | 225 | Steffi Chris Dacones |
-| 313 | 225 | Dirtgirl27 |
-| 314 | 225 | Stephanie Hill |
+| 312 | 225 | Stephanie Hill |
+| 313 | 225 | Steffi Chris Dacones |
+| 314 | 225 | Dirtgirl27 |
 | 315 | 223 | Michael Lucado |
 | 316 | 223 | Kaycee Kay |
 | 317 | 223 | Jennifer Alvey |
 | 318 | 222 | Aerian Preston |
-| 319 | 221 | kacihall |
+| 319 | 221 | Alice |
 | 320 | 221 | Bleu Sun Beams |
 | 321 | 221 | kacihall |
 | 322 | 221 | Ryan Williams |
@@ -347,7 +347,7 @@
 | 339 | 213 | Nicholas Roddy |
 | 340 | 212 | AlsoJess |
 | 341 | 211 | Wettnippz |
-| 342 | 211 | Velma Mull |
+| 342 | 211 | Khaleada McGill Banks |
 | 343 | 211 | El Chapa |
 | 344 | 211 | Velma Mull |
 | 345 | 210 | Criss |
