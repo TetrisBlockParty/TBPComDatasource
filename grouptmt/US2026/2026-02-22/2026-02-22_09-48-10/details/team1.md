@@ -158,8 +158,8 @@
 | 150 | 253 | Plucky Fallzone |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
-| 153 | 244 | Tyler Werts |
-| 154 | 244 | Mandyy Rae |
+| 153 | 244 | Mandyy Rae |
+| 154 | 244 | Tyler Werts |
 | 155 | 243 | Trippy Redd |
 | 156 | 242 | ALFD |
 | 157 | 241 | John J. Cronin |
@@ -217,8 +217,8 @@
 | 209 | 186 | Margo Wagner |
 | 210 | 186 | Erin Hodges Plumb |
 | 211 | 184 | Chris Sigurdson |
-| 212 | 183 | Andrew Boone |
-| 213 | 183 | Amy Hess |
+| 212 | 183 | Amy Hess |
+| 213 | 183 | Andrew Boone |
 | 214 | 182 | Phu ckalldems |
 | 215 | 180 | Jessie Lynn |
 | 216 | 180 | BigWeenie69 |

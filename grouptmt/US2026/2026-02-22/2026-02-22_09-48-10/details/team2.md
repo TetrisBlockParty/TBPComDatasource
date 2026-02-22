@@ -390,8 +390,8 @@
 | 382 | 533 | Gauri Shrotriya |
 | 383 | 531 | Dizzy Zone |
 | 384 | 527 | Ryan Gunther |
-| 385 | 527 | Heather Causey |
-| 386 | 527 | Julie Kresal |
+| 385 | 527 | Julie Kresal |
+| 386 | 527 | Heather Causey |
 | 387 | 526 | Sheronda Jackson |
 | 388 | 526 | Heather Schelkopf |
 | 389 | 525 | Desiree Anderson |
@@ -538,8 +538,8 @@
 | 530 | 413 | Lauren Fitzgerald Thomas |
 | 531 | 413 | Fancy Twister |
 | 532 | 413 | Juanita Lyons |
-| 533 | 411 | Mighty Spinbuilder |
-| 534 | 411 | Kristen O'Neal |
+| 533 | 411 | Kristen O'Neal |
+| 534 | 411 | Mighty Spinbuilder |
 | 535 | 410 | Tara Lynn Janes |
 | 536 | 410 | Nicole Cannon |
 | 537 | 408 | Brandon Jones |
@@ -646,8 +646,8 @@
 | 638 | 357 | Shannon Byrd |
 | 639 | 357 | Tristan Szolek |
 | 640 | 355 | Amanda Perez |
-| 641 | 354 | Rachel Kaminski |
-| 642 | 354 | Rickey Johnson |
+| 641 | 354 | Rickey Johnson |
+| 642 | 354 | Rachel Kaminski |
 | 643 | 352 | Rose Fx |
 | 644 | 352 | Jean FU Jagielski |
 | 645 | 352 | ruth |
@@ -692,8 +692,8 @@
 | 684 | 329 | Chummy Blockbuilder |
 | 685 | 329 | Jane Crew |
 | 686 | 329 | Snappy Shatterfit |
-| 687 | 328 | Jamie Carter Bierce |
-| 688 | 328 | BabyBird |
+| 687 | 328 | BabyBird |
+| 688 | 328 | Jamie Carter Bierce |
 | 689 | 327 | Aishah Brice |
 | 690 | 326 | Angela Murgia-Owen |
 | 691 | 326 | Ann Knutson Anderson |
@@ -727,8 +727,8 @@
 | 719 | 311 | Megan Phillips |
 | 720 | 310 | Cheeky Brickmatch |
 | 721 | 310 | Wendy Ducheney |
-| 722 | 310 | Audra Williams |
-| 723 | 310 | Beth Decker |
+| 722 | 310 | Beth Decker |
+| 723 | 310 | Audra Williams |
 | 724 | 309 | Byung Bae Park |
 | 725 | 308 | Prado |
 | 726 | 308 | Hyper Riseclear |
@@ -745,8 +745,8 @@
 | 737 | 304 | Melissa McCall |
 | 738 | 304 | James Smith |
 | 739 | 303 | Angie Marie |
-| 740 | 303 | Amanda Schaffer |
-| 741 | 303 | Devin |
+| 740 | 303 | Devin |
+| 741 | 303 | Amanda Schaffer |
 | 742 | 302 | Kena T. Tanner |
 | 743 | 302 | Maxwell Escalera |
 | 744 | 300 | Alice Ball |
@@ -1102,8 +1102,8 @@
 | 1094 | 206 | Gema Garcia |
 | 1095 | 206 | Crystal EatableCupcake Stepney |
 | 1096 | 206 | Antonia Pike |
-| 1097 | 205 | SafetyEyes16 |
-| 1098 | 205 | Snazzy Basepiece |
+| 1097 | 205 | Snazzy Basepiece |
+| 1098 | 205 | SafetyEyes16 |
 | 1099 | 205 | Desiree Hargrove Moore |
 | 1100 | 205 | Tiffney Wroten |
 | 1101 | 205 | Shay Moore |
