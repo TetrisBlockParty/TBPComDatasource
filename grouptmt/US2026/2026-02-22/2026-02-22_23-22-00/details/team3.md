@@ -113,8 +113,8 @@
 | 105 | 733 | mzcatzy |
 | 106 | 723 | Mandy Smith Oldham |
 | 107 | 720 | Raya |
-| 108 | 716 | Calista Jo Dickson |
-| 109 | 716 | Kristie |
+| 108 | 716 | Kristie |
+| 109 | 716 | Calista Jo Dickson |
 | 110 | 715 | Keith J Oshman Jr. |
 | 111 | 713 | Speedy Bridger |
 | 112 | 712 | Katrina Schroeder |
@@ -211,8 +211,8 @@
 | 203 | 415 | Cass Mendoza |
 | 204 | 413 | Loopy Clusterer |
 | 205 | 410 | Stephanie Simpson |
-| 206 | 405 | Sherry Ogden |
-| 207 | 405 | Tom Nault |
+| 206 | 405 | Tom Nault |
+| 207 | 405 | Sherry Ogden |
 | 208 | 404 | Chasity |
 | 209 | 403 | Scott Lindsay |
 | 210 | 401 | Demetrious Shaw Sr. |
@@ -246,8 +246,8 @@
 | 238 | 351 | Eon Harris |
 | 239 | 350 | Kammy Hill |
 | 240 | 349 | Amanda J. Mcneil-Anderson |
-| 241 | 347 | Philip Rock |
-| 242 | 347 | Rebecca Bailey |
+| 241 | 347 | Rebecca Bailey |
+| 242 | 347 | Philip Rock |
 | 243 | 346 | Tamara Deherrera |
 | 244 | 345 | Kelly |
 | 245 | 344 | Rania Zaqout |
@@ -277,8 +277,8 @@
 | 269 | 312 | LadyTorad |
 | 270 | 309 | Felicia Rocha |
 | 271 | 308 | Katrina Turner |
-| 272 | 307 | rnr junky |
-| 273 | 307 | Blocked |
+| 272 | 307 | Blocked |
+| 273 | 307 | rnr junky |
 | 274 | 303 | Alexmac |
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
@@ -286,9 +286,9 @@
 | 278 | 299 | Angie Harper |
 | 279 | 299 | Ray Lader |
 | 280 | 298 | Grams |
-| 281 | 297 | kacihall |
-| 282 | 297 | Jojo M |
-| 283 | 297 | Cheeky Snapper |
+| 281 | 297 | Jojo M |
+| 282 | 297 | Cheeky Snapper |
+| 283 | 297 | kacihall |
 | 284 | 296 | Hoppy Buildout |
 | 285 | 294 | fraulila |
 | 286 | 294 | Tasha Wesson-Torrence |

@@ -437,8 +437,8 @@
 | 429 | 642 | Gary Stash |
 | 430 | 640 | Belle |
 | 431 | 640 | BYM4L |
-| 432 | 639 | Steven Marshaun |
-| 433 | 639 | Rebecca Miller |
+| 432 | 639 | Rebecca Miller |
+| 433 | 639 | Steven Marshaun |
 | 434 | 635 | Mikayala Szaz |
 | 435 | 635 | Dennis McLaurin |
 | 436 | 632 | Irene Jones |

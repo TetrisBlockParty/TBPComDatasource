@@ -103,10 +103,10 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
-| 100 | 512 | Diana Houts |
-| 101 | 512 | Casey Jeffcoat |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
+| 100 | 512 | Casey Jeffcoat |
+| 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
 | 104 | 499 | Trista Leah |
@@ -176,8 +176,8 @@
 | 168 | 314 | Andy Cabral |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
-| 171 | 307 | Bio Nelly |
-| 172 | 307 | Girl |
+| 171 | 307 | Girl |
+| 172 | 307 | Bio Nelly |
 | 173 | 304 | Chaz Duncan |
 | 174 | 303 | shark tato |
 | 175 | 302 | Cursed Hag |
@@ -202,8 +202,8 @@
 | 194 | 281 | Laura |
 | 195 | 281 | Kim Klutz Olson |
 | 196 | 277 | Mary Ann Pabukis |
-| 197 | 276 | Joeliecea Cobb |
-| 198 | 276 | Matt Dell'Olio |
+| 197 | 276 | Matt Dell'Olio |
+| 198 | 276 | Joeliecea Cobb |
 | 199 | 273 | Casey Grabner |
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
@@ -243,8 +243,8 @@
 | 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | blockstar |
-| 239 | 230 | Jade Rian |
+| 238 | 230 | Jade Rian |
+| 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Jenna McGeorge |
@@ -443,8 +443,8 @@
 | 435 | 137 | David Boggs |
 | 436 | 136 | Jen Hallin |
 | 437 | 136 | Dandy Cascadefit |
-| 438 | 135 | Joshua Guess |
-| 439 | 135 | Marcela Johnson |
+| 438 | 135 | Marcela Johnson |
+| 439 | 135 | Joshua Guess |
 | 440 | 134 | Happy Combo |
 | 441 | 133 | Jesus Garcia |
 | 442 | 133 | Dapper Frame |

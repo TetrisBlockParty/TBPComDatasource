@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -143,8 +143,8 @@
 | 135 | 364 | Shauna Loe |
 | 136 | 363 | Sharon Reynolds |
 | 137 | 361 | Tanya Carpenter-Reynolds |
-| 138 | 360 | phrmblk24 |
-| 139 | 360 | Wisa |
+| 138 | 360 | Wisa |
+| 139 | 360 | phrmblk24 |
 | 140 | 359 | Chirpy Smasher |
 | 141 | 357 | Amanda Johnson Huffman |
 | 142 | 356 | Jason Savage |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Giggly Builderline |
-| 216 | 254 | Al Smith Jr |
+| 215 | 254 | Al Smith Jr |
+| 216 | 254 | Giggly Builderline |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Lakeisha Chapman |
@@ -255,10 +255,10 @@
 | 247 | 228 | Giddy Cascade |
 | 248 | 228 | Michael |
 | 249 | 224 | Tipsy Riseclear |
-| 250 | 223 | Christina Backer |
-| 251 | 223 | Erez Yosef |
-| 252 | 222 | Debbie Davis |
-| 253 | 222 | Snappy Bridgepiece |
+| 250 | 223 | Erez Yosef |
+| 251 | 223 | Christina Backer |
+| 252 | 222 | Snappy Bridgepiece |
+| 253 | 222 | Debbie Davis |
 | 254 | 221 | Amy Hess |
 | 255 | 220 | Bouncy Grid |
 | 256 | 219 | Chuck Gannon |
