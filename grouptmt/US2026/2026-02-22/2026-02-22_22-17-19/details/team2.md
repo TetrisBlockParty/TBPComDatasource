@@ -310,8 +310,8 @@
 | 302 | 838 | Steve Man |
 | 303 | 838 | Hong Tang |
 | 304 | 833 | Moni Foxe |
-| 305 | 833 | Cody Nishimura |
-| 306 | 833 | Tim Dyer |
+| 305 | 833 | Tim Dyer |
+| 306 | 833 | Cody Nishimura |
 | 307 | 824 | Chirpy Staggerpiece |
 | 308 | 821 | Angie Bolton Workman |
 | 309 | 821 | Diallo Sparkman |
@@ -451,8 +451,8 @@
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
 | 445 | 603 | Casper The Chonk |
-| 446 | 602 | KhaosLord |
-| 447 | 602 | Shaun Church |
+| 446 | 602 | Shaun Church |
+| 447 | 602 | KhaosLord |
 | 448 | 601 | Moua Ying |
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
@@ -653,8 +653,8 @@
 | 645 | 433 | Tabs Reichert |
 | 646 | 433 | Tom Steffen |
 | 647 | 431 | Joel Rosado |
-| 648 | 431 | Hunter Connors |
-| 649 | 431 | Quinn |
+| 648 | 431 | Quinn |
+| 649 | 431 | Hunter Connors |
 | 650 | 430 | De Hawkins |
 | 651 | 429 | Goofy Catcher |
 | 652 | 429 | Angel Hunnewell |

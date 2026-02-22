@@ -78,8 +78,8 @@
 | 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -103,8 +103,8 @@
 | 95 | 519 | Nugget |
 | 96 | 513 | YoMomma |
 | 97 | 513 | Erin Thomas |
-| 98 | 512 | Diana Houts |
-| 99 | 512 | Casey Jeffcoat |
+| 98 | 512 | Casey Jeffcoat |
+| 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
@@ -125,8 +125,8 @@
 | 117 | 435 | Leslie Thomas |
 | 118 | 431 | Courtney Cicoria |
 | 119 | 429 | Ren Mc |
-| 120 | 427 | Jolly Dashfit |
-| 121 | 427 | KJ Pool |
+| 120 | 427 | KJ Pool |
+| 121 | 427 | Jolly Dashfit |
 | 122 | 418 | Dizzy Tiley |
 | 123 | 417 | Monica Daley |
 | 124 | 414 | Nope Young |
@@ -138,14 +138,14 @@
 | 130 | 391 | Lush Linkfall |
 | 131 | 391 | Austin Owens |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Livvy |
-| 140 | 353 | Tyler Terrific |
+| 139 | 353 | Tyler Terrific |
+| 140 | 353 | Livvy |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Trish |
 | 143 | 348 | Silly Zonebuilder |

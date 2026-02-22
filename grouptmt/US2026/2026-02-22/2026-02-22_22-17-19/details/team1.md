@@ -213,8 +213,8 @@
 | 205 | 260 | Cheeky Pop |
 | 206 | 256 | Chris65 |
 | 207 | 255 | Speedy Liney |
-| 208 | 254 | Giggly Builderline |
-| 209 | 254 | Al Smith Jr |
+| 208 | 254 | Al Smith Jr |
+| 209 | 254 | Giggly Builderline |
 | 210 | 253 | Jamie Jury |
 | 211 | 252 | Dena Kayy |
 | 212 | 249 | Sam Williams |
@@ -232,8 +232,8 @@
 | 224 | 240 | DaRascal |
 | 225 | 240 | Daring Fitclear |
 | 226 | 239 | Lacy Wolfe |
-| 227 | 238 | Sarah Somers Gray |
-| 228 | 238 | Tiffany Smith |
+| 227 | 238 | Tiffany Smith |
+| 228 | 238 | Sarah Somers Gray |
 | 229 | 235 | Bindi |
 | 230 | 234 | Jessie Lynn |
 | 231 | 234 | Shanae Grant |
@@ -250,11 +250,11 @@
 | 242 | 228 | Michael |
 | 243 | 227 | Evan Richmond |
 | 244 | 224 | ParisandCory Champagne |
-| 245 | 223 | Christina Backer |
-| 246 | 223 | Erez Yosef |
-| 247 | 223 | Thorne Shumate |
-| 248 | 222 | Snappy Bridgepiece |
-| 249 | 222 | Debbie Davis |
+| 245 | 223 | Thorne Shumate |
+| 246 | 223 | Christina Backer |
+| 247 | 223 | Erez Yosef |
+| 248 | 222 | Debbie Davis |
+| 249 | 222 | Snappy Bridgepiece |
 | 250 | 221 | Amy Hess |
 | 251 | 220 | Bouncy Grid |
 | 252 | 219 | Joe Coon |

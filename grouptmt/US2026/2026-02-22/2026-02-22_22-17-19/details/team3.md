@@ -129,8 +129,8 @@
 | 121 | 621 | Cherry Parker |
 | 122 | 618 | Bea Miles |
 | 123 | 613 | JerseyJess |
-| 124 | 595 | Patricia White |
-| 125 | 595 | Giddy Drop |
+| 124 | 595 | Giddy Drop |
+| 125 | 595 | Patricia White |
 | 126 | 590 | Santeria Trece Candles |
 | 127 | 589 | Nora Rogers |
 | 128 | 588 | Justin Ritter |
