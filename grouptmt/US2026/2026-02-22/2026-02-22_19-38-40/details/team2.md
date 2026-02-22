@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Prado |
-| 189 | 1131 | Stacey Clement |
+| 188 | 1131 | Stacey Clement |
+| 189 | 1131 | Prado |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -575,8 +575,8 @@
 | 567 | 466 | Crystal Greene |
 | 568 | 465 | James Smith |
 | 569 | 464 | Ryan Stadel |
-| 570 | 463 | Jaye EL Hunter |
-| 571 | 463 | Cody Nishimura |
+| 570 | 463 | Cody Nishimura |
+| 571 | 463 | Jaye EL Hunter |
 | 572 | 462 | Jennifer Scott |
 | 573 | 462 | Daphne Jordan |
 | 574 | 462 | Jennifer Monroe Kelly |
@@ -832,8 +832,8 @@
 | 824 | 327 | Amanda Chamberlain |
 | 825 | 326 | RetroLemur |
 | 826 | 326 | Jennifer Mahon |
-| 827 | 325 | Noel Tarmy |
-| 828 | 325 | August Hale |
+| 827 | 325 | August Hale |
+| 828 | 325 | Noel Tarmy |
 | 829 | 325 | Justin Hines |
 | 830 | 324 | Dale Haanpaa |
 | 831 | 323 | Trista Carter |

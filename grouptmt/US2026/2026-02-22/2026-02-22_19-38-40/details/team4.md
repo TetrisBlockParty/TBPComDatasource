@@ -183,8 +183,8 @@
 | 175 | 268 | Christina LR |
 | 176 | 268 | Mimi |
 | 177 | 267 | Casey Grabner |
-| 178 | 267 | Kathy Brookins |
-| 179 | 267 | Holly |
+| 178 | 267 | Holly |
+| 179 | 267 | Kathy Brookins |
 | 180 | 266 | Laura |
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
@@ -225,8 +225,8 @@
 | 217 | 227 | Kim Hunt |
 | 218 | 226 | Zesty Twistbuilder |
 | 219 | 225 | Perky Patternblock |
-| 220 | 221 | PurpleMoonMa |
-| 221 | 221 | Rheanda Weaskus |
+| 220 | 221 | Rheanda Weaskus |
+| 221 | 221 | PurpleMoonMa |
 | 222 | 220 | Joanna |
 | 223 | 219 | Malakai Darien Fox |
 | 224 | 219 | Dizzy Matchzone |
@@ -262,8 +262,8 @@
 | 254 | 198 | Calvin Dennis |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
-| 257 | 195 | 中山成巳 |
-| 258 | 195 | Snippy Puzzle |
+| 257 | 195 | Snippy Puzzle |
+| 258 | 195 | 中山成巳 |
 | 259 | 194 | Zany Twisterfit |
 | 260 | 192 | Stephme310 |
 | 261 | 192 | Andrew Dang |
