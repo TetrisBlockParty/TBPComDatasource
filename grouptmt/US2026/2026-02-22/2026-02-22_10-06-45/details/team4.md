@@ -100,8 +100,8 @@
 | 92 | 404 | Courtney Cicoria |
 | 93 | 403 | shar |
 | 94 | 401 | Zippy Gridlock |
-| 95 | 396 | Alicia Bass |
-| 96 | 396 | Amy Suckarieh |
+| 95 | 396 | Amy Suckarieh |
+| 96 | 396 | Alicia Bass |
 | 97 | 392 | Ericca Eldridge |
 | 98 | 391 | Ramel Rhodes |
 | 99 | 390 | Carlton Unfiltered |
@@ -177,8 +177,8 @@
 | 169 | 217 | Chaz Duncan |
 | 170 | 215 | Jessica Bohlken |
 | 171 | 215 | Ren Mc |
-| 172 | 213 | Sarah Neathery |
-| 173 | 213 | Jason Allen |
+| 172 | 213 | Jason Allen |
+| 173 | 213 | Sarah Neathery |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |

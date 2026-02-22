@@ -401,8 +401,8 @@
 | 393 | 522 | Joseph Musick |
 | 394 | 522 | Lylymom |
 | 395 | 521 | Tj Ball |
-| 396 | 520 | Angela Lynn |
-| 397 | 520 | Maddy Petersen |
+| 396 | 520 | Maddy Petersen |
+| 397 | 520 | Angela Lynn |
 | 398 | 519 | Rob Brown |
 | 399 | 517 | Alex Dungo Hoang |
 | 400 | 517 | Porsche' Nicole |
@@ -499,8 +499,8 @@
 | 491 | 440 | Victoria Regina Girolami |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
-| 494 | 436 | Niceday |
-| 495 | 436 | Brenda Pierpoint |
+| 494 | 436 | Brenda Pierpoint |
+| 495 | 436 | Niceday |
 | 496 | 435 | Regina Young |
 | 497 | 435 | James Louie |
 | 498 | 433 | KayLynn Ogden McClelland |
@@ -765,8 +765,8 @@
 | 757 | 297 | Ashley Robbins |
 | 758 | 297 | Britney M. |
 | 759 | 296 | Frisky Riserbuilder |
-| 760 | 296 | Epic Fitzone |
-| 761 | 296 | Zappy Dropmatch |
+| 760 | 296 | Zappy Dropmatch |
+| 761 | 296 | Epic Fitzone |
 | 762 | 296 | Jennifer Darby |
 | 763 | 295 | Noel Tarmy |
 | 764 | 294 | Amanda Edwards |
@@ -1287,11 +1287,11 @@
 | 1279 | 176 | Dandy Drop |
 | 1280 | 176 | Jess Orosz |
 | 1281 | 176 | Gigi |
-| 1282 | 176 | Michelle Grant-Moncrieft |
-| 1283 | 176 | Brec2024 |
-| 1284 | 176 | kippykay |
-| 1285 | 175 | Tara Isenhart |
-| 1286 | 175 | Irna |
+| 1282 | 176 | kippykay |
+| 1283 | 176 | Michelle Grant-Moncrieft |
+| 1284 | 176 | Brec2024 |
+| 1285 | 175 | Irna |
+| 1286 | 175 | Tara Isenhart |
 | 1287 | 175 | Charming Leech |
 | 1288 | 175 | Sherisse Bigelow-Staples |
 | 1289 | 175 | Fancy Smasher |
