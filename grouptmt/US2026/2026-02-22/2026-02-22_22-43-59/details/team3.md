@@ -186,13 +186,13 @@
 | 178 | 460 | Araceli Parra |
 | 179 | 460 | Danielle Allison |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Jim Mathews |
-| 182 | 457 | Shannon Matthew Byers |
+| 181 | 457 | Shannon Matthew Byers |
+| 182 | 457 | Jim Mathews |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
-| 186 | 432 | Jenny Hrndz |
-| 187 | 432 | Christine Trester |
+| 186 | 432 | Christine Trester |
+| 187 | 432 | Jenny Hrndz |
 | 188 | 432 | Luciana Braganca Vieira |
 | 189 | 431 | Sarah Cowan Burgos |
 | 190 | 431 | Loopy Fallmatch |
@@ -277,8 +277,8 @@
 | 269 | 302 | Gray Hicks |
 | 270 | 301 | Betty Rosas |
 | 271 | 300 | Tiffany Davie |
-| 272 | 299 | Ray Lader |
-| 273 | 299 | Angie Harper |
+| 272 | 299 | Angie Harper |
+| 273 | 299 | Ray Lader |
 | 274 | 298 | Grams |
 | 275 | 297 | Cheeky Snapper |
 | 276 | 297 | Connie Mohler-Fair |
@@ -290,8 +290,8 @@
 | 282 | 293 | Tye Stovall |
 | 283 | 293 | Beaudie Stroebel |
 | 284 | 291 | Carrie Huskey |
-| 285 | 289 | Duane Bright |
-| 286 | 289 | DidIdothat |
+| 285 | 289 | DidIdothat |
+| 286 | 289 | Duane Bright |
 | 287 | 287 | Sabrina Hardrick |
 | 288 | 284 | fraulila |
 | 289 | 282 | LaShey Thompson |
@@ -343,8 +343,8 @@
 | 335 | 251 | Alice |
 | 336 | 251 | Naur |
 | 337 | 250 | Tosha Griffey |
-| 338 | 247 | Daring Builder |
-| 339 | 247 | Jessica |
+| 338 | 247 | Jessica |
+| 339 | 247 | Daring Builder |
 | 340 | 246 | Erika Thornton |
 | 341 | 245 | Latoya Mayne |
 | 342 | 244 | Quackers |

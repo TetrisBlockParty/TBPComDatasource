@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -181,8 +181,8 @@
 | 173 | 302 | Mike Ames |
 | 174 | 298 | femmefatale |
 | 175 | 298 | Danielle Little-Daugherty |
-| 176 | 296 | ALFD |
-| 177 | 296 | Madison Wicks |
+| 176 | 296 | Madison Wicks |
+| 177 | 296 | ALFD |
 | 178 | 295 | David Lutcher |
 | 179 | 294 | Margo Wagner |
 | 180 | 287 | Witty Builderfit |
@@ -285,8 +285,8 @@
 | 277 | 203 | Andrew Boone |
 | 278 | 203 | Spunky Builderpiece |
 | 279 | 202 | Amanda Holibaugh |
-| 280 | 201 | Beau Galvan |
-| 281 | 201 | Colleen Wise |
+| 280 | 201 | Colleen Wise |
+| 281 | 201 | Beau Galvan |
 | 282 | 200 | Breanna Luna |
 | 283 | 200 | Silly Align |
 | 284 | 198 | Happy Snapbuild |
@@ -322,8 +322,8 @@
 | 314 | 186 | Nikki Fridley |
 | 315 | 185 | Hasty Columnbuilder |
 | 316 | 185 | Oscar Zamora |
-| 317 | 184 | Cranky Pattern |
-| 318 | 184 | Itspaigebro |
+| 317 | 184 | Itspaigebro |
+| 318 | 184 | Cranky Pattern |
 | 319 | 183 | Dino |
 | 320 | 181 | David DeSantis |
 | 321 | 179 | Larry Tilton |

@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | KM8 |
@@ -147,8 +147,8 @@
 | 139 | 373 | Joseph Guthrie |
 | 140 | 372 | Swanky Fitline |
 | 141 | 355 | Kristina Black |
-| 142 | 353 | Tyler Terrific |
-| 143 | 353 | Livvy |
+| 142 | 353 | Livvy |
+| 143 | 353 | Tyler Terrific |
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
@@ -299,7 +299,7 @@
 | 291 | 186 | June Hoffman |
 | 292 | 185 | Laura Hosford |
 | 293 | 185 | Morti |
-| 294 | 185 | Laura Hosford |
+| 294 | 185 | Nubian1 |
 | 295 | 184 | Pee |
 | 296 | 183 | Twisty Risebuilder |
 | 297 | 183 | KayM |

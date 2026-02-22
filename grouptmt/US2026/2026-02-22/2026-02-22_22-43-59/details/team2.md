@@ -592,8 +592,8 @@
 | 584 | 478 | Christina Ashley |
 | 585 | 477 | Juanita Lyons |
 | 586 | 476 | Chummy Blockbuilder |
-| 587 | 476 | Cecilia A Jenkins |
-| 588 | 476 | Ashlee Cruz |
+| 587 | 476 | Ashlee Cruz |
+| 588 | 476 | Cecilia A Jenkins |
 | 589 | 476 | Kiana Boschh |
 | 590 | 475 | Lee Harper |
 | 591 | 475 | Mia Muse Best |
@@ -601,9 +601,9 @@
 | 593 | 474 | Calandra Shaya Robinson |
 | 594 | 474 | Jennifer Scott |
 | 595 | 474 | KayLynn Ogden McClelland |
-| 596 | 473 | Mary Marie |
-| 597 | 473 | Wuntayk |
-| 598 | 473 | Tracy Wise |
+| 596 | 473 | Tracy Wise |
+| 597 | 473 | Mary Marie |
+| 598 | 473 | Wuntayk |
 | 599 | 473 | coleksquad |
 | 600 | 472 | Arwa Fatimah |
 | 601 | 471 | Rae Rae |
