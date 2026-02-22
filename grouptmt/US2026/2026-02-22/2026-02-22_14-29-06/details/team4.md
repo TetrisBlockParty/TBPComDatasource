@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -114,8 +114,8 @@
 | 106 | 395 | Marie-Pier Desjardins |
 | 107 | 393 | Carlton Unfiltered |
 | 108 | 392 | Ericca Eldridge |
-| 109 | 391 | Monica Daley |
-| 110 | 391 | Ramel Rhodes |
+| 109 | 391 | Ramel Rhodes |
+| 110 | 391 | Monica Daley |
 | 111 | 387 | Denise Carlson |
 | 112 | 382 | Lori Walker |
 | 113 | 373 | Joseph Guthrie |

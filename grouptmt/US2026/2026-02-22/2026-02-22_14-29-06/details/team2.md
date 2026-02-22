@@ -542,8 +542,8 @@
 | 534 | 438 | Johnny Yeates |
 | 535 | 437 | Bubbly Snapfit |
 | 536 | 436 | Niceday |
-| 537 | 435 | Regina Young |
-| 538 | 435 | James Louie |
+| 537 | 435 | James Louie |
+| 538 | 435 | Regina Young |
 | 539 | 433 | KayLynn Ogden McClelland |
 | 540 | 432 | Lucy Marshall |
 | 541 | 431 | Quinn |
@@ -590,8 +590,8 @@
 | 582 | 406 | Kimberly Ann |
 | 583 | 406 | Erin StFrancis |
 | 584 | 404 | Dawn L Washington-Feuquay |
-| 585 | 403 | Goofy Dasher |
-| 586 | 403 | Nate Skidmore |
+| 585 | 403 | Nate Skidmore |
+| 586 | 403 | Goofy Dasher |
 | 587 | 401 | Moua Ying |
 | 588 | 401 | Adam Simmons |
 | 589 | 401 | De Hawkins |
@@ -641,8 +641,8 @@
 | 633 | 375 | Cecilia A Jenkins |
 | 634 | 374 | Amanda Perez |
 | 635 | 373 | Ashley Marie |
-| 636 | 372 | Ebony Deloach Bryant |
-| 637 | 372 | Lathasa Newkirk |
+| 636 | 372 | Lathasa Newkirk |
+| 637 | 372 | Ebony Deloach Bryant |
 | 638 | 371 | Brenda Messer |
 | 639 | 370 | Angela Murgia-Owen |
 | 640 | 370 | NanDa Cruzan VI |
@@ -976,9 +976,9 @@
 | 968 | 252 | Aleasha M Brown |
 | 969 | 252 | Breezy Tilt |
 | 970 | 251 | Regina Unruh |
-| 971 | 251 | Bold Clusterfit |
+| 971 | 251 | Erika Deer Kauffman |
 | 972 | 251 | Dane Reing |
-| 973 | 251 | Erika Deer Kauffman |
+| 973 | 251 | Bold Clusterfit |
 | 974 | 251 | Emoniee Sa'niaya |
 | 975 | 251 | Chipper Dashpiece |
 | 976 | 251 | Kimmie Zimmerman-Rocha |
@@ -988,8 +988,8 @@
 | 980 | 250 | Drew Berkelbach |
 | 981 | 249 | Joshua Mullings |
 | 982 | 249 | J.L. Roberts |
-| 983 | 249 | Andrew Engman |
-| 984 | 249 | Angela Yantz |
+| 983 | 249 | Angela Yantz |
+| 984 | 249 | Andrew Engman |
 | 985 | 248 | Jaybee Nguyen |
 | 986 | 248 | CleverAngel |
 | 987 | 248 | Snazzy Basepiece |

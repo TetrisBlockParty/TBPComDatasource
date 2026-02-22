@@ -154,8 +154,8 @@
 | 146 | 439 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
-| 149 | 430 | Joye Sims Binion |
-| 150 | 430 | Tasha Gillespie |
+| 149 | 430 | Tasha Gillespie |
+| 150 | 430 | Joye Sims Binion |
 | 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
@@ -178,8 +178,8 @@
 | 170 | 384 | Dapper Snap |
 | 171 | 382 | Scott Carleton |
 | 172 | 380 | Tasha Schriewer |
-| 173 | 378 | Chris Bell |
-| 174 | 378 | Nicole Flippo |
+| 173 | 378 | Nicole Flippo |
+| 174 | 378 | Chris Bell |
 | 175 | 376 | Loopy Clusterer |
 | 176 | 375 | Shunta Jacobs |
 | 177 | 374 | Sherry Ogden |
@@ -258,8 +258,8 @@
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
 | 252 | 262 | Joe-Maggie Mathews |
-| 253 | 261 | Tiffany Ford |
-| 254 | 261 | Tasha Wesson-Torrence |
+| 253 | 261 | Tasha Wesson-Torrence |
+| 254 | 261 | Tiffany Ford |
 | 255 | 261 | Marquita Sheard |
 | 256 | 260 | Grams |
 | 257 | 260 | Nikki Pags |
@@ -447,9 +447,9 @@
 | 439 | 147 | Megan Rathmanner |
 | 440 | 147 | Erika Thornton |
 | 441 | 146 | Sdot |
-| 442 | 146 | Sarah Whalen |
+| 442 | 146 | Sara Dunn |
 | 443 | 146 | Wettnippz |
-| 444 | 146 | Sara Dunn |
+| 444 | 146 | Sarah Whalen |
 | 445 | 145 | Eboni Starr |
 | 446 | 145 | Melissa Snyder |
 | 447 | 144 | Crystal Hine |
