@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 619 | Valerie Roberts |
 | 61 | 614 | TheNeesh50 |
@@ -261,10 +261,10 @@
 | 253 | 154 | Zany Shatterer |
 | 254 | 153 | Empress Oasis |
 | 255 | 153 | Lush Linkfall |
-| 256 | 152 | Tanner Lund |
-| 257 | 152 | Angela Geist Jusinski |
-| 258 | 152 | Faja |
-| 259 | 152 | Austin Owens |
+| 256 | 152 | Angela Geist Jusinski |
+| 257 | 152 | Tanner Lund |
+| 258 | 152 | Austin Owens |
+| 259 | 152 | Faja |
 | 260 | 151 | Joseph Pace |
 | 261 | 150 | Jared Gutwein |
 | 262 | 149 | Shainne Brewer |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Elie Pean |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |

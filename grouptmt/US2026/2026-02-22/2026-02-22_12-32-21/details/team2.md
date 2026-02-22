@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 894 | Auntie B |
@@ -344,8 +344,8 @@
 | 336 | 627 | Victoria Moore-Smith |
 | 337 | 620 | Brandon Armstrong |
 | 338 | 617 | Leslie Ann Carter |
-| 339 | 613 | Caitlyn Blackwell |
-| 340 | 613 | Breezy Filler |
+| 339 | 613 | Breezy Filler |
+| 340 | 613 | Caitlyn Blackwell |
 | 341 | 613 | Ellie Jonas |
 | 342 | 611 | Em Chen |
 | 343 | 611 | Julio A Laracuente |
@@ -559,8 +559,8 @@
 | 551 | 413 | Fancy Twister |
 | 552 | 412 | Jason H Baker |
 | 553 | 412 | Wuntayk |
-| 554 | 411 | Kristen O'Neal |
-| 555 | 411 | Mighty Spinbuilder |
+| 554 | 411 | Mighty Spinbuilder |
+| 555 | 411 | Kristen O'Neal |
 | 556 | 410 | Nicole Cannon |
 | 557 | 408 | Abimbola Bimbo |
 | 558 | 408 | Stefanie Zonzini-Gagliardi |
@@ -719,8 +719,8 @@
 | 711 | 322 | Michelle Pike |
 | 712 | 322 | Christina Jarvis-Swarbrick |
 | 713 | 321 | Samantha Scibelli |
-| 714 | 321 | Ashley Criner |
-| 715 | 321 | Tamara Bailey |
+| 714 | 321 | Tamara Bailey |
+| 715 | 321 | Ashley Criner |
 | 716 | 320 | Tash Bell |
 | 717 | 320 | Mary Boss |
 | 718 | 319 | Prado |
@@ -761,8 +761,8 @@
 | 753 | 304 | NFLPITMOM |
 | 754 | 304 | Melissa McCall |
 | 755 | 303 | Angie Marie |
-| 756 | 303 | Devin |
-| 757 | 303 | Amanda Schaffer |
+| 756 | 303 | Amanda Schaffer |
+| 757 | 303 | Devin |
 | 758 | 302 | Kena T. Tanner |
 | 759 | 302 | Maxwell Escalera |
 | 760 | 302 | Joel Rosado |
@@ -781,8 +781,8 @@
 | 773 | 296 | Kelsey Sullivan |
 | 774 | 296 | Frisky Riserbuilder |
 | 775 | 295 | Noel Tarmy |
-| 776 | 294 | Amanda Edwards |
-| 777 | 294 | Sveta Lana |
+| 776 | 294 | Sveta Lana |
+| 777 | 294 | Amanda Edwards |
 | 778 | 293 | Ann Marie Davis |
 | 779 | 292 | Bryan Werleman |
 | 780 | 292 | Deana |

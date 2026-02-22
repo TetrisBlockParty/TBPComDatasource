@@ -274,13 +274,13 @@
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Stephanie Hill |
-| 275 | 225 | Dirtgirl27 |
+| 274 | 225 | Dirtgirl27 |
+| 275 | 225 | Stephanie Hill |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -438,8 +438,8 @@
 | 430 | 142 | Jl |
 | 431 | 141 | Melissa Snyder |
 | 432 | 141 | Bhreagh Gentile |
-| 433 | 141 | Reina Roth |
-| 434 | 141 | Weerae |
+| 433 | 141 | Weerae |
+| 434 | 141 | Reina Roth |
 | 435 | 140 | Jumpy Curvebuilder |
 | 436 | 140 | Linda Draper |
 | 437 | 140 | Boldy Corner |
@@ -514,8 +514,8 @@
 | 506 | 119 | Geoffrey Nash |
 | 507 | 119 | Tracey Cox |
 | 508 | 119 | Brian Quigley |
-| 509 | 118 | Fancy Curver |
-| 510 | 118 | Damian Reid |
+| 509 | 118 | Damian Reid |
+| 510 | 118 | Fancy Curver |
 | 511 | 118 | Scott Doss |
 | 512 | 118 | Martin Bernier |
 | 513 | 117 | Dee Pratt |

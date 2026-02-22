@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Gracie |
-| 110 | 333 | Brandi Huntington |
+| 109 | 333 | Brandi Huntington |
+| 110 | 333 | Gracie |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -127,8 +127,8 @@
 | 119 | 316 | Ly Phethmany |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Jason Jones |
-| 123 | 310 | Seth Wesson |
+| 122 | 310 | Seth Wesson |
+| 123 | 310 | Jason Jones |
 | 124 | 306 | Happy Basegrid |
 | 125 | 304 | Nicole Roseberry Weber |
 | 126 | 301 | Lehrin Maria |
@@ -137,16 +137,16 @@
 | 129 | 290 | Death |
 | 130 | 290 | Sarah Roberts |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Rachael |
-| 133 | 284 | Emily Adelaide Wheatley |
+| 132 | 284 | Emily Adelaide Wheatley |
+| 133 | 284 | Rachael |
 | 134 | 283 | Franswa |
 | 135 | 282 | Snippy Wipebuilder |
 | 136 | 282 | Timothy Dew |
 | 137 | 282 | Tyler Werts |
 | 138 | 282 | Cool Shiftsnap |
 | 139 | 276 | Dandy Basegrid |
-| 140 | 270 | Ash Galvan |
-| 141 | 270 | Mandyy Rae |
+| 140 | 270 | Mandyy Rae |
+| 141 | 270 | Ash Galvan |
 | 142 | 268 | GATOR |
 | 143 | 265 | Nutty Spinblock |
 | 144 | 265 | SkipTheSadSauce |
@@ -264,8 +264,8 @@
 | 256 | 167 | Nery Martinez |
 | 257 | 167 | Cranky Pattern |
 | 258 | 166 | Carrie Smith |
-| 259 | 165 | Silly Align |
-| 260 | 165 | Nadine Velardo |
+| 259 | 165 | Nadine Velardo |
+| 260 | 165 | Silly Align |
 | 261 | 164 | Desiree Deschaine Havee |
 | 262 | 163 | Tyler Whitley |
 | 263 | 163 | Davery Spencer Adair |
