@@ -287,10 +287,10 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Vincent Petrella |
-| 283 | 700 | Hong Tang |
-| 284 | 700 | Beverly Owens |
-| 285 | 700 | Rosemadder |
+| 282 | 700 | Hong Tang |
+| 283 | 700 | Vincent Petrella |
+| 284 | 700 | Rosemadder |
+| 285 | 700 | Beverly Owens |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
@@ -362,8 +362,8 @@
 | 354 | 584 | Ginnell Browner |
 | 355 | 582 | Gary Stash |
 | 356 | 581 | Jerry Tempelmeyer |
-| 357 | 579 | Jackie Avila |
-| 358 | 579 | AgileDragon |
+| 357 | 579 | AgileDragon |
+| 358 | 579 | Jackie Avila |
 | 359 | 579 | Roy Salyer |
 | 360 | 576 | Leslie Johnson Guinto |
 | 361 | 572 | Chris Wanner |
@@ -531,8 +531,8 @@
 | 523 | 424 | Mia Muse Best |
 | 524 | 423 | Sam |
 | 525 | 422 | coleksquad |
-| 526 | 421 | Vonceial Boone |
-| 527 | 421 | SwampRebel |
+| 526 | 421 | SwampRebel |
+| 527 | 421 | Vonceial Boone |
 | 528 | 420 | LaWanda Powell |
 | 529 | 419 | Pocho Zavala |
 | 530 | 419 | Josh Dill |
@@ -613,8 +613,8 @@
 | 605 | 376 | Darlene Bowman |
 | 606 | 375 | Cecilia A Jenkins |
 | 607 | 375 | Lively Edgepiece |
-| 608 | 373 | Jessica Hughes |
-| 609 | 373 | Hunter Connors |
+| 608 | 373 | Hunter Connors |
+| 609 | 373 | Jessica Hughes |
 | 610 | 373 | Ashley Marie |
 | 611 | 372 | Ebony Deloach Bryant |
 | 612 | 371 | Brenda Messer |
@@ -684,8 +684,8 @@
 | 676 | 337 | Tum |
 | 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Savannah Alexander |
-| 679 | 336 | Austin Wilson |
-| 680 | 336 | bru |
+| 679 | 336 | bru |
+| 680 | 336 | Austin Wilson |
 | 681 | 336 | Swanky Columnbuilder |
 | 682 | 335 | Brooke Leigh Strube |
 | 683 | 335 | Maria Louise |
@@ -716,8 +716,8 @@
 | 708 | 320 | Mary Boss |
 | 709 | 319 | RetroLemur |
 | 710 | 318 | Jennifer Mahon |
-| 711 | 317 | Zombi3 |
-| 712 | 317 | Ashlyn Berner |
+| 711 | 317 | Ashlyn Berner |
+| 712 | 317 | Zombi3 |
 | 713 | 317 | Aireka Roman |
 | 714 | 316 | Jenn Marie |
 | 715 | 316 | Epic Spinfit |
@@ -744,8 +744,8 @@
 | 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | Narutofreak13 |
-| 740 | 305 | MamaBear11 |
+| 739 | 305 | MamaBear11 |
+| 740 | 305 | Narutofreak13 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -792,8 +792,8 @@
 | 784 | 287 | Epic Stackzone |
 | 785 | 286 | Kelsey Sullivan |
 | 786 | 285 | Kimberly Mitchell |
-| 787 | 285 | Epic Stackbuilder |
-| 788 | 285 | Court |
+| 787 | 285 | Court |
+| 788 | 285 | Epic Stackbuilder |
 | 789 | 284 | Hillary Franklin |
 | 790 | 282 | Nutty Slice |
 | 791 | 281 | Anthony |
@@ -989,8 +989,8 @@
 | 981 | 233 | Andrew Engman |
 | 982 | 232 | Chirpy Snapper |
 | 983 | 232 | P. D. Paige |
-| 984 | 231 | Michelle Fleming Luna |
-| 985 | 231 | Vung Nguyen |
+| 984 | 231 | Vung Nguyen |
+| 985 | 231 | Michelle Fleming Luna |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
 | 988 | 230 | Laura Mcfee |
@@ -1016,7 +1016,7 @@
 | 1008 | 226 | Anthony D Gritz Jr |
 | 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
-| 1011 | 225 | Caitlin Johnson |
+| 1011 | 225 | Tyler C. Jung |
 | 1012 | 225 | Samantha Morgan |
 | 1013 | 225 | Caitlin Johnson |
 | 1014 | 225 | Anastacio Hernandez |
@@ -1039,8 +1039,8 @@
 | 1031 | 223 | Erin Garlanger |
 | 1032 | 222 | Angel Moorhead |
 | 1033 | 222 | Lovely |
-| 1034 | 222 | Crystal Herndon |
-| 1035 | 222 | Wacky Edgefit |
+| 1034 | 222 | Wacky Edgefit |
+| 1035 | 222 | Crystal Herndon |
 | 1036 | 222 | Daring Lift |
 | 1037 | 220 | Amy Reynolds |
 | 1038 | 220 | Sandra McNab |
@@ -1308,8 +1308,8 @@
 | 1300 | 175 | Fancy Smasher |
 | 1301 | 175 | KwaDaGod |
 | 1302 | 175 | Sherisse Bigelow-Staples |
-| 1303 | 175 | Tara Isenhart |
-| 1304 | 175 | Irna |
+| 1303 | 175 | Irna |
+| 1304 | 175 | Tara Isenhart |
 | 1305 | 175 | Charming Leech |
 | 1306 | 174 | Virginia LaTour |
 | 1307 | 174 | Kierra Kierra |
@@ -1360,8 +1360,8 @@
 | 1352 | 170 | Tigro Ace |
 | 1353 | 170 | Wayne Hayward |
 | 1354 | 169 | Jamie Frank Karolyi |
-| 1355 | 169 | Jaci Marie |
-| 1356 | 169 | Micky |
+| 1355 | 169 | Micky |
+| 1356 | 169 | Jaci Marie |
 | 1357 | 169 | Christy Green |
 | 1358 | 169 | Zappy Stackbuilder |
 | 1359 | 169 | Ubu |

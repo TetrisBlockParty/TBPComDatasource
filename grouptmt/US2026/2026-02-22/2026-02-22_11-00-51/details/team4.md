@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -133,8 +133,8 @@
 | 125 | 291 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | Daria Rycewicz |
-| 129 | 286 | shark tato |
+| 128 | 286 | shark tato |
+| 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Desi Desporte |
@@ -160,11 +160,11 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Kris Bartlett |
@@ -188,8 +188,8 @@
 | 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |

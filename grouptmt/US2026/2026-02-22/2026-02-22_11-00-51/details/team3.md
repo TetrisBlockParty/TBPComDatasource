@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Rachael McClain Owens |
-| 104 | 565 | Patty Allen |
+| 103 | 565 | Patty Allen |
+| 104 | 565 | Rachael McClain Owens |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -184,8 +184,8 @@
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Stephanie Burtin |
-| 180 | 357 | Tom Nault |
+| 179 | 357 | Tom Nault |
+| 180 | 357 | Stephanie Burtin |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -467,11 +467,11 @@
 | 459 | 129 | Elisha L Allman |
 | 460 | 128 | David Kozen |
 | 461 | 127 | Jumpy Wrecker |
-| 462 | 126 | demon14 |
+| 462 | 126 | Lush Balance |
 | 463 | 126 | Tipsy Puzzle |
-| 464 | 126 | Lush Balance |
-| 465 | 126 | Crystal Martin |
-| 466 | 126 | Spicy Caster |
+| 464 | 126 | demon14 |
+| 465 | 126 | Spicy Caster |
+| 466 | 126 | Crystal Martin |
 | 467 | 125 | Shimika Enay Wallace |
 | 468 | 125 | Felicia Doxey |
 | 469 | 125 | BugMansMom |
