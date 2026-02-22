@@ -512,8 +512,8 @@
 | 504 | 429 | Tabs Reichert |
 | 505 | 428 | Arkei Luster |
 | 506 | 428 | Shyenn Gadsby |
-| 507 | 427 | Quinn |
-| 508 | 427 | Destiny Cozier |
+| 507 | 427 | Destiny Cozier |
+| 508 | 427 | Quinn |
 | 509 | 427 | Aimee Campbell |
 | 510 | 427 | Kori Beth Babb |
 | 511 | 426 | Ashley Dow |
@@ -861,8 +861,8 @@
 | 853 | 263 | Elizabeth Leinen |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Gina Gina |
-| 857 | 261 | Dany Murillo |
+| 856 | 261 | Dany Murillo |
+| 857 | 261 | Gina Gina |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Giggly Snap |
 | 860 | 260 | Lianne Giandalone LaBounty |
@@ -1057,9 +1057,9 @@
 | 1049 | 214 | Perk Diggler |
 | 1050 | 214 | FloJo |
 | 1051 | 214 | Cass Shirley |
-| 1052 | 214 | Luciano Andre Versace Grismondie |
-| 1053 | 214 | Happy Puzzle |
-| 1054 | 214 | Michele Phelps |
+| 1052 | 214 | Happy Puzzle |
+| 1053 | 214 | Michele Phelps |
+| 1054 | 214 | Luciano Andre Versace Grismondie |
 | 1055 | 213 | Chirpy Tilt |
 | 1056 | 213 | Janai Vrabel |
 | 1057 | 213 | Hannah Leigh Pelofsky |

@@ -192,8 +192,8 @@
 | 184 | 347 | Nicole Flippo |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Gumbo |
-| 188 | 338 | Leah Barnett |
+| 187 | 338 | Leah Barnett |
+| 188 | 338 | Gumbo |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -226,8 +226,8 @@
 | 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Cheeky Snapper |
-| 222 | 283 | Charles Perrone |
+| 221 | 283 | Charles Perrone |
+| 222 | 283 | Cheeky Snapper |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -244,8 +244,8 @@
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Tiffany Ford |
-| 240 | 261 | Tasha Wesson-Torrence |
+| 239 | 261 | Tasha Wesson-Torrence |
+| 240 | 261 | Tiffany Ford |
 | 241 | 261 | Marquita Sheard |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
@@ -303,8 +303,8 @@
 | 295 | 208 | AlsoJess |
 | 296 | 207 | Jessica |
 | 297 | 207 | angieelyn |
-| 298 | 206 | Tammy Rosenberry |
-| 299 | 206 | Stephanie Hill |
+| 298 | 206 | Stephanie Hill |
+| 299 | 206 | Tammy Rosenberry |
 | 300 | 206 | Tracy Martin |
 | 301 | 205 | Kirhonda Autmon |
 | 302 | 204 | Aerian Preston |
@@ -340,8 +340,8 @@
 | 332 | 179 | Christian Werndl |
 | 333 | 178 | Jennifer Alvey |
 | 334 | 178 | Jess Dearborn |
-| 335 | 176 | Emma |
-| 336 | 176 | Melissa Orth Hunter |
+| 335 | 176 | Melissa Orth Hunter |
+| 336 | 176 | Emma |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
 | 339 | 173 | Daring Builder |

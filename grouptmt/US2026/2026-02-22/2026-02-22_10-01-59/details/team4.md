@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -126,8 +126,8 @@
 | 118 | 303 | Lauren Scott |
 | 119 | 300 | Jason Hart |
 | 120 | 298 | Lucas J Sutton |
-| 121 | 296 | Justin Hannigan |
-| 122 | 296 | HastyGrabber |
+| 121 | 296 | HastyGrabber |
+| 122 | 296 | Justin Hannigan |
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
@@ -198,8 +198,8 @@
 | 190 | 195 | ZeeZee |
 | 191 | 194 | Zany Twisterfit |
 | 192 | 192 | Shauna Havard |
-| 193 | 191 | Sam Bishop |
-| 194 | 191 | Klo |
+| 193 | 191 | Klo |
+| 194 | 191 | Sam Bishop |
 | 195 | 190 | Alan George LaRage |
 | 196 | 190 | Cheery Risebuilder |
 | 197 | 189 | Lori |
@@ -210,14 +210,14 @@
 | 202 | 185 | Nikki Rae Gordon |
 | 203 | 184 | Ak Jones |
 | 204 | 181 | Carter Jones |
-| 205 | 180 | Rafael Valentin |
+| 205 | 180 | Orchislactea |
 | 206 | 180 | Dihcheese444 |
-| 207 | 180 | Orchislactea |
-| 208 | 179 | blockstar |
-| 209 | 179 | TinyLegoRose |
+| 207 | 180 | Rafael Valentin |
+| 208 | 179 | TinyLegoRose |
+| 209 | 179 | blockstar |
 | 210 | 175 | Lorena Guerrero-Barron |
-| 211 | 174 | Rio Rocha |
-| 212 | 174 | JPW |
+| 211 | 174 | JPW |
+| 212 | 174 | Rio Rocha |
 | 213 | 172 | Gilles Lanctot |
 | 214 | 171 | Autumn Kumzi |
 | 215 | 168 | Carlos Ramirez |

@@ -133,8 +133,8 @@
 | 125 | 294 | Chelsea Dahlquist |
 | 126 | 290 | Death |
 | 127 | 285 | Ananda Mendez |
-| 128 | 284 | Rachael |
-| 129 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Emily Adelaide Wheatley |
+| 129 | 284 | Rachael |
 | 130 | 283 | Franswa |
 | 131 | 282 | Timothy Dew |
 | 132 | 282 | Cool Shiftsnap |
@@ -328,8 +328,8 @@
 | 320 | 124 | Mario Cab |
 | 321 | 123 | Tonya Beasley |
 | 322 | 122 | Nate Funk |
-| 323 | 121 | .running. |
-| 324 | 121 | Pauline Cortez |
+| 323 | 121 | Pauline Cortez |
+| 324 | 121 | John Ramirez |
 | 325 | 121 | Jacob Shaddock |
 | 326 | 121 | .running. |
 | 327 | 120 | Shiny Rotate |
@@ -377,7 +377,7 @@
 | 369 | 104 | Charla Pross-Fugleberg |
 | 370 | 104 | Jamie Catlett |
 | 371 | 104 | Tiger Lily |
-| 372 | 104 | Charla Pross-Fugleberg |
+| 372 | 104 | Serina Marie |
 | 373 | 103 | Alex Gauthier |
 | 374 | 103 | Mariah Cornell |
 | 375 | 102 | Sarah Henniker |
