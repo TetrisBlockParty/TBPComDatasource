@@ -144,8 +144,8 @@
 | 136 | 218 | Casey Grabner |
 | 137 | 218 | Antony Dwayne Beasley |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Ren Mc |
-| 140 | 215 | Jessica Bohlken |
+| 139 | 215 | Jessica Bohlken |
+| 140 | 215 | Ren Mc |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Calvin Cannon |
 | 143 | 212 | Mike Solo |
@@ -174,8 +174,8 @@
 | 166 | 185 | Andy Cabral |
 | 167 | 185 | Lori |
 | 168 | 184 | Ak Jones |
-| 169 | 181 | Klo |
-| 170 | 181 | Carter Jones |
+| 169 | 181 | Carter Jones |
+| 170 | 181 | Klo |
 | 171 | 179 | blockstar |
 | 172 | 176 | Zethra Prenisha Rahming |
 | 173 | 174 | Dihcheese444 |
@@ -201,7 +201,7 @@
 | 193 | 152 | John Brunetti |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
-| 196 | 149 | Shainne Brewer |
+| 196 | 149 | Judy Cox |
 | 197 | 149 | Megan Cutshaw |
 | 198 | 149 | Shainne Brewer |
 | 199 | 148 | Mr. Party |

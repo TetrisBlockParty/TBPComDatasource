@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -128,16 +128,16 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Christine Filson |
-| 124 | 403 | Scott Lindsay |
+| 123 | 403 | Scott Lindsay |
+| 124 | 403 | Christine Filson |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
 | 127 | 399 | ren |
 | 128 | 399 | Patti Skiles |
 | 129 | 399 | Mcathen |
 | 130 | 397 | Annie Déè |
-| 131 | 392 | Tasha Gillespie |
-| 132 | 392 | Katie Knaus |
+| 131 | 392 | Katie Knaus |
+| 132 | 392 | Tasha Gillespie |
 | 133 | 391 | Calista Jo Dickson |
 | 134 | 390 | Hasty Cascadefit |
 | 135 | 378 | Makelini Mausia |

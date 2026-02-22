@@ -117,17 +117,17 @@
 | 109 | 283 | Franswa |
 | 110 | 282 | Timothy Dew |
 | 111 | 280 | Sarah Roberts |
-| 112 | 277 | Ly Phethmany |
-| 113 | 277 | Katie Daniels |
+| 112 | 277 | Katie Daniels |
+| 113 | 277 | Ly Phethmany |
 | 114 | 276 | Rachael |
 | 115 | 275 | Bhelle Sumile |
 | 116 | 273 | Happy Basegrid |
 | 117 | 265 | Dandy Basegrid |
 | 118 | 264 | Lexuriuos Lifestlye |
-| 119 | 263 | Sharon Reynolds |
-| 120 | 263 | Jason Jones |
-| 121 | 252 | Dena Kayy |
-| 122 | 252 | Elaine Elaine |
+| 119 | 263 | Jason Jones |
+| 120 | 263 | Sharon Reynolds |
+| 121 | 252 | Elaine Elaine |
+| 122 | 252 | Dena Kayy |
 | 123 | 247 | Tana |
 | 124 | 243 | Trippy Redd |
 | 125 | 243 | Chelsea Dahlquist |
@@ -138,14 +138,14 @@
 | 130 | 230 | Frothy Pattern |
 | 131 | 230 | Billie Dawn Sparks |
 | 132 | 228 | Jenny Gingrich Fuentes |
-| 133 | 226 | ALFD |
-| 134 | 226 | Kandae |
+| 133 | 226 | Kandae |
+| 134 | 226 | ALFD |
 | 135 | 217 | ParisandCory Champagne |
 | 136 | 216 | Shauntina Burke |
 | 137 | 216 | MRdot Rooski |
 | 138 | 214 | GATOR |
-| 139 | 212 | Lori Bales |
-| 140 | 212 | Jaimie Lynn |
+| 139 | 212 | Jaimie Lynn |
+| 140 | 212 | Lori Bales |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Giggly Builderline |
 | 143 | 208 | Bouncy Grid |
@@ -155,8 +155,8 @@
 | 147 | 203 | Paula Martin |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Happy Snapbuild |
-| 151 | 198 | Shiny Gridmatch |
+| 150 | 198 | Shiny Gridmatch |
+| 151 | 198 | Happy Snapbuild |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | lil mickey |
@@ -165,13 +165,13 @@
 | 157 | 192 | Christy Jones |
 | 158 | 192 | Jessica Sheehan |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Sweetts |
-| 161 | 190 | Thorne Shumate |
+| 160 | 190 | Thorne Shumate |
+| 161 | 190 | Sweetts |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Jennifer Olewnik Soborowski |
 | 165 | 187 | Snippy Wipebuilder |
-| 166 | 186 | David Miller |
+| 166 | 186 | Margo Wagner |
 | 167 | 186 | Jeanna Dunn |
 | 168 | 186 | David Miller |
 | 169 | 183 | Sleepysloath5745 |

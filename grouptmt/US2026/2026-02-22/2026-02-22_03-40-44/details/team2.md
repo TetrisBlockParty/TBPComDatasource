@@ -446,8 +446,8 @@
 | 438 | 402 | SwampRebel |
 | 439 | 402 | Michelle Fields |
 | 440 | 401 | Lee Harper |
-| 441 | 401 | De Hawkins |
-| 442 | 401 | Taylor Flowers |
+| 441 | 401 | Taylor Flowers |
+| 442 | 401 | De Hawkins |
 | 443 | 400 | Tammy Allen |
 | 444 | 400 | Victoria Regina Girolami |
 | 445 | 399 | Goofy Dasher |
@@ -458,13 +458,13 @@
 | 450 | 396 | Stefanie Zonzini-Gagliardi |
 | 451 | 394 | Taryece Gause |
 | 452 | 393 | Ryan Meilleur |
-| 453 | 393 | Hillary Crawford |
-| 454 | 393 | Jamie West |
+| 453 | 393 | Jamie West |
+| 454 | 393 | Hillary Crawford |
 | 455 | 392 | Christine Bollig |
 | 456 | 391 | Cleo Sims |
 | 457 | 391 | Qiana Sanders |
-| 458 | 391 | Chilly Bridgepiece |
-| 459 | 391 | Adam Simmons |
+| 458 | 391 | Adam Simmons |
+| 459 | 391 | Chilly Bridgepiece |
 | 460 | 390 | Alexandra Weir |
 | 461 | 389 | Alexis Richardson |
 | 462 | 389 | Irene Jones |
@@ -476,8 +476,8 @@
 | 468 | 384 | Party d |
 | 469 | 384 | Mike Aprilliano |
 | 470 | 383 | Arkei Luster |
-| 471 | 382 | David Holliday |
-| 472 | 382 | KhaosLord |
+| 471 | 382 | KhaosLord |
+| 472 | 382 | David Holliday |
 | 473 | 381 | Melissa Rebbe-Lehman |
 | 474 | 381 | Moist_B-hole |
 | 475 | 381 | Bubbly Snapfit |
@@ -531,8 +531,8 @@
 | 523 | 354 | Demeka Dangerous-kisses Johnson |
 | 524 | 354 | Rickey Johnson |
 | 525 | 353 | Cheery Matchzone |
-| 526 | 352 | Jean FU Jagielski |
-| 527 | 352 | Andrea Maher |
+| 526 | 352 | Andrea Maher |
+| 527 | 352 | Jean FU Jagielski |
 | 528 | 352 | Rose Fx |
 | 529 | 352 | ruth |
 | 530 | 350 | Chris Harr |
@@ -934,10 +934,10 @@
 | 926 | 197 | Mama T |
 | 927 | 197 | Sunny Pusher |
 | 928 | 197 | Crafty Brickline |
-| 929 | 197 | Kati Russeau |
-| 930 | 197 | Octavio Garza |
-| 931 | 197 | Karyn Yurcho Dooley |
-| 932 | 197 | Darla Silva |
+| 929 | 197 | Octavio Garza |
+| 930 | 197 | Kati Russeau |
+| 931 | 197 | Darla Silva |
+| 932 | 197 | Karyn Yurcho Dooley |
 | 933 | 196 | Goofy Cascadeclear |
 | 934 | 196 | Jennifer Barclay |
 | 935 | 196 | Kimberly Hope Howell |
