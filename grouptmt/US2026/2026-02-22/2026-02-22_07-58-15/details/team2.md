@@ -166,8 +166,8 @@
 | 158 | 1048 | PsychKIRAtrist |
 | 159 | 1047 | Amy Sayers |
 | 160 | 1045 | Lourisha |
-| 161 | 1043 | Brave Dropmatch |
-| 162 | 1043 | Suki Kaur |
+| 161 | 1043 | Suki Kaur |
+| 162 | 1043 | Brave Dropmatch |
 | 163 | 1035 | Sarah Freitas |
 | 164 | 1026 | Heather Westrum |
 | 165 | 1023 | Brainy Smurf |
@@ -559,14 +559,14 @@
 | 551 | 389 | Alexis Richardson |
 | 552 | 389 | Kayla |
 | 553 | 389 | Julie Hamilton |
-| 554 | 387 | Bold Brickster |
-| 555 | 387 | Misti Markijohn |
+| 554 | 387 | Misti Markijohn |
+| 555 | 387 | Bold Brickster |
 | 556 | 386 | Michael Artis |
 | 557 | 386 | Kenny Alvarado |
 | 558 | 385 | Tansaria Couch-Butler |
 | 559 | 384 | Christina Ashley |
-| 560 | 384 | Kelly |
-| 561 | 384 | Party d |
+| 560 | 384 | Party d |
+| 561 | 384 | Kelly |
 | 562 | 383 | Belle Mari |
 | 563 | 382 | David Holliday |
 | 564 | 382 | KhaosLord |
@@ -594,8 +594,8 @@
 | 586 | 371 | Brenda Messer |
 | 587 | 371 | AkaLefty |
 | 588 | 369 | Juan Castillo |
-| 589 | 369 | Tony Lea |
-| 590 | 369 | RaeVan Worthington |
+| 589 | 369 | RaeVan Worthington |
+| 590 | 369 | Tony Lea |
 | 591 | 368 | Angi Harrison |
 | 592 | 367 | Jessica Lamb |
 | 593 | 367 | Connie Lepore-Mann |
@@ -670,11 +670,11 @@
 | 662 | 329 | Chummy Blockbuilder |
 | 663 | 329 | Snappy Shatterfit |
 | 664 | 329 | Jane Crew |
-| 665 | 328 | Jamie Carter Bierce |
-| 666 | 328 | BabyBird |
+| 665 | 328 | BabyBird |
+| 666 | 328 | Jamie Carter Bierce |
 | 667 | 326 | Sharon Mills |
-| 668 | 326 | Angela Murgia-Owen |
-| 669 | 326 | Ann Knutson Anderson |
+| 668 | 326 | Ann Knutson Anderson |
+| 669 | 326 | Angela Murgia-Owen |
 | 670 | 325 | Justin Hines |
 | 671 | 324 | Mike73 |
 | 672 | 324 | Tasia Stinson |
@@ -783,7 +783,7 @@
 | 775 | 276 | Ryan Lauer |
 | 776 | 276 | Jamie Dayton |
 | 777 | 276 | Josh Webster |
-| 778 | 276 | Jamie Dayton |
+| 778 | 276 | Jennifer Leigh |
 | 779 | 276 | Lindsey Leigh |
 | 780 | 276 | Patrick Bartlett |
 | 781 | 275 | Crystal Elam |
@@ -791,8 +791,8 @@
 | 783 | 275 | Alyssia Tancredi |
 | 784 | 275 | Tammy Mitchell |
 | 785 | 275 | LeVeL27 |
-| 786 | 274 | Robin L. Vial |
-| 787 | 274 | Min |
+| 786 | 274 | Min |
+| 787 | 274 | Robin L. Vial |
 | 788 | 274 | Sabrena Yeisley |
 | 789 | 274 | KT Macadocious |
 | 790 | 274 | Jamie Stevey |
@@ -816,10 +816,10 @@
 | 808 | 265 | Chummy Breaker |
 | 809 | 265 | trabuco |
 | 810 | 264 | Sanaa Nounoussa |
-| 811 | 264 | Debbie Gerlib-Molinari Leigh |
-| 812 | 264 | Rachel Switala |
-| 813 | 264 | Matthew Joseph Acevedo |
-| 814 | 264 | Ocean-Brianna McGregor |
+| 811 | 264 | Ocean-Brianna McGregor |
+| 812 | 264 | Debbie Gerlib-Molinari Leigh |
+| 813 | 264 | Rachel Switala |
+| 814 | 264 | Matthew Joseph Acevedo |
 | 815 | 264 | Maria Hammett |
 | 816 | 263 | Sara Pennington |
 | 817 | 263 | Laura Wyatt |
@@ -942,8 +942,8 @@
 | 934 | 232 | P. D. Paige |
 | 935 | 232 | Regina Unruh |
 | 936 | 231 | Renee Bowers |
-| 937 | 231 | Michelle Fleming Luna |
-| 938 | 231 | Vung Nguyen |
+| 937 | 231 | Vung Nguyen |
+| 938 | 231 | Michelle Fleming Luna |
 | 939 | 231 | Stanley Vanekelenburg |
 | 940 | 230 | lady |
 | 941 | 230 | Andrew Engman |

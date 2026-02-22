@@ -99,8 +99,8 @@
 | 91 | 359 | Nerdy Linkblock |
 | 92 | 355 | Hasbro Bros |
 | 93 | 350 | Tipsy Strikerpiece |
-| 94 | 347 | june october |
-| 95 | 347 | pjbeta |
+| 94 | 347 | pjbeta |
+| 95 | 347 | june october |
 | 96 | 345 | Dee Perry |
 | 97 | 344 | lil mickey |
 | 98 | 342 | Brenda Stewart |
@@ -156,8 +156,8 @@
 | 148 | 243 | Trippy Redd |
 | 149 | 242 | ALFD |
 | 150 | 241 | John J. Cronin |
-| 151 | 239 | GATOR |
-| 152 | 239 | Jamie Jury |
+| 151 | 239 | Jamie Jury |
+| 152 | 239 | GATOR |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
 | 155 | 230 | Billie Dawn Sparks |
@@ -178,9 +178,9 @@
 | 170 | 210 | Letson Melissa |
 | 171 | 208 | Donna Addison Williams |
 | 172 | 208 | Bouncy Grid |
-| 173 | 207 | Ty Brown |
-| 174 | 207 | Brenda Alexander |
-| 175 | 207 | Leslie Bush Yarbrough |
+| 173 | 207 | Brenda Alexander |
+| 174 | 207 | Leslie Bush Yarbrough |
+| 175 | 207 | Ty Brown |
 | 176 | 206 | BadG52 |
 | 177 | 205 | Tater |
 | 178 | 204 | Lacy Wolfe |
@@ -231,8 +231,8 @@
 | 223 | 170 | Standia Civil |
 | 224 | 169 | Abbey Crespo |
 | 225 | 168 | Amber Stoker |
-| 226 | 167 | Nery Martinez |
-| 227 | 167 | Cranky Pattern |
+| 226 | 167 | Cranky Pattern |
+| 227 | 167 | Nery Martinez |
 | 228 | 167 | Bindi |
 | 229 | 165 | Silly Align |
 | 230 | 165 | Alenoush Karimian |

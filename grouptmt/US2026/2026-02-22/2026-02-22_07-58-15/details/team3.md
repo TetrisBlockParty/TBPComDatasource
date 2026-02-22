@@ -237,8 +237,8 @@
 | 229 | 263 | Angeline Joseph |
 | 230 | 262 | Joe-Maggie Mathews |
 | 231 | 261 | Tasha Wesson-Torrence |
-| 232 | 261 | Tiffany Ford |
-| 233 | 261 | Marquita Sheard |
+| 232 | 261 | Marquita Sheard |
+| 233 | 261 | Tiffany Ford |
 | 234 | 260 | Grams |
 | 235 | 259 | Danielle Weikel |
 | 236 | 258 | Tamara Deherrera |
@@ -269,8 +269,8 @@
 | 261 | 225 | Cozy Snaplink |
 | 262 | 225 | Dirtgirl27 |
 | 263 | 223 | Connie Mohler-Fair |
-| 264 | 221 | Jaime Monhaut-Reed |
-| 265 | 221 | Alice |
+| 264 | 221 | Alice |
+| 265 | 221 | Jaime Monhaut-Reed |
 | 266 | 221 | Vaners |
 | 267 | 220 | rosy |
 | 268 | 219 | Sissy Lowery Davis |
@@ -284,8 +284,8 @@
 | 276 | 212 | Desiree Gold |
 | 277 | 212 | Rachel |
 | 278 | 212 | Sunny Rotater |
-| 279 | 211 | Velma Mull |
-| 280 | 211 | El Chapa |
+| 279 | 211 | El Chapa |
+| 280 | 211 | Velma Mull |
 | 281 | 211 | Khaleada McGill Banks |
 | 282 | 210 | Lizabeth Fox |
 | 283 | 209 | Micayah Stevens |
@@ -368,8 +368,8 @@
 | 360 | 156 | Nichole Greene |
 | 361 | 155 | Michell Hendershott Jackson |
 | 362 | 155 | Michael Leblanc |
-| 363 | 153 | Lys |
-| 364 | 153 | Sheila M Frazier |
+| 363 | 153 | Sheila M Frazier |
+| 364 | 153 | Lys |
 | 365 | 153 | Tony Waters |
 | 366 | 152 | Goofy Fall |
 | 367 | 152 | Eric Caccavale |
@@ -500,9 +500,9 @@
 | 492 | 112 | Sarah Morris |
 | 493 | 112 | Shanon R Jackson |
 | 494 | 111 | Geronimo |
-| 495 | 111 | Chenoa Urban Sophicated Redy |
-| 496 | 111 | Jennifer Neiman Gaal |
-| 497 | 111 | Victoria Wangler Lewis |
+| 495 | 111 | Victoria Wangler Lewis |
+| 496 | 111 | Chenoa Urban Sophicated Redy |
+| 497 | 111 | Jennifer Neiman Gaal |
 | 498 | 110 | Kate Farok |
 | 499 | 110 | Angela VanOstrand |
 | 500 | 110 | Michael Pleasant |
@@ -690,7 +690,7 @@
 | 682 | 83 | Bela PC |
 | 683 | 83 | Janay Darkstallion Robinson |
 | 684 | 82 | Kimberly Walker |
-| 685 | 82 | Carrie Linkous |
+| 685 | 82 | Dreamy Patternfall |
 | 686 | 82 | Dakota Lee DeMarrias |
 | 687 | 82 | Carrie Linkous |
 | 688 | 82 | Cranky Gridder |
