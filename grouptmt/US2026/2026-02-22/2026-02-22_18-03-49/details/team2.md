@@ -991,8 +991,8 @@
 | 983 | 271 | Sedo |
 | 984 | 271 | Amber N Koepp |
 | 985 | 270 | Lexa Craft Davidson |
-| 986 | 270 | Meganator42 |
-| 987 | 270 | BK Queen |
+| 986 | 270 | BK Queen |
+| 987 | 270 | Meganator42 |
 | 988 | 270 | Kimmie Zimmerman-Rocha |
 | 989 | 269 | Queen |
 | 990 | 268 | Bold Clusterfit |

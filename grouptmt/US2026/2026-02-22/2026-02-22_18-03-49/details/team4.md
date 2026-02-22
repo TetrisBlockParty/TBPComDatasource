@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 559 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | Desi Desporte |
-| 132 | 332 | HastyGrabber |
+| 131 | 332 | HastyGrabber |
+| 132 | 332 | Desi Desporte |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -159,11 +159,11 @@
 | 151 | 294 | Calvin Cannon |
 | 152 | 294 | Meagan Nicole |
 | 153 | 290 | Keshia Lyons |
-| 154 | 290 | 🥔🥔 Spudz |
-| 155 | 290 | Chaz Duncan |
+| 154 | 290 | Chaz Duncan |
+| 155 | 290 | 🥔🥔 Spudz |
 | 156 | 288 | Leah Kutz Zirbel |
-| 157 | 286 | Brittney Orengo |
-| 158 | 286 | shark tato |
+| 157 | 286 | shark tato |
+| 158 | 286 | Brittney Orengo |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
 | 161 | 277 | Mary Ann Pabukis |
@@ -196,8 +196,8 @@
 | 188 | 247 | Sam Bishop |
 | 189 | 247 | Dennis Bradley |
 | 190 | 245 | Autum Leigh |
-| 191 | 245 | Andria Lynn |
-| 192 | 245 | Peachy Fall |
+| 191 | 245 | Peachy Fall |
+| 192 | 245 | Andria Lynn |
 | 193 | 244 | Twisty Cascadezone |
 | 194 | 243 | Mr. Party |
 | 195 | 242 | Jose Dejesus |
@@ -447,8 +447,8 @@
 | 439 | 113 | Dandy Cascadefit |
 | 440 | 112 | Jarred Falls |
 | 441 | 111 | Zocko Ellet |
-| 442 | 111 | Richard-April Kice |
-| 443 | 111 | Raegan Lane-Ross |
+| 442 | 111 | Raegan Lane-Ross |
+| 443 | 111 | Richard-April Kice |
 | 444 | 111 | Lazy Blocker |
 | 445 | 111 | Groovy Gridlock |
 | 446 | 110 | Shane Vick |
@@ -520,8 +520,8 @@
 | 512 | 94 | Adawna Swires |
 | 513 | 94 | Ahleek Mitchell |
 | 514 | 94 | Matt Rawls |
-| 515 | 93 | Mousey406 |
-| 516 | 93 | Megan Boyce |
+| 515 | 93 | Megan Boyce |
+| 516 | 93 | Mousey406 |
 | 517 | 92 | Krash |
 | 518 | 92 | RogueRebel |
 | 519 | 91 | George Nutt |

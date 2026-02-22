@@ -199,8 +199,8 @@
 | 191 | 383 | Nicole Flippo |
 | 192 | 382 | Scott Carleton |
 | 193 | 378 | Chris Bell |
-| 194 | 377 | rosy |
-| 195 | 377 | Danielle Balcom |
+| 194 | 377 | Danielle Balcom |
+| 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
 | 198 | 372 | Giddy Twistbuilder |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Brandon Givens |
-| 204 | 362 | Loopy Fallmatch |
+| 203 | 362 | Loopy Fallmatch |
+| 204 | 362 | Brandon Givens |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -306,8 +306,8 @@
 | 298 | 240 | Eric Caccavale |
 | 299 | 240 | Jimmie Clemons |
 | 300 | 238 | Niki Dalrymple |
-| 301 | 236 | Jess Bissett |
-| 302 | 236 | Angela Scott |
+| 301 | 236 | Angela Scott |
+| 302 | 236 | Jess Bissett |
 | 303 | 236 | Lys |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
@@ -350,10 +350,10 @@
 | 342 | 213 | Nicholas Roddy |
 | 343 | 213 | Jess Dearborn |
 | 344 | 212 | AlsoJess |
-| 345 | 211 | El Chapa |
-| 346 | 211 | Velma Mull |
-| 347 | 210 | Criss |
-| 348 | 210 | Ashley Lynn Marchese |
+| 345 | 211 | Velma Mull |
+| 346 | 211 | El Chapa |
+| 347 | 210 | Ashley Lynn Marchese |
+| 348 | 210 | Criss |
 | 349 | 210 | Saucy Buildout |
 | 350 | 209 | Kirhonda Autmon |
 | 351 | 209 | TotoCherue |

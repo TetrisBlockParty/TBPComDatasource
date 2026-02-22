@@ -82,16 +82,16 @@
 | 74 | 489 | Deanna L Hermanson |
 | 75 | 486 | Tater |
 | 76 | 485 | Cartier |
-| 77 | 483 | MomMom |
+| 77 | 483 | Ryan Lunnin |
 | 78 | 483 | Evie Khalil |
-| 79 | 483 | Ryan Lunnin |
+| 79 | 483 | MomMom |
 | 80 | 480 | Nancy Green |
 | 81 | 472 | April Carroll |
 | 82 | 471 | Jennifer ManWarren |
 | 83 | 456 | Arianna O'Brien |
 | 84 | 453 | Brandi Huntington |
-| 85 | 444 | Hyper |
-| 86 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Lexuriuos Lifestlye |
+| 86 | 444 | Hyper |
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
@@ -107,9 +107,9 @@
 | 99 | 401 | cc |
 | 100 | 400 | Cynthia Bradley |
 | 101 | 395 | Nery Martinez |
-| 102 | 390 | Goose egg |
-| 103 | 390 | Lori Bales |
-| 104 | 390 | Candy Jones |
+| 102 | 390 | Lori Bales |
+| 103 | 390 | Candy Jones |
+| 104 | 390 | Goose egg |
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
