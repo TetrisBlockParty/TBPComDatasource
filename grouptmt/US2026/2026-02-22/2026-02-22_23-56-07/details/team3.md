@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | Sarajane Lokan |
-| 93 | 838 | MissTaylor |
+| 92 | 838 | MissTaylor |
+| 93 | 838 | Sarajane Lokan |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -166,8 +166,8 @@
 | 158 | 517 | Denise Nardoni |
 | 159 | 516 | Elissa S-k |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Stephanie Blkpep Davidson |
-| 162 | 506 | Sashay Tapae Simpson |
+| 161 | 506 | Sashay Tapae Simpson |
+| 162 | 506 | Stephanie Blkpep Davidson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -234,8 +234,8 @@
 | 226 | 372 | Rich LeBlanc |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
-| 229 | 368 | Stephanie Woods |
-| 230 | 368 | Rebecca Funderburk Kirby |
+| 229 | 368 | Rebecca Funderburk Kirby |
+| 230 | 368 | Stephanie Woods |
 | 231 | 367 | Connie Mohler-Fair |
 | 232 | 366 | Marquita Sheard |
 | 233 | 365 | Tiffany Ford |

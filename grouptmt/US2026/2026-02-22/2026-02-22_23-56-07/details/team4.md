@@ -81,8 +81,8 @@
 | 73 | 671 | Kimyatta Cavin |
 | 74 | 664 | Valerie Roberts |
 | 75 | 659 | Jonathan Kimbrough |
-| 76 | 647 | Shauna Havard |
-| 77 | 647 | KM8 |
+| 76 | 647 | KM8 |
+| 77 | 647 | Shauna Havard |
 | 78 | 646 | Jacqueline Helm |
 | 79 | 639 | TheNeesh50 |
 | 80 | 633 | Lisa Davis |
@@ -103,14 +103,14 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
 | 100 | 512 | Diana Houts |
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |

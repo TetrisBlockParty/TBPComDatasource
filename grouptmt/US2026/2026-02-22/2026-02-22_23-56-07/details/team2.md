@@ -347,10 +347,10 @@
 | 339 | 788 | Erika Densmore |
 | 340 | 785 | Amber Brion |
 | 341 | 782 | Beth |
-| 342 | 777 | Tesha Oldaker |
-| 343 | 777 | Jessicah Myers |
-| 344 | 774 | Ginnell Browner |
-| 345 | 774 | Ashley Dow |
+| 342 | 777 | Jessicah Myers |
+| 343 | 777 | Tesha Oldaker |
+| 344 | 774 | Ashley Dow |
+| 345 | 774 | Ginnell Browner |
 | 346 | 773 | Diana Fitzwater |
 | 347 | 772 | Danielle Simmons |
 | 348 | 769 | Melissa Cole |
@@ -904,8 +904,8 @@
 | 896 | 337 | Layla LS |
 | 897 | 337 | Catherine Marsh Gruda |
 | 898 | 337 | Sassy Pattern |
-| 899 | 336 | Ashley Criner |
-| 900 | 336 | David Duncan |
+| 899 | 336 | David Duncan |
+| 900 | 336 | Ashley Criner |
 | 901 | 336 | Crystal Cornelius |
 | 902 | 336 | Gina Gina |
 | 903 | 336 | Colton Saupe |
