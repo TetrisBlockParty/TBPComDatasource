@@ -199,11 +199,11 @@
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
 | 193 | 210 | Austin Owens |
-| 194 | 209 | Rafael Valentin |
-| 195 | 209 | Sam Bishop |
+| 194 | 209 | Sam Bishop |
+| 195 | 209 | Rafael Valentin |
 | 196 | 208 | Stacey Stano |
-| 197 | 207 | Chirpy Basepiece |
-| 198 | 207 | scott |
+| 197 | 207 | scott |
+| 198 | 207 | Chirpy Basepiece |
 | 199 | 206 | Ruben Wheeler |
 | 200 | 205 | Kathy Brookins |
 | 201 | 205 | Lindsey Gonzalez |

@@ -472,8 +472,8 @@
 | 464 | 491 | Victor Obiakarije |
 | 465 | 491 | Michael Buckner |
 | 466 | 488 | Christina Wsn |
-| 467 | 487 | Morgan Easter |
-| 468 | 487 | MrsCandyfine As Wine Truss |
+| 467 | 487 | MrsCandyfine As Wine Truss |
+| 468 | 487 | Morgan Easter |
 | 469 | 485 | Mamachelle Eisweirth |
 | 470 | 485 | Tom Riefer |
 | 471 | 484 | Street Sweeper |
@@ -879,8 +879,8 @@
 | 871 | 273 | Boldy Block |
 | 872 | 272 | Gina Justbeingme Chillis |
 | 873 | 272 | Witty Piecebuilder |
-| 874 | 271 | Pam Doughty |
-| 875 | 271 | Michelle Ettrick |
+| 874 | 271 | Michelle Ettrick |
+| 875 | 271 | Pam Doughty |
 | 876 | 271 | Beverly Hodge |
 | 877 | 271 | Shalisa Hill |
 | 878 | 271 | Amber N Koepp |
@@ -1265,8 +1265,8 @@
 | 1257 | 193 | Miranda Morris |
 | 1258 | 193 | Kelly Ann McCormick |
 | 1259 | 192 | Donna M Carter |
-| 1260 | 192 | Kirsten Marie Lomupo |
-| 1261 | 192 | Joy Marie |
+| 1260 | 192 | Joy Marie |
+| 1261 | 192 | Kirsten Marie Lomupo |
 | 1262 | 192 | Dawn Woosley Bowes |
 | 1263 | 192 | Nicole Sanqui |
 | 1264 | 192 | Hoppy Tilefall |

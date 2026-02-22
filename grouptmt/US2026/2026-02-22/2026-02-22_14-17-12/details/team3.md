@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Poppy Splitter |
-| 130 | 479 | Patti Skiles |
+| 129 | 479 | Patti Skiles |
+| 130 | 479 | Poppy Splitter |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -193,8 +193,8 @@
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
-| 188 | 357 | Tom Nault |
-| 189 | 357 | Stephanie Burtin |
+| 188 | 357 | Stephanie Burtin |
+| 189 | 357 | Tom Nault |
 | 190 | 353 | Nora Rogers |
 | 191 | 349 | Amanda J. Mcneil-Anderson |
 | 192 | 348 | Chasity |
@@ -261,8 +261,8 @@
 | 253 | 261 | Tiffany Ford |
 | 254 | 261 | Tasha Wesson-Torrence |
 | 255 | 261 | Marquita Sheard |
-| 256 | 260 | Nikki Pags |
-| 257 | 260 | Grams |
+| 256 | 260 | Grams |
+| 257 | 260 | Nikki Pags |
 | 258 | 259 | Danielle Weikel |
 | 259 | 257 | Ashley Jones |
 | 260 | 256 | KayB |
@@ -318,8 +318,8 @@
 | 310 | 208 | AlsoJess |
 | 311 | 208 | Niki Dalrymple |
 | 312 | 207 | angieelyn |
-| 313 | 207 | Daring Builder |
-| 314 | 207 | Jessica |
+| 313 | 207 | Jessica |
+| 314 | 207 | Daring Builder |
 | 315 | 206 | Tracy Martin |
 | 316 | 206 | Tammy Rosenberry |
 | 317 | 205 | April Matthew Kibble |
@@ -329,10 +329,10 @@
 | 321 | 202 | Staci George Fitzsimmons |
 | 322 | 202 | Tipsy Zonebuilder |
 | 323 | 201 | Hyper Matchzone |
-| 324 | 200 | glichmod |
-| 325 | 200 | Colleen Phelps |
-| 326 | 200 | Sharisse Baltimore |
-| 327 | 200 | Snazzy Filler |
+| 324 | 200 | Snazzy Filler |
+| 325 | 200 | Sharisse Baltimore |
+| 326 | 200 | glichmod |
+| 327 | 200 | Colleen Phelps |
 | 328 | 200 | Saucy Buildout |
 | 329 | 199 | Mariah Williams |
 | 330 | 199 | Kristian Thurman |
@@ -351,15 +351,15 @@
 | 343 | 186 | Bryan Byrd |
 | 344 | 186 | Sameerah Smith |
 | 345 | 185 | Angella Lyons |
-| 346 | 184 | Shanon R Jackson |
-| 347 | 184 | Troy |
+| 346 | 184 | Troy |
+| 347 | 184 | Shanon R Jackson |
 | 348 | 184 | Salena Whitlock |
 | 349 | 183 | Cesar Barraza |
 | 350 | 183 | Frothy Snapper |
 | 351 | 182 | gremicx |
-| 352 | 181 | Michael Johnson |
+| 352 | 181 | Eileen Brady Thurber |
 | 353 | 181 | Denita Mungro |
-| 354 | 181 | Eileen Brady Thurber |
+| 354 | 181 | Michael Johnson |
 | 355 | 180 | Beth Ingham |
 | 356 | 179 | Rachel Napper |
 | 357 | 179 | DanceLuvLaugh |
@@ -428,8 +428,8 @@
 | 420 | 152 | Stephanie Bradley |
 | 421 | 152 | Michael Kimbro |
 | 422 | 152 | Linda Draper |
-| 423 | 152 | Shiny Zonebuilder |
-| 424 | 152 | Silver Marchán |
+| 423 | 152 | Silver Marchán |
+| 424 | 152 | Shiny Zonebuilder |
 | 425 | 150 | Sassy Brickmatch |
 | 426 | 149 | Zac Hudak |
 | 427 | 149 | Arden White Kirsch |

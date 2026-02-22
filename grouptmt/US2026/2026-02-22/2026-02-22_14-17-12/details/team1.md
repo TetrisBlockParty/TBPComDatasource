@@ -120,8 +120,8 @@
 | 112 | 341 | Nick R Montague |
 | 113 | 340 | Jason Jones |
 | 114 | 334 | Jaimie Lynn |
-| 115 | 333 | Gracie |
-| 116 | 333 | Brandi Huntington |
+| 115 | 333 | Brandi Huntington |
+| 116 | 333 | Gracie |
 | 117 | 332 | Kristen Gideon |
 | 118 | 330 | Sweet Baker |
 | 119 | 326 | Monica Donato |
@@ -144,8 +144,8 @@
 | 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Emily Adelaide Wheatley |
-| 140 | 284 | Rachael |
+| 139 | 284 | Rachael |
+| 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
 | 142 | 282 | Tyler Werts |
 | 143 | 282 | Cool Shiftsnap |
