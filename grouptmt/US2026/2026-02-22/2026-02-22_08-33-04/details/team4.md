@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -55,8 +55,8 @@
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 661 | D3TROITB0RN74 |
-| 50 | 659 | Rebecca Moulton Pinciaro |
-| 51 | 659 | Jonathan Kimbrough |
+| 50 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Rebecca Moulton Pinciaro |
 | 52 | 658 | loulou |
 | 53 | 654 | Chilly Line |
 | 54 | 652 | Anthony Bryan Riva |
@@ -84,8 +84,8 @@
 | 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Samantha Peterson |
-| 80 | 447 | Erin Thomas |
+| 79 | 447 | Erin Thomas |
+| 80 | 447 | Samantha Peterson |
 | 81 | 440 | Kristin Manee |
 | 82 | 435 | Shane Kalamata Platoon |
 | 83 | 427 | KJ Pool |
@@ -173,8 +173,8 @@
 | 165 | 217 | Chaz Duncan |
 | 166 | 215 | Jessica Bohlken |
 | 167 | 215 | Ren Mc |
-| 168 | 213 | Sarah Neathery |
-| 169 | 213 | Jason Allen |
+| 168 | 213 | Jason Allen |
+| 169 | 213 | Sarah Neathery |
 | 170 | 212 | Mike Solo |
 | 171 | 211 | Jenna McGeorge |
 | 172 | 207 | Chirpy Basepiece |
@@ -193,20 +193,20 @@
 | 185 | 195 | Malakai Darien Fox |
 | 186 | 194 | Zany Twisterfit |
 | 187 | 192 | Shauna Havard |
-| 188 | 191 | Sam Bishop |
-| 189 | 191 | Klo |
+| 188 | 191 | Klo |
+| 189 | 191 | Sam Bishop |
 | 190 | 190 | Cheery Risebuilder |
-| 191 | 189 | Stacey Stano |
-| 192 | 189 | Calvin Dennis |
+| 191 | 189 | Calvin Dennis |
+| 192 | 189 | Stacey Stano |
 | 193 | 188 | Andria Lynn |
 | 194 | 186 | Holly |
 | 195 | 185 | Lori |
 | 196 | 184 | Ak Jones |
-| 197 | 181 | Carter Jones |
-| 198 | 181 | Alan George LaRage |
-| 199 | 180 | Orchislactea |
-| 200 | 180 | Rafael Valentin |
-| 201 | 180 | Dihcheese444 |
+| 197 | 181 | Alan George LaRage |
+| 198 | 181 | Carter Jones |
+| 199 | 180 | Dihcheese444 |
+| 200 | 180 | Orchislactea |
+| 201 | 180 | Rafael Valentin |
 | 202 | 179 | blockstar |
 | 203 | 175 | TinyLegoRose |
 | 204 | 174 | Rio Rocha |

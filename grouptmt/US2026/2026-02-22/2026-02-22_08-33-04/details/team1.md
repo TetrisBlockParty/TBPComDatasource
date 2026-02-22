@@ -143,8 +143,8 @@
 | 135 | 270 | Ash Galvan |
 | 136 | 268 | GATOR |
 | 137 | 265 | SkipTheSadSauce |
-| 138 | 264 | Lexuriuos Lifestlye |
-| 139 | 264 | Jenny Gingrich Fuentes |
+| 138 | 264 | Jenny Gingrich Fuentes |
+| 139 | 264 | Lexuriuos Lifestlye |
 | 140 | 263 | Sharon Reynolds |
 | 141 | 258 | Virginia Gray Floyd |
 | 142 | 257 | Amanda Jarnagin |
@@ -162,8 +162,8 @@
 | 154 | 239 | Jamie Jury |
 | 155 | 236 | Mandyy Rae |
 | 156 | 232 | Jessi Sauer |
-| 157 | 230 | Frothy Pattern |
-| 158 | 230 | Billie Dawn Sparks |
+| 157 | 230 | Billie Dawn Sparks |
+| 158 | 230 | Frothy Pattern |
 | 159 | 229 | David Lutcher |
 | 160 | 229 | Al Smith Jr |
 | 161 | 226 | Sleepysloath5745 |
@@ -194,16 +194,16 @@
 | 186 | 203 | LaFontaine Leslie |
 | 187 | 201 | Colleen Wise |
 | 188 | 199 | Basment Living |
-| 189 | 198 | Happy Snapbuild |
-| 190 | 198 | Shiny Gridmatch |
+| 189 | 198 | Shiny Gridmatch |
+| 190 | 198 | Happy Snapbuild |
 | 191 | 195 | Shaykmia |
 | 192 | 194 | Christy Jones |
 | 193 | 193 | Jennifer Olewnik Soborowski |
 | 194 | 193 | Lachelle Dillon |
 | 195 | 193 | Michael |
 | 196 | 192 | Jessica Sheehan |
-| 197 | 191 | Diane Byrd |
-| 198 | 191 | Shanae Grant |
+| 197 | 191 | Shanae Grant |
+| 198 | 191 | Diane Byrd |
 | 199 | 190 | Thorne Shumate |
 | 200 | 190 | Sweetts |
 | 201 | 189 | Jeanna Dunn |
@@ -262,8 +262,8 @@
 | 254 | 152 | Brave Wrecker |
 | 255 | 152 | Speedy Snapfall |
 | 256 | 152 | Tavia |
-| 257 | 150 | Adele Rahman |
-| 258 | 150 | Agustin Duarte Orozco |
+| 257 | 150 | Agustin Duarte Orozco |
+| 258 | 150 | Adele Rahman |
 | 259 | 149 | Jessica Russell |
 | 260 | 147 | Davery Spencer Adair |
 | 261 | 147 | J.F. Fields |

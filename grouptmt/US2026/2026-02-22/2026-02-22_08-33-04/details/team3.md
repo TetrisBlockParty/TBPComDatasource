@@ -120,8 +120,8 @@
 | 112 | 506 | Sashay Tapae Simpson |
 | 113 | 502 | Justin Ritter |
 | 114 | 502 | Elissa S-k |
-| 115 | 500 | Kristie |
-| 116 | 500 | Domo Washington |
+| 115 | 500 | Domo Washington |
+| 116 | 500 | Kristie |
 | 117 | 497 | Mykal Burton |
 | 118 | 492 | Daira Largen |
 | 119 | 491 | Chauntee Alfrey-Cardinale |
@@ -170,9 +170,9 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Logan Naccarato |
-| 167 | 370 | Danielle Allison |
+| 165 | 370 | Danielle Allison |
+| 166 | 370 | Santeria Trece Candles |
+| 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Rachel |
 | 170 | 366 | Adrian Marcel Pate |
@@ -187,8 +187,8 @@
 | 179 | 347 | Nicole Flippo |
 | 180 | 343 | Ashley Raines |
 | 181 | 341 | Samantha Lynn |
-| 182 | 338 | Gumbo |
-| 183 | 338 | Leah Barnett |
+| 182 | 338 | Leah Barnett |
+| 183 | 338 | Gumbo |
 | 184 | 332 | Rich LeBlanc |
 | 185 | 332 | Noyb Adam |
 | 186 | 328 | Giddy Twistbuilder |
@@ -198,11 +198,11 @@
 | 190 | 317 | Ashley Tookes |
 | 191 | 315 | Kammy Hill |
 | 192 | 311 | Rochelle Hazelett |
-| 193 | 311 | Stephanie Burtin |
-| 194 | 311 | Araceli Parra |
+| 193 | 311 | Araceli Parra |
+| 194 | 311 | Stephanie Burtin |
 | 195 | 310 | Danielle Balcom |
-| 196 | 308 | Daryn Elliott |
-| 197 | 308 | Rania Zaqout |
+| 196 | 308 | Rania Zaqout |
+| 197 | 308 | Daryn Elliott |
 | 198 | 307 | rnr junky |
 | 199 | 307 | Blocked |
 | 200 | 302 | Rebecca Bailey |
@@ -272,8 +272,8 @@
 | 264 | 225 | Cozy Snaplink |
 | 265 | 225 | Dirtgirl27 |
 | 266 | 221 | Vaners |
-| 267 | 221 | Alice |
-| 268 | 221 | Jaime Monhaut-Reed |
+| 267 | 221 | Jaime Monhaut-Reed |
+| 268 | 221 | Alice |
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
