@@ -398,8 +398,8 @@
 | 390 | 411 | Ricky Fortune |
 | 391 | 406 | Erin StFrancis |
 | 392 | 406 | Julie Kresal |
-| 393 | 406 | Véronique Lévesque Sabourin |
-| 394 | 406 | Tj Ball |
+| 393 | 406 | Tj Ball |
+| 394 | 406 | Véronique Lévesque Sabourin |
 | 395 | 403 | Tonya Lee |
 | 396 | 402 | Gauri Shrotriya |
 | 397 | 402 | Michelle Fields |

@@ -68,8 +68,8 @@
 | 60 | 409 | Jazzy Framezone |
 | 61 | 397 | Jessica Rabon |
 | 62 | 391 | Robert Benito |
-| 63 | 388 | Yvonne Marie |
-| 64 | 388 | Jennifer ManWarren |
+| 63 | 388 | Jennifer ManWarren |
+| 64 | 388 | Yvonne Marie |
 | 65 | 382 | Lori Sanders- Davis |
 | 66 | 379 | Austin James |
 | 67 | 374 | Tinah Montanna |
@@ -81,8 +81,8 @@
 | 73 | 348 | Stef Hu |
 | 74 | 347 | pjbeta |
 | 75 | 342 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 329 | Luciano Moreira |
 | 80 | 328 | Gracie |
@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Trippy Redd |
-| 118 | 243 | Chelsea Dahlquist |
+| 117 | 243 | Chelsea Dahlquist |
+| 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |
@@ -162,8 +162,8 @@
 | 154 | 186 | Michael |
 | 155 | 185 | Basment Living |
 | 156 | 182 | Monica Donato |
-| 157 | 180 | Erez Yosef |
-| 158 | 180 | BigWeenie69 |
+| 157 | 180 | BigWeenie69 |
+| 158 | 180 | Erez Yosef |
 | 159 | 179 | Danielle Little-Daugherty |
 | 160 | 178 | Chad Atchley |
 | 161 | 177 | Jacqueline Unique |
@@ -197,8 +197,8 @@
 | 189 | 159 | Bindi |
 | 190 | 158 | Sarah Marie |
 | 191 | 157 | Angela Fairbank |
-| 192 | 154 | Christy Jones |
-| 193 | 154 | Melissa Lemmon |
+| 192 | 154 | Melissa Lemmon |
+| 193 | 154 | Christy Jones |
 | 194 | 153 | Barry Mac'Ockner |
 | 195 | 152 | Speedy Snapfall |
 | 196 | 150 | Adele Rahman |
@@ -447,7 +447,7 @@
 | 439 | 68 | Loony Stacky |
 | 440 | 68 | Amanda Johnson Huffman |
 | 441 | 67 | Craig Mcgonigle |
-| 442 | 67 | Glitzy Curvebuilder |
+| 442 | 67 | Wanda Honey |
 | 443 | 67 | Amber Dee |
 | 444 | 67 | Glitzy Curvebuilder |
 | 445 | 67 | Jasmine Riley |

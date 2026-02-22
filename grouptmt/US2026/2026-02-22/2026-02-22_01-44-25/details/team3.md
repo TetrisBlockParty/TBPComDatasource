@@ -193,8 +193,8 @@
 | 185 | 245 | Latoya Mayne |
 | 186 | 245 | Annie Marie |
 | 187 | 243 | Rochelle Hazelett |
-| 188 | 240 | Brandon Givens |
-| 189 | 240 | Jimmie Clemons |
+| 188 | 240 | Jimmie Clemons |
+| 189 | 240 | Brandon Givens |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |
