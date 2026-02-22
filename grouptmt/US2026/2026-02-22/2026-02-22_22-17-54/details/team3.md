@@ -175,8 +175,8 @@
 | 167 | 471 | Mendoza Lee Christy |
 | 168 | 471 | Rachel |
 | 169 | 470 | Logan Naccarato |
-| 170 | 469 | Adrian Marcel Pate |
-| 171 | 469 | Melissa Orth Hunter |
+| 170 | 469 | Melissa Orth Hunter |
+| 171 | 469 | Adrian Marcel Pate |
 | 172 | 468 | Betty Ivy |
 | 173 | 464 | Michelle |
 | 174 | 464 | Makelini Mausia |

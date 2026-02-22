@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -120,8 +120,8 @@
 | 112 | 417 | Lori Sanders- Davis |
 | 113 | 414 | Veronica Eve |
 | 114 | 412 | Anaid Sanchez |
-| 115 | 409 | Yvonne Marie |
-| 116 | 409 | Dandy Basegrid |
+| 115 | 409 | Dandy Basegrid |
+| 116 | 409 | Yvonne Marie |
 | 117 | 400 | Maria C. Hernandez |
 | 118 | 399 | Nery Martinez |
 | 119 | 397 | Candy Jones |

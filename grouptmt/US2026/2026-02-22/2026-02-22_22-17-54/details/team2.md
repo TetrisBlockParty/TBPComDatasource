@@ -178,8 +178,8 @@
 | 170 | 1260 | Joshua Sommerville |
 | 171 | 1257 | Michele Gabriel |
 | 172 | 1242 | Mischelle Clay |
-| 173 | 1232 | Groovy Puzzle |
-| 174 | 1232 | Ambyre Patterson |
+| 173 | 1232 | Ambyre Patterson |
+| 174 | 1232 | Groovy Puzzle |
 | 175 | 1230 | Megan Garrick |
 | 176 | 1224 | Liberty |
 | 177 | 1216 | Nancy Reid |
@@ -355,8 +355,8 @@
 | 347 | 746 | Kathryn Townsley |
 | 348 | 746 | Jerilyn Andrina |
 | 349 | 745 | Kiely Tomaskovich |
-| 350 | 743 | Tiara Elizabeth Baker |
-| 351 | 743 | Melissa Cole |
+| 350 | 743 | Melissa Cole |
+| 351 | 743 | Tiara Elizabeth Baker |
 | 352 | 741 | Mandi Douglas Hilt |
 | 353 | 740 | Jerry Tempelmeyer |
 | 354 | 739 | Brenda Utphall |
@@ -387,9 +387,9 @@
 | 379 | 700 | Vincent Petrella |
 | 380 | 699 | Dannette Goldberg-Richards |
 | 381 | 699 | Melissa Penelope Ann Dodge |
-| 382 | 698 | Spunkysmom |
+| 382 | 698 | Joce Lynn |
 | 383 | 698 | Breezy Filler |
-| 384 | 698 | Joce Lynn |
+| 384 | 698 | Spunkysmom |
 | 385 | 697 | Ashle Scranton |
 | 386 | 695 | Lakeysha Dortch |
 | 387 | 688 | Poldo Ilano |
@@ -412,8 +412,8 @@
 | 404 | 664 | Kayla |
 | 405 | 664 | Sleepypanda67 |
 | 406 | 663 | Kimmy Newman |
-| 407 | 662 | Ellie Jonas |
-| 408 | 662 | AgileDragon |
+| 407 | 662 | AgileDragon |
+| 408 | 662 | Ellie Jonas |
 | 409 | 661 | Christine Bollig |
 | 410 | 659 | Victoria Moore-Smith |
 | 411 | 653 | trabuco |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Casper The Chonk |
@@ -457,8 +457,8 @@
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
 | 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Michelle Fields |
-| 453 | 594 | Autumn Schaeffer |
+| 452 | 594 | Autumn Schaeffer |
+| 453 | 594 | Michelle Fields |
 | 454 | 594 | Irene Jones |
 | 455 | 591 | Kimberly Hope Howell |
 | 456 | 589 | Shavonna Haynes |
@@ -554,8 +554,8 @@
 | 546 | 496 | SwampRebel |
 | 547 | 495 | Michelle Lee |
 | 548 | 495 | Bubbly Snapbuild |
-| 549 | 494 | Snippy Rumbler |
-| 550 | 494 | Venita Ray |
+| 549 | 494 | Venita Ray |
+| 550 | 494 | Snippy Rumbler |
 | 551 | 493 | Sue Leard |
 | 552 | 493 | Besma Ao |
 | 553 | 492 | Breezy Clusterer |
@@ -594,10 +594,10 @@
 | 586 | 474 | Calandra Shaya Robinson |
 | 587 | 474 | Jennifer Scott |
 | 588 | 474 | KayLynn Ogden McClelland |
-| 589 | 473 | Tracy Wise |
+| 589 | 473 | Wuntayk |
 | 590 | 473 | Ashlee Cruz |
-| 591 | 473 | Mary Marie |
-| 592 | 473 | Wuntayk |
+| 591 | 473 | Tracy Wise |
+| 592 | 473 | Mary Marie |
 | 593 | 473 | coleksquad |
 | 594 | 472 | Arwa Fatimah |
 | 595 | 471 | Rae Rae |
