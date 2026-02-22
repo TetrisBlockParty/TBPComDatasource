@@ -391,7 +391,7 @@
 | 383 | 86 | Shannon Marie Pitts |
 | 384 | 86 | Steven Collins |
 | 385 | 85 | Mariah Cornell |
-| 386 | 85 | Jolly Climber |
+| 386 | 85 | Kimberly Sharp-Bowen |
 | 387 | 85 | weezy |
 | 388 | 85 | Lakeisha Chapman |
 | 389 | 85 | Jolly Climber |

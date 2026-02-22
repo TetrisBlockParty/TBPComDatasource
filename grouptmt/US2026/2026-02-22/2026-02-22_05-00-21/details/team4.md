@@ -30,8 +30,8 @@
 | 22 | 898 | Isabel Aguilar |
 | 23 | 883 | Dustin Robert |
 | 24 | 877 | Koshin Abdirahman |
-| 25 | 873 | Elizabeth Sallas |
-| 26 | 873 | Michelle Pearman |
+| 25 | 873 | Michelle Pearman |
+| 26 | 873 | Elizabeth Sallas |
 | 27 | 865 | Devinlee Brown |
 | 28 | 846 | Christine Marie |
 | 29 | 843 | Lucille Truesdale |
@@ -197,9 +197,9 @@
 | 189 | 165 | James Hurley Jr. |
 | 190 | 164 | 030Synner |
 | 191 | 162 | Joanna |
-| 192 | 160 | ZeeZee |
+| 192 | 160 | Carlos Ramirez |
 | 193 | 160 | Laura Hosford |
-| 194 | 160 | Carlos Ramirez |
+| 194 | 160 | ZeeZee |
 | 195 | 159 | Marcus Todd |
 | 196 | 158 | Chair |
 | 197 | 158 | Avy Absol |
