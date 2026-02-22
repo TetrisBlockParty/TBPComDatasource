@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 738 | TeeJ |
@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -116,8 +116,8 @@
 | 108 | 393 | Carlton Unfiltered |
 | 109 | 392 | Ericca Eldridge |
 | 110 | 392 | Scott Jameson |
-| 111 | 391 | Ramel Rhodes |
-| 112 | 391 | Monica Daley |
+| 111 | 391 | Monica Daley |
+| 112 | 391 | Ramel Rhodes |
 | 113 | 388 | Tina Martinez |
 | 114 | 387 | Denise Carlson |
 | 115 | 382 | Lori Walker |
@@ -219,8 +219,8 @@
 | 211 | 204 | Carlos Ramirez |
 | 212 | 203 | Katherine Crane |
 | 213 | 202 | Patron Anderson |
-| 214 | 201 | Melvin Baird |
-| 215 | 201 | Zesty Twistbuilder |
+| 214 | 201 | Zesty Twistbuilder |
+| 215 | 201 | Melvin Baird |
 | 216 | 200 | Lori |
 | 217 | 200 | Laura |
 | 218 | 198 | Calvin Dennis |

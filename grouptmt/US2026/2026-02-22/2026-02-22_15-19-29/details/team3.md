@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -267,8 +267,8 @@
 | 259 | 262 | Joe-Maggie Mathews |
 | 260 | 261 | Tasha Wesson-Torrence |
 | 261 | 261 | Tiffany Ford |
-| 262 | 260 | Grams |
-| 263 | 260 | Nikki Pags |
+| 262 | 260 | Nikki Pags |
+| 263 | 260 | Grams |
 | 264 | 259 | Danielle Weikel |
 | 265 | 257 | Ashley Jones |
 | 266 | 256 | KayB |
@@ -374,8 +374,8 @@
 | 366 | 183 | Naur |
 | 367 | 182 | gremicx |
 | 368 | 181 | Denita Mungro |
-| 369 | 180 | Ava Petito |
-| 370 | 180 | Loopy Fallzone |
+| 369 | 180 | Loopy Fallzone |
+| 370 | 180 | Ava Petito |
 | 371 | 180 | Beth Ingham |
 | 372 | 179 | DanceLuvLaugh |
 | 373 | 178 | Jess Dearborn |

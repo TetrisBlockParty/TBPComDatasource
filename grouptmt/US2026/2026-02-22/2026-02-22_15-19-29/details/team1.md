@@ -128,8 +128,8 @@
 | 120 | 330 | Sweet Baker |
 | 121 | 326 | Monica Donato |
 | 122 | 325 | Jennifer Hardman |
-| 123 | 321 | Tanya Carpenter-Reynolds |
-| 124 | 321 | Maria C. Hernandez |
+| 123 | 321 | Maria C. Hernandez |
+| 124 | 321 | Tanya Carpenter-Reynolds |
 | 125 | 318 | Jessica Sheehan |
 | 126 | 316 | Dizzy Party |
 | 127 | 316 | Ly Phethmany |
@@ -149,8 +149,8 @@
 | 141 | 288 | GATOR |
 | 142 | 287 | David Lutcher |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Emily Adelaide Wheatley |
-| 145 | 284 | Rachael |
+| 144 | 284 | Rachael |
+| 145 | 284 | Emily Adelaide Wheatley |
 | 146 | 283 | Franswa |
 | 147 | 282 | Tyler Werts |
 | 148 | 282 | Cool Shiftsnap |
@@ -172,8 +172,8 @@
 | 164 | 262 | Ty Brown |
 | 165 | 262 | Sleepysloath5745 |
 | 166 | 254 | Al Smith Jr |
-| 167 | 253 | Jamie Jury |
-| 168 | 253 | Witty Builderfit |
+| 167 | 253 | Witty Builderfit |
+| 168 | 253 | Jamie Jury |
 | 169 | 252 | Dena Kayy |
 | 170 | 249 | Lakeisha Chapman |
 | 171 | 246 | Mike Ames |

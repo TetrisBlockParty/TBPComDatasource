@@ -314,11 +314,11 @@
 | 306 | 715 | Stephanie Lumanlan |
 | 307 | 713 | Chelle |
 | 308 | 711 | Melissa Holsinger |
-| 309 | 704 | Shelley Thornburgh Wright |
-| 310 | 704 | Jánine Riggs |
+| 309 | 704 | Jánine Riggs |
+| 310 | 704 | Shelley Thornburgh Wright |
 | 311 | 703 | Gold Rose |
-| 312 | 700 | Vincent Petrella |
-| 313 | 700 | Hong Tang |
+| 312 | 700 | Hong Tang |
+| 313 | 700 | Vincent Petrella |
 | 314 | 700 | Beverly Owens |
 | 315 | 700 | Rosemadder |
 | 316 | 697 | Dreamy Blast |
@@ -330,8 +330,8 @@
 | 322 | 688 | ShinyRose |
 | 323 | 687 | Dee |
 | 324 | 686 | Ashley Guernsey-Martin |
-| 325 | 685 | Binyah-Binyah |
-| 326 | 685 | Brenda Pierpoint |
+| 325 | 685 | Brenda Pierpoint |
+| 326 | 685 | Binyah-Binyah |
 | 327 | 682 | Poldo Ilano |
 | 328 | 680 | Glitzy Stackzone |
 | 329 | 679 | Leslie Ann Carter |
@@ -470,8 +470,8 @@
 | 462 | 499 | Sarah Massey |
 | 463 | 498 | Rhonda Milstead |
 | 464 | 498 | Aimee Campbell |
-| 465 | 497 | Doowop40 |
-| 466 | 497 | June E Hanson |
+| 465 | 497 | June E Hanson |
+| 466 | 497 | Doowop40 |
 | 467 | 496 | Erika Densmore |
 | 468 | 495 | Bubbly Snapbuild |
 | 469 | 494 | Venita Ray |
