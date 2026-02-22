@@ -184,8 +184,8 @@
 | 176 | 384 | Dapper Snap |
 | 177 | 382 | Scott Carleton |
 | 178 | 380 | Tasha Schriewer |
-| 179 | 378 | Nicole Flippo |
-| 180 | 378 | Chris Bell |
+| 179 | 378 | Chris Bell |
+| 180 | 378 | Nicole Flippo |
 | 181 | 376 | Loopy Clusterer |
 | 182 | 374 | Sherry Ogden |
 | 183 | 372 | Giddy Twistbuilder |
@@ -213,8 +213,8 @@
 | 205 | 332 | Rich LeBlanc |
 | 206 | 330 | Rebecca Funderburk Kirby |
 | 207 | 330 | Danielle Balcom |
-| 208 | 324 | Kristal C Lee |
-| 209 | 324 | Sissy Lowery Davis |
+| 208 | 324 | Sissy Lowery Davis |
+| 209 | 324 | Kristal C Lee |
 | 210 | 323 | Demetrious Shaw Sr. |
 | 211 | 320 | Or Reznitsky |
 | 212 | 320 | Trisha Balmer |
@@ -265,11 +265,11 @@
 | 257 | 269 | Annie Marie |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Nikki Pags |
-| 264 | 260 | Grams |
+| 263 | 260 | Grams |
+| 264 | 260 | Nikki Pags |
 | 265 | 259 | Danielle Weikel |
 | 266 | 257 | Ashley Jones |
 | 267 | 256 | Connie Mohler-Fair |
@@ -516,8 +516,8 @@
 | 508 | 133 | Jumpy Wrecker |
 | 509 | 133 | Nichol Graham |
 | 510 | 132 | Andrew Thorson |
-| 511 | 131 | Jolly Dashpiece |
-| 512 | 131 | Erin Ervin |
+| 511 | 131 | Erin Ervin |
+| 512 | 131 | Jolly Dashpiece |
 | 513 | 130 | Alexi Pryor |
 | 514 | 129 | TLM |
 | 515 | 129 | luluraine |
@@ -542,8 +542,8 @@
 | 534 | 125 | Felicia Doxey |
 | 535 | 124 | joz |
 | 536 | 124 | Jess Meyers |
-| 537 | 124 | Carol Cain Thurman |
-| 538 | 124 | xsiv |
+| 537 | 124 | xsiv |
+| 538 | 124 | Carol Cain Thurman |
 | 539 | 123 | Michael Latasha Gray |
 | 540 | 123 | Chenoa Urban Sophicated Redy |
 | 541 | 123 | Silly Curvetile |

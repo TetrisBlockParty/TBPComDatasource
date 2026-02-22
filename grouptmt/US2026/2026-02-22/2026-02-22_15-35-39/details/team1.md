@@ -149,8 +149,8 @@
 | 141 | 292 | David Lutcher |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Rachael |
-| 145 | 284 | Emily Adelaide Wheatley |
+| 144 | 284 | Emily Adelaide Wheatley |
+| 145 | 284 | Rachael |
 | 146 | 283 | Franswa |
 | 147 | 282 | Snippy Wipebuilder |
 | 148 | 282 | Cool Shiftsnap |
@@ -293,8 +293,8 @@
 | 285 | 168 | Angela Fairbank |
 | 286 | 166 | LD1 |
 | 287 | 166 | Carrie Smith |
-| 288 | 165 | Silly Align |
-| 289 | 165 | Nadine Velardo |
+| 288 | 165 | Nadine Velardo |
+| 289 | 165 | Silly Align |
 | 290 | 164 | Poppy Riserpiece |
 | 291 | 163 | Tyler Whitley |
 | 292 | 163 | Blaire Bruckoff |
@@ -319,12 +319,12 @@
 | 311 | 153 | John Kim |
 | 312 | 153 | Dino |
 | 313 | 152 | Speedy Snapfall |
-| 314 | 151 | Gilbert Ortiz Jr. |
-| 315 | 151 | Bruce Cruz |
-| 316 | 150 | Barrbaric |
-| 317 | 150 | Agustin Duarte Orozco |
-| 318 | 149 | Cody Gates |
-| 319 | 149 | Melissa Bires Hussar |
+| 314 | 151 | Bruce Cruz |
+| 315 | 151 | Gilbert Ortiz Jr. |
+| 316 | 150 | Agustin Duarte Orozco |
+| 317 | 150 | Barrbaric |
+| 318 | 149 | Melissa Bires Hussar |
+| 319 | 149 | Cody Gates |
 | 320 | 148 | Howdi Duty |
 | 321 | 148 | Teddy Alexander |
 | 322 | 146 | Jordan Brooks |
@@ -357,21 +357,21 @@
 | 349 | 133 | Jasmine Riley |
 | 350 | 133 | Teri Oehlke |
 | 351 | 133 | MommaKFC |
-| 352 | 133 | Teri Oehlke |
+| 352 | 133 | Nate Funk |
 | 353 | 132 | Layzietyme |
-| 354 | 131 | Ramona Shaver |
-| 355 | 131 | Dizzy Riseclear |
-| 356 | 131 | Plucky Wrecker |
-| 357 | 130 | Katie Toothman |
-| 358 | 130 | Carl Claunch |
+| 354 | 131 | Plucky Wrecker |
+| 355 | 131 | Ramona Shaver |
+| 356 | 131 | Dizzy Riseclear |
+| 357 | 130 | Carl Claunch |
+| 358 | 130 | Katie Toothman |
 | 359 | 129 | Sherri E Woods Hess |
 | 360 | 128 | Alyssa Ingram |
 | 361 | 128 | George Dalton |
 | 362 | 128 | Itspaigebro |
 | 363 | 127 | Danielle Mae |
 | 364 | 127 | Test |
-| 365 | 126 | Zany Tiler |
-| 366 | 126 | Tyler Hertzog |
+| 365 | 126 | Tyler Hertzog |
+| 366 | 126 | Zany Tiler |
 | 367 | 126 | DoodleBug |
 | 368 | 125 | Angela Spann |
 | 369 | 125 | Christina Backer |

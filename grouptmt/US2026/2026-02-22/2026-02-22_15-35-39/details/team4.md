@@ -43,15 +43,15 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -117,8 +117,8 @@
 | 109 | 393 | Carlton Unfiltered |
 | 110 | 392 | Ericca Eldridge |
 | 111 | 392 | Scott Jameson |
-| 112 | 391 | Ramel Rhodes |
-| 113 | 391 | Monica Daley |
+| 112 | 391 | Monica Daley |
+| 113 | 391 | Ramel Rhodes |
 | 114 | 388 | Tina Martinez |
 | 115 | 387 | Denise Carlson |
 | 116 | 373 | Joseph Guthrie |
@@ -293,8 +293,8 @@
 | 285 | 151 | Joseph Pace |
 | 286 | 151 | Shanon Klair |
 | 287 | 151 | Amanda Christine |
-| 288 | 150 | Brandon Link |
-| 289 | 150 | Jared Gutwein |
+| 288 | 150 | Jared Gutwein |
+| 289 | 150 | Brandon Link |
 | 290 | 150 | GBR |
 | 291 | 148 | Sam Middleton |
 | 292 | 148 | Nubian1 |
@@ -308,10 +308,10 @@
 | 300 | 145 | Glitzy Crasher |
 | 301 | 145 | Nick Gray |
 | 302 | 144 | Sticherella |
-| 303 | 144 | Maureen Flanigan |
-| 304 | 144 | Circuit8 |
-| 305 | 143 | Asher |
-| 306 | 143 | Dennis Bradley |
+| 303 | 144 | Circuit8 |
+| 304 | 144 | Maureen Flanigan |
+| 305 | 143 | Dennis Bradley |
+| 306 | 143 | Asher |
 | 307 | 143 | Metsfan |
 | 308 | 143 | Daresha Fair |
 | 309 | 142 | Chantilly Laace |
@@ -361,7 +361,7 @@
 | 353 | 129 | Berklie Apedaile |
 | 354 | 128 | Silly Zonebuilder |
 | 355 | 128 | Madison Sweere |
-| 356 | 128 | Silly Zonebuilder |
+| 356 | 128 | Gracie Ann Taylor |
 | 357 | 127 | Bradley Reeves |
 | 358 | 127 | Frank Cook |
 | 359 | 127 | Robert Rodriguez |
@@ -379,8 +379,8 @@
 | 371 | 123 | Joseph Edmonson |
 | 372 | 122 | PennyCandee |
 | 373 | 121 | Riverdale |
-| 374 | 120 | Bryan Hodgins |
-| 375 | 120 | wombat |
+| 374 | 120 | wombat |
+| 375 | 120 | Bryan Hodgins |
 | 376 | 119 | rebel4lyfe |
 | 377 | 119 | River Shady Sr. |
 | 378 | 118 | Michele Plunkett |
@@ -461,9 +461,9 @@
 | 453 | 99 | Dapper Caster |
 | 454 | 99 | Heather Layne Smith |
 | 455 | 99 | Jacob Campbell |
-| 456 | 98 | LunaMoon |
+| 456 | 98 | Brenda Bird |
 | 457 | 98 | Morti |
-| 458 | 98 | Brenda Bird |
+| 458 | 98 | LunaMoon |
 | 459 | 98 | Squeezy Pearsall |
 | 460 | 98 | Groovy Gridlock |
 | 461 | 98 | Hyper Builder |

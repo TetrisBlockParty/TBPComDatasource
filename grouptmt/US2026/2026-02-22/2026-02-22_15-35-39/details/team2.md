@@ -413,8 +413,8 @@
 | 405 | 558 | Libby Hicks |
 | 406 | 558 | Mikayala Szaz |
 | 407 | 556 | Slip |
-| 408 | 554 | Rachael Senard |
-| 409 | 554 | Santana Miyagi |
+| 408 | 554 | Santana Miyagi |
+| 409 | 554 | Rachael Senard |
 | 410 | 553 | Blacc Blac |
 | 411 | 550 | Angela Lynn |
 | 412 | 550 | Nashu |
@@ -528,15 +528,15 @@
 | 520 | 462 | Jarboe |
 | 521 | 460 | Tara Lynn Janes |
 | 522 | 460 | Michael Artis |
-| 523 | 458 | Casper The Chonk |
-| 524 | 458 | SwampRebel |
+| 523 | 458 | SwampRebel |
+| 524 | 458 | Casper The Chonk |
 | 525 | 456 | Skyler Morgan |
 | 526 | 454 | Casey Schumacher |
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Funky Caster |
-| 531 | 451 | Anthony Huebel |
+| 530 | 451 | Anthony Huebel |
+| 531 | 451 | Funky Caster |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |
@@ -912,8 +912,8 @@
 | 904 | 272 | Fredrick Burney |
 | 905 | 272 | Gina Justbeingme Chillis |
 | 906 | 272 | Trina Harrison |
-| 907 | 271 | Sedo |
-| 908 | 271 | Amber N Koepp |
+| 907 | 271 | Amber N Koepp |
+| 908 | 271 | Sedo |
 | 909 | 271 | Beverly Hodge |
 | 910 | 271 | Shalisa Hill |
 | 911 | 271 | Pam Doughty |
@@ -953,8 +953,8 @@
 | 945 | 262 | Taren Cowan |
 | 946 | 262 | Squirrel |
 | 947 | 261 | Chirpy Tilt |
-| 948 | 261 | Dany Murillo |
-| 949 | 261 | Gina Gina |
+| 948 | 261 | Gina Gina |
+| 949 | 261 | Dany Murillo |
 | 950 | 261 | MrsClaudette Will'sIam Matthews |
 | 951 | 261 | Mellissa Evans |
 | 952 | 260 | Giggly Snap |
@@ -1085,8 +1085,8 @@
 | 1077 | 231 | Himothy |
 | 1078 | 231 | Vung Nguyen |
 | 1079 | 230 | Anna Mayo |
-| 1080 | 230 | Hoppy Glidebuilder |
-| 1081 | 230 | Laura Mcfee |
+| 1080 | 230 | Laura Mcfee |
+| 1081 | 230 | Hoppy Glidebuilder |
 | 1082 | 230 | lady |
 | 1083 | 229 | Marcie McLain Dodd |
 | 1084 | 229 | BbqGuru |
