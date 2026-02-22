@@ -143,8 +143,8 @@
 | 135 | 1051 | Shandrica Lowe |
 | 136 | 1048 | PsychKIRAtrist |
 | 137 | 1047 | Amy Sayers |
-| 138 | 1043 | Brave Dropmatch |
-| 139 | 1043 | Suki Kaur |
+| 138 | 1043 | Suki Kaur |
+| 139 | 1043 | Brave Dropmatch |
 | 140 | 1032 | Sarah Freitas |
 | 141 | 1023 | Brainy Smurf |
 | 142 | 1020 | Jumpy Gridpiece |
@@ -364,8 +364,8 @@
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Andrew Willis |
-| 360 | 488 | Venita Ray |
+| 359 | 488 | Venita Ray |
+| 360 | 488 | Andrew Willis |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -677,8 +677,8 @@
 | 669 | 285 | June E Hanson |
 | 670 | 285 | Court |
 | 671 | 284 | Tabs Reichert |
-| 672 | 284 | Hillary Franklin |
-| 673 | 284 | Dapper Dasher |
+| 672 | 284 | Dapper Dasher |
+| 673 | 284 | Hillary Franklin |
 | 674 | 283 | Tash Bell |
 | 675 | 282 | Nutty Slice |
 | 676 | 280 | Danielle DeLozier Plesec |

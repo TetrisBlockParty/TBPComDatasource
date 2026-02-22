@@ -155,8 +155,8 @@
 | 147 | 366 | Adrian Marcel Pate |
 | 148 | 365 | Logan Naccarato |
 | 149 | 359 | Dapper Snap |
-| 150 | 355 | Tessina Dewey-Mancino |
-| 151 | 355 | Sherry Ogden |
+| 150 | 355 | Sherry Ogden |
+| 151 | 355 | Tessina Dewey-Mancino |
 | 152 | 353 | Shunta Jacobs |
 | 153 | 353 | CeceGeGe |
 | 154 | 352 | Chris Bell |
@@ -363,7 +363,7 @@
 | 355 | 141 | Melissa Snyder |
 | 356 | 140 | Linda Draper |
 | 357 | 139 | Paula Little |
-| 358 | 138 | Boldy Corner |
+| 358 | 138 | MizzMonick Smith |
 | 359 | 138 | Skinny Baldez |
 | 360 | 138 | Boldy Corner |
 | 361 | 137 | Giggly Brickroll |
@@ -385,12 +385,12 @@
 | 377 | 130 | TotoCherue |
 | 378 | 130 | Karen Picaboo |
 | 379 | 129 | Juliana Dottore |
-| 380 | 129 | Stella |
-| 381 | 129 | luluraine |
-| 382 | 129 | Amanda Neal |
+| 380 | 129 | luluraine |
+| 381 | 129 | Amanda Neal |
+| 382 | 129 | Stella |
 | 383 | 128 | David Kozen |
-| 384 | 127 | Sarah Whalen |
-| 385 | 127 | Jumpy Wrecker |
+| 384 | 127 | Jumpy Wrecker |
+| 385 | 127 | Sarah Whalen |
 | 386 | 126 | Tipsy Puzzle |
 | 387 | 126 | Crystal Martin |
 | 388 | 125 | Shimika Enay Wallace |

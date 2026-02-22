@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Amy Suckarieh |
-| 75 | 396 | Alicia Bass |
+| 74 | 396 | Alicia Bass |
+| 75 | 396 | Amy Suckarieh |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -200,7 +200,7 @@
 | 192 | 155 | AyeKay |
 | 193 | 153 | Empress Oasis |
 | 194 | 152 | John Brunetti |
-| 195 | 152 | Jolly Dashfit |
+| 195 | 152 | Austin Owens |
 | 196 | 152 | Faja |
 | 197 | 152 | Jolly Dashfit |
 | 198 | 151 | Bethany Ison |
@@ -294,8 +294,8 @@
 | 286 | 115 | Rebecca Morris |
 | 287 | 115 | Berklie Apedaile |
 | 288 | 114 | Christina Black |
-| 289 | 113 | Dandy Cascadefit |
-| 290 | 113 | Adam Randall |
+| 289 | 113 | Adam Randall |
+| 290 | 113 | Dandy Cascadefit |
 | 291 | 112 | Chris Alexinas |
 | 292 | 111 | Michael Orris |
 | 293 | 111 | Lazy Blocker |
