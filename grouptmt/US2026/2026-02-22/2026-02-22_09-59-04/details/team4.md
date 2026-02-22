@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -100,8 +100,8 @@
 | 92 | 404 | Courtney Cicoria |
 | 93 | 403 | shar |
 | 94 | 401 | Zippy Gridlock |
-| 95 | 396 | Amy Suckarieh |
-| 96 | 396 | Alicia Bass |
+| 95 | 396 | Alicia Bass |
+| 96 | 396 | Amy Suckarieh |
 | 97 | 392 | Ericca Eldridge |
 | 98 | 391 | Ramel Rhodes |
 | 99 | 390 | Carlton Unfiltered |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | Daria Rycewicz |
-| 127 | 286 | shark tato |
+| 126 | 286 | shark tato |
+| 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |

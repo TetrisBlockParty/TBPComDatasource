@@ -312,8 +312,8 @@
 | 304 | 202 | Staci George Fitzsimmons |
 | 305 | 201 | Hyper Matchzone |
 | 306 | 201 | Alexmac |
-| 307 | 200 | glichmod |
-| 308 | 200 | Sharisse Baltimore |
+| 307 | 200 | Sharisse Baltimore |
+| 308 | 200 | glichmod |
 | 309 | 200 | Saucy Buildout |
 | 310 | 198 | kacihall |
 | 311 | 195 | Nicha Hooker |

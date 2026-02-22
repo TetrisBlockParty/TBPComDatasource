@@ -154,8 +154,8 @@
 | 146 | 256 | David Miller |
 | 147 | 255 | Elaine Elaine |
 | 148 | 254 | Al Smith Jr |
-| 149 | 253 | Witty Builderfit |
-| 150 | 253 | Plucky Fallzone |
+| 149 | 253 | Plucky Fallzone |
+| 150 | 253 | Witty Builderfit |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
 | 153 | 246 | Mandyy Rae |

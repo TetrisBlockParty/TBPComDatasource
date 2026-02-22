@@ -942,8 +942,8 @@
 | 934 | 242 | Greenshades00 |
 | 935 | 242 | Donna Chandler |
 | 936 | 242 | Groovy Tilefall |
-| 937 | 241 | Emoney Sanchez |
-| 938 | 241 | Ronda Cary |
+| 937 | 241 | Ronda Cary |
+| 938 | 241 | Emoney Sanchez |
 | 939 | 241 | Travis Tinsley |
 | 940 | 240 | Renee Bowers |
 | 941 | 240 | Alison Emmons |
@@ -955,11 +955,11 @@
 | 947 | 239 | Joel Rosado |
 | 948 | 239 | Daring Matchfit |
 | 949 | 238 | Trista Carter |
-| 950 | 238 | SwifftFox |
-| 951 | 238 | Pfc Monei Rivera |
-| 952 | 237 | Breezy Tilt |
+| 950 | 238 | Pfc Monei Rivera |
+| 951 | 238 | SwifftFox |
+| 952 | 237 | Devlin Ogg |
 | 953 | 237 | Jay Levy |
-| 954 | 237 | Devlin Ogg |
+| 954 | 237 | Breezy Tilt |
 | 955 | 237 | Jodi Mitnick |
 | 956 | 237 | Nutty Matchline |
 | 957 | 235 | Angelica |
