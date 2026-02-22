@@ -470,9 +470,9 @@
 | 462 | 466 | Koa N Sharon Chen |
 | 463 | 465 | Davetta Sanford |
 | 464 | 464 | snkylnk |
-| 465 | 463 | Sue Leard |
-| 466 | 463 | Jaye EL Hunter |
-| 467 | 463 | Cody Nishimura |
+| 465 | 463 | Jaye EL Hunter |
+| 466 | 463 | Cody Nishimura |
+| 467 | 463 | Sue Leard |
 | 468 | 462 | Jarboe |
 | 469 | 462 | Tonya Lee |
 | 470 | 462 | Daphne Jordan |
@@ -482,8 +482,8 @@
 | 474 | 456 | Melissa Rebbe-Lehman |
 | 475 | 455 | Kiana Boschh |
 | 476 | 454 | Casey Schumacher |
-| 477 | 453 | Joshua Sommerville |
-| 478 | 453 | Rhonda Petro |
+| 477 | 453 | Rhonda Petro |
+| 478 | 453 | Joshua Sommerville |
 | 479 | 451 | Funky Caster |
 | 480 | 451 | Dylan Thomason |
 | 481 | 450 | Cheery Matchzone |
@@ -611,11 +611,11 @@
 | 603 | 375 | Cecilia A Jenkins |
 | 604 | 375 | Lively Edgepiece |
 | 605 | 373 | Ashley Marie |
-| 606 | 373 | Hunter Connors |
-| 607 | 373 | Jessica Hughes |
+| 606 | 373 | Jessica Hughes |
+| 607 | 373 | Hunter Connors |
 | 608 | 372 | Ebony Deloach Bryant |
-| 609 | 371 | AkaLefty |
-| 610 | 371 | Brenda Messer |
+| 609 | 371 | Brenda Messer |
+| 610 | 371 | AkaLefty |
 | 611 | 371 | Saucy Fitzone |
 | 612 | 369 | RaeVan Worthington |
 | 613 | 369 | Tony Lea |
@@ -637,8 +637,8 @@
 | 629 | 362 | Andrea Maher |
 | 630 | 362 | Veronics |
 | 631 | 362 | Tracy Wise |
-| 632 | 362 | Aishah Brice |
-| 633 | 362 | Jennifer Scott |
+| 632 | 362 | Jennifer Scott |
+| 633 | 362 | Aishah Brice |
 | 634 | 361 | Michelle Shrum |
 | 635 | 361 | Lewis Sturgeon |
 | 636 | 360 | Jroc |
@@ -1357,9 +1357,9 @@
 | 1349 | 168 | Gaby |
 | 1350 | 168 | Mishka Upchurch |
 | 1351 | 168 | Leslie |
-| 1352 | 168 | Melissa Licklider |
-| 1353 | 168 | Jay Dreamer-x Shelly |
-| 1354 | 168 | JessieP123 |
+| 1352 | 168 | JessieP123 |
+| 1353 | 168 | Melissa Licklider |
+| 1354 | 168 | Jay Dreamer-x Shelly |
 | 1355 | 168 | Starrs Dcct |
 | 1356 | 167 | Stephanie Garber |
 | 1357 | 167 | Koko Charlotte Rudo |
@@ -1490,8 +1490,8 @@
 | 1482 | 153 | Amanda Fullerton |
 | 1483 | 153 | Ms806 |
 | 1484 | 153 | Ryan Kluck |
-| 1485 | 153 | Klaudia Figaszewska |
-| 1486 | 153 | Daring Caster |
+| 1485 | 153 | Daring Caster |
+| 1486 | 153 | Klaudia Figaszewska |
 | 1487 | 153 | Treshell Boyd |
 | 1488 | 152 | Angel Hunnewell |
 | 1489 | 152 | Carrie Pike |
