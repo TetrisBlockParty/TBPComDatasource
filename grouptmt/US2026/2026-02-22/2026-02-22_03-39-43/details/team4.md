@@ -118,8 +118,8 @@
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
 | 112 | 264 | Dana Scott |
-| 113 | 264 | Epic Curvetile |
-| 114 | 264 | Girl |
+| 113 | 264 | Girl |
+| 114 | 264 | Epic Curvetile |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
 | 117 | 256 | Mylo Lipscomb |
@@ -131,8 +131,8 @@
 | 123 | 236 | Scott Jameson |
 | 124 | 232 | Crystal Nicolette Moore |
 | 125 | 231 | Chastity Mitchell |
-| 126 | 230 | Justin Hannigan |
-| 127 | 230 | Autum Leigh |
+| 126 | 230 | Autum Leigh |
+| 127 | 230 | Justin Hannigan |
 | 128 | 230 | loulou |
 | 129 | 227 | Alyssa Papen |
 | 130 | 225 | Damn Libra |
@@ -171,8 +171,8 @@
 | 163 | 189 | Chilly Crasher |
 | 164 | 188 | Andria Lynn |
 | 165 | 186 | Holly |
-| 166 | 185 | Andy Cabral |
-| 167 | 185 | Lori |
+| 166 | 185 | Lori |
+| 167 | 185 | Andy Cabral |
 | 168 | 184 | Ak Jones |
 | 169 | 181 | Klo |
 | 170 | 181 | Carter Jones |
@@ -216,8 +216,8 @@
 | 208 | 143 | Lauren Lamb |
 | 209 | 143 | Sam Bishop |
 | 210 | 142 | Stephme310 |
-| 211 | 142 | Victoria Faniel |
-| 212 | 142 | Zippy Gridlock |
+| 211 | 142 | Zippy Gridlock |
+| 212 | 142 | Victoria Faniel |
 | 213 | 141 | ĥuf |
 | 214 | 141 | Montiette Mcglown |
 | 215 | 141 | Kathy Allen |
@@ -405,8 +405,8 @@
 | 397 | 80 | Melissa Adams |
 | 398 | 80 | Brittany Little |
 | 399 | 79 | Sharyn Lemire |
-| 400 | 79 | Undeniable Williams |
-| 401 | 79 | Krs |
+| 400 | 79 | Krs |
+| 401 | 79 | Undeniable Williams |
 | 402 | 78 | Cranky Glidebuilder |
 | 403 | 78 | Smiley Shifter |
 | 404 | 77 | Marvin Lou Martin |

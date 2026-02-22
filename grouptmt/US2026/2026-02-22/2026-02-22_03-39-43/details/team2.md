@@ -206,8 +206,8 @@
 | 198 | 798 | Moose Griffith |
 | 199 | 787 | Laura McCarthey |
 | 200 | 783 | Shuany Arias |
-| 201 | 777 | Tesha Oldaker |
-| 202 | 777 | Barbra Miller |
+| 201 | 777 | Barbra Miller |
+| 202 | 777 | Tesha Oldaker |
 | 203 | 771 | Terri McKelvey McKinley |
 | 204 | 765 | Jodi Blake |
 | 205 | 763 | Dineisha Carpenter |
@@ -247,8 +247,8 @@
 | 239 | 678 | Scott Treadway |
 | 240 | 677 | Mema |
 | 241 | 676 | Pacynthia Williams |
-| 242 | 675 | Tommy Tha Boss Gunz |
-| 243 | 675 | Brenda Utphall |
+| 242 | 675 | Brenda Utphall |
+| 243 | 675 | Tommy Tha Boss Gunz |
 | 244 | 674 | Auntie B |
 | 245 | 672 | Danielle Simmons |
 | 246 | 669 | Claire Noland |
@@ -446,8 +446,8 @@
 | 438 | 402 | SwampRebel |
 | 439 | 402 | Michelle Fields |
 | 440 | 401 | Lee Harper |
-| 441 | 401 | De Hawkins |
-| 442 | 401 | Taylor Flowers |
+| 441 | 401 | Taylor Flowers |
+| 442 | 401 | De Hawkins |
 | 443 | 400 | Tammy Allen |
 | 444 | 400 | Victoria Regina Girolami |
 | 445 | 399 | Goofy Dasher |
@@ -463,8 +463,8 @@
 | 455 | 392 | Christine Bollig |
 | 456 | 391 | Cleo Sims |
 | 457 | 391 | Qiana Sanders |
-| 458 | 391 | Chilly Bridgepiece |
-| 459 | 391 | Adam Simmons |
+| 458 | 391 | Adam Simmons |
+| 459 | 391 | Chilly Bridgepiece |
 | 460 | 390 | Alexandra Weir |
 | 461 | 389 | Alexis Richardson |
 | 462 | 389 | Irene Jones |
@@ -504,8 +504,8 @@
 | 496 | 368 | Elisheva Mizrachi |
 | 497 | 367 | Deyawn Smith |
 | 498 | 366 | Julie Hamilton |
-| 499 | 366 | Smashanator |
-| 500 | 366 | Courtney Burcham |
+| 499 | 366 | Courtney Burcham |
+| 500 | 366 | Smashanator |
 | 501 | 365 | Christina Lewis-Vickers |
 | 502 | 365 | Audrey Jones |
 | 503 | 365 | Susan Arnburg |
@@ -528,8 +528,8 @@
 | 520 | 357 | Shannon Byrd |
 | 521 | 355 | Amanda Perez |
 | 522 | 354 | Connie Lepore-Mann |
-| 523 | 354 | Rickey Johnson |
-| 524 | 354 | Demeka Dangerous-kisses Johnson |
+| 523 | 354 | Demeka Dangerous-kisses Johnson |
+| 524 | 354 | Rickey Johnson |
 | 525 | 353 | Cheery Matchzone |
 | 526 | 352 | Jean FU Jagielski |
 | 527 | 352 | Andrea Maher |

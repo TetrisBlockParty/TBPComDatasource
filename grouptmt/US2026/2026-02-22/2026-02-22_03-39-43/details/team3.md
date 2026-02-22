@@ -71,8 +71,8 @@
 | 63 | 713 | Jessica Bechler |
 | 64 | 704 | Suzieq |
 | 65 | 682 | Patricia Gadsden |
-| 66 | 656 | Ebony West-Cundiff |
-| 67 | 656 | Elaine Webb Graves |
+| 66 | 656 | Elaine Webb Graves |
+| 67 | 656 | Ebony West-Cundiff |
 | 68 | 649 | MissTaylor |
 | 69 | 628 | Tiff Vs Tiffany |
 | 70 | 621 | Cherry Parker |
@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Natasha Jones |
-| 78 | 582 | Jay Horn |
-| 79 | 582 | Speedy Bridger |
+| 77 | 582 | Jay Horn |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -128,8 +128,8 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Christine Filson |
-| 124 | 403 | Scott Lindsay |
+| 123 | 403 | Scott Lindsay |
+| 124 | 403 | Christine Filson |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
 | 127 | 399 | Patti Skiles |

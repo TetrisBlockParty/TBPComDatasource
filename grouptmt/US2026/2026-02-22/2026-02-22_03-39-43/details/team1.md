@@ -117,8 +117,8 @@
 | 109 | 283 | Franswa |
 | 110 | 282 | Timothy Dew |
 | 111 | 280 | Sarah Roberts |
-| 112 | 277 | Ly Phethmany |
-| 113 | 277 | Katie Daniels |
+| 112 | 277 | Katie Daniels |
+| 113 | 277 | Ly Phethmany |
 | 114 | 276 | Rachael |
 | 115 | 275 | Bhelle Sumile |
 | 116 | 273 | Happy Basegrid |
@@ -129,8 +129,8 @@
 | 121 | 252 | Dena Kayy |
 | 122 | 252 | Elaine Elaine |
 | 123 | 247 | Tana |
-| 124 | 243 | Trippy Redd |
-| 125 | 243 | Chelsea Dahlquist |
+| 124 | 243 | Chelsea Dahlquist |
+| 125 | 243 | Trippy Redd |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | Mandyy Rae |
 | 128 | 232 | Jennifer Hardman |
@@ -144,8 +144,8 @@
 | 136 | 216 | Shauntina Burke |
 | 137 | 216 | MRdot Rooski |
 | 138 | 214 | GATOR |
-| 139 | 212 | Lori Bales |
-| 140 | 212 | Jaimie Lynn |
+| 139 | 212 | Jaimie Lynn |
+| 140 | 212 | Lori Bales |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Giggly Builderline |
 | 143 | 208 | Bouncy Grid |
@@ -155,8 +155,8 @@
 | 147 | 203 | Paula Martin |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Happy Snapbuild |
-| 151 | 198 | Shiny Gridmatch |
+| 150 | 198 | Shiny Gridmatch |
+| 151 | 198 | Happy Snapbuild |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | lil mickey |
@@ -165,8 +165,8 @@
 | 157 | 192 | Jessica Sheehan |
 | 158 | 192 | Christy Jones |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Sweetts |
-| 161 | 190 | Thorne Shumate |
+| 160 | 190 | Thorne Shumate |
+| 161 | 190 | Sweetts |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Jennifer Olewnik Soborowski |
