@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -329,8 +329,8 @@
 | 321 | 700 | Vincent Petrella |
 | 322 | 700 | Hong Tang |
 | 323 | 699 | tejas25 |
-| 324 | 697 | Ashle Scranton |
-| 325 | 697 | Dreamy Blast |
+| 324 | 697 | Dreamy Blast |
+| 325 | 697 | Ashle Scranton |
 | 326 | 695 | Deborah Miller |
 | 327 | 695 | Lakeysha Dortch |
 | 328 | 692 | Dannette Goldberg-Richards |
@@ -363,8 +363,8 @@
 | 355 | 650 | Shiny Rollzone |
 | 356 | 644 | Desiree Anderson |
 | 357 | 643 | Hoppy Brickmatch |
-| 358 | 640 | BYM4L |
-| 359 | 640 | Kara Gillen |
+| 358 | 640 | Kara Gillen |
+| 359 | 640 | BYM4L |
 | 360 | 639 | Crystie Hicks |
 | 361 | 639 | Rebecca Miller |
 | 362 | 634 | Gary Stash |

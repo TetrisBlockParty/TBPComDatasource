@@ -70,8 +70,8 @@
 | 62 | 664 | Valerie Roberts |
 | 63 | 659 | Jonathan Kimbrough |
 | 64 | 658 | loulou |
-| 65 | 654 | Kimyatta Cavin |
-| 66 | 654 | Chilly Line |
+| 65 | 654 | Chilly Line |
+| 66 | 654 | Kimyatta Cavin |
 | 67 | 647 | KM8 |
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -253,12 +253,12 @@
 | 245 | 184 | Ak Jones |
 | 246 | 184 | Lauren Lamb |
 | 247 | 183 | JPW |
-| 248 | 181 | Jackie Marie |
-| 249 | 181 | Carter Jones |
+| 248 | 181 | Carter Jones |
+| 249 | 181 | Jackie Marie |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Stephme310 |
-| 252 | 179 | Christina Black |
-| 253 | 179 | TinyLegoRose |
+| 252 | 179 | TinyLegoRose |
+| 253 | 179 | Christina Black |
 | 254 | 179 | AyeKay |
 | 255 | 175 | Lorena Guerrero-Barron |
 | 256 | 171 | Autumn Kumzi |
@@ -294,8 +294,8 @@
 | 286 | 153 | Shainne Brewer |
 | 287 | 153 | Empress Oasis |
 | 288 | 152 | Jared Gutwein |
-| 289 | 152 | Faja |
-| 290 | 152 | Angela Geist Jusinski |
+| 289 | 152 | Angela Geist Jusinski |
+| 290 | 152 | Faja |
 | 291 | 151 | Shanon Klair |
 | 292 | 151 | Joseph Pace |
 | 293 | 151 | Sarah Hoffman |
@@ -499,8 +499,8 @@
 | 491 | 93 | Mousey406 |
 | 492 | 93 | Tyler Bechtel |
 | 493 | 92 | Frilly Blocky |
-| 494 | 92 | RogueRebel |
-| 495 | 92 | Chris Hartig |
+| 494 | 92 | Chris Hartig |
+| 495 | 92 | RogueRebel |
 | 496 | 92 | Krash |
 | 497 | 91 | Kametsunoyaiba |
 | 498 | 91 | Amy Sanford |

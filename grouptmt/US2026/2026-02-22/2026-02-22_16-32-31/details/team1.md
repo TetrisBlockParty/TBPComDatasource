@@ -103,14 +103,14 @@
 | 95 | 400 | Cynthia Bradley |
 | 96 | 399 | Nerdy Linkblock |
 | 97 | 397 | Tdub |
-| 98 | 390 | Candy Jones |
+| 98 | 390 | Goose egg |
 | 99 | 390 | Lori Bales |
-| 100 | 390 | Goose egg |
+| 100 | 390 | Candy Jones |
 | 101 | 389 | Nery Martinez |
 | 102 | 383 | pjbeta |
 | 103 | 380 | Dee Perry |
-| 104 | 379 | Kimmie Kimms |
-| 105 | 379 | Austin James |
+| 104 | 379 | Austin James |
+| 105 | 379 | Kimmie Kimms |
 | 106 | 376 | lil mickey |
 | 107 | 374 | Tinah Montanna |
 | 108 | 364 | Shauna Loe |
