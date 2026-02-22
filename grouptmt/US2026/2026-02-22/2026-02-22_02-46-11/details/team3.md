@@ -116,8 +116,8 @@
 | 108 | 434 | joclisa |
 | 109 | 432 | Jenny Hrndz |
 | 110 | 430 | Patricia White |
-| 111 | 428 | Betty Ivy |
-| 112 | 428 | Elissa S-k |
+| 111 | 428 | Elissa S-k |
+| 112 | 428 | Betty Ivy |
 | 113 | 416 | Mary Pellegrino |
 | 114 | 416 | Michelle Becker |
 | 115 | 411 | FuzzyNavel |
@@ -189,8 +189,8 @@
 | 181 | 267 | Denise Nardoni |
 | 182 | 263 | Angeline Joseph |
 | 183 | 262 | Joe-Maggie Mathews |
-| 184 | 261 | Tom Nault |
-| 185 | 261 | Tiffany Ford |
+| 184 | 261 | Tiffany Ford |
+| 185 | 261 | Tom Nault |
 | 186 | 260 | Grams |
 | 187 | 258 | Tamara Deherrera |
 | 188 | 257 | Ashley Jones |
@@ -281,10 +281,10 @@
 | 273 | 171 | Emma |
 | 274 | 171 | Melissa Orth Hunter |
 | 275 | 170 | Cesar Barraza |
-| 276 | 169 | Kristian Thurman |
-| 277 | 169 | Eileen Brady Thurber |
-| 278 | 167 | Shicken Nuggit |
-| 279 | 167 | fraulila |
+| 276 | 169 | Eileen Brady Thurber |
+| 277 | 169 | Kristian Thurman |
+| 278 | 167 | fraulila |
+| 279 | 167 | Shicken Nuggit |
 | 280 | 166 | Betty Rosas |
 | 281 | 165 | Kali Kelz Williams |
 | 282 | 165 | Irene Arreguin |
@@ -298,8 +298,8 @@
 | 290 | 161 | Michael Johnson |
 | 291 | 161 | Bouncy Blockbuilder |
 | 292 | 160 | Rachel |
-| 293 | 159 | Joshua David Huie |
-| 294 | 159 | Jone |
+| 293 | 159 | Jone |
+| 294 | 159 | Joshua David Huie |
 | 295 | 158 | Willow |
 | 296 | 157 | Katrina E Jelks |
 | 297 | 157 | Samantha Lynn |
@@ -347,8 +347,8 @@
 | 339 | 136 | Blair Erin Waite |
 | 340 | 136 | Christian Werndl |
 | 341 | 135 | Angela Scott |
-| 342 | 134 | Jess Dearborn |
-| 343 | 134 | Tammy |
+| 342 | 134 | Tammy |
+| 343 | 134 | MizzMonick Smith |
 | 344 | 134 | Bleu Sun Beams |
 | 345 | 134 | Jess Dearborn |
 | 346 | 133 | Jen Lewis |
@@ -414,8 +414,8 @@
 | 406 | 113 | Kristy Brown |
 | 407 | 113 | Leticia Lynn Lowe |
 | 408 | 112 | Shanon R Jackson |
-| 409 | 111 | Morgan Cudo |
-| 410 | 111 | Stephanie Zahm |
+| 409 | 111 | Stephanie Zahm |
+| 410 | 111 | Morgan Cudo |
 | 411 | 110 | Tracey Cox |
 | 412 | 110 | Angela VanOstrand |
 | 413 | 109 | Peachy Westbrook |
@@ -441,8 +441,8 @@
 | 433 | 105 | Emi |
 | 434 | 105 | Tammy Rosenberry |
 | 435 | 104 | Johnathan Dowe |
-| 436 | 104 | Niki Dalrymple |
-| 437 | 104 | bean |
+| 436 | 104 | bean |
+| 437 | 104 | Niki Dalrymple |
 | 438 | 104 | Michael Kimbro |
 | 439 | 103 | Chenoa Urban Sophicated Redy |
 | 440 | 103 | Heather Bateman |

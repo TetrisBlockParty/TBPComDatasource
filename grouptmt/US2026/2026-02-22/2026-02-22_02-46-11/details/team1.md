@@ -132,8 +132,8 @@
 | 124 | 240 | Tana |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
-| 127 | 230 | Billie Dawn Sparks |
-| 128 | 230 | Frothy Pattern |
+| 127 | 230 | Frothy Pattern |
+| 128 | 230 | Billie Dawn Sparks |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
 | 131 | 226 | Kandae |
@@ -200,8 +200,8 @@
 | 192 | 163 | Tyler Whitley |
 | 193 | 162 | Cece Ibarra |
 | 194 | 161 | SavageBooty98 |
-| 195 | 160 | Tedashi |
-| 196 | 160 | David Miller |
+| 195 | 160 | David Miller |
+| 196 | 160 | Tedashi |
 | 197 | 159 | Bindi |
 | 198 | 158 | Jessi Sauer |
 | 199 | 158 | Sarah Marie |
@@ -240,7 +240,7 @@
 | 232 | 132 | Layzietyme |
 | 233 | 131 | Jessie |
 | 234 | 131 | Uhog SF |
-| 235 | 131 | Jessie |
+| 235 | 131 | Tawnya Peltonen |
 | 236 | 130 | Gilbert Ortiz Jr. |
 | 237 | 129 | Jessica Russell |
 | 238 | 129 | Sherri E Woods Hess |
