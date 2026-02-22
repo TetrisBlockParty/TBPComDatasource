@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | shark tato |
-| 127 | 286 | Daria Rycewicz |
+| 126 | 286 | Daria Rycewicz |
+| 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |

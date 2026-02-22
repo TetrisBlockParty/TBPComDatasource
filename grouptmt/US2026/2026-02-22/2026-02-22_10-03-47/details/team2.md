@@ -247,8 +247,8 @@
 | 239 | 787 | Laura McCarthey |
 | 240 | 778 | Lisa Ongtowasruk |
 | 241 | 777 | Barbra Miller |
-| 242 | 777 | Tesha Oldaker |
-| 243 | 777 | Jessicah Myers |
+| 242 | 777 | Jessicah Myers |
+| 243 | 777 | Tesha Oldaker |
 | 244 | 777 | Eric Carlson |
 | 245 | 772 | Stephen Stephen |
 | 246 | 772 | William Hunt |
@@ -392,8 +392,8 @@
 | 384 | 535 | Jessie McDougald |
 | 385 | 533 | Gauri Shrotriya |
 | 386 | 527 | Ryan Gunther |
-| 387 | 527 | Heather Causey |
-| 388 | 527 | Julie Kresal |
+| 387 | 527 | Julie Kresal |
+| 388 | 527 | Heather Causey |
 | 389 | 526 | Sheronda Jackson |
 | 390 | 525 | Desiree Anderson |
 | 391 | 524 | Lonne Emade |
@@ -405,8 +405,8 @@
 | 397 | 520 | Maddy Petersen |
 | 398 | 519 | Rob Brown |
 | 399 | 517 | Alex Dungo Hoang |
-| 400 | 517 | Amber Brion |
-| 401 | 517 | Porsche' Nicole |
+| 400 | 517 | Porsche' Nicole |
+| 401 | 517 | Amber Brion |
 | 402 | 516 | Diamond Scott |
 | 403 | 515 | Laquetta Royston |
 | 404 | 514 | Karen Posadas Centeno |
@@ -499,8 +499,8 @@
 | 491 | 440 | Victoria Regina Girolami |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
-| 494 | 436 | Brenda Pierpoint |
-| 495 | 436 | Niceday |
+| 494 | 436 | Niceday |
+| 495 | 436 | Brenda Pierpoint |
 | 496 | 435 | Regina Young |
 | 497 | 435 | James Louie |
 | 498 | 433 | KayLynn Ogden McClelland |
@@ -630,8 +630,8 @@
 | 622 | 365 | Susan Arnburg |
 | 623 | 365 | Audrey Jones |
 | 624 | 364 | Shinette Dobson |
-| 625 | 363 | Jes Norris |
-| 626 | 363 | Kia Humphery |
+| 625 | 363 | Kia Humphery |
+| 626 | 363 | Jes Norris |
 | 627 | 363 | Michelle Sager |
 | 628 | 363 | Stephanie Fortune |
 | 629 | 362 | Andrea Maher |
@@ -884,8 +884,8 @@
 | 876 | 258 | DesertDreamer24 |
 | 877 | 258 | Tee Jaleesa |
 | 878 | 257 | Mama T |
-| 879 | 257 | Ys Muhammed |
-| 880 | 257 | Jackie Jackie Lee |
+| 879 | 257 | Jackie Jackie Lee |
+| 880 | 257 | Ys Muhammed |
 | 881 | 256 | Gursharan Sandhu |
 | 882 | 256 | Nikki Vaughn |
 | 883 | 256 | Monarca26 |
@@ -923,8 +923,8 @@
 | 915 | 248 | Angelina Marie |
 | 916 | 248 | CleverAngel |
 | 917 | 247 | Linda Miltenburg |
-| 918 | 247 | Wizz |
-| 919 | 247 | Karyn Yurcho Dooley |
+| 918 | 247 | Karyn Yurcho Dooley |
+| 919 | 247 | Wizz |
 | 920 | 246 | Stacey Tranchida |
 | 921 | 246 | Laura McConnell |
 | 922 | 245 | Mellissa Evans |

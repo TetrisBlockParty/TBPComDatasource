@@ -261,8 +261,8 @@
 | 253 | 156 | Spunky Builderpiece |
 | 254 | 156 | Mark Smith |
 | 255 | 155 | Barry Mac'Ockner |
-| 256 | 154 | Melissa Lemmon |
-| 257 | 154 | Gary Gobin |
+| 256 | 154 | Gary Gobin |
+| 257 | 154 | Melissa Lemmon |
 | 258 | 153 | Dino |
 | 259 | 153 | Tami Luce Martin |
 | 260 | 152 | Tavia |
