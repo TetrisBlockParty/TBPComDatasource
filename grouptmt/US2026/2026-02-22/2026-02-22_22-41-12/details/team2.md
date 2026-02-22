@@ -370,8 +370,8 @@
 | 362 | 732 | Stephanie Lumanlan |
 | 363 | 728 | Dylan Thomason |
 | 364 | 728 | Tom Riefer |
-| 365 | 725 | Vonceial Boone |
-| 366 | 725 | Charvi' Carter |
+| 365 | 725 | Charvi' Carter |
+| 366 | 725 | Vonceial Boone |
 | 367 | 724 | Melissa Holsinger |
 | 368 | 724 | Dreamy Blast |
 | 369 | 724 | Allan Wayne Lamia |
@@ -694,10 +694,10 @@
 | 686 | 415 | Lathasa Newkirk |
 | 687 | 414 | John |
 | 688 | 413 | Moist_B-hole |
-| 689 | 413 | Ashley Robbins |
-| 690 | 413 | Kristen O'Neal |
-| 691 | 412 | Jason H Baker |
-| 692 | 412 | Boogie SoAnimated Johnson |
+| 689 | 413 | Kristen O'Neal |
+| 690 | 413 | Ashley Robbins |
+| 691 | 412 | Boogie SoAnimated Johnson |
+| 692 | 412 | Jason H Baker |
 | 693 | 412 | Lewis Sturgeon |
 | 694 | 411 | Shorty |
 | 695 | 411 | Rose Fx |
@@ -722,9 +722,9 @@
 | 714 | 400 | Deana |
 | 715 | 400 | Tammy Allen |
 | 716 | 399 | Court |
-| 717 | 398 | Witty Piecebuilder |
+| 717 | 398 | Heather Sawtelle-Mckenzie |
 | 718 | 398 | Misti Markijohn |
-| 719 | 398 | Heather Sawtelle-Mckenzie |
+| 719 | 398 | Witty Piecebuilder |
 | 720 | 398 | Frisky Riserbuilder |
 | 721 | 397 | Cris cris |
 | 722 | 397 | Toni Whipple |
@@ -744,9 +744,9 @@
 | 736 | 389 | Eunique Griffin |
 | 737 | 389 | Mandy Kachenmeister |
 | 738 | 389 | Montez Mancil |
-| 739 | 388 | ruth |
-| 740 | 388 | TF Dyer |
-| 741 | 388 | James Zaragoza |
+| 739 | 388 | TF Dyer |
+| 740 | 388 | James Zaragoza |
+| 741 | 388 | ruth |
 | 742 | 388 | Tamara Bailey |
 | 743 | 388 | CC |
 | 744 | 388 | Sarah block |

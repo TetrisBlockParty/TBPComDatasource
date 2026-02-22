@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |

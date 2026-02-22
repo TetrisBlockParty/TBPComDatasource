@@ -159,8 +159,8 @@
 | 151 | 517 | Denise Nardoni |
 | 152 | 516 | Elissa S-k |
 | 153 | 512 | Silly Twist |
-| 154 | 506 | Sashay Tapae Simpson |
-| 155 | 506 | Stephanie Blkpep Davidson |
+| 154 | 506 | Stephanie Blkpep Davidson |
+| 155 | 506 | Sashay Tapae Simpson |
 | 156 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 157 | 502 | Snappy Balancer |
 | 158 | 501 | Patti Skiles |
@@ -335,16 +335,16 @@
 | 327 | 258 | Michael Kimbro |
 | 328 | 258 | IamJust Neyamijah Washington Sr. |
 | 329 | 256 | KayB |
-| 330 | 255 | Sharisse Baltimore |
-| 331 | 255 | Twisty Brick LT |
+| 330 | 255 | Twisty Brick LT |
+| 331 | 255 | Sharisse Baltimore |
 | 332 | 254 | Desiree Gold |
 | 333 | 253 | Salena Whitlock |
 | 334 | 252 | Blair Erin Waite |
 | 335 | 251 | Alice |
 | 336 | 251 | Naur |
 | 337 | 250 | Tosha Griffey |
-| 338 | 247 | Daring Builder |
-| 339 | 247 | Jessica |
+| 338 | 247 | Jessica |
+| 339 | 247 | Daring Builder |
 | 340 | 246 | Erika Thornton |
 | 341 | 245 | Latoya Mayne |
 | 342 | 244 | LaNette Morgan |
@@ -367,7 +367,7 @@
 | 359 | 231 | Kevin Russell |
 | 360 | 231 | Frothy Snapper |
 | 361 | 230 | BigE |
-| 362 | 229 | Juliana Dottore |
+| 362 | 229 | DanceLuvLaugh |
 | 363 | 229 | Everret Maxine |
 | 364 | 229 | Juliana Dottore |
 | 365 | 228 | Loopy Fallzone |
@@ -462,17 +462,17 @@
 | 454 | 189 | Sameerah Smith |
 | 455 | 187 | Sabrina Mansfield |
 | 456 | 185 | Funky Jumper |
-| 457 | 184 | Joy Petroski |
-| 458 | 184 | Cheeky Setter |
+| 457 | 184 | Cheeky Setter |
+| 458 | 184 | Joy Petroski |
 | 459 | 184 | Shanon R Jackson |
 | 460 | 183 | JessDrown |
 | 461 | 183 | Smiley Zone |
 | 462 | 182 | Alicia |
 | 463 | 182 | Sunny Lift |
 | 464 | 182 | Johnathan Dowe |
-| 465 | 181 | Happy Tetriblast |
-| 466 | 181 | Beth Smith |
-| 467 | 181 | Sarah Whalen |
+| 465 | 181 | Sarah Whalen |
+| 466 | 181 | Happy Tetriblast |
+| 467 | 181 | Beth Smith |
 | 468 | 180 | Beth Ingham |
 | 469 | 179 | Kali Kelz Williams |
 | 470 | 179 | Snarky McFace |
