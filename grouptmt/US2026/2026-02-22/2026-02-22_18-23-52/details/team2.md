@@ -216,8 +216,8 @@
 | 208 | 1002 | Foxxo |
 | 209 | 998 | Tralonda Weeks |
 | 210 | 991 | Moose Griffith |
-| 211 | 989 | Desiree Harris Rosch |
-| 212 | 989 | Teddi Notyalc |
+| 211 | 989 | Teddi Notyalc |
+| 212 | 989 | Desiree Harris Rosch |
 | 213 | 988 | Cherica Taylor |
 | 214 | 986 | RAEPR05 |
 | 215 | 979 | Hillary Crawford |
@@ -225,8 +225,8 @@
 | 217 | 973 | Kim Dean |
 | 218 | 972 | Juliana Marques Do Nascimento Gordy |
 | 219 | 960 | Jennifer Kistner |
-| 220 | 957 | Keri Womack |
-| 221 | 957 | Block Master |
+| 220 | 957 | Block Master |
+| 221 | 957 | Keri Womack |
 | 222 | 957 | Crystal Hoffman |
 | 223 | 956 | Mema |
 | 224 | 955 | Angela Bonquiqui Dinish |
@@ -500,10 +500,10 @@
 | 492 | 509 | Kelli Wells |
 | 493 | 507 | Kitybox |
 | 494 | 507 | Daniell Martinez |
-| 495 | 499 | Sarah Massey |
-| 496 | 499 | Crystal Elam |
-| 497 | 498 | Aimee Campbell |
-| 498 | 498 | Rhonda Milstead |
+| 495 | 499 | Crystal Elam |
+| 496 | 499 | Sarah Massey |
+| 497 | 498 | Rhonda Milstead |
+| 498 | 498 | Aimee Campbell |
 | 499 | 497 | June E Hanson |
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |

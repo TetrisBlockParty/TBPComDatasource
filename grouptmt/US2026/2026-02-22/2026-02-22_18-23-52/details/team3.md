@@ -128,8 +128,8 @@
 | 120 | 579 | Jd Morris |
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
-| 123 | 562 | Dave Herzog |
-| 124 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Louise Stacy Sisson |
+| 124 | 562 | Dave Herzog |
 | 125 | 551 | Alaina Lee |
 | 126 | 550 | Nicole Myers |
 | 127 | 546 | Domo Washington |
@@ -149,8 +149,8 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Patti Skiles |
-| 145 | 479 | Poppy Splitter |
+| 144 | 479 | Poppy Splitter |
+| 145 | 479 | Patti Skiles |
 | 146 | 479 | Annie Marie |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
@@ -168,8 +168,8 @@
 | 160 | 445 | Jacqueline Rodriguez |
 | 161 | 445 | Shannon Matthew Byers |
 | 162 | 438 | Valerie Gendron |
-| 163 | 432 | Jenny Hrndz |
-| 164 | 432 | Luciana Braganca Vieira |
+| 163 | 432 | Luciana Braganca Vieira |
+| 164 | 432 | Jenny Hrndz |
 | 165 | 430 | Jeni Dow |
 | 166 | 430 | Joye Sims Binion |
 | 167 | 430 | Tasha Gillespie |
@@ -203,8 +203,8 @@
 | 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
-| 198 | 372 | Tom Nault |
-| 199 | 372 | Giddy Twistbuilder |
+| 198 | 372 | Giddy Twistbuilder |
+| 199 | 372 | Tom Nault |
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 367 | Loopy Fallmatch |
@@ -237,9 +237,9 @@
 | 229 | 323 | Demetrious Shaw Sr. |
 | 230 | 323 | Melissa Orth Hunter |
 | 231 | 321 | Rebecca Bailey |
-| 232 | 320 | Ashley Muncey |
-| 233 | 320 | Brittany |
-| 234 | 320 | Keis |
+| 232 | 320 | Keis |
+| 233 | 320 | Ashley Muncey |
+| 234 | 320 | Brittany |
 | 235 | 320 | Or Reznitsky |
 | 236 | 319 | Michael Johnson |
 | 237 | 316 | Staci George Fitzsimmons |
@@ -266,8 +266,8 @@
 | 258 | 282 | Marquita Sheard |
 | 259 | 282 | Angie Harper |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Rufus Lincoln |
-| 262 | 278 | Sabrina Hardrick |
+| 261 | 278 | Sabrina Hardrick |
+| 262 | 278 | Rufus Lincoln |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
 | 265 | 276 | Connie Mohler-Fair |
@@ -284,8 +284,8 @@
 | 276 | 268 | Krystal Gerstberger |
 | 277 | 267 | April Matthew Kibble |
 | 278 | 267 | Tiffany Davie |
-| 279 | 266 | Quirky Dropzone |
-| 280 | 266 | Snappy Balancer |
+| 279 | 266 | Snappy Balancer |
+| 280 | 266 | Quirky Dropzone |
 | 281 | 265 | Nikki Pags |
 | 282 | 263 | Brenda Schmid Wood |
 | 283 | 262 | Ray Lader |
@@ -515,8 +515,8 @@
 | 507 | 148 | neci |
 | 508 | 148 | Kate Farok |
 | 509 | 148 | Groovy Blockclear |
-| 510 | 147 | Carrie Resler |
-| 511 | 147 | Erika Thornton |
+| 510 | 147 | Erika Thornton |
+| 511 | 147 | Carrie Resler |
 | 512 | 147 | Megan Rathmanner |
 | 513 | 146 | Sara Dunn |
 | 514 | 146 | Amanda Declue |

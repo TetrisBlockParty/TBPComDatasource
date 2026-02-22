@@ -44,8 +44,8 @@
 | 36 | 880 | Koshin Abdirahman |
 | 37 | 873 | Elizabeth Sallas |
 | 38 | 871 | Denny Shives |
-| 39 | 846 | Lucille Truesdale |
-| 40 | 846 | Christine Marie |
+| 39 | 846 | Christine Marie |
+| 40 | 846 | Lucille Truesdale |
 | 41 | 843 | Jae Job |
 | 42 | 843 | Shelly Chandler |
 | 43 | 836 | LisaJo Picken Buchanan |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Jenna Ingersoll |
-| 112 | 412 | Scott Jameson |
+| 111 | 412 | Scott Jameson |
+| 112 | 412 | Jenna Ingersoll |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -134,15 +134,15 @@
 | 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | ThaEviLJeNiuZ |
-| 130 | 338 | Lucas J Sutton |
+| 129 | 338 | Lucas J Sutton |
+| 130 | 338 | ThaEviLJeNiuZ |
 | 131 | 336 | Austin Owens |
 | 132 | 332 | HastyGrabber |
 | 133 | 332 | Desi Desporte |
 | 134 | 330 | David Lay |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Leslie Nicole |
-| 137 | 328 | Kris Bartlett |
+| 136 | 328 | Kris Bartlett |
+| 137 | 328 | Leslie Nicole |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -218,13 +218,13 @@
 | 210 | 225 | Perky Patternblock |
 | 211 | 222 | blockstar |
 | 212 | 221 | Kim Klutz Olson |
-| 213 | 221 | Rheanda Weaskus |
-| 214 | 221 | PurpleMoonMa |
+| 213 | 221 | PurpleMoonMa |
+| 214 | 221 | Rheanda Weaskus |
 | 215 | 219 | JPW |
 | 216 | 219 | Malakai Darien Fox |
 | 217 | 217 | Kim Hunt |
-| 218 | 216 | Cristy Duerksen |
-| 219 | 216 | ZeeZee |
+| 218 | 216 | ZeeZee |
+| 219 | 216 | Cristy Duerksen |
 | 220 | 216 | Chance Strickland |
 | 221 | 215 | John Brunetti |
 | 222 | 215 | Ziggy |

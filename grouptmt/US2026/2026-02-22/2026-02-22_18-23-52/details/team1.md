@@ -125,8 +125,8 @@
 | 117 | 360 | phrmblk24 |
 | 118 | 360 | Wisa |
 | 119 | 359 | Chirpy Smasher |
-| 120 | 357 | Dandy Basegrid |
-| 121 | 357 | Amanda Johnson Huffman |
+| 120 | 357 | Amanda Johnson Huffman |
+| 121 | 357 | Dandy Basegrid |
 | 122 | 355 | Hasbro Bros |
 | 123 | 352 | Jason Jones |
 | 124 | 350 | Sweet Baker |
@@ -162,8 +162,8 @@
 | 154 | 294 | And |
 | 155 | 293 | Sarah Roberts |
 | 156 | 292 | David Lutcher |
-| 157 | 285 | Ananda Mendez |
-| 158 | 285 | ALFD |
+| 157 | 285 | ALFD |
+| 158 | 285 | Ananda Mendez |
 | 159 | 284 | Rachael |
 | 160 | 284 | Emily Adelaide Wheatley |
 | 161 | 283 | Franswa |
