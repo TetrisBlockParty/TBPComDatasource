@@ -82,8 +82,8 @@
 | 74 | 369 | Nope Young |
 | 75 | 366 | shar |
 | 76 | 359 | Jamie Mann-Deichmann |
-| 77 | 358 | Shane Kalamata Platoon |
-| 78 | 358 | Nugget |
+| 77 | 358 | Nugget |
+| 78 | 358 | Shane Kalamata Platoon |
 | 79 | 345 | Ancient Intuition |
 | 80 | 323 | Robin Getchel |
 | 81 | 318 | Amy Suckarieh |
@@ -238,8 +238,8 @@
 | 230 | 120 | Joshua Guess |
 | 231 | 120 | Bryan Hodgins |
 | 232 | 119 | Kristin Manee |
-| 233 | 119 | Gwendolyn Pitcairn |
-| 234 | 119 | rebel4lyfe |
+| 233 | 119 | rebel4lyfe |
+| 234 | 119 | Gwendolyn Pitcairn |
 | 235 | 116 | Adam Stephanie Parker |
 | 236 | 115 | Nubian1 |
 | 237 | 115 | Alexandra Karavias |

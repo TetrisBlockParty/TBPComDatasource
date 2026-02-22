@@ -55,8 +55,8 @@
 | 47 | 879 | Shonna Roberts |
 | 48 | 874 | Jessica Pineda-Lopez |
 | 49 | 840 | Corie A. Brinson |
-| 50 | 828 | Jessica Ann |
-| 51 | 828 | Angela M. Fletcher |
+| 50 | 828 | Angela M. Fletcher |
+| 51 | 828 | Jessica Ann |
 | 52 | 810 | Shane Wilson Jr. |
 | 53 | 744 | Gracie |
 | 54 | 730 | Snappy Glidepiece |
@@ -69,8 +69,8 @@
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
