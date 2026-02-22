@@ -326,10 +326,10 @@
 | 318 | 135 | Mrs.Patrica |
 | 319 | 133 | MommaKFC |
 | 320 | 133 | Jasmine Riley |
-| 321 | 132 | Layzietyme |
-| 322 | 132 | John Kim |
-| 323 | 131 | Dizzy Riseclear |
-| 324 | 131 | Plucky Wrecker |
+| 321 | 132 | John Kim |
+| 322 | 132 | Layzietyme |
+| 323 | 131 | Plucky Wrecker |
+| 324 | 131 | Dizzy Riseclear |
 | 325 | 130 | Carl Claunch |
 | 326 | 129 | Madison Wicks |
 | 327 | 129 | Sherri E Woods Hess |

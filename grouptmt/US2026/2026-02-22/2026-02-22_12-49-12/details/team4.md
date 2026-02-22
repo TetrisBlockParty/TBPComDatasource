@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -66,8 +66,8 @@
 | 58 | 636 | Kimyatta Cavin |
 | 59 | 636 | Dustee Craddock-Harrison |
 | 60 | 623 | Robin Getchel |
-| 61 | 614 | TheNeesh50 |
-| 62 | 614 | Justin Hannigan |
+| 61 | 614 | Justin Hannigan |
+| 62 | 614 | TheNeesh50 |
 | 63 | 599 | Brittney Griggs |
 | 64 | 593 | Lisa Davis |
 | 65 | 571 | Kimberly Love |
@@ -106,8 +106,8 @@
 | 98 | 404 | Courtney Cicoria |
 | 99 | 401 | Zippy Gridlock |
 | 100 | 396 | Alicia Bass |
-| 101 | 393 | Judy Cox |
-| 102 | 393 | Carlton Unfiltered |
+| 101 | 393 | Carlton Unfiltered |
+| 102 | 393 | Judy Cox |
 | 103 | 392 | Ericca Eldridge |
 | 104 | 391 | Monica Daley |
 | 105 | 391 | Ramel Rhodes |
@@ -141,8 +141,8 @@
 | 133 | 286 | shark tato |
 | 134 | 283 | Brittney Orengo |
 | 135 | 281 | Meagan Nicole |
-| 136 | 278 | Carrie Brian |
-| 137 | 278 | Desi Desporte |
+| 136 | 278 | Desi Desporte |
+| 137 | 278 | Carrie Brian |
 | 138 | 277 | Mary Ann Pabukis |
 | 139 | 275 | Dizzy Tiley |
 | 140 | 274 | Calvin Cannon |
@@ -155,16 +155,16 @@
 | 147 | 264 | Girl |
 | 148 | 264 | Epic Curvetile |
 | 149 | 262 | Alan George LaRage |
-| 150 | 262 | Joeliecea Cobb |
-| 151 | 262 | Holly Jolly |
+| 150 | 262 | Holly Jolly |
+| 151 | 262 | Joeliecea Cobb |
 | 152 | 258 | Bio Nelly |
 | 153 | 257 | Twisty Clicky |
 | 154 | 256 | Mylo Lipscomb |
 | 155 | 255 | Lindsay Ball |
 | 156 | 253 | Casey Grabner |
 | 157 | 250 | Matt Dell'Olio |
-| 158 | 249 | Chris Bernstein |
-| 159 | 249 | Leah Kutz Zirbel |
+| 158 | 249 | Leah Kutz Zirbel |
+| 159 | 249 | Chris Bernstein |
 | 160 | 245 | Diana Houts |
 | 161 | 244 | Twisty Cascadezone |
 | 162 | 240 | Peachy Fall |
@@ -271,7 +271,7 @@
 | 263 | 150 | Brandon Link |
 | 264 | 150 | Jared Gutwein |
 | 265 | 149 | Shainne Brewer |
-| 266 | 148 | Nubian1 |
+| 266 | 148 | Ruby Khalisadar |
 | 267 | 148 | Cranky Rollpiece |
 | 268 | 148 | Janita Parrish |
 | 269 | 148 | Nubian1 |
@@ -282,7 +282,7 @@
 | 274 | 145 | Mimi |
 | 275 | 145 | Sandra Safford |
 | 276 | 144 | Sticherella |
-| 277 | 143 | Daresha Fair |
+| 277 | 143 | Metsfan |
 | 278 | 143 | Lauren Lamb |
 | 279 | 143 | Daresha Fair |
 | 280 | 143 | Asher |
@@ -339,8 +339,8 @@
 | 331 | 128 | Madison Sweere |
 | 332 | 128 | Silly Zonebuilder |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |

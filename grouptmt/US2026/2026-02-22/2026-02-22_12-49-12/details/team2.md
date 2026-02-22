@@ -636,11 +636,11 @@
 | 628 | 369 | Juan Castillo |
 | 629 | 367 | Connie Lepore-Mann |
 | 630 | 367 | Jessica Lamb |
-| 631 | 366 | Courtney Burcham |
-| 632 | 366 | Lawanda Forbes |
+| 631 | 366 | Lawanda Forbes |
+| 632 | 366 | Courtney Burcham |
 | 633 | 365 | Christina Lewis-Vickers |
-| 634 | 365 | Susan Arnburg |
-| 635 | 365 | Audrey Jones |
+| 634 | 365 | Audrey Jones |
+| 635 | 365 | Susan Arnburg |
 | 636 | 364 | Shinette Dobson |
 | 637 | 364 | Matthew Joseph Acevedo |
 | 638 | 363 | Kia Humphery |
@@ -710,8 +710,8 @@
 | 702 | 328 | Jamie Carter Bierce |
 | 703 | 328 | BabyBird |
 | 704 | 326 | Ann Knutson Anderson |
-| 705 | 325 | Justin Hines |
-| 706 | 325 | James Smith |
+| 705 | 325 | James Smith |
+| 706 | 325 | Justin Hines |
 | 707 | 325 | Mike73 |
 | 708 | 324 | Dale Haanpaa |
 | 709 | 324 | Tasia Stinson |
@@ -777,8 +777,8 @@
 | 769 | 298 | Lazy Riseclear |
 | 770 | 297 | Toni Lynn |
 | 771 | 297 | Frisky Patternline |
-| 772 | 297 | Epic Stackbuilder |
-| 773 | 297 | Ashley Robbins |
+| 772 | 297 | Ashley Robbins |
+| 773 | 297 | Epic Stackbuilder |
 | 774 | 296 | Jennifer Darby |
 | 775 | 296 | Zappy Dropmatch |
 | 776 | 296 | Frisky Riserbuilder |
@@ -1094,7 +1094,7 @@
 | 1086 | 214 | Perk Diggler |
 | 1087 | 214 | Brandon McDonald |
 | 1088 | 213 | Janai Vrabel |
-| 1089 | 213 | Frank Castle |
+| 1089 | 213 | Hannah Leigh Pelofsky |
 | 1090 | 213 | Cynthia Knox |
 | 1091 | 213 | Frank Castle |
 | 1092 | 212 | Crafty Brickline |
