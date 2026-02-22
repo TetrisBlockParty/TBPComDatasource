@@ -117,24 +117,24 @@
 | 109 | 277 | Ly Phethmany |
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
-| 112 | 273 | Happy Basegrid |
-| 113 | 273 | Katie Daniels |
+| 112 | 273 | Katie Daniels |
+| 113 | 273 | Happy Basegrid |
 | 114 | 265 | Dandy Basegrid |
-| 115 | 263 | Jason Jones |
-| 116 | 263 | Sharon Reynolds |
+| 115 | 263 | Sharon Reynolds |
+| 116 | 263 | Jason Jones |
 | 117 | 257 | june october |
-| 118 | 252 | Elaine Elaine |
-| 119 | 252 | Dena Kayy |
+| 118 | 252 | Dena Kayy |
+| 119 | 252 | Elaine Elaine |
 | 120 | 249 | Lexuriuos Lifestlye |
-| 121 | 243 | Trippy Redd |
-| 122 | 243 | Chelsea Dahlquist |
+| 121 | 243 | Chelsea Dahlquist |
+| 122 | 243 | Trippy Redd |
 | 123 | 241 | John J. Cronin |
 | 124 | 240 | Tana |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
 | 127 | 232 | Jessi Sauer |
-| 128 | 230 | Frothy Pattern |
-| 129 | 230 | Billie Dawn Sparks |
+| 128 | 230 | Billie Dawn Sparks |
+| 129 | 230 | Frothy Pattern |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
 | 132 | 226 | Kandae |
@@ -142,8 +142,8 @@
 | 134 | 216 | MRdot Rooski |
 | 135 | 216 | Shauntina Burke |
 | 136 | 214 | GATOR |
-| 137 | 212 | Lori Bales |
-| 138 | 212 | Jaimie Lynn |
+| 137 | 212 | Jaimie Lynn |
+| 138 | 212 | Lori Bales |
 | 139 | 211 | Marianita Garcia |
 | 140 | 208 | Giggly Builderline |
 | 141 | 207 | Leslie Bush Yarbrough |
@@ -154,8 +154,8 @@
 | 146 | 198 | Happy Snapbuild |
 | 147 | 198 | Shiny Gridmatch |
 | 148 | 195 | Daring Fitclear |
-| 149 | 194 | Tyler Werts |
-| 150 | 194 | Ash Galvan |
+| 149 | 194 | Ash Galvan |
+| 150 | 194 | Tyler Werts |
 | 151 | 193 | Lachelle Dillon |
 | 152 | 192 | Jessica Sheehan |
 | 153 | 192 | Christy Jones |
@@ -174,11 +174,11 @@
 | 166 | 183 | lil mickey |
 | 167 | 180 | Erez Yosef |
 | 168 | 180 | BigWeenie69 |
-| 169 | 179 | Danielle Little-Daugherty |
-| 170 | 179 | femmefatale |
+| 169 | 179 | femmefatale |
+| 170 | 179 | Danielle Little-Daugherty |
 | 171 | 178 | Chad Atchley |
-| 172 | 177 | Jacqueline Unique |
-| 173 | 177 | Irual Hctrab |
+| 172 | 177 | Irual Hctrab |
+| 173 | 177 | Jacqueline Unique |
 | 174 | 176 | Mel Hogan |
 | 175 | 175 | John Barron |
 | 176 | 174 | Cheeky Pop |
@@ -222,8 +222,8 @@
 | 214 | 144 | Gary Gobin |
 | 215 | 143 | Guest |
 | 216 | 142 | Colleen Wise |
-| 217 | 141 | Blaire Bruckoff |
-| 218 | 141 | Dino |
+| 217 | 141 | Dino |
+| 218 | 141 | Blaire Bruckoff |
 | 219 | 139 | Flashy Rotator |
 | 220 | 138 | Mark Smith |
 | 221 | 138 | Hector Cruz |

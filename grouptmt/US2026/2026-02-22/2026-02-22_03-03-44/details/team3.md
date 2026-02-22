@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 945 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -145,8 +145,8 @@
 | 137 | 366 | Adrian Marcel Pate |
 | 138 | 365 | Logan Naccarato |
 | 139 | 363 | Louise Stacy Sisson |
-| 140 | 355 | Tessina Dewey-Mancino |
-| 141 | 355 | Sherry Ogden |
+| 140 | 355 | Sherry Ogden |
+| 141 | 355 | Tessina Dewey-Mancino |
 | 142 | 350 | Darlene McMillan |
 | 143 | 348 | CeceGeGe |
 | 144 | 347 | Nicole Flippo |
@@ -250,8 +250,8 @@
 | 242 | 200 | glichmod |
 | 243 | 200 | Sharisse Baltimore |
 | 244 | 199 | Staci George Fitzsimmons |
-| 245 | 195 | Cheryl Hinch Tenbrook |
-| 246 | 195 | Nicha Hooker |
+| 245 | 195 | Nicha Hooker |
+| 246 | 195 | Cheryl Hinch Tenbrook |
 | 247 | 194 | Raven Dudley |
 | 248 | 193 | Clever Shiftsnap |
 | 249 | 193 | Hyper Matchzone |
@@ -429,8 +429,8 @@
 | 421 | 109 | Ashley Rufus Bythcez |
 | 422 | 109 | Christopher Woost |
 | 423 | 108 | Scouty |
-| 424 | 108 | Sierra Spencer |
-| 425 | 108 | Jack Bo |
+| 424 | 108 | Jack Bo |
+| 425 | 108 | Sierra Spencer |
 | 426 | 108 | Lush Risebuilder |
 | 427 | 108 | Rachel Grant |
 | 428 | 107 | Megan Stanley |

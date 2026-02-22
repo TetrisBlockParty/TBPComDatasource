@@ -137,8 +137,8 @@
 | 129 | 1051 | Shandrica Lowe |
 | 130 | 1048 | PsychKIRAtrist |
 | 131 | 1047 | Amy Sayers |
-| 132 | 1043 | Suki Kaur |
-| 133 | 1043 | Brave Dropmatch |
+| 132 | 1043 | Brave Dropmatch |
+| 133 | 1043 | Suki Kaur |
 | 134 | 1032 | Sarah Freitas |
 | 135 | 1020 | Heather Westrum |
 | 136 | 1018 | LordZophar |
@@ -518,8 +518,8 @@
 | 510 | 354 | Rickey Johnson |
 | 511 | 354 | Connie Lepore-Mann |
 | 512 | 353 | Cheery Matchzone |
-| 513 | 352 | Jean FU Jagielski |
-| 514 | 352 | Andrea Maher |
+| 513 | 352 | Andrea Maher |
+| 514 | 352 | Jean FU Jagielski |
 | 515 | 352 | ruth |
 | 516 | 350 | Chris Harr |
 | 517 | 350 | Eric Carlson |
@@ -673,8 +673,8 @@
 | 665 | 273 | Britt Stunkel |
 | 666 | 272 | Witty Piecebuilder |
 | 667 | 271 | Shalisa Hill |
-| 668 | 270 | Court |
-| 669 | 270 | Tim Dyer |
+| 668 | 270 | Tim Dyer |
+| 669 | 270 | Court |
 | 670 | 270 | Santana Miyagi |
 | 671 | 269 | Dandy Combo |
 | 672 | 269 | Reece Smith |

@@ -139,16 +139,16 @@
 | 131 | 220 | Mary Ann Pabukis |
 | 132 | 218 | Casey Grabner |
 | 133 | 218 | Antony Dwayne Beasley |
-| 134 | 217 | Chaz Duncan |
-| 135 | 217 | loulou |
+| 134 | 217 | loulou |
+| 135 | 217 | Chaz Duncan |
 | 136 | 215 | Jessica Bohlken |
-| 137 | 212 | Mike Solo |
-| 138 | 212 | Calvin Cannon |
-| 139 | 211 | Twisty Cascadezone |
-| 140 | 211 | Jenna McGeorge |
+| 137 | 212 | Calvin Cannon |
+| 138 | 212 | Mike Solo |
+| 139 | 211 | Jenna McGeorge |
+| 140 | 211 | Twisty Cascadezone |
 | 141 | 210 | Swanky Fitline |
-| 142 | 205 | Sarah Neathery |
-| 143 | 205 | Tyler Terrific |
+| 142 | 205 | Tyler Terrific |
+| 143 | 205 | Sarah Neathery |
 | 144 | 204 | Jen Caldwell |
 | 145 | 203 | Katherine Crane |
 | 146 | 201 | Melvin Baird |
@@ -185,8 +185,8 @@
 | 177 | 166 | Cozy Balancer |
 | 178 | 164 | 030Synner |
 | 179 | 160 | ZeeZee |
-| 180 | 160 | James Hurley Jr. |
-| 181 | 160 | Carlos Ramirez |
+| 180 | 160 | Carlos Ramirez |
+| 181 | 160 | James Hurley Jr. |
 | 182 | 159 | Marcus Todd |
 | 183 | 158 | Avy Absol |
 | 184 | 158 | Chair |
