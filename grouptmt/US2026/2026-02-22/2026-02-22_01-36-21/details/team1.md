@@ -80,8 +80,8 @@
 | 72 | 348 | Stef Hu |
 | 73 | 347 | pjbeta |
 | 74 | 342 | Dee Perry |
-| 75 | 338 | Stephanie Zahn |
-| 76 | 338 | Tipsy Strikerpiece |
+| 75 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Stephanie Zahn |
 | 77 | 333 | Brandi Huntington |
 | 78 | 329 | Luciano Moreira |
 | 79 | 328 | Gracie |
@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |

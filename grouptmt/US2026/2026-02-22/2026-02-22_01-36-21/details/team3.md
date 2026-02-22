@@ -140,11 +140,11 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Tessina Dewey-Mancino |
-| 136 | 355 | Sherry Ogden |
+| 135 | 355 | Sherry Ogden |
+| 136 | 355 | Tessina Dewey-Mancino |
 | 137 | 348 | CeceGeGe |
-| 138 | 347 | Nicole Flippo |
-| 139 | 347 | Darlene McMillan |
+| 138 | 347 | Darlene McMillan |
+| 139 | 347 | Nicole Flippo |
 | 140 | 343 | Chasity |
 | 141 | 338 | Louise Stacy Sisson |
 | 142 | 328 | Dapper Snap |
@@ -162,8 +162,8 @@
 | 154 | 307 | Blocked |
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 293 | Poppy Splitter |
-| 157 | 289 | Daryn Elliott |
-| 158 | 289 | Hoppy Buildout |
+| 157 | 289 | Hoppy Buildout |
+| 158 | 289 | Daryn Elliott |
 | 159 | 288 | Marci Mize Fandrich |
 | 160 | 286 | Jacqueline Rodriguez |
 | 161 | 286 | Cynthia Herrmann Egland |
@@ -233,8 +233,8 @@
 | 225 | 198 | Rebel124 |
 | 226 | 197 | Angie Harper |
 | 227 | 195 | Nicha Hooker |
-| 228 | 194 | Demetrious Shaw Sr. |
-| 229 | 194 | Raven Dudley |
+| 228 | 194 | Raven Dudley |
+| 229 | 194 | Demetrious Shaw Sr. |
 | 230 | 194 | Nora Rogers |
 | 231 | 193 | Clever Shiftsnap |
 | 232 | 193 | Stephanie Burtin |
@@ -310,8 +310,8 @@
 | 302 | 147 | David Bardo |
 | 303 | 146 | Ava Petito |
 | 304 | 146 | Tony Waters |
-| 305 | 145 | Bryan Byrd |
-| 306 | 145 | Funky Jumper |
+| 305 | 145 | Funky Jumper |
+| 306 | 145 | Bryan Byrd |
 | 307 | 144 | Tenisha Semidey |
 | 308 | 143 | Melissa Orth Hunter |
 | 309 | 143 | Lys |
@@ -387,7 +387,7 @@
 | 379 | 116 | Elisha L Allman |
 | 380 | 115 | FATTY |
 | 381 | 115 | Reina Roth |
-| 382 | 115 | FATTY |
+| 382 | 115 | Brave Brickster |
 | 383 | 114 | Elizabeth Renee |
 | 384 | 114 | Amanda Neal |
 | 385 | 113 | Boldy Blocker |
@@ -704,7 +704,7 @@
 | 696 | 67 | Savanah LaClair |
 | 697 | 67 | Spzy |
 | 698 | 66 | Tina Smith Roy |
-| 699 | 66 | Christen Cannon Layhew |
+| 699 | 66 | Nimka Jams |
 | 700 | 66 | Spicy Buildout |
 | 701 | 66 | Schmoo Cat |
 | 702 | 66 | Michelle Abrams |

@@ -272,8 +272,8 @@
 | 264 | 576 | Ginger |
 | 265 | 572 | tejas25 |
 | 266 | 571 | Angela Bonquiqui Dinish |
-| 267 | 569 | Vaniel Glover |
-| 268 | 569 | Marie Walker |
+| 267 | 569 | Marie Walker |
+| 268 | 569 | Vaniel Glover |
 | 269 | 561 | Kristin Gower |
 | 270 | 560 | Cool Rollpiece |
 | 271 | 556 | Trista Dumais |

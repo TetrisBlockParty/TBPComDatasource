@@ -260,8 +260,8 @@
 | 252 | 114 | Circuit8 |
 | 253 | 114 | PennyCandee |
 | 254 | 114 | Joshua Cuellar |
-| 255 | 113 | Dandy Cascadefit |
-| 256 | 113 | Adam Randall |
+| 255 | 113 | Adam Randall |
+| 256 | 113 | Dandy Cascadefit |
 | 257 | 112 | Jeremy Steines |
 | 258 | 111 | Lazy Blocker |
 | 259 | 110 | Zach Kerbs |
