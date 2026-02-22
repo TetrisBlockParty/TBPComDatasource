@@ -151,9 +151,9 @@
 | 143 | 334 | Guy Incognito |
 | 144 | 332 | HastyGrabber |
 | 145 | 332 | Desi Desporte |
-| 146 | 328 | Leslie Nicole |
-| 147 | 328 | Kris Bartlett |
-| 148 | 328 | Brandon Crabbs |
+| 146 | 328 | Brandon Crabbs |
+| 147 | 328 | Leslie Nicole |
+| 148 | 328 | Kris Bartlett |
 | 149 | 325 | Peachy Fall |
 | 150 | 323 | Daria Rycewicz |
 | 151 | 321 | Klo |
@@ -292,8 +292,8 @@
 | 284 | 180 | Cozy Balancer |
 | 285 | 179 | AyeKay |
 | 286 | 175 | Lorena Guerrero-Barron |
-| 287 | 174 | Shane Vick |
-| 288 | 174 | June Hoffman |
+| 287 | 174 | June Hoffman |
+| 288 | 174 | Shane Vick |
 | 289 | 171 | Autumn Kumzi |
 | 290 | 170 | PeaceOs |
 | 291 | 170 | Elie Pean |
@@ -308,7 +308,7 @@
 | 300 | 166 | Megan Cutshaw |
 | 301 | 165 | Amanda Christine |
 | 302 | 165 | Zappy Buildgrid |
-| 303 | 165 | Amanda Christine |
+| 303 | 165 | Brittany Marsh |
 | 304 | 165 | ChasingZen |
 | 305 | 164 | Marvetta Williams |
 | 306 | 163 | Cheaneen Livingston |
@@ -403,8 +403,8 @@
 | 395 | 136 | Michelle Morris |
 | 396 | 136 | Jen Hallin |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Kristin MacDonald |
-| 399 | 134 | Jobadia Steelerton |
+| 398 | 134 | Jobadia Steelerton |
+| 399 | 134 | Kristin MacDonald |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Vamp |
 | 402 | 132 | Paito |
@@ -474,8 +474,8 @@
 | 466 | 114 | Jackson Karen |
 | 467 | 114 | Jeff Roberts |
 | 468 | 114 | Jason Frehner |
-| 469 | 113 | DQ Martin |
-| 470 | 113 | Stephanie Mico |
+| 469 | 113 | Stephanie Mico |
+| 470 | 113 | DQ Martin |
 | 471 | 113 | Michael Orris |
 | 472 | 111 | Zocko Ellet |
 | 473 | 111 | Richard-April Kice |
@@ -601,7 +601,7 @@
 | 593 | 85 | Jennifer Renee |
 | 594 | 85 | Tim Knight-ten |
 | 595 | 85 | moneybagz |
-| 596 | 84 | Eminem |
+| 596 | 84 | mini |
 | 597 | 84 | Marta Savchuk |
 | 598 | 84 | Eminem |
 | 599 | 84 | Lauren R. Walls |

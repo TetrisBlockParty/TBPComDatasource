@@ -141,8 +141,8 @@
 | 133 | 1469 | Christi Hulet |
 | 134 | 1450 | Cody Smith-Candelaria |
 | 135 | 1418 | L3sli3 |
-| 136 | 1411 | niecy |
-| 137 | 1411 | Zappy Cascade |
+| 136 | 1411 | Zappy Cascade |
+| 137 | 1411 | niecy |
 | 138 | 1401 | Brandy Andre |
 | 139 | 1397 | Bussyiano Page |
 | 140 | 1390 | Erica Williams |
@@ -424,8 +424,8 @@
 | 416 | 617 | Nicole Cannon |
 | 417 | 616 | Jackie Avila |
 | 418 | 615 | Julio A Laracuente |
-| 419 | 613 | Tonya Lee |
-| 420 | 613 | Lylymom |
+| 419 | 613 | Lylymom |
+| 420 | 613 | Tonya Lee |
 | 421 | 613 | Caitlyn Blackwell |
 | 422 | 613 | Vanessa Moreno |
 | 423 | 609 | g |
@@ -450,8 +450,8 @@
 | 442 | 584 | Kimberly Randesi |
 | 443 | 582 | Bee |
 | 444 | 581 | Angie Marie |
-| 445 | 580 | Joshua Self |
-| 446 | 580 | Angela Lynn |
+| 445 | 580 | Angela Lynn |
+| 446 | 580 | Joshua Self |
 | 447 | 579 | Roy Salyer |
 | 448 | 576 | Leslie Johnson Guinto |
 | 449 | 574 | Santana Miyagi |
@@ -543,12 +543,12 @@
 | 535 | 485 | Klee |
 | 536 | 485 | Mamachelle Eisweirth |
 | 537 | 484 | Ashley Collins |
-| 538 | 484 | Wendy Unsain |
-| 539 | 484 | Street Sweeper |
-| 540 | 482 | Kathleen Driskell |
-| 541 | 482 | Snippy Rumbler |
-| 542 | 482 | Amélie Cadieux |
-| 543 | 482 | Drwatson187 |
+| 538 | 484 | Street Sweeper |
+| 539 | 484 | Wendy Unsain |
+| 540 | 482 | Drwatson187 |
+| 541 | 482 | Amélie Cadieux |
+| 542 | 482 | Snippy Rumbler |
+| 543 | 482 | Kathleen Driskell |
 | 544 | 481 | Quirky Twistline |
 | 545 | 481 | Anthony Huebel |
 | 546 | 480 | Ryan Meilleur |
@@ -1069,8 +1069,8 @@
 | 1061 | 271 | Pam Doughty |
 | 1062 | 271 | Chirpy Tilt |
 | 1063 | 271 | Amandacolle |
-| 1064 | 271 | Frank Castle |
-| 1065 | 271 | Shalisa Hill |
+| 1064 | 271 | Shalisa Hill |
+| 1065 | 271 | Frank Castle |
 | 1066 | 270 | Amy John Mills |
 | 1067 | 269 | Chill Strike |
 | 1068 | 269 | Queen |

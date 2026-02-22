@@ -145,8 +145,8 @@
 | 137 | 538 | JerseyJess |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -234,8 +234,8 @@
 | 226 | 347 | Philip Rock |
 | 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Rania Zaqout |
-| 230 | 344 | Roary Danner |
+| 229 | 344 | Roary Danner |
+| 230 | 344 | Rania Zaqout |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Noyb Adam |
 | 233 | 341 | Samantha Lynn |
@@ -308,8 +308,8 @@
 | 300 | 267 | April Matthew Kibble |
 | 301 | 266 | Quirky Dropzone |
 | 302 | 266 | Donna |
-| 303 | 261 | Foltz Lee Kelli |
-| 304 | 261 | Angela Scott |
+| 303 | 261 | Angela Scott |
+| 304 | 261 | Foltz Lee Kelli |
 | 305 | 260 | France Vézina |
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
