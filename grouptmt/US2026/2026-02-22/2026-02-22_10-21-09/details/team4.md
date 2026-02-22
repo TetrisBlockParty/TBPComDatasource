@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -170,15 +170,15 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | Rheanda Weaskus |
-| 166 | 221 | PurpleMoonMa |
+| 165 | 221 | PurpleMoonMa |
+| 166 | 221 | Rheanda Weaskus |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Ren Mc |
-| 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Jason Allen |
-| 173 | 213 | Sarah Neathery |
+| 170 | 215 | Jessica Bohlken |
+| 171 | 215 | Ren Mc |
+| 172 | 213 | Sarah Neathery |
+| 173 | 213 | Jason Allen |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |

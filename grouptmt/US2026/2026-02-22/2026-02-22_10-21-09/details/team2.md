@@ -207,8 +207,8 @@
 | 199 | 919 | Isaac Trappiel IV |
 | 200 | 916 | Butta |
 | 201 | 915 | Kelly Trent |
-| 202 | 910 | Shuany Arias |
-| 203 | 910 | Crystal Hoffman |
+| 202 | 910 | Crystal Hoffman |
+| 203 | 910 | Shuany Arias |
 | 204 | 907 | Gene Mills |
 | 205 | 901 | Jennifer Peachey |
 | 206 | 894 | Auntie B |
@@ -286,15 +286,15 @@
 | 278 | 713 | Chelle |
 | 279 | 704 | Shelley Thornburgh Wright |
 | 280 | 703 | Gold Rose |
-| 281 | 700 | Hong Tang |
-| 282 | 700 | Vincent Petrella |
+| 281 | 700 | Vincent Petrella |
+| 282 | 700 | Hong Tang |
 | 283 | 700 | Rosemadder |
 | 284 | 700 | Beverly Owens |
 | 285 | 698 | Mighty Shatterfit |
 | 286 | 697 | Dreamy Blast |
 | 287 | 695 | Lakeysha Dortch |
-| 288 | 692 | Jennifer Casey-Kay |
-| 289 | 692 | Dannette Goldberg-Richards |
+| 288 | 692 | Dannette Goldberg-Richards |
+| 289 | 692 | Jennifer Casey-Kay |
 | 290 | 690 | Deborah Miller |
 | 291 | 689 | Giggy Blocker |
 | 292 | 688 | Tiara Elizabeth Baker |
@@ -303,8 +303,8 @@
 | 295 | 685 | Binyah-Binyah |
 | 296 | 681 | Melissa Holsinger |
 | 297 | 679 | Offonar Facey |
-| 298 | 679 | Brenda Utphall |
-| 299 | 679 | Dee |
+| 298 | 679 | Dee |
+| 299 | 679 | Brenda Utphall |
 | 300 | 679 | Kassandra Hunt |
 | 301 | 678 | Scott Treadway |
 | 302 | 677 | Mema |
@@ -374,8 +374,8 @@
 | 366 | 558 | Libby Hicks |
 | 367 | 557 | Block Master |
 | 368 | 556 | Slip |
-| 369 | 554 | Santana Miyagi |
-| 370 | 554 | Rachael Senard |
+| 369 | 554 | Rachael Senard |
+| 370 | 554 | Santana Miyagi |
 | 371 | 554 | Autumn Schaeffer |
 | 372 | 550 | Nashu |
 | 373 | 549 | Darcy Mae |
@@ -470,9 +470,9 @@
 | 462 | 466 | Koa N Sharon Chen |
 | 463 | 465 | Davetta Sanford |
 | 464 | 464 | snkylnk |
-| 465 | 463 | Cody Nishimura |
-| 466 | 463 | Sue Leard |
-| 467 | 463 | Jaye EL Hunter |
+| 465 | 463 | Sue Leard |
+| 466 | 463 | Jaye EL Hunter |
+| 467 | 463 | Cody Nishimura |
 | 468 | 462 | Jarboe |
 | 469 | 462 | Amanda Ferrell |
 | 470 | 462 | Tonya Lee |
@@ -482,8 +482,8 @@
 | 474 | 456 | Melissa Rebbe-Lehman |
 | 475 | 455 | Kiana Boschh |
 | 476 | 454 | Casey Schumacher |
-| 477 | 453 | Rhonda Petro |
-| 478 | 453 | Joshua Sommerville |
+| 477 | 453 | Joshua Sommerville |
+| 478 | 453 | Rhonda Petro |
 | 479 | 451 | Funky Caster |
 | 480 | 451 | Dylan Thomason |
 | 481 | 450 | Cheery Matchzone |
@@ -494,9 +494,9 @@
 | 486 | 444 | Chab |
 | 487 | 442 | Leah |
 | 488 | 441 | Christina Wsn |
-| 489 | 440 | Liberty |
-| 490 | 440 | Sarah Berger |
-| 491 | 440 | Victoria Regina Girolami |
+| 489 | 440 | Victoria Regina Girolami |
+| 490 | 440 | Liberty |
+| 491 | 440 | Sarah Berger |
 | 492 | 438 | Johnny Yeates |
 | 493 | 438 | Kristi Biddinger |
 | 494 | 437 | Bubbly Snapfit |

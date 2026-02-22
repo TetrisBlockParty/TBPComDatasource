@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -400,8 +400,8 @@
 | 392 | 99 | Brandy Ann |
 | 393 | 98 | Alfredo Vasquez |
 | 394 | 98 | Kirk Torrey |
-| 395 | 97 | Steve Bomkamp |
-| 396 | 97 | Edgar Algiere |
+| 395 | 97 | Edgar Algiere |
+| 396 | 97 | Steve Bomkamp |
 | 397 | 96 | Lisa Marie |
 | 398 | 95 | Jay Tressler |
 | 399 | 95 | Quirky Pusher |
