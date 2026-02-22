@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -114,8 +114,8 @@
 | 106 | 395 | Marie-Pier Desjardins |
 | 107 | 393 | Carlton Unfiltered |
 | 108 | 392 | Ericca Eldridge |
-| 109 | 391 | Monica Daley |
-| 110 | 391 | Ramel Rhodes |
+| 109 | 391 | Ramel Rhodes |
+| 110 | 391 | Monica Daley |
 | 111 | 387 | Denise Carlson |
 | 112 | 382 | Lori Walker |
 | 113 | 373 | Joseph Guthrie |
@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | Twisty Cascadezone |
-| 166 | 244 | J-Rizzle |
+| 165 | 244 | J-Rizzle |
+| 166 | 244 | Twisty Cascadezone |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -259,8 +259,8 @@
 | 251 | 166 | Megan Cutshaw |
 | 252 | 166 | Angelito |
 | 253 | 166 | Jenny Wells-Oakley |
-| 254 | 165 | Zappy Buildgrid |
-| 255 | 165 | James Hurley Jr. |
+| 254 | 165 | James Hurley Jr. |
+| 255 | 165 | Zappy Buildgrid |
 | 256 | 164 | 030Synner |
 | 257 | 163 | Kristina Black |
 | 258 | 162 | conceptCollector |
@@ -709,8 +709,8 @@
 | 701 | 57 | Boldy Linkfall |
 | 702 | 57 | Jarred Falls |
 | 703 | 57 | Flashy Jumper |
-| 704 | 56 | Speedy Zigzag |
-| 705 | 56 | I'm sorry |
+| 704 | 56 | I'm sorry |
+| 705 | 56 | Speedy Zigzag |
 | 706 | 56 | Lilya Troutman |
 | 707 | 56 | Saucy Stackbuilder |
 | 708 | 56 | Joan Du |

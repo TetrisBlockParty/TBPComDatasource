@@ -76,8 +76,8 @@
 | 68 | 491 | Sarah Lombardo |
 | 69 | 489 | Deanna L Hermanson |
 | 70 | 485 | Cartier |
-| 71 | 483 | Ryan Lunnin |
-| 72 | 483 | Evie Khalil |
+| 71 | 483 | Evie Khalil |
+| 72 | 483 | Ryan Lunnin |
 | 73 | 480 | Nancy Green |
 | 74 | 472 | April Carroll |
 | 75 | 458 | Jennifer ManWarren |
@@ -102,8 +102,8 @@
 | 94 | 389 | Trina Gee |
 | 95 | 383 | Loony Fitzone |
 | 96 | 382 | Jacqueline Williams |
-| 97 | 379 | Kimmie Kimms |
-| 98 | 379 | Austin James |
+| 97 | 379 | Austin James |
+| 98 | 379 | Kimmie Kimms |
 | 99 | 376 | lil mickey |
 | 100 | 374 | Tinah Montanna |
 | 101 | 364 | Shauna Loe |
@@ -145,8 +145,8 @@
 | 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Emily Adelaide Wheatley |
-| 141 | 284 | Rachael |
+| 140 | 284 | Rachael |
+| 141 | 284 | Emily Adelaide Wheatley |
 | 142 | 283 | Franswa |
 | 143 | 282 | Cool Shiftsnap |
 | 144 | 282 | Snippy Wipebuilder |
@@ -201,8 +201,8 @@
 | 193 | 215 | Shaykmia |
 | 194 | 214 | LaFontaine Leslie |
 | 195 | 213 | Daring Fitclear |
-| 196 | 210 | Letson Melissa |
-| 197 | 210 | Giggly Builderline |
+| 196 | 210 | Giggly Builderline |
+| 197 | 210 | Letson Melissa |
 | 198 | 209 | Cece Ibarra |
 | 199 | 208 | Bouncy Grid |
 | 200 | 208 | Michelle Beres |
@@ -221,8 +221,8 @@
 | 213 | 200 | Breanna Luna |
 | 214 | 200 | DaRascal |
 | 215 | 199 | Alenoush Karimian |
-| 216 | 198 | Shiny Gridmatch |
-| 217 | 198 | Happy Snapbuild |
+| 216 | 198 | Happy Snapbuild |
+| 217 | 198 | Shiny Gridmatch |
 | 218 | 197 | Melissa Lemmon |
 | 219 | 195 | Jennifer Olewnik Soborowski |
 | 220 | 195 | Bindi |

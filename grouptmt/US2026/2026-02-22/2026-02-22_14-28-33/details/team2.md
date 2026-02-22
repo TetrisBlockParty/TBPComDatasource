@@ -219,11 +219,11 @@
 | 211 | 919 | Joshua Mandel |
 | 212 | 919 | Isaac Trappiel IV |
 | 213 | 916 | Butta |
-| 214 | 915 | Robin Kerby |
-| 215 | 915 | Angela Bonquiqui Dinish |
+| 214 | 915 | Angela Bonquiqui Dinish |
+| 215 | 915 | Robin Kerby |
 | 216 | 915 | Kelly Trent |
-| 217 | 910 | Crystal Hoffman |
-| 218 | 910 | Shuany Arias |
+| 217 | 910 | Shuany Arias |
+| 218 | 910 | Crystal Hoffman |
 | 219 | 907 | Gene Mills |
 | 220 | 902 | Dedra Steward |
 | 221 | 901 | Jennifer Peachey |
@@ -516,14 +516,14 @@
 | 508 | 462 | Jarboe |
 | 509 | 460 | Tara Lynn Janes |
 | 510 | 459 | Melissa Kay Gibson |
-| 511 | 458 | Casper The Chonk |
-| 512 | 458 | SwampRebel |
+| 511 | 458 | SwampRebel |
+| 512 | 458 | Casper The Chonk |
 | 513 | 456 | Skyler Morgan |
 | 514 | 454 | Casey Schumacher |
 | 515 | 453 | Rhonda Petro |
 | 516 | 452 | Juanita Lyons |
-| 517 | 451 | Funky Caster |
-| 518 | 451 | Anthony Huebel |
+| 517 | 451 | Anthony Huebel |
+| 518 | 451 | Funky Caster |
 | 519 | 450 | Cheery Matchzone |
 | 520 | 448 | Lee Harper |
 | 521 | 448 | Tina Marie |
@@ -590,8 +590,8 @@
 | 582 | 406 | Kimberly Ann |
 | 583 | 406 | Erin StFrancis |
 | 584 | 404 | Dawn L Washington-Feuquay |
-| 585 | 403 | Goofy Dasher |
-| 586 | 403 | Nate Skidmore |
+| 585 | 403 | Nate Skidmore |
+| 586 | 403 | Goofy Dasher |
 | 587 | 401 | Moua Ying |
 | 588 | 401 | Adam Simmons |
 | 589 | 401 | De Hawkins |
@@ -693,8 +693,8 @@
 | 685 | 348 | Richard Horton |
 | 686 | 347 | CC |
 | 687 | 347 | Zesty Pivot |
-| 688 | 346 | James Smith |
-| 689 | 346 | Danielle Ayoub |
+| 688 | 346 | Danielle Ayoub |
+| 689 | 346 | James Smith |
 | 690 | 345 | Rhianna DiLorenzo |
 | 691 | 345 | Gina Caulder |
 | 692 | 344 | Frisky Riserbuilder |
@@ -786,8 +786,8 @@
 | 778 | 303 | Angie Marie |
 | 779 | 303 | Amanda Schaffer |
 | 780 | 303 | Devin |
-| 781 | 302 | Kena T. Tanner |
-| 782 | 302 | Epic Stackbuilder |
+| 781 | 302 | Epic Stackbuilder |
+| 782 | 302 | Kena T. Tanner |
 | 783 | 302 | Maxwell Escalera |
 | 784 | 301 | Tom Steffen |
 | 785 | 300 | Alice Ball |
@@ -806,17 +806,17 @@
 | 798 | 295 | Noel Tarmy |
 | 799 | 295 | Sveta Lana |
 | 800 | 295 | Devlin Ogg |
-| 801 | 294 | Swanky Snap |
-| 802 | 294 | Amanda Edwards |
+| 801 | 294 | Amanda Edwards |
+| 802 | 294 | Swanky Snap |
 | 803 | 294 | Kristina Marie Hanna |
 | 804 | 293 | NickyBrooks |
 | 805 | 293 | Ann Marie Davis |
 | 806 | 293 | Brave Gridpiece |
 | 807 | 292 | Bryan Werleman |
-| 808 | 292 | Deana |
-| 809 | 292 | AsnPryBoy83 |
-| 810 | 291 | Bella Novia |
-| 811 | 291 | Jennie Lee Huntley |
+| 808 | 292 | AsnPryBoy83 |
+| 809 | 292 | Deana |
+| 810 | 291 | Jennie Lee Huntley |
+| 811 | 291 | Bella Novia |
 | 812 | 289 | Ryan Chan |
 | 813 | 289 | Cathy Bitters |
 | 814 | 289 | Min |
@@ -842,8 +842,8 @@
 | 834 | 281 | Amy McManus |
 | 835 | 280 | Sandra Link-Gable |
 | 836 | 280 | Reece Smith |
-| 837 | 280 | Luke Califf |
-| 838 | 280 | Jay Levy |
+| 837 | 280 | Jay Levy |
+| 838 | 280 | Luke Califf |
 | 839 | 279 | Laura Wyatt |
 | 840 | 279 | Katherin Camacho |
 | 841 | 279 | Jennifer Coe |
@@ -976,12 +976,12 @@
 | 968 | 252 | Aleasha M Brown |
 | 969 | 252 | Breezy Tilt |
 | 970 | 251 | Regina Unruh |
-| 971 | 251 | Bold Clusterfit |
-| 972 | 251 | Dane Reing |
-| 973 | 251 | Erika Deer Kauffman |
+| 971 | 251 | Dane Reing |
+| 972 | 251 | Erika Deer Kauffman |
+| 973 | 251 | Bold Clusterfit |
 | 974 | 251 | Emoniee Sa'niaya |
-| 975 | 251 | Kimmie Zimmerman-Rocha |
-| 976 | 251 | Chipper Dashpiece |
+| 975 | 251 | Chipper Dashpiece |
+| 976 | 251 | Kimmie Zimmerman-Rocha |
 | 977 | 250 | Bee |
 | 978 | 250 | Muhammad |
 | 979 | 250 | Kay Stevenson |
