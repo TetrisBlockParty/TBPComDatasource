@@ -64,8 +64,8 @@
 | 56 | 546 | Aaron Garnett |
 | 57 | 519 | Greg Hart |
 | 58 | 517 | Jen Sartain |
-| 59 | 510 | Colena Davenport |
-| 60 | 510 | Sevens4L |
+| 59 | 510 | Sevens4L |
+| 60 | 510 | Colena Davenport |
 | 61 | 493 | Robert Benito |
 | 62 | 491 | Sarah Lombardo |
 | 63 | 485 | Cartier |
@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | Jennifer ManWarren |
-| 82 | 388 | cc |
+| 81 | 388 | cc |
+| 82 | 388 | Jennifer ManWarren |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -130,8 +130,8 @@
 | 122 | 290 | Death |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Emily Adelaide Wheatley |
-| 126 | 284 | Rachael |
+| 125 | 284 | Rachael |
+| 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
 | 128 | 282 | Timothy Dew |
 | 129 | 282 | Cool Shiftsnap |
@@ -165,8 +165,8 @@
 | 157 | 230 | Frothy Pattern |
 | 158 | 230 | Billie Dawn Sparks |
 | 159 | 229 | David Lutcher |
-| 160 | 226 | Sleepysloath5745 |
-| 161 | 226 | Kandae |
+| 160 | 226 | Kandae |
+| 161 | 226 | Sleepysloath5745 |
 | 162 | 224 | Dizzy Party |
 | 163 | 218 | LC |
 | 164 | 217 | ParisandCory Champagne |

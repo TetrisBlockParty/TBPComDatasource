@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -129,19 +129,19 @@
 | 121 | 294 | Kesha Brady |
 | 122 | 290 | 🥔🥔 Spudz |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | shark tato |
-| 125 | 286 | Daria Rycewicz |
+| 124 | 286 | Daria Rycewicz |
+| 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
 | 129 | 278 | Desi Desporte |
-| 130 | 277 | Mary Ann Pabukis |
-| 131 | 277 | Scott Jameson |
+| 130 | 277 | Scott Jameson |
+| 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Epic Curvetile |
+| 134 | 264 | Girl |
 | 135 | 264 | Dana Scott |
-| 136 | 264 | Girl |
+| 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 260 | Chris Baggett |
 | 139 | 256 | Mylo Lipscomb |
@@ -153,19 +153,19 @@
 | 145 | 244 | Calvin Cannon |
 | 146 | 240 | Peachy Fall |
 | 147 | 232 | Crystal Nicolette Moore |
-| 148 | 230 | Cursed Hag |
-| 149 | 230 | Autum Leigh |
+| 148 | 230 | Autum Leigh |
+| 149 | 230 | Cursed Hag |
 | 150 | 229 | Chris Bernstein |
 | 151 | 228 | J-Rizzle |
-| 152 | 227 | Alyssa Papen |
-| 153 | 227 | Swanky Fitline |
+| 152 | 227 | Swanky Fitline |
+| 153 | 227 | Alyssa Papen |
 | 154 | 225 | Damn Libra |
 | 155 | 224 | Matt Summer |
 | 156 | 224 | Andy Cabral |
 | 157 | 223 | Kris Bartlett |
 | 158 | 223 | Antony Dwayne Beasley |
-| 159 | 222 | Joeliecea Cobb |
-| 160 | 222 | TheNeesh50 |
+| 159 | 222 | TheNeesh50 |
+| 160 | 222 | Joeliecea Cobb |
 | 161 | 221 | PurpleMoonMa |
 | 162 | 221 | Rheanda Weaskus |
 | 163 | 220 | Matt Dell'Olio |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Melvin Baird |
-| 178 | 201 | Chance Strickland |
+| 177 | 201 | Chance Strickland |
+| 178 | 201 | Melvin Baird |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |

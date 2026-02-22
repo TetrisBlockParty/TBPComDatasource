@@ -251,7 +251,7 @@
 | 243 | 767 | Jessica Wayne Cornwall |
 | 244 | 765 | Jodi Blake |
 | 245 | 763 | Lisa Ongtowasruk |
-| 246 | 763 | Wakanda Forever |
+| 246 | 763 | Samantha Jo |
 | 247 | 763 | Mischelle Clay |
 | 248 | 763 | Wakanda Forever |
 | 249 | 763 | Beth |
@@ -314,8 +314,8 @@
 | 306 | 651 | Unica Rector |
 | 307 | 650 | Shiny Rollzone |
 | 308 | 643 | Hoppy Brickmatch |
-| 309 | 641 | Angie Bolton Workman |
-| 310 | 641 | Joce Lynn |
+| 309 | 641 | Joce Lynn |
+| 310 | 641 | Angie Bolton Workman |
 | 311 | 640 | BYM4L |
 | 312 | 639 | Crystie Hicks |
 | 313 | 639 | Rebecca Miller |
@@ -330,8 +330,8 @@
 | 322 | 617 | Leslie Ann Carter |
 | 323 | 613 | Ellie Jonas |
 | 324 | 611 | Em Chen |
-| 325 | 611 | Carl Bradshaw |
-| 326 | 611 | Julio A Laracuente |
+| 325 | 611 | Julio A Laracuente |
+| 326 | 611 | Carl Bradshaw |
 | 327 | 605 | Jelly |
 | 328 | 603 | Ginger |
 | 329 | 603 | Cassie Maynard |
@@ -348,8 +348,8 @@
 | 340 | 583 | Bri Lynn |
 | 341 | 582 | Gary Stash |
 | 342 | 581 | Jerry Tempelmeyer |
-| 343 | 579 | Jackie Avila |
-| 344 | 579 | AgileDragon |
+| 343 | 579 | AgileDragon |
+| 344 | 579 | Jackie Avila |
 | 345 | 579 | Juliana Marques Do Nascimento Gordy |
 | 346 | 579 | Roy Salyer |
 | 347 | 576 | Leslie Johnson Guinto |
@@ -446,8 +446,8 @@
 | 438 | 472 | Arwa Fatimah |
 | 439 | 472 | Kyle LeRoy Harris |
 | 440 | 471 | Jaycee |
-| 441 | 471 | Rae Rae |
-| 442 | 471 | KhaosLord |
+| 441 | 471 | KhaosLord |
+| 442 | 471 | Rae Rae |
 | 443 | 470 | Street Sweeper |
 | 444 | 469 | Spunkysmom |
 | 445 | 466 | Crystal Greene |
@@ -731,9 +731,9 @@
 | 723 | 304 | James Smith |
 | 724 | 304 | Melissa McCall |
 | 725 | 303 | Angie Marie |
-| 726 | 303 | Devin |
+| 726 | 303 | Peachy Blockbuilder |
 | 727 | 303 | Amanda Schaffer |
-| 728 | 303 | Peachy Blockbuilder |
+| 728 | 303 | Devin |
 | 729 | 302 | Kena T. Tanner |
 | 730 | 302 | Maxwell Escalera |
 | 731 | 300 | Alice Ball |

@@ -511,9 +511,9 @@
 | 503 | 111 | Victoria Wangler Lewis |
 | 504 | 111 | Jennifer Neiman Gaal |
 | 505 | 111 | Geronimo |
-| 506 | 110 | Quirky Dropzone |
-| 507 | 110 | Angela VanOstrand |
-| 508 | 110 | Michael Pleasant |
+| 506 | 110 | Michael Pleasant |
+| 507 | 110 | Quirky Dropzone |
+| 508 | 110 | Angela VanOstrand |
 | 509 | 110 | Kate Farok |
 | 510 | 109 | Katie Bolich |
 | 511 | 109 | mommablock |
