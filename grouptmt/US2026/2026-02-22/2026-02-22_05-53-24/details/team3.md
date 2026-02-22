@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 936 | Brandon Green |
@@ -150,8 +150,8 @@
 | 142 | 399 | Marcie Bressler |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
-| 145 | 392 | Tasha Gillespie |
-| 146 | 392 | Katie Knaus |
+| 145 | 392 | Katie Knaus |
+| 146 | 392 | Tasha Gillespie |
 | 147 | 391 | Calista Jo Dickson |
 | 148 | 390 | Hasty Cascadefit |
 | 149 | 389 | Jeni Dow |
@@ -204,8 +204,8 @@
 | 196 | 295 | RickyG |
 | 197 | 289 | Duane Bright |
 | 198 | 289 | Hoppy Buildout |
-| 199 | 289 | Rebecca Bailey |
-| 200 | 289 | DidIdothat |
+| 199 | 289 | DidIdothat |
+| 200 | 289 | Rebecca Bailey |
 | 201 | 286 | Cynthia Herrmann Egland |
 | 202 | 286 | Jacqueline Rodriguez |
 | 203 | 284 | Edwin Calvillo Jr. |
@@ -309,10 +309,10 @@
 | 301 | 179 | Rachel Napper |
 | 302 | 179 | Christian Werndl |
 | 303 | 179 | Tipsy Zonebuilder |
-| 304 | 178 | Jennifer Alvey |
-| 305 | 178 | Jess Dearborn |
-| 306 | 176 | Emma |
-| 307 | 176 | Melissa Orth Hunter |
+| 304 | 178 | Jess Dearborn |
+| 305 | 178 | Jennifer Alvey |
+| 306 | 176 | Melissa Orth Hunter |
+| 307 | 176 | Emma |
 | 308 | 175 | Eileen Brady Thurber |
 | 309 | 174 | Betty Rosas |
 | 310 | 174 | fraulila |
@@ -321,8 +321,8 @@
 | 313 | 170 | Cesar Barraza |
 | 314 | 169 | Peachy Rollfit |
 | 315 | 169 | Kristian Thurman |
-| 316 | 168 | Stephanie Hill |
-| 317 | 168 | Trice Thomas |
+| 316 | 168 | Trice Thomas |
+| 317 | 168 | Stephanie Hill |
 | 318 | 167 | Romeo |
 | 319 | 167 | Shicken Nuggit |
 | 320 | 166 | Noettín Kan Zasnemoore |

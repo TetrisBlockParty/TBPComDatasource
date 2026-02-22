@@ -94,8 +94,8 @@
 | 86 | 359 | Nerdy Linkblock |
 | 87 | 355 | Hasbro Bros |
 | 88 | 350 | Tipsy Strikerpiece |
-| 89 | 347 | june october |
-| 90 | 347 | pjbeta |
+| 89 | 347 | pjbeta |
+| 90 | 347 | june october |
 | 91 | 345 | Dee Perry |
 | 92 | 342 | Brenda Stewart |
 | 93 | 336 | Bhelle Sumile |
@@ -222,8 +222,8 @@
 | 214 | 164 | Shanae Grant |
 | 215 | 163 | DaRascal |
 | 216 | 163 | Blaire Bruckoff |
-| 217 | 163 | Angela Fairbank |
-| 218 | 163 | Tyler Whitley |
+| 217 | 163 | Tyler Whitley |
+| 218 | 163 | Angela Fairbank |
 | 219 | 161 | SavageBooty98 |
 | 220 | 160 | Tedashi |
 | 221 | 159 | Brenda Alexander |
