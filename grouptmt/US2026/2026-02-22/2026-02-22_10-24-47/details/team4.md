@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -132,14 +132,14 @@
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Carrie Brian |
 | 132 | 278 | Desi Desporte |
-| 133 | 277 | Mary Ann Pabukis |
-| 134 | 277 | Scott Jameson |
+| 133 | 277 | Scott Jameson |
+| 134 | 277 | Mary Ann Pabukis |
 | 135 | 275 | Dizzy Tiley |
 | 136 | 274 | Calvin Cannon |
 | 137 | 272 | Keshia Lyons |
@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -188,8 +188,8 @@
 | 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |

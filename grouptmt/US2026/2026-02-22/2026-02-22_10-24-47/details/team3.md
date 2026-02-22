@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -175,8 +175,8 @@
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
 | 169 | 370 | Logan Naccarato |
-| 170 | 370 | Santeria Trece Candles |
-| 171 | 370 | Danielle Allison |
+| 170 | 370 | Danielle Allison |
+| 171 | 370 | Santeria Trece Candles |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
 | 174 | 362 | Darlene McMillan |
@@ -189,8 +189,8 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Nicole Flippo |
-| 185 | 347 | Jone |
+| 184 | 347 | Jone |
+| 185 | 347 | Nicole Flippo |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -246,8 +246,8 @@
 | 238 | 264 | Grego Daniel |
 | 239 | 263 | Brittany |
 | 240 | 262 | Joe-Maggie Mathews |
-| 241 | 261 | Tasha Wesson-Torrence |
-| 242 | 261 | Tiffany Ford |
+| 241 | 261 | Tiffany Ford |
+| 242 | 261 | Tasha Wesson-Torrence |
 | 243 | 261 | Marquita Sheard |
 | 244 | 260 | Grams |
 | 245 | 259 | Danielle Weikel |
@@ -258,8 +258,8 @@
 | 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | Annie Marie |
-| 254 | 249 | JerseyJess |
+| 253 | 249 | JerseyJess |
+| 254 | 249 | Annie Marie |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |

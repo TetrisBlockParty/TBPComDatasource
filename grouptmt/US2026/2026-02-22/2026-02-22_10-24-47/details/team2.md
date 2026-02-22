@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -207,8 +207,8 @@
 | 199 | 919 | Isaac Trappiel IV |
 | 200 | 916 | Butta |
 | 201 | 915 | Kelly Trent |
-| 202 | 910 | Crystal Hoffman |
-| 203 | 910 | Shuany Arias |
+| 202 | 910 | Shuany Arias |
+| 203 | 910 | Crystal Hoffman |
 | 204 | 907 | Gene Mills |
 | 205 | 901 | Jennifer Peachey |
 | 206 | 894 | Auntie B |
@@ -338,8 +338,8 @@
 | 330 | 625 | Jánine Riggs |
 | 331 | 620 | Brandon Armstrong |
 | 332 | 617 | Leslie Ann Carter |
-| 333 | 613 | Caitlyn Blackwell |
-| 334 | 613 | Breezy Filler |
+| 333 | 613 | Breezy Filler |
+| 334 | 613 | Caitlyn Blackwell |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
 | 337 | 611 | Julio A Laracuente |
@@ -1067,12 +1067,12 @@
 | 1059 | 214 | Luciano Andre Versace Grismondie |
 | 1060 | 213 | Chirpy Tilt |
 | 1061 | 213 | Janai Vrabel |
-| 1062 | 213 | Cynthia Knox |
-| 1063 | 213 | Hannah Leigh Pelofsky |
+| 1062 | 213 | Hannah Leigh Pelofsky |
+| 1063 | 213 | Cynthia Knox |
 | 1064 | 213 | Cassi Owens |
 | 1065 | 212 | Izzy Rockford |
-| 1066 | 212 | Sarah Dean |
-| 1067 | 212 | Denelle Wendt-Ramalho |
+| 1066 | 212 | Denelle Wendt-Ramalho |
+| 1067 | 212 | Sarah Dean |
 | 1068 | 212 | JP Parks |
 | 1069 | 212 | Crafty Brickline |
 | 1070 | 212 | Sassy Linkroll |
@@ -1119,17 +1119,17 @@
 | 1111 | 205 | Ashley McCarthy-Arnone |
 | 1112 | 205 | Tiffney Wroten |
 | 1113 | 205 | Desiree Hargrove Moore |
-| 1114 | 204 | Ali Gralski |
-| 1115 | 204 | Lakeela Wise |
+| 1114 | 204 | Lakeela Wise |
+| 1115 | 204 | Ali Gralski |
 | 1116 | 204 | Edralin Custodio |
 | 1117 | 204 | Andre Love |
 | 1118 | 202 | BIG BABY |
 | 1119 | 202 | Joshua Yonker |
-| 1120 | 201 | LintFunk |
-| 1121 | 201 | Jennifer Rajek |
+| 1120 | 201 | Jennifer Rajek |
+| 1121 | 201 | LintFunk |
 | 1122 | 201 | Betty Ruth Hale |
-| 1123 | 200 | Sara Silvernail-Kay |
-| 1124 | 200 | Rich Sullivan |
+| 1123 | 200 | Rich Sullivan |
+| 1124 | 200 | Sara Silvernail-Kay |
 | 1125 | 200 | Shyne Sun |
 | 1126 | 199 | Tiffany Michelle Arnold |
 | 1127 | 199 | Dorinda Palato |
@@ -1153,12 +1153,12 @@
 | 1145 | 196 | Goofy Cascadeclear |
 | 1146 | 196 | Kimberly Hope Howell |
 | 1147 | 196 | Giggy Mover |
-| 1148 | 196 | Jennifer Barclay |
+| 1148 | 196 | Renee Griffith |
 | 1149 | 196 | Donna Colby |
-| 1150 | 196 | Renee Griffith |
-| 1151 | 196 | Sherry Williams |
-| 1152 | 195 | Muhammad |
-| 1153 | 195 | Cheeky Brickroll |
+| 1150 | 196 | Sherry Williams |
+| 1151 | 196 | Jennifer Barclay |
+| 1152 | 195 | Cheeky Brickroll |
+| 1153 | 195 | Muhammad |
 | 1154 | 195 | Persipnei Cuesta |
 | 1155 | 195 | kickstante |
 | 1156 | 195 | Arlet Alba |
