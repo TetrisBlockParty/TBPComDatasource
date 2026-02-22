@@ -551,10 +551,10 @@
 | 543 | 403 | Goofy Dasher |
 | 544 | 401 | Moua Ying |
 | 545 | 401 | Lee Harper |
-| 546 | 401 | De Hawkins |
-| 547 | 401 | Taylor Flowers |
-| 548 | 400 | Tammy Allen |
-| 549 | 400 | Joshua Self |
+| 546 | 401 | Taylor Flowers |
+| 547 | 401 | De Hawkins |
+| 548 | 400 | Joshua Self |
+| 549 | 400 | Tammy Allen |
 | 550 | 400 | Kathleen Driskell |
 | 551 | 399 | Cleo Sims |
 | 552 | 399 | Oscar Bernie |
@@ -579,8 +579,8 @@
 | 571 | 389 | Alexis Richardson |
 | 572 | 389 | Kayla |
 | 573 | 389 | Julie Hamilton |
-| 574 | 387 | Misti Markijohn |
-| 575 | 387 | Bold Brickster |
+| 574 | 387 | Bold Brickster |
+| 575 | 387 | Misti Markijohn |
 | 576 | 386 | Michael Artis |
 | 577 | 386 | Wuntayk |
 | 578 | 385 | Tansaria Couch-Butler |
@@ -599,12 +599,12 @@
 | 591 | 378 | TF Dyer |
 | 592 | 378 | Jasmine Kenney |
 | 593 | 377 | Jason H Baker |
-| 594 | 376 | Darlene Bowman |
-| 595 | 376 | James Zaragoza |
+| 594 | 376 | James Zaragoza |
+| 595 | 376 | Darlene Bowman |
 | 596 | 375 | Cecilia A Jenkins |
 | 597 | 375 | Lively Edgepiece |
-| 598 | 373 | Jessica Hughes |
-| 599 | 373 | Hunter Connors |
+| 598 | 373 | Hunter Connors |
+| 599 | 373 | Jessica Hughes |
 | 600 | 373 | Ashley Marie |
 | 601 | 372 | Ebony Deloach Bryant |
 | 602 | 372 | Steve Man |
@@ -683,13 +683,13 @@
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Adrian Benitez |
-| 679 | 333 | Woodys Glass |
+| 678 | 333 | Woodys Glass |
+| 679 | 333 | Adrian Benitez |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
-| 683 | 329 | Jane Crew |
-| 684 | 329 | Snappy Shatterfit |
+| 683 | 329 | Snappy Shatterfit |
+| 684 | 329 | Jane Crew |
 | 685 | 328 | Jamie Carter Bierce |
 | 686 | 328 | BabyBird |
 | 687 | 326 | Ann Knutson Anderson |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Amanda Schaffer |
-| 738 | 303 | Devin |
+| 737 | 303 | Devin |
+| 738 | 303 | Amanda Schaffer |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -751,15 +751,15 @@
 | 743 | 300 | Katie Joy McCombs |
 | 744 | 299 | Cassie Newton |
 | 745 | 298 | Frilly Fallzone |
-| 746 | 298 | Lazy Riseclear |
-| 747 | 298 | Ryan Stadel |
-| 748 | 297 | Frisky Patternline |
-| 749 | 297 | Toni Lynn |
+| 746 | 298 | Ryan Stadel |
+| 747 | 298 | Lazy Riseclear |
+| 748 | 297 | Toni Lynn |
+| 749 | 297 | Frisky Patternline |
 | 750 | 297 | Ashley Robbins |
 | 751 | 297 | Britney M. |
 | 752 | 296 | Frisky Riserbuilder |
-| 753 | 296 | Zappy Dropmatch |
-| 754 | 296 | Epic Fitzone |
+| 753 | 296 | Epic Fitzone |
+| 754 | 296 | Zappy Dropmatch |
 | 755 | 296 | Jennifer Darby |
 | 756 | 295 | Noel Tarmy |
 | 757 | 294 | Amanda Edwards |
@@ -907,13 +907,13 @@
 | 899 | 250 | Kay Stevenson |
 | 900 | 250 | Drew Berkelbach |
 | 901 | 249 | Timothy Jesuwole |
-| 902 | 249 | Joshua Mullings |
-| 903 | 249 | Kamilya Rembert |
+| 902 | 249 | Kamilya Rembert |
+| 903 | 249 | Joshua Mullings |
 | 904 | 249 | J.L. Roberts |
 | 905 | 249 | Angela Yantz |
 | 906 | 248 | Jaybee Nguyen |
-| 907 | 248 | CleverAngel |
-| 908 | 248 | Loopy Brickmatch |
+| 907 | 248 | Loopy Brickmatch |
+| 908 | 248 | CleverAngel |
 | 909 | 248 | Angelina Marie |
 | 910 | 247 | Aprill Bolton |
 | 911 | 247 | Wizz |

@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 896 | Elaine Webb Graves |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -267,22 +267,22 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Connie Mohler-Fair |
-| 263 | 234 | Nikki Pags |
+| 262 | 234 | Nikki Pags |
+| 263 | 234 | Connie Mohler-Fair |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Dirtgirl27 |
-| 271 | 225 | Cozy Snaplink |
+| 270 | 225 | Cozy Snaplink |
+| 271 | 225 | Dirtgirl27 |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
-| 274 | 221 | Alice |
-| 275 | 221 | Jaime Monhaut-Reed |
-| 276 | 220 | rosy |
-| 277 | 220 | Tosha Griffey |
+| 274 | 221 | Jaime Monhaut-Reed |
+| 275 | 221 | Alice |
+| 276 | 220 | Tosha Griffey |
+| 277 | 220 | rosy |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
 | 280 | 216 | Cheryl Hinch Tenbrook |
@@ -320,8 +320,8 @@
 | 312 | 192 | Ryan Williams |
 | 313 | 192 | Kelly Ann Child |
 | 314 | 191 | Philip Rock |
-| 315 | 189 | France Vézina |
-| 316 | 189 | Katie Leigh Blankenship |
+| 315 | 189 | Katie Leigh Blankenship |
+| 316 | 189 | France Vézina |
 | 317 | 188 | Loopy Fallmatch |
 | 318 | 187 | Tipsy Zonebuilder |
 | 319 | 186 | Sameerah Smith |
@@ -342,24 +342,24 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | Trice Thomas |
-| 342 | 168 | April Matthew Kibble |
+| 341 | 168 | April Matthew Kibble |
+| 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
-| 347 | 166 | Snarky McFace |
-| 348 | 166 | Angella Lyons |
+| 347 | 166 | Angella Lyons |
+| 348 | 166 | Snarky McFace |
 | 349 | 165 | Kali Kelz Williams |
 | 350 | 165 | Rainbow77375 |
 | 351 | 165 | Ashley Lynn Marchese |
 | 352 | 164 | Ashley Rufus Bythcez |
 | 353 | 163 | Ava Petito |
-| 354 | 163 | Christine Trester |
+| 354 | 163 | Diana Ibarra |
 | 355 | 163 | Colleen Phelps |
 | 356 | 163 | Christine Trester |
 | 357 | 162 | Beaudie Stroebel |
@@ -371,8 +371,8 @@
 | 363 | 161 | Bouncy Blockbuilder |
 | 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Salena Whitlock |
-| 367 | 159 | Joshua David Huie |
+| 366 | 159 | Joshua David Huie |
+| 367 | 159 | Salena Whitlock |
 | 368 | 158 | Willow |
 | 369 | 157 | Angel Mendez |
 | 370 | 157 | Steffi Chris Dacones |
@@ -385,8 +385,8 @@
 | 377 | 153 | Lys |
 | 378 | 153 | Tony Waters |
 | 379 | 152 | Goofy Fall |
-| 380 | 152 | Shiny Zonebuilder |
-| 381 | 152 | Eric Caccavale |
+| 380 | 152 | Eric Caccavale |
+| 381 | 152 | Shiny Zonebuilder |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
 | 384 | 149 | Alexis Taylor |
@@ -422,10 +422,10 @@
 | 414 | 139 | Betty Bóò |
 | 415 | 139 | Beppy |
 | 416 | 139 | Paula Little |
-| 417 | 138 | Skinny Baldez |
-| 418 | 138 | Bleu Sun Beams |
-| 419 | 137 | Reina Roth |
-| 420 | 137 | Giggly Brickroll |
+| 417 | 138 | Bleu Sun Beams |
+| 418 | 138 | Skinny Baldez |
+| 419 | 137 | Giggly Brickroll |
+| 420 | 137 | Reina Roth |
 | 421 | 137 | Arden White Kirsch |
 | 422 | 136 | Sabrina Mansfield |
 | 423 | 136 | Crystal Hine |
@@ -489,8 +489,8 @@
 | 481 | 119 | Geoffrey Nash |
 | 482 | 119 | Everret Maxine |
 | 483 | 119 | Brian Quigley |
-| 484 | 118 | Damian Reid |
-| 485 | 118 | Fancy Curver |
+| 484 | 118 | Fancy Curver |
+| 485 | 118 | Damian Reid |
 | 486 | 117 | James Lykes |
 | 487 | 117 | Dee Pratt |
 | 488 | 117 | Anabela Ruiz |

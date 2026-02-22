@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | shark tato |
-| 126 | 286 | Daria Rycewicz |
+| 125 | 286 | Daria Rycewicz |
+| 126 | 286 | shark tato |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -197,12 +197,12 @@
 | 189 | 195 | ZeeZee |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
-| 192 | 191 | Sam Bishop |
-| 193 | 191 | Klo |
-| 194 | 190 | Cheery Risebuilder |
-| 195 | 190 | Alan George LaRage |
-| 196 | 189 | Calvin Dennis |
-| 197 | 189 | Lori |
+| 192 | 191 | Klo |
+| 193 | 191 | Sam Bishop |
+| 194 | 190 | Alan George LaRage |
+| 195 | 190 | Cheery Risebuilder |
+| 196 | 189 | Lori |
+| 197 | 189 | Calvin Dennis |
 | 198 | 189 | Stacey Stano |
 | 199 | 188 | Andria Lynn |
 | 200 | 186 | Holly |

@@ -202,10 +202,10 @@
 | 194 | 198 | Shiny Gridmatch |
 | 195 | 195 | Shaykmia |
 | 196 | 195 | Bindi |
-| 197 | 194 | Jennifer Olewnik Soborowski |
-| 198 | 194 | Christy Jones |
-| 199 | 193 | Michael |
-| 200 | 193 | Lachelle Dillon |
+| 197 | 194 | Christy Jones |
+| 198 | 194 | Jennifer Olewnik Soborowski |
+| 199 | 193 | Lachelle Dillon |
+| 200 | 193 | Michael |
 | 201 | 191 | Diane Byrd |
 | 202 | 191 | Shanae Grant |
 | 203 | 190 | Sweetts |
