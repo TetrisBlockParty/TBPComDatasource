@@ -125,8 +125,8 @@
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Chastity Mitchell |
-| 121 | 208 | Twisty Cascadezone |
+| 120 | 208 | Twisty Cascadezone |
+| 121 | 208 | Chastity Mitchell |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Dana Scott |
@@ -159,8 +159,8 @@
 | 151 | 174 | Dihcheese444 |
 | 152 | 172 | Jessica Bohlken |
 | 153 | 171 | Diana Houts |
-| 154 | 164 | ThaEviLJeNiuZ |
-| 155 | 164 | 030Synner |
+| 154 | 164 | 030Synner |
+| 155 | 164 | ThaEviLJeNiuZ |
 | 156 | 160 | ZeeZee |
 | 157 | 156 | Holly |
 | 158 | 155 | AyeKay |
@@ -170,9 +170,9 @@
 | 162 | 153 | Chair |
 | 163 | 152 | Mary Ann Pabukis |
 | 164 | 151 | Bethany Ison |
-| 165 | 149 | Megan Cutshaw |
-| 166 | 149 | Shainne Brewer |
-| 167 | 148 | Mr. Party |
+| 165 | 149 | Shainne Brewer |
+| 166 | 149 | Megan Cutshaw |
+| 167 | 148 | Brittany Marsh |
 | 168 | 148 | Janita Parrish |
 | 169 | 148 | Mr. Party |
 | 170 | 147 | Jay28 |

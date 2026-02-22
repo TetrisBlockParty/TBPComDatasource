@@ -356,8 +356,8 @@
 | 348 | 425 | Julay |
 | 349 | 425 | Skyler Morgan |
 | 350 | 424 | Regina Young |
-| 351 | 423 | Sam |
-| 352 | 423 | Shaun Church |
+| 351 | 423 | Shaun Church |
+| 352 | 423 | Sam |
 | 353 | 422 | Mamachelle Eisweirth |
 | 354 | 421 | Vanessa Moreno |
 | 355 | 416 | Lina Sanders |
@@ -366,9 +366,9 @@
 | 358 | 414 | John |
 | 359 | 414 | Emily Lyric Converse |
 | 360 | 413 | Brandy Andre |
-| 361 | 411 | Kristen O'Neal |
-| 362 | 411 | Ricky Fortune |
-| 363 | 411 | Sam Joe |
+| 361 | 411 | Ricky Fortune |
+| 362 | 411 | Sam Joe |
+| 363 | 411 | Kristen O'Neal |
 | 364 | 406 | Erin StFrancis |
 | 365 | 406 | Tj Ball |
 | 366 | 406 | Julie Kresal |
@@ -389,8 +389,8 @@
 | 381 | 392 | Victoria Moore-Smith |
 | 382 | 392 | Mighty Shatterfit |
 | 383 | 392 | Michele Morgan |
-| 384 | 391 | Qiana Sanders |
-| 385 | 391 | Chilly Bridgepiece |
+| 384 | 391 | Chilly Bridgepiece |
+| 385 | 391 | Qiana Sanders |
 | 386 | 390 | Caitlin Schmid |
 | 387 | 389 | Alexis Richardson |
 | 388 | 387 | Johnny Yeates |

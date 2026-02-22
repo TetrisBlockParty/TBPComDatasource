@@ -146,8 +146,8 @@
 | 138 | 192 | Jessica Sheehan |
 | 139 | 192 | Shaykmia |
 | 140 | 191 | Diane Byrd |
-| 141 | 190 | Sweetts |
-| 142 | 190 | Thorne Shumate |
+| 141 | 190 | Thorne Shumate |
+| 142 | 190 | Sweetts |
 | 143 | 188 | Sam Williams |
 | 144 | 187 | Snippy Wipebuilder |
 | 145 | 186 | Jennifer Olewnik Soborowski |
@@ -178,8 +178,8 @@
 | 170 | 162 | Cece Ibarra |
 | 171 | 161 | SavageBooty98 |
 | 172 | 161 | Jessie Lynn |
-| 173 | 159 | Bindi |
-| 174 | 159 | David Miller |
+| 173 | 159 | David Miller |
+| 174 | 159 | Bindi |
 | 175 | 158 | Sarah Marie |
 | 176 | 158 | Arianna O'Brien |
 | 177 | 157 | Angela Fairbank |
@@ -191,8 +191,8 @@
 | 183 | 150 | Adele Rahman |
 | 184 | 148 | Bouncy Grid |
 | 185 | 148 | Shauntina Burke |
-| 186 | 147 | DaRascal |
-| 187 | 147 | Davery Spencer Adair |
+| 186 | 147 | Davery Spencer Adair |
+| 187 | 147 | DaRascal |
 | 188 | 145 | Agustin Duarte Orozco |
 | 189 | 144 | Miguel Teixeira |
 | 190 | 144 | Gary Gobin |
@@ -234,9 +234,9 @@
 | 226 | 118 | Jessi Sauer |
 | 227 | 118 | Jacob Shaddock |
 | 228 | 117 | Chantelle Ceno |
-| 229 | 116 | MomMom |
-| 230 | 116 | Jessica Russell |
-| 231 | 116 | Fresno Beotoni |
+| 229 | 116 | Jessica Russell |
+| 230 | 116 | Fresno Beotoni |
+| 231 | 116 | MomMom |
 | 232 | 115 | Zany Tiler |
 | 233 | 115 | Mrs.Patrica |
 | 234 | 115 | Chuck Gannon |

@@ -88,8 +88,8 @@
 | 80 | 510 | Dave Herzog |
 | 81 | 506 | Sashay Tapae Simpson |
 | 82 | 504 | Jay Horn |
-| 83 | 503 | Nate Burnside |
-| 84 | 503 | Susan Valentino |
+| 83 | 503 | Susan Valentino |
+| 84 | 503 | Nate Burnside |
 | 85 | 502 | Justin Ritter |
 | 86 | 495 | Morgan Martinez |
 | 87 | 493 | Mandy Smith Oldham |
@@ -191,8 +191,8 @@
 | 183 | 226 | Grego Daniel |
 | 184 | 224 | Nicole Myers |
 | 185 | 223 | Jeana Gilbert |
-| 186 | 219 | Rebecca Bailey |
-| 187 | 219 | Shunta Jacobs |
+| 186 | 219 | Shunta Jacobs |
+| 187 | 219 | Rebecca Bailey |
 | 188 | 218 | LaNette Morgan |
 | 189 | 217 | Jess Bissett |
 | 190 | 215 | Araceli Parra |
@@ -329,7 +329,7 @@
 | 321 | 131 | Danielle Balcom |
 | 322 | 130 | Karen Picaboo |
 | 323 | 130 | TotoCherue |
-| 324 | 129 | luluraine |
+| 324 | 129 | Donna |
 | 325 | 129 | Juliana Dottore |
 | 326 | 129 | luluraine |
 | 327 | 128 | David Kozen |
