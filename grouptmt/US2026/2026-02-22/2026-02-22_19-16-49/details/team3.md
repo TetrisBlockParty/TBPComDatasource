@@ -232,8 +232,8 @@
 | 224 | 346 | Tamara Deherrera |
 | 225 | 344 | Roary Danner |
 | 226 | 343 | Ashley Raines |
-| 227 | 341 | Samantha Lynn |
-| 228 | 341 | Noyb Adam |
+| 227 | 341 | Noyb Adam |
+| 228 | 341 | Samantha Lynn |
 | 229 | 341 | Ashley Tookes |
 | 230 | 340 | Ammmmmmy |
 | 231 | 340 | Rich LeBlanc |
@@ -262,8 +262,8 @@
 | 254 | 299 | Angie Harper |
 | 255 | 298 | MsBee |
 | 256 | 297 | Jojo M |
-| 257 | 296 | Katrina Turner |
-| 258 | 296 | Hoppy Buildout |
+| 257 | 296 | Hoppy Buildout |
+| 258 | 296 | Katrina Turner |
 | 259 | 291 | Carrie Huskey |
 | 260 | 289 | Danielle Weikel |
 | 261 | 289 | DidIdothat |
@@ -273,8 +273,8 @@
 | 265 | 285 | Terry Jo Jones |
 | 266 | 283 | Cheeky Snapper |
 | 267 | 279 | Connie Mohler-Fair |
-| 268 | 278 | Sabrina Hardrick |
-| 269 | 278 | Rufus Lincoln |
+| 268 | 278 | Rufus Lincoln |
+| 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
 | 272 | 276 | _melisa223_ |
@@ -319,13 +319,13 @@
 | 311 | 240 | Eric Caccavale |
 | 312 | 240 | Desiree Gold |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kiki |
-| 320 | 231 | Kevin Russell |
+| 319 | 231 | Kevin Russell |
+| 320 | 231 | Kiki |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |

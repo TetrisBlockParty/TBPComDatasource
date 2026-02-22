@@ -86,16 +86,16 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | Ryan Lunnin |
-| 82 | 483 | MomMom |
+| 81 | 483 | MomMom |
+| 82 | 483 | Ryan Lunnin |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -143,8 +143,8 @@
 | 135 | 340 | Tanya Carpenter-Reynolds |
 | 136 | 336 | Elaine Elaine |
 | 137 | 334 | Jaimie Lynn |
-| 138 | 333 | Gracie |
-| 139 | 333 | GATOR |
+| 138 | 333 | GATOR |
+| 139 | 333 | Gracie |
 | 140 | 332 | Kristen Gideon |
 | 141 | 332 | Lehrin Maria |
 | 142 | 330 | Ash Galvan |

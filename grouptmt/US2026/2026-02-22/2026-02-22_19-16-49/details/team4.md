@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 660 | Michelle Marie |
 | 68 | 659 | Jonathan Kimbrough |
 | 69 | 654 | Chilly Line |
@@ -147,8 +147,8 @@
 | 139 | 328 | Leslie Nicole |
 | 140 | 328 | Kris Bartlett |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 316 | Meagan Nicole |
@@ -159,8 +159,8 @@
 | 151 | 300 | Jason Hart |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -239,13 +239,13 @@
 | 231 | 212 | Mike Solo |
 | 232 | 211 | Jenna McGeorge |
 | 233 | 210 | Adam Stephanie Parker |
-| 234 | 209 | Ak Jones |
-| 235 | 209 | Chris Hartig |
-| 236 | 208 | Stacey Stano |
-| 237 | 208 | Oscar Alberto Perez |
+| 234 | 209 | Chris Hartig |
+| 235 | 209 | Ak Jones |
+| 236 | 208 | Oscar Alberto Perez |
+| 237 | 208 | Stacey Stano |
 | 238 | 205 | James Hurley Jr. |
-| 239 | 205 | Christina Black |
-| 240 | 205 | Keith Kelley |
+| 239 | 205 | Keith Kelley |
+| 240 | 205 | Christina Black |
 | 241 | 204 | Matt Gooder |
 | 242 | 203 | Katherine Crane |
 | 243 | 202 | Patron Anderson |
@@ -518,8 +518,8 @@
 | 510 | 99 | Caitlyn Brown |
 | 511 | 98 | Carla Harris |
 | 512 | 98 | Brenda Bird |
-| 513 | 97 | Serena Butter |
-| 514 | 97 | Tyler Bechtel |
+| 513 | 97 | Tyler Bechtel |
+| 514 | 97 | Serena Butter |
 | 515 | 97 | Flavoredsausage |
 | 516 | 96 | Hoppy Clearer |
 | 517 | 96 | Destiney Carter |
