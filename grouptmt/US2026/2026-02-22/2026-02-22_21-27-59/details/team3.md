@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -151,8 +151,8 @@
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
 | 145 | 512 | Silly Twist |
-| 146 | 506 | Stephanie Blkpep Davidson |
-| 147 | 506 | Sashay Tapae Simpson |
+| 146 | 506 | Sashay Tapae Simpson |
+| 147 | 506 | Stephanie Blkpep Davidson |
 | 148 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 149 | 501 | Patti Skiles |
 | 150 | 492 | Daira Largen |
@@ -248,8 +248,8 @@
 | 240 | 340 | Ammmmmmy |
 | 241 | 338 | Gumbo |
 | 242 | 332 | Bmo |
-| 243 | 330 | victory |
-| 244 | 330 | Peppy Shifter |
+| 243 | 330 | Peppy Shifter |
+| 244 | 330 | victory |
 | 245 | 329 | Brittany |
 | 246 | 326 | Dee Franklin |
 | 247 | 324 | Sissy Lowery Davis |
@@ -331,12 +331,12 @@
 | 323 | 250 | Tosha Griffey |
 | 324 | 247 | Jessica |
 | 325 | 246 | Erika Thornton |
-| 326 | 245 | Latoya Mayne |
-| 327 | 245 | Lizabeth Fox |
+| 326 | 245 | Lizabeth Fox |
+| 327 | 245 | Latoya Mayne |
 | 328 | 244 | Quackers |
 | 329 | 244 | LaNette Morgan |
-| 330 | 243 | Josh Borquez |
-| 331 | 243 | Michael Kimbro |
+| 330 | 243 | Michael Kimbro |
+| 331 | 243 | Josh Borquez |
 | 332 | 242 | Randy Clevenger |
 | 333 | 240 | Tegan Chapman |
 | 334 | 240 | Eric Caccavale |

@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -151,11 +151,11 @@
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
-| 146 | 332 | Desi Desporte |
-| 147 | 332 | HastyGrabber |
-| 148 | 328 | Kris Bartlett |
-| 149 | 328 | Leslie Nicole |
-| 150 | 328 | Brandon Crabbs |
+| 146 | 332 | HastyGrabber |
+| 147 | 332 | Desi Desporte |
+| 148 | 328 | Leslie Nicole |
+| 149 | 328 | Brandon Crabbs |
+| 150 | 328 | Kris Bartlett |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
 | 153 | 321 | Klo |
@@ -166,9 +166,9 @@
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
-| 161 | 307 | Bio Nelly |
-| 162 | 307 | Girl |
-| 163 | 307 | TRCuse |
+| 161 | 307 | Girl |
+| 162 | 307 | TRCuse |
+| 163 | 307 | Bio Nelly |
 | 164 | 303 | shark tato |
 | 165 | 301 | Damn Libra |
 | 166 | 301 | Crystal Nicolette Moore |
@@ -237,8 +237,8 @@
 | 229 | 230 | Jade Rian |
 | 230 | 230 | blockstar |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Jenna McGeorge |
-| 233 | 225 | Perky Patternblock |
+| 232 | 225 | Perky Patternblock |
+| 233 | 225 | Jenna McGeorge |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |

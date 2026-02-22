@@ -91,8 +91,8 @@
 | 83 | 489 | Deanna L Hermanson |
 | 84 | 486 | Tater |
 | 85 | 485 | Cartier |
-| 86 | 483 | Ryan Lunnin |
-| 87 | 483 | MomMom |
+| 86 | 483 | MomMom |
+| 87 | 483 | Ryan Lunnin |
 | 88 | 472 | April Carroll |
 | 89 | 471 | Jennifer ManWarren |
 | 90 | 466 | Hasbro Bros |
