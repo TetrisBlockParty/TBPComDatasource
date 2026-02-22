@@ -183,8 +183,8 @@
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -192,8 +192,8 @@
 | 184 | 209 | Rafael Valentin |
 | 185 | 207 | Chirpy Basepiece |
 | 186 | 205 | Kathy Brookins |
-| 187 | 204 | Jen Caldwell |
-| 188 | 204 | Carlos Ramirez |
+| 187 | 204 | Carlos Ramirez |
+| 188 | 204 | Jen Caldwell |
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | TRCuse |
 | 191 | 202 | Patron Anderson |
@@ -211,10 +211,10 @@
 | 203 | 195 | 中山成巳 |
 | 204 | 195 | ZeeZee |
 | 205 | 194 | Zany Twisterfit |
-| 206 | 193 | Nikki Rae Gordon |
-| 207 | 193 | Rio Rocha |
-| 208 | 192 | Dizzy Matchzone |
-| 209 | 192 | Shauna Havard |
+| 206 | 193 | Rio Rocha |
+| 207 | 193 | Nikki Rae Gordon |
+| 208 | 192 | Shauna Havard |
+| 209 | 192 | Dizzy Matchzone |
 | 210 | 191 | Sam Bishop |
 | 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
@@ -250,8 +250,8 @@
 | 242 | 164 | 030Synner |
 | 243 | 163 | Kristina Black |
 | 244 | 162 | John Brunetti |
-| 245 | 160 | Brittany Marsh |
-| 246 | 160 | Ellen Durfee |
+| 245 | 160 | Ellen Durfee |
+| 246 | 160 | Brittany Marsh |
 | 247 | 159 | DonMega |
 | 248 | 159 | Marcus Todd |
 | 249 | 158 | Chair |
@@ -274,9 +274,9 @@
 | 266 | 150 | Brandon Link |
 | 267 | 150 | Jared Gutwein |
 | 268 | 149 | Shainne Brewer |
-| 269 | 148 | Ruby Khalisadar |
-| 270 | 148 | Cranky Rollpiece |
-| 271 | 148 | Nubian1 |
+| 269 | 148 | Cranky Rollpiece |
+| 270 | 148 | Nubian1 |
+| 271 | 148 | Ruby Khalisadar |
 | 272 | 148 | Janita Parrish |
 | 273 | 147 | B Renee Desjardin |
 | 274 | 147 | Jay28 |
@@ -304,7 +304,7 @@
 | 296 | 140 | Guy Incognito |
 | 297 | 139 | ChasingZen |
 | 298 | 139 | O block |
-| 299 | 139 | ChasingZen |
+| 299 | 139 | Lori Goudy |
 | 300 | 139 | Jose Dejesus |
 | 301 | 138 | Sarah Hoffman |
 | 302 | 138 | Nick Gray |
@@ -409,7 +409,7 @@
 | 401 | 106 | Verna Neal |
 | 402 | 105 | meowmew |
 | 403 | 105 | GBR |
-| 404 | 105 | Michelle Parker |
+| 404 | 105 | Linda Alexander Downing |
 | 405 | 105 | Zesty Linkgrid |
 | 406 | 105 | Michelle Parker |
 | 407 | 104 | Jessica Johnston |
@@ -575,7 +575,7 @@
 | 567 | 70 | Niome Encinias |
 | 568 | 70 | Cranky Pivoty |
 | 569 | 70 | Brittany Price |
-| 570 | 70 | Cranky Pivoty |
+| 570 | 70 | Amanda Christine |
 | 571 | 69 | Yvonne MAguilar |
 | 572 | 69 | Tina Connick |
 | 573 | 69 | Tammy Lewis |

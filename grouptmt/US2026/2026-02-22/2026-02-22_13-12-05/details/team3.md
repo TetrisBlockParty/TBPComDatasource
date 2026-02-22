@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 480 | Stephanie Blkpep Davidson |
 | 127 | 480 | Christine Filson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 473 | mzcatzy |
 | 132 | 471 | Mendoza Lee Christy |
@@ -174,8 +174,8 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Nicole Flippo |
-| 170 | 378 | Chris Bell |
+| 169 | 378 | Chris Bell |
+| 170 | 378 | Nicole Flippo |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
@@ -198,8 +198,8 @@
 | 190 | 347 | Jone |
 | 191 | 343 | Ashley Raines |
 | 192 | 343 | Tamara Deherrera |
-| 193 | 341 | Samantha Lynn |
-| 194 | 341 | Noyb Adam |
+| 193 | 341 | Noyb Adam |
+| 194 | 341 | Samantha Lynn |
 | 195 | 339 | Rochelle Hazelett |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Hoppy Buildout |
-| 223 | 289 | Duane Bright |
+| 222 | 289 | Duane Bright |
+| 223 | 289 | Hoppy Buildout |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -349,8 +349,8 @@
 | 341 | 183 | Cesar Barraza |
 | 342 | 183 | Salena Whitlock |
 | 343 | 182 | gremicx |
-| 344 | 181 | Michael Johnson |
-| 345 | 181 | Denita Mungro |
+| 344 | 181 | Denita Mungro |
+| 345 | 181 | Michael Johnson |
 | 346 | 180 | Beth Ingham |
 | 347 | 179 | Rachel Napper |
 | 348 | 179 | DanceLuvLaugh |
@@ -665,8 +665,8 @@
 | 657 | 96 | Mainhia Thao |
 | 658 | 96 | D3NO |
 | 659 | 96 | JezzyBelle |
-| 660 | 95 | BingoStarr |
-| 661 | 95 | Chilly Pop |
+| 660 | 95 | Chilly Pop |
+| 661 | 95 | BingoStarr |
 | 662 | 95 | Jazzy Zoner |
 | 663 | 95 | JustLessie |
 | 664 | 95 | Sassy Tiler |
