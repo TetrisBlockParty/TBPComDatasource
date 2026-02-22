@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -126,8 +126,8 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Tyler Terrific |
-| 122 | 353 | Livvy |
+| 121 | 353 | Livvy |
+| 122 | 353 | Tyler Terrific |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
@@ -139,8 +139,8 @@
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 328 | Kris Bartlett |
 | 133 | 328 | Leslie Nicole |
-| 134 | 323 | Daria Rycewicz |
-| 135 | 323 | Lucas J Sutton |
+| 134 | 323 | Lucas J Sutton |
+| 135 | 323 | Daria Rycewicz |
 | 136 | 319 | Guy Incognito |
 | 137 | 318 | Lauren Scott |
 | 138 | 314 | Andy Cabral |
@@ -237,8 +237,8 @@
 | 229 | 198 | Keith Kelley |
 | 230 | 197 | Silly SeaWeed |
 | 231 | 197 | Gilles Lanctot |
-| 232 | 195 | 中山成巳 |
-| 233 | 195 | Malakai Darien Fox |
+| 232 | 195 | Malakai Darien Fox |
+| 233 | 195 | 中山成巳 |
 | 234 | 194 | Zany Twisterfit |
 | 235 | 193 | Rio Rocha |
 | 236 | 192 | Shauna Havard |
@@ -252,8 +252,8 @@
 | 244 | 184 | Lauren Lamb |
 | 245 | 184 | Ak Jones |
 | 246 | 183 | JPW |
-| 247 | 181 | Jackie Marie |
-| 248 | 181 | Carter Jones |
+| 247 | 181 | Carter Jones |
+| 248 | 181 | Jackie Marie |
 | 249 | 180 | Orchislactea |
 | 250 | 179 | Christina Black |
 | 251 | 179 | TinyLegoRose |
@@ -261,8 +261,8 @@
 | 253 | 179 | AyeKay |
 | 254 | 176 | Trista Leah |
 | 255 | 175 | Lorena Guerrero-Barron |
-| 256 | 171 | June Hoffman |
-| 257 | 171 | Autumn Kumzi |
+| 256 | 171 | Autumn Kumzi |
+| 257 | 171 | June Hoffman |
 | 258 | 170 | Elie Pean |
 | 259 | 168 | 23 |
 | 260 | 167 | Cozy Balancer |
@@ -332,8 +332,8 @@
 | 324 | 141 | Montiette Mcglown |
 | 325 | 141 | Kathy Allen |
 | 326 | 140 | Rico |
-| 327 | 139 | O block |
-| 328 | 139 | Lori Goudy |
+| 327 | 139 | Lori Goudy |
+| 328 | 139 | O block |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Moonsterix |
 | 331 | 138 | Jasmine S Caldwell |
@@ -344,8 +344,8 @@
 | 336 | 136 | Michelle Morris |
 | 337 | 135 | Vanessa Smart |
 | 338 | 135 | Joshua Guess |
-| 339 | 134 | Marvetta Williams |
-| 340 | 134 | Duck |
+| 339 | 134 | Duck |
+| 340 | 134 | Marvetta Williams |
 | 341 | 133 | Jesus Garcia |
 | 342 | 132 | Jumpy Zonepiece |
 | 343 | 132 | Melissa Priest Sellers |
@@ -358,7 +358,7 @@
 | 350 | 131 | Smiley Tiltbuilder |
 | 351 | 131 | Peppy Drop |
 | 352 | 130 | Shukee Lo |
-| 353 | 130 | Zach Kerbs |
+| 353 | 130 | Linda Alexander Downing |
 | 354 | 130 | icequeenx |
 | 355 | 130 | Zach Kerbs |
 | 356 | 129 | Chris Alexinas |
@@ -404,8 +404,8 @@
 | 396 | 117 | BigSammy420 |
 | 397 | 117 | Grann8 |
 | 398 | 116 | Kate |
-| 399 | 116 | Zesty Linkgrid |
-| 400 | 116 | Smiley Shifter |
+| 399 | 116 | Smiley Shifter |
+| 400 | 116 | Zesty Linkgrid |
 | 401 | 116 | Shiny Pivoty |
 | 402 | 116 | Funky Risepiece |
 | 403 | 115 | Susan Williams |

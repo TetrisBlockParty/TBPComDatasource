@@ -130,8 +130,8 @@
 | 122 | 526 | Cynthia Castros-Hampton |
 | 123 | 525 | Justin Ritter |
 | 124 | 521 | Michael Nowogorski |
-| 125 | 521 | Michelle Becker |
-| 126 | 521 | Daryn Elliott |
+| 125 | 521 | Daryn Elliott |
+| 126 | 521 | Michelle Becker |
 | 127 | 518 | opf |
 | 128 | 506 | Sashay Tapae Simpson |
 | 129 | 504 | Jennifer Lynn Fahrenholtz-Summers |
