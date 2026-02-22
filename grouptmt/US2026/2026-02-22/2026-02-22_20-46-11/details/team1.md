@@ -200,8 +200,8 @@
 | 192 | 265 | Kandae |
 | 193 | 265 | Nutty Spinblock |
 | 194 | 265 | Jerry Danowski |
-| 195 | 264 | Jenny Gingrich Fuentes |
-| 196 | 264 | Serina Marie |
+| 195 | 264 | Serina Marie |
+| 196 | 264 | Jenny Gingrich Fuentes |
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
@@ -269,8 +269,8 @@
 | 261 | 204 | Mel Hogan |
 | 262 | 203 | Andrew Boone |
 | 263 | 202 | Amanda Holibaugh |
-| 264 | 201 | Beau Galvan |
-| 265 | 201 | Colleen Wise |
+| 264 | 201 | Colleen Wise |
+| 265 | 201 | Beau Galvan |
 | 266 | 200 | Breanna Luna |
 | 267 | 200 | Evan Richmond |
 | 268 | 199 | Alenoush Karimian |
@@ -283,9 +283,9 @@
 | 275 | 196 | Perky Shiftsnap |
 | 276 | 196 | Marci Sanders |
 | 277 | 195 | Jennifer Olewnik Soborowski |
-| 278 | 194 | Glitzy Buildsnap |
-| 279 | 194 | Poppy Riserpiece |
-| 280 | 194 | Tiger Lily |
+| 278 | 194 | Poppy Riserpiece |
+| 279 | 194 | Tiger Lily |
+| 280 | 194 | Glitzy Buildsnap |
 | 281 | 194 | Silly Align |
 | 282 | 193 | Phu ckalldems |
 | 283 | 193 | Lachelle Dillon |

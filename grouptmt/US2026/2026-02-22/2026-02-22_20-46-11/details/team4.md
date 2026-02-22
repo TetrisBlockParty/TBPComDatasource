@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -122,8 +122,8 @@
 | 114 | 435 | shar |
 | 115 | 435 | Leslie Thomas |
 | 116 | 431 | Zippy Gridlock |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -139,8 +139,8 @@
 | 131 | 369 | Nope Young |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -298,8 +298,8 @@
 | 290 | 171 | Nikki Wilson |
 | 291 | 170 | PeaceOs |
 | 292 | 170 | Elie Pean |
-| 293 | 169 | Daring Pivot |
-| 294 | 169 | Jessica Atkinson |
+| 293 | 169 | Jessica Atkinson |
+| 294 | 169 | Daring Pivot |
 | 295 | 169 | Ellen Durfee |
 | 296 | 168 | Zippy Tilt |
 | 297 | 168 | Kathy Allen |

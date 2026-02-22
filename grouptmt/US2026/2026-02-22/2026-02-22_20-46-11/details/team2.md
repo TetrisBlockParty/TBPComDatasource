@@ -303,10 +303,10 @@
 | 295 | 821 | Diallo Sparkman |
 | 296 | 820 | Chirpy Staggerpiece |
 | 297 | 817 | Nett |
-| 298 | 816 | James Simms III |
-| 299 | 816 | Jessica Wayne Cornwall |
-| 300 | 810 | Andrea Maher |
-| 301 | 810 | Caitlin Schmid |
+| 298 | 816 | Jessica Wayne Cornwall |
+| 299 | 816 | James Simms III |
+| 300 | 810 | Caitlin Schmid |
+| 301 | 810 | Andrea Maher |
 | 302 | 808 | Desire Rice |
 | 303 | 807 | Khalil Lowe |
 | 304 | 800 | Danielle Johnson-Chandler |
@@ -472,8 +472,8 @@
 | 464 | 563 | Sarah Massey |
 | 465 | 562 | AISlop |
 | 466 | 559 | Blacc Blac |
-| 467 | 558 | Cheery Matchzone |
-| 468 | 558 | Frisky Clearpiece |
+| 467 | 558 | Frisky Clearpiece |
+| 468 | 558 | Cheery Matchzone |
 | 469 | 558 | Libby Hicks |
 | 470 | 556 | Slip |
 | 471 | 554 | Rachael Senard |
@@ -769,9 +769,9 @@
 | 761 | 363 | Veronica Stevenson |
 | 762 | 363 | Janitta Alvarez |
 | 763 | 363 | Stephanie Fortune |
-| 764 | 362 | Janai Vrabel |
-| 765 | 362 | Christine Egidio Morocco |
-| 766 | 362 | Snappy Matchbuilder |
+| 764 | 362 | Christine Egidio Morocco |
+| 765 | 362 | Snappy Matchbuilder |
+| 766 | 362 | Janai Vrabel |
 | 767 | 361 | Tosa Puvapiromquan |
 | 768 | 361 | Donald Nowland |
 | 769 | 361 | Tasia Stinson |
