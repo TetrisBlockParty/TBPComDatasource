@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -122,8 +122,8 @@
 | 114 | 450 | shar |
 | 115 | 448 | Kristin Manee |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -237,8 +237,8 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Perky Patternblock |
-| 233 | 225 | Jenna McGeorge |
+| 232 | 225 | Jenna McGeorge |
+| 233 | 225 | Perky Patternblock |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | Rheanda Weaskus |
 | 236 | 221 | PurpleMoonMa |
@@ -254,8 +254,8 @@
 | 246 | 215 | John Brunetti |
 | 247 | 215 | Ziggy |
 | 248 | 214 | Stacey Stano |
-| 249 | 213 | Angela Geist Jusinski |
-| 250 | 213 | Rio Rocha |
+| 249 | 213 | Rio Rocha |
+| 250 | 213 | Angela Geist Jusinski |
 | 251 | 213 | Sarah Neathery |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
@@ -278,8 +278,8 @@
 | 270 | 194 | Zany Twisterfit |
 | 271 | 193 | Shainne Brewer |
 | 272 | 193 | Stephme310 |
-| 273 | 192 | Andrew Dang |
-| 274 | 192 | Stella |
+| 273 | 192 | Stella |
+| 274 | 192 | Andrew Dang |
 | 275 | 191 | Earnest Thompson |
 | 276 | 189 | 030Synner |
 | 277 | 187 | Cynthia Boudreau |
@@ -416,8 +416,8 @@
 | 408 | 136 | Jen Hallin |
 | 409 | 135 | Joshua Guess |
 | 410 | 134 | Kristin MacDonald |
-| 411 | 134 | Jobadia Steelerton |
-| 412 | 134 | Happy Combo |
+| 411 | 134 | Happy Combo |
+| 412 | 134 | Jobadia Steelerton |
 | 413 | 133 | Jesus Garcia |
 | 414 | 132 | Melissa Priest Sellers |
 | 415 | 132 | Degenerate |
@@ -431,8 +431,8 @@
 | 423 | 131 | Smiley Tiltbuilder |
 | 424 | 131 | Ryry |
 | 425 | 131 | Marcela Johnson |
-| 426 | 130 | icequeenx |
-| 427 | 130 | Shukee Lo |
+| 426 | 130 | Shukee Lo |
+| 427 | 130 | icequeenx |
 | 428 | 130 | Riverdale |
 | 429 | 129 | Shiny Pivoty |
 | 430 | 129 | Sherri |

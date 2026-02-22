@@ -147,8 +147,8 @@
 | 139 | 1452 | Poppy Snapper |
 | 140 | 1450 | Cody Smith-Candelaria |
 | 141 | 1418 | L3sli3 |
-| 142 | 1411 | Zappy Cascade |
-| 143 | 1411 | niecy |
+| 142 | 1411 | niecy |
+| 143 | 1411 | Zappy Cascade |
 | 144 | 1401 | Brandy Andre |
 | 145 | 1397 | Bussyiano Page |
 | 146 | 1395 | Jose Mendoza |
@@ -267,8 +267,8 @@
 | 259 | 912 | Dedra Steward |
 | 260 | 910 | Shuany Arias |
 | 261 | 907 | Gene Mills |
-| 262 | 905 | Osun Anuket Esu |
-| 263 | 905 | Kristin Gower |
+| 262 | 905 | Kristin Gower |
+| 263 | 905 | Osun Anuket Esu |
 | 264 | 904 | Ashlen Dorrell |
 | 265 | 899 | John Bednarik |
 | 266 | 897 | Shelley Thornburgh Wright |
@@ -511,10 +511,10 @@
 | 503 | 531 | Briana Alexander |
 | 504 | 529 | Victoria Regina Girolami |
 | 505 | 528 | Sarah Berger |
-| 506 | 528 | Arlene Joy Belicina |
-| 507 | 528 | Anita Rose Green |
-| 508 | 527 | Ryan Gunther |
-| 509 | 527 | Heather M Purcell |
+| 506 | 528 | Anita Rose Green |
+| 507 | 528 | Arlene Joy Belicina |
+| 508 | 527 | Heather M Purcell |
+| 509 | 527 | Ryan Gunther |
 | 510 | 525 | Anthony Huebel |
 | 511 | 523 | Matt Johnson |
 | 512 | 522 | Leah |
