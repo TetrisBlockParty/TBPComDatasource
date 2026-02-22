@@ -83,8 +83,8 @@
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
 | 77 | 582 | Natasha Jones |
-| 78 | 582 | Jay Horn |
-| 79 | 582 | Speedy Bridger |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Jay Horn |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -184,8 +184,8 @@
 | 176 | 289 | DidIdothat |
 | 177 | 289 | Hoppy Buildout |
 | 178 | 288 | Giddy Twistbuilder |
-| 179 | 286 | Cynthia Herrmann Egland |
-| 180 | 286 | Jacqueline Rodriguez |
+| 179 | 286 | Jacqueline Rodriguez |
+| 180 | 286 | Cynthia Herrmann Egland |
 | 181 | 285 | Rebecca Bailey |
 | 182 | 284 | Edwin Calvillo Jr. |
 | 183 | 284 | Duane Bright |
@@ -198,8 +198,8 @@
 | 190 | 272 | opf |
 | 191 | 271 | Ashley Muncey |
 | 192 | 269 | Daira Largen |
-| 193 | 267 | Terry Jo Jones |
-| 194 | 267 | Denise Nardoni |
+| 193 | 267 | Denise Nardoni |
+| 194 | 267 | Terry Jo Jones |
 | 195 | 265 | Araceli Parra |
 | 196 | 264 | Dee Franklin |
 | 197 | 263 | Angeline Joseph |
@@ -209,8 +209,8 @@
 | 201 | 260 | Grams |
 | 202 | 258 | Tamara Deherrera |
 | 203 | 257 | Ashley Jones |
-| 204 | 256 | Tiffany Davie |
-| 205 | 256 | Brenda Lee Vander Molen |
+| 204 | 256 | Brenda Lee Vander Molen |
+| 205 | 256 | Tiffany Davie |
 | 206 | 256 | KayB |
 | 207 | 256 | Marcie Bressler |
 | 208 | 253 | Nora Rogers |
@@ -237,8 +237,8 @@
 | 229 | 218 | Michael Lucado |
 | 230 | 216 | Tasha Wesson-Torrence |
 | 231 | 215 | IamJust Neyamijah Washington Sr. |
-| 232 | 214 | Rebel124 |
-| 233 | 214 | Amy Fuller Heaton |
+| 232 | 214 | Amy Fuller Heaton |
+| 233 | 214 | Rebel124 |
 | 234 | 213 | Stephanie Burtin |
 | 235 | 212 | Twisty Brick LT |
 | 236 | 212 | Desiree Gold |

@@ -71,14 +71,14 @@
 | 63 | 430 | Nancy Green |
 | 64 | 428 | Stephanie Zahn |
 | 65 | 413 | Steve Schneider |
-| 66 | 412 | Jazzy Framezone |
-| 67 | 412 | Anaid Sanchez |
+| 66 | 412 | Anaid Sanchez |
+| 67 | 412 | Jazzy Framezone |
 | 68 | 399 | Adam Byrd |
 | 69 | 398 | Kellie |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Candy Jones |
-| 72 | 388 | Jennifer ManWarren |
-| 73 | 388 | Yvonne Marie |
+| 72 | 388 | Yvonne Marie |
+| 73 | 388 | Jennifer ManWarren |
 | 74 | 382 | Lori Sanders- Davis |
 | 75 | 380 | Cynthia Bradley |
 | 76 | 379 | Austin James |
@@ -178,8 +178,8 @@
 | 170 | 186 | Margo Wagner |
 | 171 | 180 | Erez Yosef |
 | 172 | 180 | BigWeenie69 |
-| 173 | 179 | femmefatale |
-| 174 | 179 | Danielle Little-Daugherty |
+| 173 | 179 | Danielle Little-Daugherty |
+| 174 | 179 | femmefatale |
 | 175 | 178 | Chad Atchley |
 | 176 | 177 | Irual Hctrab |
 | 177 | 177 | Jacqueline Unique |

@@ -344,14 +344,14 @@
 | 336 | 502 | Sparkles |
 | 337 | 500 | Sarah Ridenour |
 | 338 | 499 | Sarah Massey |
-| 339 | 497 | Kimberly Randesi |
-| 340 | 497 | Jeremy Parodi |
+| 339 | 497 | Jeremy Parodi |
+| 340 | 497 | Kimberly Randesi |
 | 341 | 496 | Nashu |
 | 342 | 495 | William Hunt |
 | 343 | 495 | Felicia Lynn |
 | 344 | 494 | Doowop40 |
-| 345 | 492 | Breezy Clusterer |
-| 346 | 492 | Armonie Smith |
+| 345 | 492 | Armonie Smith |
+| 346 | 492 | Breezy Clusterer |
 | 347 | 491 | Michael Buckner |
 | 348 | 489 | Osun Anuket Esu |
 | 349 | 488 | Venita Ray |

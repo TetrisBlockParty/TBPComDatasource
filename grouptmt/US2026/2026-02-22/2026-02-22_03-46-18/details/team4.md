@@ -73,8 +73,8 @@
 | 65 | 486 | Landon Keith Graffeo |
 | 66 | 483 | Carmethia Clemons Haslerig |
 | 67 | 466 | Dawn Alexander |
-| 68 | 447 | TeeJ |
-| 69 | 447 | Samantha Peterson |
+| 68 | 447 | Samantha Peterson |
+| 69 | 447 | TeeJ |
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
@@ -139,16 +139,16 @@
 | 131 | 224 | Matt Summer |
 | 132 | 222 | Joeliecea Cobb |
 | 133 | 221 | PurpleMoonMa |
-| 134 | 220 | Mary Ann Pabukis |
-| 135 | 220 | Matt Dell'Olio |
+| 134 | 220 | Matt Dell'Olio |
+| 135 | 220 | Mary Ann Pabukis |
 | 136 | 218 | Antony Dwayne Beasley |
 | 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
 | 139 | 215 | Jessica Bohlken |
 | 140 | 215 | Ren Mc |
 | 141 | 213 | Jason Allen |
-| 142 | 212 | Calvin Cannon |
-| 143 | 212 | Mike Solo |
+| 142 | 212 | Mike Solo |
+| 143 | 212 | Calvin Cannon |
 | 144 | 211 | Twisty Cascadezone |
 | 145 | 211 | Jenna McGeorge |
 | 146 | 210 | Swanky Fitline |
@@ -182,8 +182,8 @@
 | 174 | 174 | Dihcheese444 |
 | 175 | 173 | ThaEviLJeNiuZ |
 | 176 | 171 | Diana Houts |
-| 177 | 166 | Cozy Balancer |
-| 178 | 166 | SammieJo Guy |
+| 177 | 166 | SammieJo Guy |
+| 178 | 166 | Cozy Balancer |
 | 179 | 164 | 030Synner |
 | 180 | 162 | Joanna |
 | 181 | 160 | ZeeZee |
@@ -191,14 +191,14 @@
 | 183 | 160 | TinyLegoRose |
 | 184 | 160 | Carlos Ramirez |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Chair |
-| 187 | 158 | Avy Absol |
+| 186 | 158 | Avy Absol |
+| 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
 | 189 | 154 | scott |
 | 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
-| 192 | 152 | John Brunetti |
-| 193 | 152 | Austin Owens |
+| 192 | 152 | Austin Owens |
+| 193 | 152 | John Brunetti |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
 | 196 | 149 | Shainne Brewer |
