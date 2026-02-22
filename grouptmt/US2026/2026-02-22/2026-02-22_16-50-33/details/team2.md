@@ -176,8 +176,8 @@
 | 168 | 1154 | Stacy Stickle |
 | 169 | 1147 | Kiok |
 | 170 | 1131 | Stacey Clement |
-| 171 | 1124 | Jessie McDougald |
-| 172 | 1124 | Brandy Andre |
+| 171 | 1124 | Brandy Andre |
+| 172 | 1124 | Jessie McDougald |
 | 173 | 1121 | Megan Ferguson Leone |
 | 174 | 1117 | Ricardo Burton |
 | 175 | 1113 | Anna Edwards |
@@ -327,10 +327,10 @@
 | 319 | 705 | Jánine Riggs |
 | 320 | 704 | Shelley Thornburgh Wright |
 | 321 | 703 | Gold Rose |
-| 322 | 700 | Rosemadder |
-| 323 | 700 | Beverly Owens |
-| 324 | 700 | Vincent Petrella |
-| 325 | 700 | Hong Tang |
+| 322 | 700 | Vincent Petrella |
+| 323 | 700 | Hong Tang |
+| 324 | 700 | Beverly Owens |
+| 325 | 700 | Rosemadder |
 | 326 | 699 | tejas25 |
 | 327 | 697 | Ashle Scranton |
 | 328 | 697 | Dreamy Blast |
@@ -342,8 +342,8 @@
 | 334 | 688 | Leslie Ann Carter |
 | 335 | 688 | ShinyRose |
 | 336 | 686 | Ashley Guernsey-Martin |
-| 337 | 685 | Binyah-Binyah |
-| 338 | 685 | Brenda Pierpoint |
+| 337 | 685 | Brenda Pierpoint |
+| 338 | 685 | Binyah-Binyah |
 | 339 | 682 | Poldo Ilano |
 | 340 | 680 | blume |
 | 341 | 679 | Kassandra Hunt |
@@ -565,10 +565,10 @@
 | 557 | 447 | Besma Ao |
 | 558 | 446 | NanDa Cruzan VI |
 | 559 | 445 | Sharon Mills |
-| 560 | 445 | Mar Q Thomas |
-| 561 | 445 | Elisheva Mizrachi |
-| 562 | 444 | Fi Ne |
-| 563 | 444 | Ryan Meilleur |
+| 560 | 445 | Elisheva Mizrachi |
+| 561 | 445 | Mar Q Thomas |
+| 562 | 444 | Ryan Meilleur |
+| 563 | 444 | Fi Ne |
 | 564 | 444 | Chab |
 | 565 | 442 | Jennifer Scott |
 | 566 | 442 | Christy Krissie |
@@ -648,8 +648,8 @@
 | 640 | 391 | Chilly Bridgepiece |
 | 641 | 390 | Moist_B-hole |
 | 642 | 390 | Frisky Riserbuilder |
-| 643 | 389 | Swanky Columnbuilder |
-| 644 | 389 | Alexis Richardson |
+| 643 | 389 | Alexis Richardson |
+| 644 | 389 | Swanky Columnbuilder |
 | 645 | 389 | Julie Hamilton |
 | 646 | 389 | Lathasa Newkirk |
 | 647 | 388 | ruth |
@@ -1478,7 +1478,7 @@
 | 1470 | 180 | Kelli Hackett |
 | 1471 | 180 | Johnny Pineapples |
 | 1472 | 180 | Lively Brickfit |
-| 1473 | 180 | Johnny Pineapples |
+| 1473 | 180 | Peter Palestino |
 | 1474 | 180 | Bethany Blanchette |
 | 1475 | 179 | William Hughes |
 | 1476 | 179 | Ruth VanPetten |
