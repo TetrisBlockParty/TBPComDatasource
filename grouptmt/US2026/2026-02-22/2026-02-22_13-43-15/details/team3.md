@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -176,8 +176,8 @@
 | 168 | 384 | Dapper Snap |
 | 169 | 382 | Scott Carleton |
 | 170 | 380 | Tasha Schriewer |
-| 171 | 378 | Chris Bell |
-| 172 | 378 | Nicole Flippo |
+| 171 | 378 | Nicole Flippo |
+| 172 | 378 | Chris Bell |
 | 173 | 376 | Loopy Clusterer |
 | 174 | 375 | Shunta Jacobs |
 | 175 | 374 | Sherry Ogden |
@@ -356,10 +356,10 @@
 | 348 | 181 | Denita Mungro |
 | 349 | 181 | Michael Johnson |
 | 350 | 180 | Beth Ingham |
-| 351 | 179 | DanceLuvLaugh |
-| 352 | 179 | Rachel Napper |
-| 353 | 178 | ROODBOY |
-| 354 | 178 | Jess Dearborn |
+| 351 | 179 | Rachel Napper |
+| 352 | 179 | DanceLuvLaugh |
+| 353 | 178 | Jess Dearborn |
+| 354 | 178 | ROODBOY |
 | 355 | 178 | Jennifer Alvey |
 | 356 | 177 | Kristin Delibac Corrigan |
 | 357 | 176 | Skinny Baldez |

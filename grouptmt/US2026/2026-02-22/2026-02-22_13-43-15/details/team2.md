@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Tesha Oldaker |
-| 257 | 777 | Jessicah Myers |
+| 256 | 777 | Jessicah Myers |
+| 257 | 777 | Tesha Oldaker |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -330,8 +330,8 @@
 | 322 | 664 | Sleepypanda67 |
 | 323 | 663 | Mandi Douglas Hilt |
 | 324 | 663 | Ashle Scranton |
-| 325 | 661 | BeQuo |
-| 326 | 661 | goofinoff |
+| 325 | 661 | goofinoff |
+| 326 | 661 | BeQuo |
 | 327 | 659 | Roseanna Peloso |
 | 328 | 659 | Draizen Montrell Thomas |
 | 329 | 659 | Tony Lea |
@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -502,8 +502,8 @@
 | 494 | 463 | Sue Leard |
 | 495 | 463 | Mia Muse Best |
 | 496 | 462 | Jarboe |
-| 497 | 462 | Daphne Jordan |
-| 498 | 462 | Amanda Ferrell |
+| 497 | 462 | Amanda Ferrell |
+| 498 | 462 | Daphne Jordan |
 | 499 | 460 | Tara Lynn Janes |
 | 500 | 459 | Melissa Kay Gibson |
 | 501 | 458 | Casper The Chonk |
@@ -517,8 +517,8 @@
 | 509 | 448 | Lee Harper |
 | 510 | 448 | Liberty |
 | 511 | 447 | Boozi |
-| 512 | 447 | Besma Ao |
-| 513 | 447 | Jessica S Flecha |
+| 512 | 447 | Jessica S Flecha |
+| 513 | 447 | Besma Ao |
 | 514 | 446 | Snippy Rumbler |
 | 515 | 445 | Elisheva Mizrachi |
 | 516 | 445 | Mar Q Thomas |
@@ -543,8 +543,8 @@
 | 535 | 429 | Tabs Reichert |
 | 536 | 428 | Arkei Luster |
 | 537 | 428 | Shyenn Gadsby |
-| 538 | 427 | Destiny Cozier |
-| 539 | 427 | Sabrina Burton |
+| 538 | 427 | Sabrina Burton |
+| 539 | 427 | Destiny Cozier |
 | 540 | 427 | Alexandra Weir |
 | 541 | 426 | Ashley Dow |
 | 542 | 425 | Skyler Morgan |
@@ -572,8 +572,8 @@
 | 564 | 411 | Mighty Spinbuilder |
 | 565 | 408 | Jennifer Scott |
 | 566 | 408 | Brandon Jones |
-| 567 | 408 | Stefanie Zonzini-Gagliardi |
-| 568 | 408 | Abimbola Bimbo |
+| 567 | 408 | Abimbola Bimbo |
+| 568 | 408 | Stefanie Zonzini-Gagliardi |
 | 569 | 407 | Goofy Catcher |
 | 570 | 407 | Cleo Sims |
 | 571 | 407 | Tipsy Filler |
@@ -663,8 +663,8 @@
 | 655 | 361 | Michelle Shrum |
 | 656 | 360 | Jroc |
 | 657 | 359 | Cheyenne Donovan |
-| 658 | 358 | Alyssaaelena |
-| 659 | 358 | Sydney Busse |
+| 658 | 358 | Sydney Busse |
+| 659 | 358 | Alyssaaelena |
 | 660 | 357 | Shannon Byrd |
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |
@@ -708,8 +708,8 @@
 | 700 | 335 | Alexandrea |
 | 701 | 335 | Maria Louise |
 | 702 | 334 | Melissa James |
-| 703 | 333 | Woodys Glass |
-| 704 | 333 | Adrian Benitez |
+| 703 | 333 | Adrian Benitez |
+| 704 | 333 | Woodys Glass |
 | 705 | 330 | Toni Roberson |
 | 706 | 330 | Jennifer Monroe Kelly |
 | 707 | 329 | Chummy Blockbuilder |

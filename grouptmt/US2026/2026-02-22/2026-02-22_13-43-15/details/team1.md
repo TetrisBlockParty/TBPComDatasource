@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -151,14 +151,14 @@
 | 143 | 282 | Tyler Werts |
 | 144 | 282 | Snippy Wipebuilder |
 | 145 | 276 | Dandy Basegrid |
-| 146 | 270 | Mandyy Rae |
-| 147 | 270 | Ash Galvan |
+| 146 | 270 | Ash Galvan |
+| 147 | 270 | Mandyy Rae |
 | 148 | 268 | GATOR |
 | 149 | 265 | Nutty Spinblock |
 | 150 | 265 | SkipTheSadSauce |
-| 151 | 264 | Brian Richardsson |
-| 152 | 264 | Jenny Gingrich Fuentes |
-| 153 | 264 | Lexuriuos Lifestlye |
+| 151 | 264 | Lexuriuos Lifestlye |
+| 152 | 264 | Brian Richardsson |
+| 153 | 264 | Jenny Gingrich Fuentes |
 | 154 | 263 | Angela Renea Lester |
 | 155 | 262 | Jessi Sauer |
 | 156 | 260 | Ty Brown |
@@ -247,8 +247,8 @@
 | 239 | 180 | Beau Galvan |
 | 240 | 180 | Jessie Lynn |
 | 241 | 179 | Erin Rosberg |
-| 242 | 179 | Danielle Little-Daugherty |
-| 243 | 179 | femmefatale |
+| 242 | 179 | femmefatale |
+| 243 | 179 | Danielle Little-Daugherty |
 | 244 | 178 | Chad Atchley |
 | 245 | 177 | Amber Stoker |
 | 246 | 177 | Sarah Marie |

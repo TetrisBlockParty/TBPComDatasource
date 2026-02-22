@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 521 | Michelle Marie |
 | 79 | 517 | H.R. Block |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Monica Daley |
-| 108 | 391 | Ramel Rhodes |
+| 107 | 391 | Ramel Rhodes |
+| 108 | 391 | Monica Daley |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -167,13 +167,13 @@
 | 159 | 250 | Matt Dell'Olio |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | Twisty Cascadezone |
-| 163 | 244 | J-Rizzle |
+| 162 | 244 | J-Rizzle |
+| 163 | 244 | Twisty Cascadezone |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Cursed Hag |
-| 168 | 230 | Autum Leigh |
+| 167 | 230 | Autum Leigh |
+| 168 | 230 | Cursed Hag |
 | 169 | 229 | Porkobello |
 | 170 | 227 | Andria Lynn |
 | 171 | 227 | Alyssa Papen |
@@ -226,16 +226,16 @@
 | 218 | 191 | Klo |
 | 219 | 190 | Cheery Risebuilder |
 | 220 | 189 | Dihcheese444 |
-| 221 | 189 | Stacey Stano |
-| 222 | 189 | Calvin Dennis |
+| 221 | 189 | Calvin Dennis |
+| 222 | 189 | Stacey Stano |
 | 223 | 186 | Holly |
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Ak Jones |
 | 226 | 184 | Lauren Lamb |
 | 227 | 181 | Jackie Marie |
 | 228 | 181 | Carter Jones |
-| 229 | 180 | Orchislactea |
-| 230 | 180 | Googenheim |
+| 229 | 180 | Googenheim |
+| 230 | 180 | Orchislactea |
 | 231 | 179 | Christina Black |
 | 232 | 179 | TinyLegoRose |
 | 233 | 175 | Lorena Guerrero-Barron |
@@ -250,8 +250,8 @@
 | 242 | 166 | SammieJo Guy |
 | 243 | 166 | Jenny Wells-Oakley |
 | 244 | 166 | Juls |
-| 245 | 165 | Zappy Buildgrid |
-| 246 | 165 | James Hurley Jr. |
+| 245 | 165 | James Hurley Jr. |
+| 246 | 165 | Zappy Buildgrid |
 | 247 | 164 | 030Synner |
 | 248 | 163 | Kristina Black |
 | 249 | 162 | John Brunetti |
@@ -324,8 +324,8 @@
 | 316 | 135 | Joshua Guess |
 | 317 | 135 | Vanessa Smart |
 | 318 | 134 | Kim Klutz Olson |
-| 319 | 134 | Marvetta Williams |
-| 320 | 134 | Duck |
+| 319 | 134 | Duck |
+| 320 | 134 | Marvetta Williams |
 | 321 | 132 | Jason Bosco |
 | 322 | 132 | Degenerate |
 | 323 | 132 | Melissa Priest Sellers |
