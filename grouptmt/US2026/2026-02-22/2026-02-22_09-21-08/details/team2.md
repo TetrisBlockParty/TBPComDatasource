@@ -732,8 +732,8 @@
 | 724 | 308 | Claire |
 | 725 | 308 | Danielle Ayoub |
 | 726 | 308 | Sarah block |
-| 727 | 307 | stacey |
-| 728 | 307 | Peachy Blockbuilder |
+| 727 | 307 | Peachy Blockbuilder |
+| 728 | 307 | stacey |
 | 729 | 306 | Kiorah Blaze |
 | 730 | 305 | Zany Clusterbuilder |
 | 731 | 305 | MamaBear11 |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Amanda Schaffer |
-| 738 | 303 | Devin |
+| 737 | 303 | Devin |
+| 738 | 303 | Amanda Schaffer |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -921,8 +921,8 @@
 | 913 | 246 | Laura McConnell |
 | 914 | 245 | Mellissa Evans |
 | 915 | 245 | Abby Klaski |
-| 916 | 244 | Jumpy Gridclear |
-| 917 | 244 | David Rehse |
+| 916 | 244 | David Rehse |
+| 917 | 244 | Jumpy Gridclear |
 | 918 | 244 | Brooklynn Huckaby |
 | 919 | 244 | Erika Deer Kauffman |
 | 920 | 244 | David M. Platz |

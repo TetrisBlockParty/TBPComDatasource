@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 896 | Elaine Webb Graves |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -252,8 +252,8 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | KayB |
-| 248 | 256 | Tiffany Davie |
+| 247 | 256 | Tiffany Davie |
+| 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -417,8 +417,8 @@
 | 409 | 141 | Weerae |
 | 410 | 140 | Jumpy Curvebuilder |
 | 411 | 140 | Alison Baus |
-| 412 | 140 | Linda Draper |
-| 413 | 140 | Boldy Corner |
+| 412 | 140 | Boldy Corner |
+| 413 | 140 | Linda Draper |
 | 414 | 139 | Beppy |
 | 415 | 139 | Betty Bóò |
 | 416 | 139 | Paula Little |

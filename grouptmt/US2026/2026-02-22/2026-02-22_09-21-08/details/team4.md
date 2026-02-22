@@ -225,8 +225,8 @@
 | 217 | 165 | James Hurley Jr. |
 | 218 | 164 | 030Synner |
 | 219 | 163 | Kristina Black |
-| 220 | 162 | John Brunetti |
-| 221 | 162 | Joanna |
+| 220 | 162 | Joanna |
+| 221 | 162 | John Brunetti |
 | 222 | 161 | Jenny Wells-Oakley |
 | 223 | 160 | Laura Hosford |
 | 224 | 160 | Brittany Marsh |
@@ -423,9 +423,9 @@
 | 415 | 91 | Kametsunoyaiba |
 | 416 | 91 | Lee Silpe |
 | 417 | 90 | Carol Ricks Raymond |
-| 418 | 90 | Adawna Swires |
+| 418 | 90 | Thomas Hettenhaus |
 | 419 | 90 | Abigail Murphy |
-| 420 | 90 | Thomas Hettenhaus |
+| 420 | 90 | Adawna Swires |
 | 421 | 89 | Jonathan Mahfood |
 | 422 | 89 | Cristy Duerksen |
 | 423 | 89 | Lynn Marie |
@@ -628,7 +628,7 @@
 | 620 | 60 | Nikki Wilson |
 | 621 | 59 | Mitchell Everhart |
 | 622 | 59 | Becky Shimko |
-| 623 | 59 | Ziggy |
+| 623 | 59 | Albert Walker III |
 | 624 | 59 | Stacy |
 | 625 | 59 | Mbeth Moore |
 | 626 | 59 | Kujuanna Hammon |
