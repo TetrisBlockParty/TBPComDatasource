@@ -124,8 +124,8 @@
 | 116 | 341 | Nick R Montague |
 | 117 | 341 | David Miller |
 | 118 | 334 | Jaimie Lynn |
-| 119 | 333 | Gracie |
-| 120 | 333 | Brandi Huntington |
+| 119 | 333 | Brandi Huntington |
+| 120 | 333 | Gracie |
 | 121 | 332 | Kristen Gideon |
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Rachael |
-| 146 | 284 | Emily Adelaide Wheatley |
+| 145 | 284 | Emily Adelaide Wheatley |
+| 146 | 284 | Rachael |
 | 147 | 283 | Franswa |
 | 148 | 282 | Timothy Dew |
 | 149 | 282 | Cool Shiftsnap |
@@ -298,7 +298,7 @@
 | 290 | 165 | Silly Align |
 | 291 | 165 | Nadine Velardo |
 | 292 | 164 | Poppy Riserpiece |
-| 293 | 163 | Blaire Bruckoff |
+| 293 | 163 | Davery Spencer Adair |
 | 294 | 163 | Tyler Whitley |
 | 295 | 163 | .running. |
 | 296 | 163 | Blaire Bruckoff |
@@ -316,9 +316,9 @@
 | 308 | 155 | Strig |
 | 309 | 155 | Barry Mac'Ockner |
 | 310 | 154 | Larry Tilton |
-| 311 | 153 | Dino |
-| 312 | 153 | Tami Luce Martin |
-| 313 | 153 | John Kim |
+| 311 | 153 | Tami Luce Martin |
+| 312 | 153 | John Kim |
+| 313 | 153 | Dino |
 | 314 | 152 | Speedy Snapfall |
 | 315 | 151 | Gilbert Ortiz Jr. |
 | 316 | 151 | Evan Richmond |

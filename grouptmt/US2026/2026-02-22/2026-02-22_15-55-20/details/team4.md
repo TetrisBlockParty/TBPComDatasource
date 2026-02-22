@@ -250,8 +250,8 @@
 | 242 | 184 | Ak Jones |
 | 243 | 184 | Lauren Lamb |
 | 244 | 183 | JPW |
-| 245 | 181 | Jackie Marie |
-| 246 | 181 | Carter Jones |
+| 245 | 181 | Carter Jones |
+| 246 | 181 | Jackie Marie |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | Christina Black |
 | 249 | 179 | Stephme310 |
@@ -264,7 +264,7 @@
 | 256 | 168 | 23 |
 | 257 | 167 | Cozy Balancer |
 | 258 | 166 | Jenny Wells-Oakley |
-| 259 | 166 | Angelito |
+| 259 | 166 | Megan Cutshaw |
 | 260 | 166 | SammieJo Guy |
 | 261 | 166 | Angelito |
 | 262 | 165 | Brittany Marsh |
@@ -308,7 +308,7 @@
 | 300 | 147 | Jay28 |
 | 301 | 147 | Adam Stephanie Parker |
 | 302 | 145 | Daring Pivot |
-| 303 | 145 | Sandra Safford |
+| 303 | 145 | Glitzy Crasher |
 | 304 | 145 | Nick Gray |
 | 305 | 145 | Sandra Safford |
 | 306 | 144 | Sticherella |

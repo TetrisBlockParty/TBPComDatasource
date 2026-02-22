@@ -291,8 +291,8 @@
 | 283 | 241 | France Vézina |
 | 284 | 240 | Jimmie Clemons |
 | 285 | 239 | Michael Johnson |
-| 286 | 236 | Lys |
-| 287 | 236 | Jess Bissett |
+| 286 | 236 | Jess Bissett |
+| 287 | 236 | Lys |
 | 288 | 236 | Angela Scott |
 | 289 | 236 | Sunny Rotater |
 | 290 | 233 | Josh Borquez |

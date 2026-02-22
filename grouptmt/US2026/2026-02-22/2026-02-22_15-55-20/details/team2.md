@@ -294,8 +294,8 @@
 | 286 | 768 | Michele Morgan |
 | 287 | 767 | Ashley Lopez |
 | 288 | 764 | Pacynthia Williams |
-| 289 | 763 | Beth |
-| 290 | 763 | Heather Causey |
+| 289 | 763 | Heather Causey |
+| 290 | 763 | Beth |
 | 291 | 761 | Hyper Cluster |
 | 292 | 760 | Danielle Simmons |
 | 293 | 759 | Jojo Momma |
@@ -318,8 +318,8 @@
 | 310 | 715 | Stephanie Lumanlan |
 | 311 | 713 | Chelle |
 | 312 | 711 | Melissa Holsinger |
-| 313 | 704 | Shelley Thornburgh Wright |
-| 314 | 704 | Jánine Riggs |
+| 313 | 704 | Jánine Riggs |
+| 314 | 704 | Shelley Thornburgh Wright |
 | 315 | 703 | Gold Rose |
 | 316 | 700 | Beverly Owens |
 | 317 | 700 | Rosemadder |
@@ -353,23 +353,23 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | goofinoff |
-| 349 | 661 | BeQuo |
+| 348 | 661 | BeQuo |
+| 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | Shiny Rollzone |
 | 353 | 650 | tejas25 |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
-| 356 | 640 | Kara Gillen |
-| 357 | 640 | BYM4L |
+| 356 | 640 | BYM4L |
+| 357 | 640 | Kara Gillen |
 | 358 | 639 | Crystie Hicks |
 | 359 | 639 | Rebecca Miller |
 | 360 | 631 | Dylan Thomason |
 | 361 | 631 | Marie Walker |
 | 362 | 628 | Brownie Sheena |
-| 363 | 627 | Allan Wayne Lamia |
-| 364 | 627 | Victoria Moore-Smith |
+| 363 | 627 | Victoria Moore-Smith |
+| 364 | 627 | Allan Wayne Lamia |
 | 365 | 621 | AgileDragon |
 | 366 | 620 | Amber Brion |
 | 367 | 620 | Brandon Armstrong |
@@ -385,8 +385,8 @@
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Biggest thing |
-| 381 | 602 | Christine Bollig |
+| 380 | 602 | Christine Bollig |
+| 381 | 602 | Biggest thing |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -733,20 +733,20 @@
 | 725 | 337 | Sassy Pattern |
 | 726 | 337 | Tum |
 | 727 | 336 | Crystal Cornelius |
-| 728 | 336 | stacey |
-| 729 | 336 | bru |
-| 730 | 335 | Maria Louise |
+| 728 | 336 | bru |
+| 729 | 336 | stacey |
+| 730 | 335 | Alexandrea |
 | 731 | 335 | Brooke Leigh Strube |
-| 732 | 335 | Alexandrea |
+| 732 | 335 | Maria Louise |
 | 733 | 334 | Melissa James |
-| 734 | 333 | Woodys Glass |
+| 734 | 333 | trabuco |
 | 735 | 333 | Adrian Benitez |
-| 736 | 333 | trabuco |
-| 737 | 332 | Sabrena Yeisley |
-| 738 | 332 | Tosa Puvapiromquan |
+| 736 | 333 | Woodys Glass |
+| 737 | 332 | Tosa Puvapiromquan |
+| 738 | 332 | Sabrena Yeisley |
 | 739 | 331 | Johanna Massaro |
-| 740 | 330 | Toni Roberson |
-| 741 | 330 | Jennifer Monroe Kelly |
+| 740 | 330 | Jennifer Monroe Kelly |
+| 741 | 330 | Toni Roberson |
 | 742 | 329 | Snappy Shatterfit |
 | 743 | 329 | Nikki Nikki |
 | 744 | 328 | Jamie Carter Bierce |
@@ -795,8 +795,8 @@
 | 787 | 313 | Natasha Edmonds |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | SwifftFox |
-| 791 | 311 | Audra Williams |
+| 790 | 311 | Audra Williams |
+| 791 | 311 | SwifftFox |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Wendy Ducheney |
 | 794 | 310 | Cheeky Brickmatch |
@@ -805,8 +805,8 @@
 | 797 | 309 | Daniell Martinez |
 | 798 | 309 | Byung Bae Park |
 | 799 | 308 | Hyper Riseclear |
-| 800 | 308 | Claire |
-| 801 | 308 | Kristina Marie Hanna |
+| 800 | 308 | Kristina Marie Hanna |
+| 801 | 308 | Claire |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
 | 804 | 305 | Epic Fitzone |
