@@ -124,8 +124,8 @@
 | 116 | 428 | Elissa S-k |
 | 117 | 416 | Mary Pellegrino |
 | 118 | 411 | FuzzyNavel |
-| 119 | 410 | Stephanie Simpson |
-| 120 | 410 | Stephanie Blkpep Davidson |
+| 119 | 410 | Stephanie Blkpep Davidson |
+| 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
 | 123 | 403 | Christine Filson |
@@ -184,8 +184,8 @@
 | 176 | 289 | Hoppy Buildout |
 | 177 | 289 | DidIdothat |
 | 178 | 288 | Giddy Twistbuilder |
-| 179 | 286 | Cynthia Herrmann Egland |
-| 180 | 286 | Jacqueline Rodriguez |
+| 179 | 286 | Jacqueline Rodriguez |
+| 180 | 286 | Cynthia Herrmann Egland |
 | 181 | 285 | Rebecca Bailey |
 | 182 | 284 | Edwin Calvillo Jr. |
 | 183 | 283 | Joye Sims Binion |
@@ -237,11 +237,11 @@
 | 229 | 218 | Michael Lucado |
 | 230 | 216 | Tasha Wesson-Torrence |
 | 231 | 215 | IamJust Neyamijah Washington Sr. |
-| 232 | 214 | Amy Fuller Heaton |
-| 233 | 214 | Rebel124 |
+| 232 | 214 | Rebel124 |
+| 233 | 214 | Amy Fuller Heaton |
 | 234 | 213 | Stephanie Burtin |
-| 235 | 212 | Twisty Brick LT |
-| 236 | 212 | Desiree Gold |
+| 235 | 212 | Desiree Gold |
+| 236 | 212 | Twisty Brick LT |
 | 237 | 212 | Sunny Rotater |
 | 238 | 211 | Katrina Turner |
 | 239 | 211 | Trisha Balmer |
@@ -370,7 +370,7 @@
 | 362 | 133 | Jen Lewis |
 | 363 | 133 | Crystal Hine |
 | 364 | 132 | Hanna Kim |
-| 365 | 131 | Danielle Weikel |
+| 365 | 131 | Cheeky Snapper |
 | 366 | 131 | Cheeky Setter |
 | 367 | 131 | Danielle Weikel |
 | 368 | 131 | Beppy |

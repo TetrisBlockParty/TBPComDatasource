@@ -139,13 +139,13 @@
 | 131 | 224 | Matt Summer |
 | 132 | 222 | Joeliecea Cobb |
 | 133 | 221 | PurpleMoonMa |
-| 134 | 220 | Mary Ann Pabukis |
-| 135 | 220 | Matt Dell'Olio |
-| 136 | 218 | Antony Dwayne Beasley |
-| 137 | 218 | Casey Grabner |
+| 134 | 220 | Matt Dell'Olio |
+| 135 | 220 | Mary Ann Pabukis |
+| 136 | 218 | Casey Grabner |
+| 137 | 218 | Antony Dwayne Beasley |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Jessica Bohlken |
-| 140 | 215 | Ren Mc |
+| 139 | 215 | Ren Mc |
+| 140 | 215 | Jessica Bohlken |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Calvin Cannon |
 | 143 | 212 | Mike Solo |
@@ -194,8 +194,8 @@
 | 186 | 158 | Chair |
 | 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
-| 189 | 154 | Laura Hosford |
-| 190 | 154 | scott |
+| 189 | 154 | scott |
+| 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | John Brunetti |
 | 193 | 152 | Austin Owens |

@@ -248,8 +248,8 @@
 | 240 | 678 | Scott Treadway |
 | 241 | 677 | Mema |
 | 242 | 676 | Pacynthia Williams |
-| 243 | 675 | Brenda Utphall |
-| 244 | 675 | Tommy Tha Boss Gunz |
+| 243 | 675 | Tommy Tha Boss Gunz |
+| 244 | 675 | Brenda Utphall |
 | 245 | 674 | Auntie B |
 | 246 | 672 | Danielle Simmons |
 | 247 | 669 | Claire Noland |

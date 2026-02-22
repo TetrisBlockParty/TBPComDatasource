@@ -129,8 +129,8 @@
 | 121 | 252 | Elaine Elaine |
 | 122 | 252 | Dena Kayy |
 | 123 | 247 | Tana |
-| 124 | 243 | Chelsea Dahlquist |
-| 125 | 243 | Trippy Redd |
+| 124 | 243 | Trippy Redd |
+| 125 | 243 | Chelsea Dahlquist |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | Mandyy Rae |
 | 128 | 232 | Jessi Sauer |
@@ -138,11 +138,11 @@
 | 130 | 230 | Billie Dawn Sparks |
 | 131 | 230 | Frothy Pattern |
 | 132 | 228 | Jenny Gingrich Fuentes |
-| 133 | 226 | Kandae |
-| 134 | 226 | ALFD |
+| 133 | 226 | ALFD |
+| 134 | 226 | Kandae |
 | 135 | 217 | ParisandCory Champagne |
-| 136 | 216 | MRdot Rooski |
-| 137 | 216 | Shauntina Burke |
+| 136 | 216 | Shauntina Burke |
+| 137 | 216 | MRdot Rooski |
 | 138 | 214 | GATOR |
 | 139 | 212 | Jaimie Lynn |
 | 140 | 212 | Lori Bales |
@@ -255,10 +255,10 @@
 | 247 | 128 | Brenda Alexander |
 | 248 | 128 | Desiree Deschaine Havee |
 | 249 | 127 | Chantelle Ceno |
-| 250 | 126 | Alenoush Karimian |
-| 251 | 126 | Tami Luce Martin |
-| 252 | 125 | Strig |
-| 253 | 125 | Melissa Bires Hussar |
+| 250 | 126 | Tami Luce Martin |
+| 251 | 126 | Alenoush Karimian |
+| 252 | 125 | Melissa Bires Hussar |
+| 253 | 125 | Strig |
 | 254 | 124 | Howdi Duty |
 | 255 | 124 | Rodney Schmerfeld |
 | 256 | 123 | Zany Tiler |
