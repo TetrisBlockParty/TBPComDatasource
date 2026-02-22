@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1289 | Roger Coulter |
 | 15 | 1194 | Clarence Patawaran |
@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -164,7 +164,7 @@
 | 156 | 267 | Damn Libra |
 | 157 | 265 | Jeff Brian Gates |
 | 158 | 265 | Angela Srubar-Norman |
-| 159 | 264 | Alyssa Papen |
+| 159 | 264 | Epic Curvetile |
 | 160 | 264 | Girl |
 | 161 | 264 | Alyssa Papen |
 | 162 | 263 | Chris Bernstein |
@@ -219,8 +219,8 @@
 | 211 | 204 | Carlos Ramirez |
 | 212 | 203 | Katherine Crane |
 | 213 | 202 | Patron Anderson |
-| 214 | 201 | Melvin Baird |
-| 215 | 201 | Zesty Twistbuilder |
+| 214 | 201 | Zesty Twistbuilder |
+| 215 | 201 | Melvin Baird |
 | 216 | 200 | Lori |
 | 217 | 200 | Laura |
 | 218 | 198 | Calvin Dennis |
@@ -243,8 +243,8 @@
 | 235 | 186 | Cristy Duerksen |
 | 236 | 186 | Holly |
 | 237 | 185 | Laura Hosford |
-| 238 | 184 | Lauren Lamb |
-| 239 | 184 | Ak Jones |
+| 238 | 184 | Ak Jones |
+| 239 | 184 | Lauren Lamb |
 | 240 | 183 | JPW |
 | 241 | 181 | Carter Jones |
 | 242 | 181 | Jackie Marie |
@@ -257,8 +257,8 @@
 | 249 | 179 | AyeKay |
 | 250 | 175 | Lorena Guerrero-Barron |
 | 251 | 172 | Ziggy |
-| 252 | 171 | Autumn Kumzi |
-| 253 | 171 | June Hoffman |
+| 252 | 171 | June Hoffman |
+| 253 | 171 | Autumn Kumzi |
 | 254 | 168 | 23 |
 | 255 | 167 | Cozy Balancer |
 | 256 | 166 | Jenny Wells-Oakley |

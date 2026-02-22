@@ -65,8 +65,8 @@
 | 57 | 909 | Jennifer |
 | 58 | 908 | Alanna Rogers |
 | 59 | 903 | Sarah Fehring |
-| 60 | 895 | Shonna Roberts |
-| 61 | 895 | Amanda L Baker |
+| 60 | 895 | Amanda L Baker |
+| 61 | 895 | Shonna Roberts |
 | 62 | 893 | Khristen AC |
 | 63 | 882 | Susan Valentino |
 | 64 | 881 | Nate Burnside |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -250,8 +250,8 @@
 | 242 | 281 | Carrie Huskey |
 | 243 | 280 | Brittany |
 | 244 | 279 | Terry Jo Jones |
-| 245 | 278 | Rufus Lincoln |
-| 246 | 278 | Sabrina Hardrick |
+| 245 | 278 | Sabrina Hardrick |
+| 246 | 278 | Rufus Lincoln |
 | 247 | 276 | _melisa223_ |
 | 248 | 276 | Crimson |
 | 249 | 275 | Cassandra Bryant |
@@ -305,8 +305,8 @@
 | 297 | 221 | Jaime Monhaut-Reed |
 | 298 | 221 | kacihall |
 | 299 | 221 | Alice |
-| 300 | 220 | Tosha Griffey |
-| 301 | 220 | Rebel124 |
+| 300 | 220 | Rebel124 |
+| 301 | 220 | Tosha Griffey |
 | 302 | 217 | Twisty Brick LT |
 | 303 | 216 | Cheryl Hinch Tenbrook |
 | 304 | 216 | Tina Smith Roy |
@@ -2423,7 +2423,7 @@
 | 2415 | 9 | Plork |
 | 2416 | 9 | Shannon Means |
 | 2417 | 8 | Denyse Carruthers |
-| 2418 | 8 | Sweet Co |
+| 2418 | 8 | Ja'mice Nelson |
 | 2419 | 8 | LuTia Juanita Jones |
 | 2420 | 8 | Sweet Co |
 | 2421 | 8 | Giggy Zonepiece |
