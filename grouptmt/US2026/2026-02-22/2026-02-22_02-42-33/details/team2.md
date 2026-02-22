@@ -135,8 +135,8 @@
 | 127 | 1051 | Shandrica Lowe |
 | 128 | 1048 | PsychKIRAtrist |
 | 129 | 1047 | Amy Sayers |
-| 130 | 1043 | Brave Dropmatch |
-| 131 | 1043 | Suki Kaur |
+| 130 | 1043 | Suki Kaur |
+| 131 | 1043 | Brave Dropmatch |
 | 132 | 1032 | Sarah Freitas |
 | 133 | 1020 | Heather Westrum |
 | 134 | 1018 | LordZophar |
@@ -279,8 +279,8 @@
 | 271 | 587 | Hyper Cluster |
 | 272 | 583 | Jessicah Myers |
 | 273 | 582 | Gary Stash |
-| 274 | 579 | Juliana Marques Do Nascimento Gordy |
-| 275 | 579 | Roy Salyer |
+| 274 | 579 | Roy Salyer |
+| 275 | 579 | Juliana Marques Do Nascimento Gordy |
 | 276 | 578 | Sally Dennis |
 | 277 | 576 | Ginger |
 | 278 | 572 | tejas25 |
@@ -296,8 +296,8 @@
 | 288 | 548 | Slip |
 | 289 | 547 | Giggy Blocker |
 | 290 | 544 | Leah Keesling |
-| 291 | 543 | Adira Brown |
-| 292 | 543 | Teresa Gillmore |
+| 291 | 543 | Teresa Gillmore |
+| 292 | 543 | Adira Brown |
 | 293 | 537 | Cherica Taylor |
 | 294 | 535 | Jessie McDougald |
 | 295 | 535 | Paul Huber |

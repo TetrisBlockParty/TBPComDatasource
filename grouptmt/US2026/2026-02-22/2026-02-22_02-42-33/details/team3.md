@@ -237,13 +237,13 @@
 | 229 | 207 | Chris Bell |
 | 230 | 207 | Jessica |
 | 231 | 205 | Sarah Moyer |
-| 232 | 204 | Aerian Preston |
+| 232 | 204 | Desiree Gold |
 | 233 | 204 | Danielle Allison |
-| 234 | 204 | Desiree Gold |
+| 234 | 204 | Aerian Preston |
 | 235 | 204 | Sunny Rotater |
 | 236 | 201 | Karon Griffin |
-| 237 | 200 | Connie Mohler-Fair |
-| 238 | 200 | glichmod |
+| 237 | 200 | glichmod |
+| 238 | 200 | Connie Mohler-Fair |
 | 239 | 200 | Sharisse Baltimore |
 | 240 | 199 | Staci George Fitzsimmons |
 | 241 | 199 | Rebel124 |
@@ -298,8 +298,8 @@
 | 290 | 161 | Bouncy Blockbuilder |
 | 291 | 161 | Michael Johnson |
 | 292 | 160 | Rachel |
-| 293 | 159 | Jone |
-| 294 | 159 | Joshua David Huie |
+| 293 | 159 | Joshua David Huie |
+| 294 | 159 | Jone |
 | 295 | 158 | Willow |
 | 296 | 157 | Sabrina Hardrick |
 | 297 | 157 | Samantha Lynn |
@@ -312,13 +312,13 @@
 | 304 | 153 | Cozy Snaplink |
 | 305 | 153 | Lys |
 | 306 | 153 | Tony Waters |
-| 307 | 152 | Goofy Fall |
-| 308 | 152 | LaTanya GeminiondaRise Johnson |
-| 309 | 152 | Shiny Zonebuilder |
+| 307 | 152 | LaTanya GeminiondaRise Johnson |
+| 308 | 152 | Shiny Zonebuilder |
+| 309 | 152 | Goofy Fall |
 | 310 | 151 | Ashley Lynn Marchese |
 | 311 | 151 | El Chapa |
-| 312 | 150 | Steffi Chris Dacones |
-| 313 | 150 | Gumbo |
+| 312 | 150 | Gumbo |
+| 313 | 150 | Steffi Chris Dacones |
 | 314 | 149 | Romeo |
 | 315 | 149 | Angel Mendez |
 | 316 | 149 | Alexis Taylor |

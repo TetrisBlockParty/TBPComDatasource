@@ -141,8 +141,8 @@
 | 133 | 216 | Shauntina Burke |
 | 134 | 216 | MRdot Rooski |
 | 135 | 214 | GATOR |
-| 136 | 212 | Lori Bales |
-| 137 | 212 | Jaimie Lynn |
+| 136 | 212 | Jaimie Lynn |
+| 137 | 212 | Lori Bales |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -266,8 +266,8 @@
 | 258 | 117 | Jerry Danowski |
 | 259 | 117 | Chantelle Ceno |
 | 260 | 116 | Fresno Beotoni |
-| 261 | 115 | Mrs.Patrica |
-| 262 | 115 | Chuck Gannon |
+| 261 | 115 | Chuck Gannon |
+| 262 | 115 | Mrs.Patrica |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
 | 265 | 112 | Nerdy Curvebuilder |
@@ -292,7 +292,7 @@
 | 284 | 108 | Dizzy Party |
 | 285 | 107 | MIKOZ |
 | 286 | 107 | Bob |
-| 287 | 107 | MIKOZ |
+| 287 | 107 | Meechie |
 | 288 | 106 | Bloknboy |
 | 289 | 105 | Kayla Marie Stevenson |
 | 290 | 105 | Ty Brown |
