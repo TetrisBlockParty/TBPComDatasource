@@ -557,8 +557,8 @@
 | 549 | 386 | Tara Lynn Janes |
 | 550 | 385 | Tansaria Couch-Butler |
 | 551 | 384 | Christina Ashley |
-| 552 | 384 | Kelly |
-| 553 | 384 | Party d |
+| 552 | 384 | Party d |
+| 553 | 384 | Kelly |
 | 554 | 383 | Belle Mari |
 | 555 | 382 | KhaosLord |
 | 556 | 382 | David Holliday |
@@ -600,16 +600,16 @@
 | 592 | 365 | Susan Arnburg |
 | 593 | 365 | Audrey Jones |
 | 594 | 364 | Shinette Dobson |
-| 595 | 363 | Michelle Sager |
-| 596 | 363 | Kia Humphery |
+| 595 | 363 | Kia Humphery |
+| 596 | 363 | Michelle Sager |
 | 597 | 362 | Tracy Wise |
 | 598 | 362 | Andrea Maher |
 | 599 | 362 | Jennifer Scott |
 | 600 | 361 | Lewis Sturgeon |
 | 601 | 360 | Jroc |
 | 602 | 359 | Cheyenne Donovan |
-| 603 | 358 | Sydney Busse |
-| 604 | 358 | Alyssaaelena |
+| 603 | 358 | Alyssaaelena |
+| 604 | 358 | Sydney Busse |
 | 605 | 358 | Veronics |
 | 606 | 357 | Shannon Byrd |
 | 607 | 357 | Tristan Szolek |
@@ -768,10 +768,10 @@
 | 760 | 280 | Reece Smith |
 | 761 | 279 | Loony Basepiece |
 | 762 | 278 | AndrewandShela Gornik |
-| 763 | 277 | Anthony Mignacca |
-| 764 | 277 | Amanda Chamberlain |
-| 765 | 276 | Ryan Lauer |
-| 766 | 276 | Josh Webster |
+| 763 | 277 | Amanda Chamberlain |
+| 764 | 277 | Anthony Mignacca |
+| 765 | 276 | Josh Webster |
+| 766 | 276 | Ryan Lauer |
 | 767 | 276 | Patrick Bartlett |
 | 768 | 276 | Lindsey Leigh |
 | 769 | 275 | Alishac Marie |

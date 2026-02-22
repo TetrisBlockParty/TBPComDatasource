@@ -63,8 +63,8 @@
 | 55 | 517 | Jen Sartain |
 | 56 | 510 | Colena Davenport |
 | 57 | 495 | Sevens4L |
-| 58 | 493 | Robert Benito |
-| 59 | 493 | Katie Daniels |
+| 58 | 493 | Katie Daniels |
+| 59 | 493 | Robert Benito |
 | 60 | 491 | Sarah Lombardo |
 | 61 | 483 | Ryan Lunnin |
 | 62 | 479 | Theo Pinnow |
@@ -114,9 +114,9 @@
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Seth Wesson |
+| 109 | 310 | phrmblk24 |
 | 110 | 310 | Jason Jones |
-| 111 | 310 | phrmblk24 |
+| 111 | 310 | Seth Wesson |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |
@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Rachael |
 | 123 | 284 | Emily Adelaide Wheatley |
@@ -136,8 +136,8 @@
 | 128 | 280 | Jennifer Hardman |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Jenny Gingrich Fuentes |
-| 132 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Lexuriuos Lifestlye |
+| 132 | 264 | Jenny Gingrich Fuentes |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 258 | Virginia Gray Floyd |
 | 135 | 257 | Amanda Jarnagin |
@@ -150,10 +150,10 @@
 | 142 | 243 | Trippy Redd |
 | 143 | 242 | ALFD |
 | 144 | 241 | John J. Cronin |
-| 145 | 239 | GATOR |
-| 146 | 239 | Jamie Jury |
-| 147 | 236 | Mandyy Rae |
-| 148 | 236 | Rahna Underwood |
+| 145 | 239 | Jamie Jury |
+| 146 | 239 | GATOR |
+| 147 | 236 | Rahna Underwood |
+| 148 | 236 | Mandyy Rae |
 | 149 | 232 | Jessi Sauer |
 | 150 | 230 | Frothy Pattern |
 | 151 | 230 | Billie Dawn Sparks |
@@ -201,8 +201,8 @@
 | 193 | 191 | Debbie Davis |
 | 194 | 190 | Sweetts |
 | 195 | 190 | Thorne Shumate |
-| 196 | 189 | Veronica Eve |
-| 197 | 189 | Jeanna Dunn |
+| 196 | 189 | Jeanna Dunn |
+| 197 | 189 | Veronica Eve |
 | 198 | 187 | Amanda Johnson Huffman |
 | 199 | 187 | Cool Towerzone |
 | 200 | 186 | Erin Hodges Plumb |

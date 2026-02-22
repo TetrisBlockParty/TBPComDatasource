@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Joey Banks |
-| 46 | 989 | Kay |
+| 45 | 989 | Kay |
+| 46 | 989 | Joey Banks |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -117,8 +117,8 @@
 | 109 | 506 | Sashay Tapae Simpson |
 | 110 | 502 | Justin Ritter |
 | 111 | 502 | Elissa S-k |
-| 112 | 500 | Domo Washington |
-| 113 | 500 | Kristie |
+| 112 | 500 | Kristie |
+| 113 | 500 | Domo Washington |
 | 114 | 497 | Mykal Burton |
 | 115 | 492 | Daira Largen |
 | 116 | 491 | Chauntee Alfrey-Cardinale |
@@ -170,8 +170,8 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Danielle Allison |
+| 165 | 370 | Danielle Allison |
+| 166 | 370 | Santeria Trece Candles |
 | 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
@@ -246,8 +246,8 @@
 | 238 | 256 | Tiffany Davie |
 | 239 | 251 | Sabrina Hardrick |
 | 240 | 250 | fraulila |
-| 241 | 249 | Raven Dudley |
-| 242 | 249 | Annie Marie |
+| 241 | 249 | Annie Marie |
+| 242 | 249 | Raven Dudley |
 | 243 | 249 | JerseyJess |
 | 244 | 246 | Peppy Shifter |
 | 245 | 246 | Eon Harris |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |

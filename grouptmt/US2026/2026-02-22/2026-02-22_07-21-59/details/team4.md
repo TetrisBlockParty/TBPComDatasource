@@ -119,8 +119,8 @@
 | 111 | 303 | Tyler Terrific |
 | 112 | 300 | Jason Hart |
 | 113 | 298 | Lucas J Sutton |
-| 114 | 296 | Justin Hannigan |
-| 115 | 296 | HastyGrabber |
+| 114 | 296 | HastyGrabber |
+| 115 | 296 | Justin Hannigan |
 | 116 | 295 | Latisha Davis |
 | 117 | 294 | Kesha Brady |
 | 118 | 290 | 🥔🥔 Spudz |
