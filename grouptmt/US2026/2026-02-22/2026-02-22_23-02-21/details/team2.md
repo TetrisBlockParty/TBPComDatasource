@@ -259,8 +259,8 @@
 | 251 | 971 | Robin Kerby |
 | 252 | 970 | Maria Escobar |
 | 253 | 958 | Brenda Messer |
-| 254 | 957 | Block Master |
-| 255 | 957 | Keri Womack |
+| 254 | 957 | Keri Womack |
+| 255 | 957 | Block Master |
 | 256 | 957 | Crystal Hoffman |
 | 257 | 955 | Kevin Walp |
 | 258 | 955 | Angela Bonquiqui Dinish |
@@ -302,8 +302,8 @@
 | 294 | 860 | Carl Bradshaw |
 | 295 | 858 | Porsche' Nicole |
 | 296 | 857 | Kara Gillen |
-| 297 | 856 | Mighty Shatterfit |
-| 298 | 856 | Jojo Momma |
+| 297 | 856 | Jojo Momma |
+| 298 | 856 | Mighty Shatterfit |
 | 299 | 853 | Meghan M |
 | 300 | 848 | Elizabeth Wilbanks |
 | 301 | 846 | Binyah-Binyah |
@@ -313,14 +313,14 @@
 | 305 | 840 | Caitlin Schmid |
 | 306 | 838 | Steve Man |
 | 307 | 833 | Moni Foxe |
-| 308 | 833 | Cody Nishimura |
-| 309 | 833 | Tim Dyer |
+| 308 | 833 | Tim Dyer |
+| 309 | 833 | Cody Nishimura |
 | 310 | 824 | Chirpy Staggerpiece |
 | 311 | 821 | Diallo Sparkman |
 | 312 | 821 | Angie Bolton Workman |
 | 313 | 818 | Lola Contreras |
-| 314 | 816 | James Simms III |
-| 315 | 816 | Jessica Wayne Cornwall |
+| 314 | 816 | Jessica Wayne Cornwall |
+| 315 | 816 | James Simms III |
 | 316 | 810 | Andrea Maher |
 | 317 | 808 | Melissa McCall |
 | 318 | 808 | Laura McCarthey |
@@ -346,8 +346,8 @@
 | 338 | 772 | Danielle Simmons |
 | 339 | 769 | Melissa Cole |
 | 340 | 768 | Joshua Self |
-| 341 | 767 | Ashley Lopez |
-| 342 | 767 | Fancy Twister |
+| 341 | 767 | Fancy Twister |
+| 342 | 767 | Ashley Lopez |
 | 343 | 765 | Kathryn Townsley |
 | 344 | 763 | Heather Causey |
 | 345 | 761 | Hyper Cluster |
@@ -450,8 +450,8 @@
 | 442 | 616 | Jackie Avila |
 | 443 | 615 | Julio A Laracuente |
 | 444 | 614 | Emilee Burke |
-| 445 | 613 | Lylymom |
-| 446 | 613 | Tonya Lee |
+| 445 | 613 | Tonya Lee |
+| 446 | 613 | Lylymom |
 | 447 | 613 | Ann Matzkanin |
 | 448 | 611 | Biggest thing |
 | 449 | 607 | Véronique Lévesque Sabourin |

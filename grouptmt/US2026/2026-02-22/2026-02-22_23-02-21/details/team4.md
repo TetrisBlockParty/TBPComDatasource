@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -272,8 +272,8 @@
 | 264 | 212 | TinyLegoRose |
 | 265 | 212 | Mike Solo |
 | 266 | 211 | Christina Black |
-| 267 | 209 | Zany Shatterer |
-| 268 | 209 | Chaz |
+| 267 | 209 | Chaz |
+| 268 | 209 | Zany Shatterer |
 | 269 | 208 | Rebecca Morris |
 | 270 | 207 | Snippy Puzzle |
 | 271 | 205 | James Hurley Jr. |

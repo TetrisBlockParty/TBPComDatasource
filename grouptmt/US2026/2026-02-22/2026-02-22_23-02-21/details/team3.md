@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | MissTaylor |
-| 91 | 838 | Sarajane Lokan |
+| 90 | 838 | Sarajane Lokan |
+| 91 | 838 | MissTaylor |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -113,8 +113,8 @@
 | 105 | 733 | mzcatzy |
 | 106 | 723 | Mandy Smith Oldham |
 | 107 | 720 | Raya |
-| 108 | 716 | Calista Jo Dickson |
-| 109 | 716 | Kristie |
+| 108 | 716 | Kristie |
+| 109 | 716 | Calista Jo Dickson |
 | 110 | 715 | Keith J Oshman Jr. |
 | 111 | 712 | Katrina Schroeder |
 | 112 | 708 | Speedy Bridger |
@@ -227,8 +227,8 @@
 | 219 | 378 | Chris Bell |
 | 220 | 377 | Darlene McMillan |
 | 221 | 374 | Marci Mize Fandrich |
-| 222 | 372 | Sarah Moyer |
-| 223 | 372 | Rich LeBlanc |
+| 222 | 372 | Rich LeBlanc |
+| 223 | 372 | Sarah Moyer |
 | 224 | 370 | RickyG |
 | 225 | 368 | Trisha Balmer |
 | 226 | 368 | Stephanie Woods |
@@ -496,7 +496,7 @@
 | 488 | 174 | Lesley Perez |
 | 489 | 173 | MizzMonick Smith |
 | 490 | 173 | Jumpy Curvebuilder |
-| 491 | 173 | MizzMonick Smith |
+| 491 | 173 | momo |
 | 492 | 173 | Hanul |
 | 493 | 172 | Miranda Taylor |
 | 494 | 172 | Jl |
@@ -600,7 +600,7 @@
 | 592 | 146 | Leticia Lynn Lowe |
 | 593 | 146 | Sara Dunn |
 | 594 | 145 | Christine Vosburgh |
-| 595 | 144 | Janay Darkstallion Robinson |
+| 595 | 144 | Amber Groover Taylor |
 | 596 | 144 | Tiffany's TwinsRus Thrifty |
 | 597 | 144 | Janay Darkstallion Robinson |
 | 598 | 143 | Emi |
