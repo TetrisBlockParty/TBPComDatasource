@@ -415,8 +415,8 @@
 | 407 | 104 | Gdiguy |
 | 408 | 104 | Jessica Johnston |
 | 409 | 104 | Blessedmama |
-| 410 | 102 | Christina O'Dell-Ishau |
-| 411 | 102 | Brave Spinbuilder |
+| 410 | 102 | Brave Spinbuilder |
+| 411 | 102 | Christina O'Dell-Ishau |
 | 412 | 102 | Bigeddie |
 | 413 | 101 | Saulc1991 |
 | 414 | 100 | Sallie Sanborn |

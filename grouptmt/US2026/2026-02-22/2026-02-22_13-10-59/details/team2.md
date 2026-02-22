@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -259,8 +259,8 @@
 | 251 | 783 | Lisa Ongtowasruk |
 | 252 | 778 | Desire Rice |
 | 253 | 778 | Mischelle Clay |
-| 254 | 777 | Jessicah Myers |
-| 255 | 777 | Tesha Oldaker |
+| 254 | 777 | Tesha Oldaker |
+| 255 | 777 | Jessicah Myers |
 | 256 | 772 | Cherica Taylor |
 | 257 | 772 | William Hunt |
 | 258 | 772 | Sam Joe |
@@ -461,8 +461,8 @@
 | 453 | 489 | Osun Anuket Esu |
 | 454 | 489 | Cassie Mercer |
 | 455 | 488 | Christina Wsn |
-| 456 | 487 | Morgan Easter |
-| 457 | 487 | MrsCandyfine As Wine Truss |
+| 456 | 487 | MrsCandyfine As Wine Truss |
+| 457 | 487 | Morgan Easter |
 | 458 | 485 | Mamachelle Eisweirth |
 | 459 | 485 | Dapper Dasher |
 | 460 | 485 | Ann Matzkanin |
@@ -812,18 +812,18 @@
 | 804 | 285 | Court |
 | 805 | 284 | Bing |
 | 806 | 284 | Candice Mack |
-| 807 | 284 | Hillary Franklin |
-| 808 | 284 | Alison Emmons |
+| 807 | 284 | Alison Emmons |
+| 808 | 284 | Hillary Franklin |
 | 809 | 282 | Nutty Slice |
 | 810 | 281 | Amy McManus |
 | 811 | 281 | Anthony |
-| 812 | 280 | Reece Smith |
-| 813 | 280 | Danielle DeLozier Plesec |
+| 812 | 280 | Danielle DeLozier Plesec |
+| 813 | 280 | Reece Smith |
 | 814 | 280 | Luke Califf |
 | 815 | 280 | Jay Levy |
 | 816 | 280 | Sandra Link-Gable |
-| 817 | 279 | Jennifer Coe |
-| 818 | 279 | Loony Basepiece |
+| 817 | 279 | Loony Basepiece |
+| 818 | 279 | Jennifer Coe |
 | 819 | 279 | Katherin Camacho |
 | 820 | 279 | Laura Wyatt |
 | 821 | 278 | AndrewandShela Gornik |
@@ -1071,8 +1071,8 @@
 | 1063 | 222 | Crystal Herndon |
 | 1064 | 222 | Wacky Edgefit |
 | 1065 | 221 | Chummy Caster |
-| 1066 | 220 | Natalie M Wells |
-| 1067 | 220 | Perk Diggler |
+| 1066 | 220 | Perk Diggler |
+| 1067 | 220 | Natalie M Wells |
 | 1068 | 220 | Amy Reynolds |
 | 1069 | 220 | HarleyJane |
 | 1070 | 220 | Marcie McLain Dodd |
@@ -1097,9 +1097,9 @@
 | 1089 | 214 | FloJo |
 | 1090 | 214 | Dane Reing |
 | 1091 | 214 | Brandon McDonald |
-| 1092 | 213 | Cynthia Knox |
+| 1092 | 213 | Hannah Leigh Pelofsky |
 | 1093 | 213 | Frank Castle |
-| 1094 | 213 | Hannah Leigh Pelofsky |
+| 1094 | 213 | Cynthia Knox |
 | 1095 | 213 | Janai Vrabel |
 | 1096 | 212 | JP Parks |
 | 1097 | 212 | Denelle Wendt-Ramalho |
@@ -1109,8 +1109,8 @@
 | 1101 | 212 | Izzy Rockford |
 | 1102 | 211 | Neko Preston |
 | 1103 | 211 | Scherrie Smith |
-| 1104 | 211 | Melissa Koria |
-| 1105 | 211 | Nerdy Blockpiece |
+| 1104 | 211 | Nerdy Blockpiece |
+| 1105 | 211 | Melissa Koria |
 | 1106 | 210 | Janet Marie Vega |
 | 1107 | 210 | Nicolee Hackney |
 | 1108 | 210 | Joshua Switzer |
@@ -1288,9 +1288,9 @@
 | 1280 | 184 | BamaGirlinTX |
 | 1281 | 184 | Mindy Folsom |
 | 1282 | 183 | Harley Williams |
-| 1283 | 183 | teo1 |
-| 1284 | 183 | Smiley Strike |
-| 1285 | 183 | Ericka Marie Smith |
+| 1283 | 183 | Ericka Marie Smith |
+| 1284 | 183 | teo1 |
+| 1285 | 183 | Smiley Strike |
 | 1286 | 182 | Dylan Meadows |
 | 1287 | 182 | Angela Kummer |
 | 1288 | 182 | Veronica Guerra |
