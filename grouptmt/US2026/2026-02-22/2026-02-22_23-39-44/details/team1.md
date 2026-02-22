@@ -146,8 +146,8 @@
 | 138 | 364 | Serina Marie |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | phrmblk24 |
-| 142 | 360 | Wisa |
+| 141 | 360 | Wisa |
+| 142 | 360 | phrmblk24 |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Debbie Kane |
-| 206 | 267 | Cody Gates |
+| 205 | 267 | Cody Gates |
+| 206 | 267 | Debbie Kane |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
@@ -256,10 +256,10 @@
 | 248 | 228 | Adele Rahman |
 | 249 | 226 | Glitzy Buildsnap |
 | 250 | 224 | Tipsy Riseclear |
-| 251 | 223 | Erez Yosef |
-| 252 | 223 | Christina Backer |
-| 253 | 222 | Debbie Davis |
-| 254 | 222 | Snappy Bridgepiece |
+| 251 | 223 | Christina Backer |
+| 252 | 223 | Erez Yosef |
+| 253 | 222 | Snappy Bridgepiece |
+| 254 | 222 | Debbie Davis |
 | 255 | 221 | Amy Hess |
 | 256 | 220 | Bouncy Grid |
 | 257 | 219 | Negan Mallory Knoxx Spence |
@@ -274,8 +274,8 @@
 | 266 | 214 | Sarah Marie |
 | 267 | 213 | John Barron |
 | 268 | 213 | Angela Fairbank |
-| 269 | 212 | Cece Ibarra |
-| 270 | 212 | Michelle Beres |
+| 269 | 212 | Michelle Beres |
+| 270 | 212 | Cece Ibarra |
 | 271 | 211 | Jeanna Dunn |
 | 272 | 209 | Breanna Luna |
 | 273 | 209 | Tiger Lily |

@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -217,8 +217,8 @@
 | 209 | 267 | Holly |
 | 210 | 267 | Kathy Brookins |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | PeaceOs |
 | 216 | 257 | Cheery Risebuilder |

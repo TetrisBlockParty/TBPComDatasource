@@ -193,7 +193,7 @@
 | 185 | 455 | Bmo |
 | 186 | 452 | Jacqueline Rodriguez |
 | 187 | 451 | Sarah Cowan Burgos |
-| 188 | 432 | Jenny Hrndz |
+| 188 | 432 | Luciana Braganca Vieira |
 | 189 | 432 | Christine Trester |
 | 190 | 432 | Jenny Hrndz |
 | 191 | 431 | Wendy Dearden |
@@ -472,8 +472,8 @@
 | 464 | 189 | Katie Leigh Blankenship |
 | 465 | 187 | Sabrina Mansfield |
 | 466 | 185 | Funky Jumper |
-| 467 | 184 | Shanon R Jackson |
-| 468 | 184 | Cheeky Setter |
+| 467 | 184 | Cheeky Setter |
+| 468 | 184 | Shanon R Jackson |
 | 469 | 183 | Smiley Zone |
 | 470 | 182 | Kali Kelz Williams |
 | 471 | 182 | Johnathan Dowe |
