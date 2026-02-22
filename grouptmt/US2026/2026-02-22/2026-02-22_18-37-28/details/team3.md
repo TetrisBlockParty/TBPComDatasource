@@ -88,8 +88,8 @@
 | 80 | 828 | Jessica Ann |
 | 81 | 826 | Shane Wilson Jr. |
 | 82 | 824 | Shari Garber |
-| 83 | 811 | Jay Horn |
-| 84 | 811 | Sarajane Lokan |
+| 83 | 811 | Sarajane Lokan |
+| 84 | 811 | Jay Horn |
 | 85 | 807 | Snappy Glidepiece |
 | 86 | 800 | Lauren Girouard |
 | 87 | 784 | Nerdy Riseclear |
@@ -170,8 +170,8 @@
 | 162 | 438 | Valerie Gendron |
 | 163 | 432 | Luciana Braganca Vieira |
 | 164 | 432 | Jenny Hrndz |
-| 165 | 430 | Jeni Dow |
-| 166 | 430 | Tasha Gillespie |
+| 165 | 430 | Tasha Gillespie |
+| 166 | 430 | Jeni Dow |
 | 167 | 430 | Joye Sims Binion |
 | 168 | 427 | Wendy Dearden |
 | 169 | 427 | Danielle Balcom |
@@ -418,8 +418,8 @@
 | 410 | 180 | Ava Petito |
 | 411 | 179 | Skinny Baldez |
 | 412 | 179 | Betty Bóò |
-| 413 | 178 | Wacky Crasher |
-| 414 | 178 | Christian Luna |
+| 413 | 178 | Christian Luna |
+| 414 | 178 | Wacky Crasher |
 | 415 | 178 | JessDrown |
 | 416 | 178 | Morgan Cudo |
 | 417 | 176 | Anna Moeller |

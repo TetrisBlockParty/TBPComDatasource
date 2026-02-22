@@ -130,8 +130,8 @@
 | 122 | 373 | Joseph Guthrie |
 | 123 | 369 | Nope Young |
 | 124 | 356 | Serena Goodridge |
-| 125 | 353 | Livvy |
-| 126 | 353 | Tyler Terrific |
+| 125 | 353 | Tyler Terrific |
+| 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
 | 129 | 338 | Lucas J Sutton |
@@ -205,13 +205,13 @@
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
-| 200 | 241 | Lindsey Gonzalez |
-| 201 | 241 | Allen Lloyd |
+| 200 | 241 | Allen Lloyd |
+| 201 | 241 | Lindsey Gonzalez |
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |

@@ -85,8 +85,8 @@
 | 77 | 489 | Deanna L Hermanson |
 | 78 | 486 | Tater |
 | 79 | 485 | Cartier |
-| 80 | 483 | MomMom |
-| 81 | 483 | Ryan Lunnin |
+| 80 | 483 | Ryan Lunnin |
+| 81 | 483 | MomMom |
 | 82 | 480 | Nancy Green |
 | 83 | 472 | April Carroll |
 | 84 | 471 | Jennifer ManWarren |
@@ -364,8 +364,8 @@
 | 356 | 148 | Lush Zoney |
 | 357 | 148 | Amh |
 | 358 | 148 | Dizzy Riseclear |
-| 359 | 147 | Brian Spotts |
-| 360 | 147 | Jodee Woods |
+| 359 | 147 | Jodee Woods |
+| 360 | 147 | Brian Spotts |
 | 361 | 146 | Jordan Brooks |
 | 362 | 145 | Robert |
 | 363 | 145 | Chantelle Ceno |
