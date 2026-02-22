@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Savannah Overdorf |
@@ -114,16 +114,16 @@
 | 106 | 475 | Isabella Blanco |
 | 107 | 474 | Jenna Ingersoll |
 | 108 | 472 | Chilly Crasher |
-| 109 | 462 | Lori Walker |
-| 110 | 462 | Scott Jameson |
+| 109 | 462 | Scott Jameson |
+| 110 | 462 | Lori Walker |
 | 111 | 457 | Alyssa Papen |
 | 112 | 456 | Twisty Clicky |
 | 113 | 455 | Chastity Mitchell |
 | 114 | 450 | shar |
 | 115 | 448 | Kristin Manee |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |

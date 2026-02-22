@@ -190,8 +190,8 @@
 | 182 | 432 | Jenny Hrndz |
 | 183 | 432 | Christine Trester |
 | 184 | 431 | Sarah Cowan Burgos |
-| 185 | 430 | Jeni Dow |
-| 186 | 430 | Joye Sims Binion |
+| 185 | 430 | Joye Sims Binion |
+| 186 | 430 | Jeni Dow |
 | 187 | 427 | Wendy Dearden |
 | 188 | 425 | Rochelle Hazelett |
 | 189 | 422 | Fallorina Susana |
@@ -289,8 +289,8 @@
 | 281 | 287 | Sabrina Hardrick |
 | 282 | 283 | Heather Green |
 | 283 | 280 | fraulila |
-| 284 | 279 | Foltz Lee Kelli |
-| 285 | 279 | Connie Mohler-Fair |
+| 284 | 279 | Connie Mohler-Fair |
+| 285 | 279 | Foltz Lee Kelli |
 | 286 | 278 | Steffi Chris Dacones |
 | 287 | 278 | Rufus Lincoln |
 | 288 | 278 | LaShey Thompson |
@@ -335,16 +335,16 @@
 | 327 | 245 | Latoya Mayne |
 | 328 | 244 | Quackers |
 | 329 | 244 | LaNette Morgan |
-| 330 | 243 | Michael Kimbro |
-| 331 | 243 | Josh Borquez |
+| 330 | 243 | Josh Borquez |
+| 331 | 243 | Michael Kimbro |
 | 332 | 242 | Randy Clevenger |
 | 333 | 240 | Tegan Chapman |
 | 334 | 240 | Eric Caccavale |
-| 335 | 238 | Niki Dalrymple |
-| 336 | 238 | Fancy Curver |
+| 335 | 238 | Fancy Curver |
+| 336 | 238 | Niki Dalrymple |
 | 337 | 237 | Jennifer Alvey |
-| 338 | 236 | Jess Bissett |
-| 339 | 236 | Lys |
+| 338 | 236 | Lys |
+| 339 | 236 | Jess Bissett |
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 233 | Tony Waters |
 | 342 | 232 | Nicholas Roddy |
