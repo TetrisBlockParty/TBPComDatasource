@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 671 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Kris Bartlett |
-| 138 | 328 | Leslie Nicole |
+| 137 | 328 | Leslie Nicole |
+| 138 | 328 | Kris Bartlett |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -196,8 +196,8 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | 23 |
 | 195 | 245 | Autum Leigh |
@@ -255,8 +255,8 @@
 | 247 | 198 | Silly SeaWeed |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | 中山成巳 |
-| 251 | 195 | Snippy Puzzle |
+| 250 | 195 | Snippy Puzzle |
+| 251 | 195 | 中山成巳 |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |
@@ -338,8 +338,8 @@
 | 330 | 148 | Cranky Rollpiece |
 | 331 | 148 | Sam Middleton |
 | 332 | 147 | ĥuf |
-| 333 | 147 | Maureen Flanigan |
-| 334 | 147 | Jay28 |
+| 333 | 147 | Jay28 |
+| 334 | 147 | Maureen Flanigan |
 | 335 | 146 | Brave Spinbuilder |
 | 336 | 145 | Sandra Safford |
 | 337 | 145 | Glitzy Crasher |
@@ -374,8 +374,8 @@
 | 366 | 136 | Jen Hallin |
 | 367 | 136 | Michelle Morris |
 | 368 | 135 | Joshua Guess |
-| 369 | 134 | Kristin MacDonald |
-| 370 | 134 | Hyper Builder |
+| 369 | 134 | Hyper Builder |
+| 370 | 134 | Kristin MacDonald |
 | 371 | 133 | Berklie Apedaile |
 | 372 | 133 | Jesus Garcia |
 | 373 | 132 | Degenerate |
@@ -399,13 +399,13 @@
 | 391 | 129 | Amy Sanford |
 | 392 | 128 | Silly Zonebuilder |
 | 393 | 128 | Denise B |
-| 394 | 128 | Raymond Roberts |
-| 395 | 128 | Madison Sweere |
-| 396 | 127 | Robert Rodriguez |
-| 397 | 127 | Gdiguy |
+| 394 | 128 | Madison Sweere |
+| 395 | 128 | Raymond Roberts |
+| 396 | 127 | Gdiguy |
+| 397 | 127 | Robert Rodriguez |
 | 398 | 127 | Frank Cook |
-| 399 | 126 | Cheryl Johnson |
-| 400 | 126 | PAPatty |
+| 399 | 126 | PAPatty |
+| 400 | 126 | Cheryl Johnson |
 | 401 | 126 | Jim Hart |
 | 402 | 125 | Sallie Sanborn |
 | 403 | 125 | Frilly Blocky |

@@ -155,8 +155,8 @@
 | 147 | 1297 | Maegan Beaule |
 | 148 | 1296 | Kristin Ruest |
 | 149 | 1290 | Bussyiano Page |
-| 150 | 1286 | Eileen Hale |
-| 151 | 1286 | Altamirano Michael |
+| 150 | 1286 | Altamirano Michael |
+| 151 | 1286 | Eileen Hale |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1282 | Tanya Parsons |
 | 154 | 1273 | Cool Rollpiece |
@@ -165,8 +165,8 @@
 | 157 | 1242 | Mischelle Clay |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1216 | Nancy Reid |
 | 163 | 1211 | Lucky Ladybug |
 | 164 | 1203 | Suki Kaur |
@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Boldy Cascadepiece |
-| 249 | 884 | Adira Brown |
+| 248 | 884 | Adira Brown |
+| 249 | 884 | Boldy Cascadepiece |
 | 250 | 883 | nikki |
 | 251 | 880 | Sarah Ridenour |
 | 252 | 880 | Sam Joe |
@@ -468,8 +468,8 @@
 | 460 | 540 | Melissa Kay Gibson |
 | 461 | 540 | Joshua Self |
 | 462 | 534 | Alexandra Weir |
-| 463 | 533 | Gauri Shrotriya |
-| 464 | 533 | Davetta Sanford |
+| 463 | 533 | Davetta Sanford |
+| 464 | 533 | Gauri Shrotriya |
 | 465 | 532 | Ann Matzkanin |
 | 466 | 531 | Briana Alexander |
 | 467 | 531 | Aishah Brice |
@@ -783,7 +783,7 @@
 | 775 | 342 | Christy Green |
 | 776 | 341 | Robin L. Vial |
 | 777 | 340 | Kiorah Blaze |
-| 778 | 339 | NickyBrooks |
+| 778 | 339 | Patrick Fleming |
 | 779 | 339 | Maxwell Escalera |
 | 780 | 339 | NickyBrooks |
 | 781 | 339 | Tasia Stinson |
@@ -799,8 +799,8 @@
 | 791 | 335 | Alexandrea |
 | 792 | 334 | Melissa James |
 | 793 | 333 | Nikki Nikki |
-| 794 | 333 | Woodys Glass |
-| 795 | 333 | Adrian Benitez |
+| 794 | 333 | Adrian Benitez |
+| 795 | 333 | Woodys Glass |
 | 796 | 333 | Snippy Block |
 | 797 | 332 | Tosa Puvapiromquan |
 | 798 | 330 | Toni Roberson |

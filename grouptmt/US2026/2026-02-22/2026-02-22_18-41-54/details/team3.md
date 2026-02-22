@@ -93,8 +93,8 @@
 | 85 | 807 | Snappy Glidepiece |
 | 86 | 800 | Lauren Girouard |
 | 87 | 784 | Nerdy Riseclear |
-| 88 | 773 | Brenda Lee Vander Molen |
-| 89 | 773 | Danielle Becker |
+| 88 | 773 | Danielle Becker |
+| 89 | 773 | Brenda Lee Vander Molen |
 | 90 | 768 | Queen Kam |
 | 91 | 747 | Aaron Pitkin |
 | 92 | 742 | Groovy Catcher |
@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -149,9 +149,9 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Annie Marie |
-| 145 | 479 | Patti Skiles |
-| 146 | 479 | Poppy Splitter |
+| 144 | 479 | Poppy Splitter |
+| 145 | 479 | Annie Marie |
+| 146 | 479 | Patti Skiles |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
 | 149 | 469 | Adrian Marcel Pate |
@@ -343,18 +343,18 @@
 | 335 | 221 | Bleu Sun Beams |
 | 336 | 221 | kacihall |
 | 337 | 220 | Tosha Griffey |
-| 338 | 218 | Tina Smith Roy |
-| 339 | 218 | Khaleada McGill Banks |
+| 338 | 218 | Khaleada McGill Banks |
+| 339 | 218 | Tina Smith Roy |
 | 340 | 218 | Eileen Brady Thurber |
 | 341 | 217 | Emma |
 | 342 | 217 | Goofy Fall |
 | 343 | 216 | Cheryl Hinch Tenbrook |
 | 344 | 216 | Frothy Snapper |
 | 345 | 215 | Everret Maxine |
-| 346 | 214 | Randy Clevenger |
-| 347 | 214 | Amy Fuller Heaton |
-| 348 | 213 | Romeo |
-| 349 | 213 | Jess Dearborn |
+| 346 | 214 | Amy Fuller Heaton |
+| 347 | 214 | Randy Clevenger |
+| 348 | 213 | Jess Dearborn |
+| 349 | 213 | Romeo |
 | 350 | 212 | AlsoJess |
 | 351 | 211 | Velma Mull |
 | 352 | 211 | Kirhonda Autmon |
@@ -368,8 +368,8 @@
 | 360 | 207 | Kristian Thurman |
 | 361 | 207 | angieelyn |
 | 362 | 206 | Tammy Rosenberry |
-| 363 | 205 | Rachel Napper |
-| 364 | 205 | Michael Kimbro |
+| 363 | 205 | Michael Kimbro |
+| 364 | 205 | Rachel Napper |
 | 365 | 204 | Cesar Barraza |
 | 366 | 203 | Angella Lyons |
 | 367 | 203 | DanceLuvLaugh |
@@ -382,8 +382,8 @@
 | 374 | 200 | Colleen Phelps |
 | 375 | 199 | Mariah Williams |
 | 376 | 199 | Samantha Worley |
-| 377 | 198 | Cyd061769 |
-| 378 | 198 | Zac Hudak |
+| 377 | 198 | Zac Hudak |
+| 378 | 198 | Cyd061769 |
 | 379 | 196 | Denita Mungro |
 | 380 | 195 | Salena Whitlock |
 | 381 | 195 | Rainbow77375 |
@@ -439,8 +439,8 @@
 | 431 | 170 | Sarah Whalen |
 | 432 | 169 | Stella |
 | 433 | 169 | Peachy Rollfit |
-| 434 | 168 | Snarky McFace |
-| 435 | 168 | Glitzy Rotate |
+| 434 | 168 | Glitzy Rotate |
+| 435 | 168 | Snarky McFace |
 | 436 | 168 | Trice Thomas |
 | 437 | 167 | Arden White Kirsch |
 | 438 | 167 | Boldy Blocker |

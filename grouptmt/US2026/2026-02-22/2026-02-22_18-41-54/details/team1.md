@@ -85,8 +85,8 @@
 | 77 | 489 | Deanna L Hermanson |
 | 78 | 486 | Tater |
 | 79 | 485 | Cartier |
-| 80 | 483 | Ryan Lunnin |
-| 81 | 483 | MomMom |
+| 80 | 483 | MomMom |
+| 81 | 483 | Ryan Lunnin |
 | 82 | 480 | Nancy Green |
 | 83 | 472 | April Carroll |
 | 84 | 471 | Shalene Frederick Autrey |
@@ -139,10 +139,10 @@
 | 131 | 340 | Tanya Carpenter-Reynolds |
 | 132 | 336 | Elaine Elaine |
 | 133 | 334 | Jaimie Lynn |
-| 134 | 333 | Gracie |
-| 135 | 333 | GATOR |
-| 136 | 332 | Kristen Gideon |
-| 137 | 332 | Lehrin Maria |
+| 134 | 333 | GATOR |
+| 135 | 333 | Gracie |
+| 136 | 332 | Lehrin Maria |
+| 137 | 332 | Kristen Gideon |
 | 138 | 330 | Maria C. Hernandez |
 | 139 | 328 | Fmp |
 | 140 | 326 | Monica Donato |
