@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -121,8 +121,8 @@
 | 113 | 638 | Jesse Olive |
 | 114 | 630 | yoyo |
 | 115 | 627 | Kristie |
-| 116 | 625 | Shavette |
-| 117 | 625 | Amber Hughes |
+| 116 | 625 | Amber Hughes |
+| 117 | 625 | Shavette |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Patricia White |
@@ -197,8 +197,8 @@
 | 189 | 416 | Staci George Fitzsimmons |
 | 190 | 415 | ren |
 | 191 | 410 | Stephanie Simpson |
-| 192 | 405 | Marcie Bressler |
-| 193 | 405 | Sherry Ogden |
+| 192 | 405 | Sherry Ogden |
+| 193 | 405 | Marcie Bressler |
 | 194 | 403 | Scott Lindsay |
 | 195 | 400 | Sherika C. McDaniels |
 | 196 | 399 | Mcathen |
@@ -265,8 +265,8 @@
 | 257 | 302 | Gray Hicks |
 | 258 | 301 | Betty Rosas |
 | 259 | 299 | Angie Harper |
-| 260 | 298 | Grams |
-| 261 | 298 | MsBee |
+| 260 | 298 | MsBee |
+| 261 | 298 | Grams |
 | 262 | 297 | Jojo M |
 | 263 | 296 | Katrina Turner |
 | 264 | 296 | Hoppy Buildout |
@@ -277,9 +277,9 @@
 | 269 | 289 | DidIdothat |
 | 270 | 289 | Duane Bright |
 | 271 | 287 | Sabrina Hardrick |
-| 272 | 286 | Tye Stovall |
+| 272 | 286 | Terry Jo Jones |
 | 273 | 286 | Christian Werndl |
-| 274 | 286 | Terry Jo Jones |
+| 274 | 286 | Tye Stovall |
 | 275 | 283 | Heather Green |
 | 276 | 279 | Connie Mohler-Fair |
 | 277 | 278 | LaShey Thompson |
@@ -305,11 +305,11 @@
 | 297 | 267 | Aerian Preston |
 | 298 | 267 | Nikki Pags |
 | 299 | 267 | April Matthew Kibble |
-| 300 | 266 | Quirky Dropzone |
-| 301 | 266 | Donna |
+| 300 | 266 | Donna |
+| 301 | 266 | Quirky Dropzone |
 | 302 | 262 | Ray Lader |
-| 303 | 261 | Angela Scott |
-| 304 | 261 | Foltz Lee Kelli |
+| 303 | 261 | Foltz Lee Kelli |
+| 304 | 261 | Angela Scott |
 | 305 | 260 | France Vézina |
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |

@@ -81,8 +81,8 @@
 | 73 | 647 | Carolyn Wallace |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | Erin Thomas |
-| 94 | 513 | YoMomma |
+| 93 | 513 | YoMomma |
+| 94 | 513 | Erin Thomas |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -190,9 +190,9 @@
 | 182 | 269 | Nikki Rae Gordon |
 | 183 | 269 | jim |
 | 184 | 268 | Mimi |
-| 185 | 267 | Holly |
+| 185 | 267 | Casey Grabner |
 | 186 | 267 | Kathy Brookins |
-| 187 | 267 | Casey Grabner |
+| 187 | 267 | Holly |
 | 188 | 266 | Laura |
 | 189 | 265 | J-Rizzle |
 | 190 | 265 | Porkobello |
@@ -399,8 +399,8 @@
 | 391 | 137 | Carlos Hernandez |
 | 392 | 137 | Hyper Builder |
 | 393 | 137 | Brianna Walker |
-| 394 | 136 | Dandy Cascadefit |
-| 395 | 136 | Michelle Morris |
+| 394 | 136 | Michelle Morris |
+| 395 | 136 | Dandy Cascadefit |
 | 396 | 136 | Jen Hallin |
 | 397 | 135 | Joshua Guess |
 | 398 | 134 | Kristin MacDonald |

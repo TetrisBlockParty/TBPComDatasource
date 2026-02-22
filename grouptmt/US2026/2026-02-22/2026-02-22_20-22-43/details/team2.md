@@ -209,8 +209,8 @@
 | 201 | 1063 | Mema |
 | 202 | 1062 | Crystal Slaughter |
 | 203 | 1058 | Jennifer Kistner |
-| 204 | 1057 | RAEPR05 |
-| 205 | 1057 | Desiree Harris Rosch |
+| 204 | 1057 | Desiree Harris Rosch |
+| 205 | 1057 | RAEPR05 |
 | 206 | 1052 | Amy Sayers |
 | 207 | 1045 | Lourisha |
 | 208 | 1043 | Brave Dropmatch |
@@ -322,8 +322,8 @@
 | 314 | 773 | Diana Fitzwater |
 | 315 | 770 | Danielle Simmons |
 | 316 | 768 | Michele Morgan |
-| 317 | 767 | Fancy Twister |
-| 318 | 767 | Ashley Lopez |
+| 317 | 767 | Ashley Lopez |
+| 318 | 767 | Fancy Twister |
 | 319 | 763 | Heather Causey |
 | 320 | 762 | Melissa McCall |
 | 321 | 761 | Hyper Cluster |
@@ -337,8 +337,8 @@
 | 329 | 746 | Kathryn Townsley |
 | 330 | 746 | Jerilyn Andrina |
 | 331 | 745 | Kiely Tomaskovich |
-| 332 | 743 | Melissa Cole |
-| 333 | 743 | Tiara Elizabeth Baker |
+| 332 | 743 | Tiara Elizabeth Baker |
+| 333 | 743 | Melissa Cole |
 | 334 | 741 | Mandi Douglas Hilt |
 | 335 | 740 | Jerry Tempelmeyer |
 | 336 | 739 | Brenda Utphall |
@@ -366,8 +366,8 @@
 | 358 | 702 | Allan Wayne Lamia |
 | 359 | 700 | Vincent Petrella |
 | 360 | 700 | Beverly Owens |
-| 361 | 697 | Dreamy Blast |
-| 362 | 697 | Ashle Scranton |
+| 361 | 697 | Ashle Scranton |
+| 362 | 697 | Dreamy Blast |
 | 363 | 695 | Mama T |
 | 364 | 695 | Lakeysha Dortch |
 | 365 | 695 | Dannette Goldberg-Richards |
@@ -470,8 +470,8 @@
 | 462 | 563 | Sarah Massey |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
-| 465 | 558 | Frisky Clearpiece |
-| 466 | 558 | Cheery Matchzone |
+| 465 | 558 | Cheery Matchzone |
+| 466 | 558 | Frisky Clearpiece |
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |
