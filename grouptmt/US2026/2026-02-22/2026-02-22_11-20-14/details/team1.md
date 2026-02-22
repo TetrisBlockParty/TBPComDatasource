@@ -96,9 +96,9 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Kimmie Kimms |
+| 91 | 379 | Austin James |
 | 92 | 379 | Nerdy Linkblock |
-| 93 | 379 | Austin James |
+| 93 | 379 | Kimmie Kimms |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -120,11 +120,11 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -238,18 +238,18 @@
 | 230 | 179 | Erin Rosberg |
 | 231 | 179 | femmefatale |
 | 232 | 178 | Chad Atchley |
-| 233 | 177 | Perky Shiftsnap |
+| 233 | 177 | Jacqueline Unique |
 | 234 | 177 | Irual Hctrab |
-| 235 | 177 | Jacqueline Unique |
+| 235 | 177 | Perky Shiftsnap |
 | 236 | 176 | Mel Hogan |
 | 237 | 175 | Kellie Tunstall |
 | 238 | 175 | John Barron |
 | 239 | 174 | Cheeky Pop |
-| 240 | 173 | Gabrielle Louise Malloch |
-| 241 | 173 | Rico Rico |
+| 240 | 173 | Rico Rico |
+| 241 | 173 | Gabrielle Louise Malloch |
 | 242 | 173 | Tiger Lily |
-| 243 | 171 | David DeSantis |
-| 244 | 171 | Sarah Marie |
+| 243 | 171 | Sarah Marie |
+| 244 | 171 | David DeSantis |
 | 245 | 171 | Greg Premoe |
 | 246 | 170 | Cece Ibarra |
 | 247 | 170 | Standia Civil |
@@ -489,7 +489,7 @@
 | 481 | 81 | Cozy Shatterer |
 | 482 | 81 | Jason Cox |
 | 483 | 80 | Tofy |
-| 484 | 79 | Marqs Mel |
+| 484 | 79 | Scott Betson |
 | 485 | 79 | Kevin Prothro |
 | 486 | 79 | Ramona Mittelstadt |
 | 487 | 79 | Marqs Mel |

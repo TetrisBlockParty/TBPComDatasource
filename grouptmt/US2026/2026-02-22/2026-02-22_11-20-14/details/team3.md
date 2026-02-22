@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Patty Allen |
 | 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Dave Herzog |
-| 106 | 562 | Louise Stacy Sisson |
+| 105 | 562 | Louise Stacy Sisson |
+| 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -232,16 +232,16 @@
 | 224 | 283 | Cheeky Snapper |
 | 225 | 281 | Betty Rosas |
 | 226 | 281 | Valerie Gendron |
-| 227 | 278 | Rufus Lincoln |
-| 228 | 278 | Sabrina Hardrick |
+| 227 | 278 | Sabrina Hardrick |
+| 228 | 278 | Rufus Lincoln |
 | 229 | 277 | Keis |
 | 230 | 276 | _melisa223_ |
 | 231 | 276 | Crimson |
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -287,8 +287,8 @@
 | 279 | 220 | rosy |
 | 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Twisty Brick LT |
-| 283 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Cheryl Hinch Tenbrook |
+| 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Angela Scott |
@@ -303,8 +303,8 @@
 | 295 | 210 | Lizabeth Fox |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Jessica |
-| 299 | 207 | Daring Builder |
+| 298 | 207 | Daring Builder |
+| 299 | 207 | Jessica |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Tammy Rosenberry |
 | 302 | 206 | Stephanie Hill |
@@ -321,16 +321,16 @@
 | 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
-| 316 | 195 | Kristian Thurman |
-| 317 | 195 | Nicha Hooker |
+| 316 | 195 | Nicha Hooker |
+| 317 | 195 | Kristian Thurman |
 | 318 | 194 | Goofy Fall |
 | 319 | 193 | Clever Shiftsnap |
 | 320 | 192 | Ryan Williams |
 | 321 | 192 | Kelly Ann Child |
 | 322 | 191 | Becca Engle |
 | 323 | 191 | Philip Rock |
-| 324 | 189 | Katie Leigh Blankenship |
-| 325 | 189 | France Vézina |
+| 324 | 189 | France Vézina |
+| 325 | 189 | Katie Leigh Blankenship |
 | 326 | 188 | Loopy Fallmatch |
 | 327 | 187 | Romeo |
 | 328 | 186 | Bryan Byrd |
@@ -351,14 +351,14 @@
 | 343 | 175 | Eileen Brady Thurber |
 | 344 | 174 | Salena Whitlock |
 | 345 | 174 | Lesley Perez |
-| 346 | 173 | BŘŰŤİÇŨŚ |
-| 347 | 173 | Naur |
+| 346 | 173 | Naur |
+| 347 | 173 | BŘŰŤİÇŨŚ |
 | 348 | 173 | MizzMonick Smith |
-| 349 | 170 | Tina Smith Roy |
-| 350 | 170 | Colleen Phelps |
+| 349 | 170 | Colleen Phelps |
+| 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
@@ -442,8 +442,8 @@
 | 434 | 138 | Bleu Sun Beams |
 | 435 | 137 | Giggly Brickroll |
 | 436 | 136 | Karen Picaboo |
-| 437 | 136 | Sabrina Mansfield |
-| 438 | 136 | Stephanie Zahm |
+| 437 | 136 | Stephanie Zahm |
+| 438 | 136 | Sabrina Mansfield |
 | 439 | 135 | Morgan Cudo |
 | 440 | 134 | Tammy |
 | 441 | 134 | Maia |

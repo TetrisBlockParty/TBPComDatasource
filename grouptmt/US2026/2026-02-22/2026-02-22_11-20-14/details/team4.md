@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -476,8 +476,8 @@
 | 468 | 85 | Tim Knight-ten |
 | 469 | 84 | Amy C Brown |
 | 470 | 84 | Beth Helms |
-| 471 | 84 | mini |
-| 472 | 84 | Jen Hallin |
+| 471 | 84 | Jen Hallin |
+| 472 | 84 | mini |
 | 473 | 84 | Robert Sch |
 | 474 | 83 | Groovy Brickmatch |
 | 475 | 82 | Kimberlee Jan Beckstead |
