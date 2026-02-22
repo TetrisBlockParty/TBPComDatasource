@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Judi Dobson |
-| 76 | 926 | Angela M. Fletcher |
+| 75 | 926 | Angela M. Fletcher |
+| 76 | 926 | Judi Dobson |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -117,8 +117,8 @@
 | 109 | 730 | Speedy Bridger |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Calista Jo Dickson |
-| 113 | 716 | Kristie |
+| 112 | 716 | Kristie |
+| 113 | 716 | Calista Jo Dickson |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -145,8 +145,8 @@
 | 137 | 585 | opf |
 | 138 | 583 | Karon Griffin |
 | 139 | 582 | Natasha Jones |
-| 140 | 579 | Jaime Monhaut-Reed |
-| 141 | 579 | Annie Marie |
+| 140 | 579 | Annie Marie |
+| 141 | 579 | Jaime Monhaut-Reed |
 | 142 | 574 | Morgan Martinez |
 | 143 | 572 | CeceGeGe |
 | 144 | 571 | Nicole Myers |
@@ -166,8 +166,8 @@
 | 158 | 517 | Denise Nardoni |
 | 159 | 516 | Elissa S-k |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Sashay Tapae Simpson |
-| 162 | 506 | Stephanie Blkpep Davidson |
+| 161 | 506 | Stephanie Blkpep Davidson |
+| 162 | 506 | Sashay Tapae Simpson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -176,10 +176,10 @@
 | 168 | 491 | Chauntee Alfrey-Cardinale |
 | 169 | 485 | Dapper Snap |
 | 170 | 479 | Poppy Splitter |
-| 171 | 475 | FuzzyNavel |
-| 172 | 475 | Tessina Dewey-Mancino |
-| 173 | 471 | Rachel |
-| 174 | 471 | Mendoza Lee Christy |
+| 171 | 475 | Tessina Dewey-Mancino |
+| 172 | 475 | FuzzyNavel |
+| 173 | 471 | Mendoza Lee Christy |
+| 174 | 471 | Rachel |
 | 175 | 470 | Logan Naccarato |
 | 176 | 469 | Melissa Orth Hunter |
 | 177 | 468 | Shannon Matthew Byers |
@@ -358,9 +358,9 @@
 | 350 | 247 | Jessica |
 | 351 | 247 | Daring Builder |
 | 352 | 245 | Latoya Mayne |
-| 353 | 244 | LaNette Morgan |
-| 354 | 244 | Tegan Chapman |
-| 355 | 244 | Quackers |
+| 353 | 244 | Tegan Chapman |
+| 354 | 244 | Quackers |
+| 355 | 244 | LaNette Morgan |
 | 356 | 243 | Josh Borquez |
 | 357 | 242 | Randy Clevenger |
 | 358 | 240 | Rachel Grant |

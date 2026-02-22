@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -164,11 +164,11 @@
 | 156 | 333 | Gracie |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Ananda Mendez |
-| 160 | 324 | Rat666 |
+| 159 | 324 | Rat666 |
+| 160 | 324 | Ananda Mendez |
 | 161 | 322 | Chelsea Dahlquist |
-| 162 | 318 | Jessica Sheehan |
-| 163 | 318 | Virginia Gray Floyd |
+| 162 | 318 | Virginia Gray Floyd |
+| 163 | 318 | Jessica Sheehan |
 | 164 | 317 | Rachael |
 | 165 | 315 | Danielle Little-Daugherty |
 | 166 | 315 | Tyler Werts |
@@ -189,8 +189,8 @@
 | 181 | 299 | ALFD |
 | 182 | 294 | Margo Wagner |
 | 183 | 292 | Cool Shiftsnap |
-| 184 | 287 | Angela Renea Lester |
-| 185 | 287 | Witty Builderfit |
+| 184 | 287 | Witty Builderfit |
+| 185 | 287 | Angela Renea Lester |
 | 186 | 286 | Carrie Smith |
 | 187 | 283 | Franswa |
 | 188 | 282 | Sassy Builderline |

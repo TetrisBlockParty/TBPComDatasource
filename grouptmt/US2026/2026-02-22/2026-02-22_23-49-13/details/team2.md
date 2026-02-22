@@ -610,8 +610,8 @@
 | 602 | 476 | Chummy Blockbuilder |
 | 603 | 476 | Tyler C. Jung |
 | 604 | 476 | Ashlee Cruz |
-| 605 | 476 | Kiana Boschh |
-| 606 | 476 | Snazzy Basepiece |
+| 605 | 476 | Snazzy Basepiece |
+| 606 | 476 | Kiana Boschh |
 | 607 | 475 | Mia Muse Best |
 | 608 | 474 | Jennifer Monroe Kelly |
 | 609 | 474 | Calandra Shaya Robinson |

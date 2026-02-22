@@ -125,9 +125,9 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Courtney Cicoria |
+| 120 | 431 | Jessica Lynn Cutlip |
 | 121 | 431 | Jolly Dashfit |
-| 122 | 431 | Jessica Lynn Cutlip |
+| 122 | 431 | Courtney Cicoria |
 | 123 | 429 | Ren Mc |
 | 124 | 427 | KJ Pool |
 | 125 | 417 | Monica Daley |
@@ -156,8 +156,8 @@
 | 148 | 353 | Tyler Terrific |
 | 149 | 353 | Livvy |
 | 150 | 349 | Desi Desporte |
-| 151 | 348 | Silly Zonebuilder |
-| 152 | 348 | 🥔🥔 Spudz |
+| 151 | 348 | 🥔🥔 Spudz |
+| 152 | 348 | Silly Zonebuilder |
 | 153 | 347 | Daria Rycewicz |
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
