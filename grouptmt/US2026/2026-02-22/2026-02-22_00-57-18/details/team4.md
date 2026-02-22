@@ -121,8 +121,8 @@
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |
-| 116 | 218 | Antony Dwayne Beasley |
-| 117 | 218 | Casey Grabner |
+| 116 | 218 | Casey Grabner |
+| 117 | 218 | Antony Dwayne Beasley |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
 | 120 | 212 | Mike Solo |
@@ -133,8 +133,8 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Dana Scott |
-| 129 | 204 | Jen Caldwell |
+| 128 | 204 | Jen Caldwell |
+| 129 | 204 | Dana Scott |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -143,8 +143,8 @@
 | 135 | 196 | Jeff Brian Gates |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
-| 138 | 189 | Calvin Dennis |
-| 139 | 189 | Stacey Stano |
+| 138 | 189 | Stacey Stano |
+| 139 | 189 | Calvin Dennis |
 | 140 | 187 | TheNeesh50 |
 | 141 | 186 | Holly |
 | 142 | 185 | Malakai Darien Fox |
@@ -188,8 +188,8 @@
 | 180 | 142 | Zippy Gridlock |
 | 181 | 142 | Tyler Terrific |
 | 182 | 141 | Victoria Faniel |
-| 183 | 141 | Kathy Allen |
-| 184 | 141 | Marcus Todd |
+| 183 | 141 | Marcus Todd |
+| 184 | 141 | Kathy Allen |
 | 185 | 141 | ĥuf |
 | 186 | 140 | John Brunetti |
 | 187 | 140 | Stephme310 |

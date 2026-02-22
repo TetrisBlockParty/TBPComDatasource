@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Trippy Redd |
-| 114 | 243 | Chelsea Dahlquist |
+| 113 | 243 | Chelsea Dahlquist |
+| 114 | 243 | Trippy Redd |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -141,14 +141,14 @@
 | 133 | 198 | Happy Snapbuild |
 | 134 | 198 | Shiny Gridmatch |
 | 135 | 195 | Daring Fitclear |
-| 136 | 194 | Ash Galvan |
-| 137 | 194 | Tyler Werts |
+| 136 | 194 | Tyler Werts |
+| 137 | 194 | Ash Galvan |
 | 138 | 193 | Lachelle Dillon |
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Sweetts |
-| 143 | 190 | Thorne Shumate |
+| 142 | 190 | Thorne Shumate |
+| 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Margo Wagner |

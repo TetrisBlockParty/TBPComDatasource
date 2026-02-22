@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -69,8 +69,8 @@
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 621 | Cherry Parker |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
@@ -91,8 +91,8 @@
 | 83 | 514 | Jay Horn |
 | 84 | 510 | Dave Herzog |
 | 85 | 506 | Sashay Tapae Simpson |
-| 86 | 503 | Nate Burnside |
-| 87 | 503 | Susan Valentino |
+| 86 | 503 | Susan Valentino |
+| 87 | 503 | Nate Burnside |
 | 88 | 502 | Justin Ritter |
 | 89 | 497 | Christine Niles |
 | 90 | 497 | Jennifer Petrie |
@@ -121,30 +121,30 @@
 | 113 | 394 | joclisa |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
-| 116 | 390 | Hasty Cascadefit |
-| 117 | 390 | Patti Skiles |
-| 118 | 389 | FuzzyNavel |
-| 119 | 389 | Jessica Bechler |
+| 116 | 390 | Patti Skiles |
+| 117 | 390 | Hasty Cascadefit |
+| 118 | 389 | Jessica Bechler |
+| 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
 | 122 | 378 | Makelini Mausia |
 | 123 | 378 | Tasha Schriewer |
 | 124 | 378 | Tasha Gillespie |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Blkpep Davidson |
-| 127 | 368 | Stephanie Woods |
+| 126 | 368 | Stephanie Woods |
+| 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Sherry Ogden |
-| 131 | 355 | Tessina Dewey-Mancino |
+| 130 | 355 | Tessina Dewey-Mancino |
+| 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
 | 134 | 347 | Nicole Flippo |
 | 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
-| 137 | 328 | Dapper Snap |
-| 138 | 328 | Jeni Dow |
-| 139 | 328 | Aaron Pitkin |
+| 137 | 328 | Jeni Dow |
+| 138 | 328 | Aaron Pitkin |
+| 139 | 328 | Dapper Snap |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
 | 142 | 320 | Or Reznitsky |
@@ -152,8 +152,8 @@
 | 144 | 311 | Raya |
 | 145 | 309 | Rich LeBlanc |
 | 146 | 307 | Blocked |
-| 147 | 300 | Sherika C. McDaniels |
-| 148 | 300 | Louise Stacy Sisson |
+| 147 | 300 | Louise Stacy Sisson |
+| 148 | 300 | Sherika C. McDaniels |
 | 149 | 293 | Poppy Splitter |
 | 150 | 289 | Hoppy Buildout |
 | 151 | 288 | Marci Mize Fandrich |
@@ -315,9 +315,9 @@
 | 307 | 142 | Gray Hicks |
 | 308 | 141 | Joy Petroski |
 | 309 | 139 | Melissa Snyder |
-| 310 | 138 | Pam Holt Powell |
-| 311 | 138 | Skinny Baldez |
-| 312 | 138 | Weerae |
+| 310 | 138 | Skinny Baldez |
+| 311 | 138 | Weerae |
+| 312 | 138 | Pam Holt Powell |
 | 313 | 138 | Boldy Corner |
 | 314 | 137 | sofaking |
 | 315 | 137 | kacihall |
