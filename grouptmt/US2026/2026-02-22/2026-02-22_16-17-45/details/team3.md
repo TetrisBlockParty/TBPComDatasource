@@ -217,8 +217,8 @@
 | 209 | 332 | Rich LeBlanc |
 | 210 | 330 | Rebecca Funderburk Kirby |
 | 211 | 330 | Danielle Balcom |
-| 212 | 324 | Sissy Lowery Davis |
-| 213 | 324 | Kristal C Lee |
+| 212 | 324 | Kristal C Lee |
+| 213 | 324 | Sissy Lowery Davis |
 | 214 | 323 | Demetrious Shaw Sr. |
 | 215 | 320 | Ashley Muncey |
 | 216 | 320 | LaTanya GeminiondaRise Johnson |
@@ -295,8 +295,8 @@
 | 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Lys |
-| 291 | 236 | Jess Bissett |
+| 290 | 236 | Jess Bissett |
+| 291 | 236 | Lys |
 | 292 | 236 | Angela Scott |
 | 293 | 233 | Tony Waters |
 | 294 | 233 | Josh Borquez |
@@ -686,8 +686,8 @@
 | 678 | 104 | Six |
 | 679 | 104 | Brittany Smith Brown |
 | 680 | 103 | Lisa Lisa |
-| 681 | 103 | Tony Mia Christian |
-| 682 | 103 | Fancy Racker |
+| 681 | 103 | Fancy Racker |
+| 682 | 103 | Tony Mia Christian |
 | 683 | 103 | Benny Tyrrell |
 | 684 | 102 | Rima Mackelburger |
 | 685 | 102 | Jason |

@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |

@@ -320,8 +320,8 @@
 | 312 | 715 | Stephanie Lumanlan |
 | 313 | 713 | Chelle |
 | 314 | 711 | Melissa Holsinger |
-| 315 | 704 | Jánine Riggs |
-| 316 | 704 | Shelley Thornburgh Wright |
+| 315 | 704 | Shelley Thornburgh Wright |
+| 316 | 704 | Jánine Riggs |
 | 317 | 703 | Gold Rose |
 | 318 | 702 | Charvi' Carter |
 | 319 | 700 | Hong Tang |
@@ -782,8 +782,8 @@
 | 774 | 319 | RetroLemur |
 | 775 | 319 | Cheery Puzzler |
 | 776 | 318 | Jennifer Mahon |
-| 777 | 317 | Zombi3 |
-| 778 | 317 | Ashlyn Berner |
+| 777 | 317 | Ashlyn Berner |
+| 778 | 317 | Zombi3 |
 | 779 | 317 | Jumpy Gridclear |
 | 780 | 316 | Epic Spinfit |
 | 781 | 315 | MamaBear11 |
@@ -798,11 +798,11 @@
 | 790 | 313 | Natasha Edmonds |
 | 791 | 312 | Heather Renee Jeffers |
 | 792 | 312 | Kiorah Blaze |
-| 793 | 311 | Audra Williams |
-| 794 | 311 | SwifftFox |
+| 793 | 311 | SwifftFox |
+| 794 | 311 | Audra Williams |
 | 795 | 311 | Megan Phillips |
-| 796 | 310 | Cheeky Brickmatch |
-| 797 | 310 | Wendy Ducheney |
+| 796 | 310 | Wendy Ducheney |
+| 797 | 310 | Cheeky Brickmatch |
 | 798 | 310 | Cozy Drop |
 | 799 | 310 | Bee |
 | 800 | 309 | Byung Bae Park |
