@@ -76,8 +76,8 @@
 | 68 | 471 | Seante Bullock |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -112,14 +112,14 @@
 | 104 | 341 | Nick R Montague |
 | 105 | 333 | Brandi Huntington |
 | 106 | 333 | phrmblk24 |
-| 107 | 332 | Luciano Moreira |
-| 108 | 332 | Kristen Gideon |
+| 107 | 332 | Kristen Gideon |
+| 108 | 332 | Luciano Moreira |
 | 109 | 330 | Sweet Baker |
 | 110 | 328 | Gracie |
 | 111 | 326 | Monica Donato |
 | 112 | 321 | Maria C. Hernandez |
-| 113 | 319 | Patrick Luckenbill |
-| 114 | 319 | Deanna L Hermanson |
+| 113 | 319 | Deanna L Hermanson |
+| 114 | 319 | Patrick Luckenbill |
 | 115 | 318 | Jessica Sheehan |
 | 116 | 316 | Ly Phethmany |
 | 117 | 315 | Arianna O'Brien |
@@ -165,8 +165,8 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Frothy Pattern |
-| 161 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Billie Dawn Sparks |
+| 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Sleepysloath5745 |
 | 164 | 226 | Kandae |
@@ -183,11 +183,11 @@
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
-| 178 | 208 | Bouncy Grid |
-| 179 | 208 | Donna Addison Williams |
-| 180 | 207 | Leslie Bush Yarbrough |
-| 181 | 207 | Ty Brown |
-| 182 | 207 | Brenda Alexander |
+| 178 | 208 | Donna Addison Williams |
+| 179 | 208 | Bouncy Grid |
+| 180 | 207 | Brenda Alexander |
+| 181 | 207 | Leslie Bush Yarbrough |
+| 182 | 207 | Ty Brown |
 | 183 | 206 | BadG52 |
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
@@ -217,8 +217,8 @@
 | 209 | 186 | Erin Hodges Plumb |
 | 210 | 186 | Margo Wagner |
 | 211 | 184 | Chris Sigurdson |
-| 212 | 183 | Amy Hess |
-| 213 | 183 | Andrew Boone |
+| 212 | 183 | Andrew Boone |
+| 213 | 183 | Amy Hess |
 | 214 | 182 | Phu ckalldems |
 | 215 | 180 | BigWeenie69 |
 | 216 | 180 | Erez Yosef |
@@ -240,8 +240,8 @@
 | 232 | 171 | Mike Ames |
 | 233 | 171 | Greg Premoe |
 | 234 | 171 | David DeSantis |
-| 235 | 170 | Cece Ibarra |
-| 236 | 170 | Standia Civil |
+| 235 | 170 | Standia Civil |
+| 236 | 170 | Cece Ibarra |
 | 237 | 169 | Abbey Crespo |
 | 238 | 168 | Amber Stoker |
 | 239 | 168 | Angela Fairbank |
@@ -268,8 +268,8 @@
 | 260 | 152 | Tavia |
 | 261 | 152 | Speedy Snapfall |
 | 262 | 151 | Gilbert Ortiz Jr. |
-| 263 | 150 | Adele Rahman |
-| 264 | 150 | Agustin Duarte Orozco |
+| 263 | 150 | Agustin Duarte Orozco |
+| 264 | 150 | Adele Rahman |
 | 265 | 149 | Jessica Russell |
 | 266 | 147 | J.F. Fields |
 | 267 | 145 | Tipsy Riseclear |

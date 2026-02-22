@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Shuany Arias |
-| 202 | 910 | Crystal Hoffman |
+| 201 | 910 | Crystal Hoffman |
+| 202 | 910 | Shuany Arias |
 | 203 | 907 | Gene Mills |
 | 204 | 901 | Jennifer Peachey |
 | 205 | 894 | Auntie B |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -323,8 +323,8 @@
 | 315 | 650 | Shiny Rollzone |
 | 316 | 645 | tejas25 |
 | 317 | 643 | Hoppy Brickmatch |
-| 318 | 641 | Joce Lynn |
-| 319 | 641 | Angie Bolton Workman |
+| 318 | 641 | Angie Bolton Workman |
+| 319 | 641 | Joce Lynn |
 | 320 | 640 | BYM4L |
 | 321 | 639 | Crystie Hicks |
 | 322 | 639 | Rebecca Miller |
@@ -357,10 +357,10 @@
 | 349 | 584 | Ginnell Browner |
 | 350 | 582 | Gary Stash |
 | 351 | 581 | Jerry Tempelmeyer |
-| 352 | 579 | AgileDragon |
-| 353 | 579 | Jackie Avila |
-| 354 | 579 | Juliana Marques Do Nascimento Gordy |
-| 355 | 579 | Roy Salyer |
+| 352 | 579 | Jackie Avila |
+| 353 | 579 | AgileDragon |
+| 354 | 579 | Roy Salyer |
+| 355 | 579 | Juliana Marques Do Nascimento Gordy |
 | 356 | 576 | Leslie Johnson Guinto |
 | 357 | 572 | Chris Wanner |
 | 358 | 569 | Vaniel Glover |
@@ -399,8 +399,8 @@
 | 391 | 522 | Joseph Musick |
 | 392 | 522 | Lylymom |
 | 393 | 521 | Tj Ball |
-| 394 | 520 | Maddy Petersen |
-| 395 | 520 | Angela Lynn |
+| 394 | 520 | Angela Lynn |
+| 395 | 520 | Maddy Petersen |
 | 396 | 519 | Rob Brown |
 | 397 | 517 | Alex Dungo Hoang |
 | 398 | 517 | Porsche' Nicole |
@@ -472,8 +472,8 @@
 | 464 | 463 | Sue Leard |
 | 465 | 463 | Jaye EL Hunter |
 | 466 | 462 | Daphne Jordan |
-| 467 | 462 | Amanda Ferrell |
-| 468 | 462 | Tonya Lee |
+| 467 | 462 | Tonya Lee |
+| 468 | 462 | Amanda Ferrell |
 | 469 | 462 | Jarboe |
 | 470 | 459 | Melissa Kay Gibson |
 | 471 | 458 | Casper The Chonk |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Destiny Cozier |
-| 507 | 427 | Quinn |
+| 506 | 427 | Quinn |
+| 507 | 427 | Destiny Cozier |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -776,16 +776,16 @@
 | 768 | 291 | Brave Gridpiece |
 | 769 | 289 | August Hale |
 | 770 | 288 | thranduil |
-| 771 | 288 | Samantha Angelo |
-| 772 | 288 | Jenna Nance |
+| 771 | 288 | Jenna Nance |
+| 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
 | 775 | 287 | N00D3S |
 | 776 | 287 | Toni Roberson |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
-| 779 | 285 | Court |
-| 780 | 285 | Epic Stackbuilder |
+| 779 | 285 | Epic Stackbuilder |
+| 780 | 285 | Court |
 | 781 | 284 | Hillary Franklin |
 | 782 | 282 | Nutty Slice |
 | 783 | 281 | Anthony |
@@ -794,8 +794,8 @@
 | 786 | 280 | Luke Califf |
 | 787 | 280 | Sandra Link-Gable |
 | 788 | 280 | Belle |
-| 789 | 279 | Jennifer Coe |
-| 790 | 279 | Loony Basepiece |
+| 789 | 279 | Loony Basepiece |
+| 790 | 279 | Jennifer Coe |
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
@@ -835,9 +835,9 @@
 | 827 | 270 | Nat |
 | 828 | 268 | Donald Nowland |
 | 829 | 267 | Dad |
-| 830 | 267 | Candace Cece Joseph |
-| 831 | 267 | David Duncan |
-| 832 | 267 | Denisse Avilez |
+| 830 | 267 | David Duncan |
+| 831 | 267 | Denisse Avilez |
+| 832 | 267 | Candace Cece Joseph |
 | 833 | 266 | Jason Garnatz |
 | 834 | 266 | Man of Steel |
 | 835 | 265 | trabuco |
@@ -851,14 +851,14 @@
 | 843 | 264 | Nicki Stephens |
 | 844 | 264 | Sanaa Nounoussa |
 | 845 | 264 | Edna Combs |
-| 846 | 263 | Amy Humphreys |
-| 847 | 263 | Sunshine711 |
+| 846 | 263 | Sunshine711 |
+| 847 | 263 | Amy Humphreys |
 | 848 | 263 | Elizabeth Leinen |
 | 849 | 263 | Christina Walker |
 | 850 | 263 | Sara Pennington |
 | 851 | 262 | Taren Cowan |
-| 852 | 261 | Gina Gina |
-| 853 | 261 | Dany Murillo |
+| 852 | 261 | Dany Murillo |
+| 853 | 261 | Gina Gina |
 | 854 | 261 | MrsClaudette Will'sIam Matthews |
 | 855 | 260 | Giggly Snap |
 | 856 | 260 | Manny Trindade |
@@ -866,9 +866,9 @@
 | 858 | 260 | Michael David Hollis |
 | 859 | 260 | Lynda Toland |
 | 860 | 259 | Mary Ahne |
-| 861 | 259 | Sarah Sims |
-| 862 | 259 | JacJac |
-| 863 | 259 | Andrea Devery Beck |
+| 861 | 259 | JacJac |
+| 862 | 259 | Andrea Devery Beck |
+| 863 | 259 | Sarah Sims |
 | 864 | 259 | sup |
 | 865 | 258 | Joy LaJeunesse |
 | 866 | 258 | Elena Vap |
