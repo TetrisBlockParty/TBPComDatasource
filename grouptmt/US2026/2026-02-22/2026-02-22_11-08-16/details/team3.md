@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -248,8 +248,8 @@
 | 240 | 264 | Grego Daniel |
 | 241 | 263 | Brittany |
 | 242 | 262 | Joe-Maggie Mathews |
-| 243 | 261 | Tasha Wesson-Torrence |
-| 244 | 261 | Tiffany Ford |
+| 243 | 261 | Tiffany Ford |
+| 244 | 261 | Tasha Wesson-Torrence |
 | 245 | 261 | Marquita Sheard |
 | 246 | 260 | Grams |
 | 247 | 260 | Eon Harris |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -282,13 +282,13 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Alice |
-| 278 | 221 | Jaime Monhaut-Reed |
+| 277 | 221 | Jaime Monhaut-Reed |
+| 278 | 221 | Alice |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Twisty Brick LT |
-| 283 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Cheryl Hinch Tenbrook |
+| 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Angela Scott |
@@ -306,8 +306,8 @@
 | 298 | 207 | Jessica |
 | 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
-| 301 | 206 | Tammy Rosenberry |
-| 302 | 206 | Stephanie Hill |
+| 301 | 206 | Stephanie Hill |
+| 302 | 206 | Tammy Rosenberry |
 | 303 | 206 | Tracy Martin |
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
@@ -364,8 +364,8 @@
 | 356 | 166 | Angella Lyons |
 | 357 | 166 | Snarky McFace |
 | 358 | 165 | Kali Kelz Williams |
-| 359 | 165 | Ashley Lynn Marchese |
-| 360 | 165 | Rainbow77375 |
+| 359 | 165 | Rainbow77375 |
+| 360 | 165 | Ashley Lynn Marchese |
 | 361 | 164 | Ashley Rufus Bythcez |
 | 362 | 164 | momo |
 | 363 | 163 | Christine Trester |
@@ -429,16 +429,16 @@
 | 421 | 142 | Joy Petroski |
 | 422 | 141 | Melissa Snyder |
 | 423 | 141 | Bhreagh Gentile |
-| 424 | 141 | Weerae |
-| 425 | 141 | Reina Roth |
+| 424 | 141 | Reina Roth |
+| 425 | 141 | Weerae |
 | 426 | 140 | Jumpy Curvebuilder |
 | 427 | 140 | Linda Draper |
 | 428 | 140 | Boldy Corner |
 | 429 | 140 | Alison Baus |
 | 430 | 139 | Beppy |
 | 431 | 139 | Paula Little |
-| 432 | 138 | Bleu Sun Beams |
-| 433 | 138 | Skinny Baldez |
+| 432 | 138 | Skinny Baldez |
+| 433 | 138 | Bleu Sun Beams |
 | 434 | 137 | Giggly Brickroll |
 | 435 | 136 | Karen Picaboo |
 | 436 | 136 | Stephanie Zahm |

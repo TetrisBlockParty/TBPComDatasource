@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Alyssa Papen |
 | 159 | 227 | Swanky Fitline |
@@ -205,8 +205,8 @@
 | 197 | 191 | Klo |
 | 198 | 190 | Alan George LaRage |
 | 199 | 190 | Cheery Risebuilder |
-| 200 | 189 | Calvin Dennis |
-| 201 | 189 | Stacey Stano |
+| 200 | 189 | Stacey Stano |
+| 201 | 189 | Calvin Dennis |
 | 202 | 188 | Andria Lynn |
 | 203 | 186 | Holly |
 | 204 | 185 | Nikki Rae Gordon |
@@ -251,8 +251,8 @@
 | 243 | 155 | AyeKay |
 | 244 | 154 | Zany Shatterer |
 | 245 | 153 | Empress Oasis |
-| 246 | 152 | Faja |
-| 247 | 152 | Austin Owens |
+| 246 | 152 | Austin Owens |
+| 247 | 152 | Faja |
 | 248 | 151 | Joseph Pace |
 | 249 | 149 | Tanner Lund |
 | 250 | 149 | Shainne Brewer |
@@ -484,7 +484,7 @@
 | 476 | 82 | Oleg Zakharskiy |
 | 477 | 81 | Zippy Tilt |
 | 478 | 81 | Crystal Lynn |
-| 479 | 81 | Zippy Tilt |
+| 479 | 81 | Tiffany Root |
 | 480 | 81 | Megan Boyce |
 | 481 | 81 | Robert Rangel |
 | 482 | 80 | Shirl |

@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -245,8 +245,8 @@
 | 237 | 805 | Meghan M |
 | 238 | 804 | Maria Escobar |
 | 239 | 804 | Alyssa Hileman |
-| 240 | 801 | Ashlen Dorrell |
-| 241 | 801 | Debra Williams |
+| 240 | 801 | Debra Williams |
+| 241 | 801 | Ashlen Dorrell |
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 778 | Lisa Ongtowasruk |
@@ -254,9 +254,9 @@
 | 246 | 777 | Barbra Miller |
 | 247 | 777 | Tesha Oldaker |
 | 248 | 777 | Eric Carlson |
-| 249 | 772 | Cherica Taylor |
-| 250 | 772 | William Hunt |
-| 251 | 772 | Sam Joe |
+| 249 | 772 | William Hunt |
+| 250 | 772 | Sam Joe |
+| 251 | 772 | Cherica Taylor |
 | 252 | 771 | Terri McKelvey McKinley |
 | 253 | 767 | Jessica Wayne Cornwall |
 | 254 | 765 | Jodi Blake |
@@ -287,16 +287,16 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Vincent Petrella |
-| 283 | 700 | Hong Tang |
+| 282 | 700 | Hong Tang |
+| 283 | 700 | Vincent Petrella |
 | 284 | 700 | Rosemadder |
 | 285 | 700 | Beverly Owens |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
 | 289 | 695 | Lakeysha Dortch |
-| 290 | 692 | Dannette Goldberg-Richards |
-| 291 | 692 | Jennifer Casey-Kay |
+| 290 | 692 | Jennifer Casey-Kay |
+| 291 | 692 | Dannette Goldberg-Richards |
 | 292 | 690 | Deborah Miller |
 | 293 | 689 | Giggy Blocker |
 | 294 | 688 | ShinyRose |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Dee |
-| 301 | 679 | Brenda Utphall |
+| 300 | 679 | Brenda Utphall |
+| 301 | 679 | Dee |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 552 | Michelle Fields |
 | 375 | 550 | Nashu |
@@ -431,8 +431,8 @@
 | 423 | 500 | Blacc Blac |
 | 424 | 499 | Sarah Massey |
 | 425 | 498 | Rhonda Milstead |
-| 426 | 497 | Doowop40 |
-| 427 | 497 | June E Hanson |
+| 426 | 497 | June E Hanson |
+| 427 | 497 | Doowop40 |
 | 428 | 497 | Kimberly Randesi |
 | 429 | 494 | Venita Ray |
 | 430 | 493 | Kara Gillen |
@@ -503,9 +503,9 @@
 | 495 | 444 | Chab |
 | 496 | 444 | Ryan Meilleur |
 | 497 | 442 | Leah |
-| 498 | 440 | Victoria Regina Girolami |
-| 499 | 440 | Liberty |
-| 500 | 440 | Sarah Berger |
+| 498 | 440 | Liberty |
+| 499 | 440 | Sarah Berger |
+| 500 | 440 | Victoria Regina Girolami |
 | 501 | 438 | Kristi Biddinger |
 | 502 | 438 | Johnny Yeates |
 | 503 | 437 | Bubbly Snapfit |
@@ -558,8 +558,8 @@
 | 550 | 406 | Erin StFrancis |
 | 551 | 406 | Kimberly Ann |
 | 552 | 405 | Lee Harper |
-| 553 | 404 | Goofy Catcher |
-| 554 | 404 | Dawn L Washington-Feuquay |
+| 553 | 404 | Dawn L Washington-Feuquay |
+| 554 | 404 | Goofy Catcher |
 | 555 | 403 | Goofy Dasher |
 | 556 | 401 | Moua Ying |
 | 557 | 401 | De Hawkins |
@@ -691,8 +691,8 @@
 | 683 | 335 | Maria Louise |
 | 684 | 334 | Melissa James |
 | 685 | 333 | Veronica Stevenson |
-| 686 | 333 | Adrian Benitez |
-| 687 | 333 | Woodys Glass |
+| 686 | 333 | Woodys Glass |
+| 687 | 333 | Adrian Benitez |
 | 688 | 332 | Lathasa Newkirk |
 | 689 | 330 | Jennifer Monroe Kelly |
 | 690 | 329 | Chummy Blockbuilder |
@@ -704,8 +704,8 @@
 | 696 | 326 | Angela Murgia-Owen |
 | 697 | 325 | Justin Hines |
 | 698 | 325 | Mike73 |
-| 699 | 324 | Dale Haanpaa |
-| 700 | 324 | Tasia Stinson |
+| 699 | 324 | Tasia Stinson |
+| 700 | 324 | Dale Haanpaa |
 | 701 | 323 | Kyla Louise |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
@@ -740,12 +740,12 @@
 | 732 | 308 | Sarah block |
 | 733 | 308 | Claire |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | stacey |
-| 736 | 307 | Peachy Blockbuilder |
+| 735 | 307 | Peachy Blockbuilder |
+| 736 | 307 | stacey |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | Narutofreak13 |
-| 740 | 305 | MamaBear11 |
+| 739 | 305 | MamaBear11 |
+| 740 | 305 | Narutofreak13 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -894,8 +894,8 @@
 | 886 | 258 | DesertDreamer24 |
 | 887 | 258 | Tee Jaleesa |
 | 888 | 257 | Mama T |
-| 889 | 257 | Jackie Jackie Lee |
-| 890 | 257 | Ys Muhammed |
+| 889 | 257 | Ys Muhammed |
+| 890 | 257 | Jackie Jackie Lee |
 | 891 | 257 | Queen |
 | 892 | 256 | Slinky Racker |
 | 893 | 256 | Gursharan Sandhu |
@@ -967,20 +967,20 @@
 | 959 | 238 | Trista Carter |
 | 960 | 237 | Nutty Matchline |
 | 961 | 237 | Devlin Ogg |
-| 962 | 237 | Breezy Tilt |
-| 963 | 237 | Jay Levy |
+| 962 | 237 | Jay Levy |
+| 963 | 237 | Breezy Tilt |
 | 964 | 237 | Jodi Mitnick |
 | 965 | 236 | Meli |
 | 966 | 235 | Angelica |
 | 967 | 235 | B-rad B-rad |
-| 968 | 235 | Prince Ajesh |
-| 969 | 235 | Shantel Kelley |
+| 968 | 235 | Shantel Kelley |
+| 969 | 235 | Prince Ajesh |
 | 970 | 235 | Loopy Shatterfit |
-| 971 | 234 | Trina Harrison |
+| 971 | 234 | Nikki Arlene |
 | 972 | 234 | Joanna L. Abad |
-| 973 | 234 | Nikki Arlene |
-| 974 | 234 | Lonnie Brown |
-| 975 | 234 | Synn |
+| 973 | 234 | Trina Harrison |
+| 974 | 234 | Synn |
+| 975 | 234 | Lonnie Brown |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
 | 978 | 233 | Jessica Sutter |
@@ -1186,12 +1186,12 @@
 | 1178 | 192 | Dawn Woosley Bowes |
 | 1179 | 192 | Joy Marie |
 | 1180 | 192 | Donna M Carter |
-| 1181 | 192 | Leroy Jenkins |
-| 1182 | 192 | Nicole Sanqui |
+| 1181 | 192 | Nicole Sanqui |
+| 1182 | 192 | Leroy Jenkins |
 | 1183 | 191 | Samuel Labruno |
 | 1184 | 191 | Netty |
-| 1185 | 191 | Cherry |
-| 1186 | 191 | Val Pal |
+| 1185 | 191 | Val Pal |
+| 1186 | 191 | Cherry |
 | 1187 | 190 | Lola |
 | 1188 | 190 | Jessica Kaye DeAguero |
 | 1189 | 190 | Lucero Ramirez |
