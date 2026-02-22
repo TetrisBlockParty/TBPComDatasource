@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 478 | CeceGeGe |
@@ -248,8 +248,8 @@
 | 240 | 258 | Tamara Deherrera |
 | 241 | 257 | Ashley Jones |
 | 242 | 256 | Brenda Lee Vander Molen |
-| 243 | 256 | Tiffany Davie |
-| 244 | 256 | KayB |
+| 243 | 256 | KayB |
+| 244 | 256 | Tiffany Davie |
 | 245 | 251 | Sabrina Hardrick |
 | 246 | 250 | fraulila |
 | 247 | 249 | Annie Marie |

@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -162,12 +162,12 @@
 | 154 | 227 | Swanky Fitline |
 | 155 | 225 | Damn Libra |
 | 156 | 224 | Matt Summer |
-| 157 | 223 | Kris Bartlett |
-| 158 | 223 | Antony Dwayne Beasley |
+| 157 | 223 | Antony Dwayne Beasley |
+| 158 | 223 | Kris Bartlett |
 | 159 | 222 | TheNeesh50 |
 | 160 | 222 | Joeliecea Cobb |
-| 161 | 221 | PurpleMoonMa |
-| 162 | 221 | Rheanda Weaskus |
+| 161 | 221 | Rheanda Weaskus |
+| 162 | 221 | PurpleMoonMa |
 | 163 | 220 | Matt Dell'Olio |
 | 164 | 218 | Casey Grabner |
 | 165 | 217 | Chaz Duncan |
@@ -220,8 +220,8 @@
 | 212 | 165 | Jackie Marie |
 | 213 | 164 | 030Synner |
 | 214 | 163 | Kristina Black |
-| 215 | 162 | Joanna |
-| 216 | 162 | John Brunetti |
+| 215 | 162 | John Brunetti |
+| 216 | 162 | Joanna |
 | 217 | 161 | Jenny Wells-Oakley |
 | 218 | 160 | Carlos Ramirez |
 | 219 | 160 | Brittany Marsh |

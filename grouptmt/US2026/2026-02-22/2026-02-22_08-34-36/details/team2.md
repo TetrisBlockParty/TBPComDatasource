@@ -170,8 +170,8 @@
 | 162 | 1048 | PsychKIRAtrist |
 | 163 | 1047 | Amy Sayers |
 | 164 | 1045 | Lourisha |
-| 165 | 1043 | Brave Dropmatch |
-| 166 | 1043 | Suki Kaur |
+| 165 | 1043 | Suki Kaur |
+| 166 | 1043 | Brave Dropmatch |
 | 167 | 1035 | Sarah Freitas |
 | 168 | 1026 | Heather Westrum |
 | 169 | 1023 | Brainy Smurf |
@@ -372,8 +372,8 @@
 | 364 | 541 | g |
 | 365 | 538 | Eric Castaneda |
 | 366 | 537 | Cherica Taylor |
-| 367 | 535 | Paul Huber |
-| 368 | 535 | Jessie McDougald |
+| 367 | 535 | Jessie McDougald |
+| 368 | 535 | Paul Huber |
 | 369 | 533 | Gauri Shrotriya |
 | 370 | 531 | Dizzy Zone |
 | 371 | 527 | Ryan Gunther |
