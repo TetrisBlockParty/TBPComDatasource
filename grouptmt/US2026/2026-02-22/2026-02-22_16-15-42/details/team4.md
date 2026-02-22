@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -126,14 +126,14 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Livvy |
-| 122 | 353 | Tyler Terrific |
+| 121 | 353 | Tyler Terrific |
+| 122 | 353 | Livvy |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 333 | Twisty Clicky |
-| 127 | 332 | HastyGrabber |
-| 128 | 332 | Desi Desporte |
+| 127 | 332 | Desi Desporte |
+| 128 | 332 | HastyGrabber |
 | 129 | 330 | David Lay |
 | 130 | 329 | Jessica Bohlken |
 | 131 | 329 | Amanda Pauldo-Ivy |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -332,8 +332,8 @@
 | 324 | 141 | Montiette Mcglown |
 | 325 | 141 | Tony Pavelka |
 | 326 | 140 | Rico |
-| 327 | 139 | Lori Goudy |
-| 328 | 139 | O block |
+| 327 | 139 | O block |
+| 328 | 139 | Lori Goudy |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Moonsterix |
 | 331 | 138 | Jasmine S Caldwell |

@@ -209,16 +209,16 @@
 | 201 | 349 | Amanda J. Mcneil-Anderson |
 | 202 | 346 | Tamara Deherrera |
 | 203 | 343 | Ashley Raines |
-| 204 | 341 | Noyb Adam |
-| 205 | 341 | Samantha Lynn |
+| 204 | 341 | Samantha Lynn |
+| 205 | 341 | Noyb Adam |
 | 206 | 340 | Ammmmmmy |
 | 207 | 339 | Trisha Balmer |
 | 208 | 338 | Gumbo |
 | 209 | 332 | Rich LeBlanc |
 | 210 | 330 | Rebecca Funderburk Kirby |
 | 211 | 330 | Danielle Balcom |
-| 212 | 324 | Sissy Lowery Davis |
-| 213 | 324 | Kristal C Lee |
+| 212 | 324 | Kristal C Lee |
+| 213 | 324 | Sissy Lowery Davis |
 | 214 | 323 | Demetrious Shaw Sr. |
 | 215 | 320 | Keis |
 | 216 | 320 | Ashley Muncey |
@@ -298,8 +298,8 @@
 | 290 | 236 | Lys |
 | 291 | 236 | Jess Bissett |
 | 292 | 236 | Angela Scott |
-| 293 | 233 | Josh Borquez |
-| 294 | 233 | Tony Waters |
+| 293 | 233 | Tony Waters |
+| 294 | 233 | Josh Borquez |
 | 295 | 232 | Donna |
 | 296 | 227 | Rebel124 |
 | 297 | 227 | ROODBOY |

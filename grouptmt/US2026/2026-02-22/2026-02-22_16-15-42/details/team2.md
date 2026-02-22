@@ -175,8 +175,8 @@
 | 167 | 1154 | Stacy Stickle |
 | 168 | 1147 | Kiok |
 | 169 | 1131 | Stacey Clement |
-| 170 | 1124 | Brandy Andre |
-| 171 | 1124 | Jessie McDougald |
+| 170 | 1124 | Jessie McDougald |
+| 171 | 1124 | Brandy Andre |
 | 172 | 1121 | Megan Ferguson Leone |
 | 173 | 1117 | Ricardo Burton |
 | 174 | 1113 | Anna Edwards |
@@ -214,9 +214,9 @@
 | 206 | 972 | Ashley Rose Frederick |
 | 207 | 972 | Juliana Marques Do Nascimento Gordy |
 | 208 | 960 | Jennifer Kistner |
-| 209 | 957 | Crystal Hoffman |
+| 209 | 957 | Block Master |
 | 210 | 957 | Keri Womack |
-| 211 | 957 | Block Master |
+| 211 | 957 | Crystal Hoffman |
 | 212 | 954 | Shannon Joslin |
 | 213 | 951 | Cynthia Ward |
 | 214 | 950 | Teresa Gillmore |
@@ -798,8 +798,8 @@
 | 790 | 313 | Marina Linda |
 | 791 | 312 | Heather Renee Jeffers |
 | 792 | 312 | Kiorah Blaze |
-| 793 | 311 | Audra Williams |
-| 794 | 311 | SwifftFox |
+| 793 | 311 | SwifftFox |
+| 794 | 311 | Audra Williams |
 | 795 | 311 | Megan Phillips |
 | 796 | 310 | Cheeky Brickmatch |
 | 797 | 310 | Wendy Ducheney |
@@ -807,8 +807,8 @@
 | 799 | 309 | Byung Bae Park |
 | 800 | 309 | Daniell Martinez |
 | 801 | 308 | Hyper Riseclear |
-| 802 | 308 | Kristina Marie Hanna |
-| 803 | 308 | Claire |
+| 802 | 308 | Claire |
+| 803 | 308 | Kristina Marie Hanna |
 | 804 | 308 | Katie Joy McCombs |
 | 805 | 307 | Brave Gridpiece |
 | 806 | 307 | Ethan Stienbarger |
