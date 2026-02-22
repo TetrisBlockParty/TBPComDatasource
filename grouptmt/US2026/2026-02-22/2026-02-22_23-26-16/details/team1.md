@@ -224,8 +224,8 @@
 | 216 | 254 | Al Smith Jr |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
-| 219 | 249 | Sam Williams |
-| 220 | 249 | Lakeisha Chapman |
+| 219 | 249 | Lakeisha Chapman |
+| 220 | 249 | Sam Williams |
 | 221 | 247 | Snappy Matcher |
 | 222 | 247 | John J. Cronin |
 | 223 | 245 | Matt Iaccheo |
@@ -241,8 +241,8 @@
 | 233 | 238 | Tiffany Smith |
 | 234 | 238 | Sarah Somers Gray |
 | 235 | 235 | Bindi |
-| 236 | 234 | Shanae Grant |
-| 237 | 234 | Paula Martin |
+| 236 | 234 | Paula Martin |
+| 237 | 234 | Shanae Grant |
 | 238 | 233 | LC |
 | 239 | 230 | Thorne Shumate |
 | 240 | 230 | Diane Byrd |

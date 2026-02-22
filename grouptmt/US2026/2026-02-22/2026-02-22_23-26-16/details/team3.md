@@ -235,13 +235,13 @@
 | 227 | 368 | Stephanie Woods |
 | 228 | 368 | Rebecca Funderburk Kirby |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Chummy Caster |
-| 231 | 365 | Tiffany Ford |
+| 230 | 365 | Tiffany Ford |
+| 231 | 365 | Chummy Caster |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 358 | Kristal C Lee |
-| 235 | 357 | Ammmmmmy |
-| 236 | 357 | Stephanie Burtin |
+| 235 | 357 | Stephanie Burtin |
+| 236 | 357 | Ammmmmmy |
 | 237 | 355 | Keis |
 | 238 | 351 | Eon Harris |
 | 239 | 350 | Kammy Hill |
@@ -277,14 +277,14 @@
 | 269 | 312 | LadyTorad |
 | 270 | 309 | Felicia Rocha |
 | 271 | 308 | Katrina Turner |
-| 272 | 307 | Blocked |
-| 273 | 307 | rnr junky |
+| 272 | 307 | rnr junky |
+| 273 | 307 | Blocked |
 | 274 | 303 | Alexmac |
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Angie Harper |
-| 279 | 299 | Ray Lader |
+| 278 | 299 | Ray Lader |
+| 279 | 299 | Angie Harper |
 | 280 | 298 | Grams |
 | 281 | 297 | Cheeky Snapper |
 | 282 | 297 | kacihall |

@@ -103,17 +103,17 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | Erin Thomas |
-| 99 | 513 | YoMomma |
+| 98 | 513 | YoMomma |
+| 99 | 513 | Erin Thomas |
 | 100 | 512 | Diana Houts |
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -202,8 +202,8 @@
 | 194 | 281 | Kim Klutz Olson |
 | 195 | 281 | Laura |
 | 196 | 277 | Mary Ann Pabukis |
-| 197 | 276 | Matt Dell'Olio |
-| 198 | 276 | Joeliecea Cobb |
+| 197 | 276 | Joeliecea Cobb |
+| 198 | 276 | Matt Dell'Olio |
 | 199 | 273 | Casey Grabner |
 | 200 | 272 | Alan George LaRage |
 | 201 | 272 | Dennis Bradley |
@@ -220,8 +220,8 @@
 | 212 | 261 | Dihcheese444 |
 | 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | Cheery Risebuilder |
-| 216 | 257 | PeaceOs |
+| 215 | 257 | PeaceOs |
+| 216 | 257 | Cheery Risebuilder |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -243,15 +243,15 @@
 | 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | Jade Rian |
-| 239 | 230 | blockstar |
+| 238 | 230 | blockstar |
+| 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Perky Patternblock |
 | 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
-| 245 | 221 | Rheanda Weaskus |
-| 246 | 221 | PurpleMoonMa |
+| 245 | 221 | PurpleMoonMa |
+| 246 | 221 | Rheanda Weaskus |
 | 247 | 220 | Joanna |
 | 248 | 220 | Chair |
 | 249 | 219 | Lori |
@@ -406,8 +406,8 @@
 | 398 | 147 | ĥuf |
 | 399 | 147 | Maureen Flanigan |
 | 400 | 146 | Brave Spinbuilder |
-| 401 | 145 | Glitzy Crasher |
-| 402 | 145 | Jackie Clark |
+| 401 | 145 | Jackie Clark |
+| 402 | 145 | Glitzy Crasher |
 | 403 | 144 | Squeezy Pearsall |
 | 404 | 143 | Kristin MacDonald |
 | 405 | 143 | Jasmine S Caldwell |
@@ -473,7 +473,7 @@
 | 465 | 127 | Badatvs |
 | 466 | 127 | Grann8 |
 | 467 | 126 | Snippy Clearer |
-| 468 | 126 | Amy C Brown |
+| 468 | 126 | Spicy Cascadezone |
 | 469 | 126 | PAPatty |
 | 470 | 126 | Amy C Brown |
 | 471 | 126 | Cheryl Johnson |
@@ -493,9 +493,9 @@
 | 485 | 121 | Jesse Saville |
 | 486 | 121 | Cool Gridzone |
 | 487 | 120 | Lynn Marie |
-| 488 | 120 | Jay You |
-| 489 | 120 | Christina O'Dell-Ishau |
-| 490 | 119 | Lee Silpe |
+| 488 | 120 | Christina O'Dell-Ishau |
+| 489 | 120 | Jay You |
+| 490 | 119 | River Shady Sr. |
 | 491 | 119 | George Tzouganos |
 | 492 | 119 | Richard-April Kice |
 | 493 | 119 | Lee Silpe |
