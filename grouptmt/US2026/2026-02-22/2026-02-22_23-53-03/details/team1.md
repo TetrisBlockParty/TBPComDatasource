@@ -152,8 +152,8 @@
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 357 | Jason Savage |
 | 146 | 353 | Josh Riemer |
-| 147 | 350 | Tipsy Strikerpiece |
-| 148 | 350 | Death |
+| 147 | 350 | Death |
+| 148 | 350 | Tipsy Strikerpiece |
 | 149 | 344 | Monica Donato |
 | 150 | 343 | Elaine Elaine |
 | 151 | 341 | Nick R Montague |
@@ -167,8 +167,8 @@
 | 159 | 324 | Rat666 |
 | 160 | 324 | Ananda Mendez |
 | 161 | 322 | Chelsea Dahlquist |
-| 162 | 318 | Jessica Sheehan |
-| 163 | 318 | Virginia Gray Floyd |
+| 162 | 318 | Virginia Gray Floyd |
+| 163 | 318 | Jessica Sheehan |
 | 164 | 317 | Rachael |
 | 165 | 315 | Danielle Little-Daugherty |
 | 166 | 315 | Tyler Werts |

@@ -81,8 +81,8 @@
 | 73 | 671 | Kimyatta Cavin |
 | 74 | 664 | Valerie Roberts |
 | 75 | 659 | Jonathan Kimbrough |
-| 76 | 647 | Shauna Havard |
-| 77 | 647 | KM8 |
+| 76 | 647 | KM8 |
+| 77 | 647 | Shauna Havard |
 | 78 | 646 | Jacqueline Helm |
 | 79 | 639 | TheNeesh50 |
 | 80 | 633 | Lisa Davis |
@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -109,11 +109,11 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 478 | Chilly Crasher |
 | 111 | 476 | Matt Summer |
@@ -153,8 +153,8 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Tyler Terrific |
-| 149 | 353 | Livvy |
+| 148 | 353 | Livvy |
+| 149 | 353 | Tyler Terrific |
 | 150 | 349 | Desi Desporte |
 | 151 | 348 | 🥔🥔 Spudz |
 | 152 | 348 | Silly Zonebuilder |
@@ -197,18 +197,18 @@
 | 189 | 289 | Lindsay Ball |
 | 190 | 288 | Leah Kutz Zirbel |
 | 191 | 287 | Plucky Patternblock |
-| 192 | 286 | Sam Bishop |
-| 193 | 286 | Brittney Orengo |
+| 192 | 286 | Brittney Orengo |
+| 193 | 286 | Sam Bishop |
 | 194 | 282 | Chris Bernstein |
 | 195 | 282 | Sue Joyce Staats |
 | 196 | 281 | Laura |
 | 197 | 281 | Kim Klutz Olson |
 | 198 | 277 | Mary Ann Pabukis |
-| 199 | 276 | Matt Dell'Olio |
-| 200 | 276 | Joeliecea Cobb |
+| 199 | 276 | Joeliecea Cobb |
+| 200 | 276 | Matt Dell'Olio |
 | 201 | 273 | Casey Grabner |
-| 202 | 272 | Alan George LaRage |
-| 203 | 272 | Dennis Bradley |
+| 202 | 272 | Dennis Bradley |
+| 203 | 272 | Alan George LaRage |
 | 204 | 271 | Sarah Brown |
 | 205 | 270 | Juls |
 | 206 | 269 | Nikki Rae Gordon |
@@ -296,8 +296,8 @@
 | 288 | 192 | Jackie Marie |
 | 289 | 192 | Andrew Dang |
 | 290 | 191 | Norman Klick |
-| 291 | 191 | Earnest Thompson |
-| 292 | 191 | KayM |
+| 291 | 191 | KayM |
+| 292 | 191 | Earnest Thompson |
 | 293 | 190 | Amanda Christine |
 | 294 | 190 | wombat |
 | 295 | 189 | Berklie Apedaile |

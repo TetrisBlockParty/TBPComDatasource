@@ -885,8 +885,8 @@
 | 877 | 343 | Victoria Marie Bunch |
 | 878 | 343 | Snappy Shatterfit |
 | 879 | 342 | Danielle DeLozier Plesec |
-| 880 | 342 | Theresa Sterrett |
-| 881 | 342 | SwifftFox |
+| 880 | 342 | SwifftFox |
+| 881 | 342 | Theresa Sterrett |
 | 882 | 342 | Patrick Fleming |
 | 883 | 341 | Angela Yantz |
 | 884 | 341 | Robin L. Vial |
@@ -955,8 +955,8 @@
 | 947 | 320 | Peachy Blockbuilder |
 | 948 | 320 | Kamilya Rembert |
 | 949 | 319 | Cheery Puzzler |
-| 950 | 319 | Lexa Craft Davidson |
-| 951 | 319 | Loopy Shatterfit |
+| 950 | 319 | Loopy Shatterfit |
+| 951 | 319 | Lexa Craft Davidson |
 | 952 | 318 | Natasha Marie |
 | 953 | 317 | Nancy Pohlman |
 | 954 | 317 | Jumpy Gridclear |
