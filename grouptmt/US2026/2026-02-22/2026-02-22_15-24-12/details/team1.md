@@ -128,8 +128,8 @@
 | 120 | 330 | Sweet Baker |
 | 121 | 326 | Monica Donato |
 | 122 | 325 | Jennifer Hardman |
-| 123 | 321 | Maria C. Hernandez |
-| 124 | 321 | Tanya Carpenter-Reynolds |
+| 123 | 321 | Tanya Carpenter-Reynolds |
+| 124 | 321 | Maria C. Hernandez |
 | 125 | 318 | Jessica Sheehan |
 | 126 | 316 | Ly Phethmany |
 | 127 | 316 | Dizzy Party |
@@ -149,8 +149,8 @@
 | 141 | 290 | Death |
 | 142 | 288 | GATOR |
 | 143 | 285 | Ananda Mendez |
-| 144 | 284 | Rachael |
-| 145 | 284 | Emily Adelaide Wheatley |
+| 144 | 284 | Emily Adelaide Wheatley |
+| 145 | 284 | Rachael |
 | 146 | 283 | Franswa |
 | 147 | 282 | Cool Shiftsnap |
 | 148 | 282 | Tyler Werts |

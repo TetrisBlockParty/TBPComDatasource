@@ -65,8 +65,8 @@
 | 57 | 909 | Jennifer |
 | 58 | 908 | Alanna Rogers |
 | 59 | 903 | Sarah Fehring |
-| 60 | 895 | Amanda L Baker |
-| 61 | 895 | Shonna Roberts |
+| 60 | 895 | Shonna Roberts |
+| 61 | 895 | Amanda L Baker |
 | 62 | 893 | Khristen AC |
 | 63 | 882 | Susan Valentino |
 | 64 | 881 | Nate Burnside |
@@ -97,8 +97,8 @@
 | 89 | 704 | Suzieq |
 | 90 | 696 | Christine Niles |
 | 91 | 694 | MissTaylor |
-| 92 | 662 | Speedy Bridger |
-| 93 | 662 | Jay Horn |
+| 92 | 662 | Jay Horn |
+| 93 | 662 | Speedy Bridger |
 | 94 | 641 | Queen Kam |
 | 95 | 635 | Danielle Mogg |
 | 96 | 630 | yoyo |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Patti Skiles |
-| 132 | 479 | Poppy Splitter |
+| 131 | 479 | Poppy Splitter |
+| 132 | 479 | Patti Skiles |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Mcathen |
-| 166 | 399 | Marcie Bressler |
+| 165 | 399 | Marcie Bressler |
+| 166 | 399 | Mcathen |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Araceli Parra |
@@ -183,8 +183,8 @@
 | 175 | 384 | Dapper Snap |
 | 176 | 382 | Scott Carleton |
 | 177 | 380 | Tasha Schriewer |
-| 178 | 378 | Nicole Flippo |
-| 179 | 378 | Chris Bell |
+| 178 | 378 | Chris Bell |
+| 179 | 378 | Nicole Flippo |
 | 180 | 376 | Loopy Clusterer |
 | 181 | 374 | Sherry Ogden |
 | 182 | 372 | Giddy Twistbuilder |
@@ -198,8 +198,8 @@
 | 190 | 361 | Chelsea Hall |
 | 191 | 358 | RickyG |
 | 192 | 358 | Chummy Caster |
-| 193 | 357 | Stephanie Burtin |
-| 194 | 357 | Tom Nault |
+| 193 | 357 | Tom Nault |
+| 194 | 357 | Stephanie Burtin |
 | 195 | 353 | Nora Rogers |
 | 196 | 349 | Amanda J. Mcneil-Anderson |
 | 197 | 348 | Chasity |
@@ -244,8 +244,8 @@
 | 236 | 286 | Cynthia Herrmann Egland |
 | 237 | 284 | Denise Nardoni |
 | 238 | 283 | Cheeky Snapper |
-| 239 | 283 | Eon Harris |
-| 240 | 283 | Sarah Moyer |
+| 239 | 283 | Sarah Moyer |
+| 240 | 283 | Eon Harris |
 | 241 | 282 | Marquita Sheard |
 | 242 | 282 | Brittany |
 | 243 | 281 | Carrie Huskey |
@@ -267,8 +267,8 @@
 | 259 | 262 | Ray Lader |
 | 260 | 262 | Joe-Maggie Mathews |
 | 261 | 261 | Tiffany Ford |
-| 262 | 260 | Nikki Pags |
-| 263 | 260 | Grams |
+| 262 | 260 | Grams |
+| 263 | 260 | Nikki Pags |
 | 264 | 259 | Danielle Weikel |
 | 265 | 257 | Ashley Jones |
 | 266 | 256 | KayB |
@@ -296,8 +296,8 @@
 | 288 | 227 | Krystal Gerstberger |
 | 289 | 227 | Meowsa |
 | 290 | 227 | ROODBOY |
-| 291 | 225 | Stephanie Hill |
-| 292 | 225 | Dirtgirl27 |
+| 291 | 225 | Dirtgirl27 |
+| 292 | 225 | Stephanie Hill |
 | 293 | 225 | Steffi Chris Dacones |
 | 294 | 223 | Rebel124 |
 | 295 | 223 | Michael Lucado |
@@ -309,12 +309,12 @@
 | 301 | 220 | Tosha Griffey |
 | 302 | 217 | Twisty Brick LT |
 | 303 | 216 | Cheryl Hinch Tenbrook |
-| 304 | 216 | Frothy Snapper |
-| 305 | 216 | Tina Smith Roy |
+| 304 | 216 | Tina Smith Roy |
+| 305 | 216 | Frothy Snapper |
 | 306 | 215 | IamJust Neyamijah Washington Sr. |
 | 307 | 214 | Amy Fuller Heaton |
-| 308 | 214 | Jennifer Alvey |
-| 309 | 214 | Lizabeth Fox |
+| 308 | 214 | Lizabeth Fox |
+| 309 | 214 | Jennifer Alvey |
 | 310 | 213 | Nicholas Roddy |
 | 311 | 212 | Sunny Rotater |
 | 312 | 212 | Jana Polk |
@@ -324,8 +324,8 @@
 | 316 | 210 | April Matthew Kibble |
 | 317 | 210 | Criss |
 | 318 | 209 | Micayah Stevens |
-| 319 | 208 | AlsoJess |
-| 320 | 208 | Niki Dalrymple |
+| 319 | 208 | Niki Dalrymple |
+| 320 | 208 | AlsoJess |
 | 321 | 207 | angieelyn |
 | 322 | 207 | Jessica |
 | 323 | 207 | Daring Builder |
