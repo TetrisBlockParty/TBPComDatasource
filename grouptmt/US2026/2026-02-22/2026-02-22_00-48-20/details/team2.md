@@ -250,8 +250,8 @@
 | 242 | 596 | Maegan Beaule |
 | 243 | 589 | Thomas Hedrick |
 | 244 | 587 | Hyper Cluster |
-| 245 | 586 | Stephen Stephen |
-| 246 | 586 | Hoppy Brickmatch |
+| 245 | 586 | Hoppy Brickmatch |
+| 246 | 586 | Stephen Stephen |
 | 247 | 583 | Jessicah Myers |
 | 248 | 583 | Steve Grotto |
 | 249 | 582 | Gary Stash |
@@ -320,8 +320,8 @@
 | 312 | 470 | Jerry Tempelmeyer |
 | 313 | 469 | Jai Jackson |
 | 314 | 469 | Ashley Rose Frederick |
-| 315 | 469 | Ashley Lopez |
-| 316 | 469 | Amélie Cadieux |
+| 315 | 469 | Amélie Cadieux |
+| 316 | 469 | Ashley Lopez |
 | 317 | 468 | Drwatson187 |
 | 318 | 467 | Scott Treadway |
 | 319 | 467 | Dedra Steward |
@@ -408,8 +408,8 @@
 | 400 | 386 | Irene Jones |
 | 401 | 384 | Mike Aprilliano |
 | 402 | 383 | Arkei Luster |
-| 403 | 382 | KhaosLord |
-| 404 | 382 | David Holliday |
+| 403 | 382 | David Holliday |
+| 404 | 382 | KhaosLord |
 | 405 | 382 | Alexandra Weir |
 | 406 | 381 | Melissa Rebbe-Lehman |
 | 407 | 381 | Taylor Phillips |
@@ -1054,7 +1054,7 @@
 | 1046 | 157 | Boldy Cascade |
 | 1047 | 157 | Preya Patel |
 | 1048 | 157 | Madysen Holt |
-| 1049 | 157 | Preya Patel |
+| 1049 | 157 | Lively Piecebuilder |
 | 1050 | 157 | Ryley Laughlin |
 | 1051 | 157 | Loopy Shatterfit |
 | 1052 | 156 | Jennifer Foster |

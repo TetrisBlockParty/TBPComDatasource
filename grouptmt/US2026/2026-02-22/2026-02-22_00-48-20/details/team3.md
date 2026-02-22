@@ -66,8 +66,8 @@
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Ebony West-Cundiff |
-| 62 | 621 | Cherry Parker |
+| 61 | 621 | Cherry Parker |
+| 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
 | 65 | 618 | MissTaylor |
@@ -139,8 +139,8 @@
 | 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
 | 137 | 328 | Dapper Snap |
 | 138 | 328 | Aaron Pitkin |

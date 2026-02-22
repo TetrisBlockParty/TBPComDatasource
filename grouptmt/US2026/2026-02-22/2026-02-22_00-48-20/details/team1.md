@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Trippy Redd |
-| 114 | 243 | Chelsea Dahlquist |
+| 113 | 243 | Chelsea Dahlquist |
+| 114 | 243 | Trippy Redd |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -172,16 +172,16 @@
 | 164 | 170 | Veronica Eve |
 | 165 | 169 | Abbey Crespo |
 | 166 | 168 | Standia Civil |
-| 167 | 167 | Erin Hodges Plumb |
-| 168 | 167 | Nery Martinez |
-| 169 | 166 | Jessie Lynn |
-| 170 | 166 | Rico Rico |
+| 167 | 167 | Nery Martinez |
+| 168 | 167 | Erin Hodges Plumb |
+| 169 | 166 | Rico Rico |
+| 170 | 166 | Jessie Lynn |
 | 171 | 165 | Nadine Velardo |
 | 172 | 163 | Tyler Whitley |
 | 173 | 162 | Cece Ibarra |
 | 174 | 161 | SavageBooty98 |
-| 175 | 159 | David Miller |
-| 176 | 159 | Bindi |
+| 175 | 159 | Bindi |
+| 176 | 159 | David Miller |
 | 177 | 158 | Sarah Marie |
 | 178 | 158 | Arianna O'Brien |
 | 179 | 157 | Angela Fairbank |
@@ -191,10 +191,10 @@
 | 183 | 152 | Speedy Snapfall |
 | 184 | 152 | Jacqueline Unique |
 | 185 | 150 | Adele Rahman |
-| 186 | 148 | Bouncy Grid |
-| 187 | 148 | Shauntina Burke |
-| 188 | 147 | DaRascal |
-| 189 | 147 | Davery Spencer Adair |
+| 186 | 148 | Shauntina Burke |
+| 187 | 148 | Bouncy Grid |
+| 188 | 147 | Davery Spencer Adair |
+| 189 | 147 | DaRascal |
 | 190 | 146 | Brave Wrecker |
 | 191 | 145 | Mel Hogan |
 | 192 | 145 | Agustin Duarte Orozco |
