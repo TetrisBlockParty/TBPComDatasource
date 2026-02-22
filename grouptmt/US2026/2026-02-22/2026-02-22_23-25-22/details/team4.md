@@ -80,8 +80,8 @@
 | 72 | 664 | Julian Garcia |
 | 73 | 664 | Valerie Roberts |
 | 74 | 659 | Jonathan Kimbrough |
-| 75 | 647 | KM8 |
-| 76 | 647 | Shauna Havard |
+| 75 | 647 | Shauna Havard |
+| 76 | 647 | KM8 |
 | 77 | 646 | Jacqueline Helm |
 | 78 | 633 | Lisa Davis |
 | 79 | 628 | TheNeesh50 |
@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -109,8 +109,8 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -176,8 +176,8 @@
 | 168 | 314 | TRCuse |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
-| 171 | 307 | Bio Nelly |
-| 172 | 307 | Girl |
+| 171 | 307 | Girl |
+| 172 | 307 | Bio Nelly |
 | 173 | 304 | Chaz Duncan |
 | 174 | 303 | shark tato |
 | 175 | 302 | Cursed Hag |
@@ -197,10 +197,10 @@
 | 189 | 288 | Leah Kutz Zirbel |
 | 190 | 287 | Plucky Patternblock |
 | 191 | 286 | Brittney Orengo |
-| 192 | 282 | Chris Bernstein |
-| 193 | 282 | Sue Joyce Staats |
-| 194 | 281 | Laura |
-| 195 | 281 | Kim Klutz Olson |
+| 192 | 282 | Sue Joyce Staats |
+| 193 | 282 | Chris Bernstein |
+| 194 | 281 | Kim Klutz Olson |
+| 195 | 281 | Laura |
 | 196 | 277 | Mary Ann Pabukis |
 | 197 | 276 | Matt Dell'Olio |
 | 198 | 276 | Joeliecea Cobb |
@@ -208,8 +208,8 @@
 | 200 | 272 | Alan George LaRage |
 | 201 | 272 | Dennis Bradley |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Sam Bishop |
 | 207 | 268 | Mimi |
@@ -235,20 +235,20 @@
 | 227 | 245 | 23 |
 | 228 | 245 | Adam Stephanie Parker |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | JPW |
+| 230 | 241 | Chris Hartig |
 | 231 | 241 | Allen Lloyd |
-| 232 | 241 | Chris Hartig |
+| 232 | 241 | JPW |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Chaz |
-| 235 | 238 | Zesty Twistbuilder |
+| 234 | 238 | Zesty Twistbuilder |
+| 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
 | 238 | 230 | Jade Rian |
 | 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Jenna McGeorge |
-| 243 | 225 | Perky Patternblock |
+| 242 | 225 | Perky Patternblock |
+| 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | PurpleMoonMa |
 | 246 | 221 | Rheanda Weaskus |

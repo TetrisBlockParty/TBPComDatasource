@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Giggly Builderline |
-| 216 | 254 | Al Smith Jr |
+| 215 | 254 | Al Smith Jr |
+| 216 | 254 | Giggly Builderline |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Lakeisha Chapman |
@@ -238,8 +238,8 @@
 | 230 | 240 | DaRascal |
 | 231 | 240 | Daring Fitclear |
 | 232 | 239 | Lacy Wolfe |
-| 233 | 238 | Tiffany Smith |
-| 234 | 238 | Sarah Somers Gray |
+| 233 | 238 | Sarah Somers Gray |
+| 234 | 238 | Tiffany Smith |
 | 235 | 235 | Bindi |
 | 236 | 234 | Paula Martin |
 | 237 | 234 | Shanae Grant |
@@ -269,8 +269,8 @@
 | 261 | 216 | Chad Atchley |
 | 262 | 215 | Shaykmia |
 | 263 | 215 | Panda Thagreat |
-| 264 | 213 | John Barron |
-| 265 | 213 | Angela Fairbank |
+| 264 | 213 | Angela Fairbank |
+| 265 | 213 | John Barron |
 | 266 | 212 | Michelle Beres |
 | 267 | 212 | Cece Ibarra |
 | 268 | 211 | Jeanna Dunn |
@@ -283,8 +283,8 @@
 | 275 | 207 | Katie Martin |
 | 276 | 205 | Tyler L Hunt |
 | 277 | 204 | Chris Sigurdson |
-| 278 | 203 | Andrew Boone |
-| 279 | 203 | Spunky Builderpiece |
+| 278 | 203 | Spunky Builderpiece |
+| 279 | 203 | Andrew Boone |
 | 280 | 202 | Amanda Holibaugh |
 | 281 | 201 | Colleen Wise |
 | 282 | 201 | Melissa Lemmon |
