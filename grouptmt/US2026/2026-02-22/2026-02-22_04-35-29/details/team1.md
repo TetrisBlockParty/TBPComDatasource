@@ -174,8 +174,8 @@
 | 166 | 191 | Diane Byrd |
 | 167 | 190 | Thorne Shumate |
 | 168 | 190 | Sweetts |
-| 169 | 189 | Michael |
-| 170 | 189 | Jeanna Dunn |
+| 169 | 189 | Jeanna Dunn |
+| 170 | 189 | Michael |
 | 171 | 188 | Sam Williams |
 | 172 | 187 | Snippy Wipebuilder |
 | 173 | 187 | Jennifer Olewnik Soborowski |
@@ -229,8 +229,8 @@
 | 221 | 150 | Agustin Duarte Orozco |
 | 222 | 150 | Adele Rahman |
 | 223 | 149 | Chirpy Smasher |
-| 224 | 147 | Davery Spencer Adair |
-| 225 | 147 | J.F. Fields |
+| 224 | 147 | J.F. Fields |
+| 225 | 147 | Davery Spencer Adair |
 | 226 | 146 | Witty Builderfit |
 | 227 | 145 | Tipsy Riseclear |
 | 228 | 144 | Miguel Teixeira |
@@ -274,8 +274,8 @@
 | 266 | 124 | Howdi Duty |
 | 267 | 123 | Zany Tiler |
 | 268 | 122 | Nate Funk |
-| 269 | 121 | Jacob Shaddock |
-| 270 | 121 | Jamie Jury |
+| 269 | 121 | Jamie Jury |
+| 270 | 121 | Jacob Shaddock |
 | 271 | 120 | DoodleBug |
 | 272 | 118 | Tyler Hertzog |
 | 273 | 118 | Garcia Bailey |
@@ -283,9 +283,9 @@
 | 275 | 116 | Debbie Davis |
 | 276 | 116 | Fresno Beotoni |
 | 277 | 115 | Mrs.Patrica |
-| 278 | 114 | Rachel Nichole Henry |
-| 279 | 114 | Angela Rena Brooks |
-| 280 | 114 | Constance Risner |
+| 278 | 114 | Constance Risner |
+| 279 | 114 | Rachel Nichole Henry |
+| 280 | 114 | Angela Rena Brooks |
 | 281 | 113 | Itspaigebro |
 | 282 | 112 | Nerdy Curvebuilder |
 | 283 | 112 | Crystal Joslin |

@@ -43,8 +43,8 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Rachel Anne |
-| 39 | 697 | Edward White |
+| 38 | 697 | Edward White |
+| 39 | 697 | Rachel Anne |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |

@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | Gabby Jenner |
-| 76 | 1603 | RdRydnHd |
+| 75 | 1603 | RdRydnHd |
+| 76 | 1603 | Gabby Jenner |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1587 | Rob Riggin |
 | 79 | 1553 | Charie Holland |
@@ -148,8 +148,8 @@
 | 140 | 1051 | Shandrica Lowe |
 | 141 | 1048 | PsychKIRAtrist |
 | 142 | 1047 | Amy Sayers |
-| 143 | 1043 | Suki Kaur |
-| 144 | 1043 | Brave Dropmatch |
+| 143 | 1043 | Brave Dropmatch |
+| 144 | 1043 | Suki Kaur |
 | 145 | 1032 | Sarah Freitas |
 | 146 | 1026 | Heather Westrum |
 | 147 | 1023 | Brainy Smurf |
@@ -242,9 +242,9 @@
 | 234 | 705 | Lola Contreras |
 | 235 | 704 | Shelley Thornburgh Wright |
 | 236 | 703 | Gold Rose |
-| 237 | 700 | Vincent Petrella |
-| 238 | 700 | Beverly Owens |
-| 239 | 700 | Rosemadder |
+| 237 | 700 | Beverly Owens |
+| 238 | 700 | Rosemadder |
+| 239 | 700 | Vincent Petrella |
 | 240 | 698 | Mighty Shatterfit |
 | 241 | 697 | Dreamy Blast |
 | 242 | 692 | Dannette Goldberg-Richards |
@@ -669,8 +669,8 @@
 | 661 | 289 | August Hale |
 | 662 | 289 | Bella Novia |
 | 663 | 288 | thranduil |
-| 664 | 288 | Jenna Nance |
-| 665 | 288 | Kristi Biddinger |
+| 664 | 288 | Kristi Biddinger |
+| 665 | 288 | Jenna Nance |
 | 666 | 288 | Ashley Criner |
 | 667 | 287 | Toni Roberson |
 | 668 | 287 | Brave Gridpiece |

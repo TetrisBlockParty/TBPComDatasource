@@ -298,8 +298,8 @@
 | 290 | 174 | Betty Rosas |
 | 291 | 174 | fraulila |
 | 292 | 174 | Lesley Perez |
-| 293 | 173 | BŘŰŤİÇŨŚ |
-| 294 | 173 | Denita Mungro |
+| 293 | 173 | Denita Mungro |
+| 294 | 173 | BŘŰŤİÇŨŚ |
 | 295 | 171 | Emma |
 | 296 | 170 | Cesar Barraza |
 | 297 | 169 | Peachy Rollfit |
@@ -564,8 +564,8 @@
 | 556 | 90 | Dirtgirl27 |
 | 557 | 90 | Justin Ernst |
 | 558 | 89 | Frothy Racker |
-| 559 | 89 | Jessica Lynn French |
-| 560 | 89 | Kristen McAlpine |
+| 559 | 89 | Kristen McAlpine |
+| 560 | 89 | Jessica Lynn French |
 | 561 | 89 | Matty Ray |
 | 562 | 88 | Bree Sexton |
 | 563 | 88 | Cyd061769 |
