@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -187,8 +187,8 @@
 | 179 | 210 | Zethra Prenisha Rahming |
 | 180 | 207 | Chirpy Basepiece |
 | 181 | 205 | Kathy Brookins |
-| 182 | 204 | Jen Caldwell |
-| 183 | 204 | Carlos Ramirez |
+| 182 | 204 | Carlos Ramirez |
+| 183 | 204 | Jen Caldwell |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
 | 186 | 201 | Chance Strickland |

@@ -176,8 +176,8 @@
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Danielle Allison |
-| 172 | 370 | Santeria Trece Candles |
+| 171 | 370 | Santeria Trece Candles |
+| 172 | 370 | Danielle Allison |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -185,8 +185,8 @@
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | RickyG |
 | 179 | 358 | Chummy Caster |
-| 180 | 357 | Tom Nault |
-| 181 | 357 | Stephanie Burtin |
+| 180 | 357 | Stephanie Burtin |
+| 181 | 357 | Tom Nault |
 | 182 | 355 | Tessina Dewey-Mancino |
 | 183 | 353 | Shunta Jacobs |
 | 184 | 353 | Nora Rogers |
@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 269 | Eon Harris |
 | 239 | 268 | Carrie Huskey |
@@ -260,8 +260,8 @@
 | 252 | 256 | Tiffany Davie |
 | 253 | 256 | KayB |
 | 254 | 250 | fraulila |
-| 255 | 249 | JerseyJess |
-| 256 | 249 | Annie Marie |
+| 255 | 249 | Annie Marie |
+| 256 | 249 | JerseyJess |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
 | 259 | 244 | LaNette Morgan |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Staci George Fitzsimmons |
-| 308 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Tipsy Zonebuilder |
+| 308 | 202 | Staci George Fitzsimmons |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | glichmod |
@@ -490,9 +490,9 @@
 | 482 | 123 | Michael Latasha Gray |
 | 483 | 123 | Amanda Declue |
 | 484 | 123 | Silly Curvetile |
-| 485 | 122 | Jess Meyers |
+| 485 | 122 | BabyTonj Evans |
 | 486 | 122 | Lisa Ann |
-| 487 | 122 | BabyTonj Evans |
+| 487 | 122 | Jess Meyers |
 | 488 | 122 | Scouty |
 | 489 | 122 | Amber Groover Taylor |
 | 490 | 122 | Nichol Graham |
