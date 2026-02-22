@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | Valerie Roberts |
-| 65 | 664 | loulou |
+| 64 | 664 | loulou |
+| 65 | 664 | Valerie Roberts |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -159,8 +159,8 @@
 | 151 | 290 | Keshia Lyons |
 | 152 | 289 | Jessica Lynn Cutlip |
 | 153 | 288 | Leah Kutz Zirbel |
-| 154 | 286 | shark tato |
-| 155 | 286 | Brittney Orengo |
+| 154 | 286 | Brittney Orengo |
+| 155 | 286 | shark tato |
 | 156 | 282 | Rafael Valentin |
 | 157 | 281 | Lindsay Ball |
 | 158 | 281 | Klo |
@@ -277,8 +277,8 @@
 | 269 | 166 | SammieJo Guy |
 | 270 | 166 | KimoKoala |
 | 271 | 166 | Megan Cutshaw |
-| 272 | 165 | James Hurley Jr. |
-| 273 | 165 | Brittany Marsh |
+| 272 | 165 | Brittany Marsh |
+| 273 | 165 | James Hurley Jr. |
 | 274 | 165 | Zappy Buildgrid |
 | 275 | 164 | Marvetta Williams |
 | 276 | 163 | Ellen Durfee |

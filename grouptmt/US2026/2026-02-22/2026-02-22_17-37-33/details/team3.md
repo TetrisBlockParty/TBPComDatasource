@@ -127,8 +127,8 @@
 | 119 | 574 | Morgan Martinez |
 | 120 | 568 | Rachael McClain Owens |
 | 121 | 566 | Dolores Falco |
-| 122 | 562 | Dave Herzog |
-| 123 | 562 | Louise Stacy Sisson |
+| 122 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Dave Herzog |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -187,9 +187,9 @@
 | 179 | 398 | Sherry Ogden |
 | 180 | 397 | Annie Déè |
 | 181 | 393 | Fallorina Susana |
-| 182 | 391 | Calista Jo Dickson |
-| 183 | 391 | Araceli Parra |
-| 184 | 391 | Sarah Cowan Burgos |
+| 182 | 391 | Araceli Parra |
+| 183 | 391 | Sarah Cowan Burgos |
+| 184 | 391 | Calista Jo Dickson |
 | 185 | 391 | Dapper Snap |
 | 186 | 390 | Chasity |
 | 187 | 390 | Shunta Jacobs |
@@ -218,8 +218,8 @@
 | 210 | 344 | Roary Danner |
 | 211 | 344 | Trisha Balmer |
 | 212 | 343 | Ashley Raines |
-| 213 | 341 | Noyb Adam |
-| 214 | 341 | Samantha Lynn |
+| 213 | 341 | Samantha Lynn |
+| 214 | 341 | Noyb Adam |
 | 215 | 340 | Ammmmmmy |
 | 216 | 339 | Rania Zaqout |
 | 217 | 338 | Gumbo |
@@ -304,8 +304,8 @@
 | 296 | 240 | Eric Caccavale |
 | 297 | 240 | Jimmie Clemons |
 | 298 | 238 | Niki Dalrymple |
-| 299 | 236 | Angela Scott |
-| 300 | 236 | Lys |
+| 299 | 236 | Lys |
+| 300 | 236 | Angela Scott |
 | 301 | 236 | Jess Bissett |
 | 302 | 233 | Tony Waters |
 | 303 | 232 | Donna |
@@ -314,8 +314,8 @@
 | 306 | 230 | BigE |
 | 307 | 228 | Naur |
 | 308 | 227 | Rebel124 |
-| 309 | 227 | Meowsa |
-| 310 | 227 | ROODBOY |
+| 309 | 227 | ROODBOY |
+| 310 | 227 | Meowsa |
 | 311 | 226 | Jana Polk |
 | 312 | 225 | Stephanie Hill |
 | 313 | 225 | Dirtgirl27 |

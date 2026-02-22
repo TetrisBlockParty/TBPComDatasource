@@ -295,13 +295,13 @@
 | 287 | 787 | Laura McCarthey |
 | 288 | 783 | Lisa Ongtowasruk |
 | 289 | 781 | Angie Bolton Workman |
-| 290 | 777 | Tesha Oldaker |
-| 291 | 777 | Jessicah Myers |
+| 290 | 777 | Jessicah Myers |
+| 291 | 777 | Tesha Oldaker |
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
-| 295 | 767 | Ashley Lopez |
-| 296 | 767 | Dee |
+| 295 | 767 | Dee |
+| 296 | 767 | Ashley Lopez |
 | 297 | 763 | Beth |
 | 298 | 763 | Heather Causey |
 | 299 | 761 | Hyper Cluster |
@@ -335,8 +335,8 @@
 | 327 | 700 | Beverly Owens |
 | 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Dreamy Blast |
-| 331 | 697 | Ashle Scranton |
+| 330 | 697 | Ashle Scranton |
+| 331 | 697 | Dreamy Blast |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -345,8 +345,8 @@
 | 337 | 688 | Leslie Ann Carter |
 | 338 | 688 | ShinyRose |
 | 339 | 686 | Ashley Guernsey-Martin |
-| 340 | 685 | Binyah-Binyah |
-| 341 | 685 | Brenda Pierpoint |
+| 340 | 685 | Brenda Pierpoint |
+| 341 | 685 | Binyah-Binyah |
 | 342 | 682 | Poldo Ilano |
 | 343 | 680 | blume |
 | 344 | 679 | Kassandra Hunt |
