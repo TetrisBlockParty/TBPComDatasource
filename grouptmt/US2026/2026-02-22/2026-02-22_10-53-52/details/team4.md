@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -137,8 +137,8 @@
 | 129 | 286 | Daria Rycewicz |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
-| 132 | 278 | Desi Desporte |
-| 133 | 278 | Carrie Brian |
+| 132 | 278 | Carrie Brian |
+| 133 | 278 | Desi Desporte |
 | 134 | 277 | Mary Ann Pabukis |
 | 135 | 277 | Scott Jameson |
 | 136 | 275 | Dizzy Tiley |
@@ -184,12 +184,12 @@
 | 176 | 210 | Zethra Prenisha Rahming |
 | 177 | 207 | Chirpy Basepiece |
 | 178 | 205 | Kathy Brookins |
-| 179 | 204 | Jen Caldwell |
-| 180 | 204 | Carlos Ramirez |
+| 179 | 204 | Carlos Ramirez |
+| 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Melvin Baird |
-| 184 | 201 | Chance Strickland |
+| 183 | 201 | Chance Strickland |
+| 184 | 201 | Melvin Baird |
 | 185 | 200 | Laura |
 | 186 | 198 | Ruben Wheeler |
 | 187 | 198 | Keith Kelley |
@@ -201,10 +201,10 @@
 | 193 | 195 | ZeeZee |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Sam Bishop |
-| 197 | 191 | Klo |
-| 198 | 190 | Alan George LaRage |
-| 199 | 190 | Cheery Risebuilder |
+| 196 | 191 | Klo |
+| 197 | 191 | Sam Bishop |
+| 198 | 190 | Cheery Risebuilder |
+| 199 | 190 | Alan George LaRage |
 | 200 | 189 | Calvin Dennis |
 | 201 | 189 | Stacey Stano |
 | 202 | 188 | Andria Lynn |
@@ -232,11 +232,11 @@
 | 224 | 165 | Zappy Buildgrid |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | John Brunetti |
-| 228 | 162 | Joanna |
+| 227 | 162 | Joanna |
+| 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Laura Hosford |
-| 231 | 160 | Brittany Marsh |
+| 230 | 160 | Brittany Marsh |
+| 231 | 160 | Laura Hosford |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |
@@ -258,8 +258,8 @@
 | 250 | 147 | Jay28 |
 | 251 | 147 | B Renee Desjardin |
 | 252 | 147 | Jared Gutwein |
-| 253 | 145 | Sandra Safford |
-| 254 | 145 | Mimi |
+| 253 | 145 | Mimi |
+| 254 | 145 | Sandra Safford |
 | 255 | 144 | Sticherella |
 | 256 | 143 | Ruby Khalisadar |
 | 257 | 143 | Dennis Bradley |
