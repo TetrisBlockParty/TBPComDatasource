@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Kay |
-| 46 | 989 | Joey Banks |
+| 45 | 989 | Joey Banks |
+| 46 | 989 | Kay |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -235,9 +235,9 @@
 | 227 | 263 | Brittany |
 | 228 | 263 | Angeline Joseph |
 | 229 | 262 | Joe-Maggie Mathews |
-| 230 | 261 | Tiffany Ford |
-| 231 | 261 | Tasha Wesson-Torrence |
-| 232 | 261 | Marquita Sheard |
+| 230 | 261 | Marquita Sheard |
+| 231 | 261 | Tiffany Ford |
+| 232 | 261 | Tasha Wesson-Torrence |
 | 233 | 260 | Grams |
 | 234 | 259 | Danielle Weikel |
 | 235 | 258 | Tamara Deherrera |
@@ -332,8 +332,8 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Peachy Rollfit |
-| 328 | 169 | Naur |
+| 327 | 169 | Naur |
+| 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
 | 330 | 168 | Trice Thomas |
 | 331 | 168 | April Matthew Kibble |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Lys |
-| 362 | 153 | Sheila M Frazier |
+| 361 | 153 | Sheila M Frazier |
+| 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |
@@ -406,8 +406,8 @@
 | 398 | 139 | Paula Little |
 | 399 | 138 | Skinny Baldez |
 | 400 | 138 | Bleu Sun Beams |
-| 401 | 137 | Reina Roth |
-| 402 | 137 | Giggly Brickroll |
+| 401 | 137 | Giggly Brickroll |
+| 402 | 137 | Reina Roth |
 | 403 | 137 | Arden White Kirsch |
 | 404 | 136 | Sabrina Mansfield |
 | 405 | 136 | Crystal Hine |

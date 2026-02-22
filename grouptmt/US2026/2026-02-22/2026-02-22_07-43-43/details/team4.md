@@ -34,8 +34,8 @@
 | 26 | 886 | Dustin Robert |
 | 27 | 880 | Koshin Abdirahman |
 | 28 | 879 | Heather Tushner |
-| 29 | 873 | Elizabeth Sallas |
-| 30 | 873 | Michelle Pearman |
+| 29 | 873 | Michelle Pearman |
+| 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
 | 33 | 843 | Lucille Truesdale |
@@ -82,8 +82,8 @@
 | 74 | 483 | TeeJ |
 | 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Erin Thomas |
-| 78 | 447 | Samantha Peterson |
+| 77 | 447 | Samantha Peterson |
+| 78 | 447 | Erin Thomas |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -121,15 +121,15 @@
 | 113 | 303 | Lauren Scott |
 | 114 | 300 | Jason Hart |
 | 115 | 298 | Lucas J Sutton |
-| 116 | 296 | HastyGrabber |
-| 117 | 296 | Justin Hannigan |
+| 116 | 296 | Justin Hannigan |
+| 117 | 296 | HastyGrabber |
 | 118 | 295 | Latisha Davis |
 | 119 | 294 | Kesha Brady |
 | 120 | 290 | 🥔🥔 Spudz |
 | 121 | 288 | Leslie Nicole |
 | 122 | 287 | Shannon Ferrari |
-| 123 | 286 | Daria Rycewicz |
-| 124 | 286 | shark tato |
+| 123 | 286 | shark tato |
+| 124 | 286 | Daria Rycewicz |
 | 125 | 283 | Brittney Orengo |
 | 126 | 281 | Meagan Nicole |
 | 127 | 278 | Carrie Brian |
@@ -239,12 +239,12 @@
 | 231 | 149 | Shainne Brewer |
 | 232 | 149 | Tanner Lund |
 | 233 | 148 | Janita Parrish |
-| 234 | 147 | Jay28 |
-| 235 | 147 | B Renee Desjardin |
-| 236 | 147 | Jared Gutwein |
+| 234 | 147 | Jared Gutwein |
+| 235 | 147 | Jay28 |
+| 236 | 147 | B Renee Desjardin |
 | 237 | 146 | Ultramarine |
-| 238 | 145 | Mimi |
-| 239 | 145 | Sandra Safford |
+| 238 | 145 | Sandra Safford |
+| 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
 | 241 | 143 | Zesty Twistbuilder |
 | 242 | 143 | Dennis Bradley |
@@ -353,7 +353,7 @@
 | 345 | 108 | Walter Beltran |
 | 346 | 107 | Marcela Johnson |
 | 347 | 107 | Brandi Durig |
-| 348 | 107 | Marcela Johnson |
+| 348 | 107 | Silly SeaWeed |
 | 349 | 106 | Zappy Snaplink |
 | 350 | 106 | Jacob Richard |
 | 351 | 105 | Zesty Linkgrid |

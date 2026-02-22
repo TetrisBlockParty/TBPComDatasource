@@ -161,8 +161,8 @@
 | 153 | 230 | Frothy Pattern |
 | 154 | 230 | Billie Dawn Sparks |
 | 155 | 229 | David Lutcher |
-| 156 | 226 | Kandae |
-| 157 | 226 | Sleepysloath5745 |
+| 156 | 226 | Sleepysloath5745 |
+| 157 | 226 | Kandae |
 | 158 | 218 | LC |
 | 159 | 218 | Witty Builderfit |
 | 160 | 217 | Dizzy Party |
@@ -184,8 +184,8 @@
 | 176 | 206 | BadG52 |
 | 177 | 205 | Tater |
 | 178 | 204 | Lacy Wolfe |
-| 179 | 203 | Paula Martin |
-| 180 | 203 | LaFontaine Leslie |
+| 179 | 203 | LaFontaine Leslie |
+| 180 | 203 | Paula Martin |
 | 181 | 201 | Colleen Wise |
 | 182 | 201 | Sam Williams |
 | 183 | 200 | Debbie Davis |
@@ -222,8 +222,8 @@
 | 214 | 176 | Mel Hogan |
 | 215 | 175 | John Barron |
 | 216 | 174 | Cheeky Pop |
-| 217 | 173 | Gabrielle Louise Malloch |
-| 218 | 173 | Rico Rico |
+| 217 | 173 | Rico Rico |
+| 218 | 173 | Gabrielle Louise Malloch |
 | 219 | 172 | Phu ckalldems |
 | 220 | 171 | David DeSantis |
 | 221 | 171 | Greg Premoe |
