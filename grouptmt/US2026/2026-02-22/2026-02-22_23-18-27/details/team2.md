@@ -401,8 +401,8 @@
 | 393 | 698 | Joce Lynn |
 | 394 | 698 | Spunkysmom |
 | 395 | 697 | Ashle Scranton |
-| 396 | 695 | Lakeysha Dortch |
-| 397 | 695 | Arkei Luster |
+| 396 | 695 | Arkei Luster |
+| 397 | 695 | Lakeysha Dortch |
 | 398 | 688 | Poldo Ilano |
 | 399 | 686 | Ashley Guernsey-Martin |
 | 400 | 682 | BeQuo |

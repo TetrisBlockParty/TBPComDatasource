@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Al Smith Jr |
-| 216 | 254 | Giggly Builderline |
+| 215 | 254 | Giggly Builderline |
+| 216 | 254 | Al Smith Jr |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Lakeisha Chapman |
@@ -235,8 +235,8 @@
 | 227 | 244 | Eddie Dillon |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
-| 230 | 240 | DaRascal |
-| 231 | 240 | Daring Fitclear |
+| 230 | 240 | Daring Fitclear |
+| 231 | 240 | DaRascal |
 | 232 | 239 | Lacy Wolfe |
 | 233 | 238 | Sarah Somers Gray |
 | 234 | 238 | Tiffany Smith |
@@ -410,9 +410,9 @@
 | 402 | 150 | DoodleBug |
 | 403 | 150 | 윤이나 |
 | 404 | 149 | MIKOZ |
-| 405 | 149 | Logan McFarland |
-| 406 | 149 | Kimberly Davis |
-| 407 | 148 | Nate Price |
+| 405 | 149 | Kimberly Davis |
+| 406 | 149 | Logan McFarland |
+| 407 | 148 | Dizzy Rackham |
 | 408 | 148 | Sir-Franchise Drake |
 | 409 | 148 | Nate Price |
 | 410 | 147 | Isaiah |

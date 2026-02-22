@@ -95,8 +95,8 @@
 | 87 | 860 | Sunny Rotater |
 | 88 | 849 | Danielle Becker |
 | 89 | 848 | Patricia Gadsden |
-| 90 | 838 | Sarajane Lokan |
-| 91 | 838 | MissTaylor |
+| 90 | 838 | MissTaylor |
+| 91 | 838 | Sarajane Lokan |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Jay Horn |
@@ -164,8 +164,8 @@
 | 156 | 517 | Denise Nardoni |
 | 157 | 516 | Elissa S-k |
 | 158 | 512 | Silly Twist |
-| 159 | 506 | Sashay Tapae Simpson |
-| 160 | 506 | Stephanie Blkpep Davidson |
+| 159 | 506 | Stephanie Blkpep Davidson |
+| 160 | 506 | Sashay Tapae Simpson |
 | 161 | 505 | Danielle Balcom |
 | 162 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 163 | 502 | Snappy Balancer |
@@ -296,10 +296,10 @@
 | 288 | 291 | Carrie Huskey |
 | 289 | 289 | DidIdothat |
 | 290 | 287 | Sabrina Hardrick |
-| 291 | 282 | Hanna Kim |
-| 292 | 282 | LaShey Thompson |
-| 293 | 280 | Kaycee Kay |
-| 294 | 280 | Lizabeth Fox |
+| 291 | 282 | LaShey Thompson |
+| 292 | 282 | Hanna Kim |
+| 293 | 280 | Lizabeth Fox |
+| 294 | 280 | Kaycee Kay |
 | 295 | 279 | Foltz Lee Kelli |
 | 296 | 278 | Rufus Lincoln |
 | 297 | 278 | Steffi Chris Dacones |

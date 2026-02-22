@@ -143,8 +143,8 @@
 | 135 | 391 | Lush Linkfall |
 | 136 | 380 | Swanky Fitline |
 | 137 | 378 | Lucas J Sutton |
-| 138 | 377 | Jessica Bohlken |
-| 139 | 377 | Carrie Brian |
+| 138 | 377 | Carrie Brian |
+| 139 | 377 | Jessica Bohlken |
 | 140 | 376 | Kesha Brady |
 | 141 | 373 | Joseph Guthrie |
 | 142 | 371 | JIGsaw ~(•¿°)~ |
