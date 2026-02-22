@@ -114,14 +114,14 @@
 | 106 | 341 | Nick R Montague |
 | 107 | 333 | Brandi Huntington |
 | 108 | 333 | phrmblk24 |
-| 109 | 332 | Kristen Gideon |
-| 110 | 332 | Luciano Moreira |
+| 109 | 332 | Luciano Moreira |
+| 110 | 332 | Kristen Gideon |
 | 111 | 330 | Sweet Baker |
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
@@ -168,8 +168,8 @@
 | 160 | 230 | Billie Dawn Sparks |
 | 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
-| 163 | 226 | Sleepysloath5745 |
-| 164 | 226 | Kandae |
+| 163 | 226 | Kandae |
+| 164 | 226 | Sleepysloath5745 |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
@@ -240,10 +240,10 @@
 | 232 | 176 | Mel Hogan |
 | 233 | 175 | John Barron |
 | 234 | 174 | Cheeky Pop |
-| 235 | 173 | Rico Rico |
-| 236 | 173 | Gabrielle Louise Malloch |
-| 237 | 171 | Greg Premoe |
-| 238 | 171 | David DeSantis |
+| 235 | 173 | Gabrielle Louise Malloch |
+| 236 | 173 | Rico Rico |
+| 237 | 171 | David DeSantis |
+| 238 | 171 | Greg Premoe |
 | 239 | 170 | Standia Civil |
 | 240 | 170 | Cece Ibarra |
 | 241 | 169 | Abbey Crespo |
@@ -306,8 +306,8 @@
 | 298 | 136 | Jennifer Chilton-Metlock |
 | 299 | 136 | Jessie |
 | 300 | 135 | Mrs.Patrica |
-| 301 | 133 | Lynn Adams |
-| 302 | 133 | MommaKFC |
+| 301 | 133 | MommaKFC |
+| 302 | 133 | Lynn Adams |
 | 303 | 132 | Layzietyme |
 | 304 | 132 | Larry Tilton |
 | 305 | 131 | Dizzy Riseclear |

@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Lori Walker |
-| 107 | 358 | Nugget |
+| 106 | 358 | Nugget |
+| 107 | 358 | Lori Walker |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 167 | Cozy Balancer |
@@ -232,11 +232,11 @@
 | 224 | 165 | James Hurley Jr. |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | John Brunetti |
-| 228 | 162 | Joanna |
+| 227 | 162 | Joanna |
+| 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Laura Hosford |
-| 231 | 160 | Brittany Marsh |
+| 230 | 160 | Brittany Marsh |
+| 231 | 160 | Laura Hosford |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |

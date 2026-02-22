@@ -607,8 +607,8 @@
 | 599 | 378 | Tina Marie |
 | 600 | 378 | Jasmine Kenney |
 | 601 | 377 | Jason H Baker |
-| 602 | 376 | Darlene Bowman |
-| 603 | 376 | James Zaragoza |
+| 602 | 376 | James Zaragoza |
+| 603 | 376 | Darlene Bowman |
 | 604 | 375 | Cecilia A Jenkins |
 | 605 | 375 | Lively Edgepiece |
 | 606 | 373 | Ashley Marie |
@@ -625,9 +625,9 @@
 | 617 | 368 | Angi Harrison |
 | 618 | 367 | Jessica Lamb |
 | 619 | 367 | Connie Lepore-Mann |
-| 620 | 366 | Courtney Burcham |
-| 621 | 366 | Smashanator |
-| 622 | 366 | Lawanda Forbes |
+| 620 | 366 | Smashanator |
+| 621 | 366 | Lawanda Forbes |
+| 622 | 366 | Courtney Burcham |
 | 623 | 365 | Christina Lewis-Vickers |
 | 624 | 365 | Susan Arnburg |
 | 625 | 365 | Audrey Jones |
@@ -639,8 +639,8 @@
 | 631 | 362 | Andrea Maher |
 | 632 | 362 | Veronics |
 | 633 | 362 | Tracy Wise |
-| 634 | 362 | Jennifer Scott |
-| 635 | 362 | Aishah Brice |
+| 634 | 362 | Aishah Brice |
+| 635 | 362 | Jennifer Scott |
 | 636 | 361 | Michelle Shrum |
 | 637 | 361 | Lewis Sturgeon |
 | 638 | 360 | Jroc |
@@ -679,11 +679,11 @@
 | 671 | 339 | Denise Rickman |
 | 672 | 338 | Janitta Alvarez |
 | 673 | 337 | Sassy Pattern |
-| 674 | 337 | Tum |
-| 675 | 337 | Diallo Sparkman |
+| 674 | 337 | Diallo Sparkman |
+| 675 | 337 | Tum |
 | 676 | 337 | Savannah Alexander |
-| 677 | 336 | Austin Wilson |
-| 678 | 336 | bru |
+| 677 | 336 | bru |
+| 678 | 336 | Austin Wilson |
 | 679 | 336 | Swanky Columnbuilder |
 | 680 | 335 | Danielle Ayoub |
 | 681 | 335 | Brooke Leigh Strube |
@@ -703,8 +703,8 @@
 | 695 | 326 | Ann Knutson Anderson |
 | 696 | 325 | Justin Hines |
 | 697 | 324 | Mike73 |
-| 698 | 324 | Tasia Stinson |
-| 699 | 324 | Dale Haanpaa |
+| 698 | 324 | Dale Haanpaa |
+| 699 | 324 | Tasia Stinson |
 | 700 | 323 | Kyla Louise |
 | 701 | 323 | Briana Alexander |
 | 702 | 322 | Christina Jarvis-Swarbrick |
@@ -740,8 +740,8 @@
 | 732 | 308 | Sarah block |
 | 733 | 308 | Hyper Riseclear |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | Peachy Blockbuilder |
-| 736 | 307 | stacey |
+| 735 | 307 | stacey |
+| 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
 | 739 | 305 | Narutofreak13 |
@@ -855,8 +855,8 @@
 | 847 | 265 | Chummy Breaker |
 | 848 | 264 | Ocean-Brianna McGregor |
 | 849 | 264 | Rachel Switala |
-| 850 | 264 | Nicki Stephens |
-| 851 | 264 | Sanaa Nounoussa |
+| 850 | 264 | Sanaa Nounoussa |
+| 851 | 264 | Nicki Stephens |
 | 852 | 264 | Edna Combs |
 | 853 | 263 | Sunshine711 |
 | 854 | 263 | Amy Humphreys |
@@ -905,8 +905,8 @@
 | 897 | 255 | ElizabethAnn Dickinson |
 | 898 | 254 | Matthew Turner |
 | 899 | 254 | Elizabeth Diraffaele |
-| 900 | 252 | Aleasha M Brown |
-| 901 | 252 | Marget Kay |
+| 900 | 252 | Marget Kay |
+| 901 | 252 | Aleasha M Brown |
 | 902 | 252 | Layna Lyons |
 | 903 | 252 | Amanda Segura |
 | 904 | 251 | Bold Clusterfit |
@@ -1169,17 +1169,17 @@
 | 1161 | 194 | Brenda |
 | 1162 | 194 | Chilly Linkfall |
 | 1163 | 193 | Kristen Casale Berry |
-| 1164 | 193 | Tammie Siegfried |
-| 1165 | 193 | Spunky Dash |
-| 1166 | 193 | Dottie Turbeville Creel |
-| 1167 | 193 | Kelly Ann McCormick |
-| 1168 | 193 | Miranda Morris |
+| 1164 | 193 | Spunky Dash |
+| 1165 | 193 | Tammie Siegfried |
+| 1166 | 193 | Kelly Ann McCormick |
+| 1167 | 193 | Miranda Morris |
+| 1168 | 193 | Dottie Turbeville Creel |
 | 1169 | 193 | Ronnie Nelson |
-| 1170 | 193 | TJ Nash |
-| 1171 | 193 | Marshall Charron |
+| 1170 | 193 | Marshall Charron |
+| 1171 | 193 | TJ Nash |
 | 1172 | 193 | Lynn Johnson |
-| 1173 | 192 | Nicole Sanqui |
-| 1174 | 192 | Leroy Jenkins |
+| 1173 | 192 | Leroy Jenkins |
+| 1174 | 192 | Nicole Sanqui |
 | 1175 | 192 | Joy Marie |
 | 1176 | 192 | Dawn Woosley Bowes |
 | 1177 | 192 | Donna M Carter |

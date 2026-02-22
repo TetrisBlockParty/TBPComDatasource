@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -183,8 +183,8 @@
 | 175 | 361 | Jamie Lang |
 | 176 | 359 | Dapper Snap |
 | 177 | 358 | Chummy Caster |
-| 178 | 357 | Tom Nault |
-| 179 | 357 | Stephanie Burtin |
+| 178 | 357 | Stephanie Burtin |
+| 179 | 357 | Tom Nault |
 | 180 | 355 | Tessina Dewey-Mancino |
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -254,12 +254,12 @@
 | 246 | 258 | Tamara Deherrera |
 | 247 | 257 | Ashley Jones |
 | 248 | 256 | Brenda Lee Vander Molen |
-| 249 | 256 | KayB |
-| 250 | 256 | Tiffany Davie |
+| 249 | 256 | Tiffany Davie |
+| 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | JerseyJess |
-| 254 | 249 | Annie Marie |
+| 253 | 249 | Annie Marie |
+| 254 | 249 | JerseyJess |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -383,8 +383,8 @@
 | 375 | 159 | Salena Whitlock |
 | 376 | 158 | Willow |
 | 377 | 157 | Katrina E Jelks |
-| 378 | 157 | Angel Mendez |
-| 379 | 157 | Wetwet |
+| 378 | 157 | Wetwet |
+| 379 | 157 | Angel Mendez |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
