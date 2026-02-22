@@ -171,8 +171,8 @@
 | 163 | 384 | Logan Naccarato |
 | 164 | 382 | Scott Carleton |
 | 165 | 380 | Tasha Schriewer |
-| 166 | 378 | Nicole Flippo |
-| 167 | 378 | Chris Bell |
+| 166 | 378 | Chris Bell |
+| 167 | 378 | Nicole Flippo |
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Rochelle Hazelett |
-| 203 | 311 | Araceli Parra |
+| 202 | 311 | Araceli Parra |
+| 203 | 311 | Rochelle Hazelett |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -225,12 +225,12 @@
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Hoppy Buildout |
-| 221 | 289 | Duane Bright |
+| 220 | 289 | Duane Bright |
+| 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Cheeky Snapper |
-| 225 | 283 | Charles Perrone |
+| 224 | 283 | Charles Perrone |
+| 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tasha Wesson-Torrence |
-| 246 | 261 | Tiffany Ford |
+| 245 | 261 | Tiffany Ford |
+| 246 | 261 | Tasha Wesson-Torrence |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Tipsy Zonebuilder |
-| 308 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Staci George Fitzsimmons |
+| 308 | 202 | Tipsy Zonebuilder |
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Alexmac |
 | 311 | 200 | glichmod |
@@ -642,7 +642,7 @@
 | 634 | 98 | Adrea Ann |
 | 635 | 98 | Jocelyne Baca |
 | 636 | 98 | Katie Morton |
-| 637 | 98 | Armi |
+| 637 | 98 | Tanesha BigBabby Darling |
 | 638 | 97 | Tina Baurdau |
 | 639 | 96 | D3NO |
 | 640 | 96 | Swanky Snapclear |

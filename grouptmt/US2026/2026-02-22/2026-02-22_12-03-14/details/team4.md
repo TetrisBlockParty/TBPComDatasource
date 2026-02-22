@@ -49,21 +49,21 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Carmethia Clemons Haslerig |
-| 80 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Landon Keith Graffeo |
+| 80 | 486 | Carmethia Clemons Haslerig |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -198,8 +198,8 @@
 | 190 | 198 | Keith Kelley |
 | 191 | 198 | Ruben Wheeler |
 | 192 | 196 | Mr. Party |
-| 193 | 196 | Oscar Alberto Perez |
-| 194 | 196 | Lori |
+| 193 | 196 | Lori |
+| 194 | 196 | Oscar Alberto Perez |
 | 195 | 195 | 中山成巳 |
 | 196 | 195 | ZeeZee |
 | 197 | 195 | Malakai Darien Fox |
@@ -395,7 +395,7 @@
 | 387 | 108 | mike |
 | 388 | 107 | Brandi Durig |
 | 389 | 107 | Marcela Johnson |
-| 390 | 106 | Zappy Snaplink |
+| 390 | 106 | Lynn Marie |
 | 391 | 106 | Jacob Richard |
 | 392 | 106 | Zappy Snaplink |
 | 393 | 106 | Verna Neal |

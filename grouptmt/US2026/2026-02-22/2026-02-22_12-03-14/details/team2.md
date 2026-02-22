@@ -175,8 +175,8 @@
 | 167 | 1048 | PsychKIRAtrist |
 | 168 | 1047 | Amy Sayers |
 | 169 | 1045 | Lourisha |
-| 170 | 1043 | Brave Dropmatch |
-| 171 | 1043 | Suki Kaur |
+| 170 | 1043 | Suki Kaur |
+| 171 | 1043 | Brave Dropmatch |
 | 172 | 1036 | Allison Lockyer |
 | 173 | 1035 | Sarah Freitas |
 | 174 | 1025 | Brandy Andre |
@@ -638,11 +638,11 @@
 | 630 | 365 | Christina Lewis-Vickers |
 | 631 | 365 | Susan Arnburg |
 | 632 | 365 | Audrey Jones |
-| 633 | 364 | Shinette Dobson |
-| 634 | 364 | Matthew Joseph Acevedo |
-| 635 | 363 | Kia Humphery |
+| 633 | 364 | Matthew Joseph Acevedo |
+| 634 | 364 | Shinette Dobson |
+| 635 | 363 | Jes Norris |
 | 636 | 363 | Michelle Sager |
-| 637 | 363 | Jes Norris |
+| 637 | 363 | Kia Humphery |
 | 638 | 363 | Stephanie Fortune |
 | 639 | 363 | Veronica Stevenson |
 | 640 | 362 | Jennifer Scott |
@@ -653,8 +653,8 @@
 | 645 | 360 | Jroc |
 | 646 | 359 | Diallo Sparkman |
 | 647 | 359 | Cheyenne Donovan |
-| 648 | 358 | Alyssaaelena |
-| 649 | 358 | Sydney Busse |
+| 648 | 358 | Sydney Busse |
+| 649 | 358 | Alyssaaelena |
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
@@ -723,8 +723,8 @@
 | 715 | 319 | Prado |
 | 716 | 319 | RetroLemur |
 | 717 | 318 | Jennifer Mahon |
-| 718 | 317 | Ashlyn Berner |
-| 719 | 317 | Zombi3 |
+| 718 | 317 | Zombi3 |
+| 719 | 317 | Ashlyn Berner |
 | 720 | 317 | Aireka Roman |
 | 721 | 316 | Jenn Marie |
 | 722 | 316 | Epic Spinfit |
@@ -989,8 +989,8 @@
 | 981 | 234 | Jannan Haimour |
 | 982 | 233 | ItsJennifer Neriss |
 | 983 | 233 | Allison Hewitt |
-| 984 | 233 | Nerdy Riserfit |
-| 985 | 233 | Myleaha Holley |
+| 984 | 233 | Myleaha Holley |
+| 985 | 233 | Nerdy Riserfit |
 | 986 | 233 | Jessica Sutter |
 | 987 | 232 | P. D. Paige |
 | 988 | 232 | Chirpy Snapper |
@@ -1012,8 +1012,8 @@
 | 1004 | 228 | Asha Nichols-Collins |
 | 1005 | 227 | Sedo |
 | 1006 | 227 | Artemus Darnell |
-| 1007 | 227 | Monique Foster |
-| 1008 | 227 | William David Swallow |
+| 1007 | 227 | William David Swallow |
+| 1008 | 227 | Monique Foster |
 | 1009 | 227 | Toni Whipple |
 | 1010 | 227 | Sho Nuff |
 | 1011 | 227 | Ethan Stienbarger |
@@ -1050,8 +1050,8 @@
 | 1042 | 222 | Lovely |
 | 1043 | 221 | Jeffrey Barrows |
 | 1044 | 221 | Chummy Caster |
-| 1045 | 220 | Natalie M Wells |
-| 1046 | 220 | Sandra McNab |
+| 1045 | 220 | Sandra McNab |
+| 1046 | 220 | Natalie M Wells |
 | 1047 | 220 | Marcie McLain Dodd |
 | 1048 | 220 | HarleyJane |
 | 1049 | 220 | Amy Reynolds |
@@ -1095,8 +1095,8 @@
 | 1087 | 211 | Scherrie Smith |
 | 1088 | 211 | Neko Preston |
 | 1089 | 210 | Joshua Switzer |
-| 1090 | 210 | Nicolle Danielle |
-| 1091 | 210 | Nicolee Hackney |
+| 1090 | 210 | Nicolee Hackney |
+| 1091 | 210 | Nicolle Danielle |
 | 1092 | 210 | Janet Marie Vega |
 | 1093 | 210 | Cappin You |
 | 1094 | 209 | Tina Blessed Cage |
@@ -1205,10 +1205,10 @@
 | 1197 | 191 | Netty |
 | 1198 | 191 | Klaudia Figaszewska |
 | 1199 | 191 | Samuel Labruno |
-| 1200 | 191 | Cherry |
-| 1201 | 191 | Val Pal |
-| 1202 | 190 | Jessica Kaye DeAguero |
-| 1203 | 190 | Lola |
+| 1200 | 191 | Val Pal |
+| 1201 | 191 | Cherry |
+| 1202 | 190 | Lola |
+| 1203 | 190 | Jessica Kaye DeAguero |
 | 1204 | 190 | Jacob Huffman |
 | 1205 | 190 | LaFaye Rivers |
 | 1206 | 190 | Martina Gabrielle LaPolla |
@@ -1810,8 +1810,8 @@
 | 1802 | 130 | Mikey |
 | 1803 | 130 | Stanislav Petkov |
 | 1804 | 130 | Cranky Zonebuilder |
-| 1805 | 130 | Richelle Chapin |
-| 1806 | 130 | April Bennett |
+| 1805 | 130 | April Bennett |
+| 1806 | 130 | Richelle Chapin |
 | 1807 | 130 | ChocMilkNinja |
 | 1808 | 129 | Carlena Reed |
 | 1809 | 129 | Nina Woodill |
