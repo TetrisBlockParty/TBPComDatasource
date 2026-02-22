@@ -156,8 +156,8 @@
 | 148 | 181 | Klo |
 | 149 | 181 | Andria Lynn |
 | 150 | 180 | Leah Kutz Zirbel |
-| 151 | 179 | Ak Jones |
-| 152 | 179 | Scott Jameson |
+| 151 | 179 | Scott Jameson |
+| 152 | 179 | Ak Jones |
 | 153 | 176 | Zethra Prenisha Rahming |
 | 154 | 175 | Jessica Bohlken |
 | 155 | 175 | blockstar |
@@ -224,8 +224,8 @@
 | 216 | 128 | Jackie Marie |
 | 217 | 128 | Rio Rocha |
 | 218 | 127 | Zesty Twistbuilder |
-| 219 | 126 | icequeenx |
-| 220 | 126 | Angelito |
+| 219 | 126 | Angelito |
+| 220 | 126 | icequeenx |
 | 221 | 125 | Judy Cox |
 | 222 | 125 | KimoKoala |
 | 223 | 124 | Allen Lloyd |

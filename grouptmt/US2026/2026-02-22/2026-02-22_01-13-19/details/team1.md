@@ -86,8 +86,8 @@
 | 78 | 328 | Gracie |
 | 79 | 328 | Kellie |
 | 80 | 326 | Luciano Moreira |
-| 81 | 323 | Sweet Baker |
-| 82 | 323 | Candy Jones |
+| 81 | 323 | Candy Jones |
+| 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
 | 84 | 319 | Deanna L Hermanson |
 | 85 | 319 | Shauna Loe |
@@ -110,8 +110,8 @@
 | 102 | 273 | Bhelle Sumile |
 | 103 | 273 | Happy Basegrid |
 | 104 | 270 | Spunky Piecebuilder |
-| 105 | 269 | Seante Bullock |
-| 106 | 269 | Rachael |
+| 105 | 269 | Rachael |
+| 106 | 269 | Seante Bullock |
 | 107 | 263 | Sharon Reynolds |
 | 108 | 262 | Dandy Basegrid |
 | 109 | 257 | june october |
@@ -136,8 +136,8 @@
 | 128 | 208 | Giggly Builderline |
 | 129 | 207 | Leslie Bush Yarbrough |
 | 130 | 204 | Ananda Mendez |
-| 131 | 203 | GATOR |
-| 132 | 203 | Paula Martin |
+| 131 | 203 | Paula Martin |
+| 132 | 203 | GATOR |
 | 133 | 199 | Jennifer Hardman |
 | 134 | 198 | Shiny Gridmatch |
 | 135 | 198 | Happy Snapbuild |
@@ -181,8 +181,8 @@
 | 173 | 166 | Rico Rico |
 | 174 | 165 | Nadine Velardo |
 | 175 | 164 | Shanae Grant |
-| 176 | 163 | Mel Hogan |
-| 177 | 163 | Tyler Whitley |
+| 176 | 163 | Tyler Whitley |
+| 177 | 163 | Mel Hogan |
 | 178 | 162 | Cece Ibarra |
 | 179 | 161 | SavageBooty98 |
 | 180 | 159 | Bindi |
@@ -192,10 +192,10 @@
 | 184 | 157 | Angela Fairbank |
 | 185 | 154 | Christy Jones |
 | 186 | 154 | Melissa Lemmon |
-| 187 | 153 | Barry Mac'Ockner |
-| 188 | 153 | ALFD |
-| 189 | 152 | Speedy Snapfall |
-| 190 | 152 | Jacqueline Unique |
+| 187 | 153 | ALFD |
+| 188 | 153 | Barry Mac'Ockner |
+| 189 | 152 | Jacqueline Unique |
+| 190 | 152 | Speedy Snapfall |
 | 191 | 150 | Adele Rahman |
 | 192 | 148 | Bouncy Grid |
 | 193 | 147 | Davery Spencer Adair |

@@ -346,8 +346,8 @@
 | 338 | 453 | Joshua Sommerville |
 | 339 | 452 | Alezandra Smith |
 | 340 | 451 | Funky Caster |
-| 341 | 451 | Melissa Kay Gibson |
-| 342 | 451 | Daphne Jordan |
+| 341 | 451 | Daphne Jordan |
+| 342 | 451 | Melissa Kay Gibson |
 | 343 | 451 | Cody Nishimura |
 | 344 | 451 | Dylan Thomason |
 | 345 | 449 | Davetta Sanford |
@@ -451,8 +451,8 @@
 | 443 | 362 | KayLynn Ogden McClelland |
 | 444 | 362 | Adam Simmons |
 | 445 | 359 | Offonar Facey |
-| 446 | 358 | Michelle Sager |
-| 447 | 358 | Alyssaaelena |
+| 446 | 358 | Alyssaaelena |
+| 447 | 358 | Michelle Sager |
 | 448 | 357 | Shannon Byrd |
 | 449 | 356 | Michelle Fields |
 | 450 | 355 | Jessica Lamb |
