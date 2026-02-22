@@ -135,8 +135,8 @@
 | 127 | 531 | Mykal Burton |
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
-| 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Leah Barnett |
+| 130 | 521 | Leah Barnett |
+| 131 | 521 | Michael Nowogorski |
 | 132 | 521 | Michelle Becker |
 | 133 | 521 | Daryn Elliott |
 | 134 | 518 | opf |
@@ -171,16 +171,16 @@
 | 163 | 432 | Luciana Braganca Vieira |
 | 164 | 432 | Jenny Hrndz |
 | 165 | 430 | Jeni Dow |
-| 166 | 430 | Joye Sims Binion |
-| 167 | 430 | Tasha Gillespie |
+| 166 | 430 | Tasha Gillespie |
+| 167 | 430 | Joye Sims Binion |
 | 168 | 427 | Wendy Dearden |
 | 169 | 421 | LaTanya GeminiondaRise Johnson |
 | 170 | 417 | Edwin Calvillo Jr. |
 | 171 | 415 | ren |
 | 172 | 410 | Stephanie Simpson |
 | 173 | 407 | Jone |
-| 174 | 405 | Marcie Bressler |
-| 175 | 405 | JerseyJess |
+| 174 | 405 | JerseyJess |
+| 175 | 405 | Marcie Bressler |
 | 176 | 403 | Scott Lindsay |
 | 177 | 402 | Araceli Parra |
 | 178 | 401 | Katie Knaus |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Loopy Fallmatch |
-| 204 | 362 | Brandon Givens |
+| 203 | 362 | Brandon Givens |
+| 204 | 362 | Loopy Fallmatch |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -264,8 +264,8 @@
 | 256 | 282 | Angie Harper |
 | 257 | 281 | Carrie Huskey |
 | 258 | 280 | Terry Jo Jones |
-| 259 | 278 | Sabrina Hardrick |
-| 260 | 278 | Rufus Lincoln |
+| 259 | 278 | Rufus Lincoln |
+| 260 | 278 | Sabrina Hardrick |
 | 261 | 277 | Tracy Martin |
 | 262 | 276 | Crimson |
 | 263 | 276 | _melisa223_ |
@@ -311,8 +311,8 @@
 | 303 | 236 | Angela Scott |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kevin Russell |
-| 307 | 231 | Kiki |
+| 306 | 231 | Kiki |
+| 307 | 231 | Kevin Russell |
 | 308 | 230 | BigE |
 | 309 | 228 | Naur |
 | 310 | 227 | Rebel124 |
@@ -359,14 +359,14 @@
 | 351 | 209 | Kirhonda Autmon |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | Kristian Thurman |
-| 355 | 207 | angieelyn |
+| 354 | 207 | angieelyn |
+| 355 | 207 | Kristian Thurman |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
 | 359 | 203 | DanceLuvLaugh |
-| 360 | 202 | Tipsy Zonebuilder |
-| 361 | 202 | Melanie Sherwood |
+| 360 | 202 | Melanie Sherwood |
+| 361 | 202 | Tipsy Zonebuilder |
 | 362 | 201 | Hyper Matchzone |
 | 363 | 200 | glichmod |
 | 364 | 200 | Colleen Phelps |

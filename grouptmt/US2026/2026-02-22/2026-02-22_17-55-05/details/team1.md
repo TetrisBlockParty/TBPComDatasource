@@ -113,8 +113,8 @@
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
-| 108 | 379 | Kimmie Kimms |
-| 109 | 379 | Austin James |
+| 108 | 379 | Austin James |
+| 109 | 379 | Kimmie Kimms |
 | 110 | 376 | lil mickey |
 | 111 | 367 | Ly Phethmany |
 | 112 | 366 | David Miller |
@@ -171,8 +171,8 @@
 | 163 | 272 | Sleepysloath5745 |
 | 164 | 272 | Tana |
 | 165 | 270 | Ash Galvan |
-| 166 | 270 | Angela Renea Lester |
-| 167 | 270 | Mandyy Rae |
+| 166 | 270 | Mandyy Rae |
+| 167 | 270 | Angela Renea Lester |
 | 168 | 268 | Amanda Jarnagin |
 | 169 | 268 | Christy Jones |
 | 170 | 268 | Jessi Sauer |
@@ -246,8 +246,8 @@
 | 238 | 207 | Leslie Bush Yarbrough |
 | 239 | 206 | BadG52 |
 | 240 | 202 | Amanda Holibaugh |
-| 241 | 201 | Colleen Wise |
-| 242 | 201 | Andrew Boone |
+| 241 | 201 | Andrew Boone |
+| 242 | 201 | Colleen Wise |
 | 243 | 200 | Breanna Luna |
 | 244 | 200 | Diane Byrd |
 | 245 | 200 | Flashy Rotator |

@@ -212,8 +212,8 @@
 | 204 | 1002 | Foxxo |
 | 205 | 998 | Tralonda Weeks |
 | 206 | 991 | Moose Griffith |
-| 207 | 989 | Teddi Notyalc |
-| 208 | 989 | Desiree Harris Rosch |
+| 207 | 989 | Desiree Harris Rosch |
+| 208 | 989 | Teddi Notyalc |
 | 209 | 988 | Cherica Taylor |
 | 210 | 986 | RAEPR05 |
 | 211 | 979 | Hillary Crawford |
@@ -452,8 +452,8 @@
 | 444 | 545 | Lyndi Robinson Wakefield |
 | 445 | 545 | Sparkles |
 | 446 | 544 | Deidre Shaffer |
-| 447 | 543 | Vanessa Moreno |
-| 448 | 543 | Julie Kresal |
+| 447 | 543 | Julie Kresal |
+| 448 | 543 | Vanessa Moreno |
 | 449 | 540 | Melissa Kay Gibson |
 | 450 | 540 | Dizzy Zone |
 | 451 | 538 | Lonne Emade |
@@ -1031,8 +1031,8 @@
 | 1023 | 259 | sup |
 | 1024 | 259 | Mary Ahne |
 | 1025 | 259 | Jay Dreamer-x Shelly |
-| 1026 | 259 | JacJac |
-| 1027 | 259 | Sarah Sims |
+| 1026 | 259 | Sarah Sims |
+| 1027 | 259 | JacJac |
 | 1028 | 259 | Maurice Bundy |
 | 1029 | 258 | DesertDreamer24 |
 | 1030 | 258 | Kara Tolbert |

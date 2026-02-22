@@ -149,8 +149,8 @@
 | 141 | 319 | Guy Incognito |
 | 142 | 318 | Lauren Scott |
 | 143 | 314 | Andy Cabral |
-| 144 | 307 | Bio Nelly |
-| 145 | 307 | Angela Srubar-Norman |
+| 144 | 307 | Angela Srubar-Norman |
+| 145 | 307 | Bio Nelly |
 | 146 | 300 | Dana Scott |
 | 147 | 300 | Jason Hart |
 | 148 | 299 | TRCuse |
@@ -289,10 +289,10 @@
 | 281 | 162 | Victoria Faniel |
 | 282 | 162 | Gwendolyn Pitcairn |
 | 283 | 162 | conceptCollector |
-| 284 | 161 | Matt Gooder |
-| 285 | 161 | Tanner Lund |
-| 286 | 159 | Marcus Todd |
-| 287 | 159 | DonMega |
+| 284 | 161 | Tanner Lund |
+| 285 | 161 | Matt Gooder |
+| 286 | 159 | DonMega |
+| 287 | 159 | Marcus Todd |
 | 288 | 159 | Jason Bosco |
 | 289 | 158 | Nubian1 |
 | 290 | 157 | Bethany Ison |
@@ -335,8 +335,8 @@
 | 327 | 145 | Maureen Flanigan |
 | 328 | 145 | Daring Pivot |
 | 329 | 144 | Squeezy Pearsall |
-| 330 | 143 | Daresha Fair |
-| 331 | 143 | Asher |
+| 330 | 143 | Asher |
+| 331 | 143 | Daresha Fair |
 | 332 | 143 | Metsfan |
 | 333 | 142 | Nerdy Twisterfit |
 | 334 | 142 | Chaz |
