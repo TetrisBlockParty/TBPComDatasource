@@ -142,8 +142,8 @@
 | 134 | 277 | Scott Jameson |
 | 135 | 277 | Mary Ann Pabukis |
 | 136 | 275 | Dizzy Tiley |
-| 137 | 274 | Jessica Lynn Cutlip |
-| 138 | 274 | Calvin Cannon |
+| 137 | 274 | Calvin Cannon |
+| 138 | 274 | Jessica Lynn Cutlip |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
 | 141 | 264 | Epic Curvetile |
@@ -266,8 +266,8 @@
 | 258 | 147 | B Renee Desjardin |
 | 259 | 147 | Jared Gutwein |
 | 260 | 146 | Dizzy Matchzone |
-| 261 | 145 | Mimi |
-| 262 | 145 | Sandra Safford |
+| 261 | 145 | Sandra Safford |
+| 262 | 145 | Mimi |
 | 263 | 144 | Sticherella |
 | 264 | 143 | Asher |
 | 265 | 143 | Dennis Bradley |
@@ -426,8 +426,8 @@
 | 418 | 97 | Cool Gridzone |
 | 419 | 97 | Serena Butter |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Jobadia Steelerton |
-| 422 | 95 | Chirpy Slammer |
+| 421 | 95 | Chirpy Slammer |
+| 422 | 95 | Jobadia Steelerton |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Ahleek Mitchell |
 | 425 | 94 | Adawna Swires |

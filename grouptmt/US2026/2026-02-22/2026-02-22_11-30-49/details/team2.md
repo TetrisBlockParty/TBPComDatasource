@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Isabela Shaw |
-| 132 | 1248 | Howard Forest |
+| 131 | 1248 | Howard Forest |
+| 132 | 1248 | Isabela Shaw |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -336,8 +336,8 @@
 | 328 | 639 | Rebecca Miller |
 | 329 | 635 | Diana Fitzwater |
 | 330 | 631 | Marie Walker |
-| 331 | 627 | Allan Wayne Lamia |
-| 332 | 627 | Victoria Moore-Smith |
+| 331 | 627 | Victoria Moore-Smith |
+| 332 | 627 | Allan Wayne Lamia |
 | 333 | 620 | Brandon Armstrong |
 | 334 | 617 | Leslie Ann Carter |
 | 335 | 613 | Breezy Filler |
@@ -377,8 +377,8 @@
 | 369 | 558 | Libby Hicks |
 | 370 | 557 | Block Master |
 | 371 | 556 | Slip |
-| 372 | 554 | Rachael Senard |
-| 373 | 554 | Santana Miyagi |
+| 372 | 554 | Santana Miyagi |
+| 373 | 554 | Rachael Senard |
 | 374 | 554 | Autumn Schaeffer |
 | 375 | 552 | Michelle Fields |
 | 376 | 550 | Nashu |
@@ -405,11 +405,11 @@
 | 397 | 525 | Desiree Anderson |
 | 398 | 524 | Lonne Emade |
 | 399 | 523 | Matt Johnson |
-| 400 | 522 | Lylymom |
-| 401 | 522 | Joseph Musick |
+| 400 | 522 | Joseph Musick |
+| 401 | 522 | Lylymom |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Maddy Petersen |
-| 404 | 520 | Angela Lynn |
+| 403 | 520 | Angela Lynn |
+| 404 | 520 | Maddy Petersen |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -433,8 +433,8 @@
 | 425 | 500 | Sarah Ridenour |
 | 426 | 499 | Sarah Massey |
 | 427 | 498 | Rhonda Milstead |
-| 428 | 497 | Doowop40 |
-| 429 | 497 | June E Hanson |
+| 428 | 497 | June E Hanson |
+| 429 | 497 | Doowop40 |
 | 430 | 497 | Kimberly Randesi |
 | 431 | 494 | Venita Ray |
 | 432 | 493 | Kara Gillen |
@@ -466,8 +466,8 @@
 | 458 | 477 | Julay |
 | 459 | 476 | Kitybox |
 | 460 | 475 | Michelle Lee |
-| 461 | 474 | Steve Man |
-| 462 | 474 | Calandra Shaya Robinson |
+| 461 | 474 | Calandra Shaya Robinson |
+| 462 | 474 | Steve Man |
 | 463 | 473 | Lyndi Robinson Wakefield |
 | 464 | 472 | Arwa Fatimah |
 | 465 | 472 | Kyle LeRoy Harris |
@@ -710,9 +710,9 @@
 | 702 | 324 | Tasia Stinson |
 | 703 | 324 | Dale Haanpaa |
 | 704 | 323 | Briana Alexander |
-| 705 | 322 | Christina Jarvis-Swarbrick |
+| 705 | 322 | Lea Stewart |
 | 706 | 322 | Michelle Pike |
-| 707 | 322 | Lea Stewart |
+| 707 | 322 | Christina Jarvis-Swarbrick |
 | 708 | 321 | Samantha Scibelli |
 | 709 | 321 | Ashley Criner |
 | 710 | 321 | Tamara Bailey |

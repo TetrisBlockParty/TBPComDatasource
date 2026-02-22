@@ -123,8 +123,8 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -191,10 +191,10 @@
 | 183 | 210 | Giggly Builderline |
 | 184 | 210 | Letson Melissa |
 | 185 | 209 | Debbie Davis |
-| 186 | 208 | Donna Addison Williams |
-| 187 | 208 | Bouncy Grid |
-| 188 | 207 | Brenda Alexander |
-| 189 | 207 | Leslie Bush Yarbrough |
+| 186 | 208 | Bouncy Grid |
+| 187 | 208 | Donna Addison Williams |
+| 188 | 207 | Leslie Bush Yarbrough |
+| 189 | 207 | Brenda Alexander |
 | 190 | 206 | BadG52 |
 | 191 | 205 | Snappy Matcher |
 | 192 | 205 | Tater |
