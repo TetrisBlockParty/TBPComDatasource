@@ -76,9 +76,9 @@
 | 68 | 604 | Danielle Becker |
 | 69 | 596 | Jessica Bechler |
 | 70 | 588 | yoyo |
-| 71 | 582 | Natasha Jones |
-| 72 | 582 | Jay Horn |
-| 73 | 582 | Katrina Schroeder |
+| 71 | 582 | Katrina Schroeder |
+| 72 | 582 | Natasha Jones |
+| 73 | 582 | Jay Horn |
 | 74 | 581 | Danielle Mogg |
 | 75 | 580 | Amanda L Baker |
 | 76 | 576 | Dan Rob |
@@ -97,8 +97,8 @@
 | 89 | 507 | Jennifer Petrie |
 | 90 | 506 | Sashay Tapae Simpson |
 | 91 | 503 | Susan Valentino |
-| 92 | 502 | Justin Ritter |
-| 93 | 502 | Patricia Gadsden |
+| 92 | 502 | Patricia Gadsden |
+| 93 | 502 | Justin Ritter |
 | 94 | 493 | Mandy Smith Oldham |
 | 95 | 491 | Chauntee Alfrey-Cardinale |
 | 96 | 475 | Domo Washington |
@@ -116,8 +116,8 @@
 | 108 | 428 | Betty Ivy |
 | 109 | 416 | Mary Pellegrino |
 | 110 | 410 | Stephanie Simpson |
-| 111 | 403 | Christine Filson |
-| 112 | 403 | FuzzyNavel |
+| 111 | 403 | FuzzyNavel |
+| 112 | 403 | Christine Filson |
 | 113 | 400 | Luciana Braganca Vieira |
 | 114 | 399 | ren |
 | 115 | 399 | Patti Skiles |
@@ -135,8 +135,8 @@
 | 127 | 378 | Tasha Gillespie |
 | 128 | 376 | Khristen AC |
 | 129 | 376 | Loopy Clusterer |
-| 130 | 368 | Stephanie Blkpep Davidson |
-| 131 | 368 | Stephanie Woods |
+| 130 | 368 | Stephanie Woods |
+| 131 | 368 | Stephanie Blkpep Davidson |
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |

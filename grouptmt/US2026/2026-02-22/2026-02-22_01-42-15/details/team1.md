@@ -162,8 +162,8 @@
 | 154 | 186 | Michael |
 | 155 | 185 | Basment Living |
 | 156 | 182 | Monica Donato |
-| 157 | 180 | Erez Yosef |
-| 158 | 180 | BigWeenie69 |
+| 157 | 180 | BigWeenie69 |
+| 158 | 180 | Erez Yosef |
 | 159 | 179 | Danielle Little-Daugherty |
 | 160 | 178 | Chad Atchley |
 | 161 | 177 | Irual Hctrab |

@@ -394,8 +394,8 @@
 | 386 | 414 | John |
 | 387 | 414 | Emily Lyric Converse |
 | 388 | 413 | Brandy Andre |
-| 389 | 411 | Kristen O'Neal |
-| 390 | 411 | Ricky Fortune |
+| 389 | 411 | Ricky Fortune |
+| 390 | 411 | Kristen O'Neal |
 | 391 | 406 | Erin StFrancis |
 | 392 | 406 | Julie Kresal |
 | 393 | 406 | Tj Ball |
@@ -448,9 +448,9 @@
 | 440 | 366 | Smashanator |
 | 441 | 366 | Courtney Burcham |
 | 442 | 365 | Christina Lewis-Vickers |
-| 443 | 365 | Kayla |
-| 444 | 365 | Audrey Jones |
-| 445 | 365 | Susan Arnburg |
+| 443 | 365 | Audrey Jones |
+| 444 | 365 | Susan Arnburg |
+| 445 | 365 | Kayla |
 | 446 | 364 | Lively Edgepiece |
 | 447 | 364 | Goofy Dasher |
 | 448 | 364 | Shinette Dobson |
