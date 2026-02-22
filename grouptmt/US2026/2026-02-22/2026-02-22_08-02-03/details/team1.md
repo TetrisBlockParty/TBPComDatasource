@@ -156,8 +156,8 @@
 | 148 | 243 | Trippy Redd |
 | 149 | 242 | ALFD |
 | 150 | 241 | John J. Cronin |
-| 151 | 239 | Jamie Jury |
-| 152 | 239 | GATOR |
+| 151 | 239 | GATOR |
+| 152 | 239 | Jamie Jury |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
 | 155 | 230 | Billie Dawn Sparks |
@@ -172,10 +172,10 @@
 | 164 | 216 | Shauntina Burke |
 | 165 | 213 | Daring Fitclear |
 | 166 | 212 | Jaimie Lynn |
-| 167 | 211 | Marianita Garcia |
-| 168 | 211 | Kimberly Garcia |
-| 169 | 210 | Letson Melissa |
-| 170 | 210 | Giggly Builderline |
+| 167 | 211 | Kimberly Garcia |
+| 168 | 211 | Marianita Garcia |
+| 169 | 210 | Giggly Builderline |
+| 170 | 210 | Letson Melissa |
 | 171 | 208 | Donna Addison Williams |
 | 172 | 208 | Bouncy Grid |
 | 173 | 207 | Leslie Bush Yarbrough |
@@ -190,8 +190,8 @@
 | 182 | 201 | Sam Williams |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Shiny Gridmatch |
-| 186 | 198 | Happy Snapbuild |
+| 185 | 198 | Happy Snapbuild |
+| 186 | 198 | Shiny Gridmatch |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Michael |

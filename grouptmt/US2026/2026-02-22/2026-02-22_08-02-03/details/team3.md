@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -98,14 +98,14 @@
 | 90 | 595 | Patricia White |
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
-| 93 | 582 | Natasha Jones |
-| 94 | 582 | Speedy Bridger |
+| 93 | 582 | Speedy Bridger |
+| 94 | 582 | Natasha Jones |
 | 95 | 582 | Jay Horn |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Rachael McClain Owens |
-| 100 | 565 | Patty Allen |
+| 99 | 565 | Patty Allen |
+| 100 | 565 | Rachael McClain Owens |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -119,16 +119,16 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Domo Washington |
-| 115 | 500 | Kristie |
+| 114 | 500 | Kristie |
+| 115 | 500 | Domo Washington |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
 | 119 | 490 | Queen Kam |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | mzcatzy |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -244,8 +244,8 @@
 | 236 | 258 | Tamara Deherrera |
 | 237 | 257 | Ashley Jones |
 | 238 | 256 | Brenda Lee Vander Molen |
-| 239 | 256 | Tiffany Davie |
-| 240 | 256 | KayB |
+| 239 | 256 | KayB |
+| 240 | 256 | Tiffany Davie |
 | 241 | 253 | Chummy Caster |
 | 242 | 251 | Sabrina Hardrick |
 | 243 | 250 | fraulila |
@@ -356,8 +356,8 @@
 | 348 | 162 | Ava Petito |
 | 349 | 162 | Stephanie Whitefield |
 | 350 | 161 | Michael Johnson |
-| 351 | 161 | Julia Nicole |
-| 352 | 161 | Bouncy Blockbuilder |
+| 351 | 161 | Bouncy Blockbuilder |
+| 352 | 161 | Julia Nicole |
 | 353 | 159 | Joshua David Huie |
 | 354 | 159 | Salena Whitlock |
 | 355 | 158 | Willow |
@@ -368,8 +368,8 @@
 | 360 | 156 | Nichole Greene |
 | 361 | 155 | Michell Hendershott Jackson |
 | 362 | 155 | Michael Leblanc |
-| 363 | 153 | Sheila M Frazier |
-| 364 | 153 | Lys |
+| 363 | 153 | Lys |
+| 364 | 153 | Sheila M Frazier |
 | 365 | 153 | Tony Waters |
 | 366 | 152 | Goofy Fall |
 | 367 | 152 | Eric Caccavale |
@@ -430,8 +430,8 @@
 | 422 | 129 | Juliana Dottore |
 | 423 | 129 | Stella |
 | 424 | 129 | luluraine |
-| 425 | 129 | Amanda Neal |
-| 426 | 129 | TLM |
+| 425 | 129 | TLM |
+| 426 | 129 | Amanda Neal |
 | 427 | 128 | David Kozen |
 | 428 | 127 | Jumpy Wrecker |
 | 429 | 127 | Stephanie Zahm |
@@ -504,8 +504,8 @@
 | 496 | 111 | Chenoa Urban Sophicated Redy |
 | 497 | 111 | Jennifer Neiman Gaal |
 | 498 | 110 | Kate Farok |
-| 499 | 110 | Angela VanOstrand |
-| 500 | 110 | Michael Pleasant |
+| 499 | 110 | Michael Pleasant |
+| 500 | 110 | Angela VanOstrand |
 | 501 | 109 | Peachy Westbrook |
 | 502 | 109 | Barbara Bennett |
 | 503 | 109 | Katie Bolich |
@@ -586,9 +586,9 @@
 | 578 | 98 | Jess Reppert |
 | 579 | 98 | Christine Vosburgh |
 | 580 | 98 | Adrea Ann |
-| 581 | 98 | Christine Vosburgh |
-| 582 | 97 | Daisy Rocha |
-| 583 | 97 | Miranda Taylor |
+| 581 | 98 | Katie Morton |
+| 582 | 97 | Miranda Taylor |
+| 583 | 97 | Daisy Rocha |
 | 584 | 97 | Rebecca Lynn |
 | 585 | 97 | Tina Baurdau |
 | 586 | 96 | Brittany Smith Brown |
@@ -916,8 +916,8 @@
 | 908 | 63 | Santana Lantana |
 | 909 | 63 | Duane Miller |
 | 910 | 63 | HeatherMay220 |
-| 911 | 63 | crystal |
-| 912 | 63 | Flashy Brickline |
+| 911 | 63 | Giggy Snapzone |
+| 912 | 63 | Bigz |
 | 913 | 63 | Benny Tyrrell |
 | 914 | 63 | Flashy Brickline |
 | 915 | 63 | crystal |

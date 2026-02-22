@@ -947,8 +947,8 @@
 | 939 | 231 | Stanley Vanekelenburg |
 | 940 | 230 | lady |
 | 941 | 230 | Andrew Engman |
-| 942 | 229 | Deidre Jenkins |
-| 943 | 229 | Heather Anspaugh |
+| 942 | 229 | Heather Anspaugh |
+| 943 | 229 | Deidre Jenkins |
 | 944 | 229 | BbqGuru |
 | 945 | 229 | Chyrisse Norton |
 | 946 | 228 | Kandy Charmz |
@@ -1251,9 +1251,9 @@
 | 1243 | 173 | Yemaja Obba Olokun |
 | 1244 | 173 | Robin |
 | 1245 | 173 | Guy Fisher |
-| 1246 | 173 | Rachel Walka Farnam |
-| 1247 | 173 | Shelley Vaux |
-| 1248 | 173 | Melissa Wilson |
+| 1246 | 173 | Shelley Vaux |
+| 1247 | 173 | Melissa Wilson |
+| 1248 | 173 | Rachel Walka Farnam |
 | 1249 | 172 | Fancy Glidezone |
 | 1250 | 172 | Patty |
 | 1251 | 172 | Jacob Huffman |

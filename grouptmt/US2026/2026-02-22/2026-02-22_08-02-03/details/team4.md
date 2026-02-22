@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -122,15 +122,15 @@
 | 114 | 300 | Jason Hart |
 | 115 | 298 | Marvin Lou Martin |
 | 116 | 298 | Lucas J Sutton |
-| 117 | 296 | Justin Hannigan |
-| 118 | 296 | HastyGrabber |
+| 117 | 296 | HastyGrabber |
+| 118 | 296 | Justin Hannigan |
 | 119 | 295 | Latisha Davis |
 | 120 | 294 | Kesha Brady |
 | 121 | 290 | 🥔🥔 Spudz |
 | 122 | 288 | Leslie Nicole |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | shark tato |
-| 125 | 286 | Daria Rycewicz |
+| 124 | 286 | Daria Rycewicz |
+| 125 | 286 | shark tato |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Desi Desporte |
@@ -148,8 +148,8 @@
 | 140 | 253 | Jeff Brian Gates |
 | 141 | 249 | Leah Kutz Zirbel |
 | 142 | 245 | Diana Houts |
-| 143 | 244 | Calvin Cannon |
-| 144 | 244 | Twisty Cascadezone |
+| 143 | 244 | Twisty Cascadezone |
+| 144 | 244 | Calvin Cannon |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
 | 147 | 230 | Autum Leigh |
@@ -169,8 +169,8 @@
 | 161 | 220 | Matt Dell'Olio |
 | 162 | 218 | Casey Grabner |
 | 163 | 217 | Chaz Duncan |
-| 164 | 215 | Ren Mc |
-| 165 | 215 | Jessica Bohlken |
+| 164 | 215 | Jessica Bohlken |
+| 165 | 215 | Ren Mc |
 | 166 | 213 | Jason Allen |
 | 167 | 213 | Sarah Neathery |
 | 168 | 212 | Mike Solo |
@@ -226,10 +226,10 @@
 | 218 | 158 | Avy Absol |
 | 219 | 158 | Sam Bishop |
 | 220 | 158 | Chair |
-| 221 | 157 | Bethany Ison |
-| 222 | 157 | KayM |
-| 223 | 157 | Paige Kittles |
-| 224 | 157 | scott |
+| 221 | 157 | KayM |
+| 222 | 157 | scott |
+| 223 | 157 | Bethany Ison |
+| 224 | 157 | Paige Kittles |
 | 225 | 155 | AyeKay |
 | 226 | 153 | Empress Oasis |
 | 227 | 153 | Mr. Party |
