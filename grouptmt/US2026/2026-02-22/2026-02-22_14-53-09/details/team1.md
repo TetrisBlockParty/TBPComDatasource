@@ -113,8 +113,8 @@
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | Jason Jones |
-| 109 | 352 | phrmblk24 |
+| 108 | 352 | phrmblk24 |
+| 109 | 352 | Jason Jones |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |

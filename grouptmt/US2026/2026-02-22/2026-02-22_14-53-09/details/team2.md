@@ -216,8 +216,8 @@
 | 208 | 950 | Teresa Gillmore |
 | 209 | 944 | Kimberly Hauck-Rausch |
 | 210 | 942 | Keri Womack |
-| 211 | 941 | Marie Boyd Faulk |
-| 212 | 941 | Cool Clearer |
+| 211 | 941 | Cool Clearer |
+| 212 | 941 | Marie Boyd Faulk |
 | 213 | 932 | Catina Hutchison |
 | 214 | 924 | Crystal Hoffman |
 | 215 | 921 | Morgue Chick |
@@ -279,8 +279,8 @@
 | 271 | 771 | Terri McKelvey McKinley |
 | 272 | 770 | Offonar Facey |
 | 273 | 768 | Mighty Shatterfit |
-| 274 | 767 | Ashley Lopez |
-| 275 | 767 | Jessica Wayne Cornwall |
+| 274 | 767 | Jessica Wayne Cornwall |
+| 275 | 767 | Ashley Lopez |
 | 276 | 765 | Jodi Blake |
 | 277 | 764 | Pacynthia Williams |
 | 278 | 763 | Angie Bolton Workman |
@@ -338,14 +338,14 @@
 | 330 | 669 | Charvi' Carter |
 | 331 | 668 | Roseanna Peloso |
 | 332 | 666 | Speedy Spinblock |
-| 333 | 665 | Leslie Ann Carter |
-| 334 | 665 | Prette Qui |
+| 333 | 665 | Prette Qui |
+| 334 | 665 | Leslie Ann Carter |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | BeQuo |
-| 340 | 661 | goofinoff |
+| 339 | 661 | goofinoff |
+| 340 | 661 | BeQuo |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
 | 343 | 650 | Shiny Rollzone |
@@ -601,8 +601,8 @@
 | 593 | 403 | Nate Skidmore |
 | 594 | 401 | Moua Ying |
 | 595 | 401 | De Hawkins |
-| 596 | 400 | Joshua Self |
-| 597 | 400 | Tammy Allen |
+| 596 | 400 | Tammy Allen |
+| 597 | 400 | Joshua Self |
 | 598 | 400 | Kathleen Driskell |
 | 599 | 399 | Oscar Bernie |
 | 600 | 398 | Crystal Heller Gonzalez |
@@ -745,8 +745,8 @@
 | 737 | 323 | stacey |
 | 738 | 323 | Briana Alexander |
 | 739 | 322 | Lea Stewart |
-| 740 | 322 | Robin L. Vial |
-| 741 | 322 | Michelle Pike |
+| 740 | 322 | Michelle Pike |
+| 741 | 322 | Robin L. Vial |
 | 742 | 322 | Christina Jarvis-Swarbrick |
 | 743 | 321 | Ashley Criner |
 | 744 | 321 | Tamara Bailey |
@@ -756,8 +756,8 @@
 | 748 | 319 | Cheery Puzzler |
 | 749 | 319 | RetroLemur |
 | 750 | 318 | Jennifer Mahon |
-| 751 | 317 | Ashlyn Berner |
-| 752 | 317 | Zombi3 |
+| 751 | 317 | Zombi3 |
+| 752 | 317 | Ashlyn Berner |
 | 753 | 317 | Aireka Roman |
 | 754 | 316 | Epic Spinfit |
 | 755 | 315 | MamaBear11 |

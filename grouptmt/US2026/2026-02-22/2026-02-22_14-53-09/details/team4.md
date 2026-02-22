@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
@@ -240,8 +240,8 @@
 | 232 | 186 | Holly |
 | 233 | 185 | Laura Hosford |
 | 234 | 184 | Ak Jones |
-| 235 | 184 | Lauren Lamb |
-| 236 | 184 | April Rondinone |
+| 235 | 184 | April Rondinone |
+| 236 | 184 | Lauren Lamb |
 | 237 | 183 | JPW |
 | 238 | 181 | Carter Jones |
 | 239 | 181 | Jackie Marie |

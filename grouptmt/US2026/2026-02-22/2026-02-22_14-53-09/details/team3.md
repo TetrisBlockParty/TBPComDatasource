@@ -360,8 +360,8 @@
 | 352 | 186 | Noettín Kan Zasnemoore |
 | 353 | 186 | Sameerah Smith |
 | 354 | 185 | Angella Lyons |
-| 355 | 184 | Shanon R Jackson |
-| 356 | 184 | Troy |
+| 355 | 184 | Troy |
+| 356 | 184 | Shanon R Jackson |
 | 357 | 184 | Salena Whitlock |
 | 358 | 183 | Cesar Barraza |
 | 359 | 182 | gremicx |
@@ -373,8 +373,8 @@
 | 365 | 179 | DanceLuvLaugh |
 | 366 | 178 | Jess Dearborn |
 | 367 | 177 | Kristin Delibac Corrigan |
-| 368 | 176 | Emma |
-| 369 | 176 | Skinny Baldez |
+| 368 | 176 | Skinny Baldez |
+| 369 | 176 | Emma |
 | 370 | 175 | Wacky Crasher |
 | 371 | 174 | Sierra Spencer |
 | 372 | 174 | Lesley Perez |
@@ -451,8 +451,8 @@
 | 443 | 148 | Flashy Rumbler |
 | 444 | 147 | David Bardo |
 | 445 | 147 | sofaking |
-| 446 | 147 | Megan Rathmanner |
-| 447 | 147 | Erika Thornton |
+| 446 | 147 | Erika Thornton |
+| 447 | 147 | Megan Rathmanner |
 | 448 | 146 | Sdot |
 | 449 | 146 | Sara Dunn |
 | 450 | 146 | Sarah Whalen |
