@@ -95,9 +95,9 @@
 | 87 | 313 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 307 | Hyper |
-| 90 | 305 | Spunky Piecebuilder |
-| 91 | 305 | Patrick Luckenbill |
-| 92 | 305 | Cynthia Bradley |
+| 90 | 305 | Cynthia Bradley |
+| 91 | 305 | Spunky Piecebuilder |
+| 92 | 305 | Patrick Luckenbill |
 | 93 | 304 | Nicole Roseberry Weber |
 | 94 | 303 | cc |
 | 95 | 301 | Lehrin Maria |

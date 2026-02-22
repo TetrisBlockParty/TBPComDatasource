@@ -104,15 +104,15 @@
 | 96 | 496 | Domo Washington |
 | 97 | 493 | Mandy Smith Oldham |
 | 98 | 491 | Chauntee Alfrey-Cardinale |
-| 99 | 471 | Kristie |
-| 100 | 471 | Mendoza Lee Christy |
+| 99 | 471 | Mendoza Lee Christy |
+| 100 | 471 | Kristie |
 | 101 | 459 | Nerdy Riseclear |
 | 102 | 453 | Silly Twist |
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jenny Hrndz |
-| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
 | 109 | 428 | Betty Ivy |
 | 110 | 428 | Elissa S-k |
@@ -124,9 +124,9 @@
 | 116 | 403 | Christine Filson |
 | 117 | 403 | FuzzyNavel |
 | 118 | 400 | Luciana Braganca Vieira |
-| 119 | 399 | Patti Skiles |
+| 119 | 399 | Mcathen |
 | 120 | 399 | ren |
-| 121 | 399 | Mcathen |
+| 121 | 399 | Patti Skiles |
 | 122 | 397 | Annie Déè |
 | 123 | 396 | Shannon Matthew Byers |
 | 124 | 394 | joclisa |
@@ -149,8 +149,8 @@
 | 141 | 348 | CeceGeGe |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Dapper Snap |
-| 145 | 328 | Aaron Pitkin |
+| 144 | 328 | Aaron Pitkin |
+| 145 | 328 | Dapper Snap |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -174,8 +174,8 @@
 | 166 | 286 | Cynthia Herrmann Egland |
 | 167 | 283 | Joye Sims Binion |
 | 168 | 278 | Rufus Lincoln |
-| 169 | 276 | _melisa223_ |
-| 170 | 276 | Crimson |
+| 169 | 276 | Crimson |
+| 170 | 276 | _melisa223_ |
 | 171 | 274 | Tye Stovall |
 | 172 | 272 | opf |
 | 173 | 272 | Rebecca Bailey |
@@ -184,13 +184,13 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tiffany Ford |
-| 180 | 261 | Tom Nault |
+| 179 | 261 | Tom Nault |
+| 180 | 261 | Tiffany Ford |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
-| 184 | 256 | Brenda Lee Vander Molen |
-| 185 | 256 | Tiffany Davie |
+| 184 | 256 | Tiffany Davie |
+| 185 | 256 | Brenda Lee Vander Molen |
 | 186 | 256 | KayB |
 | 187 | 254 | Duane Bright |
 | 188 | 253 | Nora Rogers |

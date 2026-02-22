@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -182,8 +182,8 @@
 | 174 | 160 | Carlos Ramirez |
 | 175 | 160 | ZeeZee |
 | 176 | 159 | Marcus Todd |
-| 177 | 158 | Avy Absol |
-| 178 | 158 | Chair |
+| 177 | 158 | Chair |
+| 178 | 158 | Avy Absol |
 | 179 | 156 | Cozy Balancer |
 | 180 | 155 | AyeKay |
 | 181 | 154 | scott |
