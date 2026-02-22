@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -125,8 +125,8 @@
 | 117 | 290 | 🥔🥔 Spudz |
 | 118 | 288 | Leslie Nicole |
 | 119 | 287 | Shannon Ferrari |
-| 120 | 286 | Daria Rycewicz |
-| 121 | 286 | shark tato |
+| 120 | 286 | shark tato |
+| 121 | 286 | Daria Rycewicz |
 | 122 | 281 | Meagan Nicole |
 | 123 | 278 | Desi Desporte |
 | 124 | 278 | Carrie Brian |
@@ -210,8 +210,8 @@
 | 202 | 167 | Cozy Balancer |
 | 203 | 166 | Marvin Lou Martin |
 | 204 | 166 | SammieJo Guy |
-| 205 | 165 | James Hurley Jr. |
-| 206 | 165 | Jackie Marie |
+| 205 | 165 | Jackie Marie |
+| 206 | 165 | James Hurley Jr. |
 | 207 | 164 | 030Synner |
 | 208 | 163 | Kristina Black |
 | 209 | 162 | Joanna |

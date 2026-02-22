@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -184,8 +184,8 @@
 | 176 | 347 | Nicole Flippo |
 | 177 | 343 | Ashley Raines |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Leah Barnett |
-| 180 | 338 | Gumbo |
+| 179 | 338 | Gumbo |
+| 180 | 338 | Leah Barnett |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -196,8 +196,8 @@
 | 188 | 311 | Raya |
 | 189 | 311 | Araceli Parra |
 | 190 | 310 | Danielle Balcom |
-| 191 | 308 | Rania Zaqout |
-| 192 | 308 | Daryn Elliott |
+| 191 | 308 | Daryn Elliott |
+| 192 | 308 | Rania Zaqout |
 | 193 | 307 | rnr junky |
 | 194 | 307 | Blocked |
 | 195 | 305 | Rochelle Hazelett |
@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | Tiffany Davie |
-| 237 | 256 | KayB |
+| 236 | 256 | KayB |
+| 237 | 256 | Tiffany Davie |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | Annie Marie |
@@ -256,8 +256,8 @@
 | 248 | 236 | Jess Bissett |
 | 249 | 235 | LaNette Morgan |
 | 250 | 234 | Nikki Pags |
-| 251 | 233 | Ray Lader |
-| 252 | 233 | Josh Borquez |
+| 251 | 233 | Josh Borquez |
+| 252 | 233 | Ray Lader |
 | 253 | 232 | Donna |
 | 254 | 232 | Brenda Schmid Wood |
 | 255 | 227 | Meowsa |
@@ -275,10 +275,10 @@
 | 267 | 216 | Cheryl Hinch Tenbrook |
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
 | 269 | 214 | Angela Scott |
-| 270 | 214 | Amy Fuller Heaton |
-| 271 | 214 | Rebel124 |
-| 272 | 212 | Desiree Gold |
-| 273 | 212 | Twisty Brick LT |
+| 270 | 214 | Rebel124 |
+| 271 | 214 | Amy Fuller Heaton |
+| 272 | 212 | Twisty Brick LT |
+| 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
 | 275 | 211 | El Chapa |
 | 276 | 211 | Khaleada McGill Banks |
@@ -286,8 +286,8 @@
 | 278 | 208 | AlsoJess |
 | 279 | 207 | Jessica |
 | 280 | 207 | angieelyn |
-| 281 | 206 | Tracy Martin |
-| 282 | 206 | Jone |
+| 281 | 206 | Jone |
+| 282 | 206 | Tracy Martin |
 | 283 | 206 | Tammy Rosenberry |
 | 284 | 204 | Aerian Preston |
 | 285 | 203 | Angie Harper |
@@ -409,8 +409,8 @@
 | 401 | 134 | gremicx |
 | 402 | 134 | Glenn Loving |
 | 403 | 133 | Jen Lewis |
-| 404 | 132 | Hanna Kim |
-| 405 | 132 | Andrew Thorson |
+| 404 | 132 | Andrew Thorson |
+| 405 | 132 | Hanna Kim |
 | 406 | 131 | Cheeky Setter |
 | 407 | 130 | Maia |
 | 408 | 130 | Sarah Whalen |

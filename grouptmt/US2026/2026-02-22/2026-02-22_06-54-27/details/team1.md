@@ -136,8 +136,8 @@
 | 128 | 280 | Sarah Roberts |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Lexuriuos Lifestlye |
-| 132 | 264 | Jenny Gingrich Fuentes |
+| 131 | 264 | Jenny Gingrich Fuentes |
+| 132 | 264 | Lexuriuos Lifestlye |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |
