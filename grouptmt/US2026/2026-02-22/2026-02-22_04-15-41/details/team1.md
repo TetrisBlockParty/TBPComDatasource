@@ -151,8 +151,8 @@
 | 143 | 212 | Jaimie Lynn |
 | 144 | 211 | Marianita Garcia |
 | 145 | 210 | Giggly Builderline |
-| 146 | 208 | lil mickey |
-| 147 | 208 | Bouncy Grid |
+| 146 | 208 | Bouncy Grid |
+| 147 | 208 | lil mickey |
 | 148 | 207 | Leslie Bush Yarbrough |
 | 149 | 206 | Kimberly Garcia |
 | 150 | 204 | Lacy Wolfe |
@@ -206,7 +206,7 @@
 | 198 | 165 | Silly Align |
 | 199 | 165 | Nadine Velardo |
 | 200 | 164 | Shanae Grant |
-| 201 | 163 | Tyler Whitley |
+| 201 | 163 | Angela Fairbank |
 | 202 | 163 | DaRascal |
 | 203 | 163 | Blaire Bruckoff |
 | 204 | 163 | Tyler Whitley |
@@ -281,7 +281,7 @@
 | 273 | 116 | Debbie Davis |
 | 274 | 116 | Fresno Beotoni |
 | 275 | 115 | Mrs.Patrica |
-| 276 | 114 | Angela Rena Brooks |
+| 276 | 114 | Rachel Nichole Henry |
 | 277 | 114 | Constance Risner |
 | 278 | 114 | Angela Rena Brooks |
 | 279 | 112 | Nerdy Curvebuilder |

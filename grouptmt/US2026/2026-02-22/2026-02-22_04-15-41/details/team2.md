@@ -348,8 +348,8 @@
 | 340 | 507 | Magic steve |
 | 341 | 507 | Gauri Shrotriya |
 | 342 | 504 | Lylymom |
-| 343 | 502 | Poppy Snap |
-| 344 | 502 | Sparkles |
+| 343 | 502 | Sparkles |
+| 344 | 502 | Poppy Snap |
 | 345 | 500 | Sarah Ridenour |
 | 346 | 499 | Sarah Massey |
 | 347 | 498 | Nashu |
@@ -364,8 +364,8 @@
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Andrew Willis |
-| 360 | 488 | Venita Ray |
+| 359 | 488 | Venita Ray |
+| 360 | 488 | Andrew Willis |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -393,9 +393,9 @@
 | 385 | 465 | Michelle Fields |
 | 386 | 463 | Jaye EL Hunter |
 | 387 | 463 | Sue Leard |
-| 388 | 462 | Daphne Jordan |
-| 389 | 462 | Tonya Lee |
-| 390 | 462 | Amanda Ferrell |
+| 388 | 462 | Tonya Lee |
+| 389 | 462 | Amanda Ferrell |
+| 390 | 462 | Daphne Jordan |
 | 391 | 461 | Hong Tang |
 | 392 | 460 | Cody Smith-Candelaria |
 | 393 | 459 | Cassie Mercer |
@@ -1035,8 +1035,8 @@
 | 1027 | 182 | Miranda Jackson |
 | 1028 | 182 | Nicole Sanqui |
 | 1029 | 182 | Andrew Engman |
-| 1030 | 182 | Cynthia Holtz |
-| 1031 | 182 | Kirsten Marie Lomupo |
+| 1030 | 182 | Kirsten Marie Lomupo |
+| 1031 | 182 | Cynthia Holtz |
 | 1032 | 182 | Veronica Guerra |
 | 1033 | 181 | Nate Lee |
 | 1034 | 181 | Scott Rackley |

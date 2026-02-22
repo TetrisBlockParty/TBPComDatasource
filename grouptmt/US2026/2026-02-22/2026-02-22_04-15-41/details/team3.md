@@ -107,8 +107,8 @@
 | 99 | 506 | Sashay Tapae Simpson |
 | 100 | 503 | Susan Valentino |
 | 101 | 502 | Justin Ritter |
-| 102 | 500 | Kristie |
-| 103 | 500 | Domo Washington |
+| 102 | 500 | Domo Washington |
+| 103 | 500 | Kristie |
 | 104 | 497 | Mykal Burton |
 | 105 | 491 | Chauntee Alfrey-Cardinale |
 | 106 | 487 | Alaina Lee |
