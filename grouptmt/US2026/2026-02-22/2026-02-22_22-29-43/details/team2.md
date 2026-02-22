@@ -371,8 +371,8 @@
 | 363 | 728 | Tom Riefer |
 | 364 | 725 | Vonceial Boone |
 | 365 | 725 | Charvi' Carter |
-| 366 | 724 | Melissa Holsinger |
-| 367 | 724 | Dreamy Blast |
+| 366 | 724 | Dreamy Blast |
+| 367 | 724 | Melissa Holsinger |
 | 368 | 723 | Leslie Ann Carter |
 | 369 | 713 | Chelle |
 | 370 | 710 | tejas25 |
@@ -413,8 +413,8 @@
 | 405 | 664 | Sleepypanda67 |
 | 406 | 664 | Kayla |
 | 407 | 663 | Kimmy Newman |
-| 408 | 662 | AgileDragon |
-| 409 | 662 | Ellie Jonas |
+| 408 | 662 | Ellie Jonas |
+| 409 | 662 | AgileDragon |
 | 410 | 661 | Christine Bollig |
 | 411 | 653 | Alex Dungo Hoang |
 | 412 | 653 | trabuco |
@@ -473,8 +473,8 @@
 | 465 | 581 | Angie Marie |
 | 466 | 580 | Angela Lynn |
 | 467 | 579 | Roy Salyer |
-| 468 | 579 | Denise Rickman |
-| 469 | 579 | Dapper Dasher |
+| 468 | 579 | Dapper Dasher |
+| 469 | 579 | Denise Rickman |
 | 470 | 576 | Leslie Johnson Guinto |
 | 471 | 573 | Lonne Emade |
 | 472 | 572 | Chris Wanner |
@@ -555,8 +555,8 @@
 | 547 | 496 | SwampRebel |
 | 548 | 495 | Michelle Lee |
 | 549 | 495 | Bubbly Snapbuild |
-| 550 | 494 | Snippy Rumbler |
-| 551 | 494 | Venita Ray |
+| 550 | 494 | Venita Ray |
+| 551 | 494 | Snippy Rumbler |
 | 552 | 493 | Sue Leard |
 | 553 | 493 | Besma Ao |
 | 554 | 492 | Breezy Clusterer |
@@ -581,8 +581,8 @@
 | 573 | 483 | Kyle LeRoy Harris |
 | 574 | 482 | Drwatson187 |
 | 575 | 482 | Kathleen Driskell |
-| 576 | 482 | Lina Sanders |
-| 577 | 482 | Amélie Cadieux |
+| 576 | 482 | Amélie Cadieux |
+| 577 | 482 | Lina Sanders |
 | 578 | 480 | Ryan Meilleur |
 | 579 | 480 | Brandon Jones |
 | 580 | 480 | Dar |
@@ -640,8 +640,8 @@
 | 632 | 447 | Boozi |
 | 633 | 446 | NanDa Cruzan VI |
 | 634 | 445 | Sharon Mills |
-| 635 | 445 | Michelle Sager |
-| 636 | 445 | Mar Q Thomas |
+| 635 | 445 | Mar Q Thomas |
+| 636 | 445 | Michelle Sager |
 | 637 | 444 | Chab |
 | 638 | 444 | Fi Ne |
 | 639 | 444 | Angela Murgia-Owen |
@@ -744,8 +744,8 @@
 | 736 | 388 | TF Dyer |
 | 737 | 388 | ruth |
 | 738 | 388 | Tamara Bailey |
-| 739 | 388 | Sarah block |
-| 740 | 388 | CC |
+| 739 | 388 | CC |
+| 740 | 388 | Sarah block |
 | 741 | 387 | Bold Brickster |
 | 742 | 386 | Loony Basepiece |
 | 743 | 386 | Shorty |

@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -172,9 +172,9 @@
 | 164 | 309 | Rachael |
 | 165 | 307 | Sarah Roberts |
 | 166 | 306 | Jessi Sauer |
-| 167 | 306 | Rat666 |
+| 167 | 306 | Bloknboy |
 | 168 | 306 | Happy Basegrid |
-| 169 | 306 | Bloknboy |
+| 169 | 306 | Rat666 |
 | 170 | 305 | Constance Risner |
 | 171 | 304 | Nicole Roseberry Weber |
 | 172 | 303 | Letson Melissa |

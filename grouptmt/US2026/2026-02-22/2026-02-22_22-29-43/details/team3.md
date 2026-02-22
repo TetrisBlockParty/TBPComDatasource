@@ -169,12 +169,12 @@
 | 161 | 484 | Dapper Snap |
 | 162 | 484 | Samantha Greco |
 | 163 | 481 | Tasha Gillespie |
-| 164 | 479 | Poppy Splitter |
-| 165 | 479 | Annie Marie |
+| 164 | 479 | Annie Marie |
+| 165 | 479 | Poppy Splitter |
 | 166 | 475 | Tessina Dewey-Mancino |
 | 167 | 474 | Danielle Balcom |
-| 168 | 471 | Rachel |
-| 169 | 471 | Mendoza Lee Christy |
+| 168 | 471 | Mendoza Lee Christy |
+| 169 | 471 | Rachel |
 | 170 | 470 | Logan Naccarato |
 | 171 | 469 | Adrian Marcel Pate |
 | 172 | 469 | Melissa Orth Hunter |
@@ -341,8 +341,8 @@
 | 333 | 251 | Naur |
 | 334 | 251 | Alice |
 | 335 | 250 | Tosha Griffey |
-| 336 | 247 | Jessica |
-| 337 | 247 | Daring Builder |
+| 336 | 247 | Daring Builder |
+| 337 | 247 | Jessica |
 | 338 | 246 | Erika Thornton |
 | 339 | 245 | Latoya Mayne |
 | 340 | 244 | LaNette Morgan |

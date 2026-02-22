@@ -96,8 +96,8 @@
 | 88 | 575 | Jeremy Steines |
 | 89 | 561 | H.R. Block |
 | 90 | 557 | Carmethia Clemons Haslerig |
-| 91 | 547 | Amy Suckarieh |
-| 92 | 547 | Chris Baggett |
+| 91 | 547 | Chris Baggett |
+| 92 | 547 | Amy Suckarieh |
 | 93 | 546 | Amelpss |
 | 94 | 533 | Samantha Peterson |
 | 95 | 531 | Zippy Gridlock |
@@ -157,11 +157,11 @@
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
-| 152 | 333 | Peachy Fall |
-| 153 | 333 | Twisty Cascadezone |
-| 154 | 332 | Leslie Nicole |
+| 152 | 333 | Twisty Cascadezone |
+| 153 | 333 | Peachy Fall |
+| 154 | 332 | HastyGrabber |
 | 155 | 332 | Desi Desporte |
-| 156 | 332 | HastyGrabber |
+| 156 | 332 | Leslie Nicole |
 | 157 | 330 | Oscar Alberto Perez |
 | 158 | 328 | Kris Bartlett |
 | 159 | 328 | Brandon Crabbs |
@@ -194,8 +194,8 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Mary Ann Pabukis |
-| 190 | 277 | Kim Klutz Olson |
+| 189 | 277 | Kim Klutz Olson |
+| 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
 | 192 | 272 | Dennis Bradley |
 | 193 | 272 | Alan George LaRage |
