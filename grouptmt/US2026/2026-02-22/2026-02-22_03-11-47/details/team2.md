@@ -73,8 +73,8 @@
 | 65 | 1681 | Shameika Trail |
 | 66 | 1641 | Andea Beck |
 | 67 | 1620 | Sam Smith |
-| 68 | 1603 | RdRydnHd |
-| 69 | 1603 | Gabby Jenner |
+| 68 | 1603 | Gabby Jenner |
+| 69 | 1603 | RdRydnHd |
 | 70 | 1596 | Ray Ray Prado |
 | 71 | 1587 | Rob Riggin |
 | 72 | 1553 | Charie Holland |
@@ -139,8 +139,8 @@
 | 131 | 1051 | Shandrica Lowe |
 | 132 | 1048 | PsychKIRAtrist |
 | 133 | 1047 | Amy Sayers |
-| 134 | 1043 | Suki Kaur |
-| 135 | 1043 | Brave Dropmatch |
+| 134 | 1043 | Brave Dropmatch |
+| 135 | 1043 | Suki Kaur |
 | 136 | 1032 | Sarah Freitas |
 | 137 | 1020 | Heather Westrum |
 | 138 | 1018 | LordZophar |
@@ -201,8 +201,8 @@
 | 193 | 798 | Moose Griffith |
 | 194 | 787 | Laura McCarthey |
 | 195 | 783 | Shuany Arias |
-| 196 | 777 | Tesha Oldaker |
-| 197 | 777 | Barbra Miller |
+| 196 | 777 | Barbra Miller |
+| 197 | 777 | Tesha Oldaker |
 | 198 | 771 | Terri McKelvey McKinley |
 | 199 | 765 | Jodi Blake |
 | 200 | 763 | Dineisha Carpenter |
@@ -231,9 +231,9 @@
 | 223 | 699 | Vo'Landa Reels |
 | 224 | 698 | Mighty Shatterfit |
 | 225 | 697 | Dreamy Blast |
-| 226 | 692 | Dannette Goldberg-Richards |
-| 227 | 692 | Jennifer Casey-Kay |
-| 228 | 692 | Chelle |
+| 226 | 692 | Chelle |
+| 227 | 692 | Dannette Goldberg-Richards |
+| 228 | 692 | Jennifer Casey-Kay |
 | 229 | 690 | Deborah Miller |
 | 230 | 688 | ShinyRose |
 | 231 | 687 | Trista Dumais |

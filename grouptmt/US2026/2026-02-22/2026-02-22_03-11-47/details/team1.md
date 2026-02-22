@@ -94,9 +94,9 @@
 | 86 | 326 | Monica Donato |
 | 87 | 323 | Sweet Baker |
 | 88 | 321 | Maria C. Hernandez |
-| 89 | 319 | Deanna L Hermanson |
+| 89 | 319 | Shauna Loe |
 | 90 | 319 | Patrick Luckenbill |
-| 91 | 319 | Shauna Loe |
+| 91 | 319 | Deanna L Hermanson |
 | 92 | 315 | Cynthia Bradley |
 | 93 | 313 | Tanya Carpenter-Reynolds |
 | 94 | 310 | Seth Wesson |
@@ -121,10 +121,10 @@
 | 113 | 273 | Happy Basegrid |
 | 114 | 273 | Katie Daniels |
 | 115 | 265 | Dandy Basegrid |
-| 116 | 263 | Jason Jones |
-| 117 | 263 | Sharon Reynolds |
-| 118 | 252 | Elaine Elaine |
-| 119 | 252 | Lexuriuos Lifestlye |
+| 116 | 263 | Sharon Reynolds |
+| 117 | 263 | Jason Jones |
+| 118 | 252 | Lexuriuos Lifestlye |
+| 119 | 252 | Elaine Elaine |
 | 120 | 252 | Dena Kayy |
 | 121 | 245 | Greg Hart |
 | 122 | 243 | Trippy Redd |
@@ -203,19 +203,19 @@
 | 195 | 163 | Angela Fairbank |
 | 196 | 162 | Cece Ibarra |
 | 197 | 161 | SavageBooty98 |
-| 198 | 160 | David Miller |
-| 199 | 160 | Tedashi |
+| 198 | 160 | Tedashi |
+| 199 | 160 | David Miller |
 | 200 | 159 | Bindi |
 | 201 | 158 | Sarah Marie |
 | 202 | 154 | Melissa Lemmon |
 | 203 | 153 | Barry Mac'Ockner |
-| 204 | 152 | Brave Wrecker |
-| 205 | 152 | Speedy Snapfall |
-| 206 | 150 | Agustin Duarte Orozco |
-| 207 | 150 | Adele Rahman |
+| 204 | 152 | Speedy Snapfall |
+| 205 | 152 | Brave Wrecker |
+| 206 | 150 | Adele Rahman |
+| 207 | 150 | Agustin Duarte Orozco |
 | 208 | 149 | Snappy Swiper |
-| 209 | 147 | Davery Spencer Adair |
-| 210 | 147 | DaRascal |
+| 209 | 147 | DaRascal |
+| 210 | 147 | Davery Spencer Adair |
 | 211 | 146 | Witty Builderfit |
 | 212 | 144 | Toph |
 | 213 | 144 | Miguel Teixeira |
@@ -223,8 +223,8 @@
 | 215 | 144 | Gary Gobin |
 | 216 | 143 | Guest |
 | 217 | 142 | Colleen Wise |
-| 218 | 141 | Dino |
-| 219 | 141 | Blaire Bruckoff |
+| 218 | 141 | Blaire Bruckoff |
+| 219 | 141 | Dino |
 | 220 | 139 | Flashy Rotator |
 | 221 | 138 | Mark Smith |
 | 222 | 138 | Hector Cruz |

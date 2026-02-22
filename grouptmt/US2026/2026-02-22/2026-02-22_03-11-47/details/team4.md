@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Nugget |
-| 85 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Nugget |
 | 86 | 330 | Monica Daley |
 | 87 | 319 | Livvy |
 | 88 | 317 | Lori Walker |
@@ -159,8 +159,8 @@
 | 151 | 194 | Zany Twisterfit |
 | 152 | 192 | Shauna Havard |
 | 153 | 190 | Justin Hannigan |
-| 154 | 189 | Chilly Crasher |
-| 155 | 189 | Stacey Stano |
+| 154 | 189 | Stacey Stano |
+| 155 | 189 | Chilly Crasher |
 | 156 | 189 | Calvin Dennis |
 | 157 | 188 | Andria Lynn |
 | 158 | 187 | TheNeesh50 |
@@ -185,11 +185,11 @@
 | 177 | 166 | Cozy Balancer |
 | 178 | 164 | 030Synner |
 | 179 | 160 | James Hurley Jr. |
-| 180 | 160 | ZeeZee |
-| 181 | 160 | Carlos Ramirez |
+| 180 | 160 | Carlos Ramirez |
+| 181 | 160 | ZeeZee |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Avy Absol |
-| 184 | 158 | Chair |
+| 183 | 158 | Chair |
+| 184 | 158 | Avy Absol |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 154 | Laura Hosford |
@@ -473,7 +473,7 @@
 | 465 | 67 | Glitzy Crasher |
 | 466 | 66 | Chilly Filler |
 | 467 | 66 | Amanda Maciel Clarke |
-| 468 | 66 | Carlos G Reyes |
+| 468 | 66 | Savannah Roughton Jones |
 | 469 | 66 | James Philpot Ross |
 | 470 | 66 | Carlos G Reyes |
 | 471 | 65 | Globofish |
