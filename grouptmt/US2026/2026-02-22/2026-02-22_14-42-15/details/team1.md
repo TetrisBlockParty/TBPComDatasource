@@ -99,8 +99,8 @@
 | 91 | 390 | Goose egg |
 | 92 | 390 | Candy Jones |
 | 93 | 390 | Lori Bales |
-| 94 | 389 | Nery Martinez |
-| 95 | 389 | Trina Gee |
+| 94 | 389 | Trina Gee |
+| 95 | 389 | Nery Martinez |
 | 96 | 383 | Loony Fitzone |
 | 97 | 382 | Jacqueline Williams |
 | 98 | 379 | Austin James |
@@ -113,8 +113,8 @@
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | Jason Jones |
-| 109 | 352 | phrmblk24 |
+| 108 | 352 | phrmblk24 |
+| 109 | 352 | Jason Jones |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |
@@ -226,8 +226,8 @@
 | 218 | 198 | Shiny Gridmatch |
 | 219 | 198 | Happy Snapbuild |
 | 220 | 197 | Melissa Lemmon |
-| 221 | 195 | Bindi |
-| 222 | 195 | Jennifer Olewnik Soborowski |
+| 221 | 195 | Jennifer Olewnik Soborowski |
+| 222 | 195 | Bindi |
 | 223 | 195 | Madison Wicks |
 | 224 | 193 | Shanae Grant |
 | 225 | 193 | Michael |
@@ -257,8 +257,8 @@
 | 249 | 180 | Matt Iaccheo |
 | 250 | 180 | Beau Galvan |
 | 251 | 179 | Erin Rosberg |
-| 252 | 179 | Ryan White |
-| 253 | 179 | Danielle Little-Daugherty |
+| 252 | 179 | Danielle Little-Daugherty |
+| 253 | 179 | Ryan White |
 | 254 | 178 | Gabrielle Louise Malloch |
 | 255 | 177 | Irual Hctrab |
 | 256 | 177 | Jessica Russell |
@@ -320,8 +320,8 @@
 | 312 | 146 | Larry Tilton |
 | 313 | 146 | Fresno Beotoni |
 | 314 | 145 | Rachel Nichole Henry |
-| 315 | 145 | Robert |
-| 316 | 145 | Tipsy Riseclear |
+| 315 | 145 | Tipsy Riseclear |
+| 316 | 145 | Robert |
 | 317 | 144 | Miguel Teixeira |
 | 318 | 144 | Toph |
 | 319 | 143 | Guest |

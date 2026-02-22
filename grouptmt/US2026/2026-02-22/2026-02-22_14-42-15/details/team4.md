@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Shelly Chandler |
-| 38 | 843 | Lucille Truesdale |
+| 37 | 843 | Lucille Truesdale |
+| 38 | 843 | Shelly Chandler |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -172,7 +172,7 @@
 | 164 | 253 | Casey Grabner |
 | 165 | 250 | Matt Dell'Olio |
 | 166 | 245 | Diana Houts |
-| 167 | 244 | Mimi |
+| 167 | 244 | Twisty Cascadezone |
 | 168 | 244 | J-Rizzle |
 | 169 | 244 | Mimi |
 | 170 | 241 | Allen Lloyd |
@@ -216,8 +216,8 @@
 | 208 | 201 | Melvin Baird |
 | 209 | 200 | Lori |
 | 210 | 200 | Laura |
-| 211 | 198 | Keith Kelley |
-| 212 | 198 | Zesty Twistbuilder |
+| 211 | 198 | Zesty Twistbuilder |
+| 212 | 198 | Keith Kelley |
 | 213 | 197 | Gilles Lanctot |
 | 214 | 197 | Silly SeaWeed |
 | 215 | 196 | Mr. Party |

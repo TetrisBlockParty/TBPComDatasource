@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 560 | Christine Filson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 551 | Kristie |
@@ -169,8 +169,8 @@
 | 161 | 403 | Scott Lindsay |
 | 162 | 401 | Katie Knaus |
 | 163 | 400 | Luciana Braganca Vieira |
-| 164 | 399 | Mcathen |
-| 165 | 399 | Marcie Bressler |
+| 164 | 399 | Marcie Bressler |
+| 165 | 399 | Mcathen |
 | 166 | 397 | Annie Déè |
 | 167 | 393 | Fallorina Susana |
 | 168 | 391 | Sarah Cowan Burgos |
@@ -190,13 +190,13 @@
 | 182 | 370 | Danielle Allison |
 | 183 | 368 | Stephanie Woods |
 | 184 | 366 | Adrian Marcel Pate |
-| 185 | 362 | Darlene McMillan |
-| 186 | 362 | Rochelle Hazelett |
+| 185 | 362 | Rochelle Hazelett |
+| 186 | 362 | Darlene McMillan |
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Tom Nault |
-| 191 | 357 | Stephanie Burtin |
+| 190 | 357 | Stephanie Burtin |
+| 191 | 357 | Tom Nault |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -317,8 +317,8 @@
 | 309 | 210 | Criss |
 | 310 | 210 | Lizabeth Fox |
 | 311 | 209 | Micayah Stevens |
-| 312 | 208 | AlsoJess |
-| 313 | 208 | Niki Dalrymple |
+| 312 | 208 | Niki Dalrymple |
+| 313 | 208 | AlsoJess |
 | 314 | 207 | angieelyn |
 | 315 | 207 | ROODBOY |
 | 316 | 207 | Jessica |
@@ -461,8 +461,8 @@
 | 453 | 144 | Crystal Hine |
 | 454 | 143 | Tracey Cox |
 | 455 | 143 | Deseree Ewing |
-| 456 | 142 | Erica Anderson |
-| 457 | 142 | Gray Hicks |
+| 456 | 142 | Gray Hicks |
+| 457 | 142 | Erica Anderson |
 | 458 | 142 | Jl |
 | 459 | 141 | Tipsy Puzzle |
 | 460 | 141 | Heather Bateman |
@@ -472,8 +472,8 @@
 | 464 | 140 | Christine Vosburgh |
 | 465 | 140 | Jumpy Curvebuilder |
 | 466 | 140 | Cyd061769 |
-| 467 | 140 | Alison Baus |
-| 468 | 140 | Boldy Corner |
+| 467 | 140 | Boldy Corner |
+| 468 | 140 | Alison Baus |
 | 469 | 139 | Paula Little |
 | 470 | 139 | Rayzer |
 | 471 | 138 | Kellie Montgomery |
@@ -493,8 +493,8 @@
 | 485 | 134 | Sharon Dudley Lawson |
 | 486 | 134 | Glenn Loving |
 | 487 | 134 | Brian Battjes |
-| 488 | 133 | Chummy Rumbler |
-| 489 | 133 | Jumpy Wrecker |
+| 488 | 133 | Jumpy Wrecker |
+| 489 | 133 | Chummy Rumbler |
 | 490 | 132 | Andrew Thorson |
 | 491 | 131 | Jolly Dashpiece |
 | 492 | 131 | Erin Ervin |

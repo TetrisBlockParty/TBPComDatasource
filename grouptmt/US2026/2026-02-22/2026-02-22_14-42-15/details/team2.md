@@ -360,8 +360,8 @@
 | 352 | 631 | Marie Walker |
 | 353 | 630 | Kara Gillen |
 | 354 | 628 | Brownie Sheena |
-| 355 | 627 | Allan Wayne Lamia |
-| 356 | 627 | Victoria Moore-Smith |
+| 355 | 627 | Victoria Moore-Smith |
+| 356 | 627 | Allan Wayne Lamia |
 | 357 | 620 | Brandon Armstrong |
 | 358 | 618 | Gary Stash |
 | 359 | 613 | Ellie Jonas |
@@ -503,8 +503,8 @@
 | 495 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
 | 496 | 470 | Arlene Joy Belicina |
 | 497 | 469 | Spunkysmom |
-| 498 | 466 | Crystal Greene |
-| 499 | 466 | Kori Beth Babb |
+| 498 | 466 | Kori Beth Babb |
+| 499 | 466 | Crystal Greene |
 | 500 | 466 | Koa N Sharon Chen |
 | 501 | 465 | Davetta Sanford |
 | 502 | 465 | Belle Mari |
@@ -598,8 +598,8 @@
 | 590 | 403 | Goofy Dasher |
 | 591 | 401 | Moua Ying |
 | 592 | 401 | De Hawkins |
-| 593 | 400 | Joshua Self |
-| 594 | 400 | Tammy Allen |
+| 593 | 400 | Tammy Allen |
+| 594 | 400 | Joshua Self |
 | 595 | 400 | Michael Artis |
 | 596 | 400 | Kathleen Driskell |
 | 597 | 399 | Oscar Bernie |
@@ -662,9 +662,9 @@
 | 654 | 365 | Audrey Jones |
 | 655 | 364 | Shinette Dobson |
 | 656 | 364 | Matthew Joseph Acevedo |
-| 657 | 363 | Kia Humphery |
-| 658 | 363 | Michelle Sager |
-| 659 | 363 | Jes Norris |
+| 657 | 363 | Michelle Sager |
+| 658 | 363 | Jes Norris |
+| 659 | 363 | Kia Humphery |
 | 660 | 363 | Stephanie Fortune |
 | 661 | 363 | Veronica Stevenson |
 | 662 | 362 | Heather Johnson |
@@ -993,14 +993,14 @@
 | 985 | 250 | Drew Berkelbach |
 | 986 | 249 | Joshua Mullings |
 | 987 | 249 | J.L. Roberts |
-| 988 | 249 | Andrew Engman |
-| 989 | 249 | Angela Yantz |
+| 988 | 249 | Angela Yantz |
+| 989 | 249 | Andrew Engman |
 | 990 | 248 | Jaybee Nguyen |
 | 991 | 248 | CleverAngel |
 | 992 | 248 | Angelina Marie |
 | 993 | 247 | Linda Miltenburg |
-| 994 | 247 | Wizz |
-| 995 | 247 | Karyn Yurcho Dooley |
+| 994 | 247 | Karyn Yurcho Dooley |
+| 995 | 247 | Wizz |
 | 996 | 246 | Stacey Tranchida |
 | 997 | 246 | Monica Wilson |
 | 998 | 246 | Laura McConnell |
@@ -1017,17 +1017,17 @@
 | 1009 | 242 | Greenshades00 |
 | 1010 | 242 | Meganator42 |
 | 1011 | 242 | Groovy Tilefall |
-| 1012 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
-| 1013 | 242 | Donna Chandler |
+| 1012 | 242 | Donna Chandler |
+| 1013 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1014 | 242 | Shilo Anderson |
 | 1015 | 241 | Travis Tinsley |
 | 1016 | 241 | Ronda Cary |
-| 1017 | 241 | Happy Puzzle |
-| 1018 | 241 | Emoney Sanchez |
+| 1017 | 241 | Emoney Sanchez |
+| 1018 | 241 | Happy Puzzle |
 | 1019 | 240 | Sara |
 | 1020 | 240 | Myleaha Holley |
-| 1021 | 240 | Christina Eckert |
-| 1022 | 240 | Daring Matchfit |
+| 1021 | 240 | Daring Matchfit |
+| 1022 | 240 | Christina Eckert |
 | 1023 | 239 | Amy John Mills |
 | 1024 | 239 | Theresa Ring |
 | 1025 | 238 | Pfc Monei Rivera |
@@ -1160,12 +1160,12 @@
 | 1152 | 214 | Cass Shirley |
 | 1153 | 214 | Scherrie Smith |
 | 1154 | 213 | Nick Spring |
-| 1155 | 213 | Hannah Leigh Pelofsky |
-| 1156 | 213 | Giggy Mover |
-| 1157 | 213 | Cynthia Knox |
+| 1155 | 213 | Giggy Mover |
+| 1156 | 213 | Cynthia Knox |
+| 1157 | 213 | Hannah Leigh Pelofsky |
 | 1158 | 212 | Jennifer Zeigler |
-| 1159 | 212 | JP Parks |
-| 1160 | 212 | Denelle Wendt-Ramalho |
+| 1159 | 212 | Denelle Wendt-Ramalho |
+| 1160 | 212 | JP Parks |
 | 1161 | 212 | Izzy Rockford |
 | 1162 | 212 | Crafty Brickline |
 | 1163 | 211 | Eunique Griffin |
