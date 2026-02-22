@@ -223,8 +223,8 @@
 | 215 | 332 | Rich LeBlanc |
 | 216 | 330 | Danielle Balcom |
 | 217 | 330 | Rebecca Funderburk Kirby |
-| 218 | 324 | Kristal C Lee |
-| 219 | 324 | Sissy Lowery Davis |
+| 218 | 324 | Sissy Lowery Davis |
+| 219 | 324 | Kristal C Lee |
 | 220 | 323 | Demetrious Shaw Sr. |
 | 221 | 320 | Or Reznitsky |
 | 222 | 320 | Keis |
@@ -347,7 +347,7 @@
 | 339 | 211 | El Chapa |
 | 340 | 211 | Khaleada McGill Banks |
 | 341 | 210 | Criss |
-| 342 | 210 | Ashley Lynn Marchese |
+| 342 | 210 | Saucy Buildout |
 | 343 | 210 | Eileen Brady Thurber |
 | 344 | 210 | Ashley Lynn Marchese |
 | 345 | 209 | TotoCherue |
@@ -559,8 +559,8 @@
 | 551 | 129 | Mindy Phelps |
 | 552 | 128 | David Kozen |
 | 553 | 127 | Scidone Perez |
-| 554 | 126 | Crystal Martin |
-| 555 | 126 | Kristi Taylor |
+| 554 | 126 | Kristi Taylor |
+| 555 | 126 | Crystal Martin |
 | 556 | 126 | demon14 |
 | 557 | 126 | Lush Balance |
 | 558 | 125 | BugMansMom |

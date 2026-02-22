@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Lexuriuos Lifestlye |
-| 85 | 444 | Hyper |
+| 84 | 444 | Hyper |
+| 85 | 444 | Lexuriuos Lifestlye |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -155,8 +155,8 @@
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
 | 149 | 285 | Ananda Mendez |
-| 150 | 284 | Rachael |
-| 151 | 284 | Emily Adelaide Wheatley |
+| 150 | 284 | Emily Adelaide Wheatley |
+| 151 | 284 | Rachael |
 | 152 | 283 | Franswa |
 | 153 | 282 | Snippy Wipebuilder |
 | 154 | 282 | Tyler Werts |
@@ -223,8 +223,8 @@
 | 215 | 216 | Chad Atchley |
 | 216 | 216 | Shauntina Burke |
 | 217 | 215 | Shaykmia |
-| 218 | 215 | Panda Thagreat |
-| 219 | 215 | Standia Civil |
+| 218 | 215 | Standia Civil |
+| 219 | 215 | Panda Thagreat |
 | 220 | 213 | Speedy Liney |
 | 221 | 213 | Shanae Grant |
 | 222 | 213 | Angela Fairbank |
@@ -315,12 +315,12 @@
 | 307 | 163 | Davery Spencer Adair |
 | 308 | 163 | Tyler Whitley |
 | 309 | 162 | Test |
-| 310 | 162 | Strig |
-| 311 | 162 | Pauline Cortez |
+| 310 | 162 | Pauline Cortez |
+| 311 | 162 | Strig |
 | 312 | 161 | SavageBooty98 |
-| 313 | 160 | Tedashi |
+| 313 | 160 | Colleen Pinette |
 | 314 | 160 | Plucky Stacky |
-| 315 | 160 | Colleen Pinette |
+| 315 | 160 | Tedashi |
 | 316 | 160 | Sunny Catcher |
 | 317 | 159 | Amber Dee |
 | 318 | 159 | Uhog SF |
@@ -448,8 +448,8 @@
 | 440 | 110 | Jeremy Maubert |
 | 441 | 109 | Ariel Whittington |
 | 442 | 109 | Nicolette Ivory Chastain |
-| 443 | 108 | Meechie |
-| 444 | 108 | Stoney Smith |
+| 443 | 108 | Stoney Smith |
+| 444 | 108 | Meechie |
 | 445 | 108 | Owicked1 |
 | 446 | 107 | Mighty Shatterfit |
 | 447 | 107 | sent2bless34 |

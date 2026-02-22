@@ -107,8 +107,8 @@
 | 99 | 1623 | Mr. Street Stack |
 | 100 | 1603 | Gabby Jenner |
 | 101 | 1601 | Ray Ray Prado |
-| 102 | 1599 | Rob Riggin |
-| 103 | 1599 | Janel Turley-Garner |
+| 102 | 1599 | Janel Turley-Garner |
+| 103 | 1599 | Rob Riggin |
 | 104 | 1567 | Sally Dennis |
 | 105 | 1564 | Charie Holland |
 | 106 | 1562 | Loopy Clusterbuilder |
@@ -210,8 +210,8 @@
 | 202 | 998 | Tralonda Weeks |
 | 203 | 993 | Eric Carlson |
 | 204 | 991 | Moose Griffith |
-| 205 | 989 | Desiree Harris Rosch |
-| 206 | 989 | Teddi Notyalc |
+| 205 | 989 | Teddi Notyalc |
+| 206 | 989 | Desiree Harris Rosch |
 | 207 | 988 | Cherica Taylor |
 | 208 | 986 | RAEPR05 |
 | 209 | 979 | Hillary Crawford |
@@ -220,9 +220,9 @@
 | 212 | 973 | Kim Dean |
 | 213 | 972 | Juliana Marques Do Nascimento Gordy |
 | 214 | 960 | Jennifer Kistner |
-| 215 | 957 | Block Master |
-| 216 | 957 | Keri Womack |
-| 217 | 957 | Crystal Hoffman |
+| 215 | 957 | Crystal Hoffman |
+| 216 | 957 | Block Master |
+| 217 | 957 | Keri Womack |
 | 218 | 954 | Shannon Joslin |
 | 219 | 953 | Melissa Rebbe-Lehman |
 | 220 | 951 | Cynthia Ward |
@@ -451,8 +451,8 @@
 | 443 | 540 | Melissa Kay Gibson |
 | 444 | 536 | Caitlin Schmid |
 | 445 | 533 | Gauri Shrotriya |
-| 446 | 531 | Briana Alexander |
-| 447 | 531 | Aishah Brice |
+| 446 | 531 | Aishah Brice |
+| 447 | 531 | Briana Alexander |
 | 448 | 529 | Ben Barkley |
 | 449 | 528 | Anita Rose Green |
 | 450 | 527 | Ryan Gunther |
@@ -833,9 +833,9 @@
 | 825 | 308 | Hyper Riseclear |
 | 826 | 307 | Ethan Stienbarger |
 | 827 | 305 | Zany Clusterbuilder |
-| 828 | 305 | Frisky Patternline |
-| 829 | 305 | Epic Fitzone |
-| 830 | 305 | Narutofreak13 |
+| 828 | 305 | Narutofreak13 |
+| 829 | 305 | Frisky Patternline |
+| 830 | 305 | Epic Fitzone |
 | 831 | 304 | Melissa McCall |
 | 832 | 304 | NFLPITMOM |
 | 833 | 303 | Alyssia Tancredi |
@@ -919,8 +919,8 @@
 | 911 | 278 | Squirrel |
 | 912 | 278 | Amanda Segura |
 | 913 | 278 | AndrewandShela Gornik |
-| 914 | 277 | Brianna Cerney |
-| 915 | 277 | Anthony Mignacca |
+| 914 | 277 | Anthony Mignacca |
+| 915 | 277 | Brianna Cerney |
 | 916 | 277 | Abby Klaski |
 | 917 | 277 | Beverly Hodge |
 | 918 | 277 | Patti Rone |

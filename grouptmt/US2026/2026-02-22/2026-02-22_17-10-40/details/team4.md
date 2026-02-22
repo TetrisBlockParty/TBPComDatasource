@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Tyler Terrific |
-| 123 | 353 | Livvy |
+| 122 | 353 | Livvy |
+| 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
@@ -182,8 +182,8 @@
 | 174 | 262 | Holly Jolly |
 | 175 | 262 | Joeliecea Cobb |
 | 176 | 262 | Juls |
-| 177 | 260 | Jason Allen |
-| 178 | 260 | Porkobello |
+| 177 | 260 | Porkobello |
+| 178 | 260 | Jason Allen |
 | 179 | 256 | J-Rizzle |
 | 180 | 256 | Mylo Lipscomb |
 | 181 | 255 | Diana Houts |
@@ -215,8 +215,8 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | Cristy Duerksen |
-| 211 | 216 | ZeeZee |
+| 210 | 216 | ZeeZee |
+| 211 | 216 | Cristy Duerksen |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 214 | Holly |
