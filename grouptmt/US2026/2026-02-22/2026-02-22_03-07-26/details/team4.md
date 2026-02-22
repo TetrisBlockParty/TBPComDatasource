@@ -147,8 +147,8 @@
 | 139 | 211 | Jenna McGeorge |
 | 140 | 211 | Twisty Cascadezone |
 | 141 | 210 | Swanky Fitline |
-| 142 | 205 | Tyler Terrific |
-| 143 | 205 | Sarah Neathery |
+| 142 | 205 | Sarah Neathery |
+| 143 | 205 | Tyler Terrific |
 | 144 | 204 | Jen Caldwell |
 | 145 | 203 | Katherine Crane |
 | 146 | 201 | Melvin Baird |
@@ -178,15 +178,15 @@
 | 170 | 174 | Dihcheese444 |
 | 171 | 173 | ThaEviLJeNiuZ |
 | 172 | 171 | Diana Houts |
-| 173 | 169 | Kesha Brady |
-| 174 | 169 | Chris Bernstein |
+| 173 | 169 | Chris Bernstein |
+| 174 | 169 | Kesha Brady |
 | 175 | 168 | 🥔🥔 Spudz |
 | 176 | 166 | Cozy Balancer |
 | 177 | 166 | SammieJo Guy |
 | 178 | 164 | 030Synner |
-| 179 | 160 | James Hurley Jr. |
-| 180 | 160 | Carlos Ramirez |
-| 181 | 160 | ZeeZee |
+| 179 | 160 | ZeeZee |
+| 180 | 160 | James Hurley Jr. |
+| 181 | 160 | Carlos Ramirez |
 | 182 | 159 | Marcus Todd |
 | 183 | 158 | Chair |
 | 184 | 158 | Avy Absol |

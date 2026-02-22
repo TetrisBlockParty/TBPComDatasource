@@ -250,11 +250,11 @@
 | 242 | 200 | glichmod |
 | 243 | 200 | Sharisse Baltimore |
 | 244 | 199 | Staci George Fitzsimmons |
-| 245 | 195 | Nicha Hooker |
-| 246 | 195 | Cheryl Hinch Tenbrook |
+| 245 | 195 | Cheryl Hinch Tenbrook |
+| 246 | 195 | Nicha Hooker |
 | 247 | 194 | Raven Dudley |
-| 248 | 193 | Hyper Matchzone |
-| 249 | 193 | Clever Shiftsnap |
+| 248 | 193 | Clever Shiftsnap |
+| 249 | 193 | Hyper Matchzone |
 | 250 | 192 | Kelly Ann Child |
 | 251 | 191 | AlsoJess |
 | 252 | 191 | Scott Carleton |

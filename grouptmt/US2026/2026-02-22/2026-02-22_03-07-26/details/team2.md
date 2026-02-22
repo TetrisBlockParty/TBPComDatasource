@@ -307,8 +307,8 @@
 | 299 | 535 | Jessie McDougald |
 | 300 | 531 | Chris Wanner |
 | 301 | 528 | Brownie Sheena |
-| 302 | 527 | Heather Causey |
-| 303 | 527 | Ryan Gunther |
+| 302 | 527 | Ryan Gunther |
+| 303 | 527 | Heather Causey |
 | 304 | 526 | Sheronda Jackson |
 | 305 | 525 | Desiree Anderson |
 | 306 | 521 | Tj Ball |
@@ -464,8 +464,8 @@
 | 456 | 385 | Pocho Zavala |
 | 457 | 384 | Mike Aprilliano |
 | 458 | 383 | Arkei Luster |
-| 459 | 382 | KhaosLord |
-| 460 | 382 | David Holliday |
+| 459 | 382 | David Holliday |
+| 460 | 382 | KhaosLord |
 | 461 | 382 | Alexandra Weir |
 | 462 | 381 | Jessica S Flecha |
 | 463 | 381 | Melissa Rebbe-Lehman |
