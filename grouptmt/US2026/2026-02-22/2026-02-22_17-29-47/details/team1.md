@@ -126,8 +126,8 @@
 | 118 | 355 | Hasbro Bros |
 | 119 | 354 | phrmblk24 |
 | 120 | 352 | Jason Jones |
-| 121 | 350 | Sweet Baker |
-| 122 | 350 | Tipsy Strikerpiece |
+| 121 | 350 | Tipsy Strikerpiece |
+| 122 | 350 | Sweet Baker |
 | 123 | 344 | Bhelle Sumile |
 | 124 | 343 | Death |
 | 125 | 341 | Nick R Montague |
@@ -160,9 +160,9 @@
 | 152 | 284 | Emily Adelaide Wheatley |
 | 153 | 284 | Rachael |
 | 154 | 283 | Franswa |
-| 155 | 282 | Timothy Dew |
-| 156 | 282 | Tyler Werts |
-| 157 | 282 | Snippy Wipebuilder |
+| 155 | 282 | Snippy Wipebuilder |
+| 156 | 282 | Timothy Dew |
+| 157 | 282 | Tyler Werts |
 | 158 | 282 | Cool Shiftsnap |
 | 159 | 281 | ALFD |
 | 160 | 273 | Sassy Builderline |
@@ -180,8 +180,8 @@
 | 172 | 265 | Shiny Snapfit |
 | 173 | 265 | Kandae |
 | 174 | 264 | Jenny Gingrich Fuentes |
-| 175 | 264 | Ty Brown |
-| 176 | 264 | Brian Richardsson |
+| 175 | 264 | Brian Richardsson |
+| 176 | 264 | Ty Brown |
 | 177 | 261 | Witty Builderfit |
 | 178 | 258 | Billie Dawn Sparks |
 | 179 | 254 | Al Smith Jr |
@@ -248,8 +248,8 @@
 | 240 | 201 | Colleen Wise |
 | 241 | 201 | Andrew Boone |
 | 242 | 200 | Flashy Rotator |
-| 243 | 200 | Diane Byrd |
-| 244 | 200 | Breanna Luna |
+| 243 | 200 | Breanna Luna |
+| 244 | 200 | Diane Byrd |
 | 245 | 199 | Alenoush Karimian |
 | 246 | 198 | Melissa Lemmon |
 | 247 | 198 | Shiny Gridmatch |
@@ -265,16 +265,16 @@
 | 257 | 190 | Thorne Shumate |
 | 258 | 190 | Sweetts |
 | 259 | 188 | Phu ckalldems |
-| 260 | 187 | Bird Person |
-| 261 | 187 | Jessica Weed |
-| 262 | 187 | GringaLinga |
-| 263 | 187 | Cool Towerzone |
+| 260 | 187 | Cool Towerzone |
+| 261 | 187 | GringaLinga |
+| 262 | 187 | Jessica Weed |
+| 263 | 187 | Bird Person |
 | 264 | 187 | Tawnya Peltonen |
 | 265 | 186 | Margo Wagner |
 | 266 | 184 | Chris Sigurdson |
-| 267 | 183 | Amy Hess |
-| 268 | 183 | Tiger Lily |
-| 269 | 183 | Brave Wrecker |
+| 267 | 183 | Brave Wrecker |
+| 268 | 183 | Amy Hess |
+| 269 | 183 | Tiger Lily |
 | 270 | 181 | David DeSantis |
 | 271 | 180 | BigWeenie69 |
 | 272 | 180 | Matt Iaccheo |

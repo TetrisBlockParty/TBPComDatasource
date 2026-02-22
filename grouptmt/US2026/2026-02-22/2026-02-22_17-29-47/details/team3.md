@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Daryn Elliott |
-| 132 | 521 | Michelle Becker |
+| 131 | 521 | Michelle Becker |
+| 132 | 521 | Daryn Elliott |
 | 133 | 518 | opf |
 | 134 | 506 | Sashay Tapae Simpson |
 | 135 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -170,8 +170,8 @@
 | 162 | 432 | Jenny Hrndz |
 | 163 | 432 | Luciana Braganca Vieira |
 | 164 | 430 | Joye Sims Binion |
-| 165 | 430 | Jeni Dow |
-| 166 | 430 | Tasha Gillespie |
+| 165 | 430 | Tasha Gillespie |
+| 166 | 430 | Jeni Dow |
 | 167 | 427 | Wendy Dearden |
 | 168 | 421 | LaTanya GeminiondaRise Johnson |
 | 169 | 417 | Edwin Calvillo Jr. |
@@ -188,8 +188,8 @@
 | 180 | 397 | Annie Déè |
 | 181 | 393 | Fallorina Susana |
 | 182 | 391 | Calista Jo Dickson |
-| 183 | 391 | Sarah Cowan Burgos |
-| 184 | 391 | Araceli Parra |
+| 183 | 391 | Araceli Parra |
+| 184 | 391 | Sarah Cowan Burgos |
 | 185 | 391 | Dapper Snap |
 | 186 | 390 | Chasity |
 | 187 | 390 | Shunta Jacobs |
@@ -241,8 +241,8 @@
 | 233 | 312 | Marci Mize Fandrich |
 | 234 | 311 | Peppy Shifter |
 | 235 | 307 | Blocked |
-| 236 | 307 | Melissa Orth Hunter |
-| 237 | 307 | rnr junky |
+| 236 | 307 | rnr junky |
+| 237 | 307 | Melissa Orth Hunter |
 | 238 | 302 | Dee Franklin |
 | 239 | 301 | Betty Rosas |
 | 240 | 298 | MsBee |
@@ -350,9 +350,9 @@
 | 342 | 211 | Velma Mull |
 | 343 | 211 | El Chapa |
 | 344 | 210 | Criss |
-| 345 | 210 | Ashley Lynn Marchese |
-| 346 | 210 | Eileen Brady Thurber |
-| 347 | 210 | Saucy Buildout |
+| 345 | 210 | Saucy Buildout |
+| 346 | 210 | Ashley Lynn Marchese |
+| 347 | 210 | Eileen Brady Thurber |
 | 348 | 209 | Kirhonda Autmon |
 | 349 | 209 | TotoCherue |
 | 350 | 209 | Daring Builder |
@@ -362,8 +362,8 @@
 | 354 | 206 | Tammy Rosenberry |
 | 355 | 205 | Rachel Napper |
 | 356 | 204 | Cesar Barraza |
-| 357 | 202 | Melanie Sherwood |
-| 358 | 202 | Tipsy Zonebuilder |
+| 357 | 202 | Tipsy Zonebuilder |
+| 358 | 202 | Melanie Sherwood |
 | 359 | 201 | Hyper Matchzone |
 | 360 | 200 | glichmod |
 | 361 | 200 | Sharisse Baltimore |

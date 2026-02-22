@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -131,8 +131,8 @@
 | 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | ThaEviLJeNiuZ |
-| 127 | 338 | Lucas J Sutton |
+| 126 | 338 | Lucas J Sutton |
+| 127 | 338 | ThaEviLJeNiuZ |
 | 128 | 332 | Desi Desporte |
 | 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
@@ -146,10 +146,10 @@
 | 138 | 318 | Lauren Scott |
 | 139 | 314 | Andy Cabral |
 | 140 | 310 | Shauna Havard |
-| 141 | 307 | Angela Srubar-Norman |
-| 142 | 307 | Bio Nelly |
-| 143 | 300 | Dana Scott |
-| 144 | 300 | Jason Hart |
+| 141 | 307 | Bio Nelly |
+| 142 | 307 | Angela Srubar-Norman |
+| 143 | 300 | Jason Hart |
+| 144 | 300 | Dana Scott |
 | 145 | 299 | TRCuse |
 | 146 | 297 | Austin Owens |
 | 147 | 294 | Kesha Brady |
