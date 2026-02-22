@@ -196,8 +196,8 @@
 | 188 | 857 | Della Hole |
 | 189 | 856 | Roger Grabbit |
 | 190 | 850 | Missie Lawson Gebhardt |
-| 191 | 849 | Jennifer Kistner |
-| 192 | 849 | Hillary Crawford |
+| 191 | 849 | Hillary Crawford |
+| 192 | 849 | Jennifer Kistner |
 | 193 | 845 | April Dawn Gussler |
 | 194 | 838 | Tralonda Weeks |
 | 195 | 837 | Ashley Rose Frederick |
@@ -454,8 +454,8 @@
 | 446 | 415 | Véronique Lévesque Sabourin |
 | 447 | 414 | Sabrina Burton |
 | 448 | 414 | John |
-| 449 | 413 | Biggest thing |
-| 450 | 413 | Lauren Fitzgerald Thomas |
+| 449 | 413 | Lauren Fitzgerald Thomas |
+| 450 | 413 | Biggest thing |
 | 451 | 411 | Kristen O'Neal |
 | 452 | 408 | Brandon Jones |
 | 453 | 408 | Stefanie Zonzini-Gagliardi |
@@ -581,10 +581,10 @@
 | 573 | 342 | Angi Harrison |
 | 574 | 341 | Daniel Amos |
 | 575 | 340 | Mikayala Szaz |
-| 576 | 339 | Denise Rickman |
-| 577 | 339 | Cynthia Louann Rose |
-| 578 | 338 | Janitta Alvarez |
-| 579 | 338 | Shorty |
+| 576 | 339 | Cynthia Louann Rose |
+| 577 | 339 | Denise Rickman |
+| 578 | 338 | Shorty |
+| 579 | 338 | Janitta Alvarez |
 | 580 | 337 | Tum |
 | 581 | 337 | Autumn Schaeffer |
 | 582 | 337 | Sassy Pattern |
@@ -605,8 +605,8 @@
 | 597 | 324 | Mike73 |
 | 598 | 323 | Briana Alexander |
 | 599 | 322 | Melissa James |
-| 600 | 322 | Lea Stewart |
-| 601 | 322 | Michelle Pike |
+| 600 | 322 | Michelle Pike |
+| 601 | 322 | Lea Stewart |
 | 602 | 321 | Tamara Bailey |
 | 603 | 321 | Samantha Scibelli |
 | 604 | 318 | Arlene Joy Belicina |
@@ -692,9 +692,9 @@
 | 684 | 280 | Belle |
 | 685 | 279 | Loony Basepiece |
 | 686 | 278 | Bob |
-| 687 | 277 | Stephanie Lumanlan |
+| 687 | 277 | NickyBrooks |
 | 688 | 277 | Anthony Mignacca |
-| 689 | 277 | NickyBrooks |
+| 689 | 277 | Stephanie Lumanlan |
 | 690 | 276 | Lindsey Leigh |
 | 691 | 276 | Ryan Lauer |
 | 692 | 276 | Patrick Bartlett |
@@ -752,8 +752,8 @@
 | 744 | 258 | Tee Jaleesa |
 | 745 | 258 | Andrea Devery Beck |
 | 746 | 257 | Jackie Jackie Lee |
-| 747 | 256 | Quirky Twistline |
-| 748 | 256 | Brenna Yearian |
+| 747 | 256 | Brenna Yearian |
+| 748 | 256 | Quirky Twistline |
 | 749 | 256 | Amy Humphreys |
 | 750 | 255 | Tom Steffen |
 | 751 | 255 | DefaultUser |
@@ -1500,7 +1500,7 @@
 | 1492 | 132 | Christy Long |
 | 1493 | 132 | Connor Gaughran |
 | 1494 | 132 | Daena Alaniz |
-| 1495 | 131 | Zeleana Perry |
+| 1495 | 131 | Kerry Miller |
 | 1496 | 131 | Mine |
 | 1497 | 131 | Zeleana Perry |
 | 1498 | 131 | Kassandra Hunt |

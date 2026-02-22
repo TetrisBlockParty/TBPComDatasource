@@ -226,8 +226,8 @@
 | 218 | 152 | Tavia |
 | 219 | 152 | Strig |
 | 220 | 152 | Brave Wrecker |
-| 221 | 150 | Adele Rahman |
-| 222 | 150 | Agustin Duarte Orozco |
+| 221 | 150 | Agustin Duarte Orozco |
+| 222 | 150 | Adele Rahman |
 | 223 | 149 | Chirpy Smasher |
 | 224 | 147 | Davery Spencer Adair |
 | 225 | 147 | J.F. Fields |
@@ -253,8 +253,8 @@
 | 245 | 137 | Marci Sanders |
 | 246 | 136 | Breanna Luna |
 | 247 | 134 | Jessie |
-| 248 | 132 | Larry Tilton |
-| 249 | 132 | Layzietyme |
+| 248 | 132 | Layzietyme |
+| 249 | 132 | Larry Tilton |
 | 250 | 131 | Chantelle Ceno |
 | 251 | 131 | Tawnya Peltonen |
 | 252 | 131 | Uhog SF |

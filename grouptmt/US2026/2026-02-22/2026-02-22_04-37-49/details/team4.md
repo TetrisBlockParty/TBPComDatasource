@@ -114,8 +114,8 @@
 | 106 | 287 | Shannon Ferrari |
 | 107 | 286 | Daria Rycewicz |
 | 108 | 284 | shark tato |
-| 109 | 278 | Carrie Brian |
-| 110 | 278 | Lucas J Sutton |
+| 109 | 278 | Lucas J Sutton |
+| 110 | 278 | Carrie Brian |
 | 111 | 277 | KJ Pool |
 | 112 | 275 | Dizzy Tiley |
 | 113 | 274 | Desi Desporte |
