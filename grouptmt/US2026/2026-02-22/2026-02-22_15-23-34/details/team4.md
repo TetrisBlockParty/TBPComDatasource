@@ -128,8 +128,8 @@
 | 120 | 353 | Tyler Terrific |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -219,8 +219,8 @@
 | 211 | 204 | Carlos Ramirez |
 | 212 | 203 | Katherine Crane |
 | 213 | 202 | Patron Anderson |
-| 214 | 201 | Zesty Twistbuilder |
-| 215 | 201 | Melvin Baird |
+| 214 | 201 | Melvin Baird |
+| 215 | 201 | Zesty Twistbuilder |
 | 216 | 200 | Lori |
 | 217 | 200 | Laura |
 | 218 | 198 | Calvin Dennis |
@@ -257,8 +257,8 @@
 | 249 | 179 | AyeKay |
 | 250 | 175 | Lorena Guerrero-Barron |
 | 251 | 172 | Ziggy |
-| 252 | 171 | June Hoffman |
-| 253 | 171 | Autumn Kumzi |
+| 252 | 171 | Autumn Kumzi |
+| 253 | 171 | June Hoffman |
 | 254 | 168 | 23 |
 | 255 | 167 | Cozy Balancer |
 | 256 | 166 | Jenny Wells-Oakley |
@@ -292,8 +292,8 @@
 | 284 | 151 | Joseph Pace |
 | 285 | 151 | Shainne Brewer |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Brandon Link |
-| 288 | 150 | Jared Gutwein |
+| 287 | 150 | Jared Gutwein |
+| 288 | 150 | Brandon Link |
 | 289 | 150 | GBR |
 | 290 | 148 | Cranky Rollpiece |
 | 291 | 148 | Nubian1 |
@@ -444,7 +444,7 @@
 | 436 | 105 | Lakesha Johnson |
 | 437 | 104 | Blessedmama |
 | 438 | 104 | Amy Jean |
-| 439 | 104 | Blessedmama |
+| 439 | 104 | Jessica Johnston |
 | 440 | 104 | Gdiguy |
 | 441 | 104 | Ryry |
 | 442 | 103 | Jesus Garcia |
@@ -584,8 +584,8 @@
 | 576 | 73 | Jennifer Marsella |
 | 577 | 73 | Deb Rubeck |
 | 578 | 73 | Melissa VanBourgondien |
-| 579 | 72 | Susan Purnell |
-| 580 | 72 | Wacky Fitzone |
+| 579 | 72 | Wacky Fitzone |
+| 580 | 72 | Susan Purnell |
 | 581 | 72 | Jessi Mayfield |
 | 582 | 71 | Val Erie |
 | 583 | 71 | Nikisha Reed |
@@ -610,8 +610,8 @@
 | 602 | 70 | PlatinumRose |
 | 603 | 70 | Chilly Filler |
 | 604 | 69 | Yvonne MAguilar |
-| 605 | 69 | Perky Riser |
-| 606 | 69 | ZZZZZZZ |
+| 605 | 69 | Tina Connick |
+| 606 | 69 | Perky Riser |
 | 607 | 69 | Tammy Lewis |
 | 608 | 69 | ZZZZZZZ |
 | 609 | 68 | zelda Morgan |

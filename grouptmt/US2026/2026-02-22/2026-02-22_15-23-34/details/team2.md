@@ -225,8 +225,8 @@
 | 217 | 919 | Isaac Trappiel IV |
 | 218 | 919 | Joshua Mandel |
 | 219 | 916 | Butta |
-| 220 | 915 | Angela Bonquiqui Dinish |
-| 221 | 915 | Robin Kerby |
+| 220 | 915 | Robin Kerby |
+| 221 | 915 | Angela Bonquiqui Dinish |
 | 222 | 915 | Kelly Trent |
 | 223 | 910 | Shuany Arias |
 | 224 | 907 | Cindy Sechler Taninecz |

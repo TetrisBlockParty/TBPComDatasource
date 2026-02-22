@@ -65,8 +65,8 @@
 | 57 | 909 | Jennifer |
 | 58 | 908 | Alanna Rogers |
 | 59 | 903 | Sarah Fehring |
-| 60 | 895 | Amanda L Baker |
-| 61 | 895 | Shonna Roberts |
+| 60 | 895 | Shonna Roberts |
+| 61 | 895 | Amanda L Baker |
 | 62 | 893 | Khristen AC |
 | 63 | 882 | Susan Valentino |
 | 64 | 881 | Nate Burnside |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Patti Skiles |
-| 132 | 479 | Poppy Splitter |
+| 131 | 479 | Poppy Splitter |
+| 132 | 479 | Patti Skiles |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -183,8 +183,8 @@
 | 175 | 384 | Dapper Snap |
 | 176 | 382 | Scott Carleton |
 | 177 | 380 | Tasha Schriewer |
-| 178 | 378 | Nicole Flippo |
-| 179 | 378 | Chris Bell |
+| 178 | 378 | Chris Bell |
+| 179 | 378 | Nicole Flippo |
 | 180 | 376 | Loopy Clusterer |
 | 181 | 374 | Sherry Ogden |
 | 182 | 372 | Giddy Twistbuilder |
@@ -192,8 +192,8 @@
 | 184 | 370 | Danielle Allison |
 | 185 | 368 | Stephanie Woods |
 | 186 | 366 | Adrian Marcel Pate |
-| 187 | 362 | Darlene McMillan |
-| 188 | 362 | Rochelle Hazelett |
+| 187 | 362 | Rochelle Hazelett |
+| 188 | 362 | Darlene McMillan |
 | 189 | 361 | Jamie Lang |
 | 190 | 361 | Chelsea Hall |
 | 191 | 358 | RickyG |
@@ -271,10 +271,10 @@
 | 263 | 260 | Grams |
 | 264 | 259 | Danielle Weikel |
 | 265 | 257 | Ashley Jones |
-| 266 | 256 | Connie Mohler-Fair |
-| 267 | 256 | KayB |
-| 268 | 254 | Annie Marie |
-| 269 | 254 | Brenda Schmid Wood |
+| 266 | 256 | KayB |
+| 267 | 256 | Connie Mohler-Fair |
+| 268 | 254 | Brenda Schmid Wood |
+| 269 | 254 | Annie Marie |
 | 270 | 252 | Roary Danner |
 | 271 | 250 | fraulila |
 | 272 | 249 | Hasty Gridpiece |
@@ -288,8 +288,8 @@
 | 280 | 239 | Michael Johnson |
 | 281 | 238 | LaTanya GeminiondaRise Johnson |
 | 282 | 236 | Angela Scott |
-| 283 | 236 | Jess Bissett |
-| 284 | 236 | Lys |
+| 283 | 236 | Lys |
+| 284 | 236 | Jess Bissett |
 | 285 | 235 | Cozy Snaplink |
 | 286 | 233 | Josh Borquez |
 | 287 | 232 | Donna |
@@ -313,13 +313,13 @@
 | 305 | 216 | Tina Smith Roy |
 | 306 | 215 | IamJust Neyamijah Washington Sr. |
 | 307 | 214 | Amy Fuller Heaton |
-| 308 | 214 | Jennifer Alvey |
-| 309 | 214 | Lizabeth Fox |
+| 308 | 214 | Lizabeth Fox |
+| 309 | 214 | Jennifer Alvey |
 | 310 | 213 | Nicholas Roddy |
-| 311 | 212 | Sunny Rotater |
-| 312 | 212 | Jana Polk |
-| 313 | 211 | Velma Mull |
-| 314 | 211 | Khaleada McGill Banks |
+| 311 | 212 | Jana Polk |
+| 312 | 212 | Sunny Rotater |
+| 313 | 211 | Khaleada McGill Banks |
+| 314 | 211 | Velma Mull |
 | 315 | 211 | El Chapa |
 | 316 | 210 | April Matthew Kibble |
 | 317 | 210 | Criss |
@@ -346,8 +346,8 @@
 | 338 | 200 | Colleen Phelps |
 | 339 | 200 | Saucy Buildout |
 | 340 | 199 | Samantha Worley |
-| 341 | 199 | Mariah Williams |
-| 342 | 199 | Kristian Thurman |
+| 341 | 199 | Kristian Thurman |
+| 342 | 199 | Mariah Williams |
 | 343 | 198 | Goofy Fall |
 | 344 | 196 | Ashley Lynn Marchese |
 | 345 | 195 | Nicha Hooker |
@@ -361,8 +361,8 @@
 | 353 | 191 | Philip Rock |
 | 354 | 190 | Willow |
 | 355 | 189 | Erykah |
-| 356 | 189 | Eileen Brady Thurber |
-| 357 | 189 | Katie Leigh Blankenship |
+| 356 | 189 | Katie Leigh Blankenship |
+| 357 | 189 | Eileen Brady Thurber |
 | 358 | 188 | Michael Kimbro |
 | 359 | 186 | Sameerah Smith |
 | 360 | 186 | Bryan Byrd |
@@ -716,8 +716,8 @@
 | 708 | 96 | Swanky Snapclear |
 | 709 | 96 | D3NO |
 | 710 | 96 | JezzyBelle |
-| 711 | 95 | 4girls |
-| 712 | 95 | Chilly Pop |
+| 711 | 95 | Chilly Pop |
+| 712 | 95 | 4girls |
 | 713 | 95 | Timea Popladek |
 | 714 | 95 | JustLessie |
 | 715 | 95 | Jazzy Zoner |
