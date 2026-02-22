@@ -115,8 +115,8 @@
 | 107 | 436 | Tonya Beasley |
 | 108 | 435 | Erin Hodges Plumb |
 | 109 | 433 | Tinah Montanna |
-| 110 | 429 | Dee Perry |
-| 111 | 429 | Anaid Sanchez |
+| 110 | 429 | Anaid Sanchez |
+| 111 | 429 | Dee Perry |
 | 112 | 423 | Veronica Eve |
 | 113 | 418 | Jazzy Framezone |
 | 114 | 417 | Lori Sanders- Davis |
@@ -156,9 +156,9 @@
 | 148 | 336 | Elaine Elaine |
 | 149 | 336 | Fmp |
 | 150 | 334 | Jaimie Lynn |
-| 151 | 333 | Jennifer Hardman |
-| 152 | 333 | Gracie |
-| 153 | 333 | GATOR |
+| 151 | 333 | GATOR |
+| 152 | 333 | Jennifer Hardman |
+| 153 | 333 | Gracie |
 | 154 | 332 | Lehrin Maria |
 | 155 | 331 | Josh Riemer |
 | 156 | 324 | Rat666 |
@@ -311,8 +311,8 @@
 | 303 | 191 | Herm Junior |
 | 304 | 191 | J.F. Fields |
 | 305 | 190 | Sweetts |
-| 306 | 189 | Tawnya Peltonen |
-| 307 | 189 | Bird Person |
+| 306 | 189 | Bird Person |
+| 307 | 189 | Tawnya Peltonen |
 | 308 | 188 | Betsy |
 | 309 | 187 | Speedy Snapfall |
 | 310 | 187 | Cool Towerzone |

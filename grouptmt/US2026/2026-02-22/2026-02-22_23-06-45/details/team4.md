@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -135,8 +135,8 @@
 | 127 | 400 | Ericca Eldridge |
 | 128 | 396 | Jessica Lynn Cutlip |
 | 129 | 394 | Austin Owens |
-| 130 | 393 | Carlton Unfiltered |
-| 131 | 393 | Trish |
+| 130 | 393 | Trish |
+| 131 | 393 | Carlton Unfiltered |
 | 132 | 392 | Cristy Duerksen |
 | 133 | 391 | Ramel Rhodes |
 | 134 | 391 | Lush Linkfall |
@@ -171,8 +171,8 @@
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
 | 165 | 314 | 🥔🥔 Spudz |
-| 166 | 314 | Andy Cabral |
-| 167 | 314 | TRCuse |
+| 166 | 314 | TRCuse |
+| 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
 | 170 | 307 | Bio Nelly |
@@ -220,8 +220,8 @@
 | 212 | 261 | Dihcheese444 |
 | 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | PeaceOs |
-| 216 | 257 | Cheery Risebuilder |
+| 215 | 257 | Cheery Risebuilder |
+| 216 | 257 | PeaceOs |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 250 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -614,7 +614,7 @@
 | 606 | 90 | Chassidy Martin |
 | 607 | 90 | mitch |
 | 608 | 90 | Laurie McGregor |
-| 609 | 89 | Lauren R. Walls |
+| 609 | 89 | Rampai |
 | 610 | 89 | Saucy Stackbuilder |
 | 611 | 89 | Rebecca A Rit |
 | 612 | 89 | Shiny Fit |

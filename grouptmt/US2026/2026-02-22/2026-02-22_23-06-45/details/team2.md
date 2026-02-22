@@ -154,8 +154,8 @@
 | 146 | 1450 | Cody Smith-Candelaria |
 | 147 | 1418 | L3sli3 |
 | 148 | 1416 | Nancy Reid |
-| 149 | 1411 | Zappy Cascade |
-| 150 | 1411 | niecy |
+| 149 | 1411 | niecy |
+| 150 | 1411 | Zappy Cascade |
 | 151 | 1401 | Brandy Andre |
 | 152 | 1397 | Bussyiano Page |
 | 153 | 1390 | Erica Williams |
@@ -259,8 +259,8 @@
 | 251 | 971 | Robin Kerby |
 | 252 | 970 | Maria Escobar |
 | 253 | 958 | Brenda Messer |
-| 254 | 957 | Keri Womack |
-| 255 | 957 | Block Master |
+| 254 | 957 | Block Master |
+| 255 | 957 | Keri Womack |
 | 256 | 957 | Crystal Hoffman |
 | 257 | 955 | Kevin Walp |
 | 258 | 955 | Angela Bonquiqui Dinish |
@@ -319,8 +319,8 @@
 | 311 | 821 | Diallo Sparkman |
 | 312 | 821 | Angie Bolton Workman |
 | 313 | 818 | Lola Contreras |
-| 314 | 816 | James Simms III |
-| 315 | 816 | Jessica Wayne Cornwall |
+| 314 | 816 | Jessica Wayne Cornwall |
+| 315 | 816 | James Simms III |
 | 316 | 810 | Andrea Maher |
 | 317 | 808 | Melissa McCall |
 | 318 | 808 | Laura McCarthey |
