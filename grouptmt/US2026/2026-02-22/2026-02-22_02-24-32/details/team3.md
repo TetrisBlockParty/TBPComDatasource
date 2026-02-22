@@ -218,8 +218,8 @@
 | 210 | 219 | Sissy Lowery Davis |
 | 211 | 219 | Shunta Jacobs |
 | 212 | 219 | Keis |
-| 213 | 218 | Michael Lucado |
-| 214 | 218 | Giddy Twistbuilder |
+| 213 | 218 | Giddy Twistbuilder |
+| 214 | 218 | Michael Lucado |
 | 215 | 216 | Tasha Wesson-Torrence |
 | 216 | 215 | IamJust Neyamijah Washington Sr. |
 | 217 | 214 | Amy Fuller Heaton |

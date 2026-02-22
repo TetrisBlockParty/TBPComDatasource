@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Yvonne Marie |
-| 65 | 388 | Jennifer ManWarren |
+| 64 | 388 | Jennifer ManWarren |
+| 65 | 388 | Yvonne Marie |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -107,8 +107,8 @@
 | 99 | 290 | Death |
 | 100 | 288 | Seante Bullock |
 | 101 | 285 | Ananda Mendez |
-| 102 | 284 | Theo Pinnow |
-| 103 | 284 | Emily Adelaide Wheatley |
+| 102 | 284 | Emily Adelaide Wheatley |
+| 103 | 284 | Theo Pinnow |
 | 104 | 282 | Timothy Dew |
 | 105 | 280 | Sarah Roberts |
 | 106 | 277 | Ly Phethmany |
@@ -195,8 +195,8 @@
 | 187 | 165 | Arianna O'Brien |
 | 188 | 165 | Nadine Velardo |
 | 189 | 164 | Shanae Grant |
-| 190 | 163 | Tyler Whitley |
-| 191 | 163 | Angela Fairbank |
+| 190 | 163 | Angela Fairbank |
+| 191 | 163 | Tyler Whitley |
 | 192 | 162 | Cece Ibarra |
 | 193 | 161 | SavageBooty98 |
 | 194 | 160 | Tedashi |
@@ -211,9 +211,9 @@
 | 203 | 147 | Davery Spencer Adair |
 | 204 | 147 | DaRascal |
 | 205 | 145 | Agustin Duarte Orozco |
-| 206 | 144 | Toph |
-| 207 | 144 | Miguel Teixeira |
-| 208 | 144 | Gary Gobin |
+| 206 | 144 | Gary Gobin |
+| 207 | 144 | Toph |
+| 208 | 144 | Miguel Teixeira |
 | 209 | 144 | Cranky Pattern |
 | 210 | 142 | Colleen Wise |
 | 211 | 141 | Blaire Bruckoff |
