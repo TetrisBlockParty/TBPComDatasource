@@ -112,8 +112,8 @@
 | 104 | 385 | Brenda Stewart |
 | 105 | 383 | pjbeta |
 | 106 | 380 | Dee Perry |
-| 107 | 379 | Austin James |
-| 108 | 379 | Kimmie Kimms |
+| 107 | 379 | Kimmie Kimms |
+| 108 | 379 | Austin James |
 | 109 | 376 | lil mickey |
 | 110 | 366 | David Miller |
 | 111 | 364 | Shauna Loe |
@@ -155,8 +155,8 @@
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
 | 149 | 285 | Ananda Mendez |
-| 150 | 284 | Emily Adelaide Wheatley |
-| 151 | 284 | Rachael |
+| 150 | 284 | Rachael |
+| 151 | 284 | Emily Adelaide Wheatley |
 | 152 | 283 | Franswa |
 | 153 | 282 | Tyler Werts |
 | 154 | 282 | Snippy Wipebuilder |

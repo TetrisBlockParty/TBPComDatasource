@@ -196,8 +196,8 @@
 | 188 | 387 | Shunta Jacobs |
 | 189 | 382 | Scott Carleton |
 | 190 | 380 | Tasha Schriewer |
-| 191 | 378 | Chris Bell |
-| 192 | 378 | Nicole Flippo |
+| 191 | 378 | Nicole Flippo |
+| 192 | 378 | Chris Bell |
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
@@ -280,8 +280,8 @@
 | 272 | 266 | Snappy Balancer |
 | 273 | 265 | Nikki Pags |
 | 274 | 263 | Brenda Schmid Wood |
-| 275 | 262 | Joe-Maggie Mathews |
-| 276 | 262 | Ray Lader |
+| 275 | 262 | Ray Lader |
+| 276 | 262 | Joe-Maggie Mathews |
 | 277 | 261 | Tiffany Ford |
 | 278 | 261 | Foltz Lee Kelli |
 | 279 | 260 | Grams |

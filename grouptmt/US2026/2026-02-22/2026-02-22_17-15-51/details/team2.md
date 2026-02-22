@@ -136,8 +136,8 @@
 | 128 | 1380 | Jose Mendoza |
 | 129 | 1371 | Zappy Cascade |
 | 130 | 1347 | Alisa Lamb |
-| 131 | 1342 | Eboni Banks |
-| 132 | 1342 | Christi Hulet |
+| 131 | 1342 | Christi Hulet |
+| 132 | 1342 | Eboni Banks |
 | 133 | 1342 | Bob |
 | 134 | 1339 | Karen Martini-Stapleton |
 | 135 | 1338 | Dawn Geist-Weasner |
@@ -228,8 +228,8 @@
 | 220 | 951 | Cynthia Ward |
 | 221 | 950 | Teresa Gillmore |
 | 222 | 944 | Kimberly Hauck-Rausch |
-| 223 | 941 | Cool Clearer |
-| 224 | 941 | Marie Boyd Faulk |
+| 223 | 941 | Marie Boyd Faulk |
+| 224 | 941 | Cool Clearer |
 | 225 | 932 | Catina Hutchison |
 | 226 | 923 | Cindy Sechler Taninecz |
 | 227 | 921 | Morgue Chick |
@@ -369,8 +369,8 @@
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 642 | Cassie Maynard |
 | 363 | 641 | Vonceial Boone |
-| 364 | 640 | BYM4L |
-| 365 | 640 | Kara Gillen |
+| 364 | 640 | Kara Gillen |
+| 365 | 640 | BYM4L |
 | 366 | 639 | Crystie Hicks |
 | 367 | 639 | Rebecca Miller |
 | 368 | 634 | Gary Stash |
@@ -387,8 +387,8 @@
 | 379 | 620 | Demeka Dangerous-kisses Johnson |
 | 380 | 617 | Ellie Jonas |
 | 381 | 616 | Cassie Mercer |
-| 382 | 613 | Caitlyn Blackwell |
-| 383 | 613 | Tonya Lee |
+| 382 | 613 | Tonya Lee |
+| 383 | 613 | Caitlyn Blackwell |
 | 384 | 612 | Nicole Cannon |
 | 385 | 611 | Em Chen |
 | 386 | 611 | Julio A Laracuente |
@@ -499,8 +499,8 @@
 | 491 | 492 | Maya June |
 | 492 | 492 | Armonie Smith |
 | 493 | 491 | Michael Buckner |
-| 494 | 491 | Victor Obiakarije |
-| 495 | 491 | Jedi |
+| 494 | 491 | Jedi |
+| 495 | 491 | Victor Obiakarije |
 | 496 | 491 | Adam Simmons |
 | 497 | 488 | Christina Wsn |
 | 498 | 487 | MrsCandyfine As Wine Truss |
@@ -553,9 +553,9 @@
 | 545 | 460 | Gloria Ininahazwe |
 | 546 | 458 | Casper The Chonk |
 | 547 | 458 | SwampRebel |
-| 548 | 456 | Lee Harper |
-| 549 | 456 | Denise Rickman |
-| 550 | 456 | Skyler Morgan |
+| 548 | 456 | Denise Rickman |
+| 549 | 456 | Skyler Morgan |
+| 550 | 456 | Lee Harper |
 | 551 | 453 | Jessica S Flecha |
 | 552 | 453 | Rhonda Petro |
 | 553 | 452 | Juanita Lyons |
@@ -593,8 +593,8 @@
 | 585 | 429 | Tabs Reichert |
 | 586 | 428 | Lynda Toland |
 | 587 | 428 | Shyenn Gadsby |
-| 588 | 427 | Destiny Cozier |
-| 589 | 427 | Sabrina Burton |
+| 588 | 427 | Sabrina Burton |
+| 589 | 427 | Destiny Cozier |
 | 590 | 426 | De Hawkins |
 | 591 | 426 | Ashley Dow |
 | 592 | 425 | Samantha Scibelli |

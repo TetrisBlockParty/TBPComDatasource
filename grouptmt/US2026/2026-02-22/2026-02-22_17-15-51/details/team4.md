@@ -273,8 +273,8 @@
 | 265 | 167 | Cozy Balancer |
 | 266 | 166 | SammieJo Guy |
 | 267 | 166 | Jenny Wells-Oakley |
-| 268 | 166 | Megan Cutshaw |
-| 269 | 166 | KimoKoala |
+| 268 | 166 | KimoKoala |
+| 269 | 166 | Megan Cutshaw |
 | 270 | 165 | James Hurley Jr. |
 | 271 | 165 | Brittany Marsh |
 | 272 | 165 | Zappy Buildgrid |
@@ -417,9 +417,9 @@
 | 409 | 117 | David V. Bowers |
 | 410 | 117 | Shiny Pivoty |
 | 411 | 117 | Grann8 |
-| 412 | 116 | Zesty Linkgrid |
+| 412 | 116 | Kate |
 | 413 | 116 | Smiley Shifter |
-| 414 | 116 | Kate |
+| 414 | 116 | Zesty Linkgrid |
 | 415 | 116 | Funky Risepiece |
 | 416 | 115 | Susan Williams |
 | 417 | 115 | Alexandra Karavias |
