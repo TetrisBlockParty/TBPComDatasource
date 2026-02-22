@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -262,7 +262,7 @@
 | 254 | 201 | Andrew Boone |
 | 255 | 200 | Diane Byrd |
 | 256 | 200 | Flashy Rotator |
-| 257 | 200 | Diane Byrd |
+| 257 | 200 | Breanna Luna |
 | 258 | 199 | Alenoush Karimian |
 | 259 | 198 | Colleen Pinette |
 | 260 | 198 | Happy Snapbuild |
@@ -272,8 +272,8 @@
 | 264 | 196 | Perky Shiftsnap |
 | 265 | 195 | Jennifer Olewnik Soborowski |
 | 266 | 194 | Poppy Riserpiece |
-| 267 | 193 | Phu ckalldems |
-| 268 | 193 | Lachelle Dillon |
+| 267 | 193 | Lachelle Dillon |
+| 268 | 193 | Phu ckalldems |
 | 269 | 192 | Tiger Lily |
 | 270 | 191 | Renata Mabie |
 | 271 | 191 | John Garza |

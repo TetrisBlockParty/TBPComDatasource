@@ -310,8 +310,8 @@
 | 302 | 787 | Dee |
 | 303 | 783 | Lisa Ongtowasruk |
 | 304 | 781 | Hong Tang |
-| 305 | 777 | Jessicah Myers |
-| 306 | 777 | Tesha Oldaker |
+| 305 | 777 | Tesha Oldaker |
+| 306 | 777 | Jessicah Myers |
 | 307 | 777 | Samantha Jo |
 | 308 | 773 | Diana Fitzwater |
 | 309 | 768 | Michele Morgan |

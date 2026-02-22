@@ -140,8 +140,8 @@
 | 132 | 526 | Cynthia Castros-Hampton |
 | 133 | 525 | Justin Ritter |
 | 134 | 521 | Leah Barnett |
-| 135 | 521 | Michael Nowogorski |
-| 136 | 521 | Michelle Becker |
+| 135 | 521 | Michelle Becker |
+| 136 | 521 | Michael Nowogorski |
 | 137 | 518 | opf |
 | 138 | 506 | Sashay Tapae Simpson |
 | 139 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -207,8 +207,8 @@
 | 199 | 377 | rosy |
 | 200 | 376 | Loopy Clusterer |
 | 201 | 374 | Darlene McMillan |
-| 202 | 372 | Tom Nault |
-| 203 | 372 | Giddy Twistbuilder |
+| 202 | 372 | Giddy Twistbuilder |
+| 203 | 372 | Tom Nault |
 | 204 | 370 | Santeria Trece Candles |
 | 205 | 368 | Christine Trester |
 | 206 | 368 | Stephanie Woods |
@@ -261,8 +261,8 @@
 | 253 | 299 | Angie Harper |
 | 254 | 298 | MsBee |
 | 255 | 297 | Jojo M |
-| 256 | 296 | Hoppy Buildout |
-| 257 | 296 | Katrina Turner |
+| 256 | 296 | Katrina Turner |
+| 257 | 296 | Hoppy Buildout |
 | 258 | 291 | Carrie Huskey |
 | 259 | 289 | Danielle Weikel |
 | 260 | 289 | Duane Bright |
@@ -311,16 +311,16 @@
 | 303 | 245 | Latoya Mayne |
 | 304 | 245 | Lizabeth Fox |
 | 305 | 244 | Christian Werndl |
-| 306 | 244 | LaNette Morgan |
-| 307 | 244 | Sharisse Baltimore |
+| 306 | 244 | Sharisse Baltimore |
+| 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
 | 310 | 240 | Eric Caccavale |
 | 311 | 240 | Desiree Gold |
 | 312 | 240 | Jimmie Clemons |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
@@ -330,8 +330,8 @@
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Wettnippz |
-| 326 | 227 | Meowsa |
+| 325 | 227 | Meowsa |
+| 326 | 227 | Wettnippz |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Jessica Lynn French |
 | 329 | 225 | Stephanie Hill |

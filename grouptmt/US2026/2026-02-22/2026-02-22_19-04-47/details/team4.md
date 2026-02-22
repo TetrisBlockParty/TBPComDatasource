@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -113,8 +113,8 @@
 | 105 | 441 | Chastity Mitchell |
 | 106 | 440 | Lori Walker |
 | 107 | 435 | Leslie Thomas |
-| 108 | 427 | KJ Pool |
-| 109 | 427 | Jolly Dashfit |
+| 108 | 427 | Jolly Dashfit |
+| 109 | 427 | KJ Pool |
 | 110 | 426 | Ren Mc |
 | 111 | 419 | shar |
 | 112 | 415 | Monica Daley |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 342 | Dizzy Tiley |
@@ -147,8 +147,8 @@
 | 139 | 328 | Leslie Nicole |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 314 | Andy Cabral |
@@ -250,8 +250,8 @@
 | 242 | 202 | Patron Anderson |
 | 243 | 202 | Rebecca Morris |
 | 244 | 201 | Melvin Baird |
-| 245 | 200 | Googenheim |
-| 246 | 200 | Chair |
+| 245 | 200 | Chair |
+| 246 | 200 | Googenheim |
 | 247 | 200 | Lori |
 | 248 | 199 | Orchislactea |
 | 249 | 198 | Silly SeaWeed |
@@ -269,11 +269,11 @@
 | 261 | 189 | Dihcheese444 |
 | 262 | 189 | 030Synner |
 | 263 | 188 | A5! |
-| 264 | 185 | Laura Hosford |
-| 265 | 185 | Morti |
+| 264 | 185 | Morti |
+| 265 | 185 | Laura Hosford |
 | 266 | 184 | Lauren Lamb |
-| 267 | 183 | Twisty Risebuilder |
-| 268 | 183 | Nubian1 |
+| 267 | 183 | Nubian1 |
+| 268 | 183 | Twisty Risebuilder |
 | 269 | 182 | TinyLegoRose |
 | 270 | 181 | Carter Jones |
 | 271 | 181 | Jackie Marie |
@@ -320,8 +320,8 @@
 | 312 | 154 | Circuit8 |
 | 313 | 154 | Chummy Towerzone |
 | 314 | 153 | Empress Oasis |
-| 315 | 152 | Jared Gutwein |
-| 316 | 152 | Vanessa Smart |
+| 315 | 152 | Vanessa Smart |
+| 316 | 152 | Jared Gutwein |
 | 317 | 152 | Faja |
 | 318 | 151 | Joseph Pace |
 | 319 | 151 | Brandon Crabbs |
@@ -469,12 +469,12 @@
 | 461 | 110 | Thomas Hettenhaus |
 | 462 | 110 | JoAnna Zalkovsky |
 | 463 | 110 | Jennifer Dineen |
-| 464 | 109 | Verna Neal |
-| 465 | 109 | Jessica Miller |
+| 464 | 109 | Jessica Miller |
+| 465 | 109 | Verna Neal |
 | 466 | 108 | Ali Ian |
 | 467 | 108 | Hasty Fitzone |
-| 468 | 108 | Bigeddie |
-| 469 | 108 | mike |
+| 468 | 108 | mike |
+| 469 | 108 | Bigeddie |
 | 470 | 108 | Walter Beltran |
 | 471 | 107 | Cranky Glidebuilder |
 | 472 | 107 | Jeff Roberts |
