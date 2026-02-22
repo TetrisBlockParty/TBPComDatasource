@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -191,10 +191,10 @@
 | 183 | 270 | Juls |
 | 184 | 269 | Nikki Rae Gordon |
 | 185 | 269 | jim |
-| 186 | 268 | Mimi |
-| 187 | 268 | Porkobello |
-| 188 | 267 | Holly |
-| 189 | 267 | Kathy Brookins |
+| 186 | 268 | Porkobello |
+| 187 | 268 | Mimi |
+| 188 | 267 | Kathy Brookins |
+| 189 | 267 | Holly |
 | 190 | 267 | Casey Grabner |
 | 191 | 266 | Laura |
 | 192 | 266 | Chris Bernstein |
@@ -216,8 +216,8 @@
 | 208 | 248 | Lindsey Gonzalez |
 | 209 | 247 | Dennis Bradley |
 | 210 | 246 | Carlos Ramirez |
-| 211 | 245 | Adam Stephanie Parker |
-| 212 | 245 | 23 |
+| 211 | 245 | 23 |
+| 212 | 245 | Adam Stephanie Parker |
 | 213 | 245 | Autum Leigh |
 | 214 | 243 | Jose Dejesus |
 | 215 | 243 | Mr. Party |
@@ -264,11 +264,11 @@
 | 256 | 202 | Orchislactea |
 | 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
-| 259 | 200 | Lori |
-| 260 | 200 | Googenheim |
+| 259 | 200 | Googenheim |
+| 260 | 200 | Lori |
 | 261 | 199 | TinyLegoRose |
-| 262 | 198 | Silly SeaWeed |
-| 263 | 198 | Calvin Dennis |
+| 262 | 198 | Calvin Dennis |
+| 263 | 198 | Silly SeaWeed |
 | 264 | 198 | Angelito |
 | 265 | 197 | Gilles Lanctot |
 | 266 | 196 | Zany Shatterer |

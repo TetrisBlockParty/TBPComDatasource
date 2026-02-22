@@ -2079,8 +2079,8 @@
 | 2071 | 148 | Lush Link |
 | 2072 | 148 | Katelynn Tucker |
 | 2073 | 148 | Bold Matchline |
-| 2074 | 148 | June Modify Willis |
-| 2075 | 148 | Jennifer Walsifer |
+| 2074 | 148 | Flashy Blast |
+| 2075 | 148 | June Modify Willis |
 | 2076 | 148 | Cat |
 | 2077 | 148 | Jennifer Walsifer |
 | 2078 | 148 | Willoh |
