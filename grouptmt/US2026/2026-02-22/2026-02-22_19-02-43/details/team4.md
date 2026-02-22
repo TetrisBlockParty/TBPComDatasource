@@ -45,8 +45,8 @@
 | 37 | 886 | Dustin Robert |
 | 38 | 886 | Koshin Abdirahman |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Christine Marie |
-| 41 | 846 | Lucille Truesdale |
+| 40 | 846 | Lucille Truesdale |
+| 41 | 846 | Christine Marie |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | ThaEviLJeNiuZ |
@@ -147,8 +147,8 @@
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 314 | Andy Cabral |
@@ -159,15 +159,15 @@
 | 151 | 300 | Dana Scott |
 | 152 | 300 | Jason Hart |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
 | 159 | 290 | Keshia Lyons |
 | 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Damn Libra |
-| 162 | 290 | Chaz Duncan |
+| 161 | 290 | Chaz Duncan |
+| 162 | 290 | Damn Libra |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -272,8 +272,8 @@
 | 264 | 185 | Laura Hosford |
 | 265 | 185 | Morti |
 | 266 | 184 | Lauren Lamb |
-| 267 | 183 | Twisty Risebuilder |
-| 268 | 183 | Nubian1 |
+| 267 | 183 | Nubian1 |
+| 268 | 183 | Twisty Risebuilder |
 | 269 | 182 | TinyLegoRose |
 | 270 | 181 | Carter Jones |
 | 271 | 181 | Jackie Marie |
@@ -315,8 +315,8 @@
 | 307 | 157 | LunaMoon |
 | 308 | 157 | B Renee Desjardin |
 | 309 | 157 | Bethany Ison |
-| 310 | 156 | Terrance Fung |
-| 311 | 156 | Ultramarine |
+| 310 | 156 | Ultramarine |
+| 311 | 156 | Terrance Fung |
 | 312 | 154 | Circuit8 |
 | 313 | 154 | Chummy Towerzone |
 | 314 | 153 | Empress Oasis |

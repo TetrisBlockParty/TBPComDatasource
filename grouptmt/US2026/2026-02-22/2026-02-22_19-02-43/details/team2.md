@@ -303,15 +303,15 @@
 | 295 | 803 | Barbra Miller |
 | 296 | 801 | Jojo Momma |
 | 297 | 800 | Danielle Johnson-Chandler |
-| 298 | 797 | Osun Anuket Esu |
-| 299 | 797 | Offonar Facey |
+| 298 | 797 | Offonar Facey |
+| 299 | 797 | Osun Anuket Esu |
 | 300 | 796 | Angie Bolton Workman |
-| 301 | 787 | Dee |
-| 302 | 787 | Laura McCarthey |
+| 301 | 787 | Laura McCarthey |
+| 302 | 787 | Dee |
 | 303 | 783 | Lisa Ongtowasruk |
 | 304 | 781 | Hong Tang |
-| 305 | 777 | Tesha Oldaker |
-| 306 | 777 | Jessicah Myers |
+| 305 | 777 | Jessicah Myers |
+| 306 | 777 | Tesha Oldaker |
 | 307 | 777 | Samantha Jo |
 | 308 | 773 | Diana Fitzwater |
 | 309 | 768 | Michele Morgan |
@@ -499,11 +499,11 @@
 | 491 | 516 | Diamond Scott |
 | 492 | 514 | Karen Posadas Centeno |
 | 493 | 512 | Leslie Jorgenson |
-| 494 | 511 | Adam Simmons |
-| 495 | 511 | Laura Mclean |
-| 496 | 509 | Jarboe |
-| 497 | 509 | Jordan Kaiser |
-| 498 | 509 | Kelli Wells |
+| 494 | 511 | Laura Mclean |
+| 495 | 511 | Adam Simmons |
+| 496 | 509 | Kelli Wells |
+| 497 | 509 | Jarboe |
+| 498 | 509 | Jordan Kaiser |
 | 499 | 507 | Kitybox |
 | 500 | 507 | Daniell Martinez |
 | 501 | 505 | Casey Schumacher |
@@ -532,8 +532,8 @@
 | 524 | 484 | Wendy Unsain |
 | 525 | 482 | Drwatson187 |
 | 526 | 482 | Amélie Cadieux |
-| 527 | 481 | Quirky Twistline |
-| 528 | 481 | Anthony Huebel |
+| 527 | 481 | Anthony Huebel |
+| 528 | 481 | Quirky Twistline |
 | 529 | 481 | Klee |
 | 530 | 480 | Ryan Meilleur |
 | 531 | 480 | Ashley Collins |
@@ -729,9 +729,9 @@
 | 721 | 369 | Amanda Canterbury |
 | 722 | 369 | Lewis Sturgeon |
 | 723 | 368 | Veronics |
-| 724 | 368 | Susan Arnburg |
-| 725 | 368 | Anthony D Gritz Jr |
-| 726 | 367 | Connie Lepore-Mann |
+| 724 | 368 | Anthony D Gritz Jr |
+| 725 | 368 | Susan Arnburg |
+| 726 | 367 | Melanie Csikortos |
 | 727 | 367 | Rose Fx |
 | 728 | 367 | Connie Lepore-Mann |
 | 729 | 366 | Jess Morrison |

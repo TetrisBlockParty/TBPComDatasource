@@ -86,16 +86,16 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -115,7 +115,7 @@
 | 107 | 390 | Goose egg |
 | 108 | 385 | Brenda Stewart |
 | 109 | 383 | pjbeta |
-| 110 | 380 | Erin Hodges Plumb |
+| 110 | 380 | Maria C. Hernandez |
 | 111 | 380 | Dee Perry |
 | 112 | 380 | Erin Hodges Plumb |
 | 113 | 379 | Kimmie Kimms |
@@ -304,7 +304,7 @@
 | 296 | 177 | Herm Junior |
 | 297 | 177 | Irual Hctrab |
 | 298 | 177 | Jessica Russell |
-| 299 | 175 | Kellie Tunstall |
+| 299 | 175 | Gary Gobin |
 | 300 | 175 | John Barron |
 | 301 | 175 | Kellie Tunstall |
 | 302 | 174 | Alex Gauthier |

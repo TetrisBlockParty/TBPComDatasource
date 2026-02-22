@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1014 | Joey Banks |
 | 64 | 940 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -311,8 +311,8 @@
 | 303 | 245 | Latoya Mayne |
 | 304 | 245 | Lizabeth Fox |
 | 305 | 244 | Christian Werndl |
-| 306 | 244 | LaNette Morgan |
-| 307 | 244 | Sharisse Baltimore |
+| 306 | 244 | Sharisse Baltimore |
+| 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
 | 310 | 240 | Desiree Gold |
@@ -324,14 +324,14 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kiki |
-| 320 | 231 | Kevin Russell |
+| 319 | 231 | Kevin Russell |
+| 320 | 231 | Kiki |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Wettnippz |
-| 326 | 227 | Meowsa |
+| 325 | 227 | Meowsa |
+| 326 | 227 | Wettnippz |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Steffi Chris Dacones |
 | 329 | 225 | Jessica Lynn French |
