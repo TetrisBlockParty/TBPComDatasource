@@ -93,8 +93,8 @@
 | 85 | 836 | Jamie Lang |
 | 86 | 835 | Snappy Glidepiece |
 | 87 | 831 | Angeline Joseph |
-| 88 | 830 | Sarajane Lokan |
-| 89 | 830 | Stephanie Allmon |
+| 88 | 830 | Stephanie Allmon |
+| 89 | 830 | Sarajane Lokan |
 | 90 | 826 | Shane Wilson Jr. |
 | 91 | 811 | Jay Horn |
 | 92 | 800 | Lauren Girouard |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Cynthia Castros-Hampton |
-| 141 | 526 | Michelle Becker |
+| 140 | 526 | Michelle Becker |
+| 141 | 526 | Cynthia Castros-Hampton |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -188,8 +188,8 @@
 | 180 | 432 | Christine Trester |
 | 181 | 432 | Jenny Hrndz |
 | 182 | 431 | Sarah Cowan Burgos |
-| 183 | 430 | Jeni Dow |
-| 184 | 430 | Joye Sims Binion |
+| 183 | 430 | Joye Sims Binion |
+| 184 | 430 | Jeni Dow |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
 | 187 | 422 | Fallorina Susana |
@@ -229,8 +229,8 @@
 | 221 | 360 | Sheila M Frazier |
 | 222 | 357 | Stephanie Burtin |
 | 223 | 355 | Keis |
-| 224 | 351 | Eon Harris |
-| 225 | 351 | Rebecca Funderburk Kirby |
+| 224 | 351 | Rebecca Funderburk Kirby |
+| 225 | 351 | Eon Harris |
 | 226 | 350 | Kammy Hill |
 | 227 | 349 | Amanda J. Mcneil-Anderson |
 | 228 | 348 | Kristal C Lee |

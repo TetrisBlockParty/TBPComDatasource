@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | 🥔🥔 Spudz |
-| 157 | 314 | Andy Cabral |
+| 156 | 314 | Andy Cabral |
+| 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -183,8 +183,8 @@
 | 175 | 288 | Leah Kutz Zirbel |
 | 176 | 287 | Plucky Patternblock |
 | 177 | 286 | Brittney Orengo |
-| 178 | 277 | Mary Ann Pabukis |
-| 179 | 277 | Kim Klutz Olson |
+| 178 | 277 | Kim Klutz Olson |
+| 179 | 277 | Mary Ann Pabukis |
 | 180 | 277 | Silly Zonebuilder |
 | 181 | 272 | Dennis Bradley |
 | 182 | 272 | Alan George LaRage |
@@ -312,7 +312,7 @@
 | 304 | 166 | SammieJo Guy |
 | 305 | 165 | Zappy Buildgrid |
 | 306 | 165 | Amanda Christine |
-| 307 | 165 | Zappy Buildgrid |
+| 307 | 165 | Brittany Marsh |
 | 308 | 165 | ChasingZen |
 | 309 | 164 | Marvetta Williams |
 | 310 | 163 | Montiette Mcglown |

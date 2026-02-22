@@ -173,8 +173,8 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Groovy Puzzle |
-| 169 | 1232 | Ambyre Patterson |
+| 168 | 1232 | Ambyre Patterson |
+| 169 | 1232 | Groovy Puzzle |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -216,8 +216,8 @@
 | 208 | 1067 | Samantha Roberts |
 | 209 | 1062 | Crystal Slaughter |
 | 210 | 1058 | Jennifer Kistner |
-| 211 | 1057 | RAEPR05 |
-| 212 | 1057 | Desiree Harris Rosch |
+| 211 | 1057 | Desiree Harris Rosch |
+| 212 | 1057 | RAEPR05 |
 | 213 | 1056 | Amy Sayers |
 | 214 | 1046 | Teddi Notyalc |
 | 215 | 1045 | Lourisha |
@@ -258,8 +258,8 @@
 | 250 | 935 | Kevin Walp |
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 920 | Phil J. Grombliniak |
-| 253 | 919 | Isaac Trappiel IV |
-| 254 | 919 | Joshua Mandel |
+| 253 | 919 | Joshua Mandel |
+| 254 | 919 | Isaac Trappiel IV |
 | 255 | 916 | Butta |
 | 256 | 915 | Robin Kerby |
 | 257 | 915 | Kelly Trent |
@@ -305,8 +305,8 @@
 | 297 | 823 | SaraMarie Eveland |
 | 298 | 821 | Diallo Sparkman |
 | 299 | 817 | Nett |
-| 300 | 816 | Jessica Wayne Cornwall |
-| 301 | 816 | James Simms III |
+| 300 | 816 | James Simms III |
+| 301 | 816 | Jessica Wayne Cornwall |
 | 302 | 810 | Andrea Maher |
 | 303 | 810 | Caitlin Schmid |
 | 304 | 808 | Desire Rice |
@@ -318,8 +318,8 @@
 | 310 | 796 | Angie Bolton Workman |
 | 311 | 790 | Brenda Pierpoint |
 | 312 | 790 | Jackie Lucas |
-| 313 | 787 | Lisa Ongtowasruk |
-| 314 | 787 | Laura McCarthey |
+| 313 | 787 | Laura McCarthey |
+| 314 | 787 | Lisa Ongtowasruk |
 | 315 | 782 | Beth |
 | 316 | 781 | Hong Tang |
 | 317 | 778 | Lola Contreras |
@@ -332,8 +332,8 @@
 | 324 | 773 | Diana Fitzwater |
 | 325 | 770 | Danielle Simmons |
 | 326 | 768 | Michele Morgan |
-| 327 | 767 | Ashley Lopez |
-| 328 | 767 | Fancy Twister |
+| 327 | 767 | Fancy Twister |
+| 328 | 767 | Ashley Lopez |
 | 329 | 763 | Heather Causey |
 | 330 | 761 | Hyper Cluster |
 | 331 | 760 | Cheech Dta |
@@ -455,8 +455,8 @@
 | 447 | 584 | Kimberly Randesi |
 | 448 | 582 | Bee |
 | 449 | 581 | Angie Marie |
-| 450 | 580 | Angela Lynn |
-| 451 | 580 | Joshua Self |
+| 450 | 580 | Joshua Self |
+| 451 | 580 | Angela Lynn |
 | 452 | 579 | Roy Salyer |
 | 453 | 579 | Irene Jones |
 | 454 | 576 | Leslie Johnson Guinto |
@@ -802,15 +802,15 @@
 | 794 | 354 | Rachel Kaminski |
 | 795 | 354 | Rickey Johnson |
 | 796 | 352 | apokolypse |
-| 797 | 352 | Mary Boss |
-| 798 | 352 | Jean FU Jagielski |
+| 797 | 352 | Jean FU Jagielski |
+| 798 | 352 | Mary Boss |
 | 799 | 351 | NickyBrooks |
 | 800 | 351 | Christina Walker |
 | 801 | 351 | Twisty Tetriblast |
 | 802 | 351 | Maria Louise |
 | 803 | 350 | Kyla Louise |
-| 804 | 350 | Epic Fitzone |
-| 805 | 350 | Chris Harr |
+| 804 | 350 | Chris Harr |
+| 805 | 350 | Epic Fitzone |
 | 806 | 350 | Christy Green |
 | 807 | 350 | Danielle Ayoub |
 | 808 | 350 | Maria Hammett |
