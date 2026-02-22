@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -187,8 +187,8 @@
 | 179 | 210 | Zethra Prenisha Rahming |
 | 180 | 207 | Chirpy Basepiece |
 | 181 | 205 | Kathy Brookins |
-| 182 | 204 | Carlos Ramirez |
-| 183 | 204 | Jen Caldwell |
+| 182 | 204 | Jen Caldwell |
+| 183 | 204 | Carlos Ramirez |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
 | 186 | 201 | Melvin Baird |
@@ -204,8 +204,8 @@
 | 196 | 195 | Malakai Darien Fox |
 | 197 | 194 | Zany Twisterfit |
 | 198 | 192 | Shauna Havard |
-| 199 | 191 | Klo |
-| 200 | 191 | Sam Bishop |
+| 199 | 191 | Sam Bishop |
+| 200 | 191 | Klo |
 | 201 | 190 | Cheery Risebuilder |
 | 202 | 189 | Calvin Dennis |
 | 203 | 189 | Stacey Stano |
@@ -230,9 +230,9 @@
 | 222 | 168 | Lindsey Gonzalez |
 | 223 | 167 | Cozy Balancer |
 | 224 | 166 | Megan Cutshaw |
-| 225 | 166 | SammieJo Guy |
-| 226 | 166 | Angelito |
-| 227 | 166 | Juls |
+| 225 | 166 | Juls |
+| 226 | 166 | SammieJo Guy |
+| 227 | 166 | Angelito |
 | 228 | 165 | Jackie Marie |
 | 229 | 165 | Zappy Buildgrid |
 | 230 | 165 | James Hurley Jr. |

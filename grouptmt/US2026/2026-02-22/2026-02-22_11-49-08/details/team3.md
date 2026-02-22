@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -185,8 +185,8 @@
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | RickyG |
 | 179 | 358 | Chummy Caster |
-| 180 | 357 | Stephanie Burtin |
-| 181 | 357 | Tom Nault |
+| 180 | 357 | Tom Nault |
+| 181 | 357 | Stephanie Burtin |
 | 182 | 355 | Tessina Dewey-Mancino |
 | 183 | 353 | Shunta Jacobs |
 | 184 | 353 | Nora Rogers |
@@ -206,8 +206,8 @@
 | 198 | 320 | Or Reznitsky |
 | 199 | 317 | Ashley Tookes |
 | 200 | 315 | Kammy Hill |
-| 201 | 311 | Araceli Parra |
-| 202 | 311 | Rochelle Hazelett |
+| 201 | 311 | Rochelle Hazelett |
+| 202 | 311 | Araceli Parra |
 | 203 | 310 | Danielle Balcom |
 | 204 | 308 | Rania Zaqout |
 | 205 | 308 | Daryn Elliott |
@@ -303,8 +303,8 @@
 | 295 | 210 | Criss |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Jessica |
-| 299 | 207 | Daring Builder |
+| 298 | 207 | Daring Builder |
+| 299 | 207 | Jessica |
 | 300 | 207 | angieelyn |
 | 301 | 207 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -347,8 +347,8 @@
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
-| 342 | 176 | Melissa Orth Hunter |
-| 343 | 176 | Emma |
+| 342 | 176 | Emma |
+| 343 | 176 | Melissa Orth Hunter |
 | 344 | 175 | Eileen Brady Thurber |
 | 345 | 174 | Lesley Perez |
 | 346 | 173 | Naur |
@@ -457,8 +457,8 @@
 | 449 | 134 | Maia |
 | 450 | 134 | Glenn Loving |
 | 451 | 134 | gremicx |
-| 452 | 133 | Jen Lewis |
-| 453 | 133 | Chummy Rumbler |
+| 452 | 133 | Chummy Rumbler |
+| 453 | 133 | Jen Lewis |
 | 454 | 132 | Hanna Kim |
 | 455 | 132 | Andrew Thorson |
 | 456 | 131 | Cheeky Setter |

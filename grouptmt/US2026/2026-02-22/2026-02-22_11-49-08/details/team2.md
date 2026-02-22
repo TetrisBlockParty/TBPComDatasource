@@ -190,8 +190,8 @@
 | 182 | 990 | Amber Shoemaker |
 | 183 | 989 | Teddi Notyalc |
 | 184 | 988 | Maegan Beaule |
-| 185 | 986 | Poppy Snap |
-| 186 | 986 | RAEPR05 |
+| 185 | 986 | RAEPR05 |
+| 186 | 986 | Poppy Snap |
 | 187 | 985 | Taylor Phillips |
 | 188 | 984 | Nika Bee |
 | 189 | 982 | Desiree Harris Rosch |
@@ -291,8 +291,8 @@
 | 283 | 703 | Gold Rose |
 | 284 | 700 | Vincent Petrella |
 | 285 | 700 | Hong Tang |
-| 286 | 700 | Rosemadder |
-| 287 | 700 | Beverly Owens |
+| 286 | 700 | Beverly Owens |
+| 287 | 700 | Rosemadder |
 | 288 | 698 | Mighty Shatterfit |
 | 289 | 697 | Dreamy Blast |
 | 290 | 696 | Kathryn Townsley |
@@ -580,8 +580,8 @@
 | 572 | 396 | Candy Pitts |
 | 573 | 396 | AkaLefty |
 | 574 | 396 | Boogie SoAnimated Johnson |
-| 575 | 393 | Jamie West |
-| 576 | 393 | bbv |
+| 575 | 393 | bbv |
+| 576 | 393 | Jamie West |
 | 577 | 393 | Deyawn Smith |
 | 578 | 391 | Qiana Sanders |
 | 579 | 391 | Chilly Bridgepiece |
@@ -843,8 +843,8 @@
 | 835 | 272 | Gina Justbeingme Chillis |
 | 836 | 271 | Pam Doughty |
 | 837 | 271 | Amber N Koepp |
-| 838 | 271 | Beverly Hodge |
-| 839 | 271 | Shalisa Hill |
+| 838 | 271 | Shalisa Hill |
+| 839 | 271 | Beverly Hodge |
 | 840 | 270 | Lazy Builderfit |
 | 841 | 270 | BK Queen |
 | 842 | 270 | Nat |
@@ -898,8 +898,8 @@
 | 890 | 258 | Kara Tolbert |
 | 891 | 257 | Queen |
 | 892 | 257 | Mama T |
-| 893 | 257 | Jackie Jackie Lee |
-| 894 | 257 | Ys Muhammed |
+| 893 | 257 | Ys Muhammed |
+| 894 | 257 | Jackie Jackie Lee |
 | 895 | 256 | Slinky Racker |
 | 896 | 256 | Nikki Vaughn |
 | 897 | 256 | Brenna Yearian |
@@ -1311,8 +1311,8 @@
 | 1303 | 177 | Rebecca Anzueto Estrada |
 | 1304 | 177 | Cris Darling |
 | 1305 | 177 | Jennifer Rose |
-| 1306 | 177 | Angela KaplaSchwahn |
-| 1307 | 177 | Ian Anderson |
+| 1306 | 177 | Ian Anderson |
+| 1307 | 177 | Angela KaplaSchwahn |
 | 1308 | 176 | Gregorio Molina |
 | 1309 | 176 | Jess Orosz |
 | 1310 | 176 | Michelle Grant-Moncrieft |
