@@ -69,14 +69,14 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -91,8 +91,8 @@
 | 83 | 514 | Jay Horn |
 | 84 | 510 | Dave Herzog |
 | 85 | 506 | Sashay Tapae Simpson |
-| 86 | 503 | Susan Valentino |
-| 87 | 503 | Nate Burnside |
+| 86 | 503 | Nate Burnside |
+| 87 | 503 | Susan Valentino |
 | 88 | 502 | Justin Ritter |
 | 89 | 497 | Jennifer Petrie |
 | 90 | 493 | Mandy Smith Oldham |
@@ -198,8 +198,8 @@
 | 190 | 224 | Araceli Parra |
 | 191 | 223 | Jeana Gilbert |
 | 192 | 220 | Jim Mathews |
-| 193 | 219 | Shunta Jacobs |
-| 194 | 219 | Jess Bissett |
+| 193 | 219 | Jess Bissett |
+| 194 | 219 | Shunta Jacobs |
 | 195 | 218 | LaNette Morgan |
 | 196 | 215 | IamJust Neyamijah Washington Sr. |
 | 197 | 214 | Amy Fuller Heaton |

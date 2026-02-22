@@ -82,8 +82,8 @@
 | 74 | 370 | Leslie Thomas |
 | 75 | 369 | Nope Young |
 | 76 | 359 | Jamie Mann-Deichmann |
-| 77 | 358 | Shane Kalamata Platoon |
-| 78 | 358 | Nugget |
+| 77 | 358 | Nugget |
+| 78 | 358 | Shane Kalamata Platoon |
 | 79 | 345 | Ancient Intuition |
 | 80 | 330 | Jae Job |
 | 81 | 323 | Robin Getchel |
@@ -155,8 +155,8 @@
 | 147 | 181 | Andria Lynn |
 | 148 | 181 | Klo |
 | 149 | 180 | Leah Kutz Zirbel |
-| 150 | 179 | Scott Jameson |
-| 151 | 179 | Ak Jones |
+| 150 | 179 | Ak Jones |
+| 151 | 179 | Scott Jameson |
 | 152 | 176 | Zethra Prenisha Rahming |
 | 153 | 175 | Ren Mc |
 | 154 | 175 | blockstar |

@@ -381,8 +381,8 @@
 | 373 | 411 | Spunkysmom |
 | 374 | 411 | Ricky Fortune |
 | 375 | 406 | Erin StFrancis |
-| 376 | 406 | Tj Ball |
-| 377 | 406 | Julie Kresal |
+| 376 | 406 | Julie Kresal |
+| 377 | 406 | Tj Ball |
 | 378 | 405 | Christy Krissie |
 | 379 | 403 | Tonya Lee |
 | 380 | 403 | Snippy Rumbler |
@@ -459,8 +459,8 @@
 | 451 | 350 | F-X |
 | 452 | 348 | Elisheva Mizrachi |
 | 453 | 348 | Richard Horton |
-| 454 | 347 | Cheyenne Donovan |
-| 455 | 347 | Zesty Pivot |
+| 454 | 347 | Zesty Pivot |
+| 455 | 347 | Cheyenne Donovan |
 | 456 | 346 | Morgan Easter |
 | 457 | 346 | Lewis Sturgeon |
 | 458 | 345 | Frisky Clearpiece |
@@ -473,8 +473,8 @@
 | 465 | 342 | Sydney Busse |
 | 466 | 342 | Ebony Deloach Bryant |
 | 467 | 342 | Angi Harrison |
-| 468 | 341 | Andrew Willis |
-| 469 | 341 | Daniel Amos |
+| 468 | 341 | Daniel Amos |
+| 469 | 341 | Andrew Willis |
 | 470 | 341 | Traci Johnson |
 | 471 | 339 | Cool Rollpiece |
 | 472 | 338 | Shorty |

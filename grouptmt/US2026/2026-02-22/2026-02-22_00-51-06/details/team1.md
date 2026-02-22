@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Chelsea Dahlquist |
-| 114 | 243 | Trippy Redd |
+| 113 | 243 | Trippy Redd |
+| 114 | 243 | Chelsea Dahlquist |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -138,8 +138,8 @@
 | 130 | 203 | GATOR |
 | 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
-| 133 | 198 | Happy Snapbuild |
-| 134 | 198 | Shiny Gridmatch |
+| 133 | 198 | Shiny Gridmatch |
+| 134 | 198 | Happy Snapbuild |
 | 135 | 195 | Daring Fitclear |
 | 136 | 194 | Tyler Werts |
 | 137 | 194 | Ash Galvan |
@@ -161,8 +161,8 @@
 | 153 | 180 | Erez Yosef |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
-| 156 | 177 | ParisandCory Champagne |
-| 157 | 177 | Irual Hctrab |
+| 156 | 177 | Irual Hctrab |
+| 157 | 177 | ParisandCory Champagne |
 | 158 | 175 | John Barron |
 | 159 | 173 | Gabrielle Louise Malloch |
 | 160 | 171 | femmefatale |
@@ -180,10 +180,10 @@
 | 172 | 163 | Tyler Whitley |
 | 173 | 162 | Cece Ibarra |
 | 174 | 161 | SavageBooty98 |
-| 175 | 159 | Bindi |
-| 176 | 159 | David Miller |
-| 177 | 158 | Arianna O'Brien |
-| 178 | 158 | Sarah Marie |
+| 175 | 159 | David Miller |
+| 176 | 159 | Bindi |
+| 177 | 158 | Sarah Marie |
+| 178 | 158 | Arianna O'Brien |
 | 179 | 157 | Angela Fairbank |
 | 180 | 156 | Shanae Grant |
 | 181 | 154 | Melissa Lemmon |
