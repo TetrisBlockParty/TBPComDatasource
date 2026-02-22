@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -130,8 +130,8 @@
 | 122 | 574 | Morgan Martinez |
 | 123 | 568 | Rachael McClain Owens |
 | 124 | 565 | Daryn Elliott |
-| 125 | 562 | Dave Herzog |
-| 126 | 562 | Louise Stacy Sisson |
+| 125 | 562 | Louise Stacy Sisson |
+| 126 | 562 | Dave Herzog |
 | 127 | 557 | Domo Washington |
 | 128 | 555 | Nicole Myers |
 | 129 | 553 | mzcatzy |
@@ -215,8 +215,8 @@
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
-| 210 | 365 | Tiffany Ford |
-| 211 | 365 | Chummy Caster |
+| 210 | 365 | Chummy Caster |
+| 211 | 365 | Tiffany Ford |
 | 212 | 362 | Brandon Givens |
 | 213 | 361 | Marci Mize Fandrich |
 | 214 | 360 | Sheila M Frazier |
@@ -266,8 +266,8 @@
 | 258 | 296 | Katrina Turner |
 | 259 | 296 | Hoppy Buildout |
 | 260 | 291 | Carrie Huskey |
-| 261 | 289 | Duane Bright |
-| 262 | 289 | DidIdothat |
+| 261 | 289 | DidIdothat |
+| 262 | 289 | Duane Bright |
 | 263 | 289 | Danielle Weikel |
 | 264 | 286 | Tye Stovall |
 | 265 | 285 | Terry Jo Jones |

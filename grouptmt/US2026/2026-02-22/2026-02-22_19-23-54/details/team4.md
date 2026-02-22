@@ -182,8 +182,8 @@
 | 174 | 269 | Nikki Rae Gordon |
 | 175 | 268 | Mimi |
 | 176 | 267 | Casey Grabner |
-| 177 | 267 | Kathy Brookins |
-| 178 | 267 | Holly |
+| 177 | 267 | Holly |
+| 178 | 267 | Kathy Brookins |
 | 179 | 266 | Laura |
 | 180 | 265 | Chris Bernstein |
 | 181 | 264 | Girl |

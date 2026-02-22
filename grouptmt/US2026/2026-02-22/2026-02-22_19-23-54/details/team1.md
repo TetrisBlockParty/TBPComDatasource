@@ -86,16 +86,16 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -111,7 +111,7 @@
 | 103 | 411 | Luciano Moreira |
 | 104 | 409 | Yvonne Marie |
 | 105 | 395 | Nery Martinez |
-| 106 | 390 | Goose egg |
+| 106 | 390 | Lori Bales |
 | 107 | 390 | Candy Jones |
 | 108 | 390 | Goose egg |
 | 109 | 386 | Ty Brown |
@@ -165,12 +165,12 @@
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 297 | Danielle Little-Daugherty |
 | 159 | 296 | Madison Wicks |
-| 160 | 293 | Sarah Roberts |
-| 161 | 293 | Letson Melissa |
+| 160 | 293 | Letson Melissa |
+| 161 | 293 | Sarah Roberts |
 | 162 | 292 | David Lutcher |
 | 163 | 285 | ALFD |
-| 164 | 284 | Emily Adelaide Wheatley |
-| 165 | 284 | Rachael |
+| 164 | 284 | Rachael |
+| 165 | 284 | Emily Adelaide Wheatley |
 | 166 | 283 | Franswa |
 | 167 | 282 | Snippy Wipebuilder |
 | 168 | 282 | Cool Shiftsnap |
@@ -224,8 +224,8 @@
 | 216 | 228 | Giddy Cascade |
 | 217 | 227 | Cody Gates |
 | 218 | 226 | Michael |
-| 219 | 225 | Jessie Lynn |
-| 220 | 225 | Bindi |
+| 219 | 225 | Bindi |
+| 220 | 225 | Jessie Lynn |
 | 221 | 224 | ParisandCory Champagne |
 | 222 | 223 | Christina Backer |
 | 223 | 223 | Erez Yosef |

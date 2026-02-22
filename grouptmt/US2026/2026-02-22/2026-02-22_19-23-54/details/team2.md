@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
