@@ -112,8 +112,8 @@
 | 104 | 385 | Brenda Stewart |
 | 105 | 383 | pjbeta |
 | 106 | 380 | Dee Perry |
-| 107 | 379 | Austin James |
-| 108 | 379 | Kimmie Kimms |
+| 107 | 379 | Kimmie Kimms |
+| 108 | 379 | Austin James |
 | 109 | 377 | Tater |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
@@ -126,8 +126,8 @@
 | 118 | 355 | Hasbro Bros |
 | 119 | 354 | phrmblk24 |
 | 120 | 352 | Jason Jones |
-| 121 | 350 | Sweet Baker |
-| 122 | 350 | Tipsy Strikerpiece |
+| 121 | 350 | Tipsy Strikerpiece |
+| 122 | 350 | Sweet Baker |
 | 123 | 344 | Bhelle Sumile |
 | 124 | 343 | Death |
 | 125 | 341 | Nick R Montague |
@@ -144,8 +144,8 @@
 | 136 | 318 | Jessica Sheehan |
 | 137 | 316 | Dizzy Party |
 | 138 | 313 | Virginia Gray Floyd |
-| 139 | 308 | Sharon Reynolds |
-| 140 | 308 | Erin Hodges Plumb |
+| 139 | 308 | Erin Hodges Plumb |
+| 140 | 308 | Sharon Reynolds |
 | 141 | 307 | Kimberly Garcia |
 | 142 | 306 | Happy Basegrid |
 | 143 | 306 | Bloknboy |
@@ -184,8 +184,8 @@
 | 176 | 264 | Brian Richardsson |
 | 177 | 261 | Witty Builderfit |
 | 178 | 258 | Billie Dawn Sparks |
-| 179 | 254 | Letson Melissa |
-| 180 | 254 | Al Smith Jr |
+| 179 | 254 | Al Smith Jr |
+| 180 | 254 | Letson Melissa |
 | 181 | 253 | Jamie Jury |
 | 182 | 252 | Dena Kayy |
 | 183 | 251 | Giggly Builderline |

@@ -206,8 +206,8 @@
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
-| 201 | 362 | Loopy Fallmatch |
-| 202 | 362 | Brandon Givens |
+| 201 | 362 | Brandon Givens |
+| 202 | 362 | Loopy Fallmatch |
 | 203 | 358 | RickyG |
 | 204 | 358 | Chummy Caster |
 | 205 | 357 | Stephanie Burtin |
@@ -334,8 +334,8 @@
 | 326 | 220 | Tosha Griffey |
 | 327 | 217 | Snazzy Filler |
 | 328 | 217 | Goofy Fall |
-| 329 | 216 | Cheryl Hinch Tenbrook |
-| 330 | 216 | Tina Smith Roy |
+| 329 | 216 | Tina Smith Roy |
+| 330 | 216 | Cheryl Hinch Tenbrook |
 | 331 | 216 | Frothy Snapper |
 | 332 | 215 | Everret Maxine |
 | 333 | 214 | Amy Fuller Heaton |

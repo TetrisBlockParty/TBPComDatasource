@@ -211,8 +211,8 @@
 | 203 | 999 | Eric Carlson |
 | 204 | 998 | Tralonda Weeks |
 | 205 | 991 | Moose Griffith |
-| 206 | 989 | Teddi Notyalc |
-| 207 | 989 | Desiree Harris Rosch |
+| 206 | 989 | Desiree Harris Rosch |
+| 207 | 989 | Teddi Notyalc |
 | 208 | 988 | Cherica Taylor |
 | 209 | 986 | RAEPR05 |
 | 210 | 984 | Desiree Anderson |
@@ -266,8 +266,8 @@
 | 258 | 860 | William Hunt |
 | 259 | 857 | Della Hole |
 | 260 | 855 | F-X |
-| 261 | 853 | Meghan M |
-| 262 | 853 | Maria Escobar |
+| 261 | 853 | Maria Escobar |
+| 262 | 853 | Meghan M |
 | 263 | 850 | Glitzy Stackzone |
 | 264 | 845 | Sheniya Spurgeon |
 | 265 | 844 | Terri McKelvey McKinley |
@@ -355,11 +355,11 @@
 | 347 | 668 | Roseanna Peloso |
 | 348 | 666 | Speedy Spinblock |
 | 349 | 665 | Phil J. Grombliniak |
-| 350 | 665 | Prette Qui |
-| 351 | 665 | Taryece Gause |
+| 350 | 665 | Taryece Gause |
+| 351 | 665 | Prette Qui |
 | 352 | 664 | Sleepypanda67 |
-| 353 | 661 | Christine Bollig |
-| 354 | 661 | goofinoff |
+| 353 | 661 | goofinoff |
+| 354 | 661 | Christine Bollig |
 | 355 | 661 | BeQuo |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 658 | Dylan Thomason |
@@ -446,8 +446,8 @@
 | 438 | 545 | Lyndi Robinson Wakefield |
 | 439 | 545 | Sparkles |
 | 440 | 544 | Deidre Shaffer |
-| 441 | 543 | Julie Kresal |
-| 442 | 543 | Vanessa Moreno |
+| 441 | 543 | Vanessa Moreno |
+| 442 | 543 | Julie Kresal |
 | 443 | 540 | Dizzy Zone |
 | 444 | 540 | Melissa Kay Gibson |
 | 445 | 538 | Lonne Emade |
@@ -538,8 +538,8 @@
 | 530 | 467 | Audrey Jones |
 | 531 | 466 | Koa N Sharon Chen |
 | 532 | 466 | Tina Marie |
-| 533 | 466 | Kori Beth Babb |
-| 534 | 466 | Crystal Greene |
+| 533 | 466 | Crystal Greene |
+| 534 | 466 | Kori Beth Babb |
 | 535 | 463 | Jaye EL Hunter |
 | 536 | 463 | Cody Nishimura |
 | 537 | 463 | Mia Muse Best |

@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1304 | Alicia Bass |
 | 16 | 1292 | Roger Coulter |
@@ -148,8 +148,8 @@
 | 140 | 310 | Shauna Havard |
 | 141 | 307 | Angela Srubar-Norman |
 | 142 | 307 | Bio Nelly |
-| 143 | 300 | Dana Scott |
-| 144 | 300 | Jason Hart |
+| 143 | 300 | Jason Hart |
+| 144 | 300 | Dana Scott |
 | 145 | 299 | TRCuse |
 | 146 | 294 | Meagan Nicole |
 | 147 | 294 | Kesha Brady |
@@ -193,8 +193,8 @@
 | 185 | 251 | Matt Summer |
 | 186 | 250 | Matt Dell'Olio |
 | 187 | 247 | Sam Bishop |
-| 188 | 245 | Andria Lynn |
-| 189 | 245 | Peachy Fall |
+| 188 | 245 | Peachy Fall |
+| 189 | 245 | Andria Lynn |
 | 190 | 245 | Autum Leigh |
 | 191 | 244 | Twisty Cascadezone |
 | 192 | 243 | Mr. Party |
@@ -284,8 +284,8 @@
 | 276 | 162 | John Brunetti |
 | 277 | 162 | Gwendolyn Pitcairn |
 | 278 | 162 | conceptCollector |
-| 279 | 161 | Tanner Lund |
-| 280 | 161 | Matt Gooder |
+| 279 | 161 | Matt Gooder |
+| 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
 | 282 | 160 | Michele Plunkett |
 | 283 | 159 | DonMega |
@@ -347,9 +347,9 @@
 | 339 | 141 | Joshua Cuellar |
 | 340 | 141 | Heather Bruce |
 | 341 | 140 | Rico |
-| 342 | 139 | Lori Goudy |
-| 343 | 139 | Ann G. Carrillo |
-| 344 | 139 | O block |
+| 342 | 139 | Ann G. Carrillo |
+| 343 | 139 | O block |
+| 344 | 139 | Lori Goudy |
 | 345 | 138 | Ashlee Carnes |
 | 346 | 138 | Moonsterix |
 | 347 | 138 | Jasmine S Caldwell |
@@ -1493,8 +1493,8 @@
 | 1485 | 8 | Jermre Owens |
 | 1486 | 8 | Nutty Grid |
 | 1487 | 8 | Crafty Snapline |
-| 1488 | 8 | Jermre Owens |
-| 1489 | 7 | Lauri Robare Russell |
+| 1488 | 8 | Dawn Plumb |
+| 1489 | 7 | Zany Shatterbuilder |
 | 1490 | 7 | Natasha Payne |
 | 1491 | 7 | Lauri Robare Russell |
 | 1492 | 7 | Raymie Jane |
