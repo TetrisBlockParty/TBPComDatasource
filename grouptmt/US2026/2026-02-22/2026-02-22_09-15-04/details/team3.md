@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Dirtgirl27 |
-| 271 | 225 | Cozy Snaplink |
+| 270 | 225 | Cozy Snaplink |
+| 271 | 225 | Dirtgirl27 |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -285,8 +285,8 @@
 | 277 | 220 | Tosha Griffey |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Cheryl Hinch Tenbrook |
-| 281 | 216 | Twisty Brick LT |
+| 280 | 216 | Twisty Brick LT |
+| 281 | 216 | Cheryl Hinch Tenbrook |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Angela Scott |
 | 284 | 214 | Rebel124 |
@@ -1303,7 +1303,7 @@
 | 1295 | 44 | Cesar Mendez |
 | 1296 | 44 | Hi'ilani L Houvener |
 | 1297 | 44 | Sulema Flores Perez |
-| 1298 | 44 | Hi'ilani L Houvener |
+| 1298 | 44 | Edward Hackett |
 | 1299 | 44 | Beto Rodriguez |
 | 1300 | 44 | Cdawn Langford |
 | 1301 | 43 | Yall Sukk |

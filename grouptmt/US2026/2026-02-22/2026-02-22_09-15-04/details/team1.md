@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Angel Fowler |
-| 49 | 635 | Marianne Louise West |
+| 48 | 635 | Marianne Louise West |
+| 49 | 635 | Angel Fowler |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Timothy Dew |
 | 131 | 282 | Cool Shiftsnap |
@@ -173,8 +173,8 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | Shauntina Burke |
-| 169 | 216 | MRdot Rooski |
+| 168 | 216 | MRdot Rooski |
+| 169 | 216 | Shauntina Burke |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
@@ -189,14 +189,14 @@
 | 181 | 207 | Brenda Alexander |
 | 182 | 207 | Leslie Bush Yarbrough |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Tater |
-| 185 | 205 | Snappy Matcher |
+| 184 | 205 | Snappy Matcher |
+| 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | Breanna Luna |
-| 191 | 200 | DaRascal |
+| 190 | 200 | DaRascal |
+| 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |
@@ -219,7 +219,7 @@
 | 211 | 183 | Andrew Boone |
 | 212 | 183 | Amy Hess |
 | 213 | 182 | Phu ckalldems |
-| 214 | 180 | Erez Yosef |
+| 214 | 180 | Jessie Lynn |
 | 215 | 180 | BigWeenie69 |
 | 216 | 180 | Erez Yosef |
 | 217 | 179 | Erin Rosberg |
@@ -390,8 +390,8 @@
 | 382 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 383 | 98 | Alfredo Vasquez |
 | 384 | 98 | Kirk Torrey |
-| 385 | 97 | Edgar Algiere |
-| 386 | 97 | Steve Bomkamp |
+| 385 | 97 | Steve Bomkamp |
+| 386 | 97 | Edgar Algiere |
 | 387 | 96 | Lisa Marie |
 | 388 | 95 | Quirky Pusher |
 | 389 | 95 | Jay Tressler |

@@ -164,12 +164,12 @@
 | 156 | 227 | Alyssa Papen |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
-| 159 | 223 | Kris Bartlett |
-| 160 | 223 | Antony Dwayne Beasley |
-| 161 | 222 | Joeliecea Cobb |
-| 162 | 222 | TheNeesh50 |
-| 163 | 221 | PurpleMoonMa |
-| 164 | 221 | Rheanda Weaskus |
+| 159 | 223 | Antony Dwayne Beasley |
+| 160 | 223 | Kris Bartlett |
+| 161 | 222 | TheNeesh50 |
+| 162 | 222 | Joeliecea Cobb |
+| 163 | 221 | Rheanda Weaskus |
+| 164 | 221 | PurpleMoonMa |
 | 165 | 220 | Matt Dell'Olio |
 | 166 | 218 | Casey Grabner |
 | 167 | 217 | Chaz Duncan |
