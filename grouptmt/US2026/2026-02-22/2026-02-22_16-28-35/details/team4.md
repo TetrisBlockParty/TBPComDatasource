@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -303,8 +303,8 @@
 | 295 | 150 | Brandon Link |
 | 296 | 150 | GBR |
 | 297 | 148 | Sam Middleton |
-| 298 | 148 | Cranky Rollpiece |
-| 299 | 148 | Nubian1 |
+| 298 | 148 | Nubian1 |
+| 299 | 148 | Cranky Rollpiece |
 | 300 | 148 | Janita Parrish |
 | 301 | 148 | Ruby Khalisadar |
 | 302 | 147 | Sticherella |

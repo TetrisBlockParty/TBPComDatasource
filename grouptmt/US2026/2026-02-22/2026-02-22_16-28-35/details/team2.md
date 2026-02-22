@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -206,8 +206,8 @@
 | 198 | 993 | Eric Carlson |
 | 199 | 992 | Ashley Rose Frederick |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Desiree Harris Rosch |
-| 202 | 989 | Teddi Notyalc |
+| 201 | 989 | Teddi Notyalc |
+| 202 | 989 | Desiree Harris Rosch |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -296,8 +296,8 @@
 | 288 | 768 | Michele Morgan |
 | 289 | 767 | Ashley Lopez |
 | 290 | 764 | Pacynthia Williams |
-| 291 | 763 | Beth |
-| 292 | 763 | Heather Causey |
+| 291 | 763 | Heather Causey |
+| 292 | 763 | Beth |
 | 293 | 761 | Hyper Cluster |
 | 294 | 760 | Danielle Simmons |
 | 295 | 759 | Jojo Momma |
@@ -324,10 +324,10 @@
 | 316 | 704 | Jánine Riggs |
 | 317 | 704 | Shelley Thornburgh Wright |
 | 318 | 703 | Gold Rose |
-| 319 | 700 | Vincent Petrella |
-| 320 | 700 | Hong Tang |
-| 321 | 700 | Beverly Owens |
-| 322 | 700 | Rosemadder |
+| 319 | 700 | Hong Tang |
+| 320 | 700 | Vincent Petrella |
+| 321 | 700 | Rosemadder |
+| 322 | 700 | Beverly Owens |
 | 323 | 699 | tejas25 |
 | 324 | 697 | Dreamy Blast |
 | 325 | 697 | Ashle Scranton |
@@ -534,10 +534,10 @@
 | 526 | 466 | Crystal Greene |
 | 527 | 465 | Davetta Sanford |
 | 528 | 463 | Mia Muse Best |
-| 529 | 463 | Jaye EL Hunter |
-| 530 | 463 | Cody Nishimura |
-| 531 | 462 | Daphne Jordan |
-| 532 | 462 | Amanda Ferrell |
+| 529 | 463 | Cody Nishimura |
+| 530 | 463 | Jaye EL Hunter |
+| 531 | 462 | Amanda Ferrell |
+| 532 | 462 | Daphne Jordan |
 | 533 | 462 | Jarboe |
 | 534 | 460 | Slinky Racker |
 | 535 | 460 | Funky Caster |
@@ -565,10 +565,10 @@
 | 557 | 444 | Ryan Meilleur |
 | 558 | 444 | Fi Ne |
 | 559 | 442 | Jennifer Scott |
-| 560 | 442 | Juan Castillo |
+| 560 | 442 | Darlene Bowman |
 | 561 | 442 | Niceday |
-| 562 | 442 | Bubbly Snapfit |
-| 563 | 442 | Darlene Bowman |
+| 562 | 442 | Juan Castillo |
+| 563 | 442 | Bubbly Snapfit |
 | 564 | 438 | Kristi Biddinger |
 | 565 | 438 | Mike Aprilliano |
 | 566 | 437 | Véronique Lévesque Sabourin |

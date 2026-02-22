@@ -141,9 +141,9 @@
 | 133 | 492 | Daira Largen |
 | 134 | 491 | Chauntee Alfrey-Cardinale |
 | 135 | 480 | Stephanie Blkpep Davidson |
-| 136 | 479 | Annie Marie |
-| 137 | 479 | Patti Skiles |
-| 138 | 479 | Poppy Splitter |
+| 136 | 479 | Patti Skiles |
+| 137 | 479 | Poppy Splitter |
+| 138 | 479 | Annie Marie |
 | 139 | 478 | CeceGeGe |
 | 140 | 476 | Mary Pellegrino |
 | 141 | 474 | Hasty Cascadefit |
@@ -180,8 +180,8 @@
 | 172 | 399 | Mcathen |
 | 173 | 397 | Annie Déè |
 | 174 | 393 | Fallorina Susana |
-| 175 | 391 | Araceli Parra |
-| 176 | 391 | Sarah Cowan Burgos |
+| 175 | 391 | Sarah Cowan Burgos |
+| 176 | 391 | Araceli Parra |
 | 177 | 391 | Calista Jo Dickson |
 | 178 | 391 | Dapper Snap |
 | 179 | 390 | Chasity |
@@ -388,8 +388,8 @@
 | 380 | 185 | Frilly Stackzone |
 | 381 | 184 | Shanon R Jackson |
 | 382 | 184 | Salena Whitlock |
-| 383 | 182 | Kevin Russell |
-| 384 | 182 | gremicx |
+| 383 | 182 | gremicx |
+| 384 | 182 | Kevin Russell |
 | 385 | 181 | Denita Mungro |
 | 386 | 180 | Ava Petito |
 | 387 | 180 | Beth Ingham |
@@ -397,8 +397,8 @@
 | 389 | 178 | Joy Petroski |
 | 390 | 178 | Christian Luna |
 | 391 | 177 | Kristin Delibac Corrigan |
-| 392 | 176 | Skinny Baldez |
-| 393 | 176 | Emma |
+| 392 | 176 | Emma |
+| 393 | 176 | Skinny Baldez |
 | 394 | 175 | Michael Latasha Gray |
 | 395 | 175 | Wacky Crasher |
 | 396 | 174 | Sierra Spencer |
