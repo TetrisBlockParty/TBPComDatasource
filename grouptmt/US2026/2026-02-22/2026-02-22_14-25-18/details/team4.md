@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Dustee Craddock-Harrison |
-| 64 | 636 | Kimyatta Cavin |
+| 63 | 636 | Kimyatta Cavin |
+| 64 | 636 | Dustee Craddock-Harrison |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
@@ -229,8 +229,8 @@
 | 221 | 191 | Klo |
 | 222 | 190 | Cheery Risebuilder |
 | 223 | 190 | Snippy Puzzle |
-| 224 | 189 | Calvin Dennis |
-| 225 | 189 | Dihcheese444 |
+| 224 | 189 | Dihcheese444 |
+| 225 | 189 | Calvin Dennis |
 | 226 | 186 | Holly |
 | 227 | 185 | Rebecca Morris |
 | 228 | 185 | Laura Hosford |
@@ -750,7 +750,7 @@
 | 742 | 53 | Vanita M Hemphill |
 | 743 | 53 | Aaron Wilkins |
 | 744 | 52 | McKayla Breanne |
-| 745 | 52 | Linda Wilbur Scott |
+| 745 | 52 | Beenbreto |
 | 746 | 52 | Balsam Joe |
 | 747 | 52 | Linda Wilbur Scott |
 | 748 | 52 | Csquared812 |

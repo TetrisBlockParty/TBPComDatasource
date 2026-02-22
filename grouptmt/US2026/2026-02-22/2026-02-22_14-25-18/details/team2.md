@@ -142,8 +142,8 @@
 | 134 | 1273 | Cool Rollpiece |
 | 135 | 1265 | Katrina Williams Balmir |
 | 136 | 1257 | Eileen Hale |
-| 137 | 1248 | Howard Forest |
-| 138 | 1248 | Isabela Shaw |
+| 137 | 1248 | Isabela Shaw |
+| 138 | 1248 | Howard Forest |
 | 139 | 1242 | Altamirano Michael |
 | 140 | 1232 | Groovy Puzzle |
 | 141 | 1230 | Megan Garrick |
@@ -222,8 +222,8 @@
 | 214 | 915 | Robin Kerby |
 | 215 | 915 | Angela Bonquiqui Dinish |
 | 216 | 915 | Kelly Trent |
-| 217 | 910 | Shuany Arias |
-| 218 | 910 | Crystal Hoffman |
+| 217 | 910 | Crystal Hoffman |
+| 218 | 910 | Shuany Arias |
 | 219 | 907 | Gene Mills |
 | 220 | 901 | Jennifer Peachey |
 | 221 | 899 | Hillary Crawford |
@@ -270,8 +270,8 @@
 | 262 | 778 | Desire Rice |
 | 263 | 778 | Mischelle Clay |
 | 264 | 777 | Samantha Jo |
-| 265 | 777 | Tesha Oldaker |
-| 266 | 777 | Jessicah Myers |
+| 265 | 777 | Jessicah Myers |
+| 266 | 777 | Tesha Oldaker |
 | 267 | 772 | William Hunt |
 | 268 | 772 | Sam Joe |
 | 269 | 771 | Terri McKelvey McKinley |
@@ -376,8 +376,8 @@
 | 368 | 589 | Thomas Hedrick |
 | 369 | 586 | Heather Schelkopf |
 | 370 | 584 | Ginnell Browner |
-| 371 | 584 | Eckoman518 |
-| 372 | 584 | Kimberly Randesi |
+| 371 | 584 | Kimberly Randesi |
+| 372 | 584 | Eckoman518 |
 | 373 | 583 | Jackie Avila |
 | 374 | 581 | Jerry Tempelmeyer |
 | 375 | 581 | Tj Ball |
@@ -391,13 +391,13 @@
 | 383 | 563 | Irene Jones |
 | 384 | 561 | Traci Johnson |
 | 385 | 560 | Phil J. Grombliniak |
-| 386 | 558 | Libby Hicks |
-| 387 | 558 | Mikayala Szaz |
+| 386 | 558 | Mikayala Szaz |
+| 387 | 558 | Libby Hicks |
 | 388 | 556 | Slip |
 | 389 | 554 | Santana Miyagi |
 | 390 | 554 | Rachael Senard |
-| 391 | 554 | Nicole Cannon |
-| 392 | 554 | Autumn Schaeffer |
+| 391 | 554 | Autumn Schaeffer |
+| 392 | 554 | Nicole Cannon |
 | 393 | 553 | Blacc Blac |
 | 394 | 552 | Michelle Fields |
 | 395 | 550 | Jackie Lucas |
@@ -554,8 +554,8 @@
 | 546 | 428 | Shyenn Gadsby |
 | 547 | 428 | Arkei Luster |
 | 548 | 427 | Alexandra Weir |
-| 549 | 427 | Sabrina Burton |
-| 550 | 427 | Destiny Cozier |
+| 549 | 427 | Destiny Cozier |
+| 550 | 427 | Sabrina Burton |
 | 551 | 426 | Ashley Dow |
 | 552 | 424 | Lina Sanders |
 | 553 | 424 | Saucy Fitzone |
@@ -791,8 +791,8 @@
 | 783 | 302 | Maxwell Escalera |
 | 784 | 301 | Tom Steffen |
 | 785 | 300 | Alice Ball |
-| 786 | 300 | Kacee Conrad Bock |
-| 787 | 300 | Warren Marleau |
+| 786 | 300 | Warren Marleau |
+| 787 | 300 | Kacee Conrad Bock |
 | 788 | 299 | Cassie Newton |
 | 789 | 298 | Ryan Stadel |
 | 790 | 298 | Lazy Riseclear |
@@ -1042,8 +1042,8 @@
 | 1034 | 234 | Jannan Haimour |
 | 1035 | 233 | ItsJennifer Neriss |
 | 1036 | 233 | Allison Hewitt |
-| 1037 | 233 | Nerdy Riserfit |
-| 1038 | 233 | Jessica Sutter |
+| 1037 | 233 | Jessica Sutter |
+| 1038 | 233 | Nerdy Riserfit |
 | 1039 | 233 | ZenZanny |
 | 1040 | 232 | P. D. Paige |
 | 1041 | 232 | Sarah Dean |

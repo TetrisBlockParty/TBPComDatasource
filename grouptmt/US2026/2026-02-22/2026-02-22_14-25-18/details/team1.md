@@ -141,12 +141,12 @@
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Sarah Roberts |
-| 137 | 290 | Death |
+| 136 | 290 | Death |
+| 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Rachael |
-| 141 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Emily Adelaide Wheatley |
+| 141 | 284 | Rachael |
 | 142 | 283 | Franswa |
 | 143 | 282 | Timothy Dew |
 | 144 | 282 | Snippy Wipebuilder |
