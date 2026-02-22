@@ -122,8 +122,8 @@
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |
-| 117 | 357 | Dandy Basegrid |
-| 118 | 357 | Amanda Johnson Huffman |
+| 117 | 357 | Amanda Johnson Huffman |
+| 118 | 357 | Dandy Basegrid |
 | 119 | 355 | Hasbro Bros |
 | 120 | 354 | phrmblk24 |
 | 121 | 352 | Jason Jones |

@@ -156,14 +156,14 @@
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
-| 151 | 294 | Meagan Nicole |
-| 152 | 294 | Calvin Cannon |
+| 151 | 294 | Calvin Cannon |
+| 152 | 294 | Meagan Nicole |
 | 153 | 290 | Keshia Lyons |
-| 154 | 290 | Chaz Duncan |
-| 155 | 290 | 🥔🥔 Spudz |
+| 154 | 290 | 🥔🥔 Spudz |
+| 155 | 290 | Chaz Duncan |
 | 156 | 288 | Leah Kutz Zirbel |
-| 157 | 286 | shark tato |
-| 158 | 286 | Brittney Orengo |
+| 157 | 286 | Brittney Orengo |
+| 158 | 286 | shark tato |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
 | 161 | 277 | Cursed Hag |

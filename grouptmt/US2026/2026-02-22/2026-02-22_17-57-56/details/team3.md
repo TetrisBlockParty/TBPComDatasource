@@ -127,8 +127,8 @@
 | 119 | 579 | Jd Morris |
 | 120 | 574 | Morgan Martinez |
 | 121 | 568 | Rachael McClain Owens |
-| 122 | 562 | Dave Herzog |
-| 123 | 562 | Louise Stacy Sisson |
+| 122 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Dave Herzog |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -268,8 +268,8 @@
 | 260 | 278 | Rufus Lincoln |
 | 261 | 277 | Tracy Martin |
 | 262 | 276 | Crimson |
-| 263 | 276 | Connie Mohler-Fair |
-| 264 | 276 | _melisa223_ |
+| 263 | 276 | _melisa223_ |
+| 264 | 276 | Connie Mohler-Fair |
 | 265 | 275 | Cassandra Bryant |
 | 266 | 272 | Tasha Wesson-Torrence |
 | 267 | 272 | fraulila |
@@ -277,10 +277,10 @@
 | 269 | 271 | Cass Mendoza |
 | 270 | 271 | Grego Daniel |
 | 271 | 268 | Krystal Gerstberger |
-| 272 | 267 | Tiffany Davie |
-| 273 | 267 | April Matthew Kibble |
-| 274 | 266 | Snappy Balancer |
-| 275 | 266 | Quirky Dropzone |
+| 272 | 267 | April Matthew Kibble |
+| 273 | 267 | Tiffany Davie |
+| 274 | 266 | Quirky Dropzone |
+| 275 | 266 | Snappy Balancer |
 | 276 | 265 | Nikki Pags |
 | 277 | 263 | Brenda Schmid Wood |
 | 278 | 263 | Troy |
@@ -359,14 +359,14 @@
 | 351 | 209 | Kirhonda Autmon |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | Kristian Thurman |
-| 355 | 207 | angieelyn |
+| 354 | 207 | angieelyn |
+| 355 | 207 | Kristian Thurman |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
 | 359 | 203 | DanceLuvLaugh |
-| 360 | 202 | Tipsy Zonebuilder |
-| 361 | 202 | Melanie Sherwood |
+| 360 | 202 | Melanie Sherwood |
+| 361 | 202 | Tipsy Zonebuilder |
 | 362 | 201 | Hyper Matchzone |
 | 363 | 200 | Sharisse Baltimore |
 | 364 | 200 | Colleen Phelps |

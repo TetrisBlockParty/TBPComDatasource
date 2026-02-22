@@ -201,8 +201,8 @@
 | 193 | 1045 | Lourisha |
 | 194 | 1043 | Brave Dropmatch |
 | 195 | 1036 | Allison Lockyer |
-| 196 | 1024 | Bri Lynn |
-| 197 | 1024 | Desiree Anderson |
+| 196 | 1024 | Desiree Anderson |
+| 197 | 1024 | Bri Lynn |
 | 198 | 1023 | Brainy Smurf |
 | 199 | 1020 | Eric Carlson |
 | 200 | 1019 | Taylor Phillips |
@@ -267,8 +267,8 @@
 | 259 | 860 | William Hunt |
 | 260 | 857 | Della Hole |
 | 261 | 855 | F-X |
-| 262 | 853 | Meghan M |
-| 263 | 853 | Maria Escobar |
+| 262 | 853 | Maria Escobar |
+| 263 | 853 | Meghan M |
 | 264 | 850 | Glitzy Stackzone |
 | 265 | 845 | Sheniya Spurgeon |
 | 266 | 844 | Terri McKelvey McKinley |
@@ -403,8 +403,8 @@
 | 395 | 605 | Biggest thing |
 | 396 | 605 | g |
 | 397 | 604 | Dennis McLaurin |
-| 398 | 602 | Shaun Church |
-| 399 | 602 | KhaosLord |
+| 398 | 602 | KhaosLord |
+| 399 | 602 | Shaun Church |
 | 400 | 601 | Moua Ying |
 | 401 | 600 | Arkei Luster |
 | 402 | 600 | Connie Jimenez |
@@ -572,8 +572,8 @@
 | 564 | 455 | Ann Knutson Anderson |
 | 565 | 453 | Jessica S Flecha |
 | 566 | 452 | Juanita Lyons |
-| 567 | 450 | Mike Aprilliano |
-| 568 | 450 | Cheery Matchzone |
+| 567 | 450 | Cheery Matchzone |
+| 568 | 450 | Mike Aprilliano |
 | 569 | 450 | Rich Sullivan |
 | 570 | 449 | Kristi Biddinger |
 | 571 | 448 | Lina Sanders |
@@ -601,8 +601,8 @@
 | 593 | 434 | bbv |
 | 594 | 432 | Abimbola Bimbo |
 | 595 | 432 | Lucy Marshall |
-| 596 | 431 | Quinn |
-| 597 | 431 | Hunter Connors |
+| 596 | 431 | Hunter Connors |
+| 597 | 431 | Quinn |
 | 598 | 430 | Ryan Stadel |
 | 599 | 429 | Tabs Reichert |
 | 600 | 428 | Lynda Toland |
@@ -950,7 +950,7 @@
 | 942 | 277 | Beverly Hodge |
 | 943 | 277 | Abby Klaski |
 | 944 | 276 | Lindsey Leigh |
-| 945 | 276 | Dottie Turbeville Creel |
+| 945 | 276 | Ryan Lauer |
 | 946 | 276 | Jamie Dayton |
 | 947 | 276 | Dottie Turbeville Creel |
 | 948 | 276 | Meli |
