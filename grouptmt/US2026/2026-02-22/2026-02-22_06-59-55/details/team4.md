@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Chance Strickland |
-| 175 | 201 | Melvin Baird |
+| 174 | 201 | Melvin Baird |
+| 175 | 201 | Chance Strickland |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Zethra Prenisha Rahming |
 | 178 | 196 | Oscar Alberto Perez |
@@ -200,8 +200,8 @@
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Carter Jones |
 | 194 | 181 | Alan George LaRage |
-| 195 | 180 | Orchislactea |
-| 196 | 180 | Rafael Valentin |
+| 195 | 180 | Rafael Valentin |
+| 196 | 180 | Orchislactea |
 | 197 | 179 | blockstar |
 | 198 | 175 | TinyLegoRose |
 | 199 | 174 | Dihcheese444 |

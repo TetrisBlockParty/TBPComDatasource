@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -184,8 +184,8 @@
 | 176 | 347 | Nicole Flippo |
 | 177 | 343 | Ashley Raines |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Gumbo |
-| 180 | 338 | Leah Barnett |
+| 179 | 338 | Leah Barnett |
+| 180 | 338 | Gumbo |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -256,8 +256,8 @@
 | 248 | 236 | Jess Bissett |
 | 249 | 235 | LaNette Morgan |
 | 250 | 234 | Nikki Pags |
-| 251 | 233 | Josh Borquez |
-| 252 | 233 | Ray Lader |
+| 251 | 233 | Ray Lader |
+| 252 | 233 | Josh Borquez |
 | 253 | 232 | Donna |
 | 254 | 232 | Brenda Schmid Wood |
 | 255 | 227 | Meowsa |
@@ -367,8 +367,8 @@
 | 359 | 153 | Lys |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Eric Caccavale |
-| 363 | 152 | Shiny Zonebuilder |
+| 362 | 152 | Shiny Zonebuilder |
+| 363 | 152 | Eric Caccavale |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -521,12 +521,12 @@
 | 513 | 106 | Megan Riggins |
 | 514 | 106 | SaSa Mac |
 | 515 | 105 | Emi |
-| 516 | 105 | Amy Wheeler |
-| 517 | 105 | Zac Hudak |
+| 516 | 105 | Zac Hudak |
+| 517 | 105 | Amy Wheeler |
 | 518 | 104 | bean |
 | 519 | 104 | Jessica Rose-Morgan |
-| 520 | 104 | Johnathan Dowe |
-| 521 | 104 | Jana Fagg |
+| 520 | 104 | Jana Fagg |
+| 521 | 104 | Johnathan Dowe |
 | 522 | 103 | Snappy Balancer |
 | 523 | 103 | Lisa Lisa |
 | 524 | 103 | Heather Bateman |
