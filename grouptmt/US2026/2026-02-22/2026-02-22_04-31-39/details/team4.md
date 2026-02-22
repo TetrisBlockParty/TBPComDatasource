@@ -43,8 +43,8 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
@@ -114,8 +114,8 @@
 | 106 | 287 | Shannon Ferrari |
 | 107 | 286 | Daria Rycewicz |
 | 108 | 284 | shark tato |
-| 109 | 278 | Lucas J Sutton |
-| 110 | 278 | Carrie Brian |
+| 109 | 278 | Carrie Brian |
+| 110 | 278 | Lucas J Sutton |
 | 111 | 277 | KJ Pool |
 | 112 | 275 | Dizzy Tiley |
 | 113 | 274 | Desi Desporte |
@@ -157,8 +157,8 @@
 | 149 | 205 | Sarah Neathery |
 | 150 | 205 | Kathy Brookins |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Chris Bernstein |
-| 153 | 203 | Katherine Crane |
+| 152 | 203 | Katherine Crane |
+| 153 | 203 | Chris Bernstein |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |
@@ -187,8 +187,8 @@
 | 179 | 174 | Dihcheese444 |
 | 180 | 173 | ThaEviLJeNiuZ |
 | 181 | 168 | TinyLegoRose |
-| 182 | 166 | SammieJo Guy |
-| 183 | 166 | Cozy Balancer |
+| 182 | 166 | Cozy Balancer |
+| 183 | 166 | SammieJo Guy |
 | 184 | 164 | 030Synner |
 | 185 | 162 | Joanna |
 | 186 | 160 | Laura Hosford |

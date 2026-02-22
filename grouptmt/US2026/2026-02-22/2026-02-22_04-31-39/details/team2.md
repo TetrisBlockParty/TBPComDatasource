@@ -327,8 +327,8 @@
 | 319 | 534 | Em Chen |
 | 320 | 531 | Chris Wanner |
 | 321 | 527 | Heather Causey |
-| 322 | 527 | Ryan Gunther |
-| 323 | 527 | Julie Kresal |
+| 322 | 527 | Julie Kresal |
+| 323 | 527 | Ryan Gunther |
 | 324 | 526 | Sheronda Jackson |
 | 325 | 525 | Desiree Anderson |
 | 326 | 524 | Jojo Momma |
@@ -364,8 +364,8 @@
 | 356 | 492 | Armonie Smith |
 | 357 | 491 | Michael Buckner |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Andrew Willis |
-| 360 | 488 | Venita Ray |
+| 359 | 488 | Venita Ray |
+| 360 | 488 | Andrew Willis |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -375,8 +375,8 @@
 | 367 | 481 | Klee |
 | 368 | 480 | Dar |
 | 369 | 478 | Ashley Collins |
-| 370 | 477 | Julay |
-| 371 | 477 | Brenna Ann |
+| 370 | 477 | Brenna Ann |
+| 371 | 477 | Julay |
 | 372 | 476 | Kitybox |
 | 373 | 476 | Maya June |
 | 374 | 475 | Michelle Lee |
@@ -630,8 +630,8 @@
 | 622 | 309 | Candy Pitts |
 | 623 | 309 | Byung Bae Park |
 | 624 | 308 | Prado |
-| 625 | 308 | Claire |
-| 626 | 308 | Sarah block |
+| 625 | 308 | Sarah block |
+| 626 | 308 | Claire |
 | 627 | 307 | stacey |
 | 628 | 305 | Zany Clusterbuilder |
 | 629 | 305 | Snippy Block |
@@ -649,21 +649,21 @@
 | 641 | 299 | Cassie Newton |
 | 642 | 299 | Beth Decker |
 | 643 | 298 | Frilly Fallzone |
-| 644 | 298 | Ryan Stadel |
-| 645 | 298 | RetroLemur |
+| 644 | 298 | RetroLemur |
+| 645 | 298 | Ryan Stadel |
 | 646 | 297 | Toni Lynn |
 | 647 | 296 | Amber Gray |
-| 648 | 296 | Frisky Riserbuilder |
-| 649 | 296 | Nicky Jackson |
+| 648 | 296 | Nicky Jackson |
+| 649 | 296 | Frisky Riserbuilder |
 | 650 | 296 | Jennifer Darby |
 | 651 | 295 | Sleepypanda67 |
 | 652 | 295 | Alice Ball |
 | 653 | 295 | Noel Tarmy |
 | 654 | 294 | Amanda Edwards |
-| 655 | 293 | Ann Marie Davis |
-| 656 | 293 | Kiorah Blaze |
-| 657 | 292 | Deana |
-| 658 | 292 | Britney M. |
+| 655 | 293 | Kiorah Blaze |
+| 656 | 293 | Ann Marie Davis |
+| 657 | 292 | Britney M. |
+| 658 | 292 | Deana |
 | 659 | 292 | Epic Fitzone |
 | 660 | 290 | Adrian Benitez |
 | 661 | 289 | August Hale |
@@ -877,8 +877,8 @@
 | 869 | 219 | Cathy Bitters |
 | 870 | 218 | Bob |
 | 871 | 217 | Christine Lockwood |
-| 872 | 217 | Erika Meaux |
-| 873 | 217 | Trisha Gallagher |
+| 872 | 217 | Trisha Gallagher |
+| 873 | 217 | Erika Meaux |
 | 874 | 217 | Jenn Morin |
 | 875 | 216 | Jamie Main |
 | 876 | 216 | Monica Wilson |
@@ -898,8 +898,8 @@
 | 890 | 212 | Denelle Wendt-Ramalho |
 | 891 | 212 | Sassy Linkroll |
 | 892 | 211 | Cini |
-| 893 | 211 | Pam Doughty |
-| 894 | 211 | Brenda Pierpoint |
+| 893 | 211 | Brenda Pierpoint |
+| 894 | 211 | Pam Doughty |
 | 895 | 211 | Neko Preston |
 | 896 | 210 | Joshua Switzer |
 | 897 | 210 | Nicolle Danielle |
