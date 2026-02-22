@@ -139,8 +139,8 @@
 | 131 | 369 | Nope Young |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -236,8 +236,8 @@
 | 228 | 226 | Zesty Twistbuilder |
 | 229 | 225 | Perky Patternblock |
 | 230 | 222 | Brandi Durig |
-| 231 | 221 | Rheanda Weaskus |
-| 232 | 221 | PurpleMoonMa |
+| 231 | 221 | PurpleMoonMa |
+| 232 | 221 | Rheanda Weaskus |
 | 233 | 220 | Joanna |
 | 234 | 220 | Chair |
 | 235 | 219 | Dizzy Matchzone |
@@ -294,8 +294,8 @@
 | 286 | 179 | AyeKay |
 | 287 | 175 | Lorena Guerrero-Barron |
 | 288 | 174 | Shane Vick |
-| 289 | 171 | Autumn Kumzi |
-| 290 | 171 | Nikki Wilson |
+| 289 | 171 | Nikki Wilson |
+| 290 | 171 | Autumn Kumzi |
 | 291 | 170 | PeaceOs |
 | 292 | 170 | Elie Pean |
 | 293 | 169 | Daring Pivot |

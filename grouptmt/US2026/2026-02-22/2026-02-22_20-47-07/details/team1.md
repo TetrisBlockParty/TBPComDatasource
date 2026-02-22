@@ -200,8 +200,8 @@
 | 192 | 265 | Kandae |
 | 193 | 265 | Nutty Spinblock |
 | 194 | 265 | Jerry Danowski |
-| 195 | 264 | Jenny Gingrich Fuentes |
-| 196 | 264 | Serina Marie |
+| 195 | 264 | Serina Marie |
+| 196 | 264 | Jenny Gingrich Fuentes |
 | 197 | 261 | Witty Builderfit |
 | 198 | 260 | Cheeky Pop |
 | 199 | 256 | Chris65 |
@@ -280,8 +280,8 @@
 | 272 | 198 | Melissa Lemmon |
 | 273 | 198 | Snappy Bridgepiece |
 | 274 | 197 | Joe Coon |
-| 275 | 196 | Perky Shiftsnap |
-| 276 | 196 | Marci Sanders |
+| 275 | 196 | Marci Sanders |
+| 276 | 196 | Perky Shiftsnap |
 | 277 | 195 | Jennifer Olewnik Soborowski |
 | 278 | 194 | Silly Align |
 | 279 | 194 | Tiger Lily |

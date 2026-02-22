@@ -351,8 +351,8 @@
 | 343 | 737 | Jeremy Parodi |
 | 344 | 734 | Jánine Riggs |
 | 345 | 734 | Deborah Miller |
-| 346 | 729 | Cassie Mercer |
-| 347 | 729 | Aimee Campbell |
+| 346 | 729 | Aimee Campbell |
+| 347 | 729 | Cassie Mercer |
 | 348 | 729 | Stephanie Lumanlan |
 | 349 | 728 | Dylan Thomason |
 | 350 | 727 | Doowop40 |
@@ -472,8 +472,8 @@
 | 464 | 563 | Sarah Massey |
 | 465 | 562 | AISlop |
 | 466 | 559 | Blacc Blac |
-| 467 | 558 | Cheery Matchzone |
-| 468 | 558 | Frisky Clearpiece |
+| 467 | 558 | Frisky Clearpiece |
+| 468 | 558 | Cheery Matchzone |
 | 469 | 558 | Libby Hicks |
 | 470 | 556 | Slip |
 | 471 | 554 | Rachael Senard |
@@ -750,8 +750,8 @@
 | 742 | 371 | Gina Caulder |
 | 743 | 371 | Mandi Marie Smith |
 | 744 | 371 | Rose Fx |
-| 745 | 370 | Brave Gridpiece |
-| 746 | 370 | Sassy Linkbuilder |
+| 745 | 370 | Sassy Linkbuilder |
+| 746 | 370 | Brave Gridpiece |
 | 747 | 369 | Amanda Canterbury |
 | 748 | 368 | Anthony D Gritz Jr |
 | 749 | 368 | Veronics |

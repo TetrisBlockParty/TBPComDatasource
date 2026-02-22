@@ -121,8 +121,8 @@
 | 113 | 643 | mzcatzy |
 | 114 | 638 | Jesse Olive |
 | 115 | 630 | yoyo |
-| 116 | 625 | Shavette |
-| 117 | 625 | Amber Hughes |
+| 116 | 625 | Amber Hughes |
+| 117 | 625 | Shavette |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Giddy Drop |
@@ -212,8 +212,8 @@
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Rich LeBlanc |
-| 208 | 372 | Giddy Twistbuilder |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Rich LeBlanc |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -226,8 +226,8 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
