@@ -46,8 +46,8 @@
 | 38 | 908 | Misty Hollibaugh |
 | 39 | 886 | Dustin Robert |
 | 40 | 871 | Denny Shives |
-| 41 | 846 | Christine Marie |
-| 42 | 846 | Lucille Truesdale |
+| 41 | 846 | Lucille Truesdale |
+| 42 | 846 | Christine Marie |
 | 43 | 843 | Jae Job |
 | 44 | 843 | Shelly Chandler |
 | 45 | 836 | LisaJo Picken Buchanan |
@@ -238,11 +238,11 @@
 | 230 | 214 | Stacey Stano |
 | 231 | 213 | Sarah Neathery |
 | 232 | 213 | Rio Rocha |
-| 233 | 212 | scott |
-| 234 | 212 | Mike Solo |
+| 233 | 212 | Mike Solo |
+| 234 | 212 | scott |
 | 235 | 211 | Jenna McGeorge |
-| 236 | 210 | Dihcheese444 |
-| 237 | 210 | Adam Stephanie Parker |
+| 236 | 210 | Adam Stephanie Parker |
+| 237 | 210 | Dihcheese444 |
 | 238 | 209 | Ak Jones |
 | 239 | 208 | Rebecca Morris |
 | 240 | 208 | Oscar Alberto Perez |
@@ -379,8 +379,8 @@
 | 371 | 140 | Joshua W. Benton |
 | 372 | 140 | Rico |
 | 373 | 139 | Bradley Reeves |
-| 374 | 139 | Lori Goudy |
-| 375 | 139 | Ann G. Carrillo |
+| 374 | 139 | Ann G. Carrillo |
+| 375 | 139 | Lori Goudy |
 | 376 | 138 | Jasmine S Caldwell |
 | 377 | 138 | Moonsterix |
 | 378 | 138 | Janis Brown |
@@ -393,8 +393,8 @@
 | 385 | 136 | Michelle Morris |
 | 386 | 135 | Joshua Guess |
 | 387 | 134 | Hyper Builder |
-| 388 | 134 | Jobadia Steelerton |
-| 389 | 134 | Kristin MacDonald |
+| 388 | 134 | Kristin MacDonald |
+| 389 | 134 | Jobadia Steelerton |
 | 390 | 133 | Jesus Garcia |
 | 391 | 132 | Degenerate |
 | 392 | 132 | Melissa Priest Sellers |

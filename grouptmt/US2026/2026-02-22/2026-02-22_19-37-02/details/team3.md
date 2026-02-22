@@ -55,8 +55,8 @@
 | 47 | 1284 | Josiah Fam |
 | 48 | 1257 | Amber Jones |
 | 49 | 1170 | Snappy Fitzone |
-| 50 | 1156 | Mahman |
-| 51 | 1156 | Jennifer Petrie |
+| 50 | 1156 | Jennifer Petrie |
+| 51 | 1156 | Mahman |
 | 52 | 1154 | Jessica Bechler |
 | 53 | 1137 | Khristen AC |
 | 54 | 1130 | Danielle Cutler |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Dave Herzog |
-| 128 | 562 | Louise Stacy Sisson |
+| 127 | 562 | Louise Stacy Sisson |
+| 128 | 562 | Dave Herzog |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Tom Nault |
-| 206 | 372 | Giddy Twistbuilder |
+| 205 | 372 | Giddy Twistbuilder |
+| 206 | 372 | Tom Nault |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
@@ -392,9 +392,9 @@
 | 384 | 202 | Tipsy Zonebuilder |
 | 385 | 202 | Melanie Sherwood |
 | 386 | 201 | Hyper Matchzone |
-| 387 | 200 | glichmod |
-| 388 | 200 | Mariah Williams |
-| 389 | 200 | Colleen Phelps |
+| 387 | 200 | Mariah Williams |
+| 388 | 200 | Colleen Phelps |
+| 389 | 200 | glichmod |
 | 390 | 198 | Zac Hudak |
 | 391 | 196 | Salena Whitlock |
 | 392 | 196 | Rainbow77375 |

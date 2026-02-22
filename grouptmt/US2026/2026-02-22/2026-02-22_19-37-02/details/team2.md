@@ -138,8 +138,8 @@
 | 130 | 1439 | Jumpy Gridpiece |
 | 131 | 1435 | Jessie McDougald |
 | 132 | 1418 | L3sli3 |
-| 133 | 1411 | Zappy Cascade |
-| 134 | 1411 | niecy |
+| 133 | 1411 | niecy |
+| 134 | 1411 | Zappy Cascade |
 | 135 | 1401 | Brandy Andre |
 | 136 | 1390 | Erica Williams |
 | 137 | 1384 | Katrina Williams Balmir |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Prado |
-| 189 | 1131 | Stacey Clement |
+| 188 | 1131 | Stacey Clement |
+| 189 | 1131 | Prado |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -264,8 +264,8 @@
 | 256 | 894 | Auntie B |
 | 257 | 892 | Rebecca Doughman |
 | 258 | 890 | Kevin Walp |
-| 259 | 884 | Adira Brown |
-| 260 | 884 | Boldy Cascadepiece |
+| 259 | 884 | Boldy Cascadepiece |
+| 260 | 884 | Adira Brown |
 | 261 | 883 | nikki |
 | 262 | 880 | Sam Joe |
 | 263 | 879 | Tony Lea |
@@ -332,8 +332,8 @@
 | 324 | 743 | Tiara Elizabeth Baker |
 | 325 | 743 | Melissa Cole |
 | 326 | 743 | Kathryn Townsley |
-| 327 | 740 | Jerry Tempelmeyer |
-| 328 | 740 | Cheech Dta |
+| 327 | 740 | Cheech Dta |
+| 328 | 740 | Jerry Tempelmeyer |
 | 329 | 737 | Ginger |
 | 330 | 737 | Jeremy Parodi |
 | 331 | 735 | Kiely Tomaskovich |
@@ -580,8 +580,8 @@
 | 572 | 462 | Jennifer Scott |
 | 573 | 462 | Jennifer Monroe Kelly |
 | 574 | 462 | Daphne Jordan |
-| 575 | 460 | Gloria Ininahazwe |
-| 576 | 460 | Funky Caster |
+| 575 | 460 | Funky Caster |
+| 576 | 460 | Gloria Ininahazwe |
 | 577 | 460 | Tara Lynn Janes |
 | 578 | 460 | LaWanda Powell |
 | 579 | 459 | Shyenn Gadsby |
