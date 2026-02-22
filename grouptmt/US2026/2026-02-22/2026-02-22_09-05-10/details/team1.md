@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Timothy Dew |
 | 131 | 282 | Cool Shiftsnap |
@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Jenny Gingrich Fuentes |
-| 140 | 264 | Lexuriuos Lifestlye |
+| 139 | 264 | Lexuriuos Lifestlye |
+| 140 | 264 | Jenny Gingrich Fuentes |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 258 | Nutty Spinblock |
@@ -164,8 +164,8 @@
 | 156 | 239 | Jamie Jury |
 | 157 | 236 | Mandyy Rae |
 | 158 | 232 | Jessi Sauer |
-| 159 | 230 | Billie Dawn Sparks |
-| 160 | 230 | Frothy Pattern |
+| 159 | 230 | Frothy Pattern |
+| 160 | 230 | Billie Dawn Sparks |
 | 161 | 229 | David Lutcher |
 | 162 | 226 | Kandae |
 | 163 | 226 | Sleepysloath5745 |

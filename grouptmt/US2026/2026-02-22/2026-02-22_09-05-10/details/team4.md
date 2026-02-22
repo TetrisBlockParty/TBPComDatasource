@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 671 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -160,8 +160,8 @@
 | 152 | 230 | Cursed Hag |
 | 153 | 229 | Chris Bernstein |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Antony Dwayne Beasley |
@@ -184,8 +184,8 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Chance Strickland |
-| 180 | 201 | Melvin Baird |
+| 179 | 201 | Melvin Baird |
+| 180 | 201 | Chance Strickland |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Keith Kelley |
@@ -278,8 +278,8 @@
 | 270 | 138 | Sarah Hoffman |
 | 271 | 137 | PeaceOs |
 | 272 | 137 | Brianna Walker |
-| 273 | 136 | Michelle Morris |
-| 274 | 136 | Maureen Flanigan |
+| 273 | 136 | Maureen Flanigan |
+| 274 | 136 | Michelle Morris |
 | 275 | 135 | KimoKoala |
 | 276 | 135 | Juls |
 | 277 | 135 | Joshua Guess |
@@ -389,9 +389,9 @@
 | 381 | 102 | Bigeddie |
 | 382 | 101 | wombat |
 | 383 | 101 | Saulc1991 |
-| 384 | 100 | Marcus TheeyoungWoe Gilmore |
-| 385 | 100 | Rico |
-| 386 | 100 | Sallie Sanborn |
+| 384 | 100 | Sallie Sanborn |
+| 385 | 100 | Marcus TheeyoungWoe Gilmore |
+| 386 | 100 | Rico |
 | 387 | 99 | Dapper Frame |
 | 388 | 98 | Groovy Gridlock |
 | 389 | 98 | Dizzy Matchzone |
@@ -567,7 +567,7 @@
 | 559 | 67 | Joyce Fees |
 | 560 | 67 | Guy Incognito |
 | 561 | 66 | James Philpot Ross |
-| 562 | 66 | Carlos G Reyes |
+| 562 | 66 | Amanda Maciel Clarke |
 | 563 | 66 | Riverdale |
 | 564 | 66 | Chilly Filler |
 | 565 | 66 | Matt Morrow |

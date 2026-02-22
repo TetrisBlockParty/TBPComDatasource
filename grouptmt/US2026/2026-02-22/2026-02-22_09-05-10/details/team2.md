@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -377,8 +377,8 @@
 | 369 | 541 | g |
 | 370 | 538 | AISlop |
 | 371 | 537 | Cherica Taylor |
-| 372 | 535 | Jessie McDougald |
-| 373 | 535 | Paul Huber |
+| 372 | 535 | Paul Huber |
+| 373 | 535 | Jessie McDougald |
 | 374 | 533 | Gauri Shrotriya |
 | 375 | 531 | Dizzy Zone |
 | 376 | 531 | Emily Lyric Converse |
@@ -404,11 +404,11 @@
 | 396 | 515 | Laquetta Royston |
 | 397 | 514 | Karen Posadas Centeno |
 | 398 | 511 | Laura Mclean |
-| 399 | 509 | Jordan Kaiser |
-| 400 | 509 | Kelli Wells |
-| 401 | 507 | Joshua Mandel |
-| 402 | 507 | Magic steve |
-| 403 | 507 | Irene Jones |
+| 399 | 509 | Kelli Wells |
+| 400 | 509 | Jordan Kaiser |
+| 401 | 507 | Irene Jones |
+| 402 | 507 | Joshua Mandel |
+| 403 | 507 | Magic steve |
 | 404 | 504 | Kimmy Newman |
 | 405 | 502 | Sparkles |
 | 406 | 500 | Sarah Ridenour |
@@ -1281,8 +1281,8 @@
 | 1273 | 174 | Tripper Boone |
 | 1274 | 174 | Ashe Corso |
 | 1275 | 174 | Leigh Ann |
-| 1276 | 174 | kickstante |
-| 1277 | 174 | Kierra Kierra |
+| 1276 | 174 | Kierra Kierra |
+| 1277 | 174 | kickstante |
 | 1278 | 173 | Yemaja Obba Olokun |
 | 1279 | 173 | Robin |
 | 1280 | 173 | Melissa Wilson |
@@ -1291,8 +1291,8 @@
 | 1283 | 173 | Rachel Walka Farnam |
 | 1284 | 172 | Patty |
 | 1285 | 172 | Fancy Glidezone |
-| 1286 | 172 | Jacob Huffman |
-| 1287 | 172 | Ashley M. Davis |
+| 1286 | 172 | Ashley M. Davis |
+| 1287 | 172 | Jacob Huffman |
 | 1288 | 172 | Fredonia Lewis |
 | 1289 | 171 | Catherine Varea |
 | 1290 | 171 | Ashley Cooper Tharin |
