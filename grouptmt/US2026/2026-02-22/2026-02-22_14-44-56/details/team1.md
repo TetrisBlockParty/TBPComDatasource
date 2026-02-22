@@ -96,8 +96,8 @@
 | 88 | 400 | Cynthia Bradley |
 | 89 | 399 | Nerdy Linkblock |
 | 90 | 397 | Tdub |
-| 91 | 390 | Goose egg |
-| 92 | 390 | Candy Jones |
+| 91 | 390 | Candy Jones |
+| 92 | 390 | Goose egg |
 | 93 | 390 | Lori Bales |
 | 94 | 389 | Trina Gee |
 | 95 | 389 | Nery Martinez |
@@ -121,8 +121,8 @@
 | 113 | 342 | Brenda Stewart |
 | 114 | 341 | Nick R Montague |
 | 115 | 334 | Jaimie Lynn |
-| 116 | 333 | Gracie |
-| 117 | 333 | Brandi Huntington |
+| 116 | 333 | Brandi Huntington |
+| 117 | 333 | Gracie |
 | 118 | 332 | Kristen Gideon |
 | 119 | 330 | Sweet Baker |
 | 120 | 326 | Monica Donato |
@@ -173,10 +173,10 @@
 | 165 | 253 | Jamie Jury |
 | 166 | 253 | Witty Builderfit |
 | 167 | 252 | Dena Kayy |
-| 168 | 246 | Mike Ames |
-| 169 | 246 | Lakeisha Chapman |
-| 170 | 244 | Marianita Garcia |
-| 171 | 244 | Eddie Dillon |
+| 168 | 246 | Lakeisha Chapman |
+| 169 | 246 | Mike Ames |
+| 170 | 244 | Eddie Dillon |
+| 171 | 244 | Marianita Garcia |
 | 172 | 243 | Trippy Redd |
 | 173 | 242 | ALFD |
 | 174 | 241 | John J. Cronin |
@@ -366,7 +366,7 @@
 | 358 | 123 | Jumpy Rotate |
 | 359 | 123 | Betsy |
 | 360 | 122 | Nathan Sealander |
-| 361 | 121 | John Ramirez |
+| 361 | 121 | Jacob Shaddock |
 | 362 | 121 | .running. |
 | 363 | 121 | John Ramirez |
 | 364 | 120 | Billie Ann Eason |

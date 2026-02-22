@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -169,8 +169,8 @@
 | 161 | 403 | Scott Lindsay |
 | 162 | 401 | Katie Knaus |
 | 163 | 400 | Luciana Braganca Vieira |
-| 164 | 399 | Mcathen |
-| 165 | 399 | Marcie Bressler |
+| 164 | 399 | Marcie Bressler |
+| 165 | 399 | Mcathen |
 | 166 | 397 | Annie Déè |
 | 167 | 393 | Fallorina Susana |
 | 168 | 391 | Sarah Cowan Burgos |
@@ -190,8 +190,8 @@
 | 182 | 370 | Danielle Allison |
 | 183 | 368 | Stephanie Woods |
 | 184 | 366 | Adrian Marcel Pate |
-| 185 | 362 | Darlene McMillan |
-| 186 | 362 | Rochelle Hazelett |
+| 185 | 362 | Rochelle Hazelett |
+| 186 | 362 | Darlene McMillan |
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
@@ -416,7 +416,7 @@
 | 408 | 159 | Funky Jumper |
 | 409 | 159 | Joy Petroski |
 | 410 | 158 | Willow |
-| 411 | 158 | Sarah Morris |
+| 411 | 158 | FATTY |
 | 412 | 158 | Zac Hudak |
 | 413 | 158 | Sarah Morris |
 | 414 | 158 | Wettnippz |
@@ -770,8 +770,8 @@
 | 762 | 88 | JessDrown |
 | 763 | 88 | Happy Buildsnap |
 | 764 | 88 | Beanrr |
-| 765 | 88 | fred |
-| 766 | 88 | Happy Buildsnap |
+| 765 | 88 | Sherry DeLong |
+| 766 | 88 | fred |
 | 767 | 87 | Richard Rowell |
 | 768 | 87 | Hasty Pop |
 | 769 | 87 | Tiffany's TwinsRus Thrifty |

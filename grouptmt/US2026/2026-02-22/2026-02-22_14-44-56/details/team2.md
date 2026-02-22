@@ -262,8 +262,8 @@
 | 254 | 808 | Wakanda Forever |
 | 255 | 807 | Khalil Lowe |
 | 256 | 803 | Barbra Miller |
-| 257 | 801 | Ashlen Dorrell |
-| 258 | 801 | Debra Williams |
+| 257 | 801 | Debra Williams |
+| 258 | 801 | Ashlen Dorrell |
 | 259 | 800 | Danielle Johnson-Chandler |
 | 260 | 792 | Andrea Maher |
 | 261 | 787 | Laura McCarthey |
@@ -306,8 +306,8 @@
 | 298 | 715 | Stephanie Lumanlan |
 | 299 | 713 | Chelle |
 | 300 | 710 | Kathryn Townsley |
-| 301 | 704 | Jánine Riggs |
-| 302 | 704 | Shelley Thornburgh Wright |
+| 301 | 704 | Shelley Thornburgh Wright |
+| 302 | 704 | Jánine Riggs |
 | 303 | 703 | Tj Ball |
 | 304 | 703 | Gold Rose |
 | 305 | 700 | Vincent Petrella |
@@ -373,16 +373,16 @@
 | 365 | 606 | Brittney Jean |
 | 366 | 603 | Cassie Maynard |
 | 367 | 602 | KhaosLord |
-| 368 | 602 | Christine Bollig |
-| 369 | 602 | Biggest thing |
+| 368 | 602 | Biggest thing |
+| 369 | 602 | Christine Bollig |
 | 370 | 600 | Demeka Dangerous-kisses Johnson |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
 | 373 | 589 | Shavonna Haynes |
 | 374 | 589 | Thomas Hedrick |
 | 375 | 586 | Heather Schelkopf |
-| 376 | 584 | Kimberly Randesi |
-| 377 | 584 | Eckoman518 |
+| 376 | 584 | Eckoman518 |
+| 377 | 584 | Kimberly Randesi |
 | 378 | 584 | Ginnell Browner |
 | 379 | 583 | Jackie Avila |
 | 380 | 581 | Jerry Tempelmeyer |
@@ -474,8 +474,8 @@
 | 466 | 492 | Maya June |
 | 467 | 492 | Armonie Smith |
 | 468 | 491 | Michael Buckner |
-| 469 | 491 | Jedi |
-| 470 | 491 | Victor Obiakarije |
+| 469 | 491 | Victor Obiakarije |
+| 470 | 491 | Jedi |
 | 471 | 488 | Christina Wsn |
 | 472 | 487 | Morgan Easter |
 | 473 | 487 | MrsCandyfine As Wine Truss |
