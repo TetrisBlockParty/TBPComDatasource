@@ -77,8 +77,8 @@
 | 69 | 701 | D3TROITB0RN74 |
 | 70 | 685 | Carolyn Wallace |
 | 71 | 671 | Kimyatta Cavin |
-| 72 | 664 | Valerie Roberts |
-| 73 | 664 | Julian Garcia |
+| 72 | 664 | Julian Garcia |
+| 73 | 664 | Valerie Roberts |
 | 74 | 659 | Jonathan Kimbrough |
 | 75 | 647 | Shauna Havard |
 | 76 | 647 | KM8 |
@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -136,8 +136,8 @@
 | 128 | 400 | Ericca Eldridge |
 | 129 | 396 | Jessica Lynn Cutlip |
 | 130 | 394 | Austin Owens |
-| 131 | 393 | Carlton Unfiltered |
-| 132 | 393 | Trish |
+| 131 | 393 | Trish |
+| 132 | 393 | Carlton Unfiltered |
 | 133 | 392 | Cristy Duerksen |
 | 134 | 391 | Ramel Rhodes |
 | 135 | 391 | Lush Linkfall |
@@ -217,8 +217,8 @@
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | PeaceOs |
 | 216 | 257 | Cheery Risebuilder |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Chirpy Basepiece |
-| 222 | 248 | Jose Dejesus |
+| 221 | 248 | Jose Dejesus |
+| 222 | 248 | Chirpy Basepiece |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
@@ -235,9 +235,9 @@
 | 227 | 245 | Autum Leigh |
 | 228 | 245 | 23 |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | Allen Lloyd |
-| 231 | 241 | Chris Hartig |
-| 232 | 241 | JPW |
+| 230 | 241 | Chris Hartig |
+| 231 | 241 | JPW |
+| 232 | 241 | Allen Lloyd |
 | 233 | 240 | Kim Hunt |
 | 234 | 238 | Chaz |
 | 235 | 238 | Zesty Twistbuilder |
@@ -247,8 +247,8 @@
 | 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Jenna McGeorge |
-| 243 | 225 | Perky Patternblock |
+| 242 | 225 | Perky Patternblock |
+| 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | PurpleMoonMa |
 | 246 | 221 | Rheanda Weaskus |

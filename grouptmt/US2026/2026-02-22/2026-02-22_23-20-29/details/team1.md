@@ -148,8 +148,8 @@
 | 140 | 359 | Chirpy Smasher |
 | 141 | 357 | Amanda Johnson Huffman |
 | 142 | 356 | Jason Savage |
-| 143 | 350 | Tipsy Strikerpiece |
-| 144 | 350 | Death |
+| 143 | 350 | Death |
+| 144 | 350 | Tipsy Strikerpiece |
 | 145 | 350 | SkipTheSadSauce |
 | 146 | 344 | Monica Donato |
 | 147 | 341 | Nick R Montague |
@@ -157,9 +157,9 @@
 | 149 | 336 | Fmp |
 | 150 | 336 | Elaine Elaine |
 | 151 | 334 | Jaimie Lynn |
-| 152 | 333 | GATOR |
-| 153 | 333 | Jennifer Hardman |
-| 154 | 333 | Gracie |
+| 152 | 333 | Gracie |
+| 153 | 333 | GATOR |
+| 154 | 333 | Jennifer Hardman |
 | 155 | 332 | Lehrin Maria |
 | 156 | 331 | Josh Riemer |
 | 157 | 324 | Ananda Mendez |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Al Smith Jr |
-| 216 | 254 | Giggly Builderline |
+| 215 | 254 | Giggly Builderline |
+| 216 | 254 | Al Smith Jr |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Lakeisha Chapman |

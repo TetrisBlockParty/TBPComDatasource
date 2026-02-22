@@ -211,8 +211,8 @@
 | 203 | 415 | Cass Mendoza |
 | 204 | 413 | Loopy Clusterer |
 | 205 | 410 | Stephanie Simpson |
-| 206 | 405 | Sherry Ogden |
-| 207 | 405 | Tom Nault |
+| 206 | 405 | Tom Nault |
+| 207 | 405 | Sherry Ogden |
 | 208 | 404 | Chasity |
 | 209 | 403 | Scott Lindsay |
 | 210 | 401 | Demetrious Shaw Sr. |
@@ -232,11 +232,11 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Rebecca Funderburk Kirby |
-| 228 | 368 | Stephanie Woods |
+| 227 | 368 | Stephanie Woods |
+| 228 | 368 | Rebecca Funderburk Kirby |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Tiffany Ford |
-| 231 | 365 | Chummy Caster |
+| 230 | 365 | Chummy Caster |
+| 231 | 365 | Tiffany Ford |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 358 | Kristal C Lee |
@@ -246,8 +246,8 @@
 | 238 | 351 | Eon Harris |
 | 239 | 350 | Kammy Hill |
 | 240 | 349 | Amanda J. Mcneil-Anderson |
-| 241 | 347 | Philip Rock |
-| 242 | 347 | Rebecca Bailey |
+| 241 | 347 | Rebecca Bailey |
+| 242 | 347 | Philip Rock |
 | 243 | 346 | Tamara Deherrera |
 | 244 | 345 | Kelly |
 | 245 | 344 | Rania Zaqout |
@@ -283,15 +283,15 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Ray Lader |
-| 279 | 299 | Angie Harper |
+| 278 | 299 | Angie Harper |
+| 279 | 299 | Ray Lader |
 | 280 | 298 | Grams |
 | 281 | 297 | Cheeky Snapper |
 | 282 | 297 | Jojo M |
 | 283 | 297 | kacihall |
 | 284 | 296 | Hoppy Buildout |
-| 285 | 294 | fraulila |
-| 286 | 294 | Tasha Wesson-Torrence |
+| 285 | 294 | Tasha Wesson-Torrence |
+| 286 | 294 | fraulila |
 | 287 | 293 | Beaudie Stroebel |
 | 288 | 291 | Carrie Huskey |
 | 289 | 289 | DidIdothat |
