@@ -113,8 +113,8 @@
 | 105 | 395 | Marie-Pier Desjardins |
 | 106 | 393 | Carlton Unfiltered |
 | 107 | 392 | Ericca Eldridge |
-| 108 | 391 | Ramel Rhodes |
-| 109 | 391 | Monica Daley |
+| 108 | 391 | Monica Daley |
+| 109 | 391 | Ramel Rhodes |
 | 110 | 387 | Denise Carlson |
 | 111 | 377 | Lori Walker |
 | 112 | 373 | Joseph Guthrie |
@@ -154,7 +154,7 @@
 | 146 | 271 | Sarah Brown |
 | 147 | 267 | Damn Libra |
 | 148 | 265 | Jeff Brian Gates |
-| 149 | 264 | Girl |
+| 149 | 264 | Epic Curvetile |
 | 150 | 264 | Dana Scott |
 | 151 | 264 | Girl |
 | 152 | 262 | Alan George LaRage |
@@ -281,8 +281,8 @@
 | 273 | 152 | Angela Geist Jusinski |
 | 274 | 152 | Faja |
 | 275 | 151 | Joseph Pace |
-| 276 | 150 | Jared Gutwein |
-| 277 | 150 | Brandon Link |
+| 276 | 150 | Brandon Link |
+| 277 | 150 | Jared Gutwein |
 | 278 | 149 | Shainne Brewer |
 | 279 | 148 | Cranky Rollpiece |
 | 280 | 148 | Nubian1 |
@@ -364,8 +364,8 @@
 | 356 | 121 | Jim Hart |
 | 357 | 121 | Riverdale |
 | 358 | 121 | Amanda Christine |
-| 359 | 120 | Bryan Hodgins |
-| 360 | 120 | wombat |
+| 359 | 120 | wombat |
+| 360 | 120 | Bryan Hodgins |
 | 361 | 119 | rebel4lyfe |
 | 362 | 119 | River Shady Sr. |
 | 363 | 118 | Perky Piecegrid |
@@ -408,7 +408,7 @@
 | 400 | 109 | Jumpy Zonepiece |
 | 401 | 109 | Jessica Miller |
 | 402 | 108 | Denise B |
-| 403 | 108 | mike |
+| 403 | 108 | Ali Ian |
 | 404 | 108 | Walter Beltran |
 | 405 | 108 | mike |
 | 406 | 107 | Brandi Durig |
@@ -658,7 +658,7 @@
 | 650 | 63 | Haruko Bullock-Brown |
 | 651 | 63 | Frisky Matchgrid |
 | 652 | 63 | Allen Johnson |
-| 653 | 62 | Demont Darius |
+| 653 | 62 | Matt Rawls |
 | 654 | 62 | Sunny Brickroll |
 | 655 | 62 | Demont Darius |
 | 656 | 62 | Bussy Bay |

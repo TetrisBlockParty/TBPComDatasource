@@ -137,8 +137,8 @@
 | 129 | 306 | Happy Basegrid |
 | 130 | 304 | Nicole Roseberry Weber |
 | 131 | 301 | Lehrin Maria |
-| 132 | 300 | Elaine Elaine |
-| 133 | 300 | Chelsea Dahlquist |
+| 132 | 300 | Chelsea Dahlquist |
+| 133 | 300 | Elaine Elaine |
 | 134 | 298 | Erin Hodges Plumb |
 | 135 | 290 | Sarah Roberts |
 | 136 | 290 | Death |
@@ -355,8 +355,8 @@
 | 347 | 124 | Teri Oehlke |
 | 348 | 124 | Rodney Schmerfeld |
 | 349 | 124 | Mario Cab |
-| 350 | 123 | Jumpy Rotate |
-| 351 | 123 | Funky Piecebuilder |
+| 350 | 123 | Funky Piecebuilder |
+| 351 | 123 | Jumpy Rotate |
 | 352 | 122 | Nate Funk |
 | 353 | 121 | .running. |
 | 354 | 121 | John Ramirez |

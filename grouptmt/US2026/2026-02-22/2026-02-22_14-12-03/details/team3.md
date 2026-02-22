@@ -170,8 +170,8 @@
 | 162 | 399 | Mcathen |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Calista Jo Dickson |
-| 166 | 391 | Sarah Cowan Burgos |
+| 165 | 391 | Sarah Cowan Burgos |
+| 166 | 391 | Calista Jo Dickson |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
@@ -300,8 +300,8 @@
 | 292 | 220 | Tosha Griffey |
 | 293 | 220 | rosy |
 | 294 | 218 | Michael Lucado |
-| 295 | 216 | Twisty Brick LT |
-| 296 | 216 | Cheryl Hinch Tenbrook |
+| 295 | 216 | Cheryl Hinch Tenbrook |
+| 296 | 216 | Twisty Brick LT |
 | 297 | 215 | IamJust Neyamijah Washington Sr. |
 | 298 | 214 | Amy Fuller Heaton |
 | 299 | 214 | Rebel124 |

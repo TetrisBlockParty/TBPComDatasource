@@ -342,13 +342,13 @@
 | 334 | 659 | Draizen Montrell Thomas |
 | 335 | 658 | Erica Williams |
 | 336 | 651 | Unica Rector |
-| 337 | 650 | tejas25 |
-| 338 | 650 | Shiny Rollzone |
+| 337 | 650 | Shiny Rollzone |
+| 338 | 650 | tejas25 |
 | 339 | 643 | Hoppy Brickmatch |
 | 340 | 640 | BYM4L |
 | 341 | 639 | Crystie Hicks |
-| 342 | 639 | Jelly |
-| 343 | 639 | Rebecca Miller |
+| 342 | 639 | Rebecca Miller |
+| 343 | 639 | Jelly |
 | 344 | 635 | Diana Fitzwater |
 | 345 | 631 | Dylan Thomason |
 | 346 | 631 | Marie Walker |
@@ -587,8 +587,8 @@
 | 579 | 406 | Erin StFrancis |
 | 580 | 406 | Kimberly Ann |
 | 581 | 404 | Dawn L Washington-Feuquay |
-| 582 | 403 | Goofy Dasher |
-| 583 | 403 | Sarah DeHart |
+| 582 | 403 | Sarah DeHart |
+| 583 | 403 | Goofy Dasher |
 | 584 | 401 | Moua Ying |
 | 585 | 401 | De Hawkins |
 | 586 | 400 | Michael Artis |
@@ -598,8 +598,8 @@
 | 590 | 399 | Belle Mari |
 | 591 | 399 | Oscar Bernie |
 | 592 | 398 | Crystal Heller Gonzalez |
-| 593 | 396 | Candy Pitts |
-| 594 | 396 | AkaLefty |
+| 593 | 396 | AkaLefty |
+| 594 | 396 | Candy Pitts |
 | 595 | 396 | Boogie SoAnimated Johnson |
 | 596 | 396 | Nate Skidmore |
 | 597 | 393 | Jamie West |
@@ -828,9 +828,9 @@
 | 820 | 287 | Trista Carter |
 | 821 | 287 | Epic Stackzone |
 | 822 | 285 | Court |
-| 823 | 285 | Kimberly Mitchell |
-| 824 | 285 | Alyssia Tancredi |
-| 825 | 285 | Angelica |
+| 823 | 285 | Alyssia Tancredi |
+| 824 | 285 | Angelica |
+| 825 | 285 | Kimberly Mitchell |
 | 826 | 284 | Hillary Franklin |
 | 827 | 284 | Bing |
 | 828 | 284 | Candice Mack |
@@ -911,8 +911,8 @@
 | 903 | 264 | Edna Combs |
 | 904 | 264 | Ocean-Brianna McGregor |
 | 905 | 263 | Elizabeth Leinen |
-| 906 | 263 | Sunshine711 |
-| 907 | 263 | Amy Humphreys |
+| 906 | 263 | Amy Humphreys |
+| 907 | 263 | Sunshine711 |
 | 908 | 263 | Sara Pennington |
 | 909 | 262 | Taren Cowan |
 | 910 | 262 | Squirrel |
