@@ -95,8 +95,8 @@
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
-| 90 | 433 | Tinah Montanna |
-| 91 | 433 | Trina Gee |
+| 90 | 433 | Trina Gee |
+| 91 | 433 | Tinah Montanna |
 | 92 | 429 | Tdub |
 | 93 | 428 | Stephanie Zahn |
 | 94 | 418 | Jazzy Framezone |
@@ -113,8 +113,8 @@
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
-| 108 | 379 | Austin James |
-| 109 | 379 | Kimmie Kimms |
+| 108 | 379 | Kimmie Kimms |
+| 109 | 379 | Austin James |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
 | 112 | 364 | Ly Phethmany |
@@ -140,16 +140,16 @@
 | 132 | 328 | Fmp |
 | 133 | 326 | Monica Donato |
 | 134 | 325 | Jennifer Hardman |
-| 135 | 321 | Maria C. Hernandez |
-| 136 | 321 | Tanya Carpenter-Reynolds |
+| 135 | 321 | Tanya Carpenter-Reynolds |
+| 136 | 321 | Maria C. Hernandez |
 | 137 | 318 | Jessica Sheehan |
 | 138 | 316 | Dizzy Party |
 | 139 | 313 | Virginia Gray Floyd |
 | 140 | 308 | Sharon Reynolds |
 | 141 | 308 | Erin Hodges Plumb |
 | 142 | 307 | Kimberly Garcia |
-| 143 | 306 | Happy Basegrid |
-| 144 | 306 | Bloknboy |
+| 143 | 306 | Bloknboy |
+| 144 | 306 | Happy Basegrid |
 | 145 | 304 | Nicole Roseberry Weber |
 | 146 | 303 | Chelsea Dahlquist |
 | 147 | 301 | Lehrin Maria |
@@ -185,8 +185,8 @@
 | 177 | 264 | Brian Richardsson |
 | 178 | 261 | Witty Builderfit |
 | 179 | 258 | Billie Dawn Sparks |
-| 180 | 254 | Letson Melissa |
-| 181 | 254 | Al Smith Jr |
+| 180 | 254 | Al Smith Jr |
+| 181 | 254 | Letson Melissa |
 | 182 | 253 | Jamie Jury |
 | 183 | 252 | Dena Kayy |
 | 184 | 251 | Giggly Builderline |

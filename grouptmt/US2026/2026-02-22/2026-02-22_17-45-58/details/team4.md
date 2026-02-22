@@ -215,11 +215,11 @@
 | 207 | 221 | Kim Klutz Olson |
 | 208 | 221 | PurpleMoonMa |
 | 209 | 221 | Rheanda Weaskus |
-| 210 | 219 | Malakai Darien Fox |
-| 211 | 219 | JPW |
+| 210 | 219 | JPW |
+| 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
-| 213 | 216 | Cristy Duerksen |
-| 214 | 216 | ZeeZee |
+| 213 | 216 | ZeeZee |
+| 214 | 216 | Cristy Duerksen |
 | 215 | 216 | Chance Strickland |
 | 216 | 215 | Ziggy |
 | 217 | 213 | Sarah Neathery |

@@ -212,8 +212,8 @@
 | 204 | 1002 | Foxxo |
 | 205 | 998 | Tralonda Weeks |
 | 206 | 991 | Moose Griffith |
-| 207 | 989 | Teddi Notyalc |
-| 208 | 989 | Desiree Harris Rosch |
+| 207 | 989 | Desiree Harris Rosch |
+| 208 | 989 | Teddi Notyalc |
 | 209 | 988 | Cherica Taylor |
 | 210 | 986 | RAEPR05 |
 | 211 | 979 | Hillary Crawford |
@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Robin Kerby |
-| 234 | 915 | Angela Bonquiqui Dinish |
+| 233 | 915 | Angela Bonquiqui Dinish |
+| 234 | 915 | Robin Kerby |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |

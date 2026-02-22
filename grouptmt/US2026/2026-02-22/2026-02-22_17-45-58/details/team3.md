@@ -178,8 +178,8 @@
 | 170 | 415 | ren |
 | 171 | 410 | Stephanie Simpson |
 | 172 | 407 | Jone |
-| 173 | 405 | Marcie Bressler |
-| 174 | 405 | JerseyJess |
+| 173 | 405 | JerseyJess |
+| 174 | 405 | Marcie Bressler |
 | 175 | 403 | Scott Lindsay |
 | 176 | 401 | Katie Knaus |
 | 177 | 400 | Sherika C. McDaniels |
