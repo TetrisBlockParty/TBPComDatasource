@@ -31,8 +31,8 @@
 | 23 | 883 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -145,8 +145,8 @@
 | 137 | 230 | Autum Leigh |
 | 138 | 229 | Jolly Dashfit |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Alyssa Papen |
-| 141 | 227 | Swanky Fitline |
+| 140 | 227 | Swanky Fitline |
+| 141 | 227 | Alyssa Papen |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
@@ -172,8 +172,8 @@
 | 164 | 203 | Katherine Crane |
 | 165 | 202 | TRCuse |
 | 166 | 202 | Chilly Crasher |
-| 167 | 201 | Chance Strickland |
-| 168 | 201 | Melvin Baird |
+| 167 | 201 | Melvin Baird |
+| 168 | 201 | Chance Strickland |
 | 169 | 200 | Jeff Brian Gates |
 | 170 | 198 | Jessica Lynn Cutlip |
 | 171 | 196 | Oscar Alberto Perez |

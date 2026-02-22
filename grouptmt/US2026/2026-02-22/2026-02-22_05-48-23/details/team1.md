@@ -83,7 +83,7 @@
 | 75 | 390 | Cynthia Bradley |
 | 76 | 388 | Yvonne Marie |
 | 77 | 388 | cc |
-| 78 | 388 | Yvonne Marie |
+| 78 | 388 | Jennifer ManWarren |
 | 79 | 379 | Austin James |
 | 80 | 376 | Trina Gee |
 | 81 | 374 | Tinah Montanna |
@@ -172,8 +172,8 @@
 | 164 | 206 | BadG52 |
 | 165 | 205 | Tater |
 | 166 | 204 | Lacy Wolfe |
-| 167 | 203 | Paula Martin |
-| 168 | 203 | LaFontaine Leslie |
+| 167 | 203 | LaFontaine Leslie |
+| 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
 | 171 | 198 | Happy Snapbuild |
@@ -278,8 +278,8 @@
 | 270 | 128 | Alyssa Ingram |
 | 271 | 128 | Chuck Gannon |
 | 272 | 127 | Danielle Mae |
-| 273 | 126 | Dizzy Riseclear |
-| 274 | 126 | Zany Tiler |
+| 273 | 126 | Zany Tiler |
+| 274 | 126 | Dizzy Riseclear |
 | 275 | 126 | Tami Luce Martin |
 | 276 | 125 | Melissa Bires Hussar |
 | 277 | 125 | Matt Iaccheo |
@@ -404,7 +404,7 @@
 | 396 | 86 | sassy |
 | 397 | 86 | Connie |
 | 398 | 86 | Shannon Marie Pitts |
-| 399 | 86 | Connie |
+| 399 | 86 | Edgar Algiere |
 | 400 | 86 | Steven Collins |
 | 401 | 85 | Jolly Climber |
 | 402 | 85 | Lakeisha Chapman |

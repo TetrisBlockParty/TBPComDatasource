@@ -98,8 +98,8 @@
 | 90 | 581 | Danielle Mogg |
 | 91 | 579 | Jd Morris |
 | 92 | 566 | Dolores Falco |
-| 93 | 565 | Patty Allen |
-| 94 | 565 | Rachael McClain Owens |
+| 93 | 565 | Rachael McClain Owens |
+| 94 | 565 | Patty Allen |
 | 95 | 559 | Morgan Martinez |
 | 96 | 549 | Nicole Myers |
 | 97 | 548 | Dave Herzog |
@@ -137,8 +137,8 @@
 | 129 | 416 | Mary Pellegrino |
 | 130 | 415 | ren |
 | 131 | 411 | FuzzyNavel |
-| 132 | 410 | Stephanie Simpson |
-| 133 | 410 | Stephanie Blkpep Davidson |
+| 132 | 410 | Stephanie Blkpep Davidson |
+| 133 | 410 | Stephanie Simpson |
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
@@ -146,8 +146,8 @@
 | 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
-| 141 | 399 | Marcie Bressler |
-| 142 | 399 | Mcathen |
+| 141 | 399 | Mcathen |
+| 142 | 399 | Marcie Bressler |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
 | 145 | 392 | Katie Knaus |
@@ -806,7 +806,7 @@
 | 798 | 68 | Monica Richter |
 | 799 | 68 | Trissy Collins |
 | 800 | 67 | Robin Rasure Woebkenberg |
-| 801 | 67 | Savanah LaClair |
+| 801 | 67 | Vernell Sturdivant |
 | 802 | 67 | Cozy Stagger |
 | 803 | 67 | Savanah LaClair |
 | 804 | 67 | Samantha Lohmeyer |
