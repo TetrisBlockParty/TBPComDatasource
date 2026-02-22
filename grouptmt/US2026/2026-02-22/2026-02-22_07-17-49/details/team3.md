@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 562 | Dave Herzog |
 | 101 | 559 | Morgan Martinez |
@@ -185,8 +185,8 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Leah Barnett |
-| 181 | 338 | Gumbo |
+| 180 | 338 | Gumbo |
+| 181 | 338 | Leah Barnett |
 | 182 | 332 | Rich LeBlanc |
 | 183 | 328 | Giddy Twistbuilder |
 | 184 | 323 | Demetrious Shaw Sr. |
@@ -276,12 +276,12 @@
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
 | 269 | 214 | Twisty Brick LT |
 | 270 | 214 | Rebel124 |
-| 271 | 214 | Angela Scott |
-| 272 | 214 | Amy Fuller Heaton |
+| 271 | 214 | Amy Fuller Heaton |
+| 272 | 214 | Angela Scott |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | Velma Mull |
-| 276 | 211 | El Chapa |
+| 275 | 211 | El Chapa |
+| 276 | 211 | Velma Mull |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 209 | Micayah Stevens |
 | 279 | 208 | AlsoJess |
@@ -292,8 +292,8 @@
 | 284 | 206 | Jone |
 | 285 | 204 | Aerian Preston |
 | 286 | 203 | Angie Harper |
-| 287 | 202 | Rachel |
-| 288 | 202 | Staci George Fitzsimmons |
+| 287 | 202 | Staci George Fitzsimmons |
+| 288 | 202 | Rachel |
 | 289 | 201 | Hyper Matchzone |
 | 290 | 200 | glichmod |
 | 291 | 200 | Sharisse Baltimore |
@@ -323,8 +323,8 @@
 | 315 | 179 | Tipsy Zonebuilder |
 | 316 | 178 | Jess Dearborn |
 | 317 | 178 | Jennifer Alvey |
-| 318 | 176 | Melissa Orth Hunter |
-| 319 | 176 | Emma |
+| 318 | 176 | Emma |
+| 319 | 176 | Melissa Orth Hunter |
 | 320 | 175 | Eileen Brady Thurber |
 | 321 | 174 | Betty Rosas |
 | 322 | 174 | Lesley Perez |

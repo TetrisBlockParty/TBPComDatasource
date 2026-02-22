@@ -84,15 +84,15 @@
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 440 | Kristin Manee |
-| 79 | 427 | KJ Pool |
-| 80 | 427 | Erin Thomas |
+| 79 | 427 | Erin Thomas |
+| 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
 | 82 | 412 | Jenna Ingersoll |
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -150,8 +150,8 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Autum Leigh |
-| 146 | 230 | Cursed Hag |
+| 145 | 230 | Cursed Hag |
+| 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Swanky Fitline |
 | 149 | 227 | Chris Bernstein |
@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Melvin Baird |
-| 175 | 201 | Chance Strickland |
+| 174 | 201 | Chance Strickland |
+| 175 | 201 | Melvin Baird |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Oscar Alberto Perez |
 | 178 | 196 | Zethra Prenisha Rahming |
@@ -266,8 +266,8 @@
 | 258 | 138 | Nick Gray |
 | 259 | 137 | Brianna Walker |
 | 260 | 137 | PeaceOs |
-| 261 | 136 | Michelle Morris |
-| 262 | 136 | Maureen Flanigan |
+| 261 | 136 | Maureen Flanigan |
+| 262 | 136 | Michelle Morris |
 | 263 | 135 | Joshua Guess |
 | 264 | 134 | Angelito |
 | 265 | 134 | Duck |

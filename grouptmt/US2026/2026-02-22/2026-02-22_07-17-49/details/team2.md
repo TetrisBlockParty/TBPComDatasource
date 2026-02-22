@@ -319,8 +319,8 @@
 | 311 | 627 | Victoria Moore-Smith |
 | 312 | 627 | Allan Wayne Lamia |
 | 313 | 619 | Jánine Riggs |
-| 314 | 617 | Leslie Ann Carter |
-| 315 | 617 | tejas25 |
+| 314 | 617 | tejas25 |
+| 315 | 617 | Leslie Ann Carter |
 | 316 | 615 | Brandon Armstrong |
 | 317 | 613 | Ellie Jonas |
 | 318 | 611 | Em Chen |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Lylymom |
-| 370 | 522 | Joseph Musick |
+| 369 | 522 | Joseph Musick |
+| 370 | 522 | Lylymom |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Maddy Petersen |
 | 373 | 520 | Angela Lynn |
@@ -412,8 +412,8 @@
 | 404 | 489 | Cassie Mercer |
 | 405 | 489 | Osun Anuket Esu |
 | 406 | 488 | Venita Ray |
-| 407 | 487 | Maya June |
-| 408 | 487 | MrsCandyfine As Wine Truss |
+| 407 | 487 | MrsCandyfine As Wine Truss |
+| 408 | 487 | Maya June |
 | 409 | 486 | Caitlin Schmid |
 | 410 | 485 | Ann Matzkanin |
 | 411 | 485 | Dapper Dasher |
@@ -517,7 +517,7 @@
 | 509 | 406 | Erin StFrancis |
 | 510 | 404 | Snappy snappers |
 | 511 | 404 | Goofy Catcher |
-| 512 | 404 | Snappy snappers |
+| 512 | 404 | Dawn L Washington-Feuquay |
 | 513 | 403 | Goofy Dasher |
 | 514 | 402 | SwampRebel |
 | 515 | 401 | Taylor Flowers |
@@ -874,21 +874,21 @@
 | 866 | 246 | Stacey Tranchida |
 | 867 | 245 | Theresa Sterrett |
 | 868 | 245 | Abby Klaski |
-| 869 | 244 | David Rehse |
-| 870 | 244 | Jumpy Gridclear |
+| 869 | 244 | Jumpy Gridclear |
+| 870 | 244 | David Rehse |
 | 871 | 244 | Nakiiya Dreamcatcher Gore |
 | 872 | 244 | Brooklynn Huckaby |
 | 873 | 244 | Erika Deer Kauffman |
-| 874 | 243 | Albert McKnight |
-| 875 | 243 | Cool Grabber |
+| 874 | 243 | Cool Grabber |
+| 875 | 243 | Albert McKnight |
 | 876 | 243 | Jaybee Nguyen |
 | 877 | 242 | Aimee Campbell |
 | 878 | 242 | Groovy Tilefall |
 | 879 | 242 | Greenshades00 |
 | 880 | 242 | Meganator42 |
 | 881 | 242 | Donna Chandler |
-| 882 | 241 | Emoney Sanchez |
-| 883 | 241 | Ronda Cary |
+| 882 | 241 | Ronda Cary |
+| 883 | 241 | Emoney Sanchez |
 | 884 | 241 | Travis Tinsley |
 | 885 | 240 | Kimmie Zimmerman-Rocha |
 | 886 | 240 | Matthew Joseph Acevedo |
@@ -909,8 +909,8 @@
 | 901 | 237 | Devlin Ogg |
 | 902 | 237 | Jodi Mitnick |
 | 903 | 236 | Christina Walker |
-| 904 | 235 | Angelica |
-| 905 | 235 | B-rad B-rad |
+| 904 | 235 | B-rad B-rad |
+| 905 | 235 | Angelica |
 | 906 | 235 | Prince Ajesh |
 | 907 | 235 | Loopy Shatterfit |
 | 908 | 234 | Synn |
@@ -2007,10 +2007,10 @@
 | 1999 | 107 | Stacey Moore |
 | 2000 | 107 | Dakota Jein Fenner |
 | 2001 | 106 | Silly Sophia |
-| 2002 | 106 | 2 kool |
-| 2003 | 106 | Molly Plafcan |
+| 2002 | 106 | Caroline Roy |
+| 2003 | 106 | 2 kool |
 | 2004 | 106 | Jordan Hixson |
-| 2005 | 106 | Caroline Roy |
+| 2005 | 106 | Molly Plafcan |
 | 2006 | 106 | Dan Mullen-Davis |
 | 2007 | 106 | Alina Ahn |
 | 2008 | 106 | Jamie Hughes |

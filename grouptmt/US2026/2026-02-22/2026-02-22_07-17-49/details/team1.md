@@ -85,11 +85,11 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | cc |
-| 81 | 388 | Jennifer ManWarren |
+| 80 | 388 | Jennifer ManWarren |
+| 81 | 388 | cc |
 | 82 | 382 | Jacqueline Williams |
-| 83 | 379 | Austin James |
-| 84 | 379 | Kimmie Kimms |
+| 83 | 379 | Kimmie Kimms |
+| 84 | 379 | Austin James |
 | 85 | 374 | Tinah Montanna |
 | 86 | 371 | Hyper |
 | 87 | 368 | Tdub |
@@ -109,10 +109,10 @@
 | 101 | 330 | Sweet Baker |
 | 102 | 328 | Gracie |
 | 103 | 326 | Monica Donato |
-| 104 | 321 | Shauna Loe |
-| 105 | 321 | Maria C. Hernandez |
-| 106 | 319 | Deanna L Hermanson |
-| 107 | 319 | Patrick Luckenbill |
+| 104 | 321 | Maria C. Hernandez |
+| 105 | 321 | Shauna Loe |
+| 106 | 319 | Patrick Luckenbill |
+| 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
 | 109 | 310 | Jason Jones |
 | 110 | 310 | phrmblk24 |
@@ -547,7 +547,7 @@
 | 539 | 66 | Churmo |
 | 540 | 66 | Sarah Barrow |
 | 541 | 66 | Unicorn |
-| 542 | 65 | Kayla |
+| 542 | 65 | OneCrazyGator |
 | 543 | 65 | Bruce Cruz |
 | 544 | 65 | Kayla |
 | 545 | 65 | Larissa Marie Nelson |
