@@ -523,8 +523,8 @@
 | 515 | 496 | Erika Densmore |
 | 516 | 495 | Bubbly Snapbuild |
 | 517 | 494 | Venita Ray |
-| 518 | 493 | Sarah DeHart |
-| 519 | 493 | Sue Leard |
+| 518 | 493 | Sue Leard |
+| 519 | 493 | Sarah DeHart |
 | 520 | 492 | Breezy Clusterer |
 | 521 | 492 | Armonie Smith |
 | 522 | 492 | Maya June |
@@ -700,8 +700,8 @@
 | 692 | 389 | Michelle Pike |
 | 693 | 389 | AsnPryBoy83 |
 | 694 | 388 | Sarah block |
-| 695 | 388 | James Zaragoza |
-| 696 | 388 | ruth |
+| 695 | 388 | ruth |
+| 696 | 388 | James Zaragoza |
 | 697 | 388 | Tamara Bailey |
 | 698 | 387 | Bold Brickster |
 | 699 | 385 | Tansaria Couch-Butler |
@@ -728,8 +728,8 @@
 | 720 | 375 | Jamie Carter Bierce |
 | 721 | 374 | Amanda Perez |
 | 722 | 374 | Matthew Joseph Acevedo |
-| 723 | 373 | Michelle Shrum |
-| 724 | 373 | Jane Crew |
+| 723 | 373 | Jane Crew |
+| 724 | 373 | Michelle Shrum |
 | 725 | 373 | Tash Bell |
 | 726 | 373 | Ashley Marie |
 | 727 | 371 | Christina Jarvis-Swarbrick |

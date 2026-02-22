@@ -140,8 +140,8 @@
 | 132 | 349 | Jessica Lynn Cutlip |
 | 133 | 344 | Lush Linkfall |
 | 134 | 343 | Latisha Davis |
-| 135 | 338 | ThaEviLJeNiuZ |
-| 136 | 338 | Lucas J Sutton |
+| 135 | 338 | Lucas J Sutton |
+| 136 | 338 | ThaEviLJeNiuZ |
 | 137 | 336 | Jessica Bohlken |
 | 138 | 334 | Guy Incognito |
 | 139 | 332 | HastyGrabber |
@@ -300,7 +300,7 @@
 | 292 | 168 | Zippy Tilt |
 | 293 | 166 | SammieJo Guy |
 | 294 | 166 | KimoKoala |
-| 295 | 166 | SammieJo Guy |
+| 295 | 166 | Jenny Wells-Oakley |
 | 296 | 166 | Megan Cutshaw |
 | 297 | 165 | ChasingZen |
 | 298 | 165 | Zappy Buildgrid |
@@ -609,8 +609,8 @@
 | 601 | 83 | Groovy Brickmatch |
 | 602 | 83 | Saucy Stackbuilder |
 | 603 | 82 | Deb Rubeck |
-| 604 | 82 | Kimberlee Jan Beckstead |
-| 605 | 82 | Josh Chapell |
+| 604 | 82 | Oleg Zakharskiy |
+| 605 | 82 | Kimberlee Jan Beckstead |
 | 606 | 82 | Christina Hyde |
 | 607 | 82 | Josh Chapell |
 | 608 | 81 | Christine Simmons |
