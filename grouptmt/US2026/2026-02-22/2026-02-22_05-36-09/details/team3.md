@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 935 | Snappy Fitzone |
@@ -179,16 +179,16 @@
 | 171 | 325 | Giddy Twistbuilder |
 | 172 | 323 | Demetrious Shaw Sr. |
 | 173 | 320 | Or Reznitsky |
-| 174 | 317 | Rebecca Funderburk Kirby |
-| 175 | 317 | Ashley Tookes |
+| 174 | 317 | Ashley Tookes |
+| 175 | 317 | Rebecca Funderburk Kirby |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
 | 178 | 308 | Daryn Elliott |
 | 179 | 308 | Rania Zaqout |
-| 180 | 307 | rnr junky |
-| 181 | 307 | Blocked |
-| 182 | 301 | Chelsea Hall |
-| 183 | 301 | Stephanie Burtin |
+| 180 | 307 | Blocked |
+| 181 | 307 | rnr junky |
+| 182 | 301 | Stephanie Burtin |
+| 183 | 301 | Chelsea Hall |
 | 184 | 300 | Sherika C. McDaniels |
 | 185 | 300 | Araceli Parra |
 | 186 | 298 | MsBee |
@@ -459,7 +459,7 @@
 | 451 | 114 | Joseph Vargas |
 | 452 | 114 | Dapper Towerfit |
 | 453 | 113 | Gideon Walker |
-| 454 | 113 | Leticia Lynn Lowe |
+| 454 | 113 | Kristy Brown |
 | 455 | 113 | Tia Moore |
 | 456 | 113 | Leticia Lynn Lowe |
 | 457 | 113 | Martin Bernier |

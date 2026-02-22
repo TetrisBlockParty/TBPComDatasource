@@ -173,8 +173,8 @@
 | 165 | 973 | Kim Dean |
 | 166 | 951 | Cynthia Ward |
 | 167 | 950 | Teresa Gillmore |
-| 168 | 941 | Desiree Harris Rosch |
-| 169 | 941 | Marie Boyd Faulk |
+| 168 | 941 | Marie Boyd Faulk |
+| 169 | 941 | Desiree Harris Rosch |
 | 170 | 940 | Cool Clearer |
 | 171 | 937 | Shannon Joslin |
 | 172 | 935 | William Meussner |
@@ -229,8 +229,8 @@
 | 221 | 771 | Terri McKelvey McKinley |
 | 222 | 769 | Adira Brown |
 | 223 | 767 | Jessica Wayne Cornwall |
-| 224 | 765 | Stephen Stephen |
-| 225 | 765 | Jodi Blake |
+| 224 | 765 | Jodi Blake |
+| 225 | 765 | Stephen Stephen |
 | 226 | 763 | Samantha Jo |
 | 227 | 761 | Lisa Ongtowasruk |
 | 228 | 756 | Stephanie Neuburger |
@@ -530,8 +530,8 @@
 | 522 | 381 | Crystal Heller Gonzalez |
 | 523 | 381 | Jessica S Flecha |
 | 524 | 379 | Mary Marie |
-| 525 | 378 | Tina Marie |
-| 526 | 378 | TF Dyer |
+| 525 | 378 | TF Dyer |
+| 526 | 378 | Tina Marie |
 | 527 | 378 | Deidre Shaffer |
 | 528 | 377 | Jason H Baker |
 | 529 | 376 | Darlene Bowman |
