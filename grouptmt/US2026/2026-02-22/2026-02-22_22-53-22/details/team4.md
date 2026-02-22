@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 751 | Rachel Anne |
@@ -74,12 +74,12 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Valerie Roberts |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 636 | Isabella Blanco |
 | 77 | 633 | Lisa Davis |
@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -157,7 +157,7 @@
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
-| 152 | 333 | Jamie Gustafson |
+| 152 | 333 | Twisty Cascadezone |
 | 153 | 333 | Peachy Fall |
 | 154 | 333 | Jamie Gustafson |
 | 155 | 332 | Leslie Nicole |
@@ -213,8 +213,8 @@
 | 205 | 267 | Kathy Brookins |
 | 206 | 267 | Holly |
 | 207 | 262 | Holly Jolly |
-| 208 | 261 | scott |
-| 209 | 261 | Dihcheese444 |
+| 208 | 261 | Dihcheese444 |
+| 209 | 261 | scott |
 | 210 | 260 | Zakia Monae |
 | 211 | 259 | Melvin Baird |
 | 212 | 258 | Jen Caldwell |
@@ -491,7 +491,7 @@
 | 483 | 120 | Jay You |
 | 484 | 120 | Lynn Marie |
 | 485 | 120 | Christina O'Dell-Ishau |
-| 486 | 119 | Lee Silpe |
+| 486 | 119 | River Shady Sr. |
 | 487 | 119 | Richard-April Kice |
 | 488 | 119 | Lee Silpe |
 | 489 | 118 | Mackenzie Forrester |

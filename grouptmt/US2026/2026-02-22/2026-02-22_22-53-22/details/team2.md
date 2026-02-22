@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Groovy Puzzle |
-| 176 | 1232 | Ambyre Patterson |
+| 175 | 1232 | Ambyre Patterson |
+| 176 | 1232 | Groovy Puzzle |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -2226,9 +2226,9 @@
 | 2218 | 148 | Nutty Match |
 | 2219 | 148 | Dana Adams |
 | 2220 | 147 | Meghan Green |
-| 2221 | 147 | Sharon Madeiros |
-| 2222 | 147 | Barry Allan |
-| 2223 | 147 | Octavious Mozley |
+| 2221 | 147 | Aaron Thompson-Sapenter Sr. |
+| 2222 | 147 | tabby |
+| 2223 | 147 | Peggy Shankland |
 | 2224 | 147 | Katie Johnson |
 | 2225 | 147 | Sharon Madeiros |
 | 2226 | 147 | Barry Allan |
