@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -146,8 +146,8 @@
 | 138 | 282 | Timothy Dew |
 | 139 | 280 | Elaine Elaine |
 | 140 | 276 | Dandy Basegrid |
-| 141 | 270 | Ash Galvan |
-| 142 | 270 | Mandyy Rae |
+| 141 | 270 | Mandyy Rae |
+| 142 | 270 | Ash Galvan |
 | 143 | 268 | GATOR |
 | 144 | 265 | Nutty Spinblock |
 | 145 | 265 | SkipTheSadSauce |
@@ -173,19 +173,19 @@
 | 165 | 239 | Jamie Jury |
 | 166 | 235 | MRdot Rooski |
 | 167 | 232 | Jessi Sauer |
-| 168 | 230 | Billie Dawn Sparks |
-| 169 | 230 | Frothy Pattern |
+| 168 | 230 | Frothy Pattern |
+| 169 | 230 | Billie Dawn Sparks |
 | 170 | 229 | Chris K |
 | 171 | 229 | David Lutcher |
 | 172 | 226 | Sleepysloath5745 |
 | 173 | 226 | Kandae |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,8 +197,8 @@
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Constance Risner |
 | 196 | 203 | LaFontaine Leslie |
@@ -330,8 +330,8 @@
 | 322 | 131 | Plucky Wrecker |
 | 323 | 131 | Dizzy Riseclear |
 | 324 | 130 | Carl Claunch |
-| 325 | 129 | Madison Wicks |
-| 326 | 129 | Sherri E Woods Hess |
+| 325 | 129 | Sherri E Woods Hess |
+| 326 | 129 | Madison Wicks |
 | 327 | 128 | George Dalton |
 | 328 | 128 | Alyssa Ingram |
 | 329 | 127 | Danielle Mae |

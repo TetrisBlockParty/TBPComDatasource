@@ -190,8 +190,8 @@
 | 182 | 209 | Rafael Valentin |
 | 183 | 207 | Chirpy Basepiece |
 | 184 | 205 | Kathy Brookins |
-| 185 | 204 | Carlos Ramirez |
-| 186 | 204 | Jen Caldwell |
+| 185 | 204 | Jen Caldwell |
+| 186 | 204 | Carlos Ramirez |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | TRCuse |
 | 189 | 202 | Patron Anderson |
@@ -249,8 +249,8 @@
 | 241 | 162 | John Brunetti |
 | 242 | 161 | Jenny Wells-Oakley |
 | 243 | 160 | Brittany Marsh |
-| 244 | 159 | Marcus Todd |
-| 245 | 159 | DonMega |
+| 244 | 159 | DonMega |
+| 245 | 159 | Marcus Todd |
 | 246 | 158 | Chair |
 | 247 | 157 | scott |
 | 248 | 157 | Paige Kittles |
@@ -323,9 +323,9 @@
 | 315 | 132 | Degenerate |
 | 316 | 132 | Jessica Cagle |
 | 317 | 132 | Vamp |
-| 318 | 131 | Smiley Tiltbuilder |
-| 319 | 131 | Vanessa Smart |
-| 320 | 130 | Zach Kerbs |
+| 318 | 131 | Vanessa Smart |
+| 319 | 131 | Smiley Tiltbuilder |
+| 320 | 130 | Shukee Lo |
 | 321 | 130 | Christina Black |
 | 322 | 130 | Zach Kerbs |
 | 323 | 129 | Dreamy Snapgrid |
@@ -559,10 +559,10 @@
 | 551 | 71 | Earnest Thompson |
 | 552 | 71 | Mary Miller |
 | 553 | 71 | Nikisha Reed |
-| 554 | 70 | Brittany Price |
-| 555 | 70 | Cranky Pivoty |
-| 556 | 70 | Rhys Morgan |
-| 557 | 70 | JoJo |
+| 554 | 70 | Cranky Pivoty |
+| 555 | 70 | Brittany Price |
+| 556 | 70 | PlatinumRose |
+| 557 | 70 | Stephanie Jones |
 | 558 | 70 | mitch |
 | 559 | 70 | Niome Encinias |
 | 560 | 70 | JoJo |

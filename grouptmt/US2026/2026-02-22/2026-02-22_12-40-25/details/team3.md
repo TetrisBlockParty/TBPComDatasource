@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -177,8 +177,8 @@
 | 169 | 376 | Loopy Clusterer |
 | 170 | 374 | Sherry Ogden |
 | 171 | 371 | Michael Nowogorski |
-| 172 | 370 | Santeria Trece Candles |
-| 173 | 370 | Danielle Allison |
+| 172 | 370 | Danielle Allison |
+| 173 | 370 | Santeria Trece Candles |
 | 174 | 368 | Stephanie Woods |
 | 175 | 366 | Adrian Marcel Pate |
 | 176 | 365 | Leah Barnett |
@@ -251,14 +251,14 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -271,11 +271,11 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Cozy Snaplink |
-| 267 | 235 | Brenda Schmid Wood |
+| 266 | 235 | Brenda Schmid Wood |
+| 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Josh Borquez |
-| 270 | 233 | Ray Lader |
+| 269 | 233 | Ray Lader |
+| 270 | 233 | Josh Borquez |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -336,18 +336,18 @@
 | 328 | 191 | Philip Rock |
 | 329 | 189 | France Vézina |
 | 330 | 189 | Katie Leigh Blankenship |
-| 331 | 188 | Romeo |
-| 332 | 188 | Loopy Fallmatch |
+| 331 | 188 | Loopy Fallmatch |
+| 332 | 188 | Romeo |
 | 333 | 186 | Noettín Kan Zasnemoore |
 | 334 | 186 | Bryan Byrd |
 | 335 | 186 | Sameerah Smith |
 | 336 | 185 | Angella Lyons |
-| 337 | 184 | Troy |
-| 338 | 184 | Shanon R Jackson |
+| 337 | 184 | Shanon R Jackson |
+| 338 | 184 | Troy |
 | 339 | 183 | Salena Whitlock |
 | 340 | 183 | Cesar Barraza |
-| 341 | 181 | Michael Johnson |
-| 342 | 181 | Denita Mungro |
+| 341 | 181 | Denita Mungro |
+| 342 | 181 | Michael Johnson |
 | 343 | 180 | Beth Ingham |
 | 344 | 179 | Rachel Napper |
 | 345 | 179 | April Matthew Kibble |
@@ -376,8 +376,8 @@
 | 368 | 165 | Rainbow77375 |
 | 369 | 164 | Ashley Rufus Bythcez |
 | 370 | 164 | momo |
-| 371 | 163 | Christine Trester |
-| 372 | 163 | Diana Ibarra |
+| 371 | 163 | Diana Ibarra |
+| 372 | 163 | Christine Trester |
 | 373 | 163 | Ava Petito |
 | 374 | 162 | Loopy Fallzone |
 | 375 | 162 | Stephanie Whitefield |
@@ -485,9 +485,9 @@
 | 477 | 126 | Spicy Caster |
 | 478 | 126 | Crystal Martin |
 | 479 | 125 | Shimika Enay Wallace |
-| 480 | 125 | Jul |
-| 481 | 125 | Felicia Doxey |
-| 482 | 125 | BugMansMom |
+| 480 | 125 | BugMansMom |
+| 481 | 125 | Jul |
+| 482 | 125 | Felicia Doxey |
 | 483 | 124 | xsiv |
 | 484 | 124 | victory |
 | 485 | 123 | Michael Latasha Gray |
