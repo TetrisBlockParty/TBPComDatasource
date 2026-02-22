@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Rebecca Moulton Pinciaro |
-| 57 | 659 | Jonathan Kimbrough |
+| 56 | 659 | Jonathan Kimbrough |
+| 57 | 659 | Rebecca Moulton Pinciaro |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 651 | TeeJ |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Ramel Rhodes |
-| 108 | 391 | Monica Daley |
+| 107 | 391 | Monica Daley |
+| 108 | 391 | Ramel Rhodes |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -210,8 +210,8 @@
 | 202 | 201 | Melvin Baird |
 | 203 | 200 | Lori |
 | 204 | 200 | Laura |
-| 205 | 198 | Keith Kelley |
-| 206 | 198 | Zesty Twistbuilder |
+| 205 | 198 | Zesty Twistbuilder |
+| 206 | 198 | Keith Kelley |
 | 207 | 197 | Silly SeaWeed |
 | 208 | 196 | Oscar Alberto Perez |
 | 209 | 196 | Lindsey Gonzalez |
@@ -226,8 +226,8 @@
 | 218 | 191 | Klo |
 | 219 | 190 | Cheery Risebuilder |
 | 220 | 189 | Calvin Dennis |
-| 221 | 189 | Dihcheese444 |
-| 222 | 189 | Stacey Stano |
+| 221 | 189 | Stacey Stano |
+| 222 | 189 | Dihcheese444 |
 | 223 | 186 | Holly |
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Lauren Lamb |
@@ -281,14 +281,14 @@
 | 273 | 150 | Jared Gutwein |
 | 274 | 150 | Brandon Link |
 | 275 | 149 | Shainne Brewer |
-| 276 | 148 | Ruby Khalisadar |
-| 277 | 148 | Cranky Rollpiece |
+| 276 | 148 | Cranky Rollpiece |
+| 277 | 148 | Ruby Khalisadar |
 | 278 | 148 | Nubian1 |
 | 279 | 148 | Janita Parrish |
 | 280 | 147 | Jay28 |
 | 281 | 147 | Adam Stephanie Parker |
 | 282 | 146 | KimoKoala |
-| 283 | 145 | Stephme310 |
+| 283 | 145 | Mimi |
 | 284 | 145 | Sandra Safford |
 | 285 | 145 | Stephme310 |
 | 286 | 144 | Sticherella |

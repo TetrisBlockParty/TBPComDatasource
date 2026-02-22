@@ -371,8 +371,8 @@
 | 363 | 589 | Shavonna Haynes |
 | 364 | 589 | Thomas Hedrick |
 | 365 | 586 | Heather Schelkopf |
-| 366 | 584 | Kimberly Randesi |
-| 367 | 584 | Eckoman518 |
+| 366 | 584 | Eckoman518 |
+| 367 | 584 | Kimberly Randesi |
 | 368 | 584 | Ginnell Browner |
 | 369 | 583 | Jackie Avila |
 | 370 | 582 | Gary Stash |
@@ -386,8 +386,8 @@
 | 378 | 561 | Irene Jones |
 | 379 | 561 | Traci Johnson |
 | 380 | 560 | Phil J. Grombliniak |
-| 381 | 558 | Libby Hicks |
-| 382 | 558 | Mikayala Szaz |
+| 381 | 558 | Mikayala Szaz |
+| 382 | 558 | Libby Hicks |
 | 383 | 556 | Slip |
 | 384 | 554 | Rachael Senard |
 | 385 | 554 | Santana Miyagi |
@@ -397,8 +397,8 @@
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Brownie Sheena |
-| 393 | 548 | Taryece Gause |
+| 392 | 548 | Taryece Gause |
+| 393 | 548 | Brownie Sheena |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Steve Man |
@@ -422,11 +422,11 @@
 | 414 | 525 | Desiree Anderson |
 | 415 | 524 | Lonne Emade |
 | 416 | 523 | Matt Johnson |
-| 417 | 522 | Lylymom |
-| 418 | 522 | Joseph Musick |
+| 417 | 522 | Joseph Musick |
+| 418 | 522 | Lylymom |
 | 419 | 521 | Tj Ball |
-| 420 | 520 | Angela Lynn |
-| 421 | 520 | Maddy Petersen |
+| 420 | 520 | Maddy Petersen |
+| 421 | 520 | Angela Lynn |
 | 422 | 519 | Rob Brown |
 | 423 | 517 | Alex Dungo Hoang |
 | 424 | 517 | Amber Brion |

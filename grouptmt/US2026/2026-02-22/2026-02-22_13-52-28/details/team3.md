@@ -253,8 +253,8 @@
 | 245 | 267 | Tiffany Davie |
 | 246 | 267 | Terry Jo Jones |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tiffany Ford |
-| 249 | 261 | Tasha Wesson-Torrence |
+| 248 | 261 | Tasha Wesson-Torrence |
+| 249 | 261 | Tiffany Ford |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Nikki Pags |
 | 252 | 260 | Grams |
@@ -1062,7 +1062,7 @@
 | 1054 | 62 | Kelly Wolf |
 | 1055 | 62 | LaShey Thompson |
 | 1056 | 61 | Slinky Blocker |
-| 1057 | 61 | Christi Solsberry |
+| 1057 | 61 | Sharon Coughenour Bolling Selvey |
 | 1058 | 61 | Mllwsv |
 | 1059 | 61 | Christi Solsberry |
 | 1060 | 61 | Amanda Marie Inman |
