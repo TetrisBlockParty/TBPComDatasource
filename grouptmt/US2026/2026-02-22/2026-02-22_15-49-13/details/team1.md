@@ -124,14 +124,14 @@
 | 116 | 341 | David Miller |
 | 117 | 341 | Nick R Montague |
 | 118 | 334 | Jaimie Lynn |
-| 119 | 333 | Brandi Huntington |
-| 120 | 333 | Gracie |
+| 119 | 333 | Gracie |
+| 120 | 333 | Brandi Huntington |
 | 121 | 332 | Kristen Gideon |
 | 122 | 330 | Sweet Baker |
 | 123 | 326 | Monica Donato |
 | 124 | 325 | Jennifer Hardman |
-| 125 | 321 | Tanya Carpenter-Reynolds |
-| 126 | 321 | Maria C. Hernandez |
+| 125 | 321 | Maria C. Hernandez |
+| 126 | 321 | Tanya Carpenter-Reynolds |
 | 127 | 318 | Jessica Sheehan |
 | 128 | 316 | Ly Phethmany |
 | 129 | 316 | Dizzy Party |
@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Tyler Werts |
 | 149 | 282 | Cool Shiftsnap |
@@ -191,8 +191,8 @@
 | 183 | 237 | Kimberly Garcia |
 | 184 | 237 | LaFontaine Leslie |
 | 185 | 236 | femmefatale |
-| 186 | 235 | Desiree Deschaine Havee |
-| 187 | 235 | MRdot Rooski |
+| 186 | 235 | MRdot Rooski |
+| 187 | 235 | Desiree Deschaine Havee |
 | 188 | 234 | Paula Martin |
 | 189 | 231 | Amanda Johnson Huffman |
 | 190 | 230 | Christy Jones |
@@ -300,8 +300,8 @@
 | 292 | 164 | Poppy Riserpiece |
 | 293 | 163 | Davery Spencer Adair |
 | 294 | 163 | Tyler Whitley |
-| 295 | 163 | .running. |
-| 296 | 163 | Blaire Bruckoff |
+| 295 | 163 | Blaire Bruckoff |
+| 296 | 163 | .running. |
 | 297 | 161 | SavageBooty98 |
 | 298 | 161 | Pauline Cortez |
 | 299 | 160 | Plucky Stacky |
@@ -320,8 +320,8 @@
 | 312 | 153 | John Kim |
 | 313 | 153 | Dino |
 | 314 | 152 | Speedy Snapfall |
-| 315 | 151 | Bruce Cruz |
-| 316 | 151 | Gilbert Ortiz Jr. |
+| 315 | 151 | Gilbert Ortiz Jr. |
+| 316 | 151 | Bruce Cruz |
 | 317 | 150 | Barrbaric |
 | 318 | 150 | Agustin Duarte Orozco |
 | 319 | 149 | Melissa Bires Hussar |

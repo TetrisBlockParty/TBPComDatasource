@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 753 | TeeJ |
@@ -253,9 +253,9 @@
 | 245 | 181 | Carter Jones |
 | 246 | 181 | Jackie Marie |
 | 247 | 180 | Orchislactea |
-| 248 | 179 | TinyLegoRose |
-| 249 | 179 | Christina Black |
-| 250 | 179 | Stephme310 |
+| 248 | 179 | Christina Black |
+| 249 | 179 | Stephme310 |
+| 250 | 179 | TinyLegoRose |
 | 251 | 179 | AyeKay |
 | 252 | 175 | Lorena Guerrero-Barron |
 | 253 | 171 | June Hoffman |
@@ -268,8 +268,8 @@
 | 260 | 166 | Megan Cutshaw |
 | 261 | 166 | SammieJo Guy |
 | 262 | 165 | Zappy Buildgrid |
-| 263 | 165 | Brittany Marsh |
-| 264 | 165 | James Hurley Jr. |
+| 263 | 165 | James Hurley Jr. |
+| 264 | 165 | Brittany Marsh |
 | 265 | 163 | Ellen Durfee |
 | 266 | 162 | Gwendolyn Pitcairn |
 | 267 | 162 | John Brunetti |
@@ -338,7 +338,7 @@
 | 330 | 137 | Jason Bosco |
 | 331 | 137 | Red |
 | 332 | 137 | Brianna Walker |
-| 333 | 137 | Jason Bosco |
+| 333 | 137 | PeaceOs |
 | 334 | 136 | Michelle Morris |
 | 335 | 135 | Vanessa Smart |
 | 336 | 135 | Joshua Guess |

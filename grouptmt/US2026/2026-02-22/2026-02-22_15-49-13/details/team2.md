@@ -248,8 +248,8 @@
 | 240 | 867 | Michele Gabriel |
 | 241 | 867 | Peppy Zone |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | John Bednarik |
-| 244 | 860 | April Dawn Gussler |
+| 243 | 860 | April Dawn Gussler |
+| 244 | 860 | John Bednarik |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
 | 247 | 853 | Ashlen Dorrell |
@@ -353,8 +353,8 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | BeQuo |
-| 349 | 661 | goofinoff |
+| 348 | 661 | goofinoff |
+| 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | tejas25 |
@@ -415,8 +415,8 @@
 | 407 | 558 | Libby Hicks |
 | 408 | 558 | Mikayala Szaz |
 | 409 | 556 | Slip |
-| 410 | 554 | Santana Miyagi |
-| 411 | 554 | Rachael Senard |
+| 410 | 554 | Rachael Senard |
+| 411 | 554 | Santana Miyagi |
 | 412 | 553 | Blacc Blac |
 | 413 | 550 | Nashu |
 | 414 | 549 | Darcy Mae |
@@ -646,8 +646,8 @@
 | 638 | 387 | Bold Brickster |
 | 639 | 385 | Tansaria Couch-Butler |
 | 640 | 384 | Mary Marie |
-| 641 | 384 | Party d |
-| 642 | 384 | Heather Johnson |
+| 641 | 384 | Heather Johnson |
+| 642 | 384 | Party d |
 | 643 | 384 | Kelly |
 | 644 | 382 | Lively Edgepiece |
 | 645 | 382 | David Holliday |
@@ -802,8 +802,8 @@
 | 794 | 310 | Cozy Drop |
 | 795 | 310 | Cheeky Brickmatch |
 | 796 | 310 | Beth Decker |
-| 797 | 309 | Daniell Martinez |
-| 798 | 309 | Byung Bae Park |
+| 797 | 309 | Byung Bae Park |
+| 798 | 309 | Daniell Martinez |
 | 799 | 308 | Hyper Riseclear |
 | 800 | 308 | Kristina Marie Hanna |
 | 801 | 308 | Claire |

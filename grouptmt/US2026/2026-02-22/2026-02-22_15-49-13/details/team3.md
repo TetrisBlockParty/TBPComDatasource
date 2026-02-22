@@ -239,8 +239,8 @@
 | 231 | 299 | Melissa Orth Hunter |
 | 232 | 298 | MsBee |
 | 233 | 297 | Jojo M |
-| 234 | 296 | Katrina Turner |
-| 235 | 296 | Peppy Shifter |
+| 234 | 296 | Peppy Shifter |
+| 235 | 296 | Katrina Turner |
 | 236 | 289 | DidIdothat |
 | 237 | 289 | Duane Bright |
 | 238 | 289 | Hoppy Buildout |
@@ -265,8 +265,8 @@
 | 257 | 271 | Cass Mendoza |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
 | 263 | 260 | Nikki Pags |
 | 264 | 260 | Grams |
@@ -351,7 +351,7 @@
 | 343 | 200 | Colleen Phelps |
 | 344 | 200 | Everret Maxine |
 | 345 | 200 | glichmod |
-| 346 | 200 | Colleen Phelps |
+| 346 | 200 | Sharisse Baltimore |
 | 347 | 200 | Saucy Buildout |
 | 348 | 199 | Samantha Worley |
 | 349 | 199 | Kristian Thurman |
