@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -133,10 +133,10 @@
 | 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Desi Desporte |
-| 129 | 278 | Carrie Brian |
-| 130 | 277 | Scott Jameson |
-| 131 | 277 | Mary Ann Pabukis |
+| 128 | 278 | Carrie Brian |
+| 129 | 278 | Desi Desporte |
+| 130 | 277 | Mary Ann Pabukis |
+| 131 | 277 | Scott Jameson |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
 | 134 | 264 | Epic Curvetile |
@@ -148,8 +148,8 @@
 | 140 | 253 | Jeff Brian Gates |
 | 141 | 249 | Leah Kutz Zirbel |
 | 142 | 245 | Diana Houts |
-| 143 | 244 | Calvin Cannon |
-| 144 | 244 | Twisty Cascadezone |
+| 143 | 244 | Twisty Cascadezone |
+| 144 | 244 | Calvin Cannon |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
 | 147 | 230 | Cursed Hag |
@@ -263,7 +263,7 @@
 | 255 | 139 | ChasingZen |
 | 256 | 138 | Nick Gray |
 | 257 | 138 | Sarah Hoffman |
-| 258 | 138 | Nick Gray |
+| 258 | 138 | Brandon Link |
 | 259 | 138 | Zappy Buildgrid |
 | 260 | 138 | Ashlee Carnes |
 | 261 | 137 | PeaceOs |
@@ -399,10 +399,10 @@
 | 391 | 95 | Jobadia Steelerton |
 | 392 | 94 | DonMega |
 | 393 | 94 | Ahleek Mitchell |
-| 394 | 94 | DonMega |
+| 394 | 94 | Cynthia Boudreau |
 | 395 | 93 | Matt Gooder |
-| 396 | 92 | Krash |
-| 397 | 92 | Frilly Blocky |
+| 396 | 92 | Frilly Blocky |
+| 397 | 92 | Krash |
 | 398 | 92 | bloat princess |
 | 399 | 91 | O block |
 | 400 | 91 | Lee Silpe |

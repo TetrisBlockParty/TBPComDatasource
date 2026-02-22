@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Jaye EL Hunter |
-| 447 | 463 | Sue Leard |
+| 446 | 463 | Sue Leard |
+| 447 | 463 | Jaye EL Hunter |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Tonya Lee |
 | 450 | 462 | Amanda Ferrell |
@@ -1175,8 +1175,8 @@
 | 1167 | 185 | Zany Dashpiece |
 | 1168 | 185 | Nate Lee |
 | 1169 | 184 | Mindy Folsom |
-| 1170 | 184 | Jeremy Scott |
-| 1171 | 184 | BamaGirlinTX |
+| 1170 | 184 | BamaGirlinTX |
+| 1171 | 184 | Jeremy Scott |
 | 1172 | 183 | Lynzekwi |
 | 1173 | 183 | teo1 |
 | 1174 | 183 | Ericka Marie Smith |
@@ -1296,8 +1296,8 @@
 | 1288 | 167 | Mary Lopez Sr. |
 | 1289 | 167 | Tamara Slaten |
 | 1290 | 167 | Dreamy Fitclear |
-| 1291 | 167 | Sabrina Smith |
-| 1292 | 167 | Tim Galle |
+| 1291 | 167 | Tim Galle |
+| 1292 | 167 | Sabrina Smith |
 | 1293 | 167 | Tiffany Hassanshahi |
 | 1294 | 167 | Stephanie Garber |
 | 1295 | 166 | Leslie Clark |

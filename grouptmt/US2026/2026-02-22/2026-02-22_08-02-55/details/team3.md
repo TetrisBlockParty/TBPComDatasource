@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Rachael McClain Owens |
-| 100 | 565 | Patty Allen |
+| 99 | 565 | Patty Allen |
+| 100 | 565 | Rachael McClain Owens |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -269,8 +269,8 @@
 | 261 | 225 | Cozy Snaplink |
 | 262 | 225 | Dirtgirl27 |
 | 263 | 223 | Connie Mohler-Fair |
-| 264 | 221 | Alice |
-| 265 | 221 | Jaime Monhaut-Reed |
+| 264 | 221 | Jaime Monhaut-Reed |
+| 265 | 221 | Alice |
 | 266 | 221 | Vaners |
 | 267 | 220 | rosy |
 | 268 | 219 | Sissy Lowery Davis |
@@ -337,8 +337,8 @@
 | 329 | 169 | Naur |
 | 330 | 169 | Peachy Rollfit |
 | 331 | 169 | Kristian Thurman |
-| 332 | 168 | April Matthew Kibble |
-| 333 | 168 | Trice Thomas |
+| 332 | 168 | Trice Thomas |
+| 333 | 168 | April Matthew Kibble |
 | 334 | 167 | Shicken Nuggit |
 | 335 | 167 | Irene Arreguin |
 | 336 | 167 | Romeo |
@@ -361,9 +361,9 @@
 | 353 | 159 | Joshua David Huie |
 | 354 | 159 | Salena Whitlock |
 | 355 | 158 | Willow |
-| 356 | 157 | Katrina E Jelks |
-| 357 | 157 | Steffi Chris Dacones |
-| 358 | 157 | Angel Mendez |
+| 356 | 157 | Steffi Chris Dacones |
+| 357 | 157 | Angel Mendez |
+| 358 | 157 | Katrina E Jelks |
 | 359 | 157 | Wetwet |
 | 360 | 156 | Nichole Greene |
 | 361 | 155 | Michell Hendershott Jackson |
@@ -399,12 +399,12 @@
 | 391 | 141 | Melissa Snyder |
 | 392 | 141 | Weerae |
 | 393 | 140 | Jumpy Curvebuilder |
-| 394 | 140 | Linda Draper |
+| 394 | 140 | Alison Baus |
 | 395 | 140 | Boldy Corner |
-| 396 | 140 | Alison Baus |
+| 396 | 140 | Linda Draper |
 | 397 | 139 | MizzMonick Smith |
-| 398 | 139 | Betty Bóò |
-| 399 | 139 | Beppy |
+| 398 | 139 | Beppy |
+| 399 | 139 | Betty Bóò |
 | 400 | 139 | Paula Little |
 | 401 | 138 | Skinny Baldez |
 | 402 | 138 | Bleu Sun Beams |
@@ -589,8 +589,8 @@
 | 581 | 98 | Katie Morton |
 | 582 | 97 | Daisy Rocha |
 | 583 | 97 | Miranda Taylor |
-| 584 | 97 | Rebecca Lynn |
-| 585 | 97 | Tina Baurdau |
+| 584 | 97 | Tina Baurdau |
+| 585 | 97 | Rebecca Lynn |
 | 586 | 96 | Brittany Smith Brown |
 | 587 | 96 | D3NO |
 | 588 | 96 | Swanky Snapclear |
