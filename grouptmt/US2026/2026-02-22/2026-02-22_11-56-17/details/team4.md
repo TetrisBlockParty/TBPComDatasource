@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 479 | Amy Suckarieh |
 | 82 | 468 | Shane Kalamata Platoon |
@@ -154,8 +154,8 @@
 | 146 | 258 | Bio Nelly |
 | 147 | 256 | Mylo Lipscomb |
 | 148 | 255 | Lindsay Ball |
-| 149 | 253 | Jeff Brian Gates |
-| 150 | 253 | Casey Grabner |
+| 149 | 253 | Casey Grabner |
+| 150 | 253 | Jeff Brian Gates |
 | 151 | 249 | Leah Kutz Zirbel |
 | 152 | 249 | Damn Libra |
 | 153 | 245 | Diana Houts |
@@ -168,8 +168,8 @@
 | 160 | 230 | Autum Leigh |
 | 161 | 230 | Cursed Hag |
 | 162 | 228 | J-Rizzle |
-| 163 | 227 | Swanky Fitline |
-| 164 | 227 | Alyssa Papen |
+| 163 | 227 | Alyssa Papen |
+| 164 | 227 | Swanky Fitline |
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
@@ -191,8 +191,8 @@
 | 183 | 204 | Carlos Ramirez |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
-| 186 | 201 | Chance Strickland |
-| 187 | 201 | Melvin Baird |
+| 186 | 201 | Melvin Baird |
+| 187 | 201 | Chance Strickland |
 | 188 | 200 | Laura |
 | 189 | 198 | Ruben Wheeler |
 | 190 | 198 | Keith Kelley |
@@ -334,8 +334,8 @@
 | 326 | 128 | Jeremy Steines |
 | 327 | 128 | Elie Pean |
 | 328 | 127 | Robert Rodriguez |
-| 329 | 126 | Cheryl Johnson |
-| 330 | 126 | PAPatty |
+| 329 | 126 | PAPatty |
+| 330 | 126 | Cheryl Johnson |
 | 331 | 126 | icequeenx |
 | 332 | 125 | Ann G. Carrillo |
 | 333 | 125 | Steph Marie |
@@ -346,7 +346,7 @@
 | 338 | 123 | Joseph Edmonson |
 | 339 | 121 | Riverdale |
 | 340 | 121 | Jim Hart |
-| 341 | 120 | Metsfan |
+| 341 | 120 | wombat |
 | 342 | 120 | Bryan Hodgins |
 | 343 | 120 | Metsfan |
 | 344 | 119 | rebel4lyfe |
@@ -565,9 +565,9 @@
 | 557 | 69 | Tina Connick |
 | 558 | 69 | Jennifer Marsella |
 | 559 | 69 | Frisky Column |
-| 560 | 69 | Tina Connick |
+| 560 | 69 | Jen Mattei |
 | 561 | 69 | Tammy Lewis |
-| 562 | 69 | Jen Mattei |
+| 562 | 69 | Meli  Jackson |
 | 563 | 69 | Yvonne MAguilar |
 | 564 | 68 | Joe Lonnemann |
 | 565 | 68 | Aly Eggers |

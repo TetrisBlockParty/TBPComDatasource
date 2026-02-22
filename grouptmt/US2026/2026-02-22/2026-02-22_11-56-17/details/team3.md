@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -290,8 +290,8 @@
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -342,8 +342,8 @@
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
 | 336 | 179 | Christian Werndl |
-| 337 | 179 | DanceLuvLaugh |
-| 338 | 179 | Rachel Napper |
+| 337 | 179 | Rachel Napper |
+| 338 | 179 | DanceLuvLaugh |
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
@@ -446,8 +446,8 @@
 | 438 | 138 | Bleu Sun Beams |
 | 439 | 138 | Skinny Baldez |
 | 440 | 137 | Giggly Brickroll |
-| 441 | 136 | Sabrina Mansfield |
-| 442 | 136 | Stephanie Zahm |
+| 441 | 136 | Stephanie Zahm |
+| 442 | 136 | Sabrina Mansfield |
 | 443 | 136 | Karen Picaboo |
 | 444 | 135 | Morgan Cudo |
 | 445 | 134 | Glenn Loving |
@@ -469,8 +469,8 @@
 | 461 | 129 | luluraine |
 | 462 | 129 | LIL BIT |
 | 463 | 129 | Stella |
-| 464 | 129 | Elisha L Allman |
-| 465 | 129 | TLM |
+| 464 | 129 | TLM |
+| 465 | 129 | Elisha L Allman |
 | 466 | 129 | Amanda Neal |
 | 467 | 128 | David Kozen |
 | 468 | 127 | Jumpy Wrecker |

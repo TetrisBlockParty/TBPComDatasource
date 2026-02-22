@@ -262,8 +262,8 @@
 | 254 | 767 | Jessica Wayne Cornwall |
 | 255 | 765 | Jodi Blake |
 | 256 | 764 | Pacynthia Williams |
-| 257 | 763 | Mischelle Clay |
-| 258 | 763 | Samantha Jo |
+| 257 | 763 | Samantha Jo |
+| 258 | 763 | Mischelle Clay |
 | 259 | 763 | Beth |
 | 260 | 761 | Hyper Cluster |
 | 261 | 760 | Danielle Simmons |
@@ -319,8 +319,8 @@
 | 311 | 666 | Speedy Spinblock |
 | 312 | 665 | Prette Qui |
 | 313 | 664 | Sleepypanda67 |
-| 314 | 663 | Mandi Douglas Hilt |
-| 315 | 663 | Ashle Scranton |
+| 314 | 663 | Ashle Scranton |
+| 315 | 663 | Mandi Douglas Hilt |
 | 316 | 659 | Draizen Montrell Thomas |
 | 317 | 659 | Roseanna Peloso |
 | 318 | 658 | Erica Williams |
@@ -337,8 +337,8 @@
 | 329 | 639 | Rebecca Miller |
 | 330 | 635 | Diana Fitzwater |
 | 331 | 631 | Marie Walker |
-| 332 | 627 | Victoria Moore-Smith |
-| 333 | 627 | Allan Wayne Lamia |
+| 332 | 627 | Allan Wayne Lamia |
+| 333 | 627 | Victoria Moore-Smith |
 | 334 | 620 | Brandon Armstrong |
 | 335 | 617 | Leslie Ann Carter |
 | 336 | 613 | Caitlyn Blackwell |
@@ -408,11 +408,11 @@
 | 400 | 525 | Desiree Anderson |
 | 401 | 524 | Lonne Emade |
 | 402 | 523 | Matt Johnson |
-| 403 | 522 | Joseph Musick |
-| 404 | 522 | Lylymom |
+| 403 | 522 | Lylymom |
+| 404 | 522 | Joseph Musick |
 | 405 | 521 | Tj Ball |
-| 406 | 520 | Maddy Petersen |
-| 407 | 520 | Angela Lynn |
+| 406 | 520 | Angela Lynn |
+| 407 | 520 | Maddy Petersen |
 | 408 | 519 | Rob Brown |
 | 409 | 517 | Alex Dungo Hoang |
 | 410 | 517 | Amber Brion |
@@ -463,8 +463,8 @@
 | 455 | 482 | Eckoman518 |
 | 456 | 482 | Ben Barkley |
 | 457 | 481 | Klee |
-| 458 | 480 | Dar |
-| 459 | 480 | Ashley Collins |
+| 458 | 480 | Ashley Collins |
+| 459 | 480 | Dar |
 | 460 | 477 | Julay |
 | 461 | 476 | Kitybox |
 | 462 | 475 | Michelle Lee |
@@ -682,8 +682,8 @@
 | 674 | 341 | Daniel Amos |
 | 675 | 341 | Shorty |
 | 676 | 340 | Quirky Twistline |
-| 677 | 339 | Denise Rickman |
-| 678 | 339 | Cynthia Louann Rose |
+| 677 | 339 | Cynthia Louann Rose |
+| 678 | 339 | Denise Rickman |
 | 679 | 338 | Janitta Alvarez |
 | 680 | 337 | Sassy Pattern |
 | 681 | 337 | Savannah Alexander |
@@ -781,10 +781,10 @@
 | 773 | 292 | Bryan Werleman |
 | 774 | 292 | Christina Walker |
 | 775 | 292 | Deana |
-| 776 | 291 | Brave Gridpiece |
-| 777 | 291 | Jennie Lee Huntley |
-| 778 | 291 | NickyBrooks |
-| 779 | 291 | Bella Novia |
+| 776 | 291 | Jennie Lee Huntley |
+| 777 | 291 | Brave Gridpiece |
+| 778 | 291 | Bella Novia |
+| 779 | 291 | NickyBrooks |
 | 780 | 289 | August Hale |
 | 781 | 289 | Min |
 | 782 | 289 | Ryan Chan |
