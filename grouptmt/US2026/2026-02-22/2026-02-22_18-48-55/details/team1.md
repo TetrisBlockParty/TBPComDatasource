@@ -207,13 +207,13 @@
 | 199 | 242 | John Kim |
 | 200 | 241 | John J. Cronin |
 | 201 | 240 | DaRascal |
-| 202 | 239 | Sam Williams |
-| 203 | 239 | Lacy Wolfe |
+| 202 | 239 | Lacy Wolfe |
+| 203 | 239 | Sam Williams |
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
-| 207 | 235 | Desiree Deschaine Havee |
-| 208 | 235 | MRdot Rooski |
+| 207 | 235 | MRdot Rooski |
+| 208 | 235 | Desiree Deschaine Havee |
 | 209 | 234 | Paula Martin |
 | 210 | 233 | LC |
 | 211 | 230 | BigWeenie69 |
@@ -329,11 +329,11 @@
 | 321 | 163 | Blaire Bruckoff |
 | 322 | 163 | Tyler Whitley |
 | 323 | 163 | Larry Tilton |
-| 324 | 163 | Tyler Whitley |
+| 324 | 163 | .running. |
 | 325 | 162 | Charla Pross-Fugleberg |
 | 326 | 162 | Pauline Cortez |
-| 327 | 162 | Jo Kerley |
-| 328 | 162 | Strig |
+| 327 | 162 | Strig |
+| 328 | 162 | Jo Kerley |
 | 329 | 161 | SavageBooty98 |
 | 330 | 160 | Sunny Catcher |
 | 331 | 160 | Debbie Kane |

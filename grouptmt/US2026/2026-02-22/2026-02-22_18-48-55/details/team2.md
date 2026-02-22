@@ -616,8 +616,8 @@
 | 608 | 429 | Angel Hunnewell |
 | 609 | 428 | Shyenn Gadsby |
 | 610 | 428 | Lynda Toland |
-| 611 | 427 | Destiny Cozier |
-| 612 | 427 | Sabrina Burton |
+| 611 | 427 | Sabrina Burton |
+| 612 | 427 | Destiny Cozier |
 | 613 | 426 | De Hawkins |
 | 614 | 426 | Ashley Dow |
 | 615 | 426 | Joel Rosado |

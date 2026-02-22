@@ -45,8 +45,8 @@
 | 37 | 886 | Dustin Robert |
 | 38 | 880 | Koshin Abdirahman |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Christine Marie |
-| 41 | 846 | Lucille Truesdale |
+| 40 | 846 | Lucille Truesdale |
+| 41 | 846 | Christine Marie |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -341,8 +341,8 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Jay28 |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Glitzy Crasher |
-| 337 | 145 | Sandra Safford |
+| 336 | 145 | Sandra Safford |
+| 337 | 145 | Glitzy Crasher |
 | 338 | 144 | Squeezy Pearsall |
 | 339 | 143 | Metsfan |
 | 340 | 143 | Asher |
