@@ -134,15 +134,15 @@
 | 126 | 353 | Tyler Terrific |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | ThaEviLJeNiuZ |
-| 130 | 338 | Lucas J Sutton |
+| 129 | 338 | Lucas J Sutton |
+| 130 | 338 | ThaEviLJeNiuZ |
 | 131 | 336 | Austin Owens |
 | 132 | 332 | Desi Desporte |
 | 133 | 332 | HastyGrabber |
 | 134 | 330 | David Lay |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Leslie Nicole |
-| 137 | 328 | Kris Bartlett |
+| 136 | 328 | Kris Bartlett |
+| 137 | 328 | Leslie Nicole |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -240,8 +240,8 @@
 | 232 | 208 | Dizzy Matchzone |
 | 233 | 208 | Oscar Alberto Perez |
 | 234 | 208 | Stacey Stano |
-| 235 | 205 | James Hurley Jr. |
-| 236 | 205 | Christina Black |
+| 235 | 205 | Christina Black |
+| 236 | 205 | James Hurley Jr. |
 | 237 | 203 | Katherine Crane |
 | 238 | 202 | Patron Anderson |
 | 239 | 201 | Melvin Baird |
@@ -326,8 +326,8 @@
 | 318 | 150 | Brandon Link |
 | 319 | 150 | GBR |
 | 320 | 150 | Chris Alexinas |
-| 321 | 149 | Duck |
-| 322 | 149 | Lora |
+| 321 | 149 | Lora |
+| 322 | 149 | Duck |
 | 323 | 149 | Sticherella |
 | 324 | 148 | Janita Parrish |
 | 325 | 148 | Joseph Edmonson |
@@ -421,9 +421,9 @@
 | 413 | 121 | Cool Gridzone |
 | 414 | 120 | Bryan Hodgins |
 | 415 | 120 | Jay You |
-| 416 | 119 | River Shady Sr. |
+| 416 | 119 | rebel4lyfe |
 | 417 | 119 | Amy C Brown |
-| 418 | 119 | rebel4lyfe |
+| 418 | 119 | River Shady Sr. |
 | 419 | 118 | bloat princess |
 | 420 | 118 | Mackenzie Forrester |
 | 421 | 118 | Darrin Rubalcava |

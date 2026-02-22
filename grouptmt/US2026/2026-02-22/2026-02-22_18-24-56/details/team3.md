@@ -222,8 +222,8 @@
 | 214 | 346 | Tamara Deherrera |
 | 215 | 344 | Roary Danner |
 | 216 | 343 | Ashley Raines |
-| 217 | 341 | Noyb Adam |
-| 218 | 341 | Samantha Lynn |
+| 217 | 341 | Samantha Lynn |
+| 218 | 341 | Noyb Adam |
 | 219 | 341 | Ashley Tookes |
 | 220 | 340 | Ammmmmmy |
 | 221 | 339 | Marci Mize Fandrich |
@@ -288,8 +288,8 @@
 | 280 | 266 | Quirky Dropzone |
 | 281 | 265 | Nikki Pags |
 | 282 | 263 | Brenda Schmid Wood |
-| 283 | 262 | Ray Lader |
-| 284 | 262 | Joe-Maggie Mathews |
+| 283 | 262 | Joe-Maggie Mathews |
+| 284 | 262 | Ray Lader |
 | 285 | 261 | Foltz Lee Kelli |
 | 286 | 261 | ROODBOY |
 | 287 | 260 | Grams |
@@ -312,12 +312,12 @@
 | 304 | 236 | Lys |
 | 305 | 233 | Tony Waters |
 | 306 | 232 | Donna |
-| 307 | 231 | Kevin Russell |
-| 308 | 231 | Kiki |
+| 307 | 231 | Kiki |
+| 308 | 231 | Kevin Russell |
 | 309 | 230 | BigE |
 | 310 | 228 | Beaudie Stroebel |
-| 311 | 228 | Naur |
-| 312 | 228 | Lizabeth Fox |
+| 311 | 228 | Lizabeth Fox |
+| 312 | 228 | Naur |
 | 313 | 227 | Rebel124 |
 | 314 | 227 | Meowsa |
 | 315 | 226 | Desiree Gold |
@@ -472,7 +472,7 @@
 | 464 | 160 | Michell Hendershott Jackson |
 | 465 | 160 | Sdot |
 | 466 | 158 | Kellie Montgomery |
-| 467 | 158 | FATTY |
+| 467 | 158 | Sarah Morris |
 | 468 | 158 | Eboni Starr |
 | 469 | 158 | FATTY |
 | 470 | 157 | Angel Mendez |
@@ -787,7 +787,7 @@
 | 779 | 98 | Jocelyne Baca |
 | 780 | 98 | Adrea Ann |
 | 781 | 98 | Sassy Caster |
-| 782 | 98 | Adrea Ann |
+| 782 | 98 | lashanda |
 | 783 | 98 | Jess Reppert |
 | 784 | 97 | Jennifer Kahler |
 | 785 | 97 | Angel Miller |

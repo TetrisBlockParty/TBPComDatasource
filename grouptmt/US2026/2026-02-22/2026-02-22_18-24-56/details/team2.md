@@ -225,8 +225,8 @@
 | 217 | 973 | Kim Dean |
 | 218 | 972 | Juliana Marques Do Nascimento Gordy |
 | 219 | 960 | Jennifer Kistner |
-| 220 | 957 | Keri Womack |
-| 221 | 957 | Block Master |
+| 220 | 957 | Block Master |
+| 221 | 957 | Keri Womack |
 | 222 | 957 | Crystal Hoffman |
 | 223 | 956 | Mema |
 | 224 | 955 | Angela Bonquiqui Dinish |
@@ -500,10 +500,10 @@
 | 492 | 509 | Kelli Wells |
 | 493 | 507 | Kitybox |
 | 494 | 507 | Daniell Martinez |
-| 495 | 499 | Sarah Massey |
-| 496 | 499 | Crystal Elam |
-| 497 | 498 | Aimee Campbell |
-| 498 | 498 | Rhonda Milstead |
+| 495 | 499 | Crystal Elam |
+| 496 | 499 | Sarah Massey |
+| 497 | 498 | Rhonda Milstead |
+| 498 | 498 | Aimee Campbell |
 | 499 | 497 | June E Hanson |
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
@@ -536,8 +536,8 @@
 | 528 | 476 | Christy Krissie |
 | 529 | 475 | Michelle Lee |
 | 530 | 474 | Calandra Shaya Robinson |
-| 531 | 473 | Wuntayk |
-| 532 | 473 | Sam |
+| 531 | 473 | Sam |
+| 532 | 473 | Wuntayk |
 | 533 | 473 | coleksquad |
 | 534 | 473 | Ashlee Cruz |
 | 535 | 473 | Tracy Wise |
@@ -633,8 +633,8 @@
 | 625 | 416 | Ricky Fortune |
 | 626 | 414 | Daniel Amos |
 | 627 | 414 | John |
-| 628 | 413 | Kimberly Ann |
-| 629 | 413 | Kristen O'Neal |
+| 628 | 413 | Kristen O'Neal |
+| 629 | 413 | Kimberly Ann |
 | 630 | 412 | Jason H Baker |
 | 631 | 411 | Christina Ashley |
 | 632 | 410 | Belle |
@@ -1132,8 +1132,8 @@
 | 1124 | 241 | Emoney Sanchez |
 | 1125 | 240 | Sara |
 | 1126 | 240 | Myleaha Holley |
-| 1127 | 240 | lady |
-| 1128 | 240 | Christina Eckert |
+| 1127 | 240 | Christina Eckert |
+| 1128 | 240 | lady |
 | 1129 | 239 | Carlos Javier Del Toro |
 | 1130 | 239 | Sierra Edwards Lachmanek |
 | 1131 | 239 | Theresa Ring |

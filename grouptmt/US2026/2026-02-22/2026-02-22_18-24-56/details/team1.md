@@ -84,8 +84,8 @@
 | 76 | 486 | Tater |
 | 77 | 485 | Cartier |
 | 78 | 483 | MomMom |
-| 79 | 483 | Evie Khalil |
-| 80 | 483 | Ryan Lunnin |
+| 79 | 483 | Ryan Lunnin |
+| 80 | 483 | Evie Khalil |
 | 81 | 480 | Nancy Green |
 | 82 | 472 | April Carroll |
 | 83 | 471 | Jennifer ManWarren |
@@ -122,8 +122,8 @@
 | 114 | 366 | David Miller |
 | 115 | 364 | Shauna Loe |
 | 116 | 362 | Plucky Ziggy |
-| 117 | 360 | phrmblk24 |
-| 118 | 360 | Wisa |
+| 117 | 360 | Wisa |
+| 118 | 360 | phrmblk24 |
 | 119 | 359 | Chirpy Smasher |
 | 120 | 357 | Dandy Basegrid |
 | 121 | 357 | Amanda Johnson Huffman |
@@ -199,9 +199,9 @@
 | 191 | 249 | Lakeisha Chapman |
 | 192 | 247 | Frothy Pattern |
 | 193 | 246 | Mike Ames |
-| 194 | 244 | Marianita Garcia |
+| 194 | 244 | Eddie Dillon |
 | 195 | 244 | LaFontaine Leslie |
-| 196 | 244 | Eddie Dillon |
+| 196 | 244 | Marianita Garcia |
 | 197 | 242 | John Kim |
 | 198 | 241 | John J. Cronin |
 | 199 | 240 | DaRascal |
@@ -270,8 +270,8 @@
 | 262 | 193 | Lachelle Dillon |
 | 263 | 191 | Renata Mabie |
 | 264 | 191 | J.F. Fields |
-| 265 | 190 | Thorne Shumate |
-| 266 | 190 | Sweetts |
+| 265 | 190 | Sweetts |
+| 266 | 190 | Thorne Shumate |
 | 267 | 189 | Bird Person |
 | 268 | 187 | Shalene Frederick Autrey |
 | 269 | 187 | Jessica Weed |
