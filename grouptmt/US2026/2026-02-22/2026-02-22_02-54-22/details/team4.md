@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Amy Suckarieh |
-| 73 | 396 | Alicia Bass |
+| 72 | 396 | Alicia Bass |
+| 73 | 396 | Amy Suckarieh |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -142,13 +142,13 @@
 | 134 | 217 | loulou |
 | 135 | 217 | Chaz Duncan |
 | 136 | 215 | Jessica Bohlken |
-| 137 | 212 | Mike Solo |
-| 138 | 212 | Calvin Cannon |
+| 137 | 212 | Calvin Cannon |
+| 138 | 212 | Mike Solo |
 | 139 | 211 | Twisty Cascadezone |
 | 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
-| 142 | 205 | Tyler Terrific |
-| 143 | 205 | Sarah Neathery |
+| 142 | 205 | Sarah Neathery |
+| 143 | 205 | Tyler Terrific |
 | 144 | 204 | Jen Caldwell |
 | 145 | 203 | Katherine Crane |
 | 146 | 201 | Melvin Baird |

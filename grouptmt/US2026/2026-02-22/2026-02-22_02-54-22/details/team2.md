@@ -354,8 +354,8 @@
 | 346 | 471 | Rae Rae |
 | 347 | 470 | Jerry Tempelmeyer |
 | 348 | 469 | Jai Jackson |
-| 349 | 469 | Amélie Cadieux |
-| 350 | 469 | Ashley Lopez |
+| 349 | 469 | Ashley Lopez |
+| 350 | 469 | Amélie Cadieux |
 | 351 | 468 | Amber Brion |
 | 352 | 468 | Drwatson187 |
 | 353 | 467 | Sam Joe |
@@ -634,8 +634,8 @@
 | 626 | 290 | Adrian Benitez |
 | 627 | 290 | Giddy Gridclear |
 | 628 | 290 | Austin Wilson |
-| 629 | 289 | Bella Novia |
-| 630 | 289 | Britney M. |
+| 629 | 289 | Britney M. |
+| 630 | 289 | Bella Novia |
 | 631 | 288 | August Hale |
 | 632 | 288 | Ashley Criner |
 | 633 | 288 | Jenna Nance |

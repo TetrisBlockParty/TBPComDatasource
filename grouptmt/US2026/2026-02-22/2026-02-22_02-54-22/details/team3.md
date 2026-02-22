@@ -127,8 +127,8 @@
 | 119 | 403 | Christine Filson |
 | 120 | 402 | Shannon Matthew Byers |
 | 121 | 400 | Luciana Braganca Vieira |
-| 122 | 399 | Patti Skiles |
-| 123 | 399 | Mcathen |
+| 122 | 399 | Mcathen |
+| 123 | 399 | Patti Skiles |
 | 124 | 399 | ren |
 | 125 | 397 | Annie Déè |
 | 126 | 392 | Katie Knaus |
@@ -145,8 +145,8 @@
 | 137 | 366 | Adrian Marcel Pate |
 | 138 | 365 | Logan Naccarato |
 | 139 | 361 | Louise Stacy Sisson |
-| 140 | 355 | Tessina Dewey-Mancino |
-| 141 | 355 | Sherry Ogden |
+| 140 | 355 | Sherry Ogden |
+| 141 | 355 | Tessina Dewey-Mancino |
 | 142 | 350 | Darlene McMillan |
 | 143 | 348 | CeceGeGe |
 | 144 | 347 | Nicole Flippo |
@@ -430,8 +430,8 @@
 | 422 | 108 | Scouty |
 | 423 | 108 | Rachel Grant |
 | 424 | 107 | Megan Stanley |
-| 425 | 106 | Cheeky Setter |
-| 426 | 106 | Joseph Vargas |
+| 425 | 106 | Joseph Vargas |
+| 426 | 106 | Cheeky Setter |
 | 427 | 106 | Megan Riggins |
 | 428 | 105 | Snarky McFace |
 | 429 | 105 | Trice Thomas |
