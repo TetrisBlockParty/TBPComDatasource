@@ -86,16 +86,16 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -180,10 +180,10 @@
 | 172 | 276 | Damon J. Martin |
 | 173 | 274 | Angela Renea Lester |
 | 174 | 273 | Shannon Marie Pitts |
-| 175 | 272 | Tana |
-| 176 | 272 | Sleepysloath5745 |
+| 175 | 272 | Sleepysloath5745 |
+| 176 | 272 | Tana |
 | 177 | 270 | Mandyy Rae |
-| 178 | 268 | Christy Jones |
+| 178 | 268 | Jessi Sauer |
 | 179 | 268 | Amanda Jarnagin |
 | 180 | 268 | Christy Jones |
 | 181 | 265 | Shiny Snapfit |

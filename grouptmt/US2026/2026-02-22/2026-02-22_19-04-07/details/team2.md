@@ -303,8 +303,8 @@
 | 295 | 803 | Barbra Miller |
 | 296 | 801 | Jojo Momma |
 | 297 | 800 | Danielle Johnson-Chandler |
-| 298 | 797 | Osun Anuket Esu |
-| 299 | 797 | Offonar Facey |
+| 298 | 797 | Offonar Facey |
+| 299 | 797 | Osun Anuket Esu |
 | 300 | 796 | Angie Bolton Workman |
 | 301 | 787 | Laura McCarthey |
 | 302 | 787 | Dee |

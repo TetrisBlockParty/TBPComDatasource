@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | YoMomma |
-| 91 | 513 | Erin Thomas |
+| 90 | 513 | Erin Thomas |
+| 91 | 513 | YoMomma |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 501 | Denise Carlson |
 | 94 | 500 | Rodney McMath Jr. |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | ThaEviLJeNiuZ |
@@ -159,15 +159,15 @@
 | 151 | 300 | Dana Scott |
 | 152 | 300 | Jason Hart |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
 | 159 | 290 | Keshia Lyons |
 | 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Damn Libra |
-| 162 | 290 | Chaz Duncan |
+| 161 | 290 | Chaz Duncan |
+| 162 | 290 | Damn Libra |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -272,8 +272,8 @@
 | 264 | 185 | Laura Hosford |
 | 265 | 185 | Morti |
 | 266 | 184 | Lauren Lamb |
-| 267 | 183 | Twisty Risebuilder |
-| 268 | 183 | Nubian1 |
+| 267 | 183 | Nubian1 |
+| 268 | 183 | Twisty Risebuilder |
 | 269 | 182 | TinyLegoRose |
 | 270 | 181 | Carter Jones |
 | 271 | 181 | Jackie Marie |
@@ -288,18 +288,18 @@
 | 280 | 170 | Elie Pean |
 | 281 | 169 | Daring Pivot |
 | 282 | 169 | Jessica Atkinson |
-| 283 | 166 | KimoKoala |
-| 284 | 166 | Jenny Wells-Oakley |
-| 285 | 166 | SammieJo Guy |
+| 283 | 166 | SammieJo Guy |
+| 284 | 166 | KimoKoala |
+| 285 | 166 | Jenny Wells-Oakley |
 | 286 | 166 | Megan Cutshaw |
 | 287 | 165 | Brittany Marsh |
-| 288 | 165 | Zappy Buildgrid |
-| 289 | 165 | Amanda Christine |
+| 288 | 165 | Amanda Christine |
+| 289 | 165 | Zappy Buildgrid |
 | 290 | 164 | Marvetta Williams |
 | 291 | 163 | Joseph Edmonson |
 | 292 | 163 | Ellen Durfee |
-| 293 | 162 | Gwendolyn Pitcairn |
-| 294 | 162 | Victoria Faniel |
+| 293 | 162 | Victoria Faniel |
+| 294 | 162 | Gwendolyn Pitcairn |
 | 295 | 162 | conceptCollector |
 | 296 | 161 | Tanner Lund |
 | 297 | 160 | wombat |

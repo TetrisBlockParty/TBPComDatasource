@@ -207,8 +207,8 @@
 | 199 | 377 | rosy |
 | 200 | 376 | Loopy Clusterer |
 | 201 | 374 | Darlene McMillan |
-| 202 | 372 | Tom Nault |
-| 203 | 372 | Giddy Twistbuilder |
+| 202 | 372 | Giddy Twistbuilder |
+| 203 | 372 | Tom Nault |
 | 204 | 370 | Santeria Trece Candles |
 | 205 | 368 | Stephanie Woods |
 | 206 | 368 | Christine Trester |
@@ -261,12 +261,12 @@
 | 253 | 299 | Angie Harper |
 | 254 | 298 | MsBee |
 | 255 | 297 | Jojo M |
-| 256 | 296 | Hoppy Buildout |
-| 257 | 296 | Katrina Turner |
+| 256 | 296 | Katrina Turner |
+| 257 | 296 | Hoppy Buildout |
 | 258 | 291 | Carrie Huskey |
-| 259 | 289 | DidIdothat |
-| 260 | 289 | Duane Bright |
-| 261 | 289 | Danielle Weikel |
+| 259 | 289 | Danielle Weikel |
+| 260 | 289 | DidIdothat |
+| 261 | 289 | Duane Bright |
 | 262 | 288 | Marquita Sheard |
 | 263 | 286 | victory |
 | 264 | 286 | Tye Stovall |
@@ -311,8 +311,8 @@
 | 303 | 245 | Latoya Mayne |
 | 304 | 245 | Lizabeth Fox |
 | 305 | 244 | Christian Werndl |
-| 306 | 244 | LaNette Morgan |
-| 307 | 244 | Sharisse Baltimore |
+| 306 | 244 | Sharisse Baltimore |
+| 307 | 244 | LaNette Morgan |
 | 308 | 243 | Josh Borquez |
 | 309 | 241 | Angela Scott |
 | 310 | 240 | Desiree Gold |
@@ -330,8 +330,8 @@
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Wettnippz |
-| 326 | 227 | Meowsa |
+| 325 | 227 | Meowsa |
+| 326 | 227 | Wettnippz |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Jessica Lynn French |
 | 329 | 225 | Steffi Chris Dacones |
