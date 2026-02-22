@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -61,8 +61,8 @@
 | 53 | 909 | Jennifer |
 | 54 | 908 | Alanna Rogers |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -273,20 +273,20 @@
 | 265 | 225 | Cozy Snaplink |
 | 266 | 221 | Vaners |
 | 267 | 221 | Jaime Monhaut-Reed |
-| 268 | 221 | Vaners |
+| 268 | 221 | Alice |
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
-| 272 | 216 | Cheryl Hinch Tenbrook |
-| 273 | 216 | Twisty Brick LT |
+| 272 | 216 | Twisty Brick LT |
+| 273 | 216 | Cheryl Hinch Tenbrook |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
 | 275 | 214 | Angela Scott |
 | 276 | 214 | Rebel124 |
 | 277 | 214 | Amy Fuller Heaton |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | El Chapa |
-| 281 | 211 | Velma Mull |
+| 280 | 211 | Velma Mull |
+| 281 | 211 | El Chapa |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
@@ -324,8 +324,8 @@
 | 316 | 180 | Beth Ingham |
 | 317 | 179 | Christian Werndl |
 | 318 | 179 | DanceLuvLaugh |
-| 319 | 179 | Tipsy Zonebuilder |
-| 320 | 179 | Rachel Napper |
+| 319 | 179 | Rachel Napper |
+| 320 | 179 | Tipsy Zonebuilder |
 | 321 | 178 | Jess Dearborn |
 | 322 | 178 | Jennifer Alvey |
 | 323 | 176 | Melissa Orth Hunter |
@@ -379,7 +379,7 @@
 | 371 | 150 | Sassy Brickmatch |
 | 372 | 149 | Alexis Taylor |
 | 373 | 148 | Pam Holt Powell |
-| 374 | 148 | Erykah |
+| 374 | 148 | Flashy Rumbler |
 | 375 | 148 | Bryan Byrd |
 | 376 | 148 | Erykah |
 | 377 | 147 | Megan Rathmanner |

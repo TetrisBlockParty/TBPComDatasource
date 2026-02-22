@@ -130,8 +130,8 @@
 | 122 | 287 | Chelsea Dahlquist |
 | 123 | 286 | Arianna O'Brien |
 | 124 | 285 | Ananda Mendez |
-| 125 | 284 | Rachael |
-| 126 | 284 | Emily Adelaide Wheatley |
+| 125 | 284 | Emily Adelaide Wheatley |
+| 126 | 284 | Rachael |
 | 127 | 283 | Franswa |
 | 128 | 282 | Cool Shiftsnap |
 | 129 | 282 | Timothy Dew |
@@ -224,12 +224,12 @@
 | 216 | 176 | Mel Hogan |
 | 217 | 175 | John Barron |
 | 218 | 174 | Cheeky Pop |
-| 219 | 173 | Rico Rico |
-| 220 | 173 | Gabrielle Louise Malloch |
-| 221 | 173 | Erin Rosberg |
+| 219 | 173 | Gabrielle Louise Malloch |
+| 220 | 173 | Erin Rosberg |
+| 221 | 173 | Rico Rico |
 | 222 | 172 | Phu ckalldems |
-| 223 | 171 | Greg Premoe |
-| 224 | 171 | David DeSantis |
+| 223 | 171 | David DeSantis |
+| 224 | 171 | Greg Premoe |
 | 225 | 170 | Cece Ibarra |
 | 226 | 170 | Standia Civil |
 | 227 | 169 | Alenoush Karimian |

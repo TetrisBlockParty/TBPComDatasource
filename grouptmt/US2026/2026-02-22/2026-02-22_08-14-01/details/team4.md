@@ -148,8 +148,8 @@
 | 140 | 253 | Jeff Brian Gates |
 | 141 | 249 | Leah Kutz Zirbel |
 | 142 | 245 | Diana Houts |
-| 143 | 244 | Calvin Cannon |
-| 144 | 244 | Twisty Cascadezone |
+| 143 | 244 | Twisty Cascadezone |
+| 144 | 244 | Calvin Cannon |
 | 145 | 240 | Peachy Fall |
 | 146 | 239 | Chris Baggett |
 | 147 | 232 | Crystal Nicolette Moore |
