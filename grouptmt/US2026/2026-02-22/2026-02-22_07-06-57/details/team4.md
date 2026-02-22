@@ -47,8 +47,8 @@
 | 39 | 757 | Ancient Intuition |
 | 40 | 736 | Goatimus Lombardi |
 | 41 | 734 | BertMofo |
-| 42 | 707 | Clarence Patawaran |
-| 43 | 707 | Rachel Anne |
+| 42 | 707 | Rachel Anne |
+| 43 | 707 | Clarence Patawaran |
 | 44 | 704 | Crystal Carroll |
 | 45 | 697 | Edward White |
 | 46 | 695 | LisaJo Picken Buchanan |

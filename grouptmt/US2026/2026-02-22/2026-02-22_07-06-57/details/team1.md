@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | Jennifer ManWarren |
-| 81 | 388 | cc |
+| 80 | 388 | cc |
+| 81 | 388 | Jennifer ManWarren |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 375 | Kimmie Kimms |
@@ -162,8 +162,8 @@
 | 154 | 218 | LC |
 | 155 | 217 | ParisandCory Champagne |
 | 156 | 217 | Dizzy Party |
-| 157 | 216 | MRdot Rooski |
-| 158 | 216 | Shauntina Burke |
+| 157 | 216 | Shauntina Burke |
+| 158 | 216 | MRdot Rooski |
 | 159 | 213 | Daring Fitclear |
 | 160 | 212 | Jaimie Lynn |
 | 161 | 211 | Marianita Garcia |
