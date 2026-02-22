@@ -84,8 +84,8 @@
 | 76 | 486 | Carmethia Clemons Haslerig |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Samantha Peterson |
-| 80 | 447 | Erin Thomas |
+| 79 | 447 | Erin Thomas |
+| 80 | 447 | Samantha Peterson |
 | 81 | 440 | Kristin Manee |
 | 82 | 435 | Shane Kalamata Platoon |
 | 83 | 427 | KJ Pool |
@@ -173,8 +173,8 @@
 | 165 | 217 | Chaz Duncan |
 | 166 | 215 | Jessica Bohlken |
 | 167 | 215 | Ren Mc |
-| 168 | 213 | Sarah Neathery |
-| 169 | 213 | Jason Allen |
+| 168 | 213 | Jason Allen |
+| 169 | 213 | Sarah Neathery |
 | 170 | 212 | Mike Solo |
 | 171 | 211 | Jenna McGeorge |
 | 172 | 207 | Chirpy Basepiece |

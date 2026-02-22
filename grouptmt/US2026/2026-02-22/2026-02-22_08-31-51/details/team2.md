@@ -170,8 +170,8 @@
 | 162 | 1048 | PsychKIRAtrist |
 | 163 | 1047 | Amy Sayers |
 | 164 | 1045 | Lourisha |
-| 165 | 1043 | Suki Kaur |
-| 166 | 1043 | Brave Dropmatch |
+| 165 | 1043 | Brave Dropmatch |
+| 166 | 1043 | Suki Kaur |
 | 167 | 1035 | Sarah Freitas |
 | 168 | 1026 | Heather Westrum |
 | 169 | 1023 | Brainy Smurf |
@@ -319,8 +319,8 @@
 | 311 | 640 | BYM4L |
 | 312 | 639 | Crystie Hicks |
 | 313 | 639 | Rebecca Miller |
-| 314 | 635 | Diana Fitzwater |
-| 315 | 635 | tejas25 |
+| 314 | 635 | tejas25 |
+| 315 | 635 | Diana Fitzwater |
 | 316 | 631 | Marie Walker |
 | 317 | 629 | Sleepypanda67 |
 | 318 | 627 | Allan Wayne Lamia |
@@ -424,15 +424,15 @@
 | 416 | 487 | Maya June |
 | 417 | 487 | MrsCandyfine As Wine Truss |
 | 418 | 486 | Caitlin Schmid |
-| 419 | 485 | Dapper Dasher |
-| 420 | 485 | Ann Matzkanin |
+| 419 | 485 | Ann Matzkanin |
+| 420 | 485 | Dapper Dasher |
 | 421 | 485 | Mamachelle Eisweirth |
 | 422 | 484 | Brenna Ann |
 | 423 | 483 | Victor Obiakarije |
 | 424 | 483 | Alezandra Smith |
 | 425 | 482 | Amélie Cadieux |
-| 426 | 482 | Eckoman518 |
-| 427 | 482 | Drwatson187 |
+| 426 | 482 | Drwatson187 |
+| 427 | 482 | Eckoman518 |
 | 428 | 482 | Ben Barkley |
 | 429 | 481 | KhaosLord |
 | 430 | 481 | Klee |
@@ -470,8 +470,8 @@
 | 462 | 451 | Cody Nishimura |
 | 463 | 451 | Dylan Thomason |
 | 464 | 450 | Cheery Matchzone |
-| 465 | 447 | Jessica S Flecha |
-| 466 | 447 | Brandy Andre |
+| 465 | 447 | Brandy Andre |
+| 466 | 447 | Jessica S Flecha |
 | 467 | 447 | Heather Schelkopf |
 | 468 | 446 | Snippy Rumbler |
 | 469 | 445 | Mar Q Thomas |
@@ -479,8 +479,8 @@
 | 471 | 444 | Chab |
 | 472 | 442 | Leah |
 | 473 | 441 | Christina Wsn |
-| 474 | 440 | Sarah Berger |
-| 475 | 440 | Liberty |
+| 474 | 440 | Liberty |
+| 475 | 440 | Sarah Berger |
 | 476 | 438 | Johnny Yeates |
 | 477 | 437 | Bubbly Snapfit |
 | 478 | 436 | Brenda Pierpoint |

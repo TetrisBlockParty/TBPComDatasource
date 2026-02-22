@@ -120,8 +120,8 @@
 | 112 | 506 | Sashay Tapae Simpson |
 | 113 | 502 | Justin Ritter |
 | 114 | 502 | Elissa S-k |
-| 115 | 500 | Kristie |
-| 116 | 500 | Domo Washington |
+| 115 | 500 | Domo Washington |
+| 116 | 500 | Kristie |
 | 117 | 497 | Mykal Burton |
 | 118 | 492 | Daira Largen |
 | 119 | 491 | Chauntee Alfrey-Cardinale |
@@ -201,8 +201,8 @@
 | 193 | 311 | Stephanie Burtin |
 | 194 | 311 | Araceli Parra |
 | 195 | 310 | Danielle Balcom |
-| 196 | 308 | Rania Zaqout |
-| 197 | 308 | Daryn Elliott |
+| 196 | 308 | Daryn Elliott |
+| 197 | 308 | Rania Zaqout |
 | 198 | 307 | rnr junky |
 | 199 | 307 | Blocked |
 | 200 | 302 | Rebecca Bailey |
@@ -212,8 +212,8 @@
 | 204 | 296 | Ammmmmmy |
 | 205 | 296 | Katrina Turner |
 | 206 | 296 | Brandon Givens |
-| 207 | 295 | RickyG |
-| 208 | 295 | Marci Mize Fandrich |
+| 207 | 295 | Marci Mize Fandrich |
+| 208 | 295 | RickyG |
 | 209 | 291 | Kristal C Lee |
 | 210 | 289 | DidIdothat |
 | 211 | 289 | Duane Bright |
@@ -241,8 +241,8 @@
 | 233 | 263 | Angeline Joseph |
 | 234 | 262 | Joe-Maggie Mathews |
 | 235 | 261 | Tiffany Ford |
-| 236 | 261 | Marquita Sheard |
-| 237 | 261 | Tasha Wesson-Torrence |
+| 236 | 261 | Tasha Wesson-Torrence |
+| 237 | 261 | Marquita Sheard |
 | 238 | 260 | Grams |
 | 239 | 259 | Danielle Weikel |
 | 240 | 258 | Tamara Deherrera |
@@ -272,21 +272,21 @@
 | 264 | 225 | Cozy Snaplink |
 | 265 | 225 | Dirtgirl27 |
 | 266 | 221 | Vaners |
-| 267 | 221 | Alice |
-| 268 | 221 | Jaime Monhaut-Reed |
+| 267 | 221 | Jaime Monhaut-Reed |
+| 268 | 221 | Alice |
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
-| 272 | 216 | Twisty Brick LT |
-| 273 | 216 | Cheryl Hinch Tenbrook |
+| 272 | 216 | Cheryl Hinch Tenbrook |
+| 273 | 216 | Twisty Brick LT |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
 | 275 | 214 | Rebel124 |
 | 276 | 214 | Amy Fuller Heaton |
 | 277 | 214 | Angela Scott |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | Velma Mull |
-| 281 | 211 | El Chapa |
+| 280 | 211 | El Chapa |
+| 281 | 211 | Velma Mull |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
