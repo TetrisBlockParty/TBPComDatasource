@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -157,8 +157,8 @@
 | 149 | 479 | Patti Skiles |
 | 150 | 479 | Annie Marie |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Nora Rogers |
-| 153 | 471 | Mendoza Lee Christy |
+| 152 | 471 | Mendoza Lee Christy |
+| 153 | 471 | Nora Rogers |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -281,16 +281,16 @@
 | 273 | 276 | Crimson |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
-| 276 | 272 | Tasha Wesson-Torrence |
-| 277 | 272 | fraulila |
+| 276 | 272 | fraulila |
+| 277 | 272 | Tasha Wesson-Torrence |
 | 278 | 271 | Grego Daniel |
 | 279 | 271 | Cass Mendoza |
 | 280 | 271 | Alexmac |
 | 281 | 269 | Micayah Stevens |
 | 282 | 268 | Krystal Gerstberger |
-| 283 | 267 | Tiffany Davie |
-| 284 | 267 | Nikki Pags |
-| 285 | 267 | April Matthew Kibble |
+| 283 | 267 | Nikki Pags |
+| 284 | 267 | April Matthew Kibble |
+| 285 | 267 | Tiffany Davie |
 | 286 | 267 | Aerian Preston |
 | 287 | 266 | Quirky Dropzone |
 | 288 | 263 | Brenda Schmid Wood |
@@ -319,8 +319,8 @@
 | 311 | 240 | Desiree Gold |
 | 312 | 240 | Eric Caccavale |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
@@ -330,8 +330,8 @@
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Wettnippz |
-| 326 | 227 | Meowsa |
+| 325 | 227 | Meowsa |
+| 326 | 227 | Wettnippz |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Steffi Chris Dacones |
 | 329 | 225 | Stephanie Hill |
@@ -383,9 +383,9 @@
 | 375 | 204 | Cesar Barraza |
 | 376 | 204 | Frilly Stackzone |
 | 377 | 204 | Samantha Worley |
-| 378 | 203 | Loopy Fallzone |
-| 379 | 203 | DanceLuvLaugh |
-| 380 | 203 | Angella Lyons |
+| 378 | 203 | Angella Lyons |
+| 379 | 203 | Loopy Fallzone |
+| 380 | 203 | DanceLuvLaugh |
 | 381 | 202 | Tipsy Zonebuilder |
 | 382 | 202 | Melanie Sherwood |
 | 383 | 201 | Hyper Matchzone |

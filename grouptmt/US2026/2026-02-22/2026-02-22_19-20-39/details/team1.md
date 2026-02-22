@@ -54,8 +54,8 @@
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Kristen Roles Robben |
-| 50 | 760 | Lawrence Belanger |
+| 49 | 760 | Lawrence Belanger |
+| 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |
@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -119,19 +119,19 @@
 | 111 | 380 | Erin Hodges Plumb |
 | 112 | 380 | Dee Perry |
 | 113 | 380 | Maria C. Hernandez |
-| 114 | 379 | Kimmie Kimms |
-| 115 | 379 | Austin James |
+| 114 | 379 | Austin James |
+| 115 | 379 | Kimmie Kimms |
 | 116 | 376 | lil mickey |
 | 117 | 376 | Brian Richardsson |
 | 118 | 370 | Jason Jones |
 | 119 | 370 | Dandy Basegrid |
 | 120 | 367 | Ly Phethmany |
-| 121 | 366 | Ty Brown |
-| 122 | 366 | David Miller |
+| 121 | 366 | David Miller |
+| 122 | 366 | Ty Brown |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
-| 125 | 360 | Wisa |
-| 126 | 360 | phrmblk24 |
+| 125 | 360 | phrmblk24 |
+| 126 | 360 | Wisa |
 | 127 | 359 | Chirpy Smasher |
 | 128 | 358 | Sweet Baker |
 | 129 | 357 | Amanda Johnson Huffman |
@@ -165,8 +165,8 @@
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 297 | Danielle Little-Daugherty |
 | 159 | 296 | Madison Wicks |
-| 160 | 293 | Letson Melissa |
-| 161 | 293 | Sarah Roberts |
+| 160 | 293 | Sarah Roberts |
+| 161 | 293 | Letson Melissa |
 | 162 | 292 | David Lutcher |
 | 163 | 285 | ALFD |
 | 164 | 284 | Emily Adelaide Wheatley |
@@ -220,12 +220,12 @@
 | 212 | 233 | LC |
 | 213 | 231 | Sarah Somers Gray |
 | 214 | 230 | BigWeenie69 |
-| 215 | 228 | Giddy Cascade |
-| 216 | 228 | Cheeky Pop |
+| 215 | 228 | Cheeky Pop |
+| 216 | 228 | Giddy Cascade |
 | 217 | 227 | Cody Gates |
 | 218 | 226 | Michael |
-| 219 | 225 | Bindi |
-| 220 | 225 | Jessie Lynn |
+| 219 | 225 | Jessie Lynn |
+| 220 | 225 | Bindi |
 | 221 | 224 | ParisandCory Champagne |
 | 222 | 223 | Basment Living |
 | 223 | 223 | Erez Yosef |

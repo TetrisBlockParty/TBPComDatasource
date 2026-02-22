@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -517,8 +517,8 @@
 | 509 | 496 | Erika Densmore |
 | 510 | 495 | Bubbly Snapbuild |
 | 511 | 494 | Venita Ray |
-| 512 | 493 | Sarah DeHart |
-| 513 | 493 | Sue Leard |
+| 512 | 493 | Sue Leard |
+| 513 | 493 | Sarah DeHart |
 | 514 | 492 | Breezy Clusterer |
 | 515 | 492 | Armonie Smith |
 | 516 | 492 | Maya June |
