@@ -373,8 +373,8 @@
 | 365 | 643 | Hoppy Brickmatch |
 | 366 | 642 | Cassie Maynard |
 | 367 | 641 | Vonceial Boone |
-| 368 | 640 | Kara Gillen |
-| 369 | 640 | BYM4L |
+| 368 | 640 | BYM4L |
+| 369 | 640 | Kara Gillen |
 | 370 | 639 | Crystie Hicks |
 | 371 | 639 | Rebecca Miller |
 | 372 | 634 | Gary Stash |
@@ -2540,7 +2540,7 @@
 | 2532 | 110 | Brian Russell |
 | 2533 | 110 | butterfly 29 |
 | 2534 | 110 | Nutty Match |
-| 2535 | 110 | Paul Antic |
+| 2535 | 110 | ChefAngg |
 | 2536 | 110 | Chris Hobs |
 | 2537 | 110 | Jodie Sagmiller Gouge |
 | 2538 | 110 | Paul Antic |

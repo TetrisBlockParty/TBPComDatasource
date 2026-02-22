@@ -189,8 +189,8 @@
 | 181 | 397 | Annie Déè |
 | 182 | 393 | Fallorina Susana |
 | 183 | 391 | Sarah Cowan Burgos |
-| 184 | 391 | Araceli Parra |
-| 185 | 391 | Calista Jo Dickson |
+| 184 | 391 | Calista Jo Dickson |
+| 185 | 391 | Araceli Parra |
 | 186 | 391 | Dapper Snap |
 | 187 | 390 | Chasity |
 | 188 | 390 | Shunta Jacobs |
@@ -277,8 +277,8 @@
 | 269 | 271 | Cass Mendoza |
 | 270 | 271 | Alexmac |
 | 271 | 268 | Krystal Gerstberger |
-| 272 | 267 | Tiffany Davie |
-| 273 | 267 | April Matthew Kibble |
+| 272 | 267 | April Matthew Kibble |
+| 273 | 267 | Tiffany Davie |
 | 274 | 266 | Snappy Balancer |
 | 275 | 266 | Quirky Dropzone |
 | 276 | 265 | Nikki Pags |
@@ -311,8 +311,8 @@
 | 303 | 236 | Lys |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kiki |
-| 307 | 231 | Kevin Russell |
+| 306 | 231 | Kevin Russell |
+| 307 | 231 | Kiki |
 | 308 | 230 | BigE |
 | 309 | 228 | Naur |
 | 310 | 227 | Rebel124 |
@@ -365,8 +365,8 @@
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
 | 359 | 203 | DanceLuvLaugh |
-| 360 | 202 | Melanie Sherwood |
-| 361 | 202 | Tipsy Zonebuilder |
+| 360 | 202 | Tipsy Zonebuilder |
+| 361 | 202 | Melanie Sherwood |
 | 362 | 201 | Hyper Matchzone |
 | 363 | 200 | Colleen Phelps |
 | 364 | 200 | Sharisse Baltimore |

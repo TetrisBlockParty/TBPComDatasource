@@ -213,10 +213,10 @@
 | 205 | 225 | Perky Patternblock |
 | 206 | 222 | blockstar |
 | 207 | 221 | Kim Klutz Olson |
-| 208 | 221 | Rheanda Weaskus |
-| 209 | 221 | PurpleMoonMa |
-| 210 | 219 | Malakai Darien Fox |
-| 211 | 219 | JPW |
+| 208 | 221 | PurpleMoonMa |
+| 209 | 221 | Rheanda Weaskus |
+| 210 | 219 | JPW |
+| 211 | 219 | Malakai Darien Fox |
 | 212 | 217 | Kim Hunt |
 | 213 | 216 | Cristy Duerksen |
 | 214 | 216 | ZeeZee |
@@ -352,9 +352,9 @@
 | 344 | 141 | Heather Bruce |
 | 345 | 140 | Rico |
 | 346 | 140 | Joshua W. Benton |
-| 347 | 139 | O block |
+| 347 | 139 | Lori Goudy |
 | 348 | 139 | Ann G. Carrillo |
-| 349 | 139 | Lori Goudy |
+| 349 | 139 | O block |
 | 350 | 138 | Ashlee Carnes |
 | 351 | 138 | Jasmine S Caldwell |
 | 352 | 138 | Moonsterix |
@@ -407,8 +407,8 @@
 | 399 | 122 | Spicy Cascadezone |
 | 400 | 122 | PennyCandee |
 | 401 | 122 | Kate |
-| 402 | 121 | Riverdale |
-| 403 | 121 | Cool Gridzone |
+| 402 | 121 | Cool Gridzone |
+| 403 | 121 | Riverdale |
 | 404 | 120 | wombat |
 | 405 | 120 | Bryan Hodgins |
 | 406 | 120 | Jay You |
@@ -458,7 +458,7 @@
 | 450 | 109 | Verna Neal |
 | 451 | 108 | mike |
 | 452 | 108 | Bigeddie |
-| 453 | 108 | mike |
+| 453 | 108 | Ali Ian |
 | 454 | 108 | Walter Beltran |
 | 455 | 108 | Hasty Fitzone |
 | 456 | 107 | Brandi Durig |
