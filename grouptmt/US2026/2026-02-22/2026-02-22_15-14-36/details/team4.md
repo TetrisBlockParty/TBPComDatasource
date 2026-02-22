@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Shannon Ferrari |
-| 93 | 447 | Samantha Peterson |
+| 92 | 447 | Samantha Peterson |
+| 93 | 447 | Shannon Ferrari |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Lindsay Ball |
-| 147 | 281 | Meagan Nicole |
+| 146 | 281 | Meagan Nicole |
+| 147 | 281 | Lindsay Ball |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -257,8 +257,8 @@
 | 249 | 179 | AyeKay |
 | 250 | 175 | Lorena Guerrero-Barron |
 | 251 | 172 | Ziggy |
-| 252 | 171 | Autumn Kumzi |
-| 253 | 171 | June Hoffman |
+| 252 | 171 | June Hoffman |
+| 253 | 171 | Autumn Kumzi |
 | 254 | 168 | 23 |
 | 255 | 167 | Cozy Balancer |
 | 256 | 166 | Jenny Wells-Oakley |
@@ -284,8 +284,8 @@
 | 276 | 156 | Terrance Fung |
 | 277 | 154 | Zany Shatterer |
 | 278 | 153 | KimoKoala |
-| 279 | 153 | Empress Oasis |
-| 280 | 153 | Lush Linkfall |
+| 279 | 153 | Lush Linkfall |
+| 280 | 153 | Empress Oasis |
 | 281 | 152 | Faja |
 | 282 | 152 | Angela Geist Jusinski |
 | 283 | 151 | Shanon Klair |

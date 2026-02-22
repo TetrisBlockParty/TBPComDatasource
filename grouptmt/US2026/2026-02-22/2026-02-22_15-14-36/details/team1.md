@@ -131,8 +131,8 @@
 | 123 | 321 | Maria C. Hernandez |
 | 124 | 321 | Tanya Carpenter-Reynolds |
 | 125 | 318 | Jessica Sheehan |
-| 126 | 316 | Ly Phethmany |
-| 127 | 316 | Dizzy Party |
+| 126 | 316 | Dizzy Party |
+| 127 | 316 | Ly Phethmany |
 | 128 | 313 | Virginia Gray Floyd |
 | 129 | 310 | Seth Wesson |
 | 130 | 308 | Sharon Reynolds |

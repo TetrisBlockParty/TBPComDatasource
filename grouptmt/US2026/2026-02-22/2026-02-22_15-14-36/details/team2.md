@@ -186,8 +186,8 @@
 | 178 | 1062 | Crystal Slaughter |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Suki Kaur |
-| 182 | 1043 | Brave Dropmatch |
+| 181 | 1043 | Brave Dropmatch |
+| 182 | 1043 | Suki Kaur |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -224,8 +224,8 @@
 | 216 | 919 | Isaac Trappiel IV |
 | 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
-| 219 | 915 | Angela Bonquiqui Dinish |
-| 220 | 915 | Robin Kerby |
+| 219 | 915 | Robin Kerby |
+| 220 | 915 | Angela Bonquiqui Dinish |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -378,13 +378,13 @@
 | 370 | 606 | Brittney Jean |
 | 371 | 603 | Cassie Maynard |
 | 372 | 602 | KhaosLord |
-| 373 | 602 | Biggest thing |
-| 374 | 602 | Christine Bollig |
+| 373 | 602 | Christine Bollig |
+| 374 | 602 | Biggest thing |
 | 375 | 601 | Vonceial Boone |
 | 376 | 597 | Steven Marshaun |
 | 377 | 591 | AgileDragon |
-| 378 | 589 | Shavonna Haynes |
-| 379 | 589 | Thomas Hedrick |
+| 378 | 589 | Thomas Hedrick |
+| 379 | 589 | Shavonna Haynes |
 | 380 | 586 | Heather Schelkopf |
 | 381 | 586 | Nicole Cannon |
 | 382 | 584 | Kimberly Randesi |

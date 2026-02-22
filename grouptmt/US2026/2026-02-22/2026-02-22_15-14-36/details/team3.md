@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 438 | Valerie Gendron |
 | 150 | 434 | Logan Naccarato |
@@ -322,15 +322,15 @@
 | 314 | 211 | Khaleada McGill Banks |
 | 315 | 210 | Criss |
 | 316 | 209 | Micayah Stevens |
-| 317 | 208 | AlsoJess |
-| 318 | 208 | Niki Dalrymple |
+| 317 | 208 | Niki Dalrymple |
+| 318 | 208 | AlsoJess |
 | 319 | 207 | angieelyn |
-| 320 | 207 | Jessica |
-| 321 | 207 | Daring Builder |
+| 320 | 207 | Daring Builder |
+| 321 | 207 | Jessica |
 | 322 | 206 | Tracy Martin |
 | 323 | 206 | Tammy Rosenberry |
-| 324 | 205 | Rachel Napper |
-| 325 | 205 | April Matthew Kibble |
+| 324 | 205 | April Matthew Kibble |
+| 325 | 205 | Rachel Napper |
 | 326 | 205 | Kirhonda Autmon |
 | 327 | 204 | Aerian Preston |
 | 328 | 203 | Romeo |
@@ -399,8 +399,8 @@
 | 391 | 167 | Shicken Nuggit |
 | 392 | 167 | Irene Arreguin |
 | 393 | 166 | Joshua David Huie |
-| 394 | 166 | Snarky McFace |
-| 395 | 166 | Rashad Green |
+| 394 | 166 | Rashad Green |
+| 395 | 166 | Snarky McFace |
 | 396 | 165 | Kali Kelz Williams |
 | 397 | 164 | TazB |
 | 398 | 164 | momo |
@@ -740,7 +740,7 @@
 | 732 | 93 | Samantha Long |
 | 733 | 93 | Lazy Matchfit |
 | 734 | 92 | Cary M. Fong |
-| 735 | 92 | Cranky Fitzone |
+| 735 | 92 | Jackie-Lynne Goertzen |
 | 736 | 92 | Jennifer Caputo |
 | 737 | 92 | Cranky Fitzone |
 | 738 | 92 | Kaycee Kay |
