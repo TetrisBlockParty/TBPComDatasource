@@ -224,8 +224,8 @@
 | 216 | 919 | Isaac Trappiel IV |
 | 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
-| 219 | 915 | Angela Bonquiqui Dinish |
-| 220 | 915 | Robin Kerby |
+| 219 | 915 | Robin Kerby |
+| 220 | 915 | Angela Bonquiqui Dinish |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -272,8 +272,8 @@
 | 264 | 778 | Desire Rice |
 | 265 | 778 | Mischelle Clay |
 | 266 | 777 | Samantha Jo |
-| 267 | 777 | Tesha Oldaker |
-| 268 | 777 | Jessicah Myers |
+| 267 | 777 | Jessicah Myers |
+| 268 | 777 | Tesha Oldaker |
 | 269 | 772 | William Hunt |
 | 270 | 772 | Sam Joe |
 | 271 | 771 | Terri McKelvey McKinley |
@@ -341,15 +341,15 @@
 | 333 | 665 | Leslie Ann Carter |
 | 334 | 665 | Prette Qui |
 | 335 | 664 | Sleepypanda67 |
-| 336 | 663 | Ashle Scranton |
-| 337 | 663 | Mandi Douglas Hilt |
+| 336 | 663 | Mandi Douglas Hilt |
+| 337 | 663 | Ashle Scranton |
 | 338 | 662 | Melissa Rebbe-Lehman |
-| 339 | 661 | goofinoff |
-| 340 | 661 | BeQuo |
+| 339 | 661 | BeQuo |
+| 340 | 661 | goofinoff |
 | 341 | 659 | Draizen Montrell Thomas |
 | 342 | 651 | Unica Rector |
-| 343 | 650 | tejas25 |
-| 344 | 650 | Shiny Rollzone |
+| 343 | 650 | Shiny Rollzone |
+| 344 | 650 | tejas25 |
 | 345 | 643 | Hoppy Brickmatch |
 | 346 | 640 | BYM4L |
 | 347 | 640 | Kara Gillen |
@@ -378,8 +378,8 @@
 | 370 | 602 | Christine Bollig |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
-| 373 | 589 | Thomas Hedrick |
-| 374 | 589 | Shavonna Haynes |
+| 373 | 589 | Shavonna Haynes |
+| 374 | 589 | Thomas Hedrick |
 | 375 | 586 | Heather Schelkopf |
 | 376 | 585 | Taryece Gause |
 | 377 | 584 | Kimberly Randesi |
@@ -671,8 +671,8 @@
 | 663 | 363 | Stephanie Fortune |
 | 664 | 363 | Veronica Stevenson |
 | 665 | 362 | Heather Johnson |
-| 666 | 362 | Janai Vrabel |
-| 667 | 362 | Snappy Matchbuilder |
+| 666 | 362 | Snappy Matchbuilder |
+| 667 | 362 | Janai Vrabel |
 | 668 | 362 | Veronics |
 | 669 | 361 | Lewis Sturgeon |
 | 670 | 361 | Michelle Shrum |
@@ -693,10 +693,10 @@
 | 685 | 350 | Chris Harr |
 | 686 | 350 | Maria Hammett |
 | 687 | 350 | Kyla Louise |
-| 688 | 348 | Mike73 |
-| 689 | 348 | Kelly Meredeith |
-| 690 | 348 | Peppy Snapfall |
-| 691 | 348 | Richard Horton |
+| 688 | 348 | Kelly Meredeith |
+| 689 | 348 | Mike73 |
+| 690 | 348 | Richard Horton |
+| 691 | 348 | Peppy Snapfall |
 | 692 | 347 | CC |
 | 693 | 347 | Zesty Pivot |
 | 694 | 346 | Danielle Ayoub |
@@ -704,10 +704,10 @@
 | 696 | 345 | Rhianna DiLorenzo |
 | 697 | 345 | Gina Caulder |
 | 698 | 344 | Glenn Cobbins |
-| 699 | 343 | Janitta Alvarez |
-| 700 | 343 | Cris cris |
-| 701 | 342 | Quirky Twistline |
-| 702 | 342 | Danielle DeLozier Plesec |
+| 699 | 343 | Cris cris |
+| 700 | 343 | Janitta Alvarez |
+| 701 | 342 | Danielle DeLozier Plesec |
+| 702 | 342 | Quirky Twistline |
 | 703 | 341 | Daniel Amos |
 | 704 | 341 | Shorty |
 | 705 | 339 | Jenn Marie |

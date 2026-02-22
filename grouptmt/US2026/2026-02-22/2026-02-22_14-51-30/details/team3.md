@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -245,8 +245,8 @@
 | 237 | 281 | Carrie Huskey |
 | 238 | 279 | Brittany |
 | 239 | 279 | Terry Jo Jones |
-| 240 | 278 | Rufus Lincoln |
-| 241 | 278 | Sabrina Hardrick |
+| 240 | 278 | Sabrina Hardrick |
+| 241 | 278 | Rufus Lincoln |
 | 242 | 276 | _melisa223_ |
 | 243 | 276 | Crimson |
 | 244 | 275 | Eon Harris |
@@ -457,8 +457,8 @@
 | 449 | 146 | Sara Dunn |
 | 450 | 146 | Sarah Whalen |
 | 451 | 145 | Eboni Starr |
-| 452 | 144 | Blair Erin Waite |
-| 453 | 144 | Amber Groover Taylor |
+| 452 | 144 | Amber Groover Taylor |
+| 453 | 144 | Blair Erin Waite |
 | 454 | 144 | Crystal Hine |
 | 455 | 144 | Samantha Worley |
 | 456 | 143 | Tracey Cox |
