@@ -187,8 +187,8 @@
 | 179 | 1192 | Denisha Dawkins |
 | 180 | 1190 | Debra Williams |
 | 181 | 1177 | Joyce Johnson Vaughn |
-| 182 | 1174 | Jennifer Casey-Kay |
-| 183 | 1174 | Poppy Snap |
+| 182 | 1174 | Poppy Snap |
+| 183 | 1174 | Jennifer Casey-Kay |
 | 184 | 1171 | Marie Boyd Faulk |
 | 185 | 1169 | Pacynthia Williams |
 | 186 | 1169 | Tonya Morgan |
@@ -248,8 +248,8 @@
 | 240 | 972 | Juliana Marques Do Nascimento Gordy |
 | 241 | 972 | Della Hole |
 | 242 | 965 | Maria Escobar |
-| 243 | 957 | Keri Womack |
-| 244 | 957 | Block Master |
+| 243 | 957 | Block Master |
+| 244 | 957 | Keri Womack |
 | 245 | 957 | Crystal Hoffman |
 | 246 | 955 | Angela Bonquiqui Dinish |
 | 247 | 951 | Cynthia Ward |
@@ -284,8 +284,8 @@
 | 276 | 881 | SaraMarie Eveland |
 | 277 | 880 | Sam Joe |
 | 278 | 878 | Missie Lawson Gebhardt |
-| 279 | 875 | Jamie Otero |
-| 280 | 875 | William Hunt |
+| 279 | 875 | William Hunt |
+| 280 | 875 | Jamie Otero |
 | 281 | 874 | Giggy Blocker |
 | 282 | 873 | Angel |
 | 283 | 872 | Felicia Lynn |

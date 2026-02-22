@@ -231,8 +231,8 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Rebecca Funderburk Kirby |
-| 227 | 351 | Eon Harris |
+| 226 | 351 | Eon Harris |
+| 227 | 351 | Rebecca Funderburk Kirby |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
@@ -255,8 +255,8 @@
 | 247 | 326 | Dee Franklin |
 | 248 | 324 | Sissy Lowery Davis |
 | 249 | 321 | Rebecca Bailey |
-| 250 | 320 | Or Reznitsky |
-| 251 | 320 | Ashley Muncey |
+| 250 | 320 | Ashley Muncey |
+| 251 | 320 | Or Reznitsky |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
 | 254 | 312 | Christian Werndl |
@@ -284,8 +284,8 @@
 | 276 | 293 | Tye Stovall |
 | 277 | 292 | Cheeky Snapper |
 | 278 | 291 | Carrie Huskey |
-| 279 | 289 | DidIdothat |
-| 280 | 289 | Duane Bright |
+| 279 | 289 | Duane Bright |
+| 280 | 289 | DidIdothat |
 | 281 | 288 | Connie Mohler-Fair |
 | 282 | 287 | Sabrina Hardrick |
 | 283 | 283 | Heather Green |

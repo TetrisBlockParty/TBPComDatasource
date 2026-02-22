@@ -134,9 +134,9 @@
 | 126 | 400 | Trista Leah |
 | 127 | 400 | Ericca Eldridge |
 | 128 | 393 | Carlton Unfiltered |
-| 129 | 391 | Ramel Rhodes |
+| 129 | 391 | Lush Linkfall |
 | 130 | 391 | Austin Owens |
-| 131 | 391 | Lush Linkfall |
+| 131 | 391 | Ramel Rhodes |
 | 132 | 378 | Lucas J Sutton |
 | 133 | 377 | Jessica Bohlken |
 | 134 | 377 | Carrie Brian |
@@ -279,8 +279,8 @@
 | 271 | 195 | 中山成巳 |
 | 272 | 194 | Zany Twisterfit |
 | 273 | 193 | Stephme310 |
-| 274 | 192 | Stella |
-| 275 | 192 | Andrew Dang |
+| 274 | 192 | Andrew Dang |
+| 275 | 192 | Stella |
 | 276 | 191 | Earnest Thompson |
 | 277 | 189 | 030Synner |
 | 278 | 187 | Nita Wells |
@@ -548,10 +548,10 @@
 | 540 | 101 | Hoppy Clearer |
 | 541 | 101 | Brittany Little |
 | 542 | 100 | Tianna Frey |
-| 543 | 99 | Heather Layne Smith |
-| 544 | 99 | Caitlyn Brown |
-| 545 | 99 | Dapper Caster |
-| 546 | 99 | Martha Lucinda Bishop |
+| 543 | 99 | Martha Lucinda Bishop |
+| 544 | 99 | Heather Layne Smith |
+| 545 | 99 | Caitlyn Brown |
+| 546 | 99 | Dapper Caster |
 | 547 | 98 | Brenda Bird |
 | 548 | 98 | Carla Harris |
 | 549 | 97 | Flavoredsausage |
