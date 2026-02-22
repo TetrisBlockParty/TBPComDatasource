@@ -249,8 +249,8 @@
 | 241 | 213 | Angela Geist Jusinski |
 | 242 | 212 | Mike Solo |
 | 243 | 211 | Jenna McGeorge |
-| 244 | 210 | Dihcheese444 |
-| 245 | 210 | Adam Stephanie Parker |
+| 244 | 210 | Adam Stephanie Parker |
+| 245 | 210 | Dihcheese444 |
 | 246 | 209 | Ak Jones |
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
@@ -288,10 +288,10 @@
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
-| 283 | 174 | BigSammy420 |
-| 284 | 174 | Shane Vick |
-| 285 | 171 | Autumn Kumzi |
-| 286 | 171 | June Hoffman |
+| 283 | 174 | Shane Vick |
+| 284 | 174 | BigSammy420 |
+| 285 | 171 | June Hoffman |
+| 286 | 171 | Autumn Kumzi |
 | 287 | 170 | Cynthia Boudreau |
 | 288 | 170 | Elie Pean |
 | 289 | 169 | Jessica Atkinson |
@@ -337,7 +337,7 @@
 | 329 | 152 | Jared Gutwein |
 | 330 | 152 | Cheery Fitline |
 | 331 | 152 | Faja |
-| 332 | 151 | Joseph Pace |
+| 332 | 151 | Sarah Hoffman |
 | 333 | 151 | Nick Gray |
 | 334 | 151 | Shanon Klair |
 | 335 | 151 | Joseph Pace |
@@ -366,9 +366,9 @@
 | 358 | 145 | Sandra Safford |
 | 359 | 145 | Sallie Sanborn |
 | 360 | 144 | Squeezy Pearsall |
-| 361 | 143 | Asher |
+| 361 | 143 | Metsfan |
 | 362 | 143 | Daresha Fair |
-| 363 | 143 | Metsfan |
+| 363 | 143 | Asher |
 | 364 | 142 | Chantilly Laace |
 | 365 | 142 | Alexandra Karavias |
 | 366 | 142 | Katie Alexander |
@@ -497,15 +497,15 @@
 | 489 | 106 | Globofish |
 | 490 | 106 | Jacob Richard |
 | 491 | 106 | Zappy Snaplink |
-| 492 | 106 | Happy Combo |
+| 492 | 106 | Lynn Marie |
 | 493 | 106 | Jessica Wells |
 | 494 | 105 | MoP11 |
-| 495 | 105 | Lakesha Johnson |
-| 496 | 105 | Undeniable Williams |
-| 497 | 105 | meowmew |
-| 498 | 104 | Kametsunoyaiba |
+| 495 | 105 | Undeniable Williams |
+| 496 | 105 | meowmew |
+| 497 | 105 | Lakesha Johnson |
+| 498 | 104 | Marcus TheeyoungWoe Gilmore |
 | 499 | 104 | Amy Jean |
-| 500 | 104 | Marcus TheeyoungWoe Gilmore |
+| 500 | 104 | Kametsunoyaiba |
 | 501 | 104 | Melissa VanBourgondien |
 | 502 | 104 | Jessica Johnston |
 | 503 | 103 | Mary Miller |

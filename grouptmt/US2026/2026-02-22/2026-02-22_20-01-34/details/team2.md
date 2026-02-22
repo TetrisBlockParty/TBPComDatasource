@@ -275,8 +275,8 @@
 | 267 | 875 | Jamie Otero |
 | 268 | 874 | Giggy Blocker |
 | 269 | 872 | Felicia Lynn |
-| 270 | 867 | Peppy Zone |
-| 271 | 867 | Michele Gabriel |
+| 270 | 867 | Michele Gabriel |
+| 271 | 867 | Peppy Zone |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
 | 274 | 860 | April Dawn Gussler |
@@ -364,8 +364,8 @@
 | 356 | 697 | Ashle Scranton |
 | 357 | 697 | Dreamy Blast |
 | 358 | 695 | Mama T |
-| 359 | 695 | Lakeysha Dortch |
-| 360 | 695 | Dannette Goldberg-Richards |
+| 359 | 695 | Dannette Goldberg-Richards |
+| 360 | 695 | Lakeysha Dortch |
 | 361 | 691 | Joce Lynn |
 | 362 | 690 | Draizen Montrell Thomas |
 | 363 | 688 | ShinyRose |

@@ -46,8 +46,8 @@
 | 38 | 1410 | Jennifer Willis |
 | 39 | 1402 | cowboy25469 |
 | 40 | 1394 | Ashley Jones |
-| 41 | 1369 | Tetris Master |
-| 42 | 1369 | mjl574 |
+| 41 | 1369 | mjl574 |
+| 42 | 1369 | Tetris Master |
 | 43 | 1361 | Kay |
 | 44 | 1358 | Raven Dudley |
 | 45 | 1313 | Delilah belle |
@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Shavette |
-| 115 | 625 | Amber Hughes |
+| 114 | 625 | Amber Hughes |
+| 115 | 625 | Shavette |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Bea Miles |
 | 118 | 618 | Kristie |
@@ -233,8 +233,8 @@
 | 225 | 347 | Trisha Balmer |
 | 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Ashley Tookes |
 | 232 | 341 | Samantha Lynn |
@@ -249,16 +249,16 @@
 | 241 | 323 | Demetrious Shaw Sr. |
 | 242 | 323 | Brittany |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Or Reznitsky |
-| 245 | 320 | Ashley Muncey |
+| 244 | 320 | Ashley Muncey |
+| 245 | 320 | Or Reznitsky |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
 | 249 | 312 | Charles Perrone |
 | 250 | 308 | Cynthia Herrmann Egland |
-| 251 | 307 | rnr junky |
-| 252 | 307 | Blocked |
-| 253 | 307 | Snappy Balancer |
+| 251 | 307 | Blocked |
+| 252 | 307 | Snappy Balancer |
+| 253 | 307 | rnr junky |
 | 254 | 306 | Felicia Rocha |
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
@@ -651,7 +651,7 @@
 | 643 | 123 | Brittany Shantea Maynard |
 | 644 | 122 | Bananna Anna |
 | 645 | 122 | BabyTonj Evans |
-| 646 | 122 | Kristen McAlpine |
+| 646 | 122 | Jodee Brown |
 | 647 | 122 | Christopher Mastropietro |
 | 648 | 122 | Allie Kershner |
 | 649 | 122 | Kristen McAlpine |
