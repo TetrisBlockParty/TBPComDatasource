@@ -183,14 +183,14 @@
 | 175 | 361 | Jamie Lang |
 | 176 | 359 | Dapper Snap |
 | 177 | 358 | Chummy Caster |
-| 178 | 357 | Stephanie Burtin |
-| 179 | 357 | Tom Nault |
+| 178 | 357 | Tom Nault |
+| 179 | 357 | Stephanie Burtin |
 | 180 | 355 | Tessina Dewey-Mancino |
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Jone |
-| 185 | 347 | Nicole Flippo |
+| 184 | 347 | Nicole Flippo |
+| 185 | 347 | Jone |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -246,8 +246,8 @@
 | 238 | 264 | Grego Daniel |
 | 239 | 263 | Brittany |
 | 240 | 262 | Joe-Maggie Mathews |
-| 241 | 261 | Tiffany Ford |
-| 242 | 261 | Tasha Wesson-Torrence |
+| 241 | 261 | Tasha Wesson-Torrence |
+| 242 | 261 | Tiffany Ford |
 | 243 | 261 | Marquita Sheard |
 | 244 | 260 | Grams |
 | 245 | 259 | Sabrina Hardrick |
@@ -305,8 +305,8 @@
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
 | 299 | 207 | angieelyn |
-| 300 | 206 | Stephanie Hill |
-| 301 | 206 | Tammy Rosenberry |
+| 300 | 206 | Tammy Rosenberry |
+| 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tracy Martin |
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
@@ -418,8 +418,8 @@
 | 410 | 146 | Wettnippz |
 | 411 | 146 | Sdot |
 | 412 | 144 | Crystal Hine |
-| 413 | 144 | Tenisha Semidey |
-| 414 | 144 | Blair Erin Waite |
+| 413 | 144 | Blair Erin Waite |
+| 414 | 144 | Tenisha Semidey |
 | 415 | 143 | Deseree Ewing |
 | 416 | 142 | Frothy Snapper |
 | 417 | 142 | Erica Anderson |
@@ -428,7 +428,7 @@
 | 420 | 142 | Jl |
 | 421 | 141 | Reina Roth |
 | 422 | 141 | Bhreagh Gentile |
-| 423 | 141 | Reina Roth |
+| 423 | 141 | Melissa Snyder |
 | 424 | 141 | Weerae |
 | 425 | 140 | Jumpy Curvebuilder |
 | 426 | 140 | Boldy Corner |

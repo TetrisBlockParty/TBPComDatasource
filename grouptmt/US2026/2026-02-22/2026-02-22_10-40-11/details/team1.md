@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 303 | Jennifer Hardman |
@@ -134,16 +134,16 @@
 | 126 | 298 | Chelsea Dahlquist |
 | 127 | 290 | Death |
 | 128 | 285 | Ananda Mendez |
-| 129 | 284 | Emily Adelaide Wheatley |
-| 130 | 284 | Rachael |
+| 129 | 284 | Rachael |
+| 130 | 284 | Emily Adelaide Wheatley |
 | 131 | 283 | Franswa |
 | 132 | 282 | Timothy Dew |
 | 133 | 282 | Cool Shiftsnap |
 | 134 | 282 | Snippy Wipebuilder |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
-| 137 | 270 | Ash Galvan |
-| 138 | 270 | Mandyy Rae |
+| 137 | 270 | Mandyy Rae |
+| 138 | 270 | Ash Galvan |
 | 139 | 268 | GATOR |
 | 140 | 265 | Nutty Spinblock |
 | 141 | 265 | SkipTheSadSauce |
@@ -155,8 +155,8 @@
 | 147 | 256 | David Miller |
 | 148 | 255 | Elaine Elaine |
 | 149 | 254 | Al Smith Jr |
-| 150 | 253 | Witty Builderfit |
-| 151 | 253 | Plucky Fallzone |
+| 150 | 253 | Plucky Fallzone |
+| 151 | 253 | Witty Builderfit |
 | 152 | 252 | Dena Kayy |
 | 153 | 247 | Tana |
 | 154 | 244 | Tyler Werts |
@@ -187,8 +187,8 @@
 | 179 | 209 | Chris K |
 | 180 | 208 | Bouncy Grid |
 | 181 | 208 | Donna Addison Williams |
-| 182 | 207 | Brenda Alexander |
-| 183 | 207 | Leslie Bush Yarbrough |
+| 182 | 207 | Leslie Bush Yarbrough |
+| 183 | 207 | Brenda Alexander |
 | 184 | 206 | BadG52 |
 | 185 | 205 | Snappy Matcher |
 | 186 | 205 | Mike Ames |
@@ -253,8 +253,8 @@
 | 245 | 167 | Nery Martinez |
 | 246 | 167 | Cranky Pattern |
 | 247 | 166 | Carrie Smith |
-| 248 | 165 | Silly Align |
-| 249 | 165 | Nadine Velardo |
+| 248 | 165 | Nadine Velardo |
+| 249 | 165 | Silly Align |
 | 250 | 164 | Desiree Deschaine Havee |
 | 251 | 163 | Sarah Marie |
 | 252 | 163 | Blaire Bruckoff |

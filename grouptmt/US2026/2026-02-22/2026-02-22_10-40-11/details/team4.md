@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -191,10 +191,10 @@
 | 183 | 201 | Melvin Baird |
 | 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
-| 186 | 198 | Ruben Wheeler |
-| 187 | 198 | Keith Kelley |
-| 188 | 196 | Oscar Alberto Perez |
-| 189 | 196 | Lori |
+| 186 | 198 | Keith Kelley |
+| 187 | 198 | Ruben Wheeler |
+| 188 | 196 | Lori |
+| 189 | 196 | Oscar Alberto Perez |
 | 190 | 196 | Mr. Party |
 | 191 | 195 | ZeeZee |
 | 192 | 195 | 中山成巳 |
@@ -218,8 +218,8 @@
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | JPW |
-| 214 | 174 | Rio Rocha |
+| 213 | 174 | Rio Rocha |
+| 214 | 174 | JPW |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -235,8 +235,8 @@
 | 227 | 162 | Joanna |
 | 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Laura Hosford |
-| 231 | 160 | Brittany Marsh |
+| 230 | 160 | Brittany Marsh |
+| 231 | 160 | Laura Hosford |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |
