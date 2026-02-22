@@ -41,8 +41,8 @@
 | 33 | 653 | Lawrence Belanger |
 | 34 | 632 | Susanna Guerry |
 | 35 | 587 | Marianne Louise West |
-| 36 | 585 | Angel Fowler |
-| 37 | 585 | Jennifer Cates |
+| 36 | 585 | Jennifer Cates |
+| 37 | 585 | Angel Fowler |
 | 38 | 570 | Cody Slav |
 | 39 | 550 | Kristen Roles Robben |
 | 40 | 543 | Aaron Garnett |
@@ -78,8 +78,8 @@
 | 70 | 353 | Trina Gee |
 | 71 | 348 | Stef Hu |
 | 72 | 347 | pjbeta |
-| 73 | 338 | Tipsy Strikerpiece |
-| 74 | 338 | Stephanie Zahn |
+| 73 | 338 | Stephanie Zahn |
+| 74 | 338 | Tipsy Strikerpiece |
 | 75 | 333 | Brandi Huntington |
 | 76 | 328 | Gracie |
 | 77 | 328 | Kellie |
@@ -138,8 +138,8 @@
 | 130 | 203 | GATOR |
 | 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
-| 133 | 198 | Shiny Gridmatch |
-| 134 | 198 | Happy Snapbuild |
+| 133 | 198 | Happy Snapbuild |
+| 134 | 198 | Shiny Gridmatch |
 | 135 | 195 | Daring Fitclear |
 | 136 | 194 | Ash Galvan |
 | 137 | 194 | Tyler Werts |
@@ -161,8 +161,8 @@
 | 153 | 180 | BigWeenie69 |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
-| 156 | 177 | Irual Hctrab |
-| 157 | 177 | ParisandCory Champagne |
+| 156 | 177 | ParisandCory Champagne |
+| 157 | 177 | Irual Hctrab |
 | 158 | 175 | John Barron |
 | 159 | 173 | Gabrielle Louise Malloch |
 | 160 | 171 | Greg Premoe |
@@ -172,10 +172,10 @@
 | 164 | 170 | Veronica Eve |
 | 165 | 169 | Abbey Crespo |
 | 166 | 168 | Standia Civil |
-| 167 | 167 | Erin Hodges Plumb |
-| 168 | 167 | Nery Martinez |
-| 169 | 166 | Jessie Lynn |
-| 170 | 166 | Rico Rico |
+| 167 | 167 | Nery Martinez |
+| 168 | 167 | Erin Hodges Plumb |
+| 169 | 166 | Rico Rico |
+| 170 | 166 | Jessie Lynn |
 | 171 | 165 | Nadine Velardo |
 | 172 | 163 | Tyler Whitley |
 | 173 | 162 | Cece Ibarra |

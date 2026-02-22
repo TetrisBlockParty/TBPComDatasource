@@ -206,8 +206,8 @@
 | 198 | 690 | Deborah Miller |
 | 199 | 688 | Dreamy Blast |
 | 200 | 688 | ShinyRose |
-| 201 | 686 | Dannette Goldberg-Richards |
-| 202 | 686 | Ashley Guernsey-Martin |
+| 201 | 686 | Ashley Guernsey-Martin |
+| 202 | 686 | Dannette Goldberg-Richards |
 | 203 | 679 | Gold Rose |
 | 204 | 671 | Pacynthia Williams |
 | 205 | 669 | Melissa Holsinger |
@@ -250,10 +250,10 @@
 | 242 | 596 | Maegan Beaule |
 | 243 | 589 | Thomas Hedrick |
 | 244 | 587 | Hyper Cluster |
-| 245 | 586 | Stephen Stephen |
-| 246 | 586 | Hoppy Brickmatch |
-| 247 | 583 | Jessicah Myers |
-| 248 | 583 | Steve Grotto |
+| 245 | 586 | Hoppy Brickmatch |
+| 246 | 586 | Stephen Stephen |
+| 247 | 583 | Steve Grotto |
+| 248 | 583 | Jessicah Myers |
 | 249 | 582 | Gary Stash |
 | 250 | 580 | Leslie Ann Carter |
 | 251 | 579 | Juliana Marques Do Nascimento Gordy |
@@ -402,8 +402,8 @@
 | 394 | 391 | Chilly Bridgepiece |
 | 395 | 391 | Qiana Sanders |
 | 396 | 389 | Alexis Richardson |
-| 397 | 387 | Ann Matzkanin |
-| 398 | 387 | Johnny Yeates |
+| 397 | 387 | Johnny Yeates |
+| 398 | 387 | Ann Matzkanin |
 | 399 | 387 | Jennifer Malloy - Cardy |
 | 400 | 386 | Irene Jones |
 | 401 | 384 | Mike Aprilliano |

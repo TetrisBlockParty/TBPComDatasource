@@ -66,8 +66,8 @@
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Ebony West-Cundiff |
-| 62 | 621 | Cherry Parker |
+| 61 | 621 | Cherry Parker |
+| 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
 | 65 | 618 | MissTaylor |
@@ -123,8 +123,8 @@
 | 115 | 391 | Calista Jo Dickson |
 | 116 | 390 | Hasty Cascadefit |
 | 117 | 390 | Patti Skiles |
-| 118 | 389 | FuzzyNavel |
-| 119 | 389 | Jessica Bechler |
+| 118 | 389 | Jessica Bechler |
+| 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
 | 122 | 378 | Tasha Schriewer |
@@ -139,12 +139,12 @@
 | 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
-| 137 | 328 | Dapper Snap |
-| 138 | 328 | Aaron Pitkin |
-| 139 | 328 | Jeni Dow |
+| 137 | 328 | Aaron Pitkin |
+| 138 | 328 | Jeni Dow |
+| 139 | 328 | Dapper Snap |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
 | 142 | 320 | Or Reznitsky |
@@ -280,7 +280,7 @@
 | 272 | 157 | Sabrina Hardrick |
 | 273 | 156 | Brittany |
 | 274 | 155 | RickyG |
-| 275 | 153 | Wetwet |
+| 275 | 153 | Sheila M Frazier |
 | 276 | 153 | Cozy Snaplink |
 | 277 | 153 | Wetwet |
 | 278 | 152 | LaTanya GeminiondaRise Johnson |

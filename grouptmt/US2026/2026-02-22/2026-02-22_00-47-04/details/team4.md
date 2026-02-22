@@ -119,8 +119,8 @@
 | 111 | 225 | Damn Libra |
 | 112 | 222 | Joeliecea Cobb |
 | 113 | 221 | Alyssa Papen |
-| 114 | 218 | Casey Grabner |
-| 115 | 218 | Antony Dwayne Beasley |
+| 114 | 218 | Antony Dwayne Beasley |
+| 115 | 218 | Casey Grabner |
 | 116 | 216 | Chaz Duncan |
 | 117 | 213 | loulou |
 | 118 | 212 | Toots |
@@ -138,8 +138,8 @@
 | 130 | 201 | Swanky Fitline |
 | 131 | 201 | Melvin Baird |
 | 132 | 197 | Peachy Fall |
-| 133 | 196 | Jeff Brian Gates |
-| 134 | 196 | Jenna McGeorge |
+| 133 | 196 | Jenna McGeorge |
+| 134 | 196 | Jeff Brian Gates |
 | 135 | 194 | Zany Twisterfit |
 | 136 | 192 | Shauna Havard |
 | 137 | 189 | Calvin Dennis |
@@ -167,8 +167,8 @@
 | 159 | 166 | SammieJo Guy |
 | 160 | 164 | ThaEviLJeNiuZ |
 | 161 | 164 | 030Synner |
-| 162 | 160 | ZeeZee |
-| 163 | 160 | Carlos Ramirez |
+| 162 | 160 | Carlos Ramirez |
+| 163 | 160 | ZeeZee |
 | 164 | 155 | AyeKay |
 | 165 | 154 | scott |
 | 166 | 153 | Empress Oasis |
@@ -357,7 +357,7 @@
 | 349 | 80 | Melissa Adams |
 | 350 | 80 | GBR |
 | 351 | 79 | Krs |
-| 352 | 79 | Jessica Lynn Cutlip |
+| 352 | 79 | Undeniable Williams |
 | 353 | 79 | Sharyn Lemire |
 | 354 | 79 | Jessica Lynn Cutlip |
 | 355 | 78 | Zappy Buildgrid |
