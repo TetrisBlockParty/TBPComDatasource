@@ -61,14 +61,14 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Rebecca Moulton Pinciaro |
-| 57 | 659 | Jonathan Kimbrough |
+| 56 | 659 | Jonathan Kimbrough |
+| 57 | 659 | Rebecca Moulton Pinciaro |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
 | 61 | 646 | Jacqueline Helm |
-| 62 | 636 | Kimyatta Cavin |
-| 63 | 636 | Dustee Craddock-Harrison |
+| 62 | 636 | Dustee Craddock-Harrison |
+| 63 | 636 | Kimyatta Cavin |
 | 64 | 614 | TheNeesh50 |
 | 65 | 599 | Brittney Griggs |
 | 66 | 593 | Lisa Davis |
@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Carrie Brian |
-| 139 | 278 | Desi Desporte |
+| 138 | 278 | Desi Desporte |
+| 139 | 278 | Carrie Brian |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -164,8 +164,8 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Leah Kutz Zirbel |
-| 160 | 249 | Chris Bernstein |
+| 159 | 249 | Chris Bernstein |
+| 160 | 249 | Leah Kutz Zirbel |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | J-Rizzle |
 | 163 | 244 | Twisty Cascadezone |
@@ -405,12 +405,12 @@
 | 397 | 108 | Denise B |
 | 398 | 108 | mike |
 | 399 | 107 | Brandi Durig |
-| 400 | 106 | Lynn Marie |
+| 400 | 106 | Zappy Snaplink |
 | 401 | 106 | Jacob Richard |
-| 402 | 106 | Zappy Snaplink |
+| 402 | 106 | Lynn Marie |
 | 403 | 106 | Paito |
-| 404 | 106 | Nick Horn |
-| 405 | 106 | Verna Neal |
+| 404 | 106 | Verna Neal |
+| 405 | 106 | Nick Horn |
 | 406 | 105 | meowmew |
 | 407 | 105 | Linda Alexander Downing |
 | 408 | 105 | Michelle Parker |
@@ -476,7 +476,7 @@
 | 468 | 87 | Derek Pendarvis |
 | 469 | 87 | Martha Lucinda Bishop |
 | 470 | 87 | Grann8 |
-| 471 | 86 | Wacky Blockclear |
+| 471 | 86 | amy |
 | 472 | 86 | Destiney Carter |
 | 473 | 86 | Wacky Blockclear |
 | 474 | 86 | Tamika Starkey |

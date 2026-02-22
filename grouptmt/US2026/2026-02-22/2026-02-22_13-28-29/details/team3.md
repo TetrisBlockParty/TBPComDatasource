@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 874 | Nate Burnside |
@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Natasha Jones |
-| 100 | 582 | Jay Horn |
+| 99 | 582 | Jay Horn |
+| 100 | 582 | Natasha Jones |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 485 | Christine Filson |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Patti Skiles |
-| 129 | 479 | Poppy Splitter |
+| 128 | 479 | Poppy Splitter |
+| 129 | 479 | Patti Skiles |
 | 130 | 478 | CeceGeGe |
 | 131 | 473 | mzcatzy |
 | 132 | 471 | Mendoza Lee Christy |
@@ -148,8 +148,8 @@
 | 140 | 449 | Danielle Rhoades |
 | 141 | 448 | Karon Griffin |
 | 142 | 445 | Shannon Matthew Byers |
-| 143 | 445 | Jacqueline Rodriguez |
-| 144 | 445 | Kristie McFarland |
+| 143 | 445 | Kristie McFarland |
+| 144 | 445 | Jacqueline Rodriguez |
 | 145 | 435 | Daryn Elliott |
 | 146 | 435 | Michelle |
 | 147 | 432 | Jenny Hrndz |
@@ -191,8 +191,8 @@
 | 183 | 361 | Jamie Lang |
 | 184 | 358 | Chummy Caster |
 | 185 | 358 | RickyG |
-| 186 | 357 | Tom Nault |
-| 187 | 357 | Stephanie Burtin |
+| 186 | 357 | Stephanie Burtin |
+| 187 | 357 | Tom Nault |
 | 188 | 353 | Nora Rogers |
 | 189 | 352 | Rochelle Hazelett |
 | 190 | 348 | Chasity |
@@ -276,8 +276,8 @@
 | 268 | 236 | Angela Scott |
 | 269 | 236 | Jess Bissett |
 | 270 | 235 | Cozy Snaplink |
-| 271 | 233 | Ray Lader |
-| 272 | 233 | Josh Borquez |
+| 271 | 233 | Josh Borquez |
+| 272 | 233 | Ray Lader |
 | 273 | 232 | Donna |
 | 274 | 227 | Krystal Gerstberger |
 | 275 | 227 | Meowsa |

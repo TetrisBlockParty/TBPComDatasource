@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -702,8 +702,8 @@
 | 694 | 336 | Austin Wilson |
 | 695 | 336 | bru |
 | 696 | 336 | Swanky Columnbuilder |
-| 697 | 335 | Brooke Leigh Strube |
-| 698 | 335 | Alexandrea |
+| 697 | 335 | Alexandrea |
+| 698 | 335 | Brooke Leigh Strube |
 | 699 | 335 | Maria Louise |
 | 700 | 334 | Melissa James |
 | 701 | 333 | Adrian Benitez |
@@ -714,8 +714,8 @@
 | 706 | 329 | Chummy Blockbuilder |
 | 707 | 329 | Jane Crew |
 | 708 | 329 | Snappy Shatterfit |
-| 709 | 328 | Jamie Carter Bierce |
-| 710 | 328 | BabyBird |
+| 709 | 328 | BabyBird |
+| 710 | 328 | Jamie Carter Bierce |
 | 711 | 326 | Ann Knutson Anderson |
 | 712 | 325 | Justin Hines |
 | 713 | 325 | Mike73 |
