@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -185,12 +185,12 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Melvin Baird |
-| 181 | 201 | Chance Strickland |
+| 180 | 201 | Chance Strickland |
+| 181 | 201 | Melvin Baird |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
-| 184 | 198 | Keith Kelley |
-| 185 | 198 | Jessica Lynn Cutlip |
+| 184 | 198 | Jessica Lynn Cutlip |
+| 185 | 198 | Keith Kelley |
 | 186 | 196 | Oscar Alberto Perez |
 | 187 | 195 | 中山成巳 |
 | 188 | 195 | Malakai Darien Fox |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | JPW |
-| 210 | 174 | Rio Rocha |
+| 209 | 174 | Rio Rocha |
+| 210 | 174 | JPW |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |

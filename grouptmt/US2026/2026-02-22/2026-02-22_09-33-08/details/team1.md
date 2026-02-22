@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Marianne Louise West |
-| 49 | 635 | Angel Fowler |
+| 48 | 635 | Angel Fowler |
+| 49 | 635 | Marianne Louise West |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -109,8 +109,8 @@
 | 101 | 344 | Bhelle Sumile |
 | 102 | 342 | Brenda Stewart |
 | 103 | 341 | Nick R Montague |
-| 104 | 333 | phrmblk24 |
-| 105 | 333 | Brandi Huntington |
+| 104 | 333 | Brandi Huntington |
+| 105 | 333 | phrmblk24 |
 | 106 | 332 | Luciano Moreira |
 | 107 | 332 | Kristen Gideon |
 | 108 | 330 | Sweet Baker |
@@ -118,8 +118,8 @@
 | 110 | 328 | Gracie |
 | 111 | 326 | Monica Donato |
 | 112 | 321 | Maria C. Hernandez |
-| 113 | 319 | Patrick Luckenbill |
-| 114 | 319 | Deanna L Hermanson |
+| 113 | 319 | Deanna L Hermanson |
+| 114 | 319 | Patrick Luckenbill |
 | 115 | 318 | Jessica Sheehan |
 | 116 | 316 | Ly Phethmany |
 | 117 | 313 | Tanya Carpenter-Reynolds |
@@ -173,8 +173,8 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
@@ -192,11 +192,11 @@
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |

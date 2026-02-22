@@ -330,8 +330,8 @@
 | 322 | 639 | Rebecca Miller |
 | 323 | 635 | Diana Fitzwater |
 | 324 | 631 | Marie Walker |
-| 325 | 627 | Victoria Moore-Smith |
-| 326 | 627 | Allan Wayne Lamia |
+| 325 | 627 | Allan Wayne Lamia |
+| 326 | 627 | Victoria Moore-Smith |
 | 327 | 620 | Brandon Armstrong |
 | 328 | 619 | Jánine Riggs |
 | 329 | 617 | Leslie Ann Carter |
@@ -564,8 +564,8 @@
 | 556 | 396 | Candy Pitts |
 | 557 | 396 | Boogie SoAnimated Johnson |
 | 558 | 394 | Taryece Gause |
-| 559 | 393 | Arlene Joy Belicina |
-| 560 | 393 | Alexandra Weir |
+| 559 | 393 | Alexandra Weir |
+| 560 | 393 | Arlene Joy Belicina |
 | 561 | 393 | Deyawn Smith |
 | 562 | 393 | bbv |
 | 563 | 393 | Jamie West |
@@ -630,8 +630,8 @@
 | 622 | 363 | Jes Norris |
 | 623 | 363 | Michelle Sager |
 | 624 | 363 | Stephanie Fortune |
-| 625 | 362 | Veronics |
-| 626 | 362 | Andrea Maher |
+| 625 | 362 | Andrea Maher |
+| 626 | 362 | Veronics |
 | 627 | 362 | Tracy Wise |
 | 628 | 362 | Jennifer Scott |
 | 629 | 361 | Michelle Shrum |
@@ -673,8 +673,8 @@
 | 665 | 339 | Denise Rickman |
 | 666 | 338 | Janitta Alvarez |
 | 667 | 337 | Sassy Pattern |
-| 668 | 337 | Tum |
-| 669 | 337 | Diallo Sparkman |
+| 668 | 337 | Diallo Sparkman |
+| 669 | 337 | Tum |
 | 670 | 337 | Savannah Alexander |
 | 671 | 336 | bru |
 | 672 | 336 | Austin Wilson |
@@ -736,8 +736,8 @@
 | 728 | 307 | Peachy Blockbuilder |
 | 729 | 307 | stacey |
 | 730 | 306 | Kiorah Blaze |
-| 731 | 305 | Zany Clusterbuilder |
-| 732 | 305 | MamaBear11 |
+| 731 | 305 | MamaBear11 |
+| 732 | 305 | Zany Clusterbuilder |
 | 733 | 305 | Narutofreak13 |
 | 734 | 304 | NFLPITMOM |
 | 735 | 304 | James Smith |
@@ -1102,12 +1102,12 @@
 | 1094 | 206 | Antonia Pike |
 | 1095 | 205 | SafetyEyes16 |
 | 1096 | 205 | Snazzy Basepiece |
-| 1097 | 205 | Shay Moore |
-| 1098 | 205 | Ashley McCarthy-Arnone |
+| 1097 | 205 | Ashley McCarthy-Arnone |
+| 1098 | 205 | Shay Moore |
 | 1099 | 205 | Tiffney Wroten |
 | 1100 | 205 | Desiree Hargrove Moore |
-| 1101 | 204 | Ali Gralski |
-| 1102 | 204 | Lakeela Wise |
+| 1101 | 204 | Lakeela Wise |
+| 1102 | 204 | Ali Gralski |
 | 1103 | 204 | Edralin Custodio |
 | 1104 | 202 | BIG BABY |
 | 1105 | 202 | Joshua Yonker |
