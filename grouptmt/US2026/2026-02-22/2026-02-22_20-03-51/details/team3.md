@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Shavette |
-| 115 | 625 | Amber Hughes |
+| 114 | 625 | Amber Hughes |
+| 115 | 625 | Shavette |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Bea Miles |
 | 118 | 618 | Kristie |
@@ -233,8 +233,8 @@
 | 225 | 347 | Philip Rock |
 | 226 | 347 | Trisha Balmer |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Noyb Adam |
 | 232 | 341 | Samantha Lynn |
@@ -266,8 +266,8 @@
 | 258 | 298 | MsBee |
 | 259 | 298 | Grams |
 | 260 | 297 | Jojo M |
-| 261 | 296 | Hoppy Buildout |
-| 262 | 296 | Katrina Turner |
+| 261 | 296 | Katrina Turner |
+| 262 | 296 | Hoppy Buildout |
 | 263 | 292 | Cheeky Snapper |
 | 264 | 292 | Tiffany Davie |
 | 265 | 291 | Carrie Huskey |

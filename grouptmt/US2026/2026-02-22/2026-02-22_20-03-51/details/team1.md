@@ -231,11 +231,11 @@
 | 223 | 228 | Cheeky Pop |
 | 224 | 228 | Shiny Gridmatch |
 | 225 | 226 | Michael |
-| 226 | 225 | Jessie Lynn |
-| 227 | 225 | Bindi |
+| 226 | 225 | Bindi |
+| 227 | 225 | Jessie Lynn |
 | 228 | 224 | ParisandCory Champagne |
-| 229 | 223 | Erez Yosef |
-| 230 | 223 | Christina Backer |
+| 229 | 223 | Christina Backer |
+| 230 | 223 | Erez Yosef |
 | 231 | 222 | Debbie Davis |
 | 232 | 221 | Daring Fitclear |
 | 233 | 221 | Amy Hess |

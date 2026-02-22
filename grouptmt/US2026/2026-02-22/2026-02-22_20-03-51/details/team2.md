@@ -275,8 +275,8 @@
 | 267 | 875 | Jamie Otero |
 | 268 | 874 | Giggy Blocker |
 | 269 | 872 | Felicia Lynn |
-| 270 | 867 | Peppy Zone |
-| 271 | 867 | Michele Gabriel |
+| 270 | 867 | Michele Gabriel |
+| 271 | 867 | Peppy Zone |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
 | 274 | 860 | April Dawn Gussler |
@@ -364,8 +364,8 @@
 | 356 | 697 | Ashle Scranton |
 | 357 | 697 | Dreamy Blast |
 | 358 | 695 | Mama T |
-| 359 | 695 | Lakeysha Dortch |
-| 360 | 695 | Dannette Goldberg-Richards |
+| 359 | 695 | Dannette Goldberg-Richards |
+| 360 | 695 | Lakeysha Dortch |
 | 361 | 691 | Joce Lynn |
 | 362 | 690 | Draizen Montrell Thomas |
 | 363 | 688 | ShinyRose |
@@ -872,12 +872,12 @@
 | 864 | 314 | Allyson Marra |
 | 865 | 314 | Poppy Gridder |
 | 866 | 314 | Amanda West |
-| 867 | 313 | Marina Linda |
-| 868 | 313 | Natasha Edmonds |
+| 867 | 313 | Natasha Edmonds |
+| 868 | 313 | Marina Linda |
 | 869 | 313 | N00D3S |
 | 870 | 312 | Heather Renee Jeffers |
-| 871 | 311 | SwifftFox |
-| 872 | 311 | Audra Williams |
+| 871 | 311 | Audra Williams |
+| 872 | 311 | SwifftFox |
 | 873 | 311 | Megan Phillips |
 | 874 | 311 | Nat |
 | 875 | 310 | Cozy Drop |
@@ -885,8 +885,8 @@
 | 877 | 310 | Cheeky Brickmatch |
 | 878 | 310 | Wendy Ducheney |
 | 879 | 309 | Byung Bae Park |
-| 880 | 308 | Justin Edwards |
-| 881 | 308 | Katie Joy McCombs |
+| 880 | 308 | Katie Joy McCombs |
+| 881 | 308 | Justin Edwards |
 | 882 | 308 | Hyper Riseclear |
 | 883 | 307 | Ethan Stienbarger |
 | 884 | 305 | Sandra Link-Gable |
