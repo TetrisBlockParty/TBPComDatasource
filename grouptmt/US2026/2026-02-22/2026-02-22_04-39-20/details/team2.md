@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | RdRydnHd |
-| 76 | 1603 | Gabby Jenner |
+| 75 | 1603 | Gabby Jenner |
+| 76 | 1603 | RdRydnHd |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1587 | Rob Riggin |
 | 79 | 1553 | Charie Holland |
@@ -315,8 +315,8 @@
 | 307 | 549 | Kaylee McCafferty |
 | 308 | 549 | Darcy Mae |
 | 309 | 548 | Jeremy Parodi |
-| 310 | 548 | Brownie Sheena |
-| 311 | 548 | Slip |
+| 310 | 548 | Slip |
+| 311 | 548 | Brownie Sheena |
 | 312 | 547 | Giggy Blocker |
 | 313 | 544 | Leah Keesling |
 | 314 | 543 | Adira Brown |
@@ -457,8 +457,8 @@
 | 449 | 413 | Lauren Fitzgerald Thomas |
 | 450 | 413 | Biggest thing |
 | 451 | 411 | Kristen O'Neal |
-| 452 | 408 | Brandon Jones |
-| 453 | 408 | Stefanie Zonzini-Gagliardi |
+| 452 | 408 | Stefanie Zonzini-Gagliardi |
+| 453 | 408 | Brandon Jones |
 | 454 | 406 | Erin StFrancis |
 | 455 | 404 | Snappy snappers |
 | 456 | 403 | Goofy Dasher |
@@ -555,8 +555,8 @@
 | 547 | 357 | Shannon Byrd |
 | 548 | 355 | Amanda Perez |
 | 549 | 354 | Connie Lepore-Mann |
-| 550 | 354 | Demeka Dangerous-kisses Johnson |
-| 551 | 354 | Rickey Johnson |
+| 550 | 354 | Rickey Johnson |
+| 551 | 354 | Demeka Dangerous-kisses Johnson |
 | 552 | 353 | Cheery Matchzone |
 | 553 | 352 | Andrea Maher |
 | 554 | 352 | Jean FU Jagielski |
@@ -581,10 +581,10 @@
 | 573 | 342 | Angi Harrison |
 | 574 | 341 | Daniel Amos |
 | 575 | 340 | Mikayala Szaz |
-| 576 | 339 | Denise Rickman |
-| 577 | 339 | Cynthia Louann Rose |
-| 578 | 338 | Janitta Alvarez |
-| 579 | 338 | Shorty |
+| 576 | 339 | Cynthia Louann Rose |
+| 577 | 339 | Denise Rickman |
+| 578 | 338 | Shorty |
+| 579 | 338 | Janitta Alvarez |
 | 580 | 337 | Tum |
 | 581 | 337 | Autumn Schaeffer |
 | 582 | 337 | Sassy Pattern |
@@ -1066,10 +1066,10 @@
 | 1058 | 179 | mshir |
 | 1059 | 179 | Aubree Desgranges |
 | 1060 | 179 | Cat |
-| 1061 | 179 | Theresa Ring |
-| 1062 | 179 | Frisky Patternline |
-| 1063 | 178 | Jamie Jordan |
-| 1064 | 178 | Rob Booker |
+| 1061 | 179 | Frisky Patternline |
+| 1062 | 179 | Theresa Ring |
+| 1063 | 178 | Rob Booker |
+| 1064 | 178 | Jamie Jordan |
 | 1065 | 178 | William Hughes |
 | 1066 | 178 | Martina Gabrielle LaPolla |
 | 1067 | 178 | Katrina Willmon |

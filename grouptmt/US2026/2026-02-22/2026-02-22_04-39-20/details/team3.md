@@ -131,8 +131,8 @@
 | 123 | 416 | Mary Pellegrino |
 | 124 | 415 | ren |
 | 125 | 411 | FuzzyNavel |
-| 126 | 410 | Stephanie Blkpep Davidson |
-| 127 | 410 | Stephanie Simpson |
+| 126 | 410 | Stephanie Simpson |
+| 127 | 410 | Stephanie Blkpep Davidson |
 | 128 | 409 | Karon Griffin |
 | 129 | 405 | Michelle |
 | 130 | 403 | Scott Lindsay |
@@ -170,8 +170,8 @@
 | 162 | 347 | Nicole Flippo |
 | 163 | 343 | Ashley Raines |
 | 164 | 338 | Leah Barnett |
-| 165 | 332 | Fallorina Susana |
-| 166 | 332 | Rich LeBlanc |
+| 165 | 332 | Rich LeBlanc |
+| 166 | 332 | Fallorina Susana |
 | 167 | 325 | Giddy Twistbuilder |
 | 168 | 324 | Tom Nault |
 | 169 | 323 | Demetrious Shaw Sr. |
@@ -216,9 +216,9 @@
 | 208 | 260 | Grams |
 | 209 | 258 | Tamara Deherrera |
 | 210 | 257 | Ashley Jones |
-| 211 | 256 | KayB |
-| 212 | 256 | Brenda Lee Vander Molen |
-| 213 | 256 | Tiffany Davie |
+| 211 | 256 | Brenda Lee Vander Molen |
+| 212 | 256 | Tiffany Davie |
+| 213 | 256 | KayB |
 | 214 | 255 | Kammy Hill |
 | 215 | 254 | Brandon Givens |
 | 216 | 253 | Nora Rogers |
