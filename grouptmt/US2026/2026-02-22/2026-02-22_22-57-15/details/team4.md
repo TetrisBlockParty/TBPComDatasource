@@ -103,8 +103,8 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | Erin Thomas |
-| 99 | 513 | YoMomma |
+| 98 | 513 | YoMomma |
+| 99 | 513 | Erin Thomas |
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -175,8 +175,8 @@
 | 167 | 314 | TRCuse |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
-| 170 | 307 | Girl |
-| 171 | 307 | Bio Nelly |
+| 170 | 307 | Bio Nelly |
+| 171 | 307 | Girl |
 | 172 | 304 | Chaz Duncan |
 | 173 | 303 | shark tato |
 | 174 | 302 | Cursed Hag |
@@ -335,7 +335,7 @@
 | 327 | 165 | ChasingZen |
 | 328 | 164 | Marvetta Williams |
 | 329 | 164 | Selena Shaw |
-| 330 | 163 | Montiette Mcglown |
+| 330 | 163 | Joseph Edmonson |
 | 331 | 163 | Cheaneen Livingston |
 | 332 | 163 | Montiette Mcglown |
 | 333 | 162 | Empress Oasis |

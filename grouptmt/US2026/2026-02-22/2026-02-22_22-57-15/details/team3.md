@@ -77,8 +77,8 @@
 | 69 | 964 | Jennifer |
 | 70 | 954 | Nate Burnside |
 | 71 | 945 | Christian A. Pollard |
-| 72 | 926 | Angela M. Fletcher |
-| 73 | 926 | Judi Dobson |
+| 72 | 926 | Judi Dobson |
+| 73 | 926 | Angela M. Fletcher |
 | 74 | 924 | Shonna Roberts |
 | 75 | 907 | Michelle Becker |
 | 76 | 903 | Christine Filson |
@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | Sarajane Lokan |
-| 91 | 838 | MissTaylor |
+| 90 | 838 | MissTaylor |
+| 91 | 838 | Sarajane Lokan |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |

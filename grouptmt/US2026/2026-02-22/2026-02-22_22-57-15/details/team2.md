@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Ambyre Patterson |
-| 176 | 1232 | Groovy Puzzle |
+| 175 | 1232 | Groovy Puzzle |
+| 176 | 1232 | Ambyre Patterson |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -336,8 +336,8 @@
 | 328 | 788 | Erika Densmore |
 | 329 | 782 | Beth |
 | 330 | 781 | Cassie Mercer |
-| 331 | 777 | Jessicah Myers |
-| 332 | 777 | Tesha Oldaker |
+| 331 | 777 | Tesha Oldaker |
+| 332 | 777 | Jessicah Myers |
 | 333 | 777 | Samantha Jo |
 | 334 | 774 | Ashley Dow |
 | 335 | 774 | Ginnell Browner |
@@ -370,8 +370,8 @@
 | 362 | 734 | Deborah Miller |
 | 363 | 732 | Stephanie Lumanlan |
 | 364 | 728 | Charvi' Carter |
-| 365 | 728 | Allan Wayne Lamia |
-| 366 | 728 | Dylan Thomason |
+| 365 | 728 | Dylan Thomason |
+| 366 | 728 | Allan Wayne Lamia |
 | 367 | 728 | Tom Riefer |
 | 368 | 725 | Vonceial Boone |
 | 369 | 724 | Dreamy Blast |
