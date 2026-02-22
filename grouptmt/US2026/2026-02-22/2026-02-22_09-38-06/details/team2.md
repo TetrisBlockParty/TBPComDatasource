@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Crystal Hoffman |
-| 202 | 910 | Shuany Arias |
+| 201 | 910 | Shuany Arias |
+| 202 | 910 | Crystal Hoffman |
 | 203 | 907 | Gene Mills |
 | 204 | 901 | Jennifer Peachey |
 | 205 | 894 | Auntie B |
@@ -493,9 +493,9 @@
 | 485 | 444 | Ryan Meilleur |
 | 486 | 442 | Leah |
 | 487 | 441 | Christina Wsn |
-| 488 | 440 | Victoria Regina Girolami |
-| 489 | 440 | Sarah Berger |
-| 490 | 440 | Liberty |
+| 488 | 440 | Sarah Berger |
+| 489 | 440 | Liberty |
+| 490 | 440 | Victoria Regina Girolami |
 | 491 | 438 | Johnny Yeates |
 | 492 | 437 | Bubbly Snapfit |
 | 493 | 436 | Niceday |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Quinn |
-| 507 | 427 | Destiny Cozier |
+| 506 | 427 | Destiny Cozier |
+| 507 | 427 | Quinn |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -613,8 +613,8 @@
 | 605 | 371 | Brenda Messer |
 | 606 | 371 | Giggy Grabber |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 369 | Tony Lea |
-| 609 | 369 | RaeVan Worthington |
+| 608 | 369 | RaeVan Worthington |
+| 609 | 369 | Tony Lea |
 | 610 | 369 | Juan Castillo |
 | 611 | 368 | Angi Harrison |
 | 612 | 367 | Jessica Lamb |
@@ -784,8 +784,8 @@
 | 776 | 287 | Toni Roberson |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
-| 779 | 285 | Epic Stackbuilder |
-| 780 | 285 | Court |
+| 779 | 285 | Court |
+| 780 | 285 | Epic Stackbuilder |
 | 781 | 284 | Hillary Franklin |
 | 782 | 282 | Nutty Slice |
 | 783 | 281 | Anthony |
@@ -799,17 +799,17 @@
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
-| 794 | 277 | Brianna Cerney |
-| 795 | 277 | Anthony Mignacca |
+| 794 | 277 | Anthony Mignacca |
+| 795 | 277 | Brianna Cerney |
 | 796 | 277 | Amanda Chamberlain |
 | 797 | 277 | Min |
 | 798 | 276 | Dandy Combo |
 | 799 | 276 | Patrick Bartlett |
 | 800 | 276 | Lindsey Leigh |
-| 801 | 276 | Jamie Dayton |
-| 802 | 276 | Jennifer Leigh |
-| 803 | 276 | Josh Webster |
-| 804 | 276 | Ryan Lauer |
+| 801 | 276 | Josh Webster |
+| 802 | 276 | Ryan Lauer |
+| 803 | 276 | Jamie Dayton |
+| 804 | 276 | Jennifer Leigh |
 | 805 | 275 | Alishac Marie |
 | 806 | 275 | Crystal Elam |
 | 807 | 275 | Neaomi Favro |
@@ -828,8 +828,8 @@
 | 820 | 272 | Witty Piecebuilder |
 | 821 | 272 | Alexandrea |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Beverly Hodge |
-| 824 | 271 | Shalisa Hill |
+| 823 | 271 | Shalisa Hill |
+| 824 | 271 | Beverly Hodge |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Lazy Builderfit |
 | 827 | 270 | Nat |
@@ -875,8 +875,8 @@
 | 867 | 258 | Warren Marleau |
 | 868 | 258 | Jo Nicole |
 | 869 | 258 | Joy LaJeunesse |
-| 870 | 258 | Shylee Tilman |
-| 871 | 258 | Mordoks Pyrography |
+| 870 | 258 | Mordoks Pyrography |
+| 871 | 258 | Shylee Tilman |
 | 872 | 258 | Tee Jaleesa |
 | 873 | 257 | Mama T |
 | 874 | 257 | Jackie Jackie Lee |
@@ -934,8 +934,8 @@
 | 926 | 242 | Greenshades00 |
 | 927 | 242 | Donna Chandler |
 | 928 | 242 | Groovy Tilefall |
-| 929 | 241 | Regina Unruh |
-| 930 | 241 | Ronda Cary |
+| 929 | 241 | Ronda Cary |
+| 930 | 241 | Regina Unruh |
 | 931 | 241 | Emoney Sanchez |
 | 932 | 241 | Travis Tinsley |
 | 933 | 240 | Alison Emmons |

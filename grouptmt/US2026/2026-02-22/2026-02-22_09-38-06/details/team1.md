@@ -118,8 +118,8 @@
 | 110 | 328 | Gracie |
 | 111 | 326 | Monica Donato |
 | 112 | 321 | Maria C. Hernandez |
-| 113 | 319 | Deanna L Hermanson |
-| 114 | 319 | Patrick Luckenbill |
+| 113 | 319 | Patrick Luckenbill |
+| 114 | 319 | Deanna L Hermanson |
 | 115 | 318 | Jessica Sheehan |
 | 116 | 316 | Ly Phethmany |
 | 117 | 313 | Tanya Carpenter-Reynolds |
@@ -173,15 +173,15 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | Shauntina Burke |
-| 169 | 216 | MRdot Rooski |
+| 168 | 216 | MRdot Rooski |
+| 169 | 216 | Shauntina Burke |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
 | 173 | 211 | Marianita Garcia |
 | 174 | 211 | Kimberly Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |

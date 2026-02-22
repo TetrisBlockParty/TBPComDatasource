@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 902 | Elaine Webb Graves |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -222,12 +222,12 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Cheeky Snapper |
-| 222 | 283 | Charles Perrone |
+| 221 | 283 | Charles Perrone |
+| 222 | 283 | Cheeky Snapper |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -252,8 +252,8 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -294,8 +294,8 @@
 | 286 | 213 | Nicholas Roddy |
 | 287 | 212 | Sunny Rotater |
 | 288 | 212 | Desiree Gold |
-| 289 | 211 | Velma Mull |
-| 290 | 211 | El Chapa |
+| 289 | 211 | El Chapa |
+| 290 | 211 | Velma Mull |
 | 291 | 211 | Khaleada McGill Banks |
 | 292 | 210 | Lizabeth Fox |
 | 293 | 209 | Micayah Stevens |
@@ -330,8 +330,8 @@
 | 322 | 183 | Cesar Barraza |
 | 323 | 182 | Melanie Sherwood |
 | 324 | 181 | Denita Mungro |
-| 325 | 180 | Criss |
-| 326 | 180 | Beth Ingham |
+| 325 | 180 | Beth Ingham |
+| 326 | 180 | Criss |
 | 327 | 179 | Christian Werndl |
 | 328 | 179 | DanceLuvLaugh |
 | 329 | 179 | Rachel Napper |
@@ -500,7 +500,7 @@
 | 492 | 117 | Dee Pratt |
 | 493 | 116 | Shelby Crawford |
 | 494 | 116 | Niki Dalrymple |
-| 495 | 116 | Shelby Crawford |
+| 495 | 116 | TazB |
 | 496 | 116 | Dapper Towerfit |
 | 497 | 115 | FATTY |
 | 498 | 115 | Allie Kershner |
@@ -565,10 +565,10 @@
 | 557 | 105 | Zac Hudak |
 | 558 | 105 | Kristi Taylor |
 | 559 | 105 | Amy Wheeler |
-| 560 | 104 | bean |
-| 561 | 104 | Jessica Rose-Morgan |
-| 562 | 104 | Johnathan Dowe |
-| 563 | 104 | Jana Fagg |
+| 560 | 104 | Jessica Rose-Morgan |
+| 561 | 104 | bean |
+| 562 | 104 | Jana Fagg |
+| 563 | 104 | Johnathan Dowe |
 | 564 | 103 | Snappy Balancer |
 | 565 | 103 | Lisa Lisa |
 | 566 | 103 | Melissa Parlow-Callaway |
@@ -922,7 +922,7 @@
 | 914 | 65 | Draone Grayson |
 | 915 | 65 | Danielle Beaunoyer Jean |
 | 916 | 65 | Precious Cramer |
-| 917 | 65 | Danielle Beaunoyer Jean |
+| 917 | 65 | Rashad Green |
 | 918 | 65 | Byron Baptiste |
 | 919 | 65 | Krystal Kampagnola |
 | 920 | 64 | Chris Wallace |

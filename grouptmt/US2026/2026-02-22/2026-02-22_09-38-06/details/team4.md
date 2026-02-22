@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -189,12 +189,12 @@
 | 181 | 201 | Melvin Baird |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
-| 184 | 198 | Jessica Lynn Cutlip |
-| 185 | 198 | Keith Kelley |
+| 184 | 198 | Keith Kelley |
+| 185 | 198 | Jessica Lynn Cutlip |
 | 186 | 196 | Oscar Alberto Perez |
-| 187 | 195 | 中山成巳 |
+| 187 | 195 | ZeeZee |
 | 188 | 195 | Malakai Darien Fox |
-| 189 | 195 | ZeeZee |
+| 189 | 195 | 中山成巳 |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Sam Bishop |
