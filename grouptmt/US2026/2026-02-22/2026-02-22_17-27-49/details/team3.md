@@ -261,8 +261,8 @@
 | 253 | 282 | Marquita Sheard |
 | 254 | 281 | Carrie Huskey |
 | 255 | 280 | Terry Jo Jones |
-| 256 | 278 | Rufus Lincoln |
-| 257 | 278 | Sabrina Hardrick |
+| 256 | 278 | Sabrina Hardrick |
+| 257 | 278 | Rufus Lincoln |
 | 258 | 277 | Tracy Martin |
 | 259 | 276 | Crimson |
 | 260 | 276 | Connie Mohler-Fair |
@@ -510,8 +510,8 @@
 | 502 | 147 | sofaking |
 | 503 | 147 | Megan Rathmanner |
 | 504 | 146 | Sdot |
-| 505 | 146 | Sara Dunn |
-| 506 | 146 | Sarah Whalen |
+| 505 | 146 | Sarah Whalen |
+| 506 | 146 | Sara Dunn |
 | 507 | 145 | Alison Baus |
 | 508 | 144 | Rachel Grant |
 | 509 | 144 | Janay Darkstallion Robinson |

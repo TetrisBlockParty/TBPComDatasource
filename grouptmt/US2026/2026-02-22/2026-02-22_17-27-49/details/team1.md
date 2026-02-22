@@ -105,15 +105,15 @@
 | 97 | 409 | Yvonne Marie |
 | 98 | 401 | cc |
 | 99 | 400 | Cynthia Bradley |
-| 100 | 390 | Goose egg |
-| 101 | 390 | Lori Bales |
+| 100 | 390 | Lori Bales |
+| 101 | 390 | Goose egg |
 | 102 | 390 | Candy Jones |
 | 103 | 389 | Nery Martinez |
 | 104 | 385 | Brenda Stewart |
 | 105 | 383 | pjbeta |
 | 106 | 380 | Dee Perry |
-| 107 | 379 | Austin James |
-| 108 | 379 | Kimmie Kimms |
+| 107 | 379 | Kimmie Kimms |
+| 108 | 379 | Austin James |
 | 109 | 377 | Tater |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
@@ -126,14 +126,14 @@
 | 118 | 355 | Hasbro Bros |
 | 119 | 354 | phrmblk24 |
 | 120 | 352 | Jason Jones |
-| 121 | 350 | Sweet Baker |
-| 122 | 350 | Tipsy Strikerpiece |
+| 121 | 350 | Tipsy Strikerpiece |
+| 122 | 350 | Sweet Baker |
 | 123 | 344 | Bhelle Sumile |
 | 124 | 343 | Death |
 | 125 | 341 | Nick R Montague |
 | 126 | 334 | Jaimie Lynn |
-| 127 | 333 | Gracie |
-| 128 | 333 | GATOR |
+| 127 | 333 | GATOR |
+| 128 | 333 | Gracie |
 | 129 | 332 | Kristen Gideon |
 | 130 | 330 | Elaine Elaine |
 | 131 | 328 | Fmp |
@@ -144,8 +144,8 @@
 | 136 | 318 | Jessica Sheehan |
 | 137 | 316 | Dizzy Party |
 | 138 | 313 | Virginia Gray Floyd |
-| 139 | 308 | Sharon Reynolds |
-| 140 | 308 | Erin Hodges Plumb |
+| 139 | 308 | Erin Hodges Plumb |
+| 140 | 308 | Sharon Reynolds |
 | 141 | 307 | Kimberly Garcia |
 | 142 | 306 | Happy Basegrid |
 | 143 | 306 | Bloknboy |
@@ -184,17 +184,17 @@
 | 176 | 264 | Brian Richardsson |
 | 177 | 261 | Witty Builderfit |
 | 178 | 258 | Billie Dawn Sparks |
-| 179 | 254 | Letson Melissa |
-| 180 | 254 | Al Smith Jr |
+| 179 | 254 | Al Smith Jr |
+| 180 | 254 | Letson Melissa |
 | 181 | 253 | Jamie Jury |
 | 182 | 252 | Dena Kayy |
 | 183 | 251 | Giggly Builderline |
 | 184 | 249 | Lakeisha Chapman |
-| 185 | 246 | Madison Wicks |
-| 186 | 246 | Mike Ames |
+| 185 | 246 | Mike Ames |
+| 186 | 246 | Madison Wicks |
 | 187 | 244 | Serina Marie |
-| 188 | 244 | Eddie Dillon |
-| 189 | 244 | Marianita Garcia |
+| 188 | 244 | Marianita Garcia |
+| 189 | 244 | Eddie Dillon |
 | 190 | 243 | Trippy Redd |
 | 191 | 242 | John Kim |
 | 192 | 241 | John J. Cronin |
@@ -276,7 +276,7 @@
 | 268 | 183 | Brave Wrecker |
 | 269 | 183 | Amy Hess |
 | 270 | 181 | David DeSantis |
-| 271 | 180 | BigWeenie69 |
+| 271 | 180 | Matt Iaccheo |
 | 272 | 180 | Beau Galvan |
 | 273 | 180 | BigWeenie69 |
 | 274 | 179 | Danielle Little-Daugherty |
@@ -329,10 +329,10 @@
 | 321 | 159 | Uhog SF |
 | 322 | 159 | Howdi Duty |
 | 323 | 157 | Ruthie Mahoney Saunders-Browne |
-| 324 | 156 | Mark Smith |
-| 325 | 156 | Jessie |
-| 326 | 156 | Nerdy Curvebuilder |
-| 327 | 156 | Jason Benitez |
+| 324 | 156 | Nerdy Curvebuilder |
+| 325 | 156 | Jason Benitez |
+| 326 | 156 | Jessie |
+| 327 | 156 | Mark Smith |
 | 328 | 155 | Barry Mac'Ockner |
 | 329 | 155 | Fresno Beotoni |
 | 330 | 154 | Mario Cab |

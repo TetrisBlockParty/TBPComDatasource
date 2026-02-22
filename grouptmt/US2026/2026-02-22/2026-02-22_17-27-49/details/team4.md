@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1304 | Alicia Bass |
 | 16 | 1292 | Roger Coulter |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Livvy |
-| 123 | 353 | Tyler Terrific |
+| 122 | 353 | Tyler Terrific |
+| 123 | 353 | Livvy |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | Lucas J Sutton |
@@ -255,11 +255,11 @@
 | 247 | 189 | Dihcheese444 |
 | 248 | 188 | Stephme310 |
 | 249 | 185 | Laura Hosford |
-| 250 | 184 | Lauren Lamb |
-| 251 | 184 | Ak Jones |
+| 250 | 184 | Ak Jones |
+| 251 | 184 | Lauren Lamb |
 | 252 | 182 | TinyLegoRose |
-| 253 | 181 | Carter Jones |
-| 254 | 181 | Jackie Marie |
+| 253 | 181 | Jackie Marie |
+| 254 | 181 | Carter Jones |
 | 255 | 180 | Orchislactea |
 | 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |
