@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -746,8 +746,8 @@
 | 738 | 308 | Sarah block |
 | 739 | 308 | Hyper Riseclear |
 | 740 | 308 | Katie Joy McCombs |
-| 741 | 307 | stacey |
-| 742 | 307 | Peachy Blockbuilder |
+| 741 | 307 | Peachy Blockbuilder |
+| 742 | 307 | stacey |
 | 743 | 306 | Kiorah Blaze |
 | 744 | 305 | Zany Clusterbuilder |
 | 745 | 305 | MamaBear11 |
@@ -843,8 +843,8 @@
 | 835 | 272 | Gina Justbeingme Chillis |
 | 836 | 271 | Pam Doughty |
 | 837 | 271 | Amber N Koepp |
-| 838 | 271 | Shalisa Hill |
-| 839 | 271 | Beverly Hodge |
+| 838 | 271 | Beverly Hodge |
+| 839 | 271 | Shalisa Hill |
 | 840 | 270 | Lazy Builderfit |
 | 841 | 270 | BK Queen |
 | 842 | 270 | Nat |
@@ -923,8 +923,8 @@
 | 915 | 251 | Bold Clusterfit |
 | 916 | 251 | Regina Unruh |
 | 917 | 251 | Emoniee Sa'niaya |
-| 918 | 251 | Chipper Dashpiece |
-| 919 | 251 | Kimmie Zimmerman-Rocha |
+| 918 | 251 | Kimmie Zimmerman-Rocha |
+| 919 | 251 | Chipper Dashpiece |
 | 920 | 250 | Kay Stevenson |
 | 921 | 250 | Jay Levy |
 | 922 | 250 | Drew Berkelbach |

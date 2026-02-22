@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -146,7 +146,7 @@
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
-| 141 | 264 | Epic Curvetile |
+| 141 | 264 | Girl |
 | 142 | 264 | Dana Scott |
 | 143 | 264 | Epic Curvetile |
 | 144 | 262 | Alan George LaRage |
@@ -173,8 +173,8 @@
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
-| 168 | 221 | PurpleMoonMa |
-| 169 | 221 | Rheanda Weaskus |
+| 168 | 221 | Rheanda Weaskus |
+| 169 | 221 | PurpleMoonMa |
 | 170 | 220 | Matt Dell'Olio |
 | 171 | 217 | Chaz Duncan |
 | 172 | 217 | Kim Hunt |
@@ -204,8 +204,8 @@
 | 196 | 195 | Malakai Darien Fox |
 | 197 | 194 | Zany Twisterfit |
 | 198 | 192 | Shauna Havard |
-| 199 | 191 | Klo |
-| 200 | 191 | Sam Bishop |
+| 199 | 191 | Sam Bishop |
+| 200 | 191 | Klo |
 | 201 | 190 | Cheery Risebuilder |
 | 202 | 189 | Stacey Stano |
 | 203 | 189 | Calvin Dennis |

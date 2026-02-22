@@ -126,8 +126,8 @@
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Seth Wesson |
-| 122 | 310 | Jason Jones |
+| 121 | 310 | Jason Jones |
+| 122 | 310 | Seth Wesson |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -260,8 +260,8 @@
 | 252 | 167 | Cranky Pattern |
 | 253 | 167 | Nery Martinez |
 | 254 | 166 | Carrie Smith |
-| 255 | 165 | Silly Align |
-| 256 | 165 | Nadine Velardo |
+| 255 | 165 | Nadine Velardo |
+| 256 | 165 | Silly Align |
 | 257 | 164 | Desiree Deschaine Havee |
 | 258 | 163 | Tyler Whitley |
 | 259 | 163 | Blaire Bruckoff |

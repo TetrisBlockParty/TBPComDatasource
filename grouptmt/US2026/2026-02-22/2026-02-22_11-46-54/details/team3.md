@@ -195,8 +195,8 @@
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
 | 189 | 338 | Tamara Deherrera |
-| 190 | 338 | Leah Barnett |
-| 191 | 338 | Gumbo |
+| 190 | 338 | Gumbo |
+| 191 | 338 | Leah Barnett |
 | 192 | 332 | Rich LeBlanc |
 | 193 | 332 | Noyb Adam |
 | 194 | 330 | Rebecca Funderburk Kirby |
@@ -260,8 +260,8 @@
 | 252 | 256 | KayB |
 | 253 | 256 | Tiffany Davie |
 | 254 | 250 | fraulila |
-| 255 | 249 | Annie Marie |
-| 256 | 249 | JerseyJess |
+| 255 | 249 | JerseyJess |
+| 256 | 249 | Annie Marie |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
 | 259 | 244 | LaNette Morgan |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -294,8 +294,8 @@
 | 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
-| 289 | 212 | Sunny Rotater |
-| 290 | 212 | Desiree Gold |
+| 289 | 212 | Desiree Gold |
+| 290 | 212 | Sunny Rotater |
 | 291 | 211 | Velma Mull |
 | 292 | 211 | El Chapa |
 | 293 | 211 | Khaleada McGill Banks |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Salena Whitlock |
-| 332 | 183 | Cesar Barraza |
+| 331 | 183 | Cesar Barraza |
+| 332 | 183 | Salena Whitlock |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -362,8 +362,8 @@
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Snarky McFace |
-| 358 | 166 | Angella Lyons |
+| 357 | 166 | Angella Lyons |
+| 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
 | 360 | 165 | Ashley Lynn Marchese |
 | 361 | 165 | Rainbow77375 |
@@ -539,8 +539,8 @@
 | 531 | 113 | Kristy Brown |
 | 532 | 113 | Block Baddie |
 | 533 | 113 | Martin Bernier |
-| 534 | 113 | Christopher Woost |
-| 535 | 113 | Leticia Lynn Lowe |
+| 534 | 113 | Leticia Lynn Lowe |
+| 535 | 113 | Christopher Woost |
 | 536 | 112 | Bekah Dietrich |
 | 537 | 112 | Michael Kimbro |
 | 538 | 111 | Jennifer Neiman Gaal |
@@ -581,8 +581,8 @@
 | 573 | 106 | SaSa Mac |
 | 574 | 106 | Cyd061769 |
 | 575 | 105 | Zac Hudak |
-| 576 | 105 | Kristi Taylor |
-| 577 | 105 | Emi |
+| 576 | 105 | Emi |
+| 577 | 105 | Kristi Taylor |
 | 578 | 105 | Amy Wheeler |
 | 579 | 104 | bean |
 | 580 | 104 | Jessica Rose-Morgan |
