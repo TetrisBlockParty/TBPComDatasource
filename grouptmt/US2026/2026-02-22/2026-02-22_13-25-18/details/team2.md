@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Vanessa Moreno |
-| 398 | 543 | Julie Kresal |
+| 397 | 543 | Julie Kresal |
+| 398 | 543 | Vanessa Moreno |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -506,8 +506,8 @@
 | 498 | 459 | Melissa Kay Gibson |
 | 499 | 458 | Casper The Chonk |
 | 500 | 454 | Casey Schumacher |
-| 501 | 453 | Joshua Sommerville |
-| 502 | 453 | Rhonda Petro |
+| 501 | 453 | Rhonda Petro |
+| 502 | 453 | Joshua Sommerville |
 | 503 | 452 | Sarah Berger |
 | 504 | 452 | Juanita Lyons |
 | 505 | 451 | Funky Caster |
@@ -515,8 +515,8 @@
 | 507 | 448 | Lee Harper |
 | 508 | 448 | Liberty |
 | 509 | 447 | Boozi |
-| 510 | 447 | Besma Ao |
-| 511 | 447 | Jessica S Flecha |
+| 510 | 447 | Jessica S Flecha |
+| 511 | 447 | Besma Ao |
 | 512 | 446 | Snippy Rumbler |
 | 513 | 445 | Mar Q Thomas |
 | 514 | 445 | Sharon Mills |
@@ -963,8 +963,8 @@
 | 955 | 248 | CleverAngel |
 | 956 | 248 | Jaybee Nguyen |
 | 957 | 248 | Angelina Marie |
-| 958 | 247 | Wizz |
-| 959 | 247 | Karyn Yurcho Dooley |
+| 958 | 247 | Karyn Yurcho Dooley |
+| 959 | 247 | Wizz |
 | 960 | 247 | Linda Miltenburg |
 | 961 | 246 | Stacey Tranchida |
 | 962 | 246 | Laura McConnell |

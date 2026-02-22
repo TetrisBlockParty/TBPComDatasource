@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Nikki Pags |
 | 250 | 260 | Grams |
@@ -276,8 +276,8 @@
 | 268 | 236 | Angela Scott |
 | 269 | 236 | Jess Bissett |
 | 270 | 235 | Cozy Snaplink |
-| 271 | 233 | Josh Borquez |
-| 272 | 233 | Ray Lader |
+| 271 | 233 | Ray Lader |
+| 272 | 233 | Josh Borquez |
 | 273 | 232 | Donna |
 | 274 | 227 | Krystal Gerstberger |
 | 275 | 227 | Meowsa |
@@ -324,8 +324,8 @@
 | 316 | 201 | Hyper Matchzone |
 | 317 | 201 | Alexmac |
 | 318 | 200 | glichmod |
-| 319 | 200 | Colleen Phelps |
-| 320 | 200 | Sharisse Baltimore |
+| 319 | 200 | Sharisse Baltimore |
+| 320 | 200 | Colleen Phelps |
 | 321 | 200 | Saucy Buildout |
 | 322 | 199 | Mariah Williams |
 | 323 | 199 | Christian Werndl |

@@ -116,8 +116,8 @@
 | 108 | 344 | Bhelle Sumile |
 | 109 | 342 | Brenda Stewart |
 | 110 | 341 | Nick R Montague |
-| 111 | 333 | Brandi Huntington |
-| 112 | 333 | Gracie |
+| 111 | 333 | Gracie |
+| 112 | 333 | Brandi Huntington |
 | 113 | 332 | Kristen Gideon |
 | 114 | 330 | Sweet Baker |
 | 115 | 326 | Monica Donato |
@@ -269,8 +269,8 @@
 | 261 | 170 | Tina Englert |
 | 262 | 169 | Abbey Crespo |
 | 263 | 168 | Angela Fairbank |
-| 264 | 167 | Cranky Pattern |
-| 265 | 167 | Nery Martinez |
+| 264 | 167 | Nery Martinez |
+| 265 | 167 | Cranky Pattern |
 | 266 | 166 | Carrie Smith |
 | 267 | 165 | Silly Align |
 | 268 | 165 | Nadine Velardo |

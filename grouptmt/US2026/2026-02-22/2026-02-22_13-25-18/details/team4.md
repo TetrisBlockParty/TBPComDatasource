@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Carrie Brian |
-| 139 | 278 | Desi Desporte |
+| 138 | 278 | Desi Desporte |
+| 139 | 278 | Carrie Brian |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -172,8 +172,8 @@
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Autum Leigh |
-| 168 | 230 | Cursed Hag |
+| 167 | 230 | Cursed Hag |
+| 168 | 230 | Autum Leigh |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
@@ -227,8 +227,8 @@
 | 219 | 186 | Holly |
 | 220 | 185 | Lindsey Gonzalez |
 | 221 | 185 | Laura Hosford |
-| 222 | 184 | Lauren Lamb |
-| 223 | 184 | Ak Jones |
+| 222 | 184 | Ak Jones |
+| 223 | 184 | Lauren Lamb |
 | 224 | 181 | Carter Jones |
 | 225 | 181 | Jackie Marie |
 | 226 | 180 | Orchislactea |
