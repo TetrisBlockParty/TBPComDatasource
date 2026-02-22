@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -139,8 +139,8 @@
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Desi Desporte |
 | 133 | 278 | Carrie Brian |
-| 134 | 277 | Scott Jameson |
-| 135 | 277 | Mary Ann Pabukis |
+| 134 | 277 | Mary Ann Pabukis |
+| 135 | 277 | Scott Jameson |
 | 136 | 275 | Dizzy Tiley |
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
@@ -163,15 +163,15 @@
 | 155 | 230 | Autum Leigh |
 | 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Kris Bartlett |
 | 163 | 223 | Antony Dwayne Beasley |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -218,8 +218,8 @@
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -232,8 +232,8 @@
 | 224 | 165 | James Hurley Jr. |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | Joanna |
-| 228 | 162 | John Brunetti |
+| 227 | 162 | John Brunetti |
+| 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Brittany Marsh |
 | 231 | 160 | Laura Hosford |
@@ -404,9 +404,9 @@
 | 396 | 101 | Saulc1991 |
 | 397 | 101 | wombat |
 | 398 | 101 | Nick Horn |
-| 399 | 100 | Rico |
-| 400 | 100 | Sallie Sanborn |
-| 401 | 100 | Marcus TheeyoungWoe Gilmore |
+| 399 | 100 | Sallie Sanborn |
+| 400 | 100 | Marcus TheeyoungWoe Gilmore |
+| 401 | 100 | Rico |
 | 402 | 99 | Dapper Frame |
 | 403 | 98 | Squeezy Pearsall |
 | 404 | 98 | Dizzy Matchzone |
@@ -420,8 +420,8 @@
 | 412 | 97 | Serena Butter |
 | 413 | 96 | Sammy Noguera |
 | 414 | 96 | Rebecca Blake |
-| 415 | 95 | Jobadia Steelerton |
-| 416 | 95 | Chirpy Slammer |
+| 415 | 95 | Chirpy Slammer |
+| 416 | 95 | Jobadia Steelerton |
 | 417 | 95 | RedBoots82 |
 | 418 | 94 | Adawna Swires |
 | 419 | 94 | Ahleek Mitchell |

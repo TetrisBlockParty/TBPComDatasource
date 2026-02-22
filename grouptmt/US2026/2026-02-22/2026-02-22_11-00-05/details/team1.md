@@ -89,9 +89,9 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Candy Jones |
-| 85 | 390 | Lori Bales |
-| 86 | 390 | Goose egg |
+| 84 | 390 | Lori Bales |
+| 85 | 390 | Goose egg |
+| 86 | 390 | Candy Jones |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -123,11 +123,11 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -138,8 +138,8 @@
 | 130 | 284 | Rachael |
 | 131 | 283 | Franswa |
 | 132 | 282 | Timothy Dew |
-| 133 | 282 | Snippy Wipebuilder |
-| 134 | 282 | Cool Shiftsnap |
+| 133 | 282 | Cool Shiftsnap |
+| 134 | 282 | Snippy Wipebuilder |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
@@ -183,8 +183,8 @@
 | 175 | 213 | Daring Fitclear |
 | 176 | 212 | Jaimie Lynn |
 | 177 | 211 | Marianita Garcia |
-| 178 | 210 | Letson Melissa |
-| 179 | 210 | Giggly Builderline |
+| 178 | 210 | Giggly Builderline |
+| 179 | 210 | Letson Melissa |
 | 180 | 209 | Debbie Davis |
 | 181 | 208 | Donna Addison Williams |
 | 182 | 208 | Bouncy Grid |
@@ -225,8 +225,8 @@
 | 217 | 186 | Margo Wagner |
 | 218 | 185 | Amanda Holibaugh |
 | 219 | 184 | Chris Sigurdson |
-| 220 | 183 | Amy Hess |
-| 221 | 183 | Andrew Boone |
+| 220 | 183 | Andrew Boone |
+| 221 | 183 | Amy Hess |
 | 222 | 182 | Phu ckalldems |
 | 223 | 180 | Beau Galvan |
 | 224 | 180 | Erez Yosef |
@@ -388,9 +388,9 @@
 | 380 | 104 | Serina Marie |
 | 381 | 103 | Alex Gauthier |
 | 382 | 103 | Mariah Cornell |
-| 383 | 102 | osodabear |
-| 384 | 102 | Twisty Wobbler |
-| 385 | 102 | Sarah Henniker |
+| 383 | 102 | Sarah Henniker |
+| 384 | 102 | osodabear |
+| 385 | 102 | Twisty Wobbler |
 | 386 | 102 | Marie White |
 | 387 | 101 | Mizzledagod |
 | 388 | 101 | Mighty Shatterfit |
