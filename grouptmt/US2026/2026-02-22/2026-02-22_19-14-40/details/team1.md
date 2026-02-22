@@ -145,8 +145,8 @@
 | 137 | 334 | Jaimie Lynn |
 | 138 | 333 | GATOR |
 | 139 | 333 | Gracie |
-| 140 | 332 | Kristen Gideon |
-| 141 | 332 | Lehrin Maria |
+| 140 | 332 | Lehrin Maria |
+| 141 | 332 | Kristen Gideon |
 | 142 | 330 | Ash Galvan |
 | 143 | 328 | Fmp |
 | 144 | 326 | Monica Donato |
@@ -159,8 +159,8 @@
 | 151 | 308 | Sharon Reynolds |
 | 152 | 306 | Happy Basegrid |
 | 153 | 306 | Bloknboy |
-| 154 | 304 | Nicole Roseberry Weber |
-| 155 | 304 | Constance Risner |
+| 154 | 304 | Constance Risner |
+| 155 | 304 | Nicole Roseberry Weber |
 | 156 | 303 | Chelsea Dahlquist |
 | 157 | 299 | Chris K |
 | 158 | 297 | Danielle Little-Daugherty |
@@ -169,8 +169,8 @@
 | 161 | 293 | Letson Melissa |
 | 162 | 292 | David Lutcher |
 | 163 | 285 | ALFD |
-| 164 | 284 | Rachael |
-| 165 | 284 | Emily Adelaide Wheatley |
+| 164 | 284 | Emily Adelaide Wheatley |
+| 165 | 284 | Rachael |
 | 166 | 283 | Franswa |
 | 167 | 282 | Snippy Wipebuilder |
 | 168 | 282 | Cool Shiftsnap |

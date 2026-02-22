@@ -189,8 +189,8 @@
 | 181 | 410 | Stephanie Simpson |
 | 182 | 407 | Jone |
 | 183 | 405 | JerseyJess |
-| 184 | 405 | Marcie Bressler |
-| 185 | 405 | Sherry Ogden |
+| 184 | 405 | Sherry Ogden |
+| 185 | 405 | Marcie Bressler |
 | 186 | 403 | Scott Lindsay |
 | 187 | 400 | Sherika C. McDaniels |
 | 188 | 399 | Christine Trester |
@@ -324,8 +324,8 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kiki |
-| 320 | 231 | Kevin Russell |
+| 319 | 231 | Kevin Russell |
+| 320 | 231 | Kiki |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
@@ -444,9 +444,9 @@
 | 436 | 172 | Miranda Taylor |
 | 437 | 172 | Jl |
 | 438 | 171 | Jul |
-| 439 | 170 | Melissa Snyder |
-| 440 | 170 | Bouncy Blockbuilder |
-| 441 | 170 | Tegan Chapman |
+| 439 | 170 | Tegan Chapman |
+| 440 | 170 | Melissa Snyder |
+| 441 | 170 | Bouncy Blockbuilder |
 | 442 | 169 | luluraine |
 | 443 | 169 | Peachy Rollfit |
 | 444 | 169 | Boldy Corner |

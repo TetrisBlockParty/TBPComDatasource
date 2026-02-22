@@ -137,8 +137,8 @@
 | 129 | 1439 | Jumpy Gridpiece |
 | 130 | 1435 | Jessie McDougald |
 | 131 | 1418 | L3sli3 |
-| 132 | 1411 | niecy |
-| 133 | 1411 | Zappy Cascade |
+| 132 | 1411 | Zappy Cascade |
+| 133 | 1411 | niecy |
 | 134 | 1401 | Brandy Andre |
 | 135 | 1384 | Katrina Williams Balmir |
 | 136 | 1383 | Ladyrainbootz |
@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Prado |
-| 189 | 1131 | Stacey Clement |
+| 188 | 1131 | Stacey Clement |
+| 189 | 1131 | Prado |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -274,8 +274,8 @@
 | 266 | 867 | Peppy Zone |
 | 267 | 865 | Kristin Gower |
 | 268 | 862 | Brittany Radaszewski |
-| 269 | 860 | Sheniya Spurgeon |
-| 270 | 860 | April Dawn Gussler |
+| 269 | 860 | April Dawn Gussler |
+| 270 | 860 | Sheniya Spurgeon |
 | 271 | 860 | William Hunt |
 | 272 | 857 | Kara Gillen |
 | 273 | 855 | F-X |
@@ -307,8 +307,8 @@
 | 299 | 797 | Offonar Facey |
 | 300 | 797 | Osun Anuket Esu |
 | 301 | 796 | Angie Bolton Workman |
-| 302 | 787 | Dee |
-| 303 | 787 | Laura McCarthey |
+| 302 | 787 | Laura McCarthey |
+| 303 | 787 | Dee |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
 | 306 | 777 | Jessicah Myers |
@@ -517,8 +517,8 @@
 | 509 | 496 | Erika Densmore |
 | 510 | 495 | Bubbly Snapbuild |
 | 511 | 494 | Venita Ray |
-| 512 | 493 | Sue Leard |
-| 513 | 493 | Sarah DeHart |
+| 512 | 493 | Sarah DeHart |
+| 513 | 493 | Sue Leard |
 | 514 | 492 | Breezy Clusterer |
 | 515 | 492 | Maya June |
 | 516 | 492 | Armonie Smith |
@@ -526,15 +526,15 @@
 | 518 | 491 | Alezandra Smith |
 | 519 | 491 | Jedi |
 | 520 | 488 | Christina Wsn |
-| 521 | 487 | MrsCandyfine As Wine Truss |
-| 522 | 487 | Morgan Easter |
+| 521 | 487 | Morgan Easter |
+| 522 | 487 | MrsCandyfine As Wine Truss |
 | 523 | 485 | Mamachelle Eisweirth |
 | 524 | 484 | Street Sweeper |
 | 525 | 484 | Wendy Unsain |
 | 526 | 482 | Drwatson187 |
 | 527 | 482 | Amélie Cadieux |
-| 528 | 481 | Quirky Twistline |
-| 529 | 481 | Anthony Huebel |
+| 528 | 481 | Anthony Huebel |
+| 529 | 481 | Quirky Twistline |
 | 530 | 481 | Klee |
 | 531 | 480 | Ryan Meilleur |
 | 532 | 480 | Ashley Collins |
@@ -634,21 +634,21 @@
 | 626 | 423 | Taylor Flowers |
 | 627 | 423 | Smashanator |
 | 628 | 422 | Stefanie Zonzini-Gagliardi |
-| 629 | 420 | Joice Hansen |
-| 630 | 420 | Kacee Conrad Bock |
-| 631 | 419 | Pocho Zavala |
+| 629 | 420 | Kacee Conrad Bock |
+| 630 | 420 | Joice Hansen |
+| 631 | 419 | Frilly Fallzone |
 | 632 | 419 | Josh Dill |
-| 633 | 419 | Frilly Fallzone |
+| 633 | 419 | Pocho Zavala |
 | 634 | 418 | Dawn L Washington-Feuquay |
 | 635 | 417 | Lauren Fitzgerald Thomas |
-| 636 | 417 | Alexx Anaya |
-| 637 | 417 | Oscar Bernie |
-| 638 | 416 | Mo Shine On |
-| 639 | 416 | Ricky Fortune |
+| 636 | 417 | Oscar Bernie |
+| 637 | 417 | Alexx Anaya |
+| 638 | 416 | Ricky Fortune |
+| 639 | 416 | Mo Shine On |
 | 640 | 414 | Daniel Amos |
 | 641 | 414 | John |
-| 642 | 413 | Kristen O'Neal |
-| 643 | 413 | Kimberly Ann |
+| 642 | 413 | Kimberly Ann |
+| 643 | 413 | Kristen O'Neal |
 | 644 | 412 | Jason H Baker |
 | 645 | 411 | Jasmine Kenney |
 | 646 | 411 | Christina Ashley |

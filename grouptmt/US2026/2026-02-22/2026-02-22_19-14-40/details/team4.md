@@ -140,8 +140,8 @@
 | 132 | 338 | Lucas J Sutton |
 | 133 | 336 | Austin Owens |
 | 134 | 336 | Jessica Bohlken |
-| 135 | 332 | Desi Desporte |
-| 136 | 332 | HastyGrabber |
+| 135 | 332 | HastyGrabber |
+| 136 | 332 | Desi Desporte |
 | 137 | 330 | David Lay |
 | 138 | 329 | Jessica Lynn Cutlip |
 | 139 | 328 | Kris Bartlett |
@@ -154,10 +154,10 @@
 | 146 | 316 | Meagan Nicole |
 | 147 | 314 | Andy Cabral |
 | 148 | 308 | Jeff Brian Gates |
-| 149 | 307 | Bio Nelly |
-| 150 | 307 | Angela Srubar-Norman |
-| 151 | 300 | Jason Hart |
-| 152 | 300 | Dana Scott |
+| 149 | 307 | Angela Srubar-Norman |
+| 150 | 307 | Bio Nelly |
+| 151 | 300 | Dana Scott |
+| 152 | 300 | Jason Hart |
 | 153 | 299 | TRCuse |
 | 154 | 294 | Kesha Brady |
 | 155 | 294 | Calvin Cannon |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -347,8 +347,8 @@
 | 339 | 146 | Jarred Falls |
 | 340 | 146 | Brave Spinbuilder |
 | 341 | 146 | PennyCandee |
-| 342 | 145 | Glitzy Crasher |
-| 343 | 145 | Sandra Safford |
+| 342 | 145 | Sandra Safford |
+| 343 | 145 | Glitzy Crasher |
 | 344 | 144 | Squeezy Pearsall |
 | 345 | 143 | Metsfan |
 | 346 | 143 | Daresha Fair |
@@ -356,7 +356,7 @@
 | 348 | 142 | Nerdy Twisterfit |
 | 349 | 142 | Alexandra Karavias |
 | 350 | 142 | Katie Alexander |
-| 351 | 142 | Nerdy Twisterfit |
+| 351 | 142 | Chantilly Laace |
 | 352 | 142 | Berklie Apedaile |
 | 353 | 141 | Courtney Halleck |
 | 354 | 141 | Joshua Cuellar |
