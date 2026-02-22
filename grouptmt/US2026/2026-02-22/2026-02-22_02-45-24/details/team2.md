@@ -334,8 +334,8 @@
 | 326 | 492 | Armonie Smith |
 | 327 | 491 | Michael Buckner |
 | 328 | 489 | Osun Anuket Esu |
-| 329 | 488 | Andrew Willis |
-| 330 | 488 | Venita Ray |
+| 329 | 488 | Venita Ray |
+| 330 | 488 | Andrew Willis |
 | 331 | 487 | MrsCandyfine As Wine Truss |
 | 332 | 485 | Christi Hulet |
 | 333 | 483 | Alezandra Smith |
@@ -736,8 +736,8 @@
 | 728 | 243 | JacJac |
 | 729 | 243 | Albert McKnight |
 | 730 | 243 | Cool Grabber |
-| 731 | 242 | Angela Yantz |
-| 732 | 242 | Aimee Campbell |
+| 731 | 242 | Aimee Campbell |
+| 732 | 242 | Angela Yantz |
 | 733 | 242 | Donna Chandler |
 | 734 | 241 | Travis Tinsley |
 | 735 | 241 | Ronda Cary |

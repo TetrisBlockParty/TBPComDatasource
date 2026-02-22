@@ -281,8 +281,8 @@
 | 273 | 171 | Emma |
 | 274 | 171 | Melissa Orth Hunter |
 | 275 | 170 | Cesar Barraza |
-| 276 | 169 | Kristian Thurman |
-| 277 | 169 | Eileen Brady Thurber |
+| 276 | 169 | Eileen Brady Thurber |
+| 277 | 169 | Kristian Thurman |
 | 278 | 167 | Shicken Nuggit |
 | 279 | 167 | fraulila |
 | 280 | 166 | Betty Rosas |
@@ -298,8 +298,8 @@
 | 290 | 161 | Bouncy Blockbuilder |
 | 291 | 161 | Michael Johnson |
 | 292 | 160 | Rachel |
-| 293 | 159 | Joshua David Huie |
-| 294 | 159 | Jone |
+| 293 | 159 | Jone |
+| 294 | 159 | Joshua David Huie |
 | 295 | 158 | Willow |
 | 296 | 157 | Samantha Lynn |
 | 297 | 157 | Danielle Balcom |

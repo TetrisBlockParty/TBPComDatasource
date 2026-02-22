@@ -99,8 +99,8 @@
 | 91 | 313 | Tanya Carpenter-Reynolds |
 | 92 | 310 | Seth Wesson |
 | 93 | 307 | Hyper |
-| 94 | 305 | Patrick Luckenbill |
-| 95 | 305 | Spunky Piecebuilder |
+| 94 | 305 | Spunky Piecebuilder |
+| 95 | 305 | Patrick Luckenbill |
 | 96 | 304 | Nicole Roseberry Weber |
 | 97 | 303 | Carrie Beck Geartz |
 | 98 | 303 | cc |
@@ -118,8 +118,8 @@
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
 | 112 | 273 | Happy Basegrid |
-| 113 | 263 | Sharon Reynolds |
-| 114 | 263 | Jason Jones |
+| 113 | 263 | Jason Jones |
+| 114 | 263 | Sharon Reynolds |
 | 115 | 262 | Dandy Basegrid |
 | 116 | 258 | Katie Daniels |
 | 117 | 257 | june october |
@@ -132,8 +132,8 @@
 | 124 | 240 | Lexuriuos Lifestlye |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
-| 127 | 230 | Billie Dawn Sparks |
-| 128 | 230 | Frothy Pattern |
+| 127 | 230 | Frothy Pattern |
+| 128 | 230 | Billie Dawn Sparks |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
 | 131 | 226 | ALFD |
@@ -153,14 +153,14 @@
 | 145 | 198 | Happy Snapbuild |
 | 146 | 197 | Bouncy Grid |
 | 147 | 195 | Daring Fitclear |
-| 148 | 194 | Ash Galvan |
-| 149 | 194 | Tyler Werts |
+| 148 | 194 | Tyler Werts |
+| 149 | 194 | Ash Galvan |
 | 150 | 193 | Lachelle Dillon |
 | 151 | 192 | Jessica Sheehan |
 | 152 | 192 | Shaykmia |
 | 153 | 191 | Diane Byrd |
-| 154 | 190 | Sweetts |
-| 155 | 190 | Thorne Shumate |
+| 154 | 190 | Thorne Shumate |
+| 155 | 190 | Sweetts |
 | 156 | 188 | Sam Williams |
 | 157 | 188 | Michael |
 | 158 | 187 | Jennifer Olewnik Soborowski |
@@ -193,8 +193,8 @@
 | 185 | 167 | Erin Hodges Plumb |
 | 186 | 167 | Nery Martinez |
 | 187 | 166 | Rico Rico |
-| 188 | 165 | Nadine Velardo |
-| 189 | 165 | Arianna O'Brien |
+| 188 | 165 | Arianna O'Brien |
+| 189 | 165 | Nadine Velardo |
 | 190 | 164 | Shanae Grant |
 | 191 | 163 | Tyler Whitley |
 | 192 | 163 | Angela Fairbank |
@@ -266,8 +266,8 @@
 | 258 | 118 | Jerry Danowski |
 | 259 | 117 | Chantelle Ceno |
 | 260 | 116 | Fresno Beotoni |
-| 261 | 115 | Chuck Gannon |
-| 262 | 115 | Mrs.Patrica |
+| 261 | 115 | Mrs.Patrica |
+| 262 | 115 | Chuck Gannon |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
 | 265 | 112 | Nerdy Curvebuilder |

@@ -212,7 +212,7 @@
 | 204 | 141 | ĥuf |
 | 205 | 141 | Kathy Allen |
 | 206 | 141 | Victoria Faniel |
-| 207 | 141 | Kathy Allen |
+| 207 | 141 | Montiette Mcglown |
 | 208 | 140 | Sam Bishop |
 | 209 | 139 | Chaz |
 | 210 | 139 | Nerdy Twisterfit |
@@ -293,8 +293,8 @@
 | 285 | 108 | Ali Ian |
 | 286 | 107 | Brandi Durig |
 | 287 | 106 | Zappy Snaplink |
-| 288 | 106 | Bradley Reeves |
-| 289 | 106 | Jacob Richard |
+| 288 | 106 | Jacob Richard |
+| 289 | 106 | Bradley Reeves |
 | 290 | 105 | GBR |
 | 291 | 104 | mike |
 | 292 | 104 | Metsfan |
