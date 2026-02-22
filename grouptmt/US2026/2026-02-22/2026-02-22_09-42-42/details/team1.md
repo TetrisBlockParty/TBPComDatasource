@@ -76,8 +76,8 @@
 | 68 | 471 | Seante Bullock |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -112,8 +112,8 @@
 | 104 | 341 | Nick R Montague |
 | 105 | 333 | Brandi Huntington |
 | 106 | 333 | phrmblk24 |
-| 107 | 332 | Luciano Moreira |
-| 108 | 332 | Kristen Gideon |
+| 107 | 332 | Kristen Gideon |
+| 108 | 332 | Luciano Moreira |
 | 109 | 330 | Sweet Baker |
 | 110 | 328 | Gracie |
 | 111 | 326 | Monica Donato |
@@ -158,8 +158,8 @@
 | 150 | 253 | Witty Builderfit |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
-| 153 | 244 | Mandyy Rae |
-| 154 | 244 | Tyler Werts |
+| 153 | 244 | Tyler Werts |
+| 154 | 244 | Mandyy Rae |
 | 155 | 243 | Trippy Redd |
 | 156 | 242 | ALFD |
 | 157 | 241 | John J. Cronin |
@@ -173,8 +173,8 @@
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
@@ -192,8 +192,8 @@
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |
@@ -206,8 +206,8 @@
 | 198 | 194 | Christy Jones |
 | 199 | 193 | Lachelle Dillon |
 | 200 | 193 | Michael |
-| 201 | 191 | Diane Byrd |
-| 202 | 191 | Shanae Grant |
+| 201 | 191 | Shanae Grant |
+| 202 | 191 | Diane Byrd |
 | 203 | 190 | Sweetts |
 | 204 | 190 | Thorne Shumate |
 | 205 | 189 | Jeanna Dunn |
@@ -217,8 +217,8 @@
 | 209 | 186 | Margo Wagner |
 | 210 | 186 | Erin Hodges Plumb |
 | 211 | 184 | Chris Sigurdson |
-| 212 | 183 | Amy Hess |
-| 213 | 183 | Andrew Boone |
+| 212 | 183 | Andrew Boone |
+| 213 | 183 | Amy Hess |
 | 214 | 182 | Phu ckalldems |
 | 215 | 180 | Erez Yosef |
 | 216 | 180 | Jessie Lynn |
@@ -249,16 +249,16 @@
 | 241 | 167 | Cranky Pattern |
 | 242 | 165 | Nadine Velardo |
 | 243 | 165 | Silly Align |
-| 244 | 163 | Davery Spencer Adair |
+| 244 | 163 | Blaire Bruckoff |
 | 245 | 163 | Tyler Whitley |
-| 246 | 163 | Blaire Bruckoff |
+| 246 | 163 | Davery Spencer Adair |
 | 247 | 161 | SavageBooty98 |
 | 248 | 160 | Tedashi |
 | 249 | 158 | Sarah Marie |
 | 250 | 156 | Mark Smith |
 | 251 | 155 | Barry Mac'Ockner |
-| 252 | 154 | Gary Gobin |
-| 253 | 154 | Tawnya Peltonen |
+| 252 | 154 | Tawnya Peltonen |
+| 253 | 154 | Gary Gobin |
 | 254 | 154 | Melissa Lemmon |
 | 255 | 153 | Dino |
 | 256 | 153 | Tami Luce Martin |
@@ -327,8 +327,8 @@
 | 319 | 124 | Rodney Schmerfeld |
 | 320 | 123 | Tonya Beasley |
 | 321 | 122 | Nate Funk |
-| 322 | 121 | .running. |
-| 323 | 121 | Pauline Cortez |
+| 322 | 121 | Jacob Shaddock |
+| 323 | 121 | .running. |
 | 324 | 121 | John Ramirez |
 | 325 | 121 | Pauline Cortez |
 | 326 | 120 | Jasmine Riley |

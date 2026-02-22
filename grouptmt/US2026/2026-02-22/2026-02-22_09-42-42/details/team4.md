@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -135,8 +135,8 @@
 | 127 | 286 | Daria Rycewicz |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
-| 130 | 278 | Carrie Brian |
-| 131 | 278 | Desi Desporte |
+| 130 | 278 | Desi Desporte |
+| 131 | 278 | Carrie Brian |
 | 132 | 277 | Scott Jameson |
 | 133 | 277 | Mary Ann Pabukis |
 | 134 | 275 | Dizzy Tiley |

@@ -206,8 +206,8 @@
 | 198 | 919 | Isaac Trappiel IV |
 | 199 | 916 | Butta |
 | 200 | 915 | Kelly Trent |
-| 201 | 910 | Shuany Arias |
-| 202 | 910 | Crystal Hoffman |
+| 201 | 910 | Crystal Hoffman |
+| 202 | 910 | Shuany Arias |
 | 203 | 907 | Gene Mills |
 | 204 | 906 | Poppy Snap |
 | 205 | 901 | Jennifer Peachey |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -399,8 +399,8 @@
 | 391 | 522 | Lylymom |
 | 392 | 522 | Joseph Musick |
 | 393 | 521 | Tj Ball |
-| 394 | 520 | Maddy Petersen |
-| 395 | 520 | Angela Lynn |
+| 394 | 520 | Angela Lynn |
+| 395 | 520 | Maddy Petersen |
 | 396 | 519 | Rob Brown |
 | 397 | 517 | Alex Dungo Hoang |
 | 398 | 517 | Porsche' Nicole |
@@ -446,8 +446,8 @@
 | 438 | 483 | Victor Obiakarije |
 | 439 | 482 | Ben Barkley |
 | 440 | 482 | Amélie Cadieux |
-| 441 | 482 | Eckoman518 |
-| 442 | 482 | Drwatson187 |
+| 441 | 482 | Drwatson187 |
+| 442 | 482 | Eckoman518 |
 | 443 | 481 | Klee |
 | 444 | 480 | Ashley Collins |
 | 445 | 480 | Dar |
@@ -480,8 +480,8 @@
 | 472 | 456 | Melissa Rebbe-Lehman |
 | 473 | 455 | Kiana Boschh |
 | 474 | 454 | Casey Schumacher |
-| 475 | 453 | Rhonda Petro |
-| 476 | 453 | Joshua Sommerville |
+| 475 | 453 | Joshua Sommerville |
+| 476 | 453 | Rhonda Petro |
 | 477 | 451 | Funky Caster |
 | 478 | 451 | Cody Nishimura |
 | 479 | 451 | Dylan Thomason |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Destiny Cozier |
-| 507 | 427 | Quinn |
+| 506 | 427 | Quinn |
+| 507 | 427 | Destiny Cozier |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -685,8 +685,8 @@
 | 677 | 335 | Maria Louise |
 | 678 | 334 | Melissa James |
 | 679 | 333 | Veronica Stevenson |
-| 680 | 333 | Woodys Glass |
-| 681 | 333 | Adrian Benitez |
+| 680 | 333 | Adrian Benitez |
+| 681 | 333 | Woodys Glass |
 | 682 | 332 | Lathasa Newkirk |
 | 683 | 330 | Jennifer Monroe Kelly |
 | 684 | 329 | Chummy Blockbuilder |
@@ -716,8 +716,8 @@
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Snippy Block |
 | 715 | 313 | Marina Linda |
@@ -731,15 +731,15 @@
 | 723 | 310 | Audra Williams |
 | 724 | 309 | Byung Bae Park |
 | 725 | 308 | Prado |
-| 726 | 308 | Danielle Ayoub |
+| 726 | 308 | Hyper Riseclear |
 | 727 | 308 | Claire |
 | 728 | 308 | Sarah block |
 | 729 | 308 | Danielle Ayoub |
 | 730 | 307 | stacey |
 | 731 | 307 | Peachy Blockbuilder |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | Zany Clusterbuilder |
-| 734 | 305 | MamaBear11 |
+| 733 | 305 | MamaBear11 |
+| 734 | 305 | Zany Clusterbuilder |
 | 735 | 305 | Narutofreak13 |
 | 736 | 304 | Melissa McCall |
 | 737 | 304 | James Smith |
@@ -776,8 +776,8 @@
 | 768 | 291 | Bella Novia |
 | 769 | 289 | August Hale |
 | 770 | 288 | thranduil |
-| 771 | 288 | Samantha Angelo |
-| 772 | 288 | Jenna Nance |
+| 771 | 288 | Jenna Nance |
+| 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
 | 775 | 287 | Toni Roberson |
@@ -828,8 +828,8 @@
 | 820 | 272 | Alexandrea |
 | 821 | 272 | Witty Piecebuilder |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Shalisa Hill |
-| 824 | 271 | Beverly Hodge |
+| 823 | 271 | Beverly Hodge |
+| 824 | 271 | Shalisa Hill |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Nat |
 | 827 | 270 | Lazy Builderfit |
@@ -857,8 +857,8 @@
 | 849 | 263 | Elizabeth Leinen |
 | 850 | 263 | Sara Pennington |
 | 851 | 262 | Taren Cowan |
-| 852 | 261 | Gina Gina |
-| 853 | 261 | Dany Murillo |
+| 852 | 261 | Dany Murillo |
+| 853 | 261 | Gina Gina |
 | 854 | 261 | MrsClaudette Will'sIam Matthews |
 | 855 | 260 | Manny Trindade |
 | 856 | 260 | Giggly Snap |
@@ -1461,10 +1461,10 @@
 | 1453 | 155 | Tina Kennedy |
 | 1454 | 155 | BeenRich Theceo |
 | 1455 | 155 | Paula Martinez |
-| 1456 | 155 | STLBatman |
-| 1457 | 155 | Emilee Burke |
+| 1456 | 155 | Emilee Burke |
+| 1457 | 155 | STLBatman |
 | 1458 | 155 | Melissa Schwager |
-| 1459 | 154 | Mine |
+| 1459 | 154 | Alexander Rodriguez |
 | 1460 | 154 | Stacey |
 | 1461 | 154 | Mine |
 | 1462 | 154 | Fancy Setter |

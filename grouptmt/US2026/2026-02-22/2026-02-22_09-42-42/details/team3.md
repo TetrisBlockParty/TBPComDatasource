@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Rachael McClain Owens |
 | 104 | 565 | Patty Allen |
-| 105 | 562 | Louise Stacy Sisson |
-| 106 | 562 | Dave Herzog |
+| 105 | 562 | Dave Herzog |
+| 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Stephanie Burtin |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -226,8 +226,8 @@
 | 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Connie Mohler-Fair |
-| 263 | 234 | Nikki Pags |
+| 262 | 234 | Nikki Pags |
+| 263 | 234 | Connie Mohler-Fair |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -645,8 +645,8 @@
 | 637 | 93 | Tucker Allen |
 | 638 | 93 | Katheline Lazo Luizaga |
 | 639 | 92 | Patty White |
-| 640 | 92 | Jennifer Caputo |
-| 641 | 92 | Jackie-Lynne Goertzen |
+| 640 | 92 | Jackie-Lynne Goertzen |
+| 641 | 92 | Jennifer Caputo |
 | 642 | 92 | Kathleen Taylor |
 | 643 | 92 | Cary M. Fong |
 | 644 | 91 | Block Dropper |
