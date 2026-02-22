@@ -110,9 +110,9 @@
 | 102 | 411 | Luciano Moreira |
 | 103 | 409 | Yvonne Marie |
 | 104 | 395 | Nery Martinez |
-| 105 | 390 | Candy Jones |
-| 106 | 390 | Goose egg |
-| 107 | 390 | Lori Bales |
+| 105 | 390 | Goose egg |
+| 106 | 390 | Lori Bales |
+| 107 | 390 | Candy Jones |
 | 108 | 385 | Brenda Stewart |
 | 109 | 383 | pjbeta |
 | 110 | 380 | Dee Perry |
@@ -221,16 +221,16 @@
 | 213 | 228 | Cheeky Pop |
 | 214 | 227 | Cody Gates |
 | 215 | 226 | Michael |
-| 216 | 225 | Bindi |
-| 217 | 225 | Jessie Lynn |
+| 216 | 225 | Jessie Lynn |
+| 217 | 225 | Bindi |
 | 218 | 224 | ParisandCory Champagne |
 | 219 | 223 | Shiny Gridmatch |
 | 220 | 223 | Erez Yosef |
 | 221 | 223 | Christina Backer |
 | 222 | 223 | Basment Living |
 | 223 | 222 | Debbie Davis |
-| 224 | 221 | Daring Fitclear |
-| 225 | 221 | Amy Hess |
+| 224 | 221 | Amy Hess |
+| 225 | 221 | Daring Fitclear |
 | 226 | 220 | Giddy Cascade |
 | 227 | 219 | Chuck Gannon |
 | 228 | 217 | Jason Savage |

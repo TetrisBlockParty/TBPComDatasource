@@ -129,8 +129,8 @@
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
 | 123 | 565 | Daryn Elliott |
-| 124 | 562 | Louise Stacy Sisson |
-| 125 | 562 | Dave Herzog |
+| 124 | 562 | Dave Herzog |
+| 125 | 562 | Louise Stacy Sisson |
 | 126 | 555 | Nicole Myers |
 | 127 | 553 | Domo Washington |
 | 128 | 551 | Alaina Lee |
@@ -185,8 +185,8 @@
 | 177 | 415 | ren |
 | 178 | 410 | Stephanie Simpson |
 | 179 | 407 | Jone |
-| 180 | 405 | JerseyJess |
-| 181 | 405 | Marcie Bressler |
+| 180 | 405 | Marcie Bressler |
+| 181 | 405 | JerseyJess |
 | 182 | 403 | Scott Lindsay |
 | 183 | 402 | Rochelle Hazelett |
 | 184 | 400 | Sherika C. McDaniels |
