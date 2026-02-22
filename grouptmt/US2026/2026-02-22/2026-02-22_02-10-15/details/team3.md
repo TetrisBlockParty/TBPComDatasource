@@ -78,9 +78,9 @@
 | 70 | 613 | Amber Hughes |
 | 71 | 604 | Danielle Becker |
 | 72 | 588 | yoyo |
-| 73 | 582 | Natasha Jones |
-| 74 | 582 | Jay Horn |
-| 75 | 582 | Katrina Schroeder |
+| 73 | 582 | Katrina Schroeder |
+| 74 | 582 | Natasha Jones |
+| 75 | 582 | Jay Horn |
 | 76 | 581 | Danielle Mogg |
 | 77 | 580 | Amanda L Baker |
 | 78 | 577 | Speedy Bridger |
@@ -111,8 +111,8 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jenny Hrndz |
-| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
 | 109 | 428 | Betty Ivy |
 | 110 | 428 | Elissa S-k |
@@ -149,8 +149,8 @@
 | 141 | 347 | Nicole Flippo |
 | 142 | 347 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tom Nault |
-| 180 | 261 | Tiffany Ford |
+| 179 | 261 | Tiffany Ford |
+| 180 | 261 | Tom Nault |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -223,15 +223,15 @@
 | 215 | 215 | IamJust Neyamijah Washington Sr. |
 | 216 | 214 | Amy Fuller Heaton |
 | 217 | 212 | Twisty Brick LT |
-| 218 | 211 | Giddy Twistbuilder |
-| 219 | 211 | Khaleada McGill Banks |
+| 218 | 211 | Khaleada McGill Banks |
+| 219 | 211 | Giddy Twistbuilder |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Jessica |
-| 223 | 207 | Chris Bell |
+| 222 | 207 | Chris Bell |
+| 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
-| 225 | 204 | Danielle Allison |
-| 226 | 204 | Aerian Preston |
+| 225 | 204 | Aerian Preston |
+| 226 | 204 | Danielle Allison |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
 | 229 | 200 | glichmod |

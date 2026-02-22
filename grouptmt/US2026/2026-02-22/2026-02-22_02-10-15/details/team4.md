@@ -148,8 +148,8 @@
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jeff Brian Gates |
-| 144 | 196 | Jenna McGeorge |
+| 143 | 196 | Jenna McGeorge |
+| 144 | 196 | Jeff Brian Gates |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
@@ -193,8 +193,8 @@
 | 185 | 149 | Megan Cutshaw |
 | 186 | 149 | Shainne Brewer |
 | 187 | 148 | Brittany Marsh |
-| 188 | 148 | Janita Parrish |
-| 189 | 148 | Mr. Party |
+| 188 | 148 | Mr. Party |
+| 189 | 148 | Janita Parrish |
 | 190 | 147 | Jay28 |
 | 191 | 147 | B Renee Desjardin |
 | 192 | 145 | Mimi |
@@ -211,10 +211,10 @@
 | 203 | 140 | Sam Bishop |
 | 204 | 139 | Judy Cox |
 | 205 | 138 | Brandon Link |
-| 206 | 137 | PeaceOs |
-| 207 | 137 | Brianna Walker |
-| 208 | 136 | Chaz |
-| 209 | 136 | Crystal Nicolette Moore |
+| 206 | 137 | Brianna Walker |
+| 207 | 137 | PeaceOs |
+| 208 | 136 | Crystal Nicolette Moore |
+| 209 | 136 | Chaz |
 | 210 | 135 | Chris Bernstein |
 | 211 | 134 | TinyLegoRose |
 | 212 | 134 | Kristina Black |
