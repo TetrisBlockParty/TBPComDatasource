@@ -73,9 +73,9 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | Shauna Havard |
@@ -144,8 +144,8 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Tyler Terrific |
-| 140 | 353 | Livvy |
+| 139 | 353 | Livvy |
+| 140 | 353 | Tyler Terrific |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | Latisha Davis |
@@ -232,8 +232,8 @@
 | 224 | 238 | Zesty Twistbuilder |
 | 225 | 237 | April Rondinone |
 | 226 | 236 | Kim Hunt |
-| 227 | 235 | LaDonna LovinmesomeMe Lambert |
-| 228 | 235 | Chris Hartig |
+| 227 | 235 | Chris Hartig |
+| 228 | 235 | LaDonna LovinmesomeMe Lambert |
 | 229 | 233 | Matt Gooder |
 | 230 | 233 | Ruben Wheeler |
 | 231 | 230 | blockstar |
@@ -252,8 +252,8 @@
 | 244 | 219 | Lori |
 | 245 | 216 | Chance Strickland |
 | 246 | 216 | ZeeZee |
-| 247 | 215 | John Brunetti |
-| 248 | 215 | Ziggy |
+| 247 | 215 | Ziggy |
+| 248 | 215 | John Brunetti |
 | 249 | 214 | Stacey Stano |
 | 250 | 213 | Angela Geist Jusinski |
 | 251 | 213 | Rio Rocha |

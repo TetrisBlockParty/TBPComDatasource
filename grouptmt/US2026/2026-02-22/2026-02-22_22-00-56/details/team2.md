@@ -449,10 +449,10 @@
 | 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
-| 444 | 603 | Véronique Lévesque Sabourin |
-| 445 | 603 | Casper The Chonk |
-| 446 | 602 | Shaun Church |
-| 447 | 602 | KhaosLord |
+| 444 | 603 | Casper The Chonk |
+| 445 | 603 | Véronique Lévesque Sabourin |
+| 446 | 602 | KhaosLord |
+| 447 | 602 | Shaun Church |
 | 448 | 601 | Moua Ying |
 | 449 | 601 | Slinky Racker |
 | 450 | 594 | Rhonda Milstead |
@@ -461,8 +461,8 @@
 | 453 | 594 | Irene Jones |
 | 454 | 591 | Kimberly Hope Howell |
 | 455 | 589 | Shavonna Haynes |
-| 456 | 589 | Kelly Templeton |
-| 457 | 589 | Thomas Hedrick |
+| 456 | 589 | Thomas Hedrick |
+| 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
 | 460 | 583 | Kitybox |
@@ -668,8 +668,8 @@
 | 660 | 423 | Taylor Flowers |
 | 661 | 423 | Smashanator |
 | 662 | 422 | Oscar Bernie |
-| 663 | 422 | Stefanie Zonzini-Gagliardi |
-| 664 | 422 | Kimberly Ann |
+| 663 | 422 | Kimberly Ann |
+| 664 | 422 | Stefanie Zonzini-Gagliardi |
 | 665 | 421 | Jasmine Kenney |
 | 666 | 421 | Nina Nav |
 | 667 | 420 | Jessica Hughes |
@@ -918,8 +918,8 @@
 | 910 | 316 | LeVeL27 |
 | 911 | 316 | Epic Spinfit |
 | 912 | 315 | Sinistah42o |
-| 913 | 314 | Amanda West |
-| 914 | 314 | Sveta Lana |
+| 913 | 314 | Sveta Lana |
+| 914 | 314 | Amanda West |
 | 915 | 314 | Allyson Marra |
 | 916 | 313 | Kristie Wilcox |
 | 917 | 313 | Dad |
@@ -994,8 +994,8 @@
 | 986 | 296 | Jamie Dayton |
 | 987 | 296 | Jennifer Darby |
 | 988 | 295 | Devlin Ogg |
-| 989 | 295 | Elena Vap |
-| 990 | 295 | Fredrick Burney |
+| 989 | 295 | Fredrick Burney |
+| 990 | 295 | Elena Vap |
 | 991 | 295 | Ubu |
 | 992 | 294 | Nate |
 | 993 | 294 | AndrewandShela Gornik |

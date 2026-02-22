@@ -238,8 +238,8 @@
 | 230 | 234 | Shanae Grant |
 | 231 | 233 | LC |
 | 232 | 231 | Tyler Hertzog |
-| 233 | 230 | BigWeenie69 |
-| 234 | 230 | Diane Byrd |
+| 233 | 230 | Diane Byrd |
+| 234 | 230 | BigWeenie69 |
 | 235 | 229 | Standia Civil |
 | 236 | 228 | Erin Rosberg |
 | 237 | 228 | Giddy Cascade |
@@ -361,7 +361,7 @@
 | 353 | 165 | Pauline Cortez |
 | 354 | 165 | Barrbaric |
 | 355 | 164 | Tami Luce Martin |
-| 356 | 163 | Tyler Whitley |
+| 356 | 163 | Blaire Bruckoff |
 | 357 | 163 | SavageBooty98 |
 | 358 | 163 | Tyler Whitley |
 | 359 | 162 | Strig |

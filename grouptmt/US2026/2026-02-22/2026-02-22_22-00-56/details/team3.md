@@ -154,8 +154,8 @@
 | 146 | 517 | Denise Nardoni |
 | 147 | 516 | Elissa S-k |
 | 148 | 512 | Silly Twist |
-| 149 | 506 | Sashay Tapae Simpson |
-| 150 | 506 | Stephanie Blkpep Davidson |
+| 149 | 506 | Stephanie Blkpep Davidson |
+| 150 | 506 | Sashay Tapae Simpson |
 | 151 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 152 | 501 | Patti Skiles |
 | 153 | 500 | Marcie Bressler |
@@ -236,8 +236,8 @@
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
-| 231 | 347 | Trisha Balmer |
-| 232 | 347 | Philip Rock |
+| 231 | 347 | Philip Rock |
+| 232 | 347 | Trisha Balmer |
 | 233 | 346 | Tamara Deherrera |
 | 234 | 344 | Rania Zaqout |
 | 235 | 344 | Roary Danner |
@@ -354,9 +354,9 @@
 | 346 | 235 | Cheryl Hinch Tenbrook |
 | 347 | 233 | Tony Waters |
 | 348 | 232 | Nicholas Roddy |
-| 349 | 231 | Kevin Russell |
-| 350 | 231 | Frothy Snapper |
-| 351 | 231 | Kiki |
+| 349 | 231 | Kiki |
+| 350 | 231 | Kevin Russell |
+| 351 | 231 | Frothy Snapper |
 | 352 | 230 | Michael Lucado |
 | 353 | 230 | BigE |
 | 354 | 228 | Ashley Lynn Marchese |
