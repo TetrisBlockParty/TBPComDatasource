@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -130,8 +130,8 @@
 | 122 | 390 | Goose egg |
 | 123 | 387 | Emily Adelaide Wheatley |
 | 124 | 386 | David Miller |
-| 125 | 386 | Plucky Ziggy |
-| 126 | 386 | Ty Brown |
+| 125 | 386 | Ty Brown |
+| 126 | 386 | Plucky Ziggy |
 | 127 | 383 | pjbeta |
 | 128 | 379 | Austin James |
 | 129 | 379 | Kimmie Kimms |
@@ -147,8 +147,8 @@
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
 | 141 | 352 | Jason Savage |
-| 142 | 350 | Death |
-| 143 | 350 | Tipsy Strikerpiece |
+| 142 | 350 | Tipsy Strikerpiece |
+| 143 | 350 | Death |
 | 144 | 344 | Monica Donato |
 | 145 | 343 | Tanya Carpenter-Reynolds |
 | 146 | 341 | Nick R Montague |
@@ -162,8 +162,8 @@
 | 154 | 331 | Josh Riemer |
 | 155 | 328 | Jennifer Hardman |
 | 156 | 324 | Ananda Mendez |
-| 157 | 322 | Chelsea Dahlquist |
-| 158 | 322 | Dizzy Party |
+| 157 | 322 | Dizzy Party |
+| 158 | 322 | Chelsea Dahlquist |
 | 159 | 318 | Virginia Gray Floyd |
 | 160 | 318 | Jessica Sheehan |
 | 161 | 317 | Rachael |
@@ -231,8 +231,8 @@
 | 223 | 244 | LaFontaine Leslie |
 | 224 | 244 | Eddie Dillon |
 | 225 | 242 | John Kim |
-| 226 | 240 | DaRascal |
-| 227 | 240 | Daring Fitclear |
+| 226 | 240 | Daring Fitclear |
+| 227 | 240 | DaRascal |
 | 228 | 239 | Lacy Wolfe |
 | 229 | 238 | Sarah Somers Gray |
 | 230 | 238 | Tiffany Smith |

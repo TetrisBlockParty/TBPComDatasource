@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 889 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Christine Marie |
-| 45 | 846 | Jae Job |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 838 | TeeJ |
@@ -74,12 +74,12 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 679 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Valerie Roberts |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -133,8 +133,8 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Trish |
-| 129 | 393 | Carlton Unfiltered |
+| 128 | 393 | Carlton Unfiltered |
+| 129 | 393 | Trish |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Ramel Rhodes |
 | 132 | 391 | Austin Owens |
@@ -160,11 +160,11 @@
 | 152 | 333 | Twisty Cascadezone |
 | 153 | 333 | Peachy Fall |
 | 154 | 332 | Leslie Nicole |
-| 155 | 332 | HastyGrabber |
-| 156 | 332 | Desi Desporte |
+| 155 | 332 | Desi Desporte |
+| 156 | 332 | HastyGrabber |
 | 157 | 330 | Oscar Alberto Perez |
-| 158 | 328 | Brandon Crabbs |
-| 159 | 328 | Kris Bartlett |
+| 158 | 328 | Kris Bartlett |
+| 159 | 328 | Brandon Crabbs |
 | 160 | 321 | jim |
 | 161 | 320 | Lauren Scott |
 | 162 | 316 | Meagan Nicole |

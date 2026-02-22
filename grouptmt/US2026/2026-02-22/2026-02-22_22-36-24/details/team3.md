@@ -94,8 +94,8 @@
 | 86 | 849 | Danielle Becker |
 | 87 | 848 | Patricia Gadsden |
 | 88 | 847 | Rosalie Call Kehlenbeck |
-| 89 | 838 | MissTaylor |
-| 90 | 838 | Sarajane Lokan |
+| 89 | 838 | Sarajane Lokan |
+| 90 | 838 | MissTaylor |
 | 91 | 835 | Snappy Glidepiece |
 | 92 | 831 | Angeline Joseph |
 | 93 | 830 | Stephanie Allmon |
@@ -159,8 +159,8 @@
 | 151 | 517 | Denise Nardoni |
 | 152 | 516 | Elissa S-k |
 | 153 | 512 | Silly Twist |
-| 154 | 506 | Stephanie Blkpep Davidson |
-| 155 | 506 | Sashay Tapae Simpson |
+| 154 | 506 | Sashay Tapae Simpson |
+| 155 | 506 | Stephanie Blkpep Davidson |
 | 156 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 157 | 502 | Snappy Balancer |
 | 158 | 501 | Patti Skiles |
@@ -195,8 +195,8 @@
 | 187 | 432 | Christine Trester |
 | 188 | 432 | Luciana Braganca Vieira |
 | 189 | 431 | Sarah Cowan Burgos |
-| 190 | 430 | Joye Sims Binion |
-| 191 | 430 | Jeni Dow |
+| 190 | 430 | Jeni Dow |
+| 191 | 430 | Joye Sims Binion |
 | 192 | 427 | Wendy Dearden |
 | 193 | 426 | Rochelle Hazelett |
 | 194 | 425 | Michael Johnson |
@@ -207,8 +207,8 @@
 | 199 | 415 | ren |
 | 200 | 413 | Loopy Clusterer |
 | 201 | 410 | Stephanie Simpson |
-| 202 | 405 | Tom Nault |
-| 203 | 405 | Sherry Ogden |
+| 202 | 405 | Sherry Ogden |
+| 203 | 405 | Tom Nault |
 | 204 | 404 | Chasity |
 | 205 | 403 | Scott Lindsay |
 | 206 | 401 | Demetrious Shaw Sr. |
@@ -262,8 +262,8 @@
 | 254 | 326 | Dee Franklin |
 | 255 | 324 | Sissy Lowery Davis |
 | 256 | 321 | Charles Perrone |
-| 257 | 320 | Ashley Muncey |
-| 258 | 320 | Or Reznitsky |
+| 257 | 320 | Or Reznitsky |
+| 258 | 320 | Ashley Muncey |
 | 259 | 312 | Christian Werndl |
 | 260 | 312 | LadyTorad |
 | 261 | 309 | Felicia Rocha |
@@ -575,8 +575,8 @@
 | 567 | 152 | Beejangles |
 | 568 | 152 | Elisha L Allman |
 | 569 | 151 | Steph Arcari |
-| 570 | 151 | Cheery Brickster |
-| 571 | 151 | Lisa Bard |
+| 570 | 151 | Lisa Bard |
+| 571 | 151 | Cheery Brickster |
 | 572 | 150 | Sassy Brickmatch |
 | 573 | 149 | Alexis Taylor |
 | 574 | 148 | Jenna Baker |
