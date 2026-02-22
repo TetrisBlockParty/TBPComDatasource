@@ -130,8 +130,8 @@
 | 122 | 366 | David Miller |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
-| 125 | 360 | phrmblk24 |
-| 126 | 360 | Wisa |
+| 125 | 360 | Wisa |
+| 126 | 360 | phrmblk24 |
 | 127 | 359 | Chirpy Smasher |
 | 128 | 358 | Sweet Baker |
 | 129 | 357 | Amanda Johnson Huffman |
@@ -158,8 +158,8 @@
 | 150 | 313 | Virginia Gray Floyd |
 | 151 | 310 | Kimberly Garcia |
 | 152 | 308 | Sharon Reynolds |
-| 153 | 306 | Happy Basegrid |
-| 154 | 306 | Bloknboy |
+| 153 | 306 | Bloknboy |
+| 154 | 306 | Happy Basegrid |
 | 155 | 304 | Nicole Roseberry Weber |
 | 156 | 304 | Constance Risner |
 | 157 | 303 | Chelsea Dahlquist |

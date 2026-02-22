@@ -164,17 +164,17 @@
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
-| 159 | 290 | Damn Libra |
-| 160 | 290 | Keshia Lyons |
-| 161 | 290 | 🥔🥔 Spudz |
+| 159 | 290 | Keshia Lyons |
+| 160 | 290 | 🥔🥔 Spudz |
+| 161 | 290 | Damn Libra |
 | 162 | 290 | Chaz Duncan |
 | 163 | 290 | Alyssa Papen |
 | 164 | 288 | Leah Kutz Zirbel |
 | 165 | 286 | Brittney Orengo |
 | 166 | 281 | Lindsay Ball |
 | 167 | 280 | Peachy Fall |
-| 168 | 277 | Silly Zonebuilder |
-| 169 | 277 | Mary Ann Pabukis |
+| 168 | 277 | Mary Ann Pabukis |
+| 169 | 277 | Silly Zonebuilder |
 | 170 | 273 | Crystal Nicolette Moore |
 | 171 | 272 | Alan George LaRage |
 | 172 | 271 | Sarah Brown |
@@ -188,8 +188,8 @@
 | 180 | 265 | Chris Bernstein |
 | 181 | 264 | Girl |
 | 182 | 264 | Epic Curvetile |
-| 183 | 262 | Joeliecea Cobb |
-| 184 | 262 | Holly Jolly |
+| 183 | 262 | Holly Jolly |
+| 184 | 262 | Joeliecea Cobb |
 | 185 | 260 | Porkobello |
 | 186 | 259 | Sam Bishop |
 | 187 | 257 | Michele Plunkett |
@@ -202,8 +202,8 @@
 | 194 | 247 | jim |
 | 195 | 247 | Dennis Bradley |
 | 196 | 246 | Carlos Ramirez |
-| 197 | 245 | Autum Leigh |
-| 198 | 245 | 23 |
+| 197 | 245 | 23 |
+| 198 | 245 | Autum Leigh |
 | 199 | 245 | Andria Lynn |
 | 200 | 244 | Lindsey Gonzalez |
 | 201 | 244 | Twisty Cascadezone |
@@ -324,8 +324,8 @@
 | 316 | 154 | Chummy Towerzone |
 | 317 | 153 | O block |
 | 318 | 153 | Empress Oasis |
-| 319 | 152 | Vanessa Smart |
-| 320 | 152 | Jared Gutwein |
+| 319 | 152 | Jared Gutwein |
+| 320 | 152 | Vanessa Smart |
 | 321 | 152 | Faja |
 | 322 | 151 | Sarah Hoffman |
 | 323 | 151 | Nick Gray |

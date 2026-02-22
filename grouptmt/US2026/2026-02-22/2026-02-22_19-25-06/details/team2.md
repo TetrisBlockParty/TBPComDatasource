@@ -137,8 +137,8 @@
 | 129 | 1439 | Jumpy Gridpiece |
 | 130 | 1435 | Jessie McDougald |
 | 131 | 1418 | L3sli3 |
-| 132 | 1411 | Zappy Cascade |
-| 133 | 1411 | niecy |
+| 132 | 1411 | niecy |
+| 133 | 1411 | Zappy Cascade |
 | 134 | 1401 | Brandy Andre |
 | 135 | 1390 | Erica Williams |
 | 136 | 1384 | Katrina Williams Balmir |
@@ -311,15 +311,15 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Fancy Twister |
-| 314 | 767 | Ashley Lopez |
+| 313 | 767 | Ashley Lopez |
+| 314 | 767 | Fancy Twister |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |
@@ -520,16 +520,16 @@
 | 512 | 493 | Sue Leard |
 | 513 | 493 | Sarah DeHart |
 | 514 | 492 | Breezy Clusterer |
-| 515 | 492 | Maya June |
-| 516 | 492 | Armonie Smith |
-| 517 | 491 | Michael Buckner |
+| 515 | 492 | Armonie Smith |
+| 516 | 492 | Maya June |
+| 517 | 491 | Alezandra Smith |
 | 518 | 491 | Jedi |
-| 519 | 491 | Alezandra Smith |
+| 519 | 491 | Michael Buckner |
 | 520 | 489 | Elisheva Mizrachi |
 | 521 | 488 | Christina Wsn |
-| 522 | 487 | MrsCandyfine As Wine Truss |
-| 523 | 487 | Casper The Chonk |
-| 524 | 487 | Morgan Easter |
+| 522 | 487 | Morgan Easter |
+| 523 | 487 | MrsCandyfine As Wine Truss |
+| 524 | 487 | Casper The Chonk |
 | 525 | 485 | Mamachelle Eisweirth |
 | 526 | 484 | Street Sweeper |
 | 527 | 484 | Wendy Unsain |
