@@ -91,8 +91,8 @@
 | 83 | 489 | Deanna L Hermanson |
 | 84 | 486 | Tater |
 | 85 | 485 | Cartier |
-| 86 | 483 | Ryan Lunnin |
-| 87 | 483 | MomMom |
+| 86 | 483 | MomMom |
+| 87 | 483 | Ryan Lunnin |
 | 88 | 472 | April Carroll |
 | 89 | 471 | Jennifer ManWarren |
 | 90 | 466 | Cynthia Bradley |
@@ -249,8 +249,8 @@
 | 241 | 223 | Erez Yosef |
 | 242 | 223 | Christina Backer |
 | 243 | 222 | Debbie Davis |
-| 244 | 221 | Amy Hess |
-| 245 | 221 | Daring Fitclear |
+| 244 | 221 | Daring Fitclear |
+| 245 | 221 | Amy Hess |
 | 246 | 220 | Bouncy Grid |
 | 247 | 219 | Negan Mallory Knoxx Spence |
 | 248 | 219 | Erin Rosberg |

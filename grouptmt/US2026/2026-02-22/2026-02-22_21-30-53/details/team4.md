@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Jae Job |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Lucille Truesdale |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -146,8 +146,8 @@
 | 138 | 353 | Livvy |
 | 139 | 353 | Tyler Terrific |
 | 140 | 350 | Angela Srubar-Norman |
-| 141 | 343 | ThaEviLJeNiuZ |
-| 142 | 343 | Latisha Davis |
+| 141 | 343 | Latisha Davis |
+| 142 | 343 | ThaEviLJeNiuZ |
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
@@ -249,8 +249,8 @@
 | 241 | 219 | Malakai Darien Fox |
 | 242 | 218 | Lori |
 | 243 | 216 | Cristy Duerksen |
-| 244 | 216 | Chance Strickland |
-| 245 | 216 | ZeeZee |
+| 244 | 216 | ZeeZee |
+| 245 | 216 | Chance Strickland |
 | 246 | 215 | Ziggy |
 | 247 | 215 | John Brunetti |
 | 248 | 214 | Stacey Stano |
@@ -278,8 +278,8 @@
 | 270 | 194 | Zany Twisterfit |
 | 271 | 193 | Stephme310 |
 | 272 | 193 | Shainne Brewer |
-| 273 | 192 | Stella |
-| 274 | 192 | Andrew Dang |
+| 273 | 192 | Andrew Dang |
+| 274 | 192 | Stella |
 | 275 | 191 | Earnest Thompson |
 | 276 | 189 | 030Synner |
 | 277 | 187 | Cynthia Boudreau |

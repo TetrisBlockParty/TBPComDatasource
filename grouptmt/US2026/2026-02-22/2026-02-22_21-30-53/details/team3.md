@@ -72,8 +72,8 @@
 | 64 | 1027 | Gracie |
 | 65 | 1019 | Joey Banks |
 | 66 | 954 | Nate Burnside |
-| 67 | 926 | Angela M. Fletcher |
-| 68 | 926 | Judi Dobson |
+| 67 | 926 | Judi Dobson |
+| 68 | 926 | Angela M. Fletcher |
 | 69 | 924 | Shonna Roberts |
 | 70 | 919 | Jennifer |
 | 71 | 910 | Corie A. Brinson |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
