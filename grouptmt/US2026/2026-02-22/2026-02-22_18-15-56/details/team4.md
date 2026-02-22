@@ -770,8 +770,8 @@
 | 762 | 58 | Bold Matcher |
 | 763 | 58 | Richard Campbell II |
 | 764 | 58 | JEan Price |
-| 765 | 57 | Kimberly Paxton |
-| 766 | 57 | Boldy Linkfall |
+| 765 | 57 | Koral Hanke |
+| 766 | 57 | Kimberly Paxton |
 | 767 | 57 | Harold M. |
 | 768 | 57 | Boldy Linkfall |
 | 769 | 57 | Smiley Linkgrid |
