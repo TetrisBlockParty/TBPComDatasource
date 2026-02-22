@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Mr. Street Stack |
-| 163 | 988 | Maegan Beaule |
+| 162 | 988 | Maegan Beaule |
+| 163 | 988 | Mr. Street Stack |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Taylor Phillips |
 | 166 | 974 | Dolores Russworn |
@@ -212,8 +212,8 @@
 | 204 | 838 | Tralonda Weeks |
 | 205 | 837 | Ashley Rose Frederick |
 | 206 | 835 | Katrina Weston |
-| 207 | 834 | Rebecca Doughman |
-| 208 | 834 | Nika Bee |
+| 207 | 834 | Nika Bee |
+| 208 | 834 | Rebecca Doughman |
 | 209 | 828 | Cindy Sechler Taninecz |
 | 210 | 826 | Moose Griffith |
 | 211 | 820 | Chirpy Staggerpiece |

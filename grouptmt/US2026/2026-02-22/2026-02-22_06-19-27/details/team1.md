@@ -83,8 +83,8 @@
 | 75 | 406 | Yvonne Marie |
 | 76 | 390 | Cynthia Bradley |
 | 77 | 390 | Candy Jones |
-| 78 | 388 | cc |
-| 79 | 388 | Jennifer ManWarren |
+| 78 | 388 | Jennifer ManWarren |
+| 79 | 388 | cc |
 | 80 | 382 | Jacqueline Williams |
 | 81 | 379 | Austin James |
 | 82 | 376 | Trina Gee |
@@ -113,11 +113,11 @@
 | 105 | 319 | Patrick Luckenbill |
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 313 | Tanya Carpenter-Reynolds |
-| 108 | 310 | Jason Jones |
-| 109 | 310 | Seth Wesson |
+| 108 | 310 | Seth Wesson |
+| 109 | 310 | Jason Jones |
 | 110 | 306 | Happy Basegrid |
-| 111 | 304 | phrmblk24 |
-| 112 | 304 | Nicole Roseberry Weber |
+| 111 | 304 | Nicole Roseberry Weber |
+| 112 | 304 | phrmblk24 |
 | 113 | 301 | Lehrin Maria |
 | 114 | 293 | Cartier |
 | 115 | 292 | Kristen Gideon |
@@ -220,7 +220,7 @@
 | 212 | 170 | Standia Civil |
 | 213 | 169 | Abbey Crespo |
 | 214 | 168 | Amber Stoker |
-| 215 | 167 | Bindi |
+| 215 | 167 | Nery Martinez |
 | 216 | 167 | Cranky Pattern |
 | 217 | 167 | Bindi |
 | 218 | 165 | Silly Align |

@@ -76,8 +76,8 @@
 | 68 | 501 | H.R. Block |
 | 69 | 500 | Rodney McMath Jr. |
 | 70 | 486 | Landon Keith Graffeo |
-| 71 | 483 | Carmethia Clemons Haslerig |
-| 72 | 483 | TeeJ |
+| 71 | 483 | TeeJ |
+| 72 | 483 | Carmethia Clemons Haslerig |
 | 73 | 467 | Dawn Alexander |
 | 74 | 447 | Samantha Peterson |
 | 75 | 440 | Kristin Manee |

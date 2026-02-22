@@ -95,13 +95,13 @@
 | 87 | 591 | Jesse Olive |
 | 88 | 588 | yoyo |
 | 89 | 582 | Natasha Jones |
-| 90 | 582 | Speedy Bridger |
-| 91 | 582 | Jay Horn |
+| 90 | 582 | Jay Horn |
+| 91 | 582 | Speedy Bridger |
 | 92 | 581 | Danielle Mogg |
 | 93 | 579 | Jd Morris |
 | 94 | 566 | Dolores Falco |
-| 95 | 565 | Rachael McClain Owens |
-| 96 | 565 | Patty Allen |
+| 95 | 565 | Patty Allen |
+| 96 | 565 | Rachael McClain Owens |
 | 97 | 559 | Morgan Martinez |
 | 98 | 549 | Nicole Myers |
 | 99 | 548 | Dave Herzog |
@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Kristie |
-| 111 | 500 | Domo Washington |
+| 110 | 500 | Domo Washington |
+| 111 | 500 | Kristie |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -288,8 +288,8 @@
 | 280 | 203 | Angie Harper |
 | 281 | 202 | Staci George Fitzsimmons |
 | 282 | 201 | Hyper Matchzone |
-| 283 | 200 | Sharisse Baltimore |
-| 284 | 200 | glichmod |
+| 283 | 200 | glichmod |
+| 284 | 200 | Sharisse Baltimore |
 | 285 | 199 | Raven Dudley |
 | 286 | 197 | Saucy Buildout |
 | 287 | 195 | Nicha Hooker |
@@ -302,8 +302,8 @@
 | 294 | 189 | Katie Leigh Blankenship |
 | 295 | 188 | Loopy Fallmatch |
 | 296 | 186 | Carrie Huskey |
-| 297 | 184 | Troy |
-| 298 | 184 | France Vézina |
+| 297 | 184 | France Vézina |
+| 298 | 184 | Troy |
 | 299 | 182 | Melanie Sherwood |
 | 300 | 181 | Nicholas Roddy |
 | 301 | 181 | Denita Mungro |
@@ -362,8 +362,8 @@
 | 354 | 153 | Wetwet |
 | 355 | 153 | Tony Waters |
 | 356 | 152 | Goofy Fall |
-| 357 | 152 | Shiny Zonebuilder |
-| 358 | 152 | Eric Caccavale |
+| 357 | 152 | Eric Caccavale |
+| 358 | 152 | Shiny Zonebuilder |
 | 359 | 149 | Micayah Stevens |
 | 360 | 149 | Alexis Taylor |
 | 361 | 148 | Pam Holt Powell |
