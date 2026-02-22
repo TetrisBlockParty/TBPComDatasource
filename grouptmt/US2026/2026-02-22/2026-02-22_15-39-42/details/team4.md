@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 614 | TheNeesh50 |
 | 69 | 608 | Avy Absol |
 | 70 | 600 | Michelle Marie |
-| 71 | 599 | Savannah Overdorf |
-| 72 | 599 | Brittney Griggs |
+| 71 | 599 | Brittney Griggs |
+| 72 | 599 | Savannah Overdorf |
 | 73 | 593 | Lisa Davis |
 | 74 | 588 | Eric Mcgaughy |
 | 75 | 575 | Jeremy Steines |
@@ -129,8 +129,8 @@
 | 121 | 353 | Tyler Terrific |
 | 122 | 344 | Livvy |
 | 123 | 343 | Latisha Davis |
-| 124 | 332 | Desi Desporte |
-| 125 | 332 | HastyGrabber |
+| 124 | 332 | HastyGrabber |
+| 125 | 332 | Desi Desporte |
 | 126 | 331 | ThaEviLJeNiuZ |
 | 127 | 330 | David Lay |
 | 128 | 330 | Twisty Clicky |
@@ -273,8 +273,8 @@
 | 265 | 162 | Gwendolyn Pitcairn |
 | 266 | 162 | conceptCollector |
 | 267 | 162 | John Brunetti |
-| 268 | 161 | Tanner Lund |
-| 269 | 161 | Twisty Risebuilder |
+| 268 | 161 | Twisty Risebuilder |
+| 269 | 161 | Tanner Lund |
 | 270 | 159 | DonMega |
 | 271 | 159 | Marcus Todd |
 | 272 | 158 | Chair |
@@ -285,8 +285,8 @@
 | 277 | 156 | Ultramarine |
 | 278 | 156 | Terrance Fung |
 | 279 | 154 | Zany Shatterer |
-| 280 | 153 | KimoKoala |
-| 281 | 153 | Shainne Brewer |
+| 280 | 153 | Shainne Brewer |
+| 281 | 153 | KimoKoala |
 | 282 | 153 | Empress Oasis |
 | 283 | 152 | Angela Geist Jusinski |
 | 284 | 152 | Faja |

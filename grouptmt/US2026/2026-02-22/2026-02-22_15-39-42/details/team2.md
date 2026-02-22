@@ -232,8 +232,8 @@
 | 224 | 915 | Angela Bonquiqui Dinish |
 | 225 | 915 | Kelly Trent |
 | 226 | 910 | Shuany Arias |
-| 227 | 907 | Gene Mills |
-| 228 | 907 | Cindy Sechler Taninecz |
+| 227 | 907 | Cindy Sechler Taninecz |
+| 228 | 907 | Gene Mills |
 | 229 | 906 | Dedra Steward |
 | 230 | 895 | Donna Colby |
 | 231 | 894 | Auntie B |
@@ -248,8 +248,8 @@
 | 240 | 867 | Peppy Zone |
 | 241 | 867 | Michele Gabriel |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | John Bednarik |
-| 244 | 860 | April Dawn Gussler |
+| 243 | 860 | April Dawn Gussler |
+| 244 | 860 | John Bednarik |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
 | 247 | 853 | Maria Escobar |
@@ -350,15 +350,15 @@
 | 342 | 665 | Prette Qui |
 | 343 | 665 | Phil J. Grombliniak |
 | 344 | 664 | Sleepypanda67 |
-| 345 | 663 | Ashle Scranton |
-| 346 | 663 | Mandi Douglas Hilt |
+| 345 | 663 | Mandi Douglas Hilt |
+| 346 | 663 | Ashle Scranton |
 | 347 | 662 | Melissa Rebbe-Lehman |
 | 348 | 661 | BeQuo |
 | 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | Shiny Rollzone |
-| 353 | 650 | tejas25 |
+| 352 | 650 | tejas25 |
+| 353 | 650 | Shiny Rollzone |
 | 354 | 643 | Hoppy Brickmatch |
 | 355 | 640 | BYM4L |
 | 356 | 640 | Kara Gillen |
@@ -515,8 +515,8 @@
 | 507 | 469 | Johnny Yeates |
 | 508 | 469 | Spunkysmom |
 | 509 | 467 | Audrey Jones |
-| 510 | 466 | Koa N Sharon Chen |
-| 511 | 466 | Tina Marie |
+| 510 | 466 | Tina Marie |
+| 511 | 466 | Koa N Sharon Chen |
 | 512 | 466 | Kori Beth Babb |
 | 513 | 466 | Crystal Greene |
 | 514 | 465 | Davetta Sanford |
@@ -535,8 +535,8 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Anthony Huebel |
-| 531 | 451 | Funky Caster |
+| 530 | 451 | Funky Caster |
+| 531 | 451 | Anthony Huebel |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |
@@ -606,8 +606,8 @@
 | 598 | 407 | Tipsy Filler |
 | 599 | 406 | Erin StFrancis |
 | 600 | 404 | Dawn L Washington-Feuquay |
-| 601 | 403 | Goofy Dasher |
-| 602 | 403 | Nate Skidmore |
+| 601 | 403 | Nate Skidmore |
+| 602 | 403 | Goofy Dasher |
 | 603 | 402 | Denise Rickman |
 | 604 | 401 | Jasmine Kenney |
 | 605 | 401 | Moua Ying |
