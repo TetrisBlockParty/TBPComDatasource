@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -172,9 +172,9 @@
 | 164 | 376 | Loopy Clusterer |
 | 165 | 374 | Sherry Ogden |
 | 166 | 371 | Michael Nowogorski |
-| 167 | 370 | Logan Naccarato |
-| 168 | 370 | Danielle Allison |
-| 169 | 370 | Santeria Trece Candles |
+| 167 | 370 | Santeria Trece Candles |
+| 168 | 370 | Logan Naccarato |
+| 169 | 370 | Danielle Allison |
 | 170 | 368 | Stephanie Woods |
 | 171 | 366 | Adrian Marcel Pate |
 | 172 | 362 | Darlene McMillan |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Dirtgirl27 |
-| 271 | 225 | Cozy Snaplink |
+| 270 | 225 | Cozy Snaplink |
+| 271 | 225 | Dirtgirl27 |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -293,8 +293,8 @@
 | 285 | 214 | Angela Scott |
 | 286 | 212 | Sunny Rotater |
 | 287 | 212 | Desiree Gold |
-| 288 | 211 | El Chapa |
-| 289 | 211 | Velma Mull |
+| 288 | 211 | Velma Mull |
+| 289 | 211 | El Chapa |
 | 290 | 211 | Khaleada McGill Banks |
 | 291 | 210 | Lizabeth Fox |
 | 292 | 209 | Micayah Stevens |
@@ -330,20 +330,20 @@
 | 322 | 182 | Melanie Sherwood |
 | 323 | 181 | Nicholas Roddy |
 | 324 | 181 | Denita Mungro |
-| 325 | 180 | Beth Ingham |
-| 326 | 180 | Criss |
+| 325 | 180 | Criss |
+| 326 | 180 | Beth Ingham |
 | 327 | 179 | Christian Werndl |
 | 328 | 179 | DanceLuvLaugh |
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Emma |
-| 333 | 176 | Melissa Orth Hunter |
+| 332 | 176 | Melissa Orth Hunter |
+| 333 | 176 | Emma |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
 | 341 | 168 | Trice Thomas |
@@ -366,7 +366,7 @@
 | 358 | 162 | Beaudie Stroebel |
 | 359 | 162 | Loopy Fallzone |
 | 360 | 162 | Stephanie Whitefield |
-| 361 | 162 | Loopy Fallzone |
+| 361 | 162 | Kristin Delibac Corrigan |
 | 362 | 161 | Michael Johnson |
 | 363 | 161 | Julia Nicole |
 | 364 | 161 | Bouncy Blockbuilder |
@@ -416,8 +416,8 @@
 | 408 | 141 | Weerae |
 | 409 | 140 | Jumpy Curvebuilder |
 | 410 | 140 | Boldy Corner |
-| 411 | 140 | Linda Draper |
-| 412 | 140 | Alison Baus |
+| 411 | 140 | Alison Baus |
+| 412 | 140 | Linda Draper |
 | 413 | 139 | Beppy |
 | 414 | 139 | Betty Bóò |
 | 415 | 139 | Paula Little |

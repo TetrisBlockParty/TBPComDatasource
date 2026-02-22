@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Carmethia Clemons Haslerig |
-| 76 | 486 | Landon Keith Graffeo |
+| 75 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Carmethia Clemons Haslerig |
 | 77 | 483 | TeeJ |
 | 78 | 471 | Chris Baggett |
 | 79 | 467 | Dawn Alexander |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -124,14 +124,14 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | HastyGrabber |
-| 120 | 296 | Justin Hannigan |
+| 119 | 296 | Justin Hannigan |
+| 120 | 296 | HastyGrabber |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | shark tato |
-| 126 | 286 | Daria Rycewicz |
+| 125 | 286 | Daria Rycewicz |
+| 126 | 286 | shark tato |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -160,8 +160,8 @@
 | 152 | 230 | Autum Leigh |
 | 153 | 230 | Cursed Hag |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Kris Bartlett |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | JPW |
-| 210 | 174 | Rio Rocha |
+| 209 | 174 | Rio Rocha |
+| 210 | 174 | JPW |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
@@ -234,10 +234,10 @@
 | 226 | 159 | Marcus Todd |
 | 227 | 158 | Avy Absol |
 | 228 | 158 | Chair |
-| 229 | 157 | scott |
-| 230 | 157 | Paige Kittles |
-| 231 | 157 | KayM |
-| 232 | 157 | Bethany Ison |
+| 229 | 157 | Paige Kittles |
+| 230 | 157 | scott |
+| 231 | 157 | Bethany Ison |
+| 232 | 157 | KayM |
 | 233 | 156 | Ultramarine |
 | 234 | 155 | AyeKay |
 | 235 | 154 | Zany Shatterer |
@@ -409,7 +409,7 @@
 | 401 | 95 | Chirpy Slammer |
 | 402 | 95 | Tina Martinez |
 | 403 | 95 | RedBoots82 |
-| 404 | 94 | Jeff Roberts |
+| 404 | 94 | Ahleek Mitchell |
 | 405 | 94 | DonMega |
 | 406 | 94 | Jeff Roberts |
 | 407 | 93 | Mousey406 |

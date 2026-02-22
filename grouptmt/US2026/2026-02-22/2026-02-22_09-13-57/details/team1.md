@@ -53,8 +53,8 @@
 | 45 | 671 | Lawrence Belanger |
 | 46 | 663 | Drew Magnus |
 | 47 | 646 | Susanna Guerry |
-| 48 | 635 | Angel Fowler |
-| 49 | 635 | Marianne Louise West |
+| 48 | 635 | Marianne Louise West |
+| 49 | 635 | Angel Fowler |
 | 50 | 631 | comrade fish |
 | 51 | 621 | Katie Daniels |
 | 52 | 614 | Snappy Swiper |
@@ -390,8 +390,8 @@
 | 382 | 99 | Unelanuhi Belladonna Mystikal Bomar |
 | 383 | 98 | Alfredo Vasquez |
 | 384 | 98 | Kirk Torrey |
-| 385 | 97 | Edgar Algiere |
-| 386 | 97 | Steve Bomkamp |
+| 385 | 97 | Steve Bomkamp |
+| 386 | 97 | Edgar Algiere |
 | 387 | 96 | Lisa Marie |
 | 388 | 95 | Quirky Pusher |
 | 389 | 95 | Jay Tressler |

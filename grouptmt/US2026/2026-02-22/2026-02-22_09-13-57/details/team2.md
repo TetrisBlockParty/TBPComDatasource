@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 896 | Ibiza Carolina LaRose |
@@ -365,8 +365,8 @@
 | 357 | 561 | Traci Johnson |
 | 358 | 557 | Block Master |
 | 359 | 556 | Slip |
-| 360 | 554 | Rachael Senard |
-| 361 | 554 | Santana Miyagi |
+| 360 | 554 | Santana Miyagi |
+| 361 | 554 | Rachael Senard |
 | 362 | 550 | Nashu |
 | 363 | 549 | Darcy Mae |
 | 364 | 549 | Kaylee McCafferty |
@@ -390,7 +390,7 @@
 | 382 | 526 | Sheronda Jackson |
 | 383 | 525 | Desiree Anderson |
 | 384 | 524 | Shaun Church |
-| 385 | 523 | Lonne Emade |
+| 385 | 523 | Matt Johnson |
 | 386 | 523 | Breezy Filler |
 | 387 | 523 | Lonne Emade |
 | 388 | 522 | Lylymom |
@@ -853,8 +853,8 @@
 | 845 | 263 | Elizabeth Leinen |
 | 846 | 263 | Christina Walker |
 | 847 | 262 | Taren Cowan |
-| 848 | 261 | Dany Murillo |
-| 849 | 261 | Gina Gina |
+| 848 | 261 | Gina Gina |
+| 849 | 261 | Dany Murillo |
 | 850 | 261 | MrsClaudette Will'sIam Matthews |
 | 851 | 260 | Giggly Snap |
 | 852 | 260 | Lianne Giandalone LaBounty |
