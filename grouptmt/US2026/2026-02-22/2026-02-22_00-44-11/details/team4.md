@@ -135,8 +135,8 @@
 | 127 | 204 | Dana Scott |
 | 128 | 203 | Katherine Crane |
 | 129 | 202 | Monica Daley |
-| 130 | 201 | Melvin Baird |
-| 131 | 201 | Swanky Fitline |
+| 130 | 201 | Swanky Fitline |
+| 131 | 201 | Melvin Baird |
 | 132 | 197 | Peachy Fall |
 | 133 | 196 | Jeff Brian Gates |
 | 134 | 196 | Jenna McGeorge |

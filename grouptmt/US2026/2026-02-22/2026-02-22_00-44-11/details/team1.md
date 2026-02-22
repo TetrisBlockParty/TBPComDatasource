@@ -147,8 +147,8 @@
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Thorne Shumate |
-| 143 | 190 | Sweetts |
+| 142 | 190 | Sweetts |
+| 143 | 190 | Thorne Shumate |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Michael |
@@ -188,8 +188,8 @@
 | 180 | 156 | Shanae Grant |
 | 181 | 154 | Christy Jones |
 | 182 | 153 | ALFD |
-| 183 | 152 | Jacqueline Unique |
-| 184 | 152 | Speedy Snapfall |
+| 183 | 152 | Speedy Snapfall |
+| 184 | 152 | Jacqueline Unique |
 | 185 | 150 | Adele Rahman |
 | 186 | 148 | Shauntina Burke |
 | 187 | 148 | Bouncy Grid |

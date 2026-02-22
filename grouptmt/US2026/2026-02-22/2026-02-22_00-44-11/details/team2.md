@@ -194,8 +194,8 @@
 | 186 | 705 | Lola Contreras |
 | 187 | 705 | Roger Grabbit |
 | 188 | 703 | Debra Williams |
-| 189 | 700 | Beverly Owens |
-| 190 | 700 | Rosemadder |
+| 189 | 700 | Rosemadder |
+| 190 | 700 | Beverly Owens |
 | 191 | 700 | Vincent Petrella |
 | 192 | 699 | Vo'Landa Reels |
 | 193 | 697 | Real Ri |
@@ -272,8 +272,8 @@
 | 264 | 547 | Giggy Blocker |
 | 265 | 547 | Mema |
 | 266 | 544 | Leah Keesling |
-| 267 | 543 | Teresa Gillmore |
-| 268 | 543 | Adira Brown |
+| 267 | 543 | Adira Brown |
+| 268 | 543 | Teresa Gillmore |
 | 269 | 542 | Slip |
 | 270 | 535 | Jessie McDougald |
 | 271 | 535 | Paul Huber |
@@ -442,8 +442,8 @@
 | 434 | 362 | Tracy Wise |
 | 435 | 362 | Adam Simmons |
 | 436 | 359 | Offonar Facey |
-| 437 | 358 | Alyssaaelena |
-| 438 | 358 | Michelle Sager |
+| 437 | 358 | Michelle Sager |
+| 438 | 358 | Alyssaaelena |
 | 439 | 357 | Shannon Byrd |
 | 440 | 354 | Jessica Lamb |
 | 441 | 354 | Lawanda Forbes |
@@ -554,8 +554,8 @@
 | 546 | 294 | Venita Ray |
 | 547 | 294 | Janitta Alvarez |
 | 548 | 294 | Amanda Edwards |
-| 549 | 294 | Frilly Fallzone |
-| 550 | 294 | Frisky Riserbuilder |
+| 549 | 294 | Frisky Riserbuilder |
+| 550 | 294 | Frilly Fallzone |
 | 551 | 293 | Ann Marie Davis |
 | 552 | 293 | Carl Bradshaw |
 | 553 | 293 | Giggy Grabber |

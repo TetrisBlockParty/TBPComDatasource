@@ -69,14 +69,14 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -108,8 +108,8 @@
 | 100 | 445 | Kristie McFarland |
 | 101 | 445 | Silly Twist |
 | 102 | 430 | Patricia White |
-| 103 | 428 | Betty Ivy |
-| 104 | 428 | Elissa S-k |
+| 103 | 428 | Elissa S-k |
+| 104 | 428 | Betty Ivy |
 | 105 | 424 | Bea Miles |
 | 106 | 416 | Mary Pellegrino |
 | 107 | 410 | Stephanie Simpson |
@@ -199,9 +199,9 @@
 | 191 | 219 | Shunta Jacobs |
 | 192 | 218 | LaNette Morgan |
 | 193 | 217 | Jess Bissett |
-| 194 | 215 | Araceli Parra |
-| 195 | 215 | IamJust Neyamijah Washington Sr. |
-| 196 | 214 | Amy Fuller Heaton |
+| 194 | 215 | IamJust Neyamijah Washington Sr. |
+| 195 | 215 | Araceli Parra |
+| 196 | 214 | Tye Stovall |
 | 197 | 214 | Jenny Hrndz |
 | 198 | 214 | Amy Fuller Heaton |
 | 199 | 211 | Giddy Twistbuilder |
@@ -216,7 +216,7 @@
 | 208 | 205 | Sarah Moyer |
 | 209 | 204 | Danielle Allison |
 | 210 | 201 | Karon Griffin |
-| 211 | 200 | Connie Mohler-Fair |
+| 211 | 200 | glichmod |
 | 212 | 200 | Sharisse Baltimore |
 | 213 | 200 | Patricia Gadsden |
 | 214 | 200 | Connie Mohler-Fair |
