@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Nikki Pags |
-| 266 | 234 | Connie Mohler-Fair |
+| 265 | 234 | Connie Mohler-Fair |
+| 266 | 234 | Nikki Pags |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -287,11 +287,11 @@
 | 279 | 220 | rosy |
 | 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Cheryl Hinch Tenbrook |
-| 283 | 216 | Twisty Brick LT |
+| 282 | 216 | Twisty Brick LT |
+| 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -305,14 +305,14 @@
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
 | 299 | 207 | angieelyn |
-| 300 | 206 | Stephanie Hill |
-| 301 | 206 | Tammy Rosenberry |
+| 300 | 206 | Tammy Rosenberry |
+| 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tracy Martin |
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Staci George Fitzsimmons |
-| 307 | 202 | Tipsy Zonebuilder |
+| 306 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Staci George Fitzsimmons |
 | 308 | 201 | Alexmac |
 | 309 | 201 | Daring Builder |
 | 310 | 201 | Hyper Matchzone |
@@ -342,8 +342,8 @@
 | 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
-| 337 | 176 | Melissa Orth Hunter |
-| 338 | 176 | Emma |
+| 337 | 176 | Emma |
+| 338 | 176 | Melissa Orth Hunter |
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Salena Whitlock |
 | 341 | 174 | Lesley Perez |
