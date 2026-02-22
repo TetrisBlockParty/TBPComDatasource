@@ -417,9 +417,9 @@
 | 409 | 500 | Sarah Ridenour |
 | 410 | 499 | Sarah Massey |
 | 411 | 498 | Rhonda Milstead |
-| 412 | 497 | BeQuo |
+| 412 | 497 | Doowop40 |
 | 413 | 497 | June E Hanson |
-| 414 | 497 | Doowop40 |
+| 414 | 497 | BeQuo |
 | 415 | 497 | Kimberly Randesi |
 | 416 | 496 | Blacc Blac |
 | 417 | 495 | Lakeysha Dortch |
@@ -579,8 +579,8 @@
 | 571 | 389 | Alexis Richardson |
 | 572 | 389 | Kayla |
 | 573 | 389 | Julie Hamilton |
-| 574 | 387 | Misti Markijohn |
-| 575 | 387 | Bold Brickster |
+| 574 | 387 | Bold Brickster |
+| 575 | 387 | Misti Markijohn |
 | 576 | 386 | Michael Artis |
 | 577 | 386 | Wuntayk |
 | 578 | 385 | Tansaria Couch-Butler |
@@ -599,8 +599,8 @@
 | 591 | 378 | Tina Marie |
 | 592 | 378 | Jasmine Kenney |
 | 593 | 377 | Jason H Baker |
-| 594 | 376 | Darlene Bowman |
-| 595 | 376 | James Zaragoza |
+| 594 | 376 | James Zaragoza |
+| 595 | 376 | Darlene Bowman |
 | 596 | 375 | Cecilia A Jenkins |
 | 597 | 375 | Lively Edgepiece |
 | 598 | 373 | Jessica Hughes |
@@ -646,8 +646,8 @@
 | 638 | 354 | Rickey Johnson |
 | 639 | 352 | Rose Fx |
 | 640 | 352 | Jean FU Jagielski |
-| 641 | 352 | ruth |
-| 642 | 352 | Mikayala Szaz |
+| 641 | 352 | Mikayala Szaz |
+| 642 | 352 | ruth |
 | 643 | 351 | Connie Jimenez |
 | 644 | 350 | Fi Ne |
 | 645 | 350 | Chris Harr |
@@ -676,15 +676,15 @@
 | 668 | 337 | Tum |
 | 669 | 337 | Diallo Sparkman |
 | 670 | 337 | Savannah Alexander |
-| 671 | 336 | Austin Wilson |
-| 672 | 336 | bru |
+| 671 | 336 | bru |
+| 672 | 336 | Austin Wilson |
 | 673 | 336 | Swanky Columnbuilder |
 | 674 | 335 | Brooke Leigh Strube |
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Adrian Benitez |
-| 679 | 333 | Woodys Glass |
+| 678 | 333 | Woodys Glass |
+| 679 | 333 | Adrian Benitez |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Amanda Schaffer |
-| 738 | 303 | Devin |
+| 737 | 303 | Devin |
+| 738 | 303 | Amanda Schaffer |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |

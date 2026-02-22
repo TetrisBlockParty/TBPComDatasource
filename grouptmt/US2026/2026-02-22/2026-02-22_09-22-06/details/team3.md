@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -302,8 +302,8 @@
 | 294 | 207 | Jessica |
 | 295 | 207 | angieelyn |
 | 296 | 206 | Betty Rosas |
-| 297 | 206 | Tammy Rosenberry |
-| 298 | 206 | Tracy Martin |
+| 297 | 206 | Tracy Martin |
+| 298 | 206 | Tammy Rosenberry |
 | 299 | 205 | Kirhonda Autmon |
 | 300 | 204 | Aerian Preston |
 | 301 | 203 | Angie Harper |
@@ -320,8 +320,8 @@
 | 312 | 192 | Ryan Williams |
 | 313 | 192 | Kelly Ann Child |
 | 314 | 191 | Philip Rock |
-| 315 | 189 | France Vézina |
-| 316 | 189 | Katie Leigh Blankenship |
+| 315 | 189 | Katie Leigh Blankenship |
+| 316 | 189 | France Vézina |
 | 317 | 188 | Loopy Fallmatch |
 | 318 | 187 | Tipsy Zonebuilder |
 | 319 | 186 | Sameerah Smith |
@@ -330,15 +330,15 @@
 | 322 | 182 | Melanie Sherwood |
 | 323 | 181 | Nicholas Roddy |
 | 324 | 181 | Denita Mungro |
-| 325 | 180 | Beth Ingham |
-| 326 | 180 | Criss |
+| 325 | 180 | Criss |
+| 326 | 180 | Beth Ingham |
 | 327 | 179 | Christian Werndl |
 | 328 | 179 | DanceLuvLaugh |
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Emma |
-| 333 | 176 | Melissa Orth Hunter |
+| 332 | 176 | Melissa Orth Hunter |
+| 333 | 176 | Emma |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
@@ -349,8 +349,8 @@
 | 341 | 168 | Trice Thomas |
 | 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Snarky McFace |
 | 348 | 166 | Angella Lyons |
@@ -392,8 +392,8 @@
 | 384 | 149 | Wacky Crasher |
 | 385 | 149 | Alexis Taylor |
 | 386 | 148 | Pam Holt Powell |
-| 387 | 148 | Erykah |
-| 388 | 148 | Flashy Rumbler |
+| 387 | 148 | Flashy Rumbler |
+| 388 | 148 | Erykah |
 | 389 | 148 | Bryan Byrd |
 | 390 | 147 | Megan Rathmanner |
 | 391 | 147 | Erika Thornton |

@@ -130,8 +130,8 @@
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | shark tato |
-| 126 | 286 | Daria Rycewicz |
+| 125 | 286 | Daria Rycewicz |
+| 126 | 286 | shark tato |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -173,10 +173,10 @@
 | 165 | 220 | Matt Dell'Olio |
 | 166 | 218 | Casey Grabner |
 | 167 | 217 | Chaz Duncan |
-| 168 | 215 | Jessica Bohlken |
-| 169 | 215 | Ren Mc |
-| 170 | 213 | Jason Allen |
-| 171 | 213 | Sarah Neathery |
+| 168 | 215 | Ren Mc |
+| 169 | 215 | Jessica Bohlken |
+| 170 | 213 | Sarah Neathery |
+| 171 | 213 | Jason Allen |
 | 172 | 212 | Mike Solo |
 | 173 | 211 | Jenna McGeorge |
 | 174 | 207 | Chirpy Basepiece |
@@ -208,9 +208,9 @@
 | 200 | 186 | Holly |
 | 201 | 184 | Ak Jones |
 | 202 | 181 | Carter Jones |
-| 203 | 180 | Dihcheese444 |
-| 204 | 180 | Orchislactea |
-| 205 | 180 | Rafael Valentin |
+| 203 | 180 | Rafael Valentin |
+| 204 | 180 | Dihcheese444 |
+| 205 | 180 | Orchislactea |
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
@@ -225,8 +225,8 @@
 | 217 | 165 | Jackie Marie |
 | 218 | 164 | 030Synner |
 | 219 | 163 | Kristina Black |
-| 220 | 162 | John Brunetti |
-| 221 | 162 | Joanna |
+| 220 | 162 | Joanna |
+| 221 | 162 | John Brunetti |
 | 222 | 161 | Jenny Wells-Oakley |
 | 223 | 160 | Laura Hosford |
 | 224 | 160 | Brittany Marsh |
@@ -459,7 +459,7 @@
 | 451 | 84 | Amy C Brown |
 | 452 | 84 | mini |
 | 453 | 83 | Groovy Brickmatch |
-| 454 | 82 | Eric Wren |
+| 454 | 82 | Oleg Zakharskiy |
 | 455 | 82 | Stacy Jones |
 | 456 | 82 | Eric Wren |
 | 457 | 81 | Megan Boyce |
