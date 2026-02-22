@@ -141,8 +141,8 @@
 | 133 | 301 | Lehrin Maria |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Sarah Roberts |
-| 137 | 290 | Death |
+| 136 | 290 | Death |
+| 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
 | 140 | 284 | Emily Adelaide Wheatley |
@@ -156,8 +156,8 @@
 | 148 | 276 | Dandy Basegrid |
 | 149 | 273 | Sassy Builderline |
 | 150 | 272 | Tana |
-| 151 | 270 | Mandyy Rae |
-| 152 | 270 | Ash Galvan |
+| 151 | 270 | Ash Galvan |
+| 152 | 270 | Mandyy Rae |
 | 153 | 268 | Jessi Sauer |
 | 154 | 268 | GATOR |
 | 155 | 265 | Nutty Spinblock |
@@ -330,9 +330,9 @@
 | 322 | 141 | Наталья Солоид |
 | 323 | 141 | Kayla Marie Stevenson |
 | 324 | 139 | Aimee Horton |
-| 325 | 138 | Hector Cruz |
-| 326 | 138 | Lynn Adams |
-| 327 | 138 | Giddy Cascade |
+| 325 | 138 | Lynn Adams |
+| 326 | 138 | Giddy Cascade |
+| 327 | 138 | Hector Cruz |
 | 328 | 138 | Ruthie Mahoney Saunders-Browne |
 | 329 | 137 | Gina Bettikofer |
 | 330 | 137 | Marci Sanders |

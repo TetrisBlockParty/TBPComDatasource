@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Carolyn Wallace |
-| 80 | 524 | Amelpss |
+| 79 | 524 | Amelpss |
+| 80 | 524 | Carolyn Wallace |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |

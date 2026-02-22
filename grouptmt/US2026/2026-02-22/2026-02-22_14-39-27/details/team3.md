@@ -190,8 +190,8 @@
 | 182 | 370 | Danielle Allison |
 | 183 | 368 | Stephanie Woods |
 | 184 | 366 | Adrian Marcel Pate |
-| 185 | 362 | Rochelle Hazelett |
-| 186 | 362 | Darlene McMillan |
+| 185 | 362 | Darlene McMillan |
+| 186 | 362 | Rochelle Hazelett |
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
