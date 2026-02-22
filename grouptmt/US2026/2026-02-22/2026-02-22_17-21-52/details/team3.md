@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Michael Nowogorski |
-| 131 | 521 | Michelle Becker |
-| 132 | 521 | Daryn Elliott |
+| 131 | 521 | Daryn Elliott |
+| 132 | 521 | Michelle Becker |
 | 133 | 518 | opf |
 | 134 | 506 | Sashay Tapae Simpson |
 | 135 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -299,8 +299,8 @@
 | 291 | 243 | Josh Borquez |
 | 292 | 241 | Troy |
 | 293 | 241 | LaShey Thompson |
-| 294 | 240 | Eric Caccavale |
-| 295 | 240 | Jimmie Clemons |
+| 294 | 240 | Jimmie Clemons |
+| 295 | 240 | Eric Caccavale |
 | 296 | 238 | Niki Dalrymple |
 | 297 | 236 | Lys |
 | 298 | 236 | Angela Scott |
@@ -308,8 +308,8 @@
 | 300 | 233 | Twisty Brick LT |
 | 301 | 233 | Tony Waters |
 | 302 | 232 | Donna |
-| 303 | 231 | Kiki |
-| 304 | 231 | Kevin Russell |
+| 303 | 231 | Kevin Russell |
+| 304 | 231 | Kiki |
 | 305 | 230 | BigE |
 | 306 | 228 | Naur |
 | 307 | 227 | Rebel124 |

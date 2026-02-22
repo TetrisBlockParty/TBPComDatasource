@@ -136,8 +136,8 @@
 | 128 | 1380 | Jose Mendoza |
 | 129 | 1371 | Zappy Cascade |
 | 130 | 1347 | Alisa Lamb |
-| 131 | 1342 | Christi Hulet |
-| 132 | 1342 | Eboni Banks |
+| 131 | 1342 | Eboni Banks |
+| 132 | 1342 | Christi Hulet |
 | 133 | 1342 | Bob |
 | 134 | 1339 | Karen Martini-Stapleton |
 | 135 | 1338 | Dawn Geist-Weasner |
@@ -228,8 +228,8 @@
 | 220 | 951 | Cynthia Ward |
 | 221 | 950 | Teresa Gillmore |
 | 222 | 944 | Kimberly Hauck-Rausch |
-| 223 | 941 | Marie Boyd Faulk |
-| 224 | 941 | Cool Clearer |
+| 223 | 941 | Cool Clearer |
+| 224 | 941 | Marie Boyd Faulk |
 | 225 | 932 | Catina Hutchison |
 | 226 | 924 | Desiree Anderson |
 | 227 | 923 | Cindy Sechler Taninecz |
@@ -261,9 +261,9 @@
 | 253 | 867 | Michele Gabriel |
 | 254 | 867 | Peppy Zone |
 | 255 | 862 | Brittany Radaszewski |
-| 256 | 860 | William Hunt |
-| 257 | 860 | April Dawn Gussler |
-| 258 | 860 | John Bednarik |
+| 256 | 860 | April Dawn Gussler |
+| 257 | 860 | John Bednarik |
+| 258 | 860 | William Hunt |
 | 259 | 857 | Della Hole |
 | 260 | 855 | F-X |
 | 261 | 853 | Maria Escobar |
@@ -294,8 +294,8 @@
 | 286 | 787 | Laura McCarthey |
 | 287 | 783 | Lisa Ongtowasruk |
 | 288 | 781 | Angie Bolton Workman |
-| 289 | 777 | Tesha Oldaker |
-| 290 | 777 | Jessicah Myers |
+| 289 | 777 | Jessicah Myers |
+| 290 | 777 | Tesha Oldaker |
 | 291 | 777 | Samantha Jo |
 | 292 | 773 | Joshua Sommerville |
 | 293 | 772 | Kristin Gower |
@@ -335,8 +335,8 @@
 | 327 | 700 | Hong Tang |
 | 328 | 700 | Vincent Petrella |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Dreamy Blast |
-| 331 | 697 | Ashle Scranton |
+| 330 | 697 | Ashle Scranton |
+| 331 | 697 | Dreamy Blast |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -521,8 +521,8 @@
 | 513 | 475 | Michelle Lee |
 | 514 | 474 | Calandra Shaya Robinson |
 | 515 | 473 | Wuntayk |
-| 516 | 473 | Sam |
-| 517 | 473 | coleksquad |
+| 516 | 473 | coleksquad |
+| 517 | 473 | Sam |
 | 518 | 473 | Tracy Wise |
 | 519 | 473 | Ashlee Cruz |
 | 520 | 472 | KayLynn Ogden McClelland |

@@ -184,8 +184,8 @@
 | 176 | 264 | Brian Richardsson |
 | 177 | 261 | Witty Builderfit |
 | 178 | 258 | Billie Dawn Sparks |
-| 179 | 254 | Al Smith Jr |
-| 180 | 254 | Letson Melissa |
+| 179 | 254 | Letson Melissa |
+| 180 | 254 | Al Smith Jr |
 | 181 | 253 | Jamie Jury |
 | 182 | 252 | Dena Kayy |
 | 183 | 251 | Giggly Builderline |
@@ -200,8 +200,8 @@
 | 192 | 241 | John J. Cronin |
 | 193 | 240 | DaRascal |
 | 194 | 239 | Sam Williams |
-| 195 | 237 | LaFontaine Leslie |
-| 196 | 237 | Frothy Pattern |
+| 195 | 237 | Frothy Pattern |
+| 196 | 237 | LaFontaine Leslie |
 | 197 | 236 | femmefatale |
 | 198 | 235 | Desiree Deschaine Havee |
 | 199 | 235 | MRdot Rooski |
@@ -212,8 +212,8 @@
 | 204 | 228 | Cheeky Pop |
 | 205 | 226 | Veronica Eve |
 | 206 | 225 | Bindi |
-| 207 | 224 | Michael |
-| 208 | 224 | ParisandCory Champagne |
+| 207 | 224 | ParisandCory Champagne |
+| 208 | 224 | Michael |
 | 209 | 223 | Erez Yosef |
 | 210 | 223 | Basment Living |
 | 211 | 222 | Debbie Davis |
@@ -470,11 +470,11 @@
 | 462 | 103 | Mariah Cornell |
 | 463 | 103 | Glitzy Grid |
 | 464 | 103 | Adriansoky |
-| 465 | 102 | osodabear |
-| 466 | 102 | Kelly Holland |
+| 465 | 102 | Marie White |
+| 466 | 102 | osodabear |
 | 467 | 102 | Twisty Wobbler |
-| 468 | 102 | Marie White |
-| 469 | 101 | Brynn Elizabeth |
+| 468 | 102 | Kelly Holland |
+| 469 | 101 | Mizzledagod |
 | 470 | 101 | Nate Price |
 | 471 | 101 | Brynn Elizabeth |
 | 472 | 100 | yoyoluv |

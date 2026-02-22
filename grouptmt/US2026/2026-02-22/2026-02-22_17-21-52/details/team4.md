@@ -127,14 +127,14 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Tyler Terrific |
-| 123 | 353 | Livvy |
+| 122 | 353 | Livvy |
+| 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | ThaEviLJeNiuZ |
-| 127 | 338 | Lucas J Sutton |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 126 | 338 | Lucas J Sutton |
+| 127 | 338 | ThaEviLJeNiuZ |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Amanda Pauldo-Ivy |
 | 132 | 329 | Jessica Bohlken |
