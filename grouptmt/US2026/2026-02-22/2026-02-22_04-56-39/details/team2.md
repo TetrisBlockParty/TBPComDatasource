@@ -119,8 +119,8 @@
 | 111 | 1252 | Katrina Williams Balmir |
 | 112 | 1248 | Howard Forest |
 | 113 | 1242 | Altamirano Michael |
-| 114 | 1232 | Groovy Puzzle |
-| 115 | 1232 | Isabela Shaw |
+| 114 | 1232 | Isabela Shaw |
+| 115 | 1232 | Groovy Puzzle |
 | 116 | 1226 | Vo'Landa Reels |
 | 117 | 1216 | Kristin Ruest |
 | 118 | 1215 | Megan Garrick |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -245,8 +245,8 @@
 | 237 | 704 | Shelley Thornburgh Wright |
 | 238 | 703 | Gold Rose |
 | 239 | 700 | Vincent Petrella |
-| 240 | 700 | Beverly Owens |
-| 241 | 700 | Rosemadder |
+| 240 | 700 | Rosemadder |
+| 241 | 700 | Beverly Owens |
 | 242 | 698 | Mighty Shatterfit |
 | 243 | 697 | Dreamy Blast |
 | 244 | 692 | Chelle |
@@ -365,8 +365,8 @@
 | 357 | 496 | Blacc Blac |
 | 358 | 494 | Doowop40 |
 | 359 | 493 | Kara Gillen |
-| 360 | 492 | Armonie Smith |
-| 361 | 492 | Breezy Clusterer |
+| 360 | 492 | Breezy Clusterer |
+| 361 | 492 | Armonie Smith |
 | 362 | 491 | Michael Buckner |
 | 363 | 489 | Osun Anuket Esu |
 | 364 | 489 | g |
@@ -583,8 +583,8 @@
 | 575 | 345 | Frisky Clearpiece |
 | 576 | 345 | Rhianna DiLorenzo |
 | 577 | 345 | Gina Caulder |
-| 578 | 344 | Glenn Cobbins |
-| 579 | 344 | Tra Barnum |
+| 578 | 344 | Tra Barnum |
+| 579 | 344 | Glenn Cobbins |
 | 580 | 342 | Angi Harrison |
 | 581 | 341 | Daniel Amos |
 | 582 | 340 | Mikayala Szaz |
@@ -603,8 +603,8 @@
 | 595 | 331 | bru |
 | 596 | 330 | CC |
 | 597 | 329 | Chummy Blockbuilder |
-| 598 | 329 | Jane Crew |
-| 599 | 329 | Snappy Shatterfit |
+| 598 | 329 | Snappy Shatterfit |
+| 599 | 329 | Jane Crew |
 | 600 | 328 | BabyBird |
 | 601 | 326 | Michael Artis |
 | 602 | 326 | Ann Knutson Anderson |

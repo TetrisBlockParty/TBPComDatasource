@@ -134,8 +134,8 @@
 | 126 | 252 | Elaine Elaine |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
-| 129 | 243 | Trippy Redd |
-| 130 | 243 | Chelsea Dahlquist |
+| 129 | 243 | Chelsea Dahlquist |
+| 130 | 243 | Trippy Redd |
 | 131 | 241 | John J. Cronin |
 | 132 | 236 | Mandyy Rae |
 | 133 | 232 | Jessi Sauer |
