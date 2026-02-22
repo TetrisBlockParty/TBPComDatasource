@@ -153,8 +153,8 @@
 | 145 | 400 | Luciana Braganca Vieira |
 | 146 | 400 | Aaron Pitkin |
 | 147 | 399 | Marcie Bressler |
-| 148 | 399 | Jacqueline Rodriguez |
-| 149 | 399 | Mcathen |
+| 148 | 399 | Mcathen |
+| 149 | 399 | Jacqueline Rodriguez |
 | 150 | 397 | Annie Déè |
 | 151 | 393 | Fallorina Susana |
 | 152 | 392 | Jim Mathews |
@@ -280,8 +280,8 @@
 | 272 | 214 | Twisty Brick LT |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | El Chapa |
-| 276 | 211 | Velma Mull |
+| 275 | 211 | Velma Mull |
+| 276 | 211 | El Chapa |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 209 | Micayah Stevens |
 | 279 | 208 | AlsoJess |
@@ -323,8 +323,8 @@
 | 315 | 178 | Jess Dearborn |
 | 316 | 178 | Wendy Dearden |
 | 317 | 178 | Jennifer Alvey |
-| 318 | 176 | Emma |
-| 319 | 176 | Melissa Orth Hunter |
+| 318 | 176 | Melissa Orth Hunter |
+| 319 | 176 | Emma |
 | 320 | 175 | Eileen Brady Thurber |
 | 321 | 174 | Betty Rosas |
 | 322 | 174 | Lesley Perez |
@@ -339,7 +339,7 @@
 | 331 | 167 | Romeo |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
-| 334 | 165 | Ashley Lynn Marchese |
+| 334 | 165 | Kali Kelz Williams |
 | 335 | 165 | Rainbow77375 |
 | 336 | 165 | Ashley Lynn Marchese |
 | 337 | 163 | Diana Ibarra |

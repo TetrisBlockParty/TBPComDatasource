@@ -78,8 +78,8 @@
 | 70 | 504 | Ash |
 | 71 | 500 | Rodney McMath Jr. |
 | 72 | 486 | Landon Keith Graffeo |
-| 73 | 483 | TeeJ |
-| 74 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | TeeJ |
 | 75 | 467 | Dawn Alexander |
 | 76 | 463 | Eric Mcgaughy |
 | 77 | 447 | Samantha Peterson |
@@ -91,8 +91,8 @@
 | 83 | 409 | Isabella Blanco |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Amy Suckarieh |
-| 87 | 396 | Alicia Bass |
+| 86 | 396 | Alicia Bass |
+| 87 | 396 | Amy Suckarieh |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -130,8 +130,8 @@
 | 122 | 286 | Daria Rycewicz |
 | 123 | 283 | Brittney Orengo |
 | 124 | 281 | Meagan Nicole |
-| 125 | 278 | Carrie Brian |
-| 126 | 278 | Desi Desporte |
+| 125 | 278 | Desi Desporte |
+| 126 | 278 | Carrie Brian |
 | 127 | 277 | Mary Ann Pabukis |
 | 128 | 277 | Scott Jameson |
 | 129 | 275 | Dizzy Tiley |
