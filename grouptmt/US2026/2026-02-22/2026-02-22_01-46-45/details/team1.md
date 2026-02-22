@@ -122,8 +122,8 @@
 | 114 | 251 | Jason Jones |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Trippy Redd |
-| 118 | 243 | Chelsea Dahlquist |
+| 117 | 243 | Chelsea Dahlquist |
+| 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 236 | Mandyy Rae |

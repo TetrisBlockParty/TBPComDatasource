@@ -121,8 +121,8 @@
 | 113 | 235 | Lucas J Sutton |
 | 114 | 232 | Peachy Fall |
 | 115 | 231 | Chastity Mitchell |
-| 116 | 230 | Daria Rycewicz |
-| 117 | 230 | Autum Leigh |
+| 116 | 230 | Autum Leigh |
+| 117 | 230 | Daria Rycewicz |
 | 118 | 225 | Damn Libra |
 | 119 | 222 | Joeliecea Cobb |
 | 120 | 221 | Alyssa Papen |
@@ -145,8 +145,8 @@
 | 137 | 204 | Jen Caldwell |
 | 138 | 203 | Katherine Crane |
 | 139 | 201 | Melvin Baird |
-| 140 | 196 | Jeff Brian Gates |
-| 141 | 196 | Jenna McGeorge |
+| 140 | 196 | Jenna McGeorge |
+| 141 | 196 | Jeff Brian Gates |
 | 142 | 195 | Malakai Darien Fox |
 | 143 | 194 | Zany Twisterfit |
 | 144 | 192 | Shauna Havard |

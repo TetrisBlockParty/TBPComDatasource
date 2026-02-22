@@ -236,8 +236,8 @@
 | 228 | 659 | Poldo Ilano |
 | 229 | 658 | Erica Williams |
 | 230 | 654 | Mandi Douglas Hilt |
-| 231 | 651 | Auntie B |
-| 232 | 651 | Unica Rector |
+| 231 | 651 | Unica Rector |
+| 232 | 651 | Auntie B |
 | 233 | 650 | Shiny Rollzone |
 | 234 | 647 | Peppy Zone |
 | 235 | 647 | Ashle Scranton |
@@ -285,8 +285,8 @@
 | 277 | 549 | Kaylee McCafferty |
 | 278 | 547 | Giggy Blocker |
 | 279 | 544 | Leah Keesling |
-| 280 | 543 | Adira Brown |
-| 281 | 543 | Teresa Gillmore |
+| 280 | 543 | Teresa Gillmore |
+| 281 | 543 | Adira Brown |
 | 282 | 542 | Slip |
 | 283 | 535 | Jessie McDougald |
 | 284 | 535 | Paul Huber |
@@ -343,8 +343,8 @@
 | 335 | 465 | Blacc Blac |
 | 336 | 463 | Sue Leard |
 | 337 | 460 | Cody Smith-Candelaria |
-| 338 | 459 | Brainy Smurf |
-| 339 | 459 | Doowop40 |
+| 338 | 459 | Doowop40 |
+| 339 | 459 | Brainy Smurf |
 | 340 | 458 | Casper The Chonk |
 | 341 | 455 | Sam Joe |
 | 342 | 454 | Casey Schumacher |
@@ -386,8 +386,8 @@
 | 378 | 425 | Skyler Morgan |
 | 379 | 423 | Sam |
 | 380 | 423 | Shaun Church |
-| 381 | 421 | Vanessa Moreno |
-| 382 | 421 | Vonceial Boone |
+| 381 | 421 | Vonceial Boone |
+| 382 | 421 | Vanessa Moreno |
 | 383 | 416 | Lina Sanders |
 | 384 | 414 | Sabrina Burton |
 | 385 | 414 | Kara Gillen |
@@ -643,11 +643,11 @@
 | 635 | 269 | Reece Smith |
 | 636 | 268 | Christina Wsn |
 | 637 | 266 | Jason Garnatz |
-| 638 | 265 | Danielle Ayoub |
-| 639 | 265 | Sandra Link-Gable |
-| 640 | 263 | Alyssia Tancredi |
+| 638 | 265 | Sandra Link-Gable |
+| 639 | 265 | Danielle Ayoub |
+| 640 | 263 | Sara Pennington |
 | 641 | 263 | Elizabeth Leinen |
-| 642 | 263 | Sara Pennington |
+| 642 | 263 | Alyssia Tancredi |
 | 643 | 262 | Taren Cowan |
 | 644 | 262 | Sarah block |
 | 645 | 262 | James Smith |
