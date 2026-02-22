@@ -262,11 +262,11 @@
 | 254 | 971 | Robin Kerby |
 | 255 | 970 | Maria Escobar |
 | 256 | 958 | Brenda Messer |
-| 257 | 957 | Block Master |
-| 258 | 957 | Keri Womack |
+| 257 | 957 | Keri Womack |
+| 258 | 957 | Block Master |
 | 259 | 957 | Crystal Hoffman |
-| 260 | 955 | Angela Bonquiqui Dinish |
-| 261 | 955 | Kevin Walp |
+| 260 | 955 | Kevin Walp |
+| 261 | 955 | Angela Bonquiqui Dinish |
 | 262 | 951 | Cynthia Ward |
 | 263 | 941 | Cool Clearer |
 | 264 | 941 | Glitzy Stackzone |
@@ -305,8 +305,8 @@
 | 297 | 860 | Carl Bradshaw |
 | 298 | 858 | Porsche' Nicole |
 | 299 | 857 | Kara Gillen |
-| 300 | 856 | Mighty Shatterfit |
-| 301 | 856 | Jojo Momma |
+| 300 | 856 | Jojo Momma |
+| 301 | 856 | Mighty Shatterfit |
 | 302 | 853 | Meghan M |
 | 303 | 848 | Elizabeth Wilbanks |
 | 304 | 846 | Binyah-Binyah |
@@ -336,8 +336,8 @@
 | 328 | 807 | Khalil Lowe |
 | 329 | 799 | Joy LaJeunesse |
 | 330 | 797 | Offonar Facey |
-| 331 | 793 | Heather Schelkopf |
-| 332 | 793 | Lisa Ongtowasruk |
+| 331 | 793 | Lisa Ongtowasruk |
+| 332 | 793 | Heather Schelkopf |
 | 333 | 792 | Gold Rose |
 | 334 | 790 | Julie Kresal |
 | 335 | 790 | Brenda Pierpoint |

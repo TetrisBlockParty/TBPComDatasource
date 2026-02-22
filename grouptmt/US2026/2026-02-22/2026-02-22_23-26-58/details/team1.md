@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -224,8 +224,8 @@
 | 216 | 254 | Al Smith Jr |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
-| 219 | 249 | Sam Williams |
-| 220 | 249 | Lakeisha Chapman |
+| 219 | 249 | Lakeisha Chapman |
+| 220 | 249 | Sam Williams |
 | 221 | 247 | Snappy Matcher |
 | 222 | 247 | John J. Cronin |
 | 223 | 245 | Matt Iaccheo |
@@ -235,8 +235,8 @@
 | 227 | 244 | LaFontaine Leslie |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
-| 230 | 240 | Daring Fitclear |
-| 231 | 240 | DaRascal |
+| 230 | 240 | DaRascal |
+| 231 | 240 | Daring Fitclear |
 | 232 | 239 | Lacy Wolfe |
 | 233 | 238 | Sarah Somers Gray |
 | 234 | 238 | Tiffany Smith |

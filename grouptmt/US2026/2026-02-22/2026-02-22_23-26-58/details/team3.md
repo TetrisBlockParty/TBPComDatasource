@@ -79,8 +79,8 @@
 | 71 | 966 | Nate Burnside |
 | 72 | 964 | Jennifer |
 | 73 | 945 | Christian A. Pollard |
-| 74 | 926 | Judi Dobson |
-| 75 | 926 | Angela M. Fletcher |
+| 74 | 926 | Angela M. Fletcher |
+| 75 | 926 | Judi Dobson |
 | 76 | 924 | Shonna Roberts |
 | 77 | 913 | Christine Filson |
 | 78 | 910 | Jay Horn |
@@ -176,8 +176,8 @@
 | 168 | 485 | Dapper Snap |
 | 169 | 479 | Poppy Splitter |
 | 170 | 475 | Tessina Dewey-Mancino |
-| 171 | 471 | Mendoza Lee Christy |
-| 172 | 471 | Rachel |
+| 171 | 471 | Rachel |
+| 172 | 471 | Mendoza Lee Christy |
 | 173 | 470 | Logan Naccarato |
 | 174 | 469 | Melissa Orth Hunter |
 | 175 | 468 | Betty Ivy |
@@ -185,8 +185,8 @@
 | 177 | 464 | Makelini Mausia |
 | 178 | 462 | FuzzyNavel |
 | 179 | 461 | Shunta Jacobs |
-| 180 | 460 | Araceli Parra |
-| 181 | 460 | Danielle Allison |
+| 180 | 460 | Danielle Allison |
+| 181 | 460 | Araceli Parra |
 | 182 | 458 | Danielle Rhoades |
 | 183 | 457 | Shannon Matthew Byers |
 | 184 | 457 | Jim Mathews |
@@ -232,11 +232,11 @@
 | 224 | 372 | Rich LeBlanc |
 | 225 | 372 | Sarah Moyer |
 | 226 | 370 | RickyG |
-| 227 | 368 | Stephanie Woods |
-| 228 | 368 | Rebecca Funderburk Kirby |
+| 227 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Stephanie Woods |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Chummy Caster |
-| 231 | 365 | Tiffany Ford |
+| 230 | 365 | Tiffany Ford |
+| 231 | 365 | Chummy Caster |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 358 | Kristal C Lee |
@@ -283,8 +283,8 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Angie Harper |
-| 279 | 299 | Ray Lader |
+| 278 | 299 | Ray Lader |
+| 279 | 299 | Angie Harper |
 | 280 | 298 | Grams |
 | 281 | 297 | Cheeky Snapper |
 | 282 | 297 | Jojo M |
@@ -588,8 +588,8 @@
 | 580 | 152 | Elisha L Allman |
 | 581 | 152 | Ginger Gray |
 | 582 | 151 | Lisa Bard |
-| 583 | 151 | Cheery Brickster |
-| 584 | 151 | Steph Arcari |
+| 583 | 151 | Steph Arcari |
+| 584 | 151 | Cheery Brickster |
 | 585 | 150 | Sassy Brickmatch |
 | 586 | 149 | Angel Miller |
 | 587 | 149 | Alexis Taylor |

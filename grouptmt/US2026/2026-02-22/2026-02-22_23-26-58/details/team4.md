@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -109,8 +109,8 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Jolly Dashfit |
-| 121 | 431 | Courtney Cicoria |
+| 120 | 431 | Courtney Cicoria |
+| 121 | 431 | Jolly Dashfit |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -137,15 +137,15 @@
 | 129 | 401 | Jessica Lynn Cutlip |
 | 130 | 400 | Ericca Eldridge |
 | 131 | 394 | Austin Owens |
-| 132 | 393 | Trish |
-| 133 | 393 | Carlton Unfiltered |
+| 132 | 393 | Carlton Unfiltered |
+| 133 | 393 | Trish |
 | 134 | 392 | Cristy Duerksen |
 | 135 | 391 | Lush Linkfall |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
-| 139 | 377 | Jessica Bohlken |
-| 140 | 377 | Carrie Brian |
+| 139 | 377 | Carrie Brian |
+| 140 | 377 | Jessica Bohlken |
 | 141 | 376 | Kesha Brady |
 | 142 | 373 | Joseph Guthrie |
 | 143 | 368 | Brandon Crabbs |
@@ -172,12 +172,12 @@
 | 164 | 321 | jim |
 | 165 | 320 | Lauren Scott |
 | 166 | 316 | Meagan Nicole |
-| 167 | 314 | TRCuse |
-| 168 | 314 | Andy Cabral |
+| 167 | 314 | Andy Cabral |
+| 168 | 314 | TRCuse |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
-| 171 | 307 | Girl |
-| 172 | 307 | Bio Nelly |
+| 171 | 307 | Bio Nelly |
+| 172 | 307 | Girl |
 | 173 | 304 | Chaz Duncan |
 | 174 | 303 | shark tato |
 | 175 | 302 | Cursed Hag |
@@ -220,14 +220,14 @@
 | 212 | 261 | scott |
 | 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | Cheery Risebuilder |
-| 216 | 257 | PeaceOs |
+| 215 | 257 | PeaceOs |
+| 216 | 257 | Cheery Risebuilder |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Carlos Ramirez |
 | 225 | 246 | Zethra Prenisha Rahming |
@@ -235,20 +235,20 @@
 | 227 | 245 | 23 |
 | 228 | 245 | Adam Stephanie Parker |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | JPW |
+| 230 | 241 | Chris Hartig |
 | 231 | 241 | Allen Lloyd |
-| 232 | 241 | Chris Hartig |
+| 232 | 241 | JPW |
 | 233 | 240 | Kim Hunt |
 | 234 | 238 | Zesty Twistbuilder |
 | 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | Jade Rian |
-| 239 | 230 | blockstar |
+| 238 | 230 | blockstar |
+| 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Perky Patternblock |
-| 243 | 225 | Jenna McGeorge |
+| 242 | 225 | Jenna McGeorge |
+| 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | Rheanda Weaskus |
 | 246 | 221 | PurpleMoonMa |
@@ -277,25 +277,25 @@
 | 269 | 209 | Zany Shatterer |
 | 270 | 208 | Rebecca Morris |
 | 271 | 207 | Snippy Puzzle |
-| 272 | 205 | Stella |
-| 273 | 205 | James Hurley Jr. |
+| 272 | 205 | James Hurley Jr. |
+| 273 | 205 | Stella |
 | 274 | 203 | Katherine Crane |
 | 275 | 202 | Angelito |
 | 276 | 201 | Silly SeaWeed |
 | 277 | 200 | Googenheim |
 | 278 | 199 | Carter Jones |
-| 279 | 198 | Shainne Brewer |
-| 280 | 198 | Calvin Dennis |
+| 279 | 198 | Calvin Dennis |
+| 280 | 198 | Shainne Brewer |
 | 281 | 197 | Gilles Lanctot |
 | 282 | 195 | 中山成巳 |
 | 283 | 194 | Zany Twisterfit |
 | 284 | 193 | Stephme310 |
-| 285 | 192 | Jackie Marie |
-| 286 | 192 | Andrew Dang |
+| 285 | 192 | Andrew Dang |
+| 286 | 192 | Jackie Marie |
 | 287 | 191 | Earnest Thompson |
 | 288 | 191 | Norman Klick |
-| 289 | 189 | 030Synner |
-| 290 | 189 | wombat |
+| 289 | 189 | wombat |
+| 290 | 189 | 030Synner |
 | 291 | 189 | Berklie Apedaile |
 | 292 | 187 | Cynthia Boudreau |
 | 293 | 187 | Nita Wells |
