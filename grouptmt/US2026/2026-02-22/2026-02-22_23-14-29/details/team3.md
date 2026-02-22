@@ -175,14 +175,14 @@
 | 167 | 484 | Dapper Snap |
 | 168 | 479 | Poppy Splitter |
 | 169 | 475 | Tessina Dewey-Mancino |
-| 170 | 471 | Mendoza Lee Christy |
-| 171 | 471 | Rachel |
+| 170 | 471 | Rachel |
+| 171 | 471 | Mendoza Lee Christy |
 | 172 | 470 | Logan Naccarato |
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
 | 175 | 465 | Tasha Schriewer |
-| 176 | 464 | Makelini Mausia |
-| 177 | 464 | Michelle |
+| 176 | 464 | Michelle |
+| 177 | 464 | Makelini Mausia |
 | 178 | 461 | Shunta Jacobs |
 | 179 | 460 | Danielle Allison |
 | 180 | 460 | Araceli Parra |
@@ -232,8 +232,8 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Stephanie Woods |
-| 228 | 368 | Rebecca Funderburk Kirby |
+| 227 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Stephanie Woods |
 | 229 | 366 | Marquita Sheard |
 | 230 | 365 | Chummy Caster |
 | 231 | 365 | Tiffany Ford |
@@ -290,8 +290,8 @@
 | 282 | 297 | Cheeky Snapper |
 | 283 | 297 | kacihall |
 | 284 | 296 | Hoppy Buildout |
-| 285 | 294 | Tasha Wesson-Torrence |
-| 286 | 294 | fraulila |
+| 285 | 294 | fraulila |
+| 286 | 294 | Tasha Wesson-Torrence |
 | 287 | 293 | Beaudie Stroebel |
 | 288 | 291 | Carrie Huskey |
 | 289 | 289 | DidIdothat |
@@ -406,9 +406,9 @@
 | 398 | 217 | Jul |
 | 399 | 216 | Breanna Marsden |
 | 400 | 216 | Trice Thomas |
-| 401 | 215 | AlsoJess |
-| 402 | 215 | Saucy Buildout |
-| 403 | 214 | Glitzy Rotate |
+| 401 | 215 | Saucy Buildout |
+| 402 | 215 | AlsoJess |
+| 403 | 214 | Block Baddie |
 | 404 | 214 | Amy Fuller Heaton |
 | 405 | 214 | Glitzy Rotate |
 | 406 | 213 | Romeo |
@@ -428,8 +428,8 @@
 | 420 | 205 | Trey Ward |
 | 421 | 205 | Rachel Napper |
 | 422 | 204 | Frilly Stackzone |
-| 423 | 203 | JessDrown |
-| 424 | 203 | Angella Lyons |
+| 423 | 203 | Angella Lyons |
+| 424 | 203 | JessDrown |
 | 425 | 202 | Tipsy Zonebuilder |
 | 426 | 202 | Melanie Sherwood |
 | 427 | 201 | Noettín Kan Zasnemoore |
@@ -446,8 +446,8 @@
 | 438 | 198 | joz |
 | 439 | 198 | Linda Draper |
 | 440 | 196 | Rainbow77375 |
-| 441 | 195 | Nicha Hooker |
-| 442 | 195 | Swanky Snapclear |
+| 441 | 195 | Swanky Snapclear |
+| 442 | 195 | Nicha Hooker |
 | 443 | 194 | Kevin Fountain |
 | 444 | 194 | Erykah |
 | 445 | 193 | Bryan Byrd |

@@ -213,8 +213,8 @@
 | 205 | 267 | Cody Gates |
 | 206 | 266 | BadG52 |
 | 207 | 265 | Kandae |
-| 208 | 264 | Serina Marie |
-| 209 | 264 | Jenny Gingrich Fuentes |
+| 208 | 264 | Jenny Gingrich Fuentes |
+| 209 | 264 | Serina Marie |
 | 210 | 263 | Jessie Lynn |
 | 211 | 261 | Jen Nystrom |
 | 212 | 260 | Cheeky Pop |
@@ -425,7 +425,7 @@
 | 417 | 145 | Rachel Nichole Henry |
 | 418 | 144 | Miguel Teixeira |
 | 419 | 144 | Danielle Mae |
-| 420 | 144 | Miguel Teixeira |
+| 420 | 144 | Andrew Backes |
 | 421 | 143 | Guest |
 | 422 | 142 | Lynn Adams |
 | 423 | 140 | Billie Ann Eason |
