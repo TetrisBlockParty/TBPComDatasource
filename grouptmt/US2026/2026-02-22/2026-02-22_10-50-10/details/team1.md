@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -112,8 +112,8 @@
 | 104 | 344 | Bhelle Sumile |
 | 105 | 342 | Brenda Stewart |
 | 106 | 341 | Nick R Montague |
-| 107 | 333 | phrmblk24 |
-| 108 | 333 | Brandi Huntington |
+| 107 | 333 | Brandi Huntington |
+| 108 | 333 | phrmblk24 |
 | 109 | 332 | Luciano Moreira |
 | 110 | 332 | Kristen Gideon |
 | 111 | 330 | Sweet Baker |
@@ -195,12 +195,12 @@
 | 187 | 205 | Tater |
 | 188 | 205 | Snappy Matcher |
 | 189 | 204 | Lacy Wolfe |
-| 190 | 203 | Paula Martin |
-| 191 | 203 | LaFontaine Leslie |
+| 190 | 203 | LaFontaine Leslie |
+| 191 | 203 | Paula Martin |
 | 192 | 201 | Colleen Wise |
 | 193 | 200 | Flashy Rotator |
-| 194 | 200 | Breanna Luna |
-| 195 | 200 | DaRascal |
+| 194 | 200 | DaRascal |
+| 195 | 200 | Breanna Luna |
 | 196 | 199 | Basment Living |
 | 197 | 198 | Happy Snapbuild |
 | 198 | 198 | Shiny Gridmatch |

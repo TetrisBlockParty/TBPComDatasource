@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Rachael Senard |
-| 372 | 554 | Santana Miyagi |
+| 371 | 554 | Santana Miyagi |
+| 372 | 554 | Rachael Senard |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -1189,8 +1189,8 @@
 | 1181 | 191 | Samuel Labruno |
 | 1182 | 191 | Casaundra Little-Abeling |
 | 1183 | 191 | Val Pal |
-| 1184 | 190 | Lola |
-| 1185 | 190 | Cherry |
+| 1184 | 190 | Cherry |
+| 1185 | 190 | Lola |
 | 1186 | 190 | Jessica Kaye DeAguero |
 | 1187 | 190 | Lucero Ramirez |
 | 1188 | 190 | Andrew Bratton-Tomes |
