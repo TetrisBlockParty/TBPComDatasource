@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -271,16 +271,16 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Stephanie Hill |
-| 275 | 225 | Dirtgirl27 |
+| 274 | 225 | Dirtgirl27 |
+| 275 | 225 | Stephanie Hill |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -289,11 +289,11 @@
 | 281 | 220 | Tosha Griffey |
 | 282 | 220 | rosy |
 | 283 | 218 | Michael Lucado |
-| 284 | 216 | Twisty Brick LT |
-| 285 | 216 | Cheryl Hinch Tenbrook |
+| 284 | 216 | Cheryl Hinch Tenbrook |
+| 285 | 216 | Twisty Brick LT |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Amy Fuller Heaton |
-| 288 | 214 | Angela Scott |
+| 287 | 214 | Angela Scott |
+| 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Sunny Rotater |
@@ -309,8 +309,8 @@
 | 301 | 207 | Daring Builder |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
-| 304 | 206 | kacihall |
-| 305 | 206 | Tracy Martin |
+| 304 | 206 | Tracy Martin |
+| 305 | 206 | kacihall |
 | 306 | 205 | Kirhonda Autmon |
 | 307 | 204 | Aerian Preston |
 | 308 | 203 | Angie Harper |
@@ -438,8 +438,8 @@
 | 430 | 142 | Jl |
 | 431 | 141 | Melissa Snyder |
 | 432 | 141 | Bhreagh Gentile |
-| 433 | 141 | Reina Roth |
-| 434 | 141 | Weerae |
+| 433 | 141 | Weerae |
+| 434 | 141 | Reina Roth |
 | 435 | 140 | Jumpy Curvebuilder |
 | 436 | 140 | Boldy Corner |
 | 437 | 140 | Linda Draper |

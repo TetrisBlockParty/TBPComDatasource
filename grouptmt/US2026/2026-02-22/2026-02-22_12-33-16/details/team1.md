@@ -127,15 +127,15 @@
 | 119 | 316 | Jennifer Hardman |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Jason Jones |
-| 123 | 310 | Seth Wesson |
+| 122 | 310 | Seth Wesson |
+| 123 | 310 | Jason Jones |
 | 124 | 306 | Happy Basegrid |
 | 125 | 304 | Nicole Roseberry Weber |
 | 126 | 301 | Lehrin Maria |
 | 127 | 300 | Chelsea Dahlquist |
 | 128 | 298 | Erin Hodges Plumb |
-| 129 | 290 | Death |
-| 130 | 290 | Sarah Roberts |
+| 129 | 290 | Sarah Roberts |
+| 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
 | 132 | 284 | Rachael |
 | 133 | 284 | Emily Adelaide Wheatley |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -249,8 +249,8 @@
 | 241 | 177 | Jacqueline Unique |
 | 242 | 176 | Tiger Lily |
 | 243 | 176 | Mel Hogan |
-| 244 | 175 | John Barron |
-| 245 | 175 | Kellie Tunstall |
+| 244 | 175 | Kellie Tunstall |
+| 245 | 175 | John Barron |
 | 246 | 174 | Cheeky Pop |
 | 247 | 173 | Gabrielle Louise Malloch |
 | 248 | 173 | Rico Rico |
@@ -338,10 +338,10 @@
 | 330 | 126 | Zany Tiler |
 | 331 | 125 | Matt Iaccheo |
 | 332 | 125 | Angela Spann |
-| 333 | 124 | John Kim |
+| 333 | 124 | DoodleBug |
 | 334 | 124 | Rodney Schmerfeld |
 | 335 | 124 | Mario Cab |
-| 336 | 124 | DoodleBug |
+| 336 | 124 | John Kim |
 | 337 | 123 | Tonya Beasley |
 | 338 | 122 | Nate Funk |
 | 339 | 121 | Pauline Cortez |

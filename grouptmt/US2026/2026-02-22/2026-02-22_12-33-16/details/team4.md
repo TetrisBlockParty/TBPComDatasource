@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 619 | Valerie Roberts |
 | 61 | 614 | TheNeesh50 |
@@ -157,8 +157,8 @@
 | 149 | 262 | Holly Jolly |
 | 150 | 258 | Bio Nelly |
 | 151 | 257 | Twisty Clicky |
-| 152 | 256 | Mylo Lipscomb |
-| 153 | 256 | Joeliecea Cobb |
+| 152 | 256 | Joeliecea Cobb |
+| 153 | 256 | Mylo Lipscomb |
 | 154 | 255 | Lindsay Ball |
 | 155 | 253 | Casey Grabner |
 | 156 | 250 | Matt Dell'Olio |
@@ -176,8 +176,8 @@
 | 168 | 227 | Swanky Fitline |
 | 169 | 224 | Matt Summer |
 | 170 | 223 | Antony Dwayne Beasley |
-| 171 | 221 | PurpleMoonMa |
-| 172 | 221 | Rheanda Weaskus |
+| 171 | 221 | Rheanda Weaskus |
+| 172 | 221 | PurpleMoonMa |
 | 173 | 217 | Kim Hunt |
 | 174 | 217 | Chaz Duncan |
 | 175 | 217 | Angela Srubar-Norman |
@@ -190,8 +190,8 @@
 | 182 | 209 | Rafael Valentin |
 | 183 | 207 | Chirpy Basepiece |
 | 184 | 205 | Kathy Brookins |
-| 185 | 204 | Jen Caldwell |
-| 186 | 204 | Carlos Ramirez |
+| 185 | 204 | Carlos Ramirez |
+| 186 | 204 | Jen Caldwell |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | TRCuse |
 | 189 | 202 | Patron Anderson |

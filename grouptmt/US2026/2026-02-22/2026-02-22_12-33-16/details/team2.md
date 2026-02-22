@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 894 | Auntie B |
@@ -559,8 +559,8 @@
 | 551 | 413 | Lauren Fitzgerald Thomas |
 | 552 | 412 | Jason H Baker |
 | 553 | 412 | Wuntayk |
-| 554 | 411 | Kristen O'Neal |
-| 555 | 411 | Mighty Spinbuilder |
+| 554 | 411 | Mighty Spinbuilder |
+| 555 | 411 | Kristen O'Neal |
 | 556 | 410 | Nicole Cannon |
 | 557 | 408 | Abimbola Bimbo |
 | 558 | 408 | Stefanie Zonzini-Gagliardi |
@@ -781,8 +781,8 @@
 | 773 | 296 | Zappy Dropmatch |
 | 774 | 296 | Frisky Riserbuilder |
 | 775 | 295 | Noel Tarmy |
-| 776 | 294 | Amanda Edwards |
-| 777 | 294 | Sveta Lana |
+| 776 | 294 | Sveta Lana |
+| 777 | 294 | Amanda Edwards |
 | 778 | 293 | Ann Marie Davis |
 | 779 | 292 | Bryan Werleman |
 | 780 | 292 | Deana |
