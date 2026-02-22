@@ -198,8 +198,8 @@
 | 190 | 921 | Morgue Chick |
 | 191 | 916 | Butta |
 | 192 | 915 | Kelly Trent |
-| 193 | 910 | Shuany Arias |
-| 194 | 910 | Crystal Hoffman |
+| 193 | 910 | Crystal Hoffman |
+| 194 | 910 | Shuany Arias |
 | 195 | 907 | Gene Mills |
 | 196 | 901 | Jennifer Peachey |
 | 197 | 890 | Kevin Walp |
@@ -321,8 +321,8 @@
 | 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
-| 316 | 617 | Leslie Ann Carter |
-| 317 | 617 | tejas25 |
+| 316 | 617 | tejas25 |
+| 317 | 617 | Leslie Ann Carter |
 | 318 | 613 | Ellie Jonas |
 | 319 | 611 | Em Chen |
 | 320 | 611 | Julio A Laracuente |
@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Rachael Senard |
-| 347 | 554 | Santana Miyagi |
+| 346 | 554 | Santana Miyagi |
+| 347 | 554 | Rachael Senard |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Lylymom |
-| 370 | 522 | Joseph Musick |
+| 369 | 522 | Joseph Musick |
+| 370 | 522 | Lylymom |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Angela Lynn |
 | 373 | 520 | Maddy Petersen |
@@ -466,8 +466,8 @@
 | 458 | 444 | Ryan Meilleur |
 | 459 | 442 | Leah |
 | 460 | 441 | Christina Wsn |
-| 461 | 440 | Liberty |
-| 462 | 440 | Sarah Berger |
+| 461 | 440 | Sarah Berger |
+| 462 | 440 | Liberty |
 | 463 | 440 | Snippy Rumbler |
 | 464 | 438 | Johnny Yeates |
 | 465 | 437 | Bubbly Snapfit |
@@ -511,8 +511,8 @@
 | 503 | 411 | Kristen O'Neal |
 | 504 | 410 | Kiana Boschh |
 | 505 | 410 | Nicole Cannon |
-| 506 | 408 | Abimbola Bimbo |
-| 507 | 408 | Stefanie Zonzini-Gagliardi |
+| 506 | 408 | Stefanie Zonzini-Gagliardi |
+| 507 | 408 | Abimbola Bimbo |
 | 508 | 408 | Brandon Jones |
 | 509 | 406 | Kimberly Ann |
 | 510 | 406 | Erin StFrancis |

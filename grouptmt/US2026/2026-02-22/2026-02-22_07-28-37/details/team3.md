@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Alice |
-| 261 | 221 | Jaime Monhaut-Reed |
+| 260 | 221 | Jaime Monhaut-Reed |
+| 261 | 221 | Alice |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Cozy Snaplink |
@@ -332,14 +332,14 @@
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Naur |
-| 328 | 169 | Peachy Rollfit |
+| 327 | 169 | Peachy Rollfit |
+| 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | April Matthew Kibble |
-| 331 | 168 | Trice Thomas |
+| 330 | 168 | Trice Thomas |
+| 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
-| 333 | 167 | Irene Arreguin |
-| 334 | 167 | Romeo |
+| 333 | 167 | Romeo |
+| 334 | 167 | Irene Arreguin |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
 | 337 | 165 | Kali Kelz Williams |
@@ -375,9 +375,9 @@
 | 367 | 151 | Sarah Cowan Burgos |
 | 368 | 149 | Alexis Taylor |
 | 369 | 148 | Pam Holt Powell |
-| 370 | 148 | Bryan Byrd |
-| 371 | 148 | Flashy Rumbler |
-| 372 | 148 | Erykah |
+| 370 | 148 | Erykah |
+| 371 | 148 | Bryan Byrd |
+| 372 | 148 | Flashy Rumbler |
 | 373 | 147 | Funky Jumper |
 | 374 | 147 | Kiki |
 | 375 | 147 | Erika Thornton |
@@ -568,7 +568,7 @@
 | 560 | 99 | Elyse Grabowsky |
 | 561 | 99 | Erin Ervin |
 | 562 | 99 | Alexis Ford |
-| 563 | 99 | Mindy Phelps |
+| 563 | 99 | Angie King |
 | 564 | 99 | Wancharlene Hercules |
 | 565 | 99 | Mindy Phelps |
 | 566 | 98 | Snazzy Filler |

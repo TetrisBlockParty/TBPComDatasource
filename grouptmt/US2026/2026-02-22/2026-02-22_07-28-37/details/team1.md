@@ -124,8 +124,8 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
 | 122 | 284 | Emily Adelaide Wheatley |
 | 123 | 284 | Rachael |
@@ -185,8 +185,8 @@
 | 177 | 204 | Lacy Wolfe |
 | 178 | 203 | LaFontaine Leslie |
 | 179 | 203 | Paula Martin |
-| 180 | 201 | Sam Williams |
-| 181 | 201 | Colleen Wise |
+| 180 | 201 | Colleen Wise |
+| 181 | 201 | Sam Williams |
 | 182 | 199 | Basment Living |
 | 183 | 198 | Shiny Gridmatch |
 | 184 | 198 | Happy Snapbuild |
@@ -295,8 +295,8 @@
 | 287 | 130 | Gilbert Ortiz Jr. |
 | 288 | 130 | Howdi Duty |
 | 289 | 129 | Sherri E Woods Hess |
-| 290 | 128 | Alyssa Ingram |
-| 291 | 128 | Chuck Gannon |
+| 290 | 128 | Chuck Gannon |
+| 291 | 128 | Alyssa Ingram |
 | 292 | 127 | Danielle Mae |
 | 293 | 126 | Zany Tiler |
 | 294 | 125 | Matt Iaccheo |

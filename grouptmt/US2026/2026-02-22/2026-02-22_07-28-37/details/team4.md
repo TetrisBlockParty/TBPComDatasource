@@ -104,8 +104,8 @@
 | 96 | 370 | Leslie Thomas |
 | 97 | 369 | Nope Young |
 | 98 | 358 | Nugget |
-| 99 | 352 | Zippy Gridlock |
-| 100 | 352 | Monica Daley |
+| 99 | 352 | Monica Daley |
+| 100 | 352 | Zippy Gridlock |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 331 | ThaEviLJeNiuZ |
@@ -153,9 +153,9 @@
 | 145 | 230 | Autum Leigh |
 | 146 | 230 | Cursed Hag |
 | 147 | 228 | J-Rizzle |
-| 148 | 227 | Chris Bernstein |
+| 148 | 227 | Swanky Fitline |
 | 149 | 227 | Alyssa Papen |
-| 150 | 227 | Swanky Fitline |
+| 150 | 227 | Chris Bernstein |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Kris Bartlett |
@@ -192,8 +192,8 @@
 | 184 | 192 | Shauna Havard |
 | 185 | 191 | Klo |
 | 186 | 190 | Cheery Risebuilder |
-| 187 | 189 | Calvin Dennis |
-| 188 | 189 | Stacey Stano |
+| 187 | 189 | Stacey Stano |
+| 188 | 189 | Calvin Dennis |
 | 189 | 188 | Andria Lynn |
 | 190 | 186 | Holly |
 | 191 | 185 | Lori |
@@ -211,8 +211,8 @@
 | 203 | 171 | Autumn Kumzi |
 | 204 | 167 | Cozy Balancer |
 | 205 | 166 | SammieJo Guy |
-| 206 | 165 | James Hurley Jr. |
-| 207 | 165 | Jackie Marie |
+| 206 | 165 | Jackie Marie |
+| 207 | 165 | James Hurley Jr. |
 | 208 | 164 | 030Synner |
 | 209 | 163 | Kristina Black |
 | 210 | 162 | Joanna |
@@ -230,8 +230,8 @@
 | 222 | 157 | KayM |
 | 223 | 156 | John Brunetti |
 | 224 | 155 | AyeKay |
-| 225 | 153 | Mr. Party |
-| 226 | 153 | Zany Shatterer |
+| 225 | 153 | Zany Shatterer |
+| 226 | 153 | Mr. Party |
 | 227 | 153 | Empress Oasis |
 | 228 | 152 | Faja |
 | 229 | 152 | Austin Owens |
@@ -299,9 +299,9 @@
 | 291 | 126 | PAPatty |
 | 292 | 125 | Lush Linkfall |
 | 293 | 125 | Daresha Fair |
-| 294 | 125 | Lush Linkfall |
-| 295 | 124 | Sam Middleton |
-| 296 | 124 | Atia Scott |
+| 294 | 125 | Steph Marie |
+| 295 | 124 | Atia Scott |
+| 296 | 124 | Sam Middleton |
 | 297 | 123 | Joseph Edmonson |
 | 298 | 121 | Jim Hart |
 | 299 | 121 | Joseph Pace |
@@ -327,8 +327,8 @@
 | 319 | 115 | Meg |
 | 320 | 115 | Berklie Apedaile |
 | 321 | 114 | Jason Frehner |
-| 322 | 113 | Dandy Cascadefit |
-| 323 | 113 | Stephanie Mico |
+| 322 | 113 | Stephanie Mico |
+| 323 | 113 | Adam Randall |
 | 324 | 113 | @ |
 | 325 | 113 | Lora |
 | 326 | 113 | Dandy Cascadefit |
@@ -401,9 +401,9 @@
 | 393 | 92 | bloat princess |
 | 394 | 92 | Krash |
 | 395 | 91 | Dennis Bradley |
-| 396 | 91 | Kametsunoyaiba |
-| 397 | 91 | Lee Silpe |
-| 398 | 91 | Sunny Filler |
+| 396 | 91 | Lee Silpe |
+| 397 | 91 | Sunny Filler |
+| 398 | 91 | Kametsunoyaiba |
 | 399 | 90 | Thomas Hettenhaus |
 | 400 | 90 | Abigail Murphy |
 | 401 | 90 | Carol Ricks Raymond |
@@ -436,7 +436,7 @@
 | 428 | 84 | Amy C Brown |
 | 429 | 84 | Jen Hallin |
 | 430 | 84 | mini |
-| 431 | 84 | Amy C Brown |
+| 431 | 84 | Beth Helms |
 | 432 | 83 | Lynn Marie |
 | 433 | 82 | Eric Wren |
 | 434 | 82 | Oleg Zakharskiy |
