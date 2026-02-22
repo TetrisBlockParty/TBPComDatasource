@@ -89,9 +89,9 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Goose egg |
-| 85 | 390 | Lori Bales |
-| 86 | 390 | Candy Jones |
+| 84 | 390 | Candy Jones |
+| 85 | 390 | Goose egg |
+| 86 | 390 | Lori Bales |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -123,8 +123,8 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -173,8 +173,8 @@
 | 165 | 229 | Chris K |
 | 166 | 229 | David Lutcher |
 | 167 | 227 | Erin Hodges Plumb |
-| 168 | 226 | Kandae |
-| 169 | 226 | Sleepysloath5745 |
+| 168 | 226 | Sleepysloath5745 |
+| 169 | 226 | Kandae |
 | 170 | 218 | LC |
 | 171 | 217 | Kimberly Garcia |
 | 172 | 217 | ParisandCory Champagne |

@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -133,8 +133,8 @@
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | shark tato |
-| 129 | 286 | Daria Rycewicz |
+| 128 | 286 | Daria Rycewicz |
+| 129 | 286 | shark tato |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 228 | Joeliecea Cobb |
 | 159 | 227 | Swanky Fitline |
@@ -219,8 +219,8 @@
 | 211 | 179 | blockstar |
 | 212 | 179 | TinyLegoRose |
 | 213 | 175 | Lorena Guerrero-Barron |
-| 214 | 174 | JPW |
-| 215 | 174 | Rio Rocha |
+| 214 | 174 | Rio Rocha |
+| 215 | 174 | JPW |
 | 216 | 172 | Gilles Lanctot |
 | 217 | 171 | Autumn Kumzi |
 | 218 | 169 | Laura Hosford |
@@ -262,8 +262,8 @@
 | 254 | 147 | Jay28 |
 | 255 | 147 | B Renee Desjardin |
 | 256 | 147 | Jared Gutwein |
-| 257 | 145 | Mimi |
-| 258 | 145 | Sandra Safford |
+| 257 | 145 | Sandra Safford |
+| 258 | 145 | Mimi |
 | 259 | 144 | Sticherella |
 | 260 | 143 | Dennis Bradley |
 | 261 | 143 | Asher |
