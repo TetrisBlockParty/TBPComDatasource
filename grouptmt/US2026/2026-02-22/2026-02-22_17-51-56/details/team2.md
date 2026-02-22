@@ -212,8 +212,8 @@
 | 204 | 1002 | Foxxo |
 | 205 | 998 | Tralonda Weeks |
 | 206 | 991 | Moose Griffith |
-| 207 | 989 | Desiree Harris Rosch |
-| 208 | 989 | Teddi Notyalc |
+| 207 | 989 | Teddi Notyalc |
+| 208 | 989 | Desiree Harris Rosch |
 | 209 | 988 | Cherica Taylor |
 | 210 | 986 | RAEPR05 |
 | 211 | 979 | Hillary Crawford |
@@ -554,8 +554,8 @@
 | 546 | 463 | Cody Nishimura |
 | 547 | 463 | Jaye EL Hunter |
 | 548 | 463 | Mia Muse Best |
-| 549 | 462 | Amanda Ferrell |
-| 550 | 462 | Daphne Jordan |
+| 549 | 462 | Daphne Jordan |
+| 550 | 462 | Amanda Ferrell |
 | 551 | 462 | Jennifer Scott |
 | 552 | 460 | Tara Lynn Janes |
 | 553 | 460 | LaWanda Powell |
@@ -705,8 +705,8 @@
 | 697 | 368 | Anthony D Gritz Jr |
 | 698 | 368 | Veronics |
 | 699 | 368 | Susan Arnburg |
-| 700 | 367 | Michelle Sager |
-| 701 | 367 | Connie Lepore-Mann |
+| 700 | 367 | Connie Lepore-Mann |
+| 701 | 367 | Michelle Sager |
 | 702 | 367 | Rose Fx |
 | 703 | 366 | Tash Bell |
 | 704 | 366 | Loony Basepiece |
@@ -1043,7 +1043,7 @@
 | 1035 | 258 | Monarca26 |
 | 1036 | 258 | Kristen Casale Berry |
 | 1037 | 258 | Tee Jaleesa |
-| 1038 | 257 | calcap |
+| 1038 | 257 | Ys Muhammed |
 | 1039 | 257 | Jackie Jackie Lee |
 | 1040 | 257 | calcap |
 | 1041 | 256 | Gursharan Sandhu |

@@ -18,8 +18,8 @@
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
 | 12 | 1564 | Alicia Bass |
-| 13 | 1447 | Juggalo |
-| 14 | 1447 | GreenJeepGirl |
+| 13 | 1447 | GreenJeepGirl |
+| 14 | 1447 | Juggalo |
 | 15 | 1318 | Cassie Michaux |
 | 16 | 1292 | Roger Coulter |
 | 17 | 1237 | Tammi Crnza |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 550 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -196,8 +196,8 @@
 | 188 | 247 | Sam Bishop |
 | 189 | 247 | Dennis Bradley |
 | 190 | 245 | Autum Leigh |
-| 191 | 245 | Andria Lynn |
-| 192 | 245 | Peachy Fall |
+| 191 | 245 | Peachy Fall |
+| 192 | 245 | Andria Lynn |
 | 193 | 244 | Twisty Cascadezone |
 | 194 | 243 | Mr. Party |
 | 195 | 242 | Jose Dejesus |
@@ -352,16 +352,16 @@
 | 344 | 141 | Jumpy Zonepiece |
 | 345 | 140 | Rico |
 | 346 | 140 | Joshua W. Benton |
-| 347 | 139 | O block |
-| 348 | 139 | Ann G. Carrillo |
-| 349 | 139 | Lori Goudy |
+| 347 | 139 | Lori Goudy |
+| 348 | 139 | O block |
+| 349 | 139 | Ann G. Carrillo |
 | 350 | 138 | Ashlee Carnes |
-| 351 | 138 | Jasmine S Caldwell |
-| 352 | 138 | Moonsterix |
-| 353 | 137 | Carlos Hernandez |
-| 354 | 137 | Brianna Walker |
-| 355 | 137 | PeaceOs |
-| 356 | 137 | Red |
+| 351 | 138 | Moonsterix |
+| 352 | 138 | Jasmine S Caldwell |
+| 353 | 137 | Brianna Walker |
+| 354 | 137 | Carlos Hernandez |
+| 355 | 137 | Red |
+| 356 | 137 | PeaceOs |
 | 357 | 136 | Michelle Morris |
 | 358 | 135 | Joshua Guess |
 | 359 | 134 | Duck |

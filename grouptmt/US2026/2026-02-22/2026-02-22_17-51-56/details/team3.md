@@ -127,8 +127,8 @@
 | 119 | 579 | Jd Morris |
 | 120 | 574 | Morgan Martinez |
 | 121 | 568 | Rachael McClain Owens |
-| 122 | 562 | Louise Stacy Sisson |
-| 123 | 562 | Dave Herzog |
+| 122 | 562 | Dave Herzog |
+| 123 | 562 | Louise Stacy Sisson |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -318,15 +318,15 @@
 | 310 | 227 | Rebel124 |
 | 311 | 227 | Meowsa |
 | 312 | 226 | Jana Polk |
-| 313 | 225 | Steffi Chris Dacones |
-| 314 | 225 | Stephanie Hill |
+| 313 | 225 | Stephanie Hill |
+| 314 | 225 | Steffi Chris Dacones |
 | 315 | 225 | Dirtgirl27 |
 | 316 | 223 | Michael Lucado |
 | 317 | 223 | Kaycee Kay |
 | 318 | 223 | Jennifer Alvey |
 | 319 | 222 | Aerian Preston |
-| 320 | 221 | kacihall |
-| 321 | 221 | Bleu Sun Beams |
+| 320 | 221 | Bleu Sun Beams |
+| 321 | 221 | kacihall |
 | 322 | 221 | Alice |
 | 323 | 221 | Vaners |
 | 324 | 221 | Desiree Gold |
@@ -359,8 +359,8 @@
 | 351 | 209 | TotoCherue |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | angieelyn |
-| 355 | 207 | Kristian Thurman |
+| 354 | 207 | Kristian Thurman |
+| 355 | 207 | angieelyn |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
@@ -423,8 +423,8 @@
 | 415 | 173 | MizzMonick Smith |
 | 416 | 172 | Jl |
 | 417 | 170 | Sarah Whalen |
-| 418 | 170 | Melissa Snyder |
-| 419 | 170 | Bouncy Blockbuilder |
+| 418 | 170 | Bouncy Blockbuilder |
+| 419 | 170 | Melissa Snyder |
 | 420 | 169 | Peachy Rollfit |
 | 421 | 169 | Blair Erin Waite |
 | 422 | 169 | Stella |
