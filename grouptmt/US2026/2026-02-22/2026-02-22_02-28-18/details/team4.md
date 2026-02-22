@@ -155,9 +155,9 @@
 | 147 | 194 | Zany Twisterfit |
 | 148 | 192 | Shauna Havard |
 | 149 | 190 | Justin Hannigan |
-| 150 | 189 | Calvin Dennis |
-| 151 | 189 | Chilly Crasher |
-| 152 | 189 | Stacey Stano |
+| 150 | 189 | Chilly Crasher |
+| 151 | 189 | Stacey Stano |
+| 152 | 189 | Calvin Dennis |
 | 153 | 188 | Andria Lynn |
 | 154 | 187 | TheNeesh50 |
 | 155 | 186 | Holly |
@@ -259,7 +259,7 @@
 | 251 | 120 | Rafael Valentin |
 | 252 | 119 | rebel4lyfe |
 | 253 | 119 | Gwendolyn Pitcairn |
-| 254 | 119 | rebel4lyfe |
+| 254 | 119 | Circuit8 |
 | 255 | 118 | Porkobello |
 | 256 | 117 | BigSammy420 |
 | 257 | 116 | Maureen Flanigan |

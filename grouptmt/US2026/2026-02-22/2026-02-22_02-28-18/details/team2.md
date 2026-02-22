@@ -133,8 +133,8 @@
 | 125 | 1051 | Shandrica Lowe |
 | 126 | 1048 | PsychKIRAtrist |
 | 127 | 1047 | Amy Sayers |
-| 128 | 1043 | Suki Kaur |
-| 129 | 1043 | Brave Dropmatch |
+| 128 | 1043 | Brave Dropmatch |
+| 129 | 1043 | Suki Kaur |
 | 130 | 1032 | Sarah Freitas |
 | 131 | 1020 | Heather Westrum |
 | 132 | 1018 | LordZophar |
@@ -165,8 +165,8 @@
 | 157 | 886 | Murrae Lynn Rebarchek |
 | 158 | 881 | Tanya Parsons |
 | 159 | 877 | Stacy Stickle |
-| 160 | 867 | Michele Gabriel |
-| 161 | 867 | Rosa Franklin |
+| 160 | 867 | Rosa Franklin |
+| 161 | 867 | Michele Gabriel |
 | 162 | 865 | Dedra Steward |
 | 163 | 861 | Jennifer Peachey |
 | 164 | 859 | Nickole Andrews |
@@ -401,10 +401,10 @@
 | 393 | 421 | Vanessa Moreno |
 | 394 | 421 | Vonceial Boone |
 | 395 | 420 | Brenna Ann |
-| 396 | 414 | Emily Lyric Converse |
-| 397 | 414 | John |
-| 398 | 414 | Sabrina Burton |
-| 399 | 414 | Kara Gillen |
+| 396 | 414 | John |
+| 397 | 414 | Emily Lyric Converse |
+| 398 | 414 | Kara Gillen |
+| 399 | 414 | Sabrina Burton |
 | 400 | 413 | Lauren Fitzgerald Thomas |
 | 401 | 412 | Véronique Lévesque Sabourin |
 | 402 | 411 | Ricky Fortune |

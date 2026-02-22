@@ -149,8 +149,8 @@
 | 141 | 348 | CeceGeGe |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 325 | Fallorina Susana |
@@ -201,8 +201,8 @@
 | 193 | 246 | Peppy Shifter |
 | 194 | 245 | Latoya Mayne |
 | 195 | 241 | Eon Harris |
-| 196 | 240 | Jimmie Clemons |
-| 197 | 240 | Brandon Givens |
+| 196 | 240 | Brandon Givens |
+| 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
 | 199 | 237 | Rania Zaqout |
 | 200 | 236 | Jess Bissett |

@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -90,8 +90,8 @@
 | 82 | 328 | Gracie |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Deanna L Hermanson |
-| 86 | 319 | Shauna Loe |
+| 85 | 319 | Shauna Loe |
+| 86 | 319 | Deanna L Hermanson |
 | 87 | 313 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 308 | Monica Donato |
@@ -247,8 +247,8 @@
 | 239 | 128 | Alyssa Ingram |
 | 240 | 126 | Tami Luce Martin |
 | 241 | 125 | Melissa Bires Hussar |
-| 242 | 124 | Rodney Schmerfeld |
-| 243 | 124 | Alenoush Karimian |
+| 242 | 124 | Alenoush Karimian |
+| 243 | 124 | Rodney Schmerfeld |
 | 244 | 123 | Zany Tiler |
 | 245 | 122 | Nate Funk |
 | 246 | 121 | Carl Claunch |
