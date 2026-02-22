@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Samantha Peterson |
-| 78 | 447 | Erin Thomas |
+| 77 | 447 | Erin Thomas |
+| 78 | 447 | Samantha Peterson |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -131,15 +131,15 @@
 | 123 | 283 | Brittney Orengo |
 | 124 | 282 | Amelpss |
 | 125 | 281 | Meagan Nicole |
-| 126 | 278 | Desi Desporte |
-| 127 | 278 | Carrie Brian |
+| 126 | 278 | Carrie Brian |
+| 127 | 278 | Desi Desporte |
 | 128 | 277 | Scott Jameson |
 | 129 | 277 | Mary Ann Pabukis |
 | 130 | 275 | Dizzy Tiley |
 | 131 | 271 | Sarah Brown |
 | 132 | 264 | Girl |
-| 133 | 264 | Dana Scott |
-| 134 | 264 | Epic Curvetile |
+| 133 | 264 | Epic Curvetile |
+| 134 | 264 | Dana Scott |
 | 135 | 262 | Holly Jolly |
 | 136 | 256 | Mylo Lipscomb |
 | 137 | 256 | Jolly Dashfit |
@@ -154,8 +154,8 @@
 | 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Swanky Fitline |
-| 149 | 227 | Alyssa Papen |
-| 150 | 227 | Chris Bernstein |
+| 149 | 227 | Chris Bernstein |
+| 150 | 227 | Alyssa Papen |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Antony Dwayne Beasley |
@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Chance Strickland |
-| 175 | 201 | Melvin Baird |
+| 174 | 201 | Melvin Baird |
+| 175 | 201 | Chance Strickland |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Zethra Prenisha Rahming |
 | 178 | 196 | Oscar Alberto Perez |
@@ -243,8 +243,8 @@
 | 235 | 147 | Jared Gutwein |
 | 236 | 147 | B Renee Desjardin |
 | 237 | 146 | Ultramarine |
-| 238 | 145 | Mimi |
-| 239 | 145 | Sandra Safford |
+| 238 | 145 | Sandra Safford |
+| 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
 | 241 | 143 | Zesty Twistbuilder |
 | 242 | 143 | Lauren Lamb |
@@ -270,8 +270,8 @@
 | 262 | 136 | Maureen Flanigan |
 | 263 | 135 | Joshua Guess |
 | 264 | 134 | Kim Klutz Olson |
-| 265 | 134 | Duck |
-| 266 | 134 | Angelito |
+| 265 | 134 | Angelito |
+| 266 | 134 | Duck |
 | 267 | 133 | KimoKoala |
 | 268 | 132 | Vamp |
 | 269 | 132 | Jessica Cagle |
@@ -328,9 +328,9 @@
 | 320 | 115 | Meg |
 | 321 | 114 | Jason Frehner |
 | 322 | 113 | Stephanie Mico |
-| 323 | 113 | Adam Randall |
-| 324 | 113 | @ |
-| 325 | 113 | Dandy Cascadefit |
+| 323 | 113 | @ |
+| 324 | 113 | Dandy Cascadefit |
+| 325 | 113 | Adam Randall |
 | 326 | 112 | Chris Alexinas |
 | 327 | 111 | Cheryl Johnson |
 | 328 | 111 | Lazy Blocker |

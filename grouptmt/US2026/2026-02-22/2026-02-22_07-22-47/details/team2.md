@@ -163,8 +163,8 @@
 | 155 | 1048 | PsychKIRAtrist |
 | 156 | 1047 | Amy Sayers |
 | 157 | 1045 | Lourisha |
-| 158 | 1043 | Suki Kaur |
-| 159 | 1043 | Brave Dropmatch |
+| 158 | 1043 | Brave Dropmatch |
+| 159 | 1043 | Suki Kaur |
 | 160 | 1035 | Sarah Freitas |
 | 161 | 1026 | Heather Westrum |
 | 162 | 1023 | Brainy Smurf |
@@ -413,8 +413,8 @@
 | 405 | 489 | Cassie Mercer |
 | 406 | 489 | Osun Anuket Esu |
 | 407 | 488 | Venita Ray |
-| 408 | 487 | Maya June |
-| 409 | 487 | MrsCandyfine As Wine Truss |
+| 408 | 487 | MrsCandyfine As Wine Truss |
+| 409 | 487 | Maya June |
 | 410 | 486 | Caitlin Schmid |
 | 411 | 485 | Ann Matzkanin |
 | 412 | 485 | Dapper Dasher |
@@ -557,8 +557,8 @@
 | 549 | 386 | Tara Lynn Janes |
 | 550 | 385 | Tansaria Couch-Butler |
 | 551 | 384 | Christina Ashley |
-| 552 | 384 | Kelly |
-| 553 | 384 | Party d |
+| 552 | 384 | Party d |
+| 553 | 384 | Kelly |
 | 554 | 383 | Belle Mari |
 | 555 | 382 | KhaosLord |
 | 556 | 382 | David Holliday |
@@ -646,8 +646,8 @@
 | 638 | 337 | Sassy Pattern |
 | 639 | 337 | Tum |
 | 640 | 337 | Savannah Alexander |
-| 641 | 336 | Austin Wilson |
-| 642 | 336 | bru |
+| 641 | 336 | bru |
+| 642 | 336 | Austin Wilson |
 | 643 | 336 | Swanky Columnbuilder |
 | 644 | 335 | Brooke Leigh Strube |
 | 645 | 334 | Melissa James |
@@ -682,8 +682,8 @@
 | 674 | 321 | Samantha Scibelli |
 | 675 | 320 | Mary Boss |
 | 676 | 318 | Jennifer Mahon |
-| 677 | 317 | Ashlyn Berner |
-| 678 | 317 | Zombi3 |
+| 677 | 317 | Zombi3 |
+| 678 | 317 | Ashlyn Berner |
 | 679 | 317 | Aireka Roman |
 | 680 | 316 | Jenn Marie |
 | 681 | 316 | Epic Spinfit |
@@ -764,14 +764,14 @@
 | 756 | 282 | Nutty Slice |
 | 757 | 281 | Anthony |
 | 758 | 280 | Belle |
-| 759 | 280 | Danielle DeLozier Plesec |
-| 760 | 280 | Reece Smith |
+| 759 | 280 | Reece Smith |
+| 760 | 280 | Danielle DeLozier Plesec |
 | 761 | 279 | Loony Basepiece |
 | 762 | 278 | AndrewandShela Gornik |
-| 763 | 277 | Anthony Mignacca |
-| 764 | 277 | Amanda Chamberlain |
-| 765 | 276 | Ryan Lauer |
-| 766 | 276 | Josh Webster |
+| 763 | 277 | Amanda Chamberlain |
+| 764 | 277 | Anthony Mignacca |
+| 765 | 276 | Josh Webster |
+| 766 | 276 | Ryan Lauer |
 | 767 | 276 | Patrick Bartlett |
 | 768 | 276 | Lindsey Leigh |
 | 769 | 275 | Alishac Marie |
@@ -795,9 +795,9 @@
 | 787 | 270 | Nat |
 | 788 | 269 | Dandy Combo |
 | 789 | 269 | Jennifer Leigh |
-| 790 | 267 | Denisse Avilez |
-| 791 | 267 | Candace Cece Joseph |
-| 792 | 267 | Luke Califf |
+| 790 | 267 | Luke Califf |
+| 791 | 267 | Denisse Avilez |
+| 792 | 267 | Candace Cece Joseph |
 | 793 | 267 | Dad |
 | 794 | 266 | Man of Steel |
 | 795 | 266 | Jamie Dayton |

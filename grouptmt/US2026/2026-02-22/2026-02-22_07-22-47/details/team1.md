@@ -201,8 +201,8 @@
 | 193 | 191 | Debbie Davis |
 | 194 | 190 | Sweetts |
 | 195 | 190 | Thorne Shumate |
-| 196 | 189 | Veronica Eve |
-| 197 | 189 | Jeanna Dunn |
+| 196 | 189 | Jeanna Dunn |
+| 197 | 189 | Veronica Eve |
 | 198 | 187 | Amanda Johnson Huffman |
 | 199 | 187 | Cool Towerzone |
 | 200 | 186 | Erin Hodges Plumb |

@@ -628,7 +628,7 @@
 | 620 | 89 | Kristen McAlpine |
 | 621 | 89 | Jessica Lynn French |
 | 622 | 89 | Matty Ray |
-| 623 | 89 | Jessica Lynn French |
+| 623 | 89 | Billie Jean Cooper |
 | 624 | 89 | Frothy Racker |
 | 625 | 88 | Amy Montz |
 | 626 | 88 | Dapper Dashpiece |
