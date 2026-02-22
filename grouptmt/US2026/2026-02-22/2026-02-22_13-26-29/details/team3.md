@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -154,8 +154,8 @@
 | 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
 | 148 | 427 | Wendy Dearden |
-| 149 | 427 | Logan Naccarato |
-| 150 | 427 | Tasha Gillespie |
+| 149 | 427 | Tasha Gillespie |
+| 150 | 427 | Logan Naccarato |
 | 151 | 415 | ren |
 | 152 | 413 | Rachel |
 | 153 | 411 | FuzzyNavel |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 265 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Nikki Pags |
 | 250 | 260 | Grams |
@@ -327,8 +327,8 @@
 | 319 | 200 | glichmod |
 | 320 | 200 | Colleen Phelps |
 | 321 | 200 | Saucy Buildout |
-| 322 | 199 | Mariah Williams |
-| 323 | 199 | Christian Werndl |
+| 322 | 199 | Christian Werndl |
+| 323 | 199 | Mariah Williams |
 | 324 | 199 | Kristian Thurman |
 | 325 | 198 | Goofy Fall |
 | 326 | 195 | Nicha Hooker |

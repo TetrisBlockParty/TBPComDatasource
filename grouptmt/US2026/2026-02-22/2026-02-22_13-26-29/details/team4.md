@@ -164,16 +164,16 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Leah Kutz Zirbel |
-| 160 | 249 | Chris Bernstein |
+| 159 | 249 | Chris Bernstein |
+| 160 | 249 | Leah Kutz Zirbel |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | J-Rizzle |
 | 163 | 244 | Twisty Cascadezone |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Autum Leigh |
-| 168 | 230 | Cursed Hag |
+| 167 | 230 | Cursed Hag |
+| 168 | 230 | Autum Leigh |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
@@ -440,8 +440,8 @@
 | 432 | 97 | Cool Gridzone |
 | 433 | 97 | Brandon Crabbs |
 | 434 | 96 | Rebecca Blake |
-| 435 | 95 | Jobadia Steelerton |
-| 436 | 95 | Susan Williams |
+| 435 | 95 | Susan Williams |
+| 436 | 95 | Jobadia Steelerton |
 | 437 | 95 | Chirpy Slammer |
 | 438 | 95 | RedBoots82 |
 | 439 | 94 | Adawna Swires |
@@ -531,7 +531,7 @@
 | 523 | 77 | Neil Ingham |
 | 524 | 76 | GTxIrishman |
 | 525 | 76 | Kelly Duncan |
-| 526 | 76 | GTxIrishman |
+| 526 | 76 | Dapper Balancer |
 | 527 | 76 | Albert Walker III |
 | 528 | 75 | Jacob Campbell |
 | 529 | 75 | Amy Sanford |

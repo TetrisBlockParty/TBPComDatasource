@@ -116,8 +116,8 @@
 | 108 | 344 | Bhelle Sumile |
 | 109 | 342 | Brenda Stewart |
 | 110 | 341 | Nick R Montague |
-| 111 | 333 | Brandi Huntington |
-| 112 | 333 | Gracie |
+| 111 | 333 | Gracie |
+| 112 | 333 | Brandi Huntington |
 | 113 | 332 | Kristen Gideon |
 | 114 | 330 | Sweet Baker |
 | 115 | 326 | Monica Donato |
@@ -272,11 +272,11 @@
 | 264 | 167 | Cranky Pattern |
 | 265 | 167 | Nery Martinez |
 | 266 | 166 | Carrie Smith |
-| 267 | 165 | Silly Align |
-| 268 | 165 | Nadine Velardo |
-| 269 | 163 | Davery Spencer Adair |
+| 267 | 165 | Nadine Velardo |
+| 268 | 165 | Silly Align |
+| 269 | 163 | Blaire Bruckoff |
 | 270 | 163 | Tyler Whitley |
-| 271 | 163 | Blaire Bruckoff |
+| 271 | 163 | Davery Spencer Adair |
 | 272 | 161 | SavageBooty98 |
 | 273 | 160 | Tedashi |
 | 274 | 159 | Amber Dee |
@@ -353,7 +353,7 @@
 | 345 | 123 | Jumpy Rotate |
 | 346 | 123 | Tonya Beasley |
 | 347 | 122 | Nate Funk |
-| 348 | 121 | .running. |
+| 348 | 121 | John Ramirez |
 | 349 | 121 | Jacob Shaddock |
 | 350 | 121 | .running. |
 | 351 | 121 | Teri Oehlke |
