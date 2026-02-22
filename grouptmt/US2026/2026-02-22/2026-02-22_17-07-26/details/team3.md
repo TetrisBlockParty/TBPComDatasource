@@ -124,8 +124,8 @@
 | 116 | 574 | Morgan Martinez |
 | 117 | 568 | Rachael McClain Owens |
 | 118 | 566 | Dolores Falco |
-| 119 | 562 | Louise Stacy Sisson |
-| 120 | 562 | Dave Herzog |
+| 119 | 562 | Dave Herzog |
+| 120 | 562 | Louise Stacy Sisson |
 | 121 | 554 | joclisa |
 | 122 | 550 | Nicole Myers |
 | 123 | 540 | Domo Washington |

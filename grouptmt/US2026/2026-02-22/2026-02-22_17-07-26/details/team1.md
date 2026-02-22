@@ -142,8 +142,8 @@
 | 134 | 318 | Jessica Sheehan |
 | 135 | 316 | Dizzy Party |
 | 136 | 313 | Virginia Gray Floyd |
-| 137 | 308 | Sharon Reynolds |
-| 138 | 308 | Erin Hodges Plumb |
+| 137 | 308 | Erin Hodges Plumb |
+| 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
 | 140 | 306 | Bloknboy |
 | 141 | 306 | Happy Basegrid |
@@ -182,8 +182,8 @@
 | 174 | 264 | Jenny Gingrich Fuentes |
 | 175 | 261 | Witty Builderfit |
 | 176 | 258 | Billie Dawn Sparks |
-| 177 | 254 | Al Smith Jr |
-| 178 | 254 | Letson Melissa |
+| 177 | 254 | Letson Melissa |
+| 178 | 254 | Al Smith Jr |
 | 179 | 253 | Jamie Jury |
 | 180 | 252 | Dena Kayy |
 | 181 | 251 | Giggly Builderline |
@@ -394,10 +394,10 @@
 | 386 | 128 | George Dalton |
 | 387 | 127 | Danielle Mae |
 | 388 | 127 | Frisky Risebuilder |
-| 389 | 127 | Danielle Mae |
-| 390 | 126 | Divaaa |
-| 391 | 126 | Zany Tiler |
-| 392 | 126 | Shiny Rotate |
+| 389 | 127 | Steph |
+| 390 | 126 | Zany Tiler |
+| 391 | 126 | Shiny Rotate |
+| 392 | 126 | Divaaa |
 | 393 | 125 | Angela Spann |
 | 394 | 124 | Dandy Towerbuilder |
 | 395 | 123 | Joe Coon |

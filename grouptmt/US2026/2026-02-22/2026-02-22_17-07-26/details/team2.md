@@ -451,8 +451,8 @@
 | 443 | 540 | Dizzy Zone |
 | 444 | 536 | Caitlin Schmid |
 | 445 | 533 | Gauri Shrotriya |
-| 446 | 531 | Briana Alexander |
-| 447 | 531 | Aishah Brice |
+| 446 | 531 | Aishah Brice |
+| 447 | 531 | Briana Alexander |
 | 448 | 529 | Ben Barkley |
 | 449 | 528 | Anita Rose Green |
 | 450 | 527 | Ryan Gunther |
@@ -659,9 +659,9 @@
 | 651 | 387 | Bold Brickster |
 | 652 | 385 | Tansaria Couch-Butler |
 | 653 | 384 | Mary Marie |
-| 654 | 384 | Kelly |
+| 654 | 384 | Party d |
 | 655 | 384 | Heather Johnson |
-| 656 | 384 | Party d |
+| 656 | 384 | Kelly |
 | 657 | 384 | Lawanda Forbes |
 | 658 | 382 | Amber Gray |
 | 659 | 382 | James Zaragoza |
@@ -701,8 +701,8 @@
 | 693 | 363 | Kia Humphery |
 | 694 | 363 | Stephanie Fortune |
 | 695 | 363 | Veronica Stevenson |
-| 696 | 362 | Janai Vrabel |
-| 697 | 362 | Snappy Matchbuilder |
+| 696 | 362 | Snappy Matchbuilder |
+| 697 | 362 | Janai Vrabel |
 | 698 | 361 | Michelle Shrum |
 | 699 | 360 | Kacee Conrad Bock |
 | 700 | 360 | Jroc |
@@ -859,8 +859,8 @@
 | 851 | 297 | Dad |
 | 852 | 297 | Deana |
 | 853 | 297 | Ashley Robbins |
-| 854 | 296 | Jennifer Darby |
-| 855 | 296 | Sveta Lana |
+| 854 | 296 | Sveta Lana |
+| 855 | 296 | Jennifer Darby |
 | 856 | 296 | Dandy Combo |
 | 857 | 295 | Devlin Ogg |
 | 858 | 295 | Mama T |
@@ -916,11 +916,11 @@
 | 908 | 279 | Katherin Camacho |
 | 909 | 279 | Synn |
 | 910 | 279 | FloJo |
-| 911 | 278 | Squirrel |
-| 912 | 278 | Amanda Segura |
+| 911 | 278 | Amanda Segura |
+| 912 | 278 | Squirrel |
 | 913 | 278 | AndrewandShela Gornik |
-| 914 | 277 | Brianna Cerney |
-| 915 | 277 | Anthony Mignacca |
+| 914 | 277 | Anthony Mignacca |
+| 915 | 277 | Brianna Cerney |
 | 916 | 277 | Abby Klaski |
 | 917 | 277 | Patti Rone |
 | 918 | 277 | Beverly Hodge |

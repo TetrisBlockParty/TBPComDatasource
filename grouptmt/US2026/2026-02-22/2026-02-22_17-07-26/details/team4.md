@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -133,8 +133,8 @@
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
 | 127 | 338 | Lucas J Sutton |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -169,8 +169,8 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Cursed Hag |
-| 165 | 268 | Trista Leah |
+| 164 | 268 | Trista Leah |
+| 165 | 268 | Cursed Hag |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Damn Libra |
 | 168 | 267 | Casey Grabner |
