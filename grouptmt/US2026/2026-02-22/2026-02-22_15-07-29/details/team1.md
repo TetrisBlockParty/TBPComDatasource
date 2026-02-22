@@ -148,8 +148,8 @@
 | 140 | 290 | Death |
 | 141 | 288 | GATOR |
 | 142 | 285 | Ananda Mendez |
-| 143 | 284 | Emily Adelaide Wheatley |
-| 144 | 284 | Rachael |
+| 143 | 284 | Rachael |
+| 144 | 284 | Emily Adelaide Wheatley |
 | 145 | 283 | Franswa |
 | 146 | 282 | Snippy Wipebuilder |
 | 147 | 282 | Tyler Werts |
@@ -159,8 +159,8 @@
 | 151 | 276 | Dandy Basegrid |
 | 152 | 273 | Sassy Builderline |
 | 153 | 272 | Tana |
-| 154 | 270 | Ash Galvan |
-| 155 | 270 | Mandyy Rae |
+| 154 | 270 | Mandyy Rae |
+| 155 | 270 | Ash Galvan |
 | 156 | 268 | Jessi Sauer |
 | 157 | 266 | Amanda Jarnagin |
 | 158 | 265 | Nutty Spinblock |
@@ -182,8 +182,8 @@
 | 174 | 242 | ALFD |
 | 175 | 241 | John J. Cronin |
 | 176 | 239 | Sam Williams |
-| 177 | 237 | LaFontaine Leslie |
-| 178 | 237 | Kimberly Garcia |
+| 177 | 237 | Kimberly Garcia |
+| 178 | 237 | LaFontaine Leslie |
 | 179 | 236 | femmefatale |
 | 180 | 235 | MRdot Rooski |
 | 181 | 235 | Desiree Deschaine Havee |
@@ -204,8 +204,8 @@
 | 196 | 218 | LC |
 | 197 | 216 | Shauntina Burke |
 | 198 | 215 | Shaykmia |
-| 199 | 210 | Giggly Builderline |
-| 200 | 210 | Letson Melissa |
+| 199 | 210 | Letson Melissa |
+| 200 | 210 | Giggly Builderline |
 | 201 | 209 | Cece Ibarra |
 | 202 | 208 | Michael |
 | 203 | 208 | Bouncy Grid |
@@ -275,14 +275,14 @@
 | 267 | 176 | Mel Hogan |
 | 268 | 175 | John Barron |
 | 269 | 175 | Kellie Tunstall |
-| 270 | 174 | Cheeky Pop |
-| 271 | 174 | Alex Gauthier |
+| 270 | 174 | Alex Gauthier |
+| 271 | 174 | Cheeky Pop |
 | 272 | 173 | Cranky Pattern |
 | 273 | 173 | Rico Rico |
 | 274 | 171 | Greg Premoe |
-| 275 | 170 | Spunky Builderpiece |
-| 276 | 170 | Jason Savage |
-| 277 | 170 | Tina Englert |
+| 275 | 170 | Tina Englert |
+| 276 | 170 | Spunky Builderpiece |
+| 277 | 170 | Jason Savage |
 | 278 | 169 | Abbey Crespo |
 | 279 | 168 | Angela Fairbank |
 | 280 | 167 | Shannon Marie Pitts |

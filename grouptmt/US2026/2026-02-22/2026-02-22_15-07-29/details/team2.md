@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | John Bednarik |
-| 239 | 860 | April Dawn Gussler |
+| 238 | 860 | April Dawn Gussler |
+| 239 | 860 | John Bednarik |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Maria Escobar |
@@ -377,8 +377,8 @@
 | 369 | 606 | Brittney Jean |
 | 370 | 603 | Cassie Maynard |
 | 371 | 602 | KhaosLord |
-| 372 | 602 | Christine Bollig |
-| 373 | 602 | Biggest thing |
+| 372 | 602 | Biggest thing |
+| 373 | 602 | Christine Bollig |
 | 374 | 601 | Vonceial Boone |
 | 375 | 597 | Steven Marshaun |
 | 376 | 591 | AgileDragon |
@@ -687,8 +687,8 @@
 | 679 | 357 | Tristan Szolek |
 | 680 | 356 | Kelsey Sullivan |
 | 681 | 355 | Mike73 |
-| 682 | 354 | Rachel Kaminski |
-| 683 | 354 | Rickey Johnson |
+| 682 | 354 | Rickey Johnson |
+| 683 | 354 | Rachel Kaminski |
 | 684 | 352 | Rose Fx |
 | 685 | 352 | Jean FU Jagielski |
 | 686 | 352 | Savannah Alexander |
@@ -706,8 +706,8 @@
 | 698 | 345 | Gina Caulder |
 | 699 | 345 | Rhianna DiLorenzo |
 | 700 | 344 | Glenn Cobbins |
-| 701 | 343 | Janitta Alvarez |
-| 702 | 343 | Cris cris |
+| 701 | 343 | Cris cris |
+| 702 | 343 | Janitta Alvarez |
 | 703 | 342 | Quirky Twistline |
 | 704 | 342 | Danielle DeLozier Plesec |
 | 705 | 341 | Shorty |
@@ -723,8 +723,8 @@
 | 715 | 335 | Alexandrea |
 | 716 | 335 | Maria Louise |
 | 717 | 334 | Melissa James |
-| 718 | 333 | Adrian Benitez |
-| 719 | 333 | Woodys Glass |
+| 718 | 333 | Woodys Glass |
+| 719 | 333 | Adrian Benitez |
 | 720 | 333 | trabuco |
 | 721 | 332 | Tosa Puvapiromquan |
 | 722 | 331 | Johanna Massaro |
@@ -742,8 +742,8 @@
 | 734 | 326 | Ann Knutson Anderson |
 | 735 | 325 | Justin Hines |
 | 736 | 324 | Britney M. |
-| 737 | 324 | Dale Haanpaa |
-| 738 | 324 | Tasia Stinson |
+| 737 | 324 | Tasia Stinson |
+| 738 | 324 | Dale Haanpaa |
 | 739 | 323 | stacey |
 | 740 | 323 | Briana Alexander |
 | 741 | 322 | Luke Califf |
@@ -751,10 +751,10 @@
 | 743 | 322 | Robin L. Vial |
 | 744 | 322 | Michelle Pike |
 | 745 | 322 | Christina Jarvis-Swarbrick |
-| 746 | 321 | Tamara Bailey |
-| 747 | 321 | Ashley Criner |
-| 748 | 320 | Tash Bell |
-| 749 | 320 | Peachy Blockbuilder |
+| 746 | 321 | Ashley Criner |
+| 747 | 321 | Tamara Bailey |
+| 748 | 320 | Peachy Blockbuilder |
+| 749 | 320 | Tash Bell |
 | 750 | 320 | Mary Boss |
 | 751 | 319 | Cheery Puzzler |
 | 752 | 319 | RetroLemur |
