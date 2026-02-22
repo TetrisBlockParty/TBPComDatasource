@@ -164,8 +164,8 @@
 | 156 | 808 | Missie Lawson Gebhardt |
 | 157 | 807 | Khalil Lowe |
 | 158 | 802 | Robin Kerby |
-| 159 | 800 | Tacara Cummings |
-| 160 | 800 | Danielle Johnson-Chandler |
+| 159 | 800 | Danielle Johnson-Chandler |
+| 160 | 800 | Tacara Cummings |
 | 161 | 791 | Chirpy Staggerpiece |
 | 162 | 789 | Moni Foxe |
 | 163 | 789 | Stephanie Chapman |
@@ -204,8 +204,8 @@
 | 196 | 692 | Jennifer Casey-Kay |
 | 197 | 690 | Deborah Miller |
 | 198 | 688 | Dreamy Blast |
-| 199 | 686 | Dannette Goldberg-Richards |
-| 200 | 686 | Ashley Guernsey-Martin |
+| 199 | 686 | Ashley Guernsey-Martin |
+| 200 | 686 | Dannette Goldberg-Richards |
 | 201 | 679 | Gold Rose |
 | 202 | 671 | Pacynthia Williams |
 | 203 | 669 | Melissa Holsinger |
@@ -407,8 +407,8 @@
 | 399 | 386 | Irene Jones |
 | 400 | 384 | Mike Aprilliano |
 | 401 | 383 | Arkei Luster |
-| 402 | 382 | David Holliday |
-| 403 | 382 | KhaosLord |
+| 402 | 382 | KhaosLord |
+| 403 | 382 | David Holliday |
 | 404 | 382 | Alexandra Weir |
 | 405 | 381 | Melissa Rebbe-Lehman |
 | 406 | 381 | Kristin Gower |
@@ -504,12 +504,12 @@
 | 496 | 317 | Zombi3 |
 | 497 | 316 | Mikayala Szaz |
 | 498 | 314 | James Zaragoza |
-| 499 | 314 | Amanda West |
-| 500 | 314 | Party d |
+| 499 | 314 | Party d |
+| 500 | 314 | Amanda West |
 | 501 | 313 | Natasha Edmonds |
 | 502 | 312 | Michelle Pike |
-| 503 | 312 | Justin Hines |
-| 504 | 312 | Andrea Maher |
+| 503 | 312 | Andrea Maher |
+| 504 | 312 | Justin Hines |
 | 505 | 311 | Kitybox |
 | 506 | 311 | Mary Marie |
 | 507 | 310 | Lonne Emade |
@@ -581,8 +581,8 @@
 | 573 | 278 | Demeka Dangerous-kisses Johnson |
 | 574 | 277 | Anthony Mignacca |
 | 575 | 277 | Stephanie Lumanlan |
-| 576 | 277 | Dapper Dasher |
-| 577 | 277 | NickyBrooks |
+| 576 | 277 | NickyBrooks |
+| 577 | 277 | Dapper Dasher |
 | 578 | 276 | Lindsey Leigh |
 | 579 | 276 | Patrick Bartlett |
 | 580 | 276 | Loony Basepiece |

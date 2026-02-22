@@ -113,7 +113,7 @@
 | 105 | 258 | Brittney Orengo |
 | 106 | 257 | Holly Jolly |
 | 107 | 255 | Lindsay Ball |
-| 108 | 230 | Lucas J Sutton |
+| 108 | 230 | Daria Rycewicz |
 | 109 | 230 | Autum Leigh |
 | 110 | 230 | Lucas J Sutton |
 | 111 | 222 | Joeliecea Cobb |

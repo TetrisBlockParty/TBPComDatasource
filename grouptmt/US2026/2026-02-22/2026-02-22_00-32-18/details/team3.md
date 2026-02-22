@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -105,8 +105,8 @@
 | 97 | 458 | Domo Washington |
 | 98 | 447 | Mykal Burton |
 | 99 | 446 | Danielle Rhoades |
-| 100 | 445 | Silly Twist |
-| 101 | 445 | Kristie McFarland |
+| 100 | 445 | Kristie McFarland |
+| 101 | 445 | Silly Twist |
 | 102 | 430 | Patricia White |
 | 103 | 428 | Elissa S-k |
 | 104 | 424 | Bea Miles |
@@ -116,8 +116,8 @@
 | 108 | 400 | Luciana Braganca Vieira |
 | 109 | 397 | Mcathen |
 | 110 | 396 | Shannon Matthew Byers |
-| 111 | 394 | Annie Déè |
-| 112 | 394 | joclisa |
+| 111 | 394 | joclisa |
+| 112 | 394 | Annie Déè |
 | 113 | 392 | Michelle |
 | 114 | 391 | Calista Jo Dickson |
 | 115 | 390 | Patti Skiles |
@@ -126,8 +126,8 @@
 | 118 | 389 | Jessica Bechler |
 | 119 | 386 | Katie Knaus |
 | 120 | 383 | Jesse Olive |
-| 121 | 378 | Makelini Mausia |
-| 122 | 378 | Tasha Schriewer |
+| 121 | 378 | Tasha Schriewer |
+| 122 | 378 | Makelini Mausia |
 | 123 | 374 | Loopy Clusterer |
 | 124 | 368 | Stephanie Woods |
 | 125 | 368 | Stephanie Blkpep Davidson |

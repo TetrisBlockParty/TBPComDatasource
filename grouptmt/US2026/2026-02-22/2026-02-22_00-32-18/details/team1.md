@@ -156,12 +156,12 @@
 | 148 | 186 | Katie Daniels |
 | 149 | 185 | Basment Living |
 | 150 | 183 | Michael |
-| 151 | 180 | BigWeenie69 |
-| 152 | 180 | Erez Yosef |
+| 151 | 180 | Erez Yosef |
+| 152 | 180 | BigWeenie69 |
 | 153 | 179 | Danielle Little-Daugherty |
 | 154 | 178 | Chad Atchley |
-| 155 | 177 | ParisandCory Champagne |
-| 156 | 177 | Irual Hctrab |
+| 155 | 177 | Irual Hctrab |
+| 156 | 177 | ParisandCory Champagne |
 | 157 | 175 | John Barron |
 | 158 | 171 | David DeSantis |
 | 159 | 171 | femmefatale |
