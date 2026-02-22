@@ -348,8 +348,8 @@
 | 340 | 449 | Shelley Thornburgh Wright |
 | 341 | 449 | Davetta Sanford |
 | 342 | 448 | Jojo Momma |
-| 343 | 447 | Lourisha |
-| 344 | 447 | Heather Schelkopf |
+| 343 | 447 | Heather Schelkopf |
+| 344 | 447 | Lourisha |
 | 345 | 445 | Mar Q Thomas |
 | 346 | 443 | Joseph Musick |
 | 347 | 442 | Leah |

@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -91,8 +91,8 @@
 | 83 | 514 | Jay Horn |
 | 84 | 510 | Dave Herzog |
 | 85 | 506 | Sashay Tapae Simpson |
-| 86 | 503 | Nate Burnside |
-| 87 | 503 | Susan Valentino |
+| 86 | 503 | Susan Valentino |
+| 87 | 503 | Nate Burnside |
 | 88 | 502 | Justin Ritter |
 | 89 | 497 | Jennifer Petrie |
 | 90 | 497 | Christine Niles |
@@ -127,9 +127,9 @@
 | 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
-| 122 | 378 | Tasha Gillespie |
-| 123 | 378 | Makelini Mausia |
-| 124 | 378 | Tasha Schriewer |
+| 122 | 378 | Tasha Schriewer |
+| 123 | 378 | Tasha Gillespie |
+| 124 | 378 | Makelini Mausia |
 | 125 | 374 | Loopy Clusterer |
 | 126 | 368 | Stephanie Blkpep Davidson |
 | 127 | 368 | Stephanie Woods |
@@ -142,8 +142,8 @@
 | 134 | 347 | Darlene McMillan |
 | 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
-| 137 | 328 | Jeni Dow |
-| 138 | 328 | Dapper Snap |
+| 137 | 328 | Dapper Snap |
+| 138 | 328 | Jeni Dow |
 | 139 | 328 | Aaron Pitkin |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
@@ -271,8 +271,8 @@
 | 263 | 162 | Stephanie Whitefield |
 | 264 | 162 | Cesar Barraza |
 | 265 | 161 | Kristian Thurman |
-| 266 | 160 | Eon Harris |
-| 267 | 160 | Tiffany Davie |
+| 266 | 160 | Tiffany Davie |
+| 267 | 160 | Eon Harris |
 | 268 | 159 | Jone |
 | 269 | 159 | Valerie Gendron |
 | 270 | 157 | Samantha Lynn |
@@ -388,8 +388,8 @@
 | 380 | 113 | Boldy Blocker |
 | 381 | 113 | Gideon Walker |
 | 382 | 112 | Tia Moore |
-| 383 | 111 | Leticia Lynn Lowe |
-| 384 | 111 | Stephanie Zahm |
+| 383 | 111 | Stephanie Zahm |
+| 384 | 111 | Leticia Lynn Lowe |
 | 385 | 110 | Tracey Cox |
 | 386 | 110 | Danielle Weikel |
 | 387 | 109 | mommablock |

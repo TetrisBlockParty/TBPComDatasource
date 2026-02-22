@@ -41,8 +41,8 @@
 | 33 | 653 | Lawrence Belanger |
 | 34 | 632 | Susanna Guerry |
 | 35 | 587 | Marianne Louise West |
-| 36 | 585 | Jennifer Cates |
-| 37 | 585 | Angel Fowler |
+| 36 | 585 | Angel Fowler |
+| 37 | 585 | Jennifer Cates |
 | 38 | 570 | Cody Slav |
 | 39 | 550 | Kristen Roles Robben |
 | 40 | 543 | Aaron Garnett |
@@ -135,8 +135,8 @@
 | 127 | 208 | Giggly Builderline |
 | 128 | 207 | Leslie Bush Yarbrough |
 | 129 | 204 | Ananda Mendez |
-| 130 | 203 | Paula Martin |
-| 131 | 203 | GATOR |
+| 130 | 203 | GATOR |
+| 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
 | 133 | 198 | Happy Snapbuild |
 | 134 | 198 | Shiny Gridmatch |
@@ -144,8 +144,8 @@
 | 136 | 194 | Ash Galvan |
 | 137 | 194 | Tyler Werts |
 | 138 | 193 | Lachelle Dillon |
-| 139 | 192 | Jessica Sheehan |
-| 140 | 192 | Shaykmia |
+| 139 | 192 | Shaykmia |
+| 140 | 192 | Jessica Sheehan |
 | 141 | 191 | Diane Byrd |
 | 142 | 190 | Sweetts |
 | 143 | 190 | Thorne Shumate |
@@ -161,8 +161,8 @@
 | 153 | 180 | BigWeenie69 |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
-| 156 | 177 | Irual Hctrab |
-| 157 | 177 | ParisandCory Champagne |
+| 156 | 177 | ParisandCory Champagne |
+| 157 | 177 | Irual Hctrab |
 | 158 | 175 | John Barron |
 | 159 | 173 | Gabrielle Louise Malloch |
 | 160 | 171 | David DeSantis |

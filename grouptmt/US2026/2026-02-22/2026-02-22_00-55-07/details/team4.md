@@ -82,8 +82,8 @@
 | 74 | 370 | Leslie Thomas |
 | 75 | 369 | Nope Young |
 | 76 | 359 | Jamie Mann-Deichmann |
-| 77 | 358 | Nugget |
-| 78 | 358 | Shane Kalamata Platoon |
+| 77 | 358 | Shane Kalamata Platoon |
+| 78 | 358 | Nugget |
 | 79 | 345 | Ancient Intuition |
 | 80 | 330 | Jae Job |
 | 81 | 323 | Robin Getchel |
@@ -266,7 +266,7 @@
 | 258 | 109 | Lori Goudy |
 | 259 | 108 | Kate |
 | 260 | 108 | Ali Ian |
-| 261 | 108 | Kate |
+| 261 | 108 | Rebecca Morris |
 | 262 | 106 | Zappy Snaplink |
 | 263 | 106 | Brandi Durig |
 | 264 | 105 | Kim Hunt |
