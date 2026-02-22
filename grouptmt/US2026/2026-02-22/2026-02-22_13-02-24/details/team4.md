@@ -80,8 +80,8 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -215,8 +215,8 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Klo |
-| 211 | 191 | Sam Bishop |
+| 210 | 191 | Sam Bishop |
+| 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
 | 213 | 189 | Calvin Dennis |
 | 214 | 189 | Stacey Stano |
@@ -250,8 +250,8 @@
 | 242 | 163 | Kristina Black |
 | 243 | 162 | John Brunetti |
 | 244 | 161 | Jenny Wells-Oakley |
-| 245 | 160 | Ellen Durfee |
-| 246 | 160 | Brittany Marsh |
+| 245 | 160 | Brittany Marsh |
+| 246 | 160 | Ellen Durfee |
 | 247 | 159 | Marcus Todd |
 | 248 | 159 | DonMega |
 | 249 | 158 | Chair |

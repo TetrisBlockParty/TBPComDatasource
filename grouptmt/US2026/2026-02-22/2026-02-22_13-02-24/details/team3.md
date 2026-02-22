@@ -174,8 +174,8 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Nicole Flippo |
-| 170 | 378 | Chris Bell |
+| 169 | 378 | Chris Bell |
+| 170 | 378 | Nicole Flippo |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Stephanie Burtin |
-| 185 | 357 | Tom Nault |
+| 184 | 357 | Tom Nault |
+| 185 | 357 | Stephanie Burtin |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -344,8 +344,8 @@
 | 336 | 186 | Noettín Kan Zasnemoore |
 | 337 | 186 | Sameerah Smith |
 | 338 | 185 | Angella Lyons |
-| 339 | 184 | Shanon R Jackson |
-| 340 | 184 | Troy |
+| 339 | 184 | Troy |
+| 340 | 184 | Shanon R Jackson |
 | 341 | 183 | Cesar Barraza |
 | 342 | 183 | Salena Whitlock |
 | 343 | 181 | Denita Mungro |

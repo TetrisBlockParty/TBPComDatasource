@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Brave Dropmatch |
-| 174 | 1043 | Suki Kaur |
+| 173 | 1043 | Suki Kaur |
+| 174 | 1043 | Brave Dropmatch |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -303,8 +303,8 @@
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Dannette Goldberg-Richards |
-| 299 | 692 | Jennifer Casey-Kay |
+| 298 | 692 | Jennifer Casey-Kay |
+| 299 | 692 | Dannette Goldberg-Richards |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Giggy Blocker |
@@ -561,8 +561,8 @@
 | 553 | 413 | Lauren Fitzgerald Thomas |
 | 554 | 413 | Fancy Twister |
 | 555 | 412 | Jason H Baker |
-| 556 | 411 | Kristen O'Neal |
-| 557 | 411 | Mighty Spinbuilder |
+| 556 | 411 | Mighty Spinbuilder |
+| 557 | 411 | Kristen O'Neal |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
 | 560 | 408 | Stefanie Zonzini-Gagliardi |
@@ -686,8 +686,8 @@
 | 678 | 342 | Quirky Twistline |
 | 679 | 341 | Shorty |
 | 680 | 341 | Daniel Amos |
-| 681 | 339 | Cynthia Louann Rose |
-| 682 | 339 | Twisty Tetriblast |
+| 681 | 339 | Twisty Tetriblast |
+| 682 | 339 | Cynthia Louann Rose |
 | 683 | 339 | Denise Rickman |
 | 684 | 338 | Janitta Alvarez |
 | 685 | 337 | Sassy Pattern |
@@ -708,8 +708,8 @@
 | 700 | 329 | Chummy Blockbuilder |
 | 701 | 329 | Jane Crew |
 | 702 | 329 | Snappy Shatterfit |
-| 703 | 328 | Jamie Carter Bierce |
-| 704 | 328 | BabyBird |
+| 703 | 328 | BabyBird |
+| 704 | 328 | Jamie Carter Bierce |
 | 705 | 326 | Ann Knutson Anderson |
 | 706 | 325 | James Smith |
 | 707 | 325 | Justin Hines |
@@ -816,12 +816,12 @@
 | 808 | 282 | Nutty Slice |
 | 809 | 281 | Amy McManus |
 | 810 | 281 | Anthony |
-| 811 | 280 | Reece Smith |
-| 812 | 280 | Danielle DeLozier Plesec |
+| 811 | 280 | Danielle DeLozier Plesec |
+| 812 | 280 | Reece Smith |
 | 813 | 280 | Luke Califf |
 | 814 | 280 | Sandra Link-Gable |
-| 815 | 279 | Loony Basepiece |
-| 816 | 279 | Jennifer Coe |
+| 815 | 279 | Jennifer Coe |
+| 816 | 279 | Loony Basepiece |
 | 817 | 279 | Katherin Camacho |
 | 818 | 279 | Laura Wyatt |
 | 819 | 278 | AndrewandShela Gornik |
@@ -1108,7 +1108,7 @@
 | 1100 | 212 | Sassy Linkroll |
 | 1101 | 212 | Izzy Rockford |
 | 1102 | 211 | Neko Preston |
-| 1103 | 211 | Melissa Koria |
+| 1103 | 211 | Nerdy Blockpiece |
 | 1104 | 211 | Scherrie Smith |
 | 1105 | 211 | Melissa Koria |
 | 1106 | 210 | Janet Marie Vega |
@@ -1167,8 +1167,8 @@
 | 1159 | 200 | Amanda Allmon |
 | 1160 | 200 | Shyne Sun |
 | 1161 | 199 | Tiffany Michelle Arnold |
-| 1162 | 199 | Melissa May |
-| 1163 | 199 | Dottie Turbeville Creel |
+| 1162 | 199 | Dottie Turbeville Creel |
+| 1163 | 199 | Melissa May |
 | 1164 | 199 | Katelyn Fitzsimmons |
 | 1165 | 199 | Quels Whidbee |
 | 1166 | 199 | Jenny Castro |
