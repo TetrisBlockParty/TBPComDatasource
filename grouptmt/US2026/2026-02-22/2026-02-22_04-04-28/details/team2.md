@@ -195,8 +195,8 @@
 | 187 | 845 | April Dawn Gussler |
 | 188 | 838 | Tralonda Weeks |
 | 189 | 837 | Ashley Rose Frederick |
-| 190 | 834 | Rebecca Doughman |
-| 191 | 834 | Nika Bee |
+| 190 | 834 | Nika Bee |
+| 191 | 834 | Rebecca Doughman |
 | 192 | 833 | Dineisha Carpenter |
 | 193 | 828 | Cindy Sechler Taninecz |
 | 194 | 820 | Chirpy Staggerpiece |
@@ -318,8 +318,8 @@
 | 310 | 538 | Eric Castaneda |
 | 311 | 538 | Brownie Sheena |
 | 312 | 537 | Cherica Taylor |
-| 313 | 535 | Paul Huber |
-| 314 | 535 | Jessie McDougald |
+| 313 | 535 | Jessie McDougald |
+| 314 | 535 | Paul Huber |
 | 315 | 531 | Chris Wanner |
 | 316 | 529 | Em Chen |
 | 317 | 527 | Julie Kresal |
@@ -337,8 +337,8 @@
 | 329 | 518 | Traci Johnson |
 | 330 | 517 | Porsche' Nicole |
 | 331 | 516 | Diamond Scott |
-| 332 | 515 | Matt Johnson |
-| 333 | 515 | Laquetta Royston |
+| 332 | 515 | Laquetta Royston |
+| 333 | 515 | Matt Johnson |
 | 334 | 514 | Dizzy Zone |
 | 335 | 511 | Laura Mclean |
 | 336 | 509 | Jordan Kaiser |
@@ -350,10 +350,10 @@
 | 342 | 502 | Poppy Snap |
 | 343 | 500 | Sarah Ridenour |
 | 344 | 499 | Sarah Massey |
-| 345 | 497 | Jeremy Parodi |
-| 346 | 497 | Kimberly Randesi |
-| 347 | 496 | Blacc Blac |
-| 348 | 496 | Nashu |
+| 345 | 497 | Kimberly Randesi |
+| 346 | 497 | Jeremy Parodi |
+| 347 | 496 | Nashu |
+| 348 | 496 | Blacc Blac |
 | 349 | 495 | William Hunt |
 | 350 | 494 | Doowop40 |
 | 351 | 493 | Kara Gillen |
@@ -368,8 +368,8 @@
 | 360 | 485 | Mamachelle Eisweirth |
 | 361 | 483 | Alezandra Smith |
 | 362 | 483 | Victor Obiakarije |
-| 363 | 482 | Amélie Cadieux |
-| 364 | 482 | Eckoman518 |
+| 363 | 482 | Eckoman518 |
+| 364 | 482 | Amélie Cadieux |
 | 365 | 481 | Klee |
 | 366 | 480 | Dar |
 | 367 | 478 | Ashley Collins |
@@ -790,9 +790,9 @@
 | 782 | 240 | Nikki Vaughn |
 | 783 | 240 | Matthew Joseph Acevedo |
 | 784 | 240 | Alison Emmons |
-| 785 | 239 | Jennifer Leigh |
+| 785 | 239 | Mary Ahne |
 | 786 | 239 | Amy John Mills |
-| 787 | 239 | Mary Ahne |
+| 787 | 239 | Jennifer Leigh |
 | 788 | 239 | Joel Rosado |
 | 789 | 238 | Ys Muhammed |
 | 790 | 238 | SwifftFox |

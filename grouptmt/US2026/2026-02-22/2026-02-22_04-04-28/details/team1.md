@@ -124,8 +124,8 @@
 | 116 | 275 | Bhelle Sumile |
 | 117 | 273 | Happy Basegrid |
 | 118 | 264 | Lexuriuos Lifestlye |
-| 119 | 263 | Jason Jones |
-| 120 | 263 | Sharon Reynolds |
+| 119 | 263 | Sharon Reynolds |
+| 120 | 263 | Jason Jones |
 | 121 | 256 | David Miller |
 | 122 | 252 | Dena Kayy |
 | 123 | 252 | Elaine Elaine |
@@ -146,8 +146,8 @@
 | 138 | 216 | Shauntina Burke |
 | 139 | 216 | MRdot Rooski |
 | 140 | 214 | GATOR |
-| 141 | 212 | Jaimie Lynn |
-| 142 | 212 | Lori Bales |
+| 141 | 212 | Lori Bales |
+| 142 | 212 | Jaimie Lynn |
 | 143 | 211 | Marianita Garcia |
 | 144 | 210 | Giggly Builderline |
 | 145 | 209 | Kimmie Kimms |

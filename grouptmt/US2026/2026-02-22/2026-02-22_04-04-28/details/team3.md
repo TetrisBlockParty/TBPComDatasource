@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -134,9 +134,9 @@
 | 126 | 403 | Scott Lindsay |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
-| 129 | 399 | Patti Skiles |
-| 130 | 399 | Mcathen |
-| 131 | 399 | ren |
+| 129 | 399 | ren |
+| 130 | 399 | Patti Skiles |
+| 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
 | 133 | 392 | Tasha Gillespie |
 | 134 | 392 | Katie Knaus |
@@ -165,12 +165,12 @@
 | 157 | 343 | Ashley Raines |
 | 158 | 343 | Chasity |
 | 159 | 338 | Leah Barnett |
-| 160 | 332 | Fallorina Susana |
-| 161 | 332 | Rich LeBlanc |
+| 160 | 332 | Rich LeBlanc |
+| 161 | 332 | Fallorina Susana |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
-| 164 | 320 | Or Reznitsky |
-| 165 | 320 | Tom Nault |
+| 164 | 320 | Tom Nault |
+| 165 | 320 | Or Reznitsky |
 | 166 | 317 | Ashley Tookes |
 | 167 | 311 | Raya |
 | 168 | 308 | Rania Zaqout |

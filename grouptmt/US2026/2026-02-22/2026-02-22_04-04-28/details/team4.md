@@ -70,8 +70,8 @@
 | 62 | 501 | H.R. Block |
 | 63 | 500 | Rodney McMath Jr. |
 | 64 | 496 | Lisa Davis |
-| 65 | 486 | Jamie Mann-Deichmann |
-| 66 | 486 | Landon Keith Graffeo |
+| 65 | 486 | Landon Keith Graffeo |
+| 66 | 486 | Jamie Mann-Deichmann |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
 | 69 | 447 | TeeJ |
@@ -176,15 +176,15 @@
 | 168 | 185 | Diana Houts |
 | 169 | 185 | Lori |
 | 170 | 184 | Ak Jones |
-| 171 | 181 | Klo |
-| 172 | 181 | Carter Jones |
+| 171 | 181 | Carter Jones |
+| 172 | 181 | Klo |
 | 173 | 180 | Orchislactea |
 | 174 | 179 | blockstar |
 | 175 | 176 | Zethra Prenisha Rahming |
 | 176 | 174 | Dihcheese444 |
 | 177 | 173 | ThaEviLJeNiuZ |
-| 178 | 166 | SammieJo Guy |
-| 179 | 166 | Cozy Balancer |
+| 178 | 166 | Cozy Balancer |
+| 179 | 166 | SammieJo Guy |
 | 180 | 164 | 030Synner |
 | 181 | 162 | Joanna |
 | 182 | 160 | TinyLegoRose |
@@ -195,8 +195,8 @@
 | 187 | 158 | Chair |
 | 188 | 158 | Avy Absol |
 | 189 | 155 | AyeKay |
-| 190 | 154 | Laura Hosford |
-| 191 | 154 | scott |
+| 190 | 154 | scott |
+| 191 | 154 | Laura Hosford |
 | 192 | 153 | Empress Oasis |
 | 193 | 152 | Austin Owens |
 | 194 | 152 | John Brunetti |
@@ -243,9 +243,9 @@
 | 235 | 131 | Smiley Tiltbuilder |
 | 236 | 131 | Vanessa Smart |
 | 237 | 130 | Angelito |
-| 238 | 130 | Ultramarine |
-| 239 | 130 | Shukee Lo |
-| 240 | 130 | J-Rizzle |
+| 238 | 130 | J-Rizzle |
+| 239 | 130 | Ultramarine |
+| 240 | 130 | Shukee Lo |
 | 241 | 129 | Duck |
 | 242 | 129 | Sherri |
 | 243 | 129 | Dreamy Snapgrid |
@@ -256,8 +256,8 @@
 | 248 | 128 | Jackie Marie |
 | 249 | 128 | Kristin MacDonald |
 | 250 | 127 | Kim Hunt |
-| 251 | 127 | KayM |
-| 252 | 127 | Joshua Cuellar |
+| 251 | 127 | Joshua Cuellar |
+| 252 | 127 | KayM |
 | 253 | 126 | icequeenx |
 | 254 | 125 | Steph Marie |
 | 255 | 125 | Nick Gray |
@@ -396,9 +396,9 @@
 | 388 | 84 | Amy C Brown |
 | 389 | 83 | Lynn Marie |
 | 390 | 83 | Abigail Murphy |
-| 391 | 82 | Jim Hart |
-| 392 | 82 | Oleg Zakharskiy |
-| 393 | 82 | Jason Bosco |
+| 391 | 82 | Jason Bosco |
+| 392 | 82 | Jim Hart |
+| 393 | 82 | Oleg Zakharskiy |
 | 394 | 81 | Heather Bruce |
 | 395 | 81 | Zippy Tilt |
 | 396 | 81 | Robert Rangel |
