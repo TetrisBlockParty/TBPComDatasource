@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Giddy Twistbuilder |
-| 206 | 372 | Tom Nault |
+| 205 | 372 | Tom Nault |
+| 206 | 372 | Giddy Twistbuilder |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
@@ -273,11 +273,11 @@
 | 265 | 285 | Terry Jo Jones |
 | 266 | 283 | Cheeky Snapper |
 | 267 | 279 | Connie Mohler-Fair |
-| 268 | 278 | Sabrina Hardrick |
-| 269 | 278 | Rufus Lincoln |
+| 268 | 278 | Rufus Lincoln |
+| 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
-| 272 | 276 | Heather De Vries Cobb |
+| 272 | 276 | _melisa223_ |
 | 273 | 276 | Crimson |
 | 274 | 276 | Heather De Vries Cobb |
 | 275 | 276 | Hasty Gridpiece |

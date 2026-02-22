@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -298,8 +298,8 @@
 | 290 | 820 | Chirpy Staggerpiece |
 | 291 | 819 | Carl Bradshaw |
 | 292 | 817 | Nett |
-| 293 | 816 | James Simms III |
-| 294 | 816 | Jessica Wayne Cornwall |
+| 293 | 816 | Jessica Wayne Cornwall |
+| 294 | 816 | James Simms III |
 | 295 | 810 | Caitlin Schmid |
 | 296 | 810 | Andrea Maher |
 | 297 | 808 | Desire Rice |
@@ -765,8 +765,8 @@
 | 757 | 356 | Shorty |
 | 758 | 356 | Peppy Snapfall |
 | 759 | 355 | Cris cris |
-| 760 | 355 | Mike73 |
-| 761 | 355 | Tammy Mitchell |
+| 760 | 355 | Tammy Mitchell |
+| 761 | 355 | Mike73 |
 | 762 | 354 | Rachel Kaminski |
 | 763 | 354 | Rickey Johnson |
 | 764 | 354 | Del Davis |

@@ -72,8 +72,8 @@
 | 64 | 675 | D3TROITB0RN74 |
 | 65 | 671 | Kimyatta Cavin |
 | 66 | 667 | Chilly Line |
-| 67 | 664 | loulou |
-| 68 | 664 | Valerie Roberts |
+| 67 | 664 | Valerie Roberts |
+| 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | Shauna Havard |
 | 71 | 647 | KM8 |
@@ -159,8 +159,8 @@
 | 151 | 307 | Angela Srubar-Norman |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -271,8 +271,8 @@
 | 263 | 189 | Shainne Brewer |
 | 264 | 189 | 030Synner |
 | 265 | 188 | A5! |
-| 266 | 185 | Morti |
-| 267 | 185 | Laura Hosford |
+| 266 | 185 | Laura Hosford |
+| 267 | 185 | Morti |
 | 268 | 185 | Nubian1 |
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
