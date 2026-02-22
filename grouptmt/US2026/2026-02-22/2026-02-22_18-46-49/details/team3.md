@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -149,9 +149,9 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Poppy Splitter |
-| 145 | 479 | Annie Marie |
-| 146 | 479 | Patti Skiles |
+| 144 | 479 | Annie Marie |
+| 145 | 479 | Patti Skiles |
+| 146 | 479 | Poppy Splitter |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
 | 149 | 469 | Adrian Marcel Pate |
@@ -343,18 +343,18 @@
 | 335 | 221 | Bleu Sun Beams |
 | 336 | 221 | kacihall |
 | 337 | 220 | Tosha Griffey |
-| 338 | 218 | Khaleada McGill Banks |
-| 339 | 218 | Tina Smith Roy |
+| 338 | 218 | Tina Smith Roy |
+| 339 | 218 | Khaleada McGill Banks |
 | 340 | 218 | Eileen Brady Thurber |
 | 341 | 217 | Emma |
 | 342 | 217 | Goofy Fall |
-| 343 | 216 | Cheryl Hinch Tenbrook |
-| 344 | 216 | Frothy Snapper |
+| 343 | 216 | Frothy Snapper |
+| 344 | 216 | Cheryl Hinch Tenbrook |
 | 345 | 215 | Everret Maxine |
-| 346 | 214 | Amy Fuller Heaton |
-| 347 | 214 | Randy Clevenger |
-| 348 | 213 | Jess Dearborn |
-| 349 | 213 | Romeo |
+| 346 | 214 | Randy Clevenger |
+| 347 | 214 | Amy Fuller Heaton |
+| 348 | 213 | Romeo |
+| 349 | 213 | Jess Dearborn |
 | 350 | 212 | AlsoJess |
 | 351 | 211 | El Chapa |
 | 352 | 211 | Velma Mull |
@@ -368,8 +368,8 @@
 | 360 | 207 | angieelyn |
 | 361 | 207 | Kristian Thurman |
 | 362 | 206 | Tammy Rosenberry |
-| 363 | 205 | Michael Kimbro |
-| 364 | 205 | Rachel Napper |
+| 363 | 205 | Rachel Napper |
+| 364 | 205 | Michael Kimbro |
 | 365 | 204 | Cesar Barraza |
 | 366 | 203 | Loopy Fallzone |
 | 367 | 203 | DanceLuvLaugh |

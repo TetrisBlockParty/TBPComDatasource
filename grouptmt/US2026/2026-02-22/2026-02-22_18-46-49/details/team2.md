@@ -122,8 +122,8 @@
 | 114 | 1520 | Heather Westrum |
 | 115 | 1513 | blackq |
 | 116 | 1509 | Whitney Nicole Waterman |
-| 117 | 1507 | Linda Pierce |
-| 118 | 1507 | Stephanie Chapman |
+| 117 | 1507 | Stephanie Chapman |
+| 118 | 1507 | Linda Pierce |
 | 119 | 1495 | Tj Ball |
 | 120 | 1493 | Mari Ac |
 | 121 | 1487 | Kristopher Miller |
@@ -729,10 +729,10 @@
 | 721 | 368 | Anthony D Gritz Jr |
 | 722 | 368 | Susan Arnburg |
 | 723 | 367 | Melanie Csikortos |
-| 724 | 367 | Rose Fx |
-| 725 | 367 | Connie Lepore-Mann |
-| 726 | 366 | Courtney Burcham |
-| 727 | 366 | Tash Bell |
+| 724 | 367 | Connie Lepore-Mann |
+| 725 | 367 | Rose Fx |
+| 726 | 366 | Tash Bell |
+| 727 | 366 | Courtney Burcham |
 | 728 | 365 | Christina Lewis-Vickers |
 | 729 | 364 | Jessica Galick |
 | 730 | 364 | Shinette Dobson |
@@ -824,8 +824,8 @@
 | 816 | 321 | Ashley Criner |
 | 817 | 320 | Peachy Blockbuilder |
 | 818 | 319 | RetroLemur |
-| 819 | 319 | Cheery Puzzler |
-| 820 | 319 | Giggly Snap |
+| 819 | 319 | Giggly Snap |
+| 820 | 319 | Cheery Puzzler |
 | 821 | 318 | Jeffrey Barrows |
 | 822 | 318 | Ashlyn Berner |
 | 823 | 317 | Zombi3 |

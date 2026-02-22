@@ -110,16 +110,16 @@
 | 102 | 409 | Yvonne Marie |
 | 103 | 401 | cc |
 | 104 | 395 | Nery Martinez |
-| 105 | 390 | Lori Bales |
-| 106 | 390 | Candy Jones |
+| 105 | 390 | Candy Jones |
+| 106 | 390 | Lori Bales |
 | 107 | 390 | Goose egg |
 | 108 | 385 | Brenda Stewart |
 | 109 | 383 | pjbeta |
 | 110 | 380 | Dee Perry |
-| 111 | 379 | Austin James |
-| 112 | 379 | Kimmie Kimms |
-| 113 | 376 | lil mickey |
-| 114 | 376 | Brian Richardsson |
+| 111 | 379 | Kimmie Kimms |
+| 112 | 379 | Austin James |
+| 113 | 376 | Brian Richardsson |
+| 114 | 376 | lil mickey |
 | 115 | 367 | Ly Phethmany |
 | 116 | 367 | Jason Jones |
 | 117 | 366 | David Miller |
@@ -156,8 +156,8 @@
 | 148 | 308 | Sharon Reynolds |
 | 149 | 306 | Happy Basegrid |
 | 150 | 306 | Bloknboy |
-| 151 | 304 | Nicole Roseberry Weber |
-| 152 | 304 | Constance Risner |
+| 151 | 304 | Constance Risner |
+| 152 | 304 | Nicole Roseberry Weber |
 | 153 | 303 | Chelsea Dahlquist |
 | 154 | 297 | Danielle Little-Daugherty |
 | 155 | 296 | Ty Brown |
@@ -167,8 +167,8 @@
 | 159 | 293 | Sarah Roberts |
 | 160 | 292 | David Lutcher |
 | 161 | 285 | ALFD |
-| 162 | 284 | Emily Adelaide Wheatley |
-| 163 | 284 | Rachael |
+| 162 | 284 | Rachael |
+| 163 | 284 | Emily Adelaide Wheatley |
 | 164 | 283 | Franswa |
 | 165 | 282 | Timothy Dew |
 | 166 | 282 | Tyler Werts |
@@ -271,8 +271,8 @@
 | 263 | 196 | Perky Shiftsnap |
 | 264 | 195 | Jennifer Olewnik Soborowski |
 | 265 | 194 | Poppy Riserpiece |
-| 266 | 193 | Phu ckalldems |
-| 267 | 193 | Lachelle Dillon |
+| 266 | 193 | Lachelle Dillon |
+| 267 | 193 | Phu ckalldems |
 | 268 | 192 | Tiger Lily |
 | 269 | 191 | J.F. Fields |
 | 270 | 191 | Renata Mabie |
