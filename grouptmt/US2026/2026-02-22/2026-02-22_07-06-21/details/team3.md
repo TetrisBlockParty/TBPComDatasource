@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -151,9 +151,9 @@
 | 143 | 401 | Katie Knaus |
 | 144 | 400 | Luciana Braganca Vieira |
 | 145 | 400 | Aaron Pitkin |
-| 146 | 399 | Marcie Bressler |
+| 146 | 399 | Jacqueline Rodriguez |
 | 147 | 399 | Mcathen |
-| 148 | 399 | Jacqueline Rodriguez |
+| 148 | 399 | Marcie Bressler |
 | 149 | 397 | Annie Déè |
 | 150 | 397 | Queen Kam |
 | 151 | 393 | Fallorina Susana |
@@ -184,8 +184,8 @@
 | 176 | 347 | Nicole Flippo |
 | 177 | 343 | Ashley Raines |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Leah Barnett |
-| 180 | 338 | Gumbo |
+| 179 | 338 | Gumbo |
+| 180 | 338 | Leah Barnett |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -308,8 +308,8 @@
 | 300 | 189 | Katie Leigh Blankenship |
 | 301 | 188 | Loopy Fallmatch |
 | 302 | 186 | Carrie Huskey |
-| 303 | 184 | Troy |
-| 304 | 184 | France Vézina |
+| 303 | 184 | France Vézina |
+| 304 | 184 | Troy |
 | 305 | 184 | Stephanie Hill |
 | 306 | 182 | Melanie Sherwood |
 | 307 | 181 | Nicholas Roddy |
@@ -335,15 +335,15 @@
 | 327 | 168 | April Matthew Kibble |
 | 328 | 168 | Trice Thomas |
 | 329 | 167 | Shicken Nuggit |
-| 330 | 167 | Romeo |
-| 331 | 167 | Irene Arreguin |
+| 330 | 167 | Irene Arreguin |
+| 331 | 167 | Romeo |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
-| 334 | 165 | Rainbow77375 |
-| 335 | 165 | Kali Kelz Williams |
-| 336 | 165 | Ashley Lynn Marchese |
-| 337 | 163 | Christine Trester |
-| 338 | 163 | Diana Ibarra |
+| 334 | 165 | Kali Kelz Williams |
+| 335 | 165 | Ashley Lynn Marchese |
+| 336 | 165 | Rainbow77375 |
+| 337 | 163 | Diana Ibarra |
+| 338 | 163 | Christine Trester |
 | 339 | 162 | Nicole Summers-Nelson |
 | 340 | 162 | Ava Petito |
 | 341 | 162 | Stephanie Whitefield |

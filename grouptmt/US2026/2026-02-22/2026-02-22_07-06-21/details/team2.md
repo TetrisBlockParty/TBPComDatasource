@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Rebecca Doughman |
-| 213 | 834 | Nika Bee |
+| 212 | 834 | Nika Bee |
+| 213 | 834 | Rebecca Doughman |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -339,8 +339,8 @@
 | 331 | 586 | Brittney Jean |
 | 332 | 582 | Gary Stash |
 | 333 | 581 | Jerry Tempelmeyer |
-| 334 | 579 | Juliana Marques Do Nascimento Gordy |
-| 335 | 579 | Roy Salyer |
+| 334 | 579 | Roy Salyer |
+| 335 | 579 | Juliana Marques Do Nascimento Gordy |
 | 336 | 576 | Leslie Johnson Guinto |
 | 337 | 573 | Carl Bradshaw |
 | 338 | 572 | Chris Wanner |
@@ -745,8 +745,8 @@
 | 737 | 293 | Ann Marie Davis |
 | 738 | 292 | Deana |
 | 739 | 291 | Brave Gridpiece |
-| 740 | 289 | Bella Novia |
-| 741 | 289 | August Hale |
+| 740 | 289 | August Hale |
+| 741 | 289 | Bella Novia |
 | 742 | 288 | thranduil |
 | 743 | 288 | Jenna Nance |
 | 744 | 288 | Samantha Angelo |
