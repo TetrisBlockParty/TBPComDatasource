@@ -321,16 +321,16 @@
 | 313 | 715 | Stephanie Lumanlan |
 | 314 | 713 | Chelle |
 | 315 | 711 | Melissa Holsinger |
-| 316 | 704 | Shelley Thornburgh Wright |
-| 317 | 704 | Jánine Riggs |
+| 316 | 704 | Jánine Riggs |
+| 317 | 704 | Shelley Thornburgh Wright |
 | 318 | 703 | Gold Rose |
 | 319 | 700 | Beverly Owens |
 | 320 | 700 | Rosemadder |
 | 321 | 700 | Hong Tang |
 | 322 | 700 | Vincent Petrella |
 | 323 | 699 | tejas25 |
-| 324 | 697 | Ashle Scranton |
-| 325 | 697 | Dreamy Blast |
+| 324 | 697 | Dreamy Blast |
+| 325 | 697 | Ashle Scranton |
 | 326 | 695 | Deborah Miller |
 | 327 | 695 | Lakeysha Dortch |
 | 328 | 692 | Dannette Goldberg-Richards |
@@ -340,8 +340,8 @@
 | 332 | 688 | ShinyRose |
 | 333 | 687 | Dee |
 | 334 | 686 | Ashley Guernsey-Martin |
-| 335 | 685 | Binyah-Binyah |
-| 336 | 685 | Brenda Pierpoint |
+| 335 | 685 | Brenda Pierpoint |
+| 336 | 685 | Binyah-Binyah |
 | 337 | 682 | Poldo Ilano |
 | 338 | 680 | blume |
 | 339 | 679 | Kassandra Hunt |
@@ -363,8 +363,8 @@
 | 355 | 650 | Shiny Rollzone |
 | 356 | 644 | Desiree Anderson |
 | 357 | 643 | Hoppy Brickmatch |
-| 358 | 640 | BYM4L |
-| 359 | 640 | Kara Gillen |
+| 358 | 640 | Kara Gillen |
+| 359 | 640 | BYM4L |
 | 360 | 639 | Crystie Hicks |
 | 361 | 639 | Rebecca Miller |
 | 362 | 634 | Gary Stash |
@@ -715,8 +715,8 @@
 | 707 | 356 | Shorty |
 | 708 | 356 | Kelsey Sullivan |
 | 709 | 355 | Mike73 |
-| 710 | 354 | Rachel Kaminski |
-| 711 | 354 | Rickey Johnson |
+| 710 | 354 | Rickey Johnson |
+| 711 | 354 | Rachel Kaminski |
 | 712 | 352 | Jean FU Jagielski |
 | 713 | 352 | Savannah Alexander |
 | 714 | 350 | Chris Harr |

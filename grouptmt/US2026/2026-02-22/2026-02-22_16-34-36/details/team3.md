@@ -217,10 +217,10 @@
 | 209 | 340 | Ammmmmmy |
 | 210 | 338 | Gumbo |
 | 211 | 332 | Rich LeBlanc |
-| 212 | 330 | Danielle Balcom |
-| 213 | 330 | Rebecca Funderburk Kirby |
-| 214 | 324 | Kristal C Lee |
-| 215 | 324 | Sissy Lowery Davis |
+| 212 | 330 | Rebecca Funderburk Kirby |
+| 213 | 330 | Danielle Balcom |
+| 214 | 324 | Sissy Lowery Davis |
+| 215 | 324 | Kristal C Lee |
 | 216 | 323 | Demetrious Shaw Sr. |
 | 217 | 320 | Brittany |
 | 218 | 320 | Ashley Muncey |
@@ -298,8 +298,8 @@
 | 290 | 239 | Michael Johnson |
 | 291 | 238 | Niki Dalrymple |
 | 292 | 236 | Angela Scott |
-| 293 | 236 | Lys |
-| 294 | 236 | Jess Bissett |
+| 293 | 236 | Jess Bissett |
+| 294 | 236 | Lys |
 | 295 | 233 | Tony Waters |
 | 296 | 232 | Donna |
 | 297 | 232 | Jessica |
@@ -499,8 +499,8 @@
 | 491 | 145 | Alison Baus |
 | 492 | 145 | Cheery Brickster |
 | 493 | 145 | Kaycee Kay |
-| 494 | 144 | Rachel Grant |
-| 495 | 144 | Amber Groover Taylor |
+| 494 | 144 | Amber Groover Taylor |
+| 495 | 144 | Rachel Grant |
 | 496 | 143 | Tracey Cox |
 | 497 | 142 | Gray Hicks |
 | 498 | 142 | Amanda Declue |
@@ -526,8 +526,8 @@
 | 518 | 136 | Stephanie Zahm |
 | 519 | 136 | Karen Picaboo |
 | 520 | 135 | Morgan Cudo |
-| 521 | 134 | Sharon Dudley Lawson |
-| 522 | 134 | Glenn Loving |
+| 521 | 134 | Glenn Loving |
+| 522 | 134 | Sharon Dudley Lawson |
 | 523 | 134 | Maia |
 | 524 | 134 | Carrie Resler |
 | 525 | 134 | Brian Battjes |
