@@ -90,8 +90,8 @@
 | 82 | 561 | Rachael McClain Owens |
 | 83 | 559 | Morgan Martinez |
 | 84 | 548 | Dave Herzog |
-| 85 | 541 | Patty Allen |
-| 86 | 541 | Nate Burnside |
+| 85 | 541 | Nate Burnside |
+| 86 | 541 | Patty Allen |
 | 87 | 536 | Giddy Drop |
 | 88 | 526 | Cynthia Castros-Hampton |
 | 89 | 519 | Shari Garber |
@@ -111,8 +111,8 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
-| 107 | 432 | Jenny Hrndz |
+| 106 | 432 | Jenny Hrndz |
+| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 108 | 430 | Patricia White |
 | 109 | 428 | Elissa S-k |
 | 110 | 428 | Betty Ivy |
@@ -149,8 +149,8 @@
 | 141 | 348 | CeceGeGe |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 325 | Fallorina Susana |
@@ -245,8 +245,8 @@
 | 237 | 197 | Dee Franklin |
 | 238 | 195 | Nicha Hooker |
 | 239 | 194 | Raven Dudley |
-| 240 | 193 | Clever Shiftsnap |
-| 241 | 193 | Hyper Matchzone |
+| 240 | 193 | Hyper Matchzone |
+| 241 | 193 | Clever Shiftsnap |
 | 242 | 192 | Kelly Ann Child |
 | 243 | 191 | Scott Carleton |
 | 244 | 191 | Sarajane Lokan |

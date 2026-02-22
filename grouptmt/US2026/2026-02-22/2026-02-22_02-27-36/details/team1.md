@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -151,8 +151,8 @@
 | 143 | 198 | Shiny Gridmatch |
 | 144 | 198 | Happy Snapbuild |
 | 145 | 195 | Daring Fitclear |
-| 146 | 194 | Tyler Werts |
-| 147 | 194 | Ash Galvan |
+| 146 | 194 | Ash Galvan |
+| 147 | 194 | Tyler Werts |
 | 148 | 193 | Lachelle Dillon |
 | 149 | 192 | Jessica Sheehan |
 | 150 | 192 | Shaykmia |

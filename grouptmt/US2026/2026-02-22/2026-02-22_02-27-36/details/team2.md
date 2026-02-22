@@ -165,8 +165,8 @@
 | 157 | 886 | Murrae Lynn Rebarchek |
 | 158 | 881 | Tanya Parsons |
 | 159 | 877 | Stacy Stickle |
-| 160 | 867 | Michele Gabriel |
-| 161 | 867 | Rosa Franklin |
+| 160 | 867 | Rosa Franklin |
+| 161 | 867 | Michele Gabriel |
 | 162 | 865 | Dedra Steward |
 | 163 | 861 | Jennifer Peachey |
 | 164 | 859 | Nickole Andrews |
@@ -182,8 +182,8 @@
 | 174 | 812 | Rebecca Doughman |
 | 175 | 811 | James Simms III |
 | 176 | 808 | John Bednarik |
-| 177 | 807 | Khalil Lowe |
-| 178 | 807 | Kristopher Miller |
+| 177 | 807 | Kristopher Miller |
+| 178 | 807 | Khalil Lowe |
 | 179 | 805 | Robin Kerby |
 | 180 | 803 | nikki |
 | 181 | 800 | Danielle Johnson-Chandler |

@@ -55,8 +55,8 @@
 | 47 | 590 | Valerie Roberts |
 | 48 | 563 | KM8 |
 | 49 | 555 | Clarence Patawaran |
-| 50 | 546 | Kimberly Love |
-| 51 | 546 | Savannah Overdorf |
+| 50 | 546 | Savannah Overdorf |
+| 51 | 546 | Kimberly Love |
 | 52 | 540 | Cassie Michaux |
 | 53 | 526 | Goatimus Lombardi |
 | 54 | 518 | Carolyn Wallace |
@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -112,8 +112,8 @@
 | 104 | 273 | Carrie Brian |
 | 105 | 271 | Sarah Brown |
 | 106 | 268 | Meagan Nicole |
-| 107 | 264 | Girl |
-| 108 | 264 | Epic Curvetile |
+| 107 | 264 | Epic Curvetile |
+| 108 | 264 | Girl |
 | 109 | 262 | Monica Daley |
 | 110 | 258 | Brittney Orengo |
 | 111 | 257 | Holly Jolly |
@@ -156,8 +156,8 @@
 | 148 | 192 | Shauna Havard |
 | 149 | 190 | Justin Hannigan |
 | 150 | 189 | Calvin Dennis |
-| 151 | 189 | Chilly Crasher |
-| 152 | 189 | Stacey Stano |
+| 151 | 189 | Stacey Stano |
+| 152 | 189 | Chilly Crasher |
 | 153 | 188 | Andria Lynn |
 | 154 | 187 | TheNeesh50 |
 | 155 | 186 | Holly |
