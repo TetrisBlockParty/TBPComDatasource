@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -237,8 +237,8 @@
 | 229 | 223 | Erez Yosef |
 | 230 | 223 | Christina Backer |
 | 231 | 222 | Debbie Davis |
-| 232 | 221 | Amy Hess |
-| 233 | 221 | Daring Fitclear |
+| 232 | 221 | Daring Fitclear |
+| 233 | 221 | Amy Hess |
 | 234 | 219 | Chuck Gannon |
 | 235 | 219 | Negan Mallory Knoxx Spence |
 | 236 | 216 | Chad Atchley |
@@ -284,10 +284,10 @@
 | 276 | 194 | Poppy Riserpiece |
 | 277 | 193 | Phu ckalldems |
 | 278 | 193 | Lachelle Dillon |
-| 279 | 191 | Renata Mabie |
-| 280 | 191 | John Garza |
-| 281 | 191 | Steph |
-| 282 | 191 | J.F. Fields |
+| 279 | 191 | John Garza |
+| 280 | 191 | Renata Mabie |
+| 281 | 191 | J.F. Fields |
+| 282 | 191 | Steph |
 | 283 | 190 | Sweetts |
 | 284 | 189 | Katie Martin |
 | 285 | 189 | Tawnya Peltonen |
@@ -302,8 +302,8 @@
 | 294 | 183 | Tina Englert |
 | 295 | 183 | Dino |
 | 296 | 181 | David DeSantis |
-| 297 | 179 | Ryan White |
-| 298 | 179 | Speedy Snapfall |
+| 297 | 179 | Speedy Snapfall |
+| 298 | 179 | Ryan White |
 | 299 | 178 | Gabrielle Louise Malloch |
 | 300 | 178 | Silly Align |
 | 301 | 177 | Jessica Russell |

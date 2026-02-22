@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Amber Hughes |
-| 115 | 625 | Shavette |
+| 114 | 625 | Shavette |
+| 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Kristie |
 | 118 | 618 | Bea Miles |
@@ -186,8 +186,8 @@
 | 178 | 430 | Jeni Dow |
 | 179 | 428 | Araceli Parra |
 | 180 | 427 | Wendy Dearden |
-| 181 | 419 | Annie Déè |
-| 182 | 419 | Rochelle Hazelett |
+| 181 | 419 | Rochelle Hazelett |
+| 182 | 419 | Annie Déè |
 | 183 | 417 | Edwin Calvillo Jr. |
 | 184 | 416 | Staci George Fitzsimmons |
 | 185 | 416 | Shunta Jacobs |
@@ -211,8 +211,8 @@
 | 203 | 378 | Chris Bell |
 | 204 | 377 | Darlene McMillan |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Giddy Twistbuilder |
-| 207 | 372 | Tom Nault |
+| 206 | 372 | Tom Nault |
+| 207 | 372 | Giddy Twistbuilder |
 | 208 | 370 | Santeria Trece Candles |
 | 209 | 369 | Sarah Moyer |
 | 210 | 368 | Stephanie Woods |
@@ -428,7 +428,7 @@
 | 420 | 182 | Alicia |
 | 421 | 182 | Joy Petroski |
 | 422 | 181 | Fancy Curver |
-| 423 | 180 | Ava Petito |
+| 423 | 180 | Sarah Whalen |
 | 424 | 180 | Beth Ingham |
 | 425 | 180 | Ava Petito |
 | 426 | 179 | Skinny Baldez |

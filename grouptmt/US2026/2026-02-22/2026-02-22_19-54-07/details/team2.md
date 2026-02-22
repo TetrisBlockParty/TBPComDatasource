@@ -138,8 +138,8 @@
 | 130 | 1441 | Jessie McDougald |
 | 131 | 1439 | Jumpy Gridpiece |
 | 132 | 1418 | L3sli3 |
-| 133 | 1411 | niecy |
-| 134 | 1411 | Zappy Cascade |
+| 133 | 1411 | Zappy Cascade |
+| 134 | 1411 | niecy |
 | 135 | 1401 | Brandy Andre |
 | 136 | 1392 | Katrina Williams Balmir |
 | 137 | 1390 | Erica Williams |
@@ -279,8 +279,8 @@
 | 271 | 867 | Peppy Zone |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
-| 274 | 860 | William Hunt |
-| 275 | 860 | April Dawn Gussler |
+| 274 | 860 | April Dawn Gussler |
+| 275 | 860 | William Hunt |
 | 276 | 857 | Kara Gillen |
 | 277 | 855 | F-X |
 | 278 | 853 | Meghan M |
@@ -361,8 +361,8 @@
 | 353 | 700 | Vincent Petrella |
 | 354 | 700 | Rosemadder |
 | 355 | 700 | Beverly Owens |
-| 356 | 697 | Ashle Scranton |
-| 357 | 697 | Dreamy Blast |
+| 356 | 697 | Dreamy Blast |
+| 357 | 697 | Ashle Scranton |
 | 358 | 695 | Mama T |
 | 359 | 695 | Dannette Goldberg-Richards |
 | 360 | 695 | Lakeysha Dortch |
@@ -391,8 +391,8 @@
 | 383 | 661 | Christine Bollig |
 | 384 | 653 | Alex Dungo Hoang |
 | 385 | 651 | Unica Rector |
-| 386 | 650 | Shiny Rollzone |
-| 387 | 650 | Amber Brion |
+| 386 | 650 | Amber Brion |
+| 387 | 650 | Shiny Rollzone |
 | 388 | 648 | AgileDragon |
 | 389 | 644 | Kimmy Newman |
 | 390 | 643 | Hoppy Brickmatch |
@@ -489,8 +489,8 @@
 | 481 | 533 | Davetta Sanford |
 | 482 | 532 | Ann Matzkanin |
 | 483 | 532 | Belle Mari |
-| 484 | 531 | Aishah Brice |
-| 485 | 531 | Briana Alexander |
+| 484 | 531 | Briana Alexander |
+| 485 | 531 | Aishah Brice |
 | 486 | 530 | Denise Rickman |
 | 487 | 529 | Victoria Regina Girolami |
 | 488 | 528 | Anita Rose Green |

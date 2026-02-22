@@ -117,8 +117,8 @@
 | 109 | 440 | Lori Walker |
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
-| 112 | 427 | Jolly Dashfit |
-| 113 | 427 | KJ Pool |
+| 112 | 427 | KJ Pool |
+| 113 | 427 | Jolly Dashfit |
 | 114 | 426 | Ren Mc |
 | 115 | 422 | shar |
 | 116 | 415 | Monica Daley |
@@ -204,15 +204,15 @@
 | 196 | 249 | Cheery Risebuilder |
 | 197 | 248 | Chirpy Basepiece |
 | 198 | 247 | Dennis Bradley |
-| 199 | 246 | Carlos Ramirez |
-| 200 | 246 | Lindsey Gonzalez |
-| 201 | 245 | Autum Leigh |
-| 202 | 245 | 23 |
+| 199 | 246 | Lindsey Gonzalez |
+| 200 | 246 | Carlos Ramirez |
+| 201 | 245 | 23 |
+| 202 | 245 | Autum Leigh |
 | 203 | 244 | Twisty Cascadezone |
 | 204 | 243 | Jose Dejesus |
 | 205 | 243 | Mr. Party |
-| 206 | 241 | Allen Lloyd |
-| 207 | 241 | Kristina Black |
+| 206 | 241 | Kristina Black |
+| 207 | 241 | Allen Lloyd |
 | 208 | 240 | Zethra Prenisha Rahming |
 | 209 | 238 | JPW |
 | 210 | 237 | Melvin Baird |
@@ -454,7 +454,7 @@
 | 446 | 118 | Perky Piecegrid |
 | 447 | 118 | Badatvs |
 | 448 | 117 | David V. Bowers |
-| 449 | 117 | Sharyn Lemire |
+| 449 | 117 | Selena Shaw |
 | 450 | 117 | Shiny Pivoty |
 | 451 | 117 | Sharyn Lemire |
 | 452 | 116 | Zesty Linkgrid |
