@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Desiree Harris Rosch |
-| 167 | 941 | Marie Boyd Faulk |
+| 166 | 941 | Marie Boyd Faulk |
+| 167 | 941 | Desiree Harris Rosch |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -333,8 +333,8 @@
 | 325 | 535 | Jessie McDougald |
 | 326 | 528 | Steven Marshaun |
 | 327 | 527 | Julie Kresal |
-| 328 | 527 | Heather Causey |
-| 329 | 527 | Ryan Gunther |
+| 328 | 527 | Ryan Gunther |
+| 329 | 527 | Heather Causey |
 | 330 | 526 | Sheronda Jackson |
 | 331 | 525 | Desiree Anderson |
 | 332 | 524 | Jojo Momma |

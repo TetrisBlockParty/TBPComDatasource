@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Joey Banks |
-| 44 | 989 | Kay |
+| 43 | 989 | Kay |
+| 44 | 989 | Joey Banks |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Kristie |
-| 107 | 500 | Domo Washington |
+| 106 | 500 | Domo Washington |
+| 107 | 500 | Kristie |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -206,8 +206,8 @@
 | 198 | 276 | _melisa223_ |
 | 199 | 276 | Crimson |
 | 200 | 274 | Tye Stovall |
-| 201 | 272 | opf |
-| 202 | 272 | Dee Franklin |
+| 201 | 272 | Dee Franklin |
+| 202 | 272 | opf |
 | 203 | 271 | Ashley Muncey |
 | 204 | 267 | Terry Jo Jones |
 | 205 | 267 | Denise Nardoni |
@@ -223,8 +223,8 @@
 | 215 | 260 | Grams |
 | 216 | 258 | Tamara Deherrera |
 | 217 | 257 | Ashley Jones |
-| 218 | 256 | Tiffany Davie |
-| 219 | 256 | KayB |
+| 218 | 256 | KayB |
+| 219 | 256 | Tiffany Davie |
 | 220 | 256 | Brenda Lee Vander Molen |
 | 221 | 255 | Ammmmmmy |
 | 222 | 253 | Nora Rogers |
@@ -253,9 +253,9 @@
 | 245 | 216 | rosy |
 | 246 | 215 | Alice |
 | 247 | 215 | IamJust Neyamijah Washington Sr. |
-| 248 | 214 | Connie Mohler-Fair |
-| 249 | 214 | Amy Fuller Heaton |
-| 250 | 214 | Rebel124 |
+| 248 | 214 | Rebel124 |
+| 249 | 214 | Connie Mohler-Fair |
+| 250 | 214 | Amy Fuller Heaton |
 | 251 | 213 | Trisha Balmer |
 | 252 | 212 | LaTanya GeminiondaRise Johnson |
 | 253 | 212 | Twisty Brick LT |
