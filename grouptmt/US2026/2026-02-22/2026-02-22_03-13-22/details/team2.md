@@ -181,8 +181,8 @@
 | 173 | 865 | Dedra Steward |
 | 174 | 861 | Jennifer Peachey |
 | 175 | 857 | Della Hole |
-| 176 | 850 | Missie Lawson Gebhardt |
-| 177 | 850 | Stephanie Chapman |
+| 176 | 850 | Stephanie Chapman |
+| 177 | 850 | Missie Lawson Gebhardt |
 | 178 | 849 | Jennifer Kistner |
 | 179 | 845 | April Dawn Gussler |
 | 180 | 838 | Tralonda Weeks |
@@ -225,15 +225,15 @@
 | 217 | 709 | Jerilyn Andrina |
 | 218 | 705 | Lola Contreras |
 | 219 | 705 | Roger Grabbit |
-| 220 | 700 | Rosemadder |
-| 221 | 700 | Beverly Owens |
+| 220 | 700 | Beverly Owens |
+| 221 | 700 | Rosemadder |
 | 222 | 700 | Vincent Petrella |
 | 223 | 699 | Vo'Landa Reels |
 | 224 | 698 | Mighty Shatterfit |
 | 225 | 697 | Dreamy Blast |
-| 226 | 692 | Dannette Goldberg-Richards |
-| 227 | 692 | Jennifer Casey-Kay |
-| 228 | 692 | Chelle |
+| 226 | 692 | Chelle |
+| 227 | 692 | Dannette Goldberg-Richards |
+| 228 | 692 | Jennifer Casey-Kay |
 | 229 | 690 | Deborah Miller |
 | 230 | 688 | ShinyRose |
 | 231 | 687 | Trista Dumais |
@@ -330,8 +330,8 @@
 | 322 | 509 | Jordan Kaiser |
 | 323 | 507 | Magic steve |
 | 324 | 504 | Lylymom |
-| 325 | 502 | Sparkles |
-| 326 | 502 | Poppy Snap |
+| 325 | 502 | Poppy Snap |
+| 326 | 502 | Sparkles |
 | 327 | 500 | Sarah Ridenour |
 | 328 | 499 | Sarah Massey |
 | 329 | 498 | Traci Johnson |
@@ -715,8 +715,8 @@
 | 707 | 257 | Jackie Jackie Lee |
 | 708 | 256 | Brenna Yearian |
 | 709 | 256 | Quirky Twistline |
-| 710 | 256 | Andrea Devery Beck |
-| 711 | 256 | Amy Humphreys |
+| 710 | 256 | Amy Humphreys |
+| 711 | 256 | Andrea Devery Beck |
 | 712 | 255 | DefaultUser |
 | 713 | 255 | Tom Steffen |
 | 714 | 255 | ElizabethAnn Dickinson |

@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Alicia Bass |
-| 73 | 396 | Amy Suckarieh |
+| 72 | 396 | Amy Suckarieh |
+| 73 | 396 | Alicia Bass |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -126,8 +126,8 @@
 | 118 | 240 | Leah Kutz Zirbel |
 | 119 | 239 | Kristin Manee |
 | 120 | 237 | Peachy Fall |
-| 121 | 235 | Lucas J Sutton |
-| 122 | 235 | Scott Jameson |
+| 121 | 235 | Scott Jameson |
+| 122 | 235 | Lucas J Sutton |
 | 123 | 232 | Crystal Nicolette Moore |
 | 124 | 231 | Chastity Mitchell |
 | 125 | 230 | Autum Leigh |
@@ -144,8 +144,8 @@
 | 136 | 215 | Jessica Bohlken |
 | 137 | 212 | Mike Solo |
 | 138 | 212 | Calvin Cannon |
-| 139 | 211 | Jenna McGeorge |
-| 140 | 211 | Twisty Cascadezone |
+| 139 | 211 | Twisty Cascadezone |
+| 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
 | 142 | 205 | Sarah Neathery |
 | 143 | 205 | Tyler Terrific |
@@ -188,8 +188,8 @@
 | 180 | 160 | James Hurley Jr. |
 | 181 | 160 | Carlos Ramirez |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Avy Absol |
-| 184 | 158 | Chair |
+| 183 | 158 | Chair |
+| 184 | 158 | Avy Absol |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 154 | Laura Hosford |

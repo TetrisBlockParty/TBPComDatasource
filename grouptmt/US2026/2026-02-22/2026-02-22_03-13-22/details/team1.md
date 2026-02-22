@@ -238,8 +238,8 @@
 | 230 | 135 | Aimee Horton |
 | 231 | 134 | LD1 |
 | 232 | 133 | Fmp |
-| 233 | 132 | Larry Tilton |
-| 234 | 132 | Layzietyme |
+| 233 | 132 | Layzietyme |
+| 234 | 132 | Larry Tilton |
 | 235 | 131 | Jessie |
 | 236 | 131 | Tawnya Peltonen |
 | 237 | 131 | Uhog SF |
