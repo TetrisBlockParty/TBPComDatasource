@@ -358,8 +358,8 @@
 | 350 | 661 | BeQuo |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
-| 353 | 650 | Shiny Rollzone |
-| 354 | 650 | Amber Brion |
+| 353 | 650 | Amber Brion |
+| 354 | 650 | Shiny Rollzone |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
 | 357 | 640 | Kara Gillen |
@@ -647,9 +647,9 @@
 | 639 | 389 | Julie Hamilton |
 | 640 | 388 | ruth |
 | 641 | 388 | Connie Jimenez |
-| 642 | 387 | Jessica Hughes |
+| 642 | 387 | Bold Brickster |
 | 643 | 387 | Misti Markijohn |
-| 644 | 387 | Bold Brickster |
+| 644 | 387 | Jessica Hughes |
 | 645 | 385 | Tansaria Couch-Butler |
 | 646 | 384 | Mary Marie |
 | 647 | 384 | Lawanda Forbes |

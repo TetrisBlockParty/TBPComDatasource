@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 767 | Shannon Ferrari |
 | 48 | 766 | Robin Watters |
 | 49 | 762 | TeeJ |
@@ -162,19 +162,19 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Kathy Brookins |
 | 163 | 267 | Damn Libra |
-| 164 | 265 | Jeff Brian Gates |
-| 165 | 265 | Chris Bernstein |
+| 164 | 265 | Chris Bernstein |
+| 165 | 265 | Jeff Brian Gates |
 | 166 | 264 | Epic Curvetile |
 | 167 | 264 | Girl |
-| 168 | 262 | Joeliecea Cobb |
-| 169 | 262 | Holly Jolly |
+| 168 | 262 | Holly Jolly |
+| 169 | 262 | Joeliecea Cobb |
 | 170 | 262 | Juls |
 | 171 | 256 | Mylo Lipscomb |
 | 172 | 256 | Porkobello |
@@ -229,8 +229,8 @@
 | 221 | 203 | Katherine Crane |
 | 222 | 202 | Patron Anderson |
 | 223 | 201 | Melvin Baird |
-| 224 | 200 | Googenheim |
-| 225 | 200 | Rebecca Morris |
+| 224 | 200 | Rebecca Morris |
+| 225 | 200 | Googenheim |
 | 226 | 200 | Lori |
 | 227 | 199 | April Rondinone |
 | 228 | 198 | Keith Kelley |
@@ -243,8 +243,8 @@
 | 235 | 193 | Rio Rocha |
 | 236 | 192 | Shauna Havard |
 | 237 | 191 | Klo |
-| 238 | 190 | Snippy Puzzle |
-| 239 | 190 | Cheery Risebuilder |
+| 238 | 190 | Cheery Risebuilder |
+| 239 | 190 | Snippy Puzzle |
 | 240 | 189 | Dihcheese444 |
 | 241 | 189 | 030Synner |
 | 242 | 186 | Holly |
@@ -385,8 +385,8 @@
 | 377 | 124 | Atia Scott |
 | 378 | 124 | Marcela Johnson |
 | 379 | 123 | Joseph Edmonson |
-| 380 | 122 | Denise B |
-| 381 | 122 | PennyCandee |
+| 380 | 122 | PennyCandee |
+| 381 | 122 | Denise B |
 | 382 | 121 | Cool Gridzone |
 | 383 | 121 | Riverdale |
 | 384 | 120 | wombat |

@@ -130,8 +130,8 @@
 | 122 | 526 | Cynthia Castros-Hampton |
 | 123 | 525 | Justin Ritter |
 | 124 | 521 | Michael Nowogorski |
-| 125 | 521 | Daryn Elliott |
-| 126 | 521 | Michelle Becker |
+| 125 | 521 | Michelle Becker |
+| 126 | 521 | Daryn Elliott |
 | 127 | 518 | opf |
 | 128 | 506 | Sashay Tapae Simpson |
 | 129 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -141,9 +141,9 @@
 | 133 | 492 | Daira Largen |
 | 134 | 491 | Chauntee Alfrey-Cardinale |
 | 135 | 480 | Stephanie Blkpep Davidson |
-| 136 | 479 | Patti Skiles |
+| 136 | 479 | Poppy Splitter |
 | 137 | 479 | Annie Marie |
-| 138 | 479 | Poppy Splitter |
+| 138 | 479 | Patti Skiles |
 | 139 | 478 | CeceGeGe |
 | 140 | 476 | Mary Pellegrino |
 | 141 | 473 | mzcatzy |
@@ -217,8 +217,8 @@
 | 209 | 332 | Rich LeBlanc |
 | 210 | 330 | Rebecca Funderburk Kirby |
 | 211 | 330 | Danielle Balcom |
-| 212 | 324 | Kristal C Lee |
-| 213 | 324 | Sissy Lowery Davis |
+| 212 | 324 | Sissy Lowery Davis |
+| 213 | 324 | Kristal C Lee |
 | 214 | 323 | Demetrious Shaw Sr. |
 | 215 | 320 | LaTanya GeminiondaRise Johnson |
 | 216 | 320 | Ashley Muncey |
@@ -269,13 +269,13 @@
 | 261 | 271 | Alexmac |
 | 262 | 269 | Danielle Weikel |
 | 263 | 268 | Krystal Gerstberger |
-| 264 | 267 | April Matthew Kibble |
-| 265 | 267 | Tiffany Davie |
+| 264 | 267 | Tiffany Davie |
+| 265 | 267 | April Matthew Kibble |
 | 266 | 266 | Quirky Dropzone |
 | 267 | 264 | Nikki Pags |
 | 268 | 263 | Brenda Schmid Wood |
-| 269 | 262 | Joe-Maggie Mathews |
-| 270 | 262 | Ray Lader |
+| 269 | 262 | Ray Lader |
+| 270 | 262 | Joe-Maggie Mathews |
 | 271 | 261 | Tiffany Ford |
 | 272 | 260 | Grams |
 | 273 | 258 | IamJust Neyamijah Washington Sr. |
@@ -291,8 +291,8 @@
 | 283 | 244 | LaNette Morgan |
 | 284 | 244 | Christian Werndl |
 | 285 | 243 | Foltz Lee Kelli |
-| 286 | 241 | LaShey Thompson |
-| 287 | 241 | France Vézina |
+| 286 | 241 | France Vézina |
+| 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
 | 290 | 238 | Niki Dalrymple |

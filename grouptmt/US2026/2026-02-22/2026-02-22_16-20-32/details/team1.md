@@ -86,8 +86,8 @@
 | 78 | 472 | April Carroll |
 | 79 | 471 | Jennifer ManWarren |
 | 80 | 456 | Arianna O'Brien |
-| 81 | 444 | Lexuriuos Lifestlye |
-| 82 | 444 | Hyper |
+| 81 | 444 | Hyper |
+| 82 | 444 | Lexuriuos Lifestlye |
 | 83 | 443 | Steve Schneider |
 | 84 | 436 | Tonya Beasley |
 | 85 | 433 | Trina Gee |
@@ -129,8 +129,8 @@
 | 121 | 334 | Jaimie Lynn |
 | 122 | 333 | Gracie |
 | 123 | 332 | Kristen Gideon |
-| 124 | 330 | Sweet Baker |
-| 125 | 330 | Elaine Elaine |
+| 124 | 330 | Elaine Elaine |
+| 125 | 330 | Sweet Baker |
 | 126 | 326 | Monica Donato |
 | 127 | 325 | Jennifer Hardman |
 | 128 | 321 | Tanya Carpenter-Reynolds |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Erez Yosef |
-| 198 | 223 | Basment Living |
+| 197 | 223 | Basment Living |
+| 198 | 223 | Erez Yosef |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | And |
 | 201 | 221 | Daring Fitclear |
