@@ -140,8 +140,8 @@
 | 132 | 328 | Fmp |
 | 133 | 326 | Monica Donato |
 | 134 | 325 | Jennifer Hardman |
-| 135 | 321 | Tanya Carpenter-Reynolds |
-| 136 | 321 | Maria C. Hernandez |
+| 135 | 321 | Maria C. Hernandez |
+| 136 | 321 | Tanya Carpenter-Reynolds |
 | 137 | 318 | Jessica Sheehan |
 | 138 | 316 | Dizzy Party |
 | 139 | 313 | Virginia Gray Floyd |
@@ -176,7 +176,7 @@
 | 168 | 268 | Amanda Jarnagin |
 | 169 | 268 | Christy Jones |
 | 170 | 268 | Jessi Sauer |
-| 171 | 265 | Nutty Spinblock |
+| 171 | 265 | Shiny Snapfit |
 | 172 | 265 | Kandae |
 | 173 | 265 | Nutty Spinblock |
 | 174 | 265 | SkipTheSadSauce |
@@ -222,8 +222,8 @@
 | 214 | 223 | Basment Living |
 | 215 | 222 | Debbie Davis |
 | 216 | 221 | Daring Fitclear |
-| 217 | 220 | Jessie Lynn |
-| 218 | 220 | Giddy Cascade |
+| 217 | 220 | Giddy Cascade |
+| 218 | 220 | Jessie Lynn |
 | 219 | 219 | Chuck Gannon |
 | 220 | 216 | Shauntina Burke |
 | 221 | 216 | Jason Savage |
@@ -233,7 +233,7 @@
 | 225 | 215 | Panda Thagreat |
 | 226 | 213 | Speedy Liney |
 | 227 | 213 | Shanae Grant |
-| 228 | 213 | Speedy Liney |
+| 228 | 213 | Angela Fairbank |
 | 229 | 211 | Erin Rosberg |
 | 230 | 210 | Jessie Welch |
 | 231 | 209 | Jeanna Dunn |

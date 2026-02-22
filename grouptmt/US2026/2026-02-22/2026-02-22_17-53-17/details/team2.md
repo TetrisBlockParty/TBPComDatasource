@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Angela Bonquiqui Dinish |
-| 234 | 915 | Robin Kerby |
+| 233 | 915 | Robin Kerby |
+| 234 | 915 | Angela Bonquiqui Dinish |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -426,10 +426,10 @@
 | 418 | 579 | Roy Salyer |
 | 419 | 576 | Leslie Johnson Guinto |
 | 420 | 572 | Chris Wanner |
-| 421 | 571 | Fancy Twister |
-| 422 | 571 | Emily Lyric Converse |
-| 423 | 569 | Dapper Dasher |
-| 424 | 569 | Vaniel Glover |
+| 421 | 571 | Emily Lyric Converse |
+| 422 | 571 | Fancy Twister |
+| 423 | 569 | Vaniel Glover |
+| 424 | 569 | Dapper Dasher |
 | 425 | 567 | Michelle Fields |
 | 426 | 566 | Leah Keesling |
 | 427 | 565 | Steve Man |
@@ -476,8 +476,8 @@
 | 468 | 520 | Joshua Self |
 | 469 | 519 | Rob Brown |
 | 470 | 517 | Alex Dungo Hoang |
-| 471 | 517 | Porsche' Nicole |
-| 472 | 517 | Brenna Ann |
+| 471 | 517 | Brenna Ann |
+| 472 | 517 | Porsche' Nicole |
 | 473 | 516 | Diamond Scott |
 | 474 | 514 | Sarah Berger |
 | 475 | 514 | Karen Posadas Centeno |
@@ -485,8 +485,8 @@
 | 477 | 512 | Magic steve |
 | 478 | 511 | Adam Simmons |
 | 479 | 511 | Laura Mclean |
-| 480 | 509 | Jordan Kaiser |
-| 481 | 509 | Kelli Wells |
+| 480 | 509 | Kelli Wells |
+| 481 | 509 | Jordan Kaiser |
 | 482 | 507 | Kitybox |
 | 483 | 507 | Daniell Martinez |
 | 484 | 502 | Michael Artis |
@@ -650,7 +650,7 @@
 | 642 | 399 | Oscar Bernie |
 | 643 | 399 | Crystal Heller Gonzalez |
 | 644 | 398 | Lathasa Newkirk |
-| 645 | 398 | Ebony Deloach Bryant |
+| 645 | 398 | Heather Sawtelle-Mckenzie |
 | 646 | 398 | Frisky Riserbuilder |
 | 647 | 398 | Ebony Deloach Bryant |
 | 648 | 398 | Angela Murgia-Owen |

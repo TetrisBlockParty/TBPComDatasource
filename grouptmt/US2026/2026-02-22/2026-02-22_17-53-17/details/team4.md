@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 550 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -129,12 +129,12 @@
 | 121 | 369 | Nope Young |
 | 122 | 362 | Carrie Brian |
 | 123 | 354 | Serena Goodridge |
-| 124 | 353 | Livvy |
-| 125 | 353 | Tyler Terrific |
+| 124 | 353 | Tyler Terrific |
+| 125 | 353 | Livvy |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
-| 128 | 338 | Lucas J Sutton |
-| 129 | 338 | ThaEviLJeNiuZ |
+| 128 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
 | 131 | 332 | Desi Desporte |
 | 132 | 332 | HastyGrabber |
@@ -338,10 +338,10 @@
 | 330 | 143 | Daresha Fair |
 | 331 | 143 | Asher |
 | 332 | 143 | Metsfan |
-| 333 | 142 | Chaz |
-| 334 | 142 | Nerdy Twisterfit |
-| 335 | 142 | Chantilly Laace |
-| 336 | 142 | Alexandra Karavias |
+| 333 | 142 | Nerdy Twisterfit |
+| 334 | 142 | Chaz |
+| 335 | 142 | Alexandra Karavias |
+| 336 | 142 | Chantilly Laace |
 | 337 | 141 | Tony Pavelka |
 | 338 | 141 | Kathy Allen |
 | 339 | 141 | Montiette Mcglown |

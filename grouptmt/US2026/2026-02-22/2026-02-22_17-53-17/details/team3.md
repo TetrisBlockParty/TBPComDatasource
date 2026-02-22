@@ -127,8 +127,8 @@
 | 119 | 579 | Jd Morris |
 | 120 | 574 | Morgan Martinez |
 | 121 | 568 | Rachael McClain Owens |
-| 122 | 562 | Louise Stacy Sisson |
-| 123 | 562 | Dave Herzog |
+| 122 | 562 | Dave Herzog |
+| 123 | 562 | Louise Stacy Sisson |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Loopy Fallmatch |
-| 204 | 362 | Brandon Givens |
+| 203 | 362 | Brandon Givens |
+| 204 | 362 | Loopy Fallmatch |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -220,8 +220,8 @@
 | 212 | 344 | Roary Danner |
 | 213 | 344 | Trisha Balmer |
 | 214 | 343 | Ashley Raines |
-| 215 | 341 | Noyb Adam |
-| 216 | 341 | Samantha Lynn |
+| 215 | 341 | Samantha Lynn |
+| 216 | 341 | Noyb Adam |
 | 217 | 341 | Ashley Tookes |
 | 218 | 340 | Ammmmmmy |
 | 219 | 339 | Rania Zaqout |
@@ -268,19 +268,19 @@
 | 260 | 278 | Rufus Lincoln |
 | 261 | 277 | Tracy Martin |
 | 262 | 276 | Crimson |
-| 263 | 276 | _melisa223_ |
-| 264 | 276 | Connie Mohler-Fair |
+| 263 | 276 | Connie Mohler-Fair |
+| 264 | 276 | _melisa223_ |
 | 265 | 275 | Cassandra Bryant |
 | 266 | 272 | fraulila |
 | 267 | 272 | Tasha Wesson-Torrence |
-| 268 | 271 | Cass Mendoza |
-| 269 | 271 | Grego Daniel |
+| 268 | 271 | Grego Daniel |
+| 269 | 271 | Cass Mendoza |
 | 270 | 271 | Alexmac |
 | 271 | 268 | Krystal Gerstberger |
-| 272 | 267 | April Matthew Kibble |
-| 273 | 267 | Tiffany Davie |
-| 274 | 266 | Quirky Dropzone |
-| 275 | 266 | Snappy Balancer |
+| 272 | 267 | Tiffany Davie |
+| 273 | 267 | April Matthew Kibble |
+| 274 | 266 | Snappy Balancer |
+| 275 | 266 | Quirky Dropzone |
 | 276 | 265 | Nikki Pags |
 | 277 | 263 | Troy |
 | 278 | 263 | Brenda Schmid Wood |
