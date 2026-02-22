@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | Jennifer ManWarren |
-| 82 | 388 | cc |
+| 81 | 388 | cc |
+| 82 | 388 | Jennifer ManWarren |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -208,8 +208,8 @@
 | 200 | 189 | Jeanna Dunn |
 | 201 | 187 | Amanda Johnson Huffman |
 | 202 | 187 | Cool Towerzone |
-| 203 | 186 | Margo Wagner |
-| 204 | 186 | Erin Hodges Plumb |
+| 203 | 186 | Erin Hodges Plumb |
+| 204 | 186 | Margo Wagner |
 | 205 | 183 | Andrew Boone |
 | 206 | 183 | Amy Hess |
 | 207 | 180 | BigWeenie69 |
@@ -342,7 +342,7 @@
 | 334 | 112 | Chris65 |
 | 335 | 112 | Glitzy Curvebuilder |
 | 336 | 111 | Damon J. Martin |
-| 337 | 110 | Jen |
+| 337 | 110 | Jennifer Corrado |
 | 338 | 110 | Jodee Woods |
 | 339 | 110 | Dandy Towerbuilder |
 | 340 | 110 | Jen |

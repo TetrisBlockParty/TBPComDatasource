@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -48,14 +48,14 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Rachel Anne |
-| 44 | 707 | Clarence Patawaran |
+| 43 | 707 | Clarence Patawaran |
+| 44 | 707 | Rachel Anne |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
 | 48 | 661 | D3TROITB0RN74 |
-| 49 | 659 | Rebecca Moulton Pinciaro |
-| 50 | 659 | Jonathan Kimbrough |
+| 49 | 659 | Jonathan Kimbrough |
+| 50 | 659 | Rebecca Moulton Pinciaro |
 | 51 | 658 | loulou |
 | 52 | 654 | Chilly Line |
 | 53 | 652 | Anthony Bryan Riva |
@@ -129,8 +129,8 @@
 | 121 | 294 | Kesha Brady |
 | 122 | 290 | 🥔🥔 Spudz |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | Daria Rycewicz |
-| 125 | 286 | shark tato |
+| 124 | 286 | shark tato |
+| 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Desi Desporte |
@@ -148,8 +148,8 @@
 | 140 | 253 | Jeff Brian Gates |
 | 141 | 249 | Leah Kutz Zirbel |
 | 142 | 245 | Diana Houts |
-| 143 | 244 | Twisty Cascadezone |
-| 144 | 244 | Calvin Cannon |
+| 143 | 244 | Calvin Cannon |
+| 144 | 244 | Twisty Cascadezone |
 | 145 | 240 | Peachy Fall |
 | 146 | 239 | Chris Baggett |
 | 147 | 232 | Crystal Nicolette Moore |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Chance Strickland |
-| 178 | 201 | Melvin Baird |
+| 177 | 201 | Melvin Baird |
+| 178 | 201 | Chance Strickland |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |
@@ -225,7 +225,7 @@
 | 217 | 160 | Laura Hosford |
 | 218 | 160 | Brittany Marsh |
 | 219 | 159 | Marcus Todd |
-| 220 | 158 | Ashley Ingram |
+| 220 | 158 | Chair |
 | 221 | 158 | Avy Absol |
 | 222 | 158 | Ashley Ingram |
 | 223 | 157 | scott |
@@ -270,8 +270,8 @@
 | 262 | 138 | Nick Gray |
 | 263 | 137 | Brianna Walker |
 | 264 | 137 | PeaceOs |
-| 265 | 136 | Maureen Flanigan |
-| 266 | 136 | Michelle Morris |
+| 265 | 136 | Michelle Morris |
+| 266 | 136 | Maureen Flanigan |
 | 267 | 135 | Joshua Guess |
 | 268 | 134 | Duck |
 | 269 | 134 | Angelito |

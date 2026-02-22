@@ -128,8 +128,8 @@
 | 120 | 1273 | Cool Rollpiece |
 | 121 | 1257 | Eileen Hale |
 | 122 | 1252 | Katrina Williams Balmir |
-| 123 | 1248 | Howard Forest |
-| 124 | 1248 | Isabela Shaw |
+| 123 | 1248 | Isabela Shaw |
+| 124 | 1248 | Howard Forest |
 | 125 | 1242 | Altamirano Michael |
 | 126 | 1237 | L3sli3 |
 | 127 | 1232 | Groovy Puzzle |
@@ -326,8 +326,8 @@
 | 318 | 627 | Victoria Moore-Smith |
 | 319 | 619 | Brandon Armstrong |
 | 320 | 619 | Jánine Riggs |
-| 321 | 617 | Leslie Ann Carter |
-| 322 | 617 | tejas25 |
+| 321 | 617 | tejas25 |
+| 322 | 617 | Leslie Ann Carter |
 | 323 | 613 | Ellie Jonas |
 | 324 | 611 | Em Chen |
 | 325 | 611 | Julio A Laracuente |
@@ -385,11 +385,11 @@
 | 377 | 524 | Jojo Momma |
 | 378 | 524 | Shaun Church |
 | 379 | 523 | Matt Johnson |
-| 380 | 522 | Lylymom |
-| 381 | 522 | Joseph Musick |
+| 380 | 522 | Joseph Musick |
+| 381 | 522 | Lylymom |
 | 382 | 521 | Tj Ball |
-| 383 | 520 | Maddy Petersen |
-| 384 | 520 | Angela Lynn |
+| 383 | 520 | Angela Lynn |
+| 384 | 520 | Maddy Petersen |
 | 385 | 519 | Rob Brown |
 | 386 | 517 | Amber Brion |
 | 387 | 517 | Porsche' Nicole |
@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Jaye EL Hunter |
-| 447 | 463 | Sue Leard |
+| 446 | 463 | Sue Leard |
+| 447 | 463 | Jaye EL Hunter |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Daphne Jordan |
 | 450 | 462 | Amanda Ferrell |
@@ -700,8 +700,8 @@
 | 692 | 316 | Jenn Marie |
 | 693 | 316 | Epic Spinfit |
 | 694 | 316 | Johanna Massaro |
-| 695 | 314 | Amanda West |
-| 696 | 314 | Twisty Tetriblast |
+| 695 | 314 | Twisty Tetriblast |
+| 696 | 314 | Amanda West |
 | 697 | 314 | Anita Rose Green |
 | 698 | 313 | Snippy Block |
 | 699 | 313 | Marina Linda |
@@ -825,8 +825,8 @@
 | 817 | 264 | Ocean-Brianna McGregor |
 | 818 | 264 | Sanaa Nounoussa |
 | 819 | 264 | Maria Hammett |
-| 820 | 263 | Laura Wyatt |
-| 821 | 263 | Sara Pennington |
+| 820 | 263 | Sara Pennington |
+| 821 | 263 | Laura Wyatt |
 | 822 | 263 | Elizabeth Leinen |
 | 823 | 263 | Katherin Camacho |
 | 824 | 263 | Sunshine711 |

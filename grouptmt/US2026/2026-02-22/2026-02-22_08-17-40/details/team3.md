@@ -61,8 +61,8 @@
 | 53 | 909 | Jennifer |
 | 54 | 908 | Alanna Rogers |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -127,12 +127,12 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Christine Filson |
-| 123 | 480 | Stephanie Blkpep Davidson |
+| 122 | 480 | Stephanie Blkpep Davidson |
+| 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | CeceGeGe |
-| 127 | 473 | mzcatzy |
+| 126 | 473 | mzcatzy |
+| 127 | 473 | CeceGeGe |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Mcathen |
-| 152 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Jacqueline Rodriguez |
+| 152 | 399 | Mcathen |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Gumbo |
-| 182 | 338 | Leah Barnett |
+| 181 | 338 | Leah Barnett |
+| 182 | 338 | Gumbo |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -209,10 +209,10 @@
 | 201 | 300 | Sherika C. McDaniels |
 | 202 | 298 | MsBee |
 | 203 | 296 | Katrina Turner |
-| 204 | 296 | Ammmmmmy |
-| 205 | 296 | Brandon Givens |
-| 206 | 295 | RickyG |
-| 207 | 295 | Marci Mize Fandrich |
+| 204 | 296 | Brandon Givens |
+| 205 | 296 | Ammmmmmy |
+| 206 | 295 | Marci Mize Fandrich |
+| 207 | 295 | RickyG |
 | 208 | 291 | Kristal C Lee |
 | 209 | 289 | DidIdothat |
 | 210 | 289 | Hoppy Buildout |
@@ -277,8 +277,8 @@
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
-| 272 | 216 | Twisty Brick LT |
-| 273 | 216 | Cheryl Hinch Tenbrook |
+| 272 | 216 | Cheryl Hinch Tenbrook |
+| 273 | 216 | Twisty Brick LT |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
 | 275 | 214 | Rebel124 |
 | 276 | 214 | Angela Scott |
@@ -301,8 +301,8 @@
 | 293 | 202 | Staci George Fitzsimmons |
 | 294 | 201 | Hyper Matchzone |
 | 295 | 201 | Alexmac |
-| 296 | 200 | Sharisse Baltimore |
-| 297 | 200 | glichmod |
+| 296 | 200 | glichmod |
+| 297 | 200 | Sharisse Baltimore |
 | 298 | 200 | Saucy Buildout |
 | 299 | 198 | kacihall |
 | 300 | 195 | Nicha Hooker |
@@ -359,8 +359,8 @@
 | 351 | 161 | Michael Johnson |
 | 352 | 161 | Bouncy Blockbuilder |
 | 353 | 161 | Julia Nicole |
-| 354 | 159 | Joshua David Huie |
-| 355 | 159 | Salena Whitlock |
+| 354 | 159 | Salena Whitlock |
+| 355 | 159 | Joshua David Huie |
 | 356 | 158 | Willow |
 | 357 | 157 | Steffi Chris Dacones |
 | 358 | 157 | Katrina E Jelks |
@@ -403,8 +403,8 @@
 | 395 | 142 | Gray Hicks |
 | 396 | 141 | Weerae |
 | 397 | 141 | Melissa Snyder |
-| 398 | 140 | Linda Draper |
-| 399 | 140 | Boldy Corner |
+| 398 | 140 | Boldy Corner |
+| 399 | 140 | Linda Draper |
 | 400 | 140 | Alison Baus |
 | 401 | 140 | Jumpy Curvebuilder |
 | 402 | 139 | Paula Little |
@@ -424,8 +424,8 @@
 | 416 | 134 | gremicx |
 | 417 | 134 | Tammy |
 | 418 | 133 | Jen Lewis |
-| 419 | 132 | Hanna Kim |
-| 420 | 132 | Andrew Thorson |
+| 419 | 132 | Andrew Thorson |
+| 420 | 132 | Hanna Kim |
 | 421 | 131 | Cheeky Setter |
 | 422 | 130 | Sarah Whalen |
 | 423 | 130 | Karen Picaboo |
