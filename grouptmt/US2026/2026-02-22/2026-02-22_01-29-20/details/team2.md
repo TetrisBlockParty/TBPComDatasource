@@ -206,8 +206,8 @@
 | 198 | 709 | Jerilyn Andrina |
 | 199 | 705 | Lola Contreras |
 | 200 | 705 | Roger Grabbit |
-| 201 | 700 | Beverly Owens |
-| 202 | 700 | Rosemadder |
+| 201 | 700 | Rosemadder |
+| 202 | 700 | Beverly Owens |
 | 203 | 700 | Vincent Petrella |
 | 204 | 699 | Vo'Landa Reels |
 | 205 | 692 | Jennifer Casey-Kay |
@@ -261,8 +261,8 @@
 | 253 | 589 | Thomas Hedrick |
 | 254 | 587 | Hyper Cluster |
 | 255 | 586 | Hoppy Brickmatch |
-| 256 | 583 | Jessicah Myers |
-| 257 | 583 | Steve Grotto |
+| 256 | 583 | Steve Grotto |
+| 257 | 583 | Jessicah Myers |
 | 258 | 582 | Gary Stash |
 | 259 | 579 | Juliana Marques Do Nascimento Gordy |
 | 260 | 579 | Roy Salyer |
@@ -288,11 +288,11 @@
 | 280 | 535 | Jessie McDougald |
 | 281 | 535 | Paul Huber |
 | 282 | 531 | Chris Wanner |
-| 283 | 528 | Brownie Sheena |
-| 284 | 528 | Taylor Phillips |
-| 285 | 527 | Ryan Gunther |
-| 286 | 527 | Stacy Stickle |
-| 287 | 527 | Heather Causey |
+| 283 | 528 | Taylor Phillips |
+| 284 | 528 | Brownie Sheena |
+| 285 | 527 | Stacy Stickle |
+| 286 | 527 | Heather Causey |
+| 287 | 527 | Ryan Gunther |
 | 288 | 525 | Desiree Anderson |
 | 289 | 520 | Cheech Dta |
 | 290 | 519 | Rob Brown |
@@ -300,8 +300,8 @@
 | 292 | 514 | Laquetta Royston |
 | 293 | 514 | Dizzy Zone |
 | 294 | 511 | Laura Mclean |
-| 295 | 509 | Jordan Kaiser |
-| 296 | 509 | Kelli Wells |
+| 295 | 509 | Kelli Wells |
+| 296 | 509 | Jordan Kaiser |
 | 297 | 506 | Cherica Taylor |
 | 298 | 504 | Magic steve |
 | 299 | 503 | Matt Johnson |
@@ -393,11 +393,11 @@
 | 385 | 411 | Kristen O'Neal |
 | 386 | 411 | Ricky Fortune |
 | 387 | 406 | Erin StFrancis |
-| 388 | 406 | Véronique Lévesque Sabourin |
-| 389 | 406 | Tj Ball |
-| 390 | 406 | Véronique Lévesque Sabourin |
-| 391 | 403 | Tonya Lee |
-| 392 | 403 | Snippy Rumbler |
+| 388 | 406 | Julie Kresal |
+| 389 | 406 | Véronique Lévesque Sabourin |
+| 390 | 406 | Tj Ball |
+| 391 | 403 | Snippy Rumbler |
+| 392 | 403 | Tonya Lee |
 | 393 | 402 | Gauri Shrotriya |
 | 394 | 402 | Michelle Fields |
 | 395 | 401 | Taylor Flowers |
@@ -413,8 +413,8 @@
 | 405 | 393 | Ryan Meilleur |
 | 406 | 393 | Hillary Crawford |
 | 407 | 392 | Christine Bollig |
-| 408 | 391 | Chilly Bridgepiece |
-| 409 | 391 | Qiana Sanders |
+| 408 | 391 | Qiana Sanders |
+| 409 | 391 | Chilly Bridgepiece |
 | 410 | 389 | Alexis Richardson |
 | 411 | 387 | Johnny Yeates |
 | 412 | 387 | Ann Matzkanin |
@@ -433,8 +433,8 @@
 | 425 | 376 | Darlene Bowman |
 | 426 | 374 | Gloria Ininahazwe |
 | 427 | 374 | Vonceial Boone |
-| 428 | 371 | Brenda Messer |
-| 429 | 371 | AkaLefty |
+| 428 | 371 | AkaLefty |
+| 429 | 371 | Brenda Messer |
 | 430 | 371 | Wuntayk |
 | 431 | 371 | Jaycee |
 | 432 | 370 | Angela Lynn |
@@ -446,24 +446,24 @@
 | 438 | 366 | Smashanator |
 | 439 | 366 | Courtney Burcham |
 | 440 | 365 | Christina Lewis-Vickers |
-| 441 | 365 | Audrey Jones |
-| 442 | 365 | Susan Arnburg |
-| 443 | 365 | Kayla |
+| 441 | 365 | Kayla |
+| 442 | 365 | Audrey Jones |
+| 443 | 365 | Susan Arnburg |
 | 444 | 364 | Lively Edgepiece |
 | 445 | 364 | Shinette Dobson |
 | 446 | 363 | Happy Caster |
-| 447 | 362 | Adam Simmons |
-| 448 | 362 | Tracy Wise |
-| 449 | 362 | KayLynn Ogden McClelland |
+| 447 | 362 | Tracy Wise |
+| 448 | 362 | KayLynn Ogden McClelland |
+| 449 | 362 | Adam Simmons |
 | 450 | 359 | Offonar Facey |
 | 451 | 358 | Alyssaaelena |
 | 452 | 358 | Michelle Sager |
 | 453 | 357 | Shannon Byrd |
 | 454 | 355 | Jessica Lamb |
 | 455 | 354 | Connie Lepore-Mann |
-| 456 | 354 | F-X |
+| 456 | 354 | Lawanda Forbes |
 | 457 | 354 | Rickey Johnson |
-| 458 | 354 | Lawanda Forbes |
+| 458 | 354 | F-X |
 | 459 | 353 | Cheery Matchzone |
 | 460 | 352 | Andrea Maher |
 | 461 | 352 | Jean FU Jagielski |

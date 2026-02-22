@@ -61,8 +61,8 @@
 | 53 | 483 | Carmethia Clemons Haslerig |
 | 54 | 476 | Lisa Davis |
 | 55 | 466 | Dawn Alexander |
-| 56 | 459 | Brittney Griggs |
-| 57 | 459 | Jae Job |
+| 56 | 459 | Jae Job |
+| 57 | 459 | Brittney Griggs |
 | 58 | 458 | Michelle Marie |
 | 59 | 449 | Shelly Chandler |
 | 60 | 447 | Samantha Peterson |
@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |

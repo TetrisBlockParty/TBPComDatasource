@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Jennifer ManWarren |
-| 63 | 388 | Yvonne Marie |
+| 62 | 388 | Yvonne Marie |
+| 63 | 388 | Jennifer ManWarren |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -238,8 +238,8 @@
 | 230 | 124 | Alenoush Karimian |
 | 231 | 124 | Mark Smith |
 | 232 | 121 | Carl Claunch |
-| 233 | 120 | Silly Align |
-| 234 | 120 | Kimmie Kimms |
+| 233 | 120 | Kimmie Kimms |
+| 234 | 120 | Silly Align |
 | 235 | 119 | Desiree Deschaine Havee |
 | 236 | 119 | Strig |
 | 237 | 119 | Tater |

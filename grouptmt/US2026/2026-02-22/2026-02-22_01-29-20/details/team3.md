@@ -157,8 +157,8 @@
 | 149 | 316 | Rich LeBlanc |
 | 150 | 311 | Raya |
 | 151 | 308 | Jennifer Lynn Fahrenholtz-Summers |
-| 152 | 307 | Blocked |
-| 153 | 307 | rnr junky |
+| 152 | 307 | rnr junky |
+| 153 | 307 | Blocked |
 | 154 | 300 | Sherika C. McDaniels |
 | 155 | 293 | Poppy Splitter |
 | 156 | 290 | Santeria Trece Candles |
@@ -202,8 +202,8 @@
 | 194 | 233 | Ray Lader |
 | 195 | 227 | Krystal Gerstberger |
 | 196 | 226 | Grego Daniel |
-| 197 | 224 | Nicole Myers |
-| 198 | 224 | Araceli Parra |
+| 197 | 224 | Araceli Parra |
+| 198 | 224 | Nicole Myers |
 | 199 | 223 | Jeana Gilbert |
 | 200 | 221 | Eon Harris |
 | 201 | 219 | Shunta Jacobs |
