@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -156,8 +156,8 @@
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
-| 151 | 294 | Calvin Cannon |
-| 152 | 294 | Meagan Nicole |
+| 151 | 294 | Meagan Nicole |
+| 152 | 294 | Calvin Cannon |
 | 153 | 290 | Keshia Lyons |
 | 154 | 290 | Chaz Duncan |
 | 155 | 290 | 🥔🥔 Spudz |

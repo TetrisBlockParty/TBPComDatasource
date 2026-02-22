@@ -203,15 +203,15 @@
 | 195 | 377 | Danielle Balcom |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
-| 198 | 372 | Giddy Twistbuilder |
-| 199 | 372 | Tom Nault |
+| 198 | 372 | Tom Nault |
+| 199 | 372 | Giddy Twistbuilder |
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
 | 203 | 362 | Brandon Givens |
 | 204 | 362 | Loopy Fallmatch |
-| 205 | 358 | Chummy Caster |
-| 206 | 358 | RickyG |
+| 205 | 358 | RickyG |
+| 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
 | 208 | 353 | Nora Rogers |
 | 209 | 351 | Eon Harris |
@@ -221,8 +221,8 @@
 | 213 | 346 | Tamara Deherrera |
 | 214 | 344 | Roary Danner |
 | 215 | 343 | Ashley Raines |
-| 216 | 341 | Noyb Adam |
-| 217 | 341 | Samantha Lynn |
+| 216 | 341 | Samantha Lynn |
+| 217 | 341 | Noyb Adam |
 | 218 | 341 | Ashley Tookes |
 | 219 | 340 | Ammmmmmy |
 | 220 | 339 | Rania Zaqout |
@@ -339,8 +339,8 @@
 | 331 | 218 | Eileen Brady Thurber |
 | 332 | 218 | Tina Smith Roy |
 | 333 | 218 | Khaleada McGill Banks |
-| 334 | 217 | Snazzy Filler |
-| 335 | 217 | Goofy Fall |
+| 334 | 217 | Goofy Fall |
+| 335 | 217 | Snazzy Filler |
 | 336 | 216 | Cheryl Hinch Tenbrook |
 | 337 | 216 | Frothy Snapper |
 | 338 | 215 | Everret Maxine |
@@ -355,12 +355,12 @@
 | 347 | 210 | Criss |
 | 348 | 210 | Ashley Lynn Marchese |
 | 349 | 210 | Saucy Buildout |
-| 350 | 209 | TotoCherue |
-| 351 | 209 | Kirhonda Autmon |
+| 350 | 209 | Kirhonda Autmon |
+| 351 | 209 | TotoCherue |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | Kristian Thurman |
-| 355 | 207 | angieelyn |
+| 354 | 207 | angieelyn |
+| 355 | 207 | Kristian Thurman |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 205 | Emma |
@@ -370,7 +370,7 @@
 | 362 | 202 | Tipsy Zonebuilder |
 | 363 | 202 | Melanie Sherwood |
 | 364 | 201 | Hyper Matchzone |
-| 365 | 200 | glichmod |
+| 365 | 200 | Sharisse Baltimore |
 | 366 | 200 | Colleen Phelps |
 | 367 | 200 | glichmod |
 | 368 | 199 | Michael Kimbro |
@@ -432,7 +432,7 @@
 | 424 | 169 | Peachy Rollfit |
 | 425 | 168 | Snarky McFace |
 | 426 | 168 | Glitzy Rotate |
-| 427 | 168 | Snarky McFace |
+| 427 | 168 | Trice Thomas |
 | 428 | 168 | Geoffrey Nash |
 | 429 | 168 | Anna Moeller |
 | 430 | 167 | Irene Arreguin |
@@ -535,8 +535,8 @@
 | 527 | 139 | Cesar Mendez |
 | 528 | 139 | Brave Brickster |
 | 529 | 139 | Paula Little |
-| 530 | 138 | Daisy Rocha |
-| 531 | 138 | Bekah Dietrich |
+| 530 | 138 | Bekah Dietrich |
+| 531 | 138 | Daisy Rocha |
 | 532 | 138 | paranoid |
 | 533 | 137 | Giggly Brickroll |
 | 534 | 137 | Patty White |

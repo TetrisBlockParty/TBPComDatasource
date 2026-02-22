@@ -665,7 +665,7 @@
 | 657 | 393 | Smashanator |
 | 658 | 391 | Chilly Bridgepiece |
 | 659 | 391 | Jessica Conaway |
-| 660 | 391 | Chilly Bridgepiece |
+| 660 | 391 | Qiana Sanders |
 | 661 | 390 | Moist_B-hole |
 | 662 | 389 | Julie Hamilton |
 | 663 | 389 | Swanky Columnbuilder |
@@ -709,9 +709,9 @@
 | 701 | 369 | Lewis Sturgeon |
 | 702 | 369 | RaeVan Worthington |
 | 703 | 368 | Veronics |
-| 704 | 368 | Susan Arnburg |
-| 705 | 368 | Anthony D Gritz Jr |
-| 706 | 367 | Connie Lepore-Mann |
+| 704 | 368 | Anthony D Gritz Jr |
+| 705 | 368 | Susan Arnburg |
+| 706 | 367 | Melanie Csikortos |
 | 707 | 367 | Michelle Sager |
 | 708 | 367 | Connie Lepore-Mann |
 | 709 | 367 | Rose Fx |
