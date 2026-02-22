@@ -135,8 +135,8 @@
 | 127 | 280 | Jennifer Hardman |
 | 128 | 276 | Dandy Basegrid |
 | 129 | 265 | SkipTheSadSauce |
-| 130 | 264 | Jenny Gingrich Fuentes |
-| 131 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Jenny Gingrich Fuentes |
 | 132 | 263 | Sharon Reynolds |
 | 133 | 257 | Amanda Jarnagin |
 | 134 | 256 | David Miller |
@@ -220,7 +220,7 @@
 | 212 | 170 | Cece Ibarra |
 | 213 | 169 | Abbey Crespo |
 | 214 | 168 | Amber Stoker |
-| 215 | 167 | Bindi |
+| 215 | 167 | Cranky Pattern |
 | 216 | 167 | Nery Martinez |
 | 217 | 167 | Bindi |
 | 218 | 165 | Silly Align |
@@ -276,9 +276,9 @@
 | 268 | 131 | Tawnya Peltonen |
 | 269 | 131 | Barrbaric |
 | 270 | 131 | Uhog SF |
-| 271 | 130 | Carl Claunch |
-| 272 | 130 | Howdi Duty |
-| 273 | 130 | Gilbert Ortiz Jr. |
+| 271 | 130 | Gilbert Ortiz Jr. |
+| 272 | 130 | Carl Claunch |
+| 273 | 130 | Howdi Duty |
 | 274 | 129 | Sherri E Woods Hess |
 | 275 | 128 | Alyssa Ingram |
 | 276 | 128 | Chuck Gannon |

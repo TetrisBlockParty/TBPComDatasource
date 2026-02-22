@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Maegan Beaule |
-| 163 | 988 | Mr. Street Stack |
+| 162 | 988 | Mr. Street Stack |
+| 163 | 988 | Maegan Beaule |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Taylor Phillips |
 | 166 | 985 | Ashley House |
@@ -305,8 +305,8 @@
 | 297 | 640 | BYM4L |
 | 298 | 639 | Crystie Hicks |
 | 299 | 639 | Rebecca Miller |
-| 300 | 635 | Diana Fitzwater |
-| 301 | 635 | William Hunt |
+| 300 | 635 | William Hunt |
+| 301 | 635 | Diana Fitzwater |
 | 302 | 632 | Beth |
 | 303 | 631 | Marie Walker |
 | 304 | 629 | Sleepypanda67 |

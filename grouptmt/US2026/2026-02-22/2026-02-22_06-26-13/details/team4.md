@@ -76,8 +76,8 @@
 | 68 | 501 | H.R. Block |
 | 69 | 500 | Rodney McMath Jr. |
 | 70 | 486 | Landon Keith Graffeo |
-| 71 | 483 | TeeJ |
-| 72 | 483 | Carmethia Clemons Haslerig |
+| 71 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | TeeJ |
 | 73 | 476 | quicksand420 |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
@@ -125,8 +125,8 @@
 | 117 | 281 | Meagan Nicole |
 | 118 | 278 | Desi Desporte |
 | 119 | 278 | Carrie Brian |
-| 120 | 277 | Scott Jameson |
-| 121 | 277 | Mary Ann Pabukis |
+| 120 | 277 | Mary Ann Pabukis |
+| 121 | 277 | Scott Jameson |
 | 122 | 275 | Dizzy Tiley |
 | 123 | 274 | Tyler Terrific |
 | 124 | 271 | Sarah Brown |
@@ -188,8 +188,8 @@
 | 180 | 192 | Shauna Havard |
 | 181 | 191 | Klo |
 | 182 | 190 | Cheery Risebuilder |
-| 183 | 189 | Calvin Dennis |
-| 184 | 189 | Stacey Stano |
+| 183 | 189 | Stacey Stano |
+| 184 | 189 | Calvin Dennis |
 | 185 | 188 | Andria Lynn |
 | 186 | 186 | Holly |
 | 187 | 185 | Lori |

@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Kay |
-| 45 | 989 | Joey Banks |
+| 44 | 989 | Joey Banks |
+| 45 | 989 | Kay |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -88,8 +88,8 @@
 | 80 | 628 | Tiff Vs Tiffany |
 | 81 | 626 | Dan Rob |
 | 82 | 621 | Cherry Parker |
-| 83 | 618 | Christine Niles |
-| 84 | 618 | Katrina Schroeder |
+| 83 | 618 | Katrina Schroeder |
+| 84 | 618 | Christine Niles |
 | 85 | 613 | Amber Hughes |
 | 86 | 608 | Danielle Becker |
 | 87 | 591 | Jesse Olive |
@@ -302,8 +302,8 @@
 | 294 | 189 | Katie Leigh Blankenship |
 | 295 | 188 | Loopy Fallmatch |
 | 296 | 186 | Carrie Huskey |
-| 297 | 184 | France Vézina |
-| 298 | 184 | Troy |
+| 297 | 184 | Troy |
+| 298 | 184 | France Vézina |
 | 299 | 182 | Melanie Sherwood |
 | 300 | 181 | Nicholas Roddy |
 | 301 | 181 | Denita Mungro |
@@ -349,10 +349,10 @@
 | 341 | 159 | Salena Whitlock |
 | 342 | 159 | Joshua David Huie |
 | 343 | 158 | Willow |
-| 344 | 157 | Angel Mendez |
-| 345 | 157 | Katrina E Jelks |
-| 346 | 156 | kacihall |
-| 347 | 156 | Ava Petito |
+| 344 | 157 | Katrina E Jelks |
+| 345 | 157 | Angel Mendez |
+| 346 | 156 | Ava Petito |
+| 347 | 156 | kacihall |
 | 348 | 156 | Nichole Greene |
 | 349 | 155 | Chummy Caster |
 | 350 | 155 | Michael Leblanc |
@@ -405,8 +405,8 @@
 | 397 | 134 | Tammy |
 | 398 | 134 | gremicx |
 | 399 | 133 | Jen Lewis |
-| 400 | 132 | Andrew Thorson |
-| 401 | 132 | Hanna Kim |
+| 400 | 132 | Hanna Kim |
+| 401 | 132 | Andrew Thorson |
 | 402 | 131 | Cheeky Setter |
 | 403 | 130 | Sarah Whalen |
 | 404 | 130 | TotoCherue |
