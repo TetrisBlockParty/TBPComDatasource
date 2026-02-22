@@ -62,8 +62,8 @@
 | 54 | 671 | TeeJ |
 | 55 | 664 | Valerie Roberts |
 | 56 | 661 | D3TROITB0RN74 |
-| 57 | 659 | Jonathan Kimbrough |
-| 58 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Rebecca Moulton Pinciaro |
+| 58 | 659 | Jonathan Kimbrough |
 | 59 | 658 | loulou |
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
@@ -176,8 +176,8 @@
 | 168 | 237 | Jen Caldwell |
 | 169 | 236 | Swanky Fitline |
 | 170 | 232 | Crystal Nicolette Moore |
-| 171 | 230 | Cursed Hag |
-| 172 | 230 | Autum Leigh |
+| 171 | 230 | Autum Leigh |
+| 172 | 230 | Cursed Hag |
 | 173 | 227 | Alyssa Papen |
 | 174 | 227 | Andria Lynn |
 | 175 | 224 | Matt Summer |
@@ -199,10 +199,10 @@
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
 | 193 | 210 | Austin Owens |
-| 194 | 209 | Sam Bishop |
-| 195 | 209 | Rafael Valentin |
-| 196 | 207 | scott |
-| 197 | 207 | Chirpy Basepiece |
+| 194 | 209 | Rafael Valentin |
+| 195 | 209 | Sam Bishop |
+| 196 | 207 | Chirpy Basepiece |
+| 197 | 207 | scott |
 | 198 | 206 | Ruben Wheeler |
 | 199 | 205 | Kathy Brookins |
 | 200 | 204 | Carlos Ramirez |
@@ -222,8 +222,8 @@
 | 214 | 194 | Zany Twisterfit |
 | 215 | 193 | Nikki Rae Gordon |
 | 216 | 193 | Rio Rocha |
-| 217 | 192 | Dizzy Matchzone |
-| 218 | 192 | Shauna Havard |
+| 217 | 192 | Shauna Havard |
+| 218 | 192 | Dizzy Matchzone |
 | 219 | 191 | Klo |
 | 220 | 190 | Cheery Risebuilder |
 | 221 | 189 | Dihcheese444 |

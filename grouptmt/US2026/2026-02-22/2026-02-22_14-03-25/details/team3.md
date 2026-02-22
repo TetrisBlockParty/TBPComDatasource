@@ -166,8 +166,8 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Marcie Bressler |
-| 162 | 399 | Mcathen |
+| 161 | 399 | Mcathen |
+| 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
 | 165 | 391 | Sarah Cowan Burgos |
@@ -177,8 +177,8 @@
 | 169 | 384 | Dapper Snap |
 | 170 | 382 | Scott Carleton |
 | 171 | 380 | Tasha Schriewer |
-| 172 | 378 | Chris Bell |
-| 173 | 378 | Nicole Flippo |
+| 172 | 378 | Nicole Flippo |
+| 173 | 378 | Chris Bell |
 | 174 | 376 | Loopy Clusterer |
 | 175 | 375 | Shunta Jacobs |
 | 176 | 374 | Sherry Ogden |
@@ -188,8 +188,8 @@
 | 180 | 370 | Danielle Allison |
 | 181 | 368 | Stephanie Woods |
 | 182 | 366 | Adrian Marcel Pate |
-| 183 | 362 | Rochelle Hazelett |
-| 184 | 362 | Darlene McMillan |
+| 183 | 362 | Darlene McMillan |
+| 184 | 362 | Rochelle Hazelett |
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
@@ -256,11 +256,11 @@
 | 248 | 267 | JerseyJess |
 | 249 | 267 | Terry Jo Jones |
 | 250 | 262 | Joe-Maggie Mathews |
-| 251 | 261 | Tiffany Ford |
-| 252 | 261 | Tasha Wesson-Torrence |
+| 251 | 261 | Tasha Wesson-Torrence |
+| 252 | 261 | Tiffany Ford |
 | 253 | 261 | Marquita Sheard |
-| 254 | 260 | Nikki Pags |
-| 255 | 260 | Grams |
+| 254 | 260 | Grams |
+| 255 | 260 | Nikki Pags |
 | 256 | 259 | Danielle Weikel |
 | 257 | 257 | Ashley Jones |
 | 258 | 256 | KayB |

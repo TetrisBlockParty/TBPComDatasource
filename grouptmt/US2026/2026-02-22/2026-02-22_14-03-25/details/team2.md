@@ -308,8 +308,8 @@
 | 300 | 699 | Tony Lea |
 | 301 | 697 | Dreamy Blast |
 | 302 | 695 | Lakeysha Dortch |
-| 303 | 692 | Jennifer Casey-Kay |
-| 304 | 692 | Dannette Goldberg-Richards |
+| 303 | 692 | Dannette Goldberg-Richards |
+| 304 | 692 | Jennifer Casey-Kay |
 | 305 | 691 | Joce Lynn |
 | 306 | 690 | Deborah Miller |
 | 307 | 689 | Giggy Blocker |
@@ -317,8 +317,8 @@
 | 309 | 688 | Tiara Elizabeth Baker |
 | 310 | 687 | Dee |
 | 311 | 686 | Ashley Guernsey-Martin |
-| 312 | 685 | Brenda Pierpoint |
-| 313 | 685 | Binyah-Binyah |
+| 312 | 685 | Binyah-Binyah |
+| 313 | 685 | Brenda Pierpoint |
 | 314 | 681 | Melissa Holsinger |
 | 315 | 680 | Glitzy Stackzone |
 | 316 | 679 | Eric Castaneda |
@@ -618,8 +618,8 @@
 | 610 | 387 | Misti Markijohn |
 | 611 | 385 | Tansaria Couch-Butler |
 | 612 | 384 | Mary Marie |
-| 613 | 384 | Party d |
-| 614 | 384 | Kelly |
+| 613 | 384 | Kelly |
+| 614 | 384 | Party d |
 | 615 | 383 | Jessica Conaway |
 | 616 | 382 | Lively Edgepiece |
 | 617 | 382 | David Holliday |
@@ -877,8 +877,8 @@
 | 869 | 272 | Witty Piecebuilder |
 | 870 | 271 | Michelle Ettrick |
 | 871 | 271 | Pam Doughty |
-| 872 | 271 | Shalisa Hill |
-| 873 | 271 | Beverly Hodge |
+| 872 | 271 | Beverly Hodge |
+| 873 | 271 | Shalisa Hill |
 | 874 | 271 | Amber N Koepp |
 | 875 | 270 | Lazy Builderfit |
 | 876 | 270 | BK Queen |
@@ -901,13 +901,13 @@
 | 893 | 265 | Renee Griffith |
 | 894 | 265 | Kray Kray Katelynn |
 | 895 | 265 | Theresa Sterrett |
-| 896 | 264 | Nicki Stephens |
-| 897 | 264 | Shindee |
+| 896 | 264 | Shindee |
+| 897 | 264 | Nicki Stephens |
 | 898 | 264 | Edna Combs |
 | 899 | 264 | Ocean-Brianna McGregor |
 | 900 | 263 | Elizabeth Leinen |
-| 901 | 263 | Amy Humphreys |
-| 902 | 263 | Sunshine711 |
+| 901 | 263 | Sunshine711 |
+| 902 | 263 | Amy Humphreys |
 | 903 | 263 | Sara Pennington |
 | 904 | 262 | Squirrel |
 | 905 | 262 | Taren Cowan |
