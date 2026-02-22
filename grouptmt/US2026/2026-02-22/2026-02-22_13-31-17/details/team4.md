@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Rebecca Moulton Pinciaro |
-| 57 | 659 | Jonathan Kimbrough |
+| 56 | 659 | Jonathan Kimbrough |
+| 57 | 659 | Rebecca Moulton Pinciaro |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -157,7 +157,7 @@
 | 149 | 264 | Girl |
 | 150 | 262 | Holly Jolly |
 | 151 | 262 | Joeliecea Cobb |
-| 152 | 262 | Holly Jolly |
+| 152 | 262 | Alan George LaRage |
 | 153 | 261 | Twisty Clicky |
 | 154 | 258 | Bio Nelly |
 | 155 | 258 | Leah Kutz Zirbel |
@@ -167,8 +167,8 @@
 | 159 | 250 | Matt Dell'Olio |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | Twisty Cascadezone |
-| 163 | 244 | J-Rizzle |
+| 162 | 244 | J-Rizzle |
+| 163 | 244 | Twisty Cascadezone |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |

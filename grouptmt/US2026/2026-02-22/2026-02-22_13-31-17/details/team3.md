@@ -268,8 +268,8 @@
 | 260 | 246 | Peppy Shifter |
 | 261 | 245 | Latoya Mayne |
 | 262 | 244 | LaNette Morgan |
-| 263 | 243 | Brenda Schmid Wood |
-| 264 | 243 | Foltz Lee Kelli |
+| 263 | 243 | Foltz Lee Kelli |
+| 264 | 243 | Brenda Schmid Wood |
 | 265 | 240 | Jimmie Clemons |
 | 266 | 238 | Connie Mohler-Fair |
 | 267 | 238 | LaTanya GeminiondaRise Johnson |
@@ -300,8 +300,8 @@
 | 292 | 214 | Amy Fuller Heaton |
 | 293 | 214 | Rebel124 |
 | 294 | 213 | Nicholas Roddy |
-| 295 | 212 | Sunny Rotater |
-| 296 | 212 | Desiree Gold |
+| 295 | 212 | Desiree Gold |
+| 296 | 212 | Sunny Rotater |
 | 297 | 212 | Jana Polk |
 | 298 | 211 | El Chapa |
 | 299 | 211 | Khaleada McGill Banks |

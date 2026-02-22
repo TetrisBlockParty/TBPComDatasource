@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -100,8 +100,8 @@
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
 | 94 | 382 | Jacqueline Williams |
-| 95 | 379 | Kimmie Kimms |
-| 96 | 379 | Austin James |
+| 95 | 379 | Austin James |
+| 96 | 379 | Kimmie Kimms |
 | 97 | 376 | lil mickey |
 | 98 | 374 | Tinah Montanna |
 | 99 | 364 | Shauna Loe |
@@ -260,8 +260,8 @@
 | 252 | 175 | John Barron |
 | 253 | 174 | Cheeky Pop |
 | 254 | 174 | Alex Gauthier |
-| 255 | 173 | Gabrielle Louise Malloch |
-| 256 | 173 | Rico Rico |
+| 255 | 173 | Rico Rico |
+| 256 | 173 | Gabrielle Louise Malloch |
 | 257 | 171 | David DeSantis |
 | 258 | 171 | Greg Premoe |
 | 259 | 170 | Standia Civil |
@@ -331,8 +331,8 @@
 | 323 | 134 | Rachel Copas |
 | 324 | 133 | MommaKFC |
 | 325 | 133 | Jasmine Riley |
-| 326 | 132 | John Kim |
-| 327 | 132 | Layzietyme |
+| 326 | 132 | Layzietyme |
+| 327 | 132 | John Kim |
 | 328 | 131 | Plucky Wrecker |
 | 329 | 131 | Dizzy Riseclear |
 | 330 | 130 | Carl Claunch |
