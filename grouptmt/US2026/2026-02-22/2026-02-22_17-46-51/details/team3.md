@@ -202,14 +202,14 @@
 | 194 | 377 | rosy |
 | 195 | 376 | Loopy Clusterer |
 | 196 | 374 | Darlene McMillan |
-| 197 | 372 | Tom Nault |
-| 198 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Giddy Twistbuilder |
+| 198 | 372 | Tom Nault |
 | 199 | 370 | Santeria Trece Candles |
 | 200 | 368 | Stephanie Woods |
 | 201 | 367 | Danielle Balcom |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Brandon Givens |
-| 204 | 362 | Loopy Fallmatch |
+| 203 | 362 | Loopy Fallmatch |
+| 204 | 362 | Brandon Givens |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -229,8 +229,8 @@
 | 221 | 337 | Philip Rock |
 | 222 | 332 | Rich LeBlanc |
 | 223 | 330 | Rebecca Funderburk Kirby |
-| 224 | 324 | Sissy Lowery Davis |
-| 225 | 324 | Kristal C Lee |
+| 224 | 324 | Kristal C Lee |
+| 225 | 324 | Sissy Lowery Davis |
 | 226 | 323 | Demetrious Shaw Sr. |
 | 227 | 323 | Melissa Orth Hunter |
 | 228 | 321 | Rebecca Bailey |
@@ -285,8 +285,8 @@
 | 277 | 263 | Brenda Schmid Wood |
 | 278 | 262 | Ray Lader |
 | 279 | 262 | Joe-Maggie Mathews |
-| 280 | 261 | Foltz Lee Kelli |
-| 281 | 261 | Tiffany Ford |
+| 280 | 261 | Tiffany Ford |
+| 281 | 261 | Foltz Lee Kelli |
 | 282 | 260 | Grams |
 | 283 | 259 | Michael Johnson |
 | 284 | 258 | Troy |
@@ -311,18 +311,18 @@
 | 303 | 236 | Jess Bissett |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kiki |
-| 307 | 231 | Kevin Russell |
+| 306 | 231 | Kevin Russell |
+| 307 | 231 | Kiki |
 | 308 | 230 | BigE |
 | 309 | 228 | Naur |
 | 310 | 227 | Rebel124 |
 | 311 | 227 | Meowsa |
 | 312 | 226 | Jana Polk |
 | 313 | 225 | Stephanie Hill |
-| 314 | 225 | Steffi Chris Dacones |
-| 315 | 225 | Dirtgirl27 |
-| 316 | 223 | Kaycee Kay |
-| 317 | 223 | Michael Lucado |
+| 314 | 225 | Dirtgirl27 |
+| 315 | 225 | Steffi Chris Dacones |
+| 316 | 223 | Michael Lucado |
+| 317 | 223 | Kaycee Kay |
 | 318 | 223 | Jennifer Alvey |
 | 319 | 222 | Aerian Preston |
 | 320 | 221 | Alice |
@@ -365,8 +365,8 @@
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
 | 359 | 203 | DanceLuvLaugh |
-| 360 | 202 | Melanie Sherwood |
-| 361 | 202 | Tipsy Zonebuilder |
+| 360 | 202 | Tipsy Zonebuilder |
+| 361 | 202 | Melanie Sherwood |
 | 362 | 201 | Hyper Matchzone |
 | 363 | 200 | Sharisse Baltimore |
 | 364 | 200 | Colleen Phelps |

@@ -238,8 +238,8 @@
 | 230 | 919 | Joshua Mandel |
 | 231 | 919 | Isaac Trappiel IV |
 | 232 | 916 | Butta |
-| 233 | 915 | Robin Kerby |
-| 234 | 915 | Angela Bonquiqui Dinish |
+| 233 | 915 | Angela Bonquiqui Dinish |
+| 234 | 915 | Robin Kerby |
 | 235 | 915 | Kelly Trent |
 | 236 | 912 | Dedra Steward |
 | 237 | 910 | Shuany Arias |
@@ -273,8 +273,8 @@
 | 265 | 845 | Sheniya Spurgeon |
 | 266 | 844 | Terri McKelvey McKinley |
 | 267 | 842 | Elizabeth Wilbanks |
-| 268 | 840 | Mighty Shatterfit |
-| 269 | 840 | Alyssa Hileman |
+| 268 | 840 | Alyssa Hileman |
+| 269 | 840 | Mighty Shatterfit |
 | 270 | 835 | Katrina Weston |
 | 271 | 833 | Moni Foxe |
 | 272 | 833 | Tim Dyer |
@@ -373,8 +373,8 @@
 | 365 | 643 | Hoppy Brickmatch |
 | 366 | 642 | Cassie Maynard |
 | 367 | 641 | Vonceial Boone |
-| 368 | 640 | Kara Gillen |
-| 369 | 640 | BYM4L |
+| 368 | 640 | BYM4L |
+| 369 | 640 | Kara Gillen |
 | 370 | 639 | Crystie Hicks |
 | 371 | 639 | Rebecca Miller |
 | 372 | 634 | Gary Stash |

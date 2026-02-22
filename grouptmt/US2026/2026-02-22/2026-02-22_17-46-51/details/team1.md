@@ -90,13 +90,13 @@
 | 82 | 471 | Jennifer ManWarren |
 | 83 | 456 | Arianna O'Brien |
 | 84 | 453 | Brandi Huntington |
-| 85 | 444 | Lexuriuos Lifestlye |
-| 86 | 444 | Hyper |
+| 85 | 444 | Hyper |
+| 86 | 444 | Lexuriuos Lifestlye |
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
-| 90 | 433 | Tinah Montanna |
-| 91 | 433 | Trina Gee |
+| 90 | 433 | Trina Gee |
+| 91 | 433 | Tinah Montanna |
 | 92 | 429 | Tdub |
 | 93 | 428 | Stephanie Zahn |
 | 94 | 418 | Jazzy Framezone |
@@ -113,8 +113,8 @@
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
-| 108 | 379 | Austin James |
-| 109 | 379 | Kimmie Kimms |
+| 108 | 379 | Kimmie Kimms |
+| 109 | 379 | Austin James |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
 | 112 | 364 | Ly Phethmany |
