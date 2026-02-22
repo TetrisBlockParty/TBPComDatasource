@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -656,8 +656,8 @@
 | 648 | 357 | Shannon Byrd |
 | 649 | 357 | Tristan Szolek |
 | 650 | 355 | Amanda Perez |
-| 651 | 354 | Rachel Kaminski |
-| 652 | 354 | Rickey Johnson |
+| 651 | 354 | Rickey Johnson |
+| 652 | 354 | Rachel Kaminski |
 | 653 | 352 | Rose Fx |
 | 654 | 352 | Jean FU Jagielski |
 | 655 | 352 | ruth |
@@ -709,8 +709,8 @@
 | 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Tasia Stinson |
-| 705 | 324 | Dale Haanpaa |
+| 704 | 324 | Dale Haanpaa |
+| 705 | 324 | Tasia Stinson |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
@@ -746,8 +746,8 @@
 | 738 | 308 | Hyper Riseclear |
 | 739 | 308 | Claire |
 | 740 | 308 | Katie Joy McCombs |
-| 741 | 307 | stacey |
-| 742 | 307 | Peachy Blockbuilder |
+| 741 | 307 | Peachy Blockbuilder |
+| 742 | 307 | stacey |
 | 743 | 306 | Kiorah Blaze |
 | 744 | 305 | Zany Clusterbuilder |
 | 745 | 305 | MamaBear11 |
@@ -795,8 +795,8 @@
 | 787 | 287 | N00D3S |
 | 788 | 286 | Kelsey Sullivan |
 | 789 | 286 | Sveta Lana |
-| 790 | 285 | Court |
-| 791 | 285 | Epic Stackbuilder |
+| 790 | 285 | Epic Stackbuilder |
+| 791 | 285 | Court |
 | 792 | 285 | Kimberly Mitchell |
 | 793 | 284 | Hillary Franklin |
 | 794 | 282 | Nutty Slice |

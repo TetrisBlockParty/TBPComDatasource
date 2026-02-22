@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -113,21 +113,21 @@
 | 105 | 344 | Bhelle Sumile |
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
-| 108 | 333 | Gracie |
-| 109 | 333 | Brandi Huntington |
-| 110 | 332 | Kristen Gideon |
-| 111 | 332 | Luciano Moreira |
+| 108 | 333 | Brandi Huntington |
+| 109 | 333 | Gracie |
+| 110 | 332 | Luciano Moreira |
+| 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
 | 115 | 319 | Patrick Luckenbill |
 | 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Seth Wesson |
-| 122 | 310 | Jason Jones |
+| 121 | 310 | Jason Jones |
+| 122 | 310 | Seth Wesson |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -159,8 +159,8 @@
 | 151 | 257 | Amanda Jarnagin |
 | 152 | 256 | David Miller |
 | 153 | 255 | Elaine Elaine |
-| 154 | 254 | Ty Brown |
-| 155 | 254 | Al Smith Jr |
+| 154 | 254 | Al Smith Jr |
+| 155 | 254 | Ty Brown |
 | 156 | 253 | Plucky Fallzone |
 | 157 | 253 | Witty Builderfit |
 | 158 | 252 | Dena Kayy |
@@ -182,10 +182,10 @@
 | 174 | 218 | LC |
 | 175 | 217 | ParisandCory Champagne |
 | 176 | 217 | Kimberly Garcia |
-| 177 | 216 | MRdot Rooski |
-| 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 177 | 216 | Shauntina Burke |
+| 178 | 216 | MRdot Rooski |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -236,8 +236,8 @@
 | 228 | 180 | Beau Galvan |
 | 229 | 180 | Jessie Lynn |
 | 230 | 179 | Danielle Little-Daugherty |
-| 231 | 179 | Erin Rosberg |
-| 232 | 179 | Danielle Little-Daugherty |
+| 231 | 179 | femmefatale |
+| 232 | 179 | Erin Rosberg |
 | 233 | 178 | Chad Atchley |
 | 234 | 177 | Irual Hctrab |
 | 235 | 177 | Jacqueline Unique |
@@ -260,8 +260,8 @@
 | 252 | 167 | Cranky Pattern |
 | 253 | 167 | Nery Martinez |
 | 254 | 166 | Carrie Smith |
-| 255 | 165 | Silly Align |
-| 256 | 165 | Nadine Velardo |
+| 255 | 165 | Nadine Velardo |
+| 256 | 165 | Silly Align |
 | 257 | 164 | Desiree Deschaine Havee |
 | 258 | 163 | Tyler Whitley |
 | 259 | 163 | Blaire Bruckoff |
@@ -366,7 +366,7 @@
 | 358 | 112 | Negan Mallory Knoxx Spence |
 | 359 | 111 | Carol Rogers |
 | 360 | 111 | Damon J. Martin |
-| 361 | 110 | Jodee Woods |
+| 361 | 110 | Dandy Towerbuilder |
 | 362 | 110 | Jennifer Corrado |
 | 363 | 110 | Jen |
 | 364 | 110 | Jodee Woods |

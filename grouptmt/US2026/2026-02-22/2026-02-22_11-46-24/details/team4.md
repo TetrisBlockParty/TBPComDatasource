@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -77,14 +77,14 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 523 | Dawn Alexander |
-| 72 | 518 | Carolyn Wallace |
-| 73 | 518 | Eric Mcgaughy |
+| 72 | 518 | Eric Mcgaughy |
+| 73 | 518 | Carolyn Wallace |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 457 | Ashley Ingram |
@@ -204,8 +204,8 @@
 | 196 | 195 | 中山成巳 |
 | 197 | 194 | Zany Twisterfit |
 | 198 | 192 | Shauna Havard |
-| 199 | 191 | Klo |
-| 200 | 191 | Sam Bishop |
+| 199 | 191 | Sam Bishop |
+| 200 | 191 | Klo |
 | 201 | 190 | Cheery Risebuilder |
 | 202 | 189 | Stacey Stano |
 | 203 | 189 | Calvin Dennis |
@@ -222,16 +222,16 @@
 | 214 | 180 | Orchislactea |
 | 215 | 179 | TinyLegoRose |
 | 216 | 175 | Lorena Guerrero-Barron |
-| 217 | 174 | JPW |
-| 218 | 174 | Rio Rocha |
+| 217 | 174 | Rio Rocha |
+| 218 | 174 | JPW |
 | 219 | 173 | Rebecca Morris |
 | 220 | 172 | Gilles Lanctot |
 | 221 | 171 | Autumn Kumzi |
 | 222 | 168 | Lindsey Gonzalez |
 | 223 | 167 | Cozy Balancer |
-| 224 | 166 | SammieJo Guy |
+| 224 | 166 | Angelito |
 | 225 | 166 | Megan Cutshaw |
-| 226 | 166 | Angelito |
+| 226 | 166 | SammieJo Guy |
 | 227 | 166 | Juls |
 | 228 | 165 | Jackie Marie |
 | 229 | 165 | Zappy Buildgrid |
@@ -408,8 +408,8 @@
 | 400 | 104 | mike |
 | 401 | 104 | Cranky Rollpiece |
 | 402 | 103 | Sammy Noguera |
-| 403 | 102 | Christina O'Dell-Ishau |
-| 404 | 102 | Brave Spinbuilder |
+| 403 | 102 | Brave Spinbuilder |
+| 404 | 102 | Christina O'Dell-Ishau |
 | 405 | 102 | Bigeddie |
 | 406 | 101 | Saulc1991 |
 | 407 | 100 | Marcus TheeyoungWoe Gilmore |

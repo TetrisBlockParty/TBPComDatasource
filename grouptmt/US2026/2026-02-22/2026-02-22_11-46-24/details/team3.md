@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -176,8 +176,8 @@
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Santeria Trece Candles |
-| 172 | 370 | Danielle Allison |
+| 171 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -225,8 +225,8 @@
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Hoppy Buildout |
-| 221 | 289 | Duane Bright |
+| 220 | 289 | Duane Bright |
+| 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -260,8 +260,8 @@
 | 252 | 256 | KayB |
 | 253 | 256 | Tiffany Davie |
 | 254 | 250 | fraulila |
-| 255 | 249 | Annie Marie |
-| 256 | 249 | JerseyJess |
+| 255 | 249 | JerseyJess |
+| 256 | 249 | Annie Marie |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
 | 259 | 244 | LaNette Morgan |
@@ -342,8 +342,8 @@
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
 | 336 | 179 | Christian Werndl |
-| 337 | 179 | Rachel Napper |
-| 338 | 179 | DanceLuvLaugh |
+| 337 | 179 | DanceLuvLaugh |
+| 338 | 179 | Rachel Napper |
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
@@ -369,8 +369,8 @@
 | 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Loopy Fallzone |
 | 368 | 162 | Stephanie Whitefield |
@@ -428,8 +428,8 @@
 | 420 | 144 | Blair Erin Waite |
 | 421 | 144 | Crystal Hine |
 | 422 | 143 | Deseree Ewing |
-| 423 | 142 | Erica Anderson |
-| 424 | 142 | Gray Hicks |
+| 423 | 142 | Gray Hicks |
+| 424 | 142 | Erica Anderson |
 | 425 | 142 | Frothy Snapper |
 | 426 | 142 | Joy Petroski |
 | 427 | 142 | Jl |
@@ -438,9 +438,9 @@
 | 430 | 141 | Weerae |
 | 431 | 141 | Reina Roth |
 | 432 | 140 | Jumpy Curvebuilder |
-| 433 | 140 | Boldy Corner |
-| 434 | 140 | Alison Baus |
-| 435 | 140 | Linda Draper |
+| 433 | 140 | Alison Baus |
+| 434 | 140 | Linda Draper |
+| 435 | 140 | Boldy Corner |
 | 436 | 139 | Beppy |
 | 437 | 139 | Paula Little |
 | 438 | 138 | Bleu Sun Beams |
@@ -457,8 +457,8 @@
 | 449 | 134 | Tammy |
 | 450 | 134 | Cheery Brickster |
 | 451 | 134 | gremicx |
-| 452 | 133 | Chummy Rumbler |
-| 453 | 133 | Jen Lewis |
+| 452 | 133 | Jen Lewis |
+| 453 | 133 | Chummy Rumbler |
 | 454 | 132 | Hanna Kim |
 | 455 | 132 | Andrew Thorson |
 | 456 | 131 | Cheeky Setter |
@@ -474,11 +474,11 @@
 | 466 | 129 | TLM |
 | 467 | 128 | David Kozen |
 | 468 | 127 | Jumpy Wrecker |
-| 469 | 126 | Tipsy Puzzle |
-| 470 | 126 | Lush Balance |
-| 471 | 126 | demon14 |
-| 472 | 126 | Crystal Martin |
-| 473 | 126 | Spicy Caster |
+| 469 | 126 | Lush Balance |
+| 470 | 126 | demon14 |
+| 471 | 126 | Tipsy Puzzle |
+| 472 | 126 | Spicy Caster |
+| 473 | 126 | Crystal Martin |
 | 474 | 125 | Shimika Enay Wallace |
 | 475 | 125 | Felicia Doxey |
 | 476 | 125 | BugMansMom |
