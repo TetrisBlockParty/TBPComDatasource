@@ -202,8 +202,8 @@
 | 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -618,8 +618,8 @@
 | 610 | 326 | Angela Murgia-Owen |
 | 611 | 325 | Justin Hines |
 | 612 | 324 | Kimberly Hauck-Rausch |
-| 613 | 324 | Mike73 |
-| 614 | 324 | Tristan Szolek |
+| 613 | 324 | Tristan Szolek |
+| 614 | 324 | Mike73 |
 | 615 | 323 | Briana Alexander |
 | 616 | 322 | Melissa James |
 | 617 | 322 | Jackie Lucas |
@@ -634,15 +634,15 @@
 | 626 | 316 | Epic Spinfit |
 | 627 | 314 | Anita Rose Green |
 | 628 | 314 | Amanda West |
-| 629 | 313 | Marina Linda |
-| 630 | 313 | Natasha Edmonds |
+| 629 | 313 | Natasha Edmonds |
+| 630 | 313 | Marina Linda |
 | 631 | 313 | Nicky Jackson |
 | 632 | 312 | Christina Jarvis-Swarbrick |
 | 633 | 312 | Sassy Linkbuilder |
 | 634 | 311 | Adrian Benitez |
 | 635 | 311 | Megan Phillips |
-| 636 | 311 | Dapper Dasher |
-| 637 | 311 | Diallo Sparkman |
+| 636 | 311 | Diallo Sparkman |
+| 637 | 311 | Dapper Dasher |
 | 638 | 311 | Johanna Massaro |
 | 639 | 310 | Sharon Mills |
 | 640 | 310 | Beth Decker |

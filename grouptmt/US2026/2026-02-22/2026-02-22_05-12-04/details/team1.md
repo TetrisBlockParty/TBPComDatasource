@@ -348,8 +348,8 @@
 | 340 | 98 | Alfredo Vasquez |
 | 341 | 98 | Kirk Torrey |
 | 342 | 97 | Steve Bomkamp |
-| 343 | 96 | Nutty Spinblock |
-| 344 | 96 | Lisa Marie |
+| 343 | 96 | Lisa Marie |
+| 344 | 96 | Nutty Spinblock |
 | 345 | 95 | Jay Tressler |
 | 346 | 95 | Angela Spann |
 | 347 | 94 | Patty Lavigne Craddock |

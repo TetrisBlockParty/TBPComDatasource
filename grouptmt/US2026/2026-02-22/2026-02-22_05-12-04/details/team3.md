@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -132,8 +132,8 @@
 | 124 | 416 | Mary Pellegrino |
 | 125 | 415 | ren |
 | 126 | 411 | FuzzyNavel |
-| 127 | 410 | Stephanie Blkpep Davidson |
-| 128 | 410 | Stephanie Simpson |
+| 127 | 410 | Stephanie Simpson |
+| 128 | 410 | Stephanie Blkpep Davidson |
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 407 | Louise Stacy Sisson |
@@ -251,8 +251,8 @@
 | 243 | 221 | Jaime Monhaut-Reed |
 | 244 | 219 | Sissy Lowery Davis |
 | 245 | 218 | Michael Lucado |
-| 246 | 216 | rosy |
-| 247 | 216 | LaTanya GeminiondaRise Johnson |
+| 246 | 216 | LaTanya GeminiondaRise Johnson |
+| 247 | 216 | rosy |
 | 248 | 215 | Alice |
 | 249 | 215 | IamJust Neyamijah Washington Sr. |
 | 250 | 214 | Rebel124 |
