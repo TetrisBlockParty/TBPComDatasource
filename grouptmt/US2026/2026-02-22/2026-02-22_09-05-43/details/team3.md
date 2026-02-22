@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Kay |
-| 48 | 989 | Joey Banks |
+| 47 | 989 | Joey Banks |
+| 48 | 989 | Kay |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Natasha Jones |
-| 96 | 582 | Jay Horn |
+| 95 | 582 | Jay Horn |
+| 96 | 582 | Natasha Jones |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -190,8 +190,8 @@
 | 182 | 343 | Ashley Raines |
 | 183 | 341 | Samantha Lynn |
 | 184 | 340 | Chummy Caster |
-| 185 | 338 | Leah Barnett |
-| 186 | 338 | Gumbo |
+| 185 | 338 | Gumbo |
+| 186 | 338 | Leah Barnett |
 | 187 | 332 | Rich LeBlanc |
 | 188 | 332 | Noyb Adam |
 | 189 | 328 | Giddy Twistbuilder |
@@ -216,12 +216,12 @@
 | 208 | 296 | Ammmmmmy |
 | 209 | 296 | Katrina Turner |
 | 210 | 296 | Brandon Givens |
-| 211 | 295 | RickyG |
-| 212 | 295 | Marci Mize Fandrich |
+| 211 | 295 | Marci Mize Fandrich |
+| 212 | 295 | RickyG |
 | 213 | 291 | Kristal C Lee |
 | 214 | 289 | DidIdothat |
-| 215 | 289 | Duane Bright |
-| 216 | 289 | Hoppy Buildout |
+| 215 | 289 | Hoppy Buildout |
+| 216 | 289 | Duane Bright |
 | 217 | 286 | Cynthia Herrmann Egland |
 | 218 | 284 | Denise Nardoni |
 | 219 | 283 | Charles Perrone |
@@ -337,8 +337,8 @@
 | 329 | 179 | Tipsy Zonebuilder |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Emma |
-| 333 | 176 | Melissa Orth Hunter |
+| 332 | 176 | Melissa Orth Hunter |
+| 333 | 176 | Emma |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
@@ -421,8 +421,8 @@
 | 413 | 139 | Beppy |
 | 414 | 139 | Betty Bóò |
 | 415 | 139 | Paula Little |
-| 416 | 138 | Bleu Sun Beams |
-| 417 | 138 | Skinny Baldez |
+| 416 | 138 | Skinny Baldez |
+| 417 | 138 | Bleu Sun Beams |
 | 418 | 137 | Reina Roth |
 | 419 | 137 | Giggly Brickroll |
 | 420 | 137 | Arden White Kirsch |

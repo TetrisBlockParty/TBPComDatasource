@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -296,8 +296,8 @@
 | 288 | 685 | Binyah-Binyah |
 | 289 | 681 | Melissa Holsinger |
 | 290 | 679 | Offonar Facey |
-| 291 | 679 | Dee |
-| 292 | 679 | Brenda Utphall |
+| 291 | 679 | Brenda Utphall |
+| 292 | 679 | Dee |
 | 293 | 678 | Scott Treadway |
 | 294 | 677 | Mema |
 | 295 | 676 | Poldo Ilano |
@@ -318,8 +318,8 @@
 | 310 | 650 | Shiny Rollzone |
 | 311 | 645 | tejas25 |
 | 312 | 643 | Hoppy Brickmatch |
-| 313 | 641 | Joce Lynn |
-| 314 | 641 | Angie Bolton Workman |
+| 313 | 641 | Angie Bolton Workman |
+| 314 | 641 | Joce Lynn |
 | 315 | 640 | BYM4L |
 | 316 | 639 | Crystie Hicks |
 | 317 | 639 | Rebecca Miller |
@@ -377,8 +377,8 @@
 | 369 | 541 | g |
 | 370 | 538 | AISlop |
 | 371 | 537 | Cherica Taylor |
-| 372 | 535 | Jessie McDougald |
-| 373 | 535 | Paul Huber |
+| 372 | 535 | Paul Huber |
+| 373 | 535 | Jessie McDougald |
 | 374 | 533 | Gauri Shrotriya |
 | 375 | 531 | Dizzy Zone |
 | 376 | 531 | Emily Lyric Converse |
@@ -633,10 +633,10 @@
 | 625 | 361 | Lewis Sturgeon |
 | 626 | 360 | Jroc |
 | 627 | 359 | Cheyenne Donovan |
-| 628 | 358 | Sydney Busse |
-| 629 | 358 | Alyssaaelena |
-| 630 | 357 | Shannon Byrd |
-| 631 | 357 | Phil J. Grombliniak |
+| 628 | 358 | Alyssaaelena |
+| 629 | 358 | Sydney Busse |
+| 630 | 357 | Phil J. Grombliniak |
+| 631 | 357 | Shannon Byrd |
 | 632 | 357 | Tristan Szolek |
 | 633 | 355 | Amanda Perez |
 | 634 | 355 | Steve Man |
@@ -680,13 +680,13 @@
 | 672 | 335 | Maria Louise |
 | 673 | 334 | Melissa James |
 | 674 | 333 | Veronica Stevenson |
-| 675 | 333 | Adrian Benitez |
-| 676 | 333 | Woodys Glass |
+| 675 | 333 | Woodys Glass |
+| 676 | 333 | Adrian Benitez |
 | 677 | 332 | Lathasa Newkirk |
 | 678 | 330 | Jennifer Monroe Kelly |
 | 679 | 329 | Chummy Blockbuilder |
-| 680 | 329 | Jane Crew |
-| 681 | 329 | Snappy Shatterfit |
+| 680 | 329 | Snappy Shatterfit |
+| 681 | 329 | Jane Crew |
 | 682 | 328 | Jamie Carter Bierce |
 | 683 | 328 | BabyBird |
 | 684 | 326 | Sharon Mills |
@@ -1281,8 +1281,8 @@
 | 1273 | 174 | Tripper Boone |
 | 1274 | 174 | Jai |
 | 1275 | 174 | Leigh Ann |
-| 1276 | 174 | kickstante |
-| 1277 | 174 | Kierra Kierra |
+| 1276 | 174 | Kierra Kierra |
+| 1277 | 174 | kickstante |
 | 1278 | 173 | Yemaja Obba Olokun |
 | 1279 | 173 | Robin |
 | 1280 | 173 | Shelley Vaux |
@@ -1291,8 +1291,8 @@
 | 1283 | 173 | Melissa Wilson |
 | 1284 | 172 | Patty |
 | 1285 | 172 | Fancy Glidezone |
-| 1286 | 172 | Jacob Huffman |
-| 1287 | 172 | Ashley M. Davis |
+| 1286 | 172 | Ashley M. Davis |
+| 1287 | 172 | Jacob Huffman |
 | 1288 | 172 | Fredonia Lewis |
 | 1289 | 171 | Ashley Cooper Tharin |
 | 1290 | 171 | Catherine Varea |
