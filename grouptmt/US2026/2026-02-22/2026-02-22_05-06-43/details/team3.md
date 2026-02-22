@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Joey Banks |
-| 44 | 989 | Kay |
+| 43 | 989 | Kay |
+| 44 | 989 | Joey Banks |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -142,14 +142,14 @@
 | 134 | 403 | Scott Lindsay |
 | 135 | 402 | Shannon Matthew Byers |
 | 136 | 400 | Luciana Braganca Vieira |
-| 137 | 399 | Mcathen |
+| 137 | 399 | Marcie Bressler |
 | 138 | 399 | Patti Skiles |
-| 139 | 399 | Marcie Bressler |
+| 139 | 399 | Mcathen |
 | 140 | 397 | Annie Déè |
 | 141 | 396 | Jd Morris |
 | 142 | 396 | Aaron Pitkin |
-| 143 | 392 | Katie Knaus |
-| 144 | 392 | Tasha Gillespie |
+| 143 | 392 | Tasha Gillespie |
+| 144 | 392 | Katie Knaus |
 | 145 | 391 | Calista Jo Dickson |
 | 146 | 390 | Hasty Cascadefit |
 | 147 | 389 | Jeni Dow |
@@ -285,9 +285,9 @@
 | 277 | 189 | Katie Leigh Blankenship |
 | 278 | 188 | Loopy Fallmatch |
 | 279 | 186 | Carrie Huskey |
-| 280 | 184 | France Vézina |
+| 280 | 184 | Troy |
 | 281 | 184 | El Chapa |
-| 282 | 184 | Troy |
+| 282 | 184 | France Vézina |
 | 283 | 182 | Melanie Sherwood |
 | 284 | 181 | Nicholas Roddy |
 | 285 | 180 | Criss |
@@ -578,8 +578,8 @@
 | 570 | 89 | Kristen McAlpine |
 | 571 | 89 | Matty Ray |
 | 572 | 88 | Bree Sexton |
-| 573 | 88 | demon14 |
-| 574 | 88 | Sherry DeLong |
+| 573 | 88 | Sherry DeLong |
+| 574 | 88 | demon14 |
 | 575 | 88 | Dapper Dashpiece |
 | 576 | 87 | monied |
 | 577 | 87 | Richard Rowell |

@@ -152,8 +152,8 @@
 | 144 | 217 | Dizzy Party |
 | 145 | 216 | MRdot Rooski |
 | 146 | 216 | Shauntina Burke |
-| 147 | 214 | GATOR |
-| 148 | 214 | Sleepysloath5745 |
+| 147 | 214 | Sleepysloath5745 |
+| 148 | 214 | GATOR |
 | 149 | 213 | Daring Fitclear |
 | 150 | 212 | Jaimie Lynn |
 | 151 | 212 | Lori Bales |
@@ -247,8 +247,8 @@
 | 239 | 142 | Colleen Wise |
 | 240 | 142 | Jerry Danowski |
 | 241 | 141 | Dino |
-| 242 | 139 | Aimee Horton |
-| 243 | 139 | Flashy Rotator |
+| 242 | 139 | Flashy Rotator |
+| 243 | 139 | Aimee Horton |
 | 244 | 139 | LD1 |
 | 245 | 138 | Hector Cruz |
 | 246 | 138 | Mark Smith |
@@ -431,7 +431,7 @@
 | 423 | 78 | Carol Rogers |
 | 424 | 78 | Margie Olivas |
 | 425 | 78 | Jade |
-| 426 | 78 | Margie Olivas |
+| 426 | 78 | Becky Coker |
 | 427 | 77 | Monica Rivas |
 | 428 | 76 | Jessie Welch |
 | 429 | 76 | Tim Mccrary |

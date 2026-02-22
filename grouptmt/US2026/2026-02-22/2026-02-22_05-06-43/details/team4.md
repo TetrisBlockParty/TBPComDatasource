@@ -165,13 +165,13 @@
 | 157 | 203 | Chris Bernstein |
 | 158 | 203 | Katherine Crane |
 | 159 | 202 | 🥔🥔 Spudz |
-| 160 | 201 | Chance Strickland |
-| 161 | 201 | Melvin Baird |
+| 160 | 201 | Melvin Baird |
+| 161 | 201 | Chance Strickland |
 | 162 | 200 | Jeff Brian Gates |
 | 163 | 198 | Jessica Lynn Cutlip |
 | 164 | 195 | Malakai Darien Fox |
-| 165 | 194 | Chilly Crasher |
-| 166 | 194 | Zany Twisterfit |
+| 165 | 194 | Zany Twisterfit |
+| 166 | 194 | Chilly Crasher |
 | 167 | 192 | Shauna Havard |
 | 168 | 189 | Stacey Stano |
 | 169 | 189 | Calvin Dennis |
