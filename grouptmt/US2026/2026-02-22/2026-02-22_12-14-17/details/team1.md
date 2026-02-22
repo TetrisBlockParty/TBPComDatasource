@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
@@ -137,12 +137,12 @@
 | 129 | 290 | Sarah Roberts |
 | 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Emily Adelaide Wheatley |
-| 133 | 284 | Rachael |
+| 132 | 284 | Rachael |
+| 133 | 284 | Emily Adelaide Wheatley |
 | 134 | 283 | Franswa |
-| 135 | 282 | Snippy Wipebuilder |
-| 136 | 282 | Cool Shiftsnap |
-| 137 | 282 | Timothy Dew |
+| 135 | 282 | Timothy Dew |
+| 136 | 282 | Snippy Wipebuilder |
+| 137 | 282 | Cool Shiftsnap |
 | 138 | 276 | Dandy Basegrid |
 | 139 | 274 | Tyler Werts |
 | 140 | 270 | Ash Galvan |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,8 +197,8 @@
 | 189 | 207 | Brenda Alexander |
 | 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -211,8 +211,8 @@
 | 203 | 199 | Basment Living |
 | 204 | 198 | Happy Snapbuild |
 | 205 | 198 | Shiny Gridmatch |
-| 206 | 195 | Jennifer Olewnik Soborowski |
-| 207 | 195 | Bindi |
+| 206 | 195 | Bindi |
+| 207 | 195 | Jennifer Olewnik Soborowski |
 | 208 | 194 | Christy Jones |
 | 209 | 193 | Michael |
 | 210 | 193 | Lachelle Dillon |

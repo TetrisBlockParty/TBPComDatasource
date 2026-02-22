@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -166,21 +166,21 @@
 | 158 | 240 | Peachy Fall |
 | 159 | 237 | Chris Bernstein |
 | 160 | 232 | Crystal Nicolette Moore |
-| 161 | 230 | Cursed Hag |
-| 162 | 230 | Autum Leigh |
+| 161 | 230 | Autum Leigh |
+| 162 | 230 | Cursed Hag |
 | 163 | 228 | J-Rizzle |
-| 164 | 227 | Swanky Fitline |
-| 165 | 227 | Alyssa Papen |
+| 164 | 227 | Alyssa Papen |
+| 165 | 227 | Swanky Fitline |
 | 166 | 224 | Matt Summer |
 | 167 | 223 | Kris Bartlett |
 | 168 | 223 | Antony Dwayne Beasley |
-| 169 | 221 | PurpleMoonMa |
-| 170 | 221 | Rheanda Weaskus |
+| 169 | 221 | Rheanda Weaskus |
+| 170 | 221 | PurpleMoonMa |
 | 171 | 217 | Chaz Duncan |
 | 172 | 217 | Kim Hunt |
 | 173 | 217 | Angela Srubar-Norman |
-| 174 | 215 | Ren Mc |
-| 175 | 215 | Jessica Bohlken |
+| 174 | 215 | Jessica Bohlken |
+| 175 | 215 | Ren Mc |
 | 176 | 213 | Sarah Neathery |
 | 177 | 213 | Jason Allen |
 | 178 | 212 | Mike Solo |
@@ -1065,7 +1065,7 @@
 | 1057 | 26 | Bubbly Edge |
 | 1058 | 25 | Nutty Tile |
 | 1059 | 25 | Agápē Seb |
-| 1060 | 25 | Nutty Tile |
+| 1060 | 25 | FreckledFlamingo |
 | 1061 | 25 | Aleshia Harrity |
 | 1062 | 25 | Mary Haynes |
 | 1063 | 25 | Saucy Brickfit |
