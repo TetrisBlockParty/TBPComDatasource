@@ -68,8 +68,8 @@
 | 60 | 735 | Avy Absol |
 | 61 | 731 | Anthony Bryan Riva |
 | 62 | 722 | Dustee Craddock-Harrison |
-| 63 | 721 | Chilly Line |
-| 64 | 721 | Edward White |
+| 63 | 721 | Edward White |
+| 64 | 721 | Chilly Line |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
@@ -173,8 +173,8 @@
 | 165 | 312 | Rafael Valentin |
 | 166 | 309 | Cristy Duerksen |
 | 167 | 308 | Jeff Brian Gates |
-| 168 | 307 | Girl |
-| 169 | 307 | Bio Nelly |
+| 168 | 307 | Bio Nelly |
+| 169 | 307 | Girl |
 | 170 | 303 | shark tato |
 | 171 | 302 | Cursed Hag |
 | 172 | 301 | Damn Libra |

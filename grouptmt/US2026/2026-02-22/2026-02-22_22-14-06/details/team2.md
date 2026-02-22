@@ -178,8 +178,8 @@
 | 170 | 1260 | Joshua Sommerville |
 | 171 | 1257 | Michele Gabriel |
 | 172 | 1242 | Mischelle Clay |
-| 173 | 1232 | Ambyre Patterson |
-| 174 | 1232 | Groovy Puzzle |
+| 173 | 1232 | Groovy Puzzle |
+| 174 | 1232 | Ambyre Patterson |
 | 175 | 1230 | Megan Garrick |
 | 176 | 1224 | Liberty |
 | 177 | 1216 | Nancy Reid |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Lylymom |
-| 441 | 613 | Tonya Lee |
+| 440 | 613 | Tonya Lee |
+| 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -653,8 +653,8 @@
 | 645 | 433 | Tabs Reichert |
 | 646 | 433 | Tom Steffen |
 | 647 | 431 | Joel Rosado |
-| 648 | 431 | Hunter Connors |
-| 649 | 431 | Quinn |
+| 648 | 431 | Quinn |
+| 649 | 431 | Hunter Connors |
 | 650 | 430 | De Hawkins |
 | 651 | 429 | Goofy Catcher |
 | 652 | 429 | Angel Hunnewell |
@@ -792,12 +792,12 @@
 | 784 | 363 | Jes Norris |
 | 785 | 363 | Bryan Werleman |
 | 786 | 363 | Stephanie Fortune |
-| 787 | 363 | Tasia Stinson |
-| 788 | 363 | Janitta Alvarez |
+| 787 | 363 | Janitta Alvarez |
+| 788 | 363 | Tasia Stinson |
 | 789 | 362 | Janai Vrabel |
 | 790 | 362 | Christine Egidio Morocco |
-| 791 | 361 | Tosa Puvapiromquan |
-| 792 | 361 | Kelsey Sullivan |
+| 791 | 361 | Kelsey Sullivan |
+| 792 | 361 | Tosa Puvapiromquan |
 | 793 | 361 | Donald Nowland |
 | 794 | 359 | NickyBrooks |
 | 795 | 359 | Cheyenne Donovan |
@@ -846,8 +846,8 @@
 | 838 | 344 | Glenn Cobbins |
 | 839 | 344 | Kelsey |
 | 840 | 343 | Alexandrea |
-| 841 | 343 | Timothy Jesuwole |
-| 842 | 343 | Snappy Shatterfit |
+| 841 | 343 | Snappy Shatterfit |
+| 842 | 343 | Timothy Jesuwole |
 | 843 | 343 | Victoria Marie Bunch |
 | 844 | 342 | Danielle DeLozier Plesec |
 | 845 | 342 | Johanna Massaro |
