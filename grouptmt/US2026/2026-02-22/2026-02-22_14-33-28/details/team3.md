@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -320,8 +320,8 @@
 | 312 | 208 | Niki Dalrymple |
 | 313 | 208 | AlsoJess |
 | 314 | 207 | angieelyn |
-| 315 | 207 | Daring Builder |
-| 316 | 207 | Jessica |
+| 315 | 207 | Jessica |
+| 316 | 207 | Daring Builder |
 | 317 | 206 | Tracy Martin |
 | 318 | 206 | Tammy Rosenberry |
 | 319 | 205 | April Matthew Kibble |
@@ -391,8 +391,8 @@
 | 383 | 166 | Joshua David Huie |
 | 384 | 166 | Snarky McFace |
 | 385 | 165 | Kali Kelz Williams |
-| 386 | 164 | TazB |
-| 387 | 164 | momo |
+| 386 | 164 | momo |
+| 387 | 164 | TazB |
 | 388 | 164 | Ashley Rufus Bythcez |
 | 389 | 163 | Diana Ibarra |
 | 390 | 163 | Christine Trester |

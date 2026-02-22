@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Shelly Chandler |
-| 38 | 843 | Lucille Truesdale |
+| 37 | 843 | Lucille Truesdale |
+| 38 | 843 | Shelly Chandler |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |
@@ -114,8 +114,8 @@
 | 106 | 395 | Marie-Pier Desjardins |
 | 107 | 393 | Carlton Unfiltered |
 | 108 | 392 | Ericca Eldridge |
-| 109 | 391 | Ramel Rhodes |
-| 110 | 391 | Monica Daley |
+| 109 | 391 | Monica Daley |
+| 110 | 391 | Ramel Rhodes |
 | 111 | 387 | Denise Carlson |
 | 112 | 382 | Lori Walker |
 | 113 | 373 | Joseph Guthrie |
@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | J-Rizzle |
-| 166 | 244 | Twisty Cascadezone |
+| 165 | 244 | Twisty Cascadezone |
+| 166 | 244 | J-Rizzle |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -263,8 +263,8 @@
 | 255 | 165 | Zappy Buildgrid |
 | 256 | 164 | 030Synner |
 | 257 | 163 | Kristina Black |
-| 258 | 162 | John Brunetti |
-| 259 | 162 | conceptCollector |
+| 258 | 162 | conceptCollector |
+| 259 | 162 | John Brunetti |
 | 260 | 161 | Tanner Lund |
 | 261 | 160 | Brittany Marsh |
 | 262 | 160 | Ellen Durfee |

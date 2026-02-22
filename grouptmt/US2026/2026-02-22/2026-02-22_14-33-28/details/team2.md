@@ -110,8 +110,8 @@
 | 102 | 1535 | Donnie Hunt |
 | 103 | 1534 | Loopy Clusterbuilder |
 | 104 | 1534 | Laura Marie Pelletier |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -242,8 +242,8 @@
 | 234 | 867 | Peppy Zone |
 | 235 | 862 | Brittany Radaszewski |
 | 236 | 860 | Felicia Lynn |
-| 237 | 860 | April Dawn Gussler |
-| 238 | 860 | John Bednarik |
+| 237 | 860 | John Bednarik |
+| 238 | 860 | April Dawn Gussler |
 | 239 | 857 | Della Hole |
 | 240 | 855 | F-X |
 | 241 | 853 | Meghan M |
@@ -305,8 +305,8 @@
 | 297 | 715 | Stephanie Lumanlan |
 | 298 | 713 | Chelle |
 | 299 | 710 | Kathryn Townsley |
-| 300 | 704 | Shelley Thornburgh Wright |
-| 301 | 704 | Jánine Riggs |
+| 300 | 704 | Jánine Riggs |
+| 301 | 704 | Shelley Thornburgh Wright |
 | 302 | 703 | Gold Rose |
 | 303 | 700 | Vincent Petrella |
 | 304 | 700 | Hong Tang |
@@ -323,8 +323,8 @@
 | 315 | 688 | ShinyRose |
 | 316 | 687 | Dee |
 | 317 | 686 | Ashley Guernsey-Martin |
-| 318 | 685 | Brenda Pierpoint |
-| 319 | 685 | Binyah-Binyah |
+| 318 | 685 | Binyah-Binyah |
+| 319 | 685 | Brenda Pierpoint |
 | 320 | 682 | Poldo Ilano |
 | 321 | 681 | Melissa Holsinger |
 | 322 | 680 | Glitzy Stackzone |
@@ -356,8 +356,8 @@
 | 348 | 631 | Marie Walker |
 | 349 | 631 | Dylan Thomason |
 | 350 | 628 | Brownie Sheena |
-| 351 | 627 | Allan Wayne Lamia |
-| 352 | 627 | Victoria Moore-Smith |
+| 351 | 627 | Victoria Moore-Smith |
+| 352 | 627 | Allan Wayne Lamia |
 | 353 | 621 | Tj Ball |
 | 354 | 620 | Brandon Armstrong |
 | 355 | 613 | Caitlyn Blackwell |
@@ -457,15 +457,15 @@
 | 449 | 504 | Brenna Ann |
 | 450 | 504 | Kimmy Newman |
 | 451 | 502 | Sparkles |
-| 452 | 502 | Dennis McLaurin |
-| 453 | 502 | Sheniya Spurgeon |
+| 452 | 502 | Sheniya Spurgeon |
+| 453 | 502 | Dennis McLaurin |
 | 454 | 501 | Ann Matzkanin |
 | 455 | 500 | Sarah Ridenour |
 | 456 | 499 | Sarah Massey |
 | 457 | 498 | Rhonda Milstead |
 | 458 | 498 | Aimee Campbell |
-| 459 | 497 | Doowop40 |
-| 460 | 497 | June E Hanson |
+| 459 | 497 | June E Hanson |
+| 460 | 497 | Doowop40 |
 | 461 | 495 | Bubbly Snapbuild |
 | 462 | 494 | Venita Ray |
 | 463 | 493 | Sue Leard |
@@ -1208,9 +1208,9 @@
 | 1200 | 205 | Janis Resendiz |
 | 1201 | 205 | SafetyEyes16 |
 | 1202 | 204 | Edralin Custodio |
-| 1203 | 204 | Ali Gralski |
+| 1203 | 204 | ນາງ ບີ ລາດຊະຈັກ |
 | 1204 | 204 | Brec2024 |
-| 1205 | 204 | ນາງ ບີ ລາດຊະຈັກ |
+| 1205 | 204 | Ali Gralski |
 | 1206 | 204 | Andre Love |
 | 1207 | 202 | Paul Hinkle |
 | 1208 | 202 | Shanae Dillahunty |

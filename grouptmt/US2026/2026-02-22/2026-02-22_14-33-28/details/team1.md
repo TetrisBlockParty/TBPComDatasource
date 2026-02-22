@@ -186,10 +186,10 @@
 | 178 | 235 | MRdot Rooski |
 | 179 | 234 | Paula Martin |
 | 180 | 231 | Amanda Johnson Huffman |
-| 181 | 230 | Frothy Pattern |
-| 182 | 230 | Billie Dawn Sparks |
-| 183 | 229 | Chris K |
-| 184 | 229 | David Lutcher |
+| 181 | 230 | Billie Dawn Sparks |
+| 182 | 230 | Frothy Pattern |
+| 183 | 229 | David Lutcher |
+| 184 | 229 | Chris K |
 | 185 | 226 | Kandae |
 | 186 | 224 | ParisandCory Champagne |
 | 187 | 223 | Basment Living |
