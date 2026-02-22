@@ -173,10 +173,10 @@
 | 165 | 263 | Ty Brown |
 | 166 | 262 | Sleepysloath5745 |
 | 167 | 257 | Shannon Marie Pitts |
-| 168 | 254 | Letson Melissa |
-| 169 | 254 | Al Smith Jr |
-| 170 | 253 | Witty Builderfit |
-| 171 | 253 | Jamie Jury |
+| 168 | 254 | Al Smith Jr |
+| 169 | 254 | Letson Melissa |
+| 170 | 253 | Jamie Jury |
+| 171 | 253 | Witty Builderfit |
 | 172 | 252 | Dena Kayy |
 | 173 | 251 | Giggly Builderline |
 | 174 | 249 | Lakeisha Chapman |

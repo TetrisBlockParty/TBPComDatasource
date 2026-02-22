@@ -248,8 +248,8 @@
 | 240 | 867 | Michele Gabriel |
 | 241 | 867 | Peppy Zone |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | April Dawn Gussler |
-| 244 | 860 | John Bednarik |
+| 243 | 860 | John Bednarik |
+| 244 | 860 | April Dawn Gussler |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
 | 247 | 853 | Ashlen Dorrell |
@@ -334,12 +334,12 @@
 | 326 | 688 | ShinyRose |
 | 327 | 687 | Dee |
 | 328 | 686 | Ashley Guernsey-Martin |
-| 329 | 685 | Binyah-Binyah |
-| 330 | 685 | Brenda Pierpoint |
+| 329 | 685 | Brenda Pierpoint |
+| 330 | 685 | Binyah-Binyah |
 | 331 | 682 | Poldo Ilano |
 | 332 | 680 | Glitzy Stackzone |
-| 333 | 679 | Eric Castaneda |
-| 334 | 679 | Leslie Ann Carter |
+| 333 | 679 | Leslie Ann Carter |
+| 334 | 679 | Eric Castaneda |
 | 335 | 679 | Kassandra Hunt |
 | 336 | 675 | Tommy Tha Boss Gunz |
 | 337 | 669 | Jelly |
@@ -353,8 +353,8 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | goofinoff |
-| 349 | 661 | BeQuo |
+| 348 | 661 | BeQuo |
+| 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | Shiny Rollzone |
@@ -368,10 +368,10 @@
 | 360 | 631 | Dylan Thomason |
 | 361 | 631 | Marie Walker |
 | 362 | 628 | Brownie Sheena |
-| 363 | 627 | Allan Wayne Lamia |
-| 364 | 627 | Victoria Moore-Smith |
-| 365 | 620 | Demeka Dangerous-kisses Johnson |
-| 366 | 620 | Brandon Armstrong |
+| 363 | 627 | Victoria Moore-Smith |
+| 364 | 627 | Allan Wayne Lamia |
+| 365 | 620 | Brandon Armstrong |
+| 366 | 620 | Demeka Dangerous-kisses Johnson |
 | 367 | 618 | Gary Stash |
 | 368 | 616 | Cassie Mercer |
 | 369 | 613 | Breezy Filler |
@@ -424,15 +424,15 @@
 | 416 | 549 | Frisky Clearpiece |
 | 417 | 546 | AISlop |
 | 418 | 544 | Deidre Shaffer |
-| 419 | 543 | Vanessa Moreno |
-| 420 | 543 | Julie Kresal |
+| 419 | 543 | Julie Kresal |
+| 420 | 543 | Vanessa Moreno |
 | 421 | 541 | g |
 | 422 | 540 | Dizzy Zone |
 | 423 | 539 | Dapper Dasher |
 | 424 | 538 | Tra Barnum |
 | 425 | 536 | Melissa Kay Gibson |
-| 426 | 536 | Shaun Church |
-| 427 | 536 | Caitlin Schmid |
+| 426 | 536 | Caitlin Schmid |
+| 427 | 536 | Shaun Church |
 | 428 | 534 | Kenny Alvarado |
 | 429 | 533 | Gauri Shrotriya |
 | 430 | 532 | Lylymom |
@@ -549,7 +549,7 @@
 | 541 | 445 | Elisheva Mizrachi |
 | 542 | 444 | Fi Ne |
 | 543 | 444 | Ryan Meilleur |
-| 544 | 444 | Fi Ne |
+| 544 | 444 | Chab |
 | 545 | 443 | Christy Long |
 | 546 | 442 | Juan Castillo |
 | 547 | 442 | Darlene Bowman |
@@ -1465,7 +1465,7 @@
 | 1457 | 177 | Ekaterina Gokmen |
 | 1458 | 177 | Alex Losaw |
 | 1459 | 176 | Elizabeth Cotton |
-| 1460 | 176 | Jess Orosz |
+| 1460 | 176 | Gigi |
 | 1461 | 176 | kippykay |
 | 1462 | 176 | Michelle Grant-Moncrieft |
 | 1463 | 176 | Jess Orosz |

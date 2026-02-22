@@ -387,8 +387,8 @@
 | 379 | 180 | Beth Ingham |
 | 380 | 179 | DanceLuvLaugh |
 | 381 | 178 | Jess Dearborn |
-| 382 | 178 | Christian Luna |
-| 383 | 178 | Joy Petroski |
+| 382 | 178 | Joy Petroski |
+| 383 | 178 | Christian Luna |
 | 384 | 177 | Kristin Delibac Corrigan |
 | 385 | 176 | Skinny Baldez |
 | 386 | 176 | Emma |

@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -247,8 +247,8 @@
 | 239 | 186 | Cristy Duerksen |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |
-| 242 | 184 | Ak Jones |
-| 243 | 184 | Lauren Lamb |
+| 242 | 184 | Lauren Lamb |
+| 243 | 184 | Ak Jones |
 | 244 | 183 | JPW |
 | 245 | 181 | Jackie Marie |
 | 246 | 181 | Carter Jones |
@@ -350,8 +350,8 @@
 | 342 | 132 | Degenerate |
 | 343 | 132 | Jessica Cagle |
 | 344 | 132 | Vamp |
-| 345 | 131 | Peppy Drop |
-| 346 | 131 | Smiley Tiltbuilder |
+| 345 | 131 | Smiley Tiltbuilder |
+| 346 | 131 | Peppy Drop |
 | 347 | 130 | Shukee Lo |
 | 348 | 130 | Zach Kerbs |
 | 349 | 130 | icequeenx |
@@ -361,10 +361,10 @@
 | 353 | 129 | Chris Alexinas |
 | 354 | 128 | Jesus Garcia |
 | 355 | 128 | Gracie Ann Taylor |
-| 356 | 128 | Silly Zonebuilder |
-| 357 | 128 | Jesus Garcia |
-| 358 | 127 | Frank Cook |
-| 359 | 127 | Bradley Reeves |
+| 356 | 128 | Madison Sweere |
+| 357 | 128 | Silly Zonebuilder |
+| 358 | 127 | Bradley Reeves |
+| 359 | 127 | Frank Cook |
 | 360 | 127 | Robert Rodriguez |
 | 361 | 126 | Paito |
 | 362 | 126 | Cheryl Johnson |
@@ -391,11 +391,11 @@
 | 383 | 118 | Darrin Rubalcava |
 | 384 | 118 | Mackenzie Forrester |
 | 385 | 117 | David V. Bowers |
-| 386 | 117 | BigSammy420 |
-| 387 | 117 | Grann8 |
-| 388 | 116 | Smiley Shifter |
-| 389 | 116 | Kate |
-| 390 | 116 | Zesty Linkgrid |
+| 386 | 117 | Grann8 |
+| 387 | 117 | BigSammy420 |
+| 388 | 116 | Kate |
+| 389 | 116 | Smiley Shifter |
+| 390 | 116 | Chummy Towerzone |
 | 391 | 116 | Funky Risepiece |
 | 392 | 116 | Shiny Pivoty |
 | 393 | 116 | Zesty Linkgrid |
