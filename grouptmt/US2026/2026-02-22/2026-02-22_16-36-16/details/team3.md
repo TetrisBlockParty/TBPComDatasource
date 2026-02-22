@@ -131,8 +131,8 @@
 | 123 | 526 | Cynthia Castros-Hampton |
 | 124 | 525 | Justin Ritter |
 | 125 | 521 | Michael Nowogorski |
-| 126 | 521 | Daryn Elliott |
-| 127 | 521 | Michelle Becker |
+| 126 | 521 | Michelle Becker |
+| 127 | 521 | Daryn Elliott |
 | 128 | 518 | opf |
 | 129 | 506 | Sashay Tapae Simpson |
 | 130 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -143,9 +143,9 @@
 | 135 | 491 | Chauntee Alfrey-Cardinale |
 | 136 | 483 | CeceGeGe |
 | 137 | 480 | Stephanie Blkpep Davidson |
-| 138 | 479 | Patti Skiles |
-| 139 | 479 | Annie Marie |
-| 140 | 479 | Poppy Splitter |
+| 138 | 479 | Poppy Splitter |
+| 139 | 479 | Patti Skiles |
+| 140 | 479 | Annie Marie |
 | 141 | 476 | Mary Pellegrino |
 | 142 | 473 | mzcatzy |
 | 143 | 471 | Mendoza Lee Christy |

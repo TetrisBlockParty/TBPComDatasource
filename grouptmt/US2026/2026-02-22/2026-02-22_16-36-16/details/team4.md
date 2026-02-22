@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -116,8 +116,8 @@
 | 108 | 401 | Zippy Gridlock |
 | 109 | 400 | Ericca Eldridge |
 | 110 | 397 | Scott Jameson |
-| 111 | 395 | Denise Carlson |
-| 112 | 395 | Marie-Pier Desjardins |
+| 111 | 395 | Marie-Pier Desjardins |
+| 112 | 395 | Denise Carlson |
 | 113 | 393 | Carlton Unfiltered |
 | 114 | 391 | Monica Daley |
 | 115 | 391 | Ramel Rhodes |
@@ -236,8 +236,8 @@
 | 228 | 200 | Googenheim |
 | 229 | 200 | Lori |
 | 230 | 199 | April Rondinone |
-| 231 | 198 | Keith Kelley |
-| 232 | 198 | Calvin Dennis |
+| 231 | 198 | Calvin Dennis |
+| 232 | 198 | Keith Kelley |
 | 233 | 197 | Silly SeaWeed |
 | 234 | 197 | Gilles Lanctot |
 | 235 | 195 | 中山成巳 |
@@ -271,8 +271,8 @@
 | 263 | 166 | SammieJo Guy |
 | 264 | 166 | Megan Cutshaw |
 | 265 | 166 | Angelito |
-| 266 | 165 | Brittany Marsh |
-| 267 | 165 | James Hurley Jr. |
+| 266 | 165 | James Hurley Jr. |
+| 267 | 165 | Brittany Marsh |
 | 268 | 165 | Zappy Buildgrid |
 | 269 | 164 | Adam Stephanie Parker |
 | 270 | 164 | KimoKoala |
@@ -346,8 +346,8 @@
 | 338 | 136 | Michelle Morris |
 | 339 | 135 | Vanessa Smart |
 | 340 | 135 | Joshua Guess |
-| 341 | 134 | Duck |
-| 342 | 134 | Marvetta Williams |
+| 341 | 134 | Marvetta Williams |
+| 342 | 134 | Duck |
 | 343 | 133 | Jesus Garcia |
 | 344 | 132 | Meg |
 | 345 | 132 | Jessica Cagle |

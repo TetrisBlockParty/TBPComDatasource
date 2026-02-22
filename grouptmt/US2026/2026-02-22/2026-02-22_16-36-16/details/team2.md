@@ -384,13 +384,13 @@
 | 376 | 613 | Caitlyn Blackwell |
 | 377 | 612 | Nicole Cannon |
 | 378 | 611 | Em Chen |
-| 379 | 611 | Julio A Laracuente |
-| 380 | 611 | Carl Bradshaw |
+| 379 | 611 | Carl Bradshaw |
+| 380 | 611 | Julio A Laracuente |
 | 381 | 610 | Traci Johnson |
 | 382 | 606 | Brittney Jean |
 | 383 | 603 | Cassie Maynard |
-| 384 | 602 | Shaun Church |
-| 385 | 602 | KhaosLord |
+| 384 | 602 | KhaosLord |
+| 385 | 602 | Shaun Church |
 | 386 | 602 | Biggest thing |
 | 387 | 601 | Vonceial Boone |
 | 388 | 601 | Steven Marshaun |
