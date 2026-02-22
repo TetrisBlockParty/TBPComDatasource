@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -106,8 +106,8 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 589 | Giddy Drop |
 | 100 | 588 | yoyo |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
@@ -177,8 +177,8 @@
 | 169 | 384 | Dapper Snap |
 | 170 | 382 | Scott Carleton |
 | 171 | 380 | Tasha Schriewer |
-| 172 | 378 | Nicole Flippo |
-| 173 | 378 | Chris Bell |
+| 172 | 378 | Chris Bell |
+| 173 | 378 | Nicole Flippo |
 | 174 | 376 | Loopy Clusterer |
 | 175 | 375 | Shunta Jacobs |
 | 176 | 374 | Sherry Ogden |
@@ -289,8 +289,8 @@
 | 281 | 229 | Christian Werndl |
 | 282 | 227 | Krystal Gerstberger |
 | 283 | 227 | Meowsa |
-| 284 | 225 | Dirtgirl27 |
-| 285 | 225 | Stephanie Hill |
+| 284 | 225 | Stephanie Hill |
+| 285 | 225 | Dirtgirl27 |
 | 286 | 225 | Steffi Chris Dacones |
 | 287 | 224 | Quirky Dropzone |
 | 288 | 221 | Vaners |
@@ -300,8 +300,8 @@
 | 292 | 220 | Tosha Griffey |
 | 293 | 220 | rosy |
 | 294 | 218 | Michael Lucado |
-| 295 | 216 | Twisty Brick LT |
-| 296 | 216 | Cheryl Hinch Tenbrook |
+| 295 | 216 | Cheryl Hinch Tenbrook |
+| 296 | 216 | Twisty Brick LT |
 | 297 | 215 | IamJust Neyamijah Washington Sr. |
 | 298 | 214 | Amy Fuller Heaton |
 | 299 | 214 | Rebel124 |
@@ -387,8 +387,8 @@
 | 379 | 167 | Irene Arreguin |
 | 380 | 166 | Snarky McFace |
 | 381 | 165 | Kali Kelz Williams |
-| 382 | 164 | momo |
-| 383 | 164 | TazB |
+| 382 | 164 | TazB |
+| 383 | 164 | momo |
 | 384 | 164 | Ashley Rufus Bythcez |
 | 385 | 163 | Diana Ibarra |
 | 386 | 163 | Everret Maxine |
@@ -498,8 +498,8 @@
 | 490 | 129 | Stella |
 | 491 | 128 | David Kozen |
 | 492 | 127 | Jason-Ashley Ludlow |
-| 493 | 127 | Carrie Resler |
-| 494 | 127 | Scidone Perez |
+| 493 | 127 | Scidone Perez |
+| 494 | 127 | Carrie Resler |
 | 495 | 126 | demon14 |
 | 496 | 126 | Jul |
 | 497 | 126 | Lush Balance |

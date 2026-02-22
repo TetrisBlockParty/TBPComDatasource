@@ -206,14 +206,14 @@
 | 198 | 208 | Bouncy Grid |
 | 199 | 208 | Michelle Beres |
 | 200 | 208 | Donna Addison Williams |
-| 201 | 207 | Brenda Alexander |
-| 202 | 207 | Leslie Bush Yarbrough |
+| 201 | 207 | Leslie Bush Yarbrough |
+| 202 | 207 | Brenda Alexander |
 | 203 | 206 | BadG52 |
 | 204 | 205 | Snappy Matcher |
 | 205 | 205 | Tater |
 | 206 | 204 | Lacy Wolfe |
-| 207 | 202 | Amanda Holibaugh |
-| 208 | 202 | Fmp |
+| 207 | 202 | Fmp |
+| 208 | 202 | Amanda Holibaugh |
 | 209 | 201 | Colleen Wise |
 | 210 | 200 | DaRascal |
 | 211 | 200 | Breanna Luna |
@@ -222,8 +222,8 @@
 | 214 | 198 | Shiny Gridmatch |
 | 215 | 198 | Happy Snapbuild |
 | 216 | 197 | Melissa Lemmon |
-| 217 | 195 | Bindi |
-| 218 | 195 | Jennifer Olewnik Soborowski |
+| 217 | 195 | Jennifer Olewnik Soborowski |
+| 218 | 195 | Bindi |
 | 219 | 194 | Christy Jones |
 | 220 | 193 | Michael |
 | 221 | 193 | Shanae Grant |
@@ -246,9 +246,9 @@
 | 238 | 183 | Brave Wrecker |
 | 239 | 183 | Andrew Boone |
 | 240 | 182 | Phu ckalldems |
-| 241 | 180 | BigWeenie69 |
+| 241 | 180 | Jessie Lynn |
 | 242 | 180 | Beau Galvan |
-| 243 | 180 | Jessie Lynn |
+| 243 | 180 | BigWeenie69 |
 | 244 | 179 | Ryan White |
 | 245 | 179 | femmefatale |
 | 246 | 179 | Danielle Little-Daugherty |

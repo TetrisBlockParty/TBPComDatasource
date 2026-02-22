@@ -113,8 +113,8 @@
 | 105 | 395 | Marie-Pier Desjardins |
 | 106 | 393 | Carlton Unfiltered |
 | 107 | 392 | Ericca Eldridge |
-| 108 | 391 | Ramel Rhodes |
-| 109 | 391 | Monica Daley |
+| 108 | 391 | Monica Daley |
+| 109 | 391 | Ramel Rhodes |
 | 110 | 387 | Denise Carlson |
 | 111 | 377 | Lori Walker |
 | 112 | 373 | Joseph Guthrie |
@@ -281,8 +281,8 @@
 | 273 | 152 | Faja |
 | 274 | 152 | Angela Geist Jusinski |
 | 275 | 151 | Joseph Pace |
-| 276 | 150 | Jared Gutwein |
-| 277 | 150 | Brandon Link |
+| 276 | 150 | Brandon Link |
+| 277 | 150 | Jared Gutwein |
 | 278 | 149 | Shainne Brewer |
 | 279 | 148 | Nubian1 |
 | 280 | 148 | Ruby Khalisadar |
@@ -386,9 +386,9 @@
 | 378 | 115 | Kevin Bush |
 | 379 | 114 | Rosemary Foster |
 | 380 | 114 | Jason Frehner |
-| 381 | 113 | Dandy Cascadefit |
-| 382 | 113 | Stephanie Mico |
-| 383 | 113 | @ |
+| 381 | 113 | @ |
+| 382 | 113 | Dandy Cascadefit |
+| 383 | 113 | Stephanie Mico |
 | 384 | 113 | Raymond Roberts |
 | 385 | 111 | Heather Bruce |
 | 386 | 111 | Sharyn Lemire |
@@ -410,7 +410,7 @@
 | 402 | 108 | Denise B |
 | 403 | 108 | mike |
 | 404 | 108 | Walter Beltran |
-| 405 | 108 | mike |
+| 405 | 108 | Ali Ian |
 | 406 | 107 | Brandi Durig |
 | 407 | 106 | Jacob Richard |
 | 408 | 106 | Zappy Snaplink |

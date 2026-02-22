@@ -763,8 +763,8 @@
 | 755 | 311 | SwifftFox |
 | 756 | 311 | Audra Williams |
 | 757 | 310 | Beth Decker |
-| 758 | 310 | Wendy Ducheney |
-| 759 | 310 | Cheeky Brickmatch |
+| 758 | 310 | Cheeky Brickmatch |
+| 759 | 310 | Wendy Ducheney |
 | 760 | 309 | Byung Bae Park |
 | 761 | 308 | Hyper Riseclear |
 | 762 | 308 | Katie Joy McCombs |
