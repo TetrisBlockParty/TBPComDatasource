@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -265,8 +265,8 @@
 | 257 | 211 | Khaleada McGill Banks |
 | 258 | 208 | AlsoJess |
 | 259 | 207 | Jessica |
-| 260 | 206 | Cheryl Hinch Tenbrook |
-| 261 | 206 | Tammy Rosenberry |
+| 260 | 206 | Tammy Rosenberry |
+| 261 | 206 | Cheryl Hinch Tenbrook |
 | 262 | 204 | Aerian Preston |
 | 263 | 204 | Danielle Allison |
 | 264 | 203 | Angie Harper |
@@ -357,8 +357,8 @@
 | 349 | 148 | Pam Holt Powell |
 | 350 | 147 | David Bardo |
 | 351 | 147 | Funky Jumper |
-| 352 | 147 | David Bardo |
-| 353 | 147 | Kiki |
+| 352 | 147 | Kiki |
+| 353 | 147 | sofaking |
 | 354 | 146 | ROODBOY |
 | 355 | 144 | Tenisha Semidey |
 | 356 | 142 | Gray Hicks |
@@ -371,8 +371,8 @@
 | 363 | 141 | Danielle Weikel |
 | 364 | 140 | Boldy Corner |
 | 365 | 140 | Linda Draper |
-| 366 | 139 | Beppy |
-| 367 | 139 | Paula Little |
+| 366 | 139 | Paula Little |
+| 367 | 139 | Beppy |
 | 368 | 138 | Skinny Baldez |
 | 369 | 138 | MizzMonick Smith |
 | 370 | 137 | Giggly Brickroll |

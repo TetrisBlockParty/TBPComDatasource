@@ -125,9 +125,9 @@
 | 117 | 274 | Desi Desporte |
 | 118 | 271 | Sarah Brown |
 | 119 | 268 | Meagan Nicole |
-| 120 | 264 | Girl |
-| 121 | 264 | Dana Scott |
-| 122 | 264 | Epic Curvetile |
+| 120 | 264 | Dana Scott |
+| 121 | 264 | Epic Curvetile |
+| 122 | 264 | Girl |
 | 123 | 262 | Holly Jolly |
 | 124 | 258 | Brittney Orengo |
 | 125 | 256 | Mylo Lipscomb |
@@ -173,8 +173,8 @@
 | 165 | 194 | Chilly Crasher |
 | 166 | 194 | Zany Twisterfit |
 | 167 | 192 | Shauna Havard |
-| 168 | 189 | Stacey Stano |
-| 169 | 189 | Calvin Dennis |
+| 168 | 189 | Calvin Dennis |
+| 169 | 189 | Stacey Stano |
 | 170 | 188 | Andria Lynn |
 | 171 | 186 | Holly |
 | 172 | 185 | Andy Cabral |
@@ -197,15 +197,15 @@
 | 189 | 165 | James Hurley Jr. |
 | 190 | 164 | 030Synner |
 | 191 | 162 | Joanna |
-| 192 | 160 | Carlos Ramirez |
+| 192 | 160 | ZeeZee |
 | 193 | 160 | Laura Hosford |
-| 194 | 160 | ZeeZee |
+| 194 | 160 | Carlos Ramirez |
 | 195 | 159 | Marcus Todd |
-| 196 | 158 | Avy Absol |
-| 197 | 158 | Chair |
-| 198 | 157 | KayM |
+| 196 | 158 | Chair |
+| 197 | 158 | Avy Absol |
+| 198 | 157 | Bethany Ison |
 | 199 | 157 | scott |
-| 200 | 157 | Bethany Ison |
+| 200 | 157 | KayM |
 | 201 | 156 | Cursed Hag |
 | 202 | 156 | Jackie Marie |
 | 203 | 155 | AyeKay |
