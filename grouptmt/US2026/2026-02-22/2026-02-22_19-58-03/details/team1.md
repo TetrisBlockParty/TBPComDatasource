@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -170,8 +170,8 @@
 | 162 | 298 | femmefatale |
 | 163 | 297 | Danielle Little-Daugherty |
 | 164 | 296 | Madison Wicks |
-| 165 | 293 | Letson Melissa |
-| 166 | 293 | Sarah Roberts |
+| 165 | 293 | Sarah Roberts |
+| 166 | 293 | Letson Melissa |
 | 167 | 292 | David Lutcher |
 | 168 | 289 | ALFD |
 | 169 | 284 | Rachael |
@@ -202,8 +202,8 @@
 | 194 | 264 | Jenny Gingrich Fuentes |
 | 195 | 261 | Witty Builderfit |
 | 196 | 256 | Chris65 |
-| 197 | 254 | Al Smith Jr |
-| 198 | 254 | Giggly Builderline |
+| 197 | 254 | Giggly Builderline |
+| 198 | 254 | Al Smith Jr |
 | 199 | 253 | Jamie Jury |
 | 200 | 252 | Dena Kayy |
 | 201 | 249 | Lakeisha Chapman |

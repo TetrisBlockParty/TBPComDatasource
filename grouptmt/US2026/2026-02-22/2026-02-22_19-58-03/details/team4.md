@@ -75,8 +75,8 @@
 | 67 | 664 | Valerie Roberts |
 | 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -288,8 +288,8 @@
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
-| 283 | 174 | Shane Vick |
-| 284 | 174 | BigSammy420 |
+| 283 | 174 | BigSammy420 |
+| 284 | 174 | Shane Vick |
 | 285 | 171 | June Hoffman |
 | 286 | 171 | Autumn Kumzi |
 | 287 | 170 | Cynthia Boudreau |

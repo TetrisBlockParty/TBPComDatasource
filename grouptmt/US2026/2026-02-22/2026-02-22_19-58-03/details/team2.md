@@ -275,12 +275,12 @@
 | 267 | 875 | Jamie Otero |
 | 268 | 874 | Giggy Blocker |
 | 269 | 872 | Felicia Lynn |
-| 270 | 867 | Michele Gabriel |
-| 271 | 867 | Peppy Zone |
+| 270 | 867 | Peppy Zone |
+| 271 | 867 | Michele Gabriel |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
-| 274 | 860 | William Hunt |
-| 275 | 860 | April Dawn Gussler |
+| 274 | 860 | April Dawn Gussler |
+| 275 | 860 | William Hunt |
 | 276 | 857 | Kara Gillen |
 | 277 | 855 | F-X |
 | 278 | 853 | Meghan M |
@@ -567,20 +567,20 @@
 | 559 | 473 | Sam |
 | 560 | 473 | Wuntayk |
 | 561 | 472 | Kyle LeRoy Harris |
-| 562 | 472 | KayLynn Ogden McClelland |
+| 562 | 472 | Mary Marie |
 | 563 | 472 | Arwa Fatimah |
-| 564 | 472 | Mary Marie |
+| 564 | 472 | KayLynn Ogden McClelland |
 | 565 | 471 | Rae Rae |
 | 566 | 470 | Lee Harper |
 | 567 | 470 | Arlene Joy Belicina |
 | 568 | 470 | Snippy Rumbler |
 | 569 | 469 | Christy Long |
 | 570 | 468 | Tina Marie |
-| 571 | 467 | SwampRebel |
-| 572 | 467 | Audrey Jones |
+| 571 | 467 | Audrey Jones |
+| 572 | 467 | SwampRebel |
 | 573 | 466 | Koa N Sharon Chen |
-| 574 | 466 | Crystal Greene |
-| 575 | 466 | Kori Beth Babb |
+| 574 | 466 | Kori Beth Babb |
+| 575 | 466 | Crystal Greene |
 | 576 | 466 | Ebony Deloach Bryant |
 | 577 | 464 | Ryan Stadel |
 | 578 | 463 | Jaye EL Hunter |

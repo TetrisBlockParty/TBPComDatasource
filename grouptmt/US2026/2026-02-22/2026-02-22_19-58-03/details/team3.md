@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 794 | Aaron Pitkin |
@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Amber Hughes |
-| 115 | 625 | Shavette |
+| 114 | 625 | Shavette |
+| 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Bea Miles |
 | 118 | 618 | Kristie |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -173,8 +173,8 @@
 | 165 | 457 | Jim Mathews |
 | 166 | 455 | Tessina Dewey-Mancino |
 | 167 | 453 | Shannon Matthew Byers |
-| 168 | 452 | Calista Jo Dickson |
-| 169 | 452 | Danielle Rhoades |
+| 168 | 452 | Danielle Rhoades |
+| 169 | 452 | Calista Jo Dickson |
 | 170 | 451 | Rachel |
 | 171 | 451 | FuzzyNavel |
 | 172 | 445 | Jacqueline Rodriguez |
@@ -563,8 +563,8 @@
 | 555 | 142 | Jana Fagg |
 | 556 | 142 | Angel Miller |
 | 557 | 142 | gravelgrinder |
-| 558 | 141 | Reina Roth |
-| 559 | 141 | Jm |
+| 558 | 141 | Jm |
+| 559 | 141 | Reina Roth |
 | 560 | 141 | Jen Lewis |
 | 561 | 140 | Brooke Bauer |
 | 562 | 139 | Daisy Rocha |
@@ -614,7 +614,7 @@
 | 606 | 129 | joz |
 | 607 | 129 | LIL BIT |
 | 608 | 128 | Courtney van der Kooy |
-| 609 | 128 | Jessica Rose-Morgan |
+| 609 | 128 | Dee Pratt |
 | 610 | 128 | David Kozen |
 | 611 | 128 | Jessica Rose-Morgan |
 | 612 | 127 | Cathy Leger |
