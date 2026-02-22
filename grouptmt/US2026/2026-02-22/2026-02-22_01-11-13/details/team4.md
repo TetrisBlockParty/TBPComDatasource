@@ -144,8 +144,8 @@
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
 | 138 | 190 | Mary Ann Pabukis |
-| 139 | 189 | Stacey Stano |
-| 140 | 189 | Calvin Dennis |
+| 139 | 189 | Calvin Dennis |
+| 140 | 189 | Stacey Stano |
 | 141 | 187 | TheNeesh50 |
 | 142 | 186 | Holly |
 | 143 | 185 | Lori |
@@ -159,15 +159,15 @@
 | 151 | 179 | Ak Jones |
 | 152 | 179 | Scott Jameson |
 | 153 | 176 | Zethra Prenisha Rahming |
-| 154 | 175 | blockstar |
-| 155 | 175 | Ren Mc |
+| 154 | 175 | Ren Mc |
+| 155 | 175 | blockstar |
 | 156 | 174 | Dihcheese444 |
 | 157 | 173 | Jessica Lynn Cutlip |
 | 158 | 172 | Jessica Bohlken |
 | 159 | 171 | Diana Houts |
 | 160 | 166 | SammieJo Guy |
-| 161 | 164 | 030Synner |
-| 162 | 164 | ThaEviLJeNiuZ |
+| 161 | 164 | ThaEviLJeNiuZ |
+| 162 | 164 | 030Synner |
 | 163 | 160 | ZeeZee |
 | 164 | 160 | Carlos Ramirez |
 | 165 | 155 | AyeKay |

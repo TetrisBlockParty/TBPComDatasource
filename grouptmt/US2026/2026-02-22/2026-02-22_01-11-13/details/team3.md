@@ -118,18 +118,18 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | joclisa |
-| 114 | 394 | Annie Déè |
+| 113 | 394 | Annie Déè |
+| 114 | 394 | joclisa |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
-| 117 | 390 | Hasty Cascadefit |
-| 118 | 390 | Patti Skiles |
+| 117 | 390 | Patti Skiles |
+| 118 | 390 | Hasty Cascadefit |
 | 119 | 389 | FuzzyNavel |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
-| 122 | 378 | Makelini Mausia |
-| 123 | 378 | Tasha Gillespie |
-| 124 | 378 | Tasha Schriewer |
+| 122 | 378 | Tasha Schriewer |
+| 123 | 378 | Makelini Mausia |
+| 124 | 378 | Tasha Gillespie |
 | 125 | 374 | Loopy Clusterer |
 | 126 | 368 | Stephanie Woods |
 | 127 | 368 | Stephanie Blkpep Davidson |
@@ -139,8 +139,8 @@
 | 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 340 | Patricia Gadsden |
 | 138 | 328 | Jeni Dow |
@@ -242,8 +242,8 @@
 | 234 | 185 | AlsoJess |
 | 235 | 184 | Troy |
 | 236 | 181 | Nicholas Roddy |
-| 237 | 180 | Loopy Fallmatch |
-| 238 | 180 | Ryan Williams |
+| 237 | 180 | Ryan Williams |
+| 238 | 180 | Loopy Fallmatch |
 | 239 | 179 | DanceLuvLaugh |
 | 240 | 179 | Rachel Napper |
 | 241 | 179 | Daira Largen |

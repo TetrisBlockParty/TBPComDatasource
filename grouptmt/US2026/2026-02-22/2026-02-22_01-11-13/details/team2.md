@@ -200,8 +200,8 @@
 | 192 | 706 | Heather Piotrowski |
 | 193 | 705 | Lola Contreras |
 | 194 | 705 | Roger Grabbit |
-| 195 | 700 | Beverly Owens |
-| 196 | 700 | Rosemadder |
+| 195 | 700 | Rosemadder |
+| 196 | 700 | Beverly Owens |
 | 197 | 700 | Vincent Petrella |
 | 198 | 699 | Vo'Landa Reels |
 | 199 | 693 | Kristopher Miller |
@@ -392,8 +392,8 @@
 | 384 | 406 | Julie Kresal |
 | 385 | 406 | Tj Ball |
 | 386 | 405 | Christy Krissie |
-| 387 | 403 | Snippy Rumbler |
-| 388 | 403 | Tonya Lee |
+| 387 | 403 | Tonya Lee |
+| 388 | 403 | Snippy Rumbler |
 | 389 | 402 | Gauri Shrotriya |
 | 390 | 401 | Taylor Flowers |
 | 391 | 401 | De Hawkins |
@@ -412,8 +412,8 @@
 | 404 | 391 | Qiana Sanders |
 | 405 | 391 | Chilly Bridgepiece |
 | 406 | 389 | Alexis Richardson |
-| 407 | 387 | Ann Matzkanin |
-| 408 | 387 | Johnny Yeates |
+| 407 | 387 | Johnny Yeates |
+| 408 | 387 | Ann Matzkanin |
 | 409 | 386 | Irene Jones |
 | 410 | 384 | Jodi Blake |
 | 411 | 384 | Mike Aprilliano |
@@ -567,8 +567,8 @@
 | 559 | 294 | Frisky Riserbuilder |
 | 560 | 294 | Frilly Fallzone |
 | 561 | 294 | Amanda Edwards |
-| 562 | 293 | Carl Bradshaw |
-| 563 | 293 | Giggy Grabber |
+| 562 | 293 | Giggy Grabber |
+| 563 | 293 | Carl Bradshaw |
 | 564 | 293 | Ann Marie Davis |
 | 565 | 292 | Deana |
 | 566 | 292 | BeQuo |
@@ -748,14 +748,14 @@
 | 740 | 220 | Wacky Cascade |
 | 741 | 219 | Eileen Hale |
 | 742 | 219 | Abby Klaski |
-| 743 | 219 | Trista Carter |
+| 743 | 219 | Cathy Bitters |
 | 744 | 219 | Chummy Breaker |
-| 745 | 219 | Cathy Bitters |
+| 745 | 219 | Trista Carter |
 | 746 | 219 | Beverly Hodge |
 | 747 | 218 | Shylee Tilman |
 | 748 | 218 | Jannan Haimour |
-| 749 | 218 | Greenshades00 |
-| 750 | 218 | Joy LaJeunesse |
+| 749 | 218 | Joy LaJeunesse |
+| 750 | 218 | Greenshades00 |
 | 751 | 217 | Erika Meaux |
 | 752 | 217 | Michael Artis |
 | 753 | 216 | Jamie Main |
@@ -789,8 +789,8 @@
 | 781 | 209 | John Quiring |
 | 782 | 209 | Samantha Morgan |
 | 783 | 209 | AgileDragon |
-| 784 | 208 | Alyssa Dean |
-| 785 | 208 | TK Boles |
+| 784 | 208 | TK Boles |
+| 785 | 208 | Alyssa Dean |
 | 786 | 208 | Ashley MoBetta Humes |
 | 787 | 207 | Crystal Heller Gonzalez |
 | 788 | 207 | Jeffrey Barrows |

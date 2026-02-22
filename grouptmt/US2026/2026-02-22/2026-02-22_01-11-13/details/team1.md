@@ -128,8 +128,8 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | MRdot Rooski |
-| 124 | 216 | Shauntina Burke |
+| 123 | 216 | Shauntina Burke |
+| 124 | 216 | MRdot Rooski |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
