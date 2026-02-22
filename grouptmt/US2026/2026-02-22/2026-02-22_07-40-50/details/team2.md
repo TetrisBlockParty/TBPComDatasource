@@ -414,8 +414,8 @@
 | 406 | 489 | Osun Anuket Esu |
 | 407 | 489 | Cassie Mercer |
 | 408 | 488 | Venita Ray |
-| 409 | 487 | MrsCandyfine As Wine Truss |
-| 410 | 487 | Maya June |
+| 409 | 487 | Maya June |
+| 410 | 487 | MrsCandyfine As Wine Truss |
 | 411 | 486 | Caitlin Schmid |
 | 412 | 485 | Mamachelle Eisweirth |
 | 413 | 485 | Dapper Dasher |

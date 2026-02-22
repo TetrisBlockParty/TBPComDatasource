@@ -82,8 +82,8 @@
 | 74 | 483 | TeeJ |
 | 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Samantha Peterson |
-| 78 | 447 | Erin Thomas |
+| 77 | 447 | Erin Thomas |
+| 78 | 447 | Samantha Peterson |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -297,11 +297,11 @@
 | 289 | 128 | Silly Zonebuilder |
 | 290 | 128 | Kristin MacDonald |
 | 291 | 127 | Kim Hunt |
-| 292 | 126 | icequeenx |
-| 293 | 126 | PAPatty |
-| 294 | 125 | Lush Linkfall |
-| 295 | 125 | Daresha Fair |
-| 296 | 125 | Steph Marie |
+| 292 | 126 | PAPatty |
+| 293 | 126 | icequeenx |
+| 294 | 125 | Daresha Fair |
+| 295 | 125 | Steph Marie |
+| 296 | 125 | Lush Linkfall |
 | 297 | 124 | Atia Scott |
 | 298 | 124 | Sam Middleton |
 | 299 | 123 | Joseph Edmonson |

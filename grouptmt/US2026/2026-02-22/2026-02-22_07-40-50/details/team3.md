@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Kay |
-| 46 | 989 | Joey Banks |
+| 45 | 989 | Joey Banks |
+| 46 | 989 | Kay |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Patty Allen |
-| 99 | 565 | Rachael McClain Owens |
+| 98 | 565 | Rachael McClain Owens |
+| 99 | 565 | Patty Allen |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -195,8 +195,8 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Rochelle Hazelett |
-| 191 | 311 | Araceli Parra |
+| 190 | 311 | Araceli Parra |
+| 191 | 311 | Rochelle Hazelett |
 | 192 | 310 | Danielle Balcom |
 | 193 | 308 | Rania Zaqout |
 | 194 | 308 | Daryn Elliott |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Lys |
-| 362 | 153 | Sheila M Frazier |
+| 361 | 153 | Sheila M Frazier |
+| 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
 | 365 | 152 | Noyb Adam |
@@ -420,8 +420,8 @@
 | 412 | 132 | Hanna Kim |
 | 413 | 131 | Cheeky Setter |
 | 414 | 130 | Sarah Whalen |
-| 415 | 130 | Karen Picaboo |
-| 416 | 130 | TotoCherue |
+| 415 | 130 | TotoCherue |
+| 416 | 130 | Karen Picaboo |
 | 417 | 130 | Brian Battjes |
 | 418 | 129 | Stella |
 | 419 | 129 | Juliana Dottore |

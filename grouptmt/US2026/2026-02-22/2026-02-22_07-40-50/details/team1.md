@@ -88,8 +88,8 @@
 | 80 | 388 | cc |
 | 81 | 388 | Jennifer ManWarren |
 | 82 | 382 | Jacqueline Williams |
-| 83 | 379 | Kimmie Kimms |
-| 84 | 379 | Austin James |
+| 83 | 379 | Austin James |
+| 84 | 379 | Kimmie Kimms |
 | 85 | 374 | Tinah Montanna |
 | 86 | 371 | Hyper |
 | 87 | 368 | Tdub |
@@ -284,8 +284,8 @@
 | 276 | 137 | Marci Sanders |
 | 277 | 136 | Breanna Luna |
 | 278 | 136 | Jessie |
-| 279 | 135 | Chantelle Ceno |
-| 280 | 135 | Mrs.Patrica |
+| 279 | 135 | Mrs.Patrica |
+| 280 | 135 | Chantelle Ceno |
 | 281 | 133 | MommaKFC |
 | 282 | 132 | Layzietyme |
 | 283 | 132 | Larry Tilton |
