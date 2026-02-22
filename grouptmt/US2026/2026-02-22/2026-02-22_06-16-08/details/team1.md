@@ -81,10 +81,10 @@
 | 73 | 412 | Jazzy Framezone |
 | 74 | 412 | Anaid Sanchez |
 | 75 | 406 | Yvonne Marie |
-| 76 | 390 | Cynthia Bradley |
-| 77 | 390 | Candy Jones |
-| 78 | 388 | Jennifer ManWarren |
-| 79 | 388 | cc |
+| 76 | 390 | Candy Jones |
+| 77 | 390 | Cynthia Bradley |
+| 78 | 388 | cc |
+| 79 | 388 | Jennifer ManWarren |
 | 80 | 382 | Jacqueline Williams |
 | 81 | 379 | Austin James |
 | 82 | 376 | Trina Gee |
@@ -113,8 +113,8 @@
 | 105 | 319 | Patrick Luckenbill |
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 313 | Tanya Carpenter-Reynolds |
-| 108 | 310 | Seth Wesson |
-| 109 | 310 | Jason Jones |
+| 108 | 310 | Jason Jones |
+| 109 | 310 | Seth Wesson |
 | 110 | 306 | Happy Basegrid |
 | 111 | 304 | phrmblk24 |
 | 112 | 304 | Nicole Roseberry Weber |
@@ -127,8 +127,8 @@
 | 119 | 285 | Ananda Mendez |
 | 120 | 284 | Emily Adelaide Wheatley |
 | 121 | 283 | Franswa |
-| 122 | 282 | Timothy Dew |
-| 123 | 282 | Cool Shiftsnap |
+| 122 | 282 | Cool Shiftsnap |
+| 123 | 282 | Timothy Dew |
 | 124 | 280 | Jennifer Hardman |
 | 125 | 280 | Sarah Roberts |
 | 126 | 279 | Cartier |
@@ -150,10 +150,10 @@
 | 142 | 239 | GATOR |
 | 143 | 236 | Mandyy Rae |
 | 144 | 232 | Jessi Sauer |
-| 145 | 230 | Frothy Pattern |
-| 146 | 230 | Billie Dawn Sparks |
-| 147 | 229 | David Lutcher |
-| 148 | 229 | ALFD |
+| 145 | 230 | Billie Dawn Sparks |
+| 146 | 230 | Frothy Pattern |
+| 147 | 229 | ALFD |
+| 148 | 229 | David Lutcher |
 | 149 | 226 | Kandae |
 | 150 | 224 | Tyler Werts |
 | 151 | 223 | Sleepysloath5745 |
@@ -267,8 +267,8 @@
 | 259 | 137 | Cody Gates |
 | 260 | 137 | Jo Kerley |
 | 261 | 137 | Marci Sanders |
-| 262 | 136 | Breanna Luna |
-| 263 | 136 | Jessie |
+| 262 | 136 | Jessie |
+| 263 | 136 | Breanna Luna |
 | 264 | 135 | Chantelle Ceno |
 | 265 | 132 | Layzietyme |
 | 266 | 132 | Larry Tilton |

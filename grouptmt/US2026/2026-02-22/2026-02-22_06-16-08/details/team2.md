@@ -298,8 +298,8 @@
 | 290 | 651 | Unica Rector |
 | 291 | 650 | Shiny Rollzone |
 | 292 | 643 | Hoppy Brickmatch |
-| 293 | 641 | Angie Bolton Workman |
-| 294 | 641 | Joce Lynn |
+| 293 | 641 | Joce Lynn |
+| 294 | 641 | Angie Bolton Workman |
 | 295 | 640 | BYM4L |
 | 296 | 639 | Crystie Hicks |
 | 297 | 639 | Rebecca Miller |
@@ -382,8 +382,8 @@
 | 374 | 509 | Kelli Wells |
 | 375 | 509 | Jordan Kaiser |
 | 376 | 507 | Gauri Shrotriya |
-| 377 | 507 | Joshua Mandel |
-| 378 | 507 | Magic steve |
+| 377 | 507 | Magic steve |
+| 378 | 507 | Joshua Mandel |
 | 379 | 503 | Emily Lyric Converse |
 | 380 | 502 | Sparkles |
 | 381 | 500 | Sarah Ridenour |
@@ -445,8 +445,8 @@
 | 437 | 451 | Cody Nishimura |
 | 438 | 451 | Dylan Thomason |
 | 439 | 447 | Brandy Andre |
-| 440 | 447 | Heather Schelkopf |
-| 441 | 447 | June E Hanson |
+| 440 | 447 | June E Hanson |
+| 441 | 447 | Heather Schelkopf |
 | 442 | 445 | Mar Q Thomas |
 | 443 | 444 | Ryan Meilleur |
 | 444 | 443 | Jarboe |

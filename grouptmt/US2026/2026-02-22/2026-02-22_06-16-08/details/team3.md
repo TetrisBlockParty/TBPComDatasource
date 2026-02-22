@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Domo Washington |
-| 111 | 500 | Kristie |
+| 110 | 500 | Kristie |
+| 111 | 500 | Domo Washington |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -147,8 +147,8 @@
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 400 | Aaron Pitkin |
-| 142 | 399 | Marcie Bressler |
-| 143 | 399 | Mcathen |
+| 142 | 399 | Mcathen |
+| 143 | 399 | Marcie Bressler |
 | 144 | 397 | Annie Déè |
 | 145 | 392 | Katie Knaus |
 | 146 | 392 | Tasha Gillespie |
@@ -224,8 +224,8 @@
 | 216 | 271 | Ashley Muncey |
 | 217 | 267 | Denise Nardoni |
 | 218 | 267 | Terry Jo Jones |
-| 219 | 265 | Sarah Moyer |
-| 220 | 265 | Trisha Balmer |
+| 219 | 265 | Trisha Balmer |
+| 220 | 265 | Sarah Moyer |
 | 221 | 264 | Grego Daniel |
 | 222 | 263 | Angeline Joseph |
 | 223 | 263 | Brittany |
@@ -313,8 +313,8 @@
 | 305 | 179 | Rachel Napper |
 | 306 | 179 | Christian Werndl |
 | 307 | 179 | Tipsy Zonebuilder |
-| 308 | 178 | Jess Dearborn |
-| 309 | 178 | Jennifer Alvey |
+| 308 | 178 | Jennifer Alvey |
+| 309 | 178 | Jess Dearborn |
 | 310 | 177 | Cozy Snaplink |
 | 311 | 176 | Melissa Orth Hunter |
 | 312 | 176 | Emma |
@@ -327,8 +327,8 @@
 | 319 | 169 | Peachy Rollfit |
 | 320 | 169 | Kristian Thurman |
 | 321 | 168 | Trice Thomas |
-| 322 | 167 | Romeo |
-| 323 | 167 | Shicken Nuggit |
+| 322 | 167 | Shicken Nuggit |
+| 323 | 167 | Romeo |
 | 324 | 166 | Noettín Kan Zasnemoore |
 | 325 | 166 | April Matthew Kibble |
 | 326 | 165 | Kali Kelz Williams |
@@ -463,8 +463,8 @@
 | 455 | 115 | FATTY |
 | 456 | 115 | Brave Brickster |
 | 457 | 115 | Sameerah Smith |
-| 458 | 114 | Bhreagh Gentile |
-| 459 | 114 | Elizabeth Renee |
+| 458 | 114 | Elizabeth Renee |
+| 459 | 114 | Bhreagh Gentile |
 | 460 | 114 | Joseph Vargas |
 | 461 | 113 | Martin Bernier |
 | 462 | 113 | Tia Moore |
@@ -491,8 +491,8 @@
 | 483 | 109 | xsiv |
 | 484 | 109 | Christopher Woost |
 | 485 | 109 | Peachy Westbrook |
-| 486 | 108 | Sierra Spencer |
-| 487 | 108 | Rachel Grant |
+| 486 | 108 | Rachel Grant |
+| 487 | 108 | Sierra Spencer |
 | 488 | 108 | Jack Bo |
 | 489 | 107 | Megan Stanley |
 | 490 | 107 | Alexsandran Valdivia |
