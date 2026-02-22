@@ -121,8 +121,8 @@
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |
-| 116 | 218 | Antony Dwayne Beasley |
-| 117 | 218 | Casey Grabner |
+| 116 | 218 | Casey Grabner |
+| 117 | 218 | Antony Dwayne Beasley |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
 | 120 | 212 | Calvin Cannon |
@@ -139,8 +139,8 @@
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
 | 133 | 197 | Peachy Fall |
-| 134 | 196 | Jenna McGeorge |
-| 135 | 196 | Jeff Brian Gates |
+| 134 | 196 | Jeff Brian Gates |
+| 135 | 196 | Jenna McGeorge |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
 | 138 | 190 | Mary Ann Pabukis |
@@ -172,9 +172,9 @@
 | 164 | 160 | ZeeZee |
 | 165 | 155 | AyeKay |
 | 166 | 154 | scott |
-| 167 | 153 | Chair |
+| 167 | 153 | Avy Absol |
 | 168 | 153 | Empress Oasis |
-| 169 | 153 | Avy Absol |
+| 169 | 153 | Chair |
 | 170 | 151 | Bethany Ison |
 | 171 | 149 | Shainne Brewer |
 | 172 | 149 | Megan Cutshaw |
@@ -188,13 +188,13 @@
 | 180 | 145 | Mimi |
 | 181 | 142 | Zippy Gridlock |
 | 182 | 141 | Victoria Faniel |
-| 183 | 141 | ĥuf |
+| 183 | 141 | Marcus Todd |
 | 184 | 141 | Kathy Allen |
-| 185 | 141 | Marcus Todd |
-| 186 | 140 | John Brunetti |
-| 187 | 140 | Stephme310 |
-| 188 | 138 | Brandon Link |
-| 189 | 138 | Tanner Lund |
+| 185 | 141 | ĥuf |
+| 186 | 140 | Stephme310 |
+| 187 | 140 | John Brunetti |
+| 188 | 138 | Tanner Lund |
+| 189 | 138 | Brandon Link |
 | 190 | 137 | PeaceOs |
 | 191 | 136 | Crystal Nicolette Moore |
 | 192 | 136 | Chaz |

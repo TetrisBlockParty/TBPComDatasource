@@ -158,8 +158,8 @@
 | 150 | 186 | Jennifer Olewnik Soborowski |
 | 151 | 185 | Basment Living |
 | 152 | 182 | Monica Donato |
-| 153 | 180 | Erez Yosef |
-| 154 | 180 | BigWeenie69 |
+| 153 | 180 | BigWeenie69 |
+| 154 | 180 | Erez Yosef |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
 | 157 | 177 | Irual Hctrab |
@@ -219,8 +219,8 @@
 | 211 | 135 | Guest |
 | 212 | 135 | Aimee Horton |
 | 213 | 134 | LD1 |
-| 214 | 133 | Kimberly Garcia |
-| 215 | 133 | Fmp |
+| 214 | 133 | Fmp |
+| 215 | 133 | Kimberly Garcia |
 | 216 | 132 | Layzietyme |
 | 217 | 131 | Jessie |
 | 218 | 131 | Uhog SF |

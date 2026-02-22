@@ -131,24 +131,24 @@
 | 123 | 378 | Tasha Schriewer |
 | 124 | 378 | Tasha Gillespie |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Blkpep Davidson |
-| 127 | 368 | Stephanie Woods |
+| 126 | 368 | Stephanie Woods |
+| 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Sherry Ogden |
-| 131 | 355 | Tessina Dewey-Mancino |
+| 130 | 355 | Tessina Dewey-Mancino |
+| 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
 | 137 | 328 | Dapper Snap |
 | 138 | 328 | Jeni Dow |
 | 139 | 328 | Aaron Pitkin |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
-| 142 | 320 | Or Reznitsky |
-| 143 | 320 | Patricia Gadsden |
+| 142 | 320 | Patricia Gadsden |
+| 143 | 320 | Or Reznitsky |
 | 144 | 317 | Ashley Tookes |
 | 145 | 311 | Raya |
 | 146 | 309 | Rich LeBlanc |
@@ -306,8 +306,8 @@
 | 298 | 145 | Bryan Byrd |
 | 299 | 144 | fraulila |
 | 300 | 144 | Tenisha Semidey |
-| 301 | 143 | Alice |
-| 302 | 143 | Melissa Orth Hunter |
+| 301 | 143 | Melissa Orth Hunter |
+| 302 | 143 | Alice |
 | 303 | 142 | Jl |
 | 304 | 142 | Criss |
 | 305 | 142 | Willow |
@@ -357,7 +357,7 @@
 | 349 | 125 | Shimika Enay Wallace |
 | 350 | 124 | Romeo |
 | 351 | 124 | gremicx |
-| 352 | 124 | Romeo |
+| 352 | 124 | Tipsy Puzzle |
 | 353 | 123 | Michael Latasha Gray |
 | 354 | 122 | Nichol Graham |
 | 355 | 122 | Daring Builder |

@@ -727,11 +727,11 @@
 | 719 | 228 | Samantha Angelo |
 | 720 | 228 | Dara |
 | 721 | 227 | Sho Nuff |
-| 722 | 227 | Nutty Slice |
-| 723 | 227 | Monique Foster |
+| 722 | 227 | Monique Foster |
+| 723 | 227 | Nutty Slice |
 | 724 | 227 | William David Swallow |
-| 725 | 226 | Erika Deer Kauffman |
-| 726 | 226 | Jennifer Coe |
+| 725 | 226 | Jennifer Coe |
+| 726 | 226 | Erika Deer Kauffman |
 | 727 | 226 | Theresa Sterrett |
 | 728 | 226 | Jodi Mitnick |
 | 729 | 225 | Caitlin Johnson |
