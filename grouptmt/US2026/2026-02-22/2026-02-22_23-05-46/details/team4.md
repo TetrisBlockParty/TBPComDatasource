@@ -135,15 +135,15 @@
 | 127 | 400 | Ericca Eldridge |
 | 128 | 396 | Jessica Lynn Cutlip |
 | 129 | 394 | Austin Owens |
-| 130 | 393 | Carlton Unfiltered |
-| 131 | 393 | Trish |
+| 130 | 393 | Trish |
+| 131 | 393 | Carlton Unfiltered |
 | 132 | 392 | Cristy Duerksen |
-| 133 | 391 | Lush Linkfall |
-| 134 | 391 | Ramel Rhodes |
+| 133 | 391 | Ramel Rhodes |
+| 134 | 391 | Lush Linkfall |
 | 135 | 380 | Swanky Fitline |
 | 136 | 378 | Lucas J Sutton |
-| 137 | 377 | Jessica Bohlken |
-| 138 | 377 | Carrie Brian |
+| 137 | 377 | Carrie Brian |
+| 138 | 377 | Jessica Bohlken |
 | 139 | 376 | Kesha Brady |
 | 140 | 373 | Joseph Guthrie |
 | 141 | 358 | ThaEviLJeNiuZ |
@@ -248,8 +248,8 @@
 | 240 | 225 | Perky Patternblock |
 | 241 | 225 | Jenna McGeorge |
 | 242 | 222 | Brandi Durig |
-| 243 | 221 | Rheanda Weaskus |
-| 244 | 221 | PurpleMoonMa |
+| 243 | 221 | PurpleMoonMa |
+| 244 | 221 | Rheanda Weaskus |
 | 245 | 220 | Chair |
 | 246 | 220 | Joanna |
 | 247 | 219 | Dizzy Matchzone |

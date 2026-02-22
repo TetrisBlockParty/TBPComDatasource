@@ -154,8 +154,8 @@
 | 146 | 1450 | Cody Smith-Candelaria |
 | 147 | 1418 | L3sli3 |
 | 148 | 1416 | Nancy Reid |
-| 149 | 1411 | Zappy Cascade |
-| 150 | 1411 | niecy |
+| 149 | 1411 | niecy |
+| 150 | 1411 | Zappy Cascade |
 | 151 | 1401 | Brandy Andre |
 | 152 | 1397 | Bussyiano Page |
 | 153 | 1390 | Erica Williams |
@@ -259,8 +259,8 @@
 | 251 | 971 | Robin Kerby |
 | 252 | 970 | Maria Escobar |
 | 253 | 958 | Brenda Messer |
-| 254 | 957 | Keri Womack |
-| 255 | 957 | Block Master |
+| 254 | 957 | Block Master |
+| 255 | 957 | Keri Womack |
 | 256 | 957 | Crystal Hoffman |
 | 257 | 955 | Kevin Walp |
 | 258 | 955 | Angela Bonquiqui Dinish |
@@ -302,8 +302,8 @@
 | 294 | 860 | Carl Bradshaw |
 | 295 | 858 | Porsche' Nicole |
 | 296 | 857 | Kara Gillen |
-| 297 | 856 | Mighty Shatterfit |
-| 298 | 856 | Jojo Momma |
+| 297 | 856 | Jojo Momma |
+| 298 | 856 | Mighty Shatterfit |
 | 299 | 853 | Meghan M |
 | 300 | 848 | Elizabeth Wilbanks |
 | 301 | 846 | Alyssa Hileman |
@@ -346,8 +346,8 @@
 | 338 | 772 | Danielle Simmons |
 | 339 | 769 | Melissa Cole |
 | 340 | 768 | Joshua Self |
-| 341 | 767 | Fancy Twister |
-| 342 | 767 | Ashley Lopez |
+| 341 | 767 | Ashley Lopez |
+| 342 | 767 | Fancy Twister |
 | 343 | 765 | Kathryn Townsley |
 | 344 | 763 | Heather Causey |
 | 345 | 761 | Hyper Cluster |
@@ -527,8 +527,8 @@
 | 519 | 535 | Anthony Huebel |
 | 520 | 533 | Davetta Sanford |
 | 521 | 532 | Belle Mari |
-| 522 | 531 | Aishah Brice |
-| 523 | 531 | Briana Alexander |
+| 522 | 531 | Briana Alexander |
+| 523 | 531 | Aishah Brice |
 | 524 | 529 | Victoria Regina Girolami |
 | 525 | 528 | Arlene Joy Belicina |
 | 526 | 528 | Anita Rose Green |
