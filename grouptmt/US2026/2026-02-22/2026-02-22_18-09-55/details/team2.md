@@ -120,8 +120,8 @@
 | 112 | 1519 | Mindy Leigh Head |
 | 113 | 1513 | blackq |
 | 114 | 1509 | Whitney Nicole Waterman |
-| 115 | 1507 | Linda Pierce |
-| 116 | 1507 | Stephanie Chapman |
+| 115 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Linda Pierce |
 | 117 | 1495 | Tj Ball |
 | 118 | 1493 | Mari Ac |
 | 119 | 1487 | Kristopher Miller |
@@ -202,8 +202,8 @@
 | 194 | 1045 | Lourisha |
 | 195 | 1043 | Brave Dropmatch |
 | 196 | 1036 | Allison Lockyer |
-| 197 | 1024 | Bri Lynn |
-| 198 | 1024 | Desiree Anderson |
+| 197 | 1024 | Desiree Anderson |
+| 198 | 1024 | Bri Lynn |
 | 199 | 1023 | Brainy Smurf |
 | 200 | 1020 | Eric Carlson |
 | 201 | 1019 | Taylor Phillips |
@@ -706,8 +706,8 @@
 | 698 | 373 | Michelle Shrum |
 | 699 | 373 | Ashley Marie |
 | 700 | 369 | Amanda Canterbury |
-| 701 | 369 | Lewis Sturgeon |
-| 702 | 369 | RaeVan Worthington |
+| 701 | 369 | RaeVan Worthington |
+| 702 | 369 | Lewis Sturgeon |
 | 703 | 368 | Veronics |
 | 704 | 368 | Anthony D Gritz Jr |
 | 705 | 368 | Susan Arnburg |

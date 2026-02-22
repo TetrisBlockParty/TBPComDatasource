@@ -230,8 +230,8 @@
 | 222 | 337 | Philip Rock |
 | 223 | 332 | Rich LeBlanc |
 | 224 | 330 | Rebecca Funderburk Kirby |
-| 225 | 324 | Kristal C Lee |
-| 226 | 324 | Sissy Lowery Davis |
+| 225 | 324 | Sissy Lowery Davis |
+| 226 | 324 | Kristal C Lee |
 | 227 | 323 | Demetrious Shaw Sr. |
 | 228 | 323 | Melissa Orth Hunter |
 | 229 | 322 | Marci Mize Fandrich |
@@ -341,8 +341,8 @@
 | 333 | 218 | Tina Smith Roy |
 | 334 | 217 | Snazzy Filler |
 | 335 | 217 | Goofy Fall |
-| 336 | 216 | Cheryl Hinch Tenbrook |
-| 337 | 216 | Frothy Snapper |
+| 336 | 216 | Frothy Snapper |
+| 337 | 216 | Cheryl Hinch Tenbrook |
 | 338 | 215 | Everret Maxine |
 | 339 | 214 | Amy Fuller Heaton |
 | 340 | 214 | Randy Clevenger |
@@ -350,8 +350,8 @@
 | 342 | 213 | Nicholas Roddy |
 | 343 | 213 | Jess Dearborn |
 | 344 | 212 | AlsoJess |
-| 345 | 211 | Velma Mull |
-| 346 | 211 | El Chapa |
+| 345 | 211 | El Chapa |
+| 346 | 211 | Velma Mull |
 | 347 | 210 | Criss |
 | 348 | 210 | Ashley Lynn Marchese |
 | 349 | 210 | Saucy Buildout |

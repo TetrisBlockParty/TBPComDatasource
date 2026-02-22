@@ -18,8 +18,8 @@
 | 10 | 1835 | East Mamba |
 | 11 | 1775 | Ash |
 | 12 | 1676 | Ayanna Soto |
-| 13 | 1447 | GreenJeepGirl |
-| 14 | 1447 | Juggalo |
+| 13 | 1447 | Juggalo |
+| 14 | 1447 | GreenJeepGirl |
 | 15 | 1398 | Cassie Michaux |
 | 16 | 1292 | Roger Coulter |
 | 17 | 1255 | Tammi Crnza |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Jeremy Steines |
-| 81 | 575 | Carolyn Wallace |
+| 80 | 575 | Carolyn Wallace |
+| 81 | 575 | Jeremy Steines |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -175,10 +175,10 @@
 | 167 | 271 | Sarah Brown |
 | 168 | 269 | Nikki Rae Gordon |
 | 169 | 268 | Mimi |
-| 170 | 267 | Casey Grabner |
-| 171 | 267 | Damn Libra |
-| 172 | 267 | Kathy Brookins |
-| 173 | 267 | Holly |
+| 170 | 267 | Damn Libra |
+| 171 | 267 | Casey Grabner |
+| 172 | 267 | Holly |
+| 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |
 | 175 | 265 | Jeff Brian Gates |
 | 176 | 265 | Chris Bernstein |
