@@ -138,8 +138,8 @@
 | 130 | 328 | Fmp |
 | 131 | 326 | Monica Donato |
 | 132 | 325 | Jennifer Hardman |
-| 133 | 321 | Tanya Carpenter-Reynolds |
-| 134 | 321 | Maria C. Hernandez |
+| 133 | 321 | Maria C. Hernandez |
+| 134 | 321 | Tanya Carpenter-Reynolds |
 | 135 | 318 | Jessica Sheehan |
 | 136 | 316 | Dizzy Party |
 | 137 | 313 | Virginia Gray Floyd |
@@ -155,8 +155,8 @@
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
 | 149 | 285 | Ananda Mendez |
-| 150 | 284 | Emily Adelaide Wheatley |
-| 151 | 284 | Rachael |
+| 150 | 284 | Rachael |
+| 151 | 284 | Emily Adelaide Wheatley |
 | 152 | 283 | Franswa |
 | 153 | 282 | Timothy Dew |
 | 154 | 282 | Cool Shiftsnap |
@@ -392,7 +392,7 @@
 | 384 | 130 | Katie Toothman |
 | 385 | 130 | DoodleBug |
 | 386 | 129 | Sherri E Woods Hess |
-| 387 | 128 | Sarah Henniker |
+| 387 | 128 | Alyssa Ingram |
 | 388 | 128 | George Dalton |
 | 389 | 128 | Sarah Henniker |
 | 390 | 127 | Danielle Mae |

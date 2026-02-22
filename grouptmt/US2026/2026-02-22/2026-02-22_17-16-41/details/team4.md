@@ -260,8 +260,8 @@
 | 252 | 181 | Jackie Marie |
 | 253 | 181 | Carter Jones |
 | 254 | 180 | Orchislactea |
-| 255 | 179 | Christina Black |
-| 256 | 179 | TinyLegoRose |
+| 255 | 179 | TinyLegoRose |
+| 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |
 | 258 | 178 | Angelito |
 | 259 | 175 | Lorena Guerrero-Barron |
@@ -287,8 +287,8 @@
 | 279 | 161 | Tanner Lund |
 | 280 | 161 | Matt Gooder |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | Marcus Todd |
-| 283 | 159 | DonMega |
+| 282 | 159 | DonMega |
+| 283 | 159 | Marcus Todd |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | Paige Kittles |
 | 286 | 157 | B Renee Desjardin |
@@ -305,8 +305,8 @@
 | 297 | 152 | Jason Bosco |
 | 298 | 152 | Vanessa Smart |
 | 299 | 152 | Jared Gutwein |
-| 300 | 151 | Sarah Hoffman |
-| 301 | 151 | Amanda Christine |
+| 300 | 151 | Amanda Christine |
+| 301 | 151 | Sarah Hoffman |
 | 302 | 151 | Brandon Crabbs |
 | 303 | 151 | Shanon Klair |
 | 304 | 151 | Joseph Pace |
@@ -347,8 +347,8 @@
 | 339 | 141 | Kathy Allen |
 | 340 | 141 | Tony Pavelka |
 | 341 | 140 | Rico |
-| 342 | 139 | Lori Goudy |
-| 343 | 139 | O block |
+| 342 | 139 | O block |
+| 343 | 139 | Lori Goudy |
 | 344 | 138 | Ashlee Carnes |
 | 345 | 138 | Jasmine S Caldwell |
 | 346 | 138 | Moonsterix |
