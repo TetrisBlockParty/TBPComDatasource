@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Shelly Chandler |
-| 40 | 843 | Lucille Truesdale |
+| 39 | 843 | Lucille Truesdale |
+| 40 | 843 | Shelly Chandler |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 823 | Jae Job |
@@ -163,8 +163,8 @@
 | 155 | 275 | Dizzy Tiley |
 | 156 | 274 | Calvin Cannon |
 | 157 | 273 | Crystal Nicolette Moore |
-| 158 | 272 | Alan George LaRage |
-| 159 | 272 | Keshia Lyons |
+| 158 | 272 | Keshia Lyons |
+| 159 | 272 | Alan George LaRage |
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
@@ -277,8 +277,8 @@
 | 269 | 165 | Zappy Buildgrid |
 | 270 | 164 | KimoKoala |
 | 271 | 163 | Ellen Durfee |
-| 272 | 162 | Gwendolyn Pitcairn |
-| 273 | 162 | John Brunetti |
+| 272 | 162 | John Brunetti |
+| 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | conceptCollector |
 | 275 | 161 | Tanner Lund |
 | 276 | 161 | Twisty Risebuilder |

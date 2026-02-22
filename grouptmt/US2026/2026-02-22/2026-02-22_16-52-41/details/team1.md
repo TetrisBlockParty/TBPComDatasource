@@ -110,8 +110,8 @@
 | 102 | 389 | Nery Martinez |
 | 103 | 383 | pjbeta |
 | 104 | 380 | Dee Perry |
-| 105 | 379 | Austin James |
-| 106 | 379 | Kimmie Kimms |
+| 105 | 379 | Kimmie Kimms |
+| 106 | 379 | Austin James |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
 | 109 | 364 | Ly Phethmany |
@@ -236,8 +236,8 @@
 | 228 | 207 | Brenda Alexander |
 | 229 | 206 | BadG52 |
 | 230 | 205 | Tater |
-| 231 | 204 | Jason Savage |
-| 232 | 204 | Lacy Wolfe |
+| 231 | 204 | Lacy Wolfe |
+| 232 | 204 | Jason Savage |
 | 233 | 202 | Amanda Holibaugh |
 | 234 | 201 | Colleen Wise |
 | 235 | 201 | Chad Atchley |

@@ -327,10 +327,10 @@
 | 319 | 711 | Melissa Holsinger |
 | 320 | 704 | Shelley Thornburgh Wright |
 | 321 | 703 | Gold Rose |
-| 322 | 700 | Vincent Petrella |
-| 323 | 700 | Hong Tang |
-| 324 | 700 | Beverly Owens |
-| 325 | 700 | Rosemadder |
+| 322 | 700 | Beverly Owens |
+| 323 | 700 | Rosemadder |
+| 324 | 700 | Vincent Petrella |
+| 325 | 700 | Hong Tang |
 | 326 | 699 | tejas25 |
 | 327 | 697 | Ashle Scranton |
 | 328 | 697 | Dreamy Blast |
@@ -373,8 +373,8 @@
 | 365 | 639 | Rebecca Miller |
 | 366 | 634 | Gary Stash |
 | 367 | 633 | Breezy Filler |
-| 368 | 631 | Marie Walker |
-| 369 | 631 | Dylan Thomason |
+| 368 | 631 | Dylan Thomason |
+| 369 | 631 | Marie Walker |
 | 370 | 629 | Heather Schelkopf |
 | 371 | 628 | Brownie Sheena |
 | 372 | 627 | Allan Wayne Lamia |
@@ -565,8 +565,8 @@
 | 557 | 447 | Besma Ao |
 | 558 | 446 | NanDa Cruzan VI |
 | 559 | 445 | Sharon Mills |
-| 560 | 445 | Mar Q Thomas |
-| 561 | 445 | Elisheva Mizrachi |
+| 560 | 445 | Elisheva Mizrachi |
+| 561 | 445 | Mar Q Thomas |
 | 562 | 444 | Ryan Meilleur |
 | 563 | 444 | Fi Ne |
 | 564 | 444 | Chab |
@@ -580,8 +580,8 @@
 | 572 | 438 | Mike Aprilliano |
 | 573 | 437 | Cynthia Louann Rose |
 | 574 | 437 | Véronique Lévesque Sabourin |
-| 575 | 435 | Regina Young |
-| 576 | 435 | James Louie |
+| 575 | 435 | James Louie |
+| 576 | 435 | Regina Young |
 | 577 | 434 | Brenda Messer |
 | 578 | 434 | bbv |
 | 579 | 432 | Lucy Marshall |
@@ -626,8 +626,8 @@
 | 618 | 407 | Tipsy Filler |
 | 619 | 406 | Erin StFrancis |
 | 620 | 404 | Dawn L Washington-Feuquay |
-| 621 | 403 | Nate Skidmore |
-| 622 | 403 | Goofy Dasher |
+| 621 | 403 | Goofy Dasher |
+| 622 | 403 | Nate Skidmore |
 | 623 | 401 | Jasmine Kenney |
 | 624 | 400 | Kathleen Driskell |
 | 625 | 400 | Tammy Allen |

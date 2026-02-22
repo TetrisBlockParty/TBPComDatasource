@@ -214,8 +214,8 @@
 | 206 | 346 | Tamara Deherrera |
 | 207 | 344 | Trisha Balmer |
 | 208 | 343 | Ashley Raines |
-| 209 | 341 | Samantha Lynn |
-| 210 | 341 | Noyb Adam |
+| 209 | 341 | Noyb Adam |
+| 210 | 341 | Samantha Lynn |
 | 211 | 340 | Ammmmmmy |
 | 212 | 338 | Gumbo |
 | 213 | 332 | Rich LeBlanc |
@@ -236,8 +236,8 @@
 | 228 | 311 | Peppy Shifter |
 | 229 | 308 | Rania Zaqout |
 | 230 | 307 | rnr junky |
-| 231 | 307 | Blocked |
-| 232 | 307 | Marci Mize Fandrich |
+| 231 | 307 | Marci Mize Fandrich |
+| 232 | 307 | Blocked |
 | 233 | 305 | Rebecca Bailey |
 | 234 | 301 | Betty Rosas |
 | 235 | 299 | Melissa Orth Hunter |
@@ -426,8 +426,8 @@
 | 418 | 167 | Shicken Nuggit |
 | 419 | 167 | Arden White Kirsch |
 | 420 | 167 | Irene Arreguin |
-| 421 | 166 | Joshua David Huie |
-| 422 | 166 | Rashad Green |
+| 421 | 166 | Rashad Green |
+| 422 | 166 | Joshua David Huie |
 | 423 | 165 | Kali Kelz Williams |
 | 424 | 165 | Silver Marchán |
 | 425 | 164 | Ashley Rufus Bythcez |
