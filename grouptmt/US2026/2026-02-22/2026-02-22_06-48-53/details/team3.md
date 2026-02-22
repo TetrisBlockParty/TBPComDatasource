@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -166,9 +166,9 @@
 | 158 | 376 | Loopy Clusterer |
 | 159 | 374 | Sherry Ogden |
 | 160 | 371 | Michael Nowogorski |
-| 161 | 370 | Logan Naccarato |
-| 162 | 370 | Santeria Trece Candles |
-| 163 | 370 | Danielle Allison |
+| 161 | 370 | Santeria Trece Candles |
+| 162 | 370 | Danielle Allison |
+| 163 | 370 | Logan Naccarato |
 | 164 | 368 | Stephanie Woods |
 | 165 | 366 | Adrian Marcel Pate |
 | 166 | 365 | Queen Kam |
@@ -193,8 +193,8 @@
 | 185 | 319 | Rebecca Funderburk Kirby |
 | 186 | 317 | Ashley Tookes |
 | 187 | 315 | Kammy Hill |
-| 188 | 311 | Araceli Parra |
-| 189 | 311 | Raya |
+| 188 | 311 | Raya |
+| 189 | 311 | Araceli Parra |
 | 190 | 310 | Danielle Balcom |
 | 191 | 308 | Daryn Elliott |
 | 192 | 308 | Rania Zaqout |
@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | KayB |
-| 237 | 256 | Tiffany Davie |
+| 236 | 256 | Tiffany Davie |
+| 237 | 256 | KayB |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | JerseyJess |
@@ -456,8 +456,8 @@
 | 448 | 118 | Damian Reid |
 | 449 | 118 | Fancy Curver |
 | 450 | 117 | Dee Pratt |
-| 451 | 117 | Rayzer |
-| 452 | 117 | Anabela Ruiz |
+| 451 | 117 | Anabela Ruiz |
+| 452 | 117 | Rayzer |
 | 453 | 117 | James Lykes |
 | 454 | 116 | Dapper Towerfit |
 | 455 | 116 | Elisha L Allman |

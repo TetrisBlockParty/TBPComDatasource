@@ -101,8 +101,8 @@
 | 93 | 369 | Nope Young |
 | 94 | 359 | Chilly Crasher |
 | 95 | 358 | Nugget |
-| 96 | 352 | Monica Daley |
-| 97 | 352 | Zippy Gridlock |
+| 96 | 352 | Zippy Gridlock |
+| 97 | 352 | Monica Daley |
 | 98 | 344 | Livvy |
 | 99 | 337 | Lori Walker |
 | 100 | 335 | Eric Mcgaughy |
@@ -148,8 +148,8 @@
 | 140 | 240 | Peachy Fall |
 | 141 | 240 | Jolly Dashfit |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Cursed Hag |
-| 144 | 230 | Autum Leigh |
+| 143 | 230 | Autum Leigh |
+| 144 | 230 | Cursed Hag |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Chris Bernstein |
 | 147 | 227 | Swanky Fitline |
@@ -165,13 +165,13 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Jessica Bohlken |
-| 161 | 215 | Ren Mc |
+| 160 | 215 | Ren Mc |
+| 161 | 215 | Jessica Bohlken |
 | 162 | 214 | Twisty Cascadezone |
-| 163 | 213 | Sarah Neathery |
-| 164 | 213 | Jason Allen |
-| 165 | 212 | Mike Solo |
-| 166 | 212 | Calvin Cannon |
+| 163 | 213 | Jason Allen |
+| 164 | 213 | Sarah Neathery |
+| 165 | 212 | Calvin Cannon |
+| 166 | 212 | Mike Solo |
 | 167 | 211 | Jenna McGeorge |
 | 168 | 207 | Chirpy Basepiece |
 | 169 | 205 | Kathy Brookins |
