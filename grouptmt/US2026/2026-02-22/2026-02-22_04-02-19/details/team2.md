@@ -239,8 +239,8 @@
 | 231 | 700 | Vincent Petrella |
 | 232 | 698 | Mighty Shatterfit |
 | 233 | 697 | Dreamy Blast |
-| 234 | 692 | Dannette Goldberg-Richards |
-| 235 | 692 | Jennifer Casey-Kay |
+| 234 | 692 | Jennifer Casey-Kay |
+| 235 | 692 | Dannette Goldberg-Richards |
 | 236 | 692 | Chelle |
 | 237 | 690 | Deborah Miller |
 | 238 | 688 | ShinyRose |
@@ -297,8 +297,8 @@
 | 289 | 589 | Thomas Hedrick |
 | 290 | 589 | Shavonna Haynes |
 | 291 | 582 | Gary Stash |
-| 292 | 579 | Juliana Marques Do Nascimento Gordy |
-| 293 | 579 | Roy Salyer |
+| 292 | 579 | Roy Salyer |
+| 293 | 579 | Juliana Marques Do Nascimento Gordy |
 | 294 | 576 | Ginger |
 | 295 | 569 | Vaniel Glover |
 | 296 | 569 | Marie Walker |

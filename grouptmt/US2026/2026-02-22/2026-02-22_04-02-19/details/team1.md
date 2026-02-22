@@ -101,8 +101,8 @@
 | 93 | 323 | Sweet Baker |
 | 94 | 321 | Maria C. Hernandez |
 | 95 | 319 | Deanna L Hermanson |
-| 96 | 319 | Patrick Luckenbill |
-| 97 | 319 | Shauna Loe |
+| 96 | 319 | Shauna Loe |
+| 97 | 319 | Patrick Luckenbill |
 | 98 | 316 | Spunky Piecebuilder |
 | 99 | 313 | Tanya Carpenter-Reynolds |
 | 100 | 310 | Seth Wesson |
@@ -124,8 +124,8 @@
 | 116 | 275 | Bhelle Sumile |
 | 117 | 273 | Happy Basegrid |
 | 118 | 264 | Lexuriuos Lifestlye |
-| 119 | 263 | Jason Jones |
-| 120 | 263 | Sharon Reynolds |
+| 119 | 263 | Sharon Reynolds |
+| 120 | 263 | Jason Jones |
 | 121 | 256 | David Miller |
 | 122 | 252 | Elaine Elaine |
 | 123 | 252 | Dena Kayy |
