@@ -94,9 +94,9 @@
 | 86 | 326 | Monica Donato |
 | 87 | 323 | Sweet Baker |
 | 88 | 321 | Maria C. Hernandez |
-| 89 | 319 | Shauna Loe |
+| 89 | 319 | Deanna L Hermanson |
 | 90 | 319 | Patrick Luckenbill |
-| 91 | 319 | Deanna L Hermanson |
+| 91 | 319 | Shauna Loe |
 | 92 | 315 | Cynthia Bradley |
 | 93 | 313 | Tanya Carpenter-Reynolds |
 | 94 | 310 | Seth Wesson |
@@ -133,8 +133,8 @@
 | 125 | 240 | Tana |
 | 126 | 236 | Mandyy Rae |
 | 127 | 232 | Jessi Sauer |
-| 128 | 230 | Billie Dawn Sparks |
-| 129 | 230 | Frothy Pattern |
+| 128 | 230 | Frothy Pattern |
+| 129 | 230 | Billie Dawn Sparks |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
 | 132 | 226 | ALFD |

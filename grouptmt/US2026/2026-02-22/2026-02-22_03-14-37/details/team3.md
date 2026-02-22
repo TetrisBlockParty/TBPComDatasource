@@ -193,8 +193,8 @@
 | 185 | 271 | Ashley Muncey |
 | 186 | 267 | Terry Jo Jones |
 | 187 | 267 | Denise Nardoni |
-| 188 | 264 | Dee Franklin |
-| 189 | 264 | Tom Nault |
+| 188 | 264 | Tom Nault |
+| 189 | 264 | Dee Franklin |
 | 190 | 263 | Angeline Joseph |
 | 191 | 262 | Joe-Maggie Mathews |
 | 192 | 261 | Tiffany Ford |
@@ -540,7 +540,7 @@
 | 532 | 89 | Charles Perrone |
 | 533 | 88 | Wettnippz |
 | 534 | 88 | Spicy Caster |
-| 535 | 88 | Wettnippz |
+| 535 | 88 | Sherry DeLong |
 | 536 | 88 | demon14 |
 | 537 | 88 | Bree Sexton |
 | 538 | 88 | Dapper Dashpiece |

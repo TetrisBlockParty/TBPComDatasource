@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Rachel Anne |
-| 39 | 646 | Jacqueline Helm |
+| 38 | 646 | Jacqueline Helm |
+| 39 | 646 | Rachel Anne |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Alicia Bass |
-| 73 | 396 | Amy Suckarieh |
+| 72 | 396 | Amy Suckarieh |
+| 73 | 396 | Alicia Bass |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Shane Kalamata Platoon |
-| 85 | 358 | Nugget |
+| 84 | 358 | Nugget |
+| 85 | 358 | Shane Kalamata Platoon |
 | 86 | 330 | Monica Daley |
 | 87 | 319 | Livvy |
 | 88 | 317 | Lori Walker |
