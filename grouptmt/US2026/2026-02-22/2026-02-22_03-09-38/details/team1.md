@@ -109,8 +109,8 @@
 | 101 | 290 | Death |
 | 102 | 288 | Seante Bullock |
 | 103 | 285 | Ananda Mendez |
-| 104 | 284 | Theo Pinnow |
-| 105 | 284 | Emily Adelaide Wheatley |
+| 104 | 284 | Emily Adelaide Wheatley |
+| 105 | 284 | Theo Pinnow |
 | 106 | 283 | Franswa |
 | 107 | 282 | Timothy Dew |
 | 108 | 280 | Sarah Roberts |
@@ -199,8 +199,8 @@
 | 191 | 165 | Silly Align |
 | 192 | 165 | Nadine Velardo |
 | 193 | 164 | Shanae Grant |
-| 194 | 163 | Tyler Whitley |
-| 195 | 163 | Angela Fairbank |
+| 194 | 163 | Angela Fairbank |
+| 195 | 163 | Tyler Whitley |
 | 196 | 162 | Cece Ibarra |
 | 197 | 161 | SavageBooty98 |
 | 198 | 160 | Tedashi |

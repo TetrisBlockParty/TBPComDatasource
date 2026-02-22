@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Jacqueline Helm |
-| 39 | 646 | Rachel Anne |
+| 38 | 646 | Rachel Anne |
+| 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Amy Suckarieh |
-| 73 | 396 | Alicia Bass |
+| 72 | 396 | Alicia Bass |
+| 73 | 396 | Amy Suckarieh |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -181,15 +181,15 @@
 | 173 | 171 | Diana Houts |
 | 174 | 169 | Kesha Brady |
 | 175 | 168 | 🥔🥔 Spudz |
-| 176 | 166 | SammieJo Guy |
-| 177 | 166 | Cozy Balancer |
+| 176 | 166 | Cozy Balancer |
+| 177 | 166 | SammieJo Guy |
 | 178 | 164 | 030Synner |
 | 179 | 160 | ZeeZee |
 | 180 | 160 | Carlos Ramirez |
 | 181 | 160 | James Hurley Jr. |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Chair |
-| 184 | 158 | Avy Absol |
+| 183 | 158 | Avy Absol |
+| 184 | 158 | Chair |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 154 | Laura Hosford |
