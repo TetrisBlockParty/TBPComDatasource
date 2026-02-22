@@ -89,8 +89,8 @@
 | 81 | 405 | Shane Kalamata Platoon |
 | 82 | 404 | Courtney Cicoria |
 | 83 | 402 | Julian Garcia |
-| 84 | 396 | Amy Suckarieh |
-| 85 | 396 | Alicia Bass |
+| 84 | 396 | Alicia Bass |
+| 85 | 396 | Amy Suckarieh |
 | 86 | 392 | Ericca Eldridge |
 | 87 | 391 | Ramel Rhodes |
 | 88 | 390 | Carlton Unfiltered |
@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Monica Daley |
-| 96 | 352 | Zippy Gridlock |
+| 95 | 352 | Zippy Gridlock |
+| 96 | 352 | Monica Daley |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -131,8 +131,8 @@
 | 123 | 275 | Dizzy Tiley |
 | 124 | 271 | Sarah Brown |
 | 125 | 264 | Dana Scott |
-| 126 | 264 | Epic Curvetile |
-| 127 | 264 | Girl |
+| 126 | 264 | Girl |
+| 127 | 264 | Epic Curvetile |
 | 128 | 262 | Holly Jolly |
 | 129 | 261 | Chilly Crasher |
 | 130 | 258 | Brittney Orengo |
@@ -196,8 +196,8 @@
 | 188 | 185 | Andy Cabral |
 | 189 | 185 | Lori |
 | 190 | 184 | Ak Jones |
-| 191 | 181 | Alan George LaRage |
-| 192 | 181 | Carter Jones |
+| 191 | 181 | Carter Jones |
+| 192 | 181 | Alan George LaRage |
 | 193 | 180 | Orchislactea |
 | 194 | 180 | Rafael Valentin |
 | 195 | 179 | blockstar |

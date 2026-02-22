@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 559 | Morgan Martinez |
 | 100 | 549 | Nicole Myers |
 | 101 | 548 | Dave Herzog |
@@ -244,8 +244,8 @@
 | 236 | 256 | KayB |
 | 237 | 251 | Sabrina Hardrick |
 | 238 | 250 | fraulila |
-| 239 | 249 | Annie Marie |
-| 240 | 249 | JerseyJess |
+| 239 | 249 | JerseyJess |
+| 240 | 249 | Annie Marie |
 | 241 | 246 | Eon Harris |
 | 242 | 246 | Peppy Shifter |
 | 243 | 245 | Latoya Mayne |

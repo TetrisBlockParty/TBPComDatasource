@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Suki Kaur |
-| 150 | 1043 | Brave Dropmatch |
+| 149 | 1043 | Brave Dropmatch |
+| 150 | 1043 | Suki Kaur |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -282,8 +282,8 @@
 | 274 | 679 | Dee |
 | 275 | 678 | Scott Treadway |
 | 276 | 677 | Mema |
-| 277 | 675 | Tommy Tha Boss Gunz |
-| 278 | 675 | Brenda Utphall |
+| 277 | 675 | Brenda Utphall |
+| 278 | 675 | Tommy Tha Boss Gunz |
 | 279 | 674 | Kathryn Townsley |
 | 280 | 673 | Claire Noland |
 | 281 | 672 | Danielle Simmons |
@@ -305,8 +305,8 @@
 | 297 | 640 | BYM4L |
 | 298 | 639 | Crystie Hicks |
 | 299 | 639 | Rebecca Miller |
-| 300 | 635 | William Hunt |
-| 301 | 635 | Diana Fitzwater |
+| 300 | 635 | Diana Fitzwater |
+| 301 | 635 | William Hunt |
 | 302 | 632 | Beth |
 | 303 | 631 | Marie Walker |
 | 304 | 629 | Sleepypanda67 |
@@ -597,9 +597,9 @@
 | 589 | 357 | Tristan Szolek |
 | 590 | 357 | Shannon Byrd |
 | 591 | 355 | Amanda Perez |
-| 592 | 354 | Demeka Dangerous-kisses Johnson |
+| 592 | 354 | Rickey Johnson |
 | 593 | 354 | Rachel Kaminski |
-| 594 | 354 | Rickey Johnson |
+| 594 | 354 | Demeka Dangerous-kisses Johnson |
 | 595 | 352 | Rose Fx |
 | 596 | 352 | ruth |
 | 597 | 352 | Mikayala Szaz |
@@ -608,9 +608,9 @@
 | 600 | 351 | Connie Jimenez |
 | 601 | 350 | Fi Ne |
 | 602 | 350 | Chris Harr |
-| 603 | 348 | Richard Horton |
-| 604 | 348 | NanDa Cruzan VI |
-| 605 | 348 | Peppy Snapfall |
+| 603 | 348 | Peppy Snapfall |
+| 604 | 348 | Richard Horton |
+| 605 | 348 | NanDa Cruzan VI |
 | 606 | 347 | Zesty Pivot |
 | 607 | 346 | Morgan Easter |
 | 608 | 346 | Stephanie Fortune |
