@@ -83,15 +83,15 @@
 | 75 | 544 | Amy Suckarieh |
 | 76 | 533 | Chris Baggett |
 | 77 | 530 | Yoset Mejia |
-| 78 | 524 | Amelpss |
-| 79 | 524 | Carolyn Wallace |
+| 78 | 524 | Carolyn Wallace |
+| 79 | 524 | Amelpss |
 | 80 | 523 | Dawn Alexander |
 | 81 | 517 | H.R. Block |
 | 82 | 512 | Casey Jeffcoat |
 | 83 | 500 | Rodney McMath Jr. |
 | 84 | 493 | Judy Cox |
-| 85 | 488 | Jen Allison |
-| 86 | 488 | Avy Absol |
+| 85 | 488 | Avy Absol |
+| 86 | 488 | Jen Allison |
 | 87 | 486 | Carmethia Clemons Haslerig |
 | 88 | 468 | Shane Kalamata Platoon |
 | 89 | 448 | Kristin Manee |
@@ -185,14 +185,14 @@
 | 177 | 224 | Matt Summer |
 | 178 | 223 | Antony Dwayne Beasley |
 | 179 | 222 | blockstar |
-| 180 | 221 | PurpleMoonMa |
-| 181 | 221 | Rheanda Weaskus |
+| 180 | 221 | Rheanda Weaskus |
+| 181 | 221 | PurpleMoonMa |
 | 182 | 221 | Jose Dejesus |
 | 183 | 217 | Angela Srubar-Norman |
 | 184 | 217 | Chaz Duncan |
 | 185 | 217 | Kim Hunt |
-| 186 | 216 | ZeeZee |
-| 187 | 216 | Chance Strickland |
+| 186 | 216 | Chance Strickland |
+| 187 | 216 | ZeeZee |
 | 188 | 213 | Jason Allen |
 | 189 | 213 | Sarah Neathery |
 | 190 | 212 | Mike Solo |
@@ -205,8 +205,8 @@
 | 197 | 207 | Chirpy Basepiece |
 | 198 | 207 | scott |
 | 199 | 206 | Ruben Wheeler |
-| 200 | 205 | Lindsey Gonzalez |
-| 201 | 205 | Kathy Brookins |
+| 200 | 205 | Kathy Brookins |
+| 201 | 205 | Lindsey Gonzalez |
 | 202 | 204 | Carlos Ramirez |
 | 203 | 203 | Katherine Crane |
 | 204 | 202 | Patron Anderson |

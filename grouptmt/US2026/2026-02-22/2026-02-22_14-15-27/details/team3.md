@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -294,9 +294,9 @@
 | 286 | 225 | Steffi Chris Dacones |
 | 287 | 224 | Quirky Dropzone |
 | 288 | 221 | Vaners |
-| 289 | 221 | Alice |
+| 289 | 221 | Jaime Monhaut-Reed |
 | 290 | 221 | kacihall |
-| 291 | 221 | Jaime Monhaut-Reed |
+| 291 | 221 | Alice |
 | 292 | 220 | Tosha Griffey |
 | 293 | 220 | rosy |
 | 294 | 218 | Michael Lucado |
@@ -318,16 +318,16 @@
 | 310 | 208 | AlsoJess |
 | 311 | 208 | Niki Dalrymple |
 | 312 | 207 | angieelyn |
-| 313 | 207 | Jessica |
-| 314 | 207 | Daring Builder |
+| 313 | 207 | Daring Builder |
+| 314 | 207 | Jessica |
 | 315 | 206 | Tracy Martin |
 | 316 | 206 | Tammy Rosenberry |
 | 317 | 205 | April Matthew Kibble |
 | 318 | 205 | Kirhonda Autmon |
 | 319 | 204 | Aerian Preston |
 | 320 | 203 | Angie Harper |
-| 321 | 202 | Tipsy Zonebuilder |
-| 322 | 202 | Staci George Fitzsimmons |
+| 321 | 202 | Staci George Fitzsimmons |
+| 322 | 202 | Tipsy Zonebuilder |
 | 323 | 201 | Hyper Matchzone |
 | 324 | 200 | glichmod |
 | 325 | 200 | Colleen Phelps |
@@ -361,10 +361,10 @@
 | 353 | 181 | Denita Mungro |
 | 354 | 181 | Eileen Brady Thurber |
 | 355 | 180 | Beth Ingham |
-| 356 | 179 | DanceLuvLaugh |
-| 357 | 179 | Rachel Napper |
-| 358 | 178 | ROODBOY |
-| 359 | 178 | Jess Dearborn |
+| 356 | 179 | Rachel Napper |
+| 357 | 179 | DanceLuvLaugh |
+| 358 | 178 | Jess Dearborn |
+| 359 | 178 | ROODBOY |
 | 360 | 178 | Jennifer Alvey |
 | 361 | 177 | Kristin Delibac Corrigan |
 | 362 | 177 | Ashley Lynn Marchese |
@@ -440,8 +440,8 @@
 | 432 | 148 | neci |
 | 433 | 147 | sofaking |
 | 434 | 147 | David Bardo |
-| 435 | 147 | Erika Thornton |
-| 436 | 147 | Megan Rathmanner |
+| 435 | 147 | Megan Rathmanner |
+| 436 | 147 | Erika Thornton |
 | 437 | 146 | Sdot |
 | 438 | 146 | Sara Dunn |
 | 439 | 146 | Sarah Whalen |

@@ -873,7 +873,7 @@
 | 865 | 274 | Amanda Michelle Pigeon |
 | 866 | 274 | Sabrena Yeisley |
 | 867 | 274 | KT Macadocious |
-| 868 | 274 | Sabrena Yeisley |
+| 868 | 274 | Jamie Stevey |
 | 869 | 273 | Britt Stunkel |
 | 870 | 273 | Boldy Block |
 | 871 | 273 | Jennifer Aiken |
@@ -891,8 +891,8 @@
 | 883 | 269 | Queen |
 | 884 | 268 | Donald Nowland |
 | 885 | 268 | Sassy Linkroll |
-| 886 | 267 | Dad |
-| 887 | 267 | Sanaa Nounoussa |
+| 886 | 267 | Sanaa Nounoussa |
+| 887 | 267 | Dad |
 | 888 | 267 | Denisse Avilez |
 | 889 | 267 | Candace Cece Joseph |
 | 890 | 267 | Kim McGrath |
@@ -906,8 +906,8 @@
 | 898 | 265 | Kray Kray Katelynn |
 | 899 | 265 | Cool Grabber |
 | 900 | 265 | Theresa Sterrett |
-| 901 | 264 | Shindee |
-| 902 | 264 | Nicki Stephens |
+| 901 | 264 | Nicki Stephens |
+| 902 | 264 | Shindee |
 | 903 | 264 | Edna Combs |
 | 904 | 264 | Ocean-Brianna McGregor |
 | 905 | 263 | Elizabeth Leinen |
