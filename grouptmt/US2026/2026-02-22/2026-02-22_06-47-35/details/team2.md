@@ -193,8 +193,8 @@
 | 185 | 920 | Bob |
 | 186 | 916 | Butta |
 | 187 | 915 | Kelly Trent |
-| 188 | 910 | Crystal Hoffman |
-| 189 | 910 | Shuany Arias |
+| 188 | 910 | Shuany Arias |
+| 189 | 910 | Crystal Hoffman |
 | 190 | 907 | Gene Mills |
 | 191 | 902 | Murrae Lynn Rebarchek |
 | 192 | 901 | Jennifer Peachey |
@@ -315,8 +315,8 @@
 | 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
-| 310 | 627 | Victoria Moore-Smith |
-| 311 | 627 | Allan Wayne Lamia |
+| 310 | 627 | Allan Wayne Lamia |
+| 311 | 627 | Victoria Moore-Smith |
 | 312 | 619 | Jánine Riggs |
 | 313 | 617 | tejas25 |
 | 314 | 617 | Leslie Ann Carter |
@@ -373,8 +373,8 @@
 | 365 | 523 | Matt Johnson |
 | 366 | 522 | Lylymom |
 | 367 | 521 | Tj Ball |
-| 368 | 520 | Angela Lynn |
-| 369 | 520 | Maddy Petersen |
+| 368 | 520 | Maddy Petersen |
+| 369 | 520 | Angela Lynn |
 | 370 | 519 | AISlop |
 | 371 | 519 | Rob Brown |
 | 372 | 517 | Amber Brion |
@@ -614,14 +614,14 @@
 | 606 | 351 | Connie Jimenez |
 | 607 | 350 | Fi Ne |
 | 608 | 350 | Chris Harr |
-| 609 | 348 | Richard Horton |
-| 610 | 348 | Peppy Snapfall |
-| 611 | 348 | NanDa Cruzan VI |
+| 609 | 348 | NanDa Cruzan VI |
+| 610 | 348 | Richard Horton |
+| 611 | 348 | Peppy Snapfall |
 | 612 | 347 | Zesty Pivot |
 | 613 | 346 | Morgan Easter |
 | 614 | 346 | Stephanie Fortune |
-| 615 | 345 | Rhianna DiLorenzo |
-| 616 | 345 | Frisky Clearpiece |
+| 615 | 345 | Frisky Clearpiece |
+| 616 | 345 | Rhianna DiLorenzo |
 | 617 | 345 | Gina Caulder |
 | 618 | 344 | Glenn Cobbins |
 | 619 | 344 | Tra Barnum |
@@ -640,8 +640,8 @@
 | 632 | 336 | Swanky Columnbuilder |
 | 633 | 335 | Brooke Leigh Strube |
 | 634 | 334 | Phil J. Grombliniak |
-| 635 | 333 | Adrian Benitez |
-| 636 | 333 | Woodys Glass |
+| 635 | 333 | Woodys Glass |
+| 636 | 333 | Adrian Benitez |
 | 637 | 333 | Veronica Stevenson |
 | 638 | 332 | Lathasa Newkirk |
 | 639 | 331 | Steve Man |
@@ -744,8 +744,8 @@
 | 736 | 289 | Bella Novia |
 | 737 | 289 | August Hale |
 | 738 | 288 | thranduil |
-| 739 | 288 | Samantha Angelo |
-| 740 | 288 | Jenna Nance |
+| 739 | 288 | Jenna Nance |
+| 740 | 288 | Samantha Angelo |
 | 741 | 288 | Ashley Criner |
 | 742 | 287 | Toni Roberson |
 | 743 | 286 | Kelsey Sullivan |
@@ -755,8 +755,8 @@
 | 747 | 284 | Hillary Franklin |
 | 748 | 283 | Tash Bell |
 | 749 | 282 | Nutty Slice |
-| 750 | 280 | Reece Smith |
-| 751 | 280 | Danielle DeLozier Plesec |
+| 750 | 280 | Danielle DeLozier Plesec |
+| 751 | 280 | Reece Smith |
 | 752 | 280 | Belle |
 | 753 | 279 | Loony Basepiece |
 | 754 | 278 | AndrewandShela Gornik |
@@ -764,8 +764,8 @@
 | 756 | 277 | Amanda Chamberlain |
 | 757 | 277 | NickyBrooks |
 | 758 | 276 | Lindsey Leigh |
-| 759 | 276 | Ryan Lauer |
-| 760 | 276 | Josh Webster |
+| 759 | 276 | Josh Webster |
+| 760 | 276 | Ryan Lauer |
 | 761 | 276 | Patrick Bartlett |
 | 762 | 275 | Crystal Elam |
 | 763 | 275 | Alishac Marie |

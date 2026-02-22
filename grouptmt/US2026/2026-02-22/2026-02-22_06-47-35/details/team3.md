@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | KayB |
-| 237 | 256 | Tiffany Davie |
+| 236 | 256 | Tiffany Davie |
+| 237 | 256 | KayB |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | Raven Dudley |
@@ -293,8 +293,8 @@
 | 285 | 203 | Angie Harper |
 | 286 | 202 | Staci George Fitzsimmons |
 | 287 | 201 | Hyper Matchzone |
-| 288 | 200 | Sharisse Baltimore |
-| 289 | 200 | glichmod |
+| 288 | 200 | glichmod |
+| 289 | 200 | Sharisse Baltimore |
 | 290 | 198 | kacihall |
 | 291 | 197 | Saucy Buildout |
 | 292 | 195 | Nicha Hooker |

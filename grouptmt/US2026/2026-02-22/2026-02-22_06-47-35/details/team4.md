@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -165,8 +165,8 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Jessica Bohlken |
-| 161 | 215 | Ren Mc |
+| 160 | 215 | Ren Mc |
+| 161 | 215 | Jessica Bohlken |
 | 162 | 214 | Twisty Cascadezone |
 | 163 | 213 | Sarah Neathery |
 | 164 | 213 | Jason Allen |
