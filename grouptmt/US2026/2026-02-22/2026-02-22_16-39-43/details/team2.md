@@ -206,8 +206,8 @@
 | 198 | 993 | Eric Carlson |
 | 199 | 992 | Ashley Rose Frederick |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Teddi Notyalc |
-| 202 | 989 | Desiree Harris Rosch |
+| 201 | 989 | Desiree Harris Rosch |
+| 202 | 989 | Teddi Notyalc |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -597,8 +597,8 @@
 | 589 | 423 | Taylor Flowers |
 | 590 | 422 | Kayla |
 | 591 | 421 | Joel Rosado |
-| 592 | 420 | LaWanda Powell |
-| 593 | 420 | Joice Hansen |
+| 592 | 420 | Joice Hansen |
+| 593 | 420 | LaWanda Powell |
 | 594 | 420 | Samantha Scibelli |
 | 595 | 419 | Goofy Catcher |
 | 596 | 419 | Josh Dill |
@@ -702,8 +702,8 @@
 | 694 | 362 | Beth Decker |
 | 695 | 361 | Michelle Shrum |
 | 696 | 360 | Kacee Conrad Bock |
-| 697 | 360 | Jroc |
-| 698 | 360 | James Smith |
+| 697 | 360 | James Smith |
+| 698 | 360 | Jroc |
 | 699 | 359 | Cheyenne Donovan |
 | 700 | 359 | Court |
 | 701 | 358 | Sydney Busse |
@@ -733,8 +733,8 @@
 | 725 | 346 | Daniel Amos |
 | 726 | 345 | Gina Caulder |
 | 727 | 345 | Rhianna DiLorenzo |
-| 728 | 344 | Glenn Cobbins |
-| 729 | 344 | Sarah block |
+| 728 | 344 | Sarah block |
+| 729 | 344 | Glenn Cobbins |
 | 730 | 344 | stacey |
 | 731 | 343 | Cris cris |
 | 732 | 343 | Snappy Shatterfit |

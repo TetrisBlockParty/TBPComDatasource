@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -257,8 +257,8 @@
 | 249 | 181 | Jackie Marie |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Christina Black |
-| 252 | 179 | Stephme310 |
-| 253 | 179 | TinyLegoRose |
+| 252 | 179 | TinyLegoRose |
+| 253 | 179 | Stephme310 |
 | 254 | 179 | AyeKay |
 | 255 | 175 | Lorena Guerrero-Barron |
 | 256 | 174 | Chair |
@@ -280,8 +280,8 @@
 | 272 | 162 | Gwendolyn Pitcairn |
 | 273 | 162 | John Brunetti |
 | 274 | 162 | conceptCollector |
-| 275 | 161 | Twisty Risebuilder |
-| 276 | 161 | Tanner Lund |
+| 275 | 161 | Tanner Lund |
+| 276 | 161 | Twisty Risebuilder |
 | 277 | 159 | DonMega |
 | 278 | 159 | Marcus Todd |
 | 279 | 157 | Bethany Ison |
@@ -335,8 +335,8 @@
 | 327 | 141 | Montiette Mcglown |
 | 328 | 141 | Kathy Allen |
 | 329 | 140 | Rico |
-| 330 | 139 | Lori Goudy |
-| 331 | 139 | O block |
+| 330 | 139 | O block |
+| 331 | 139 | Lori Goudy |
 | 332 | 138 | Ashlee Carnes |
 | 333 | 138 | Jasmine S Caldwell |
 | 334 | 138 | Moonsterix |
