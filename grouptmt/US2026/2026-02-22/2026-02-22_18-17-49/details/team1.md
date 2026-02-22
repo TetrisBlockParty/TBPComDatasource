@@ -96,8 +96,8 @@
 | 88 | 443 | Steve Schneider |
 | 89 | 436 | Tonya Beasley |
 | 90 | 434 | Loony Fitzone |
-| 91 | 433 | Tinah Montanna |
-| 92 | 433 | Trina Gee |
+| 91 | 433 | Trina Gee |
+| 92 | 433 | Tinah Montanna |
 | 93 | 429 | Tdub |
 | 94 | 428 | Stephanie Zahn |
 | 95 | 418 | Jazzy Framezone |
@@ -204,9 +204,9 @@
 | 196 | 242 | John Kim |
 | 197 | 241 | John J. Cronin |
 | 198 | 240 | DaRascal |
-| 199 | 239 | Chris K |
-| 200 | 239 | Lacy Wolfe |
-| 201 | 239 | Sam Williams |
+| 199 | 239 | Sam Williams |
+| 200 | 239 | Chris K |
+| 201 | 239 | Lacy Wolfe |
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
@@ -280,8 +280,8 @@
 | 272 | 186 | Margo Wagner |
 | 273 | 185 | Hasty Columnbuilder |
 | 274 | 184 | Chris Sigurdson |
-| 275 | 183 | Brave Wrecker |
-| 276 | 183 | Tiger Lily |
+| 275 | 183 | Tiger Lily |
+| 276 | 183 | Brave Wrecker |
 | 277 | 181 | David DeSantis |
 | 278 | 180 | Matt Iaccheo |
 | 279 | 180 | Beau Galvan |

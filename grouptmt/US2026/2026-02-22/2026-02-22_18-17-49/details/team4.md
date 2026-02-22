@@ -44,8 +44,8 @@
 | 36 | 880 | Koshin Abdirahman |
 | 37 | 873 | Elizabeth Sallas |
 | 38 | 871 | Denny Shives |
-| 39 | 846 | Christine Marie |
-| 40 | 846 | Lucille Truesdale |
+| 39 | 846 | Lucille Truesdale |
+| 40 | 846 | Christine Marie |
 | 41 | 843 | Jae Job |
 | 42 | 843 | Shelly Chandler |
 | 43 | 836 | LisaJo Picken Buchanan |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Scott Jameson |
-| 112 | 412 | Jenna Ingersoll |
+| 111 | 412 | Jenna Ingersoll |
+| 112 | 412 | Scott Jameson |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -160,8 +160,8 @@
 | 152 | 294 | Meagan Nicole |
 | 153 | 292 | Cursed Hag |
 | 154 | 290 | Keshia Lyons |
-| 155 | 290 | 🥔🥔 Spudz |
-| 156 | 290 | Chaz Duncan |
+| 155 | 290 | Chaz Duncan |
+| 156 | 290 | 🥔🥔 Spudz |
 | 157 | 288 | Leah Kutz Zirbel |
 | 158 | 286 | shark tato |
 | 159 | 286 | Brittney Orengo |
@@ -212,8 +212,8 @@
 | 204 | 233 | Ruben Wheeler |
 | 205 | 230 | Kristina Black |
 | 206 | 228 | Antony Dwayne Beasley |
-| 207 | 226 | Zesty Twistbuilder |
-| 208 | 226 | Carlos Ramirez |
+| 207 | 226 | Carlos Ramirez |
+| 208 | 226 | Zesty Twistbuilder |
 | 209 | 225 | Perky Patternblock |
 | 210 | 224 | April Rondinone |
 | 211 | 222 | blockstar |
@@ -245,17 +245,17 @@
 | 237 | 203 | Katherine Crane |
 | 238 | 202 | Patron Anderson |
 | 239 | 201 | Melvin Baird |
-| 240 | 200 | Chair |
-| 241 | 200 | Rebecca Morris |
-| 242 | 200 | Googenheim |
+| 240 | 200 | Rebecca Morris |
+| 241 | 200 | Googenheim |
+| 242 | 200 | Chair |
 | 243 | 200 | Lori |
 | 244 | 199 | Orchislactea |
 | 245 | 198 | Silly SeaWeed |
 | 246 | 198 | Keith Kelley |
 | 247 | 198 | Calvin Dennis |
 | 248 | 197 | Gilles Lanctot |
-| 249 | 195 | 中山成巳 |
-| 250 | 195 | Snippy Puzzle |
+| 249 | 195 | Snippy Puzzle |
+| 250 | 195 | 中山成巳 |
 | 251 | 194 | Zany Twisterfit |
 | 252 | 193 | Rio Rocha |
 | 253 | 192 | Andrew Dang |

@@ -203,8 +203,8 @@
 | 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
-| 198 | 372 | Giddy Twistbuilder |
-| 199 | 372 | Tom Nault |
+| 198 | 372 | Tom Nault |
+| 199 | 372 | Giddy Twistbuilder |
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 363 | Rochelle Hazelett |
@@ -399,15 +399,15 @@
 | 391 | 188 | Crystal Hine |
 | 392 | 186 | Bryan Byrd |
 | 393 | 186 | Sameerah Smith |
-| 394 | 186 | Bryan Byrd |
+| 394 | 186 | Noettín Kan Zasnemoore |
 | 395 | 184 | Shanon R Jackson |
 | 396 | 183 | Smiley Zone |
 | 397 | 182 | Joy Petroski |
 | 398 | 182 | gremicx |
 | 399 | 181 | Juliana Dottore |
 | 400 | 181 | Fancy Curver |
-| 401 | 180 | Funky Jumper |
-| 402 | 180 | Beth Ingham |
+| 401 | 180 | Beth Ingham |
+| 402 | 180 | Funky Jumper |
 | 403 | 180 | Ava Petito |
 | 404 | 179 | Skinny Baldez |
 | 405 | 179 | Betty Bóò |

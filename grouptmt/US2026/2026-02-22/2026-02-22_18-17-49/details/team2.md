@@ -156,8 +156,8 @@
 | 148 | 1290 | Bussyiano Page |
 | 149 | 1286 | Eileen Hale |
 | 150 | 1286 | Altamirano Michael |
-| 151 | 1282 | Tanya Parsons |
-| 152 | 1282 | Ashley Rose Frederick |
+| 151 | 1282 | Ashley Rose Frederick |
+| 152 | 1282 | Tanya Parsons |
 | 153 | 1273 | Cool Rollpiece |
 | 154 | 1271 | Shandrica Lowe |
 | 155 | 1248 | Isabela Shaw |
@@ -165,8 +165,8 @@
 | 157 | 1236 | Nika Bee |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1211 | Lucky Ladybug |
 | 163 | 1203 | Suki Kaur |
 | 164 | 1201 | Murrae Lynn Rebarchek |
@@ -295,8 +295,8 @@
 | 287 | 803 | Barbra Miller |
 | 288 | 800 | Danielle Johnson-Chandler |
 | 289 | 792 | Offonar Facey |
-| 290 | 787 | Laura McCarthey |
-| 291 | 787 | Dee |
+| 290 | 787 | Dee |
+| 291 | 787 | Laura McCarthey |
 | 292 | 783 | Lisa Ongtowasruk |
 | 293 | 781 | Hong Tang |
 | 294 | 781 | Angie Bolton Workman |
@@ -1388,9 +1388,9 @@
 | 1380 | 199 | Miyah Erraina |
 | 1381 | 198 | Lisa Chapman |
 | 1382 | 198 | Majed Tawk |
-| 1383 | 198 | Alice Samm |
-| 1384 | 198 | Makayla Harris |
-| 1385 | 198 | Ericka Marie Smith |
+| 1383 | 198 | Makayla Harris |
+| 1384 | 198 | Ericka Marie Smith |
+| 1385 | 198 | Alice Samm |
 | 1386 | 197 | Kendall Fullerton |
 | 1387 | 197 | Kristin1001 |
 | 1388 | 197 | Donna M Carter |
