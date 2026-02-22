@@ -204,8 +204,8 @@
 | 196 | 857 | Della Hole |
 | 197 | 850 | Missie Lawson Gebhardt |
 | 198 | 849 | Hillary Crawford |
-| 199 | 845 | April Dawn Gussler |
-| 200 | 845 | Felicia Lynn |
+| 199 | 845 | Felicia Lynn |
+| 200 | 845 | April Dawn Gussler |
 | 201 | 838 | Tralonda Weeks |
 | 202 | 837 | Catina Hutchison |
 | 203 | 837 | Ashley Rose Frederick |
@@ -306,8 +306,8 @@
 | 298 | 632 | Beth |
 | 299 | 631 | Marie Walker |
 | 300 | 629 | Sleepypanda67 |
-| 301 | 627 | Allan Wayne Lamia |
-| 302 | 627 | Victoria Moore-Smith |
+| 301 | 627 | Victoria Moore-Smith |
+| 302 | 627 | Allan Wayne Lamia |
 | 303 | 619 | Jánine Riggs |
 | 304 | 617 | Leslie Ann Carter |
 | 305 | 617 | tejas25 |
@@ -522,8 +522,8 @@
 | 514 | 390 | Besma Ao |
 | 515 | 390 | Joice Hansen |
 | 516 | 390 | Moist_B-hole |
-| 517 | 389 | Julie Hamilton |
-| 518 | 389 | Irene Jones |
+| 517 | 389 | Irene Jones |
+| 518 | 389 | Julie Hamilton |
 | 519 | 389 | Alexis Richardson |
 | 520 | 389 | Kayla |
 | 521 | 388 | Cheery Matchzone |
@@ -536,8 +536,8 @@
 | 528 | 384 | Party d |
 | 529 | 384 | Kelly |
 | 530 | 384 | Mike Aprilliano |
-| 531 | 382 | KhaosLord |
-| 532 | 382 | David Holliday |
+| 531 | 382 | David Holliday |
+| 532 | 382 | KhaosLord |
 | 533 | 381 | Melissa Rebbe-Lehman |
 | 534 | 381 | Jessica S Flecha |
 | 535 | 381 | Happy Caster |
@@ -558,8 +558,8 @@
 | 550 | 371 | AkaLefty |
 | 551 | 371 | Giggy Grabber |
 | 552 | 371 | Brenda Messer |
-| 553 | 369 | Brenda Pierpoint |
-| 554 | 369 | Juan Castillo |
+| 553 | 369 | Juan Castillo |
+| 554 | 369 | Brenda Pierpoint |
 | 555 | 369 | RaeVan Worthington |
 | 556 | 369 | Tony Lea |
 | 557 | 367 | Deyawn Smith |
@@ -1790,7 +1790,7 @@
 | 1782 | 116 | Brandi Fuller Cason |
 | 1783 | 116 | Misty Leigh |
 | 1784 | 116 | Amandalynn Harter |
-| 1785 | 116 | Misty Leigh |
+| 1785 | 116 | Jessica Materasso |
 | 1786 | 116 | Sarah Pierce |
 | 1787 | 115 | Norma Gustavson |
 | 1788 | 115 | Buisanito |

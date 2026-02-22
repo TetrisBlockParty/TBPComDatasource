@@ -168,8 +168,8 @@
 | 160 | 362 | Darlene McMillan |
 | 161 | 359 | Dapper Snap |
 | 162 | 355 | Tessina Dewey-Mancino |
-| 163 | 353 | CeceGeGe |
-| 164 | 353 | Shunta Jacobs |
+| 163 | 353 | Shunta Jacobs |
+| 164 | 353 | CeceGeGe |
 | 165 | 352 | Chris Bell |
 | 166 | 351 | Tom Nault |
 | 167 | 348 | Chasity |
@@ -198,8 +198,8 @@
 | 190 | 300 | Sherika C. McDaniels |
 | 191 | 298 | MsBee |
 | 192 | 296 | Katrina Turner |
-| 193 | 296 | Ammmmmmy |
-| 194 | 296 | Brandon Givens |
+| 193 | 296 | Brandon Givens |
+| 194 | 296 | Ammmmmmy |
 | 195 | 295 | RickyG |
 | 196 | 295 | Marci Mize Fandrich |
 | 197 | 295 | Jim Mathews |
@@ -237,8 +237,8 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | Tiffany Davie |
-| 233 | 256 | KayB |
+| 232 | 256 | KayB |
+| 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
 | 235 | 249 | JerseyJess |
 | 236 | 249 | Annie Marie |
@@ -403,8 +403,8 @@
 | 395 | 134 | gremicx |
 | 396 | 134 | Tammy |
 | 397 | 133 | Jen Lewis |
-| 398 | 132 | Andrew Thorson |
-| 399 | 132 | Hanna Kim |
+| 398 | 132 | Hanna Kim |
+| 399 | 132 | Andrew Thorson |
 | 400 | 131 | Cheeky Setter |
 | 401 | 130 | Karen Picaboo |
 | 402 | 130 | TotoCherue |
@@ -416,8 +416,8 @@
 | 408 | 129 | Amanda Neal |
 | 409 | 128 | David Kozen |
 | 410 | 127 | Jumpy Wrecker |
-| 411 | 126 | Tipsy Puzzle |
-| 412 | 126 | Crystal Martin |
+| 411 | 126 | Crystal Martin |
+| 412 | 126 | Tipsy Puzzle |
 | 413 | 125 | Brian Battjes |
 | 414 | 125 | Felicia Doxey |
 | 415 | 125 | Shimika Enay Wallace |

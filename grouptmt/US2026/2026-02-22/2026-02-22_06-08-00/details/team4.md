@@ -123,8 +123,8 @@
 | 115 | 286 | Daria Rycewicz |
 | 116 | 284 | shark tato |
 | 117 | 281 | Meagan Nicole |
-| 118 | 278 | Carrie Brian |
-| 119 | 278 | Desi Desporte |
+| 118 | 278 | Desi Desporte |
+| 119 | 278 | Carrie Brian |
 | 120 | 277 | Mary Ann Pabukis |
 | 121 | 277 | Scott Jameson |
 | 122 | 275 | Dizzy Tiley |
@@ -139,8 +139,8 @@
 | 131 | 255 | Lindsay Ball |
 | 132 | 249 | Leah Kutz Zirbel |
 | 133 | 245 | Diana Houts |
-| 134 | 240 | Peachy Fall |
-| 135 | 240 | Jolly Dashfit |
+| 134 | 240 | Jolly Dashfit |
+| 135 | 240 | Peachy Fall |
 | 136 | 236 | Chastity Mitchell |
 | 137 | 232 | Chilly Crasher |
 | 138 | 232 | Crystal Nicolette Moore |
@@ -213,8 +213,8 @@
 | 205 | 162 | Joanna |
 | 206 | 161 | Jenny Wells-Oakley |
 | 207 | 160 | Laura Hosford |
-| 208 | 160 | Rio Rocha |
-| 209 | 160 | Carlos Ramirez |
+| 208 | 160 | Carlos Ramirez |
+| 209 | 160 | Rio Rocha |
 | 210 | 159 | Marcus Todd |
 | 211 | 158 | Sam Bishop |
 | 212 | 158 | Avy Absol |
@@ -235,11 +235,11 @@
 | 227 | 149 | Shainne Brewer |
 | 228 | 149 | Megan Cutshaw |
 | 229 | 148 | Janita Parrish |
-| 230 | 147 | Jared Gutwein |
-| 231 | 147 | B Renee Desjardin |
-| 232 | 147 | Jay28 |
-| 233 | 145 | Sandra Safford |
-| 234 | 145 | Mimi |
+| 230 | 147 | B Renee Desjardin |
+| 231 | 147 | Jay28 |
+| 232 | 147 | Jared Gutwein |
+| 233 | 145 | Mimi |
+| 234 | 145 | Sandra Safford |
 | 235 | 144 | Nubian1 |
 | 236 | 143 | Zesty Twistbuilder |
 | 237 | 143 | Lauren Lamb |
@@ -372,9 +372,9 @@
 | 364 | 97 | Rosemary Foster |
 | 365 | 96 | Sammy Noguera |
 | 366 | 96 | Rebecca Blake |
-| 367 | 95 | Jobadia Steelerton |
-| 368 | 95 | Chirpy Slammer |
-| 369 | 95 | Tina Martinez |
+| 367 | 95 | Tina Martinez |
+| 368 | 95 | Jobadia Steelerton |
+| 369 | 95 | Chirpy Slammer |
 | 370 | 94 | DonMega |
 | 371 | 93 | Matt Gooder |
 | 372 | 92 | bloat princess |
