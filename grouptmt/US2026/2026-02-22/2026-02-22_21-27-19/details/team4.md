@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 43 | 846 | Jae Job |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -151,18 +151,18 @@
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
-| 146 | 332 | Desi Desporte |
-| 147 | 332 | HastyGrabber |
-| 148 | 328 | Kris Bartlett |
-| 149 | 328 | Leslie Nicole |
-| 150 | 328 | Brandon Crabbs |
+| 146 | 332 | HastyGrabber |
+| 147 | 332 | Desi Desporte |
+| 148 | 328 | Leslie Nicole |
+| 149 | 328 | Brandon Crabbs |
+| 150 | 328 | Kris Bartlett |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | 🥔🥔 Spudz |
-| 157 | 314 | Andy Cabral |
+| 156 | 314 | Andy Cabral |
+| 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -183,7 +183,7 @@
 | 175 | 288 | Leah Kutz Zirbel |
 | 176 | 287 | Plucky Patternblock |
 | 177 | 286 | Brittney Orengo |
-| 178 | 277 | Mary Ann Pabukis |
+| 178 | 277 | Silly Zonebuilder |
 | 179 | 277 | Kim Klutz Olson |
 | 180 | 277 | Mary Ann Pabukis |
 | 181 | 272 | Alan George LaRage |
@@ -276,8 +276,8 @@
 | 268 | 197 | Gilles Lanctot |
 | 269 | 195 | 中山成巳 |
 | 270 | 194 | Zany Twisterfit |
-| 271 | 193 | Shainne Brewer |
-| 272 | 193 | Stephme310 |
+| 271 | 193 | Stephme310 |
+| 272 | 193 | Shainne Brewer |
 | 273 | 192 | Stella |
 | 274 | 192 | Andrew Dang |
 | 275 | 191 | Earnest Thompson |

@@ -173,8 +173,8 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Groovy Puzzle |
-| 169 | 1232 | Ambyre Patterson |
+| 168 | 1232 | Ambyre Patterson |
+| 169 | 1232 | Groovy Puzzle |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -248,8 +248,8 @@
 | 240 | 972 | Juliana Marques Do Nascimento Gordy |
 | 241 | 972 | Della Hole |
 | 242 | 965 | Maria Escobar |
-| 243 | 957 | Keri Womack |
-| 244 | 957 | Block Master |
+| 243 | 957 | Block Master |
+| 244 | 957 | Keri Womack |
 | 245 | 957 | Crystal Hoffman |
 | 246 | 955 | Angela Bonquiqui Dinish |
 | 247 | 951 | Cynthia Ward |
@@ -259,16 +259,16 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Isaac Trappiel IV |
-| 255 | 919 | Joshua Mandel |
+| 254 | 919 | Joshua Mandel |
+| 255 | 919 | Isaac Trappiel IV |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
 | 259 | 912 | Dedra Steward |
 | 260 | 910 | Shuany Arias |
 | 261 | 907 | Gene Mills |
-| 262 | 905 | Kristin Gower |
-| 263 | 905 | Osun Anuket Esu |
+| 262 | 905 | Osun Anuket Esu |
+| 263 | 905 | Kristin Gower |
 | 264 | 904 | Ashlen Dorrell |
 | 265 | 899 | John Bednarik |
 | 266 | 897 | Shelley Thornburgh Wright |
@@ -344,8 +344,8 @@
 | 336 | 746 | Kathryn Townsley |
 | 337 | 746 | Jerilyn Andrina |
 | 338 | 745 | Kiely Tomaskovich |
-| 339 | 743 | Tiara Elizabeth Baker |
-| 340 | 743 | Melissa Cole |
+| 339 | 743 | Melissa Cole |
+| 340 | 743 | Tiara Elizabeth Baker |
 | 341 | 741 | Mandi Douglas Hilt |
 | 342 | 740 | Jerry Tempelmeyer |
 | 343 | 739 | Brenda Utphall |
@@ -684,8 +684,8 @@
 | 676 | 410 | Beth Decker |
 | 677 | 410 | Belle |
 | 678 | 409 | Alexis Richardson |
-| 679 | 408 | Boogie SoAnimated Johnson |
-| 680 | 408 | Qiana Sanders |
+| 679 | 408 | Qiana Sanders |
+| 680 | 408 | Boogie SoAnimated Johnson |
 | 681 | 407 | Tipsy Filler |
 | 682 | 406 | Erin StFrancis |
 | 683 | 406 | Courtney Burcham |

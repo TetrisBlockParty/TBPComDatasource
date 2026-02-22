@@ -151,8 +151,8 @@
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
 | 145 | 512 | Silly Twist |
-| 146 | 506 | Stephanie Blkpep Davidson |
-| 147 | 506 | Sashay Tapae Simpson |
+| 146 | 506 | Sashay Tapae Simpson |
+| 147 | 506 | Stephanie Blkpep Davidson |
 | 148 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 149 | 501 | Patti Skiles |
 | 150 | 492 | Daira Largen |
@@ -340,8 +340,8 @@
 | 332 | 242 | Randy Clevenger |
 | 333 | 240 | Tegan Chapman |
 | 334 | 240 | Eric Caccavale |
-| 335 | 238 | Fancy Curver |
-| 336 | 238 | Niki Dalrymple |
+| 335 | 238 | Niki Dalrymple |
+| 336 | 238 | Fancy Curver |
 | 337 | 237 | Jennifer Alvey |
 | 338 | 236 | Jess Bissett |
 | 339 | 236 | Lys |
