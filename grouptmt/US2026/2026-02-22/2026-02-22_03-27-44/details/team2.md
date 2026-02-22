@@ -74,8 +74,8 @@
 | 66 | 1681 | Shameika Trail |
 | 67 | 1641 | Andea Beck |
 | 68 | 1620 | Sam Smith |
-| 69 | 1603 | RdRydnHd |
-| 70 | 1603 | Gabby Jenner |
+| 69 | 1603 | Gabby Jenner |
+| 70 | 1603 | RdRydnHd |
 | 71 | 1596 | Ray Ray Prado |
 | 72 | 1587 | Rob Riggin |
 | 73 | 1553 | Charie Holland |
@@ -220,8 +220,8 @@
 | 212 | 753 | Angela Bonquiqui Dinish |
 | 213 | 751 | Loony Snapper |
 | 214 | 749 | Debra Williams |
-| 215 | 738 | Melissa Cole |
-| 216 | 738 | Maria Escobar |
+| 215 | 738 | Maria Escobar |
+| 216 | 738 | Melissa Cole |
 | 217 | 736 | Ashie Ann |
 | 218 | 728 | Nika Bee |
 | 219 | 721 | Kristin Gower |
@@ -288,8 +288,8 @@
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Roy Salyer |
-| 284 | 579 | Juliana Marques Do Nascimento Gordy |
+| 283 | 579 | Juliana Marques Do Nascimento Gordy |
+| 284 | 579 | Roy Salyer |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -454,8 +454,8 @@
 | 446 | 396 | Stefanie Zonzini-Gagliardi |
 | 447 | 394 | Taryece Gause |
 | 448 | 393 | Ryan Meilleur |
-| 449 | 393 | Jamie West |
-| 450 | 393 | Hillary Crawford |
+| 449 | 393 | Hillary Crawford |
+| 450 | 393 | Jamie West |
 | 451 | 392 | Christine Bollig |
 | 452 | 391 | Cleo Sims |
 | 453 | 391 | Qiana Sanders |

@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -244,8 +244,8 @@
 | 236 | 210 | Trisha Balmer |
 | 237 | 210 | Desiree Gold |
 | 238 | 207 | Jessica |
-| 239 | 205 | Connie Mohler-Fair |
-| 240 | 205 | Sarah Moyer |
+| 239 | 205 | Sarah Moyer |
+| 240 | 205 | Connie Mohler-Fair |
 | 241 | 204 | Danielle Allison |
 | 242 | 204 | Aerian Preston |
 | 243 | 203 | Angie Harper |

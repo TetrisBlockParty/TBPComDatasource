@@ -147,8 +147,8 @@
 | 139 | 212 | Lori Bales |
 | 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
-| 142 | 208 | Giggly Builderline |
-| 143 | 208 | Bouncy Grid |
+| 142 | 208 | Bouncy Grid |
+| 143 | 208 | Giggly Builderline |
 | 144 | 207 | Leslie Bush Yarbrough |
 | 145 | 206 | Kimberly Garcia |
 | 146 | 203 | Paula Martin |
@@ -165,8 +165,8 @@
 | 157 | 192 | Christy Jones |
 | 158 | 192 | Shaykmia |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Sweetts |
-| 161 | 190 | Thorne Shumate |
+| 160 | 190 | Thorne Shumate |
+| 161 | 190 | Sweetts |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Jennifer Olewnik Soborowski |
@@ -200,8 +200,8 @@
 | 192 | 165 | Silly Align |
 | 193 | 165 | Nadine Velardo |
 | 194 | 164 | Shanae Grant |
-| 195 | 163 | Tyler Whitley |
-| 196 | 163 | Angela Fairbank |
+| 195 | 163 | Angela Fairbank |
+| 196 | 163 | Tyler Whitley |
 | 197 | 163 | DaRascal |
 | 198 | 162 | Cece Ibarra |
 | 199 | 161 | SavageBooty98 |
@@ -211,12 +211,12 @@
 | 203 | 158 | Sarah Marie |
 | 204 | 154 | Melissa Lemmon |
 | 205 | 153 | Barry Mac'Ockner |
-| 206 | 152 | Brave Wrecker |
-| 207 | 152 | Speedy Snapfall |
+| 206 | 152 | Speedy Snapfall |
+| 207 | 152 | Brave Wrecker |
 | 208 | 150 | Agustin Duarte Orozco |
 | 209 | 150 | Adele Rahman |
-| 210 | 147 | Davery Spencer Adair |
-| 211 | 147 | J.F. Fields |
+| 210 | 147 | J.F. Fields |
+| 211 | 147 | Davery Spencer Adair |
 | 212 | 146 | Witty Builderfit |
 | 213 | 144 | Tipsy Riseclear |
 | 214 | 144 | Miguel Teixeira |
