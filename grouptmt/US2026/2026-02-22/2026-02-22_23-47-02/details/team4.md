@@ -81,8 +81,8 @@
 | 73 | 671 | Kimyatta Cavin |
 | 74 | 664 | Valerie Roberts |
 | 75 | 659 | Jonathan Kimbrough |
-| 76 | 647 | KM8 |
-| 77 | 647 | Shauna Havard |
+| 76 | 647 | Shauna Havard |
+| 77 | 647 | KM8 |
 | 78 | 646 | Jacqueline Helm |
 | 79 | 639 | TheNeesh50 |
 | 80 | 633 | Lisa Davis |
@@ -153,19 +153,19 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Livvy |
-| 149 | 353 | Tyler Terrific |
+| 148 | 353 | Tyler Terrific |
+| 149 | 353 | Livvy |
 | 150 | 349 | Desi Desporte |
-| 151 | 348 | Silly Zonebuilder |
-| 152 | 348 | 🥔🥔 Spudz |
+| 151 | 348 | 🥔🥔 Spudz |
+| 152 | 348 | Silly Zonebuilder |
 | 153 | 347 | Daria Rycewicz |
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
 | 156 | 339 | David Lay |
 | 157 | 333 | Peachy Fall |
 | 158 | 333 | Twisty Cascadezone |
-| 159 | 332 | Leslie Nicole |
-| 160 | 332 | HastyGrabber |
+| 159 | 332 | HastyGrabber |
+| 160 | 332 | Leslie Nicole |
 | 161 | 330 | Oscar Alberto Perez |
 | 162 | 329 | Jeff Brian Gates |
 | 163 | 328 | Kris Bartlett |
@@ -236,9 +236,9 @@
 | 228 | 245 | 23 |
 | 229 | 243 | Mr. Party |
 | 230 | 242 | Zesty Twistbuilder |
-| 231 | 241 | Chris Hartig |
+| 231 | 241 | JPW |
 | 232 | 241 | Allen Lloyd |
-| 233 | 241 | JPW |
+| 233 | 241 | Chris Hartig |
 | 234 | 240 | Kim Hunt |
 | 235 | 240 | Perky Patternblock |
 | 236 | 238 | Chaz |

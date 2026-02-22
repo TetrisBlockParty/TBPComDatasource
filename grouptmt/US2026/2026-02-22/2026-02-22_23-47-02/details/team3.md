@@ -230,8 +230,8 @@
 | 222 | 378 | Chris Bell |
 | 223 | 375 | Kristal C Lee |
 | 224 | 375 | Duane Bright |
-| 225 | 372 | Rich LeBlanc |
-| 226 | 372 | Sarah Moyer |
+| 225 | 372 | Sarah Moyer |
+| 226 | 372 | Rich LeBlanc |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
 | 229 | 368 | Rebecca Funderburk Kirby |
@@ -339,8 +339,8 @@
 | 331 | 262 | Kristin Delibac Corrigan |
 | 332 | 262 | Cyd061769 |
 | 333 | 262 | Shawn Miller |
-| 334 | 261 | Angela Scott |
-| 335 | 261 | Happy Tetriblast |
+| 334 | 261 | Happy Tetriblast |
+| 335 | 261 | Angela Scott |
 | 336 | 259 | Salena Whitlock |
 | 337 | 258 | Michael Kimbro |
 | 338 | 258 | IamJust Neyamijah Washington Sr. |

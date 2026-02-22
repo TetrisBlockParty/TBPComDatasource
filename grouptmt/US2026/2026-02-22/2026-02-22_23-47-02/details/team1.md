@@ -125,16 +125,16 @@
 | 117 | 416 | Dandy Basegrid |
 | 118 | 409 | Yvonne Marie |
 | 119 | 402 | Plucky Ziggy |
-| 120 | 400 | SkipTheSadSauce |
-| 121 | 400 | Maria C. Hernandez |
+| 120 | 400 | Maria C. Hernandez |
+| 121 | 400 | SkipTheSadSauce |
 | 122 | 399 | Nery Martinez |
 | 123 | 397 | Candy Jones |
 | 124 | 394 | Chris K |
 | 125 | 391 | Lori Bales |
 | 126 | 390 | Goose egg |
 | 127 | 387 | Emily Adelaide Wheatley |
-| 128 | 386 | David Miller |
-| 129 | 386 | Ty Brown |
+| 128 | 386 | Ty Brown |
+| 129 | 386 | David Miller |
 | 130 | 383 | pjbeta |
 | 131 | 383 | Sweet Baker |
 | 132 | 382 | And |
@@ -146,14 +146,14 @@
 | 138 | 364 | Serina Marie |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | Wisa |
-| 142 | 360 | phrmblk24 |
+| 141 | 360 | phrmblk24 |
+| 142 | 360 | Wisa |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
 | 146 | 353 | Josh Riemer |
-| 147 | 350 | Death |
-| 148 | 350 | Tipsy Strikerpiece |
+| 147 | 350 | Tipsy Strikerpiece |
+| 148 | 350 | Death |
 | 149 | 344 | Monica Donato |
 | 150 | 343 | Elaine Elaine |
 | 151 | 341 | Nick R Montague |
@@ -167,8 +167,8 @@
 | 159 | 324 | Ananda Mendez |
 | 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
-| 162 | 318 | Virginia Gray Floyd |
-| 163 | 318 | Jessica Sheehan |
+| 162 | 318 | Jessica Sheehan |
+| 163 | 318 | Virginia Gray Floyd |
 | 164 | 317 | Rachael |
 | 165 | 315 | Danielle Little-Daugherty |
 | 166 | 315 | Tyler Werts |
@@ -193,9 +193,9 @@
 | 185 | 287 | Witty Builderfit |
 | 186 | 286 | Carrie Smith |
 | 187 | 283 | Franswa |
-| 188 | 282 | Snippy Wipebuilder |
-| 189 | 282 | Sassy Builderline |
-| 190 | 282 | Timothy Dew |
+| 188 | 282 | Sassy Builderline |
+| 189 | 282 | Timothy Dew |
+| 190 | 282 | Snippy Wipebuilder |
 | 191 | 281 | Desiree Deschaine Havee |
 | 192 | 280 | Billie Dawn Sparks |
 | 193 | 279 | John Kim |
@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Cody Gates |
-| 206 | 267 | Debbie Kane |
+| 205 | 267 | Debbie Kane |
+| 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
@@ -236,8 +236,8 @@
 | 228 | 244 | Eddie Dillon |
 | 229 | 242 | ParisandCory Champagne |
 | 230 | 241 | Tyler Hertzog |
-| 231 | 240 | Daring Fitclear |
-| 232 | 240 | DaRascal |
+| 231 | 240 | DaRascal |
+| 232 | 240 | Daring Fitclear |
 | 233 | 239 | Lacy Wolfe |
 | 234 | 239 | Melissa Lemmon |
 | 235 | 238 | Sarah Somers Gray |
