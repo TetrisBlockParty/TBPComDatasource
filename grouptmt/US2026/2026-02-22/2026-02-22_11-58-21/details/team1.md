@@ -197,8 +197,8 @@
 | 189 | 207 | Brenda Alexander |
 | 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |

@@ -229,8 +229,8 @@
 | 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Charles Perrone |
-| 225 | 283 | Cheeky Snapper |
+| 224 | 283 | Cheeky Snapper |
+| 225 | 283 | Charles Perrone |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -446,8 +446,8 @@
 | 438 | 139 | Paula Little |
 | 439 | 138 | Bleu Sun Beams |
 | 440 | 137 | Giggly Brickroll |
-| 441 | 136 | Sabrina Mansfield |
-| 442 | 136 | Stephanie Zahm |
+| 441 | 136 | Stephanie Zahm |
+| 442 | 136 | Sabrina Mansfield |
 | 443 | 136 | Karen Picaboo |
 | 444 | 135 | Morgan Cudo |
 | 445 | 134 | Tammy |
@@ -1112,7 +1112,7 @@
 | 1104 | 56 | Frothy Tile |
 | 1105 | 56 | Dave Watras |
 | 1106 | 56 | Richard Saunders |
-| 1107 | 56 | Nicole Cram |
+| 1107 | 56 | Sharon Coughenour Bolling Selvey |
 | 1108 | 56 | Slick Sally |
 | 1109 | 56 | Citysprout |
 | 1110 | 56 | Nicole Cram |

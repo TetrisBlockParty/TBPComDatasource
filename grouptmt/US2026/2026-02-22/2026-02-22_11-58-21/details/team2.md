@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Isabela Shaw |
-| 132 | 1248 | Howard Forest |
+| 131 | 1248 | Howard Forest |
+| 132 | 1248 | Isabela Shaw |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -211,8 +211,8 @@
 | 203 | 919 | Isaac Trappiel IV |
 | 204 | 916 | Butta |
 | 205 | 915 | Kelly Trent |
-| 206 | 910 | Crystal Hoffman |
-| 207 | 910 | Shuany Arias |
+| 206 | 910 | Shuany Arias |
+| 207 | 910 | Crystal Hoffman |
 | 208 | 907 | Gene Mills |
 | 209 | 901 | Jennifer Peachey |
 | 210 | 894 | Auntie B |
@@ -298,8 +298,8 @@
 | 290 | 696 | Kathryn Townsley |
 | 291 | 696 | Jánine Riggs |
 | 292 | 695 | Lakeysha Dortch |
-| 293 | 692 | Dannette Goldberg-Richards |
-| 294 | 692 | Jennifer Casey-Kay |
+| 293 | 692 | Jennifer Casey-Kay |
+| 294 | 692 | Dannette Goldberg-Richards |
 | 295 | 690 | Deborah Miller |
 | 296 | 689 | Giggy Blocker |
 | 297 | 688 | Tiara Elizabeth Baker |
@@ -432,8 +432,8 @@
 | 424 | 503 | Kimberly Randesi |
 | 425 | 502 | Sparkles |
 | 426 | 502 | Sheniya Spurgeon |
-| 427 | 500 | Sarah Ridenour |
-| 428 | 500 | Frisky Clearpiece |
+| 427 | 500 | Frisky Clearpiece |
+| 428 | 500 | Sarah Ridenour |
 | 429 | 499 | Sarah Massey |
 | 430 | 498 | Rhonda Milstead |
 | 431 | 497 | June E Hanson |
@@ -452,8 +452,8 @@
 | 444 | 487 | MrsCandyfine As Wine Truss |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
-| 447 | 485 | Ann Matzkanin |
-| 448 | 485 | Dapper Dasher |
+| 447 | 485 | Dapper Dasher |
+| 448 | 485 | Ann Matzkanin |
 | 449 | 484 | Brenna Ann |
 | 450 | 484 | Street Sweeper |
 | 451 | 483 | Alezandra Smith |
@@ -716,8 +716,8 @@
 | 708 | 322 | Michelle Pike |
 | 709 | 322 | Christina Jarvis-Swarbrick |
 | 710 | 321 | Samantha Scibelli |
-| 711 | 321 | Tamara Bailey |
-| 712 | 321 | Ashley Criner |
+| 711 | 321 | Ashley Criner |
+| 712 | 321 | Tamara Bailey |
 | 713 | 320 | Tash Bell |
 | 714 | 320 | Mary Boss |
 | 715 | 319 | Prado |
@@ -809,8 +809,8 @@
 | 801 | 280 | Sandra Link-Gable |
 | 802 | 280 | Luke Califf |
 | 803 | 279 | Laura Wyatt |
-| 804 | 279 | Loony Basepiece |
-| 805 | 279 | Jennifer Coe |
+| 804 | 279 | Jennifer Coe |
+| 805 | 279 | Loony Basepiece |
 | 806 | 279 | Katherin Camacho |
 | 807 | 278 | Timothy Jesuwole |
 | 808 | 278 | AndrewandShela Gornik |
@@ -845,8 +845,8 @@
 | 837 | 272 | Gina Justbeingme Chillis |
 | 838 | 271 | Pam Doughty |
 | 839 | 271 | Amber N Koepp |
-| 840 | 271 | Shalisa Hill |
-| 841 | 271 | Beverly Hodge |
+| 840 | 271 | Beverly Hodge |
+| 841 | 271 | Shalisa Hill |
 | 842 | 270 | Lazy Builderfit |
 | 843 | 270 | BK Queen |
 | 844 | 270 | Nat |
@@ -1002,8 +1002,8 @@
 | 994 | 230 | Laura Mcfee |
 | 995 | 230 | lady |
 | 996 | 229 | BbqGuru |
-| 997 | 229 | Heather Anspaugh |
-| 998 | 229 | Deidre Jenkins |
+| 997 | 229 | Deidre Jenkins |
+| 998 | 229 | Heather Anspaugh |
 | 999 | 229 | Chyrisse Norton |
 | 1000 | 228 | Kandy Charmz |
 | 1001 | 228 | Dara |
