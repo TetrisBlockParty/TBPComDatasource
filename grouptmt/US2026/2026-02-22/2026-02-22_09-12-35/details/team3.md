@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Rachael McClain Owens |
-| 101 | 565 | Patty Allen |
+| 100 | 565 | Patty Allen |
+| 101 | 565 | Rachael McClain Owens |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -172,9 +172,9 @@
 | 164 | 376 | Loopy Clusterer |
 | 165 | 374 | Sherry Ogden |
 | 166 | 371 | Michael Nowogorski |
-| 167 | 370 | Logan Naccarato |
+| 167 | 370 | Santeria Trece Candles |
 | 168 | 370 | Danielle Allison |
-| 169 | 370 | Santeria Trece Candles |
+| 169 | 370 | Logan Naccarato |
 | 170 | 368 | Stephanie Woods |
 | 171 | 366 | Adrian Marcel Pate |
 | 172 | 362 | Darlene McMillan |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Connie Mohler-Fair |
-| 263 | 234 | Nikki Pags |
+| 262 | 234 | Nikki Pags |
+| 263 | 234 | Connie Mohler-Fair |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -342,8 +342,8 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
 | 341 | 168 | Trice Thomas |
@@ -433,8 +433,8 @@
 | 425 | 134 | Glenn Loving |
 | 426 | 134 | Sharon Dudley Lawson |
 | 427 | 134 | Tammy |
-| 428 | 134 | gremicx |
-| 429 | 134 | Cheery Brickster |
+| 428 | 134 | Cheery Brickster |
+| 429 | 134 | gremicx |
 | 430 | 133 | Jen Lewis |
 | 431 | 132 | Andrew Thorson |
 | 432 | 132 | Hanna Kim |

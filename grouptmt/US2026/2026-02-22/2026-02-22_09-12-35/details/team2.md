@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Isabela Shaw |
-| 128 | 1248 | Howard Forest |
+| 127 | 1248 | Howard Forest |
+| 128 | 1248 | Isabela Shaw |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Shuany Arias |
-| 200 | 910 | Crystal Hoffman |
+| 199 | 910 | Crystal Hoffman |
+| 200 | 910 | Shuany Arias |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 894 | Auntie B |
@@ -365,8 +365,8 @@
 | 357 | 561 | Traci Johnson |
 | 358 | 557 | Block Master |
 | 359 | 556 | Slip |
-| 360 | 554 | Rachael Senard |
-| 361 | 554 | Santana Miyagi |
+| 360 | 554 | Santana Miyagi |
+| 361 | 554 | Rachael Senard |
 | 362 | 550 | Nashu |
 | 363 | 549 | Darcy Mae |
 | 364 | 549 | Kaylee McCafferty |
