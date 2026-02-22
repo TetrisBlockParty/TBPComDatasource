@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -504,8 +504,8 @@
 | 496 | 440 | Liberty |
 | 497 | 440 | Victoria Regina Girolami |
 | 498 | 440 | Sarah Berger |
-| 499 | 438 | Kristi Biddinger |
-| 500 | 438 | Johnny Yeates |
+| 499 | 438 | Johnny Yeates |
+| 500 | 438 | Kristi Biddinger |
 | 501 | 437 | Bubbly Snapfit |
 | 502 | 436 | Brenda Pierpoint |
 | 503 | 436 | Niceday |
@@ -730,8 +730,8 @@
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
 | 724 | 311 | Megan Phillips |
-| 725 | 310 | Cheeky Brickmatch |
-| 726 | 310 | Wendy Ducheney |
+| 725 | 310 | Wendy Ducheney |
+| 726 | 310 | Cheeky Brickmatch |
 | 727 | 310 | Beth Decker |
 | 728 | 310 | Audra Williams |
 | 729 | 309 | Byung Bae Park |
@@ -956,7 +956,7 @@
 | 948 | 241 | Emoney Sanchez |
 | 949 | 241 | Travis Tinsley |
 | 950 | 240 | Renee Bowers |
-| 951 | 239 | Amy John Mills |
+| 951 | 239 | Shilo Anderson |
 | 952 | 239 | Daring Matchfit |
 | 953 | 239 | Joel Rosado |
 | 954 | 239 | AsnPryBoy83 |
@@ -978,8 +978,8 @@
 | 970 | 234 | Nikki Arlene |
 | 971 | 234 | Joanna L. Abad |
 | 972 | 234 | Trina Harrison |
-| 973 | 234 | Kim McGrath |
-| 974 | 234 | Lonnie Brown |
+| 973 | 234 | Lonnie Brown |
+| 974 | 234 | Kim McGrath |
 | 975 | 234 | Synn |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
@@ -1043,15 +1043,15 @@
 | 1035 | 222 | Wacky Edgefit |
 | 1036 | 222 | Daring Lift |
 | 1037 | 220 | Amy Reynolds |
-| 1038 | 220 | Natalie M Wells |
-| 1039 | 220 | Sandra McNab |
+| 1038 | 220 | Sandra McNab |
+| 1039 | 220 | Natalie M Wells |
 | 1040 | 220 | Marcie McLain Dodd |
 | 1041 | 220 | HarleyJane |
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
 | 1044 | 219 | Cathy Bitters |
-| 1045 | 218 | Clever Dashgrid |
-| 1046 | 218 | Shea Edison |
+| 1045 | 218 | Shea Edison |
+| 1046 | 218 | Clever Dashgrid |
 | 1047 | 217 | Wedance Fong |
 | 1048 | 217 | Erika Meaux |
 | 1049 | 217 | Kyane Johnson |
@@ -1074,8 +1074,8 @@
 | 1066 | 213 | Cynthia Knox |
 | 1067 | 213 | Hannah Leigh Pelofsky |
 | 1068 | 212 | Sarah Dean |
-| 1069 | 212 | Denelle Wendt-Ramalho |
-| 1070 | 212 | JP Parks |
+| 1069 | 212 | JP Parks |
+| 1070 | 212 | Denelle Wendt-Ramalho |
 | 1071 | 212 | Crafty Brickline |
 | 1072 | 212 | Sassy Linkroll |
 | 1073 | 212 | Izzy Rockford |
@@ -1447,7 +1447,7 @@
 | 1439 | 160 | Sassy Pivot |
 | 1440 | 159 | Amy Ross |
 | 1441 | 159 | Katia Johnson |
-| 1442 | 159 | Cheery Puzzler |
+| 1442 | 159 | Markisha Poyndexter |
 | 1443 | 159 | Jennifer Heaney |
 | 1444 | 159 | ForestGem |
 | 1445 | 159 | Cheery Puzzler |
@@ -1457,15 +1457,15 @@
 | 1449 | 158 | April Ann |
 | 1450 | 158 | Tammi Dorsey |
 | 1451 | 158 | John Cleland |
-| 1452 | 158 | Ryley Laughlin |
-| 1453 | 158 | Cerealkiller |
+| 1452 | 158 | Cerealkiller |
+| 1453 | 158 | Ryley Laughlin |
 | 1454 | 157 | Heather Walski |
-| 1455 | 157 | Ashley Fairchild |
-| 1456 | 157 | James Lucas |
+| 1455 | 157 | James Lucas |
+| 1456 | 157 | Ashley Fairchild |
 | 1457 | 157 | Dakota Brown |
 | 1458 | 157 | Preya Patel |
-| 1459 | 157 | Lively Piecebuilder |
-| 1460 | 157 | Madysen Holt |
+| 1459 | 157 | Madysen Holt |
+| 1460 | 157 | Lively Piecebuilder |
 | 1461 | 157 | Dap Duong |
 | 1462 | 156 | Jessica Szymecki |
 | 1463 | 156 | Tara Creel |

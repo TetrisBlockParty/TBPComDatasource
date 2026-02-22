@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -147,8 +147,8 @@
 | 139 | 268 | GATOR |
 | 140 | 265 | Nutty Spinblock |
 | 141 | 265 | SkipTheSadSauce |
-| 142 | 264 | Jenny Gingrich Fuentes |
-| 143 | 264 | Lexuriuos Lifestlye |
+| 142 | 264 | Lexuriuos Lifestlye |
+| 143 | 264 | Jenny Gingrich Fuentes |
 | 144 | 263 | Sharon Reynolds |
 | 145 | 258 | Virginia Gray Floyd |
 | 146 | 257 | Amanda Jarnagin |
@@ -191,16 +191,16 @@
 | 183 | 207 | Brenda Alexander |
 | 184 | 207 | Leslie Bush Yarbrough |
 | 185 | 206 | BadG52 |
-| 186 | 205 | Mike Ames |
-| 187 | 205 | Tater |
-| 188 | 205 | Snappy Matcher |
+| 186 | 205 | Tater |
+| 187 | 205 | Snappy Matcher |
+| 188 | 205 | Mike Ames |
 | 189 | 204 | Lacy Wolfe |
 | 190 | 203 | LaFontaine Leslie |
 | 191 | 203 | Paula Martin |
 | 192 | 201 | Colleen Wise |
-| 193 | 200 | Flashy Rotator |
-| 194 | 200 | Breanna Luna |
-| 195 | 200 | DaRascal |
+| 193 | 200 | Breanna Luna |
+| 194 | 200 | DaRascal |
+| 195 | 200 | Flashy Rotator |
 | 196 | 199 | Basment Living |
 | 197 | 198 | Happy Snapbuild |
 | 198 | 198 | Shiny Gridmatch |
@@ -312,10 +312,10 @@
 | 304 | 134 | Plucky Stacky |
 | 305 | 133 | Lynn Adams |
 | 306 | 133 | MommaKFC |
-| 307 | 132 | Layzietyme |
-| 308 | 132 | Larry Tilton |
-| 309 | 131 | Dizzy Riseclear |
-| 310 | 131 | Plucky Wrecker |
+| 307 | 132 | Larry Tilton |
+| 308 | 132 | Layzietyme |
+| 309 | 131 | Plucky Wrecker |
+| 310 | 131 | Dizzy Riseclear |
 | 311 | 130 | Carl Claunch |
 | 312 | 129 | Sherri E Woods Hess |
 | 313 | 129 | Madison Wicks |

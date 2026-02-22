@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -83,16 +83,16 @@
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
 | 77 | 492 | TheNeesh50 |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
 | 83 | 447 | Erin Thomas |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | Jolly Dashfit |
-| 87 | 427 | KJ Pool |
+| 86 | 427 | KJ Pool |
+| 87 | 427 | Jolly Dashfit |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Jenna Ingersoll |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
@@ -163,8 +163,8 @@
 | 155 | 230 | Cursed Hag |
 | 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Swanky Fitline |
-| 159 | 227 | Alyssa Papen |
+| 158 | 227 | Alyssa Papen |
+| 159 | 227 | Swanky Fitline |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -203,8 +203,8 @@
 | 195 | 192 | Shauna Havard |
 | 196 | 191 | Sam Bishop |
 | 197 | 191 | Klo |
-| 198 | 190 | Alan George LaRage |
-| 199 | 190 | Cheery Risebuilder |
+| 198 | 190 | Cheery Risebuilder |
+| 199 | 190 | Alan George LaRage |
 | 200 | 189 | Calvin Dennis |
 | 201 | 189 | Stacey Stano |
 | 202 | 188 | Andria Lynn |

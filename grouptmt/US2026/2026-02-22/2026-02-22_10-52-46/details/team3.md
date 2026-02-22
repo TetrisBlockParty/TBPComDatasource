@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -231,8 +231,8 @@
 | 223 | 283 | Cheeky Snapper |
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Valerie Gendron |
-| 226 | 278 | Rufus Lincoln |
-| 227 | 278 | Sabrina Hardrick |
+| 226 | 278 | Sabrina Hardrick |
+| 227 | 278 | Rufus Lincoln |
 | 228 | 277 | Keis |
 | 229 | 276 | _melisa223_ |
 | 230 | 276 | Crimson |
@@ -294,10 +294,10 @@
 | 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
-| 289 | 212 | Sunny Rotater |
-| 290 | 212 | Desiree Gold |
-| 291 | 211 | Velma Mull |
-| 292 | 211 | El Chapa |
+| 289 | 212 | Desiree Gold |
+| 290 | 212 | Sunny Rotater |
+| 291 | 211 | El Chapa |
+| 292 | 211 | Velma Mull |
 | 293 | 211 | Khaleada McGill Banks |
 | 294 | 210 | Criss |
 | 295 | 210 | Lizabeth Fox |
@@ -311,14 +311,14 @@
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Staci George Fitzsimmons |
-| 307 | 202 | Tipsy Zonebuilder |
+| 306 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Staci George Fitzsimmons |
 | 308 | 201 | Alexmac |
-| 309 | 201 | Daring Builder |
-| 310 | 201 | Hyper Matchzone |
+| 309 | 201 | Hyper Matchzone |
+| 310 | 201 | Daring Builder |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | glichmod |
-| 313 | 200 | Sharisse Baltimore |
+| 312 | 200 | Sharisse Baltimore |
+| 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
 | 316 | 195 | Nicha Hooker |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | Katie Leigh Blankenship |
-| 324 | 189 | France Vézina |
+| 323 | 189 | France Vézina |
+| 324 | 189 | Katie Leigh Blankenship |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Sameerah Smith |
 | 327 | 184 | Troy |
