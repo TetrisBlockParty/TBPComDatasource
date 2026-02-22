@@ -121,8 +121,8 @@
 | 113 | 1519 | Mindy Leigh Head |
 | 114 | 1513 | blackq |
 | 115 | 1509 | Whitney Nicole Waterman |
-| 116 | 1507 | Linda Pierce |
-| 117 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Stephanie Chapman |
+| 117 | 1507 | Linda Pierce |
 | 118 | 1495 | Tj Ball |
 | 119 | 1493 | Mari Ac |
 | 120 | 1487 | Kristopher Miller |
@@ -216,8 +216,8 @@
 | 208 | 1002 | Foxxo |
 | 209 | 998 | Tralonda Weeks |
 | 210 | 991 | Moose Griffith |
-| 211 | 989 | Desiree Harris Rosch |
-| 212 | 989 | Teddi Notyalc |
+| 211 | 989 | Teddi Notyalc |
+| 212 | 989 | Desiree Harris Rosch |
 | 213 | 988 | Cherica Taylor |
 | 214 | 986 | RAEPR05 |
 | 215 | 979 | Hillary Crawford |
@@ -225,8 +225,8 @@
 | 217 | 973 | Kim Dean |
 | 218 | 972 | Juliana Marques Do Nascimento Gordy |
 | 219 | 960 | Jennifer Kistner |
-| 220 | 957 | Keri Womack |
-| 221 | 957 | Block Master |
+| 220 | 957 | Block Master |
+| 221 | 957 | Keri Womack |
 | 222 | 957 | Crystal Hoffman |
 | 223 | 956 | Mema |
 | 224 | 955 | Angela Bonquiqui Dinish |
@@ -390,8 +390,8 @@
 | 382 | 631 | Marie Walker |
 | 383 | 630 | Brittney Jean |
 | 384 | 628 | Brownie Sheena |
-| 385 | 627 | Victoria Moore-Smith |
-| 386 | 627 | Allan Wayne Lamia |
+| 385 | 627 | Allan Wayne Lamia |
+| 386 | 627 | Victoria Moore-Smith |
 | 387 | 626 | Steven Marshaun |
 | 388 | 625 | Em Chen |
 | 389 | 621 | Dany Murillo |
@@ -493,11 +493,11 @@
 | 485 | 516 | Diamond Scott |
 | 486 | 514 | Karen Posadas Centeno |
 | 487 | 512 | Leslie Jorgenson |
-| 488 | 511 | Adam Simmons |
-| 489 | 511 | Laura Mclean |
-| 490 | 509 | Jarboe |
-| 491 | 509 | Jordan Kaiser |
-| 492 | 509 | Kelli Wells |
+| 488 | 511 | Laura Mclean |
+| 489 | 511 | Adam Simmons |
+| 490 | 509 | Kelli Wells |
+| 491 | 509 | Jarboe |
+| 492 | 509 | Jordan Kaiser |
 | 493 | 507 | Kitybox |
 | 494 | 507 | Daniell Martinez |
 | 495 | 499 | Sarah Massey |
@@ -508,16 +508,16 @@
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
 | 502 | 494 | Venita Ray |
-| 503 | 493 | Sue Leard |
-| 504 | 493 | Sarah DeHart |
+| 503 | 493 | Sarah DeHart |
+| 504 | 493 | Sue Leard |
 | 505 | 492 | Breezy Clusterer |
 | 506 | 492 | Maya June |
 | 507 | 492 | Armonie Smith |
 | 508 | 491 | Michael Buckner |
-| 509 | 491 | Jedi |
-| 510 | 491 | Alezandra Smith |
-| 511 | 488 | Denise Rickman |
-| 512 | 488 | Christina Wsn |
+| 509 | 491 | Alezandra Smith |
+| 510 | 491 | Jedi |
+| 511 | 488 | Christina Wsn |
+| 512 | 488 | Denise Rickman |
 | 513 | 487 | Morgan Easter |
 | 514 | 487 | MrsCandyfine As Wine Truss |
 | 515 | 486 | JAG$*V¡LL£•FL•DuuuVaL |
@@ -526,8 +526,8 @@
 | 518 | 484 | Wendy Unsain |
 | 519 | 482 | Drwatson187 |
 | 520 | 482 | Amélie Cadieux |
-| 521 | 481 | Anthony Huebel |
-| 522 | 481 | Quirky Twistline |
+| 521 | 481 | Quirky Twistline |
+| 522 | 481 | Anthony Huebel |
 | 523 | 481 | Klee |
 | 524 | 480 | Ashley Collins |
 | 525 | 480 | Dar |
@@ -551,8 +551,8 @@
 | 543 | 470 | Arlene Joy Belicina |
 | 544 | 469 | Spunkysmom |
 | 545 | 469 | Christy Long |
-| 546 | 467 | Audrey Jones |
-| 547 | 467 | SwampRebel |
+| 546 | 467 | SwampRebel |
+| 547 | 467 | Audrey Jones |
 | 548 | 466 | Tina Marie |
 | 549 | 466 | Koa N Sharon Chen |
 | 550 | 466 | Kori Beth Babb |
@@ -612,10 +612,10 @@
 | 604 | 429 | Angel Hunnewell |
 | 605 | 428 | Shyenn Gadsby |
 | 606 | 428 | Lynda Toland |
-| 607 | 427 | Destiny Cozier |
-| 608 | 427 | Sabrina Burton |
+| 607 | 427 | Sabrina Burton |
+| 608 | 427 | Destiny Cozier |
 | 609 | 426 | De Hawkins |
-| 610 | 426 | Tom Steffen |
+| 610 | 426 | Joel Rosado |
 | 611 | 426 | Ashley Dow |
 | 612 | 426 | Tom Steffen |
 | 613 | 424 | Saucy Fitzone |

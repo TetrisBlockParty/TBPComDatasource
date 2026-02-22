@@ -200,8 +200,8 @@
 | 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
-| 195 | 245 | 23 |
-| 196 | 245 | Autum Leigh |
+| 195 | 245 | Autum Leigh |
+| 196 | 245 | 23 |
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 228 | Antony Dwayne Beasley |
 | 209 | 226 | Zesty Twistbuilder |
@@ -276,8 +276,8 @@
 | 268 | 180 | Cozy Balancer |
 | 269 | 179 | AyeKay |
 | 270 | 175 | Lorena Guerrero-Barron |
-| 271 | 174 | BigSammy420 |
-| 272 | 174 | Matt Gooder |
+| 271 | 174 | Matt Gooder |
+| 272 | 174 | BigSammy420 |
 | 273 | 171 | Autumn Kumzi |
 | 274 | 171 | June Hoffman |
 | 275 | 170 | Elie Pean |
@@ -343,11 +343,11 @@
 | 335 | 145 | Sandra Safford |
 | 336 | 145 | Daring Pivot |
 | 337 | 144 | Squeezy Pearsall |
-| 338 | 143 | Daresha Fair |
-| 339 | 143 | Metsfan |
-| 340 | 143 | Asher |
-| 341 | 142 | Chantilly Laace |
-| 342 | 142 | Alexandra Karavias |
+| 338 | 143 | Asher |
+| 339 | 143 | Daresha Fair |
+| 340 | 143 | Metsfan |
+| 341 | 142 | Alexandra Karavias |
+| 342 | 142 | Chantilly Laace |
 | 343 | 142 | Nerdy Twisterfit |
 | 344 | 141 | Kathy Allen |
 | 345 | 141 | Tony Pavelka |
@@ -373,8 +373,8 @@
 | 365 | 136 | Jen Hallin |
 | 366 | 136 | Michelle Morris |
 | 367 | 135 | Joshua Guess |
-| 368 | 134 | Kristin MacDonald |
-| 369 | 134 | Hyper Builder |
+| 368 | 134 | Hyper Builder |
+| 369 | 134 | Kristin MacDonald |
 | 370 | 133 | Berklie Apedaile |
 | 371 | 133 | Jesus Garcia |
 | 372 | 132 | Vamp |
@@ -440,9 +440,9 @@
 | 432 | 115 | Kujuanna Hammon |
 | 433 | 115 | Susan Williams |
 | 434 | 115 | Jobadia Steelerton |
-| 435 | 114 | Jason Frehner |
+| 435 | 114 | Rosemary Foster |
 | 436 | 114 | Jackson Karen |
-| 437 | 114 | Rosemary Foster |
+| 437 | 114 | Jason Frehner |
 | 438 | 114 | The Murphy |
 | 439 | 113 | Michael Orris |
 | 440 | 113 | Dandy Cascadefit |
@@ -673,7 +673,7 @@
 | 665 | 69 | ZZZZZZZ |
 | 666 | 69 | Tammy Lewis |
 | 667 | 68 | zelda Morgan |
-| 668 | 68 | Aly Eggers |
+| 668 | 68 | Jen May |
 | 669 | 68 | KanVus |
 | 670 | 68 | Aly Eggers |
 | 671 | 68 | Gia Mims |

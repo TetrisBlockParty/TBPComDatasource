@@ -92,8 +92,8 @@
 | 84 | 471 | Jennifer ManWarren |
 | 85 | 456 | Arianna O'Brien |
 | 86 | 453 | Brandi Huntington |
-| 87 | 444 | Hyper |
-| 88 | 444 | Lexuriuos Lifestlye |
+| 87 | 444 | Lexuriuos Lifestlye |
+| 88 | 444 | Hyper |
 | 89 | 443 | Steve Schneider |
 | 90 | 436 | Tonya Beasley |
 | 91 | 434 | Loony Fitzone |
@@ -199,14 +199,14 @@
 | 191 | 249 | Lakeisha Chapman |
 | 192 | 247 | Frothy Pattern |
 | 193 | 246 | Mike Ames |
-| 194 | 244 | Marianita Garcia |
-| 195 | 244 | Eddie Dillon |
-| 196 | 244 | LaFontaine Leslie |
+| 194 | 244 | Eddie Dillon |
+| 195 | 244 | LaFontaine Leslie |
+| 196 | 244 | Marianita Garcia |
 | 197 | 242 | John Kim |
 | 198 | 241 | John J. Cronin |
 | 199 | 240 | DaRascal |
-| 200 | 239 | Lacy Wolfe |
-| 201 | 239 | Sam Williams |
+| 200 | 239 | Sam Williams |
+| 201 | 239 | Lacy Wolfe |
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
@@ -217,8 +217,8 @@
 | 209 | 230 | BigWeenie69 |
 | 210 | 228 | Cheeky Pop |
 | 211 | 226 | Michael |
-| 212 | 225 | Jessie Lynn |
-| 213 | 225 | Bindi |
+| 212 | 225 | Bindi |
+| 213 | 225 | Jessie Lynn |
 | 214 | 224 | ParisandCory Champagne |
 | 215 | 223 | Christina Backer |
 | 216 | 223 | Erez Yosef |
