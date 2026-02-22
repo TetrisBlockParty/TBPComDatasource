@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -1453,7 +1453,7 @@
 | 1445 | 8 | Joe Dardar |
 | 1446 | 8 | Matthew Rodriguez |
 | 1447 | 8 | Crafty Snapline |
-| 1448 | 8 | April |
+| 1448 | 8 | Dawn Plumb |
 | 1449 | 8 | Jermre Owens |
 | 1450 | 8 | Peggy Eaton |
 | 1451 | 7 | Martin Sanchez |

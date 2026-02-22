@@ -195,8 +195,8 @@
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Stephanie Burtin |
-| 191 | 357 | Tom Nault |
+| 190 | 357 | Tom Nault |
+| 191 | 357 | Stephanie Burtin |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -232,8 +232,8 @@
 | 224 | 296 | Katrina Turner |
 | 225 | 296 | Ammmmmmy |
 | 226 | 296 | Brandon Givens |
-| 227 | 289 | Duane Bright |
-| 228 | 289 | Hoppy Buildout |
+| 227 | 289 | Hoppy Buildout |
+| 228 | 289 | Duane Bright |
 | 229 | 289 | DidIdothat |
 | 230 | 288 | Staci George Fitzsimmons |
 | 231 | 288 | Melissa Orth Hunter |
@@ -314,14 +314,14 @@
 | 306 | 211 | Velma Mull |
 | 307 | 211 | Khaleada McGill Banks |
 | 308 | 211 | El Chapa |
-| 309 | 210 | Criss |
-| 310 | 210 | Lizabeth Fox |
+| 309 | 210 | Lizabeth Fox |
+| 310 | 210 | Criss |
 | 311 | 209 | Micayah Stevens |
 | 312 | 208 | AlsoJess |
 | 313 | 208 | Niki Dalrymple |
 | 314 | 207 | angieelyn |
-| 315 | 207 | Jessica |
-| 316 | 207 | Daring Builder |
+| 315 | 207 | Daring Builder |
+| 316 | 207 | Jessica |
 | 317 | 206 | Tracy Martin |
 | 318 | 206 | Tammy Rosenberry |
 | 319 | 205 | ROODBOY |

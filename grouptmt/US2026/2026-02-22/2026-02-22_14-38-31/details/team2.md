@@ -110,8 +110,8 @@
 | 102 | 1535 | Donnie Hunt |
 | 103 | 1534 | Loopy Clusterbuilder |
 | 104 | 1534 | Laura Marie Pelletier |
-| 105 | 1516 | Mindy Leigh Head |
-| 106 | 1516 | Stephen Stephen |
+| 105 | 1516 | Stephen Stephen |
+| 106 | 1516 | Mindy Leigh Head |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -217,8 +217,8 @@
 | 209 | 941 | Marie Boyd Faulk |
 | 210 | 932 | Catina Hutchison |
 | 211 | 921 | Morgue Chick |
-| 212 | 919 | Joshua Mandel |
-| 213 | 919 | Isaac Trappiel IV |
+| 212 | 919 | Isaac Trappiel IV |
+| 213 | 919 | Joshua Mandel |
 | 214 | 916 | Butta |
 | 215 | 915 | Angela Bonquiqui Dinish |
 | 216 | 915 | Robin Kerby |
@@ -246,8 +246,8 @@
 | 238 | 860 | April Dawn Gussler |
 | 239 | 857 | Della Hole |
 | 240 | 855 | F-X |
-| 241 | 853 | Maria Escobar |
-| 242 | 853 | Meghan M |
+| 241 | 853 | Meghan M |
+| 242 | 853 | Maria Escobar |
 | 243 | 850 | Missie Lawson Gebhardt |
 | 244 | 837 | Ashley Rose Frederick |
 | 245 | 835 | Katrina Weston |

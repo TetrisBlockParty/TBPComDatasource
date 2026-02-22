@@ -141,8 +141,8 @@
 | 133 | 301 | Lehrin Maria |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Sarah Roberts |
-| 137 | 290 | Death |
+| 136 | 290 | Death |
+| 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
 | 140 | 284 | Rachael |
@@ -192,8 +192,8 @@
 | 184 | 229 | Chris K |
 | 185 | 226 | Kandae |
 | 186 | 224 | ParisandCory Champagne |
-| 187 | 223 | Erez Yosef |
-| 188 | 223 | Basment Living |
+| 187 | 223 | Basment Living |
+| 188 | 223 | Erez Yosef |
 | 189 | 222 | Debbie Davis |
 | 190 | 220 | DaRascal |
 | 191 | 219 | Chuck Gannon |
