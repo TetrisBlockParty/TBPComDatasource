@@ -264,8 +264,8 @@
 | 256 | 894 | Auntie B |
 | 257 | 892 | Rebecca Doughman |
 | 258 | 890 | Kevin Walp |
-| 259 | 884 | Adira Brown |
-| 260 | 884 | Boldy Cascadepiece |
+| 259 | 884 | Boldy Cascadepiece |
+| 260 | 884 | Adira Brown |
 | 261 | 883 | nikki |
 | 262 | 880 | Sam Joe |
 | 263 | 879 | Tony Lea |
@@ -329,11 +329,11 @@
 | 321 | 751 | Loony Snapper |
 | 322 | 750 | Jackie Lucas |
 | 323 | 746 | Jerilyn Andrina |
-| 324 | 743 | Melissa Cole |
-| 325 | 743 | Tiara Elizabeth Baker |
+| 324 | 743 | Tiara Elizabeth Baker |
+| 325 | 743 | Melissa Cole |
 | 326 | 743 | Kathryn Townsley |
-| 327 | 740 | Cheech Dta |
-| 328 | 740 | Jerry Tempelmeyer |
+| 327 | 740 | Jerry Tempelmeyer |
+| 328 | 740 | Cheech Dta |
 | 329 | 737 | Ginger |
 | 330 | 737 | Jeremy Parodi |
 | 331 | 735 | Kiely Tomaskovich |
@@ -397,8 +397,8 @@
 | 389 | 643 | Hoppy Brickmatch |
 | 390 | 642 | Cassie Maynard |
 | 391 | 640 | Gary Stash |
-| 392 | 640 | Crystie Hicks |
-| 393 | 640 | BYM4L |
+| 392 | 640 | BYM4L |
+| 393 | 640 | Crystie Hicks |
 | 394 | 639 | Rebecca Miller |
 | 395 | 636 | Mighty Spinbuilder |
 | 396 | 635 | Dennis McLaurin |

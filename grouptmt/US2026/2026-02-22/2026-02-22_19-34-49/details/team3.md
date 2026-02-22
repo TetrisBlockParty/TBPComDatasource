@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -200,10 +200,10 @@
 | 192 | 399 | Christine Trester |
 | 193 | 395 | Fallorina Susana |
 | 194 | 392 | Chasity |
-| 195 | 391 | Dapper Snap |
-| 196 | 391 | Calista Jo Dickson |
-| 197 | 391 | Cozy Snaplink |
-| 198 | 391 | Sarah Cowan Burgos |
+| 195 | 391 | Sarah Cowan Burgos |
+| 196 | 391 | Cozy Snaplink |
+| 197 | 391 | Dapper Snap |
+| 198 | 391 | Calista Jo Dickson |
 | 199 | 383 | Nicole Flippo |
 | 200 | 382 | Scott Carleton |
 | 201 | 378 | Chris Bell |

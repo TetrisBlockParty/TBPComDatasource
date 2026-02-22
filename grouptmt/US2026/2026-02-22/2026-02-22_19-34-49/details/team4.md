@@ -114,8 +114,8 @@
 | 106 | 441 | Chastity Mitchell |
 | 107 | 440 | Lori Walker |
 | 108 | 435 | Leslie Thomas |
-| 109 | 427 | Jolly Dashfit |
-| 110 | 427 | KJ Pool |
+| 109 | 427 | KJ Pool |
+| 110 | 427 | Jolly Dashfit |
 | 111 | 426 | Ren Mc |
 | 112 | 423 | Jenna Ingersoll |
 | 113 | 422 | shar |
@@ -133,8 +133,8 @@
 | 125 | 377 | Carrie Brian |
 | 126 | 373 | Joseph Guthrie |
 | 127 | 369 | Nope Young |
-| 128 | 353 | Livvy |
-| 129 | 353 | Tyler Terrific |
+| 128 | 353 | Tyler Terrific |
+| 129 | 353 | Livvy |
 | 130 | 344 | Lush Linkfall |
 | 131 | 343 | Latisha Davis |
 | 132 | 340 | Jason Hart |
@@ -173,8 +173,8 @@
 | 165 | 286 | Brittney Orengo |
 | 166 | 281 | Lindsay Ball |
 | 167 | 280 | Peachy Fall |
-| 168 | 277 | Silly Zonebuilder |
-| 169 | 277 | Mary Ann Pabukis |
+| 168 | 277 | Mary Ann Pabukis |
+| 169 | 277 | Silly Zonebuilder |
 | 170 | 273 | Crystal Nicolette Moore |
 | 171 | 272 | Alan George LaRage |
 | 172 | 271 | Sarah Brown |
@@ -189,8 +189,8 @@
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
 | 183 | 264 | Epic Curvetile |
-| 184 | 262 | Joeliecea Cobb |
-| 185 | 262 | Holly Jolly |
+| 184 | 262 | Holly Jolly |
+| 185 | 262 | Joeliecea Cobb |
 | 186 | 260 | Porkobello |
 | 187 | 259 | Sam Bishop |
 | 188 | 257 | Michele Plunkett |
@@ -258,8 +258,8 @@
 | 250 | 200 | Googenheim |
 | 251 | 199 | Orchislactea |
 | 252 | 198 | Angelito |
-| 253 | 198 | Silly SeaWeed |
-| 254 | 198 | Calvin Dennis |
+| 253 | 198 | Calvin Dennis |
+| 254 | 198 | Silly SeaWeed |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
 | 257 | 195 | Snippy Puzzle |
