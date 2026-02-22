@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -129,9 +129,9 @@
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
-| 124 | 264 | Epic Curvetile |
-| 125 | 264 | Girl |
-| 126 | 264 | Dana Scott |
+| 124 | 264 | Girl |
+| 125 | 264 | Dana Scott |
+| 126 | 264 | Epic Curvetile |
 | 127 | 262 | Holly Jolly |
 | 128 | 258 | Brittney Orengo |
 | 129 | 256 | Mylo Lipscomb |
@@ -150,8 +150,8 @@
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
-| 145 | 222 | Joeliecea Cobb |
-| 146 | 222 | TheNeesh50 |
+| 145 | 222 | TheNeesh50 |
+| 146 | 222 | Joeliecea Cobb |
 | 147 | 221 | PurpleMoonMa |
 | 148 | 221 | Rheanda Weaskus |
 | 149 | 220 | Matt Dell'Olio |
@@ -161,8 +161,8 @@
 | 153 | 215 | Jessica Bohlken |
 | 154 | 215 | Ren Mc |
 | 155 | 214 | Twisty Cascadezone |
-| 156 | 213 | Sarah Neathery |
-| 157 | 213 | Jason Allen |
+| 156 | 213 | Jason Allen |
+| 157 | 213 | Sarah Neathery |
 | 158 | 212 | Mike Solo |
 | 159 | 212 | Calvin Cannon |
 | 160 | 211 | Jenna McGeorge |
@@ -328,7 +328,7 @@
 | 320 | 109 | Jessica Miller |
 | 321 | 108 | Denise B |
 | 322 | 108 | Walter Beltran |
-| 323 | 108 | Denise B |
+| 323 | 108 | Ali Ian |
 | 324 | 107 | Marcela Johnson |
 | 325 | 107 | Brandi Durig |
 | 326 | 107 | Silly SeaWeed |

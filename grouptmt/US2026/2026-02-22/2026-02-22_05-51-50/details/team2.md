@@ -124,8 +124,8 @@
 | 116 | 1248 | Howard Forest |
 | 117 | 1242 | Altamirano Michael |
 | 118 | 1237 | Roger Grabbit |
-| 119 | 1232 | Groovy Puzzle |
-| 120 | 1232 | Isabela Shaw |
+| 119 | 1232 | Isabela Shaw |
+| 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
 | 122 | 1216 | Kristin Ruest |
 | 123 | 1215 | Megan Garrick |
@@ -206,8 +206,8 @@
 | 198 | 842 | Alisa Lamb |
 | 199 | 838 | Tralonda Weeks |
 | 200 | 837 | Ashley Rose Frederick |
-| 201 | 834 | Nika Bee |
-| 202 | 834 | Rebecca Doughman |
+| 201 | 834 | Rebecca Doughman |
+| 202 | 834 | Nika Bee |
 | 203 | 828 | Cindy Sechler Taninecz |
 | 204 | 826 | Moose Griffith |
 | 205 | 825 | Katrina Weston |
@@ -324,8 +324,8 @@
 | 316 | 589 | Thomas Hedrick |
 | 317 | 589 | Shavonna Haynes |
 | 318 | 582 | Gary Stash |
-| 319 | 579 | Roy Salyer |
-| 320 | 579 | Juliana Marques Do Nascimento Gordy |
+| 319 | 579 | Juliana Marques Do Nascimento Gordy |
+| 320 | 579 | Roy Salyer |
 | 321 | 576 | Ginger |
 | 322 | 575 | Cheech Dta |
 | 323 | 573 | Carl Bradshaw |
@@ -336,8 +336,8 @@
 | 328 | 562 | Ashley Lopez |
 | 329 | 561 | Traci Johnson |
 | 330 | 555 | Brittney Jean |
-| 331 | 554 | Rachael Senard |
-| 332 | 554 | Santana Miyagi |
+| 331 | 554 | Santana Miyagi |
+| 332 | 554 | Rachael Senard |
 | 333 | 549 | Kaylee McCafferty |
 | 334 | 549 | Darcy Mae |
 | 335 | 548 | Slip |
@@ -435,11 +435,11 @@
 | 427 | 453 | Rhonda Petro |
 | 428 | 453 | Joshua Sommerville |
 | 429 | 451 | Funky Caster |
-| 430 | 451 | Dylan Thomason |
-| 431 | 451 | Cody Nishimura |
-| 432 | 447 | Lourisha |
+| 430 | 451 | Cody Nishimura |
+| 431 | 451 | Dylan Thomason |
+| 432 | 447 | Brandy Andre |
 | 433 | 447 | Heather Schelkopf |
-| 434 | 447 | Brandy Andre |
+| 434 | 447 | Lourisha |
 | 435 | 445 | Mar Q Thomas |
 | 436 | 444 | Ryan Meilleur |
 | 437 | 442 | Leah |
@@ -765,8 +765,8 @@
 | 757 | 263 | Elizabeth Leinen |
 | 758 | 263 | Chummy Breaker |
 | 759 | 263 | Sunshine711 |
-| 760 | 263 | Sara Pennington |
-| 761 | 263 | Laura Wyatt |
+| 760 | 263 | Laura Wyatt |
+| 761 | 263 | Sara Pennington |
 | 762 | 262 | Maria Hammett |
 | 763 | 262 | Nat |
 | 764 | 262 | Taren Cowan |

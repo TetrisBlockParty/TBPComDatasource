@@ -260,8 +260,8 @@
 | 252 | 221 | Jaime Monhaut-Reed |
 | 253 | 219 | Sissy Lowery Davis |
 | 254 | 218 | Michael Lucado |
-| 255 | 216 | rosy |
-| 256 | 216 | LaTanya GeminiondaRise Johnson |
+| 255 | 216 | LaTanya GeminiondaRise Johnson |
+| 256 | 216 | rosy |
 | 257 | 215 | Alice |
 | 258 | 215 | IamJust Neyamijah Washington Sr. |
 | 259 | 214 | Rebel124 |
@@ -280,8 +280,8 @@
 | 272 | 204 | Aerian Preston |
 | 273 | 203 | Angie Harper |
 | 274 | 202 | Staci George Fitzsimmons |
-| 275 | 200 | glichmod |
-| 276 | 200 | Sharisse Baltimore |
+| 275 | 200 | Sharisse Baltimore |
+| 276 | 200 | glichmod |
 | 277 | 199 | Hyper Matchzone |
 | 278 | 199 | Raven Dudley |
 | 279 | 195 | Nicha Hooker |
@@ -298,8 +298,8 @@
 | 290 | 188 | Loopy Fallmatch |
 | 291 | 186 | Carrie Huskey |
 | 292 | 185 | Danielle Balcom |
-| 293 | 184 | Troy |
-| 294 | 184 | France Vézina |
+| 293 | 184 | France Vézina |
+| 294 | 184 | Troy |
 | 295 | 182 | Melanie Sherwood |
 | 296 | 181 | Nicholas Roddy |
 | 297 | 181 | Denita Mungro |
@@ -314,8 +314,8 @@
 | 306 | 176 | Emma |
 | 307 | 176 | Melissa Orth Hunter |
 | 308 | 175 | Eileen Brady Thurber |
-| 309 | 174 | Betty Rosas |
-| 310 | 174 | fraulila |
+| 309 | 174 | fraulila |
+| 310 | 174 | Betty Rosas |
 | 311 | 174 | Lesley Perez |
 | 312 | 173 | BŘŰŤİÇŨŚ |
 | 313 | 170 | Cesar Barraza |
@@ -368,8 +368,8 @@
 | 360 | 147 | sofaking |
 | 361 | 147 | David Bardo |
 | 362 | 147 | Nicole Summers-Nelson |
-| 363 | 146 | Sara Dunn |
-| 364 | 146 | ROODBOY |
+| 363 | 146 | ROODBOY |
+| 364 | 146 | Sara Dunn |
 | 365 | 146 | Sdot |
 | 366 | 144 | Tenisha Semidey |
 | 367 | 142 | Gray Hicks |
