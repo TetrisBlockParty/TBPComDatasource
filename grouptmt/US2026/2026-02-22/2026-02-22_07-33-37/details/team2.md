@@ -127,8 +127,8 @@
 | 119 | 1257 | Eileen Hale |
 | 120 | 1256 | Bob |
 | 121 | 1252 | Katrina Williams Balmir |
-| 122 | 1248 | Howard Forest |
-| 123 | 1248 | Isabela Shaw |
+| 122 | 1248 | Isabela Shaw |
+| 123 | 1248 | Howard Forest |
 | 124 | 1242 | Altamirano Michael |
 | 125 | 1232 | Groovy Puzzle |
 | 126 | 1226 | Vo'Landa Reels |
@@ -219,8 +219,8 @@
 | 211 | 838 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Nika Bee |
-| 215 | 834 | Rebecca Doughman |
+| 214 | 834 | Rebecca Doughman |
+| 215 | 834 | Nika Bee |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Ashle Scranton |
-| 295 | 663 | Mandi Douglas Hilt |
+| 294 | 663 | Mandi Douglas Hilt |
+| 295 | 663 | Ashle Scranton |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 658 | Erica Williams |
 | 298 | 653 | goofinoff |
@@ -317,8 +317,8 @@
 | 309 | 635 | Diana Fitzwater |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Victoria Moore-Smith |
-| 313 | 627 | Allan Wayne Lamia |
+| 312 | 627 | Allan Wayne Lamia |
+| 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | tejas25 |
@@ -341,8 +341,8 @@
 | 333 | 582 | Gary Stash |
 | 334 | 581 | Jerry Tempelmeyer |
 | 335 | 579 | AgileDragon |
-| 336 | 579 | Roy Salyer |
-| 337 | 579 | Juliana Marques Do Nascimento Gordy |
+| 336 | 579 | Juliana Marques Do Nascimento Gordy |
+| 337 | 579 | Roy Salyer |
 | 338 | 576 | Leslie Johnson Guinto |
 | 339 | 573 | Carl Bradshaw |
 | 340 | 572 | Chris Wanner |
@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Santana Miyagi |
-| 347 | 554 | Rachael Senard |
+| 346 | 554 | Rachael Senard |
+| 347 | 554 | Santana Miyagi |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -474,8 +474,8 @@
 | 466 | 436 | Brenda Pierpoint |
 | 467 | 435 | Regina Young |
 | 468 | 435 | James Louie |
-| 469 | 433 | KayLynn Ogden McClelland |
-| 470 | 433 | Rhonda Milstead |
+| 469 | 433 | Rhonda Milstead |
+| 470 | 433 | KayLynn Ogden McClelland |
 | 471 | 432 | Lucy Marshall |
 | 472 | 430 | Jackie Lucas |
 | 473 | 430 | Gloria Ininahazwe |
@@ -494,8 +494,8 @@
 | 486 | 423 | Sam |
 | 487 | 422 | coleksquad |
 | 488 | 422 | Bri Lynn |
-| 489 | 421 | SwampRebel |
-| 490 | 421 | Vonceial Boone |
+| 489 | 421 | Vonceial Boone |
+| 490 | 421 | SwampRebel |
 | 491 | 421 | Vanessa Moreno |
 | 492 | 420 | snkylnk |
 | 493 | 419 | Pocho Zavala |
@@ -517,11 +517,11 @@
 | 509 | 406 | Kimberly Ann |
 | 510 | 406 | Erin StFrancis |
 | 511 | 404 | Snappy snappers |
-| 512 | 404 | Dawn L Washington-Feuquay |
-| 513 | 404 | Goofy Catcher |
+| 512 | 404 | Goofy Catcher |
+| 513 | 404 | Dawn L Washington-Feuquay |
 | 514 | 403 | Goofy Dasher |
-| 515 | 401 | Moua Ying |
-| 516 | 401 | Mighty Spinbuilder |
+| 515 | 401 | Mighty Spinbuilder |
+| 516 | 401 | Moua Ying |
 | 517 | 401 | Lee Harper |
 | 518 | 401 | Taylor Flowers |
 | 519 | 401 | De Hawkins |
@@ -561,15 +561,15 @@
 | 553 | 384 | Party d |
 | 554 | 384 | Kelly |
 | 555 | 383 | Belle Mari |
-| 556 | 382 | KhaosLord |
-| 557 | 382 | David Holliday |
+| 556 | 382 | David Holliday |
+| 557 | 382 | KhaosLord |
 | 558 | 381 | Melissa Rebbe-Lehman |
 | 559 | 381 | Nicky Jackson |
 | 560 | 381 | Happy Caster |
 | 561 | 379 | Mary Marie |
 | 562 | 379 | Cini |
-| 563 | 378 | Tina Marie |
-| 564 | 378 | TF Dyer |
+| 563 | 378 | TF Dyer |
+| 564 | 378 | Tina Marie |
 | 565 | 377 | Josh Dill |
 | 566 | 377 | Jason H Baker |
 | 567 | 376 | James Zaragoza |

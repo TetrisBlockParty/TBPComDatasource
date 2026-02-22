@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -220,8 +220,8 @@
 | 212 | 283 | Cheeky Snapper |
 | 213 | 281 | Valerie Gendron |
 | 214 | 278 | Rufus Lincoln |
-| 215 | 277 | Charles Perrone |
-| 216 | 277 | Keis |
+| 215 | 277 | Keis |
+| 216 | 277 | Charles Perrone |
 | 217 | 276 | _melisa223_ |
 | 218 | 276 | Crimson |
 | 219 | 275 | Cassandra Bryant |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | Troy |
-| 307 | 184 | France Vézina |
+| 306 | 184 | France Vézina |
+| 307 | 184 | Troy |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -390,9 +390,9 @@
 | 382 | 144 | Tenisha Semidey |
 | 383 | 144 | Blair Erin Waite |
 | 384 | 142 | Gray Hicks |
-| 385 | 142 | Jl |
+| 385 | 142 | Joy Petroski |
 | 386 | 142 | Erica Anderson |
-| 387 | 142 | Joy Petroski |
+| 387 | 142 | Jl |
 | 388 | 141 | Melissa Snyder |
 | 389 | 141 | Weerae |
 | 390 | 140 | Jumpy Curvebuilder |
@@ -403,8 +403,8 @@
 | 395 | 139 | Beppy |
 | 396 | 139 | Betty Bóò |
 | 397 | 139 | Paula Little |
-| 398 | 138 | Bleu Sun Beams |
-| 399 | 138 | Skinny Baldez |
+| 398 | 138 | Skinny Baldez |
+| 399 | 138 | Bleu Sun Beams |
 | 400 | 137 | Giggly Brickroll |
 | 401 | 137 | Reina Roth |
 | 402 | 137 | Arden White Kirsch |
@@ -631,9 +631,9 @@
 | 623 | 89 | Kristen McAlpine |
 | 624 | 89 | Matty Ray |
 | 625 | 89 | Frothy Racker |
-| 626 | 88 | Dapper Dashpiece |
-| 627 | 88 | Amy Montz |
-| 628 | 88 | Happy Buildsnap |
+| 626 | 88 | Amy Montz |
+| 627 | 88 | Dapper Dashpiece |
+| 628 | 88 | Sherry DeLong |
 | 629 | 88 | Spunky Racker |
 | 630 | 88 | JessDrown |
 | 631 | 88 | demon14 |

@@ -340,9 +340,9 @@
 | 332 | 109 | Ariel Whittington |
 | 333 | 109 | Funky Piecebuilder |
 | 334 | 109 | Nicolette Ivory Chastain |
-| 335 | 108 | Owicked1 |
-| 336 | 108 | Meechie |
-| 337 | 108 | Teddy Alexander |
+| 335 | 108 | Meechie |
+| 336 | 108 | Teddy Alexander |
+| 337 | 108 | Owicked1 |
 | 338 | 108 | Nathan Sealander |
 | 339 | 107 | sent2bless34 |
 | 340 | 107 | MIKOZ |

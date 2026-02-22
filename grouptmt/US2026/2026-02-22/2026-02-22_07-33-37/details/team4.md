@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Erin Thomas |
-| 78 | 447 | Samantha Peterson |
+| 77 | 447 | Samantha Peterson |
+| 78 | 447 | Erin Thomas |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -104,8 +104,8 @@
 | 96 | 370 | Leslie Thomas |
 | 97 | 369 | Nope Young |
 | 98 | 358 | Nugget |
-| 99 | 352 | Monica Daley |
-| 100 | 352 | Zippy Gridlock |
+| 99 | 352 | Zippy Gridlock |
+| 100 | 352 | Monica Daley |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 334 | Amelpss |
@@ -150,8 +150,8 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Cursed Hag |
-| 146 | 230 | Autum Leigh |
+| 145 | 230 | Autum Leigh |
+| 146 | 230 | Cursed Hag |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Swanky Fitline |
 | 149 | 227 | Chris Bernstein |
@@ -196,23 +196,23 @@
 | 188 | 189 | Calvin Dennis |
 | 189 | 188 | Andria Lynn |
 | 190 | 186 | Holly |
-| 191 | 185 | Andy Cabral |
-| 192 | 185 | Lori |
+| 191 | 185 | Lori |
+| 192 | 185 | Andy Cabral |
 | 193 | 184 | Ak Jones |
 | 194 | 181 | Alan George LaRage |
 | 195 | 181 | Carter Jones |
-| 196 | 180 | Orchislactea |
-| 197 | 180 | Rafael Valentin |
+| 196 | 180 | Rafael Valentin |
+| 197 | 180 | Orchislactea |
 | 198 | 179 | blockstar |
 | 199 | 175 | TinyLegoRose |
-| 200 | 174 | Dihcheese444 |
-| 201 | 174 | Rio Rocha |
+| 200 | 174 | Rio Rocha |
+| 201 | 174 | Dihcheese444 |
 | 202 | 172 | Gilles Lanctot |
 | 203 | 171 | Autumn Kumzi |
 | 204 | 167 | Cozy Balancer |
 | 205 | 166 | SammieJo Guy |
-| 206 | 165 | Jackie Marie |
-| 207 | 165 | James Hurley Jr. |
+| 206 | 165 | James Hurley Jr. |
+| 207 | 165 | Jackie Marie |
 | 208 | 164 | 030Synner |
 | 209 | 163 | Kristina Black |
 | 210 | 162 | Joanna |
