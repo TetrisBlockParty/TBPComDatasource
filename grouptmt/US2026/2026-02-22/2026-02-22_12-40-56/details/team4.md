@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -190,8 +190,8 @@
 | 182 | 209 | Rafael Valentin |
 | 183 | 207 | Chirpy Basepiece |
 | 184 | 205 | Kathy Brookins |
-| 185 | 204 | Carlos Ramirez |
-| 186 | 204 | Jen Caldwell |
+| 185 | 204 | Jen Caldwell |
+| 186 | 204 | Carlos Ramirez |
 | 187 | 203 | Katherine Crane |
 | 188 | 202 | Patron Anderson |
 | 189 | 202 | TRCuse |
@@ -301,8 +301,8 @@
 | 293 | 140 | Guy Incognito |
 | 294 | 140 | Cristy Duerksen |
 | 295 | 139 | Lori Goudy |
-| 296 | 139 | O block |
-| 297 | 139 | ChasingZen |
+| 296 | 139 | ChasingZen |
+| 297 | 139 | O block |
 | 298 | 139 | Jose Dejesus |
 | 299 | 138 | Jasmine S Caldwell |
 | 300 | 138 | Nick Gray |

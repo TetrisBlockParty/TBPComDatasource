@@ -604,8 +604,8 @@
 | 596 | 387 | Bold Brickster |
 | 597 | 385 | Tansaria Couch-Butler |
 | 598 | 384 | Mary Marie |
-| 599 | 384 | Party d |
-| 600 | 384 | Kelly |
+| 599 | 384 | Kelly |
+| 600 | 384 | Party d |
 | 601 | 383 | Jessica Conaway |
 | 602 | 383 | Smashanator |
 | 603 | 383 | Belle Mari |
@@ -712,15 +712,15 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Dale Haanpaa |
-| 708 | 324 | Tasia Stinson |
+| 707 | 324 | Tasia Stinson |
+| 708 | 324 | Dale Haanpaa |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
 | 712 | 322 | Christina Jarvis-Swarbrick |
 | 713 | 321 | Samantha Scibelli |
-| 714 | 321 | Ashley Criner |
-| 715 | 321 | Tamara Bailey |
+| 714 | 321 | Tamara Bailey |
+| 715 | 321 | Ashley Criner |
 | 716 | 320 | Tash Bell |
 | 717 | 320 | Mary Boss |
 | 718 | 320 | Joel Rosado |
@@ -763,8 +763,8 @@
 | 755 | 304 | Melissa McCall |
 | 756 | 304 | NFLPITMOM |
 | 757 | 303 | Angie Marie |
-| 758 | 303 | Devin |
-| 759 | 303 | Amanda Schaffer |
+| 758 | 303 | Amanda Schaffer |
+| 759 | 303 | Devin |
 | 760 | 302 | Kena T. Tanner |
 | 761 | 302 | Maxwell Escalera |
 | 762 | 300 | Alice Ball |
@@ -864,8 +864,8 @@
 | 856 | 270 | BK Queen |
 | 857 | 270 | Nat |
 | 858 | 268 | Donald Nowland |
-| 859 | 267 | Candace Cece Joseph |
-| 860 | 267 | Denisse Avilez |
+| 859 | 267 | Denisse Avilez |
+| 860 | 267 | Candace Cece Joseph |
 | 861 | 267 | Dad |
 | 862 | 267 | Sanaa Nounoussa |
 | 863 | 266 | Man of Steel |

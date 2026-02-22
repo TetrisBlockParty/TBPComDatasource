@@ -177,8 +177,8 @@
 | 169 | 376 | Loopy Clusterer |
 | 170 | 374 | Sherry Ogden |
 | 171 | 371 | Michael Nowogorski |
-| 172 | 370 | Santeria Trece Candles |
-| 173 | 370 | Danielle Allison |
+| 172 | 370 | Danielle Allison |
+| 173 | 370 | Santeria Trece Candles |
 | 174 | 368 | Stephanie Woods |
 | 175 | 366 | Adrian Marcel Pate |
 | 176 | 365 | Leah Barnett |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
@@ -271,11 +271,11 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Cozy Snaplink |
-| 267 | 235 | Brenda Schmid Wood |
+| 266 | 235 | Brenda Schmid Wood |
+| 267 | 235 | Cozy Snaplink |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Josh Borquez |
-| 270 | 233 | Ray Lader |
+| 269 | 233 | Ray Lader |
+| 270 | 233 | Josh Borquez |
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
@@ -290,8 +290,8 @@
 | 282 | 220 | Tosha Griffey |
 | 283 | 220 | rosy |
 | 284 | 218 | Michael Lucado |
-| 285 | 216 | Twisty Brick LT |
-| 286 | 216 | Cheryl Hinch Tenbrook |
+| 285 | 216 | Cheryl Hinch Tenbrook |
+| 286 | 216 | Twisty Brick LT |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
 | 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Angela Scott |
@@ -327,8 +327,8 @@
 | 319 | 199 | Kristian Thurman |
 | 320 | 198 | Goofy Fall |
 | 321 | 195 | Nicha Hooker |
-| 322 | 193 | Lys |
-| 323 | 193 | Clever Shiftsnap |
+| 322 | 193 | Clever Shiftsnap |
+| 323 | 193 | Lys |
 | 324 | 192 | Ryan Williams |
 | 325 | 192 | Kelly Ann Child |
 | 326 | 192 | Melanie Sherwood |
@@ -336,8 +336,8 @@
 | 328 | 191 | Philip Rock |
 | 329 | 189 | France Vézina |
 | 330 | 189 | Katie Leigh Blankenship |
-| 331 | 188 | Romeo |
-| 332 | 188 | Loopy Fallmatch |
+| 331 | 188 | Loopy Fallmatch |
+| 332 | 188 | Romeo |
 | 333 | 186 | Noettín Kan Zasnemoore |
 | 334 | 186 | Bryan Byrd |
 | 335 | 186 | Sameerah Smith |
@@ -346,8 +346,8 @@
 | 338 | 184 | Troy |
 | 339 | 183 | Salena Whitlock |
 | 340 | 183 | Cesar Barraza |
-| 341 | 181 | Michael Johnson |
-| 342 | 181 | Denita Mungro |
+| 341 | 181 | Denita Mungro |
+| 342 | 181 | Michael Johnson |
 | 343 | 180 | Beth Ingham |
 | 344 | 179 | Rachel Napper |
 | 345 | 179 | April Matthew Kibble |
@@ -485,9 +485,9 @@
 | 477 | 126 | Spicy Caster |
 | 478 | 126 | Crystal Martin |
 | 479 | 125 | Shimika Enay Wallace |
-| 480 | 125 | Jul |
-| 481 | 125 | Felicia Doxey |
-| 482 | 125 | BugMansMom |
+| 480 | 125 | BugMansMom |
+| 481 | 125 | Jul |
+| 482 | 125 | Felicia Doxey |
 | 483 | 124 | xsiv |
 | 484 | 124 | victory |
 | 485 | 123 | Randy Clevenger |

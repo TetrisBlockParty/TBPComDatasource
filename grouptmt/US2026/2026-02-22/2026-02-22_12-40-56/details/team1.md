@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -146,8 +146,8 @@
 | 138 | 282 | Cool Shiftsnap |
 | 139 | 282 | Timothy Dew |
 | 140 | 276 | Dandy Basegrid |
-| 141 | 270 | Ash Galvan |
-| 142 | 270 | Mandyy Rae |
+| 141 | 270 | Mandyy Rae |
+| 142 | 270 | Ash Galvan |
 | 143 | 268 | GATOR |
 | 144 | 265 | Nutty Spinblock |
 | 145 | 265 | SkipTheSadSauce |
@@ -181,11 +181,11 @@
 | 173 | 226 | Kandae |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,8 +197,8 @@
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Constance Risner |
 | 196 | 203 | LaFontaine Leslie |
@@ -235,9 +235,9 @@
 | 227 | 183 | Andrew Boone |
 | 228 | 183 | Amy Hess |
 | 229 | 182 | Phu ckalldems |
-| 230 | 180 | BigWeenie69 |
+| 230 | 180 | Jessie Lynn |
 | 231 | 180 | Beau Galvan |
-| 232 | 180 | Jessie Lynn |
+| 232 | 180 | BigWeenie69 |
 | 233 | 179 | Danielle Little-Daugherty |
 | 234 | 179 | Erin Rosberg |
 | 235 | 179 | femmefatale |
@@ -339,8 +339,8 @@
 | 331 | 126 | Tyler Hertzog |
 | 332 | 125 | Angela Spann |
 | 333 | 125 | Matt Iaccheo |
-| 334 | 124 | DoodleBug |
-| 335 | 124 | Rodney Schmerfeld |
+| 334 | 124 | Rodney Schmerfeld |
+| 335 | 124 | DoodleBug |
 | 336 | 124 | Mario Cab |
 | 337 | 123 | Tonya Beasley |
 | 338 | 122 | Nate Funk |
