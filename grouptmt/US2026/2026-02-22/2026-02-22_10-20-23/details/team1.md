@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -104,8 +104,8 @@
 | 96 | 368 | Tdub |
 | 97 | 362 | Plucky Ziggy |
 | 98 | 359 | Chirpy Smasher |
-| 99 | 355 | Hasbro Bros |
-| 100 | 355 | Shauna Loe |
+| 99 | 355 | Shauna Loe |
+| 100 | 355 | Hasbro Bros |
 | 101 | 350 | Tipsy Strikerpiece |
 | 102 | 349 | Dee Perry |
 | 103 | 347 | pjbeta |
@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -180,8 +180,8 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Letson Melissa |
-| 176 | 210 | Giggly Builderline |
+| 175 | 210 | Giggly Builderline |
+| 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Bouncy Grid |
 | 179 | 208 | Donna Addison Williams |
@@ -230,7 +230,7 @@
 | 222 | 180 | Jessie Lynn |
 | 223 | 179 | Danielle Little-Daugherty |
 | 224 | 179 | femmefatale |
-| 225 | 179 | Danielle Little-Daugherty |
+| 225 | 179 | Erin Rosberg |
 | 226 | 178 | Chad Atchley |
 | 227 | 177 | Jacqueline Unique |
 | 228 | 177 | Perky Shiftsnap |
@@ -400,8 +400,8 @@
 | 392 | 99 | Brandy Ann |
 | 393 | 98 | Alfredo Vasquez |
 | 394 | 98 | Kirk Torrey |
-| 395 | 97 | Steve Bomkamp |
-| 396 | 97 | Edgar Algiere |
+| 395 | 97 | Edgar Algiere |
+| 396 | 97 | Steve Bomkamp |
 | 397 | 96 | Lisa Marie |
 | 398 | 95 | Jay Tressler |
 | 399 | 95 | Quirky Pusher |
