@@ -72,8 +72,8 @@
 | 64 | 675 | D3TROITB0RN74 |
 | 65 | 671 | Kimyatta Cavin |
 | 66 | 667 | Chilly Line |
-| 67 | 664 | Valerie Roberts |
-| 68 | 664 | loulou |
+| 67 | 664 | loulou |
+| 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | Shauna Havard |
 | 71 | 647 | KM8 |
@@ -114,8 +114,8 @@
 | 106 | 441 | Chastity Mitchell |
 | 107 | 440 | Lori Walker |
 | 108 | 435 | Leslie Thomas |
-| 109 | 427 | Jolly Dashfit |
-| 110 | 427 | KJ Pool |
+| 109 | 427 | KJ Pool |
+| 110 | 427 | Jolly Dashfit |
 | 111 | 426 | Ren Mc |
 | 112 | 423 | Jenna Ingersoll |
 | 113 | 422 | shar |
@@ -164,8 +164,8 @@
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
-| 159 | 290 | 🥔🥔 Spudz |
-| 160 | 290 | Damn Libra |
+| 159 | 290 | Damn Libra |
+| 160 | 290 | 🥔🥔 Spudz |
 | 161 | 290 | Keshia Lyons |
 | 162 | 290 | Chaz Duncan |
 | 163 | 290 | Alyssa Papen |
@@ -218,8 +218,8 @@
 | 210 | 237 | Jen Caldwell |
 | 211 | 236 | Swanky Fitline |
 | 212 | 235 | Chris Hartig |
-| 213 | 233 | April Rondinone |
-| 214 | 233 | Ruben Wheeler |
+| 213 | 233 | Ruben Wheeler |
+| 214 | 233 | April Rondinone |
 | 215 | 230 | blockstar |
 | 216 | 228 | Antony Dwayne Beasley |
 | 217 | 227 | Kim Hunt |
@@ -262,8 +262,8 @@
 | 254 | 198 | Calvin Dennis |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
-| 257 | 195 | Snippy Puzzle |
-| 258 | 195 | 中山成巳 |
+| 257 | 195 | 中山成巳 |
+| 258 | 195 | Snippy Puzzle |
 | 259 | 194 | Zany Twisterfit |
 | 260 | 192 | Stephme310 |
 | 261 | 192 | Andrew Dang |
@@ -277,8 +277,8 @@
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
 | 271 | 182 | TinyLegoRose |
-| 272 | 181 | Carter Jones |
-| 273 | 181 | Jackie Marie |
+| 272 | 181 | Jackie Marie |
+| 273 | 181 | Carter Jones |
 | 274 | 180 | Cozy Balancer |
 | 275 | 179 | AyeKay |
 | 276 | 179 | Jade Rian |

@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -329,11 +329,11 @@
 | 321 | 751 | Loony Snapper |
 | 322 | 750 | Jackie Lucas |
 | 323 | 746 | Jerilyn Andrina |
-| 324 | 743 | Melissa Cole |
-| 325 | 743 | Tiara Elizabeth Baker |
+| 324 | 743 | Tiara Elizabeth Baker |
+| 325 | 743 | Melissa Cole |
 | 326 | 743 | Kathryn Townsley |
-| 327 | 740 | Cheech Dta |
-| 328 | 740 | Jerry Tempelmeyer |
+| 327 | 740 | Jerry Tempelmeyer |
+| 328 | 740 | Cheech Dta |
 | 329 | 737 | Ginger |
 | 330 | 737 | Jeremy Parodi |
 | 331 | 735 | Kiely Tomaskovich |
@@ -408,8 +408,8 @@
 | 400 | 627 | Victoria Moore-Smith |
 | 401 | 626 | Steven Marshaun |
 | 402 | 626 | Demeka Dangerous-kisses Johnson |
-| 403 | 620 | Brandon Armstrong |
-| 404 | 620 | Traci Johnson |
+| 403 | 620 | Traci Johnson |
+| 404 | 620 | Brandon Armstrong |
 | 405 | 619 | Melissa Penelope Ann Dodge |
 | 406 | 617 | Darcy Mae |
 | 407 | 617 | Nicole Cannon |
@@ -446,8 +446,8 @@
 | 438 | 573 | Vanessa Moreno |
 | 439 | 572 | Chris Wanner |
 | 440 | 571 | Emily Lyric Converse |
-| 441 | 569 | Dapper Dasher |
-| 442 | 569 | Sparkles |
+| 441 | 569 | Sparkles |
+| 442 | 569 | Dapper Dasher |
 | 443 | 569 | Vaniel Glover |
 | 444 | 567 | Michelle Fields |
 | 445 | 567 | Irene Jones |

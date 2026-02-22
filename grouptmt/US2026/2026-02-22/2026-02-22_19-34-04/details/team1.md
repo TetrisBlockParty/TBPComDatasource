@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -130,8 +130,8 @@
 | 122 | 366 | David Miller |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
-| 125 | 360 | Wisa |
-| 126 | 360 | phrmblk24 |
+| 125 | 360 | phrmblk24 |
+| 126 | 360 | Wisa |
 | 127 | 359 | Chirpy Smasher |
 | 128 | 358 | Sweet Baker |
 | 129 | 357 | Amanda Johnson Huffman |
@@ -171,8 +171,8 @@
 | 163 | 293 | Sarah Roberts |
 | 164 | 292 | David Lutcher |
 | 165 | 285 | ALFD |
-| 166 | 284 | Emily Adelaide Wheatley |
-| 167 | 284 | Rachael |
+| 166 | 284 | Rachael |
+| 167 | 284 | Emily Adelaide Wheatley |
 | 168 | 283 | Franswa |
 | 169 | 282 | Snippy Wipebuilder |
 | 170 | 282 | Sassy Builderline |
@@ -287,9 +287,9 @@
 | 279 | 191 | John Garza |
 | 280 | 191 | Steph |
 | 281 | 190 | Sweetts |
-| 282 | 189 | Katie Martin |
+| 282 | 189 | Bird Person |
 | 283 | 189 | Tawnya Peltonen |
-| 284 | 189 | Bird Person |
+| 284 | 189 | Katie Martin |
 | 285 | 188 | Brave Wrecker |
 | 286 | 187 | GringaLinga |
 | 287 | 187 | Jessica Weed |
