@@ -170,20 +170,20 @@
 | 162 | 260 | Ty Brown |
 | 163 | 257 | Amanda Jarnagin |
 | 164 | 254 | Al Smith Jr |
-| 165 | 253 | Witty Builderfit |
-| 166 | 253 | Jamie Jury |
+| 165 | 253 | Jamie Jury |
+| 166 | 253 | Witty Builderfit |
 | 167 | 252 | Dena Kayy |
 | 168 | 246 | Mike Ames |
 | 169 | 246 | Lakeisha Chapman |
-| 170 | 244 | Eddie Dillon |
-| 171 | 244 | Marianita Garcia |
+| 170 | 244 | Marianita Garcia |
+| 171 | 244 | Eddie Dillon |
 | 172 | 243 | Trippy Redd |
 | 173 | 242 | ALFD |
 | 174 | 241 | John J. Cronin |
 | 175 | 239 | Sam Williams |
 | 176 | 237 | Kimberly Garcia |
-| 177 | 235 | Desiree Deschaine Havee |
-| 178 | 235 | MRdot Rooski |
+| 177 | 235 | MRdot Rooski |
+| 178 | 235 | Desiree Deschaine Havee |
 | 179 | 234 | Paula Martin |
 | 180 | 232 | femmefatale |
 | 181 | 231 | Amanda Johnson Huffman |
@@ -220,8 +220,8 @@
 | 212 | 204 | Lacy Wolfe |
 | 213 | 202 | Amanda Holibaugh |
 | 214 | 201 | Colleen Wise |
-| 215 | 200 | Flashy Rotator |
-| 216 | 200 | Breanna Luna |
+| 215 | 200 | Breanna Luna |
+| 216 | 200 | Flashy Rotator |
 | 217 | 199 | Alenoush Karimian |
 | 218 | 198 | Happy Snapbuild |
 | 219 | 198 | Shiny Gridmatch |
@@ -283,8 +283,8 @@
 | 275 | 169 | Abbey Crespo |
 | 276 | 168 | Angela Fairbank |
 | 277 | 166 | Carrie Smith |
-| 278 | 165 | Nadine Velardo |
-| 279 | 165 | Silly Align |
+| 278 | 165 | Silly Align |
+| 279 | 165 | Nadine Velardo |
 | 280 | 164 | Poppy Riserpiece |
 | 281 | 163 | Blaire Bruckoff |
 | 282 | 163 | Davery Spencer Adair |
@@ -331,10 +331,10 @@
 | 323 | 141 | Ashley Adams |
 | 324 | 141 | Наталья Солоид |
 | 325 | 139 | Aimee Horton |
-| 326 | 138 | Ruthie Mahoney Saunders-Browne |
-| 327 | 138 | Lynn Adams |
-| 328 | 138 | Giddy Cascade |
-| 329 | 138 | Hector Cruz |
+| 326 | 138 | Giddy Cascade |
+| 327 | 138 | Hector Cruz |
+| 328 | 138 | Ruthie Mahoney Saunders-Browne |
+| 329 | 138 | Lynn Adams |
 | 330 | 137 | Gina Bettikofer |
 | 331 | 136 | Jennifer Chilton-Metlock |
 | 332 | 135 | Mrs.Patrica |

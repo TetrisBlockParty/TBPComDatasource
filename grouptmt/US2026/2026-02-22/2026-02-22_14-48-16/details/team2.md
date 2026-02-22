@@ -110,8 +110,8 @@
 | 102 | 1535 | Donnie Hunt |
 | 103 | 1534 | Loopy Clusterbuilder |
 | 104 | 1534 | Laura Marie Pelletier |
-| 105 | 1516 | Mindy Leigh Head |
-| 106 | 1516 | Stephen Stephen |
+| 105 | 1516 | Stephen Stephen |
+| 106 | 1516 | Mindy Leigh Head |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -378,8 +378,8 @@
 | 370 | 602 | Biggest thing |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
-| 373 | 589 | Shavonna Haynes |
-| 374 | 589 | Thomas Hedrick |
+| 373 | 589 | Thomas Hedrick |
+| 374 | 589 | Shavonna Haynes |
 | 375 | 586 | Heather Schelkopf |
 | 376 | 585 | Taryece Gause |
 | 377 | 584 | Kimberly Randesi |

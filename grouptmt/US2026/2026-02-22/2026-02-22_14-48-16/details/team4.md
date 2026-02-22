@@ -61,8 +61,8 @@
 | 53 | 704 | Crystal Carroll |
 | 54 | 698 | Anthony Bryan Riva |
 | 55 | 697 | Edward White |
-| 56 | 664 | D3TROITB0RN74 |
-| 57 | 664 | Valerie Roberts |
+| 56 | 664 | Valerie Roberts |
+| 57 | 664 | D3TROITB0RN74 |
 | 58 | 659 | Jonathan Kimbrough |
 | 59 | 658 | loulou |
 | 60 | 654 | Chilly Line |
@@ -127,8 +127,8 @@
 | 119 | 351 | Serena Goodridge |
 | 120 | 344 | Livvy |
 | 121 | 343 | Latisha Davis |
-| 122 | 332 | HastyGrabber |
-| 123 | 332 | Desi Desporte |
+| 122 | 332 | Desi Desporte |
+| 123 | 332 | HastyGrabber |
 | 124 | 331 | ThaEviLJeNiuZ |
 | 125 | 329 | Amanda Pauldo-Ivy |
 | 126 | 328 | Leslie Nicole |
@@ -202,7 +202,7 @@
 | 194 | 212 | Joanna |
 | 195 | 211 | Jenna McGeorge |
 | 196 | 210 | Austin Owens |
-| 197 | 209 | Sam Bishop |
+| 197 | 209 | Rafael Valentin |
 | 198 | 209 | Lindsey Gonzalez |
 | 199 | 209 | Sam Bishop |
 | 200 | 208 | Stacey Stano |
@@ -252,8 +252,8 @@
 | 244 | 179 | Christina Black |
 | 245 | 175 | Lorena Guerrero-Barron |
 | 246 | 174 | AyeKay |
-| 247 | 171 | June Hoffman |
-| 248 | 171 | Autumn Kumzi |
+| 247 | 171 | Autumn Kumzi |
+| 248 | 171 | June Hoffman |
 | 249 | 168 | 23 |
 | 250 | 167 | Cozy Balancer |
 | 251 | 166 | Jenny Wells-Oakley |
@@ -387,7 +387,7 @@
 | 379 | 116 | Funky Risepiece |
 | 380 | 115 | Kevin Bush |
 | 381 | 115 | Alexandra Karavias |
-| 382 | 115 | Kevin Bush |
+| 382 | 115 | Meg |
 | 383 | 115 | Jayk |
 | 384 | 114 | Jason Frehner |
 | 385 | 114 | Rosemary Foster |

@@ -160,8 +160,8 @@
 | 152 | 430 | Joye Sims Binion |
 | 153 | 427 | Wendy Dearden |
 | 154 | 415 | ren |
-| 155 | 413 | Michael Nowogorski |
-| 156 | 413 | Rachel |
+| 155 | 413 | Rachel |
+| 156 | 413 | Michael Nowogorski |
 | 157 | 411 | FuzzyNavel |
 | 158 | 410 | Stephanie Simpson |
 | 159 | 407 | Edwin Calvillo Jr. |
@@ -195,16 +195,16 @@
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Stephanie Burtin |
-| 191 | 357 | Tom Nault |
+| 190 | 357 | Tom Nault |
+| 191 | 357 | Stephanie Burtin |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
 | 195 | 343 | Tamara Deherrera |
 | 196 | 343 | Ashley Raines |
 | 197 | 341 | Samantha Lynn |
-| 198 | 341 | Araceli Parra |
-| 199 | 341 | Noyb Adam |
+| 198 | 341 | Noyb Adam |
+| 199 | 341 | Araceli Parra |
 | 200 | 338 | Gumbo |
 | 201 | 332 | Valerie Gendron |
 | 202 | 332 | Rich LeBlanc |
@@ -496,8 +496,8 @@
 | 488 | 133 | Jumpy Wrecker |
 | 489 | 133 | Chummy Rumbler |
 | 490 | 132 | Andrew Thorson |
-| 491 | 131 | Erin Ervin |
-| 492 | 131 | Jolly Dashpiece |
+| 491 | 131 | Jolly Dashpiece |
+| 492 | 131 | Erin Ervin |
 | 493 | 130 | Alexi Pryor |
 | 494 | 130 | Jul |
 | 495 | 129 | Juliana Dottore |
