@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Santana Miyagi |
-| 347 | 554 | Rachael Senard |
+| 346 | 554 | Rachael Senard |
+| 347 | 554 | Santana Miyagi |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |

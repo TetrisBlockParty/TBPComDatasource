@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Erin Thomas |
-| 78 | 447 | Samantha Peterson |
+| 77 | 447 | Samantha Peterson |
+| 78 | 447 | Erin Thomas |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -196,8 +196,8 @@
 | 188 | 189 | Calvin Dennis |
 | 189 | 188 | Andria Lynn |
 | 190 | 186 | Holly |
-| 191 | 185 | Andy Cabral |
-| 192 | 185 | Lori |
+| 191 | 185 | Lori |
+| 192 | 185 | Andy Cabral |
 | 193 | 184 | Ak Jones |
 | 194 | 181 | Alan George LaRage |
 | 195 | 181 | Carter Jones |

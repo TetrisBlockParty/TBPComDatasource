@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -275,10 +275,10 @@
 | 267 | 218 | Michael Lucado |
 | 268 | 216 | Cheryl Hinch Tenbrook |
 | 269 | 215 | IamJust Neyamijah Washington Sr. |
-| 270 | 214 | Rebel124 |
-| 271 | 214 | Angela Scott |
-| 272 | 214 | Amy Fuller Heaton |
-| 273 | 214 | Twisty Brick LT |
+| 270 | 214 | Amy Fuller Heaton |
+| 271 | 214 | Twisty Brick LT |
+| 272 | 214 | Angela Scott |
+| 273 | 214 | Rebel124 |
 | 274 | 212 | Desiree Gold |
 | 275 | 212 | Sunny Rotater |
 | 276 | 211 | Velma Mull |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | Troy |
-| 307 | 184 | France Vézina |
+| 306 | 184 | France Vézina |
+| 307 | 184 | Troy |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -335,8 +335,8 @@
 | 327 | 169 | Peachy Rollfit |
 | 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | Trice Thomas |
-| 331 | 168 | April Matthew Kibble |
+| 330 | 168 | April Matthew Kibble |
+| 331 | 168 | Trice Thomas |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Romeo |
 | 334 | 167 | Irene Arreguin |
@@ -370,8 +370,8 @@
 | 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
-| 365 | 152 | Shiny Zonebuilder |
-| 366 | 152 | Eric Caccavale |
+| 365 | 152 | Eric Caccavale |
+| 366 | 152 | Shiny Zonebuilder |
 | 367 | 151 | Sarah Cowan Burgos |
 | 368 | 149 | Alexis Taylor |
 | 369 | 148 | Pam Holt Powell |
@@ -531,14 +531,14 @@
 | 523 | 105 | Emi |
 | 524 | 105 | Amy Wheeler |
 | 525 | 105 | Zac Hudak |
-| 526 | 104 | Jessica Rose-Morgan |
-| 527 | 104 | bean |
+| 526 | 104 | bean |
+| 527 | 104 | Jessica Rose-Morgan |
 | 528 | 104 | Johnathan Dowe |
 | 529 | 104 | Jana Fagg |
 | 530 | 103 | Snappy Balancer |
-| 531 | 103 | Heather Bateman |
+| 531 | 103 | Melissa Parlow-Callaway |
 | 532 | 103 | Breanna Marsden |
-| 533 | 103 | Melissa Parlow-Callaway |
+| 533 | 103 | Heather Bateman |
 | 534 | 103 | Lisa Lisa |
 | 535 | 102 | Rima Mackelburger |
 | 536 | 102 | Giggly Hitter |

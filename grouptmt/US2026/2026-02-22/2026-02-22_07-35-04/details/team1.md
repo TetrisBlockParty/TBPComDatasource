@@ -244,13 +244,13 @@
 | 236 | 160 | Tedashi |
 | 237 | 158 | Alenoush Karimian |
 | 238 | 158 | Sarah Marie |
-| 239 | 156 | Erin Rosberg |
-| 240 | 156 | Mark Smith |
+| 239 | 156 | Mark Smith |
+| 240 | 156 | Erin Rosberg |
 | 241 | 155 | Barry Mac'Ockner |
-| 242 | 154 | Melissa Lemmon |
-| 243 | 154 | Gary Gobin |
-| 244 | 153 | Dino |
-| 245 | 153 | Tami Luce Martin |
+| 242 | 154 | Gary Gobin |
+| 243 | 154 | Melissa Lemmon |
+| 244 | 153 | Tami Luce Martin |
+| 245 | 153 | Dino |
 | 246 | 153 | Desiree Deschaine Havee |
 | 247 | 152 | Brave Wrecker |
 | 248 | 152 | Strig |
