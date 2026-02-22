@@ -77,21 +77,21 @@
 | 69 | 353 | Trina Gee |
 | 70 | 348 | Stef Hu |
 | 71 | 347 | pjbeta |
-| 72 | 338 | Stephanie Zahn |
-| 73 | 338 | Tipsy Strikerpiece |
+| 72 | 338 | Tipsy Strikerpiece |
+| 73 | 338 | Stephanie Zahn |
 | 74 | 337 | Steve Schneider |
 | 75 | 333 | Brandi Huntington |
 | 76 | 328 | Kellie |
 | 77 | 328 | Gracie |
-| 78 | 323 | Sweet Baker |
-| 79 | 323 | Candy Jones |
+| 78 | 323 | Candy Jones |
+| 79 | 323 | Sweet Baker |
 | 80 | 320 | Luciano Moreira |
 | 81 | 319 | Deanna L Hermanson |
 | 82 | 318 | Dee Perry |
 | 83 | 311 | Maria C. Hernandez |
 | 84 | 310 | Seth Wesson |
-| 85 | 305 | Patrick Luckenbill |
-| 86 | 305 | Plucky Ziggy |
+| 85 | 305 | Plucky Ziggy |
+| 86 | 305 | Patrick Luckenbill |
 | 87 | 304 | Nicole Roseberry Weber |
 | 88 | 303 | Tanya Carpenter-Reynolds |
 | 89 | 301 | Hyper |
@@ -147,12 +147,12 @@
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Sweetts |
-| 143 | 190 | Thorne Shumate |
+| 142 | 190 | Thorne Shumate |
+| 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
-| 146 | 186 | Margo Wagner |
-| 147 | 186 | Katie Daniels |
+| 146 | 186 | Katie Daniels |
+| 147 | 186 | Margo Wagner |
 | 148 | 186 | Jennifer Olewnik Soborowski |
 | 149 | 185 | Basment Living |
 | 150 | 183 | Michael |

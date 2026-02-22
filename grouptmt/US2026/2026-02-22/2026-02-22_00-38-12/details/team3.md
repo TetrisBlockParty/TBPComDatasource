@@ -69,8 +69,8 @@
 | 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
@@ -91,8 +91,8 @@
 | 83 | 510 | Dave Herzog |
 | 84 | 506 | Sashay Tapae Simpson |
 | 85 | 504 | Jay Horn |
-| 86 | 503 | Susan Valentino |
-| 87 | 503 | Nate Burnside |
+| 86 | 503 | Nate Burnside |
+| 87 | 503 | Susan Valentino |
 | 88 | 502 | Justin Ritter |
 | 89 | 493 | Mandy Smith Oldham |
 | 90 | 491 | Chauntee Alfrey-Cardinale |
@@ -105,8 +105,8 @@
 | 97 | 458 | Domo Washington |
 | 98 | 447 | Mykal Burton |
 | 99 | 446 | Danielle Rhoades |
-| 100 | 445 | Silly Twist |
-| 101 | 445 | Kristie McFarland |
+| 100 | 445 | Kristie McFarland |
+| 101 | 445 | Silly Twist |
 | 102 | 430 | Patricia White |
 | 103 | 428 | Elissa S-k |
 | 104 | 428 | Betty Ivy |
@@ -142,9 +142,9 @@
 | 134 | 347 | Nicole Flippo |
 | 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
-| 137 | 328 | Jeni Dow |
-| 138 | 328 | Dapper Snap |
-| 139 | 328 | Aaron Pitkin |
+| 137 | 328 | Aaron Pitkin |
+| 138 | 328 | Jeni Dow |
+| 139 | 328 | Dapper Snap |
 | 140 | 326 | Fancy Cascader |
 | 141 | 323 | Ashley Raines |
 | 142 | 320 | Or Reznitsky |
@@ -234,8 +234,8 @@
 | 226 | 190 | Raven Dudley |
 | 227 | 189 | Sissy Lowery Davis |
 | 228 | 188 | JerseyJess |
-| 229 | 186 | Sunny Rotater |
-| 230 | 186 | Hyper Matchzone |
+| 229 | 186 | Hyper Matchzone |
+| 230 | 186 | Sunny Rotater |
 | 231 | 185 | AlsoJess |
 | 232 | 184 | Troy |
 | 233 | 183 | Ashley Jones |

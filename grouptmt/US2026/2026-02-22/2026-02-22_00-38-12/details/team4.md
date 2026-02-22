@@ -127,16 +127,16 @@
 | 119 | 212 | Mike Solo |
 | 120 | 212 | Toots |
 | 121 | 211 | Dizzy Tiley |
-| 122 | 208 | Twisty Cascadezone |
-| 123 | 208 | Chastity Mitchell |
+| 122 | 208 | Chastity Mitchell |
+| 123 | 208 | Twisty Cascadezone |
 | 124 | 206 | Mylo Lipscomb |
 | 125 | 205 | Sarah Neathery |
 | 126 | 204 | Dana Scott |
 | 127 | 204 | Jen Caldwell |
 | 128 | 203 | Katherine Crane |
 | 129 | 202 | Monica Daley |
-| 130 | 201 | Swanky Fitline |
-| 131 | 201 | Melvin Baird |
+| 130 | 201 | Melvin Baird |
+| 131 | 201 | Swanky Fitline |
 | 132 | 197 | Peachy Fall |
 | 133 | 196 | Jenna McGeorge |
 | 134 | 196 | Jeff Brian Gates |
@@ -145,8 +145,8 @@
 | 137 | 189 | Stacey Stano |
 | 138 | 189 | Calvin Dennis |
 | 139 | 187 | TheNeesh50 |
-| 140 | 185 | Malakai Darien Fox |
-| 141 | 185 | Andy Cabral |
+| 140 | 185 | Andy Cabral |
+| 141 | 185 | Malakai Darien Fox |
 | 142 | 184 | Justin Hannigan |
 | 143 | 181 | Andria Lynn |
 | 144 | 181 | Carter Jones |

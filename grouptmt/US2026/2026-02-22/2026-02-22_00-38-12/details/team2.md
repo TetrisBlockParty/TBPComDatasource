@@ -421,8 +421,8 @@
 | 413 | 374 | Gloria Ininahazwe |
 | 414 | 371 | AkaLefty |
 | 415 | 371 | Brenda Messer |
-| 416 | 371 | Jaycee |
-| 417 | 371 | Wuntayk |
+| 416 | 371 | Wuntayk |
+| 417 | 371 | Jaycee |
 | 418 | 370 | Angela Lynn |
 | 419 | 369 | Tony Lea |
 | 420 | 369 | Tara Lynn Janes |
