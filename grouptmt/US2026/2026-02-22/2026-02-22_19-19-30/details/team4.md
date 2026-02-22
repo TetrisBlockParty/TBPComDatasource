@@ -159,14 +159,14 @@
 | 151 | 300 | Dana Scott |
 | 152 | 300 | Jason Hart |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
-| 159 | 290 | Keshia Lyons |
-| 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Damn Libra |
+| 159 | 290 | 🥔🥔 Spudz |
+| 160 | 290 | Damn Libra |
+| 161 | 290 | Keshia Lyons |
 | 162 | 290 | Chaz Duncan |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |

@@ -157,8 +157,8 @@
 | 149 | 479 | Patti Skiles |
 | 150 | 479 | Poppy Splitter |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Nora Rogers |
-| 153 | 471 | Mendoza Lee Christy |
+| 152 | 471 | Mendoza Lee Christy |
+| 153 | 471 | Nora Rogers |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -253,8 +253,8 @@
 | 245 | 314 | Peppy Shifter |
 | 246 | 312 | Charles Perrone |
 | 247 | 308 | Cynthia Herrmann Egland |
-| 248 | 307 | Snappy Balancer |
-| 249 | 307 | Blocked |
+| 248 | 307 | Blocked |
+| 249 | 307 | Snappy Balancer |
 | 250 | 307 | rnr junky |
 | 251 | 306 | Felicia Rocha |
 | 252 | 302 | Dee Franklin |
@@ -273,12 +273,12 @@
 | 265 | 285 | Terry Jo Jones |
 | 266 | 283 | Cheeky Snapper |
 | 267 | 279 | Connie Mohler-Fair |
-| 268 | 278 | Rufus Lincoln |
-| 269 | 278 | Sabrina Hardrick |
+| 268 | 278 | Sabrina Hardrick |
+| 269 | 278 | Rufus Lincoln |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
-| 272 | 276 | _melisa223_ |
-| 273 | 276 | Crimson |
+| 272 | 276 | Crimson |
+| 273 | 276 | _melisa223_ |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
 | 276 | 272 | Tasha Wesson-Torrence |
@@ -319,8 +319,8 @@
 | 311 | 240 | Jimmie Clemons |
 | 312 | 240 | Eric Caccavale |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
@@ -330,8 +330,8 @@
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
 | 324 | 227 | Rebel124 |
-| 325 | 227 | Wettnippz |
-| 326 | 227 | Meowsa |
+| 325 | 227 | Meowsa |
+| 326 | 227 | Wettnippz |
 | 327 | 226 | Jana Polk |
 | 328 | 225 | Dirtgirl27 |
 | 329 | 225 | Stephanie Hill |
@@ -420,8 +420,8 @@
 | 412 | 182 | gremicx |
 | 413 | 182 | Joy Petroski |
 | 414 | 181 | Fancy Curver |
-| 415 | 180 | Beth Ingham |
-| 416 | 180 | Sarah Whalen |
+| 415 | 180 | Sarah Whalen |
+| 416 | 180 | Beth Ingham |
 | 417 | 180 | Ava Petito |
 | 418 | 179 | Skinny Baldez |
 | 419 | 179 | Betty Bóò |

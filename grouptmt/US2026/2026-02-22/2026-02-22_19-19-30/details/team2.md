@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -603,9 +603,9 @@
 | 595 | 444 | Chab |
 | 596 | 444 | Fi Ne |
 | 597 | 443 | Snazzy Basepiece |
-| 598 | 442 | Juan Castillo |
-| 599 | 442 | Niceday |
-| 600 | 442 | Bubbly Snapfit |
+| 598 | 442 | Niceday |
+| 599 | 442 | Bubbly Snapfit |
+| 600 | 442 | Juan Castillo |
 | 601 | 437 | Brenda Messer |
 | 602 | 437 | Ebony Deloach Bryant |
 | 603 | 436 | Ashley Dow |
@@ -828,8 +828,8 @@
 | 820 | 325 | Justin Hines |
 | 821 | 324 | Dale Haanpaa |
 | 822 | 323 | Trista Carter |
-| 823 | 322 | Christina Jarvis-Swarbrick |
-| 824 | 322 | Taren Cowan |
+| 823 | 322 | Taren Cowan |
+| 824 | 322 | Christina Jarvis-Swarbrick |
 | 825 | 322 | Lea Stewart |
 | 826 | 322 | Kristina Marie Hanna |
 | 827 | 321 | Claire |
@@ -1753,7 +1753,7 @@
 | 1745 | 164 | Jessica Vega |
 | 1746 | 164 | Brittany Chapman |
 | 1747 | 164 | Loony Shuffler |
-| 1748 | 164 | Jessica Vega |
+| 1748 | 164 | Sabo |
 | 1749 | 164 | Amy Jackson |
 | 1750 | 164 | Bold Linkpiece |
 | 1751 | 164 | Tiara Gaither |

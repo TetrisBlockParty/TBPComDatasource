@@ -54,8 +54,8 @@
 | 46 | 777 | Patrick Luckenbill |
 | 47 | 773 | Redlicious 1 |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Kristen Roles Robben |
-| 50 | 760 | Lawrence Belanger |
+| 49 | 760 | Lawrence Belanger |
+| 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |
@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -116,7 +116,7 @@
 | 108 | 390 | Lori Bales |
 | 109 | 385 | Brenda Stewart |
 | 110 | 383 | pjbeta |
-| 111 | 380 | Maria C. Hernandez |
+| 111 | 380 | Dee Perry |
 | 112 | 380 | Erin Hodges Plumb |
 | 113 | 380 | Maria C. Hernandez |
 | 114 | 379 | Kimmie Kimms |
@@ -165,8 +165,8 @@
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 297 | Danielle Little-Daugherty |
 | 159 | 296 | Madison Wicks |
-| 160 | 293 | Letson Melissa |
-| 161 | 293 | Sarah Roberts |
+| 160 | 293 | Sarah Roberts |
+| 161 | 293 | Letson Melissa |
 | 162 | 292 | David Lutcher |
 | 163 | 285 | ALFD |
 | 164 | 284 | Emily Adelaide Wheatley |
@@ -224,12 +224,12 @@
 | 216 | 228 | Cheeky Pop |
 | 217 | 227 | Cody Gates |
 | 218 | 226 | Michael |
-| 219 | 225 | Bindi |
-| 220 | 225 | Jessie Lynn |
+| 219 | 225 | Jessie Lynn |
+| 220 | 225 | Bindi |
 | 221 | 224 | ParisandCory Champagne |
 | 222 | 223 | Christina Backer |
-| 223 | 223 | Shiny Gridmatch |
-| 224 | 223 | Basment Living |
+| 223 | 223 | Basment Living |
+| 224 | 223 | Shiny Gridmatch |
 | 225 | 223 | Erez Yosef |
 | 226 | 222 | Debbie Davis |
 | 227 | 221 | Daring Fitclear |
