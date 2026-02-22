@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Kay |
-| 46 | 989 | Joey Banks |
+| 45 | 989 | Joey Banks |
+| 46 | 989 | Kay |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 562 | Dave Herzog |
 | 101 | 559 | Morgan Martinez |
@@ -165,8 +165,8 @@
 | 157 | 389 | Jeni Dow |
 | 158 | 382 | Scott Carleton |
 | 159 | 380 | Tasha Schriewer |
-| 160 | 378 | CeceGeGe |
-| 161 | 378 | Chris Bell |
+| 160 | 378 | Chris Bell |
+| 161 | 378 | CeceGeGe |
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
@@ -194,8 +194,8 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Araceli Parra |
-| 190 | 311 | Rochelle Hazelett |
+| 189 | 311 | Rochelle Hazelett |
+| 190 | 311 | Araceli Parra |
 | 191 | 310 | Danielle Balcom |
 | 192 | 308 | Daryn Elliott |
 | 193 | 308 | Rania Zaqout |
@@ -288,9 +288,9 @@
 | 280 | 208 | AlsoJess |
 | 281 | 207 | Jessica |
 | 282 | 207 | angieelyn |
-| 283 | 206 | Tracy Martin |
+| 283 | 206 | Tammy Rosenberry |
 | 284 | 206 | Jone |
-| 285 | 206 | Tammy Rosenberry |
+| 285 | 206 | Tracy Martin |
 | 286 | 205 | Rachel |
 | 287 | 204 | Aerian Preston |
 | 288 | 203 | Angie Harper |
@@ -482,7 +482,7 @@
 | 474 | 114 | Hyper Shuffler |
 | 475 | 113 | Kristy Brown |
 | 476 | 113 | Gideon Walker |
-| 477 | 113 | Christopher Woost |
+| 477 | 113 | Martin Bernier |
 | 478 | 113 | Tia Moore |
 | 479 | 113 | Christopher Woost |
 | 480 | 113 | Leticia Lynn Lowe |

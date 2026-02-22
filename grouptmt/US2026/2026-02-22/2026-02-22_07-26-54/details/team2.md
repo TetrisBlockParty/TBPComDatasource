@@ -163,8 +163,8 @@
 | 155 | 1048 | PsychKIRAtrist |
 | 156 | 1047 | Amy Sayers |
 | 157 | 1045 | Lourisha |
-| 158 | 1043 | Brave Dropmatch |
-| 159 | 1043 | Suki Kaur |
+| 158 | 1043 | Suki Kaur |
+| 159 | 1043 | Brave Dropmatch |
 | 160 | 1035 | Sarah Freitas |
 | 161 | 1026 | Heather Westrum |
 | 162 | 1026 | Murrae Lynn Rebarchek |
@@ -341,8 +341,8 @@
 | 333 | 582 | Gary Stash |
 | 334 | 581 | Jerry Tempelmeyer |
 | 335 | 579 | AgileDragon |
-| 336 | 579 | Juliana Marques Do Nascimento Gordy |
-| 337 | 579 | Roy Salyer |
+| 336 | 579 | Roy Salyer |
+| 337 | 579 | Juliana Marques Do Nascimento Gordy |
 | 338 | 576 | Leslie Johnson Guinto |
 | 339 | 573 | Carl Bradshaw |
 | 340 | 572 | Chris Wanner |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Lylymom |
-| 370 | 522 | Joseph Musick |
+| 369 | 522 | Joseph Musick |
+| 370 | 522 | Lylymom |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Angela Lynn |
 | 373 | 520 | Maddy Petersen |
@@ -482,8 +482,8 @@
 | 474 | 429 | Christy Krissie |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Destiny Cozier |
-| 478 | 427 | Quinn |
+| 477 | 427 | Quinn |
+| 478 | 427 | Destiny Cozier |
 | 479 | 427 | Kori Beth Babb |
 | 480 | 426 | Ashley Dow |
 | 481 | 426 | Niceday |
@@ -738,8 +738,8 @@
 | 730 | 297 | Ashley Robbins |
 | 731 | 296 | Jennifer Darby |
 | 732 | 296 | Frisky Riserbuilder |
-| 733 | 296 | Epic Fitzone |
-| 734 | 296 | Zappy Dropmatch |
+| 733 | 296 | Zappy Dropmatch |
+| 734 | 296 | Epic Fitzone |
 | 735 | 296 | Amber Gray |
 | 736 | 295 | Noel Tarmy |
 | 737 | 294 | Hyper Riseclear |
@@ -764,8 +764,8 @@
 | 756 | 282 | Nutty Slice |
 | 757 | 281 | Anthony |
 | 758 | 280 | Belle |
-| 759 | 280 | Reece Smith |
-| 760 | 280 | Danielle DeLozier Plesec |
+| 759 | 280 | Danielle DeLozier Plesec |
+| 760 | 280 | Reece Smith |
 | 761 | 279 | Loony Basepiece |
 | 762 | 278 | AndrewandShela Gornik |
 | 763 | 277 | Anthony Mignacca |
@@ -816,8 +816,8 @@
 | 808 | 263 | Sara Pennington |
 | 809 | 262 | Maria Hammett |
 | 810 | 262 | Taren Cowan |
-| 811 | 261 | Dany Murillo |
-| 812 | 261 | Gina Gina |
+| 811 | 261 | Gina Gina |
+| 812 | 261 | Dany Murillo |
 | 813 | 261 | MrsClaudette Will'sIam Matthews |
 | 814 | 260 | Lianne Giandalone LaBounty |
 | 815 | 260 | Gina Justbeingme Chillis |
