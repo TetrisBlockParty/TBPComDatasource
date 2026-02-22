@@ -147,8 +147,8 @@
 | 139 | 282 | Timothy Dew |
 | 140 | 282 | Cool Shiftsnap |
 | 141 | 276 | Dandy Basegrid |
-| 142 | 270 | Ash Galvan |
-| 143 | 270 | Mandyy Rae |
+| 142 | 270 | Mandyy Rae |
+| 143 | 270 | Ash Galvan |
 | 144 | 268 | GATOR |
 | 145 | 265 | SkipTheSadSauce |
 | 146 | 265 | Nutty Spinblock |
@@ -184,8 +184,8 @@
 | 176 | 218 | LC |
 | 177 | 217 | ParisandCory Champagne |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -265,8 +265,8 @@
 | 257 | 169 | Desiree Deschaine Havee |
 | 258 | 169 | Abbey Crespo |
 | 259 | 168 | Angela Fairbank |
-| 260 | 167 | Cranky Pattern |
-| 261 | 167 | Nery Martinez |
+| 260 | 167 | Nery Martinez |
+| 261 | 167 | Cranky Pattern |
 | 262 | 166 | Carrie Smith |
 | 263 | 165 | Silly Align |
 | 264 | 165 | Nadine Velardo |

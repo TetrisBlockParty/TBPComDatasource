@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -109,8 +109,8 @@
 | 101 | 396 | Alicia Bass |
 | 102 | 393 | Carlton Unfiltered |
 | 103 | 392 | Ericca Eldridge |
-| 104 | 391 | Monica Daley |
-| 105 | 391 | Ramel Rhodes |
+| 104 | 391 | Ramel Rhodes |
+| 105 | 391 | Monica Daley |
 | 106 | 387 | Denise Carlson |
 | 107 | 382 | Marie-Pier Desjardins |
 | 108 | 377 | Lori Walker |
@@ -209,8 +209,8 @@
 | 201 | 195 | Malakai Darien Fox |
 | 202 | 195 | ZeeZee |
 | 203 | 194 | Zany Twisterfit |
-| 204 | 193 | Rio Rocha |
-| 205 | 193 | Nikki Rae Gordon |
+| 204 | 193 | Nikki Rae Gordon |
+| 205 | 193 | Rio Rocha |
 | 206 | 192 | Shauna Havard |
 | 207 | 192 | Dizzy Matchzone |
 | 208 | 191 | Silly SeaWeed |
@@ -226,9 +226,9 @@
 | 218 | 185 | Lindsey Gonzalez |
 | 219 | 184 | Ak Jones |
 | 220 | 181 | Carter Jones |
-| 221 | 180 | Googenheim |
+| 221 | 180 | Orchislactea |
 | 222 | 180 | Dihcheese444 |
-| 223 | 180 | Orchislactea |
+| 223 | 180 | Googenheim |
 | 224 | 179 | TinyLegoRose |
 | 225 | 175 | Lorena Guerrero-Barron |
 | 226 | 174 | JPW |
@@ -339,8 +339,8 @@
 | 331 | 128 | Elie Pean |
 | 332 | 128 | Madison Sweere |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | Cheryl Johnson |
-| 335 | 126 | PAPatty |
+| 334 | 126 | PAPatty |
+| 335 | 126 | Cheryl Johnson |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Ann G. Carrillo |
 | 338 | 125 | Steph Marie |
@@ -349,9 +349,9 @@
 | 341 | 124 | Circuit8 |
 | 342 | 123 | Lora |
 | 343 | 123 | Joseph Edmonson |
-| 344 | 121 | Jim Hart |
+| 344 | 121 | Riverdale |
 | 345 | 121 | Chris Alexinas |
-| 346 | 121 | Riverdale |
+| 346 | 121 | Jim Hart |
 | 347 | 120 | wombat |
 | 348 | 120 | Bryan Hodgins |
 | 349 | 119 | rebel4lyfe |
@@ -396,10 +396,10 @@
 | 388 | 108 | Walter Beltran |
 | 389 | 108 | Ali Ian |
 | 390 | 108 | Denise B |
-| 391 | 107 | Marcela Johnson |
-| 392 | 107 | Brandi Durig |
-| 393 | 106 | Lynn Marie |
-| 394 | 106 | Jacob Richard |
+| 391 | 107 | Brandi Durig |
+| 392 | 107 | Marcela Johnson |
+| 393 | 106 | Jacob Richard |
+| 394 | 106 | Lynn Marie |
 | 395 | 106 | Zappy Snaplink |
 | 396 | 106 | Nick Horn |
 | 397 | 106 | Verna Neal |

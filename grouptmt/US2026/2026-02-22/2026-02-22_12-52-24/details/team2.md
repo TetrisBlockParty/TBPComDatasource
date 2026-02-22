@@ -661,8 +661,8 @@
 | 653 | 357 | Shannon Byrd |
 | 654 | 357 | Tristan Szolek |
 | 655 | 355 | Amanda Perez |
-| 656 | 354 | Rickey Johnson |
-| 657 | 354 | Rachel Kaminski |
+| 656 | 354 | Rachel Kaminski |
+| 657 | 354 | Rickey Johnson |
 | 658 | 352 | Rose Fx |
 | 659 | 352 | Jean FU Jagielski |
 | 660 | 352 | ruth |
@@ -713,8 +713,8 @@
 | 705 | 325 | James Smith |
 | 706 | 325 | Justin Hines |
 | 707 | 325 | Mike73 |
-| 708 | 324 | Dale Haanpaa |
-| 709 | 324 | Tasia Stinson |
+| 708 | 324 | Tasia Stinson |
+| 709 | 324 | Dale Haanpaa |
 | 710 | 323 | Briana Alexander |
 | 711 | 323 | Alexandrea |
 | 712 | 322 | Lea Stewart |
@@ -780,8 +780,8 @@
 | 772 | 297 | Frisky Patternline |
 | 773 | 297 | Ashley Robbins |
 | 774 | 296 | Jennifer Darby |
-| 775 | 296 | Zappy Dropmatch |
-| 776 | 296 | Frisky Riserbuilder |
+| 775 | 296 | Frisky Riserbuilder |
+| 776 | 296 | Zappy Dropmatch |
 | 777 | 295 | Noel Tarmy |
 | 778 | 294 | Amanda Edwards |
 | 779 | 294 | Swanky Snap |
@@ -798,8 +798,8 @@
 | 790 | 289 | August Hale |
 | 791 | 289 | Min |
 | 792 | 289 | Ryan Chan |
-| 793 | 288 | Samantha Angelo |
-| 794 | 288 | Jenna Nance |
+| 793 | 288 | Jenna Nance |
+| 794 | 288 | Samantha Angelo |
 | 795 | 288 | thranduil |
 | 796 | 287 | N00D3S |
 | 797 | 287 | Epic Stackzone |
