@@ -135,8 +135,8 @@
 | 127 | 400 | Ericca Eldridge |
 | 128 | 396 | Jessica Lynn Cutlip |
 | 129 | 394 | Austin Owens |
-| 130 | 393 | Trish |
-| 131 | 393 | Carlton Unfiltered |
+| 130 | 393 | Carlton Unfiltered |
+| 131 | 393 | Trish |
 | 132 | 392 | Cristy Duerksen |
 | 133 | 391 | Lush Linkfall |
 | 134 | 391 | Ramel Rhodes |
@@ -211,9 +211,9 @@
 | 203 | 269 | Nikki Rae Gordon |
 | 204 | 268 | Sam Bishop |
 | 205 | 268 | Porkobello |
-| 206 | 268 | Sam Bishop |
-| 207 | 267 | Holly |
-| 208 | 267 | Kathy Brookins |
+| 206 | 268 | Mimi |
+| 207 | 267 | Kathy Brookins |
+| 208 | 267 | Holly |
 | 209 | 264 | Holly Jolly |
 | 210 | 261 | JIGsaw ~(•¿°)~ |
 | 211 | 261 | scott |

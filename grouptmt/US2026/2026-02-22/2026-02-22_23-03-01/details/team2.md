@@ -302,8 +302,8 @@
 | 294 | 860 | Carl Bradshaw |
 | 295 | 858 | Porsche' Nicole |
 | 296 | 857 | Kara Gillen |
-| 297 | 856 | Mighty Shatterfit |
-| 298 | 856 | Jojo Momma |
+| 297 | 856 | Jojo Momma |
+| 298 | 856 | Mighty Shatterfit |
 | 299 | 853 | Meghan M |
 | 300 | 848 | Elizabeth Wilbanks |
 | 301 | 846 | Binyah-Binyah |
@@ -319,8 +319,8 @@
 | 311 | 821 | Diallo Sparkman |
 | 312 | 821 | Angie Bolton Workman |
 | 313 | 818 | Lola Contreras |
-| 314 | 816 | James Simms III |
-| 315 | 816 | Jessica Wayne Cornwall |
+| 314 | 816 | Jessica Wayne Cornwall |
+| 315 | 816 | James Simms III |
 | 316 | 810 | Andrea Maher |
 | 317 | 808 | Melissa McCall |
 | 318 | 808 | Laura McCarthey |
