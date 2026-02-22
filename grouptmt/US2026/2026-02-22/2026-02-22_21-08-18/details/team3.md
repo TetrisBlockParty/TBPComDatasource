@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -157,8 +157,8 @@
 | 149 | 500 | Stephanie Blkpep Davidson |
 | 150 | 492 | Daira Largen |
 | 151 | 491 | Chauntee Alfrey-Cardinale |
-| 152 | 484 | Samantha Greco |
-| 153 | 484 | Dapper Snap |
+| 152 | 484 | Dapper Snap |
+| 153 | 484 | Samantha Greco |
 | 154 | 479 | Annie Marie |
 | 155 | 479 | Poppy Splitter |
 | 156 | 474 | Danielle Balcom |
@@ -166,11 +166,11 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Makelini Mausia |
-| 165 | 464 | Michelle |
+| 164 | 464 | Michelle |
+| 165 | 464 | Makelini Mausia |
 | 166 | 461 | Jone |
 | 167 | 460 | Danielle Allison |
 | 168 | 460 | Tasha Gillespie |
@@ -301,19 +301,19 @@
 | 293 | 273 | Troy |
 | 294 | 273 | Dannie Litchard |
 | 295 | 272 | fraulila |
-| 296 | 271 | Grego Daniel |
-| 297 | 271 | Cass Mendoza |
+| 296 | 271 | Cass Mendoza |
+| 297 | 271 | Grego Daniel |
 | 298 | 270 | Foltz Lee Kelli |
 | 299 | 269 | ROODBOY |
 | 300 | 269 | Micayah Stevens |
 | 301 | 269 | Brenda Schmid Wood |
 | 302 | 268 | Krystal Gerstberger |
 | 303 | 268 | Denita Mungro |
-| 304 | 267 | Nikki Pags |
-| 305 | 267 | April Matthew Kibble |
-| 306 | 267 | Aerian Preston |
-| 307 | 266 | Quirky Dropzone |
-| 308 | 266 | Donna |
+| 304 | 267 | Aerian Preston |
+| 305 | 267 | Nikki Pags |
+| 306 | 267 | April Matthew Kibble |
+| 307 | 266 | Donna |
+| 308 | 266 | Quirky Dropzone |
 | 309 | 263 | Jimmie Clemons |
 | 310 | 261 | Angela Scott |
 | 311 | 260 | France Vézina |
@@ -324,8 +324,8 @@
 | 316 | 252 | Geoffrey Nash |
 | 317 | 251 | Naur |
 | 318 | 251 | Twisty Brick LT |
-| 319 | 250 | Desiree Gold |
-| 320 | 250 | Tosha Griffey |
+| 319 | 250 | Tosha Griffey |
+| 320 | 250 | Desiree Gold |
 | 321 | 247 | Jessica |
 | 322 | 246 | Hoppy Patternline |
 | 323 | 246 | Erika Thornton |

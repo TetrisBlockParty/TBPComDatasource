@@ -409,8 +409,8 @@
 | 401 | 644 | Kimmy Newman |
 | 402 | 643 | trabuco |
 | 403 | 643 | Hoppy Brickmatch |
-| 404 | 642 | Arkei Luster |
-| 405 | 642 | Cassie Maynard |
+| 404 | 642 | Cassie Maynard |
+| 405 | 642 | Arkei Luster |
 | 406 | 640 | BYM4L |
 | 407 | 640 | Crystie Hicks |
 | 408 | 640 | Gary Stash |
@@ -436,8 +436,8 @@
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | KhaosLord |
-| 432 | 602 | Shaun Church |
+| 431 | 602 | Shaun Church |
+| 432 | 602 | KhaosLord |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |

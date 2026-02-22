@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Jae Job |
+| 43 | 846 | Christine Marie |
 | 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Christine Marie |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -170,8 +170,8 @@
 | 162 | 307 | Bio Nelly |
 | 163 | 307 | Girl |
 | 164 | 303 | shark tato |
-| 165 | 301 | Andria Lynn |
-| 166 | 301 | Crystal Nicolette Moore |
+| 165 | 301 | Crystal Nicolette Moore |
+| 166 | 301 | Andria Lynn |
 | 167 | 300 | Dana Scott |
 | 168 | 295 | Cursed Hag |
 | 169 | 294 | Calvin Cannon |
