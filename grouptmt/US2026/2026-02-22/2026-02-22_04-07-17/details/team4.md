@@ -48,8 +48,8 @@
 | 40 | 646 | Jacqueline Helm |
 | 41 | 634 | Anthony Bryan Riva |
 | 42 | 632 | Kimyatta Cavin |
-| 43 | 630 | Chilly Line |
-| 44 | 630 | Dustee Craddock-Harrison |
+| 43 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Chilly Line |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
 | 47 | 614 | Robin Getchel |
@@ -74,8 +74,8 @@
 | 66 | 486 | Jamie Mann-Deichmann |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
-| 69 | 447 | Samantha Peterson |
-| 70 | 447 | TeeJ |
+| 69 | 447 | TeeJ |
+| 70 | 447 | Samantha Peterson |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Shane Kalamata Platoon |
-| 86 | 358 | Nugget |
+| 85 | 358 | Nugget |
+| 86 | 358 | Shane Kalamata Platoon |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -133,8 +133,8 @@
 | 125 | 234 | Justin Hannigan |
 | 126 | 232 | Crystal Nicolette Moore |
 | 127 | 231 | Chastity Mitchell |
-| 128 | 230 | loulou |
-| 129 | 230 | Autum Leigh |
+| 128 | 230 | Autum Leigh |
+| 129 | 230 | loulou |
 | 130 | 227 | Alyssa Papen |
 | 131 | 225 | Damn Libra |
 | 132 | 224 | Matt Summer |
@@ -145,8 +145,8 @@
 | 137 | 220 | Mary Ann Pabukis |
 | 138 | 218 | Casey Grabner |
 | 139 | 217 | Chaz Duncan |
-| 140 | 215 | Jessica Bohlken |
-| 141 | 215 | Ren Mc |
+| 140 | 215 | Ren Mc |
+| 141 | 215 | Jessica Bohlken |
 | 142 | 213 | Jason Allen |
 | 143 | 212 | Mike Solo |
 | 144 | 212 | Calvin Cannon |
@@ -167,9 +167,9 @@
 | 159 | 195 | Malakai Darien Fox |
 | 160 | 194 | Zany Twisterfit |
 | 161 | 192 | Shauna Havard |
-| 162 | 189 | Chilly Crasher |
-| 163 | 189 | Stacey Stano |
-| 164 | 189 | Calvin Dennis |
+| 162 | 189 | Calvin Dennis |
+| 163 | 189 | Chilly Crasher |
+| 164 | 189 | Stacey Stano |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
 | 167 | 185 | Diana Houts |

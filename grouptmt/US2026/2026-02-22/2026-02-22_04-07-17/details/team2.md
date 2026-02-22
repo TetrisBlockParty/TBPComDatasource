@@ -166,8 +166,8 @@
 | 158 | 953 | Ladyrainbootz |
 | 159 | 951 | Cynthia Ward |
 | 160 | 950 | Teresa Gillmore |
-| 161 | 941 | Marie Boyd Faulk |
-| 162 | 941 | Desiree Harris Rosch |
+| 161 | 941 | Desiree Harris Rosch |
+| 162 | 941 | Marie Boyd Faulk |
 | 163 | 937 | Shannon Joslin |
 | 164 | 935 | William Meussner |
 | 165 | 932 | Cool Clearer |
@@ -315,8 +315,8 @@
 | 307 | 545 | Offonar Facey |
 | 308 | 544 | Leah Keesling |
 | 309 | 543 | Adira Brown |
-| 310 | 538 | Brownie Sheena |
-| 311 | 538 | Eric Castaneda |
+| 310 | 538 | Eric Castaneda |
+| 311 | 538 | Brownie Sheena |
 | 312 | 537 | Cherica Taylor |
 | 313 | 535 | Paul Huber |
 | 314 | 535 | Jessie McDougald |

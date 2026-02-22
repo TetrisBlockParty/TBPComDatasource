@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -107,8 +107,8 @@
 | 99 | 506 | Sashay Tapae Simpson |
 | 100 | 503 | Susan Valentino |
 | 101 | 502 | Justin Ritter |
-| 102 | 500 | Domo Washington |
-| 103 | 500 | Kristie |
+| 102 | 500 | Kristie |
+| 103 | 500 | Domo Washington |
 | 104 | 497 | Mykal Burton |
 | 105 | 491 | Chauntee Alfrey-Cardinale |
 | 106 | 487 | Alaina Lee |
@@ -138,8 +138,8 @@
 | 130 | 399 | ren |
 | 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Tasha Gillespie |
-| 134 | 392 | Katie Knaus |
+| 133 | 392 | Katie Knaus |
+| 134 | 392 | Tasha Gillespie |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Marcie Bressler |
 | 137 | 390 | Hasty Cascadefit |
@@ -157,8 +157,8 @@
 | 149 | 359 | Dapper Snap |
 | 150 | 355 | Tessina Dewey-Mancino |
 | 151 | 355 | Sherry Ogden |
-| 152 | 353 | Shunta Jacobs |
-| 153 | 353 | CeceGeGe |
+| 152 | 353 | CeceGeGe |
+| 153 | 353 | Shunta Jacobs |
 | 154 | 352 | Chris Bell |
 | 155 | 350 | Darlene McMillan |
 | 156 | 347 | Nicole Flippo |
@@ -183,10 +183,10 @@
 | 175 | 295 | RickyG |
 | 176 | 293 | Marci Mize Fandrich |
 | 177 | 291 | Daryn Elliott |
-| 178 | 289 | Duane Bright |
-| 179 | 289 | Hoppy Buildout |
-| 180 | 289 | Rebecca Bailey |
-| 181 | 289 | DidIdothat |
+| 178 | 289 | Hoppy Buildout |
+| 179 | 289 | Duane Bright |
+| 180 | 289 | DidIdothat |
+| 181 | 289 | Rebecca Bailey |
 | 182 | 286 | Cynthia Herrmann Egland |
 | 183 | 286 | Jacqueline Rodriguez |
 | 184 | 284 | Edwin Calvillo Jr. |
