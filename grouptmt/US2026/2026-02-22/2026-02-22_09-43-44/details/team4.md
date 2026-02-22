@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | shark tato |
-| 127 | 286 | Daria Rycewicz |
+| 126 | 286 | Daria Rycewicz |
+| 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |
@@ -161,16 +161,16 @@
 | 153 | 230 | Cursed Hag |
 | 154 | 230 | Autum Leigh |
 | 155 | 228 | J-Rizzle |
-| 156 | 227 | Alyssa Papen |
-| 157 | 227 | Swanky Fitline |
+| 156 | 227 | Swanky Fitline |
+| 157 | 227 | Alyssa Papen |
 | 158 | 225 | Damn Libra |
 | 159 | 224 | Matt Summer |
 | 160 | 223 | Kris Bartlett |
 | 161 | 223 | Antony Dwayne Beasley |
 | 162 | 222 | Joeliecea Cobb |
 | 163 | 222 | TheNeesh50 |
-| 164 | 221 | PurpleMoonMa |
-| 165 | 221 | Rheanda Weaskus |
+| 164 | 221 | Rheanda Weaskus |
+| 165 | 221 | PurpleMoonMa |
 | 166 | 220 | Matt Dell'Olio |
 | 167 | 218 | Casey Grabner |
 | 168 | 217 | Chaz Duncan |
@@ -285,8 +285,8 @@
 | 277 | 137 | Brianna Walker |
 | 278 | 137 | Guy Incognito |
 | 279 | 137 | PeaceOs |
-| 280 | 136 | Michelle Morris |
-| 281 | 136 | Maureen Flanigan |
+| 280 | 136 | Maureen Flanigan |
+| 281 | 136 | Michelle Morris |
 | 282 | 135 | KimoKoala |
 | 283 | 135 | Joshua Guess |
 | 284 | 134 | Duck |

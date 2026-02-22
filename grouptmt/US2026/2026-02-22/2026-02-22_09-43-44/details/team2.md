@@ -246,8 +246,8 @@
 | 238 | 800 | Danielle Johnson-Chandler |
 | 239 | 787 | Laura McCarthey |
 | 240 | 777 | Jessicah Myers |
-| 241 | 777 | Barbra Miller |
-| 242 | 777 | Tesha Oldaker |
+| 241 | 777 | Tesha Oldaker |
+| 242 | 777 | Barbra Miller |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | Stephen Stephen |
 | 245 | 772 | William Hunt |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -323,8 +323,8 @@
 | 315 | 650 | Shiny Rollzone |
 | 316 | 645 | tejas25 |
 | 317 | 643 | Hoppy Brickmatch |
-| 318 | 641 | Joce Lynn |
-| 319 | 641 | Angie Bolton Workman |
+| 318 | 641 | Angie Bolton Workman |
+| 319 | 641 | Joce Lynn |
 | 320 | 640 | BYM4L |
 | 321 | 639 | Crystie Hicks |
 | 322 | 639 | Rebecca Miller |
@@ -399,8 +399,8 @@
 | 391 | 522 | Lylymom |
 | 392 | 522 | Joseph Musick |
 | 393 | 521 | Tj Ball |
-| 394 | 520 | Maddy Petersen |
-| 395 | 520 | Angela Lynn |
+| 394 | 520 | Angela Lynn |
+| 395 | 520 | Maddy Petersen |
 | 396 | 519 | Rob Brown |
 | 397 | 517 | Alex Dungo Hoang |
 | 398 | 517 | Porsche' Nicole |
@@ -446,8 +446,8 @@
 | 438 | 483 | Victor Obiakarije |
 | 439 | 482 | Ben Barkley |
 | 440 | 482 | Amélie Cadieux |
-| 441 | 482 | Eckoman518 |
-| 442 | 482 | Drwatson187 |
+| 441 | 482 | Drwatson187 |
+| 442 | 482 | Eckoman518 |
 | 443 | 481 | Klee |
 | 444 | 480 | Ashley Collins |
 | 445 | 480 | Dar |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Destiny Cozier |
-| 507 | 427 | Quinn |
+| 506 | 427 | Quinn |
+| 507 | 427 | Destiny Cozier |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -685,8 +685,8 @@
 | 677 | 335 | Maria Louise |
 | 678 | 334 | Melissa James |
 | 679 | 333 | Veronica Stevenson |
-| 680 | 333 | Woodys Glass |
-| 681 | 333 | Adrian Benitez |
+| 680 | 333 | Adrian Benitez |
+| 681 | 333 | Woodys Glass |
 | 682 | 332 | Lathasa Newkirk |
 | 683 | 330 | Jennifer Monroe Kelly |
 | 684 | 329 | Chummy Blockbuilder |
@@ -716,8 +716,8 @@
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Snippy Block |
 | 715 | 313 | Natasha Edmonds |
@@ -727,19 +727,19 @@
 | 719 | 311 | Megan Phillips |
 | 720 | 310 | Cheeky Brickmatch |
 | 721 | 310 | Wendy Ducheney |
-| 722 | 310 | Beth Decker |
-| 723 | 310 | Audra Williams |
+| 722 | 310 | Audra Williams |
+| 723 | 310 | Beth Decker |
 | 724 | 309 | Byung Bae Park |
 | 725 | 308 | Prado |
-| 726 | 308 | Danielle Ayoub |
+| 726 | 308 | Hyper Riseclear |
 | 727 | 308 | Claire |
 | 728 | 308 | Sarah block |
 | 729 | 308 | Danielle Ayoub |
-| 730 | 307 | stacey |
-| 731 | 307 | Peachy Blockbuilder |
+| 730 | 307 | Peachy Blockbuilder |
+| 731 | 307 | stacey |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | Zany Clusterbuilder |
-| 734 | 305 | MamaBear11 |
+| 733 | 305 | MamaBear11 |
+| 734 | 305 | Zany Clusterbuilder |
 | 735 | 305 | Narutofreak13 |
 | 736 | 304 | Melissa McCall |
 | 737 | 304 | James Smith |
@@ -776,16 +776,16 @@
 | 768 | 291 | Bella Novia |
 | 769 | 289 | August Hale |
 | 770 | 288 | thranduil |
-| 771 | 288 | Samantha Angelo |
-| 772 | 288 | Jenna Nance |
+| 771 | 288 | Jenna Nance |
+| 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
 | 775 | 287 | Toni Roberson |
 | 776 | 287 | N00D3S |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
-| 779 | 285 | Court |
-| 780 | 285 | Epic Stackbuilder |
+| 779 | 285 | Epic Stackbuilder |
+| 780 | 285 | Court |
 | 781 | 284 | Hillary Franklin |
 | 782 | 282 | Nutty Slice |
 | 783 | 281 | Anthony |
@@ -828,8 +828,8 @@
 | 820 | 272 | Alexandrea |
 | 821 | 272 | Witty Piecebuilder |
 | 822 | 271 | Pam Doughty |
-| 823 | 271 | Shalisa Hill |
-| 824 | 271 | Beverly Hodge |
+| 823 | 271 | Beverly Hodge |
+| 824 | 271 | Shalisa Hill |
 | 825 | 270 | BK Queen |
 | 826 | 270 | Nat |
 | 827 | 270 | Lazy Builderfit |
@@ -1436,8 +1436,8 @@
 | 1428 | 158 | Leebo Slice |
 | 1429 | 158 | John Cleland |
 | 1430 | 158 | Cerealkiller |
-| 1431 | 158 | Tammi Dorsey |
-| 1432 | 158 | April Ann |
+| 1431 | 158 | April Ann |
+| 1432 | 158 | Tammi Dorsey |
 | 1433 | 157 | James Lucas |
 | 1434 | 157 | Dap Duong |
 | 1435 | 157 | Madysen Holt |

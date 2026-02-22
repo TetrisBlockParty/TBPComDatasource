@@ -103,8 +103,8 @@
 | 95 | 593 | Raven Dudley |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -252,12 +252,12 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | KayB |
-| 248 | 256 | Tiffany Davie |
+| 247 | 256 | Tiffany Davie |
+| 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | JerseyJess |
-| 252 | 249 | Annie Marie |
+| 251 | 249 | Annie Marie |
+| 252 | 249 | JerseyJess |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -267,8 +267,8 @@
 | 259 | 240 | Jimmie Clemons |
 | 260 | 238 | LaTanya GeminiondaRise Johnson |
 | 261 | 236 | Jess Bissett |
-| 262 | 234 | Connie Mohler-Fair |
-| 263 | 234 | Nikki Pags |
+| 262 | 234 | Nikki Pags |
+| 263 | 234 | Connie Mohler-Fair |
 | 264 | 233 | Josh Borquez |
 | 265 | 233 | Ray Lader |
 | 266 | 232 | Brenda Schmid Wood |
@@ -353,11 +353,11 @@
 | 345 | 167 | Irene Arreguin |
 | 346 | 167 | Romeo |
 | 347 | 166 | Noettín Kan Zasnemoore |
-| 348 | 166 | Angella Lyons |
-| 349 | 166 | Snarky McFace |
+| 348 | 166 | Snarky McFace |
+| 349 | 166 | Angella Lyons |
 | 350 | 165 | Kali Kelz Williams |
-| 351 | 165 | Ashley Lynn Marchese |
-| 352 | 165 | Rainbow77375 |
+| 351 | 165 | Rainbow77375 |
+| 352 | 165 | Ashley Lynn Marchese |
 | 353 | 164 | Ashley Rufus Bythcez |
 | 354 | 163 | Ava Petito |
 | 355 | 163 | Christine Trester |
@@ -461,10 +461,10 @@
 | 453 | 127 | Elisha L Allman |
 | 454 | 126 | Crystal Martin |
 | 455 | 126 | Spicy Caster |
-| 456 | 126 | Tipsy Puzzle |
-| 457 | 126 | demon14 |
-| 458 | 125 | Felicia Doxey |
-| 459 | 125 | BugMansMom |
+| 456 | 126 | demon14 |
+| 457 | 126 | Tipsy Puzzle |
+| 458 | 125 | BugMansMom |
+| 459 | 125 | Felicia Doxey |
 | 460 | 125 | Shimika Enay Wallace |
 | 461 | 124 | victory |
 | 462 | 124 | xsiv |
