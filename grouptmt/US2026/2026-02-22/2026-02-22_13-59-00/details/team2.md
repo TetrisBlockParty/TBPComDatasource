@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Howard Forest |
-| 136 | 1248 | Isabela Shaw |
+| 135 | 1248 | Isabela Shaw |
+| 136 | 1248 | Howard Forest |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1231 | Bussyiano Page |
@@ -218,8 +218,8 @@
 | 210 | 916 | Butta |
 | 211 | 915 | Angela Bonquiqui Dinish |
 | 212 | 915 | Kelly Trent |
-| 213 | 910 | Crystal Hoffman |
-| 214 | 910 | Shuany Arias |
+| 213 | 910 | Shuany Arias |
+| 214 | 910 | Crystal Hoffman |
 | 215 | 907 | Gene Mills |
 | 216 | 901 | Jennifer Peachey |
 | 217 | 899 | Hillary Crawford |
@@ -660,10 +660,10 @@
 | 652 | 363 | Stephanie Fortune |
 | 653 | 363 | Diallo Sparkman |
 | 654 | 363 | Veronica Stevenson |
-| 655 | 362 | Veronics |
-| 656 | 362 | Snappy Matchbuilder |
-| 657 | 361 | Michelle Shrum |
-| 658 | 361 | Lewis Sturgeon |
+| 655 | 362 | Snappy Matchbuilder |
+| 656 | 362 | Veronics |
+| 657 | 361 | Lewis Sturgeon |
+| 658 | 361 | Michelle Shrum |
 | 659 | 360 | Jroc |
 | 660 | 359 | Cheyenne Donovan |
 | 661 | 358 | Sydney Busse |
@@ -672,8 +672,8 @@
 | 664 | 357 | Tristan Szolek |
 | 665 | 356 | Kelsey Sullivan |
 | 666 | 355 | Amanda Perez |
-| 667 | 354 | Rickey Johnson |
-| 668 | 354 | Rachel Kaminski |
+| 667 | 354 | Rachel Kaminski |
+| 668 | 354 | Rickey Johnson |
 | 669 | 352 | Rose Fx |
 | 670 | 352 | Jean FU Jagielski |
 | 671 | 352 | ruth |
@@ -684,8 +684,8 @@
 | 676 | 348 | Peppy Snapfall |
 | 677 | 348 | Richard Horton |
 | 678 | 348 | Kelly Meredeith |
-| 679 | 347 | Zesty Pivot |
-| 680 | 347 | CC |
+| 679 | 347 | CC |
+| 680 | 347 | Zesty Pivot |
 | 681 | 346 | Danielle Ayoub |
 | 682 | 345 | Rhianna DiLorenzo |
 | 683 | 345 | Gina Caulder |
@@ -953,24 +953,24 @@
 | 945 | 255 | Aprill Bolton |
 | 946 | 255 | Charles E Mccardell |
 | 947 | 254 | Paula Martinez |
-| 948 | 254 | Matthew Turner |
-| 949 | 254 | Fredrick Burney |
+| 948 | 254 | Fredrick Burney |
+| 949 | 254 | Matthew Turner |
 | 950 | 254 | Elizabeth Diraffaele |
 | 951 | 252 | Breezy Tilt |
 | 952 | 252 | Aleasha M Brown |
 | 953 | 252 | Layna Lyons |
-| 954 | 251 | Dane Reing |
-| 955 | 251 | Bold Clusterfit |
+| 954 | 251 | Bold Clusterfit |
+| 955 | 251 | Dane Reing |
 | 956 | 251 | Regina Unruh |
 | 957 | 251 | Emoniee Sa'niaya |
-| 958 | 251 | Kimmie Zimmerman-Rocha |
-| 959 | 251 | Chipper Dashpiece |
+| 958 | 251 | Chipper Dashpiece |
+| 959 | 251 | Kimmie Zimmerman-Rocha |
 | 960 | 250 | Kay Stevenson |
 | 961 | 250 | Michelle Fleming Luna |
 | 962 | 250 | Muhammad |
 | 963 | 250 | Drew Berkelbach |
-| 964 | 249 | Andrew Engman |
-| 965 | 249 | Angela Yantz |
+| 964 | 249 | Angela Yantz |
+| 965 | 249 | Andrew Engman |
 | 966 | 249 | J.L. Roberts |
 | 967 | 249 | Joshua Mullings |
 | 968 | 248 | CleverAngel |

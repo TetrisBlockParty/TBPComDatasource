@@ -144,8 +144,8 @@
 | 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Rachael |
-| 140 | 284 | Emily Adelaide Wheatley |
+| 139 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Rachael |
 | 141 | 283 | Franswa |
 | 142 | 282 | Timothy Dew |
 | 143 | 282 | Tyler Werts |

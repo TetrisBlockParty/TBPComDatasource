@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -166,8 +166,8 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Mcathen |
-| 162 | 399 | Marcie Bressler |
+| 161 | 399 | Marcie Bressler |
+| 162 | 399 | Mcathen |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
 | 165 | 391 | Calista Jo Dickson |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Kristal C Lee |
-| 201 | 324 | Sissy Lowery Davis |
+| 200 | 324 | Sissy Lowery Davis |
+| 201 | 324 | Kristal C Lee |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 320 | Keis |
@@ -385,8 +385,8 @@
 | 377 | 167 | Irene Arreguin |
 | 378 | 166 | Snarky McFace |
 | 379 | 165 | Kali Kelz Williams |
-| 380 | 164 | momo |
-| 381 | 164 | TazB |
+| 380 | 164 | TazB |
+| 381 | 164 | momo |
 | 382 | 164 | Ashley Rufus Bythcez |
 | 383 | 163 | Christine Trester |
 | 384 | 163 | Diana Ibarra |
@@ -535,8 +535,8 @@
 | 527 | 120 | Santana Lantana |
 | 528 | 120 | Giggy Glidepiece |
 | 529 | 120 | Carol Cain Thurman |
-| 530 | 119 | Michelle Ramirez |
-| 531 | 119 | Geoffrey Nash |
+| 530 | 119 | Geoffrey Nash |
+| 531 | 119 | Michelle Ramirez |
 | 532 | 119 | Amy Jeffers |
 | 533 | 119 | Breanna Marsden |
 | 534 | 119 | Peachy Westbrook |
