@@ -139,8 +139,8 @@
 | 131 | 572 | CeceGeGe |
 | 132 | 569 | Daryn Elliott |
 | 133 | 568 | Rachael McClain Owens |
-| 134 | 562 | Louise Stacy Sisson |
-| 135 | 562 | Dave Herzog |
+| 134 | 562 | Dave Herzog |
+| 135 | 562 | Louise Stacy Sisson |
 | 136 | 558 | Nicole Myers |
 | 137 | 557 | Domo Washington |
 | 138 | 554 | Leah Barnett |
@@ -153,8 +153,8 @@
 | 145 | 517 | Denise Nardoni |
 | 146 | 516 | Elissa S-k |
 | 147 | 512 | Silly Twist |
-| 148 | 506 | Stephanie Blkpep Davidson |
-| 149 | 506 | Sashay Tapae Simpson |
+| 148 | 506 | Sashay Tapae Simpson |
+| 149 | 506 | Stephanie Blkpep Davidson |
 | 150 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 151 | 501 | Patti Skiles |
 | 152 | 492 | Daira Largen |
@@ -181,8 +181,8 @@
 | 173 | 459 | Tasha Schriewer |
 | 174 | 457 | Shannon Matthew Byers |
 | 175 | 457 | Jim Mathews |
-| 176 | 455 | Tessina Dewey-Mancino |
-| 177 | 455 | Danielle Rhoades |
+| 176 | 455 | Danielle Rhoades |
+| 177 | 455 | Tessina Dewey-Mancino |
 | 178 | 453 | FuzzyNavel |
 | 179 | 452 | Jacqueline Rodriguez |
 | 180 | 451 | Araceli Parra |
@@ -249,14 +249,14 @@
 | 241 | 339 | Danielle Weikel |
 | 242 | 338 | Gumbo |
 | 243 | 332 | Bmo |
-| 244 | 330 | Peppy Shifter |
-| 245 | 330 | victory |
+| 244 | 330 | victory |
+| 245 | 330 | Peppy Shifter |
 | 246 | 329 | Brittany |
 | 247 | 326 | Dee Franklin |
 | 248 | 324 | Sissy Lowery Davis |
 | 249 | 321 | Rebecca Bailey |
-| 250 | 320 | Or Reznitsky |
-| 251 | 320 | Ashley Muncey |
+| 250 | 320 | Ashley Muncey |
+| 251 | 320 | Or Reznitsky |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
 | 254 | 312 | Christian Werndl |

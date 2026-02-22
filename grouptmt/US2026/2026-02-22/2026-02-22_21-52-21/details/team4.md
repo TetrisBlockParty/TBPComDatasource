@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -109,8 +109,8 @@
 | 101 | 500 | Rodney McMath Jr. |
 | 102 | 499 | Christina LR |
 | 103 | 488 | Jen Allison |
-| 104 | 481 | Scott Jameson |
-| 105 | 481 | Serena Goodridge |
+| 104 | 481 | Serena Goodridge |
+| 105 | 481 | Scott Jameson |
 | 106 | 476 | Matt Summer |
 | 107 | 475 | Isabella Blanco |
 | 108 | 474 | Jenna Ingersoll |
@@ -138,8 +138,8 @@
 | 130 | 391 | Austin Owens |
 | 131 | 391 | Lush Linkfall |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Jessica Bohlken |
-| 134 | 377 | Carrie Brian |
+| 133 | 377 | Carrie Brian |
+| 134 | 377 | Jessica Bohlken |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -272,8 +272,8 @@
 | 264 | 201 | Zany Shatterer |
 | 265 | 200 | Googenheim |
 | 266 | 199 | TinyLegoRose |
-| 267 | 198 | Calvin Dennis |
-| 268 | 198 | Silly SeaWeed |
+| 267 | 198 | Silly SeaWeed |
+| 268 | 198 | Calvin Dennis |
 | 269 | 197 | Gilles Lanctot |
 | 270 | 195 | Shainne Brewer |
 | 271 | 195 | 中山成巳 |
