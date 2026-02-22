@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -261,8 +261,8 @@
 | 253 | 205 | James Hurley Jr. |
 | 254 | 205 | Keith Kelley |
 | 255 | 203 | Katherine Crane |
-| 256 | 202 | Orchislactea |
-| 257 | 202 | Patron Anderson |
+| 256 | 202 | Patron Anderson |
+| 257 | 202 | Orchislactea |
 | 258 | 201 | Chaz |
 | 259 | 200 | Lori |
 | 260 | 200 | Googenheim |
@@ -284,9 +284,9 @@
 | 276 | 187 | Cynthia Boudreau |
 | 277 | 186 | June Hoffman |
 | 278 | 186 | Lauren Lamb |
-| 279 | 185 | Laura Hosford |
-| 280 | 185 | Morti |
-| 281 | 185 | Nubian1 |
+| 279 | 185 | Nubian1 |
+| 280 | 185 | Laura Hosford |
+| 281 | 185 | Morti |
 | 282 | 183 | Twisty Risebuilder |
 | 283 | 183 | Cozy Balancer |
 | 284 | 181 | Carter Jones |
@@ -301,9 +301,9 @@
 | 293 | 169 | Daring Pivot |
 | 294 | 169 | Jessica Atkinson |
 | 295 | 169 | Ellen Durfee |
-| 296 | 168 | Kathy Allen |
-| 297 | 168 | Zippy Tilt |
-| 298 | 166 | KimoKoala |
+| 296 | 168 | Zippy Tilt |
+| 297 | 168 | Kathy Allen |
+| 298 | 166 | Jenny Wells-Oakley |
 | 299 | 166 | SammieJo Guy |
 | 300 | 166 | Megan Cutshaw |
 | 301 | 166 | KimoKoala |

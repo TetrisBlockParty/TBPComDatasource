@@ -169,13 +169,13 @@
 | 161 | 304 | Rachael |
 | 162 | 303 | Chelsea Dahlquist |
 | 163 | 302 | Mike Ames |
-| 164 | 298 | femmefatale |
-| 165 | 298 | Danielle Little-Daugherty |
+| 164 | 298 | Danielle Little-Daugherty |
+| 165 | 298 | femmefatale |
 | 166 | 296 | Madison Wicks |
 | 167 | 295 | David Lutcher |
 | 168 | 295 | Emily Adelaide Wheatley |
-| 169 | 293 | Sarah Roberts |
-| 170 | 293 | Letson Melissa |
+| 169 | 293 | Letson Melissa |
+| 170 | 293 | Sarah Roberts |
 | 171 | 289 | ALFD |
 | 172 | 283 | Franswa |
 | 173 | 282 | Timothy Dew |

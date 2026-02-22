@@ -163,8 +163,8 @@
 | 155 | 1300 | Tacara Cummings |
 | 156 | 1296 | Kristin Ruest |
 | 157 | 1286 | Altamirano Michael |
-| 158 | 1282 | Tanya Parsons |
-| 159 | 1282 | Ashley Rose Frederick |
+| 158 | 1282 | Ashley Rose Frederick |
+| 159 | 1282 | Tanya Parsons |
 | 160 | 1273 | Cool Rollpiece |
 | 161 | 1271 | Shandrica Lowe |
 | 162 | 1260 | Joshua Sommerville |
@@ -247,8 +247,8 @@
 | 239 | 972 | Della Hole |
 | 240 | 965 | Maria Escobar |
 | 241 | 957 | Crystal Hoffman |
-| 242 | 957 | Keri Womack |
-| 243 | 957 | Block Master |
+| 242 | 957 | Block Master |
+| 243 | 957 | Keri Womack |
 | 244 | 955 | Angela Bonquiqui Dinish |
 | 245 | 951 | Cynthia Ward |
 | 246 | 944 | Kimberly Hauck-Rausch |
@@ -257,8 +257,8 @@
 | 249 | 935 | Kevin Walp |
 | 250 | 933 | Cindy Sechler Taninecz |
 | 251 | 920 | Phil J. Grombliniak |
-| 252 | 919 | Isaac Trappiel IV |
-| 253 | 919 | Joshua Mandel |
+| 252 | 919 | Joshua Mandel |
+| 253 | 919 | Isaac Trappiel IV |
 | 254 | 916 | Butta |
 | 255 | 915 | Robin Kerby |
 | 256 | 915 | Kelly Trent |
@@ -321,8 +321,8 @@
 | 313 | 782 | Beth |
 | 314 | 781 | Hong Tang |
 | 315 | 778 | Lola Contreras |
-| 316 | 777 | Jessicah Myers |
-| 317 | 777 | Tesha Oldaker |
+| 316 | 777 | Tesha Oldaker |
+| 317 | 777 | Jessicah Myers |
 | 318 | 777 | Samantha Jo |
 | 319 | 774 | Ashley Dow |
 | 320 | 774 | Ginnell Browner |
