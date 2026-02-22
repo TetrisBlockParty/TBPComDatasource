@@ -126,8 +126,8 @@
 | 118 | 292 | Kristen Gideon |
 | 119 | 290 | Death |
 | 120 | 287 | Chelsea Dahlquist |
-| 121 | 286 | Arianna O'Brien |
-| 122 | 286 | Ly Phethmany |
+| 121 | 286 | Ly Phethmany |
+| 122 | 286 | Arianna O'Brien |
 | 123 | 285 | Ananda Mendez |
 | 124 | 284 | Emily Adelaide Wheatley |
 | 125 | 284 | Rachael |
@@ -138,8 +138,8 @@
 | 130 | 280 | Sarah Roberts |
 | 131 | 276 | Dandy Basegrid |
 | 132 | 265 | SkipTheSadSauce |
-| 133 | 264 | Lexuriuos Lifestlye |
-| 134 | 264 | Jenny Gingrich Fuentes |
+| 133 | 264 | Jenny Gingrich Fuentes |
+| 134 | 264 | Lexuriuos Lifestlye |
 | 135 | 263 | Sharon Reynolds |
 | 136 | 258 | Virginia Gray Floyd |
 | 137 | 257 | Amanda Jarnagin |
@@ -184,14 +184,14 @@
 | 176 | 206 | BadG52 |
 | 177 | 205 | Tater |
 | 178 | 204 | Lacy Wolfe |
-| 179 | 203 | LaFontaine Leslie |
-| 180 | 203 | Paula Martin |
+| 179 | 203 | Paula Martin |
+| 180 | 203 | LaFontaine Leslie |
 | 181 | 201 | Sam Williams |
 | 182 | 201 | Colleen Wise |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Happy Snapbuild |
-| 186 | 198 | Shiny Gridmatch |
+| 185 | 198 | Shiny Gridmatch |
+| 186 | 198 | Happy Snapbuild |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Jennifer Olewnik Soborowski |
@@ -222,8 +222,8 @@
 | 214 | 176 | Mel Hogan |
 | 215 | 175 | John Barron |
 | 216 | 174 | Cheeky Pop |
-| 217 | 173 | Gabrielle Louise Malloch |
-| 218 | 173 | Rico Rico |
+| 217 | 173 | Rico Rico |
+| 218 | 173 | Gabrielle Louise Malloch |
 | 219 | 172 | Phu ckalldems |
 | 220 | 171 | Greg Premoe |
 | 221 | 171 | David DeSantis |

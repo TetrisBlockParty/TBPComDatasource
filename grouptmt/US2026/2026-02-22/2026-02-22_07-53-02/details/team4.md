@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -106,8 +106,8 @@
 | 98 | 373 | Joseph Guthrie |
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
-| 101 | 352 | Zippy Gridlock |
-| 102 | 352 | Monica Daley |
+| 101 | 352 | Monica Daley |
+| 102 | 352 | Zippy Gridlock |
 | 103 | 344 | Livvy |
 | 104 | 337 | Lori Walker |
 | 105 | 331 | ThaEviLJeNiuZ |

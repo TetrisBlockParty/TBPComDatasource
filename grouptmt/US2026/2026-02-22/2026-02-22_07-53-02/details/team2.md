@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Ashle Scranton |
-| 295 | 663 | Mandi Douglas Hilt |
+| 294 | 663 | Mandi Douglas Hilt |
+| 295 | 663 | Ashle Scranton |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 659 | Draizen Montrell Thomas |
 | 298 | 658 | Erica Williams |
@@ -321,8 +321,8 @@
 | 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
-| 316 | 617 | tejas25 |
-| 317 | 617 | Leslie Ann Carter |
+| 316 | 617 | Leslie Ann Carter |
+| 317 | 617 | tejas25 |
 | 318 | 613 | Ellie Jonas |
 | 319 | 612 | Kiely Tomaskovich |
 | 320 | 611 | Julio A Laracuente |
@@ -673,8 +673,8 @@
 | 665 | 328 | BabyBird |
 | 666 | 328 | Jamie Carter Bierce |
 | 667 | 326 | Sharon Mills |
-| 668 | 326 | Ann Knutson Anderson |
-| 669 | 326 | Angela Murgia-Owen |
+| 668 | 326 | Angela Murgia-Owen |
+| 669 | 326 | Ann Knutson Anderson |
 | 670 | 325 | Justin Hines |
 | 671 | 324 | Mike73 |
 | 672 | 324 | Tasia Stinson |

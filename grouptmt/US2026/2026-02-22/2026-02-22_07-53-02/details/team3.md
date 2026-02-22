@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Rachael McClain Owens |
-| 100 | 565 | Patty Allen |
+| 99 | 565 | Patty Allen |
+| 100 | 565 | Rachael McClain Owens |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
