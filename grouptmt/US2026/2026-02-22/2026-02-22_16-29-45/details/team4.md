@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,16 +43,16 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
 | 45 | 780 | TeeJ |
-| 46 | 775 | Rebecca Moulton Pinciaro |
-| 47 | 775 | Dee Kay |
+| 46 | 775 | Dee Kay |
+| 47 | 775 | Rebecca Moulton Pinciaro |
 | 48 | 767 | Shannon Ferrari |
 | 49 | 766 | Robin Watters |
 | 50 | 764 | Alicia Bass |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Avy Absol |
-| 72 | 608 | Savannah Overdorf |
+| 71 | 608 | Savannah Overdorf |
+| 72 | 608 | Avy Absol |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -126,8 +126,8 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Livvy |
-| 122 | 353 | Tyler Terrific |
+| 121 | 353 | Tyler Terrific |
+| 122 | 353 | Livvy |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
@@ -302,11 +302,11 @@
 | 294 | 151 | Sarah Hoffman |
 | 295 | 150 | Brandon Link |
 | 296 | 150 | GBR |
-| 297 | 148 | Sam Middleton |
+| 297 | 148 | Nubian1 |
 | 298 | 148 | Cranky Rollpiece |
-| 299 | 148 | Nubian1 |
-| 300 | 148 | Janita Parrish |
-| 301 | 148 | Ruby Khalisadar |
+| 299 | 148 | Sam Middleton |
+| 300 | 148 | Ruby Khalisadar |
+| 301 | 148 | Janita Parrish |
 | 302 | 147 | Sticherella |
 | 303 | 147 | Jay28 |
 | 304 | 145 | Daring Pivot |
@@ -1208,7 +1208,7 @@
 | 1200 | 22 | Aj Brantley Lpn |
 | 1201 | 22 | Tina Williams |
 | 1202 | 22 | Nikki Ann |
-| 1203 | 22 | EMSquire |
+| 1203 | 22 | Francesca Teixeira |
 | 1204 | 22 | Slinky Fitclear |
 | 1205 | 22 | EMSquire |
 | 1206 | 21 | Cool Cascadefit |

@@ -324,10 +324,10 @@
 | 316 | 704 | Shelley Thornburgh Wright |
 | 317 | 704 | Jánine Riggs |
 | 318 | 703 | Gold Rose |
-| 319 | 700 | Vincent Petrella |
-| 320 | 700 | Hong Tang |
-| 321 | 700 | Beverly Owens |
-| 322 | 700 | Rosemadder |
+| 319 | 700 | Hong Tang |
+| 320 | 700 | Vincent Petrella |
+| 321 | 700 | Rosemadder |
+| 322 | 700 | Beverly Owens |
 | 323 | 699 | tejas25 |
 | 324 | 697 | Dreamy Blast |
 | 325 | 697 | Ashle Scranton |
@@ -463,8 +463,8 @@
 | 455 | 519 | Rob Brown |
 | 456 | 518 | Dennis McLaurin |
 | 457 | 517 | Alex Dungo Hoang |
-| 458 | 517 | Porsche' Nicole |
-| 459 | 517 | Brenna Ann |
+| 458 | 517 | Brenna Ann |
+| 459 | 517 | Porsche' Nicole |
 | 460 | 516 | Diamond Scott |
 | 461 | 515 | Victoria Regina Girolami |
 | 462 | 515 | Laquetta Royston |
@@ -486,13 +486,13 @@
 | 478 | 496 | Erika Densmore |
 | 479 | 495 | Bubbly Snapbuild |
 | 480 | 494 | Venita Ray |
-| 481 | 493 | Sarah DeHart |
-| 482 | 493 | Sue Leard |
+| 481 | 493 | Sue Leard |
+| 482 | 493 | Sarah DeHart |
 | 483 | 492 | Breezy Clusterer |
 | 484 | 492 | Armonie Smith |
 | 485 | 492 | Maya June |
-| 486 | 491 | Jedi |
-| 487 | 491 | Victor Obiakarije |
+| 486 | 491 | Victor Obiakarije |
+| 487 | 491 | Jedi |
 | 488 | 491 | Adam Simmons |
 | 489 | 491 | Michael Buckner |
 | 490 | 488 | Christina Wsn |
@@ -686,8 +686,8 @@
 | 678 | 368 | Susan Arnburg |
 | 679 | 367 | Connie Lepore-Mann |
 | 680 | 367 | Rose Fx |
-| 681 | 366 | Courtney Burcham |
-| 682 | 366 | Loony Basepiece |
+| 681 | 366 | Loony Basepiece |
+| 682 | 366 | Courtney Burcham |
 | 683 | 365 | Christina Lewis-Vickers |
 | 684 | 364 | Shinette Dobson |
 | 685 | 363 | Kia Humphery |
@@ -741,8 +741,8 @@
 | 733 | 342 | Danielle DeLozier Plesec |
 | 734 | 339 | Twisty Tetriblast |
 | 735 | 337 | Sassy Pattern |
-| 736 | 337 | NickyBrooks |
-| 737 | 337 | Tum |
+| 736 | 337 | Tum |
+| 737 | 337 | NickyBrooks |
 | 738 | 336 | Crystal Cornelius |
 | 739 | 336 | bru |
 | 740 | 335 | Maria Louise |
@@ -1718,11 +1718,11 @@
 | 1710 | 155 | Mandi Adams |
 | 1711 | 155 | Cupcake Clusters |
 | 1712 | 155 | Melissa Maples |
-| 1713 | 155 | Oke Raph |
-| 1714 | 155 | Jennifer Crystal Fernald |
-| 1715 | 155 | Hyper Wipepiece |
-| 1716 | 154 | Fancy Setter |
-| 1717 | 154 | J3ñņ |
+| 1713 | 155 | Hyper Wipepiece |
+| 1714 | 155 | Oke Raph |
+| 1715 | 155 | Jennifer Crystal Fernald |
+| 1716 | 154 | J3ñņ |
+| 1717 | 154 | Fancy Setter |
 | 1718 | 154 | DeeDee |
 | 1719 | 154 | Stacey |
 | 1720 | 154 | Mine |

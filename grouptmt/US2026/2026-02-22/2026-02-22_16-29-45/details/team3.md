@@ -160,13 +160,13 @@
 | 152 | 445 | Jacqueline Rodriguez |
 | 153 | 445 | Shannon Matthew Byers |
 | 154 | 439 | FuzzyNavel |
-| 155 | 438 | Logan Naccarato |
-| 156 | 438 | Valerie Gendron |
-| 157 | 432 | Luciana Braganca Vieira |
-| 158 | 432 | Jenny Hrndz |
+| 155 | 438 | Valerie Gendron |
+| 156 | 438 | Logan Naccarato |
+| 157 | 432 | Jenny Hrndz |
+| 158 | 432 | Luciana Braganca Vieira |
 | 159 | 430 | Joye Sims Binion |
-| 160 | 430 | Tasha Gillespie |
-| 161 | 430 | Jeni Dow |
+| 160 | 430 | Jeni Dow |
+| 161 | 430 | Tasha Gillespie |
 | 162 | 427 | Wendy Dearden |
 | 163 | 423 | Rachel |
 | 164 | 415 | ren |
@@ -388,14 +388,14 @@
 | 380 | 185 | Frilly Stackzone |
 | 381 | 184 | Shanon R Jackson |
 | 382 | 184 | Salena Whitlock |
-| 383 | 182 | Kevin Russell |
-| 384 | 182 | gremicx |
+| 383 | 182 | gremicx |
+| 384 | 182 | Kevin Russell |
 | 385 | 181 | Denita Mungro |
 | 386 | 180 | Ava Petito |
 | 387 | 180 | Beth Ingham |
 | 388 | 179 | DanceLuvLaugh |
-| 389 | 178 | Joy Petroski |
-| 390 | 178 | Christian Luna |
+| 389 | 178 | Christian Luna |
+| 390 | 178 | Joy Petroski |
 | 391 | 177 | Kristin Delibac Corrigan |
 | 392 | 176 | Emma |
 | 393 | 176 | Skinny Baldez |
