@@ -127,8 +127,8 @@
 | 119 | 276 | Dandy Basegrid |
 | 120 | 264 | Jenny Gingrich Fuentes |
 | 121 | 264 | Lexuriuos Lifestlye |
-| 122 | 263 | Jason Jones |
-| 123 | 263 | Sharon Reynolds |
+| 122 | 263 | Sharon Reynolds |
+| 123 | 263 | Jason Jones |
 | 124 | 256 | David Miller |
 | 125 | 252 | Elaine Elaine |
 | 126 | 252 | Dena Kayy |
@@ -139,8 +139,8 @@
 | 131 | 241 | John J. Cronin |
 | 132 | 236 | Mandyy Rae |
 | 133 | 232 | Jessi Sauer |
-| 134 | 230 | Frothy Pattern |
-| 135 | 230 | Billie Dawn Sparks |
+| 134 | 230 | Billie Dawn Sparks |
+| 135 | 230 | Frothy Pattern |
 | 136 | 228 | ALFD |
 | 137 | 226 | Kandae |
 | 138 | 225 | SkipTheSadSauce |

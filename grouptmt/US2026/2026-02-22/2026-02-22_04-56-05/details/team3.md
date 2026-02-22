@@ -224,8 +224,8 @@
 | 216 | 258 | Tamara Deherrera |
 | 217 | 257 | Ashley Jones |
 | 218 | 256 | KayB |
-| 219 | 256 | Tiffany Davie |
-| 220 | 256 | Brenda Lee Vander Molen |
+| 219 | 256 | Brenda Lee Vander Molen |
+| 220 | 256 | Tiffany Davie |
 | 221 | 253 | Nora Rogers |
 | 222 | 249 | Annie Marie |
 | 223 | 249 | JerseyJess |
@@ -379,12 +379,12 @@
 | 371 | 136 | Sabrina Mansfield |
 | 372 | 136 | Bleu Sun Beams |
 | 373 | 136 | Blair Erin Waite |
-| 374 | 134 | Glenn Loving |
-| 375 | 134 | Tammy |
+| 374 | 134 | Tammy |
+| 375 | 134 | Glenn Loving |
 | 376 | 133 | Jen Lewis |
 | 377 | 133 | Crystal Hine |
-| 378 | 132 | Hanna Kim |
-| 379 | 132 | Andrew Thorson |
+| 378 | 132 | Andrew Thorson |
+| 379 | 132 | Hanna Kim |
 | 380 | 131 | Cheeky Setter |
 | 381 | 131 | Cheeky Snapper |
 | 382 | 130 | TotoCherue |

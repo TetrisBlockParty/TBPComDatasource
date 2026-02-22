@@ -119,8 +119,8 @@
 | 111 | 1252 | Katrina Williams Balmir |
 | 112 | 1248 | Howard Forest |
 | 113 | 1242 | Altamirano Michael |
-| 114 | 1232 | Groovy Puzzle |
-| 115 | 1232 | Isabela Shaw |
+| 114 | 1232 | Isabela Shaw |
+| 115 | 1232 | Groovy Puzzle |
 | 116 | 1226 | Vo'Landa Reels |
 | 117 | 1216 | Kristin Ruest |
 | 118 | 1215 | Megan Garrick |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -365,8 +365,8 @@
 | 357 | 496 | Blacc Blac |
 | 358 | 494 | Doowop40 |
 | 359 | 493 | Kara Gillen |
-| 360 | 492 | Armonie Smith |
-| 361 | 492 | Breezy Clusterer |
+| 360 | 492 | Breezy Clusterer |
+| 361 | 492 | Armonie Smith |
 | 362 | 491 | Michael Buckner |
 | 363 | 489 | Osun Anuket Esu |
 | 364 | 489 | g |
