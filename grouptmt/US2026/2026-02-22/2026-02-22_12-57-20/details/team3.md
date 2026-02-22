@@ -174,8 +174,8 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Chris Bell |
-| 170 | 378 | Nicole Flippo |
+| 169 | 378 | Nicole Flippo |
+| 170 | 378 | Chris Bell |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Tom Nault |
-| 185 | 357 | Stephanie Burtin |
+| 184 | 357 | Stephanie Burtin |
+| 185 | 357 | Tom Nault |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -271,11 +271,11 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
-| 269 | 233 | Ray Lader |
-| 270 | 233 | Josh Borquez |
+| 269 | 233 | Josh Borquez |
+| 270 | 233 | Ray Lader |
 | 271 | 232 | Donna |
 | 272 | 229 | Hasty Gridpiece |
 | 273 | 227 | Meowsa |

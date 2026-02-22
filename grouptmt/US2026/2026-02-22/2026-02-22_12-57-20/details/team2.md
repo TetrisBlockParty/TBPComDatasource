@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -312,8 +312,8 @@
 | 304 | 688 | ShinyRose |
 | 305 | 687 | Dee |
 | 306 | 686 | Ashley Guernsey-Martin |
-| 307 | 685 | Binyah-Binyah |
-| 308 | 685 | Brenda Pierpoint |
+| 307 | 685 | Brenda Pierpoint |
+| 308 | 685 | Binyah-Binyah |
 | 309 | 681 | Melissa Holsinger |
 | 310 | 679 | Eric Castaneda |
 | 311 | 679 | Kassandra Hunt |
@@ -421,8 +421,8 @@
 | 413 | 522 | Joseph Musick |
 | 414 | 522 | Lylymom |
 | 415 | 521 | Tj Ball |
-| 416 | 520 | Maddy Petersen |
-| 417 | 520 | Angela Lynn |
+| 416 | 520 | Angela Lynn |
+| 417 | 520 | Maddy Petersen |
 | 418 | 519 | Rob Brown |
 | 419 | 517 | Alex Dungo Hoang |
 | 420 | 517 | Amber Brion |
@@ -452,14 +452,14 @@
 | 444 | 492 | Breezy Clusterer |
 | 445 | 492 | Armonie Smith |
 | 446 | 491 | Michael Buckner |
-| 447 | 491 | Jedi |
-| 448 | 491 | Victor Obiakarije |
+| 447 | 491 | Victor Obiakarije |
+| 448 | 491 | Jedi |
 | 449 | 489 | Cassie Mercer |
 | 450 | 489 | Andrea Maher |
 | 451 | 489 | Osun Anuket Esu |
 | 452 | 488 | Christina Wsn |
-| 453 | 487 | MrsCandyfine As Wine Truss |
-| 454 | 487 | Morgan Easter |
+| 453 | 487 | Morgan Easter |
+| 454 | 487 | MrsCandyfine As Wine Truss |
 | 455 | 485 | Mamachelle Eisweirth |
 | 456 | 485 | Ann Matzkanin |
 | 457 | 485 | Dapper Dasher |
@@ -558,8 +558,8 @@
 | 550 | 417 | Alexx Anaya |
 | 551 | 416 | Ricky Fortune |
 | 552 | 414 | John |
-| 553 | 413 | Fancy Twister |
-| 554 | 413 | Lauren Fitzgerald Thomas |
+| 553 | 413 | Lauren Fitzgerald Thomas |
+| 554 | 413 | Fancy Twister |
 | 555 | 412 | Jason H Baker |
 | 556 | 411 | Mighty Spinbuilder |
 | 557 | 411 | Kristen O'Neal |
@@ -576,8 +576,8 @@
 | 568 | 404 | Cleo Sims |
 | 569 | 403 | Goofy Dasher |
 | 570 | 401 | Moua Ying |
-| 571 | 401 | De Hawkins |
-| 572 | 401 | Taylor Flowers |
+| 571 | 401 | Taylor Flowers |
+| 572 | 401 | De Hawkins |
 | 573 | 400 | Joshua Self |
 | 574 | 400 | Michael Artis |
 | 575 | 400 | Tammy Allen |
@@ -606,8 +606,8 @@
 | 598 | 387 | Bold Brickster |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
-| 601 | 384 | Party d |
-| 602 | 384 | Kelly |
+| 601 | 384 | Kelly |
+| 602 | 384 | Party d |
 | 603 | 383 | Jessica Conaway |
 | 604 | 383 | Belle Mari |
 | 605 | 382 | Lively Edgepiece |
@@ -626,8 +626,8 @@
 | 618 | 375 | Cecilia A Jenkins |
 | 619 | 375 | Belle |
 | 620 | 373 | Ashley Marie |
-| 621 | 373 | Jessica Hughes |
-| 622 | 373 | Hunter Connors |
+| 621 | 373 | Hunter Connors |
+| 622 | 373 | Jessica Hughes |
 | 623 | 372 | Ebony Deloach Bryant |
 | 624 | 372 | Jennifer Scott |
 | 625 | 371 | Brenda Messer |
@@ -661,8 +661,8 @@
 | 653 | 357 | Shannon Byrd |
 | 654 | 357 | Tristan Szolek |
 | 655 | 355 | Amanda Perez |
-| 656 | 354 | Rachel Kaminski |
-| 657 | 354 | Rickey Johnson |
+| 656 | 354 | Rickey Johnson |
+| 657 | 354 | Rachel Kaminski |
 | 658 | 352 | Rose Fx |
 | 659 | 352 | Jean FU Jagielski |
 | 660 | 352 | ruth |
@@ -1013,9 +1013,9 @@
 | 1005 | 231 | Emily Valentine |
 | 1006 | 231 | Stanley Vanekelenburg |
 | 1007 | 230 | lady |
-| 1008 | 230 | Anna Mayo |
-| 1009 | 230 | Lonna Matthews |
-| 1010 | 230 | Laura Mcfee |
+| 1008 | 230 | Lonna Matthews |
+| 1009 | 230 | Laura Mcfee |
+| 1010 | 230 | Anna Mayo |
 | 1011 | 229 | Chyrisse Norton |
 | 1012 | 229 | BbqGuru |
 | 1013 | 229 | Deidre Jenkins |

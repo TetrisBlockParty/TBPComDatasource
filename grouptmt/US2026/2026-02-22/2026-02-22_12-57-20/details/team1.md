@@ -127,8 +127,8 @@
 | 119 | 316 | Ly Phethmany |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Jason Jones |
-| 123 | 310 | Seth Wesson |
+| 122 | 310 | Seth Wesson |
+| 123 | 310 | Jason Jones |
 | 124 | 308 | Sharon Reynolds |
 | 125 | 306 | Happy Basegrid |
 | 126 | 304 | Nicole Roseberry Weber |
@@ -139,16 +139,16 @@
 | 131 | 290 | Death |
 | 132 | 290 | Sarah Roberts |
 | 133 | 285 | Ananda Mendez |
-| 134 | 284 | Rachael |
-| 135 | 284 | Emily Adelaide Wheatley |
+| 134 | 284 | Emily Adelaide Wheatley |
+| 135 | 284 | Rachael |
 | 136 | 283 | Franswa |
 | 137 | 282 | Tyler Werts |
 | 138 | 282 | Timothy Dew |
 | 139 | 282 | Snippy Wipebuilder |
 | 140 | 282 | Cool Shiftsnap |
 | 141 | 276 | Dandy Basegrid |
-| 142 | 270 | Mandyy Rae |
-| 143 | 270 | Ash Galvan |
+| 142 | 270 | Ash Galvan |
+| 143 | 270 | Mandyy Rae |
 | 144 | 268 | GATOR |
 | 145 | 265 | SkipTheSadSauce |
 | 146 | 265 | Nutty Spinblock |
