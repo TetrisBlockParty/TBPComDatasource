@@ -76,8 +76,8 @@
 | 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | Julian Garcia |
-| 71 | 647 | Shauna Havard |
-| 72 | 647 | KM8 |
+| 71 | 647 | KM8 |
+| 72 | 647 | Shauna Havard |
 | 73 | 646 | Jacqueline Helm |
 | 74 | 641 | Carolyn Wallace |
 | 75 | 626 | Brittney Griggs |
@@ -130,8 +130,8 @@
 | 122 | 404 | Courtney Cicoria |
 | 123 | 400 | Ericca Eldridge |
 | 124 | 393 | Carlton Unfiltered |
-| 125 | 391 | Ramel Rhodes |
-| 126 | 391 | Austin Owens |
+| 125 | 391 | Austin Owens |
+| 126 | 391 | Ramel Rhodes |
 | 127 | 377 | Carrie Brian |
 | 128 | 373 | Joseph Guthrie |
 | 129 | 369 | Nope Young |
@@ -255,21 +255,21 @@
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | James Hurley Jr. |
-| 251 | 205 | Keith Kelley |
+| 250 | 205 | Keith Kelley |
+| 251 | 205 | James Hurley Jr. |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |
-| 255 | 200 | Lori |
-| 256 | 200 | Googenheim |
+| 255 | 200 | Googenheim |
+| 256 | 200 | Lori |
 | 257 | 199 | Orchislactea |
 | 258 | 198 | Angelito |
 | 259 | 198 | Calvin Dennis |
 | 260 | 198 | Silly SeaWeed |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | Snippy Puzzle |
-| 264 | 195 | 中山成巳 |
+| 263 | 195 | 中山成巳 |
+| 264 | 195 | Snippy Puzzle |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |
@@ -283,8 +283,8 @@
 | 275 | 185 | Morti |
 | 276 | 183 | Twisty Risebuilder |
 | 277 | 182 | TinyLegoRose |
-| 278 | 181 | Jackie Marie |
-| 279 | 181 | Carter Jones |
+| 278 | 181 | Carter Jones |
+| 279 | 181 | Jackie Marie |
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
@@ -294,8 +294,8 @@
 | 286 | 171 | Autumn Kumzi |
 | 287 | 170 | Cynthia Boudreau |
 | 288 | 170 | Elie Pean |
-| 289 | 169 | Daring Pivot |
-| 290 | 169 | Jessica Atkinson |
+| 289 | 169 | Jessica Atkinson |
+| 290 | 169 | Daring Pivot |
 | 291 | 168 | Kathy Allen |
 | 292 | 168 | Brandi Durig |
 | 293 | 168 | Zippy Tilt |

@@ -312,8 +312,8 @@
 | 304 | 787 | Laura McCarthey |
 | 305 | 783 | Lisa Ongtowasruk |
 | 306 | 781 | Hong Tang |
-| 307 | 777 | Jessicah Myers |
-| 308 | 777 | Tesha Oldaker |
+| 307 | 777 | Tesha Oldaker |
+| 308 | 777 | Jessicah Myers |
 | 309 | 777 | Samantha Jo |
 | 310 | 774 | Ginnell Browner |
 | 311 | 773 | Beth |
@@ -606,8 +606,8 @@
 | 598 | 450 | Mike Aprilliano |
 | 599 | 450 | Rich Sullivan |
 | 600 | 449 | Kristi Biddinger |
-| 601 | 448 | Lina Sanders |
-| 602 | 448 | Darlene Bowman |
+| 601 | 448 | Darlene Bowman |
+| 602 | 448 | Lina Sanders |
 | 603 | 447 | Boozi |
 | 604 | 446 | NanDa Cruzan VI |
 | 605 | 445 | Michelle Sager |
@@ -628,8 +628,8 @@
 | 620 | 434 | bbv |
 | 621 | 433 | Tom Steffen |
 | 622 | 432 | Abimbola Bimbo |
-| 623 | 431 | Quinn |
-| 624 | 431 | Hunter Connors |
+| 623 | 431 | Hunter Connors |
+| 624 | 431 | Quinn |
 | 625 | 429 | Goofy Catcher |
 | 626 | 429 | Angel Hunnewell |
 | 627 | 429 | Tabs Reichert |
@@ -660,8 +660,8 @@
 | 652 | 414 | Jasmine Kenney |
 | 653 | 414 | Daniel Amos |
 | 654 | 413 | Kristen O'Neal |
-| 655 | 413 | Kimberly Ann |
-| 656 | 413 | Moist_B-hole |
+| 655 | 413 | Moist_B-hole |
+| 656 | 413 | Kimberly Ann |
 | 657 | 412 | Jason H Baker |
 | 658 | 411 | Christina Ashley |
 | 659 | 410 | Belle |

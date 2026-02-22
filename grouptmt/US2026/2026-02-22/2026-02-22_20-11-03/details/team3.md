@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -237,8 +237,8 @@
 | 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Noyb Adam |
-| 232 | 341 | Ashley Tookes |
-| 233 | 341 | Samantha Lynn |
+| 232 | 341 | Samantha Lynn |
+| 233 | 341 | Ashley Tookes |
 | 234 | 340 | Ammmmmmy |
 | 235 | 338 | Gumbo |
 | 236 | 338 | Rebecca Funderburk Kirby |
@@ -263,8 +263,8 @@
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | Grams |
-| 259 | 298 | MsBee |
+| 258 | 298 | MsBee |
+| 259 | 298 | Grams |
 | 260 | 297 | Jojo M |
 | 261 | 296 | Hoppy Buildout |
 | 262 | 296 | Katrina Turner |
