@@ -172,8 +172,8 @@
 | 164 | 973 | Kim Dean |
 | 165 | 951 | Cynthia Ward |
 | 166 | 950 | Teresa Gillmore |
-| 167 | 941 | Marie Boyd Faulk |
-| 168 | 941 | Desiree Harris Rosch |
+| 167 | 941 | Desiree Harris Rosch |
+| 168 | 941 | Marie Boyd Faulk |
 | 169 | 940 | Cool Clearer |
 | 170 | 937 | Shannon Joslin |
 | 171 | 935 | William Meussner |
@@ -198,12 +198,12 @@
 | 190 | 850 | Missie Lawson Gebhardt |
 | 191 | 849 | Hillary Crawford |
 | 192 | 849 | Jennifer Kistner |
-| 193 | 845 | Felicia Lynn |
-| 194 | 845 | April Dawn Gussler |
+| 193 | 845 | April Dawn Gussler |
+| 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -1989,7 +1989,7 @@
 | 1981 | 101 | Kathy Gellinger |
 | 1982 | 101 | Chipper Risebuilder |
 | 1983 | 101 | KimLevin GregHutchinson |
-| 1984 | 101 | Rebecca Davis Yoblonski |
+| 1984 | 101 | Allison Travis |
 | 1985 | 101 | Frothy Zone |
 | 1986 | 101 | JianXiang Jimmy Lee |
 | 1987 | 101 | Jayce Johnson-Smith |

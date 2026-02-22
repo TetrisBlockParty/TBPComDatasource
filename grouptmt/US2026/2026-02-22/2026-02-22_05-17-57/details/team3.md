@@ -234,14 +234,14 @@
 | 226 | 249 | JerseyJess |
 | 227 | 249 | Annie Marie |
 | 228 | 246 | Eon Harris |
-| 229 | 246 | Rochelle Hazelett |
-| 230 | 246 | Peppy Shifter |
+| 229 | 246 | Peppy Shifter |
+| 230 | 246 | Rochelle Hazelett |
 | 231 | 245 | Latoya Mayne |
 | 232 | 240 | Jimmie Clemons |
 | 233 | 236 | Jess Bissett |
 | 234 | 235 | LaNette Morgan |
-| 235 | 234 | Grego Daniel |
-| 236 | 234 | Nikki Pags |
+| 235 | 234 | Nikki Pags |
+| 236 | 234 | Grego Daniel |
 | 237 | 233 | Ray Lader |
 | 238 | 232 | Donna |
 | 239 | 228 | Brenda Schmid Wood |

@@ -51,8 +51,8 @@
 | 43 | 646 | Jacqueline Helm |
 | 44 | 634 | Anthony Bryan Riva |
 | 45 | 632 | Kimyatta Cavin |
-| 46 | 630 | Chilly Line |
-| 47 | 630 | Dustee Craddock-Harrison |
+| 46 | 630 | Dustee Craddock-Harrison |
+| 47 | 630 | Chilly Line |
 | 48 | 627 | Jonathan Kimbrough |
 | 49 | 623 | Robin Getchel |
 | 50 | 614 | KM8 |
@@ -168,13 +168,13 @@
 | 160 | 203 | Chris Bernstein |
 | 161 | 203 | Katherine Crane |
 | 162 | 202 | Zippy Gridlock |
-| 163 | 201 | Chance Strickland |
-| 164 | 201 | Melvin Baird |
+| 163 | 201 | Melvin Baird |
+| 164 | 201 | Chance Strickland |
 | 165 | 200 | Jeff Brian Gates |
 | 166 | 198 | Jessica Lynn Cutlip |
 | 167 | 195 | Malakai Darien Fox |
-| 168 | 194 | Zany Twisterfit |
-| 169 | 194 | Chilly Crasher |
+| 168 | 194 | Chilly Crasher |
+| 169 | 194 | Zany Twisterfit |
 | 170 | 192 | Shauna Havard |
 | 171 | 189 | Calvin Dennis |
 | 172 | 189 | Stacey Stano |

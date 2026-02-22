@@ -169,8 +169,8 @@
 | 161 | 206 | BadG52 |
 | 162 | 205 | Tater |
 | 163 | 204 | Lacy Wolfe |
-| 164 | 203 | Paula Martin |
-| 165 | 203 | LaFontaine Leslie |
+| 164 | 203 | LaFontaine Leslie |
+| 165 | 203 | Paula Martin |
 | 166 | 201 | Sam Williams |
 | 167 | 199 | Basment Living |
 | 168 | 198 | Shiny Gridmatch |
@@ -236,8 +236,8 @@
 | 228 | 150 | Adele Rahman |
 | 229 | 150 | Agustin Duarte Orozco |
 | 230 | 149 | Chirpy Smasher |
-| 231 | 147 | Davery Spencer Adair |
-| 232 | 147 | J.F. Fields |
+| 231 | 147 | J.F. Fields |
+| 232 | 147 | Davery Spencer Adair |
 | 233 | 146 | Witty Builderfit |
 | 234 | 145 | Tipsy Riseclear |
 | 235 | 144 | Cranky Pattern |
