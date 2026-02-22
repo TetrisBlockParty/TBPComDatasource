@@ -63,8 +63,8 @@
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
 | 57 | 896 | Elaine Webb Graves |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -187,8 +187,8 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Jone |
-| 183 | 347 | Nicole Flippo |
+| 182 | 347 | Nicole Flippo |
+| 183 | 347 | Jone |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
@@ -206,8 +206,8 @@
 | 198 | 311 | Araceli Parra |
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 310 | Danielle Balcom |
-| 201 | 308 | Daryn Elliott |
-| 202 | 308 | Rania Zaqout |
+| 201 | 308 | Rania Zaqout |
+| 202 | 308 | Daryn Elliott |
 | 203 | 307 | RickyG |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -252,8 +252,8 @@
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | Tiffany Davie |
-| 248 | 256 | KayB |
+| 247 | 256 | KayB |
+| 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | Annie Marie |
@@ -285,16 +285,16 @@
 | 277 | 220 | rosy |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Cheryl Hinch Tenbrook |
-| 281 | 216 | Twisty Brick LT |
+| 280 | 216 | Twisty Brick LT |
+| 281 | 216 | Cheryl Hinch Tenbrook |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Angela Scott |
 | 284 | 214 | Amy Fuller Heaton |
 | 285 | 214 | Rebel124 |
 | 286 | 212 | Sunny Rotater |
 | 287 | 212 | Desiree Gold |
-| 288 | 211 | Velma Mull |
-| 289 | 211 | El Chapa |
+| 288 | 211 | El Chapa |
+| 289 | 211 | Velma Mull |
 | 290 | 211 | Khaleada McGill Banks |
 | 291 | 210 | Lizabeth Fox |
 | 292 | 209 | Micayah Stevens |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Snarky McFace |
 | 348 | 166 | Angella Lyons |
@@ -438,8 +438,8 @@
 | 430 | 134 | Cheery Brickster |
 | 431 | 134 | Tammy |
 | 432 | 133 | Jen Lewis |
-| 433 | 132 | Andrew Thorson |
-| 434 | 132 | Hanna Kim |
+| 433 | 132 | Hanna Kim |
+| 434 | 132 | Andrew Thorson |
 | 435 | 131 | Cheeky Setter |
 | 436 | 130 | Sarah Whalen |
 | 437 | 130 | TotoCherue |
@@ -617,8 +617,8 @@
 | 609 | 98 | Adrea Ann |
 | 610 | 98 | Christine Vosburgh |
 | 611 | 97 | Daisy Rocha |
-| 612 | 97 | Rebecca Lynn |
-| 613 | 97 | Tina Baurdau |
+| 612 | 97 | Tina Baurdau |
+| 613 | 97 | Rebecca Lynn |
 | 614 | 96 | D3NO |
 | 615 | 96 | Jason |
 | 616 | 96 | Kelly |

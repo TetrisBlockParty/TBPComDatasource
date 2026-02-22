@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -193,8 +193,8 @@
 | 185 | 198 | Jessica Lynn Cutlip |
 | 186 | 196 | Oscar Alberto Perez |
 | 187 | 195 | ZeeZee |
-| 188 | 195 | Malakai Darien Fox |
-| 189 | 195 | 中山成巳 |
+| 188 | 195 | 中山成巳 |
+| 189 | 195 | Malakai Darien Fox |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Klo |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | Rio Rocha |
-| 210 | 174 | JPW |
+| 209 | 174 | JPW |
+| 210 | 174 | Rio Rocha |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |

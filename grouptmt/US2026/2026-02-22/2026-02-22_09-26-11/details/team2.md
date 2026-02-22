@@ -246,12 +246,12 @@
 | 238 | 787 | Laura McCarthey |
 | 239 | 786 | Poppy Snap |
 | 240 | 777 | Eric Carlson |
-| 241 | 777 | Barbra Miller |
-| 242 | 777 | Tesha Oldaker |
+| 241 | 777 | Tesha Oldaker |
+| 242 | 777 | Barbra Miller |
 | 243 | 777 | Jessicah Myers |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | Sam Joe |
-| 246 | 772 | William Hunt |
+| 245 | 772 | William Hunt |
+| 246 | 772 | Sam Joe |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -565,8 +565,8 @@
 | 557 | 394 | Taryece Gause |
 | 558 | 393 | Arlene Joy Belicina |
 | 559 | 393 | Alexandra Weir |
-| 560 | 393 | bbv |
-| 561 | 393 | Jamie West |
+| 560 | 393 | Jamie West |
+| 561 | 393 | bbv |
 | 562 | 393 | Deyawn Smith |
 | 563 | 391 | Anthony Huebel |
 | 564 | 391 | Adam Simmons |
@@ -962,14 +962,14 @@
 | 954 | 235 | Shilo Anderson |
 | 955 | 234 | Joanna L. Abad |
 | 956 | 234 | Trina Harrison |
-| 957 | 234 | Synn |
-| 958 | 234 | Kim McGrath |
+| 957 | 234 | Kim McGrath |
+| 958 | 234 | Synn |
 | 959 | 234 | Jannan Haimour |
 | 960 | 233 | Allison Hewitt |
 | 961 | 233 | Andrew Engman |
 | 962 | 233 | Jessica Sutter |
-| 963 | 233 | Nerdy Riserfit |
-| 964 | 233 | Myleaha Holley |
+| 963 | 233 | Myleaha Holley |
+| 964 | 233 | Nerdy Riserfit |
 | 965 | 232 | P. D. Paige |
 | 966 | 231 | Vung Nguyen |
 | 967 | 231 | Michelle Fleming Luna |
@@ -1149,8 +1149,8 @@
 | 1141 | 194 | Snappy Slamdrop |
 | 1142 | 194 | Brenda |
 | 1143 | 193 | Kristen Casale Berry |
-| 1144 | 193 | Spunky Dash |
-| 1145 | 193 | Tammie Siegfried |
+| 1144 | 193 | Tammie Siegfried |
+| 1145 | 193 | Spunky Dash |
 | 1146 | 193 | Miranda Morris |
 | 1147 | 193 | Kelly Ann McCormick |
 | 1148 | 193 | Dottie Turbeville Creel |

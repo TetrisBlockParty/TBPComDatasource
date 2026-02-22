@@ -267,8 +267,8 @@
 | 259 | 152 | Strig |
 | 260 | 152 | Brave Wrecker |
 | 261 | 151 | Gilbert Ortiz Jr. |
-| 262 | 150 | Agustin Duarte Orozco |
-| 263 | 150 | Adele Rahman |
+| 262 | 150 | Adele Rahman |
+| 263 | 150 | Agustin Duarte Orozco |
 | 264 | 149 | Jessica Russell |
 | 265 | 147 | J.F. Fields |
 | 266 | 145 | Tipsy Riseclear |
