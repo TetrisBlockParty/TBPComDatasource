@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Domo Washington |
-| 107 | 500 | Kristie |
+| 106 | 500 | Kristie |
+| 107 | 500 | Domo Washington |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -209,8 +209,8 @@
 | 201 | 272 | Dee Franklin |
 | 202 | 272 | opf |
 | 203 | 271 | Ashley Muncey |
-| 204 | 267 | Terry Jo Jones |
-| 205 | 267 | Denise Nardoni |
+| 204 | 267 | Denise Nardoni |
+| 205 | 267 | Terry Jo Jones |
 | 206 | 265 | Sarah Moyer |
 | 207 | 265 | Scott Carleton |
 | 208 | 263 | Brittany |
@@ -504,8 +504,8 @@
 | 496 | 100 | Monica Crespo |
 | 497 | 100 | TEDDY |
 | 498 | 100 | Stephanie Bradley |
-| 499 | 99 | Elyse Grabowsky |
-| 500 | 99 | Todd Hall |
+| 499 | 99 | Todd Hall |
+| 500 | 99 | Elyse Grabowsky |
 | 501 | 99 | joz |
 | 502 | 99 | Angie King |
 | 503 | 99 | Crystel b520 |

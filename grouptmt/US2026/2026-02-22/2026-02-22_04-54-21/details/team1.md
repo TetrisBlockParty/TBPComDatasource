@@ -134,13 +134,13 @@
 | 126 | 252 | Dena Kayy |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
-| 129 | 243 | Chelsea Dahlquist |
-| 130 | 243 | Trippy Redd |
+| 129 | 243 | Trippy Redd |
+| 130 | 243 | Chelsea Dahlquist |
 | 131 | 241 | John J. Cronin |
 | 132 | 236 | Mandyy Rae |
 | 133 | 232 | Jessi Sauer |
-| 134 | 230 | Frothy Pattern |
-| 135 | 230 | Billie Dawn Sparks |
+| 134 | 230 | Billie Dawn Sparks |
+| 135 | 230 | Frothy Pattern |
 | 136 | 228 | ALFD |
 | 137 | 226 | Kandae |
 | 138 | 223 | lil mickey |

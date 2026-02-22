@@ -81,8 +81,8 @@
 | 73 | 1658 | Alexandra Reese |
 | 74 | 1644 | Luna |
 | 75 | 1620 | Sam Smith |
-| 76 | 1603 | Gabby Jenner |
-| 77 | 1603 | RdRydnHd |
+| 76 | 1603 | RdRydnHd |
+| 77 | 1603 | Gabby Jenner |
 | 78 | 1599 | Ray Ray Prado |
 | 79 | 1587 | Rob Riggin |
 | 80 | 1553 | Charie Holland |
@@ -119,8 +119,8 @@
 | 111 | 1252 | Katrina Williams Balmir |
 | 112 | 1248 | Howard Forest |
 | 113 | 1242 | Altamirano Michael |
-| 114 | 1232 | Groovy Puzzle |
-| 115 | 1232 | Isabela Shaw |
+| 114 | 1232 | Isabela Shaw |
+| 115 | 1232 | Groovy Puzzle |
 | 116 | 1226 | Vo'Landa Reels |
 | 117 | 1216 | Kristin Ruest |
 | 118 | 1215 | Megan Garrick |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
