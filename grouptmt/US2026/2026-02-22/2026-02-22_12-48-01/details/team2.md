@@ -615,8 +615,8 @@
 | 607 | 382 | Amber Gray |
 | 608 | 381 | Nicky Jackson |
 | 609 | 381 | Happy Caster |
-| 610 | 380 | Christy Long |
-| 611 | 380 | Giggy Grabber |
+| 610 | 380 | Giggy Grabber |
+| 611 | 380 | Christy Long |
 | 612 | 379 | Cini |
 | 613 | 378 | Tina Marie |
 | 614 | 378 | TF Dyer |
@@ -636,11 +636,11 @@
 | 628 | 369 | Juan Castillo |
 | 629 | 367 | Connie Lepore-Mann |
 | 630 | 367 | Jessica Lamb |
-| 631 | 366 | Courtney Burcham |
-| 632 | 366 | Lawanda Forbes |
+| 631 | 366 | Lawanda Forbes |
+| 632 | 366 | Courtney Burcham |
 | 633 | 365 | Christina Lewis-Vickers |
-| 634 | 365 | Susan Arnburg |
-| 635 | 365 | Audrey Jones |
+| 634 | 365 | Audrey Jones |
+| 635 | 365 | Susan Arnburg |
 | 636 | 364 | Shinette Dobson |
 | 637 | 364 | Matthew Joseph Acevedo |
 | 638 | 363 | Kia Humphery |

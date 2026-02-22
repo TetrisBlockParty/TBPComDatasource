@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -146,10 +146,10 @@
 | 138 | 449 | Danielle Rhoades |
 | 139 | 448 | Karon Griffin |
 | 140 | 445 | Shannon Matthew Byers |
-| 141 | 445 | Jacqueline Rodriguez |
-| 142 | 445 | Kristie McFarland |
-| 143 | 435 | Daryn Elliott |
-| 144 | 435 | Michelle |
+| 141 | 445 | Kristie McFarland |
+| 142 | 445 | Jacqueline Rodriguez |
+| 143 | 435 | Michelle |
+| 144 | 435 | Daryn Elliott |
 | 145 | 432 | Jenny Hrndz |
 | 146 | 427 | Wendy Dearden |
 | 147 | 419 | Brenda Lee Vander Molen |
@@ -242,11 +242,11 @@
 | 234 | 275 | Cassandra Bryant |
 | 235 | 274 | Tye Stovall |
 | 236 | 272 | Dee Franklin |
-| 237 | 271 | Cass Mendoza |
-| 238 | 271 | Ashley Muncey |
+| 237 | 271 | Ashley Muncey |
+| 238 | 271 | Cass Mendoza |
 | 239 | 271 | Grego Daniel |
-| 240 | 269 | Trisha Balmer |
-| 241 | 269 | Eon Harris |
+| 240 | 269 | Eon Harris |
+| 241 | 269 | Trisha Balmer |
 | 242 | 268 | Carrie Huskey |
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
@@ -257,13 +257,13 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
-| 257 | 249 | Annie Marie |
-| 258 | 249 | JerseyJess |
+| 257 | 249 | JerseyJess |
+| 258 | 249 | Annie Marie |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -290,15 +290,15 @@
 | 282 | 220 | Tosha Griffey |
 | 283 | 220 | rosy |
 | 284 | 218 | Michael Lucado |
-| 285 | 216 | Twisty Brick LT |
-| 286 | 216 | Cheryl Hinch Tenbrook |
+| 285 | 216 | Cheryl Hinch Tenbrook |
+| 286 | 216 | Twisty Brick LT |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
 | 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Angela Scott |
 | 290 | 214 | Rebel124 |
 | 291 | 213 | Nicholas Roddy |
-| 292 | 212 | Sunny Rotater |
-| 293 | 212 | Desiree Gold |
+| 292 | 212 | Desiree Gold |
+| 293 | 212 | Sunny Rotater |
 | 294 | 212 | Jana Polk |
 | 295 | 211 | Khaleada McGill Banks |
 | 296 | 211 | El Chapa |
@@ -376,8 +376,8 @@
 | 368 | 165 | Rainbow77375 |
 | 369 | 164 | Ashley Rufus Bythcez |
 | 370 | 164 | momo |
-| 371 | 163 | Christine Trester |
-| 372 | 163 | Diana Ibarra |
+| 371 | 163 | Diana Ibarra |
+| 372 | 163 | Christine Trester |
 | 373 | 163 | Ava Petito |
 | 374 | 162 | Loopy Fallzone |
 | 375 | 162 | Skinny Baldez |
@@ -430,7 +430,7 @@
 | 422 | 146 | Sara Dunn |
 | 423 | 144 | Tenisha Semidey |
 | 424 | 144 | Amber Groover Taylor |
-| 425 | 144 | Tenisha Semidey |
+| 425 | 144 | Blair Erin Waite |
 | 426 | 144 | Crystal Hine |
 | 427 | 143 | Deseree Ewing |
 | 428 | 142 | Gray Hicks |
@@ -449,8 +449,8 @@
 | 441 | 140 | Alison Baus |
 | 442 | 139 | Beppy |
 | 443 | 139 | Paula Little |
-| 444 | 138 | Kellie Montgomery |
-| 445 | 138 | Bleu Sun Beams |
+| 444 | 138 | Bleu Sun Beams |
+| 445 | 138 | Kellie Montgomery |
 | 446 | 137 | Giggly Brickroll |
 | 447 | 136 | Stephanie Zahm |
 | 448 | 136 | Sabrina Mansfield |

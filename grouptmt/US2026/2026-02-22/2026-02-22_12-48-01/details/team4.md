@@ -63,11 +63,11 @@
 | 55 | 654 | Chilly Line |
 | 56 | 647 | KM8 |
 | 57 | 646 | Jacqueline Helm |
-| 58 | 636 | Kimyatta Cavin |
-| 59 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Dustee Craddock-Harrison |
+| 59 | 636 | Kimyatta Cavin |
 | 60 | 623 | Robin Getchel |
-| 61 | 614 | TheNeesh50 |
-| 62 | 614 | Justin Hannigan |
+| 61 | 614 | Justin Hannigan |
+| 62 | 614 | TheNeesh50 |
 | 63 | 599 | Brittney Griggs |
 | 64 | 593 | Lisa Davis |
 | 65 | 571 | Kimberly Love |
@@ -75,8 +75,8 @@
 | 67 | 556 | Jamie Mann-Deichmann |
 | 68 | 554 | Julian Garcia |
 | 69 | 544 | Amy Suckarieh |
-| 70 | 533 | Chris Baggett |
-| 71 | 533 | Eric Mcgaughy |
+| 70 | 533 | Eric Mcgaughy |
+| 71 | 533 | Chris Baggett |
 | 72 | 530 | Yoset Mejia |
 | 73 | 527 | Sammy Noguera |
 | 74 | 526 | TeeJ |

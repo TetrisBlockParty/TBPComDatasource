@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -91,9 +91,9 @@
 | 83 | 400 | Cynthia Bradley |
 | 84 | 399 | Nerdy Linkblock |
 | 85 | 397 | Tdub |
-| 86 | 390 | Lori Bales |
+| 86 | 390 | Candy Jones |
 | 87 | 390 | Goose egg |
-| 88 | 390 | Candy Jones |
+| 88 | 390 | Lori Bales |
 | 89 | 389 | Trina Gee |
 | 90 | 388 | Jennifer ManWarren |
 | 91 | 383 | Loony Fitzone |
@@ -233,8 +233,8 @@
 | 225 | 187 | GringaLinga |
 | 226 | 186 | Margo Wagner |
 | 227 | 184 | Chris Sigurdson |
-| 228 | 183 | Andrew Boone |
-| 229 | 183 | Amy Hess |
+| 228 | 183 | Amy Hess |
+| 229 | 183 | Andrew Boone |
 | 230 | 182 | Phu ckalldems |
 | 231 | 181 | Melissa Lemmon |
 | 232 | 180 | Jessie Lynn |
