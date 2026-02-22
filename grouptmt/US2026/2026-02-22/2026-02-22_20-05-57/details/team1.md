@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -147,8 +147,8 @@
 | 139 | 340 | Tanya Carpenter-Reynolds |
 | 140 | 336 | Elaine Elaine |
 | 141 | 334 | Jaimie Lynn |
-| 142 | 333 | Gracie |
-| 143 | 333 | GATOR |
+| 142 | 333 | GATOR |
+| 143 | 333 | Gracie |
 | 144 | 332 | Lehrin Maria |
 | 145 | 332 | Kristen Gideon |
 | 146 | 332 | Fmp |
@@ -202,8 +202,8 @@
 | 194 | 264 | Jenny Gingrich Fuentes |
 | 195 | 261 | Witty Builderfit |
 | 196 | 256 | Chris65 |
-| 197 | 254 | Giggly Builderline |
-| 198 | 254 | Al Smith Jr |
+| 197 | 254 | Al Smith Jr |
+| 198 | 254 | Giggly Builderline |
 | 199 | 253 | Jamie Jury |
 | 200 | 252 | Dena Kayy |
 | 201 | 249 | Lakeisha Chapman |
@@ -218,8 +218,8 @@
 | 210 | 239 | Lacy Wolfe |
 | 211 | 238 | Tiffany Smith |
 | 212 | 236 | Matt Iaccheo |
-| 213 | 235 | MRdot Rooski |
-| 214 | 235 | Desiree Deschaine Havee |
+| 213 | 235 | Desiree Deschaine Havee |
+| 214 | 235 | MRdot Rooski |
 | 215 | 234 | Paula Martin |
 | 216 | 233 | LC |
 | 217 | 232 | Basment Living |

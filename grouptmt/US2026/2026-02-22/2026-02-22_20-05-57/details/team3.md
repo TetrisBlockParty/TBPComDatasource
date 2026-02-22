@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -233,8 +233,8 @@
 | 225 | 347 | Trisha Balmer |
 | 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Roary Danner |
-| 229 | 344 | Rania Zaqout |
+| 228 | 344 | Rania Zaqout |
+| 229 | 344 | Roary Danner |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Samantha Lynn |
 | 232 | 341 | Ashley Tookes |
@@ -242,8 +242,8 @@
 | 234 | 340 | Ammmmmmy |
 | 235 | 338 | Gumbo |
 | 236 | 332 | Bmo |
-| 237 | 330 | victory |
-| 238 | 330 | Rebecca Funderburk Kirby |
+| 237 | 330 | Rebecca Funderburk Kirby |
+| 238 | 330 | victory |
 | 239 | 326 | Dee Franklin |
 | 240 | 326 | Brittany |
 | 241 | 324 | Sissy Lowery Davis |
@@ -275,9 +275,9 @@
 | 267 | 289 | Duane Bright |
 | 268 | 289 | Danielle Weikel |
 | 269 | 287 | Sabrina Hardrick |
-| 270 | 286 | Terry Jo Jones |
-| 271 | 286 | Tye Stovall |
-| 272 | 286 | Christian Werndl |
+| 270 | 286 | Christian Werndl |
+| 271 | 286 | Terry Jo Jones |
+| 272 | 286 | Tye Stovall |
 | 273 | 283 | Heather Green |
 | 274 | 279 | Connie Mohler-Fair |
 | 275 | 278 | LaShey Thompson |
@@ -546,8 +546,8 @@
 | 538 | 148 | Groovy Blockclear |
 | 539 | 148 | Kate Farok |
 | 540 | 148 | neci |
-| 541 | 147 | Carrie Resler |
-| 542 | 147 | Heather Bateman |
+| 541 | 147 | Heather Bateman |
+| 542 | 147 | Carrie Resler |
 | 543 | 147 | Megan Rathmanner |
 | 544 | 146 | Amanda Declue |
 | 545 | 146 | Sara Dunn |

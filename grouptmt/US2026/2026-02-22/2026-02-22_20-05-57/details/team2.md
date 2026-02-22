@@ -463,8 +463,8 @@
 | 455 | 566 | Leah Keesling |
 | 456 | 565 | Lyndi Robinson Wakefield |
 | 457 | 565 | Jaycee |
-| 458 | 563 | Sarah Massey |
-| 459 | 563 | snkylnk |
+| 458 | 563 | snkylnk |
+| 459 | 563 | Sarah Massey |
 | 460 | 562 | AISlop |
 | 461 | 561 | Lonne Emade |
 | 462 | 559 | Blacc Blac |
@@ -589,8 +589,8 @@
 | 581 | 462 | Daphne Jordan |
 | 582 | 461 | Lucy Marshall |
 | 583 | 460 | LaWanda Powell |
-| 584 | 460 | Funky Caster |
-| 585 | 460 | Gloria Ininahazwe |
+| 584 | 460 | Gloria Ininahazwe |
+| 585 | 460 | Funky Caster |
 | 586 | 460 | Tara Lynn Janes |
 | 587 | 459 | Shyenn Gadsby |
 | 588 | 458 | Jessica S Flecha |
@@ -876,8 +876,8 @@
 | 868 | 313 | Natasha Edmonds |
 | 869 | 313 | N00D3S |
 | 870 | 312 | Heather Renee Jeffers |
-| 871 | 311 | SwifftFox |
-| 872 | 311 | Audra Williams |
+| 871 | 311 | Audra Williams |
+| 872 | 311 | SwifftFox |
 | 873 | 311 | Megan Phillips |
 | 874 | 311 | Nat |
 | 875 | 310 | Cozy Drop |
@@ -1068,8 +1068,8 @@
 | 1060 | 268 | Dione |
 | 1061 | 268 | Sassy Linkroll |
 | 1062 | 267 | Sanaa Nounoussa |
-| 1063 | 267 | Renee Bowers |
-| 1064 | 267 | SpaceCase085 |
+| 1063 | 267 | SpaceCase085 |
+| 1064 | 267 | Renee Bowers |
 | 1065 | 266 | Quiksilver |
 | 1066 | 266 | Edralin Custodio |
 | 1067 | 266 | Chris L Gustafson |

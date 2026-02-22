@@ -76,8 +76,8 @@
 | 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | Julian Garcia |
-| 71 | 647 | KM8 |
-| 72 | 647 | Shauna Havard |
+| 71 | 647 | Shauna Havard |
+| 72 | 647 | KM8 |
 | 73 | 646 | Jacqueline Helm |
 | 74 | 641 | Carolyn Wallace |
 | 75 | 626 | Brittney Griggs |
@@ -118,8 +118,8 @@
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
 | 112 | 429 | Christina LR |
-| 113 | 427 | Jolly Dashfit |
-| 114 | 427 | KJ Pool |
+| 113 | 427 | KJ Pool |
+| 114 | 427 | Jolly Dashfit |
 | 115 | 426 | Ren Mc |
 | 116 | 422 | shar |
 | 117 | 418 | Dizzy Tiley |
