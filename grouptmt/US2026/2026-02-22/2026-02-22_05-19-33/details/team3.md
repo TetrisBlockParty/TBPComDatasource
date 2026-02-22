@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | CeceGeGe |
-| 161 | 353 | Shunta Jacobs |
+| 160 | 353 | Shunta Jacobs |
+| 161 | 353 | CeceGeGe |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 348 | Chasity |
@@ -240,8 +240,8 @@
 | 232 | 240 | Jimmie Clemons |
 | 233 | 236 | Jess Bissett |
 | 234 | 235 | LaNette Morgan |
-| 235 | 234 | Grego Daniel |
-| 236 | 234 | Nikki Pags |
+| 235 | 234 | Nikki Pags |
+| 236 | 234 | Grego Daniel |
 | 237 | 233 | Ray Lader |
 | 238 | 232 | Donna |
 | 239 | 228 | Brenda Schmid Wood |

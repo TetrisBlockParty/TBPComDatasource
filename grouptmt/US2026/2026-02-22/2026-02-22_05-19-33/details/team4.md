@@ -30,8 +30,8 @@
 | 22 | 898 | Isabel Aguilar |
 | 23 | 883 | Dustin Robert |
 | 24 | 877 | Koshin Abdirahman |
-| 25 | 873 | Michelle Pearman |
-| 26 | 873 | Elizabeth Sallas |
+| 25 | 873 | Elizabeth Sallas |
+| 26 | 873 | Michelle Pearman |
 | 27 | 871 | Denny Shives |
 | 28 | 865 | Devinlee Brown |
 | 29 | 846 | Christine Marie |
