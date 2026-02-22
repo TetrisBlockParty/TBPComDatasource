@@ -168,11 +168,11 @@
 | 160 | 445 | Shannon Matthew Byers |
 | 161 | 438 | Logan Naccarato |
 | 162 | 438 | Valerie Gendron |
-| 163 | 432 | Luciana Braganca Vieira |
-| 164 | 432 | Jenny Hrndz |
-| 165 | 430 | Joye Sims Binion |
-| 166 | 430 | Tasha Gillespie |
-| 167 | 430 | Jeni Dow |
+| 163 | 432 | Jenny Hrndz |
+| 164 | 432 | Luciana Braganca Vieira |
+| 165 | 430 | Tasha Gillespie |
+| 166 | 430 | Jeni Dow |
+| 167 | 430 | Joye Sims Binion |
 | 168 | 427 | Wendy Dearden |
 | 169 | 421 | LaTanya GeminiondaRise Johnson |
 | 170 | 417 | Edwin Calvillo Jr. |
@@ -180,8 +180,8 @@
 | 172 | 415 | ren |
 | 173 | 410 | Stephanie Simpson |
 | 174 | 407 | Jone |
-| 175 | 405 | Marcie Bressler |
-| 176 | 405 | JerseyJess |
+| 175 | 405 | JerseyJess |
+| 176 | 405 | Marcie Bressler |
 | 177 | 403 | Scott Lindsay |
 | 178 | 402 | Araceli Parra |
 | 179 | 401 | Katie Knaus |
@@ -341,14 +341,14 @@
 | 333 | 218 | Tina Smith Roy |
 | 334 | 217 | Snazzy Filler |
 | 335 | 217 | Goofy Fall |
-| 336 | 216 | Cheryl Hinch Tenbrook |
-| 337 | 216 | Frothy Snapper |
+| 336 | 216 | Frothy Snapper |
+| 337 | 216 | Cheryl Hinch Tenbrook |
 | 338 | 215 | Everret Maxine |
 | 339 | 214 | Amy Fuller Heaton |
 | 340 | 214 | Randy Clevenger |
 | 341 | 213 | Romeo |
-| 342 | 213 | Nicholas Roddy |
-| 343 | 213 | Jess Dearborn |
+| 342 | 213 | Jess Dearborn |
+| 343 | 213 | Nicholas Roddy |
 | 344 | 212 | AlsoJess |
 | 345 | 211 | Velma Mull |
 | 346 | 211 | El Chapa |

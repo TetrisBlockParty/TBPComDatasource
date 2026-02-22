@@ -120,8 +120,8 @@
 | 112 | 1519 | Mindy Leigh Head |
 | 113 | 1513 | blackq |
 | 114 | 1509 | Whitney Nicole Waterman |
-| 115 | 1507 | Linda Pierce |
-| 116 | 1507 | Stephanie Chapman |
+| 115 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Linda Pierce |
 | 117 | 1495 | Tj Ball |
 | 118 | 1493 | Mari Ac |
 | 119 | 1487 | Kristopher Miller |
@@ -202,8 +202,8 @@
 | 194 | 1045 | Lourisha |
 | 195 | 1043 | Brave Dropmatch |
 | 196 | 1036 | Allison Lockyer |
-| 197 | 1024 | Bri Lynn |
-| 198 | 1024 | Desiree Anderson |
+| 197 | 1024 | Desiree Anderson |
+| 198 | 1024 | Bri Lynn |
 | 199 | 1023 | Brainy Smurf |
 | 200 | 1020 | Eric Carlson |
 | 201 | 1019 | Taylor Phillips |
@@ -911,10 +911,10 @@
 | 903 | 287 | Persipnei Cuesta |
 | 904 | 286 | Jennifer Aiken |
 | 905 | 285 | Elizabeth Leinen |
-| 906 | 285 | Reece Smith |
-| 907 | 285 | Kimberly Mitchell |
+| 906 | 285 | Kimberly Mitchell |
+| 907 | 285 | Reece Smith |
 | 908 | 285 | Candace Cece Joseph |
-| 909 | 284 | Dottie Turbeville Creel |
+| 909 | 284 | Josh Webster |
 | 910 | 284 | Loopy Shatterfit |
 | 911 | 284 | Dottie Turbeville Creel |
 | 912 | 284 | Hillary Franklin |

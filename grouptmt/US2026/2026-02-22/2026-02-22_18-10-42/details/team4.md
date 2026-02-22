@@ -18,8 +18,8 @@
 | 10 | 1835 | East Mamba |
 | 11 | 1775 | Ash |
 | 12 | 1676 | Ayanna Soto |
-| 13 | 1447 | GreenJeepGirl |
-| 14 | 1447 | Juggalo |
+| 13 | 1447 | Juggalo |
+| 14 | 1447 | GreenJeepGirl |
 | 15 | 1398 | Cassie Michaux |
 | 16 | 1292 | Roger Coulter |
 | 17 | 1255 | Tammi Crnza |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Jenna Ingersoll |
-| 112 | 412 | Scott Jameson |
+| 111 | 412 | Scott Jameson |
+| 112 | 412 | Jenna Ingersoll |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -136,8 +136,8 @@
 | 128 | 338 | ThaEviLJeNiuZ |
 | 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
