@@ -174,8 +174,8 @@
 | 166 | 1203 | Suki Kaur |
 | 167 | 1201 | Murrae Lynn Rebarchek |
 | 168 | 1193 | David Cudicio-Hayden |
-| 169 | 1192 | Denisha Dawkins |
-| 170 | 1192 | Ashley House |
+| 169 | 1192 | Ashley House |
+| 170 | 1192 | Denisha Dawkins |
 | 171 | 1180 | Ambyre Patterson |
 | 172 | 1177 | Joyce Johnson Vaughn |
 | 173 | 1174 | Jennifer Casey-Kay |
@@ -387,13 +387,13 @@
 | 379 | 651 | Unica Rector |
 | 380 | 650 | Amber Brion |
 | 381 | 650 | Shiny Rollzone |
-| 382 | 644 | Kimmy Newman |
-| 383 | 644 | AgileDragon |
+| 382 | 644 | AgileDragon |
+| 383 | 644 | Kimmy Newman |
 | 384 | 643 | Hoppy Brickmatch |
 | 385 | 642 | Cassie Maynard |
 | 386 | 641 | Vonceial Boone |
-| 387 | 640 | BYM4L |
-| 388 | 640 | Crystie Hicks |
+| 387 | 640 | Crystie Hicks |
+| 388 | 640 | BYM4L |
 | 389 | 640 | Gary Stash |
 | 390 | 639 | Rebecca Miller |
 | 391 | 638 | Allan Wayne Lamia |

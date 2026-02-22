@@ -70,8 +70,8 @@
 | 62 | 703 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | YoMomma |
-| 91 | 513 | Erin Thomas |
+| 90 | 513 | Erin Thomas |
+| 91 | 513 | YoMomma |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 505 | Diana Houts |
 | 94 | 501 | Denise Carlson |
@@ -159,15 +159,15 @@
 | 151 | 300 | Jason Hart |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
 | 159 | 290 | Keshia Lyons |
 | 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Chaz Duncan |
-| 162 | 290 | Damn Libra |
+| 161 | 290 | Damn Libra |
+| 162 | 290 | Chaz Duncan |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Kathy Brookins |
-| 177 | 267 | Holly |
+| 176 | 267 | Holly |
+| 177 | 267 | Kathy Brookins |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -203,8 +203,8 @@
 | 195 | 245 | Autum Leigh |
 | 196 | 245 | 23 |
 | 197 | 245 | Andria Lynn |
-| 198 | 244 | Lindsey Gonzalez |
-| 199 | 244 | Twisty Cascadezone |
+| 198 | 244 | Twisty Cascadezone |
+| 199 | 244 | Lindsey Gonzalez |
 | 200 | 243 | Jose Dejesus |
 | 201 | 243 | Mr. Party |
 | 202 | 241 | Allen Lloyd |
@@ -227,8 +227,8 @@
 | 219 | 220 | Joanna |
 | 220 | 219 | Dizzy Matchzone |
 | 221 | 219 | Malakai Darien Fox |
-| 222 | 216 | Chance Strickland |
-| 223 | 216 | ZeeZee |
+| 222 | 216 | ZeeZee |
+| 223 | 216 | Chance Strickland |
 | 224 | 216 | Cristy Duerksen |
 | 225 | 215 | John Brunetti |
 | 226 | 215 | Ziggy |
@@ -243,15 +243,15 @@
 | 235 | 208 | Stacey Stano |
 | 236 | 208 | Oscar Alberto Perez |
 | 237 | 205 | James Hurley Jr. |
-| 238 | 205 | Christina Black |
-| 239 | 205 | Keith Kelley |
+| 238 | 205 | Keith Kelley |
+| 239 | 205 | Christina Black |
 | 240 | 204 | Matt Gooder |
 | 241 | 203 | Katherine Crane |
 | 242 | 202 | Patron Anderson |
 | 243 | 202 | Rebecca Morris |
 | 244 | 201 | Melvin Baird |
-| 245 | 200 | Chair |
-| 246 | 200 | Googenheim |
+| 245 | 200 | Googenheim |
+| 246 | 200 | Chair |
 | 247 | 200 | Lori |
 | 248 | 199 | Orchislactea |
 | 249 | 198 | Silly SeaWeed |

@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -324,8 +324,8 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kevin Russell |
-| 320 | 231 | Kiki |
+| 319 | 231 | Kiki |
+| 320 | 231 | Kevin Russell |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
@@ -369,8 +369,8 @@
 | 361 | 209 | TotoCherue |
 | 362 | 209 | Daring Builder |
 | 363 | 208 | Karent524 |
-| 364 | 207 | Kristian Thurman |
-| 365 | 207 | angieelyn |
+| 364 | 207 | angieelyn |
+| 365 | 207 | Kristian Thurman |
 | 366 | 206 | Tammy Rosenberry |
 | 367 | 205 | Michael Kimbro |
 | 368 | 205 | Rachel Napper |
