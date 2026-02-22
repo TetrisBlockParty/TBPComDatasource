@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 667 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Carmethia Clemons Haslerig |
-| 76 | 486 | Landon Keith Graffeo |
+| 75 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Carmethia Clemons Haslerig |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
 | 79 | 452 | Chris Baggett |
@@ -124,14 +124,14 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | HastyGrabber |
-| 120 | 296 | Justin Hannigan |
+| 119 | 296 | Justin Hannigan |
+| 120 | 296 | HastyGrabber |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | shark tato |
-| 126 | 286 | Daria Rycewicz |
+| 125 | 286 | Daria Rycewicz |
+| 126 | 286 | shark tato |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 278 | Desi Desporte |
@@ -184,16 +184,16 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Melvin Baird |
-| 180 | 201 | Chance Strickland |
+| 179 | 201 | Chance Strickland |
+| 180 | 201 | Melvin Baird |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Keith Kelley |
 | 184 | 198 | Jessica Lynn Cutlip |
 | 185 | 196 | Oscar Alberto Perez |
-| 186 | 195 | Malakai Darien Fox |
-| 187 | 195 | ZeeZee |
-| 188 | 195 | 中山成巳 |
+| 186 | 195 | 中山成巳 |
+| 187 | 195 | Malakai Darien Fox |
+| 188 | 195 | ZeeZee |
 | 189 | 194 | Zany Twisterfit |
 | 190 | 192 | Shauna Havard |
 | 191 | 191 | Sam Bishop |
@@ -227,9 +227,9 @@
 | 219 | 162 | John Brunetti |
 | 220 | 162 | Joanna |
 | 221 | 161 | Jenny Wells-Oakley |
-| 222 | 160 | Brittany Marsh |
+| 222 | 160 | Carlos Ramirez |
 | 223 | 160 | Laura Hosford |
-| 224 | 160 | Carlos Ramirez |
+| 224 | 160 | Brittany Marsh |
 | 225 | 159 | Marcus Todd |
 | 226 | 158 | Avy Absol |
 | 227 | 158 | Chair |
@@ -243,14 +243,14 @@
 | 235 | 153 | Empress Oasis |
 | 236 | 152 | Austin Owens |
 | 237 | 152 | Faja |
-| 238 | 149 | Tanner Lund |
-| 239 | 149 | Shainne Brewer |
+| 238 | 149 | Shainne Brewer |
+| 239 | 149 | Tanner Lund |
 | 240 | 148 | Bio Nelly |
 | 241 | 148 | Janita Parrish |
 | 242 | 148 | Nubian1 |
 | 243 | 147 | Jay28 |
 | 244 | 147 | Jared Gutwein |
-| 245 | 147 | Jay28 |
+| 245 | 147 | B Renee Desjardin |
 | 246 | 146 | Ultramarine |
 | 247 | 145 | Sandra Safford |
 | 248 | 145 | Mimi |

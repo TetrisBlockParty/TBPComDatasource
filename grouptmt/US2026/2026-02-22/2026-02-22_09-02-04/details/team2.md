@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Howard Forest |
-| 128 | 1248 | Isabela Shaw |
+| 127 | 1248 | Isabela Shaw |
+| 128 | 1248 | Howard Forest |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -394,8 +394,8 @@
 | 386 | 522 | Lylymom |
 | 387 | 522 | Joseph Musick |
 | 388 | 521 | Tj Ball |
-| 389 | 520 | Maddy Petersen |
-| 390 | 520 | Angela Lynn |
+| 389 | 520 | Angela Lynn |
+| 390 | 520 | Maddy Petersen |
 | 391 | 519 | Rob Brown |
 | 392 | 518 | Lonne Emade |
 | 393 | 517 | Amber Brion |
@@ -432,8 +432,8 @@
 | 424 | 487 | Prette Qui |
 | 425 | 486 | Caitlin Schmid |
 | 426 | 485 | Ann Matzkanin |
-| 427 | 485 | Dapper Dasher |
-| 428 | 485 | Michelle Fields |
+| 427 | 485 | Michelle Fields |
+| 428 | 485 | Dapper Dasher |
 | 429 | 485 | Mamachelle Eisweirth |
 | 430 | 484 | Brenna Ann |
 | 431 | 483 | Victor Obiakarije |
@@ -573,10 +573,10 @@
 | 565 | 389 | Alexis Richardson |
 | 566 | 389 | Kayla |
 | 567 | 389 | Julie Hamilton |
-| 568 | 387 | Bold Brickster |
-| 569 | 387 | Misti Markijohn |
-| 570 | 386 | Sheniya Spurgeon |
-| 571 | 386 | Michael Artis |
+| 568 | 387 | Misti Markijohn |
+| 569 | 387 | Bold Brickster |
+| 570 | 386 | Michael Artis |
+| 571 | 386 | Sheniya Spurgeon |
 | 572 | 385 | Tansaria Couch-Butler |
 | 573 | 384 | Christina Ashley |
 | 574 | 384 | Tra Barnum |

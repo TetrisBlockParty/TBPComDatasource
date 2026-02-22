@@ -329,10 +329,10 @@
 | 321 | 182 | Melanie Sherwood |
 | 322 | 181 | Nicholas Roddy |
 | 323 | 181 | Denita Mungro |
-| 324 | 180 | Criss |
-| 325 | 180 | Beth Ingham |
-| 326 | 179 | Christian Werndl |
-| 327 | 179 | DanceLuvLaugh |
+| 324 | 180 | Beth Ingham |
+| 325 | 180 | Criss |
+| 326 | 179 | DanceLuvLaugh |
+| 327 | 179 | Christian Werndl |
 | 328 | 179 | Tipsy Zonebuilder |
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
@@ -342,12 +342,12 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | BŘŰŤİÇŨŚ |
-| 338 | 173 | Naur |
+| 337 | 173 | Naur |
+| 338 | 173 | BŘŰŤİÇŨŚ |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
 | 344 | 167 | Irene Arreguin |
 | 345 | 167 | Romeo |
@@ -521,7 +521,7 @@
 | 513 | 111 | Chenoa Urban Sophicated Redy |
 | 514 | 111 | Victoria Wangler Lewis |
 | 515 | 110 | Kate Farok |
-| 516 | 110 | Michael Pleasant |
+| 516 | 110 | Angela VanOstrand |
 | 517 | 110 | Brii Skii |
 | 518 | 110 | Michael Pleasant |
 | 519 | 109 | Peachy Westbrook |
@@ -610,8 +610,8 @@
 | 602 | 98 | Adrea Ann |
 | 603 | 98 | Tanesha BigBabby Darling |
 | 604 | 97 | Daisy Rocha |
-| 605 | 97 | Rebecca Lynn |
-| 606 | 97 | Tina Baurdau |
+| 605 | 97 | Tina Baurdau |
+| 606 | 97 | Rebecca Lynn |
 | 607 | 96 | D3NO |
 | 608 | 96 | Swanky Snapclear |
 | 609 | 96 | Jason |

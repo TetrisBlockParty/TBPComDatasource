@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Lexuriuos Lifestlye |
-| 140 | 264 | Jenny Gingrich Fuentes |
+| 139 | 264 | Jenny Gingrich Fuentes |
+| 140 | 264 | Lexuriuos Lifestlye |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 258 | Nutty Spinblock |
@@ -164,8 +164,8 @@
 | 156 | 239 | Jamie Jury |
 | 157 | 236 | Mandyy Rae |
 | 158 | 232 | Jessi Sauer |
-| 159 | 230 | Frothy Pattern |
-| 160 | 230 | Billie Dawn Sparks |
+| 159 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Frothy Pattern |
 | 161 | 229 | David Lutcher |
 | 162 | 226 | Sleepysloath5745 |
 | 163 | 226 | Kandae |
@@ -307,7 +307,7 @@
 | 299 | 127 | Danielle Mae |
 | 300 | 127 | Lynn Adams |
 | 301 | 126 | Zany Tiler |
-| 302 | 125 | Melissa Bires Hussar |
+| 302 | 125 | Angela Spann |
 | 303 | 125 | Matt Iaccheo |
 | 304 | 125 | Melissa Bires Hussar |
 | 305 | 124 | Mario Cab |
