@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 968 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -204,8 +204,8 @@
 | 196 | 272 | Dee Franklin |
 | 197 | 272 | opf |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Denise Nardoni |
-| 200 | 267 | Terry Jo Jones |
+| 199 | 267 | Terry Jo Jones |
+| 200 | 267 | Denise Nardoni |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
@@ -342,8 +342,8 @@
 | 334 | 152 | Shiny Zonebuilder |
 | 335 | 152 | Goofy Fall |
 | 336 | 151 | Rainbow77375 |
-| 337 | 150 | Ava Petito |
-| 338 | 150 | Gumbo |
+| 337 | 150 | Gumbo |
+| 338 | 150 | Ava Petito |
 | 339 | 149 | Alexis Taylor |
 | 340 | 148 | Pam Holt Powell |
 | 341 | 148 | Bryan Byrd |

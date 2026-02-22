@@ -213,8 +213,8 @@
 | 205 | 163 | DaRascal |
 | 206 | 163 | Tyler Whitley |
 | 207 | 161 | SavageBooty98 |
-| 208 | 160 | Tedashi |
-| 209 | 160 | Letson Melissa |
+| 208 | 160 | Letson Melissa |
+| 209 | 160 | Tedashi |
 | 210 | 158 | Sarah Marie |
 | 211 | 158 | Alenoush Karimian |
 | 212 | 154 | Melissa Lemmon |

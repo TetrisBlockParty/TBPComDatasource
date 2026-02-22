@@ -201,8 +201,8 @@
 | 193 | 845 | April Dawn Gussler |
 | 194 | 838 | Tralonda Weeks |
 | 195 | 837 | Ashley Rose Frederick |
-| 196 | 834 | Rebecca Doughman |
-| 197 | 834 | Nika Bee |
+| 196 | 834 | Nika Bee |
+| 197 | 834 | Rebecca Doughman |
 | 198 | 828 | Cindy Sechler Taninecz |
 | 199 | 826 | Moose Griffith |
 | 200 | 824 | Felicia Lynn |
@@ -225,8 +225,8 @@
 | 217 | 763 | Samantha Jo |
 | 218 | 761 | Lisa Ongtowasruk |
 | 219 | 756 | Stephanie Neuburger |
-| 220 | 755 | Ashley House |
-| 221 | 755 | Katrina Weston |
+| 220 | 755 | Katrina Weston |
+| 221 | 755 | Ashley House |
 | 222 | 753 | SaraMarie Eveland |
 | 223 | 751 | Loony Snapper |
 | 224 | 750 | Maria Escobar |
@@ -260,8 +260,8 @@
 | 252 | 678 | Scott Treadway |
 | 253 | 677 | Mema |
 | 254 | 676 | Pacynthia Williams |
-| 255 | 675 | Tommy Tha Boss Gunz |
-| 256 | 675 | Brenda Utphall |
+| 255 | 675 | Brenda Utphall |
+| 256 | 675 | Tommy Tha Boss Gunz |
 | 257 | 672 | Danielle Simmons |
 | 258 | 669 | Claire Noland |
 | 259 | 666 | Speedy Spinblock |
@@ -287,8 +287,8 @@
 | 279 | 635 | William Hunt |
 | 280 | 632 | Beth |
 | 281 | 631 | Marie Walker |
-| 282 | 626 | Allan Wayne Lamia |
-| 283 | 626 | Stephen Stephen |
+| 282 | 626 | Stephen Stephen |
+| 283 | 626 | Allan Wayne Lamia |
 | 284 | 619 | Jánine Riggs |
 | 285 | 617 | tejas25 |
 | 286 | 617 | Leslie Ann Carter |
@@ -630,8 +630,8 @@
 | 622 | 309 | Candy Pitts |
 | 623 | 309 | Byung Bae Park |
 | 624 | 308 | Prado |
-| 625 | 308 | Claire |
-| 626 | 308 | Sarah block |
+| 625 | 308 | Sarah block |
+| 626 | 308 | Claire |
 | 627 | 307 | stacey |
 | 628 | 305 | Snippy Block |
 | 629 | 305 | Zany Clusterbuilder |
@@ -674,8 +674,8 @@
 | 666 | 288 | Ashley Criner |
 | 667 | 287 | Toni Roberson |
 | 668 | 287 | Brave Gridpiece |
-| 669 | 286 | Epic Spinfit |
-| 670 | 286 | Kelsey Sullivan |
+| 669 | 286 | Kelsey Sullivan |
+| 670 | 286 | Epic Spinfit |
 | 671 | 285 | June E Hanson |
 | 672 | 285 | Court |
 | 673 | 284 | Tabs Reichert |
@@ -790,14 +790,14 @@
 | 782 | 242 | Erika Deer Kauffman |
 | 783 | 242 | Angela Yantz |
 | 784 | 242 | Aimee Campbell |
-| 785 | 242 | Chipper Dashpiece |
-| 786 | 242 | Donna Chandler |
+| 785 | 242 | Donna Chandler |
+| 786 | 242 | Chipper Dashpiece |
 | 787 | 241 | Ronda Cary |
 | 788 | 241 | Emoney Sanchez |
 | 789 | 241 | Ashlyn Berner |
 | 790 | 241 | Travis Tinsley |
-| 791 | 240 | Matthew Joseph Acevedo |
-| 792 | 240 | Nikki Vaughn |
+| 791 | 240 | Nikki Vaughn |
+| 792 | 240 | Matthew Joseph Acevedo |
 | 793 | 240 | Alison Emmons |
 | 794 | 239 | Chummy Breaker |
 | 795 | 239 | Jennifer Leigh |

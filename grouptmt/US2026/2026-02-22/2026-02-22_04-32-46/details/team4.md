@@ -43,8 +43,8 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
@@ -52,8 +52,8 @@
 | 44 | 630 | Dustee Craddock-Harrison |
 | 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -80,8 +80,8 @@
 | 72 | 409 | Isabella Blanco |
 | 73 | 404 | Courtney Cicoria |
 | 74 | 399 | Jenna Ingersoll |
-| 75 | 396 | Alicia Bass |
-| 76 | 396 | Amy Suckarieh |
+| 75 | 396 | Amy Suckarieh |
+| 76 | 396 | Alicia Bass |
 | 77 | 392 | YoMomma |
 | 78 | 391 | Ramel Rhodes |
 | 79 | 390 | Carlton Unfiltered |
@@ -235,8 +235,8 @@
 | 227 | 139 | Kristina Black |
 | 228 | 139 | Nerdy Twisterfit |
 | 229 | 138 | Brandon Link |
-| 230 | 137 | Brianna Walker |
-| 231 | 137 | PeaceOs |
+| 230 | 137 | PeaceOs |
+| 231 | 137 | Brianna Walker |
 | 232 | 136 | Rafael Valentin |
 | 233 | 135 | Maureen Flanigan |
 | 234 | 134 | Nick Gray |
@@ -296,8 +296,8 @@
 | 288 | 115 | Meg |
 | 289 | 115 | Nubian1 |
 | 290 | 114 | Christina Black |
-| 291 | 113 | Dandy Cascadefit |
-| 292 | 113 | Adam Randall |
+| 291 | 113 | Adam Randall |
+| 292 | 113 | Dandy Cascadefit |
 | 293 | 112 | Chris Alexinas |
 | 294 | 111 | Richard-April Kice |
 | 295 | 111 | Michael Orris |
