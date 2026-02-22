@@ -117,8 +117,8 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Elissa S-k |
-| 113 | 428 | Betty Ivy |
+| 112 | 428 | Betty Ivy |
+| 113 | 428 | Elissa S-k |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
 | 116 | 410 | Stephanie Simpson |

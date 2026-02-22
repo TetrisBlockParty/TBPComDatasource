@@ -69,8 +69,8 @@
 | 61 | 430 | Nancy Green |
 | 62 | 428 | Stephanie Zahn |
 | 63 | 413 | Steve Schneider |
-| 64 | 412 | Anaid Sanchez |
-| 65 | 412 | Jazzy Framezone |
+| 64 | 412 | Jazzy Framezone |
+| 65 | 412 | Anaid Sanchez |
 | 66 | 391 | Robert Benito |
 | 67 | 388 | Yvonne Marie |
 | 68 | 388 | Jennifer ManWarren |
@@ -155,8 +155,8 @@
 | 147 | 200 | Lacy Wolfe |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Shiny Gridmatch |
-| 151 | 198 | Happy Snapbuild |
+| 150 | 198 | Happy Snapbuild |
+| 151 | 198 | Shiny Gridmatch |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | Lachelle Dillon |
@@ -192,11 +192,11 @@
 | 184 | 170 | Standia Civil |
 | 185 | 170 | Veronica Eve |
 | 186 | 170 | Rico Rico |
-| 187 | 169 | Abbey Crespo |
-| 188 | 169 | Andrew Boone |
+| 187 | 169 | Andrew Boone |
+| 188 | 169 | Abbey Crespo |
 | 189 | 168 | Jessie Lynn |
-| 190 | 167 | Erin Hodges Plumb |
-| 191 | 167 | Nery Martinez |
+| 190 | 167 | Nery Martinez |
+| 191 | 167 | Erin Hodges Plumb |
 | 192 | 165 | Nadine Velardo |
 | 193 | 165 | Silly Align |
 | 194 | 164 | Shanae Grant |
