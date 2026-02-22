@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | Gabby Jenner |
-| 76 | 1603 | RdRydnHd |
+| 75 | 1603 | RdRydnHd |
+| 76 | 1603 | Gabby Jenner |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1598 | Alexandra Reese |
 | 79 | 1587 | Rob Riggin |
@@ -280,8 +280,8 @@
 | 272 | 647 | Peppy Zone |
 | 273 | 647 | Ashle Scranton |
 | 274 | 643 | Hoppy Brickmatch |
-| 275 | 641 | Joce Lynn |
-| 276 | 641 | Angie Bolton Workman |
+| 275 | 641 | Angie Bolton Workman |
+| 276 | 641 | Joce Lynn |
 | 277 | 640 | BYM4L |
 | 278 | 639 | Crystie Hicks |
 | 279 | 639 | Rebecca Miller |

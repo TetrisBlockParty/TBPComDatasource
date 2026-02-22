@@ -407,8 +407,8 @@
 | 399 | 82 | Stacy Jones |
 | 400 | 82 | Oleg Zakharskiy |
 | 401 | 81 | Crystal Lynn |
-| 402 | 81 | Robert Rangel |
-| 403 | 81 | Megan Boyce |
+| 402 | 81 | Megan Boyce |
+| 403 | 81 | Robert Rangel |
 | 404 | 81 | Zippy Tilt |
 | 405 | 80 | Brittany Little |
 | 406 | 80 | Melissa Adams |

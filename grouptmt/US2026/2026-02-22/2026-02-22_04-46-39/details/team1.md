@@ -130,8 +130,8 @@
 | 122 | 263 | Jason Jones |
 | 123 | 263 | Sharon Reynolds |
 | 124 | 256 | David Miller |
-| 125 | 252 | Dena Kayy |
-| 126 | 252 | Elaine Elaine |
+| 125 | 252 | Elaine Elaine |
+| 126 | 252 | Dena Kayy |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
 | 129 | 243 | Trippy Redd |
@@ -149,8 +149,8 @@
 | 141 | 216 | MRdot Rooski |
 | 142 | 216 | Shauntina Burke |
 | 143 | 214 | GATOR |
-| 144 | 212 | Lori Bales |
-| 145 | 212 | Jaimie Lynn |
+| 144 | 212 | Jaimie Lynn |
+| 145 | 212 | Lori Bales |
 | 146 | 211 | Marianita Garcia |
 | 147 | 210 | Ash Galvan |
 | 148 | 210 | Giggly Builderline |
@@ -161,8 +161,8 @@
 | 153 | 205 | Tater |
 | 154 | 204 | Lacy Wolfe |
 | 155 | 203 | Paula Martin |
-| 156 | 201 | Sleepysloath5745 |
-| 157 | 201 | Sam Williams |
+| 156 | 201 | Sam Williams |
+| 157 | 201 | Sleepysloath5745 |
 | 158 | 199 | Basment Living |
 | 159 | 198 | Shiny Gridmatch |
 | 160 | 198 | Happy Snapbuild |
