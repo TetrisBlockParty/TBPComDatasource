@@ -383,8 +383,8 @@
 | 375 | 396 | Stefanie Zonzini-Gagliardi |
 | 376 | 395 | Angie Bolton Workman |
 | 377 | 394 | Taryece Gause |
-| 378 | 392 | Victoria Moore-Smith |
-| 379 | 392 | Mighty Shatterfit |
+| 378 | 392 | Mighty Shatterfit |
+| 379 | 392 | Victoria Moore-Smith |
 | 380 | 392 | Michele Morgan |
 | 381 | 391 | Qiana Sanders |
 | 382 | 391 | Chilly Bridgepiece |

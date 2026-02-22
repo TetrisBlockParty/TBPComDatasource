@@ -67,15 +67,15 @@
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 621 | Cherry Parker |
 | 61 | 621 | Ebony West-Cundiff |
-| 62 | 618 | MissTaylor |
-| 63 | 618 | Brandon Green |
+| 62 | 618 | Brandon Green |
+| 63 | 618 | MissTaylor |
 | 64 | 613 | Amber Hughes |
 | 65 | 611 | Elaine Webb Graves |
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
 | 68 | 588 | yoyo |
-| 69 | 582 | Natasha Jones |
-| 70 | 582 | Katrina Schroeder |
+| 69 | 582 | Katrina Schroeder |
+| 70 | 582 | Natasha Jones |
 | 71 | 581 | Danielle Mogg |
 | 72 | 580 | Amanda L Baker |
 | 73 | 576 | Dan Rob |
@@ -244,11 +244,11 @@
 | 236 | 176 | rosy |
 | 237 | 174 | Marquita Sheard |
 | 238 | 172 | Grams |
-| 239 | 170 | Lesley Perez |
-| 240 | 170 | Denita Mungro |
-| 241 | 169 | BŘŰŤİÇŨŚ |
+| 239 | 170 | Denita Mungro |
+| 240 | 170 | Lesley Perez |
+| 241 | 169 | Daryn Elliott |
 | 242 | 169 | Emma |
-| 243 | 169 | Daryn Elliott |
+| 243 | 169 | BŘŰŤİÇŨŚ |
 | 244 | 168 | MsBee |
 | 245 | 166 | Beth Ingham |
 | 246 | 166 | Betty Rosas |
@@ -261,8 +261,8 @@
 | 253 | 162 | Cesar Barraza |
 | 254 | 161 | Kristian Thurman |
 | 255 | 160 | Tiffany Davie |
-| 256 | 159 | Jone |
-| 257 | 159 | Valerie Gendron |
+| 256 | 159 | Valerie Gendron |
+| 257 | 159 | Jone |
 | 258 | 158 | _melisa223_ |
 | 259 | 157 | Samantha Lynn |
 | 260 | 157 | Sabrina Hardrick |

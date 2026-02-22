@@ -80,8 +80,8 @@
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Nugget |
-| 76 | 358 | Shane Kalamata Platoon |
+| 75 | 358 | Shane Kalamata Platoon |
+| 76 | 358 | Nugget |
 | 77 | 356 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
@@ -132,8 +132,8 @@
 | 124 | 204 | Dana Scott |
 | 125 | 204 | Jen Caldwell |
 | 126 | 202 | Monica Daley |
-| 127 | 201 | Swanky Fitline |
-| 128 | 201 | Melvin Baird |
+| 127 | 201 | Melvin Baird |
+| 128 | 201 | Swanky Fitline |
 | 129 | 197 | Peachy Fall |
 | 130 | 196 | Jenna McGeorge |
 | 131 | 196 | Jeff Brian Gates |
@@ -158,8 +158,8 @@
 | 150 | 174 | Dihcheese444 |
 | 151 | 172 | Jessica Bohlken |
 | 152 | 171 | Diana Houts |
-| 153 | 164 | ThaEviLJeNiuZ |
-| 154 | 164 | 030Synner |
+| 153 | 164 | 030Synner |
+| 154 | 164 | ThaEviLJeNiuZ |
 | 155 | 160 | ZeeZee |
 | 156 | 156 | Holly |
 | 157 | 155 | AyeKay |
@@ -234,8 +234,8 @@
 | 226 | 120 | Lindsey Gonzalez |
 | 227 | 120 | Cassie Michaux |
 | 228 | 119 | Gwendolyn Pitcairn |
-| 229 | 119 | Kristin Manee |
-| 230 | 119 | rebel4lyfe |
+| 229 | 119 | rebel4lyfe |
+| 230 | 119 | Kristin Manee |
 | 231 | 116 | Adam Stephanie Parker |
 | 232 | 115 | Nubian1 |
 | 233 | 115 | Jayk |
@@ -256,8 +256,8 @@
 | 248 | 109 | LS |
 | 249 | 109 | Jessica Miller |
 | 250 | 108 | Rebecca Morris |
-| 251 | 108 | Ali Ian |
-| 252 | 108 | Kate |
+| 251 | 108 | Kate |
+| 252 | 108 | Ali Ian |
 | 253 | 107 | Chris Alexinas |
 | 254 | 106 | Zappy Snaplink |
 | 255 | 106 | Brandi Durig |

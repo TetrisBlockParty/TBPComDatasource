@@ -86,8 +86,8 @@
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
-| 81 | 305 | Patrick Luckenbill |
-| 82 | 305 | Plucky Ziggy |
+| 81 | 305 | Plucky Ziggy |
+| 82 | 305 | Patrick Luckenbill |
 | 83 | 304 | Nicole Roseberry Weber |
 | 84 | 303 | Maria C. Hernandez |
 | 85 | 301 | Hyper |
@@ -115,13 +115,13 @@
 | 107 | 249 | Elaine Elaine |
 | 108 | 248 | Jason Jones |
 | 109 | 244 | Franswa |
-| 110 | 240 | Chelsea Dahlquist |
-| 111 | 240 | Tana |
-| 112 | 238 | John J. Cronin |
-| 113 | 238 | Steve Schneider |
+| 110 | 240 | Tana |
+| 111 | 240 | Chelsea Dahlquist |
+| 112 | 238 | Steve Schneider |
+| 113 | 238 | John J. Cronin |
 | 114 | 230 | Frothy Pattern |
-| 115 | 228 | Trippy Redd |
-| 116 | 228 | Jenny Gingrich Fuentes |
+| 115 | 228 | Jenny Gingrich Fuentes |
+| 116 | 228 | Trippy Redd |
 | 117 | 227 | Mandyy Rae |
 | 118 | 222 | Kristen Gideon |
 | 119 | 219 | Lexuriuos Lifestlye |
@@ -138,8 +138,8 @@
 | 130 | 199 | Jennifer Hardman |
 | 131 | 198 | Happy Snapbuild |
 | 132 | 195 | Daring Fitclear |
-| 133 | 194 | Tyler Werts |
-| 134 | 194 | Ash Galvan |
+| 133 | 194 | Ash Galvan |
+| 134 | 194 | Tyler Werts |
 | 135 | 193 | Shiny Gridmatch |
 | 136 | 193 | Lachelle Dillon |
 | 137 | 192 | Shaykmia |
