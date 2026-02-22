@@ -138,8 +138,8 @@
 | 130 | 280 | Sarah Roberts |
 | 131 | 276 | Dandy Basegrid |
 | 132 | 265 | SkipTheSadSauce |
-| 133 | 264 | Lexuriuos Lifestlye |
-| 134 | 264 | Jenny Gingrich Fuentes |
+| 133 | 264 | Jenny Gingrich Fuentes |
+| 134 | 264 | Lexuriuos Lifestlye |
 | 135 | 263 | Sharon Reynolds |
 | 136 | 258 | Virginia Gray Floyd |
 | 137 | 257 | Amanda Jarnagin |
@@ -158,8 +158,8 @@
 | 150 | 236 | Snippy Wipebuilder |
 | 151 | 236 | Mandyy Rae |
 | 152 | 232 | Jessi Sauer |
-| 153 | 230 | Frothy Pattern |
-| 154 | 230 | Billie Dawn Sparks |
+| 153 | 230 | Billie Dawn Sparks |
+| 154 | 230 | Frothy Pattern |
 | 155 | 229 | David Lutcher |
 | 156 | 228 | Witty Builderfit |
 | 157 | 226 | Sleepysloath5745 |
@@ -184,8 +184,8 @@
 | 176 | 206 | BadG52 |
 | 177 | 205 | Tater |
 | 178 | 204 | Lacy Wolfe |
-| 179 | 203 | Paula Martin |
-| 180 | 203 | LaFontaine Leslie |
+| 179 | 203 | LaFontaine Leslie |
+| 180 | 203 | Paula Martin |
 | 181 | 201 | Colleen Wise |
 | 182 | 201 | Sam Williams |
 | 183 | 200 | Debbie Davis |

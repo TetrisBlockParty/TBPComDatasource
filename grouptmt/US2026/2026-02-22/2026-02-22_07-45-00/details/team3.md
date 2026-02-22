@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 581 | Danielle Mogg |
 | 96 | 579 | Jd Morris |
 | 97 | 566 | Dolores Falco |
-| 98 | 565 | Rachael McClain Owens |
-| 99 | 565 | Patty Allen |
+| 98 | 565 | Patty Allen |
+| 99 | 565 | Rachael McClain Owens |
 | 100 | 562 | Louise Stacy Sisson |
 | 101 | 562 | Dave Herzog |
 | 102 | 559 | Morgan Martinez |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Mcathen |
-| 152 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Jacqueline Rodriguez |
+| 152 | 399 | Mcathen |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -185,9 +185,9 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Raven Dudley |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 180 | 338 | Leah Barnett |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Raven Dudley |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -267,8 +267,8 @@
 | 259 | 225 | Dirtgirl27 |
 | 260 | 225 | Cozy Snaplink |
 | 261 | 223 | Connie Mohler-Fair |
-| 262 | 221 | Alice |
-| 263 | 221 | Jaime Monhaut-Reed |
+| 262 | 221 | Jaime Monhaut-Reed |
+| 263 | 221 | Alice |
 | 264 | 221 | Vaners |
 | 265 | 220 | rosy |
 | 266 | 219 | Sissy Lowery Davis |
@@ -338,8 +338,8 @@
 | 330 | 168 | Trice Thomas |
 | 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
-| 333 | 167 | Romeo |
-| 334 | 167 | Irene Arreguin |
+| 333 | 167 | Irene Arreguin |
+| 334 | 167 | Romeo |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
 | 337 | 165 | Rainbow77375 |
@@ -348,7 +348,7 @@
 | 340 | 163 | Christine Trester |
 | 341 | 163 | Diana Ibarra |
 | 342 | 162 | Nicole Summers-Nelson |
-| 343 | 162 | Ava Petito |
+| 343 | 162 | Kristin Delibac Corrigan |
 | 344 | 162 | Stephanie Whitefield |
 | 345 | 162 | Loopy Fallzone |
 | 346 | 162 | Ava Petito |
@@ -413,11 +413,11 @@
 | 405 | 136 | Sabrina Mansfield |
 | 406 | 134 | Glenn Loving |
 | 407 | 134 | Tammy |
-| 408 | 134 | Glenn Loving |
+| 408 | 134 | gremicx |
 | 409 | 134 | Maia |
 | 410 | 133 | Jen Lewis |
-| 411 | 132 | Hanna Kim |
-| 412 | 132 | Andrew Thorson |
+| 411 | 132 | Andrew Thorson |
+| 412 | 132 | Hanna Kim |
 | 413 | 131 | Cheeky Setter |
 | 414 | 130 | Sarah Whalen |
 | 415 | 130 | TotoCherue |

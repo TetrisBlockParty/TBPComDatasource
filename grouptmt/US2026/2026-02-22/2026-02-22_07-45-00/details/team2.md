@@ -308,8 +308,8 @@
 | 300 | 651 | Unica Rector |
 | 301 | 650 | Shiny Rollzone |
 | 302 | 643 | Hoppy Brickmatch |
-| 303 | 641 | Joce Lynn |
-| 304 | 641 | Angie Bolton Workman |
+| 303 | 641 | Angie Bolton Workman |
+| 304 | 641 | Joce Lynn |
 | 305 | 640 | BYM4L |
 | 306 | 639 | Crystie Hicks |
 | 307 | 639 | Rebecca Miller |
@@ -688,8 +688,8 @@
 | 680 | 320 | Mary Boss |
 | 681 | 319 | RetroLemur |
 | 682 | 318 | Jennifer Mahon |
-| 683 | 317 | Zombi3 |
-| 684 | 317 | Ashlyn Berner |
+| 683 | 317 | Ashlyn Berner |
+| 684 | 317 | Zombi3 |
 | 685 | 317 | Aireka Roman |
 | 686 | 316 | Jenn Marie |
 | 687 | 316 | Epic Spinfit |
@@ -706,8 +706,8 @@
 | 698 | 311 | Diallo Sparkman |
 | 699 | 310 | Audra Williams |
 | 700 | 310 | Beth Decker |
-| 701 | 310 | Wendy Ducheney |
-| 702 | 310 | Cheeky Brickmatch |
+| 701 | 310 | Cheeky Brickmatch |
+| 702 | 310 | Wendy Ducheney |
 | 703 | 309 | Candy Pitts |
 | 704 | 309 | Byung Bae Park |
 | 705 | 308 | Prado |
@@ -795,8 +795,8 @@
 | 787 | 274 | Min |
 | 788 | 273 | Jennifer Aiken |
 | 789 | 273 | Britt Stunkel |
-| 790 | 273 | Swanky Snap |
-| 791 | 273 | Kelly Meredeith |
+| 790 | 273 | Kelly Meredeith |
+| 791 | 273 | Swanky Snap |
 | 792 | 272 | Witty Piecebuilder |
 | 793 | 272 | Jennie Lee Huntley |
 | 794 | 271 | Pam Doughty |
@@ -892,8 +892,8 @@
 | 884 | 244 | Nakiiya Dreamcatcher Gore |
 | 885 | 244 | Brooklynn Huckaby |
 | 886 | 244 | Erika Deer Kauffman |
-| 887 | 243 | Cool Grabber |
-| 888 | 243 | Albert McKnight |
+| 887 | 243 | Albert McKnight |
+| 888 | 243 | Cool Grabber |
 | 889 | 243 | Jaybee Nguyen |
 | 890 | 242 | Groovy Tilefall |
 | 891 | 242 | Aimee Campbell |
@@ -921,14 +921,14 @@
 | 913 | 237 | Jay Levy |
 | 914 | 237 | Jodi Mitnick |
 | 915 | 236 | Christina Walker |
-| 916 | 235 | Angelica |
-| 917 | 235 | B-rad B-rad |
+| 916 | 235 | B-rad B-rad |
+| 917 | 235 | Angelica |
 | 918 | 235 | Prince Ajesh |
 | 919 | 235 | Loopy Shatterfit |
 | 920 | 234 | Joanna L. Abad |
 | 921 | 234 | Trina Harrison |
-| 922 | 234 | Kim McGrath |
-| 923 | 234 | Synn |
+| 922 | 234 | Synn |
+| 923 | 234 | Kim McGrath |
 | 924 | 234 | Jannan Haimour |
 | 925 | 233 | Allison Hewitt |
 | 926 | 233 | Myleaha Holley |
@@ -942,8 +942,8 @@
 | 934 | 231 | Stanley Vanekelenburg |
 | 935 | 230 | lady |
 | 936 | 230 | Andrew Engman |
-| 937 | 229 | Heather Anspaugh |
-| 938 | 229 | Deidre Jenkins |
+| 937 | 229 | Deidre Jenkins |
+| 938 | 229 | Heather Anspaugh |
 | 939 | 229 | BbqGuru |
 | 940 | 229 | Chyrisse Norton |
 | 941 | 228 | Kandy Charmz |
