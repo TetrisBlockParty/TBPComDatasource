@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Suki Kaur |
-| 150 | 1043 | Brave Dropmatch |
+| 149 | 1043 | Brave Dropmatch |
+| 150 | 1043 | Suki Kaur |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -465,8 +465,8 @@
 | 457 | 432 | Lucy Marshall |
 | 458 | 430 | Jackie Lucas |
 | 459 | 430 | Gloria Ininahazwe |
-| 460 | 429 | Christy Krissie |
-| 461 | 429 | Rhonda Milstead |
+| 460 | 429 | Rhonda Milstead |
+| 461 | 429 | Christy Krissie |
 | 462 | 428 | Arkei Luster |
 | 463 | 428 | Shyenn Gadsby |
 | 464 | 427 | Kori Beth Babb |

@@ -158,8 +158,8 @@
 | 150 | 229 | ALFD |
 | 151 | 226 | Kandae |
 | 152 | 223 | Sleepysloath5745 |
-| 153 | 218 | Witty Builderfit |
-| 154 | 218 | LC |
+| 153 | 218 | LC |
+| 154 | 218 | Witty Builderfit |
 | 155 | 217 | Dizzy Party |
 | 156 | 217 | ParisandCory Champagne |
 | 157 | 216 | Shauntina Burke |
@@ -186,8 +186,8 @@
 | 178 | 194 | Christy Jones |
 | 179 | 193 | Michael |
 | 180 | 193 | Lachelle Dillon |
-| 181 | 192 | Jessica Sheehan |
-| 182 | 192 | Brenda Alexander |
+| 181 | 192 | Brenda Alexander |
+| 182 | 192 | Jessica Sheehan |
 | 183 | 191 | Shanae Grant |
 | 184 | 191 | Diane Byrd |
 | 185 | 190 | Thorne Shumate |
@@ -200,9 +200,9 @@
 | 192 | 186 | Margo Wagner |
 | 193 | 186 | Erin Hodges Plumb |
 | 194 | 183 | Andrew Boone |
-| 195 | 180 | BigWeenie69 |
-| 196 | 180 | Erez Yosef |
-| 197 | 180 | Veronica Eve |
+| 195 | 180 | Erez Yosef |
+| 196 | 180 | Veronica Eve |
+| 197 | 180 | BigWeenie69 |
 | 198 | 180 | Jessie Lynn |
 | 199 | 179 | Danielle Little-Daugherty |
 | 200 | 179 | femmefatale |
@@ -212,12 +212,12 @@
 | 204 | 176 | Mel Hogan |
 | 205 | 175 | John Barron |
 | 206 | 174 | Cheeky Pop |
-| 207 | 173 | Gabrielle Louise Malloch |
-| 208 | 173 | Rico Rico |
+| 207 | 173 | Rico Rico |
+| 208 | 173 | Gabrielle Louise Malloch |
 | 209 | 171 | David DeSantis |
 | 210 | 171 | Greg Premoe |
-| 211 | 170 | Cece Ibarra |
-| 212 | 170 | Standia Civil |
+| 211 | 170 | Standia Civil |
+| 212 | 170 | Cece Ibarra |
 | 213 | 169 | Abbey Crespo |
 | 214 | 168 | Amber Stoker |
 | 215 | 167 | Bindi |
@@ -245,8 +245,8 @@
 | 237 | 150 | Agustin Duarte Orozco |
 | 238 | 149 | Chirpy Smasher |
 | 239 | 148 | Dino |
-| 240 | 147 | J.F. Fields |
-| 241 | 147 | Davery Spencer Adair |
+| 240 | 147 | Davery Spencer Adair |
+| 241 | 147 | J.F. Fields |
 | 242 | 145 | Tipsy Riseclear |
 | 243 | 144 | Fmp |
 | 244 | 144 | Gary Gobin |

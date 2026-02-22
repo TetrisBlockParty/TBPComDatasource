@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Zippy Gridlock |
-| 96 | 352 | Monica Daley |
+| 95 | 352 | Monica Daley |
+| 96 | 352 | Zippy Gridlock |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -192,14 +192,14 @@
 | 184 | 189 | Stacey Stano |
 | 185 | 188 | Andria Lynn |
 | 186 | 186 | Holly |
-| 187 | 185 | Lori |
-| 188 | 185 | Eric Mcgaughy |
-| 189 | 185 | Andy Cabral |
+| 187 | 185 | Eric Mcgaughy |
+| 188 | 185 | Andy Cabral |
+| 189 | 185 | Lori |
 | 190 | 184 | Ak Jones |
-| 191 | 181 | Alan George LaRage |
-| 192 | 181 | Carter Jones |
-| 193 | 180 | Rafael Valentin |
-| 194 | 180 | Orchislactea |
+| 191 | 181 | Carter Jones |
+| 192 | 181 | Alan George LaRage |
+| 193 | 180 | Orchislactea |
+| 194 | 180 | Rafael Valentin |
 | 195 | 179 | blockstar |
 | 196 | 174 | Dihcheese444 |
 | 197 | 172 | Gilles Lanctot |
@@ -382,16 +382,16 @@
 | 374 | 96 | Rebecca Blake |
 | 375 | 96 | Sammy Noguera |
 | 376 | 95 | Chirpy Slammer |
-| 377 | 95 | Jobadia Steelerton |
-| 378 | 95 | Tina Martinez |
+| 377 | 95 | Tina Martinez |
+| 378 | 95 | Jobadia Steelerton |
 | 379 | 94 | DonMega |
 | 380 | 93 | Matt Gooder |
 | 381 | 92 | Krash |
 | 382 | 92 | bloat princess |
 | 383 | 92 | Frilly Blocky |
 | 384 | 91 | Sunny Filler |
-| 385 | 91 | Kametsunoyaiba |
-| 386 | 91 | Lee Silpe |
+| 385 | 91 | Lee Silpe |
+| 386 | 91 | Kametsunoyaiba |
 | 387 | 90 | Carol Ricks Raymond |
 | 388 | 90 | Thomas Hettenhaus |
 | 389 | 90 | Abigail Murphy |

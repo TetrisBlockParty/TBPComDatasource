@@ -88,8 +88,8 @@
 | 80 | 628 | Tiff Vs Tiffany |
 | 81 | 626 | Dan Rob |
 | 82 | 621 | Cherry Parker |
-| 83 | 618 | Katrina Schroeder |
-| 84 | 618 | Christine Niles |
+| 83 | 618 | Christine Niles |
+| 84 | 618 | Katrina Schroeder |
 | 85 | 613 | Amber Hughes |
 | 86 | 608 | Danielle Becker |
 | 87 | 591 | Jesse Olive |
@@ -288,8 +288,8 @@
 | 280 | 203 | Angie Harper |
 | 281 | 202 | Staci George Fitzsimmons |
 | 282 | 201 | Hyper Matchzone |
-| 283 | 200 | Sharisse Baltimore |
-| 284 | 200 | glichmod |
+| 283 | 200 | glichmod |
+| 284 | 200 | Sharisse Baltimore |
 | 285 | 199 | Raven Dudley |
 | 286 | 197 | Saucy Buildout |
 | 287 | 195 | Nicha Hooker |
@@ -339,9 +339,9 @@
 | 331 | 163 | Diana Ibarra |
 | 332 | 163 | Christine Trester |
 | 333 | 162 | Nicole Summers-Nelson |
-| 334 | 162 | Stephanie Whitefield |
-| 335 | 162 | Loopy Fallzone |
-| 336 | 162 | Kristin Delibac Corrigan |
+| 334 | 162 | Kristin Delibac Corrigan |
+| 335 | 162 | Stephanie Whitefield |
+| 336 | 162 | Loopy Fallzone |
 | 337 | 161 | Michael Johnson |
 | 338 | 161 | Bouncy Blockbuilder |
 | 339 | 160 | Rachel |
