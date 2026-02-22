@@ -316,8 +316,8 @@
 | 308 | 821 | Angie Bolton Workman |
 | 309 | 821 | Diallo Sparkman |
 | 310 | 817 | Nett |
-| 311 | 816 | James Simms III |
-| 312 | 816 | Jessica Wayne Cornwall |
+| 311 | 816 | Jessica Wayne Cornwall |
+| 312 | 816 | James Simms III |
 | 313 | 810 | Andrea Maher |
 | 314 | 808 | Melissa McCall |
 | 315 | 808 | Desire Rice |
@@ -436,8 +436,8 @@
 | 428 | 628 | Brownie Sheena |
 | 429 | 628 | g |
 | 430 | 626 | Demeka Dangerous-kisses Johnson |
-| 431 | 620 | Brandon Armstrong |
-| 432 | 620 | Traci Johnson |
+| 431 | 620 | Traci Johnson |
+| 432 | 620 | Brandon Armstrong |
 | 433 | 618 | Vanessa Moreno |
 | 434 | 618 | Caitlyn Blackwell |
 | 435 | 617 | Darcy Mae |

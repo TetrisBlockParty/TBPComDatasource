@@ -93,8 +93,8 @@
 | 85 | 849 | Danielle Becker |
 | 86 | 848 | Patricia Gadsden |
 | 87 | 847 | Rosalie Call Kehlenbeck |
-| 88 | 838 | Sarajane Lokan |
-| 89 | 838 | MissTaylor |
+| 88 | 838 | MissTaylor |
+| 89 | 838 | Sarajane Lokan |
 | 90 | 836 | Jamie Lang |
 | 91 | 835 | Snappy Glidepiece |
 | 92 | 831 | Angeline Joseph |
@@ -215,21 +215,21 @@
 | 207 | 393 | Cozy Snaplink |
 | 208 | 384 | rosy |
 | 209 | 383 | Nicole Flippo |
-| 210 | 382 | Giddy Twistbuilder |
-| 211 | 382 | Scott Carleton |
+| 210 | 382 | Scott Carleton |
+| 211 | 382 | Giddy Twistbuilder |
 | 212 | 378 | Chris Bell |
 | 213 | 377 | Darlene McMillan |
 | 214 | 374 | Marci Mize Fandrich |
 | 215 | 372 | Rich LeBlanc |
-| 216 | 369 | RickyG |
-| 217 | 369 | Sarah Moyer |
+| 216 | 369 | Sarah Moyer |
+| 217 | 369 | RickyG |
 | 218 | 368 | Stephanie Woods |
 | 219 | 367 | Loopy Fallmatch |
 | 220 | 365 | Tiffany Ford |
 | 221 | 365 | Chummy Caster |
 | 222 | 362 | Brandon Givens |
-| 223 | 360 | Rebecca Funderburk Kirby |
-| 224 | 360 | Sheila M Frazier |
+| 223 | 360 | Sheila M Frazier |
+| 224 | 360 | Rebecca Funderburk Kirby |
 | 225 | 357 | Stephanie Burtin |
 | 226 | 355 | Keis |
 | 227 | 351 | Trisha Balmer |

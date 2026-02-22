@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -74,17 +74,17 @@
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
 | 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Savannah Overdorf |
-| 79 | 617 | Jason Hart |
+| 78 | 617 | Jason Hart |
+| 79 | 617 | Savannah Overdorf |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -125,8 +125,8 @@
 | 117 | 435 | Leslie Thomas |
 | 118 | 431 | Courtney Cicoria |
 | 119 | 429 | Ren Mc |
-| 120 | 427 | KJ Pool |
-| 121 | 427 | Jolly Dashfit |
+| 120 | 427 | Jolly Dashfit |
+| 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
 | 123 | 417 | Monica Daley |
 | 124 | 414 | Nope Young |
@@ -138,8 +138,8 @@
 | 130 | 391 | Austin Owens |
 | 131 | 391 | Lush Linkfall |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Carrie Brian |
-| 134 | 377 | Jessica Bohlken |
+| 133 | 377 | Jessica Bohlken |
+| 134 | 377 | Carrie Brian |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
@@ -239,8 +239,8 @@
 | 231 | 230 | Jade Rian |
 | 232 | 230 | blockstar |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | Rheanda Weaskus |
 | 238 | 221 | PurpleMoonMa |
