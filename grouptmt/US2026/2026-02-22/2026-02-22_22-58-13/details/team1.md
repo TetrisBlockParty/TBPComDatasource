@@ -25,8 +25,8 @@
 | 17 | 1408 | Mara Hilker |
 | 18 | 1234 | Jennifer Cates |
 | 19 | 1202 | LaQuetta Faith Hines |
-| 20 | 1191 | Roger Aschbrenner |
-| 21 | 1191 | Nerdy Linkblock |
+| 20 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Roger Aschbrenner |
 | 22 | 1177 | Carolyn Smith |
 | 23 | 1136 | Rahna Underwood |
 | 24 | 1129 | Tyler Alcock |
@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Greg Hart |
-| 82 | 519 | Ryan Lunnin |
+| 81 | 519 | Ryan Lunnin |
+| 82 | 519 | Greg Hart |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -115,8 +115,8 @@
 | 107 | 436 | Tonya Beasley |
 | 108 | 435 | Erin Hodges Plumb |
 | 109 | 433 | Tinah Montanna |
-| 110 | 429 | Anaid Sanchez |
-| 111 | 429 | Dee Perry |
+| 110 | 429 | Dee Perry |
+| 111 | 429 | Anaid Sanchez |
 | 112 | 423 | Veronica Eve |
 | 113 | 418 | Jazzy Framezone |
 | 114 | 417 | Lori Sanders- Davis |
@@ -260,8 +260,8 @@
 | 252 | 222 | Snappy Bridgepiece |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
-| 255 | 219 | Joe Coon |
-| 256 | 219 | Negan Mallory Knoxx Spence |
+| 255 | 219 | Negan Mallory Knoxx Spence |
+| 256 | 219 | Joe Coon |
 | 257 | 219 | Chuck Gannon |
 | 258 | 218 | Jessie Welch |
 | 259 | 216 | Chad Atchley |

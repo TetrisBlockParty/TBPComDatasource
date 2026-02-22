@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | Sarajane Lokan |
-| 91 | 838 | MissTaylor |
+| 90 | 838 | MissTaylor |
+| 91 | 838 | Sarajane Lokan |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -336,13 +336,13 @@
 | 328 | 258 | Michael Kimbro |
 | 329 | 258 | IamJust Neyamijah Washington Sr. |
 | 330 | 256 | KayB |
-| 331 | 255 | Twisty Brick LT |
-| 332 | 255 | Sharisse Baltimore |
+| 331 | 255 | Sharisse Baltimore |
+| 332 | 255 | Twisty Brick LT |
 | 333 | 254 | Desiree Gold |
 | 334 | 253 | Salena Whitlock |
 | 335 | 252 | Blair Erin Waite |
-| 336 | 251 | Naur |
-| 337 | 251 | Alice |
+| 336 | 251 | Alice |
+| 337 | 251 | Naur |
 | 338 | 250 | Tosha Griffey |
 | 339 | 250 | Eric Caccavale |
 | 340 | 247 | Jessica |

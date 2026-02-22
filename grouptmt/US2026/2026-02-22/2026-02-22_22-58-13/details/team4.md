@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 701 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 654 | Isabella Blanco |
@@ -109,11 +109,11 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -142,8 +142,8 @@
 | 134 | 391 | Lush Linkfall |
 | 135 | 380 | Swanky Fitline |
 | 136 | 378 | Lucas J Sutton |
-| 137 | 377 | Carrie Brian |
-| 138 | 377 | Jessica Bohlken |
+| 137 | 377 | Jessica Bohlken |
+| 138 | 377 | Carrie Brian |
 | 139 | 376 | Kesha Brady |
 | 140 | 373 | Joseph Guthrie |
 | 141 | 358 | ThaEviLJeNiuZ |
@@ -165,8 +165,8 @@
 | 157 | 332 | HastyGrabber |
 | 158 | 330 | Oscar Alberto Perez |
 | 159 | 329 | Jeff Brian Gates |
-| 160 | 328 | Kris Bartlett |
-| 161 | 328 | Brandon Crabbs |
+| 160 | 328 | Brandon Crabbs |
+| 161 | 328 | Kris Bartlett |
 | 162 | 321 | jim |
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
@@ -175,8 +175,8 @@
 | 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
-| 170 | 307 | Girl |
-| 171 | 307 | Bio Nelly |
+| 170 | 307 | Bio Nelly |
+| 171 | 307 | Girl |
 | 172 | 304 | Chaz Duncan |
 | 173 | 303 | shark tato |
 | 174 | 302 | Cursed Hag |

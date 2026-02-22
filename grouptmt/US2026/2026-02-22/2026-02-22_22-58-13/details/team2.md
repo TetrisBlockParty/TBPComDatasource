@@ -174,14 +174,14 @@
 | 166 | 1296 | Kristin Ruest |
 | 167 | 1294 | Ashley House |
 | 168 | 1286 | Altamirano Michael |
-| 169 | 1282 | Tanya Parsons |
-| 170 | 1282 | Ashley Rose Frederick |
+| 169 | 1282 | Ashley Rose Frederick |
+| 170 | 1282 | Tanya Parsons |
 | 171 | 1271 | Shandrica Lowe |
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Ambyre Patterson |
-| 176 | 1232 | Groovy Puzzle |
+| 175 | 1232 | Groovy Puzzle |
+| 176 | 1232 | Ambyre Patterson |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -336,8 +336,8 @@
 | 328 | 788 | Erika Densmore |
 | 329 | 782 | Beth |
 | 330 | 781 | Cassie Mercer |
-| 331 | 777 | Jessicah Myers |
-| 332 | 777 | Tesha Oldaker |
+| 331 | 777 | Tesha Oldaker |
+| 332 | 777 | Jessicah Myers |
 | 333 | 777 | Samantha Jo |
 | 334 | 777 | Em Chen |
 | 335 | 774 | Ashley Dow |
@@ -362,8 +362,8 @@
 | 354 | 743 | Tiara Elizabeth Baker |
 | 355 | 741 | Mandi Douglas Hilt |
 | 356 | 740 | Jerry Tempelmeyer |
-| 357 | 739 | Jánine Riggs |
-| 358 | 739 | Brenda Utphall |
+| 357 | 739 | Brenda Utphall |
+| 358 | 739 | Jánine Riggs |
 | 359 | 738 | Aimee Campbell |
 | 360 | 737 | Jeremy Parodi |
 | 361 | 737 | Ginger |
@@ -374,8 +374,8 @@
 | 366 | 728 | Dylan Thomason |
 | 367 | 728 | Tom Riefer |
 | 368 | 725 | Vonceial Boone |
-| 369 | 724 | Dreamy Blast |
-| 370 | 724 | Melissa Holsinger |
+| 369 | 724 | Melissa Holsinger |
+| 370 | 724 | Dreamy Blast |
 | 371 | 723 | Leslie Ann Carter |
 | 372 | 719 | Melissa Penelope Ann Dodge |
 | 373 | 713 | Chelle |
@@ -738,8 +738,8 @@
 | 730 | 395 | Susan Arnburg |
 | 731 | 394 | Christina Jarvis-Swarbrick |
 | 732 | 393 | Jamie West |
-| 733 | 391 | Heather Johnson |
-| 734 | 391 | Jessica Conaway |
+| 733 | 391 | Jessica Conaway |
+| 734 | 391 | Heather Johnson |
 | 735 | 391 | Megan Kitchner |
 | 736 | 391 | Chilly Bridgepiece |
 | 737 | 391 | Anthony |
