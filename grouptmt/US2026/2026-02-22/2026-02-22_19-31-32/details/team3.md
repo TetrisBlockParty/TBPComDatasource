@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -141,8 +141,8 @@
 | 133 | 526 | Cynthia Castros-Hampton |
 | 134 | 525 | Justin Ritter |
 | 135 | 521 | Leah Barnett |
-| 136 | 521 | Michael Nowogorski |
-| 137 | 521 | Michelle Becker |
+| 136 | 521 | Michelle Becker |
+| 137 | 521 | Michael Nowogorski |
 | 138 | 518 | opf |
 | 139 | 516 | Elissa S-k |
 | 140 | 506 | Sashay Tapae Simpson |
@@ -210,8 +210,8 @@
 | 202 | 377 | rosy |
 | 203 | 376 | Loopy Clusterer |
 | 204 | 374 | Darlene McMillan |
-| 205 | 372 | Giddy Twistbuilder |
-| 206 | 372 | Tom Nault |
+| 205 | 372 | Tom Nault |
+| 206 | 372 | Giddy Twistbuilder |
 | 207 | 370 | Santeria Trece Candles |
 | 208 | 368 | Stephanie Woods |
 | 209 | 367 | Loopy Fallmatch |
@@ -240,8 +240,8 @@
 | 232 | 339 | Rania Zaqout |
 | 233 | 338 | Gumbo |
 | 234 | 337 | Melissa Orth Hunter |
-| 235 | 330 | victory |
-| 236 | 330 | Rebecca Funderburk Kirby |
+| 235 | 330 | Rebecca Funderburk Kirby |
+| 236 | 330 | victory |
 | 237 | 324 | Sissy Lowery Davis |
 | 238 | 323 | Demetrious Shaw Sr. |
 | 239 | 321 | Rebecca Bailey |
@@ -255,8 +255,8 @@
 | 247 | 312 | Charles Perrone |
 | 248 | 308 | Cynthia Herrmann Egland |
 | 249 | 307 | rnr junky |
-| 250 | 307 | Blocked |
-| 251 | 307 | Snappy Balancer |
+| 250 | 307 | Snappy Balancer |
+| 251 | 307 | Blocked |
 | 252 | 306 | Felicia Rocha |
 | 253 | 304 | Marquita Sheard |
 | 254 | 301 | Betty Rosas |

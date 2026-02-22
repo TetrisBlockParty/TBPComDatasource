@@ -72,8 +72,8 @@
 | 64 | 675 | D3TROITB0RN74 |
 | 65 | 671 | Kimyatta Cavin |
 | 66 | 667 | Chilly Line |
-| 67 | 664 | Valerie Roberts |
-| 68 | 664 | loulou |
+| 67 | 664 | loulou |
+| 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | KM8 |
 | 71 | 647 | Shauna Havard |
@@ -114,8 +114,8 @@
 | 106 | 441 | Chastity Mitchell |
 | 107 | 440 | Lori Walker |
 | 108 | 435 | Leslie Thomas |
-| 109 | 427 | Jolly Dashfit |
-| 110 | 427 | KJ Pool |
+| 109 | 427 | KJ Pool |
+| 110 | 427 | Jolly Dashfit |
 | 111 | 426 | Ren Mc |
 | 112 | 423 | Jenna Ingersoll |
 | 113 | 422 | shar |
@@ -147,8 +147,8 @@
 | 139 | 328 | Kris Bartlett |
 | 140 | 328 | Leslie Nicole |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Trista Leah |
-| 143 | 321 | Klo |
+| 142 | 321 | Klo |
+| 143 | 321 | Trista Leah |
 | 144 | 320 | Jason Hart |
 | 145 | 319 | Guy Incognito |
 | 146 | 318 | Lauren Scott |
@@ -183,14 +183,14 @@
 | 175 | 268 | Christina LR |
 | 176 | 268 | Mimi |
 | 177 | 267 | Casey Grabner |
-| 178 | 267 | Holly |
-| 179 | 267 | Kathy Brookins |
+| 178 | 267 | Kathy Brookins |
+| 179 | 267 | Holly |
 | 180 | 266 | Laura |
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
 | 183 | 264 | Epic Curvetile |
-| 184 | 262 | Joeliecea Cobb |
-| 185 | 262 | Holly Jolly |
+| 184 | 262 | Holly Jolly |
+| 185 | 262 | Joeliecea Cobb |
 | 186 | 260 | Porkobello |
 | 187 | 259 | Sam Bishop |
 | 188 | 257 | Michele Plunkett |
@@ -218,8 +218,8 @@
 | 210 | 237 | Jen Caldwell |
 | 211 | 236 | Swanky Fitline |
 | 212 | 235 | Chris Hartig |
-| 213 | 233 | April Rondinone |
-| 214 | 233 | Ruben Wheeler |
+| 213 | 233 | Ruben Wheeler |
+| 214 | 233 | April Rondinone |
 | 215 | 230 | blockstar |
 | 216 | 228 | Antony Dwayne Beasley |
 | 217 | 227 | Kim Hunt |
@@ -238,11 +238,11 @@
 | 230 | 214 | Stacey Stano |
 | 231 | 213 | Sarah Neathery |
 | 232 | 213 | Rio Rocha |
-| 233 | 212 | Mike Solo |
-| 234 | 212 | scott |
+| 233 | 212 | scott |
+| 234 | 212 | Mike Solo |
 | 235 | 211 | Jenna McGeorge |
-| 236 | 210 | Adam Stephanie Parker |
-| 237 | 210 | Dihcheese444 |
+| 236 | 210 | Dihcheese444 |
+| 237 | 210 | Adam Stephanie Parker |
 | 238 | 209 | Ak Jones |
 | 239 | 208 | Rebecca Morris |
 | 240 | 208 | Oscar Alberto Perez |
@@ -262,8 +262,8 @@
 | 254 | 198 | Calvin Dennis |
 | 255 | 197 | Gilles Lanctot |
 | 256 | 196 | Zany Shatterer |
-| 257 | 195 | Snippy Puzzle |
-| 258 | 195 | 中山成巳 |
+| 257 | 195 | 中山成巳 |
+| 258 | 195 | Snippy Puzzle |
 | 259 | 194 | Zany Twisterfit |
 | 260 | 192 | Stephme310 |
 | 261 | 192 | Andrew Dang |
@@ -277,8 +277,8 @@
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
 | 271 | 182 | TinyLegoRose |
-| 272 | 181 | Carter Jones |
-| 273 | 181 | Jackie Marie |
+| 272 | 181 | Jackie Marie |
+| 273 | 181 | Carter Jones |
 | 274 | 180 | Cozy Balancer |
 | 275 | 179 | AyeKay |
 | 276 | 179 | Jade Rian |

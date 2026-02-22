@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -418,8 +418,8 @@
 | 410 | 613 | Caitlyn Blackwell |
 | 411 | 605 | Biggest thing |
 | 412 | 605 | g |
-| 413 | 602 | KhaosLord |
-| 414 | 602 | Shaun Church |
+| 413 | 602 | Shaun Church |
+| 414 | 602 | KhaosLord |
 | 415 | 601 | Moua Ying |
 | 416 | 600 | Arkei Luster |
 | 417 | 599 | Nashu |
@@ -615,13 +615,13 @@
 | 607 | 436 | Kia Humphery |
 | 608 | 436 | Kayla |
 | 609 | 435 | CupCake |
-| 610 | 435 | Jessica Lamb |
-| 611 | 435 | Regina Young |
+| 610 | 435 | Regina Young |
+| 611 | 435 | Jessica Lamb |
 | 612 | 434 | bbv |
-| 613 | 432 | Lucy Marshall |
-| 614 | 432 | Abimbola Bimbo |
-| 615 | 431 | Quinn |
-| 616 | 431 | Hunter Connors |
+| 613 | 432 | Abimbola Bimbo |
+| 614 | 432 | Lucy Marshall |
+| 615 | 431 | Hunter Connors |
+| 616 | 431 | Quinn |
 | 617 | 429 | Goofy Catcher |
 | 618 | 429 | Tabs Reichert |
 | 619 | 429 | Angel Hunnewell |

@@ -222,12 +222,12 @@
 | 214 | 231 | Tyler Hertzog |
 | 215 | 231 | Sarah Somers Gray |
 | 216 | 230 | BigWeenie69 |
-| 217 | 228 | Giddy Cascade |
-| 218 | 228 | Cheeky Pop |
+| 217 | 228 | Cheeky Pop |
+| 218 | 228 | Giddy Cascade |
 | 219 | 227 | Cody Gates |
 | 220 | 226 | Michael |
-| 221 | 225 | Bindi |
-| 222 | 225 | Jessie Lynn |
+| 221 | 225 | Jessie Lynn |
+| 222 | 225 | Bindi |
 | 223 | 224 | ParisandCory Champagne |
 | 224 | 223 | Christina Backer |
 | 225 | 223 | Erez Yosef |
