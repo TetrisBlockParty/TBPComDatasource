@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Dan Rob |
 | 50 | 956 | Gracie |
@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Shonna Roberts |
-| 58 | 895 | Amanda L Baker |
+| 57 | 895 | Amanda L Baker |
+| 58 | 895 | Shonna Roberts |
 | 59 | 886 | Khristen AC |
 | 60 | 874 | Jessica Pineda-Lopez |
 | 61 | 867 | Corie A. Brinson |

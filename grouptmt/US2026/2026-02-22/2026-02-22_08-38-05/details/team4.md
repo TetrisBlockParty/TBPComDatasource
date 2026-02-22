@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -55,8 +55,8 @@
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 661 | D3TROITB0RN74 |
-| 50 | 659 | Jonathan Kimbrough |
-| 51 | 659 | Rebecca Moulton Pinciaro |
+| 50 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Jonathan Kimbrough |
 | 52 | 658 | loulou |
 | 53 | 654 | Chilly Line |
 | 54 | 652 | Anthony Bryan Riva |
@@ -84,8 +84,8 @@
 | 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Erin Thomas |
-| 80 | 447 | Samantha Peterson |
+| 79 | 447 | Samantha Peterson |
+| 80 | 447 | Erin Thomas |
 | 81 | 440 | Kristin Manee |
 | 82 | 435 | Shane Kalamata Platoon |
 | 83 | 427 | KJ Pool |
@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -134,8 +134,8 @@
 | 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
-| 129 | 278 | Desi Desporte |
-| 130 | 278 | Carrie Brian |
+| 129 | 278 | Carrie Brian |
+| 130 | 278 | Desi Desporte |
 | 131 | 277 | Scott Jameson |
 | 132 | 277 | Mary Ann Pabukis |
 | 133 | 275 | Dizzy Tiley |
