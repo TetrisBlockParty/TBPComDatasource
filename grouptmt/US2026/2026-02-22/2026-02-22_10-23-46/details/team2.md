@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Brave Dropmatch |
-| 169 | 1043 | Suki Kaur |
+| 168 | 1043 | Suki Kaur |
+| 169 | 1043 | Brave Dropmatch |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1024 | Bri Lynn |
 | 172 | 1023 | Brainy Smurf |
@@ -303,8 +303,8 @@
 | 295 | 685 | Binyah-Binyah |
 | 296 | 681 | Melissa Holsinger |
 | 297 | 679 | Offonar Facey |
-| 298 | 679 | Dee |
-| 299 | 679 | Brenda Utphall |
+| 298 | 679 | Brenda Utphall |
+| 299 | 679 | Dee |
 | 300 | 679 | Kassandra Hunt |
 | 301 | 678 | Scott Treadway |
 | 302 | 677 | Mema |
@@ -342,8 +342,8 @@
 | 334 | 613 | Breezy Filler |
 | 335 | 613 | Ellie Jonas |
 | 336 | 611 | Em Chen |
-| 337 | 611 | Julio A Laracuente |
-| 338 | 611 | Carl Bradshaw |
+| 337 | 611 | Carl Bradshaw |
+| 338 | 611 | Julio A Laracuente |
 | 339 | 605 | Jelly |
 | 340 | 603 | Cassie Maynard |
 | 341 | 602 | KhaosLord |
@@ -1071,9 +1071,9 @@
 | 1063 | 213 | Hannah Leigh Pelofsky |
 | 1064 | 213 | Cassi Owens |
 | 1065 | 212 | Izzy Rockford |
-| 1066 | 212 | Sarah Dean |
-| 1067 | 212 | Denelle Wendt-Ramalho |
-| 1068 | 212 | JP Parks |
+| 1066 | 212 | Denelle Wendt-Ramalho |
+| 1067 | 212 | JP Parks |
+| 1068 | 212 | Sarah Dean |
 | 1069 | 212 | Crafty Brickline |
 | 1070 | 212 | Sassy Linkroll |
 | 1071 | 211 | Melissa Koria |
@@ -1115,8 +1115,8 @@
 | 1107 | 206 | Antonia Pike |
 | 1108 | 205 | SafetyEyes16 |
 | 1109 | 205 | Snazzy Basepiece |
-| 1110 | 205 | Ashley McCarthy-Arnone |
-| 1111 | 205 | Shay Moore |
+| 1110 | 205 | Shay Moore |
+| 1111 | 205 | Ashley McCarthy-Arnone |
 | 1112 | 205 | Tiffney Wroten |
 | 1113 | 205 | Desiree Hargrove Moore |
 | 1114 | 204 | Ali Gralski |
@@ -1146,8 +1146,8 @@
 | 1138 | 197 | Darla Silva |
 | 1139 | 197 | Jermaine Johnson |
 | 1140 | 197 | Octavio Garza |
-| 1141 | 197 | ນາງ ບີ ລາດຊະຈັກ |
-| 1142 | 197 | Kati Russeau |
+| 1141 | 197 | Kati Russeau |
+| 1142 | 197 | ນາງ ບີ ລາດຊະຈັກ |
 | 1143 | 197 | Erica Dale |
 | 1144 | 197 | Sunny Pusher |
 | 1145 | 196 | Goofy Cascadeclear |

@@ -104,8 +104,8 @@
 | 96 | 368 | Tdub |
 | 97 | 362 | Plucky Ziggy |
 | 98 | 359 | Chirpy Smasher |
-| 99 | 355 | Shauna Loe |
-| 100 | 355 | Hasbro Bros |
+| 99 | 355 | Hasbro Bros |
+| 100 | 355 | Shauna Loe |
 | 101 | 350 | Tipsy Strikerpiece |
 | 102 | 349 | Dee Perry |
 | 103 | 347 | pjbeta |
