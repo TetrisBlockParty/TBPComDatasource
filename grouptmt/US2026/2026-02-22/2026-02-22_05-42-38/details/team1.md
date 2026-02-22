@@ -112,8 +112,8 @@
 | 104 | 310 | Seth Wesson |
 | 105 | 310 | Jason Jones |
 | 106 | 306 | Happy Basegrid |
-| 107 | 304 | phrmblk24 |
-| 108 | 304 | Nicole Roseberry Weber |
+| 107 | 304 | Nicole Roseberry Weber |
+| 108 | 304 | phrmblk24 |
 | 109 | 301 | Lehrin Maria |
 | 110 | 296 | Theo Pinnow |
 | 111 | 292 | Kristen Gideon |

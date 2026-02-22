@@ -85,8 +85,8 @@
 | 77 | 649 | MissTaylor |
 | 78 | 628 | Tiff Vs Tiffany |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |

@@ -205,8 +205,8 @@
 | 197 | 845 | April Dawn Gussler |
 | 198 | 838 | Tralonda Weeks |
 | 199 | 837 | Ashley Rose Frederick |
-| 200 | 834 | Rebecca Doughman |
-| 201 | 834 | Nika Bee |
+| 200 | 834 | Nika Bee |
+| 201 | 834 | Rebecca Doughman |
 | 202 | 828 | Cindy Sechler Taninecz |
 | 203 | 827 | Alisa Lamb |
 | 204 | 826 | Moose Griffith |
@@ -257,8 +257,8 @@
 | 249 | 698 | Mighty Shatterfit |
 | 250 | 697 | Dreamy Blast |
 | 251 | 692 | Chelle |
-| 252 | 692 | Jennifer Casey-Kay |
-| 253 | 692 | Dannette Goldberg-Richards |
+| 252 | 692 | Dannette Goldberg-Richards |
+| 253 | 692 | Jennifer Casey-Kay |
 | 254 | 690 | Deborah Miller |
 | 255 | 689 | Giggy Blocker |
 | 256 | 688 | Tiara Elizabeth Baker |
@@ -271,8 +271,8 @@
 | 263 | 679 | Dee |
 | 264 | 678 | Scott Treadway |
 | 265 | 677 | Mema |
-| 266 | 675 | Brenda Utphall |
-| 267 | 675 | Tommy Tha Boss Gunz |
+| 266 | 675 | Tommy Tha Boss Gunz |
+| 267 | 675 | Brenda Utphall |
 | 268 | 673 | Claire Noland |
 | 269 | 672 | Danielle Simmons |
 | 270 | 671 | Poldo Ilano |
