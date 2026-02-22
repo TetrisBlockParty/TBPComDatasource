@@ -235,8 +235,8 @@
 | 227 | 979 | Hillary Crawford |
 | 228 | 974 | Dolores Russworn |
 | 229 | 973 | Kim Dean |
-| 230 | 972 | Juliana Marques Do Nascimento Gordy |
-| 231 | 972 | Della Hole |
+| 230 | 972 | Della Hole |
+| 231 | 972 | Juliana Marques Do Nascimento Gordy |
 | 232 | 965 | Maria Escobar |
 | 233 | 957 | Crystal Hoffman |
 | 234 | 957 | Block Master |
@@ -410,8 +410,8 @@
 | 402 | 627 | Victoria Moore-Smith |
 | 403 | 626 | Steven Marshaun |
 | 404 | 626 | Demeka Dangerous-kisses Johnson |
-| 405 | 620 | Traci Johnson |
-| 406 | 620 | Brandon Armstrong |
+| 405 | 620 | Brandon Armstrong |
+| 406 | 620 | Traci Johnson |
 | 407 | 619 | Melissa Penelope Ann Dodge |
 | 408 | 618 | Spunkysmom |
 | 409 | 617 | Darcy Mae |
