@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -101,8 +101,8 @@
 | 93 | 404 | Courtney Cicoria |
 | 94 | 403 | shar |
 | 95 | 401 | Zippy Gridlock |
-| 96 | 396 | Alicia Bass |
-| 97 | 396 | Amy Suckarieh |
+| 96 | 396 | Amy Suckarieh |
+| 97 | 396 | Alicia Bass |
 | 98 | 392 | Ericca Eldridge |
 | 99 | 391 | Ramel Rhodes |
 | 100 | 390 | Carlton Unfiltered |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
@@ -163,8 +163,8 @@
 | 155 | 230 | Cursed Hag |
 | 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -184,8 +184,8 @@
 | 176 | 210 | Zethra Prenisha Rahming |
 | 177 | 207 | Chirpy Basepiece |
 | 178 | 205 | Kathy Brookins |
-| 179 | 204 | Carlos Ramirez |
-| 180 | 204 | Jen Caldwell |
+| 179 | 204 | Jen Caldwell |
+| 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
 | 183 | 201 | Chance Strickland |
@@ -235,8 +235,8 @@
 | 227 | 162 | John Brunetti |
 | 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Avy Absol |
 | 234 | 158 | Chair |

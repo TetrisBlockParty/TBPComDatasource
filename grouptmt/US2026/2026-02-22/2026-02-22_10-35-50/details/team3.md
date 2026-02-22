@@ -194,8 +194,8 @@
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Katrina Turner |
-| 213 | 296 | Ammmmmmy |
+| 212 | 296 | Ammmmmmy |
+| 213 | 296 | Katrina Turner |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -227,8 +227,8 @@
 | 219 | 289 | Hoppy Buildout |
 | 220 | 286 | Cynthia Herrmann Egland |
 | 221 | 284 | Denise Nardoni |
-| 222 | 283 | Charles Perrone |
-| 223 | 283 | Cheeky Snapper |
+| 222 | 283 | Cheeky Snapper |
+| 223 | 283 | Charles Perrone |
 | 224 | 281 | Betty Rosas |
 | 225 | 281 | Valerie Gendron |
 | 226 | 278 | Rufus Lincoln |
@@ -238,8 +238,8 @@
 | 230 | 275 | Cassandra Bryant |
 | 231 | 274 | Tye Stovall |
 | 232 | 272 | Dee Franklin |
-| 233 | 271 | Ashley Muncey |
-| 234 | 271 | Cass Mendoza |
+| 233 | 271 | Cass Mendoza |
+| 234 | 271 | Ashley Muncey |
 | 235 | 269 | Trisha Balmer |
 | 236 | 267 | Terry Jo Jones |
 | 237 | 265 | Sarah Moyer |
@@ -254,8 +254,8 @@
 | 246 | 258 | Tamara Deherrera |
 | 247 | 257 | Ashley Jones |
 | 248 | 256 | Brenda Lee Vander Molen |
-| 249 | 256 | Tiffany Davie |
-| 250 | 256 | KayB |
+| 249 | 256 | KayB |
+| 250 | 256 | Tiffany Davie |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
 | 253 | 249 | Annie Marie |
