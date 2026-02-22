@@ -210,8 +210,8 @@
 | 202 | 818 | Angela Bonquiqui Dinish |
 | 203 | 815 | Moni Foxe |
 | 204 | 811 | James Simms III |
-| 205 | 808 | Ashley House |
-| 206 | 808 | John Bednarik |
+| 205 | 808 | John Bednarik |
+| 206 | 808 | Ashley House |
 | 207 | 807 | Khalil Lowe |
 | 208 | 805 | Shuany Arias |
 | 209 | 804 | Maria Escobar |
@@ -547,16 +547,16 @@
 | 539 | 369 | Juan Castillo |
 | 540 | 367 | Deyawn Smith |
 | 541 | 367 | Jessica Lamb |
-| 542 | 366 | Courtney Burcham |
-| 543 | 366 | Smashanator |
+| 542 | 366 | Smashanator |
+| 543 | 366 | Courtney Burcham |
 | 544 | 365 | Christina Lewis-Vickers |
 | 545 | 365 | Audrey Jones |
 | 546 | 365 | Susan Arnburg |
 | 547 | 364 | Shinette Dobson |
 | 548 | 364 | Jasmine Kenney |
 | 549 | 363 | Lawanda Forbes |
-| 550 | 363 | Kia Humphery |
-| 551 | 363 | Michelle Sager |
+| 550 | 363 | Michelle Sager |
+| 551 | 363 | Kia Humphery |
 | 552 | 363 | Happy Caster |
 | 553 | 362 | Tracy Wise |
 | 554 | 362 | Jennifer Scott |

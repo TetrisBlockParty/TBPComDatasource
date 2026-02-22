@@ -30,8 +30,8 @@
 | 22 | 898 | Isabel Aguilar |
 | 23 | 883 | Dustin Robert |
 | 24 | 877 | Koshin Abdirahman |
-| 25 | 873 | Elizabeth Sallas |
-| 26 | 873 | Michelle Pearman |
+| 25 | 873 | Michelle Pearman |
+| 26 | 873 | Elizabeth Sallas |
 | 27 | 871 | Denny Shives |
 | 28 | 865 | Devinlee Brown |
 | 29 | 846 | Christine Marie |
@@ -44,15 +44,15 @@
 | 36 | 766 | Robin Watters |
 | 37 | 717 | BertMofo |
 | 38 | 704 | Crystal Carroll |
-| 39 | 697 | Rachel Anne |
-| 40 | 697 | Edward White |
+| 39 | 697 | Edward White |
+| 40 | 697 | Rachel Anne |
 | 41 | 659 | Rebecca Moulton Pinciaro |
 | 42 | 658 | loulou |
 | 43 | 646 | Jacqueline Helm |
 | 44 | 634 | Anthony Bryan Riva |
 | 45 | 632 | Kimyatta Cavin |
-| 46 | 630 | Dustee Craddock-Harrison |
-| 47 | 630 | Chilly Line |
+| 46 | 630 | Chilly Line |
+| 47 | 630 | Dustee Craddock-Harrison |
 | 48 | 627 | Jonathan Kimbrough |
 | 49 | 623 | Robin Getchel |
 | 50 | 614 | KM8 |

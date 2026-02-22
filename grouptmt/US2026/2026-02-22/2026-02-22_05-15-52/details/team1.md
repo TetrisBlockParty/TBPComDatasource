@@ -65,8 +65,8 @@
 | 57 | 495 | Sevens4L |
 | 58 | 491 | Sarah Lombardo |
 | 59 | 483 | Ryan Lunnin |
-| 60 | 458 | Kellie |
-| 61 | 458 | April Carroll |
+| 60 | 458 | April Carroll |
+| 61 | 458 | Kellie |
 | 62 | 449 | Lola Adkhambekovna |
 | 63 | 444 | Evie Khalil |
 | 64 | 441 | Robert Benito |
@@ -133,14 +133,14 @@
 | 125 | 264 | Lexuriuos Lifestlye |
 | 126 | 263 | Sharon Reynolds |
 | 127 | 256 | David Miller |
-| 128 | 252 | Dena Kayy |
-| 129 | 252 | Elaine Elaine |
+| 128 | 252 | Elaine Elaine |
+| 129 | 252 | Dena Kayy |
 | 130 | 249 | Kimmie Kimms |
 | 131 | 248 | Hasbro Bros |
 | 132 | 248 | Lori Bales |
 | 133 | 247 | Tana |
-| 134 | 243 | Trippy Redd |
-| 135 | 243 | Chelsea Dahlquist |
+| 134 | 243 | Chelsea Dahlquist |
+| 135 | 243 | Trippy Redd |
 | 136 | 241 | John J. Cronin |
 | 137 | 236 | Mandyy Rae |
 | 138 | 235 | Arianna O'Brien |
@@ -233,11 +233,11 @@
 | 225 | 152 | Tavia |
 | 226 | 152 | Strig |
 | 227 | 152 | Brave Wrecker |
-| 228 | 150 | Agustin Duarte Orozco |
-| 229 | 150 | Adele Rahman |
+| 228 | 150 | Adele Rahman |
+| 229 | 150 | Agustin Duarte Orozco |
 | 230 | 149 | Chirpy Smasher |
-| 231 | 147 | J.F. Fields |
-| 232 | 147 | Davery Spencer Adair |
+| 231 | 147 | Davery Spencer Adair |
+| 232 | 147 | J.F. Fields |
 | 233 | 146 | Witty Builderfit |
 | 234 | 145 | Tipsy Riseclear |
 | 235 | 144 | Toph |
