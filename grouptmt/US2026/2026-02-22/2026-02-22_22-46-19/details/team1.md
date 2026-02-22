@@ -179,8 +179,8 @@
 | 171 | 304 | Nicole Roseberry Weber |
 | 172 | 303 | Letson Melissa |
 | 173 | 302 | Mike Ames |
-| 174 | 298 | Danielle Little-Daugherty |
-| 175 | 298 | femmefatale |
+| 174 | 298 | femmefatale |
+| 175 | 298 | Danielle Little-Daugherty |
 | 176 | 296 | ALFD |
 | 177 | 296 | Madison Wicks |
 | 178 | 295 | David Lutcher |
@@ -197,8 +197,8 @@
 | 189 | 279 | Tana |
 | 190 | 277 | Nutty Spinblock |
 | 191 | 277 | Christy Jones |
-| 192 | 276 | Shiny Snapfit |
-| 193 | 276 | Damon J. Martin |
+| 192 | 276 | Damon J. Martin |
+| 193 | 276 | Shiny Snapfit |
 | 194 | 273 | Shannon Marie Pitts |
 | 195 | 272 | Sleepysloath5745 |
 | 196 | 270 | Mandyy Rae |
@@ -311,8 +311,8 @@
 | 303 | 191 | Steph |
 | 304 | 191 | Herm Junior |
 | 305 | 190 | Sweetts |
-| 306 | 189 | Bird Person |
-| 307 | 189 | Tawnya Peltonen |
+| 306 | 189 | Tawnya Peltonen |
+| 307 | 189 | Bird Person |
 | 308 | 188 | Betsy |
 | 309 | 187 | Jessica Weed |
 | 310 | 187 | Fresno Beotoni |
@@ -327,8 +327,8 @@
 | 319 | 183 | Dino |
 | 320 | 181 | David DeSantis |
 | 321 | 179 | Larry Tilton |
-| 322 | 179 | Ryan White |
-| 323 | 179 | Slinky Rotater |
+| 322 | 179 | Slinky Rotater |
+| 323 | 179 | Ryan White |
 | 324 | 178 | Gabrielle Louise Malloch |
 | 325 | 177 | ash |
 | 326 | 177 | Jacqueline Unique |
@@ -433,7 +433,7 @@
 | 425 | 139 | Funky Piecebuilder |
 | 426 | 139 | Aimee Horton |
 | 427 | 139 | Cozy Shatterer |
-| 428 | 138 | Sunny Shift |
+| 428 | 138 | Kirk Torrey |
 | 429 | 138 | Unicorn |
 | 430 | 138 | Sunny Shift |
 | 431 | 138 | Alyssa Ingram |

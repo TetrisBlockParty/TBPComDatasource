@@ -186,8 +186,8 @@
 | 178 | 460 | Danielle Allison |
 | 179 | 460 | Araceli Parra |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Jim Mathews |
-| 182 | 457 | Shannon Matthew Byers |
+| 181 | 457 | Shannon Matthew Byers |
+| 182 | 457 | Jim Mathews |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
@@ -347,8 +347,8 @@
 | 339 | 247 | Daring Builder |
 | 340 | 246 | Erika Thornton |
 | 341 | 245 | Latoya Mayne |
-| 342 | 244 | Quackers |
-| 343 | 244 | LaNette Morgan |
+| 342 | 244 | LaNette Morgan |
+| 343 | 244 | Quackers |
 | 344 | 243 | Josh Borquez |
 | 345 | 242 | Randy Clevenger |
 | 346 | 240 | Rachel Grant |

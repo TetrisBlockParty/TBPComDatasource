@@ -180,8 +180,8 @@
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
 | 174 | 1242 | Mischelle Clay |
-| 175 | 1232 | Ambyre Patterson |
-| 176 | 1232 | Groovy Puzzle |
+| 175 | 1232 | Groovy Puzzle |
+| 176 | 1232 | Ambyre Patterson |
 | 177 | 1230 | Megan Garrick |
 | 178 | 1224 | Liberty |
 | 179 | 1211 | Lucky Ladybug |
@@ -592,8 +592,8 @@
 | 584 | 478 | Christina Ashley |
 | 585 | 477 | Juanita Lyons |
 | 586 | 476 | Chummy Blockbuilder |
-| 587 | 476 | Cecilia A Jenkins |
-| 588 | 476 | Ashlee Cruz |
+| 587 | 476 | Ashlee Cruz |
+| 588 | 476 | Cecilia A Jenkins |
 | 589 | 476 | Kiana Boschh |
 | 590 | 475 | Lee Harper |
 | 591 | 475 | Mia Muse Best |
@@ -706,8 +706,8 @@
 | 698 | 409 | Alexis Richardson |
 | 699 | 408 | Qiana Sanders |
 | 700 | 407 | Tipsy Filler |
-| 701 | 406 | Erin StFrancis |
-| 702 | 406 | Jess Morrison |
+| 701 | 406 | Jess Morrison |
+| 702 | 406 | Erin StFrancis |
 | 703 | 404 | Julie Hamilton |
 | 704 | 403 | Matthew Joseph Acevedo |
 | 705 | 403 | Nate Skidmore |
@@ -722,8 +722,8 @@
 | 714 | 400 | Deana |
 | 715 | 400 | Tammy Allen |
 | 716 | 399 | Court |
-| 717 | 398 | Misti Markijohn |
-| 718 | 398 | Witty Piecebuilder |
+| 717 | 398 | Witty Piecebuilder |
+| 718 | 398 | Misti Markijohn |
 | 719 | 398 | Heather Sawtelle-Mckenzie |
 | 720 | 398 | Frisky Riserbuilder |
 | 721 | 397 | Cris cris |
@@ -731,8 +731,8 @@
 | 723 | 397 | Dawn Woosley Bowes |
 | 724 | 396 | Candy Pitts |
 | 725 | 396 | Cassie Newton |
-| 726 | 395 | Susan Arnburg |
-| 727 | 395 | Vung Nguyen |
+| 726 | 395 | Vung Nguyen |
+| 727 | 395 | Susan Arnburg |
 | 728 | 394 | Christina Jarvis-Swarbrick |
 | 729 | 393 | Jamie West |
 | 730 | 391 | Jessica Conaway |
