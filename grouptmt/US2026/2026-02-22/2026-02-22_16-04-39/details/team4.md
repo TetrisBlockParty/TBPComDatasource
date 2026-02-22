@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -231,8 +231,8 @@
 | 223 | 200 | Rebecca Morris |
 | 224 | 200 | Lori |
 | 225 | 199 | April Rondinone |
-| 226 | 198 | Calvin Dennis |
-| 227 | 198 | Keith Kelley |
+| 226 | 198 | Keith Kelley |
+| 227 | 198 | Calvin Dennis |
 | 228 | 197 | Silly SeaWeed |
 | 229 | 197 | Gilles Lanctot |
 | 230 | 196 | Mr. Party |
@@ -251,8 +251,8 @@
 | 243 | 184 | Ak Jones |
 | 244 | 184 | Lauren Lamb |
 | 245 | 183 | JPW |
-| 246 | 181 | Jackie Marie |
-| 247 | 181 | Carter Jones |
+| 246 | 181 | Carter Jones |
+| 247 | 181 | Jackie Marie |
 | 248 | 180 | Orchislactea |
 | 249 | 179 | Stephme310 |
 | 250 | 179 | TinyLegoRose |
@@ -270,8 +270,8 @@
 | 262 | 166 | SammieJo Guy |
 | 263 | 166 | Angelito |
 | 264 | 165 | James Hurley Jr. |
-| 265 | 165 | Brittany Marsh |
-| 266 | 165 | Zappy Buildgrid |
+| 265 | 165 | Zappy Buildgrid |
+| 266 | 165 | Brittany Marsh |
 | 267 | 164 | KimoKoala |
 | 268 | 163 | Ellen Durfee |
 | 269 | 162 | Gwendolyn Pitcairn |

@@ -187,8 +187,8 @@
 | 179 | 384 | Dapper Snap |
 | 180 | 382 | Scott Carleton |
 | 181 | 380 | Tasha Schriewer |
-| 182 | 378 | Chris Bell |
-| 183 | 378 | Nicole Flippo |
+| 182 | 378 | Nicole Flippo |
+| 183 | 378 | Chris Bell |
 | 184 | 376 | Loopy Clusterer |
 | 185 | 375 | rosy |
 | 186 | 374 | Sherry Ogden |
@@ -254,8 +254,8 @@
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 279 | Terry Jo Jones |
-| 249 | 278 | Sabrina Hardrick |
-| 250 | 278 | Rufus Lincoln |
+| 249 | 278 | Rufus Lincoln |
+| 250 | 278 | Sabrina Hardrick |
 | 251 | 276 | _melisa223_ |
 | 252 | 276 | Crimson |
 | 253 | 275 | Cassandra Bryant |
@@ -317,10 +317,10 @@
 | 309 | 220 | Tosha Griffey |
 | 310 | 217 | Twisty Brick LT |
 | 311 | 216 | Cheryl Hinch Tenbrook |
-| 312 | 216 | Tina Smith Roy |
-| 313 | 216 | Frothy Snapper |
+| 312 | 216 | Frothy Snapper |
+| 313 | 216 | Tina Smith Roy |
 | 314 | 214 | Amy Fuller Heaton |
-| 315 | 214 | Lizabeth Fox |
+| 315 | 214 | Jennifer Alvey |
 | 316 | 214 | Randy Clevenger |
 | 317 | 214 | Lizabeth Fox |
 | 318 | 213 | Romeo |
@@ -335,8 +335,8 @@
 | 327 | 209 | Micayah Stevens |
 | 328 | 209 | TotoCherue |
 | 329 | 209 | Philip Rock |
-| 330 | 208 | Niki Dalrymple |
-| 331 | 208 | AlsoJess |
+| 330 | 208 | AlsoJess |
+| 331 | 208 | Niki Dalrymple |
 | 332 | 207 | angieelyn |
 | 333 | 207 | Jessica |
 | 334 | 207 | Daring Builder |

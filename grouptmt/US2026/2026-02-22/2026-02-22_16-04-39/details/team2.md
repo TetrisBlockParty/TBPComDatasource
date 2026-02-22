@@ -353,8 +353,8 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | goofinoff |
-| 349 | 661 | BeQuo |
+| 348 | 661 | BeQuo |
+| 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | Shiny Rollzone |
@@ -379,8 +379,8 @@
 | 371 | 616 | Cassie Mercer |
 | 372 | 613 | Ellie Jonas |
 | 373 | 613 | Caitlyn Blackwell |
-| 374 | 611 | Julio A Laracuente |
-| 375 | 611 | Carl Bradshaw |
+| 374 | 611 | Carl Bradshaw |
+| 375 | 611 | Julio A Laracuente |
 | 376 | 611 | Em Chen |
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
@@ -395,8 +395,8 @@
 | 387 | 589 | Shavonna Haynes |
 | 388 | 586 | Heather Schelkopf |
 | 389 | 584 | Eckoman518 |
-| 390 | 584 | Kimberly Randesi |
-| 391 | 584 | Ginnell Browner |
+| 390 | 584 | Ginnell Browner |
+| 391 | 584 | Kimberly Randesi |
 | 392 | 583 | Jackie Avila |
 | 393 | 581 | Jerry Tempelmeyer |
 | 394 | 581 | Angie Marie |
@@ -441,10 +441,10 @@
 | 433 | 532 | Lylymom |
 | 434 | 531 | Aishah Brice |
 | 435 | 529 | Ben Barkley |
-| 436 | 528 | Sparkles |
-| 437 | 528 | Anita Rose Green |
-| 438 | 527 | Ryan Gunther |
-| 439 | 527 | Osun Anuket Esu |
+| 436 | 528 | Anita Rose Green |
+| 437 | 528 | Sparkles |
+| 438 | 527 | Osun Anuket Esu |
+| 439 | 527 | Ryan Gunther |
 | 440 | 526 | Sheronda Jackson |
 | 441 | 525 | Joseph Musick |
 | 442 | 524 | Lonne Emade |
@@ -459,8 +459,8 @@
 | 451 | 516 | Diamond Scott |
 | 452 | 515 | Victoria Regina Girolami |
 | 453 | 515 | Laquetta Royston |
-| 454 | 514 | Karen Posadas Centeno |
-| 455 | 514 | Sarah Berger |
+| 454 | 514 | Sarah Berger |
+| 455 | 514 | Karen Posadas Centeno |
 | 456 | 512 | Leslie Jorgenson |
 | 457 | 511 | Doowop40 |
 | 458 | 511 | Laura Mclean |
@@ -482,8 +482,8 @@
 | 474 | 495 | Bubbly Snapbuild |
 | 475 | 494 | Leah |
 | 476 | 494 | Venita Ray |
-| 477 | 493 | Sue Leard |
-| 478 | 493 | Sarah DeHart |
+| 477 | 493 | Sarah DeHart |
+| 478 | 493 | Sue Leard |
 | 479 | 492 | Breezy Clusterer |
 | 480 | 492 | Armonie Smith |
 | 481 | 492 | Maya June |
@@ -726,8 +726,8 @@
 | 718 | 346 | Danielle Ayoub |
 | 719 | 345 | Rhianna DiLorenzo |
 | 720 | 345 | Gina Caulder |
-| 721 | 344 | Sarah block |
-| 722 | 344 | Glenn Cobbins |
+| 721 | 344 | Glenn Cobbins |
+| 722 | 344 | Sarah block |
 | 723 | 343 | Snappy Shatterfit |
 | 724 | 343 | Cris cris |
 | 725 | 342 | Danielle DeLozier Plesec |
@@ -776,8 +776,8 @@
 | 768 | 320 | Tash Bell |
 | 769 | 320 | Mary Boss |
 | 770 | 319 | Cassie Newton |
-| 771 | 319 | Cheery Puzzler |
-| 772 | 319 | RetroLemur |
+| 771 | 319 | RetroLemur |
+| 772 | 319 | Cheery Puzzler |
 | 773 | 318 | Jennifer Mahon |
 | 774 | 317 | Zombi3 |
 | 775 | 317 | Ashlyn Berner |
@@ -809,14 +809,14 @@
 | 801 | 308 | Kristina Marie Hanna |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
-| 804 | 305 | Epic Fitzone |
+| 804 | 305 | Frisky Patternline |
 | 805 | 305 | Narutofreak13 |
-| 806 | 305 | Frisky Patternline |
+| 806 | 305 | Epic Fitzone |
 | 807 | 305 | Zany Clusterbuilder |
 | 808 | 304 | Melissa McCall |
 | 809 | 304 | NFLPITMOM |
-| 810 | 303 | Amanda Schaffer |
-| 811 | 303 | Devin |
+| 810 | 303 | Devin |
+| 811 | 303 | Amanda Schaffer |
 | 812 | 303 | Alyssia Tancredi |
 | 813 | 302 | Epic Stackbuilder |
 | 814 | 302 | Kena T. Tanner |
@@ -1272,9 +1272,9 @@
 | 1264 | 204 | Abby Jensen |
 | 1265 | 204 | Edralin Custodio |
 | 1266 | 202 | Jen Sippel |
-| 1267 | 202 | Shanae Dillahunty |
-| 1268 | 202 | Paul Hinkle |
-| 1269 | 202 | Joy Marie |
+| 1267 | 202 | Paul Hinkle |
+| 1268 | 202 | Joy Marie |
+| 1269 | 202 | Shanae Dillahunty |
 | 1270 | 202 | BIG BABY |
 | 1271 | 202 | Tamara Slaten |
 | 1272 | 202 | Alicia Moreno |
