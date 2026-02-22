@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -107,8 +107,8 @@
 | 99 | 396 | Alicia Bass |
 | 100 | 393 | Carlton Unfiltered |
 | 101 | 392 | Ericca Eldridge |
-| 102 | 391 | Monica Daley |
-| 103 | 391 | Ramel Rhodes |
+| 102 | 391 | Ramel Rhodes |
+| 103 | 391 | Monica Daley |
 | 104 | 387 | Denise Carlson |
 | 105 | 382 | Marie-Pier Desjardins |
 | 106 | 377 | Lori Walker |
@@ -136,11 +136,11 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Brittney Orengo |
-| 132 | 283 | Scott Jameson |
+| 131 | 283 | Scott Jameson |
+| 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Carrie Brian |
-| 135 | 278 | Desi Desporte |
+| 134 | 278 | Desi Desporte |
+| 135 | 278 | Carrie Brian |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -243,8 +243,8 @@
 | 235 | 165 | Jackie Marie |
 | 236 | 164 | 030Synner |
 | 237 | 163 | Kristina Black |
-| 238 | 162 | Porkobello |
-| 239 | 162 | John Brunetti |
+| 238 | 162 | John Brunetti |
+| 239 | 162 | Porkobello |
 | 240 | 162 | Joanna |
 | 241 | 161 | Jenny Wells-Oakley |
 | 242 | 160 | Brittany Marsh |

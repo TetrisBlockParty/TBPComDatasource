@@ -103,14 +103,14 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
 | 103 | 566 | Dolores Falco |
-| 104 | 565 | Patty Allen |
-| 105 | 565 | Rachael McClain Owens |
+| 104 | 565 | Rachael McClain Owens |
+| 105 | 565 | Patty Allen |
 | 106 | 562 | Dave Herzog |
 | 107 | 562 | Louise Stacy Sisson |
 | 108 | 559 | Morgan Martinez |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -279,8 +279,8 @@
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Dirtgirl27 |
-| 275 | 225 | Stephanie Hill |
+| 274 | 225 | Stephanie Hill |
+| 275 | 225 | Dirtgirl27 |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -448,8 +448,8 @@
 | 440 | 139 | Paula Little |
 | 441 | 138 | Bleu Sun Beams |
 | 442 | 137 | Giggly Brickroll |
-| 443 | 136 | Stephanie Zahm |
-| 444 | 136 | Sabrina Mansfield |
+| 443 | 136 | Sabrina Mansfield |
+| 444 | 136 | Stephanie Zahm |
 | 445 | 136 | Karen Picaboo |
 | 446 | 135 | Jen Lewis |
 | 447 | 135 | Morgan Cudo |

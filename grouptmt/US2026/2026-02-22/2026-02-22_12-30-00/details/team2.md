@@ -227,8 +227,8 @@
 | 219 | 867 | Peppy Zone |
 | 220 | 865 | Dedra Steward |
 | 221 | 863 | nikki |
-| 222 | 862 | Brittany Radaszewski |
-| 223 | 862 | Robin Kerby |
+| 222 | 862 | Robin Kerby |
+| 223 | 862 | Brittany Radaszewski |
 | 224 | 860 | Felicia Lynn |
 | 225 | 860 | April Dawn Gussler |
 | 226 | 857 | Della Hole |
@@ -344,8 +344,8 @@
 | 336 | 627 | Victoria Moore-Smith |
 | 337 | 620 | Brandon Armstrong |
 | 338 | 617 | Leslie Ann Carter |
-| 339 | 613 | Caitlyn Blackwell |
-| 340 | 613 | Breezy Filler |
+| 339 | 613 | Breezy Filler |
+| 340 | 613 | Caitlyn Blackwell |
 | 341 | 613 | Ellie Jonas |
 | 342 | 611 | Em Chen |
 | 343 | 611 | Julio A Laracuente |
@@ -391,8 +391,8 @@
 | 383 | 550 | Nashu |
 | 384 | 549 | Darcy Mae |
 | 385 | 549 | Kaylee McCafferty |
-| 386 | 548 | Brownie Sheena |
-| 387 | 548 | Taryece Gause |
+| 386 | 548 | Taryece Gause |
+| 387 | 548 | Brownie Sheena |
 | 388 | 544 | Deidre Shaffer |
 | 389 | 544 | Leah Keesling |
 | 390 | 543 | Vanessa Moreno |
@@ -439,8 +439,8 @@
 | 431 | 500 | Sarah Ridenour |
 | 432 | 499 | Sarah Massey |
 | 433 | 498 | Rhonda Milstead |
-| 434 | 497 | Doowop40 |
-| 435 | 497 | June E Hanson |
+| 434 | 497 | June E Hanson |
+| 435 | 497 | Doowop40 |
 | 436 | 494 | Venita Ray |
 | 437 | 493 | Kara Gillen |
 | 438 | 492 | Maya June |
@@ -928,10 +928,10 @@
 | 920 | 254 | Paula Martinez |
 | 921 | 254 | Elizabeth Diraffaele |
 | 922 | 252 | Layna Lyons |
-| 923 | 252 | Aleasha M Brown |
-| 924 | 252 | Marget Kay |
-| 925 | 251 | Kimmie Zimmerman-Rocha |
-| 926 | 251 | Chipper Dashpiece |
+| 923 | 252 | Marget Kay |
+| 924 | 252 | Aleasha M Brown |
+| 925 | 251 | Chipper Dashpiece |
+| 926 | 251 | Kimmie Zimmerman-Rocha |
 | 927 | 251 | Bold Clusterfit |
 | 928 | 251 | Regina Unruh |
 | 929 | 251 | Emoniee Sa'niaya |
@@ -976,8 +976,8 @@
 | 968 | 239 | Daring Matchfit |
 | 969 | 238 | Kim McGrath |
 | 970 | 238 | Pfc Monei Rivera |
-| 971 | 237 | Devlin Ogg |
-| 972 | 237 | Breezy Tilt |
+| 971 | 237 | Breezy Tilt |
+| 972 | 237 | Devlin Ogg |
 | 973 | 237 | Jodi Mitnick |
 | 974 | 237 | Nutty Matchline |
 | 975 | 236 | Nikki Arlene |
@@ -1208,8 +1208,8 @@
 | 1200 | 192 | Dawn Woosley Bowes |
 | 1201 | 192 | Joy Marie |
 | 1202 | 192 | Donna M Carter |
-| 1203 | 192 | Leroy Jenkins |
-| 1204 | 192 | Nicole Sanqui |
+| 1203 | 192 | Nicole Sanqui |
+| 1204 | 192 | Leroy Jenkins |
 | 1205 | 191 | Samuel Labruno |
 | 1206 | 191 | Klaudia Figaszewska |
 | 1207 | 191 | Netty |
