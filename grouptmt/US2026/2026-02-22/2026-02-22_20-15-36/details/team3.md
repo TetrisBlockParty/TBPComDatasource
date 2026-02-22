@@ -157,8 +157,8 @@
 | 149 | 492 | Daira Largen |
 | 150 | 491 | Chauntee Alfrey-Cardinale |
 | 151 | 484 | Samantha Greco |
-| 152 | 479 | Poppy Splitter |
-| 153 | 479 | Annie Marie |
+| 152 | 479 | Annie Marie |
+| 153 | 479 | Poppy Splitter |
 | 154 | 479 | Patti Skiles |
 | 155 | 474 | Danielle Balcom |
 | 156 | 473 | Calista Jo Dickson |
@@ -230,18 +230,18 @@
 | 222 | 350 | Kammy Hill |
 | 223 | 349 | Amanda J. Mcneil-Anderson |
 | 224 | 348 | Kristal C Lee |
-| 225 | 347 | Trisha Balmer |
-| 226 | 347 | Philip Rock |
+| 225 | 347 | Philip Rock |
+| 226 | 347 | Trisha Balmer |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Ashley Tookes |
 | 232 | 341 | Noyb Adam |
 | 233 | 341 | Samantha Lynn |
 | 234 | 340 | Ammmmmmy |
-| 235 | 338 | Rebecca Funderburk Kirby |
-| 236 | 338 | Gumbo |
+| 235 | 338 | Gumbo |
+| 236 | 338 | Rebecca Funderburk Kirby |
 | 237 | 332 | Bmo |
 | 238 | 330 | victory |
 | 239 | 329 | Brittany |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Or Reznitsky |
-| 245 | 320 | Ashley Muncey |
+| 244 | 320 | Ashley Muncey |
+| 245 | 320 | Or Reznitsky |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |

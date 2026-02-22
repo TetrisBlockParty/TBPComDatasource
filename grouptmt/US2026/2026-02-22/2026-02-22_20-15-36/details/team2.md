@@ -276,8 +276,8 @@
 | 268 | 875 | Jamie Otero |
 | 269 | 874 | Giggy Blocker |
 | 270 | 872 | Felicia Lynn |
-| 271 | 867 | Peppy Zone |
-| 272 | 867 | Michele Gabriel |
+| 271 | 867 | Michele Gabriel |
+| 272 | 867 | Peppy Zone |
 | 273 | 865 | Kristin Gower |
 | 274 | 862 | Brittany Radaszewski |
 | 275 | 860 | April Dawn Gussler |
@@ -581,18 +581,18 @@
 | 573 | 467 | Audrey Jones |
 | 574 | 467 | SwampRebel |
 | 575 | 466 | Koa N Sharon Chen |
-| 576 | 466 | Ebony Deloach Bryant |
-| 577 | 466 | Kori Beth Babb |
-| 578 | 466 | Crystal Greene |
+| 576 | 466 | Kori Beth Babb |
+| 577 | 466 | Crystal Greene |
+| 578 | 466 | Ebony Deloach Bryant |
 | 579 | 464 | Ryan Stadel |
 | 580 | 463 | Jaye EL Hunter |
 | 581 | 462 | Jennifer Scott |
 | 582 | 462 | Daphne Jordan |
 | 583 | 461 | Lucy Marshall |
 | 584 | 460 | LaWanda Powell |
-| 585 | 460 | Tara Lynn Janes |
-| 586 | 460 | Gloria Ininahazwe |
-| 587 | 460 | Funky Caster |
+| 585 | 460 | Gloria Ininahazwe |
+| 586 | 460 | Funky Caster |
+| 587 | 460 | Tara Lynn Janes |
 | 588 | 459 | Shyenn Gadsby |
 | 589 | 458 | Jessica S Flecha |
 | 590 | 457 | Snazzy Basepiece |
@@ -656,8 +656,8 @@
 | 648 | 417 | Alexx Anaya |
 | 649 | 417 | Oscar Bernie |
 | 650 | 416 | Mo Shine On |
-| 651 | 414 | Jasmine Kenney |
-| 652 | 414 | John |
+| 651 | 414 | John |
+| 652 | 414 | Jasmine Kenney |
 | 653 | 414 | Daniel Amos |
 | 654 | 413 | Kristen O'Neal |
 | 655 | 413 | Kimberly Ann |

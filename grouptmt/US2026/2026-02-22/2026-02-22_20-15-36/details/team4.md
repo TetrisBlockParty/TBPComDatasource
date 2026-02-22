@@ -117,10 +117,10 @@
 | 109 | 440 | Lori Walker |
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
-| 112 | 429 | Christina LR |
-| 113 | 429 | Isabella Blanco |
-| 114 | 427 | Jolly Dashfit |
-| 115 | 427 | KJ Pool |
+| 112 | 429 | Isabella Blanco |
+| 113 | 429 | Christina LR |
+| 114 | 427 | KJ Pool |
+| 115 | 427 | Jolly Dashfit |
 | 116 | 426 | Ren Mc |
 | 117 | 422 | shar |
 | 118 | 418 | Dizzy Tiley |
@@ -138,8 +138,8 @@
 | 130 | 366 | Alyssa Papen |
 | 131 | 357 | Trista Leah |
 | 132 | 354 | Jessica Lynn Cutlip |
-| 133 | 353 | Tyler Terrific |
-| 134 | 353 | Livvy |
+| 133 | 353 | Livvy |
+| 134 | 353 | Tyler Terrific |
 | 135 | 348 | Kesha Brady |
 | 136 | 344 | Lush Linkfall |
 | 137 | 343 | Latisha Davis |
@@ -374,7 +374,7 @@
 | 366 | 143 | Metsfan |
 | 367 | 142 | Walter Beltran |
 | 368 | 142 | Nerdy Twisterfit |
-| 369 | 142 | Alexandra Karavias |
+| 369 | 142 | Katie Alexander |
 | 370 | 142 | Chantilly Laace |
 | 371 | 142 | Alexandra Karavias |
 | 372 | 142 | Berklie Apedaile |
@@ -636,7 +636,7 @@
 | 628 | 80 | Savannah Roughton Jones |
 | 629 | 80 | Melissa Adams |
 | 630 | 79 | Petty |
-| 631 | 79 | Krs |
+| 631 | 79 | Stacy |
 | 632 | 79 | Jason M Cadreau |
 | 633 | 79 | Lynette Manning |
 | 634 | 79 | Krs |
