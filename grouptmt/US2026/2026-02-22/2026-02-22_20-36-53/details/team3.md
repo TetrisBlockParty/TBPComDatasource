@@ -212,8 +212,8 @@
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Rich LeBlanc |
-| 208 | 372 | Giddy Twistbuilder |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Rich LeBlanc |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -226,13 +226,13 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Eon Harris |
-| 222 | 351 | Rebecca Funderburk Kirby |
+| 221 | 351 | Rebecca Funderburk Kirby |
+| 222 | 351 | Eon Harris |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
-| 226 | 347 | Philip Rock |
-| 227 | 347 | Trisha Balmer |
+| 226 | 347 | Trisha Balmer |
+| 227 | 347 | Philip Rock |
 | 228 | 346 | Tamara Deherrera |
 | 229 | 344 | Roary Danner |
 | 230 | 344 | Rania Zaqout |
@@ -258,8 +258,8 @@
 | 250 | 312 | Charles Perrone |
 | 251 | 308 | Cynthia Herrmann Egland |
 | 252 | 307 | rnr junky |
-| 253 | 307 | Snappy Balancer |
-| 254 | 307 | Blocked |
+| 253 | 307 | Blocked |
+| 254 | 307 | Snappy Balancer |
 | 255 | 306 | Felicia Rocha |
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
@@ -283,8 +283,8 @@
 | 275 | 286 | Terry Jo Jones |
 | 276 | 283 | Heather Green |
 | 277 | 279 | Connie Mohler-Fair |
-| 278 | 278 | LaShey Thompson |
-| 279 | 278 | Rufus Lincoln |
+| 278 | 278 | Rufus Lincoln |
+| 279 | 278 | LaShey Thompson |
 | 280 | 277 | Tracy Martin |
 | 281 | 277 | Kaycee Kay |
 | 282 | 277 | Joe-Maggie Mathews |
@@ -613,8 +613,8 @@
 | 605 | 132 | Peachy Westbrook |
 | 606 | 132 | Mel Murr |
 | 607 | 131 | Barb Wensink Johnson |
-| 608 | 131 | Bnoom |
-| 609 | 131 | Mindy Phelps |
+| 608 | 131 | Mindy Phelps |
+| 609 | 131 | Bnoom |
 | 610 | 131 | Sarah Tschee |
 | 611 | 130 | Samantha Lohmeyer |
 | 612 | 130 | Spicy Caster |

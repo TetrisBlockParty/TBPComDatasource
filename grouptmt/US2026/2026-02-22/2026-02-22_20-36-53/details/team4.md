@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
-| 44 | 846 | Jae Job |
-| 45 | 846 | Lucille Truesdale |
+| 43 | 846 | Lucille Truesdale |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -81,8 +81,8 @@
 | 73 | 647 | KM8 |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
