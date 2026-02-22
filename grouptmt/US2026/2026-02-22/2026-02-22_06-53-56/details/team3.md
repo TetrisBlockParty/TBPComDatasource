@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -166,7 +166,7 @@
 | 158 | 376 | Loopy Clusterer |
 | 159 | 374 | Sherry Ogden |
 | 160 | 371 | Michael Nowogorski |
-| 161 | 370 | Santeria Trece Candles |
+| 161 | 370 | Logan Naccarato |
 | 162 | 370 | Danielle Allison |
 | 163 | 370 | Santeria Trece Candles |
 | 164 | 368 | Queen Kam |
@@ -184,8 +184,8 @@
 | 176 | 343 | Ashley Raines |
 | 177 | 341 | Jim Mathews |
 | 178 | 341 | Samantha Lynn |
-| 179 | 338 | Leah Barnett |
-| 180 | 338 | Gumbo |
+| 179 | 338 | Gumbo |
+| 180 | 338 | Leah Barnett |
 | 181 | 332 | Rich LeBlanc |
 | 182 | 328 | Giddy Twistbuilder |
 | 183 | 323 | Demetrious Shaw Sr. |
@@ -241,8 +241,8 @@
 | 233 | 258 | Tamara Deherrera |
 | 234 | 257 | Ashley Jones |
 | 235 | 256 | Brenda Lee Vander Molen |
-| 236 | 256 | Tiffany Davie |
-| 237 | 256 | KayB |
+| 236 | 256 | KayB |
+| 237 | 256 | Tiffany Davie |
 | 238 | 251 | Sabrina Hardrick |
 | 239 | 250 | fraulila |
 | 240 | 249 | JerseyJess |
@@ -322,8 +322,8 @@
 | 314 | 178 | Jess Dearborn |
 | 315 | 178 | Jennifer Alvey |
 | 316 | 177 | Rachel |
-| 317 | 176 | Emma |
-| 318 | 176 | Melissa Orth Hunter |
+| 317 | 176 | Melissa Orth Hunter |
+| 318 | 176 | Emma |
 | 319 | 175 | Eileen Brady Thurber |
 | 320 | 174 | Betty Rosas |
 | 321 | 174 | Lesley Perez |
@@ -362,13 +362,13 @@
 | 354 | 155 | Chummy Caster |
 | 355 | 155 | Michell Hendershott Jackson |
 | 356 | 155 | Michael Leblanc |
-| 357 | 153 | Lys |
-| 358 | 153 | Sheila M Frazier |
-| 359 | 153 | Wetwet |
-| 360 | 153 | Tony Waters |
+| 357 | 153 | Sheila M Frazier |
+| 358 | 153 | Lys |
+| 359 | 153 | Tony Waters |
+| 360 | 153 | Wetwet |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Shiny Zonebuilder |
-| 363 | 152 | Eric Caccavale |
+| 362 | 152 | Eric Caccavale |
+| 363 | 152 | Shiny Zonebuilder |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -913,7 +913,7 @@
 | 905 | 61 | Jeffery Brown |
 | 906 | 61 | Mllwsv |
 | 907 | 61 | Happy Tetriblast |
-| 908 | 61 | Jeffery Brown |
+| 908 | 61 | Void |
 | 909 | 61 | Slinky Blocker |
 | 910 | 61 | MomOnBreak |
 | 911 | 61 | Hasty Gridpiece |

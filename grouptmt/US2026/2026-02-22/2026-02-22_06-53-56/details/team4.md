@@ -145,11 +145,11 @@
 | 137 | 253 | Jeff Brian Gates |
 | 138 | 249 | Leah Kutz Zirbel |
 | 139 | 245 | Diana Houts |
-| 140 | 240 | Jolly Dashfit |
-| 141 | 240 | Peachy Fall |
+| 140 | 240 | Peachy Fall |
+| 141 | 240 | Jolly Dashfit |
 | 142 | 232 | Crystal Nicolette Moore |
-| 143 | 230 | Autum Leigh |
-| 144 | 230 | Cursed Hag |
+| 143 | 230 | Cursed Hag |
+| 144 | 230 | Autum Leigh |
 | 145 | 228 | J-Rizzle |
 | 146 | 227 | Chris Bernstein |
 | 147 | 227 | Alyssa Papen |
@@ -165,8 +165,8 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Ren Mc |
-| 161 | 215 | Jessica Bohlken |
+| 160 | 215 | Jessica Bohlken |
+| 161 | 215 | Ren Mc |
 | 162 | 214 | Twisty Cascadezone |
 | 163 | 213 | Sarah Neathery |
 | 164 | 213 | Jason Allen |

@@ -114,9 +114,9 @@
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Seth Wesson |
-| 110 | 310 | phrmblk24 |
-| 111 | 310 | Jason Jones |
+| 109 | 310 | phrmblk24 |
+| 110 | 310 | Jason Jones |
+| 111 | 310 | Seth Wesson |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |
@@ -136,8 +136,8 @@
 | 128 | 280 | Sarah Roberts |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Lexuriuos Lifestlye |
-| 132 | 264 | Jenny Gingrich Fuentes |
+| 131 | 264 | Jenny Gingrich Fuentes |
+| 132 | 264 | Lexuriuos Lifestlye |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |
@@ -158,8 +158,8 @@
 | 150 | 229 | David Lutcher |
 | 151 | 226 | Sleepysloath5745 |
 | 152 | 226 | Kandae |
-| 153 | 218 | LC |
-| 154 | 218 | Witty Builderfit |
+| 153 | 218 | Witty Builderfit |
+| 154 | 218 | LC |
 | 155 | 217 | Dizzy Party |
 | 156 | 217 | ParisandCory Champagne |
 | 157 | 216 | Shauntina Burke |

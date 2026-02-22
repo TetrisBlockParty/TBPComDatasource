@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Isabela Shaw |
-| 118 | 1248 | Howard Forest |
+| 117 | 1248 | Howard Forest |
+| 118 | 1248 | Isabela Shaw |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -315,8 +315,8 @@
 | 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
-| 310 | 627 | Allan Wayne Lamia |
-| 311 | 627 | Victoria Moore-Smith |
+| 310 | 627 | Victoria Moore-Smith |
+| 311 | 627 | Allan Wayne Lamia |
 | 312 | 619 | Jánine Riggs |
 | 313 | 617 | tejas25 |
 | 314 | 617 | Leslie Ann Carter |
@@ -372,11 +372,11 @@
 | 364 | 525 | Desiree Anderson |
 | 365 | 524 | Jojo Momma |
 | 366 | 523 | Matt Johnson |
-| 367 | 522 | Lylymom |
-| 368 | 522 | Joseph Musick |
+| 367 | 522 | Joseph Musick |
+| 368 | 522 | Lylymom |
 | 369 | 521 | Tj Ball |
-| 370 | 520 | Maddy Petersen |
-| 371 | 520 | Angela Lynn |
+| 370 | 520 | Angela Lynn |
+| 371 | 520 | Maddy Petersen |
 | 372 | 519 | AISlop |
 | 373 | 519 | Rob Brown |
 | 374 | 517 | Amber Brion |
@@ -397,9 +397,9 @@
 | 389 | 502 | Sparkles |
 | 390 | 500 | Sarah Ridenour |
 | 391 | 499 | Sarah Massey |
-| 392 | 497 | June E Hanson |
-| 393 | 497 | Doowop40 |
-| 394 | 497 | BeQuo |
+| 392 | 497 | BeQuo |
+| 393 | 497 | June E Hanson |
+| 394 | 497 | Doowop40 |
 | 395 | 497 | Kimberly Randesi |
 | 396 | 496 | Blacc Blac |
 | 397 | 493 | Kara Gillen |
@@ -425,9 +425,9 @@
 | 417 | 481 | Klee |
 | 418 | 480 | Dar |
 | 419 | 478 | Ashley Collins |
-| 420 | 477 | Julay |
-| 421 | 477 | Michelle Fields |
-| 422 | 477 | Brenna Ann |
+| 420 | 477 | Brenna Ann |
+| 421 | 477 | Julay |
+| 422 | 477 | Michelle Fields |
 | 423 | 476 | Kitybox |
 | 424 | 475 | Michelle Lee |
 | 425 | 474 | Calandra Shaya Robinson |
@@ -498,8 +498,8 @@
 | 490 | 414 | Sabrina Burton |
 | 491 | 414 | John |
 | 492 | 413 | Juanita Lyons |
-| 493 | 413 | Biggest thing |
-| 494 | 413 | Lauren Fitzgerald Thomas |
+| 493 | 413 | Lauren Fitzgerald Thomas |
+| 494 | 413 | Biggest thing |
 | 495 | 411 | Kristen O'Neal |
 | 496 | 410 | Nicole Cannon |
 | 497 | 408 | Abimbola Bimbo |
@@ -513,8 +513,8 @@
 | 505 | 404 | Dawn L Washington-Feuquay |
 | 506 | 403 | Goofy Dasher |
 | 507 | 402 | SwampRebel |
-| 508 | 401 | De Hawkins |
-| 509 | 401 | Taylor Flowers |
+| 508 | 401 | Taylor Flowers |
+| 509 | 401 | De Hawkins |
 | 510 | 401 | Lee Harper |
 | 511 | 401 | Moua Ying |
 | 512 | 400 | Victoria Regina Girolami |
@@ -526,8 +526,8 @@
 | 518 | 396 | Boogie SoAnimated Johnson |
 | 519 | 394 | Taryece Gause |
 | 520 | 393 | Alexandra Weir |
-| 521 | 393 | Jamie West |
-| 522 | 393 | bbv |
+| 521 | 393 | bbv |
+| 522 | 393 | Jamie West |
 | 523 | 391 | Qiana Sanders |
 | 524 | 391 | Tipsy Filler |
 | 525 | 391 | Adam Simmons |
@@ -550,8 +550,8 @@
 | 542 | 384 | Kelly |
 | 543 | 384 | Mike Aprilliano |
 | 544 | 383 | Belle Mari |
-| 545 | 382 | David Holliday |
-| 546 | 382 | KhaosLord |
+| 545 | 382 | KhaosLord |
+| 546 | 382 | David Holliday |
 | 547 | 381 | Melissa Rebbe-Lehman |
 | 548 | 381 | Nicky Jackson |
 | 549 | 381 | Happy Caster |
@@ -598,8 +598,8 @@
 | 590 | 361 | Lewis Sturgeon |
 | 591 | 360 | Jroc |
 | 592 | 359 | Cheyenne Donovan |
-| 593 | 358 | Alyssaaelena |
-| 594 | 358 | Sydney Busse |
+| 593 | 358 | Sydney Busse |
+| 594 | 358 | Alyssaaelena |
 | 595 | 358 | Veronics |
 | 596 | 357 | Shannon Byrd |
 | 597 | 357 | Tristan Szolek |
@@ -620,8 +620,8 @@
 | 612 | 347 | Zesty Pivot |
 | 613 | 346 | Morgan Easter |
 | 614 | 346 | Stephanie Fortune |
-| 615 | 345 | Frisky Clearpiece |
-| 616 | 345 | Rhianna DiLorenzo |
+| 615 | 345 | Rhianna DiLorenzo |
+| 616 | 345 | Frisky Clearpiece |
 | 617 | 345 | Gina Caulder |
 | 618 | 344 | Tra Barnum |
 | 619 | 344 | Glenn Cobbins |
@@ -719,8 +719,8 @@
 | 711 | 300 | LaWanda Powell |
 | 712 | 300 | Alice Ball |
 | 713 | 300 | Kacee Conrad Bock |
-| 714 | 299 | Danielle Ayoub |
-| 715 | 299 | Cassie Newton |
+| 714 | 299 | Cassie Newton |
+| 715 | 299 | Danielle Ayoub |
 | 716 | 298 | Frilly Fallzone |
 | 717 | 298 | Ryan Stadel |
 | 718 | 298 | Lazy Riseclear |
@@ -739,13 +739,13 @@
 | 731 | 294 | Amanda Edwards |
 | 732 | 293 | Ann Marie Davis |
 | 733 | 292 | Deana |
-| 734 | 291 | James Smith |
-| 735 | 291 | Brave Gridpiece |
+| 734 | 291 | Brave Gridpiece |
+| 735 | 291 | James Smith |
 | 736 | 289 | Bella Novia |
 | 737 | 289 | August Hale |
 | 738 | 288 | thranduil |
-| 739 | 288 | Jenna Nance |
-| 740 | 288 | Samantha Angelo |
+| 739 | 288 | Samantha Angelo |
+| 740 | 288 | Jenna Nance |
 | 741 | 288 | Ashley Criner |
 | 742 | 287 | Toni Roberson |
 | 743 | 286 | Kelsey Sullivan |
@@ -1407,17 +1407,17 @@
 | 1399 | 152 | Alicia Sloan |
 | 1400 | 152 | Dizzy Snapper |
 | 1401 | 152 | Carrie Pike |
-| 1402 | 151 | hyperbole |
-| 1403 | 151 | Silly Brickzone |
-| 1404 | 151 | Eve Marie |
+| 1402 | 151 | Silly Brickzone |
+| 1403 | 151 | hyperbole |
+| 1404 | 151 | Tara Smalls |
 | 1405 | 151 | Keri Higuchi |
-| 1406 | 151 | Tara Smalls |
+| 1406 | 151 | Eve Marie |
 | 1407 | 151 | Britney Volz |
 | 1408 | 150 | Hfcbgc |
 | 1409 | 150 | Catherine Marsh Gruda |
-| 1410 | 150 | Shakena Tuggle |
+| 1410 | 150 | BEAST |
 | 1411 | 150 | Dizzy Clicker |
-| 1412 | 150 | BEAST |
+| 1412 | 150 | Shakena Tuggle |
 | 1413 | 150 | Francine Young |
 | 1414 | 150 | Amanda |
 | 1415 | 150 | Leebo Slice |
