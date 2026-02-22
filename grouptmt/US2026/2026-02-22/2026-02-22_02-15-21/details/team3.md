@@ -71,8 +71,8 @@
 | 63 | 649 | MissTaylor |
 | 64 | 639 | Elaine Webb Graves |
 | 65 | 628 | Tiff Vs Tiffany |
-| 66 | 621 | Jessica Bechler |
-| 67 | 621 | Cherry Parker |
+| 66 | 621 | Cherry Parker |
+| 67 | 621 | Jessica Bechler |
 | 68 | 619 | Jennifer |
 | 69 | 618 | Brandon Green |
 | 70 | 613 | Amber Hughes |
@@ -111,11 +111,11 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
-| 107 | 432 | Jenny Hrndz |
+| 106 | 432 | Jenny Hrndz |
+| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Elissa S-k |
-| 110 | 428 | Betty Ivy |
+| 109 | 428 | Betty Ivy |
+| 110 | 428 | Elissa S-k |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
@@ -189,8 +189,8 @@
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
-| 184 | 256 | Brenda Lee Vander Molen |
-| 185 | 256 | KayB |
+| 184 | 256 | KayB |
+| 185 | 256 | Brenda Lee Vander Molen |
 | 186 | 254 | Duane Bright |
 | 187 | 253 | Nora Rogers |
 | 188 | 251 | Tiffany Davie |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Sissy Lowery Davis |
-| 211 | 219 | Shunta Jacobs |
+| 210 | 219 | Shunta Jacobs |
+| 211 | 219 | Sissy Lowery Davis |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 216 | Tasha Wesson-Torrence |
@@ -227,8 +227,8 @@
 | 219 | 211 | Giddy Twistbuilder |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Chris Bell |
-| 223 | 207 | Jessica |
+| 222 | 207 | Jessica |
+| 223 | 207 | Chris Bell |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Danielle Allison |
 | 226 | 204 | Aerian Preston |
@@ -251,8 +251,8 @@
 | 243 | 189 | Katie Leigh Blankenship |
 | 244 | 188 | JerseyJess |
 | 245 | 185 | AlsoJess |
-| 246 | 184 | France Vézina |
-| 247 | 184 | Troy |
+| 246 | 184 | Troy |
+| 247 | 184 | France Vézina |
 | 248 | 181 | Nicholas Roddy |
 | 249 | 180 | Ryan Williams |
 | 250 | 180 | Brittany |
@@ -354,8 +354,8 @@
 | 346 | 130 | El Chapa |
 | 347 | 130 | Chummy Caster |
 | 348 | 129 | Juliana Dottore |
-| 349 | 129 | Danielle Weikel |
-| 350 | 129 | luluraine |
+| 349 | 129 | luluraine |
+| 350 | 129 | Danielle Weikel |
 | 351 | 128 | Linda Draper |
 | 352 | 128 | Josh Borquez |
 | 353 | 128 | David Kozen |

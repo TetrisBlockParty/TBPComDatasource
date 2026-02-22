@@ -90,8 +90,8 @@
 | 82 | 323 | Candy Jones |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Deanna L Hermanson |
-| 86 | 319 | Shauna Loe |
+| 85 | 319 | Shauna Loe |
+| 86 | 319 | Deanna L Hermanson |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 307 | Hyper |
@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Sharon Reynolds |
-| 111 | 263 | Jason Jones |
+| 110 | 263 | Jason Jones |
+| 111 | 263 | Sharon Reynolds |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 261 | Monica Donato |
 | 114 | 257 | june october |
@@ -204,8 +204,8 @@
 | 196 | 158 | Sarah Marie |
 | 197 | 154 | Melissa Lemmon |
 | 198 | 153 | Barry Mac'Ockner |
-| 199 | 152 | Brave Wrecker |
-| 200 | 152 | Speedy Snapfall |
+| 199 | 152 | Speedy Snapfall |
+| 200 | 152 | Brave Wrecker |
 | 201 | 150 | Adele Rahman |
 | 202 | 147 | DaRascal |
 | 203 | 147 | Davery Spencer Adair |
@@ -215,8 +215,8 @@
 | 207 | 144 | Toph |
 | 208 | 144 | Miguel Teixeira |
 | 209 | 142 | Colleen Wise |
-| 210 | 141 | Blaire Bruckoff |
-| 211 | 141 | Dino |
+| 210 | 141 | Dino |
+| 211 | 141 | Blaire Bruckoff |
 | 212 | 139 | Flashy Rotator |
 | 213 | 138 | Mark Smith |
 | 214 | 138 | Giddy Cascade |

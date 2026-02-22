@@ -112,8 +112,8 @@
 | 104 | 273 | Carrie Brian |
 | 105 | 271 | Sarah Brown |
 | 106 | 268 | Meagan Nicole |
-| 107 | 264 | Girl |
-| 108 | 264 | Epic Curvetile |
+| 107 | 264 | Epic Curvetile |
+| 108 | 264 | Girl |
 | 109 | 262 | Monica Daley |
 | 110 | 258 | Brittney Orengo |
 | 111 | 257 | Holly Jolly |
@@ -123,8 +123,8 @@
 | 115 | 235 | Lucas J Sutton |
 | 116 | 232 | Peachy Fall |
 | 117 | 231 | Chastity Mitchell |
-| 118 | 230 | Autum Leigh |
-| 119 | 230 | Daria Rycewicz |
+| 118 | 230 | Daria Rycewicz |
+| 119 | 230 | Autum Leigh |
 | 120 | 225 | Damn Libra |
 | 121 | 222 | Joeliecea Cobb |
 | 122 | 221 | Alyssa Papen |
@@ -136,8 +136,8 @@
 | 128 | 217 | Chaz Duncan |
 | 129 | 217 | loulou |
 | 130 | 215 | Jessica Bohlken |
-| 131 | 212 | Mike Solo |
-| 132 | 212 | Calvin Cannon |
+| 131 | 212 | Calvin Cannon |
+| 132 | 212 | Mike Solo |
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |
@@ -197,8 +197,8 @@
 | 189 | 148 | Janita Parrish |
 | 190 | 147 | B Renee Desjardin |
 | 191 | 147 | Jay28 |
-| 192 | 145 | Mimi |
-| 193 | 145 | Zany Shatterer |
+| 192 | 145 | Zany Shatterer |
+| 193 | 145 | Mimi |
 | 194 | 144 | Tanner Lund |
 | 195 | 144 | Jason Allen |
 | 196 | 143 | Lauren Lamb |
