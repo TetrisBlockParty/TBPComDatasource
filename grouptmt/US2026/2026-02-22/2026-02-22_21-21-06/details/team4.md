@@ -73,17 +73,17 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -122,8 +122,8 @@
 | 114 | 443 | shar |
 | 115 | 441 | Chastity Mitchell |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -141,8 +141,8 @@
 | 133 | 366 | Kesha Brady |
 | 134 | 359 | Trista Leah |
 | 135 | 354 | Jessica Lynn Cutlip |
-| 136 | 353 | Tyler Terrific |
-| 137 | 353 | Livvy |
+| 136 | 353 | Livvy |
+| 137 | 353 | Tyler Terrific |
 | 138 | 350 | Angela Srubar-Norman |
 | 139 | 344 | Lush Linkfall |
 | 140 | 343 | Latisha Davis |
@@ -269,8 +269,8 @@
 | 261 | 201 | Chaz |
 | 262 | 200 | Googenheim |
 | 263 | 199 | TinyLegoRose |
-| 264 | 198 | Silly SeaWeed |
-| 265 | 198 | Calvin Dennis |
+| 264 | 198 | Calvin Dennis |
+| 265 | 198 | Silly SeaWeed |
 | 266 | 198 | Angelito |
 | 267 | 197 | Gilles Lanctot |
 | 268 | 196 | Zany Shatterer |

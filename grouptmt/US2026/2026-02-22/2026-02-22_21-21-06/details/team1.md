@@ -225,8 +225,8 @@
 | 217 | 240 | DaRascal |
 | 218 | 239 | Lacy Wolfe |
 | 219 | 238 | Tiffany Smith |
-| 220 | 236 | Speedy Liney |
-| 221 | 236 | Matt Iaccheo |
+| 220 | 236 | Matt Iaccheo |
+| 221 | 236 | Speedy Liney |
 | 222 | 235 | Bindi |
 | 223 | 235 | MRdot Rooski |
 | 224 | 234 | Paula Martin |

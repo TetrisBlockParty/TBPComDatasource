@@ -151,8 +151,8 @@
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
 | 145 | 512 | Silly Twist |
-| 146 | 506 | Sashay Tapae Simpson |
-| 147 | 506 | Stephanie Blkpep Davidson |
+| 146 | 506 | Stephanie Blkpep Davidson |
+| 147 | 506 | Sashay Tapae Simpson |
 | 148 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 149 | 501 | Patti Skiles |
 | 150 | 492 | Daira Largen |
@@ -214,8 +214,8 @@
 | 206 | 378 | Chris Bell |
 | 207 | 377 | Darlene McMillan |
 | 208 | 376 | Loopy Clusterer |
-| 209 | 372 | Giddy Twistbuilder |
-| 210 | 372 | Rich LeBlanc |
+| 209 | 372 | Rich LeBlanc |
+| 210 | 372 | Giddy Twistbuilder |
 | 211 | 369 | Sarah Moyer |
 | 212 | 369 | RickyG |
 | 213 | 368 | Stephanie Woods |
@@ -343,8 +343,8 @@
 | 335 | 238 | Niki Dalrymple |
 | 336 | 238 | Fancy Curver |
 | 337 | 237 | Jennifer Alvey |
-| 338 | 236 | Jess Bissett |
-| 339 | 236 | Lys |
+| 338 | 236 | Lys |
+| 339 | 236 | Jess Bissett |
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 233 | Tony Waters |
 | 342 | 232 | Nicholas Roddy |
