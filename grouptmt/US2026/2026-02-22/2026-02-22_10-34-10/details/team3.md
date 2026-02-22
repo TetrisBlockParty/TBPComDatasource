@@ -189,8 +189,8 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Nicole Flippo |
-| 185 | 347 | Jone |
+| 184 | 347 | Jone |
+| 185 | 347 | Nicole Flippo |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Katrina Turner |
-| 213 | 296 | Ammmmmmy |
+| 212 | 296 | Ammmmmmy |
+| 213 | 296 | Katrina Turner |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -305,20 +305,20 @@
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
 | 299 | 207 | angieelyn |
-| 300 | 206 | Tammy Rosenberry |
-| 301 | 206 | Stephanie Hill |
+| 300 | 206 | Stephanie Hill |
+| 301 | 206 | Tammy Rosenberry |
 | 302 | 206 | Tracy Martin |
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Tipsy Zonebuilder |
-| 307 | 202 | Staci George Fitzsimmons |
+| 306 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Tipsy Zonebuilder |
 | 308 | 201 | Alexmac |
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Daring Builder |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | glichmod |
-| 313 | 200 | Sharisse Baltimore |
+| 312 | 200 | Sharisse Baltimore |
+| 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
 | 316 | 195 | Nicha Hooker |
@@ -369,14 +369,14 @@
 | 361 | 163 | Christine Trester |
 | 362 | 163 | Diana Ibarra |
 | 363 | 163 | Ava Petito |
-| 364 | 162 | Kristin Delibac Corrigan |
-| 365 | 162 | Loopy Fallzone |
-| 366 | 162 | Eric Caccavale |
-| 367 | 162 | Stephanie Whitefield |
+| 364 | 162 | Stephanie Whitefield |
+| 365 | 162 | Kristin Delibac Corrigan |
+| 366 | 162 | Loopy Fallzone |
+| 367 | 162 | Eric Caccavale |
 | 368 | 162 | Nicole Summers-Nelson |
 | 369 | 162 | Beaudie Stroebel |
-| 370 | 161 | Bouncy Blockbuilder |
-| 371 | 161 | Julia Nicole |
+| 370 | 161 | Julia Nicole |
+| 371 | 161 | Bouncy Blockbuilder |
 | 372 | 161 | Michael Johnson |
 | 373 | 160 | Sunny Lift |
 | 374 | 159 | Joshua David Huie |

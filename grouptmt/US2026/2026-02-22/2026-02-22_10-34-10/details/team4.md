@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -101,8 +101,8 @@
 | 93 | 404 | Courtney Cicoria |
 | 94 | 403 | shar |
 | 95 | 401 | Zippy Gridlock |
-| 96 | 396 | Alicia Bass |
-| 97 | 396 | Amy Suckarieh |
+| 96 | 396 | Amy Suckarieh |
+| 97 | 396 | Alicia Bass |
 | 98 | 392 | Ericca Eldridge |
 | 99 | 391 | Ramel Rhodes |
 | 100 | 390 | Carlton Unfiltered |
@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Lori Walker |
-| 107 | 358 | Nugget |
+| 106 | 358 | Nugget |
+| 107 | 358 | Lori Walker |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -132,8 +132,8 @@
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Desi Desporte |
@@ -175,17 +175,17 @@
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Ren Mc |
-| 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Sarah Neathery |
-| 173 | 213 | Jason Allen |
+| 170 | 215 | Jessica Bohlken |
+| 171 | 215 | Ren Mc |
+| 172 | 213 | Jason Allen |
+| 173 | 213 | Sarah Neathery |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 210 | Zethra Prenisha Rahming |
 | 177 | 207 | Chirpy Basepiece |
 | 178 | 205 | Kathy Brookins |
-| 179 | 204 | Carlos Ramirez |
-| 180 | 204 | Jen Caldwell |
+| 179 | 204 | Jen Caldwell |
+| 180 | 204 | Carlos Ramirez |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
 | 183 | 201 | Chance Strickland |
@@ -212,8 +212,8 @@
 | 204 | 185 | Nikki Rae Gordon |
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
-| 207 | 180 | Orchislactea |
-| 208 | 180 | Dihcheese444 |
+| 207 | 180 | Dihcheese444 |
+| 208 | 180 | Orchislactea |
 | 209 | 180 | Rafael Valentin |
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
@@ -232,8 +232,8 @@
 | 224 | 165 | Jackie Marie |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | John Brunetti |
-| 228 | 162 | Joanna |
+| 227 | 162 | Joanna |
+| 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Brittany Marsh |
 | 231 | 160 | Laura Hosford |
@@ -249,8 +249,8 @@
 | 241 | 155 | AyeKay |
 | 242 | 154 | Zany Shatterer |
 | 243 | 153 | Empress Oasis |
-| 244 | 152 | Austin Owens |
-| 245 | 152 | Faja |
+| 244 | 152 | Faja |
+| 245 | 152 | Austin Owens |
 | 246 | 149 | Shainne Brewer |
 | 247 | 149 | Tanner Lund |
 | 248 | 148 | Nubian1 |

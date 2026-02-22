@@ -450,8 +450,8 @@
 | 442 | 483 | Victor Obiakarije |
 | 443 | 483 | Alezandra Smith |
 | 444 | 482 | Amélie Cadieux |
-| 445 | 482 | Drwatson187 |
-| 446 | 482 | Eckoman518 |
+| 445 | 482 | Eckoman518 |
+| 446 | 482 | Drwatson187 |
 | 447 | 482 | Ben Barkley |
 | 448 | 481 | Klee |
 | 449 | 480 | Ashley Collins |
@@ -592,8 +592,8 @@
 | 584 | 386 | Michael Artis |
 | 585 | 386 | Wuntayk |
 | 586 | 385 | Tansaria Couch-Butler |
-| 587 | 384 | Kelly |
-| 588 | 384 | Party d |
+| 587 | 384 | Party d |
+| 588 | 384 | Kelly |
 | 589 | 383 | Belle Mari |
 | 590 | 382 | David Holliday |
 | 591 | 382 | Amber Gray |
@@ -697,8 +697,8 @@
 | 689 | 329 | Chummy Blockbuilder |
 | 690 | 329 | Snappy Shatterfit |
 | 691 | 329 | Jane Crew |
-| 692 | 328 | Jamie Carter Bierce |
-| 693 | 328 | BabyBird |
+| 692 | 328 | BabyBird |
+| 693 | 328 | Jamie Carter Bierce |
 | 694 | 326 | Angela Murgia-Owen |
 | 695 | 326 | Ann Knutson Anderson |
 | 696 | 325 | Justin Hines |
@@ -732,16 +732,16 @@
 | 724 | 311 | Megan Phillips |
 | 725 | 310 | Wendy Ducheney |
 | 726 | 310 | Cheeky Brickmatch |
-| 727 | 310 | Audra Williams |
-| 728 | 310 | Beth Decker |
+| 727 | 310 | Beth Decker |
+| 728 | 310 | Audra Williams |
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Claire |
 | 732 | 308 | Sarah block |
 | 733 | 308 | Hyper Riseclear |
 | 734 | 308 | Katie Joy McCombs |
-| 735 | 307 | Peachy Blockbuilder |
-| 736 | 307 | stacey |
+| 735 | 307 | stacey |
+| 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
 | 739 | 305 | Narutofreak13 |
@@ -905,13 +905,13 @@
 | 897 | 255 | ElizabethAnn Dickinson |
 | 898 | 254 | Matthew Turner |
 | 899 | 254 | Elizabeth Diraffaele |
-| 900 | 252 | Aleasha M Brown |
-| 901 | 252 | Marget Kay |
+| 900 | 252 | Marget Kay |
+| 901 | 252 | Aleasha M Brown |
 | 902 | 252 | Layna Lyons |
 | 903 | 252 | Amanda Segura |
 | 904 | 251 | Bold Clusterfit |
-| 905 | 251 | Regina Unruh |
-| 906 | 251 | Sveta Lana |
+| 905 | 251 | Sveta Lana |
+| 906 | 251 | Regina Unruh |
 | 907 | 251 | Emoniee Sa'niaya |
 | 908 | 251 | Kimmie Zimmerman-Rocha |
 | 909 | 251 | Chipper Dashpiece |
@@ -926,12 +926,12 @@
 | 918 | 248 | Angelina Marie |
 | 919 | 248 | CleverAngel |
 | 920 | 247 | Linda Miltenburg |
-| 921 | 247 | Karyn Yurcho Dooley |
-| 922 | 247 | Wizz |
+| 921 | 247 | Wizz |
+| 922 | 247 | Karyn Yurcho Dooley |
 | 923 | 246 | Stacey Tranchida |
 | 924 | 246 | Laura McConnell |
-| 925 | 245 | Lively Piecefit |
-| 926 | 245 | Cassi Owens |
+| 925 | 245 | Cassi Owens |
+| 926 | 245 | Lively Piecefit |
 | 927 | 245 | Mellissa Evans |
 | 928 | 245 | Abby Klaski |
 | 929 | 245 | Shindee |
@@ -1128,8 +1128,8 @@
 | 1120 | 201 | LintFunk |
 | 1121 | 201 | Jennifer Rajek |
 | 1122 | 201 | Betty Ruth Hale |
-| 1123 | 200 | Sara Silvernail-Kay |
-| 1124 | 200 | Rich Sullivan |
+| 1123 | 200 | Rich Sullivan |
+| 1124 | 200 | Sara Silvernail-Kay |
 | 1125 | 200 | Shyne Sun |
 | 1126 | 199 | Tiffany Michelle Arnold |
 | 1127 | 199 | Boldy Block |
@@ -1150,8 +1150,8 @@
 | 1142 | 197 | Jermaine Johnson |
 | 1143 | 197 | Erica Dale |
 | 1144 | 197 | Sunny Pusher |
-| 1145 | 196 | Kimberly Hope Howell |
-| 1146 | 196 | Goofy Cascadeclear |
+| 1145 | 196 | Goofy Cascadeclear |
+| 1146 | 196 | Kimberly Hope Howell |
 | 1147 | 196 | Giggy Mover |
 | 1148 | 196 | Jennifer Barclay |
 | 1149 | 196 | Donna Colby |
