@@ -385,8 +385,8 @@
 | 377 | 141 | Weerae |
 | 378 | 141 | Melissa Snyder |
 | 379 | 141 | Blair Erin Waite |
-| 380 | 140 | Linda Draper |
-| 381 | 140 | Alison Baus |
+| 380 | 140 | Alison Baus |
+| 381 | 140 | Linda Draper |
 | 382 | 140 | Boldy Corner |
 | 383 | 139 | Beppy |
 | 384 | 139 | Paula Little |

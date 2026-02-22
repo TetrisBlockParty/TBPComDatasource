@@ -192,10 +192,10 @@
 | 184 | 185 | Lori |
 | 185 | 185 | Andy Cabral |
 | 186 | 184 | Ak Jones |
-| 187 | 181 | Carter Jones |
-| 188 | 181 | Alan George LaRage |
-| 189 | 180 | Orchislactea |
-| 190 | 180 | Rafael Valentin |
+| 187 | 181 | Alan George LaRage |
+| 188 | 181 | Carter Jones |
+| 189 | 180 | Rafael Valentin |
+| 190 | 180 | Orchislactea |
 | 191 | 179 | blockstar |
 | 192 | 174 | Dihcheese444 |
 | 193 | 173 | ThaEviLJeNiuZ |
@@ -211,10 +211,10 @@
 | 203 | 163 | Kristina Black |
 | 204 | 162 | Joanna |
 | 205 | 161 | Jenny Wells-Oakley |
-| 206 | 160 | Carlos Ramirez |
-| 207 | 160 | Rio Rocha |
-| 208 | 160 | ZeeZee |
-| 209 | 160 | Laura Hosford |
+| 206 | 160 | Rio Rocha |
+| 207 | 160 | ZeeZee |
+| 208 | 160 | Laura Hosford |
+| 209 | 160 | Carlos Ramirez |
 | 210 | 159 | Marcus Todd |
 | 211 | 158 | Sam Bishop |
 | 212 | 158 | Chair |

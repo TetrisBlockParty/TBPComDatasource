@@ -253,9 +253,9 @@
 | 245 | 705 | Lola Contreras |
 | 246 | 704 | Shelley Thornburgh Wright |
 | 247 | 703 | Gold Rose |
-| 248 | 700 | Vincent Petrella |
-| 249 | 700 | Rosemadder |
-| 250 | 700 | Beverly Owens |
+| 248 | 700 | Rosemadder |
+| 249 | 700 | Beverly Owens |
+| 250 | 700 | Vincent Petrella |
 | 251 | 698 | Mighty Shatterfit |
 | 252 | 697 | Dreamy Blast |
 | 253 | 697 | Giddy Gridclear |

@@ -162,11 +162,11 @@
 | 154 | 216 | Shauntina Burke |
 | 155 | 213 | Daring Fitclear |
 | 156 | 212 | Jaimie Lynn |
-| 157 | 211 | Kimberly Garcia |
-| 158 | 211 | Marianita Garcia |
+| 157 | 211 | Marianita Garcia |
+| 158 | 211 | Kimberly Garcia |
 | 159 | 210 | Ash Galvan |
-| 160 | 210 | Letson Melissa |
-| 161 | 210 | Giggly Builderline |
+| 160 | 210 | Giggly Builderline |
+| 161 | 210 | Letson Melissa |
 | 162 | 208 | Bouncy Grid |
 | 163 | 207 | Leslie Bush Yarbrough |
 | 164 | 206 | BadG52 |
