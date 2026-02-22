@@ -141,9 +141,9 @@
 | 133 | 492 | Daira Largen |
 | 134 | 491 | Chauntee Alfrey-Cardinale |
 | 135 | 480 | Stephanie Blkpep Davidson |
-| 136 | 479 | Annie Marie |
-| 137 | 479 | Patti Skiles |
-| 138 | 479 | Poppy Splitter |
+| 136 | 479 | Poppy Splitter |
+| 137 | 479 | Annie Marie |
+| 138 | 479 | Patti Skiles |
 | 139 | 478 | CeceGeGe |
 | 140 | 476 | Mary Pellegrino |
 | 141 | 473 | mzcatzy |
@@ -395,12 +395,12 @@
 | 387 | 178 | Joy Petroski |
 | 388 | 178 | Christian Luna |
 | 389 | 177 | Kristin Delibac Corrigan |
-| 390 | 176 | Emma |
-| 391 | 176 | Skinny Baldez |
+| 390 | 176 | Skinny Baldez |
+| 391 | 176 | Emma |
 | 392 | 175 | Michael Latasha Gray |
 | 393 | 175 | Wacky Crasher |
-| 394 | 174 | Sierra Spencer |
-| 395 | 174 | Lesley Perez |
+| 394 | 174 | Lesley Perez |
+| 395 | 174 | Sierra Spencer |
 | 396 | 173 | MizzMonick Smith |
 | 397 | 172 | Jl |
 | 398 | 171 | Betty Bóò |

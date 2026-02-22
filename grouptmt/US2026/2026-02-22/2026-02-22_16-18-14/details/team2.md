@@ -106,8 +106,8 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Rob Riggin |
-| 102 | 1599 | Janel Turley-Garner |
+| 101 | 1599 | Janel Turley-Garner |
+| 102 | 1599 | Rob Riggin |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1562 | Loopy Clusterbuilder |
@@ -250,8 +250,8 @@
 | 242 | 867 | Peppy Zone |
 | 243 | 867 | Michele Gabriel |
 | 244 | 862 | Brittany Radaszewski |
-| 245 | 860 | April Dawn Gussler |
-| 246 | 860 | John Bednarik |
+| 245 | 860 | John Bednarik |
+| 246 | 860 | April Dawn Gussler |
 | 247 | 858 | Ashlen Dorrell |
 | 248 | 858 | Boldy Cascadepiece |
 | 249 | 857 | Della Hole |
@@ -358,12 +358,12 @@
 | 350 | 661 | BeQuo |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
-| 353 | 650 | Shiny Rollzone |
-| 354 | 650 | Amber Brion |
+| 353 | 650 | Amber Brion |
+| 354 | 650 | Shiny Rollzone |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | Kara Gillen |
-| 358 | 640 | BYM4L |
+| 357 | 640 | BYM4L |
+| 358 | 640 | Kara Gillen |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 633 | Breezy Filler |
@@ -379,8 +379,8 @@
 | 371 | 616 | Cassie Mercer |
 | 372 | 613 | Ellie Jonas |
 | 373 | 613 | Caitlyn Blackwell |
-| 374 | 611 | Julio A Laracuente |
-| 375 | 611 | Carl Bradshaw |
+| 374 | 611 | Carl Bradshaw |
+| 375 | 611 | Julio A Laracuente |
 | 376 | 611 | Em Chen |
 | 377 | 610 | Traci Johnson |
 | 378 | 606 | Brittney Jean |
@@ -773,10 +773,10 @@
 | 765 | 322 | Michelle Pike |
 | 766 | 322 | Christina Jarvis-Swarbrick |
 | 767 | 321 | Aireka Roman |
-| 768 | 321 | Ashley Criner |
-| 769 | 321 | Tamara Bailey |
-| 770 | 320 | Peachy Blockbuilder |
-| 771 | 320 | Tash Bell |
+| 768 | 321 | Tamara Bailey |
+| 769 | 321 | Ashley Criner |
+| 770 | 320 | Tash Bell |
+| 771 | 320 | Peachy Blockbuilder |
 | 772 | 320 | Mary Boss |
 | 773 | 319 | Cassie Newton |
 | 774 | 319 | RetroLemur |

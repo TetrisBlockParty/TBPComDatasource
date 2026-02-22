@@ -335,8 +335,8 @@
 | 327 | 139 | O block |
 | 328 | 139 | Lori Goudy |
 | 329 | 138 | Ashlee Carnes |
-| 330 | 138 | Jasmine S Caldwell |
-| 331 | 138 | Moonsterix |
+| 330 | 138 | Moonsterix |
+| 331 | 138 | Jasmine S Caldwell |
 | 332 | 137 | Red |
 | 333 | 137 | Brianna Walker |
 | 334 | 137 | Jason Bosco |
