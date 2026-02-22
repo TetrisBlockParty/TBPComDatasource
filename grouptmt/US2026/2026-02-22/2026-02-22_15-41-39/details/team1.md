@@ -80,8 +80,8 @@
 | 72 | 483 | Ryan Lunnin |
 | 73 | 483 | MomMom |
 | 74 | 483 | Evie Khalil |
-| 75 | 480 | Spunky Piecebuilder |
-| 76 | 480 | Nancy Green |
+| 75 | 480 | Nancy Green |
+| 76 | 480 | Spunky Piecebuilder |
 | 77 | 472 | April Carroll |
 | 78 | 467 | Jennifer ManWarren |
 | 79 | 456 | Arianna O'Brien |
@@ -352,8 +352,8 @@
 | 344 | 137 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 345 | 136 | Amanda Stevens |
 | 346 | 136 | Jennifer Chilton-Metlock |
-| 347 | 135 | Mrs.Patrica |
-| 348 | 135 | Christina Backer |
+| 347 | 135 | Christina Backer |
+| 348 | 135 | Mrs.Patrica |
 | 349 | 134 | Rachel Copas |
 | 350 | 133 | Teri Oehlke |
 | 351 | 133 | Jasmine Riley |

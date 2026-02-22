@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -129,8 +129,8 @@
 | 121 | 353 | Tyler Terrific |
 | 122 | 344 | Livvy |
 | 123 | 343 | Latisha Davis |
-| 124 | 332 | Desi Desporte |
-| 125 | 332 | HastyGrabber |
+| 124 | 332 | HastyGrabber |
+| 125 | 332 | Desi Desporte |
 | 126 | 331 | ThaEviLJeNiuZ |
 | 127 | 330 | David Lay |
 | 128 | 330 | Twisty Clicky |
@@ -171,8 +171,8 @@
 | 163 | 264 | Girl |
 | 164 | 264 | Epic Curvetile |
 | 165 | 263 | Chris Bernstein |
-| 166 | 262 | Joeliecea Cobb |
-| 167 | 262 | Holly Jolly |
+| 166 | 262 | Holly Jolly |
+| 167 | 262 | Joeliecea Cobb |
 | 168 | 261 | Nikki Rae Gordon |
 | 169 | 256 | Porkobello |
 | 170 | 256 | Mylo Lipscomb |

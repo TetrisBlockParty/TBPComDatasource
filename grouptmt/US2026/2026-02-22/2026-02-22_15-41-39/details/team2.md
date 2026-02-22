@@ -279,8 +279,8 @@
 | 271 | 787 | Laura McCarthey |
 | 272 | 783 | Lisa Ongtowasruk |
 | 273 | 778 | Desire Rice |
-| 274 | 777 | Jessicah Myers |
-| 275 | 777 | Tesha Oldaker |
+| 274 | 777 | Tesha Oldaker |
+| 275 | 777 | Jessicah Myers |
 | 276 | 777 | Samantha Jo |
 | 277 | 775 | Boldy Cascadepiece |
 | 278 | 772 | William Hunt |
@@ -347,11 +347,11 @@
 | 339 | 668 | Roseanna Peloso |
 | 340 | 666 | Speedy Spinblock |
 | 341 | 665 | Taryece Gause |
-| 342 | 665 | Prette Qui |
-| 343 | 665 | Phil J. Grombliniak |
+| 342 | 665 | Phil J. Grombliniak |
+| 343 | 665 | Prette Qui |
 | 344 | 664 | Sleepypanda67 |
-| 345 | 663 | Ashle Scranton |
-| 346 | 663 | Mandi Douglas Hilt |
+| 345 | 663 | Mandi Douglas Hilt |
+| 346 | 663 | Ashle Scranton |
 | 347 | 662 | Melissa Rebbe-Lehman |
 | 348 | 661 | goofinoff |
 | 349 | 661 | BeQuo |

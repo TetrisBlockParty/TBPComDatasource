@@ -184,8 +184,8 @@
 | 176 | 384 | Dapper Snap |
 | 177 | 382 | Scott Carleton |
 | 178 | 380 | Tasha Schriewer |
-| 179 | 378 | Chris Bell |
-| 180 | 378 | Nicole Flippo |
+| 179 | 378 | Nicole Flippo |
+| 180 | 378 | Chris Bell |
 | 181 | 376 | Loopy Clusterer |
 | 182 | 374 | Sherry Ogden |
 | 183 | 373 | Chasity |
@@ -265,11 +265,11 @@
 | 257 | 271 | Cass Mendoza |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Joe-Maggie Mathews |
-| 261 | 262 | Ray Lader |
+| 260 | 262 | Ray Lader |
+| 261 | 262 | Joe-Maggie Mathews |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Grams |
-| 264 | 260 | Nikki Pags |
+| 263 | 260 | Nikki Pags |
+| 264 | 260 | Grams |
 | 265 | 259 | Danielle Weikel |
 | 266 | 257 | Ashley Jones |
 | 267 | 256 | Connie Mohler-Fair |
