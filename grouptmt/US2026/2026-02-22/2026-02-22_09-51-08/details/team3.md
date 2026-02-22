@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -276,8 +276,8 @@
 | 268 | 232 | Donna |
 | 269 | 227 | Krystal Gerstberger |
 | 270 | 227 | Meowsa |
-| 271 | 225 | Cozy Snaplink |
-| 272 | 225 | Dirtgirl27 |
+| 271 | 225 | Dirtgirl27 |
+| 272 | 225 | Cozy Snaplink |
 | 273 | 224 | Quirky Dropzone |
 | 274 | 221 | Vaners |
 | 275 | 221 | Jaime Monhaut-Reed |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Rebel124 |
+| 285 | 214 | Rebel124 |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 213 | Nicholas Roddy |
 | 288 | 212 | Sunny Rotater |
 | 289 | 212 | Desiree Gold |
@@ -312,8 +312,8 @@
 | 304 | 202 | Staci George Fitzsimmons |
 | 305 | 201 | Hyper Matchzone |
 | 306 | 201 | Alexmac |
-| 307 | 200 | Sharisse Baltimore |
-| 308 | 200 | glichmod |
+| 307 | 200 | glichmod |
+| 308 | 200 | Sharisse Baltimore |
 | 309 | 200 | Saucy Buildout |
 | 310 | 198 | kacihall |
 | 311 | 195 | Nicha Hooker |
@@ -322,8 +322,8 @@
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Becca Engle |
 | 316 | 191 | Philip Rock |
-| 317 | 189 | Katie Leigh Blankenship |
-| 318 | 189 | France Vézina |
+| 317 | 189 | France Vézina |
+| 318 | 189 | Katie Leigh Blankenship |
 | 319 | 188 | Loopy Fallmatch |
 | 320 | 187 | Tipsy Zonebuilder |
 | 321 | 186 | Sameerah Smith |
@@ -499,7 +499,7 @@
 | 491 | 117 | Rayzer |
 | 492 | 117 | Anabela Ruiz |
 | 493 | 117 | Dee Pratt |
-| 494 | 116 | TazB |
+| 494 | 116 | Mel Murr |
 | 495 | 116 | Shelby Crawford |
 | 496 | 116 | TazB |
 | 497 | 116 | Niki Dalrymple |

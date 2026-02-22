@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -180,8 +180,8 @@
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
-| 175 | 210 | Giggly Builderline |
-| 176 | 210 | Letson Melissa |
+| 175 | 210 | Letson Melissa |
+| 176 | 210 | Giggly Builderline |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Bouncy Grid |
 | 179 | 208 | Donna Addison Williams |
@@ -195,8 +195,8 @@
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | Breanna Luna |
-| 191 | 200 | DaRascal |
+| 190 | 200 | DaRascal |
+| 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Happy Snapbuild |
 | 194 | 198 | Shiny Gridmatch |

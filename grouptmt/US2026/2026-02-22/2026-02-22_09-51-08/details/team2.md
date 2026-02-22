@@ -290,8 +290,8 @@
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Dannette Goldberg-Richards |
-| 286 | 692 | Jennifer Casey-Kay |
+| 285 | 692 | Jennifer Casey-Kay |
+| 286 | 692 | Dannette Goldberg-Richards |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -538,8 +538,8 @@
 | 530 | 413 | Biggest thing |
 | 531 | 413 | Lauren Fitzgerald Thomas |
 | 532 | 413 | Juanita Lyons |
-| 533 | 411 | Kristen O'Neal |
-| 534 | 411 | Mighty Spinbuilder |
+| 533 | 411 | Mighty Spinbuilder |
+| 534 | 411 | Kristen O'Neal |
 | 535 | 410 | Tara Lynn Janes |
 | 536 | 410 | Nicole Cannon |
 | 537 | 408 | Brandon Jones |
@@ -626,15 +626,15 @@
 | 618 | 366 | Smashanator |
 | 619 | 366 | Lawanda Forbes |
 | 620 | 365 | Christina Lewis-Vickers |
-| 621 | 365 | Susan Arnburg |
-| 622 | 365 | Audrey Jones |
+| 621 | 365 | Audrey Jones |
+| 622 | 365 | Susan Arnburg |
 | 623 | 364 | Shinette Dobson |
 | 624 | 363 | Michelle Sager |
 | 625 | 363 | Kia Humphery |
 | 626 | 363 | Jes Norris |
 | 627 | 363 | Stephanie Fortune |
-| 628 | 362 | Andrea Maher |
-| 629 | 362 | Veronics |
+| 628 | 362 | Veronics |
+| 629 | 362 | Andrea Maher |
 | 630 | 362 | Tracy Wise |
 | 631 | 362 | Jennifer Scott |
 | 632 | 361 | Michelle Shrum |
@@ -710,17 +710,17 @@
 | 702 | 320 | Mary Boss |
 | 703 | 319 | RetroLemur |
 | 704 | 318 | Jennifer Mahon |
-| 705 | 317 | Ashlyn Berner |
-| 706 | 317 | Zombi3 |
+| 705 | 317 | Zombi3 |
+| 706 | 317 | Ashlyn Berner |
 | 707 | 317 | Aireka Roman |
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Amanda West |
-| 712 | 314 | Twisty Tetriblast |
+| 711 | 314 | Twisty Tetriblast |
+| 712 | 314 | Amanda West |
 | 713 | 314 | Anita Rose Green |
-| 714 | 313 | Natasha Edmonds |
-| 715 | 313 | Marina Linda |
+| 714 | 313 | Marina Linda |
+| 715 | 313 | Natasha Edmonds |
 | 716 | 313 | Snippy Block |
 | 717 | 312 | Sassy Linkbuilder |
 | 718 | 312 | Heather Renee Jeffers |
@@ -1211,8 +1211,8 @@
 | 1203 | 187 | Eddie Perez |
 | 1204 | 187 | Angel |
 | 1205 | 186 | Bette Prieto |
-| 1206 | 186 | Stephanie Myers |
-| 1207 | 186 | Tim Galle |
+| 1206 | 186 | Tim Galle |
+| 1207 | 186 | Stephanie Myers |
 | 1208 | 186 | Bigg Meezy |
 | 1209 | 186 | Elyse Rivera |
 | 1210 | 185 | Fae-Bulous |
@@ -1224,8 +1224,8 @@
 | 1216 | 185 | Nate Lee |
 | 1217 | 185 | Candace Noel |
 | 1218 | 184 | Mindy Folsom |
-| 1219 | 184 | BamaGirlinTX |
-| 1220 | 184 | Jeremy Scott |
+| 1219 | 184 | Jeremy Scott |
+| 1220 | 184 | BamaGirlinTX |
 | 1221 | 183 | Lynzekwi |
 | 1222 | 183 | ນາງ ບີ ລາດຊະຈັກ |
 | 1223 | 183 | Ericka Marie Smith |

@@ -158,8 +158,8 @@
 | 150 | 240 | Peachy Fall |
 | 151 | 237 | Chris Bernstein |
 | 152 | 232 | Crystal Nicolette Moore |
-| 153 | 230 | Cursed Hag |
-| 154 | 230 | Autum Leigh |
+| 153 | 230 | Autum Leigh |
+| 154 | 230 | Cursed Hag |
 | 155 | 228 | J-Rizzle |
 | 156 | 227 | Swanky Fitline |
 | 157 | 227 | Alyssa Papen |
@@ -192,9 +192,9 @@
 | 184 | 199 | Zethra Prenisha Rahming |
 | 185 | 198 | Keith Kelley |
 | 186 | 196 | Oscar Alberto Perez |
-| 187 | 195 | 中山成巳 |
+| 187 | 195 | ZeeZee |
 | 188 | 195 | Malakai Darien Fox |
-| 189 | 195 | ZeeZee |
+| 189 | 195 | 中山成巳 |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Sam Bishop |
@@ -231,9 +231,9 @@
 | 223 | 162 | John Brunetti |
 | 224 | 162 | Joanna |
 | 225 | 161 | Jenny Wells-Oakley |
-| 226 | 160 | Laura Hosford |
-| 227 | 160 | Brittany Marsh |
-| 228 | 160 | Carlos Ramirez |
+| 226 | 160 | Brittany Marsh |
+| 227 | 160 | Carlos Ramirez |
+| 228 | 160 | Laura Hosford |
 | 229 | 159 | Marcus Todd |
 | 230 | 158 | Chair |
 | 231 | 158 | Avy Absol |
@@ -973,8 +973,8 @@
 | 965 | 31 | Karen Lambert |
 | 966 | 31 | George Tzouganos |
 | 967 | 31 | Hoppy Brickzone |
-| 968 | 31 | Groovy Shiftspin |
-| 969 | 31 | Flashy Jumper |
+| 968 | 31 | Flashy Jumper |
+| 969 | 31 | Groovy Shiftspin |
 | 970 | 30 | Jean Camacho |
 | 971 | 30 | Bold Towerpiece |
 | 972 | 30 | Khrystyna Lukaniuk |
