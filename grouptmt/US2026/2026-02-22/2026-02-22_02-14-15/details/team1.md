@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Sharon Reynolds |
-| 111 | 263 | Jason Jones |
+| 110 | 263 | Jason Jones |
+| 111 | 263 | Sharon Reynolds |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 261 | Monica Donato |
 | 114 | 257 | june october |
@@ -215,8 +215,8 @@
 | 207 | 144 | Gary Gobin |
 | 208 | 144 | Miguel Teixeira |
 | 209 | 142 | Colleen Wise |
-| 210 | 141 | Blaire Bruckoff |
-| 211 | 141 | Dino |
+| 210 | 141 | Dino |
+| 211 | 141 | Blaire Bruckoff |
 | 212 | 139 | Flashy Rotator |
 | 213 | 138 | Giddy Cascade |
 | 214 | 138 | Mark Smith |

@@ -31,8 +31,8 @@
 | 23 | 843 | Lucille Truesdale |
 | 24 | 780 | Shelly Chandler |
 | 25 | 753 | Isabel Aguilar |
-| 26 | 728 | Toots |
-| 27 | 728 | Robin Watters |
+| 26 | 728 | Robin Watters |
+| 27 | 728 | Toots |
 | 28 | 725 | Dee Kay |
 | 29 | 723 | Elizabeth Sallas |
 | 30 | 717 | BertMofo |
@@ -123,8 +123,8 @@
 | 115 | 235 | Lucas J Sutton |
 | 116 | 232 | Peachy Fall |
 | 117 | 231 | Chastity Mitchell |
-| 118 | 230 | Autum Leigh |
-| 119 | 230 | Daria Rycewicz |
+| 118 | 230 | Daria Rycewicz |
+| 119 | 230 | Autum Leigh |
 | 120 | 225 | Damn Libra |
 | 121 | 222 | Joeliecea Cobb |
 | 122 | 221 | PurpleMoonMa |
@@ -148,8 +148,8 @@
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jenna McGeorge |
-| 144 | 196 | Jeff Brian Gates |
+| 143 | 196 | Jeff Brian Gates |
+| 144 | 196 | Jenna McGeorge |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
@@ -182,8 +182,8 @@
 | 174 | 160 | James Hurley Jr. |
 | 175 | 160 | ZeeZee |
 | 176 | 159 | Marcus Todd |
-| 177 | 158 | Avy Absol |
-| 178 | 158 | Chair |
+| 177 | 158 | Chair |
+| 178 | 158 | Avy Absol |
 | 179 | 156 | Cozy Balancer |
 | 180 | 155 | AyeKay |
 | 181 | 154 | scott |
@@ -326,8 +326,8 @@
 | 318 | 93 | No Strings Attached Ra |
 | 319 | 93 | Matt Gooder |
 | 320 | 93 | JPW |
-| 321 | 92 | Bigeddie |
-| 322 | 92 | Frilly Blocky |
+| 321 | 92 | Frilly Blocky |
+| 322 | 92 | Bigeddie |
 | 323 | 91 | Sunny Filler |
 | 324 | 91 | wombat |
 | 325 | 91 | Lee Silpe |

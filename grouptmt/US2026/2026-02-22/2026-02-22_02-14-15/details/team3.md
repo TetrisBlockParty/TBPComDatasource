@@ -78,9 +78,9 @@
 | 70 | 613 | Amber Hughes |
 | 71 | 604 | Danielle Becker |
 | 72 | 588 | yoyo |
-| 73 | 582 | Katrina Schroeder |
-| 74 | 582 | Natasha Jones |
-| 75 | 582 | Jay Horn |
+| 73 | 582 | Natasha Jones |
+| 74 | 582 | Jay Horn |
+| 75 | 582 | Katrina Schroeder |
 | 76 | 581 | Danielle Mogg |
 | 77 | 580 | Amanda L Baker |
 | 78 | 577 | Speedy Bridger |
@@ -89,8 +89,8 @@
 | 81 | 561 | Rachael McClain Owens |
 | 82 | 559 | Morgan Martinez |
 | 83 | 548 | Dave Herzog |
-| 84 | 541 | Patty Allen |
-| 85 | 541 | Nate Burnside |
+| 84 | 541 | Nate Burnside |
+| 85 | 541 | Patty Allen |
 | 86 | 536 | Giddy Drop |
 | 87 | 533 | Sarah Fehring |
 | 88 | 526 | Cynthia Castros-Hampton |
@@ -111,14 +111,14 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
-| 107 | 432 | Jenny Hrndz |
+| 106 | 432 | Jenny Hrndz |
+| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 108 | 430 | Patricia White |
 | 109 | 428 | Elissa S-k |
 | 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Blkpep Davidson |
-| 113 | 410 | Stephanie Simpson |
+| 112 | 410 | Stephanie Simpson |
+| 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
 | 115 | 403 | FuzzyNavel |
 | 116 | 403 | Christine Filson |
@@ -146,8 +146,8 @@
 | 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 350 | Darlene McMillan |
 | 140 | 348 | CeceGeGe |
-| 141 | 347 | Louise Stacy Sisson |
-| 142 | 347 | Nicole Flippo |
+| 141 | 347 | Nicole Flippo |
+| 142 | 347 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
 | 144 | 328 | Dapper Snap |
 | 145 | 328 | Aaron Pitkin |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tiffany Ford |
-| 180 | 261 | Tom Nault |
+| 179 | 261 | Tom Nault |
+| 180 | 261 | Tiffany Ford |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -223,12 +223,12 @@
 | 215 | 215 | IamJust Neyamijah Washington Sr. |
 | 216 | 214 | Amy Fuller Heaton |
 | 217 | 212 | Twisty Brick LT |
-| 218 | 211 | Khaleada McGill Banks |
-| 219 | 211 | Giddy Twistbuilder |
+| 218 | 211 | Giddy Twistbuilder |
+| 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Chris Bell |
-| 223 | 207 | Jessica |
+| 222 | 207 | Jessica |
+| 223 | 207 | Chris Bell |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Danielle Allison |
 | 226 | 204 | Aerian Preston |
@@ -266,8 +266,8 @@
 | 258 | 177 | Saucy Buildout |
 | 259 | 176 | Beth Ingham |
 | 260 | 174 | Marquita Sheard |
-| 261 | 174 | Lesley Perez |
-| 262 | 174 | Jennifer Alvey |
+| 261 | 174 | Jennifer Alvey |
+| 262 | 174 | Lesley Perez |
 | 263 | 173 | BŘŰŤİÇŨŚ |
 | 264 | 173 | Denita Mungro |
 | 265 | 171 | Emma |
