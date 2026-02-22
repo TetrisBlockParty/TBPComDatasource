@@ -362,8 +362,8 @@
 | 354 | 97 | Rosemary Foster |
 | 355 | 97 | Zappy Buildgrid |
 | 356 | 97 | Brenda Bird |
-| 357 | 97 | Rosemary Foster |
-| 358 | 97 | Zappy Buildgrid |
+| 357 | 97 | Serena Butter |
+| 358 | 97 | Brandon Crabbs |
 | 359 | 96 | Rebecca Blake |
 | 360 | 96 | Sammy Noguera |
 | 361 | 95 | Chirpy Slammer |

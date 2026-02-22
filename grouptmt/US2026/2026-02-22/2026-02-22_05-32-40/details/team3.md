@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Katrina Schroeder |
-| 81 | 618 | Brandon Green |
+| 80 | 618 | Brandon Green |
+| 81 | 618 | Katrina Schroeder |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |
@@ -183,8 +183,8 @@
 | 175 | 317 | Ashley Tookes |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
-| 178 | 308 | Daryn Elliott |
-| 179 | 308 | Rania Zaqout |
+| 178 | 308 | Rania Zaqout |
+| 179 | 308 | Daryn Elliott |
 | 180 | 307 | Blocked |
 | 181 | 307 | rnr junky |
 | 182 | 301 | Chelsea Hall |
@@ -200,8 +200,8 @@
 | 192 | 295 | RickyG |
 | 193 | 289 | Hoppy Buildout |
 | 194 | 289 | Duane Bright |
-| 195 | 289 | Rebecca Bailey |
-| 196 | 289 | DidIdothat |
+| 195 | 289 | DidIdothat |
+| 196 | 289 | Rebecca Bailey |
 | 197 | 286 | Cynthia Herrmann Egland |
 | 198 | 286 | Jacqueline Rodriguez |
 | 199 | 284 | Edwin Calvillo Jr. |

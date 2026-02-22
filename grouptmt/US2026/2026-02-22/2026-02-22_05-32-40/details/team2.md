@@ -199,8 +199,8 @@
 | 191 | 857 | Della Hole |
 | 192 | 850 | Missie Lawson Gebhardt |
 | 193 | 849 | Hillary Crawford |
-| 194 | 845 | April Dawn Gussler |
-| 195 | 845 | Felicia Lynn |
+| 194 | 845 | Felicia Lynn |
+| 195 | 845 | April Dawn Gussler |
 | 196 | 838 | Tralonda Weeks |
 | 197 | 837 | Ashley Rose Frederick |
 | 198 | 836 | Ashley House |
@@ -250,9 +250,9 @@
 | 242 | 705 | Lola Contreras |
 | 243 | 704 | Shelley Thornburgh Wright |
 | 244 | 703 | Gold Rose |
-| 245 | 700 | Rosemadder |
-| 246 | 700 | Beverly Owens |
-| 247 | 700 | Vincent Petrella |
+| 245 | 700 | Vincent Petrella |
+| 246 | 700 | Rosemadder |
+| 247 | 700 | Beverly Owens |
 | 248 | 699 | Keri Womack |
 | 249 | 698 | Mighty Shatterfit |
 | 250 | 697 | Dreamy Blast |
@@ -261,8 +261,8 @@
 | 253 | 692 | Chelle |
 | 254 | 690 | Deborah Miller |
 | 255 | 689 | Giggy Blocker |
-| 256 | 688 | ShinyRose |
-| 257 | 688 | Tiara Elizabeth Baker |
+| 256 | 688 | Tiara Elizabeth Baker |
+| 257 | 688 | ShinyRose |
 | 258 | 687 | Jai Jackson |
 | 259 | 686 | Ashley Guernsey-Martin |
 | 260 | 685 | Binyah-Binyah |
@@ -288,21 +288,21 @@
 | 280 | 647 | Peppy Zone |
 | 281 | 647 | Ashle Scranton |
 | 282 | 643 | Hoppy Brickmatch |
-| 283 | 641 | Angie Bolton Workman |
-| 284 | 641 | Joce Lynn |
+| 283 | 641 | Joce Lynn |
+| 284 | 641 | Angie Bolton Workman |
 | 285 | 640 | BYM4L |
 | 286 | 639 | Crystie Hicks |
 | 287 | 639 | Rebecca Miller |
-| 288 | 635 | William Hunt |
-| 289 | 635 | Diana Fitzwater |
+| 288 | 635 | Diana Fitzwater |
+| 289 | 635 | William Hunt |
 | 290 | 632 | Beth |
 | 291 | 631 | Marie Walker |
 | 292 | 629 | Sleepypanda67 |
 | 293 | 627 | Victoria Moore-Smith |
 | 294 | 627 | Allan Wayne Lamia |
 | 295 | 619 | Jánine Riggs |
-| 296 | 617 | tejas25 |
-| 297 | 617 | Leslie Ann Carter |
+| 296 | 617 | Leslie Ann Carter |
+| 297 | 617 | tejas25 |
 | 298 | 615 | Brandon Armstrong |
 | 299 | 613 | Ellie Jonas |
 | 300 | 611 | Julio A Laracuente |
@@ -381,7 +381,7 @@
 | 373 | 496 | Karen Posadas Centeno |
 | 374 | 494 | Doowop40 |
 | 375 | 493 | Kara Gillen |
-| 376 | 492 | Joshua Mandel |
+| 376 | 492 | Armonie Smith |
 | 377 | 492 | Breezy Clusterer |
 | 378 | 492 | Joshua Mandel |
 | 379 | 491 | Michael Buckner |
@@ -514,8 +514,8 @@
 | 506 | 389 | Irene Jones |
 | 507 | 389 | Kayla |
 | 508 | 388 | Dapper Dasher |
-| 509 | 387 | Bold Brickster |
-| 510 | 387 | Misti Markijohn |
+| 509 | 387 | Misti Markijohn |
+| 510 | 387 | Bold Brickster |
 | 511 | 386 | Michael Artis |
 | 512 | 386 | Tara Lynn Janes |
 | 513 | 385 | Tansaria Couch-Butler |
@@ -559,8 +559,8 @@
 | 551 | 365 | Susan Arnburg |
 | 552 | 364 | Shinette Dobson |
 | 553 | 364 | Jasmine Kenney |
-| 554 | 363 | Kia Humphery |
-| 555 | 363 | Michelle Sager |
+| 554 | 363 | Michelle Sager |
+| 555 | 363 | Kia Humphery |
 | 556 | 363 | Happy Caster |
 | 557 | 362 | Tracy Wise |
 | 558 | 362 | Jennifer Scott |
@@ -609,8 +609,8 @@
 | 601 | 337 | Autumn Schaeffer |
 | 602 | 337 | Tum |
 | 603 | 337 | Sassy Pattern |
-| 604 | 336 | Austin Wilson |
-| 605 | 336 | bru |
+| 604 | 336 | bru |
+| 605 | 336 | Austin Wilson |
 | 606 | 336 | Swanky Columnbuilder |
 | 607 | 335 | Brooke Leigh Strube |
 | 608 | 334 | Caitlyn Blackwell |
@@ -660,8 +660,8 @@
 | 652 | 309 | Candy Pitts |
 | 653 | 309 | Byung Bae Park |
 | 654 | 308 | Prado |
-| 655 | 308 | Sarah block |
-| 656 | 308 | Claire |
+| 655 | 308 | Claire |
+| 656 | 308 | Sarah block |
 | 657 | 307 | stacey |
 | 658 | 306 | Kyla Louise |
 | 659 | 305 | Libby Hicks |
