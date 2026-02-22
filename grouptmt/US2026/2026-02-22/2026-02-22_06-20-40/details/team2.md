@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -212,8 +212,8 @@
 | 204 | 838 | Tralonda Weeks |
 | 205 | 837 | Ashley Rose Frederick |
 | 206 | 835 | Katrina Weston |
-| 207 | 834 | Rebecca Doughman |
-| 208 | 834 | Nika Bee |
+| 207 | 834 | Nika Bee |
+| 208 | 834 | Rebecca Doughman |
 | 209 | 828 | Cindy Sechler Taninecz |
 | 210 | 826 | Moose Griffith |
 | 211 | 820 | Chirpy Staggerpiece |
@@ -626,15 +626,15 @@
 | 618 | 337 | Sassy Pattern |
 | 619 | 337 | Tum |
 | 620 | 337 | Savannah Alexander |
-| 621 | 336 | Austin Wilson |
-| 622 | 336 | bru |
+| 621 | 336 | bru |
+| 622 | 336 | Austin Wilson |
 | 623 | 336 | Swanky Columnbuilder |
 | 624 | 335 | Brooke Leigh Strube |
 | 625 | 334 | Caitlyn Blackwell |
 | 626 | 333 | Woodys Glass |
 | 627 | 332 | Lathasa Newkirk |
-| 628 | 330 | Jennifer Monroe Kelly |
-| 629 | 330 | CC |
+| 628 | 330 | CC |
+| 629 | 330 | Jennifer Monroe Kelly |
 | 630 | 329 | Chummy Blockbuilder |
 | 631 | 329 | Snappy Shatterfit |
 | 632 | 329 | Jane Crew |
@@ -671,16 +671,16 @@
 | 663 | 311 | Megan Phillips |
 | 664 | 311 | Diallo Sparkman |
 | 665 | 311 | Johanna Massaro |
-| 666 | 310 | Sharon Mills |
-| 667 | 310 | Audra Williams |
-| 668 | 310 | Beth Decker |
-| 669 | 310 | Wendy Ducheney |
-| 670 | 310 | Cheeky Brickmatch |
+| 666 | 310 | Beth Decker |
+| 667 | 310 | Sharon Mills |
+| 668 | 310 | Audra Williams |
+| 669 | 310 | Cheeky Brickmatch |
+| 670 | 310 | Wendy Ducheney |
 | 671 | 309 | Candy Pitts |
 | 672 | 309 | Byung Bae Park |
 | 673 | 308 | Prado |
-| 674 | 308 | Sarah block |
-| 675 | 308 | Claire |
+| 674 | 308 | Claire |
+| 675 | 308 | Sarah block |
 | 676 | 307 | stacey |
 | 677 | 306 | Kiorah Blaze |
 | 678 | 305 | MamaBear11 |

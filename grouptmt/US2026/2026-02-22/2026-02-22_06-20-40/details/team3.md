@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Kristie |
-| 111 | 500 | Domo Washington |
+| 110 | 500 | Domo Washington |
+| 111 | 500 | Kristie |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -222,8 +222,8 @@
 | 214 | 274 | Tye Stovall |
 | 215 | 272 | Dee Franklin |
 | 216 | 271 | Ashley Muncey |
-| 217 | 267 | Terry Jo Jones |
-| 218 | 267 | Denise Nardoni |
+| 217 | 267 | Denise Nardoni |
+| 218 | 267 | Terry Jo Jones |
 | 219 | 265 | Sarah Moyer |
 | 220 | 265 | Trisha Balmer |
 | 221 | 264 | Grego Daniel |
@@ -339,15 +339,15 @@
 | 331 | 163 | Diana Ibarra |
 | 332 | 163 | Christine Trester |
 | 333 | 162 | Nicole Summers-Nelson |
-| 334 | 162 | Stephanie Whitefield |
-| 335 | 162 | Kristin Delibac Corrigan |
-| 336 | 162 | Loopy Fallzone |
-| 337 | 161 | Bouncy Blockbuilder |
-| 338 | 161 | Michael Johnson |
+| 334 | 162 | Loopy Fallzone |
+| 335 | 162 | Stephanie Whitefield |
+| 336 | 162 | Kristin Delibac Corrigan |
+| 337 | 161 | Michael Johnson |
+| 338 | 161 | Bouncy Blockbuilder |
 | 339 | 160 | Rachel |
-| 340 | 159 | Ashley Rufus Bythcez |
+| 340 | 159 | Salena Whitlock |
 | 341 | 159 | Joshua David Huie |
-| 342 | 159 | Salena Whitlock |
+| 342 | 159 | Ashley Rufus Bythcez |
 | 343 | 158 | Willow |
 | 344 | 157 | Katrina E Jelks |
 | 345 | 157 | Angel Mendez |
@@ -464,8 +464,8 @@
 | 456 | 115 | FATTY |
 | 457 | 115 | Sameerah Smith |
 | 458 | 114 | Bhreagh Gentile |
-| 459 | 114 | Joseph Vargas |
-| 460 | 114 | Elizabeth Renee |
+| 459 | 114 | Elizabeth Renee |
+| 460 | 114 | Joseph Vargas |
 | 461 | 113 | Martin Bernier |
 | 462 | 113 | Leticia Lynn Lowe |
 | 463 | 113 | Tia Moore |
@@ -491,8 +491,8 @@
 | 483 | 109 | Lush Risebuilder |
 | 484 | 109 | xsiv |
 | 485 | 109 | Peachy Westbrook |
-| 486 | 108 | Rachel Grant |
-| 487 | 108 | Sierra Spencer |
+| 486 | 108 | Sierra Spencer |
+| 487 | 108 | Rachel Grant |
 | 488 | 108 | Jack Bo |
 | 489 | 107 | Tiffany Marler |
 | 490 | 107 | Megan Stanley |

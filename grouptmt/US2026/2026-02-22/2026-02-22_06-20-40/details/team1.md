@@ -78,8 +78,8 @@
 | 70 | 417 | Lori Sanders- Davis |
 | 71 | 415 | Spunky Piecebuilder |
 | 72 | 413 | Steve Schneider |
-| 73 | 412 | Anaid Sanchez |
-| 74 | 412 | Jazzy Framezone |
+| 73 | 412 | Jazzy Framezone |
+| 74 | 412 | Anaid Sanchez |
 | 75 | 406 | Yvonne Marie |
 | 76 | 390 | Candy Jones |
 | 77 | 390 | Cynthia Bradley |
@@ -113,8 +113,8 @@
 | 105 | 319 | Deanna L Hermanson |
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 313 | Tanya Carpenter-Reynolds |
-| 108 | 310 | Jason Jones |
-| 109 | 310 | Seth Wesson |
+| 108 | 310 | Seth Wesson |
+| 109 | 310 | Jason Jones |
 | 110 | 306 | Happy Basegrid |
 | 111 | 304 | phrmblk24 |
 | 112 | 304 | Nicole Roseberry Weber |
