@@ -56,14 +56,14 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Landon Keith Graffeo |
-| 78 | 486 | Carmethia Clemons Haslerig |
+| 77 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Landon Keith Graffeo |
 | 79 | 485 | TeeJ |
 | 80 | 447 | Samantha Peterson |
 | 81 | 447 | Erin Thomas |
@@ -132,8 +132,8 @@
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Desi Desporte |
@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -233,8 +233,8 @@
 | 225 | 162 | John Brunetti |
 | 226 | 162 | Joanna |
 | 227 | 161 | Jenny Wells-Oakley |
-| 228 | 160 | Laura Hosford |
-| 229 | 160 | Brittany Marsh |
+| 228 | 160 | Brittany Marsh |
+| 229 | 160 | Laura Hosford |
 | 230 | 159 | Marcus Todd |
 | 231 | 158 | Chair |
 | 232 | 158 | Avy Absol |
