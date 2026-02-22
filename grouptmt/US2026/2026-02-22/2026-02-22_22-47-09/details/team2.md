@@ -174,8 +174,8 @@
 | 166 | 1296 | Kristin Ruest |
 | 167 | 1294 | Ashley House |
 | 168 | 1286 | Altamirano Michael |
-| 169 | 1282 | Tanya Parsons |
-| 170 | 1282 | Ashley Rose Frederick |
+| 169 | 1282 | Ashley Rose Frederick |
+| 170 | 1282 | Tanya Parsons |
 | 171 | 1271 | Shandrica Lowe |
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
@@ -570,10 +570,10 @@
 | 562 | 488 | Funky Caster |
 | 563 | 488 | Skyler Morgan |
 | 564 | 488 | Christina Wsn |
-| 565 | 487 | Daphne Jordan |
-| 566 | 487 | Morgan Easter |
-| 567 | 486 | Rhonda Petro |
-| 568 | 486 | Amanda Ferrell |
+| 565 | 487 | Morgan Easter |
+| 566 | 487 | Daphne Jordan |
+| 567 | 486 | Amanda Ferrell |
+| 568 | 486 | Rhonda Petro |
 | 569 | 485 | Mamachelle Eisweirth |
 | 570 | 485 | Klee |
 | 571 | 484 | Wendy Unsain |
@@ -624,9 +624,9 @@
 | 616 | 459 | Shyenn Gadsby |
 | 617 | 458 | Kia Humphery |
 | 618 | 457 | Abimbola Bimbo |
-| 619 | 456 | Samantha Scibelli |
-| 620 | 456 | Sabrina Burton |
-| 621 | 456 | Misty Mitchell |
+| 619 | 456 | Sabrina Burton |
+| 620 | 456 | Misty Mitchell |
+| 621 | 456 | Samantha Scibelli |
 | 622 | 456 | Jessica Lamb |
 | 623 | 456 | Kacee Conrad Bock |
 | 624 | 455 | Sabrena Yeisley |

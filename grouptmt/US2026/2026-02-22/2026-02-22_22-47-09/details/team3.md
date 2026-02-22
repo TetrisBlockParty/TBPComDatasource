@@ -134,8 +134,8 @@
 | 126 | 618 | Bea Miles |
 | 127 | 617 | Leah Barnett |
 | 128 | 613 | JerseyJess |
-| 129 | 595 | Giddy Drop |
-| 130 | 595 | Patricia White |
+| 129 | 595 | Patricia White |
+| 130 | 595 | Giddy Drop |
 | 131 | 590 | Santeria Trece Candles |
 | 132 | 588 | Justin Ritter |
 | 133 | 587 | Daryn Elliott |
@@ -146,8 +146,8 @@
 | 138 | 574 | Morgan Martinez |
 | 139 | 572 | CeceGeGe |
 | 140 | 568 | Rachael McClain Owens |
-| 141 | 562 | Dave Herzog |
-| 142 | 562 | Louise Stacy Sisson |
+| 141 | 562 | Louise Stacy Sisson |
+| 142 | 562 | Dave Herzog |
 | 143 | 558 | Nicole Myers |
 | 144 | 557 | Domo Washington |
 | 145 | 553 | LaTanya GeminiondaRise Johnson |
@@ -186,8 +186,8 @@
 | 178 | 460 | Danielle Allison |
 | 179 | 460 | Araceli Parra |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Jim Mathews |
-| 182 | 457 | Shannon Matthew Byers |
+| 181 | 457 | Shannon Matthew Byers |
+| 182 | 457 | Jim Mathews |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
@@ -277,8 +277,8 @@
 | 269 | 302 | Gray Hicks |
 | 270 | 301 | Betty Rosas |
 | 271 | 300 | Tiffany Davie |
-| 272 | 299 | Angie Harper |
-| 273 | 299 | Ray Lader |
+| 272 | 299 | Ray Lader |
+| 273 | 299 | Angie Harper |
 | 274 | 298 | Grams |
 | 275 | 297 | Connie Mohler-Fair |
 | 276 | 297 | Cheeky Snapper |
@@ -332,23 +332,23 @@
 | 324 | 263 | Jimmie Clemons |
 | 325 | 262 | Cyd061769 |
 | 326 | 261 | Angela Scott |
-| 327 | 258 | IamJust Neyamijah Washington Sr. |
-| 328 | 258 | Michael Kimbro |
+| 327 | 258 | Michael Kimbro |
+| 328 | 258 | IamJust Neyamijah Washington Sr. |
 | 329 | 256 | KayB |
 | 330 | 255 | Twisty Brick LT |
 | 331 | 255 | Sharisse Baltimore |
 | 332 | 254 | Desiree Gold |
 | 333 | 253 | Salena Whitlock |
 | 334 | 252 | Blair Erin Waite |
-| 335 | 251 | Naur |
-| 336 | 251 | Alice |
+| 335 | 251 | Alice |
+| 336 | 251 | Naur |
 | 337 | 250 | Tosha Griffey |
 | 338 | 247 | Jessica |
 | 339 | 247 | Daring Builder |
 | 340 | 246 | Erika Thornton |
 | 341 | 245 | Latoya Mayne |
-| 342 | 244 | Quackers |
-| 343 | 244 | LaNette Morgan |
+| 342 | 244 | LaNette Morgan |
+| 343 | 244 | Quackers |
 | 344 | 243 | Josh Borquez |
 | 345 | 242 | Randy Clevenger |
 | 346 | 240 | Eric Caccavale |

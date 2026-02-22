@@ -78,8 +78,8 @@
 | 70 | 664 | Valerie Roberts |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 628 | TheNeesh50 |
@@ -152,8 +152,8 @@
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
-| 147 | 343 | Latisha Davis |
-| 148 | 343 | ThaEviLJeNiuZ |
+| 147 | 343 | ThaEviLJeNiuZ |
+| 148 | 343 | Latisha Davis |
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |
@@ -521,7 +521,7 @@
 | 513 | 110 | Jennifer Dineen |
 | 514 | 109 | Jessica Miller |
 | 515 | 109 | Dustin York |
-| 516 | 109 | Jessica Miller |
+| 516 | 109 | Lilya Troutman |
 | 517 | 108 | mike |
 | 518 | 108 | Ali Ian |
 | 519 | 108 | Chao Ma |
