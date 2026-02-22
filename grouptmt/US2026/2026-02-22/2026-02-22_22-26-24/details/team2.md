@@ -189,8 +189,8 @@
 | 181 | 1192 | Denisha Dawkins |
 | 182 | 1190 | Debra Williams |
 | 183 | 1177 | Joyce Johnson Vaughn |
-| 184 | 1174 | Jennifer Casey-Kay |
-| 185 | 1174 | Poppy Snap |
+| 184 | 1174 | Poppy Snap |
+| 185 | 1174 | Jennifer Casey-Kay |
 | 186 | 1171 | Marie Boyd Faulk |
 | 187 | 1169 | Pacynthia Williams |
 | 188 | 1169 | Tonya Morgan |
@@ -314,12 +314,12 @@
 | 306 | 833 | Cody Nishimura |
 | 307 | 833 | Tim Dyer |
 | 308 | 824 | Chirpy Staggerpiece |
-| 309 | 821 | Diallo Sparkman |
-| 310 | 821 | Angie Bolton Workman |
+| 309 | 821 | Angie Bolton Workman |
+| 310 | 821 | Diallo Sparkman |
 | 311 | 818 | Lola Contreras |
 | 312 | 817 | Nett |
-| 313 | 816 | James Simms III |
-| 314 | 816 | Jessica Wayne Cornwall |
+| 313 | 816 | Jessica Wayne Cornwall |
+| 314 | 816 | James Simms III |
 | 315 | 810 | Andrea Maher |
 | 316 | 808 | Melissa McCall |
 | 317 | 808 | Desire Rice |
@@ -379,8 +379,8 @@
 | 371 | 708 | Jelly |
 | 372 | 706 | goofinoff |
 | 373 | 703 | Gold Rose |
-| 374 | 702 | Allan Wayne Lamia |
-| 375 | 702 | Kimberly Randesi |
+| 374 | 702 | Kimberly Randesi |
+| 375 | 702 | Allan Wayne Lamia |
 | 376 | 701 | Mama T |
 | 377 | 701 | Draizen Montrell Thomas |
 | 378 | 700 | Beverly Owens |
@@ -436,8 +436,8 @@
 | 428 | 628 | Brownie Sheena |
 | 429 | 628 | g |
 | 430 | 626 | Demeka Dangerous-kisses Johnson |
-| 431 | 620 | Traci Johnson |
-| 432 | 620 | Brandon Armstrong |
+| 431 | 620 | Brandon Armstrong |
+| 432 | 620 | Traci Johnson |
 | 433 | 618 | Caitlyn Blackwell |
 | 434 | 618 | Vanessa Moreno |
 | 435 | 617 | Darcy Mae |

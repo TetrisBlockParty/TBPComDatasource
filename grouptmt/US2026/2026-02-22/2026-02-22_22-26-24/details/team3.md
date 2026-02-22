@@ -76,8 +76,8 @@
 | 68 | 964 | Jennifer |
 | 69 | 954 | Nate Burnside |
 | 70 | 945 | Christian A. Pollard |
-| 71 | 926 | Angela M. Fletcher |
-| 72 | 926 | Judi Dobson |
+| 71 | 926 | Judi Dobson |
+| 72 | 926 | Angela M. Fletcher |
 | 73 | 924 | Shonna Roberts |
 | 74 | 907 | Michelle Becker |
 | 75 | 903 | Sarah Fehring |
@@ -115,8 +115,8 @@
 | 107 | 712 | Katrina Schroeder |
 | 108 | 704 | Suzieq |
 | 109 | 699 | Marcie Bressler |
-| 110 | 696 | Christine Niles |
-| 111 | 696 | Speedy Bridger |
+| 110 | 696 | Speedy Bridger |
+| 111 | 696 | Christine Niles |
 | 112 | 694 | joclisa |
 | 113 | 693 | Hasty Cascadefit |
 | 114 | 689 | Kristie |
@@ -599,8 +599,8 @@
 | 591 | 143 | Bekah Dietrich |
 | 592 | 143 | bean |
 | 593 | 143 | Lisa Lisa |
-| 594 | 142 | paranoid |
-| 595 | 142 | Samantha Lohmeyer |
+| 594 | 142 | Samantha Lohmeyer |
+| 595 | 142 | paranoid |
 | 596 | 142 | Jana Fagg |
 | 597 | 141 | Jen Lewis |
 | 598 | 141 | Reina Roth |

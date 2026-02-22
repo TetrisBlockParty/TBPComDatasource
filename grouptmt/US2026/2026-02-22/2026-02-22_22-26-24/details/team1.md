@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -279,8 +279,8 @@
 | 271 | 207 | Alenoush Karimian |
 | 272 | 207 | Brenda Alexander |
 | 273 | 205 | Tyler L Hunt |
-| 274 | 204 | Chris Sigurdson |
-| 275 | 204 | Mel Hogan |
+| 274 | 204 | Mel Hogan |
+| 275 | 204 | Chris Sigurdson |
 | 276 | 203 | Andrew Boone |
 | 277 | 202 | Amanda Holibaugh |
 | 278 | 201 | Colleen Wise |

@@ -102,14 +102,14 @@
 | 94 | 533 | Samantha Peterson |
 | 95 | 531 | Zippy Gridlock |
 | 96 | 519 | Nugget |
-| 97 | 513 | Erin Thomas |
-| 98 | 513 | YoMomma |
+| 97 | 513 | YoMomma |
+| 98 | 513 | Erin Thomas |
 | 99 | 512 | Diana Houts |
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Trista Leah |
-| 104 | 499 | Christina LR |
+| 103 | 499 | Christina LR |
+| 104 | 499 | Trista Leah |
 | 105 | 488 | Jen Allison |
 | 106 | 481 | Serena Goodridge |
 | 107 | 476 | Matt Summer |
@@ -197,8 +197,8 @@
 | 189 | 277 | Mary Ann Pabukis |
 | 190 | 277 | Kim Klutz Olson |
 | 191 | 276 | Joeliecea Cobb |
-| 192 | 272 | Dennis Bradley |
-| 193 | 272 | Alan George LaRage |
+| 192 | 272 | Alan George LaRage |
+| 193 | 272 | Dennis Bradley |
 | 194 | 271 | Sarah Brown |
 | 195 | 270 | Juls |
 | 196 | 269 | Chris Bernstein |
@@ -219,8 +219,8 @@
 | 211 | 256 | Mylo Lipscomb |
 | 212 | 250 | Matt Dell'Olio |
 | 213 | 249 | Ak Jones |
-| 214 | 248 | Jose Dejesus |
-| 215 | 248 | Chirpy Basepiece |
+| 214 | 248 | Chirpy Basepiece |
+| 215 | 248 | Jose Dejesus |
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
 | 218 | 245 | April Rondinone |
@@ -240,8 +240,8 @@
 | 232 | 230 | blockstar |
 | 233 | 230 | Jade Rian |
 | 234 | 228 | Antony Dwayne Beasley |
-| 235 | 225 | Perky Patternblock |
-| 236 | 225 | Jenna McGeorge |
+| 235 | 225 | Jenna McGeorge |
+| 236 | 225 | Perky Patternblock |
 | 237 | 222 | Brandi Durig |
 | 238 | 221 | PurpleMoonMa |
 | 239 | 221 | Rheanda Weaskus |
