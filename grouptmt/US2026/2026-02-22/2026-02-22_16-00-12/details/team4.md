@@ -202,13 +202,13 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | Cristy Duerksen |
-| 198 | 216 | ZeeZee |
+| 197 | 216 | ZeeZee |
+| 198 | 216 | Cristy Duerksen |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
-| 202 | 213 | Jason Allen |
-| 203 | 213 | Sarah Neathery |
+| 202 | 213 | Sarah Neathery |
+| 203 | 213 | Jason Allen |
 | 204 | 212 | Mike Solo |
 | 205 | 212 | Joanna |
 | 206 | 211 | Jenna McGeorge |

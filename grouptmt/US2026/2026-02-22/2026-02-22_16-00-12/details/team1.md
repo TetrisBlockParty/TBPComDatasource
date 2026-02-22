@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | MRdot Rooski |
-| 189 | 235 | Desiree Deschaine Havee |
+| 188 | 235 | Desiree Deschaine Havee |
+| 189 | 235 | MRdot Rooski |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Erez Yosef |
-| 198 | 223 | Basment Living |
+| 197 | 223 | Basment Living |
+| 198 | 223 | Erez Yosef |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
 | 201 | 220 | Jessie Lynn |
@@ -317,8 +317,8 @@
 | 309 | 155 | Barry Mac'Ockner |
 | 310 | 154 | Larry Tilton |
 | 311 | 153 | Dino |
-| 312 | 153 | John Kim |
-| 313 | 153 | Tami Luce Martin |
+| 312 | 153 | Tami Luce Martin |
+| 313 | 153 | John Kim |
 | 314 | 152 | Speedy Snapfall |
 | 315 | 151 | Bruce Cruz |
 | 316 | 151 | Evan Richmond |
@@ -337,8 +337,8 @@
 | 329 | 145 | Tipsy Riseclear |
 | 330 | 145 | Robert |
 | 331 | 145 | Chantelle Ceno |
-| 332 | 144 | Miguel Teixeira |
-| 333 | 144 | Toph |
+| 332 | 144 | Toph |
+| 333 | 144 | Miguel Teixeira |
 | 334 | 143 | Guest |
 | 335 | 142 | Mario Cab |
 | 336 | 142 | Nathan Sealander |

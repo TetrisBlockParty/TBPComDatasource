@@ -204,8 +204,8 @@
 | 196 | 1001 | Debra Williams |
 | 197 | 993 | Tralonda Weeks |
 | 198 | 991 | Moose Griffith |
-| 199 | 989 | Desiree Harris Rosch |
-| 200 | 989 | Teddi Notyalc |
+| 199 | 989 | Teddi Notyalc |
+| 200 | 989 | Desiree Harris Rosch |
 | 201 | 988 | Cherica Taylor |
 | 202 | 986 | RAEPR05 |
 | 203 | 979 | Hillary Crawford |
@@ -353,8 +353,8 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | BeQuo |
-| 349 | 661 | goofinoff |
+| 348 | 661 | goofinoff |
+| 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | tejas25 |
@@ -385,8 +385,8 @@
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Christine Bollig |
-| 381 | 602 | Biggest thing |
+| 380 | 602 | Biggest thing |
+| 381 | 602 | Christine Bollig |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -416,8 +416,8 @@
 | 408 | 558 | Libby Hicks |
 | 409 | 558 | Mikayala Szaz |
 | 410 | 556 | Slip |
-| 411 | 554 | Santana Miyagi |
-| 412 | 554 | Rachael Senard |
+| 411 | 554 | Rachael Senard |
+| 412 | 554 | Santana Miyagi |
 | 413 | 553 | Blacc Blac |
 | 414 | 550 | Nashu |
 | 415 | 549 | Darcy Mae |
@@ -427,8 +427,8 @@
 | 419 | 547 | Shaun Church |
 | 420 | 545 | Lyndi Robinson Wakefield |
 | 421 | 544 | Deidre Shaffer |
-| 422 | 543 | Julie Kresal |
-| 423 | 543 | Vanessa Moreno |
+| 422 | 543 | Vanessa Moreno |
+| 423 | 543 | Julie Kresal |
 | 424 | 541 | Julay |
 | 425 | 541 | g |
 | 426 | 540 | Dizzy Zone |
@@ -776,11 +776,11 @@
 | 768 | 320 | Tash Bell |
 | 769 | 320 | Mary Boss |
 | 770 | 319 | Cassie Newton |
-| 771 | 319 | RetroLemur |
-| 772 | 319 | Cheery Puzzler |
+| 771 | 319 | Cheery Puzzler |
+| 772 | 319 | RetroLemur |
 | 773 | 318 | Jennifer Mahon |
-| 774 | 317 | Ashlyn Berner |
-| 775 | 317 | Zombi3 |
+| 774 | 317 | Zombi3 |
+| 775 | 317 | Ashlyn Berner |
 | 776 | 317 | Aireka Roman |
 | 777 | 316 | Epic Spinfit |
 | 778 | 315 | MamaBear11 |
@@ -795,8 +795,8 @@
 | 787 | 313 | Natasha Edmonds |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | Audra Williams |
-| 791 | 311 | SwifftFox |
+| 790 | 311 | SwifftFox |
+| 791 | 311 | Audra Williams |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Cheeky Brickmatch |
 | 794 | 310 | Cozy Drop |
@@ -805,8 +805,8 @@
 | 797 | 309 | Daniell Martinez |
 | 798 | 309 | Byung Bae Park |
 | 799 | 308 | Hyper Riseclear |
-| 800 | 308 | Kristina Marie Hanna |
-| 801 | 308 | Claire |
+| 800 | 308 | Claire |
+| 801 | 308 | Kristina Marie Hanna |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
 | 804 | 305 | Frisky Patternline |
@@ -818,8 +818,8 @@
 | 810 | 303 | Devin |
 | 811 | 303 | Amanda Schaffer |
 | 812 | 303 | Alyssia Tancredi |
-| 813 | 302 | Kena T. Tanner |
-| 814 | 302 | Epic Stackbuilder |
+| 813 | 302 | Epic Stackbuilder |
+| 814 | 302 | Kena T. Tanner |
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |
