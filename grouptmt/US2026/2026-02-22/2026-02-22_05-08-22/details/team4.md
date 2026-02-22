@@ -51,8 +51,8 @@
 | 43 | 646 | Jacqueline Helm |
 | 44 | 634 | Anthony Bryan Riva |
 | 45 | 632 | Kimyatta Cavin |
-| 46 | 630 | Chilly Line |
-| 47 | 630 | Dustee Craddock-Harrison |
+| 46 | 630 | Dustee Craddock-Harrison |
+| 47 | 630 | Chilly Line |
 | 48 | 627 | Jonathan Kimbrough |
 | 49 | 623 | Robin Getchel |
 | 50 | 614 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 409 | Isabella Blanco |
 | 76 | 404 | Courtney Cicoria |
 | 77 | 402 | Julian Garcia |
-| 78 | 396 | Alicia Bass |
-| 79 | 396 | Amy Suckarieh |
+| 78 | 396 | Amy Suckarieh |
+| 79 | 396 | Alicia Bass |
 | 80 | 391 | Ramel Rhodes |
 | 81 | 390 | Carlton Unfiltered |
 | 82 | 382 | Marie-Pier Desjardins |
@@ -109,8 +109,8 @@
 | 101 | 303 | Lauren Scott |
 | 102 | 300 | Jason Hart |
 | 103 | 298 | Lucas J Sutton |
-| 104 | 296 | Justin Hannigan |
-| 105 | 296 | HastyGrabber |
+| 104 | 296 | HastyGrabber |
+| 105 | 296 | Justin Hannigan |
 | 106 | 295 | Latisha Davis |
 | 107 | 294 | Kesha Brady |
 | 108 | 288 | Leslie Nicole |

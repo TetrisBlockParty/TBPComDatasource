@@ -218,7 +218,7 @@
 | 210 | 800 | Danielle Johnson-Chandler |
 | 211 | 799 | Foxxo |
 | 212 | 787 | Laura McCarthey |
-| 213 | 777 | Jessicah Myers |
+| 213 | 777 | Alisa Lamb |
 | 214 | 777 | Barbra Miller |
 | 215 | 777 | Jessicah Myers |
 | 216 | 777 | Tesha Oldaker |
