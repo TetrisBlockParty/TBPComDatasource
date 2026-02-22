@@ -162,8 +162,8 @@
 | 154 | 479 | Patti Skiles |
 | 155 | 474 | Danielle Balcom |
 | 156 | 473 | Calista Jo Dickson |
-| 157 | 471 | Mendoza Lee Christy |
-| 158 | 471 | Nora Rogers |
+| 157 | 471 | Nora Rogers |
+| 158 | 471 | Mendoza Lee Christy |
 | 159 | 470 | Logan Naccarato |
 | 160 | 469 | Adrian Marcel Pate |
 | 161 | 468 | Betty Ivy |
@@ -233,15 +233,15 @@
 | 225 | 347 | Philip Rock |
 | 226 | 347 | Trisha Balmer |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Ashley Tookes |
 | 232 | 341 | Samantha Lynn |
 | 233 | 341 | Noyb Adam |
 | 234 | 340 | Ammmmmmy |
-| 235 | 338 | Rebecca Funderburk Kirby |
-| 236 | 338 | Gumbo |
+| 235 | 338 | Gumbo |
+| 236 | 338 | Rebecca Funderburk Kirby |
 | 237 | 332 | Bmo |
 | 238 | 330 | victory |
 | 239 | 329 | Brittany |

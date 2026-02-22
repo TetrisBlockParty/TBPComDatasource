@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -402,12 +402,12 @@
 | 394 | 143 | Guest |
 | 395 | 142 | Lynn Adams |
 | 396 | 141 | Kayla Marie Stevenson |
-| 397 | 140 | Layzietyme |
-| 398 | 140 | Nathan William |
-| 399 | 139 | Aimee Horton |
-| 400 | 139 | Cozy Shatterer |
-| 401 | 138 | Unicorn |
-| 402 | 138 | Sunny Shift |
+| 397 | 140 | Nathan William |
+| 398 | 140 | Layzietyme |
+| 399 | 139 | Cozy Shatterer |
+| 400 | 139 | Aimee Horton |
+| 401 | 138 | Sunny Shift |
+| 402 | 138 | Unicorn |
 | 403 | 138 | Glitzy Curvebuilder |
 | 404 | 137 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 405 | 137 | Joshua Weeder |

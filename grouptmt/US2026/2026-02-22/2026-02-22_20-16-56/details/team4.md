@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -198,10 +198,10 @@
 | 190 | 265 | Porkobello |
 | 191 | 265 | J-Rizzle |
 | 192 | 264 | Epic Curvetile |
-| 193 | 262 | Joeliecea Cobb |
-| 194 | 262 | Holly Jolly |
-| 195 | 259 | Sam Bishop |
-| 196 | 259 | Melvin Baird |
+| 193 | 262 | Holly Jolly |
+| 194 | 262 | Joeliecea Cobb |
+| 195 | 259 | Melvin Baird |
+| 196 | 259 | Sam Bishop |
 | 197 | 256 | Mylo Lipscomb |
 | 198 | 250 | Matt Dell'Olio |
 | 199 | 249 | Cheery Risebuilder |
@@ -255,8 +255,8 @@
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | Keith Kelley |
-| 251 | 205 | James Hurley Jr. |
+| 250 | 205 | James Hurley Jr. |
+| 251 | 205 | Keith Kelley |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |
@@ -268,8 +268,8 @@
 | 260 | 198 | Angelito |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | 中山成巳 |
-| 264 | 195 | Snippy Puzzle |
+| 263 | 195 | Snippy Puzzle |
+| 264 | 195 | 中山成巳 |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |

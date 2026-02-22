@@ -458,8 +458,8 @@
 | 450 | 571 | Emily Lyric Converse |
 | 451 | 569 | Sparkles |
 | 452 | 569 | Dapper Dasher |
-| 453 | 569 | Joseph Musick |
-| 454 | 569 | Vaniel Glover |
+| 453 | 569 | Vaniel Glover |
+| 454 | 569 | Joseph Musick |
 | 455 | 567 | Irene Jones |
 | 456 | 566 | Leah Keesling |
 | 457 | 565 | Lyndi Robinson Wakefield |
@@ -631,8 +631,8 @@
 | 623 | 431 | Hunter Connors |
 | 624 | 431 | Quinn |
 | 625 | 429 | Goofy Catcher |
-| 626 | 429 | Tabs Reichert |
-| 627 | 429 | Angel Hunnewell |
+| 626 | 429 | Angel Hunnewell |
+| 627 | 429 | Tabs Reichert |
 | 628 | 428 | Epic Stackzone |
 | 629 | 428 | Cecilia A Jenkins |
 | 630 | 427 | Destiny Cozier |
@@ -647,8 +647,8 @@
 | 639 | 420 | Jessica Hughes |
 | 640 | 420 | Ricky Fortune |
 | 641 | 419 | Pocho Zavala |
-| 642 | 419 | Josh Dill |
-| 643 | 419 | Frilly Fallzone |
+| 642 | 419 | Frilly Fallzone |
+| 643 | 419 | Josh Dill |
 | 644 | 418 | Lauren Fitzgerald Thomas |
 | 645 | 418 | Dawn L Washington-Feuquay |
 | 646 | 417 | Giggy Grabber |
@@ -656,8 +656,8 @@
 | 648 | 417 | Alexx Anaya |
 | 649 | 417 | Oscar Bernie |
 | 650 | 416 | Mo Shine On |
-| 651 | 414 | Jasmine Kenney |
-| 652 | 414 | John |
+| 651 | 414 | John |
+| 652 | 414 | Jasmine Kenney |
 | 653 | 414 | Daniel Amos |
 | 654 | 413 | Kristen O'Neal |
 | 655 | 413 | Kimberly Ann |
@@ -667,8 +667,8 @@
 | 659 | 410 | Belle |
 | 660 | 409 | Alexis Richardson |
 | 661 | 409 | Cleo Sims |
-| 662 | 408 | Boogie SoAnimated Johnson |
-| 663 | 408 | Qiana Sanders |
+| 662 | 408 | Qiana Sanders |
+| 663 | 408 | Boogie SoAnimated Johnson |
 | 664 | 408 | Brandon Jones |
 | 665 | 407 | Tipsy Filler |
 | 666 | 406 | Erin StFrancis |
