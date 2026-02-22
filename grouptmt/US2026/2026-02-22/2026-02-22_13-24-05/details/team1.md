@@ -150,8 +150,8 @@
 | 142 | 282 | Snippy Wipebuilder |
 | 143 | 282 | Tyler Werts |
 | 144 | 276 | Dandy Basegrid |
-| 145 | 270 | Ash Galvan |
-| 146 | 270 | Mandyy Rae |
+| 145 | 270 | Mandyy Rae |
+| 146 | 270 | Ash Galvan |
 | 147 | 268 | GATOR |
 | 148 | 265 | SkipTheSadSauce |
 | 149 | 265 | Nutty Spinblock |
@@ -269,8 +269,8 @@
 | 261 | 170 | Tina Englert |
 | 262 | 169 | Abbey Crespo |
 | 263 | 168 | Angela Fairbank |
-| 264 | 167 | Cranky Pattern |
-| 265 | 167 | Nery Martinez |
+| 264 | 167 | Nery Martinez |
+| 265 | 167 | Cranky Pattern |
 | 266 | 166 | Carrie Smith |
 | 267 | 165 | Silly Align |
 | 268 | 165 | Nadine Velardo |

@@ -744,7 +744,7 @@
 | 736 | 52 | McKayla Breanne |
 | 737 | 51 | Lane Wasson |
 | 738 | 51 | Travis Poe |
-| 739 | 51 | George Nutt |
+| 739 | 51 | Dot Flanagan |
 | 740 | 51 | Mike Nelson |
 | 741 | 51 | George Nutt |
 | 742 | 50 | Wacky Blockclear |

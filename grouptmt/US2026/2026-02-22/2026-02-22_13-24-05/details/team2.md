@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 899 | Hillary Crawford |
@@ -397,8 +397,8 @@
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Brownie Sheena |
-| 393 | 548 | Taryece Gause |
+| 392 | 548 | Taryece Gause |
+| 393 | 548 | Brownie Sheena |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
@@ -506,8 +506,8 @@
 | 498 | 459 | Melissa Kay Gibson |
 | 499 | 458 | Casper The Chonk |
 | 500 | 454 | Casey Schumacher |
-| 501 | 453 | Joshua Sommerville |
-| 502 | 453 | Rhonda Petro |
+| 501 | 453 | Rhonda Petro |
+| 502 | 453 | Joshua Sommerville |
 | 503 | 452 | Sarah Berger |
 | 504 | 452 | Juanita Lyons |
 | 505 | 451 | Funky Caster |
@@ -515,8 +515,8 @@
 | 507 | 448 | Lee Harper |
 | 508 | 448 | Liberty |
 | 509 | 447 | Boozi |
-| 510 | 447 | Besma Ao |
-| 511 | 447 | Jessica S Flecha |
+| 510 | 447 | Jessica S Flecha |
+| 511 | 447 | Besma Ao |
 | 512 | 446 | Snippy Rumbler |
 | 513 | 445 | Mar Q Thomas |
 | 514 | 445 | Sharon Mills |
@@ -929,8 +929,8 @@
 | 921 | 257 | Mama T |
 | 922 | 256 | Gursharan Sandhu |
 | 923 | 256 | Nikki Vaughn |
-| 924 | 256 | Brenna Yearian |
-| 925 | 256 | Monarca26 |
+| 924 | 256 | Monarca26 |
+| 925 | 256 | Brenna Yearian |
 | 926 | 256 | Slinky Racker |
 | 927 | 255 | Charles E Mccardell |
 | 928 | 255 | Marget Kay |
