@@ -66,8 +66,8 @@
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Cherry Parker |
-| 62 | 621 | Ebony West-Cundiff |
+| 61 | 621 | Ebony West-Cundiff |
+| 62 | 621 | Cherry Parker |
 | 63 | 619 | Jennifer |
 | 64 | 618 | MissTaylor |
 | 65 | 618 | Brandon Green |
@@ -117,8 +117,8 @@
 | 109 | 400 | Luciana Braganca Vieira |
 | 110 | 399 | Mcathen |
 | 111 | 396 | Shannon Matthew Byers |
-| 112 | 394 | Annie Déè |
-| 113 | 394 | joclisa |
+| 112 | 394 | joclisa |
+| 113 | 394 | Annie Déè |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
 | 116 | 390 | Patti Skiles |
@@ -135,12 +135,12 @@
 | 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Tessina Dewey-Mancino |
-| 131 | 355 | Sherry Ogden |
+| 130 | 355 | Sherry Ogden |
+| 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 328 | Jeni Dow |
 | 138 | 328 | Aaron Pitkin |
@@ -198,8 +198,8 @@
 | 190 | 224 | Nicole Myers |
 | 191 | 223 | Jeana Gilbert |
 | 192 | 220 | Jim Mathews |
-| 193 | 219 | Shunta Jacobs |
-| 194 | 219 | Jess Bissett |
+| 193 | 219 | Jess Bissett |
+| 194 | 219 | Shunta Jacobs |
 | 195 | 218 | LaNette Morgan |
 | 196 | 215 | IamJust Neyamijah Washington Sr. |
 | 197 | 214 | Jenny Hrndz |
@@ -207,7 +207,7 @@
 | 199 | 214 | Tye Stovall |
 | 200 | 211 | Khaleada McGill Banks |
 | 201 | 211 | Giddy Twistbuilder |
-| 202 | 211 | Khaleada McGill Banks |
+| 202 | 211 | Katrina Turner |
 | 203 | 210 | Michael Lucado |
 | 204 | 209 | Twisty Brick LT |
 | 205 | 208 | Trisha Balmer |
@@ -405,8 +405,8 @@
 | 397 | 106 | Cheeky Setter |
 | 398 | 105 | Martin Bernier |
 | 399 | 105 | Dapper Towerfit |
-| 400 | 105 | Trice Thomas |
-| 401 | 105 | Emi |
+| 400 | 105 | Emi |
+| 401 | 105 | Trice Thomas |
 | 402 | 105 | Snarky McFace |
 | 403 | 105 | Tammy Rosenberry |
 | 404 | 104 | Niki Dalrymple |

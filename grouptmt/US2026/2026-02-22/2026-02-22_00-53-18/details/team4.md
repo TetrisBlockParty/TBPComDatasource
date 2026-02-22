@@ -90,8 +90,8 @@
 | 82 | 318 | Amy Suckarieh |
 | 83 | 311 | David Lay |
 | 84 | 309 | Denise Carlson |
-| 85 | 308 | Livvy |
-| 86 | 308 | Jen Allison |
+| 85 | 308 | Jen Allison |
+| 86 | 308 | Livvy |
 | 87 | 306 | Lori Walker |
 | 88 | 303 | Lauren Scott |
 | 89 | 300 | Jason Hart |
@@ -151,15 +151,15 @@
 | 143 | 185 | Andy Cabral |
 | 144 | 185 | Malakai Darien Fox |
 | 145 | 184 | Justin Hannigan |
-| 146 | 181 | Klo |
-| 147 | 181 | Carter Jones |
-| 148 | 181 | Andria Lynn |
+| 146 | 181 | Andria Lynn |
+| 147 | 181 | Klo |
+| 148 | 181 | Carter Jones |
 | 149 | 180 | Leah Kutz Zirbel |
 | 150 | 179 | Ak Jones |
 | 151 | 179 | Scott Jameson |
 | 152 | 176 | Zethra Prenisha Rahming |
-| 153 | 175 | Ren Mc |
-| 154 | 175 | blockstar |
+| 153 | 175 | blockstar |
+| 154 | 175 | Ren Mc |
 | 155 | 174 | Dihcheese444 |
 | 156 | 173 | Jessica Lynn Cutlip |
 | 157 | 172 | Jessica Bohlken |
@@ -219,7 +219,7 @@
 | 211 | 128 | Jackie Marie |
 | 212 | 128 | April Rondinone |
 | 213 | 128 | Rio Rocha |
-| 214 | 128 | Kristin MacDonald |
+| 214 | 128 | 🥔🥔 Spudz |
 | 215 | 127 | Zesty Twistbuilder |
 | 216 | 126 | Nerdy Twisterfit |
 | 217 | 126 | Angelito |
@@ -290,7 +290,7 @@
 | 282 | 100 | Jennifer Perkins |
 | 283 | 99 | Chance Strickland |
 | 284 | 99 | Michael Orris |
-| 285 | 98 | Perky Piecegrid |
+| 285 | 98 | Paige Kittles |
 | 286 | 98 | Groovy Gridlock |
 | 287 | 98 | Perky Piecegrid |
 | 288 | 97 | Cranky Rollpiece |
@@ -312,8 +312,8 @@
 | 304 | 93 | No Strings Attached Ra |
 | 305 | 93 | JPW |
 | 306 | 92 | Frilly Blocky |
-| 307 | 91 | wombat |
-| 308 | 91 | Sunny Filler |
+| 307 | 91 | Sunny Filler |
+| 308 | 91 | wombat |
 | 309 | 90 | Carol Ricks Raymond |
 | 310 | 90 | Chirpy Slammer |
 | 311 | 90 | Thomas Hettenhaus |

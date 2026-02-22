@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Chelsea Dahlquist |
-| 114 | 243 | Trippy Redd |
+| 113 | 243 | Trippy Redd |
+| 114 | 243 | Chelsea Dahlquist |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -135,8 +135,8 @@
 | 127 | 208 | Giggly Builderline |
 | 128 | 207 | Leslie Bush Yarbrough |
 | 129 | 204 | Ananda Mendez |
-| 130 | 203 | Paula Martin |
-| 131 | 203 | GATOR |
+| 130 | 203 | GATOR |
+| 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
 | 133 | 198 | Happy Snapbuild |
 | 134 | 198 | Shiny Gridmatch |
@@ -144,8 +144,8 @@
 | 136 | 194 | Tyler Werts |
 | 137 | 194 | Ash Galvan |
 | 138 | 193 | Lachelle Dillon |
-| 139 | 192 | Jessica Sheehan |
-| 140 | 192 | Shaykmia |
+| 139 | 192 | Shaykmia |
+| 140 | 192 | Jessica Sheehan |
 | 141 | 191 | Diane Byrd |
 | 142 | 190 | Thorne Shumate |
 | 143 | 190 | Sweetts |

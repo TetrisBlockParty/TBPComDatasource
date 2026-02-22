@@ -359,8 +359,8 @@
 | 351 | 437 | Arwa Fatimah |
 | 352 | 435 | Kimberly Randesi |
 | 353 | 433 | Victor Obiakarije |
-| 354 | 428 | Crystie Hicks |
-| 355 | 428 | Rhonda Milstead |
+| 354 | 428 | Rhonda Milstead |
+| 355 | 428 | Crystie Hicks |
 | 356 | 427 | Amanda Ferrell |
 | 357 | 427 | Destiny Cozier |
 | 358 | 425 | Skyler Morgan |
@@ -522,8 +522,8 @@
 | 514 | 311 | Mary Marie |
 | 515 | 310 | Lonne Emade |
 | 516 | 310 | Cheeky Brickmatch |
-| 517 | 310 | Sharon Mills |
-| 518 | 310 | Audra Williams |
+| 517 | 310 | Audra Williams |
+| 518 | 310 | Sharon Mills |
 | 519 | 309 | Brenna Ann |
 | 520 | 308 | Christina Jarvis-Swarbrick |
 | 521 | 308 | Claire |
@@ -538,7 +538,7 @@
 | 530 | 304 | Michelle Shrum |
 | 531 | 304 | NFLPITMOM |
 | 532 | 303 | Prado |
-| 533 | 303 | Amanda Schaffer |
+| 533 | 303 | Crystal Greene |
 | 534 | 303 | Byung Bae Park |
 | 535 | 303 | Amanda Schaffer |
 | 536 | 303 | Candy Pitts |
