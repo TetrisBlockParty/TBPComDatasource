@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,15 +103,15 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Patty Allen |
 | 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Louise Stacy Sisson |
-| 106 | 562 | Dave Herzog |
+| 105 | 562 | Dave Herzog |
+| 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -160,8 +160,8 @@
 | 152 | 402 | Shannon Matthew Byers |
 | 153 | 401 | Katie Knaus |
 | 154 | 400 | Luciana Braganca Vieira |
-| 155 | 399 | Marcie Bressler |
-| 156 | 399 | Mcathen |
+| 155 | 399 | Mcathen |
+| 156 | 399 | Marcie Bressler |
 | 157 | 397 | Annie Déè |
 | 158 | 396 | Tasha Gillespie |
 | 159 | 393 | Fallorina Susana |
@@ -184,8 +184,8 @@
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Stephanie Burtin |
-| 180 | 357 | Tom Nault |
+| 179 | 357 | Tom Nault |
+| 180 | 357 | Stephanie Burtin |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -194,8 +194,8 @@
 | 186 | 347 | Jone |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Cass Mendoza |
-| 236 | 271 | Ashley Muncey |
+| 235 | 271 | Ashley Muncey |
+| 236 | 271 | Cass Mendoza |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -259,8 +259,8 @@
 | 251 | 256 | Tiffany Davie |
 | 252 | 256 | KayB |
 | 253 | 250 | fraulila |
-| 254 | 249 | JerseyJess |
-| 255 | 249 | Annie Marie |
+| 254 | 249 | Annie Marie |
+| 255 | 249 | JerseyJess |
 | 256 | 247 | Carrie Huskey |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
@@ -290,8 +290,8 @@
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -321,8 +321,8 @@
 | 313 | 200 | Sharisse Baltimore |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
-| 316 | 195 | Nicha Hooker |
-| 317 | 195 | Kristian Thurman |
+| 316 | 195 | Kristian Thurman |
+| 317 | 195 | Nicha Hooker |
 | 318 | 194 | Goofy Fall |
 | 319 | 193 | Clever Shiftsnap |
 | 320 | 192 | Ryan Williams |
@@ -539,8 +539,8 @@
 | 531 | 112 | Michael Kimbro |
 | 532 | 111 | Geronimo |
 | 533 | 111 | Jennifer Neiman Gaal |
-| 534 | 111 | Chenoa Urban Sophicated Redy |
-| 535 | 111 | Victoria Wangler Lewis |
+| 534 | 111 | Victoria Wangler Lewis |
+| 535 | 111 | Chenoa Urban Sophicated Redy |
 | 536 | 110 | Kate Farok |
 | 537 | 110 | Scott Doss |
 | 538 | 110 | Isabel Ocasio |

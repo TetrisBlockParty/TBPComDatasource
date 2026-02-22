@@ -96,9 +96,9 @@
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
 | 90 | 382 | Jacqueline Williams |
-| 91 | 379 | Austin James |
+| 91 | 379 | Kimmie Kimms |
 | 92 | 379 | Nerdy Linkblock |
-| 93 | 379 | Kimmie Kimms |
+| 93 | 379 | Austin James |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -236,7 +236,7 @@
 | 228 | 180 | Beau Galvan |
 | 229 | 179 | femmefatale |
 | 230 | 179 | Danielle Little-Daugherty |
-| 231 | 179 | femmefatale |
+| 231 | 179 | Erin Rosberg |
 | 232 | 178 | Chad Atchley |
 | 233 | 177 | Perky Shiftsnap |
 | 234 | 177 | Jacqueline Unique |
@@ -323,8 +323,8 @@
 | 315 | 130 | Carl Claunch |
 | 316 | 129 | Madison Wicks |
 | 317 | 129 | Sherri E Woods Hess |
-| 318 | 128 | Alyssa Ingram |
-| 319 | 128 | George Dalton |
+| 318 | 128 | George Dalton |
+| 319 | 128 | Alyssa Ingram |
 | 320 | 127 | Danielle Mae |
 | 321 | 126 | Tyler Hertzog |
 | 322 | 126 | Zany Tiler |
@@ -352,9 +352,9 @@
 | 344 | 116 | Mary Love |
 | 345 | 116 | Fresno Beotoni |
 | 346 | 115 | Brave Slice |
-| 347 | 114 | Angela Rena Brooks |
-| 348 | 114 | Bird Person |
-| 349 | 114 | Constance Risner |
+| 347 | 114 | Constance Risner |
+| 348 | 114 | Angela Rena Brooks |
+| 349 | 114 | Bird Person |
 | 350 | 114 | ESC |
 | 351 | 113 | Itspaigebro |
 | 352 | 112 | Crystal Joslin |

@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -102,8 +102,8 @@
 | 94 | 404 | Courtney Cicoria |
 | 95 | 403 | shar |
 | 96 | 401 | Zippy Gridlock |
-| 97 | 396 | Alicia Bass |
-| 98 | 396 | Amy Suckarieh |
+| 97 | 396 | Amy Suckarieh |
+| 98 | 396 | Alicia Bass |
 | 99 | 392 | Ericca Eldridge |
 | 100 | 391 | Ramel Rhodes |
 | 101 | 390 | Carlton Unfiltered |
@@ -145,8 +145,8 @@
 | 137 | 274 | Calvin Cannon |
 | 138 | 272 | Keshia Lyons |
 | 139 | 271 | Sarah Brown |
-| 140 | 264 | Epic Curvetile |
-| 141 | 264 | Girl |
+| 140 | 264 | Girl |
+| 141 | 264 | Epic Curvetile |
 | 142 | 264 | Dana Scott |
 | 143 | 262 | Holly Jolly |
 | 144 | 259 | Jessica Lynn Cutlip |
@@ -164,8 +164,8 @@
 | 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 228 | Joeliecea Cobb |
-| 159 | 227 | Alyssa Papen |
-| 160 | 227 | Swanky Fitline |
+| 159 | 227 | Swanky Fitline |
+| 160 | 227 | Alyssa Papen |
 | 161 | 225 | Damn Libra |
 | 162 | 224 | Matt Summer |
 | 163 | 223 | Kris Bartlett |
