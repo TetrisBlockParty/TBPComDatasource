@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Yvonne Marie |
-| 65 | 388 | Jennifer ManWarren |
+| 64 | 388 | Jennifer ManWarren |
+| 65 | 388 | Yvonne Marie |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -125,8 +125,8 @@
 | 117 | 243 | Chelsea Dahlquist |
 | 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
-| 120 | 240 | Tana |
-| 121 | 240 | Lexuriuos Lifestlye |
+| 120 | 240 | Lexuriuos Lifestlye |
+| 121 | 240 | Tana |
 | 122 | 236 | Mandyy Rae |
 | 123 | 230 | Billie Dawn Sparks |
 | 124 | 230 | Frothy Pattern |
@@ -134,8 +134,8 @@
 | 126 | 226 | Kandae |
 | 127 | 223 | Jennifer Hardman |
 | 128 | 222 | ALFD |
-| 129 | 216 | MRdot Rooski |
-| 130 | 216 | Shauntina Burke |
+| 129 | 216 | Shauntina Burke |
+| 130 | 216 | MRdot Rooski |
 | 131 | 214 | GATOR |
 | 132 | 212 | Monica Donato |
 | 133 | 212 | Jaimie Lynn |
@@ -159,8 +159,8 @@
 | 151 | 190 | Thorne Shumate |
 | 152 | 190 | Sweetts |
 | 153 | 188 | Sam Williams |
-| 154 | 187 | Snippy Wipebuilder |
-| 155 | 187 | Jennifer Olewnik Soborowski |
+| 154 | 187 | Jennifer Olewnik Soborowski |
+| 155 | 187 | Snippy Wipebuilder |
 | 156 | 186 | Michael |
 | 157 | 186 | Margo Wagner |
 | 158 | 185 | Basment Living |
@@ -186,8 +186,8 @@
 | 178 | 168 | Jessie Lynn |
 | 179 | 168 | Lori Bales |
 | 180 | 168 | Standia Civil |
-| 181 | 167 | Nery Martinez |
-| 182 | 167 | Erin Hodges Plumb |
+| 181 | 167 | Erin Hodges Plumb |
+| 182 | 167 | Nery Martinez |
 | 183 | 166 | Rico Rico |
 | 184 | 165 | Nadine Velardo |
 | 185 | 165 | Arianna O'Brien |

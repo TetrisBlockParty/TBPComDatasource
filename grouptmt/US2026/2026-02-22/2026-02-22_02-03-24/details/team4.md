@@ -122,8 +122,8 @@
 | 114 | 235 | Lucas J Sutton |
 | 115 | 232 | Peachy Fall |
 | 116 | 231 | Chastity Mitchell |
-| 117 | 230 | Autum Leigh |
-| 118 | 230 | Daria Rycewicz |
+| 117 | 230 | Daria Rycewicz |
+| 118 | 230 | Autum Leigh |
 | 119 | 225 | Damn Libra |
 | 120 | 224 | Monica Daley |
 | 121 | 222 | Joeliecea Cobb |

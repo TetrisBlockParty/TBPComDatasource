@@ -270,8 +270,8 @@
 | 262 | 583 | Jessicah Myers |
 | 263 | 583 | Steve Grotto |
 | 264 | 582 | Gary Stash |
-| 265 | 579 | Roy Salyer |
-| 266 | 579 | Juliana Marques Do Nascimento Gordy |
+| 265 | 579 | Juliana Marques Do Nascimento Gordy |
+| 266 | 579 | Roy Salyer |
 | 267 | 578 | Sally Dennis |
 | 268 | 576 | Ginger |
 | 269 | 572 | tejas25 |
@@ -286,8 +286,8 @@
 | 278 | 549 | Kaylee McCafferty |
 | 279 | 547 | Giggy Blocker |
 | 280 | 544 | Leah Keesling |
-| 281 | 543 | Adira Brown |
-| 282 | 543 | Teresa Gillmore |
+| 281 | 543 | Teresa Gillmore |
+| 282 | 543 | Adira Brown |
 | 283 | 542 | Slip |
 | 284 | 535 | Jessie McDougald |
 | 285 | 535 | Paul Huber |

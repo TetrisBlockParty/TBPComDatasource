@@ -117,11 +117,11 @@
 | 109 | 428 | Elissa S-k |
 | 110 | 426 | Jennifer Lynn Fahrenholtz-Summers |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Blkpep Davidson |
-| 113 | 410 | Stephanie Simpson |
+| 112 | 410 | Stephanie Simpson |
+| 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
-| 115 | 403 | FuzzyNavel |
-| 116 | 403 | Christine Filson |
+| 115 | 403 | Christine Filson |
+| 116 | 403 | FuzzyNavel |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 399 | Mcathen |
 | 119 | 399 | Patti Skiles |
@@ -158,14 +158,14 @@
 | 150 | 317 | Ashley Tookes |
 | 151 | 316 | Rich LeBlanc |
 | 152 | 311 | Raya |
-| 153 | 307 | Blocked |
-| 154 | 307 | rnr junky |
+| 153 | 307 | rnr junky |
+| 154 | 307 | Blocked |
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 295 | Jim Mathews |
 | 157 | 293 | Poppy Splitter |
-| 158 | 289 | Hoppy Buildout |
-| 159 | 289 | Daryn Elliott |
-| 160 | 289 | DidIdothat |
+| 158 | 289 | DidIdothat |
+| 159 | 289 | Hoppy Buildout |
+| 160 | 289 | Daryn Elliott |
 | 161 | 288 | Marci Mize Fandrich |
 | 162 | 286 | Jacqueline Rodriguez |
 | 163 | 286 | Cynthia Herrmann Egland |
@@ -214,8 +214,8 @@
 | 206 | 224 | Nicole Myers |
 | 207 | 223 | Jeana Gilbert |
 | 208 | 221 | Jaime Monhaut-Reed |
-| 209 | 219 | Sissy Lowery Davis |
-| 210 | 219 | Shunta Jacobs |
+| 209 | 219 | Shunta Jacobs |
+| 210 | 219 | Sissy Lowery Davis |
 | 211 | 219 | Keis |
 | 212 | 218 | Michael Lucado |
 | 213 | 218 | LaNette Morgan |
@@ -234,9 +234,9 @@
 | 226 | 204 | Danielle Allison |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
-| 229 | 200 | Sharisse Baltimore |
-| 230 | 200 | Connie Mohler-Fair |
-| 231 | 200 | glichmod |
+| 229 | 200 | Connie Mohler-Fair |
+| 230 | 200 | glichmod |
+| 231 | 200 | Sharisse Baltimore |
 | 232 | 199 | Staci George Fitzsimmons |
 | 233 | 199 | Rebel124 |
 | 234 | 197 | Angie Harper |
@@ -315,8 +315,8 @@
 | 307 | 147 | David Bardo |
 | 308 | 146 | Ava Petito |
 | 309 | 146 | Tony Waters |
-| 310 | 145 | Funky Jumper |
-| 311 | 145 | Bryan Byrd |
+| 310 | 145 | Bryan Byrd |
+| 311 | 145 | Funky Jumper |
 | 312 | 144 | Tenisha Semidey |
 | 313 | 143 | Melissa Orth Hunter |
 | 314 | 143 | Alice |
