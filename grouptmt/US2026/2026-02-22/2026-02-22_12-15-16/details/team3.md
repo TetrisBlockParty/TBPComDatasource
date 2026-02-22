@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Kristie McFarland |
-| 139 | 445 | Jacqueline Rodriguez |
+| 138 | 445 | Jacqueline Rodriguez |
+| 139 | 445 | Kristie McFarland |
 | 140 | 435 | Michelle |
 | 141 | 432 | Karon Griffin |
 | 142 | 432 | Jenny Hrndz |
@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Tom Nault |
-| 182 | 357 | Stephanie Burtin |
+| 181 | 357 | Stephanie Burtin |
+| 182 | 357 | Tom Nault |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 353 | Shunta Jacobs |
 | 185 | 353 | Nora Rogers |
@@ -229,8 +229,8 @@
 | 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Cheeky Snapper |
-| 225 | 283 | Charles Perrone |
+| 224 | 283 | Charles Perrone |
+| 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -240,10 +240,10 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Cass Mendoza |
-| 236 | 271 | Ashley Muncey |
-| 237 | 269 | Eon Harris |
-| 238 | 269 | Trisha Balmer |
+| 235 | 271 | Ashley Muncey |
+| 236 | 271 | Cass Mendoza |
+| 237 | 269 | Trisha Balmer |
+| 238 | 269 | Eon Harris |
 | 239 | 268 | Carrie Huskey |
 | 240 | 267 | Terry Jo Jones |
 | 241 | 267 | Brenda Lee Vander Molen |
@@ -292,8 +292,8 @@
 | 284 | 216 | Twisty Brick LT |
 | 285 | 216 | Cheryl Hinch Tenbrook |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Amy Fuller Heaton |
-| 288 | 214 | Angela Scott |
+| 287 | 214 | Angela Scott |
+| 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Desiree Gold |
@@ -305,8 +305,8 @@
 | 297 | 210 | Criss |
 | 298 | 209 | Micayah Stevens |
 | 299 | 208 | AlsoJess |
-| 300 | 207 | Daring Builder |
-| 301 | 207 | Jessica |
+| 300 | 207 | Jessica |
+| 301 | 207 | Daring Builder |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
 | 304 | 206 | Tracy Martin |

@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -139,8 +139,8 @@
 | 131 | 283 | Scott Jameson |
 | 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Desi Desporte |
-| 135 | 278 | Carrie Brian |
+| 134 | 278 | Carrie Brian |
+| 135 | 278 | Desi Desporte |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -338,8 +338,8 @@
 | 330 | 128 | Allen Lloyd |
 | 331 | 128 | Madison Sweere |
 | 332 | 127 | Robert Rodriguez |
-| 333 | 126 | PAPatty |
-| 334 | 126 | Cheryl Johnson |
+| 333 | 126 | Cheryl Johnson |
+| 334 | 126 | PAPatty |
 | 335 | 126 | icequeenx |
 | 336 | 125 | Steph Marie |
 | 337 | 125 | Ann G. Carrillo |

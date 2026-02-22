@@ -453,8 +453,8 @@
 | 445 | 487 | MrsCandyfine As Wine Truss |
 | 446 | 487 | Morgan Easter |
 | 447 | 485 | Mamachelle Eisweirth |
-| 448 | 485 | Ann Matzkanin |
-| 449 | 485 | Dapper Dasher |
+| 448 | 485 | Dapper Dasher |
+| 449 | 485 | Ann Matzkanin |
 | 450 | 484 | Brenna Ann |
 | 451 | 484 | Street Sweeper |
 | 452 | 483 | Victor Obiakarije |
@@ -567,9 +567,9 @@
 | 559 | 407 | Tipsy Filler |
 | 560 | 406 | Kimberly Ann |
 | 561 | 406 | Erin StFrancis |
-| 562 | 404 | Cleo Sims |
-| 563 | 404 | Goofy Catcher |
-| 564 | 404 | Dawn L Washington-Feuquay |
+| 562 | 404 | Goofy Catcher |
+| 563 | 404 | Dawn L Washington-Feuquay |
+| 564 | 404 | Cleo Sims |
 | 565 | 403 | Goofy Dasher |
 | 566 | 401 | Moua Ying |
 | 567 | 401 | De Hawkins |
@@ -591,8 +591,8 @@
 | 583 | 391 | Adam Simmons |
 | 584 | 391 | Qiana Sanders |
 | 585 | 390 | Moist_B-hole |
-| 586 | 390 | Joice Hansen |
-| 587 | 390 | Mike Aprilliano |
+| 586 | 390 | Mike Aprilliano |
+| 587 | 390 | Joice Hansen |
 | 588 | 389 | Alexis Richardson |
 | 589 | 389 | Kayla |
 | 590 | 389 | Julie Hamilton |
@@ -619,16 +619,16 @@
 | 611 | 376 | James Zaragoza |
 | 612 | 375 | Cecilia A Jenkins |
 | 613 | 375 | Lively Edgepiece |
-| 614 | 373 | Jessica Hughes |
-| 615 | 373 | Hunter Connors |
+| 614 | 373 | Hunter Connors |
+| 615 | 373 | Jessica Hughes |
 | 616 | 373 | Ashley Marie |
 | 617 | 372 | Ebony Deloach Bryant |
 | 618 | 371 | Brenda Messer |
 | 619 | 371 | Angi Harrison |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | Tony Lea |
-| 623 | 369 | RaeVan Worthington |
+| 622 | 369 | RaeVan Worthington |
+| 623 | 369 | Tony Lea |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -653,13 +653,13 @@
 | 645 | 360 | Jroc |
 | 646 | 359 | Diallo Sparkman |
 | 647 | 359 | Cheyenne Donovan |
-| 648 | 358 | Alyssaaelena |
-| 649 | 358 | Sydney Busse |
+| 648 | 358 | Sydney Busse |
+| 649 | 358 | Alyssaaelena |
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rachel Kaminski |
-| 654 | 354 | Rickey Johnson |
+| 653 | 354 | Rickey Johnson |
+| 654 | 354 | Rachel Kaminski |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -695,8 +695,8 @@
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
 | 689 | 333 | Twisty Tetriblast |
-| 690 | 333 | Adrian Benitez |
-| 691 | 333 | Woodys Glass |
+| 690 | 333 | Woodys Glass |
+| 691 | 333 | Adrian Benitez |
 | 692 | 332 | Lathasa Newkirk |
 | 693 | 330 | Toni Roberson |
 | 694 | 330 | Jennifer Monroe Kelly |
@@ -975,8 +975,8 @@
 | 967 | 238 | Pfc Monei Rivera |
 | 968 | 238 | Kim McGrath |
 | 969 | 237 | Nutty Matchline |
-| 970 | 237 | Devlin Ogg |
-| 971 | 237 | Breezy Tilt |
+| 970 | 237 | Breezy Tilt |
+| 971 | 237 | Devlin Ogg |
 | 972 | 237 | Jodi Mitnick |
 | 973 | 236 | Nikki Arlene |
 | 974 | 235 | Loopy Shatterfit |

@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -97,8 +97,8 @@
 | 89 | 388 | Jennifer ManWarren |
 | 90 | 383 | Loony Fitzone |
 | 91 | 382 | Jacqueline Williams |
-| 92 | 379 | Kimmie Kimms |
-| 93 | 379 | Austin James |
+| 92 | 379 | Austin James |
+| 93 | 379 | Kimmie Kimms |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 368 | Tdub |
@@ -137,8 +137,8 @@
 | 129 | 290 | Sarah Roberts |
 | 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Emily Adelaide Wheatley |
-| 133 | 284 | Rachael |
+| 132 | 284 | Rachael |
+| 133 | 284 | Emily Adelaide Wheatley |
 | 134 | 283 | Franswa |
 | 135 | 282 | Timothy Dew |
 | 136 | 282 | Tyler Werts |
@@ -184,21 +184,21 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
 | 184 | 210 | Letson Melissa |
 | 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 208 | Bouncy Grid |
-| 189 | 207 | Brenda Alexander |
-| 190 | 207 | Leslie Bush Yarbrough |
+| 187 | 208 | Bouncy Grid |
+| 188 | 208 | Donna Addison Williams |
+| 189 | 207 | Leslie Bush Yarbrough |
+| 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -230,8 +230,8 @@
 | 222 | 187 | GringaLinga |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Amy Hess |
-| 226 | 183 | Andrew Boone |
+| 225 | 183 | Andrew Boone |
+| 226 | 183 | Amy Hess |
 | 227 | 182 | Phu ckalldems |
 | 228 | 180 | Jessie Lynn |
 | 229 | 180 | BigWeenie69 |
