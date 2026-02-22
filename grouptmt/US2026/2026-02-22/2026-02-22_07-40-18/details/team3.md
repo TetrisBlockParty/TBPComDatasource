@@ -198,8 +198,8 @@
 | 190 | 311 | Rochelle Hazelett |
 | 191 | 311 | Araceli Parra |
 | 192 | 310 | Danielle Balcom |
-| 193 | 308 | Rania Zaqout |
-| 194 | 308 | Daryn Elliott |
+| 193 | 308 | Daryn Elliott |
+| 194 | 308 | Rania Zaqout |
 | 195 | 307 | rnr junky |
 | 196 | 307 | Blocked |
 | 197 | 306 | Stephanie Burtin |
@@ -208,12 +208,12 @@
 | 200 | 300 | Sherika C. McDaniels |
 | 201 | 298 | MsBee |
 | 202 | 296 | Katrina Turner |
-| 203 | 296 | Ammmmmmy |
-| 204 | 296 | Brandon Givens |
+| 203 | 296 | Brandon Givens |
+| 204 | 296 | Ammmmmmy |
 | 205 | 295 | Marci Mize Fandrich |
 | 206 | 295 | RickyG |
-| 207 | 289 | Hoppy Buildout |
-| 208 | 289 | Duane Bright |
+| 207 | 289 | Duane Bright |
+| 208 | 289 | Hoppy Buildout |
 | 209 | 289 | DidIdothat |
 | 210 | 286 | Cynthia Herrmann Egland |
 | 211 | 284 | Denise Nardoni |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | France Vézina |
-| 307 | 184 | Troy |
+| 306 | 184 | Troy |
+| 307 | 184 | France Vézina |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -326,17 +326,17 @@
 | 318 | 179 | Tipsy Zonebuilder |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Melissa Orth Hunter |
-| 322 | 176 | Emma |
+| 321 | 176 | Emma |
+| 322 | 176 | Melissa Orth Hunter |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Naur |
-| 328 | 169 | Peachy Rollfit |
+| 327 | 169 | Peachy Rollfit |
+| 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | April Matthew Kibble |
-| 331 | 168 | Trice Thomas |
+| 330 | 168 | Trice Thomas |
+| 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Irene Arreguin |
 | 334 | 167 | Romeo |
@@ -529,8 +529,8 @@
 | 521 | 106 | Cyd061769 |
 | 522 | 106 | SaSa Mac |
 | 523 | 105 | Emi |
-| 524 | 105 | Zac Hudak |
-| 525 | 105 | Amy Wheeler |
+| 524 | 105 | Amy Wheeler |
+| 525 | 105 | Zac Hudak |
 | 526 | 104 | Jessica Rose-Morgan |
 | 527 | 104 | bean |
 | 528 | 104 | Jana Fagg |

@@ -121,8 +121,8 @@
 | 113 | 303 | Lauren Scott |
 | 114 | 300 | Jason Hart |
 | 115 | 298 | Lucas J Sutton |
-| 116 | 296 | Justin Hannigan |
-| 117 | 296 | HastyGrabber |
+| 116 | 296 | HastyGrabber |
+| 117 | 296 | Justin Hannigan |
 | 118 | 295 | Latisha Davis |
 | 119 | 294 | Kesha Brady |
 | 120 | 290 | 🥔🥔 Spudz |
@@ -138,9 +138,9 @@
 | 130 | 277 | Scott Jameson |
 | 131 | 275 | Dizzy Tiley |
 | 132 | 271 | Sarah Brown |
-| 133 | 264 | Epic Curvetile |
+| 133 | 264 | Girl |
 | 134 | 264 | Dana Scott |
-| 135 | 264 | Girl |
+| 135 | 264 | Epic Curvetile |
 | 136 | 262 | Holly Jolly |
 | 137 | 256 | Mylo Lipscomb |
 | 138 | 255 | Lindsay Ball |
