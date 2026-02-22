@@ -323,8 +323,8 @@
 | 315 | 183 | Dino |
 | 316 | 182 | Oscar Zamora |
 | 317 | 181 | David DeSantis |
-| 318 | 179 | Slinky Rotater |
-| 319 | 179 | Ryan White |
+| 318 | 179 | Ryan White |
+| 319 | 179 | Slinky Rotater |
 | 320 | 178 | Gabrielle Louise Malloch |
 | 321 | 178 | Larry Tilton |
 | 322 | 177 | Jessica Russell |
@@ -425,7 +425,7 @@
 | 417 | 142 | Lynn Adams |
 | 418 | 140 | Nathan William |
 | 419 | 140 | Layzietyme |
-| 420 | 139 | Sunny Pivotfall |
+| 420 | 139 | Cozy Shatterer |
 | 421 | 139 | Aimee Horton |
 | 422 | 139 | Sunny Pivotfall |
 | 423 | 138 | Kirk Torrey |

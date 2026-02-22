@@ -427,8 +427,8 @@
 | 419 | 642 | Cassie Maynard |
 | 420 | 642 | Gary Stash |
 | 421 | 640 | BYM4L |
-| 422 | 639 | Rebecca Miller |
-| 423 | 639 | Steven Marshaun |
+| 422 | 639 | Steven Marshaun |
+| 423 | 639 | Rebecca Miller |
 | 424 | 636 | Victoria Moore-Smith |
 | 425 | 635 | Mikayala Szaz |
 | 426 | 635 | Dennis McLaurin |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Lylymom |
-| 441 | 613 | Tonya Lee |
+| 440 | 613 | Tonya Lee |
+| 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -455,14 +455,14 @@
 | 447 | 602 | KhaosLord |
 | 448 | 601 | Moua Ying |
 | 449 | 601 | Slinky Racker |
-| 450 | 594 | Irene Jones |
-| 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Michelle Fields |
-| 453 | 594 | Autumn Schaeffer |
+| 450 | 594 | Rhonda Milstead |
+| 451 | 594 | Michelle Fields |
+| 452 | 594 | Autumn Schaeffer |
+| 453 | 594 | Irene Jones |
 | 454 | 591 | Kimberly Hope Howell |
 | 455 | 589 | Shavonna Haynes |
-| 456 | 589 | Kelly Templeton |
-| 457 | 589 | Thomas Hedrick |
+| 456 | 589 | Thomas Hedrick |
+| 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
 | 460 | 583 | Ann Matzkanin |

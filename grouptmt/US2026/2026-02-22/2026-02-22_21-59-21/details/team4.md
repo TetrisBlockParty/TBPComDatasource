@@ -74,8 +74,8 @@
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
 | 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
-| 70 | 664 | Julian Garcia |
+| 69 | 664 | Julian Garcia |
+| 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | Shauna Havard |
@@ -228,8 +228,8 @@
 | 220 | 245 | 23 |
 | 221 | 243 | Mr. Party |
 | 222 | 241 | Allen Lloyd |
-| 223 | 238 | JPW |
-| 224 | 238 | Zesty Twistbuilder |
+| 223 | 238 | Zesty Twistbuilder |
+| 224 | 238 | JPW |
 | 225 | 237 | April Rondinone |
 | 226 | 236 | Kim Hunt |
 | 227 | 235 | LaDonna LovinmesomeMe Lambert |
