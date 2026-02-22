@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -255,11 +255,11 @@
 | 247 | 258 | Tamara Deherrera |
 | 248 | 257 | Ashley Jones |
 | 249 | 256 | Brenda Lee Vander Molen |
-| 250 | 256 | Tiffany Davie |
-| 251 | 256 | KayB |
+| 250 | 256 | KayB |
+| 251 | 256 | Tiffany Davie |
 | 252 | 250 | fraulila |
-| 253 | 249 | JerseyJess |
-| 254 | 249 | Annie Marie |
+| 253 | 249 | Annie Marie |
+| 254 | 249 | JerseyJess |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -282,16 +282,16 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | rosy |
 | 280 | 220 | Tosha Griffey |
 | 281 | 218 | Michael Lucado |
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -311,11 +311,11 @@
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
 | 305 | 203 | Angie Harper |
-| 306 | 202 | Tipsy Zonebuilder |
-| 307 | 202 | Staci George Fitzsimmons |
+| 306 | 202 | Staci George Fitzsimmons |
+| 307 | 202 | Tipsy Zonebuilder |
 | 308 | 201 | Alexmac |
-| 309 | 201 | Hyper Matchzone |
-| 310 | 201 | Daring Builder |
+| 309 | 201 | Daring Builder |
+| 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
 | 312 | 200 | Sharisse Baltimore |
 | 313 | 200 | glichmod |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | France Vézina |
-| 324 | 189 | Katie Leigh Blankenship |
+| 323 | 189 | Katie Leigh Blankenship |
+| 324 | 189 | France Vézina |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Sameerah Smith |
 | 327 | 184 | Troy |

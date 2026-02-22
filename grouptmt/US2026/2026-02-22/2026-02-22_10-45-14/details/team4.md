@@ -91,8 +91,8 @@
 | 83 | 447 | Erin Thomas |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | KJ Pool |
-| 87 | 427 | Jolly Dashfit |
+| 86 | 427 | Jolly Dashfit |
+| 87 | 427 | KJ Pool |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Jenna Ingersoll |
@@ -111,8 +111,8 @@
 | 103 | 382 | Marie-Pier Desjardins |
 | 104 | 373 | Joseph Guthrie |
 | 105 | 369 | Nope Young |
-| 106 | 358 | Lori Walker |
-| 107 | 358 | Nugget |
+| 106 | 358 | Nugget |
+| 107 | 358 | Lori Walker |
 | 108 | 353 | Tyler Terrific |
 | 109 | 352 | Monica Daley |
 | 110 | 344 | Livvy |
@@ -188,8 +188,8 @@
 | 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Ruben Wheeler |
 | 187 | 198 | Keith Kelley |
@@ -218,8 +218,8 @@
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | Rio Rocha |
-| 214 | 174 | JPW |
+| 213 | 174 | JPW |
+| 214 | 174 | Rio Rocha |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 168 | Lindsey Gonzalez |
@@ -235,8 +235,8 @@
 | 227 | 162 | John Brunetti |
 | 228 | 162 | Joanna |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Chair |
 | 234 | 158 | Avy Absol |

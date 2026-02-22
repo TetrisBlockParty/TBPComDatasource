@@ -130,8 +130,8 @@
 | 122 | 1301 | Rosa Franklin |
 | 123 | 1300 | Mari Ac |
 | 124 | 1300 | Tacara Cummings |
-| 125 | 1298 | Deanna Morton |
-| 126 | 1298 | Becca Widmer |
+| 125 | 1298 | Becca Widmer |
+| 126 | 1298 | Deanna Morton |
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
@@ -474,8 +474,8 @@
 | 466 | 465 | Davetta Sanford |
 | 467 | 464 | snkylnk |
 | 468 | 463 | Sue Leard |
-| 469 | 463 | Jaye EL Hunter |
-| 470 | 463 | Cody Nishimura |
+| 469 | 463 | Cody Nishimura |
+| 470 | 463 | Jaye EL Hunter |
 | 471 | 462 | Jarboe |
 | 472 | 462 | Amanda Ferrell |
 | 473 | 462 | Daphne Jordan |
@@ -1105,8 +1105,8 @@
 | 1097 | 207 | Wungun Shun |
 | 1098 | 207 | Lonna Matthews |
 | 1099 | 207 | Michelle Peters |
-| 1100 | 207 | Kimberly Ann Malagon |
-| 1101 | 207 | Chela Rodriguez |
+| 1100 | 207 | Chela Rodriguez |
+| 1101 | 207 | Kimberly Ann Malagon |
 | 1102 | 206 | Allyson Marra |
 | 1103 | 206 | Zach Doiron |
 | 1104 | 206 | Tristan Lamothe |
