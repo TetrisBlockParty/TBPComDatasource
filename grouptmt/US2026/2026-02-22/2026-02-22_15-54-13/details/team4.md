@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Avy Absol |
-| 71 | 608 | Savannah Overdorf |
+| 70 | 608 | Savannah Overdorf |
+| 71 | 608 | Avy Absol |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | Desi Desporte |
-| 127 | 332 | HastyGrabber |
+| 126 | 332 | HastyGrabber |
+| 127 | 332 | Desi Desporte |
 | 128 | 330 | David Lay |
 | 129 | 330 | Twisty Clicky |
 | 130 | 329 | Amanda Pauldo-Ivy |
@@ -202,8 +202,8 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | ZeeZee |
-| 198 | 216 | Cristy Duerksen |
+| 197 | 216 | Cristy Duerksen |
+| 198 | 216 | ZeeZee |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |

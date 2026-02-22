@@ -183,8 +183,8 @@
 | 175 | 249 | Lakeisha Chapman |
 | 176 | 246 | Billie Dawn Sparks |
 | 177 | 246 | Mike Ames |
-| 178 | 244 | Marianita Garcia |
-| 179 | 244 | Eddie Dillon |
+| 178 | 244 | Eddie Dillon |
+| 179 | 244 | Marianita Garcia |
 | 180 | 243 | Trippy Redd |
 | 181 | 241 | John J. Cronin |
 | 182 | 240 | DaRascal |
@@ -287,8 +287,8 @@
 | 279 | 173 | Rico Rico |
 | 280 | 171 | Greg Premoe |
 | 281 | 171 | Chris65 |
-| 282 | 170 | Spunky Builderpiece |
-| 283 | 170 | Tina Englert |
+| 282 | 170 | Tina Englert |
+| 283 | 170 | Spunky Builderpiece |
 | 284 | 169 | Allena Craft |
 | 285 | 169 | Abbey Crespo |
 | 286 | 168 | Angela Fairbank |

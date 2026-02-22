@@ -318,8 +318,8 @@
 | 310 | 715 | Stephanie Lumanlan |
 | 311 | 713 | Chelle |
 | 312 | 711 | Melissa Holsinger |
-| 313 | 704 | Shelley Thornburgh Wright |
-| 314 | 704 | Jánine Riggs |
+| 313 | 704 | Jánine Riggs |
+| 314 | 704 | Shelley Thornburgh Wright |
 | 315 | 703 | Gold Rose |
 | 316 | 700 | Hong Tang |
 | 317 | 700 | Vincent Petrella |
@@ -339,8 +339,8 @@
 | 331 | 685 | Binyah-Binyah |
 | 332 | 682 | Poldo Ilano |
 | 333 | 680 | Glitzy Stackzone |
-| 334 | 679 | Eric Castaneda |
-| 335 | 679 | Leslie Ann Carter |
+| 334 | 679 | Leslie Ann Carter |
+| 335 | 679 | Eric Castaneda |
 | 336 | 679 | Kassandra Hunt |
 | 337 | 675 | Tommy Tha Boss Gunz |
 | 338 | 669 | Jelly |
@@ -353,16 +353,16 @@
 | 345 | 664 | Sleepypanda67 |
 | 346 | 663 | Mandi Douglas Hilt |
 | 347 | 662 | Melissa Rebbe-Lehman |
-| 348 | 661 | goofinoff |
-| 349 | 661 | BeQuo |
+| 348 | 661 | BeQuo |
+| 349 | 661 | goofinoff |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
 | 352 | 650 | Shiny Rollzone |
 | 353 | 650 | tejas25 |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
-| 356 | 640 | Kara Gillen |
-| 357 | 640 | BYM4L |
+| 356 | 640 | BYM4L |
+| 357 | 640 | Kara Gillen |
 | 358 | 639 | Crystie Hicks |
 | 359 | 639 | Rebecca Miller |
 | 360 | 631 | Dylan Thomason |
@@ -385,8 +385,8 @@
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
 | 379 | 602 | KhaosLord |
-| 380 | 602 | Biggest thing |
-| 381 | 602 | Christine Bollig |
+| 380 | 602 | Christine Bollig |
+| 381 | 602 | Biggest thing |
 | 382 | 601 | Vonceial Boone |
 | 383 | 601 | Steven Marshaun |
 | 384 | 595 | Nicole Cannon |
@@ -823,11 +823,11 @@
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |
-| 818 | 298 | Ryan Stadel |
-| 819 | 298 | Lazy Riseclear |
-| 820 | 298 | Rebecca Edmund |
-| 821 | 298 | Angelica |
-| 822 | 298 | Timothy Jesuwole |
+| 818 | 298 | Angelica |
+| 819 | 298 | Ryan Stadel |
+| 820 | 298 | Timothy Jesuwole |
+| 821 | 298 | Lazy Riseclear |
+| 822 | 298 | Rebecca Edmund |
 | 823 | 297 | Toni Lynn |
 | 824 | 297 | Deana |
 | 825 | 297 | Ashley Robbins |

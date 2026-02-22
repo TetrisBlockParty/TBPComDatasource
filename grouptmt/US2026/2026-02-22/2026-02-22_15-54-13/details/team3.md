@@ -67,8 +67,8 @@
 | 59 | 909 | Jennifer |
 | 60 | 908 | Alanna Rogers |
 | 61 | 903 | Sarah Fehring |
-| 62 | 895 | Shonna Roberts |
-| 63 | 895 | Amanda L Baker |
+| 62 | 895 | Amanda L Baker |
+| 63 | 895 | Shonna Roberts |
 | 64 | 893 | Khristen AC |
 | 65 | 888 | Corie A. Brinson |
 | 66 | 882 | Susan Valentino |
@@ -338,8 +338,8 @@
 | 330 | 208 | Niki Dalrymple |
 | 331 | 208 | AlsoJess |
 | 332 | 207 | angieelyn |
-| 333 | 207 | Daring Builder |
-| 334 | 207 | Jessica |
+| 333 | 207 | Jessica |
+| 334 | 207 | Daring Builder |
 | 335 | 206 | Tammy Rosenberry |
 | 336 | 205 | Rachel Napper |
 | 337 | 205 | Kirhonda Autmon |
