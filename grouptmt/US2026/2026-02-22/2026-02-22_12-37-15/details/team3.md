@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | KayB |
-| 253 | 256 | Tiffany Davie |
+| 252 | 256 | Tiffany Davie |
+| 253 | 256 | KayB |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -355,8 +355,8 @@
 | 347 | 178 | Jess Dearborn |
 | 348 | 178 | Jennifer Alvey |
 | 349 | 177 | Kristin Delibac Corrigan |
-| 350 | 176 | Emma |
-| 351 | 176 | Melissa Orth Hunter |
+| 350 | 176 | Melissa Orth Hunter |
+| 351 | 176 | Emma |
 | 352 | 175 | Eileen Brady Thurber |
 | 353 | 174 | TotoCherue |
 | 354 | 174 | Lesley Perez |
@@ -410,12 +410,12 @@
 | 402 | 152 | Silver Marchán |
 | 403 | 151 | Sarah Cowan Burgos |
 | 404 | 150 | Sassy Brickmatch |
-| 405 | 149 | Alexis Taylor |
-| 406 | 149 | Arden White Kirsch |
+| 405 | 149 | Arden White Kirsch |
+| 406 | 149 | Alexis Taylor |
 | 407 | 149 | Wacky Crasher |
 | 408 | 149 | Frothy Snapper |
-| 409 | 148 | Pam Holt Powell |
-| 410 | 148 | Flashy Rumbler |
+| 409 | 148 | Flashy Rumbler |
+| 410 | 148 | Pam Holt Powell |
 | 411 | 148 | Erykah |
 | 412 | 147 | Hasty Gridpiece |
 | 413 | 147 | Sierra Spencer |

@@ -465,8 +465,8 @@
 | 457 | 482 | Eckoman518 |
 | 458 | 482 | Ben Barkley |
 | 459 | 481 | Klee |
-| 460 | 480 | Ashley Collins |
-| 461 | 480 | Dar |
+| 460 | 480 | Dar |
+| 461 | 480 | Ashley Collins |
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
@@ -487,9 +487,9 @@
 | 479 | 465 | Davetta Sanford |
 | 480 | 464 | snkylnk |
 | 481 | 464 | Kiana Boschh |
-| 482 | 463 | Jaye EL Hunter |
+| 482 | 463 | Cody Nishimura |
 | 483 | 463 | Sue Leard |
-| 484 | 463 | Cody Nishimura |
+| 484 | 463 | Jaye EL Hunter |
 | 485 | 463 | Mia Muse Best |
 | 486 | 462 | Dennis McLaurin |
 | 487 | 462 | Amanda Ferrell |
@@ -691,8 +691,8 @@
 | 683 | 337 | Savannah Alexander |
 | 684 | 337 | Tum |
 | 685 | 336 | Swanky Columnbuilder |
-| 686 | 336 | Austin Wilson |
-| 687 | 336 | bru |
+| 686 | 336 | bru |
+| 687 | 336 | Austin Wilson |
 | 688 | 335 | Brooke Leigh Strube |
 | 689 | 335 | Maria Louise |
 | 690 | 334 | Melissa James |
@@ -712,8 +712,8 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Tasia Stinson |
-| 708 | 324 | Dale Haanpaa |
+| 707 | 324 | Dale Haanpaa |
+| 708 | 324 | Tasia Stinson |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
@@ -726,8 +726,8 @@
 | 718 | 319 | Prado |
 | 719 | 319 | RetroLemur |
 | 720 | 318 | Jennifer Mahon |
-| 721 | 317 | Zombi3 |
-| 722 | 317 | Ashlyn Berner |
+| 721 | 317 | Ashlyn Berner |
+| 722 | 317 | Zombi3 |
 | 723 | 317 | Aireka Roman |
 | 724 | 316 | Jenn Marie |
 | 725 | 316 | Epic Spinfit |
@@ -1058,8 +1058,8 @@
 | 1050 | 222 | Wacky Edgefit |
 | 1051 | 222 | Crystal Herndon |
 | 1052 | 221 | Chummy Caster |
-| 1053 | 220 | Natalie M Wells |
-| 1054 | 220 | Sandra McNab |
+| 1053 | 220 | Sandra McNab |
+| 1054 | 220 | Natalie M Wells |
 | 1055 | 220 | Amy Reynolds |
 | 1056 | 220 | Marcie McLain Dodd |
 | 1057 | 220 | HarleyJane |

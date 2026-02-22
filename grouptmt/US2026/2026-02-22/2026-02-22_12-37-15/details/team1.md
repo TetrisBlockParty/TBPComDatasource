@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -120,15 +120,15 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Seth Wesson |
-| 123 | 310 | Jason Jones |
+| 122 | 310 | Jason Jones |
+| 123 | 310 | Seth Wesson |
 | 124 | 306 | Happy Basegrid |
 | 125 | 304 | Nicole Roseberry Weber |
 | 126 | 301 | Lehrin Maria |
@@ -137,8 +137,8 @@
 | 129 | 290 | Sarah Roberts |
 | 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Emily Adelaide Wheatley |
-| 133 | 284 | Rachael |
+| 132 | 284 | Rachael |
+| 133 | 284 | Emily Adelaide Wheatley |
 | 134 | 283 | Franswa |
 | 135 | 282 | Tyler Werts |
 | 136 | 282 | Cool Shiftsnap |
@@ -189,8 +189,8 @@
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Giggly Builderline |
-| 185 | 210 | Letson Melissa |
+| 184 | 210 | Letson Melissa |
+| 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |

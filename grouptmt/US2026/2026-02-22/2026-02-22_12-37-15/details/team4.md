@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -339,8 +339,8 @@
 | 331 | 128 | Allen Lloyd |
 | 332 | 128 | Madison Sweere |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Ann G. Carrillo |
 | 338 | 125 | Steph Marie |
