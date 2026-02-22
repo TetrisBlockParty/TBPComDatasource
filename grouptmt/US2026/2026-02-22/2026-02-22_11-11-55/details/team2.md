@@ -724,8 +724,8 @@
 | 716 | 316 | Johanna Massaro |
 | 717 | 314 | Amanda West |
 | 718 | 314 | Twisty Tetriblast |
-| 719 | 313 | Natasha Edmonds |
-| 720 | 313 | Marina Linda |
+| 719 | 313 | Marina Linda |
+| 720 | 313 | Natasha Edmonds |
 | 721 | 313 | Snippy Block |
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
@@ -785,8 +785,8 @@
 | 777 | 289 | Ryan Chan |
 | 778 | 288 | thranduil |
 | 779 | 288 | Ashley Criner |
-| 780 | 288 | Samantha Angelo |
-| 781 | 288 | Jenna Nance |
+| 780 | 288 | Jenna Nance |
+| 781 | 288 | Samantha Angelo |
 | 782 | 287 | Toni Roberson |
 | 783 | 287 | N00D3S |
 | 784 | 287 | Epic Stackzone |
@@ -1040,8 +1040,8 @@
 | 1032 | 222 | Angel Moorhead |
 | 1033 | 222 | Squirrel |
 | 1034 | 222 | Lovely |
-| 1035 | 222 | Crystal Herndon |
-| 1036 | 222 | Wacky Edgefit |
+| 1035 | 222 | Wacky Edgefit |
+| 1036 | 222 | Crystal Herndon |
 | 1037 | 222 | Daring Lift |
 | 1038 | 220 | Amy Reynolds |
 | 1039 | 220 | Natalie M Wells |

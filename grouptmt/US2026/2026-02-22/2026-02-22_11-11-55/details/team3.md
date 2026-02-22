@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
 | 105 | 562 | Dave Herzog |
 | 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
@@ -175,8 +175,8 @@
 | 167 | 376 | Loopy Clusterer |
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
-| 170 | 370 | Logan Naccarato |
-| 171 | 370 | Danielle Allison |
+| 170 | 370 | Danielle Allison |
+| 171 | 370 | Logan Naccarato |
 | 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
@@ -217,14 +217,14 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
 | 217 | 289 | DidIdothat |
-| 218 | 289 | Duane Bright |
-| 219 | 289 | Hoppy Buildout |
+| 218 | 289 | Hoppy Buildout |
+| 219 | 289 | Duane Bright |
 | 220 | 286 | Cynthia Herrmann Egland |
 | 221 | 284 | Denise Nardoni |
 | 222 | 283 | Charles Perrone |
@@ -303,8 +303,8 @@
 | 295 | 210 | Criss |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Daring Builder |
-| 299 | 207 | Jessica |
+| 298 | 207 | Jessica |
+| 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
 | 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tammy Rosenberry |
@@ -312,8 +312,8 @@
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Staci George Fitzsimmons |
-| 308 | 202 | Tipsy Zonebuilder |
+| 307 | 202 | Tipsy Zonebuilder |
+| 308 | 202 | Staci George Fitzsimmons |
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
@@ -321,8 +321,8 @@
 | 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
-| 316 | 195 | Kristian Thurman |
-| 317 | 195 | Nicha Hooker |
+| 316 | 195 | Nicha Hooker |
+| 317 | 195 | Kristian Thurman |
 | 318 | 194 | Goofy Fall |
 | 319 | 193 | Clever Shiftsnap |
 | 320 | 192 | Ryan Williams |
@@ -371,9 +371,9 @@
 | 363 | 163 | Diana Ibarra |
 | 364 | 163 | Christine Trester |
 | 365 | 163 | Ava Petito |
-| 366 | 162 | Eric Caccavale |
+| 366 | 162 | Loopy Fallzone |
 | 367 | 162 | Kristin Delibac Corrigan |
-| 368 | 162 | Loopy Fallzone |
+| 368 | 162 | Eric Caccavale |
 | 369 | 162 | Stephanie Whitefield |
 | 370 | 162 | Beaudie Stroebel |
 | 371 | 162 | Nicole Summers-Nelson |
@@ -397,8 +397,8 @@
 | 389 | 153 | Betty Bóò |
 | 390 | 153 | Lys |
 | 391 | 153 | Sheila M Frazier |
-| 392 | 152 | Silver Marchán |
-| 393 | 152 | Shiny Zonebuilder |
+| 392 | 152 | Shiny Zonebuilder |
+| 393 | 152 | Silver Marchán |
 | 394 | 151 | Sarah Cowan Burgos |
 | 395 | 150 | Sassy Brickmatch |
 | 396 | 149 | Wacky Crasher |
@@ -416,24 +416,24 @@
 | 408 | 147 | Hasty Gridpiece |
 | 409 | 146 | ROODBOY |
 | 410 | 146 | Wettnippz |
-| 411 | 146 | ROODBOY |
+| 411 | 146 | Sara Dunn |
 | 412 | 146 | Sdot |
 | 413 | 144 | Crystal Hine |
 | 414 | 144 | Blair Erin Waite |
 | 415 | 144 | Tenisha Semidey |
 | 416 | 143 | Deseree Ewing |
-| 417 | 142 | Erica Anderson |
+| 417 | 142 | Frothy Snapper |
 | 418 | 142 | Gray Hicks |
-| 419 | 142 | Frothy Snapper |
-| 420 | 142 | Joy Petroski |
-| 421 | 142 | Jl |
+| 419 | 142 | Erica Anderson |
+| 420 | 142 | Jl |
+| 421 | 142 | Joy Petroski |
 | 422 | 141 | Melissa Snyder |
 | 423 | 141 | Bhreagh Gentile |
-| 424 | 141 | Reina Roth |
-| 425 | 141 | Weerae |
+| 424 | 141 | Weerae |
+| 425 | 141 | Reina Roth |
 | 426 | 140 | Jumpy Curvebuilder |
-| 427 | 140 | Boldy Corner |
-| 428 | 140 | Linda Draper |
+| 427 | 140 | Linda Draper |
+| 428 | 140 | Boldy Corner |
 | 429 | 140 | Alison Baus |
 | 430 | 139 | Beppy |
 | 431 | 139 | Paula Little |

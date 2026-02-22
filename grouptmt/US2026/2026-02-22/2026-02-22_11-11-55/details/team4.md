@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -91,8 +91,8 @@
 | 83 | 447 | Erin Thomas |
 | 84 | 440 | Kristin Manee |
 | 85 | 437 | Chastity Mitchell |
-| 86 | 427 | KJ Pool |
-| 87 | 427 | Jolly Dashfit |
+| 86 | 427 | Jolly Dashfit |
+| 87 | 427 | KJ Pool |
 | 88 | 420 | Chilly Crasher |
 | 89 | 416 | YoMomma |
 | 90 | 412 | Ashley Ingram |
