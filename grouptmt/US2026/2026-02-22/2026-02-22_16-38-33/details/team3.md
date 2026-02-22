@@ -258,8 +258,8 @@
 | 250 | 282 | Angie Harper |
 | 251 | 281 | Carrie Huskey |
 | 252 | 280 | Terry Jo Jones |
-| 253 | 278 | Rufus Lincoln |
-| 254 | 278 | Sabrina Hardrick |
+| 253 | 278 | Sabrina Hardrick |
+| 254 | 278 | Rufus Lincoln |
 | 255 | 277 | Tracy Martin |
 | 256 | 276 | Crimson |
 | 257 | 276 | _melisa223_ |
@@ -276,8 +276,8 @@
 | 268 | 266 | Quirky Dropzone |
 | 269 | 264 | Nikki Pags |
 | 270 | 263 | Brenda Schmid Wood |
-| 271 | 262 | Ray Lader |
-| 272 | 262 | Joe-Maggie Mathews |
+| 271 | 262 | Joe-Maggie Mathews |
+| 272 | 262 | Ray Lader |
 | 273 | 261 | Tiffany Ford |
 | 274 | 260 | Grams |
 | 275 | 258 | IamJust Neyamijah Washington Sr. |
@@ -309,8 +309,8 @@
 | 301 | 227 | ROODBOY |
 | 302 | 227 | Meowsa |
 | 303 | 226 | Jana Polk |
-| 304 | 225 | Dirtgirl27 |
-| 305 | 225 | Stephanie Hill |
+| 304 | 225 | Stephanie Hill |
+| 305 | 225 | Dirtgirl27 |
 | 306 | 225 | Steffi Chris Dacones |
 | 307 | 224 | Twisty Brick LT |
 | 308 | 223 | Jennifer Alvey |
@@ -779,7 +779,7 @@
 | 771 | 93 | Samantha Long |
 | 772 | 93 | Clever Clearbuilder |
 | 773 | 92 | Jennifer Caputo |
-| 774 | 92 | Jackie-Lynne Goertzen |
+| 774 | 92 | Doddie Marie |
 | 775 | 92 | Jillian Ann |
 | 776 | 92 | Jackie-Lynne Goertzen |
 | 777 | 92 | Kiya Lynn |

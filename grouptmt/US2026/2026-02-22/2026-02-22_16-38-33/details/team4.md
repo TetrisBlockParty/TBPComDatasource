@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -224,8 +224,8 @@
 | 216 | 211 | Jenna McGeorge |
 | 217 | 208 | Stacey Stano |
 | 218 | 208 | scott |
-| 219 | 208 | Dizzy Matchzone |
-| 220 | 208 | Oscar Alberto Perez |
+| 219 | 208 | Oscar Alberto Perez |
+| 220 | 208 | Dizzy Matchzone |
 | 221 | 207 | Chirpy Basepiece |
 | 222 | 206 | Kim Klutz Olson |
 | 223 | 204 | Carlos Ramirez |
@@ -277,8 +277,8 @@
 | 269 | 165 | Zappy Buildgrid |
 | 270 | 164 | KimoKoala |
 | 271 | 163 | Ellen Durfee |
-| 272 | 162 | Gwendolyn Pitcairn |
-| 273 | 162 | John Brunetti |
+| 272 | 162 | John Brunetti |
+| 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | conceptCollector |
 | 275 | 161 | Twisty Risebuilder |
 | 276 | 161 | Tanner Lund |

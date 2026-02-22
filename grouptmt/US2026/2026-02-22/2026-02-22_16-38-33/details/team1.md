@@ -351,8 +351,8 @@
 | 343 | 144 | Miguel Teixeira |
 | 344 | 143 | Guest |
 | 345 | 142 | Nathan Sealander |
-| 346 | 141 | Kayla Marie Stevenson |
-| 347 | 141 | Ashley Adams |
+| 346 | 141 | Ashley Adams |
+| 347 | 141 | Kayla Marie Stevenson |
 | 348 | 140 | Nathan William |
 | 349 | 139 | Aimee Horton |
 | 350 | 139 | Cozy Shatterer |
@@ -377,8 +377,8 @@
 | 369 | 131 | Plucky Wrecker |
 | 370 | 131 | Dizzy Riseclear |
 | 371 | 130 | Carl Claunch |
-| 372 | 130 | DoodleBug |
-| 373 | 130 | Katie Toothman |
+| 372 | 130 | Katie Toothman |
+| 373 | 130 | DoodleBug |
 | 374 | 129 | Sherri E Woods Hess |
 | 375 | 128 | Sarah Henniker |
 | 376 | 128 | George Dalton |
@@ -398,7 +398,7 @@
 | 390 | 123 | Betsy |
 | 391 | 123 | Funky Piecebuilder |
 | 392 | 122 | Tyler L Hunt |
-| 393 | 121 | John Ramirez |
+| 393 | 121 | Jacob Shaddock |
 | 394 | 121 | Amber Nixon |
 | 395 | 121 | John Ramirez |
 | 396 | 120 | Billie Ann Eason |
