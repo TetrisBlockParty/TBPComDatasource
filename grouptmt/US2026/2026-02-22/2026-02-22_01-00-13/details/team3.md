@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -218,9 +218,9 @@
 | 210 | 205 | Sarah Moyer |
 | 211 | 204 | Danielle Allison |
 | 212 | 201 | Karon Griffin |
-| 213 | 200 | glichmod |
-| 214 | 200 | Sharisse Baltimore |
-| 215 | 200 | Connie Mohler-Fair |
+| 213 | 200 | Connie Mohler-Fair |
+| 214 | 200 | glichmod |
+| 215 | 200 | Sharisse Baltimore |
 | 216 | 197 | Staci George Fitzsimmons |
 | 217 | 197 | Angie Harper |
 | 218 | 196 | Aerian Preston |
@@ -332,9 +332,9 @@
 | 324 | 133 | Jen Lewis |
 | 325 | 132 | Angela Scott |
 | 326 | 131 | Cheeky Snapper |
-| 327 | 131 | Peppy Shifter |
-| 328 | 131 | Danielle Balcom |
-| 329 | 131 | Noettín Kan Zasnemoore |
+| 327 | 131 | Noettín Kan Zasnemoore |
+| 328 | 131 | Peppy Shifter |
+| 329 | 131 | Danielle Balcom |
 | 330 | 131 | Beppy |
 | 331 | 130 | El Chapa |
 | 332 | 130 | Karen Picaboo |

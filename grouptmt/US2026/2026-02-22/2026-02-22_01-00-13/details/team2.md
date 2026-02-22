@@ -491,8 +491,8 @@
 | 483 | 334 | Brittney Jean |
 | 484 | 333 | Tra Barnum |
 | 485 | 332 | Andrea Maher |
-| 486 | 331 | Jroc |
-| 487 | 331 | Kimmy Newman |
+| 486 | 331 | Kimmy Newman |
+| 487 | 331 | Jroc |
 | 488 | 330 | CC |
 | 489 | 330 | Lucy Marshall |
 | 490 | 329 | Chummy Blockbuilder |
