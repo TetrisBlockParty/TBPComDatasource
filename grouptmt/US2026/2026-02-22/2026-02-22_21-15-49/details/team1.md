@@ -90,8 +90,8 @@
 | 82 | 489 | Deanna L Hermanson |
 | 83 | 486 | Tater |
 | 84 | 485 | Cartier |
-| 85 | 483 | Ryan Lunnin |
-| 86 | 483 | MomMom |
+| 85 | 483 | MomMom |
+| 86 | 483 | Ryan Lunnin |
 | 87 | 472 | April Carroll |
 | 88 | 471 | Jennifer ManWarren |
 | 89 | 466 | Hasbro Bros |
@@ -225,8 +225,8 @@
 | 217 | 240 | DaRascal |
 | 218 | 239 | Lacy Wolfe |
 | 219 | 238 | Tiffany Smith |
-| 220 | 236 | Matt Iaccheo |
-| 221 | 236 | Speedy Liney |
+| 220 | 236 | Speedy Liney |
+| 221 | 236 | Matt Iaccheo |
 | 222 | 235 | Bindi |
 | 223 | 235 | MRdot Rooski |
 | 224 | 234 | Paula Martin |
@@ -456,11 +456,11 @@
 | 448 | 126 | Divaaa |
 | 449 | 126 | Frisky Base |
 | 450 | 125 | Angela Spann |
-| 451 | 124 | Marqs Mel |
-| 452 | 124 | Dandy Towerbuilder |
-| 453 | 124 | Nicolette Ivory Chastain |
-| 454 | 123 | Betsy |
-| 455 | 123 | Francesca Gee |
+| 451 | 124 | Nicolette Ivory Chastain |
+| 452 | 124 | Marqs Mel |
+| 453 | 124 | Dandy Towerbuilder |
+| 454 | 123 | Francesca Gee |
+| 455 | 123 | Betsy |
 | 456 | 122 | Ric Hard Hernandez |
 | 457 | 122 | Mary Love |
 | 458 | 121 | Josh Smith |

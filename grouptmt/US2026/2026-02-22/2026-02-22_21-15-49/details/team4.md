@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -166,8 +166,8 @@
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
-| 161 | 307 | Girl |
-| 162 | 307 | Bio Nelly |
+| 161 | 307 | Bio Nelly |
+| 162 | 307 | Girl |
 | 163 | 307 | TRCuse |
 | 164 | 303 | shark tato |
 | 165 | 301 | Crystal Nicolette Moore |
