@@ -157,8 +157,8 @@
 | 149 | 517 | Denise Nardoni |
 | 150 | 516 | Elissa S-k |
 | 151 | 512 | Silly Twist |
-| 152 | 506 | Stephanie Blkpep Davidson |
-| 153 | 506 | Sashay Tapae Simpson |
+| 152 | 506 | Sashay Tapae Simpson |
+| 153 | 506 | Stephanie Blkpep Davidson |
 | 154 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 155 | 502 | Snappy Balancer |
 | 156 | 501 | Patti Skiles |
@@ -205,10 +205,10 @@
 | 197 | 415 | ren |
 | 198 | 413 | Loopy Clusterer |
 | 199 | 410 | Stephanie Simpson |
-| 200 | 405 | Sherry Ogden |
-| 201 | 405 | Tom Nault |
-| 202 | 404 | Bmo |
-| 203 | 404 | Chasity |
+| 200 | 405 | Tom Nault |
+| 201 | 405 | Sherry Ogden |
+| 202 | 404 | Chasity |
+| 203 | 404 | Bmo |
 | 204 | 403 | Scott Lindsay |
 | 205 | 401 | Demetrious Shaw Sr. |
 | 206 | 400 | Sherika C. McDaniels |
@@ -485,7 +485,7 @@
 | 477 | 177 | Silver Marchán |
 | 478 | 177 | Melissa Snyder |
 | 479 | 175 | Stella |
-| 480 | 174 | Sierra Spencer |
+| 480 | 174 | Lesley Perez |
 | 481 | 174 | Rayzer |
 | 482 | 174 | Sierra Spencer |
 | 483 | 173 | Hanul |

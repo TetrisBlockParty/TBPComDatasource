@@ -379,8 +379,8 @@
 | 371 | 708 | Jelly |
 | 372 | 706 | goofinoff |
 | 373 | 703 | Gold Rose |
-| 374 | 702 | Kimberly Randesi |
-| 375 | 702 | Allan Wayne Lamia |
+| 374 | 702 | Allan Wayne Lamia |
+| 375 | 702 | Kimberly Randesi |
 | 376 | 701 | Mama T |
 | 377 | 701 | Draizen Montrell Thomas |
 | 378 | 700 | Beverly Owens |
@@ -428,8 +428,8 @@
 | 420 | 642 | Cassie Maynard |
 | 421 | 642 | Gary Stash |
 | 422 | 640 | BYM4L |
-| 423 | 639 | Rebecca Miller |
-| 424 | 639 | Steven Marshaun |
+| 423 | 639 | Steven Marshaun |
+| 424 | 639 | Rebecca Miller |
 | 425 | 635 | Mikayala Szaz |
 | 426 | 635 | Dennis McLaurin |
 | 427 | 632 | Brittney Jean |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Casper The Chonk |
@@ -457,8 +457,8 @@
 | 449 | 601 | Slinky Racker |
 | 450 | 597 | Jamie Schmitt |
 | 451 | 594 | Rhonda Milstead |
-| 452 | 594 | Autumn Schaeffer |
-| 453 | 594 | Michelle Fields |
+| 452 | 594 | Michelle Fields |
+| 453 | 594 | Autumn Schaeffer |
 | 454 | 594 | Irene Jones |
 | 455 | 591 | Kimberly Hope Howell |
 | 456 | 589 | Shavonna Haynes |
@@ -480,15 +480,15 @@
 | 472 | 571 | Julie Kresal |
 | 473 | 571 | Emily Lyric Converse |
 | 474 | 570 | Lonne Emade |
-| 475 | 569 | Vaniel Glover |
-| 476 | 569 | Joseph Musick |
+| 475 | 569 | Joseph Musick |
+| 476 | 569 | Vaniel Glover |
 | 477 | 569 | Sparkles |
 | 478 | 569 | Ben Barkley |
 | 479 | 567 | Snappy Matchbuilder |
 | 480 | 566 | Leah Keesling |
 | 481 | 565 | Lyndi Robinson Wakefield |
-| 482 | 565 | Blacc Blac |
-| 483 | 565 | Jaycee |
+| 482 | 565 | Jaycee |
+| 483 | 565 | Blacc Blac |
 | 484 | 563 | Frisky Clearpiece |
 | 485 | 563 | Sarah Massey |
 | 486 | 562 | AISlop |
@@ -570,8 +570,8 @@
 | 562 | 488 | Christina Wsn |
 | 563 | 487 | Morgan Easter |
 | 564 | 487 | Daphne Jordan |
-| 565 | 486 | Rhonda Petro |
-| 566 | 486 | Amanda Ferrell |
+| 565 | 486 | Amanda Ferrell |
+| 566 | 486 | Rhonda Petro |
 | 567 | 485 | Mamachelle Eisweirth |
 | 568 | 485 | Klee |
 | 569 | 484 | Wendy Unsain |
@@ -589,8 +589,8 @@
 | 581 | 477 | Juanita Lyons |
 | 582 | 476 | Chummy Blockbuilder |
 | 583 | 476 | Kiana Boschh |
-| 584 | 475 | Lee Harper |
-| 585 | 475 | Mia Muse Best |
+| 584 | 475 | Mia Muse Best |
+| 585 | 475 | Lee Harper |
 | 586 | 474 | Calandra Shaya Robinson |
 | 587 | 474 | Jennifer Monroe Kelly |
 | 588 | 474 | Jennifer Scott |
@@ -961,8 +961,8 @@
 | 953 | 305 | Sandra Link-Gable |
 | 954 | 304 | Amber Cano |
 | 955 | 304 | Jay Levy |
-| 956 | 304 | Ryan Chan |
-| 957 | 304 | NFLPITMOM |
+| 956 | 304 | NFLPITMOM |
+| 957 | 304 | Ryan Chan |
 | 958 | 303 | Emilie Desma |
 | 959 | 303 | Devin |
 | 960 | 303 | Harrison Littrell |

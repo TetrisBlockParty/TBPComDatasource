@@ -253,8 +253,8 @@
 | 245 | 223 | Erez Yosef |
 | 246 | 223 | Christina Backer |
 | 247 | 223 | Thorne Shumate |
-| 248 | 222 | Snappy Bridgepiece |
-| 249 | 222 | Debbie Davis |
+| 248 | 222 | Debbie Davis |
+| 249 | 222 | Snappy Bridgepiece |
 | 250 | 221 | Amy Hess |
 | 251 | 220 | Bouncy Grid |
 | 252 | 219 | Negan Mallory Knoxx Spence |

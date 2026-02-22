@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Jae Job |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Lucille Truesdale |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Jae Job |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 838 | TeeJ |
@@ -125,8 +125,8 @@
 | 117 | 435 | Leslie Thomas |
 | 118 | 431 | Courtney Cicoria |
 | 119 | 429 | Ren Mc |
-| 120 | 427 | Jolly Dashfit |
-| 121 | 427 | KJ Pool |
+| 120 | 427 | KJ Pool |
+| 121 | 427 | Jolly Dashfit |
 | 122 | 418 | Dizzy Tiley |
 | 123 | 417 | Monica Daley |
 | 124 | 414 | Nope Young |
@@ -197,8 +197,8 @@
 | 189 | 277 | Kim Klutz Olson |
 | 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
-| 192 | 272 | Alan George LaRage |
-| 193 | 272 | Dennis Bradley |
+| 192 | 272 | Dennis Bradley |
+| 193 | 272 | Alan George LaRage |
 | 194 | 271 | Sarah Brown |
 | 195 | 270 | Juls |
 | 196 | 269 | Nikki Rae Gordon |
@@ -257,10 +257,10 @@
 | 249 | 215 | Ziggy |
 | 250 | 215 | John Brunetti |
 | 251 | 214 | Stacey Stano |
-| 252 | 213 | Sarah Neathery |
+| 252 | 213 | Rio Rocha |
 | 253 | 213 | Angela Geist Jusinski |
-| 254 | 213 | Adawna Swires |
-| 255 | 213 | Rio Rocha |
+| 254 | 213 | Sarah Neathery |
+| 255 | 213 | Adawna Swires |
 | 256 | 212 | Mike Solo |
 | 257 | 209 | Chaz |
 | 258 | 208 | Christina Black |
