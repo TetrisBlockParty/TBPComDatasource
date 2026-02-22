@@ -270,8 +270,8 @@
 | 262 | 778 | Desire Rice |
 | 263 | 778 | Mischelle Clay |
 | 264 | 777 | Samantha Jo |
-| 265 | 777 | Tesha Oldaker |
-| 266 | 777 | Jessicah Myers |
+| 265 | 777 | Jessicah Myers |
+| 266 | 777 | Tesha Oldaker |
 | 267 | 772 | William Hunt |
 | 268 | 772 | Sam Joe |
 | 269 | 771 | Terri McKelvey McKinley |

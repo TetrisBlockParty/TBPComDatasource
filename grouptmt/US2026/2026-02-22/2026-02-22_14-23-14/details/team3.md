@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Patti Skiles |
-| 130 | 479 | Poppy Splitter |
+| 129 | 479 | Poppy Splitter |
+| 130 | 479 | Patti Skiles |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -269,8 +269,8 @@
 | 261 | 254 | Brenda Schmid Wood |
 | 262 | 252 | Roary Danner |
 | 263 | 250 | fraulila |
-| 264 | 249 | Hasty Gridpiece |
-| 265 | 249 | Annie Marie |
+| 264 | 249 | Annie Marie |
+| 265 | 249 | Hasty Gridpiece |
 | 266 | 246 | Peppy Shifter |
 | 267 | 245 | Latoya Mayne |
 | 268 | 244 | LaNette Morgan |

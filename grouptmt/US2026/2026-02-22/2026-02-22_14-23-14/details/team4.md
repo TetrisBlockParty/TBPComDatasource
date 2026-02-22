@@ -370,8 +370,8 @@
 | 362 | 120 | Bryan Hodgins |
 | 363 | 119 | rebel4lyfe |
 | 364 | 119 | River Shady Sr. |
-| 365 | 118 | Mackenzie Forrester |
-| 366 | 118 | Perky Piecegrid |
+| 365 | 118 | Perky Piecegrid |
+| 366 | 118 | Mackenzie Forrester |
 | 367 | 118 | Darrin Rubalcava |
 | 368 | 117 | PennyCandee |
 | 369 | 117 | Gracie Ann Taylor |
@@ -427,8 +427,8 @@
 | 419 | 105 | Zesty Linkgrid |
 | 420 | 105 | Linda Alexander Downing |
 | 421 | 104 | Blessedmama |
-| 422 | 104 | Jessica Johnston |
-| 423 | 104 | Gdiguy |
+| 422 | 104 | Gdiguy |
+| 423 | 104 | Jessica Johnston |
 | 424 | 104 | Ryry |
 | 425 | 103 | Ziggy |
 | 426 | 102 | Christina O'Dell-Ishau |

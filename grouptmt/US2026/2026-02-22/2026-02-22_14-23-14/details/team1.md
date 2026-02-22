@@ -76,8 +76,8 @@
 | 68 | 491 | Sarah Lombardo |
 | 69 | 489 | Deanna L Hermanson |
 | 70 | 485 | Cartier |
-| 71 | 483 | Evie Khalil |
-| 72 | 483 | Ryan Lunnin |
+| 71 | 483 | Ryan Lunnin |
+| 72 | 483 | Evie Khalil |
 | 73 | 480 | Nancy Green |
 | 74 | 472 | April Carroll |
 | 75 | 458 | Jennifer ManWarren |
@@ -102,8 +102,8 @@
 | 94 | 389 | Trina Gee |
 | 95 | 383 | Loony Fitzone |
 | 96 | 382 | Jacqueline Williams |
-| 97 | 379 | Austin James |
-| 98 | 379 | Kimmie Kimms |
+| 97 | 379 | Kimmie Kimms |
+| 98 | 379 | Austin James |
 | 99 | 376 | lil mickey |
 | 100 | 374 | Tinah Montanna |
 | 101 | 364 | Shauna Loe |
@@ -120,15 +120,15 @@
 | 112 | 341 | Nick R Montague |
 | 113 | 340 | Jason Jones |
 | 114 | 334 | Jaimie Lynn |
-| 115 | 333 | Brandi Huntington |
-| 116 | 333 | Gracie |
+| 115 | 333 | Gracie |
+| 116 | 333 | Brandi Huntington |
 | 117 | 332 | Kristen Gideon |
 | 118 | 330 | Sweet Baker |
 | 119 | 326 | Monica Donato |
 | 120 | 321 | Maria C. Hernandez |
 | 121 | 318 | Jessica Sheehan |
-| 122 | 316 | Jennifer Hardman |
-| 123 | 316 | Dizzy Party |
+| 122 | 316 | Dizzy Party |
+| 123 | 316 | Jennifer Hardman |
 | 124 | 316 | Ly Phethmany |
 | 125 | 313 | Virginia Gray Floyd |
 | 126 | 313 | Tanya Carpenter-Reynolds |
@@ -168,8 +168,8 @@
 | 160 | 258 | Constance Risner |
 | 161 | 257 | Amanda Jarnagin |
 | 162 | 254 | Al Smith Jr |
-| 163 | 253 | Witty Builderfit |
-| 164 | 253 | Jamie Jury |
+| 163 | 253 | Jamie Jury |
+| 164 | 253 | Witty Builderfit |
 | 165 | 252 | Dena Kayy |
 | 166 | 247 | Sleepysloath5745 |
 | 167 | 246 | Lakeisha Chapman |
@@ -192,8 +192,8 @@
 | 184 | 229 | Chris K |
 | 185 | 226 | Kandae |
 | 186 | 224 | ParisandCory Champagne |
-| 187 | 223 | Erez Yosef |
-| 188 | 223 | Basment Living |
+| 187 | 223 | Basment Living |
+| 188 | 223 | Erez Yosef |
 | 189 | 222 | Debbie Davis |
 | 190 | 219 | Chuck Gannon |
 | 191 | 218 | LC |
@@ -209,7 +209,7 @@
 | 201 | 208 | Donna Addison Williams |
 | 202 | 207 | Brenda Alexander |
 | 203 | 207 | Speedy Liney |
-| 204 | 207 | Brenda Alexander |
+| 204 | 207 | Leslie Bush Yarbrough |
 | 205 | 206 | BadG52 |
 | 206 | 205 | Tater |
 | 207 | 205 | Snappy Matcher |
@@ -404,7 +404,7 @@
 | 396 | 109 | Ariel Whittington |
 | 397 | 109 | Nicolette Ivory Chastain |
 | 398 | 108 | Nathan Sealander |
-| 399 | 108 | Owicked1 |
+| 399 | 108 | Meechie |
 | 400 | 108 | Stoney Smith |
 | 401 | 108 | Owicked1 |
 | 402 | 108 | Teddy Alexander |
