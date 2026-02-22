@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -201,14 +201,14 @@
 | 193 | 249 | Lakeisha Chapman |
 | 194 | 248 | Mike Ames |
 | 195 | 247 | Frothy Pattern |
-| 196 | 244 | Eddie Dillon |
+| 196 | 244 | LaFontaine Leslie |
 | 197 | 244 | Marianita Garcia |
-| 198 | 244 | LaFontaine Leslie |
+| 198 | 244 | Eddie Dillon |
 | 199 | 242 | John Kim |
 | 200 | 241 | John J. Cronin |
 | 201 | 240 | DaRascal |
-| 202 | 239 | Lacy Wolfe |
-| 203 | 239 | Sam Williams |
+| 202 | 239 | Sam Williams |
+| 203 | 239 | Lacy Wolfe |
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
@@ -234,8 +234,8 @@
 | 226 | 221 | Daring Fitclear |
 | 227 | 219 | Chuck Gannon |
 | 228 | 217 | Jason Savage |
-| 229 | 216 | Shauntina Burke |
-| 230 | 216 | Chad Atchley |
+| 229 | 216 | Chad Atchley |
+| 230 | 216 | Shauntina Burke |
 | 231 | 215 | Standia Civil |
 | 232 | 215 | Panda Thagreat |
 | 233 | 215 | Shaykmia |
@@ -243,9 +243,9 @@
 | 235 | 213 | Shanae Grant |
 | 236 | 213 | Speedy Liney |
 | 237 | 212 | Tyler Hertzog |
-| 238 | 211 | Erin Rosberg |
+| 238 | 211 | Sarah Somers Gray |
 | 239 | 211 | Negan Mallory Knoxx Spence |
-| 240 | 211 | Sarah Somers Gray |
+| 240 | 211 | Erin Rosberg |
 | 241 | 210 | Jessie Welch |
 | 242 | 209 | Cece Ibarra |
 | 243 | 209 | Jeanna Dunn |
@@ -261,8 +261,8 @@
 | 253 | 201 | Andrew Boone |
 | 254 | 201 | Colleen Wise |
 | 255 | 200 | Flashy Rotator |
-| 256 | 200 | Breanna Luna |
-| 257 | 200 | Diane Byrd |
+| 256 | 200 | Diane Byrd |
+| 257 | 200 | Breanna Luna |
 | 258 | 199 | Alenoush Karimian |
 | 259 | 198 | Adele Rahman |
 | 260 | 198 | Colleen Pinette |
@@ -272,13 +272,13 @@
 | 264 | 196 | Perky Shiftsnap |
 | 265 | 195 | Jennifer Olewnik Soborowski |
 | 266 | 194 | Poppy Riserpiece |
-| 267 | 193 | Phu ckalldems |
-| 268 | 193 | Lachelle Dillon |
+| 267 | 193 | Lachelle Dillon |
+| 268 | 193 | Phu ckalldems |
 | 269 | 192 | Tiger Lily |
-| 270 | 191 | J.F. Fields |
-| 271 | 191 | Renata Mabie |
-| 272 | 190 | Sweetts |
-| 273 | 190 | Thorne Shumate |
+| 270 | 191 | Renata Mabie |
+| 271 | 191 | J.F. Fields |
+| 272 | 190 | Thorne Shumate |
+| 273 | 190 | Sweetts |
 | 274 | 189 | Bird Person |
 | 275 | 189 | John Garza |
 | 276 | 189 | Tawnya Peltonen |

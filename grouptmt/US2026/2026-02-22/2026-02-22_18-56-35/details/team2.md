@@ -544,8 +544,8 @@
 | 536 | 476 | Ann Knutson Anderson |
 | 537 | 475 | Michelle Lee |
 | 538 | 474 | Calandra Shaya Robinson |
-| 539 | 473 | Wuntayk |
-| 540 | 473 | Sam |
+| 539 | 473 | Sam |
+| 540 | 473 | Wuntayk |
 | 541 | 473 | coleksquad |
 | 542 | 473 | Ashlee Cruz |
 | 543 | 473 | Tracy Wise |
@@ -562,8 +562,8 @@
 | 554 | 467 | SwampRebel |
 | 555 | 466 | Koa N Sharon Chen |
 | 556 | 466 | Tina Marie |
-| 557 | 466 | Kori Beth Babb |
-| 558 | 466 | Crystal Greene |
+| 557 | 466 | Crystal Greene |
+| 558 | 466 | Kori Beth Babb |
 | 559 | 464 | Ryan Stadel |
 | 560 | 464 | trabuco |
 | 561 | 463 | Mia Muse Best |
@@ -736,8 +736,8 @@
 | 728 | 367 | Connie Lepore-Mann |
 | 729 | 366 | Courtney Burcham |
 | 730 | 365 | Christina Lewis-Vickers |
-| 731 | 364 | Jessica Galick |
-| 732 | 364 | Shinette Dobson |
+| 731 | 364 | Shinette Dobson |
+| 732 | 364 | Jessica Galick |
 | 733 | 363 | Jes Norris |
 | 734 | 363 | Stephanie Fortune |
 | 735 | 363 | Veronica Stevenson |
