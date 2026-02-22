@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | cc |
-| 82 | 388 | Jennifer ManWarren |
+| 81 | 388 | Jennifer ManWarren |
+| 82 | 388 | cc |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -315,8 +315,8 @@
 | 307 | 124 | John Kim |
 | 308 | 124 | DoodleBug |
 | 309 | 123 | Tonya Beasley |
-| 310 | 122 | Nate Funk |
-| 311 | 122 | Tyler Hertzog |
+| 310 | 122 | Tyler Hertzog |
+| 311 | 122 | Nate Funk |
 | 312 | 121 | John Ramirez |
 | 313 | 121 | Pauline Cortez |
 | 314 | 121 | Jacob Shaddock |
@@ -326,9 +326,9 @@
 | 318 | 118 | Kerry Lee Powell |
 | 319 | 117 | Beazel75 |
 | 320 | 117 | Bob |
-| 321 | 117 | Beazel75 |
-| 322 | 116 | Fresno Beotoni |
-| 323 | 116 | Brad MG |
+| 321 | 117 | .running. |
+| 322 | 116 | Brad MG |
+| 323 | 116 | Fresno Beotoni |
 | 324 | 115 | Brave Slice |
 | 325 | 114 | Constance Risner |
 | 326 | 114 | Angela Rena Brooks |

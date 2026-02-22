@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -61,8 +61,8 @@
 | 53 | 652 | Anthony Bryan Riva |
 | 54 | 647 | KM8 |
 | 55 | 646 | Jacqueline Helm |
-| 56 | 636 | Kimyatta Cavin |
-| 57 | 636 | Dustee Craddock-Harrison |
+| 56 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Kimyatta Cavin |
 | 58 | 623 | Robin Getchel |
 | 59 | 619 | Marvin Lou Martin |
 | 60 | 599 | Brittney Griggs |
@@ -84,8 +84,8 @@
 | 76 | 483 | Carmethia Clemons Haslerig |
 | 77 | 478 | Amelpss |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Samantha Peterson |
-| 80 | 447 | Erin Thomas |
+| 79 | 447 | Erin Thomas |
+| 80 | 447 | Samantha Peterson |
 | 81 | 440 | Kristin Manee |
 | 82 | 427 | KJ Pool |
 | 83 | 420 | Chilly Crasher |
@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |

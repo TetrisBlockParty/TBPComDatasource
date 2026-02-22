@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | CeceGeGe |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -171,8 +171,8 @@
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
 | 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Danielle Allison |
-| 167 | 370 | Logan Naccarato |
+| 166 | 370 | Logan Naccarato |
+| 167 | 370 | Danielle Allison |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -208,8 +208,8 @@
 | 200 | 301 | Chelsea Hall |
 | 201 | 300 | Sherika C. McDaniels |
 | 202 | 298 | MsBee |
-| 203 | 296 | Ammmmmmy |
-| 204 | 296 | Katrina Turner |
+| 203 | 296 | Katrina Turner |
+| 204 | 296 | Ammmmmmy |
 | 205 | 296 | Brandon Givens |
 | 206 | 295 | Marci Mize Fandrich |
 | 207 | 295 | Rachel |
@@ -248,8 +248,8 @@
 | 240 | 258 | Tamara Deherrera |
 | 241 | 257 | Ashley Jones |
 | 242 | 256 | Brenda Lee Vander Molen |
-| 243 | 256 | Tiffany Davie |
-| 244 | 256 | KayB |
+| 243 | 256 | KayB |
+| 244 | 256 | Tiffany Davie |
 | 245 | 251 | Sabrina Hardrick |
 | 246 | 250 | fraulila |
 | 247 | 249 | Annie Marie |
@@ -277,8 +277,8 @@
 | 269 | 220 | rosy |
 | 270 | 219 | Sissy Lowery Davis |
 | 271 | 218 | Michael Lucado |
-| 272 | 216 | Cheryl Hinch Tenbrook |
-| 273 | 216 | Twisty Brick LT |
+| 272 | 216 | Twisty Brick LT |
+| 273 | 216 | Cheryl Hinch Tenbrook |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
 | 275 | 214 | Angela Scott |
 | 276 | 214 | Amy Fuller Heaton |
@@ -375,8 +375,8 @@
 | 367 | 153 | Sheila M Frazier |
 | 368 | 153 | Tony Waters |
 | 369 | 152 | Goofy Fall |
-| 370 | 152 | Shiny Zonebuilder |
-| 371 | 152 | Eric Caccavale |
+| 370 | 152 | Eric Caccavale |
+| 371 | 152 | Shiny Zonebuilder |
 | 372 | 151 | Sarah Cowan Burgos |
 | 373 | 150 | Sassy Brickmatch |
 | 374 | 149 | Alexis Taylor |
@@ -482,10 +482,10 @@
 | 474 | 117 | James Lykes |
 | 475 | 116 | Elisha L Allman |
 | 476 | 116 | Dapper Towerfit |
-| 477 | 116 | Niki Dalrymple |
-| 478 | 116 | Shelby Crawford |
-| 479 | 116 | TazB |
-| 480 | 115 | Whitney Manuel |
+| 477 | 116 | Shelby Crawford |
+| 478 | 116 | TazB |
+| 479 | 116 | Niki Dalrymple |
+| 480 | 115 | FATTY |
 | 481 | 115 | Carrie Resler |
 | 482 | 115 | Whitney Manuel |
 | 483 | 115 | Allie Kershner |
@@ -658,7 +658,7 @@
 | 650 | 88 | Happy Buildsnap |
 | 651 | 87 | Richard Rowell |
 | 652 | 87 | Payden Dover |
-| 653 | 87 | Richard Rowell |
+| 653 | 87 | gravelgrinder |
 | 654 | 87 | Angel |
 | 655 | 87 | Nerdy Snapbuild |
 | 656 | 87 | Matty Pope |
