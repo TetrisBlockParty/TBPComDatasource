@@ -87,8 +87,8 @@
 | 79 | 591 | Jesse Olive |
 | 80 | 590 | Katrina Schroeder |
 | 81 | 588 | yoyo |
-| 82 | 582 | Natasha Jones |
-| 83 | 582 | Jay Horn |
+| 82 | 582 | Jay Horn |
+| 83 | 582 | Natasha Jones |
 | 84 | 582 | Speedy Bridger |
 | 85 | 581 | Danielle Mogg |
 | 86 | 576 | Dan Rob |
@@ -108,8 +108,8 @@
 | 100 | 506 | Sashay Tapae Simpson |
 | 101 | 503 | Susan Valentino |
 | 102 | 502 | Justin Ritter |
-| 103 | 500 | Domo Washington |
-| 104 | 500 | Kristie |
+| 103 | 500 | Kristie |
+| 104 | 500 | Domo Washington |
 | 105 | 497 | Mykal Burton |
 | 106 | 491 | Chauntee Alfrey-Cardinale |
 | 107 | 487 | Alaina Lee |
@@ -273,8 +273,8 @@
 | 265 | 195 | Cheryl Hinch Tenbrook |
 | 266 | 194 | Saucy Buildout |
 | 267 | 193 | Clever Shiftsnap |
-| 268 | 192 | Kelly Ann Child |
-| 269 | 192 | Ryan Williams |
+| 268 | 192 | Ryan Williams |
+| 269 | 192 | Kelly Ann Child |
 | 270 | 191 | Meowsa |
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
@@ -284,11 +284,11 @@
 | 276 | 182 | Carrie Huskey |
 | 277 | 182 | Melanie Sherwood |
 | 278 | 181 | Nicholas Roddy |
-| 279 | 180 | Beth Ingham |
-| 280 | 180 | Criss |
+| 279 | 180 | Criss |
+| 280 | 180 | Beth Ingham |
 | 281 | 179 | Rachel Napper |
-| 282 | 179 | DanceLuvLaugh |
-| 283 | 179 | Christian Werndl |
+| 282 | 179 | Christian Werndl |
+| 283 | 179 | DanceLuvLaugh |
 | 284 | 179 | Tipsy Zonebuilder |
 | 285 | 178 | Jess Dearborn |
 | 286 | 176 | Melissa Orth Hunter |
@@ -304,15 +304,15 @@
 | 296 | 170 | Cesar Barraza |
 | 297 | 169 | Peachy Rollfit |
 | 298 | 169 | Kristian Thurman |
-| 299 | 167 | Romeo |
-| 300 | 167 | Shicken Nuggit |
-| 301 | 167 | Samantha Lynn |
+| 299 | 167 | Samantha Lynn |
+| 300 | 167 | Romeo |
+| 301 | 167 | Shicken Nuggit |
 | 302 | 166 | April Matthew Kibble |
-| 303 | 165 | Irene Arreguin |
-| 304 | 165 | Kali Kelz Williams |
+| 303 | 165 | Kali Kelz Williams |
+| 304 | 165 | Irene Arreguin |
 | 305 | 163 | Diana Ibarra |
-| 306 | 163 | Christine Trester |
-| 307 | 163 | Stephanie Hill |
+| 306 | 163 | Stephanie Hill |
+| 307 | 163 | Christine Trester |
 | 308 | 162 | Loopy Fallzone |
 | 309 | 162 | Stephanie Whitefield |
 | 310 | 161 | Bouncy Blockbuilder |

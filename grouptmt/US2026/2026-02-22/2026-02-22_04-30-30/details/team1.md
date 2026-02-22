@@ -78,8 +78,8 @@
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
-| 73 | 388 | Yvonne Marie |
-| 74 | 388 | cc |
+| 73 | 388 | cc |
+| 74 | 388 | Yvonne Marie |
 | 75 | 388 | Jennifer ManWarren |
 | 76 | 382 | Lori Sanders- Davis |
 | 77 | 379 | Austin James |

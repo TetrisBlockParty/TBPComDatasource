@@ -43,17 +43,17 @@
 | 35 | 723 | Elizabeth Sallas |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Chilly Line |
-| 45 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Dustee Craddock-Harrison |
+| 45 | 630 | Chilly Line |
 | 46 | 627 | Jonathan Kimbrough |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -145,8 +145,8 @@
 | 137 | 220 | Matt Dell'Olio |
 | 138 | 218 | Casey Grabner |
 | 139 | 217 | Chaz Duncan |
-| 140 | 215 | Ren Mc |
-| 141 | 215 | Jessica Bohlken |
+| 140 | 215 | Jessica Bohlken |
+| 141 | 215 | Ren Mc |
 | 142 | 213 | Jason Allen |
 | 143 | 213 | Tyler Terrific |
 | 144 | 212 | Calvin Cannon |
@@ -300,10 +300,10 @@
 | 292 | 113 | Adam Randall |
 | 293 | 112 | Chris Alexinas |
 | 294 | 111 | Richard-April Kice |
-| 295 | 111 | Lazy Blocker |
-| 296 | 111 | Michael Orris |
-| 297 | 111 | Zocko Ellet |
-| 298 | 111 | Ellen Durfee |
+| 295 | 111 | Michael Orris |
+| 296 | 111 | Zocko Ellet |
+| 297 | 111 | Ellen Durfee |
+| 298 | 111 | Lazy Blocker |
 | 299 | 110 | No Strings Attached Ra |
 | 300 | 110 | Zach Kerbs |
 | 301 | 109 | Frank Cook |
