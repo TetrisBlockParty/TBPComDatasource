@@ -314,24 +314,24 @@
 | 306 | 651 | Unica Rector |
 | 307 | 650 | Shiny Rollzone |
 | 308 | 643 | Hoppy Brickmatch |
-| 309 | 641 | Angie Bolton Workman |
-| 310 | 641 | Joce Lynn |
+| 309 | 641 | Joce Lynn |
+| 310 | 641 | Angie Bolton Workman |
 | 311 | 640 | BYM4L |
 | 312 | 639 | Crystie Hicks |
 | 313 | 639 | Rebecca Miller |
 | 314 | 635 | Diana Fitzwater |
 | 315 | 631 | Marie Walker |
 | 316 | 629 | Sleepypanda67 |
-| 317 | 627 | Victoria Moore-Smith |
-| 318 | 627 | Allan Wayne Lamia |
+| 317 | 627 | Allan Wayne Lamia |
+| 318 | 627 | Victoria Moore-Smith |
 | 319 | 619 | Brandon Armstrong |
 | 320 | 619 | Jánine Riggs |
 | 321 | 617 | tejas25 |
 | 322 | 617 | Leslie Ann Carter |
 | 323 | 613 | Ellie Jonas |
 | 324 | 611 | Em Chen |
-| 325 | 611 | Carl Bradshaw |
-| 326 | 611 | Julio A Laracuente |
+| 325 | 611 | Julio A Laracuente |
+| 326 | 611 | Carl Bradshaw |
 | 327 | 605 | Jelly |
 | 328 | 603 | Ginger |
 | 329 | 603 | Cassie Maynard |
@@ -723,8 +723,8 @@
 | 715 | 308 | Hyper Riseclear |
 | 716 | 307 | stacey |
 | 717 | 306 | Kiorah Blaze |
-| 718 | 305 | MamaBear11 |
-| 719 | 305 | Zany Clusterbuilder |
+| 718 | 305 | Zany Clusterbuilder |
+| 719 | 305 | MamaBear11 |
 | 720 | 305 | Libby Hicks |
 | 721 | 304 | NFLPITMOM |
 | 722 | 304 | James Smith |
@@ -985,7 +985,7 @@
 | 977 | 223 | Sveta Lana |
 | 978 | 223 | Diona Burns |
 | 979 | 223 | Zak Dunn |
-| 980 | 223 | Jess Morrison |
+| 980 | 223 | LegoCarpet |
 | 981 | 223 | Carlos Javier Del Toro |
 | 982 | 223 | Nancy Pohlman |
 | 983 | 223 | Jess Morrison |

@@ -137,14 +137,14 @@
 | 129 | 282 | Timothy Dew |
 | 130 | 280 | Sarah Roberts |
 | 131 | 280 | Jennifer Hardman |
-| 132 | 276 | Dandy Basegrid |
-| 133 | 276 | Goose egg |
+| 132 | 276 | Goose egg |
+| 133 | 276 | Dandy Basegrid |
 | 134 | 274 | Snippy Wipebuilder |
 | 135 | 270 | Ash Galvan |
 | 136 | 268 | GATOR |
 | 137 | 265 | SkipTheSadSauce |
-| 138 | 264 | Jenny Gingrich Fuentes |
-| 139 | 264 | Lexuriuos Lifestlye |
+| 138 | 264 | Lexuriuos Lifestlye |
+| 139 | 264 | Jenny Gingrich Fuentes |
 | 140 | 263 | Sharon Reynolds |
 | 141 | 258 | Virginia Gray Floyd |
 | 142 | 257 | Amanda Jarnagin |

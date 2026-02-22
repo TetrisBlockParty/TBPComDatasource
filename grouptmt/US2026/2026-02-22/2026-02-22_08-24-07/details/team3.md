@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Rachael McClain Owens |
-| 100 | 565 | Patty Allen |
+| 99 | 565 | Patty Allen |
+| 100 | 565 | Rachael McClain Owens |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 327 | Noyb Adam |
@@ -476,9 +476,9 @@
 | 468 | 119 | Everret Maxine |
 | 469 | 118 | Damian Reid |
 | 470 | 118 | Fancy Curver |
-| 471 | 117 | Dee Pratt |
-| 472 | 117 | Anabela Ruiz |
-| 473 | 117 | Rayzer |
+| 471 | 117 | Anabela Ruiz |
+| 472 | 117 | Rayzer |
+| 473 | 117 | Dee Pratt |
 | 474 | 117 | James Lykes |
 | 475 | 116 | Dapper Towerfit |
 | 476 | 116 | Elisha L Allman |

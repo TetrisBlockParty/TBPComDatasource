@@ -97,8 +97,8 @@
 | 89 | 409 | Jolly Dashfit |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
-| 92 | 396 | Amy Suckarieh |
-| 93 | 396 | Alicia Bass |
+| 92 | 396 | Alicia Bass |
+| 93 | 396 | Amy Suckarieh |
 | 94 | 392 | Ericca Eldridge |
 | 95 | 391 | Ramel Rhodes |
 | 96 | 390 | Carlton Unfiltered |
@@ -123,8 +123,8 @@
 | 115 | 303 | Lauren Scott |
 | 116 | 300 | Jason Hart |
 | 117 | 298 | Lucas J Sutton |
-| 118 | 296 | Justin Hannigan |
-| 119 | 296 | HastyGrabber |
+| 118 | 296 | HastyGrabber |
+| 119 | 296 | Justin Hannigan |
 | 120 | 295 | Latisha Davis |
 | 121 | 294 | Kesha Brady |
 | 122 | 290 | 🥔🥔 Spudz |
@@ -133,10 +133,10 @@
 | 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
-| 128 | 278 | Carrie Brian |
-| 129 | 278 | Desi Desporte |
-| 130 | 277 | Mary Ann Pabukis |
-| 131 | 277 | Scott Jameson |
+| 128 | 278 | Desi Desporte |
+| 129 | 278 | Carrie Brian |
+| 130 | 277 | Scott Jameson |
+| 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
 | 134 | 264 | Epic Curvetile |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Melvin Baird |
-| 178 | 201 | Chance Strickland |
+| 177 | 201 | Chance Strickland |
+| 178 | 201 | Melvin Baird |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |
@@ -192,8 +192,8 @@
 | 184 | 195 | ZeeZee |
 | 185 | 194 | Zany Twisterfit |
 | 186 | 192 | Shauna Havard |
-| 187 | 191 | Klo |
-| 188 | 191 | Sam Bishop |
+| 187 | 191 | Sam Bishop |
+| 188 | 191 | Klo |
 | 189 | 190 | Cheery Risebuilder |
 | 190 | 189 | Stacey Stano |
 | 191 | 189 | Calvin Dennis |
