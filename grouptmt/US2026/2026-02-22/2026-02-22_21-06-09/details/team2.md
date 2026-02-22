@@ -179,8 +179,8 @@
 | 171 | 1216 | Nancy Reid |
 | 172 | 1211 | Lucky Ladybug |
 | 173 | 1207 | David Cudicio-Hayden |
-| 174 | 1192 | Ashley House |
-| 175 | 1192 | Denisha Dawkins |
+| 174 | 1192 | Denisha Dawkins |
+| 175 | 1192 | Ashley House |
 | 176 | 1177 | Joyce Johnson Vaughn |
 | 177 | 1174 | Jennifer Casey-Kay |
 | 178 | 1174 | Poppy Snap |
@@ -352,9 +352,9 @@
 | 344 | 737 | Jeremy Parodi |
 | 345 | 737 | Ginger |
 | 346 | 734 | Deborah Miller |
-| 347 | 729 | Aimee Campbell |
-| 348 | 729 | Cassie Mercer |
-| 349 | 729 | Stephanie Lumanlan |
+| 347 | 729 | Stephanie Lumanlan |
+| 348 | 729 | Aimee Campbell |
+| 349 | 729 | Cassie Mercer |
 | 350 | 728 | Dylan Thomason |
 | 351 | 727 | Tom Riefer |
 | 352 | 727 | Doowop40 |

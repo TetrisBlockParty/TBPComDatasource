@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | Erin Thomas |
-| 95 | 513 | YoMomma |
+| 94 | 513 | YoMomma |
+| 95 | 513 | Erin Thomas |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -122,8 +122,8 @@
 | 114 | 440 | Lori Walker |
 | 115 | 439 | shar |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -170,8 +170,8 @@
 | 162 | 307 | Girl |
 | 163 | 307 | TRCuse |
 | 164 | 303 | shark tato |
-| 165 | 301 | Andria Lynn |
-| 166 | 301 | Crystal Nicolette Moore |
+| 165 | 301 | Crystal Nicolette Moore |
+| 166 | 301 | Andria Lynn |
 | 167 | 300 | Dana Scott |
 | 168 | 295 | Cursed Hag |
 | 169 | 294 | Calvin Cannon |
@@ -377,8 +377,8 @@
 | 369 | 145 | Jackie Clark |
 | 370 | 144 | Squeezy Pearsall |
 | 371 | 143 | Groovy Gridlock |
-| 372 | 143 | Daresha Fair |
-| 373 | 143 | Metsfan |
+| 372 | 143 | Metsfan |
+| 373 | 143 | Daresha Fair |
 | 374 | 143 | Asher |
 | 375 | 142 | Alexandra Karavias |
 | 376 | 142 | Funky Risepiece |

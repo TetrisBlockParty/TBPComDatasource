@@ -93,8 +93,8 @@
 | 85 | 836 | Jamie Lang |
 | 86 | 835 | Snappy Glidepiece |
 | 87 | 831 | Angeline Joseph |
-| 88 | 830 | Stephanie Allmon |
-| 89 | 830 | Sarajane Lokan |
+| 88 | 830 | Sarajane Lokan |
+| 89 | 830 | Stephanie Allmon |
 | 90 | 826 | Shane Wilson Jr. |
 | 91 | 811 | Jay Horn |
 | 92 | 800 | Lauren Girouard |
@@ -125,8 +125,8 @@
 | 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Patricia White |
-| 121 | 595 | Giddy Drop |
+| 120 | 595 | Giddy Drop |
+| 121 | 595 | Patricia White |
 | 122 | 587 | JerseyJess |
 | 123 | 585 | opf |
 | 124 | 583 | Karon Griffin |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -169,8 +169,8 @@
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Makelini Mausia |
-| 165 | 464 | Michelle |
+| 164 | 464 | Michelle |
+| 165 | 464 | Makelini Mausia |
 | 166 | 461 | Jone |
 | 167 | 460 | Tasha Gillespie |
 | 168 | 460 | Danielle Allison |
