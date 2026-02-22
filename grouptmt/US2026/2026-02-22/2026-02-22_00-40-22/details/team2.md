@@ -322,13 +322,13 @@
 | 314 | 469 | Ashley Lopez |
 | 315 | 469 | Amélie Cadieux |
 | 316 | 468 | Drwatson187 |
-| 317 | 467 | Dedra Steward |
-| 318 | 467 | Scott Treadway |
+| 317 | 467 | Scott Treadway |
+| 318 | 467 | Dedra Steward |
 | 319 | 463 | Sue Leard |
 | 320 | 460 | Barbra Miller |
 | 321 | 460 | Cody Smith-Candelaria |
-| 322 | 459 | Doowop40 |
-| 323 | 459 | Brainy Smurf |
+| 322 | 459 | Brainy Smurf |
+| 323 | 459 | Doowop40 |
 | 324 | 455 | Shuany Arias |
 | 325 | 454 | Casey Schumacher |
 | 326 | 454 | Nashu |
@@ -342,8 +342,8 @@
 | 334 | 451 | Daphne Jordan |
 | 335 | 451 | Cody Nishimura |
 | 336 | 451 | Dylan Thomason |
-| 337 | 449 | Shelley Thornburgh Wright |
-| 338 | 449 | Davetta Sanford |
+| 337 | 449 | Davetta Sanford |
+| 338 | 449 | Shelley Thornburgh Wright |
 | 339 | 448 | Jojo Momma |
 | 340 | 447 | Heather Schelkopf |
 | 341 | 447 | Lourisha |
@@ -370,8 +370,8 @@
 | 362 | 421 | Vanessa Moreno |
 | 363 | 417 | Sam Joe |
 | 364 | 416 | Lina Sanders |
-| 365 | 414 | Kara Gillen |
-| 366 | 414 | Sabrina Burton |
+| 365 | 414 | Sabrina Burton |
+| 366 | 414 | Kara Gillen |
 | 367 | 414 | Emily Lyric Converse |
 | 368 | 414 | John |
 | 369 | 413 | Brandy Andre |
@@ -685,8 +685,8 @@
 | 677 | 237 | Breezy Tilt |
 | 678 | 237 | Devlin Ogg |
 | 679 | 236 | Julio A Laracuente |
-| 680 | 236 | Ashley Dow |
-| 681 | 236 | Daring Matchfit |
+| 680 | 236 | Daring Matchfit |
+| 681 | 236 | Ashley Dow |
 | 682 | 235 | Prince Ajesh |
 | 683 | 235 | Cool Grabber |
 | 684 | 235 | B-rad B-rad |

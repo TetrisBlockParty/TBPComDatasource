@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Katrina Schroeder |
-| 71 | 582 | Natasha Jones |
+| 70 | 582 | Natasha Jones |
+| 71 | 582 | Katrina Schroeder |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |

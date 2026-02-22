@@ -89,9 +89,9 @@
 | 81 | 318 | Amy Suckarieh |
 | 82 | 311 | David Lay |
 | 83 | 309 | Denise Carlson |
-| 84 | 308 | Livvy |
-| 85 | 308 | Jae Job |
-| 86 | 308 | Jen Allison |
+| 84 | 308 | Jae Job |
+| 85 | 308 | Jen Allison |
+| 86 | 308 | Livvy |
 | 87 | 306 | Lori Walker |
 | 88 | 303 | Lauren Scott |
 | 89 | 300 | Jason Hart |
@@ -113,7 +113,7 @@
 | 105 | 258 | Brittney Orengo |
 | 106 | 257 | Holly Jolly |
 | 107 | 255 | Lindsay Ball |
-| 108 | 230 | Lucas J Sutton |
+| 108 | 230 | Daria Rycewicz |
 | 109 | 230 | Autum Leigh |
 | 110 | 230 | Lucas J Sutton |
 | 111 | 225 | Damn Libra |
@@ -135,8 +135,8 @@
 | 127 | 204 | Jen Caldwell |
 | 128 | 203 | Katherine Crane |
 | 129 | 202 | Monica Daley |
-| 130 | 201 | Swanky Fitline |
-| 131 | 201 | Melvin Baird |
+| 130 | 201 | Melvin Baird |
+| 131 | 201 | Swanky Fitline |
 | 132 | 197 | Peachy Fall |
 | 133 | 196 | Jenna McGeorge |
 | 134 | 196 | Jeff Brian Gates |
@@ -171,9 +171,9 @@
 | 163 | 160 | Carlos Ramirez |
 | 164 | 155 | AyeKay |
 | 165 | 154 | scott |
-| 166 | 153 | Chair |
-| 167 | 153 | Avy Absol |
-| 168 | 153 | Empress Oasis |
+| 166 | 153 | Empress Oasis |
+| 167 | 153 | Chair |
+| 168 | 153 | Avy Absol |
 | 169 | 151 | Bethany Ison |
 | 170 | 149 | Shainne Brewer |
 | 171 | 149 | Megan Cutshaw |

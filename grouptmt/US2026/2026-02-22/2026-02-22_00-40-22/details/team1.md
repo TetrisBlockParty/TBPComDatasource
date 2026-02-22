@@ -83,15 +83,15 @@
 | 75 | 333 | Brandi Huntington |
 | 76 | 328 | Kellie |
 | 77 | 328 | Gracie |
-| 78 | 323 | Candy Jones |
-| 79 | 323 | Sweet Baker |
+| 78 | 323 | Sweet Baker |
+| 79 | 323 | Candy Jones |
 | 80 | 320 | Luciano Moreira |
 | 81 | 319 | Deanna L Hermanson |
 | 82 | 318 | Dee Perry |
 | 83 | 311 | Maria C. Hernandez |
 | 84 | 310 | Seth Wesson |
-| 85 | 305 | Plucky Ziggy |
-| 86 | 305 | Patrick Luckenbill |
+| 85 | 305 | Patrick Luckenbill |
+| 86 | 305 | Plucky Ziggy |
 | 87 | 304 | Nicole Roseberry Weber |
 | 88 | 303 | Tanya Carpenter-Reynolds |
 | 89 | 301 | Hyper |
@@ -147,8 +147,8 @@
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Sweetts |
-| 143 | 190 | Thorne Shumate |
+| 142 | 190 | Thorne Shumate |
+| 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Jennifer Olewnik Soborowski |
@@ -188,8 +188,8 @@
 | 180 | 156 | Shanae Grant |
 | 181 | 154 | Christy Jones |
 | 182 | 153 | ALFD |
-| 183 | 152 | Speedy Snapfall |
-| 184 | 152 | Jacqueline Unique |
+| 183 | 152 | Jacqueline Unique |
+| 184 | 152 | Speedy Snapfall |
 | 185 | 150 | Adele Rahman |
 | 186 | 148 | Shauntina Burke |
 | 187 | 148 | Bouncy Grid |
