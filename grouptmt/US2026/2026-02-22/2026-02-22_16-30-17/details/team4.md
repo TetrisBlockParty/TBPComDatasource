@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -706,7 +706,7 @@
 | 698 | 62 | Matt Rawls |
 | 699 | 62 | Nicole Silvers |
 | 700 | 62 | Jaycool |
-| 701 | 62 | Nicole Silvers |
+| 701 | 62 | Bussy Bay |
 | 702 | 62 | Smiley Staggerpiece |
 | 703 | 61 | Mbeth Moore |
 | 704 | 61 | Rachel Nicole |

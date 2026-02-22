@@ -206,8 +206,8 @@
 | 198 | 993 | Eric Carlson |
 | 199 | 992 | Ashley Rose Frederick |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Desiree Harris Rosch |
-| 202 | 989 | Teddi Notyalc |
+| 201 | 989 | Teddi Notyalc |
+| 202 | 989 | Desiree Harris Rosch |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -231,8 +231,8 @@
 | 223 | 919 | Joshua Mandel |
 | 224 | 919 | Isaac Trappiel IV |
 | 225 | 916 | Butta |
-| 226 | 915 | Angela Bonquiqui Dinish |
-| 227 | 915 | Robin Kerby |
+| 226 | 915 | Robin Kerby |
+| 227 | 915 | Angela Bonquiqui Dinish |
 | 228 | 915 | Kelly Trent |
 | 229 | 910 | Shuany Arias |
 | 230 | 907 | Gene Mills |
@@ -798,8 +798,8 @@
 | 790 | 314 | Amanda West |
 | 791 | 314 | Tyler C. Jung |
 | 792 | 313 | Donald Nowland |
-| 793 | 313 | Marina Linda |
-| 794 | 313 | Natasha Edmonds |
+| 793 | 313 | Natasha Edmonds |
+| 794 | 313 | Marina Linda |
 | 795 | 312 | Heather Renee Jeffers |
 | 796 | 312 | Kiorah Blaze |
 | 797 | 312 | Brave Gridpiece |

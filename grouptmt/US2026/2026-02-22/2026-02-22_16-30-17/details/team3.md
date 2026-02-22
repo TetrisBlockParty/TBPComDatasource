@@ -233,8 +233,8 @@
 | 225 | 312 | Charles Perrone |
 | 226 | 308 | Rania Zaqout |
 | 227 | 307 | rnr junky |
-| 228 | 307 | Marci Mize Fandrich |
-| 229 | 307 | Blocked |
+| 228 | 307 | Blocked |
+| 229 | 307 | Marci Mize Fandrich |
 | 230 | 305 | Rebecca Bailey |
 | 231 | 301 | Betty Rosas |
 | 232 | 300 | Sherika C. McDaniels |
@@ -298,8 +298,8 @@
 | 290 | 239 | Michael Johnson |
 | 291 | 238 | Niki Dalrymple |
 | 292 | 236 | Angela Scott |
-| 293 | 236 | Jess Bissett |
-| 294 | 236 | Lys |
+| 293 | 236 | Lys |
+| 294 | 236 | Jess Bissett |
 | 295 | 233 | Tony Waters |
 | 296 | 232 | Donna |
 | 297 | 230 | BigE |
@@ -388,8 +388,8 @@
 | 380 | 185 | Frilly Stackzone |
 | 381 | 184 | Shanon R Jackson |
 | 382 | 184 | Salena Whitlock |
-| 383 | 182 | Kevin Russell |
-| 384 | 182 | gremicx |
+| 383 | 182 | gremicx |
+| 384 | 182 | Kevin Russell |
 | 385 | 181 | Denita Mungro |
 | 386 | 180 | Ava Petito |
 | 387 | 180 | Beth Ingham |
