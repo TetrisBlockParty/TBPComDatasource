@@ -93,8 +93,8 @@
 | 85 | 400 | Cynthia Bradley |
 | 86 | 399 | Nerdy Linkblock |
 | 87 | 397 | Tdub |
-| 88 | 390 | Goose egg |
-| 89 | 390 | Lori Bales |
+| 88 | 390 | Lori Bales |
+| 89 | 390 | Goose egg |
 | 90 | 390 | Candy Jones |
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
@@ -166,8 +166,8 @@
 | 158 | 253 | Witty Builderfit |
 | 159 | 252 | Dena Kayy |
 | 160 | 247 | Tana |
-| 161 | 246 | Mike Ames |
-| 162 | 246 | Lakeisha Chapman |
+| 161 | 246 | Lakeisha Chapman |
+| 162 | 246 | Mike Ames |
 | 163 | 244 | Marianita Garcia |
 | 164 | 243 | Trippy Redd |
 | 165 | 242 | ALFD |
@@ -213,10 +213,10 @@
 | 205 | 200 | Flashy Rotator |
 | 206 | 200 | DaRascal |
 | 207 | 199 | Alenoush Karimian |
-| 208 | 198 | Shiny Gridmatch |
-| 209 | 198 | Happy Snapbuild |
-| 210 | 195 | Jennifer Olewnik Soborowski |
-| 211 | 195 | Bindi |
+| 208 | 198 | Happy Snapbuild |
+| 209 | 198 | Shiny Gridmatch |
+| 210 | 195 | Bindi |
+| 211 | 195 | Jennifer Olewnik Soborowski |
 | 212 | 194 | Christy Jones |
 | 213 | 193 | Lachelle Dillon |
 | 214 | 193 | Michael |
@@ -231,7 +231,7 @@
 | 223 | 187 | GringaLinga |
 | 224 | 187 | Amanda Johnson Huffman |
 | 225 | 187 | Cool Towerzone |
-| 226 | 187 | Amanda Johnson Huffman |
+| 226 | 187 | Jessica Weed |
 | 227 | 186 | Margo Wagner |
 | 228 | 184 | Eddie Dillon |
 | 229 | 184 | Chris Sigurdson |
@@ -332,8 +332,8 @@
 | 324 | 133 | MommaKFC |
 | 325 | 132 | Layzietyme |
 | 326 | 132 | John Kim |
-| 327 | 131 | Plucky Wrecker |
-| 328 | 131 | Dizzy Riseclear |
+| 327 | 131 | Dizzy Riseclear |
+| 328 | 131 | Plucky Wrecker |
 | 329 | 130 | Carl Claunch |
 | 330 | 129 | Madison Wicks |
 | 331 | 129 | Sherri E Woods Hess |

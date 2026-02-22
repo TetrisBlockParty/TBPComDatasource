@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -157,7 +157,7 @@
 | 149 | 264 | Girl |
 | 150 | 262 | Holly Jolly |
 | 151 | 262 | Joeliecea Cobb |
-| 152 | 262 | Holly Jolly |
+| 152 | 262 | Alan George LaRage |
 | 153 | 258 | Bio Nelly |
 | 154 | 257 | Twisty Clicky |
 | 155 | 256 | Mylo Lipscomb |
@@ -171,10 +171,10 @@
 | 163 | 242 | J-Rizzle |
 | 164 | 240 | Peachy Fall |
 | 165 | 232 | Crystal Nicolette Moore |
-| 166 | 230 | Autum Leigh |
-| 167 | 230 | Cursed Hag |
-| 168 | 227 | Alyssa Papen |
-| 169 | 227 | Swanky Fitline |
+| 166 | 230 | Cursed Hag |
+| 167 | 230 | Autum Leigh |
+| 168 | 227 | Swanky Fitline |
+| 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |
 | 172 | 221 | PurpleMoonMa |
@@ -183,8 +183,8 @@
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -252,8 +252,8 @@
 | 244 | 162 | John Brunetti |
 | 245 | 160 | Ellen Durfee |
 | 246 | 160 | Brittany Marsh |
-| 247 | 159 | Marcus Todd |
-| 248 | 159 | DonMega |
+| 247 | 159 | DonMega |
+| 248 | 159 | Marcus Todd |
 | 249 | 158 | Chair |
 | 250 | 157 | scott |
 | 251 | 157 | Paige Kittles |
@@ -433,18 +433,18 @@
 | 425 | 98 | Brenda Bird |
 | 426 | 98 | Morti |
 | 427 | 97 | Brandon Crabbs |
-| 428 | 97 | Cool Gridzone |
-| 429 | 97 | Serena Butter |
+| 428 | 97 | Serena Butter |
+| 429 | 97 | Cool Gridzone |
 | 430 | 96 | Rebecca Blake |
 | 431 | 95 | Chirpy Slammer |
 | 432 | 95 | Susan Williams |
 | 433 | 95 | Chummy Towerzone |
 | 434 | 95 | Jobadia Steelerton |
 | 435 | 95 | RedBoots82 |
-| 436 | 94 | Jeff Roberts |
+| 436 | 94 | Ahleek Mitchell |
 | 437 | 94 | Adawna Swires |
-| 438 | 94 | Lee Silpe |
-| 439 | 94 | Ahleek Mitchell |
+| 438 | 94 | Jeff Roberts |
+| 439 | 94 | Lee Silpe |
 | 440 | 93 | Mousey406 |
 | 441 | 93 | Matt Gooder |
 | 442 | 92 | Krash |
@@ -496,8 +496,8 @@
 | 488 | 84 | Beth Helms |
 | 489 | 83 | Dottie Falco |
 | 490 | 83 | Groovy Brickmatch |
-| 491 | 82 | Oleg Zakharskiy |
-| 492 | 82 | Stacy Jones |
+| 491 | 82 | Stacy Jones |
+| 492 | 82 | Oleg Zakharskiy |
 | 493 | 82 | Kimberlee Jan Beckstead |
 | 494 | 81 | Megan Boyce |
 | 495 | 81 | Robert Rangel |

@@ -110,8 +110,8 @@
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
 | 104 | 566 | Dolores Falco |
-| 105 | 565 | Patty Allen |
-| 106 | 565 | Rachael McClain Owens |
+| 105 | 565 | Rachael McClain Owens |
+| 106 | 565 | Patty Allen |
 | 107 | 562 | Louise Stacy Sisson |
 | 108 | 562 | Dave Herzog |
 | 109 | 559 | Morgan Martinez |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Mcathen |
-| 161 | 399 | Marcie Bressler |
+| 160 | 399 | Marcie Bressler |
+| 161 | 399 | Mcathen |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |

@@ -138,8 +138,8 @@
 | 130 | 1273 | Cool Rollpiece |
 | 131 | 1265 | Katrina Williams Balmir |
 | 132 | 1257 | Eileen Hale |
-| 133 | 1248 | Howard Forest |
-| 134 | 1248 | Isabela Shaw |
+| 133 | 1248 | Isabela Shaw |
+| 134 | 1248 | Howard Forest |
 | 135 | 1242 | Altamirano Michael |
 | 136 | 1232 | Groovy Puzzle |
 | 137 | 1226 | Vo'Landa Reels |
@@ -303,8 +303,8 @@
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Jennifer Casey-Kay |
-| 299 | 692 | Dannette Goldberg-Richards |
+| 298 | 692 | Dannette Goldberg-Richards |
+| 299 | 692 | Jennifer Casey-Kay |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Joshua Mandel |
@@ -720,7 +720,7 @@
 | 712 | 323 | Briana Alexander |
 | 713 | 322 | Lea Stewart |
 | 714 | 322 | Michelle Pike |
-| 715 | 322 | Lea Stewart |
+| 715 | 322 | Christina Jarvis-Swarbrick |
 | 716 | 321 | Samantha Scibelli |
 | 717 | 321 | Tamara Bailey |
 | 718 | 321 | Ashley Criner |
@@ -739,14 +739,14 @@
 | 731 | 314 | Christina Walker |
 | 732 | 313 | Britney M. |
 | 733 | 313 | Snippy Block |
-| 734 | 313 | Natasha Edmonds |
-| 735 | 313 | Marina Linda |
+| 734 | 313 | Marina Linda |
+| 735 | 313 | Natasha Edmonds |
 | 736 | 312 | Heather Renee Jeffers |
 | 737 | 312 | Sassy Linkbuilder |
-| 738 | 311 | Kelsey Sullivan |
-| 739 | 311 | Megan Phillips |
-| 740 | 311 | Audra Williams |
-| 741 | 311 | SwifftFox |
+| 738 | 311 | Megan Phillips |
+| 739 | 311 | Kelsey Sullivan |
+| 740 | 311 | SwifftFox |
+| 741 | 311 | Audra Williams |
 | 742 | 310 | Beth Decker |
 | 743 | 310 | Wendy Ducheney |
 | 744 | 310 | Cheeky Brickmatch |
@@ -771,8 +771,8 @@
 | 763 | 302 | Kena T. Tanner |
 | 764 | 302 | Maxwell Escalera |
 | 765 | 300 | Alice Ball |
-| 766 | 300 | Kacee Conrad Bock |
-| 767 | 300 | Warren Marleau |
+| 766 | 300 | Warren Marleau |
+| 767 | 300 | Kacee Conrad Bock |
 | 768 | 299 | Cassie Newton |
 | 769 | 298 | Frilly Fallzone |
 | 770 | 298 | Ryan Stadel |
@@ -860,8 +860,8 @@
 | 852 | 273 | Jennifer Aiken |
 | 853 | 272 | Gina Justbeingme Chillis |
 | 854 | 272 | Witty Piecebuilder |
-| 855 | 271 | Michelle Ettrick |
-| 856 | 271 | Pam Doughty |
+| 855 | 271 | Pam Doughty |
+| 856 | 271 | Michelle Ettrick |
 | 857 | 271 | Shalisa Hill |
 | 858 | 271 | Beverly Hodge |
 | 859 | 271 | Amber N Koepp |
@@ -1101,8 +1101,8 @@
 | 1093 | 213 | Hannah Leigh Pelofsky |
 | 1094 | 213 | Cynthia Knox |
 | 1095 | 213 | Janai Vrabel |
-| 1096 | 212 | Sarah Dean |
-| 1097 | 212 | Denelle Wendt-Ramalho |
+| 1096 | 212 | Denelle Wendt-Ramalho |
+| 1097 | 212 | Sarah Dean |
 | 1098 | 212 | JP Parks |
 | 1099 | 212 | Sassy Linkroll |
 | 1100 | 212 | Crafty Brickline |
@@ -1240,8 +1240,8 @@
 | 1232 | 190 | Katie Marie |
 | 1233 | 190 | Miyah Erraina |
 | 1234 | 189 | Meme Didit |
-| 1235 | 189 | Billy Quinn |
-| 1236 | 189 | Sharon Crawford |
+| 1235 | 189 | Sharon Crawford |
+| 1236 | 189 | Billy Quinn |
 | 1237 | 189 | Hazel Spears |
 | 1238 | 189 | Nate Skidmore |
 | 1239 | 189 | Nick Spring |
@@ -1511,7 +1511,7 @@
 | 1503 | 158 | Ryley Laughlin |
 | 1504 | 158 | Sammy Bear |
 | 1505 | 158 | Brian Wood |
-| 1506 | 158 | Sammy Bear |
+| 1506 | 158 | MauroPRM |
 | 1507 | 158 | Jesse Lassandro |
 | 1508 | 158 | April Ann |
 | 1509 | 158 | Adelina Roth |
