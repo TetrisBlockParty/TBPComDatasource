@@ -260,9 +260,9 @@
 | 252 | 119 | Gwendolyn Pitcairn |
 | 253 | 116 | Maureen Flanigan |
 | 254 | 116 | Adam Stephanie Parker |
-| 255 | 115 | Nubian1 |
+| 255 | 115 | Alexandra Karavias |
 | 256 | 115 | Jayk |
-| 257 | 115 | Alexandra Karavias |
+| 257 | 115 | Nubian1 |
 | 258 | 114 | PennyCandee |
 | 259 | 113 | Adam Randall |
 | 260 | 113 | Dandy Cascadefit |

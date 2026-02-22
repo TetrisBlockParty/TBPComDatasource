@@ -142,8 +142,8 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Sherry Ogden |
-| 138 | 355 | Tessina Dewey-Mancino |
+| 137 | 355 | Tessina Dewey-Mancino |
+| 138 | 355 | Sherry Ogden |
 | 139 | 348 | CeceGeGe |
 | 140 | 347 | Darlene McMillan |
 | 141 | 347 | Nicole Flippo |
@@ -227,8 +227,8 @@
 | 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Jessica |
-| 223 | 207 | Chris Bell |
+| 222 | 207 | Chris Bell |
+| 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Aerian Preston |
 | 226 | 204 | Danielle Allison |
@@ -244,8 +244,8 @@
 | 236 | 194 | Demetrious Shaw Sr. |
 | 237 | 194 | Raven Dudley |
 | 238 | 193 | Hyper Matchzone |
-| 239 | 193 | Stephanie Burtin |
-| 240 | 193 | Clever Shiftsnap |
+| 239 | 193 | Clever Shiftsnap |
+| 240 | 193 | Stephanie Burtin |
 | 241 | 192 | Kelly Ann Child |
 | 242 | 191 | Scott Carleton |
 | 243 | 189 | Katie Leigh Blankenship |

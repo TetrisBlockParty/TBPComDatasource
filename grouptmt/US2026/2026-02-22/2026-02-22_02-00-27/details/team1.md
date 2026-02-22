@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Kellie |
@@ -90,8 +90,8 @@
 | 82 | 323 | Candy Jones |
 | 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Shauna Loe |
-| 86 | 319 | Deanna L Hermanson |
+| 85 | 319 | Deanna L Hermanson |
+| 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 305 | Patrick Luckenbill |
@@ -122,8 +122,8 @@
 | 114 | 252 | Dena Kayy |
 | 115 | 249 | Elaine Elaine |
 | 116 | 244 | Franswa |
-| 117 | 243 | Chelsea Dahlquist |
-| 118 | 243 | Trippy Redd |
+| 117 | 243 | Trippy Redd |
+| 118 | 243 | Chelsea Dahlquist |
 | 119 | 241 | John J. Cronin |
 | 120 | 240 | Tana |
 | 121 | 240 | Lexuriuos Lifestlye |
@@ -165,8 +165,8 @@
 | 157 | 186 | Michael |
 | 158 | 185 | Basment Living |
 | 159 | 184 | Bouncy Grid |
-| 160 | 180 | BigWeenie69 |
-| 161 | 180 | Erez Yosef |
+| 160 | 180 | Erez Yosef |
+| 161 | 180 | BigWeenie69 |
 | 162 | 179 | femmefatale |
 | 163 | 179 | Danielle Little-Daugherty |
 | 164 | 178 | Chad Atchley |
@@ -218,8 +218,8 @@
 | 210 | 141 | Dino |
 | 211 | 139 | Flashy Rotator |
 | 212 | 138 | Mark Smith |
-| 213 | 137 | Marci Sanders |
-| 214 | 137 | Witty Builderfit |
+| 213 | 137 | Witty Builderfit |
+| 214 | 137 | Marci Sanders |
 | 215 | 137 | Cody Gates |
 | 216 | 136 | Tavia |
 | 217 | 136 | Breanna Luna |
@@ -240,7 +240,7 @@
 | 232 | 129 | Jessica Russell |
 | 233 | 128 | Brenda Alexander |
 | 234 | 128 | Desiree Deschaine Havee |
-| 235 | 128 | Brenda Alexander |
+| 235 | 128 | Alyssa Ingram |
 | 236 | 126 | Tami Luce Martin |
 | 237 | 125 | Melissa Bires Hussar |
 | 238 | 124 | Alenoush Karimian |
@@ -281,9 +281,9 @@
 | 273 | 108 | Dizzy Party |
 | 274 | 108 | Nathan Sealander |
 | 275 | 108 | Owicked1 |
-| 276 | 108 | Dizzy Party |
-| 277 | 107 | Meechie |
-| 278 | 107 | MIKOZ |
+| 276 | 108 | Teddy Alexander |
+| 277 | 107 | MIKOZ |
+| 278 | 107 | Meechie |
 | 279 | 106 | Bloknboy |
 | 280 | 105 | Eddie Dillon |
 | 281 | 105 | Brad MG |
