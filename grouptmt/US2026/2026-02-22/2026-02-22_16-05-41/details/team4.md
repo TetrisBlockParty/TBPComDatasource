@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Avy Absol |
-| 71 | 608 | Savannah Overdorf |
+| 70 | 608 | Savannah Overdorf |
+| 71 | 608 | Avy Absol |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | Desi Desporte |
-| 127 | 332 | HastyGrabber |
+| 126 | 332 | HastyGrabber |
+| 127 | 332 | Desi Desporte |
 | 128 | 332 | Twisty Clicky |
 | 129 | 330 | David Lay |
 | 130 | 329 | Jessica Bohlken |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -207,8 +207,8 @@
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
-| 202 | 213 | Sarah Neathery |
-| 203 | 213 | Jason Allen |
+| 202 | 213 | Jason Allen |
+| 203 | 213 | Sarah Neathery |
 | 204 | 212 | Mike Solo |
 | 205 | 212 | Joanna |
 | 206 | 211 | Jenna McGeorge |
@@ -236,8 +236,8 @@
 | 228 | 197 | Silly SeaWeed |
 | 229 | 197 | Gilles Lanctot |
 | 230 | 196 | Mr. Party |
-| 231 | 195 | Malakai Darien Fox |
-| 232 | 195 | 中山成巳 |
+| 231 | 195 | 中山成巳 |
+| 232 | 195 | Malakai Darien Fox |
 | 233 | 194 | Zany Twisterfit |
 | 234 | 193 | Rio Rocha |
 | 235 | 192 | Shauna Havard |
@@ -260,8 +260,8 @@
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Lorena Guerrero-Barron |
-| 255 | 171 | Autumn Kumzi |
-| 256 | 171 | June Hoffman |
+| 255 | 171 | June Hoffman |
+| 256 | 171 | Autumn Kumzi |
 | 257 | 170 | Elie Pean |
 | 258 | 168 | 23 |
 | 259 | 167 | Cozy Balancer |
@@ -344,8 +344,8 @@
 | 336 | 136 | Michelle Morris |
 | 337 | 135 | Vanessa Smart |
 | 338 | 135 | Joshua Guess |
-| 339 | 134 | Duck |
-| 340 | 134 | Marvetta Williams |
+| 339 | 134 | Marvetta Williams |
+| 340 | 134 | Duck |
 | 341 | 133 | Jesus Garcia |
 | 342 | 132 | Adam Randall |
 | 343 | 132 | Melissa Priest Sellers |

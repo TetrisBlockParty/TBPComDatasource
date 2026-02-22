@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | Desiree Deschaine Havee |
-| 189 | 235 | MRdot Rooski |
+| 188 | 235 | MRdot Rooski |
+| 189 | 235 | Desiree Deschaine Havee |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -212,8 +212,8 @@
 | 204 | 219 | Chuck Gannon |
 | 205 | 218 | LC |
 | 206 | 216 | Shauntina Burke |
-| 207 | 215 | Standia Civil |
-| 208 | 215 | Shaykmia |
+| 207 | 215 | Shaykmia |
+| 208 | 215 | Standia Civil |
 | 209 | 215 | Panda Thagreat |
 | 210 | 213 | Shanae Grant |
 | 211 | 213 | Michael |

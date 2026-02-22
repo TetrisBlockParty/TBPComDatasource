@@ -379,8 +379,8 @@
 | 371 | 616 | Cassie Mercer |
 | 372 | 613 | Ellie Jonas |
 | 373 | 613 | Caitlyn Blackwell |
-| 374 | 611 | Julio A Laracuente |
-| 375 | 611 | Carl Bradshaw |
+| 374 | 611 | Carl Bradshaw |
+| 375 | 611 | Julio A Laracuente |
 | 376 | 611 | Em Chen |
 | 377 | 606 | Brittney Jean |
 | 378 | 603 | Cassie Maynard |
@@ -395,8 +395,8 @@
 | 387 | 589 | Shavonna Haynes |
 | 388 | 586 | Heather Schelkopf |
 | 389 | 584 | Eckoman518 |
-| 390 | 584 | Kimberly Randesi |
-| 391 | 584 | Ginnell Browner |
+| 390 | 584 | Ginnell Browner |
+| 391 | 584 | Kimberly Randesi |
 | 392 | 583 | Jackie Avila |
 | 393 | 581 | Jerry Tempelmeyer |
 | 394 | 581 | Angie Marie |
@@ -441,10 +441,10 @@
 | 433 | 532 | Lylymom |
 | 434 | 531 | Aishah Brice |
 | 435 | 529 | Ben Barkley |
-| 436 | 528 | Sparkles |
-| 437 | 528 | Anita Rose Green |
-| 438 | 527 | Ryan Gunther |
-| 439 | 527 | Osun Anuket Esu |
+| 436 | 528 | Anita Rose Green |
+| 437 | 528 | Sparkles |
+| 438 | 527 | Osun Anuket Esu |
+| 439 | 527 | Ryan Gunther |
 | 440 | 526 | Sheronda Jackson |
 | 441 | 525 | Joseph Musick |
 | 442 | 524 | Lonne Emade |
@@ -482,8 +482,8 @@
 | 474 | 495 | Bubbly Snapbuild |
 | 475 | 494 | Leah |
 | 476 | 494 | Venita Ray |
-| 477 | 493 | Sue Leard |
-| 478 | 493 | Sarah DeHart |
+| 477 | 493 | Sarah DeHart |
+| 478 | 493 | Sue Leard |
 | 479 | 492 | Breezy Clusterer |
 | 480 | 492 | Armonie Smith |
 | 481 | 492 | Maya June |
@@ -508,9 +508,9 @@
 | 500 | 476 | Kiana Boschh |
 | 501 | 475 | Michelle Lee |
 | 502 | 474 | Calandra Shaya Robinson |
-| 503 | 473 | coleksquad |
+| 503 | 473 | Wuntayk |
 | 504 | 473 | Sam |
-| 505 | 473 | Wuntayk |
+| 505 | 473 | coleksquad |
 | 506 | 473 | Tracy Wise |
 | 507 | 472 | Arwa Fatimah |
 | 508 | 472 | KayLynn Ogden McClelland |
@@ -553,8 +553,8 @@
 | 545 | 447 | Boozi |
 | 546 | 447 | Besma Ao |
 | 547 | 445 | Sharon Mills |
-| 548 | 445 | Mar Q Thomas |
-| 549 | 445 | Elisheva Mizrachi |
+| 548 | 445 | Elisheva Mizrachi |
+| 549 | 445 | Mar Q Thomas |
 | 550 | 444 | Chab |
 | 551 | 444 | Fi Ne |
 | 552 | 444 | Ryan Meilleur |
@@ -577,8 +577,8 @@
 | 569 | 429 | Tabs Reichert |
 | 570 | 428 | Lynda Toland |
 | 571 | 428 | Shyenn Gadsby |
-| 572 | 427 | Sabrina Burton |
-| 573 | 427 | Destiny Cozier |
+| 572 | 427 | Destiny Cozier |
+| 573 | 427 | Sabrina Burton |
 | 574 | 426 | De Hawkins |
 | 575 | 426 | Ashley Dow |
 | 576 | 424 | Lina Sanders |
@@ -805,8 +805,8 @@
 | 797 | 309 | Byung Bae Park |
 | 798 | 309 | Daniell Martinez |
 | 799 | 308 | Hyper Riseclear |
-| 800 | 308 | Claire |
-| 801 | 308 | Kristina Marie Hanna |
+| 800 | 308 | Kristina Marie Hanna |
+| 801 | 308 | Claire |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
 | 804 | 305 | Epic Fitzone |
@@ -818,8 +818,8 @@
 | 810 | 303 | Amanda Schaffer |
 | 811 | 303 | Devin |
 | 812 | 303 | Alyssia Tancredi |
-| 813 | 302 | Epic Stackbuilder |
-| 814 | 302 | Kena T. Tanner |
+| 813 | 302 | Kena T. Tanner |
+| 814 | 302 | Epic Stackbuilder |
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |
@@ -936,8 +936,8 @@
 | 928 | 270 | Nat |
 | 929 | 269 | Kamilya Rembert |
 | 930 | 269 | Queen |
-| 931 | 268 | Sassy Linkroll |
-| 932 | 268 | Man of Steel |
+| 931 | 268 | Man of Steel |
+| 932 | 268 | Sassy Linkroll |
 | 933 | 268 | Chummy Breaker |
 | 934 | 267 | Candace Cece Joseph |
 | 935 | 267 | Sarah Dean |

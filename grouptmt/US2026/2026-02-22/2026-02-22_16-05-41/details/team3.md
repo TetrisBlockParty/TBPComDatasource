@@ -140,8 +140,8 @@
 | 132 | 492 | Daira Largen |
 | 133 | 491 | Chauntee Alfrey-Cardinale |
 | 134 | 480 | Stephanie Blkpep Davidson |
-| 135 | 479 | Patti Skiles |
-| 136 | 479 | Poppy Splitter |
+| 135 | 479 | Poppy Splitter |
+| 136 | 479 | Patti Skiles |
 | 137 | 478 | CeceGeGe |
 | 138 | 476 | Mary Pellegrino |
 | 139 | 474 | Annie Marie |
@@ -187,8 +187,8 @@
 | 179 | 384 | Dapper Snap |
 | 180 | 382 | Scott Carleton |
 | 181 | 380 | Tasha Schriewer |
-| 182 | 378 | Chris Bell |
-| 183 | 378 | Nicole Flippo |
+| 182 | 378 | Nicole Flippo |
+| 183 | 378 | Chris Bell |
 | 184 | 376 | Loopy Clusterer |
 | 185 | 375 | rosy |
 | 186 | 374 | Sherry Ogden |
@@ -747,9 +747,9 @@
 | 739 | 95 | JustLessie |
 | 740 | 94 | lydynred |
 | 741 | 94 | Quteeonduty |
-| 742 | 94 | Christina Rotz Shows |
+| 742 | 94 | lashanda |
 | 743 | 94 | Jalissa Monique |
-| 744 | 94 | lashanda |
+| 744 | 94 | Christina Rotz Shows |
 | 745 | 94 | Tommy Proctor |
 | 746 | 93 | Shiny Tiltgrid |
 | 747 | 93 | Marie Thomas |
