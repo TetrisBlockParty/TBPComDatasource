@@ -132,8 +132,8 @@
 | 124 | 240 | Tana |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
-| 127 | 230 | Billie Dawn Sparks |
-| 128 | 230 | Frothy Pattern |
+| 127 | 230 | Frothy Pattern |
+| 128 | 230 | Billie Dawn Sparks |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
 | 131 | 226 | Kandae |
@@ -141,8 +141,8 @@
 | 133 | 216 | Shauntina Burke |
 | 134 | 216 | MRdot Rooski |
 | 135 | 214 | GATOR |
-| 136 | 212 | Jaimie Lynn |
-| 137 | 212 | Lori Bales |
+| 136 | 212 | Lori Bales |
+| 137 | 212 | Jaimie Lynn |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -200,8 +200,8 @@
 | 192 | 163 | Tyler Whitley |
 | 193 | 162 | Cece Ibarra |
 | 194 | 161 | SavageBooty98 |
-| 195 | 160 | Tedashi |
-| 196 | 160 | David Miller |
+| 195 | 160 | David Miller |
+| 196 | 160 | Tedashi |
 | 197 | 159 | Bindi |
 | 198 | 158 | Sarah Marie |
 | 199 | 154 | Melissa Lemmon |
@@ -249,9 +249,9 @@
 | 241 | 128 | Brenda Alexander |
 | 242 | 126 | Tami Luce Martin |
 | 243 | 125 | Melissa Bires Hussar |
-| 244 | 124 | Howdi Duty |
+| 244 | 124 | Alenoush Karimian |
 | 245 | 124 | Rodney Schmerfeld |
-| 246 | 124 | Alenoush Karimian |
+| 246 | 124 | Howdi Duty |
 | 247 | 123 | Zany Tiler |
 | 248 | 122 | Nate Funk |
 | 249 | 121 | Jacob Shaddock |
@@ -266,8 +266,8 @@
 | 258 | 117 | Jerry Danowski |
 | 259 | 117 | Chantelle Ceno |
 | 260 | 116 | Fresno Beotoni |
-| 261 | 115 | Chuck Gannon |
-| 262 | 115 | Mrs.Patrica |
+| 261 | 115 | Mrs.Patrica |
+| 262 | 115 | Chuck Gannon |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
 | 265 | 112 | Crystal Joslin |

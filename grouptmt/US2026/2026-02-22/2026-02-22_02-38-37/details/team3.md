@@ -79,8 +79,8 @@
 | 71 | 613 | Amber Hughes |
 | 72 | 604 | Danielle Becker |
 | 73 | 588 | yoyo |
-| 74 | 582 | Jay Horn |
-| 75 | 582 | Natasha Jones |
+| 74 | 582 | Natasha Jones |
+| 75 | 582 | Jay Horn |
 | 76 | 582 | Katrina Schroeder |
 | 77 | 581 | Danielle Mogg |
 | 78 | 580 | Amanda L Baker |
@@ -334,8 +334,8 @@
 | 326 | 142 | Erica Anderson |
 | 327 | 142 | Jl |
 | 328 | 142 | Gray Hicks |
-| 329 | 141 | Weerae |
-| 330 | 141 | Melissa Snyder |
+| 329 | 141 | Melissa Snyder |
+| 330 | 141 | Weerae |
 | 331 | 140 | Linda Draper |
 | 332 | 138 | sofaking |
 | 333 | 138 | Pam Holt Powell |
@@ -355,8 +355,8 @@
 | 347 | 132 | Hanna Kim |
 | 348 | 131 | Cheeky Snapper |
 | 349 | 131 | Beppy |
-| 350 | 130 | TotoCherue |
-| 351 | 130 | Karen Picaboo |
+| 350 | 130 | Karen Picaboo |
+| 351 | 130 | TotoCherue |
 | 352 | 130 | Chummy Caster |
 | 353 | 129 | Danielle Weikel |
 | 354 | 129 | luluraine |
