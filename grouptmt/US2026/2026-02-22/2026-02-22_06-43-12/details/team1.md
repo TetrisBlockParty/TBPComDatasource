@@ -123,8 +123,8 @@
 | 115 | 292 | Kristen Gideon |
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
-| 118 | 286 | Ly Phethmany |
-| 119 | 286 | Arianna O'Brien |
+| 118 | 286 | Arianna O'Brien |
+| 119 | 286 | Ly Phethmany |
 | 120 | 285 | Ananda Mendez |
 | 121 | 284 | Emily Adelaide Wheatley |
 | 122 | 284 | Rachael |
@@ -177,8 +177,8 @@
 | 169 | 206 | BadG52 |
 | 170 | 205 | Tater |
 | 171 | 204 | Lacy Wolfe |
-| 172 | 203 | Paula Martin |
-| 173 | 203 | LaFontaine Leslie |
+| 172 | 203 | LaFontaine Leslie |
+| 173 | 203 | Paula Martin |
 | 174 | 201 | Sam Williams |
 | 175 | 199 | Basment Living |
 | 176 | 198 | Happy Snapbuild |

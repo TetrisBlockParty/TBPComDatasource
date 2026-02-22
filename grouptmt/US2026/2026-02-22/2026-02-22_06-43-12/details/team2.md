@@ -318,8 +318,8 @@
 | 310 | 627 | Allan Wayne Lamia |
 | 311 | 627 | Victoria Moore-Smith |
 | 312 | 619 | Jánine Riggs |
-| 313 | 617 | Leslie Ann Carter |
-| 314 | 617 | tejas25 |
+| 313 | 617 | tejas25 |
+| 314 | 617 | Leslie Ann Carter |
 | 315 | 615 | Brandon Armstrong |
 | 316 | 613 | Ellie Jonas |
 | 317 | 611 | Julio A Laracuente |
@@ -460,20 +460,20 @@
 | 452 | 440 | Liberty |
 | 453 | 440 | Sarah Berger |
 | 454 | 440 | Snippy Rumbler |
-| 455 | 437 | Arwa Fatimah |
-| 456 | 437 | Bubbly Snapfit |
+| 455 | 437 | Bubbly Snapfit |
+| 456 | 437 | Arwa Fatimah |
 | 457 | 435 | Regina Young |
 | 458 | 433 | KayLynn Ogden McClelland |
 | 459 | 432 | Lucy Marshall |
 | 460 | 430 | Jackie Lucas |
 | 461 | 430 | Gloria Ininahazwe |
-| 462 | 429 | Christy Krissie |
-| 463 | 429 | Rhonda Milstead |
+| 462 | 429 | Rhonda Milstead |
+| 463 | 429 | Christy Krissie |
 | 464 | 428 | Arkei Luster |
 | 465 | 428 | Shyenn Gadsby |
 | 466 | 427 | Kori Beth Babb |
-| 467 | 427 | Destiny Cozier |
-| 468 | 427 | Quinn |
+| 467 | 427 | Quinn |
+| 468 | 427 | Destiny Cozier |
 | 469 | 426 | Niceday |
 | 470 | 425 | Skyler Morgan |
 | 471 | 424 | Johnny Yeates |
