@@ -154,8 +154,8 @@
 | 146 | 1450 | Cody Smith-Candelaria |
 | 147 | 1418 | L3sli3 |
 | 148 | 1416 | Nancy Reid |
-| 149 | 1411 | Zappy Cascade |
-| 150 | 1411 | niecy |
+| 149 | 1411 | niecy |
+| 150 | 1411 | Zappy Cascade |
 | 151 | 1401 | Brandy Andre |
 | 152 | 1401 | Nett |
 | 153 | 1397 | Bussyiano Page |
@@ -859,8 +859,8 @@
 | 851 | 348 | SpaceCase085 |
 | 852 | 347 | Zesty Pivot |
 | 853 | 347 | Ethan Stienbarger |
-| 854 | 346 | Zappy Dropmatch |
-| 855 | 346 | bru |
+| 854 | 346 | bru |
+| 855 | 346 | Zappy Dropmatch |
 | 856 | 346 | Luke Califf |
 | 857 | 345 | Jennie Lee Huntley |
 | 858 | 345 | Rhianna DiLorenzo |

@@ -78,8 +78,8 @@
 | 70 | 966 | Nate Burnside |
 | 71 | 964 | Jennifer |
 | 72 | 945 | Christian A. Pollard |
-| 73 | 926 | Angela M. Fletcher |
-| 74 | 926 | Judi Dobson |
+| 73 | 926 | Judi Dobson |
+| 74 | 926 | Angela M. Fletcher |
 | 75 | 924 | Shonna Roberts |
 | 76 | 913 | Christine Filson |
 | 77 | 909 | Rosalie Call Kehlenbeck |
@@ -113,8 +113,8 @@
 | 105 | 733 | mzcatzy |
 | 106 | 723 | Mandy Smith Oldham |
 | 107 | 720 | Raya |
-| 108 | 716 | Kristie |
-| 109 | 716 | Calista Jo Dickson |
+| 108 | 716 | Calista Jo Dickson |
+| 109 | 716 | Kristie |
 | 110 | 715 | Keith J Oshman Jr. |
 | 111 | 713 | Speedy Bridger |
 | 112 | 712 | Katrina Schroeder |
@@ -175,17 +175,17 @@
 | 167 | 484 | Dapper Snap |
 | 168 | 479 | Poppy Splitter |
 | 169 | 475 | Tessina Dewey-Mancino |
-| 170 | 471 | Rachel |
-| 171 | 471 | Mendoza Lee Christy |
+| 170 | 471 | Mendoza Lee Christy |
+| 171 | 471 | Rachel |
 | 172 | 470 | Logan Naccarato |
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
 | 175 | 465 | Tasha Schriewer |
-| 176 | 464 | Makelini Mausia |
-| 177 | 464 | Michelle |
+| 176 | 464 | Michelle |
+| 177 | 464 | Makelini Mausia |
 | 178 | 461 | Shunta Jacobs |
-| 179 | 460 | Danielle Allison |
-| 180 | 460 | Araceli Parra |
+| 179 | 460 | Araceli Parra |
+| 180 | 460 | Danielle Allison |
 | 181 | 458 | FuzzyNavel |
 | 182 | 458 | Danielle Rhoades |
 | 183 | 457 | Shannon Matthew Byers |
@@ -286,9 +286,9 @@
 | 278 | 299 | Ray Lader |
 | 279 | 299 | Angie Harper |
 | 280 | 298 | Grams |
-| 281 | 297 | Jojo M |
-| 282 | 297 | Cheeky Snapper |
-| 283 | 297 | kacihall |
+| 281 | 297 | Cheeky Snapper |
+| 282 | 297 | kacihall |
+| 283 | 297 | Jojo M |
 | 284 | 296 | Hoppy Buildout |
 | 285 | 294 | Tasha Wesson-Torrence |
 | 286 | 294 | fraulila |
@@ -468,8 +468,8 @@
 | 460 | 189 | Katie Leigh Blankenship |
 | 461 | 187 | Sabrina Mansfield |
 | 462 | 185 | Funky Jumper |
-| 463 | 184 | Shanon R Jackson |
-| 464 | 184 | Cheeky Setter |
+| 463 | 184 | Cheeky Setter |
+| 464 | 184 | Shanon R Jackson |
 | 465 | 183 | Smiley Zone |
 | 466 | 182 | Alicia |
 | 467 | 182 | Johnathan Dowe |

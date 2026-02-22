@@ -97,8 +97,8 @@
 | 89 | 584 | Dawn Alexander |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -109,8 +109,8 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | Alyssa Papen |
 | 108 | 487 | shar |
@@ -217,11 +217,11 @@
 | 209 | 267 | Holly |
 | 210 | 267 | Kathy Brookins |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | scott |
-| 213 | 261 | Dihcheese444 |
+| 212 | 261 | Dihcheese444 |
+| 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | PeaceOs |
-| 216 | 257 | Cheery Risebuilder |
+| 215 | 257 | Cheery Risebuilder |
+| 216 | 257 | PeaceOs |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -239,8 +239,8 @@
 | 231 | 241 | Allen Lloyd |
 | 232 | 241 | JPW |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Zesty Twistbuilder |
-| 235 | 238 | Chaz |
+| 234 | 238 | Chaz |
+| 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
 | 238 | 230 | Jade Rian |
@@ -250,8 +250,8 @@
 | 242 | 225 | Perky Patternblock |
 | 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
-| 245 | 221 | Rheanda Weaskus |
-| 246 | 221 | PurpleMoonMa |
+| 245 | 221 | PurpleMoonMa |
+| 246 | 221 | Rheanda Weaskus |
 | 247 | 220 | Chair |
 | 248 | 220 | Joanna |
 | 249 | 219 | Lori |
@@ -299,11 +299,11 @@
 | 291 | 189 | wombat |
 | 292 | 187 | Nita Wells |
 | 293 | 187 | Cynthia Boudreau |
-| 294 | 186 | June Hoffman |
-| 295 | 186 | Lauren Lamb |
-| 296 | 185 | Nubian1 |
-| 297 | 185 | Morti |
-| 298 | 185 | Laura Hosford |
+| 294 | 186 | Lauren Lamb |
+| 295 | 186 | June Hoffman |
+| 296 | 185 | Morti |
+| 297 | 185 | Laura Hosford |
+| 298 | 185 | Nubian1 |
 | 299 | 184 | Pee |
 | 300 | 183 | KayM |
 | 301 | 183 | Twisty Risebuilder |

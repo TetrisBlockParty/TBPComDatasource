@@ -209,8 +209,8 @@
 | 201 | 270 | Mandyy Rae |
 | 202 | 269 | Amanda Jarnagin |
 | 203 | 268 | Reesey Enyart |
-| 204 | 267 | Debbie Kane |
-| 205 | 267 | Cody Gates |
+| 204 | 267 | Cody Gates |
+| 205 | 267 | Debbie Kane |
 | 206 | 266 | BadG52 |
 | 207 | 265 | Kandae |
 | 208 | 264 | Jenny Gingrich Fuentes |
@@ -220,8 +220,8 @@
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Chris65 |
 | 214 | 255 | Speedy Liney |
-| 215 | 254 | Al Smith Jr |
-| 216 | 254 | Giggly Builderline |
+| 215 | 254 | Giggly Builderline |
+| 216 | 254 | Al Smith Jr |
 | 217 | 253 | Jamie Jury |
 | 218 | 252 | Dena Kayy |
 | 219 | 249 | Sam Williams |
@@ -235,8 +235,8 @@
 | 227 | 244 | LaFontaine Leslie |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
-| 230 | 240 | DaRascal |
-| 231 | 240 | Daring Fitclear |
+| 230 | 240 | Daring Fitclear |
+| 231 | 240 | DaRascal |
 | 232 | 239 | Lacy Wolfe |
 | 233 | 238 | Sarah Somers Gray |
 | 234 | 238 | Tiffany Smith |
@@ -281,8 +281,8 @@
 | 273 | 207 | Alenoush Karimian |
 | 274 | 207 | Leslie Bush Yarbrough |
 | 275 | 205 | Tyler L Hunt |
-| 276 | 204 | Mel Hogan |
-| 277 | 204 | Chris Sigurdson |
+| 276 | 204 | Chris Sigurdson |
+| 277 | 204 | Mel Hogan |
 | 278 | 203 | Spunky Builderpiece |
 | 279 | 203 | Andrew Boone |
 | 280 | 202 | Amanda Holibaugh |
