@@ -74,8 +74,8 @@
 | 66 | 486 | Landon Keith Graffeo |
 | 67 | 483 | Carmethia Clemons Haslerig |
 | 68 | 466 | Dawn Alexander |
-| 69 | 447 | Samantha Peterson |
-| 70 | 447 | TeeJ |
+| 69 | 447 | TeeJ |
+| 70 | 447 | Samantha Peterson |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
@@ -157,8 +157,8 @@
 | 149 | 205 | Kathy Brookins |
 | 150 | 205 | Sarah Neathery |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Chris Bernstein |
-| 153 | 203 | Katherine Crane |
+| 152 | 203 | Katherine Crane |
+| 153 | 203 | Chris Bernstein |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |
@@ -176,8 +176,8 @@
 | 168 | 185 | Andy Cabral |
 | 169 | 185 | Lori |
 | 170 | 184 | Ak Jones |
-| 171 | 181 | Carter Jones |
-| 172 | 181 | Klo |
+| 171 | 181 | Klo |
+| 172 | 181 | Carter Jones |
 | 173 | 180 | Orchislactea |
 | 174 | 179 | blockstar |
 | 175 | 176 | Zethra Prenisha Rahming |
@@ -198,9 +198,9 @@
 | 190 | 155 | AyeKay |
 | 191 | 154 | scott |
 | 192 | 153 | Empress Oasis |
-| 193 | 152 | Faja |
-| 194 | 152 | Austin Owens |
-| 195 | 152 | John Brunetti |
+| 193 | 152 | Austin Owens |
+| 194 | 152 | John Brunetti |
+| 195 | 152 | Faja |
 | 196 | 151 | Bethany Ison |
 | 197 | 150 | Rio Rocha |
 | 198 | 149 | Megan Cutshaw |

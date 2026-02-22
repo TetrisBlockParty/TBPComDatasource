@@ -131,8 +131,8 @@
 | 123 | 252 | Dena Kayy |
 | 124 | 247 | Tana |
 | 125 | 246 | Jenny Gingrich Fuentes |
-| 126 | 243 | Chelsea Dahlquist |
-| 127 | 243 | Trippy Redd |
+| 126 | 243 | Trippy Redd |
+| 127 | 243 | Chelsea Dahlquist |
 | 128 | 241 | John J. Cronin |
 | 129 | 240 | Jennifer Hardman |
 | 130 | 236 | Mandyy Rae |
@@ -160,8 +160,8 @@
 | 152 | 201 | Sleepysloath5745 |
 | 153 | 200 | Ash Galvan |
 | 154 | 199 | Basment Living |
-| 155 | 198 | Happy Snapbuild |
-| 156 | 198 | Shiny Gridmatch |
+| 155 | 198 | Shiny Gridmatch |
+| 156 | 198 | Happy Snapbuild |
 | 157 | 195 | Daring Fitclear |
 | 158 | 194 | Tyler Werts |
 | 159 | 193 | Lachelle Dillon |
@@ -169,10 +169,10 @@
 | 161 | 192 | Shaykmia |
 | 162 | 192 | Christy Jones |
 | 163 | 191 | Diane Byrd |
-| 164 | 190 | Sweetts |
-| 165 | 190 | Thorne Shumate |
-| 166 | 189 | Michael |
-| 167 | 189 | Jeanna Dunn |
+| 164 | 190 | Thorne Shumate |
+| 165 | 190 | Sweetts |
+| 166 | 189 | Jeanna Dunn |
+| 167 | 189 | Michael |
 | 168 | 188 | Sam Williams |
 | 169 | 187 | Jennifer Olewnik Soborowski |
 | 170 | 187 | Snippy Wipebuilder |

@@ -142,8 +142,8 @@
 | 134 | 1051 | Shandrica Lowe |
 | 135 | 1048 | PsychKIRAtrist |
 | 136 | 1047 | Amy Sayers |
-| 137 | 1043 | Suki Kaur |
-| 138 | 1043 | Brave Dropmatch |
+| 137 | 1043 | Brave Dropmatch |
+| 138 | 1043 | Suki Kaur |
 | 139 | 1032 | Sarah Freitas |
 | 140 | 1023 | Brainy Smurf |
 | 141 | 1020 | Jumpy Gridpiece |
@@ -561,8 +561,8 @@
 | 553 | 345 | Rhianna DiLorenzo |
 | 554 | 345 | Frisky Clearpiece |
 | 555 | 345 | Gina Caulder |
-| 556 | 344 | Glenn Cobbins |
-| 557 | 344 | Tra Barnum |
+| 556 | 344 | Tra Barnum |
+| 557 | 344 | Glenn Cobbins |
 | 558 | 343 | Peppy Snapfall |
 | 559 | 343 | Kia Humphery |
 | 560 | 342 | Angi Harrison |

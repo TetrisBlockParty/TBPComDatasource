@@ -126,12 +126,12 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Blkpep Davidson |
-| 122 | 410 | Stephanie Simpson |
+| 121 | 410 | Stephanie Simpson |
+| 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
-| 125 | 403 | Scott Lindsay |
-| 126 | 403 | Christine Filson |
+| 125 | 403 | Christine Filson |
+| 126 | 403 | Scott Lindsay |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
 | 129 | 399 | ren |
@@ -179,8 +179,8 @@
 | 171 | 307 | Giddy Twistbuilder |
 | 172 | 300 | Sherika C. McDaniels |
 | 173 | 298 | MsBee |
-| 174 | 295 | Jim Mathews |
-| 175 | 295 | RickyG |
+| 174 | 295 | RickyG |
+| 175 | 295 | Jim Mathews |
 | 176 | 293 | Marci Mize Fandrich |
 | 177 | 291 | Daryn Elliott |
 | 178 | 289 | Duane Bright |
