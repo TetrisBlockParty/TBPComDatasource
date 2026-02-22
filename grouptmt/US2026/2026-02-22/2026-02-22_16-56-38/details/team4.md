@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 823 | Jae Job |
@@ -144,8 +144,8 @@
 | 136 | 319 | Guy Incognito |
 | 137 | 318 | Lauren Scott |
 | 138 | 314 | Andy Cabral |
-| 139 | 307 | Bio Nelly |
-| 140 | 307 | Angela Srubar-Norman |
+| 139 | 307 | Angela Srubar-Norman |
+| 140 | 307 | Bio Nelly |
 | 141 | 300 | Jason Hart |
 | 142 | 300 | Dana Scott |
 | 143 | 299 | TRCuse |
@@ -421,7 +421,7 @@
 | 413 | 116 | Funky Risepiece |
 | 414 | 115 | Alexandra Karavias |
 | 415 | 115 | Susan Williams |
-| 416 | 115 | Kujuanna Hammon |
+| 416 | 115 | Jayk |
 | 417 | 115 | Kevin Bush |
 | 418 | 115 | Kujuanna Hammon |
 | 419 | 114 | Rosemary Foster |
@@ -504,8 +504,8 @@
 | 496 | 93 | Mousey406 |
 | 497 | 93 | Megan Boyce |
 | 498 | 93 | Tyler Bechtel |
-| 499 | 92 | Frilly Blocky |
-| 500 | 92 | RogueRebel |
+| 499 | 92 | RogueRebel |
+| 500 | 92 | Frilly Blocky |
 | 501 | 92 | Krash |
 | 502 | 91 | Kametsunoyaiba |
 | 503 | 90 | Ernest Maxwell |
