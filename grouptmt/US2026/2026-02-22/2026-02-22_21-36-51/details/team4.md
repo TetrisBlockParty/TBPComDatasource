@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -203,8 +203,8 @@
 | 195 | 267 | Kathy Brookins |
 | 196 | 266 | Laura |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Joeliecea Cobb |
-| 199 | 262 | Holly Jolly |
+| 198 | 262 | Holly Jolly |
+| 199 | 262 | Joeliecea Cobb |
 | 200 | 261 | scott |
 | 201 | 259 | Swanky Fitline |
 | 202 | 259 | Melvin Baird |
@@ -245,8 +245,8 @@
 | 237 | 220 | Joanna |
 | 238 | 220 | Chair |
 | 239 | 219 | Dizzy Matchzone |
-| 240 | 219 | Malakai Darien Fox |
-| 241 | 219 | BigSammy420 |
+| 240 | 219 | BigSammy420 |
+| 241 | 219 | Malakai Darien Fox |
 | 242 | 218 | Lori |
 | 243 | 216 | Chance Strickland |
 | 244 | 216 | ZeeZee |

@@ -231,8 +231,8 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Rebecca Funderburk Kirby |
-| 227 | 351 | Eon Harris |
+| 226 | 351 | Eon Harris |
+| 227 | 351 | Rebecca Funderburk Kirby |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
@@ -323,7 +323,7 @@
 | 315 | 258 | IamJust Neyamijah Washington Sr. |
 | 316 | 256 | KayB |
 | 317 | 254 | Geoffrey Nash |
-| 318 | 254 | Hoppy Patternline |
+| 318 | 254 | Sharisse Baltimore |
 | 319 | 254 | Desiree Gold |
 | 320 | 254 | Hoppy Patternline |
 | 321 | 253 | Lizabeth Fox |
@@ -343,8 +343,8 @@
 | 335 | 238 | Fancy Curver |
 | 336 | 238 | Niki Dalrymple |
 | 337 | 237 | Jennifer Alvey |
-| 338 | 236 | Lys |
-| 339 | 236 | Jess Bissett |
+| 338 | 236 | Jess Bissett |
+| 339 | 236 | Lys |
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 234 | Samantha Worley |
 | 342 | 233 | Tony Waters |
@@ -549,9 +549,9 @@
 | 541 | 155 | Breanna Marsden |
 | 542 | 155 | Nichol Graham |
 | 543 | 155 | Jonathn Poindexter |
-| 544 | 155 | Nichol Graham |
-| 545 | 154 | Jolly Dashpiece |
-| 546 | 154 | Crystal Johnson |
+| 544 | 155 | Autumn Phillimore |
+| 545 | 154 | Crystal Johnson |
+| 546 | 154 | Jolly Dashpiece |
 | 547 | 154 | Fredd Thomas |
 | 548 | 153 | Jada Cox |
 | 549 | 153 | Tracey Cox |
