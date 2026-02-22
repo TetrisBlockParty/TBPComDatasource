@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -160,8 +160,8 @@
 | 152 | 239 | Jessica Lynn Cutlip |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Swanky Fitline |
 | 159 | 227 | Alyssa Papen |
@@ -187,8 +187,8 @@
 | 179 | 204 | Jen Caldwell |
 | 180 | 203 | Katherine Crane |
 | 181 | 202 | TRCuse |
-| 182 | 201 | Melvin Baird |
-| 183 | 201 | Chance Strickland |
+| 182 | 201 | Chance Strickland |
+| 183 | 201 | Melvin Baird |
 | 184 | 200 | Laura |
 | 185 | 199 | Zethra Prenisha Rahming |
 | 186 | 198 | Ruben Wheeler |
@@ -233,12 +233,12 @@
 | 225 | 162 | Joanna |
 | 226 | 162 | John Brunetti |
 | 227 | 161 | Jenny Wells-Oakley |
-| 228 | 160 | Brittany Marsh |
-| 229 | 160 | Laura Hosford |
+| 228 | 160 | Laura Hosford |
+| 229 | 160 | Brittany Marsh |
 | 230 | 159 | Marcus Todd |
-| 231 | 158 | Avy Absol |
-| 232 | 158 | Chair |
-| 233 | 157 | Paige Kittles |
+| 231 | 158 | Chair |
+| 232 | 158 | Avy Absol |
+| 233 | 157 | KayM |
 | 234 | 157 | scott |
 | 235 | 157 | Bethany Ison |
 | 236 | 157 | Paige Kittles |
@@ -531,7 +531,7 @@
 | 523 | 71 | Mary Miller |
 | 524 | 71 | Nikisha Reed |
 | 525 | 71 | Manny1 |
-| 526 | 71 | BlockBabe |
+| 526 | 71 | Val Erie |
 | 527 | 71 | Speedy Wipeblock |
 | 528 | 71 | Cool Gridzone |
 | 529 | 71 | Earnest Thompson |

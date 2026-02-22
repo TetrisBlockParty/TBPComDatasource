@@ -499,8 +499,8 @@
 | 491 | 440 | Victoria Regina Girolami |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
-| 494 | 436 | Niceday |
-| 495 | 436 | Brenda Pierpoint |
+| 494 | 436 | Brenda Pierpoint |
+| 495 | 436 | Niceday |
 | 496 | 435 | Regina Young |
 | 497 | 435 | James Louie |
 | 498 | 433 | KayLynn Ogden McClelland |
@@ -923,8 +923,8 @@
 | 915 | 248 | Angelina Marie |
 | 916 | 248 | CleverAngel |
 | 917 | 247 | Linda Miltenburg |
-| 918 | 247 | Karyn Yurcho Dooley |
-| 919 | 247 | Wizz |
+| 918 | 247 | Wizz |
+| 919 | 247 | Karyn Yurcho Dooley |
 | 920 | 246 | Stacey Tranchida |
 | 921 | 246 | Laura McConnell |
 | 922 | 245 | Mellissa Evans |

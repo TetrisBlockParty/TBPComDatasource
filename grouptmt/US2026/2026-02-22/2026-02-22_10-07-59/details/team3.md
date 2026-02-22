@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Rachael McClain Owens |
-| 104 | 565 | Patty Allen |
+| 103 | 565 | Patty Allen |
+| 104 | 565 | Rachael McClain Owens |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -222,8 +222,8 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Hoppy Buildout |
-| 218 | 289 | Duane Bright |
+| 217 | 289 | Duane Bright |
+| 218 | 289 | Hoppy Buildout |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
 | 221 | 283 | Charles Perrone |
@@ -286,8 +286,8 @@
 | 278 | 220 | rosy |
 | 279 | 220 | Tosha Griffey |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Twisty Brick LT |
-| 282 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Rebel124 |
