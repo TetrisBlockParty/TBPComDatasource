@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Timothy Dew |
 | 149 | 282 | Dandy Basegrid |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Erez Yosef |
-| 198 | 223 | Basment Living |
+| 197 | 223 | Basment Living |
+| 198 | 223 | Erez Yosef |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
 | 201 | 221 | And |
@@ -304,8 +304,8 @@
 | 296 | 163 | Tyler Whitley |
 | 297 | 163 | Blaire Bruckoff |
 | 298 | 163 | .running. |
-| 299 | 162 | Strig |
-| 300 | 162 | Pauline Cortez |
+| 299 | 162 | Pauline Cortez |
+| 300 | 162 | Strig |
 | 301 | 161 | SavageBooty98 |
 | 302 | 160 | Tedashi |
 | 303 | 160 | Plucky Stacky |

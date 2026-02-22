@@ -217,8 +217,8 @@
 | 209 | 332 | Rich LeBlanc |
 | 210 | 330 | Rebecca Funderburk Kirby |
 | 211 | 330 | Danielle Balcom |
-| 212 | 324 | Sissy Lowery Davis |
-| 213 | 324 | Kristal C Lee |
+| 212 | 324 | Kristal C Lee |
+| 213 | 324 | Sissy Lowery Davis |
 | 214 | 323 | Demetrious Shaw Sr. |
 | 215 | 320 | Ashley Muncey |
 | 216 | 320 | Keis |
@@ -291,12 +291,12 @@
 | 283 | 244 | LaNette Morgan |
 | 284 | 244 | Christian Werndl |
 | 285 | 243 | Foltz Lee Kelli |
-| 286 | 241 | France Vézina |
-| 287 | 241 | LaShey Thompson |
+| 286 | 241 | LaShey Thompson |
+| 287 | 241 | France Vézina |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
-| 290 | 236 | Lys |
-| 291 | 236 | Jess Bissett |
+| 290 | 236 | Jess Bissett |
+| 291 | 236 | Lys |
 | 292 | 236 | Angela Scott |
 | 293 | 233 | Josh Borquez |
 | 294 | 233 | Tony Waters |
@@ -320,8 +320,8 @@
 | 312 | 216 | Frothy Snapper |
 | 313 | 216 | Tina Smith Roy |
 | 314 | 216 | Cheryl Hinch Tenbrook |
-| 315 | 214 | Lizabeth Fox |
-| 316 | 214 | Randy Clevenger |
+| 315 | 214 | Randy Clevenger |
+| 316 | 214 | Lizabeth Fox |
 | 317 | 214 | Jennifer Alvey |
 | 318 | 214 | Amy Fuller Heaton |
 | 319 | 213 | Nicholas Roddy |

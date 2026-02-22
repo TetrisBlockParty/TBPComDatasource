@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -68,8 +68,8 @@
 | 60 | 664 | Valerie Roberts |
 | 61 | 659 | Jonathan Kimbrough |
 | 62 | 658 | loulou |
-| 63 | 654 | Chilly Line |
-| 64 | 654 | Kimyatta Cavin |
+| 63 | 654 | Kimyatta Cavin |
+| 64 | 654 | Chilly Line |
 | 65 | 647 | KM8 |
 | 66 | 646 | Jacqueline Helm |
 | 67 | 644 | Alicia Bass |
@@ -169,8 +169,8 @@
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Kathy Brookins |
 | 163 | 267 | Damn Libra |
-| 164 | 265 | Chris Bernstein |
-| 165 | 265 | Jeff Brian Gates |
+| 164 | 265 | Jeff Brian Gates |
+| 165 | 265 | Chris Bernstein |
 | 166 | 264 | Girl |
 | 167 | 264 | Epic Curvetile |
 | 168 | 262 | Joeliecea Cobb |
@@ -261,8 +261,8 @@
 | 253 | 179 | AyeKay |
 | 254 | 176 | Trista Leah |
 | 255 | 175 | Lorena Guerrero-Barron |
-| 256 | 171 | Autumn Kumzi |
-| 257 | 171 | June Hoffman |
+| 256 | 171 | June Hoffman |
+| 257 | 171 | Autumn Kumzi |
 | 258 | 170 | Elie Pean |
 | 259 | 168 | 23 |
 | 260 | 167 | Cozy Balancer |
@@ -344,8 +344,8 @@
 | 336 | 136 | Michelle Morris |
 | 337 | 135 | Vanessa Smart |
 | 338 | 135 | Joshua Guess |
-| 339 | 134 | Duck |
-| 340 | 134 | Marvetta Williams |
+| 339 | 134 | Marvetta Williams |
+| 340 | 134 | Duck |
 | 341 | 133 | Jesus Garcia |
 | 342 | 132 | Adam Randall |
 | 343 | 132 | Melissa Priest Sellers |

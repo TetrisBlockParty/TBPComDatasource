@@ -214,9 +214,9 @@
 | 206 | 973 | Kim Dean |
 | 207 | 972 | Juliana Marques Do Nascimento Gordy |
 | 208 | 960 | Jennifer Kistner |
-| 209 | 957 | Crystal Hoffman |
+| 209 | 957 | Block Master |
 | 210 | 957 | Keri Womack |
-| 211 | 957 | Block Master |
+| 211 | 957 | Crystal Hoffman |
 | 212 | 954 | Shannon Joslin |
 | 213 | 951 | Cynthia Ward |
 | 214 | 950 | Teresa Gillmore |
@@ -320,8 +320,8 @@
 | 312 | 715 | Stephanie Lumanlan |
 | 313 | 713 | Chelle |
 | 314 | 711 | Melissa Holsinger |
-| 315 | 704 | Jánine Riggs |
-| 316 | 704 | Shelley Thornburgh Wright |
+| 315 | 704 | Shelley Thornburgh Wright |
+| 316 | 704 | Jánine Riggs |
 | 317 | 703 | Gold Rose |
 | 318 | 700 | Hong Tang |
 | 319 | 700 | Vincent Petrella |
@@ -358,12 +358,12 @@
 | 350 | 661 | BeQuo |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
-| 353 | 650 | Amber Brion |
-| 354 | 650 | Shiny Rollzone |
+| 353 | 650 | Shiny Rollzone |
+| 354 | 650 | Amber Brion |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | BYM4L |
-| 358 | 640 | Kara Gillen |
+| 357 | 640 | Kara Gillen |
+| 358 | 640 | BYM4L |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 633 | Breezy Filler |
@@ -773,17 +773,17 @@
 | 765 | 322 | Christina Jarvis-Swarbrick |
 | 766 | 322 | Lea Stewart |
 | 767 | 321 | Aireka Roman |
-| 768 | 321 | Tamara Bailey |
-| 769 | 321 | Ashley Criner |
-| 770 | 320 | Peachy Blockbuilder |
-| 771 | 320 | Tash Bell |
+| 768 | 321 | Ashley Criner |
+| 769 | 321 | Tamara Bailey |
+| 770 | 320 | Tash Bell |
+| 771 | 320 | Peachy Blockbuilder |
 | 772 | 320 | Mary Boss |
 | 773 | 319 | Cassie Newton |
 | 774 | 319 | RetroLemur |
 | 775 | 319 | Cheery Puzzler |
 | 776 | 318 | Jennifer Mahon |
-| 777 | 317 | Zombi3 |
-| 778 | 317 | Ashlyn Berner |
+| 777 | 317 | Ashlyn Berner |
+| 778 | 317 | Zombi3 |
 | 779 | 317 | Jumpy Gridclear |
 | 780 | 316 | Epic Spinfit |
 | 781 | 315 | MamaBear11 |
@@ -798,11 +798,11 @@
 | 790 | 313 | Natasha Edmonds |
 | 791 | 312 | Heather Renee Jeffers |
 | 792 | 312 | Kiorah Blaze |
-| 793 | 311 | Audra Williams |
-| 794 | 311 | SwifftFox |
+| 793 | 311 | SwifftFox |
+| 794 | 311 | Audra Williams |
 | 795 | 311 | Megan Phillips |
-| 796 | 310 | Cheeky Brickmatch |
-| 797 | 310 | Wendy Ducheney |
+| 796 | 310 | Wendy Ducheney |
+| 797 | 310 | Cheeky Brickmatch |
 | 798 | 310 | Cozy Drop |
 | 799 | 310 | Bee |
 | 800 | 309 | Byung Bae Park |
