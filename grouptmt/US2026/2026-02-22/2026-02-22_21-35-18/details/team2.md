@@ -167,8 +167,8 @@
 | 159 | 1300 | Tacara Cummings |
 | 160 | 1296 | Kristin Ruest |
 | 161 | 1286 | Altamirano Michael |
-| 162 | 1282 | Tanya Parsons |
-| 163 | 1282 | Ashley Rose Frederick |
+| 162 | 1282 | Ashley Rose Frederick |
+| 163 | 1282 | Tanya Parsons |
 | 164 | 1271 | Shandrica Lowe |
 | 165 | 1266 | Auntie B |
 | 166 | 1265 | Isabela Shaw |
@@ -228,8 +228,8 @@
 | 220 | 1039 | Moose Griffith |
 | 221 | 1036 | Allison Lockyer |
 | 222 | 1034 | Amber Shoemaker |
-| 223 | 1024 | Desiree Anderson |
-| 224 | 1024 | Taylor Phillips |
+| 223 | 1024 | Taylor Phillips |
+| 224 | 1024 | Desiree Anderson |
 | 225 | 1022 | Shannon Joslin |
 | 226 | 1020 | Eric Carlson |
 | 227 | 1016 | Jodi Blake |
@@ -259,8 +259,8 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Joshua Mandel |
-| 255 | 919 | Isaac Trappiel IV |
+| 254 | 919 | Isaac Trappiel IV |
+| 255 | 919 | Joshua Mandel |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
@@ -418,8 +418,8 @@
 | 410 | 642 | Cassie Maynard |
 | 411 | 642 | Arkei Luster |
 | 412 | 640 | BYM4L |
-| 413 | 639 | Rebecca Miller |
-| 414 | 639 | Steven Marshaun |
+| 413 | 639 | Steven Marshaun |
+| 414 | 639 | Rebecca Miller |
 | 415 | 636 | Victoria Moore-Smith |
 | 416 | 635 | Dennis McLaurin |
 | 417 | 630 | Brittney Jean |
@@ -709,9 +709,9 @@
 | 701 | 398 | Angela Murgia-Owen |
 | 702 | 396 | Cassie Newton |
 | 703 | 396 | Candy Pitts |
-| 704 | 396 | Cassie Newton |
-| 705 | 395 | Susan Arnburg |
-| 706 | 395 | Vung Nguyen |
+| 704 | 396 | Julie Hamilton |
+| 705 | 395 | Vung Nguyen |
+| 706 | 395 | Susan Arnburg |
 | 707 | 394 | Christina Jarvis-Swarbrick |
 | 708 | 393 | Misti Markijohn |
 | 709 | 393 | Anastacio Hernandez |
@@ -1880,7 +1880,7 @@
 | 1872 | 165 | Leandra Obermeyer |
 | 1873 | 165 | Katlin Davenport |
 | 1874 | 165 | Tiny |
-| 1875 | 165 | frenchfry |
+| 1875 | 165 | Rasheed Cannon |
 | 1876 | 165 | Ash Mabrey |
 | 1877 | 165 | frenchfry |
 | 1878 | 165 | Emmmz |

@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Rachel Anne |
-| 57 | 751 | Jason Allen |
+| 56 | 751 | Jason Allen |
+| 57 | 751 | Rachel Anne |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 605 | Lisa Davis |
 | 81 | 597 | Eric Mcgaughy |
@@ -100,7 +100,7 @@
 | 92 | 539 | Chris Baggett |
 | 93 | 533 | Samantha Peterson |
 | 94 | 519 | Nugget |
-| 95 | 513 | Judy Cox |
+| 95 | 513 | Erin Thomas |
 | 96 | 513 | YoMomma |
 | 97 | 513 | Judy Cox |
 | 98 | 512 | Casey Jeffcoat |
@@ -122,8 +122,8 @@
 | 114 | 452 | shar |
 | 115 | 448 | Kristin Manee |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -153,8 +153,8 @@
 | 145 | 333 | Twisty Cascadezone |
 | 146 | 332 | HastyGrabber |
 | 147 | 332 | Desi Desporte |
-| 148 | 328 | Leslie Nicole |
-| 149 | 328 | Kris Bartlett |
+| 148 | 328 | Kris Bartlett |
+| 149 | 328 | Leslie Nicole |
 | 150 | 328 | Brandon Crabbs |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
@@ -203,8 +203,8 @@
 | 195 | 267 | Chris Bernstein |
 | 196 | 266 | Laura |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Joeliecea Cobb |
-| 199 | 262 | Holly Jolly |
+| 198 | 262 | Holly Jolly |
+| 199 | 262 | Joeliecea Cobb |
 | 200 | 261 | scott |
 | 201 | 259 | Swanky Fitline |
 | 202 | 259 | Melvin Baird |
@@ -237,8 +237,8 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Perky Patternblock |
-| 233 | 225 | Jenna McGeorge |
+| 232 | 225 | Jenna McGeorge |
+| 233 | 225 | Perky Patternblock |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | Rheanda Weaskus |
 | 236 | 221 | PurpleMoonMa |

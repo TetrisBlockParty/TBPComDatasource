@@ -231,8 +231,8 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Rebecca Funderburk Kirby |
-| 227 | 351 | Eon Harris |
+| 226 | 351 | Eon Harris |
+| 227 | 351 | Rebecca Funderburk Kirby |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
@@ -304,7 +304,7 @@
 | 296 | 275 | Cassandra Bryant |
 | 297 | 273 | Dannie Litchard |
 | 298 | 273 | Troy |
-| 299 | 271 | Aerian Preston |
+| 299 | 271 | Cass Mendoza |
 | 300 | 271 | Grego Daniel |
 | 301 | 271 | Aerian Preston |
 | 302 | 269 | Brenda Schmid Wood |
@@ -343,8 +343,8 @@
 | 335 | 238 | Niki Dalrymple |
 | 336 | 238 | Fancy Curver |
 | 337 | 237 | Jennifer Alvey |
-| 338 | 236 | Jess Bissett |
-| 339 | 236 | Lys |
+| 338 | 236 | Lys |
+| 339 | 236 | Jess Bissett |
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 234 | Samantha Worley |
 | 342 | 233 | Tony Waters |
