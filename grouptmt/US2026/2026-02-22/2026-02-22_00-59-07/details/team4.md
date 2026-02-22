@@ -139,8 +139,8 @@
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
 | 133 | 197 | Peachy Fall |
-| 134 | 196 | Jeff Brian Gates |
-| 135 | 196 | Jenna McGeorge |
+| 134 | 196 | Jenna McGeorge |
+| 135 | 196 | Jeff Brian Gates |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
 | 138 | 189 | Calvin Dennis |
@@ -155,8 +155,8 @@
 | 147 | 181 | Klo |
 | 148 | 181 | Andria Lynn |
 | 149 | 180 | Leah Kutz Zirbel |
-| 150 | 179 | Scott Jameson |
-| 151 | 179 | Ak Jones |
+| 150 | 179 | Ak Jones |
+| 151 | 179 | Scott Jameson |
 | 152 | 176 | Zethra Prenisha Rahming |
 | 153 | 175 | blockstar |
 | 154 | 175 | Mary Ann Pabukis |

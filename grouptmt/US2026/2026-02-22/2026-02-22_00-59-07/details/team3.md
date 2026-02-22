@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -94,8 +94,8 @@
 | 86 | 503 | Susan Valentino |
 | 87 | 503 | Nate Burnside |
 | 88 | 502 | Justin Ritter |
-| 89 | 497 | Christine Niles |
-| 90 | 497 | Jennifer Petrie |
+| 89 | 497 | Jennifer Petrie |
+| 90 | 497 | Christine Niles |
 | 91 | 493 | Mandy Smith Oldham |
 | 92 | 491 | Chauntee Alfrey-Cardinale |
 | 93 | 490 | Speedy Bridger |
@@ -109,8 +109,8 @@
 | 101 | 445 | Kristie McFarland |
 | 102 | 438 | Bea Miles |
 | 103 | 430 | Patricia White |
-| 104 | 428 | Elissa S-k |
-| 105 | 428 | Betty Ivy |
+| 104 | 428 | Betty Ivy |
+| 105 | 428 | Elissa S-k |
 | 106 | 416 | Mary Pellegrino |
 | 107 | 410 | Stephanie Simpson |
 | 108 | 403 | Christine Filson |
@@ -139,8 +139,8 @@
 | 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Nicole Flippo |
-| 135 | 347 | Darlene McMillan |
+| 134 | 347 | Darlene McMillan |
+| 135 | 347 | Nicole Flippo |
 | 136 | 343 | Chasity |
 | 137 | 328 | Aaron Pitkin |
 | 138 | 328 | Jeni Dow |
@@ -176,8 +176,8 @@
 | 168 | 261 | Tiffany Ford |
 | 169 | 258 | Tamara Deherrera |
 | 170 | 257 | Cynthia Herrmann Egland |
-| 171 | 256 | KayB |
-| 172 | 256 | ren |
+| 171 | 256 | ren |
+| 172 | 256 | KayB |
 | 173 | 255 | Tom Nault |
 | 174 | 254 | Duane Bright |
 | 175 | 249 | Terry Jo Jones |
