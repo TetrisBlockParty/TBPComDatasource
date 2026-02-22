@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -188,8 +188,8 @@
 | 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
 | 186 | 198 | Keith Kelley |
 | 187 | 198 | Ruben Wheeler |
@@ -212,9 +212,9 @@
 | 204 | 185 | Nikki Rae Gordon |
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
-| 207 | 180 | Orchislactea |
+| 207 | 180 | Dihcheese444 |
 | 208 | 180 | Rafael Valentin |
-| 209 | 180 | Dihcheese444 |
+| 209 | 180 | Orchislactea |
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
@@ -235,8 +235,8 @@
 | 227 | 162 | Joanna |
 | 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
-| 230 | 160 | Brittany Marsh |
-| 231 | 160 | Laura Hosford |
+| 230 | 160 | Laura Hosford |
+| 231 | 160 | Brittany Marsh |
 | 232 | 159 | Marcus Todd |
 | 233 | 158 | Avy Absol |
 | 234 | 158 | Chair |
@@ -279,8 +279,8 @@
 | 271 | 141 | Montiette Mcglown |
 | 272 | 141 | Courtney Halleck |
 | 273 | 140 | Cristy Duerksen |
-| 274 | 139 | Lori Goudy |
-| 275 | 139 | O block |
+| 274 | 139 | O block |
+| 275 | 139 | Lori Goudy |
 | 276 | 139 | ChasingZen |
 | 277 | 138 | Brandon Link |
 | 278 | 138 | Nick Gray |
@@ -430,8 +430,8 @@
 | 422 | 92 | bloat princess |
 | 423 | 92 | RogueRebel |
 | 424 | 92 | Krash |
-| 425 | 91 | Kametsunoyaiba |
-| 426 | 91 | Lee Silpe |
+| 425 | 91 | Lee Silpe |
+| 426 | 91 | Kametsunoyaiba |
 | 427 | 91 | Sunny Filler |
 | 428 | 90 | Carol Ricks Raymond |
 | 429 | 90 | Abigail Murphy |
@@ -1123,7 +1123,7 @@
 | 1115 | 22 | Nikki Ann |
 | 1116 | 22 | Chilly Matchpiece |
 | 1117 | 22 | Shelly Goad |
-| 1118 | 22 | Chilly Matchpiece |
+| 1118 | 22 | Deb Lilja |
 | 1119 | 21 | Molly Ananda Rickerson |
 | 1120 | 21 | Diosa Ebalobo Magsael |
 | 1121 | 21 | Chill Gridmatch |
