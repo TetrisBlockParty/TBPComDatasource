@@ -598,8 +598,8 @@
 | 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Kelly |
-| 594 | 384 | Party d |
+| 593 | 384 | Party d |
+| 594 | 384 | Kelly |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | Amber Gray |
@@ -685,8 +685,8 @@
 | 677 | 337 | Tum |
 | 678 | 337 | Diallo Sparkman |
 | 679 | 337 | Savannah Alexander |
-| 680 | 336 | Austin Wilson |
-| 681 | 336 | bru |
+| 680 | 336 | bru |
+| 681 | 336 | Austin Wilson |
 | 682 | 336 | Swanky Columnbuilder |
 | 683 | 335 | Brooke Leigh Strube |
 | 684 | 335 | Maria Louise |
@@ -705,8 +705,8 @@
 | 697 | 326 | Ann Knutson Anderson |
 | 698 | 325 | Justin Hines |
 | 699 | 325 | Mike73 |
-| 700 | 324 | Dale Haanpaa |
-| 701 | 324 | Tasia Stinson |
+| 700 | 324 | Tasia Stinson |
+| 701 | 324 | Dale Haanpaa |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
 | 704 | 322 | Michelle Pike |
@@ -932,8 +932,8 @@
 | 924 | 248 | CleverAngel |
 | 925 | 248 | Jaybee Nguyen |
 | 926 | 247 | Linda Miltenburg |
-| 927 | 247 | Wizz |
-| 928 | 247 | Karyn Yurcho Dooley |
+| 927 | 247 | Karyn Yurcho Dooley |
+| 928 | 247 | Wizz |
 | 929 | 246 | Laura McConnell |
 | 930 | 246 | Stacey Tranchida |
 | 931 | 245 | Cassi Owens |

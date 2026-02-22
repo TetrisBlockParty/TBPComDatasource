@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Patty Allen |
 | 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Louise Stacy Sisson |
-| 106 | 562 | Dave Herzog |
+| 105 | 562 | Dave Herzog |
+| 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 536 | Giddy Drop |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Katrina Turner |
-| 213 | 296 | Ammmmmmy |
+| 212 | 296 | Ammmmmmy |
+| 213 | 296 | Katrina Turner |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Tamara Deherrera |
@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 267 | Terry Jo Jones |
 | 239 | 266 | Eon Harris |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -321,8 +321,8 @@
 | 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
-| 316 | 195 | Nicha Hooker |
-| 317 | 195 | Kristian Thurman |
+| 316 | 195 | Kristian Thurman |
+| 317 | 195 | Nicha Hooker |
 | 318 | 194 | Goofy Fall |
 | 319 | 193 | Clever Shiftsnap |
 | 320 | 192 | Ryan Williams |
@@ -369,8 +369,8 @@
 | 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Loopy Fallzone |
 | 368 | 162 | Eric Caccavale |
@@ -430,8 +430,8 @@
 | 422 | 142 | Jl |
 | 423 | 141 | Melissa Snyder |
 | 424 | 141 | Bhreagh Gentile |
-| 425 | 141 | Reina Roth |
-| 426 | 141 | Weerae |
+| 425 | 141 | Weerae |
+| 426 | 141 | Reina Roth |
 | 427 | 140 | Jumpy Curvebuilder |
 | 428 | 140 | Boldy Corner |
 | 429 | 140 | Alison Baus |
@@ -442,8 +442,8 @@
 | 434 | 138 | Skinny Baldez |
 | 435 | 137 | Giggly Brickroll |
 | 436 | 136 | Karen Picaboo |
-| 437 | 136 | Sabrina Mansfield |
-| 438 | 136 | Stephanie Zahm |
+| 437 | 136 | Stephanie Zahm |
+| 438 | 136 | Sabrina Mansfield |
 | 439 | 135 | Morgan Cudo |
 | 440 | 134 | Tammy |
 | 441 | 134 | Glenn Loving |
@@ -494,8 +494,8 @@
 | 486 | 121 | Oliver Neal II |
 | 487 | 121 | Fredd Thomas |
 | 488 | 121 | Brave Brickster |
-| 489 | 121 | Groovy Blockclear |
-| 490 | 121 | Jenna Baker |
+| 489 | 121 | Jenna Baker |
+| 490 | 121 | Groovy Blockclear |
 | 491 | 120 | Giggy Glidepiece |
 | 492 | 120 | Carol Cain Thurman |
 | 493 | 119 | Tracey Cox |
