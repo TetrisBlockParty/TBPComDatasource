@@ -283,15 +283,15 @@
 | 275 | 704 | Shelley Thornburgh Wright |
 | 276 | 703 | Gold Rose |
 | 277 | 701 | Hyper Cluster |
-| 278 | 700 | Vincent Petrella |
-| 279 | 700 | Hong Tang |
+| 278 | 700 | Hong Tang |
+| 279 | 700 | Vincent Petrella |
 | 280 | 700 | Beverly Owens |
 | 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Dannette Goldberg-Richards |
-| 286 | 692 | Jennifer Casey-Kay |
+| 285 | 692 | Jennifer Casey-Kay |
+| 286 | 692 | Dannette Goldberg-Richards |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Ashle Scranton |
-| 307 | 663 | Mandi Douglas Hilt |
+| 306 | 663 | Mandi Douglas Hilt |
+| 307 | 663 | Ashle Scranton |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -480,8 +480,8 @@
 | 472 | 456 | Melissa Rebbe-Lehman |
 | 473 | 455 | Kiana Boschh |
 | 474 | 454 | Casey Schumacher |
-| 475 | 453 | Joshua Sommerville |
-| 476 | 453 | Rhonda Petro |
+| 475 | 453 | Rhonda Petro |
+| 476 | 453 | Joshua Sommerville |
 | 477 | 451 | Funky Caster |
 | 478 | 451 | Cody Nishimura |
 | 479 | 451 | Dylan Thomason |
@@ -548,8 +548,8 @@
 | 540 | 407 | Tipsy Filler |
 | 541 | 406 | Erin StFrancis |
 | 542 | 406 | Kimberly Ann |
-| 543 | 404 | Dawn L Washington-Feuquay |
-| 544 | 404 | Goofy Catcher |
+| 543 | 404 | Goofy Catcher |
+| 544 | 404 | Dawn L Washington-Feuquay |
 | 545 | 404 | Snappy snappers |
 | 546 | 403 | Goofy Dasher |
 | 547 | 402 | Steve Man |
@@ -633,8 +633,8 @@
 | 625 | 363 | Kia Humphery |
 | 626 | 363 | Jes Norris |
 | 627 | 363 | Stephanie Fortune |
-| 628 | 362 | Andrea Maher |
-| 629 | 362 | Veronics |
+| 628 | 362 | Veronics |
+| 629 | 362 | Andrea Maher |
 | 630 | 362 | Tracy Wise |
 | 631 | 362 | Jennifer Scott |
 | 632 | 361 | Michelle Shrum |
@@ -646,8 +646,8 @@
 | 638 | 357 | Shannon Byrd |
 | 639 | 357 | Tristan Szolek |
 | 640 | 355 | Amanda Perez |
-| 641 | 354 | Rachel Kaminski |
-| 642 | 354 | Rickey Johnson |
+| 641 | 354 | Rickey Johnson |
+| 642 | 354 | Rachel Kaminski |
 | 643 | 352 | Rose Fx |
 | 644 | 352 | Jean FU Jagielski |
 | 645 | 352 | ruth |
@@ -710,8 +710,8 @@
 | 702 | 320 | Mary Boss |
 | 703 | 319 | RetroLemur |
 | 704 | 318 | Jennifer Mahon |
-| 705 | 317 | Ashlyn Berner |
-| 706 | 317 | Zombi3 |
+| 705 | 317 | Zombi3 |
+| 706 | 317 | Ashlyn Berner |
 | 707 | 317 | Aireka Roman |
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
@@ -738,12 +738,12 @@
 | 730 | 307 | stacey |
 | 731 | 307 | Peachy Blockbuilder |
 | 732 | 306 | Kiorah Blaze |
-| 733 | 305 | MamaBear11 |
-| 734 | 305 | Zany Clusterbuilder |
+| 733 | 305 | Zany Clusterbuilder |
+| 734 | 305 | MamaBear11 |
 | 735 | 305 | Narutofreak13 |
-| 736 | 304 | NFLPITMOM |
-| 737 | 304 | Melissa McCall |
-| 738 | 304 | James Smith |
+| 736 | 304 | Melissa McCall |
+| 737 | 304 | James Smith |
+| 738 | 304 | NFLPITMOM |
 | 739 | 303 | Angie Marie |
 | 740 | 303 | Amanda Schaffer |
 | 741 | 303 | Devin |
@@ -751,8 +751,8 @@
 | 743 | 302 | Maxwell Escalera |
 | 744 | 300 | Alice Ball |
 | 745 | 300 | Tash Bell |
-| 746 | 300 | Kacee Conrad Bock |
-| 747 | 300 | Katie Joy McCombs |
+| 746 | 300 | Katie Joy McCombs |
+| 747 | 300 | Kacee Conrad Bock |
 | 748 | 299 | Cassie Newton |
 | 749 | 298 | Frilly Fallzone |
 | 750 | 298 | Ryan Stadel |
@@ -764,7 +764,7 @@
 | 756 | 296 | Jennifer Darby |
 | 757 | 296 | Frisky Riserbuilder |
 | 758 | 296 | Epic Fitzone |
-| 759 | 296 | Jennifer Darby |
+| 759 | 296 | Zappy Dropmatch |
 | 760 | 295 | Noel Tarmy |
 | 761 | 294 | Amanda Edwards |
 | 762 | 293 | Ann Marie Davis |
@@ -780,12 +780,12 @@
 | 772 | 288 | Samantha Angelo |
 | 773 | 288 | Ashley Criner |
 | 774 | 287 | Epic Stackzone |
-| 775 | 287 | N00D3S |
-| 776 | 287 | Toni Roberson |
+| 775 | 287 | Toni Roberson |
+| 776 | 287 | N00D3S |
 | 777 | 286 | Kelsey Sullivan |
 | 778 | 285 | Kimberly Mitchell |
-| 779 | 285 | Epic Stackbuilder |
-| 780 | 285 | Court |
+| 779 | 285 | Court |
+| 780 | 285 | Epic Stackbuilder |
 | 781 | 284 | Hillary Franklin |
 | 782 | 282 | Nutty Slice |
 | 783 | 282 | Dale Haanpaa |

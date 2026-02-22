@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Ashley Muncey |
-| 232 | 271 | Cass Mendoza |
+| 231 | 271 | Cass Mendoza |
+| 232 | 271 | Ashley Muncey |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -256,8 +256,8 @@
 | 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | Annie Marie |
-| 252 | 249 | JerseyJess |
+| 251 | 249 | JerseyJess |
+| 252 | 249 | Annie Marie |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -286,8 +286,8 @@
 | 278 | 220 | rosy |
 | 279 | 219 | Sissy Lowery Davis |
 | 280 | 218 | Michael Lucado |
-| 281 | 216 | Cheryl Hinch Tenbrook |
-| 282 | 216 | Twisty Brick LT |
+| 281 | 216 | Twisty Brick LT |
+| 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
 | 285 | 214 | Amy Fuller Heaton |
@@ -496,8 +496,8 @@
 | 488 | 118 | Fancy Curver |
 | 489 | 118 | Damian Reid |
 | 490 | 117 | James Lykes |
-| 491 | 117 | Rayzer |
-| 492 | 117 | Anabela Ruiz |
+| 491 | 117 | Anabela Ruiz |
+| 492 | 117 | Rayzer |
 | 493 | 117 | Dee Pratt |
 | 494 | 116 | TazB |
 | 495 | 116 | Shelby Crawford |
@@ -565,8 +565,8 @@
 | 557 | 105 | Emi |
 | 558 | 105 | Kristi Taylor |
 | 559 | 105 | Amy Wheeler |
-| 560 | 104 | Jessica Rose-Morgan |
-| 561 | 104 | bean |
+| 560 | 104 | bean |
+| 561 | 104 | Jessica Rose-Morgan |
 | 562 | 104 | Jana Fagg |
 | 563 | 104 | Johnathan Dowe |
 | 564 | 103 | Snappy Balancer |
