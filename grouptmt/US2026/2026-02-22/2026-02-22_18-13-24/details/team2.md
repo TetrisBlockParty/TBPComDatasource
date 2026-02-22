@@ -265,8 +265,8 @@
 | 257 | 867 | Peppy Zone |
 | 258 | 865 | Kristin Gower |
 | 259 | 862 | Brittany Radaszewski |
-| 260 | 860 | John Bednarik |
-| 261 | 860 | April Dawn Gussler |
+| 260 | 860 | April Dawn Gussler |
+| 261 | 860 | John Bednarik |
 | 262 | 860 | William Hunt |
 | 263 | 857 | Della Hole |
 | 264 | 855 | F-X |

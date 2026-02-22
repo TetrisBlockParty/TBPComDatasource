@@ -109,8 +109,8 @@
 | 101 | 400 | Cynthia Bradley |
 | 102 | 395 | Nery Martinez |
 | 103 | 390 | Goose egg |
-| 104 | 390 | Lori Bales |
-| 105 | 390 | Candy Jones |
+| 104 | 390 | Candy Jones |
+| 105 | 390 | Lori Bales |
 | 106 | 385 | Brenda Stewart |
 | 107 | 383 | pjbeta |
 | 108 | 380 | Dee Perry |
@@ -136,10 +136,10 @@
 | 128 | 340 | Tanya Carpenter-Reynolds |
 | 129 | 336 | Elaine Elaine |
 | 130 | 334 | Jaimie Lynn |
-| 131 | 333 | Gracie |
-| 132 | 333 | GATOR |
-| 133 | 332 | Kristen Gideon |
-| 134 | 332 | Lehrin Maria |
+| 131 | 333 | GATOR |
+| 132 | 333 | Gracie |
+| 133 | 332 | Lehrin Maria |
+| 134 | 332 | Kristen Gideon |
 | 135 | 328 | Fmp |
 | 136 | 326 | Monica Donato |
 | 137 | 325 | Jennifer Hardman |
@@ -204,9 +204,9 @@
 | 196 | 242 | John Kim |
 | 197 | 241 | John J. Cronin |
 | 198 | 240 | DaRascal |
-| 199 | 239 | Chris K |
-| 200 | 239 | Sam Williams |
-| 201 | 239 | Lacy Wolfe |
+| 199 | 239 | Lacy Wolfe |
+| 200 | 239 | Chris K |
+| 201 | 239 | Sam Williams |
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
@@ -280,8 +280,8 @@
 | 272 | 186 | Margo Wagner |
 | 273 | 185 | Hasty Columnbuilder |
 | 274 | 184 | Chris Sigurdson |
-| 275 | 183 | Brave Wrecker |
-| 276 | 183 | Tiger Lily |
+| 275 | 183 | Tiger Lily |
+| 276 | 183 | Brave Wrecker |
 | 277 | 181 | David DeSantis |
 | 278 | 180 | Beau Galvan |
 | 279 | 180 | Matt Iaccheo |

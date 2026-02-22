@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Jenna Ingersoll |
-| 112 | 412 | Scott Jameson |
+| 111 | 412 | Scott Jameson |
+| 112 | 412 | Jenna Ingersoll |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -136,13 +136,13 @@
 | 128 | 338 | ThaEviLJeNiuZ |
 | 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | Desi Desporte |
-| 132 | 332 | HastyGrabber |
+| 131 | 332 | HastyGrabber |
+| 132 | 332 | Desi Desporte |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Kris Bartlett |
-| 137 | 328 | Leslie Nicole |
+| 136 | 328 | Leslie Nicole |
+| 137 | 328 | Kris Bartlett |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -160,11 +160,11 @@
 | 152 | 294 | Kesha Brady |
 | 153 | 292 | Cursed Hag |
 | 154 | 290 | Keshia Lyons |
-| 155 | 290 | Chaz Duncan |
-| 156 | 290 | 🥔🥔 Spudz |
+| 155 | 290 | 🥔🥔 Spudz |
+| 156 | 290 | Chaz Duncan |
 | 157 | 288 | Leah Kutz Zirbel |
-| 158 | 286 | Brittney Orengo |
-| 159 | 286 | shark tato |
+| 158 | 286 | shark tato |
+| 159 | 286 | Brittney Orengo |
 | 160 | 282 | Rafael Valentin |
 | 161 | 281 | Lindsay Ball |
 | 162 | 277 | Mary Ann Pabukis |
@@ -180,8 +180,8 @@
 | 172 | 267 | Holly |
 | 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |
-| 175 | 265 | Chris Bernstein |
-| 176 | 265 | Jeff Brian Gates |
+| 175 | 265 | Jeff Brian Gates |
+| 176 | 265 | Chris Bernstein |
 | 177 | 264 | Girl |
 | 178 | 264 | Epic Curvetile |
 | 179 | 262 | Juls |

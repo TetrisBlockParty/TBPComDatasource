@@ -138,8 +138,8 @@
 | 130 | 526 | Daryn Elliott |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -210,8 +210,8 @@
 | 202 | 362 | Rochelle Hazelett |
 | 203 | 362 | Brandon Givens |
 | 204 | 362 | Loopy Fallmatch |
-| 205 | 358 | RickyG |
-| 206 | 358 | Chummy Caster |
+| 205 | 358 | Chummy Caster |
+| 206 | 358 | RickyG |
 | 207 | 357 | Stephanie Burtin |
 | 208 | 353 | Nora Rogers |
 | 209 | 351 | Eon Harris |
@@ -270,8 +270,8 @@
 | 262 | 278 | Rufus Lincoln |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
-| 265 | 276 | _melisa223_ |
-| 266 | 276 | Connie Mohler-Fair |
+| 265 | 276 | Connie Mohler-Fair |
+| 266 | 276 | _melisa223_ |
 | 267 | 275 | Cassandra Bryant |
 | 268 | 273 | Troy |
 | 269 | 272 | Tasha Wesson-Torrence |
@@ -321,10 +321,10 @@
 | 313 | 227 | Meowsa |
 | 314 | 226 | Jana Polk |
 | 315 | 225 | Dirtgirl27 |
-| 316 | 225 | Steffi Chris Dacones |
-| 317 | 225 | Stephanie Hill |
-| 318 | 223 | Michael Lucado |
-| 319 | 223 | Jennifer Alvey |
+| 316 | 225 | Stephanie Hill |
+| 317 | 225 | Steffi Chris Dacones |
+| 318 | 223 | Jennifer Alvey |
+| 319 | 223 | Michael Lucado |
 | 320 | 222 | Aerian Preston |
 | 321 | 221 | Bleu Sun Beams |
 | 322 | 221 | kacihall |
