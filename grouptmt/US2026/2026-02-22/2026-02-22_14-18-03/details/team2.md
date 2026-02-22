@@ -221,8 +221,8 @@
 | 213 | 915 | Robin Kerby |
 | 214 | 915 | Angela Bonquiqui Dinish |
 | 215 | 915 | Kelly Trent |
-| 216 | 910 | Shuany Arias |
-| 217 | 910 | Crystal Hoffman |
+| 216 | 910 | Crystal Hoffman |
+| 217 | 910 | Shuany Arias |
 | 218 | 907 | Gene Mills |
 | 219 | 901 | Jennifer Peachey |
 | 220 | 899 | Hillary Crawford |
@@ -606,8 +606,8 @@
 | 598 | 393 | bbv |
 | 599 | 393 | Deyawn Smith |
 | 600 | 393 | Smashanator |
-| 601 | 391 | Chilly Bridgepiece |
-| 602 | 391 | Adam Simmons |
+| 601 | 391 | Adam Simmons |
+| 602 | 391 | Chilly Bridgepiece |
 | 603 | 391 | Qiana Sanders |
 | 604 | 390 | Jasmine Kenney |
 | 605 | 390 | Joice Hansen |
@@ -872,8 +872,8 @@
 | 864 | 274 | Shylee Tilman |
 | 865 | 274 | Amanda Michelle Pigeon |
 | 866 | 274 | Sabrena Yeisley |
-| 867 | 274 | Jamie Stevey |
-| 868 | 274 | KT Macadocious |
+| 867 | 274 | KT Macadocious |
+| 868 | 274 | Jamie Stevey |
 | 869 | 273 | Britt Stunkel |
 | 870 | 273 | Jennifer Aiken |
 | 871 | 273 | Boldy Block |
@@ -1102,8 +1102,8 @@
 | 1094 | 222 | Angel Moorhead |
 | 1095 | 222 | Trisha Gallagher |
 | 1096 | 222 | Lovely |
-| 1097 | 222 | Wacky Edgefit |
-| 1098 | 222 | Crystal Herndon |
+| 1097 | 222 | Crystal Herndon |
+| 1098 | 222 | Wacky Edgefit |
 | 1099 | 222 | Daring Lift |
 | 1100 | 221 | Sabrina Smith |
 | 1101 | 221 | Tim Galle |

@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Kimyatta Cavin |
-| 64 | 636 | Dustee Craddock-Harrison |
+| 63 | 636 | Dustee Craddock-Harrison |
+| 64 | 636 | Kimyatta Cavin |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 600 | Michelle Marie |
@@ -199,8 +199,8 @@
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
 | 193 | 210 | Austin Owens |
-| 194 | 209 | Rafael Valentin |
-| 195 | 209 | Sam Bishop |
+| 194 | 209 | Sam Bishop |
+| 195 | 209 | Rafael Valentin |
 | 196 | 208 | Stacey Stano |
 | 197 | 207 | Lindsey Gonzalez |
 | 198 | 207 | scott |
@@ -709,7 +709,7 @@
 | 701 | 57 | Smiley Linkgrid |
 | 702 | 57 | Boldy Linkfall |
 | 703 | 57 | Flashy Jumper |
-| 704 | 56 | I'm sorry |
+| 704 | 56 | Lilya Troutman |
 | 705 | 56 | Speedy Zigzag |
 | 706 | 56 | I'm sorry |
 | 707 | 56 | Saucy Stackbuilder |

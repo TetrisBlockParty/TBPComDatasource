@@ -106,8 +106,8 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 589 | Giddy Drop |
 | 100 | 588 | yoyo |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Poppy Splitter |
-| 130 | 479 | Patti Skiles |
+| 129 | 479 | Patti Skiles |
+| 130 | 479 | Poppy Splitter |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -154,8 +154,8 @@
 | 146 | 439 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
-| 149 | 430 | Joye Sims Binion |
-| 150 | 430 | Tasha Gillespie |
+| 149 | 430 | Tasha Gillespie |
+| 150 | 430 | Joye Sims Binion |
 | 151 | 427 | Logan Naccarato |
 | 152 | 427 | Wendy Dearden |
 | 153 | 415 | ren |
@@ -170,8 +170,8 @@
 | 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Sarah Cowan Burgos |
-| 166 | 391 | Calista Jo Dickson |
+| 165 | 391 | Calista Jo Dickson |
+| 166 | 391 | Sarah Cowan Burgos |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
@@ -193,8 +193,8 @@
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
-| 188 | 357 | Tom Nault |
-| 189 | 357 | Stephanie Burtin |
+| 188 | 357 | Stephanie Burtin |
+| 189 | 357 | Tom Nault |
 | 190 | 353 | Nora Rogers |
 | 191 | 349 | Amanda J. Mcneil-Anderson |
 | 192 | 348 | Chasity |
@@ -230,8 +230,8 @@
 | 222 | 296 | Katrina Turner |
 | 223 | 296 | Ammmmmmy |
 | 224 | 296 | Brandon Givens |
-| 225 | 289 | Duane Bright |
-| 226 | 289 | Hoppy Buildout |
+| 225 | 289 | Hoppy Buildout |
+| 226 | 289 | Duane Bright |
 | 227 | 289 | DidIdothat |
 | 228 | 288 | JerseyJess |
 | 229 | 288 | Melissa Orth Hunter |
@@ -258,8 +258,8 @@
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
 | 252 | 262 | Joe-Maggie Mathews |
-| 253 | 261 | Tiffany Ford |
-| 254 | 261 | Tasha Wesson-Torrence |
+| 253 | 261 | Tasha Wesson-Torrence |
+| 254 | 261 | Tiffany Ford |
 | 255 | 261 | Marquita Sheard |
 | 256 | 260 | Grams |
 | 257 | 260 | Nikki Pags |
@@ -351,8 +351,8 @@
 | 343 | 186 | Bryan Byrd |
 | 344 | 186 | Sameerah Smith |
 | 345 | 185 | Angella Lyons |
-| 346 | 184 | Shanon R Jackson |
-| 347 | 184 | Troy |
+| 346 | 184 | Troy |
+| 347 | 184 | Shanon R Jackson |
 | 348 | 184 | Salena Whitlock |
 | 349 | 183 | Cesar Barraza |
 | 350 | 183 | Frothy Snapper |

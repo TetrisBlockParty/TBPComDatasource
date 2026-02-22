@@ -181,8 +181,8 @@
 | 173 | 241 | John J. Cronin |
 | 174 | 239 | Sam Williams |
 | 175 | 237 | Kimberly Garcia |
-| 176 | 235 | MRdot Rooski |
-| 177 | 235 | Desiree Deschaine Havee |
+| 176 | 235 | Desiree Deschaine Havee |
+| 177 | 235 | MRdot Rooski |
 | 178 | 234 | Paula Martin |
 | 179 | 231 | Amanda Johnson Huffman |
 | 180 | 230 | Billie Dawn Sparks |
@@ -201,8 +201,8 @@
 | 193 | 215 | Shaykmia |
 | 194 | 214 | LaFontaine Leslie |
 | 195 | 213 | Daring Fitclear |
-| 196 | 210 | Letson Melissa |
-| 197 | 210 | Giggly Builderline |
+| 196 | 210 | Giggly Builderline |
+| 197 | 210 | Letson Melissa |
 | 198 | 209 | Cece Ibarra |
 | 199 | 208 | Bouncy Grid |
 | 200 | 208 | Donna Addison Williams |
