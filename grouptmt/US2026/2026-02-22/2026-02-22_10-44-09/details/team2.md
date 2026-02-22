@@ -130,8 +130,8 @@
 | 122 | 1301 | Rosa Franklin |
 | 123 | 1300 | Mari Ac |
 | 124 | 1300 | Tacara Cummings |
-| 125 | 1298 | Deanna Morton |
-| 126 | 1298 | Becca Widmer |
+| 125 | 1298 | Becca Widmer |
+| 126 | 1298 | Deanna Morton |
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Brittany Radaszewski |
-| 218 | 862 | Robin Kerby |
+| 217 | 862 | Robin Kerby |
+| 218 | 862 | Brittany Radaszewski |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -681,11 +681,11 @@
 | 673 | 339 | Denise Rickman |
 | 674 | 338 | Janitta Alvarez |
 | 675 | 337 | Sassy Pattern |
-| 676 | 337 | Diallo Sparkman |
-| 677 | 337 | Tum |
+| 676 | 337 | Tum |
+| 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Savannah Alexander |
-| 679 | 336 | Austin Wilson |
-| 680 | 336 | bru |
+| 679 | 336 | bru |
+| 680 | 336 | Austin Wilson |
 | 681 | 336 | Swanky Columnbuilder |
 | 682 | 335 | Brooke Leigh Strube |
 | 683 | 335 | Maria Louise |
@@ -1168,7 +1168,7 @@
 | 1160 | 194 | Katrina Willmon |
 | 1161 | 194 | Chilly Linkfall |
 | 1162 | 194 | Snappy Slamdrop |
-| 1163 | 194 | Chilly Linkfall |
+| 1163 | 194 | Brenda |
 | 1164 | 193 | Kristen Casale Berry |
 | 1165 | 193 | Spunky Dash |
 | 1166 | 193 | Tammie Siegfried |

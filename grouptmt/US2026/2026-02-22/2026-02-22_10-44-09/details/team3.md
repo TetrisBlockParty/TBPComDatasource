@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -183,8 +183,8 @@
 | 175 | 361 | Jamie Lang |
 | 176 | 359 | Dapper Snap |
 | 177 | 358 | Chummy Caster |
-| 178 | 357 | Tom Nault |
-| 179 | 357 | Stephanie Burtin |
+| 178 | 357 | Stephanie Burtin |
+| 179 | 357 | Tom Nault |
 | 180 | 355 | Tessina Dewey-Mancino |
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
@@ -204,11 +204,11 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Araceli Parra |
+| 199 | 311 | Araceli Parra |
+| 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -342,8 +342,8 @@
 | 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
-| 337 | 176 | Emma |
-| 338 | 176 | Melissa Orth Hunter |
+| 337 | 176 | Melissa Orth Hunter |
+| 338 | 176 | Emma |
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Salena Whitlock |
 | 341 | 174 | Lesley Perez |
@@ -563,7 +563,7 @@
 | 555 | 107 | Tiffany Marler |
 | 556 | 106 | Kevin Russell |
 | 557 | 106 | Christian Luna |
-| 558 | 106 | Kevin Russell |
+| 558 | 106 | Jul |
 | 559 | 106 | Myriam Lapierre |
 | 560 | 106 | Cyd061769 |
 | 561 | 106 | SaSa Mac |
@@ -572,8 +572,8 @@
 | 564 | 106 | G |
 | 565 | 106 | Jennifer Palermo |
 | 566 | 105 | Zac Hudak |
-| 567 | 105 | Emi |
-| 568 | 105 | Kristi Taylor |
+| 567 | 105 | Kristi Taylor |
+| 568 | 105 | Emi |
 | 569 | 105 | Amy Wheeler |
 | 570 | 104 | bean |
 | 571 | 104 | Jessica Rose-Morgan |

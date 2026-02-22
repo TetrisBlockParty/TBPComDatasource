@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Alyssa Papen |
 | 159 | 227 | Swanky Fitline |
@@ -232,8 +232,8 @@
 | 224 | 165 | Zappy Buildgrid |
 | 225 | 164 | 030Synner |
 | 226 | 163 | Kristina Black |
-| 227 | 162 | John Brunetti |
-| 228 | 162 | Joanna |
+| 227 | 162 | Joanna |
+| 228 | 162 | John Brunetti |
 | 229 | 161 | Jenny Wells-Oakley |
 | 230 | 160 | Brittany Marsh |
 | 231 | 160 | Laura Hosford |
@@ -261,7 +261,7 @@
 | 253 | 145 | Mimi |
 | 254 | 145 | Sandra Safford |
 | 255 | 144 | Sticherella |
-| 256 | 143 | Daresha Fair |
+| 256 | 143 | Dennis Bradley |
 | 257 | 143 | Zesty Twistbuilder |
 | 258 | 143 | Lauren Lamb |
 | 259 | 143 | Daresha Fair |
