@@ -81,8 +81,8 @@
 | 73 | 338 | Stephanie Zahn |
 | 74 | 333 | Brandi Huntington |
 | 75 | 328 | Gracie |
-| 76 | 323 | Kellie |
-| 77 | 323 | Candy Jones |
+| 76 | 323 | Candy Jones |
+| 77 | 323 | Kellie |
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
@@ -140,10 +140,10 @@
 | 132 | 195 | Daring Fitclear |
 | 133 | 194 | Ash Galvan |
 | 134 | 194 | Tyler Werts |
-| 135 | 193 | Shiny Gridmatch |
-| 136 | 193 | Lachelle Dillon |
-| 137 | 192 | Jessica Sheehan |
-| 138 | 192 | Shaykmia |
+| 135 | 193 | Lachelle Dillon |
+| 136 | 193 | Shiny Gridmatch |
+| 137 | 192 | Shaykmia |
+| 138 | 192 | Jessica Sheehan |
 | 139 | 191 | Diane Byrd |
 | 140 | 190 | Sweetts |
 | 141 | 190 | Thorne Shumate |
@@ -168,8 +168,8 @@
 | 160 | 170 | Veronica Eve |
 | 161 | 169 | Abbey Crespo |
 | 162 | 168 | Standia Civil |
-| 163 | 167 | Erin Hodges Plumb |
-| 164 | 167 | Nery Martinez |
+| 163 | 167 | Nery Martinez |
+| 164 | 167 | Erin Hodges Plumb |
 | 165 | 166 | Rico Rico |
 | 166 | 165 | Nadine Velardo |
 | 167 | 163 | Tyler Whitley |
@@ -177,8 +177,8 @@
 | 169 | 161 | SavageBooty98 |
 | 170 | 161 | Jessie Lynn |
 | 171 | 159 | Bindi |
-| 172 | 158 | Arianna O'Brien |
-| 173 | 158 | Sarah Marie |
+| 172 | 158 | Sarah Marie |
+| 173 | 158 | Arianna O'Brien |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
 | 176 | 152 | Speedy Snapfall |
@@ -186,8 +186,8 @@
 | 178 | 150 | David Miller |
 | 179 | 150 | ALFD |
 | 180 | 150 | Adele Rahman |
-| 181 | 148 | Bouncy Grid |
-| 182 | 148 | Shauntina Burke |
+| 181 | 148 | Shauntina Burke |
+| 182 | 148 | Bouncy Grid |
 | 183 | 147 | Davery Spencer Adair |
 | 184 | 145 | Agustin Duarte Orozco |
 | 185 | 144 | Gary Gobin |

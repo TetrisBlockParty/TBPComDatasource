@@ -196,8 +196,8 @@
 | 188 | 692 | Wendy Harder Gage |
 | 189 | 690 | Deborah Miller |
 | 190 | 688 | Dreamy Blast |
-| 191 | 686 | Ashley Guernsey-Martin |
-| 192 | 686 | Dannette Goldberg-Richards |
+| 191 | 686 | Dannette Goldberg-Richards |
+| 192 | 686 | Ashley Guernsey-Martin |
 | 193 | 679 | Gold Rose |
 | 194 | 671 | Pacynthia Williams |
 | 195 | 671 | Morgue Chick |
@@ -690,8 +690,8 @@
 | 682 | 231 | Nerdy Riserfit |
 | 683 | 231 | Stanley Vanekelenburg |
 | 684 | 230 | Leslie Johnson Guinto |
-| 685 | 229 | Heather Anspaugh |
-| 686 | 229 | Deidre Jenkins |
+| 685 | 229 | Deidre Jenkins |
+| 686 | 229 | Heather Anspaugh |
 | 687 | 229 | Besma Ao |
 | 688 | 228 | Dara |
 | 689 | 228 | Samantha Angelo |

@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Marci Mize Fandrich |
-| 146 | 286 | Jacqueline Rodriguez |
+| 145 | 286 | Jacqueline Rodriguez |
+| 146 | 286 | Marci Mize Fandrich |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 282 | Nicole Flippo |
 | 149 | 278 | Rufus Lincoln |
@@ -393,8 +393,8 @@
 | 385 | 109 | mommablock |
 | 386 | 109 | Diana Ibarra |
 | 387 | 108 | Scouty |
-| 388 | 107 | Megan Stanley |
-| 389 | 107 | Bouncy Blockbuilder |
+| 388 | 107 | Bouncy Blockbuilder |
+| 389 | 107 | Megan Stanley |
 | 390 | 106 | Cheeky Setter |
 | 391 | 105 | Trice Thomas |
 | 392 | 105 | Dapper Towerfit |
