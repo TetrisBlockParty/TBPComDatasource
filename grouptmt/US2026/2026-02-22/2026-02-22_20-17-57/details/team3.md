@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -121,8 +121,8 @@
 | 113 | 638 | Jesse Olive |
 | 114 | 630 | yoyo |
 | 115 | 627 | Kristie |
-| 116 | 625 | Amber Hughes |
-| 117 | 625 | Shavette |
+| 116 | 625 | Shavette |
+| 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Patricia White |
@@ -175,8 +175,8 @@
 | 167 | 455 | Tessina Dewey-Mancino |
 | 168 | 453 | Shannon Matthew Byers |
 | 169 | 452 | Danielle Rhoades |
-| 170 | 451 | Rachel |
-| 171 | 451 | FuzzyNavel |
+| 170 | 451 | FuzzyNavel |
+| 171 | 451 | Rachel |
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 440 | Shunta Jacobs |
@@ -211,9 +211,9 @@
 | 203 | 378 | Chris Bell |
 | 204 | 377 | Darlene McMillan |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Rich LeBlanc |
-| 207 | 372 | Tom Nault |
-| 208 | 372 | Giddy Twistbuilder |
+| 206 | 372 | Tom Nault |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Rich LeBlanc |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -340,9 +340,9 @@
 | 332 | 230 | BigE |
 | 333 | 230 | Michael Lucado |
 | 334 | 228 | Beaudie Stroebel |
-| 335 | 227 | Rebel124 |
-| 336 | 227 | Meowsa |
-| 337 | 227 | Wettnippz |
+| 335 | 227 | Meowsa |
+| 336 | 227 | Wettnippz |
+| 337 | 227 | Rebel124 |
 | 338 | 226 | Jana Polk |
 | 339 | 226 | Stephanie Hill |
 | 340 | 225 | Dirtgirl27 |

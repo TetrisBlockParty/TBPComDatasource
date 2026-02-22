@@ -241,8 +241,8 @@
 | 233 | 972 | Juliana Marques Do Nascimento Gordy |
 | 234 | 972 | Della Hole |
 | 235 | 965 | Maria Escobar |
-| 236 | 957 | Keri Womack |
-| 237 | 957 | Block Master |
+| 236 | 957 | Block Master |
+| 237 | 957 | Keri Womack |
 | 238 | 957 | Crystal Hoffman |
 | 239 | 955 | Angela Bonquiqui Dinish |
 | 240 | 951 | Cynthia Ward |
@@ -464,9 +464,9 @@
 | 456 | 566 | Leah Keesling |
 | 457 | 565 | Lyndi Robinson Wakefield |
 | 458 | 565 | Jaycee |
-| 459 | 563 | Lonne Emade |
+| 459 | 563 | snkylnk |
 | 460 | 563 | Sarah Massey |
-| 461 | 563 | snkylnk |
+| 461 | 563 | Lonne Emade |
 | 462 | 562 | AISlop |
 | 463 | 560 | Emilee Burke |
 | 464 | 559 | Blacc Blac |
@@ -489,8 +489,8 @@
 | 481 | 540 | Dizzy Zone |
 | 482 | 533 | Gauri Shrotriya |
 | 483 | 533 | Davetta Sanford |
-| 484 | 532 | Ann Matzkanin |
-| 485 | 532 | Belle Mari |
+| 484 | 532 | Belle Mari |
+| 485 | 532 | Ann Matzkanin |
 | 486 | 531 | Briana Alexander |
 | 487 | 531 | Aishah Brice |
 | 488 | 530 | Denise Rickman |
@@ -525,9 +525,9 @@
 | 517 | 497 | June E Hanson |
 | 518 | 495 | Bubbly Snapbuild |
 | 519 | 494 | Venita Ray |
-| 520 | 493 | Besma Ao |
-| 521 | 493 | Sarah DeHart |
-| 522 | 493 | Sue Leard |
+| 520 | 493 | Sarah DeHart |
+| 521 | 493 | Sue Leard |
+| 522 | 493 | Besma Ao |
 | 523 | 492 | Breezy Clusterer |
 | 524 | 492 | Maya June |
 | 525 | 491 | Bubbly Snapfit |
@@ -536,8 +536,8 @@
 | 528 | 491 | Michael Buckner |
 | 529 | 489 | Elisheva Mizrachi |
 | 530 | 488 | Christina Wsn |
-| 531 | 487 | MrsCandyfine As Wine Truss |
-| 532 | 487 | Morgan Easter |
+| 531 | 487 | Morgan Easter |
+| 532 | 487 | MrsCandyfine As Wine Truss |
 | 533 | 486 | Amanda Ferrell |
 | 534 | 485 | Mamachelle Eisweirth |
 | 535 | 485 | Klee |
@@ -631,8 +631,8 @@
 | 623 | 431 | Hunter Connors |
 | 624 | 431 | Quinn |
 | 625 | 429 | Goofy Catcher |
-| 626 | 429 | Tabs Reichert |
-| 627 | 429 | Angel Hunnewell |
+| 626 | 429 | Angel Hunnewell |
+| 627 | 429 | Tabs Reichert |
 | 628 | 428 | Epic Stackzone |
 | 629 | 428 | Cecilia A Jenkins |
 | 630 | 427 | Destiny Cozier |

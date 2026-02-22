@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Jae Job |
-| 45 | 846 | Christine Marie |
+| 43 | 846 | Jae Job |
+| 44 | 846 | Christine Marie |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -81,8 +81,8 @@
 | 73 | 646 | Jacqueline Helm |
 | 74 | 645 | Carolyn Wallace |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Jason Hart |
-| 77 | 617 | Savannah Overdorf |
+| 76 | 617 | Savannah Overdorf |
+| 77 | 617 | Jason Hart |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -268,8 +268,8 @@
 | 260 | 198 | Angelito |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | 中山成巳 |
-| 264 | 195 | Snippy Puzzle |
+| 263 | 195 | Snippy Puzzle |
+| 264 | 195 | 中山成巳 |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |
@@ -369,7 +369,7 @@
 | 361 | 145 | Glitzy Crasher |
 | 362 | 145 | Jackie Clark |
 | 363 | 144 | Squeezy Pearsall |
-| 364 | 143 | Asher |
+| 364 | 143 | Daresha Fair |
 | 365 | 143 | Metsfan |
 | 366 | 143 | Asher |
 | 367 | 142 | Katie Alexander |
