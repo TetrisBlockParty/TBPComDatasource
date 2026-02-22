@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |

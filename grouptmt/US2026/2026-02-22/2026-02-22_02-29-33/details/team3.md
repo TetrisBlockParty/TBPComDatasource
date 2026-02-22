@@ -114,8 +114,8 @@
 | 106 | 438 | Bea Miles |
 | 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Betty Ivy |
-| 110 | 428 | Elissa S-k |
+| 109 | 428 | Elissa S-k |
+| 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
@@ -149,8 +149,8 @@
 | 141 | 348 | CeceGeGe |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 325 | Fallorina Susana |
@@ -245,8 +245,8 @@
 | 237 | 197 | Angie Harper |
 | 238 | 195 | Nicha Hooker |
 | 239 | 194 | Raven Dudley |
-| 240 | 193 | Hyper Matchzone |
-| 241 | 193 | Clever Shiftsnap |
+| 240 | 193 | Clever Shiftsnap |
+| 241 | 193 | Hyper Matchzone |
 | 242 | 192 | Kelly Ann Child |
 | 243 | 191 | Sarajane Lokan |
 | 244 | 191 | Scott Carleton |

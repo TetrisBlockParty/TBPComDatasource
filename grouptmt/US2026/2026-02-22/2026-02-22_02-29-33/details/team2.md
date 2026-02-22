@@ -198,8 +198,8 @@
 | 190 | 771 | Terri McKelvey McKinley |
 | 191 | 765 | Jodi Blake |
 | 192 | 763 | Dineisha Carpenter |
-| 193 | 763 | Samantha Jo |
-| 194 | 763 | Foxxo |
+| 193 | 763 | Foxxo |
+| 194 | 763 | Samantha Jo |
 | 195 | 759 | Lisa Ongtowasruk |
 | 196 | 756 | Stephanie Neuburger |
 | 197 | 755 | Ashley House |
@@ -347,8 +347,8 @@
 | 339 | 471 | Rae Rae |
 | 340 | 470 | Jerry Tempelmeyer |
 | 341 | 469 | Jai Jackson |
-| 342 | 469 | Amélie Cadieux |
-| 343 | 469 | Ashley Lopez |
+| 342 | 469 | Ashley Lopez |
+| 343 | 469 | Amélie Cadieux |
 | 344 | 468 | Amber Brion |
 | 345 | 468 | Drwatson187 |
 | 346 | 467 | Sam Joe |

@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -161,8 +161,8 @@
 | 153 | 188 | Andria Lynn |
 | 154 | 187 | TheNeesh50 |
 | 155 | 186 | Holly |
-| 156 | 185 | Lori |
-| 157 | 185 | Andy Cabral |
+| 156 | 185 | Andy Cabral |
+| 157 | 185 | Lori |
 | 158 | 184 | Ak Jones |
 | 159 | 182 | Matt Summer |
 | 160 | 181 | Carter Jones |
