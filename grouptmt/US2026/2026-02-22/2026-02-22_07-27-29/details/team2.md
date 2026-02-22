@@ -163,8 +163,8 @@
 | 155 | 1048 | PsychKIRAtrist |
 | 156 | 1047 | Amy Sayers |
 | 157 | 1045 | Lourisha |
-| 158 | 1043 | Brave Dropmatch |
-| 159 | 1043 | Suki Kaur |
+| 158 | 1043 | Suki Kaur |
+| 159 | 1043 | Brave Dropmatch |
 | 160 | 1035 | Sarah Freitas |
 | 161 | 1026 | Heather Westrum |
 | 162 | 1026 | Murrae Lynn Rebarchek |
@@ -321,8 +321,8 @@
 | 313 | 627 | Victoria Moore-Smith |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
-| 316 | 617 | Leslie Ann Carter |
-| 317 | 617 | tejas25 |
+| 316 | 617 | tejas25 |
+| 317 | 617 | Leslie Ann Carter |
 | 318 | 613 | Ellie Jonas |
 | 319 | 611 | Em Chen |
 | 320 | 611 | Julio A Laracuente |
@@ -466,24 +466,24 @@
 | 458 | 444 | Ryan Meilleur |
 | 459 | 442 | Leah |
 | 460 | 441 | Christina Wsn |
-| 461 | 440 | Liberty |
-| 462 | 440 | Sarah Berger |
+| 461 | 440 | Sarah Berger |
+| 462 | 440 | Liberty |
 | 463 | 440 | Snippy Rumbler |
 | 464 | 438 | Johnny Yeates |
 | 465 | 437 | Bubbly Snapfit |
 | 466 | 436 | Brenda Pierpoint |
-| 467 | 435 | James Louie |
-| 468 | 435 | Regina Young |
+| 467 | 435 | Regina Young |
+| 468 | 435 | James Louie |
 | 469 | 433 | KayLynn Ogden McClelland |
 | 470 | 432 | Lucy Marshall |
 | 471 | 430 | Jackie Lucas |
 | 472 | 430 | Gloria Ininahazwe |
-| 473 | 429 | Rhonda Milstead |
-| 474 | 429 | Christy Krissie |
+| 473 | 429 | Christy Krissie |
+| 474 | 429 | Rhonda Milstead |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Destiny Cozier |
-| 478 | 427 | Quinn |
+| 477 | 427 | Quinn |
+| 478 | 427 | Destiny Cozier |
 | 479 | 427 | Kori Beth Babb |
 | 480 | 426 | Ashley Dow |
 | 481 | 426 | Niceday |
@@ -751,8 +751,8 @@
 | 743 | 289 | August Hale |
 | 744 | 289 | Bella Novia |
 | 745 | 288 | thranduil |
-| 746 | 288 | Samantha Angelo |
-| 747 | 288 | Jenna Nance |
+| 746 | 288 | Jenna Nance |
+| 747 | 288 | Samantha Angelo |
 | 748 | 288 | Ashley Criner |
 | 749 | 287 | Toni Roberson |
 | 750 | 286 | Kelsey Sullivan |

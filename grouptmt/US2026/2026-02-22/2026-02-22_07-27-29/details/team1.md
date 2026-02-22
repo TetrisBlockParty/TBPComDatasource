@@ -88,8 +88,8 @@
 | 80 | 388 | cc |
 | 81 | 388 | Jennifer ManWarren |
 | 82 | 382 | Jacqueline Williams |
-| 83 | 379 | Austin James |
-| 84 | 379 | Kimmie Kimms |
+| 83 | 379 | Kimmie Kimms |
+| 84 | 379 | Austin James |
 | 85 | 374 | Tinah Montanna |
 | 86 | 371 | Hyper |
 | 87 | 368 | Tdub |
@@ -97,8 +97,8 @@
 | 89 | 359 | Nerdy Linkblock |
 | 90 | 355 | Hasbro Bros |
 | 91 | 350 | Tipsy Strikerpiece |
-| 92 | 347 | pjbeta |
-| 93 | 347 | june october |
+| 92 | 347 | june october |
+| 93 | 347 | pjbeta |
 | 94 | 345 | Dee Perry |
 | 95 | 344 | lil mickey |
 | 96 | 342 | Brenda Stewart |
@@ -127,8 +127,8 @@
 | 119 | 286 | Ly Phethmany |
 | 120 | 286 | Arianna O'Brien |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Emily Adelaide Wheatley |
-| 123 | 284 | Rachael |
+| 122 | 284 | Rachael |
+| 123 | 284 | Emily Adelaide Wheatley |
 | 124 | 283 | Franswa |
 | 125 | 282 | Timothy Dew |
 | 126 | 282 | Cool Shiftsnap |
@@ -152,8 +152,8 @@
 | 144 | 241 | John J. Cronin |
 | 145 | 239 | Jamie Jury |
 | 146 | 239 | GATOR |
-| 147 | 236 | Mandyy Rae |
-| 148 | 236 | Rahna Underwood |
+| 147 | 236 | Rahna Underwood |
+| 148 | 236 | Mandyy Rae |
 | 149 | 232 | Jessi Sauer |
 | 150 | 230 | Frothy Pattern |
 | 151 | 230 | Billie Dawn Sparks |
@@ -185,11 +185,11 @@
 | 177 | 204 | Lacy Wolfe |
 | 178 | 203 | LaFontaine Leslie |
 | 179 | 203 | Paula Martin |
-| 180 | 201 | Sam Williams |
-| 181 | 201 | Colleen Wise |
+| 180 | 201 | Colleen Wise |
+| 181 | 201 | Sam Williams |
 | 182 | 199 | Basment Living |
-| 183 | 198 | Shiny Gridmatch |
-| 184 | 198 | Happy Snapbuild |
+| 183 | 198 | Happy Snapbuild |
+| 184 | 198 | Shiny Gridmatch |
 | 185 | 195 | Shaykmia |
 | 186 | 194 | Christy Jones |
 | 187 | 193 | Jennifer Olewnik Soborowski |
@@ -306,7 +306,7 @@
 | 298 | 124 | Mario Cab |
 | 299 | 124 | Madison Wicks |
 | 300 | 124 | Beau Galvan |
-| 301 | 124 | DoodleBug |
+| 301 | 124 | John Kim |
 | 302 | 123 | Tonya Beasley |
 | 303 | 122 | Tyler Hertzog |
 | 304 | 122 | Nate Funk |
