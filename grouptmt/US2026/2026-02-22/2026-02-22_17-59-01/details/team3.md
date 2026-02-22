@@ -136,8 +136,8 @@
 | 128 | 526 | Cynthia Castros-Hampton |
 | 129 | 525 | Justin Ritter |
 | 130 | 521 | Leah Barnett |
-| 131 | 521 | Daryn Elliott |
-| 132 | 521 | Michael Nowogorski |
+| 131 | 521 | Michael Nowogorski |
+| 132 | 521 | Daryn Elliott |
 | 133 | 521 | Michelle Becker |
 | 134 | 518 | opf |
 | 135 | 506 | Sashay Tapae Simpson |
@@ -170,9 +170,9 @@
 | 162 | 438 | Valerie Gendron |
 | 163 | 432 | Jenny Hrndz |
 | 164 | 432 | Luciana Braganca Vieira |
-| 165 | 430 | Jeni Dow |
+| 165 | 430 | Joye Sims Binion |
 | 166 | 430 | Tasha Gillespie |
-| 167 | 430 | Joye Sims Binion |
+| 167 | 430 | Jeni Dow |
 | 168 | 427 | Wendy Dearden |
 | 169 | 421 | LaTanya GeminiondaRise Johnson |
 | 170 | 417 | Edwin Calvillo Jr. |
@@ -203,8 +203,8 @@
 | 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
-| 198 | 372 | Tom Nault |
-| 199 | 372 | Giddy Twistbuilder |
+| 198 | 372 | Giddy Twistbuilder |
+| 199 | 372 | Tom Nault |
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
@@ -325,7 +325,7 @@
 | 317 | 223 | Michael Lucado |
 | 318 | 223 | Kaycee Kay |
 | 319 | 222 | Aerian Preston |
-| 320 | 221 | Bleu Sun Beams |
+| 320 | 221 | Alice |
 | 321 | 221 | kacihall |
 | 322 | 221 | Bleu Sun Beams |
 | 323 | 221 | Vaners |

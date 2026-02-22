@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Jeremy Steines |
-| 81 | 575 | Carolyn Wallace |
+| 80 | 575 | Carolyn Wallace |
+| 81 | 575 | Jeremy Steines |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 559 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -156,11 +156,11 @@
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
-| 151 | 294 | Meagan Nicole |
-| 152 | 294 | Calvin Cannon |
+| 151 | 294 | Calvin Cannon |
+| 152 | 294 | Meagan Nicole |
 | 153 | 290 | Keshia Lyons |
-| 154 | 290 | Chaz Duncan |
-| 155 | 290 | 🥔🥔 Spudz |
+| 154 | 290 | 🥔🥔 Spudz |
+| 155 | 290 | Chaz Duncan |
 | 156 | 288 | Leah Kutz Zirbel |
 | 157 | 286 | shark tato |
 | 158 | 286 | Brittney Orengo |
@@ -180,10 +180,10 @@
 | 172 | 267 | Casey Grabner |
 | 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |
-| 175 | 265 | Chris Bernstein |
-| 176 | 265 | Jeff Brian Gates |
-| 177 | 264 | Epic Curvetile |
-| 178 | 264 | Girl |
+| 175 | 265 | Jeff Brian Gates |
+| 176 | 265 | Chris Bernstein |
+| 177 | 264 | Girl |
+| 178 | 264 | Epic Curvetile |
 | 179 | 262 | Joeliecea Cobb |
 | 180 | 262 | Holly Jolly |
 | 181 | 262 | Juls |
@@ -309,8 +309,8 @@
 | 301 | 154 | Zany Shatterer |
 | 302 | 153 | Empress Oasis |
 | 303 | 153 | Shainne Brewer |
-| 304 | 152 | Angela Geist Jusinski |
-| 305 | 152 | Faja |
+| 304 | 152 | Faja |
+| 305 | 152 | Angela Geist Jusinski |
 | 306 | 152 | Vanessa Smart |
 | 307 | 152 | Jared Gutwein |
 | 308 | 151 | Sarah Hoffman |

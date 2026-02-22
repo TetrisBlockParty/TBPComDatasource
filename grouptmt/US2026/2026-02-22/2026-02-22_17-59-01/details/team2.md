@@ -201,8 +201,8 @@
 | 193 | 1045 | Lourisha |
 | 194 | 1043 | Brave Dropmatch |
 | 195 | 1036 | Allison Lockyer |
-| 196 | 1024 | Bri Lynn |
-| 197 | 1024 | Desiree Anderson |
+| 196 | 1024 | Desiree Anderson |
+| 197 | 1024 | Bri Lynn |
 | 198 | 1023 | Brainy Smurf |
 | 199 | 1020 | Eric Carlson |
 | 200 | 1019 | Taylor Phillips |
@@ -572,8 +572,8 @@
 | 564 | 455 | Ann Knutson Anderson |
 | 565 | 453 | Jessica S Flecha |
 | 566 | 452 | Juanita Lyons |
-| 567 | 450 | Mike Aprilliano |
-| 568 | 450 | Cheery Matchzone |
+| 567 | 450 | Cheery Matchzone |
+| 568 | 450 | Mike Aprilliano |
 | 569 | 450 | Rich Sullivan |
 | 570 | 449 | Kristi Biddinger |
 | 571 | 448 | Lina Sanders |
@@ -601,8 +601,8 @@
 | 593 | 434 | bbv |
 | 594 | 432 | Abimbola Bimbo |
 | 595 | 432 | Lucy Marshall |
-| 596 | 431 | Quinn |
-| 597 | 431 | Hunter Connors |
+| 596 | 431 | Hunter Connors |
+| 597 | 431 | Quinn |
 | 598 | 430 | Ryan Stadel |
 | 599 | 429 | Tabs Reichert |
 | 600 | 428 | Lynda Toland |
@@ -670,9 +670,9 @@
 | 662 | 388 | ruth |
 | 663 | 387 | Bold Brickster |
 | 664 | 385 | Tansaria Couch-Butler |
-| 665 | 384 | Kelly |
-| 666 | 384 | Party d |
-| 667 | 384 | Heather Johnson |
+| 665 | 384 | Party d |
+| 666 | 384 | Heather Johnson |
+| 667 | 384 | Kelly |
 | 668 | 384 | Lawanda Forbes |
 | 669 | 382 | Frilly Fallzone |
 | 670 | 382 | Sarah block |
@@ -999,8 +999,8 @@
 | 991 | 268 | Chummy Breaker |
 | 992 | 268 | Sassy Linkroll |
 | 993 | 267 | Sanaa Nounoussa |
-| 994 | 267 | Nikki Vaughn |
-| 995 | 267 | Renee Bowers |
+| 994 | 267 | Renee Bowers |
+| 995 | 267 | Nikki Vaughn |
 | 996 | 267 | Denisse Avilez |
 | 997 | 266 | Quiksilver |
 | 998 | 266 | Bigg Meezy |

@@ -90,13 +90,13 @@
 | 82 | 471 | Jennifer ManWarren |
 | 83 | 456 | Arianna O'Brien |
 | 84 | 453 | Brandi Huntington |
-| 85 | 444 | Lexuriuos Lifestlye |
-| 86 | 444 | Hyper |
+| 85 | 444 | Hyper |
+| 86 | 444 | Lexuriuos Lifestlye |
 | 87 | 443 | Steve Schneider |
 | 88 | 436 | Tonya Beasley |
 | 89 | 434 | Loony Fitzone |
-| 90 | 433 | Tinah Montanna |
-| 91 | 433 | Trina Gee |
+| 90 | 433 | Trina Gee |
+| 91 | 433 | Tinah Montanna |
 | 92 | 429 | Tdub |
 | 93 | 428 | Stephanie Zahn |
 | 94 | 418 | Jazzy Framezone |
@@ -127,8 +127,8 @@
 | 119 | 355 | Hasbro Bros |
 | 120 | 354 | phrmblk24 |
 | 121 | 352 | Jason Jones |
-| 122 | 350 | Sweet Baker |
-| 123 | 350 | Tipsy Strikerpiece |
+| 122 | 350 | Tipsy Strikerpiece |
+| 123 | 350 | Sweet Baker |
 | 124 | 344 | Bhelle Sumile |
 | 125 | 343 | Death |
 | 126 | 341 | Nick R Montague |
@@ -222,8 +222,8 @@
 | 214 | 223 | Basment Living |
 | 215 | 222 | Debbie Davis |
 | 216 | 221 | Daring Fitclear |
-| 217 | 220 | Giddy Cascade |
-| 218 | 220 | Jessie Lynn |
+| 217 | 220 | Jessie Lynn |
+| 218 | 220 | Giddy Cascade |
 | 219 | 219 | Chuck Gannon |
 | 220 | 217 | Jason Savage |
 | 221 | 216 | Chad Atchley |
