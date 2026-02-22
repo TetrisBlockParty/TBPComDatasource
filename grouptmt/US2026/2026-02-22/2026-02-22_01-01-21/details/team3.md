@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -69,8 +69,8 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
@@ -135,8 +135,8 @@
 | 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Tessina Dewey-Mancino |
-| 131 | 355 | Sherry Ogden |
+| 130 | 355 | Sherry Ogden |
+| 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
 | 134 | 347 | Darlene McMillan |
@@ -184,13 +184,13 @@
 | 176 | 249 | Terry Jo Jones |
 | 177 | 245 | Annie Marie |
 | 178 | 245 | Latoya Mayne |
-| 179 | 243 | Rebecca Funderburk Kirby |
-| 180 | 243 | Rochelle Hazelett |
+| 179 | 243 | Rochelle Hazelett |
+| 180 | 243 | Rebecca Funderburk Kirby |
 | 181 | 240 | Brandon Givens |
-| 182 | 240 | Jimmie Clemons |
-| 183 | 240 | Brenda Lee Vander Molen |
-| 184 | 236 | Fallorina Susana |
-| 185 | 236 | Jess Bissett |
+| 182 | 240 | Brenda Lee Vander Molen |
+| 183 | 240 | Jimmie Clemons |
+| 184 | 236 | Jess Bissett |
+| 185 | 236 | Fallorina Susana |
 | 186 | 234 | Nikki Pags |
 | 187 | 233 | Ray Lader |
 | 188 | 232 | Rania Zaqout |
@@ -282,7 +282,7 @@
 | 274 | 157 | Katrina E Jelks |
 | 275 | 156 | Brittany |
 | 276 | 155 | RickyG |
-| 277 | 153 | Wetwet |
+| 277 | 153 | Cozy Snaplink |
 | 278 | 153 | Rachel |
 | 279 | 153 | Wetwet |
 | 280 | 153 | Sheila M Frazier |
@@ -327,7 +327,7 @@
 | 319 | 136 | Christian Werndl |
 | 320 | 134 | Bleu Sun Beams |
 | 321 | 134 | MizzMonick Smith |
-| 322 | 134 | Bleu Sun Beams |
+| 322 | 134 | Tammy |
 | 323 | 133 | April Matthew Kibble |
 | 324 | 133 | Jen Lewis |
 | 325 | 132 | Angela Scott |

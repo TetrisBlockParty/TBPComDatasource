@@ -144,8 +144,8 @@
 | 136 | 194 | Tyler Werts |
 | 137 | 194 | Ash Galvan |
 | 138 | 193 | Lachelle Dillon |
-| 139 | 192 | Shaykmia |
-| 140 | 192 | Jessica Sheehan |
+| 139 | 192 | Jessica Sheehan |
+| 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
 | 142 | 190 | Sweetts |
 | 143 | 190 | Thorne Shumate |

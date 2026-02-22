@@ -470,8 +470,8 @@
 | 462 | 346 | Lewis Sturgeon |
 | 463 | 345 | Frisky Clearpiece |
 | 464 | 345 | Rhianna DiLorenzo |
-| 465 | 344 | Glenn Cobbins |
-| 466 | 344 | Felicia Lynn |
+| 465 | 344 | Felicia Lynn |
+| 466 | 344 | Glenn Cobbins |
 | 467 | 343 | Rose Fx |
 | 468 | 343 | Kia Humphery |
 | 469 | 342 | Sydney Busse |

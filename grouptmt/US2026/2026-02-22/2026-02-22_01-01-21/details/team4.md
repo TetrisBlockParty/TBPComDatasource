@@ -133,8 +133,8 @@
 | 125 | 210 | Swanky Fitline |
 | 126 | 208 | Chastity Mitchell |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Jen Caldwell |
-| 129 | 204 | Dana Scott |
+| 128 | 204 | Dana Scott |
+| 129 | 204 | Jen Caldwell |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -196,8 +196,8 @@
 | 188 | 138 | Tanner Lund |
 | 189 | 138 | Brandon Link |
 | 190 | 137 | PeaceOs |
-| 191 | 136 | Crystal Nicolette Moore |
-| 192 | 136 | Chaz |
+| 191 | 136 | Chaz |
+| 192 | 136 | Crystal Nicolette Moore |
 | 193 | 134 | Chirpy Basepiece |
 | 194 | 134 | Kristina Black |
 | 195 | 134 | Kim Klutz Olson |
@@ -270,8 +270,8 @@
 | 262 | 106 | Zappy Snaplink |
 | 263 | 106 | Brandi Durig |
 | 264 | 105 | Kim Hunt |
-| 265 | 104 | mike |
-| 266 | 104 | Cheery Risebuilder |
+| 265 | 104 | Cheery Risebuilder |
+| 266 | 104 | mike |
 | 267 | 103 | Richard-April Kice |
 | 268 | 103 | Jasmine S Caldwell |
 | 269 | 102 | Jumpy Zonepiece |
