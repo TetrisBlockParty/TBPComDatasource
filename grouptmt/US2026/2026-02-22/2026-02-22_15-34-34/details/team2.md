@@ -248,8 +248,8 @@
 | 240 | 867 | Peppy Zone |
 | 241 | 867 | Michele Gabriel |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | April Dawn Gussler |
-| 244 | 860 | John Bednarik |
+| 243 | 860 | John Bednarik |
+| 244 | 860 | April Dawn Gussler |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
 | 247 | 853 | Maria Escobar |
@@ -418,8 +418,8 @@
 | 410 | 553 | Blacc Blac |
 | 411 | 550 | Nashu |
 | 412 | 549 | Darcy Mae |
-| 413 | 549 | Frisky Clearpiece |
-| 414 | 549 | Kaylee McCafferty |
+| 413 | 549 | Kaylee McCafferty |
+| 414 | 549 | Frisky Clearpiece |
 | 415 | 546 | AISlop |
 | 416 | 544 | Deidre Shaffer |
 | 417 | 543 | Vanessa Moreno |
@@ -438,10 +438,10 @@
 | 430 | 531 | Aishah Brice |
 | 431 | 530 | Angela Lynn |
 | 432 | 529 | Ben Barkley |
-| 433 | 528 | Anita Rose Green |
-| 434 | 528 | Sparkles |
-| 435 | 527 | Osun Anuket Esu |
-| 436 | 527 | Ryan Gunther |
+| 433 | 528 | Sparkles |
+| 434 | 528 | Anita Rose Green |
+| 435 | 527 | Ryan Gunther |
+| 436 | 527 | Osun Anuket Esu |
 | 437 | 526 | Sheronda Jackson |
 | 438 | 525 | Joseph Musick |
 | 439 | 524 | Lonne Emade |
@@ -454,8 +454,8 @@
 | 446 | 516 | Diamond Scott |
 | 447 | 515 | Victoria Regina Girolami |
 | 448 | 515 | Laquetta Royston |
-| 449 | 514 | Sarah Berger |
-| 450 | 514 | Karen Posadas Centeno |
+| 449 | 514 | Karen Posadas Centeno |
+| 450 | 514 | Sarah Berger |
 | 451 | 512 | Leslie Jorgenson |
 | 452 | 511 | Laura Mclean |
 | 453 | 509 | Kelli Wells |
@@ -535,8 +535,8 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Funky Caster |
-| 531 | 451 | Anthony Huebel |
+| 530 | 451 | Anthony Huebel |
+| 531 | 451 | Funky Caster |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |

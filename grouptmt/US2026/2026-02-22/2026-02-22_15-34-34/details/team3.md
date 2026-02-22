@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -194,8 +194,8 @@
 | 186 | 368 | Stephanie Woods |
 | 187 | 366 | Adrian Marcel Pate |
 | 188 | 363 | Tom Nault |
-| 189 | 362 | Rochelle Hazelett |
-| 190 | 362 | Darlene McMillan |
+| 189 | 362 | Darlene McMillan |
+| 190 | 362 | Rochelle Hazelett |
 | 191 | 361 | Jamie Lang |
 | 192 | 358 | Chummy Caster |
 | 193 | 358 | RickyG |
@@ -302,11 +302,11 @@
 | 294 | 225 | Steffi Chris Dacones |
 | 295 | 224 | Tracy Martin |
 | 296 | 223 | Michael Lucado |
-| 297 | 221 | Vaners |
-| 298 | 221 | Desiree Gold |
-| 299 | 221 | Jaime Monhaut-Reed |
-| 300 | 221 | kacihall |
-| 301 | 221 | Alice |
+| 297 | 221 | Desiree Gold |
+| 298 | 221 | Jaime Monhaut-Reed |
+| 299 | 221 | Vaners |
+| 300 | 221 | Alice |
+| 301 | 221 | kacihall |
 | 302 | 220 | Tosha Griffey |
 | 303 | 217 | Twisty Brick LT |
 | 304 | 216 | Cheryl Hinch Tenbrook |

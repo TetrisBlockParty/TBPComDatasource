@@ -129,8 +129,8 @@
 | 121 | 353 | Tyler Terrific |
 | 122 | 344 | Livvy |
 | 123 | 343 | Latisha Davis |
-| 124 | 332 | HastyGrabber |
-| 125 | 332 | Desi Desporte |
+| 124 | 332 | Desi Desporte |
+| 125 | 332 | HastyGrabber |
 | 126 | 331 | ThaEviLJeNiuZ |
 | 127 | 330 | David Lay |
 | 128 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -263,8 +263,8 @@
 | 255 | 168 | 23 |
 | 256 | 167 | Cozy Balancer |
 | 257 | 166 | Jenny Wells-Oakley |
-| 258 | 166 | Megan Cutshaw |
-| 259 | 166 | Angelito |
+| 258 | 166 | Angelito |
+| 259 | 166 | Megan Cutshaw |
 | 260 | 166 | SammieJo Guy |
 | 261 | 165 | Brittany Marsh |
 | 262 | 165 | Zappy Buildgrid |
@@ -455,10 +455,10 @@
 | 447 | 102 | Candice Carasiti |
 | 448 | 102 | Christina O'Dell-Ishau |
 | 449 | 101 | Saulc1991 |
-| 450 | 100 | Marcus TheeyoungWoe Gilmore |
-| 451 | 100 | Jen Mattei |
-| 452 | 99 | Dapper Frame |
-| 453 | 99 | Dapper Caster |
+| 450 | 100 | Jen Mattei |
+| 451 | 100 | Marcus TheeyoungWoe Gilmore |
+| 452 | 99 | Dapper Caster |
+| 453 | 99 | Dapper Frame |
 | 454 | 99 | Heather Layne Smith |
 | 455 | 99 | Jacob Campbell |
 | 456 | 98 | LunaMoon |
