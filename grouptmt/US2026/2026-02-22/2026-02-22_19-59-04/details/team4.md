@@ -72,8 +72,8 @@
 | 64 | 703 | Anthony Bryan Riva |
 | 65 | 675 | D3TROITB0RN74 |
 | 66 | 671 | Kimyatta Cavin |
-| 67 | 664 | Valerie Roberts |
-| 68 | 664 | loulou |
+| 67 | 664 | loulou |
+| 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
 | 70 | 647 | KM8 |
 | 71 | 647 | Shauna Havard |
@@ -97,8 +97,8 @@
 | 89 | 539 | Chris Baggett |
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
-| 92 | 513 | YoMomma |
-| 93 | 513 | Erin Thomas |
+| 92 | 513 | Erin Thomas |
+| 93 | 513 | YoMomma |
 | 94 | 513 | Nugget |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
@@ -307,8 +307,8 @@
 | 299 | 165 | Amanda Christine |
 | 300 | 165 | Brittany Marsh |
 | 301 | 164 | Marvetta Williams |
-| 302 | 163 | Jason Bosco |
-| 303 | 163 | Joseph Edmonson |
+| 302 | 163 | Joseph Edmonson |
+| 303 | 163 | Jason Bosco |
 | 304 | 163 | Ellen Durfee |
 | 305 | 162 | Gwendolyn Pitcairn |
 | 306 | 162 | conceptCollector |
@@ -504,10 +504,10 @@
 | 496 | 105 | meowmew |
 | 497 | 105 | Lakesha Johnson |
 | 498 | 104 | Marcus TheeyoungWoe Gilmore |
-| 499 | 104 | Amy Jean |
-| 500 | 104 | Kametsunoyaiba |
-| 501 | 104 | Melissa VanBourgondien |
-| 502 | 104 | Jessica Johnston |
+| 499 | 104 | Kametsunoyaiba |
+| 500 | 104 | Amy Jean |
+| 501 | 104 | Jessica Johnston |
+| 502 | 104 | Melissa VanBourgondien |
 | 503 | 103 | Mary Miller |
 | 504 | 103 | Renee Marshall |
 | 505 | 103 | Larry Agan |

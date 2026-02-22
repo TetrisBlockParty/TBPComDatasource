@@ -275,8 +275,8 @@
 | 267 | 875 | Jamie Otero |
 | 268 | 874 | Giggy Blocker |
 | 269 | 872 | Felicia Lynn |
-| 270 | 867 | Michele Gabriel |
-| 271 | 867 | Peppy Zone |
+| 270 | 867 | Peppy Zone |
+| 271 | 867 | Michele Gabriel |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
 | 274 | 860 | April Dawn Gussler |
@@ -553,13 +553,13 @@
 | 545 | 479 | James Smith |
 | 546 | 477 | Rhonda Petro |
 | 547 | 476 | Christy Krissie |
-| 548 | 476 | Ann Knutson Anderson |
-| 549 | 476 | Kiana Boschh |
-| 550 | 475 | Michelle Lee |
-| 551 | 475 | Mia Muse Best |
-| 552 | 474 | Calandra Shaya Robinson |
-| 553 | 474 | Cody Nishimura |
-| 554 | 474 | Jennifer Aiken |
+| 548 | 476 | Kiana Boschh |
+| 549 | 476 | Ann Knutson Anderson |
+| 550 | 475 | Mia Muse Best |
+| 551 | 475 | Michelle Lee |
+| 552 | 474 | Jennifer Aiken |
+| 553 | 474 | Calandra Shaya Robinson |
+| 554 | 474 | Cody Nishimura |
 | 555 | 473 | Ashlee Cruz |
 | 556 | 473 | Tracy Wise |
 | 557 | 473 | coleksquad |
@@ -579,8 +579,8 @@
 | 571 | 467 | Audrey Jones |
 | 572 | 467 | SwampRebel |
 | 573 | 466 | Koa N Sharon Chen |
-| 574 | 466 | Crystal Greene |
-| 575 | 466 | Kori Beth Babb |
+| 574 | 466 | Kori Beth Babb |
+| 575 | 466 | Crystal Greene |
 | 576 | 466 | Ebony Deloach Bryant |
 | 577 | 464 | Ryan Stadel |
 | 578 | 463 | Jaye EL Hunter |

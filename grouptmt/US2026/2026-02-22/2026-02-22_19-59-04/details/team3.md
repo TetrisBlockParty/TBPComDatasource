@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 794 | Aaron Pitkin |
@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -257,14 +257,14 @@
 | 249 | 312 | Charles Perrone |
 | 250 | 308 | Cynthia Herrmann Egland |
 | 251 | 307 | Snappy Balancer |
-| 252 | 307 | Blocked |
-| 253 | 307 | rnr junky |
+| 252 | 307 | rnr junky |
+| 253 | 307 | Blocked |
 | 254 | 306 | Felicia Rocha |
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
 | 257 | 299 | Angie Harper |
-| 258 | 298 | MsBee |
-| 259 | 298 | Grams |
+| 258 | 298 | Grams |
+| 259 | 298 | MsBee |
 | 260 | 297 | Jojo M |
 | 261 | 296 | Hoppy Buildout |
 | 262 | 296 | Katrina Turner |
