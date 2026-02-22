@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -294,7 +294,7 @@
 | 286 | 130 | Zach Kerbs |
 | 287 | 130 | Shukee Lo |
 | 288 | 129 | Sherri |
-| 289 | 129 | Lindsey Gonzalez |
+| 289 | 129 | Jasmine S Caldwell |
 | 290 | 129 | Dreamy Snapgrid |
 | 291 | 129 | Lindsey Gonzalez |
 | 292 | 128 | Madison Sweere |

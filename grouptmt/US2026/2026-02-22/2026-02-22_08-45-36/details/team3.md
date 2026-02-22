@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Patty Allen |
-| 101 | 565 | Rachael McClain Owens |
+| 100 | 565 | Rachael McClain Owens |
+| 101 | 565 | Patty Allen |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -212,8 +212,8 @@
 | 204 | 301 | Chelsea Hall |
 | 205 | 300 | Sherika C. McDaniels |
 | 206 | 298 | MsBee |
-| 207 | 296 | Ammmmmmy |
-| 208 | 296 | Katrina Turner |
+| 207 | 296 | Katrina Turner |
+| 208 | 296 | Ammmmmmy |
 | 209 | 296 | Brandon Givens |
 | 210 | 295 | Marci Mize Fandrich |
 | 211 | 295 | RickyG |
@@ -282,8 +282,8 @@
 | 274 | 216 | Cheryl Hinch Tenbrook |
 | 275 | 216 | Twisty Brick LT |
 | 276 | 215 | IamJust Neyamijah Washington Sr. |
-| 277 | 214 | Rebel124 |
-| 278 | 214 | Angela Scott |
+| 277 | 214 | Angela Scott |
+| 278 | 214 | Rebel124 |
 | 279 | 214 | Amy Fuller Heaton |
 | 280 | 213 | Foltz Lee Kelli |
 | 281 | 212 | Desiree Gold |

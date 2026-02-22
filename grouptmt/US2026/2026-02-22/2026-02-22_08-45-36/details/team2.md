@@ -215,8 +215,8 @@
 | 207 | 867 | Michele Gabriel |
 | 208 | 867 | Peppy Zone |
 | 209 | 865 | Dedra Steward |
-| 210 | 862 | Robin Kerby |
-| 211 | 862 | Brittany Radaszewski |
+| 210 | 862 | Brittany Radaszewski |
+| 211 | 862 | Robin Kerby |
 | 212 | 860 | April Dawn Gussler |
 | 213 | 857 | Della Hole |
 | 214 | 853 | Felicia Lynn |
@@ -254,8 +254,8 @@
 | 246 | 766 | Lisa Ongtowasruk |
 | 247 | 765 | Jodi Blake |
 | 248 | 764 | Pacynthia Williams |
-| 249 | 763 | Samantha Jo |
-| 250 | 763 | Mischelle Clay |
+| 249 | 763 | Mischelle Clay |
+| 250 | 763 | Samantha Jo |
 | 251 | 763 | Beth |
 | 252 | 759 | Desire Rice |
 | 253 | 756 | Stephanie Neuburger |
@@ -498,8 +498,8 @@
 | 490 | 428 | Kiana Boschh |
 | 491 | 428 | Arkei Luster |
 | 492 | 428 | Shyenn Gadsby |
-| 493 | 427 | Destiny Cozier |
-| 494 | 427 | Quinn |
+| 493 | 427 | Quinn |
+| 494 | 427 | Destiny Cozier |
 | 495 | 427 | Kori Beth Babb |
 | 496 | 426 | Ashley Dow |
 | 497 | 425 | Skyler Morgan |
@@ -548,8 +548,8 @@
 | 540 | 399 | Cleo Sims |
 | 541 | 399 | Oscar Bernie |
 | 542 | 398 | Crystal Heller Gonzalez |
-| 543 | 397 | Alex Dungo Hoang |
-| 544 | 397 | Tabs Reichert |
+| 543 | 397 | Tabs Reichert |
+| 544 | 397 | Alex Dungo Hoang |
 | 545 | 396 | Boogie SoAnimated Johnson |
 | 546 | 396 | Candy Pitts |
 | 547 | 394 | Taryece Gause |
@@ -604,8 +604,8 @@
 | 596 | 371 | AkaLefty |
 | 597 | 371 | Brenda Messer |
 | 598 | 369 | Juan Castillo |
-| 599 | 369 | RaeVan Worthington |
-| 600 | 369 | Tony Lea |
+| 599 | 369 | Tony Lea |
+| 600 | 369 | RaeVan Worthington |
 | 601 | 368 | Angi Harrison |
 | 602 | 367 | Jessica Lamb |
 | 603 | 367 | Connie Lepore-Mann |
@@ -639,8 +639,8 @@
 | 631 | 354 | Rickey Johnson |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
-| 634 | 352 | Mikayala Szaz |
-| 635 | 352 | ruth |
+| 634 | 352 | ruth |
+| 635 | 352 | Mikayala Szaz |
 | 636 | 351 | Connie Jimenez |
 | 637 | 350 | Fi Ne |
 | 638 | 350 | Chris Harr |
@@ -681,11 +681,11 @@
 | 673 | 329 | Chummy Blockbuilder |
 | 674 | 329 | Snappy Shatterfit |
 | 675 | 329 | Jane Crew |
-| 676 | 328 | Jamie Carter Bierce |
-| 677 | 328 | BabyBird |
+| 676 | 328 | BabyBird |
+| 677 | 328 | Jamie Carter Bierce |
 | 678 | 326 | Sharon Mills |
-| 679 | 326 | Angela Murgia-Owen |
-| 680 | 326 | Ann Knutson Anderson |
+| 679 | 326 | Ann Knutson Anderson |
+| 680 | 326 | Angela Murgia-Owen |
 | 681 | 325 | Justin Hines |
 | 682 | 324 | Mike73 |
 | 683 | 324 | Tasia Stinson |
@@ -803,8 +803,8 @@
 | 795 | 275 | Tammy Mitchell |
 | 796 | 275 | Neaomi Favro |
 | 797 | 275 | Crystal Elam |
-| 798 | 274 | Jamie Stevey |
-| 799 | 274 | Sabrena Yeisley |
+| 798 | 274 | Sabrena Yeisley |
+| 799 | 274 | Jamie Stevey |
 | 800 | 274 | KT Macadocious |
 | 801 | 274 | Robin L. Vial |
 | 802 | 273 | Jennifer Aiken |
@@ -813,8 +813,8 @@
 | 805 | 272 | Alexandrea |
 | 806 | 272 | Witty Piecebuilder |
 | 807 | 271 | Pam Doughty |
-| 808 | 271 | Beverly Hodge |
-| 809 | 271 | Shalisa Hill |
+| 808 | 271 | Shalisa Hill |
+| 809 | 271 | Beverly Hodge |
 | 810 | 270 | BK Queen |
 | 811 | 270 | Nat |
 | 812 | 270 | Lazy Builderfit |

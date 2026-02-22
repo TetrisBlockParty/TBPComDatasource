@@ -151,8 +151,8 @@
 | 143 | 256 | David Miller |
 | 144 | 255 | Elaine Elaine |
 | 145 | 254 | Al Smith Jr |
-| 146 | 253 | Plucky Fallzone |
-| 147 | 253 | Witty Builderfit |
+| 146 | 253 | Witty Builderfit |
+| 147 | 253 | Plucky Fallzone |
 | 148 | 252 | Dena Kayy |
 | 149 | 251 | Nutty Spinblock |
 | 150 | 247 | Tana |
