@@ -288,8 +288,8 @@
 | 280 | 629 | Dee |
 | 281 | 626 | Allan Wayne Lamia |
 | 282 | 619 | Jánine Riggs |
-| 283 | 617 | tejas25 |
-| 284 | 617 | Leslie Ann Carter |
+| 283 | 617 | Leslie Ann Carter |
+| 284 | 617 | tejas25 |
 | 285 | 615 | Brandon Armstrong |
 | 286 | 613 | Ellie Jonas |
 | 287 | 609 | Stephen Stephen |
@@ -359,13 +359,13 @@
 | 351 | 496 | Blacc Blac |
 | 352 | 494 | Doowop40 |
 | 353 | 493 | Kara Gillen |
-| 354 | 492 | Armonie Smith |
-| 355 | 492 | Breezy Clusterer |
+| 354 | 492 | Breezy Clusterer |
+| 355 | 492 | Armonie Smith |
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Venita Ray |
-| 360 | 488 | Andrew Willis |
+| 359 | 488 | Andrew Willis |
+| 360 | 488 | Venita Ray |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -665,8 +665,8 @@
 | 657 | 292 | Britney M. |
 | 658 | 292 | Epic Fitzone |
 | 659 | 290 | Adrian Benitez |
-| 660 | 289 | August Hale |
-| 661 | 289 | Bella Novia |
+| 660 | 289 | Bella Novia |
+| 661 | 289 | August Hale |
 | 662 | 288 | thranduil |
 | 663 | 288 | Ashley Criner |
 | 664 | 288 | Jenna Nance |
@@ -678,8 +678,8 @@
 | 670 | 285 | June E Hanson |
 | 671 | 285 | Court |
 | 672 | 284 | Tabs Reichert |
-| 673 | 284 | Hillary Franklin |
-| 674 | 284 | Dapper Dasher |
+| 673 | 284 | Dapper Dasher |
+| 674 | 284 | Hillary Franklin |
 | 675 | 283 | Tash Bell |
 | 676 | 282 | Nutty Slice |
 | 677 | 280 | Danielle DeLozier Plesec |
@@ -745,8 +745,8 @@
 | 737 | 258 | Tee Jaleesa |
 | 738 | 258 | JacJac |
 | 739 | 257 | Jackie Jackie Lee |
-| 740 | 256 | Brenna Yearian |
-| 741 | 256 | Quirky Twistline |
+| 740 | 256 | Quirky Twistline |
+| 741 | 256 | Brenna Yearian |
 | 742 | 256 | Amy Humphreys |
 | 743 | 256 | Andrea Devery Beck |
 | 744 | 255 | Tom Steffen |
@@ -757,7 +757,7 @@
 | 749 | 254 | Connie Jimenez |
 | 750 | 252 | Emilie Desma |
 | 751 | 252 | Aleasha M Brown |
-| 752 | 252 | Emilie Desma |
+| 752 | 252 | Sanaa Nounoussa |
 | 753 | 252 | Sheniya Spurgeon |
 | 754 | 251 | Bold Clusterfit |
 | 755 | 250 | Lianne Giandalone LaBounty |
@@ -815,8 +815,8 @@
 | 807 | 236 | Denisse Avilez |
 | 808 | 236 | Ashley Dow |
 | 809 | 236 | Daring Matchfit |
-| 810 | 235 | B-rad B-rad |
-| 811 | 235 | Angelica |
+| 810 | 235 | Angelica |
+| 811 | 235 | B-rad B-rad |
 | 812 | 235 | Prince Ajesh |
 | 813 | 235 | Pfc Monei Rivera |
 | 814 | 234 | Greenshades00 |

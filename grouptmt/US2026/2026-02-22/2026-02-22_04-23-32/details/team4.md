@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Dustee Craddock-Harrison |
-| 45 | 630 | Chilly Line |
+| 44 | 630 | Chilly Line |
+| 45 | 630 | Dustee Craddock-Harrison |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | Robin Getchel |
 | 48 | 614 | KM8 |
@@ -91,8 +91,8 @@
 | 83 | 373 | Joseph Guthrie |
 | 84 | 370 | Leslie Thomas |
 | 85 | 369 | Nope Young |
-| 86 | 358 | Nugget |
-| 87 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Shane Kalamata Platoon |
+| 87 | 358 | Nugget |
 | 88 | 352 | Monica Daley |
 | 89 | 347 | Julian Garcia |
 | 90 | 337 | Lori Walker |

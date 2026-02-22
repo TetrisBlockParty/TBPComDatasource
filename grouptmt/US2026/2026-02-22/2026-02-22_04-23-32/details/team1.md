@@ -90,8 +90,8 @@
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
 | 84 | 353 | Hyper |
-| 85 | 347 | pjbeta |
-| 86 | 347 | june october |
+| 85 | 347 | june october |
+| 86 | 347 | pjbeta |
 | 87 | 345 | Dee Perry |
 | 88 | 338 | Tipsy Strikerpiece |
 | 89 | 333 | Brandi Huntington |
@@ -282,7 +282,7 @@
 | 274 | 116 | Debbie Davis |
 | 275 | 116 | Fresno Beotoni |
 | 276 | 115 | Mrs.Patrica |
-| 277 | 114 | Constance Risner |
+| 277 | 114 | Angela Rena Brooks |
 | 278 | 114 | Rachel Nichole Henry |
 | 279 | 114 | Constance Risner |
 | 280 | 112 | Chris65 |
@@ -448,8 +448,8 @@
 | 440 | 73 | Spicy Zoner |
 | 441 | 73 | Channis |
 | 442 | 72 | Chaste Minor |
-| 443 | 72 | Oliver Hollins |
-| 444 | 72 | Tipsy Tiltpiece |
+| 443 | 72 | Tipsy Tiltpiece |
+| 444 | 72 | Oliver Hollins |
 | 445 | 72 | Zappy Pivoty |
 | 446 | 71 | JaPria Rodgers |
 | 447 | 71 | yoyoluv |

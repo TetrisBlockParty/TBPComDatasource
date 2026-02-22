@@ -201,8 +201,8 @@
 | 193 | 276 | _melisa223_ |
 | 194 | 276 | Crimson |
 | 195 | 274 | Tye Stovall |
-| 196 | 272 | Dee Franklin |
-| 197 | 272 | opf |
+| 196 | 272 | opf |
+| 197 | 272 | Dee Franklin |
 | 198 | 271 | Ashley Muncey |
 | 199 | 267 | Denise Nardoni |
 | 200 | 267 | Terry Jo Jones |
@@ -220,12 +220,12 @@
 | 212 | 256 | Brenda Lee Vander Molen |
 | 213 | 256 | KayB |
 | 214 | 253 | Nora Rogers |
-| 215 | 249 | JerseyJess |
-| 216 | 249 | Annie Marie |
+| 215 | 249 | Annie Marie |
+| 216 | 249 | JerseyJess |
 | 217 | 247 | Rebecca Funderburk Kirby |
 | 218 | 246 | Eon Harris |
-| 219 | 246 | Peppy Shifter |
-| 220 | 246 | Rochelle Hazelett |
+| 219 | 246 | Rochelle Hazelett |
+| 220 | 246 | Peppy Shifter |
 | 221 | 245 | Latoya Mayne |
 | 222 | 240 | Kammy Hill |
 | 223 | 240 | Jimmie Clemons |
@@ -273,8 +273,8 @@
 | 265 | 195 | Cheryl Hinch Tenbrook |
 | 266 | 194 | Saucy Buildout |
 | 267 | 193 | Clever Shiftsnap |
-| 268 | 192 | Ryan Williams |
-| 269 | 192 | Kelly Ann Child |
+| 268 | 192 | Kelly Ann Child |
+| 269 | 192 | Ryan Williams |
 | 270 | 191 | Meowsa |
 | 271 | 189 | Katie Leigh Blankenship |
 | 272 | 188 | Loopy Fallmatch |
