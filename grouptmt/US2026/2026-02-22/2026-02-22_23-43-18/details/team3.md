@@ -145,8 +145,8 @@
 | 137 | 585 | opf |
 | 138 | 583 | Karon Griffin |
 | 139 | 582 | Natasha Jones |
-| 140 | 579 | Annie Marie |
-| 141 | 579 | Jaime Monhaut-Reed |
+| 140 | 579 | Jaime Monhaut-Reed |
+| 141 | 579 | Annie Marie |
 | 142 | 574 | Morgan Martinez |
 | 143 | 572 | CeceGeGe |
 | 144 | 571 | Nicole Myers |
@@ -233,8 +233,8 @@
 | 225 | 372 | Rich LeBlanc |
 | 226 | 372 | Sarah Moyer |
 | 227 | 370 | RickyG |
-| 228 | 368 | Stephanie Woods |
-| 229 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Rebecca Funderburk Kirby |
+| 229 | 368 | Stephanie Woods |
 | 230 | 367 | Connie Mohler-Fair |
 | 231 | 366 | Marquita Sheard |
 | 232 | 365 | Chummy Caster |

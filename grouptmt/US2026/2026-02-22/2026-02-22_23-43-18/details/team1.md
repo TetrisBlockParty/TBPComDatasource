@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -125,8 +125,8 @@
 | 117 | 416 | Dandy Basegrid |
 | 118 | 409 | Yvonne Marie |
 | 119 | 402 | Plucky Ziggy |
-| 120 | 400 | SkipTheSadSauce |
-| 121 | 400 | Maria C. Hernandez |
+| 120 | 400 | Maria C. Hernandez |
+| 121 | 400 | SkipTheSadSauce |
 | 122 | 399 | Nery Martinez |
 | 123 | 397 | Candy Jones |
 | 124 | 394 | Chris K |
@@ -146,8 +146,8 @@
 | 138 | 364 | Serina Marie |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
-| 141 | 360 | phrmblk24 |
-| 142 | 360 | Wisa |
+| 141 | 360 | Wisa |
+| 142 | 360 | phrmblk24 |
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
@@ -164,8 +164,8 @@
 | 156 | 333 | Jennifer Hardman |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
-| 159 | 324 | Rat666 |
-| 160 | 324 | Ananda Mendez |
+| 159 | 324 | Ananda Mendez |
+| 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
 | 162 | 318 | Virginia Gray Floyd |
 | 163 | 318 | Jessica Sheehan |
@@ -201,8 +201,8 @@
 | 193 | 279 | John Kim |
 | 194 | 279 | Tana |
 | 195 | 277 | Christy Jones |
-| 196 | 277 | Nutty Spinblock |
-| 197 | 277 | Sleepysloath5745 |
+| 196 | 277 | Sleepysloath5745 |
+| 197 | 277 | Nutty Spinblock |
 | 198 | 276 | Shiny Snapfit |
 | 199 | 275 | Jerry Danowski |
 | 200 | 273 | Shannon Marie Pitts |
@@ -210,12 +210,12 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Debbie Kane |
-| 206 | 267 | Cody Gates |
+| 205 | 267 | Cody Gates |
+| 206 | 267 | Debbie Kane |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jenny Gingrich Fuentes |
-| 210 | 264 | Jen Nystrom |
+| 209 | 264 | Jen Nystrom |
+| 210 | 264 | Jenny Gingrich Fuentes |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Standia Civil |
@@ -225,8 +225,8 @@
 | 217 | 254 | Giggly Builderline |
 | 218 | 253 | Jamie Jury |
 | 219 | 252 | Dena Kayy |
-| 220 | 249 | Sam Williams |
-| 221 | 249 | Lakeisha Chapman |
+| 220 | 249 | Lakeisha Chapman |
+| 221 | 249 | Sam Williams |
 | 222 | 247 | Snappy Matcher |
 | 223 | 247 | John J. Cronin |
 | 224 | 245 | MRdot Rooski |
@@ -242,8 +242,8 @@
 | 234 | 238 | Tiffany Smith |
 | 235 | 238 | Sarah Somers Gray |
 | 236 | 235 | Bindi |
-| 237 | 234 | Shanae Grant |
-| 238 | 234 | Paula Martin |
+| 237 | 234 | Paula Martin |
+| 238 | 234 | Shanae Grant |
 | 239 | 233 | LC |
 | 240 | 232 | Erin Rosberg |
 | 241 | 230 | BigWeenie69 |
@@ -399,10 +399,10 @@
 | 391 | 156 | Ashley Adams |
 | 392 | 156 | Wayne Saunders |
 | 393 | 155 | Irv |
-| 394 | 155 | Mrs.Patrica |
-| 395 | 155 | Barry Mac'Ockner |
-| 396 | 154 | Mario Cab |
-| 397 | 154 | TristansDad |
+| 394 | 155 | Barry Mac'Ockner |
+| 395 | 155 | Mrs.Patrica |
+| 396 | 154 | TristansDad |
+| 397 | 154 | Mario Cab |
 | 398 | 153 | Toph |
 | 399 | 152 | Jordan Brooks |
 | 400 | 151 | Hector Cruz |

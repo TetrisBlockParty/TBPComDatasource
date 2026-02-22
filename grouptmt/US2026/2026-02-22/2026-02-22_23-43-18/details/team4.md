@@ -51,8 +51,8 @@
 | 43 | 891 | Dustin Robert |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Lucille Truesdale |
-| 47 | 846 | Christine Marie |
+| 46 | 846 | Christine Marie |
+| 47 | 846 | Lucille Truesdale |
 | 48 | 843 | Shelly Chandler |
 | 49 | 839 | LisaJo Picken Buchanan |
 | 50 | 838 | TeeJ |
@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -138,8 +138,8 @@
 | 130 | 406 | Lush Linkfall |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -208,8 +208,8 @@
 | 200 | 272 | Alan George LaRage |
 | 201 | 272 | Dennis Bradley |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Melissa Adams |
-| 204 | 270 | Juls |
+| 203 | 270 | Juls |
+| 204 | 270 | Melissa Adams |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Sam Bishop |
 | 207 | 268 | Porkobello |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Carlos Ramirez |
 | 225 | 246 | Zethra Prenisha Rahming |
@@ -271,8 +271,8 @@
 | 263 | 213 | Angela Geist Jusinski |
 | 264 | 213 | Adawna Swires |
 | 265 | 212 | TinyLegoRose |
-| 266 | 212 | Mike Solo |
-| 267 | 212 | Orchislactea |
+| 266 | 212 | Orchislactea |
+| 267 | 212 | Mike Solo |
 | 268 | 211 | Christina Black |
 | 269 | 209 | Zany Shatterer |
 | 270 | 208 | Selena Shaw |

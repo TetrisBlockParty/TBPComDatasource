@@ -696,8 +696,8 @@
 | 688 | 426 | Courtney Burcham |
 | 689 | 423 | Smashanator |
 | 690 | 423 | Taylor Flowers |
-| 691 | 422 | Stefanie Zonzini-Gagliardi |
-| 692 | 422 | Kimberly Ann |
+| 691 | 422 | Kimberly Ann |
+| 692 | 422 | Stefanie Zonzini-Gagliardi |
 | 693 | 422 | Jasmine Kenney |
 | 694 | 422 | Oscar Bernie |
 | 695 | 421 | Nina Nav |
