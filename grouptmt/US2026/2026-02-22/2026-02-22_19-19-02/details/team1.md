@@ -54,8 +54,8 @@
 | 46 | 777 | Patrick Luckenbill |
 | 47 | 773 | Redlicious 1 |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Kristen Roles Robben |
-| 50 | 760 | Lawrence Belanger |
+| 49 | 760 | Lawrence Belanger |
+| 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |
@@ -180,8 +180,8 @@
 | 172 | 276 | Damon J. Martin |
 | 173 | 274 | Angela Renea Lester |
 | 174 | 273 | Shannon Marie Pitts |
-| 175 | 272 | Tana |
-| 176 | 272 | Sleepysloath5745 |
+| 175 | 272 | Sleepysloath5745 |
+| 176 | 272 | Tana |
 | 177 | 270 | Mandyy Rae |
 | 178 | 268 | Christy Jones |
 | 179 | 268 | Amanda Jarnagin |
@@ -214,8 +214,8 @@
 | 206 | 238 | Tiffany Smith |
 | 207 | 237 | Veronica Eve |
 | 208 | 236 | femmefatale |
-| 209 | 235 | MRdot Rooski |
-| 210 | 235 | Desiree Deschaine Havee |
+| 209 | 235 | Desiree Deschaine Havee |
+| 210 | 235 | MRdot Rooski |
 | 211 | 234 | Paula Martin |
 | 212 | 233 | LC |
 | 213 | 231 | Sarah Somers Gray |

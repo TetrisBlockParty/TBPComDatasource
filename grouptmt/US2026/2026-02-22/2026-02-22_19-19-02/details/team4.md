@@ -75,8 +75,8 @@
 | 67 | 664 | loulou |
 | 68 | 659 | Jonathan Kimbrough |
 | 69 | 654 | Chilly Line |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -261,8 +261,8 @@
 | 253 | 198 | Calvin Dennis |
 | 254 | 197 | Gilles Lanctot |
 | 255 | 196 | Zany Shatterer |
-| 256 | 195 | Snippy Puzzle |
-| 257 | 195 | 中山成巳 |
+| 256 | 195 | 中山成巳 |
+| 257 | 195 | Snippy Puzzle |
 | 258 | 194 | Zany Twisterfit |
 | 259 | 192 | Stephme310 |
 | 260 | 192 | Andrew Dang |

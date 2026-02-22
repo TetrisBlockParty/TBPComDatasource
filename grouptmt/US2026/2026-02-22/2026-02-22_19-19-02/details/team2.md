@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -406,8 +406,8 @@
 | 398 | 628 | Brownie Sheena |
 | 399 | 627 | Victoria Moore-Smith |
 | 400 | 626 | Steven Marshaun |
-| 401 | 626 | Mighty Spinbuilder |
-| 402 | 626 | Demeka Dangerous-kisses Johnson |
+| 401 | 626 | Demeka Dangerous-kisses Johnson |
+| 402 | 626 | Mighty Spinbuilder |
 | 403 | 620 | Traci Johnson |
 | 404 | 620 | Brandon Armstrong |
 | 405 | 619 | Melissa Penelope Ann Dodge |
@@ -474,10 +474,10 @@
 | 466 | 543 | Lonne Emade |
 | 467 | 543 | Julie Kresal |
 | 468 | 542 | Alexandra Weir |
-| 469 | 540 | Joshua Self |
-| 470 | 540 | Dizzy Zone |
-| 471 | 533 | Gauri Shrotriya |
-| 472 | 533 | Davetta Sanford |
+| 469 | 540 | Dizzy Zone |
+| 470 | 540 | Joshua Self |
+| 471 | 533 | Davetta Sanford |
+| 472 | 533 | Gauri Shrotriya |
 | 473 | 532 | Ann Matzkanin |
 | 474 | 531 | Aishah Brice |
 | 475 | 531 | Briana Alexander |

@@ -130,8 +130,8 @@
 | 122 | 574 | Morgan Martinez |
 | 123 | 568 | Rachael McClain Owens |
 | 124 | 565 | Daryn Elliott |
-| 125 | 562 | Louise Stacy Sisson |
-| 126 | 562 | Dave Herzog |
+| 125 | 562 | Dave Herzog |
+| 126 | 562 | Louise Stacy Sisson |
 | 127 | 557 | Domo Washington |
 | 128 | 555 | Nicole Myers |
 | 129 | 553 | mzcatzy |
@@ -157,8 +157,8 @@
 | 149 | 479 | Annie Marie |
 | 150 | 479 | Patti Skiles |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Nora Rogers |
-| 153 | 471 | Mendoza Lee Christy |
+| 152 | 471 | Mendoza Lee Christy |
+| 153 | 471 | Nora Rogers |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -277,8 +277,8 @@
 | 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
-| 272 | 276 | _melisa223_ |
-| 273 | 276 | Crimson |
+| 272 | 276 | Crimson |
+| 273 | 276 | _melisa223_ |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
 | 276 | 272 | fraulila |
@@ -319,8 +319,8 @@
 | 311 | 240 | Eric Caccavale |
 | 312 | 240 | Jimmie Clemons |
 | 313 | 238 | Niki Dalrymple |
-| 314 | 236 | Lys |
-| 315 | 236 | Jess Bissett |
+| 314 | 236 | Jess Bissett |
+| 315 | 236 | Lys |
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
@@ -415,8 +415,8 @@
 | 407 | 186 | Sameerah Smith |
 | 408 | 186 | Noettín Kan Zasnemoore |
 | 409 | 184 | Shanon R Jackson |
-| 410 | 183 | Smiley Zone |
-| 411 | 183 | Funky Jumper |
+| 410 | 183 | Funky Jumper |
+| 411 | 183 | Smiley Zone |
 | 412 | 182 | gremicx |
 | 413 | 182 | Joy Petroski |
 | 414 | 181 | Fancy Curver |
@@ -519,10 +519,10 @@
 | 511 | 153 | Dakota Graham |
 | 512 | 153 | Breanna Marsden |
 | 513 | 153 | Autumn Phillimore |
-| 514 | 152 | Shiny Zonebuilder |
-| 515 | 152 | Elisha L Allman |
-| 516 | 152 | lashanda |
-| 517 | 152 | Beppy |
+| 514 | 152 | lashanda |
+| 515 | 152 | Beppy |
+| 516 | 152 | Shiny Zonebuilder |
+| 517 | 152 | Elisha L Allman |
 | 518 | 151 | Carol Cain Thurman |
 | 519 | 151 | Jumpy Curvebuilder |
 | 520 | 151 | Cheery Brickster |
@@ -687,7 +687,7 @@
 | 679 | 114 | Hyper Shuffler |
 | 680 | 114 | Misstery |
 | 681 | 114 | Beth Smith |
-| 682 | 114 | Hyper Shuffler |
+| 682 | 114 | Marcey Peneaux |
 | 683 | 114 | Joseph Vargas |
 | 684 | 113 | atomictrin |
 | 685 | 113 | Rebecca Lynn |
