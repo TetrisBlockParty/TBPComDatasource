@@ -76,8 +76,8 @@
 | 68 | 491 | Sarah Lombardo |
 | 69 | 489 | Deanna L Hermanson |
 | 70 | 485 | Cartier |
-| 71 | 483 | Ryan Lunnin |
-| 72 | 483 | Evie Khalil |
+| 71 | 483 | Evie Khalil |
+| 72 | 483 | Ryan Lunnin |
 | 73 | 480 | Nancy Green |
 | 74 | 472 | April Carroll |
 | 75 | 458 | Jennifer ManWarren |
@@ -141,8 +141,8 @@
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Sarah Roberts |
-| 137 | 290 | Death |
+| 136 | 290 | Death |
+| 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
 | 140 | 284 | Emily Adelaide Wheatley |
@@ -209,7 +209,7 @@
 | 201 | 208 | Donna Addison Williams |
 | 202 | 207 | Leslie Bush Yarbrough |
 | 203 | 207 | Speedy Liney |
-| 204 | 207 | Leslie Bush Yarbrough |
+| 204 | 207 | Brenda Alexander |
 | 205 | 206 | BadG52 |
 | 206 | 205 | Tater |
 | 207 | 205 | Snappy Matcher |
@@ -231,10 +231,10 @@
 | 223 | 193 | Michael |
 | 224 | 193 | Shanae Grant |
 | 225 | 192 | femmefatale |
-| 226 | 191 | Perky Shiftsnap |
-| 227 | 191 | Diane Byrd |
-| 228 | 190 | Sweetts |
-| 229 | 190 | Thorne Shumate |
+| 226 | 191 | Diane Byrd |
+| 227 | 191 | Perky Shiftsnap |
+| 228 | 190 | Thorne Shumate |
+| 229 | 190 | Sweetts |
 | 230 | 189 | Veronica Eve |
 | 231 | 189 | Jeanna Dunn |
 | 232 | 187 | Tawnya Peltonen |

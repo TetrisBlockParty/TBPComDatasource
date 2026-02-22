@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -68,8 +68,8 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Dustee Craddock-Harrison |
-| 64 | 636 | Kimyatta Cavin |
+| 63 | 636 | Kimyatta Cavin |
+| 64 | 636 | Dustee Craddock-Harrison |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | Twisty Cascadezone |
-| 166 | 244 | J-Rizzle |
+| 165 | 244 | J-Rizzle |
+| 166 | 244 | Twisty Cascadezone |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -214,8 +214,8 @@
 | 206 | 201 | Melvin Baird |
 | 207 | 200 | Lori |
 | 208 | 200 | Laura |
-| 209 | 198 | Zesty Twistbuilder |
-| 210 | 198 | Keith Kelley |
+| 209 | 198 | Keith Kelley |
+| 210 | 198 | Zesty Twistbuilder |
 | 211 | 197 | Silly SeaWeed |
 | 212 | 196 | Mr. Party |
 | 213 | 196 | Oscar Alberto Perez |
@@ -454,9 +454,9 @@
 | 446 | 97 | Brandon Crabbs |
 | 447 | 97 | Cool Gridzone |
 | 448 | 96 | Rebecca Blake |
-| 449 | 95 | Susan Williams |
-| 450 | 95 | Sunny Filler |
-| 451 | 95 | Chirpy Slammer |
+| 449 | 95 | Sunny Filler |
+| 450 | 95 | Chirpy Slammer |
+| 451 | 95 | Susan Williams |
 | 452 | 95 | RedBoots82 |
 | 453 | 94 | Lee Silpe |
 | 454 | 94 | Jeff Roberts |
@@ -1491,7 +1491,7 @@
 | 1483 | 6 | Suzie Boyd |
 | 1484 | 6 | Slinky Lifter |
 | 1485 | 6 | Tangelo |
-| 1486 | 6 | Slinky Lifter |
+| 1486 | 6 | Lively Blockline |
 | 1487 | 6 | Brittanny Simpson |
 | 1488 | 6 | Mighty Twistfit |
 | 1489 | 6 | Lazy Clusterfit |

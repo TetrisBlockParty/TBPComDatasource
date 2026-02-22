@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 551 | Kristie |
 | 112 | 549 | Nicole Myers |
@@ -171,8 +171,8 @@
 | 163 | 399 | Marcie Bressler |
 | 164 | 397 | Annie Déè |
 | 165 | 393 | Fallorina Susana |
-| 166 | 391 | Sarah Cowan Burgos |
-| 167 | 391 | Calista Jo Dickson |
+| 166 | 391 | Calista Jo Dickson |
+| 167 | 391 | Sarah Cowan Burgos |
 | 168 | 390 | Hasty Cascadefit |
 | 169 | 389 | Jeni Dow |
 | 170 | 384 | Dapper Snap |
@@ -269,8 +269,8 @@
 | 261 | 254 | Brenda Schmid Wood |
 | 262 | 252 | Roary Danner |
 | 263 | 250 | fraulila |
-| 264 | 249 | Hasty Gridpiece |
-| 265 | 249 | Annie Marie |
+| 264 | 249 | Annie Marie |
+| 265 | 249 | Hasty Gridpiece |
 | 266 | 246 | Peppy Shifter |
 | 267 | 245 | Latoya Mayne |
 | 268 | 244 | LaNette Morgan |

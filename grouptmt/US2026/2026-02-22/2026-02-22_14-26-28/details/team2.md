@@ -110,8 +110,8 @@
 | 102 | 1535 | Donnie Hunt |
 | 103 | 1534 | Loopy Clusterbuilder |
 | 104 | 1534 | Laura Marie Pelletier |
-| 105 | 1516 | Mindy Leigh Head |
-| 106 | 1516 | Stephen Stephen |
+| 105 | 1516 | Stephen Stephen |
+| 106 | 1516 | Mindy Leigh Head |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -305,8 +305,8 @@
 | 297 | 715 | Stephanie Lumanlan |
 | 298 | 713 | Chelle |
 | 299 | 710 | Kathryn Townsley |
-| 300 | 704 | Jánine Riggs |
-| 301 | 704 | Shelley Thornburgh Wright |
+| 300 | 704 | Shelley Thornburgh Wright |
+| 301 | 704 | Jánine Riggs |
 | 302 | 703 | Gold Rose |
 | 303 | 700 | Hong Tang |
 | 304 | 700 | Vincent Petrella |
@@ -337,14 +337,14 @@
 | 329 | 665 | Prette Qui |
 | 330 | 665 | Leslie Ann Carter |
 | 331 | 664 | Sleepypanda67 |
-| 332 | 663 | Mandi Douglas Hilt |
-| 333 | 663 | Ashle Scranton |
+| 332 | 663 | Ashle Scranton |
+| 333 | 663 | Mandi Douglas Hilt |
 | 334 | 661 | BeQuo |
 | 335 | 661 | goofinoff |
 | 336 | 659 | Draizen Montrell Thomas |
 | 337 | 651 | Unica Rector |
-| 338 | 650 | tejas25 |
-| 339 | 650 | Shiny Rollzone |
+| 338 | 650 | Shiny Rollzone |
+| 339 | 650 | tejas25 |
 | 340 | 643 | Hoppy Brickmatch |
 | 341 | 640 | BYM4L |
 | 342 | 639 | Crystie Hicks |
@@ -359,10 +359,10 @@
 | 351 | 627 | Allan Wayne Lamia |
 | 352 | 620 | Brandon Armstrong |
 | 353 | 613 | Ellie Jonas |
-| 354 | 613 | Breezy Filler |
-| 355 | 613 | Caitlyn Blackwell |
-| 356 | 611 | Carl Bradshaw |
-| 357 | 611 | Julio A Laracuente |
+| 354 | 613 | Caitlyn Blackwell |
+| 355 | 613 | Breezy Filler |
+| 356 | 611 | Julio A Laracuente |
+| 357 | 611 | Carl Bradshaw |
 | 358 | 611 | Em Chen |
 | 359 | 603 | Brittney Jean |
 | 360 | 603 | Cassie Maynard |
@@ -501,8 +501,8 @@
 | 493 | 470 | Snippy Rumbler |
 | 494 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
 | 495 | 469 | Spunkysmom |
-| 496 | 466 | Kori Beth Babb |
-| 497 | 466 | Crystal Greene |
+| 496 | 466 | Crystal Greene |
+| 497 | 466 | Kori Beth Babb |
 | 498 | 466 | Koa N Sharon Chen |
 | 499 | 465 | Davetta Sanford |
 | 500 | 465 | Belle Mari |
@@ -600,8 +600,8 @@
 | 592 | 400 | Kathleen Driskell |
 | 593 | 399 | Oscar Bernie |
 | 594 | 398 | Crystal Heller Gonzalez |
-| 595 | 396 | AkaLefty |
-| 596 | 396 | Candy Pitts |
+| 595 | 396 | Candy Pitts |
+| 596 | 396 | AkaLefty |
 | 597 | 396 | Boogie SoAnimated Johnson |
 | 598 | 393 | Jamie West |
 | 599 | 393 | bbv |
@@ -618,8 +618,8 @@
 | 610 | 389 | Kayla |
 | 611 | 388 | Connie Jimenez |
 | 612 | 388 | Christina Ashley |
-| 613 | 387 | Bold Brickster |
-| 614 | 387 | Misti Markijohn |
+| 613 | 387 | Misti Markijohn |
+| 614 | 387 | Bold Brickster |
 | 615 | 385 | Tansaria Couch-Butler |
 | 616 | 384 | Mary Marie |
 | 617 | 384 | Kelly |
@@ -784,10 +784,10 @@
 | 776 | 304 | Melissa McCall |
 | 777 | 304 | NFLPITMOM |
 | 778 | 303 | Angie Marie |
-| 779 | 303 | Amanda Schaffer |
-| 780 | 303 | Devin |
-| 781 | 302 | Kena T. Tanner |
-| 782 | 302 | Epic Stackbuilder |
+| 779 | 303 | Devin |
+| 780 | 303 | Amanda Schaffer |
+| 781 | 302 | Epic Stackbuilder |
+| 782 | 302 | Kena T. Tanner |
 | 783 | 302 | Maxwell Escalera |
 | 784 | 301 | Tom Steffen |
 | 785 | 300 | Alice Ball |
