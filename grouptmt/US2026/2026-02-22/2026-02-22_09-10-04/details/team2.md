@@ -171,8 +171,8 @@
 | 163 | 1048 | PsychKIRAtrist |
 | 164 | 1047 | Amy Sayers |
 | 165 | 1045 | Lourisha |
-| 166 | 1043 | Brave Dropmatch |
-| 167 | 1043 | Suki Kaur |
+| 166 | 1043 | Suki Kaur |
+| 167 | 1043 | Brave Dropmatch |
 | 168 | 1035 | Sarah Freitas |
 | 169 | 1023 | Brainy Smurf |
 | 170 | 1018 | LordZophar |
@@ -204,8 +204,8 @@
 | 196 | 919 | Isaac Trappiel IV |
 | 197 | 916 | Butta |
 | 198 | 915 | Kelly Trent |
-| 199 | 910 | Crystal Hoffman |
-| 200 | 910 | Shuany Arias |
+| 199 | 910 | Shuany Arias |
+| 200 | 910 | Crystal Hoffman |
 | 201 | 907 | Gene Mills |
 | 202 | 901 | Jennifer Peachey |
 | 203 | 892 | Auntie B |
@@ -967,8 +967,8 @@
 | 959 | 233 | Nerdy Riserfit |
 | 960 | 233 | Myleaha Holley |
 | 961 | 232 | P. D. Paige |
-| 962 | 231 | Michelle Fleming Luna |
-| 963 | 231 | Vung Nguyen |
+| 962 | 231 | Vung Nguyen |
+| 963 | 231 | Michelle Fleming Luna |
 | 964 | 231 | Stanley Vanekelenburg |
 | 965 | 230 | lady |
 | 966 | 230 | Aishah Brice |
@@ -1131,11 +1131,11 @@
 | 1123 | 196 | Sherry Williams |
 | 1124 | 196 | Jennifer Barclay |
 | 1125 | 196 | Giggy Mover |
-| 1126 | 196 | Kimberly Hope Howell |
-| 1127 | 196 | Goofy Cascadeclear |
+| 1126 | 196 | Goofy Cascadeclear |
+| 1127 | 196 | Kimberly Hope Howell |
 | 1128 | 195 | Persipnei Cuesta |
-| 1129 | 195 | Muhammad |
-| 1130 | 195 | Cheeky Brickroll |
+| 1129 | 195 | Cheeky Brickroll |
+| 1130 | 195 | Muhammad |
 | 1131 | 195 | Tanya Eubanks |
 | 1132 | 195 | Snazzy Basepiece |
 | 1133 | 194 | Chilly Linkfall |

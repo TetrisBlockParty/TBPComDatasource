@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Landon Keith Graffeo |
-| 76 | 486 | Carmethia Clemons Haslerig |
+| 75 | 486 | Carmethia Clemons Haslerig |
+| 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 471 | Chris Baggett |
 | 79 | 467 | Dawn Alexander |
@@ -184,8 +184,8 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Melvin Baird |
-| 180 | 201 | Chance Strickland |
+| 179 | 201 | Chance Strickland |
+| 180 | 201 | Melvin Baird |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Jessica Lynn Cutlip |
@@ -283,7 +283,7 @@
 | 275 | 136 | Michelle Morris |
 | 276 | 135 | KimoKoala |
 | 277 | 135 | Joshua Guess |
-| 278 | 134 | Angelito |
+| 278 | 134 | Kim Klutz Olson |
 | 279 | 134 | Duck |
 | 280 | 134 | Angelito |
 | 281 | 132 | Melissa Priest Sellers |
@@ -367,7 +367,7 @@
 | 359 | 108 | Walter Beltran |
 | 360 | 108 | Ali Ian |
 | 361 | 108 | Denise B |
-| 362 | 107 | Brandi Durig |
+| 362 | 107 | Silly SeaWeed |
 | 363 | 107 | Marcela Johnson |
 | 364 | 107 | Brandi Durig |
 | 365 | 106 | Spicy Cascadezone |

@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Emily Adelaide Wheatley |
-| 128 | 284 | Rachael |
+| 127 | 284 | Rachael |
+| 128 | 284 | Emily Adelaide Wheatley |
 | 129 | 283 | Franswa |
 | 130 | 282 | Cool Shiftsnap |
 | 131 | 282 | Timothy Dew |
@@ -183,11 +183,11 @@
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
-| 178 | 208 | Bouncy Grid |
-| 179 | 208 | Donna Addison Williams |
+| 178 | 208 | Donna Addison Williams |
+| 179 | 208 | Bouncy Grid |
 | 180 | 207 | Ty Brown |
-| 181 | 207 | Leslie Bush Yarbrough |
-| 182 | 207 | Brenda Alexander |
+| 181 | 207 | Brenda Alexander |
+| 182 | 207 | Leslie Bush Yarbrough |
 | 183 | 206 | BadG52 |
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
@@ -212,10 +212,10 @@
 | 204 | 190 | Thorne Shumate |
 | 205 | 189 | Veronica Eve |
 | 206 | 189 | Jeanna Dunn |
-| 207 | 187 | Amanda Johnson Huffman |
-| 208 | 187 | Cool Towerzone |
-| 209 | 186 | Margo Wagner |
-| 210 | 186 | Erin Hodges Plumb |
+| 207 | 187 | Cool Towerzone |
+| 208 | 187 | Amanda Johnson Huffman |
+| 209 | 186 | Erin Hodges Plumb |
+| 210 | 186 | Margo Wagner |
 | 211 | 183 | Amy Hess |
 | 212 | 183 | Andrew Boone |
 | 213 | 182 | Phu ckalldems |
@@ -234,10 +234,10 @@
 | 226 | 176 | Mel Hogan |
 | 227 | 175 | John Barron |
 | 228 | 174 | Cheeky Pop |
-| 229 | 173 | Gabrielle Louise Malloch |
-| 230 | 173 | Rico Rico |
-| 231 | 171 | Greg Premoe |
-| 232 | 171 | David DeSantis |
+| 229 | 173 | Rico Rico |
+| 230 | 173 | Gabrielle Louise Malloch |
+| 231 | 171 | David DeSantis |
+| 232 | 171 | Greg Premoe |
 | 233 | 170 | Cece Ibarra |
 | 234 | 170 | Standia Civil |
 | 235 | 169 | Abbey Crespo |

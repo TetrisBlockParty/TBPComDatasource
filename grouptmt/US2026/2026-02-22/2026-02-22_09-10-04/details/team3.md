@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Amanda L Baker |
-| 58 | 895 | Shonna Roberts |
+| 57 | 895 | Shonna Roberts |
+| 58 | 895 | Amanda L Baker |
 | 59 | 891 | Elaine Webb Graves |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
@@ -201,9 +201,9 @@
 | 193 | 320 | Or Reznitsky |
 | 194 | 317 | Ashley Tookes |
 | 195 | 315 | Kammy Hill |
-| 196 | 311 | Stephanie Burtin |
+| 196 | 311 | Araceli Parra |
 | 197 | 311 | Rochelle Hazelett |
-| 198 | 311 | Araceli Parra |
+| 198 | 311 | Stephanie Burtin |
 | 199 | 310 | Danielle Balcom |
 | 200 | 308 | Daryn Elliott |
 | 201 | 308 | Rania Zaqout |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Cozy Snaplink |
-| 271 | 225 | Dirtgirl27 |
+| 270 | 225 | Dirtgirl27 |
+| 271 | 225 | Cozy Snaplink |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -293,8 +293,8 @@
 | 285 | 214 | Rebel124 |
 | 286 | 212 | Sunny Rotater |
 | 287 | 212 | Desiree Gold |
-| 288 | 211 | Velma Mull |
-| 289 | 211 | El Chapa |
+| 288 | 211 | El Chapa |
+| 289 | 211 | Velma Mull |
 | 290 | 211 | Khaleada McGill Banks |
 | 291 | 210 | Lizabeth Fox |
 | 292 | 209 | Micayah Stevens |
@@ -337,8 +337,8 @@
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Melissa Orth Hunter |
-| 333 | 176 | Emma |
+| 332 | 176 | Emma |
+| 333 | 176 | Melissa Orth Hunter |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
@@ -389,8 +389,8 @@
 | 381 | 152 | Eric Caccavale |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
-| 384 | 149 | Alexis Taylor |
-| 385 | 149 | Wacky Crasher |
+| 384 | 149 | Wacky Crasher |
+| 385 | 149 | Alexis Taylor |
 | 386 | 148 | Pam Holt Powell |
 | 387 | 148 | Flashy Rumbler |
 | 388 | 148 | Erykah |
@@ -421,8 +421,8 @@
 | 413 | 139 | Betty Bóò |
 | 414 | 139 | Beppy |
 | 415 | 139 | Paula Little |
-| 416 | 138 | Skinny Baldez |
-| 417 | 138 | Bleu Sun Beams |
+| 416 | 138 | Bleu Sun Beams |
+| 417 | 138 | Skinny Baldez |
 | 418 | 137 | Reina Roth |
 | 419 | 137 | Giggly Brickroll |
 | 420 | 137 | Arden White Kirsch |
