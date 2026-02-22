@@ -139,8 +139,8 @@
 | 131 | 1273 | Cool Rollpiece |
 | 132 | 1265 | Katrina Williams Balmir |
 | 133 | 1257 | Eileen Hale |
-| 134 | 1248 | Howard Forest |
-| 135 | 1248 | Isabela Shaw |
+| 134 | 1248 | Isabela Shaw |
+| 135 | 1248 | Howard Forest |
 | 136 | 1242 | Altamirano Michael |
 | 137 | 1232 | Groovy Puzzle |
 | 138 | 1230 | Megan Garrick |
@@ -254,15 +254,15 @@
 | 246 | 808 | Wakanda Forever |
 | 247 | 807 | Khalil Lowe |
 | 248 | 803 | Barbra Miller |
-| 249 | 801 | Debra Williams |
-| 250 | 801 | Ashlen Dorrell |
+| 249 | 801 | Ashlen Dorrell |
+| 250 | 801 | Debra Williams |
 | 251 | 800 | Danielle Johnson-Chandler |
 | 252 | 787 | Laura McCarthey |
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Jessicah Myers |
-| 257 | 777 | Tesha Oldaker |
+| 256 | 777 | Tesha Oldaker |
+| 257 | 777 | Jessicah Myers |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -421,11 +421,11 @@
 | 413 | 525 | Desiree Anderson |
 | 414 | 524 | Lonne Emade |
 | 415 | 523 | Matt Johnson |
-| 416 | 522 | Joseph Musick |
-| 417 | 522 | Lylymom |
+| 416 | 522 | Lylymom |
+| 417 | 522 | Joseph Musick |
 | 418 | 521 | Tj Ball |
-| 419 | 520 | Maddy Petersen |
-| 420 | 520 | Angela Lynn |
+| 419 | 520 | Angela Lynn |
+| 420 | 520 | Maddy Petersen |
 | 421 | 519 | Rob Brown |
 | 422 | 517 | Alex Dungo Hoang |
 | 423 | 517 | Amber Brion |
@@ -467,8 +467,8 @@
 | 459 | 487 | Morgan Easter |
 | 460 | 487 | MrsCandyfine As Wine Truss |
 | 461 | 485 | Mamachelle Eisweirth |
-| 462 | 485 | Dapper Dasher |
-| 463 | 485 | Ann Matzkanin |
+| 462 | 485 | Ann Matzkanin |
+| 463 | 485 | Dapper Dasher |
 | 464 | 484 | Street Sweeper |
 | 465 | 483 | Alezandra Smith |
 | 466 | 483 | Dennis McLaurin |

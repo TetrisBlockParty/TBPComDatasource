@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Ramel Rhodes |
-| 108 | 391 | Monica Daley |
+| 107 | 391 | Monica Daley |
+| 108 | 391 | Ramel Rhodes |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -207,8 +207,8 @@
 | 199 | 201 | Melvin Baird |
 | 200 | 200 | Lori |
 | 201 | 200 | Laura |
-| 202 | 198 | Zesty Twistbuilder |
-| 203 | 198 | Keith Kelley |
+| 202 | 198 | Keith Kelley |
+| 203 | 198 | Zesty Twistbuilder |
 | 204 | 197 | Silly SeaWeed |
 | 205 | 196 | Oscar Alberto Perez |
 | 206 | 196 | Mr. Party |
