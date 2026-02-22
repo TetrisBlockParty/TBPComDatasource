@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Epic Curvetile |
-| 105 | 264 | Girl |
+| 104 | 264 | Girl |
+| 105 | 264 | Epic Curvetile |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -155,8 +155,8 @@
 | 147 | 181 | Carter Jones |
 | 148 | 181 | Klo |
 | 149 | 180 | Leah Kutz Zirbel |
-| 150 | 179 | Ak Jones |
-| 151 | 179 | Scott Jameson |
+| 150 | 179 | Scott Jameson |
+| 151 | 179 | Ak Jones |
 | 152 | 176 | Zethra Prenisha Rahming |
 | 153 | 175 | Ren Mc |
 | 154 | 175 | blockstar |

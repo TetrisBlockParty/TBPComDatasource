@@ -207,8 +207,8 @@
 | 199 | 690 | Deborah Miller |
 | 200 | 688 | Dreamy Blast |
 | 201 | 688 | ShinyRose |
-| 202 | 686 | Ashley Guernsey-Martin |
-| 203 | 686 | Dannette Goldberg-Richards |
+| 202 | 686 | Dannette Goldberg-Richards |
+| 203 | 686 | Ashley Guernsey-Martin |
 | 204 | 680 | Amber Shoemaker |
 | 205 | 679 | Gold Rose |
 | 206 | 671 | Pacynthia Williams |
@@ -257,8 +257,8 @@
 | 249 | 583 | Steve Grotto |
 | 250 | 582 | Gary Stash |
 | 251 | 580 | Leslie Ann Carter |
-| 252 | 579 | Roy Salyer |
-| 253 | 579 | Juliana Marques Do Nascimento Gordy |
+| 252 | 579 | Juliana Marques Do Nascimento Gordy |
+| 253 | 579 | Roy Salyer |
 | 254 | 578 | Sally Dennis |
 | 255 | 576 | Ginger |
 | 256 | 572 | tejas25 |
@@ -348,8 +348,8 @@
 | 340 | 449 | Davetta Sanford |
 | 341 | 449 | Shelley Thornburgh Wright |
 | 342 | 448 | Jojo Momma |
-| 343 | 447 | Lourisha |
-| 344 | 447 | Heather Schelkopf |
+| 343 | 447 | Heather Schelkopf |
+| 344 | 447 | Lourisha |
 | 345 | 445 | Mar Q Thomas |
 | 346 | 443 | Joseph Musick |
 | 347 | 442 | Leah |
@@ -570,8 +570,8 @@
 | 562 | 292 | Deana |
 | 563 | 289 | Britney M. |
 | 564 | 288 | Jenna Nance |
-| 565 | 287 | Toni Roberson |
-| 566 | 287 | Dolores Russworn |
+| 565 | 287 | Dolores Russworn |
+| 566 | 287 | Toni Roberson |
 | 567 | 287 | Alice Ball |
 | 568 | 286 | SwampRebel |
 | 569 | 286 | Ashley Criner |

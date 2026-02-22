@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Laura Melton |
-| 39 | 1013 | Amber Jones |
+| 38 | 1013 | Amber Jones |
+| 39 | 1013 | Laura Melton |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -91,11 +91,11 @@
 | 83 | 514 | Jay Horn |
 | 84 | 510 | Dave Herzog |
 | 85 | 506 | Sashay Tapae Simpson |
-| 86 | 503 | Nate Burnside |
-| 87 | 503 | Susan Valentino |
+| 86 | 503 | Susan Valentino |
+| 87 | 503 | Nate Burnside |
 | 88 | 502 | Justin Ritter |
-| 89 | 497 | Jennifer Petrie |
-| 90 | 497 | Christine Niles |
+| 89 | 497 | Christine Niles |
+| 90 | 497 | Jennifer Petrie |
 | 91 | 493 | Mandy Smith Oldham |
 | 92 | 491 | Chauntee Alfrey-Cardinale |
 | 93 | 490 | Speedy Bridger |
@@ -131,12 +131,12 @@
 | 123 | 378 | Tasha Gillespie |
 | 124 | 378 | Tasha Schriewer |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Blkpep Davidson |
-| 127 | 368 | Stephanie Woods |
+| 126 | 368 | Stephanie Woods |
+| 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Sherry Ogden |
-| 131 | 355 | Tessina Dewey-Mancino |
+| 130 | 355 | Tessina Dewey-Mancino |
+| 131 | 355 | Sherry Ogden |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
 | 134 | 347 | Nicole Flippo |
@@ -385,8 +385,8 @@
 | 377 | 115 | Carol Cain Thurman |
 | 378 | 114 | Elizabeth Renee |
 | 379 | 114 | Amanda Neal |
-| 380 | 113 | Boldy Blocker |
-| 381 | 113 | Gideon Walker |
+| 380 | 113 | Gideon Walker |
+| 381 | 113 | Boldy Blocker |
 | 382 | 112 | Tia Moore |
 | 383 | 111 | Leticia Lynn Lowe |
 | 384 | 111 | Stephanie Zahm |
