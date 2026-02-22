@@ -109,11 +109,11 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -139,8 +139,8 @@
 | 131 | 393 | Carlton Unfiltered |
 | 132 | 393 | Trish |
 | 133 | 392 | Cristy Duerksen |
-| 134 | 391 | Ramel Rhodes |
-| 135 | 391 | Lush Linkfall |
+| 134 | 391 | Lush Linkfall |
+| 135 | 391 | Ramel Rhodes |
 | 136 | 380 | Swanky Fitline |
 | 137 | 378 | Lucas J Sutton |
 | 138 | 377 | Jessica Bohlken |
@@ -217,11 +217,11 @@
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | PeaceOs |
-| 216 | 257 | Cheery Risebuilder |
+| 215 | 257 | Cheery Risebuilder |
+| 216 | 257 | PeaceOs |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -305,9 +305,9 @@
 | 297 | 185 | Laura Hosford |
 | 298 | 185 | Morti |
 | 299 | 184 | Pee |
-| 300 | 183 | KayM |
-| 301 | 183 | Twisty Risebuilder |
-| 302 | 183 | Cozy Balancer |
+| 300 | 183 | Twisty Risebuilder |
+| 301 | 183 | Cozy Balancer |
+| 302 | 183 | KayM |
 | 303 | 181 | Nikki Wilson |
 | 304 | 179 | AyeKay |
 | 305 | 178 | Zippy Tilt |

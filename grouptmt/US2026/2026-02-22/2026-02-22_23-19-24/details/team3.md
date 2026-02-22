@@ -164,8 +164,8 @@
 | 156 | 517 | Denise Nardoni |
 | 157 | 516 | Elissa S-k |
 | 158 | 512 | Silly Twist |
-| 159 | 506 | Sashay Tapae Simpson |
-| 160 | 506 | Stephanie Blkpep Davidson |
+| 159 | 506 | Stephanie Blkpep Davidson |
+| 160 | 506 | Sashay Tapae Simpson |
 | 161 | 505 | Danielle Balcom |
 | 162 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 163 | 502 | Snappy Balancer |
@@ -188,8 +188,8 @@
 | 180 | 460 | Danielle Allison |
 | 181 | 460 | Araceli Parra |
 | 182 | 458 | Danielle Rhoades |
-| 183 | 457 | Jim Mathews |
-| 184 | 457 | Shannon Matthew Byers |
+| 183 | 457 | Shannon Matthew Byers |
+| 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
 | 186 | 452 | Jacqueline Rodriguez |
 | 187 | 451 | Sarah Cowan Burgos |
@@ -232,11 +232,11 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Rebecca Funderburk Kirby |
-| 228 | 368 | Stephanie Woods |
+| 227 | 368 | Stephanie Woods |
+| 228 | 368 | Rebecca Funderburk Kirby |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Tiffany Ford |
-| 231 | 365 | Chummy Caster |
+| 230 | 365 | Chummy Caster |
+| 231 | 365 | Tiffany Ford |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 358 | Kristal C Lee |
@@ -246,12 +246,12 @@
 | 238 | 351 | Eon Harris |
 | 239 | 350 | Kammy Hill |
 | 240 | 349 | Amanda J. Mcneil-Anderson |
-| 241 | 347 | Philip Rock |
-| 242 | 347 | Rebecca Bailey |
+| 241 | 347 | Rebecca Bailey |
+| 242 | 347 | Philip Rock |
 | 243 | 346 | Tamara Deherrera |
 | 244 | 345 | Kelly |
-| 245 | 344 | Roary Danner |
-| 246 | 344 | Rania Zaqout |
+| 245 | 344 | Rania Zaqout |
+| 246 | 344 | Roary Danner |
 | 247 | 343 | Ashley Raines |
 | 248 | 343 | Ashley Rufus Bythcez |
 | 249 | 341 | Samantha Lynn |
@@ -283,21 +283,21 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Ray Lader |
-| 279 | 299 | Angie Harper |
+| 278 | 299 | Angie Harper |
+| 279 | 299 | Ray Lader |
 | 280 | 298 | Grams |
 | 281 | 297 | Jojo M |
 | 282 | 297 | kacihall |
 | 283 | 297 | Cheeky Snapper |
 | 284 | 296 | Hoppy Buildout |
-| 285 | 294 | fraulila |
-| 286 | 294 | Tasha Wesson-Torrence |
+| 285 | 294 | Tasha Wesson-Torrence |
+| 286 | 294 | fraulila |
 | 287 | 293 | Beaudie Stroebel |
 | 288 | 291 | Carrie Huskey |
 | 289 | 289 | DidIdothat |
 | 290 | 287 | Sabrina Hardrick |
-| 291 | 282 | Hanna Kim |
-| 292 | 282 | LaShey Thompson |
+| 291 | 282 | LaShey Thompson |
+| 292 | 282 | Hanna Kim |
 | 293 | 280 | Kaycee Kay |
 | 294 | 280 | Lizabeth Fox |
 | 295 | 279 | Foltz Lee Kelli |
@@ -492,7 +492,7 @@
 | 484 | 177 | Anna Moeller |
 | 485 | 175 | Arden White Kirsch |
 | 486 | 175 | Stella |
-| 487 | 174 | Lesley Perez |
+| 487 | 174 | Sierra Spencer |
 | 488 | 174 | Rayzer |
 | 489 | 174 | Lesley Perez |
 | 490 | 173 | Boldy Corner |

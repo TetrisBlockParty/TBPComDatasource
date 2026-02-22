@@ -154,8 +154,8 @@
 | 146 | 344 | Monica Donato |
 | 147 | 341 | Nick R Montague |
 | 148 | 338 | Evan Richmond |
-| 149 | 336 | Fmp |
-| 150 | 336 | Elaine Elaine |
+| 149 | 336 | Elaine Elaine |
+| 150 | 336 | Fmp |
 | 151 | 334 | Jaimie Lynn |
 | 152 | 333 | GATOR |
 | 153 | 333 | Jennifer Hardman |
@@ -241,8 +241,8 @@
 | 233 | 238 | Sarah Somers Gray |
 | 234 | 238 | Tiffany Smith |
 | 235 | 235 | Bindi |
-| 236 | 234 | Paula Martin |
-| 237 | 234 | Shanae Grant |
+| 236 | 234 | Shanae Grant |
+| 237 | 234 | Paula Martin |
 | 238 | 233 | LC |
 | 239 | 230 | Erin Rosberg |
 | 240 | 230 | BigWeenie69 |
