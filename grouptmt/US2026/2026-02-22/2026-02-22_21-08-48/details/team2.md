@@ -258,8 +258,8 @@
 | 250 | 935 | Kevin Walp |
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 920 | Phil J. Grombliniak |
-| 253 | 919 | Joshua Mandel |
-| 254 | 919 | Isaac Trappiel IV |
+| 253 | 919 | Isaac Trappiel IV |
+| 254 | 919 | Joshua Mandel |
 | 255 | 916 | Butta |
 | 256 | 915 | Robin Kerby |
 | 257 | 915 | Kelly Trent |
@@ -409,10 +409,10 @@
 | 401 | 644 | Kimmy Newman |
 | 402 | 643 | trabuco |
 | 403 | 643 | Hoppy Brickmatch |
-| 404 | 642 | Arkei Luster |
-| 405 | 642 | Cassie Maynard |
-| 406 | 640 | BYM4L |
-| 407 | 640 | Crystie Hicks |
+| 404 | 642 | Cassie Maynard |
+| 405 | 642 | Arkei Luster |
+| 406 | 640 | Crystie Hicks |
+| 407 | 640 | BYM4L |
 | 408 | 640 | Gary Stash |
 | 409 | 639 | Rebecca Miller |
 | 410 | 639 | Steven Marshaun |
@@ -464,8 +464,8 @@
 | 456 | 571 | Julie Kresal |
 | 457 | 571 | Emily Lyric Converse |
 | 458 | 570 | Lonne Emade |
-| 459 | 569 | Joseph Musick |
-| 460 | 569 | Vaniel Glover |
+| 459 | 569 | Vaniel Glover |
+| 460 | 569 | Joseph Musick |
 | 461 | 569 | Sparkles |
 | 462 | 568 | Irene Jones |
 | 463 | 566 | Leah Keesling |

@@ -73,8 +73,8 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 677 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 350 | Angela Srubar-Norman |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -170,8 +170,8 @@
 | 162 | 307 | TRCuse |
 | 163 | 307 | Girl |
 | 164 | 303 | shark tato |
-| 165 | 301 | Andria Lynn |
-| 166 | 301 | Crystal Nicolette Moore |
+| 165 | 301 | Crystal Nicolette Moore |
+| 166 | 301 | Andria Lynn |
 | 167 | 300 | Dana Scott |
 | 168 | 295 | Cursed Hag |
 | 169 | 294 | Calvin Cannon |
@@ -213,8 +213,8 @@
 | 205 | 250 | Matt Dell'Olio |
 | 206 | 249 | Ak Jones |
 | 207 | 249 | Cheery Risebuilder |
-| 208 | 248 | Lindsey Gonzalez |
-| 209 | 248 | Chirpy Basepiece |
+| 208 | 248 | Chirpy Basepiece |
+| 209 | 248 | Lindsey Gonzalez |
 | 210 | 246 | Carlos Ramirez |
 | 211 | 245 | Adam Stephanie Parker |
 | 212 | 245 | Autum Leigh |
