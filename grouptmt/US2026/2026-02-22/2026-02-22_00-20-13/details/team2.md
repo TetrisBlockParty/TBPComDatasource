@@ -318,8 +318,8 @@
 | 310 | 469 | Ashley Rose Frederick |
 | 311 | 469 | Jai Jackson |
 | 312 | 468 | Drwatson187 |
-| 313 | 467 | Dedra Steward |
-| 314 | 467 | Scott Treadway |
+| 313 | 467 | Scott Treadway |
+| 314 | 467 | Dedra Steward |
 | 315 | 466 | Speedy Spinblock |
 | 316 | 463 | Sue Leard |
 | 317 | 460 | Barbra Miller |
@@ -336,8 +336,8 @@
 | 328 | 451 | Daphne Jordan |
 | 329 | 451 | Melissa Kay Gibson |
 | 330 | 451 | Dylan Thomason |
-| 331 | 449 | Shelley Thornburgh Wright |
-| 332 | 449 | Davetta Sanford |
+| 331 | 449 | Davetta Sanford |
+| 332 | 449 | Shelley Thornburgh Wright |
 | 333 | 448 | Jojo Momma |
 | 334 | 447 | Heather Schelkopf |
 | 335 | 447 | Lourisha |
@@ -361,14 +361,14 @@
 | 353 | 422 | Mamachelle Eisweirth |
 | 354 | 421 | Vanessa Moreno |
 | 355 | 416 | Lina Sanders |
-| 356 | 414 | Sabrina Burton |
-| 357 | 414 | Kara Gillen |
+| 356 | 414 | Kara Gillen |
+| 357 | 414 | Sabrina Burton |
 | 358 | 414 | John |
 | 359 | 414 | Emily Lyric Converse |
 | 360 | 413 | Brandy Andre |
-| 361 | 411 | Kristen O'Neal |
-| 362 | 411 | Ricky Fortune |
-| 363 | 411 | Sam Joe |
+| 361 | 411 | Ricky Fortune |
+| 362 | 411 | Sam Joe |
+| 363 | 411 | Kristen O'Neal |
 | 364 | 406 | Erin StFrancis |
 | 365 | 406 | Tj Ball |
 | 366 | 406 | Julie Kresal |

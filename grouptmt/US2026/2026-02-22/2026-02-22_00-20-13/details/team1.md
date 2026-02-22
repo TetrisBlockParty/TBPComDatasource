@@ -105,8 +105,8 @@
 | 97 | 277 | Ly Phethmany |
 | 98 | 273 | Happy Basegrid |
 | 99 | 271 | Bhelle Sumile |
-| 100 | 269 | Rachael |
-| 101 | 269 | Seante Bullock |
+| 100 | 269 | Seante Bullock |
+| 101 | 269 | Rachael |
 | 102 | 263 | Sharon Reynolds |
 | 103 | 262 | Dandy Basegrid |
 | 104 | 257 | june october |
@@ -150,13 +150,13 @@
 | 142 | 190 | Thorne Shumate |
 | 143 | 188 | Sam Williams |
 | 144 | 187 | Snippy Wipebuilder |
-| 145 | 186 | Jennifer Olewnik Soborowski |
-| 146 | 186 | Katie Daniels |
-| 147 | 186 | Margo Wagner |
+| 145 | 186 | Margo Wagner |
+| 146 | 186 | Jennifer Olewnik Soborowski |
+| 147 | 186 | Katie Daniels |
 | 148 | 185 | Basment Living |
 | 149 | 183 | Michael |
-| 150 | 180 | BigWeenie69 |
-| 151 | 180 | Erez Yosef |
+| 150 | 180 | Erez Yosef |
+| 151 | 180 | BigWeenie69 |
 | 152 | 179 | Danielle Little-Daugherty |
 | 153 | 178 | Chad Atchley |
 | 154 | 177 | Irual Hctrab |
@@ -456,7 +456,7 @@
 | 448 | 63 | Chipper Piecefit |
 | 449 | 63 | Lush Zoney |
 | 450 | 63 | Steven Schultheis |
-| 451 | 63 | Lush Zoney |
+| 451 | 63 | Stephanie Leday |
 | 452 | 63 | Dee Doris Ewald Flynn |
 | 453 | 63 | Lincon |
 | 454 | 62 | Michael Butler |

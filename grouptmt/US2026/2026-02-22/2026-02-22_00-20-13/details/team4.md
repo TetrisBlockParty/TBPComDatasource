@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | quicksand420 |
-| 71 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | Marie-Pier Desjardins |
+| 71 | 376 | quicksand420 |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |
@@ -154,8 +154,8 @@
 | 146 | 179 | Ak Jones |
 | 147 | 178 | Lori |
 | 148 | 176 | Zethra Prenisha Rahming |
-| 149 | 175 | Ren Mc |
-| 150 | 175 | blockstar |
+| 149 | 175 | blockstar |
+| 150 | 175 | Ren Mc |
 | 151 | 174 | Dihcheese444 |
 | 152 | 172 | Jessica Bohlken |
 | 153 | 171 | Diana Houts |
@@ -172,9 +172,9 @@
 | 164 | 151 | Bethany Ison |
 | 165 | 149 | Megan Cutshaw |
 | 166 | 149 | Shainne Brewer |
-| 167 | 148 | Mr. Party |
-| 168 | 148 | Janita Parrish |
-| 169 | 148 | Mr. Party |
+| 167 | 148 | Janita Parrish |
+| 168 | 148 | Mr. Party |
+| 169 | 148 | Brittany Marsh |
 | 170 | 147 | Jay28 |
 | 171 | 147 | B Renee Desjardin |
 | 172 | 145 | Mimi |

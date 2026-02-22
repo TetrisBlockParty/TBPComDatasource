@@ -154,15 +154,15 @@
 | 146 | 290 | Betty Ivy |
 | 147 | 289 | Hoppy Buildout |
 | 148 | 287 | Jennifer |
-| 149 | 286 | Marci Mize Fandrich |
-| 150 | 286 | Jacqueline Rodriguez |
+| 149 | 286 | Jacqueline Rodriguez |
+| 150 | 286 | Marci Mize Fandrich |
 | 151 | 283 | Joye Sims Binion |
 | 152 | 278 | Rufus Lincoln |
 | 153 | 276 | Crimson |
 | 154 | 272 | rnr junky |
 | 155 | 272 | opf |
-| 156 | 271 | Ashley Muncey |
-| 157 | 271 | Leah Barnett |
+| 156 | 271 | Leah Barnett |
+| 157 | 271 | Ashley Muncey |
 | 158 | 267 | Denise Nardoni |
 | 159 | 265 | DidIdothat |
 | 160 | 263 | Angeline Joseph |
@@ -191,8 +191,8 @@
 | 183 | 226 | Grego Daniel |
 | 184 | 224 | Nicole Myers |
 | 185 | 223 | Jeana Gilbert |
-| 186 | 219 | Rebecca Bailey |
-| 187 | 219 | Shunta Jacobs |
+| 186 | 219 | Shunta Jacobs |
+| 187 | 219 | Rebecca Bailey |
 | 188 | 218 | LaNette Morgan |
 | 189 | 217 | Jess Bissett |
 | 190 | 215 | Araceli Parra |
@@ -395,8 +395,8 @@
 | 387 | 109 | Diana Ibarra |
 | 388 | 109 | Ashley Rufus Bythcez |
 | 389 | 108 | Scouty |
-| 390 | 107 | Megan Stanley |
-| 391 | 107 | Bouncy Blockbuilder |
+| 390 | 107 | Bouncy Blockbuilder |
+| 391 | 107 | Megan Stanley |
 | 392 | 106 | Cheeky Setter |
 | 393 | 105 | Dapper Towerfit |
 | 394 | 105 | Emi |
