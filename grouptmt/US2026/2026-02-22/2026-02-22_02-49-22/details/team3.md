@@ -189,8 +189,8 @@
 | 181 | 267 | Terry Jo Jones |
 | 182 | 263 | Angeline Joseph |
 | 183 | 262 | Joe-Maggie Mathews |
-| 184 | 261 | Tiffany Ford |
-| 185 | 261 | Tom Nault |
+| 184 | 261 | Tom Nault |
+| 185 | 261 | Tiffany Ford |
 | 186 | 260 | Grams |
 | 187 | 258 | Tamara Deherrera |
 | 188 | 258 | Nicole Myers |
@@ -414,8 +414,8 @@
 | 406 | 113 | Kristy Brown |
 | 407 | 113 | Gideon Walker |
 | 408 | 112 | Shanon R Jackson |
-| 409 | 111 | Stephanie Zahm |
-| 410 | 111 | Morgan Cudo |
+| 409 | 111 | Morgan Cudo |
+| 410 | 111 | Stephanie Zahm |
 | 411 | 110 | Tracey Cox |
 | 412 | 110 | Angela VanOstrand |
 | 413 | 109 | Sarah Morris |

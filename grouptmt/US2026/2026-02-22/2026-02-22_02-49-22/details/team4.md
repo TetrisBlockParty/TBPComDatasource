@@ -58,8 +58,8 @@
 | 50 | 594 | Ancient Intuition |
 | 51 | 590 | Valerie Roberts |
 | 52 | 555 | Clarence Patawaran |
-| 53 | 546 | Kimberly Love |
-| 54 | 546 | Savannah Overdorf |
+| 53 | 546 | Savannah Overdorf |
+| 54 | 546 | Kimberly Love |
 | 55 | 526 | Goatimus Lombardi |
 | 56 | 518 | Carolyn Wallace |
 | 57 | 512 | Casey Jeffcoat |
@@ -187,8 +187,8 @@
 | 179 | 160 | James Hurley Jr. |
 | 180 | 160 | ZeeZee |
 | 181 | 159 | Marcus Todd |
-| 182 | 158 | Avy Absol |
-| 183 | 158 | Chair |
+| 182 | 158 | Chair |
+| 183 | 158 | Avy Absol |
 | 184 | 155 | AyeKay |
 | 185 | 154 | Chris Bernstein |
 | 186 | 154 | scott |

@@ -128,12 +128,12 @@
 | 120 | 243 | Trippy Redd |
 | 121 | 243 | Chelsea Dahlquist |
 | 122 | 241 | John J. Cronin |
-| 123 | 240 | Lexuriuos Lifestlye |
-| 124 | 240 | Tana |
+| 123 | 240 | Tana |
+| 124 | 240 | Lexuriuos Lifestlye |
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
-| 127 | 230 | Frothy Pattern |
-| 128 | 230 | Billie Dawn Sparks |
+| 127 | 230 | Billie Dawn Sparks |
+| 128 | 230 | Frothy Pattern |
 | 129 | 229 | Jennifer Hardman |
 | 130 | 228 | Jenny Gingrich Fuentes |
 | 131 | 226 | Kandae |
@@ -141,8 +141,8 @@
 | 133 | 216 | MRdot Rooski |
 | 134 | 216 | Shauntina Burke |
 | 135 | 214 | GATOR |
-| 136 | 212 | Jaimie Lynn |
-| 137 | 212 | Lori Bales |
+| 136 | 212 | Lori Bales |
+| 137 | 212 | Jaimie Lynn |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -439,7 +439,7 @@
 | 431 | 73 | Phredda Compton |
 | 432 | 72 | Nutty Clusterline |
 | 433 | 72 | Zappy Pivoty |
-| 434 | 72 | Nutty Clusterline |
+| 434 | 72 | Jason Savage |
 | 435 | 71 | Lis |
 | 436 | 71 | Jamie Farrar |
 | 437 | 71 | JaPria Rodgers |

@@ -178,8 +178,8 @@
 | 170 | 865 | Dedra Steward |
 | 171 | 861 | Jennifer Peachey |
 | 172 | 857 | Della Hole |
-| 173 | 850 | Stephanie Chapman |
-| 174 | 850 | Missie Lawson Gebhardt |
+| 173 | 850 | Missie Lawson Gebhardt |
+| 174 | 850 | Stephanie Chapman |
 | 175 | 849 | Jennifer Kistner |
 | 176 | 845 | April Dawn Gussler |
 | 177 | 838 | Tralonda Weeks |
