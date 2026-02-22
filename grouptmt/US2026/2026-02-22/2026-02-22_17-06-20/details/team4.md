@@ -133,8 +133,8 @@
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
 | 127 | 338 | Lucas J Sutton |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -177,8 +177,8 @@
 | 169 | 266 | Laura |
 | 170 | 265 | Jeff Brian Gates |
 | 171 | 265 | Chris Bernstein |
-| 172 | 264 | Epic Curvetile |
-| 173 | 264 | Girl |
+| 172 | 264 | Girl |
+| 173 | 264 | Epic Curvetile |
 | 174 | 262 | Joeliecea Cobb |
 | 175 | 262 | Holly Jolly |
 | 176 | 262 | Juls |

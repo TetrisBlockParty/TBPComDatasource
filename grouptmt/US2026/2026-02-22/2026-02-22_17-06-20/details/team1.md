@@ -105,8 +105,8 @@
 | 97 | 401 | cc |
 | 98 | 400 | Cynthia Bradley |
 | 99 | 390 | Goose egg |
-| 100 | 390 | Candy Jones |
-| 101 | 390 | Lori Bales |
+| 100 | 390 | Lori Bales |
+| 101 | 390 | Candy Jones |
 | 102 | 389 | Nery Martinez |
 | 103 | 385 | Brenda Stewart |
 | 104 | 383 | Tinah Montanna |
@@ -139,11 +139,11 @@
 | 131 | 321 | Maria C. Hernandez |
 | 132 | 321 | Tanya Carpenter-Reynolds |
 | 133 | 318 | Jessica Sheehan |
-| 134 | 316 | GATOR |
-| 135 | 316 | Dizzy Party |
+| 134 | 316 | Dizzy Party |
+| 135 | 316 | GATOR |
 | 136 | 313 | Virginia Gray Floyd |
-| 137 | 308 | Sharon Reynolds |
-| 138 | 308 | Erin Hodges Plumb |
+| 137 | 308 | Erin Hodges Plumb |
+| 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
 | 140 | 306 | Bloknboy |
 | 141 | 306 | Happy Basegrid |
@@ -155,8 +155,8 @@
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
 | 149 | 285 | Ananda Mendez |
-| 150 | 284 | Rachael |
-| 151 | 284 | Emily Adelaide Wheatley |
+| 150 | 284 | Emily Adelaide Wheatley |
+| 151 | 284 | Rachael |
 | 152 | 283 | Franswa |
 | 153 | 282 | Tyler Werts |
 | 154 | 282 | Timothy Dew |
@@ -182,8 +182,8 @@
 | 174 | 264 | Brian Richardsson |
 | 175 | 261 | Witty Builderfit |
 | 176 | 258 | Billie Dawn Sparks |
-| 177 | 254 | Al Smith Jr |
-| 178 | 254 | Letson Melissa |
+| 177 | 254 | Letson Melissa |
+| 178 | 254 | Al Smith Jr |
 | 179 | 253 | Jamie Jury |
 | 180 | 252 | Dena Kayy |
 | 181 | 251 | Giggly Builderline |
@@ -337,10 +337,10 @@
 | 329 | 153 | Howdi Duty |
 | 330 | 153 | Dino |
 | 331 | 152 | Speedy Snapfall |
-| 332 | 151 | Bruce Cruz |
-| 333 | 151 | Gilbert Ortiz Jr. |
-| 334 | 150 | Agustin Duarte Orozco |
-| 335 | 150 | Barrbaric |
+| 332 | 151 | Gilbert Ortiz Jr. |
+| 333 | 151 | Bruce Cruz |
+| 334 | 150 | Barrbaric |
+| 335 | 150 | Agustin Duarte Orozco |
 | 336 | 149 | Cody Gates |
 | 337 | 149 | Tyler Hertzog |
 | 338 | 149 | Melissa Bires Hussar |
@@ -349,12 +349,12 @@
 | 341 | 147 | Brian Spotts |
 | 342 | 146 | Jordan Brooks |
 | 343 | 146 | Glitzy Buildsnap |
-| 344 | 145 | Rachel Nichole Henry |
+| 344 | 145 | Robert |
 | 345 | 145 | Chantelle Ceno |
-| 346 | 145 | Robert |
-| 347 | 145 | Tipsy Riseclear |
-| 348 | 144 | Miguel Teixeira |
-| 349 | 144 | Toph |
+| 346 | 145 | Tipsy Riseclear |
+| 347 | 145 | Rachel Nichole Henry |
+| 348 | 144 | Toph |
+| 349 | 144 | Miguel Teixeira |
 | 350 | 143 | Guest |
 | 351 | 142 | Nathan Sealander |
 | 352 | 141 | Kayla Marie Stevenson |

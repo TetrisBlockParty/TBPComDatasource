@@ -107,8 +107,8 @@
 | 99 | 1623 | Mr. Street Stack |
 | 100 | 1603 | Gabby Jenner |
 | 101 | 1601 | Ray Ray Prado |
-| 102 | 1599 | Janel Turley-Garner |
-| 103 | 1599 | Rob Riggin |
+| 102 | 1599 | Rob Riggin |
+| 103 | 1599 | Janel Turley-Garner |
 | 104 | 1567 | Sally Dennis |
 | 105 | 1564 | Charie Holland |
 | 106 | 1562 | Loopy Clusterbuilder |
@@ -259,8 +259,8 @@
 | 251 | 867 | Michele Gabriel |
 | 252 | 862 | Brittany Radaszewski |
 | 253 | 860 | William Hunt |
-| 254 | 860 | John Bednarik |
-| 255 | 860 | April Dawn Gussler |
+| 254 | 860 | April Dawn Gussler |
+| 255 | 860 | John Bednarik |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
 | 258 | 853 | Meghan M |
@@ -322,8 +322,8 @@
 | 314 | 725 | Jánine Riggs |
 | 315 | 720 | Charvi' Carter |
 | 316 | 719 | Lola Contreras |
-| 317 | 715 | Stephanie Lumanlan |
-| 318 | 715 | Joshua Sommerville |
+| 317 | 715 | Joshua Sommerville |
+| 318 | 715 | Stephanie Lumanlan |
 | 319 | 713 | Chelle |
 | 320 | 711 | Melissa Holsinger |
 | 321 | 704 | Shelley Thornburgh Wright |
@@ -354,8 +354,8 @@
 | 346 | 668 | Roseanna Peloso |
 | 347 | 666 | Speedy Spinblock |
 | 348 | 665 | Phil J. Grombliniak |
-| 349 | 665 | Prette Qui |
-| 350 | 665 | Taryece Gause |
+| 349 | 665 | Taryece Gause |
+| 350 | 665 | Prette Qui |
 | 351 | 664 | Sleepypanda67 |
 | 352 | 662 | Melissa Rebbe-Lehman |
 | 353 | 661 | BeQuo |
@@ -611,11 +611,11 @@
 | 603 | 417 | Lauren Fitzgerald Thomas |
 | 604 | 416 | Ricky Fortune |
 | 605 | 414 | John |
-| 606 | 413 | Kristen O'Neal |
-| 607 | 413 | Angi Harrison |
-| 608 | 413 | Hunter Connors |
-| 609 | 413 | Kimberly Ann |
-| 610 | 413 | Fancy Twister |
+| 606 | 413 | Angi Harrison |
+| 607 | 413 | Kristen O'Neal |
+| 608 | 413 | Kimberly Ann |
+| 609 | 413 | Fancy Twister |
+| 610 | 413 | Hunter Connors |
 | 611 | 412 | Dawn L Washington-Feuquay |
 | 612 | 412 | Jason H Baker |
 | 613 | 411 | Jessica Lamb |
@@ -659,9 +659,9 @@
 | 651 | 387 | Bold Brickster |
 | 652 | 385 | Tansaria Couch-Butler |
 | 653 | 384 | Mary Marie |
-| 654 | 384 | Kelly |
+| 654 | 384 | Party d |
 | 655 | 384 | Heather Johnson |
-| 656 | 384 | Party d |
+| 656 | 384 | Kelly |
 | 657 | 384 | Lawanda Forbes |
 | 658 | 382 | Amber Gray |
 | 659 | 382 | James Zaragoza |
@@ -701,8 +701,8 @@
 | 693 | 363 | Kia Humphery |
 | 694 | 363 | Stephanie Fortune |
 | 695 | 363 | Veronica Stevenson |
-| 696 | 362 | Janai Vrabel |
-| 697 | 362 | Snappy Matchbuilder |
+| 696 | 362 | Snappy Matchbuilder |
+| 697 | 362 | Janai Vrabel |
 | 698 | 361 | Michelle Shrum |
 | 699 | 360 | Kacee Conrad Bock |
 | 700 | 360 | Jroc |
@@ -961,8 +961,8 @@
 | 953 | 271 | Amandacolle |
 | 954 | 271 | Pam Doughty |
 | 955 | 271 | Shalisa Hill |
-| 956 | 271 | Amber N Koepp |
-| 957 | 271 | Sedo |
+| 956 | 271 | Sedo |
+| 957 | 271 | Amber N Koepp |
 | 958 | 270 | Lazy Builderfit |
 | 959 | 270 | BK Queen |
 | 960 | 270 | Shindee |

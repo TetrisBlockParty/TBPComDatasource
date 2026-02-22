@@ -134,8 +134,8 @@
 | 126 | 526 | Cynthia Castros-Hampton |
 | 127 | 525 | Justin Ritter |
 | 128 | 521 | Michael Nowogorski |
-| 129 | 521 | Daryn Elliott |
-| 130 | 521 | Michelle Becker |
+| 129 | 521 | Michelle Becker |
+| 130 | 521 | Daryn Elliott |
 | 131 | 518 | opf |
 | 132 | 506 | Sashay Tapae Simpson |
 | 133 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -215,8 +215,8 @@
 | 207 | 346 | Tamara Deherrera |
 | 208 | 344 | Trisha Balmer |
 | 209 | 343 | Ashley Raines |
-| 210 | 341 | Samantha Lynn |
-| 211 | 341 | Noyb Adam |
+| 210 | 341 | Noyb Adam |
+| 211 | 341 | Samantha Lynn |
 | 212 | 340 | Ammmmmmy |
 | 213 | 338 | Gumbo |
 | 214 | 332 | Ashley Tookes |
@@ -373,7 +373,7 @@
 | 365 | 196 | Denita Mungro |
 | 366 | 195 | Nicha Hooker |
 | 367 | 194 | Kevin Fountain |
-| 368 | 193 | Clever Shiftsnap |
+| 368 | 193 | Loopy Fallzone |
 | 369 | 193 | BŘŰŤİÇŨŚ |
 | 370 | 193 | Clever Shiftsnap |
 | 371 | 192 | Kelly Ann Child |
@@ -426,8 +426,8 @@
 | 418 | 167 | Arden White Kirsch |
 | 419 | 167 | Shicken Nuggit |
 | 420 | 167 | Irene Arreguin |
-| 421 | 166 | Rashad Green |
-| 422 | 166 | Joshua David Huie |
+| 421 | 166 | Joshua David Huie |
+| 422 | 166 | Rashad Green |
 | 423 | 165 | Kali Kelz Williams |
 | 424 | 165 | Silver Marchán |
 | 425 | 164 | Ashley Rufus Bythcez |
