@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | Shunta Jacobs |
-| 161 | 353 | CeceGeGe |
+| 160 | 353 | CeceGeGe |
+| 161 | 353 | Shunta Jacobs |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 348 | Chasity |
@@ -179,8 +179,8 @@
 | 171 | 325 | Giddy Twistbuilder |
 | 172 | 323 | Demetrious Shaw Sr. |
 | 173 | 320 | Or Reznitsky |
-| 174 | 317 | Rebecca Funderburk Kirby |
-| 175 | 317 | Ashley Tookes |
+| 174 | 317 | Ashley Tookes |
+| 175 | 317 | Rebecca Funderburk Kirby |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
 | 178 | 308 | Rania Zaqout |
@@ -319,8 +319,8 @@
 | 311 | 167 | Romeo |
 | 312 | 166 | Noettín Kan Zasnemoore |
 | 313 | 166 | April Matthew Kibble |
-| 314 | 165 | Irene Arreguin |
-| 315 | 165 | Kali Kelz Williams |
+| 314 | 165 | Kali Kelz Williams |
+| 315 | 165 | Irene Arreguin |
 | 316 | 163 | Diana Ibarra |
 | 317 | 163 | Christine Trester |
 | 318 | 163 | Stephanie Hill |

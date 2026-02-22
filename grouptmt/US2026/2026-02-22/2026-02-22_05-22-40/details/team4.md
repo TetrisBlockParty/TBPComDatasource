@@ -85,8 +85,8 @@
 | 77 | 409 | Isabella Blanco |
 | 78 | 404 | Courtney Cicoria |
 | 79 | 402 | Julian Garcia |
-| 80 | 396 | Alicia Bass |
-| 81 | 396 | Amy Suckarieh |
+| 80 | 396 | Amy Suckarieh |
+| 81 | 396 | Alicia Bass |
 | 82 | 391 | Ramel Rhodes |
 | 83 | 390 | Carlton Unfiltered |
 | 84 | 382 | Marie-Pier Desjardins |
@@ -390,7 +390,7 @@
 | 382 | 88 | Chris Hartig |
 | 383 | 86 | Jason Frehner |
 | 384 | 86 | Peppy Strike |
-| 385 | 86 | Jason Frehner |
+| 385 | 86 | amy |
 | 386 | 86 | Destiney Carter |
 | 387 | 86 | PAPatty |
 | 388 | 85 | Jackie Clark |

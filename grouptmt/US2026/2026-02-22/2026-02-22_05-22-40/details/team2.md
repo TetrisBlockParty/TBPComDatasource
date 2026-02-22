@@ -120,8 +120,8 @@
 | 112 | 1252 | Katrina Williams Balmir |
 | 113 | 1248 | Howard Forest |
 | 114 | 1242 | Altamirano Michael |
-| 115 | 1232 | Groovy Puzzle |
-| 116 | 1232 | Isabela Shaw |
+| 115 | 1232 | Isabela Shaw |
+| 116 | 1232 | Groovy Puzzle |
 | 117 | 1226 | Vo'Landa Reels |
 | 118 | 1216 | Kristin Ruest |
 | 119 | 1215 | Megan Garrick |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -274,8 +274,8 @@
 | 266 | 673 | Claire Noland |
 | 267 | 672 | Danielle Simmons |
 | 268 | 671 | Poldo Ilano |
-| 269 | 666 | Charvi' Carter |
-| 270 | 666 | Speedy Spinblock |
+| 269 | 666 | Speedy Spinblock |
+| 270 | 666 | Charvi' Carter |
 | 271 | 663 | Mandi Douglas Hilt |
 | 272 | 660 | Bussyiano Page |
 | 273 | 659 | Roseanna Peloso |
@@ -674,10 +674,10 @@
 | 666 | 302 | Maxwell Escalera |
 | 667 | 300 | Kacee Conrad Bock |
 | 668 | 299 | Cassie Newton |
-| 669 | 298 | Alice Ball |
-| 670 | 298 | Frilly Fallzone |
-| 671 | 298 | Ryan Stadel |
-| 672 | 298 | RetroLemur |
+| 669 | 298 | Frilly Fallzone |
+| 670 | 298 | Alice Ball |
+| 671 | 298 | RetroLemur |
+| 672 | 298 | Ryan Stadel |
 | 673 | 297 | Toni Lynn |
 | 674 | 297 | Britney M. |
 | 675 | 297 | Ashley Robbins |
