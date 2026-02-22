@@ -172,8 +172,8 @@
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
-| 167 | 230 | Cursed Hag |
-| 168 | 230 | Autum Leigh |
+| 167 | 230 | Autum Leigh |
+| 168 | 230 | Cursed Hag |
 | 169 | 227 | Alyssa Papen |
 | 170 | 224 | Matt Summer |
 | 171 | 223 | Antony Dwayne Beasley |

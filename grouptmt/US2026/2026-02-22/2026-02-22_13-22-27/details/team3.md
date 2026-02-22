@@ -150,8 +150,8 @@
 | 142 | 445 | Shannon Matthew Byers |
 | 143 | 445 | Kristie McFarland |
 | 144 | 445 | Jacqueline Rodriguez |
-| 145 | 435 | Daryn Elliott |
-| 146 | 435 | Michelle |
+| 145 | 435 | Michelle |
+| 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
 | 148 | 427 | Wendy Dearden |
 | 149 | 427 | Logan Naccarato |
@@ -198,9 +198,9 @@
 | 190 | 347 | Jone |
 | 191 | 343 | Ashley Raines |
 | 192 | 343 | Tamara Deherrera |
-| 193 | 341 | Noyb Adam |
-| 194 | 341 | Samantha Lynn |
-| 195 | 341 | Rochelle Hazelett |
+| 193 | 341 | Rochelle Hazelett |
+| 194 | 341 | Noyb Adam |
+| 195 | 341 | Samantha Lynn |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
 | 198 | 330 | Rebecca Funderburk Kirby |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tasha Wesson-Torrence |
-| 247 | 261 | Tiffany Ford |
+| 246 | 261 | Tiffany Ford |
+| 247 | 261 | Tasha Wesson-Torrence |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 260 | Nikki Pags |
@@ -268,8 +268,8 @@
 | 260 | 246 | Peppy Shifter |
 | 261 | 245 | Latoya Mayne |
 | 262 | 244 | LaNette Morgan |
-| 263 | 243 | Brenda Schmid Wood |
-| 264 | 243 | Foltz Lee Kelli |
+| 263 | 243 | Foltz Lee Kelli |
+| 264 | 243 | Brenda Schmid Wood |
 | 265 | 240 | Jimmie Clemons |
 | 266 | 238 | Connie Mohler-Fair |
 | 267 | 238 | LaTanya GeminiondaRise Johnson |
@@ -299,8 +299,8 @@
 | 291 | 214 | Amy Fuller Heaton |
 | 292 | 214 | Rebel124 |
 | 293 | 213 | Nicholas Roddy |
-| 294 | 212 | Sunny Rotater |
-| 295 | 212 | Desiree Gold |
+| 294 | 212 | Desiree Gold |
+| 295 | 212 | Sunny Rotater |
 | 296 | 212 | Jana Polk |
 | 297 | 211 | Velma Mull |
 | 298 | 211 | El Chapa |
@@ -449,9 +449,9 @@
 | 441 | 141 | Reina Roth |
 | 442 | 140 | Christine Vosburgh |
 | 443 | 140 | Jumpy Curvebuilder |
-| 444 | 140 | Boldy Corner |
+| 444 | 140 | Linda Draper |
 | 445 | 140 | Alison Baus |
-| 446 | 140 | Linda Draper |
+| 446 | 140 | Boldy Corner |
 | 447 | 139 | Beppy |
 | 448 | 139 | Paula Little |
 | 449 | 138 | Bleu Sun Beams |
@@ -581,11 +581,11 @@
 | 573 | 109 | Peachy Westbrook |
 | 574 | 109 | mommablock |
 | 575 | 108 | Matty Pope |
-| 576 | 108 | Jack Bo |
-| 577 | 108 | Rachel Grant |
+| 576 | 108 | Rachel Grant |
+| 577 | 108 | Jack Bo |
 | 578 | 108 | sapphomet |
-| 579 | 107 | Megan Stanley |
-| 580 | 107 | Norma JulieMay |
+| 579 | 107 | Norma JulieMay |
+| 580 | 107 | Megan Stanley |
 | 581 | 107 | Tiffany Marler |
 | 582 | 106 | Jennifer Evans |
 | 583 | 106 | Jennifer Palermo |

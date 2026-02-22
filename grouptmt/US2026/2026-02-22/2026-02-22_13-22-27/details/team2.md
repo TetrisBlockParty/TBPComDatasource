@@ -304,8 +304,8 @@
 | 296 | 697 | Dreamy Blast |
 | 297 | 696 | Jánine Riggs |
 | 298 | 695 | Lakeysha Dortch |
-| 299 | 692 | Jennifer Casey-Kay |
-| 300 | 692 | Dannette Goldberg-Richards |
+| 299 | 692 | Dannette Goldberg-Richards |
+| 300 | 692 | Jennifer Casey-Kay |
 | 301 | 691 | Joce Lynn |
 | 302 | 690 | Deborah Miller |
 | 303 | 689 | Giggy Blocker |
@@ -351,15 +351,15 @@
 | 343 | 626 | Dylan Thomason |
 | 344 | 620 | Brandon Armstrong |
 | 345 | 613 | Ellie Jonas |
-| 346 | 613 | Caitlyn Blackwell |
-| 347 | 613 | Breezy Filler |
+| 346 | 613 | Breezy Filler |
+| 347 | 613 | Caitlyn Blackwell |
 | 348 | 611 | Julio A Laracuente |
 | 349 | 611 | Carl Bradshaw |
 | 350 | 611 | Em Chen |
 | 351 | 603 | Cassie Maynard |
 | 352 | 602 | KhaosLord |
-| 353 | 602 | Biggest thing |
-| 354 | 602 | Christine Bollig |
+| 353 | 602 | Christine Bollig |
+| 354 | 602 | Biggest thing |
 | 355 | 601 | Michele Morgan |
 | 356 | 600 | Demeka Dangerous-kisses Johnson |
 | 357 | 597 | Steven Marshaun |
@@ -540,8 +540,8 @@
 | 532 | 429 | Tabs Reichert |
 | 533 | 428 | Arkei Luster |
 | 534 | 428 | Shyenn Gadsby |
-| 535 | 427 | Destiny Cozier |
-| 536 | 427 | Sabrina Burton |
+| 535 | 427 | Sabrina Burton |
+| 536 | 427 | Destiny Cozier |
 | 537 | 427 | Alexandra Weir |
 | 538 | 426 | Ashley Dow |
 | 539 | 425 | Skyler Morgan |
@@ -559,8 +559,8 @@
 | 551 | 416 | Ricky Fortune |
 | 552 | 414 | John |
 | 553 | 413 | Angi Harrison |
-| 554 | 413 | Lauren Fitzgerald Thomas |
-| 555 | 413 | Fancy Twister |
+| 554 | 413 | Fancy Twister |
+| 555 | 413 | Lauren Fitzgerald Thomas |
 | 556 | 412 | Jason H Baker |
 | 557 | 411 | Kristen O'Neal |
 | 558 | 411 | Mighty Spinbuilder |
