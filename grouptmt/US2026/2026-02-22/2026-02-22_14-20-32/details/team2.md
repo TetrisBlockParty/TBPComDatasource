@@ -241,8 +241,8 @@
 | 233 | 867 | Peppy Zone |
 | 234 | 862 | Brittany Radaszewski |
 | 235 | 860 | Felicia Lynn |
-| 236 | 860 | John Bednarik |
-| 237 | 860 | April Dawn Gussler |
+| 236 | 860 | April Dawn Gussler |
+| 237 | 860 | John Bednarik |
 | 238 | 857 | Della Hole |
 | 239 | 855 | F-X |
 | 240 | 853 | Meghan M |
@@ -343,8 +343,8 @@
 | 335 | 661 | BeQuo |
 | 336 | 659 | Draizen Montrell Thomas |
 | 337 | 651 | Unica Rector |
-| 338 | 650 | Shiny Rollzone |
-| 339 | 650 | tejas25 |
+| 338 | 650 | tejas25 |
+| 339 | 650 | Shiny Rollzone |
 | 340 | 643 | Hoppy Brickmatch |
 | 341 | 640 | BYM4L |
 | 342 | 639 | Crystie Hicks |
@@ -677,8 +677,8 @@
 | 669 | 357 | Tristan Szolek |
 | 670 | 357 | Shannon Byrd |
 | 671 | 356 | Kelsey Sullivan |
-| 672 | 354 | Rachel Kaminski |
-| 673 | 354 | Rickey Johnson |
+| 672 | 354 | Rickey Johnson |
+| 673 | 354 | Rachel Kaminski |
 | 674 | 352 | Rose Fx |
 | 675 | 352 | Jean FU Jagielski |
 | 676 | 352 | ruth |
@@ -726,17 +726,17 @@
 | 718 | 329 | Jane Crew |
 | 719 | 329 | Snappy Shatterfit |
 | 720 | 328 | Sarah block |
-| 721 | 328 | Jamie Carter Bierce |
-| 722 | 328 | Mike73 |
-| 723 | 328 | BabyBird |
+| 721 | 328 | Mike73 |
+| 722 | 328 | BabyBird |
+| 723 | 328 | Jamie Carter Bierce |
 | 724 | 327 | Polly Pritchard Chesler |
 | 725 | 326 | Ann Knutson Anderson |
 | 726 | 325 | Justin Hines |
 | 727 | 324 | Prado |
 | 728 | 324 | Tasia Stinson |
 | 729 | 324 | Dale Haanpaa |
-| 730 | 323 | Briana Alexander |
-| 731 | 323 | stacey |
+| 730 | 323 | stacey |
+| 731 | 323 | Briana Alexander |
 | 732 | 322 | Christina Jarvis-Swarbrick |
 | 733 | 322 | Robin L. Vial |
 | 734 | 322 | Michelle Pike |
@@ -813,7 +813,7 @@
 | 805 | 292 | Bryan Werleman |
 | 806 | 292 | Deana |
 | 807 | 292 | AsnPryBoy83 |
-| 808 | 291 | Jennie Lee Huntley |
+| 808 | 291 | NickyBrooks |
 | 809 | 291 | Bella Novia |
 | 810 | 291 | Jennie Lee Huntley |
 | 811 | 289 | Ryan Chan |
@@ -1227,8 +1227,8 @@
 | 1219 | 199 | Quels Whidbee |
 | 1220 | 199 | Dottie Turbeville Creel |
 | 1221 | 199 | Melissa May |
-| 1222 | 198 | Majed Tawk |
-| 1223 | 198 | Alice Samm |
+| 1222 | 198 | Alice Samm |
+| 1223 | 198 | Majed Tawk |
 | 1224 | 198 | Ericka Marie Smith |
 | 1225 | 197 | Sunny Pusher |
 | 1226 | 197 | Arlet Alba |

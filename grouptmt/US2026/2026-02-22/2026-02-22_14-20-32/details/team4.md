@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | J-Rizzle |
-| 166 | 244 | Twisty Cascadezone |
+| 165 | 244 | Twisty Cascadezone |
+| 166 | 244 | J-Rizzle |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -709,8 +709,8 @@
 | 701 | 57 | Smiley Linkgrid |
 | 702 | 57 | Harold M. |
 | 703 | 57 | Flashy Jumper |
-| 704 | 56 | I'm sorry |
-| 705 | 56 | Lilya Troutman |
+| 704 | 56 | Lilya Troutman |
+| 705 | 56 | I'm sorry |
 | 706 | 56 | Speedy Zigzag |
 | 707 | 56 | Wacky Wendy |
 | 708 | 56 | Joan Du |

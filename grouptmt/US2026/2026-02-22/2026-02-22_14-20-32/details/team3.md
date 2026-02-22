@@ -106,15 +106,15 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 589 | Giddy Drop |
 | 100 | 588 | yoyo |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 545 | Christine Filson |
@@ -258,8 +258,8 @@
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
 | 252 | 262 | Joe-Maggie Mathews |
-| 253 | 261 | Tiffany Ford |
-| 254 | 261 | Tasha Wesson-Torrence |
+| 253 | 261 | Tasha Wesson-Torrence |
+| 254 | 261 | Tiffany Ford |
 | 255 | 261 | Marquita Sheard |
 | 256 | 260 | Grams |
 | 257 | 260 | Nikki Pags |
@@ -284,8 +284,8 @@
 | 276 | 236 | Jess Bissett |
 | 277 | 235 | Cozy Snaplink |
 | 278 | 234 | Lys |
-| 279 | 233 | Ray Lader |
-| 280 | 233 | Josh Borquez |
+| 279 | 233 | Josh Borquez |
+| 280 | 233 | Ray Lader |
 | 281 | 232 | Donna |
 | 282 | 227 | Krystal Gerstberger |
 | 283 | 227 | Meowsa |
@@ -380,8 +380,8 @@
 | 372 | 173 | BŘŰŤİÇŨŚ |
 | 373 | 173 | Naur |
 | 374 | 170 | Tina Smith Roy |
-| 375 | 169 | Rainbow77375 |
-| 376 | 169 | Peachy Rollfit |
+| 375 | 169 | Peachy Rollfit |
+| 376 | 169 | Rainbow77375 |
 | 377 | 168 | Trice Thomas |
 | 378 | 167 | Shicken Nuggit |
 | 379 | 167 | Irene Arreguin |
