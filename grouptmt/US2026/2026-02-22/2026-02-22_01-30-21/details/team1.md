@@ -101,8 +101,8 @@
 | 93 | 298 | Carrie Beck Geartz |
 | 94 | 293 | Adam Byrd |
 | 95 | 292 | Kristen Gideon |
-| 96 | 290 | Death |
-| 97 | 290 | Spunky Piecebuilder |
+| 96 | 290 | Spunky Piecebuilder |
+| 97 | 290 | Death |
 | 98 | 284 | Theo Pinnow |
 | 99 | 282 | Timothy Dew |
 | 100 | 280 | Sarah Roberts |
@@ -139,11 +139,11 @@
 | 131 | 203 | Paula Martin |
 | 132 | 203 | GATOR |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Happy Snapbuild |
-| 135 | 198 | Shiny Gridmatch |
+| 134 | 198 | Shiny Gridmatch |
+| 135 | 198 | Happy Snapbuild |
 | 136 | 195 | Daring Fitclear |
-| 137 | 194 | Tyler Werts |
-| 138 | 194 | Ash Galvan |
+| 137 | 194 | Ash Galvan |
+| 138 | 194 | Tyler Werts |
 | 139 | 193 | Lachelle Dillon |
 | 140 | 192 | Jessica Sheehan |
 | 141 | 192 | Shaykmia |
@@ -197,8 +197,8 @@
 | 189 | 154 | Melissa Lemmon |
 | 190 | 154 | Christy Jones |
 | 191 | 153 | Barry Mac'Ockner |
-| 192 | 152 | Jacqueline Unique |
-| 193 | 152 | Speedy Snapfall |
+| 192 | 152 | Speedy Snapfall |
+| 193 | 152 | Jacqueline Unique |
 | 194 | 150 | Adele Rahman |
 | 195 | 148 | Bouncy Grid |
 | 196 | 147 | DaRascal |
@@ -210,8 +210,8 @@
 | 202 | 144 | Toph |
 | 203 | 144 | Gary Gobin |
 | 204 | 142 | Colleen Wise |
-| 205 | 141 | Dino |
-| 206 | 141 | Blaire Bruckoff |
+| 205 | 141 | Blaire Bruckoff |
+| 206 | 141 | Dino |
 | 207 | 139 | Flashy Rotator |
 | 208 | 137 | Cody Gates |
 | 209 | 137 | Witty Builderfit |

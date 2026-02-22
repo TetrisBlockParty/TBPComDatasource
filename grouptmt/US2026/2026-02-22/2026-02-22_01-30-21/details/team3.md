@@ -143,8 +143,8 @@
 | 135 | 355 | Sherry Ogden |
 | 136 | 355 | Tessina Dewey-Mancino |
 | 137 | 348 | CeceGeGe |
-| 138 | 347 | Darlene McMillan |
-| 139 | 347 | Nicole Flippo |
+| 138 | 347 | Nicole Flippo |
+| 139 | 347 | Darlene McMillan |
 | 140 | 343 | Chasity |
 | 141 | 338 | Louise Stacy Sisson |
 | 142 | 328 | Jeni Dow |
@@ -431,8 +431,8 @@
 | 423 | 102 | Bekah Dietrich |
 | 424 | 102 | Johnathan Dowe |
 | 425 | 102 | Megan Riggins |
-| 426 | 101 | Kellie Montgomery |
-| 427 | 101 | Hyper Bridger |
+| 426 | 101 | Hyper Bridger |
+| 427 | 101 | Kellie Montgomery |
 | 428 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 429 | 101 | Cheeky Twisterfit |
 | 430 | 100 | Brooke Bauer |

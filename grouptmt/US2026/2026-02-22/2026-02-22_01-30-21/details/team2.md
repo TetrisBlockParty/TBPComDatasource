@@ -285,8 +285,8 @@
 | 277 | 543 | Adira Brown |
 | 278 | 543 | Teresa Gillmore |
 | 279 | 542 | Slip |
-| 280 | 535 | Jessie McDougald |
-| 281 | 535 | Paul Huber |
+| 280 | 535 | Paul Huber |
+| 281 | 535 | Jessie McDougald |
 | 282 | 531 | Chris Wanner |
 | 283 | 528 | Brownie Sheena |
 | 284 | 528 | Taylor Phillips |
@@ -404,8 +404,8 @@
 | 396 | 401 | De Hawkins |
 | 397 | 400 | Tammy Allen |
 | 398 | 400 | Lee Harper |
-| 399 | 399 | Juanita Lyons |
-| 400 | 399 | Steven Marshaun |
+| 399 | 399 | Steven Marshaun |
+| 400 | 399 | Juanita Lyons |
 | 401 | 397 | coleksquad |
 | 402 | 396 | Stefanie Zonzini-Gagliardi |
 | 403 | 395 | Mighty Shatterfit |
@@ -416,8 +416,8 @@
 | 408 | 391 | Chilly Bridgepiece |
 | 409 | 391 | Qiana Sanders |
 | 410 | 389 | Alexis Richardson |
-| 411 | 387 | Johnny Yeates |
-| 412 | 387 | Ann Matzkanin |
+| 411 | 387 | Ann Matzkanin |
+| 412 | 387 | Johnny Yeates |
 | 413 | 386 | Irene Jones |
 | 414 | 384 | Mike Aprilliano |
 | 415 | 383 | Arkei Luster |
@@ -456,8 +456,8 @@
 | 448 | 362 | KayLynn Ogden McClelland |
 | 449 | 362 | Tracy Wise |
 | 450 | 359 | Offonar Facey |
-| 451 | 358 | Alyssaaelena |
-| 452 | 358 | Michelle Sager |
+| 451 | 358 | Michelle Sager |
+| 452 | 358 | Alyssaaelena |
 | 453 | 357 | Shannon Byrd |
 | 454 | 355 | Jessica Lamb |
 | 455 | 354 | Connie Lepore-Mann |
@@ -509,8 +509,8 @@
 | 501 | 328 | Jane Crew |
 | 502 | 327 | Danielle Simmons |
 | 503 | 327 | Kiana Boschh |
-| 504 | 326 | Denise Rickman |
-| 505 | 326 | NanDa Cruzan VI |
+| 504 | 326 | NanDa Cruzan VI |
+| 505 | 326 | Denise Rickman |
 | 506 | 324 | Mike73 |
 | 507 | 323 | Snappy Shatterfit |
 | 508 | 323 | Tum |
@@ -628,8 +628,8 @@
 | 620 | 270 | Tim Dyer |
 | 621 | 270 | Court |
 | 622 | 269 | Reece Smith |
-| 623 | 268 | Christina Wsn |
-| 624 | 268 | Min |
+| 623 | 268 | Min |
+| 624 | 268 | Christina Wsn |
 | 625 | 267 | Lauren Fitzgerald Thomas |
 | 626 | 267 | Kelsey Sullivan |
 | 627 | 267 | Steve Man |

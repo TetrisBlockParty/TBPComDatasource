@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -118,13 +118,13 @@
 | 110 | 246 | Dizzy Tiley |
 | 111 | 231 | Chastity Mitchell |
 | 112 | 230 | Autum Leigh |
-| 113 | 230 | Lucas J Sutton |
-| 114 | 230 | Daria Rycewicz |
+| 113 | 230 | Daria Rycewicz |
+| 114 | 230 | Lucas J Sutton |
 | 115 | 225 | Damn Libra |
 | 116 | 222 | Joeliecea Cobb |
 | 117 | 221 | Alyssa Papen |
-| 118 | 218 | Antony Dwayne Beasley |
-| 119 | 218 | Casey Grabner |
+| 118 | 218 | Casey Grabner |
+| 119 | 218 | Antony Dwayne Beasley |
 | 120 | 217 | Chaz Duncan |
 | 121 | 217 | loulou |
 | 122 | 214 | Monica Daley |
@@ -175,8 +175,8 @@
 | 167 | 158 | Chair |
 | 168 | 155 | AyeKay |
 | 169 | 154 | scott |
-| 170 | 153 | Avy Absol |
-| 171 | 153 | Empress Oasis |
+| 170 | 153 | Empress Oasis |
+| 171 | 153 | Avy Absol |
 | 172 | 151 | Bethany Ison |
 | 173 | 149 | Megan Cutshaw |
 | 174 | 149 | Shainne Brewer |
