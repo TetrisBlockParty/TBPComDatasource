@@ -140,8 +140,8 @@
 | 132 | 372 | Sweet Baker |
 | 133 | 370 | Ly Phethmany |
 | 134 | 364 | Shauna Loe |
-| 135 | 360 | phrmblk24 |
-| 136 | 360 | Wisa |
+| 135 | 360 | Wisa |
+| 136 | 360 | phrmblk24 |
 | 137 | 359 | Chirpy Smasher |
 | 138 | 357 | Amanda Johnson Huffman |
 | 139 | 350 | Tipsy Strikerpiece |

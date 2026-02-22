@@ -219,8 +219,8 @@
 | 211 | 377 | Darlene McMillan |
 | 212 | 376 | Loopy Clusterer |
 | 213 | 372 | Rich LeBlanc |
-| 214 | 369 | RickyG |
-| 215 | 369 | Sarah Moyer |
+| 214 | 369 | Sarah Moyer |
+| 215 | 369 | RickyG |
 | 216 | 368 | Stephanie Woods |
 | 217 | 367 | Loopy Fallmatch |
 | 218 | 367 | Marci Mize Fandrich |
@@ -231,13 +231,13 @@
 | 223 | 360 | Sheila M Frazier |
 | 224 | 357 | Stephanie Burtin |
 | 225 | 355 | Keis |
-| 226 | 351 | Eon Harris |
-| 227 | 351 | Rebecca Funderburk Kirby |
+| 226 | 351 | Rebecca Funderburk Kirby |
+| 227 | 351 | Eon Harris |
 | 228 | 350 | Kammy Hill |
 | 229 | 349 | Amanda J. Mcneil-Anderson |
 | 230 | 348 | Kristal C Lee |
-| 231 | 347 | Philip Rock |
-| 232 | 347 | Trisha Balmer |
+| 231 | 347 | Trisha Balmer |
+| 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
 | 234 | 344 | Roary Danner |
 | 235 | 344 | Rania Zaqout |
@@ -262,10 +262,10 @@
 | 254 | 312 | LadyTorad |
 | 255 | 312 | Christian Werndl |
 | 256 | 309 | Felicia Rocha |
-| 257 | 308 | Katrina Turner |
-| 258 | 308 | Cynthia Herrmann Egland |
-| 259 | 307 | Blocked |
-| 260 | 307 | rnr junky |
+| 257 | 308 | Cynthia Herrmann Egland |
+| 258 | 308 | Katrina Turner |
+| 259 | 307 | rnr junky |
+| 260 | 307 | Blocked |
 | 261 | 304 | Marquita Sheard |
 | 262 | 303 | Alexmac |
 | 263 | 302 | Gray Hicks |

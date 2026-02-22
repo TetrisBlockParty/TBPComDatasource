@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
@@ -169,8 +169,8 @@
 | 161 | 312 | Rafael Valentin |
 | 162 | 311 | Kristina Black |
 | 163 | 308 | Jeff Brian Gates |
-| 164 | 307 | Bio Nelly |
-| 165 | 307 | Girl |
+| 164 | 307 | Girl |
+| 165 | 307 | Bio Nelly |
 | 166 | 303 | shark tato |
 | 167 | 302 | Cursed Hag |
 | 168 | 301 | Andria Lynn |
@@ -203,8 +203,8 @@
 | 195 | 267 | Kathy Brookins |
 | 196 | 267 | Holly |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Holly Jolly |
-| 199 | 262 | Joeliecea Cobb |
+| 198 | 262 | Joeliecea Cobb |
+| 199 | 262 | Holly Jolly |
 | 200 | 261 | scott |
 | 201 | 259 | Swanky Fitline |
 | 202 | 259 | Sam Bishop |

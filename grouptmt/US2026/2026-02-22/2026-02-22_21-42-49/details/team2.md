@@ -259,8 +259,8 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Joshua Mandel |
-| 255 | 919 | Isaac Trappiel IV |
+| 254 | 919 | Isaac Trappiel IV |
+| 255 | 919 | Joshua Mandel |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
@@ -718,8 +718,8 @@
 | 710 | 393 | Jamie West |
 | 711 | 392 | Swanky Columnbuilder |
 | 712 | 391 | Jessica Conaway |
-| 713 | 391 | Chilly Bridgepiece |
-| 714 | 391 | Megan Kitchner |
+| 713 | 391 | Megan Kitchner |
+| 714 | 391 | Chilly Bridgepiece |
 | 715 | 390 | Cini |
 | 716 | 389 | AsnPryBoy83 |
 | 717 | 389 | Montez Mancil |
