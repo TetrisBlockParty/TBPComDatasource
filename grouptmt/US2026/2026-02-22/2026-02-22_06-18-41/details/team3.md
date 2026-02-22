@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Kristie |
-| 111 | 500 | Domo Washington |
+| 110 | 500 | Domo Washington |
+| 111 | 500 | Kristie |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -191,8 +191,8 @@
 | 183 | 315 | Kammy Hill |
 | 184 | 311 | Araceli Parra |
 | 185 | 311 | Raya |
-| 186 | 308 | Daryn Elliott |
-| 187 | 308 | Rania Zaqout |
+| 186 | 308 | Rania Zaqout |
+| 187 | 308 | Daryn Elliott |
 | 188 | 307 | rnr junky |
 | 189 | 307 | Blocked |
 | 190 | 301 | Stephanie Burtin |
@@ -281,9 +281,9 @@
 | 273 | 208 | AlsoJess |
 | 274 | 207 | Jessica |
 | 275 | 207 | angieelyn |
-| 276 | 206 | Jone |
+| 276 | 206 | Tammy Rosenberry |
 | 277 | 206 | Tracy Martin |
-| 278 | 206 | Tammy Rosenberry |
+| 278 | 206 | Jone |
 | 279 | 204 | Aerian Preston |
 | 280 | 203 | Angie Harper |
 | 281 | 202 | Staci George Fitzsimmons |
@@ -460,8 +460,8 @@
 | 452 | 116 | Shelby Crawford |
 | 453 | 116 | TazB |
 | 454 | 115 | Whitney Manuel |
-| 455 | 115 | FATTY |
-| 456 | 115 | Brave Brickster |
+| 455 | 115 | Brave Brickster |
+| 456 | 115 | FATTY |
 | 457 | 115 | Sameerah Smith |
 | 458 | 114 | Joseph Vargas |
 | 459 | 114 | Bhreagh Gentile |

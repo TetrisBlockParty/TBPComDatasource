@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Suki Kaur |
-| 150 | 1043 | Brave Dropmatch |
+| 149 | 1043 | Brave Dropmatch |
+| 150 | 1043 | Suki Kaur |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Mr. Street Stack |
-| 163 | 988 | Maegan Beaule |
+| 162 | 988 | Maegan Beaule |
+| 163 | 988 | Mr. Street Stack |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Taylor Phillips |
 | 166 | 974 | Dolores Russworn |
@@ -212,8 +212,8 @@
 | 204 | 838 | Tralonda Weeks |
 | 205 | 837 | Ashley Rose Frederick |
 | 206 | 835 | Katrina Weston |
-| 207 | 834 | Rebecca Doughman |
-| 208 | 834 | Nika Bee |
+| 207 | 834 | Nika Bee |
+| 208 | 834 | Rebecca Doughman |
 | 209 | 828 | Cindy Sechler Taninecz |
 | 210 | 826 | Moose Griffith |
 | 211 | 820 | Chirpy Staggerpiece |
@@ -1134,8 +1134,8 @@
 | 1126 | 180 | Cheeky Brickroll |
 | 1127 | 180 | Apollo |
 | 1128 | 180 | Peter Palestino |
-| 1129 | 180 | Nuke Morris |
-| 1130 | 180 | Lively Brickfit |
+| 1129 | 180 | Lively Brickfit |
+| 1130 | 180 | Nuke Morris |
 | 1131 | 180 | Bethany Blanchette |
 | 1132 | 180 | Zesty Shatterbuilder |
 | 1133 | 180 | Quiksilver |

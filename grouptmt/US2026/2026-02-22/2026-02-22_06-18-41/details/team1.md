@@ -110,8 +110,8 @@
 | 102 | 326 | Monica Donato |
 | 103 | 321 | Shauna Loe |
 | 104 | 321 | Maria C. Hernandez |
-| 105 | 319 | Deanna L Hermanson |
-| 106 | 319 | Patrick Luckenbill |
+| 105 | 319 | Patrick Luckenbill |
+| 106 | 319 | Deanna L Hermanson |
 | 107 | 313 | Tanya Carpenter-Reynolds |
 | 108 | 310 | Jason Jones |
 | 109 | 310 | Seth Wesson |
@@ -216,8 +216,8 @@
 | 208 | 173 | Rico Rico |
 | 209 | 171 | Greg Premoe |
 | 210 | 171 | David DeSantis |
-| 211 | 170 | Cece Ibarra |
-| 212 | 170 | Standia Civil |
+| 211 | 170 | Standia Civil |
+| 212 | 170 | Cece Ibarra |
 | 213 | 169 | Abbey Crespo |
 | 214 | 168 | Amber Stoker |
 | 215 | 167 | Bindi |
@@ -231,8 +231,8 @@
 | 223 | 163 | Tyler Whitley |
 | 224 | 161 | SavageBooty98 |
 | 225 | 160 | Tedashi |
-| 226 | 158 | Sarah Marie |
-| 227 | 158 | Alenoush Karimian |
+| 226 | 158 | Alenoush Karimian |
+| 227 | 158 | Sarah Marie |
 | 228 | 155 | Barry Mac'Ockner |
 | 229 | 154 | Melissa Lemmon |
 | 230 | 153 | Tami Luce Martin |
@@ -306,9 +306,9 @@
 | 298 | 116 | Debbie Davis |
 | 299 | 116 | Fresno Beotoni |
 | 300 | 115 | Mrs.Patrica |
-| 301 | 114 | Angela Rena Brooks |
+| 301 | 114 | Chris Sigurdson |
 | 302 | 114 | Constance Risner |
-| 303 | 114 | Chris Sigurdson |
+| 303 | 114 | Angela Rena Brooks |
 | 304 | 113 | Itspaigebro |
 | 305 | 112 | Chris65 |
 | 306 | 112 | Crystal Joslin |

@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 870 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Zippy Gridlock |
-| 96 | 352 | Monica Daley |
+| 95 | 352 | Monica Daley |
+| 96 | 352 | Zippy Gridlock |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -232,8 +232,8 @@
 | 224 | 152 | Austin Owens |
 | 225 | 150 | Brittany Marsh |
 | 226 | 149 | Megan Cutshaw |
-| 227 | 149 | Shainne Brewer |
-| 228 | 149 | Tanner Lund |
+| 227 | 149 | Tanner Lund |
+| 228 | 149 | Shainne Brewer |
 | 229 | 148 | Janita Parrish |
 | 230 | 147 | Jared Gutwein |
 | 231 | 147 | B Renee Desjardin |
