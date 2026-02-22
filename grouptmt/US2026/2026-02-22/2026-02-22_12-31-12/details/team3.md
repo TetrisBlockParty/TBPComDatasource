@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -251,8 +251,8 @@
 | 243 | 265 | Sarah Moyer |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tasha Wesson-Torrence |
-| 247 | 261 | Tiffany Ford |
+| 246 | 261 | Tiffany Ford |
+| 247 | 261 | Tasha Wesson-Torrence |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
@@ -448,8 +448,8 @@
 | 440 | 139 | Paula Little |
 | 441 | 138 | Bleu Sun Beams |
 | 442 | 137 | Giggly Brickroll |
-| 443 | 136 | Stephanie Zahm |
-| 444 | 136 | Sabrina Mansfield |
+| 443 | 136 | Sabrina Mansfield |
+| 444 | 136 | Stephanie Zahm |
 | 445 | 136 | Karen Picaboo |
 | 446 | 135 | Jen Lewis |
 | 447 | 135 | Morgan Cudo |

@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -107,8 +107,8 @@
 | 99 | 396 | Alicia Bass |
 | 100 | 393 | Carlton Unfiltered |
 | 101 | 392 | Ericca Eldridge |
-| 102 | 391 | Monica Daley |
-| 103 | 391 | Ramel Rhodes |
+| 102 | 391 | Ramel Rhodes |
+| 103 | 391 | Monica Daley |
 | 104 | 387 | Denise Carlson |
 | 105 | 382 | Marie-Pier Desjardins |
 | 106 | 377 | Lori Walker |

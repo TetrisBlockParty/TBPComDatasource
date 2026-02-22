@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -98,8 +98,8 @@
 | 90 | 388 | Jennifer ManWarren |
 | 91 | 383 | Loony Fitzone |
 | 92 | 382 | Jacqueline Williams |
-| 93 | 379 | Austin James |
-| 94 | 379 | Kimmie Kimms |
+| 93 | 379 | Kimmie Kimms |
+| 94 | 379 | Austin James |
 | 95 | 376 | lil mickey |
 | 96 | 374 | Tinah Montanna |
 | 97 | 364 | Shauna Loe |
@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Gracie |
-| 110 | 333 | Brandi Huntington |
+| 109 | 333 | Brandi Huntington |
+| 110 | 333 | Gracie |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -127,8 +127,8 @@
 | 119 | 316 | Ly Phethmany |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Jason Jones |
-| 123 | 310 | Seth Wesson |
+| 122 | 310 | Seth Wesson |
+| 123 | 310 | Jason Jones |
 | 124 | 306 | Happy Basegrid |
 | 125 | 304 | Nicole Roseberry Weber |
 | 126 | 301 | Lehrin Maria |
@@ -137,16 +137,16 @@
 | 129 | 290 | Death |
 | 130 | 290 | Sarah Roberts |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Rachael |
-| 133 | 284 | Emily Adelaide Wheatley |
+| 132 | 284 | Emily Adelaide Wheatley |
+| 133 | 284 | Rachael |
 | 134 | 283 | Franswa |
 | 135 | 282 | Snippy Wipebuilder |
 | 136 | 282 | Timothy Dew |
 | 137 | 282 | Tyler Werts |
 | 138 | 282 | Cool Shiftsnap |
 | 139 | 276 | Dandy Basegrid |
-| 140 | 270 | Ash Galvan |
-| 141 | 270 | Mandyy Rae |
+| 140 | 270 | Mandyy Rae |
+| 141 | 270 | Ash Galvan |
 | 142 | 268 | GATOR |
 | 143 | 265 | Nutty Spinblock |
 | 144 | 265 | SkipTheSadSauce |
@@ -161,8 +161,8 @@
 | 153 | 255 | Elaine Elaine |
 | 154 | 254 | Al Smith Jr |
 | 155 | 254 | Ty Brown |
-| 156 | 253 | Witty Builderfit |
-| 157 | 253 | Plucky Fallzone |
+| 156 | 253 | Plucky Fallzone |
+| 157 | 253 | Witty Builderfit |
 | 158 | 252 | Dena Kayy |
 | 159 | 247 | Tana |
 | 160 | 246 | Lakeisha Chapman |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,8 +197,8 @@
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | LaFontaine Leslie |
 | 196 | 203 | Paula Martin |
@@ -254,8 +254,8 @@
 | 246 | 174 | Cheeky Pop |
 | 247 | 173 | Rico Rico |
 | 248 | 173 | Gabrielle Louise Malloch |
-| 249 | 171 | David DeSantis |
-| 250 | 171 | Greg Premoe |
+| 249 | 171 | Greg Premoe |
+| 250 | 171 | David DeSantis |
 | 251 | 170 | Standia Civil |
 | 252 | 170 | Spunky Builderpiece |
 | 253 | 169 | Abbey Crespo |
@@ -264,8 +264,8 @@
 | 256 | 167 | Nery Martinez |
 | 257 | 167 | Cranky Pattern |
 | 258 | 166 | Carrie Smith |
-| 259 | 165 | Silly Align |
-| 260 | 165 | Nadine Velardo |
+| 259 | 165 | Nadine Velardo |
+| 260 | 165 | Silly Align |
 | 261 | 164 | Desiree Deschaine Havee |
 | 262 | 163 | Tyler Whitley |
 | 263 | 163 | Davery Spencer Adair |
@@ -328,8 +328,8 @@
 | 320 | 131 | Plucky Wrecker |
 | 321 | 131 | Dizzy Riseclear |
 | 322 | 130 | Carl Claunch |
-| 323 | 129 | Madison Wicks |
-| 324 | 129 | Sherri E Woods Hess |
+| 323 | 129 | Sherri E Woods Hess |
+| 324 | 129 | Madison Wicks |
 | 325 | 128 | George Dalton |
 | 326 | 128 | Michelle Beres |
 | 327 | 128 | Alyssa Ingram |

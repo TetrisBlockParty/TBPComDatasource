@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 894 | Auntie B |
@@ -344,8 +344,8 @@
 | 336 | 627 | Victoria Moore-Smith |
 | 337 | 620 | Brandon Armstrong |
 | 338 | 617 | Leslie Ann Carter |
-| 339 | 613 | Caitlyn Blackwell |
-| 340 | 613 | Breezy Filler |
+| 339 | 613 | Breezy Filler |
+| 340 | 613 | Caitlyn Blackwell |
 | 341 | 613 | Ellie Jonas |
 | 342 | 611 | Em Chen |
 | 343 | 611 | Julio A Laracuente |
@@ -439,8 +439,8 @@
 | 431 | 500 | Sarah Ridenour |
 | 432 | 499 | Sarah Massey |
 | 433 | 498 | Rhonda Milstead |
-| 434 | 497 | Doowop40 |
-| 435 | 497 | June E Hanson |
+| 434 | 497 | June E Hanson |
+| 435 | 497 | Doowop40 |
 | 436 | 494 | Venita Ray |
 | 437 | 493 | Kara Gillen |
 | 438 | 492 | Maya June |
@@ -454,8 +454,8 @@
 | 446 | 487 | MrsCandyfine As Wine Truss |
 | 447 | 487 | Morgan Easter |
 | 448 | 485 | Mamachelle Eisweirth |
-| 449 | 485 | Dapper Dasher |
-| 450 | 485 | Ann Matzkanin |
+| 449 | 485 | Ann Matzkanin |
+| 450 | 485 | Dapper Dasher |
 | 451 | 484 | Brenna Ann |
 | 452 | 484 | Street Sweeper |
 | 453 | 483 | Alezandra Smith |
@@ -603,8 +603,8 @@
 | 595 | 387 | Bold Brickster |
 | 596 | 385 | Tansaria Couch-Butler |
 | 597 | 384 | Mary Marie |
-| 598 | 384 | Kelly |
-| 599 | 384 | Party d |
+| 598 | 384 | Party d |
+| 599 | 384 | Kelly |
 | 600 | 383 | Jessica Conaway |
 | 601 | 383 | Smashanator |
 | 602 | 383 | Belle Mari |
@@ -761,8 +761,8 @@
 | 753 | 304 | NFLPITMOM |
 | 754 | 304 | Melissa McCall |
 | 755 | 303 | Angie Marie |
-| 756 | 303 | Devin |
-| 757 | 303 | Amanda Schaffer |
+| 756 | 303 | Amanda Schaffer |
+| 757 | 303 | Devin |
 | 758 | 302 | Kena T. Tanner |
 | 759 | 302 | Maxwell Escalera |
 | 760 | 302 | Joel Rosado |
@@ -912,9 +912,9 @@
 | 904 | 257 | Mama T |
 | 905 | 257 | Queen |
 | 906 | 256 | Slinky Racker |
-| 907 | 256 | Brenna Yearian |
-| 908 | 256 | Nikki Vaughn |
-| 909 | 256 | Monarca26 |
+| 907 | 256 | Nikki Vaughn |
+| 908 | 256 | Monarca26 |
+| 909 | 256 | Brenna Yearian |
 | 910 | 256 | Gursharan Sandhu |
 | 911 | 255 | Charles E Mccardell |
 | 912 | 255 | Aprill Bolton |
@@ -976,14 +976,14 @@
 | 968 | 239 | Daring Matchfit |
 | 969 | 238 | Kim McGrath |
 | 970 | 238 | Pfc Monei Rivera |
-| 971 | 237 | Devlin Ogg |
-| 972 | 237 | Breezy Tilt |
+| 971 | 237 | Breezy Tilt |
+| 972 | 237 | Devlin Ogg |
 | 973 | 237 | Jodi Mitnick |
 | 974 | 237 | Nutty Matchline |
 | 975 | 236 | Nikki Arlene |
 | 976 | 235 | Loopy Shatterfit |
-| 977 | 235 | Jeffrey Barrows |
-| 978 | 235 | B-rad B-rad |
+| 977 | 235 | B-rad B-rad |
+| 978 | 235 | Jeffrey Barrows |
 | 979 | 235 | Shantel Kelley |
 | 980 | 235 | Prince Ajesh |
 | 981 | 234 | Synn |
@@ -991,11 +991,11 @@
 | 983 | 234 | Trina Harrison |
 | 984 | 234 | Joanna L. Abad |
 | 985 | 234 | Jannan Haimour |
-| 986 | 233 | Allison Hewitt |
-| 987 | 233 | ItsJennifer Neriss |
-| 988 | 233 | Jessica Sutter |
-| 989 | 233 | Nerdy Riserfit |
-| 990 | 233 | Myleaha Holley |
+| 986 | 233 | ItsJennifer Neriss |
+| 987 | 233 | Allison Hewitt |
+| 988 | 233 | Myleaha Holley |
+| 989 | 233 | Jessica Sutter |
+| 990 | 233 | Nerdy Riserfit |
 | 991 | 232 | P. D. Paige |
 | 992 | 232 | Michelle Ettrick |
 | 993 | 232 | Chirpy Snapper |
@@ -1487,8 +1487,8 @@
 | 1479 | 159 | Cheery Puzzler |
 | 1480 | 159 | ForestGem |
 | 1481 | 158 | MauroPRM |
-| 1482 | 158 | Brian Wood |
-| 1483 | 158 | Jesse Lassandro |
+| 1482 | 158 | Jesse Lassandro |
+| 1483 | 158 | Brian Wood |
 | 1484 | 158 | April Ann |
 | 1485 | 158 | Cerealkiller |
 | 1486 | 158 | Ryley Laughlin |
