@@ -152,23 +152,23 @@
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
 | 146 | 353 | Josh Riemer |
-| 147 | 350 | Death |
-| 148 | 350 | Tipsy Strikerpiece |
+| 147 | 350 | Tipsy Strikerpiece |
+| 148 | 350 | Death |
 | 149 | 344 | Monica Donato |
 | 150 | 343 | Elaine Elaine |
 | 151 | 341 | Nick R Montague |
 | 152 | 336 | Fmp |
 | 153 | 334 | Jaimie Lynn |
-| 154 | 333 | Gracie |
-| 155 | 333 | GATOR |
+| 154 | 333 | GATOR |
+| 155 | 333 | Gracie |
 | 156 | 333 | Jennifer Hardman |
 | 157 | 332 | Lehrin Maria |
 | 158 | 325 | Dizzy Party |
 | 159 | 324 | Ananda Mendez |
 | 160 | 324 | Rat666 |
 | 161 | 322 | Chelsea Dahlquist |
-| 162 | 318 | Virginia Gray Floyd |
-| 163 | 318 | Jessica Sheehan |
+| 162 | 318 | Jessica Sheehan |
+| 163 | 318 | Virginia Gray Floyd |
 | 164 | 317 | Rachael |
 | 165 | 315 | Danielle Little-Daugherty |
 | 166 | 315 | Tyler Werts |
@@ -236,8 +236,8 @@
 | 228 | 244 | Eddie Dillon |
 | 229 | 242 | ParisandCory Champagne |
 | 230 | 241 | Tyler Hertzog |
-| 231 | 240 | Daring Fitclear |
-| 232 | 240 | DaRascal |
+| 231 | 240 | DaRascal |
+| 232 | 240 | Daring Fitclear |
 | 233 | 239 | Lacy Wolfe |
 | 234 | 238 | Tiffany Smith |
 | 235 | 238 | Sarah Somers Gray |

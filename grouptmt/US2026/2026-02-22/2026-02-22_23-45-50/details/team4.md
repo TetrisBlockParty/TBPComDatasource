@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Chilly Crasher |
@@ -153,8 +153,8 @@
 | 145 | 368 | Brandon Crabbs |
 | 146 | 359 | Angela Srubar-Norman |
 | 147 | 358 | ThaEviLJeNiuZ |
-| 148 | 353 | Livvy |
-| 149 | 353 | Tyler Terrific |
+| 148 | 353 | Tyler Terrific |
+| 149 | 353 | Livvy |
 | 150 | 349 | Desi Desporte |
 | 151 | 348 | Silly Zonebuilder |
 | 152 | 348 | 🥔🥔 Spudz |

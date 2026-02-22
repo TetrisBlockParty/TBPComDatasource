@@ -80,8 +80,8 @@
 | 72 | 970 | Rosalie Call Kehlenbeck |
 | 73 | 964 | Jennifer |
 | 74 | 945 | Christian A. Pollard |
-| 75 | 926 | Angela M. Fletcher |
-| 76 | 926 | Judi Dobson |
+| 75 | 926 | Judi Dobson |
+| 76 | 926 | Angela M. Fletcher |
 | 77 | 924 | Shonna Roberts |
 | 78 | 923 | Christine Filson |
 | 79 | 910 | Jay Horn |
@@ -355,8 +355,8 @@
 | 347 | 250 | Eric Caccavale |
 | 348 | 249 | Willow |
 | 349 | 249 | Cheryl Hinch Tenbrook |
-| 350 | 247 | Daring Builder |
-| 351 | 247 | Jessica |
+| 350 | 247 | Jessica |
+| 351 | 247 | Daring Builder |
 | 352 | 245 | Latoya Mayne |
 | 353 | 244 | Tegan Chapman |
 | 354 | 244 | LaNette Morgan |
@@ -373,16 +373,16 @@
 | 365 | 236 | Jess Bissett |
 | 366 | 235 | Beppy |
 | 367 | 233 | Tony Waters |
-| 368 | 232 | Nicholas Roddy |
-| 369 | 232 | Michael Latasha Gray |
+| 368 | 232 | Michael Latasha Gray |
+| 369 | 232 | Nicholas Roddy |
 | 370 | 231 | 4girls |
 | 371 | 231 | Frothy Snapper |
 | 372 | 231 | Kevin Russell |
 | 373 | 230 | BigE |
 | 374 | 230 | Jessica Lynn French |
 | 375 | 229 | Everret Maxine |
-| 376 | 229 | DanceLuvLaugh |
-| 377 | 229 | Criss |
+| 376 | 229 | Criss |
+| 377 | 229 | DanceLuvLaugh |
 | 378 | 228 | Wettnippz |
 | 379 | 228 | Stephanie Hill |
 | 380 | 228 | Loopy Fallzone |
