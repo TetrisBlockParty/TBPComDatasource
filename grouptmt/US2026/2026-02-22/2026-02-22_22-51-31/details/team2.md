@@ -225,8 +225,8 @@
 | 217 | 1067 | Jodi Blake |
 | 218 | 1062 | Crystal Slaughter |
 | 219 | 1058 | Jennifer Kistner |
-| 220 | 1057 | RAEPR05 |
-| 221 | 1057 | Desiree Harris Rosch |
+| 220 | 1057 | Desiree Harris Rosch |
+| 221 | 1057 | RAEPR05 |
 | 222 | 1056 | Dolores Russworn |
 | 223 | 1048 | Desiree Anderson |
 | 224 | 1045 | Lourisha |
@@ -389,8 +389,8 @@
 | 381 | 700 | Beverly Owens |
 | 382 | 700 | Vincent Petrella |
 | 383 | 699 | Dannette Goldberg-Richards |
-| 384 | 698 | Breezy Filler |
-| 385 | 698 | Joce Lynn |
+| 384 | 698 | Joce Lynn |
+| 385 | 698 | Breezy Filler |
 | 386 | 698 | Spunkysmom |
 | 387 | 697 | Ashle Scranton |
 | 388 | 695 | Arkei Luster |
@@ -454,8 +454,8 @@
 | 446 | 613 | Ann Matzkanin |
 | 447 | 611 | Biggest thing |
 | 448 | 605 | Santana Miyagi |
-| 449 | 603 | Casper The Chonk |
-| 450 | 603 | Véronique Lévesque Sabourin |
+| 449 | 603 | Véronique Lévesque Sabourin |
+| 450 | 603 | Casper The Chonk |
 | 451 | 602 | Shaun Church |
 | 452 | 602 | KhaosLord |
 | 453 | 601 | Moua Ying |
@@ -1056,8 +1056,8 @@
 | 1048 | 287 | KT Macadocious |
 | 1049 | 286 | King Shamell Young |
 | 1050 | 286 | Debbie Gerlib-Molinari Leigh |
-| 1051 | 285 | Nakiiya Dreamcatcher Gore |
-| 1052 | 285 | Candace Cece Joseph |
+| 1051 | 285 | Candace Cece Joseph |
+| 1052 | 285 | Nakiiya Dreamcatcher Gore |
 | 1053 | 285 | Kimberly Mitchell |
 | 1054 | 284 | Layna Lyons |
 | 1055 | 284 | Hillary Franklin |

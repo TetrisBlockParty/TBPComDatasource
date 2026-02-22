@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | MissTaylor |
-| 91 | 838 | Sarajane Lokan |
+| 90 | 838 | Sarajane Lokan |
+| 91 | 838 | MissTaylor |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -134,8 +134,8 @@
 | 126 | 618 | Bea Miles |
 | 127 | 617 | Leah Barnett |
 | 128 | 613 | JerseyJess |
-| 129 | 595 | Giddy Drop |
-| 130 | 595 | Patricia White |
+| 129 | 595 | Patricia White |
+| 130 | 595 | Giddy Drop |
 | 131 | 590 | Santeria Trece Candles |
 | 132 | 588 | Justin Ritter |
 | 133 | 587 | Daryn Elliott |
@@ -169,8 +169,8 @@
 | 161 | 492 | Daira Largen |
 | 162 | 491 | Chauntee Alfrey-Cardinale |
 | 163 | 488 | Adrian Marcel Pate |
-| 164 | 484 | Dapper Snap |
-| 165 | 484 | Samantha Greco |
+| 164 | 484 | Samantha Greco |
+| 165 | 484 | Dapper Snap |
 | 166 | 479 | Annie Marie |
 | 167 | 479 | Poppy Splitter |
 | 168 | 475 | Tessina Dewey-Mancino |
@@ -183,11 +183,11 @@
 | 175 | 464 | Michelle |
 | 176 | 464 | Makelini Mausia |
 | 177 | 461 | Shunta Jacobs |
-| 178 | 460 | Danielle Allison |
-| 179 | 460 | Araceli Parra |
+| 178 | 460 | Araceli Parra |
+| 179 | 460 | Danielle Allison |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Shannon Matthew Byers |
-| 182 | 457 | Jim Mathews |
+| 181 | 457 | Jim Mathews |
+| 182 | 457 | Shannon Matthew Byers |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |

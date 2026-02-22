@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Ryan Lunnin |
-| 82 | 519 | Greg Hart |
+| 81 | 519 | Greg Hart |
+| 82 | 519 | Ryan Lunnin |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -455,8 +455,8 @@
 | 447 | 132 | Discovery Point |
 | 448 | 132 | Javyjavz |
 | 449 | 131 | Plucky Wrecker |
-| 450 | 131 | Randy Broadwater |
-| 451 | 131 | Owicked1 |
+| 450 | 131 | Owicked1 |
+| 451 | 131 | Randy Broadwater |
 | 452 | 130 | Katie Toothman |
 | 453 | 130 | Shiny Brickclear |
 | 454 | 130 | Carl Claunch |
