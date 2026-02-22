@@ -138,8 +138,8 @@
 | 130 | 1441 | Jessie McDougald |
 | 131 | 1439 | Jumpy Gridpiece |
 | 132 | 1418 | L3sli3 |
-| 133 | 1411 | niecy |
-| 134 | 1411 | Zappy Cascade |
+| 133 | 1411 | Zappy Cascade |
+| 134 | 1411 | niecy |
 | 135 | 1401 | Brandy Andre |
 | 136 | 1392 | Katrina Williams Balmir |
 | 137 | 1390 | Erica Williams |
@@ -676,8 +676,8 @@
 | 668 | 403 | Kelly Meredeith |
 | 669 | 402 | B |
 | 670 | 401 | Beth Decker |
-| 671 | 400 | Tammy Allen |
-| 672 | 400 | Lathasa Newkirk |
+| 671 | 400 | Lathasa Newkirk |
+| 672 | 400 | Tammy Allen |
 | 673 | 399 | Court |
 | 674 | 398 | Cecilia A Jenkins |
 | 675 | 398 | Witty Piecebuilder |
@@ -756,8 +756,8 @@
 | 748 | 363 | Bryan Werleman |
 | 749 | 363 | Stephanie Fortune |
 | 750 | 363 | Veronica Stevenson |
-| 751 | 362 | Snappy Matchbuilder |
-| 752 | 362 | Janai Vrabel |
+| 751 | 362 | Janai Vrabel |
+| 752 | 362 | Snappy Matchbuilder |
 | 753 | 361 | Donald Nowland |
 | 754 | 359 | Polly Pritchard Chesler |
 | 755 | 359 | Cheyenne Donovan |

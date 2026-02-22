@@ -96,8 +96,8 @@
 | 88 | 453 | Brandi Huntington |
 | 89 | 448 | Loony Fitzone |
 | 90 | 446 | Tdub |
-| 91 | 444 | Hyper |
-| 92 | 444 | Lexuriuos Lifestlye |
+| 91 | 444 | Lexuriuos Lifestlye |
+| 92 | 444 | Hyper |
 | 93 | 443 | Steve Schneider |
 | 94 | 439 | cc |
 | 95 | 439 | Trina Gee |

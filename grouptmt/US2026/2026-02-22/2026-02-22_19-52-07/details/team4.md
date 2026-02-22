@@ -117,8 +117,8 @@
 | 109 | 440 | Lori Walker |
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
-| 112 | 427 | Jolly Dashfit |
-| 113 | 427 | KJ Pool |
+| 112 | 427 | KJ Pool |
+| 113 | 427 | Jolly Dashfit |
 | 114 | 426 | Ren Mc |
 | 115 | 422 | shar |
 | 116 | 415 | Monica Daley |
@@ -167,9 +167,9 @@
 | 159 | 292 | Cursed Hag |
 | 160 | 292 | Rafael Valentin |
 | 161 | 291 | shark tato |
-| 162 | 290 | 🥔🥔 Spudz |
+| 162 | 290 | Damn Libra |
 | 163 | 290 | Keshia Lyons |
-| 164 | 290 | Damn Libra |
+| 164 | 290 | 🥔🥔 Spudz |
 | 165 | 290 | Chaz Duncan |
 | 166 | 288 | Andria Lynn |
 | 167 | 288 | Leah Kutz Zirbel |
@@ -211,8 +211,8 @@
 | 203 | 244 | Twisty Cascadezone |
 | 204 | 243 | Jose Dejesus |
 | 205 | 243 | Mr. Party |
-| 206 | 241 | Allen Lloyd |
-| 207 | 241 | Kristina Black |
+| 206 | 241 | Kristina Black |
+| 207 | 241 | Allen Lloyd |
 | 208 | 240 | Zethra Prenisha Rahming |
 | 209 | 238 | JPW |
 | 210 | 237 | Jen Caldwell |

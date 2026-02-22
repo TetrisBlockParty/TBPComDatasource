@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Shavette |
-| 115 | 625 | Amber Hughes |
+| 114 | 625 | Amber Hughes |
+| 115 | 625 | Shavette |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Kristie |
 | 118 | 618 | Bea Miles |
@@ -186,8 +186,8 @@
 | 178 | 430 | Jeni Dow |
 | 179 | 428 | Araceli Parra |
 | 180 | 427 | Wendy Dearden |
-| 181 | 419 | Annie Déè |
-| 182 | 419 | Rochelle Hazelett |
+| 181 | 419 | Rochelle Hazelett |
+| 182 | 419 | Annie Déè |
 | 183 | 417 | Edwin Calvillo Jr. |
 | 184 | 416 | Staci George Fitzsimmons |
 | 185 | 416 | Shunta Jacobs |
@@ -208,11 +208,11 @@
 | 200 | 382 | Scott Carleton |
 | 201 | 379 | Melissa Orth Hunter |
 | 202 | 378 | Chris Bell |
-| 203 | 377 | rosy |
-| 204 | 377 | Darlene McMillan |
+| 203 | 377 | Darlene McMillan |
+| 204 | 377 | rosy |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Giddy Twistbuilder |
-| 207 | 372 | Tom Nault |
+| 206 | 372 | Tom Nault |
+| 207 | 372 | Giddy Twistbuilder |
 | 208 | 370 | Santeria Trece Candles |
 | 209 | 369 | Sarah Moyer |
 | 210 | 368 | Stephanie Woods |
@@ -229,8 +229,8 @@
 | 221 | 350 | Kammy Hill |
 | 222 | 349 | Amanda J. Mcneil-Anderson |
 | 223 | 348 | Kristal C Lee |
-| 224 | 347 | Trisha Balmer |
-| 225 | 347 | Philip Rock |
+| 224 | 347 | Philip Rock |
+| 225 | 347 | Trisha Balmer |
 | 226 | 346 | Tamara Deherrera |
 | 227 | 345 | Keis |
 | 228 | 344 | Rania Zaqout |
@@ -269,9 +269,9 @@
 | 261 | 296 | Hoppy Buildout |
 | 262 | 296 | Katrina Turner |
 | 263 | 291 | Carrie Huskey |
-| 264 | 289 | Duane Bright |
-| 265 | 289 | Danielle Weikel |
-| 266 | 289 | DidIdothat |
+| 264 | 289 | Danielle Weikel |
+| 265 | 289 | DidIdothat |
+| 266 | 289 | Duane Bright |
 | 267 | 286 | Tye Stovall |
 | 268 | 286 | Terry Jo Jones |
 | 269 | 286 | Christian Werndl |
@@ -391,8 +391,8 @@
 | 383 | 203 | DanceLuvLaugh |
 | 384 | 203 | Angella Lyons |
 | 385 | 203 | Loopy Fallzone |
-| 386 | 202 | Tipsy Zonebuilder |
-| 387 | 202 | Melanie Sherwood |
+| 386 | 202 | Melanie Sherwood |
+| 387 | 202 | Tipsy Zonebuilder |
 | 388 | 201 | Hyper Matchzone |
 | 389 | 200 | glichmod |
 | 390 | 200 | Colleen Phelps |
