@@ -95,8 +95,8 @@
 | 87 | 539 | Chris Baggett |
 | 88 | 531 | Amelpss |
 | 89 | 531 | Dawn Alexander |
-| 90 | 513 | Erin Thomas |
-| 91 | 513 | YoMomma |
+| 90 | 513 | YoMomma |
+| 91 | 513 | Erin Thomas |
 | 92 | 512 | Casey Jeffcoat |
 | 93 | 507 | Denise Carlson |
 | 94 | 505 | Diana Houts |
@@ -140,15 +140,15 @@
 | 132 | 338 | ThaEviLJeNiuZ |
 | 133 | 336 | Austin Owens |
 | 134 | 336 | Jessica Bohlken |
-| 135 | 332 | Desi Desporte |
-| 136 | 332 | HastyGrabber |
+| 135 | 332 | HastyGrabber |
+| 136 | 332 | Desi Desporte |
 | 137 | 330 | David Lay |
 | 138 | 328 | Leslie Nicole |
 | 139 | 328 | Kris Bartlett |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Klo |
-| 143 | 321 | Trista Leah |
+| 142 | 321 | Trista Leah |
+| 143 | 321 | Klo |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 316 | Meagan Nicole |
@@ -159,15 +159,15 @@
 | 151 | 300 | Jason Hart |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
-| 159 | 290 | Keshia Lyons |
-| 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Chaz Duncan |
-| 162 | 290 | Damn Libra |
+| 159 | 290 | 🥔🥔 Spudz |
+| 160 | 290 | Keshia Lyons |
+| 161 | 290 | Damn Libra |
+| 162 | 290 | Chaz Duncan |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -200,8 +200,8 @@
 | 192 | 247 | Dennis Bradley |
 | 193 | 247 | jim |
 | 194 | 246 | Carlos Ramirez |
-| 195 | 245 | Autum Leigh |
-| 196 | 245 | 23 |
+| 195 | 245 | 23 |
+| 196 | 245 | Autum Leigh |
 | 197 | 245 | Andria Lynn |
 | 198 | 244 | Twisty Cascadezone |
 | 199 | 244 | Lindsey Gonzalez |

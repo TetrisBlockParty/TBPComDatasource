@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -274,8 +274,8 @@
 | 266 | 867 | Peppy Zone |
 | 267 | 865 | Kristin Gower |
 | 268 | 862 | Brittany Radaszewski |
-| 269 | 860 | April Dawn Gussler |
-| 270 | 860 | Sheniya Spurgeon |
+| 269 | 860 | Sheniya Spurgeon |
+| 270 | 860 | April Dawn Gussler |
 | 271 | 860 | William Hunt |
 | 272 | 857 | Kara Gillen |
 | 273 | 855 | F-X |
@@ -340,8 +340,8 @@
 | 332 | 733 | Brenda Utphall |
 | 333 | 729 | Stephanie Lumanlan |
 | 334 | 729 | Aimee Campbell |
-| 335 | 727 | Tom Riefer |
-| 336 | 727 | Mandi Douglas Hilt |
+| 335 | 727 | Mandi Douglas Hilt |
+| 336 | 727 | Tom Riefer |
 | 337 | 724 | Deborah Miller |
 | 338 | 723 | Dylan Thomason |
 | 339 | 720 | Charvi' Carter |
@@ -457,8 +457,8 @@
 | 449 | 558 | Libby Hicks |
 | 450 | 556 | Slip |
 | 451 | 554 | Rachael Senard |
-| 452 | 554 | Tra Barnum |
-| 453 | 554 | Laquetta Royston |
+| 452 | 554 | Laquetta Royston |
+| 453 | 554 | Tra Barnum |
 | 454 | 551 | Sparkles |
 | 455 | 551 | Cynthia Louann Rose |
 | 456 | 550 | Michael Artis |

@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -172,16 +172,16 @@
 | 164 | 284 | Rachael |
 | 165 | 284 | Emily Adelaide Wheatley |
 | 166 | 283 | Franswa |
-| 167 | 282 | Cool Shiftsnap |
-| 168 | 282 | Sassy Builderline |
-| 169 | 282 | Snippy Wipebuilder |
+| 167 | 282 | Snippy Wipebuilder |
+| 168 | 282 | Cool Shiftsnap |
+| 169 | 282 | Tyler Werts |
 | 170 | 282 | Timothy Dew |
-| 171 | 282 | Tyler Werts |
+| 171 | 282 | Sassy Builderline |
 | 172 | 276 | Damon J. Martin |
 | 173 | 274 | Angela Renea Lester |
 | 174 | 273 | Shannon Marie Pitts |
-| 175 | 272 | Sleepysloath5745 |
-| 176 | 272 | Tana |
+| 175 | 272 | Tana |
+| 176 | 272 | Sleepysloath5745 |
 | 177 | 270 | Mandyy Rae |
 | 178 | 268 | Jessi Sauer |
 | 179 | 268 | Christy Jones |
