@@ -85,8 +85,8 @@
 | 77 | 649 | MissTaylor |
 | 78 | 628 | Tiff Vs Tiffany |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |
@@ -183,12 +183,12 @@
 | 175 | 317 | Ashley Tookes |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
-| 178 | 308 | Daryn Elliott |
-| 179 | 308 | Rania Zaqout |
+| 178 | 308 | Rania Zaqout |
+| 179 | 308 | Daryn Elliott |
 | 180 | 307 | rnr junky |
 | 181 | 307 | Blocked |
-| 182 | 301 | Chelsea Hall |
-| 183 | 301 | Stephanie Burtin |
+| 182 | 301 | Stephanie Burtin |
+| 183 | 301 | Chelsea Hall |
 | 184 | 300 | Sherika C. McDaniels |
 | 185 | 300 | Araceli Parra |
 | 186 | 298 | MsBee |
@@ -238,8 +238,8 @@
 | 230 | 249 | JerseyJess |
 | 231 | 249 | Annie Marie |
 | 232 | 246 | Eon Harris |
-| 233 | 246 | Rochelle Hazelett |
-| 234 | 246 | Peppy Shifter |
+| 233 | 246 | Peppy Shifter |
+| 234 | 246 | Rochelle Hazelett |
 | 235 | 245 | Latoya Mayne |
 | 236 | 240 | Jimmie Clemons |
 | 237 | 236 | Jess Bissett |

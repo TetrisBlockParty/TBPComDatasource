@@ -157,8 +157,8 @@
 | 149 | 220 | Matt Dell'Olio |
 | 150 | 218 | Casey Grabner |
 | 151 | 217 | Chaz Duncan |
-| 152 | 215 | Ren Mc |
-| 153 | 215 | Jessica Bohlken |
+| 152 | 215 | Jessica Bohlken |
+| 153 | 215 | Ren Mc |
 | 154 | 213 | Sarah Neathery |
 | 155 | 213 | Jason Allen |
 | 156 | 212 | Calvin Cannon |

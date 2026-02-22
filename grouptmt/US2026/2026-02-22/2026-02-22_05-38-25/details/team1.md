@@ -112,8 +112,8 @@
 | 104 | 310 | Seth Wesson |
 | 105 | 310 | Jason Jones |
 | 106 | 306 | Happy Basegrid |
-| 107 | 304 | Nicole Roseberry Weber |
-| 108 | 304 | phrmblk24 |
+| 107 | 304 | phrmblk24 |
+| 108 | 304 | Nicole Roseberry Weber |
 | 109 | 301 | Lehrin Maria |
 | 110 | 294 | Theo Pinnow |
 | 111 | 292 | Kristen Gideon |
@@ -131,8 +131,8 @@
 | 123 | 278 | Rachael |
 | 124 | 276 | Dandy Basegrid |
 | 125 | 265 | SkipTheSadSauce |
-| 126 | 264 | Lexuriuos Lifestlye |
-| 127 | 264 | Jenny Gingrich Fuentes |
+| 126 | 264 | Jenny Gingrich Fuentes |
+| 127 | 264 | Lexuriuos Lifestlye |
 | 128 | 263 | Sharon Reynolds |
 | 129 | 257 | Amanda Jarnagin |
 | 130 | 256 | David Miller |
@@ -141,8 +141,8 @@
 | 133 | 249 | Kimmie Kimms |
 | 134 | 248 | Lori Bales |
 | 135 | 247 | Tana |
-| 136 | 243 | Trippy Redd |
-| 137 | 243 | Chelsea Dahlquist |
+| 136 | 243 | Chelsea Dahlquist |
+| 137 | 243 | Trippy Redd |
 | 138 | 241 | John J. Cronin |
 | 139 | 239 | lil mickey |
 | 140 | 236 | Mandyy Rae |
