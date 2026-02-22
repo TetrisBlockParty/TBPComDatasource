@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | Marie-Pier Desjardins |
-| 71 | 376 | quicksand420 |
+| 70 | 376 | quicksand420 |
+| 71 | 376 | Marie-Pier Desjardins |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |

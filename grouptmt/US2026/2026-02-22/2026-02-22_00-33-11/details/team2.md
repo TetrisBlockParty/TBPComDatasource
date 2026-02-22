@@ -407,8 +407,8 @@
 | 399 | 386 | Irene Jones |
 | 400 | 384 | Mike Aprilliano |
 | 401 | 383 | Arkei Luster |
-| 402 | 382 | David Holliday |
-| 403 | 382 | KhaosLord |
+| 402 | 382 | KhaosLord |
+| 403 | 382 | David Holliday |
 | 404 | 382 | Alexandra Weir |
 | 405 | 381 | Melissa Rebbe-Lehman |
 | 406 | 381 | Kristin Gower |
@@ -508,8 +508,8 @@
 | 500 | 314 | Party d |
 | 501 | 313 | Natasha Edmonds |
 | 502 | 312 | Michelle Pike |
-| 503 | 312 | Justin Hines |
-| 504 | 312 | Andrea Maher |
+| 503 | 312 | Andrea Maher |
+| 504 | 312 | Justin Hines |
 | 505 | 311 | Kitybox |
 | 506 | 311 | Mary Marie |
 | 507 | 310 | Cheeky Brickmatch |

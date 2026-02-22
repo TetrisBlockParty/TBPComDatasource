@@ -28,8 +28,8 @@
 | 20 | 1554 | Ashley Kiara |
 | 21 | 1489 | Peggi Charon |
 | 22 | 1474 | Jennie Beranek |
-| 23 | 1470 | Shandrea Crawford |
-| 24 | 1470 | Zippy Strikesnap |
+| 23 | 1470 | Zippy Strikesnap |
+| 24 | 1470 | Shandrea Crawford |
 | 25 | 1460 | Briarblack |
 | 26 | 1402 | cowboy25469 |
 | 27 | 1366 | Chummy Shatterer |
@@ -69,8 +69,8 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |

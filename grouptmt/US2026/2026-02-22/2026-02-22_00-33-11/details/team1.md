@@ -117,8 +117,8 @@
 | 109 | 249 | Elaine Elaine |
 | 110 | 248 | Jason Jones |
 | 111 | 244 | Franswa |
-| 112 | 243 | Chelsea Dahlquist |
-| 113 | 243 | Trippy Redd |
+| 112 | 243 | Trippy Redd |
+| 113 | 243 | Chelsea Dahlquist |
 | 114 | 240 | Tana |
 | 115 | 238 | John J. Cronin |
 | 116 | 236 | Mandyy Rae |
@@ -135,8 +135,8 @@
 | 127 | 207 | Leslie Bush Yarbrough |
 | 128 | 204 | Ananda Mendez |
 | 129 | 203 | Giggly Builderline |
-| 130 | 203 | Paula Martin |
-| 131 | 203 | GATOR |
+| 130 | 203 | GATOR |
+| 131 | 203 | Paula Martin |
 | 132 | 199 | Jennifer Hardman |
 | 133 | 198 | Happy Snapbuild |
 | 134 | 195 | Daring Fitclear |
@@ -147,8 +147,8 @@
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Thorne Shumate |
-| 143 | 190 | Sweetts |
+| 142 | 190 | Sweetts |
+| 143 | 190 | Thorne Shumate |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Katie Daniels |
@@ -311,7 +311,7 @@
 | 303 | 91 | Beazel75 |
 | 304 | 91 | George Dalton |
 | 305 | 90 | Nick R Montague |
-| 306 | 90 | Jam |
+| 306 | 90 | Grace Joanne Agnant |
 | 307 | 90 | Matt Cinelli |
 | 308 | 90 | Jam |
 | 309 | 89 | Isodor |
