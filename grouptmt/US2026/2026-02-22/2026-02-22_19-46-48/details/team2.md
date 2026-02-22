@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -238,9 +238,9 @@
 | 230 | 972 | Juliana Marques Do Nascimento Gordy |
 | 231 | 972 | Della Hole |
 | 232 | 965 | Maria Escobar |
-| 233 | 957 | Keri Womack |
-| 234 | 957 | Block Master |
-| 235 | 957 | Crystal Hoffman |
+| 233 | 957 | Crystal Hoffman |
+| 234 | 957 | Keri Womack |
+| 235 | 957 | Block Master |
 | 236 | 955 | Angela Bonquiqui Dinish |
 | 237 | 951 | Cynthia Ward |
 | 238 | 944 | Kimberly Hauck-Rausch |
@@ -318,8 +318,8 @@
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Ashley Lopez |
-| 314 | 767 | Fancy Twister |
+| 313 | 767 | Fancy Twister |
+| 314 | 767 | Ashley Lopez |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |

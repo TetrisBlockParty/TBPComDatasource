@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -428,8 +428,8 @@
 | 420 | 182 | gremicx |
 | 421 | 182 | Joy Petroski |
 | 422 | 181 | Fancy Curver |
-| 423 | 180 | Sarah Whalen |
-| 424 | 180 | Ava Petito |
+| 423 | 180 | Ava Petito |
+| 424 | 180 | Sarah Whalen |
 | 425 | 180 | Beth Ingham |
 | 426 | 179 | Betty Bóò |
 | 427 | 179 | Skinny Baldez |

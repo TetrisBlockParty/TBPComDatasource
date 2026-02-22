@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -217,12 +217,12 @@
 | 209 | 239 | Lacy Wolfe |
 | 210 | 238 | Tiffany Smith |
 | 211 | 236 | Matt Iaccheo |
-| 212 | 235 | Desiree Deschaine Havee |
-| 213 | 235 | MRdot Rooski |
+| 212 | 235 | MRdot Rooski |
+| 213 | 235 | Desiree Deschaine Havee |
 | 214 | 234 | Paula Martin |
 | 215 | 233 | LC |
-| 216 | 231 | Tyler Hertzog |
-| 217 | 231 | Sarah Somers Gray |
+| 216 | 231 | Sarah Somers Gray |
+| 217 | 231 | Tyler Hertzog |
 | 218 | 230 | BigWeenie69 |
 | 219 | 228 | Giddy Cascade |
 | 220 | 228 | Cheeky Pop |

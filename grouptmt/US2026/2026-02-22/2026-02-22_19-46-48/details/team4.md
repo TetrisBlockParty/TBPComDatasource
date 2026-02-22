@@ -183,8 +183,8 @@
 | 175 | 269 | Nikki Rae Gordon |
 | 176 | 268 | Mimi |
 | 177 | 267 | Casey Grabner |
-| 178 | 267 | Holly |
-| 179 | 267 | Kathy Brookins |
+| 178 | 267 | Kathy Brookins |
+| 179 | 267 | Holly |
 | 180 | 266 | Laura |
 | 181 | 265 | Chris Bernstein |
 | 182 | 264 | Girl |
@@ -887,7 +887,7 @@
 | 879 | 51 | Chilly Matchpiece |
 | 880 | 50 | Takeshia Knowles |
 | 881 | 50 | Aroura |
-| 882 | 50 | Takeshia Knowles |
+| 882 | 50 | Ashley Lynn Shannon |
 | 883 | 50 | Jesse Jamez Crater |
 | 884 | 50 | RonRico Thomas |
 | 885 | 50 | Gerald Anderson |
