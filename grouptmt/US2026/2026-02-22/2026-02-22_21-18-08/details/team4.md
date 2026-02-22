@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Savannah Overdorf |
@@ -303,8 +303,8 @@
 | 295 | 169 | Dante Korleon |
 | 296 | 169 | Jessica Atkinson |
 | 297 | 169 | Ellen Durfee |
-| 298 | 168 | Kathy Allen |
-| 299 | 168 | Zippy Tilt |
+| 298 | 168 | Zippy Tilt |
+| 299 | 168 | Kathy Allen |
 | 300 | 167 | Jim Hart |
 | 301 | 166 | Megan Cutshaw |
 | 302 | 166 | KimoKoala |

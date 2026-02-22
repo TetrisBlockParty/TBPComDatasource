@@ -238,8 +238,8 @@
 | 230 | 230 | BigWeenie69 |
 | 231 | 230 | Diane Byrd |
 | 232 | 229 | Standia Civil |
-| 233 | 228 | Shiny Gridmatch |
-| 234 | 228 | Giddy Cascade |
+| 233 | 228 | Giddy Cascade |
+| 234 | 228 | Shiny Gridmatch |
 | 235 | 226 | Michael |
 | 236 | 225 | Jessie Lynn |
 | 237 | 224 | ParisandCory Champagne |
@@ -303,8 +303,8 @@
 | 295 | 191 | Sarah Marie |
 | 296 | 190 | Sweetts |
 | 297 | 189 | Katie Martin |
-| 298 | 189 | Tawnya Peltonen |
-| 299 | 189 | Bird Person |
+| 298 | 189 | Bird Person |
+| 299 | 189 | Tawnya Peltonen |
 | 300 | 188 | Brave Wrecker |
 | 301 | 187 | GringaLinga |
 | 302 | 187 | Speedy Snapfall |
@@ -318,12 +318,12 @@
 | 310 | 182 | Oscar Zamora |
 | 311 | 181 | David DeSantis |
 | 312 | 180 | Nikki Fridley |
-| 313 | 179 | Slinky Rotater |
-| 314 | 179 | Ryan White |
-| 315 | 178 | Larry Tilton |
-| 316 | 178 | Gabrielle Louise Malloch |
-| 317 | 177 | Irual Hctrab |
-| 318 | 177 | Jessica Russell |
+| 313 | 179 | Ryan White |
+| 314 | 179 | Slinky Rotater |
+| 315 | 178 | Gabrielle Louise Malloch |
+| 316 | 178 | Larry Tilton |
+| 317 | 177 | Jessica Russell |
+| 318 | 177 | Irual Hctrab |
 | 319 | 177 | Jacqueline Unique |
 | 320 | 176 | Vivienne Carter |
 | 321 | 176 | Reesey Enyart |

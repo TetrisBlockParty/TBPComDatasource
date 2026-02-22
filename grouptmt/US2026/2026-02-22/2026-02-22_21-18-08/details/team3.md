@@ -125,8 +125,8 @@
 | 117 | 625 | Amber Hughes |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Giddy Drop |
-| 121 | 595 | Patricia White |
+| 120 | 595 | Patricia White |
+| 121 | 595 | Giddy Drop |
 | 122 | 593 | JerseyJess |
 | 123 | 585 | opf |
 | 124 | 583 | Karon Griffin |
@@ -188,8 +188,8 @@
 | 180 | 432 | Luciana Braganca Vieira |
 | 181 | 432 | Jenny Hrndz |
 | 182 | 431 | Sarah Cowan Burgos |
-| 183 | 430 | Jeni Dow |
-| 184 | 430 | Joye Sims Binion |
+| 183 | 430 | Joye Sims Binion |
+| 184 | 430 | Jeni Dow |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
 | 187 | 422 | Fallorina Susana |
@@ -214,8 +214,8 @@
 | 206 | 378 | Chris Bell |
 | 207 | 377 | Darlene McMillan |
 | 208 | 376 | Loopy Clusterer |
-| 209 | 372 | Giddy Twistbuilder |
-| 210 | 372 | Rich LeBlanc |
+| 209 | 372 | Rich LeBlanc |
+| 210 | 372 | Giddy Twistbuilder |
 | 211 | 369 | Sarah Moyer |
 | 212 | 368 | Stephanie Woods |
 | 213 | 367 | Loopy Fallmatch |
@@ -261,13 +261,13 @@
 | 253 | 312 | Charles Perrone |
 | 254 | 309 | Felicia Rocha |
 | 255 | 308 | Cynthia Herrmann Egland |
-| 256 | 307 | Blocked |
-| 257 | 307 | rnr junky |
+| 256 | 307 | rnr junky |
+| 257 | 307 | Blocked |
 | 258 | 304 | Marquita Sheard |
 | 259 | 302 | Gray Hicks |
 | 260 | 301 | Betty Rosas |
-| 261 | 299 | Ray Lader |
-| 262 | 299 | Angie Harper |
+| 261 | 299 | Angie Harper |
+| 262 | 299 | Ray Lader |
 | 263 | 298 | MsBee |
 | 264 | 298 | Grams |
 | 265 | 297 | Jojo M |
