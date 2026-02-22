@@ -139,8 +139,8 @@
 | 131 | 1450 | Cody Smith-Candelaria |
 | 132 | 1425 | Katrina Williams Balmir |
 | 133 | 1418 | L3sli3 |
-| 134 | 1411 | Zappy Cascade |
-| 135 | 1411 | niecy |
+| 134 | 1411 | niecy |
+| 135 | 1411 | Zappy Cascade |
 | 136 | 1401 | Brandy Andre |
 | 137 | 1390 | Erica Williams |
 | 138 | 1383 | Ladyrainbootz |
@@ -876,8 +876,8 @@
 | 868 | 313 | Natasha Edmonds |
 | 869 | 313 | N00D3S |
 | 870 | 312 | Heather Renee Jeffers |
-| 871 | 311 | SwifftFox |
-| 872 | 311 | Audra Williams |
+| 871 | 311 | Audra Williams |
+| 872 | 311 | SwifftFox |
 | 873 | 311 | Megan Phillips |
 | 874 | 311 | Nat |
 | 875 | 310 | Cozy Drop |
@@ -885,8 +885,8 @@
 | 877 | 310 | Cheeky Brickmatch |
 | 878 | 310 | Wendy Ducheney |
 | 879 | 309 | Byung Bae Park |
-| 880 | 308 | Justin Edwards |
-| 881 | 308 | Katie Joy McCombs |
+| 880 | 308 | Katie Joy McCombs |
+| 881 | 308 | Justin Edwards |
 | 882 | 308 | Hyper Riseclear |
 | 883 | 307 | Ethan Stienbarger |
 | 884 | 305 | Sandra Link-Gable |
@@ -2404,7 +2404,7 @@
 | 2396 | 125 | Stephanie Pitts |
 | 2397 | 125 | Tiffany Banks Jennings |
 | 2398 | 125 | Ilse Chaparro |
-| 2399 | 125 | Amanda Hyser |
+| 2399 | 125 | La Diorr |
 | 2400 | 125 | Diana Garces |
 | 2401 | 125 | Amanda Hyser |
 | 2402 | 125 | leo |

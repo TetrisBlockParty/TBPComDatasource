@@ -234,8 +234,8 @@
 | 226 | 225 | Bindi |
 | 227 | 225 | Jessie Lynn |
 | 228 | 224 | ParisandCory Champagne |
-| 229 | 223 | Erez Yosef |
-| 230 | 223 | Christina Backer |
+| 229 | 223 | Christina Backer |
+| 230 | 223 | Erez Yosef |
 | 231 | 222 | Debbie Davis |
 | 232 | 221 | Daring Fitclear |
 | 233 | 221 | Amy Hess |
@@ -1689,38 +1689,38 @@
 | 1681 | 7 | BearMan01 |
 | 1682 | 7 | Loopy Framezone |
 | 1683 | 7 | Comar Logans |
-| 1684 | 7 | Chema plays |
-| 1685 | 7 | Jayne Zitek |
+| 1684 | 7 | Jayne Zitek |
+| 1685 | 7 | Chema plays |
 | 1686 | 7 | Seapea |
-| 1687 | 6 | Clever Pivotfall |
-| 1688 | 6 | Shelly Palmer |
-| 1689 | 6 | Cory Ford |
-| 1690 | 6 | Terry Leon Osborne Jr. |
-| 1691 | 6 | Scott Reynolds |
-| 1692 | 6 | Marcellus Royal |
-| 1693 | 6 | Jack Shafer |
-| 1694 | 6 | Manifold |
-| 1695 | 6 | Jaime Sunshine |
+| 1687 | 6 | Manifold |
+| 1688 | 6 | Cory Ford |
+| 1689 | 6 | Terry Leon Osborne Jr. |
+| 1690 | 6 | Fatty Davis |
+| 1691 | 6 | Marcellus Royal |
+| 1692 | 6 | Jack Shafer |
+| 1693 | 6 | ~Tintta~ |
+| 1694 | 6 | Jaime Sunshine |
+| 1695 | 6 | Scott Reynolds |
 | 1696 | 6 | Lee Corum |
-| 1697 | 6 | Dreamy Linkblock |
+| 1697 | 6 | Ryan Douglas Mitchell |
 | 1698 | 6 | Linda Nys |
 | 1699 | 6 | Blanca Perez |
 | 1700 | 6 | Brian K Young II |
-| 1701 | 6 | Vicky Meanor |
-| 1702 | 6 | Mighty Patternline |
-| 1703 | 6 | Fatty Davis |
-| 1704 | 6 | Ryan Douglas Mitchell |
+| 1701 | 6 | Shelly Palmer |
+| 1702 | 6 | Vicky Meanor |
+| 1703 | 6 | Mighty Patternline |
+| 1704 | 6 | Clever Pivotfall |
 | 1705 | 6 | Zesty Brickclear |
-| 1706 | 6 | ~Tintta~ |
-| 1707 | 5 | Daring Patternbuilder |
+| 1706 | 6 | Dreamy Linkblock |
+| 1707 | 5 | Blusie |
 | 1708 | 5 | Lush Risebuilder |
-| 1709 | 5 | BlockKnocker |
-| 1710 | 5 | Kimberly Berry |
-| 1711 | 5 | Michelle Arteaga-Avila |
-| 1712 | 5 | FFincher88 |
-| 1713 | 5 | Blusie |
-| 1714 | 5 | ColombianNuttz |
-| 1715 | 5 | Jeremy Thomson |
+| 1709 | 5 | Michelle Arteaga-Avila |
+| 1710 | 5 | BlockKnocker |
+| 1711 | 5 | FFincher88 |
+| 1712 | 5 | Daring Patternbuilder |
+| 1713 | 5 | ColombianNuttz |
+| 1714 | 5 | Kimberly Berry |
+| 1715 | 5 | Bold Patternfit |
 | 1716 | 5 | Kimberly Meijers |
 | 1717 | 5 | Mary Logan |
 | 1718 | 5 | Kimberly Ranae Lanus-Saice |
@@ -1732,7 +1732,7 @@
 | 1724 | 5 | Star Hood |
 | 1725 | 5 | Mike Broughton |
 | 1726 | 5 | Giggy Striker |
-| 1727 | 5 | Bold Patternfit |
+| 1727 | 5 | Jeremy Thomson |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -119,8 +119,8 @@
 | 111 | 640 | Chelsea Hall |
 | 112 | 638 | Jesse Olive |
 | 113 | 630 | yoyo |
-| 114 | 625 | Shavette |
-| 115 | 625 | Amber Hughes |
+| 114 | 625 | Amber Hughes |
+| 115 | 625 | Shavette |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Bea Miles |
 | 118 | 618 | Kristie |

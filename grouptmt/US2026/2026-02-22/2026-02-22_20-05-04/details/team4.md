@@ -118,8 +118,8 @@
 | 110 | 435 | Leslie Thomas |
 | 111 | 431 | Zippy Gridlock |
 | 112 | 429 | Christina LR |
-| 113 | 427 | Jolly Dashfit |
-| 114 | 427 | KJ Pool |
+| 113 | 427 | KJ Pool |
+| 114 | 427 | Jolly Dashfit |
 | 115 | 426 | Ren Mc |
 | 116 | 422 | shar |
 | 117 | 418 | Dizzy Tiley |
@@ -150,8 +150,8 @@
 | 142 | 332 | HastyGrabber |
 | 143 | 332 | Desi Desporte |
 | 144 | 330 | David Lay |
-| 145 | 328 | Kris Bartlett |
-| 146 | 328 | Leslie Nicole |
+| 145 | 328 | Leslie Nicole |
+| 146 | 328 | Kris Bartlett |
 | 147 | 325 | Peachy Fall |
 | 148 | 323 | Daria Rycewicz |
 | 149 | 321 | Klo |
@@ -288,10 +288,10 @@
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
-| 283 | 174 | BigSammy420 |
-| 284 | 174 | Shane Vick |
-| 285 | 171 | Autumn Kumzi |
-| 286 | 171 | June Hoffman |
+| 283 | 174 | Shane Vick |
+| 284 | 174 | BigSammy420 |
+| 285 | 171 | June Hoffman |
+| 286 | 171 | Autumn Kumzi |
 | 287 | 170 | Cynthia Boudreau |
 | 288 | 170 | Elie Pean |
 | 289 | 169 | Jessica Atkinson |
