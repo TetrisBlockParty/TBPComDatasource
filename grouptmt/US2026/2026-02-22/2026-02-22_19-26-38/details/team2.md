@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Ashley Rose Frederick |
-| 155 | 1282 | Tanya Parsons |
+| 154 | 1282 | Tanya Parsons |
+| 155 | 1282 | Ashley Rose Frederick |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Prado |
-| 189 | 1131 | Stacey Clement |
+| 188 | 1131 | Stacey Clement |
+| 189 | 1131 | Prado |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -247,8 +247,8 @@
 | 239 | 936 | Ashie Ann |
 | 240 | 923 | Cindy Sechler Taninecz |
 | 241 | 921 | Morgue Chick |
-| 242 | 919 | Isaac Trappiel IV |
-| 243 | 919 | Joshua Mandel |
+| 242 | 919 | Joshua Mandel |
+| 243 | 919 | Isaac Trappiel IV |
 | 244 | 916 | Butta |
 | 245 | 915 | Robin Kerby |
 | 246 | 915 | Kelly Trent |
@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -408,8 +408,8 @@
 | 400 | 627 | Victoria Moore-Smith |
 | 401 | 626 | Steven Marshaun |
 | 402 | 626 | Demeka Dangerous-kisses Johnson |
-| 403 | 620 | Traci Johnson |
-| 404 | 620 | Brandon Armstrong |
+| 403 | 620 | Brandon Armstrong |
+| 404 | 620 | Traci Johnson |
 | 405 | 619 | Melissa Penelope Ann Dodge |
 | 406 | 617 | Darcy Mae |
 | 407 | 617 | Nicole Cannon |
@@ -502,11 +502,11 @@
 | 494 | 516 | Diamond Scott |
 | 495 | 514 | Karen Posadas Centeno |
 | 496 | 512 | Leslie Jorgenson |
-| 497 | 511 | Adam Simmons |
-| 498 | 511 | Laura Mclean |
-| 499 | 509 | Jarboe |
-| 500 | 509 | Jordan Kaiser |
-| 501 | 509 | Kelli Wells |
+| 497 | 511 | Laura Mclean |
+| 498 | 511 | Adam Simmons |
+| 499 | 509 | Kelli Wells |
+| 500 | 509 | Jarboe |
+| 501 | 509 | Jordan Kaiser |
 | 502 | 507 | Kitybox |
 | 503 | 507 | Daniell Martinez |
 | 504 | 505 | Casey Schumacher |
@@ -672,8 +672,8 @@
 | 664 | 403 | Nate Skidmore |
 | 665 | 402 | B |
 | 666 | 401 | Beth Decker |
-| 667 | 400 | Tammy Allen |
-| 668 | 400 | Lathasa Newkirk |
+| 667 | 400 | Lathasa Newkirk |
+| 668 | 400 | Tammy Allen |
 | 669 | 399 | Court |
 | 670 | 398 | Witty Piecebuilder |
 | 671 | 398 | Angela Murgia-Owen |
@@ -1084,14 +1084,14 @@
 | 1076 | 259 | Mary Ahne |
 | 1077 | 258 | Jo Nicole |
 | 1078 | 258 | Mordoks Pyrography |
-| 1079 | 258 | DesertDreamer24 |
-| 1080 | 258 | Kara Tolbert |
+| 1079 | 258 | Kara Tolbert |
+| 1080 | 258 | DesertDreamer24 |
 | 1081 | 258 | Monarca26 |
 | 1082 | 258 | Scott |
 | 1083 | 258 | Tee Jaleesa |
 | 1084 | 257 | Charles E Mccardell |
-| 1085 | 257 | Jackie Jackie Lee |
-| 1086 | 257 | Ys Muhammed |
+| 1085 | 257 | Ys Muhammed |
+| 1086 | 257 | Jackie Jackie Lee |
 | 1087 | 256 | Regina Unruh |
 | 1088 | 256 | Gursharan Sandhu |
 | 1089 | 256 | Brenna Yearian |

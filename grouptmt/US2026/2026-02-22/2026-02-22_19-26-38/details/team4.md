@@ -133,8 +133,8 @@
 | 125 | 377 | Carrie Brian |
 | 126 | 373 | Joseph Guthrie |
 | 127 | 369 | Nope Young |
-| 128 | 353 | Livvy |
-| 129 | 353 | Tyler Terrific |
+| 128 | 353 | Tyler Terrific |
+| 129 | 353 | Livvy |
 | 130 | 344 | Lush Linkfall |
 | 131 | 343 | Latisha Davis |
 | 132 | 338 | ThaEviLJeNiuZ |
@@ -159,8 +159,8 @@
 | 151 | 307 | Bio Nelly |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -277,15 +277,15 @@
 | 269 | 184 | Lauren Lamb |
 | 270 | 183 | Twisty Risebuilder |
 | 271 | 182 | TinyLegoRose |
-| 272 | 181 | Jackie Marie |
-| 273 | 181 | Carter Jones |
+| 272 | 181 | Carter Jones |
+| 273 | 181 | Jackie Marie |
 | 274 | 180 | Cozy Balancer |
 | 275 | 179 | AyeKay |
 | 276 | 175 | Lorena Guerrero-Barron |
-| 277 | 174 | Shane Vick |
-| 278 | 174 | BigSammy420 |
-| 279 | 171 | Autumn Kumzi |
-| 280 | 171 | June Hoffman |
+| 277 | 174 | BigSammy420 |
+| 278 | 174 | Shane Vick |
+| 279 | 171 | June Hoffman |
+| 280 | 171 | Autumn Kumzi |
 | 281 | 170 | Cynthia Boudreau |
 | 282 | 170 | Elie Pean |
 | 283 | 170 | Angela Geist Jusinski |

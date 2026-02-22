@@ -141,8 +141,8 @@
 | 133 | 526 | Cynthia Castros-Hampton |
 | 134 | 525 | Justin Ritter |
 | 135 | 521 | Leah Barnett |
-| 136 | 521 | Michelle Becker |
-| 137 | 521 | Michael Nowogorski |
+| 136 | 521 | Michael Nowogorski |
+| 137 | 521 | Michelle Becker |
 | 138 | 518 | opf |
 | 139 | 516 | Elissa S-k |
 | 140 | 506 | Sashay Tapae Simpson |
@@ -157,8 +157,8 @@
 | 149 | 479 | Annie Marie |
 | 150 | 479 | Patti Skiles |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Mendoza Lee Christy |
-| 153 | 471 | Nora Rogers |
+| 152 | 471 | Nora Rogers |
+| 153 | 471 | Mendoza Lee Christy |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -240,8 +240,8 @@
 | 232 | 339 | Rania Zaqout |
 | 233 | 338 | Gumbo |
 | 234 | 337 | Melissa Orth Hunter |
-| 235 | 330 | Rebecca Funderburk Kirby |
-| 236 | 330 | victory |
+| 235 | 330 | victory |
+| 236 | 330 | Rebecca Funderburk Kirby |
 | 237 | 324 | Sissy Lowery Davis |
 | 238 | 323 | Demetrious Shaw Sr. |
 | 239 | 321 | Rebecca Bailey |

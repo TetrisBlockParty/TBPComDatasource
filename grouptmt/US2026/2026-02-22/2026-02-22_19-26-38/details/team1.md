@@ -54,8 +54,8 @@
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Lawrence Belanger |
-| 50 | 760 | Kristen Roles Robben |
+| 49 | 760 | Kristen Roles Robben |
+| 50 | 760 | Lawrence Belanger |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |
@@ -86,16 +86,16 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | Ryan Lunnin |
-| 82 | 483 | MomMom |
+| 81 | 483 | MomMom |
+| 82 | 483 | Ryan Lunnin |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -165,12 +165,12 @@
 | 157 | 303 | Chelsea Dahlquist |
 | 158 | 297 | Danielle Little-Daugherty |
 | 159 | 296 | Madison Wicks |
-| 160 | 293 | Sarah Roberts |
-| 161 | 293 | Letson Melissa |
+| 160 | 293 | Letson Melissa |
+| 161 | 293 | Sarah Roberts |
 | 162 | 292 | David Lutcher |
 | 163 | 285 | ALFD |
-| 164 | 284 | Rachael |
-| 165 | 284 | Emily Adelaide Wheatley |
+| 164 | 284 | Emily Adelaide Wheatley |
+| 165 | 284 | Rachael |
 | 166 | 283 | Franswa |
 | 167 | 282 | Tyler Werts |
 | 168 | 282 | Cool Shiftsnap |
@@ -265,8 +265,8 @@
 | 257 | 201 | Colleen Wise |
 | 258 | 201 | Beau Galvan |
 | 259 | 200 | Flashy Rotator |
-| 260 | 200 | Breanna Luna |
-| 261 | 200 | Diane Byrd |
+| 260 | 200 | Diane Byrd |
+| 261 | 200 | Breanna Luna |
 | 262 | 199 | Alenoush Karimian |
 | 263 | 198 | Melissa Lemmon |
 | 264 | 198 | Happy Snapbuild |
