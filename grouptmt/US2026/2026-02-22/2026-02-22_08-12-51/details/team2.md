@@ -385,8 +385,8 @@
 | 377 | 524 | Jojo Momma |
 | 378 | 524 | Shaun Church |
 | 379 | 523 | Matt Johnson |
-| 380 | 522 | Joseph Musick |
-| 381 | 522 | Lylymom |
+| 380 | 522 | Lylymom |
+| 381 | 522 | Joseph Musick |
 | 382 | 521 | Tj Ball |
 | 383 | 520 | Angela Lynn |
 | 384 | 520 | Maddy Petersen |
@@ -728,9 +728,9 @@
 | 720 | 304 | Melissa McCall |
 | 721 | 304 | James Smith |
 | 722 | 303 | Angie Marie |
-| 723 | 303 | Devin |
-| 724 | 303 | Amanda Schaffer |
-| 725 | 303 | Peachy Blockbuilder |
+| 723 | 303 | Amanda Schaffer |
+| 724 | 303 | Peachy Blockbuilder |
+| 725 | 303 | Devin |
 | 726 | 302 | Kena T. Tanner |
 | 727 | 302 | Maxwell Escalera |
 | 728 | 301 | Danielle Ayoub |

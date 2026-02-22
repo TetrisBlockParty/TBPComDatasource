@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Rachael McClain Owens |
-| 100 | 565 | Patty Allen |
+| 99 | 565 | Patty Allen |
+| 100 | 565 | Rachael McClain Owens |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -131,8 +131,8 @@
 | 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | mzcatzy |
-| 127 | 473 | CeceGeGe |
+| 126 | 473 | CeceGeGe |
+| 127 | 473 | mzcatzy |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -209,8 +209,8 @@
 | 201 | 300 | Sherika C. McDaniels |
 | 202 | 298 | MsBee |
 | 203 | 296 | Katrina Turner |
-| 204 | 296 | Brandon Givens |
-| 205 | 296 | Ammmmmmy |
+| 204 | 296 | Ammmmmmy |
+| 205 | 296 | Brandon Givens |
 | 206 | 295 | Marci Mize Fandrich |
 | 207 | 295 | RickyG |
 | 208 | 291 | Kristal C Lee |
@@ -285,8 +285,8 @@
 | 277 | 214 | Amy Fuller Heaton |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | El Chapa |
-| 281 | 211 | Velma Mull |
+| 280 | 211 | Velma Mull |
+| 281 | 211 | El Chapa |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
@@ -301,8 +301,8 @@
 | 293 | 202 | Staci George Fitzsimmons |
 | 294 | 201 | Hyper Matchzone |
 | 295 | 201 | Alexmac |
-| 296 | 200 | glichmod |
-| 297 | 200 | Sharisse Baltimore |
+| 296 | 200 | Sharisse Baltimore |
+| 297 | 200 | glichmod |
 | 298 | 200 | Saucy Buildout |
 | 299 | 198 | kacihall |
 | 300 | 195 | Nicha Hooker |
@@ -334,8 +334,8 @@
 | 326 | 174 | Betty Rosas |
 | 327 | 174 | Lesley Perez |
 | 328 | 173 | BŘŰŤİÇŨŚ |
-| 329 | 169 | Naur |
-| 330 | 169 | Peachy Rollfit |
+| 329 | 169 | Peachy Rollfit |
+| 330 | 169 | Naur |
 | 331 | 169 | Kristian Thurman |
 | 332 | 168 | April Matthew Kibble |
 | 333 | 168 | Trice Thomas |
