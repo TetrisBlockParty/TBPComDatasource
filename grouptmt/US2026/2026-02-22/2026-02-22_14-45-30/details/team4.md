@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |
@@ -408,7 +408,7 @@
 | 400 | 110 | JoAnna Zalkovsky |
 | 401 | 110 | Jennifer Dineen |
 | 402 | 110 | Thomas Hettenhaus |
-| 403 | 109 | Jumpy Zonepiece |
+| 403 | 109 | Chummy Towerzone |
 | 404 | 109 | Frank Cook |
 | 405 | 109 | Jessica Miller |
 | 406 | 109 | Jumpy Zonepiece |

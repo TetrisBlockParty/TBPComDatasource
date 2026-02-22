@@ -96,8 +96,8 @@
 | 88 | 400 | Cynthia Bradley |
 | 89 | 399 | Nerdy Linkblock |
 | 90 | 397 | Tdub |
-| 91 | 390 | Goose egg |
-| 92 | 390 | Candy Jones |
+| 91 | 390 | Candy Jones |
+| 92 | 390 | Goose egg |
 | 93 | 390 | Lori Bales |
 | 94 | 389 | Trina Gee |
 | 95 | 389 | Nery Martinez |
@@ -146,8 +146,8 @@
 | 138 | 290 | Sarah Roberts |
 | 139 | 289 | David Miller |
 | 140 | 285 | Ananda Mendez |
-| 141 | 284 | Rachael |
-| 142 | 284 | Emily Adelaide Wheatley |
+| 141 | 284 | Emily Adelaide Wheatley |
+| 142 | 284 | Rachael |
 | 143 | 283 | Franswa |
 | 144 | 282 | Cool Shiftsnap |
 | 145 | 282 | Timothy Dew |
@@ -170,20 +170,20 @@
 | 162 | 260 | Ty Brown |
 | 163 | 257 | Amanda Jarnagin |
 | 164 | 254 | Al Smith Jr |
-| 165 | 253 | Jamie Jury |
-| 166 | 253 | Witty Builderfit |
+| 165 | 253 | Witty Builderfit |
+| 166 | 253 | Jamie Jury |
 | 167 | 252 | Dena Kayy |
-| 168 | 246 | Mike Ames |
-| 169 | 246 | Lakeisha Chapman |
-| 170 | 244 | Marianita Garcia |
-| 171 | 244 | Eddie Dillon |
+| 168 | 246 | Lakeisha Chapman |
+| 169 | 246 | Mike Ames |
+| 170 | 244 | Eddie Dillon |
+| 171 | 244 | Marianita Garcia |
 | 172 | 243 | Trippy Redd |
 | 173 | 242 | ALFD |
 | 174 | 241 | John J. Cronin |
 | 175 | 239 | Sam Williams |
 | 176 | 237 | Kimberly Garcia |
-| 177 | 235 | MRdot Rooski |
-| 178 | 235 | Desiree Deschaine Havee |
+| 177 | 235 | Desiree Deschaine Havee |
+| 178 | 235 | MRdot Rooski |
 | 179 | 234 | Paula Martin |
 | 180 | 231 | Amanda Johnson Huffman |
 | 181 | 230 | Billie Dawn Sparks |
@@ -223,8 +223,8 @@
 | 215 | 200 | Flashy Rotator |
 | 216 | 200 | Breanna Luna |
 | 217 | 199 | Alenoush Karimian |
-| 218 | 198 | Happy Snapbuild |
-| 219 | 198 | Shiny Gridmatch |
+| 218 | 198 | Shiny Gridmatch |
+| 219 | 198 | Happy Snapbuild |
 | 220 | 197 | Melissa Lemmon |
 | 221 | 195 | Jennifer Olewnik Soborowski |
 | 222 | 195 | Madison Wicks |
@@ -303,8 +303,8 @@
 | 295 | 156 | Jessie |
 | 296 | 155 | Barry Mac'Ockner |
 | 297 | 154 | Gary Gobin |
-| 298 | 153 | Tami Luce Martin |
-| 299 | 153 | Dino |
+| 298 | 153 | Dino |
+| 299 | 153 | Tami Luce Martin |
 | 300 | 152 | Speedy Snapfall |
 | 301 | 152 | Strig |
 | 302 | 152 | Tavia |

@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 560 | Christine Filson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 551 | Kristie |
@@ -173,8 +173,8 @@
 | 165 | 399 | Marcie Bressler |
 | 166 | 397 | Annie Déè |
 | 167 | 393 | Fallorina Susana |
-| 168 | 391 | Sarah Cowan Burgos |
-| 169 | 391 | Calista Jo Dickson |
+| 168 | 391 | Calista Jo Dickson |
+| 169 | 391 | Sarah Cowan Burgos |
 | 170 | 390 | Hasty Cascadefit |
 | 171 | 389 | Jeni Dow |
 | 172 | 385 | Shunta Jacobs |
@@ -190,13 +190,13 @@
 | 182 | 370 | Danielle Allison |
 | 183 | 368 | Stephanie Woods |
 | 184 | 366 | Adrian Marcel Pate |
-| 185 | 362 | Darlene McMillan |
-| 186 | 362 | Rochelle Hazelett |
+| 185 | 362 | Rochelle Hazelett |
+| 186 | 362 | Darlene McMillan |
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Stephanie Burtin |
-| 191 | 357 | Tom Nault |
+| 190 | 357 | Tom Nault |
+| 191 | 357 | Stephanie Burtin |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -260,11 +260,11 @@
 | 252 | 269 | Loopy Fallmatch |
 | 253 | 267 | Tiffany Davie |
 | 254 | 262 | Joe-Maggie Mathews |
-| 255 | 261 | Tiffany Ford |
-| 256 | 261 | Tasha Wesson-Torrence |
+| 255 | 261 | Tasha Wesson-Torrence |
+| 256 | 261 | Tiffany Ford |
 | 257 | 261 | Marquita Sheard |
-| 258 | 260 | Grams |
-| 259 | 260 | Nikki Pags |
+| 258 | 260 | Nikki Pags |
+| 259 | 260 | Grams |
 | 260 | 259 | Danielle Weikel |
 | 261 | 257 | Ashley Jones |
 | 262 | 256 | KayB |
@@ -272,8 +272,8 @@
 | 264 | 253 | Connie Mohler-Fair |
 | 265 | 252 | Roary Danner |
 | 266 | 250 | fraulila |
-| 267 | 249 | Annie Marie |
-| 268 | 249 | Hasty Gridpiece |
+| 267 | 249 | Hasty Gridpiece |
+| 268 | 249 | Annie Marie |
 | 269 | 246 | Peppy Shifter |
 | 270 | 245 | Latoya Mayne |
 | 271 | 244 | LaNette Morgan |

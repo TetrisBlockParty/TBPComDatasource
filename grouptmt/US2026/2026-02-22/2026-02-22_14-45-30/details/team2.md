@@ -262,8 +262,8 @@
 | 254 | 808 | Wakanda Forever |
 | 255 | 807 | Khalil Lowe |
 | 256 | 803 | Barbra Miller |
-| 257 | 801 | Ashlen Dorrell |
-| 258 | 801 | Debra Williams |
+| 257 | 801 | Debra Williams |
+| 258 | 801 | Ashlen Dorrell |
 | 259 | 800 | Danielle Johnson-Chandler |
 | 260 | 792 | Andrea Maher |
 | 261 | 787 | Laura McCarthey |
@@ -381,8 +381,8 @@
 | 373 | 589 | Shavonna Haynes |
 | 374 | 589 | Thomas Hedrick |
 | 375 | 586 | Heather Schelkopf |
-| 376 | 584 | Kimberly Randesi |
-| 377 | 584 | Eckoman518 |
+| 376 | 584 | Eckoman518 |
+| 377 | 584 | Kimberly Randesi |
 | 378 | 584 | Ginnell Browner |
 | 379 | 583 | Jackie Avila |
 | 380 | 581 | Jerry Tempelmeyer |
@@ -474,8 +474,8 @@
 | 466 | 492 | Maya June |
 | 467 | 492 | Armonie Smith |
 | 468 | 491 | Michael Buckner |
-| 469 | 491 | Jedi |
-| 470 | 491 | Victor Obiakarije |
+| 469 | 491 | Victor Obiakarije |
+| 470 | 491 | Jedi |
 | 471 | 488 | Christina Wsn |
 | 472 | 487 | Morgan Easter |
 | 473 | 487 | MrsCandyfine As Wine Truss |
@@ -1057,7 +1057,7 @@
 | 1049 | 232 | Chirpy Snapper |
 | 1050 | 231 | Stanley Vanekelenburg |
 | 1051 | 231 | Emily Valentine |
-| 1052 | 231 | Melissa Koria |
+| 1052 | 231 | Himothy |
 | 1053 | 231 | Vung Nguyen |
 | 1054 | 231 | Melissa Koria |
 | 1055 | 230 | Laura Mcfee |
