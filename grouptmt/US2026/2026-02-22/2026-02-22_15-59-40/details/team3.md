@@ -261,9 +261,9 @@
 | 253 | 275 | Cassandra Bryant |
 | 254 | 272 | Tasha Wesson-Torrence |
 | 255 | 272 | Dee Franklin |
-| 256 | 271 | Cass Mendoza |
-| 257 | 271 | Alexmac |
-| 258 | 271 | Grego Daniel |
+| 256 | 271 | Grego Daniel |
+| 257 | 271 | Cass Mendoza |
+| 258 | 271 | Alexmac |
 | 259 | 267 | Tiffany Davie |
 | 260 | 266 | Quirky Dropzone |
 | 261 | 262 | Ray Lader |
@@ -317,8 +317,8 @@
 | 309 | 220 | Tosha Griffey |
 | 310 | 217 | Twisty Brick LT |
 | 311 | 216 | Cheryl Hinch Tenbrook |
-| 312 | 216 | Frothy Snapper |
-| 313 | 216 | Tina Smith Roy |
+| 312 | 216 | Tina Smith Roy |
+| 313 | 216 | Frothy Snapper |
 | 314 | 214 | Amy Fuller Heaton |
 | 315 | 214 | Jennifer Alvey |
 | 316 | 214 | Randy Clevenger |
@@ -396,8 +396,8 @@
 | 388 | 176 | Skinny Baldez |
 | 389 | 175 | Michael Latasha Gray |
 | 390 | 175 | Wacky Crasher |
-| 391 | 174 | Sierra Spencer |
-| 392 | 174 | Lesley Perez |
+| 391 | 174 | Lesley Perez |
+| 392 | 174 | Sierra Spencer |
 | 393 | 173 | Kiki |
 | 394 | 173 | MizzMonick Smith |
 | 395 | 172 | Jl |

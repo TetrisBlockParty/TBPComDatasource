@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 762 | TeeJ |
 | 49 | 757 | Ancient Intuition |
@@ -202,8 +202,8 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | Cristy Duerksen |
-| 198 | 216 | ZeeZee |
+| 197 | 216 | ZeeZee |
+| 198 | 216 | Cristy Duerksen |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
@@ -212,8 +212,8 @@
 | 204 | 212 | Mike Solo |
 | 205 | 212 | Joanna |
 | 206 | 211 | Jenna McGeorge |
-| 207 | 210 | Lindsey Gonzalez |
-| 208 | 210 | Austin Owens |
+| 207 | 210 | Austin Owens |
+| 208 | 210 | Lindsey Gonzalez |
 | 209 | 209 | Sam Bishop |
 | 210 | 209 | Rafael Valentin |
 | 211 | 208 | Dizzy Matchzone |
@@ -507,9 +507,9 @@
 | 499 | 90 | tipsy tiger |
 | 500 | 89 | Shiny Fit |
 | 501 | 89 | Jonathan Mahfood |
-| 502 | 88 | Renee Marshall |
-| 503 | 88 | Joe Lonnemann |
-| 504 | 88 | Eric Wren |
+| 502 | 88 | Joe Lonnemann |
+| 503 | 88 | Eric Wren |
+| 504 | 88 | Renee Marshall |
 | 505 | 88 | April Spoelma |
 | 506 | 87 | Martha Lucinda Bishop |
 | 507 | 87 | Derek Pendarvis |

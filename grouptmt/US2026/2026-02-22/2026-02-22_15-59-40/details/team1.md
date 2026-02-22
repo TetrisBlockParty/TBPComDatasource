@@ -317,8 +317,8 @@
 | 309 | 155 | Barry Mac'Ockner |
 | 310 | 154 | Larry Tilton |
 | 311 | 153 | Dino |
-| 312 | 153 | John Kim |
-| 313 | 153 | Tami Luce Martin |
+| 312 | 153 | Tami Luce Martin |
+| 313 | 153 | John Kim |
 | 314 | 152 | Speedy Snapfall |
 | 315 | 151 | Gilbert Ortiz Jr. |
 | 316 | 151 | Bruce Cruz |
