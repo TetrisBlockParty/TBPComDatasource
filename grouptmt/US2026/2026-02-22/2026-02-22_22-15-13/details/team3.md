@@ -93,8 +93,8 @@
 | 85 | 849 | Danielle Becker |
 | 86 | 848 | Patricia Gadsden |
 | 87 | 847 | Rosalie Call Kehlenbeck |
-| 88 | 838 | MissTaylor |
-| 89 | 838 | Sarajane Lokan |
+| 88 | 838 | Sarajane Lokan |
+| 89 | 838 | MissTaylor |
 | 90 | 836 | Jamie Lang |
 | 91 | 835 | Snappy Glidepiece |
 | 92 | 831 | Angeline Joseph |
@@ -292,8 +292,8 @@
 | 284 | 287 | Sabrina Hardrick |
 | 285 | 283 | Heather Green |
 | 286 | 282 | LaShey Thompson |
-| 287 | 280 | fraulila |
-| 288 | 280 | Lizabeth Fox |
+| 287 | 280 | Lizabeth Fox |
+| 288 | 280 | fraulila |
 | 289 | 279 | Foltz Lee Kelli |
 | 290 | 278 | Steffi Chris Dacones |
 | 291 | 278 | Rufus Lincoln |

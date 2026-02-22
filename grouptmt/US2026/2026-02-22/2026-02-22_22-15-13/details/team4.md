@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Lucille Truesdale |
-| 44 | 846 | Christine Marie |
-| 45 | 846 | Jae Job |
+| 43 | 846 | Christine Marie |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 838 | TeeJ |
@@ -68,8 +68,8 @@
 | 60 | 735 | Avy Absol |
 | 61 | 731 | Anthony Bryan Riva |
 | 62 | 722 | Dustee Craddock-Harrison |
-| 63 | 721 | Chilly Line |
-| 64 | 721 | Edward White |
+| 63 | 721 | Edward White |
+| 64 | 721 | Chilly Line |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
@@ -78,8 +78,8 @@
 | 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -211,8 +211,8 @@
 | 203 | 262 | Holly Jolly |
 | 204 | 261 | scott |
 | 205 | 261 | Dihcheese444 |
-| 206 | 259 | Sam Bishop |
-| 207 | 259 | Melvin Baird |
+| 206 | 259 | Melvin Baird |
+| 207 | 259 | Sam Bishop |
 | 208 | 258 | Jen Caldwell |
 | 209 | 257 | Cheery Risebuilder |
 | 210 | 256 | Mylo Lipscomb |

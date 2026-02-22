@@ -150,8 +150,8 @@
 | 142 | 1450 | Cody Smith-Candelaria |
 | 143 | 1418 | L3sli3 |
 | 144 | 1412 | Angi Harrison |
-| 145 | 1411 | niecy |
-| 146 | 1411 | Zappy Cascade |
+| 145 | 1411 | Zappy Cascade |
+| 146 | 1411 | niecy |
 | 147 | 1401 | Brandy Andre |
 | 148 | 1397 | Bussyiano Page |
 | 149 | 1390 | Erica Williams |
@@ -178,8 +178,8 @@
 | 170 | 1260 | Joshua Sommerville |
 | 171 | 1257 | Michele Gabriel |
 | 172 | 1242 | Mischelle Clay |
-| 173 | 1232 | Ambyre Patterson |
-| 174 | 1232 | Groovy Puzzle |
+| 173 | 1232 | Groovy Puzzle |
+| 174 | 1232 | Ambyre Patterson |
 | 175 | 1230 | Megan Garrick |
 | 176 | 1224 | Liberty |
 | 177 | 1216 | Nancy Reid |
@@ -370,8 +370,8 @@
 | 362 | 728 | Tom Riefer |
 | 363 | 725 | Vonceial Boone |
 | 364 | 725 | Charvi' Carter |
-| 365 | 724 | Melissa Holsinger |
-| 366 | 724 | Dreamy Blast |
+| 365 | 724 | Dreamy Blast |
+| 366 | 724 | Melissa Holsinger |
 | 367 | 723 | Leslie Ann Carter |
 | 368 | 717 | Em Chen |
 | 369 | 713 | Chelle |
@@ -379,8 +379,8 @@
 | 371 | 708 | Jelly |
 | 372 | 706 | goofinoff |
 | 373 | 703 | Gold Rose |
-| 374 | 702 | Allan Wayne Lamia |
-| 375 | 702 | Kimberly Randesi |
+| 374 | 702 | Kimberly Randesi |
+| 375 | 702 | Allan Wayne Lamia |
 | 376 | 701 | Mama T |
 | 377 | 701 | Draizen Montrell Thomas |
 | 378 | 700 | Beverly Owens |
@@ -436,8 +436,8 @@
 | 428 | 628 | Brownie Sheena |
 | 429 | 628 | g |
 | 430 | 626 | Demeka Dangerous-kisses Johnson |
-| 431 | 620 | Traci Johnson |
-| 432 | 620 | Brandon Armstrong |
+| 431 | 620 | Brandon Armstrong |
+| 432 | 620 | Traci Johnson |
 | 433 | 618 | Vanessa Moreno |
 | 434 | 618 | Caitlyn Blackwell |
 | 435 | 617 | Darcy Mae |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Lylymom |
-| 441 | 613 | Tonya Lee |
+| 440 | 613 | Tonya Lee |
+| 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -653,8 +653,8 @@
 | 645 | 433 | Tabs Reichert |
 | 646 | 433 | Tom Steffen |
 | 647 | 431 | Joel Rosado |
-| 648 | 431 | Hunter Connors |
-| 649 | 431 | Quinn |
+| 648 | 431 | Quinn |
+| 649 | 431 | Hunter Connors |
 | 650 | 430 | De Hawkins |
 | 651 | 429 | Goofy Catcher |
 | 652 | 429 | Angel Hunnewell |
@@ -792,12 +792,12 @@
 | 784 | 363 | Jes Norris |
 | 785 | 363 | Bryan Werleman |
 | 786 | 363 | Stephanie Fortune |
-| 787 | 363 | Tasia Stinson |
-| 788 | 363 | Janitta Alvarez |
+| 787 | 363 | Janitta Alvarez |
+| 788 | 363 | Tasia Stinson |
 | 789 | 362 | Janai Vrabel |
 | 790 | 362 | Christine Egidio Morocco |
-| 791 | 361 | Tosa Puvapiromquan |
-| 792 | 361 | Kelsey Sullivan |
+| 791 | 361 | Kelsey Sullivan |
+| 792 | 361 | Tosa Puvapiromquan |
 | 793 | 361 | Donald Nowland |
 | 794 | 359 | NickyBrooks |
 | 795 | 359 | Cheyenne Donovan |
