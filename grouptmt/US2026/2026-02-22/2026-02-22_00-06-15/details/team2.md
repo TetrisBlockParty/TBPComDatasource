@@ -196,8 +196,8 @@
 | 188 | 692 | Wendy Harder Gage |
 | 189 | 690 | Deborah Miller |
 | 190 | 688 | Dreamy Blast |
-| 191 | 686 | Ashley Guernsey-Martin |
-| 192 | 686 | Dannette Goldberg-Richards |
+| 191 | 686 | Dannette Goldberg-Richards |
+| 192 | 686 | Ashley Guernsey-Martin |
 | 193 | 679 | Gold Rose |
 | 194 | 671 | Pacynthia Williams |
 | 195 | 671 | Morgue Chick |
@@ -677,8 +677,8 @@
 | 669 | 236 | Julio A Laracuente |
 | 670 | 235 | B-rad B-rad |
 | 671 | 234 | Gina Justbeingme Chillis |
-| 672 | 234 | Kay Stevenson |
-| 673 | 234 | Jaybee Nguyen |
+| 672 | 234 | Jaybee Nguyen |
+| 673 | 234 | Kay Stevenson |
 | 674 | 234 | Jennifer Leigh |
 | 675 | 233 | Nutty Matchline |
 | 676 | 233 | Epic Spinfit |
@@ -690,14 +690,14 @@
 | 682 | 231 | Nerdy Riserfit |
 | 683 | 231 | Stanley Vanekelenburg |
 | 684 | 230 | Leslie Johnson Guinto |
-| 685 | 229 | Heather Anspaugh |
-| 686 | 229 | Deidre Jenkins |
+| 685 | 229 | Deidre Jenkins |
+| 686 | 229 | Heather Anspaugh |
 | 687 | 229 | Besma Ao |
 | 688 | 228 | Dara |
-| 689 | 228 | Amanda Canterbury |
-| 690 | 228 | Samantha Angelo |
-| 691 | 227 | Nutty Slice |
-| 692 | 227 | Monique Foster |
+| 689 | 228 | Samantha Angelo |
+| 690 | 228 | Amanda Canterbury |
+| 691 | 227 | Monique Foster |
+| 692 | 227 | Nutty Slice |
 | 693 | 227 | Sho Nuff |
 | 694 | 226 | Jodi Mitnick |
 | 695 | 226 | Theresa Sterrett |

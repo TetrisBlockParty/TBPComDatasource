@@ -146,9 +146,9 @@
 | 138 | 185 | Malakai Darien Fox |
 | 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
-| 141 | 181 | Klo |
-| 142 | 181 | Andria Lynn |
-| 143 | 181 | Carter Jones |
+| 141 | 181 | Carter Jones |
+| 142 | 181 | Klo |
+| 143 | 181 | Andria Lynn |
 | 144 | 180 | Leah Kutz Zirbel |
 | 145 | 178 | Lori |
 | 146 | 176 | Zethra Prenisha Rahming |
