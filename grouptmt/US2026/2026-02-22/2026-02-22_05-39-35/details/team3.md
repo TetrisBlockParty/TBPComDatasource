@@ -85,8 +85,8 @@
 | 77 | 649 | MissTaylor |
 | 78 | 628 | Tiff Vs Tiffany |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 596 | Dan Rob |
@@ -113,8 +113,8 @@
 | 105 | 503 | Susan Valentino |
 | 106 | 502 | Justin Ritter |
 | 107 | 502 | Elissa S-k |
-| 108 | 500 | Kristie |
-| 109 | 500 | Domo Washington |
+| 108 | 500 | Domo Washington |
+| 109 | 500 | Kristie |
 | 110 | 497 | Mykal Burton |
 | 111 | 492 | Daira Largen |
 | 112 | 491 | Chauntee Alfrey-Cardinale |

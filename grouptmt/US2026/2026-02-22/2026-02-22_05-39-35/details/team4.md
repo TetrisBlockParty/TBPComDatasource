@@ -31,8 +31,8 @@
 | 23 | 883 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -52,8 +52,8 @@
 | 44 | 646 | Jacqueline Helm |
 | 45 | 634 | Anthony Bryan Riva |
 | 46 | 632 | Kimyatta Cavin |
-| 47 | 630 | Dustee Craddock-Harrison |
-| 48 | 630 | Chilly Line |
+| 47 | 630 | Chilly Line |
+| 48 | 630 | Dustee Craddock-Harrison |
 | 49 | 627 | Jonathan Kimbrough |
 | 50 | 623 | Robin Getchel |
 | 51 | 614 | KM8 |
@@ -145,20 +145,20 @@
 | 137 | 230 | Autum Leigh |
 | 138 | 229 | Jolly Dashfit |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Alyssa Papen |
-| 141 | 227 | Swanky Fitline |
+| 140 | 227 | Swanky Fitline |
+| 141 | 227 | Alyssa Papen |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |
 | 145 | 222 | Joeliecea Cobb |
 | 146 | 222 | TheNeesh50 |
-| 147 | 221 | Rheanda Weaskus |
-| 148 | 221 | PurpleMoonMa |
+| 147 | 221 | PurpleMoonMa |
+| 148 | 221 | Rheanda Weaskus |
 | 149 | 220 | Matt Dell'Olio |
 | 150 | 218 | Casey Grabner |
 | 151 | 217 | Chaz Duncan |
-| 152 | 215 | Ren Mc |
-| 153 | 215 | Jessica Bohlken |
+| 152 | 215 | Jessica Bohlken |
+| 153 | 215 | Ren Mc |
 | 154 | 213 | Sarah Neathery |
 | 155 | 213 | Jason Allen |
 | 156 | 212 | Calvin Cannon |
