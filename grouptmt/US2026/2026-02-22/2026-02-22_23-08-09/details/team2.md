@@ -262,8 +262,8 @@
 | 254 | 957 | Keri Womack |
 | 255 | 957 | Block Master |
 | 256 | 957 | Crystal Hoffman |
-| 257 | 955 | Angela Bonquiqui Dinish |
-| 258 | 955 | Kevin Walp |
+| 257 | 955 | Kevin Walp |
+| 258 | 955 | Angela Bonquiqui Dinish |
 | 259 | 951 | Cynthia Ward |
 | 260 | 941 | Cool Clearer |
 | 261 | 941 | Glitzy Stackzone |

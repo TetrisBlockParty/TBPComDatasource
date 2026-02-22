@@ -156,9 +156,9 @@
 | 148 | 336 | Elaine Elaine |
 | 149 | 336 | Fmp |
 | 150 | 334 | Jaimie Lynn |
-| 151 | 333 | Jennifer Hardman |
-| 152 | 333 | Gracie |
-| 153 | 333 | GATOR |
+| 151 | 333 | GATOR |
+| 152 | 333 | Jennifer Hardman |
+| 153 | 333 | Gracie |
 | 154 | 332 | Lehrin Maria |
 | 155 | 331 | Josh Riemer |
 | 156 | 324 | Rat666 |
@@ -320,8 +320,8 @@
 | 312 | 187 | Jessica Weed |
 | 313 | 187 | Fresno Beotoni |
 | 314 | 186 | Nikki Fridley |
-| 315 | 185 | Oscar Zamora |
-| 316 | 185 | Hasty Columnbuilder |
+| 315 | 185 | Hasty Columnbuilder |
+| 316 | 185 | Oscar Zamora |
 | 317 | 184 | Cranky Pattern |
 | 318 | 184 | Itspaigebro |
 | 319 | 183 | Dino |
@@ -359,8 +359,8 @@
 | 351 | 169 | Ward Leandrea |
 | 352 | 168 | Amber Dee |
 | 353 | 168 | Test |
-| 354 | 166 | Glitzy Curvebuilder |
-| 355 | 166 | Gilbert Ortiz Jr. |
+| 354 | 166 | Gilbert Ortiz Jr. |
+| 355 | 166 | Glitzy Curvebuilder |
 | 356 | 166 | Sylvia Vasquez |
 | 357 | 165 | Nadine Velardo |
 | 358 | 165 | Davery Spencer Adair |
