@@ -64,8 +64,8 @@
 | 56 | 738 | Michelle Nicole |
 | 57 | 720 | Zippy Align |
 | 58 | 703 | Angel Fowler |
-| 59 | 691 | Marianne Louise West |
-| 60 | 691 | Seante Bullock |
+| 59 | 691 | Seante Bullock |
+| 60 | 691 | Marianne Louise West |
 | 61 | 687 | comrade fish |
 | 62 | 685 | Sevens4L |
 | 63 | 674 | Drew Magnus |
@@ -309,8 +309,8 @@
 | 301 | 191 | Sarah Marie |
 | 302 | 191 | Steph |
 | 303 | 190 | Sweetts |
-| 304 | 189 | Tawnya Peltonen |
-| 305 | 189 | Bird Person |
+| 304 | 189 | Bird Person |
+| 305 | 189 | Tawnya Peltonen |
 | 306 | 188 | Betsy |
 | 307 | 187 | Speedy Snapfall |
 | 308 | 187 | Cool Towerzone |
@@ -361,7 +361,7 @@
 | 353 | 165 | Barrbaric |
 | 354 | 165 | Rodney Schmerfeld |
 | 355 | 164 | Tami Luce Martin |
-| 356 | 163 | Blaire Bruckoff |
+| 356 | 163 | Tyler Whitley |
 | 357 | 163 | SavageBooty98 |
 | 358 | 163 | Blaire Bruckoff |
 | 359 | 162 | Ruthie Mahoney Saunders-Browne |

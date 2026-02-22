@@ -103,8 +103,8 @@
 | 95 | 519 | Nugget |
 | 96 | 513 | Erin Thomas |
 | 97 | 513 | YoMomma |
-| 98 | 512 | Diana Houts |
-| 99 | 512 | Casey Jeffcoat |
+| 98 | 512 | Casey Jeffcoat |
+| 99 | 512 | Diana Houts |
 | 100 | 511 | Zippy Gridlock |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
@@ -208,8 +208,8 @@
 | 200 | 267 | Kathy Brookins |
 | 201 | 267 | Casey Grabner |
 | 202 | 262 | Holly Jolly |
-| 203 | 261 | Dihcheese444 |
-| 204 | 261 | scott |
+| 203 | 261 | scott |
+| 204 | 261 | Dihcheese444 |
 | 205 | 260 | A5! |
 | 206 | 259 | Sam Bishop |
 | 207 | 259 | Melvin Baird |
@@ -266,9 +266,9 @@
 | 258 | 205 | James Hurley Jr. |
 | 259 | 205 | Christina Black |
 | 260 | 203 | Katherine Crane |
-| 261 | 202 | Angelito |
-| 262 | 202 | Orchislactea |
-| 263 | 202 | Patron Anderson |
+| 261 | 202 | Patron Anderson |
+| 262 | 202 | Angelito |
+| 263 | 202 | Orchislactea |
 | 264 | 201 | Zany Shatterer |
 | 265 | 200 | Googenheim |
 | 266 | 199 | TinyLegoRose |
