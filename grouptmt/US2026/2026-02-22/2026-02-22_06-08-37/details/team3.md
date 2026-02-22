@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 400 | Aaron Pitkin |
@@ -222,8 +222,8 @@
 | 214 | 272 | opf |
 | 215 | 272 | Dee Franklin |
 | 216 | 271 | Ashley Muncey |
-| 217 | 267 | Terry Jo Jones |
-| 218 | 267 | Denise Nardoni |
+| 217 | 267 | Denise Nardoni |
+| 218 | 267 | Terry Jo Jones |
 | 219 | 265 | Sarah Moyer |
 | 220 | 265 | Trisha Balmer |
 | 221 | 264 | Grego Daniel |
@@ -847,8 +847,8 @@
 | 839 | 65 | Danielle Beaunoyer Jean |
 | 840 | 65 | Rashad Green |
 | 841 | 65 | Byron Baptiste |
-| 842 | 65 | Dee Dee |
-| 843 | 65 | Krystal Kampagnola |
+| 842 | 65 | Krystal Kampagnola |
+| 843 | 65 | Dee Dee |
 | 844 | 65 | Draone Grayson |
 | 845 | 64 | Erzulie |
 | 846 | 64 | Funky Dasher |

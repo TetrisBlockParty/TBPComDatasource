@@ -204,8 +204,8 @@
 | 196 | 857 | Della Hole |
 | 197 | 850 | Missie Lawson Gebhardt |
 | 198 | 849 | Hillary Crawford |
-| 199 | 845 | April Dawn Gussler |
-| 200 | 845 | Felicia Lynn |
+| 199 | 845 | Felicia Lynn |
+| 200 | 845 | April Dawn Gussler |
 | 201 | 838 | Tralonda Weeks |
 | 202 | 837 | Catina Hutchison |
 | 203 | 837 | Ashley Rose Frederick |
@@ -296,8 +296,8 @@
 | 288 | 651 | Unica Rector |
 | 289 | 650 | Shiny Rollzone |
 | 290 | 643 | Hoppy Brickmatch |
-| 291 | 641 | Angie Bolton Workman |
-| 292 | 641 | Joce Lynn |
+| 291 | 641 | Joce Lynn |
+| 292 | 641 | Angie Bolton Workman |
 | 293 | 640 | BYM4L |
 | 294 | 639 | Crystie Hicks |
 | 295 | 639 | Rebecca Miller |
@@ -527,8 +527,8 @@
 | 519 | 389 | Alexis Richardson |
 | 520 | 389 | Kayla |
 | 521 | 388 | Cheery Matchzone |
-| 522 | 387 | Bold Brickster |
-| 523 | 387 | Misti Markijohn |
+| 522 | 387 | Misti Markijohn |
+| 523 | 387 | Bold Brickster |
 | 524 | 386 | Michael Artis |
 | 525 | 386 | Tara Lynn Janes |
 | 526 | 385 | Tansaria Couch-Butler |
@@ -536,8 +536,8 @@
 | 528 | 384 | Party d |
 | 529 | 384 | Kelly |
 | 530 | 384 | Mike Aprilliano |
-| 531 | 382 | KhaosLord |
-| 532 | 382 | David Holliday |
+| 531 | 382 | David Holliday |
+| 532 | 382 | KhaosLord |
 | 533 | 381 | Melissa Rebbe-Lehman |
 | 534 | 381 | Jessica S Flecha |
 | 535 | 381 | Happy Caster |
@@ -620,8 +620,8 @@
 | 612 | 337 | Sassy Pattern |
 | 613 | 337 | Tum |
 | 614 | 337 | Savannah Alexander |
-| 615 | 336 | bru |
-| 616 | 336 | Austin Wilson |
+| 615 | 336 | Austin Wilson |
+| 616 | 336 | bru |
 | 617 | 336 | Swanky Columnbuilder |
 | 618 | 336 | Jarboe |
 | 619 | 335 | Brooke Leigh Strube |
@@ -1699,7 +1699,7 @@
 | 1691 | 122 | Sonya Munoz |
 | 1692 | 122 | Misti Xgipsonx |
 | 1693 | 122 | Plucky Cascadeclear |
-| 1694 | 122 | Krys |
+| 1694 | 122 | Giggly Stackzone |
 | 1695 | 122 | Elizabeth Hawkins |
 | 1696 | 122 | Krys |
 | 1697 | 122 | Ovk Manman |
