@@ -449,9 +449,9 @@
 | 441 | 345 | Offonar Facey |
 | 442 | 345 | Frisky Clearpiece |
 | 443 | 345 | Rhianna DiLorenzo |
-| 444 | 344 | Nicole Cannon |
-| 445 | 344 | Glenn Cobbins |
-| 446 | 344 | Felicia Lynn |
+| 444 | 344 | Felicia Lynn |
+| 445 | 344 | Nicole Cannon |
+| 446 | 344 | Glenn Cobbins |
 | 447 | 343 | Rose Fx |
 | 448 | 342 | Angi Harrison |
 | 449 | 342 | Sydney Busse |

@@ -80,8 +80,8 @@
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Nugget |
-| 76 | 358 | Shane Kalamata Platoon |
+| 75 | 358 | Shane Kalamata Platoon |
+| 76 | 358 | Nugget |
 | 77 | 356 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 313 | Robin Getchel |
@@ -125,22 +125,22 @@
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Chastity Mitchell |
-| 121 | 208 | Twisty Cascadezone |
+| 120 | 208 | Twisty Cascadezone |
+| 121 | 208 | Chastity Mitchell |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Dana Scott |
 | 125 | 204 | Jen Caldwell |
 | 126 | 202 | Monica Daley |
-| 127 | 201 | Swanky Fitline |
-| 128 | 201 | Melvin Baird |
+| 127 | 201 | Melvin Baird |
+| 128 | 201 | Swanky Fitline |
 | 129 | 197 | Peachy Fall |
 | 130 | 196 | Jenna McGeorge |
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Calvin Dennis |
-| 135 | 189 | Stacey Stano |
+| 134 | 189 | Stacey Stano |
+| 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
 | 138 | 185 | Andy Cabral |
@@ -248,8 +248,8 @@
 | 240 | 113 | Dandy Cascadefit |
 | 241 | 113 | Adam Randall |
 | 242 | 112 | Jeremy Steines |
-| 243 | 111 | Lazy Blocker |
-| 244 | 111 | Rafael Valentin |
+| 243 | 111 | Rafael Valentin |
+| 244 | 111 | Lazy Blocker |
 | 245 | 110 | Zach Kerbs |
 | 246 | 109 | LS |
 | 247 | 109 | Jessica Miller |
@@ -259,8 +259,8 @@
 | 251 | 108 | Ali Ian |
 | 252 | 108 | Rebecca Morris |
 | 253 | 107 | Chris Alexinas |
-| 254 | 106 | Zappy Snaplink |
-| 255 | 106 | Brandi Durig |
+| 254 | 106 | Brandi Durig |
+| 255 | 106 | Zappy Snaplink |
 | 256 | 105 | Kim Hunt |
 | 257 | 104 | mike |
 | 258 | 104 | Maureen Flanigan |

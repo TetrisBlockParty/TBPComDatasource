@@ -27,8 +27,8 @@
 | 19 | 1560 | Trezure Gonzalez |
 | 20 | 1554 | Ashley Kiara |
 | 21 | 1474 | Jennie Beranek |
-| 22 | 1470 | Zippy Strikesnap |
-| 23 | 1470 | Shandrea Crawford |
+| 22 | 1470 | Shandrea Crawford |
+| 23 | 1470 | Zippy Strikesnap |
 | 24 | 1460 | Briarblack |
 | 25 | 1402 | cowboy25469 |
 | 26 | 1297 | Shelby Michelle |
@@ -74,8 +74,8 @@
 | 66 | 604 | Danielle Becker |
 | 67 | 591 | Suzieq |
 | 68 | 588 | yoyo |
-| 69 | 582 | Natasha Jones |
-| 70 | 582 | Katrina Schroeder |
+| 69 | 582 | Katrina Schroeder |
+| 70 | 582 | Natasha Jones |
 | 71 | 581 | Danielle Mogg |
 | 72 | 580 | Amanda L Baker |
 | 73 | 576 | Dan Rob |
@@ -222,7 +222,7 @@
 | 214 | 192 | Kelly Ann Child |
 | 215 | 191 | Rebel124 |
 | 216 | 191 | Brenda Lee Vander Molen |
-| 217 | 191 | Rebel124 |
+| 217 | 191 | Scott Carleton |
 | 218 | 190 | Raven Dudley |
 | 219 | 189 | Aerian Preston |
 | 220 | 189 | Sissy Lowery Davis |
@@ -250,8 +250,8 @@
 | 242 | 169 | BŘŰŤİÇŨŚ |
 | 243 | 169 | Daryn Elliott |
 | 244 | 168 | MsBee |
-| 245 | 166 | Beth Ingham |
-| 246 | 166 | Betty Rosas |
+| 245 | 166 | Betty Rosas |
+| 246 | 166 | Beth Ingham |
 | 247 | 165 | Kali Kelz Williams |
 | 248 | 165 | Irene Arreguin |
 | 249 | 163 | Christine Trester |
