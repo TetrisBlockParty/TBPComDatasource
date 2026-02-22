@@ -213,8 +213,8 @@
 | 205 | 871 | Jamie Otero |
 | 206 | 867 | Michele Gabriel |
 | 207 | 865 | Dedra Steward |
-| 208 | 862 | Brittany Radaszewski |
-| 209 | 862 | Robin Kerby |
+| 208 | 862 | Robin Kerby |
+| 209 | 862 | Brittany Radaszewski |
 | 210 | 860 | April Dawn Gussler |
 | 211 | 857 | Della Hole |
 | 212 | 854 | Nika Bee |
@@ -372,8 +372,8 @@
 | 364 | 541 | g |
 | 365 | 538 | Eric Castaneda |
 | 366 | 537 | Cherica Taylor |
-| 367 | 535 | Paul Huber |
-| 368 | 535 | Jessie McDougald |
+| 367 | 535 | Jessie McDougald |
+| 368 | 535 | Paul Huber |
 | 369 | 533 | Gauri Shrotriya |
 | 370 | 531 | Dizzy Zone |
 | 371 | 527 | Ryan Gunther |
@@ -399,11 +399,11 @@
 | 391 | 515 | Lonne Emade |
 | 392 | 514 | Karen Posadas Centeno |
 | 393 | 511 | Laura Mclean |
-| 394 | 509 | Jordan Kaiser |
-| 395 | 509 | Kelli Wells |
-| 396 | 507 | Magic steve |
-| 397 | 507 | Joshua Mandel |
-| 398 | 507 | Irene Jones |
+| 394 | 509 | Kelli Wells |
+| 395 | 509 | Jordan Kaiser |
+| 396 | 507 | Irene Jones |
+| 397 | 507 | Magic steve |
+| 398 | 507 | Joshua Mandel |
 | 399 | 504 | Kimmy Newman |
 | 400 | 502 | Sparkles |
 | 401 | 500 | Sarah Ridenour |
@@ -455,8 +455,8 @@
 | 447 | 466 | Crystal Greene |
 | 448 | 465 | Davetta Sanford |
 | 449 | 464 | Caitlyn Blackwell |
-| 450 | 463 | Sue Leard |
-| 451 | 463 | Jaye EL Hunter |
+| 450 | 463 | Jaye EL Hunter |
+| 451 | 463 | Sue Leard |
 | 452 | 462 | Jarboe |
 | 453 | 462 | Tonya Lee |
 | 454 | 462 | Daphne Jordan |
@@ -493,8 +493,8 @@
 | 485 | 430 | Jackie Lucas |
 | 486 | 430 | Gloria Ininahazwe |
 | 487 | 429 | Christy Krissie |
-| 488 | 428 | Kiana Boschh |
-| 489 | 428 | Arkei Luster |
+| 488 | 428 | Arkei Luster |
+| 489 | 428 | Kiana Boschh |
 | 490 | 428 | Shyenn Gadsby |
 | 491 | 427 | Destiny Cozier |
 | 492 | 427 | Quinn |

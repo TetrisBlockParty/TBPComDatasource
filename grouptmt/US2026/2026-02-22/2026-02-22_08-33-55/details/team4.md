@@ -62,8 +62,8 @@
 | 54 | 652 | Anthony Bryan Riva |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -93,8 +93,8 @@
 | 85 | 418 | Chastity Mitchell |
 | 86 | 416 | YoMomma |
 | 87 | 412 | Jenna Ingersoll |
-| 88 | 409 | Isabella Blanco |
-| 89 | 409 | Jolly Dashfit |
+| 88 | 409 | Jolly Dashfit |
+| 89 | 409 | Isabella Blanco |
 | 90 | 407 | Leslie Thomas |
 | 91 | 404 | Courtney Cicoria |
 | 92 | 396 | Amy Suckarieh |
@@ -166,8 +166,8 @@
 | 158 | 223 | Antony Dwayne Beasley |
 | 159 | 222 | TheNeesh50 |
 | 160 | 222 | Joeliecea Cobb |
-| 161 | 221 | PurpleMoonMa |
-| 162 | 221 | Rheanda Weaskus |
+| 161 | 221 | Rheanda Weaskus |
+| 162 | 221 | PurpleMoonMa |
 | 163 | 220 | Matt Dell'Olio |
 | 164 | 218 | Casey Grabner |
 | 165 | 217 | Chaz Duncan |
@@ -223,9 +223,9 @@
 | 215 | 162 | Joanna |
 | 216 | 162 | John Brunetti |
 | 217 | 161 | Jenny Wells-Oakley |
-| 218 | 160 | Brittany Marsh |
+| 218 | 160 | Laura Hosford |
 | 219 | 160 | Carlos Ramirez |
-| 220 | 160 | Laura Hosford |
+| 220 | 160 | Brittany Marsh |
 | 221 | 159 | Marcus Todd |
 | 222 | 158 | Chair |
 | 223 | 158 | Avy Absol |
