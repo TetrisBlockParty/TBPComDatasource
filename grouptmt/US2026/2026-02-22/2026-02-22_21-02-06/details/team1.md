@@ -169,8 +169,8 @@
 | 161 | 304 | Nicole Roseberry Weber |
 | 162 | 303 | Chelsea Dahlquist |
 | 163 | 302 | Mike Ames |
-| 164 | 298 | Danielle Little-Daugherty |
-| 165 | 298 | femmefatale |
+| 164 | 298 | femmefatale |
+| 165 | 298 | Danielle Little-Daugherty |
 | 166 | 296 | Madison Wicks |
 | 167 | 295 | Emily Adelaide Wheatley |
 | 168 | 295 | David Lutcher |

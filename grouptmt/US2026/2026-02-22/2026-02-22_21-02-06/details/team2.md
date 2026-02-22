@@ -401,8 +401,8 @@
 | 393 | 652 | Mighty Spinbuilder |
 | 394 | 651 | Unica Rector |
 | 395 | 651 | Ashley Munn |
-| 396 | 650 | Amber Brion |
-| 397 | 650 | Shiny Rollzone |
+| 396 | 650 | Shiny Rollzone |
+| 397 | 650 | Amber Brion |
 | 398 | 649 | Johnny Yeates |
 | 399 | 648 | AgileDragon |
 | 400 | 648 | Breezy Filler |
@@ -436,8 +436,8 @@
 | 428 | 609 | g |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | Shaun Church |
-| 432 | 602 | KhaosLord |
+| 431 | 602 | KhaosLord |
+| 432 | 602 | Shaun Church |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
@@ -903,8 +903,8 @@
 | 895 | 311 | SwifftFox |
 | 896 | 311 | Audra Williams |
 | 897 | 310 | Cozy Drop |
-| 898 | 310 | Wendy Ducheney |
-| 899 | 310 | Cheeky Brickmatch |
+| 898 | 310 | Cheeky Brickmatch |
+| 899 | 310 | Wendy Ducheney |
 | 900 | 309 | Byung Bae Park |
 | 901 | 308 | Spicy Riser |
 | 902 | 308 | Hyper Riseclear |

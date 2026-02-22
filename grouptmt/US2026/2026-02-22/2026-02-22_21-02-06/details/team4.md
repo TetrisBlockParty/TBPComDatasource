@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | ThaEviLJeNiuZ |
-| 140 | 343 | Latisha Davis |
+| 139 | 343 | Latisha Davis |
+| 140 | 343 | ThaEviLJeNiuZ |
 | 141 | 339 | David Lay |
 | 142 | 338 | Angela Srubar-Norman |
 | 143 | 336 | Jessica Bohlken |
@@ -216,8 +216,8 @@
 | 208 | 248 | Lindsey Gonzalez |
 | 209 | 248 | Chirpy Basepiece |
 | 210 | 246 | Carlos Ramirez |
-| 211 | 245 | Adam Stephanie Parker |
-| 212 | 245 | Autum Leigh |
+| 211 | 245 | Autum Leigh |
+| 212 | 245 | Adam Stephanie Parker |
 | 213 | 245 | 23 |
 | 214 | 243 | Jose Dejesus |
 | 215 | 243 | Mr. Party |
@@ -261,8 +261,8 @@
 | 253 | 205 | Keith Kelley |
 | 254 | 205 | Christina Black |
 | 255 | 203 | Katherine Crane |
-| 256 | 202 | Patron Anderson |
-| 257 | 202 | Orchislactea |
+| 256 | 202 | Orchislactea |
+| 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
 | 259 | 200 | Googenheim |
 | 260 | 200 | Lori |
@@ -275,10 +275,10 @@
 | 267 | 196 | Zany Shatterer |
 | 268 | 195 | 中山成巳 |
 | 269 | 194 | Zany Twisterfit |
-| 270 | 193 | Shainne Brewer |
-| 271 | 193 | Stephme310 |
-| 272 | 192 | Andrew Dang |
-| 273 | 192 | Stella |
+| 270 | 193 | Stephme310 |
+| 271 | 193 | Shainne Brewer |
+| 272 | 192 | Stella |
+| 273 | 192 | Andrew Dang |
 | 274 | 191 | Earnest Thompson |
 | 275 | 189 | 030Synner |
 | 276 | 187 | Cynthia Boudreau |

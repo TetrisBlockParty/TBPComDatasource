@@ -80,8 +80,8 @@
 | 72 | 895 | Corie A. Brinson |
 | 73 | 882 | Tiff Vs Tiffany |
 | 74 | 878 | Katie Knaus |
-| 75 | 874 | Jessica Pineda-Lopez |
-| 76 | 874 | Shari Garber |
+| 75 | 874 | Shari Garber |
+| 76 | 874 | Jessica Pineda-Lopez |
 | 77 | 870 | Nerdy Riseclear |
 | 78 | 866 | Ebony West-Cundiff |
 | 79 | 864 | Mary Pellegrino |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Cynthia Castros-Hampton |
-| 141 | 526 | Michelle Becker |
+| 140 | 526 | Michelle Becker |
+| 141 | 526 | Cynthia Castros-Hampton |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -159,8 +159,8 @@
 | 151 | 491 | Chauntee Alfrey-Cardinale |
 | 152 | 484 | Dapper Snap |
 | 153 | 484 | Samantha Greco |
-| 154 | 479 | Annie Marie |
-| 155 | 479 | Poppy Splitter |
+| 154 | 479 | Poppy Splitter |
+| 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
 | 158 | 471 | Mendoza Lee Christy |
