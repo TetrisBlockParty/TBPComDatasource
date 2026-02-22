@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Ryan Lunnin |
-| 82 | 519 | Greg Hart |
+| 81 | 519 | Greg Hart |
+| 82 | 519 | Ryan Lunnin |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -115,8 +115,8 @@
 | 107 | 436 | Tonya Beasley |
 | 108 | 435 | Erin Hodges Plumb |
 | 109 | 433 | Tinah Montanna |
-| 110 | 429 | Dee Perry |
-| 111 | 429 | Anaid Sanchez |
+| 110 | 429 | Anaid Sanchez |
+| 111 | 429 | Dee Perry |
 | 112 | 423 | Veronica Eve |
 | 113 | 418 | Jazzy Framezone |
 | 114 | 417 | Lori Sanders- Davis |
@@ -256,8 +256,8 @@
 | 248 | 224 | Tipsy Riseclear |
 | 249 | 223 | Erez Yosef |
 | 250 | 223 | Christina Backer |
-| 251 | 222 | Snappy Bridgepiece |
-| 252 | 222 | Debbie Davis |
+| 251 | 222 | Debbie Davis |
+| 252 | 222 | Snappy Bridgepiece |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
 | 255 | 219 | Negan Mallory Knoxx Spence |
@@ -314,8 +314,8 @@
 | 306 | 189 | Tawnya Peltonen |
 | 307 | 189 | Bird Person |
 | 308 | 188 | Betsy |
-| 309 | 187 | Fresno Beotoni |
-| 310 | 187 | GringaLinga |
+| 309 | 187 | GringaLinga |
+| 310 | 187 | Speedy Snapfall |
 | 311 | 187 | Jessica Weed |
 | 312 | 187 | Cool Towerzone |
 | 313 | 187 | Fresno Beotoni |

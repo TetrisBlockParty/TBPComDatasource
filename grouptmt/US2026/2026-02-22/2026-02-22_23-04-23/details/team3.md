@@ -181,8 +181,8 @@
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
 | 175 | 465 | Tasha Schriewer |
-| 176 | 464 | Michelle |
-| 177 | 464 | Makelini Mausia |
+| 176 | 464 | Makelini Mausia |
+| 177 | 464 | Michelle |
 | 178 | 461 | Shunta Jacobs |
 | 179 | 460 | Danielle Allison |
 | 180 | 460 | Araceli Parra |
@@ -333,11 +333,11 @@
 | 325 | 263 | Jimmie Clemons |
 | 326 | 262 | Cyd061769 |
 | 327 | 261 | Angela Scott |
-| 328 | 258 | IamJust Neyamijah Washington Sr. |
-| 329 | 258 | Michael Kimbro |
+| 328 | 258 | Michael Kimbro |
+| 329 | 258 | IamJust Neyamijah Washington Sr. |
 | 330 | 256 | KayB |
-| 331 | 255 | Sharisse Baltimore |
-| 332 | 255 | Twisty Brick LT |
+| 331 | 255 | Twisty Brick LT |
+| 332 | 255 | Sharisse Baltimore |
 | 333 | 254 | Desiree Gold |
 | 334 | 253 | Salena Whitlock |
 | 335 | 252 | Blair Erin Waite |
@@ -478,8 +478,8 @@
 | 470 | 181 | Happy Tetriblast |
 | 471 | 181 | Shiny Zonebuilder |
 | 472 | 180 | Beth Ingham |
-| 473 | 179 | Snarky McFace |
-| 474 | 179 | Kali Kelz Williams |
+| 473 | 179 | Kali Kelz Williams |
+| 474 | 179 | Snarky McFace |
 | 475 | 178 | Flashy Rumbler |
 | 476 | 178 | Christian Luna |
 | 477 | 178 | Sarah Tschee |
@@ -502,10 +502,10 @@
 | 494 | 172 | Miranda Taylor |
 | 495 | 171 | Daring Brickzone |
 | 496 | 171 | David Kozen |
-| 497 | 170 | Bouncy Blockbuilder |
-| 498 | 170 | luluraine |
-| 499 | 169 | Peachy Rollfit |
-| 500 | 169 | Boldy Corner |
+| 497 | 170 | luluraine |
+| 498 | 170 | Bouncy Blockbuilder |
+| 499 | 169 | Boldy Corner |
+| 500 | 169 | Peachy Rollfit |
 | 501 | 168 | xsiv |
 | 502 | 168 | Peachy Tower |
 | 503 | 168 | Glenn Loving |

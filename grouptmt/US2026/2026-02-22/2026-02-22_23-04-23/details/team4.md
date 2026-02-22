@@ -49,8 +49,8 @@
 | 41 | 908 | Misty Hollibaugh |
 | 42 | 891 | Dustin Robert |
 | 43 | 855 | Marvin Lou Martin |
-| 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 44 | 846 | Jae Job |
+| 45 | 846 | Lucille Truesdale |
 | 46 | 846 | Christine Marie |
 | 47 | 843 | Shelly Chandler |
 | 48 | 839 | LisaJo Picken Buchanan |
@@ -59,8 +59,8 @@
 | 51 | 810 | BertMofo |
 | 52 | 793 | Rebecca Moulton Pinciaro |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Ashley Ingram |
-| 55 | 766 | Robin Watters |
+| 54 | 766 | Robin Watters |
+| 55 | 766 | Ashley Ingram |
 | 56 | 757 | Ancient Intuition |
 | 57 | 755 | Edward White |
 | 58 | 754 | Isabella Blanco |
@@ -109,11 +109,11 @@
 | 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Trista Leah |
-| 105 | 499 | Christina LR |
+| 104 | 499 | Christina LR |
+| 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -138,18 +138,18 @@
 | 130 | 393 | Carlton Unfiltered |
 | 131 | 393 | Trish |
 | 132 | 392 | Cristy Duerksen |
-| 133 | 391 | Lush Linkfall |
-| 134 | 391 | Ramel Rhodes |
+| 133 | 391 | Ramel Rhodes |
+| 134 | 391 | Lush Linkfall |
 | 135 | 380 | Swanky Fitline |
 | 136 | 378 | Lucas J Sutton |
-| 137 | 377 | Jessica Bohlken |
-| 138 | 377 | Carrie Brian |
+| 137 | 377 | Carrie Brian |
+| 138 | 377 | Jessica Bohlken |
 | 139 | 376 | Kesha Brady |
 | 140 | 373 | Joseph Guthrie |
 | 141 | 358 | ThaEviLJeNiuZ |
 | 142 | 355 | Kristina Black |
-| 143 | 353 | Livvy |
-| 144 | 353 | Tyler Terrific |
+| 143 | 353 | Tyler Terrific |
+| 144 | 353 | Livvy |
 | 145 | 350 | Angela Srubar-Norman |
 | 146 | 348 | Silly Zonebuilder |
 | 147 | 347 | Daria Rycewicz |
@@ -171,8 +171,8 @@
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
 | 165 | 314 | TRCuse |
-| 166 | 314 | Andy Cabral |
-| 167 | 314 | 🥔🥔 Spudz |
+| 166 | 314 | 🥔🥔 Spudz |
+| 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
 | 170 | 307 | Bio Nelly |
@@ -245,11 +245,11 @@
 | 237 | 230 | blockstar |
 | 238 | 230 | Jade Rian |
 | 239 | 228 | Antony Dwayne Beasley |
-| 240 | 225 | Perky Patternblock |
-| 241 | 225 | Jenna McGeorge |
+| 240 | 225 | Jenna McGeorge |
+| 241 | 225 | Perky Patternblock |
 | 242 | 222 | Brandi Durig |
-| 243 | 221 | Rheanda Weaskus |
-| 244 | 221 | PurpleMoonMa |
+| 243 | 221 | PurpleMoonMa |
+| 244 | 221 | Rheanda Weaskus |
 | 245 | 220 | Chair |
 | 246 | 220 | Joanna |
 | 247 | 219 | Lori |
