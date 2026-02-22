@@ -330,8 +330,8 @@
 | 322 | 650 | Shiny Rollzone |
 | 323 | 645 | tejas25 |
 | 324 | 643 | Hoppy Brickmatch |
-| 325 | 641 | Joce Lynn |
-| 326 | 641 | Angie Bolton Workman |
+| 325 | 641 | Angie Bolton Workman |
+| 326 | 641 | Joce Lynn |
 | 327 | 640 | BYM4L |
 | 328 | 639 | Crystie Hicks |
 | 329 | 639 | Rebecca Miller |
@@ -595,8 +595,8 @@
 | 587 | 389 | Alexis Richardson |
 | 588 | 389 | Kayla |
 | 589 | 388 | Christina Ashley |
-| 590 | 387 | Bold Brickster |
-| 591 | 387 | Misti Markijohn |
+| 590 | 387 | Misti Markijohn |
+| 591 | 387 | Bold Brickster |
 | 592 | 386 | Wuntayk |
 | 593 | 385 | Tansaria Couch-Butler |
 | 594 | 384 | Mary Marie |
@@ -739,8 +739,8 @@
 | 731 | 311 | SwifftFox |
 | 732 | 310 | Beth Decker |
 | 733 | 310 | Audra Williams |
-| 734 | 310 | Cheeky Brickmatch |
-| 735 | 310 | Wendy Ducheney |
+| 734 | 310 | Wendy Ducheney |
+| 735 | 310 | Cheeky Brickmatch |
 | 736 | 309 | Byung Bae Park |
 | 737 | 308 | Sarah block |
 | 738 | 308 | Hyper Riseclear |
@@ -855,11 +855,11 @@
 | 847 | 267 | David Duncan |
 | 848 | 267 | Candace Cece Joseph |
 | 849 | 266 | Man of Steel |
-| 850 | 266 | Debbie Gerlib-Molinari Leigh |
-| 851 | 266 | Jason Garnatz |
+| 850 | 266 | Jason Garnatz |
+| 851 | 266 | Debbie Gerlib-Molinari Leigh |
 | 852 | 265 | Chummy Breaker |
-| 853 | 265 | Cool Grabber |
-| 854 | 265 | Kray Kray Katelynn |
+| 853 | 265 | Kray Kray Katelynn |
+| 854 | 265 | Cool Grabber |
 | 855 | 265 | Theresa Sterrett |
 | 856 | 265 | trabuco |
 | 857 | 264 | Nicki Stephens |
@@ -918,18 +918,18 @@
 | 910 | 254 | Elizabeth Diraffaele |
 | 911 | 252 | Aleasha M Brown |
 | 912 | 252 | Marget Kay |
-| 913 | 252 | Layna Lyons |
-| 914 | 252 | Amanda Segura |
+| 913 | 252 | Amanda Segura |
+| 914 | 252 | Layna Lyons |
 | 915 | 251 | Bold Clusterfit |
 | 916 | 251 | Regina Unruh |
 | 917 | 251 | Emoniee Sa'niaya |
-| 918 | 251 | Kimmie Zimmerman-Rocha |
-| 919 | 251 | Chipper Dashpiece |
+| 918 | 251 | Chipper Dashpiece |
+| 919 | 251 | Kimmie Zimmerman-Rocha |
 | 920 | 250 | Kay Stevenson |
 | 921 | 250 | Drew Berkelbach |
 | 922 | 249 | J.L. Roberts |
-| 923 | 249 | Joshua Mullings |
-| 924 | 249 | Kamilya Rembert |
+| 923 | 249 | Kamilya Rembert |
+| 924 | 249 | Joshua Mullings |
 | 925 | 249 | Angela Yantz |
 | 926 | 248 | Jaybee Nguyen |
 | 927 | 248 | Angelina Marie |
@@ -967,8 +967,8 @@
 | 959 | 239 | Joel Rosado |
 | 960 | 239 | Amy John Mills |
 | 961 | 238 | Pfc Monei Rivera |
-| 962 | 238 | Kim McGrath |
-| 963 | 238 | Boldy Block |
+| 962 | 238 | Boldy Block |
+| 963 | 238 | Kim McGrath |
 | 964 | 237 | Nutty Matchline |
 | 965 | 237 | Breezy Tilt |
 | 966 | 237 | Devlin Ogg |
@@ -976,8 +976,8 @@
 | 968 | 237 | Jodi Mitnick |
 | 969 | 236 | Nikki Arlene |
 | 970 | 235 | Loopy Shatterfit |
-| 971 | 235 | Angelica |
-| 972 | 235 | B-rad B-rad |
+| 971 | 235 | B-rad B-rad |
+| 972 | 235 | Angelica |
 | 973 | 235 | Prince Ajesh |
 | 974 | 235 | Shantel Kelley |
 | 975 | 234 | Lonnie Brown |
@@ -1024,8 +1024,8 @@
 | 1016 | 225 | Quiksilver |
 | 1017 | 225 | Anastacio Hernandez |
 | 1018 | 225 | Caitlin Johnson |
-| 1019 | 225 | Tyler C. Jung |
-| 1020 | 225 | Samantha Morgan |
+| 1019 | 225 | Samantha Morgan |
+| 1020 | 225 | Tyler C. Jung |
 | 1021 | 224 | Joann |
 | 1022 | 224 | Wil Allen |
 | 1023 | 223 | Erin Garlanger |
@@ -1047,10 +1047,10 @@
 | 1039 | 222 | Angel Moorhead |
 | 1040 | 222 | Lovely |
 | 1041 | 220 | Amy Reynolds |
-| 1042 | 220 | Marcie McLain Dodd |
-| 1043 | 220 | HarleyJane |
-| 1044 | 220 | Sandra McNab |
-| 1045 | 220 | Natalie M Wells |
+| 1042 | 220 | HarleyJane |
+| 1043 | 220 | Marcie McLain Dodd |
+| 1044 | 220 | Natalie M Wells |
+| 1045 | 220 | Sandra McNab |
 | 1046 | 219 | Cathy Bitters |
 | 1047 | 219 | Jenn Morin |
 | 1048 | 219 | Kimberly Ashley-Stevens |

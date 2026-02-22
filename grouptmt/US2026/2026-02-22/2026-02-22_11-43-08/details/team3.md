@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Rachael McClain Owens |
-| 104 | 565 | Patty Allen |
+| 103 | 565 | Patty Allen |
+| 104 | 565 | Rachael McClain Owens |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -171,13 +171,13 @@
 | 163 | 384 | Logan Naccarato |
 | 164 | 382 | Scott Carleton |
 | 165 | 380 | Tasha Schriewer |
-| 166 | 378 | Nicole Flippo |
-| 167 | 378 | Chris Bell |
+| 166 | 378 | Chris Bell |
+| 167 | 378 | Nicole Flippo |
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Santeria Trece Candles |
-| 172 | 370 | Danielle Allison |
+| 171 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -217,16 +217,16 @@
 | 209 | 301 | Chelsea Hall |
 | 210 | 300 | Sherika C. McDaniels |
 | 211 | 298 | MsBee |
-| 212 | 297 | Keis |
-| 213 | 297 | Jojo M |
+| 212 | 297 | Jojo M |
+| 213 | 297 | Keis |
 | 214 | 296 | Ammmmmmy |
 | 215 | 296 | Katrina Turner |
 | 216 | 296 | Brandon Givens |
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 291 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Hoppy Buildout |
-| 221 | 289 | Duane Bright |
+| 220 | 289 | Duane Bright |
+| 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -257,8 +257,8 @@
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
 | 251 | 256 | Brenda Lee Vander Molen |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 250 | fraulila |
 | 255 | 249 | JerseyJess |
 | 256 | 249 | Annie Marie |
@@ -303,19 +303,19 @@
 | 295 | 210 | Lizabeth Fox |
 | 296 | 209 | Micayah Stevens |
 | 297 | 208 | AlsoJess |
-| 298 | 207 | Daring Builder |
-| 299 | 207 | Jessica |
+| 298 | 207 | Jessica |
+| 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
-| 301 | 206 | Stephanie Hill |
-| 302 | 206 | Tammy Rosenberry |
+| 301 | 206 | Tammy Rosenberry |
+| 302 | 206 | Stephanie Hill |
 | 303 | 206 | Tracy Martin |
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
 | 306 | 203 | Angie Harper |
-| 307 | 202 | Staci George Fitzsimmons |
-| 308 | 202 | Tipsy Zonebuilder |
-| 309 | 201 | Alexmac |
-| 310 | 201 | Hyper Matchzone |
+| 307 | 202 | Tipsy Zonebuilder |
+| 308 | 202 | Staci George Fitzsimmons |
+| 309 | 201 | Hyper Matchzone |
+| 310 | 201 | Alexmac |
 | 311 | 200 | glichmod |
 | 312 | 200 | Sharisse Baltimore |
 | 313 | 200 | Saucy Buildout |
@@ -351,14 +351,14 @@
 | 343 | 176 | Melissa Orth Hunter |
 | 344 | 175 | Eileen Brady Thurber |
 | 345 | 174 | Lesley Perez |
-| 346 | 173 | MizzMonick Smith |
-| 347 | 173 | Naur |
-| 348 | 173 | BŘŰŤİÇŨŚ |
-| 349 | 170 | Tina Smith Roy |
-| 350 | 170 | Colleen Phelps |
+| 346 | 173 | BŘŰŤİÇŨŚ |
+| 347 | 173 | MizzMonick Smith |
+| 348 | 173 | Naur |
+| 349 | 170 | Colleen Phelps |
+| 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
@@ -396,8 +396,8 @@
 | 388 | 155 | Michael Leblanc |
 | 389 | 154 | Shanon R Jackson |
 | 390 | 153 | Stefanie LaPointe |
-| 391 | 153 | Sheila M Frazier |
-| 392 | 153 | Tony Waters |
+| 391 | 153 | Tony Waters |
+| 392 | 153 | Sheila M Frazier |
 | 393 | 153 | Lys |
 | 394 | 152 | Silver Marchán |
 | 395 | 152 | Shiny Zonebuilder |

@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -134,8 +134,8 @@
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 289 | Jessica Lynn Cutlip |
 | 128 | 287 | Shannon Ferrari |
-| 129 | 286 | Daria Rycewicz |
-| 130 | 286 | shark tato |
+| 129 | 286 | shark tato |
+| 130 | 286 | Daria Rycewicz |
 | 131 | 283 | Brittney Orengo |
 | 132 | 281 | Meagan Nicole |
 | 133 | 278 | Desi Desporte |
@@ -222,8 +222,8 @@
 | 214 | 179 | Laura Hosford |
 | 215 | 179 | TinyLegoRose |
 | 216 | 175 | Lorena Guerrero-Barron |
-| 217 | 174 | JPW |
-| 218 | 174 | Rio Rocha |
+| 217 | 174 | Rio Rocha |
+| 218 | 174 | JPW |
 | 219 | 173 | Rebecca Morris |
 | 220 | 172 | Gilles Lanctot |
 | 221 | 171 | Autumn Kumzi |
