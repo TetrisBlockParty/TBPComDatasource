@@ -131,8 +131,8 @@
 | 123 | 321 | Maria C. Hernandez |
 | 124 | 321 | Tanya Carpenter-Reynolds |
 | 125 | 318 | Jessica Sheehan |
-| 126 | 316 | Ly Phethmany |
-| 127 | 316 | Dizzy Party |
+| 126 | 316 | Dizzy Party |
+| 127 | 316 | Ly Phethmany |
 | 128 | 313 | Virginia Gray Floyd |
 | 129 | 310 | Seth Wesson |
 | 130 | 308 | Sharon Reynolds |
@@ -151,7 +151,7 @@
 | 143 | 284 | Rachael |
 | 144 | 284 | Emily Adelaide Wheatley |
 | 145 | 283 | Franswa |
-| 146 | 282 | Cool Shiftsnap |
+| 146 | 282 | Snippy Wipebuilder |
 | 147 | 282 | Tyler Werts |
 | 148 | 282 | Timothy Dew |
 | 149 | 282 | Cool Shiftsnap |

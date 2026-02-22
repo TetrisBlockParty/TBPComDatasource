@@ -96,8 +96,8 @@
 | 88 | 704 | Suzieq |
 | 89 | 696 | Christine Niles |
 | 90 | 694 | MissTaylor |
-| 91 | 662 | Speedy Bridger |
-| 92 | 662 | Jay Horn |
+| 91 | 662 | Jay Horn |
+| 92 | 662 | Speedy Bridger |
 | 93 | 641 | Queen Kam |
 | 94 | 638 | Keith J Oshman Jr. |
 | 95 | 635 | Danielle Mogg |

@@ -43,15 +43,15 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 738 | TeeJ |
@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Shannon Ferrari |
-| 93 | 447 | Samantha Peterson |
+| 92 | 447 | Samantha Peterson |
+| 93 | 447 | Shannon Ferrari |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Lindsay Ball |
-| 147 | 281 | Meagan Nicole |
+| 146 | 281 | Meagan Nicole |
+| 147 | 281 | Lindsay Ball |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -240,8 +240,8 @@
 | 232 | 189 | 030Synner |
 | 233 | 189 | Dihcheese444 |
 | 234 | 188 | April Rondinone |
-| 235 | 186 | Cristy Duerksen |
-| 236 | 186 | Holly |
+| 235 | 186 | Holly |
+| 236 | 186 | Cristy Duerksen |
 | 237 | 185 | Laura Hosford |
 | 238 | 184 | Ak Jones |
 | 239 | 184 | Lauren Lamb |
@@ -273,8 +273,8 @@
 | 265 | 162 | John Brunetti |
 | 266 | 161 | Tanner Lund |
 | 267 | 160 | Ellen Durfee |
-| 268 | 159 | DonMega |
-| 269 | 159 | Marcus Todd |
+| 268 | 159 | Marcus Todd |
+| 269 | 159 | DonMega |
 | 270 | 158 | Chair |
 | 271 | 157 | Bethany Ison |
 | 272 | 157 | KayM |
@@ -467,9 +467,9 @@
 | 459 | 97 | Serena Butter |
 | 460 | 97 | Flavoredsausage |
 | 461 | 96 | Rebecca Blake |
-| 462 | 95 | Chirpy Slammer |
+| 462 | 95 | Sunny Filler |
 | 463 | 95 | Susan Williams |
-| 464 | 95 | Sunny Filler |
+| 464 | 95 | Chirpy Slammer |
 | 465 | 95 | RedBoots82 |
 | 466 | 94 | Jeff Roberts |
 | 467 | 94 | Adawna Swires |

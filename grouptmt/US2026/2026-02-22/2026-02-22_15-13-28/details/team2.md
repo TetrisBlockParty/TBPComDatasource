@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Mindy Leigh Head |
-| 107 | 1516 | Stephen Stephen |
+| 106 | 1516 | Stephen Stephen |
+| 107 | 1516 | Mindy Leigh Head |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -186,8 +186,8 @@
 | 178 | 1062 | Crystal Slaughter |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Suki Kaur |
-| 182 | 1043 | Brave Dropmatch |
+| 181 | 1043 | Brave Dropmatch |
+| 182 | 1043 | Suki Kaur |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -577,8 +577,8 @@
 | 569 | 420 | LaWanda Powell |
 | 570 | 420 | Jennifer Scott |
 | 571 | 419 | Pocho Zavala |
-| 572 | 419 | Goofy Catcher |
-| 573 | 419 | Josh Dill |
+| 572 | 419 | Josh Dill |
+| 573 | 419 | Goofy Catcher |
 | 574 | 418 | Snappy snappers |
 | 575 | 417 | Alexx Anaya |
 | 576 | 417 | Michael Artis |
