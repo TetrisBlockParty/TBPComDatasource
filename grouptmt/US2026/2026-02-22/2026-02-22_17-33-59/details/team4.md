@@ -193,8 +193,8 @@
 | 185 | 251 | Matt Summer |
 | 186 | 250 | Matt Dell'Olio |
 | 187 | 247 | Sam Bishop |
-| 188 | 245 | Peachy Fall |
-| 189 | 245 | Andria Lynn |
+| 188 | 245 | Andria Lynn |
+| 189 | 245 | Peachy Fall |
 | 190 | 245 | Autum Leigh |
 | 191 | 244 | Twisty Cascadezone |
 | 192 | 243 | Mr. Party |
@@ -324,8 +324,8 @@
 | 316 | 148 | Nubian1 |
 | 317 | 147 | Jay28 |
 | 318 | 147 | ĥuf |
-| 319 | 147 | Andrew Dang |
-| 320 | 147 | Sticherella |
+| 319 | 147 | Sticherella |
+| 320 | 147 | Andrew Dang |
 | 321 | 146 | Brave Spinbuilder |
 | 322 | 145 | Glitzy Crasher |
 | 323 | 145 | Sandra Safford |
@@ -354,9 +354,9 @@
 | 346 | 138 | Moonsterix |
 | 347 | 138 | Jasmine S Caldwell |
 | 348 | 137 | Carlos Hernandez |
-| 349 | 137 | Lora |
-| 350 | 137 | Brianna Walker |
-| 351 | 137 | Red |
+| 349 | 137 | Red |
+| 350 | 137 | Lora |
+| 351 | 137 | Brianna Walker |
 | 352 | 137 | PeaceOs |
 | 353 | 136 | LunaMoon |
 | 354 | 136 | Michelle Morris |

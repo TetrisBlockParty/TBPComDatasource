@@ -118,8 +118,8 @@
 | 110 | 1519 | Mindy Leigh Head |
 | 111 | 1513 | blackq |
 | 112 | 1509 | Whitney Nicole Waterman |
-| 113 | 1507 | Linda Pierce |
-| 114 | 1507 | Stephanie Chapman |
+| 113 | 1507 | Stephanie Chapman |
+| 114 | 1507 | Linda Pierce |
 | 115 | 1495 | Tj Ball |
 | 116 | 1493 | Mari Ac |
 | 117 | 1489 | Karen Martini-Stapleton |
@@ -249,8 +249,8 @@
 | 241 | 894 | Auntie B |
 | 242 | 892 | Rebecca Doughman |
 | 243 | 890 | Kevin Walp |
-| 244 | 884 | Adira Brown |
-| 245 | 884 | Boldy Cascadepiece |
+| 244 | 884 | Boldy Cascadepiece |
+| 245 | 884 | Adira Brown |
 | 246 | 883 | nikki |
 | 247 | 880 | Sam Joe |
 | 248 | 879 | Tony Lea |
@@ -330,13 +330,13 @@
 | 322 | 711 | Melissa Holsinger |
 | 323 | 704 | Shelley Thornburgh Wright |
 | 324 | 703 | Gold Rose |
-| 325 | 700 | Hong Tang |
-| 326 | 700 | Vincent Petrella |
-| 327 | 700 | Beverly Owens |
-| 328 | 700 | Rosemadder |
+| 325 | 700 | Vincent Petrella |
+| 326 | 700 | Hong Tang |
+| 327 | 700 | Rosemadder |
+| 328 | 700 | Beverly Owens |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Ashle Scranton |
-| 331 | 697 | Dreamy Blast |
+| 330 | 697 | Dreamy Blast |
+| 331 | 697 | Ashle Scranton |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -345,8 +345,8 @@
 | 337 | 688 | Leslie Ann Carter |
 | 338 | 688 | ShinyRose |
 | 339 | 686 | Ashley Guernsey-Martin |
-| 340 | 685 | Brenda Pierpoint |
-| 341 | 685 | Binyah-Binyah |
+| 340 | 685 | Binyah-Binyah |
+| 341 | 685 | Brenda Pierpoint |
 | 342 | 682 | Poldo Ilano |
 | 343 | 680 | blume |
 | 344 | 679 | Kassandra Hunt |
@@ -585,8 +585,8 @@
 | 577 | 438 | Mike Aprilliano |
 | 578 | 437 | Cynthia Louann Rose |
 | 579 | 436 | Kayla |
-| 580 | 435 | Regina Young |
-| 581 | 435 | James Louie |
+| 580 | 435 | James Louie |
+| 581 | 435 | Regina Young |
 | 582 | 434 | Brenda Messer |
 | 583 | 434 | bbv |
 | 584 | 432 | Lucy Marshall |
@@ -596,8 +596,8 @@
 | 588 | 429 | Tabs Reichert |
 | 589 | 428 | Lynda Toland |
 | 590 | 428 | Shyenn Gadsby |
-| 591 | 427 | Sabrina Burton |
-| 592 | 427 | Destiny Cozier |
+| 591 | 427 | Destiny Cozier |
+| 592 | 427 | Sabrina Burton |
 | 593 | 426 | De Hawkins |
 | 594 | 426 | Ashley Dow |
 | 595 | 425 | Samantha Scibelli |

@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Tom Nault |
-| 197 | 372 | Giddy Twistbuilder |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
@@ -309,8 +309,8 @@
 | 301 | 236 | Jess Bissett |
 | 302 | 233 | Tony Waters |
 | 303 | 232 | Donna |
-| 304 | 231 | Kevin Russell |
-| 305 | 231 | Kiki |
+| 304 | 231 | Kiki |
+| 305 | 231 | Kevin Russell |
 | 306 | 230 | BigE |
 | 307 | 228 | Naur |
 | 308 | 227 | Rebel124 |

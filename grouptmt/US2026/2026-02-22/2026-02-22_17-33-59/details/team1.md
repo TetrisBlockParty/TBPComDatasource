@@ -147,8 +147,8 @@
 | 139 | 308 | Erin Hodges Plumb |
 | 140 | 308 | Sharon Reynolds |
 | 141 | 307 | Kimberly Garcia |
-| 142 | 306 | Bloknboy |
-| 143 | 306 | Happy Basegrid |
+| 142 | 306 | Happy Basegrid |
+| 143 | 306 | Bloknboy |
 | 144 | 304 | Nicole Roseberry Weber |
 | 145 | 303 | Chelsea Dahlquist |
 | 146 | 301 | Lehrin Maria |
