@@ -206,8 +206,8 @@
 | 198 | 993 | Eric Carlson |
 | 199 | 992 | Ashley Rose Frederick |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Teddi Notyalc |
-| 202 | 989 | Desiree Harris Rosch |
+| 201 | 989 | Desiree Harris Rosch |
+| 202 | 989 | Teddi Notyalc |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -231,8 +231,8 @@
 | 223 | 919 | Joshua Mandel |
 | 224 | 919 | Isaac Trappiel IV |
 | 225 | 916 | Butta |
-| 226 | 915 | Robin Kerby |
-| 227 | 915 | Angela Bonquiqui Dinish |
+| 226 | 915 | Angela Bonquiqui Dinish |
+| 227 | 915 | Robin Kerby |
 | 228 | 915 | Kelly Trent |
 | 229 | 910 | Shuany Arias |
 | 230 | 907 | Gene Mills |
@@ -354,8 +354,8 @@
 | 346 | 664 | Sleepypanda67 |
 | 347 | 663 | Mandi Douglas Hilt |
 | 348 | 662 | Melissa Rebbe-Lehman |
-| 349 | 661 | BeQuo |
-| 350 | 661 | goofinoff |
+| 349 | 661 | goofinoff |
+| 350 | 661 | BeQuo |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
 | 353 | 650 | Amber Brion |
@@ -585,8 +585,8 @@
 | 577 | 429 | Tabs Reichert |
 | 578 | 428 | Lynda Toland |
 | 579 | 428 | Shyenn Gadsby |
-| 580 | 427 | Sabrina Burton |
-| 581 | 427 | Destiny Cozier |
+| 580 | 427 | Destiny Cozier |
+| 581 | 427 | Sabrina Burton |
 | 582 | 426 | De Hawkins |
 | 583 | 426 | Ashley Dow |
 | 584 | 424 | Saucy Fitzone |
@@ -892,8 +892,8 @@
 | 884 | 280 | Sandra Link-Gable |
 | 885 | 279 | Katherin Camacho |
 | 886 | 279 | Laura Wyatt |
-| 887 | 279 | Jennifer Coe |
-| 888 | 279 | Synn |
+| 887 | 279 | Synn |
+| 888 | 279 | Jennifer Coe |
 | 889 | 279 | FloJo |
 | 890 | 278 | Amanda Segura |
 | 891 | 278 | AndrewandShela Gornik |

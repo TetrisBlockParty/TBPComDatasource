@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -221,8 +221,8 @@
 | 213 | 209 | Sam Bishop |
 | 214 | 208 | Stacey Stano |
 | 215 | 208 | scott |
-| 216 | 208 | Oscar Alberto Perez |
-| 217 | 208 | Dizzy Matchzone |
+| 216 | 208 | Dizzy Matchzone |
+| 217 | 208 | Oscar Alberto Perez |
 | 218 | 207 | Chirpy Basepiece |
 | 219 | 206 | Kim Klutz Olson |
 | 220 | 204 | Carlos Ramirez |
@@ -294,8 +294,8 @@
 | 286 | 153 | Shainne Brewer |
 | 287 | 153 | Empress Oasis |
 | 288 | 152 | Jared Gutwein |
-| 289 | 152 | Angela Geist Jusinski |
-| 290 | 152 | Faja |
+| 289 | 152 | Faja |
+| 290 | 152 | Angela Geist Jusinski |
 | 291 | 151 | Shanon Klair |
 | 292 | 151 | Joseph Pace |
 | 293 | 151 | Amanda Christine |

@@ -109,8 +109,8 @@
 | 101 | 389 | Nery Martinez |
 | 102 | 383 | pjbeta |
 | 103 | 380 | Dee Perry |
-| 104 | 379 | Austin James |
-| 105 | 379 | Kimmie Kimms |
+| 104 | 379 | Kimmie Kimms |
+| 105 | 379 | Austin James |
 | 106 | 376 | lil mickey |
 | 107 | 374 | Tinah Montanna |
 | 108 | 364 | Shauna Loe |
@@ -129,8 +129,8 @@
 | 121 | 334 | Jaimie Lynn |
 | 122 | 333 | Gracie |
 | 123 | 332 | Kristen Gideon |
-| 124 | 330 | Elaine Elaine |
-| 125 | 330 | Sweet Baker |
+| 124 | 330 | Sweet Baker |
+| 125 | 330 | Elaine Elaine |
 | 126 | 326 | Monica Donato |
 | 127 | 325 | Jennifer Hardman |
 | 128 | 322 | Fmp |
@@ -231,8 +231,8 @@
 | 223 | 207 | Brenda Alexander |
 | 224 | 206 | BadG52 |
 | 225 | 205 | Tater |
-| 226 | 204 | Jason Savage |
-| 227 | 204 | Lacy Wolfe |
+| 226 | 204 | Lacy Wolfe |
+| 227 | 204 | Jason Savage |
 | 228 | 202 | Amanda Holibaugh |
 | 229 | 201 | Colleen Wise |
 | 230 | 200 | Breanna Luna |
@@ -243,7 +243,7 @@
 | 235 | 198 | Adele Rahman |
 | 236 | 198 | Happy Snapbuild |
 | 237 | 198 | Shiny Gridmatch |
-| 238 | 198 | Adele Rahman |
+| 238 | 198 | Melissa Lemmon |
 | 239 | 195 | Jennifer Olewnik Soborowski |
 | 240 | 194 | Andrew Boone |
 | 241 | 194 | Erin Rosberg |
@@ -283,13 +283,13 @@
 | 275 | 177 | Irual Hctrab |
 | 276 | 175 | John Barron |
 | 277 | 175 | Kellie Tunstall |
-| 278 | 174 | Tavia |
-| 279 | 174 | Alex Gauthier |
+| 278 | 174 | Alex Gauthier |
+| 279 | 174 | Tavia |
 | 280 | 173 | Cranky Pattern |
 | 281 | 173 | Rico Rico |
 | 282 | 171 | Greg Premoe |
 | 283 | 171 | Chris65 |
-| 284 | 170 | Наталья Солоид |
+| 284 | 170 | Tina Englert |
 | 285 | 170 | Spunky Builderpiece |
 | 286 | 170 | Наталья Солоид |
 | 287 | 169 | Allena Craft |
