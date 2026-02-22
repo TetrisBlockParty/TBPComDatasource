@@ -128,8 +128,8 @@
 | 120 | 579 | Jd Morris |
 | 121 | 574 | Morgan Martinez |
 | 122 | 568 | Rachael McClain Owens |
-| 123 | 562 | Louise Stacy Sisson |
-| 124 | 562 | Dave Herzog |
+| 123 | 562 | Dave Herzog |
+| 124 | 562 | Louise Stacy Sisson |
 | 125 | 551 | Alaina Lee |
 | 126 | 550 | Nicole Myers |
 | 127 | 546 | Domo Washington |
@@ -168,10 +168,10 @@
 | 160 | 447 | FuzzyNavel |
 | 161 | 445 | Jacqueline Rodriguez |
 | 162 | 438 | Valerie Gendron |
-| 163 | 432 | Luciana Braganca Vieira |
-| 164 | 432 | Jenny Hrndz |
-| 165 | 430 | Tasha Gillespie |
-| 166 | 430 | Jeni Dow |
+| 163 | 432 | Jenny Hrndz |
+| 164 | 432 | Luciana Braganca Vieira |
+| 165 | 430 | Jeni Dow |
+| 166 | 430 | Tasha Gillespie |
 | 167 | 430 | Joye Sims Binion |
 | 168 | 427 | Danielle Balcom |
 | 169 | 427 | Wendy Dearden |

@@ -126,8 +126,8 @@
 | 118 | 360 | Wisa |
 | 119 | 360 | phrmblk24 |
 | 120 | 359 | Chirpy Smasher |
-| 121 | 357 | Amanda Johnson Huffman |
-| 122 | 357 | Dandy Basegrid |
+| 121 | 357 | Dandy Basegrid |
+| 122 | 357 | Amanda Johnson Huffman |
 | 123 | 355 | Hasbro Bros |
 | 124 | 352 | Jason Jones |
 | 125 | 350 | Tipsy Strikerpiece |
@@ -205,8 +205,8 @@
 | 197 | 242 | John Kim |
 | 198 | 241 | John J. Cronin |
 | 199 | 240 | DaRascal |
-| 200 | 239 | Sam Williams |
-| 201 | 239 | Lacy Wolfe |
+| 200 | 239 | Lacy Wolfe |
+| 201 | 239 | Sam Williams |
 | 202 | 238 | Tiffany Smith |
 | 203 | 237 | Veronica Eve |
 | 204 | 236 | femmefatale |
@@ -471,7 +471,7 @@
 | 463 | 110 | Jeremy Maubert |
 | 464 | 110 | Robert Benitez |
 | 465 | 109 | Nicolette Ivory Chastain |
-| 466 | 108 | Meechie |
+| 466 | 108 | Owicked1 |
 | 467 | 108 | Stoney Smith |
 | 468 | 108 | Meechie |
 | 469 | 108 | Lisa Marie |

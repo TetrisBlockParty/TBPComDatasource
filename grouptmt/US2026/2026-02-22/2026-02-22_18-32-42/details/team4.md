@@ -196,22 +196,22 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | jim |
-| 192 | 247 | Dennis Bradley |
+| 191 | 247 | Dennis Bradley |
+| 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
-| 195 | 245 | Autum Leigh |
-| 196 | 245 | 23 |
+| 195 | 245 | 23 |
+| 196 | 245 | Autum Leigh |
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
-| 200 | 241 | Allen Lloyd |
-| 201 | 241 | Lindsey Gonzalez |
+| 200 | 241 | Lindsey Gonzalez |
+| 201 | 241 | Allen Lloyd |
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | Ruben Wheeler |
-| 206 | 233 | April Rondinone |
+| 205 | 233 | April Rondinone |
+| 206 | 233 | Ruben Wheeler |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |

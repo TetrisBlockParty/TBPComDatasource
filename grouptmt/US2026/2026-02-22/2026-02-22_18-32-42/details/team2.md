@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Adira Brown |
-| 249 | 884 | Boldy Cascadepiece |
+| 248 | 884 | Boldy Cascadepiece |
+| 249 | 884 | Adira Brown |
 | 250 | 883 | nikki |
 | 251 | 880 | Sam Joe |
 | 252 | 879 | Tony Lea |
@@ -824,10 +824,10 @@
 | 816 | 319 | RetroLemur |
 | 817 | 319 | Cheery Puzzler |
 | 818 | 319 | Giggly Snap |
-| 819 | 318 | Ashlyn Berner |
-| 820 | 318 | Jeffrey Barrows |
-| 821 | 317 | Zombi3 |
-| 822 | 317 | R |
+| 819 | 318 | Jeffrey Barrows |
+| 820 | 318 | Ashlyn Berner |
+| 821 | 317 | R |
+| 822 | 317 | Zombi3 |
 | 823 | 317 | Donald Nowland |
 | 824 | 317 | Jumpy Gridclear |
 | 825 | 316 | Epic Spinfit |
