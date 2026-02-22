@@ -140,15 +140,15 @@
 | 132 | 199 | Jennifer Hardman |
 | 133 | 198 | Happy Snapbuild |
 | 134 | 195 | Daring Fitclear |
-| 135 | 194 | Tyler Werts |
-| 136 | 194 | Ash Galvan |
+| 135 | 194 | Ash Galvan |
+| 136 | 194 | Tyler Werts |
 | 137 | 193 | Shiny Gridmatch |
 | 138 | 193 | Lachelle Dillon |
 | 139 | 192 | Jessica Sheehan |
 | 140 | 192 | Shaykmia |
 | 141 | 191 | Diane Byrd |
-| 142 | 190 | Thorne Shumate |
-| 143 | 190 | Sweetts |
+| 142 | 190 | Sweetts |
+| 143 | 190 | Thorne Shumate |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
 | 146 | 186 | Katie Daniels |

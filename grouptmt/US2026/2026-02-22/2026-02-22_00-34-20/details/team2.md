@@ -449,8 +449,8 @@
 | 441 | 353 | Cheery Matchzone |
 | 442 | 352 | Jean FU Jagielski |
 | 443 | 352 | ruth |
-| 444 | 350 | Chris Harr |
-| 445 | 350 | Jessica Lamb |
+| 444 | 350 | Jessica Lamb |
+| 445 | 350 | Chris Harr |
 | 446 | 350 | Fi Ne |
 | 447 | 350 | F-X |
 | 448 | 348 | Richard Horton |
@@ -508,8 +508,8 @@
 | 500 | 314 | Party d |
 | 501 | 313 | Natasha Edmonds |
 | 502 | 312 | Michelle Pike |
-| 503 | 312 | Justin Hines |
-| 504 | 312 | Andrea Maher |
+| 503 | 312 | Andrea Maher |
+| 504 | 312 | Justin Hines |
 | 505 | 311 | Kitybox |
 | 506 | 311 | Mary Marie |
 | 507 | 310 | Lonne Emade |
@@ -520,8 +520,8 @@
 | 512 | 308 | Christina Jarvis-Swarbrick |
 | 513 | 308 | Ann Knutson Anderson |
 | 514 | 307 | Diallo Sparkman |
-| 515 | 305 | Samantha Scibelli |
-| 516 | 305 | Angela Murgia-Owen |
+| 515 | 305 | Angela Murgia-Owen |
+| 516 | 305 | Samantha Scibelli |
 | 517 | 305 | Zany Clusterbuilder |
 | 518 | 305 | Libby Hicks |
 | 519 | 304 | Michelle Shrum |

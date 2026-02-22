@@ -65,12 +65,12 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
