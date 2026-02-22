@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -129,8 +129,8 @@
 | 121 | 369 | Nope Young |
 | 122 | 362 | Carrie Brian |
 | 123 | 356 | Serena Goodridge |
-| 124 | 353 | Livvy |
-| 125 | 353 | Tyler Terrific |
+| 124 | 353 | Tyler Terrific |
+| 125 | 353 | Livvy |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
 | 128 | 338 | Lucas J Sutton |
@@ -159,15 +159,15 @@
 | 151 | 294 | Calvin Cannon |
 | 152 | 294 | Meagan Nicole |
 | 153 | 290 | Keshia Lyons |
-| 154 | 290 | 🥔🥔 Spudz |
-| 155 | 290 | Chaz Duncan |
+| 154 | 290 | Chaz Duncan |
+| 155 | 290 | 🥔🥔 Spudz |
 | 156 | 288 | Leah Kutz Zirbel |
-| 157 | 286 | Brittney Orengo |
-| 158 | 286 | shark tato |
+| 157 | 286 | shark tato |
+| 158 | 286 | Brittney Orengo |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
-| 161 | 277 | Mary Ann Pabukis |
-| 162 | 277 | Cursed Hag |
+| 161 | 277 | Cursed Hag |
+| 162 | 277 | Mary Ann Pabukis |
 | 163 | 276 | Alyssa Papen |
 | 164 | 275 | Trista Leah |
 | 165 | 273 | Crystal Nicolette Moore |
@@ -196,8 +196,8 @@
 | 188 | 247 | Sam Bishop |
 | 189 | 247 | Dennis Bradley |
 | 190 | 245 | Autum Leigh |
-| 191 | 245 | Andria Lynn |
-| 192 | 245 | Peachy Fall |
+| 191 | 245 | Peachy Fall |
+| 192 | 245 | Andria Lynn |
 | 193 | 244 | Twisty Cascadezone |
 | 194 | 243 | Mr. Party |
 | 195 | 242 | Chirpy Basepiece |
@@ -441,8 +441,8 @@
 | 433 | 114 | The Murphy |
 | 434 | 113 | Sharyn Lemire |
 | 435 | 113 | @ |
-| 436 | 113 | Sharyn Lemire |
-| 437 | 113 | Peppy Strike |
+| 436 | 113 | Peppy Strike |
+| 437 | 113 | Stephanie Mico |
 | 438 | 113 | Michael Orris |
 | 439 | 113 | Dandy Cascadefit |
 | 440 | 112 | Jarred Falls |

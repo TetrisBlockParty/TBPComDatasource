@@ -127,8 +127,8 @@
 | 119 | 355 | Hasbro Bros |
 | 120 | 354 | phrmblk24 |
 | 121 | 352 | Jason Jones |
-| 122 | 350 | Tipsy Strikerpiece |
-| 123 | 350 | Sweet Baker |
+| 122 | 350 | Sweet Baker |
+| 123 | 350 | Tipsy Strikerpiece |
 | 124 | 344 | Bhelle Sumile |
 | 125 | 343 | Death |
 | 126 | 341 | Nick R Montague |
@@ -150,8 +150,8 @@
 | 142 | 308 | Erin Hodges Plumb |
 | 143 | 308 | Sharon Reynolds |
 | 144 | 307 | Kimberly Garcia |
-| 145 | 306 | Happy Basegrid |
-| 146 | 306 | Bloknboy |
+| 145 | 306 | Bloknboy |
+| 146 | 306 | Happy Basegrid |
 | 147 | 304 | Constance Risner |
 | 148 | 304 | Nicole Roseberry Weber |
 | 149 | 303 | Chelsea Dahlquist |

@@ -230,8 +230,8 @@
 | 222 | 337 | Philip Rock |
 | 223 | 332 | Rich LeBlanc |
 | 224 | 330 | Rebecca Funderburk Kirby |
-| 225 | 324 | Sissy Lowery Davis |
-| 226 | 324 | Kristal C Lee |
+| 225 | 324 | Kristal C Lee |
+| 226 | 324 | Sissy Lowery Davis |
 | 227 | 323 | Demetrious Shaw Sr. |
 | 228 | 323 | Melissa Orth Hunter |
 | 229 | 321 | Rebecca Bailey |
@@ -269,8 +269,8 @@
 | 261 | 278 | Rufus Lincoln |
 | 262 | 277 | Tracy Martin |
 | 263 | 276 | Crimson |
-| 264 | 276 | Connie Mohler-Fair |
-| 265 | 276 | _melisa223_ |
+| 264 | 276 | _melisa223_ |
+| 265 | 276 | Connie Mohler-Fair |
 | 266 | 275 | Cassandra Bryant |
 | 267 | 273 | Troy |
 | 268 | 272 | fraulila |
@@ -311,8 +311,8 @@
 | 303 | 236 | Lys |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kevin Russell |
-| 307 | 231 | Kiki |
+| 306 | 231 | Kiki |
+| 307 | 231 | Kevin Russell |
 | 308 | 230 | BigE |
 | 309 | 228 | Beaudie Stroebel |
 | 310 | 228 | Naur |
@@ -359,8 +359,8 @@
 | 351 | 209 | TotoCherue |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | angieelyn |
-| 355 | 207 | Kristian Thurman |
+| 354 | 207 | Kristian Thurman |
+| 355 | 207 | angieelyn |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 205 | Emma |

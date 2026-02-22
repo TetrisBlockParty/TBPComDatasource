@@ -914,8 +914,8 @@
 | 906 | 285 | Kimberly Mitchell |
 | 907 | 285 | Reece Smith |
 | 908 | 285 | Candace Cece Joseph |
-| 909 | 284 | Josh Webster |
-| 910 | 284 | Loopy Shatterfit |
+| 909 | 284 | Loopy Shatterfit |
+| 910 | 284 | Josh Webster |
 | 911 | 284 | Hillary Franklin |
 | 912 | 284 | Candice Mack |
 | 913 | 282 | Bec |
