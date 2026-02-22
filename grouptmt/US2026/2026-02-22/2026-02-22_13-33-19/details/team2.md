@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Tesha Oldaker |
-| 257 | 777 | Jessicah Myers |
+| 256 | 777 | Jessicah Myers |
+| 257 | 777 | Tesha Oldaker |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -305,8 +305,8 @@
 | 297 | 697 | Dreamy Blast |
 | 298 | 696 | Jánine Riggs |
 | 299 | 695 | Lakeysha Dortch |
-| 300 | 692 | Jennifer Casey-Kay |
-| 301 | 692 | Dannette Goldberg-Richards |
+| 300 | 692 | Dannette Goldberg-Richards |
+| 301 | 692 | Jennifer Casey-Kay |
 | 302 | 691 | Joce Lynn |
 | 303 | 690 | Deborah Miller |
 | 304 | 689 | Giggy Blocker |
@@ -314,8 +314,8 @@
 | 306 | 688 | ShinyRose |
 | 307 | 687 | Dee |
 | 308 | 686 | Ashley Guernsey-Martin |
-| 309 | 685 | Binyah-Binyah |
-| 310 | 685 | Brenda Pierpoint |
+| 309 | 685 | Brenda Pierpoint |
+| 310 | 685 | Binyah-Binyah |
 | 311 | 681 | Melissa Holsinger |
 | 312 | 679 | Eric Castaneda |
 | 313 | 679 | Kassandra Hunt |
@@ -699,11 +699,11 @@
 | 691 | 337 | Sassy Pattern |
 | 692 | 337 | Tum |
 | 693 | 337 | Savannah Alexander |
-| 694 | 336 | bru |
-| 695 | 336 | Austin Wilson |
+| 694 | 336 | Austin Wilson |
+| 695 | 336 | bru |
 | 696 | 336 | Swanky Columnbuilder |
-| 697 | 335 | Alexandrea |
-| 698 | 335 | Brooke Leigh Strube |
+| 697 | 335 | Brooke Leigh Strube |
+| 698 | 335 | Alexandrea |
 | 699 | 335 | Maria Louise |
 | 700 | 334 | Melissa James |
 | 701 | 333 | Woodys Glass |
@@ -712,10 +712,10 @@
 | 704 | 330 | Toni Roberson |
 | 705 | 330 | Jennifer Monroe Kelly |
 | 706 | 329 | Chummy Blockbuilder |
-| 707 | 329 | Snappy Shatterfit |
-| 708 | 329 | Jane Crew |
-| 709 | 328 | BabyBird |
-| 710 | 328 | Jamie Carter Bierce |
+| 707 | 329 | Jane Crew |
+| 708 | 329 | Snappy Shatterfit |
+| 709 | 328 | Jamie Carter Bierce |
+| 710 | 328 | BabyBird |
 | 711 | 326 | Ann Knutson Anderson |
 | 712 | 325 | Justin Hines |
 | 713 | 325 | Mike73 |
@@ -756,8 +756,8 @@
 | 748 | 310 | Wendy Ducheney |
 | 749 | 310 | Beth Decker |
 | 750 | 309 | Byung Bae Park |
-| 751 | 308 | Claire |
-| 752 | 308 | Sarah block |
+| 751 | 308 | Sarah block |
+| 752 | 308 | Claire |
 | 753 | 308 | Katie Joy McCombs |
 | 754 | 308 | Hyper Riseclear |
 | 755 | 306 | Kiorah Blaze |

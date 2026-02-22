@@ -341,8 +341,8 @@
 | 333 | 191 | Becca Engle |
 | 334 | 191 | Philip Rock |
 | 335 | 189 | Katie Leigh Blankenship |
-| 336 | 188 | Romeo |
-| 337 | 188 | Loopy Fallmatch |
+| 336 | 188 | Loopy Fallmatch |
+| 337 | 188 | Romeo |
 | 338 | 186 | Bryan Byrd |
 | 339 | 186 | Noettín Kan Zasnemoore |
 | 340 | 186 | Sameerah Smith |

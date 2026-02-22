@@ -122,8 +122,8 @@
 | 114 | 330 | Sweet Baker |
 | 115 | 326 | Monica Donato |
 | 116 | 321 | Maria C. Hernandez |
-| 117 | 319 | Jason Jones |
-| 118 | 319 | Patrick Luckenbill |
+| 117 | 319 | Patrick Luckenbill |
+| 118 | 319 | Jason Jones |
 | 119 | 318 | Jessica Sheehan |
 | 120 | 316 | Ly Phethmany |
 | 121 | 316 | Dizzy Party |
@@ -135,8 +135,8 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Elaine Elaine |
-| 131 | 300 | Chelsea Dahlquist |
+| 130 | 300 | Chelsea Dahlquist |
+| 131 | 300 | Elaine Elaine |
 | 132 | 298 | Erin Hodges Plumb |
 | 133 | 290 | Sarah Roberts |
 | 134 | 290 | Death |
@@ -145,10 +145,10 @@
 | 137 | 284 | Rachael |
 | 138 | 284 | Emily Adelaide Wheatley |
 | 139 | 283 | Franswa |
-| 140 | 282 | Snippy Wipebuilder |
+| 140 | 282 | Cool Shiftsnap |
 | 141 | 282 | Tyler Werts |
-| 142 | 282 | Timothy Dew |
-| 143 | 282 | Cool Shiftsnap |
+| 142 | 282 | Snippy Wipebuilder |
+| 143 | 282 | Timothy Dew |
 | 144 | 276 | Dandy Basegrid |
 | 145 | 271 | Jaimie Lynn |
 | 146 | 270 | Mandyy Rae |
@@ -218,8 +218,8 @@
 | 210 | 199 | Alenoush Karimian |
 | 211 | 198 | Happy Snapbuild |
 | 212 | 198 | Shiny Gridmatch |
-| 213 | 195 | Jennifer Olewnik Soborowski |
-| 214 | 195 | Bindi |
+| 213 | 195 | Bindi |
+| 214 | 195 | Jennifer Olewnik Soborowski |
 | 215 | 194 | Christy Jones |
 | 216 | 194 | Desiree Deschaine Havee |
 | 217 | 193 | Michael |
@@ -238,8 +238,8 @@
 | 230 | 187 | Cool Towerzone |
 | 231 | 186 | Margo Wagner |
 | 232 | 184 | Chris Sigurdson |
-| 233 | 183 | Amy Hess |
-| 234 | 183 | Andrew Boone |
+| 233 | 183 | Andrew Boone |
+| 234 | 183 | Amy Hess |
 | 235 | 182 | Phu ckalldems |
 | 236 | 181 | Melissa Lemmon |
 | 237 | 180 | Beau Galvan |
@@ -265,8 +265,8 @@
 | 257 | 171 | David DeSantis |
 | 258 | 171 | Greg Premoe |
 | 259 | 170 | Standia Civil |
-| 260 | 170 | Tina Englert |
-| 261 | 170 | Spunky Builderpiece |
+| 260 | 170 | Spunky Builderpiece |
+| 261 | 170 | Tina Englert |
 | 262 | 169 | Abbey Crespo |
 | 263 | 168 | Angela Fairbank |
 | 264 | 168 | Brave Wrecker |
@@ -293,8 +293,8 @@
 | 285 | 152 | Tavia |
 | 286 | 152 | Speedy Snapfall |
 | 287 | 152 | Strig |
-| 288 | 151 | Bruce Cruz |
-| 289 | 151 | Gilbert Ortiz Jr. |
+| 288 | 151 | Gilbert Ortiz Jr. |
+| 289 | 151 | Bruce Cruz |
 | 290 | 150 | Agustin Duarte Orozco |
 | 291 | 150 | Barrbaric |
 | 292 | 150 | Plucky Stacky |
