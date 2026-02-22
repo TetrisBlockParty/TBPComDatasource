@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Cool Shiftsnap |
 | 131 | 282 | Timothy Dew |
@@ -167,13 +167,13 @@
 | 159 | 230 | Billie Dawn Sparks |
 | 160 | 230 | Frothy Pattern |
 | 161 | 229 | David Lutcher |
-| 162 | 226 | Kandae |
-| 163 | 226 | Sleepysloath5745 |
+| 162 | 226 | Sleepysloath5745 |
+| 163 | 226 | Kandae |
 | 164 | 224 | Dizzy Party |
 | 165 | 218 | LC |
 | 166 | 217 | ParisandCory Champagne |
-| 167 | 216 | MRdot Rooski |
-| 168 | 216 | Shauntina Burke |
+| 167 | 216 | Shauntina Burke |
+| 168 | 216 | MRdot Rooski |
 | 169 | 215 | Sam Williams |
 | 170 | 214 | Chirpy Smasher |
 | 171 | 213 | Daring Fitclear |
@@ -195,8 +195,8 @@
 | 187 | 203 | Paula Martin |
 | 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | Breanna Luna |
-| 191 | 200 | DaRascal |
+| 190 | 200 | DaRascal |
+| 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Happy Snapbuild |
 | 194 | 198 | Shiny Gridmatch |
@@ -272,12 +272,12 @@
 | 264 | 145 | Tipsy Riseclear |
 | 265 | 145 | Rachel Nichole Henry |
 | 266 | 144 | Toph |
-| 267 | 144 | Miguel Teixeira |
-| 268 | 144 | Fmp |
-| 269 | 144 | Barrbaric |
-| 270 | 143 | Guest |
-| 271 | 143 | Herm Junior |
-| 272 | 143 | Chantelle Ceno |
+| 267 | 144 | Fmp |
+| 268 | 144 | Barrbaric |
+| 269 | 144 | Miguel Teixeira |
+| 270 | 143 | Chantelle Ceno |
+| 271 | 143 | Guest |
+| 272 | 143 | Herm Junior |
 | 273 | 142 | Jerry Danowski |
 | 274 | 141 | Kayla Marie Stevenson |
 | 275 | 140 | Tawnya Peltonen |

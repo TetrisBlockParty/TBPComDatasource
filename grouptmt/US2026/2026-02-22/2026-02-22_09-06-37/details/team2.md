@@ -296,8 +296,8 @@
 | 288 | 685 | Binyah-Binyah |
 | 289 | 681 | Melissa Holsinger |
 | 290 | 679 | Offonar Facey |
-| 291 | 679 | Dee |
-| 292 | 679 | Brenda Utphall |
+| 291 | 679 | Brenda Utphall |
+| 292 | 679 | Dee |
 | 293 | 678 | Scott Treadway |
 | 294 | 677 | Mema |
 | 295 | 676 | Poldo Ilano |
@@ -307,8 +307,8 @@
 | 299 | 670 | Kassandra Hunt |
 | 300 | 669 | Charvi' Carter |
 | 301 | 666 | Speedy Spinblock |
-| 302 | 663 | Ashle Scranton |
-| 303 | 663 | Mandi Douglas Hilt |
+| 302 | 663 | Mandi Douglas Hilt |
+| 303 | 663 | Ashle Scranton |
 | 304 | 661 | Ginger |
 | 305 | 659 | Draizen Montrell Thomas |
 | 306 | 659 | Roseanna Peloso |
@@ -318,8 +318,8 @@
 | 310 | 650 | Shiny Rollzone |
 | 311 | 645 | tejas25 |
 | 312 | 643 | Hoppy Brickmatch |
-| 313 | 641 | Joce Lynn |
-| 314 | 641 | Angie Bolton Workman |
+| 313 | 641 | Angie Bolton Workman |
+| 314 | 641 | Joce Lynn |
 | 315 | 640 | BYM4L |
 | 316 | 639 | Crystie Hicks |
 | 317 | 639 | Rebecca Miller |
@@ -352,8 +352,8 @@
 | 344 | 583 | Bri Lynn |
 | 345 | 582 | Gary Stash |
 | 346 | 581 | Jerry Tempelmeyer |
-| 347 | 579 | AgileDragon |
-| 348 | 579 | Jackie Avila |
+| 347 | 579 | Jackie Avila |
+| 348 | 579 | AgileDragon |
 | 349 | 579 | Roy Salyer |
 | 350 | 579 | Juliana Marques Do Nascimento Gordy |
 | 351 | 576 | Leslie Johnson Guinto |
@@ -377,8 +377,8 @@
 | 369 | 541 | g |
 | 370 | 538 | AISlop |
 | 371 | 537 | Cherica Taylor |
-| 372 | 535 | Jessie McDougald |
-| 373 | 535 | Paul Huber |
+| 372 | 535 | Paul Huber |
+| 373 | 535 | Jessie McDougald |
 | 374 | 533 | Gauri Shrotriya |
 | 375 | 531 | Dizzy Zone |
 | 376 | 531 | Emily Lyric Converse |
@@ -644,8 +644,8 @@
 | 636 | 354 | Rachel Kaminski |
 | 637 | 352 | Rose Fx |
 | 638 | 352 | Jean FU Jagielski |
-| 639 | 352 | Mikayala Szaz |
-| 640 | 352 | ruth |
+| 639 | 352 | ruth |
+| 640 | 352 | Mikayala Szaz |
 | 641 | 351 | Connie Jimenez |
 | 642 | 350 | Fi Ne |
 | 643 | 350 | Chris Harr |

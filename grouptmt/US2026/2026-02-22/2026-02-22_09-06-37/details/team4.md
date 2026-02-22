@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -124,8 +124,8 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
@@ -191,9 +191,9 @@
 | 183 | 198 | Jessica Lynn Cutlip |
 | 184 | 198 | Keith Kelley |
 | 185 | 196 | Oscar Alberto Perez |
-| 186 | 195 | ZeeZee |
-| 187 | 195 | 中山成巳 |
-| 188 | 195 | Malakai Darien Fox |
+| 186 | 195 | Malakai Darien Fox |
+| 187 | 195 | ZeeZee |
+| 188 | 195 | 中山成巳 |
 | 189 | 194 | Zany Twisterfit |
 | 190 | 192 | Shauna Havard |
 | 191 | 191 | Sam Bishop |
@@ -224,8 +224,8 @@
 | 216 | 165 | Jackie Marie |
 | 217 | 164 | 030Synner |
 | 218 | 163 | Kristina Black |
-| 219 | 162 | Joanna |
-| 220 | 162 | John Brunetti |
+| 219 | 162 | John Brunetti |
+| 220 | 162 | Joanna |
 | 221 | 161 | Jenny Wells-Oakley |
 | 222 | 160 | Laura Hosford |
 | 223 | 160 | Carlos Ramirez |
