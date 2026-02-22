@@ -148,8 +148,8 @@
 | 140 | 399 | Marcie Bressler |
 | 141 | 397 | Annie Déè |
 | 142 | 396 | Aaron Pitkin |
-| 143 | 392 | Tasha Gillespie |
-| 144 | 392 | Katie Knaus |
+| 143 | 392 | Katie Knaus |
+| 144 | 392 | Tasha Gillespie |
 | 145 | 391 | Calista Jo Dickson |
 | 146 | 390 | Hasty Cascadefit |
 | 147 | 389 | Jeni Dow |
@@ -187,8 +187,8 @@
 | 179 | 308 | Rania Zaqout |
 | 180 | 307 | Blocked |
 | 181 | 307 | rnr junky |
-| 182 | 301 | Stephanie Burtin |
-| 183 | 301 | Chelsea Hall |
+| 182 | 301 | Chelsea Hall |
+| 183 | 301 | Stephanie Burtin |
 | 184 | 300 | Sherika C. McDaniels |
 | 185 | 300 | Araceli Parra |
 | 186 | 298 | MsBee |
