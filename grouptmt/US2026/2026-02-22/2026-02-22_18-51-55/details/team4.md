@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -131,16 +131,16 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | ThaEviLJeNiuZ |
 | 131 | 338 | Lucas J Sutton |
 | 132 | 336 | Austin Owens |
 | 133 | 336 | Jessica Bohlken |
-| 134 | 332 | HastyGrabber |
-| 135 | 332 | Desi Desporte |
+| 134 | 332 | Desi Desporte |
+| 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
 | 137 | 328 | Kris Bartlett |
 | 138 | 328 | Leslie Nicole |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Kathy Brookins |
-| 177 | 267 | Holly |
+| 176 | 267 | Holly |
+| 177 | 267 | Kathy Brookins |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -202,8 +202,8 @@
 | 194 | 245 | 23 |
 | 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Twisty Cascadezone |
-| 198 | 244 | Lindsey Gonzalez |
+| 197 | 244 | Lindsey Gonzalez |
+| 198 | 244 | Twisty Cascadezone |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 241 | Allen Lloyd |
@@ -279,10 +279,10 @@
 | 271 | 180 | Cozy Balancer |
 | 272 | 179 | AyeKay |
 | 273 | 175 | Lorena Guerrero-Barron |
-| 274 | 174 | Shane Vick |
-| 275 | 174 | BigSammy420 |
-| 276 | 171 | Autumn Kumzi |
-| 277 | 171 | June Hoffman |
+| 274 | 174 | BigSammy420 |
+| 275 | 174 | Shane Vick |
+| 276 | 171 | June Hoffman |
+| 277 | 171 | Autumn Kumzi |
 | 278 | 170 | Cynthia Boudreau |
 | 279 | 170 | Elie Pean |
 | 280 | 169 | Daring Pivot |
@@ -341,8 +341,8 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Maureen Flanigan |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Glitzy Crasher |
-| 337 | 145 | Sandra Safford |
+| 336 | 145 | Sandra Safford |
+| 337 | 145 | Glitzy Crasher |
 | 338 | 144 | Squeezy Pearsall |
 | 339 | 143 | Daresha Fair |
 | 340 | 143 | Metsfan |
@@ -367,16 +367,16 @@
 | 359 | 138 | Ashlee Carnes |
 | 360 | 138 | Jasmine S Caldwell |
 | 361 | 138 | Moonsterix |
-| 362 | 137 | Brianna Walker |
-| 363 | 137 | Carlos Hernandez |
+| 362 | 137 | Carlos Hernandez |
+| 363 | 137 | Brianna Walker |
 | 364 | 137 | PeaceOs |
 | 365 | 137 | Red |
 | 366 | 136 | Jen Hallin |
 | 367 | 136 | Michelle Morris |
-| 368 | 135 | Joshua Guess |
-| 369 | 135 | A5! |
-| 370 | 134 | Kristin MacDonald |
-| 371 | 134 | Hyper Builder |
+| 368 | 135 | A5! |
+| 369 | 135 | Joshua Guess |
+| 370 | 134 | Hyper Builder |
+| 371 | 134 | Kristin MacDonald |
 | 372 | 133 | Berklie Apedaile |
 | 373 | 133 | Jesus Garcia |
 | 374 | 132 | Paito |

@@ -266,8 +266,8 @@
 | 258 | 875 | Jamie Otero |
 | 259 | 874 | Giggy Blocker |
 | 260 | 872 | Felicia Lynn |
-| 261 | 867 | Peppy Zone |
-| 262 | 867 | Michele Gabriel |
+| 261 | 867 | Michele Gabriel |
+| 262 | 867 | Peppy Zone |
 | 263 | 865 | Kristin Gower |
 | 264 | 862 | Brittany Radaszewski |
 | 265 | 860 | John Bednarik |
@@ -609,8 +609,8 @@
 | 601 | 434 | bbv |
 | 602 | 432 | Abimbola Bimbo |
 | 603 | 432 | Lucy Marshall |
-| 604 | 431 | Quinn |
-| 605 | 431 | Hunter Connors |
+| 604 | 431 | Hunter Connors |
+| 605 | 431 | Quinn |
 | 606 | 429 | Goofy Catcher |
 | 607 | 429 | Tabs Reichert |
 | 608 | 429 | Angel Hunnewell |

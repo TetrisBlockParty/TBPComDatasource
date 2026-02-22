@@ -70,8 +70,8 @@
 | 62 | 995 | Joey Banks |
 | 63 | 972 | Susan Valentino |
 | 64 | 928 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -227,8 +227,8 @@
 | 219 | 344 | Roary Danner |
 | 220 | 344 | Marci Mize Fandrich |
 | 221 | 343 | Ashley Raines |
-| 222 | 341 | Noyb Adam |
-| 223 | 341 | Samantha Lynn |
+| 222 | 341 | Samantha Lynn |
+| 223 | 341 | Noyb Adam |
 | 224 | 341 | Ashley Tookes |
 | 225 | 340 | Ammmmmmy |
 | 226 | 339 | Rania Zaqout |
@@ -240,10 +240,10 @@
 | 232 | 324 | Sissy Lowery Davis |
 | 233 | 323 | Demetrious Shaw Sr. |
 | 234 | 321 | Rebecca Bailey |
-| 235 | 320 | Brittany |
-| 236 | 320 | Keis |
-| 237 | 320 | Ashley Muncey |
-| 238 | 320 | Or Reznitsky |
+| 235 | 320 | Or Reznitsky |
+| 236 | 320 | Brittany |
+| 237 | 320 | Keis |
+| 238 | 320 | Ashley Muncey |
 | 239 | 319 | Michael Johnson |
 | 240 | 316 | Staci George Fitzsimmons |
 | 241 | 314 | Peppy Shifter |
@@ -282,7 +282,7 @@
 | 274 | 272 | fraulila |
 | 275 | 271 | Alexmac |
 | 276 | 271 | Grego Daniel |
-| 277 | 271 | Alexmac |
+| 277 | 271 | Cass Mendoza |
 | 278 | 269 | Micayah Stevens |
 | 279 | 268 | Krystal Gerstberger |
 | 280 | 267 | April Matthew Kibble |
