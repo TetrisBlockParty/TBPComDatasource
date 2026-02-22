@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -88,8 +88,8 @@
 | 80 | 405 | Shane Kalamata Platoon |
 | 81 | 404 | Courtney Cicoria |
 | 82 | 402 | Julian Garcia |
-| 83 | 396 | Amy Suckarieh |
-| 84 | 396 | Alicia Bass |
+| 83 | 396 | Alicia Bass |
+| 84 | 396 | Amy Suckarieh |
 | 85 | 392 | Ericca Eldridge |
 | 86 | 391 | Ramel Rhodes |
 | 87 | 390 | Carlton Unfiltered |
@@ -139,11 +139,11 @@
 | 131 | 255 | Lindsay Ball |
 | 132 | 249 | Leah Kutz Zirbel |
 | 133 | 245 | Diana Houts |
-| 134 | 240 | Peachy Fall |
-| 135 | 240 | Jolly Dashfit |
+| 134 | 240 | Jolly Dashfit |
+| 135 | 240 | Peachy Fall |
 | 136 | 236 | Chastity Mitchell |
-| 137 | 232 | Chilly Crasher |
-| 138 | 232 | Crystal Nicolette Moore |
+| 137 | 232 | Crystal Nicolette Moore |
+| 138 | 232 | Chilly Crasher |
 | 139 | 230 | Autum Leigh |
 | 140 | 228 | J-Rizzle |
 | 141 | 227 | Alyssa Papen |
@@ -169,8 +169,8 @@
 | 161 | 212 | Mike Solo |
 | 162 | 211 | Jenna McGeorge |
 | 163 | 207 | Chirpy Basepiece |
-| 164 | 205 | Kathy Brookins |
-| 165 | 205 | Cursed Hag |
+| 164 | 205 | Cursed Hag |
+| 165 | 205 | Kathy Brookins |
 | 166 | 204 | Jen Caldwell |
 | 167 | 203 | Katherine Crane |
 | 168 | 202 | TRCuse |
@@ -235,7 +235,7 @@
 | 227 | 149 | Shainne Brewer |
 | 228 | 149 | Megan Cutshaw |
 | 229 | 148 | Janita Parrish |
-| 230 | 147 | B Renee Desjardin |
+| 230 | 147 | Jared Gutwein |
 | 231 | 147 | Jay28 |
 | 232 | 147 | B Renee Desjardin |
 | 233 | 145 | Sandra Safford |
@@ -285,9 +285,9 @@
 | 277 | 127 | Kim Hunt |
 | 278 | 126 | icequeenx |
 | 279 | 125 | Steph Marie |
-| 280 | 125 | Daresha Fair |
-| 281 | 125 | KimoKoala |
-| 282 | 125 | Lush Linkfall |
+| 280 | 125 | Lush Linkfall |
+| 281 | 125 | Daresha Fair |
+| 282 | 125 | KimoKoala |
 | 283 | 124 | Sam Middleton |
 | 284 | 123 | Joseph Edmonson |
 | 285 | 121 | Joseph Pace |

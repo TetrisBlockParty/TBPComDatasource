@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 400 | Aaron Pitkin |
@@ -160,9 +160,9 @@
 | 152 | 375 | Fallorina Susana |
 | 153 | 374 | Sherry Ogden |
 | 154 | 371 | Michael Nowogorski |
-| 155 | 370 | Danielle Allison |
-| 156 | 370 | Santeria Trece Candles |
-| 157 | 370 | Logan Naccarato |
+| 155 | 370 | Logan Naccarato |
+| 156 | 370 | Danielle Allison |
+| 157 | 370 | Santeria Trece Candles |
 | 158 | 368 | Stephanie Woods |
 | 159 | 366 | Adrian Marcel Pate |
 | 160 | 362 | Darlene McMillan |
@@ -237,8 +237,8 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | Tiffany Davie |
-| 233 | 256 | KayB |
+| 232 | 256 | KayB |
+| 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
 | 235 | 249 | JerseyJess |
 | 236 | 249 | Annie Marie |
@@ -360,8 +360,8 @@
 | 352 | 153 | Steffi Chris Dacones |
 | 353 | 153 | Sheila M Frazier |
 | 354 | 153 | Lys |
-| 355 | 152 | Shiny Zonebuilder |
-| 356 | 152 | Eric Caccavale |
+| 355 | 152 | Eric Caccavale |
+| 356 | 152 | Shiny Zonebuilder |
 | 357 | 152 | Goofy Fall |
 | 358 | 150 | Michael Leblanc |
 | 359 | 149 | Micayah Stevens |

@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Mr. Street Stack |
-| 163 | 988 | Maegan Beaule |
+| 162 | 988 | Maegan Beaule |
+| 163 | 988 | Mr. Street Stack |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Taylor Phillips |
 | 166 | 974 | Dolores Russworn |
@@ -477,8 +477,8 @@
 | 469 | 421 | Vonceial Boone |
 | 470 | 421 | Vanessa Moreno |
 | 471 | 419 | Pocho Zavala |
-| 472 | 418 | Kristi Biddinger |
-| 473 | 418 | Véronique Lévesque Sabourin |
+| 472 | 418 | Véronique Lévesque Sabourin |
+| 473 | 418 | Kristi Biddinger |
 | 474 | 417 | snkylnk |
 | 475 | 417 | Alexx Anaya |
 | 476 | 416 | Ricky Fortune |
@@ -494,8 +494,8 @@
 | 486 | 408 | Abimbola Bimbo |
 | 487 | 408 | Brandon Jones |
 | 488 | 406 | Kimberly Ann |
-| 489 | 406 | Erin StFrancis |
-| 490 | 406 | Kiana Boschh |
+| 489 | 406 | Kiana Boschh |
+| 490 | 406 | Erin StFrancis |
 | 491 | 404 | Snappy snappers |
 | 492 | 404 | Dawn L Washington-Feuquay |
 | 493 | 403 | Goofy Dasher |
