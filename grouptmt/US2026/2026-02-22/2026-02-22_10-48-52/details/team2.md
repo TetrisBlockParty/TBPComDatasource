@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Robin Kerby |
-| 218 | 862 | Brittany Radaszewski |
+| 217 | 862 | Brittany Radaszewski |
+| 218 | 862 | Robin Kerby |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Rachael Senard |
-| 372 | 554 | Santana Miyagi |
+| 371 | 554 | Santana Miyagi |
+| 372 | 554 | Rachael Senard |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -681,8 +681,8 @@
 | 673 | 339 | Denise Rickman |
 | 674 | 338 | Janitta Alvarez |
 | 675 | 337 | Sassy Pattern |
-| 676 | 337 | Tum |
-| 677 | 337 | Diallo Sparkman |
+| 676 | 337 | Diallo Sparkman |
+| 677 | 337 | Tum |
 | 678 | 337 | Savannah Alexander |
 | 679 | 336 | bru |
 | 680 | 336 | Austin Wilson |
@@ -772,8 +772,8 @@
 | 764 | 295 | Noel Tarmy |
 | 765 | 294 | Amanda Edwards |
 | 766 | 293 | Ann Marie Davis |
-| 767 | 292 | Christina Walker |
-| 768 | 292 | Bryan Werleman |
+| 767 | 292 | Bryan Werleman |
+| 768 | 292 | Christina Walker |
 | 769 | 292 | Deana |
 | 770 | 291 | Bella Novia |
 | 771 | 291 | Jennie Lee Huntley |
@@ -979,8 +979,8 @@
 | 971 | 234 | Joanna L. Abad |
 | 972 | 234 | Trina Harrison |
 | 973 | 234 | Lonnie Brown |
-| 974 | 234 | Kim McGrath |
-| 975 | 234 | Synn |
+| 974 | 234 | Synn |
+| 975 | 234 | Kim McGrath |
 | 976 | 234 | Jannan Haimour |
 | 977 | 233 | Allison Hewitt |
 | 978 | 233 | Myleaha Holley |
@@ -1457,8 +1457,8 @@
 | 1449 | 158 | April Ann |
 | 1450 | 158 | Tammi Dorsey |
 | 1451 | 158 | John Cleland |
-| 1452 | 158 | Cerealkiller |
-| 1453 | 158 | Ryley Laughlin |
+| 1452 | 158 | Ryley Laughlin |
+| 1453 | 158 | Cerealkiller |
 | 1454 | 157 | Heather Walski |
 | 1455 | 157 | James Lucas |
 | 1456 | 157 | Ashley Fairchild |

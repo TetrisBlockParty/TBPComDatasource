@@ -112,8 +112,8 @@
 | 104 | 344 | Bhelle Sumile |
 | 105 | 342 | Brenda Stewart |
 | 106 | 341 | Nick R Montague |
-| 107 | 333 | phrmblk24 |
-| 108 | 333 | Brandi Huntington |
+| 107 | 333 | Brandi Huntington |
+| 108 | 333 | phrmblk24 |
 | 109 | 332 | Luciano Moreira |
 | 110 | 332 | Kristen Gideon |
 | 111 | 330 | Sweet Baker |
@@ -191,8 +191,8 @@
 | 183 | 207 | Brenda Alexander |
 | 184 | 207 | Leslie Bush Yarbrough |
 | 185 | 206 | BadG52 |
-| 186 | 205 | Tater |
-| 187 | 205 | Snappy Matcher |
+| 186 | 205 | Snappy Matcher |
+| 187 | 205 | Tater |
 | 188 | 205 | Mike Ames |
 | 189 | 204 | Lacy Wolfe |
 | 190 | 203 | Paula Martin |
