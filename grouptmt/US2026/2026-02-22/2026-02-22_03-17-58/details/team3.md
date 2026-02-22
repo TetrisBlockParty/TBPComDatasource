@@ -364,8 +364,8 @@
 | 356 | 133 | Crystal Hine |
 | 357 | 133 | Jen Lewis |
 | 358 | 132 | Hanna Kim |
-| 359 | 131 | Cheeky Setter |
-| 360 | 131 | Cheeky Snapper |
+| 359 | 131 | Cheeky Snapper |
+| 360 | 131 | Cheeky Setter |
 | 361 | 131 | Beppy |
 | 362 | 130 | TotoCherue |
 | 363 | 130 | Karen Picaboo |

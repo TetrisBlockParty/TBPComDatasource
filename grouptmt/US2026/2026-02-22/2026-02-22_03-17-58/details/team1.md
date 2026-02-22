@@ -72,8 +72,8 @@
 | 64 | 412 | Anaid Sanchez |
 | 65 | 412 | Jazzy Framezone |
 | 66 | 391 | Robert Benito |
-| 67 | 388 | Yvonne Marie |
-| 68 | 388 | Jennifer ManWarren |
+| 67 | 388 | Jennifer ManWarren |
+| 68 | 388 | Yvonne Marie |
 | 69 | 386 | Candy Jones |
 | 70 | 382 | Lori Sanders- Davis |
 | 71 | 379 | Austin James |
@@ -139,24 +139,24 @@
 | 131 | 228 | Jenny Gingrich Fuentes |
 | 132 | 226 | ALFD |
 | 133 | 226 | Kandae |
-| 134 | 216 | Shauntina Burke |
-| 135 | 216 | MRdot Rooski |
+| 134 | 216 | MRdot Rooski |
+| 135 | 216 | Shauntina Burke |
 | 136 | 214 | GATOR |
 | 137 | 212 | Jaimie Lynn |
 | 138 | 212 | Lori Bales |
 | 139 | 211 | Marianita Garcia |
 | 140 | 209 | Snappy Swiper |
 | 141 | 208 | Giggly Builderline |
-| 142 | 207 | Leslie Bush Yarbrough |
-| 143 | 207 | Bouncy Grid |
+| 142 | 207 | Bouncy Grid |
+| 143 | 207 | Leslie Bush Yarbrough |
 | 144 | 206 | Kimberly Garcia |
 | 145 | 205 | ParisandCory Champagne |
 | 146 | 203 | Paula Martin |
 | 147 | 200 | Lacy Wolfe |
 | 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Shiny Gridmatch |
-| 151 | 198 | Happy Snapbuild |
+| 150 | 198 | Happy Snapbuild |
+| 151 | 198 | Shiny Gridmatch |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | Lachelle Dillon |
@@ -165,12 +165,12 @@
 | 157 | 192 | Shaykmia |
 | 158 | 192 | Christy Jones |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Sweetts |
-| 161 | 190 | Thorne Shumate |
+| 160 | 190 | Thorne Shumate |
+| 161 | 190 | Sweetts |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
-| 164 | 187 | Snippy Wipebuilder |
-| 165 | 187 | Jennifer Olewnik Soborowski |
+| 164 | 187 | Jennifer Olewnik Soborowski |
+| 165 | 187 | Snippy Wipebuilder |
 | 166 | 186 | Margo Wagner |
 | 167 | 183 | Sleepysloath5745 |
 | 168 | 180 | BigWeenie69 |
@@ -210,12 +210,12 @@
 | 202 | 158 | Sarah Marie |
 | 203 | 154 | Melissa Lemmon |
 | 204 | 153 | Barry Mac'Ockner |
-| 205 | 152 | Speedy Snapfall |
-| 206 | 152 | Brave Wrecker |
+| 205 | 152 | Brave Wrecker |
+| 206 | 152 | Speedy Snapfall |
 | 207 | 150 | Agustin Duarte Orozco |
 | 208 | 150 | Adele Rahman |
-| 209 | 147 | DaRascal |
-| 210 | 147 | Davery Spencer Adair |
+| 209 | 147 | Davery Spencer Adair |
+| 210 | 147 | DaRascal |
 | 211 | 146 | Witty Builderfit |
 | 212 | 144 | Gary Gobin |
 | 213 | 144 | Cranky Pattern |
@@ -440,7 +440,7 @@
 | 432 | 73 | Tazz |
 | 433 | 73 | Channis |
 | 434 | 72 | Oliver Hollins |
-| 435 | 72 | Nutty Clusterline |
+| 435 | 72 | Jason Savage |
 | 436 | 72 | Zappy Pivoty |
 | 437 | 72 | Nutty Clusterline |
 | 438 | 71 | Jamie Farrar |

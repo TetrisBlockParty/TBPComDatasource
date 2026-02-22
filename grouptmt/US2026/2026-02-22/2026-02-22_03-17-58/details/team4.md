@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Amy Suckarieh |
-| 73 | 396 | Alicia Bass |
+| 72 | 396 | Alicia Bass |
+| 73 | 396 | Amy Suckarieh |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -126,8 +126,8 @@
 | 118 | 240 | Leah Kutz Zirbel |
 | 119 | 239 | Kristin Manee |
 | 120 | 237 | Peachy Fall |
-| 121 | 235 | Scott Jameson |
-| 122 | 235 | Lucas J Sutton |
+| 121 | 235 | Lucas J Sutton |
+| 122 | 235 | Scott Jameson |
 | 123 | 232 | Crystal Nicolette Moore |
 | 124 | 231 | Chastity Mitchell |
 | 125 | 230 | Autum Leigh |

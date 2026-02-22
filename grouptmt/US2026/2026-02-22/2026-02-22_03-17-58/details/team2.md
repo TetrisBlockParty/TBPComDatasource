@@ -139,8 +139,8 @@
 | 131 | 1051 | Shandrica Lowe |
 | 132 | 1048 | PsychKIRAtrist |
 | 133 | 1047 | Amy Sayers |
-| 134 | 1043 | Suki Kaur |
-| 135 | 1043 | Brave Dropmatch |
+| 134 | 1043 | Brave Dropmatch |
+| 135 | 1043 | Suki Kaur |
 | 136 | 1032 | Sarah Freitas |
 | 137 | 1020 | Heather Westrum |
 | 138 | 1018 | LordZophar |
@@ -181,8 +181,8 @@
 | 173 | 865 | Dedra Steward |
 | 174 | 861 | Jennifer Peachey |
 | 175 | 857 | Della Hole |
-| 176 | 850 | Stephanie Chapman |
-| 177 | 850 | Missie Lawson Gebhardt |
+| 176 | 850 | Missie Lawson Gebhardt |
+| 177 | 850 | Stephanie Chapman |
 | 178 | 849 | Jennifer Kistner |
 | 179 | 845 | April Dawn Gussler |
 | 180 | 838 | Tralonda Weeks |
@@ -413,11 +413,11 @@
 | 405 | 428 | Rhonda Milstead |
 | 406 | 427 | Destiny Cozier |
 | 407 | 427 | Kori Beth Babb |
-| 408 | 425 | Shyenn Gadsby |
-| 409 | 425 | Skyler Morgan |
+| 408 | 425 | Skyler Morgan |
+| 409 | 425 | Shyenn Gadsby |
 | 410 | 424 | Lina Sanders |
-| 411 | 423 | Sam |
-| 412 | 423 | Shaun Church |
+| 411 | 423 | Shaun Church |
+| 412 | 423 | Sam |
 | 413 | 421 | Vanessa Moreno |
 | 414 | 421 | Vonceial Boone |
 | 415 | 414 | Sabrina Burton |
@@ -604,8 +604,8 @@
 | 596 | 308 | Prado |
 | 597 | 306 | Gina Caulder |
 | 598 | 305 | Libby Hicks |
-| 599 | 305 | Zany Clusterbuilder |
-| 600 | 305 | Arlene Joy Belicina |
+| 599 | 305 | Arlene Joy Belicina |
+| 600 | 305 | Zany Clusterbuilder |
 | 601 | 305 | Snippy Block |
 | 602 | 304 | Melissa McCall |
 | 603 | 304 | NFLPITMOM |
