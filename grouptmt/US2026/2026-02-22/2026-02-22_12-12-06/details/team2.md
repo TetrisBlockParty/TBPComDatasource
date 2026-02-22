@@ -409,8 +409,8 @@
 | 401 | 525 | Desiree Anderson |
 | 402 | 524 | Lonne Emade |
 | 403 | 523 | Matt Johnson |
-| 404 | 522 | Joseph Musick |
-| 405 | 522 | Lylymom |
+| 404 | 522 | Lylymom |
+| 405 | 522 | Joseph Musick |
 | 406 | 521 | Tj Ball |
 | 407 | 521 | Caitlin Schmid |
 | 408 | 520 | Angela Lynn |
@@ -574,14 +574,14 @@
 | 566 | 401 | Moua Ying |
 | 567 | 401 | Taylor Flowers |
 | 568 | 401 | De Hawkins |
-| 569 | 400 | Michael Artis |
-| 570 | 400 | Joshua Self |
+| 569 | 400 | Joshua Self |
+| 570 | 400 | Michael Artis |
 | 571 | 400 | Tammy Allen |
 | 572 | 400 | Kathleen Driskell |
 | 573 | 399 | Oscar Bernie |
 | 574 | 398 | Crystal Heller Gonzalez |
-| 575 | 396 | Candy Pitts |
-| 576 | 396 | AkaLefty |
+| 575 | 396 | AkaLefty |
+| 576 | 396 | Candy Pitts |
 | 577 | 396 | Boogie SoAnimated Johnson |
 | 578 | 393 | Jamie West |
 | 579 | 393 | bbv |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rickey Johnson |
-| 654 | 354 | Rachel Kaminski |
+| 653 | 354 | Rachel Kaminski |
+| 654 | 354 | Rickey Johnson |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -689,8 +689,8 @@
 | 681 | 337 | Savannah Alexander |
 | 682 | 337 | Tum |
 | 683 | 336 | Swanky Columnbuilder |
-| 684 | 336 | Austin Wilson |
-| 685 | 336 | bru |
+| 684 | 336 | bru |
+| 685 | 336 | Austin Wilson |
 | 686 | 335 | Brooke Leigh Strube |
 | 687 | 335 | Maria Louise |
 | 688 | 334 | Melissa James |
@@ -709,8 +709,8 @@
 | 701 | 326 | Ann Knutson Anderson |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Tasia Stinson |
-| 705 | 324 | Dale Haanpaa |
+| 704 | 324 | Dale Haanpaa |
+| 705 | 324 | Tasia Stinson |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
@@ -730,8 +730,8 @@
 | 722 | 316 | Epic Spinfit |
 | 723 | 316 | Johanna Massaro |
 | 724 | 314 | Amanda West |
-| 725 | 313 | Natasha Edmonds |
-| 726 | 313 | Marina Linda |
+| 725 | 313 | Marina Linda |
+| 726 | 313 | Natasha Edmonds |
 | 727 | 313 | Snippy Block |
 | 728 | 312 | Heather Renee Jeffers |
 | 729 | 312 | Sassy Linkbuilder |
@@ -739,8 +739,8 @@
 | 731 | 311 | SwifftFox |
 | 732 | 310 | Audra Williams |
 | 733 | 310 | Beth Decker |
-| 734 | 310 | Cheeky Brickmatch |
-| 735 | 310 | Wendy Ducheney |
+| 734 | 310 | Wendy Ducheney |
+| 735 | 310 | Cheeky Brickmatch |
 | 736 | 309 | James Smith |
 | 737 | 309 | Byung Bae Park |
 | 738 | 308 | Katie Joy McCombs |
@@ -762,23 +762,23 @@
 | 754 | 302 | Kena T. Tanner |
 | 755 | 302 | Maxwell Escalera |
 | 756 | 300 | Alice Ball |
-| 757 | 300 | Warren Marleau |
-| 758 | 300 | Kacee Conrad Bock |
+| 757 | 300 | Kacee Conrad Bock |
+| 758 | 300 | Warren Marleau |
 | 759 | 299 | Cassie Newton |
 | 760 | 298 | Frilly Fallzone |
-| 761 | 298 | Ryan Stadel |
-| 762 | 298 | Lazy Riseclear |
+| 761 | 298 | Lazy Riseclear |
+| 762 | 298 | Ryan Stadel |
 | 763 | 297 | Toni Lynn |
 | 764 | 297 | Frisky Patternline |
 | 765 | 297 | Britney M. |
 | 766 | 297 | Ashley Robbins |
 | 767 | 296 | Jennifer Darby |
-| 768 | 296 | Zappy Dropmatch |
-| 769 | 296 | Epic Fitzone |
+| 768 | 296 | Epic Fitzone |
+| 769 | 296 | Zappy Dropmatch |
 | 770 | 296 | Frisky Riserbuilder |
 | 771 | 295 | Noel Tarmy |
-| 772 | 294 | Sveta Lana |
-| 773 | 294 | Amanda Edwards |
+| 772 | 294 | Amanda Edwards |
+| 773 | 294 | Sveta Lana |
 | 774 | 293 | Ann Marie Davis |
 | 775 | 292 | Bryan Werleman |
 | 776 | 292 | Deana |

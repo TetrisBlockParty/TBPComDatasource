@@ -49,8 +49,8 @@
 | 41 | 765 | BertMofo |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -139,8 +139,8 @@
 | 131 | 283 | Scott Jameson |
 | 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Carrie Brian |
-| 135 | 278 | Desi Desporte |
+| 134 | 278 | Desi Desporte |
+| 135 | 278 | Carrie Brian |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -338,8 +338,8 @@
 | 330 | 128 | Kristin MacDonald |
 | 331 | 128 | Elie Pean |
 | 332 | 127 | Robert Rodriguez |
-| 333 | 126 | Cheryl Johnson |
-| 334 | 126 | PAPatty |
+| 333 | 126 | PAPatty |
+| 334 | 126 | Cheryl Johnson |
 | 335 | 126 | icequeenx |
 | 336 | 125 | Ann G. Carrillo |
 | 337 | 125 | Steph Marie |
@@ -523,8 +523,8 @@
 | 515 | 76 | GTxIrishman |
 | 516 | 76 | Flavoredsausage |
 | 517 | 76 | Albert Walker III |
-| 518 | 75 | Quirky Puzzler |
-| 519 | 75 | Peppy Drop |
+| 518 | 75 | Amy Sanford |
+| 519 | 75 | Quirky Puzzler |
 | 520 | 75 | Hyper Matchclear |
 | 521 | 75 | Raegan Lane-Ross |
 | 522 | 75 | Snippy Puzzle |

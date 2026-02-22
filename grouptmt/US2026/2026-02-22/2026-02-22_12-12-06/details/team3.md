@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Stephanie Burtin |
-| 182 | 357 | Tom Nault |
+| 181 | 357 | Tom Nault |
+| 182 | 357 | Stephanie Burtin |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 353 | Shunta Jacobs |
 | 185 | 353 | Nora Rogers |
@@ -229,8 +229,8 @@
 | 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
-| 224 | 283 | Cheeky Snapper |
-| 225 | 283 | Charles Perrone |
+| 224 | 283 | Charles Perrone |
+| 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
 | 228 | 278 | Sabrina Hardrick |
@@ -240,8 +240,8 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Ashley Muncey |
-| 236 | 271 | Cass Mendoza |
+| 235 | 271 | Cass Mendoza |
+| 236 | 271 | Ashley Muncey |
 | 237 | 269 | Trisha Balmer |
 | 238 | 269 | Eon Harris |
 | 239 | 268 | Carrie Huskey |
@@ -325,8 +325,8 @@
 | 317 | 198 | kacihall |
 | 318 | 195 | Nicha Hooker |
 | 319 | 194 | Goofy Fall |
-| 320 | 193 | Clever Shiftsnap |
-| 321 | 193 | Lys |
+| 320 | 193 | Lys |
+| 321 | 193 | Clever Shiftsnap |
 | 322 | 192 | Ryan Williams |
 | 323 | 192 | Melanie Sherwood |
 | 324 | 192 | Kelly Ann Child |
@@ -448,8 +448,8 @@
 | 440 | 139 | Paula Little |
 | 441 | 138 | Bleu Sun Beams |
 | 442 | 137 | Giggly Brickroll |
-| 443 | 136 | Sabrina Mansfield |
-| 444 | 136 | Stephanie Zahm |
+| 443 | 136 | Stephanie Zahm |
+| 444 | 136 | Sabrina Mansfield |
 | 445 | 136 | Karen Picaboo |
 | 446 | 135 | Morgan Cudo |
 | 447 | 134 | Tammy |
@@ -459,8 +459,8 @@
 | 451 | 134 | Cheery Brickster |
 | 452 | 134 | Glenn Loving |
 | 453 | 134 | gremicx |
-| 454 | 133 | Jen Lewis |
-| 455 | 133 | Chummy Rumbler |
+| 454 | 133 | Chummy Rumbler |
+| 455 | 133 | Jen Lewis |
 | 456 | 132 | Hanna Kim |
 | 457 | 132 | Andrew Thorson |
 | 458 | 131 | Cheeky Setter |
@@ -545,8 +545,8 @@
 | 537 | 113 | Leticia Lynn Lowe |
 | 538 | 112 | Bekah Dietrich |
 | 539 | 112 | Michael Kimbro |
-| 540 | 111 | Jennifer Neiman Gaal |
-| 541 | 111 | Geronimo |
+| 540 | 111 | Geronimo |
+| 541 | 111 | Jennifer Neiman Gaal |
 | 542 | 111 | Victoria Wangler Lewis |
 | 543 | 111 | Chenoa Urban Sophicated Redy |
 | 544 | 110 | Kate Farok |

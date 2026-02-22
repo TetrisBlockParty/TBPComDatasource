@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -123,8 +123,8 @@
 | 115 | 319 | Patrick Luckenbill |
 | 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,11 +197,11 @@
 | 189 | 207 | Brenda Alexander |
 | 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Snappy Matcher |
-| 193 | 205 | Tater |
+| 192 | 205 | Tater |
+| 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | DaRascal |
@@ -240,7 +240,7 @@
 | 232 | 179 | Erin Rosberg |
 | 233 | 179 | femmefatale |
 | 234 | 178 | Chad Atchley |
-| 235 | 177 | Sarah Marie |
+| 235 | 177 | Perky Shiftsnap |
 | 236 | 177 | Irual Hctrab |
 | 237 | 177 | Sarah Marie |
 | 238 | 177 | Jacqueline Unique |
