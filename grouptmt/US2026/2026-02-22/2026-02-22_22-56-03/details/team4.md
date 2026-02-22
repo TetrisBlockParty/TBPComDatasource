@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Courtney Cicoria |
-| 119 | 431 | Jolly Dashfit |
+| 118 | 431 | Jolly Dashfit |
+| 119 | 431 | Courtney Cicoria |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -175,8 +175,8 @@
 | 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
-| 170 | 307 | Girl |
-| 171 | 307 | Bio Nelly |
+| 170 | 307 | Bio Nelly |
+| 171 | 307 | Girl |
 | 172 | 304 | Chaz Duncan |
 | 173 | 303 | shark tato |
 | 174 | 302 | Cursed Hag |
@@ -318,9 +318,9 @@
 | 310 | 171 | Autumn Kumzi |
 | 311 | 171 | Chris Alexinas |
 | 312 | 170 | Elie Pean |
-| 313 | 169 | Daring Pivot |
+| 313 | 169 | Ellen Durfee |
 | 314 | 169 | Dante Korleon |
-| 315 | 169 | Ellen Durfee |
+| 315 | 169 | Daring Pivot |
 | 316 | 169 | Jessica Atkinson |
 | 317 | 168 | Chummy Towerzone |
 | 318 | 168 | Zippy Tilt |

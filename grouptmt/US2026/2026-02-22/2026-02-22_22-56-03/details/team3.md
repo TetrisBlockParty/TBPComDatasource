@@ -95,8 +95,8 @@
 | 87 | 849 | Danielle Becker |
 | 88 | 848 | Patricia Gadsden |
 | 89 | 847 | Rosalie Call Kehlenbeck |
-| 90 | 838 | Sarajane Lokan |
-| 91 | 838 | MissTaylor |
+| 90 | 838 | MissTaylor |
+| 91 | 838 | Sarajane Lokan |
 | 92 | 835 | Snappy Glidepiece |
 | 93 | 831 | Angeline Joseph |
 | 94 | 830 | Stephanie Allmon |
@@ -180,8 +180,8 @@
 | 172 | 469 | Melissa Orth Hunter |
 | 173 | 468 | Betty Ivy |
 | 174 | 465 | Tasha Schriewer |
-| 175 | 464 | Makelini Mausia |
-| 176 | 464 | Michelle |
+| 175 | 464 | Michelle |
+| 176 | 464 | Makelini Mausia |
 | 177 | 461 | Shunta Jacobs |
 | 178 | 460 | Araceli Parra |
 | 179 | 460 | Danielle Allison |
@@ -336,8 +336,8 @@
 | 328 | 258 | Michael Kimbro |
 | 329 | 258 | IamJust Neyamijah Washington Sr. |
 | 330 | 256 | KayB |
-| 331 | 255 | Twisty Brick LT |
-| 332 | 255 | Sharisse Baltimore |
+| 331 | 255 | Sharisse Baltimore |
+| 332 | 255 | Twisty Brick LT |
 | 333 | 254 | Desiree Gold |
 | 334 | 253 | Salena Whitlock |
 | 335 | 252 | Blair Erin Waite |
@@ -348,8 +348,8 @@
 | 340 | 247 | Jessica |
 | 341 | 246 | Erika Thornton |
 | 342 | 245 | Latoya Mayne |
-| 343 | 244 | Quackers |
-| 344 | 244 | LaNette Morgan |
+| 343 | 244 | LaNette Morgan |
+| 344 | 244 | Quackers |
 | 345 | 243 | Josh Borquez |
 | 346 | 242 | Randy Clevenger |
 | 347 | 240 | Rachel Grant |

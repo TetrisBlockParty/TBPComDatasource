@@ -346,8 +346,8 @@
 | 338 | 772 | Danielle Simmons |
 | 339 | 769 | Melissa Cole |
 | 340 | 768 | Joshua Self |
-| 341 | 767 | Fancy Twister |
-| 342 | 767 | Ashley Lopez |
+| 341 | 767 | Ashley Lopez |
+| 342 | 767 | Fancy Twister |
 | 343 | 765 | Kathryn Townsley |
 | 344 | 763 | Heather Causey |
 | 345 | 761 | Hyper Cluster |
