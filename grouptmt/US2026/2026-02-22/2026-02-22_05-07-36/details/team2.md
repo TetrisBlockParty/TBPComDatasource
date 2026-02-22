@@ -196,14 +196,14 @@
 | 188 | 857 | Della Hole |
 | 189 | 856 | Roger Grabbit |
 | 190 | 850 | Missie Lawson Gebhardt |
-| 191 | 849 | Hillary Crawford |
-| 192 | 849 | Jennifer Kistner |
+| 191 | 849 | Jennifer Kistner |
+| 192 | 849 | Hillary Crawford |
 | 193 | 845 | April Dawn Gussler |
 | 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |

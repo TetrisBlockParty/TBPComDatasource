@@ -132,8 +132,8 @@
 | 124 | 416 | Mary Pellegrino |
 | 125 | 415 | ren |
 | 126 | 411 | FuzzyNavel |
-| 127 | 410 | Stephanie Simpson |
-| 128 | 410 | Stephanie Blkpep Davidson |
+| 127 | 410 | Stephanie Blkpep Davidson |
+| 128 | 410 | Stephanie Simpson |
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 406 | Louise Stacy Sisson |

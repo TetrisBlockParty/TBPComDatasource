@@ -51,8 +51,8 @@
 | 43 | 646 | Jacqueline Helm |
 | 44 | 634 | Anthony Bryan Riva |
 | 45 | 632 | Kimyatta Cavin |
-| 46 | 630 | Chilly Line |
-| 47 | 630 | Dustee Craddock-Harrison |
+| 46 | 630 | Dustee Craddock-Harrison |
+| 47 | 630 | Chilly Line |
 | 48 | 627 | Jonathan Kimbrough |
 | 49 | 623 | Robin Getchel |
 | 50 | 614 | KM8 |
