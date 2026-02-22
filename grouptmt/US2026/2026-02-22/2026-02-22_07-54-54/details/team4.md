@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | TeeJ |
-| 75 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | Carmethia Clemons Haslerig |
+| 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Erin Thomas |
 | 78 | 447 | Samantha Peterson |
@@ -106,8 +106,8 @@
 | 98 | 373 | Joseph Guthrie |
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
-| 101 | 352 | Zippy Gridlock |
-| 102 | 352 | Monica Daley |
+| 101 | 352 | Monica Daley |
+| 102 | 352 | Zippy Gridlock |
 | 103 | 344 | Livvy |
 | 104 | 337 | Lori Walker |
 | 105 | 331 | ThaEviLJeNiuZ |
@@ -152,12 +152,12 @@
 | 144 | 244 | Twisty Cascadezone |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
-| 147 | 230 | Cursed Hag |
-| 148 | 230 | Autum Leigh |
+| 147 | 230 | Autum Leigh |
+| 148 | 230 | Cursed Hag |
 | 149 | 228 | J-Rizzle |
-| 150 | 227 | Chris Bernstein |
+| 150 | 227 | Swanky Fitline |
 | 151 | 227 | Alyssa Papen |
-| 152 | 227 | Swanky Fitline |
+| 152 | 227 | Chris Bernstein |
 | 153 | 225 | Damn Libra |
 | 154 | 224 | Matt Summer |
 | 155 | 223 | Kris Bartlett |
@@ -222,7 +222,7 @@
 | 214 | 160 | Laura Hosford |
 | 215 | 160 | Brittany Marsh |
 | 216 | 159 | Marcus Todd |
-| 217 | 158 | Chair |
+| 217 | 158 | Sam Bishop |
 | 218 | 158 | Avy Absol |
 | 219 | 158 | Chair |
 | 220 | 157 | Bethany Ison |
@@ -316,8 +316,8 @@
 | 308 | 119 | Gwendolyn Pitcairn |
 | 309 | 119 | rebel4lyfe |
 | 310 | 118 | Christina Black |
-| 311 | 117 | Gracie Ann Taylor |
-| 312 | 117 | BigSammy420 |
+| 311 | 117 | BigSammy420 |
+| 312 | 117 | Gracie Ann Taylor |
 | 313 | 117 | PennyCandee |
 | 314 | 116 | Bradley Reeves |
 | 315 | 116 | Smiley Shifter |

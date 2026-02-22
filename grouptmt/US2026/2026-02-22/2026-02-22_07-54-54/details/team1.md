@@ -116,9 +116,9 @@
 | 108 | 319 | Deanna L Hermanson |
 | 109 | 319 | Patrick Luckenbill |
 | 110 | 313 | Tanya Carpenter-Reynolds |
-| 111 | 310 | Seth Wesson |
+| 111 | 310 | phrmblk24 |
 | 112 | 310 | Jason Jones |
-| 113 | 310 | phrmblk24 |
+| 113 | 310 | Seth Wesson |
 | 114 | 306 | Happy Basegrid |
 | 115 | 304 | Nicole Roseberry Weber |
 | 116 | 301 | Lehrin Maria |
@@ -222,8 +222,8 @@
 | 214 | 176 | Mel Hogan |
 | 215 | 175 | John Barron |
 | 216 | 174 | Cheeky Pop |
-| 217 | 173 | Gabrielle Louise Malloch |
-| 218 | 173 | Rico Rico |
+| 217 | 173 | Rico Rico |
+| 218 | 173 | Gabrielle Louise Malloch |
 | 219 | 172 | Phu ckalldems |
 | 220 | 171 | David DeSantis |
 | 221 | 171 | Greg Premoe |

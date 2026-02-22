@@ -170,9 +170,9 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Logan Naccarato |
-| 166 | 370 | Santeria Trece Candles |
-| 167 | 370 | Danielle Allison |
+| 165 | 370 | Danielle Allison |
+| 166 | 370 | Logan Naccarato |
+| 167 | 370 | Santeria Trece Candles |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -199,8 +199,8 @@
 | 191 | 311 | Rochelle Hazelett |
 | 192 | 311 | Stephanie Burtin |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Daryn Elliott |
-| 195 | 308 | Rania Zaqout |
+| 194 | 308 | Rania Zaqout |
+| 195 | 308 | Daryn Elliott |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 302 | Rebecca Bailey |
@@ -269,14 +269,14 @@
 | 261 | 225 | Cozy Snaplink |
 | 262 | 225 | Dirtgirl27 |
 | 263 | 223 | Connie Mohler-Fair |
-| 264 | 221 | Alice |
-| 265 | 221 | Jaime Monhaut-Reed |
+| 264 | 221 | Jaime Monhaut-Reed |
+| 265 | 221 | Alice |
 | 266 | 221 | Vaners |
 | 267 | 220 | rosy |
 | 268 | 219 | Sissy Lowery Davis |
 | 269 | 218 | Michael Lucado |
-| 270 | 216 | Cheryl Hinch Tenbrook |
-| 271 | 216 | Twisty Brick LT |
+| 270 | 216 | Twisty Brick LT |
+| 271 | 216 | Cheryl Hinch Tenbrook |
 | 272 | 215 | IamJust Neyamijah Washington Sr. |
 | 273 | 214 | Amy Fuller Heaton |
 | 274 | 214 | Rebel124 |
@@ -372,8 +372,8 @@
 | 364 | 153 | Sheila M Frazier |
 | 365 | 153 | Tony Waters |
 | 366 | 152 | Goofy Fall |
-| 367 | 152 | Shiny Zonebuilder |
-| 368 | 152 | Eric Caccavale |
+| 367 | 152 | Eric Caccavale |
+| 368 | 152 | Shiny Zonebuilder |
 | 369 | 151 | Sarah Cowan Burgos |
 | 370 | 149 | Alexis Taylor |
 | 371 | 148 | Pam Holt Powell |
