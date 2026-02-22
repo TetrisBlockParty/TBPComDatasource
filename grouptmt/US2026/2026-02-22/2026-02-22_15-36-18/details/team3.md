@@ -116,8 +116,8 @@
 | 108 | 568 | Rachael McClain Owens |
 | 109 | 566 | Dolores Falco |
 | 110 | 565 | Patty Allen |
-| 111 | 562 | Dave Herzog |
-| 112 | 562 | Louise Stacy Sisson |
+| 111 | 562 | Louise Stacy Sisson |
+| 112 | 562 | Dave Herzog |
 | 113 | 551 | Kristie |
 | 114 | 549 | Nicole Myers |
 | 115 | 533 | Alaina Lee |
@@ -152,8 +152,8 @@
 | 144 | 449 | Danielle Rhoades |
 | 145 | 448 | Karon Griffin |
 | 146 | 445 | Shannon Matthew Byers |
-| 147 | 445 | Kristie McFarland |
-| 148 | 445 | Jacqueline Rodriguez |
+| 147 | 445 | Jacqueline Rodriguez |
+| 148 | 445 | Kristie McFarland |
 | 149 | 439 | Michelle |
 | 150 | 438 | Logan Naccarato |
 | 151 | 438 | Valerie Gendron |
@@ -213,8 +213,8 @@
 | 205 | 332 | Rich LeBlanc |
 | 206 | 330 | Rebecca Funderburk Kirby |
 | 207 | 330 | Danielle Balcom |
-| 208 | 324 | Kristal C Lee |
-| 209 | 324 | Sissy Lowery Davis |
+| 208 | 324 | Sissy Lowery Davis |
+| 209 | 324 | Kristal C Lee |
 | 210 | 323 | Demetrious Shaw Sr. |
 | 211 | 320 | Ashley Muncey |
 | 212 | 320 | Keis |
@@ -265,11 +265,11 @@
 | 257 | 269 | Annie Marie |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Nikki Pags |
-| 264 | 260 | Grams |
+| 263 | 260 | Grams |
+| 264 | 260 | Nikki Pags |
 | 265 | 259 | Danielle Weikel |
 | 266 | 257 | Ashley Jones |
 | 267 | 256 | Connie Mohler-Fair |
@@ -573,17 +573,17 @@
 | 565 | 119 | toony |
 | 566 | 119 | Brian Quigley |
 | 567 | 119 | Michelle Ramirez |
-| 568 | 118 | Scott Doss |
-| 569 | 118 | Martin Bernier |
+| 568 | 118 | Martin Bernier |
+| 569 | 118 | Scott Doss |
 | 570 | 118 | Damian Reid |
 | 571 | 117 | Jennifer Neiman Gaal |
 | 572 | 117 | Elyse Grabowsky |
 | 573 | 117 | Daisy Rocha |
 | 574 | 117 | Dee Pratt |
 | 575 | 117 | Anabela Ruiz |
-| 576 | 116 | Daring Rollfit |
-| 577 | 116 | Mel Murr |
-| 578 | 116 | Shelby Crawford |
+| 576 | 116 | Mel Murr |
+| 577 | 116 | Shelby Crawford |
+| 578 | 116 | Daring Rollfit |
 | 579 | 116 | Dapper Towerfit |
 | 580 | 116 | Gina Marie |
 | 581 | 115 | Allie Kershner |

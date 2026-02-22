@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -379,8 +379,8 @@
 | 371 | 123 | Joseph Edmonson |
 | 372 | 122 | PennyCandee |
 | 373 | 121 | Riverdale |
-| 374 | 120 | Bryan Hodgins |
-| 375 | 120 | wombat |
+| 374 | 120 | wombat |
+| 375 | 120 | Bryan Hodgins |
 | 376 | 119 | rebel4lyfe |
 | 377 | 119 | River Shady Sr. |
 | 378 | 118 | Michele Plunkett |
@@ -451,9 +451,9 @@
 | 443 | 104 | Ryry |
 | 444 | 102 | Cool Gridzone |
 | 445 | 102 | Bigeddie |
-| 446 | 102 | Amy C Brown |
-| 447 | 102 | Candice Carasiti |
-| 448 | 102 | Christina O'Dell-Ishau |
+| 446 | 102 | Christina O'Dell-Ishau |
+| 447 | 102 | Amy C Brown |
+| 448 | 102 | Candice Carasiti |
 | 449 | 101 | Saulc1991 |
 | 450 | 100 | Jen Mattei |
 | 451 | 100 | Marcus TheeyoungWoe Gilmore |

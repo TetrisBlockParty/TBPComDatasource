@@ -200,8 +200,8 @@
 | 192 | 229 | Chris K |
 | 193 | 226 | Kandae |
 | 194 | 224 | ParisandCory Champagne |
-| 195 | 223 | Erez Yosef |
-| 196 | 223 | Basment Living |
+| 195 | 223 | Basment Living |
+| 196 | 223 | Erez Yosef |
 | 197 | 222 | Debbie Davis |
 | 198 | 221 | Daring Fitclear |
 | 199 | 220 | DaRascal |
@@ -244,8 +244,8 @@
 | 236 | 191 | J.F. Fields |
 | 237 | 191 | Perky Shiftsnap |
 | 238 | 190 | And |
-| 239 | 190 | Sweetts |
-| 240 | 190 | Thorne Shumate |
+| 239 | 190 | Thorne Shumate |
+| 240 | 190 | Sweetts |
 | 241 | 189 | Veronica Eve |
 | 242 | 187 | Jessica Weed |
 | 243 | 187 | Cool Towerzone |

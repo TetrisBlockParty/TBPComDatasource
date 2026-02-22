@@ -459,8 +459,8 @@
 | 451 | 512 | Leslie Jorgenson |
 | 452 | 511 | Laura Mclean |
 | 453 | 509 | Kelli Wells |
-| 454 | 509 | Jordan Kaiser |
-| 455 | 509 | Tonya Lee |
+| 454 | 509 | Tonya Lee |
+| 455 | 509 | Jordan Kaiser |
 | 456 | 508 | Julay |
 | 457 | 507 | Kitybox |
 | 458 | 507 | Magic steve |
@@ -484,8 +484,8 @@
 | 476 | 492 | Maya June |
 | 477 | 492 | Armonie Smith |
 | 478 | 491 | Michael Buckner |
-| 479 | 491 | Jedi |
-| 480 | 491 | Victor Obiakarije |
+| 479 | 491 | Victor Obiakarije |
+| 480 | 491 | Jedi |
 | 481 | 491 | Adam Simmons |
 | 482 | 488 | Christina Wsn |
 | 483 | 487 | MrsCandyfine As Wine Truss |
@@ -664,8 +664,8 @@
 | 656 | 370 | NanDa Cruzan VI |
 | 657 | 370 | Angela Murgia-Owen |
 | 658 | 369 | RaeVan Worthington |
-| 659 | 368 | Alice Ball |
-| 660 | 368 | Lawanda Forbes |
+| 659 | 368 | Lawanda Forbes |
+| 660 | 368 | Alice Ball |
 | 661 | 368 | Susan Arnburg |
 | 662 | 367 | Connie Lepore-Mann |
 | 663 | 367 | Austin Wilson |
