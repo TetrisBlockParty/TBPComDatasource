@@ -149,8 +149,8 @@
 | 141 | 243 | Trippy Redd |
 | 142 | 241 | John J. Cronin |
 | 143 | 240 | ALFD |
-| 144 | 239 | GATOR |
-| 145 | 239 | Jamie Jury |
+| 144 | 239 | Jamie Jury |
+| 145 | 239 | GATOR |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
 | 148 | 230 | Frothy Pattern |

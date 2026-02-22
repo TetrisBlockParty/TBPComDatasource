@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -266,8 +266,8 @@
 | 258 | 223 | Connie Mohler-Fair |
 | 259 | 222 | Charles Perrone |
 | 260 | 221 | Vaners |
-| 261 | 221 | Jaime Monhaut-Reed |
-| 262 | 221 | Alice |
+| 261 | 221 | Alice |
+| 262 | 221 | Jaime Monhaut-Reed |
 | 263 | 219 | Cozy Snaplink |
 | 264 | 219 | Sissy Lowery Davis |
 | 265 | 218 | Michael Lucado |
@@ -345,10 +345,10 @@
 | 337 | 163 | Diana Ibarra |
 | 338 | 163 | Christine Trester |
 | 339 | 162 | Nicole Summers-Nelson |
-| 340 | 162 | Stephanie Whitefield |
+| 340 | 162 | Loopy Fallzone |
 | 341 | 162 | Ava Petito |
 | 342 | 162 | Kristin Delibac Corrigan |
-| 343 | 162 | Loopy Fallzone |
+| 343 | 162 | Stephanie Whitefield |
 | 344 | 161 | Michael Johnson |
 | 345 | 161 | Bouncy Blockbuilder |
 | 346 | 159 | Ashley Rufus Bythcez |
@@ -379,12 +379,12 @@
 | 371 | 147 | Funky Jumper |
 | 372 | 147 | David Bardo |
 | 373 | 147 | sofaking |
-| 374 | 146 | ROODBOY |
-| 375 | 146 | Sara Dunn |
+| 374 | 146 | Sara Dunn |
+| 375 | 146 | ROODBOY |
 | 376 | 146 | Sdot |
 | 377 | 146 | Wettnippz |
-| 378 | 144 | Tenisha Semidey |
-| 379 | 144 | Blair Erin Waite |
+| 378 | 144 | Blair Erin Waite |
+| 379 | 144 | Tenisha Semidey |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Joy Petroski |
 | 382 | 142 | Erica Anderson |
@@ -454,7 +454,7 @@
 | 446 | 119 | Brian Quigley |
 | 447 | 119 | Boldy Blocker |
 | 448 | 119 | Tracey Cox |
-| 449 | 119 | Boldy Blocker |
+| 449 | 119 | Jason-Ashley Ludlow |
 | 450 | 118 | Fancy Curver |
 | 451 | 118 | Damian Reid |
 | 452 | 117 | James Lykes |
@@ -473,7 +473,7 @@
 | 465 | 115 | Brave Brickster |
 | 466 | 114 | Bhreagh Gentile |
 | 467 | 114 | Elizabeth Renee |
-| 468 | 114 | Bhreagh Gentile |
+| 468 | 114 | Joseph Vargas |
 | 469 | 114 | Hyper Shuffler |
 | 470 | 113 | Gideon Walker |
 | 471 | 113 | Kristy Brown |
@@ -491,9 +491,9 @@
 | 483 | 111 | Stephanie Zahm |
 | 484 | 111 | Chenoa Urban Sophicated Redy |
 | 485 | 111 | Victoria Wangler Lewis |
-| 486 | 111 | Chenoa Urban Sophicated Redy |
-| 487 | 110 | Bekah Dietrich |
-| 488 | 110 | Kate Farok |
+| 486 | 111 | Jennifer Neiman Gaal |
+| 487 | 110 | Kate Farok |
+| 488 | 110 | Bekah Dietrich |
 | 489 | 110 | Angela VanOstrand |
 | 490 | 110 | Michael Pleasant |
 | 491 | 109 | Peachy Westbrook |
@@ -1423,7 +1423,7 @@
 | 1415 | 36 | Leonard Ryan |
 | 1416 | 36 | Hoppy Patternblock |
 | 1417 | 36 | DJ Hebert |
-| 1418 | 36 | Katie Esquivel |
+| 1418 | 36 | Wicked Garden |
 | 1419 | 36 | Sari Clark Zavala |
 | 1420 | 36 | Katie Esquivel |
 | 1421 | 35 | Kaylee Richardson |

@@ -179,8 +179,8 @@
 | 171 | 204 | Jen Caldwell |
 | 172 | 203 | Katherine Crane |
 | 173 | 202 | TRCuse |
-| 174 | 201 | Melvin Baird |
-| 175 | 201 | Chance Strickland |
+| 174 | 201 | Chance Strickland |
+| 175 | 201 | Melvin Baird |
 | 176 | 198 | Jessica Lynn Cutlip |
 | 177 | 196 | Oscar Alberto Perez |
 | 178 | 196 | Zethra Prenisha Rahming |

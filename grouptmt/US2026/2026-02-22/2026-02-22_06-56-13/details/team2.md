@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Isabela Shaw |
-| 118 | 1248 | Howard Forest |
+| 117 | 1248 | Howard Forest |
+| 118 | 1248 | Isabela Shaw |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Rebecca Doughman |
-| 213 | 834 | Nika Bee |
+| 212 | 834 | Nika Bee |
+| 213 | 834 | Rebecca Doughman |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -311,12 +311,12 @@
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
-| 306 | 635 | William Hunt |
-| 307 | 635 | Diana Fitzwater |
+| 306 | 635 | Diana Fitzwater |
+| 307 | 635 | William Hunt |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
-| 310 | 627 | Allan Wayne Lamia |
-| 311 | 627 | Victoria Moore-Smith |
+| 310 | 627 | Victoria Moore-Smith |
+| 311 | 627 | Allan Wayne Lamia |
 | 312 | 619 | Jánine Riggs |
 | 313 | 617 | tejas25 |
 | 314 | 617 | Leslie Ann Carter |
@@ -372,11 +372,11 @@
 | 364 | 525 | Desiree Anderson |
 | 365 | 524 | Jojo Momma |
 | 366 | 523 | Matt Johnson |
-| 367 | 522 | Lylymom |
-| 368 | 522 | Joseph Musick |
+| 367 | 522 | Joseph Musick |
+| 368 | 522 | Lylymom |
 | 369 | 521 | Tj Ball |
-| 370 | 520 | Maddy Petersen |
-| 371 | 520 | Angela Lynn |
+| 370 | 520 | Angela Lynn |
+| 371 | 520 | Maddy Petersen |
 | 372 | 519 | AISlop |
 | 373 | 519 | Rob Brown |
 | 374 | 517 | Amber Brion |
@@ -598,8 +598,8 @@
 | 590 | 361 | Lewis Sturgeon |
 | 591 | 360 | Jroc |
 | 592 | 359 | Cheyenne Donovan |
-| 593 | 358 | Alyssaaelena |
-| 594 | 358 | Sydney Busse |
+| 593 | 358 | Sydney Busse |
+| 594 | 358 | Alyssaaelena |
 | 595 | 358 | Veronics |
 | 596 | 357 | Shannon Byrd |
 | 597 | 357 | Tristan Szolek |
@@ -716,8 +716,8 @@
 | 708 | 303 | Angie Marie |
 | 709 | 302 | Kena T. Tanner |
 | 710 | 302 | Maxwell Escalera |
-| 711 | 300 | Alice Ball |
-| 712 | 300 | LaWanda Powell |
+| 711 | 300 | LaWanda Powell |
+| 712 | 300 | Alice Ball |
 | 713 | 300 | Kacee Conrad Bock |
 | 714 | 299 | Danielle Ayoub |
 | 715 | 299 | Cassie Newton |
@@ -744,8 +744,8 @@
 | 736 | 289 | August Hale |
 | 737 | 289 | Bella Novia |
 | 738 | 288 | thranduil |
-| 739 | 288 | Jenna Nance |
-| 740 | 288 | Samantha Angelo |
+| 739 | 288 | Samantha Angelo |
+| 740 | 288 | Jenna Nance |
 | 741 | 288 | Ashley Criner |
 | 742 | 287 | Toni Roberson |
 | 743 | 286 | Kelsey Sullivan |
