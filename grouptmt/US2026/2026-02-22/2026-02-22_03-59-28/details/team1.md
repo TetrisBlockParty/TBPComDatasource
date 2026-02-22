@@ -219,8 +219,8 @@
 | 211 | 152 | Brave Wrecker |
 | 212 | 150 | Agustin Duarte Orozco |
 | 213 | 150 | Adele Rahman |
-| 214 | 147 | Davery Spencer Adair |
-| 215 | 147 | J.F. Fields |
+| 214 | 147 | J.F. Fields |
+| 215 | 147 | Davery Spencer Adair |
 | 216 | 146 | Witty Builderfit |
 | 217 | 145 | Tipsy Riseclear |
 | 218 | 144 | Cranky Pattern |
@@ -241,15 +241,15 @@
 | 233 | 138 | Giddy Cascade |
 | 234 | 137 | Marci Sanders |
 | 235 | 137 | Cody Gates |
-| 236 | 136 | Tavia |
-| 237 | 136 | Breanna Luna |
+| 236 | 136 | Breanna Luna |
+| 237 | 136 | Tavia |
 | 238 | 135 | Aimee Horton |
 | 239 | 134 | Jessie |
 | 240 | 132 | Larry Tilton |
 | 241 | 132 | Layzietyme |
 | 242 | 131 | Tawnya Peltonen |
 | 243 | 131 | Uhog SF |
-| 244 | 130 | Carl Claunch |
+| 244 | 130 | Gilbert Ortiz Jr. |
 | 245 | 130 | Amanda Johnson Huffman |
 | 246 | 130 | Carl Claunch |
 | 247 | 129 | Sherri E Woods Hess |

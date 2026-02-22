@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
-| 78 | 582 | Natasha Jones |
-| 79 | 582 | Jay Horn |
+| 77 | 582 | Natasha Jones |
+| 78 | 582 | Jay Horn |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Blkpep Davidson |
-| 122 | 410 | Stephanie Simpson |
+| 121 | 410 | Stephanie Simpson |
+| 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Scott Lindsay |
@@ -154,10 +154,10 @@
 | 146 | 366 | Adrian Marcel Pate |
 | 147 | 365 | Logan Naccarato |
 | 148 | 359 | Dapper Snap |
-| 149 | 355 | Sherry Ogden |
-| 150 | 355 | Tessina Dewey-Mancino |
-| 151 | 353 | Shunta Jacobs |
-| 152 | 353 | CeceGeGe |
+| 149 | 355 | Tessina Dewey-Mancino |
+| 150 | 355 | Sherry Ogden |
+| 151 | 353 | CeceGeGe |
+| 152 | 353 | Shunta Jacobs |
 | 153 | 352 | Chris Bell |
 | 154 | 350 | Darlene McMillan |
 | 155 | 347 | Nicole Flippo |
