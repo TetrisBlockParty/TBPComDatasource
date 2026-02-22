@@ -132,8 +132,8 @@
 | 124 | 416 | Mary Pellegrino |
 | 125 | 415 | ren |
 | 126 | 411 | FuzzyNavel |
-| 127 | 410 | Stephanie Blkpep Davidson |
-| 128 | 410 | Stephanie Simpson |
+| 127 | 410 | Stephanie Simpson |
+| 128 | 410 | Stephanie Blkpep Davidson |
 | 129 | 409 | Karon Griffin |
 | 130 | 407 | Joye Sims Binion |
 | 131 | 405 | Michelle |
@@ -163,8 +163,8 @@
 | 155 | 365 | Logan Naccarato |
 | 156 | 359 | Dapper Snap |
 | 157 | 355 | Tessina Dewey-Mancino |
-| 158 | 353 | Shunta Jacobs |
-| 159 | 353 | CeceGeGe |
+| 158 | 353 | CeceGeGe |
+| 159 | 353 | Shunta Jacobs |
 | 160 | 352 | Chris Bell |
 | 161 | 350 | Darlene McMillan |
 | 162 | 348 | Chasity |

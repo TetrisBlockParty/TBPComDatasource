@@ -297,8 +297,8 @@
 | 289 | 115 | Alexandra Karavias |
 | 290 | 115 | Nubian1 |
 | 291 | 114 | Christina Black |
-| 292 | 113 | Dandy Cascadefit |
-| 293 | 113 | Adam Randall |
+| 292 | 113 | Adam Randall |
+| 293 | 113 | Dandy Cascadefit |
 | 294 | 112 | Chris Alexinas |
 | 295 | 111 | Lazy Blocker |
 | 296 | 111 | Richard-April Kice |
@@ -323,8 +323,8 @@
 | 315 | 106 | Jacob Richard |
 | 316 | 105 | Jenny Wells-Oakley |
 | 317 | 105 | GBR |
-| 318 | 105 | Zesty Linkgrid |
-| 319 | 105 | Jenny Wells-Oakley |
+| 318 | 105 | TRCuse |
+| 319 | 105 | Zesty Linkgrid |
 | 320 | 104 | Cranky Rollpiece |
 | 321 | 104 | Jim Hart |
 | 322 | 104 | Jessica Johnston |

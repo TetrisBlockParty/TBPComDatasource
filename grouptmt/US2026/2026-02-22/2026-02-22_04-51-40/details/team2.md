@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Desiree Harris Rosch |
-| 167 | 941 | Marie Boyd Faulk |
+| 166 | 941 | Marie Boyd Faulk |
+| 167 | 941 | Desiree Harris Rosch |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -196,10 +196,10 @@
 | 188 | 857 | Della Hole |
 | 189 | 856 | Roger Grabbit |
 | 190 | 850 | Missie Lawson Gebhardt |
-| 191 | 849 | Hillary Crawford |
-| 192 | 849 | Jennifer Kistner |
-| 193 | 845 | April Dawn Gussler |
-| 194 | 845 | Felicia Lynn |
+| 191 | 849 | Jennifer Kistner |
+| 192 | 849 | Hillary Crawford |
+| 193 | 845 | Felicia Lynn |
+| 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
 | 197 | 834 | Nika Bee |
@@ -262,8 +262,8 @@
 | 254 | 678 | Scott Treadway |
 | 255 | 677 | Mema |
 | 256 | 676 | Pacynthia Williams |
-| 257 | 675 | Brenda Utphall |
-| 258 | 675 | Tommy Tha Boss Gunz |
+| 257 | 675 | Tommy Tha Boss Gunz |
+| 258 | 675 | Brenda Utphall |
 | 259 | 672 | Danielle Simmons |
 | 260 | 671 | Poldo Ilano |
 | 261 | 669 | Claire Noland |

@@ -103,8 +103,8 @@
 | 95 | 323 | Sweet Baker |
 | 96 | 321 | Shauna Loe |
 | 97 | 321 | Maria C. Hernandez |
-| 98 | 319 | Deanna L Hermanson |
-| 99 | 319 | Patrick Luckenbill |
+| 98 | 319 | Patrick Luckenbill |
+| 99 | 319 | Deanna L Hermanson |
 | 100 | 313 | Tanya Carpenter-Reynolds |
 | 101 | 310 | Seth Wesson |
 | 102 | 306 | Happy Basegrid |
@@ -218,8 +218,8 @@
 | 210 | 163 | Blaire Bruckoff |
 | 211 | 161 | SavageBooty98 |
 | 212 | 160 | Tedashi |
-| 213 | 158 | Sarah Marie |
-| 214 | 158 | Alenoush Karimian |
+| 213 | 158 | Alenoush Karimian |
+| 214 | 158 | Sarah Marie |
 | 215 | 154 | Melissa Lemmon |
 | 216 | 153 | Barry Mac'Ockner |
 | 217 | 153 | Desiree Deschaine Havee |
