@@ -219,8 +219,8 @@
 | 211 | 867 | Peppy Zone |
 | 212 | 865 | Dedra Steward |
 | 213 | 863 | nikki |
-| 214 | 862 | Brittany Radaszewski |
-| 215 | 862 | Robin Kerby |
+| 214 | 862 | Robin Kerby |
+| 215 | 862 | Brittany Radaszewski |
 | 216 | 860 | April Dawn Gussler |
 | 217 | 857 | Della Hole |
 | 218 | 853 | Felicia Lynn |
@@ -481,8 +481,8 @@
 | 473 | 456 | Melissa Rebbe-Lehman |
 | 474 | 455 | Kiana Boschh |
 | 475 | 454 | Casey Schumacher |
-| 476 | 453 | Joshua Sommerville |
-| 477 | 453 | Rhonda Petro |
+| 476 | 453 | Rhonda Petro |
+| 477 | 453 | Joshua Sommerville |
 | 478 | 451 | Funky Caster |
 | 479 | 451 | Cody Nishimura |
 | 480 | 451 | Dylan Thomason |
@@ -543,8 +543,8 @@
 | 535 | 410 | Tara Lynn Janes |
 | 536 | 410 | Nicole Cannon |
 | 537 | 408 | Brandon Jones |
-| 538 | 408 | Stefanie Zonzini-Gagliardi |
-| 539 | 408 | Abimbola Bimbo |
+| 538 | 408 | Abimbola Bimbo |
+| 539 | 408 | Stefanie Zonzini-Gagliardi |
 | 540 | 407 | Tipsy Filler |
 | 541 | 406 | Erin StFrancis |
 | 542 | 406 | Kimberly Ann |
@@ -613,8 +613,8 @@
 | 605 | 373 | Ashley Marie |
 | 606 | 372 | Ebony Deloach Bryant |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 371 | Giggy Grabber |
-| 609 | 371 | AkaLefty |
+| 608 | 371 | AkaLefty |
+| 609 | 371 | Giggy Grabber |
 | 610 | 371 | Brenda Messer |
 | 611 | 369 | Juan Castillo |
 | 612 | 369 | Tony Lea |
@@ -1060,8 +1060,8 @@
 | 1052 | 214 | Happy Puzzle |
 | 1053 | 214 | Michele Phelps |
 | 1054 | 214 | Luciano Andre Versace Grismondie |
-| 1055 | 213 | Chirpy Tilt |
-| 1056 | 213 | Janai Vrabel |
+| 1055 | 213 | Janai Vrabel |
+| 1056 | 213 | Chirpy Tilt |
 | 1057 | 213 | Cynthia Knox |
 | 1058 | 213 | Hannah Leigh Pelofsky |
 | 1059 | 212 | JP Parks |
@@ -1120,8 +1120,8 @@
 | 1112 | 201 | LintFunk |
 | 1113 | 201 | Jennifer Rajek |
 | 1114 | 201 | Betty Ruth Hale |
-| 1115 | 200 | Sara Silvernail-Kay |
-| 1116 | 200 | Rich Sullivan |
+| 1115 | 200 | Rich Sullivan |
+| 1116 | 200 | Sara Silvernail-Kay |
 | 1117 | 200 | Shyne Sun |
 | 1118 | 199 | Tiffany Michelle Arnold |
 | 1119 | 199 | Melissa May |

@@ -192,8 +192,8 @@
 | 184 | 346 | Chummy Caster |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Leah Barnett |
-| 188 | 338 | Gumbo |
+| 187 | 338 | Gumbo |
+| 188 | 338 | Leah Barnett |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | RickyG |
@@ -312,8 +312,8 @@
 | 304 | 202 | Staci George Fitzsimmons |
 | 305 | 201 | Hyper Matchzone |
 | 306 | 201 | Alexmac |
-| 307 | 200 | glichmod |
-| 308 | 200 | Sharisse Baltimore |
+| 307 | 200 | Sharisse Baltimore |
+| 308 | 200 | glichmod |
 | 309 | 200 | Saucy Buildout |
 | 310 | 198 | kacihall |
 | 311 | 195 | Nicha Hooker |
@@ -430,10 +430,10 @@
 | 422 | 140 | Linda Draper |
 | 423 | 139 | Beppy |
 | 424 | 139 | Paula Little |
-| 425 | 138 | Skinny Baldez |
-| 426 | 138 | Bleu Sun Beams |
-| 427 | 137 | Giggly Brickroll |
-| 428 | 137 | Reina Roth |
+| 425 | 138 | Bleu Sun Beams |
+| 426 | 138 | Skinny Baldez |
+| 427 | 137 | Reina Roth |
+| 428 | 137 | Giggly Brickroll |
 | 429 | 136 | Crystal Hine |
 | 430 | 136 | Stephanie Zahm |
 | 431 | 136 | Sabrina Mansfield |

@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 623 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -154,28 +154,28 @@
 | 146 | 256 | David Miller |
 | 147 | 255 | Elaine Elaine |
 | 148 | 254 | Al Smith Jr |
-| 149 | 253 | Witty Builderfit |
-| 150 | 253 | Plucky Fallzone |
+| 149 | 253 | Plucky Fallzone |
+| 150 | 253 | Witty Builderfit |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
-| 153 | 244 | Tyler Werts |
-| 154 | 244 | Mandyy Rae |
+| 153 | 244 | Mandyy Rae |
+| 154 | 244 | Tyler Werts |
 | 155 | 243 | Trippy Redd |
 | 156 | 242 | ALFD |
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Frothy Pattern |
-| 161 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Billie Dawn Sparks |
+| 161 | 230 | Frothy Pattern |
 | 162 | 229 | David Lutcher |
 | 163 | 226 | Sleepysloath5745 |
 | 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
-| 167 | 217 | Kimberly Garcia |
-| 168 | 217 | ParisandCory Champagne |
-| 169 | 216 | Shauntina Burke |
-| 170 | 216 | MRdot Rooski |
+| 167 | 217 | ParisandCory Champagne |
+| 168 | 217 | Kimberly Garcia |
+| 169 | 216 | MRdot Rooski |
+| 170 | 216 | Shauntina Burke |
 | 171 | 215 | Sam Williams |
 | 172 | 213 | Daring Fitclear |
 | 173 | 212 | Jaimie Lynn |
@@ -192,8 +192,8 @@
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
 | 190 | 200 | Breanna Luna |
 | 191 | 200 | DaRascal |
@@ -228,7 +228,7 @@
 | 220 | 179 | femmefatale |
 | 221 | 179 | Danielle Little-Daugherty |
 | 222 | 178 | Chad Atchley |
-| 223 | 177 | Perky Shiftsnap |
+| 223 | 177 | Irual Hctrab |
 | 224 | 177 | Alenoush Karimian |
 | 225 | 177 | Jacqueline Unique |
 | 226 | 177 | Perky Shiftsnap |
@@ -308,9 +308,9 @@
 | 300 | 132 | Larry Tilton |
 | 301 | 131 | Dizzy Riseclear |
 | 302 | 131 | Plucky Wrecker |
-| 303 | 130 | Carrie Smith |
-| 304 | 130 | Carl Claunch |
-| 305 | 130 | Howdi Duty |
+| 303 | 130 | Howdi Duty |
+| 304 | 130 | Carrie Smith |
+| 305 | 130 | Carl Claunch |
 | 306 | 129 | Sherri E Woods Hess |
 | 307 | 128 | Alyssa Ingram |
 | 308 | 128 | George Dalton |
