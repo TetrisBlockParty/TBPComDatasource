@@ -132,8 +132,8 @@
 | 124 | 404 | Courtney Cicoria |
 | 125 | 400 | Ericca Eldridge |
 | 126 | 393 | Carlton Unfiltered |
-| 127 | 391 | Austin Owens |
-| 128 | 391 | Ramel Rhodes |
+| 127 | 391 | Ramel Rhodes |
+| 128 | 391 | Austin Owens |
 | 129 | 377 | Carrie Brian |
 | 130 | 373 | Joseph Guthrie |
 | 131 | 369 | Nope Young |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -288,8 +288,8 @@
 | 280 | 185 | Nubian1 |
 | 281 | 183 | Twisty Risebuilder |
 | 282 | 182 | TinyLegoRose |
-| 283 | 181 | Carter Jones |
-| 284 | 181 | Jackie Marie |
+| 283 | 181 | Jackie Marie |
+| 284 | 181 | Carter Jones |
 | 285 | 180 | Cozy Balancer |
 | 286 | 179 | AyeKay |
 | 287 | 175 | Lorena Guerrero-Barron |

@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -158,8 +158,8 @@
 | 150 | 316 | Dizzy Party |
 | 151 | 313 | Virginia Gray Floyd |
 | 152 | 310 | Kimberly Garcia |
-| 153 | 308 | Jason Savage |
-| 154 | 308 | Sharon Reynolds |
+| 153 | 308 | Sharon Reynolds |
+| 154 | 308 | Jason Savage |
 | 155 | 306 | Bloknboy |
 | 156 | 306 | Happy Basegrid |
 | 157 | 304 | Rachael |
@@ -301,14 +301,14 @@
 | 293 | 189 | Bird Person |
 | 294 | 189 | Tawnya Peltonen |
 | 295 | 188 | Brave Wrecker |
-| 296 | 187 | GringaLinga |
+| 296 | 187 | Cool Towerzone |
 | 297 | 187 | Jessica Weed |
-| 298 | 187 | Cool Towerzone |
+| 298 | 187 | GringaLinga |
 | 299 | 185 | Hasty Columnbuilder |
 | 300 | 184 | Cranky Pattern |
 | 301 | 184 | Chris Sigurdson |
-| 302 | 183 | Tina Englert |
-| 303 | 183 | Dino |
+| 302 | 183 | Dino |
+| 303 | 183 | Tina Englert |
 | 304 | 181 | David DeSantis |
 | 305 | 179 | Speedy Snapfall |
 | 306 | 179 | Ryan White |
@@ -321,7 +321,7 @@
 | 313 | 175 | Gary Gobin |
 | 314 | 174 | Tavia |
 | 315 | 174 | Ariel Whittington |
-| 316 | 174 | Tavia |
+| 316 | 174 | Alex Gauthier |
 | 317 | 173 | Rico Rico |
 | 318 | 172 | Nathan Sealander |
 | 319 | 171 | Greg Premoe |

@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -166,8 +166,8 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Makelini Mausia |
 | 165 | 464 | Michelle |
@@ -187,8 +187,8 @@
 | 179 | 432 | Christine Trester |
 | 180 | 432 | Luciana Braganca Vieira |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Joye Sims Binion |
-| 183 | 430 | Jeni Dow |
+| 182 | 430 | Jeni Dow |
+| 183 | 430 | Joye Sims Binion |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -258,8 +258,8 @@
 | 250 | 312 | Charles Perrone |
 | 251 | 308 | Cynthia Herrmann Egland |
 | 252 | 307 | rnr junky |
-| 253 | 307 | Blocked |
-| 254 | 307 | Snappy Balancer |
+| 253 | 307 | Snappy Balancer |
+| 254 | 307 | Blocked |
 | 255 | 306 | Felicia Rocha |
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
@@ -269,8 +269,8 @@
 | 261 | 298 | MsBee |
 | 262 | 298 | Grams |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Hoppy Buildout |
-| 265 | 296 | Katrina Turner |
+| 264 | 296 | Katrina Turner |
+| 265 | 296 | Hoppy Buildout |
 | 266 | 295 | Tiffany Davie |
 | 267 | 292 | Cheeky Snapper |
 | 268 | 291 | Carrie Huskey |
@@ -553,8 +553,8 @@
 | 545 | 147 | Heather Bateman |
 | 546 | 147 | Carrie Resler |
 | 547 | 147 | Megan Rathmanner |
-| 548 | 146 | Amanda Declue |
-| 549 | 146 | Sara Dunn |
+| 548 | 146 | Sara Dunn |
+| 549 | 146 | Amanda Declue |
 | 550 | 145 | Christine Vosburgh |
 | 551 | 144 | Rachel Grant |
 | 552 | 144 | krazibtch |
