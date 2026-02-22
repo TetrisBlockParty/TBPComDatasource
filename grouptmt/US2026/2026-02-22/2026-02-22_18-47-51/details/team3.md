@@ -70,8 +70,8 @@
 | 62 | 995 | Joey Banks |
 | 63 | 972 | Susan Valentino |
 | 64 | 928 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -343,22 +343,22 @@
 | 335 | 221 | kacihall |
 | 336 | 221 | Bleu Sun Beams |
 | 337 | 220 | Tosha Griffey |
-| 338 | 218 | Khaleada McGill Banks |
-| 339 | 218 | Tina Smith Roy |
+| 338 | 218 | Tina Smith Roy |
+| 339 | 218 | Khaleada McGill Banks |
 | 340 | 218 | Eileen Brady Thurber |
 | 341 | 217 | Emma |
 | 342 | 217 | Goofy Fall |
 | 343 | 216 | Cheryl Hinch Tenbrook |
 | 344 | 216 | Frothy Snapper |
 | 345 | 215 | Everret Maxine |
-| 346 | 214 | Amy Fuller Heaton |
-| 347 | 214 | Randy Clevenger |
-| 348 | 213 | Jess Dearborn |
-| 349 | 213 | Romeo |
+| 346 | 214 | Randy Clevenger |
+| 347 | 214 | Amy Fuller Heaton |
+| 348 | 213 | Romeo |
+| 349 | 213 | Jess Dearborn |
 | 350 | 212 | AlsoJess |
-| 351 | 211 | El Chapa |
-| 352 | 211 | Velma Mull |
-| 353 | 211 | Kirhonda Autmon |
+| 351 | 211 | Velma Mull |
+| 352 | 211 | Kirhonda Autmon |
+| 353 | 211 | El Chapa |
 | 354 | 210 | Criss |
 | 355 | 210 | Ashley Lynn Marchese |
 | 356 | 210 | Saucy Buildout |
@@ -368,8 +368,8 @@
 | 360 | 207 | angieelyn |
 | 361 | 207 | Kristian Thurman |
 | 362 | 206 | Tammy Rosenberry |
-| 363 | 205 | Michael Kimbro |
-| 364 | 205 | Rachel Napper |
+| 363 | 205 | Rachel Napper |
+| 364 | 205 | Michael Kimbro |
 | 365 | 204 | Cesar Barraza |
 | 366 | 203 | DanceLuvLaugh |
 | 367 | 203 | Angella Lyons |

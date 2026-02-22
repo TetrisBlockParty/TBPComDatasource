@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -167,12 +167,12 @@
 | 159 | 293 | Sarah Roberts |
 | 160 | 292 | David Lutcher |
 | 161 | 285 | ALFD |
-| 162 | 284 | Emily Adelaide Wheatley |
-| 163 | 284 | Rachael |
+| 162 | 284 | Rachael |
+| 163 | 284 | Emily Adelaide Wheatley |
 | 164 | 283 | Franswa |
 | 165 | 282 | Timothy Dew |
 | 166 | 282 | Tyler Werts |
-| 167 | 282 | Cool Shiftsnap |
+| 167 | 282 | Sassy Builderline |
 | 168 | 282 | Snippy Wipebuilder |
 | 169 | 282 | Cool Shiftsnap |
 | 170 | 280 | Ash Galvan |
@@ -207,8 +207,8 @@
 | 199 | 242 | John Kim |
 | 200 | 241 | John J. Cronin |
 | 201 | 240 | DaRascal |
-| 202 | 239 | Sam Williams |
-| 203 | 239 | Lacy Wolfe |
+| 202 | 239 | Lacy Wolfe |
+| 203 | 239 | Sam Williams |
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
@@ -229,8 +229,8 @@
 | 221 | 223 | Shiny Gridmatch |
 | 222 | 223 | Christina Backer |
 | 223 | 222 | Debbie Davis |
-| 224 | 221 | Amy Hess |
-| 225 | 221 | Daring Fitclear |
+| 224 | 221 | Daring Fitclear |
+| 225 | 221 | Amy Hess |
 | 226 | 220 | Giddy Cascade |
 | 227 | 219 | Chuck Gannon |
 | 228 | 217 | Jason Savage |
@@ -271,11 +271,11 @@
 | 263 | 196 | Marci Sanders |
 | 264 | 195 | Jennifer Olewnik Soborowski |
 | 265 | 194 | Poppy Riserpiece |
-| 266 | 193 | Phu ckalldems |
-| 267 | 193 | Lachelle Dillon |
+| 266 | 193 | Lachelle Dillon |
+| 267 | 193 | Phu ckalldems |
 | 268 | 192 | Tiger Lily |
-| 269 | 191 | J.F. Fields |
-| 270 | 191 | Renata Mabie |
+| 269 | 191 | Renata Mabie |
+| 270 | 191 | J.F. Fields |
 | 271 | 190 | Sweetts |
 | 272 | 190 | Thorne Shumate |
 | 273 | 189 | Katie Martin |

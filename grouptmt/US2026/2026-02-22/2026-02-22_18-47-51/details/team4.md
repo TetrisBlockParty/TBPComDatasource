@@ -199,8 +199,8 @@
 | 191 | 247 | Dennis Bradley |
 | 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
-| 194 | 245 | Autum Leigh |
-| 195 | 245 | 23 |
+| 194 | 245 | 23 |
+| 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
 | 197 | 244 | Lindsey Gonzalez |
 | 198 | 244 | Twisty Cascadezone |
@@ -341,8 +341,8 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Jay28 |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Glitzy Crasher |
-| 337 | 145 | Sandra Safford |
+| 336 | 145 | Sandra Safford |
+| 337 | 145 | Glitzy Crasher |
 | 338 | 144 | Squeezy Pearsall |
 | 339 | 143 | Metsfan |
 | 340 | 143 | Asher |

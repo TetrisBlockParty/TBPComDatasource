@@ -729,10 +729,10 @@
 | 721 | 368 | Anthony D Gritz Jr |
 | 722 | 368 | Susan Arnburg |
 | 723 | 367 | Melanie Csikortos |
-| 724 | 367 | Rose Fx |
-| 725 | 367 | Connie Lepore-Mann |
-| 726 | 366 | Courtney Burcham |
-| 727 | 366 | Tash Bell |
+| 724 | 367 | Connie Lepore-Mann |
+| 725 | 367 | Rose Fx |
+| 726 | 366 | Tash Bell |
+| 727 | 366 | Courtney Burcham |
 | 728 | 365 | Christina Lewis-Vickers |
 | 729 | 364 | Cassie Newton |
 | 730 | 364 | Jessica Galick |
