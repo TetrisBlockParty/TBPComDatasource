@@ -158,8 +158,8 @@
 | 150 | 179 | Scott Jameson |
 | 151 | 179 | Ak Jones |
 | 152 | 176 | Zethra Prenisha Rahming |
-| 153 | 175 | Ren Mc |
-| 154 | 175 | blockstar |
+| 153 | 175 | blockstar |
+| 154 | 175 | Ren Mc |
 | 155 | 174 | Dihcheese444 |
 | 156 | 172 | Jessica Bohlken |
 | 157 | 171 | Diana Houts |
@@ -222,8 +222,8 @@
 | 214 | 128 | Kristin MacDonald |
 | 215 | 127 | Zesty Twistbuilder |
 | 216 | 126 | Nerdy Twisterfit |
-| 217 | 126 | Angelito |
-| 218 | 126 | icequeenx |
+| 217 | 126 | icequeenx |
+| 218 | 126 | Angelito |
 | 219 | 125 | Judy Cox |
 | 220 | 124 | Sam Middleton |
 | 221 | 124 | Allen Lloyd |

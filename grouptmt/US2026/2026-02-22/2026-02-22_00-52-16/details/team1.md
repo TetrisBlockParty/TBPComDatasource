@@ -118,8 +118,8 @@
 | 110 | 249 | Elaine Elaine |
 | 111 | 248 | Jason Jones |
 | 112 | 244 | Franswa |
-| 113 | 243 | Chelsea Dahlquist |
-| 114 | 243 | Trippy Redd |
+| 113 | 243 | Trippy Redd |
+| 114 | 243 | Chelsea Dahlquist |
 | 115 | 240 | Tana |
 | 116 | 238 | John J. Cronin |
 | 117 | 236 | Mandyy Rae |
@@ -151,14 +151,14 @@
 | 143 | 190 | Sweetts |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
-| 146 | 186 | Jennifer Olewnik Soborowski |
-| 147 | 186 | Michael |
-| 148 | 186 | Margo Wagner |
+| 146 | 186 | Michael |
+| 147 | 186 | Margo Wagner |
+| 148 | 186 | Jennifer Olewnik Soborowski |
 | 149 | 186 | Katie Daniels |
 | 150 | 185 | Basment Living |
 | 151 | 182 | Monica Donato |
-| 152 | 180 | BigWeenie69 |
-| 153 | 180 | Erez Yosef |
+| 152 | 180 | Erez Yosef |
+| 153 | 180 | BigWeenie69 |
 | 154 | 179 | Danielle Little-Daugherty |
 | 155 | 178 | Chad Atchley |
 | 156 | 177 | Irual Hctrab |

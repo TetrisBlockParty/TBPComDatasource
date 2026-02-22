@@ -69,8 +69,8 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | MissTaylor |
-| 65 | 618 | Brandon Green |
+| 64 | 618 | Brandon Green |
+| 65 | 618 | MissTaylor |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
@@ -117,8 +117,8 @@
 | 109 | 400 | Luciana Braganca Vieira |
 | 110 | 399 | Mcathen |
 | 111 | 396 | Shannon Matthew Byers |
-| 112 | 394 | Annie Déè |
-| 113 | 394 | joclisa |
+| 112 | 394 | joclisa |
+| 113 | 394 | Annie Déè |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
 | 116 | 390 | Patti Skiles |
@@ -135,8 +135,8 @@
 | 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Tessina Dewey-Mancino |
-| 131 | 355 | Sherry Ogden |
+| 130 | 355 | Sherry Ogden |
+| 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
 | 134 | 347 | Darlene McMillan |
@@ -198,11 +198,11 @@
 | 190 | 224 | Nicole Myers |
 | 191 | 223 | Jeana Gilbert |
 | 192 | 220 | Jim Mathews |
-| 193 | 219 | Shunta Jacobs |
-| 194 | 219 | Jess Bissett |
+| 193 | 219 | Jess Bissett |
+| 194 | 219 | Shunta Jacobs |
 | 195 | 218 | LaNette Morgan |
 | 196 | 215 | IamJust Neyamijah Washington Sr. |
-| 197 | 214 | Amy Fuller Heaton |
+| 197 | 214 | Jenny Hrndz |
 | 198 | 214 | Tye Stovall |
 | 199 | 214 | Amy Fuller Heaton |
 | 200 | 211 | Katrina Turner |

@@ -381,8 +381,8 @@
 | 373 | 411 | Kristen O'Neal |
 | 374 | 411 | Ricky Fortune |
 | 375 | 406 | Erin StFrancis |
-| 376 | 406 | Tj Ball |
-| 377 | 406 | Julie Kresal |
+| 376 | 406 | Julie Kresal |
+| 377 | 406 | Tj Ball |
 | 378 | 405 | Christy Krissie |
 | 379 | 403 | Tonya Lee |
 | 380 | 403 | Snippy Rumbler |
