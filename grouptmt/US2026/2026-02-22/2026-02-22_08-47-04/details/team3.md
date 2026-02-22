@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Shonna Roberts |
-| 58 | 895 | Amanda L Baker |
+| 57 | 895 | Amanda L Baker |
+| 58 | 895 | Shonna Roberts |
 | 59 | 886 | Khristen AC |
 | 60 | 874 | Jessica Pineda-Lopez |
 | 61 | 871 | Elaine Webb Graves |
@@ -277,8 +277,8 @@
 | 269 | 221 | Jaime Monhaut-Reed |
 | 270 | 220 | rosy |
 | 271 | 219 | Sissy Lowery Davis |
-| 272 | 218 | Michael Lucado |
-| 273 | 218 | Jojo M |
+| 272 | 218 | Jojo M |
+| 273 | 218 | Michael Lucado |
 | 274 | 216 | Cheryl Hinch Tenbrook |
 | 275 | 216 | Twisty Brick LT |
 | 276 | 215 | IamJust Neyamijah Washington Sr. |
@@ -305,8 +305,8 @@
 | 297 | 202 | Staci George Fitzsimmons |
 | 298 | 201 | Hyper Matchzone |
 | 299 | 201 | Alexmac |
-| 300 | 200 | glichmod |
-| 301 | 200 | Sharisse Baltimore |
+| 300 | 200 | Sharisse Baltimore |
+| 301 | 200 | glichmod |
 | 302 | 200 | Saucy Buildout |
 | 303 | 198 | kacihall |
 | 304 | 195 | Nicha Hooker |
@@ -334,8 +334,8 @@
 | 326 | 179 | Rachel Napper |
 | 327 | 178 | Jess Dearborn |
 | 328 | 178 | Jennifer Alvey |
-| 329 | 176 | Melissa Orth Hunter |
-| 330 | 176 | Emma |
+| 329 | 176 | Emma |
+| 330 | 176 | Melissa Orth Hunter |
 | 331 | 175 | Eileen Brady Thurber |
 | 332 | 175 | Becca Engle |
 | 333 | 174 | Lesley Perez |

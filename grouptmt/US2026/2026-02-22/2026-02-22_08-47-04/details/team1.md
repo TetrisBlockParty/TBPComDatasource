@@ -35,8 +35,8 @@
 | 27 | 851 | Tipsy Column |
 | 28 | 842 | Chipper Gridlock |
 | 29 | 830 | Jennifer Cates |
-| 30 | 829 | Carrie Beck Geartz |
-| 31 | 829 | Hyp James NObettadanluvarat |
+| 30 | 829 | Hyp James NObettadanluvarat |
+| 31 | 829 | Carrie Beck Geartz |
 | 32 | 827 | Christina Graham |
 | 33 | 791 | Adryane Schnase |
 | 34 | 779 | Andrea Dañielle Ortiz |
@@ -235,8 +235,8 @@
 | 227 | 173 | Gabrielle Louise Malloch |
 | 228 | 171 | Greg Premoe |
 | 229 | 171 | David DeSantis |
-| 230 | 170 | Standia Civil |
-| 231 | 170 | Cece Ibarra |
+| 230 | 170 | Cece Ibarra |
+| 231 | 170 | Standia Civil |
 | 232 | 169 | Abbey Crespo |
 | 233 | 168 | Amber Stoker |
 | 234 | 167 | Nery Martinez |
@@ -337,7 +337,7 @@
 | 329 | 114 | Chris Sigurdson |
 | 330 | 113 | Itspaigebro |
 | 331 | 112 | Chris65 |
-| 332 | 112 | Crystal Joslin |
+| 332 | 112 | Negan Mallory Knoxx Spence |
 | 333 | 112 | Lush Zoney |
 | 334 | 112 | Crystal Joslin |
 | 335 | 112 | Glitzy Curvebuilder |

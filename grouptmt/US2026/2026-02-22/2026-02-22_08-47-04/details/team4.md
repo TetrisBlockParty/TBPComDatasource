@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -134,10 +134,10 @@
 | 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
-| 129 | 278 | Desi Desporte |
-| 130 | 278 | Carrie Brian |
-| 131 | 277 | Mary Ann Pabukis |
-| 132 | 277 | Scott Jameson |
+| 129 | 278 | Carrie Brian |
+| 130 | 278 | Desi Desporte |
+| 131 | 277 | Scott Jameson |
+| 132 | 277 | Mary Ann Pabukis |
 | 133 | 275 | Dizzy Tiley |
 | 134 | 274 | Calvin Cannon |
 | 135 | 271 | Sarah Brown |
@@ -172,8 +172,8 @@
 | 164 | 220 | Matt Dell'Olio |
 | 165 | 218 | Casey Grabner |
 | 166 | 217 | Chaz Duncan |
-| 167 | 215 | Ren Mc |
-| 168 | 215 | Jessica Bohlken |
+| 167 | 215 | Jessica Bohlken |
+| 168 | 215 | Ren Mc |
 | 169 | 213 | Sarah Neathery |
 | 170 | 213 | Jason Allen |
 | 171 | 212 | Mike Solo |
@@ -195,8 +195,8 @@
 | 187 | 194 | Zany Twisterfit |
 | 188 | 194 | Keshia Lyons |
 | 189 | 192 | Shauna Havard |
-| 190 | 191 | Sam Bishop |
-| 191 | 191 | Klo |
+| 190 | 191 | Klo |
+| 191 | 191 | Sam Bishop |
 | 192 | 190 | Cheery Risebuilder |
 | 193 | 190 | Alan George LaRage |
 | 194 | 189 | Calvin Dennis |

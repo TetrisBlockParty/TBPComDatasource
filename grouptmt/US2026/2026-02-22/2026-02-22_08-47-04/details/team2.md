@@ -254,8 +254,8 @@
 | 246 | 766 | Lisa Ongtowasruk |
 | 247 | 765 | Jodi Blake |
 | 248 | 764 | Pacynthia Williams |
-| 249 | 763 | Samantha Jo |
-| 250 | 763 | Mischelle Clay |
+| 249 | 763 | Mischelle Clay |
+| 250 | 763 | Samantha Jo |
 | 251 | 763 | Beth |
 | 252 | 759 | Desire Rice |
 | 253 | 756 | Stephanie Neuburger |
@@ -482,8 +482,8 @@
 | 474 | 444 | Chab |
 | 475 | 442 | Leah |
 | 476 | 441 | Christina Wsn |
-| 477 | 440 | Sarah Berger |
-| 478 | 440 | Liberty |
+| 477 | 440 | Liberty |
+| 478 | 440 | Sarah Berger |
 | 479 | 438 | Johnny Yeates |
 | 480 | 437 | Bubbly Snapfit |
 | 481 | 436 | Brenda Pierpoint |
@@ -495,8 +495,8 @@
 | 487 | 430 | Jackie Lucas |
 | 488 | 430 | Gloria Ininahazwe |
 | 489 | 429 | Christy Krissie |
-| 490 | 428 | Kiana Boschh |
-| 491 | 428 | Arkei Luster |
+| 490 | 428 | Arkei Luster |
+| 491 | 428 | Kiana Boschh |
 | 492 | 428 | Shyenn Gadsby |
 | 493 | 427 | Destiny Cozier |
 | 494 | 427 | Quinn |
@@ -548,8 +548,8 @@
 | 540 | 399 | Cleo Sims |
 | 541 | 399 | Oscar Bernie |
 | 542 | 398 | Crystal Heller Gonzalez |
-| 543 | 397 | Alex Dungo Hoang |
-| 544 | 397 | Tabs Reichert |
+| 543 | 397 | Tabs Reichert |
+| 544 | 397 | Alex Dungo Hoang |
 | 545 | 396 | Boogie SoAnimated Johnson |
 | 546 | 396 | Candy Pitts |
 | 547 | 394 | Taryece Gause |
@@ -604,15 +604,15 @@
 | 596 | 371 | AkaLefty |
 | 597 | 371 | Giggy Grabber |
 | 598 | 369 | Juan Castillo |
-| 599 | 369 | RaeVan Worthington |
-| 600 | 369 | Tony Lea |
+| 599 | 369 | Tony Lea |
+| 600 | 369 | RaeVan Worthington |
 | 601 | 368 | Angi Harrison |
 | 602 | 367 | Jessica Lamb |
 | 603 | 367 | Connie Lepore-Mann |
 | 604 | 366 | Sheniya Spurgeon |
-| 605 | 366 | Smashanator |
-| 606 | 366 | Courtney Burcham |
-| 607 | 366 | Lawanda Forbes |
+| 605 | 366 | Lawanda Forbes |
+| 606 | 366 | Smashanator |
+| 607 | 366 | Courtney Burcham |
 | 608 | 365 | Christina Lewis-Vickers |
 | 609 | 365 | Audrey Jones |
 | 610 | 365 | Susan Arnburg |
@@ -639,8 +639,8 @@
 | 631 | 354 | Rachel Kaminski |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
-| 634 | 352 | Mikayala Szaz |
-| 635 | 352 | ruth |
+| 634 | 352 | ruth |
+| 635 | 352 | Mikayala Szaz |
 | 636 | 351 | Connie Jimenez |
 | 637 | 350 | Fi Ne |
 | 638 | 350 | Chris Harr |
@@ -654,8 +654,8 @@
 | 646 | 345 | Gina Caulder |
 | 647 | 345 | Rhianna DiLorenzo |
 | 648 | 345 | Frisky Clearpiece |
-| 649 | 344 | Glenn Cobbins |
-| 650 | 344 | Tra Barnum |
+| 649 | 344 | Tra Barnum |
+| 650 | 344 | Glenn Cobbins |
 | 651 | 341 | Shorty |
 | 652 | 341 | Daniel Amos |
 | 653 | 340 | Dennis McLaurin |
@@ -666,8 +666,8 @@
 | 658 | 337 | Sassy Pattern |
 | 659 | 337 | Tum |
 | 660 | 337 | Savannah Alexander |
-| 661 | 336 | bru |
-| 662 | 336 | Austin Wilson |
+| 661 | 336 | Austin Wilson |
+| 662 | 336 | bru |
 | 663 | 336 | Swanky Columnbuilder |
 | 664 | 335 | Brooke Leigh Strube |
 | 665 | 335 | Maria Louise |
@@ -684,8 +684,8 @@
 | 676 | 328 | Jamie Carter Bierce |
 | 677 | 328 | BabyBird |
 | 678 | 326 | Sharon Mills |
-| 679 | 326 | Angela Murgia-Owen |
-| 680 | 326 | Ann Knutson Anderson |
+| 679 | 326 | Ann Knutson Anderson |
+| 680 | 326 | Angela Murgia-Owen |
 | 681 | 325 | Justin Hines |
 | 682 | 324 | Mike73 |
 | 683 | 324 | Tasia Stinson |
