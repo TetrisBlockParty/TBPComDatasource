@@ -220,8 +220,8 @@
 | 212 | 867 | Peppy Zone |
 | 213 | 865 | Dedra Steward |
 | 214 | 863 | nikki |
-| 215 | 862 | Brittany Radaszewski |
-| 216 | 862 | Robin Kerby |
+| 215 | 862 | Robin Kerby |
+| 216 | 862 | Brittany Radaszewski |
 | 217 | 860 | April Dawn Gussler |
 | 218 | 857 | Della Hole |
 | 219 | 855 | F-X |
@@ -315,8 +315,8 @@
 | 307 | 666 | Speedy Spinblock |
 | 308 | 665 | Prette Qui |
 | 309 | 664 | Sleepypanda67 |
-| 310 | 663 | Mandi Douglas Hilt |
-| 311 | 663 | Ashle Scranton |
+| 310 | 663 | Ashle Scranton |
+| 311 | 663 | Mandi Douglas Hilt |
 | 312 | 659 | Draizen Montrell Thomas |
 | 313 | 659 | Roseanna Peloso |
 | 314 | 658 | Erica Williams |
@@ -592,8 +592,8 @@
 | 584 | 386 | Michael Artis |
 | 585 | 386 | Wuntayk |
 | 586 | 385 | Tansaria Couch-Butler |
-| 587 | 384 | Party d |
-| 588 | 384 | Kelly |
+| 587 | 384 | Kelly |
+| 588 | 384 | Party d |
 | 589 | 383 | Belle Mari |
 | 590 | 382 | David Holliday |
 | 591 | 382 | Amber Gray |
@@ -601,10 +601,10 @@
 | 593 | 381 | Happy Caster |
 | 594 | 380 | Giggy Grabber |
 | 595 | 380 | Christy Long |
-| 596 | 379 | Mary Marie |
-| 597 | 379 | Cini |
-| 598 | 378 | Tina Marie |
-| 599 | 378 | TF Dyer |
+| 596 | 379 | Cini |
+| 597 | 379 | Mary Marie |
+| 598 | 378 | TF Dyer |
+| 599 | 378 | Tina Marie |
 | 600 | 378 | Jasmine Kenney |
 | 601 | 377 | Jason H Baker |
 | 602 | 376 | Darlene Bowman |
@@ -619,8 +619,8 @@
 | 611 | 371 | Brenda Messer |
 | 612 | 371 | Saucy Fitzone |
 | 613 | 370 | Heather Sawtelle-Mckenzie |
-| 614 | 369 | RaeVan Worthington |
-| 615 | 369 | Tony Lea |
+| 614 | 369 | Tony Lea |
+| 615 | 369 | RaeVan Worthington |
 | 616 | 369 | Juan Castillo |
 | 617 | 368 | Angi Harrison |
 | 618 | 367 | Jessica Lamb |
@@ -703,8 +703,8 @@
 | 695 | 326 | Angela Murgia-Owen |
 | 696 | 325 | Justin Hines |
 | 697 | 324 | Mike73 |
-| 698 | 324 | Dale Haanpaa |
-| 699 | 324 | Tasia Stinson |
+| 698 | 324 | Tasia Stinson |
+| 699 | 324 | Dale Haanpaa |
 | 700 | 323 | Kyla Louise |
 | 701 | 323 | Briana Alexander |
 | 702 | 322 | Christina Jarvis-Swarbrick |
@@ -910,8 +910,8 @@
 | 902 | 252 | Layna Lyons |
 | 903 | 252 | Amanda Segura |
 | 904 | 251 | Bold Clusterfit |
-| 905 | 251 | Sveta Lana |
-| 906 | 251 | Regina Unruh |
+| 905 | 251 | Regina Unruh |
+| 906 | 251 | Sveta Lana |
 | 907 | 251 | Emoniee Sa'niaya |
 | 908 | 251 | Chipper Dashpiece |
 | 909 | 251 | Kimmie Zimmerman-Rocha |

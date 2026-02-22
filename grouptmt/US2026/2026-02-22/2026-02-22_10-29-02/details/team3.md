@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Ammmmmmy |
-| 213 | 296 | Katrina Turner |
+| 212 | 296 | Katrina Turner |
+| 213 | 296 | Ammmmmmy |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -338,8 +338,8 @@
 | 330 | 181 | Denita Mungro |
 | 331 | 180 | Beth Ingham |
 | 332 | 179 | Christian Werndl |
-| 333 | 179 | Rachel Napper |
-| 334 | 179 | DanceLuvLaugh |
+| 333 | 179 | DanceLuvLaugh |
+| 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
 | 337 | 176 | Melissa Orth Hunter |
@@ -358,8 +358,8 @@
 | 350 | 167 | Romeo |
 | 351 | 167 | Irene Arreguin |
 | 352 | 166 | Noettín Kan Zasnemoore |
-| 353 | 166 | Snarky McFace |
-| 354 | 166 | Angella Lyons |
+| 353 | 166 | Angella Lyons |
+| 354 | 166 | Snarky McFace |
 | 355 | 165 | Kali Kelz Williams |
 | 356 | 165 | Ashley Lynn Marchese |
 | 357 | 165 | Rainbow77375 |
@@ -416,12 +416,12 @@
 | 408 | 146 | Sara Dunn |
 | 409 | 146 | Sdot |
 | 410 | 144 | Crystal Hine |
-| 411 | 144 | Blair Erin Waite |
-| 412 | 144 | Tenisha Semidey |
+| 411 | 144 | Tenisha Semidey |
+| 412 | 144 | Blair Erin Waite |
 | 413 | 143 | Deseree Ewing |
-| 414 | 142 | Gray Hicks |
-| 415 | 142 | Erica Anderson |
-| 416 | 142 | Frothy Snapper |
+| 414 | 142 | Erica Anderson |
+| 415 | 142 | Frothy Snapper |
+| 416 | 142 | Gray Hicks |
 | 417 | 142 | Jl |
 | 418 | 142 | Joy Petroski |
 | 419 | 141 | Bhreagh Gentile |
@@ -632,9 +632,9 @@
 | 624 | 97 | Tina Baurdau |
 | 625 | 97 | Rebecca Lynn |
 | 626 | 96 | D3NO |
-| 627 | 96 | Kelly |
-| 628 | 96 | Mainhia Thao |
-| 629 | 96 | Jason |
+| 627 | 96 | Jason |
+| 628 | 96 | Kelly |
+| 629 | 96 | Mainhia Thao |
 | 630 | 96 | Swanky Snapclear |
 | 631 | 95 | JustLessie |
 | 632 | 95 | Jazzy Zoner |

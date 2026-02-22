@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Carmethia Clemons Haslerig |
-| 78 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Carmethia Clemons Haslerig |
 | 79 | 485 | TeeJ |
 | 80 | 456 | TheNeesh50 |
 | 81 | 447 | Samantha Peterson |
@@ -177,8 +177,8 @@
 | 169 | 217 | Chaz Duncan |
 | 170 | 215 | Ren Mc |
 | 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Jason Allen |
-| 173 | 213 | Sarah Neathery |
+| 172 | 213 | Sarah Neathery |
+| 173 | 213 | Jason Allen |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 207 | Chirpy Basepiece |
@@ -218,8 +218,8 @@
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
-| 213 | 174 | JPW |
-| 214 | 174 | Rio Rocha |
+| 213 | 174 | Rio Rocha |
+| 214 | 174 | JPW |
 | 215 | 172 | Gilles Lanctot |
 | 216 | 171 | Autumn Kumzi |
 | 217 | 167 | Cozy Balancer |
