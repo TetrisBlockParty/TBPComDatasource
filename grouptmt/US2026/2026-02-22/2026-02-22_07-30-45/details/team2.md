@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Rachael Senard |
-| 347 | 554 | Santana Miyagi |
+| 346 | 554 | Santana Miyagi |
+| 347 | 554 | Rachael Senard |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -561,13 +561,13 @@
 | 553 | 384 | Kelly |
 | 554 | 384 | Party d |
 | 555 | 383 | Belle Mari |
-| 556 | 382 | KhaosLord |
-| 557 | 382 | David Holliday |
+| 556 | 382 | David Holliday |
+| 557 | 382 | KhaosLord |
 | 558 | 381 | Melissa Rebbe-Lehman |
 | 559 | 381 | Nicky Jackson |
 | 560 | 381 | Happy Caster |
-| 561 | 379 | Mary Marie |
-| 562 | 379 | Cini |
+| 561 | 379 | Cini |
+| 562 | 379 | Mary Marie |
 | 563 | 378 | Tina Marie |
 | 564 | 378 | TF Dyer |
 | 565 | 377 | Josh Dill |
@@ -661,10 +661,10 @@
 | 653 | 332 | Lathasa Newkirk |
 | 654 | 330 | Jennifer Monroe Kelly |
 | 655 | 329 | Chummy Blockbuilder |
-| 656 | 329 | Jane Crew |
-| 657 | 329 | Snappy Shatterfit |
-| 658 | 328 | Jamie Carter Bierce |
-| 659 | 328 | BabyBird |
+| 656 | 329 | Snappy Shatterfit |
+| 657 | 329 | Jane Crew |
+| 658 | 328 | BabyBird |
+| 659 | 328 | Jamie Carter Bierce |
 | 660 | 327 | Prette Qui |
 | 661 | 326 | Ann Knutson Anderson |
 | 662 | 326 | Angela Murgia-Owen |

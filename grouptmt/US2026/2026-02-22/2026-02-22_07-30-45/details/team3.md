@@ -118,8 +118,8 @@
 | 110 | 506 | Sashay Tapae Simpson |
 | 111 | 502 | Justin Ritter |
 | 112 | 502 | Elissa S-k |
-| 113 | 500 | Kristie |
-| 114 | 500 | Domo Washington |
+| 113 | 500 | Domo Washington |
+| 114 | 500 | Kristie |
 | 115 | 497 | Mykal Burton |
 | 116 | 492 | Daira Largen |
 | 117 | 491 | Chauntee Alfrey-Cardinale |
@@ -155,8 +155,8 @@
 | 147 | 401 | Katie Knaus |
 | 148 | 400 | Luciana Braganca Vieira |
 | 149 | 399 | Marcie Bressler |
-| 150 | 399 | Mcathen |
-| 151 | 399 | Jacqueline Rodriguez |
+| 150 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Mcathen |
 | 152 | 397 | Annie Déè |
 | 153 | 393 | Fallorina Susana |
 | 154 | 392 | Tasha Gillespie |
@@ -194,8 +194,8 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Rochelle Hazelett |
-| 190 | 311 | Araceli Parra |
+| 189 | 311 | Araceli Parra |
+| 190 | 311 | Rochelle Hazelett |
 | 191 | 310 | Danielle Balcom |
 | 192 | 308 | Rania Zaqout |
 | 193 | 308 | Daryn Elliott |
@@ -269,8 +269,8 @@
 | 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
-| 264 | 219 | Cozy Snaplink |
-| 265 | 219 | Sissy Lowery Davis |
+| 264 | 219 | Sissy Lowery Davis |
+| 265 | 219 | Cozy Snaplink |
 | 266 | 218 | Michael Lucado |
 | 267 | 217 | Chummy Caster |
 | 268 | 216 | Cheryl Hinch Tenbrook |
@@ -326,17 +326,17 @@
 | 318 | 179 | Tipsy Zonebuilder |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Emma |
-| 322 | 176 | Melissa Orth Hunter |
+| 321 | 176 | Melissa Orth Hunter |
+| 322 | 176 | Emma |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
 | 326 | 173 | BŘŰŤİÇŨŚ |
-| 327 | 169 | Naur |
-| 328 | 169 | Peachy Rollfit |
+| 327 | 169 | Peachy Rollfit |
+| 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | April Matthew Kibble |
-| 331 | 168 | Trice Thomas |
+| 330 | 168 | Trice Thomas |
+| 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Romeo |
 | 334 | 167 | Irene Arreguin |
@@ -370,8 +370,8 @@
 | 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Goofy Fall |
-| 365 | 152 | Eric Caccavale |
-| 366 | 152 | Shiny Zonebuilder |
+| 365 | 152 | Shiny Zonebuilder |
+| 366 | 152 | Eric Caccavale |
 | 367 | 151 | Sarah Cowan Burgos |
 | 368 | 149 | Alexis Taylor |
 | 369 | 148 | Pam Holt Powell |
@@ -547,8 +547,8 @@
 | 539 | 102 | Snazzy Brickzone |
 | 540 | 102 | Cheeky Twisterfit |
 | 541 | 101 | Quirky Dropzone |
-| 542 | 101 | Jolly Dashpiece |
-| 543 | 101 | JustGiGi |
+| 542 | 101 | JustGiGi |
+| 543 | 101 | Jolly Dashpiece |
 | 544 | 101 | Sassy Zonebuilder |
 | 545 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 546 | 100 | Kelly Koenig |

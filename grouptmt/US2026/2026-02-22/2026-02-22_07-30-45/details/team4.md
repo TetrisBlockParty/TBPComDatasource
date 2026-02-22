@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | TeeJ |
-| 75 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | Carmethia Clemons Haslerig |
+| 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |
@@ -104,8 +104,8 @@
 | 96 | 370 | Leslie Thomas |
 | 97 | 369 | Nope Young |
 | 98 | 358 | Nugget |
-| 99 | 352 | Monica Daley |
-| 100 | 352 | Zippy Gridlock |
+| 99 | 352 | Zippy Gridlock |
+| 100 | 352 | Monica Daley |
 | 101 | 344 | Livvy |
 | 102 | 337 | Lori Walker |
 | 103 | 334 | Amelpss |
@@ -150,8 +150,8 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Cursed Hag |
-| 146 | 230 | Autum Leigh |
+| 145 | 230 | Autum Leigh |
+| 146 | 230 | Cursed Hag |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Swanky Fitline |
 | 149 | 227 | Chris Bernstein |

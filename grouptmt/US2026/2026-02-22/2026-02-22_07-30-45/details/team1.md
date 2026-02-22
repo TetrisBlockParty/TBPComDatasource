@@ -358,9 +358,9 @@
 | 350 | 104 | Carrie Smith |
 | 351 | 103 | Tiger Lily |
 | 352 | 103 | Alex Gauthier |
-| 353 | 102 | Marie White |
+| 353 | 102 | Twisty Wobbler |
 | 354 | 102 | Sarah Henniker |
-| 355 | 102 | Twisty Wobbler |
+| 355 | 102 | Marie White |
 | 356 | 101 | Mizzledagod |
 | 357 | 101 | Liliana Pena |
 | 358 | 100 | Billie Ann Eason |
