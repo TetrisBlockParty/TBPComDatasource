@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -174,8 +174,8 @@
 | 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
-| 169 | 391 | Calista Jo Dickson |
-| 170 | 391 | Sarah Cowan Burgos |
+| 169 | 391 | Sarah Cowan Burgos |
+| 170 | 391 | Calista Jo Dickson |
 | 171 | 390 | Hasty Cascadefit |
 | 172 | 389 | Jeni Dow |
 | 173 | 385 | Shunta Jacobs |
@@ -196,8 +196,8 @@
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Stephanie Burtin |
-| 192 | 357 | Tom Nault |
+| 191 | 357 | Tom Nault |
+| 192 | 357 | Stephanie Burtin |
 | 193 | 353 | Nora Rogers |
 | 194 | 349 | Amanda J. Mcneil-Anderson |
 | 195 | 348 | Chasity |
@@ -286,8 +286,8 @@
 | 278 | 239 | Michael Johnson |
 | 279 | 238 | LaTanya GeminiondaRise Johnson |
 | 280 | 236 | Angela Scott |
-| 281 | 236 | Lys |
-| 282 | 236 | Jess Bissett |
+| 281 | 236 | Jess Bissett |
+| 282 | 236 | Lys |
 | 283 | 235 | Cozy Snaplink |
 | 284 | 233 | Ray Lader |
 | 285 | 233 | Josh Borquez |
@@ -472,8 +472,8 @@
 | 464 | 141 | Jen Lewis |
 | 465 | 141 | Bhreagh Gentile |
 | 466 | 141 | Heather Bateman |
-| 467 | 141 | Reina Roth |
-| 468 | 141 | Tipsy Puzzle |
+| 467 | 141 | Tipsy Puzzle |
+| 468 | 141 | Reina Roth |
 | 469 | 140 | Cyd061769 |
 | 470 | 140 | Jumpy Curvebuilder |
 | 471 | 140 | Christine Vosburgh |

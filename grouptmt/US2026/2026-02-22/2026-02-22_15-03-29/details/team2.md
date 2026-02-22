@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | April Dawn Gussler |
-| 239 | 860 | John Bednarik |
+| 238 | 860 | John Bednarik |
+| 239 | 860 | April Dawn Gussler |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Maria Escobar |
@@ -395,8 +395,8 @@
 | 387 | 572 | Chris Wanner |
 | 388 | 571 | Emily Lyric Converse |
 | 389 | 569 | Vaniel Glover |
-| 390 | 565 | Jaycee |
-| 391 | 565 | Steve Man |
+| 390 | 565 | Steve Man |
+| 391 | 565 | Jaycee |
 | 392 | 563 | Irene Jones |
 | 393 | 563 | snkylnk |
 | 394 | 561 | Traci Johnson |
@@ -418,8 +418,8 @@
 | 410 | 544 | Desiree Anderson |
 | 411 | 544 | Leah Keesling |
 | 412 | 544 | Deidre Shaffer |
-| 413 | 543 | Julie Kresal |
-| 414 | 543 | Vanessa Moreno |
+| 413 | 543 | Vanessa Moreno |
+| 414 | 543 | Julie Kresal |
 | 415 | 541 | g |
 | 416 | 540 | Dizzy Zone |
 | 417 | 539 | Dapper Dasher |
@@ -1133,9 +1133,9 @@
 | 1125 | 222 | Wacky Edgefit |
 | 1126 | 222 | Daring Lift |
 | 1127 | 222 | Lovely |
-| 1128 | 221 | Sabrina Smith |
-| 1129 | 221 | Persipnei Cuesta |
-| 1130 | 221 | Clever Dashgrid |
+| 1128 | 221 | Persipnei Cuesta |
+| 1129 | 221 | Clever Dashgrid |
+| 1130 | 221 | Sabrina Smith |
 | 1131 | 221 | Spunky Dash |
 | 1132 | 221 | Chummy Caster |
 | 1133 | 220 | Natalie M Wells |
@@ -1143,13 +1143,13 @@
 | 1135 | 220 | Perk Diggler |
 | 1136 | 220 | Hoppy Glidebuilder |
 | 1137 | 220 | HarleyJane |
-| 1138 | 220 | Amy Reynolds |
-| 1139 | 220 | Poppy |
+| 1138 | 220 | Poppy |
+| 1139 | 220 | Amy Reynolds |
 | 1140 | 220 | Samuel Macon |
 | 1141 | 219 | Kimberly Ashley-Stevens |
 | 1142 | 219 | Nicole Matthews |
-| 1143 | 219 | Tracie |
-| 1144 | 219 | Jenn Morin |
+| 1143 | 219 | Jenn Morin |
+| 1144 | 219 | Tracie |
 | 1145 | 218 | Klaudia Figaszewska |
 | 1146 | 218 | Cherry |
 | 1147 | 217 | Erika Meaux |

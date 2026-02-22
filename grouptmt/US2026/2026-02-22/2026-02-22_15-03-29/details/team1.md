@@ -105,16 +105,16 @@
 | 97 | 383 | Loony Fitzone |
 | 98 | 382 | Jacqueline Williams |
 | 99 | 381 | Luciano Moreira |
-| 100 | 379 | Kimmie Kimms |
-| 101 | 379 | Austin James |
+| 100 | 379 | Austin James |
+| 101 | 379 | Kimmie Kimms |
 | 102 | 376 | lil mickey |
 | 103 | 374 | Tinah Montanna |
 | 104 | 364 | Shauna Loe |
 | 105 | 362 | Plucky Ziggy |
 | 106 | 359 | Chirpy Smasher |
 | 107 | 355 | Hasbro Bros |
-| 108 | 352 | Jason Jones |
-| 109 | 352 | phrmblk24 |
+| 108 | 352 | phrmblk24 |
+| 109 | 352 | Jason Jones |
 | 110 | 350 | Tipsy Strikerpiece |
 | 111 | 349 | Dee Perry |
 | 112 | 344 | Bhelle Sumile |
@@ -126,8 +126,8 @@
 | 118 | 332 | Kristen Gideon |
 | 119 | 330 | Sweet Baker |
 | 120 | 326 | Monica Donato |
-| 121 | 321 | Tanya Carpenter-Reynolds |
-| 122 | 321 | Maria C. Hernandez |
+| 121 | 321 | Maria C. Hernandez |
+| 122 | 321 | Tanya Carpenter-Reynolds |
 | 123 | 318 | Jessica Sheehan |
 | 124 | 316 | Jennifer Hardman |
 | 125 | 316 | Ly Phethmany |
@@ -171,8 +171,8 @@
 | 163 | 260 | Ty Brown |
 | 164 | 257 | Amanda Jarnagin |
 | 165 | 254 | Al Smith Jr |
-| 166 | 253 | Jamie Jury |
-| 167 | 253 | Witty Builderfit |
+| 166 | 253 | Witty Builderfit |
+| 167 | 253 | Jamie Jury |
 | 168 | 252 | Dena Kayy |
 | 169 | 249 | Lakeisha Chapman |
 | 170 | 246 | Mike Ames |
