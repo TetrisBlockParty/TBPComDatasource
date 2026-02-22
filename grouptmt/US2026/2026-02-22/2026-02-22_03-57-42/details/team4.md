@@ -48,8 +48,8 @@
 | 40 | 646 | Jacqueline Helm |
 | 41 | 634 | Anthony Bryan Riva |
 | 42 | 632 | Kimyatta Cavin |
-| 43 | 630 | Chilly Line |
-| 44 | 630 | Dustee Craddock-Harrison |
+| 43 | 630 | Dustee Craddock-Harrison |
+| 44 | 630 | Chilly Line |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
 | 47 | 614 | KM8 |
@@ -111,8 +111,8 @@
 | 103 | 286 | Daria Rycewicz |
 | 104 | 284 | shark tato |
 | 105 | 279 | Ericca Eldridge |
-| 106 | 278 | Carrie Brian |
-| 107 | 278 | Lucas J Sutton |
+| 106 | 278 | Lucas J Sutton |
+| 107 | 278 | Carrie Brian |
 | 108 | 277 | KJ Pool |
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |

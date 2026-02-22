@@ -159,8 +159,8 @@
 | 151 | 201 | Sleepysloath5745 |
 | 152 | 200 | Ash Galvan |
 | 153 | 199 | Basment Living |
-| 154 | 198 | Shiny Gridmatch |
-| 155 | 198 | Happy Snapbuild |
+| 154 | 198 | Happy Snapbuild |
+| 155 | 198 | Shiny Gridmatch |
 | 156 | 195 | Daring Fitclear |
 | 157 | 194 | Tyler Werts |
 | 158 | 193 | Lachelle Dillon |

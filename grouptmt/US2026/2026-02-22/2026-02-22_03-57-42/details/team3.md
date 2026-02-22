@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
+| 77 | 582 | Jay Horn |
 | 78 | 582 | Natasha Jones |
-| 79 | 582 | Jay Horn |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -106,8 +106,8 @@
 | 98 | 506 | Sashay Tapae Simpson |
 | 99 | 503 | Susan Valentino |
 | 100 | 502 | Justin Ritter |
-| 101 | 500 | Kristie |
-| 102 | 500 | Domo Washington |
+| 101 | 500 | Domo Washington |
+| 102 | 500 | Kristie |
 | 103 | 497 | Mykal Burton |
 | 104 | 491 | Chauntee Alfrey-Cardinale |
 | 105 | 487 | Alaina Lee |
@@ -138,8 +138,8 @@
 | 130 | 399 | ren |
 | 131 | 399 | Patti Skiles |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Tasha Gillespie |
-| 134 | 392 | Katie Knaus |
+| 133 | 392 | Katie Knaus |
+| 134 | 392 | Tasha Gillespie |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Hasty Cascadefit |
 | 137 | 381 | Louise Stacy Sisson |
@@ -156,8 +156,8 @@
 | 148 | 359 | Dapper Snap |
 | 149 | 355 | Sherry Ogden |
 | 150 | 355 | Tessina Dewey-Mancino |
-| 151 | 353 | Shunta Jacobs |
-| 152 | 353 | CeceGeGe |
+| 151 | 353 | CeceGeGe |
+| 152 | 353 | Shunta Jacobs |
 | 153 | 352 | Chris Bell |
 | 154 | 350 | Darlene McMillan |
 | 155 | 347 | Nicole Flippo |
@@ -168,8 +168,8 @@
 | 160 | 332 | Rich LeBlanc |
 | 161 | 328 | Aaron Pitkin |
 | 162 | 323 | Demetrious Shaw Sr. |
-| 163 | 320 | Or Reznitsky |
-| 164 | 320 | Tom Nault |
+| 163 | 320 | Tom Nault |
+| 164 | 320 | Or Reznitsky |
 | 165 | 317 | Ashley Tookes |
 | 166 | 311 | Raya |
 | 167 | 308 | Rania Zaqout |
@@ -270,8 +270,8 @@
 | 262 | 190 | Saucy Buildout |
 | 263 | 189 | Katie Leigh Blankenship |
 | 264 | 188 | Loopy Fallmatch |
-| 265 | 184 | France Vézina |
-| 266 | 184 | Troy |
+| 265 | 184 | Troy |
+| 266 | 184 | France Vézina |
 | 267 | 182 | Carrie Huskey |
 | 268 | 182 | Melanie Sherwood |
 | 269 | 181 | Nicholas Roddy |
@@ -331,7 +331,7 @@
 | 323 | 153 | Cozy Snaplink |
 | 324 | 152 | Ashley Lynn Marchese |
 | 325 | 152 | Shiny Zonebuilder |
-| 326 | 152 | Ashley Lynn Marchese |
+| 326 | 152 | LaTanya GeminiondaRise Johnson |
 | 327 | 152 | Goofy Fall |
 | 328 | 151 | Rainbow77375 |
 | 329 | 151 | Nichole Greene |
@@ -803,7 +803,7 @@
 | 795 | 64 | Erzulie |
 | 796 | 64 | Chris Wallace |
 | 797 | 64 | Justin Parker |
-| 798 | 64 | Victoria Lexis Dyer |
+| 798 | 64 | Loopy Glide |
 | 799 | 64 | Lazy Matchfit |
 | 800 | 64 | Victoria Lexis Dyer |
 | 801 | 63 | HeatherMay220 |

@@ -141,8 +141,8 @@
 | 133 | 1051 | Shandrica Lowe |
 | 134 | 1048 | PsychKIRAtrist |
 | 135 | 1047 | Amy Sayers |
-| 136 | 1043 | Brave Dropmatch |
-| 137 | 1043 | Suki Kaur |
+| 136 | 1043 | Suki Kaur |
+| 137 | 1043 | Brave Dropmatch |
 | 138 | 1032 | Sarah Freitas |
 | 139 | 1023 | Brainy Smurf |
 | 140 | 1020 | Jumpy Gridpiece |
@@ -210,8 +210,8 @@
 | 202 | 798 | Nika Bee |
 | 203 | 787 | Laura McCarthey |
 | 204 | 783 | Shuany Arias |
-| 205 | 777 | Barbra Miller |
-| 206 | 777 | Tesha Oldaker |
+| 205 | 777 | Tesha Oldaker |
+| 206 | 777 | Barbra Miller |
 | 207 | 771 | Terri McKelvey McKinley |
 | 208 | 765 | Jodi Blake |
 | 209 | 763 | Samantha Jo |
@@ -250,8 +250,8 @@
 | 242 | 677 | Mema |
 | 243 | 677 | Auntie B |
 | 244 | 676 | Pacynthia Williams |
-| 245 | 675 | Tommy Tha Boss Gunz |
-| 246 | 675 | Brenda Utphall |
+| 245 | 675 | Brenda Utphall |
+| 246 | 675 | Tommy Tha Boss Gunz |
 | 247 | 672 | Danielle Simmons |
 | 248 | 670 | Alisa Lamb |
 | 249 | 669 | Claire Noland |
@@ -882,9 +882,9 @@
 | 874 | 213 | Carlos Javier Del Toro |
 | 875 | 213 | Cynthia Knox |
 | 876 | 212 | Sassy Linkroll |
-| 877 | 212 | Sarah Dean |
+| 877 | 212 | Laura Mcfee |
 | 878 | 212 | Denelle Wendt-Ramalho |
-| 879 | 212 | Laura Mcfee |
+| 879 | 212 | Sarah Dean |
 | 880 | 211 | Brenda Pierpoint |
 | 881 | 211 | Cini |
 | 882 | 211 | Neko Preston |
@@ -932,9 +932,9 @@
 | 924 | 199 | Quels Whidbee |
 | 925 | 199 | Michael David Hollis |
 | 926 | 199 | Jenny Castro |
-| 927 | 199 | Cozy Drop |
-| 928 | 199 | BeaNzMaMa |
-| 929 | 199 | Boldy Block |
+| 927 | 199 | BeaNzMaMa |
+| 928 | 199 | Boldy Block |
+| 929 | 199 | Cozy Drop |
 | 930 | 198 | P. D. Paige |
 | 931 | 198 | Wacky Brickbuilder |
 | 932 | 198 | CleverAngel |
