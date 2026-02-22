@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -91,9 +91,9 @@
 | 83 | 400 | Cynthia Bradley |
 | 84 | 399 | Nerdy Linkblock |
 | 85 | 397 | Tdub |
-| 86 | 390 | Candy Jones |
+| 86 | 390 | Goose egg |
 | 87 | 390 | Lori Bales |
-| 88 | 390 | Goose egg |
+| 88 | 390 | Candy Jones |
 | 89 | 389 | Trina Gee |
 | 90 | 388 | Jennifer ManWarren |
 | 91 | 383 | Loony Fitzone |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Dizzy Party |
 | 119 | 316 | Ly Phethmany |
@@ -184,8 +184,8 @@
 | 176 | 217 | ParisandCory Champagne |
 | 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Sam Williams |
-| 180 | 215 | Shaykmia |
+| 179 | 215 | Shaykmia |
+| 180 | 215 | Sam Williams |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -200,8 +200,8 @@
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Breanna Luna |
@@ -215,8 +215,8 @@
 | 207 | 195 | Jennifer Olewnik Soborowski |
 | 208 | 195 | Bindi |
 | 209 | 194 | Christy Jones |
-| 210 | 193 | Lachelle Dillon |
-| 211 | 193 | Michael |
+| 210 | 193 | Michael |
+| 211 | 193 | Lachelle Dillon |
 | 212 | 191 | Diane Byrd |
 | 213 | 191 | Shanae Grant |
 | 214 | 190 | Sweetts |
@@ -256,18 +256,18 @@
 | 248 | 173 | Rico Rico |
 | 249 | 171 | David DeSantis |
 | 250 | 171 | Greg Premoe |
-| 251 | 170 | Spunky Builderpiece |
-| 252 | 170 | Standia Civil |
+| 251 | 170 | Standia Civil |
+| 252 | 170 | Spunky Builderpiece |
 | 253 | 169 | Abbey Crespo |
 | 254 | 168 | Amber Stoker |
 | 255 | 168 | Angela Fairbank |
-| 256 | 167 | Nery Martinez |
-| 257 | 167 | Cranky Pattern |
+| 256 | 167 | Cranky Pattern |
+| 257 | 167 | Nery Martinez |
 | 258 | 166 | Carrie Smith |
-| 259 | 165 | Nadine Velardo |
-| 260 | 165 | Silly Align |
+| 259 | 165 | Silly Align |
+| 260 | 165 | Nadine Velardo |
 | 261 | 164 | Desiree Deschaine Havee |
-| 262 | 163 | Tyler Whitley |
+| 262 | 163 | Blaire Bruckoff |
 | 263 | 163 | Davery Spencer Adair |
 | 264 | 163 | Tyler Whitley |
 | 265 | 162 | Bird Person |

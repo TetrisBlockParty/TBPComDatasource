@@ -454,8 +454,8 @@
 | 446 | 487 | MrsCandyfine As Wine Truss |
 | 447 | 487 | Morgan Easter |
 | 448 | 485 | Mamachelle Eisweirth |
-| 449 | 485 | Ann Matzkanin |
-| 450 | 485 | Dapper Dasher |
+| 449 | 485 | Dapper Dasher |
+| 450 | 485 | Ann Matzkanin |
 | 451 | 484 | Brenna Ann |
 | 452 | 484 | Street Sweeper |
 | 453 | 483 | Victor Obiakarije |
@@ -559,8 +559,8 @@
 | 551 | 413 | Lauren Fitzgerald Thomas |
 | 552 | 412 | Jason H Baker |
 | 553 | 412 | Wuntayk |
-| 554 | 411 | Kristen O'Neal |
-| 555 | 411 | Mighty Spinbuilder |
+| 554 | 411 | Mighty Spinbuilder |
+| 555 | 411 | Kristen O'Neal |
 | 556 | 410 | Nicole Cannon |
 | 557 | 409 | Saucy Fitzone |
 | 558 | 408 | Brandon Jones |
@@ -712,8 +712,8 @@
 | 704 | 325 | James Smith |
 | 705 | 325 | Justin Hines |
 | 706 | 325 | Mike73 |
-| 707 | 324 | Tasia Stinson |
-| 708 | 324 | Dale Haanpaa |
+| 707 | 324 | Dale Haanpaa |
+| 708 | 324 | Tasia Stinson |
 | 709 | 323 | Briana Alexander |
 | 710 | 322 | Lea Stewart |
 | 711 | 322 | Michelle Pike |
@@ -781,8 +781,8 @@
 | 773 | 296 | Zappy Dropmatch |
 | 774 | 296 | Frisky Riserbuilder |
 | 775 | 295 | Noel Tarmy |
-| 776 | 294 | Amanda Edwards |
-| 777 | 294 | Sveta Lana |
+| 776 | 294 | Sveta Lana |
+| 777 | 294 | Amanda Edwards |
 | 778 | 293 | Ann Marie Davis |
 | 779 | 292 | Bryan Werleman |
 | 780 | 292 | Deana |
@@ -791,8 +791,8 @@
 | 783 | 291 | NickyBrooks |
 | 784 | 291 | Bella Novia |
 | 785 | 291 | Brave Gridpiece |
-| 786 | 289 | Min |
-| 787 | 289 | August Hale |
+| 786 | 289 | August Hale |
+| 787 | 289 | Min |
 | 788 | 289 | Ryan Chan |
 | 789 | 288 | thranduil |
 | 790 | 288 | Samantha Angelo |

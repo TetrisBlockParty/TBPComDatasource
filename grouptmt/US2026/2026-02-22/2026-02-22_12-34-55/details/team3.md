@@ -220,10 +220,10 @@
 | 212 | 301 | Chelsea Hall |
 | 213 | 300 | Sherika C. McDaniels |
 | 214 | 298 | MsBee |
-| 215 | 297 | Jojo M |
-| 216 | 297 | Keis |
-| 217 | 296 | Katrina Turner |
-| 218 | 296 | Ammmmmmy |
+| 215 | 297 | Keis |
+| 216 | 297 | Jojo M |
+| 217 | 296 | Ammmmmmy |
+| 218 | 296 | Katrina Turner |
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
@@ -271,8 +271,8 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
 | 269 | 233 | Ray Lader |
 | 270 | 233 | Josh Borquez |
@@ -351,12 +351,12 @@
 | 343 | 180 | Beth Ingham |
 | 344 | 179 | April Matthew Kibble |
 | 345 | 179 | Rachel Napper |
-| 346 | 179 | April Matthew Kibble |
+| 346 | 179 | DanceLuvLaugh |
 | 347 | 178 | Jess Dearborn |
 | 348 | 178 | Jennifer Alvey |
 | 349 | 177 | Kristin Delibac Corrigan |
-| 350 | 176 | Emma |
-| 351 | 176 | Melissa Orth Hunter |
+| 350 | 176 | Melissa Orth Hunter |
+| 351 | 176 | Emma |
 | 352 | 175 | Eileen Brady Thurber |
 | 353 | 174 | TotoCherue |
 | 354 | 174 | Lesley Perez |
@@ -432,8 +432,8 @@
 | 424 | 144 | Tenisha Semidey |
 | 425 | 144 | Crystal Hine |
 | 426 | 143 | Deseree Ewing |
-| 427 | 142 | Erica Anderson |
-| 428 | 142 | Gray Hicks |
+| 427 | 142 | Gray Hicks |
+| 428 | 142 | Erica Anderson |
 | 429 | 142 | Jl |
 | 430 | 142 | Joy Petroski |
 | 431 | 141 | Bhreagh Gentile |
@@ -573,8 +573,8 @@
 | 565 | 108 | Jack Bo |
 | 566 | 108 | Rachel Grant |
 | 567 | 107 | Sarah Tschee |
-| 568 | 107 | Norma JulieMay |
-| 569 | 107 | Megan Stanley |
+| 568 | 107 | Megan Stanley |
+| 569 | 107 | Norma JulieMay |
 | 570 | 107 | Tiffany Marler |
 | 571 | 106 | Kevin Russell |
 | 572 | 106 | Myriam Lapierre |
@@ -680,8 +680,8 @@
 | 672 | 92 | Patty White |
 | 673 | 92 | Jackie-Lynne Goertzen |
 | 674 | 92 | Jennifer Caputo |
-| 675 | 92 | Kathleen Taylor |
-| 676 | 92 | Cary M. Fong |
+| 675 | 92 | Cary M. Fong |
+| 676 | 92 | Kathleen Taylor |
 | 677 | 91 | Donna S. Greene-Brathwaite |
 | 678 | 91 | lydynred |
 | 679 | 91 | Christen Cannon Layhew |
