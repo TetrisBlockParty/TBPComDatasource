@@ -493,8 +493,8 @@
 | 485 | 520 | Maddy Petersen |
 | 486 | 519 | Rob Brown |
 | 487 | 517 | Sarah Berger |
-| 488 | 517 | Porsche' Nicole |
-| 489 | 517 | Brenna Ann |
+| 488 | 517 | Brenna Ann |
+| 489 | 517 | Porsche' Nicole |
 | 490 | 516 | Diamond Scott |
 | 491 | 514 | Karen Posadas Centeno |
 | 492 | 512 | Leslie Jorgenson |
@@ -565,8 +565,8 @@
 | 557 | 466 | Kori Beth Babb |
 | 558 | 466 | Crystal Greene |
 | 559 | 464 | Ryan Stadel |
-| 560 | 463 | Jaye EL Hunter |
-| 561 | 463 | Cody Nishimura |
+| 560 | 463 | Cody Nishimura |
+| 561 | 463 | Jaye EL Hunter |
 | 562 | 463 | Mia Muse Best |
 | 563 | 462 | Jennifer Monroe Kelly |
 | 564 | 462 | Daphne Jordan |
@@ -636,10 +636,10 @@
 | 628 | 419 | Frilly Fallzone |
 | 629 | 418 | Dawn L Washington-Feuquay |
 | 630 | 417 | Lauren Fitzgerald Thomas |
-| 631 | 417 | Oscar Bernie |
-| 632 | 417 | Alexx Anaya |
-| 633 | 416 | Ricky Fortune |
-| 634 | 416 | Mo Shine On |
+| 631 | 417 | Alexx Anaya |
+| 632 | 417 | Oscar Bernie |
+| 633 | 416 | Mo Shine On |
+| 634 | 416 | Ricky Fortune |
 | 635 | 414 | Daniel Amos |
 | 636 | 414 | Ebony Deloach Bryant |
 | 637 | 414 | John |
@@ -736,8 +736,8 @@
 | 728 | 367 | Connie Lepore-Mann |
 | 729 | 366 | Courtney Burcham |
 | 730 | 365 | Christina Lewis-Vickers |
-| 731 | 364 | Jessica Galick |
-| 732 | 364 | Shinette Dobson |
+| 731 | 364 | Shinette Dobson |
+| 732 | 364 | Jessica Galick |
 | 733 | 363 | Jes Norris |
 | 734 | 363 | Stephanie Fortune |
 | 735 | 363 | Veronica Stevenson |

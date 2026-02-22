@@ -131,19 +131,19 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Tyler Terrific |
-| 127 | 353 | Livvy |
+| 126 | 353 | Livvy |
+| 127 | 353 | Tyler Terrific |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
-| 130 | 338 | Lucas J Sutton |
-| 131 | 338 | ThaEviLJeNiuZ |
+| 130 | 338 | ThaEviLJeNiuZ |
+| 131 | 338 | Lucas J Sutton |
 | 132 | 336 | Austin Owens |
 | 133 | 336 | Jessica Bohlken |
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Kris Bartlett |
-| 138 | 328 | Leslie Nicole |
+| 137 | 328 | Leslie Nicole |
+| 138 | 328 | Kris Bartlett |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -155,8 +155,8 @@
 | 147 | 308 | Jeff Brian Gates |
 | 148 | 307 | Bio Nelly |
 | 149 | 307 | Angela Srubar-Norman |
-| 150 | 300 | Jason Hart |
-| 151 | 300 | Dana Scott |
+| 150 | 300 | Dana Scott |
+| 151 | 300 | Jason Hart |
 | 152 | 299 | TRCuse |
 | 153 | 296 | Meagan Nicole |
 | 154 | 294 | Calvin Cannon |
@@ -196,14 +196,14 @@
 | 188 | 251 | Matt Summer |
 | 189 | 250 | Matt Dell'Olio |
 | 190 | 248 | Chirpy Basepiece |
-| 191 | 247 | jim |
-| 192 | 247 | Dennis Bradley |
+| 191 | 247 | Dennis Bradley |
+| 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
-| 194 | 245 | Autum Leigh |
-| 195 | 245 | 23 |
+| 194 | 245 | 23 |
+| 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Lindsey Gonzalez |
-| 198 | 244 | Twisty Cascadezone |
+| 197 | 244 | Twisty Cascadezone |
+| 198 | 244 | Lindsey Gonzalez |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 241 | Allen Lloyd |
@@ -220,8 +220,8 @@
 | 212 | 227 | Kim Hunt |
 | 213 | 226 | Zesty Twistbuilder |
 | 214 | 225 | Perky Patternblock |
-| 215 | 221 | Rheanda Weaskus |
-| 216 | 221 | PurpleMoonMa |
+| 215 | 221 | PurpleMoonMa |
+| 216 | 221 | Rheanda Weaskus |
 | 217 | 221 | Kim Klutz Olson |
 | 218 | 220 | Joanna |
 | 219 | 219 | Dizzy Matchzone |
@@ -703,7 +703,7 @@
 | 695 | 67 | Nig |
 | 696 | 66 | Amanda Maciel Clarke |
 | 697 | 66 | Bubbly Twistpiece |
-| 698 | 66 | Amanda Maciel Clarke |
+| 698 | 66 | TwistyMcTwist |
 | 699 | 66 | Carlos G Reyes |
 | 700 | 65 | Rampai |
 | 701 | 65 | Will Chamberlain |
