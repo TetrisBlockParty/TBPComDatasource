@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Robert Diddle |
-| 59 | 2280 | Ramone Armstrong |
+| 58 | 2280 | Ramone Armstrong |
+| 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Howard Forest |
-| 128 | 1248 | Isabela Shaw |
+| 127 | 1248 | Isabela Shaw |
+| 128 | 1248 | Howard Forest |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -215,8 +215,8 @@
 | 207 | 867 | Michele Gabriel |
 | 208 | 867 | Peppy Zone |
 | 209 | 865 | Dedra Steward |
-| 210 | 862 | Robin Kerby |
-| 211 | 862 | Brittany Radaszewski |
+| 210 | 862 | Brittany Radaszewski |
+| 211 | 862 | Robin Kerby |
 | 212 | 860 | April Dawn Gussler |
 | 213 | 857 | Della Hole |
 | 214 | 853 | Felicia Lynn |
@@ -528,8 +528,8 @@
 | 520 | 413 | Lauren Fitzgerald Thomas |
 | 521 | 413 | Fancy Twister |
 | 522 | 413 | Biggest thing |
-| 523 | 411 | Kristen O'Neal |
-| 524 | 411 | Mighty Spinbuilder |
+| 523 | 411 | Mighty Spinbuilder |
+| 524 | 411 | Kristen O'Neal |
 | 525 | 410 | Tara Lynn Janes |
 | 526 | 410 | Nicole Cannon |
 | 527 | 408 | Brandon Jones |
@@ -719,10 +719,10 @@
 | 711 | 312 | Heather Renee Jeffers |
 | 712 | 312 | Sassy Linkbuilder |
 | 713 | 311 | Megan Phillips |
-| 714 | 310 | Cheeky Brickmatch |
-| 715 | 310 | Wendy Ducheney |
-| 716 | 310 | Audra Williams |
-| 717 | 310 | Beth Decker |
+| 714 | 310 | Wendy Ducheney |
+| 715 | 310 | Cheeky Brickmatch |
+| 716 | 310 | Beth Decker |
+| 717 | 310 | Audra Williams |
 | 718 | 309 | Byung Bae Park |
 | 719 | 308 | Prado |
 | 720 | 308 | Danielle Ayoub |
@@ -732,8 +732,8 @@
 | 724 | 307 | stacey |
 | 725 | 307 | Peachy Blockbuilder |
 | 726 | 306 | Kiorah Blaze |
-| 727 | 305 | MamaBear11 |
-| 728 | 305 | Zany Clusterbuilder |
+| 727 | 305 | Zany Clusterbuilder |
+| 728 | 305 | MamaBear11 |
 | 729 | 305 | Narutofreak13 |
 | 730 | 304 | James Smith |
 | 731 | 304 | Melissa McCall |

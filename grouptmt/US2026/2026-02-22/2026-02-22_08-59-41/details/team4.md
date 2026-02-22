@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 667 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Landon Keith Graffeo |
-| 76 | 486 | Carmethia Clemons Haslerig |
+| 75 | 486 | Carmethia Clemons Haslerig |
+| 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 467 | Dawn Alexander |
 | 79 | 452 | Chris Baggett |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Amy Suckarieh |
-| 95 | 396 | Alicia Bass |
+| 94 | 396 | Alicia Bass |
+| 95 | 396 | Amy Suckarieh |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -141,9 +141,9 @@
 | 133 | 275 | Dizzy Tiley |
 | 134 | 274 | Calvin Cannon |
 | 135 | 271 | Sarah Brown |
-| 136 | 264 | Girl |
+| 136 | 264 | Dana Scott |
 | 137 | 264 | Epic Curvetile |
-| 138 | 264 | Dana Scott |
+| 138 | 264 | Girl |
 | 139 | 262 | Holly Jolly |
 | 140 | 262 | Keshia Lyons |
 | 141 | 256 | Mylo Lipscomb |
@@ -188,8 +188,8 @@
 | 180 | 201 | Chance Strickland |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
-| 183 | 198 | Jessica Lynn Cutlip |
-| 184 | 198 | Keith Kelley |
+| 183 | 198 | Keith Kelley |
+| 184 | 198 | Jessica Lynn Cutlip |
 | 185 | 196 | Oscar Alberto Perez |
 | 186 | 195 | Malakai Darien Fox |
 | 187 | 195 | 中山成巳 |
@@ -207,9 +207,9 @@
 | 199 | 185 | Lori |
 | 200 | 184 | Ak Jones |
 | 201 | 181 | Carter Jones |
-| 202 | 180 | Dihcheese444 |
+| 202 | 180 | Orchislactea |
 | 203 | 180 | Rafael Valentin |
-| 204 | 180 | Orchislactea |
+| 204 | 180 | Dihcheese444 |
 | 205 | 179 | blockstar |
 | 206 | 175 | TinyLegoRose |
 | 207 | 175 | Lorena Guerrero-Barron |
@@ -346,7 +346,7 @@
 | 338 | 113 | Stephanie Mico |
 | 339 | 113 | Adam Randall |
 | 340 | 113 | Dandy Cascadefit |
-| 341 | 113 | Adam Randall |
+| 341 | 113 | @ |
 | 342 | 112 | Chris Alexinas |
 | 343 | 111 | Richard-April Kice |
 | 344 | 111 | Michael Orris |

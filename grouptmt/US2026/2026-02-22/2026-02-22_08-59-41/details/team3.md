@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -105,8 +105,8 @@
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
-| 100 | 565 | Patty Allen |
-| 101 | 565 | Rachael McClain Owens |
+| 100 | 565 | Rachael McClain Owens |
+| 101 | 565 | Patty Allen |
 | 102 | 562 | Louise Stacy Sisson |
 | 103 | 562 | Dave Herzog |
 | 104 | 559 | Morgan Martinez |
@@ -204,8 +204,8 @@
 | 196 | 311 | Rochelle Hazelett |
 | 197 | 311 | Stephanie Burtin |
 | 198 | 310 | Danielle Balcom |
-| 199 | 308 | Daryn Elliott |
-| 200 | 308 | Rania Zaqout |
+| 199 | 308 | Rania Zaqout |
+| 200 | 308 | Daryn Elliott |
 | 201 | 307 | rnr junky |
 | 202 | 307 | Blocked |
 | 203 | 302 | Rebecca Bailey |
@@ -265,8 +265,8 @@
 | 257 | 240 | Jimmie Clemons |
 | 258 | 238 | LaTanya GeminiondaRise Johnson |
 | 259 | 236 | Jess Bissett |
-| 260 | 234 | Nikki Pags |
-| 261 | 234 | Connie Mohler-Fair |
+| 260 | 234 | Connie Mohler-Fair |
+| 261 | 234 | Nikki Pags |
 | 262 | 233 | Josh Borquez |
 | 263 | 233 | Ray Lader |
 | 264 | 232 | Brenda Schmid Wood |
@@ -349,8 +349,8 @@
 | 341 | 168 | April Matthew Kibble |
 | 342 | 168 | Trice Thomas |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -405,12 +405,12 @@
 | 397 | 146 | ROODBOY |
 | 398 | 146 | MizzMonick Smith |
 | 399 | 146 | Sdot |
-| 400 | 144 | Blair Erin Waite |
-| 401 | 144 | Tenisha Semidey |
+| 400 | 144 | Tenisha Semidey |
+| 401 | 144 | Blair Erin Waite |
 | 402 | 142 | Gray Hicks |
 | 403 | 142 | Erica Anderson |
-| 404 | 142 | Joy Petroski |
-| 405 | 142 | Jl |
+| 404 | 142 | Jl |
+| 405 | 142 | Joy Petroski |
 | 406 | 141 | Melissa Snyder |
 | 407 | 141 | Weerae |
 | 408 | 140 | Jumpy Curvebuilder |
@@ -440,8 +440,8 @@
 | 432 | 132 | Andrew Thorson |
 | 433 | 131 | Cheeky Setter |
 | 434 | 130 | Sarah Whalen |
-| 435 | 130 | Brian Battjes |
-| 436 | 130 | TotoCherue |
+| 435 | 130 | TotoCherue |
+| 436 | 130 | Brian Battjes |
 | 437 | 130 | Karen Picaboo |
 | 438 | 129 | LIL BIT |
 | 439 | 129 | Juliana Dottore |
@@ -455,8 +455,8 @@
 | 447 | 126 | Crystal Martin |
 | 448 | 126 | Spicy Caster |
 | 449 | 126 | Tipsy Puzzle |
-| 450 | 125 | BugMansMom |
-| 451 | 125 | Felicia Doxey |
+| 450 | 125 | Felicia Doxey |
+| 451 | 125 | BugMansMom |
 | 452 | 125 | Shimika Enay Wallace |
 | 453 | 124 | Daring Builder |
 | 454 | 124 | xsiv |
@@ -610,8 +610,8 @@
 | 602 | 98 | Christine Vosburgh |
 | 603 | 98 | Adrea Ann |
 | 604 | 97 | Daisy Rocha |
-| 605 | 97 | Tina Baurdau |
-| 606 | 97 | Rebecca Lynn |
+| 605 | 97 | Rebecca Lynn |
+| 606 | 97 | Tina Baurdau |
 | 607 | 96 | D3NO |
 | 608 | 96 | Swanky Snapclear |
 | 609 | 96 | Jason |

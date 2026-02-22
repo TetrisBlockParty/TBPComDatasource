@@ -144,8 +144,8 @@
 | 136 | 270 | Ash Galvan |
 | 137 | 268 | GATOR |
 | 138 | 265 | SkipTheSadSauce |
-| 139 | 264 | Lexuriuos Lifestlye |
-| 140 | 264 | Jenny Gingrich Fuentes |
+| 139 | 264 | Jenny Gingrich Fuentes |
+| 140 | 264 | Lexuriuos Lifestlye |
 | 141 | 263 | Sharon Reynolds |
 | 142 | 258 | Virginia Gray Floyd |
 | 143 | 258 | Nutty Spinblock |
@@ -164,8 +164,8 @@
 | 156 | 239 | Jamie Jury |
 | 157 | 236 | Mandyy Rae |
 | 158 | 232 | Jessi Sauer |
-| 159 | 230 | Frothy Pattern |
-| 160 | 230 | Billie Dawn Sparks |
+| 159 | 230 | Billie Dawn Sparks |
+| 160 | 230 | Frothy Pattern |
 | 161 | 229 | David Lutcher |
 | 162 | 226 | Sleepysloath5745 |
 | 163 | 226 | Kandae |
@@ -183,20 +183,20 @@
 | 175 | 210 | Giggly Builderline |
 | 176 | 210 | Letson Melissa |
 | 177 | 209 | Debbie Davis |
-| 178 | 208 | Bouncy Grid |
-| 179 | 208 | Donna Addison Williams |
-| 180 | 207 | Ty Brown |
-| 181 | 207 | Leslie Bush Yarbrough |
+| 178 | 208 | Donna Addison Williams |
+| 179 | 208 | Bouncy Grid |
+| 180 | 207 | Leslie Bush Yarbrough |
+| 181 | 207 | Ty Brown |
 | 182 | 207 | Brenda Alexander |
 | 183 | 206 | BadG52 |
 | 184 | 205 | Tater |
 | 185 | 205 | Snappy Matcher |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | Paula Martin |
-| 188 | 203 | LaFontaine Leslie |
+| 187 | 203 | LaFontaine Leslie |
+| 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Happy Snapbuild |
 | 194 | 198 | Shiny Gridmatch |
