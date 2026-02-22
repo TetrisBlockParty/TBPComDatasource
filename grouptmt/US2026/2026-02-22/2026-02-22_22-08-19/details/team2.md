@@ -178,8 +178,8 @@
 | 170 | 1260 | Joshua Sommerville |
 | 171 | 1257 | Michele Gabriel |
 | 172 | 1242 | Mischelle Clay |
-| 173 | 1232 | Groovy Puzzle |
-| 174 | 1232 | Ambyre Patterson |
+| 173 | 1232 | Ambyre Patterson |
+| 174 | 1232 | Groovy Puzzle |
 | 175 | 1230 | Megan Garrick |
 | 176 | 1224 | Liberty |
 | 177 | 1216 | Nancy Reid |
@@ -333,8 +333,8 @@
 | 325 | 782 | Beth |
 | 326 | 781 | Cassie Mercer |
 | 327 | 778 | Lola Contreras |
-| 328 | 777 | Jessicah Myers |
-| 329 | 777 | Tesha Oldaker |
+| 328 | 777 | Tesha Oldaker |
+| 329 | 777 | Jessicah Myers |
 | 330 | 777 | Samantha Jo |
 | 331 | 774 | Ashley Dow |
 | 332 | 774 | Ginnell Browner |
@@ -465,8 +465,8 @@
 | 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
-| 460 | 583 | Kitybox |
-| 461 | 583 | Ann Matzkanin |
+| 460 | 583 | Ann Matzkanin |
+| 461 | 583 | Kitybox |
 | 462 | 582 | Bee |
 | 463 | 582 | snkylnk |
 | 464 | 581 | Angie Marie |
@@ -513,8 +513,8 @@
 | 505 | 540 | BK Queen |
 | 506 | 536 | Ann Knutson Anderson |
 | 507 | 533 | Brenna Ann |
-| 508 | 533 | Gauri Shrotriya |
-| 509 | 533 | Davetta Sanford |
+| 508 | 533 | Davetta Sanford |
+| 509 | 533 | Gauri Shrotriya |
 | 510 | 532 | Belle Mari |
 | 511 | 531 | Aishah Brice |
 | 512 | 531 | Briana Alexander |

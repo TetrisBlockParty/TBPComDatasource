@@ -239,8 +239,8 @@
 | 231 | 230 | blockstar |
 | 232 | 230 | Jade Rian |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | Rheanda Weaskus |
 | 238 | 221 | PurpleMoonMa |
@@ -280,8 +280,8 @@
 | 272 | 195 | 中山成巳 |
 | 273 | 194 | Zany Twisterfit |
 | 274 | 193 | Stephme310 |
-| 275 | 192 | Stella |
-| 276 | 192 | Andrew Dang |
+| 275 | 192 | Andrew Dang |
+| 276 | 192 | Stella |
 | 277 | 191 | Earnest Thompson |
 | 278 | 189 | 030Synner |
 | 279 | 187 | Nita Wells |

@@ -135,9 +135,9 @@
 | 127 | 380 | Maria C. Hernandez |
 | 128 | 379 | Kimmie Kimms |
 | 129 | 379 | Austin James |
-| 130 | 376 | lil mickey |
-| 131 | 376 | And |
-| 132 | 376 | Brian Richardsson |
+| 130 | 376 | Brian Richardsson |
+| 131 | 376 | lil mickey |
+| 132 | 376 | And |
 | 133 | 372 | Sweet Baker |
 | 134 | 370 | Ly Phethmany |
 | 135 | 364 | Shauna Loe |
@@ -423,8 +423,8 @@
 | 415 | 144 | Miguel Teixeira |
 | 416 | 143 | Guest |
 | 417 | 142 | Lynn Adams |
-| 418 | 140 | Nathan William |
-| 419 | 140 | Layzietyme |
+| 418 | 140 | Layzietyme |
+| 419 | 140 | Nathan William |
 | 420 | 139 | Sunny Pivotfall |
 | 421 | 139 | Cozy Shatterer |
 | 422 | 139 | Aimee Horton |
