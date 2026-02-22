@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -230,9 +230,9 @@
 | 222 | 801 | Debra Williams |
 | 223 | 800 | Danielle Johnson-Chandler |
 | 224 | 787 | Laura McCarthey |
-| 225 | 777 | Tesha Oldaker |
-| 226 | 777 | Barbra Miller |
-| 227 | 777 | Jessicah Myers |
+| 225 | 777 | Barbra Miller |
+| 226 | 777 | Jessicah Myers |
+| 227 | 777 | Tesha Oldaker |
 | 228 | 777 | Eric Carlson |
 | 229 | 771 | Terri McKelvey McKinley |
 | 230 | 769 | Adira Brown |
@@ -423,7 +423,7 @@
 | 415 | 478 | Ashley Collins |
 | 416 | 477 | Michelle Fields |
 | 417 | 477 | Julay |
-| 418 | 477 | Michelle Fields |
+| 418 | 477 | Brenna Ann |
 | 419 | 476 | Kitybox |
 | 420 | 476 | Maya June |
 | 421 | 475 | Michelle Lee |
@@ -455,11 +455,11 @@
 | 447 | 444 | Ryan Meilleur |
 | 448 | 442 | Leah |
 | 449 | 441 | Christina Wsn |
-| 450 | 440 | Sarah Berger |
-| 451 | 440 | Liberty |
+| 450 | 440 | Liberty |
+| 451 | 440 | Sarah Berger |
 | 452 | 440 | Snippy Rumbler |
-| 453 | 437 | Bubbly Snapfit |
-| 454 | 437 | Arwa Fatimah |
+| 453 | 437 | Arwa Fatimah |
+| 454 | 437 | Bubbly Snapfit |
 | 455 | 435 | Regina Young |
 | 456 | 433 | KayLynn Ogden McClelland |
 | 457 | 432 | Lucy Marshall |
@@ -501,11 +501,11 @@
 | 493 | 408 | Stefanie Zonzini-Gagliardi |
 | 494 | 408 | Brandon Jones |
 | 495 | 406 | Kimberly Ann |
-| 496 | 406 | Erin StFrancis |
-| 497 | 406 | Kiana Boschh |
+| 496 | 406 | Kiana Boschh |
+| 497 | 406 | Erin StFrancis |
 | 498 | 404 | Snappy snappers |
-| 499 | 404 | Dawn L Washington-Feuquay |
-| 500 | 404 | Goofy Catcher |
+| 499 | 404 | Goofy Catcher |
+| 500 | 404 | Dawn L Washington-Feuquay |
 | 501 | 403 | Goofy Dasher |
 | 502 | 402 | Juanita Lyons |
 | 503 | 402 | SwampRebel |
@@ -545,8 +545,8 @@
 | 537 | 384 | Party d |
 | 538 | 384 | Mike Aprilliano |
 | 539 | 383 | Belle Mari |
-| 540 | 382 | David Holliday |
-| 541 | 382 | KhaosLord |
+| 540 | 382 | KhaosLord |
+| 541 | 382 | David Holliday |
 | 542 | 381 | Melissa Rebbe-Lehman |
 | 543 | 381 | Jessica S Flecha |
 | 544 | 381 | Happy Caster |
@@ -591,15 +591,15 @@
 | 583 | 361 | Lewis Sturgeon |
 | 584 | 360 | Jroc |
 | 585 | 359 | Cheyenne Donovan |
-| 586 | 358 | Alyssaaelena |
-| 587 | 358 | Sydney Busse |
+| 586 | 358 | Sydney Busse |
+| 587 | 358 | Alyssaaelena |
 | 588 | 358 | Veronics |
 | 589 | 357 | Tristan Szolek |
 | 590 | 357 | Shannon Byrd |
 | 591 | 355 | Amanda Perez |
-| 592 | 354 | Rickey Johnson |
-| 593 | 354 | Demeka Dangerous-kisses Johnson |
-| 594 | 354 | Rachel Kaminski |
+| 592 | 354 | Demeka Dangerous-kisses Johnson |
+| 593 | 354 | Rachel Kaminski |
+| 594 | 354 | Rickey Johnson |
 | 595 | 352 | Rose Fx |
 | 596 | 352 | ruth |
 | 597 | 352 | Mikayala Szaz |

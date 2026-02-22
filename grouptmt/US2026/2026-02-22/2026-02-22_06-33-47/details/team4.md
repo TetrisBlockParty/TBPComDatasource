@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | TeeJ |
-| 73 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | TeeJ |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -89,8 +89,8 @@
 | 81 | 405 | Shane Kalamata Platoon |
 | 82 | 404 | Courtney Cicoria |
 | 83 | 402 | Julian Garcia |
-| 84 | 396 | Alicia Bass |
-| 85 | 396 | Amy Suckarieh |
+| 84 | 396 | Amy Suckarieh |
+| 85 | 396 | Alicia Bass |
 | 86 | 392 | Ericca Eldridge |
 | 87 | 391 | Ramel Rhodes |
 | 88 | 390 | Carlton Unfiltered |
@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Monica Daley |
-| 96 | 352 | Zippy Gridlock |
+| 95 | 352 | Zippy Gridlock |
+| 96 | 352 | Monica Daley |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -206,10 +206,10 @@
 | 198 | 171 | Autumn Kumzi |
 | 199 | 168 | TinyLegoRose |
 | 200 | 167 | Cozy Balancer |
-| 201 | 166 | SammieJo Guy |
-| 202 | 166 | Marvin Lou Martin |
-| 203 | 165 | Jackie Marie |
-| 204 | 165 | James Hurley Jr. |
+| 201 | 166 | Marvin Lou Martin |
+| 202 | 166 | SammieJo Guy |
+| 203 | 165 | James Hurley Jr. |
+| 204 | 165 | Jackie Marie |
 | 205 | 164 | 030Synner |
 | 206 | 163 | Kristina Black |
 | 207 | 162 | Joanna |
@@ -237,11 +237,11 @@
 | 229 | 149 | Megan Cutshaw |
 | 230 | 149 | Tanner Lund |
 | 231 | 148 | Janita Parrish |
-| 232 | 147 | Jay28 |
-| 233 | 147 | B Renee Desjardin |
+| 232 | 147 | B Renee Desjardin |
+| 233 | 147 | Jay28 |
 | 234 | 147 | Jared Gutwein |
-| 235 | 145 | Sandra Safford |
-| 236 | 145 | Mimi |
+| 235 | 145 | Mimi |
+| 236 | 145 | Sandra Safford |
 | 237 | 144 | Nubian1 |
 | 238 | 143 | Lauren Lamb |
 | 239 | 143 | Zesty Twistbuilder |

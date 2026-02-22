@@ -271,8 +271,8 @@
 | 263 | 137 | Marci Sanders |
 | 264 | 136 | Breanna Luna |
 | 265 | 136 | Jessie |
-| 266 | 135 | Chantelle Ceno |
-| 267 | 135 | Mrs.Patrica |
+| 266 | 135 | Mrs.Patrica |
+| 267 | 135 | Chantelle Ceno |
 | 268 | 133 | MommaKFC |
 | 269 | 132 | Larry Tilton |
 | 270 | 132 | Layzietyme |
