@@ -152,8 +152,8 @@
 | 144 | 318 | Lauren Scott |
 | 145 | 314 | Andy Cabral |
 | 146 | 308 | Jeff Brian Gates |
-| 147 | 307 | Angela Srubar-Norman |
-| 148 | 307 | Bio Nelly |
+| 147 | 307 | Bio Nelly |
+| 148 | 307 | Angela Srubar-Norman |
 | 149 | 306 | Klo |
 | 150 | 300 | Dana Scott |
 | 151 | 300 | Jason Hart |
@@ -163,9 +163,9 @@
 | 155 | 294 | Meagan Nicole |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
-| 158 | 290 | Damn Libra |
-| 159 | 290 | Chaz Duncan |
-| 160 | 290 | 🥔🥔 Spudz |
+| 158 | 290 | Chaz Duncan |
+| 159 | 290 | 🥔🥔 Spudz |
+| 160 | 290 | Damn Libra |
 | 161 | 290 | Keshia Lyons |
 | 162 | 288 | Leah Kutz Zirbel |
 | 163 | 286 | shark tato |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -210,8 +210,8 @@
 | 202 | 240 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | Ruben Wheeler |
-| 206 | 233 | April Rondinone |
+| 205 | 233 | April Rondinone |
+| 206 | 233 | Ruben Wheeler |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -341,8 +341,8 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Jay28 |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Sandra Safford |
-| 337 | 145 | Glitzy Crasher |
+| 336 | 145 | Glitzy Crasher |
+| 337 | 145 | Sandra Safford |
 | 338 | 144 | Squeezy Pearsall |
 | 339 | 143 | Daresha Fair |
 | 340 | 143 | Asher |

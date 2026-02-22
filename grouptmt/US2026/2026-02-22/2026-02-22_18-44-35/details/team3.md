@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -205,8 +205,8 @@
 | 197 | 377 | rosy |
 | 198 | 376 | Loopy Clusterer |
 | 199 | 374 | Darlene McMillan |
-| 200 | 372 | Giddy Twistbuilder |
-| 201 | 372 | Tom Nault |
+| 200 | 372 | Tom Nault |
+| 201 | 372 | Giddy Twistbuilder |
 | 202 | 370 | Santeria Trece Candles |
 | 203 | 368 | Stephanie Woods |
 | 204 | 367 | Loopy Fallmatch |
@@ -280,12 +280,12 @@
 | 272 | 272 | Tasha Wesson-Torrence |
 | 273 | 272 | fraulila |
 | 274 | 271 | Grego Daniel |
-| 275 | 271 | Alexmac |
-| 276 | 271 | Cass Mendoza |
+| 275 | 271 | Cass Mendoza |
+| 276 | 271 | Alexmac |
 | 277 | 269 | Micayah Stevens |
 | 278 | 268 | Krystal Gerstberger |
-| 279 | 267 | Tiffany Davie |
-| 280 | 267 | April Matthew Kibble |
+| 279 | 267 | April Matthew Kibble |
+| 280 | 267 | Tiffany Davie |
 | 281 | 266 | Snappy Balancer |
 | 282 | 266 | Quirky Dropzone |
 | 283 | 265 | Nikki Pags |
@@ -368,8 +368,8 @@
 | 360 | 207 | angieelyn |
 | 361 | 207 | Kristian Thurman |
 | 362 | 206 | Tammy Rosenberry |
-| 363 | 205 | Michael Kimbro |
-| 364 | 205 | Rachel Napper |
+| 363 | 205 | Rachel Napper |
+| 364 | 205 | Michael Kimbro |
 | 365 | 204 | Cesar Barraza |
 | 366 | 203 | Angella Lyons |
 | 367 | 203 | DanceLuvLaugh |

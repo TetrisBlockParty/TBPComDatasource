@@ -134,8 +134,8 @@
 | 126 | 1439 | Jumpy Gridpiece |
 | 127 | 1435 | Jessie McDougald |
 | 128 | 1418 | L3sli3 |
-| 129 | 1411 | niecy |
-| 130 | 1411 | Zappy Cascade |
+| 129 | 1411 | Zappy Cascade |
+| 130 | 1411 | niecy |
 | 131 | 1384 | Katrina Williams Balmir |
 | 132 | 1383 | Ladyrainbootz |
 | 133 | 1380 | Jose Mendoza |
@@ -155,8 +155,8 @@
 | 147 | 1297 | Maegan Beaule |
 | 148 | 1296 | Kristin Ruest |
 | 149 | 1290 | Bussyiano Page |
-| 150 | 1286 | Eileen Hale |
-| 151 | 1286 | Altamirano Michael |
+| 150 | 1286 | Altamirano Michael |
+| 151 | 1286 | Eileen Hale |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1282 | Tanya Parsons |
 | 154 | 1273 | Cool Rollpiece |
@@ -616,8 +616,8 @@
 | 608 | 429 | Angel Hunnewell |
 | 609 | 428 | Shyenn Gadsby |
 | 610 | 428 | Lynda Toland |
-| 611 | 427 | Sabrina Burton |
-| 612 | 427 | Destiny Cozier |
+| 611 | 427 | Destiny Cozier |
+| 612 | 427 | Sabrina Burton |
 | 613 | 426 | De Hawkins |
 | 614 | 426 | Joel Rosado |
 | 615 | 426 | Tom Steffen |
@@ -809,8 +809,8 @@
 | 801 | 328 | BabyBird |
 | 802 | 327 | Amanda Chamberlain |
 | 803 | 327 | Polly Pritchard Chesler |
-| 804 | 326 | Jennifer Mahon |
-| 805 | 326 | Mandi Marie Smith |
+| 804 | 326 | Mandi Marie Smith |
+| 805 | 326 | Jennifer Mahon |
 | 806 | 325 | August Hale |
 | 807 | 325 | Noel Tarmy |
 | 808 | 325 | Justin Hines |
