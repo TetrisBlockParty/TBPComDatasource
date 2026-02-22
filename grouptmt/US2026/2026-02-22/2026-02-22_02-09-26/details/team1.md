@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Jason Jones |
-| 111 | 263 | Sharon Reynolds |
+| 110 | 263 | Sharon Reynolds |
+| 111 | 263 | Jason Jones |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 257 | june october |
 | 114 | 252 | Dena Kayy |
@@ -125,11 +125,11 @@
 | 117 | 243 | Chelsea Dahlquist |
 | 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
-| 120 | 240 | Tana |
-| 121 | 240 | Lexuriuos Lifestlye |
+| 120 | 240 | Lexuriuos Lifestlye |
+| 121 | 240 | Tana |
 | 122 | 236 | Mandyy Rae |
-| 123 | 230 | Frothy Pattern |
-| 124 | 230 | Billie Dawn Sparks |
+| 123 | 230 | Billie Dawn Sparks |
+| 124 | 230 | Frothy Pattern |
 | 125 | 228 | Jenny Gingrich Fuentes |
 | 126 | 226 | Jennifer Hardman |
 | 127 | 226 | Kandae |
@@ -215,8 +215,8 @@
 | 207 | 144 | Toph |
 | 208 | 144 | Miguel Teixeira |
 | 209 | 142 | Colleen Wise |
-| 210 | 141 | Dino |
-| 211 | 141 | Blaire Bruckoff |
+| 210 | 141 | Blaire Bruckoff |
+| 211 | 141 | Dino |
 | 212 | 139 | Flashy Rotator |
 | 213 | 138 | Mark Smith |
 | 214 | 137 | Witty Builderfit |

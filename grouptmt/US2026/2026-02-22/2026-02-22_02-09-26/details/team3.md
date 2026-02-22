@@ -149,8 +149,8 @@
 | 141 | 347 | Louise Stacy Sisson |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -158,8 +158,8 @@
 | 150 | 317 | Ashley Tookes |
 | 151 | 316 | Rich LeBlanc |
 | 152 | 311 | Raya |
-| 153 | 307 | rnr junky |
-| 154 | 307 | Blocked |
+| 153 | 307 | Blocked |
+| 154 | 307 | rnr junky |
 | 155 | 300 | Sherika C. McDaniels |
 | 156 | 295 | Jim Mathews |
 | 157 | 293 | Poppy Splitter |
@@ -227,11 +227,11 @@
 | 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Jessica |
-| 223 | 207 | Chris Bell |
+| 222 | 207 | Chris Bell |
+| 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
-| 225 | 204 | Danielle Allison |
-| 226 | 204 | Aerian Preston |
+| 225 | 204 | Aerian Preston |
+| 226 | 204 | Danielle Allison |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
 | 229 | 200 | glichmod |
@@ -316,8 +316,8 @@
 | 308 | 147 | David Bardo |
 | 309 | 146 | Ava Petito |
 | 310 | 146 | Tony Waters |
-| 311 | 145 | Funky Jumper |
-| 312 | 145 | Bryan Byrd |
+| 311 | 145 | Bryan Byrd |
+| 312 | 145 | Funky Jumper |
 | 313 | 144 | Tenisha Semidey |
 | 314 | 143 | Alice |
 | 315 | 143 | Melissa Orth Hunter |

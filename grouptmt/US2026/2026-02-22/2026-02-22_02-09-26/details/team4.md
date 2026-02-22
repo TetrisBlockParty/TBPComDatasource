@@ -131,8 +131,8 @@
 | 123 | 221 | PurpleMoonMa |
 | 124 | 220 | Mary Ann Pabukis |
 | 125 | 220 | Matt Dell'Olio |
-| 126 | 218 | Casey Grabner |
-| 127 | 218 | Antony Dwayne Beasley |
+| 126 | 218 | Antony Dwayne Beasley |
+| 127 | 218 | Casey Grabner |
 | 128 | 217 | loulou |
 | 129 | 217 | Chaz Duncan |
 | 130 | 215 | Jessica Bohlken |
@@ -141,15 +141,15 @@
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |
-| 136 | 205 | Sarah Neathery |
-| 137 | 205 | Tyler Terrific |
-| 138 | 204 | Jen Caldwell |
-| 139 | 204 | Dana Scott |
+| 136 | 205 | Tyler Terrific |
+| 137 | 205 | Sarah Neathery |
+| 138 | 204 | Dana Scott |
+| 139 | 204 | Jen Caldwell |
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jeff Brian Gates |
-| 144 | 196 | Jenna McGeorge |
+| 143 | 196 | Jenna McGeorge |
+| 144 | 196 | Jeff Brian Gates |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
@@ -159,8 +159,8 @@
 | 151 | 188 | Andria Lynn |
 | 152 | 187 | TheNeesh50 |
 | 153 | 186 | Holly |
-| 154 | 185 | Andy Cabral |
-| 155 | 185 | Lori |
+| 154 | 185 | Lori |
+| 155 | 185 | Andy Cabral |
 | 156 | 184 | Ak Jones |
 | 157 | 184 | Chilly Crasher |
 | 158 | 182 | Matt Summer |
