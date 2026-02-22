@@ -245,8 +245,8 @@
 | 237 | 805 | Meghan M |
 | 238 | 804 | Maria Escobar |
 | 239 | 804 | Alyssa Hileman |
-| 240 | 801 | Ashlen Dorrell |
-| 241 | 801 | Debra Williams |
+| 240 | 801 | Debra Williams |
+| 241 | 801 | Ashlen Dorrell |
 | 242 | 800 | Danielle Johnson-Chandler |
 | 243 | 787 | Laura McCarthey |
 | 244 | 778 | Lisa Ongtowasruk |
@@ -254,9 +254,9 @@
 | 246 | 777 | Tesha Oldaker |
 | 247 | 777 | Jessicah Myers |
 | 248 | 777 | Eric Carlson |
-| 249 | 772 | Cherica Taylor |
-| 250 | 772 | William Hunt |
-| 251 | 772 | Sam Joe |
+| 249 | 772 | William Hunt |
+| 250 | 772 | Sam Joe |
+| 251 | 772 | Cherica Taylor |
 | 252 | 771 | Terri McKelvey McKinley |
 | 253 | 767 | Jessica Wayne Cornwall |
 | 254 | 765 | Jodi Blake |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Brenda Utphall |
-| 301 | 679 | Dee |
+| 300 | 679 | Dee |
+| 301 | 679 | Brenda Utphall |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -403,11 +403,11 @@
 | 395 | 525 | Desiree Anderson |
 | 396 | 524 | Lonne Emade |
 | 397 | 523 | Matt Johnson |
-| 398 | 522 | Lylymom |
-| 399 | 522 | Joseph Musick |
+| 398 | 522 | Joseph Musick |
+| 399 | 522 | Lylymom |
 | 400 | 521 | Tj Ball |
-| 401 | 520 | Angela Lynn |
-| 402 | 520 | Maddy Petersen |
+| 401 | 520 | Maddy Petersen |
+| 402 | 520 | Angela Lynn |
 | 403 | 519 | Rob Brown |
 | 404 | 517 | Alex Dungo Hoang |
 | 405 | 517 | Porsche' Nicole |
@@ -431,8 +431,8 @@
 | 423 | 500 | Sarah Ridenour |
 | 424 | 499 | Sarah Massey |
 | 425 | 498 | Rhonda Milstead |
-| 426 | 497 | Doowop40 |
-| 427 | 497 | June E Hanson |
+| 426 | 497 | June E Hanson |
+| 427 | 497 | Doowop40 |
 | 428 | 497 | Kimberly Randesi |
 | 429 | 494 | Venita Ray |
 | 430 | 493 | Kara Gillen |
@@ -724,8 +724,8 @@
 | 716 | 316 | Johanna Massaro |
 | 717 | 314 | Amanda West |
 | 718 | 314 | Twisty Tetriblast |
-| 719 | 313 | Marina Linda |
-| 720 | 313 | Natasha Edmonds |
+| 719 | 313 | Natasha Edmonds |
+| 720 | 313 | Marina Linda |
 | 721 | 313 | Snippy Block |
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
@@ -744,8 +744,8 @@
 | 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | MamaBear11 |
-| 740 | 305 | Narutofreak13 |
+| 739 | 305 | Narutofreak13 |
+| 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -772,8 +772,8 @@
 | 764 | 295 | Noel Tarmy |
 | 765 | 294 | Amanda Edwards |
 | 766 | 293 | Ann Marie Davis |
-| 767 | 292 | Christina Walker |
-| 768 | 292 | Bryan Werleman |
+| 767 | 292 | Bryan Werleman |
+| 768 | 292 | Christina Walker |
 | 769 | 292 | Deana |
 | 770 | 291 | Jennie Lee Huntley |
 | 771 | 291 | Bella Novia |
@@ -785,8 +785,8 @@
 | 777 | 289 | Ryan Chan |
 | 778 | 288 | thranduil |
 | 779 | 288 | Ashley Criner |
-| 780 | 288 | Jenna Nance |
-| 781 | 288 | Samantha Angelo |
+| 780 | 288 | Samantha Angelo |
+| 781 | 288 | Jenna Nance |
 | 782 | 287 | Toni Roberson |
 | 783 | 287 | N00D3S |
 | 784 | 287 | Epic Stackzone |
@@ -924,16 +924,16 @@
 | 916 | 250 | Kay Stevenson |
 | 917 | 250 | Drew Berkelbach |
 | 918 | 249 | Charles E Mccardell |
-| 919 | 249 | Kamilya Rembert |
-| 920 | 249 | Joshua Mullings |
+| 919 | 249 | Joshua Mullings |
+| 920 | 249 | Kamilya Rembert |
 | 921 | 249 | J.L. Roberts |
 | 922 | 249 | Angela Yantz |
 | 923 | 248 | Jaybee Nguyen |
 | 924 | 248 | CleverAngel |
 | 925 | 248 | Angelina Marie |
 | 926 | 247 | Linda Miltenburg |
-| 927 | 247 | Karyn Yurcho Dooley |
-| 928 | 247 | Wizz |
+| 927 | 247 | Wizz |
+| 928 | 247 | Karyn Yurcho Dooley |
 | 929 | 246 | Stacey Tranchida |
 | 930 | 246 | Laura McConnell |
 | 931 | 245 | Abby Klaski |
@@ -989,12 +989,12 @@
 | 981 | 233 | Andrew Engman |
 | 982 | 232 | Chirpy Snapper |
 | 983 | 232 | P. D. Paige |
-| 984 | 231 | Vung Nguyen |
-| 985 | 231 | Michelle Fleming Luna |
+| 984 | 231 | Michelle Fleming Luna |
+| 985 | 231 | Vung Nguyen |
 | 986 | 231 | Stanley Vanekelenburg |
 | 987 | 230 | lady |
-| 988 | 230 | Anna Mayo |
-| 989 | 230 | Laura Mcfee |
+| 988 | 230 | Laura Mcfee |
+| 989 | 230 | Anna Mayo |
 | 990 | 229 | Chyrisse Norton |
 | 991 | 229 | BbqGuru |
 | 992 | 229 | ItsJennifer Neriss |
@@ -1013,8 +1013,8 @@
 | 1005 | 227 | Sedo |
 | 1006 | 227 | Artemus Darnell |
 | 1007 | 227 | Toni Whipple |
-| 1008 | 226 | Kourtney Bradley |
-| 1009 | 226 | Anthony D Gritz Jr |
+| 1008 | 226 | Anthony D Gritz Jr |
+| 1009 | 226 | Kourtney Bradley |
 | 1010 | 225 | Theresa Ring |
 | 1011 | 225 | Caitlin Johnson |
 | 1012 | 225 | Samantha Morgan |
@@ -1050,8 +1050,8 @@
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
 | 1044 | 219 | Cathy Bitters |
-| 1045 | 218 | Clever Dashgrid |
-| 1046 | 218 | Shea Edison |
+| 1045 | 218 | Shea Edison |
+| 1046 | 218 | Clever Dashgrid |
 | 1047 | 217 | Wedance Fong |
 | 1048 | 217 | Trisha Gallagher |
 | 1049 | 217 | Erika Meaux |

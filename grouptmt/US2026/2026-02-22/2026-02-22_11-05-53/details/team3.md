@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Rochelle Hazelett |
-| 200 | 311 | Araceli Parra |
+| 199 | 311 | Araceli Parra |
+| 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -248,8 +248,8 @@
 | 240 | 264 | Grego Daniel |
 | 241 | 263 | Brittany |
 | 242 | 262 | Joe-Maggie Mathews |
-| 243 | 261 | Tasha Wesson-Torrence |
-| 244 | 261 | Tiffany Ford |
+| 243 | 261 | Tiffany Ford |
+| 244 | 261 | Tasha Wesson-Torrence |
 | 245 | 261 | Marquita Sheard |
 | 246 | 260 | Grams |
 | 247 | 259 | Danielle Weikel |
@@ -259,8 +259,8 @@
 | 251 | 256 | Tiffany Davie |
 | 252 | 250 | fraulila |
 | 253 | 250 | Eon Harris |
-| 254 | 249 | Annie Marie |
-| 255 | 249 | JerseyJess |
+| 254 | 249 | JerseyJess |
+| 255 | 249 | Annie Marie |
 | 256 | 247 | Carrie Huskey |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
@@ -389,8 +389,8 @@
 | 381 | 157 | Miranda Taylor |
 | 382 | 157 | Katrina E Jelks |
 | 383 | 156 | Nichole Greene |
-| 384 | 155 | Michael Leblanc |
-| 385 | 155 | Michell Hendershott Jackson |
+| 384 | 155 | Michell Hendershott Jackson |
+| 385 | 155 | Michael Leblanc |
 | 386 | 154 | Shanon R Jackson |
 | 387 | 153 | Stefanie LaPointe |
 | 388 | 153 | Tony Waters |
@@ -429,20 +429,20 @@
 | 421 | 142 | Jl |
 | 422 | 141 | Bhreagh Gentile |
 | 423 | 141 | Melissa Snyder |
-| 424 | 141 | Reina Roth |
-| 425 | 141 | Weerae |
+| 424 | 141 | Weerae |
+| 425 | 141 | Reina Roth |
 | 426 | 140 | Jumpy Curvebuilder |
 | 427 | 140 | Linda Draper |
 | 428 | 140 | Boldy Corner |
 | 429 | 140 | Alison Baus |
 | 430 | 139 | Beppy |
 | 431 | 139 | Paula Little |
-| 432 | 138 | Bleu Sun Beams |
-| 433 | 138 | Skinny Baldez |
+| 432 | 138 | Skinny Baldez |
+| 433 | 138 | Bleu Sun Beams |
 | 434 | 137 | Giggly Brickroll |
 | 435 | 136 | Karen Picaboo |
-| 436 | 136 | Sabrina Mansfield |
-| 437 | 136 | Stephanie Zahm |
+| 436 | 136 | Stephanie Zahm |
+| 437 | 136 | Sabrina Mansfield |
 | 438 | 135 | Morgan Cudo |
 | 439 | 134 | Sharon Dudley Lawson |
 | 440 | 134 | Cheery Brickster |

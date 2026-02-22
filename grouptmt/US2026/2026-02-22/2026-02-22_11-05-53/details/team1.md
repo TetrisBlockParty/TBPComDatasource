@@ -143,8 +143,8 @@
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
-| 138 | 270 | Mandyy Rae |
-| 139 | 270 | Ash Galvan |
+| 138 | 270 | Ash Galvan |
+| 139 | 270 | Mandyy Rae |
 | 140 | 268 | GATOR |
 | 141 | 265 | Nutty Spinblock |
 | 142 | 265 | SkipTheSadSauce |
@@ -157,11 +157,11 @@
 | 149 | 256 | David Miller |
 | 150 | 255 | Elaine Elaine |
 | 151 | 254 | Al Smith Jr |
-| 152 | 253 | Witty Builderfit |
-| 153 | 253 | Plucky Fallzone |
+| 152 | 253 | Plucky Fallzone |
+| 153 | 253 | Witty Builderfit |
 | 154 | 252 | Dena Kayy |
-| 155 | 247 | Ty Brown |
-| 156 | 247 | Tana |
+| 155 | 247 | Tana |
+| 156 | 247 | Ty Brown |
 | 157 | 243 | Trippy Redd |
 | 158 | 242 | ALFD |
 | 159 | 241 | John J. Cronin |
@@ -257,8 +257,8 @@
 | 249 | 167 | Nery Martinez |
 | 250 | 167 | Cranky Pattern |
 | 251 | 166 | Carrie Smith |
-| 252 | 165 | Nadine Velardo |
-| 253 | 165 | Silly Align |
+| 252 | 165 | Silly Align |
+| 253 | 165 | Nadine Velardo |
 | 254 | 164 | Desiree Deschaine Havee |
 | 255 | 163 | Davery Spencer Adair |
 | 256 | 163 | Blaire Bruckoff |
