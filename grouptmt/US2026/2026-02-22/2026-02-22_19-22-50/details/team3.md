@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -141,8 +141,8 @@
 | 133 | 526 | Cynthia Castros-Hampton |
 | 134 | 525 | Justin Ritter |
 | 135 | 521 | Leah Barnett |
-| 136 | 521 | Michelle Becker |
-| 137 | 521 | Michael Nowogorski |
+| 136 | 521 | Michael Nowogorski |
+| 137 | 521 | Michelle Becker |
 | 138 | 518 | opf |
 | 139 | 516 | Elissa S-k |
 | 140 | 506 | Sashay Tapae Simpson |
@@ -157,8 +157,8 @@
 | 149 | 479 | Poppy Splitter |
 | 150 | 479 | Annie Marie |
 | 151 | 474 | Danielle Balcom |
-| 152 | 471 | Nora Rogers |
-| 153 | 471 | Mendoza Lee Christy |
+| 152 | 471 | Mendoza Lee Christy |
+| 153 | 471 | Nora Rogers |
 | 154 | 470 | Logan Naccarato |
 | 155 | 469 | Adrian Marcel Pate |
 | 156 | 468 | Betty Ivy |
@@ -245,8 +245,8 @@
 | 237 | 324 | Sissy Lowery Davis |
 | 238 | 323 | Demetrious Shaw Sr. |
 | 239 | 321 | Rebecca Bailey |
-| 240 | 320 | Or Reznitsky |
-| 241 | 320 | Ashley Muncey |
+| 240 | 320 | Brittany |
+| 241 | 320 | Or Reznitsky |
 | 242 | 320 | Keis |
 | 243 | 320 | Ashley Muncey |
 | 244 | 319 | Michael Johnson |
@@ -288,9 +288,9 @@
 | 280 | 271 | Cass Mendoza |
 | 281 | 269 | Micayah Stevens |
 | 282 | 268 | Krystal Gerstberger |
-| 283 | 267 | Tiffany Davie |
-| 284 | 267 | Nikki Pags |
-| 285 | 267 | April Matthew Kibble |
+| 283 | 267 | Nikki Pags |
+| 284 | 267 | April Matthew Kibble |
+| 285 | 267 | Tiffany Davie |
 | 286 | 267 | Aerian Preston |
 | 287 | 266 | Quirky Dropzone |
 | 288 | 263 | Brenda Schmid Wood |
@@ -420,8 +420,8 @@
 | 412 | 182 | gremicx |
 | 413 | 182 | Joy Petroski |
 | 414 | 181 | Fancy Curver |
-| 415 | 180 | Beth Ingham |
-| 416 | 180 | Sarah Whalen |
+| 415 | 180 | Sarah Whalen |
+| 416 | 180 | Beth Ingham |
 | 417 | 180 | Ava Petito |
 | 418 | 179 | Betty Bóò |
 | 419 | 179 | Skinny Baldez |

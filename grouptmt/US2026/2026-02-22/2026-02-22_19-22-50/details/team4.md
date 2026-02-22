@@ -45,8 +45,8 @@
 | 37 | 908 | Misty Hollibaugh |
 | 38 | 886 | Dustin Robert |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Lucille Truesdale |
-| 41 | 846 | Christine Marie |
+| 40 | 846 | Christine Marie |
+| 41 | 846 | Lucille Truesdale |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -154,10 +154,10 @@
 | 146 | 316 | Meagan Nicole |
 | 147 | 314 | Andy Cabral |
 | 148 | 308 | Jeff Brian Gates |
-| 149 | 307 | Angela Srubar-Norman |
-| 150 | 307 | Bio Nelly |
-| 151 | 300 | Dana Scott |
-| 152 | 300 | Jason Hart |
+| 149 | 307 | Bio Nelly |
+| 150 | 307 | Angela Srubar-Norman |
+| 151 | 300 | Jason Hart |
+| 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
 | 154 | 294 | Calvin Cannon |
 | 155 | 294 | Kesha Brady |
@@ -318,8 +318,8 @@
 | 310 | 157 | LunaMoon |
 | 311 | 157 | KayM |
 | 312 | 157 | Bethany Ison |
-| 313 | 156 | Terrance Fung |
-| 314 | 156 | Ultramarine |
+| 313 | 156 | Ultramarine |
+| 314 | 156 | Terrance Fung |
 | 315 | 154 | Circuit8 |
 | 316 | 154 | Chummy Towerzone |
 | 317 | 153 | O block |

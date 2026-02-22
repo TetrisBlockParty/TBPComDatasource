@@ -357,8 +357,8 @@
 | 349 | 703 | Gold Rose |
 | 350 | 702 | Leslie Ann Carter |
 | 351 | 700 | Vincent Petrella |
-| 352 | 700 | Beverly Owens |
-| 353 | 700 | Rosemadder |
+| 352 | 700 | Rosemadder |
+| 353 | 700 | Beverly Owens |
 | 354 | 697 | Dreamy Blast |
 | 355 | 697 | Ashle Scranton |
 | 356 | 695 | Mama T |
@@ -1571,7 +1571,7 @@
 | 1563 | 184 | STLBatman |
 | 1564 | 184 | Lacey Cummings |
 | 1565 | 183 | Harley Williams |
-| 1566 | 183 | Jumpy Zoner |
+| 1566 | 183 | Andrew Nicholas Wall |
 | 1567 | 183 | Wha |
 | 1568 | 183 | Jumpy Zoner |
 | 1569 | 183 | Lisa Yuen Small |
