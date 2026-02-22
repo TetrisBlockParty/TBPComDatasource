@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Jolly Dashfit |
-| 119 | 431 | Courtney Cicoria |
+| 118 | 431 | Courtney Cicoria |
+| 119 | 431 | Jolly Dashfit |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -133,8 +133,8 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Trish |
-| 129 | 393 | Carlton Unfiltered |
+| 128 | 393 | Carlton Unfiltered |
+| 129 | 393 | Trish |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Jessica Lynn Cutlip |
 | 132 | 391 | Lush Linkfall |

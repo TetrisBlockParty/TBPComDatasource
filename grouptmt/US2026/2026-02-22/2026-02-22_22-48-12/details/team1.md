@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Ryan Lunnin |
-| 82 | 519 | Greg Hart |
+| 81 | 519 | Greg Hart |
+| 82 | 519 | Ryan Lunnin |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -115,8 +115,8 @@
 | 107 | 436 | Tonya Beasley |
 | 108 | 435 | Erin Hodges Plumb |
 | 109 | 433 | Tinah Montanna |
-| 110 | 429 | Dee Perry |
-| 111 | 429 | Anaid Sanchez |
+| 110 | 429 | Anaid Sanchez |
+| 111 | 429 | Dee Perry |
 | 112 | 423 | Veronica Eve |
 | 113 | 418 | Jazzy Framezone |
 | 114 | 417 | Lori Sanders- Davis |
@@ -179,8 +179,8 @@
 | 171 | 304 | Nicole Roseberry Weber |
 | 172 | 303 | Letson Melissa |
 | 173 | 302 | Mike Ames |
-| 174 | 298 | Danielle Little-Daugherty |
-| 175 | 298 | femmefatale |
+| 174 | 298 | femmefatale |
+| 175 | 298 | Danielle Little-Daugherty |
 | 176 | 296 | ALFD |
 | 177 | 296 | Madison Wicks |
 | 178 | 295 | David Lutcher |
@@ -260,8 +260,8 @@
 | 252 | 222 | Snappy Bridgepiece |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
-| 255 | 219 | Joe Coon |
-| 256 | 219 | Chuck Gannon |
+| 255 | 219 | Chuck Gannon |
+| 256 | 219 | Joe Coon |
 | 257 | 219 | Negan Mallory Knoxx Spence |
 | 258 | 218 | Jessie Welch |
 | 259 | 216 | Chad Atchley |
@@ -320,10 +320,10 @@
 | 312 | 187 | Cool Towerzone |
 | 313 | 187 | GringaLinga |
 | 314 | 186 | Nikki Fridley |
-| 315 | 185 | Oscar Zamora |
-| 316 | 185 | Hasty Columnbuilder |
-| 317 | 184 | Itspaigebro |
-| 318 | 184 | Cranky Pattern |
+| 315 | 185 | Hasty Columnbuilder |
+| 316 | 185 | Oscar Zamora |
+| 317 | 184 | Cranky Pattern |
+| 318 | 184 | Itspaigebro |
 | 319 | 183 | Dino |
 | 320 | 181 | David DeSantis |
 | 321 | 179 | Ryan White |

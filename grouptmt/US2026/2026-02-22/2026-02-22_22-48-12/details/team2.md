@@ -174,8 +174,8 @@
 | 166 | 1296 | Kristin Ruest |
 | 167 | 1294 | Ashley House |
 | 168 | 1286 | Altamirano Michael |
-| 169 | 1282 | Tanya Parsons |
-| 170 | 1282 | Ashley Rose Frederick |
+| 169 | 1282 | Ashley Rose Frederick |
+| 170 | 1282 | Tanya Parsons |
 | 171 | 1271 | Shandrica Lowe |
 | 172 | 1260 | Joshua Sommerville |
 | 173 | 1257 | Michele Gabriel |
@@ -469,8 +469,8 @@
 | 461 | 589 | Thomas Hedrick |
 | 462 | 589 | Kelly Templeton |
 | 463 | 585 | Sheronda Jackson |
-| 464 | 584 | Ryan Stadel |
-| 465 | 584 | snkylnk |
+| 464 | 584 | snkylnk |
+| 465 | 584 | Ryan Stadel |
 | 466 | 583 | Kitybox |
 | 467 | 582 | Bee |
 | 468 | 582 | Julie Kresal |
@@ -601,8 +601,8 @@
 | 593 | 474 | Jennifer Monroe Kelly |
 | 594 | 474 | Jennifer Scott |
 | 595 | 474 | KayLynn Ogden McClelland |
-| 596 | 473 | Tracy Wise |
-| 597 | 473 | Mary Marie |
+| 596 | 473 | Mary Marie |
+| 597 | 473 | Tracy Wise |
 | 598 | 473 | Wuntayk |
 | 599 | 473 | coleksquad |
 | 600 | 472 | Arwa Fatimah |

@@ -186,8 +186,8 @@
 | 178 | 460 | Araceli Parra |
 | 179 | 460 | Danielle Allison |
 | 180 | 458 | Danielle Rhoades |
-| 181 | 457 | Jim Mathews |
-| 182 | 457 | Shannon Matthew Byers |
+| 181 | 457 | Shannon Matthew Byers |
+| 182 | 457 | Jim Mathews |
 | 183 | 455 | Bmo |
 | 184 | 454 | FuzzyNavel |
 | 185 | 452 | Jacqueline Rodriguez |
@@ -343,8 +343,8 @@
 | 335 | 251 | Naur |
 | 336 | 251 | Alice |
 | 337 | 250 | Tosha Griffey |
-| 338 | 247 | Jessica |
-| 339 | 247 | Daring Builder |
+| 338 | 247 | Daring Builder |
+| 339 | 247 | Jessica |
 | 340 | 246 | Erika Thornton |
 | 341 | 245 | Latoya Mayne |
 | 342 | 244 | Quackers |
@@ -498,8 +498,8 @@
 | 490 | 172 | Miranda Taylor |
 | 491 | 172 | Jl |
 | 492 | 172 | Arden White Kirsch |
-| 493 | 171 | Daring Brickzone |
-| 494 | 171 | David Kozen |
+| 493 | 171 | David Kozen |
+| 494 | 171 | Daring Brickzone |
 | 495 | 170 | Bouncy Blockbuilder |
 | 496 | 170 | luluraine |
 | 497 | 169 | Peachy Rollfit |
