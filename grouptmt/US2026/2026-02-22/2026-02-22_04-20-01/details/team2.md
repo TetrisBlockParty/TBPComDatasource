@@ -288,8 +288,8 @@
 | 280 | 629 | Dee |
 | 281 | 626 | Allan Wayne Lamia |
 | 282 | 619 | Jánine Riggs |
-| 283 | 617 | Leslie Ann Carter |
-| 284 | 617 | tejas25 |
+| 283 | 617 | tejas25 |
+| 284 | 617 | Leslie Ann Carter |
 | 285 | 615 | Brandon Armstrong |
 | 286 | 613 | Ellie Jonas |
 | 287 | 609 | Stephen Stephen |
@@ -732,8 +732,8 @@
 | 724 | 261 | MamaBear11 |
 | 725 | 261 | MrsClaudette Will'sIam Matthews |
 | 726 | 261 | Mary Boss |
-| 727 | 261 | Dany Murillo |
-| 728 | 261 | Gina Gina |
+| 727 | 261 | Gina Gina |
+| 728 | 261 | Dany Murillo |
 | 729 | 261 | Fancy Twister |
 | 730 | 260 | Dad |
 | 731 | 259 | Sarah Sims |
@@ -798,8 +798,8 @@
 | 790 | 240 | Matthew Joseph Acevedo |
 | 791 | 240 | Nikki Vaughn |
 | 792 | 239 | Mary Ahne |
-| 793 | 239 | Amy John Mills |
-| 794 | 239 | Jennifer Leigh |
+| 793 | 239 | Jennifer Leigh |
+| 794 | 239 | Amy John Mills |
 | 795 | 239 | Joel Rosado |
 | 796 | 238 | Manny Trindade |
 | 797 | 238 | Trista Carter |
@@ -850,8 +850,8 @@
 | 842 | 226 | Jennifer Coe |
 | 843 | 226 | Theresa Sterrett |
 | 844 | 225 | Candace Cece Joseph |
-| 845 | 225 | Caitlin Johnson |
-| 846 | 225 | Samantha Morgan |
+| 845 | 225 | Samantha Morgan |
+| 846 | 225 | Caitlin Johnson |
 | 847 | 225 | Anna Mayo |
 | 848 | 224 | Wacky Cascade |
 | 849 | 223 | Nancy Pohlman |

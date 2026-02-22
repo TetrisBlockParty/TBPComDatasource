@@ -297,8 +297,8 @@
 | 289 | 174 | Betty Rosas |
 | 290 | 174 | fraulila |
 | 291 | 174 | Lesley Perez |
-| 292 | 173 | BŘŰŤİÇŨŚ |
-| 293 | 173 | Denita Mungro |
+| 292 | 173 | Denita Mungro |
+| 293 | 173 | BŘŰŤİÇŨŚ |
 | 294 | 171 | Emma |
 | 295 | 170 | Cesar Barraza |
 | 296 | 169 | Peachy Rollfit |

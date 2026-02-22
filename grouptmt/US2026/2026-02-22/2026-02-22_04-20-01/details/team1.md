@@ -106,8 +106,8 @@
 | 98 | 319 | Patrick Luckenbill |
 | 99 | 313 | Tanya Carpenter-Reynolds |
 | 100 | 310 | Seth Wesson |
-| 101 | 304 | Nicole Roseberry Weber |
-| 102 | 304 | Katie Daniels |
+| 101 | 304 | Katie Daniels |
+| 102 | 304 | Nicole Roseberry Weber |
 | 103 | 301 | Lehrin Maria |
 | 104 | 294 | Theo Pinnow |
 | 105 | 292 | Kristen Gideon |
@@ -151,8 +151,8 @@
 | 143 | 212 | Lori Bales |
 | 144 | 211 | Marianita Garcia |
 | 145 | 210 | Giggly Builderline |
-| 146 | 208 | Bouncy Grid |
-| 147 | 208 | lil mickey |
+| 146 | 208 | lil mickey |
+| 147 | 208 | Bouncy Grid |
 | 148 | 207 | Leslie Bush Yarbrough |
 | 149 | 206 | Kimberly Garcia |
 | 150 | 204 | Lacy Wolfe |
@@ -171,8 +171,8 @@
 | 163 | 191 | Diane Byrd |
 | 164 | 190 | Thorne Shumate |
 | 165 | 190 | Sweetts |
-| 166 | 189 | Michael |
-| 167 | 189 | Jeanna Dunn |
+| 166 | 189 | Jeanna Dunn |
+| 167 | 189 | Michael |
 | 168 | 188 | Sam Williams |
 | 169 | 187 | Snippy Wipebuilder |
 | 170 | 187 | Jennifer Olewnik Soborowski |
@@ -270,8 +270,8 @@
 | 262 | 124 | Rodney Schmerfeld |
 | 263 | 123 | Zany Tiler |
 | 264 | 122 | Nate Funk |
-| 265 | 121 | Jacob Shaddock |
-| 266 | 121 | Jamie Jury |
+| 265 | 121 | Jamie Jury |
+| 266 | 121 | Jacob Shaddock |
 | 267 | 120 | DoodleBug |
 | 268 | 119 | Tater |
 | 269 | 119 | Chuck Gannon |
