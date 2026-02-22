@@ -507,15 +507,15 @@
 | 499 | 444 | Ryan Meilleur |
 | 500 | 442 | Leah |
 | 501 | 442 | Darlene Bowman |
-| 502 | 440 | Liberty |
-| 503 | 440 | Sarah Berger |
+| 502 | 440 | Sarah Berger |
+| 503 | 440 | Liberty |
 | 504 | 438 | Kristi Biddinger |
 | 505 | 438 | Johnny Yeates |
 | 506 | 437 | Bubbly Snapfit |
 | 507 | 436 | Brenda Pierpoint |
 | 508 | 436 | Niceday |
-| 509 | 435 | Regina Young |
-| 510 | 435 | James Louie |
+| 509 | 435 | James Louie |
+| 510 | 435 | Regina Young |
 | 511 | 433 | KayLynn Ogden McClelland |
 | 512 | 432 | Lucy Marshall |
 | 513 | 431 | Lee Harper |
@@ -595,8 +595,8 @@
 | 587 | 389 | Kayla |
 | 588 | 389 | Julie Hamilton |
 | 589 | 388 | Christina Ashley |
-| 590 | 387 | Bold Brickster |
-| 591 | 387 | Misti Markijohn |
+| 590 | 387 | Misti Markijohn |
+| 591 | 387 | Bold Brickster |
 | 592 | 386 | Wuntayk |
 | 593 | 385 | Tansaria Couch-Butler |
 | 594 | 384 | Mary Marie |
@@ -608,8 +608,8 @@
 | 600 | 382 | Amber Gray |
 | 601 | 381 | Nicky Jackson |
 | 602 | 381 | Happy Caster |
-| 603 | 380 | Christy Long |
-| 604 | 380 | Giggy Grabber |
+| 603 | 380 | Giggy Grabber |
+| 604 | 380 | Christy Long |
 | 605 | 379 | Cini |
 | 606 | 378 | TF Dyer |
 | 607 | 378 | Tina Marie |
@@ -617,8 +617,8 @@
 | 609 | 376 | James Zaragoza |
 | 610 | 375 | Cecilia A Jenkins |
 | 611 | 375 | Lively Edgepiece |
-| 612 | 373 | Jessica Hughes |
-| 613 | 373 | Hunter Connors |
+| 612 | 373 | Hunter Connors |
+| 613 | 373 | Jessica Hughes |
 | 614 | 373 | Ashley Marie |
 | 615 | 372 | Ebony Deloach Bryant |
 | 616 | 371 | Brenda Messer |
@@ -918,8 +918,8 @@
 | 910 | 254 | Elizabeth Diraffaele |
 | 911 | 252 | Aleasha M Brown |
 | 912 | 252 | Marget Kay |
-| 913 | 252 | Layna Lyons |
-| 914 | 252 | Amanda Segura |
+| 913 | 252 | Amanda Segura |
+| 914 | 252 | Layna Lyons |
 | 915 | 251 | Bold Clusterfit |
 | 916 | 251 | Regina Unruh |
 | 917 | 251 | Emoniee Sa'niaya |
@@ -1306,11 +1306,11 @@
 | 1298 | 178 | Rob Booker |
 | 1299 | 178 | Brenda Annabel Smith |
 | 1300 | 177 | Cris Darling |
-| 1301 | 177 | Rebecca Anzueto Estrada |
-| 1302 | 177 | Tim Jacoby |
+| 1301 | 177 | Tim Jacoby |
+| 1302 | 177 | Rebecca Anzueto Estrada |
 | 1303 | 177 | Jennifer Rose |
-| 1304 | 177 | Angela KaplaSchwahn |
-| 1305 | 177 | Ian Anderson |
+| 1304 | 177 | Ian Anderson |
+| 1305 | 177 | Angela KaplaSchwahn |
 | 1306 | 176 | Gregorio Molina |
 | 1307 | 176 | Gigi |
 | 1308 | 176 | Brec2024 |

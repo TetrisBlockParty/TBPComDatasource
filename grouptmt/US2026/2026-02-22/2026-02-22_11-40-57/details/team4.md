@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -138,10 +138,10 @@
 | 130 | 286 | shark tato |
 | 131 | 283 | Brittney Orengo |
 | 132 | 281 | Meagan Nicole |
-| 133 | 278 | Carrie Brian |
-| 134 | 278 | Desi Desporte |
-| 135 | 277 | Mary Ann Pabukis |
-| 136 | 277 | Scott Jameson |
+| 133 | 278 | Desi Desporte |
+| 134 | 278 | Carrie Brian |
+| 135 | 277 | Scott Jameson |
+| 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
@@ -204,8 +204,8 @@
 | 196 | 195 | Malakai Darien Fox |
 | 197 | 194 | Zany Twisterfit |
 | 198 | 192 | Shauna Havard |
-| 199 | 191 | Sam Bishop |
-| 200 | 191 | Klo |
+| 199 | 191 | Klo |
+| 200 | 191 | Sam Bishop |
 | 201 | 190 | Cheery Risebuilder |
 | 202 | 189 | Stacey Stano |
 | 203 | 189 | Calvin Dennis |
