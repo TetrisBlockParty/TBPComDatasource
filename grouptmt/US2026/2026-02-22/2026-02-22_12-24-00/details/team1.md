@@ -161,8 +161,8 @@
 | 153 | 255 | Elaine Elaine |
 | 154 | 254 | Al Smith Jr |
 | 155 | 254 | Ty Brown |
-| 156 | 253 | Witty Builderfit |
-| 157 | 253 | Plucky Fallzone |
+| 156 | 253 | Plucky Fallzone |
+| 157 | 253 | Witty Builderfit |
 | 158 | 252 | Dena Kayy |
 | 159 | 247 | Tana |
 | 160 | 246 | Lakeisha Chapman |

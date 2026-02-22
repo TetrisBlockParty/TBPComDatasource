@@ -136,8 +136,8 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Scott Jameson |
-| 132 | 283 | Brittney Orengo |
+| 131 | 283 | Brittney Orengo |
+| 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
 | 134 | 278 | Desi Desporte |
 | 135 | 278 | Carrie Brian |
@@ -148,7 +148,7 @@
 | 140 | 271 | Sarah Brown |
 | 141 | 267 | Damn Libra |
 | 142 | 265 | Jeff Brian Gates |
-| 143 | 264 | Girl |
+| 143 | 264 | Dana Scott |
 | 144 | 264 | Epic Curvetile |
 | 145 | 264 | Girl |
 | 146 | 262 | Alan George LaRage |
@@ -763,8 +763,8 @@
 | 755 | 48 | Loopy Rollbuilder |
 | 756 | 48 | Tyler Brown |
 | 757 | 48 | Austin Trent Weaver |
-| 758 | 48 | Tyler Brown |
-| 759 | 48 | Loopy Rollbuilder |
+| 758 | 48 | Kristen Rittall |
+| 759 | 48 | OneBuke FollowMe |
 | 760 | 48 | Veronica Garza |
 | 761 | 47 | Kristina Renea Day |
 | 762 | 47 | April Swinney |

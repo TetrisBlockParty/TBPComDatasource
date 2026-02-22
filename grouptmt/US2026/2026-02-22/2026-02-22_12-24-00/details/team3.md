@@ -103,14 +103,14 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
 | 103 | 566 | Dolores Falco |
-| 104 | 565 | Patty Allen |
-| 105 | 565 | Rachael McClain Owens |
+| 104 | 565 | Rachael McClain Owens |
+| 105 | 565 | Patty Allen |
 | 106 | 562 | Dave Herzog |
 | 107 | 562 | Louise Stacy Sisson |
 | 108 | 559 | Morgan Martinez |
@@ -162,8 +162,8 @@
 | 154 | 403 | Scott Lindsay |
 | 155 | 401 | Katie Knaus |
 | 156 | 400 | Luciana Braganca Vieira |
-| 157 | 399 | Mcathen |
-| 158 | 399 | Marcie Bressler |
+| 157 | 399 | Marcie Bressler |
+| 158 | 399 | Mcathen |
 | 159 | 397 | Annie Déè |
 | 160 | 393 | Fallorina Susana |
 | 161 | 391 | Calista Jo Dickson |
@@ -284,8 +284,8 @@
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
-| 279 | 221 | Jaime Monhaut-Reed |
-| 280 | 221 | Alice |
+| 279 | 221 | Alice |
+| 280 | 221 | Jaime Monhaut-Reed |
 | 281 | 220 | Tosha Griffey |
 | 282 | 220 | rosy |
 | 283 | 218 | Michael Lucado |
@@ -305,8 +305,8 @@
 | 297 | 210 | Criss |
 | 298 | 209 | Micayah Stevens |
 | 299 | 208 | AlsoJess |
-| 300 | 207 | Jessica |
-| 301 | 207 | Daring Builder |
+| 300 | 207 | Daring Builder |
+| 301 | 207 | Jessica |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
 | 304 | 206 | Tracy Martin |
@@ -434,8 +434,8 @@
 | 426 | 143 | Deseree Ewing |
 | 427 | 142 | Erica Anderson |
 | 428 | 142 | Gray Hicks |
-| 429 | 142 | Joy Petroski |
-| 430 | 142 | Jl |
+| 429 | 142 | Jl |
+| 430 | 142 | Joy Petroski |
 | 431 | 141 | Melissa Snyder |
 | 432 | 141 | Bhreagh Gentile |
 | 433 | 141 | Weerae |
@@ -752,8 +752,8 @@
 | 744 | 84 | Samantha Greco |
 | 745 | 84 | Quackers |
 | 746 | 84 | Moneyvybz |
-| 747 | 84 | Christine Foley |
-| 748 | 84 | Dannie Litchard |
+| 747 | 84 | Dannie Litchard |
+| 748 | 84 | Christine Foley |
 | 749 | 83 | Glitzy Slide |
 | 750 | 83 | Kristina Marie |
 | 751 | 83 | Monnie Parra |
