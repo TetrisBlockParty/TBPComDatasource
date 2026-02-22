@@ -214,8 +214,8 @@
 | 206 | 659 | Poldo Ilano |
 | 207 | 658 | Erica Williams |
 | 208 | 654 | Mandi Douglas Hilt |
-| 209 | 651 | Roseanna Peloso |
-| 210 | 651 | Auntie B |
+| 209 | 651 | Auntie B |
+| 210 | 651 | Roseanna Peloso |
 | 211 | 651 | Unica Rector |
 | 212 | 651 | ShinyRose |
 | 213 | 650 | Shiny Rollzone |
@@ -246,8 +246,8 @@
 | 238 | 587 | Hyper Cluster |
 | 239 | 586 | Hoppy Brickmatch |
 | 240 | 586 | Stephen Stephen |
-| 241 | 583 | Steve Grotto |
-| 242 | 583 | Jessicah Myers |
+| 241 | 583 | Jessicah Myers |
+| 242 | 583 | Steve Grotto |
 | 243 | 582 | Gary Stash |
 | 244 | 581 | Jánine Riggs |
 | 245 | 580 | Leslie Ann Carter |
@@ -700,8 +700,8 @@
 | 692 | 228 | Samantha Angelo |
 | 693 | 228 | Dara |
 | 694 | 227 | Sho Nuff |
-| 695 | 227 | Nutty Slice |
-| 696 | 227 | Monique Foster |
+| 695 | 227 | Monique Foster |
+| 696 | 227 | Nutty Slice |
 | 697 | 226 | Theresa Sterrett |
 | 698 | 226 | Jodi Mitnick |
 | 699 | 225 | BK Queen |

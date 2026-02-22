@@ -121,12 +121,12 @@
 | 113 | 218 | Casey Grabner |
 | 114 | 213 | Chaz Duncan |
 | 115 | 213 | loulou |
-| 116 | 212 | Calvin Cannon |
-| 117 | 212 | Mike Solo |
+| 116 | 212 | Mike Solo |
+| 117 | 212 | Calvin Cannon |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Chastity Mitchell |
-| 121 | 208 | Twisty Cascadezone |
+| 120 | 208 | Twisty Cascadezone |
+| 121 | 208 | Chastity Mitchell |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
 | 124 | 204 | Dana Scott |
@@ -135,8 +135,8 @@
 | 127 | 201 | Swanky Fitline |
 | 128 | 201 | Melvin Baird |
 | 129 | 197 | Peachy Fall |
-| 130 | 196 | Jeff Brian Gates |
-| 131 | 196 | Jenna McGeorge |
+| 130 | 196 | Jenna McGeorge |
+| 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
 | 134 | 189 | Stacey Stano |
@@ -218,7 +218,7 @@
 | 210 | 125 | Heather Tushner |
 | 211 | 124 | Allen Lloyd |
 | 212 | 124 | Kristina Black |
-| 213 | 124 | Allen Lloyd |
+| 213 | 124 | SammieJo Guy |
 | 214 | 123 | Austin Owens |
 | 215 | 123 | Matt Dell'Olio |
 | 216 | 123 | Tyler Terrific |
@@ -262,11 +262,11 @@
 | 254 | 106 | Zappy Snaplink |
 | 255 | 106 | Brandi Durig |
 | 256 | 105 | Kim Hunt |
-| 257 | 104 | Maureen Flanigan |
+| 257 | 104 | Cheery Risebuilder |
 | 258 | 104 | mike |
-| 259 | 104 | Cheery Risebuilder |
+| 259 | 104 | Maureen Flanigan |
 | 260 | 103 | Richard-April Kice |
-| 261 | 102 | Jumpy Zonepiece |
+| 261 | 102 | Autumn Kumzi |
 | 262 | 102 | Christina O'Dell-Ishau |
 | 263 | 102 | Faja |
 | 264 | 102 | Jumpy Zonepiece |

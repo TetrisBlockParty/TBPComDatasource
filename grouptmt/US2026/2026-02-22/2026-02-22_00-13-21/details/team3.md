@@ -92,8 +92,8 @@
 | 84 | 502 | Justin Ritter |
 | 85 | 493 | Mandy Smith Oldham |
 | 86 | 491 | Chauntee Alfrey-Cardinale |
-| 87 | 489 | Nate Burnside |
-| 88 | 489 | Jennifer Petrie |
+| 87 | 489 | Jennifer Petrie |
+| 88 | 489 | Nate Burnside |
 | 89 | 487 | Christine Niles |
 | 90 | 471 | Mendoza Lee Christy |
 | 91 | 466 | Kristie |
