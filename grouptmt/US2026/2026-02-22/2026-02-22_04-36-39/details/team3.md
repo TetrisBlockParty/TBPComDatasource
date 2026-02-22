@@ -139,8 +139,8 @@
 | 131 | 403 | Christine Filson |
 | 132 | 402 | Shannon Matthew Byers |
 | 133 | 400 | Luciana Braganca Vieira |
-| 134 | 399 | Patti Skiles |
-| 135 | 399 | Mcathen |
+| 134 | 399 | Mcathen |
+| 135 | 399 | Patti Skiles |
 | 136 | 397 | Annie Déè |
 | 137 | 394 | Louise Stacy Sisson |
 | 138 | 392 | Katie Knaus |
@@ -170,8 +170,8 @@
 | 162 | 347 | Nicole Flippo |
 | 163 | 343 | Ashley Raines |
 | 164 | 338 | Leah Barnett |
-| 165 | 332 | Rich LeBlanc |
-| 166 | 332 | Fallorina Susana |
+| 165 | 332 | Fallorina Susana |
+| 166 | 332 | Rich LeBlanc |
 | 167 | 325 | Giddy Twistbuilder |
 | 168 | 324 | Tom Nault |
 | 169 | 323 | Demetrious Shaw Sr. |
@@ -233,8 +233,8 @@
 | 225 | 240 | Jimmie Clemons |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Grego Daniel |
-| 229 | 234 | Nikki Pags |
+| 228 | 234 | Nikki Pags |
+| 229 | 234 | Grego Daniel |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -414,8 +414,8 @@
 | 406 | 121 | Fredd Thomas |
 | 407 | 121 | Kellie Montgomery |
 | 408 | 120 | Carol Cain Thurman |
-| 409 | 119 | BugMansMom |
-| 410 | 119 | Boldy Blocker |
+| 409 | 119 | Boldy Blocker |
+| 410 | 119 | BugMansMom |
 | 411 | 119 | Tracey Cox |
 | 412 | 119 | Angella Lyons |
 | 413 | 118 | Damian Reid |
@@ -466,7 +466,7 @@
 | 458 | 107 | Tiffany Marler |
 | 459 | 106 | Jul |
 | 460 | 106 | G |
-| 461 | 106 | Jul |
+| 461 | 106 | Christian Luna |
 | 462 | 106 | Joseph Vargas |
 | 463 | 106 | Megan Riggins |
 | 464 | 105 | Snarky McFace |

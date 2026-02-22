@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | Gabby Jenner |
-| 76 | 1603 | RdRydnHd |
+| 75 | 1603 | RdRydnHd |
+| 76 | 1603 | Gabby Jenner |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1587 | Rob Riggin |
 | 79 | 1553 | Charie Holland |
@@ -160,8 +160,8 @@
 | 152 | 997 | Real Ri |
 | 153 | 990 | Amber Shoemaker |
 | 154 | 988 | Maegan Beaule |
-| 155 | 986 | Teddi Notyalc |
-| 156 | 986 | RAEPR05 |
+| 155 | 986 | RAEPR05 |
+| 156 | 986 | Teddi Notyalc |
 | 157 | 985 | Taylor Phillips |
 | 158 | 977 | Ricardo Burton |
 | 159 | 974 | Dolores Russworn |
@@ -196,13 +196,13 @@
 | 188 | 857 | Della Hole |
 | 189 | 856 | Roger Grabbit |
 | 190 | 850 | Missie Lawson Gebhardt |
-| 191 | 849 | Jennifer Kistner |
-| 192 | 849 | Hillary Crawford |
+| 191 | 849 | Hillary Crawford |
+| 192 | 849 | Jennifer Kistner |
 | 193 | 845 | April Dawn Gussler |
 | 194 | 838 | Tralonda Weeks |
 | 195 | 837 | Ashley Rose Frederick |
-| 196 | 834 | Nika Bee |
-| 197 | 834 | Rebecca Doughman |
+| 196 | 834 | Rebecca Doughman |
+| 197 | 834 | Nika Bee |
 | 198 | 828 | Cindy Sechler Taninecz |
 | 199 | 826 | Moose Griffith |
 | 200 | 824 | Felicia Lynn |
@@ -327,8 +327,8 @@
 | 319 | 535 | Jessie McDougald |
 | 320 | 531 | Chris Wanner |
 | 321 | 527 | Heather Causey |
-| 322 | 527 | Julie Kresal |
-| 323 | 527 | Ryan Gunther |
+| 322 | 527 | Ryan Gunther |
+| 323 | 527 | Julie Kresal |
 | 324 | 526 | Sheronda Jackson |
 | 325 | 525 | Desiree Anderson |
 | 326 | 524 | Jojo Momma |
@@ -1124,8 +1124,8 @@
 | 1116 | 171 | Lori Glover |
 | 1117 | 171 | Tash |
 | 1118 | 171 | Abby Jensen |
-| 1119 | 171 | Jacques Frenette |
-| 1120 | 171 | Kimberly Bickling |
+| 1119 | 171 | Kimberly Bickling |
+| 1120 | 171 | Jacques Frenette |
 | 1121 | 171 | Chris Emanuel |
 | 1122 | 171 | Chirpy Tilt |
 | 1123 | 171 | Catherine Varea |

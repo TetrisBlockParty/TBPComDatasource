@@ -49,8 +49,8 @@
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
 | 43 | 632 | Kimyatta Cavin |
-| 44 | 630 | Dustee Craddock-Harrison |
-| 45 | 630 | Chilly Line |
+| 44 | 630 | Chilly Line |
+| 45 | 630 | Dustee Craddock-Harrison |
 | 46 | 627 | Jonathan Kimbrough |
 | 47 | 614 | Robin Getchel |
 | 48 | 614 | KM8 |
@@ -169,9 +169,9 @@
 | 161 | 195 | Malakai Darien Fox |
 | 162 | 194 | Zany Twisterfit |
 | 163 | 192 | Shauna Havard |
-| 164 | 189 | Stacey Stano |
-| 165 | 189 | Chilly Crasher |
-| 166 | 189 | Calvin Dennis |
+| 164 | 189 | Calvin Dennis |
+| 165 | 189 | Stacey Stano |
+| 166 | 189 | Chilly Crasher |
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Lori |

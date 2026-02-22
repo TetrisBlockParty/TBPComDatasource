@@ -174,8 +174,8 @@
 | 166 | 191 | Diane Byrd |
 | 167 | 190 | Thorne Shumate |
 | 168 | 190 | Sweetts |
-| 169 | 189 | Michael |
-| 170 | 189 | Jeanna Dunn |
+| 169 | 189 | Jeanna Dunn |
+| 170 | 189 | Michael |
 | 171 | 188 | Sam Williams |
 | 172 | 187 | Snippy Wipebuilder |
 | 173 | 187 | Jennifer Olewnik Soborowski |
@@ -277,8 +277,8 @@
 | 269 | 121 | Jacob Shaddock |
 | 270 | 121 | Jamie Jury |
 | 271 | 120 | DoodleBug |
-| 272 | 118 | Tyler Hertzog |
-| 273 | 118 | Garcia Bailey |
+| 272 | 118 | Garcia Bailey |
+| 273 | 118 | Tyler Hertzog |
 | 274 | 117 | Bob |
 | 275 | 117 | Amanda Jarnagin |
 | 276 | 116 | Debbie Davis |
