@@ -532,8 +532,8 @@
 | 524 | 424 | Mia Muse Best |
 | 525 | 423 | Sam |
 | 526 | 422 | coleksquad |
-| 527 | 421 | SwampRebel |
-| 528 | 421 | Vonceial Boone |
+| 527 | 421 | Vonceial Boone |
+| 528 | 421 | SwampRebel |
 | 529 | 420 | LaWanda Powell |
 | 530 | 419 | Pocho Zavala |
 | 531 | 419 | Josh Dill |
@@ -562,8 +562,8 @@
 | 554 | 404 | Dawn L Washington-Feuquay |
 | 555 | 403 | Goofy Dasher |
 | 556 | 401 | Moua Ying |
-| 557 | 401 | Taylor Flowers |
-| 558 | 401 | De Hawkins |
+| 557 | 401 | De Hawkins |
+| 558 | 401 | Taylor Flowers |
 | 559 | 400 | Michael Artis |
 | 560 | 400 | Tammy Allen |
 | 561 | 400 | Joshua Self |
@@ -716,8 +716,8 @@
 | 708 | 320 | Mary Boss |
 | 709 | 319 | RetroLemur |
 | 710 | 318 | Jennifer Mahon |
-| 711 | 317 | Ashlyn Berner |
-| 712 | 317 | Zombi3 |
+| 711 | 317 | Zombi3 |
+| 712 | 317 | Ashlyn Berner |
 | 713 | 317 | Aireka Roman |
 | 714 | 316 | Jenn Marie |
 | 715 | 316 | Epic Spinfit |
