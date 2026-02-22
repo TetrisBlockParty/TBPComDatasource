@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Shane Kalamata Platoon |
-| 85 | 358 | Nugget |
+| 84 | 358 | Nugget |
+| 85 | 358 | Shane Kalamata Platoon |
 | 86 | 319 | Livvy |
 | 87 | 317 | Lori Walker |
 | 88 | 314 | Amanda Pauldo-Ivy |
@@ -158,9 +158,9 @@
 | 150 | 194 | Zany Twisterfit |
 | 151 | 192 | Shauna Havard |
 | 152 | 190 | Justin Hannigan |
-| 153 | 189 | Calvin Dennis |
-| 154 | 189 | Chilly Crasher |
-| 155 | 189 | Stacey Stano |
+| 153 | 189 | Chilly Crasher |
+| 154 | 189 | Stacey Stano |
+| 155 | 189 | Calvin Dennis |
 | 156 | 188 | Andria Lynn |
 | 157 | 187 | TheNeesh50 |
 | 158 | 186 | Holly |
@@ -170,8 +170,8 @@
 | 162 | 184 | Jason Allen |
 | 163 | 184 | Ak Jones |
 | 164 | 182 | Matt Summer |
-| 165 | 181 | Klo |
-| 166 | 181 | Carter Jones |
+| 165 | 181 | Carter Jones |
+| 166 | 181 | Klo |
 | 167 | 179 | blockstar |
 | 168 | 176 | Zethra Prenisha Rahming |
 | 169 | 175 | Kathy Brookins |
