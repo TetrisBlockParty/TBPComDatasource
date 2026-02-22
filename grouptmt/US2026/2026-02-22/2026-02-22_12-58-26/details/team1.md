@@ -123,9 +123,9 @@
 | 115 | 321 | Maria C. Hernandez |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
-| 120 | 316 | Dizzy Party |
+| 118 | 316 | Dizzy Party |
+| 119 | 316 | Jennifer Hardman |
+| 120 | 316 | Ly Phethmany |
 | 121 | 313 | Tanya Carpenter-Reynolds |
 | 122 | 310 | Jason Jones |
 | 123 | 310 | Seth Wesson |
@@ -147,14 +147,14 @@
 | 139 | 282 | Tyler Werts |
 | 140 | 282 | Timothy Dew |
 | 141 | 276 | Dandy Basegrid |
-| 142 | 270 | Mandyy Rae |
-| 143 | 270 | Ash Galvan |
+| 142 | 270 | Ash Galvan |
+| 143 | 270 | Mandyy Rae |
 | 144 | 268 | GATOR |
 | 145 | 265 | Nutty Spinblock |
 | 146 | 265 | SkipTheSadSauce |
 | 147 | 264 | Jenny Gingrich Fuentes |
-| 148 | 264 | Brian Richardsson |
-| 149 | 264 | Lexuriuos Lifestlye |
+| 148 | 264 | Lexuriuos Lifestlye |
+| 149 | 264 | Brian Richardsson |
 | 150 | 263 | Virginia Gray Floyd |
 | 151 | 263 | Angela Renea Lester |
 | 152 | 262 | Jessi Sauer |

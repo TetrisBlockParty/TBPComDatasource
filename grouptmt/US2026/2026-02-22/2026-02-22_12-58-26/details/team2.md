@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -312,8 +312,8 @@
 | 304 | 688 | ShinyRose |
 | 305 | 687 | Dee |
 | 306 | 686 | Ashley Guernsey-Martin |
-| 307 | 685 | Binyah-Binyah |
-| 308 | 685 | Brenda Pierpoint |
+| 307 | 685 | Brenda Pierpoint |
+| 308 | 685 | Binyah-Binyah |
 | 309 | 681 | Melissa Holsinger |
 | 310 | 679 | Eric Castaneda |
 | 311 | 679 | Kassandra Hunt |
@@ -452,14 +452,14 @@
 | 444 | 492 | Breezy Clusterer |
 | 445 | 492 | Armonie Smith |
 | 446 | 491 | Michael Buckner |
-| 447 | 491 | Jedi |
-| 448 | 491 | Victor Obiakarije |
+| 447 | 491 | Victor Obiakarije |
+| 448 | 491 | Jedi |
 | 449 | 489 | Cassie Mercer |
 | 450 | 489 | Andrea Maher |
 | 451 | 489 | Osun Anuket Esu |
 | 452 | 488 | Christina Wsn |
-| 453 | 487 | MrsCandyfine As Wine Truss |
-| 454 | 487 | Morgan Easter |
+| 453 | 487 | Morgan Easter |
+| 454 | 487 | MrsCandyfine As Wine Truss |
 | 455 | 485 | Mamachelle Eisweirth |
 | 456 | 485 | Ann Matzkanin |
 | 457 | 485 | Dapper Dasher |
@@ -565,8 +565,8 @@
 | 557 | 411 | Kristen O'Neal |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Stefanie Zonzini-Gagliardi |
-| 561 | 408 | Abimbola Bimbo |
+| 560 | 408 | Abimbola Bimbo |
+| 561 | 408 | Stefanie Zonzini-Gagliardi |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -576,11 +576,11 @@
 | 568 | 404 | Cleo Sims |
 | 569 | 403 | Goofy Dasher |
 | 570 | 401 | Moua Ying |
-| 571 | 401 | De Hawkins |
-| 572 | 401 | Taylor Flowers |
+| 571 | 401 | Taylor Flowers |
+| 572 | 401 | De Hawkins |
 | 573 | 400 | Joshua Self |
-| 574 | 400 | Michael Artis |
-| 575 | 400 | Tammy Allen |
+| 574 | 400 | Tammy Allen |
+| 575 | 400 | Michael Artis |
 | 576 | 400 | Kathleen Driskell |
 | 577 | 399 | Oscar Bernie |
 | 578 | 398 | Crystal Heller Gonzalez |
@@ -602,12 +602,12 @@
 | 594 | 389 | Kayla |
 | 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
-| 597 | 387 | Misti Markijohn |
-| 598 | 387 | Bold Brickster |
+| 597 | 387 | Bold Brickster |
+| 598 | 387 | Misti Markijohn |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
-| 601 | 384 | Party d |
-| 602 | 384 | Kelly |
+| 601 | 384 | Kelly |
+| 602 | 384 | Party d |
 | 603 | 383 | Jessica Conaway |
 | 604 | 383 | Belle Mari |
 | 605 | 382 | Lively Edgepiece |
@@ -754,8 +754,8 @@
 | 746 | 308 | Hyper Riseclear |
 | 747 | 308 | Sarah block |
 | 748 | 308 | Claire |
-| 749 | 307 | stacey |
-| 750 | 307 | Peachy Blockbuilder |
+| 749 | 307 | Peachy Blockbuilder |
+| 750 | 307 | stacey |
 | 751 | 306 | Kiorah Blaze |
 | 752 | 305 | Zany Clusterbuilder |
 | 753 | 305 | Narutofreak13 |
@@ -770,8 +770,8 @@
 | 762 | 302 | Epic Stackbuilder |
 | 763 | 302 | Maxwell Escalera |
 | 764 | 300 | Alice Ball |
-| 765 | 300 | Kacee Conrad Bock |
-| 766 | 300 | Warren Marleau |
+| 765 | 300 | Warren Marleau |
+| 766 | 300 | Kacee Conrad Bock |
 | 767 | 299 | Cassie Newton |
 | 768 | 298 | Frilly Fallzone |
 | 769 | 298 | Lazy Riseclear |
@@ -992,8 +992,8 @@
 | 984 | 237 | Jodi Mitnick |
 | 985 | 236 | Nikki Arlene |
 | 986 | 235 | Loopy Shatterfit |
-| 987 | 235 | Prince Ajesh |
-| 988 | 235 | Shantel Kelley |
+| 987 | 235 | Shantel Kelley |
+| 988 | 235 | Prince Ajesh |
 | 989 | 235 | B-rad B-rad |
 | 990 | 234 | Lonnie Brown |
 | 991 | 234 | Fredrick Burney |

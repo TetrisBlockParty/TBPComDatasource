@@ -197,8 +197,8 @@
 | 189 | 347 | Jone |
 | 190 | 343 | Ashley Raines |
 | 191 | 343 | Tamara Deherrera |
-| 192 | 341 | Noyb Adam |
-| 193 | 341 | Samantha Lynn |
+| 192 | 341 | Samantha Lynn |
+| 193 | 341 | Noyb Adam |
 | 194 | 339 | Rochelle Hazelett |
 | 195 | 338 | Gumbo |
 | 196 | 332 | Rich LeBlanc |
@@ -243,8 +243,8 @@
 | 235 | 274 | Tye Stovall |
 | 236 | 272 | Dee Franklin |
 | 237 | 271 | Ashley Muncey |
-| 238 | 271 | Grego Daniel |
-| 239 | 271 | Cass Mendoza |
+| 238 | 271 | Cass Mendoza |
+| 239 | 271 | Grego Daniel |
 | 240 | 269 | Eon Harris |
 | 241 | 269 | Trisha Balmer |
 | 242 | 268 | Carrie Huskey |
@@ -262,8 +262,8 @@
 | 254 | 255 | Nikki Pags |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
-| 257 | 249 | Annie Marie |
-| 258 | 249 | JerseyJess |
+| 257 | 249 | JerseyJess |
+| 258 | 249 | Annie Marie |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -271,8 +271,8 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
 | 269 | 233 | Ray Lader |
 | 270 | 233 | Josh Borquez |

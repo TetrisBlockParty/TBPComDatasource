@@ -109,8 +109,8 @@
 | 101 | 396 | Alicia Bass |
 | 102 | 393 | Carlton Unfiltered |
 | 103 | 392 | Ericca Eldridge |
-| 104 | 391 | Ramel Rhodes |
-| 105 | 391 | Monica Daley |
+| 104 | 391 | Monica Daley |
+| 105 | 391 | Ramel Rhodes |
 | 106 | 387 | Denise Carlson |
 | 107 | 387 | Ren Mc |
 | 108 | 382 | Marie-Pier Desjardins |
@@ -197,8 +197,8 @@
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | TRCuse |
 | 191 | 202 | Patron Anderson |
-| 192 | 201 | Chance Strickland |
-| 193 | 201 | Melvin Baird |
+| 192 | 201 | Melvin Baird |
+| 193 | 201 | Chance Strickland |
 | 194 | 200 | Lori |
 | 195 | 200 | Laura |
 | 196 | 198 | Ruben Wheeler |
@@ -339,8 +339,8 @@
 | 331 | 128 | Jeremy Steines |
 | 332 | 128 | Kristin MacDonald |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |
