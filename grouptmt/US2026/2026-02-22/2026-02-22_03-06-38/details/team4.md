@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Nugget |
-| 85 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Nugget |
 | 86 | 319 | Livvy |
 | 87 | 317 | Lori Walker |
 | 88 | 314 | Amanda Pauldo-Ivy |
@@ -114,9 +114,9 @@
 | 106 | 274 | Desi Desporte |
 | 107 | 271 | Sarah Brown |
 | 108 | 268 | Meagan Nicole |
-| 109 | 264 | Dana Scott |
-| 110 | 264 | Epic Curvetile |
-| 111 | 264 | Girl |
+| 109 | 264 | Girl |
+| 110 | 264 | Dana Scott |
+| 111 | 264 | Epic Curvetile |
 | 112 | 258 | Brittney Orengo |
 | 113 | 257 | Holly Jolly |
 | 114 | 256 | Mylo Lipscomb |
@@ -139,8 +139,8 @@
 | 131 | 220 | Mary Ann Pabukis |
 | 132 | 218 | Casey Grabner |
 | 133 | 218 | Antony Dwayne Beasley |
-| 134 | 217 | loulou |
-| 135 | 217 | Chaz Duncan |
+| 134 | 217 | Chaz Duncan |
+| 135 | 217 | loulou |
 | 136 | 215 | Jessica Bohlken |
 | 137 | 212 | Calvin Cannon |
 | 138 | 212 | Mike Solo |
@@ -170,8 +170,8 @@
 | 162 | 184 | Jason Allen |
 | 163 | 184 | Ak Jones |
 | 164 | 182 | Matt Summer |
-| 165 | 181 | Klo |
-| 166 | 181 | Carter Jones |
+| 165 | 181 | Carter Jones |
+| 166 | 181 | Klo |
 | 167 | 179 | blockstar |
 | 168 | 176 | Zethra Prenisha Rahming |
 | 169 | 175 | Kathy Brookins |

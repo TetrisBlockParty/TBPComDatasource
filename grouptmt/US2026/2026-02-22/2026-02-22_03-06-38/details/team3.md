@@ -117,8 +117,8 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Elissa S-k |
-| 113 | 428 | Betty Ivy |
+| 112 | 428 | Betty Ivy |
+| 113 | 428 | Elissa S-k |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
 | 116 | 410 | Stephanie Blkpep Davidson |
@@ -131,8 +131,8 @@
 | 123 | 399 | ren |
 | 124 | 399 | Mcathen |
 | 125 | 397 | Annie Déè |
-| 126 | 392 | Tasha Gillespie |
-| 127 | 392 | Katie Knaus |
+| 126 | 392 | Katie Knaus |
+| 127 | 392 | Tasha Gillespie |
 | 128 | 391 | Calista Jo Dickson |
 | 129 | 390 | Hasty Cascadefit |
 | 130 | 378 | Makelini Mausia |
@@ -250,11 +250,11 @@
 | 242 | 200 | glichmod |
 | 243 | 200 | Sharisse Baltimore |
 | 244 | 199 | Staci George Fitzsimmons |
-| 245 | 195 | Nicha Hooker |
-| 246 | 195 | Cheryl Hinch Tenbrook |
+| 245 | 195 | Cheryl Hinch Tenbrook |
+| 246 | 195 | Nicha Hooker |
 | 247 | 194 | Raven Dudley |
-| 248 | 193 | Hyper Matchzone |
-| 249 | 193 | Clever Shiftsnap |
+| 248 | 193 | Clever Shiftsnap |
+| 249 | 193 | Hyper Matchzone |
 | 250 | 192 | Kelly Ann Child |
 | 251 | 191 | Scott Carleton |
 | 252 | 191 | AlsoJess |

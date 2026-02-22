@@ -67,8 +67,8 @@
 | 59 | 434 | MomMom |
 | 60 | 430 | Nancy Green |
 | 61 | 413 | Steve Schneider |
-| 62 | 412 | Jazzy Framezone |
-| 63 | 412 | Anaid Sanchez |
+| 62 | 412 | Anaid Sanchez |
+| 63 | 412 | Jazzy Framezone |
 | 64 | 400 | Stephanie Zahn |
 | 65 | 391 | Robert Benito |
 | 66 | 389 | Carrie Beck Geartz |
@@ -154,15 +154,15 @@
 | 146 | 198 | Happy Snapbuild |
 | 147 | 198 | Shiny Gridmatch |
 | 148 | 195 | Daring Fitclear |
-| 149 | 194 | Ash Galvan |
-| 150 | 194 | Tyler Werts |
+| 149 | 194 | Tyler Werts |
+| 150 | 194 | Ash Galvan |
 | 151 | 193 | Lachelle Dillon |
 | 152 | 192 | Jessica Sheehan |
 | 153 | 192 | Shaykmia |
 | 154 | 192 | Christy Jones |
 | 155 | 191 | Diane Byrd |
-| 156 | 190 | Thorne Shumate |
-| 157 | 190 | Sweetts |
+| 156 | 190 | Sweetts |
+| 157 | 190 | Thorne Shumate |
 | 158 | 189 | Michael |
 | 159 | 188 | Sam Williams |
 | 160 | 187 | Snippy Wipebuilder |
@@ -177,8 +177,8 @@
 | 169 | 179 | femmefatale |
 | 170 | 179 | Danielle Little-Daugherty |
 | 171 | 178 | Chad Atchley |
-| 172 | 177 | Irual Hctrab |
-| 173 | 177 | Jacqueline Unique |
+| 172 | 177 | Jacqueline Unique |
+| 173 | 177 | Irual Hctrab |
 | 174 | 176 | Mel Hogan |
 | 175 | 175 | John Barron |
 | 176 | 175 | Jeanna Dunn |
@@ -203,8 +203,8 @@
 | 195 | 163 | Tyler Whitley |
 | 196 | 162 | Cece Ibarra |
 | 197 | 161 | SavageBooty98 |
-| 198 | 160 | Tedashi |
-| 199 | 160 | David Miller |
+| 198 | 160 | David Miller |
+| 199 | 160 | Tedashi |
 | 200 | 159 | Bindi |
 | 201 | 158 | Sarah Marie |
 | 202 | 154 | Melissa Lemmon |
@@ -267,8 +267,8 @@
 | 259 | 118 | Tyler Hertzog |
 | 260 | 118 | Garcia Bailey |
 | 261 | 116 | Fresno Beotoni |
-| 262 | 115 | Chuck Gannon |
-| 263 | 115 | Mrs.Patrica |
+| 262 | 115 | Mrs.Patrica |
+| 263 | 115 | Chuck Gannon |
 | 264 | 114 | Constance Risner |
 | 265 | 113 | Jamie Jury |
 | 266 | 112 | Nerdy Curvebuilder |

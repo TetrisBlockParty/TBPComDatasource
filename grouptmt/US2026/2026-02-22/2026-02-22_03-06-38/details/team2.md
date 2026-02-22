@@ -631,8 +631,8 @@
 | 623 | 293 | Carl Bradshaw |
 | 624 | 293 | Ann Marie Davis |
 | 625 | 293 | Kiorah Blaze |
-| 626 | 292 | Alice Ball |
-| 627 | 292 | Deana |
+| 626 | 292 | Deana |
+| 627 | 292 | Alice Ball |
 | 628 | 292 | Epic Fitzone |
 | 629 | 290 | Adrian Benitez |
 | 630 | 290 | Giddy Gridclear |
