@@ -123,8 +123,8 @@
 | 115 | 235 | Lucas J Sutton |
 | 116 | 232 | Peachy Fall |
 | 117 | 231 | Chastity Mitchell |
-| 118 | 230 | Daria Rycewicz |
-| 119 | 230 | Autum Leigh |
+| 118 | 230 | Autum Leigh |
+| 119 | 230 | Daria Rycewicz |
 | 120 | 225 | Damn Libra |
 | 121 | 222 | Joeliecea Cobb |
 | 122 | 221 | Alyssa Papen |
@@ -148,8 +148,8 @@
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jeff Brian Gates |
-| 144 | 196 | Jenna McGeorge |
+| 143 | 196 | Jenna McGeorge |
+| 144 | 196 | Jeff Brian Gates |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
@@ -182,8 +182,8 @@
 | 174 | 160 | ZeeZee |
 | 175 | 160 | James Hurley Jr. |
 | 176 | 159 | Marcus Todd |
-| 177 | 158 | Chair |
-| 178 | 158 | Avy Absol |
+| 177 | 158 | Avy Absol |
+| 178 | 158 | Chair |
 | 179 | 156 | Cozy Balancer |
 | 180 | 155 | AyeKay |
 | 181 | 154 | scott |
@@ -197,13 +197,13 @@
 | 189 | 148 | Janita Parrish |
 | 190 | 147 | B Renee Desjardin |
 | 191 | 147 | Jay28 |
-| 192 | 145 | Zany Shatterer |
-| 193 | 145 | Mimi |
-| 194 | 144 | Jason Allen |
-| 195 | 144 | Tanner Lund |
+| 192 | 145 | Mimi |
+| 193 | 145 | Zany Shatterer |
+| 194 | 144 | Tanner Lund |
+| 195 | 144 | Jason Allen |
 | 196 | 143 | Lauren Lamb |
 | 197 | 142 | Zippy Gridlock |
-| 198 | 141 | Montiette Mcglown |
+| 198 | 141 | ĥuf |
 | 199 | 141 | Kathy Allen |
 | 200 | 141 | Victoria Faniel |
 | 201 | 141 | Montiette Mcglown |

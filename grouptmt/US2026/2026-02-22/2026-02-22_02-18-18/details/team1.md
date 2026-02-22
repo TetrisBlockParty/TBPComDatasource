@@ -147,8 +147,8 @@
 | 139 | 206 | Kimberly Garcia |
 | 140 | 203 | Paula Martin |
 | 141 | 200 | Lacy Wolfe |
-| 142 | 198 | Happy Snapbuild |
-| 143 | 198 | Shiny Gridmatch |
+| 142 | 198 | Shiny Gridmatch |
+| 143 | 198 | Happy Snapbuild |
 | 144 | 195 | Daring Fitclear |
 | 145 | 194 | Tyler Werts |
 | 146 | 194 | Ash Galvan |
@@ -160,8 +160,8 @@
 | 152 | 190 | Thorne Shumate |
 | 153 | 190 | Sweetts |
 | 154 | 188 | Sam Williams |
-| 155 | 187 | Snippy Wipebuilder |
-| 156 | 187 | Jennifer Olewnik Soborowski |
+| 155 | 187 | Jennifer Olewnik Soborowski |
+| 156 | 187 | Snippy Wipebuilder |
 | 157 | 186 | Margo Wagner |
 | 158 | 186 | Michael |
 | 159 | 185 | Basment Living |

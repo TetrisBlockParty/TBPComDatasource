@@ -117,8 +117,8 @@
 | 109 | 428 | Elissa S-k |
 | 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Simpson |
-| 113 | 410 | Stephanie Blkpep Davidson |
+| 112 | 410 | Stephanie Blkpep Davidson |
+| 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
 | 115 | 403 | Christine Filson |
 | 116 | 403 | FuzzyNavel |
@@ -142,15 +142,15 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 350 | Darlene McMillan |
 | 140 | 350 | Louise Stacy Sisson |
 | 141 | 348 | CeceGeGe |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tom Nault |
-| 180 | 261 | Tiffany Ford |
+| 179 | 261 | Tiffany Ford |
+| 180 | 261 | Tom Nault |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -201,11 +201,11 @@
 | 193 | 245 | Latoya Mayne |
 | 194 | 243 | Rochelle Hazelett |
 | 195 | 241 | Eon Harris |
-| 196 | 240 | Jimmie Clemons |
-| 197 | 240 | Brandon Givens |
+| 196 | 240 | Brandon Givens |
+| 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
-| 199 | 236 | Jess Bissett |
-| 200 | 236 | Rania Zaqout |
+| 199 | 236 | Rania Zaqout |
+| 200 | 236 | Jess Bissett |
 | 201 | 235 | LaNette Morgan |
 | 202 | 234 | Nikki Pags |
 | 203 | 233 | Ray Lader |
@@ -223,8 +223,8 @@
 | 215 | 215 | IamJust Neyamijah Washington Sr. |
 | 216 | 214 | Amy Fuller Heaton |
 | 217 | 212 | Twisty Brick LT |
-| 218 | 211 | Giddy Twistbuilder |
-| 219 | 211 | Khaleada McGill Banks |
+| 218 | 211 | Khaleada McGill Banks |
+| 219 | 211 | Giddy Twistbuilder |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
 | 222 | 207 | Chris Bell |
@@ -337,7 +337,7 @@
 | 329 | 138 | Boldy Corner |
 | 330 | 137 | April Matthew Kibble |
 | 331 | 137 | kacihall |
-| 332 | 136 | Christian Werndl |
+| 332 | 136 | Sabrina Mansfield |
 | 333 | 136 | Blair Erin Waite |
 | 334 | 136 | Christian Werndl |
 | 335 | 134 | Tammy |

@@ -421,8 +421,8 @@
 | 413 | 400 | Tammy Allen |
 | 414 | 400 | Victoria Regina Girolami |
 | 415 | 399 | Goofy Dasher |
-| 416 | 399 | Juanita Lyons |
-| 417 | 399 | Steven Marshaun |
+| 416 | 399 | Steven Marshaun |
+| 417 | 399 | Juanita Lyons |
 | 418 | 397 | coleksquad |
 | 419 | 396 | Stefanie Zonzini-Gagliardi |
 | 420 | 394 | Taryece Gause |
