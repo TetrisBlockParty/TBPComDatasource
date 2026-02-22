@@ -457,8 +457,8 @@
 | 449 | 362 | Tracy Wise |
 | 450 | 362 | KayLynn Ogden McClelland |
 | 451 | 359 | Offonar Facey |
-| 452 | 358 | Alyssaaelena |
-| 453 | 358 | Michelle Sager |
+| 452 | 358 | Michelle Sager |
+| 453 | 358 | Alyssaaelena |
 | 454 | 357 | Shannon Byrd |
 | 455 | 355 | Jessica Lamb |
 | 456 | 354 | Connie Lepore-Mann |
@@ -727,9 +727,9 @@
 | 719 | 234 | Jaybee Nguyen |
 | 720 | 234 | Gina Justbeingme Chillis |
 | 721 | 234 | Matthew Turner |
-| 722 | 233 | Epic Spinfit |
-| 723 | 233 | Jessica Sutter |
-| 724 | 233 | Myleaha Holley |
+| 722 | 233 | Myleaha Holley |
+| 723 | 233 | Epic Spinfit |
+| 724 | 233 | Jessica Sutter |
 | 725 | 233 | Jumpy Gridclear |
 | 726 | 232 | Jodi Mitnick |
 | 727 | 232 | Zappy Dropmatch |

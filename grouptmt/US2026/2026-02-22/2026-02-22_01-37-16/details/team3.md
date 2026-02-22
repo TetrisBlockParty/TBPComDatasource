@@ -112,8 +112,8 @@
 | 104 | 438 | Bea Miles |
 | 105 | 432 | Jenny Hrndz |
 | 106 | 430 | Patricia White |
-| 107 | 428 | Betty Ivy |
-| 108 | 428 | Elissa S-k |
+| 107 | 428 | Elissa S-k |
+| 108 | 428 | Betty Ivy |
 | 109 | 416 | Mary Pellegrino |
 | 110 | 410 | Stephanie Simpson |
 | 111 | 403 | FuzzyNavel |
@@ -122,8 +122,8 @@
 | 114 | 399 | Mcathen |
 | 115 | 399 | ren |
 | 116 | 396 | Shannon Matthew Byers |
-| 117 | 394 | joclisa |
-| 118 | 394 | Annie Déè |
+| 117 | 394 | Annie Déè |
+| 118 | 394 | joclisa |
 | 119 | 392 | Michelle |
 | 120 | 391 | Calista Jo Dickson |
 | 121 | 390 | Patti Skiles |
@@ -140,8 +140,8 @@
 | 132 | 367 | mjl574 |
 | 133 | 366 | Adrian Marcel Pate |
 | 134 | 365 | Logan Naccarato |
-| 135 | 355 | Tessina Dewey-Mancino |
-| 136 | 355 | Sherry Ogden |
+| 135 | 355 | Sherry Ogden |
+| 136 | 355 | Tessina Dewey-Mancino |
 | 137 | 348 | CeceGeGe |
 | 138 | 347 | Nicole Flippo |
 | 139 | 347 | Darlene McMillan |
@@ -181,20 +181,20 @@
 | 173 | 265 | DidIdothat |
 | 174 | 263 | Angeline Joseph |
 | 175 | 262 | Joe-Maggie Mathews |
-| 176 | 261 | Tom Nault |
-| 177 | 261 | Tiffany Ford |
+| 176 | 261 | Tiffany Ford |
+| 177 | 261 | Tom Nault |
 | 178 | 258 | Tamara Deherrera |
 | 179 | 257 | Ashley Jones |
-| 180 | 256 | KayB |
-| 181 | 256 | Brenda Lee Vander Molen |
+| 180 | 256 | Brenda Lee Vander Molen |
+| 181 | 256 | KayB |
 | 182 | 254 | Duane Bright |
 | 183 | 249 | Terry Jo Jones |
 | 184 | 247 | Rebecca Funderburk Kirby |
 | 185 | 245 | Latoya Mayne |
 | 186 | 245 | Annie Marie |
 | 187 | 243 | Rochelle Hazelett |
-| 188 | 240 | Brandon Givens |
-| 189 | 240 | Jimmie Clemons |
+| 188 | 240 | Jimmie Clemons |
+| 189 | 240 | Brandon Givens |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |

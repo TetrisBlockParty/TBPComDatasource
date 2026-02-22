@@ -84,8 +84,8 @@
 | 76 | 338 | Stephanie Zahn |
 | 77 | 333 | Brandi Huntington |
 | 78 | 329 | Luciano Moreira |
-| 79 | 328 | Gracie |
-| 80 | 328 | Kellie |
+| 79 | 328 | Kellie |
+| 80 | 328 | Gracie |
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
