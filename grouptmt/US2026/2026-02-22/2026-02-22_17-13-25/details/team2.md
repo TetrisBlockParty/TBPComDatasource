@@ -197,8 +197,8 @@
 | 189 | 1062 | Crystal Slaughter |
 | 190 | 1050 | Amy Sayers |
 | 191 | 1045 | Lourisha |
-| 192 | 1043 | Suki Kaur |
-| 193 | 1043 | Brave Dropmatch |
+| 192 | 1043 | Brave Dropmatch |
+| 193 | 1043 | Suki Kaur |
 | 194 | 1036 | Allison Lockyer |
 | 195 | 1024 | Bri Lynn |
 | 196 | 1023 | Brainy Smurf |
@@ -294,8 +294,8 @@
 | 286 | 787 | Laura McCarthey |
 | 287 | 783 | Lisa Ongtowasruk |
 | 288 | 777 | Angie Bolton Workman |
-| 289 | 777 | Tesha Oldaker |
-| 290 | 777 | Jessicah Myers |
+| 289 | 777 | Jessicah Myers |
+| 290 | 777 | Tesha Oldaker |
 | 291 | 777 | Samantha Jo |
 | 292 | 773 | Joshua Sommerville |
 | 293 | 772 | Kristin Gower |
@@ -363,8 +363,8 @@
 | 355 | 661 | Christine Bollig |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
-| 358 | 650 | Amber Brion |
-| 359 | 650 | Shiny Rollzone |
+| 358 | 650 | Shiny Rollzone |
+| 359 | 650 | Amber Brion |
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 642 | Cassie Maynard |
@@ -382,13 +382,13 @@
 | 374 | 627 | Allan Wayne Lamia |
 | 375 | 627 | Victoria Moore-Smith |
 | 376 | 620 | Demeka Dangerous-kisses Johnson |
-| 377 | 620 | Brandon Armstrong |
-| 378 | 620 | Traci Johnson |
+| 377 | 620 | Traci Johnson |
+| 378 | 620 | Brandon Armstrong |
 | 379 | 620 | Carl Bradshaw |
 | 380 | 617 | Ellie Jonas |
 | 381 | 616 | Cassie Mercer |
-| 382 | 613 | Caitlyn Blackwell |
-| 383 | 613 | Tonya Lee |
+| 382 | 613 | Tonya Lee |
+| 383 | 613 | Caitlyn Blackwell |
 | 384 | 612 | Nicole Cannon |
 | 385 | 611 | Em Chen |
 | 386 | 611 | Julio A Laracuente |
@@ -434,8 +434,8 @@
 | 426 | 559 | Blacc Blac |
 | 427 | 558 | Libby Hicks |
 | 428 | 556 | Slip |
-| 429 | 554 | Santana Miyagi |
-| 430 | 554 | Rachael Senard |
+| 429 | 554 | Rachael Senard |
+| 430 | 554 | Santana Miyagi |
 | 431 | 554 | Tra Barnum |
 | 432 | 551 | Julay |
 | 433 | 550 | AISlop |
@@ -463,8 +463,8 @@
 | 455 | 524 | Lonne Emade |
 | 456 | 523 | Matt Johnson |
 | 457 | 522 | Leah |
-| 458 | 520 | Maddy Petersen |
-| 459 | 520 | Joshua Self |
+| 458 | 520 | Joshua Self |
+| 459 | 520 | Maddy Petersen |
 | 460 | 519 | Rob Brown |
 | 461 | 518 | Dennis McLaurin |
 | 462 | 518 | Davetta Sanford |
@@ -583,8 +583,8 @@
 | 575 | 438 | Mike Aprilliano |
 | 576 | 437 | Cynthia Louann Rose |
 | 577 | 436 | Kayla |
-| 578 | 435 | James Louie |
-| 579 | 435 | Regina Young |
+| 578 | 435 | Regina Young |
+| 579 | 435 | James Louie |
 | 580 | 434 | Brenda Messer |
 | 581 | 434 | bbv |
 | 582 | 432 | Abimbola Bimbo |
@@ -1542,8 +1542,8 @@
 | 1534 | 175 | Tajiri Valentine |
 | 1535 | 174 | Kierra Kierra |
 | 1536 | 174 | Wha |
-| 1537 | 174 | Katie 'Danger' Henriksen |
-| 1538 | 174 | Jai |
+| 1537 | 174 | Jai |
+| 1538 | 174 | Katie 'Danger' Henriksen |
 | 1539 | 174 | Chilly Rollblock |
 | 1540 | 174 | Eric Hall |
 | 1541 | 174 | Leigh Ann |

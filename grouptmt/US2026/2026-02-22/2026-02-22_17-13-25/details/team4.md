@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Shelly Chandler |
-| 40 | 843 | Lucille Truesdale |
+| 39 | 843 | Lucille Truesdale |
+| 40 | 843 | Shelly Chandler |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 832 | Jae Job |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Livvy |
-| 123 | 353 | Tyler Terrific |
+| 122 | 353 | Tyler Terrific |
+| 123 | 353 | Livvy |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | Lucas J Sutton |
@@ -169,8 +169,8 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Trista Leah |
-| 165 | 268 | Cursed Hag |
+| 164 | 268 | Cursed Hag |
+| 165 | 268 | Trista Leah |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Damn Libra |
 | 168 | 267 | Casey Grabner |
@@ -417,9 +417,9 @@
 | 409 | 117 | Shiny Pivoty |
 | 410 | 117 | David V. Bowers |
 | 411 | 117 | Grann8 |
-| 412 | 116 | Zesty Linkgrid |
-| 413 | 116 | Smiley Shifter |
-| 414 | 116 | Kate |
+| 412 | 116 | Smiley Shifter |
+| 413 | 116 | Kate |
+| 414 | 116 | Zesty Linkgrid |
 | 415 | 116 | Funky Risepiece |
 | 416 | 115 | Alexandra Karavias |
 | 417 | 115 | Susan Williams |
@@ -461,7 +461,7 @@
 | 453 | 106 | Happy Combo |
 | 454 | 106 | Jacob Richard |
 | 455 | 105 | meowmew |
-| 456 | 105 | MoP11 |
+| 456 | 105 | Lakesha Johnson |
 | 457 | 105 | Michelle Parker |
 | 458 | 105 | MoP11 |
 | 459 | 104 | Melissa VanBourgondien |
