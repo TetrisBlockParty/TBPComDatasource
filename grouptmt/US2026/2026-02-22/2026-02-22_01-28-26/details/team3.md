@@ -157,8 +157,8 @@
 | 149 | 316 | Rich LeBlanc |
 | 150 | 311 | Raya |
 | 151 | 308 | Jennifer Lynn Fahrenholtz-Summers |
-| 152 | 307 | Blocked |
-| 153 | 307 | rnr junky |
+| 152 | 307 | rnr junky |
+| 153 | 307 | Blocked |
 | 154 | 300 | Sherika C. McDaniels |
 | 155 | 293 | Poppy Splitter |
 | 156 | 290 | Santeria Trece Candles |
@@ -193,8 +193,8 @@
 | 185 | 245 | Latoya Mayne |
 | 186 | 243 | Rebecca Funderburk Kirby |
 | 187 | 243 | Rochelle Hazelett |
-| 188 | 240 | Jimmie Clemons |
-| 189 | 240 | Brandon Givens |
+| 188 | 240 | Brandon Givens |
+| 189 | 240 | Jimmie Clemons |
 | 190 | 239 | Fallorina Susana |
 | 191 | 236 | Jess Bissett |
 | 192 | 234 | Nikki Pags |

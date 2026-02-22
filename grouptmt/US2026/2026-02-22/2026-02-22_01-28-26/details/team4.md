@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -140,8 +140,8 @@
 | 132 | 204 | Dana Scott |
 | 133 | 203 | Katherine Crane |
 | 134 | 201 | Melvin Baird |
-| 135 | 196 | Jeff Brian Gates |
-| 136 | 196 | Jenna McGeorge |
+| 135 | 196 | Jenna McGeorge |
+| 136 | 196 | Jeff Brian Gates |
 | 137 | 194 | Zany Twisterfit |
 | 138 | 192 | Tyler Terrific |
 | 139 | 192 | Shauna Havard |

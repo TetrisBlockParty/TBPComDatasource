@@ -206,8 +206,8 @@
 | 198 | 709 | Jerilyn Andrina |
 | 199 | 705 | Lola Contreras |
 | 200 | 705 | Roger Grabbit |
-| 201 | 700 | Beverly Owens |
-| 202 | 700 | Rosemadder |
+| 201 | 700 | Rosemadder |
+| 202 | 700 | Beverly Owens |
 | 203 | 700 | Vincent Petrella |
 | 204 | 699 | Vo'Landa Reels |
 | 205 | 692 | Dannette Goldberg-Richards |
@@ -264,8 +264,8 @@
 | 256 | 583 | Jessicah Myers |
 | 257 | 583 | Steve Grotto |
 | 258 | 582 | Gary Stash |
-| 259 | 579 | Juliana Marques Do Nascimento Gordy |
-| 260 | 579 | Roy Salyer |
+| 259 | 579 | Roy Salyer |
+| 260 | 579 | Juliana Marques Do Nascimento Gordy |
 | 261 | 578 | Sally Dennis |
 | 262 | 576 | Ginger |
 | 263 | 575 | Shavonna Haynes |
@@ -288,11 +288,11 @@
 | 280 | 535 | Jessie McDougald |
 | 281 | 535 | Paul Huber |
 | 282 | 531 | Chris Wanner |
-| 283 | 528 | Brownie Sheena |
-| 284 | 528 | Taylor Phillips |
-| 285 | 527 | Ryan Gunther |
-| 286 | 527 | Stacy Stickle |
-| 287 | 527 | Heather Causey |
+| 283 | 528 | Taylor Phillips |
+| 284 | 528 | Brownie Sheena |
+| 285 | 527 | Stacy Stickle |
+| 286 | 527 | Heather Causey |
+| 287 | 527 | Ryan Gunther |
 | 288 | 525 | Desiree Anderson |
 | 289 | 520 | Cheech Dta |
 | 290 | 519 | Rob Brown |
@@ -300,8 +300,8 @@
 | 292 | 514 | Laquetta Royston |
 | 293 | 514 | Dizzy Zone |
 | 294 | 511 | Laura Mclean |
-| 295 | 509 | Jordan Kaiser |
-| 296 | 509 | Kelli Wells |
+| 295 | 509 | Kelli Wells |
+| 296 | 509 | Jordan Kaiser |
 | 297 | 506 | Cherica Taylor |
 | 298 | 504 | Magic steve |
 | 299 | 503 | Matt Johnson |
@@ -334,7 +334,7 @@
 | 326 | 468 | Drwatson187 |
 | 327 | 467 | Julay |
 | 328 | 467 | Scott Treadway |
-| 329 | 467 | Julay |
+| 329 | 467 | Dedra Steward |
 | 330 | 465 | Blacc Blac |
 | 331 | 463 | Sue Leard |
 | 332 | 462 | Jodi Blake |
@@ -393,7 +393,7 @@
 | 385 | 411 | Kristen O'Neal |
 | 386 | 411 | Ricky Fortune |
 | 387 | 406 | Erin StFrancis |
-| 388 | 406 | Véronique Lévesque Sabourin |
+| 388 | 406 | Julie Kresal |
 | 389 | 406 | Tj Ball |
 | 390 | 406 | Véronique Lévesque Sabourin |
 | 391 | 403 | Tonya Lee |
@@ -413,11 +413,11 @@
 | 405 | 393 | Ryan Meilleur |
 | 406 | 393 | Hillary Crawford |
 | 407 | 392 | Christine Bollig |
-| 408 | 391 | Chilly Bridgepiece |
-| 409 | 391 | Qiana Sanders |
+| 408 | 391 | Qiana Sanders |
+| 409 | 391 | Chilly Bridgepiece |
 | 410 | 389 | Alexis Richardson |
-| 411 | 387 | Ann Matzkanin |
-| 412 | 387 | Johnny Yeates |
+| 411 | 387 | Johnny Yeates |
+| 412 | 387 | Ann Matzkanin |
 | 413 | 386 | Irene Jones |
 | 414 | 384 | Mike Aprilliano |
 | 415 | 383 | Arkei Luster |
@@ -446,24 +446,24 @@
 | 438 | 366 | Smashanator |
 | 439 | 366 | Courtney Burcham |
 | 440 | 365 | Christina Lewis-Vickers |
-| 441 | 365 | Audrey Jones |
-| 442 | 365 | Susan Arnburg |
-| 443 | 365 | Kayla |
+| 441 | 365 | Kayla |
+| 442 | 365 | Audrey Jones |
+| 443 | 365 | Susan Arnburg |
 | 444 | 364 | Lively Edgepiece |
 | 445 | 364 | Shinette Dobson |
 | 446 | 363 | Happy Caster |
-| 447 | 362 | Adam Simmons |
+| 447 | 362 | KayLynn Ogden McClelland |
 | 448 | 362 | Tracy Wise |
-| 449 | 362 | KayLynn Ogden McClelland |
+| 449 | 362 | Adam Simmons |
 | 450 | 359 | Offonar Facey |
 | 451 | 358 | Alyssaaelena |
 | 452 | 358 | Michelle Sager |
 | 453 | 357 | Shannon Byrd |
 | 454 | 355 | Jessica Lamb |
 | 455 | 354 | Connie Lepore-Mann |
-| 456 | 354 | F-X |
+| 456 | 354 | Lawanda Forbes |
 | 457 | 354 | Rickey Johnson |
-| 458 | 354 | Lawanda Forbes |
+| 458 | 354 | F-X |
 | 459 | 353 | Cheery Matchzone |
 | 460 | 352 | Andrea Maher |
 | 461 | 352 | Jean FU Jagielski |
@@ -472,11 +472,11 @@
 | 464 | 350 | Traci Johnson |
 | 465 | 350 | Fi Ne |
 | 466 | 348 | Richard Horton |
-| 467 | 347 | Zesty Pivot |
-| 468 | 347 | Cheyenne Donovan |
+| 467 | 347 | Cheyenne Donovan |
+| 468 | 347 | Zesty Pivot |
 | 469 | 346 | Morgan Easter |
-| 470 | 346 | Nicole Cannon |
-| 471 | 346 | Lewis Sturgeon |
+| 470 | 346 | Lewis Sturgeon |
+| 471 | 346 | Nicole Cannon |
 | 472 | 345 | Frisky Clearpiece |
 | 473 | 345 | Rhianna DiLorenzo |
 | 474 | 344 | Glenn Cobbins |
@@ -532,28 +532,28 @@
 | 524 | 311 | Mary Marie |
 | 525 | 310 | Cheeky Brickmatch |
 | 526 | 310 | Lonne Emade |
-| 527 | 310 | Sharon Mills |
-| 528 | 310 | Audra Williams |
-| 529 | 309 | Diallo Sparkman |
-| 530 | 309 | Brenna Ann |
-| 531 | 308 | Claire |
+| 527 | 310 | Audra Williams |
+| 528 | 310 | Sharon Mills |
+| 529 | 309 | Brenna Ann |
+| 530 | 309 | Diallo Sparkman |
+| 531 | 308 | Ann Knutson Anderson |
 | 532 | 308 | Christina Jarvis-Swarbrick |
-| 533 | 308 | Ann Knutson Anderson |
+| 533 | 308 | Claire |
 | 534 | 307 | Johanna Massaro |
 | 535 | 306 | Gina Caulder |
 | 536 | 305 | Libby Hicks |
-| 537 | 305 | Arlene Joy Belicina |
-| 538 | 305 | Samantha Scibelli |
+| 537 | 305 | Samantha Scibelli |
+| 538 | 305 | Arlene Joy Belicina |
 | 539 | 305 | Zany Clusterbuilder |
 | 540 | 304 | Melissa McCall |
 | 541 | 304 | NFLPITMOM |
 | 542 | 304 | Michelle Shrum |
-| 543 | 303 | Candy Pitts |
-| 544 | 303 | Angie Marie |
-| 545 | 303 | Prado |
+| 543 | 303 | Angie Marie |
+| 544 | 303 | Candy Pitts |
+| 545 | 303 | Amanda Schaffer |
 | 546 | 303 | Crystal Greene |
-| 547 | 303 | Byung Bae Park |
-| 548 | 303 | Amanda Schaffer |
+| 547 | 303 | Prado |
+| 548 | 303 | Byung Bae Park |
 | 549 | 302 | stacey |
 | 550 | 301 | Ben Barkley |
 | 551 | 300 | Sassy Linkbuilder |

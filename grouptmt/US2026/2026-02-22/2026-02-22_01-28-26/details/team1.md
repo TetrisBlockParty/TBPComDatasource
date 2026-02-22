@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Jennifer ManWarren |
-| 63 | 388 | Yvonne Marie |
+| 62 | 388 | Yvonne Marie |
+| 63 | 388 | Jennifer ManWarren |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -139,11 +139,11 @@
 | 131 | 203 | GATOR |
 | 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Happy Snapbuild |
-| 135 | 198 | Shiny Gridmatch |
+| 134 | 198 | Shiny Gridmatch |
+| 135 | 198 | Happy Snapbuild |
 | 136 | 195 | Daring Fitclear |
-| 137 | 194 | Ash Galvan |
-| 138 | 194 | Tyler Werts |
+| 137 | 194 | Tyler Werts |
+| 138 | 194 | Ash Galvan |
 | 139 | 193 | Lachelle Dillon |
 | 140 | 192 | Shaykmia |
 | 141 | 192 | Jessica Sheehan |
@@ -173,12 +173,12 @@
 | 165 | 171 | David DeSantis |
 | 166 | 171 | Greg Premoe |
 | 167 | 171 | femmefatale |
-| 168 | 170 | Cartier |
-| 169 | 170 | Veronica Eve |
+| 168 | 170 | Veronica Eve |
+| 169 | 170 | Cartier |
 | 170 | 169 | Abbey Crespo |
-| 171 | 168 | Lori Bales |
+| 171 | 168 | Jessie Lynn |
 | 172 | 168 | Standia Civil |
-| 173 | 168 | Jessie Lynn |
+| 173 | 168 | Lori Bales |
 | 174 | 168 | Sleepysloath5745 |
 | 175 | 167 | Erin Hodges Plumb |
 | 176 | 167 | Nery Martinez |
@@ -194,8 +194,8 @@
 | 186 | 159 | Bindi |
 | 187 | 158 | Sarah Marie |
 | 188 | 157 | Angela Fairbank |
-| 189 | 154 | Melissa Lemmon |
-| 190 | 154 | Christy Jones |
+| 189 | 154 | Christy Jones |
+| 190 | 154 | Melissa Lemmon |
 | 191 | 153 | Barry Mac'Ockner |
 | 192 | 152 | Jacqueline Unique |
 | 193 | 152 | Speedy Snapfall |
@@ -210,8 +210,8 @@
 | 202 | 144 | Toph |
 | 203 | 144 | Miguel Teixeira |
 | 204 | 142 | Colleen Wise |
-| 205 | 141 | Dino |
-| 206 | 141 | Blaire Bruckoff |
+| 205 | 141 | Blaire Bruckoff |
+| 206 | 141 | Dino |
 | 207 | 139 | Flashy Rotator |
 | 208 | 137 | Cody Gates |
 | 209 | 137 | Witty Builderfit |
@@ -235,8 +235,8 @@
 | 227 | 128 | Brenda Alexander |
 | 228 | 128 | lil mickey |
 | 229 | 126 | Tami Luce Martin |
-| 230 | 124 | Alenoush Karimian |
-| 231 | 124 | Mark Smith |
+| 230 | 124 | Mark Smith |
+| 231 | 124 | Alenoush Karimian |
 | 232 | 121 | Carl Claunch |
 | 233 | 120 | Silly Align |
 | 234 | 120 | Kimmie Kimms |
