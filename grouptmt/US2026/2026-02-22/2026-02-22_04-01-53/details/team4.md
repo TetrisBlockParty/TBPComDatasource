@@ -48,8 +48,8 @@
 | 40 | 646 | Jacqueline Helm |
 | 41 | 634 | Anthony Bryan Riva |
 | 42 | 632 | Kimyatta Cavin |
-| 43 | 630 | Dustee Craddock-Harrison |
-| 44 | 630 | Chilly Line |
+| 43 | 630 | Chilly Line |
+| 44 | 630 | Dustee Craddock-Harrison |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
 | 47 | 614 | Robin Getchel |
@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Alicia Bass |
-| 75 | 396 | Amy Suckarieh |
+| 74 | 396 | Amy Suckarieh |
+| 75 | 396 | Alicia Bass |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 327 | Lori Walker |
 | 89 | 319 | Livvy |
@@ -111,15 +111,15 @@
 | 103 | 286 | Daria Rycewicz |
 | 104 | 284 | shark tato |
 | 105 | 279 | Ericca Eldridge |
-| 106 | 278 | Lucas J Sutton |
-| 107 | 278 | Carrie Brian |
+| 106 | 278 | Carrie Brian |
+| 107 | 278 | Lucas J Sutton |
 | 108 | 277 | KJ Pool |
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Epic Curvetile |
-| 113 | 264 | Girl |
-| 114 | 264 | Dana Scott |
+| 112 | 264 | Girl |
+| 113 | 264 | Dana Scott |
+| 114 | 264 | Epic Curvetile |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
 | 117 | 256 | Mylo Lipscomb |
@@ -145,8 +145,8 @@
 | 137 | 218 | Casey Grabner |
 | 138 | 218 | Antony Dwayne Beasley |
 | 139 | 217 | Chaz Duncan |
-| 140 | 215 | Ren Mc |
-| 141 | 215 | Jessica Bohlken |
+| 140 | 215 | Jessica Bohlken |
+| 141 | 215 | Ren Mc |
 | 142 | 213 | Jason Allen |
 | 143 | 212 | Calvin Cannon |
 | 144 | 212 | Mike Solo |
@@ -157,8 +157,8 @@
 | 149 | 205 | Sarah Neathery |
 | 150 | 205 | Kathy Brookins |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Katherine Crane |
-| 153 | 203 | Chris Bernstein |
+| 152 | 203 | Chris Bernstein |
+| 153 | 203 | Katherine Crane |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |
@@ -195,8 +195,8 @@
 | 187 | 158 | Avy Absol |
 | 188 | 158 | Chair |
 | 189 | 155 | AyeKay |
-| 190 | 154 | scott |
-| 191 | 154 | Laura Hosford |
+| 190 | 154 | Laura Hosford |
+| 191 | 154 | scott |
 | 192 | 153 | Empress Oasis |
 | 193 | 152 | Austin Owens |
 | 194 | 152 | John Brunetti |

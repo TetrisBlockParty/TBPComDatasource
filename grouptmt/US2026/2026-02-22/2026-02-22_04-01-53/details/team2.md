@@ -234,8 +234,8 @@
 | 226 | 705 | Lola Contreras |
 | 227 | 705 | Roger Grabbit |
 | 228 | 703 | Gold Rose |
-| 229 | 700 | Rosemadder |
-| 230 | 700 | Beverly Owens |
+| 229 | 700 | Beverly Owens |
+| 230 | 700 | Rosemadder |
 | 231 | 700 | Vincent Petrella |
 | 232 | 698 | Mighty Shatterfit |
 | 233 | 697 | Dreamy Blast |
@@ -714,8 +714,8 @@
 | 706 | 266 | Man of Steel |
 | 707 | 265 | Sandra Link-Gable |
 | 708 | 265 | LeVeL27 |
-| 709 | 264 | Ocean-Brianna McGregor |
-| 710 | 264 | Rachel Switala |
+| 709 | 264 | Rachel Switala |
+| 710 | 264 | Ocean-Brianna McGregor |
 | 711 | 263 | Elizabeth Leinen |
 | 712 | 263 | Lazy Riseclear |
 | 713 | 263 | Alyssia Tancredi |
@@ -735,12 +735,12 @@
 | 727 | 259 | Sarah Sims |
 | 728 | 259 | sup |
 | 729 | 258 | Warren Marleau |
-| 730 | 258 | Shylee Tilman |
-| 731 | 258 | Mordoks Pyrography |
+| 730 | 258 | Mordoks Pyrography |
+| 731 | 258 | Shylee Tilman |
 | 732 | 258 | Tee Jaleesa |
 | 733 | 257 | Jackie Jackie Lee |
-| 734 | 256 | Brenna Yearian |
-| 735 | 256 | Quirky Twistline |
+| 734 | 256 | Quirky Twistline |
+| 735 | 256 | Brenna Yearian |
 | 736 | 256 | Amy Humphreys |
 | 737 | 256 | Andrea Devery Beck |
 | 738 | 255 | DefaultUser |

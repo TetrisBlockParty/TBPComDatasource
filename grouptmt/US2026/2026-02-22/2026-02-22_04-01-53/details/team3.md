@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -134,9 +134,9 @@
 | 126 | 403 | Scott Lindsay |
 | 127 | 402 | Shannon Matthew Byers |
 | 128 | 400 | Luciana Braganca Vieira |
-| 129 | 399 | ren |
-| 130 | 399 | Patti Skiles |
-| 131 | 399 | Mcathen |
+| 129 | 399 | Mcathen |
+| 130 | 399 | ren |
+| 131 | 399 | Patti Skiles |
 | 132 | 397 | Annie Déè |
 | 133 | 392 | Katie Knaus |
 | 134 | 392 | Tasha Gillespie |
@@ -191,8 +191,8 @@
 | 183 | 286 | Cynthia Herrmann Egland |
 | 184 | 284 | Edwin Calvillo Jr. |
 | 185 | 283 | Joye Sims Binion |
-| 186 | 278 | Araceli Parra |
-| 187 | 278 | Rufus Lincoln |
+| 186 | 278 | Rufus Lincoln |
+| 187 | 278 | Araceli Parra |
 | 188 | 277 | Keis |
 | 189 | 276 | _melisa223_ |
 | 190 | 276 | Crimson |
@@ -254,8 +254,8 @@
 | 246 | 207 | Jessica |
 | 247 | 204 | Aerian Preston |
 | 248 | 204 | Danielle Allison |
-| 249 | 203 | Angie Harper |
-| 250 | 203 | AlsoJess |
+| 249 | 203 | AlsoJess |
+| 250 | 203 | Angie Harper |
 | 251 | 202 | Staci George Fitzsimmons |
 | 252 | 200 | glichmod |
 | 253 | 200 | Sharisse Baltimore |
@@ -630,7 +630,7 @@
 | 622 | 80 | Fancy Racker |
 | 623 | 80 | Sameerah Smith |
 | 624 | 79 | Valerie Tarkington |
-| 625 | 79 | Brittany K Ward |
+| 625 | 79 | Gina Marie |
 | 626 | 79 | JessDrown |
 | 627 | 79 | Bananna Anna |
 | 628 | 79 | Janelle Goetz |
