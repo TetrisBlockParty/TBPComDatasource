@@ -281,8 +281,8 @@
 | 273 | 547 | Giggy Blocker |
 | 274 | 547 | Mema |
 | 275 | 544 | Leah Keesling |
-| 276 | 543 | Adira Brown |
-| 277 | 543 | Teresa Gillmore |
+| 276 | 543 | Teresa Gillmore |
+| 277 | 543 | Adira Brown |
 | 278 | 542 | Slip |
 | 279 | 535 | Paul Huber |
 | 280 | 535 | Jessie McDougald |
@@ -738,8 +738,8 @@
 | 730 | 226 | Jennifer Coe |
 | 731 | 226 | Theresa Sterrett |
 | 732 | 225 | Caitlin Johnson |
-| 733 | 225 | BK Queen |
-| 734 | 225 | Anna Mayo |
+| 733 | 225 | Anna Mayo |
+| 734 | 225 | BK Queen |
 | 735 | 224 | Artemus Darnell |
 | 736 | 223 | Michele Moren |
 | 737 | 223 | Laura Wyatt |

@@ -83,14 +83,14 @@
 | 75 | 338 | Stephanie Zahn |
 | 76 | 333 | Dee Perry |
 | 77 | 333 | Brandi Huntington |
-| 78 | 328 | Kellie |
-| 79 | 328 | Gracie |
+| 78 | 328 | Gracie |
+| 79 | 328 | Kellie |
 | 80 | 326 | Luciano Moreira |
-| 81 | 323 | Candy Jones |
-| 82 | 323 | Sweet Baker |
+| 81 | 323 | Sweet Baker |
+| 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -107,8 +107,8 @@
 | 99 | 280 | Sarah Roberts |
 | 100 | 277 | Ly Phethmany |
 | 101 | 275 | Cynthia Bradley |
-| 102 | 273 | Happy Basegrid |
-| 103 | 273 | Bhelle Sumile |
+| 102 | 273 | Bhelle Sumile |
+| 103 | 273 | Happy Basegrid |
 | 104 | 272 | Rachael |
 | 105 | 270 | Spunky Piecebuilder |
 | 106 | 269 | Seante Bullock |
@@ -139,8 +139,8 @@
 | 131 | 203 | GATOR |
 | 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Happy Snapbuild |
-| 135 | 198 | Shiny Gridmatch |
+| 134 | 198 | Shiny Gridmatch |
+| 135 | 198 | Happy Snapbuild |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Ash Galvan |
 | 138 | 194 | Tyler Werts |
@@ -148,8 +148,8 @@
 | 140 | 192 | Shaykmia |
 | 141 | 192 | Jessica Sheehan |
 | 142 | 191 | Diane Byrd |
-| 143 | 190 | Sweetts |
-| 144 | 190 | Thorne Shumate |
+| 143 | 190 | Thorne Shumate |
+| 144 | 190 | Sweetts |
 | 145 | 188 | Sam Williams |
 | 146 | 187 | Snippy Wipebuilder |
 | 147 | 186 | Margo Wagner |
@@ -234,8 +234,8 @@
 | 226 | 128 | lil mickey |
 | 227 | 128 | Brenda Alexander |
 | 228 | 126 | Tami Luce Martin |
-| 229 | 124 | Alenoush Karimian |
-| 230 | 124 | Mark Smith |
+| 229 | 124 | Mark Smith |
+| 230 | 124 | Alenoush Karimian |
 | 231 | 121 | Carl Claunch |
 | 232 | 120 | Silly Align |
 | 233 | 120 | Kimmie Kimms |
