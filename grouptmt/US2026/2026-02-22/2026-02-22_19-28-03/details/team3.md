@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Jay Horn |
-| 85 | 811 | Sarajane Lokan |
+| 84 | 811 | Sarajane Lokan |
+| 85 | 811 | Jay Horn |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -191,8 +191,8 @@
 | 183 | 413 | Denise Nardoni |
 | 184 | 410 | Stephanie Simpson |
 | 185 | 407 | Jone |
-| 186 | 405 | Sherry Ogden |
-| 187 | 405 | Marcie Bressler |
+| 186 | 405 | Marcie Bressler |
+| 187 | 405 | Sherry Ogden |
 | 188 | 403 | Scott Lindsay |
 | 189 | 401 | Staci George Fitzsimmons |
 | 190 | 400 | Sherika C. McDaniels |
@@ -240,8 +240,8 @@
 | 232 | 339 | Rania Zaqout |
 | 233 | 338 | Gumbo |
 | 234 | 337 | Melissa Orth Hunter |
-| 235 | 330 | Rebecca Funderburk Kirby |
-| 236 | 330 | victory |
+| 235 | 330 | victory |
+| 236 | 330 | Rebecca Funderburk Kirby |
 | 237 | 324 | Sissy Lowery Davis |
 | 238 | 323 | Demetrious Shaw Sr. |
 | 239 | 321 | Rebecca Bailey |
@@ -273,8 +273,8 @@
 | 265 | 285 | Terry Jo Jones |
 | 266 | 283 | Cheeky Snapper |
 | 267 | 279 | Connie Mohler-Fair |
-| 268 | 278 | Sabrina Hardrick |
-| 269 | 278 | Rufus Lincoln |
+| 268 | 278 | Rufus Lincoln |
+| 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
 | 272 | 276 | Heather De Vries Cobb |

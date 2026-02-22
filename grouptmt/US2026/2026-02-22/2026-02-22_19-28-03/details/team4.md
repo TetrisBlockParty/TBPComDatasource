@@ -72,11 +72,11 @@
 | 64 | 675 | D3TROITB0RN74 |
 | 65 | 671 | Kimyatta Cavin |
 | 66 | 667 | Chilly Line |
-| 67 | 664 | loulou |
-| 68 | 664 | Valerie Roberts |
+| 67 | 664 | Valerie Roberts |
+| 68 | 664 | loulou |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -159,8 +159,8 @@
 | 151 | 307 | Angela Srubar-Norman |
 | 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Kesha Brady |
-| 155 | 294 | Calvin Cannon |
+| 154 | 294 | Calvin Cannon |
+| 155 | 294 | Kesha Brady |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
@@ -322,8 +322,8 @@
 | 314 | 156 | Terrance Fung |
 | 315 | 154 | Circuit8 |
 | 316 | 154 | Chummy Towerzone |
-| 317 | 153 | O block |
-| 318 | 153 | Empress Oasis |
+| 317 | 153 | Empress Oasis |
+| 318 | 153 | O block |
 | 319 | 152 | Vanessa Smart |
 | 320 | 152 | Jared Gutwein |
 | 321 | 152 | Faja |

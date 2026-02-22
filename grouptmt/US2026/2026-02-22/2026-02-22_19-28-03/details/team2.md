@@ -667,8 +667,8 @@
 | 659 | 406 | Tyler C. Jung |
 | 660 | 406 | Erin StFrancis |
 | 661 | 405 | Crystal Heller Gonzalez |
-| 662 | 403 | Goofy Dasher |
-| 663 | 403 | Kelly Meredeith |
+| 662 | 403 | Kelly Meredeith |
+| 663 | 403 | Goofy Dasher |
 | 664 | 403 | Nate Skidmore |
 | 665 | 402 | B |
 | 666 | 401 | Beth Decker |
