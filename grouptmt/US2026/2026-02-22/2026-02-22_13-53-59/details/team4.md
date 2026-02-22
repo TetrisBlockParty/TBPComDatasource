@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Shelly Chandler |
-| 38 | 843 | Lucille Truesdale |
+| 37 | 843 | Lucille Truesdale |
+| 38 | 843 | Shelly Chandler |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -158,8 +158,8 @@
 | 150 | 264 | Epic Curvetile |
 | 151 | 264 | Dana Scott |
 | 152 | 262 | Joeliecea Cobb |
-| 153 | 262 | Holly Jolly |
-| 154 | 262 | Alan George LaRage |
+| 153 | 262 | Alan George LaRage |
+| 154 | 262 | Holly Jolly |
 | 155 | 261 | Twisty Clicky |
 | 156 | 258 | Bio Nelly |
 | 157 | 256 | Mylo Lipscomb |
@@ -210,8 +210,8 @@
 | 202 | 201 | Melvin Baird |
 | 203 | 200 | Lori |
 | 204 | 200 | Laura |
-| 205 | 198 | Keith Kelley |
-| 206 | 198 | Zesty Twistbuilder |
+| 205 | 198 | Zesty Twistbuilder |
+| 206 | 198 | Keith Kelley |
 | 207 | 197 | Silly SeaWeed |
 | 208 | 196 | Oscar Alberto Perez |
 | 209 | 196 | Mr. Party |
@@ -262,12 +262,12 @@
 | 254 | 161 | Tanner Lund |
 | 255 | 160 | Ellen Durfee |
 | 256 | 160 | Brittany Marsh |
-| 257 | 159 | Marcus Todd |
-| 258 | 159 | DonMega |
+| 257 | 159 | DonMega |
+| 258 | 159 | Marcus Todd |
 | 259 | 158 | Chair |
 | 260 | 157 | Bethany Ison |
-| 261 | 157 | Paige Kittles |
-| 262 | 157 | KayM |
+| 261 | 157 | KayM |
+| 262 | 157 | Paige Kittles |
 | 263 | 157 | B Renee Desjardin |
 | 264 | 156 | Ultramarine |
 | 265 | 154 | Zany Shatterer |
@@ -295,7 +295,7 @@
 | 287 | 144 | Sticherella |
 | 288 | 143 | Metsfan |
 | 289 | 143 | Asher |
-| 290 | 143 | Metsfan |
+| 290 | 143 | Dennis Bradley |
 | 291 | 143 | Daresha Fair |
 | 292 | 142 | Victoria Faniel |
 | 293 | 142 | Nerdy Twisterfit |
@@ -351,8 +351,8 @@
 | 343 | 126 | Brave Spinbuilder |
 | 344 | 125 | Ann G. Carrillo |
 | 345 | 125 | Steph Marie |
-| 346 | 124 | Sam Middleton |
-| 347 | 124 | Atia Scott |
+| 346 | 124 | Atia Scott |
+| 347 | 124 | Sam Middleton |
 | 348 | 124 | Marcela Johnson |
 | 349 | 123 | Lora |
 | 350 | 123 | Joseph Edmonson |

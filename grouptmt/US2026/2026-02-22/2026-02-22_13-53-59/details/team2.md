@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Isabela Shaw |
-| 136 | 1248 | Howard Forest |
+| 135 | 1248 | Howard Forest |
+| 136 | 1248 | Isabela Shaw |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1230 | Megan Garrick |
@@ -403,8 +403,8 @@
 | 395 | 548 | Taryece Gause |
 | 396 | 544 | Deidre Shaffer |
 | 397 | 544 | Leah Keesling |
-| 398 | 543 | Vanessa Moreno |
-| 399 | 543 | Julie Kresal |
+| 398 | 543 | Julie Kresal |
+| 399 | 543 | Vanessa Moreno |
 | 400 | 542 | AISlop |
 | 401 | 541 | g |
 | 402 | 540 | Dizzy Zone |
@@ -422,11 +422,11 @@
 | 414 | 525 | Desiree Anderson |
 | 415 | 524 | Lonne Emade |
 | 416 | 523 | Matt Johnson |
-| 417 | 522 | Lylymom |
-| 418 | 522 | Joseph Musick |
+| 417 | 522 | Joseph Musick |
+| 418 | 522 | Lylymom |
 | 419 | 521 | Tj Ball |
-| 420 | 520 | Angela Lynn |
-| 421 | 520 | Maddy Petersen |
+| 420 | 520 | Maddy Petersen |
+| 421 | 520 | Angela Lynn |
 | 422 | 519 | Rob Brown |
 | 423 | 517 | Alex Dungo Hoang |
 | 424 | 517 | Osun Anuket Esu |
@@ -511,8 +511,8 @@
 | 503 | 459 | Melissa Kay Gibson |
 | 504 | 458 | Casper The Chonk |
 | 505 | 454 | Casey Schumacher |
-| 506 | 453 | Rhonda Petro |
-| 507 | 453 | Joshua Sommerville |
+| 506 | 453 | Joshua Sommerville |
+| 507 | 453 | Rhonda Petro |
 | 508 | 452 | Juanita Lyons |
 | 509 | 451 | Funky Caster |
 | 510 | 450 | Cheery Matchzone |
@@ -646,8 +646,8 @@
 | 638 | 369 | Juan Castillo |
 | 639 | 367 | Connie Lepore-Mann |
 | 640 | 367 | Jessica Lamb |
-| 641 | 366 | Lawanda Forbes |
-| 642 | 366 | Courtney Burcham |
+| 641 | 366 | Courtney Burcham |
+| 642 | 366 | Lawanda Forbes |
 | 643 | 365 | Christina Lewis-Vickers |
 | 644 | 365 | Lathasa Newkirk |
 | 645 | 365 | Audrey Jones |
@@ -709,8 +709,8 @@
 | 701 | 335 | Alexandrea |
 | 702 | 335 | Maria Louise |
 | 703 | 334 | Melissa James |
-| 704 | 333 | Adrian Benitez |
-| 705 | 333 | Woodys Glass |
+| 704 | 333 | Woodys Glass |
+| 705 | 333 | Adrian Benitez |
 | 706 | 330 | Toni Roberson |
 | 707 | 330 | Nate Skidmore |
 | 708 | 330 | Jennifer Monroe Kelly |
