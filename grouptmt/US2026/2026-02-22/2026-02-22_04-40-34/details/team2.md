@@ -80,8 +80,8 @@
 | 72 | 1681 | Shameika Trail |
 | 73 | 1644 | Luna |
 | 74 | 1620 | Sam Smith |
-| 75 | 1603 | RdRydnHd |
-| 76 | 1603 | Gabby Jenner |
+| 75 | 1603 | Gabby Jenner |
+| 76 | 1603 | RdRydnHd |
 | 77 | 1599 | Ray Ray Prado |
 | 78 | 1587 | Rob Riggin |
 | 79 | 1553 | Charie Holland |
@@ -187,8 +187,8 @@
 | 179 | 881 | Tanya Parsons |
 | 180 | 878 | L3sli3 |
 | 181 | 871 | Jamie Otero |
-| 182 | 867 | Rosa Franklin |
-| 183 | 867 | YiFei |
+| 182 | 867 | YiFei |
+| 183 | 867 | Rosa Franklin |
 | 184 | 867 | Michele Gabriel |
 | 185 | 865 | Dedra Steward |
 | 186 | 862 | Robin Kerby |
@@ -291,8 +291,8 @@
 | 283 | 631 | Marie Walker |
 | 284 | 626 | Allan Wayne Lamia |
 | 285 | 619 | Jánine Riggs |
-| 286 | 617 | Leslie Ann Carter |
-| 287 | 617 | tejas25 |
+| 286 | 617 | tejas25 |
+| 287 | 617 | Leslie Ann Carter |
 | 288 | 615 | Brandon Armstrong |
 | 289 | 613 | Ellie Jonas |
 | 290 | 611 | Julio A Laracuente |
@@ -304,8 +304,8 @@
 | 296 | 589 | Thomas Hedrick |
 | 297 | 589 | Shavonna Haynes |
 | 298 | 582 | Gary Stash |
-| 299 | 579 | Roy Salyer |
-| 300 | 579 | Juliana Marques Do Nascimento Gordy |
+| 299 | 579 | Juliana Marques Do Nascimento Gordy |
+| 300 | 579 | Roy Salyer |
 | 301 | 576 | Ginger |
 | 302 | 569 | Vaniel Glover |
 | 303 | 567 | Victoria Moore-Smith |

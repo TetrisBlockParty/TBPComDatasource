@@ -52,8 +52,8 @@
 | 44 | 630 | Chilly Line |
 | 45 | 630 | Dustee Craddock-Harrison |
 | 46 | 627 | Jonathan Kimbrough |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -169,9 +169,9 @@
 | 161 | 195 | Malakai Darien Fox |
 | 162 | 194 | Zany Twisterfit |
 | 163 | 192 | Shauna Havard |
-| 164 | 189 | Calvin Dennis |
+| 164 | 189 | Stacey Stano |
 | 165 | 189 | Chilly Crasher |
-| 166 | 189 | Stacey Stano |
+| 166 | 189 | Calvin Dennis |
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Andy Cabral |
@@ -236,9 +236,9 @@
 | 228 | 139 | Chaz |
 | 229 | 139 | Lori Goudy |
 | 230 | 138 | Brandon Link |
-| 231 | 137 | D3TROITB0RN74 |
-| 232 | 137 | Brianna Walker |
-| 233 | 137 | PeaceOs |
+| 231 | 137 | Brianna Walker |
+| 232 | 137 | PeaceOs |
+| 233 | 137 | D3TROITB0RN74 |
 | 234 | 136 | Maureen Flanigan |
 | 235 | 134 | Nick Gray |
 | 236 | 134 | Kim Klutz Olson |

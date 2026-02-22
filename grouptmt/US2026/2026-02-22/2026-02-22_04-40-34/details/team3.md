@@ -120,8 +120,8 @@
 | 112 | 479 | Poppy Splitter |
 | 113 | 471 | Mendoza Lee Christy |
 | 114 | 469 | Patricia White |
-| 115 | 459 | Nerdy Riseclear |
-| 116 | 459 | mjl574 |
+| 115 | 459 | mjl574 |
+| 116 | 459 | Nerdy Riseclear |
 | 117 | 453 | Silly Twist |
 | 118 | 449 | Danielle Rhoades |
 | 119 | 445 | Kristie McFarland |
@@ -135,16 +135,16 @@
 | 127 | 410 | Stephanie Blkpep Davidson |
 | 128 | 409 | Karon Griffin |
 | 129 | 405 | Michelle |
-| 130 | 403 | Christine Filson |
-| 131 | 403 | Scott Lindsay |
+| 130 | 403 | Scott Lindsay |
+| 131 | 403 | Christine Filson |
 | 132 | 402 | Shannon Matthew Byers |
 | 133 | 400 | Luciana Braganca Vieira |
-| 134 | 399 | Mcathen |
-| 135 | 399 | Patti Skiles |
+| 134 | 399 | Patti Skiles |
+| 135 | 399 | Mcathen |
 | 136 | 397 | Annie Déè |
 | 137 | 394 | Louise Stacy Sisson |
-| 138 | 392 | Tasha Gillespie |
-| 139 | 392 | Katie Knaus |
+| 138 | 392 | Katie Knaus |
+| 139 | 392 | Tasha Gillespie |
 | 140 | 391 | Calista Jo Dickson |
 | 141 | 390 | Marcie Bressler |
 | 142 | 390 | Hasty Cascadefit |
@@ -170,8 +170,8 @@
 | 162 | 347 | Nicole Flippo |
 | 163 | 343 | Ashley Raines |
 | 164 | 338 | Leah Barnett |
-| 165 | 332 | Fallorina Susana |
-| 166 | 332 | Rich LeBlanc |
+| 165 | 332 | Rich LeBlanc |
+| 166 | 332 | Fallorina Susana |
 | 167 | 325 | Giddy Twistbuilder |
 | 168 | 324 | Tom Nault |
 | 169 | 323 | Demetrious Shaw Sr. |
@@ -201,11 +201,11 @@
 | 193 | 276 | _melisa223_ |
 | 194 | 276 | Crimson |
 | 195 | 274 | Tye Stovall |
-| 196 | 272 | Dee Franklin |
-| 197 | 272 | opf |
+| 196 | 272 | opf |
+| 197 | 272 | Dee Franklin |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Denise Nardoni |
-| 200 | 267 | Terry Jo Jones |
+| 199 | 267 | Terry Jo Jones |
+| 200 | 267 | Denise Nardoni |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
@@ -550,7 +550,7 @@
 | 542 | 92 | Jennifer Caputo |
 | 543 | 92 | Patty White |
 | 544 | 92 | Jackie-Lynne Goertzen |
-| 545 | 91 | Christen Cannon Layhew |
+| 545 | 91 | Block Dropper |
 | 546 | 91 | Angel Miller |
 | 547 | 91 | Donna S. Greene-Brathwaite |
 | 548 | 91 | Christen Cannon Layhew |
