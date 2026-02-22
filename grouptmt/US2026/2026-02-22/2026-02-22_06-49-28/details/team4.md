@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | TeeJ |
-| 73 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | TeeJ |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -178,8 +178,8 @@
 | 170 | 204 | Jen Caldwell |
 | 171 | 203 | Katherine Crane |
 | 172 | 202 | TRCuse |
-| 173 | 201 | Chance Strickland |
-| 174 | 201 | Melvin Baird |
+| 173 | 201 | Melvin Baird |
+| 174 | 201 | Chance Strickland |
 | 175 | 198 | Jessica Lynn Cutlip |
 | 176 | 196 | Oscar Alberto Perez |
 | 177 | 196 | Zethra Prenisha Rahming |

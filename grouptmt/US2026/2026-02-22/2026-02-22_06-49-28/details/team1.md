@@ -109,10 +109,10 @@
 | 101 | 330 | Sweet Baker |
 | 102 | 328 | Gracie |
 | 103 | 326 | Monica Donato |
-| 104 | 321 | Maria C. Hernandez |
-| 105 | 321 | Shauna Loe |
-| 106 | 319 | Deanna L Hermanson |
-| 107 | 319 | Patrick Luckenbill |
+| 104 | 321 | Shauna Loe |
+| 105 | 321 | Maria C. Hernandez |
+| 106 | 319 | Patrick Luckenbill |
+| 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
 | 109 | 310 | phrmblk24 |
 | 110 | 310 | Jason Jones |
@@ -136,8 +136,8 @@
 | 128 | 280 | Sarah Roberts |
 | 129 | 276 | Dandy Basegrid |
 | 130 | 265 | SkipTheSadSauce |
-| 131 | 264 | Jenny Gingrich Fuentes |
-| 132 | 264 | Lexuriuos Lifestlye |
+| 131 | 264 | Lexuriuos Lifestlye |
+| 132 | 264 | Jenny Gingrich Fuentes |
 | 133 | 263 | Sharon Reynolds |
 | 134 | 257 | Amanda Jarnagin |
 | 135 | 256 | David Miller |
@@ -189,8 +189,8 @@
 | 181 | 193 | Michael |
 | 182 | 193 | Lachelle Dillon |
 | 183 | 192 | Jessica Sheehan |
-| 184 | 191 | Diane Byrd |
-| 185 | 191 | Shanae Grant |
+| 184 | 191 | Shanae Grant |
+| 185 | 191 | Diane Byrd |
 | 186 | 190 | Thorne Shumate |
 | 187 | 190 | Sweetts |
 | 188 | 189 | Jeanna Dunn |

@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1232 | Groovy Puzzle |
 | 121 | 1226 | Vo'Landa Reels |
@@ -270,15 +270,15 @@
 | 262 | 700 | Vincent Petrella |
 | 263 | 698 | Mighty Shatterfit |
 | 264 | 697 | Dreamy Blast |
-| 265 | 692 | Chelle |
-| 266 | 692 | Jennifer Casey-Kay |
-| 267 | 692 | Dannette Goldberg-Richards |
+| 265 | 692 | Jennifer Casey-Kay |
+| 266 | 692 | Dannette Goldberg-Richards |
+| 267 | 692 | Chelle |
 | 268 | 690 | Deborah Miller |
 | 269 | 689 | Giggy Blocker |
-| 270 | 688 | Tiara Elizabeth Baker |
-| 271 | 688 | ShinyRose |
-| 272 | 687 | Jai Jackson |
-| 273 | 687 | Stephanie Lumanlan |
+| 270 | 688 | ShinyRose |
+| 271 | 688 | Tiara Elizabeth Baker |
+| 272 | 687 | Stephanie Lumanlan |
+| 273 | 687 | Jai Jackson |
 | 274 | 686 | Ashley Guernsey-Martin |
 | 275 | 685 | Binyah-Binyah |
 | 276 | 683 | Beth |
@@ -620,8 +620,8 @@
 | 612 | 347 | Zesty Pivot |
 | 613 | 346 | Morgan Easter |
 | 614 | 346 | Stephanie Fortune |
-| 615 | 345 | Rhianna DiLorenzo |
-| 616 | 345 | Frisky Clearpiece |
+| 615 | 345 | Frisky Clearpiece |
+| 616 | 345 | Rhianna DiLorenzo |
 | 617 | 345 | Gina Caulder |
 | 618 | 344 | Tra Barnum |
 | 619 | 344 | Glenn Cobbins |
@@ -640,13 +640,13 @@
 | 632 | 336 | bru |
 | 633 | 335 | Brooke Leigh Strube |
 | 634 | 334 | Phil J. Grombliniak |
-| 635 | 333 | Adrian Benitez |
-| 636 | 333 | Woodys Glass |
+| 635 | 333 | Woodys Glass |
+| 636 | 333 | Adrian Benitez |
 | 637 | 333 | Veronica Stevenson |
 | 638 | 332 | Lathasa Newkirk |
 | 639 | 331 | Steve Man |
-| 640 | 330 | CC |
-| 641 | 330 | Jennifer Monroe Kelly |
+| 640 | 330 | Jennifer Monroe Kelly |
+| 641 | 330 | CC |
 | 642 | 329 | Chummy Blockbuilder |
 | 643 | 329 | Jane Crew |
 | 644 | 329 | Snappy Shatterfit |
@@ -755,13 +755,13 @@
 | 747 | 284 | Hillary Franklin |
 | 748 | 283 | Tash Bell |
 | 749 | 282 | Nutty Slice |
-| 750 | 280 | Reece Smith |
-| 751 | 280 | Danielle DeLozier Plesec |
+| 750 | 280 | Danielle DeLozier Plesec |
+| 751 | 280 | Reece Smith |
 | 752 | 280 | Belle |
 | 753 | 279 | Loony Basepiece |
 | 754 | 278 | AndrewandShela Gornik |
-| 755 | 277 | Anthony Mignacca |
-| 756 | 277 | Amanda Chamberlain |
+| 755 | 277 | Amanda Chamberlain |
+| 756 | 277 | Anthony Mignacca |
 | 757 | 277 | NickyBrooks |
 | 758 | 276 | Lindsey Leigh |
 | 759 | 276 | Ryan Lauer |
@@ -777,8 +777,8 @@
 | 769 | 274 | Sabrena Yeisley |
 | 770 | 274 | Jamie Stevey |
 | 771 | 273 | Jennifer Aiken |
-| 772 | 273 | Britt Stunkel |
-| 773 | 273 | Kelly Meredeith |
+| 772 | 273 | Kelly Meredeith |
+| 773 | 273 | Britt Stunkel |
 | 774 | 272 | Witty Piecebuilder |
 | 775 | 271 | Shalisa Hill |
 | 776 | 271 | Pam Doughty |

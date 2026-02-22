@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -196,8 +196,8 @@
 | 188 | 311 | Araceli Parra |
 | 189 | 311 | Raya |
 | 190 | 310 | Danielle Balcom |
-| 191 | 308 | Daryn Elliott |
-| 192 | 308 | Rania Zaqout |
+| 191 | 308 | Rania Zaqout |
+| 192 | 308 | Daryn Elliott |
 | 193 | 307 | rnr junky |
 | 194 | 307 | Blocked |
 | 195 | 305 | Rochelle Hazelett |
@@ -429,9 +429,9 @@
 | 421 | 125 | BugMansMom |
 | 422 | 125 | Felicia Doxey |
 | 423 | 124 | victory |
-| 424 | 124 | xsiv |
-| 425 | 124 | Daring Builder |
-| 426 | 123 | Amanda Declue |
+| 424 | 124 | Daring Builder |
+| 425 | 124 | xsiv |
+| 426 | 123 | Cheery Brickster |
 | 427 | 123 | Michael Latasha Gray |
 | 428 | 123 | Denise Marie |
 | 429 | 123 | Amanda Declue |
@@ -456,8 +456,8 @@
 | 448 | 118 | Damian Reid |
 | 449 | 118 | Fancy Curver |
 | 450 | 117 | Dee Pratt |
-| 451 | 117 | Rayzer |
-| 452 | 117 | Anabela Ruiz |
+| 451 | 117 | Anabela Ruiz |
+| 452 | 117 | Rayzer |
 | 453 | 117 | James Lykes |
 | 454 | 116 | Dapper Towerfit |
 | 455 | 116 | Elisha L Allman |
