@@ -195,17 +195,17 @@
 | 187 | 203 | Paula Martin |
 | 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | Breanna Luna |
-| 191 | 200 | DaRascal |
+| 190 | 200 | DaRascal |
+| 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Happy Snapbuild |
 | 194 | 198 | Shiny Gridmatch |
 | 195 | 195 | Shaykmia |
 | 196 | 195 | Bindi |
-| 197 | 194 | Christy Jones |
-| 198 | 194 | Jennifer Olewnik Soborowski |
-| 199 | 193 | Lachelle Dillon |
-| 200 | 193 | Michael |
+| 197 | 194 | Jennifer Olewnik Soborowski |
+| 198 | 194 | Christy Jones |
+| 199 | 193 | Michael |
+| 200 | 193 | Lachelle Dillon |
 | 201 | 191 | Diane Byrd |
 | 202 | 191 | Shanae Grant |
 | 203 | 190 | Sweetts |
@@ -247,8 +247,8 @@
 | 239 | 168 | Amber Stoker |
 | 240 | 167 | Cranky Pattern |
 | 241 | 167 | Nery Martinez |
-| 242 | 165 | Nadine Velardo |
-| 243 | 165 | Silly Align |
+| 242 | 165 | Silly Align |
+| 243 | 165 | Nadine Velardo |
 | 244 | 163 | Blaire Bruckoff |
 | 245 | 163 | Davery Spencer Adair |
 | 246 | 163 | Tyler Whitley |
@@ -267,8 +267,8 @@
 | 259 | 152 | Speedy Snapfall |
 | 260 | 152 | Strig |
 | 261 | 151 | Gilbert Ortiz Jr. |
-| 262 | 150 | Agustin Duarte Orozco |
-| 263 | 150 | Adele Rahman |
+| 262 | 150 | Adele Rahman |
+| 263 | 150 | Agustin Duarte Orozco |
 | 264 | 149 | Jessica Russell |
 | 265 | 147 | J.F. Fields |
 | 266 | 145 | Rachel Nichole Henry |

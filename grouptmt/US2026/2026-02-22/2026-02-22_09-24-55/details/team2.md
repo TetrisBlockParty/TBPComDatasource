@@ -250,8 +250,8 @@
 | 242 | 777 | Tesha Oldaker |
 | 243 | 777 | Jessicah Myers |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | Sam Joe |
-| 246 | 772 | William Hunt |
+| 245 | 772 | William Hunt |
+| 246 | 772 | Sam Joe |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -975,8 +975,8 @@
 | 967 | 231 | Michelle Fleming Luna |
 | 968 | 231 | Stanley Vanekelenburg |
 | 969 | 230 | lady |
-| 970 | 229 | ItsJennifer Neriss |
-| 971 | 229 | BbqGuru |
+| 970 | 229 | BbqGuru |
+| 971 | 229 | ItsJennifer Neriss |
 | 972 | 229 | Chyrisse Norton |
 | 973 | 229 | Deidre Jenkins |
 | 974 | 229 | Heather Anspaugh |
@@ -1137,8 +1137,8 @@
 | 1129 | 196 | Donna Colby |
 | 1130 | 196 | Jennifer Barclay |
 | 1131 | 196 | Giggy Mover |
-| 1132 | 196 | Kimberly Hope Howell |
-| 1133 | 196 | Goofy Cascadeclear |
+| 1132 | 196 | Goofy Cascadeclear |
+| 1133 | 196 | Kimberly Hope Howell |
 | 1134 | 195 | Persipnei Cuesta |
 | 1135 | 195 | Muhammad |
 | 1136 | 195 | Cheeky Brickroll |
@@ -1324,8 +1324,8 @@
 | 1316 | 170 | party pooch |
 | 1317 | 170 | Orla Aherne |
 | 1318 | 170 | Poppy Gridder |
-| 1319 | 170 | Tigro Ace |
-| 1320 | 170 | Chummy Shiftsnap |
+| 1319 | 170 | Chummy Shiftsnap |
+| 1320 | 170 | Tigro Ace |
 | 1321 | 169 | Corey Ross |
 | 1322 | 169 | Christy Green |
 | 1323 | 169 | Ubu |
