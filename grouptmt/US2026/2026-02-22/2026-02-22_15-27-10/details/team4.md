@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -207,7 +207,7 @@
 | 199 | 212 | Joanna |
 | 200 | 211 | Jenna McGeorge |
 | 201 | 210 | Austin Owens |
-| 202 | 209 | Rafael Valentin |
+| 202 | 209 | Lindsey Gonzalez |
 | 203 | 209 | Sam Bishop |
 | 204 | 209 | Rafael Valentin |
 | 205 | 208 | Stacey Stano |
