@@ -127,8 +127,8 @@
 | 119 | 579 | Jd Morris |
 | 120 | 574 | Morgan Martinez |
 | 121 | 568 | Rachael McClain Owens |
-| 122 | 562 | Dave Herzog |
-| 123 | 562 | Louise Stacy Sisson |
+| 122 | 562 | Louise Stacy Sisson |
+| 123 | 562 | Dave Herzog |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -179,8 +179,8 @@
 | 171 | 415 | ren |
 | 172 | 410 | Stephanie Simpson |
 | 173 | 407 | Jone |
-| 174 | 405 | JerseyJess |
-| 175 | 405 | Marcie Bressler |
+| 174 | 405 | Marcie Bressler |
+| 175 | 405 | JerseyJess |
 | 176 | 403 | Scott Lindsay |
 | 177 | 402 | Araceli Parra |
 | 178 | 401 | Katie Knaus |
@@ -311,8 +311,8 @@
 | 303 | 236 | Lys |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kiki |
-| 307 | 231 | Kevin Russell |
+| 306 | 231 | Kevin Russell |
+| 307 | 231 | Kiki |
 | 308 | 230 | BigE |
 | 309 | 228 | Naur |
 | 310 | 227 | Rebel124 |
@@ -392,7 +392,7 @@
 | 384 | 189 | Katheline Lazo Luizaga |
 | 385 | 189 | Erykah |
 | 386 | 189 | Deseree Ewing |
-| 387 | 189 | Katheline Lazo Luizaga |
+| 387 | 189 | Katie Leigh Blankenship |
 | 388 | 188 | Crystal Hine |
 | 389 | 186 | Bryan Byrd |
 | 390 | 186 | Noettín Kan Zasnemoore |

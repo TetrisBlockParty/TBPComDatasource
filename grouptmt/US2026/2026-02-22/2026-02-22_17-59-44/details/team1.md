@@ -82,9 +82,9 @@
 | 74 | 489 | Deanna L Hermanson |
 | 75 | 486 | Tater |
 | 76 | 485 | Cartier |
-| 77 | 483 | Evie Khalil |
-| 78 | 483 | Ryan Lunnin |
-| 79 | 483 | MomMom |
+| 77 | 483 | MomMom |
+| 78 | 483 | Evie Khalil |
+| 79 | 483 | Ryan Lunnin |
 | 80 | 480 | Nancy Green |
 | 81 | 472 | April Carroll |
 | 82 | 471 | Jennifer ManWarren |
@@ -122,13 +122,13 @@
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |
-| 117 | 357 | Amanda Johnson Huffman |
-| 118 | 357 | Dandy Basegrid |
+| 117 | 357 | Dandy Basegrid |
+| 118 | 357 | Amanda Johnson Huffman |
 | 119 | 355 | Hasbro Bros |
 | 120 | 354 | phrmblk24 |
 | 121 | 352 | Jason Jones |
-| 122 | 350 | Sweet Baker |
-| 123 | 350 | Tipsy Strikerpiece |
+| 122 | 350 | Tipsy Strikerpiece |
+| 123 | 350 | Sweet Baker |
 | 124 | 344 | Bhelle Sumile |
 | 125 | 343 | Death |
 | 126 | 341 | Nick R Montague |

@@ -115,8 +115,8 @@
 | 107 | 426 | Ren Mc |
 | 108 | 417 | shar |
 | 109 | 415 | Monica Daley |
-| 110 | 412 | Scott Jameson |
-| 111 | 412 | Jenna Ingersoll |
+| 110 | 412 | Jenna Ingersoll |
+| 111 | 412 | Scott Jameson |
 | 112 | 409 | Isabella Blanco |
 | 113 | 407 | Marie-Pier Desjardins |
 | 114 | 404 | Courtney Cicoria |
@@ -162,12 +162,12 @@
 | 154 | 290 | 🥔🥔 Spudz |
 | 155 | 290 | Chaz Duncan |
 | 156 | 288 | Leah Kutz Zirbel |
-| 157 | 286 | shark tato |
-| 158 | 286 | Brittney Orengo |
+| 157 | 286 | Brittney Orengo |
+| 158 | 286 | shark tato |
 | 159 | 282 | Rafael Valentin |
 | 160 | 281 | Lindsay Ball |
-| 161 | 277 | Cursed Hag |
-| 162 | 277 | Mary Ann Pabukis |
+| 161 | 277 | Mary Ann Pabukis |
+| 162 | 277 | Cursed Hag |
 | 163 | 276 | Alyssa Papen |
 | 164 | 275 | Trista Leah |
 | 165 | 273 | Crystal Nicolette Moore |
