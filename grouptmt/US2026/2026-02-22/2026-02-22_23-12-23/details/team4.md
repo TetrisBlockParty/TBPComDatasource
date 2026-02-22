@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -220,8 +220,8 @@
 | 212 | 261 | scott |
 | 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | Cheery Risebuilder |
-| 216 | 257 | PeaceOs |
+| 215 | 257 | PeaceOs |
+| 216 | 257 | Cheery Risebuilder |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
@@ -232,8 +232,8 @@
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
 | 226 | 245 | 23 |
-| 227 | 245 | Autum Leigh |
-| 228 | 245 | Adam Stephanie Parker |
+| 227 | 245 | Adam Stephanie Parker |
+| 228 | 245 | Autum Leigh |
 | 229 | 243 | Mr. Party |
 | 230 | 241 | JPW |
 | 231 | 241 | Chris Hartig |

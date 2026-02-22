@@ -144,8 +144,8 @@
 | 136 | 585 | opf |
 | 137 | 583 | Karon Griffin |
 | 138 | 582 | Natasha Jones |
-| 139 | 579 | Annie Marie |
-| 140 | 579 | Jaime Monhaut-Reed |
+| 139 | 579 | Jaime Monhaut-Reed |
+| 140 | 579 | Annie Marie |
 | 141 | 574 | Morgan Martinez |
 | 142 | 572 | CeceGeGe |
 | 143 | 568 | Rachael McClain Owens |
@@ -175,8 +175,8 @@
 | 167 | 484 | Dapper Snap |
 | 168 | 479 | Poppy Splitter |
 | 169 | 475 | Tessina Dewey-Mancino |
-| 170 | 471 | Mendoza Lee Christy |
-| 171 | 471 | Rachel |
+| 170 | 471 | Rachel |
+| 171 | 471 | Mendoza Lee Christy |
 | 172 | 470 | Logan Naccarato |
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
@@ -232,8 +232,8 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Stephanie Woods |
-| 228 | 368 | Rebecca Funderburk Kirby |
+| 227 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Stephanie Woods |
 | 229 | 366 | Marquita Sheard |
 | 230 | 365 | Chummy Caster |
 | 231 | 365 | Tiffany Ford |
