@@ -170,8 +170,8 @@
 | 162 | 321 | jim |
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
-| 165 | 314 | 🥔🥔 Spudz |
-| 166 | 314 | Andy Cabral |
+| 165 | 314 | Andy Cabral |
+| 166 | 314 | 🥔🥔 Spudz |
 | 167 | 314 | TRCuse |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
