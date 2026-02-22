@@ -154,8 +154,8 @@
 | 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
 | 148 | 427 | Wendy Dearden |
-| 149 | 427 | Tasha Gillespie |
-| 150 | 427 | Logan Naccarato |
+| 149 | 427 | Logan Naccarato |
+| 150 | 427 | Tasha Gillespie |
 | 151 | 415 | ren |
 | 152 | 413 | Rachel |
 | 153 | 411 | FuzzyNavel |
@@ -199,8 +199,8 @@
 | 191 | 347 | Jone |
 | 192 | 343 | Ashley Raines |
 | 193 | 343 | Tamara Deherrera |
-| 194 | 341 | Samantha Lynn |
-| 195 | 341 | Noyb Adam |
+| 194 | 341 | Noyb Adam |
+| 195 | 341 | Samantha Lynn |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
 | 198 | 330 | Rebecca Funderburk Kirby |

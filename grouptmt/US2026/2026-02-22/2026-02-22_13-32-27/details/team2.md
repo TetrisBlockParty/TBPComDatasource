@@ -702,8 +702,8 @@
 | 694 | 336 | bru |
 | 695 | 336 | Austin Wilson |
 | 696 | 336 | Swanky Columnbuilder |
-| 697 | 335 | Alexandrea |
-| 698 | 335 | Brooke Leigh Strube |
+| 697 | 335 | Brooke Leigh Strube |
+| 698 | 335 | Alexandrea |
 | 699 | 335 | Maria Louise |
 | 700 | 334 | Melissa James |
 | 701 | 333 | Woodys Glass |
@@ -892,8 +892,8 @@
 | 884 | 265 | Kray Kray Katelynn |
 | 885 | 265 | Cool Grabber |
 | 886 | 265 | Theresa Sterrett |
-| 887 | 264 | Nicki Stephens |
-| 888 | 264 | Shindee |
+| 887 | 264 | Shindee |
+| 888 | 264 | Nicki Stephens |
 | 889 | 264 | Edna Combs |
 | 890 | 264 | Ocean-Brianna McGregor |
 | 891 | 263 | Elizabeth Leinen |
