@@ -126,8 +126,8 @@
 | 118 | 291 | Seante Bullock |
 | 119 | 290 | Death |
 | 120 | 287 | Chelsea Dahlquist |
-| 121 | 286 | Ly Phethmany |
-| 122 | 286 | Arianna O'Brien |
+| 121 | 286 | Arianna O'Brien |
+| 122 | 286 | Ly Phethmany |
 | 123 | 285 | Ananda Mendez |
 | 124 | 284 | Emily Adelaide Wheatley |
 | 125 | 284 | Rachael |
@@ -190,20 +190,20 @@
 | 182 | 201 | Sam Williams |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Shiny Gridmatch |
-| 186 | 198 | Happy Snapbuild |
+| 185 | 198 | Happy Snapbuild |
+| 186 | 198 | Shiny Gridmatch |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Michael |
 | 190 | 193 | Jennifer Olewnik Soborowski |
 | 191 | 193 | Lachelle Dillon |
 | 192 | 192 | Jessica Sheehan |
-| 193 | 191 | Shanae Grant |
-| 194 | 191 | Diane Byrd |
+| 193 | 191 | Diane Byrd |
+| 194 | 191 | Shanae Grant |
 | 195 | 190 | Sweetts |
 | 196 | 190 | Thorne Shumate |
-| 197 | 189 | Jeanna Dunn |
-| 198 | 189 | Veronica Eve |
+| 197 | 189 | Veronica Eve |
+| 198 | 189 | Jeanna Dunn |
 | 199 | 187 | Cool Towerzone |
 | 200 | 187 | Amanda Johnson Huffman |
 | 201 | 186 | Erin Hodges Plumb |
@@ -244,8 +244,8 @@
 | 236 | 161 | SavageBooty98 |
 | 237 | 160 | Tedashi |
 | 238 | 158 | Sarah Marie |
-| 239 | 156 | Erin Rosberg |
-| 240 | 156 | Mark Smith |
+| 239 | 156 | Mark Smith |
+| 240 | 156 | Erin Rosberg |
 | 241 | 155 | Barry Mac'Ockner |
 | 242 | 154 | Gary Gobin |
 | 243 | 154 | Melissa Lemmon |

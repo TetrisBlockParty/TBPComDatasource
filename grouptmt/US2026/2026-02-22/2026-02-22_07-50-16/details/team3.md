@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Domo Washington |
-| 115 | 500 | Kristie |
+| 114 | 500 | Kristie |
+| 115 | 500 | Domo Washington |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -210,18 +210,18 @@
 | 202 | 296 | Katrina Turner |
 | 203 | 296 | Ammmmmmy |
 | 204 | 296 | Brandon Givens |
-| 205 | 295 | Marci Mize Fandrich |
-| 206 | 295 | RickyG |
-| 207 | 289 | Hoppy Buildout |
-| 208 | 289 | Duane Bright |
+| 205 | 295 | RickyG |
+| 206 | 295 | Marci Mize Fandrich |
+| 207 | 289 | Duane Bright |
+| 208 | 289 | Hoppy Buildout |
 | 209 | 289 | DidIdothat |
 | 210 | 286 | Cynthia Herrmann Egland |
 | 211 | 284 | Denise Nardoni |
 | 212 | 283 | Cheeky Snapper |
 | 213 | 281 | Valerie Gendron |
 | 214 | 278 | Rufus Lincoln |
-| 215 | 277 | Keis |
-| 216 | 277 | Charles Perrone |
+| 215 | 277 | Charles Perrone |
+| 216 | 277 | Keis |
 | 217 | 276 | _melisa223_ |
 | 218 | 276 | Crimson |
 | 219 | 275 | Cassandra Bryant |

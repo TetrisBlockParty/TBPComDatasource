@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |
@@ -106,8 +106,8 @@
 | 98 | 373 | Joseph Guthrie |
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
-| 101 | 352 | Monica Daley |
-| 102 | 352 | Zippy Gridlock |
+| 101 | 352 | Zippy Gridlock |
+| 102 | 352 | Monica Daley |
 | 103 | 344 | Livvy |
 | 104 | 337 | Lori Walker |
 | 105 | 331 | ThaEviLJeNiuZ |
@@ -132,8 +132,8 @@
 | 124 | 286 | Daria Rycewicz |
 | 125 | 283 | Brittney Orengo |
 | 126 | 281 | Meagan Nicole |
-| 127 | 278 | Carrie Brian |
-| 128 | 278 | Desi Desporte |
+| 127 | 278 | Desi Desporte |
+| 128 | 278 | Carrie Brian |
 | 129 | 277 | Scott Jameson |
 | 130 | 277 | Mary Ann Pabukis |
 | 131 | 275 | Dizzy Tiley |
@@ -193,8 +193,8 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
@@ -243,11 +243,11 @@
 | 235 | 147 | B Renee Desjardin |
 | 236 | 147 | Jay28 |
 | 237 | 146 | Ultramarine |
-| 238 | 145 | Sandra Safford |
-| 239 | 145 | Mimi |
+| 238 | 145 | Mimi |
+| 239 | 145 | Sandra Safford |
 | 240 | 144 | Nubian1 |
-| 241 | 143 | Dennis Bradley |
-| 242 | 143 | Zesty Twistbuilder |
+| 241 | 143 | Zesty Twistbuilder |
+| 242 | 143 | Dennis Bradley |
 | 243 | 143 | Lauren Lamb |
 | 244 | 142 | Patron Anderson |
 | 245 | 142 | Chaz |
@@ -302,9 +302,9 @@
 | 294 | 126 | icequeenx |
 | 295 | 125 | Steph Marie |
 | 296 | 125 | Daresha Fair |
-| 297 | 125 | Steph Marie |
-| 298 | 124 | Atia Scott |
-| 299 | 124 | Sam Middleton |
+| 297 | 125 | Lush Linkfall |
+| 298 | 124 | Sam Middleton |
+| 299 | 124 | Atia Scott |
 | 300 | 124 | Circuit8 |
 | 301 | 123 | Joseph Edmonson |
 | 302 | 121 | Jim Hart |
