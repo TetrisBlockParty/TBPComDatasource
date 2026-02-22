@@ -156,8 +156,8 @@
 | 148 | 1290 | Bussyiano Page |
 | 149 | 1286 | Eileen Hale |
 | 150 | 1286 | Altamirano Michael |
-| 151 | 1282 | Tanya Parsons |
-| 152 | 1282 | Ashley Rose Frederick |
+| 151 | 1282 | Ashley Rose Frederick |
+| 152 | 1282 | Tanya Parsons |
 | 153 | 1273 | Cool Rollpiece |
 | 154 | 1271 | Shandrica Lowe |
 | 155 | 1248 | Isabela Shaw |

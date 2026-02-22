@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Scott Jameson |
-| 112 | 412 | Jenna Ingersoll |
+| 111 | 412 | Jenna Ingersoll |
+| 112 | 412 | Scott Jameson |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -149,8 +149,8 @@
 | 141 | 319 | Guy Incognito |
 | 142 | 318 | Lauren Scott |
 | 143 | 314 | Andy Cabral |
-| 144 | 307 | Bio Nelly |
-| 145 | 307 | Angela Srubar-Norman |
+| 144 | 307 | Angela Srubar-Norman |
+| 145 | 307 | Bio Nelly |
 | 146 | 300 | Dana Scott |
 | 147 | 300 | Jason Hart |
 | 148 | 299 | TRCuse |
@@ -250,9 +250,9 @@
 | 242 | 200 | Chair |
 | 243 | 200 | Lori |
 | 244 | 199 | Orchislactea |
-| 245 | 198 | Keith Kelley |
-| 246 | 198 | Calvin Dennis |
-| 247 | 198 | Silly SeaWeed |
+| 245 | 198 | Calvin Dennis |
+| 246 | 198 | Silly SeaWeed |
+| 247 | 198 | Keith Kelley |
 | 248 | 197 | Gilles Lanctot |
 | 249 | 195 | 中山成巳 |
 | 250 | 195 | Snippy Puzzle |

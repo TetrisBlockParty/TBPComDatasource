@@ -288,8 +288,8 @@
 | 280 | 266 | Snappy Balancer |
 | 281 | 265 | Nikki Pags |
 | 282 | 263 | Brenda Schmid Wood |
-| 283 | 262 | Joe-Maggie Mathews |
-| 284 | 262 | Ray Lader |
+| 283 | 262 | Ray Lader |
+| 284 | 262 | Joe-Maggie Mathews |
 | 285 | 261 | Foltz Lee Kelli |
 | 286 | 261 | ROODBOY |
 | 287 | 260 | Grams |
@@ -312,8 +312,8 @@
 | 304 | 236 | Angela Scott |
 | 305 | 233 | Tony Waters |
 | 306 | 232 | Donna |
-| 307 | 231 | Kiki |
-| 308 | 231 | Kevin Russell |
+| 307 | 231 | Kevin Russell |
+| 308 | 231 | Kiki |
 | 309 | 230 | BigE |
 | 310 | 228 | Beaudie Stroebel |
 | 311 | 228 | Lizabeth Fox |

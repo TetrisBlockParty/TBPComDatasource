@@ -96,8 +96,8 @@
 | 88 | 443 | Steve Schneider |
 | 89 | 436 | Tonya Beasley |
 | 90 | 434 | Loony Fitzone |
-| 91 | 433 | Trina Gee |
-| 92 | 433 | Tinah Montanna |
+| 91 | 433 | Tinah Montanna |
+| 92 | 433 | Trina Gee |
 | 93 | 429 | Tdub |
 | 94 | 428 | Stephanie Zahn |
 | 95 | 418 | Jazzy Framezone |
@@ -172,8 +172,8 @@
 | 164 | 282 | Timothy Dew |
 | 165 | 282 | Tyler Werts |
 | 166 | 274 | Angela Renea Lester |
-| 167 | 273 | Shannon Marie Pitts |
-| 168 | 273 | Sassy Builderline |
+| 167 | 273 | Sassy Builderline |
+| 168 | 273 | Shannon Marie Pitts |
 | 169 | 272 | Sleepysloath5745 |
 | 170 | 272 | Tana |
 | 171 | 270 | Ash Galvan |
