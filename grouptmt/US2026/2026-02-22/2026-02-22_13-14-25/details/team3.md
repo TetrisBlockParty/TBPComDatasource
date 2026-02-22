@@ -147,8 +147,8 @@
 | 139 | 449 | Danielle Rhoades |
 | 140 | 448 | Karon Griffin |
 | 141 | 445 | Shannon Matthew Byers |
-| 142 | 445 | Kristie McFarland |
-| 143 | 445 | Jacqueline Rodriguez |
+| 142 | 445 | Jacqueline Rodriguez |
+| 143 | 445 | Kristie McFarland |
 | 144 | 438 | Leah Barnett |
 | 145 | 435 | Daryn Elliott |
 | 146 | 435 | Michelle |
@@ -180,8 +180,8 @@
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
 | 174 | 371 | Michael Nowogorski |
-| 175 | 370 | Danielle Allison |
-| 176 | 370 | Santeria Trece Candles |
+| 175 | 370 | Santeria Trece Candles |
+| 176 | 370 | Danielle Allison |
 | 177 | 368 | Stephanie Woods |
 | 178 | 366 | Dapper Snap |
 | 179 | 366 | Adrian Marcel Pate |
@@ -204,8 +204,8 @@
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
 | 198 | 330 | Rebecca Funderburk Kirby |
-| 199 | 324 | Sissy Lowery Davis |
-| 200 | 324 | Kristal C Lee |
+| 199 | 324 | Kristal C Lee |
+| 200 | 324 | Sissy Lowery Davis |
 | 201 | 323 | Demetrious Shaw Sr. |
 | 202 | 320 | Or Reznitsky |
 | 203 | 317 | Ashley Tookes |
@@ -280,8 +280,8 @@
 | 272 | 232 | Donna |
 | 273 | 227 | Krystal Gerstberger |
 | 274 | 227 | Meowsa |
-| 275 | 225 | Stephanie Hill |
-| 276 | 225 | Dirtgirl27 |
+| 275 | 225 | Dirtgirl27 |
+| 276 | 225 | Stephanie Hill |
 | 277 | 225 | Steffi Chris Dacones |
 | 278 | 224 | Quirky Dropzone |
 | 279 | 221 | Vaners |

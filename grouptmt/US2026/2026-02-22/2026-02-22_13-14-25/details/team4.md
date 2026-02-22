@@ -164,8 +164,8 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Leah Kutz Zirbel |
-| 160 | 249 | Chris Bernstein |
+| 159 | 249 | Chris Bernstein |
+| 160 | 249 | Leah Kutz Zirbel |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | Twisty Cascadezone |
 | 163 | 244 | J-Rizzle |
@@ -179,8 +179,8 @@
 | 171 | 223 | Antony Dwayne Beasley |
 | 172 | 221 | PurpleMoonMa |
 | 173 | 221 | Rheanda Weaskus |
-| 174 | 217 | Chaz Duncan |
-| 175 | 217 | Kim Hunt |
+| 174 | 217 | Kim Hunt |
+| 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
 | 178 | 213 | Sarah Neathery |
@@ -192,8 +192,8 @@
 | 184 | 209 | Rafael Valentin |
 | 185 | 207 | Chirpy Basepiece |
 | 186 | 205 | Kathy Brookins |
-| 187 | 204 | Carlos Ramirez |
-| 188 | 204 | Jen Caldwell |
+| 187 | 204 | Jen Caldwell |
+| 188 | 204 | Carlos Ramirez |
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | TRCuse |
 | 191 | 202 | Patron Anderson |
@@ -218,21 +218,21 @@
 | 210 | 191 | Sam Bishop |
 | 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
-| 213 | 189 | Stacey Stano |
-| 214 | 189 | Calvin Dennis |
-| 215 | 189 | Dihcheese444 |
+| 213 | 189 | Dihcheese444 |
+| 214 | 189 | Stacey Stano |
+| 215 | 189 | Calvin Dennis |
 | 216 | 189 | Joanna |
 | 217 | 188 | Andria Lynn |
 | 218 | 187 | blockstar |
 | 219 | 186 | Holly |
 | 220 | 185 | Lindsey Gonzalez |
 | 221 | 185 | Laura Hosford |
-| 222 | 184 | Lauren Lamb |
-| 223 | 184 | Ak Jones |
-| 224 | 181 | Jackie Marie |
-| 225 | 181 | Carter Jones |
-| 226 | 180 | Googenheim |
-| 227 | 180 | Orchislactea |
+| 222 | 184 | Ak Jones |
+| 223 | 184 | Lauren Lamb |
+| 224 | 181 | Carter Jones |
+| 225 | 181 | Jackie Marie |
+| 226 | 180 | Orchislactea |
+| 227 | 180 | Googenheim |
 | 228 | 179 | TinyLegoRose |
 | 229 | 175 | Lorena Guerrero-Barron |
 | 230 | 174 | JPW |
@@ -261,8 +261,8 @@
 | 253 | 157 | Bethany Ison |
 | 254 | 156 | Ultramarine |
 | 255 | 155 | AyeKay |
-| 256 | 154 | Allen Lloyd |
-| 257 | 154 | Zany Shatterer |
+| 256 | 154 | Zany Shatterer |
+| 257 | 154 | Allen Lloyd |
 | 258 | 153 | Tina Martinez |
 | 259 | 153 | Empress Oasis |
 | 260 | 153 | Lush Linkfall |
@@ -274,8 +274,8 @@
 | 266 | 150 | Brandon Link |
 | 267 | 150 | Jared Gutwein |
 | 268 | 149 | Shainne Brewer |
-| 269 | 148 | Ruby Khalisadar |
-| 270 | 148 | Nubian1 |
+| 269 | 148 | Nubian1 |
+| 270 | 148 | Ruby Khalisadar |
 | 271 | 148 | Cranky Rollpiece |
 | 272 | 148 | Janita Parrish |
 | 273 | 147 | B Renee Desjardin |

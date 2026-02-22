@@ -259,8 +259,8 @@
 | 251 | 783 | Lisa Ongtowasruk |
 | 252 | 778 | Desire Rice |
 | 253 | 778 | Mischelle Clay |
-| 254 | 777 | Jessicah Myers |
-| 255 | 777 | Tesha Oldaker |
+| 254 | 777 | Tesha Oldaker |
+| 255 | 777 | Jessicah Myers |
 | 256 | 772 | Cherica Taylor |
 | 257 | 772 | William Hunt |
 | 258 | 772 | Sam Joe |
@@ -461,8 +461,8 @@
 | 453 | 489 | Osun Anuket Esu |
 | 454 | 489 | Cassie Mercer |
 | 455 | 488 | Christina Wsn |
-| 456 | 487 | Morgan Easter |
-| 457 | 487 | MrsCandyfine As Wine Truss |
+| 456 | 487 | MrsCandyfine As Wine Truss |
+| 457 | 487 | Morgan Easter |
 | 458 | 485 | Mamachelle Eisweirth |
 | 459 | 485 | Dapper Dasher |
 | 460 | 485 | Ann Matzkanin |
@@ -674,8 +674,8 @@
 | 666 | 350 | Fi Ne |
 | 667 | 350 | Maria Hammett |
 | 668 | 350 | Kyla Louise |
-| 669 | 348 | Richard Horton |
-| 670 | 348 | Peppy Snapfall |
+| 669 | 348 | Peppy Snapfall |
+| 670 | 348 | Richard Horton |
 | 671 | 348 | Kelly Meredeith |
 | 672 | 347 | Zesty Pivot |
 | 673 | 347 | CC |
@@ -697,8 +697,8 @@
 | 689 | 336 | Swanky Columnbuilder |
 | 690 | 336 | bru |
 | 691 | 336 | Austin Wilson |
-| 692 | 335 | Brooke Leigh Strube |
-| 693 | 335 | Alexandrea |
+| 692 | 335 | Alexandrea |
+| 693 | 335 | Brooke Leigh Strube |
 | 694 | 335 | Maria Louise |
 | 695 | 334 | Melissa James |
 | 696 | 333 | Adrian Benitez |
@@ -812,8 +812,8 @@
 | 804 | 285 | Court |
 | 805 | 284 | Bing |
 | 806 | 284 | Candice Mack |
-| 807 | 284 | Hillary Franklin |
-| 808 | 284 | Alison Emmons |
+| 807 | 284 | Alison Emmons |
+| 808 | 284 | Hillary Franklin |
 | 809 | 282 | Nutty Slice |
 | 810 | 281 | Amy McManus |
 | 811 | 281 | Anthony |
