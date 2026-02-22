@@ -56,14 +56,14 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -127,14 +127,14 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | Justin Hannigan |
-| 123 | 296 | HastyGrabber |
+| 122 | 296 | HastyGrabber |
+| 123 | 296 | Justin Hannigan |
 | 124 | 294 | Kesha Brady |
 | 125 | 294 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
-| 128 | 286 | shark tato |
-| 129 | 286 | Daria Rycewicz |
+| 128 | 286 | Daria Rycewicz |
+| 129 | 286 | shark tato |
 | 130 | 283 | Brittney Orengo |
 | 131 | 281 | Meagan Nicole |
 | 132 | 278 | Carrie Brian |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
 | 158 | 228 | Joeliecea Cobb |
 | 159 | 227 | Swanky Fitline |
@@ -175,10 +175,10 @@
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
-| 170 | 215 | Ren Mc |
-| 171 | 215 | Jessica Bohlken |
-| 172 | 213 | Sarah Neathery |
-| 173 | 213 | Jason Allen |
+| 170 | 215 | Jessica Bohlken |
+| 171 | 215 | Ren Mc |
+| 172 | 213 | Jason Allen |
+| 173 | 213 | Sarah Neathery |
 | 174 | 212 | Mike Solo |
 | 175 | 211 | Jenna McGeorge |
 | 176 | 210 | Zethra Prenisha Rahming |
@@ -201,12 +201,12 @@
 | 193 | 195 | 中山成巳 |
 | 194 | 194 | Zany Twisterfit |
 | 195 | 192 | Shauna Havard |
-| 196 | 191 | Sam Bishop |
-| 197 | 191 | Klo |
-| 198 | 190 | Alan George LaRage |
-| 199 | 190 | Cheery Risebuilder |
-| 200 | 189 | Calvin Dennis |
-| 201 | 189 | Stacey Stano |
+| 196 | 191 | Klo |
+| 197 | 191 | Sam Bishop |
+| 198 | 190 | Cheery Risebuilder |
+| 199 | 190 | Alan George LaRage |
+| 200 | 189 | Stacey Stano |
+| 201 | 189 | Calvin Dennis |
 | 202 | 188 | Andria Lynn |
 | 203 | 186 | Holly |
 | 204 | 185 | Nikki Rae Gordon |
@@ -219,8 +219,8 @@
 | 211 | 179 | blockstar |
 | 212 | 179 | TinyLegoRose |
 | 213 | 175 | Lorena Guerrero-Barron |
-| 214 | 174 | JPW |
-| 215 | 174 | Rio Rocha |
+| 214 | 174 | Rio Rocha |
+| 215 | 174 | JPW |
 | 216 | 172 | Gilles Lanctot |
 | 217 | 171 | Autumn Kumzi |
 | 218 | 168 | Lindsey Gonzalez |
@@ -251,8 +251,8 @@
 | 243 | 155 | AyeKay |
 | 244 | 154 | Zany Shatterer |
 | 245 | 153 | Empress Oasis |
-| 246 | 152 | Faja |
-| 247 | 152 | Austin Owens |
+| 246 | 152 | Austin Owens |
+| 247 | 152 | Faja |
 | 248 | 151 | Joseph Pace |
 | 249 | 149 | Shainne Brewer |
 | 250 | 149 | Tanner Lund |
@@ -262,8 +262,8 @@
 | 254 | 147 | Jay28 |
 | 255 | 147 | B Renee Desjardin |
 | 256 | 147 | Jared Gutwein |
-| 257 | 145 | Mimi |
-| 258 | 145 | Sandra Safford |
+| 257 | 145 | Sandra Safford |
+| 258 | 145 | Mimi |
 | 259 | 144 | Sticherella |
 | 260 | 143 | Dennis Bradley |
 | 261 | 143 | Asher |
@@ -407,9 +407,9 @@
 | 399 | 101 | Saulc1991 |
 | 400 | 101 | wombat |
 | 401 | 101 | Nick Horn |
-| 402 | 100 | Marcus TheeyoungWoe Gilmore |
-| 403 | 100 | Sallie Sanborn |
-| 404 | 100 | Rico |
+| 402 | 100 | Rico |
+| 403 | 100 | Marcus TheeyoungWoe Gilmore |
+| 404 | 100 | Sallie Sanborn |
 | 405 | 99 | Dapper Frame |
 | 406 | 98 | Hyper Builder |
 | 407 | 98 | Squeezy Pearsall |

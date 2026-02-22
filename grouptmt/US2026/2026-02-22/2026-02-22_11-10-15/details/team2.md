@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Dee |
-| 301 | 679 | Brenda Utphall |
+| 300 | 679 | Brenda Utphall |
+| 301 | 679 | Dee |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Santana Miyagi |
-| 372 | 554 | Rachael Senard |
+| 371 | 554 | Rachael Senard |
+| 372 | 554 | Santana Miyagi |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 552 | Michelle Fields |
 | 375 | 550 | Nashu |
@@ -532,8 +532,8 @@
 | 524 | 424 | Mia Muse Best |
 | 525 | 423 | Sam |
 | 526 | 422 | coleksquad |
-| 527 | 421 | Vonceial Boone |
-| 528 | 421 | SwampRebel |
+| 527 | 421 | SwampRebel |
+| 528 | 421 | Vonceial Boone |
 | 529 | 420 | LaWanda Powell |
 | 530 | 419 | Pocho Zavala |
 | 531 | 419 | Josh Dill |
@@ -704,8 +704,8 @@
 | 696 | 326 | Angela Murgia-Owen |
 | 697 | 325 | Justin Hines |
 | 698 | 325 | Mike73 |
-| 699 | 324 | Dale Haanpaa |
-| 700 | 324 | Tasia Stinson |
+| 699 | 324 | Tasia Stinson |
+| 700 | 324 | Dale Haanpaa |
 | 701 | 323 | Kyla Louise |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
@@ -716,16 +716,16 @@
 | 708 | 320 | Mary Boss |
 | 709 | 319 | RetroLemur |
 | 710 | 318 | Jennifer Mahon |
-| 711 | 317 | Zombi3 |
-| 712 | 317 | Ashlyn Berner |
+| 711 | 317 | Ashlyn Berner |
+| 712 | 317 | Zombi3 |
 | 713 | 317 | Aireka Roman |
 | 714 | 316 | Jenn Marie |
 | 715 | 316 | Epic Spinfit |
 | 716 | 316 | Johanna Massaro |
 | 717 | 314 | Amanda West |
 | 718 | 314 | Twisty Tetriblast |
-| 719 | 313 | Natasha Edmonds |
-| 720 | 313 | Marina Linda |
+| 719 | 313 | Marina Linda |
+| 720 | 313 | Natasha Edmonds |
 | 721 | 313 | Snippy Block |
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
@@ -785,8 +785,8 @@
 | 777 | 289 | Ryan Chan |
 | 778 | 288 | thranduil |
 | 779 | 288 | Ashley Criner |
-| 780 | 288 | Samantha Angelo |
-| 781 | 288 | Jenna Nance |
+| 780 | 288 | Jenna Nance |
+| 781 | 288 | Samantha Angelo |
 | 782 | 287 | Toni Roberson |
 | 783 | 287 | N00D3S |
 | 784 | 287 | Epic Stackzone |
@@ -894,8 +894,8 @@
 | 886 | 258 | Kara Tolbert |
 | 887 | 258 | Tee Jaleesa |
 | 888 | 257 | Mama T |
-| 889 | 257 | Jackie Jackie Lee |
-| 890 | 257 | Ys Muhammed |
+| 889 | 257 | Ys Muhammed |
+| 890 | 257 | Jackie Jackie Lee |
 | 891 | 257 | Queen |
 | 892 | 256 | Slinky Racker |
 | 893 | 256 | Gursharan Sandhu |
@@ -958,8 +958,8 @@
 | 950 | 240 | Renee Bowers |
 | 951 | 239 | Shilo Anderson |
 | 952 | 239 | Daring Matchfit |
-| 953 | 239 | AsnPryBoy83 |
-| 954 | 239 | Joel Rosado |
+| 953 | 239 | Joel Rosado |
+| 954 | 239 | AsnPryBoy83 |
 | 955 | 239 | Amy John Mills |
 | 956 | 238 | Pfc Monei Rivera |
 | 957 | 238 | SwifftFox |
@@ -1190,8 +1190,8 @@
 | 1182 | 192 | Nicole Sanqui |
 | 1183 | 191 | Samuel Labruno |
 | 1184 | 191 | Netty |
-| 1185 | 191 | Cherry |
-| 1186 | 191 | Val Pal |
+| 1185 | 191 | Val Pal |
+| 1186 | 191 | Cherry |
 | 1187 | 190 | Lola |
 | 1188 | 190 | Jessica Kaye DeAguero |
 | 1189 | 190 | Lucero Ramirez |

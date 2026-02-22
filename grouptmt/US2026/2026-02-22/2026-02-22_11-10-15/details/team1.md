@@ -112,16 +112,16 @@
 | 104 | 344 | Bhelle Sumile |
 | 105 | 342 | Brenda Stewart |
 | 106 | 341 | Nick R Montague |
-| 107 | 333 | Gracie |
-| 108 | 333 | phrmblk24 |
+| 107 | 333 | phrmblk24 |
+| 108 | 333 | Gracie |
 | 109 | 333 | Brandi Huntington |
 | 110 | 332 | Luciano Moreira |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -214,8 +214,8 @@
 | 206 | 193 | Michael |
 | 207 | 193 | Lachelle Dillon |
 | 208 | 192 | Alenoush Karimian |
-| 209 | 191 | Shanae Grant |
-| 210 | 191 | Diane Byrd |
+| 209 | 191 | Diane Byrd |
+| 210 | 191 | Shanae Grant |
 | 211 | 190 | Thorne Shumate |
 | 212 | 190 | Sweetts |
 | 213 | 189 | Veronica Eve |
@@ -340,12 +340,12 @@
 | 332 | 121 | .running. |
 | 333 | 121 | Jacob Shaddock |
 | 334 | 121 | John Ramirez |
-| 335 | 121 | Jacob Shaddock |
+| 335 | 121 | Pauline Cortez |
 | 336 | 120 | Shiny Rotate |
 | 337 | 119 | Joe Coon |
 | 338 | 118 | Garcia Bailey |
-| 339 | 118 | Kerry Lee Powell |
-| 340 | 118 | Snappy Brickbuilder |
+| 339 | 118 | Snappy Brickbuilder |
+| 340 | 118 | Kerry Lee Powell |
 | 341 | 117 | Bob |
 | 342 | 117 | Beazel75 |
 | 343 | 117 | Brad MG |
@@ -376,8 +376,8 @@
 | 368 | 108 | Owicked1 |
 | 369 | 108 | Nathan Sealander |
 | 370 | 107 | Colleen Pinette |
-| 371 | 107 | MIKOZ |
-| 372 | 107 | sent2bless34 |
+| 371 | 107 | sent2bless34 |
+| 372 | 107 | MIKOZ |
 | 373 | 106 | Josh Smith |
 | 374 | 106 | Bloknboy |
 | 375 | 105 | Eddie Dillon |
@@ -395,7 +395,7 @@
 | 387 | 101 | Mizzledagod |
 | 388 | 101 | Liliana Pena |
 | 389 | 101 | Mighty Shatterfit |
-| 390 | 100 | Jessica Weed |
+| 390 | 100 | Brandi Egbert |
 | 391 | 100 | Jason Philp |
 | 392 | 100 | Margie Olivas |
 | 393 | 100 | Jessica Weed |
