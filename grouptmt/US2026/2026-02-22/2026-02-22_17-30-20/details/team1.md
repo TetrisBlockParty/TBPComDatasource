@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Hyper |
-| 85 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Lexuriuos Lifestlye |
+| 85 | 444 | Hyper |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -117,8 +117,8 @@
 | 109 | 379 | Kimmie Kimms |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
-| 112 | 364 | Ly Phethmany |
-| 113 | 364 | Shauna Loe |
+| 112 | 364 | Shauna Loe |
+| 113 | 364 | Ly Phethmany |
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |
@@ -139,16 +139,16 @@
 | 131 | 328 | Fmp |
 | 132 | 326 | Monica Donato |
 | 133 | 325 | Jennifer Hardman |
-| 134 | 321 | Tanya Carpenter-Reynolds |
-| 135 | 321 | Maria C. Hernandez |
+| 134 | 321 | Maria C. Hernandez |
+| 135 | 321 | Tanya Carpenter-Reynolds |
 | 136 | 318 | Jessica Sheehan |
 | 137 | 316 | Dizzy Party |
 | 138 | 313 | Virginia Gray Floyd |
-| 139 | 308 | Erin Hodges Plumb |
-| 140 | 308 | Sharon Reynolds |
+| 139 | 308 | Sharon Reynolds |
+| 140 | 308 | Erin Hodges Plumb |
 | 141 | 307 | Kimberly Garcia |
-| 142 | 306 | Happy Basegrid |
-| 143 | 306 | Bloknboy |
+| 142 | 306 | Bloknboy |
+| 143 | 306 | Happy Basegrid |
 | 144 | 304 | Nicole Roseberry Weber |
 | 145 | 303 | Chelsea Dahlquist |
 | 146 | 301 | Lehrin Maria |
@@ -157,8 +157,8 @@
 | 149 | 293 | Sarah Roberts |
 | 150 | 292 | David Lutcher |
 | 151 | 285 | Ananda Mendez |
-| 152 | 284 | Emily Adelaide Wheatley |
-| 153 | 284 | Rachael |
+| 152 | 284 | Rachael |
+| 153 | 284 | Emily Adelaide Wheatley |
 | 154 | 283 | Franswa |
 | 155 | 282 | Snippy Wipebuilder |
 | 156 | 282 | Cool Shiftsnap |
@@ -299,7 +299,7 @@
 | 291 | 173 | Rico Rico |
 | 292 | 171 | Chris65 |
 | 293 | 171 | Greg Premoe |
-| 294 | 170 | Tina Englert |
+| 294 | 170 | Наталья Солоид |
 | 295 | 170 | Spunky Builderpiece |
 | 296 | 170 | Tina Englert |
 | 297 | 169 | Allena Craft |

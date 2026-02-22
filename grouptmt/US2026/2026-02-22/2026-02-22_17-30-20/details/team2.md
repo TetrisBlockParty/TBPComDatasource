@@ -295,8 +295,8 @@
 | 287 | 787 | Laura McCarthey |
 | 288 | 783 | Lisa Ongtowasruk |
 | 289 | 781 | Angie Bolton Workman |
-| 290 | 777 | Jessicah Myers |
-| 291 | 777 | Tesha Oldaker |
+| 290 | 777 | Tesha Oldaker |
+| 291 | 777 | Jessicah Myers |
 | 292 | 777 | Samantha Jo |
 | 293 | 772 | Kristin Gower |
 | 294 | 768 | Michele Morgan |
@@ -370,8 +370,8 @@
 | 362 | 643 | Hoppy Brickmatch |
 | 363 | 642 | Cassie Maynard |
 | 364 | 641 | Vonceial Boone |
-| 365 | 640 | Kara Gillen |
-| 366 | 640 | BYM4L |
+| 365 | 640 | BYM4L |
+| 366 | 640 | Kara Gillen |
 | 367 | 639 | Crystie Hicks |
 | 368 | 639 | Rebecca Miller |
 | 369 | 634 | Gary Stash |
@@ -431,15 +431,15 @@
 | 423 | 565 | Steve Man |
 | 424 | 565 | Jaycee |
 | 425 | 564 | Kimmy Newman |
-| 426 | 563 | Irene Jones |
-| 427 | 563 | snkylnk |
+| 426 | 563 | snkylnk |
+| 427 | 563 | Irene Jones |
 | 428 | 559 | Blacc Blac |
 | 429 | 558 | Libby Hicks |
 | 430 | 556 | Slip |
 | 431 | 556 | AISlop |
 | 432 | 554 | Tra Barnum |
-| 433 | 554 | Rachael Senard |
-| 434 | 554 | Santana Miyagi |
+| 433 | 554 | Santana Miyagi |
+| 434 | 554 | Rachael Senard |
 | 435 | 551 | Julay |
 | 436 | 549 | Frisky Clearpiece |
 | 437 | 549 | Kaylee McCafferty |
@@ -478,10 +478,10 @@
 | 470 | 514 | Sarah Berger |
 | 471 | 514 | Karen Posadas Centeno |
 | 472 | 512 | Leslie Jorgenson |
-| 473 | 511 | Laura Mclean |
-| 474 | 511 | Adam Simmons |
-| 475 | 509 | Kelli Wells |
-| 476 | 509 | Jordan Kaiser |
+| 473 | 511 | Adam Simmons |
+| 474 | 511 | Laura Mclean |
+| 475 | 509 | Jordan Kaiser |
+| 476 | 509 | Kelli Wells |
 | 477 | 507 | Magic steve |
 | 478 | 507 | Kitybox |
 | 479 | 502 | Michael Artis |
@@ -503,8 +503,8 @@
 | 495 | 491 | Victor Obiakarije |
 | 496 | 491 | Michael Buckner |
 | 497 | 488 | Christina Wsn |
-| 498 | 487 | Morgan Easter |
-| 499 | 487 | MrsCandyfine As Wine Truss |
+| 498 | 487 | MrsCandyfine As Wine Truss |
+| 499 | 487 | Morgan Easter |
 | 500 | 485 | Mamachelle Eisweirth |
 | 501 | 484 | Wendy Unsain |
 | 502 | 484 | Street Sweeper |
@@ -625,8 +625,8 @@
 | 617 | 410 | Belle |
 | 618 | 409 | Alexis Richardson |
 | 619 | 409 | Cleo Sims |
-| 620 | 408 | Jessica Hughes |
-| 621 | 408 | Stefanie Zonzini-Gagliardi |
+| 620 | 408 | Stefanie Zonzini-Gagliardi |
+| 621 | 408 | Jessica Hughes |
 | 622 | 408 | Brandon Jones |
 | 623 | 407 | Tipsy Filler |
 | 624 | 407 | Jasmine Kenney |

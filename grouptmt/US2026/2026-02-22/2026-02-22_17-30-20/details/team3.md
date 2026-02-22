@@ -127,8 +127,8 @@
 | 119 | 574 | Morgan Martinez |
 | 120 | 568 | Rachael McClain Owens |
 | 121 | 566 | Dolores Falco |
-| 122 | 562 | Louise Stacy Sisson |
-| 123 | 562 | Dave Herzog |
+| 122 | 562 | Dave Herzog |
+| 123 | 562 | Louise Stacy Sisson |
 | 124 | 550 | Nicole Myers |
 | 125 | 546 | Domo Washington |
 | 126 | 533 | Alaina Lee |
@@ -187,8 +187,8 @@
 | 179 | 398 | Sherry Ogden |
 | 180 | 397 | Annie Déè |
 | 181 | 393 | Fallorina Susana |
-| 182 | 391 | Calista Jo Dickson |
-| 183 | 391 | Sarah Cowan Burgos |
+| 182 | 391 | Sarah Cowan Burgos |
+| 183 | 391 | Calista Jo Dickson |
 | 184 | 391 | Araceli Parra |
 | 185 | 391 | Dapper Snap |
 | 186 | 390 | Chasity |
@@ -362,8 +362,8 @@
 | 354 | 206 | Tammy Rosenberry |
 | 355 | 205 | Rachel Napper |
 | 356 | 204 | Cesar Barraza |
-| 357 | 202 | Melanie Sherwood |
-| 358 | 202 | Tipsy Zonebuilder |
+| 357 | 202 | Tipsy Zonebuilder |
+| 358 | 202 | Melanie Sherwood |
 | 359 | 201 | Hyper Matchzone |
 | 360 | 200 | Sharisse Baltimore |
 | 361 | 200 | glichmod |

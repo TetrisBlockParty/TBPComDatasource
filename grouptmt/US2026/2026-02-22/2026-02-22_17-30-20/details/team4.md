@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1304 | Alicia Bass |
 | 16 | 1292 | Roger Coulter |
@@ -69,8 +69,8 @@
 | 61 | 688 | Avy Absol |
 | 62 | 671 | Kimyatta Cavin |
 | 63 | 671 | D3TROITB0RN74 |
-| 64 | 664 | loulou |
-| 65 | 664 | Valerie Roberts |
+| 64 | 664 | Valerie Roberts |
+| 65 | 664 | loulou |
 | 66 | 659 | Jonathan Kimbrough |
 | 67 | 654 | Chilly Line |
 | 68 | 647 | KM8 |
@@ -131,8 +131,8 @@
 | 123 | 353 | Tyler Terrific |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
-| 126 | 338 | ThaEviLJeNiuZ |
-| 127 | 338 | Lucas J Sutton |
+| 126 | 338 | Lucas J Sutton |
+| 127 | 338 | ThaEviLJeNiuZ |
 | 128 | 332 | Desi Desporte |
 | 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
@@ -258,8 +258,8 @@
 | 250 | 184 | Ak Jones |
 | 251 | 184 | Lauren Lamb |
 | 252 | 182 | TinyLegoRose |
-| 253 | 181 | Jackie Marie |
-| 254 | 181 | Carter Jones |
+| 253 | 181 | Carter Jones |
+| 254 | 181 | Jackie Marie |
 | 255 | 180 | Orchislactea |
 | 256 | 179 | Christina Black |
 | 257 | 179 | AyeKay |
