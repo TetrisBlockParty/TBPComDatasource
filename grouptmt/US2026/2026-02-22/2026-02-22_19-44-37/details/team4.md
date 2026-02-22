@@ -72,11 +72,11 @@
 | 64 | 677 | Chilly Line |
 | 65 | 675 | D3TROITB0RN74 |
 | 66 | 671 | Kimyatta Cavin |
-| 67 | 664 | Valerie Roberts |
-| 68 | 664 | loulou |
+| 67 | 664 | loulou |
+| 68 | 664 | Valerie Roberts |
 | 69 | 659 | Jonathan Kimbrough |
-| 70 | 647 | KM8 |
-| 71 | 647 | Shauna Havard |
+| 70 | 647 | Shauna Havard |
+| 71 | 647 | KM8 |
 | 72 | 646 | Jacqueline Helm |
 | 73 | 641 | Carolyn Wallace |
 | 74 | 638 | Julian Garcia |
@@ -129,8 +129,8 @@
 | 121 | 400 | Ericca Eldridge |
 | 122 | 398 | Dizzy Tiley |
 | 123 | 393 | Carlton Unfiltered |
-| 124 | 391 | Ramel Rhodes |
-| 125 | 391 | Austin Owens |
+| 124 | 391 | Austin Owens |
+| 125 | 391 | Ramel Rhodes |
 | 126 | 377 | Carrie Brian |
 | 127 | 373 | Joseph Guthrie |
 | 128 | 369 | Nope Young |
@@ -211,8 +211,8 @@
 | 203 | 244 | Twisty Cascadezone |
 | 204 | 243 | Jose Dejesus |
 | 205 | 243 | Mr. Party |
-| 206 | 241 | Kristina Black |
-| 207 | 241 | Allen Lloyd |
+| 206 | 241 | Allen Lloyd |
+| 207 | 241 | Kristina Black |
 | 208 | 240 | Zethra Prenisha Rahming |
 | 209 | 238 | JPW |
 | 210 | 237 | Jen Caldwell |

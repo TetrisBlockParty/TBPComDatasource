@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -229,8 +229,8 @@
 | 221 | 350 | Kammy Hill |
 | 222 | 349 | Amanda J. Mcneil-Anderson |
 | 223 | 348 | Kristal C Lee |
-| 224 | 347 | Philip Rock |
-| 225 | 347 | Trisha Balmer |
+| 224 | 347 | Trisha Balmer |
+| 225 | 347 | Philip Rock |
 | 226 | 346 | Tamara Deherrera |
 | 227 | 344 | Roary Danner |
 | 228 | 343 | Ashley Raines |
@@ -241,8 +241,8 @@
 | 233 | 340 | Ammmmmmy |
 | 234 | 338 | Gumbo |
 | 235 | 332 | Bmo |
-| 236 | 330 | victory |
-| 237 | 330 | Rebecca Funderburk Kirby |
+| 236 | 330 | Rebecca Funderburk Kirby |
+| 237 | 330 | victory |
 | 238 | 326 | Dee Franklin |
 | 239 | 324 | Sissy Lowery Davis |
 | 240 | 323 | Demetrious Shaw Sr. |
@@ -448,8 +448,8 @@
 | 440 | 174 | Lesley Perez |
 | 441 | 174 | Sierra Spencer |
 | 442 | 173 | Blair Erin Waite |
-| 443 | 173 | MizzMonick Smith |
-| 444 | 173 | Joshua David Huie |
+| 443 | 173 | Joshua David Huie |
+| 444 | 173 | MizzMonick Smith |
 | 445 | 172 | Jl |
 | 446 | 172 | Miranda Taylor |
 | 447 | 171 | Jul |
@@ -527,11 +527,11 @@
 | 519 | 153 | Stefanie LaPointe |
 | 520 | 153 | Breanna Marsden |
 | 521 | 153 | Autumn Phillimore |
-| 522 | 152 | lashanda |
-| 523 | 152 | Shiny Zonebuilder |
-| 524 | 152 | Elisha L Allman |
-| 525 | 151 | Carol Cain Thurman |
-| 526 | 151 | Jumpy Curvebuilder |
+| 522 | 152 | Shiny Zonebuilder |
+| 523 | 152 | Elisha L Allman |
+| 524 | 152 | lashanda |
+| 525 | 151 | Jumpy Curvebuilder |
+| 526 | 151 | Carol Cain Thurman |
 | 527 | 151 | Cheery Brickster |
 | 528 | 150 | Sassy Brickmatch |
 | 529 | 150 | Steph Arcari |

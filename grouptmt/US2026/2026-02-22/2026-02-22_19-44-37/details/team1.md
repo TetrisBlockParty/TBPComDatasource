@@ -130,8 +130,8 @@
 | 122 | 366 | David Miller |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
-| 125 | 360 | phrmblk24 |
-| 126 | 360 | Wisa |
+| 125 | 360 | Wisa |
+| 126 | 360 | phrmblk24 |
 | 127 | 359 | Chirpy Smasher |
 | 128 | 358 | Sweet Baker |
 | 129 | 357 | Amanda Johnson Huffman |
@@ -224,8 +224,8 @@
 | 216 | 231 | Sarah Somers Gray |
 | 217 | 231 | Tyler Hertzog |
 | 218 | 230 | BigWeenie69 |
-| 219 | 228 | Cheeky Pop |
-| 220 | 228 | Giddy Cascade |
+| 219 | 228 | Giddy Cascade |
+| 220 | 228 | Cheeky Pop |
 | 221 | 226 | Michael |
 | 222 | 225 | Jessie Lynn |
 | 223 | 225 | Bindi |

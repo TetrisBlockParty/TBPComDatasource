@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -239,8 +239,8 @@
 | 231 | 972 | Juliana Marques Do Nascimento Gordy |
 | 232 | 965 | Maria Escobar |
 | 233 | 957 | Crystal Hoffman |
-| 234 | 957 | Keri Womack |
-| 235 | 957 | Block Master |
+| 234 | 957 | Block Master |
+| 235 | 957 | Keri Womack |
 | 236 | 955 | Angela Bonquiqui Dinish |
 | 237 | 951 | Cynthia Ward |
 | 238 | 944 | Kimberly Hauck-Rausch |
@@ -500,8 +500,8 @@
 | 492 | 520 | Maddy Petersen |
 | 493 | 519 | Rob Brown |
 | 494 | 517 | Sarah Berger |
-| 495 | 517 | Porsche' Nicole |
-| 496 | 517 | Brenna Ann |
+| 495 | 517 | Brenna Ann |
+| 496 | 517 | Porsche' Nicole |
 | 497 | 516 | Diamond Scott |
 | 498 | 514 | Karen Posadas Centeno |
 | 499 | 512 | Leslie Jorgenson |
@@ -542,7 +542,7 @@
 | 534 | 482 | Kathleen Driskell |
 | 535 | 481 | Klee |
 | 536 | 481 | Anthony Huebel |
-| 537 | 481 | Klee |
+| 537 | 481 | Quirky Twistline |
 | 538 | 480 | Ryan Meilleur |
 | 539 | 480 | Dar |
 | 540 | 479 | Amanda Ferrell |
@@ -733,9 +733,9 @@
 | 725 | 373 | Tash Bell |
 | 726 | 373 | Ashley Marie |
 | 727 | 371 | Mandi Marie Smith |
-| 728 | 370 | Sassy Linkbuilder |
+| 728 | 370 | Brave Gridpiece |
 | 729 | 370 | Loony Basepiece |
-| 730 | 370 | Brave Gridpiece |
+| 730 | 370 | Sassy Linkbuilder |
 | 731 | 370 | Mandy Kachenmeister |
 | 732 | 369 | Lewis Sturgeon |
 | 733 | 369 | Amanda Canterbury |
