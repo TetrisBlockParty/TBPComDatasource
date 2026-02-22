@@ -103,15 +103,15 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Natasha Jones |
-| 99 | 582 | Jay Horn |
+| 98 | 582 | Jay Horn |
+| 99 | 582 | Natasha Jones |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Dave Herzog |
-| 106 | 562 | Louise Stacy Sisson |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
+| 105 | 562 | Louise Stacy Sisson |
+| 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 548 | Giddy Drop |
@@ -195,8 +195,8 @@
 | 187 | 343 | Ashley Raines |
 | 188 | 343 | Tamara Deherrera |
 | 189 | 341 | Samantha Lynn |
-| 190 | 338 | Gumbo |
-| 191 | 338 | Leah Barnett |
+| 190 | 338 | Leah Barnett |
+| 191 | 338 | Gumbo |
 | 192 | 332 | Rich LeBlanc |
 | 193 | 332 | Noyb Adam |
 | 194 | 330 | Rebecca Funderburk Kirby |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -273,8 +273,8 @@
 | 265 | 235 | Brenda Schmid Wood |
 | 266 | 235 | Cozy Snaplink |
 | 267 | 234 | Connie Mohler-Fair |
-| 268 | 233 | Ray Lader |
-| 269 | 233 | Josh Borquez |
+| 268 | 233 | Josh Borquez |
+| 269 | 233 | Ray Lader |
 | 270 | 232 | Donna |
 | 271 | 227 | Krystal Gerstberger |
 | 272 | 227 | Meowsa |
@@ -290,8 +290,8 @@
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Desiree Gold |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Salena Whitlock |
-| 332 | 183 | Cesar Barraza |
+| 331 | 183 | Cesar Barraza |
+| 332 | 183 | Salena Whitlock |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -422,8 +422,8 @@
 | 414 | 147 | Funky Jumper |
 | 415 | 146 | Sdot |
 | 416 | 146 | ROODBOY |
-| 417 | 146 | Sara Dunn |
-| 418 | 146 | Wettnippz |
+| 417 | 146 | Wettnippz |
+| 418 | 146 | Sara Dunn |
 | 419 | 144 | Tenisha Semidey |
 | 420 | 144 | Blair Erin Waite |
 | 421 | 144 | Crystal Hine |
@@ -439,12 +439,12 @@
 | 431 | 141 | Reina Roth |
 | 432 | 140 | Jumpy Curvebuilder |
 | 433 | 140 | Alison Baus |
-| 434 | 140 | Boldy Corner |
-| 435 | 140 | Linda Draper |
+| 434 | 140 | Linda Draper |
+| 435 | 140 | Boldy Corner |
 | 436 | 139 | Beppy |
 | 437 | 139 | Paula Little |
-| 438 | 138 | Skinny Baldez |
-| 439 | 138 | Bleu Sun Beams |
+| 438 | 138 | Bleu Sun Beams |
+| 439 | 138 | Skinny Baldez |
 | 440 | 137 | Giggly Brickroll |
 | 441 | 136 | Sabrina Mansfield |
 | 442 | 136 | Stephanie Zahm |

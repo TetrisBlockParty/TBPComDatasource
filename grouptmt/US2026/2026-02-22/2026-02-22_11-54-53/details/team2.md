@@ -175,8 +175,8 @@
 | 167 | 1048 | PsychKIRAtrist |
 | 168 | 1047 | Amy Sayers |
 | 169 | 1045 | Lourisha |
-| 170 | 1043 | Brave Dropmatch |
-| 171 | 1043 | Suki Kaur |
+| 170 | 1043 | Suki Kaur |
+| 171 | 1043 | Brave Dropmatch |
 | 172 | 1035 | Sarah Freitas |
 | 173 | 1024 | Bri Lynn |
 | 174 | 1023 | Brainy Smurf |
@@ -190,8 +190,8 @@
 | 182 | 990 | Amber Shoemaker |
 | 183 | 989 | Teddi Notyalc |
 | 184 | 988 | Maegan Beaule |
-| 185 | 986 | RAEPR05 |
-| 186 | 986 | Poppy Snap |
+| 185 | 986 | Poppy Snap |
+| 186 | 986 | RAEPR05 |
 | 187 | 985 | Taylor Phillips |
 | 188 | 984 | Nika Bee |
 | 189 | 982 | Desiree Harris Rosch |
@@ -309,8 +309,8 @@
 | 301 | 685 | Binyah-Binyah |
 | 302 | 681 | Melissa Holsinger |
 | 303 | 679 | Offonar Facey |
-| 304 | 679 | Kassandra Hunt |
-| 305 | 679 | Brenda Utphall |
+| 304 | 679 | Brenda Utphall |
+| 305 | 679 | Kassandra Hunt |
 | 306 | 678 | Scott Treadway |
 | 307 | 677 | Mema |
 | 308 | 676 | Poldo Ilano |
@@ -330,15 +330,15 @@
 | 322 | 650 | Shiny Rollzone |
 | 323 | 645 | tejas25 |
 | 324 | 643 | Hoppy Brickmatch |
-| 325 | 641 | Joce Lynn |
-| 326 | 641 | Angie Bolton Workman |
+| 325 | 641 | Angie Bolton Workman |
+| 326 | 641 | Joce Lynn |
 | 327 | 640 | BYM4L |
 | 328 | 639 | Crystie Hicks |
 | 329 | 639 | Rebecca Miller |
 | 330 | 635 | Diana Fitzwater |
 | 331 | 631 | Marie Walker |
-| 332 | 627 | Victoria Moore-Smith |
-| 333 | 627 | Allan Wayne Lamia |
+| 332 | 627 | Allan Wayne Lamia |
+| 333 | 627 | Victoria Moore-Smith |
 | 334 | 620 | Brandon Armstrong |
 | 335 | 617 | Leslie Ann Carter |
 | 336 | 613 | Caitlyn Blackwell |
@@ -352,8 +352,8 @@
 | 344 | 602 | KhaosLord |
 | 345 | 602 | Christine Bollig |
 | 346 | 601 | Michele Morgan |
-| 347 | 600 | Demeka Dangerous-kisses Johnson |
-| 348 | 600 | Glitzy Stackzone |
+| 347 | 600 | Glitzy Stackzone |
+| 348 | 600 | Demeka Dangerous-kisses Johnson |
 | 349 | 597 | Steven Marshaun |
 | 350 | 594 | Jojo Momma |
 | 351 | 593 | Tim Dyer |
@@ -448,8 +448,8 @@
 | 440 | 489 | Cassie Mercer |
 | 441 | 489 | Osun Anuket Esu |
 | 442 | 488 | Christina Wsn |
-| 443 | 487 | MrsCandyfine As Wine Truss |
-| 444 | 487 | Morgan Easter |
+| 443 | 487 | Morgan Easter |
+| 444 | 487 | MrsCandyfine As Wine Truss |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
 | 447 | 485 | Dapper Dasher |
@@ -540,8 +540,8 @@
 | 532 | 423 | Sam |
 | 533 | 421 | Vonceial Boone |
 | 534 | 421 | SwampRebel |
-| 535 | 420 | LaWanda Powell |
-| 536 | 420 | Juanita Lyons |
+| 535 | 420 | Juanita Lyons |
+| 536 | 420 | LaWanda Powell |
 | 537 | 419 | Pocho Zavala |
 | 538 | 419 | Josh Dill |
 | 539 | 418 | Véronique Lévesque Sabourin |
@@ -682,8 +682,8 @@
 | 674 | 341 | Daniel Amos |
 | 675 | 341 | Shorty |
 | 676 | 340 | Quirky Twistline |
-| 677 | 339 | Denise Rickman |
-| 678 | 339 | Cynthia Louann Rose |
+| 677 | 339 | Cynthia Louann Rose |
+| 678 | 339 | Denise Rickman |
 | 679 | 338 | Janitta Alvarez |
 | 680 | 337 | Sassy Pattern |
 | 681 | 337 | Savannah Alexander |
@@ -746,12 +746,12 @@
 | 738 | 308 | Claire |
 | 739 | 308 | Sarah block |
 | 740 | 308 | Katie Joy McCombs |
-| 741 | 307 | Peachy Blockbuilder |
-| 742 | 307 | stacey |
+| 741 | 307 | stacey |
+| 742 | 307 | Peachy Blockbuilder |
 | 743 | 306 | Kiorah Blaze |
 | 744 | 305 | Zany Clusterbuilder |
-| 745 | 305 | Narutofreak13 |
-| 746 | 305 | MamaBear11 |
+| 745 | 305 | MamaBear11 |
+| 746 | 305 | Narutofreak13 |
 | 747 | 304 | NFLPITMOM |
 | 748 | 304 | James Smith |
 | 749 | 304 | Melissa McCall |
@@ -773,8 +773,8 @@
 | 765 | 297 | Ashley Robbins |
 | 766 | 296 | Jennifer Darby |
 | 767 | 296 | Frisky Riserbuilder |
-| 768 | 296 | Epic Fitzone |
-| 769 | 296 | Zappy Dropmatch |
+| 768 | 296 | Zappy Dropmatch |
+| 769 | 296 | Epic Fitzone |
 | 770 | 295 | Noel Tarmy |
 | 771 | 294 | Amanda Edwards |
 | 772 | 293 | Ann Marie Davis |
@@ -789,8 +789,8 @@
 | 781 | 289 | Min |
 | 782 | 289 | Ryan Chan |
 | 783 | 288 | thranduil |
-| 784 | 288 | Samantha Angelo |
-| 785 | 288 | Jenna Nance |
+| 784 | 288 | Jenna Nance |
+| 785 | 288 | Samantha Angelo |
 | 786 | 287 | Epic Stackzone |
 | 787 | 287 | N00D3S |
 | 788 | 286 | Kelsey Sullivan |
@@ -927,8 +927,8 @@
 | 919 | 251 | Bold Clusterfit |
 | 920 | 251 | Emoniee Sa'niaya |
 | 921 | 251 | Regina Unruh |
-| 922 | 250 | Kay Stevenson |
-| 923 | 250 | Jay Levy |
+| 922 | 250 | Jay Levy |
+| 923 | 250 | Kay Stevenson |
 | 924 | 250 | Drew Berkelbach |
 | 925 | 249 | Kamilya Rembert |
 | 926 | 249 | Joshua Mullings |

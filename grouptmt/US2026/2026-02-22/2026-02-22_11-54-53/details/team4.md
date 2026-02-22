@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 479 | Amy Suckarieh |
 | 82 | 468 | Shane Kalamata Platoon |
@@ -146,7 +146,7 @@
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
-| 141 | 264 | Dana Scott |
+| 141 | 264 | Girl |
 | 142 | 264 | Epic Curvetile |
 | 143 | 264 | Dana Scott |
 | 144 | 262 | Holly Jolly |
@@ -173,8 +173,8 @@
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
-| 168 | 221 | Rheanda Weaskus |
-| 169 | 221 | PurpleMoonMa |
+| 168 | 221 | PurpleMoonMa |
+| 169 | 221 | Rheanda Weaskus |
 | 170 | 220 | Matt Dell'Olio |
 | 171 | 217 | Chaz Duncan |
 | 172 | 217 | Kim Hunt |
