@@ -89,8 +89,8 @@
 | 81 | 483 | Ryan Lunnin |
 | 82 | 480 | Nancy Green |
 | 83 | 472 | April Carroll |
-| 84 | 471 | Shalene Frederick Autrey |
-| 85 | 471 | Jennifer ManWarren |
+| 84 | 471 | Jennifer ManWarren |
+| 85 | 471 | Shalene Frederick Autrey |
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |

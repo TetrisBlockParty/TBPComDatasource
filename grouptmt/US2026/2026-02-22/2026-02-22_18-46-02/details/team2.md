@@ -489,8 +489,8 @@
 | 481 | 520 | Maddy Petersen |
 | 482 | 519 | Rob Brown |
 | 483 | 517 | Sarah Berger |
-| 484 | 517 | Brenna Ann |
-| 485 | 517 | Porsche' Nicole |
+| 484 | 517 | Porsche' Nicole |
+| 485 | 517 | Brenna Ann |
 | 486 | 516 | Diamond Scott |
 | 487 | 514 | Karen Posadas Centeno |
 | 488 | 512 | Leslie Jorgenson |
@@ -734,8 +734,8 @@
 | 726 | 366 | Courtney Burcham |
 | 727 | 366 | Tash Bell |
 | 728 | 365 | Christina Lewis-Vickers |
-| 729 | 364 | Jessica Galick |
-| 730 | 364 | Shinette Dobson |
+| 729 | 364 | Shinette Dobson |
+| 730 | 364 | Jessica Galick |
 | 731 | 363 | Jes Norris |
 | 732 | 363 | Stephanie Fortune |
 | 733 | 363 | Veronica Stevenson |

@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -196,8 +196,8 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Autum Leigh |
 | 195 | 245 | 23 |
@@ -350,8 +350,8 @@
 | 342 | 142 | Chantilly Laace |
 | 343 | 142 | Nerdy Twisterfit |
 | 344 | 142 | Alexandra Karavias |
-| 345 | 141 | Tony Pavelka |
-| 346 | 141 | Montiette Mcglown |
+| 345 | 141 | Montiette Mcglown |
+| 346 | 141 | Tony Pavelka |
 | 347 | 141 | Kathy Allen |
 | 348 | 141 | Joshua Cuellar |
 | 349 | 141 | Courtney Halleck |

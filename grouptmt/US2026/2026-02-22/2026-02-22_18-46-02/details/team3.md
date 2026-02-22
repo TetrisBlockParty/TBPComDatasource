@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -168,8 +168,8 @@
 | 160 | 447 | FuzzyNavel |
 | 161 | 445 | Jacqueline Rodriguez |
 | 162 | 438 | Valerie Gendron |
-| 163 | 432 | Jenny Hrndz |
-| 164 | 432 | Luciana Braganca Vieira |
+| 163 | 432 | Luciana Braganca Vieira |
+| 164 | 432 | Jenny Hrndz |
 | 165 | 431 | Danielle Balcom |
 | 166 | 430 | Joye Sims Binion |
 | 167 | 430 | Tasha Gillespie |
@@ -194,10 +194,10 @@
 | 186 | 398 | Sherry Ogden |
 | 187 | 397 | Annie Déè |
 | 188 | 393 | Fallorina Susana |
-| 189 | 391 | Dapper Snap |
-| 190 | 391 | Sarah Cowan Burgos |
-| 191 | 391 | Cozy Snaplink |
-| 192 | 391 | Calista Jo Dickson |
+| 189 | 391 | Cozy Snaplink |
+| 190 | 391 | Dapper Snap |
+| 191 | 391 | Calista Jo Dickson |
+| 192 | 391 | Sarah Cowan Burgos |
 | 193 | 390 | Chasity |
 | 194 | 383 | Nicole Flippo |
 | 195 | 382 | Scott Carleton |
@@ -205,8 +205,8 @@
 | 197 | 377 | rosy |
 | 198 | 376 | Loopy Clusterer |
 | 199 | 374 | Darlene McMillan |
-| 200 | 372 | Giddy Twistbuilder |
-| 201 | 372 | Tom Nault |
+| 200 | 372 | Tom Nault |
+| 201 | 372 | Giddy Twistbuilder |
 | 202 | 370 | Santeria Trece Candles |
 | 203 | 368 | Stephanie Woods |
 | 204 | 367 | Loopy Fallmatch |
@@ -273,8 +273,8 @@
 | 265 | 278 | LaShey Thompson |
 | 266 | 277 | Tracy Martin |
 | 267 | 276 | Crimson |
-| 268 | 276 | Connie Mohler-Fair |
-| 269 | 276 | _melisa223_ |
+| 268 | 276 | _melisa223_ |
+| 269 | 276 | Connie Mohler-Fair |
 | 270 | 275 | Cassandra Bryant |
 | 271 | 273 | Troy |
 | 272 | 272 | Snappy Balancer |
@@ -357,8 +357,8 @@
 | 349 | 213 | Romeo |
 | 350 | 212 | AlsoJess |
 | 351 | 211 | Velma Mull |
-| 352 | 211 | El Chapa |
-| 353 | 211 | Kirhonda Autmon |
+| 352 | 211 | Kirhonda Autmon |
+| 353 | 211 | El Chapa |
 | 354 | 210 | Criss |
 | 355 | 210 | Ashley Lynn Marchese |
 | 356 | 210 | Saucy Buildout |
