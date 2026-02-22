@@ -89,8 +89,8 @@
 | 81 | 512 | Casey Jeffcoat |
 | 82 | 500 | Rodney McMath Jr. |
 | 83 | 493 | Judy Cox |
-| 84 | 486 | Carmethia Clemons Haslerig |
-| 85 | 486 | Landon Keith Graffeo |
+| 84 | 486 | Landon Keith Graffeo |
+| 85 | 486 | Carmethia Clemons Haslerig |
 | 86 | 468 | Shane Kalamata Platoon |
 | 87 | 447 | Samantha Peterson |
 | 88 | 447 | Erin Thomas |
@@ -153,8 +153,8 @@
 | 145 | 271 | Sarah Brown |
 | 146 | 267 | Damn Libra |
 | 147 | 265 | Jeff Brian Gates |
-| 148 | 264 | Dana Scott |
-| 149 | 264 | Girl |
+| 148 | 264 | Girl |
+| 149 | 264 | Dana Scott |
 | 150 | 264 | Epic Curvetile |
 | 151 | 262 | Joeliecea Cobb |
 | 152 | 262 | Holly Jolly |
@@ -371,8 +371,8 @@
 | 363 | 117 | David V. Bowers |
 | 364 | 117 | PennyCandee |
 | 365 | 117 | BigSammy420 |
-| 366 | 116 | Kate |
-| 367 | 116 | Smiley Shifter |
+| 366 | 116 | Smiley Shifter |
+| 367 | 116 | Kate |
 | 368 | 116 | Bradley Reeves |
 | 369 | 115 | Jayk |
 | 370 | 115 | Alexandra Karavias |

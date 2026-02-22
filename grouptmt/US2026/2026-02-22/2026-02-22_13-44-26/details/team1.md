@@ -81,8 +81,8 @@
 | 73 | 458 | Jennifer ManWarren |
 | 74 | 456 | Arianna O'Brien |
 | 75 | 449 | Nancy Green |
-| 76 | 434 | Hyper |
-| 77 | 434 | MomMom |
+| 76 | 434 | MomMom |
+| 77 | 434 | Hyper |
 | 78 | 428 | Stephanie Zahn |
 | 79 | 419 | Patrick Luckenbill |
 | 80 | 418 | Jazzy Framezone |
@@ -118,16 +118,16 @@
 | 110 | 342 | Brenda Stewart |
 | 111 | 341 | Nick R Montague |
 | 112 | 334 | Jaimie Lynn |
-| 113 | 333 | Gracie |
-| 114 | 333 | Brandi Huntington |
+| 113 | 333 | Brandi Huntington |
+| 114 | 333 | Gracie |
 | 115 | 332 | Kristen Gideon |
 | 116 | 330 | Sweet Baker |
 | 117 | 326 | Monica Donato |
 | 118 | 322 | Jason Jones |
 | 119 | 321 | Maria C. Hernandez |
 | 120 | 318 | Jessica Sheehan |
-| 121 | 316 | Jennifer Hardman |
-| 122 | 316 | Dizzy Party |
+| 121 | 316 | Dizzy Party |
+| 122 | 316 | Jennifer Hardman |
 | 123 | 316 | Ly Phethmany |
 | 124 | 313 | Virginia Gray Floyd |
 | 125 | 313 | Tanya Carpenter-Reynolds |
@@ -136,8 +136,8 @@
 | 128 | 306 | Happy Basegrid |
 | 129 | 304 | Nicole Roseberry Weber |
 | 130 | 301 | Lehrin Maria |
-| 131 | 300 | Elaine Elaine |
-| 132 | 300 | Chelsea Dahlquist |
+| 131 | 300 | Chelsea Dahlquist |
+| 132 | 300 | Elaine Elaine |
 | 133 | 298 | Erin Hodges Plumb |
 | 134 | 290 | Death |
 | 135 | 290 | Sarah Roberts |
@@ -151,8 +151,8 @@
 | 143 | 282 | Snippy Wipebuilder |
 | 144 | 282 | Timothy Dew |
 | 145 | 276 | Dandy Basegrid |
-| 146 | 270 | Mandyy Rae |
-| 147 | 270 | Ash Galvan |
+| 146 | 270 | Ash Galvan |
+| 147 | 270 | Mandyy Rae |
 | 148 | 268 | GATOR |
 | 149 | 265 | SkipTheSadSauce |
 | 150 | 265 | Nutty Spinblock |

@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -106,15 +106,15 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 588 | yoyo |
 | 100 | 585 | Giddy Drop |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -166,8 +166,8 @@
 | 158 | 403 | Scott Lindsay |
 | 159 | 401 | Katie Knaus |
 | 160 | 400 | Luciana Braganca Vieira |
-| 161 | 399 | Marcie Bressler |
-| 162 | 399 | Mcathen |
+| 161 | 399 | Mcathen |
+| 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
 | 165 | 391 | Calista Jo Dickson |
@@ -192,8 +192,8 @@
 | 184 | 361 | Jamie Lang |
 | 185 | 358 | Chummy Caster |
 | 186 | 358 | RickyG |
-| 187 | 357 | Tom Nault |
-| 188 | 357 | Stephanie Burtin |
+| 187 | 357 | Stephanie Burtin |
+| 188 | 357 | Tom Nault |
 | 189 | 353 | Nora Rogers |
 | 190 | 351 | Sarah Cowan Burgos |
 | 191 | 348 | Chasity |
@@ -205,8 +205,8 @@
 | 197 | 338 | Gumbo |
 | 198 | 332 | Rich LeBlanc |
 | 199 | 330 | Rebecca Funderburk Kirby |
-| 200 | 324 | Sissy Lowery Davis |
-| 201 | 324 | Kristal C Lee |
+| 200 | 324 | Kristal C Lee |
+| 201 | 324 | Sissy Lowery Davis |
 | 202 | 323 | Demetrious Shaw Sr. |
 | 203 | 320 | Or Reznitsky |
 | 204 | 317 | Ashley Tookes |
@@ -253,8 +253,8 @@
 | 245 | 267 | Terry Jo Jones |
 | 246 | 264 | Tiffany Davie |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tasha Wesson-Torrence |
-| 249 | 261 | Tiffany Ford |
+| 248 | 261 | Tiffany Ford |
+| 249 | 261 | Tasha Wesson-Torrence |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Grams |
 | 252 | 260 | Nikki Pags |
@@ -344,8 +344,8 @@
 | 336 | 189 | Katie Leigh Blankenship |
 | 337 | 188 | Romeo |
 | 338 | 188 | Loopy Fallmatch |
-| 339 | 186 | Bryan Byrd |
-| 340 | 186 | Noettín Kan Zasnemoore |
+| 339 | 186 | Noettín Kan Zasnemoore |
+| 340 | 186 | Bryan Byrd |
 | 341 | 186 | Sameerah Smith |
 | 342 | 186 | Amanda J. Mcneil-Anderson |
 | 343 | 185 | Angella Lyons |
@@ -646,8 +646,8 @@
 | 638 | 100 | Brooke Bauer |
 | 639 | 100 | Betsey Hayes-Solano |
 | 640 | 100 | Monica Crespo |
-| 641 | 100 | Kelly Koenig |
-| 642 | 100 | TEDDY |
+| 641 | 100 | TEDDY |
+| 642 | 100 | Kelly Koenig |
 | 643 | 100 | Bree Sexton |
 | 644 | 99 | Heather Ferrara |
 | 645 | 99 | Elyse Grabowsky |
