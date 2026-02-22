@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -226,13 +226,13 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
-| 226 | 347 | Trisha Balmer |
-| 227 | 347 | Philip Rock |
+| 226 | 347 | Philip Rock |
+| 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
 | 229 | 344 | Roary Danner |
 | 230 | 344 | Rania Zaqout |
@@ -314,17 +314,17 @@
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
 | 308 | 254 | Sharisse Baltimore |
-| 309 | 252 | Geoffrey Nash |
-| 310 | 252 | Snazzy Filler |
+| 309 | 252 | Snazzy Filler |
+| 310 | 252 | Geoffrey Nash |
 | 311 | 251 | Twisty Brick LT |
 | 312 | 251 | Naur |
 | 313 | 250 | Tosha Griffey |
 | 314 | 247 | Jessica |
 | 315 | 246 | Erika Thornton |
-| 316 | 245 | Lizabeth Fox |
-| 317 | 245 | Latoya Mayne |
-| 318 | 244 | Quackers |
-| 319 | 244 | LaNette Morgan |
+| 316 | 245 | Latoya Mayne |
+| 317 | 245 | Lizabeth Fox |
+| 318 | 244 | LaNette Morgan |
+| 319 | 244 | Quackers |
 | 320 | 243 | Josh Borquez |
 | 321 | 242 | Randy Clevenger |
 | 322 | 240 | Jimmie Clemons |

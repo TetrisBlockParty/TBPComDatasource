@@ -66,8 +66,8 @@
 | 58 | 736 | Goatimus Lombardi |
 | 59 | 733 | Avy Absol |
 | 60 | 722 | Dustee Craddock-Harrison |
-| 61 | 721 | Chilly Line |
-| 62 | 721 | Edward White |
+| 61 | 721 | Edward White |
+| 62 | 721 | Chilly Line |
 | 63 | 704 | Crystal Carroll |
 | 64 | 703 | Anthony Bryan Riva |
 | 65 | 675 | D3TROITB0RN74 |
@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Diana Houts |
 | 97 | 500 | Rodney McMath Jr. |
@@ -143,8 +143,8 @@
 | 135 | 353 | Livvy |
 | 136 | 353 | Tyler Terrific |
 | 137 | 344 | Lush Linkfall |
-| 138 | 343 | Latisha Davis |
-| 139 | 343 | ThaEviLJeNiuZ |
+| 138 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | Latisha Davis |
 | 140 | 339 | David Lay |
 | 141 | 336 | Matt Summer |
 | 142 | 336 | Jessica Bohlken |
@@ -282,8 +282,8 @@
 | 274 | 188 | Stella |
 | 275 | 186 | Lauren Lamb |
 | 276 | 185 | Morti |
-| 277 | 185 | Laura Hosford |
-| 278 | 185 | Nubian1 |
+| 277 | 185 | Nubian1 |
+| 278 | 185 | Laura Hosford |
 | 279 | 183 | Twisty Risebuilder |
 | 280 | 182 | Cynthia Boudreau |
 | 281 | 182 | TinyLegoRose |
@@ -400,11 +400,11 @@
 | 392 | 137 | Carlos Hernandez |
 | 393 | 137 | Brianna Walker |
 | 394 | 136 | Dandy Cascadefit |
-| 395 | 136 | Jen Hallin |
-| 396 | 136 | Michelle Morris |
+| 395 | 136 | Michelle Morris |
+| 396 | 136 | Jen Hallin |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Jobadia Steelerton |
-| 399 | 134 | Kristin MacDonald |
+| 398 | 134 | Kristin MacDonald |
+| 399 | 134 | Jobadia Steelerton |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Melissa Priest Sellers |
 | 402 | 132 | Meg |
@@ -490,8 +490,8 @@
 | 482 | 109 | Jessica Miller |
 | 483 | 108 | mike |
 | 484 | 108 | Hasty Fitzone |
-| 485 | 108 | Ali Ian |
-| 486 | 108 | mike |
+| 485 | 108 | Bigeddie |
+| 486 | 108 | Ali Ian |
 | 487 | 107 | Cranky Glidebuilder |
 | 488 | 106 | Globofish |
 | 489 | 106 | Jacob Richard |

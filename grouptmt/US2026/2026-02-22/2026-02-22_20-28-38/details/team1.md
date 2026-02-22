@@ -147,8 +147,8 @@
 | 139 | 340 | Tanya Carpenter-Reynolds |
 | 140 | 336 | Elaine Elaine |
 | 141 | 334 | Jaimie Lynn |
-| 142 | 333 | GATOR |
-| 143 | 333 | Gracie |
+| 142 | 333 | Gracie |
+| 143 | 333 | GATOR |
 | 144 | 332 | Fmp |
 | 145 | 332 | Lehrin Maria |
 | 146 | 332 | Kristen Gideon |
@@ -167,8 +167,8 @@
 | 159 | 303 | Veronica Eve |
 | 160 | 303 | Chelsea Dahlquist |
 | 161 | 302 | Mike Ames |
-| 162 | 298 | femmefatale |
-| 163 | 298 | Danielle Little-Daugherty |
+| 162 | 298 | Danielle Little-Daugherty |
+| 163 | 298 | femmefatale |
 | 164 | 296 | Madison Wicks |
 | 165 | 295 | David Lutcher |
 | 166 | 295 | Emily Adelaide Wheatley |
@@ -230,11 +230,11 @@
 | 222 | 231 | Sarah Somers Gray |
 | 223 | 230 | BigWeenie69 |
 | 224 | 230 | Jen Nystrom |
-| 225 | 228 | Shiny Gridmatch |
-| 226 | 228 | Giddy Cascade |
+| 225 | 228 | Giddy Cascade |
+| 226 | 228 | Shiny Gridmatch |
 | 227 | 226 | Michael |
-| 228 | 225 | Jessie Lynn |
-| 229 | 225 | Bindi |
+| 228 | 225 | Bindi |
+| 229 | 225 | Jessie Lynn |
 | 230 | 224 | ParisandCory Champagne |
 | 231 | 223 | Christina Backer |
 | 232 | 223 | Erez Yosef |
@@ -384,7 +384,7 @@
 | 376 | 150 | Agustin Duarte Orozco |
 | 377 | 149 | Logan McFarland |
 | 378 | 149 | MIKOZ |
-| 379 | 148 | Lush Zoney |
+| 379 | 148 | Dizzy Riseclear |
 | 380 | 148 | Sir-Franchise Drake |
 | 381 | 148 | Lush Zoney |
 | 382 | 147 | Jamise Brown |
