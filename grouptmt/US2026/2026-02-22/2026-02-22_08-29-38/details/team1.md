@@ -306,8 +306,8 @@
 | 298 | 127 | Danielle Mae |
 | 299 | 127 | Lynn Adams |
 | 300 | 126 | Zany Tiler |
-| 301 | 125 | Melissa Bires Hussar |
-| 302 | 125 | Matt Iaccheo |
+| 301 | 125 | Matt Iaccheo |
+| 302 | 125 | Melissa Bires Hussar |
 | 303 | 125 | Angela Spann |
 | 304 | 124 | Mario Cab |
 | 305 | 124 | Madison Wicks |

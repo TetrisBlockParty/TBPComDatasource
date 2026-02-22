@@ -55,8 +55,8 @@
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 661 | D3TROITB0RN74 |
-| 50 | 659 | Rebecca Moulton Pinciaro |
-| 51 | 659 | Jonathan Kimbrough |
+| 50 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Rebecca Moulton Pinciaro |
 | 52 | 658 | loulou |
 | 53 | 654 | Chilly Line |
 | 54 | 652 | Anthony Bryan Riva |
@@ -84,8 +84,8 @@
 | 76 | 483 | TeeJ |
 | 77 | 483 | Carmethia Clemons Haslerig |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Samantha Peterson |
-| 80 | 447 | Erin Thomas |
+| 79 | 447 | Erin Thomas |
+| 80 | 447 | Samantha Peterson |
 | 81 | 440 | Kristin Manee |
 | 82 | 427 | KJ Pool |
 | 83 | 420 | Chilly Crasher |
@@ -123,8 +123,8 @@
 | 115 | 303 | Lauren Scott |
 | 116 | 300 | Jason Hart |
 | 117 | 298 | Lucas J Sutton |
-| 118 | 296 | HastyGrabber |
-| 119 | 296 | Justin Hannigan |
+| 118 | 296 | Justin Hannigan |
+| 119 | 296 | HastyGrabber |
 | 120 | 295 | Latisha Davis |
 | 121 | 294 | Kesha Brady |
 | 122 | 290 | 🥔🥔 Spudz |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Chance Strickland |
-| 178 | 201 | Melvin Baird |
+| 177 | 201 | Melvin Baird |
+| 178 | 201 | Chance Strickland |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 197 | Ashley Ingram |

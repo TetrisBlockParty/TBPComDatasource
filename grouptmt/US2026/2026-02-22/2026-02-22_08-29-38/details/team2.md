@@ -203,8 +203,8 @@
 | 195 | 919 | Isaac Trappiel IV |
 | 196 | 916 | Butta |
 | 197 | 915 | Kelly Trent |
-| 198 | 910 | Crystal Hoffman |
-| 199 | 910 | Shuany Arias |
+| 198 | 910 | Shuany Arias |
+| 199 | 910 | Crystal Hoffman |
 | 200 | 907 | Gene Mills |
 | 201 | 901 | Jennifer Peachey |
 | 202 | 892 | Auntie B |
@@ -240,9 +240,9 @@
 | 232 | 801 | Ashlen Dorrell |
 | 233 | 800 | Danielle Johnson-Chandler |
 | 234 | 787 | Laura McCarthey |
-| 235 | 777 | Jessicah Myers |
+| 235 | 777 | Tesha Oldaker |
 | 236 | 777 | Barbra Miller |
-| 237 | 777 | Tesha Oldaker |
+| 237 | 777 | Jessicah Myers |
 | 238 | 777 | Eric Carlson |
 | 239 | 772 | Sam Joe |
 | 240 | 772 | Stephen Stephen |
@@ -314,13 +314,13 @@
 | 306 | 651 | Unica Rector |
 | 307 | 650 | Shiny Rollzone |
 | 308 | 643 | Hoppy Brickmatch |
-| 309 | 641 | Joce Lynn |
-| 310 | 641 | Angie Bolton Workman |
+| 309 | 641 | Angie Bolton Workman |
+| 310 | 641 | Joce Lynn |
 | 311 | 640 | BYM4L |
 | 312 | 639 | Crystie Hicks |
 | 313 | 639 | Rebecca Miller |
-| 314 | 635 | Diana Fitzwater |
-| 315 | 635 | tejas25 |
+| 314 | 635 | tejas25 |
+| 315 | 635 | Diana Fitzwater |
 | 316 | 631 | Marie Walker |
 | 317 | 629 | Sleepypanda67 |
 | 318 | 627 | Victoria Moore-Smith |
@@ -386,8 +386,8 @@
 | 378 | 524 | Jojo Momma |
 | 379 | 524 | Shaun Church |
 | 380 | 523 | Matt Johnson |
-| 381 | 522 | Lylymom |
-| 382 | 522 | Joseph Musick |
+| 381 | 522 | Joseph Musick |
+| 382 | 522 | Lylymom |
 | 383 | 521 | Tj Ball |
 | 384 | 520 | Angela Lynn |
 | 385 | 520 | Maddy Petersen |
@@ -762,15 +762,15 @@
 | 754 | 289 | August Hale |
 | 755 | 289 | Tash Bell |
 | 756 | 288 | Ashley Criner |
-| 757 | 288 | Jenna Nance |
+| 757 | 288 | thranduil |
 | 758 | 288 | Samantha Angelo |
-| 759 | 288 | thranduil |
-| 760 | 287 | Epic Stackzone |
-| 761 | 287 | Toni Roberson |
+| 759 | 288 | Jenna Nance |
+| 760 | 287 | Toni Roberson |
+| 761 | 287 | Epic Stackzone |
 | 762 | 286 | Kelsey Sullivan |
 | 763 | 285 | Kimberly Mitchell |
-| 764 | 285 | Epic Stackbuilder |
-| 765 | 285 | Court |
+| 764 | 285 | Court |
+| 765 | 285 | Epic Stackbuilder |
 | 766 | 284 | Hillary Franklin |
 | 767 | 282 | Nutty Slice |
 | 768 | 281 | Anthony |
@@ -873,8 +873,8 @@
 | 865 | 254 | Elena Vap |
 | 866 | 254 | Elizabeth Diraffaele |
 | 867 | 252 | Sheniya Spurgeon |
-| 868 | 252 | Layna Lyons |
-| 869 | 252 | Amanda Segura |
+| 868 | 252 | Amanda Segura |
+| 869 | 252 | Layna Lyons |
 | 870 | 252 | Marget Kay |
 | 871 | 252 | Aleasha M Brown |
 | 872 | 251 | Chipper Dashpiece |

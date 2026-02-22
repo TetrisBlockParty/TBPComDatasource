@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -201,8 +201,8 @@
 | 193 | 311 | Rochelle Hazelett |
 | 194 | 311 | Stephanie Burtin |
 | 195 | 310 | Danielle Balcom |
-| 196 | 308 | Rania Zaqout |
-| 197 | 308 | Daryn Elliott |
+| 196 | 308 | Daryn Elliott |
+| 197 | 308 | Rania Zaqout |
 | 198 | 307 | rnr junky |
 | 199 | 307 | Blocked |
 | 200 | 302 | Rebecca Bailey |
@@ -224,8 +224,8 @@
 | 216 | 283 | Cheeky Snapper |
 | 217 | 281 | Valerie Gendron |
 | 218 | 278 | Rufus Lincoln |
-| 219 | 277 | Keis |
-| 220 | 277 | Charles Perrone |
+| 219 | 277 | Charles Perrone |
+| 220 | 277 | Keis |
 | 221 | 276 | _melisa223_ |
 | 222 | 276 | Crimson |
 | 223 | 275 | Cassandra Bryant |
