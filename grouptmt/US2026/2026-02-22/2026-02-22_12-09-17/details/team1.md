@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -181,11 +181,11 @@
 | 173 | 226 | Kandae |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
@@ -197,11 +197,11 @@
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |
@@ -262,18 +262,18 @@
 | 254 | 167 | Nery Martinez |
 | 255 | 167 | Cranky Pattern |
 | 256 | 166 | Carrie Smith |
-| 257 | 165 | Silly Align |
-| 258 | 165 | Nadine Velardo |
+| 257 | 165 | Nadine Velardo |
+| 258 | 165 | Silly Align |
 | 259 | 164 | Desiree Deschaine Havee |
-| 260 | 163 | Tyler Whitley |
+| 260 | 163 | Blaire Bruckoff |
 | 261 | 163 | Davery Spencer Adair |
-| 262 | 163 | Blaire Bruckoff |
+| 262 | 163 | Tyler Whitley |
 | 263 | 161 | SavageBooty98 |
 | 264 | 160 | Tedashi |
 | 265 | 159 | Uhog SF |
 | 266 | 159 | Amber Dee |
-| 267 | 156 | Mark Smith |
-| 268 | 156 | Spunky Builderpiece |
+| 267 | 156 | Spunky Builderpiece |
+| 268 | 156 | Mark Smith |
 | 269 | 155 | Barry Mac'Ockner |
 | 270 | 154 | Melissa Lemmon |
 | 271 | 154 | Gary Gobin |

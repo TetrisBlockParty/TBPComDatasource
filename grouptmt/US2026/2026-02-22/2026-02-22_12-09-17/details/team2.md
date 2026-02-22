@@ -416,8 +416,8 @@
 | 408 | 520 | Angela Lynn |
 | 409 | 519 | Rob Brown |
 | 410 | 517 | Alex Dungo Hoang |
-| 411 | 517 | Porsche' Nicole |
-| 412 | 517 | Amber Brion |
+| 411 | 517 | Amber Brion |
+| 412 | 517 | Porsche' Nicole |
 | 413 | 516 | Diamond Scott |
 | 414 | 515 | Victoria Regina Girolami |
 | 415 | 515 | Laquetta Royston |
@@ -480,8 +480,8 @@
 | 472 | 470 | Arlene Joy Belicina |
 | 473 | 469 | Spunkysmom |
 | 474 | 468 | Tra Barnum |
-| 475 | 466 | Koa N Sharon Chen |
-| 476 | 466 | Crystal Greene |
+| 475 | 466 | Crystal Greene |
+| 476 | 466 | Koa N Sharon Chen |
 | 477 | 465 | Davetta Sanford |
 | 478 | 464 | snkylnk |
 | 479 | 464 | Kiana Boschh |
@@ -627,8 +627,8 @@
 | 619 | 371 | Angi Harrison |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | RaeVan Worthington |
-| 623 | 369 | Tony Lea |
+| 622 | 369 | Tony Lea |
+| 623 | 369 | RaeVan Worthington |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rickey Johnson |
-| 654 | 354 | Rachel Kaminski |
+| 653 | 354 | Rachel Kaminski |
+| 654 | 354 | Rickey Johnson |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -747,8 +747,8 @@
 | 739 | 308 | Claire |
 | 740 | 308 | Hyper Riseclear |
 | 741 | 308 | Sarah block |
-| 742 | 307 | stacey |
-| 743 | 307 | Peachy Blockbuilder |
+| 742 | 307 | Peachy Blockbuilder |
+| 743 | 307 | stacey |
 | 744 | 306 | Kiorah Blaze |
 | 745 | 305 | Zany Clusterbuilder |
 | 746 | 305 | MamaBear11 |
@@ -798,8 +798,8 @@
 | 790 | 286 | Kelsey Sullivan |
 | 791 | 285 | Kimberly Mitchell |
 | 792 | 285 | Angelica |
-| 793 | 285 | Epic Stackbuilder |
-| 794 | 285 | Court |
+| 793 | 285 | Court |
+| 794 | 285 | Epic Stackbuilder |
 | 795 | 284 | Hillary Franklin |
 | 796 | 282 | Nutty Slice |
 | 797 | 281 | Anthony |
@@ -1426,9 +1426,9 @@
 | 1418 | 165 | Christina Jones |
 | 1419 | 165 | Alexandra Eryn |
 | 1420 | 165 | Slinky Matchbuilder |
-| 1421 | 165 | Breezy Strikerpiece |
-| 1422 | 165 | Emmmz |
-| 1423 | 165 | Chummy Crasher |
+| 1421 | 165 | Emmmz |
+| 1422 | 165 | Chummy Crasher |
+| 1423 | 165 | Breezy Strikerpiece |
 | 1424 | 164 | Jennifer Foster |
 | 1425 | 164 | Tiara Gaither |
 | 1426 | 164 | Bold Splitter |
@@ -1455,8 +1455,8 @@
 | 1447 | 162 | Tinishia Amie |
 | 1448 | 162 | Sherilyn Huie |
 | 1449 | 162 | Michelle Spires |
-| 1450 | 162 | Kara Campbell |
-| 1451 | 162 | LC Hamilton |
+| 1450 | 162 | LC Hamilton |
+| 1451 | 162 | Kara Campbell |
 | 1452 | 161 | whitmama3220 |
 | 1453 | 161 | Dee Blokk |
 | 1454 | 161 | Perry Hubert |
@@ -1485,8 +1485,8 @@
 | 1477 | 158 | April Ann |
 | 1478 | 158 | Tammi Dorsey |
 | 1479 | 158 | John Cleland |
-| 1480 | 158 | Ryley Laughlin |
-| 1481 | 158 | Cerealkiller |
+| 1480 | 158 | Cerealkiller |
+| 1481 | 158 | Ryley Laughlin |
 | 1482 | 157 | Heather Walski |
 | 1483 | 157 | James Lucas |
 | 1484 | 157 | Ashley Fairchild |
@@ -1555,8 +1555,8 @@
 | 1547 | 150 | Dizzy Clicker |
 | 1548 | 150 | Shakena Tuggle |
 | 1549 | 150 | Catherine Marsh Gruda |
-| 1550 | 150 | Francine Young |
-| 1551 | 150 | Meagan Privett |
+| 1550 | 150 | Meagan Privett |
+| 1551 | 150 | Francine Young |
 | 1552 | 150 | Anthony Memphis Croom |
 | 1553 | 150 | Amanda |
 | 1554 | 150 | Sammy Bear |

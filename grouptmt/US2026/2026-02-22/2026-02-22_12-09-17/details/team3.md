@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Jacqueline Rodriguez |
-| 139 | 445 | Kristie McFarland |
+| 138 | 445 | Kristie McFarland |
+| 139 | 445 | Jacqueline Rodriguez |
 | 140 | 435 | Michelle |
 | 141 | 432 | Jenny Hrndz |
 | 142 | 427 | Wendy Dearden |
@@ -196,8 +196,8 @@
 | 188 | 343 | Ashley Raines |
 | 189 | 343 | Tamara Deherrera |
 | 190 | 341 | Samantha Lynn |
-| 191 | 338 | Gumbo |
-| 192 | 338 | Leah Barnett |
+| 191 | 338 | Leah Barnett |
+| 192 | 338 | Gumbo |
 | 193 | 332 | Rich LeBlanc |
 | 194 | 332 | Noyb Adam |
 | 195 | 330 | Rebecca Funderburk Kirby |
@@ -506,11 +506,11 @@
 | 498 | 121 | Brave Brickster |
 | 499 | 120 | Giggy Glidepiece |
 | 500 | 120 | Carol Cain Thurman |
-| 501 | 119 | Michelle Ramirez |
-| 502 | 119 | Breanna Marsden |
-| 503 | 119 | Boldy Blocker |
-| 504 | 119 | Tracey Cox |
-| 505 | 119 | Geoffrey Nash |
+| 501 | 119 | Tracey Cox |
+| 502 | 119 | Geoffrey Nash |
+| 503 | 119 | Breanna Marsden |
+| 504 | 119 | Michelle Ramirez |
+| 505 | 119 | Boldy Blocker |
 | 506 | 119 | Brian Quigley |
 | 507 | 118 | Fancy Curver |
 | 508 | 118 | Damian Reid |

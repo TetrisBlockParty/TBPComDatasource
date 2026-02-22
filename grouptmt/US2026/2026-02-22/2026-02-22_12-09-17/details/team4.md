@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -398,8 +398,8 @@
 | 390 | 106 | Lynn Marie |
 | 391 | 106 | Jacob Richard |
 | 392 | 106 | Zappy Snaplink |
-| 393 | 106 | Nick Horn |
-| 394 | 106 | Verna Neal |
+| 393 | 106 | Verna Neal |
+| 394 | 106 | Nick Horn |
 | 395 | 105 | meowmew |
 | 396 | 105 | Zesty Linkgrid |
 | 397 | 105 | Michelle Parker |
