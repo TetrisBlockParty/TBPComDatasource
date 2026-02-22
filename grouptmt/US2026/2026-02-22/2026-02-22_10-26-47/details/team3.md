@@ -189,8 +189,8 @@
 | 181 | 353 | Shunta Jacobs |
 | 182 | 353 | Nora Rogers |
 | 183 | 348 | Chasity |
-| 184 | 347 | Nicole Flippo |
-| 185 | 347 | Jone |
+| 184 | 347 | Jone |
+| 185 | 347 | Nicole Flippo |
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
@@ -204,11 +204,11 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -258,8 +258,8 @@
 | 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | Annie Marie |
-| 254 | 249 | JerseyJess |
+| 253 | 249 | JerseyJess |
+| 254 | 249 | Annie Marie |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -352,8 +352,8 @@
 | 344 | 170 | Tina Smith Roy |
 | 345 | 169 | Kristian Thurman |
 | 346 | 169 | Peachy Rollfit |
-| 347 | 168 | April Matthew Kibble |
-| 348 | 168 | Trice Thomas |
+| 347 | 168 | Trice Thomas |
+| 348 | 168 | April Matthew Kibble |
 | 349 | 167 | Shicken Nuggit |
 | 350 | 167 | Irene Arreguin |
 | 351 | 167 | Romeo |
@@ -383,8 +383,8 @@
 | 375 | 159 | Salena Whitlock |
 | 376 | 158 | Willow |
 | 377 | 157 | Katrina E Jelks |
-| 378 | 157 | Wetwet |
-| 379 | 157 | Angel Mendez |
+| 378 | 157 | Angel Mendez |
+| 379 | 157 | Wetwet |
 | 380 | 156 | Nichole Greene |
 | 381 | 155 | Michell Hendershott Jackson |
 | 382 | 155 | Michael Leblanc |
@@ -398,9 +398,9 @@
 | 390 | 152 | Shiny Zonebuilder |
 | 391 | 151 | Sarah Cowan Burgos |
 | 392 | 150 | Sassy Brickmatch |
-| 393 | 149 | Arden White Kirsch |
-| 394 | 149 | Wacky Crasher |
-| 395 | 149 | Alexis Taylor |
+| 393 | 149 | Alexis Taylor |
+| 394 | 149 | Arden White Kirsch |
+| 395 | 149 | Wacky Crasher |
 | 396 | 148 | Flashy Rumbler |
 | 397 | 148 | Pam Holt Powell |
 | 398 | 148 | Erykah |
@@ -647,7 +647,7 @@
 | 639 | 94 | lashanda |
 | 640 | 94 | Moimyzean |
 | 641 | 94 | Jalissa Monique |
-| 642 | 93 | Tucker Allen |
+| 642 | 93 | Samantha Long |
 | 643 | 93 | Katheline Lazo Luizaga |
 | 644 | 93 | Tucker Allen |
 | 645 | 93 | Spunky Racker |

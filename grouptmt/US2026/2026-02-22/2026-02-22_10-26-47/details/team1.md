@@ -125,8 +125,8 @@
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Seth Wesson |
-| 121 | 310 | Jason Jones |
+| 120 | 310 | Jason Jones |
+| 121 | 310 | Seth Wesson |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -196,8 +196,8 @@
 | 188 | 203 | Paula Martin |
 | 189 | 203 | LaFontaine Leslie |
 | 190 | 201 | Colleen Wise |
-| 191 | 200 | Breanna Luna |
-| 192 | 200 | DaRascal |
+| 191 | 200 | DaRascal |
+| 192 | 200 | Breanna Luna |
 | 193 | 199 | Basment Living |
 | 194 | 198 | Shiny Gridmatch |
 | 195 | 198 | Happy Snapbuild |
@@ -315,8 +315,8 @@
 | 307 | 130 | Howdi Duty |
 | 308 | 130 | Carl Claunch |
 | 309 | 129 | Sherri E Woods Hess |
-| 310 | 128 | Alyssa Ingram |
-| 311 | 128 | George Dalton |
+| 310 | 128 | George Dalton |
+| 311 | 128 | Alyssa Ingram |
 | 312 | 127 | Danielle Mae |
 | 313 | 126 | Tyler Hertzog |
 | 314 | 126 | Zany Tiler |
@@ -374,7 +374,7 @@
 | 366 | 107 | MIKOZ |
 | 367 | 106 | Josh Smith |
 | 368 | 106 | Bloknboy |
-| 369 | 105 | Eddie Dillon |
+| 369 | 105 | Bye Love |
 | 370 | 105 | Lucinda Thacker |
 | 371 | 105 | Eddie Dillon |
 | 372 | 104 | Serina Marie |

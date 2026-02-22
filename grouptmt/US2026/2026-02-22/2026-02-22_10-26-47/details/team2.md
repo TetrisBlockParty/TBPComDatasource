@@ -135,8 +135,8 @@
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
-| 130 | 1248 | Isabela Shaw |
-| 131 | 1248 | Howard Forest |
+| 130 | 1248 | Howard Forest |
+| 131 | 1248 | Isabela Shaw |
 | 132 | 1242 | Altamirano Michael |
 | 133 | 1232 | Groovy Puzzle |
 | 134 | 1226 | Vo'Landa Reels |
@@ -173,8 +173,8 @@
 | 165 | 1048 | PsychKIRAtrist |
 | 166 | 1047 | Amy Sayers |
 | 167 | 1045 | Lourisha |
-| 168 | 1043 | Brave Dropmatch |
-| 169 | 1043 | Suki Kaur |
+| 168 | 1043 | Suki Kaur |
+| 169 | 1043 | Brave Dropmatch |
 | 170 | 1035 | Sarah Freitas |
 | 171 | 1024 | Bri Lynn |
 | 172 | 1023 | Brainy Smurf |
@@ -286,10 +286,10 @@
 | 278 | 713 | Chelle |
 | 279 | 704 | Shelley Thornburgh Wright |
 | 280 | 703 | Gold Rose |
-| 281 | 700 | Vincent Petrella |
-| 282 | 700 | Hong Tang |
-| 283 | 700 | Beverly Owens |
-| 284 | 700 | Rosemadder |
+| 281 | 700 | Hong Tang |
+| 282 | 700 | Vincent Petrella |
+| 283 | 700 | Rosemadder |
+| 284 | 700 | Beverly Owens |
 | 285 | 698 | Mighty Shatterfit |
 | 286 | 697 | Dreamy Blast |
 | 287 | 696 | Kathryn Townsley |
@@ -326,8 +326,8 @@
 | 318 | 650 | Shiny Rollzone |
 | 319 | 645 | tejas25 |
 | 320 | 643 | Hoppy Brickmatch |
-| 321 | 641 | Joce Lynn |
-| 322 | 641 | Angie Bolton Workman |
+| 321 | 641 | Angie Bolton Workman |
+| 322 | 641 | Joce Lynn |
 | 323 | 640 | BYM4L |
 | 324 | 639 | Crystie Hicks |
 | 325 | 639 | Rebecca Miller |
@@ -374,8 +374,8 @@
 | 366 | 558 | Libby Hicks |
 | 367 | 557 | Block Master |
 | 368 | 556 | Slip |
-| 369 | 554 | Rachael Senard |
-| 370 | 554 | Santana Miyagi |
+| 369 | 554 | Santana Miyagi |
+| 370 | 554 | Rachael Senard |
 | 371 | 554 | Autumn Schaeffer |
 | 372 | 550 | Nashu |
 | 373 | 549 | Darcy Mae |
@@ -587,8 +587,8 @@
 | 579 | 389 | Kayla |
 | 580 | 389 | Alexis Richardson |
 | 581 | 388 | Christina Ashley |
-| 582 | 387 | Misti Markijohn |
-| 583 | 387 | Bold Brickster |
+| 582 | 387 | Bold Brickster |
+| 583 | 387 | Misti Markijohn |
 | 584 | 386 | Michael Artis |
 | 585 | 386 | Wuntayk |
 | 586 | 385 | Tansaria Couch-Butler |
@@ -636,8 +636,8 @@
 | 628 | 363 | Kia Humphery |
 | 629 | 363 | Jes Norris |
 | 630 | 363 | Stephanie Fortune |
-| 631 | 362 | Veronics |
-| 632 | 362 | Andrea Maher |
+| 631 | 362 | Andrea Maher |
+| 632 | 362 | Veronics |
 | 633 | 362 | Tracy Wise |
 | 634 | 362 | Aishah Brice |
 | 635 | 362 | Jennifer Scott |
@@ -689,8 +689,8 @@
 | 681 | 335 | Maria Louise |
 | 682 | 334 | Melissa James |
 | 683 | 333 | Veronica Stevenson |
-| 684 | 333 | Adrian Benitez |
-| 685 | 333 | Woodys Glass |
+| 684 | 333 | Woodys Glass |
+| 685 | 333 | Adrian Benitez |
 | 686 | 332 | Lathasa Newkirk |
 | 687 | 331 | Danielle Ayoub |
 | 688 | 330 | Jennifer Monroe Kelly |
@@ -958,16 +958,16 @@
 | 950 | 239 | Daring Matchfit |
 | 951 | 239 | Joel Rosado |
 | 952 | 239 | Amy John Mills |
-| 953 | 238 | SwifftFox |
-| 954 | 238 | Pfc Monei Rivera |
+| 953 | 238 | Pfc Monei Rivera |
+| 954 | 238 | SwifftFox |
 | 955 | 238 | Trista Carter |
 | 956 | 237 | Nutty Matchline |
 | 957 | 237 | Devlin Ogg |
 | 958 | 237 | Jay Levy |
 | 959 | 237 | Breezy Tilt |
 | 960 | 237 | Jodi Mitnick |
-| 961 | 235 | Angelica |
-| 962 | 235 | B-rad B-rad |
+| 961 | 235 | B-rad B-rad |
+| 962 | 235 | Angelica |
 | 963 | 235 | Shantel Kelley |
 | 964 | 235 | Prince Ajesh |
 | 965 | 235 | Loopy Shatterfit |
@@ -1065,10 +1065,10 @@
 | 1057 | 214 | Michele Phelps |
 | 1058 | 214 | Happy Puzzle |
 | 1059 | 214 | Luciano Andre Versace Grismondie |
-| 1060 | 213 | Chirpy Tilt |
-| 1061 | 213 | Janai Vrabel |
-| 1062 | 213 | Cynthia Knox |
-| 1063 | 213 | Hannah Leigh Pelofsky |
+| 1060 | 213 | Janai Vrabel |
+| 1061 | 213 | Chirpy Tilt |
+| 1062 | 213 | Hannah Leigh Pelofsky |
+| 1063 | 213 | Cynthia Knox |
 | 1064 | 213 | Cassi Owens |
 | 1065 | 212 | Izzy Rockford |
 | 1066 | 212 | JP Parks |
@@ -1119,8 +1119,8 @@
 | 1111 | 205 | Ashley McCarthy-Arnone |
 | 1112 | 205 | Tiffney Wroten |
 | 1113 | 205 | Desiree Hargrove Moore |
-| 1114 | 204 | Ali Gralski |
-| 1115 | 204 | Lakeela Wise |
+| 1114 | 204 | Lakeela Wise |
+| 1115 | 204 | Ali Gralski |
 | 1116 | 204 | Edralin Custodio |
 | 1117 | 204 | Andre Love |
 | 1118 | 202 | Joshua Yonker |
@@ -1128,8 +1128,8 @@
 | 1120 | 201 | LintFunk |
 | 1121 | 201 | Jennifer Rajek |
 | 1122 | 201 | Betty Ruth Hale |
-| 1123 | 200 | Sara Silvernail-Kay |
-| 1124 | 200 | Rich Sullivan |
+| 1123 | 200 | Rich Sullivan |
+| 1124 | 200 | Sara Silvernail-Kay |
 | 1125 | 200 | Shyne Sun |
 | 1126 | 199 | Tiffany Michelle Arnold |
 | 1127 | 199 | BeaNzMaMa |

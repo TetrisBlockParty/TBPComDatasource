@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -76,8 +76,8 @@
 | 68 | 530 | Yoset Mejia |
 | 69 | 524 | Amelpss |
 | 70 | 521 | Dawn Alexander |
-| 71 | 518 | Carolyn Wallace |
-| 72 | 518 | Eric Mcgaughy |
+| 71 | 518 | Eric Mcgaughy |
+| 72 | 518 | Carolyn Wallace |
 | 73 | 517 | H.R. Block |
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
@@ -132,14 +132,14 @@
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | 🥔🥔 Spudz |
 | 126 | 287 | Shannon Ferrari |
-| 127 | 286 | Daria Rycewicz |
-| 128 | 286 | shark tato |
+| 127 | 286 | shark tato |
+| 128 | 286 | Daria Rycewicz |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
 | 131 | 278 | Carrie Brian |
 | 132 | 278 | Desi Desporte |
-| 133 | 277 | Mary Ann Pabukis |
-| 134 | 277 | Scott Jameson |
+| 133 | 277 | Scott Jameson |
+| 134 | 277 | Mary Ann Pabukis |
 | 135 | 275 | Dizzy Tiley |
 | 136 | 274 | Calvin Cannon |
 | 137 | 272 | Keshia Lyons |
@@ -170,8 +170,8 @@
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -188,11 +188,11 @@
 | 180 | 204 | Jen Caldwell |
 | 181 | 203 | Katherine Crane |
 | 182 | 202 | TRCuse |
-| 183 | 201 | Chance Strickland |
-| 184 | 201 | Melvin Baird |
+| 183 | 201 | Melvin Baird |
+| 184 | 201 | Chance Strickland |
 | 185 | 200 | Laura |
-| 186 | 198 | Keith Kelley |
-| 187 | 198 | Ruben Wheeler |
+| 186 | 198 | Ruben Wheeler |
+| 187 | 198 | Keith Kelley |
 | 188 | 196 | Oscar Alberto Perez |
 | 189 | 196 | Mr. Party |
 | 190 | 195 | ZeeZee |
@@ -213,8 +213,8 @@
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
 | 207 | 180 | Rafael Valentin |
-| 208 | 180 | Orchislactea |
-| 209 | 180 | Dihcheese444 |
+| 208 | 180 | Dihcheese444 |
+| 209 | 180 | Orchislactea |
 | 210 | 179 | blockstar |
 | 211 | 179 | TinyLegoRose |
 | 212 | 175 | Lorena Guerrero-Barron |
@@ -253,8 +253,8 @@
 | 245 | 152 | Faja |
 | 246 | 149 | Tanner Lund |
 | 247 | 149 | Shainne Brewer |
-| 248 | 148 | Janita Parrish |
-| 249 | 148 | Nubian1 |
+| 248 | 148 | Nubian1 |
+| 249 | 148 | Janita Parrish |
 | 250 | 147 | B Renee Desjardin |
 | 251 | 147 | Jay28 |
 | 252 | 147 | Jared Gutwein |
@@ -275,7 +275,7 @@
 | 267 | 141 | Kathy Allen |
 | 268 | 141 | ĥuf |
 | 269 | 141 | Courtney Halleck |
-| 270 | 141 | Montiette Mcglown |
+| 270 | 141 | Joshua Cuellar |
 | 271 | 140 | Cristy Duerksen |
 | 272 | 139 | ChasingZen |
 | 273 | 139 | Lori Goudy |
