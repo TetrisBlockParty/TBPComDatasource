@@ -132,8 +132,8 @@
 | 124 | 284 | Rachael |
 | 125 | 284 | Emily Adelaide Wheatley |
 | 126 | 283 | Franswa |
-| 127 | 282 | Timothy Dew |
-| 128 | 282 | Cool Shiftsnap |
+| 127 | 282 | Cool Shiftsnap |
+| 128 | 282 | Timothy Dew |
 | 129 | 280 | Jennifer Hardman |
 | 130 | 280 | Sarah Roberts |
 | 131 | 276 | Dandy Basegrid |

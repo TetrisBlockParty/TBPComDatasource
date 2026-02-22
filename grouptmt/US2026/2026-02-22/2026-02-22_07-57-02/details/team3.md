@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Mcathen |
-| 152 | 399 | Jacqueline Rodriguez |
+| 151 | 399 | Jacqueline Rodriguez |
+| 152 | 399 | Mcathen |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -196,8 +196,8 @@
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
 | 190 | 311 | Stephanie Burtin |
-| 191 | 311 | Araceli Parra |
-| 192 | 311 | Rochelle Hazelett |
+| 191 | 311 | Rochelle Hazelett |
+| 192 | 311 | Araceli Parra |
 | 193 | 310 | Danielle Balcom |
 | 194 | 308 | Daryn Elliott |
 | 195 | 308 | Rania Zaqout |
@@ -275,8 +275,8 @@
 | 267 | 220 | rosy |
 | 268 | 219 | Sissy Lowery Davis |
 | 269 | 218 | Michael Lucado |
-| 270 | 216 | Twisty Brick LT |
-| 271 | 216 | Cheryl Hinch Tenbrook |
+| 270 | 216 | Cheryl Hinch Tenbrook |
+| 271 | 216 | Twisty Brick LT |
 | 272 | 215 | IamJust Neyamijah Washington Sr. |
 | 273 | 214 | Amy Fuller Heaton |
 | 274 | 214 | Angela Scott |

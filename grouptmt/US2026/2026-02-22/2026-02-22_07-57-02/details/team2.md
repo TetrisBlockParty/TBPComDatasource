@@ -128,8 +128,8 @@
 | 120 | 1257 | Eileen Hale |
 | 121 | 1256 | Bob |
 | 122 | 1252 | Katrina Williams Balmir |
-| 123 | 1248 | Isabela Shaw |
-| 124 | 1248 | Howard Forest |
+| 123 | 1248 | Howard Forest |
+| 124 | 1248 | Isabela Shaw |
 | 125 | 1242 | Altamirano Michael |
 | 126 | 1232 | Groovy Puzzle |
 | 127 | 1226 | Vo'Landa Reels |
@@ -713,8 +713,8 @@
 | 705 | 310 | Beth Decker |
 | 706 | 309 | Byung Bae Park |
 | 707 | 309 | Candy Pitts |
-| 708 | 308 | Claire |
-| 709 | 308 | Sarah block |
+| 708 | 308 | Sarah block |
+| 709 | 308 | Claire |
 | 710 | 308 | Prado |
 | 711 | 307 | stacey |
 | 712 | 306 | Kiorah Blaze |
@@ -727,8 +727,8 @@
 | 719 | 304 | NFLPITMOM |
 | 720 | 303 | Angie Marie |
 | 721 | 303 | Amanda Schaffer |
-| 722 | 303 | Peachy Blockbuilder |
-| 723 | 303 | Devin |
+| 722 | 303 | Devin |
+| 723 | 303 | Peachy Blockbuilder |
 | 724 | 302 | Kena T. Tanner |
 | 725 | 302 | Maxwell Escalera |
 | 726 | 301 | Danielle Ayoub |
@@ -797,9 +797,9 @@
 | 789 | 274 | KT Macadocious |
 | 790 | 274 | Jamie Stevey |
 | 791 | 273 | Jennifer Aiken |
-| 792 | 273 | Kelly Meredeith |
-| 793 | 273 | Swanky Snap |
-| 794 | 273 | Britt Stunkel |
+| 792 | 273 | Swanky Snap |
+| 793 | 273 | Britt Stunkel |
+| 794 | 273 | Kelly Meredeith |
 | 795 | 272 | Witty Piecebuilder |
 | 796 | 271 | Shalisa Hill |
 | 797 | 271 | Beverly Hodge |
@@ -821,8 +821,8 @@
 | 813 | 264 | Matthew Joseph Acevedo |
 | 814 | 264 | Ocean-Brianna McGregor |
 | 815 | 264 | Maria Hammett |
-| 816 | 263 | Sara Pennington |
-| 817 | 263 | Laura Wyatt |
+| 816 | 263 | Laura Wyatt |
+| 817 | 263 | Sara Pennington |
 | 818 | 263 | Elizabeth Leinen |
 | 819 | 263 | Sunshine711 |
 | 820 | 262 | Taren Cowan |
@@ -1122,8 +1122,8 @@
 | 1114 | 192 | Leroy Jenkins |
 | 1115 | 192 | Dawn Woosley Bowes |
 | 1116 | 192 | Nicole Sanqui |
-| 1117 | 192 | Joy Marie |
-| 1118 | 192 | Chilly Linkfall |
+| 1117 | 192 | Chilly Linkfall |
+| 1118 | 192 | Joy Marie |
 | 1119 | 192 | Donna M Carter |
 | 1120 | 191 | Samuel Labruno |
 | 1121 | 191 | Laura McConnell |
@@ -1325,8 +1325,8 @@
 | 1317 | 164 | Spicy Riser |
 | 1318 | 164 | Jessica Vega |
 | 1319 | 164 | Squirrel |
-| 1320 | 164 | Jennifer Foster |
-| 1321 | 164 | Quiltygirl |
+| 1320 | 164 | Quiltygirl |
+| 1321 | 164 | Jennifer Foster |
 | 1322 | 164 | Ty Quarles |
 | 1323 | 164 | Mellissa Evans |
 | 1324 | 163 | Gina Bahn |

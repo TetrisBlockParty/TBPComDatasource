@@ -152,8 +152,8 @@
 | 144 | 244 | Calvin Cannon |
 | 145 | 240 | Peachy Fall |
 | 146 | 232 | Crystal Nicolette Moore |
-| 147 | 230 | Cursed Hag |
-| 148 | 230 | Autum Leigh |
+| 147 | 230 | Autum Leigh |
+| 148 | 230 | Cursed Hag |
 | 149 | 228 | J-Rizzle |
 | 150 | 227 | Chris Bernstein |
 | 151 | 227 | Alyssa Papen |
@@ -297,7 +297,7 @@
 | 289 | 128 | Allen Lloyd |
 | 290 | 128 | Kristin MacDonald |
 | 291 | 127 | Kim Hunt |
-| 292 | 126 | PAPatty |
+| 292 | 126 | icequeenx |
 | 293 | 126 | Cheryl Johnson |
 | 294 | 126 | PAPatty |
 | 295 | 125 | Steph Marie |
@@ -351,7 +351,7 @@
 | 343 | 108 | Denise B |
 | 344 | 108 | Walter Beltran |
 | 345 | 108 | Ali Ian |
-| 346 | 107 | Silly SeaWeed |
+| 346 | 107 | Marcela Johnson |
 | 347 | 107 | Brandi Durig |
 | 348 | 107 | Silly SeaWeed |
 | 349 | 106 | Jacob Richard |
