@@ -191,8 +191,8 @@
 | 183 | 951 | Cynthia Ward |
 | 184 | 950 | Teresa Gillmore |
 | 185 | 942 | Keri Womack |
-| 186 | 941 | Cool Clearer |
-| 187 | 941 | Marie Boyd Faulk |
+| 186 | 941 | Marie Boyd Faulk |
+| 187 | 941 | Cool Clearer |
 | 188 | 935 | William Meussner |
 | 189 | 932 | Catina Hutchison |
 | 190 | 925 | Moose Griffith |
@@ -219,8 +219,8 @@
 | 211 | 838 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Rebecca Doughman |
-| 215 | 834 | Nika Bee |
+| 214 | 834 | Nika Bee |
+| 215 | 834 | Rebecca Doughman |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -246,8 +246,8 @@
 | 238 | 767 | Jessica Wayne Cornwall |
 | 239 | 765 | Jodi Blake |
 | 240 | 763 | Lisa Ongtowasruk |
-| 241 | 763 | Beth |
-| 242 | 763 | Samantha Jo |
+| 241 | 763 | Samantha Jo |
+| 242 | 763 | Beth |
 | 243 | 759 | Desire Rice |
 | 244 | 756 | Stephanie Neuburger |
 | 245 | 753 | SaraMarie Eveland |
@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Mandi Douglas Hilt |
-| 295 | 663 | Ashle Scranton |
+| 294 | 663 | Ashle Scranton |
+| 295 | 663 | Mandi Douglas Hilt |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 659 | Draizen Montrell Thomas |
 | 298 | 658 | Erica Williams |
@@ -317,8 +317,8 @@
 | 309 | 635 | William Hunt |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Allan Wayne Lamia |
-| 313 | 627 | Victoria Moore-Smith |
+| 312 | 627 | Victoria Moore-Smith |
+| 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | tejas25 |
@@ -437,8 +437,8 @@
 | 429 | 474 | Calandra Shaya Robinson |
 | 430 | 473 | Lyndi Robinson Wakefield |
 | 431 | 472 | Arwa Fatimah |
-| 432 | 471 | Jaycee |
-| 433 | 471 | Rae Rae |
+| 432 | 471 | Rae Rae |
+| 433 | 471 | Jaycee |
 | 434 | 470 | Street Sweeper |
 | 435 | 469 | Spunkysmom |
 | 436 | 466 | Crystal Greene |
@@ -482,11 +482,11 @@
 | 474 | 429 | Christy Krissie |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
-| 477 | 427 | Kori Beth Babb |
-| 478 | 427 | Quinn |
-| 479 | 427 | Destiny Cozier |
-| 480 | 426 | Niceday |
-| 481 | 426 | Ashley Dow |
+| 477 | 427 | Quinn |
+| 478 | 427 | Destiny Cozier |
+| 479 | 427 | Kori Beth Babb |
+| 480 | 426 | Ashley Dow |
+| 481 | 426 | Niceday |
 | 482 | 425 | Skyler Morgan |
 | 483 | 424 | Mia Muse Best |
 | 484 | 424 | Lina Sanders |

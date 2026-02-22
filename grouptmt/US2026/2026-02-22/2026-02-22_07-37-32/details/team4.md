@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Samantha Peterson |
-| 78 | 447 | Erin Thomas |
+| 77 | 447 | Erin Thomas |
+| 78 | 447 | Samantha Peterson |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -150,8 +150,8 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Autum Leigh |
-| 146 | 230 | Cursed Hag |
+| 145 | 230 | Cursed Hag |
+| 146 | 230 | Autum Leigh |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Chris Bernstein |
 | 149 | 227 | Swanky Fitline |

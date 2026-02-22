@@ -128,8 +128,8 @@
 | 120 | 286 | Arianna O'Brien |
 | 121 | 286 | Ly Phethmany |
 | 122 | 285 | Ananda Mendez |
-| 123 | 284 | Rachael |
-| 124 | 284 | Emily Adelaide Wheatley |
+| 123 | 284 | Emily Adelaide Wheatley |
+| 124 | 284 | Rachael |
 | 125 | 283 | Franswa |
 | 126 | 282 | Timothy Dew |
 | 127 | 282 | Cool Shiftsnap |
@@ -190,8 +190,8 @@
 | 182 | 201 | Sam Williams |
 | 183 | 200 | Debbie Davis |
 | 184 | 199 | Basment Living |
-| 185 | 198 | Happy Snapbuild |
-| 186 | 198 | Shiny Gridmatch |
+| 185 | 198 | Shiny Gridmatch |
+| 186 | 198 | Happy Snapbuild |
 | 187 | 195 | Shaykmia |
 | 188 | 194 | Christy Jones |
 | 189 | 193 | Michael |
@@ -216,9 +216,9 @@
 | 208 | 179 | femmefatale |
 | 209 | 179 | Danielle Little-Daugherty |
 | 210 | 178 | Chad Atchley |
-| 211 | 177 | Jacqueline Unique |
+| 211 | 177 | Irual Hctrab |
 | 212 | 177 | Perky Shiftsnap |
-| 213 | 177 | Irual Hctrab |
+| 213 | 177 | Jacqueline Unique |
 | 214 | 176 | Mel Hogan |
 | 215 | 175 | John Barron |
 | 216 | 174 | Cheeky Pop |
@@ -295,8 +295,8 @@
 | 287 | 130 | Carl Claunch |
 | 288 | 130 | Gilbert Ortiz Jr. |
 | 289 | 129 | Sherri E Woods Hess |
-| 290 | 128 | Alyssa Ingram |
-| 291 | 128 | Chuck Gannon |
+| 290 | 128 | Chuck Gannon |
+| 291 | 128 | Alyssa Ingram |
 | 292 | 127 | Danielle Mae |
 | 293 | 126 | Zany Tiler |
 | 294 | 125 | Matt Iaccheo |

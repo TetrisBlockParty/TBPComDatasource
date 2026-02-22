@@ -195,8 +195,8 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Araceli Parra |
-| 191 | 311 | Rochelle Hazelett |
+| 190 | 311 | Rochelle Hazelett |
+| 191 | 311 | Araceli Parra |
 | 192 | 310 | Danielle Balcom |
 | 193 | 308 | Rania Zaqout |
 | 194 | 308 | Daryn Elliott |
@@ -262,8 +262,8 @@
 | 254 | 232 | Brenda Schmid Wood |
 | 255 | 232 | Donna |
 | 256 | 227 | Krystal Gerstberger |
-| 257 | 227 | Chummy Caster |
-| 258 | 227 | Meowsa |
+| 257 | 227 | Meowsa |
+| 258 | 227 | Chummy Caster |
 | 259 | 225 | Dirtgirl27 |
 | 260 | 225 | Cozy Snaplink |
 | 261 | 223 | Connie Mohler-Fair |
@@ -335,8 +335,8 @@
 | 327 | 169 | Naur |
 | 328 | 169 | Peachy Rollfit |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | April Matthew Kibble |
-| 331 | 168 | Trice Thomas |
+| 330 | 168 | Trice Thomas |
+| 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Irene Arreguin |
 | 334 | 167 | Romeo |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Sheila M Frazier |
-| 362 | 153 | Lys |
+| 361 | 153 | Lys |
+| 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |
