@@ -193,8 +193,8 @@
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
-| 188 | 357 | Stephanie Burtin |
-| 189 | 357 | Tom Nault |
+| 188 | 357 | Tom Nault |
+| 189 | 357 | Stephanie Burtin |
 | 190 | 353 | Nora Rogers |
 | 191 | 348 | Chasity |
 | 192 | 347 | Jone |
@@ -221,13 +221,13 @@
 | 213 | 306 | Marci Mize Fandrich |
 | 214 | 305 | Rebecca Bailey |
 | 215 | 301 | Betty Rosas |
-| 216 | 301 | Trisha Balmer |
-| 217 | 301 | Chelsea Hall |
+| 216 | 301 | Chelsea Hall |
+| 217 | 301 | Trisha Balmer |
 | 218 | 300 | Sherika C. McDaniels |
 | 219 | 298 | MsBee |
 | 220 | 297 | Jojo M |
-| 221 | 296 | Katrina Turner |
-| 222 | 296 | Ammmmmmy |
+| 221 | 296 | Ammmmmmy |
+| 222 | 296 | Katrina Turner |
 | 223 | 296 | Brandon Givens |
 | 224 | 289 | Duane Bright |
 | 225 | 289 | Hoppy Buildout |
@@ -259,16 +259,16 @@
 | 251 | 261 | Tiffany Ford |
 | 252 | 261 | Tasha Wesson-Torrence |
 | 253 | 261 | Marquita Sheard |
-| 254 | 260 | Nikki Pags |
-| 255 | 260 | Grams |
+| 254 | 260 | Grams |
+| 255 | 260 | Nikki Pags |
 | 256 | 259 | Danielle Weikel |
 | 257 | 257 | Ashley Jones |
 | 258 | 256 | KayB |
 | 259 | 254 | Brenda Schmid Wood |
 | 260 | 252 | Roary Danner |
 | 261 | 250 | fraulila |
-| 262 | 249 | Annie Marie |
-| 263 | 249 | Hasty Gridpiece |
+| 262 | 249 | Hasty Gridpiece |
+| 263 | 249 | Annie Marie |
 | 264 | 246 | Peppy Shifter |
 | 265 | 245 | Latoya Mayne |
 | 266 | 244 | LaNette Morgan |
@@ -278,12 +278,12 @@
 | 270 | 238 | Connie Mohler-Fair |
 | 271 | 238 | LaTanya GeminiondaRise Johnson |
 | 272 | 236 | Angela Scott |
-| 273 | 236 | Jess Bissett |
-| 274 | 236 | Melissa Orth Hunter |
+| 273 | 236 | Melissa Orth Hunter |
+| 274 | 236 | Jess Bissett |
 | 275 | 235 | Cozy Snaplink |
 | 276 | 234 | Lys |
-| 277 | 233 | Josh Borquez |
-| 278 | 233 | Ray Lader |
+| 277 | 233 | Ray Lader |
+| 278 | 233 | Josh Borquez |
 | 279 | 232 | Donna |
 | 280 | 230 | Loopy Fallmatch |
 | 281 | 229 | Christian Werndl |
@@ -315,8 +315,8 @@
 | 307 | 210 | Criss |
 | 308 | 210 | Lizabeth Fox |
 | 309 | 209 | Micayah Stevens |
-| 310 | 208 | Niki Dalrymple |
-| 311 | 208 | AlsoJess |
+| 310 | 208 | AlsoJess |
+| 311 | 208 | Niki Dalrymple |
 | 312 | 207 | angieelyn |
 | 313 | 207 | Jessica |
 | 314 | 207 | Daring Builder |

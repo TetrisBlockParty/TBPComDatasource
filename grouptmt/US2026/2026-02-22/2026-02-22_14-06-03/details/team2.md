@@ -195,8 +195,8 @@
 | 187 | 993 | Tralonda Weeks |
 | 188 | 991 | Moose Griffith |
 | 189 | 989 | Teddi Notyalc |
-| 190 | 988 | Maegan Beaule |
-| 191 | 988 | Cherica Taylor |
+| 190 | 988 | Cherica Taylor |
+| 191 | 988 | Maegan Beaule |
 | 192 | 986 | RAEPR05 |
 | 193 | 984 | Nika Bee |
 | 194 | 982 | Desiree Harris Rosch |
@@ -614,8 +614,8 @@
 | 606 | 389 | Kayla |
 | 607 | 388 | Connie Jimenez |
 | 608 | 388 | Christina Ashley |
-| 609 | 387 | Misti Markijohn |
-| 610 | 387 | Bold Brickster |
+| 609 | 387 | Bold Brickster |
+| 610 | 387 | Misti Markijohn |
 | 611 | 385 | Tansaria Couch-Butler |
 | 612 | 385 | Tom Riefer |
 | 613 | 385 | Nate Skidmore |
@@ -785,8 +785,8 @@
 | 777 | 302 | Kena T. Tanner |
 | 778 | 302 | Maxwell Escalera |
 | 779 | 300 | Alice Ball |
-| 780 | 300 | Warren Marleau |
-| 781 | 300 | Kacee Conrad Bock |
+| 780 | 300 | Kacee Conrad Bock |
+| 781 | 300 | Warren Marleau |
 | 782 | 299 | Cassie Newton |
 | 783 | 298 | Lazy Riseclear |
 | 784 | 298 | Ryan Stadel |

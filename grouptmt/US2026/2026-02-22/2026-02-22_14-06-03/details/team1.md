@@ -101,8 +101,8 @@
 | 93 | 389 | Trina Gee |
 | 94 | 383 | Loony Fitzone |
 | 95 | 382 | Jacqueline Williams |
-| 96 | 379 | Kimmie Kimms |
-| 97 | 379 | Austin James |
+| 96 | 379 | Austin James |
+| 97 | 379 | Kimmie Kimms |
 | 98 | 376 | lil mickey |
 | 99 | 374 | Tinah Montanna |
 | 100 | 364 | Shauna Loe |

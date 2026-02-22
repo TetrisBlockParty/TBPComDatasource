@@ -113,8 +113,8 @@
 | 105 | 395 | Marie-Pier Desjardins |
 | 106 | 393 | Carlton Unfiltered |
 | 107 | 392 | Ericca Eldridge |
-| 108 | 391 | Monica Daley |
-| 109 | 391 | Ramel Rhodes |
+| 108 | 391 | Ramel Rhodes |
+| 109 | 391 | Monica Daley |
 | 110 | 387 | Denise Carlson |
 | 111 | 377 | Lori Walker |
 | 112 | 373 | Joseph Guthrie |
@@ -201,8 +201,8 @@
 | 193 | 210 | Austin Owens |
 | 194 | 209 | Sam Bishop |
 | 195 | 209 | Rafael Valentin |
-| 196 | 207 | scott |
-| 197 | 207 | Chirpy Basepiece |
+| 196 | 207 | Chirpy Basepiece |
+| 197 | 207 | scott |
 | 198 | 206 | Ruben Wheeler |
 | 199 | 205 | Kathy Brookins |
 | 200 | 205 | Lindsey Gonzalez |
@@ -212,8 +212,8 @@
 | 204 | 201 | Melvin Baird |
 | 205 | 200 | Lori |
 | 206 | 200 | Laura |
-| 207 | 198 | Keith Kelley |
-| 208 | 198 | Zesty Twistbuilder |
+| 207 | 198 | Zesty Twistbuilder |
+| 208 | 198 | Keith Kelley |
 | 209 | 197 | Silly SeaWeed |
 | 210 | 196 | Oscar Alberto Perez |
 | 211 | 196 | Mr. Party |
@@ -368,7 +368,7 @@
 | 360 | 120 | Bryan Hodgins |
 | 361 | 119 | rebel4lyfe |
 | 362 | 119 | River Shady Sr. |
-| 363 | 118 | Perky Piecegrid |
+| 363 | 118 | Mackenzie Forrester |
 | 364 | 118 | Darrin Rubalcava |
 | 365 | 118 | Perky Piecegrid |
 | 366 | 117 | Gracie Ann Taylor |
