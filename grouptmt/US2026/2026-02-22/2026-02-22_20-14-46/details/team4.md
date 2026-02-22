@@ -130,8 +130,8 @@
 | 122 | 404 | Courtney Cicoria |
 | 123 | 400 | Ericca Eldridge |
 | 124 | 393 | Carlton Unfiltered |
-| 125 | 391 | Ramel Rhodes |
-| 126 | 391 | Austin Owens |
+| 125 | 391 | Austin Owens |
+| 126 | 391 | Ramel Rhodes |
 | 127 | 377 | Carrie Brian |
 | 128 | 373 | Joseph Guthrie |
 | 129 | 369 | Nope Young |
@@ -255,13 +255,13 @@
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | Keith Kelley |
-| 251 | 205 | James Hurley Jr. |
+| 250 | 205 | James Hurley Jr. |
+| 251 | 205 | Keith Kelley |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |
-| 255 | 200 | Lori |
-| 256 | 200 | Googenheim |
+| 255 | 200 | Googenheim |
+| 256 | 200 | Lori |
 | 257 | 199 | Orchislactea |
 | 258 | 198 | Angelito |
 | 259 | 198 | Silly SeaWeed |

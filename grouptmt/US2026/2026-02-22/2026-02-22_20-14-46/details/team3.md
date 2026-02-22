@@ -167,8 +167,8 @@
 | 159 | 470 | Logan Naccarato |
 | 160 | 469 | Adrian Marcel Pate |
 | 161 | 468 | Betty Ivy |
-| 162 | 464 | Michelle |
-| 163 | 464 | Makelini Mausia |
+| 162 | 464 | Makelini Mausia |
+| 163 | 464 | Michelle |
 | 164 | 461 | Jone |
 | 165 | 460 | Danielle Allison |
 | 166 | 457 | Jim Mathews |
@@ -341,8 +341,8 @@
 | 333 | 230 | Michael Lucado |
 | 334 | 228 | Beaudie Stroebel |
 | 335 | 227 | Rebel124 |
-| 336 | 227 | Wettnippz |
-| 337 | 227 | Meowsa |
+| 336 | 227 | Meowsa |
+| 337 | 227 | Wettnippz |
 | 338 | 226 | Stephanie Hill |
 | 339 | 226 | Jana Polk |
 | 340 | 225 | Jessica Lynn French |

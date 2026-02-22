@@ -525,8 +525,8 @@
 | 517 | 497 | June E Hanson |
 | 518 | 495 | Bubbly Snapbuild |
 | 519 | 494 | Venita Ray |
-| 520 | 493 | Sarah DeHart |
-| 521 | 493 | Sue Leard |
+| 520 | 493 | Sue Leard |
+| 521 | 493 | Sarah DeHart |
 | 522 | 493 | Besma Ao |
 | 523 | 492 | Maya June |
 | 524 | 492 | Breezy Clusterer |
@@ -578,21 +578,21 @@
 | 570 | 469 | Christy Long |
 | 571 | 468 | Tina Marie |
 | 572 | 468 | Jennifer Monroe Kelly |
-| 573 | 467 | Audrey Jones |
-| 574 | 467 | SwampRebel |
+| 573 | 467 | SwampRebel |
+| 574 | 467 | Audrey Jones |
 | 575 | 466 | Koa N Sharon Chen |
-| 576 | 466 | Ebony Deloach Bryant |
-| 577 | 466 | Kori Beth Babb |
-| 578 | 466 | Crystal Greene |
+| 576 | 466 | Kori Beth Babb |
+| 577 | 466 | Crystal Greene |
+| 578 | 466 | Ebony Deloach Bryant |
 | 579 | 464 | Ryan Stadel |
 | 580 | 463 | Jaye EL Hunter |
 | 581 | 462 | Jennifer Scott |
 | 582 | 462 | Daphne Jordan |
 | 583 | 461 | Lucy Marshall |
 | 584 | 460 | LaWanda Powell |
-| 585 | 460 | Tara Lynn Janes |
+| 585 | 460 | Funky Caster |
 | 586 | 460 | Gloria Ininahazwe |
-| 587 | 460 | Funky Caster |
+| 587 | 460 | Tara Lynn Janes |
 | 588 | 459 | Shyenn Gadsby |
 | 589 | 458 | Jessica S Flecha |
 | 590 | 457 | Snazzy Basepiece |
@@ -656,8 +656,8 @@
 | 648 | 417 | Alexx Anaya |
 | 649 | 417 | Oscar Bernie |
 | 650 | 416 | Mo Shine On |
-| 651 | 414 | Jasmine Kenney |
-| 652 | 414 | John |
+| 651 | 414 | John |
+| 652 | 414 | Jasmine Kenney |
 | 653 | 414 | Daniel Amos |
 | 654 | 413 | Kristen O'Neal |
 | 655 | 413 | Kimberly Ann |
@@ -856,8 +856,8 @@
 | 848 | 322 | Lea Stewart |
 | 849 | 321 | Aireka Roman |
 | 850 | 321 | Claire |
-| 851 | 320 | Peachy Blockbuilder |
-| 852 | 320 | Epic Stackbuilder |
+| 851 | 320 | Epic Stackbuilder |
+| 852 | 320 | Peachy Blockbuilder |
 | 853 | 319 | Lexa Craft Davidson |
 | 854 | 319 | Giggly Snap |
 | 855 | 319 | Cool Grabber |

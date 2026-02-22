@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Lawrence Belanger |
-| 49 | 770 | Zappy Curvetile |
+| 48 | 770 | Zappy Curvetile |
+| 49 | 770 | Lawrence Belanger |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -232,8 +232,8 @@
 | 224 | 228 | Shiny Gridmatch |
 | 225 | 228 | Giddy Cascade |
 | 226 | 226 | Michael |
-| 227 | 225 | Jessie Lynn |
-| 228 | 225 | Bindi |
+| 227 | 225 | Bindi |
+| 228 | 225 | Jessie Lynn |
 | 229 | 224 | ParisandCory Champagne |
 | 230 | 223 | Erez Yosef |
 | 231 | 223 | Christina Backer |
