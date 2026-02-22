@@ -143,11 +143,11 @@
 | 135 | 373 | Joseph Guthrie |
 | 136 | 367 | Jessica Bohlken |
 | 137 | 354 | Jessica Lynn Cutlip |
-| 138 | 353 | Tyler Terrific |
-| 139 | 353 | Livvy |
+| 138 | 353 | Livvy |
+| 139 | 353 | Tyler Terrific |
 | 140 | 350 | Angela Srubar-Norman |
-| 141 | 343 | Latisha Davis |
-| 142 | 343 | ThaEviLJeNiuZ |
+| 141 | 343 | ThaEviLJeNiuZ |
+| 142 | 343 | Latisha Davis |
 | 143 | 339 | David Lay |
 | 144 | 334 | Guy Incognito |
 | 145 | 333 | Twisty Cascadezone |
@@ -278,8 +278,8 @@
 | 270 | 195 | Shainne Brewer |
 | 271 | 194 | Zany Twisterfit |
 | 272 | 193 | Stephme310 |
-| 273 | 192 | Stella |
-| 274 | 192 | Andrew Dang |
+| 273 | 192 | Andrew Dang |
+| 274 | 192 | Stella |
 | 275 | 191 | Earnest Thompson |
 | 276 | 189 | 030Synner |
 | 277 | 187 | Cynthia Boudreau |

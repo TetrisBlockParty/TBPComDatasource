@@ -187,8 +187,8 @@
 | 179 | 448 | Araceli Parra |
 | 180 | 447 | Shunta Jacobs |
 | 181 | 432 | Luciana Braganca Vieira |
-| 182 | 432 | Christine Trester |
-| 183 | 432 | Jenny Hrndz |
+| 182 | 432 | Jenny Hrndz |
+| 183 | 432 | Christine Trester |
 | 184 | 431 | Sarah Cowan Burgos |
 | 185 | 430 | Joye Sims Binion |
 | 186 | 430 | Jeni Dow |
@@ -242,9 +242,9 @@
 | 234 | 344 | Roary Danner |
 | 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
-| 237 | 341 | Ashley Tookes |
-| 238 | 341 | Noyb Adam |
-| 239 | 341 | Samantha Lynn |
+| 237 | 341 | Samantha Lynn |
+| 238 | 341 | Ashley Tookes |
+| 239 | 341 | Noyb Adam |
 | 240 | 340 | Ammmmmmy |
 | 241 | 339 | Danielle Weikel |
 | 242 | 338 | Gumbo |
