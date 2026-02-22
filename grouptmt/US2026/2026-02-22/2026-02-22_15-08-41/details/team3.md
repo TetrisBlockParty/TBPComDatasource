@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 892 | Raven Dudley |
 | 63 | 882 | Susan Valentino |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Marcie Bressler |
-| 166 | 399 | Mcathen |
+| 165 | 399 | Mcathen |
+| 166 | 399 | Marcie Bressler |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -191,13 +191,13 @@
 | 183 | 370 | Danielle Allison |
 | 184 | 368 | Stephanie Woods |
 | 185 | 366 | Adrian Marcel Pate |
-| 186 | 362 | Darlene McMillan |
-| 187 | 362 | Rochelle Hazelett |
+| 186 | 362 | Rochelle Hazelett |
+| 187 | 362 | Darlene McMillan |
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Tom Nault |
-| 192 | 357 | Stephanie Burtin |
+| 191 | 357 | Stephanie Burtin |
+| 192 | 357 | Tom Nault |
 | 193 | 353 | Nora Rogers |
 | 194 | 351 | Chelsea Hall |
 | 195 | 349 | Amanda J. Mcneil-Anderson |

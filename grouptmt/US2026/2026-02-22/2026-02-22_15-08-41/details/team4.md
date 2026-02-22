@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Meagan Nicole |
-| 147 | 281 | Lindsay Ball |
+| 146 | 281 | Lindsay Ball |
+| 147 | 281 | Meagan Nicole |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |

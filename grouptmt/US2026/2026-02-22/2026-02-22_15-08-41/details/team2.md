@@ -208,8 +208,8 @@
 | 200 | 979 | Hillary Crawford |
 | 201 | 974 | Dolores Russworn |
 | 202 | 973 | Kim Dean |
-| 203 | 960 | Jennifer Kistner |
-| 204 | 960 | Juliana Marques Do Nascimento Gordy |
+| 203 | 960 | Juliana Marques Do Nascimento Gordy |
+| 204 | 960 | Jennifer Kistner |
 | 205 | 957 | Block Master |
 | 206 | 954 | Shannon Joslin |
 | 207 | 951 | Cynthia Ward |
@@ -224,8 +224,8 @@
 | 216 | 919 | Joshua Mandel |
 | 217 | 919 | Isaac Trappiel IV |
 | 218 | 916 | Butta |
-| 219 | 915 | Robin Kerby |
-| 220 | 915 | Angela Bonquiqui Dinish |
+| 219 | 915 | Angela Bonquiqui Dinish |
+| 220 | 915 | Robin Kerby |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | John Bednarik |
-| 239 | 860 | April Dawn Gussler |
+| 238 | 860 | April Dawn Gussler |
+| 239 | 860 | John Bednarik |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Meghan M |
@@ -719,8 +719,8 @@
 | 711 | 337 | Tum |
 | 712 | 336 | bru |
 | 713 | 336 | Austin Wilson |
-| 714 | 335 | Brooke Leigh Strube |
-| 715 | 335 | Alexandrea |
+| 714 | 335 | Alexandrea |
+| 715 | 335 | Brooke Leigh Strube |
 | 716 | 335 | Maria Louise |
 | 717 | 334 | Melissa James |
 | 718 | 333 | Adrian Benitez |
@@ -748,8 +748,8 @@
 | 740 | 323 | stacey |
 | 741 | 323 | Briana Alexander |
 | 742 | 322 | Lea Stewart |
-| 743 | 322 | Robin L. Vial |
-| 744 | 322 | Michelle Pike |
+| 743 | 322 | Michelle Pike |
+| 744 | 322 | Robin L. Vial |
 | 745 | 322 | Christina Jarvis-Swarbrick |
 | 746 | 321 | Tamara Bailey |
 | 747 | 321 | Ashley Criner |
