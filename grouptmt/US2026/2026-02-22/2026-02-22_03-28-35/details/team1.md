@@ -165,8 +165,8 @@
 | 157 | 192 | Christy Jones |
 | 158 | 192 | Shaykmia |
 | 159 | 191 | Diane Byrd |
-| 160 | 190 | Sweetts |
-| 161 | 190 | Thorne Shumate |
+| 160 | 190 | Thorne Shumate |
+| 161 | 190 | Sweetts |
 | 162 | 189 | Michael |
 | 163 | 188 | Sam Williams |
 | 164 | 187 | Jennifer Olewnik Soborowski |
@@ -267,8 +267,8 @@
 | 259 | 120 | Kimmie Kimms |
 | 260 | 119 | Strig |
 | 261 | 119 | Tater |
-| 262 | 118 | Garcia Bailey |
-| 263 | 118 | Tyler Hertzog |
+| 262 | 118 | Tyler Hertzog |
+| 263 | 118 | Garcia Bailey |
 | 264 | 116 | Fresno Beotoni |
 | 265 | 115 | Chuck Gannon |
 | 266 | 115 | Mrs.Patrica |
@@ -302,8 +302,8 @@
 | 294 | 107 | Debbie Davis |
 | 295 | 107 | Bob |
 | 296 | 106 | Bloknboy |
-| 297 | 105 | George Dalton |
-| 298 | 105 | Ty Brown |
+| 297 | 105 | Ty Brown |
+| 298 | 105 | George Dalton |
 | 299 | 105 | Kayla Marie Stevenson |
 | 300 | 105 | Eddie Dillon |
 | 301 | 104 | Colleen Pinette |

@@ -194,8 +194,8 @@
 | 186 | 274 | Tye Stovall |
 | 187 | 272 | opf |
 | 188 | 271 | Ashley Muncey |
-| 189 | 267 | Terry Jo Jones |
-| 190 | 267 | Denise Nardoni |
+| 189 | 267 | Denise Nardoni |
+| 190 | 267 | Terry Jo Jones |
 | 191 | 265 | Araceli Parra |
 | 192 | 264 | Tom Nault |
 | 193 | 264 | Dee Franklin |
@@ -211,15 +211,15 @@
 | 203 | 256 | Tiffany Davie |
 | 204 | 254 | Duane Bright |
 | 205 | 253 | Nora Rogers |
-| 206 | 249 | Annie Marie |
-| 207 | 249 | JerseyJess |
+| 206 | 249 | JerseyJess |
+| 207 | 249 | Annie Marie |
 | 208 | 247 | Rebecca Funderburk Kirby |
-| 209 | 246 | Eon Harris |
-| 210 | 246 | Rochelle Hazelett |
+| 209 | 246 | Rochelle Hazelett |
+| 210 | 246 | Eon Harris |
 | 211 | 246 | Peppy Shifter |
 | 212 | 245 | Latoya Mayne |
-| 213 | 240 | Brandon Givens |
-| 214 | 240 | Jimmie Clemons |
+| 213 | 240 | Jimmie Clemons |
+| 214 | 240 | Brandon Givens |
 | 215 | 236 | Jess Bissett |
 | 216 | 235 | LaNette Morgan |
 | 217 | 234 | Nikki Pags |
@@ -234,15 +234,15 @@
 | 226 | 218 | Michael Lucado |
 | 227 | 216 | Tasha Wesson-Torrence |
 | 228 | 215 | IamJust Neyamijah Washington Sr. |
-| 229 | 214 | Rebel124 |
-| 230 | 214 | Amy Fuller Heaton |
+| 229 | 214 | Amy Fuller Heaton |
+| 230 | 214 | Rebel124 |
 | 231 | 213 | Stephanie Burtin |
 | 232 | 212 | Twisty Brick LT |
 | 233 | 212 | Sunny Rotater |
 | 234 | 211 | Katrina Turner |
 | 235 | 211 | Khaleada McGill Banks |
-| 236 | 210 | Trisha Balmer |
-| 237 | 210 | Desiree Gold |
+| 236 | 210 | Desiree Gold |
+| 237 | 210 | Trisha Balmer |
 | 238 | 207 | Jessica |
 | 239 | 205 | Connie Mohler-Fair |
 | 240 | 205 | Sarah Moyer |
@@ -422,7 +422,7 @@
 | 414 | 114 | Dapper Towerfit |
 | 415 | 114 | Elizabeth Renee |
 | 416 | 113 | Kristy Brown |
-| 417 | 113 | Leticia Lynn Lowe |
+| 417 | 113 | Tia Moore |
 | 418 | 113 | Gideon Walker |
 | 419 | 113 | Leticia Lynn Lowe |
 | 420 | 112 | Shanon R Jackson |

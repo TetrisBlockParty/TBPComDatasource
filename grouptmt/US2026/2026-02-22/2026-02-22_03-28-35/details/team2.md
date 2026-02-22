@@ -74,8 +74,8 @@
 | 66 | 1681 | Shameika Trail |
 | 67 | 1641 | Andea Beck |
 | 68 | 1620 | Sam Smith |
-| 69 | 1603 | RdRydnHd |
-| 70 | 1603 | Gabby Jenner |
+| 69 | 1603 | Gabby Jenner |
+| 70 | 1603 | RdRydnHd |
 | 71 | 1596 | Ray Ray Prado |
 | 72 | 1587 | Rob Riggin |
 | 73 | 1553 | Charie Holland |
@@ -448,8 +448,8 @@
 | 440 | 400 | Tammy Allen |
 | 441 | 400 | Victoria Regina Girolami |
 | 442 | 399 | Goofy Dasher |
-| 443 | 399 | Juanita Lyons |
-| 444 | 399 | Oscar Bernie |
+| 443 | 399 | Oscar Bernie |
+| 444 | 399 | Juanita Lyons |
 | 445 | 397 | coleksquad |
 | 446 | 396 | Stefanie Zonzini-Gagliardi |
 | 447 | 394 | Taryece Gause |
@@ -605,7 +605,7 @@
 | 597 | 308 | Prado |
 | 598 | 307 | Gina Caulder |
 | 599 | 305 | Libby Hicks |
-| 600 | 305 | Zany Clusterbuilder |
+| 600 | 305 | Arlene Joy Belicina |
 | 601 | 305 | Snippy Block |
 | 602 | 305 | Zany Clusterbuilder |
 | 603 | 304 | Swanky Columnbuilder |
@@ -641,8 +641,8 @@
 | 633 | 292 | Epic Fitzone |
 | 634 | 292 | Deana |
 | 635 | 290 | Adrian Benitez |
-| 636 | 289 | Britney M. |
-| 637 | 289 | Jasmine Kenney |
+| 636 | 289 | Jasmine Kenney |
+| 637 | 289 | Britney M. |
 | 638 | 289 | Bella Novia |
 | 639 | 288 | August Hale |
 | 640 | 288 | Kristi Biddinger |
