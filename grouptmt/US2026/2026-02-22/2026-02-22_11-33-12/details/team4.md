@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -128,8 +128,8 @@
 | 120 | 303 | Lauren Scott |
 | 121 | 300 | Jason Hart |
 | 122 | 298 | Lucas J Sutton |
-| 123 | 296 | Justin Hannigan |
-| 124 | 296 | HastyGrabber |
+| 123 | 296 | HastyGrabber |
+| 124 | 296 | Justin Hannigan |
 | 125 | 294 | Kesha Brady |
 | 126 | 290 | 🥔🥔 Spudz |
 | 127 | 287 | Shannon Ferrari |
@@ -171,8 +171,8 @@
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
 | 165 | 223 | Antony Dwayne Beasley |
-| 166 | 221 | Rheanda Weaskus |
-| 167 | 221 | PurpleMoonMa |
+| 166 | 221 | PurpleMoonMa |
+| 167 | 221 | Rheanda Weaskus |
 | 168 | 220 | Matt Dell'Olio |
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
@@ -355,8 +355,8 @@
 | 347 | 116 | Smiley Shifter |
 | 348 | 116 | Kate |
 | 349 | 116 | Bradley Reeves |
-| 350 | 115 | Jayk |
-| 351 | 115 | Meg |
+| 350 | 115 | Meg |
+| 351 | 115 | Jayk |
 | 352 | 115 | Kevin Bush |
 | 353 | 115 | Berklie Apedaile |
 | 354 | 115 | Alexandra Karavias |
@@ -426,8 +426,8 @@
 | 418 | 97 | Brandon Crabbs |
 | 419 | 97 | Cool Gridzone |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Jobadia Steelerton |
-| 422 | 95 | Chirpy Slammer |
+| 421 | 95 | Chirpy Slammer |
+| 422 | 95 | Jobadia Steelerton |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Jeff Roberts |
 | 425 | 94 | Ahleek Mitchell |

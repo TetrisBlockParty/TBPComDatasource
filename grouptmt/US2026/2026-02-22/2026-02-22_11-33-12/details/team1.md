@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -90,8 +90,8 @@
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
 | 84 | 390 | Candy Jones |
-| 85 | 390 | Goose egg |
-| 86 | 390 | Lori Bales |
+| 85 | 390 | Lori Bales |
+| 86 | 390 | Goose egg |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -120,8 +120,8 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
@@ -170,7 +170,7 @@
 | 162 | 241 | John J. Cronin |
 | 163 | 239 | Jamie Jury |
 | 164 | 232 | Jessi Sauer |
-| 165 | 230 | Mike Ames |
+| 165 | 230 | Billie Dawn Sparks |
 | 166 | 230 | Frothy Pattern |
 | 167 | 230 | Mike Ames |
 | 168 | 229 | David Lutcher |

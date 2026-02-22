@@ -160,8 +160,8 @@
 | 152 | 402 | Shannon Matthew Byers |
 | 153 | 401 | Katie Knaus |
 | 154 | 400 | Luciana Braganca Vieira |
-| 155 | 399 | Marcie Bressler |
-| 156 | 399 | Mcathen |
+| 155 | 399 | Mcathen |
+| 156 | 399 | Marcie Bressler |
 | 157 | 397 | Annie Déè |
 | 158 | 396 | Tasha Gillespie |
 | 159 | 393 | Fallorina Susana |
@@ -176,8 +176,8 @@
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
 | 170 | 370 | Danielle Allison |
-| 171 | 370 | Logan Naccarato |
-| 172 | 370 | Santeria Trece Candles |
+| 171 | 370 | Santeria Trece Candles |
+| 172 | 370 | Logan Naccarato |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Amy Fuller Heaton |
-| 286 | 214 | Angela Scott |
+| 285 | 214 | Angela Scott |
+| 286 | 214 | Amy Fuller Heaton |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -306,8 +306,8 @@
 | 298 | 207 | Daring Builder |
 | 299 | 207 | Jessica |
 | 300 | 207 | angieelyn |
-| 301 | 206 | Tammy Rosenberry |
-| 302 | 206 | Stephanie Hill |
+| 301 | 206 | Stephanie Hill |
+| 302 | 206 | Tammy Rosenberry |
 | 303 | 206 | Tracy Martin |
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
@@ -357,20 +357,20 @@
 | 349 | 170 | Tina Smith Roy |
 | 350 | 170 | Colleen Phelps |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Angella Lyons |
-| 358 | 166 | Snarky McFace |
+| 357 | 166 | Snarky McFace |
+| 358 | 166 | Angella Lyons |
 | 359 | 165 | Kali Kelz Williams |
 | 360 | 165 | Rainbow77375 |
 | 361 | 165 | Ashley Lynn Marchese |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Loopy Fallzone |
 | 368 | 162 | Eric Caccavale |
@@ -402,7 +402,7 @@
 | 394 | 152 | Silver Marchán |
 | 395 | 151 | Sarah Cowan Burgos |
 | 396 | 150 | Sassy Brickmatch |
-| 397 | 149 | Arden White Kirsch |
+| 397 | 149 | Alexis Taylor |
 | 398 | 149 | Wacky Crasher |
 | 399 | 149 | Arden White Kirsch |
 | 400 | 148 | Flashy Rumbler |
