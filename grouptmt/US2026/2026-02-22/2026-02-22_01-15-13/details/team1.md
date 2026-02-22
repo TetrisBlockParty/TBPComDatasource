@@ -89,8 +89,8 @@
 | 81 | 323 | Sweet Baker |
 | 82 | 323 | Candy Jones |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Deanna L Hermanson |
-| 85 | 319 | Shauna Loe |
+| 84 | 319 | Shauna Loe |
+| 85 | 319 | Deanna L Hermanson |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -128,8 +128,8 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | Shauntina Burke |
-| 124 | 216 | MRdot Rooski |
+| 123 | 216 | MRdot Rooski |
+| 124 | 216 | Shauntina Burke |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
@@ -145,8 +145,8 @@
 | 137 | 194 | Ash Galvan |
 | 138 | 194 | Tyler Werts |
 | 139 | 193 | Lachelle Dillon |
-| 140 | 192 | Shaykmia |
-| 141 | 192 | Jessica Sheehan |
+| 140 | 192 | Jessica Sheehan |
+| 141 | 192 | Shaykmia |
 | 142 | 191 | Diane Byrd |
 | 143 | 190 | Sweetts |
 | 144 | 190 | Thorne Shumate |

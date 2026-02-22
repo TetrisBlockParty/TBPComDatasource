@@ -133,8 +133,8 @@
 | 125 | 211 | Twisty Cascadezone |
 | 126 | 210 | Swanky Fitline |
 | 127 | 205 | Sarah Neathery |
-| 128 | 204 | Dana Scott |
-| 129 | 204 | Jen Caldwell |
+| 128 | 204 | Jen Caldwell |
+| 129 | 204 | Dana Scott |
 | 130 | 203 | Katherine Crane |
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
@@ -152,8 +152,8 @@
 | 144 | 185 | Lori |
 | 145 | 185 | Andy Cabral |
 | 146 | 184 | Justin Hannigan |
-| 147 | 181 | Klo |
-| 148 | 181 | Andria Lynn |
+| 147 | 181 | Andria Lynn |
+| 148 | 181 | Klo |
 | 149 | 181 | Carter Jones |
 | 150 | 180 | Leah Kutz Zirbel |
 | 151 | 180 | Ren Mc |
@@ -166,8 +166,8 @@
 | 158 | 173 | Jessica Lynn Cutlip |
 | 159 | 171 | Diana Houts |
 | 160 | 166 | SammieJo Guy |
-| 161 | 164 | ThaEviLJeNiuZ |
-| 162 | 164 | 030Synner |
+| 161 | 164 | 030Synner |
+| 162 | 164 | ThaEviLJeNiuZ |
 | 163 | 160 | ZeeZee |
 | 164 | 160 | Carlos Ramirez |
 | 165 | 155 | AyeKay |
