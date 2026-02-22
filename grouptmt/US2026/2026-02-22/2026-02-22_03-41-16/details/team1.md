@@ -126,8 +126,8 @@
 | 118 | 264 | Lexuriuos Lifestlye |
 | 119 | 263 | Sharon Reynolds |
 | 120 | 263 | Jason Jones |
-| 121 | 252 | Dena Kayy |
-| 122 | 252 | Elaine Elaine |
+| 121 | 252 | Elaine Elaine |
+| 122 | 252 | Dena Kayy |
 | 123 | 247 | Tana |
 | 124 | 243 | Chelsea Dahlquist |
 | 125 | 243 | Trippy Redd |
@@ -138,8 +138,8 @@
 | 130 | 230 | Billie Dawn Sparks |
 | 131 | 230 | Frothy Pattern |
 | 132 | 228 | Jenny Gingrich Fuentes |
-| 133 | 226 | ALFD |
-| 134 | 226 | Kandae |
+| 133 | 226 | Kandae |
+| 134 | 226 | ALFD |
 | 135 | 217 | ParisandCory Champagne |
 | 136 | 216 | Shauntina Burke |
 | 137 | 216 | MRdot Rooski |
@@ -180,8 +180,8 @@
 | 172 | 179 | Danielle Little-Daugherty |
 | 173 | 179 | femmefatale |
 | 174 | 178 | Chad Atchley |
-| 175 | 177 | Jacqueline Unique |
-| 176 | 177 | Irual Hctrab |
+| 175 | 177 | Irual Hctrab |
+| 176 | 177 | Jacqueline Unique |
 | 177 | 176 | Mel Hogan |
 | 178 | 175 | John Barron |
 | 179 | 174 | Cheeky Pop |

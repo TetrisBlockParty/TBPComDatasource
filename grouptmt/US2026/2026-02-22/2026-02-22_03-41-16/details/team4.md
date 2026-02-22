@@ -47,8 +47,8 @@
 | 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
-| 42 | 630 | Dustee Craddock-Harrison |
-| 43 | 630 | Chilly Line |
+| 42 | 630 | Chilly Line |
+| 43 | 630 | Dustee Craddock-Harrison |
 | 44 | 627 | Jonathan Kimbrough |
 | 45 | 620 | Cassie Michaux |
 | 46 | 614 | KM8 |
@@ -73,13 +73,13 @@
 | 65 | 485 | Lisa Davis |
 | 66 | 483 | Carmethia Clemons Haslerig |
 | 67 | 466 | Dawn Alexander |
-| 68 | 447 | Samantha Peterson |
-| 69 | 447 | TeeJ |
+| 68 | 447 | TeeJ |
+| 69 | 447 | Samantha Peterson |
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
-| 73 | 396 | Amy Suckarieh |
-| 74 | 396 | Alicia Bass |
+| 73 | 396 | Alicia Bass |
+| 74 | 396 | Amy Suckarieh |
 | 75 | 392 | YoMomma |
 | 76 | 391 | Ramel Rhodes |
 | 77 | 390 | Carlton Unfiltered |
@@ -141,8 +141,8 @@
 | 133 | 221 | PurpleMoonMa |
 | 134 | 220 | Matt Dell'Olio |
 | 135 | 220 | Mary Ann Pabukis |
-| 136 | 218 | Casey Grabner |
-| 137 | 218 | Antony Dwayne Beasley |
+| 136 | 218 | Antony Dwayne Beasley |
+| 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
 | 139 | 215 | Ren Mc |
 | 140 | 215 | Jessica Bohlken |
@@ -191,8 +191,8 @@
 | 183 | 160 | ZeeZee |
 | 184 | 160 | James Hurley Jr. |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Avy Absol |
-| 187 | 158 | Chair |
+| 186 | 158 | Chair |
+| 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
 | 189 | 154 | Laura Hosford |
 | 190 | 154 | scott |

@@ -132,9 +132,9 @@
 | 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
-| 127 | 399 | ren |
-| 128 | 399 | Patti Skiles |
-| 129 | 399 | Mcathen |
+| 127 | 399 | Mcathen |
+| 128 | 399 | ren |
+| 129 | 399 | Patti Skiles |
 | 130 | 397 | Annie Déè |
 | 131 | 392 | Katie Knaus |
 | 132 | 392 | Tasha Gillespie |
@@ -457,7 +457,7 @@
 | 449 | 105 | Emi |
 | 450 | 105 | Tammy Rosenberry |
 | 451 | 104 | bean |
-| 452 | 104 | Johnathan Dowe |
+| 452 | 104 | Michael Pleasant |
 | 453 | 104 | Alison Baus |
 | 454 | 104 | Johnathan Dowe |
 | 455 | 104 | Michael Kimbro |
