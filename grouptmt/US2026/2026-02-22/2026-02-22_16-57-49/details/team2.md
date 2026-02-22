@@ -263,8 +263,8 @@
 | 255 | 860 | William Hunt |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
-| 258 | 853 | Maria Escobar |
-| 259 | 853 | Meghan M |
+| 258 | 853 | Meghan M |
+| 259 | 853 | Maria Escobar |
 | 260 | 845 | Sheniya Spurgeon |
 | 261 | 844 | Terri McKelvey McKinley |
 | 262 | 842 | Elizabeth Wilbanks |
@@ -332,8 +332,8 @@
 | 324 | 700 | Beverly Owens |
 | 325 | 700 | Rosemadder |
 | 326 | 699 | tejas25 |
-| 327 | 697 | Dreamy Blast |
-| 328 | 697 | Ashle Scranton |
+| 327 | 697 | Ashle Scranton |
+| 328 | 697 | Dreamy Blast |
 | 329 | 695 | Deborah Miller |
 | 330 | 695 | Lakeysha Dortch |
 | 331 | 692 | Dannette Goldberg-Richards |
@@ -467,8 +467,8 @@
 | 459 | 519 | Rob Brown |
 | 460 | 518 | Dennis McLaurin |
 | 461 | 517 | Alex Dungo Hoang |
-| 462 | 517 | Brenna Ann |
-| 463 | 517 | Porsche' Nicole |
+| 462 | 517 | Porsche' Nicole |
+| 463 | 517 | Brenna Ann |
 | 464 | 516 | Diamond Scott |
 | 465 | 515 | Victoria Regina Girolami |
 | 466 | 515 | Laquetta Royston |
@@ -490,8 +490,8 @@
 | 482 | 496 | Erika Densmore |
 | 483 | 495 | Bubbly Snapbuild |
 | 484 | 494 | Venita Ray |
-| 485 | 493 | Sarah DeHart |
-| 486 | 493 | Sue Leard |
+| 485 | 493 | Sue Leard |
+| 486 | 493 | Sarah DeHart |
 | 487 | 492 | Breezy Clusterer |
 | 488 | 492 | Maya June |
 | 489 | 492 | Armonie Smith |
@@ -753,8 +753,8 @@
 | 745 | 336 | Melanie Csikortos |
 | 746 | 335 | Maria Louise |
 | 747 | 335 | Sabrena Yeisley |
-| 748 | 335 | Alexandrea |
-| 749 | 335 | Brooke Leigh Strube |
+| 748 | 335 | Brooke Leigh Strube |
+| 749 | 335 | Alexandrea |
 | 750 | 334 | Melissa James |
 | 751 | 333 | Adrian Benitez |
 | 752 | 333 | Woodys Glass |
@@ -997,8 +997,8 @@
 | 989 | 261 | Gina Gina |
 | 990 | 261 | Chirpy Tilt |
 | 991 | 261 | Mellissa Evans |
-| 992 | 260 | Michelle Fleming Luna |
-| 993 | 260 | Lianne Giandalone LaBounty |
+| 992 | 260 | Lianne Giandalone LaBounty |
+| 993 | 260 | Michelle Fleming Luna |
 | 994 | 260 | Manny Trindade |
 | 995 | 259 | Alyssa Nadine Medelez |
 | 996 | 259 | sup |
@@ -1008,16 +1008,16 @@
 | 1000 | 259 | Jay Dreamer-x Shelly |
 | 1001 | 259 | Mary Ahne |
 | 1002 | 259 | Maurice Bundy |
-| 1003 | 258 | Kara Tolbert |
-| 1004 | 258 | DesertDreamer24 |
+| 1003 | 258 | DesertDreamer24 |
+| 1004 | 258 | Kara Tolbert |
 | 1005 | 258 | Tee Jaleesa |
 | 1006 | 258 | Monarca26 |
 | 1007 | 258 | Kristen Casale Berry |
 | 1008 | 258 | Scott |
 | 1009 | 258 | Jo Nicole |
 | 1010 | 258 | Mordoks Pyrography |
-| 1011 | 257 | Jackie Jackie Lee |
-| 1012 | 257 | Ys Muhammed |
+| 1011 | 257 | Ys Muhammed |
+| 1012 | 257 | Jackie Jackie Lee |
 | 1013 | 256 | Gursharan Sandhu |
 | 1014 | 256 | Allyson Marra |
 | 1015 | 256 | Brenna Yearian |

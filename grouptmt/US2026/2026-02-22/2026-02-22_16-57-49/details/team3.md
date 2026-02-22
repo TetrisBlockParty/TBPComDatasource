@@ -191,8 +191,8 @@
 | 183 | 385 | Shunta Jacobs |
 | 184 | 382 | Scott Carleton |
 | 185 | 380 | Tasha Schriewer |
-| 186 | 378 | Chris Bell |
-| 187 | 378 | Nicole Flippo |
+| 186 | 378 | Nicole Flippo |
+| 187 | 378 | Chris Bell |
 | 188 | 377 | rosy |
 | 189 | 376 | Cozy Snaplink |
 | 190 | 376 | Loopy Clusterer |
@@ -308,8 +308,8 @@
 | 300 | 229 | Kevin Russell |
 | 301 | 228 | Naur |
 | 302 | 227 | Rebel124 |
-| 303 | 227 | ROODBOY |
-| 304 | 227 | Meowsa |
+| 303 | 227 | Meowsa |
+| 304 | 227 | ROODBOY |
 | 305 | 226 | Jana Polk |
 | 306 | 225 | Micayah Stevens |
 | 307 | 225 | Stephanie Hill |
@@ -376,8 +376,8 @@
 | 368 | 193 | BŘŰŤİÇŨŚ |
 | 369 | 193 | Clever Shiftsnap |
 | 370 | 193 | Loopy Fallzone |
-| 371 | 192 | Katrina E Jelks |
-| 372 | 192 | Melanie Sherwood |
+| 371 | 192 | Melanie Sherwood |
+| 372 | 192 | Katrina E Jelks |
 | 373 | 192 | Kelly Ann Child |
 | 374 | 191 | Becca Engle |
 | 375 | 191 | Rainbow77375 |
@@ -426,8 +426,8 @@
 | 418 | 167 | Boldy Blocker |
 | 419 | 167 | Shicken Nuggit |
 | 420 | 167 | Irene Arreguin |
-| 421 | 166 | Rashad Green |
-| 422 | 166 | Joshua David Huie |
+| 421 | 166 | Joshua David Huie |
+| 422 | 166 | Rashad Green |
 | 423 | 165 | Kali Kelz Williams |
 | 424 | 165 | Silver Marchán |
 | 425 | 164 | Hanna Kim |

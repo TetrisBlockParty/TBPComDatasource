@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Lexuriuos Lifestlye |
-| 85 | 444 | Hyper |
+| 84 | 444 | Hyper |
+| 85 | 444 | Lexuriuos Lifestlye |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -243,7 +243,7 @@
 | 235 | 201 | Colleen Wise |
 | 236 | 200 | Diane Byrd |
 | 237 | 200 | Breanna Luna |
-| 238 | 200 | Diane Byrd |
+| 238 | 200 | Flashy Rotator |
 | 239 | 199 | Alenoush Karimian |
 | 240 | 198 | Shiny Gridmatch |
 | 241 | 198 | Happy Snapbuild |
@@ -459,10 +459,10 @@
 | 451 | 105 | Lucinda Thacker |
 | 452 | 105 | Bye Love |
 | 453 | 105 | Josh Riemer |
-| 454 | 104 | Charla Pross-Fugleberg |
-| 455 | 104 | Jamie Catlett |
+| 454 | 104 | Jamie Catlett |
+| 455 | 104 | Charla Pross-Fugleberg |
 | 456 | 104 | Craig Mcgonigle |
-| 457 | 103 | Glitzy Grid |
+| 457 | 103 | Mariah Cornell |
 | 458 | 103 | Adriansoky |
 | 459 | 103 | Glitzy Grid |
 | 460 | 102 | Kelly Holland |

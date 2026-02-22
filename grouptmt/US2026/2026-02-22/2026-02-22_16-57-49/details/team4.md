@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1147 | Kimberly Love |
@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 823 | Jae Job |
@@ -504,8 +504,8 @@
 | 496 | 93 | Mousey406 |
 | 497 | 93 | Megan Boyce |
 | 498 | 93 | Tyler Bechtel |
-| 499 | 92 | Frilly Blocky |
-| 500 | 92 | RogueRebel |
+| 499 | 92 | RogueRebel |
+| 500 | 92 | Frilly Blocky |
 | 501 | 92 | Krash |
 | 502 | 91 | Kametsunoyaiba |
 | 503 | 90 | Ernest Maxwell |
