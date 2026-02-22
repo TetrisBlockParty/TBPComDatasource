@@ -134,16 +134,16 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Tasha Schriewer |
-| 130 | 378 | Makelini Mausia |
+| 129 | 378 | Makelini Mausia |
+| 130 | 378 | Tasha Schriewer |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 350 | Louise Stacy Sisson |
 | 140 | 350 | Darlene McMillan |
 | 141 | 348 | CeceGeGe |
@@ -204,8 +204,8 @@
 | 196 | 240 | Brandon Givens |
 | 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
-| 199 | 236 | Rania Zaqout |
-| 200 | 236 | Jess Bissett |
+| 199 | 236 | Jess Bissett |
+| 200 | 236 | Rania Zaqout |
 | 201 | 235 | LaNette Morgan |
 | 202 | 234 | Nikki Pags |
 | 203 | 233 | Ray Lader |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Sissy Lowery Davis |
-| 211 | 219 | Shunta Jacobs |
+| 210 | 219 | Shunta Jacobs |
+| 211 | 219 | Sissy Lowery Davis |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 218 | Giddy Twistbuilder |
@@ -245,8 +245,8 @@
 | 237 | 197 | Angie Harper |
 | 238 | 195 | Nicha Hooker |
 | 239 | 194 | Raven Dudley |
-| 240 | 193 | Clever Shiftsnap |
-| 241 | 193 | Hyper Matchzone |
+| 240 | 193 | Hyper Matchzone |
+| 241 | 193 | Clever Shiftsnap |
 | 242 | 192 | Kelly Ann Child |
 | 243 | 191 | Scott Carleton |
 | 244 | 189 | Katie Leigh Blankenship |

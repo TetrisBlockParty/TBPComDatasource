@@ -216,8 +216,8 @@
 | 208 | 709 | Jerilyn Andrina |
 | 209 | 705 | Lola Contreras |
 | 210 | 705 | Roger Grabbit |
-| 211 | 700 | Rosemadder |
-| 212 | 700 | Beverly Owens |
+| 211 | 700 | Beverly Owens |
+| 212 | 700 | Rosemadder |
 | 213 | 700 | Vincent Petrella |
 | 214 | 699 | Vo'Landa Reels |
 | 215 | 692 | Chelle |

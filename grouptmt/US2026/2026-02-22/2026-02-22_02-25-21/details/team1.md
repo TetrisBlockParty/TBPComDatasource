@@ -116,8 +116,8 @@
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
 | 110 | 268 | Monica Donato |
-| 111 | 263 | Jason Jones |
-| 112 | 263 | Sharon Reynolds |
+| 111 | 263 | Sharon Reynolds |
+| 112 | 263 | Jason Jones |
 | 113 | 262 | Dandy Basegrid |
 | 114 | 257 | june october |
 | 115 | 255 | Katie Daniels |
@@ -187,10 +187,10 @@
 | 179 | 170 | Cartier |
 | 180 | 170 | Veronica Eve |
 | 181 | 169 | Abbey Crespo |
-| 182 | 168 | Jessie Lynn |
-| 183 | 168 | Standia Civil |
-| 184 | 167 | Nery Martinez |
-| 185 | 167 | Erin Hodges Plumb |
+| 182 | 168 | Standia Civil |
+| 183 | 168 | Jessie Lynn |
+| 184 | 167 | Erin Hodges Plumb |
+| 185 | 167 | Nery Martinez |
 | 186 | 166 | Rico Rico |
 | 187 | 165 | Arianna O'Brien |
 | 188 | 165 | Nadine Velardo |
@@ -199,8 +199,8 @@
 | 191 | 163 | Tyler Whitley |
 | 192 | 162 | Cece Ibarra |
 | 193 | 161 | SavageBooty98 |
-| 194 | 160 | Tedashi |
-| 195 | 160 | David Miller |
+| 194 | 160 | David Miller |
+| 195 | 160 | Tedashi |
 | 196 | 159 | Bindi |
 | 197 | 158 | Sarah Marie |
 | 198 | 154 | Melissa Lemmon |
@@ -211,10 +211,10 @@
 | 203 | 147 | Davery Spencer Adair |
 | 204 | 147 | DaRascal |
 | 205 | 145 | Agustin Duarte Orozco |
-| 206 | 144 | Toph |
-| 207 | 144 | Miguel Teixeira |
-| 208 | 144 | Gary Gobin |
-| 209 | 144 | Cranky Pattern |
+| 206 | 144 | Miguel Teixeira |
+| 207 | 144 | Toph |
+| 208 | 144 | Cranky Pattern |
+| 209 | 144 | Gary Gobin |
 | 210 | 142 | Colleen Wise |
 | 211 | 141 | Blaire Bruckoff |
 | 212 | 141 | Dino |
@@ -229,12 +229,12 @@
 | 221 | 136 | Tipsy Riseclear |
 | 222 | 135 | Guest |
 | 223 | 135 | Aimee Horton |
-| 224 | 134 | LD1 |
-| 225 | 134 | Andrew Boone |
+| 224 | 134 | Andrew Boone |
+| 225 | 134 | LD1 |
 | 226 | 133 | Fmp |
 | 227 | 132 | Jessi Sauer |
-| 228 | 132 | Larry Tilton |
-| 229 | 132 | Layzietyme |
+| 228 | 132 | Layzietyme |
+| 229 | 132 | Larry Tilton |
 | 230 | 131 | Uhog SF |
 | 231 | 131 | Jessie |
 | 232 | 131 | Tawnya Peltonen |
@@ -300,8 +300,8 @@
 | 292 | 105 | Eddie Dillon |
 | 293 | 104 | Charla Pross-Fugleberg |
 | 294 | 104 | Serina Marie |
-| 295 | 103 | Alex Gauthier |
-| 296 | 103 | MommaKFC |
+| 295 | 103 | MommaKFC |
+| 296 | 103 | Alex Gauthier |
 | 297 | 102 | Marie White |
 | 298 | 102 | Sarah Henniker |
 | 299 | 102 | Barrbaric |
