@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Cynthia Bradley |
-| 81 | 534 | Loony Fitzone |
+| 80 | 534 | Loony Fitzone |
+| 81 | 534 | Cynthia Bradley |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -103,8 +103,8 @@
 | 95 | 483 | Jennifer ManWarren |
 | 96 | 480 | cc |
 | 97 | 474 | Tdub |
-| 98 | 472 | April Carroll |
-| 99 | 472 | Kristen Gideon |
+| 98 | 472 | Kristen Gideon |
+| 99 | 472 | April Carroll |
 | 100 | 469 | Tinah Montanna |
 | 101 | 466 | Hasbro Bros |
 | 102 | 462 | Luciano Moreira |
@@ -138,19 +138,19 @@
 | 130 | 386 | David Miller |
 | 131 | 383 | pjbeta |
 | 132 | 382 | And |
-| 133 | 379 | Kimmie Kimms |
-| 134 | 379 | Austin James |
+| 133 | 379 | Austin James |
+| 134 | 379 | Kimmie Kimms |
 | 135 | 376 | lil mickey |
 | 136 | 376 | Brian Richardsson |
-| 137 | 364 | Serina Marie |
-| 138 | 364 | Shauna Loe |
+| 137 | 364 | Shauna Loe |
+| 138 | 364 | Serina Marie |
 | 139 | 363 | Sharon Reynolds |
 | 140 | 361 | Tanya Carpenter-Reynolds |
 | 141 | 360 | phrmblk24 |
 | 142 | 360 | Wisa |
 | 143 | 359 | Chirpy Smasher |
-| 144 | 357 | Jason Savage |
-| 145 | 357 | Amanda Johnson Huffman |
+| 144 | 357 | Amanda Johnson Huffman |
+| 145 | 357 | Jason Savage |
 | 146 | 353 | Josh Riemer |
 | 147 | 350 | Death |
 | 148 | 350 | Tipsy Strikerpiece |
@@ -214,12 +214,12 @@
 | 206 | 267 | Debbie Kane |
 | 207 | 267 | Cody Gates |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jenny Gingrich Fuentes |
-| 210 | 264 | Jen Nystrom |
+| 209 | 264 | Jen Nystrom |
+| 210 | 264 | Jenny Gingrich Fuentes |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Standia Civil |
-| 214 | 256 | Chris65 |
+| 213 | 256 | Chris65 |
+| 214 | 256 | Standia Civil |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Al Smith Jr |
 | 217 | 254 | Giggly Builderline |

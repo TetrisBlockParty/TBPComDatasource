@@ -117,8 +117,8 @@
 | 109 | 730 | Speedy Bridger |
 | 110 | 723 | Mandy Smith Oldham |
 | 111 | 720 | Raya |
-| 112 | 716 | Kristie |
-| 113 | 716 | Calista Jo Dickson |
+| 112 | 716 | Calista Jo Dickson |
+| 113 | 716 | Kristie |
 | 114 | 715 | Keith J Oshman Jr. |
 | 115 | 712 | Katrina Schroeder |
 | 116 | 704 | Suzieq |
@@ -186,8 +186,8 @@
 | 178 | 465 | Tasha Schriewer |
 | 179 | 464 | Makelini Mausia |
 | 180 | 461 | Shunta Jacobs |
-| 181 | 460 | Araceli Parra |
-| 182 | 460 | Danielle Allison |
+| 181 | 460 | Danielle Allison |
+| 182 | 460 | Araceli Parra |
 | 183 | 458 | Danielle Rhoades |
 | 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
@@ -220,18 +220,18 @@
 | 212 | 399 | Mcathen |
 | 213 | 393 | Cozy Snaplink |
 | 214 | 387 | rosy |
-| 215 | 384 | Marci Mize Fandrich |
-| 216 | 384 | Trisha Balmer |
-| 217 | 383 | Nicole Flippo |
-| 218 | 383 | Darlene McMillan |
+| 215 | 384 | Trisha Balmer |
+| 216 | 384 | Marci Mize Fandrich |
+| 217 | 383 | Darlene McMillan |
+| 218 | 383 | Nicole Flippo |
 | 219 | 383 | Heather Green |
 | 220 | 382 | Scott Carleton |
 | 221 | 382 | Giddy Twistbuilder |
 | 222 | 378 | Chris Bell |
 | 223 | 375 | Duane Bright |
 | 224 | 375 | Kristal C Lee |
-| 225 | 372 | Sarah Moyer |
-| 226 | 372 | Rich LeBlanc |
+| 225 | 372 | Rich LeBlanc |
+| 226 | 372 | Sarah Moyer |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
 | 229 | 368 | Stephanie Woods |
@@ -596,8 +596,8 @@
 | 588 | 152 | Beejangles |
 | 589 | 152 | Elisha L Allman |
 | 590 | 152 | Ginger Gray |
-| 591 | 151 | Cheery Brickster |
-| 592 | 151 | Steph Arcari |
+| 591 | 151 | Steph Arcari |
+| 592 | 151 | Cheery Brickster |
 | 593 | 151 | Lisa Bard |
 | 594 | 149 | toony |
 | 595 | 149 | Alexis Taylor |

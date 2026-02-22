@@ -81,8 +81,8 @@
 | 73 | 671 | Kimyatta Cavin |
 | 74 | 664 | Valerie Roberts |
 | 75 | 659 | Jonathan Kimbrough |
-| 76 | 647 | Shauna Havard |
-| 77 | 647 | KM8 |
+| 76 | 647 | KM8 |
+| 77 | 647 | Shauna Havard |
 | 78 | 646 | Jacqueline Helm |
 | 79 | 639 | TheNeesh50 |
 | 80 | 633 | Lisa Davis |
@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 478 | Chilly Crasher |
 | 111 | 476 | Matt Summer |
