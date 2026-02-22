@@ -59,8 +59,8 @@
 | 51 | 793 | Rebecca Moulton Pinciaro |
 | 52 | 790 | Jason Allen |
 | 53 | 767 | Shannon Ferrari |
-| 54 | 766 | Robin Watters |
-| 55 | 766 | Ashley Ingram |
+| 54 | 766 | Ashley Ingram |
+| 55 | 766 | Robin Watters |
 | 56 | 757 | Ancient Intuition |
 | 57 | 751 | Rachel Anne |
 | 58 | 748 | loulou |
@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 679 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | Shauna Havard |
@@ -133,8 +133,8 @@
 | 125 | 409 | Marie-Pier Desjardins |
 | 126 | 408 | Amanda Pauldo-Ivy |
 | 127 | 400 | Ericca Eldridge |
-| 128 | 393 | Trish |
-| 129 | 393 | Carlton Unfiltered |
+| 128 | 393 | Carlton Unfiltered |
+| 129 | 393 | Trish |
 | 130 | 392 | Cristy Duerksen |
 | 131 | 391 | Austin Owens |
 | 132 | 391 | Lush Linkfall |
@@ -152,8 +152,8 @@
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
-| 147 | 343 | Latisha Davis |
-| 148 | 343 | ThaEviLJeNiuZ |
+| 147 | 343 | ThaEviLJeNiuZ |
+| 148 | 343 | Latisha Davis |
 | 149 | 339 | David Lay |
 | 150 | 336 | Klo |
 | 151 | 334 | Guy Incognito |

@@ -253,8 +253,8 @@
 | 245 | 972 | Della Hole |
 | 246 | 965 | Maria Escobar |
 | 247 | 957 | Crystal Hoffman |
-| 248 | 957 | Block Master |
-| 249 | 957 | Keri Womack |
+| 248 | 957 | Keri Womack |
+| 249 | 957 | Block Master |
 | 250 | 955 | Angela Bonquiqui Dinish |
 | 251 | 951 | Cynthia Ward |
 | 252 | 947 | Brenda Messer |
@@ -356,12 +356,12 @@
 | 348 | 751 | Loony Snapper |
 | 349 | 746 | Jerilyn Andrina |
 | 350 | 745 | Kiely Tomaskovich |
-| 351 | 743 | Melissa Cole |
-| 352 | 743 | Tiara Elizabeth Baker |
+| 351 | 743 | Tiara Elizabeth Baker |
+| 352 | 743 | Melissa Cole |
 | 353 | 741 | Mandi Douglas Hilt |
 | 354 | 740 | Jerry Tempelmeyer |
-| 355 | 739 | Jánine Riggs |
-| 356 | 739 | Brenda Utphall |
+| 355 | 739 | Brenda Utphall |
+| 356 | 739 | Jánine Riggs |
 | 357 | 738 | Aimee Campbell |
 | 358 | 737 | Jeremy Parodi |
 | 359 | 737 | Ginger |
@@ -391,8 +391,8 @@
 | 383 | 698 | Joce Lynn |
 | 384 | 698 | Spunkysmom |
 | 385 | 697 | Ashle Scranton |
-| 386 | 695 | Lakeysha Dortch |
-| 387 | 695 | Arkei Luster |
+| 386 | 695 | Arkei Luster |
+| 387 | 695 | Lakeysha Dortch |
 | 388 | 688 | Poldo Ilano |
 | 389 | 686 | Ashley Guernsey-Martin |
 | 390 | 682 | BeQuo |
@@ -400,7 +400,7 @@
 | 392 | 680 | blume |
 | 393 | 679 | Kassandra Hunt |
 | 394 | 677 | Susan Perraut Jones |
-| 395 | 677 | Kenny Alvarado |
+| 395 | 677 | Crystie Hicks |
 | 396 | 677 | Amanda Woodruff |
 | 397 | 677 | Kenny Alvarado |
 | 398 | 675 | Victoria Moore-Smith |
@@ -438,8 +438,8 @@
 | 430 | 626 | Demeka Dangerous-kisses Johnson |
 | 431 | 620 | Brandon Armstrong |
 | 432 | 620 | Traci Johnson |
-| 433 | 618 | Vanessa Moreno |
-| 434 | 618 | Caitlyn Blackwell |
+| 433 | 618 | Caitlyn Blackwell |
+| 434 | 618 | Vanessa Moreno |
 | 435 | 617 | Darcy Mae |
 | 436 | 617 | Nicole Cannon |
 | 437 | 616 | Jackie Avila |
@@ -555,8 +555,8 @@
 | 547 | 496 | SwampRebel |
 | 548 | 495 | Michelle Lee |
 | 549 | 495 | Bubbly Snapbuild |
-| 550 | 494 | Venita Ray |
-| 551 | 494 | Snippy Rumbler |
+| 550 | 494 | Snippy Rumbler |
+| 551 | 494 | Venita Ray |
 | 552 | 493 | Sue Leard |
 | 553 | 493 | Besma Ao |
 | 554 | 492 | Breezy Clusterer |
@@ -591,13 +591,13 @@
 | 583 | 478 | Christina Ashley |
 | 584 | 477 | Juanita Lyons |
 | 585 | 476 | Chummy Blockbuilder |
-| 586 | 476 | Cecilia A Jenkins |
-| 587 | 476 | Ashlee Cruz |
+| 586 | 476 | Ashlee Cruz |
+| 587 | 476 | Cecilia A Jenkins |
 | 588 | 476 | Kiana Boschh |
 | 589 | 475 | Mia Muse Best |
 | 590 | 475 | Lee Harper |
-| 591 | 474 | Calandra Shaya Robinson |
-| 592 | 474 | Jennifer Monroe Kelly |
+| 591 | 474 | Jennifer Monroe Kelly |
+| 592 | 474 | Calandra Shaya Robinson |
 | 593 | 474 | Jennifer Scott |
 | 594 | 474 | KayLynn Ogden McClelland |
 | 595 | 473 | Mary Marie |

@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | Kristen Gideon |
-| 97 | 472 | April Carroll |
+| 96 | 472 | April Carroll |
+| 97 | 472 | Kristen Gideon |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -120,8 +120,8 @@
 | 112 | 418 | Jazzy Framezone |
 | 113 | 417 | Lori Sanders- Davis |
 | 114 | 412 | Anaid Sanchez |
-| 115 | 409 | Yvonne Marie |
-| 116 | 409 | Dandy Basegrid |
+| 115 | 409 | Dandy Basegrid |
+| 116 | 409 | Yvonne Marie |
 | 117 | 400 | Maria C. Hernandez |
 | 118 | 399 | Nery Martinez |
 | 119 | 397 | Candy Jones |
@@ -172,17 +172,17 @@
 | 164 | 310 | Basment Living |
 | 165 | 307 | Sarah Roberts |
 | 166 | 306 | Jessi Sauer |
-| 167 | 306 | Bloknboy |
+| 167 | 306 | Rat666 |
 | 168 | 306 | Happy Basegrid |
-| 169 | 306 | Rat666 |
+| 169 | 306 | Bloknboy |
 | 170 | 305 | Constance Risner |
 | 171 | 304 | Nicole Roseberry Weber |
 | 172 | 303 | Letson Melissa |
 | 173 | 302 | Mike Ames |
-| 174 | 298 | Danielle Little-Daugherty |
-| 175 | 298 | femmefatale |
-| 176 | 296 | Madison Wicks |
-| 177 | 296 | ALFD |
+| 174 | 298 | femmefatale |
+| 175 | 298 | Danielle Little-Daugherty |
+| 176 | 296 | ALFD |
+| 177 | 296 | Madison Wicks |
 | 178 | 295 | David Lutcher |
 | 179 | 294 | Margo Wagner |
 | 180 | 286 | Carrie Smith |
@@ -208,8 +208,8 @@
 | 200 | 267 | Debbie Kane |
 | 201 | 265 | Kandae |
 | 202 | 265 | Jerry Danowski |
-| 203 | 264 | Serina Marie |
-| 204 | 264 | Jenny Gingrich Fuentes |
+| 203 | 264 | Jenny Gingrich Fuentes |
+| 204 | 264 | Serina Marie |
 | 205 | 263 | Jessie Lynn |
 | 206 | 260 | Cheeky Pop |
 | 207 | 256 | Chris65 |
@@ -732,7 +732,7 @@
 | 724 | 76 | Thia Gibson |
 | 725 | 75 | Rob Burns |
 | 726 | 75 | Sam Rosado |
-| 727 | 75 | Rob Burns |
+| 727 | 75 | Chilly Glidezone |
 | 728 | 75 | Nicole Michele Barfield |
 | 729 | 75 | Dawn Rannelli |
 | 730 | 75 | Khatia Sikharulidze |
