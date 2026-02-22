@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 905 | Jessica Ann |
@@ -169,8 +169,8 @@
 | 161 | 469 | Melissa Orth Hunter |
 | 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Makelini Mausia |
-| 165 | 464 | Michelle |
+| 164 | 464 | Michelle |
+| 165 | 464 | Makelini Mausia |
 | 166 | 461 | Jone |
 | 167 | 460 | Danielle Allison |
 | 168 | 457 | Jim Mathews |
@@ -212,8 +212,8 @@
 | 204 | 378 | Chris Bell |
 | 205 | 377 | Darlene McMillan |
 | 206 | 376 | Loopy Clusterer |
-| 207 | 372 | Giddy Twistbuilder |
-| 208 | 372 | Rich LeBlanc |
+| 207 | 372 | Rich LeBlanc |
+| 208 | 372 | Giddy Twistbuilder |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -226,8 +226,8 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Eon Harris |
-| 222 | 351 | Rebecca Funderburk Kirby |
+| 221 | 351 | Rebecca Funderburk Kirby |
+| 222 | 351 | Eon Harris |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
@@ -244,8 +244,8 @@
 | 236 | 340 | Ammmmmmy |
 | 237 | 338 | Gumbo |
 | 238 | 332 | Bmo |
-| 239 | 330 | victory |
-| 240 | 330 | Peppy Shifter |
+| 239 | 330 | Peppy Shifter |
+| 240 | 330 | victory |
 | 241 | 329 | Brittany |
 | 242 | 326 | Dee Franklin |
 | 243 | 324 | Sissy Lowery Davis |

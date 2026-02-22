@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | Erin Thomas |
-| 95 | 513 | YoMomma |
+| 94 | 513 | YoMomma |
+| 95 | 513 | Erin Thomas |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -139,8 +139,8 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Kesha Brady |
-| 135 | 354 | Jessica Lynn Cutlip |
+| 134 | 354 | Jessica Lynn Cutlip |
+| 135 | 354 | Kesha Brady |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
@@ -200,8 +200,8 @@
 | 192 | 266 | Chris Bernstein |
 | 193 | 265 | J-Rizzle |
 | 194 | 264 | Epic Curvetile |
-| 195 | 262 | Joeliecea Cobb |
-| 196 | 262 | Holly Jolly |
+| 195 | 262 | Holly Jolly |
+| 196 | 262 | Joeliecea Cobb |
 | 197 | 261 | scott |
 | 198 | 260 | Sue Joyce Staats |
 | 199 | 259 | Melvin Baird |
@@ -212,8 +212,8 @@
 | 204 | 250 | Matt Dell'Olio |
 | 205 | 249 | Ak Jones |
 | 206 | 249 | Cheery Risebuilder |
-| 207 | 248 | Chirpy Basepiece |
-| 208 | 248 | Lindsey Gonzalez |
+| 207 | 248 | Lindsey Gonzalez |
+| 208 | 248 | Chirpy Basepiece |
 | 209 | 247 | Dennis Bradley |
 | 210 | 246 | Carlos Ramirez |
 | 211 | 245 | Autum Leigh |
@@ -264,8 +264,8 @@
 | 256 | 202 | Orchislactea |
 | 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
-| 259 | 200 | Lori |
-| 260 | 200 | Googenheim |
+| 259 | 200 | Googenheim |
+| 260 | 200 | Lori |
 | 261 | 199 | TinyLegoRose |
 | 262 | 198 | Silly SeaWeed |
 | 263 | 198 | Calvin Dennis |
@@ -277,8 +277,8 @@
 | 269 | 194 | Zany Twisterfit |
 | 270 | 193 | Stephme310 |
 | 271 | 193 | Shainne Brewer |
-| 272 | 192 | Stella |
-| 273 | 192 | Andrew Dang |
+| 272 | 192 | Andrew Dang |
+| 273 | 192 | Stella |
 | 274 | 191 | Earnest Thompson |
 | 275 | 189 | 030Synner |
 | 276 | 187 | Cynthia Boudreau |

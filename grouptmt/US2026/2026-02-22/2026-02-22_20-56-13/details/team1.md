@@ -59,8 +59,8 @@
 | 51 | 754 | Katie Daniels |
 | 52 | 749 | Jacqueline Williams |
 | 53 | 746 | Stef Hu |
-| 54 | 734 | Michelle Nicole |
-| 55 | 734 | TSwag |
+| 54 | 734 | TSwag |
+| 55 | 734 | Michelle Nicole |
 | 56 | 703 | Angel Fowler |
 | 57 | 691 | Seante Bullock |
 | 58 | 687 | comrade fish |
@@ -169,8 +169,8 @@
 | 161 | 304 | Rachael |
 | 162 | 303 | Chelsea Dahlquist |
 | 163 | 302 | Mike Ames |
-| 164 | 298 | femmefatale |
-| 165 | 298 | Danielle Little-Daugherty |
+| 164 | 298 | Danielle Little-Daugherty |
+| 165 | 298 | femmefatale |
 | 166 | 296 | Madison Wicks |
 | 167 | 295 | David Lutcher |
 | 168 | 295 | Emily Adelaide Wheatley |

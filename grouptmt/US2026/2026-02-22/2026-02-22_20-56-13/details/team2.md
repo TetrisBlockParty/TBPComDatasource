@@ -257,8 +257,8 @@
 | 249 | 935 | Kevin Walp |
 | 250 | 933 | Cindy Sechler Taninecz |
 | 251 | 920 | Phil J. Grombliniak |
-| 252 | 919 | Isaac Trappiel IV |
-| 253 | 919 | Joshua Mandel |
+| 252 | 919 | Joshua Mandel |
+| 253 | 919 | Isaac Trappiel IV |
 | 254 | 916 | Butta |
 | 255 | 915 | Robin Kerby |
 | 256 | 915 | Kelly Trent |
