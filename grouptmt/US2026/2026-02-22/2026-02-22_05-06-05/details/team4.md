@@ -44,8 +44,8 @@
 | 36 | 766 | Robin Watters |
 | 37 | 717 | BertMofo |
 | 38 | 704 | Crystal Carroll |
-| 39 | 697 | Rachel Anne |
-| 40 | 697 | Edward White |
+| 39 | 697 | Edward White |
+| 40 | 697 | Rachel Anne |
 | 41 | 659 | Rebecca Moulton Pinciaro |
 | 42 | 658 | loulou |
 | 43 | 646 | Jacqueline Helm |
@@ -170,11 +170,11 @@
 | 162 | 200 | Jeff Brian Gates |
 | 163 | 198 | Jessica Lynn Cutlip |
 | 164 | 195 | Malakai Darien Fox |
-| 165 | 194 | Chilly Crasher |
-| 166 | 194 | Zany Twisterfit |
+| 165 | 194 | Zany Twisterfit |
+| 166 | 194 | Chilly Crasher |
 | 167 | 192 | Shauna Havard |
-| 168 | 189 | Stacey Stano |
-| 169 | 189 | Calvin Dennis |
+| 168 | 189 | Calvin Dennis |
+| 169 | 189 | Stacey Stano |
 | 170 | 188 | Andria Lynn |
 | 171 | 186 | Holly |
 | 172 | 185 | Diana Houts |

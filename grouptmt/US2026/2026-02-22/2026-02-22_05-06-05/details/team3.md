@@ -448,18 +448,18 @@
 | 440 | 114 | Elizabeth Renee |
 | 441 | 114 | Dapper Towerfit |
 | 442 | 113 | Gideon Walker |
-| 443 | 113 | Kristy Brown |
-| 444 | 113 | Leticia Lynn Lowe |
-| 445 | 113 | Tia Moore |
+| 443 | 113 | Leticia Lynn Lowe |
+| 444 | 113 | Tia Moore |
+| 445 | 113 | Kristy Brown |
 | 446 | 112 | TLM |
 | 447 | 112 | Shanon R Jackson |
 | 448 | 112 | Sarah Morris |
 | 449 | 112 | Michael Kimbro |
 | 450 | 111 | Stephanie Zahm |
-| 451 | 111 | Victoria Wangler Lewis |
-| 452 | 111 | Morgan Cudo |
-| 453 | 110 | Bekah Dietrich |
-| 454 | 110 | Kate Farok |
+| 451 | 111 | Morgan Cudo |
+| 452 | 111 | Victoria Wangler Lewis |
+| 453 | 110 | Kate Farok |
+| 454 | 110 | Bekah Dietrich |
 | 455 | 110 | Angela VanOstrand |
 | 456 | 109 | Peachy Westbrook |
 | 457 | 109 | Katie Bolich |

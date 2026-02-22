@@ -176,9 +176,9 @@
 | 168 | 198 | Shiny Gridmatch |
 | 169 | 194 | Tyler Werts |
 | 170 | 193 | Lachelle Dillon |
-| 171 | 192 | Christy Jones |
-| 172 | 192 | Shaykmia |
-| 173 | 192 | Jessica Sheehan |
+| 171 | 192 | Jessica Sheehan |
+| 172 | 192 | Christy Jones |
+| 173 | 192 | Shaykmia |
 | 174 | 191 | Diane Byrd |
 | 175 | 190 | Thorne Shumate |
 | 176 | 190 | Sweetts |
@@ -233,8 +233,8 @@
 | 225 | 150 | Agustin Duarte Orozco |
 | 226 | 150 | Adele Rahman |
 | 227 | 149 | Chirpy Smasher |
-| 228 | 147 | Davery Spencer Adair |
-| 229 | 147 | J.F. Fields |
+| 228 | 147 | J.F. Fields |
+| 229 | 147 | Davery Spencer Adair |
 | 230 | 146 | Witty Builderfit |
 | 231 | 145 | Tipsy Riseclear |
 | 232 | 144 | Cranky Pattern |
@@ -284,9 +284,9 @@
 | 276 | 122 | Nate Funk |
 | 277 | 121 | Jacob Shaddock |
 | 278 | 120 | DoodleBug |
-| 279 | 118 | Garcia Bailey |
-| 280 | 118 | Snappy Brickbuilder |
-| 281 | 118 | Tyler Hertzog |
+| 279 | 118 | Snappy Brickbuilder |
+| 280 | 118 | Tyler Hertzog |
+| 281 | 118 | Garcia Bailey |
 | 282 | 117 | Bob |
 | 283 | 116 | Nerdy Curvebuilder |
 | 284 | 116 | Debbie Davis |

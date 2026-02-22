@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Marie Boyd Faulk |
-| 167 | 941 | Desiree Harris Rosch |
+| 166 | 941 | Desiree Harris Rosch |
+| 167 | 941 | Marie Boyd Faulk |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -202,8 +202,8 @@
 | 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Rebecca Doughman |
-| 198 | 834 | Nika Bee |
+| 197 | 834 | Nika Bee |
+| 198 | 834 | Rebecca Doughman |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
