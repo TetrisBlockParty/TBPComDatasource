@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Carrie Brian |
-| 139 | 278 | Desi Desporte |
+| 138 | 278 | Desi Desporte |
+| 139 | 278 | Carrie Brian |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -164,8 +164,8 @@
 | 156 | 255 | Lindsay Ball |
 | 157 | 253 | Casey Grabner |
 | 158 | 250 | Matt Dell'Olio |
-| 159 | 249 | Leah Kutz Zirbel |
-| 160 | 249 | Chris Bernstein |
+| 159 | 249 | Chris Bernstein |
+| 160 | 249 | Leah Kutz Zirbel |
 | 161 | 245 | Diana Houts |
 | 162 | 244 | J-Rizzle |
 | 163 | 244 | Twisty Cascadezone |
@@ -282,11 +282,11 @@
 | 274 | 147 | Jay28 |
 | 275 | 147 | Adam Stephanie Parker |
 | 276 | 146 | KimoKoala |
-| 277 | 145 | Mimi |
-| 278 | 145 | Sandra Safford |
+| 277 | 145 | Sandra Safford |
+| 278 | 145 | Mimi |
 | 279 | 144 | Sticherella |
-| 280 | 143 | Metsfan |
-| 281 | 143 | Asher |
+| 280 | 143 | Asher |
+| 281 | 143 | Metsfan |
 | 282 | 143 | Dennis Bradley |
 | 283 | 143 | Daresha Fair |
 | 284 | 142 | Victoria Faniel |
@@ -471,7 +471,7 @@
 | 463 | 87 | Snippy Puzzle |
 | 464 | 87 | Martha Lucinda Bishop |
 | 465 | 87 | Derek Pendarvis |
-| 466 | 87 | Snippy Puzzle |
+| 466 | 87 | Shiny Pivoty |
 | 467 | 87 | Grann8 |
 | 468 | 86 | Destiney Carter |
 | 469 | 86 | Wacky Blockclear |

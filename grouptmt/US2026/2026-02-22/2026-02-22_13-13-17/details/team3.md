@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 480 | Stephanie Blkpep Davidson |
 | 127 | 480 | Christine Filson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 473 | mzcatzy |
 | 132 | 471 | Mendoza Lee Christy |
@@ -198,8 +198,8 @@
 | 190 | 347 | Jone |
 | 191 | 343 | Ashley Raines |
 | 192 | 343 | Tamara Deherrera |
-| 193 | 341 | Samantha Lynn |
-| 194 | 341 | Noyb Adam |
+| 193 | 341 | Noyb Adam |
+| 194 | 341 | Samantha Lynn |
 | 195 | 339 | Rochelle Hazelett |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
@@ -258,8 +258,8 @@
 | 250 | 259 | Nikki Pags |
 | 251 | 259 | Danielle Weikel |
 | 252 | 257 | Ashley Jones |
-| 253 | 256 | Tiffany Davie |
-| 254 | 256 | KayB |
+| 253 | 256 | KayB |
+| 254 | 256 | Tiffany Davie |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
 | 257 | 249 | Hasty Gridpiece |
@@ -309,8 +309,8 @@
 | 301 | 210 | Criss |
 | 302 | 209 | Micayah Stevens |
 | 303 | 208 | AlsoJess |
-| 304 | 207 | Jessica |
-| 305 | 207 | Daring Builder |
+| 304 | 207 | Daring Builder |
+| 305 | 207 | Jessica |
 | 306 | 207 | angieelyn |
 | 307 | 206 | Tammy Rosenberry |
 | 308 | 206 | Tracy Martin |
@@ -504,7 +504,7 @@
 | 496 | 123 | Silly Curvetile |
 | 497 | 123 | Amanda Declue |
 | 498 | 122 | BabyTonj Evans |
-| 499 | 122 | Scouty |
+| 499 | 122 | Jess Meyers |
 | 500 | 122 | Lisa Ann |
 | 501 | 122 | Scouty |
 | 502 | 122 | Nichol Graham |
