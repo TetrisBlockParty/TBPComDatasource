@@ -75,8 +75,8 @@
 | 67 | 983 | Corie A. Brinson |
 | 68 | 964 | Jennifer |
 | 69 | 954 | Nate Burnside |
-| 70 | 926 | Judi Dobson |
-| 71 | 926 | Angela M. Fletcher |
+| 70 | 926 | Angela M. Fletcher |
+| 71 | 926 | Judi Dobson |
 | 72 | 924 | Shonna Roberts |
 | 73 | 907 | Michelle Becker |
 | 74 | 903 | Sarah Fehring |

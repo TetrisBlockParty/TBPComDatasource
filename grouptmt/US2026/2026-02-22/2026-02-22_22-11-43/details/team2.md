@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Lylymom |
-| 441 | 613 | Tonya Lee |
+| 440 | 613 | Tonya Lee |
+| 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -683,8 +683,8 @@
 | 675 | 417 | Alexx Anaya |
 | 676 | 414 | Daniel Amos |
 | 677 | 414 | John |
-| 678 | 413 | Kristen O'Neal |
-| 679 | 413 | Ashley Robbins |
+| 678 | 413 | Ashley Robbins |
+| 679 | 413 | Kristen O'Neal |
 | 680 | 413 | Moist_B-hole |
 | 681 | 412 | Lathasa Newkirk |
 | 682 | 412 | Lewis Sturgeon |
@@ -850,8 +850,8 @@
 | 842 | 343 | Snappy Shatterfit |
 | 843 | 343 | Victoria Marie Bunch |
 | 844 | 342 | Danielle DeLozier Plesec |
-| 845 | 342 | SwifftFox |
-| 846 | 342 | Johanna Massaro |
+| 845 | 342 | Johanna Massaro |
+| 846 | 342 | SwifftFox |
 | 847 | 342 | Patrick Fleming |
 | 848 | 341 | Robin L. Vial |
 | 849 | 341 | Angela Yantz |

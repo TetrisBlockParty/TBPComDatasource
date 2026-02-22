@@ -61,8 +61,8 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
@@ -138,14 +138,14 @@
 | 130 | 391 | Ramel Rhodes |
 | 131 | 391 | Lush Linkfall |
 | 132 | 378 | Lucas J Sutton |
-| 133 | 377 | Carrie Brian |
-| 134 | 377 | Jessica Bohlken |
+| 133 | 377 | Jessica Bohlken |
+| 134 | 377 | Carrie Brian |
 | 135 | 376 | Kesha Brady |
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Tyler Terrific |
-| 140 | 353 | Livvy |
+| 139 | 353 | Livvy |
+| 140 | 353 | Tyler Terrific |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | ThaEviLJeNiuZ |
@@ -239,8 +239,8 @@
 | 231 | 230 | Jade Rian |
 | 232 | 230 | blockstar |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
 | 237 | 221 | Rheanda Weaskus |
 | 238 | 221 | PurpleMoonMa |
