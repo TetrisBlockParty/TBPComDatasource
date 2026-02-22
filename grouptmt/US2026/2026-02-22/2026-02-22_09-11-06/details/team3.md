@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Amanda L Baker |
-| 58 | 895 | Shonna Roberts |
+| 57 | 895 | Shonna Roberts |
+| 58 | 895 | Amanda L Baker |
 | 59 | 891 | Elaine Webb Graves |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Jay Horn |
-| 96 | 582 | Natasha Jones |
+| 95 | 582 | Natasha Jones |
+| 96 | 582 | Jay Horn |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -197,8 +197,8 @@
 | 189 | 328 | Giddy Twistbuilder |
 | 190 | 326 | Rebecca Funderburk Kirby |
 | 191 | 323 | Demetrious Shaw Sr. |
-| 192 | 320 | Angeline Joseph |
-| 193 | 320 | Or Reznitsky |
+| 192 | 320 | Or Reznitsky |
+| 193 | 320 | Angeline Joseph |
 | 194 | 317 | Ashley Tookes |
 | 195 | 315 | Kammy Hill |
 | 196 | 311 | Rochelle Hazelett |
@@ -342,15 +342,15 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | Naur |
-| 338 | 173 | BŘŰŤİÇŨŚ |
+| 337 | 173 | BŘŰŤİÇŨŚ |
+| 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
 | 341 | 168 | Trice Thomas |
 | 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Romeo |
-| 345 | 167 | Irene Arreguin |
+| 344 | 167 | Irene Arreguin |
+| 345 | 167 | Romeo |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Snarky McFace |
 | 348 | 166 | Angella Lyons |
@@ -389,8 +389,8 @@
 | 381 | 152 | Eric Caccavale |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
-| 384 | 149 | Alexis Taylor |
-| 385 | 149 | Wacky Crasher |
+| 384 | 149 | Wacky Crasher |
+| 385 | 149 | Alexis Taylor |
 | 386 | 148 | Pam Holt Powell |
 | 387 | 148 | Flashy Rumbler |
 | 388 | 148 | Bryan Byrd |
@@ -452,13 +452,13 @@
 | 444 | 128 | David Kozen |
 | 445 | 127 | Jumpy Wrecker |
 | 446 | 127 | Stephanie Zahm |
-| 447 | 126 | Crystal Martin |
-| 448 | 126 | Spicy Caster |
+| 447 | 126 | Spicy Caster |
+| 448 | 126 | Crystal Martin |
 | 449 | 126 | Tipsy Puzzle |
 | 450 | 125 | BugMansMom |
 | 451 | 125 | Felicia Doxey |
-| 452 | 125 | Elisha L Allman |
-| 453 | 125 | Shimika Enay Wallace |
+| 452 | 125 | Shimika Enay Wallace |
+| 453 | 125 | Elisha L Allman |
 | 454 | 124 | xsiv |
 | 455 | 124 | victory |
 | 456 | 124 | Daring Builder |

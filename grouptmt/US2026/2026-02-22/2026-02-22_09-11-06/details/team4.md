@@ -173,8 +173,8 @@
 | 165 | 220 | Matt Dell'Olio |
 | 166 | 218 | Casey Grabner |
 | 167 | 217 | Chaz Duncan |
-| 168 | 215 | Jessica Bohlken |
-| 169 | 215 | Ren Mc |
+| 168 | 215 | Ren Mc |
+| 169 | 215 | Jessica Bohlken |
 | 170 | 213 | Jason Allen |
 | 171 | 213 | Sarah Neathery |
 | 172 | 212 | Mike Solo |
@@ -184,8 +184,8 @@
 | 176 | 204 | Jen Caldwell |
 | 177 | 203 | Katherine Crane |
 | 178 | 202 | TRCuse |
-| 179 | 201 | Melvin Baird |
-| 180 | 201 | Chance Strickland |
+| 179 | 201 | Chance Strickland |
+| 180 | 201 | Melvin Baird |
 | 181 | 200 | Laura |
 | 182 | 199 | Zethra Prenisha Rahming |
 | 183 | 198 | Keith Kelley |

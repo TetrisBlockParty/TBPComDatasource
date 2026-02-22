@@ -132,8 +132,8 @@
 | 124 | 290 | Death |
 | 125 | 286 | Arianna O'Brien |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Emily Adelaide Wheatley |
-| 128 | 284 | Rachael |
+| 127 | 284 | Rachael |
+| 128 | 284 | Emily Adelaide Wheatley |
 | 129 | 283 | Franswa |
 | 130 | 282 | Snippy Wipebuilder |
 | 131 | 282 | Cool Shiftsnap |
@@ -195,8 +195,8 @@
 | 187 | 203 | LaFontaine Leslie |
 | 188 | 203 | Paula Martin |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Shiny Gridmatch |
 | 194 | 198 | Happy Snapbuild |
@@ -206,10 +206,10 @@
 | 198 | 194 | Christy Jones |
 | 199 | 193 | Lachelle Dillon |
 | 200 | 193 | Michael |
-| 201 | 191 | Shanae Grant |
-| 202 | 191 | Diane Byrd |
-| 203 | 190 | Sweetts |
-| 204 | 190 | Thorne Shumate |
+| 201 | 191 | Diane Byrd |
+| 202 | 191 | Shanae Grant |
+| 203 | 190 | Thorne Shumate |
+| 204 | 190 | Sweetts |
 | 205 | 189 | Veronica Eve |
 | 206 | 189 | Jeanna Dunn |
 | 207 | 187 | Cool Towerzone |
