@@ -451,8 +451,8 @@
 | 443 | 466 | Crystal Greene |
 | 444 | 465 | Davetta Sanford |
 | 445 | 464 | Caitlyn Blackwell |
-| 446 | 463 | Jaye EL Hunter |
-| 447 | 463 | Sue Leard |
+| 446 | 463 | Sue Leard |
+| 447 | 463 | Jaye EL Hunter |
 | 448 | 462 | Jarboe |
 | 449 | 462 | Daphne Jordan |
 | 450 | 462 | Tonya Lee |
@@ -479,8 +479,8 @@
 | 471 | 438 | Johnny Yeates |
 | 472 | 437 | Bubbly Snapfit |
 | 473 | 436 | Brenda Pierpoint |
-| 474 | 435 | Regina Young |
-| 475 | 435 | James Louie |
+| 474 | 435 | James Louie |
+| 475 | 435 | Regina Young |
 | 476 | 433 | KayLynn Ogden McClelland |
 | 477 | 432 | Lucy Marshall |
 | 478 | 430 | Jackie Lucas |
@@ -522,8 +522,8 @@
 | 514 | 408 | Stefanie Zonzini-Gagliardi |
 | 515 | 408 | Brandon Jones |
 | 516 | 406 | Kimberly Ann |
-| 517 | 406 | Erin StFrancis |
-| 518 | 406 | Mighty Spinbuilder |
+| 517 | 406 | Mighty Spinbuilder |
+| 518 | 406 | Erin StFrancis |
 | 519 | 404 | Snappy snappers |
 | 520 | 404 | Fancy Twister |
 | 521 | 404 | Goofy Catcher |
@@ -953,8 +953,8 @@
 | 945 | 229 | Chyrisse Norton |
 | 946 | 228 | Kandy Charmz |
 | 947 | 228 | Dara |
-| 948 | 228 | Yasmin Guzman |
-| 949 | 228 | Lee |
+| 948 | 228 | Lee |
+| 949 | 228 | Yasmin Guzman |
 | 950 | 228 | Queen |
 | 951 | 227 | Toni Whipple |
 | 952 | 227 | Ethan Stienbarger |
@@ -1277,8 +1277,8 @@
 | 1269 | 170 | Stormy McCormack |
 | 1270 | 170 | Orla Aherne |
 | 1271 | 170 | Tigro Ace |
-| 1272 | 169 | Corey Ross |
-| 1273 | 169 | Chummy Shiftsnap |
+| 1272 | 169 | Chummy Shiftsnap |
+| 1273 | 169 | Corey Ross |
 | 1274 | 169 | Ubu |
 | 1275 | 169 | Dapper Blockroll |
 | 1276 | 169 | Christy Green |
@@ -1337,8 +1337,8 @@
 | 1329 | 163 | Jordyn Morrison |
 | 1330 | 163 | Huxley Ren |
 | 1331 | 163 | Zee |
-| 1332 | 163 | Heide Shree |
-| 1333 | 163 | Gina Bahn |
+| 1332 | 163 | Gina Bahn |
+| 1333 | 163 | Heide Shree |
 | 1334 | 163 | Macy Jarrett |
 | 1335 | 162 | Tinishia Amie |
 | 1336 | 162 | LC Hamilton |

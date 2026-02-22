@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | TeeJ |
-| 75 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | Carmethia Clemons Haslerig |
+| 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |

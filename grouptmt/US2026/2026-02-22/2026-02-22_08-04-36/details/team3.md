@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Kay |
-| 47 | 989 | Joey Banks |
+| 46 | 989 | Joey Banks |
+| 47 | 989 | Kay |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Kristie |
-| 115 | 500 | Domo Washington |
+| 114 | 500 | Domo Washington |
+| 115 | 500 | Kristie |
 | 116 | 497 | Mykal Burton |
 | 117 | 496 | Queen Kam |
 | 118 | 492 | Daira Largen |
@@ -199,8 +199,8 @@
 | 191 | 311 | Rochelle Hazelett |
 | 192 | 311 | Stephanie Burtin |
 | 193 | 310 | Danielle Balcom |
-| 194 | 308 | Daryn Elliott |
-| 195 | 308 | Rania Zaqout |
+| 194 | 308 | Rania Zaqout |
+| 195 | 308 | Daryn Elliott |
 | 196 | 307 | rnr junky |
 | 197 | 307 | Blocked |
 | 198 | 306 | Noyb Adam |
@@ -313,15 +313,15 @@
 | 305 | 189 | Katie Leigh Blankenship |
 | 306 | 188 | Loopy Fallmatch |
 | 307 | 186 | Carrie Huskey |
-| 308 | 184 | France Vézina |
-| 309 | 184 | Troy |
+| 308 | 184 | Troy |
+| 309 | 184 | France Vézina |
 | 310 | 184 | Stephanie Hill |
 | 311 | 183 | Cesar Barraza |
 | 312 | 182 | Melanie Sherwood |
 | 313 | 181 | Nicholas Roddy |
 | 314 | 181 | Denita Mungro |
-| 315 | 180 | Beth Ingham |
-| 316 | 180 | Criss |
+| 315 | 180 | Criss |
+| 316 | 180 | Beth Ingham |
 | 317 | 179 | DanceLuvLaugh |
 | 318 | 179 | Christian Werndl |
 | 319 | 179 | Tipsy Zonebuilder |
@@ -334,8 +334,8 @@
 | 326 | 174 | Betty Rosas |
 | 327 | 174 | Lesley Perez |
 | 328 | 173 | BŘŰŤİÇŨŚ |
-| 329 | 169 | Peachy Rollfit |
-| 330 | 169 | Naur |
+| 329 | 169 | Naur |
+| 330 | 169 | Peachy Rollfit |
 | 331 | 169 | Kristian Thurman |
 | 332 | 168 | April Matthew Kibble |
 | 333 | 168 | Trice Thomas |
@@ -348,8 +348,8 @@
 | 340 | 165 | Ashley Lynn Marchese |
 | 341 | 165 | Rainbow77375 |
 | 342 | 164 | Ashley Rufus Bythcez |
-| 343 | 163 | Christine Trester |
-| 344 | 163 | Diana Ibarra |
+| 343 | 163 | Diana Ibarra |
+| 344 | 163 | Christine Trester |
 | 345 | 162 | Nicole Summers-Nelson |
 | 346 | 162 | Ava Petito |
 | 347 | 162 | Kristin Delibac Corrigan |
@@ -358,8 +358,8 @@
 | 350 | 161 | Michael Johnson |
 | 351 | 161 | Julia Nicole |
 | 352 | 161 | Bouncy Blockbuilder |
-| 353 | 159 | Salena Whitlock |
-| 354 | 159 | Joshua David Huie |
+| 353 | 159 | Joshua David Huie |
+| 354 | 159 | Salena Whitlock |
 | 355 | 158 | Willow |
 | 356 | 158 | Kirhonda Autmon |
 | 357 | 157 | Angel Mendez |
