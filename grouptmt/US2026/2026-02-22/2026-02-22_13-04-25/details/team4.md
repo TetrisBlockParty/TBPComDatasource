@@ -80,8 +80,8 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Carolyn Wallace |
-| 76 | 524 | Amelpss |
+| 75 | 524 | Amelpss |
+| 76 | 524 | Carolyn Wallace |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -262,8 +262,8 @@
 | 254 | 156 | Ultramarine |
 | 255 | 155 | AyeKay |
 | 256 | 154 | Zany Shatterer |
-| 257 | 153 | Empress Oasis |
-| 258 | 153 | Tina Martinez |
+| 257 | 153 | Tina Martinez |
+| 258 | 153 | Empress Oasis |
 | 259 | 153 | Lush Linkfall |
 | 260 | 152 | Tanner Lund |
 | 261 | 152 | Austin Owens |
@@ -273,9 +273,9 @@
 | 265 | 150 | Brandon Link |
 | 266 | 150 | Jared Gutwein |
 | 267 | 149 | Shainne Brewer |
-| 268 | 148 | Cranky Rollpiece |
-| 269 | 148 | Nubian1 |
-| 270 | 148 | Ruby Khalisadar |
+| 268 | 148 | Ruby Khalisadar |
+| 269 | 148 | Cranky Rollpiece |
+| 270 | 148 | Nubian1 |
 | 271 | 148 | Janita Parrish |
 | 272 | 147 | B Renee Desjardin |
 | 273 | 147 | Adam Stephanie Parker |

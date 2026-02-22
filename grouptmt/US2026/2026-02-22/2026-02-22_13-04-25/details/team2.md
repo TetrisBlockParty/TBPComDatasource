@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -298,13 +298,13 @@
 | 290 | 703 | Gold Rose |
 | 291 | 700 | Hong Tang |
 | 292 | 700 | Vincent Petrella |
-| 293 | 700 | Rosemadder |
-| 294 | 700 | Beverly Owens |
+| 293 | 700 | Beverly Owens |
+| 294 | 700 | Rosemadder |
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
-| 298 | 692 | Dannette Goldberg-Richards |
-| 299 | 692 | Jennifer Casey-Kay |
+| 298 | 692 | Jennifer Casey-Kay |
+| 299 | 692 | Dannette Goldberg-Richards |
 | 300 | 691 | Joce Lynn |
 | 301 | 690 | Deborah Miller |
 | 302 | 689 | Giggy Blocker |
@@ -611,8 +611,8 @@
 | 603 | 384 | Party d |
 | 604 | 383 | Jessica Conaway |
 | 605 | 383 | Belle Mari |
-| 606 | 382 | Lively Edgepiece |
-| 607 | 382 | David Holliday |
+| 606 | 382 | David Holliday |
+| 607 | 382 | Lively Edgepiece |
 | 608 | 382 | Amber Gray |
 | 609 | 381 | Nicky Jackson |
 | 610 | 381 | Happy Caster |
@@ -686,8 +686,8 @@
 | 678 | 342 | Quirky Twistline |
 | 679 | 341 | Shorty |
 | 680 | 341 | Daniel Amos |
-| 681 | 339 | Cynthia Louann Rose |
-| 682 | 339 | Twisty Tetriblast |
+| 681 | 339 | Twisty Tetriblast |
+| 682 | 339 | Cynthia Louann Rose |
 | 683 | 339 | Denise Rickman |
 | 684 | 338 | Janitta Alvarez |
 | 685 | 337 | Sassy Pattern |
@@ -784,9 +784,9 @@
 | 776 | 296 | Frisky Riserbuilder |
 | 777 | 296 | Zappy Dropmatch |
 | 778 | 295 | Noel Tarmy |
-| 779 | 294 | Sveta Lana |
-| 780 | 294 | Swanky Snap |
-| 781 | 294 | Amanda Edwards |
+| 779 | 294 | Amanda Edwards |
+| 780 | 294 | Sveta Lana |
+| 781 | 294 | Swanky Snap |
 | 782 | 293 | Ann Marie Davis |
 | 783 | 293 | JAG$*V¡LL£•FL•DuuuVaL |
 | 784 | 292 | Bryan Werleman |
@@ -981,8 +981,8 @@
 | 973 | 242 | Donna Chandler |
 | 974 | 242 | Shilo Anderson |
 | 975 | 241 | Travis Tinsley |
-| 976 | 241 | Ronda Cary |
-| 977 | 241 | Emoney Sanchez |
+| 976 | 241 | Emoney Sanchez |
+| 977 | 241 | Ronda Cary |
 | 978 | 239 | Amy John Mills |
 | 979 | 239 | Daring Matchfit |
 | 980 | 238 | Pfc Monei Rivera |

@@ -99,8 +99,8 @@
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
 | 93 | 382 | Jacqueline Williams |
-| 94 | 379 | Kimmie Kimms |
-| 95 | 379 | Austin James |
+| 94 | 379 | Austin James |
+| 95 | 379 | Kimmie Kimms |
 | 96 | 376 | lil mickey |
 | 97 | 374 | Tinah Montanna |
 | 98 | 364 | Shauna Loe |
@@ -112,8 +112,8 @@
 | 104 | 349 | Dee Perry |
 | 105 | 347 | pjbeta |
 | 106 | 344 | Bhelle Sumile |
-| 107 | 342 | Luciano Moreira |
-| 108 | 342 | Brenda Stewart |
+| 107 | 342 | Brenda Stewart |
+| 108 | 342 | Luciano Moreira |
 | 109 | 341 | Nick R Montague |
 | 110 | 333 | Gracie |
 | 111 | 333 | Brandi Huntington |

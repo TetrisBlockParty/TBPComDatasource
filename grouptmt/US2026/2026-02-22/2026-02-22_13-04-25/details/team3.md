@@ -308,8 +308,8 @@
 | 300 | 210 | Lizabeth Fox |
 | 301 | 209 | Micayah Stevens |
 | 302 | 208 | AlsoJess |
-| 303 | 207 | Jessica |
-| 304 | 207 | Daring Builder |
+| 303 | 207 | Daring Builder |
+| 304 | 207 | Jessica |
 | 305 | 207 | angieelyn |
 | 306 | 206 | Tammy Rosenberry |
 | 307 | 206 | Tracy Martin |
@@ -364,8 +364,8 @@
 | 356 | 174 | TotoCherue |
 | 357 | 174 | Lesley Perez |
 | 358 | 173 | MizzMonick Smith |
-| 359 | 173 | Naur |
-| 360 | 173 | BŘŰŤİÇŨŚ |
+| 359 | 173 | BŘŰŤİÇŨŚ |
+| 360 | 173 | Naur |
 | 361 | 170 | Colleen Phelps |
 | 362 | 170 | Tina Smith Roy |
 | 363 | 169 | Peachy Rollfit |
