@@ -41,8 +41,8 @@
 | 33 | 873 | Elizabeth Sallas |
 | 34 | 871 | Denny Shives |
 | 35 | 846 | Christine Marie |
-| 36 | 843 | Lucille Truesdale |
-| 37 | 843 | Shelly Chandler |
+| 36 | 843 | Shelly Chandler |
+| 37 | 843 | Lucille Truesdale |
 | 38 | 834 | quicksand420 |
 | 39 | 818 | Marvin Lou Martin |
 | 40 | 811 | Jae Job |
@@ -80,8 +80,8 @@
 | 72 | 544 | Amy Suckarieh |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -112,8 +112,8 @@
 | 104 | 395 | Marie-Pier Desjardins |
 | 105 | 393 | Carlton Unfiltered |
 | 106 | 392 | Ericca Eldridge |
-| 107 | 391 | Monica Daley |
-| 108 | 391 | Ramel Rhodes |
+| 107 | 391 | Ramel Rhodes |
+| 108 | 391 | Monica Daley |
 | 109 | 387 | Denise Carlson |
 | 110 | 377 | Lori Walker |
 | 111 | 373 | Joseph Guthrie |
@@ -382,7 +382,7 @@
 | 374 | 114 | Rosemary Foster |
 | 375 | 113 | Stephanie Mico |
 | 376 | 113 | Dandy Cascadefit |
-| 377 | 113 | Stephanie Mico |
+| 377 | 113 | @ |
 | 378 | 113 | Raymond Roberts |
 | 379 | 111 | Jennifer Perkins |
 | 380 | 111 | Heather Bruce |

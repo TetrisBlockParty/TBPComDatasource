@@ -178,8 +178,8 @@
 | 170 | 1047 | Amy Sayers |
 | 171 | 1046 | Poppy Snap |
 | 172 | 1045 | Lourisha |
-| 173 | 1043 | Suki Kaur |
-| 174 | 1043 | Brave Dropmatch |
+| 173 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Suki Kaur |
 | 175 | 1036 | Allison Lockyer |
 | 176 | 1035 | Sarah Freitas |
 | 177 | 1025 | Brandy Andre |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 899 | Hillary Crawford |
@@ -386,8 +386,8 @@
 | 378 | 561 | Irene Jones |
 | 379 | 561 | Traci Johnson |
 | 380 | 560 | Phil J. Grombliniak |
-| 381 | 558 | Libby Hicks |
-| 382 | 558 | Mikayala Szaz |
+| 381 | 558 | Mikayala Szaz |
+| 382 | 558 | Libby Hicks |
 | 383 | 556 | Slip |
 | 384 | 554 | Rachael Senard |
 | 385 | 554 | Santana Miyagi |
@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Vanessa Moreno |
-| 398 | 543 | Julie Kresal |
+| 397 | 543 | Julie Kresal |
+| 398 | 543 | Vanessa Moreno |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -421,8 +421,8 @@
 | 413 | 525 | Desiree Anderson |
 | 414 | 524 | Lonne Emade |
 | 415 | 523 | Matt Johnson |
-| 416 | 522 | Lylymom |
-| 417 | 522 | Joseph Musick |
+| 416 | 522 | Joseph Musick |
+| 417 | 522 | Lylymom |
 | 418 | 521 | Tj Ball |
 | 419 | 520 | Angela Lynn |
 | 420 | 520 | Maddy Petersen |
@@ -464,8 +464,8 @@
 | 456 | 489 | Osun Anuket Esu |
 | 457 | 489 | Cassie Mercer |
 | 458 | 488 | Christina Wsn |
-| 459 | 487 | MrsCandyfine As Wine Truss |
-| 460 | 487 | Morgan Easter |
+| 459 | 487 | Morgan Easter |
+| 460 | 487 | MrsCandyfine As Wine Truss |
 | 461 | 485 | Mamachelle Eisweirth |
 | 462 | 485 | Dapper Dasher |
 | 463 | 485 | Ann Matzkanin |
@@ -491,8 +491,8 @@
 | 483 | 469 | Spunkysmom |
 | 484 | 468 | Tra Barnum |
 | 485 | 466 | Koa N Sharon Chen |
-| 486 | 466 | Kori Beth Babb |
-| 487 | 466 | Crystal Greene |
+| 486 | 466 | Crystal Greene |
+| 487 | 466 | Kori Beth Babb |
 | 488 | 465 | Davetta Sanford |
 | 489 | 464 | snkylnk |
 | 490 | 464 | Melissa Rebbe-Lehman |
@@ -516,8 +516,8 @@
 | 508 | 448 | Lee Harper |
 | 509 | 448 | Liberty |
 | 510 | 447 | Boozi |
-| 511 | 447 | Jessica S Flecha |
-| 512 | 447 | Besma Ao |
+| 511 | 447 | Besma Ao |
+| 512 | 447 | Jessica S Flecha |
 | 513 | 446 | Snippy Rumbler |
 | 514 | 445 | Mar Q Thomas |
 | 515 | 445 | Sharon Mills |
@@ -530,8 +530,8 @@
 | 522 | 438 | Johnny Yeates |
 | 523 | 437 | Bubbly Snapfit |
 | 524 | 436 | Niceday |
-| 525 | 435 | Elisheva Mizrachi |
-| 526 | 435 | Regina Young |
+| 525 | 435 | Regina Young |
+| 526 | 435 | Elisheva Mizrachi |
 | 527 | 435 | James Louie |
 | 528 | 433 | KayLynn Ogden McClelland |
 | 529 | 432 | Lucy Marshall |
@@ -663,8 +663,8 @@
 | 655 | 361 | Michelle Shrum |
 | 656 | 360 | Jroc |
 | 657 | 359 | Cheyenne Donovan |
-| 658 | 358 | Sydney Busse |
-| 659 | 358 | Alyssaaelena |
+| 658 | 358 | Alyssaaelena |
+| 659 | 358 | Sydney Busse |
 | 660 | 357 | Shannon Byrd |
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |

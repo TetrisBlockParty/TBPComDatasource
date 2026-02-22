@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -138,8 +138,8 @@
 | 130 | 300 | Elaine Elaine |
 | 131 | 300 | Chelsea Dahlquist |
 | 132 | 298 | Erin Hodges Plumb |
-| 133 | 290 | Sarah Roberts |
-| 134 | 290 | Death |
+| 133 | 290 | Death |
+| 134 | 290 | Sarah Roberts |
 | 135 | 289 | David Miller |
 | 136 | 285 | Ananda Mendez |
 | 137 | 284 | Rachael |

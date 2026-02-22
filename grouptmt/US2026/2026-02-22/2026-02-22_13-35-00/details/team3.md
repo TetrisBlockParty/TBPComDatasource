@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Mcathen |
-| 161 | 399 | Marcie Bressler |
+| 160 | 399 | Marcie Bressler |
+| 161 | 399 | Mcathen |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
@@ -199,8 +199,8 @@
 | 191 | 347 | Jone |
 | 192 | 343 | Ashley Raines |
 | 193 | 343 | Tamara Deherrera |
-| 194 | 341 | Noyb Adam |
-| 195 | 341 | Samantha Lynn |
+| 194 | 341 | Samantha Lynn |
+| 195 | 341 | Noyb Adam |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
 | 198 | 330 | Rebecca Funderburk Kirby |
@@ -229,8 +229,8 @@
 | 221 | 289 | DidIdothat |
 | 222 | 289 | Hoppy Buildout |
 | 223 | 289 | Duane Bright |
-| 224 | 286 | Charles Perrone |
-| 225 | 286 | Cynthia Herrmann Egland |
+| 224 | 286 | Cynthia Herrmann Egland |
+| 225 | 286 | Charles Perrone |
 | 226 | 284 | Denise Nardoni |
 | 227 | 283 | Cheeky Snapper |
 | 228 | 283 | Sarah Moyer |
@@ -406,8 +406,8 @@
 | 398 | 157 | Angel Mendez |
 | 399 | 157 | Miranda Taylor |
 | 400 | 157 | Funky Jumper |
-| 401 | 156 | Nichole Greene |
-| 402 | 156 | Courtney Conboy |
+| 401 | 156 | Courtney Conboy |
+| 402 | 156 | Nichole Greene |
 | 403 | 155 | Michael Leblanc |
 | 404 | 154 | Everret Maxine |
 | 405 | 153 | Jada Cox |
