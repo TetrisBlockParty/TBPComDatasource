@@ -214,10 +214,10 @@
 | 206 | 659 | Poldo Ilano |
 | 207 | 658 | Erica Williams |
 | 208 | 654 | Mandi Douglas Hilt |
-| 209 | 651 | Roseanna Peloso |
-| 210 | 651 | Auntie B |
-| 211 | 651 | Unica Rector |
-| 212 | 651 | ShinyRose |
+| 209 | 651 | Auntie B |
+| 210 | 651 | Roseanna Peloso |
+| 211 | 651 | ShinyRose |
+| 212 | 651 | Unica Rector |
 | 213 | 650 | Shiny Rollzone |
 | 214 | 647 | Ashle Scranton |
 | 215 | 642 | Moni Foxe |
@@ -246,13 +246,13 @@
 | 238 | 587 | Hyper Cluster |
 | 239 | 586 | Hoppy Brickmatch |
 | 240 | 586 | Stephen Stephen |
-| 241 | 583 | Steve Grotto |
-| 242 | 583 | Jessicah Myers |
+| 241 | 583 | Jessicah Myers |
+| 242 | 583 | Steve Grotto |
 | 243 | 582 | Gary Stash |
 | 244 | 581 | Jánine Riggs |
 | 245 | 580 | Leslie Ann Carter |
-| 246 | 579 | Roy Salyer |
-| 247 | 579 | Juliana Marques Do Nascimento Gordy |
+| 246 | 579 | Juliana Marques Do Nascimento Gordy |
+| 247 | 579 | Roy Salyer |
 | 248 | 578 | Sally Dennis |
 | 249 | 576 | Ginger |
 | 250 | 572 | tejas25 |
@@ -586,14 +586,14 @@
 | 578 | 274 | Robin L. Vial |
 | 579 | 274 | Kacee Conrad Bock |
 | 580 | 274 | Jamie Stevey |
-| 581 | 274 | Kathryn Townsley |
-| 582 | 274 | Eric Carlson |
+| 581 | 274 | Eric Carlson |
+| 582 | 274 | Kathryn Townsley |
 | 583 | 273 | Britt Stunkel |
 | 584 | 272 | Ryan Lauer |
 | 585 | 272 | Witty Piecebuilder |
-| 586 | 270 | Ben Barkley |
-| 587 | 270 | Tim Dyer |
-| 588 | 270 | Court |
+| 586 | 270 | Tim Dyer |
+| 587 | 270 | Court |
+| 588 | 270 | Ben Barkley |
 | 589 | 270 | Santana Miyagi |
 | 590 | 269 | Reece Smith |
 | 591 | 269 | Pocho Zavala |
@@ -603,8 +603,8 @@
 | 595 | 267 | Lauren Fitzgerald Thomas |
 | 596 | 267 | Kelsey Sullivan |
 | 597 | 266 | Jason Garnatz |
-| 598 | 265 | Sandra Link-Gable |
-| 599 | 265 | Steve Man |
+| 598 | 265 | Steve Man |
+| 599 | 265 | Sandra Link-Gable |
 | 600 | 264 | Brave Gridpiece |
 | 601 | 263 | Alyssia Tancredi |
 | 602 | 263 | Sara Pennington |
@@ -646,11 +646,11 @@
 | 638 | 248 | Lazy Riseclear |
 | 639 | 248 | Gursharan Sandhu |
 | 640 | 248 | Angelina Marie |
-| 641 | 248 | Dany Murillo |
+| 641 | 248 | Warren Marleau |
 | 642 | 248 | Casper The Chonk |
-| 643 | 248 | Warren Marleau |
-| 644 | 248 | Michelle Lee |
-| 645 | 248 | Kimberly Mitchell |
+| 643 | 248 | Michelle Lee |
+| 644 | 248 | Kimberly Mitchell |
+| 645 | 248 | Dany Murillo |
 | 646 | 248 | Twisty Tetriblast |
 | 647 | 247 | Chab |
 | 648 | 247 | Andrea Devery Beck |

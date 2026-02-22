@@ -74,8 +74,8 @@
 | 66 | 391 | Ramel Rhodes |
 | 67 | 390 | Carlton Unfiltered |
 | 68 | 388 | YoMomma |
-| 69 | 376 | quicksand420 |
-| 70 | 376 | Marie-Pier Desjardins |
+| 69 | 376 | Marie-Pier Desjardins |
+| 70 | 376 | quicksand420 |
 | 71 | 373 | Joseph Guthrie |
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
@@ -135,8 +135,8 @@
 | 127 | 201 | Swanky Fitline |
 | 128 | 201 | Melvin Baird |
 | 129 | 197 | Peachy Fall |
-| 130 | 196 | Jeff Brian Gates |
-| 131 | 196 | Jenna McGeorge |
+| 130 | 196 | Jenna McGeorge |
+| 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
 | 134 | 191 | Katherine Crane |
@@ -237,7 +237,7 @@
 | 229 | 119 | rebel4lyfe |
 | 230 | 119 | Kristin Manee |
 | 231 | 116 | Adam Stephanie Parker |
-| 232 | 115 | Sam Middleton |
+| 232 | 115 | Nubian1 |
 | 233 | 115 | Jayk |
 | 234 | 115 | Sam Middleton |
 | 235 | 115 | Alexandra Karavias |
@@ -248,8 +248,8 @@
 | 240 | 113 | Adam Randall |
 | 241 | 113 | Dandy Cascadefit |
 | 242 | 112 | Jeremy Steines |
-| 243 | 111 | Rafael Valentin |
-| 244 | 111 | Lazy Blocker |
+| 243 | 111 | Lazy Blocker |
+| 244 | 111 | Rafael Valentin |
 | 245 | 110 | Zach Kerbs |
 | 246 | 109 | Frank Cook |
 | 247 | 109 | Berklie Apedaile |

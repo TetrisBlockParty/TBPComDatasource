@@ -86,8 +86,8 @@
 | 78 | 319 | Deanna L Hermanson |
 | 79 | 318 | Dee Perry |
 | 80 | 310 | Seth Wesson |
-| 81 | 305 | Plucky Ziggy |
-| 82 | 305 | Patrick Luckenbill |
+| 81 | 305 | Patrick Luckenbill |
+| 82 | 305 | Plucky Ziggy |
 | 83 | 304 | Nicole Roseberry Weber |
 | 84 | 303 | Maria C. Hernandez |
 | 85 | 301 | Hyper |
@@ -211,9 +211,9 @@
 | 203 | 135 | Giddy Cascade |
 | 204 | 135 | Guest |
 | 205 | 134 | Brave Wrecker |
-| 206 | 133 | Fmp |
-| 207 | 133 | Kimberly Garcia |
-| 208 | 133 | LD1 |
+| 206 | 133 | Kimberly Garcia |
+| 207 | 133 | LD1 |
+| 208 | 133 | Fmp |
 | 209 | 132 | Layzietyme |
 | 210 | 131 | Uhog SF |
 | 211 | 130 | Gilbert Ortiz Jr. |

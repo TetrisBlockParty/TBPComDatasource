@@ -40,8 +40,8 @@
 | 32 | 1119 | Lauren d |
 | 33 | 1065 | Josiah Fam |
 | 34 | 1059 | Lori Barnaby |
-| 35 | 1039 | Tetris Master |
-| 36 | 1039 | Peggi Charon |
+| 35 | 1039 | Peggi Charon |
+| 36 | 1039 | Tetris Master |
 | 37 | 1036 | Mahman |
 | 38 | 1013 | Laura Melton |
 | 39 | 1007 | Amber Jones |
@@ -185,8 +185,8 @@
 | 177 | 233 | Ray Lader |
 | 178 | 231 | Nikki Pags |
 | 179 | 229 | Rania Zaqout |
-| 180 | 228 | Morgan Martinez |
-| 181 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 180 | 228 | Jennifer Lynn Fahrenholtz-Summers |
+| 181 | 228 | Morgan Martinez |
 | 182 | 227 | Krystal Gerstberger |
 | 183 | 226 | Grego Daniel |
 | 184 | 224 | Nicole Myers |
@@ -198,9 +198,9 @@
 | 190 | 215 | Araceli Parra |
 | 191 | 214 | Jenny Hrndz |
 | 192 | 214 | Amy Fuller Heaton |
-| 193 | 211 | Giddy Twistbuilder |
-| 194 | 211 | Khaleada McGill Banks |
-| 195 | 211 | Katrina Turner |
+| 193 | 211 | Katrina Turner |
+| 194 | 211 | Giddy Twistbuilder |
+| 195 | 211 | Khaleada McGill Banks |
 | 196 | 210 | Michael Lucado |
 | 197 | 209 | Twisty Brick LT |
 | 198 | 207 | Jessica |
