@@ -62,8 +62,8 @@
 | 54 | 909 | Jennifer |
 | 55 | 908 | Alanna Rogers |
 | 56 | 903 | Sarah Fehring |
-| 57 | 895 | Amanda L Baker |
-| 58 | 895 | Shonna Roberts |
+| 57 | 895 | Shonna Roberts |
+| 58 | 895 | Amanda L Baker |
 | 59 | 886 | Khristen AC |
 | 60 | 874 | Jessica Pineda-Lopez |
 | 61 | 871 | Elaine Webb Graves |
@@ -348,8 +348,8 @@
 | 340 | 168 | Trice Thomas |
 | 341 | 168 | April Matthew Kibble |
 | 342 | 167 | Shicken Nuggit |
-| 343 | 167 | Irene Arreguin |
-| 344 | 167 | Romeo |
+| 343 | 167 | Romeo |
+| 344 | 167 | Irene Arreguin |
 | 345 | 166 | Noettín Kan Zasnemoore |
 | 346 | 166 | Snarky McFace |
 | 347 | 166 | Angella Lyons |
