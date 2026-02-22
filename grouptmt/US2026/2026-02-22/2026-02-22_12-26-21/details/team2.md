@@ -348,8 +348,8 @@
 | 340 | 613 | Caitlyn Blackwell |
 | 341 | 613 | Ellie Jonas |
 | 342 | 611 | Em Chen |
-| 343 | 611 | Julio A Laracuente |
-| 344 | 611 | Carl Bradshaw |
+| 343 | 611 | Carl Bradshaw |
+| 344 | 611 | Julio A Laracuente |
 | 345 | 603 | Cassie Maynard |
 | 346 | 602 | KhaosLord |
 | 347 | 602 | Christine Bollig |
@@ -454,8 +454,8 @@
 | 446 | 487 | Morgan Easter |
 | 447 | 487 | MrsCandyfine As Wine Truss |
 | 448 | 485 | Mamachelle Eisweirth |
-| 449 | 485 | Ann Matzkanin |
-| 450 | 485 | Dapper Dasher |
+| 449 | 485 | Dapper Dasher |
+| 450 | 485 | Ann Matzkanin |
 | 451 | 484 | Brenna Ann |
 | 452 | 484 | Street Sweeper |
 | 453 | 483 | Victor Obiakarije |
@@ -465,13 +465,13 @@
 | 457 | 482 | Drwatson187 |
 | 458 | 482 | Ben Barkley |
 | 459 | 481 | Klee |
-| 460 | 480 | Dar |
-| 461 | 480 | Ashley Collins |
+| 460 | 480 | Ashley Collins |
+| 461 | 480 | Dar |
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Steve Man |
-| 466 | 474 | Calandra Shaya Robinson |
+| 465 | 474 | Calandra Shaya Robinson |
+| 466 | 474 | Steve Man |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 472 | Arwa Fatimah |
@@ -481,8 +481,8 @@
 | 473 | 470 | Arlene Joy Belicina |
 | 474 | 469 | Spunkysmom |
 | 475 | 468 | Tra Barnum |
-| 476 | 466 | Koa N Sharon Chen |
-| 477 | 466 | Crystal Greene |
+| 476 | 466 | Crystal Greene |
+| 477 | 466 | Koa N Sharon Chen |
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
@@ -501,14 +501,14 @@
 | 493 | 454 | Casey Schumacher |
 | 494 | 453 | Joshua Sommerville |
 | 495 | 453 | Rhonda Petro |
-| 496 | 452 | Sarah Berger |
-| 497 | 452 | Aimee Campbell |
+| 496 | 452 | Aimee Campbell |
+| 497 | 452 | Sarah Berger |
 | 498 | 451 | Funky Caster |
 | 499 | 450 | Cheery Matchzone |
 | 500 | 449 | Andrea Maher |
 | 501 | 448 | Lee Harper |
-| 502 | 447 | Besma Ao |
-| 503 | 447 | Jessica S Flecha |
+| 502 | 447 | Jessica S Flecha |
+| 503 | 447 | Besma Ao |
 | 504 | 447 | Boozi |
 | 505 | 446 | Snippy Rumbler |
 | 506 | 445 | Mar Q Thomas |
@@ -543,8 +543,8 @@
 | 535 | 424 | Lina Sanders |
 | 536 | 423 | Sam |
 | 537 | 421 | Vonceial Boone |
-| 538 | 420 | LaWanda Powell |
-| 539 | 420 | Juanita Lyons |
+| 538 | 420 | Juanita Lyons |
+| 539 | 420 | LaWanda Powell |
 | 540 | 419 | Pocho Zavala |
 | 541 | 419 | Josh Dill |
 | 542 | 419 | Biggest thing |
@@ -627,8 +627,8 @@
 | 619 | 372 | Ebony Deloach Bryant |
 | 620 | 371 | Brenda Messer |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | Tony Lea |
-| 623 | 369 | RaeVan Worthington |
+| 622 | 369 | RaeVan Worthington |
+| 623 | 369 | Tony Lea |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -646,10 +646,10 @@
 | 638 | 363 | Stephanie Fortune |
 | 639 | 363 | Veronica Stevenson |
 | 640 | 362 | Jennifer Scott |
-| 641 | 362 | Tracy Wise |
-| 642 | 362 | Veronics |
-| 643 | 361 | Lewis Sturgeon |
-| 644 | 361 | Michelle Shrum |
+| 641 | 362 | Veronics |
+| 642 | 362 | Tracy Wise |
+| 643 | 361 | Michelle Shrum |
+| 644 | 361 | Lewis Sturgeon |
 | 645 | 360 | Jroc |
 | 646 | 359 | Diallo Sparkman |
 | 647 | 359 | Cheyenne Donovan |

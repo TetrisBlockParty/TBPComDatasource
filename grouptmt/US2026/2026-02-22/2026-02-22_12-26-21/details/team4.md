@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -74,8 +74,8 @@
 | 66 | 554 | Julian Garcia |
 | 67 | 546 | Kimberly Love |
 | 68 | 544 | Amy Suckarieh |
-| 69 | 533 | Chris Baggett |
-| 70 | 533 | Eric Mcgaughy |
+| 69 | 533 | Eric Mcgaughy |
+| 70 | 533 | Chris Baggett |
 | 71 | 530 | Yoset Mejia |
 | 72 | 524 | Amelpss |
 | 73 | 523 | Dawn Alexander |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 474 | Justin Hannigan |
 | 83 | 469 | Ashley Ingram |
@@ -212,8 +212,8 @@
 | 204 | 191 | Sam Bishop |
 | 205 | 191 | Klo |
 | 206 | 190 | Cheery Risebuilder |
-| 207 | 189 | Stacey Stano |
-| 208 | 189 | Calvin Dennis |
+| 207 | 189 | Calvin Dennis |
+| 208 | 189 | Stacey Stano |
 | 209 | 188 | Andria Lynn |
 | 210 | 187 | Patron Anderson |
 | 211 | 187 | blockstar |
@@ -308,8 +308,8 @@
 | 300 | 138 | Ashlee Carnes |
 | 301 | 138 | Brandon Link |
 | 302 | 137 | Brianna Walker |
-| 303 | 137 | PeaceOs |
-| 304 | 137 | Red |
+| 303 | 137 | Red |
+| 304 | 137 | PeaceOs |
 | 305 | 136 | Michelle Morris |
 | 306 | 136 | Maureen Flanigan |
 | 307 | 135 | Joshua Guess |
@@ -339,8 +339,8 @@
 | 331 | 128 | Silly Zonebuilder |
 | 332 | 128 | Jeremy Steines |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |
@@ -408,10 +408,10 @@
 | 400 | 105 | Zesty Linkgrid |
 | 401 | 105 | GBR |
 | 402 | 104 | Jessica Johnston |
-| 403 | 104 | Gdiguy |
-| 404 | 104 | Blessedmama |
-| 405 | 102 | Christina O'Dell-Ishau |
-| 406 | 102 | Brave Spinbuilder |
+| 403 | 104 | Blessedmama |
+| 404 | 104 | Gdiguy |
+| 405 | 102 | Brave Spinbuilder |
+| 406 | 102 | Christina O'Dell-Ishau |
 | 407 | 102 | Bigeddie |
 | 408 | 101 | Saulc1991 |
 | 409 | 100 | Sallie Sanborn |
@@ -1000,8 +1000,8 @@
 | 992 | 30 | Alberto Rosel |
 | 993 | 30 | canglem |
 | 994 | 30 | Jean Camacho |
-| 995 | 29 | Tabitha Calvin |
-| 996 | 29 | Cari Underwood |
+| 995 | 29 | Cari Underwood |
+| 996 | 29 | Tabitha Calvin |
 | 997 | 29 | Tammy Johndro |
 | 998 | 29 | Nutty Lifter |
 | 999 | 29 | Jasmine Castro |
