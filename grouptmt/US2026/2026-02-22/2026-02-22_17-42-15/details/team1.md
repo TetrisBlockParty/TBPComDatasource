@@ -200,8 +200,8 @@
 | 192 | 242 | John Kim |
 | 193 | 241 | John J. Cronin |
 | 194 | 240 | DaRascal |
-| 195 | 239 | Lacy Wolfe |
-| 196 | 239 | Sam Williams |
+| 195 | 239 | Sam Williams |
+| 196 | 239 | Lacy Wolfe |
 | 197 | 238 | Tiffany Smith |
 | 198 | 237 | Veronica Eve |
 | 199 | 237 | LaFontaine Leslie |
@@ -326,8 +326,8 @@
 | 318 | 160 | Plucky Stacky |
 | 319 | 160 | Tedashi |
 | 320 | 159 | Howdi Duty |
-| 321 | 159 | Uhog SF |
-| 322 | 159 | Amber Dee |
+| 321 | 159 | Amber Dee |
+| 322 | 159 | Uhog SF |
 | 323 | 157 | Ruthie Mahoney Saunders-Browne |
 | 324 | 156 | Jason Benitez |
 | 325 | 156 | Nerdy Curvebuilder |

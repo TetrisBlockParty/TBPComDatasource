@@ -222,9 +222,9 @@
 | 214 | 973 | Kim Dean |
 | 215 | 972 | Juliana Marques Do Nascimento Gordy |
 | 216 | 960 | Jennifer Kistner |
-| 217 | 957 | Crystal Hoffman |
-| 218 | 957 | Keri Womack |
-| 219 | 957 | Block Master |
+| 217 | 957 | Keri Womack |
+| 218 | 957 | Block Master |
+| 219 | 957 | Crystal Hoffman |
 | 220 | 954 | Shannon Joslin |
 | 221 | 951 | Cynthia Ward |
 | 222 | 950 | Teresa Gillmore |

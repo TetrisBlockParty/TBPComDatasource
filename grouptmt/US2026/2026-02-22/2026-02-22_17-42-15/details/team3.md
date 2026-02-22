@@ -402,8 +402,8 @@
 | 394 | 183 | Smiley Zone |
 | 395 | 182 | gremicx |
 | 396 | 180 | Ava Petito |
-| 397 | 180 | Beth Ingham |
-| 398 | 180 | Funky Jumper |
+| 397 | 180 | Funky Jumper |
+| 398 | 180 | Beth Ingham |
 | 399 | 179 | Betty Bóò |
 | 400 | 179 | Skinny Baldez |
 | 401 | 178 | Joy Petroski |
