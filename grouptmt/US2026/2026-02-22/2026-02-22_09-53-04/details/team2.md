@@ -219,8 +219,8 @@
 | 211 | 867 | Peppy Zone |
 | 212 | 865 | Dedra Steward |
 | 213 | 863 | nikki |
-| 214 | 862 | Robin Kerby |
-| 215 | 862 | Brittany Radaszewski |
+| 214 | 862 | Brittany Radaszewski |
+| 215 | 862 | Robin Kerby |
 | 216 | 860 | April Dawn Gussler |
 | 217 | 857 | Della Hole |
 | 218 | 853 | Felicia Lynn |
@@ -285,13 +285,13 @@
 | 277 | 703 | Gold Rose |
 | 278 | 700 | Vincent Petrella |
 | 279 | 700 | Hong Tang |
-| 280 | 700 | Rosemadder |
-| 281 | 700 | Beverly Owens |
+| 280 | 700 | Beverly Owens |
+| 281 | 700 | Rosemadder |
 | 282 | 698 | Mighty Shatterfit |
 | 283 | 697 | Dreamy Blast |
 | 284 | 695 | Lakeysha Dortch |
-| 285 | 692 | Jennifer Casey-Kay |
-| 286 | 692 | Dannette Goldberg-Richards |
+| 285 | 692 | Dannette Goldberg-Richards |
+| 286 | 692 | Jennifer Casey-Kay |
 | 287 | 690 | Deborah Miller |
 | 288 | 689 | Giggy Blocker |
 | 289 | 688 | ShinyRose |
@@ -300,8 +300,8 @@
 | 292 | 685 | Binyah-Binyah |
 | 293 | 681 | Melissa Holsinger |
 | 294 | 679 | Offonar Facey |
-| 295 | 679 | Brenda Utphall |
-| 296 | 679 | Dee |
+| 295 | 679 | Dee |
+| 296 | 679 | Brenda Utphall |
 | 297 | 679 | Kassandra Hunt |
 | 298 | 678 | Scott Treadway |
 | 299 | 677 | Mema |
@@ -311,8 +311,8 @@
 | 303 | 669 | Charvi' Carter |
 | 304 | 666 | Speedy Spinblock |
 | 305 | 664 | Sleepypanda67 |
-| 306 | 663 | Mandi Douglas Hilt |
-| 307 | 663 | Ashle Scranton |
+| 306 | 663 | Ashle Scranton |
+| 307 | 663 | Mandi Douglas Hilt |
 | 308 | 661 | Ginger |
 | 309 | 659 | Roseanna Peloso |
 | 310 | 659 | Draizen Montrell Thomas |
@@ -324,8 +324,8 @@
 | 316 | 650 | Shiny Rollzone |
 | 317 | 645 | tejas25 |
 | 318 | 643 | Hoppy Brickmatch |
-| 319 | 641 | Angie Bolton Workman |
-| 320 | 641 | Joce Lynn |
+| 319 | 641 | Joce Lynn |
+| 320 | 641 | Angie Bolton Workman |
 | 321 | 640 | BYM4L |
 | 322 | 639 | Crystie Hicks |
 | 323 | 639 | Rebecca Miller |
@@ -339,8 +339,8 @@
 | 331 | 613 | Caitlyn Blackwell |
 | 332 | 613 | Ellie Jonas |
 | 333 | 611 | Em Chen |
-| 334 | 611 | Carl Bradshaw |
-| 335 | 611 | Julio A Laracuente |
+| 334 | 611 | Julio A Laracuente |
+| 335 | 611 | Carl Bradshaw |
 | 336 | 605 | Jelly |
 | 337 | 603 | Cassie Maynard |
 | 338 | 602 | Christine Bollig |
@@ -494,8 +494,8 @@
 | 486 | 444 | Chab |
 | 487 | 442 | Leah |
 | 488 | 441 | Christina Wsn |
-| 489 | 440 | Victoria Regina Girolami |
-| 490 | 440 | Liberty |
+| 489 | 440 | Liberty |
+| 490 | 440 | Victoria Regina Girolami |
 | 491 | 440 | Sarah Berger |
 | 492 | 438 | Johnny Yeates |
 | 493 | 437 | Bubbly Snapfit |
@@ -534,9 +534,9 @@
 | 526 | 416 | Ricky Fortune |
 | 527 | 414 | John |
 | 528 | 414 | Sabrina Burton |
-| 529 | 413 | Lauren Fitzgerald Thomas |
-| 530 | 413 | Fancy Twister |
-| 531 | 413 | Biggest thing |
+| 529 | 413 | Fancy Twister |
+| 530 | 413 | Biggest thing |
+| 531 | 413 | Lauren Fitzgerald Thomas |
 | 532 | 413 | Juanita Lyons |
 | 533 | 411 | Kristen O'Neal |
 | 534 | 411 | Mighty Spinbuilder |
@@ -710,8 +710,8 @@
 | 702 | 320 | Mary Boss |
 | 703 | 319 | RetroLemur |
 | 704 | 318 | Jennifer Mahon |
-| 705 | 317 | Zombi3 |
-| 706 | 317 | Ashlyn Berner |
+| 705 | 317 | Ashlyn Berner |
+| 706 | 317 | Zombi3 |
 | 707 | 317 | Aireka Roman |
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
@@ -1211,7 +1211,7 @@
 | 1203 | 187 | Roman Lavochnik |
 | 1204 | 187 | Eddie Perez |
 | 1205 | 186 | Bette Prieto |
-| 1206 | 186 | Amber N Koepp |
+| 1206 | 186 | Stephanie Myers |
 | 1207 | 186 | Tim Galle |
 | 1208 | 186 | Amber N Koepp |
 | 1209 | 186 | Elyse Rivera |

@@ -110,10 +110,10 @@
 | 102 | 344 | Bhelle Sumile |
 | 103 | 342 | Brenda Stewart |
 | 104 | 341 | Nick R Montague |
-| 105 | 333 | Brandi Huntington |
-| 106 | 333 | phrmblk24 |
-| 107 | 332 | Kristen Gideon |
-| 108 | 332 | Luciano Moreira |
+| 105 | 333 | phrmblk24 |
+| 106 | 333 | Brandi Huntington |
+| 107 | 332 | Luciano Moreira |
+| 108 | 332 | Kristen Gideon |
 | 109 | 330 | Sweet Baker |
 | 110 | 328 | Gracie |
 | 111 | 327 | Arianna O'Brien |
@@ -132,8 +132,8 @@
 | 124 | 294 | Chelsea Dahlquist |
 | 125 | 290 | Death |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 283 | Chirpy Smasher |
 | 131 | 282 | Timothy Dew |
@@ -198,8 +198,8 @@
 | 190 | 200 | DaRascal |
 | 191 | 200 | Breanna Luna |
 | 192 | 199 | Basment Living |
-| 193 | 198 | Happy Snapbuild |
-| 194 | 198 | Shiny Gridmatch |
+| 193 | 198 | Shiny Gridmatch |
+| 194 | 198 | Happy Snapbuild |
 | 195 | 195 | Shaykmia |
 | 196 | 195 | Jennifer Olewnik Soborowski |
 | 197 | 195 | Bindi |

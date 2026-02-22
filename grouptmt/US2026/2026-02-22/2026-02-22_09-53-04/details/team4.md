@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -137,8 +137,8 @@
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |
 | 131 | 278 | Desi Desporte |
-| 132 | 277 | Scott Jameson |
-| 133 | 277 | Mary Ann Pabukis |
+| 132 | 277 | Mary Ann Pabukis |
+| 133 | 277 | Scott Jameson |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -317,7 +317,7 @@
 | 309 | 128 | Madison Sweere |
 | 310 | 128 | Kristin MacDonald |
 | 311 | 127 | Kim Hunt |
-| 312 | 126 | Cheryl Johnson |
+| 312 | 126 | PAPatty |
 | 313 | 126 | icequeenx |
 | 314 | 126 | Cheryl Johnson |
 | 315 | 125 | Ann G. Carrillo |
@@ -326,7 +326,7 @@
 | 318 | 125 | Lush Linkfall |
 | 319 | 124 | Circuit8 |
 | 320 | 124 | Sam Middleton |
-| 321 | 124 | Circuit8 |
+| 321 | 124 | Atia Scott |
 | 322 | 123 | Joseph Edmonson |
 | 323 | 123 | Lora |
 | 324 | 121 | Riverdale |
@@ -374,7 +374,7 @@
 | 366 | 108 | Denise B |
 | 367 | 108 | Ali Ian |
 | 368 | 108 | Walter Beltran |
-| 369 | 107 | Marcela Johnson |
+| 369 | 107 | Silly SeaWeed |
 | 370 | 107 | Brandi Durig |
 | 371 | 107 | Marcela Johnson |
 | 372 | 106 | Jacob Richard |

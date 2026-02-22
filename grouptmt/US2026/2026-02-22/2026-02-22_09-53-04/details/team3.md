@@ -187,13 +187,13 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Jone |
-| 183 | 347 | Nicole Flippo |
+| 182 | 347 | Nicole Flippo |
+| 183 | 347 | Jone |
 | 184 | 344 | Chummy Caster |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Gumbo |
-| 188 | 338 | Leah Barnett |
+| 187 | 338 | Leah Barnett |
+| 188 | 338 | Gumbo |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -226,8 +226,8 @@
 | 218 | 289 | Duane Bright |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -322,8 +322,8 @@
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Becca Engle |
 | 316 | 191 | Philip Rock |
-| 317 | 189 | Katie Leigh Blankenship |
-| 318 | 189 | France Vézina |
+| 317 | 189 | France Vézina |
+| 318 | 189 | Katie Leigh Blankenship |
 | 319 | 188 | Loopy Fallmatch |
 | 320 | 187 | Tipsy Zonebuilder |
 | 321 | 186 | Sameerah Smith |
@@ -344,16 +344,16 @@
 | 336 | 176 | Emma |
 | 337 | 175 | Eileen Brady Thurber |
 | 338 | 174 | Lesley Perez |
-| 339 | 173 | BŘŰŤİÇŨŚ |
-| 340 | 173 | Naur |
+| 339 | 173 | Naur |
+| 340 | 173 | BŘŰŤİÇŨŚ |
 | 341 | 170 | Tina Smith Roy |
 | 342 | 169 | Kristian Thurman |
 | 343 | 169 | Peachy Rollfit |
 | 344 | 168 | April Matthew Kibble |
 | 345 | 168 | Trice Thomas |
 | 346 | 167 | Shicken Nuggit |
-| 347 | 167 | Romeo |
-| 348 | 167 | Irene Arreguin |
+| 347 | 167 | Irene Arreguin |
+| 348 | 167 | Romeo |
 | 349 | 166 | Noettín Kan Zasnemoore |
 | 350 | 166 | Snarky McFace |
 | 351 | 166 | Angella Lyons |
