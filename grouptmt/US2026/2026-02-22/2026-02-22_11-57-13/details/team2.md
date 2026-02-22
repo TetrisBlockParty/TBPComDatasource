@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Mindy Leigh Head |
-| 103 | 1516 | Stephen Stephen |
+| 102 | 1516 | Stephen Stephen |
+| 103 | 1516 | Mindy Leigh Head |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -136,8 +136,8 @@
 | 128 | 1273 | Cool Rollpiece |
 | 129 | 1257 | Eileen Hale |
 | 130 | 1252 | Katrina Williams Balmir |
-| 131 | 1248 | Isabela Shaw |
-| 132 | 1248 | Howard Forest |
+| 131 | 1248 | Howard Forest |
+| 132 | 1248 | Isabela Shaw |
 | 133 | 1242 | Altamirano Michael |
 | 134 | 1232 | Groovy Puzzle |
 | 135 | 1226 | Vo'Landa Reels |
@@ -252,8 +252,8 @@
 | 244 | 800 | Danielle Johnson-Chandler |
 | 245 | 787 | Laura McCarthey |
 | 246 | 783 | Lisa Ongtowasruk |
-| 247 | 777 | Jessicah Myers |
-| 248 | 777 | Tesha Oldaker |
+| 247 | 777 | Tesha Oldaker |
+| 248 | 777 | Jessicah Myers |
 | 249 | 777 | Eric Carlson |
 | 250 | 772 | Cherica Taylor |
 | 251 | 772 | William Hunt |
@@ -298,8 +298,8 @@
 | 290 | 696 | Kathryn Townsley |
 | 291 | 696 | Jánine Riggs |
 | 292 | 695 | Lakeysha Dortch |
-| 293 | 692 | Dannette Goldberg-Richards |
-| 294 | 692 | Jennifer Casey-Kay |
+| 293 | 692 | Jennifer Casey-Kay |
+| 294 | 692 | Dannette Goldberg-Richards |
 | 295 | 690 | Deborah Miller |
 | 296 | 689 | Giggy Blocker |
 | 297 | 688 | Tiara Elizabeth Baker |
@@ -364,8 +364,8 @@
 | 356 | 584 | Ginnell Browner |
 | 357 | 582 | Gary Stash |
 | 358 | 581 | Jerry Tempelmeyer |
-| 359 | 579 | Jackie Avila |
-| 360 | 579 | AgileDragon |
+| 359 | 579 | AgileDragon |
+| 360 | 579 | Jackie Avila |
 | 361 | 579 | Roy Salyer |
 | 362 | 576 | Leslie Johnson Guinto |
 | 363 | 572 | Chris Wanner |
@@ -411,8 +411,8 @@
 | 403 | 522 | Joseph Musick |
 | 404 | 522 | Lylymom |
 | 405 | 521 | Tj Ball |
-| 406 | 520 | Maddy Petersen |
-| 407 | 520 | Angela Lynn |
+| 406 | 520 | Angela Lynn |
+| 407 | 520 | Maddy Petersen |
 | 408 | 519 | Rob Brown |
 | 409 | 517 | Alex Dungo Hoang |
 | 410 | 517 | Porsche' Nicole |
@@ -432,8 +432,8 @@
 | 424 | 503 | Kimberly Randesi |
 | 425 | 502 | Sparkles |
 | 426 | 502 | Sheniya Spurgeon |
-| 427 | 500 | Sarah Ridenour |
-| 428 | 500 | Frisky Clearpiece |
+| 427 | 500 | Frisky Clearpiece |
+| 428 | 500 | Sarah Ridenour |
 | 429 | 499 | Sarah Massey |
 | 430 | 498 | Rhonda Milstead |
 | 431 | 497 | June E Hanson |
@@ -448,12 +448,12 @@
 | 440 | 489 | Cassie Mercer |
 | 441 | 489 | Osun Anuket Esu |
 | 442 | 488 | Christina Wsn |
-| 443 | 487 | MrsCandyfine As Wine Truss |
-| 444 | 487 | Morgan Easter |
+| 443 | 487 | Morgan Easter |
+| 444 | 487 | MrsCandyfine As Wine Truss |
 | 445 | 486 | Caitlin Schmid |
 | 446 | 485 | Mamachelle Eisweirth |
-| 447 | 485 | Ann Matzkanin |
-| 448 | 485 | Dapper Dasher |
+| 447 | 485 | Dapper Dasher |
+| 448 | 485 | Ann Matzkanin |
 | 449 | 484 | Brenna Ann |
 | 450 | 484 | Street Sweeper |
 | 451 | 483 | Alezandra Smith |
@@ -540,8 +540,8 @@
 | 532 | 423 | Sam |
 | 533 | 421 | Vonceial Boone |
 | 534 | 421 | SwampRebel |
-| 535 | 420 | LaWanda Powell |
-| 536 | 420 | Juanita Lyons |
+| 535 | 420 | Juanita Lyons |
+| 536 | 420 | LaWanda Powell |
 | 537 | 419 | Pocho Zavala |
 | 538 | 419 | Josh Dill |
 | 539 | 418 | Véronique Lévesque Sabourin |
@@ -682,8 +682,8 @@
 | 674 | 341 | Daniel Amos |
 | 675 | 341 | Shorty |
 | 676 | 340 | Quirky Twistline |
-| 677 | 339 | Denise Rickman |
-| 678 | 339 | Cynthia Louann Rose |
+| 677 | 339 | Cynthia Louann Rose |
+| 678 | 339 | Denise Rickman |
 | 679 | 338 | Janitta Alvarez |
 | 680 | 337 | Sassy Pattern |
 | 681 | 337 | Savannah Alexander |
@@ -701,12 +701,12 @@
 | 693 | 330 | Toni Roberson |
 | 694 | 330 | Jennifer Monroe Kelly |
 | 695 | 329 | Chummy Blockbuilder |
-| 696 | 329 | Snappy Shatterfit |
-| 697 | 329 | Jane Crew |
-| 698 | 328 | Jamie Carter Bierce |
-| 699 | 328 | BabyBird |
-| 700 | 326 | Angela Murgia-Owen |
-| 701 | 326 | Ann Knutson Anderson |
+| 696 | 329 | Jane Crew |
+| 697 | 329 | Snappy Shatterfit |
+| 698 | 328 | BabyBird |
+| 699 | 328 | Jamie Carter Bierce |
+| 700 | 326 | Ann Knutson Anderson |
+| 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
 | 704 | 324 | Dale Haanpaa |
@@ -730,8 +730,8 @@
 | 722 | 316 | Epic Spinfit |
 | 723 | 316 | Johanna Massaro |
 | 724 | 314 | Amanda West |
-| 725 | 313 | Natasha Edmonds |
-| 726 | 313 | Marina Linda |
+| 725 | 313 | Marina Linda |
+| 726 | 313 | Natasha Edmonds |
 | 727 | 313 | Snippy Block |
 | 728 | 312 | Heather Renee Jeffers |
 | 729 | 312 | Sassy Linkbuilder |
@@ -739,8 +739,8 @@
 | 731 | 311 | SwifftFox |
 | 732 | 310 | Audra Williams |
 | 733 | 310 | Beth Decker |
-| 734 | 310 | Cheeky Brickmatch |
-| 735 | 310 | Wendy Ducheney |
+| 734 | 310 | Wendy Ducheney |
+| 735 | 310 | Cheeky Brickmatch |
 | 736 | 309 | Byung Bae Park |
 | 737 | 308 | Claire |
 | 738 | 308 | Hyper Riseclear |
@@ -773,8 +773,8 @@
 | 765 | 297 | Ashley Robbins |
 | 766 | 296 | Jennifer Darby |
 | 767 | 296 | Frisky Riserbuilder |
-| 768 | 296 | Zappy Dropmatch |
-| 769 | 296 | Epic Fitzone |
+| 768 | 296 | Epic Fitzone |
+| 769 | 296 | Zappy Dropmatch |
 | 770 | 295 | Noel Tarmy |
 | 771 | 294 | Amanda Edwards |
 | 772 | 293 | Ann Marie Davis |
@@ -1057,8 +1057,8 @@
 | 1049 | 219 | Jenn Morin |
 | 1050 | 219 | Cathy Bitters |
 | 1051 | 219 | Kimberly Ashley-Stevens |
-| 1052 | 218 | Shea Edison |
-| 1053 | 218 | Clever Dashgrid |
+| 1052 | 218 | Clever Dashgrid |
+| 1053 | 218 | Shea Edison |
 | 1054 | 217 | Wedance Fong |
 | 1055 | 217 | Christine Lockwood |
 | 1056 | 217 | Trisha Gallagher |
@@ -1960,9 +1960,9 @@
 | 1952 | 120 | Kelsey Kyle Rhodes |
 | 1953 | 120 | Jennifer Crystal Fernald |
 | 1954 | 119 | Slinky Cascadebuilder |
-| 1955 | 119 | Barb |
-| 1956 | 119 | Erica Messina |
-| 1957 | 119 | Terry Paulson |
+| 1955 | 119 | Terry Paulson |
+| 1956 | 119 | Barb |
+| 1957 | 119 | Erica Messina |
 | 1958 | 119 | Diane Louise |
 | 1959 | 119 | Jackie Burnett |
 | 1960 | 119 | Damien Reinbold |

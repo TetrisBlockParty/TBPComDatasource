@@ -123,8 +123,8 @@
 | 115 | 319 | Patrick Luckenbill |
 | 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Jason Jones |
 | 122 | 310 | Seth Wesson |
@@ -152,7 +152,7 @@
 | 144 | 265 | SkipTheSadSauce |
 | 145 | 264 | Brian Richardsson |
 | 146 | 264 | Jenny Gingrich Fuentes |
-| 147 | 264 | Brian Richardsson |
+| 147 | 264 | Lexuriuos Lifestlye |
 | 148 | 263 | Angela Renea Lester |
 | 149 | 263 | Sharon Reynolds |
 | 150 | 258 | Virginia Gray Floyd |
@@ -204,7 +204,7 @@
 | 196 | 203 | LaFontaine Leslie |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
-| 199 | 200 | Breanna Luna |
+| 199 | 200 | DaRascal |
 | 200 | 200 | Flashy Rotator |
 | 201 | 200 | Breanna Luna |
 | 202 | 199 | Basment Living |
@@ -229,8 +229,8 @@
 | 221 | 187 | GringaLinga |
 | 222 | 186 | Margo Wagner |
 | 223 | 184 | Chris Sigurdson |
-| 224 | 183 | Amy Hess |
-| 225 | 183 | Andrew Boone |
+| 224 | 183 | Andrew Boone |
+| 225 | 183 | Amy Hess |
 | 226 | 182 | Phu ckalldems |
 | 227 | 180 | Beau Galvan |
 | 228 | 180 | Jessie Lynn |
@@ -319,8 +319,8 @@
 | 311 | 135 | Lynn Adams |
 | 312 | 133 | MommaKFC |
 | 313 | 133 | Jasmine Riley |
-| 314 | 132 | Layzietyme |
-| 315 | 132 | Larry Tilton |
+| 314 | 132 | Larry Tilton |
+| 315 | 132 | Layzietyme |
 | 316 | 131 | Dizzy Riseclear |
 | 317 | 131 | Plucky Wrecker |
 | 318 | 130 | Carl Claunch |

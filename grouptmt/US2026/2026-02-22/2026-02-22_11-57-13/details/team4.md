@@ -168,8 +168,8 @@
 | 160 | 230 | Cursed Hag |
 | 161 | 230 | Autum Leigh |
 | 162 | 228 | J-Rizzle |
-| 163 | 227 | Swanky Fitline |
-| 164 | 227 | Alyssa Papen |
+| 163 | 227 | Alyssa Papen |
+| 164 | 227 | Swanky Fitline |
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
@@ -297,8 +297,8 @@
 | 289 | 139 | Lori Goudy |
 | 290 | 139 | Jose Dejesus |
 | 291 | 138 | Nick Gray |
-| 292 | 138 | Sarah Hoffman |
-| 293 | 138 | Brandon Link |
+| 292 | 138 | Brandon Link |
+| 293 | 138 | Sarah Hoffman |
 | 294 | 138 | Ashlee Carnes |
 | 295 | 137 | Red |
 | 296 | 137 | PeaceOs |
@@ -482,8 +482,8 @@
 | 474 | 84 | Amy C Brown |
 | 475 | 84 | Robert Sch |
 | 476 | 83 | Groovy Brickmatch |
-| 477 | 82 | Oleg Zakharskiy |
-| 478 | 82 | Stacy Jones |
+| 477 | 82 | Stacy Jones |
+| 478 | 82 | Oleg Zakharskiy |
 | 479 | 82 | Kimberlee Jan Beckstead |
 | 480 | 81 | Megan Boyce |
 | 481 | 81 | Robert Rangel |

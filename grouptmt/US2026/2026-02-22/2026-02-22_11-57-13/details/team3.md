@@ -160,8 +160,8 @@
 | 152 | 402 | Shannon Matthew Byers |
 | 153 | 401 | Katie Knaus |
 | 154 | 400 | Luciana Braganca Vieira |
-| 155 | 399 | Mcathen |
-| 156 | 399 | Marcie Bressler |
+| 155 | 399 | Marcie Bressler |
+| 156 | 399 | Mcathen |
 | 157 | 397 | Annie Déè |
 | 158 | 396 | Tasha Gillespie |
 | 159 | 393 | Fallorina Susana |
@@ -250,8 +250,8 @@
 | 242 | 264 | Grego Daniel |
 | 243 | 263 | Brittany |
 | 244 | 262 | Joe-Maggie Mathews |
-| 245 | 261 | Tiffany Ford |
-| 246 | 261 | Tasha Wesson-Torrence |
+| 245 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tiffany Ford |
 | 247 | 261 | Marquita Sheard |
 | 248 | 260 | Grams |
 | 249 | 259 | Danielle Weikel |
@@ -270,8 +270,8 @@
 | 262 | 239 | Nikki Pags |
 | 263 | 238 | LaTanya GeminiondaRise Johnson |
 | 264 | 236 | Jess Bissett |
-| 265 | 235 | Brenda Schmid Wood |
-| 266 | 235 | Cozy Snaplink |
+| 265 | 235 | Cozy Snaplink |
+| 266 | 235 | Brenda Schmid Wood |
 | 267 | 234 | Connie Mohler-Fair |
 | 268 | 233 | Ray Lader |
 | 269 | 233 | Josh Borquez |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Salena Whitlock |
-| 332 | 183 | Cesar Barraza |
+| 331 | 183 | Cesar Barraza |
+| 332 | 183 | Salena Whitlock |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -446,8 +446,8 @@
 | 438 | 139 | Paula Little |
 | 439 | 138 | Bleu Sun Beams |
 | 440 | 137 | Giggly Brickroll |
-| 441 | 136 | Sabrina Mansfield |
-| 442 | 136 | Stephanie Zahm |
+| 441 | 136 | Stephanie Zahm |
+| 442 | 136 | Sabrina Mansfield |
 | 443 | 136 | Karen Picaboo |
 | 444 | 135 | Morgan Cudo |
 | 445 | 134 | Maia |
@@ -457,8 +457,8 @@
 | 449 | 134 | Tammy |
 | 450 | 134 | Sharon Dudley Lawson |
 | 451 | 134 | gremicx |
-| 452 | 133 | Chummy Rumbler |
-| 453 | 133 | Jen Lewis |
+| 452 | 133 | Jen Lewis |
+| 453 | 133 | Chummy Rumbler |
 | 454 | 132 | Hanna Kim |
 | 455 | 132 | Andrew Thorson |
 | 456 | 131 | Cheeky Setter |
