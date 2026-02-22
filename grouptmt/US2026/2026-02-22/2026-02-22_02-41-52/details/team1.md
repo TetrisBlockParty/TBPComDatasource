@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -141,8 +141,8 @@
 | 133 | 216 | Shauntina Burke |
 | 134 | 216 | MRdot Rooski |
 | 135 | 214 | GATOR |
-| 136 | 212 | Lori Bales |
-| 137 | 212 | Jaimie Lynn |
+| 136 | 212 | Jaimie Lynn |
+| 137 | 212 | Lori Bales |
 | 138 | 211 | Marianita Garcia |
 | 139 | 208 | Giggly Builderline |
 | 140 | 207 | Leslie Bush Yarbrough |
@@ -159,12 +159,12 @@
 | 151 | 192 | Jessica Sheehan |
 | 152 | 192 | Shaykmia |
 | 153 | 191 | Diane Byrd |
-| 154 | 190 | Thorne Shumate |
-| 155 | 190 | Sweetts |
-| 156 | 188 | Sam Williams |
-| 157 | 188 | Michael |
-| 158 | 187 | Snippy Wipebuilder |
-| 159 | 187 | Jennifer Olewnik Soborowski |
+| 154 | 190 | Sweetts |
+| 155 | 190 | Thorne Shumate |
+| 156 | 188 | Michael |
+| 157 | 188 | Sam Williams |
+| 158 | 187 | Jennifer Olewnik Soborowski |
+| 159 | 187 | Snippy Wipebuilder |
 | 160 | 186 | Margo Wagner |
 | 161 | 185 | Basment Living |
 | 162 | 183 | Sleepysloath5745 |
@@ -270,11 +270,11 @@
 | 262 | 115 | Chuck Gannon |
 | 263 | 114 | Constance Risner |
 | 264 | 113 | Jamie Jury |
-| 265 | 112 | Crystal Joslin |
-| 266 | 112 | Nerdy Curvebuilder |
-| 267 | 112 | Chris65 |
-| 268 | 111 | Damon J. Martin |
-| 269 | 111 | Rachel Nichole Henry |
+| 265 | 112 | Nerdy Curvebuilder |
+| 266 | 112 | Chris65 |
+| 267 | 112 | Crystal Joslin |
+| 268 | 111 | Rachel Nichole Henry |
+| 269 | 111 | Damon J. Martin |
 | 270 | 111 | Chirpy Smasher |
 | 271 | 110 | Madison Wicks |
 | 272 | 110 | Dandy Towerbuilder |
@@ -292,7 +292,7 @@
 | 284 | 108 | Dizzy Party |
 | 285 | 107 | MIKOZ |
 | 286 | 107 | Bob |
-| 287 | 107 | MIKOZ |
+| 287 | 107 | Meechie |
 | 288 | 106 | Bloknboy |
 | 289 | 105 | Kayla Marie Stevenson |
 | 290 | 105 | Ty Brown |

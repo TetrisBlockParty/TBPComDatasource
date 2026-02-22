@@ -293,8 +293,8 @@
 | 285 | 108 | Ali Ian |
 | 286 | 107 | Brandi Durig |
 | 287 | 106 | Zappy Snaplink |
-| 288 | 106 | Jacob Richard |
-| 289 | 106 | Bradley Reeves |
+| 288 | 106 | Bradley Reeves |
+| 289 | 106 | Jacob Richard |
 | 290 | 105 | GBR |
 | 291 | 104 | Cheery Risebuilder |
 | 292 | 104 | mike |

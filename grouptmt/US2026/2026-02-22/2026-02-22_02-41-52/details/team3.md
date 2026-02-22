@@ -374,8 +374,8 @@
 | 366 | 125 | Kammy Hill |
 | 367 | 125 | Shimika Enay Wallace |
 | 368 | 124 | Ammmmmmy |
-| 369 | 124 | Micayah Stevens |
-| 370 | 124 | gremicx |
+| 369 | 124 | gremicx |
+| 370 | 124 | Micayah Stevens |
 | 371 | 123 | Michael Latasha Gray |
 | 372 | 122 | Giggly Brickroll |
 | 373 | 122 | Arden White Kirsch |
@@ -441,8 +441,8 @@
 | 433 | 105 | Kiki |
 | 434 | 105 | Martin Bernier |
 | 435 | 104 | Johnathan Dowe |
-| 436 | 104 | bean |
-| 437 | 104 | Niki Dalrymple |
+| 436 | 104 | Niki Dalrymple |
+| 437 | 104 | bean |
 | 438 | 104 | Michael Kimbro |
 | 439 | 103 | Heather Bateman |
 | 440 | 103 | Kellie Montgomery |
