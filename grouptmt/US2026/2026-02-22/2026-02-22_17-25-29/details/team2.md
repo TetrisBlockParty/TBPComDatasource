@@ -332,8 +332,8 @@
 | 324 | 703 | Gold Rose |
 | 325 | 700 | Hong Tang |
 | 326 | 700 | Vincent Petrella |
-| 327 | 700 | Rosemadder |
-| 328 | 700 | Beverly Owens |
+| 327 | 700 | Beverly Owens |
+| 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
 | 330 | 697 | Dreamy Blast |
 | 331 | 697 | Ashle Scranton |
@@ -370,8 +370,8 @@
 | 362 | 643 | Hoppy Brickmatch |
 | 363 | 642 | Cassie Maynard |
 | 364 | 641 | Vonceial Boone |
-| 365 | 640 | BYM4L |
-| 366 | 640 | Kara Gillen |
+| 365 | 640 | Kara Gillen |
+| 366 | 640 | BYM4L |
 | 367 | 639 | Crystie Hicks |
 | 368 | 639 | Rebecca Miller |
 | 369 | 634 | Gary Stash |
@@ -538,8 +538,8 @@
 | 530 | 467 | Audrey Jones |
 | 531 | 466 | Koa N Sharon Chen |
 | 532 | 466 | Tina Marie |
-| 533 | 466 | Kori Beth Babb |
-| 534 | 466 | Crystal Greene |
+| 533 | 466 | Crystal Greene |
+| 534 | 466 | Kori Beth Babb |
 | 535 | 463 | Jaye EL Hunter |
 | 536 | 463 | Cody Nishimura |
 | 537 | 463 | Mia Muse Best |
@@ -595,8 +595,8 @@
 | 587 | 429 | Tabs Reichert |
 | 588 | 428 | Lynda Toland |
 | 589 | 428 | Shyenn Gadsby |
-| 590 | 427 | Sabrina Burton |
-| 591 | 427 | Destiny Cozier |
+| 590 | 427 | Destiny Cozier |
+| 591 | 427 | Sabrina Burton |
 | 592 | 426 | De Hawkins |
 | 593 | 426 | Ashley Dow |
 | 594 | 425 | Samantha Scibelli |

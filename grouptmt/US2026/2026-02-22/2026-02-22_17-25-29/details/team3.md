@@ -308,8 +308,8 @@
 | 300 | 233 | Twisty Brick LT |
 | 301 | 233 | Tony Waters |
 | 302 | 232 | Donna |
-| 303 | 231 | Kevin Russell |
-| 304 | 231 | Kiki |
+| 303 | 231 | Kiki |
+| 304 | 231 | Kevin Russell |
 | 305 | 230 | BigE |
 | 306 | 228 | Naur |
 | 307 | 227 | Rebel124 |

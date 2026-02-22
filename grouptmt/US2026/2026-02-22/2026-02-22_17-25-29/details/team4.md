@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1264 | Alicia Bass |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Livvy |
-| 123 | 353 | Tyler Terrific |
+| 122 | 353 | Tyler Terrific |
+| 123 | 353 | Livvy |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | Lucas J Sutton |
@@ -157,8 +157,8 @@
 | 149 | 290 | Keshia Lyons |
 | 150 | 289 | Jessica Lynn Cutlip |
 | 151 | 288 | Leah Kutz Zirbel |
-| 152 | 286 | shark tato |
-| 153 | 286 | Brittney Orengo |
+| 152 | 286 | Brittney Orengo |
+| 153 | 286 | shark tato |
 | 154 | 282 | Rafael Valentin |
 | 155 | 281 | Lindsay Ball |
 | 156 | 277 | Mary Ann Pabukis |
@@ -255,8 +255,8 @@
 | 247 | 189 | Dihcheese444 |
 | 248 | 188 | Stephme310 |
 | 249 | 185 | Laura Hosford |
-| 250 | 184 | Lauren Lamb |
-| 251 | 184 | Ak Jones |
+| 250 | 184 | Ak Jones |
+| 251 | 184 | Lauren Lamb |
 | 252 | 182 | TinyLegoRose |
 | 253 | 181 | Carter Jones |
 | 254 | 181 | Jackie Marie |
@@ -287,8 +287,8 @@
 | 279 | 161 | Matt Gooder |
 | 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
-| 282 | 159 | DonMega |
-| 283 | 159 | Marcus Todd |
+| 282 | 159 | Marcus Todd |
+| 283 | 159 | DonMega |
 | 284 | 157 | Bethany Ison |
 | 285 | 157 | B Renee Desjardin |
 | 286 | 157 | Linda Alexander Downing |
