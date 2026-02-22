@@ -216,8 +216,8 @@
 | 208 | 332 | Rich LeBlanc |
 | 209 | 330 | Rebecca Funderburk Kirby |
 | 210 | 330 | Danielle Balcom |
-| 211 | 324 | Kristal C Lee |
-| 212 | 324 | Sissy Lowery Davis |
+| 211 | 324 | Sissy Lowery Davis |
+| 212 | 324 | Kristal C Lee |
 | 213 | 323 | Demetrious Shaw Sr. |
 | 214 | 323 | Brandon Givens |
 | 215 | 320 | Or Reznitsky |

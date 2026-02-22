@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -68,15 +68,15 @@
 | 60 | 664 | Valerie Roberts |
 | 61 | 659 | Jonathan Kimbrough |
 | 62 | 658 | loulou |
-| 63 | 654 | Chilly Line |
-| 64 | 654 | Kimyatta Cavin |
+| 63 | 654 | Kimyatta Cavin |
+| 64 | 654 | Chilly Line |
 | 65 | 647 | KM8 |
 | 66 | 646 | Jacqueline Helm |
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Avy Absol |
-| 71 | 608 | Savannah Overdorf |
+| 70 | 608 | Savannah Overdorf |
+| 71 | 608 | Avy Absol |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -131,8 +131,8 @@
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
-| 126 | 332 | Desi Desporte |
-| 127 | 332 | HastyGrabber |
+| 126 | 332 | HastyGrabber |
+| 127 | 332 | Desi Desporte |
 | 128 | 332 | Twisty Clicky |
 | 129 | 330 | David Lay |
 | 130 | 329 | Jessica Bohlken |
@@ -207,13 +207,13 @@
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
-| 202 | 213 | Sarah Neathery |
-| 203 | 213 | Jason Allen |
+| 202 | 213 | Jason Allen |
+| 203 | 213 | Sarah Neathery |
 | 204 | 212 | Mike Solo |
 | 205 | 212 | Joanna |
 | 206 | 211 | Jenna McGeorge |
-| 207 | 210 | Austin Owens |
-| 208 | 210 | Lindsey Gonzalez |
+| 207 | 210 | Lindsey Gonzalez |
+| 208 | 210 | Austin Owens |
 | 209 | 209 | Sam Bishop |
 | 210 | 209 | Rafael Valentin |
 | 211 | 208 | scott |
@@ -254,9 +254,9 @@
 | 246 | 181 | Carter Jones |
 | 247 | 181 | Jackie Marie |
 | 248 | 180 | Orchislactea |
-| 249 | 179 | Stephme310 |
-| 250 | 179 | Christina Black |
-| 251 | 179 | TinyLegoRose |
+| 249 | 179 | Christina Black |
+| 250 | 179 | TinyLegoRose |
+| 251 | 179 | Stephme310 |
 | 252 | 179 | AyeKay |
 | 253 | 176 | Trista Leah |
 | 254 | 175 | Lorena Guerrero-Barron |
@@ -279,8 +279,8 @@
 | 271 | 162 | conceptCollector |
 | 272 | 161 | Tanner Lund |
 | 273 | 161 | Twisty Risebuilder |
-| 274 | 159 | DonMega |
-| 275 | 159 | Marcus Todd |
+| 274 | 159 | Marcus Todd |
+| 275 | 159 | DonMega |
 | 276 | 158 | Chair |
 | 277 | 157 | Bethany Ison |
 | 278 | 157 | Paige Kittles |
@@ -480,8 +480,8 @@
 | 472 | 97 | Serena Butter |
 | 473 | 97 | Flavoredsausage |
 | 474 | 96 | Rebecca Blake |
-| 475 | 96 | Christy |
-| 476 | 96 | Nicole McMurray |
+| 475 | 96 | Nicole McMurray |
+| 476 | 96 | Christy |
 | 477 | 95 | Andrew Dang |
 | 478 | 95 | RedBoots82 |
 | 479 | 95 | Chirpy Slammer |

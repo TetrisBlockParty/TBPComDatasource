@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | Desiree Deschaine Havee |
-| 189 | 235 | MRdot Rooski |
+| 188 | 235 | MRdot Rooski |
+| 189 | 235 | Desiree Deschaine Havee |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
