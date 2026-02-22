@@ -147,8 +147,8 @@
 | 139 | 241 | John J. Cronin |
 | 140 | 236 | Mandyy Rae |
 | 141 | 232 | Jessi Sauer |
-| 142 | 230 | Frothy Pattern |
-| 143 | 230 | Billie Dawn Sparks |
+| 142 | 230 | Billie Dawn Sparks |
+| 143 | 230 | Frothy Pattern |
 | 144 | 229 | David Lutcher |
 | 145 | 228 | ALFD |
 | 146 | 226 | Kandae |

@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |

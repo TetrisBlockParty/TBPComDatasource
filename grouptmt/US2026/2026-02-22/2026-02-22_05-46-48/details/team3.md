@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 975 | Stephanie Rice |
 | 47 | 956 | Gracie |
 | 48 | 935 | Snappy Fitzone |
@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Christine Filson |
-| 138 | 403 | Scott Lindsay |
+| 137 | 403 | Scott Lindsay |
+| 138 | 403 | Christine Filson |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 399 | Mcathen |
@@ -228,8 +228,8 @@
 | 220 | 263 | Brittany |
 | 221 | 262 | Joe-Maggie Mathews |
 | 222 | 261 | Tiffany Ford |
-| 223 | 261 | Marquita Sheard |
-| 224 | 261 | Tasha Wesson-Torrence |
+| 223 | 261 | Tasha Wesson-Torrence |
+| 224 | 261 | Marquita Sheard |
 | 225 | 260 | Grams |
 | 226 | 258 | Tamara Deherrera |
 | 227 | 257 | Ashley Jones |
@@ -237,8 +237,8 @@
 | 229 | 256 | Brenda Lee Vander Molen |
 | 230 | 256 | KayB |
 | 231 | 252 | Cheeky Snapper |
-| 232 | 249 | JerseyJess |
-| 233 | 249 | Annie Marie |
+| 232 | 249 | Annie Marie |
+| 233 | 249 | JerseyJess |
 | 234 | 246 | Eon Harris |
 | 235 | 246 | Rochelle Hazelett |
 | 236 | 246 | Peppy Shifter |

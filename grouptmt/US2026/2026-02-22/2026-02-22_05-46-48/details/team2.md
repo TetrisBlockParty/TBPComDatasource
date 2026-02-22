@@ -365,8 +365,8 @@
 | 357 | 517 | Poppy Snap |
 | 358 | 517 | Porsche' Nicole |
 | 359 | 516 | Diamond Scott |
-| 360 | 515 | Laquetta Royston |
-| 361 | 515 | Lonne Emade |
+| 360 | 515 | Lonne Emade |
+| 361 | 515 | Laquetta Royston |
 | 362 | 514 | Joseph Musick |
 | 363 | 511 | Laura Mclean |
 | 364 | 509 | Jordan Kaiser |
