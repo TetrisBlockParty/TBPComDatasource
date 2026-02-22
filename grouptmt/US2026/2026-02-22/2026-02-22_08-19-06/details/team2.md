@@ -525,8 +525,8 @@
 | 517 | 408 | Abimbola Bimbo |
 | 518 | 408 | Stefanie Zonzini-Gagliardi |
 | 519 | 406 | Kimberly Ann |
-| 520 | 406 | Mighty Spinbuilder |
-| 521 | 406 | Erin StFrancis |
+| 520 | 406 | Erin StFrancis |
+| 521 | 406 | Mighty Spinbuilder |
 | 522 | 404 | Snappy snappers |
 | 523 | 404 | Goofy Catcher |
 | 524 | 404 | Dawn L Washington-Feuquay |
@@ -549,8 +549,8 @@
 | 541 | 394 | Taryece Gause |
 | 542 | 393 | Arlene Joy Belicina |
 | 543 | 393 | Alexandra Weir |
-| 544 | 393 | Jamie West |
-| 545 | 393 | bbv |
+| 544 | 393 | bbv |
+| 545 | 393 | Jamie West |
 | 546 | 393 | Deyawn Smith |
 | 547 | 391 | Adam Simmons |
 | 548 | 391 | Chilly Bridgepiece |
@@ -945,13 +945,13 @@
 | 937 | 233 | Myleaha Holley |
 | 938 | 232 | P. D. Paige |
 | 939 | 232 | Regina Unruh |
-| 940 | 231 | Vung Nguyen |
-| 941 | 231 | Michelle Fleming Luna |
+| 940 | 231 | Michelle Fleming Luna |
+| 941 | 231 | Vung Nguyen |
 | 942 | 231 | Stanley Vanekelenburg |
 | 943 | 230 | lady |
 | 944 | 230 | Andrew Engman |
-| 945 | 229 | Heather Anspaugh |
-| 946 | 229 | Deidre Jenkins |
+| 945 | 229 | Deidre Jenkins |
+| 946 | 229 | Heather Anspaugh |
 | 947 | 229 | BbqGuru |
 | 948 | 229 | Chyrisse Norton |
 | 949 | 228 | Kandy Charmz |

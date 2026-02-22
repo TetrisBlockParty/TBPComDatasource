@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -61,8 +61,8 @@
 | 53 | 909 | Jennifer |
 | 54 | 908 | Alanna Rogers |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -98,8 +98,8 @@
 | 90 | 595 | Patricia White |
 | 91 | 591 | Jesse Olive |
 | 92 | 588 | yoyo |
-| 93 | 582 | Jay Horn |
-| 94 | 582 | Speedy Bridger |
+| 93 | 582 | Speedy Bridger |
+| 94 | 582 | Jay Horn |
 | 95 | 582 | Natasha Jones |
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
@@ -120,8 +120,8 @@
 | 112 | 506 | Sashay Tapae Simpson |
 | 113 | 502 | Justin Ritter |
 | 114 | 502 | Elissa S-k |
-| 115 | 500 | Kristie |
-| 116 | 500 | Domo Washington |
+| 115 | 500 | Domo Washington |
+| 116 | 500 | Kristie |
 | 117 | 497 | Mykal Burton |
 | 118 | 492 | Daira Largen |
 | 119 | 491 | Chauntee Alfrey-Cardinale |
@@ -131,8 +131,8 @@
 | 123 | 480 | Christine Filson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
-| 126 | 473 | CeceGeGe |
-| 127 | 473 | mzcatzy |
+| 126 | 473 | mzcatzy |
+| 127 | 473 | CeceGeGe |
 | 128 | 471 | Mendoza Lee Christy |
 | 129 | 459 | Nerdy Riseclear |
 | 130 | 457 | Jim Mathews |
@@ -171,8 +171,8 @@
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
 | 165 | 370 | Santeria Trece Candles |
-| 166 | 370 | Logan Naccarato |
-| 167 | 370 | Danielle Allison |
+| 166 | 370 | Danielle Allison |
+| 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -215,8 +215,8 @@
 | 207 | 295 | Marci Mize Fandrich |
 | 208 | 291 | Kristal C Lee |
 | 209 | 289 | DidIdothat |
-| 210 | 289 | Hoppy Buildout |
-| 211 | 289 | Duane Bright |
+| 210 | 289 | Duane Bright |
+| 211 | 289 | Hoppy Buildout |
 | 212 | 286 | Cynthia Herrmann Egland |
 | 213 | 284 | Denise Nardoni |
 | 214 | 283 | Cheeky Snapper |
@@ -285,8 +285,8 @@
 | 277 | 214 | Angela Scott |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
-| 280 | 211 | Velma Mull |
-| 281 | 211 | El Chapa |
+| 280 | 211 | El Chapa |
+| 281 | 211 | Velma Mull |
 | 282 | 211 | Khaleada McGill Banks |
 | 283 | 210 | Lizabeth Fox |
 | 284 | 209 | Micayah Stevens |
@@ -428,8 +428,8 @@
 | 420 | 132 | Andrew Thorson |
 | 421 | 131 | Cheeky Setter |
 | 422 | 130 | Sarah Whalen |
-| 423 | 130 | Karen Picaboo |
-| 424 | 130 | Brian Battjes |
+| 423 | 130 | Brian Battjes |
+| 424 | 130 | Karen Picaboo |
 | 425 | 130 | TotoCherue |
 | 426 | 129 | luluraine |
 | 427 | 129 | Juliana Dottore |

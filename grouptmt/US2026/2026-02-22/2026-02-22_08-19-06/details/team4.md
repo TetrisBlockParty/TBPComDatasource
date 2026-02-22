@@ -54,8 +54,8 @@
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
 | 48 | 661 | D3TROITB0RN74 |
-| 49 | 659 | Rebecca Moulton Pinciaro |
-| 50 | 659 | Jonathan Kimbrough |
+| 49 | 659 | Jonathan Kimbrough |
+| 50 | 659 | Rebecca Moulton Pinciaro |
 | 51 | 658 | loulou |
 | 52 | 654 | Chilly Line |
 | 53 | 652 | Anthony Bryan Riva |
@@ -107,8 +107,8 @@
 | 99 | 373 | Joseph Guthrie |
 | 100 | 369 | Nope Young |
 | 101 | 358 | Nugget |
-| 102 | 352 | Zippy Gridlock |
-| 103 | 352 | Monica Daley |
+| 102 | 352 | Monica Daley |
+| 103 | 352 | Zippy Gridlock |
 | 104 | 344 | Livvy |
 | 105 | 340 | Tyler Terrific |
 | 106 | 337 | Lori Walker |
@@ -182,14 +182,14 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Chance Strickland |
-| 178 | 201 | Melvin Baird |
+| 177 | 201 | Melvin Baird |
+| 178 | 201 | Chance Strickland |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |
 | 182 | 195 | 中山成巳 |
-| 183 | 195 | ZeeZee |
-| 184 | 195 | Malakai Darien Fox |
+| 183 | 195 | Malakai Darien Fox |
+| 184 | 195 | ZeeZee |
 | 185 | 194 | Zany Twisterfit |
 | 186 | 192 | Shauna Havard |
 | 187 | 191 | Sam Bishop |
@@ -273,8 +273,8 @@
 | 265 | 136 | Maureen Flanigan |
 | 266 | 136 | Michelle Morris |
 | 267 | 135 | Joshua Guess |
-| 268 | 134 | Duck |
-| 269 | 134 | Angelito |
+| 268 | 134 | Angelito |
+| 269 | 134 | Duck |
 | 270 | 134 | Kim Klutz Olson |
 | 271 | 133 | KimoKoala |
 | 272 | 132 | Vamp |
