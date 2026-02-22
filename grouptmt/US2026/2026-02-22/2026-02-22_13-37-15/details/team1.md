@@ -100,8 +100,8 @@
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
 | 94 | 382 | Jacqueline Williams |
-| 95 | 379 | Austin James |
-| 96 | 379 | Kimmie Kimms |
+| 95 | 379 | Kimmie Kimms |
+| 96 | 379 | Austin James |
 | 97 | 376 | lil mickey |
 | 98 | 374 | Tinah Montanna |
 | 99 | 364 | Shauna Loe |
@@ -154,8 +154,8 @@
 | 146 | 270 | Ash Galvan |
 | 147 | 270 | Mandyy Rae |
 | 148 | 268 | GATOR |
-| 149 | 265 | Nutty Spinblock |
-| 150 | 265 | SkipTheSadSauce |
+| 149 | 265 | SkipTheSadSauce |
+| 150 | 265 | Nutty Spinblock |
 | 151 | 264 | Lexuriuos Lifestlye |
 | 152 | 264 | Brian Richardsson |
 | 153 | 264 | Jenny Gingrich Fuentes |

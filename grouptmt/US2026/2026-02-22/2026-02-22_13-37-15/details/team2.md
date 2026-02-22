@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Jessicah Myers |
-| 257 | 777 | Tesha Oldaker |
+| 256 | 777 | Tesha Oldaker |
+| 257 | 777 | Jessicah Myers |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -360,8 +360,8 @@
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
-| 355 | 602 | Biggest thing |
-| 356 | 602 | Christine Bollig |
+| 355 | 602 | Christine Bollig |
+| 356 | 602 | Biggest thing |
 | 357 | 601 | Michele Morgan |
 | 358 | 600 | Demeka Dangerous-kisses Johnson |
 | 359 | 597 | Steven Marshaun |
@@ -386,8 +386,8 @@
 | 378 | 561 | Irene Jones |
 | 379 | 561 | Traci Johnson |
 | 380 | 560 | Phil J. Grombliniak |
-| 381 | 558 | Libby Hicks |
-| 382 | 558 | Mikayala Szaz |
+| 381 | 558 | Mikayala Szaz |
+| 382 | 558 | Libby Hicks |
 | 383 | 556 | Slip |
 | 384 | 554 | Rachael Senard |
 | 385 | 554 | Santana Miyagi |
@@ -407,8 +407,8 @@
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
-| 402 | 536 | Shaun Church |
-| 403 | 536 | Caitlin Schmid |
+| 402 | 536 | Caitlin Schmid |
+| 403 | 536 | Shaun Church |
 | 404 | 535 | Paul Huber |
 | 405 | 534 | Kenny Alvarado |
 | 406 | 533 | Gauri Shrotriya |
@@ -445,8 +445,8 @@
 | 437 | 504 | Kimmy Newman |
 | 438 | 502 | Sparkles |
 | 439 | 502 | Sheniya Spurgeon |
-| 440 | 500 | Jaycee |
-| 441 | 500 | Sarah Ridenour |
+| 440 | 500 | Sarah Ridenour |
+| 441 | 500 | Jaycee |
 | 442 | 499 | Sarah Massey |
 | 443 | 498 | Rhonda Milstead |
 | 444 | 498 | Aimee Campbell |
@@ -467,8 +467,8 @@
 | 459 | 487 | Morgan Easter |
 | 460 | 487 | MrsCandyfine As Wine Truss |
 | 461 | 485 | Mamachelle Eisweirth |
-| 462 | 485 | Dapper Dasher |
-| 463 | 485 | Ann Matzkanin |
+| 462 | 485 | Ann Matzkanin |
+| 463 | 485 | Dapper Dasher |
 | 464 | 484 | Street Sweeper |
 | 465 | 483 | Dennis McLaurin |
 | 466 | 483 | Alezandra Smith |
@@ -481,8 +481,8 @@
 | 473 | 476 | Kiana Boschh |
 | 474 | 475 | Michelle Lee |
 | 475 | 474 | Calandra Shaya Robinson |
-| 476 | 473 | Wuntayk |
-| 477 | 473 | coleksquad |
+| 476 | 473 | coleksquad |
+| 477 | 473 | Wuntayk |
 | 478 | 473 | Lyndi Robinson Wakefield |
 | 479 | 472 | Arwa Fatimah |
 | 480 | 472 | Kyle LeRoy Harris |
@@ -669,8 +669,8 @@
 | 661 | 357 | Tristan Szolek |
 | 662 | 356 | Kelsey Sullivan |
 | 663 | 355 | Amanda Perez |
-| 664 | 354 | Rachel Kaminski |
-| 665 | 354 | Rickey Johnson |
+| 664 | 354 | Rickey Johnson |
+| 665 | 354 | Rachel Kaminski |
 | 666 | 352 | Rose Fx |
 | 667 | 352 | Jean FU Jagielski |
 | 668 | 352 | ruth |
@@ -720,8 +720,8 @@
 | 712 | 325 | Justin Hines |
 | 713 | 325 | Mike73 |
 | 714 | 324 | Prado |
-| 715 | 324 | Tasia Stinson |
-| 716 | 324 | Dale Haanpaa |
+| 715 | 324 | Dale Haanpaa |
+| 716 | 324 | Tasia Stinson |
 | 717 | 323 | Briana Alexander |
 | 718 | 323 | stacey |
 | 719 | 322 | Lea Stewart |
@@ -752,31 +752,31 @@
 | 744 | 311 | Audra Williams |
 | 745 | 311 | SwifftFox |
 | 746 | 311 | Megan Phillips |
-| 747 | 310 | Wendy Ducheney |
-| 748 | 310 | Cheeky Brickmatch |
+| 747 | 310 | Cheeky Brickmatch |
+| 748 | 310 | Wendy Ducheney |
 | 749 | 310 | Beth Decker |
 | 750 | 309 | Byung Bae Park |
-| 751 | 308 | Sarah block |
-| 752 | 308 | Claire |
+| 751 | 308 | Claire |
+| 752 | 308 | Sarah block |
 | 753 | 308 | Katie Joy McCombs |
 | 754 | 308 | Hyper Riseclear |
 | 755 | 306 | Kiorah Blaze |
 | 756 | 305 | Zany Clusterbuilder |
-| 757 | 305 | Epic Fitzone |
-| 758 | 305 | Narutofreak13 |
-| 759 | 305 | MamaBear11 |
+| 757 | 305 | Narutofreak13 |
+| 758 | 305 | MamaBear11 |
+| 759 | 305 | Epic Fitzone |
 | 760 | 304 | Jeffrey Barrows |
 | 761 | 304 | Melissa McCall |
 | 762 | 304 | NFLPITMOM |
 | 763 | 303 | Angie Marie |
 | 764 | 303 | Devin |
 | 765 | 303 | Amanda Schaffer |
-| 766 | 302 | Kena T. Tanner |
-| 767 | 302 | Epic Stackbuilder |
+| 766 | 302 | Epic Stackbuilder |
+| 767 | 302 | Kena T. Tanner |
 | 768 | 302 | Maxwell Escalera |
 | 769 | 300 | Alice Ball |
-| 770 | 300 | Kacee Conrad Bock |
-| 771 | 300 | Warren Marleau |
+| 770 | 300 | Warren Marleau |
+| 771 | 300 | Kacee Conrad Bock |
 | 772 | 299 | Cassie Newton |
 | 773 | 298 | Frilly Fallzone |
 | 774 | 298 | Ryan Stadel |
