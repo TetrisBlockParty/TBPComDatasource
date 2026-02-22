@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,15 +49,15 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Alicia Bass |
-| 95 | 396 | Amy Suckarieh |
+| 94 | 396 | Amy Suckarieh |
+| 95 | 396 | Alicia Bass |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 391 | shar |
@@ -124,14 +124,14 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
@@ -160,8 +160,8 @@
 | 152 | 230 | Cursed Hag |
 | 153 | 230 | Autum Leigh |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Antony Dwayne Beasley |

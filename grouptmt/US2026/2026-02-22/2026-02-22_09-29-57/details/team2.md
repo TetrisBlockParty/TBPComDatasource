@@ -61,8 +61,8 @@
 | 53 | 2361 | Rob Surace |
 | 54 | 2347 | Alex Hill |
 | 55 | 2344 | Melinda Brown |
-| 56 | 2333 | Ramone Armstrong |
-| 57 | 2333 | Crystalin Heath Lewis |
+| 56 | 2333 | Crystalin Heath Lewis |
+| 57 | 2333 | Ramone Armstrong |
 | 58 | 2298 | Brent Bittenbender |
 | 59 | 2280 | Robert Diddle |
 | 60 | 2151 | Kelly Crook |
@@ -250,8 +250,8 @@
 | 242 | 777 | Barbra Miller |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | William Hunt |
-| 246 | 772 | Sam Joe |
+| 245 | 772 | Sam Joe |
+| 246 | 772 | William Hunt |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -323,8 +323,8 @@
 | 315 | 650 | Shiny Rollzone |
 | 316 | 645 | tejas25 |
 | 317 | 643 | Hoppy Brickmatch |
-| 318 | 641 | Angie Bolton Workman |
-| 319 | 641 | Joce Lynn |
+| 318 | 641 | Joce Lynn |
+| 319 | 641 | Angie Bolton Workman |
 | 320 | 640 | BYM4L |
 | 321 | 639 | Crystie Hicks |
 | 322 | 639 | Rebecca Miller |
@@ -478,8 +478,8 @@
 | 470 | 458 | Casper The Chonk |
 | 471 | 458 | Tra Barnum |
 | 472 | 454 | Casey Schumacher |
-| 473 | 453 | Rhonda Petro |
-| 474 | 453 | Joshua Sommerville |
+| 473 | 453 | Joshua Sommerville |
+| 474 | 453 | Rhonda Petro |
 | 475 | 451 | Funky Caster |
 | 476 | 451 | Cody Nishimura |
 | 477 | 451 | Dylan Thomason |
@@ -500,8 +500,8 @@
 | 492 | 437 | Bubbly Snapfit |
 | 493 | 436 | Brenda Pierpoint |
 | 494 | 436 | Niceday |
-| 495 | 435 | Regina Young |
-| 496 | 435 | James Louie |
+| 495 | 435 | James Louie |
+| 496 | 435 | Regina Young |
 | 497 | 433 | KayLynn Ogden McClelland |
 | 498 | 432 | Lucy Marshall |
 | 499 | 431 | Kenny Alvarado |
@@ -531,8 +531,8 @@
 | 523 | 416 | Ricky Fortune |
 | 524 | 414 | John |
 | 525 | 414 | Sabrina Burton |
-| 526 | 413 | Fancy Twister |
-| 527 | 413 | Biggest thing |
+| 526 | 413 | Biggest thing |
+| 527 | 413 | Fancy Twister |
 | 528 | 413 | Lauren Fitzgerald Thomas |
 | 529 | 413 | Juanita Lyons |
 | 530 | 411 | Kristen O'Neal |
@@ -673,8 +673,8 @@
 | 665 | 339 | Denise Rickman |
 | 666 | 338 | Janitta Alvarez |
 | 667 | 337 | Sassy Pattern |
-| 668 | 337 | Diallo Sparkman |
-| 669 | 337 | Tum |
+| 668 | 337 | Tum |
+| 669 | 337 | Diallo Sparkman |
 | 670 | 337 | Savannah Alexander |
 | 671 | 336 | bru |
 | 672 | 336 | Austin Wilson |
@@ -683,8 +683,8 @@
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Adrian Benitez |
-| 679 | 333 | Woodys Glass |
+| 678 | 333 | Woodys Glass |
+| 679 | 333 | Adrian Benitez |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
@@ -934,11 +934,11 @@
 | 926 | 242 | Meganator42 |
 | 927 | 242 | Donna Chandler |
 | 928 | 242 | Groovy Tilefall |
-| 929 | 241 | Emoney Sanchez |
-| 930 | 241 | Ronda Cary |
+| 929 | 241 | Ronda Cary |
+| 930 | 241 | Emoney Sanchez |
 | 931 | 241 | Travis Tinsley |
-| 932 | 240 | Alison Emmons |
-| 933 | 240 | Renee Bowers |
+| 932 | 240 | Renee Bowers |
+| 933 | 240 | Alison Emmons |
 | 934 | 239 | Amy John Mills |
 | 935 | 239 | Daring Matchfit |
 | 936 | 239 | Joel Rosado |
