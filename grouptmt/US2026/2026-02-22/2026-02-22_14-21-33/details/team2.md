@@ -241,8 +241,8 @@
 | 233 | 867 | Peppy Zone |
 | 234 | 862 | Brittany Radaszewski |
 | 235 | 860 | Felicia Lynn |
-| 236 | 860 | John Bednarik |
-| 237 | 860 | April Dawn Gussler |
+| 236 | 860 | April Dawn Gussler |
+| 237 | 860 | John Bednarik |
 | 238 | 857 | Della Hole |
 | 239 | 855 | F-X |
 | 240 | 853 | Meghan M |
@@ -577,8 +577,8 @@
 | 569 | 413 | Fancy Twister |
 | 570 | 413 | Lauren Fitzgerald Thomas |
 | 571 | 412 | Jason H Baker |
-| 572 | 411 | Mighty Spinbuilder |
-| 573 | 411 | Kristen O'Neal |
+| 572 | 411 | Kristen O'Neal |
+| 573 | 411 | Mighty Spinbuilder |
 | 574 | 410 | Belle |
 | 575 | 408 | Abimbola Bimbo |
 | 576 | 408 | Stefanie Zonzini-Gagliardi |
@@ -697,8 +697,8 @@
 | 689 | 345 | Rhianna DiLorenzo |
 | 690 | 345 | Gina Caulder |
 | 691 | 344 | Glenn Cobbins |
-| 692 | 343 | Janitta Alvarez |
-| 693 | 343 | Cris cris |
+| 692 | 343 | Cris cris |
+| 693 | 343 | Janitta Alvarez |
 | 694 | 342 | Danielle DeLozier Plesec |
 | 695 | 342 | Quirky Twistline |
 | 696 | 341 | Daniel Amos |
@@ -717,8 +717,8 @@
 | 709 | 335 | Brooke Leigh Strube |
 | 710 | 335 | Alexandrea |
 | 711 | 334 | Melissa James |
-| 712 | 333 | Woodys Glass |
-| 713 | 333 | Adrian Benitez |
+| 712 | 333 | Adrian Benitez |
+| 713 | 333 | Woodys Glass |
 | 714 | 331 | Johanna Massaro |
 | 715 | 330 | Toni Roberson |
 | 716 | 330 | Jennifer Monroe Kelly |
@@ -1212,8 +1212,8 @@
 | 1204 | 201 | LintFunk |
 | 1205 | 201 | Jennifer Rajek |
 | 1206 | 201 | Betty Ruth Hale |
-| 1207 | 201 | Jadelynn Sarbacher |
-| 1208 | 201 | Mary Lopez Sr. |
+| 1207 | 201 | Mary Lopez Sr. |
+| 1208 | 201 | Jadelynn Sarbacher |
 | 1209 | 200 | Boldy Cascade |
 | 1210 | 200 | Rich Sullivan |
 | 1211 | 200 | Sara Silvernail-Kay |

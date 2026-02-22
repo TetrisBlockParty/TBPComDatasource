@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 546 | Kristie |
@@ -380,8 +380,8 @@
 | 372 | 173 | BŘŰŤİÇŨŚ |
 | 373 | 173 | Naur |
 | 374 | 170 | Tina Smith Roy |
-| 375 | 169 | Rainbow77375 |
-| 376 | 169 | Peachy Rollfit |
+| 375 | 169 | Peachy Rollfit |
+| 376 | 169 | Rainbow77375 |
 | 377 | 168 | Trice Thomas |
 | 378 | 167 | Shicken Nuggit |
 | 379 | 167 | Irene Arreguin |

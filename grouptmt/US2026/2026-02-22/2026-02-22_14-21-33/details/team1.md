@@ -185,10 +185,10 @@
 | 177 | 235 | Desiree Deschaine Havee |
 | 178 | 234 | Paula Martin |
 | 179 | 231 | Amanda Johnson Huffman |
-| 180 | 230 | Frothy Pattern |
-| 181 | 230 | Billie Dawn Sparks |
-| 182 | 229 | Chris K |
-| 183 | 229 | David Lutcher |
+| 180 | 230 | Billie Dawn Sparks |
+| 181 | 230 | Frothy Pattern |
+| 182 | 229 | David Lutcher |
+| 183 | 229 | Chris K |
 | 184 | 228 | Sassy Builderline |
 | 185 | 226 | Kandae |
 | 186 | 224 | ParisandCory Champagne |
@@ -340,8 +340,8 @@
 | 332 | 133 | Jasmine Riley |
 | 333 | 132 | John Kim |
 | 334 | 132 | Layzietyme |
-| 335 | 131 | Plucky Wrecker |
-| 336 | 131 | Dizzy Riseclear |
+| 335 | 131 | Dizzy Riseclear |
+| 336 | 131 | Plucky Wrecker |
 | 337 | 130 | Carl Claunch |
 | 338 | 129 | Sherri E Woods Hess |
 | 339 | 128 | Alyssa Ingram |

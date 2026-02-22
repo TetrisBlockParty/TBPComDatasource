@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Shelly Chandler |
-| 38 | 843 | Lucille Truesdale |
+| 37 | 843 | Lucille Truesdale |
+| 38 | 843 | Shelly Chandler |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -170,8 +170,8 @@
 | 162 | 253 | Casey Grabner |
 | 163 | 250 | Matt Dell'Olio |
 | 164 | 245 | Diana Houts |
-| 165 | 244 | J-Rizzle |
-| 166 | 244 | Twisty Cascadezone |
+| 165 | 244 | Twisty Cascadezone |
+| 166 | 244 | J-Rizzle |
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
@@ -193,8 +193,8 @@
 | 185 | 217 | Angela Srubar-Norman |
 | 186 | 216 | Chance Strickland |
 | 187 | 216 | ZeeZee |
-| 188 | 213 | Sarah Neathery |
-| 189 | 213 | Jason Allen |
+| 188 | 213 | Jason Allen |
+| 189 | 213 | Sarah Neathery |
 | 190 | 212 | Mike Solo |
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
@@ -294,8 +294,8 @@
 | 286 | 147 | Adam Stephanie Parker |
 | 287 | 147 | Jay28 |
 | 288 | 145 | Sandra Safford |
-| 289 | 144 | Maureen Flanigan |
-| 290 | 144 | Circuit8 |
+| 289 | 144 | Circuit8 |
+| 290 | 144 | Maureen Flanigan |
 | 291 | 144 | Sticherella |
 | 292 | 143 | Daresha Fair |
 | 293 | 143 | Asher |
