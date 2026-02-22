@@ -188,8 +188,8 @@
 | 180 | 878 | L3sli3 |
 | 181 | 871 | Jamie Otero |
 | 182 | 867 | Michele Gabriel |
-| 183 | 867 | Rosa Franklin |
-| 184 | 867 | YiFei |
+| 183 | 867 | YiFei |
+| 184 | 867 | Rosa Franklin |
 | 185 | 865 | Dedra Steward |
 | 186 | 862 | Robin Kerby |
 | 187 | 861 | Jennifer Peachey |
@@ -202,8 +202,8 @@
 | 194 | 845 | April Dawn Gussler |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
@@ -262,8 +262,8 @@
 | 254 | 678 | Scott Treadway |
 | 255 | 677 | Mema |
 | 256 | 676 | Pacynthia Williams |
-| 257 | 675 | Brenda Utphall |
-| 258 | 675 | Tommy Tha Boss Gunz |
+| 257 | 675 | Tommy Tha Boss Gunz |
+| 258 | 675 | Brenda Utphall |
 | 259 | 672 | Danielle Simmons |
 | 260 | 671 | Poldo Ilano |
 | 261 | 669 | Claire Noland |

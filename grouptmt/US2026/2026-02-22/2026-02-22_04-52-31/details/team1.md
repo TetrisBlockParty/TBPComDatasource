@@ -134,8 +134,8 @@
 | 126 | 252 | Dena Kayy |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
-| 129 | 243 | Chelsea Dahlquist |
-| 130 | 243 | Trippy Redd |
+| 129 | 243 | Trippy Redd |
+| 130 | 243 | Chelsea Dahlquist |
 | 131 | 241 | John J. Cronin |
 | 132 | 236 | Mandyy Rae |
 | 133 | 232 | Jessi Sauer |
@@ -144,8 +144,8 @@
 | 136 | 228 | ALFD |
 | 137 | 226 | Kandae |
 | 138 | 218 | lil mickey |
-| 139 | 217 | ParisandCory Champagne |
-| 140 | 217 | Dizzy Party |
+| 139 | 217 | Dizzy Party |
+| 140 | 217 | ParisandCory Champagne |
 | 141 | 216 | MRdot Rooski |
 | 142 | 216 | Shauntina Burke |
 | 143 | 214 | Sleepysloath5745 |
@@ -240,10 +240,10 @@
 | 232 | 144 | Cranky Pattern |
 | 233 | 144 | Toph |
 | 234 | 144 | Miguel Teixeira |
-| 235 | 143 | Herm Junior |
-| 236 | 143 | Guest |
-| 237 | 142 | Jerry Danowski |
-| 238 | 142 | Colleen Wise |
+| 235 | 143 | Guest |
+| 236 | 143 | Herm Junior |
+| 237 | 142 | Colleen Wise |
+| 238 | 142 | Jerry Danowski |
 | 239 | 141 | Dino |
 | 240 | 139 | LD1 |
 | 241 | 139 | Aimee Horton |

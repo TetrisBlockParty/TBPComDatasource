@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -299,8 +299,8 @@
 | 291 | 178 | Jess Dearborn |
 | 292 | 176 | Melissa Orth Hunter |
 | 293 | 175 | Eileen Brady Thurber |
-| 294 | 174 | fraulila |
-| 295 | 174 | Betty Rosas |
+| 294 | 174 | Betty Rosas |
+| 295 | 174 | fraulila |
 | 296 | 174 | Lesley Perez |
 | 297 | 173 | BŘŰŤİÇŨŚ |
 | 298 | 173 | Denita Mungro |
