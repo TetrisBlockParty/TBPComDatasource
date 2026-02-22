@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -98,8 +98,8 @@
 | 90 | 388 | Jennifer ManWarren |
 | 91 | 383 | Loony Fitzone |
 | 92 | 382 | Jacqueline Williams |
-| 93 | 379 | Austin James |
-| 94 | 379 | Kimmie Kimms |
+| 93 | 379 | Kimmie Kimms |
+| 94 | 379 | Austin James |
 | 95 | 376 | lil mickey |
 | 96 | 374 | Tinah Montanna |
 | 97 | 364 | Shauna Loe |
@@ -192,8 +192,8 @@
 | 184 | 210 | Giggly Builderline |
 | 185 | 210 | Letson Melissa |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 208 | Bouncy Grid |
+| 187 | 208 | Bouncy Grid |
+| 188 | 208 | Donna Addison Williams |
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
@@ -217,10 +217,10 @@
 | 209 | 194 | Christy Jones |
 | 210 | 193 | Michael |
 | 211 | 193 | Lachelle Dillon |
-| 212 | 191 | Diane Byrd |
-| 213 | 191 | Shanae Grant |
-| 214 | 190 | Erez Yosef |
-| 215 | 190 | Sweetts |
+| 212 | 191 | Shanae Grant |
+| 213 | 191 | Diane Byrd |
+| 214 | 190 | Sweetts |
+| 215 | 190 | Erez Yosef |
 | 216 | 190 | Thorne Shumate |
 | 217 | 189 | Cece Ibarra |
 | 218 | 189 | Jeanna Dunn |

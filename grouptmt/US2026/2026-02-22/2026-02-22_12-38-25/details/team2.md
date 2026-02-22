@@ -522,9 +522,9 @@
 | 514 | 438 | Kristi Biddinger |
 | 515 | 438 | Johnny Yeates |
 | 516 | 437 | Bubbly Snapfit |
-| 517 | 436 | Niceday |
-| 518 | 436 | SwampRebel |
-| 519 | 436 | Brenda Pierpoint |
+| 517 | 436 | Brenda Pierpoint |
+| 518 | 436 | Niceday |
+| 519 | 436 | SwampRebel |
 | 520 | 435 | James Louie |
 | 521 | 435 | Regina Young |
 | 522 | 433 | KayLynn Ogden McClelland |

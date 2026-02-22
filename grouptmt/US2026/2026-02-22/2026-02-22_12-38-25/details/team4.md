@@ -249,8 +249,8 @@
 | 241 | 162 | John Brunetti |
 | 242 | 161 | Jenny Wells-Oakley |
 | 243 | 160 | Brittany Marsh |
-| 244 | 159 | Marcus Todd |
-| 245 | 159 | DonMega |
+| 244 | 159 | DonMega |
+| 245 | 159 | Marcus Todd |
 | 246 | 158 | Chair |
 | 247 | 157 | Paige Kittles |
 | 248 | 157 | scott |
@@ -411,8 +411,8 @@
 | 403 | 104 | Gdiguy |
 | 404 | 104 | Jessica Johnston |
 | 405 | 104 | Blessedmama |
-| 406 | 102 | Brave Spinbuilder |
-| 407 | 102 | Christina O'Dell-Ishau |
+| 406 | 102 | Christina O'Dell-Ishau |
+| 407 | 102 | Brave Spinbuilder |
 | 408 | 102 | Bigeddie |
 | 409 | 101 | Saulc1991 |
 | 410 | 100 | Rico |
@@ -436,12 +436,12 @@
 | 428 | 95 | RedBoots82 |
 | 429 | 94 | Lee Silpe |
 | 430 | 94 | Ahleek Mitchell |
-| 431 | 94 | Jeff Roberts |
-| 432 | 94 | Adawna Swires |
-| 433 | 93 | Matt Gooder |
-| 434 | 93 | Mousey406 |
-| 435 | 92 | Frilly Blocky |
-| 436 | 92 | bloat princess |
+| 431 | 94 | Adawna Swires |
+| 432 | 94 | Jeff Roberts |
+| 433 | 93 | Mousey406 |
+| 434 | 93 | Matt Gooder |
+| 435 | 92 | bloat princess |
+| 436 | 92 | Frilly Blocky |
 | 437 | 92 | RogueRebel |
 | 438 | 92 | Krash |
 | 439 | 91 | Sunny Filler |
