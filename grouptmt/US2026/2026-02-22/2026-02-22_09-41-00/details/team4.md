@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -131,8 +131,8 @@
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
-| 126 | 286 | shark tato |
-| 127 | 286 | Daria Rycewicz |
+| 126 | 286 | Daria Rycewicz |
+| 127 | 286 | shark tato |
 | 128 | 283 | Brittney Orengo |
 | 129 | 281 | Meagan Nicole |
 | 130 | 278 | Carrie Brian |
@@ -185,8 +185,8 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Chance Strickland |
-| 181 | 201 | Melvin Baird |
+| 180 | 201 | Melvin Baird |
+| 181 | 201 | Chance Strickland |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
 | 184 | 198 | Jessica Lynn Cutlip |
@@ -215,8 +215,8 @@
 | 207 | 179 | blockstar |
 | 208 | 178 | TinyLegoRose |
 | 209 | 175 | Lorena Guerrero-Barron |
-| 210 | 174 | JPW |
-| 211 | 174 | Rio Rocha |
+| 210 | 174 | Rio Rocha |
+| 211 | 174 | JPW |
 | 212 | 172 | Gilles Lanctot |
 | 213 | 171 | Autumn Kumzi |
 | 214 | 167 | Cozy Balancer |
@@ -442,8 +442,8 @@
 | 434 | 87 | Martha Lucinda Bishop |
 | 435 | 87 | Derek Pendarvis |
 | 436 | 86 | Tamika Starkey |
-| 437 | 86 | Destiney Carter |
-| 438 | 86 | Peppy Strike |
+| 437 | 86 | Peppy Strike |
+| 438 | 86 | Destiney Carter |
 | 439 | 86 | amy |
 | 440 | 85 | Jennifer Renee |
 | 441 | 85 | Paito |

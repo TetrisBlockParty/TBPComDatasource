@@ -222,12 +222,12 @@
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
 | 216 | 289 | DidIdothat |
-| 217 | 289 | Duane Bright |
-| 218 | 289 | Hoppy Buildout |
+| 217 | 289 | Hoppy Buildout |
+| 218 | 289 | Duane Bright |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -256,8 +256,8 @@
 | 248 | 256 | Tiffany Davie |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
-| 251 | 249 | Annie Marie |
-| 252 | 249 | JerseyJess |
+| 251 | 249 | JerseyJess |
+| 252 | 249 | Annie Marie |
 | 253 | 247 | Carrie Huskey |
 | 254 | 246 | Eon Harris |
 | 255 | 246 | Peppy Shifter |
@@ -285,8 +285,8 @@
 | 277 | 220 | rosy |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Twisty Brick LT |
-| 281 | 216 | Cheryl Hinch Tenbrook |
+| 280 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Twisty Brick LT |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Angela Scott |
 | 284 | 214 | Amy Fuller Heaton |
@@ -337,13 +337,13 @@
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
-| 332 | 176 | Melissa Orth Hunter |
-| 333 | 176 | Emma |
+| 332 | 176 | Emma |
+| 333 | 176 | Melissa Orth Hunter |
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | BŘŰŤİÇŨŚ |
-| 338 | 173 | Naur |
+| 337 | 173 | Naur |
+| 338 | 173 | BŘŰŤİÇŨŚ |
 | 339 | 170 | Tina Smith Roy |
 | 340 | 169 | Kristian Thurman |
 | 341 | 169 | Peachy Rollfit |
@@ -375,8 +375,8 @@
 | 367 | 159 | Joshua David Huie |
 | 368 | 159 | Salena Whitlock |
 | 369 | 158 | Willow |
-| 370 | 157 | Steffi Chris Dacones |
-| 371 | 157 | Katrina E Jelks |
+| 370 | 157 | Katrina E Jelks |
+| 371 | 157 | Steffi Chris Dacones |
 | 372 | 157 | Angel Mendez |
 | 373 | 157 | Wetwet |
 | 374 | 156 | Nichole Greene |
@@ -619,8 +619,8 @@
 | 611 | 98 | Adrea Ann |
 | 612 | 98 | Katie Morton |
 | 613 | 97 | Daisy Rocha |
-| 614 | 97 | Rebecca Lynn |
-| 615 | 97 | Tina Baurdau |
+| 614 | 97 | Tina Baurdau |
+| 615 | 97 | Rebecca Lynn |
 | 616 | 96 | D3NO |
 | 617 | 96 | Jason |
 | 618 | 96 | Kelly |

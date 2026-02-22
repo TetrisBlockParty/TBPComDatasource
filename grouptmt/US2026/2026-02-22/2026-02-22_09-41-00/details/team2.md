@@ -258,8 +258,8 @@
 | 250 | 766 | Lisa Ongtowasruk |
 | 251 | 765 | Jodi Blake |
 | 252 | 764 | Pacynthia Williams |
-| 253 | 763 | Samantha Jo |
-| 254 | 763 | Mischelle Clay |
+| 253 | 763 | Mischelle Clay |
+| 254 | 763 | Samantha Jo |
 | 255 | 763 | Beth |
 | 256 | 759 | Desire Rice |
 | 257 | 756 | Stephanie Neuburger |
@@ -511,8 +511,8 @@
 | 503 | 429 | Christy Krissie |
 | 504 | 428 | Arkei Luster |
 | 505 | 428 | Shyenn Gadsby |
-| 506 | 427 | Destiny Cozier |
-| 507 | 427 | Quinn |
+| 506 | 427 | Quinn |
+| 507 | 427 | Destiny Cozier |
 | 508 | 427 | Kori Beth Babb |
 | 509 | 426 | Ashley Dow |
 | 510 | 425 | Skyler Morgan |
@@ -526,8 +526,8 @@
 | 518 | 420 | LaWanda Powell |
 | 519 | 419 | Pocho Zavala |
 | 520 | 419 | Josh Dill |
-| 521 | 418 | Véronique Lévesque Sabourin |
-| 522 | 418 | Kristi Biddinger |
+| 521 | 418 | Kristi Biddinger |
+| 522 | 418 | Véronique Lévesque Sabourin |
 | 523 | 417 | Alexx Anaya |
 | 524 | 416 | Ricky Fortune |
 | 525 | 414 | John |
@@ -806,10 +806,10 @@
 | 798 | 276 | Dandy Combo |
 | 799 | 276 | Patrick Bartlett |
 | 800 | 276 | Lindsey Leigh |
-| 801 | 276 | Jamie Dayton |
-| 802 | 276 | Josh Webster |
-| 803 | 276 | Jennifer Leigh |
-| 804 | 276 | Ryan Lauer |
+| 801 | 276 | Ryan Lauer |
+| 802 | 276 | Jennifer Leigh |
+| 803 | 276 | Jamie Dayton |
+| 804 | 276 | Josh Webster |
 | 805 | 275 | Alishac Marie |
 | 806 | 275 | Crystal Elam |
 | 807 | 275 | Alyssia Tancredi |
@@ -916,8 +916,8 @@
 | 908 | 248 | Angelina Marie |
 | 909 | 248 | CleverAngel |
 | 910 | 248 | Jaybee Nguyen |
-| 911 | 247 | Wizz |
-| 912 | 247 | Karyn Yurcho Dooley |
+| 911 | 247 | Karyn Yurcho Dooley |
+| 912 | 247 | Wizz |
 | 913 | 246 | Laura McConnell |
 | 914 | 246 | Stacey Tranchida |
 | 915 | 245 | Regina Unruh |
