@@ -242,9 +242,9 @@
 | 234 | 344 | Rania Zaqout |
 | 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
-| 237 | 341 | Noyb Adam |
-| 238 | 341 | Samantha Lynn |
-| 239 | 341 | Ashley Tookes |
+| 237 | 341 | Ashley Tookes |
+| 238 | 341 | Noyb Adam |
+| 239 | 341 | Samantha Lynn |
 | 240 | 340 | Ammmmmmy |
 | 241 | 339 | Danielle Weikel |
 | 242 | 338 | Gumbo |
@@ -291,9 +291,9 @@
 | 283 | 283 | Heather Green |
 | 284 | 280 | fraulila |
 | 285 | 279 | Foltz Lee Kelli |
-| 286 | 278 | LaShey Thompson |
+| 286 | 278 | Rufus Lincoln |
 | 287 | 278 | Steffi Chris Dacones |
-| 288 | 278 | Rufus Lincoln |
+| 288 | 278 | LaShey Thompson |
 | 289 | 277 | Kaycee Kay |
 | 290 | 277 | Tracy Martin |
 | 291 | 277 | Joe-Maggie Mathews |

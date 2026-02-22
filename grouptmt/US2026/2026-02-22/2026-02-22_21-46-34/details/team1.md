@@ -250,8 +250,8 @@
 | 242 | 223 | Thorne Shumate |
 | 243 | 223 | Christina Backer |
 | 244 | 222 | Debbie Davis |
-| 245 | 221 | Daring Fitclear |
-| 246 | 221 | Amy Hess |
+| 245 | 221 | Amy Hess |
+| 246 | 221 | Daring Fitclear |
 | 247 | 220 | Bouncy Grid |
 | 248 | 219 | Joe Coon |
 | 249 | 219 | Chuck Gannon |
@@ -274,8 +274,8 @@
 | 266 | 207 | Brenda Alexander |
 | 267 | 206 | BadG52 |
 | 268 | 205 | Tyler L Hunt |
-| 269 | 204 | Mel Hogan |
-| 270 | 204 | Chris Sigurdson |
+| 269 | 204 | Chris Sigurdson |
+| 270 | 204 | Mel Hogan |
 | 271 | 203 | Andrew Boone |
 | 272 | 202 | Amanda Holibaugh |
 | 273 | 201 | Colleen Wise |

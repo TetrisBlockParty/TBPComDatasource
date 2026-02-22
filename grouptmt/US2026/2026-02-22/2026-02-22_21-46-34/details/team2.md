@@ -259,8 +259,8 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Joshua Mandel |
-| 255 | 919 | Isaac Trappiel IV |
+| 254 | 919 | Isaac Trappiel IV |
+| 255 | 919 | Joshua Mandel |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
@@ -332,8 +332,8 @@
 | 324 | 777 | Samantha Jo |
 | 325 | 774 | Ashley Dow |
 | 326 | 774 | Ginnell Browner |
-| 327 | 773 | Heather Schelkopf |
-| 328 | 773 | Diana Fitzwater |
+| 327 | 773 | Diana Fitzwater |
+| 328 | 773 | Heather Schelkopf |
 | 329 | 772 | Danielle Simmons |
 | 330 | 768 | Joshua Self |
 | 331 | 767 | Ashley Lopez |
@@ -599,8 +599,8 @@
 | 591 | 468 | Melanie Csikortos |
 | 592 | 468 | Jennifer Monroe Kelly |
 | 593 | 467 | Audrey Jones |
-| 594 | 466 | Crystal Greene |
-| 595 | 466 | Ebony Deloach Bryant |
+| 594 | 466 | Ebony Deloach Bryant |
+| 595 | 466 | Crystal Greene |
 | 596 | 465 | Snazzy Basepiece |
 | 597 | 463 | Jaye EL Hunter |
 | 598 | 462 | Daphne Jordan |
@@ -635,8 +635,8 @@
 | 627 | 444 | Chab |
 | 628 | 444 | Fi Ne |
 | 629 | 443 | Christina Ashley |
-| 630 | 442 | Juan Castillo |
-| 631 | 442 | Niceday |
+| 630 | 442 | Niceday |
+| 631 | 442 | Juan Castillo |
 | 632 | 442 | Kayla |
 | 633 | 438 | Crystal Heller Gonzalez |
 | 634 | 438 | Lynda Toland |

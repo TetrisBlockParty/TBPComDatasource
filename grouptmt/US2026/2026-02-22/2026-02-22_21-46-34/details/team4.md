@@ -48,9 +48,9 @@
 | 40 | 908 | Misty Hollibaugh |
 | 41 | 886 | Dustin Robert |
 | 42 | 855 | Marvin Lou Martin |
-| 43 | 846 | Christine Marie |
+| 43 | 846 | Jae Job |
 | 44 | 846 | Lucille Truesdale |
-| 45 | 846 | Jae Job |
+| 45 | 846 | Christine Marie |
 | 46 | 843 | Shelly Chandler |
 | 47 | 839 | LisaJo Picken Buchanan |
 | 48 | 835 | TeeJ |
@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -179,8 +179,8 @@
 | 171 | 301 | Crystal Nicolette Moore |
 | 172 | 300 | Dana Scott |
 | 173 | 294 | Calvin Cannon |
-| 174 | 292 | Chaz Duncan |
-| 175 | 292 | Michele Plunkett |
+| 174 | 292 | Michele Plunkett |
+| 175 | 292 | Chaz Duncan |
 | 176 | 290 | Keshia Lyons |
 | 177 | 289 | Silly Zonebuilder |
 | 178 | 289 | Lindsay Ball |
