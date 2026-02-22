@@ -115,13 +115,13 @@
 | 107 | 328 | Shauna Loe |
 | 108 | 326 | Monica Donato |
 | 109 | 321 | Maria C. Hernandez |
-| 110 | 319 | Patrick Luckenbill |
-| 111 | 319 | Deanna L Hermanson |
+| 110 | 319 | Deanna L Hermanson |
+| 111 | 319 | Patrick Luckenbill |
 | 112 | 316 | Ly Phethmany |
 | 113 | 313 | Tanya Carpenter-Reynolds |
-| 114 | 310 | phrmblk24 |
-| 115 | 310 | Seth Wesson |
-| 116 | 310 | Jason Jones |
+| 114 | 310 | Jason Jones |
+| 115 | 310 | phrmblk24 |
+| 116 | 310 | Seth Wesson |
 | 117 | 306 | Happy Basegrid |
 | 118 | 304 | Nicole Roseberry Weber |
 | 119 | 301 | Lehrin Maria |
@@ -294,8 +294,8 @@
 | 286 | 136 | Jessie |
 | 287 | 135 | Mrs.Patrica |
 | 288 | 133 | MommaKFC |
-| 289 | 132 | Larry Tilton |
-| 290 | 132 | Layzietyme |
+| 289 | 132 | Layzietyme |
+| 290 | 132 | Larry Tilton |
 | 291 | 131 | Dizzy Riseclear |
 | 292 | 131 | Uhog SF |
 | 293 | 130 | Carl Claunch |
@@ -303,8 +303,8 @@
 | 295 | 130 | Gilbert Ortiz Jr. |
 | 296 | 129 | Sherri E Woods Hess |
 | 297 | 128 | Alyssa Ingram |
-| 298 | 127 | Danielle Mae |
-| 299 | 127 | Lynn Adams |
+| 298 | 127 | Lynn Adams |
+| 299 | 127 | Danielle Mae |
 | 300 | 126 | Zany Tiler |
 | 301 | 125 | Melissa Bires Hussar |
 | 302 | 125 | Angela Spann |

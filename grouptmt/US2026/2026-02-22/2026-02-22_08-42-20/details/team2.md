@@ -276,15 +276,15 @@
 | 268 | 713 | Kiely Tomaskovich |
 | 269 | 704 | Shelley Thornburgh Wright |
 | 270 | 703 | Gold Rose |
-| 271 | 700 | Hong Tang |
-| 272 | 700 | Vincent Petrella |
+| 271 | 700 | Vincent Petrella |
+| 272 | 700 | Hong Tang |
 | 273 | 700 | Rosemadder |
 | 274 | 700 | Beverly Owens |
 | 275 | 698 | Mighty Shatterfit |
 | 276 | 697 | Dreamy Blast |
 | 277 | 692 | Chelle |
-| 278 | 692 | Dannette Goldberg-Richards |
-| 279 | 692 | Jennifer Casey-Kay |
+| 278 | 692 | Jennifer Casey-Kay |
+| 279 | 692 | Dannette Goldberg-Richards |
 | 280 | 690 | Deborah Miller |
 | 281 | 689 | Giggy Blocker |
 | 282 | 688 | Tiara Elizabeth Baker |
@@ -590,8 +590,8 @@
 | 582 | 378 | Tina Marie |
 | 583 | 378 | Jasmine Kenney |
 | 584 | 377 | Jason H Baker |
-| 585 | 376 | James Zaragoza |
-| 586 | 376 | Darlene Bowman |
+| 585 | 376 | Darlene Bowman |
+| 586 | 376 | James Zaragoza |
 | 587 | 375 | Cecilia A Jenkins |
 | 588 | 375 | Lively Edgepiece |
 | 589 | 375 | Wuntayk |
@@ -639,8 +639,8 @@
 | 631 | 354 | Rickey Johnson |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
-| 634 | 352 | ruth |
-| 635 | 352 | Mikayala Szaz |
+| 634 | 352 | Mikayala Szaz |
+| 635 | 352 | ruth |
 | 636 | 351 | Connie Jimenez |
 | 637 | 350 | Fi Ne |
 | 638 | 350 | Chris Harr |
@@ -699,8 +699,8 @@
 | 691 | 320 | Mary Boss |
 | 692 | 319 | RetroLemur |
 | 693 | 318 | Jennifer Mahon |
-| 694 | 317 | Zombi3 |
-| 695 | 317 | Ashlyn Berner |
+| 694 | 317 | Ashlyn Berner |
+| 695 | 317 | Zombi3 |
 | 696 | 317 | Aireka Roman |
 | 697 | 316 | Jenn Marie |
 | 698 | 316 | Epic Spinfit |
@@ -717,8 +717,8 @@
 | 709 | 311 | Diallo Sparkman |
 | 710 | 310 | Audra Williams |
 | 711 | 310 | Beth Decker |
-| 712 | 310 | Cheeky Brickmatch |
-| 713 | 310 | Wendy Ducheney |
+| 712 | 310 | Wendy Ducheney |
+| 713 | 310 | Cheeky Brickmatch |
 | 714 | 309 | Byung Bae Park |
 | 715 | 308 | Prado |
 | 716 | 308 | Sarah block |
@@ -751,8 +751,8 @@
 | 743 | 297 | Ashley Robbins |
 | 744 | 296 | Jennifer Darby |
 | 745 | 296 | Frisky Riserbuilder |
-| 746 | 296 | Zappy Dropmatch |
-| 747 | 296 | Epic Fitzone |
+| 746 | 296 | Epic Fitzone |
+| 747 | 296 | Zappy Dropmatch |
 | 748 | 295 | Noel Tarmy |
 | 749 | 294 | Amanda Edwards |
 | 750 | 293 | Ann Marie Davis |
@@ -813,8 +813,8 @@
 | 805 | 272 | Alexandrea |
 | 806 | 272 | Witty Piecebuilder |
 | 807 | 271 | Pam Doughty |
-| 808 | 271 | Shalisa Hill |
-| 809 | 271 | Beverly Hodge |
+| 808 | 271 | Beverly Hodge |
+| 809 | 271 | Shalisa Hill |
 | 810 | 270 | BK Queen |
 | 811 | 270 | Nat |
 | 812 | 270 | Lazy Builderfit |
