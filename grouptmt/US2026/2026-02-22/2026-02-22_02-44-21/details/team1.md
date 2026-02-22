@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Yvonne Marie |
-| 65 | 388 | Jennifer ManWarren |
+| 64 | 388 | Jennifer ManWarren |
+| 65 | 388 | Yvonne Marie |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 381 | Candy Jones |
 | 68 | 379 | Austin James |
@@ -99,8 +99,8 @@
 | 91 | 313 | Tanya Carpenter-Reynolds |
 | 92 | 310 | Seth Wesson |
 | 93 | 307 | Hyper |
-| 94 | 305 | Patrick Luckenbill |
-| 95 | 305 | Spunky Piecebuilder |
+| 94 | 305 | Spunky Piecebuilder |
+| 95 | 305 | Patrick Luckenbill |
 | 96 | 304 | Nicole Roseberry Weber |
 | 97 | 303 | Carrie Beck Geartz |
 | 98 | 303 | cc |
@@ -109,8 +109,8 @@
 | 101 | 290 | Death |
 | 102 | 288 | Seante Bullock |
 | 103 | 285 | Ananda Mendez |
-| 104 | 284 | Theo Pinnow |
-| 105 | 284 | Emily Adelaide Wheatley |
+| 104 | 284 | Emily Adelaide Wheatley |
+| 105 | 284 | Theo Pinnow |
 | 106 | 283 | Franswa |
 | 107 | 282 | Timothy Dew |
 | 108 | 280 | Sarah Roberts |
@@ -118,8 +118,8 @@
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
 | 112 | 273 | Happy Basegrid |
-| 113 | 263 | Sharon Reynolds |
-| 114 | 263 | Jason Jones |
+| 113 | 263 | Jason Jones |
+| 114 | 263 | Sharon Reynolds |
 | 115 | 262 | Dandy Basegrid |
 | 116 | 258 | Katie Daniels |
 | 117 | 257 | june october |
@@ -196,8 +196,8 @@
 | 188 | 165 | Nadine Velardo |
 | 189 | 165 | Arianna O'Brien |
 | 190 | 164 | Shanae Grant |
-| 191 | 163 | Tyler Whitley |
-| 192 | 163 | Angela Fairbank |
+| 191 | 163 | Angela Fairbank |
+| 192 | 163 | Tyler Whitley |
 | 193 | 162 | Cece Ibarra |
 | 194 | 161 | SavageBooty98 |
 | 195 | 160 | David Miller |

@@ -296,8 +296,8 @@
 | 288 | 548 | Slip |
 | 289 | 547 | Giggy Blocker |
 | 290 | 544 | Leah Keesling |
-| 291 | 543 | Adira Brown |
-| 292 | 543 | Teresa Gillmore |
+| 291 | 543 | Teresa Gillmore |
+| 292 | 543 | Adira Brown |
 | 293 | 537 | Cherica Taylor |
 | 294 | 535 | Jessie McDougald |
 | 295 | 535 | Paul Huber |
@@ -736,8 +736,8 @@
 | 728 | 243 | JacJac |
 | 729 | 243 | Albert McKnight |
 | 730 | 243 | Cool Grabber |
-| 731 | 242 | Angela Yantz |
-| 732 | 242 | Aimee Campbell |
+| 731 | 242 | Aimee Campbell |
+| 732 | 242 | Angela Yantz |
 | 733 | 242 | Donna Chandler |
 | 734 | 241 | Travis Tinsley |
 | 735 | 241 | Ronda Cary |
@@ -746,8 +746,8 @@
 | 738 | 240 | Alison Emmons |
 | 739 | 240 | Nikki Vaughn |
 | 740 | 239 | Mary Ahne |
-| 741 | 238 | Ys Muhammed |
-| 742 | 238 | SwifftFox |
+| 741 | 238 | SwifftFox |
+| 742 | 238 | Ys Muhammed |
 | 743 | 238 | Manny Trindade |
 | 744 | 238 | Trista Carter |
 | 745 | 238 | Jasmine Kenney |

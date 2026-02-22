@@ -57,8 +57,8 @@
 | 49 | 594 | Ancient Intuition |
 | 50 | 590 | Valerie Roberts |
 | 51 | 555 | Clarence Patawaran |
-| 52 | 546 | Savannah Overdorf |
-| 53 | 546 | Kimberly Love |
+| 52 | 546 | Kimberly Love |
+| 53 | 546 | Savannah Overdorf |
 | 54 | 526 | Goatimus Lombardi |
 | 55 | 518 | Carolyn Wallace |
 | 56 | 512 | Casey Jeffcoat |
@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Amy Suckarieh |
-| 72 | 396 | Alicia Bass |
+| 71 | 396 | Alicia Bass |
+| 72 | 396 | Amy Suckarieh |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |
