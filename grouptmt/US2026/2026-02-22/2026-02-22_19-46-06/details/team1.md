@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -200,8 +200,8 @@
 | 192 | 264 | Serina Marie |
 | 193 | 261 | Witty Builderfit |
 | 194 | 256 | Chris65 |
-| 195 | 254 | Giggly Builderline |
-| 196 | 254 | Al Smith Jr |
+| 195 | 254 | Al Smith Jr |
+| 196 | 254 | Giggly Builderline |
 | 197 | 253 | Jamie Jury |
 | 198 | 252 | Dena Kayy |
 | 199 | 249 | Lakeisha Chapman |
@@ -213,12 +213,12 @@
 | 205 | 242 | John Kim |
 | 206 | 241 | John J. Cronin |
 | 207 | 240 | DaRascal |
-| 208 | 239 | Sam Williams |
-| 209 | 239 | Lacy Wolfe |
+| 208 | 239 | Lacy Wolfe |
+| 209 | 239 | Sam Williams |
 | 210 | 238 | Tiffany Smith |
 | 211 | 236 | Matt Iaccheo |
-| 212 | 235 | Desiree Deschaine Havee |
-| 213 | 235 | MRdot Rooski |
+| 212 | 235 | MRdot Rooski |
+| 213 | 235 | Desiree Deschaine Havee |
 | 214 | 234 | Paula Martin |
 | 215 | 233 | LC |
 | 216 | 231 | Tyler Hertzog |
@@ -235,8 +235,8 @@
 | 227 | 223 | Christina Backer |
 | 228 | 223 | Basment Living |
 | 229 | 222 | Debbie Davis |
-| 230 | 221 | Amy Hess |
-| 231 | 221 | Daring Fitclear |
+| 230 | 221 | Daring Fitclear |
+| 231 | 221 | Amy Hess |
 | 232 | 220 | Jen Nystrom |
 | 233 | 219 | Chuck Gannon |
 | 234 | 219 | Negan Mallory Knoxx Spence |

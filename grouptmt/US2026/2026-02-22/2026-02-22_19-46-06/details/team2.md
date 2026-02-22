@@ -159,8 +159,8 @@
 | 151 | 1296 | Kristin Ruest |
 | 152 | 1290 | Bussyiano Page |
 | 153 | 1286 | Altamirano Michael |
-| 154 | 1282 | Tanya Parsons |
-| 155 | 1282 | Ashley Rose Frederick |
+| 154 | 1282 | Ashley Rose Frederick |
+| 155 | 1282 | Tanya Parsons |
 | 156 | 1273 | Cool Rollpiece |
 | 157 | 1271 | Shandrica Lowe |
 | 158 | 1248 | Isabela Shaw |
@@ -193,8 +193,8 @@
 | 185 | 1140 | Sarah Ridenour |
 | 186 | 1138 | Megan Ferguson Leone |
 | 187 | 1132 | Anna Edwards |
-| 188 | 1131 | Stacey Clement |
-| 189 | 1131 | Prado |
+| 188 | 1131 | Prado |
+| 189 | 1131 | Stacey Clement |
 | 190 | 1117 | Ricardo Burton |
 | 191 | 1105 | Nerdy Clearfit |
 | 192 | 1103 | William Meussner |
@@ -279,8 +279,8 @@
 | 271 | 867 | Michele Gabriel |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
-| 274 | 860 | April Dawn Gussler |
-| 275 | 860 | William Hunt |
+| 274 | 860 | William Hunt |
+| 275 | 860 | April Dawn Gussler |
 | 276 | 857 | Kara Gillen |
 | 277 | 855 | F-X |
 | 278 | 853 | Meghan M |
@@ -318,8 +318,8 @@
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Ashley Lopez |
-| 314 | 767 | Fancy Twister |
+| 313 | 767 | Fancy Twister |
+| 314 | 767 | Ashley Lopez |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |
@@ -733,9 +733,9 @@
 | 725 | 373 | Tash Bell |
 | 726 | 373 | Ashley Marie |
 | 727 | 371 | Mandi Marie Smith |
-| 728 | 370 | Sassy Linkbuilder |
+| 728 | 370 | Brave Gridpiece |
 | 729 | 370 | Loony Basepiece |
-| 730 | 370 | Brave Gridpiece |
+| 730 | 370 | Sassy Linkbuilder |
 | 731 | 370 | Mandy Kachenmeister |
 | 732 | 369 | Lewis Sturgeon |
 | 733 | 369 | Amanda Canterbury |
