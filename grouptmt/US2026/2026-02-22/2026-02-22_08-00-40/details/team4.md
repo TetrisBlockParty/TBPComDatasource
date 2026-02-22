@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Erin Thomas |
 | 78 | 447 | Samantha Peterson |
@@ -90,8 +90,8 @@
 | 82 | 418 | Chastity Mitchell |
 | 83 | 416 | YoMomma |
 | 84 | 412 | Jenna Ingersoll |
-| 85 | 409 | Isabella Blanco |
-| 86 | 409 | Jolly Dashfit |
+| 85 | 409 | Jolly Dashfit |
+| 86 | 409 | Isabella Blanco |
 | 87 | 405 | Shane Kalamata Platoon |
 | 88 | 404 | Chilly Crasher |
 | 89 | 404 | Courtney Cicoria |
@@ -106,8 +106,8 @@
 | 98 | 373 | Joseph Guthrie |
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
-| 101 | 352 | Monica Daley |
-| 102 | 352 | Zippy Gridlock |
+| 101 | 352 | Zippy Gridlock |
+| 102 | 352 | Monica Daley |
 | 103 | 344 | Livvy |
 | 104 | 337 | Lori Walker |
 | 105 | 331 | ThaEviLJeNiuZ |
@@ -181,8 +181,8 @@
 | 173 | 204 | Jen Caldwell |
 | 174 | 203 | Katherine Crane |
 | 175 | 202 | TRCuse |
-| 176 | 201 | Melvin Baird |
-| 177 | 201 | Chance Strickland |
+| 176 | 201 | Chance Strickland |
+| 177 | 201 | Melvin Baird |
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |
@@ -193,8 +193,8 @@
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |

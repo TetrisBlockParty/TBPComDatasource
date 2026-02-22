@@ -156,12 +156,12 @@
 | 148 | 243 | Trippy Redd |
 | 149 | 242 | ALFD |
 | 150 | 241 | John J. Cronin |
-| 151 | 239 | Jamie Jury |
-| 152 | 239 | GATOR |
+| 151 | 239 | GATOR |
+| 152 | 239 | Jamie Jury |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
-| 155 | 230 | Billie Dawn Sparks |
-| 156 | 230 | Frothy Pattern |
+| 155 | 230 | Frothy Pattern |
+| 156 | 230 | Billie Dawn Sparks |
 | 157 | 229 | David Lutcher |
 | 158 | 226 | Sleepysloath5745 |
 | 159 | 226 | Kandae |
