@@ -63,8 +63,8 @@
 | 55 | 2344 | Melinda Brown |
 | 56 | 2333 | Crystalin Heath Lewis |
 | 57 | 2298 | Brent Bittenbender |
-| 58 | 2280 | Ramone Armstrong |
-| 59 | 2280 | Robert Diddle |
+| 58 | 2280 | Robert Diddle |
+| 59 | 2280 | Ramone Armstrong |
 | 60 | 2151 | Kelly Crook |
 | 61 | 2137 | KellyDyan |
 | 62 | 2131 | RdRydnHd |
@@ -170,8 +170,8 @@
 | 162 | 1048 | PsychKIRAtrist |
 | 163 | 1047 | Amy Sayers |
 | 164 | 1045 | Lourisha |
-| 165 | 1043 | Brave Dropmatch |
-| 166 | 1043 | Suki Kaur |
+| 165 | 1043 | Suki Kaur |
+| 166 | 1043 | Brave Dropmatch |
 | 167 | 1035 | Sarah Freitas |
 | 168 | 1026 | Heather Westrum |
 | 169 | 1023 | Brainy Smurf |
@@ -288,8 +288,8 @@
 | 280 | 692 | Dannette Goldberg-Richards |
 | 281 | 690 | Deborah Miller |
 | 282 | 689 | Giggy Blocker |
-| 283 | 688 | ShinyRose |
-| 284 | 688 | Tiara Elizabeth Baker |
+| 283 | 688 | Tiara Elizabeth Baker |
+| 284 | 688 | ShinyRose |
 | 285 | 686 | Ashley Guernsey-Martin |
 | 286 | 685 | Binyah-Binyah |
 | 287 | 681 | Melissa Holsinger |
@@ -308,8 +308,8 @@
 | 300 | 663 | Ashle Scranton |
 | 301 | 663 | Mandi Douglas Hilt |
 | 302 | 661 | Ginger |
-| 303 | 659 | Draizen Montrell Thomas |
-| 304 | 659 | Roseanna Peloso |
+| 303 | 659 | Roseanna Peloso |
+| 304 | 659 | Draizen Montrell Thomas |
 | 305 | 658 | Erica Williams |
 | 306 | 653 | goofinoff |
 | 307 | 651 | Unica Rector |
@@ -682,13 +682,13 @@
 | 674 | 332 | Lathasa Newkirk |
 | 675 | 330 | Jennifer Monroe Kelly |
 | 676 | 329 | Chummy Blockbuilder |
-| 677 | 329 | Snappy Shatterfit |
-| 678 | 329 | Jane Crew |
+| 677 | 329 | Jane Crew |
+| 678 | 329 | Snappy Shatterfit |
 | 679 | 328 | BabyBird |
 | 680 | 328 | Jamie Carter Bierce |
 | 681 | 326 | Sharon Mills |
-| 682 | 326 | Angela Murgia-Owen |
-| 683 | 326 | Ann Knutson Anderson |
+| 682 | 326 | Ann Knutson Anderson |
+| 683 | 326 | Angela Murgia-Owen |
 | 684 | 325 | Justin Hines |
 | 685 | 324 | Mike73 |
 | 686 | 324 | Tasia Stinson |
@@ -1006,8 +1006,8 @@
 | 998 | 223 | Erin Garlanger |
 | 999 | 223 | Laura Morrison |
 | 1000 | 222 | Angel Moorhead |
-| 1001 | 222 | Crystal Herndon |
-| 1002 | 222 | Wacky Edgefit |
+| 1001 | 222 | Wacky Edgefit |
+| 1002 | 222 | Crystal Herndon |
 | 1003 | 222 | Kara Tolbert |
 | 1004 | 222 | Daring Lift |
 | 1005 | 221 | Laura Mcfee |
