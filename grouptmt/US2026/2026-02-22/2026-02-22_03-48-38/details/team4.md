@@ -47,8 +47,8 @@
 | 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
-| 42 | 630 | Chilly Line |
-| 43 | 630 | Dustee Craddock-Harrison |
+| 42 | 630 | Dustee Craddock-Harrison |
+| 43 | 630 | Chilly Line |
 | 44 | 627 | Jonathan Kimbrough |
 | 45 | 620 | Cassie Michaux |
 | 46 | 614 | KM8 |
@@ -111,8 +111,8 @@
 | 103 | 286 | Daria Rycewicz |
 | 104 | 284 | shark tato |
 | 105 | 279 | Ericca Eldridge |
-| 106 | 278 | Lucas J Sutton |
-| 107 | 278 | Carrie Brian |
+| 106 | 278 | Carrie Brian |
+| 107 | 278 | Lucas J Sutton |
 | 108 | 277 | KJ Pool |
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
@@ -172,8 +172,8 @@
 | 164 | 189 | Chilly Crasher |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
-| 167 | 185 | Lori |
-| 168 | 185 | Andy Cabral |
+| 167 | 185 | Andy Cabral |
+| 168 | 185 | Lori |
 | 169 | 184 | Ak Jones |
 | 170 | 181 | Klo |
 | 171 | 181 | Carter Jones |
@@ -182,8 +182,8 @@
 | 174 | 174 | Dihcheese444 |
 | 175 | 173 | ThaEviLJeNiuZ |
 | 176 | 171 | Diana Houts |
-| 177 | 166 | Cozy Balancer |
-| 178 | 166 | SammieJo Guy |
+| 177 | 166 | SammieJo Guy |
+| 178 | 166 | Cozy Balancer |
 | 179 | 164 | 030Synner |
 | 180 | 162 | Joanna |
 | 181 | 160 | ZeeZee |

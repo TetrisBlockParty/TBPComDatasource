@@ -128,8 +128,8 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Scott Lindsay |
-| 124 | 403 | Christine Filson |
+| 123 | 403 | Christine Filson |
+| 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 401 | Lauren Girouard |
 | 127 | 400 | Luciana Braganca Vieira |
@@ -225,8 +225,8 @@
 | 217 | 240 | Brandon Givens |
 | 218 | 236 | Jess Bissett |
 | 219 | 235 | LaNette Morgan |
-| 220 | 234 | Nikki Pags |
-| 221 | 234 | Grego Daniel |
+| 220 | 234 | Grego Daniel |
+| 221 | 234 | Nikki Pags |
 | 222 | 233 | Ray Lader |
 | 223 | 232 | Donna |
 | 224 | 227 | Krystal Gerstberger |
@@ -237,11 +237,11 @@
 | 229 | 218 | Michael Lucado |
 | 230 | 216 | Tasha Wesson-Torrence |
 | 231 | 215 | IamJust Neyamijah Washington Sr. |
-| 232 | 214 | Rebel124 |
-| 233 | 214 | Amy Fuller Heaton |
+| 232 | 214 | Amy Fuller Heaton |
+| 233 | 214 | Rebel124 |
 | 234 | 213 | Stephanie Burtin |
-| 235 | 212 | Desiree Gold |
-| 236 | 212 | Twisty Brick LT |
+| 235 | 212 | Twisty Brick LT |
+| 236 | 212 | Desiree Gold |
 | 237 | 212 | Sunny Rotater |
 | 238 | 211 | Katrina Turner |
 | 239 | 211 | Trisha Balmer |
@@ -257,8 +257,8 @@
 | 249 | 200 | glichmod |
 | 250 | 200 | angieelyn |
 | 251 | 200 | Sharisse Baltimore |
-| 252 | 199 | Staci George Fitzsimmons |
-| 253 | 199 | Hyper Matchzone |
+| 252 | 199 | Hyper Matchzone |
+| 253 | 199 | Staci George Fitzsimmons |
 | 254 | 198 | Valerie Gendron |
 | 255 | 197 | Raven Dudley |
 | 256 | 195 | Cheryl Hinch Tenbrook |

@@ -129,8 +129,8 @@
 | 121 | 252 | Elaine Elaine |
 | 122 | 252 | Dena Kayy |
 | 123 | 247 | Tana |
-| 124 | 243 | Trippy Redd |
-| 125 | 243 | Chelsea Dahlquist |
+| 124 | 243 | Chelsea Dahlquist |
+| 125 | 243 | Trippy Redd |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | David Miller |
 | 128 | 236 | Mandyy Rae |
