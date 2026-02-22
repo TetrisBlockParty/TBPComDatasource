@@ -130,8 +130,8 @@
 | 122 | 1301 | Rosa Franklin |
 | 123 | 1300 | Mari Ac |
 | 124 | 1300 | Tacara Cummings |
-| 125 | 1298 | Deanna Morton |
-| 126 | 1298 | Becca Widmer |
+| 125 | 1298 | Becca Widmer |
+| 126 | 1298 | Deanna Morton |
 | 127 | 1273 | Cool Rollpiece |
 | 128 | 1257 | Eileen Hale |
 | 129 | 1252 | Katrina Williams Balmir |
@@ -222,8 +222,8 @@
 | 214 | 867 | Peppy Zone |
 | 215 | 865 | Dedra Steward |
 | 216 | 863 | nikki |
-| 217 | 862 | Brittany Radaszewski |
-| 218 | 862 | Robin Kerby |
+| 217 | 862 | Robin Kerby |
+| 218 | 862 | Brittany Radaszewski |
 | 219 | 860 | April Dawn Gussler |
 | 220 | 857 | Della Hole |
 | 221 | 855 | F-X |
@@ -418,8 +418,8 @@
 | 410 | 509 | Kelli Wells |
 | 411 | 509 | Jordan Kaiser |
 | 412 | 507 | Irene Jones |
-| 413 | 507 | Joshua Mandel |
-| 414 | 507 | Magic steve |
+| 413 | 507 | Magic steve |
+| 414 | 507 | Joshua Mandel |
 | 415 | 504 | Kimmy Newman |
 | 416 | 502 | Sparkles |
 | 417 | 502 | Sheniya Spurgeon |
@@ -681,8 +681,8 @@
 | 673 | 339 | Denise Rickman |
 | 674 | 338 | Janitta Alvarez |
 | 675 | 337 | Sassy Pattern |
-| 676 | 337 | Diallo Sparkman |
-| 677 | 337 | Tum |
+| 676 | 337 | Tum |
+| 677 | 337 | Diallo Sparkman |
 | 678 | 337 | Savannah Alexander |
 | 679 | 336 | Austin Wilson |
 | 680 | 336 | bru |
@@ -691,8 +691,8 @@
 | 683 | 335 | Maria Louise |
 | 684 | 334 | Melissa James |
 | 685 | 333 | Veronica Stevenson |
-| 686 | 333 | Adrian Benitez |
-| 687 | 333 | Woodys Glass |
+| 686 | 333 | Woodys Glass |
+| 687 | 333 | Adrian Benitez |
 | 688 | 332 | Lathasa Newkirk |
 | 689 | 330 | Jennifer Monroe Kelly |
 | 690 | 329 | Chummy Blockbuilder |
@@ -737,21 +737,21 @@
 | 729 | 309 | Byung Bae Park |
 | 730 | 308 | Prado |
 | 731 | 308 | Claire |
-| 732 | 308 | Sarah block |
-| 733 | 308 | Hyper Riseclear |
+| 732 | 308 | Hyper Riseclear |
+| 733 | 308 | Sarah block |
 | 734 | 308 | Katie Joy McCombs |
 | 735 | 307 | stacey |
 | 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | MamaBear11 |
-| 740 | 305 | Narutofreak13 |
+| 739 | 305 | Narutofreak13 |
+| 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
 | 744 | 303 | Angie Marie |
-| 745 | 303 | Amanda Schaffer |
-| 746 | 303 | Devin |
+| 745 | 303 | Devin |
+| 746 | 303 | Amanda Schaffer |
 | 747 | 302 | Kena T. Tanner |
 | 748 | 302 | Maxwell Escalera |
 | 749 | 300 | Alice Ball |
@@ -784,8 +784,8 @@
 | 776 | 289 | Ryan Chan |
 | 777 | 288 | thranduil |
 | 778 | 288 | Ashley Criner |
-| 779 | 288 | Samantha Angelo |
-| 780 | 288 | Jenna Nance |
+| 779 | 288 | Jenna Nance |
+| 780 | 288 | Samantha Angelo |
 | 781 | 287 | Toni Roberson |
 | 782 | 287 | N00D3S |
 | 783 | 287 | Epic Stackzone |
@@ -799,8 +799,8 @@
 | 791 | 280 | Danielle DeLozier Plesec |
 | 792 | 280 | Reece Smith |
 | 793 | 280 | Luke Califf |
-| 794 | 280 | Sandra Link-Gable |
-| 795 | 280 | Belle |
+| 794 | 280 | Belle |
+| 795 | 280 | Sandra Link-Gable |
 | 796 | 279 | Jennifer Coe |
 | 797 | 279 | Loony Basepiece |
 | 798 | 279 | Katherin Camacho |
@@ -835,8 +835,8 @@
 | 827 | 272 | Witty Piecebuilder |
 | 828 | 272 | Alexandrea |
 | 829 | 271 | Pam Doughty |
-| 830 | 271 | Shalisa Hill |
-| 831 | 271 | Beverly Hodge |
+| 830 | 271 | Beverly Hodge |
+| 831 | 271 | Shalisa Hill |
 | 832 | 270 | BK Queen |
 | 833 | 270 | Lazy Builderfit |
 | 834 | 270 | Nat |
@@ -1116,8 +1116,8 @@
 | 1108 | 206 | Antonia Pike |
 | 1109 | 205 | SafetyEyes16 |
 | 1110 | 205 | Desiree Hargrove Moore |
-| 1111 | 205 | Ashley McCarthy-Arnone |
-| 1112 | 205 | Shay Moore |
+| 1111 | 205 | Shay Moore |
+| 1112 | 205 | Ashley McCarthy-Arnone |
 | 1113 | 205 | Tiffney Wroten |
 | 1114 | 204 | Andre Love |
 | 1115 | 204 | Lakeela Wise |
