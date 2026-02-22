@@ -138,8 +138,8 @@
 | 130 | 1265 | Katrina Williams Balmir |
 | 131 | 1265 | PandaMama |
 | 132 | 1257 | Eileen Hale |
-| 133 | 1248 | Isabela Shaw |
-| 134 | 1248 | Howard Forest |
+| 133 | 1248 | Howard Forest |
+| 134 | 1248 | Isabela Shaw |
 | 135 | 1242 | Altamirano Michael |
 | 136 | 1232 | Groovy Puzzle |
 | 137 | 1226 | Vo'Landa Reels |
@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -298,8 +298,8 @@
 | 290 | 703 | Gold Rose |
 | 291 | 700 | Hong Tang |
 | 292 | 700 | Vincent Petrella |
-| 293 | 700 | Rosemadder |
-| 294 | 700 | Beverly Owens |
+| 293 | 700 | Beverly Owens |
+| 294 | 700 | Rosemadder |
 | 295 | 697 | Dreamy Blast |
 | 296 | 696 | Jánine Riggs |
 | 297 | 695 | Lakeysha Dortch |
@@ -444,8 +444,8 @@
 | 436 | 499 | Sarah Massey |
 | 437 | 498 | Rhonda Milstead |
 | 438 | 498 | Aimee Campbell |
-| 439 | 497 | Doowop40 |
-| 440 | 497 | June E Hanson |
+| 439 | 497 | June E Hanson |
+| 440 | 497 | Doowop40 |
 | 441 | 494 | Venita Ray |
 | 442 | 493 | Kara Gillen |
 | 443 | 492 | Maya June |
@@ -565,8 +565,8 @@
 | 557 | 411 | Kristen O'Neal |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Abimbola Bimbo |
-| 561 | 408 | Stefanie Zonzini-Gagliardi |
+| 560 | 408 | Stefanie Zonzini-Gagliardi |
+| 561 | 408 | Abimbola Bimbo |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -606,8 +606,8 @@
 | 598 | 387 | Misti Markijohn |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
-| 601 | 384 | Party d |
-| 602 | 384 | Kelly |
+| 601 | 384 | Kelly |
+| 602 | 384 | Party d |
 | 603 | 383 | Jessica Conaway |
 | 604 | 383 | Belle Mari |
 | 605 | 382 | David Holliday |
@@ -1001,8 +1001,8 @@
 | 993 | 234 | Joanna L. Abad |
 | 994 | 234 | Trina Harrison |
 | 995 | 234 | Jannan Haimour |
-| 996 | 233 | ItsJennifer Neriss |
-| 997 | 233 | Allison Hewitt |
+| 996 | 233 | Allison Hewitt |
+| 997 | 233 | ItsJennifer Neriss |
 | 998 | 233 | Jessica Sutter |
 | 999 | 233 | Nerdy Riserfit |
 | 1000 | 233 | Myleaha Holley |
@@ -1497,8 +1497,8 @@
 | 1489 | 160 | Sara |
 | 1490 | 160 | Crystal Hagy |
 | 1491 | 159 | Katia Johnson |
-| 1492 | 159 | Cheery Puzzler |
-| 1493 | 159 | Jennifer Heaney |
+| 1492 | 159 | Jennifer Heaney |
+| 1493 | 159 | Cheery Puzzler |
 | 1494 | 159 | ForestGem |
 | 1495 | 159 | Markisha Poyndexter |
 | 1496 | 158 | Brian Wood |

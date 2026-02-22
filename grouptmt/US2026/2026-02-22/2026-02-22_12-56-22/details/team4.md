@@ -63,8 +63,8 @@
 | 55 | 654 | Chilly Line |
 | 56 | 647 | KM8 |
 | 57 | 646 | Jacqueline Helm |
-| 58 | 636 | Dustee Craddock-Harrison |
-| 59 | 636 | Kimyatta Cavin |
+| 58 | 636 | Kimyatta Cavin |
+| 59 | 636 | Dustee Craddock-Harrison |
 | 60 | 623 | Robin Getchel |
 | 61 | 614 | TheNeesh50 |
 | 62 | 614 | Justin Hannigan |
@@ -87,8 +87,8 @@
 | 79 | 512 | Casey Jeffcoat |
 | 80 | 511 | Michelle Marie |
 | 81 | 500 | Rodney McMath Jr. |
-| 82 | 486 | Carmethia Clemons Haslerig |
-| 83 | 486 | Landon Keith Graffeo |
+| 82 | 486 | Landon Keith Graffeo |
+| 83 | 486 | Carmethia Clemons Haslerig |
 | 84 | 469 | Ashley Ingram |
 | 85 | 468 | Shane Kalamata Platoon |
 | 86 | 447 | Samantha Peterson |
@@ -192,8 +192,8 @@
 | 184 | 209 | Rafael Valentin |
 | 185 | 207 | Chirpy Basepiece |
 | 186 | 205 | Kathy Brookins |
-| 187 | 204 | Jen Caldwell |
-| 188 | 204 | Carlos Ramirez |
+| 187 | 204 | Carlos Ramirez |
+| 188 | 204 | Jen Caldwell |
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | TRCuse |
 | 191 | 202 | Patron Anderson |
@@ -487,10 +487,10 @@
 | 479 | 85 | Jennifer Renee |
 | 480 | 85 | Cheery Towerzone |
 | 481 | 84 | Robert Sch |
-| 482 | 84 | Amy C Brown |
-| 483 | 84 | Beth Helms |
-| 484 | 84 | Jen Hallin |
-| 485 | 84 | Marta Savchuk |
+| 482 | 84 | Jen Hallin |
+| 483 | 84 | Marta Savchuk |
+| 484 | 84 | Amy C Brown |
+| 485 | 84 | Beth Helms |
 | 486 | 84 | mini |
 | 487 | 83 | Groovy Brickmatch |
 | 488 | 82 | Stacy Jones |
