@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 400 | Aaron Pitkin |
@@ -168,8 +168,8 @@
 | 160 | 362 | Darlene McMillan |
 | 161 | 359 | Dapper Snap |
 | 162 | 355 | Tessina Dewey-Mancino |
-| 163 | 353 | CeceGeGe |
-| 164 | 353 | Shunta Jacobs |
+| 163 | 353 | Shunta Jacobs |
+| 164 | 353 | CeceGeGe |
 | 165 | 352 | Chris Bell |
 | 166 | 351 | Tom Nault |
 | 167 | 348 | Chasity |
@@ -222,8 +222,8 @@
 | 214 | 274 | Tye Stovall |
 | 215 | 272 | Dee Franklin |
 | 216 | 271 | Ashley Muncey |
-| 217 | 267 | Terry Jo Jones |
-| 218 | 267 | Denise Nardoni |
+| 217 | 267 | Denise Nardoni |
+| 218 | 267 | Terry Jo Jones |
 | 219 | 265 | Sarah Moyer |
 | 220 | 265 | Trisha Balmer |
 | 221 | 264 | Grego Daniel |
@@ -237,8 +237,8 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | Tiffany Davie |
-| 233 | 256 | KayB |
+| 232 | 256 | KayB |
+| 233 | 256 | Tiffany Davie |
 | 234 | 251 | Sabrina Hardrick |
 | 235 | 249 | JerseyJess |
 | 236 | 249 | Annie Marie |

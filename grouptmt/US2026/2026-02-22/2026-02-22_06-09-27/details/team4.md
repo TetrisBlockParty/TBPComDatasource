@@ -76,8 +76,8 @@
 | 68 | 501 | H.R. Block |
 | 69 | 500 | Rodney McMath Jr. |
 | 70 | 486 | Landon Keith Graffeo |
-| 71 | 483 | Carmethia Clemons Haslerig |
-| 72 | 483 | TeeJ |
+| 71 | 483 | TeeJ |
+| 72 | 483 | Carmethia Clemons Haslerig |
 | 73 | 467 | Dawn Alexander |
 | 74 | 447 | Samantha Peterson |
 | 75 | 440 | Kristin Manee |
@@ -123,8 +123,8 @@
 | 115 | 286 | Daria Rycewicz |
 | 116 | 284 | shark tato |
 | 117 | 281 | Meagan Nicole |
-| 118 | 278 | Carrie Brian |
-| 119 | 278 | Desi Desporte |
+| 118 | 278 | Desi Desporte |
+| 119 | 278 | Carrie Brian |
 | 120 | 277 | Mary Ann Pabukis |
 | 121 | 277 | Scott Jameson |
 | 122 | 275 | Dizzy Tiley |
@@ -139,8 +139,8 @@
 | 131 | 255 | Lindsay Ball |
 | 132 | 249 | Leah Kutz Zirbel |
 | 133 | 245 | Diana Houts |
-| 134 | 240 | Peachy Fall |
-| 135 | 240 | Jolly Dashfit |
+| 134 | 240 | Jolly Dashfit |
+| 135 | 240 | Peachy Fall |
 | 136 | 236 | Chastity Mitchell |
 | 137 | 232 | Chilly Crasher |
 | 138 | 232 | Crystal Nicolette Moore |
@@ -169,13 +169,13 @@
 | 161 | 212 | Calvin Cannon |
 | 162 | 211 | Jenna McGeorge |
 | 163 | 207 | Chirpy Basepiece |
-| 164 | 205 | Kathy Brookins |
-| 165 | 205 | Cursed Hag |
+| 164 | 205 | Cursed Hag |
+| 165 | 205 | Kathy Brookins |
 | 166 | 204 | Jen Caldwell |
 | 167 | 203 | Katherine Crane |
 | 168 | 202 | TRCuse |
-| 169 | 201 | Melvin Baird |
-| 170 | 201 | Chance Strickland |
+| 169 | 201 | Chance Strickland |
+| 170 | 201 | Melvin Baird |
 | 171 | 200 | Jeff Brian Gates |
 | 172 | 198 | Jessica Lynn Cutlip |
 | 173 | 197 | Erin Thomas |
@@ -206,8 +206,8 @@
 | 198 | 167 | Cozy Balancer |
 | 199 | 166 | SammieJo Guy |
 | 200 | 166 | Marvin Lou Martin |
-| 201 | 165 | James Hurley Jr. |
-| 202 | 165 | Jackie Marie |
+| 201 | 165 | Jackie Marie |
+| 202 | 165 | James Hurley Jr. |
 | 203 | 164 | 030Synner |
 | 204 | 163 | Kristina Black |
 | 205 | 162 | Joanna |

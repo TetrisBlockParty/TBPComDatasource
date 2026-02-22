@@ -122,13 +122,13 @@
 | 114 | 292 | Kristen Gideon |
 | 115 | 290 | Death |
 | 116 | 288 | Seante Bullock |
-| 117 | 286 | Arianna O'Brien |
-| 118 | 286 | Ly Phethmany |
+| 117 | 286 | Ly Phethmany |
+| 118 | 286 | Arianna O'Brien |
 | 119 | 285 | Ananda Mendez |
 | 120 | 284 | Emily Adelaide Wheatley |
 | 121 | 283 | Franswa |
-| 122 | 282 | Cool Shiftsnap |
-| 123 | 282 | Timothy Dew |
+| 122 | 282 | Timothy Dew |
+| 123 | 282 | Cool Shiftsnap |
 | 124 | 280 | Sarah Roberts |
 | 125 | 280 | Jennifer Hardman |
 | 126 | 278 | Rachael |

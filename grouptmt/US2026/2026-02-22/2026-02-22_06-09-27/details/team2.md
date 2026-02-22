@@ -107,8 +107,8 @@
 | 99 | 1403 | Linda Pierce |
 | 100 | 1391 | blarg |
 | 101 | 1383 | Ladyrainbootz |
-| 102 | 1342 | Eboni Banks |
-| 103 | 1342 | Christi Hulet |
+| 102 | 1342 | Christi Hulet |
+| 103 | 1342 | Eboni Banks |
 | 104 | 1319 | Izabel Herrera |
 | 105 | 1312 | Dawn Geist-Weasner |
 | 106 | 1302 | Jose Mendoza |
@@ -167,8 +167,8 @@
 | 159 | 997 | Real Ri |
 | 160 | 990 | Amber Shoemaker |
 | 161 | 989 | Teddi Notyalc |
-| 162 | 988 | Mr. Street Stack |
-| 163 | 988 | Maegan Beaule |
+| 162 | 988 | Maegan Beaule |
+| 163 | 988 | Mr. Street Stack |
 | 164 | 986 | RAEPR05 |
 | 165 | 985 | Taylor Phillips |
 | 166 | 974 | Dolores Russworn |
@@ -296,8 +296,8 @@
 | 288 | 651 | Unica Rector |
 | 289 | 650 | Shiny Rollzone |
 | 290 | 643 | Hoppy Brickmatch |
-| 291 | 641 | Angie Bolton Workman |
-| 292 | 641 | Joce Lynn |
+| 291 | 641 | Joce Lynn |
+| 292 | 641 | Angie Bolton Workman |
 | 293 | 640 | BYM4L |
 | 294 | 639 | Crystie Hicks |
 | 295 | 639 | Rebecca Miller |
@@ -522,22 +522,22 @@
 | 514 | 390 | Joice Hansen |
 | 515 | 390 | Besma Ao |
 | 516 | 390 | Moist_B-hole |
-| 517 | 389 | Julie Hamilton |
-| 518 | 389 | Irene Jones |
+| 517 | 389 | Irene Jones |
+| 518 | 389 | Julie Hamilton |
 | 519 | 389 | Alexis Richardson |
 | 520 | 389 | Kayla |
 | 521 | 388 | Cheery Matchzone |
-| 522 | 387 | Bold Brickster |
-| 523 | 387 | Misti Markijohn |
+| 522 | 387 | Misti Markijohn |
+| 523 | 387 | Bold Brickster |
 | 524 | 386 | Michael Artis |
 | 525 | 386 | Tara Lynn Janes |
 | 526 | 385 | Tansaria Couch-Butler |
 | 527 | 384 | Christina Ashley |
-| 528 | 384 | Party d |
-| 529 | 384 | Kelly |
+| 528 | 384 | Kelly |
+| 529 | 384 | Party d |
 | 530 | 384 | Mike Aprilliano |
-| 531 | 382 | KhaosLord |
-| 532 | 382 | David Holliday |
+| 531 | 382 | David Holliday |
+| 532 | 382 | KhaosLord |
 | 533 | 381 | Melissa Rebbe-Lehman |
 | 534 | 381 | Jessica S Flecha |
 | 535 | 381 | Happy Caster |
@@ -545,8 +545,8 @@
 | 537 | 378 | Tina Marie |
 | 538 | 378 | TF Dyer |
 | 539 | 377 | Jason H Baker |
-| 540 | 376 | Darlene Bowman |
-| 541 | 376 | James Zaragoza |
+| 540 | 376 | James Zaragoza |
+| 541 | 376 | Darlene Bowman |
 | 542 | 375 | Lively Edgepiece |
 | 543 | 375 | Wuntayk |
 | 544 | 374 | Elisheva Mizrachi |
@@ -601,7 +601,7 @@
 | 593 | 350 | Fi Ne |
 | 594 | 348 | Peppy Snapfall |
 | 595 | 348 | Richard Horton |
-| 596 | 348 | Peppy Snapfall |
+| 596 | 348 | NanDa Cruzan VI |
 | 597 | 347 | Zesty Pivot |
 | 598 | 346 | Morgan Easter |
 | 599 | 346 | Stephanie Fortune |
@@ -620,8 +620,8 @@
 | 612 | 337 | Sassy Pattern |
 | 613 | 337 | Tum |
 | 614 | 337 | Savannah Alexander |
-| 615 | 336 | bru |
-| 616 | 336 | Austin Wilson |
+| 615 | 336 | Austin Wilson |
+| 616 | 336 | bru |
 | 617 | 336 | Swanky Columnbuilder |
 | 618 | 336 | Jarboe |
 | 619 | 335 | Brooke Leigh Strube |
