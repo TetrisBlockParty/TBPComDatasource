@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Joey Banks |
-| 48 | 989 | Kay |
+| 47 | 989 | Kay |
+| 48 | 989 | Joey Banks |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Jay Horn |
-| 96 | 582 | Natasha Jones |
+| 95 | 582 | Natasha Jones |
+| 96 | 582 | Jay Horn |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -204,8 +204,8 @@
 | 196 | 311 | Araceli Parra |
 | 197 | 311 | Rochelle Hazelett |
 | 198 | 310 | Danielle Balcom |
-| 199 | 308 | Rania Zaqout |
-| 200 | 308 | Daryn Elliott |
+| 199 | 308 | Daryn Elliott |
+| 200 | 308 | Rania Zaqout |
 | 201 | 307 | rnr junky |
 | 202 | 307 | Blocked |
 | 203 | 302 | Rebecca Bailey |
@@ -557,8 +557,8 @@
 | 549 | 105 | Amy Wheeler |
 | 550 | 104 | Jessica Rose-Morgan |
 | 551 | 104 | bean |
-| 552 | 104 | Johnathan Dowe |
-| 553 | 104 | Jana Fagg |
+| 552 | 104 | Jana Fagg |
+| 553 | 104 | Johnathan Dowe |
 | 554 | 103 | Snappy Balancer |
 | 555 | 103 | Breanna Marsden |
 | 556 | 103 | Lisa Lisa |

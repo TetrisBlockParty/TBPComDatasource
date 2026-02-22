@@ -112,8 +112,8 @@
 | 104 | 333 | Brandi Huntington |
 | 105 | 332 | Luciano Moreira |
 | 106 | 330 | Sweet Baker |
-| 107 | 328 | Shauna Loe |
-| 108 | 328 | Gracie |
+| 107 | 328 | Gracie |
+| 108 | 328 | Shauna Loe |
 | 109 | 326 | Monica Donato |
 | 110 | 321 | Maria C. Hernandez |
 | 111 | 319 | Deanna L Hermanson |
@@ -192,8 +192,8 @@
 | 184 | 205 | Snappy Matcher |
 | 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
-| 187 | 203 | LaFontaine Leslie |
-| 188 | 203 | Paula Martin |
+| 187 | 203 | Paula Martin |
+| 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
 | 190 | 199 | Basment Living |
 | 191 | 198 | Happy Snapbuild |
@@ -294,8 +294,8 @@
 | 286 | 136 | Chuck Gannon |
 | 287 | 135 | Mrs.Patrica |
 | 288 | 133 | MommaKFC |
-| 289 | 132 | Larry Tilton |
-| 290 | 132 | Layzietyme |
+| 289 | 132 | Layzietyme |
+| 290 | 132 | Larry Tilton |
 | 291 | 131 | Uhog SF |
 | 292 | 131 | Dizzy Riseclear |
 | 293 | 131 | Mike Ames |
@@ -365,8 +365,8 @@
 | 357 | 105 | Bye Love |
 | 358 | 105 | George Dalton |
 | 359 | 104 | Charla Pross-Fugleberg |
-| 360 | 104 | Serina Marie |
-| 361 | 104 | Jamie Catlett |
+| 360 | 104 | Jamie Catlett |
+| 361 | 104 | Serina Marie |
 | 362 | 103 | Alex Gauthier |
 | 363 | 103 | Mariah Cornell |
 | 364 | 103 | Tiger Lily |

@@ -119,8 +119,8 @@
 | 111 | 1388 | Kristopher Miller |
 | 112 | 1383 | Ladyrainbootz |
 | 113 | 1380 | Jose Mendoza |
-| 114 | 1342 | Eboni Banks |
-| 115 | 1342 | Christi Hulet |
+| 114 | 1342 | Christi Hulet |
+| 115 | 1342 | Eboni Banks |
 | 116 | 1333 | Mr. Street Stack |
 | 117 | 1312 | Dawn Geist-Weasner |
 | 118 | 1309 | Bob |
@@ -381,8 +381,8 @@
 | 373 | 527 | Ryan Gunther |
 | 374 | 527 | Julie Kresal |
 | 375 | 527 | Heather Causey |
-| 376 | 526 | Sheronda Jackson |
-| 377 | 526 | Emily Lyric Converse |
+| 376 | 526 | Emily Lyric Converse |
+| 377 | 526 | Sheronda Jackson |
 | 378 | 525 | Desiree Anderson |
 | 379 | 524 | Jojo Momma |
 | 380 | 524 | Shaun Church |
@@ -467,14 +467,14 @@
 | 459 | 459 | Melissa Kay Gibson |
 | 460 | 458 | Casper The Chonk |
 | 461 | 454 | Casey Schumacher |
-| 462 | 453 | Rhonda Petro |
-| 463 | 453 | Joshua Sommerville |
+| 462 | 453 | Joshua Sommerville |
+| 463 | 453 | Rhonda Petro |
 | 464 | 451 | Funky Caster |
 | 465 | 451 | Cody Nishimura |
 | 466 | 451 | Dylan Thomason |
 | 467 | 450 | Cheery Matchzone |
-| 468 | 447 | Jessica S Flecha |
-| 469 | 447 | Brandy Andre |
+| 468 | 447 | Brandy Andre |
+| 469 | 447 | Jessica S Flecha |
 | 470 | 447 | Heather Schelkopf |
 | 471 | 446 | Snippy Rumbler |
 | 472 | 445 | Mar Q Thomas |
