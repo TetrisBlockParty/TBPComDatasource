@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -315,8 +315,8 @@
 | 307 | 685 | Brenda Pierpoint |
 | 308 | 685 | Binyah-Binyah |
 | 309 | 681 | Melissa Holsinger |
-| 310 | 679 | Kassandra Hunt |
-| 311 | 679 | Eric Castaneda |
+| 310 | 679 | Eric Castaneda |
+| 311 | 679 | Kassandra Hunt |
 | 312 | 678 | Scott Treadway |
 | 313 | 676 | Poldo Ilano |
 | 314 | 675 | Tommy Tha Boss Gunz |
@@ -561,8 +561,8 @@
 | 553 | 413 | Lauren Fitzgerald Thomas |
 | 554 | 413 | Fancy Twister |
 | 555 | 412 | Jason H Baker |
-| 556 | 411 | Mighty Spinbuilder |
-| 557 | 411 | Kristen O'Neal |
+| 556 | 411 | Kristen O'Neal |
+| 557 | 411 | Mighty Spinbuilder |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
 | 560 | 408 | Stefanie Zonzini-Gagliardi |
@@ -720,7 +720,7 @@
 | 712 | 323 | Briana Alexander |
 | 713 | 322 | Lea Stewart |
 | 714 | 322 | Michelle Pike |
-| 715 | 322 | Lea Stewart |
+| 715 | 322 | Christina Jarvis-Swarbrick |
 | 716 | 321 | Samantha Scibelli |
 | 717 | 321 | Tamara Bailey |
 | 718 | 321 | Ashley Criner |
@@ -771,12 +771,12 @@
 | 763 | 302 | Epic Stackbuilder |
 | 764 | 302 | Maxwell Escalera |
 | 765 | 300 | Alice Ball |
-| 766 | 300 | Kacee Conrad Bock |
-| 767 | 300 | Warren Marleau |
+| 766 | 300 | Warren Marleau |
+| 767 | 300 | Kacee Conrad Bock |
 | 768 | 299 | Cassie Newton |
 | 769 | 298 | Frilly Fallzone |
-| 770 | 298 | Ryan Stadel |
-| 771 | 298 | Lazy Riseclear |
+| 770 | 298 | Lazy Riseclear |
+| 771 | 298 | Ryan Stadel |
 | 772 | 297 | Frisky Patternline |
 | 773 | 297 | Toni Lynn |
 | 774 | 297 | Ashley Robbins |
@@ -784,9 +784,9 @@
 | 776 | 296 | Frisky Riserbuilder |
 | 777 | 296 | Zappy Dropmatch |
 | 778 | 295 | Noel Tarmy |
-| 779 | 294 | Amanda Edwards |
+| 779 | 294 | Sveta Lana |
 | 780 | 294 | Swanky Snap |
-| 781 | 294 | Sveta Lana |
+| 781 | 294 | Amanda Edwards |
 | 782 | 293 | Ann Marie Davis |
 | 783 | 293 | JAG$*V¡LL£•FL•DuuuVaL |
 | 784 | 292 | Bryan Werleman |
@@ -856,8 +856,8 @@
 | 848 | 274 | KT Macadocious |
 | 849 | 274 | Jamie Stevey |
 | 850 | 273 | Britt Stunkel |
-| 851 | 273 | Boldy Block |
-| 852 | 273 | Jennifer Aiken |
+| 851 | 273 | Jennifer Aiken |
+| 852 | 273 | Boldy Block |
 | 853 | 272 | Gina Justbeingme Chillis |
 | 854 | 272 | Witty Piecebuilder |
 | 855 | 271 | Michelle Ettrick |
@@ -905,15 +905,15 @@
 | 897 | 260 | Lianne Giandalone LaBounty |
 | 898 | 260 | Lynda Toland |
 | 899 | 259 | Mary Ahne |
-| 900 | 259 | sup |
-| 901 | 259 | Alyssa Nadine Medelez |
+| 900 | 259 | Alyssa Nadine Medelez |
+| 901 | 259 | sup |
 | 902 | 259 | Sarah Sims |
 | 903 | 259 | Andrea Devery Beck |
 | 904 | 259 | JacJac |
 | 905 | 258 | Tee Jaleesa |
 | 906 | 258 | Mordoks Pyrography |
-| 907 | 258 | DesertDreamer24 |
-| 908 | 258 | Kara Tolbert |
+| 907 | 258 | Kara Tolbert |
+| 908 | 258 | DesertDreamer24 |
 | 909 | 258 | Jo Nicole |
 | 910 | 258 | Scott |
 | 911 | 258 | Joy LaJeunesse |
@@ -949,8 +949,8 @@
 | 941 | 250 | Drew Berkelbach |
 | 942 | 250 | Muhammad |
 | 943 | 250 | Kay Stevenson |
-| 944 | 249 | Angela Yantz |
-| 945 | 249 | Andrew Engman |
+| 944 | 249 | Andrew Engman |
+| 945 | 249 | Angela Yantz |
 | 946 | 249 | J.L. Roberts |
 | 947 | 249 | Jeffrey Barrows |
 | 948 | 249 | Kamilya Rembert |
@@ -973,9 +973,9 @@
 | 965 | 244 | Erika Deer Kauffman |
 | 966 | 244 | Brooklynn Huckaby |
 | 967 | 243 | Albert McKnight |
-| 968 | 242 | Beautae |
+| 968 | 242 | Meganator42 |
 | 969 | 242 | Greenshades00 |
-| 970 | 242 | Meganator42 |
+| 970 | 242 | Beautae |
 | 971 | 242 | Groovy Tilefall |
 | 972 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
 | 973 | 242 | Donna Chandler |
@@ -1093,8 +1093,8 @@
 | 1085 | 215 | Stacy Harper |
 | 1086 | 215 | Alphia Price |
 | 1087 | 214 | Michele Phelps |
-| 1088 | 214 | FloJo |
-| 1089 | 214 | Dane Reing |
+| 1088 | 214 | Dane Reing |
+| 1089 | 214 | FloJo |
 | 1090 | 214 | Cass Shirley |
 | 1091 | 214 | Brandon McDonald |
 | 1092 | 213 | Frank Castle |
@@ -1244,9 +1244,9 @@
 | 1236 | 189 | Sharon Crawford |
 | 1237 | 189 | Hazel Spears |
 | 1238 | 189 | Nate Skidmore |
-| 1239 | 189 | Daveeda Ansourian Joplin |
+| 1239 | 189 | Nick Spring |
 | 1240 | 189 | Frothy Shatter |
-| 1241 | 189 | Nick Spring |
+| 1241 | 189 | Daveeda Ansourian Joplin |
 | 1242 | 188 | Rolie Garcia |
 | 1243 | 188 | Eunique Griffin |
 | 1244 | 188 | Christina Eckert |

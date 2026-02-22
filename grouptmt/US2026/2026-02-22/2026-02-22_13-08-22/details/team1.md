@@ -94,8 +94,8 @@
 | 86 | 399 | Nerdy Linkblock |
 | 87 | 397 | Tdub |
 | 88 | 390 | Goose egg |
-| 89 | 390 | Lori Bales |
-| 90 | 390 | Candy Jones |
+| 89 | 390 | Candy Jones |
+| 90 | 390 | Lori Bales |
 | 91 | 389 | Trina Gee |
 | 92 | 383 | Loony Fitzone |
 | 93 | 382 | Plucky Fallzone |
@@ -141,8 +141,8 @@
 | 133 | 290 | Death |
 | 134 | 290 | Sarah Roberts |
 | 135 | 285 | Ananda Mendez |
-| 136 | 284 | Rachael |
-| 137 | 284 | Emily Adelaide Wheatley |
+| 136 | 284 | Emily Adelaide Wheatley |
+| 137 | 284 | Rachael |
 | 138 | 283 | Franswa |
 | 139 | 282 | Timothy Dew |
 | 140 | 282 | Snippy Wipebuilder |
@@ -166,8 +166,8 @@
 | 158 | 253 | Witty Builderfit |
 | 159 | 252 | Dena Kayy |
 | 160 | 247 | Tana |
-| 161 | 246 | Mike Ames |
-| 162 | 246 | Lakeisha Chapman |
+| 161 | 246 | Lakeisha Chapman |
+| 162 | 246 | Mike Ames |
 | 163 | 244 | Marianita Garcia |
 | 164 | 243 | Trippy Redd |
 | 165 | 242 | ALFD |

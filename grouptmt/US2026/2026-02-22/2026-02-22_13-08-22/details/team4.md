@@ -152,7 +152,7 @@
 | 144 | 271 | Sarah Brown |
 | 145 | 267 | Damn Libra |
 | 146 | 265 | Jeff Brian Gates |
-| 147 | 264 | Epic Curvetile |
+| 147 | 264 | Girl |
 | 148 | 264 | Dana Scott |
 | 149 | 264 | Epic Curvetile |
 | 150 | 262 | Alan George LaRage |
@@ -197,8 +197,8 @@
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | Patron Anderson |
 | 191 | 202 | TRCuse |
-| 192 | 201 | Chance Strickland |
-| 193 | 201 | Melvin Baird |
+| 192 | 201 | Melvin Baird |
+| 193 | 201 | Chance Strickland |
 | 194 | 200 | Lori |
 | 195 | 200 | Laura |
 | 196 | 198 | Keith Kelley |

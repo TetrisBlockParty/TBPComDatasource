@@ -104,14 +104,14 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Jay Horn |
-| 100 | 582 | Natasha Jones |
+| 99 | 582 | Natasha Jones |
+| 100 | 582 | Jay Horn |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
 | 104 | 566 | Dolores Falco |
-| 105 | 565 | Patty Allen |
-| 106 | 565 | Rachael McClain Owens |
+| 105 | 565 | Rachael McClain Owens |
+| 106 | 565 | Patty Allen |
 | 107 | 562 | Louise Stacy Sisson |
 | 108 | 562 | Dave Herzog |
 | 109 | 559 | Morgan Martinez |
@@ -232,8 +232,8 @@
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
-| 227 | 283 | Charles Perrone |
-| 228 | 283 | Cheeky Snapper |
+| 227 | 283 | Cheeky Snapper |
+| 228 | 283 | Charles Perrone |
 | 229 | 281 | Valerie Gendron |
 | 230 | 278 | Sabrina Hardrick |
 | 231 | 278 | Rufus Lincoln |
@@ -242,7 +242,7 @@
 | 234 | 275 | Cassandra Bryant |
 | 235 | 274 | Tye Stovall |
 | 236 | 272 | Dee Franklin |
-| 237 | 271 | Grego Daniel |
+| 237 | 271 | Cass Mendoza |
 | 238 | 271 | Ashley Muncey |
 | 239 | 271 | Grego Daniel |
 | 240 | 269 | Eon Harris |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tiffany Ford |
-| 247 | 261 | Tasha Wesson-Torrence |
+| 246 | 261 | Tasha Wesson-Torrence |
+| 247 | 261 | Tiffany Ford |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Nikki Pags |
