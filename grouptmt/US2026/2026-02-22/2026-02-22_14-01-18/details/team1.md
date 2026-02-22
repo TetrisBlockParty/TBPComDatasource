@@ -144,16 +144,16 @@
 | 136 | 290 | Death |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Emily Adelaide Wheatley |
-| 140 | 284 | Rachael |
+| 139 | 284 | Rachael |
+| 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
 | 142 | 282 | Cool Shiftsnap |
 | 143 | 282 | Timothy Dew |
 | 144 | 282 | Tyler Werts |
 | 145 | 282 | Snippy Wipebuilder |
 | 146 | 276 | Dandy Basegrid |
-| 147 | 270 | Ash Galvan |
-| 148 | 270 | Mandyy Rae |
+| 147 | 270 | Mandyy Rae |
+| 148 | 270 | Ash Galvan |
 | 149 | 268 | GATOR |
 | 150 | 265 | SkipTheSadSauce |
 | 151 | 265 | Nutty Spinblock |
@@ -198,8 +198,8 @@
 | 190 | 215 | Shaykmia |
 | 191 | 214 | LaFontaine Leslie |
 | 192 | 213 | Daring Fitclear |
-| 193 | 210 | Letson Melissa |
-| 194 | 210 | Giggly Builderline |
+| 193 | 210 | Giggly Builderline |
+| 194 | 210 | Letson Melissa |
 | 195 | 209 | Desiree Deschaine Havee |
 | 196 | 209 | Cece Ibarra |
 | 197 | 209 | Nery Martinez |
@@ -334,8 +334,8 @@
 | 326 | 136 | Jennifer Chilton-Metlock |
 | 327 | 135 | Mrs.Patrica |
 | 328 | 134 | Rachel Copas |
-| 329 | 133 | Jasmine Riley |
-| 330 | 133 | MommaKFC |
+| 329 | 133 | MommaKFC |
+| 330 | 133 | Jasmine Riley |
 | 331 | 132 | Layzietyme |
 | 332 | 132 | John Kim |
 | 333 | 131 | Plucky Wrecker |

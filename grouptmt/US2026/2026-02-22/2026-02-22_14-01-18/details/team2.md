@@ -534,8 +534,8 @@
 | 526 | 438 | Kristi Biddinger |
 | 527 | 437 | Bubbly Snapfit |
 | 528 | 436 | Niceday |
-| 529 | 435 | Regina Young |
-| 530 | 435 | James Louie |
+| 529 | 435 | James Louie |
+| 530 | 435 | Regina Young |
 | 531 | 433 | KayLynn Ogden McClelland |
 | 532 | 432 | Lucy Marshall |
 | 533 | 431 | Quinn |
@@ -871,14 +871,14 @@
 | 863 | 274 | KT Macadocious |
 | 864 | 274 | Jamie Stevey |
 | 865 | 273 | Britt Stunkel |
-| 866 | 273 | Boldy Block |
-| 867 | 273 | Jennifer Aiken |
+| 866 | 273 | Jennifer Aiken |
+| 867 | 273 | Boldy Block |
 | 868 | 272 | Gina Justbeingme Chillis |
 | 869 | 272 | Witty Piecebuilder |
 | 870 | 271 | Michelle Ettrick |
 | 871 | 271 | Pam Doughty |
-| 872 | 271 | Shalisa Hill |
-| 873 | 271 | Beverly Hodge |
+| 872 | 271 | Beverly Hodge |
+| 873 | 271 | Shalisa Hill |
 | 874 | 271 | Amber N Koepp |
 | 875 | 270 | Lazy Builderfit |
 | 876 | 270 | BK Queen |
@@ -906,8 +906,8 @@
 | 898 | 264 | Edna Combs |
 | 899 | 264 | Ocean-Brianna McGregor |
 | 900 | 263 | Elizabeth Leinen |
-| 901 | 263 | Sunshine711 |
-| 902 | 263 | Amy Humphreys |
+| 901 | 263 | Amy Humphreys |
+| 902 | 263 | Sunshine711 |
 | 903 | 263 | Sara Pennington |
 | 904 | 262 | Taren Cowan |
 | 905 | 262 | Squirrel |

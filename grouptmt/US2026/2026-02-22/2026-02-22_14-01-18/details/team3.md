@@ -106,15 +106,15 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 588 | yoyo |
 | 100 | 585 | Giddy Drop |
-| 101 | 582 | Jay Horn |
-| 102 | 582 | Natasha Jones |
+| 101 | 582 | Natasha Jones |
+| 102 | 582 | Jay Horn |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -170,8 +170,8 @@
 | 162 | 399 | Mcathen |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Calista Jo Dickson |
-| 166 | 391 | Sarah Cowan Burgos |
+| 165 | 391 | Sarah Cowan Burgos |
+| 166 | 391 | Calista Jo Dickson |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
@@ -338,16 +338,16 @@
 | 330 | 198 | Goofy Fall |
 | 331 | 195 | Nicha Hooker |
 | 332 | 193 | Clever Shiftsnap |
-| 333 | 192 | Ryan Williams |
-| 334 | 192 | Katrina E Jelks |
-| 335 | 192 | Melanie Sherwood |
-| 336 | 192 | Kelly Ann Child |
-| 337 | 191 | Becca Engle |
-| 338 | 191 | Philip Rock |
+| 333 | 192 | Katrina E Jelks |
+| 334 | 192 | Ryan Williams |
+| 335 | 192 | Kelly Ann Child |
+| 336 | 192 | Melanie Sherwood |
+| 337 | 191 | Philip Rock |
+| 338 | 191 | Becca Engle |
 | 339 | 189 | Katie Leigh Blankenship |
 | 340 | 188 | Romeo |
-| 341 | 186 | Bryan Byrd |
-| 342 | 186 | Noettín Kan Zasnemoore |
+| 341 | 186 | Noettín Kan Zasnemoore |
+| 342 | 186 | Bryan Byrd |
 | 343 | 186 | Sameerah Smith |
 | 344 | 185 | Snazzy Filler |
 | 345 | 185 | Angella Lyons |
@@ -729,8 +729,8 @@
 | 721 | 91 | Block Dropper |
 | 722 | 91 | Taylor Hood |
 | 723 | 90 | Bananna Anna |
-| 724 | 90 | cherry 🍒pie |
-| 725 | 90 | Shiny Twisterfit |
+| 724 | 90 | Shiny Twisterfit |
+| 725 | 90 | cherry 🍒pie |
 | 726 | 90 | Tiffany Kaupang |
 | 727 | 89 | Bmo |
 | 728 | 89 | Kristen McAlpine |

@@ -113,8 +113,8 @@
 | 105 | 395 | Marie-Pier Desjardins |
 | 106 | 393 | Carlton Unfiltered |
 | 107 | 392 | Ericca Eldridge |
-| 108 | 391 | Ramel Rhodes |
-| 109 | 391 | Monica Daley |
+| 108 | 391 | Monica Daley |
+| 109 | 391 | Ramel Rhodes |
 | 110 | 387 | Denise Carlson |
 | 111 | 377 | Lori Walker |
 | 112 | 373 | Joseph Guthrie |
@@ -176,8 +176,8 @@
 | 168 | 237 | Jen Caldwell |
 | 169 | 236 | Swanky Fitline |
 | 170 | 232 | Crystal Nicolette Moore |
-| 171 | 230 | Cursed Hag |
-| 172 | 230 | Autum Leigh |
+| 171 | 230 | Autum Leigh |
+| 172 | 230 | Cursed Hag |
 | 173 | 227 | Alyssa Papen |
 | 174 | 227 | Andria Lynn |
 | 175 | 224 | Matt Summer |
@@ -192,10 +192,10 @@
 | 184 | 217 | Kim Hunt |
 | 185 | 216 | ZeeZee |
 | 186 | 216 | Chance Strickland |
-| 187 | 213 | Jason Allen |
-| 188 | 213 | Sarah Neathery |
-| 189 | 212 | Allen Lloyd |
-| 190 | 212 | Mike Solo |
+| 187 | 213 | Sarah Neathery |
+| 188 | 213 | Jason Allen |
+| 189 | 212 | Mike Solo |
+| 190 | 212 | Allen Lloyd |
 | 191 | 212 | Joanna |
 | 192 | 211 | Jenna McGeorge |
 | 193 | 210 | Austin Owens |
