@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Patti Skiles |
-| 130 | 479 | Poppy Splitter |
+| 129 | 479 | Poppy Splitter |
+| 130 | 479 | Patti Skiles |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -320,8 +320,8 @@
 | 312 | 208 | Niki Dalrymple |
 | 313 | 208 | AlsoJess |
 | 314 | 207 | angieelyn |
-| 315 | 207 | Daring Builder |
-| 316 | 207 | Jessica |
+| 315 | 207 | Jessica |
+| 316 | 207 | Daring Builder |
 | 317 | 206 | Tracy Martin |
 | 318 | 206 | Tammy Rosenberry |
 | 319 | 205 | April Matthew Kibble |
@@ -391,8 +391,8 @@
 | 383 | 166 | Joshua David Huie |
 | 384 | 166 | Snarky McFace |
 | 385 | 165 | Kali Kelz Williams |
-| 386 | 164 | TazB |
-| 387 | 164 | momo |
+| 386 | 164 | momo |
+| 387 | 164 | TazB |
 | 388 | 164 | Ashley Rufus Bythcez |
 | 389 | 163 | Christine Trester |
 | 390 | 163 | Diana Ibarra |

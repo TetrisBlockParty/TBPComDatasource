@@ -16,8 +16,8 @@
 | 8 | 1775 | Ash |
 | 9 | 1676 | Ayanna Soto |
 | 10 | 1621 | Devinlee Brown |
-| 11 | 1447 | GreenJeepGirl |
-| 12 | 1447 | Juggalo |
+| 11 | 1447 | Juggalo |
+| 12 | 1447 | GreenJeepGirl |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
@@ -26,8 +26,8 @@
 | 18 | 1046 | Johnathan Martinez |
 | 19 | 1038 | Leah Gorsuch |
 | 20 | 1020 | Sammy Noguera |
-| 21 | 999 | Kimberly Love |
-| 22 | 999 | Johnny Yang Cotter |
+| 21 | 999 | Johnny Yang Cotter |
+| 22 | 999 | Kimberly Love |
 | 23 | 991 | Michelle Pearman |
 | 24 | 980 | Cherrish Duren |
 | 25 | 959 | Heather Tushner |
@@ -68,14 +68,14 @@
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
 | 62 | 646 | Jacqueline Helm |
-| 63 | 636 | Dustee Craddock-Harrison |
-| 64 | 636 | Kimyatta Cavin |
+| 63 | 636 | Kimyatta Cavin |
+| 64 | 636 | Dustee Craddock-Harrison |
 | 65 | 620 | Landon Keith Graffeo |
 | 66 | 614 | TheNeesh50 |
 | 67 | 608 | Avy Absol |
 | 68 | 600 | Michelle Marie |
-| 69 | 599 | Brittney Griggs |
-| 70 | 599 | Savannah Overdorf |
+| 69 | 599 | Savannah Overdorf |
+| 70 | 599 | Brittney Griggs |
 | 71 | 593 | Lisa Davis |
 | 72 | 587 | Ashley Ingram |
 | 73 | 583 | Eric Mcgaughy |
@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |
@@ -126,8 +126,8 @@
 | 118 | 351 | Serena Goodridge |
 | 119 | 344 | Livvy |
 | 120 | 343 | Latisha Davis |
-| 121 | 332 | Desi Desporte |
-| 122 | 332 | HastyGrabber |
+| 121 | 332 | HastyGrabber |
+| 122 | 332 | Desi Desporte |
 | 123 | 331 | ThaEviLJeNiuZ |
 | 124 | 329 | Amanda Pauldo-Ivy |
 | 125 | 328 | Leslie Nicole |
@@ -175,15 +175,15 @@
 | 167 | 241 | Allen Lloyd |
 | 168 | 240 | Peachy Fall |
 | 169 | 239 | Zethra Prenisha Rahming |
-| 170 | 237 | Jen Caldwell |
-| 171 | 237 | Tina Martinez |
+| 170 | 237 | Tina Martinez |
+| 171 | 237 | Jen Caldwell |
 | 172 | 237 | Jose Dejesus |
 | 173 | 236 | Swanky Fitline |
 | 174 | 234 | Cursed Hag |
 | 175 | 232 | Crystal Nicolette Moore |
 | 176 | 230 | Autum Leigh |
-| 177 | 227 | Andria Lynn |
-| 178 | 227 | Alyssa Papen |
+| 177 | 227 | Alyssa Papen |
+| 178 | 227 | Andria Lynn |
 | 179 | 224 | Matt Summer |
 | 180 | 223 | Antony Dwayne Beasley |
 | 181 | 222 | blockstar |
@@ -685,7 +685,7 @@
 | 677 | 60 | Nikki Wilson |
 | 678 | 60 | DaRuler |
 | 679 | 60 | Kris Zulch |
-| 680 | 60 | DaRuler |
+| 680 | 60 | JD |
 | 681 | 60 | Jennifer Dineen |
 | 682 | 59 | Kristina Renea Day |
 | 683 | 59 | Mike Kremen |

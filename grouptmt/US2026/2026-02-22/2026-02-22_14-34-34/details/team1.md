@@ -145,8 +145,8 @@
 | 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Rachael |
-| 141 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Emily Adelaide Wheatley |
+| 141 | 284 | Rachael |
 | 142 | 283 | Franswa |
 | 143 | 282 | Tyler Werts |
 | 144 | 282 | Cool Shiftsnap |
@@ -327,8 +327,8 @@
 | 319 | 143 | Guest |
 | 320 | 143 | Chantelle Ceno |
 | 321 | 141 | Kayla Marie Stevenson |
-| 322 | 141 | Ashley Adams |
-| 323 | 141 | Наталья Солоид |
+| 322 | 141 | Наталья Солоид |
+| 323 | 141 | Ashley Adams |
 | 324 | 139 | Aimee Horton |
 | 325 | 138 | Lynn Adams |
 | 326 | 138 | Giddy Cascade |

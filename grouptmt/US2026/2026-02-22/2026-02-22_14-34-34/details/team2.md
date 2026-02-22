@@ -305,8 +305,8 @@
 | 297 | 715 | Stephanie Lumanlan |
 | 298 | 713 | Chelle |
 | 299 | 710 | Kathryn Townsley |
-| 300 | 704 | Shelley Thornburgh Wright |
-| 301 | 704 | Jánine Riggs |
+| 300 | 704 | Jánine Riggs |
+| 301 | 704 | Shelley Thornburgh Wright |
 | 302 | 703 | Gold Rose |
 | 303 | 700 | Vincent Petrella |
 | 304 | 700 | Hong Tang |
@@ -323,8 +323,8 @@
 | 315 | 688 | ShinyRose |
 | 316 | 687 | Dee |
 | 317 | 686 | Ashley Guernsey-Martin |
-| 318 | 685 | Brenda Pierpoint |
-| 319 | 685 | Binyah-Binyah |
+| 318 | 685 | Binyah-Binyah |
+| 319 | 685 | Brenda Pierpoint |
 | 320 | 682 | Poldo Ilano |
 | 321 | 681 | Melissa Holsinger |
 | 322 | 680 | Glitzy Stackzone |
@@ -381,8 +381,8 @@
 | 373 | 589 | Thomas Hedrick |
 | 374 | 586 | Heather Schelkopf |
 | 375 | 584 | Ginnell Browner |
-| 376 | 584 | Eckoman518 |
-| 377 | 584 | Kimberly Randesi |
+| 376 | 584 | Kimberly Randesi |
+| 377 | 584 | Eckoman518 |
 | 378 | 583 | Jackie Avila |
 | 379 | 581 | Jerry Tempelmeyer |
 | 380 | 579 | Roy Salyer |
@@ -457,8 +457,8 @@
 | 449 | 504 | Brenna Ann |
 | 450 | 504 | Kimmy Newman |
 | 451 | 502 | Sparkles |
-| 452 | 502 | Dennis McLaurin |
-| 453 | 502 | Sheniya Spurgeon |
+| 452 | 502 | Sheniya Spurgeon |
+| 453 | 502 | Dennis McLaurin |
 | 454 | 501 | Ann Matzkanin |
 | 455 | 500 | Sarah Ridenour |
 | 456 | 499 | Sarah Massey |
