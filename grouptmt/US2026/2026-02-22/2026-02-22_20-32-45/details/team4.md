@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Carmethia Clemons Haslerig |
 | 97 | 509 | Diana Houts |
@@ -195,8 +195,8 @@
 | 187 | 267 | Holly |
 | 188 | 266 | Laura |
 | 189 | 266 | Chris Bernstein |
-| 190 | 265 | Porkobello |
-| 191 | 265 | J-Rizzle |
+| 190 | 265 | J-Rizzle |
+| 191 | 265 | Porkobello |
 | 192 | 264 | Epic Curvetile |
 | 193 | 262 | Holly Jolly |
 | 194 | 262 | Joeliecea Cobb |
@@ -257,11 +257,11 @@
 | 249 | 210 | Dihcheese444 |
 | 250 | 208 | Rebecca Morris |
 | 251 | 205 | Christina Black |
-| 252 | 205 | Keith Kelley |
-| 253 | 205 | James Hurley Jr. |
+| 252 | 205 | James Hurley Jr. |
+| 253 | 205 | Keith Kelley |
 | 254 | 203 | Katherine Crane |
-| 255 | 202 | Orchislactea |
-| 256 | 202 | Patron Anderson |
+| 255 | 202 | Patron Anderson |
+| 256 | 202 | Orchislactea |
 | 257 | 201 | Chaz |
 | 258 | 200 | Googenheim |
 | 259 | 200 | Lori |
@@ -403,8 +403,8 @@
 | 395 | 136 | Dandy Cascadefit |
 | 396 | 136 | Jen Hallin |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Kristin MacDonald |
-| 399 | 134 | Jobadia Steelerton |
+| 398 | 134 | Jobadia Steelerton |
+| 399 | 134 | Kristin MacDonald |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Meg |
 | 402 | 132 | Melissa Priest Sellers |
@@ -419,8 +419,8 @@
 | 411 | 131 | Peppy Drop |
 | 412 | 130 | Shukee Lo |
 | 413 | 130 | icequeenx |
-| 414 | 129 | Dreamy Snapgrid |
-| 415 | 129 | Sherri |
+| 414 | 129 | Sherri |
+| 415 | 129 | Dreamy Snapgrid |
 | 416 | 129 | Amy Sanford |
 | 417 | 128 | Raymond Roberts |
 | 418 | 128 | Dapper Balancer |

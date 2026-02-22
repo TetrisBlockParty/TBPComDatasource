@@ -87,8 +87,8 @@
 | 79 | 489 | Deanna L Hermanson |
 | 80 | 486 | Tater |
 | 81 | 485 | Cartier |
-| 82 | 483 | Ryan Lunnin |
-| 83 | 483 | MomMom |
+| 82 | 483 | MomMom |
+| 83 | 483 | Ryan Lunnin |
 | 84 | 480 | Nancy Green |
 | 85 | 472 | April Carroll |
 | 86 | 471 | Jennifer ManWarren |
@@ -167,8 +167,8 @@
 | 159 | 303 | Veronica Eve |
 | 160 | 303 | Chelsea Dahlquist |
 | 161 | 302 | Mike Ames |
-| 162 | 298 | femmefatale |
-| 163 | 298 | Danielle Little-Daugherty |
+| 162 | 298 | Danielle Little-Daugherty |
+| 163 | 298 | femmefatale |
 | 164 | 296 | Madison Wicks |
 | 165 | 295 | Emily Adelaide Wheatley |
 | 166 | 295 | David Lutcher |

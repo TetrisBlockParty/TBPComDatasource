@@ -187,8 +187,8 @@
 | 179 | 432 | Luciana Braganca Vieira |
 | 180 | 432 | Jenny Hrndz |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Jeni Dow |
-| 183 | 430 | Joye Sims Binion |
+| 182 | 430 | Joye Sims Binion |
+| 183 | 430 | Jeni Dow |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -234,8 +234,8 @@
 | 226 | 347 | Philip Rock |
 | 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
-| 229 | 344 | Rania Zaqout |
-| 230 | 344 | Roary Danner |
+| 229 | 344 | Roary Danner |
+| 230 | 344 | Rania Zaqout |
 | 231 | 343 | Ashley Raines |
 | 232 | 341 | Ashley Tookes |
 | 233 | 341 | Samantha Lynn |
@@ -264,19 +264,19 @@
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
 | 258 | 301 | Betty Rosas |
-| 259 | 299 | Ray Lader |
-| 260 | 299 | Angie Harper |
+| 259 | 299 | Angie Harper |
+| 260 | 299 | Ray Lader |
 | 261 | 298 | MsBee |
 | 262 | 298 | Grams |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Hoppy Buildout |
-| 265 | 296 | Katrina Turner |
+| 264 | 296 | Katrina Turner |
+| 265 | 296 | Hoppy Buildout |
 | 266 | 295 | Tiffany Davie |
 | 267 | 292 | Cheeky Snapper |
 | 268 | 291 | Carrie Huskey |
 | 269 | 289 | Danielle Weikel |
-| 270 | 289 | Duane Bright |
-| 271 | 289 | DidIdothat |
+| 270 | 289 | DidIdothat |
+| 271 | 289 | Duane Bright |
 | 272 | 287 | Sabrina Hardrick |
 | 273 | 286 | Christian Werndl |
 | 274 | 286 | Terry Jo Jones |
@@ -314,8 +314,8 @@
 | 306 | 258 | IamJust Neyamijah Washington Sr. |
 | 307 | 256 | KayB |
 | 308 | 254 | Sharisse Baltimore |
-| 309 | 252 | Snazzy Filler |
-| 310 | 252 | Geoffrey Nash |
+| 309 | 252 | Geoffrey Nash |
+| 310 | 252 | Snazzy Filler |
 | 311 | 251 | Twisty Brick LT |
 | 312 | 251 | Naur |
 | 313 | 250 | Tosha Griffey |

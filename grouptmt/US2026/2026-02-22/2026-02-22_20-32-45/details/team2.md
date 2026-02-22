@@ -209,8 +209,8 @@
 | 201 | 1063 | Mema |
 | 202 | 1062 | Crystal Slaughter |
 | 203 | 1058 | Jennifer Kistner |
-| 204 | 1057 | RAEPR05 |
-| 205 | 1057 | Desiree Harris Rosch |
+| 204 | 1057 | Desiree Harris Rosch |
+| 205 | 1057 | RAEPR05 |
 | 206 | 1052 | Amy Sayers |
 | 207 | 1045 | Lourisha |
 | 208 | 1043 | Brave Dropmatch |
@@ -470,8 +470,8 @@
 | 462 | 563 | snkylnk |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
-| 465 | 558 | Frisky Clearpiece |
-| 466 | 558 | Cheery Matchzone |
+| 465 | 558 | Cheery Matchzone |
+| 466 | 558 | Frisky Clearpiece |
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |
@@ -599,8 +599,8 @@
 | 591 | 458 | Jessica S Flecha |
 | 592 | 457 | Abimbola Bimbo |
 | 593 | 456 | Misty Mitchell |
-| 594 | 456 | Kacee Conrad Bock |
-| 595 | 456 | Skyler Morgan |
+| 594 | 456 | Skyler Morgan |
+| 595 | 456 | Kacee Conrad Bock |
 | 596 | 454 | Joice Hansen |
 | 597 | 453 | Samantha Scibelli |
 | 598 | 452 | BK Queen |
@@ -631,8 +631,8 @@
 | 623 | 434 | bbv |
 | 624 | 433 | Tom Steffen |
 | 625 | 431 | Joel Rosado |
-| 626 | 431 | Hunter Connors |
-| 627 | 431 | Quinn |
+| 626 | 431 | Quinn |
+| 627 | 431 | Hunter Connors |
 | 628 | 429 | Goofy Catcher |
 | 629 | 429 | Angel Hunnewell |
 | 630 | 429 | Tabs Reichert |
