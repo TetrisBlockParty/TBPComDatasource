@@ -139,8 +139,8 @@
 | 131 | 1450 | Cody Smith-Candelaria |
 | 132 | 1445 | Katrina Williams Balmir |
 | 133 | 1418 | L3sli3 |
-| 134 | 1411 | Zappy Cascade |
-| 135 | 1411 | niecy |
+| 134 | 1411 | niecy |
+| 135 | 1411 | Zappy Cascade |
 | 136 | 1401 | Brandy Andre |
 | 137 | 1390 | Erica Williams |
 | 138 | 1383 | Suki Kaur |
@@ -240,8 +240,8 @@
 | 232 | 972 | Juliana Marques Do Nascimento Gordy |
 | 233 | 972 | Della Hole |
 | 234 | 965 | Maria Escobar |
-| 235 | 957 | Block Master |
-| 236 | 957 | Keri Womack |
+| 235 | 957 | Keri Womack |
+| 236 | 957 | Block Master |
 | 237 | 957 | Crystal Hoffman |
 | 238 | 955 | Angela Bonquiqui Dinish |
 | 239 | 951 | Cynthia Ward |
@@ -414,8 +414,8 @@
 | 406 | 627 | Victoria Moore-Smith |
 | 407 | 626 | Steven Marshaun |
 | 408 | 626 | Demeka Dangerous-kisses Johnson |
-| 409 | 620 | Traci Johnson |
-| 410 | 620 | Brandon Armstrong |
+| 409 | 620 | Brandon Armstrong |
+| 410 | 620 | Traci Johnson |
 | 411 | 617 | Darcy Mae |
 | 412 | 617 | Nicole Cannon |
 | 413 | 615 | Steve Man |
@@ -463,7 +463,7 @@
 | 455 | 566 | Leah Keesling |
 | 456 | 565 | Lyndi Robinson Wakefield |
 | 457 | 565 | Jaycee |
-| 458 | 563 | Lonne Emade |
+| 458 | 563 | Sarah Massey |
 | 459 | 563 | snkylnk |
 | 460 | 563 | Lonne Emade |
 | 461 | 562 | AISlop |
@@ -731,12 +731,12 @@
 | 723 | 378 | Kelly Walters |
 | 724 | 377 | CC |
 | 725 | 375 | Jamie Carter Bierce |
-| 726 | 374 | Matthew Joseph Acevedo |
-| 727 | 374 | Amanda Perez |
-| 728 | 373 | Tash Bell |
-| 729 | 373 | Ashley Marie |
-| 730 | 373 | Michelle Shrum |
-| 731 | 373 | Jane Crew |
+| 726 | 374 | Amanda Perez |
+| 727 | 374 | Matthew Joseph Acevedo |
+| 728 | 373 | Jane Crew |
+| 729 | 373 | Michelle Shrum |
+| 730 | 373 | Tash Bell |
+| 731 | 373 | Ashley Marie |
 | 732 | 371 | Mandi Marie Smith |
 | 733 | 370 | Brave Gridpiece |
 | 734 | 370 | Loony Basepiece |

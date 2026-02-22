@@ -221,8 +221,8 @@
 | 213 | 237 | Jen Caldwell |
 | 214 | 236 | Swanky Fitline |
 | 215 | 235 | Chris Hartig |
-| 216 | 233 | Ruben Wheeler |
-| 217 | 233 | April Rondinone |
+| 216 | 233 | April Rondinone |
+| 217 | 233 | Ruben Wheeler |
 | 218 | 230 | blockstar |
 | 219 | 230 | Jade Rian |
 | 220 | 228 | Antony Dwayne Beasley |
@@ -268,8 +268,8 @@
 | 260 | 198 | Silly SeaWeed |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | Snippy Puzzle |
-| 264 | 195 | 中山成巳 |
+| 263 | 195 | 中山成巳 |
+| 264 | 195 | Snippy Puzzle |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |

@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 807 | Snappy Glidepiece |
 | 89 | 800 | Lauren Girouard |
 | 90 | 797 | Danielle Mogg |
@@ -175,8 +175,8 @@
 | 167 | 455 | Tessina Dewey-Mancino |
 | 168 | 453 | Shannon Matthew Byers |
 | 169 | 452 | Danielle Rhoades |
-| 170 | 451 | FuzzyNavel |
-| 171 | 451 | Rachel |
+| 170 | 451 | Rachel |
+| 171 | 451 | FuzzyNavel |
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 439 | Tasha Gillespie |
@@ -217,10 +217,10 @@
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Loopy Fallmatch |
-| 213 | 367 | Marci Mize Fandrich |
-| 214 | 365 | Tiffany Ford |
-| 215 | 365 | Chummy Caster |
+| 212 | 367 | Marci Mize Fandrich |
+| 213 | 367 | Loopy Fallmatch |
+| 214 | 365 | Chummy Caster |
+| 215 | 365 | Tiffany Ford |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Ashley Muncey |
-| 245 | 320 | Or Reznitsky |
+| 244 | 320 | Or Reznitsky |
+| 245 | 320 | Ashley Muncey |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
