@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | MomMom |
-| 72 | 434 | Hyper |
+| 71 | 434 | Hyper |
+| 72 | 434 | MomMom |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -154,8 +154,8 @@
 | 146 | 256 | David Miller |
 | 147 | 255 | Elaine Elaine |
 | 148 | 254 | Al Smith Jr |
-| 149 | 253 | Plucky Fallzone |
-| 150 | 253 | Witty Builderfit |
+| 149 | 253 | Witty Builderfit |
+| 150 | 253 | Plucky Fallzone |
 | 151 | 252 | Dena Kayy |
 | 152 | 247 | Tana |
 | 153 | 244 | Tyler Werts |
@@ -189,14 +189,14 @@
 | 181 | 207 | Brenda Alexander |
 | 182 | 207 | Leslie Bush Yarbrough |
 | 183 | 206 | BadG52 |
-| 184 | 205 | Tater |
-| 185 | 205 | Snappy Matcher |
+| 184 | 205 | Snappy Matcher |
+| 185 | 205 | Tater |
 | 186 | 204 | Lacy Wolfe |
 | 187 | 203 | Paula Martin |
 | 188 | 203 | LaFontaine Leslie |
 | 189 | 201 | Colleen Wise |
-| 190 | 200 | DaRascal |
-| 191 | 200 | Breanna Luna |
+| 190 | 200 | Breanna Luna |
+| 191 | 200 | DaRascal |
 | 192 | 199 | Basment Living |
 | 193 | 198 | Happy Snapbuild |
 | 194 | 198 | Shiny Gridmatch |
@@ -204,10 +204,10 @@
 | 196 | 195 | Shaykmia |
 | 197 | 195 | Jennifer Olewnik Soborowski |
 | 198 | 194 | Christy Jones |
-| 199 | 193 | Michael |
-| 200 | 193 | Lachelle Dillon |
-| 201 | 191 | Diane Byrd |
-| 202 | 191 | Shanae Grant |
+| 199 | 193 | Lachelle Dillon |
+| 200 | 193 | Michael |
+| 201 | 191 | Shanae Grant |
+| 202 | 191 | Diane Byrd |
 | 203 | 190 | Sweetts |
 | 204 | 190 | Thorne Shumate |
 | 205 | 189 | Jeanna Dunn |
@@ -345,7 +345,7 @@
 | 337 | 114 | Constance Risner |
 | 338 | 114 | Bird Person |
 | 339 | 114 | Plucky Stacky |
-| 340 | 114 | Bird Person |
+| 340 | 114 | Angela Rena Brooks |
 | 341 | 113 | Itspaigebro |
 | 342 | 112 | Chris65 |
 | 343 | 112 | Glitzy Curvebuilder |
@@ -444,7 +444,7 @@
 | 436 | 87 | Rayshawn Beamer |
 | 437 | 87 | Jennifer Duttry |
 | 438 | 87 | Ric Hard Hernandez |
-| 439 | 87 | Rayshawn Beamer |
+| 439 | 87 | Evan Richmond |
 | 440 | 86 | Christina Gutierrez |
 | 441 | 86 | sassy |
 | 442 | 86 | Shannon Marie Pitts |

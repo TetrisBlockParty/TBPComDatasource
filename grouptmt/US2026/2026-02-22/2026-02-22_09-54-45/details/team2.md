@@ -339,8 +339,8 @@
 | 331 | 613 | Caitlyn Blackwell |
 | 332 | 613 | Ellie Jonas |
 | 333 | 611 | Em Chen |
-| 334 | 611 | Carl Bradshaw |
-| 335 | 611 | Julio A Laracuente |
+| 334 | 611 | Julio A Laracuente |
+| 335 | 611 | Carl Bradshaw |
 | 336 | 605 | Jelly |
 | 337 | 603 | Cassie Maynard |
 | 338 | 602 | Christine Bollig |
@@ -528,23 +528,23 @@
 | 520 | 420 | LaWanda Powell |
 | 521 | 419 | Pocho Zavala |
 | 522 | 419 | Josh Dill |
-| 523 | 418 | Véronique Lévesque Sabourin |
-| 524 | 418 | Kristi Biddinger |
+| 523 | 418 | Kristi Biddinger |
+| 524 | 418 | Véronique Lévesque Sabourin |
 | 525 | 417 | Alexx Anaya |
 | 526 | 416 | Ricky Fortune |
 | 527 | 414 | John |
 | 528 | 414 | Sabrina Burton |
-| 529 | 413 | Lauren Fitzgerald Thomas |
-| 530 | 413 | Fancy Twister |
-| 531 | 413 | Biggest thing |
+| 529 | 413 | Fancy Twister |
+| 530 | 413 | Biggest thing |
+| 531 | 413 | Lauren Fitzgerald Thomas |
 | 532 | 413 | Juanita Lyons |
 | 533 | 411 | Kristen O'Neal |
 | 534 | 411 | Mighty Spinbuilder |
 | 535 | 410 | Tara Lynn Janes |
 | 536 | 410 | Nicole Cannon |
 | 537 | 408 | Brandon Jones |
-| 538 | 408 | Abimbola Bimbo |
-| 539 | 408 | Stefanie Zonzini-Gagliardi |
+| 538 | 408 | Stefanie Zonzini-Gagliardi |
+| 539 | 408 | Abimbola Bimbo |
 | 540 | 407 | Tipsy Filler |
 | 541 | 406 | Erin StFrancis |
 | 542 | 406 | Kimberly Ann |
@@ -604,8 +604,8 @@
 | 596 | 378 | TF Dyer |
 | 597 | 378 | Jasmine Kenney |
 | 598 | 377 | Jason H Baker |
-| 599 | 376 | James Zaragoza |
-| 600 | 376 | Darlene Bowman |
+| 599 | 376 | Darlene Bowman |
+| 600 | 376 | James Zaragoza |
 | 601 | 375 | Cecilia A Jenkins |
 | 602 | 375 | Lively Edgepiece |
 | 603 | 373 | Hunter Connors |
@@ -716,8 +716,8 @@
 | 708 | 316 | Jenn Marie |
 | 709 | 316 | Epic Spinfit |
 | 710 | 316 | Johanna Massaro |
-| 711 | 314 | Twisty Tetriblast |
-| 712 | 314 | Amanda West |
+| 711 | 314 | Amanda West |
+| 712 | 314 | Twisty Tetriblast |
 | 713 | 314 | Anita Rose Green |
 | 714 | 313 | Marina Linda |
 | 715 | 313 | Natasha Edmonds |
@@ -1339,9 +1339,9 @@
 | 1331 | 170 | Tigro Ace |
 | 1332 | 170 | Chummy Shiftsnap |
 | 1333 | 170 | Wayne Hayward |
-| 1334 | 169 | Jaci Marie |
-| 1335 | 169 | Jamie Frank Karolyi |
-| 1336 | 169 | Micky |
+| 1334 | 169 | Micky |
+| 1335 | 169 | Jaci Marie |
+| 1336 | 169 | Jamie Frank Karolyi |
 | 1337 | 169 | Christy Green |
 | 1338 | 169 | Ubu |
 | 1339 | 169 | Zappy Stackbuilder |

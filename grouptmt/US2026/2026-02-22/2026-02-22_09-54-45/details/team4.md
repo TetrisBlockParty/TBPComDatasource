@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -158,8 +158,8 @@
 | 150 | 240 | Peachy Fall |
 | 151 | 237 | Chris Bernstein |
 | 152 | 232 | Crystal Nicolette Moore |
-| 153 | 230 | Autum Leigh |
-| 154 | 230 | Cursed Hag |
+| 153 | 230 | Cursed Hag |
+| 154 | 230 | Autum Leigh |
 | 155 | 228 | J-Rizzle |
 | 156 | 227 | Alyssa Papen |
 | 157 | 227 | Swanky Fitline |
@@ -167,10 +167,10 @@
 | 159 | 224 | Matt Summer |
 | 160 | 223 | Antony Dwayne Beasley |
 | 161 | 223 | Kris Bartlett |
-| 162 | 222 | Joeliecea Cobb |
-| 163 | 222 | TheNeesh50 |
-| 164 | 221 | Rheanda Weaskus |
-| 165 | 221 | PurpleMoonMa |
+| 162 | 222 | TheNeesh50 |
+| 163 | 222 | Joeliecea Cobb |
+| 164 | 221 | PurpleMoonMa |
+| 165 | 221 | Rheanda Weaskus |
 | 166 | 220 | Matt Dell'Olio |
 | 167 | 219 | Jessica Lynn Cutlip |
 | 168 | 218 | Casey Grabner |
@@ -351,8 +351,8 @@
 | 343 | 115 | Jayk |
 | 344 | 115 | Kevin Bush |
 | 345 | 114 | Jason Frehner |
-| 346 | 113 | Stephanie Mico |
-| 347 | 113 | Dandy Cascadefit |
+| 346 | 113 | Adam Randall |
+| 347 | 113 | Stephanie Mico |
 | 348 | 113 | @ |
 | 349 | 113 | Dandy Cascadefit |
 | 350 | 112 | Darrin Rubalcava |
@@ -415,16 +415,16 @@
 | 407 | 95 | Tina Martinez |
 | 408 | 95 | Jobadia Steelerton |
 | 409 | 95 | RedBoots82 |
-| 410 | 94 | Jeff Roberts |
+| 410 | 94 | DonMega |
 | 411 | 94 | Ahleek Mitchell |
 | 412 | 94 | Jeff Roberts |
 | 413 | 93 | Matt Gooder |
 | 414 | 93 | Mousey406 |
 | 415 | 92 | Frilly Blocky |
 | 416 | 92 | bloat princess |
-| 417 | 92 | Frilly Blocky |
+| 417 | 92 | RogueRebel |
 | 418 | 92 | Krash |
-| 419 | 91 | Sunny Filler |
+| 419 | 91 | Kametsunoyaiba |
 | 420 | 91 | Lee Silpe |
 | 421 | 91 | Sunny Filler |
 | 422 | 90 | Adawna Swires |
@@ -460,8 +460,8 @@
 | 452 | 85 | Twisty Risebuilder |
 | 453 | 84 | mini |
 | 454 | 84 | Amy C Brown |
-| 455 | 84 | mini |
-| 456 | 84 | Beth Helms |
+| 455 | 84 | Beth Helms |
+| 456 | 84 | Jen Hallin |
 | 457 | 84 | Robert Sch |
 | 458 | 83 | Groovy Brickmatch |
 | 459 | 82 | Eric Wren |
