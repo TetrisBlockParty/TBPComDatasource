@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -97,8 +97,8 @@
 | 89 | 453 | Brandi Huntington |
 | 90 | 448 | Loony Fitzone |
 | 91 | 446 | Tdub |
-| 92 | 444 | Hyper |
-| 93 | 444 | Lexuriuos Lifestlye |
+| 92 | 444 | Lexuriuos Lifestlye |
+| 93 | 444 | Hyper |
 | 94 | 443 | Steve Schneider |
 | 95 | 439 | Trina Gee |
 | 96 | 436 | Tonya Beasley |
@@ -202,8 +202,8 @@
 | 194 | 264 | Serina Marie |
 | 195 | 261 | Witty Builderfit |
 | 196 | 256 | Chris65 |
-| 197 | 254 | Al Smith Jr |
-| 198 | 254 | Giggly Builderline |
+| 197 | 254 | Giggly Builderline |
+| 198 | 254 | Al Smith Jr |
 | 199 | 253 | Jamie Jury |
 | 200 | 252 | Dena Kayy |
 | 201 | 249 | Lakeisha Chapman |
@@ -218,15 +218,15 @@
 | 210 | 239 | Lacy Wolfe |
 | 211 | 238 | Tiffany Smith |
 | 212 | 236 | Matt Iaccheo |
-| 213 | 235 | MRdot Rooski |
-| 214 | 235 | Desiree Deschaine Havee |
+| 213 | 235 | Desiree Deschaine Havee |
+| 214 | 235 | MRdot Rooski |
 | 215 | 234 | Paula Martin |
 | 216 | 233 | LC |
 | 217 | 232 | Basment Living |
 | 218 | 231 | Tyler Hertzog |
 | 219 | 231 | Sarah Somers Gray |
-| 220 | 230 | BigWeenie69 |
-| 221 | 230 | Jen Nystrom |
+| 220 | 230 | Jen Nystrom |
+| 221 | 230 | BigWeenie69 |
 | 222 | 228 | Giddy Cascade |
 | 223 | 228 | Cheeky Pop |
 | 224 | 228 | Shiny Gridmatch |
@@ -399,8 +399,8 @@
 | 391 | 144 | Andrew Backes |
 | 392 | 143 | Guest |
 | 393 | 142 | Lynn Adams |
-| 394 | 141 | Kayla Marie Stevenson |
-| 395 | 141 | Sylvia Vasquez |
+| 394 | 141 | Sylvia Vasquez |
+| 395 | 141 | Kayla Marie Stevenson |
 | 396 | 140 | Layzietyme |
 | 397 | 140 | Nathan William |
 | 398 | 139 | Aimee Horton |
@@ -437,7 +437,7 @@
 | 429 | 128 | Alyssa Ingram |
 | 430 | 127 | Frisky Risebuilder |
 | 431 | 126 | Mary Crisp |
-| 432 | 126 | Jumpy Rotate |
+| 432 | 126 | Divaaa |
 | 433 | 126 | Zany Tiler |
 | 434 | 126 | Jumpy Rotate |
 | 435 | 125 | Angela Spann |

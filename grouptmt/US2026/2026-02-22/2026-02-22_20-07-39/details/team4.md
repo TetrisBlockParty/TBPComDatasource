@@ -130,8 +130,8 @@
 | 122 | 404 | Courtney Cicoria |
 | 123 | 400 | Ericca Eldridge |
 | 124 | 393 | Carlton Unfiltered |
-| 125 | 391 | Austin Owens |
-| 126 | 391 | Ramel Rhodes |
+| 125 | 391 | Ramel Rhodes |
+| 126 | 391 | Austin Owens |
 | 127 | 377 | Carrie Brian |
 | 128 | 373 | Joseph Guthrie |
 | 129 | 369 | Nope Young |
@@ -147,11 +147,11 @@
 | 139 | 338 | ThaEviLJeNiuZ |
 | 140 | 336 | Jessica Bohlken |
 | 141 | 334 | Guy Incognito |
-| 142 | 332 | HastyGrabber |
-| 143 | 332 | Desi Desporte |
+| 142 | 332 | Desi Desporte |
+| 143 | 332 | HastyGrabber |
 | 144 | 330 | David Lay |
-| 145 | 328 | Leslie Nicole |
-| 146 | 328 | Kris Bartlett |
+| 145 | 328 | Kris Bartlett |
+| 146 | 328 | Leslie Nicole |
 | 147 | 325 | Peachy Fall |
 | 148 | 323 | Daria Rycewicz |
 | 149 | 321 | Klo |
@@ -168,9 +168,9 @@
 | 160 | 292 | Cursed Hag |
 | 161 | 292 | Rafael Valentin |
 | 162 | 291 | shark tato |
-| 163 | 290 | 🥔🥔 Spudz |
+| 163 | 290 | Damn Libra |
 | 164 | 290 | Keshia Lyons |
-| 165 | 290 | Damn Libra |
+| 165 | 290 | 🥔🥔 Spudz |
 | 166 | 290 | Chaz Duncan |
 | 167 | 288 | Andria Lynn |
 | 168 | 288 | Leah Kutz Zirbel |
@@ -221,8 +221,8 @@
 | 213 | 237 | Jen Caldwell |
 | 214 | 236 | Swanky Fitline |
 | 215 | 235 | Chris Hartig |
-| 216 | 233 | Ruben Wheeler |
-| 217 | 233 | April Rondinone |
+| 216 | 233 | April Rondinone |
+| 217 | 233 | Ruben Wheeler |
 | 218 | 230 | blockstar |
 | 219 | 230 | Jade Rian |
 | 220 | 228 | Antony Dwayne Beasley |
@@ -255,21 +255,21 @@
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | James Hurley Jr. |
-| 251 | 205 | Keith Kelley |
+| 250 | 205 | Keith Kelley |
+| 251 | 205 | James Hurley Jr. |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 201 | Chaz |
-| 255 | 200 | Googenheim |
-| 256 | 200 | Lori |
+| 255 | 200 | Lori |
+| 256 | 200 | Googenheim |
 | 257 | 199 | Orchislactea |
 | 258 | 198 | Angelito |
 | 259 | 198 | Calvin Dennis |
 | 260 | 198 | Silly SeaWeed |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | Snippy Puzzle |
-| 264 | 195 | 中山成巳 |
+| 263 | 195 | 中山成巳 |
+| 264 | 195 | Snippy Puzzle |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |
@@ -283,13 +283,13 @@
 | 275 | 185 | Morti |
 | 276 | 183 | Twisty Risebuilder |
 | 277 | 182 | TinyLegoRose |
-| 278 | 181 | Carter Jones |
-| 279 | 181 | Jackie Marie |
+| 278 | 181 | Jackie Marie |
+| 279 | 181 | Carter Jones |
 | 280 | 180 | Cozy Balancer |
 | 281 | 179 | AyeKay |
 | 282 | 175 | Lorena Guerrero-Barron |
-| 283 | 174 | Shane Vick |
-| 284 | 174 | BigSammy420 |
+| 283 | 174 | BigSammy420 |
+| 284 | 174 | Shane Vick |
 | 285 | 171 | Autumn Kumzi |
 | 286 | 171 | June Hoffman |
 | 287 | 170 | Cynthia Boudreau |

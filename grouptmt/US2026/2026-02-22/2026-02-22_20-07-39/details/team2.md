@@ -345,8 +345,8 @@
 | 337 | 734 | Deborah Miller |
 | 338 | 734 | Jánine Riggs |
 | 339 | 729 | Stephanie Lumanlan |
-| 340 | 729 | Aimee Campbell |
-| 341 | 729 | Cassie Mercer |
+| 340 | 729 | Cassie Mercer |
+| 341 | 729 | Aimee Campbell |
 | 342 | 727 | Binyah-Binyah |
 | 343 | 727 | Tom Riefer |
 | 344 | 726 | Speedy Spinblock |
@@ -448,8 +448,8 @@
 | 440 | 583 | Jackie Avila |
 | 441 | 582 | Bee |
 | 442 | 581 | Angie Marie |
-| 443 | 580 | Angela Lynn |
-| 444 | 580 | Joshua Self |
+| 443 | 580 | Joshua Self |
+| 444 | 580 | Angela Lynn |
 | 445 | 579 | Roy Salyer |
 | 446 | 576 | Leslie Johnson Guinto |
 | 447 | 574 | Santana Miyagi |
