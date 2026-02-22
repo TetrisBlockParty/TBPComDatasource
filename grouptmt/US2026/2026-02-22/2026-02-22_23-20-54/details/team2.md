@@ -368,8 +368,8 @@
 | 360 | 743 | Tiara Elizabeth Baker |
 | 361 | 741 | Mandi Douglas Hilt |
 | 362 | 740 | Jerry Tempelmeyer |
-| 363 | 739 | Brenda Utphall |
-| 364 | 739 | Jánine Riggs |
+| 363 | 739 | Jánine Riggs |
+| 364 | 739 | Brenda Utphall |
 | 365 | 738 | Aimee Campbell |
 | 366 | 737 | Jeremy Parodi |
 | 367 | 737 | Ginger |
@@ -401,8 +401,8 @@
 | 393 | 698 | Joce Lynn |
 | 394 | 698 | Spunkysmom |
 | 395 | 697 | Ashle Scranton |
-| 396 | 695 | Lakeysha Dortch |
-| 397 | 695 | Arkei Luster |
+| 396 | 695 | Arkei Luster |
+| 397 | 695 | Lakeysha Dortch |
 | 398 | 688 | Poldo Ilano |
 | 399 | 686 | Ashley Guernsey-Martin |
 | 400 | 682 | BeQuo |
@@ -581,8 +581,8 @@
 | 573 | 486 | Rhonda Petro |
 | 574 | 485 | Klee |
 | 575 | 485 | Mamachelle Eisweirth |
-| 576 | 484 | Eunique Griffin |
-| 577 | 484 | Wendy Unsain |
+| 576 | 484 | Wendy Unsain |
+| 577 | 484 | Eunique Griffin |
 | 578 | 484 | Ashley Collins |
 | 579 | 484 | Street Sweeper |
 | 580 | 483 | Kyle LeRoy Harris |
@@ -808,8 +808,8 @@
 | 800 | 366 | Christine Coughlin |
 | 801 | 365 | NickyBrooks |
 | 802 | 365 | Rain |
-| 803 | 365 | Christina Lewis-Vickers |
-| 804 | 365 | Jroc |
+| 803 | 365 | Jroc |
+| 804 | 365 | Christina Lewis-Vickers |
 | 805 | 364 | Jessica Galick |
 | 806 | 364 | Shinette Dobson |
 | 807 | 364 | Marina Linda |

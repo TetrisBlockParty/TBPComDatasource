@@ -144,14 +144,14 @@
 | 136 | 585 | opf |
 | 137 | 583 | Karon Griffin |
 | 138 | 582 | Natasha Jones |
-| 139 | 579 | Jaime Monhaut-Reed |
-| 140 | 579 | Annie Marie |
+| 139 | 579 | Annie Marie |
+| 140 | 579 | Jaime Monhaut-Reed |
 | 141 | 574 | Morgan Martinez |
 | 142 | 572 | CeceGeGe |
 | 143 | 568 | Rachael McClain Owens |
 | 144 | 565 | Domo Washington |
-| 145 | 562 | Louise Stacy Sisson |
-| 146 | 562 | Dave Herzog |
+| 145 | 562 | Dave Herzog |
+| 146 | 562 | Louise Stacy Sisson |
 | 147 | 558 | Nicole Myers |
 | 148 | 553 | LaTanya GeminiondaRise Johnson |
 | 149 | 551 | Alaina Lee |
@@ -164,8 +164,8 @@
 | 156 | 517 | Denise Nardoni |
 | 157 | 516 | Elissa S-k |
 | 158 | 512 | Silly Twist |
-| 159 | 506 | Sashay Tapae Simpson |
-| 160 | 506 | Stephanie Blkpep Davidson |
+| 159 | 506 | Stephanie Blkpep Davidson |
+| 160 | 506 | Sashay Tapae Simpson |
 | 161 | 505 | Danielle Balcom |
 | 162 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 163 | 502 | Snappy Balancer |
@@ -220,8 +220,8 @@
 | 212 | 399 | Mcathen |
 | 213 | 393 | Cozy Snaplink |
 | 214 | 387 | rosy |
-| 215 | 383 | Heather Green |
-| 216 | 383 | Nicole Flippo |
+| 215 | 383 | Nicole Flippo |
+| 216 | 383 | Heather Green |
 | 217 | 382 | Giddy Twistbuilder |
 | 218 | 382 | Scott Carleton |
 | 219 | 378 | Chris Bell |
@@ -283,8 +283,8 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Ray Lader |
-| 279 | 299 | Angie Harper |
+| 278 | 299 | Angie Harper |
+| 279 | 299 | Ray Lader |
 | 280 | 298 | Grams |
 | 281 | 297 | kacihall |
 | 282 | 297 | Jojo M |
@@ -587,9 +587,9 @@
 | 579 | 152 | Elisha L Allman |
 | 580 | 152 | Beejangles |
 | 581 | 152 | Ginger Gray |
-| 582 | 151 | Lisa Bard |
-| 583 | 151 | Steph Arcari |
-| 584 | 151 | Cheery Brickster |
+| 582 | 151 | Steph Arcari |
+| 583 | 151 | Cheery Brickster |
+| 584 | 151 | Lisa Bard |
 | 585 | 150 | Sassy Brickmatch |
 | 586 | 149 | Alexis Taylor |
 | 587 | 148 | gravelgrinder |

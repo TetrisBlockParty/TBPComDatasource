@@ -148,8 +148,8 @@
 | 140 | 359 | Chirpy Smasher |
 | 141 | 357 | Amanda Johnson Huffman |
 | 142 | 356 | Jason Savage |
-| 143 | 350 | Tipsy Strikerpiece |
-| 144 | 350 | Death |
+| 143 | 350 | Death |
+| 144 | 350 | Tipsy Strikerpiece |
 | 145 | 350 | SkipTheSadSauce |
 | 146 | 344 | Monica Donato |
 | 147 | 341 | Nick R Montague |
