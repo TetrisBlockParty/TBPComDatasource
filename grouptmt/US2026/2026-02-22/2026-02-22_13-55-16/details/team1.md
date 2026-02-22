@@ -140,23 +140,23 @@
 | 132 | 300 | Chelsea Dahlquist |
 | 133 | 300 | Elaine Elaine |
 | 134 | 298 | Erin Hodges Plumb |
-| 135 | 290 | Death |
-| 136 | 290 | Sarah Roberts |
+| 135 | 290 | Sarah Roberts |
+| 136 | 290 | Death |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
 | 139 | 284 | Rachael |
 | 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
 | 142 | 282 | Tyler Werts |
-| 143 | 282 | Snippy Wipebuilder |
-| 144 | 282 | Cool Shiftsnap |
+| 143 | 282 | Cool Shiftsnap |
+| 144 | 282 | Snippy Wipebuilder |
 | 145 | 282 | Timothy Dew |
 | 146 | 276 | Dandy Basegrid |
 | 147 | 270 | Mandyy Rae |
 | 148 | 270 | Ash Galvan |
 | 149 | 268 | GATOR |
-| 150 | 265 | Nutty Spinblock |
-| 151 | 265 | SkipTheSadSauce |
+| 150 | 265 | SkipTheSadSauce |
+| 151 | 265 | Nutty Spinblock |
 | 152 | 264 | Brian Richardsson |
 | 153 | 264 | Jenny Gingrich Fuentes |
 | 154 | 264 | Lexuriuos Lifestlye |
@@ -308,8 +308,8 @@
 | 300 | 149 | Cody Gates |
 | 301 | 148 | Howdi Duty |
 | 302 | 147 | J.F. Fields |
-| 303 | 146 | Larry Tilton |
-| 304 | 146 | Fresno Beotoni |
+| 303 | 146 | Fresno Beotoni |
+| 304 | 146 | Larry Tilton |
 | 305 | 145 | Rachel Nichole Henry |
 | 306 | 145 | Tipsy Riseclear |
 | 307 | 144 | Speedy Liney |

@@ -108,10 +108,10 @@
 | 100 | 1567 | Sally Dennis |
 | 101 | 1553 | Charie Holland |
 | 102 | 1535 | Donnie Hunt |
-| 103 | 1534 | Laura Marie Pelletier |
-| 104 | 1534 | Loopy Clusterbuilder |
-| 105 | 1516 | Stephen Stephen |
-| 106 | 1516 | Mindy Leigh Head |
+| 103 | 1534 | Loopy Clusterbuilder |
+| 104 | 1534 | Laura Marie Pelletier |
+| 105 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Stephen Stephen |
 | 107 | 1513 | blackq |
 | 108 | 1507 | Stephanie Chapman |
 | 109 | 1507 | Linda Pierce |
@@ -355,8 +355,8 @@
 | 347 | 613 | Ellie Jonas |
 | 348 | 613 | Caitlyn Blackwell |
 | 349 | 613 | Breezy Filler |
-| 350 | 611 | Julio A Laracuente |
-| 351 | 611 | Carl Bradshaw |
+| 350 | 611 | Carl Bradshaw |
+| 351 | 611 | Julio A Laracuente |
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
@@ -403,8 +403,8 @@
 | 395 | 548 | Taryece Gause |
 | 396 | 544 | Deidre Shaffer |
 | 397 | 544 | Leah Keesling |
-| 398 | 543 | Vanessa Moreno |
-| 399 | 543 | Julie Kresal |
+| 398 | 543 | Julie Kresal |
+| 399 | 543 | Vanessa Moreno |
 | 400 | 542 | AISlop |
 | 401 | 541 | g |
 | 402 | 540 | Dizzy Zone |
@@ -527,11 +527,11 @@
 | 519 | 445 | Sharon Mills |
 | 520 | 444 | Chab |
 | 521 | 444 | Ryan Meilleur |
-| 522 | 442 | SwampRebel |
+| 522 | 442 | Leah |
 | 523 | 442 | Darlene Bowman |
-| 524 | 442 | Leah |
-| 525 | 438 | Johnny Yeates |
-| 526 | 438 | Kristi Biddinger |
+| 524 | 442 | SwampRebel |
+| 525 | 438 | Kristi Biddinger |
+| 526 | 438 | Johnny Yeates |
 | 527 | 437 | Bubbly Snapfit |
 | 528 | 436 | Niceday |
 | 529 | 435 | James Louie |
@@ -646,8 +646,8 @@
 | 638 | 369 | Juan Castillo |
 | 639 | 367 | Connie Lepore-Mann |
 | 640 | 367 | Jessica Lamb |
-| 641 | 366 | Lawanda Forbes |
-| 642 | 366 | Courtney Burcham |
+| 641 | 366 | Courtney Burcham |
+| 642 | 366 | Lawanda Forbes |
 | 643 | 365 | Christina Lewis-Vickers |
 | 644 | 365 | Audrey Jones |
 | 645 | 365 | Lathasa Newkirk |
