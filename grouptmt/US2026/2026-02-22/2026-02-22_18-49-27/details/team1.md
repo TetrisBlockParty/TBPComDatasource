@@ -110,9 +110,9 @@
 | 102 | 411 | Luciano Moreira |
 | 103 | 409 | Yvonne Marie |
 | 104 | 395 | Nery Martinez |
-| 105 | 390 | Goose egg |
-| 106 | 390 | Lori Bales |
-| 107 | 390 | Candy Jones |
+| 105 | 390 | Lori Bales |
+| 106 | 390 | Candy Jones |
+| 107 | 390 | Goose egg |
 | 108 | 385 | Brenda Stewart |
 | 109 | 383 | pjbeta |
 | 110 | 380 | Maria C. Hernandez |
@@ -207,8 +207,8 @@
 | 199 | 242 | John Kim |
 | 200 | 241 | John J. Cronin |
 | 201 | 240 | DaRascal |
-| 202 | 239 | Sam Williams |
-| 203 | 239 | Lacy Wolfe |
+| 202 | 239 | Lacy Wolfe |
+| 203 | 239 | Sam Williams |
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
@@ -240,8 +240,8 @@
 | 232 | 215 | Shaykmia |
 | 233 | 215 | Panda Thagreat |
 | 234 | 213 | Shanae Grant |
-| 235 | 213 | Speedy Liney |
-| 236 | 213 | Angela Fairbank |
+| 235 | 213 | Angela Fairbank |
+| 236 | 213 | Speedy Liney |
 | 237 | 212 | Tyler Hertzog |
 | 238 | 211 | Negan Mallory Knoxx Spence |
 | 239 | 211 | Erin Rosberg |
@@ -260,8 +260,8 @@
 | 252 | 201 | Andrew Boone |
 | 253 | 201 | Colleen Wise |
 | 254 | 200 | Flashy Rotator |
-| 255 | 200 | Diane Byrd |
-| 256 | 200 | Breanna Luna |
+| 255 | 200 | Breanna Luna |
+| 256 | 200 | Diane Byrd |
 | 257 | 199 | Alenoush Karimian |
 | 258 | 198 | Melissa Lemmon |
 | 259 | 198 | Adele Rahman |
@@ -329,7 +329,7 @@
 | 321 | 163 | Blaire Bruckoff |
 | 322 | 163 | Tyler Whitley |
 | 323 | 163 | Larry Tilton |
-| 324 | 163 | Tyler Whitley |
+| 324 | 163 | .running. |
 | 325 | 162 | Charla Pross-Fugleberg |
 | 326 | 162 | Pauline Cortez |
 | 327 | 162 | Strig |

@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -131,8 +131,8 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | ThaEviLJeNiuZ |
@@ -292,8 +292,8 @@
 | 284 | 166 | KimoKoala |
 | 285 | 166 | Megan Cutshaw |
 | 286 | 165 | Brittany Marsh |
-| 287 | 165 | Zappy Buildgrid |
-| 288 | 165 | Amanda Christine |
+| 287 | 165 | Amanda Christine |
+| 288 | 165 | Zappy Buildgrid |
 | 289 | 164 | Marvetta Williams |
 | 290 | 163 | Ellen Durfee |
 | 291 | 163 | Joseph Edmonson |
@@ -341,10 +341,10 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Jay28 |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Glitzy Crasher |
-| 337 | 145 | Sandra Safford |
+| 336 | 145 | Sandra Safford |
+| 337 | 145 | Glitzy Crasher |
 | 338 | 144 | Squeezy Pearsall |
-| 339 | 143 | Metsfan |
+| 339 | 143 | Daresha Fair |
 | 340 | 143 | Asher |
 | 341 | 143 | Metsfan |
 | 342 | 142 | Alexandra Karavias |

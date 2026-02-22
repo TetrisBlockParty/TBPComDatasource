@@ -70,8 +70,8 @@
 | 62 | 995 | Joey Banks |
 | 63 | 972 | Susan Valentino |
 | 64 | 928 | Nate Burnside |
-| 65 | 926 | Angela M. Fletcher |
-| 66 | 926 | Judi Dobson |
+| 65 | 926 | Judi Dobson |
+| 66 | 926 | Angela M. Fletcher |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 903 | Sarah Fehring |
@@ -149,9 +149,9 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Patti Skiles |
-| 145 | 479 | Poppy Splitter |
-| 146 | 479 | Annie Marie |
+| 144 | 479 | Poppy Splitter |
+| 145 | 479 | Annie Marie |
+| 146 | 479 | Patti Skiles |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |
 | 149 | 469 | Adrian Marcel Pate |
@@ -348,13 +348,13 @@
 | 340 | 218 | Eileen Brady Thurber |
 | 341 | 217 | Emma |
 | 342 | 217 | Goofy Fall |
-| 343 | 216 | Cheryl Hinch Tenbrook |
-| 344 | 216 | Frothy Snapper |
+| 343 | 216 | Frothy Snapper |
+| 344 | 216 | Cheryl Hinch Tenbrook |
 | 345 | 215 | Everret Maxine |
 | 346 | 214 | Amy Fuller Heaton |
 | 347 | 214 | Randy Clevenger |
-| 348 | 213 | Jess Dearborn |
-| 349 | 213 | Romeo |
+| 348 | 213 | Romeo |
+| 349 | 213 | Jess Dearborn |
 | 350 | 212 | AlsoJess |
 | 351 | 211 | Kirhonda Autmon |
 | 352 | 211 | El Chapa |
