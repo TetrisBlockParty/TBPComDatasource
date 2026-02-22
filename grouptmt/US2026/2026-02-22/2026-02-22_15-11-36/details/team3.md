@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 892 | Raven Dudley |
 | 63 | 882 | Susan Valentino |
@@ -408,8 +408,8 @@
 | 400 | 163 | Christine Trester |
 | 401 | 163 | Diana Ibarra |
 | 402 | 162 | Stephanie Whitefield |
-| 403 | 162 | Beaudie Stroebel |
-| 404 | 162 | Nicole Summers-Nelson |
+| 403 | 162 | Nicole Summers-Nelson |
+| 404 | 162 | Beaudie Stroebel |
 | 405 | 162 | Eric Caccavale |
 | 406 | 161 | Betty Bóò |
 | 407 | 161 | AC Yeater |
@@ -456,8 +456,8 @@
 | 448 | 147 | sofaking |
 | 449 | 147 | Megan Rathmanner |
 | 450 | 146 | Sdot |
-| 451 | 146 | Sara Dunn |
-| 452 | 146 | Sarah Whalen |
+| 451 | 146 | Sarah Whalen |
+| 452 | 146 | Sara Dunn |
 | 453 | 145 | Alison Baus |
 | 454 | 145 | Eboni Starr |
 | 455 | 145 | Denise Marie |

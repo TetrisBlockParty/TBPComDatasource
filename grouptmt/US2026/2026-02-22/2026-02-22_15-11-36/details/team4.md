@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 738 | TeeJ |
@@ -62,8 +62,8 @@
 | 54 | 698 | Anthony Bryan Riva |
 | 55 | 697 | Edward White |
 | 56 | 690 | Dustee Craddock-Harrison |
-| 57 | 664 | Valerie Roberts |
-| 58 | 664 | D3TROITB0RN74 |
+| 57 | 664 | D3TROITB0RN74 |
+| 58 | 664 | Valerie Roberts |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |

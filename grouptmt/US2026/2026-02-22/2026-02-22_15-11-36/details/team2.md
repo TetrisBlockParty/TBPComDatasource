@@ -132,8 +132,8 @@
 | 124 | 1383 | Ladyrainbootz |
 | 125 | 1380 | Jose Mendoza |
 | 126 | 1342 | Eboni Banks |
-| 127 | 1342 | Christi Hulet |
-| 128 | 1342 | Bob |
+| 127 | 1342 | Bob |
+| 128 | 1342 | Christi Hulet |
 | 129 | 1338 | Dawn Geist-Weasner |
 | 130 | 1333 | Mr. Street Stack |
 | 131 | 1316 | Rosa Franklin |
@@ -160,8 +160,8 @@
 | 152 | 1201 | Murrae Lynn Rebarchek |
 | 153 | 1192 | Denisha Dawkins |
 | 154 | 1186 | Nika Bee |
-| 155 | 1182 | Jai Jackson |
-| 156 | 1182 | Ashley House |
+| 155 | 1182 | Ashley House |
+| 156 | 1182 | Jai Jackson |
 | 157 | 1177 | Joyce Johnson Vaughn |
 | 158 | 1174 | Jennifer Casey-Kay |
 | 159 | 1174 | Poppy Snap |
@@ -186,8 +186,8 @@
 | 178 | 1062 | Crystal Slaughter |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Brave Dropmatch |
-| 182 | 1043 | Suki Kaur |
+| 181 | 1043 | Suki Kaur |
+| 182 | 1043 | Brave Dropmatch |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -208,8 +208,8 @@
 | 200 | 979 | Hillary Crawford |
 | 201 | 974 | Dolores Russworn |
 | 202 | 973 | Kim Dean |
-| 203 | 960 | Jennifer Kistner |
-| 204 | 960 | Juliana Marques Do Nascimento Gordy |
+| 203 | 960 | Juliana Marques Do Nascimento Gordy |
+| 204 | 960 | Jennifer Kistner |
 | 205 | 957 | Block Master |
 | 206 | 954 | Shannon Joslin |
 | 207 | 951 | Cynthia Ward |
@@ -450,8 +450,8 @@
 | 442 | 516 | Diamond Scott |
 | 443 | 515 | Victoria Regina Girolami |
 | 444 | 515 | Laquetta Royston |
-| 445 | 514 | Sarah Berger |
-| 446 | 514 | Karen Posadas Centeno |
+| 445 | 514 | Karen Posadas Centeno |
+| 446 | 514 | Sarah Berger |
 | 447 | 512 | Leslie Jorgenson |
 | 448 | 511 | Laura Mclean |
 | 449 | 509 | Kelli Wells |
@@ -1048,9 +1048,9 @@
 | 1040 | 237 | Jodi Mitnick |
 | 1041 | 237 | Nutty Matchline |
 | 1042 | 236 | Casaundra Little-Abeling |
-| 1043 | 236 | Ashley McCarthy-Arnone |
+| 1043 | 236 | Nikki Arlene |
 | 1044 | 236 | Lesley Leanne Houston |
-| 1045 | 236 | Nikki Arlene |
+| 1045 | 236 | Ashley McCarthy-Arnone |
 | 1046 | 236 | 2 kool |
 | 1047 | 235 | Prince Ajesh |
 | 1048 | 235 | Shantel Kelley |
