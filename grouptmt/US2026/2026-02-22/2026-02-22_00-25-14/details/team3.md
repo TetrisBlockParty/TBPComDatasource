@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
 | 64 | 618 | MissTaylor |
@@ -159,8 +159,8 @@
 | 151 | 283 | Joye Sims Binion |
 | 152 | 278 | Rufus Lincoln |
 | 153 | 276 | Crimson |
-| 154 | 272 | rnr junky |
-| 155 | 272 | opf |
+| 154 | 272 | opf |
+| 155 | 272 | rnr junky |
 | 156 | 271 | Leah Barnett |
 | 157 | 271 | Ashley Muncey |
 | 158 | 267 | Denise Nardoni |
@@ -170,8 +170,8 @@
 | 162 | 261 | Tiffany Ford |
 | 163 | 260 | Louise Stacy Sisson |
 | 164 | 258 | Tamara Deherrera |
-| 165 | 256 | ren |
-| 166 | 256 | KayB |
+| 165 | 256 | KayB |
+| 166 | 256 | ren |
 | 167 | 255 | Tom Nault |
 | 168 | 254 | Duane Bright |
 | 169 | 250 | Cynthia Herrmann Egland |

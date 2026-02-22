@@ -248,8 +248,8 @@
 | 240 | 586 | Stephen Stephen |
 | 241 | 586 | Hoppy Brickmatch |
 | 242 | 585 | Jánine Riggs |
-| 243 | 583 | Jessicah Myers |
-| 244 | 583 | Steve Grotto |
+| 243 | 583 | Steve Grotto |
+| 244 | 583 | Jessicah Myers |
 | 245 | 582 | Gary Stash |
 | 246 | 580 | Leslie Ann Carter |
 | 247 | 579 | Juliana Marques Do Nascimento Gordy |

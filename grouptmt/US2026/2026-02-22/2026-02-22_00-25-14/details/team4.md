@@ -52,8 +52,8 @@
 | 44 | 526 | Goatimus Lombardi |
 | 45 | 524 | Anthony Bryan Riva |
 | 46 | 504 | Ash |
-| 47 | 500 | Rodney McMath Jr. |
-| 48 | 500 | Savannah Overdorf |
+| 47 | 500 | Savannah Overdorf |
+| 48 | 500 | Rodney McMath Jr. |
 | 49 | 496 | Carolyn Wallace |
 | 50 | 491 | Casey Jeffcoat |
 | 51 | 486 | Landon Keith Graffeo |
@@ -75,8 +75,8 @@
 | 67 | 391 | Ramel Rhodes |
 | 68 | 390 | Carlton Unfiltered |
 | 69 | 388 | YoMomma |
-| 70 | 376 | Marie-Pier Desjardins |
-| 71 | 376 | quicksand420 |
+| 70 | 376 | quicksand420 |
+| 71 | 376 | Marie-Pier Desjardins |
 | 72 | 373 | Joseph Guthrie |
 | 73 | 370 | Leslie Thomas |
 | 74 | 369 | Nope Young |
@@ -107,8 +107,8 @@
 | 99 | 273 | Carrie Brian |
 | 100 | 271 | Sarah Brown |
 | 101 | 268 | Meagan Nicole |
-| 102 | 264 | Girl |
-| 103 | 264 | Epic Curvetile |
+| 102 | 264 | Epic Curvetile |
+| 103 | 264 | Girl |
 | 104 | 258 | Brittney Orengo |
 | 105 | 257 | Holly Jolly |
 | 106 | 255 | Lindsay Ball |
@@ -126,8 +126,8 @@
 | 118 | 212 | Mike Solo |
 | 119 | 211 | Dizzy Tiley |
 | 120 | 210 | Damn Libra |
-| 121 | 208 | Chastity Mitchell |
-| 122 | 208 | Twisty Cascadezone |
+| 121 | 208 | Twisty Cascadezone |
+| 122 | 208 | Chastity Mitchell |
 | 123 | 206 | Mylo Lipscomb |
 | 124 | 205 | Sarah Neathery |
 | 125 | 204 | Dana Scott |
@@ -151,12 +151,12 @@
 | 143 | 181 | Andria Lynn |
 | 144 | 181 | Klo |
 | 145 | 180 | Leah Kutz Zirbel |
-| 146 | 179 | Scott Jameson |
-| 147 | 179 | Ak Jones |
+| 146 | 179 | Ak Jones |
+| 147 | 179 | Scott Jameson |
 | 148 | 178 | Lori |
 | 149 | 176 | Zethra Prenisha Rahming |
-| 150 | 175 | Ren Mc |
-| 151 | 175 | blockstar |
+| 150 | 175 | blockstar |
+| 151 | 175 | Ren Mc |
 | 152 | 174 | Dihcheese444 |
 | 153 | 172 | Jessica Bohlken |
 | 154 | 171 | Diana Houts |
@@ -204,8 +204,8 @@
 | 196 | 132 | Jessica Cagle |
 | 197 | 132 | Degenerate |
 | 198 | 131 | Michelle Morris |
-| 199 | 130 | Chris Bernstein |
-| 200 | 130 | Shukee Lo |
+| 199 | 130 | Shukee Lo |
+| 200 | 130 | Chris Bernstein |
 | 201 | 129 | Dreamy Snapgrid |
 | 202 | 128 | Kristin MacDonald |
 | 203 | 128 | Ultramarine |
