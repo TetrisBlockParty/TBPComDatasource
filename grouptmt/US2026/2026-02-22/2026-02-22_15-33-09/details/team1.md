@@ -362,8 +362,8 @@
 | 354 | 131 | Plucky Wrecker |
 | 355 | 131 | Dizzy Riseclear |
 | 356 | 131 | Ramona Shaver |
-| 357 | 130 | Katie Toothman |
-| 358 | 130 | Carl Claunch |
+| 357 | 130 | Carl Claunch |
+| 358 | 130 | Katie Toothman |
 | 359 | 129 | Sherri E Woods Hess |
 | 360 | 128 | Itspaigebro |
 | 361 | 128 | Alyssa Ingram |

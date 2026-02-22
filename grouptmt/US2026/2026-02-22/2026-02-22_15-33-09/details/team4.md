@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -202,8 +202,8 @@
 | 194 | 217 | Chaz Duncan |
 | 195 | 216 | ZeeZee |
 | 196 | 216 | Chance Strickland |
-| 197 | 213 | Jason Allen |
-| 198 | 213 | Sarah Neathery |
+| 197 | 213 | Sarah Neathery |
+| 198 | 213 | Jason Allen |
 | 199 | 212 | Mike Solo |
 | 200 | 212 | Joanna |
 | 201 | 211 | Jenna McGeorge |
@@ -293,8 +293,8 @@
 | 285 | 151 | Shanon Klair |
 | 286 | 151 | Joseph Pace |
 | 287 | 151 | Amanda Christine |
-| 288 | 150 | Brandon Link |
-| 289 | 150 | Jared Gutwein |
+| 288 | 150 | Jared Gutwein |
+| 289 | 150 | Brandon Link |
 | 290 | 150 | GBR |
 | 291 | 148 | Sam Middleton |
 | 292 | 148 | Nubian1 |
@@ -449,11 +449,11 @@
 | 441 | 104 | Gdiguy |
 | 442 | 104 | Jessica Johnston |
 | 443 | 104 | Ryry |
-| 444 | 102 | Bigeddie |
-| 445 | 102 | Cool Gridzone |
-| 446 | 102 | Christina O'Dell-Ishau |
-| 447 | 102 | Amy C Brown |
-| 448 | 102 | Candice Carasiti |
+| 444 | 102 | Cool Gridzone |
+| 445 | 102 | Bigeddie |
+| 446 | 102 | Amy C Brown |
+| 447 | 102 | Candice Carasiti |
+| 448 | 102 | Christina O'Dell-Ishau |
 | 449 | 101 | Saulc1991 |
 | 450 | 100 | Marcus TheeyoungWoe Gilmore |
 | 451 | 100 | Jen Mattei |
@@ -467,8 +467,8 @@
 | 459 | 98 | Squeezy Pearsall |
 | 460 | 98 | Groovy Gridlock |
 | 461 | 98 | Hyper Builder |
-| 462 | 97 | Flavoredsausage |
-| 463 | 97 | Serena Butter |
+| 462 | 97 | Serena Butter |
+| 463 | 97 | Flavoredsausage |
 | 464 | 96 | Rebecca Blake |
 | 465 | 96 | Nicole McMurray |
 | 466 | 95 | RedBoots82 |

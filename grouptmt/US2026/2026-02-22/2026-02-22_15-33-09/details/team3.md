@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Poppy Splitter |
-| 132 | 479 | Patti Skiles |
+| 131 | 479 | Patti Skiles |
+| 132 | 479 | Poppy Splitter |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -230,8 +230,8 @@
 | 222 | 306 | Marci Mize Fandrich |
 | 223 | 305 | Rebecca Bailey |
 | 224 | 301 | Betty Rosas |
-| 225 | 300 | JerseyJess |
-| 226 | 300 | Sherika C. McDaniels |
+| 225 | 300 | Sherika C. McDaniels |
+| 226 | 300 | JerseyJess |
 | 227 | 299 | Melissa Orth Hunter |
 | 228 | 298 | MsBee |
 | 229 | 297 | Jojo M |
@@ -506,7 +506,7 @@
 | 498 | 136 | Tia Moore |
 | 499 | 136 | Karen Picaboo |
 | 500 | 135 | Morgan Cudo |
-| 501 | 134 | Maia |
+| 501 | 134 | Sharon Dudley Lawson |
 | 502 | 134 | Glenn Loving |
 | 503 | 134 | Maia |
 | 504 | 134 | Brian Battjes |

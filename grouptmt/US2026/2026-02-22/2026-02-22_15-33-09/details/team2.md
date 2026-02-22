@@ -252,8 +252,8 @@
 | 244 | 860 | John Bednarik |
 | 245 | 857 | Della Hole |
 | 246 | 855 | F-X |
-| 247 | 853 | Meghan M |
-| 248 | 853 | Maria Escobar |
+| 247 | 853 | Maria Escobar |
+| 248 | 853 | Meghan M |
 | 249 | 850 | Missie Lawson Gebhardt |
 | 250 | 848 | Ashlen Dorrell |
 | 251 | 835 | Sam Joe |
@@ -333,8 +333,8 @@
 | 325 | 688 | ShinyRose |
 | 326 | 687 | Dee |
 | 327 | 686 | Ashley Guernsey-Martin |
-| 328 | 685 | Brenda Pierpoint |
-| 329 | 685 | Binyah-Binyah |
+| 328 | 685 | Binyah-Binyah |
+| 329 | 685 | Brenda Pierpoint |
 | 330 | 682 | Poldo Ilano |
 | 331 | 680 | Glitzy Stackzone |
 | 332 | 679 | Kassandra Hunt |
@@ -410,8 +410,8 @@
 | 402 | 563 | snkylnk |
 | 403 | 563 | Irene Jones |
 | 404 | 561 | Traci Johnson |
-| 405 | 558 | Libby Hicks |
-| 406 | 558 | Mikayala Szaz |
+| 405 | 558 | Mikayala Szaz |
+| 406 | 558 | Libby Hicks |
 | 407 | 556 | Slip |
 | 408 | 554 | Rachael Senard |
 | 409 | 554 | Santana Miyagi |
@@ -535,8 +535,8 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Funky Caster |
-| 531 | 451 | Anthony Huebel |
+| 530 | 451 | Anthony Huebel |
+| 531 | 451 | Funky Caster |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |
@@ -570,8 +570,8 @@
 | 562 | 429 | Tabs Reichert |
 | 563 | 428 | Arkei Luster |
 | 564 | 428 | Shyenn Gadsby |
-| 565 | 427 | Destiny Cozier |
-| 566 | 427 | Sabrina Burton |
+| 565 | 427 | Sabrina Burton |
+| 566 | 427 | Destiny Cozier |
 | 567 | 426 | Ashley Dow |
 | 568 | 424 | Saucy Fitzone |
 | 569 | 424 | Lina Sanders |
@@ -1000,8 +1000,8 @@
 | 992 | 252 | Layna Lyons |
 | 993 | 252 | Breezy Tilt |
 | 994 | 252 | Aleasha M Brown |
-| 995 | 251 | Kimmie Zimmerman-Rocha |
-| 996 | 251 | Chipper Dashpiece |
+| 995 | 251 | Chipper Dashpiece |
+| 996 | 251 | Kimmie Zimmerman-Rocha |
 | 997 | 251 | Regina Unruh |
 | 998 | 251 | Bold Clusterfit |
 | 999 | 251 | Meganator42 |
@@ -1088,8 +1088,8 @@
 | 1080 | 230 | Anna Mayo |
 | 1081 | 230 | Hoppy Glidebuilder |
 | 1082 | 230 | lady |
-| 1083 | 229 | BbqGuru |
-| 1084 | 229 | Marcie McLain Dodd |
+| 1083 | 229 | Marcie McLain Dodd |
+| 1084 | 229 | BbqGuru |
 | 1085 | 229 | Deidre Jenkins |
 | 1086 | 229 | Goofy Cascadeclear |
 | 1087 | 229 | Cranky Tower |
