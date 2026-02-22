@@ -147,8 +147,8 @@
 | 139 | 241 | John J. Cronin |
 | 140 | 236 | Mandyy Rae |
 | 141 | 232 | Jessi Sauer |
-| 142 | 230 | Frothy Pattern |
-| 143 | 230 | Billie Dawn Sparks |
+| 142 | 230 | Billie Dawn Sparks |
+| 143 | 230 | Frothy Pattern |
 | 144 | 229 | David Lutcher |
 | 145 | 228 | ALFD |
 | 146 | 226 | Kandae |
@@ -273,10 +273,10 @@
 | 265 | 130 | Gilbert Ortiz Jr. |
 | 266 | 130 | Carl Claunch |
 | 267 | 130 | Howdi Duty |
-| 268 | 129 | Jessica Russell |
-| 269 | 129 | Sherri E Woods Hess |
-| 270 | 128 | Chuck Gannon |
-| 271 | 128 | Alyssa Ingram |
+| 268 | 129 | Sherri E Woods Hess |
+| 269 | 129 | Jessica Russell |
+| 270 | 128 | Alyssa Ingram |
+| 271 | 128 | Chuck Gannon |
 | 272 | 127 | Danielle Mae |
 | 273 | 126 | Zany Tiler |
 | 274 | 126 | Dizzy Riseclear |

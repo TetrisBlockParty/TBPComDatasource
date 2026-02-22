@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -130,8 +130,8 @@
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
 | 124 | 264 | Girl |
-| 125 | 264 | Epic Curvetile |
-| 126 | 264 | Dana Scott |
+| 125 | 264 | Dana Scott |
+| 126 | 264 | Epic Curvetile |
 | 127 | 262 | Holly Jolly |
 | 128 | 258 | Brittney Orengo |
 | 129 | 256 | Mylo Lipscomb |
@@ -145,8 +145,8 @@
 | 137 | 230 | Autum Leigh |
 | 138 | 229 | Jolly Dashfit |
 | 139 | 228 | J-Rizzle |
-| 140 | 227 | Swanky Fitline |
-| 141 | 227 | Alyssa Papen |
+| 140 | 227 | Alyssa Papen |
+| 141 | 227 | Swanky Fitline |
 | 142 | 225 | Damn Libra |
 | 143 | 224 | Matt Summer |
 | 144 | 223 | Antony Dwayne Beasley |

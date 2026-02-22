@@ -259,8 +259,8 @@
 | 251 | 221 | Jaime Monhaut-Reed |
 | 252 | 219 | Sissy Lowery Davis |
 | 253 | 218 | Michael Lucado |
-| 254 | 216 | LaTanya GeminiondaRise Johnson |
-| 255 | 216 | rosy |
+| 254 | 216 | rosy |
+| 255 | 216 | LaTanya GeminiondaRise Johnson |
 | 256 | 215 | Alice |
 | 257 | 215 | IamJust Neyamijah Washington Sr. |
 | 258 | 214 | Angela Scott |
@@ -310,8 +310,8 @@
 | 302 | 179 | Tipsy Zonebuilder |
 | 303 | 178 | Jess Dearborn |
 | 304 | 178 | Jennifer Alvey |
-| 305 | 176 | Emma |
-| 306 | 176 | Melissa Orth Hunter |
+| 305 | 176 | Melissa Orth Hunter |
+| 306 | 176 | Emma |
 | 307 | 175 | Eileen Brady Thurber |
 | 308 | 174 | fraulila |
 | 309 | 174 | Betty Rosas |

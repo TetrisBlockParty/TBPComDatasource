@@ -432,14 +432,14 @@
 | 424 | 459 | Melissa Kay Gibson |
 | 425 | 458 | Casper The Chonk |
 | 426 | 454 | Casey Schumacher |
-| 427 | 453 | Rhonda Petro |
-| 428 | 453 | Joshua Sommerville |
+| 427 | 453 | Joshua Sommerville |
+| 428 | 453 | Rhonda Petro |
 | 429 | 451 | Funky Caster |
-| 430 | 451 | Cody Nishimura |
-| 431 | 451 | Dylan Thomason |
-| 432 | 447 | Brandy Andre |
+| 430 | 451 | Dylan Thomason |
+| 431 | 451 | Cody Nishimura |
+| 432 | 447 | Lourisha |
 | 433 | 447 | Heather Schelkopf |
-| 434 | 447 | Lourisha |
+| 434 | 447 | Brandy Andre |
 | 435 | 445 | Mar Q Thomas |
 | 436 | 444 | Ryan Meilleur |
 | 437 | 442 | Leah |
@@ -456,8 +456,8 @@
 | 448 | 428 | Arkei Luster |
 | 449 | 427 | Kori Beth Babb |
 | 450 | 427 | Destiny Cozier |
-| 451 | 425 | Shyenn Gadsby |
-| 452 | 425 | Skyler Morgan |
+| 451 | 425 | Skyler Morgan |
+| 452 | 425 | Shyenn Gadsby |
 | 453 | 424 | Quinn |
 | 454 | 424 | Lina Sanders |
 | 455 | 423 | Bubbly Snapfit |
