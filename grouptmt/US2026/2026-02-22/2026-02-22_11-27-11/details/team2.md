@@ -405,8 +405,8 @@
 | 397 | 525 | Desiree Anderson |
 | 398 | 524 | Lonne Emade |
 | 399 | 523 | Matt Johnson |
-| 400 | 522 | Joseph Musick |
-| 401 | 522 | Lylymom |
+| 400 | 522 | Lylymom |
+| 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
 | 403 | 520 | Angela Lynn |
 | 404 | 520 | Maddy Petersen |
@@ -510,10 +510,10 @@
 | 502 | 438 | Johnny Yeates |
 | 503 | 438 | Kristi Biddinger |
 | 504 | 437 | Bubbly Snapfit |
-| 505 | 436 | Brenda Pierpoint |
-| 506 | 436 | Niceday |
-| 507 | 435 | Regina Young |
-| 508 | 435 | James Louie |
+| 505 | 436 | Niceday |
+| 506 | 436 | Brenda Pierpoint |
+| 507 | 435 | James Louie |
+| 508 | 435 | Regina Young |
 | 509 | 433 | KayLynn Ogden McClelland |
 | 510 | 432 | Lucy Marshall |
 | 511 | 430 | Jackie Lucas |
@@ -574,8 +574,8 @@
 | 566 | 399 | Cleo Sims |
 | 567 | 399 | Oscar Bernie |
 | 568 | 398 | Crystal Heller Gonzalez |
-| 569 | 396 | Candy Pitts |
-| 570 | 396 | AkaLefty |
+| 569 | 396 | AkaLefty |
+| 570 | 396 | Candy Pitts |
 | 571 | 396 | Boogie SoAnimated Johnson |
 | 572 | 394 | Taryece Gause |
 | 573 | 393 | Alexandra Weir |
@@ -598,8 +598,8 @@
 | 590 | 387 | Bold Brickster |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Kelly |
-| 594 | 384 | Party d |
+| 593 | 384 | Party d |
+| 594 | 384 | Kelly |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | David Holliday |
@@ -616,8 +616,8 @@
 | 608 | 376 | James Zaragoza |
 | 609 | 375 | Cecilia A Jenkins |
 | 610 | 375 | Lively Edgepiece |
-| 611 | 373 | Jessica Hughes |
-| 612 | 373 | Hunter Connors |
+| 611 | 373 | Hunter Connors |
+| 612 | 373 | Jessica Hughes |
 | 613 | 373 | Ashley Marie |
 | 614 | 372 | Ebony Deloach Bryant |
 | 615 | 371 | Brenda Messer |
@@ -806,8 +806,8 @@
 | 798 | 280 | Belle |
 | 799 | 280 | Luke Califf |
 | 800 | 279 | Laura Wyatt |
-| 801 | 279 | Jennifer Coe |
-| 802 | 279 | Loony Basepiece |
+| 801 | 279 | Loony Basepiece |
+| 802 | 279 | Jennifer Coe |
 | 803 | 279 | Katherin Camacho |
 | 804 | 278 | Timothy Jesuwole |
 | 805 | 278 | AndrewandShela Gornik |
@@ -978,10 +978,10 @@
 | 970 | 235 | Prince Ajesh |
 | 971 | 235 | Nikki Arlene |
 | 972 | 235 | Loopy Shatterfit |
-| 973 | 234 | Joanna L. Abad |
-| 974 | 234 | Trina Harrison |
-| 975 | 234 | Synn |
-| 976 | 234 | Lonnie Brown |
+| 973 | 234 | Trina Harrison |
+| 974 | 234 | Joanna L. Abad |
+| 975 | 234 | Lonnie Brown |
+| 976 | 234 | Synn |
 | 977 | 234 | Jannan Haimour |
 | 978 | 233 | Allison Hewitt |
 | 979 | 233 | Nerdy Riserfit |
