@@ -77,8 +77,8 @@
 | 69 | 353 | Trina Gee |
 | 70 | 348 | Stef Hu |
 | 71 | 347 | pjbeta |
-| 72 | 338 | Stephanie Zahn |
-| 73 | 338 | Tipsy Strikerpiece |
+| 72 | 338 | Tipsy Strikerpiece |
+| 73 | 338 | Stephanie Zahn |
 | 74 | 337 | Steve Schneider |
 | 75 | 333 | Brandi Huntington |
 | 76 | 328 | Kellie |
@@ -151,8 +151,8 @@
 | 143 | 190 | Thorne Shumate |
 | 144 | 188 | Sam Williams |
 | 145 | 187 | Snippy Wipebuilder |
-| 146 | 186 | Margo Wagner |
-| 147 | 186 | Katie Daniels |
+| 146 | 186 | Katie Daniels |
+| 147 | 186 | Margo Wagner |
 | 148 | 186 | Jennifer Olewnik Soborowski |
 | 149 | 185 | Basment Living |
 | 150 | 183 | Michael |

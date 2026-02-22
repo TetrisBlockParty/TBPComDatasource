@@ -108,8 +108,8 @@
 | 100 | 273 | Carrie Brian |
 | 101 | 271 | Sarah Brown |
 | 102 | 268 | Meagan Nicole |
-| 103 | 264 | Girl |
-| 104 | 264 | Epic Curvetile |
+| 103 | 264 | Epic Curvetile |
+| 104 | 264 | Girl |
 | 105 | 258 | Brittney Orengo |
 | 106 | 257 | Holly Jolly |
 | 107 | 255 | Lindsay Ball |
@@ -123,9 +123,9 @@
 | 115 | 218 | Antony Dwayne Beasley |
 | 116 | 216 | Chaz Duncan |
 | 117 | 213 | loulou |
-| 118 | 212 | Calvin Cannon |
-| 119 | 212 | Toots |
-| 120 | 212 | Mike Solo |
+| 118 | 212 | Mike Solo |
+| 119 | 212 | Calvin Cannon |
+| 120 | 212 | Toots |
 | 121 | 211 | Dizzy Tiley |
 | 122 | 208 | Twisty Cascadezone |
 | 123 | 208 | Chastity Mitchell |

@@ -378,11 +378,11 @@
 | 370 | 411 | Ricky Fortune |
 | 371 | 411 | Kristen O'Neal |
 | 372 | 406 | Erin StFrancis |
-| 373 | 406 | Tj Ball |
-| 374 | 406 | Julie Kresal |
+| 373 | 406 | Julie Kresal |
+| 374 | 406 | Tj Ball |
 | 375 | 405 | Christy Krissie |
-| 376 | 403 | Tonya Lee |
-| 377 | 403 | Snippy Rumbler |
+| 376 | 403 | Snippy Rumbler |
+| 377 | 403 | Tonya Lee |
 | 378 | 402 | Gauri Shrotriya |
 | 379 | 401 | Taylor Flowers |
 | 380 | 401 | Caitlin Schmid |
