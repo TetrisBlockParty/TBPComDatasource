@@ -166,8 +166,8 @@
 | 158 | 291 | shark tato |
 | 159 | 290 | Keshia Lyons |
 | 160 | 290 | 🥔🥔 Spudz |
-| 161 | 290 | Chaz Duncan |
-| 162 | 290 | Damn Libra |
+| 161 | 290 | Damn Libra |
+| 162 | 290 | Chaz Duncan |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -199,11 +199,11 @@
 | 191 | 247 | Dennis Bradley |
 | 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
-| 194 | 245 | Autum Leigh |
-| 195 | 245 | 23 |
+| 194 | 245 | 23 |
+| 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Lindsey Gonzalez |
-| 198 | 244 | Twisty Cascadezone |
+| 197 | 244 | Twisty Cascadezone |
+| 198 | 244 | Lindsey Gonzalez |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 241 | Allen Lloyd |
@@ -224,21 +224,21 @@
 | 216 | 221 | PurpleMoonMa |
 | 217 | 221 | Kim Klutz Olson |
 | 218 | 220 | Joanna |
-| 219 | 219 | Malakai Darien Fox |
-| 220 | 219 | Dizzy Matchzone |
-| 221 | 216 | Chance Strickland |
-| 222 | 216 | ZeeZee |
+| 219 | 219 | Dizzy Matchzone |
+| 220 | 219 | Malakai Darien Fox |
+| 221 | 216 | ZeeZee |
+| 222 | 216 | Chance Strickland |
 | 223 | 216 | Cristy Duerksen |
 | 224 | 215 | John Brunetti |
 | 225 | 215 | Ziggy |
 | 226 | 213 | Rio Rocha |
 | 227 | 213 | Sarah Neathery |
-| 228 | 212 | Mike Solo |
-| 229 | 212 | scott |
+| 228 | 212 | scott |
+| 229 | 212 | Mike Solo |
 | 230 | 211 | Jenna McGeorge |
 | 231 | 210 | Adam Stephanie Parker |
-| 232 | 209 | Ak Jones |
-| 233 | 209 | Chris Hartig |
+| 232 | 209 | Chris Hartig |
+| 233 | 209 | Ak Jones |
 | 234 | 208 | Stacey Stano |
 | 235 | 208 | Oscar Alberto Perez |
 | 236 | 207 | Cheery Risebuilder |

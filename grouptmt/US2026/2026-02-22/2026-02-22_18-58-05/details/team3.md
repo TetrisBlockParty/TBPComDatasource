@@ -419,11 +419,11 @@
 | 411 | 180 | Beth Ingham |
 | 412 | 180 | Funky Jumper |
 | 413 | 180 | Ava Petito |
-| 414 | 179 | Skinny Baldez |
-| 415 | 179 | Betty Bóò |
+| 414 | 179 | Betty Bóò |
+| 415 | 179 | Skinny Baldez |
 | 416 | 178 | Christian Luna |
-| 417 | 178 | Morgan Cudo |
-| 418 | 178 | Wacky Crasher |
+| 417 | 178 | Wacky Crasher |
+| 418 | 178 | Morgan Cudo |
 | 419 | 178 | JessDrown |
 | 420 | 177 | Sabrina Mansfield |
 | 421 | 176 | Anna Moeller |

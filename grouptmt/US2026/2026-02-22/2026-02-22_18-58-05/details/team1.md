@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Lexuriuos Lifestlye |
-| 90 | 444 | Hyper |
+| 89 | 444 | Hyper |
+| 90 | 444 | Lexuriuos Lifestlye |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -207,8 +207,8 @@
 | 199 | 242 | John Kim |
 | 200 | 241 | John J. Cronin |
 | 201 | 240 | DaRascal |
-| 202 | 239 | Lacy Wolfe |
-| 203 | 239 | Sam Williams |
+| 202 | 239 | Sam Williams |
+| 203 | 239 | Lacy Wolfe |
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
@@ -407,7 +407,7 @@
 | 399 | 133 | Nate Funk |
 | 400 | 132 | Discovery Point |
 | 401 | 132 | Javyjavz |
-| 402 | 132 | Discovery Point |
+| 402 | 132 | Danielle Mae |
 | 403 | 131 | Plucky Wrecker |
 | 404 | 130 | DoodleBug |
 | 405 | 130 | Katie Toothman |
@@ -500,7 +500,7 @@
 | 492 | 104 | Richard Corrado |
 | 493 | 103 | Mariah Cornell |
 | 494 | 103 | Adriansoky |
-| 495 | 103 | Mariah Cornell |
+| 495 | 103 | Brandy Ann |
 | 496 | 103 | Glitzy Grid |
 | 497 | 102 | Kelly Holland |
 | 498 | 102 | osodabear |

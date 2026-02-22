@@ -190,8 +190,8 @@
 | 182 | 1141 | Adam Erikson |
 | 183 | 1138 | Megan Ferguson Leone |
 | 184 | 1132 | Anna Edwards |
-| 185 | 1131 | Prado |
-| 186 | 1131 | Stacey Clement |
+| 185 | 1131 | Stacey Clement |
+| 186 | 1131 | Prado |
 | 187 | 1117 | Ricardo Burton |
 | 188 | 1105 | Nerdy Clearfit |
 | 189 | 1103 | William Meussner |
@@ -417,8 +417,8 @@
 | 409 | 613 | Caitlyn Blackwell |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
-| 412 | 602 | KhaosLord |
-| 413 | 602 | Shaun Church |
+| 412 | 602 | Shaun Church |
+| 413 | 602 | KhaosLord |
 | 414 | 601 | Moua Ying |
 | 415 | 600 | Arkei Luster |
 | 416 | 599 | Nashu |
@@ -633,13 +633,13 @@
 | 625 | 420 | Kacee Conrad Bock |
 | 626 | 419 | Pocho Zavala |
 | 627 | 419 | Josh Dill |
-| 628 | 419 | Pocho Zavala |
+| 628 | 419 | Frilly Fallzone |
 | 629 | 418 | Dawn L Washington-Feuquay |
 | 630 | 417 | Lauren Fitzgerald Thomas |
-| 631 | 417 | Oscar Bernie |
-| 632 | 417 | Alexx Anaya |
-| 633 | 416 | Ricky Fortune |
-| 634 | 416 | Mo Shine On |
+| 631 | 417 | Alexx Anaya |
+| 632 | 417 | Oscar Bernie |
+| 633 | 416 | Mo Shine On |
+| 634 | 416 | Ricky Fortune |
 | 635 | 414 | Daniel Amos |
 | 636 | 414 | John |
 | 637 | 414 | Ebony Deloach Bryant |
