@@ -174,9 +174,9 @@
 | 166 | 376 | Loopy Clusterer |
 | 167 | 374 | Sherry Ogden |
 | 168 | 371 | Michael Nowogorski |
-| 169 | 370 | Santeria Trece Candles |
-| 170 | 370 | Logan Naccarato |
-| 171 | 370 | Danielle Allison |
+| 169 | 370 | Logan Naccarato |
+| 170 | 370 | Danielle Allison |
+| 171 | 370 | Santeria Trece Candles |
 | 172 | 368 | Stephanie Woods |
 | 173 | 366 | Adrian Marcel Pate |
 | 174 | 362 | Darlene McMillan |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Cozy Snaplink |
-| 271 | 225 | Dirtgirl27 |
+| 270 | 225 | Dirtgirl27 |
+| 271 | 225 | Cozy Snaplink |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Alice |
@@ -321,8 +321,8 @@
 | 313 | 192 | Ryan Williams |
 | 314 | 192 | Kelly Ann Child |
 | 315 | 191 | Philip Rock |
-| 316 | 189 | Katie Leigh Blankenship |
-| 317 | 189 | France Vézina |
+| 316 | 189 | France Vézina |
+| 317 | 189 | Katie Leigh Blankenship |
 | 318 | 188 | Loopy Fallmatch |
 | 319 | 187 | Tipsy Zonebuilder |
 | 320 | 186 | Sameerah Smith |
@@ -330,10 +330,10 @@
 | 322 | 183 | Cesar Barraza |
 | 323 | 182 | Melanie Sherwood |
 | 324 | 181 | Denita Mungro |
-| 325 | 180 | Beth Ingham |
-| 326 | 180 | Criss |
-| 327 | 179 | DanceLuvLaugh |
-| 328 | 179 | Christian Werndl |
+| 325 | 180 | Criss |
+| 326 | 180 | Beth Ingham |
+| 327 | 179 | Christian Werndl |
+| 328 | 179 | DanceLuvLaugh |
 | 329 | 179 | Rachel Napper |
 | 330 | 178 | Jess Dearborn |
 | 331 | 178 | Jennifer Alvey |
@@ -342,8 +342,8 @@
 | 334 | 175 | Eileen Brady Thurber |
 | 335 | 175 | Becca Engle |
 | 336 | 174 | Lesley Perez |
-| 337 | 173 | BŘŰŤİÇŨŚ |
-| 338 | 173 | Naur |
+| 337 | 173 | Naur |
+| 338 | 173 | BŘŰŤİÇŨŚ |
 | 339 | 170 | Tina Smith Roy |
 | 340 | 169 | Kristian Thurman |
 | 341 | 169 | Peachy Rollfit |
@@ -619,8 +619,8 @@
 | 611 | 98 | Adrea Ann |
 | 612 | 98 | Christine Vosburgh |
 | 613 | 97 | Daisy Rocha |
-| 614 | 97 | Rebecca Lynn |
-| 615 | 97 | Tina Baurdau |
+| 614 | 97 | Tina Baurdau |
+| 615 | 97 | Rebecca Lynn |
 | 616 | 96 | D3NO |
 | 617 | 96 | Swanky Snapclear |
 | 618 | 96 | Jason |

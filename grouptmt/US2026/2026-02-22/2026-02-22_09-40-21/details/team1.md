@@ -95,8 +95,8 @@
 | 87 | 388 | Jennifer ManWarren |
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
-| 90 | 379 | Austin James |
-| 91 | 379 | Kimmie Kimms |
+| 90 | 379 | Kimmie Kimms |
+| 91 | 379 | Austin James |
 | 92 | 379 | Nerdy Linkblock |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
@@ -132,8 +132,8 @@
 | 124 | 294 | Chelsea Dahlquist |
 | 125 | 290 | Death |
 | 126 | 285 | Ananda Mendez |
-| 127 | 284 | Rachael |
-| 128 | 284 | Emily Adelaide Wheatley |
+| 127 | 284 | Emily Adelaide Wheatley |
+| 128 | 284 | Rachael |
 | 129 | 283 | Franswa |
 | 130 | 282 | Snippy Wipebuilder |
 | 131 | 282 | Cool Shiftsnap |
@@ -279,10 +279,10 @@
 | 271 | 144 | Toph |
 | 272 | 144 | Miguel Teixeira |
 | 273 | 143 | Herm Junior |
-| 274 | 143 | Guest |
-| 275 | 143 | Chantelle Ceno |
-| 276 | 142 | Uhog SF |
-| 277 | 142 | Jerry Danowski |
+| 274 | 143 | Chantelle Ceno |
+| 275 | 143 | Guest |
+| 276 | 142 | Jerry Danowski |
+| 277 | 142 | Uhog SF |
 | 278 | 141 | Kayla Marie Stevenson |
 | 279 | 139 | Chris K |
 | 280 | 139 | Aimee Horton |

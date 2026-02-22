@@ -249,9 +249,9 @@
 | 241 | 777 | Tesha Oldaker |
 | 242 | 777 | Barbra Miller |
 | 243 | 777 | Eric Carlson |
-| 244 | 772 | Stephen Stephen |
+| 244 | 772 | William Hunt |
 | 245 | 772 | Sam Joe |
-| 246 | 772 | William Hunt |
+| 246 | 772 | Stephen Stephen |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -799,8 +799,8 @@
 | 791 | 279 | Laura Wyatt |
 | 792 | 278 | AndrewandShela Gornik |
 | 793 | 278 | Katherin Camacho |
-| 794 | 277 | Brianna Cerney |
-| 795 | 277 | Anthony Mignacca |
+| 794 | 277 | Anthony Mignacca |
+| 795 | 277 | Brianna Cerney |
 | 796 | 277 | Amanda Chamberlain |
 | 797 | 277 | Min |
 | 798 | 276 | Dandy Combo |
@@ -875,12 +875,12 @@
 | 867 | 258 | Warren Marleau |
 | 868 | 258 | Jo Nicole |
 | 869 | 258 | Joy LaJeunesse |
-| 870 | 258 | Shylee Tilman |
-| 871 | 258 | Mordoks Pyrography |
+| 870 | 258 | Mordoks Pyrography |
+| 871 | 258 | Shylee Tilman |
 | 872 | 258 | Tee Jaleesa |
 | 873 | 257 | Mama T |
-| 874 | 257 | Jackie Jackie Lee |
-| 875 | 257 | Ys Muhammed |
+| 874 | 257 | Ys Muhammed |
+| 875 | 257 | Jackie Jackie Lee |
 | 876 | 256 | Nikki Vaughn |
 | 877 | 256 | Monarca26 |
 | 878 | 256 | Brenna Yearian |
@@ -916,8 +916,8 @@
 | 908 | 248 | Angelina Marie |
 | 909 | 248 | CleverAngel |
 | 910 | 248 | Jaybee Nguyen |
-| 911 | 247 | Wizz |
-| 912 | 247 | Karyn Yurcho Dooley |
+| 911 | 247 | Karyn Yurcho Dooley |
+| 912 | 247 | Wizz |
 | 913 | 246 | Laura McConnell |
 | 914 | 246 | Stacey Tranchida |
 | 915 | 245 | Jessica Conaway |

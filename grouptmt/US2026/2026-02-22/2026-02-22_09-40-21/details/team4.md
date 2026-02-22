@@ -56,8 +56,8 @@
 | 48 | 695 | LisaJo Picken Buchanan |
 | 49 | 677 | Anthony Bryan Riva |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -185,8 +185,8 @@
 | 177 | 204 | Jen Caldwell |
 | 178 | 203 | Katherine Crane |
 | 179 | 202 | TRCuse |
-| 180 | 201 | Chance Strickland |
-| 181 | 201 | Melvin Baird |
+| 180 | 201 | Melvin Baird |
+| 181 | 201 | Chance Strickland |
 | 182 | 200 | Laura |
 | 183 | 199 | Zethra Prenisha Rahming |
 | 184 | 198 | Jessica Lynn Cutlip |
@@ -215,8 +215,8 @@
 | 207 | 179 | blockstar |
 | 208 | 178 | TinyLegoRose |
 | 209 | 175 | Lorena Guerrero-Barron |
-| 210 | 174 | JPW |
-| 211 | 174 | Rio Rocha |
+| 210 | 174 | Rio Rocha |
+| 211 | 174 | JPW |
 | 212 | 172 | Gilles Lanctot |
 | 213 | 171 | Autumn Kumzi |
 | 214 | 167 | Cozy Balancer |
@@ -264,7 +264,7 @@
 | 256 | 143 | Dennis Bradley |
 | 257 | 142 | Angela Geist Jusinski |
 | 258 | 142 | Cynthia Boudreau |
-| 259 | 142 | Patron Anderson |
+| 259 | 142 | Stephme310 |
 | 260 | 142 | Chaz |
 | 261 | 142 | Victoria Faniel |
 | 262 | 142 | Nerdy Twisterfit |
