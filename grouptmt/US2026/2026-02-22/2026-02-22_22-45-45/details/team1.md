@@ -86,8 +86,8 @@
 | 78 | 535 | Denice Dee |
 | 79 | 534 | Cynthia Bradley |
 | 80 | 522 | Robert Benito |
-| 81 | 519 | Greg Hart |
-| 82 | 519 | Ryan Lunnin |
+| 81 | 519 | Ryan Lunnin |
+| 82 | 519 | Greg Hart |
 | 83 | 510 | Colena Davenport |
 | 84 | 501 | Nancy Green |
 | 85 | 496 | Sarah Lombardo |
@@ -142,8 +142,8 @@
 | 134 | 376 | And |
 | 135 | 364 | Shauna Loe |
 | 136 | 363 | Sharon Reynolds |
-| 137 | 360 | phrmblk24 |
-| 138 | 360 | Wisa |
+| 137 | 360 | Wisa |
+| 138 | 360 | phrmblk24 |
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
 | 141 | 352 | Jason Savage |
@@ -154,8 +154,8 @@
 | 146 | 343 | Tanya Carpenter-Reynolds |
 | 147 | 341 | Nick R Montague |
 | 148 | 336 | Elaine Elaine |
-| 149 | 334 | Fmp |
-| 150 | 334 | Jaimie Lynn |
+| 149 | 334 | Jaimie Lynn |
+| 150 | 334 | Fmp |
 | 151 | 333 | Gracie |
 | 152 | 333 | GATOR |
 | 153 | 332 | Lehrin Maria |
@@ -197,8 +197,8 @@
 | 189 | 279 | Tana |
 | 190 | 277 | Nutty Spinblock |
 | 191 | 277 | Christy Jones |
-| 192 | 276 | Shiny Snapfit |
-| 193 | 276 | Damon J. Martin |
+| 192 | 276 | Damon J. Martin |
+| 193 | 276 | Shiny Snapfit |
 | 194 | 273 | Shannon Marie Pitts |
 | 195 | 272 | Sleepysloath5745 |
 | 196 | 270 | Mandyy Rae |

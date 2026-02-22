@@ -301,8 +301,8 @@
 | 293 | 860 | Carl Bradshaw |
 | 294 | 858 | Porsche' Nicole |
 | 295 | 857 | Kara Gillen |
-| 296 | 856 | Mighty Shatterfit |
-| 297 | 856 | Jojo Momma |
+| 296 | 856 | Jojo Momma |
+| 297 | 856 | Mighty Shatterfit |
 | 298 | 853 | Meghan M |
 | 299 | 848 | Elizabeth Wilbanks |
 | 300 | 846 | Binyah-Binyah |
@@ -361,8 +361,8 @@
 | 353 | 743 | Tiara Elizabeth Baker |
 | 354 | 741 | Mandi Douglas Hilt |
 | 355 | 740 | Jerry Tempelmeyer |
-| 356 | 739 | Jánine Riggs |
-| 357 | 739 | Brenda Utphall |
+| 356 | 739 | Brenda Utphall |
+| 357 | 739 | Jánine Riggs |
 | 358 | 738 | Aimee Campbell |
 | 359 | 737 | Jeremy Parodi |
 | 360 | 737 | Ginger |
@@ -503,8 +503,8 @@
 | 495 | 557 | Victor Obiakarije |
 | 496 | 554 | Rachael Senard |
 | 497 | 554 | Dizzy Zone |
-| 498 | 554 | Tra Barnum |
-| 499 | 554 | Laquetta Royston |
+| 498 | 554 | Laquetta Royston |
+| 499 | 554 | Tra Barnum |
 | 500 | 552 | Crystal Elam |
 | 501 | 551 | Cynthia Louann Rose |
 | 502 | 550 | Frilly Fallzone |
@@ -523,8 +523,8 @@
 | 515 | 536 | Ann Knutson Anderson |
 | 516 | 533 | Davetta Sanford |
 | 517 | 532 | Belle Mari |
-| 518 | 531 | Aishah Brice |
-| 519 | 531 | Briana Alexander |
+| 518 | 531 | Briana Alexander |
+| 519 | 531 | Aishah Brice |
 | 520 | 531 | Koa N Sharon Chen |
 | 521 | 529 | Victoria Regina Girolami |
 | 522 | 528 | Arlene Joy Belicina |
@@ -582,8 +582,8 @@
 | 574 | 483 | Kyle LeRoy Harris |
 | 575 | 482 | Drwatson187 |
 | 576 | 482 | Kathleen Driskell |
-| 577 | 482 | Lina Sanders |
-| 578 | 482 | Amélie Cadieux |
+| 577 | 482 | Amélie Cadieux |
+| 578 | 482 | Lina Sanders |
 | 579 | 480 | Ryan Meilleur |
 | 580 | 480 | Brandon Jones |
 | 581 | 480 | Dar |
@@ -592,8 +592,8 @@
 | 584 | 478 | Christina Ashley |
 | 585 | 477 | Juanita Lyons |
 | 586 | 476 | Chummy Blockbuilder |
-| 587 | 476 | Cecilia A Jenkins |
-| 588 | 476 | Ashlee Cruz |
+| 587 | 476 | Ashlee Cruz |
+| 588 | 476 | Cecilia A Jenkins |
 | 589 | 476 | Kiana Boschh |
 | 590 | 475 | Lee Harper |
 | 591 | 475 | Mia Muse Best |
@@ -706,8 +706,8 @@
 | 698 | 409 | Alexis Richardson |
 | 699 | 408 | Qiana Sanders |
 | 700 | 407 | Tipsy Filler |
-| 701 | 406 | Erin StFrancis |
-| 702 | 406 | Jess Morrison |
+| 701 | 406 | Jess Morrison |
+| 702 | 406 | Erin StFrancis |
 | 703 | 404 | Julie Hamilton |
 | 704 | 403 | Matthew Joseph Acevedo |
 | 705 | 403 | Nate Skidmore |
@@ -731,8 +731,8 @@
 | 723 | 397 | Dawn Woosley Bowes |
 | 724 | 396 | Candy Pitts |
 | 725 | 396 | Cassie Newton |
-| 726 | 395 | Susan Arnburg |
-| 727 | 395 | Vung Nguyen |
+| 726 | 395 | Vung Nguyen |
+| 727 | 395 | Susan Arnburg |
 | 728 | 394 | Christina Jarvis-Swarbrick |
 | 729 | 393 | Jamie West |
 | 730 | 391 | Jessica Conaway |
@@ -851,8 +851,8 @@
 | 843 | 347 | Zesty Pivot |
 | 844 | 347 | Ethan Stienbarger |
 | 845 | 346 | Kristina Marie Hanna |
-| 846 | 346 | Zappy Dropmatch |
-| 847 | 346 | bru |
+| 846 | 346 | bru |
+| 847 | 346 | Zappy Dropmatch |
 | 848 | 346 | Luke Califf |
 | 849 | 345 | Rhianna DiLorenzo |
 | 850 | 345 | Jennie Lee Huntley |
@@ -867,10 +867,10 @@
 | 859 | 342 | Patrick Fleming |
 | 860 | 341 | Angela Yantz |
 | 861 | 341 | Robin L. Vial |
-| 862 | 340 | Maxwell Escalera |
-| 863 | 340 | Iris Angelica Perez Cantos |
-| 864 | 339 | Giggly Snap |
-| 865 | 339 | Lively Piecebuilder |
+| 862 | 340 | Iris Angelica Perez Cantos |
+| 863 | 340 | Maxwell Escalera |
+| 864 | 339 | Lively Piecebuilder |
+| 865 | 339 | Giggly Snap |
 | 866 | 339 | Jennifer Coe |
 | 867 | 338 | MamaBear11 |
 | 868 | 338 | Adrian Benitez |
