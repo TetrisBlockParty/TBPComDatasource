@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 559 | Morgan Martinez |
 | 100 | 549 | Nicole Myers |
 | 101 | 548 | Dave Herzog |
@@ -143,14 +143,14 @@
 | 135 | 409 | Karon Griffin |
 | 136 | 407 | Joye Sims Binion |
 | 137 | 405 | Michelle |
-| 138 | 403 | Christine Filson |
-| 139 | 403 | Scott Lindsay |
+| 138 | 403 | Scott Lindsay |
+| 139 | 403 | Christine Filson |
 | 140 | 402 | Shannon Matthew Byers |
 | 141 | 401 | Katie Knaus |
 | 142 | 400 | Luciana Braganca Vieira |
 | 143 | 400 | Aaron Pitkin |
-| 144 | 399 | Marcie Bressler |
-| 145 | 399 | Mcathen |
+| 144 | 399 | Mcathen |
+| 145 | 399 | Marcie Bressler |
 | 146 | 397 | Annie Déè |
 | 147 | 392 | Tasha Gillespie |
 | 148 | 391 | Calista Jo Dickson |
@@ -262,8 +262,8 @@
 | 254 | 223 | Connie Mohler-Fair |
 | 255 | 222 | Charles Perrone |
 | 256 | 221 | Vaners |
-| 257 | 221 | Jaime Monhaut-Reed |
-| 258 | 221 | Alice |
+| 257 | 221 | Alice |
+| 258 | 221 | Jaime Monhaut-Reed |
 | 259 | 219 | Sissy Lowery Davis |
 | 260 | 218 | Michael Lucado |
 | 261 | 217 | rosy |
@@ -554,8 +554,8 @@
 | 546 | 99 | Erin Ervin |
 | 547 | 99 | Elyse Grabowsky |
 | 548 | 99 | Gimmegimmebeer |
-| 549 | 99 | joz |
-| 550 | 99 | Todd Hall |
+| 549 | 99 | Todd Hall |
+| 550 | 99 | joz |
 | 551 | 98 | Katie Morton |
 | 552 | 98 | Adrea Ann |
 | 553 | 98 | Jocelyne Baca |

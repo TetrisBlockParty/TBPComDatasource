@@ -142,8 +142,8 @@
 | 134 | 249 | Leah Kutz Zirbel |
 | 135 | 245 | Diana Houts |
 | 136 | 242 | Erin Thomas |
-| 137 | 240 | Jolly Dashfit |
-| 138 | 240 | Peachy Fall |
+| 137 | 240 | Peachy Fall |
+| 138 | 240 | Jolly Dashfit |
 | 139 | 236 | Chastity Mitchell |
 | 140 | 235 | Eric Mcgaughy |
 | 141 | 232 | Crystal Nicolette Moore |
@@ -198,18 +198,18 @@
 | 190 | 184 | Ak Jones |
 | 191 | 181 | Alan George LaRage |
 | 192 | 181 | Carter Jones |
-| 193 | 180 | Orchislactea |
-| 194 | 180 | Rafael Valentin |
+| 193 | 180 | Rafael Valentin |
+| 194 | 180 | Orchislactea |
 | 195 | 179 | blockstar |
 | 196 | 174 | Dihcheese444 |
 | 197 | 172 | Gilles Lanctot |
 | 198 | 171 | Autumn Kumzi |
 | 199 | 168 | TinyLegoRose |
 | 200 | 167 | Cozy Balancer |
-| 201 | 166 | SammieJo Guy |
-| 202 | 166 | Marvin Lou Martin |
-| 203 | 165 | Jackie Marie |
-| 204 | 165 | James Hurley Jr. |
+| 201 | 166 | Marvin Lou Martin |
+| 202 | 166 | SammieJo Guy |
+| 203 | 165 | James Hurley Jr. |
+| 204 | 165 | Jackie Marie |
 | 205 | 164 | 030Synner |
 | 206 | 163 | Kristina Black |
 | 207 | 162 | Joanna |
