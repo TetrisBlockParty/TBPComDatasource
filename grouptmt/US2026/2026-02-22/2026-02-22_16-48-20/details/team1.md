@@ -180,8 +180,8 @@
 | 172 | 264 | Brian Richardsson |
 | 173 | 263 | Ty Brown |
 | 174 | 261 | Witty Builderfit |
-| 175 | 254 | Al Smith Jr |
-| 176 | 254 | Letson Melissa |
+| 175 | 254 | Letson Melissa |
+| 176 | 254 | Al Smith Jr |
 | 177 | 253 | Jamie Jury |
 | 178 | 252 | Billie Dawn Sparks |
 | 179 | 252 | Dena Kayy |
@@ -274,7 +274,7 @@
 | 266 | 182 | Phu ckalldems |
 | 267 | 181 | David DeSantis |
 | 268 | 180 | Beau Galvan |
-| 269 | 180 | Mel Hogan |
+| 269 | 180 | BigWeenie69 |
 | 270 | 180 | Matt Iaccheo |
 | 271 | 179 | Danielle Little-Daugherty |
 | 272 | 179 | Ryan White |

@@ -626,8 +626,8 @@
 | 618 | 407 | Tipsy Filler |
 | 619 | 406 | Erin StFrancis |
 | 620 | 404 | Dawn L Washington-Feuquay |
-| 621 | 403 | Goofy Dasher |
-| 622 | 403 | Nate Skidmore |
+| 621 | 403 | Nate Skidmore |
+| 622 | 403 | Goofy Dasher |
 | 623 | 401 | Jasmine Kenney |
 | 624 | 400 | Kathleen Driskell |
 | 625 | 400 | Tammy Allen |
@@ -1466,8 +1466,8 @@
 | 1458 | 181 | Jake |
 | 1459 | 181 | Scott Rackley |
 | 1460 | 181 | Michael Keim |
-| 1461 | 181 | Charming Leech |
-| 1462 | 181 | ScubaSteve |
+| 1461 | 181 | ScubaSteve |
+| 1462 | 181 | Charming Leech |
 | 1463 | 181 | Long Tran |
 | 1464 | 180 | Kristin King |
 | 1465 | 180 | cornball |

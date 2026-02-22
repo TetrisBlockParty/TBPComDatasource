@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -277,8 +277,8 @@
 | 269 | 165 | Zappy Buildgrid |
 | 270 | 164 | KimoKoala |
 | 271 | 163 | Ellen Durfee |
-| 272 | 162 | John Brunetti |
-| 273 | 162 | Gwendolyn Pitcairn |
+| 272 | 162 | Gwendolyn Pitcairn |
+| 273 | 162 | John Brunetti |
 | 274 | 162 | conceptCollector |
 | 275 | 161 | Twisty Risebuilder |
 | 276 | 161 | Tanner Lund |
@@ -516,14 +516,14 @@
 | 508 | 90 | Laurie McGregor |
 | 509 | 89 | Shiny Fit |
 | 510 | 89 | Jonathan Mahfood |
-| 511 | 88 | Joe Lonnemann |
-| 512 | 88 | Eric Wren |
+| 511 | 88 | April Spoelma |
+| 512 | 88 | Joe Lonnemann |
 | 513 | 88 | Renee Marshall |
-| 514 | 88 | April Spoelma |
+| 514 | 88 | Eric Wren |
 | 515 | 88 | Chao Ma |
 | 516 | 87 | Derek Pendarvis |
 | 517 | 87 | Martha Lucinda Bishop |
-| 518 | 86 | amy |
+| 518 | 86 | Destiney Carter |
 | 519 | 86 | Tamika Starkey |
 | 520 | 86 | amy |
 | 521 | 86 | Cassandra Stewart |

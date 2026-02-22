@@ -276,8 +276,8 @@
 | 268 | 266 | Snappy Balancer |
 | 269 | 264 | Nikki Pags |
 | 270 | 263 | Brenda Schmid Wood |
-| 271 | 262 | Ray Lader |
-| 272 | 262 | Joe-Maggie Mathews |
+| 271 | 262 | Joe-Maggie Mathews |
+| 272 | 262 | Ray Lader |
 | 273 | 261 | Tiffany Ford |
 | 274 | 260 | Grams |
 | 275 | 259 | Michael Johnson |
@@ -349,13 +349,13 @@
 | 341 | 209 | Micayah Stevens |
 | 342 | 209 | Philip Rock |
 | 343 | 208 | AlsoJess |
-| 344 | 207 | angieelyn |
-| 345 | 207 | Kristian Thurman |
+| 344 | 207 | Kristian Thurman |
+| 345 | 207 | angieelyn |
 | 346 | 207 | Daring Builder |
 | 347 | 206 | Tammy Rosenberry |
 | 348 | 205 | Rachel Napper |
-| 349 | 205 | Kirhonda Autmon |
-| 350 | 205 | Ashley Lynn Marchese |
+| 349 | 205 | Ashley Lynn Marchese |
+| 350 | 205 | Kirhonda Autmon |
 | 351 | 204 | Cesar Barraza |
 | 352 | 203 | Eric Caccavale |
 | 353 | 202 | Tipsy Zonebuilder |
@@ -388,8 +388,8 @@
 | 380 | 186 | Noettín Kan Zasnemoore |
 | 381 | 186 | Bryan Byrd |
 | 382 | 186 | Sameerah Smith |
-| 383 | 185 | Frilly Stackzone |
-| 384 | 185 | Angella Lyons |
+| 383 | 185 | Angella Lyons |
+| 384 | 185 | Frilly Stackzone |
 | 385 | 184 | Shanon R Jackson |
 | 386 | 184 | Salena Whitlock |
 | 387 | 183 | Smiley Zone |
@@ -511,7 +511,7 @@
 | 503 | 142 | Amanda Declue |
 | 504 | 141 | Giggy Glidepiece |
 | 505 | 141 | Reina Roth |
-| 506 | 141 | Giggy Glidepiece |
+| 506 | 141 | Heather Bateman |
 | 507 | 141 | Autumn Phillimore |
 | 508 | 141 | Bhreagh Gentile |
 | 509 | 141 | Jen Lewis |
@@ -651,7 +651,7 @@
 | 643 | 111 | Valerie Tarkington |
 | 644 | 111 | Erin Marie Smith |
 | 645 | 110 | Johnathan Dowe |
-| 646 | 110 | Angela VanOstrand |
+| 646 | 110 | Michael Pleasant |
 | 647 | 110 | Bree Sexton |
 | 648 | 110 | Angela VanOstrand |
 | 649 | 110 | Jennifer Palermo |
