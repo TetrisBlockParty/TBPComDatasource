@@ -583,8 +583,8 @@
 | 575 | 400 | Joshua Self |
 | 576 | 400 | Tammy Allen |
 | 577 | 400 | Kathleen Driskell |
-| 578 | 399 | Jennifer Scott |
-| 579 | 399 | Oscar Bernie |
+| 578 | 399 | Oscar Bernie |
+| 579 | 399 | Jennifer Scott |
 | 580 | 398 | Crystal Heller Gonzalez |
 | 581 | 396 | Candy Pitts |
 | 582 | 396 | AkaLefty |
@@ -674,8 +674,8 @@
 | 666 | 350 | Fi Ne |
 | 667 | 350 | Maria Hammett |
 | 668 | 350 | Kyla Louise |
-| 669 | 348 | Richard Horton |
-| 670 | 348 | Peppy Snapfall |
+| 669 | 348 | Peppy Snapfall |
+| 670 | 348 | Richard Horton |
 | 671 | 348 | Kelly Meredeith |
 | 672 | 347 | Zesty Pivot |
 | 673 | 347 | CC |
@@ -812,8 +812,8 @@
 | 804 | 285 | Court |
 | 805 | 284 | Bing |
 | 806 | 284 | Candice Mack |
-| 807 | 284 | Alison Emmons |
-| 808 | 284 | Hillary Franklin |
+| 807 | 284 | Hillary Franklin |
+| 808 | 284 | Alison Emmons |
 | 809 | 282 | Nutty Slice |
 | 810 | 281 | Amy McManus |
 | 811 | 281 | Anthony |
@@ -822,8 +822,8 @@
 | 814 | 280 | Luke Califf |
 | 815 | 280 | Jay Levy |
 | 816 | 280 | Sandra Link-Gable |
-| 817 | 279 | Loony Basepiece |
-| 818 | 279 | Jennifer Coe |
+| 817 | 279 | Jennifer Coe |
+| 818 | 279 | Loony Basepiece |
 | 819 | 279 | Katherin Camacho |
 | 820 | 279 | Laura Wyatt |
 | 821 | 278 | AndrewandShela Gornik |

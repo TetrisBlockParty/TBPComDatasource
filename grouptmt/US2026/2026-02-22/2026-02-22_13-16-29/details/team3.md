@@ -112,8 +112,8 @@
 | 104 | 568 | Rachael McClain Owens |
 | 105 | 566 | Dolores Falco |
 | 106 | 565 | Patty Allen |
-| 107 | 562 | Dave Herzog |
-| 108 | 562 | Louise Stacy Sisson |
+| 107 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Dave Herzog |
 | 109 | 559 | Morgan Martinez |
 | 110 | 549 | Nicole Myers |
 | 111 | 549 | Shari Garber |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Marcie Bressler |
-| 161 | 399 | Mcathen |
+| 160 | 399 | Mcathen |
+| 161 | 399 | Marcie Bressler |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
@@ -174,13 +174,13 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Chris Bell |
-| 170 | 378 | Nicole Flippo |
+| 169 | 378 | Nicole Flippo |
+| 170 | 378 | Chris Bell |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
 | 174 | 371 | Michael Nowogorski |
-| 175 | 370 | Dapper Snap |
+| 175 | 370 | Danielle Allison |
 | 176 | 370 | Santeria Trece Candles |
 | 177 | 370 | Dapper Snap |
 | 178 | 368 | Stephanie Woods |
@@ -198,8 +198,8 @@
 | 190 | 347 | Jone |
 | 191 | 343 | Ashley Raines |
 | 192 | 343 | Tamara Deherrera |
-| 193 | 341 | Noyb Adam |
-| 194 | 341 | Samantha Lynn |
+| 193 | 341 | Samantha Lynn |
+| 194 | 341 | Noyb Adam |
 | 195 | 339 | Rochelle Hazelett |
 | 196 | 338 | Gumbo |
 | 197 | 332 | Rich LeBlanc |
@@ -280,8 +280,8 @@
 | 272 | 232 | Donna |
 | 273 | 227 | Krystal Gerstberger |
 | 274 | 227 | Meowsa |
-| 275 | 225 | Stephanie Hill |
-| 276 | 225 | Dirtgirl27 |
+| 275 | 225 | Dirtgirl27 |
+| 276 | 225 | Stephanie Hill |
 | 277 | 225 | Steffi Chris Dacones |
 | 278 | 224 | Quirky Dropzone |
 | 279 | 221 | Vaners |

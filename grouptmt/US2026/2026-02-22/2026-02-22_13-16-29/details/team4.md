@@ -143,8 +143,8 @@
 | 135 | 286 | shark tato |
 | 136 | 283 | Brittney Orengo |
 | 137 | 281 | Meagan Nicole |
-| 138 | 278 | Carrie Brian |
-| 139 | 278 | Desi Desporte |
+| 138 | 278 | Desi Desporte |
+| 139 | 278 | Carrie Brian |
 | 140 | 277 | Mary Ann Pabukis |
 | 141 | 275 | Dizzy Tiley |
 | 142 | 274 | Calvin Cannon |
@@ -434,7 +434,7 @@
 | 426 | 98 | Brenda Bird |
 | 427 | 97 | Cool Gridzone |
 | 428 | 97 | Serena Butter |
-| 429 | 97 | Cool Gridzone |
+| 429 | 97 | Brandon Crabbs |
 | 430 | 96 | Rebecca Blake |
 | 431 | 96 | Chummy Towerzone |
 | 432 | 95 | Susan Williams |
