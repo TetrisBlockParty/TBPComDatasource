@@ -114,8 +114,8 @@
 | 106 | 319 | Deanna L Hermanson |
 | 107 | 319 | Patrick Luckenbill |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Jason Jones |
-| 110 | 310 | Seth Wesson |
+| 109 | 310 | Seth Wesson |
+| 110 | 310 | Jason Jones |
 | 111 | 306 | Happy Basegrid |
 | 112 | 304 | Nicole Roseberry Weber |
 | 113 | 304 | phrmblk24 |
@@ -172,13 +172,13 @@
 | 164 | 210 | Ash Galvan |
 | 165 | 210 | Giggly Builderline |
 | 166 | 208 | Bouncy Grid |
-| 167 | 207 | Leslie Bush Yarbrough |
-| 168 | 207 | Brenda Alexander |
+| 167 | 207 | Brenda Alexander |
+| 168 | 207 | Leslie Bush Yarbrough |
 | 169 | 206 | BadG52 |
 | 170 | 205 | Tater |
 | 171 | 204 | Lacy Wolfe |
-| 172 | 203 | LaFontaine Leslie |
-| 173 | 203 | Paula Martin |
+| 172 | 203 | Paula Martin |
+| 173 | 203 | LaFontaine Leslie |
 | 174 | 201 | Sam Williams |
 | 175 | 199 | Basment Living |
 | 176 | 198 | Shiny Gridmatch |

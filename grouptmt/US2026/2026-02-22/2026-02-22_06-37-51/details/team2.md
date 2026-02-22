@@ -545,8 +545,8 @@
 | 537 | 384 | Party d |
 | 538 | 384 | Mike Aprilliano |
 | 539 | 383 | Belle Mari |
-| 540 | 382 | KhaosLord |
-| 541 | 382 | David Holliday |
+| 540 | 382 | David Holliday |
+| 541 | 382 | KhaosLord |
 | 542 | 381 | Melissa Rebbe-Lehman |
 | 543 | 381 | Jessica S Flecha |
 | 544 | 381 | Nicky Jackson |
