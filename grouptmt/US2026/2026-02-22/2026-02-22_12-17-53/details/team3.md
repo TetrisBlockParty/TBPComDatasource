@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Rochelle Hazelett |
-| 203 | 311 | Araceli Parra |
+| 202 | 311 | Araceli Parra |
+| 203 | 311 | Rochelle Hazelett |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -257,8 +257,8 @@
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
 | 251 | 257 | Ashley Jones |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 250 | fraulila |
 | 255 | 249 | Annie Marie |
 | 256 | 249 | JerseyJess |
@@ -292,21 +292,21 @@
 | 284 | 216 | Cheryl Hinch Tenbrook |
 | 285 | 216 | Twisty Brick LT |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Amy Fuller Heaton |
-| 288 | 214 | Angela Scott |
+| 287 | 214 | Angela Scott |
+| 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Sunny Rotater |
 | 292 | 212 | Desiree Gold |
-| 293 | 211 | El Chapa |
-| 294 | 211 | Velma Mull |
-| 295 | 211 | Khaleada McGill Banks |
-| 296 | 210 | Lizabeth Fox |
-| 297 | 210 | Criss |
+| 293 | 211 | Khaleada McGill Banks |
+| 294 | 211 | El Chapa |
+| 295 | 211 | Velma Mull |
+| 296 | 210 | Criss |
+| 297 | 210 | Lizabeth Fox |
 | 298 | 209 | Micayah Stevens |
 | 299 | 208 | AlsoJess |
-| 300 | 207 | Daring Builder |
-| 301 | 207 | Jessica |
+| 300 | 207 | Jessica |
+| 301 | 207 | Daring Builder |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
 | 304 | 206 | Tracy Martin |
@@ -352,8 +352,8 @@
 | 344 | 178 | Jess Dearborn |
 | 345 | 178 | Jennifer Alvey |
 | 346 | 177 | Kristin Delibac Corrigan |
-| 347 | 176 | Melissa Orth Hunter |
-| 348 | 176 | Emma |
+| 347 | 176 | Emma |
+| 348 | 176 | Melissa Orth Hunter |
 | 349 | 175 | Eileen Brady Thurber |
 | 350 | 174 | Lesley Perez |
 | 351 | 173 | Naur |

@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -97,8 +97,8 @@
 | 89 | 388 | Jennifer ManWarren |
 | 90 | 383 | Loony Fitzone |
 | 91 | 382 | Jacqueline Williams |
-| 92 | 379 | Kimmie Kimms |
-| 93 | 379 | Austin James |
+| 92 | 379 | Austin James |
+| 93 | 379 | Kimmie Kimms |
 | 94 | 376 | lil mickey |
 | 95 | 374 | Tinah Montanna |
 | 96 | 372 | Tdub |
@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Brandi Huntington |
-| 110 | 333 | Gracie |
+| 109 | 333 | Gracie |
+| 110 | 333 | Brandi Huntington |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -177,28 +177,28 @@
 | 169 | 230 | Mike Ames |
 | 170 | 229 | David Lutcher |
 | 171 | 229 | Chris K |
-| 172 | 226 | Sleepysloath5745 |
-| 173 | 226 | Kandae |
+| 172 | 226 | Kandae |
+| 173 | 226 | Sleepysloath5745 |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
 | 176 | 217 | Kimberly Garcia |
 | 177 | 217 | ParisandCory Champagne |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
-| 184 | 210 | Giggly Builderline |
-| 185 | 210 | Letson Melissa |
+| 184 | 210 | Letson Melissa |
+| 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -230,8 +230,8 @@
 | 222 | 187 | Jessica Weed |
 | 223 | 186 | Margo Wagner |
 | 224 | 184 | Chris Sigurdson |
-| 225 | 183 | Andrew Boone |
-| 226 | 183 | Amy Hess |
+| 225 | 183 | Amy Hess |
+| 226 | 183 | Andrew Boone |
 | 227 | 182 | Phu ckalldems |
 | 228 | 180 | BigWeenie69 |
 | 229 | 180 | Jessie Lynn |

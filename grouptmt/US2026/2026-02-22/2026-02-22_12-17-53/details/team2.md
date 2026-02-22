@@ -486,9 +486,9 @@
 | 478 | 465 | Davetta Sanford |
 | 479 | 464 | snkylnk |
 | 480 | 464 | Kiana Boschh |
-| 481 | 463 | Jaye EL Hunter |
-| 482 | 463 | Sue Leard |
-| 483 | 463 | Cody Nishimura |
+| 481 | 463 | Sue Leard |
+| 482 | 463 | Cody Nishimura |
+| 483 | 463 | Jaye EL Hunter |
 | 484 | 463 | Mia Muse Best |
 | 485 | 462 | Dennis McLaurin |
 | 486 | 462 | Jarboe |
@@ -583,8 +583,8 @@
 | 575 | 396 | AkaLefty |
 | 576 | 396 | Candy Pitts |
 | 577 | 396 | Boogie SoAnimated Johnson |
-| 578 | 393 | bbv |
-| 579 | 393 | Jamie West |
+| 578 | 393 | Jamie West |
+| 579 | 393 | bbv |
 | 580 | 393 | Deyawn Smith |
 | 581 | 391 | Anthony Huebel |
 | 582 | 391 | Adam Simmons |
@@ -938,8 +938,8 @@
 | 930 | 249 | J.L. Roberts |
 | 931 | 249 | Kamilya Rembert |
 | 932 | 249 | Joshua Mullings |
-| 933 | 249 | Andrew Engman |
-| 934 | 249 | Angela Yantz |
+| 933 | 249 | Angela Yantz |
+| 934 | 249 | Andrew Engman |
 | 935 | 248 | Jaybee Nguyen |
 | 936 | 248 | Angelina Marie |
 | 937 | 248 | CleverAngel |

@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -136,8 +136,8 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Brittney Orengo |
-| 132 | 283 | Scott Jameson |
+| 131 | 283 | Scott Jameson |
+| 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
 | 134 | 278 | Desi Desporte |
 | 135 | 278 | Carrie Brian |
@@ -280,8 +280,8 @@
 | 272 | 143 | Zesty Twistbuilder |
 | 273 | 143 | Lauren Lamb |
 | 274 | 143 | Asher |
-| 275 | 143 | Dennis Bradley |
-| 276 | 143 | Daresha Fair |
+| 275 | 143 | Daresha Fair |
+| 276 | 143 | Dennis Bradley |
 | 277 | 142 | Chantilly Laace |
 | 278 | 142 | Cynthia Boudreau |
 | 279 | 142 | Chaz |
@@ -296,9 +296,9 @@
 | 288 | 141 | Montiette Mcglown |
 | 289 | 140 | Guy Incognito |
 | 290 | 140 | Cristy Duerksen |
-| 291 | 139 | Lori Goudy |
+| 291 | 139 | ChasingZen |
 | 292 | 139 | O block |
-| 293 | 139 | ChasingZen |
+| 293 | 139 | Lori Goudy |
 | 294 | 139 | Jose Dejesus |
 | 295 | 138 | Sarah Hoffman |
 | 296 | 138 | KimoKoala |
@@ -393,7 +393,7 @@
 | 385 | 108 | mike |
 | 386 | 108 | Ali Ian |
 | 387 | 108 | Denise B |
-| 388 | 108 | mike |
+| 388 | 108 | Walter Beltran |
 | 389 | 107 | Marcela Johnson |
 | 390 | 107 | Brandi Durig |
 | 391 | 106 | Lynn Marie |
@@ -439,8 +439,8 @@
 | 431 | 93 | Matt Gooder |
 | 432 | 93 | Mousey406 |
 | 433 | 92 | RogueRebel |
-| 434 | 92 | Frilly Blocky |
-| 435 | 92 | bloat princess |
+| 434 | 92 | bloat princess |
+| 435 | 92 | Frilly Blocky |
 | 436 | 92 | Krash |
 | 437 | 91 | Kametsunoyaiba |
 | 438 | 91 | Sunny Filler |
