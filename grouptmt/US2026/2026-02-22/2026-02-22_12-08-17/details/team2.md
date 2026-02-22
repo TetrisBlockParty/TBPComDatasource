@@ -212,8 +212,8 @@
 | 204 | 919 | Isaac Trappiel IV |
 | 205 | 916 | Butta |
 | 206 | 915 | Kelly Trent |
-| 207 | 910 | Shuany Arias |
-| 208 | 910 | Crystal Hoffman |
+| 207 | 910 | Crystal Hoffman |
+| 208 | 910 | Shuany Arias |
 | 209 | 907 | Gene Mills |
 | 210 | 901 | Jennifer Peachey |
 | 211 | 894 | Auntie B |
@@ -416,8 +416,8 @@
 | 408 | 520 | Angela Lynn |
 | 409 | 519 | Rob Brown |
 | 410 | 517 | Alex Dungo Hoang |
-| 411 | 517 | Porsche' Nicole |
-| 412 | 517 | Amber Brion |
+| 411 | 517 | Amber Brion |
+| 412 | 517 | Porsche' Nicole |
 | 413 | 516 | Diamond Scott |
 | 414 | 515 | Victoria Regina Girolami |
 | 415 | 515 | Laquetta Royston |
@@ -602,8 +602,8 @@
 | 594 | 386 | Wuntayk |
 | 595 | 385 | Tansaria Couch-Butler |
 | 596 | 384 | Mary Marie |
-| 597 | 384 | Kelly |
-| 598 | 384 | Party d |
+| 597 | 384 | Party d |
+| 598 | 384 | Kelly |
 | 599 | 383 | Jessica Conaway |
 | 600 | 383 | Belle Mari |
 | 601 | 382 | David Holliday |
@@ -627,8 +627,8 @@
 | 619 | 371 | Angi Harrison |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | RaeVan Worthington |
-| 623 | 369 | Tony Lea |
+| 622 | 369 | Tony Lea |
+| 623 | 369 | RaeVan Worthington |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
@@ -709,15 +709,15 @@
 | 701 | 326 | Ann Knutson Anderson |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Dale Haanpaa |
-| 705 | 324 | Tasia Stinson |
+| 704 | 324 | Tasia Stinson |
+| 705 | 324 | Dale Haanpaa |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
 | 709 | 322 | Christina Jarvis-Swarbrick |
 | 710 | 321 | Samantha Scibelli |
-| 711 | 321 | Ashley Criner |
-| 712 | 321 | Tamara Bailey |
+| 711 | 321 | Tamara Bailey |
+| 712 | 321 | Ashley Criner |
 | 713 | 320 | Tash Bell |
 | 714 | 320 | Mary Boss |
 | 715 | 319 | Prado |
@@ -747,8 +747,8 @@
 | 739 | 308 | Claire |
 | 740 | 308 | Hyper Riseclear |
 | 741 | 308 | Sarah block |
-| 742 | 307 | stacey |
-| 743 | 307 | Peachy Blockbuilder |
+| 742 | 307 | Peachy Blockbuilder |
+| 743 | 307 | stacey |
 | 744 | 306 | Kiorah Blaze |
 | 745 | 305 | Zany Clusterbuilder |
 | 746 | 305 | MamaBear11 |
@@ -773,12 +773,12 @@
 | 765 | 297 | Britney M. |
 | 766 | 297 | Ashley Robbins |
 | 767 | 296 | Jennifer Darby |
-| 768 | 296 | Epic Fitzone |
-| 769 | 296 | Zappy Dropmatch |
+| 768 | 296 | Zappy Dropmatch |
+| 769 | 296 | Epic Fitzone |
 | 770 | 296 | Frisky Riserbuilder |
 | 771 | 295 | Noel Tarmy |
-| 772 | 294 | Amanda Edwards |
-| 773 | 294 | Sveta Lana |
+| 772 | 294 | Sveta Lana |
+| 773 | 294 | Amanda Edwards |
 | 774 | 293 | Ann Marie Davis |
 | 775 | 292 | Bryan Werleman |
 | 776 | 292 | Deana |
@@ -1677,8 +1677,8 @@
 | 1669 | 140 | Tiffany Hines |
 | 1670 | 140 | Nadia Batista Garcia |
 | 1671 | 140 | Blue Diamond |
-| 1672 | 140 | shrimppimp |
-| 1673 | 140 | Nadia Batista Garcia |
+| 1672 | 140 | Gloria Malloy |
+| 1673 | 140 | Hopi |
 | 1674 | 140 | Sheretta Holmes Lil'bit |
 | 1675 | 140 | shrimppimp |
 | 1676 | 140 | Speedy Pivoty |

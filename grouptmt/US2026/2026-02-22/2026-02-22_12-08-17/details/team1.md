@@ -126,8 +126,8 @@
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -181,24 +181,24 @@
 | 173 | 225 | MRdot Rooski |
 | 174 | 219 | Chuck Gannon |
 | 175 | 218 | LC |
-| 176 | 217 | Kimberly Garcia |
-| 177 | 217 | ParisandCory Champagne |
+| 176 | 217 | ParisandCory Champagne |
+| 177 | 217 | Kimberly Garcia |
 | 178 | 216 | Shauntina Burke |
-| 179 | 215 | Shaykmia |
-| 180 | 215 | Sam Williams |
+| 179 | 215 | Sam Williams |
+| 180 | 215 | Shaykmia |
 | 181 | 213 | Daring Fitclear |
 | 182 | 212 | Jaimie Lynn |
 | 183 | 211 | Marianita Garcia |
 | 184 | 210 | Letson Melissa |
 | 185 | 210 | Giggly Builderline |
 | 186 | 209 | Debbie Davis |
-| 187 | 208 | Donna Addison Williams |
-| 188 | 208 | Bouncy Grid |
-| 189 | 207 | Leslie Bush Yarbrough |
-| 190 | 207 | Brenda Alexander |
+| 187 | 208 | Bouncy Grid |
+| 188 | 208 | Donna Addison Williams |
+| 189 | 207 | Brenda Alexander |
+| 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -262,8 +262,8 @@
 | 254 | 167 | Nery Martinez |
 | 255 | 167 | Cranky Pattern |
 | 256 | 166 | Carrie Smith |
-| 257 | 165 | Silly Align |
-| 258 | 165 | Nadine Velardo |
+| 257 | 165 | Nadine Velardo |
+| 258 | 165 | Silly Align |
 | 259 | 164 | Desiree Deschaine Havee |
 | 260 | 163 | Tyler Whitley |
 | 261 | 163 | Davery Spencer Adair |
@@ -305,8 +305,8 @@
 | 297 | 139 | LD1 |
 | 298 | 139 | Aimee Horton |
 | 299 | 138 | Ruthie Mahoney Saunders-Browne |
-| 300 | 138 | Giddy Cascade |
-| 301 | 138 | Lynn Adams |
+| 300 | 138 | Lynn Adams |
+| 301 | 138 | Giddy Cascade |
 | 302 | 138 | Hector Cruz |
 | 303 | 137 | Constance Risner |
 | 304 | 137 | Jo Kerley |

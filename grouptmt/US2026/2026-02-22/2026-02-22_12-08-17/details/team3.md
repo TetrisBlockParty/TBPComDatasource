@@ -143,8 +143,8 @@
 | 135 | 457 | Jim Mathews |
 | 136 | 454 | Makelini Mausia |
 | 137 | 449 | Danielle Rhoades |
-| 138 | 445 | Jacqueline Rodriguez |
-| 139 | 445 | Kristie McFarland |
+| 138 | 445 | Kristie McFarland |
+| 139 | 445 | Jacqueline Rodriguez |
 | 140 | 435 | Michelle |
 | 141 | 432 | Jenny Hrndz |
 | 142 | 427 | Wendy Dearden |
@@ -171,8 +171,8 @@
 | 163 | 384 | Logan Naccarato |
 | 164 | 382 | Scott Carleton |
 | 165 | 380 | Tasha Schriewer |
-| 166 | 378 | Chris Bell |
-| 167 | 378 | Nicole Flippo |
+| 166 | 378 | Nicole Flippo |
+| 167 | 378 | Chris Bell |
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
@@ -225,8 +225,8 @@
 | 217 | 295 | Marci Mize Fandrich |
 | 218 | 293 | Kristal C Lee |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Duane Bright |
-| 221 | 289 | Hoppy Buildout |
+| 220 | 289 | Hoppy Buildout |
+| 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -240,10 +240,10 @@
 | 232 | 275 | Cassandra Bryant |
 | 233 | 274 | Tye Stovall |
 | 234 | 272 | Dee Franklin |
-| 235 | 271 | Cass Mendoza |
-| 236 | 271 | Ashley Muncey |
-| 237 | 269 | Trisha Balmer |
-| 238 | 269 | Eon Harris |
+| 235 | 271 | Ashley Muncey |
+| 236 | 271 | Cass Mendoza |
+| 237 | 269 | Eon Harris |
+| 238 | 269 | Trisha Balmer |
 | 239 | 268 | Carrie Huskey |
 | 240 | 267 | Terry Jo Jones |
 | 241 | 265 | Sarah Moyer |
@@ -273,8 +273,8 @@
 | 265 | 235 | Cozy Snaplink |
 | 266 | 235 | Brenda Schmid Wood |
 | 267 | 234 | Connie Mohler-Fair |
-| 268 | 233 | Josh Borquez |
-| 269 | 233 | Ray Lader |
+| 268 | 233 | Ray Lader |
+| 269 | 233 | Josh Borquez |
 | 270 | 232 | Donna |
 | 271 | 227 | Krystal Gerstberger |
 | 272 | 227 | Meowsa |
