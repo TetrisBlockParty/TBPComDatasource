@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -100,8 +100,8 @@
 | 92 | 539 | Chris Baggett |
 | 93 | 523 | Samantha Peterson |
 | 94 | 519 | Nugget |
-| 95 | 513 | YoMomma |
-| 96 | 513 | Erin Thomas |
+| 95 | 513 | Erin Thomas |
+| 96 | 513 | YoMomma |
 | 97 | 512 | Casey Jeffcoat |
 | 98 | 511 | Zippy Gridlock |
 | 99 | 509 | Diana Houts |
@@ -114,8 +114,8 @@
 | 106 | 475 | Isabella Blanco |
 | 107 | 474 | Jenna Ingersoll |
 | 108 | 472 | Chilly Crasher |
-| 109 | 462 | Scott Jameson |
-| 110 | 462 | Lori Walker |
+| 109 | 462 | Lori Walker |
+| 110 | 462 | Scott Jameson |
 | 111 | 457 | Alyssa Papen |
 | 112 | 456 | Twisty Clicky |
 | 113 | 448 | Kristin Manee |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | 🥔🥔 Spudz |
-| 157 | 314 | Andy Cabral |
+| 156 | 314 | Andy Cabral |
+| 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -176,8 +176,8 @@
 | 168 | 300 | Dana Scott |
 | 169 | 295 | Cursed Hag |
 | 170 | 294 | Calvin Cannon |
-| 171 | 292 | Chaz Duncan |
-| 172 | 292 | Michele Plunkett |
+| 171 | 292 | Michele Plunkett |
+| 172 | 292 | Chaz Duncan |
 | 173 | 290 | Keshia Lyons |
 | 174 | 289 | Lindsay Ball |
 | 175 | 288 | Leah Kutz Zirbel |
@@ -237,8 +237,8 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Jenna McGeorge |
-| 233 | 225 | Perky Patternblock |
+| 232 | 225 | Perky Patternblock |
+| 233 | 225 | Jenna McGeorge |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |
@@ -254,9 +254,9 @@
 | 246 | 215 | Ziggy |
 | 247 | 215 | John Brunetti |
 | 248 | 214 | Stacey Stano |
-| 249 | 213 | Rio Rocha |
-| 250 | 213 | Angela Geist Jusinski |
-| 251 | 213 | Sarah Neathery |
+| 249 | 213 | Angela Geist Jusinski |
+| 250 | 213 | Sarah Neathery |
+| 251 | 213 | Rio Rocha |
 | 252 | 212 | Mike Solo |
 | 253 | 209 | Chaz |
 | 254 | 208 | Rebecca Morris |

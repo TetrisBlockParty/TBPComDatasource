@@ -344,8 +344,8 @@
 | 336 | 746 | Kathryn Townsley |
 | 337 | 746 | Jerilyn Andrina |
 | 338 | 745 | Kiely Tomaskovich |
-| 339 | 743 | Tiara Elizabeth Baker |
-| 340 | 743 | Melissa Cole |
+| 339 | 743 | Melissa Cole |
+| 340 | 743 | Tiara Elizabeth Baker |
 | 341 | 741 | Mandi Douglas Hilt |
 | 342 | 740 | Jerry Tempelmeyer |
 | 343 | 739 | Jánine Riggs |
@@ -353,8 +353,8 @@
 | 345 | 737 | Ginger |
 | 346 | 737 | Jeremy Parodi |
 | 347 | 734 | Deborah Miller |
-| 348 | 729 | Aimee Campbell |
-| 349 | 729 | Cassie Mercer |
+| 348 | 729 | Cassie Mercer |
+| 349 | 729 | Aimee Campbell |
 | 350 | 729 | Stephanie Lumanlan |
 | 351 | 728 | Dylan Thomason |
 | 352 | 728 | Tom Riefer |
@@ -592,8 +592,8 @@
 | 584 | 468 | Tina Marie |
 | 585 | 468 | Jennifer Monroe Kelly |
 | 586 | 468 | Melanie Csikortos |
-| 587 | 467 | Audrey Jones |
-| 588 | 467 | SwampRebel |
+| 587 | 467 | SwampRebel |
+| 588 | 467 | Audrey Jones |
 | 589 | 466 | Crystal Greene |
 | 590 | 466 | Ebony Deloach Bryant |
 | 591 | 463 | Jaye EL Hunter |
