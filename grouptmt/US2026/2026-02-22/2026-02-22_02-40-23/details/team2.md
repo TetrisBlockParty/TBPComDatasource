@@ -279,8 +279,8 @@
 | 271 | 587 | Hyper Cluster |
 | 272 | 583 | Jessicah Myers |
 | 273 | 582 | Gary Stash |
-| 274 | 579 | Juliana Marques Do Nascimento Gordy |
-| 275 | 579 | Roy Salyer |
+| 274 | 579 | Roy Salyer |
+| 275 | 579 | Juliana Marques Do Nascimento Gordy |
 | 276 | 578 | Sally Dennis |
 | 277 | 576 | Ginger |
 | 278 | 572 | tejas25 |
@@ -334,8 +334,8 @@
 | 326 | 492 | Armonie Smith |
 | 327 | 491 | Michael Buckner |
 | 328 | 489 | Osun Anuket Esu |
-| 329 | 488 | Venita Ray |
-| 330 | 488 | Andrew Willis |
+| 329 | 488 | Andrew Willis |
+| 330 | 488 | Venita Ray |
 | 331 | 487 | MrsCandyfine As Wine Truss |
 | 332 | 483 | Alezandra Smith |
 | 333 | 482 | Eckoman518 |
@@ -752,8 +752,8 @@
 | 744 | 238 | Trista Carter |
 | 745 | 238 | Jasmine Kenney |
 | 746 | 237 | Jodi Mitnick |
-| 747 | 237 | Gina Justbeingme Chillis |
-| 748 | 237 | Nutty Matchline |
+| 747 | 237 | Nutty Matchline |
+| 748 | 237 | Gina Justbeingme Chillis |
 | 749 | 237 | Devlin Ogg |
 | 750 | 237 | Jay Levy |
 | 751 | 237 | g |
@@ -822,9 +822,9 @@
 | 814 | 218 | Toni Whipple |
 | 815 | 218 | Jannan Haimour |
 | 816 | 218 | Joy LaJeunesse |
-| 817 | 217 | Trisha Gallagher |
+| 817 | 217 | Michael Artis |
 | 818 | 217 | Erika Meaux |
-| 819 | 217 | Michael Artis |
+| 819 | 217 | Trisha Gallagher |
 | 820 | 217 | Christine Lockwood |
 | 821 | 216 | Monica Wilson |
 | 822 | 216 | Jamie Main |
@@ -1026,11 +1026,11 @@
 | 1018 | 173 | Rachel Walka Farnam |
 | 1019 | 172 | Patty |
 | 1020 | 172 | Fredonia Lewis |
-| 1021 | 172 | Jacob Huffman |
-| 1022 | 172 | Ashley M. Davis |
+| 1021 | 172 | Ashley M. Davis |
+| 1022 | 172 | Jacob Huffman |
 | 1023 | 172 | Brooklynn Huckaby |
 | 1024 | 171 | Virginia LaTour |
-| 1025 | 171 | Jai |
+| 1025 | 171 | Ashley Cooper Tharin |
 | 1026 | 171 | Chirpy Tilt |
 | 1027 | 171 | Tripper Boone |
 | 1028 | 171 | Jai |

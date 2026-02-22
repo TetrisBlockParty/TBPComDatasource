@@ -250,8 +250,8 @@
 | 242 | 126 | Tami Luce Martin |
 | 243 | 125 | Melissa Bires Hussar |
 | 244 | 124 | Howdi Duty |
-| 245 | 124 | Rodney Schmerfeld |
-| 246 | 124 | Alenoush Karimian |
+| 245 | 124 | Alenoush Karimian |
+| 246 | 124 | Rodney Schmerfeld |
 | 247 | 123 | Zany Tiler |
 | 248 | 122 | Nate Funk |
 | 249 | 121 | Jacob Shaddock |

@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Makelini Mausia |
-| 130 | 378 | Tasha Schriewer |
+| 129 | 378 | Tasha Schriewer |
+| 130 | 378 | Makelini Mausia |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
@@ -150,8 +150,8 @@
 | 142 | 348 | CeceGeGe |
 | 143 | 347 | Nicole Flippo |
 | 144 | 343 | Chasity |
-| 145 | 328 | Dapper Snap |
-| 146 | 328 | Aaron Pitkin |
+| 145 | 328 | Aaron Pitkin |
+| 146 | 328 | Dapper Snap |
 | 147 | 326 | Fancy Cascader |
 | 148 | 325 | Fallorina Susana |
 | 149 | 323 | Ashley Raines |
@@ -159,8 +159,8 @@
 | 151 | 317 | Ashley Tookes |
 | 152 | 316 | Rich LeBlanc |
 | 153 | 311 | Raya |
-| 154 | 307 | rnr junky |
-| 155 | 307 | Blocked |
+| 154 | 307 | Blocked |
+| 155 | 307 | rnr junky |
 | 156 | 303 | Rania Zaqout |
 | 157 | 300 | Sherika C. McDaniels |
 | 158 | 298 | MsBee |
@@ -257,8 +257,8 @@
 | 249 | 191 | Scott Carleton |
 | 250 | 191 | Sarajane Lokan |
 | 251 | 189 | Katie Leigh Blankenship |
-| 252 | 188 | Loopy Fallmatch |
-| 253 | 188 | AlsoJess |
+| 252 | 188 | AlsoJess |
+| 253 | 188 | Loopy Fallmatch |
 | 254 | 184 | Troy |
 | 255 | 184 | France Vézina |
 | 256 | 182 | Melanie Sherwood |
@@ -312,11 +312,11 @@
 | 304 | 153 | Lys |
 | 305 | 153 | Wetwet |
 | 306 | 153 | Tony Waters |
-| 307 | 152 | Shiny Zonebuilder |
-| 308 | 152 | LaTanya GeminiondaRise Johnson |
+| 307 | 152 | LaTanya GeminiondaRise Johnson |
+| 308 | 152 | Shiny Zonebuilder |
 | 309 | 152 | Goofy Fall |
-| 310 | 151 | Ashley Lynn Marchese |
-| 311 | 151 | El Chapa |
+| 310 | 151 | El Chapa |
+| 311 | 151 | Ashley Lynn Marchese |
 | 312 | 150 | Steffi Chris Dacones |
 | 313 | 150 | Gumbo |
 | 314 | 149 | Romeo |
@@ -334,8 +334,8 @@
 | 326 | 142 | Erica Anderson |
 | 327 | 142 | Joy Petroski |
 | 328 | 142 | Gray Hicks |
-| 329 | 141 | Weerae |
-| 330 | 141 | Melissa Snyder |
+| 329 | 141 | Melissa Snyder |
+| 330 | 141 | Weerae |
 | 331 | 140 | Linda Draper |
 | 332 | 138 | Pam Holt Powell |
 | 333 | 138 | Skinny Baldez |
