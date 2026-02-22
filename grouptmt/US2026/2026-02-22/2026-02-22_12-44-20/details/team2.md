@@ -402,8 +402,8 @@
 | 394 | 542 | AISlop |
 | 395 | 541 | g |
 | 396 | 540 | Dizzy Zone |
-| 397 | 536 | Shaun Church |
-| 398 | 536 | Caitlin Schmid |
+| 397 | 536 | Caitlin Schmid |
+| 398 | 536 | Shaun Church |
 | 399 | 535 | Paul Huber |
 | 400 | 534 | Kenny Alvarado |
 | 401 | 533 | Gauri Shrotriya |
@@ -814,8 +814,8 @@
 | 806 | 281 | Anthony |
 | 807 | 281 | Amy McManus |
 | 808 | 280 | Sandra Link-Gable |
-| 809 | 280 | Reece Smith |
-| 810 | 280 | Danielle DeLozier Plesec |
+| 809 | 280 | Danielle DeLozier Plesec |
+| 810 | 280 | Reece Smith |
 | 811 | 280 | Luke Califf |
 | 812 | 279 | Laura Wyatt |
 | 813 | 279 | Jennifer Coe |

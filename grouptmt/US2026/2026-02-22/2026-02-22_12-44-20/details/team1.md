@@ -127,8 +127,8 @@
 | 119 | 316 | Jennifer Hardman |
 | 120 | 316 | Dizzy Party |
 | 121 | 313 | Tanya Carpenter-Reynolds |
-| 122 | 310 | Jason Jones |
-| 123 | 310 | Seth Wesson |
+| 122 | 310 | Seth Wesson |
+| 123 | 310 | Jason Jones |
 | 124 | 306 | Happy Basegrid |
 | 125 | 304 | Nicole Roseberry Weber |
 | 126 | 301 | Lehrin Maria |
@@ -291,8 +291,8 @@
 | 283 | 151 | Gilbert Ortiz Jr. |
 | 284 | 151 | Bruce Cruz |
 | 285 | 150 | Agustin Duarte Orozco |
-| 286 | 149 | Cody Gates |
-| 287 | 149 | Jessica Russell |
+| 286 | 149 | Jessica Russell |
+| 287 | 149 | Cody Gates |
 | 288 | 149 | Melissa Bires Hussar |
 | 289 | 148 | Michelle Beres |
 | 290 | 148 | Howdi Duty |

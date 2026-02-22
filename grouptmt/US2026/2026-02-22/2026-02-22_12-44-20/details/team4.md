@@ -169,8 +169,8 @@
 | 161 | 244 | Twisty Cascadezone |
 | 162 | 240 | Peachy Fall |
 | 163 | 232 | Crystal Nicolette Moore |
-| 164 | 230 | Autum Leigh |
-| 165 | 230 | Cursed Hag |
+| 164 | 230 | Cursed Hag |
+| 165 | 230 | Autum Leigh |
 | 166 | 228 | J-Rizzle |
 | 167 | 227 | Alyssa Papen |
 | 168 | 227 | Swanky Fitline |
@@ -182,8 +182,8 @@
 | 174 | 217 | Chaz Duncan |
 | 175 | 217 | Angela Srubar-Norman |
 | 176 | 215 | Jessica Bohlken |
-| 177 | 213 | Jason Allen |
-| 178 | 213 | Sarah Neathery |
+| 177 | 213 | Sarah Neathery |
+| 178 | 213 | Jason Allen |
 | 179 | 212 | Mike Solo |
 | 180 | 211 | Jenna McGeorge |
 | 181 | 210 | Zethra Prenisha Rahming |
@@ -607,9 +607,9 @@
 | 599 | 66 | James Philpot Ross |
 | 600 | 66 | Savannah Roughton Jones |
 | 601 | 66 | Chilly Filler |
-| 602 | 65 | RobinC |
-| 603 | 65 | Tianna Frey |
-| 604 | 65 | Barcelos |
+| 602 | 65 | Tianna Frey |
+| 603 | 65 | Barcelos |
+| 604 | 65 | RobinC |
 | 605 | 65 | Paul Abono |
 | 606 | 64 | Trish |
 | 607 | 64 | Calen Torez |
