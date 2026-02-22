@@ -201,14 +201,14 @@
 | 193 | 191 | Debbie Davis |
 | 194 | 190 | Sweetts |
 | 195 | 190 | Thorne Shumate |
-| 196 | 189 | Veronica Eve |
-| 197 | 189 | Jeanna Dunn |
+| 196 | 189 | Jeanna Dunn |
+| 197 | 189 | Veronica Eve |
 | 198 | 187 | Amanda Johnson Huffman |
 | 199 | 187 | Cool Towerzone |
 | 200 | 186 | Margo Wagner |
 | 201 | 186 | Erin Hodges Plumb |
 | 202 | 183 | Andrew Boone |
-| 203 | 180 | Jessie Lynn |
+| 203 | 180 | Erez Yosef |
 | 204 | 180 | BigWeenie69 |
 | 205 | 180 | Jessie Lynn |
 | 206 | 180 | Amy Hess |

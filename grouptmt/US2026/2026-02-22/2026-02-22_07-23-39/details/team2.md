@@ -126,8 +126,8 @@
 | 118 | 1257 | Eileen Hale |
 | 119 | 1256 | Bob |
 | 120 | 1252 | Katrina Williams Balmir |
-| 121 | 1248 | Isabela Shaw |
-| 122 | 1248 | Howard Forest |
+| 121 | 1248 | Howard Forest |
+| 122 | 1248 | Isabela Shaw |
 | 123 | 1242 | Altamirano Michael |
 | 124 | 1232 | Groovy Puzzle |
 | 125 | 1226 | Vo'Landa Reels |
@@ -307,8 +307,8 @@
 | 299 | 651 | Unica Rector |
 | 300 | 650 | Shiny Rollzone |
 | 301 | 643 | Hoppy Brickmatch |
-| 302 | 641 | Joce Lynn |
-| 303 | 641 | Angie Bolton Workman |
+| 302 | 641 | Angie Bolton Workman |
+| 303 | 641 | Joce Lynn |
 | 304 | 640 | BYM4L |
 | 305 | 639 | Crystie Hicks |
 | 306 | 639 | Rebecca Miller |
@@ -351,8 +351,8 @@
 | 343 | 562 | Ashley Lopez |
 | 344 | 561 | Traci Johnson |
 | 345 | 557 | Block Master |
-| 346 | 554 | Santana Miyagi |
-| 347 | 554 | Rachael Senard |
+| 346 | 554 | Rachael Senard |
+| 347 | 554 | Santana Miyagi |
 | 348 | 552 | F-X |
 | 349 | 550 | Nashu |
 | 350 | 549 | Darcy Mae |
@@ -374,8 +374,8 @@
 | 366 | 525 | Desiree Anderson |
 | 367 | 524 | Jojo Momma |
 | 368 | 523 | Matt Johnson |
-| 369 | 522 | Joseph Musick |
-| 370 | 522 | Lylymom |
+| 369 | 522 | Lylymom |
+| 370 | 522 | Joseph Musick |
 | 371 | 521 | Tj Ball |
 | 372 | 520 | Maddy Petersen |
 | 373 | 520 | Angela Lynn |
@@ -413,8 +413,8 @@
 | 405 | 489 | Cassie Mercer |
 | 406 | 489 | Osun Anuket Esu |
 | 407 | 488 | Venita Ray |
-| 408 | 487 | Maya June |
-| 409 | 487 | MrsCandyfine As Wine Truss |
+| 408 | 487 | MrsCandyfine As Wine Truss |
+| 409 | 487 | Maya June |
 | 410 | 486 | Caitlin Schmid |
 | 411 | 485 | Ann Matzkanin |
 | 412 | 485 | Dapper Dasher |
@@ -478,8 +478,8 @@
 | 470 | 432 | Lucy Marshall |
 | 471 | 430 | Jackie Lucas |
 | 472 | 430 | Gloria Ininahazwe |
-| 473 | 429 | Christy Krissie |
-| 474 | 429 | Rhonda Milstead |
+| 473 | 429 | Rhonda Milstead |
+| 474 | 429 | Christy Krissie |
 | 475 | 428 | Arkei Luster |
 | 476 | 428 | Shyenn Gadsby |
 | 477 | 427 | Quinn |
@@ -498,8 +498,8 @@
 | 490 | 421 | Vanessa Moreno |
 | 491 | 420 | snkylnk |
 | 492 | 419 | Pocho Zavala |
-| 493 | 418 | Kristi Biddinger |
-| 494 | 418 | Véronique Lévesque Sabourin |
+| 493 | 418 | Véronique Lévesque Sabourin |
+| 494 | 418 | Kristi Biddinger |
 | 495 | 417 | Alexx Anaya |
 | 496 | 416 | Ricky Fortune |
 | 497 | 414 | Sabrina Burton |
@@ -560,18 +560,18 @@
 | 552 | 384 | Kelly |
 | 553 | 384 | Party d |
 | 554 | 383 | Belle Mari |
-| 555 | 382 | KhaosLord |
-| 556 | 382 | David Holliday |
+| 555 | 382 | David Holliday |
+| 556 | 382 | KhaosLord |
 | 557 | 381 | Melissa Rebbe-Lehman |
 | 558 | 381 | Nicky Jackson |
 | 559 | 381 | Happy Caster |
 | 560 | 379 | Mary Marie |
 | 561 | 379 | Cini |
-| 562 | 378 | TF Dyer |
-| 563 | 378 | Tina Marie |
+| 562 | 378 | Tina Marie |
+| 563 | 378 | TF Dyer |
 | 564 | 377 | Jason H Baker |
-| 565 | 376 | Darlene Bowman |
-| 566 | 376 | James Zaragoza |
+| 565 | 376 | James Zaragoza |
+| 566 | 376 | Darlene Bowman |
 | 567 | 375 | Cecilia A Jenkins |
 | 568 | 375 | Lively Edgepiece |
 | 569 | 375 | Wuntayk |
@@ -615,8 +615,8 @@
 | 607 | 357 | Tristan Szolek |
 | 608 | 355 | Amanda Perez |
 | 609 | 354 | Demeka Dangerous-kisses Johnson |
-| 610 | 354 | Rickey Johnson |
-| 611 | 354 | Rachel Kaminski |
+| 610 | 354 | Rachel Kaminski |
+| 611 | 354 | Rickey Johnson |
 | 612 | 352 | Rose Fx |
 | 613 | 352 | Jean FU Jagielski |
 | 614 | 352 | Mikayala Szaz |
@@ -646,8 +646,8 @@
 | 638 | 337 | Sassy Pattern |
 | 639 | 337 | Tum |
 | 640 | 337 | Savannah Alexander |
-| 641 | 336 | Austin Wilson |
-| 642 | 336 | bru |
+| 641 | 336 | bru |
+| 642 | 336 | Austin Wilson |
 | 643 | 336 | Swanky Columnbuilder |
 | 644 | 335 | Brooke Leigh Strube |
 | 645 | 334 | Melissa James |
@@ -682,8 +682,8 @@
 | 674 | 321 | Samantha Scibelli |
 | 675 | 320 | Mary Boss |
 | 676 | 318 | Jennifer Mahon |
-| 677 | 317 | Ashlyn Berner |
-| 678 | 317 | Zombi3 |
+| 677 | 317 | Zombi3 |
+| 678 | 317 | Ashlyn Berner |
 | 679 | 317 | Aireka Roman |
 | 680 | 316 | Jenn Marie |
 | 681 | 316 | Epic Spinfit |
@@ -719,8 +719,8 @@
 | 711 | 304 | NFLPITMOM |
 | 712 | 304 | Isaac Trappiel IV |
 | 713 | 303 | Devin |
-| 714 | 303 | Amanda Schaffer |
-| 715 | 303 | Peachy Blockbuilder |
+| 714 | 303 | Peachy Blockbuilder |
+| 715 | 303 | Amanda Schaffer |
 | 716 | 303 | Angie Marie |
 | 717 | 302 | Kena T. Tanner |
 | 718 | 302 | Maxwell Escalera |
@@ -764,14 +764,14 @@
 | 756 | 282 | Nutty Slice |
 | 757 | 281 | Anthony |
 | 758 | 280 | Belle |
-| 759 | 280 | Danielle DeLozier Plesec |
-| 760 | 280 | Reece Smith |
+| 759 | 280 | Reece Smith |
+| 760 | 280 | Danielle DeLozier Plesec |
 | 761 | 279 | Loony Basepiece |
 | 762 | 278 | AndrewandShela Gornik |
-| 763 | 277 | Anthony Mignacca |
-| 764 | 277 | Amanda Chamberlain |
-| 765 | 276 | Ryan Lauer |
-| 766 | 276 | Josh Webster |
+| 763 | 277 | Amanda Chamberlain |
+| 764 | 277 | Anthony Mignacca |
+| 765 | 276 | Josh Webster |
+| 766 | 276 | Ryan Lauer |
 | 767 | 276 | Patrick Bartlett |
 | 768 | 276 | Lindsey Leigh |
 | 769 | 275 | Alishac Marie |

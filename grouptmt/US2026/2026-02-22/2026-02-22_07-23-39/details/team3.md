@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Rachael McClain Owens |
-| 98 | 565 | Patty Allen |
+| 97 | 565 | Patty Allen |
+| 98 | 565 | Rachael McClain Owens |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 562 | Dave Herzog |
 | 101 | 559 | Morgan Martinez |
@@ -185,8 +185,8 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Gumbo |
-| 181 | 338 | Leah Barnett |
+| 180 | 338 | Leah Barnett |
+| 181 | 338 | Gumbo |
 | 182 | 332 | Rich LeBlanc |
 | 183 | 328 | Giddy Twistbuilder |
 | 184 | 323 | Demetrious Shaw Sr. |
@@ -194,8 +194,8 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Rochelle Hazelett |
-| 190 | 311 | Araceli Parra |
+| 189 | 311 | Araceli Parra |
+| 190 | 311 | Rochelle Hazelett |
 | 191 | 310 | Danielle Balcom |
 | 192 | 308 | Daryn Elliott |
 | 193 | 308 | Rania Zaqout |
@@ -265,8 +265,8 @@
 | 257 | 227 | Meowsa |
 | 258 | 225 | Dirtgirl27 |
 | 259 | 223 | Connie Mohler-Fair |
-| 260 | 221 | Jaime Monhaut-Reed |
-| 261 | 221 | Alice |
+| 260 | 221 | Alice |
+| 261 | 221 | Jaime Monhaut-Reed |
 | 262 | 221 | Vaners |
 | 263 | 220 | rosy |
 | 264 | 219 | Sissy Lowery Davis |
@@ -280,8 +280,8 @@
 | 272 | 214 | Twisty Brick LT |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
-| 275 | 211 | El Chapa |
-| 276 | 211 | Velma Mull |
+| 275 | 211 | Velma Mull |
+| 276 | 211 | El Chapa |
 | 277 | 211 | Khaleada McGill Banks |
 | 278 | 210 | Lizabeth Fox |
 | 279 | 209 | Micayah Stevens |
@@ -628,7 +628,7 @@
 | 620 | 89 | Jessica Lynn French |
 | 621 | 89 | Kristen McAlpine |
 | 622 | 89 | Matty Ray |
-| 623 | 89 | Jessica Lynn French |
+| 623 | 89 | Billie Jean Cooper |
 | 624 | 89 | Frothy Racker |
 | 625 | 88 | Dapper Dashpiece |
 | 626 | 88 | Amy Montz |

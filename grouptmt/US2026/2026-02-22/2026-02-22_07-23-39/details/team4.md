@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Elizabeth Sallas |
-| 29 | 873 | Michelle Pearman |
+| 28 | 873 | Michelle Pearman |
+| 29 | 873 | Elizabeth Sallas |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Samantha Peterson |
-| 78 | 447 | Erin Thomas |
+| 77 | 447 | Erin Thomas |
+| 78 | 447 | Samantha Peterson |
 | 79 | 440 | Kristin Manee |
 | 80 | 427 | KJ Pool |
 | 81 | 416 | YoMomma |
@@ -131,15 +131,15 @@
 | 123 | 283 | Brittney Orengo |
 | 124 | 282 | Amelpss |
 | 125 | 281 | Meagan Nicole |
-| 126 | 278 | Desi Desporte |
-| 127 | 278 | Carrie Brian |
+| 126 | 278 | Carrie Brian |
+| 127 | 278 | Desi Desporte |
 | 128 | 277 | Scott Jameson |
 | 129 | 277 | Mary Ann Pabukis |
 | 130 | 275 | Dizzy Tiley |
 | 131 | 271 | Sarah Brown |
 | 132 | 264 | Girl |
-| 133 | 264 | Dana Scott |
-| 134 | 264 | Epic Curvetile |
+| 133 | 264 | Epic Curvetile |
+| 134 | 264 | Dana Scott |
 | 135 | 262 | Holly Jolly |
 | 136 | 256 | Mylo Lipscomb |
 | 137 | 256 | Jolly Dashfit |
@@ -150,12 +150,12 @@
 | 142 | 244 | Twisty Cascadezone |
 | 143 | 240 | Peachy Fall |
 | 144 | 232 | Crystal Nicolette Moore |
-| 145 | 230 | Cursed Hag |
-| 146 | 230 | Autum Leigh |
+| 145 | 230 | Autum Leigh |
+| 146 | 230 | Cursed Hag |
 | 147 | 228 | J-Rizzle |
 | 148 | 227 | Swanky Fitline |
-| 149 | 227 | Alyssa Papen |
-| 150 | 227 | Chris Bernstein |
+| 149 | 227 | Chris Bernstein |
+| 150 | 227 | Alyssa Papen |
 | 151 | 225 | Damn Libra |
 | 152 | 224 | Matt Summer |
 | 153 | 223 | Antony Dwayne Beasley |
@@ -211,8 +211,8 @@
 | 203 | 171 | Autumn Kumzi |
 | 204 | 167 | Cozy Balancer |
 | 205 | 166 | SammieJo Guy |
-| 206 | 165 | Jackie Marie |
-| 207 | 165 | James Hurley Jr. |
+| 206 | 165 | James Hurley Jr. |
+| 207 | 165 | Jackie Marie |
 | 208 | 164 | 030Synner |
 | 209 | 163 | Kristina Black |
 | 210 | 162 | Joanna |
@@ -221,8 +221,8 @@
 | 213 | 160 | Carlos Ramirez |
 | 214 | 160 | Laura Hosford |
 | 215 | 159 | Marcus Todd |
-| 216 | 158 | Sam Bishop |
-| 217 | 158 | Chair |
+| 216 | 158 | Chair |
+| 217 | 158 | Sam Bishop |
 | 218 | 158 | Avy Absol |
 | 219 | 157 | Paige Kittles |
 | 220 | 157 | KayM |
@@ -236,15 +236,15 @@
 | 228 | 152 | Austin Owens |
 | 229 | 152 | Faja |
 | 230 | 149 | Tanner Lund |
-| 231 | 149 | Megan Cutshaw |
-| 232 | 149 | Shainne Brewer |
+| 231 | 149 | Shainne Brewer |
+| 232 | 149 | Megan Cutshaw |
 | 233 | 148 | Janita Parrish |
 | 234 | 147 | Jared Gutwein |
 | 235 | 147 | Jay28 |
 | 236 | 147 | B Renee Desjardin |
 | 237 | 146 | Ultramarine |
-| 238 | 145 | Mimi |
-| 239 | 145 | Sandra Safford |
+| 238 | 145 | Sandra Safford |
+| 239 | 145 | Mimi |
 | 240 | 144 | Nubian1 |
 | 241 | 143 | Lauren Lamb |
 | 242 | 143 | Zesty Twistbuilder |
@@ -314,7 +314,7 @@
 | 306 | 119 | River Shady Sr. |
 | 307 | 119 | Gwendolyn Pitcairn |
 | 308 | 118 | Christina Black |
-| 309 | 117 | PennyCandee |
+| 309 | 117 | Gracie Ann Taylor |
 | 310 | 117 | BigSammy420 |
 | 311 | 117 | PennyCandee |
 | 312 | 116 | Adam Stephanie Parker |
@@ -328,9 +328,9 @@
 | 320 | 115 | Alexandra Karavias |
 | 321 | 114 | Jason Frehner |
 | 322 | 113 | Stephanie Mico |
-| 323 | 113 | Adam Randall |
-| 324 | 113 | @ |
-| 325 | 113 | Dandy Cascadefit |
+| 323 | 113 | @ |
+| 324 | 113 | Dandy Cascadefit |
+| 325 | 113 | Adam Randall |
 | 326 | 112 | Chris Alexinas |
 | 327 | 111 | Lazy Blocker |
 | 328 | 111 | Heather Bruce |
