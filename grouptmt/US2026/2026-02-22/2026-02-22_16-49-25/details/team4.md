@@ -168,8 +168,8 @@
 | 160 | 271 | Sarah Brown |
 | 161 | 269 | Nikki Rae Gordon |
 | 162 | 268 | Mimi |
-| 163 | 268 | Cursed Hag |
-| 164 | 268 | Trista Leah |
+| 163 | 268 | Trista Leah |
+| 164 | 268 | Cursed Hag |
 | 165 | 267 | Kathy Brookins |
 | 166 | 267 | Casey Grabner |
 | 167 | 267 | Damn Libra |
@@ -244,10 +244,10 @@
 | 236 | 195 | 中山成巳 |
 | 237 | 194 | Zany Twisterfit |
 | 238 | 193 | Rio Rocha |
-| 239 | 190 | Snippy Puzzle |
-| 240 | 190 | Cheery Risebuilder |
-| 241 | 189 | 030Synner |
-| 242 | 189 | Dihcheese444 |
+| 239 | 190 | Cheery Risebuilder |
+| 240 | 190 | Snippy Puzzle |
+| 241 | 189 | Dihcheese444 |
+| 242 | 189 | 030Synner |
 | 243 | 186 | Holly |
 | 244 | 185 | Stephme310 |
 | 245 | 185 | Laura Hosford |
@@ -280,10 +280,10 @@
 | 272 | 162 | John Brunetti |
 | 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | conceptCollector |
-| 275 | 161 | Twisty Risebuilder |
-| 276 | 161 | Tanner Lund |
-| 277 | 159 | DonMega |
-| 278 | 159 | Marcus Todd |
+| 275 | 161 | Tanner Lund |
+| 276 | 161 | Twisty Risebuilder |
+| 277 | 159 | Marcus Todd |
+| 278 | 159 | DonMega |
 | 279 | 157 | Bethany Ison |
 | 280 | 157 | KayM |
 | 281 | 157 | B Renee Desjardin |

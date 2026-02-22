@@ -88,8 +88,8 @@
 | 80 | 471 | Jennifer ManWarren |
 | 81 | 456 | Arianna O'Brien |
 | 82 | 453 | Brandi Huntington |
-| 83 | 444 | Hyper |
-| 84 | 444 | Lexuriuos Lifestlye |
+| 83 | 444 | Lexuriuos Lifestlye |
+| 84 | 444 | Hyper |
 | 85 | 443 | Steve Schneider |
 | 86 | 436 | Tonya Beasley |
 | 87 | 434 | Loony Fitzone |
@@ -114,20 +114,20 @@
 | 106 | 379 | Kimmie Kimms |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
-| 109 | 364 | Ly Phethmany |
-| 110 | 364 | Shauna Loe |
+| 109 | 364 | Shauna Loe |
+| 110 | 364 | Ly Phethmany |
 | 111 | 362 | Plucky Ziggy |
 | 112 | 359 | Chirpy Smasher |
 | 113 | 355 | Hasbro Bros |
 | 114 | 354 | phrmblk24 |
 | 115 | 352 | Jason Jones |
-| 116 | 350 | Tipsy Strikerpiece |
-| 117 | 350 | Sweet Baker |
+| 116 | 350 | Sweet Baker |
+| 117 | 350 | Tipsy Strikerpiece |
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | David Miller |
-| 122 | 341 | Nick R Montague |
+| 121 | 341 | Nick R Montague |
+| 122 | 341 | David Miller |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -154,8 +154,8 @@
 | 146 | 293 | Sarah Roberts |
 | 147 | 292 | David Lutcher |
 | 148 | 285 | Ananda Mendez |
-| 149 | 284 | Emily Adelaide Wheatley |
-| 150 | 284 | Rachael |
+| 149 | 284 | Rachael |
+| 150 | 284 | Emily Adelaide Wheatley |
 | 151 | 283 | Franswa |
 | 152 | 282 | Snippy Wipebuilder |
 | 153 | 282 | Timothy Dew |
@@ -180,16 +180,16 @@
 | 172 | 264 | Brian Richardsson |
 | 173 | 263 | Ty Brown |
 | 174 | 261 | Witty Builderfit |
-| 175 | 254 | Al Smith Jr |
-| 176 | 254 | Letson Melissa |
+| 175 | 254 | Letson Melissa |
+| 176 | 254 | Al Smith Jr |
 | 177 | 253 | Jamie Jury |
 | 178 | 252 | Dena Kayy |
 | 179 | 252 | Billie Dawn Sparks |
 | 180 | 251 | Giggly Builderline |
 | 181 | 249 | Lakeisha Chapman |
 | 182 | 246 | Mike Ames |
-| 183 | 244 | Eddie Dillon |
-| 184 | 244 | Marianita Garcia |
+| 183 | 244 | Marianita Garcia |
+| 184 | 244 | Eddie Dillon |
 | 185 | 243 | Trippy Redd |
 | 186 | 242 | John Kim |
 | 187 | 241 | John J. Cronin |
@@ -197,8 +197,8 @@
 | 189 | 239 | Sam Williams |
 | 190 | 237 | LaFontaine Leslie |
 | 191 | 236 | femmefatale |
-| 192 | 235 | Desiree Deschaine Havee |
-| 193 | 235 | MRdot Rooski |
+| 192 | 235 | MRdot Rooski |
+| 193 | 235 | Desiree Deschaine Havee |
 | 194 | 234 | Paula Martin |
 | 195 | 231 | Amanda Johnson Huffman |
 | 196 | 230 | Frothy Pattern |
@@ -207,8 +207,8 @@
 | 199 | 226 | Kandae |
 | 200 | 225 | Bindi |
 | 201 | 224 | ParisandCory Champagne |
-| 202 | 223 | Basment Living |
-| 203 | 223 | Erez Yosef |
+| 202 | 223 | Erez Yosef |
+| 203 | 223 | Basment Living |
 | 204 | 222 | Debbie Davis |
 | 205 | 221 | And |
 | 206 | 221 | Daring Fitclear |

@@ -342,8 +342,8 @@
 | 334 | 688 | Leslie Ann Carter |
 | 335 | 688 | ShinyRose |
 | 336 | 686 | Ashley Guernsey-Martin |
-| 337 | 685 | Binyah-Binyah |
-| 338 | 685 | Brenda Pierpoint |
+| 337 | 685 | Brenda Pierpoint |
+| 338 | 685 | Binyah-Binyah |
 | 339 | 682 | Poldo Ilano |
 | 340 | 680 | blume |
 | 341 | 679 | Kassandra Hunt |
@@ -478,8 +478,8 @@
 | 470 | 511 | Laura Mclean |
 | 471 | 509 | Kelli Wells |
 | 472 | 509 | Jordan Kaiser |
-| 473 | 507 | Kitybox |
-| 474 | 507 | Magic steve |
+| 473 | 507 | Magic steve |
+| 474 | 507 | Kitybox |
 | 475 | 501 | Ann Matzkanin |
 | 476 | 500 | Sarah Ridenour |
 | 477 | 499 | Sarah Massey |
@@ -565,10 +565,10 @@
 | 557 | 447 | Besma Ao |
 | 558 | 446 | NanDa Cruzan VI |
 | 559 | 445 | Sharon Mills |
-| 560 | 445 | Mar Q Thomas |
-| 561 | 445 | Elisheva Mizrachi |
-| 562 | 444 | Fi Ne |
-| 563 | 444 | Ryan Meilleur |
+| 560 | 445 | Elisheva Mizrachi |
+| 561 | 445 | Mar Q Thomas |
+| 562 | 444 | Ryan Meilleur |
+| 563 | 444 | Fi Ne |
 | 564 | 444 | Chab |
 | 565 | 442 | Jennifer Scott |
 | 566 | 442 | Niceday |
@@ -1480,9 +1480,9 @@
 | 1472 | 180 | Lively Brickfit |
 | 1473 | 180 | Johnny Pineapples |
 | 1474 | 180 | Bethany Blanchette |
-| 1475 | 179 | Ruth VanPetten |
-| 1476 | 179 | Starrs Dcct |
-| 1477 | 179 | Cat |
+| 1475 | 179 | Starrs Dcct |
+| 1476 | 179 | Cat |
+| 1477 | 179 | Ruth VanPetten |
 | 1478 | 179 | William Hughes |
 | 1479 | 179 | Shelley Vaux |
 | 1480 | 179 | Crystal Hagy |

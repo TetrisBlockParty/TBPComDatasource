@@ -307,8 +307,8 @@
 | 299 | 230 | BigE |
 | 300 | 228 | Naur |
 | 301 | 227 | Rebel124 |
-| 302 | 227 | ROODBOY |
-| 303 | 227 | Meowsa |
+| 302 | 227 | Meowsa |
+| 303 | 227 | ROODBOY |
 | 304 | 226 | Jana Polk |
 | 305 | 225 | Dirtgirl27 |
 | 306 | 225 | Stephanie Hill |
@@ -354,8 +354,8 @@
 | 346 | 207 | Daring Builder |
 | 347 | 206 | Tammy Rosenberry |
 | 348 | 205 | Rachel Napper |
-| 349 | 205 | Kirhonda Autmon |
-| 350 | 205 | Ashley Lynn Marchese |
+| 349 | 205 | Ashley Lynn Marchese |
+| 350 | 205 | Kirhonda Autmon |
 | 351 | 204 | Cesar Barraza |
 | 352 | 203 | Eric Caccavale |
 | 353 | 202 | Tipsy Zonebuilder |
