@@ -128,8 +128,8 @@
 | 120 | 235 | Lucas J Sutton |
 | 121 | 232 | Crystal Nicolette Moore |
 | 122 | 231 | Chastity Mitchell |
-| 123 | 230 | Autum Leigh |
-| 124 | 230 | Daria Rycewicz |
+| 123 | 230 | Daria Rycewicz |
+| 124 | 230 | Autum Leigh |
 | 125 | 225 | Damn Libra |
 | 126 | 223 | Scott Jameson |
 | 127 | 222 | Joeliecea Cobb |
@@ -144,8 +144,8 @@
 | 136 | 215 | Jessica Bohlken |
 | 137 | 212 | Mike Solo |
 | 138 | 212 | Calvin Cannon |
-| 139 | 211 | Jenna McGeorge |
-| 140 | 211 | Twisty Cascadezone |
+| 139 | 211 | Twisty Cascadezone |
+| 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
 | 142 | 205 | Tyler Terrific |
 | 143 | 205 | Sarah Neathery |
@@ -180,16 +180,16 @@
 | 172 | 171 | Diana Houts |
 | 173 | 169 | Kesha Brady |
 | 174 | 168 | 🥔🥔 Spudz |
-| 175 | 166 | Cozy Balancer |
-| 176 | 166 | SammieJo Guy |
+| 175 | 166 | SammieJo Guy |
+| 176 | 166 | Cozy Balancer |
 | 177 | 164 | 030Synner |
 | 178 | 163 | Chris Bernstein |
 | 179 | 160 | James Hurley Jr. |
 | 180 | 160 | Carlos Ramirez |
 | 181 | 160 | ZeeZee |
 | 182 | 159 | Marcus Todd |
-| 183 | 158 | Chair |
-| 184 | 158 | Avy Absol |
+| 183 | 158 | Avy Absol |
+| 184 | 158 | Chair |
 | 185 | 155 | AyeKay |
 | 186 | 154 | scott |
 | 187 | 153 | Empress Oasis |

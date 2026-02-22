@@ -67,8 +67,8 @@
 | 59 | 434 | MomMom |
 | 60 | 430 | Nancy Green |
 | 61 | 413 | Steve Schneider |
-| 62 | 412 | Anaid Sanchez |
-| 63 | 412 | Jazzy Framezone |
+| 62 | 412 | Jazzy Framezone |
+| 63 | 412 | Anaid Sanchez |
 | 64 | 391 | Robert Benito |
 | 65 | 388 | Yvonne Marie |
 | 66 | 388 | Jennifer ManWarren |
@@ -78,8 +78,8 @@
 | 70 | 374 | Tinah Montanna |
 | 71 | 368 | Tdub |
 | 72 | 366 | Jacqueline Williams |
-| 73 | 363 | Kellie |
-| 74 | 363 | Adam Byrd |
+| 73 | 363 | Adam Byrd |
+| 74 | 363 | Kellie |
 | 75 | 362 | Plucky Ziggy |
 | 76 | 359 | Carrie Beck Geartz |
 | 77 | 359 | Nerdy Linkblock |
@@ -237,8 +237,8 @@
 | 229 | 135 | Aimee Horton |
 | 230 | 134 | LD1 |
 | 231 | 133 | Fmp |
-| 232 | 132 | Larry Tilton |
-| 233 | 132 | Layzietyme |
+| 232 | 132 | Layzietyme |
+| 233 | 132 | Larry Tilton |
 | 234 | 131 | Jessie |
 | 235 | 131 | Tawnya Peltonen |
 | 236 | 131 | Uhog SF |

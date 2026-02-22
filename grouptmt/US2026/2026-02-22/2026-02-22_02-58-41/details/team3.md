@@ -131,8 +131,8 @@
 | 123 | 399 | Patti Skiles |
 | 124 | 399 | Mcathen |
 | 125 | 397 | Annie Déè |
-| 126 | 392 | Tasha Gillespie |
-| 127 | 392 | Katie Knaus |
+| 126 | 392 | Katie Knaus |
+| 127 | 392 | Tasha Gillespie |
 | 128 | 391 | Calista Jo Dickson |
 | 129 | 390 | Hasty Cascadefit |
 | 130 | 378 | Makelini Mausia |
