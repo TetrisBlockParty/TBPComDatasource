@@ -96,8 +96,8 @@
 | 88 | 704 | Suzieq |
 | 89 | 696 | Christine Niles |
 | 90 | 694 | MissTaylor |
-| 91 | 662 | Speedy Bridger |
-| 92 | 662 | Jay Horn |
+| 91 | 662 | Jay Horn |
+| 92 | 662 | Speedy Bridger |
 | 93 | 641 | Queen Kam |
 | 94 | 638 | Keith J Oshman Jr. |
 | 95 | 635 | Danielle Mogg |
@@ -247,8 +247,8 @@
 | 239 | 283 | Sarah Moyer |
 | 240 | 282 | Marquita Sheard |
 | 241 | 281 | Carrie Huskey |
-| 242 | 280 | Peppy Shifter |
-| 243 | 280 | Brittany |
+| 242 | 280 | Brittany |
+| 243 | 280 | Peppy Shifter |
 | 244 | 279 | Terry Jo Jones |
 | 245 | 278 | Rufus Lincoln |
 | 246 | 278 | Sabrina Hardrick |
@@ -263,8 +263,8 @@
 | 255 | 269 | Loopy Fallmatch |
 | 256 | 267 | Tiffany Davie |
 | 257 | 266 | Quirky Dropzone |
-| 258 | 262 | Ray Lader |
-| 259 | 262 | Joe-Maggie Mathews |
+| 258 | 262 | Joe-Maggie Mathews |
+| 259 | 262 | Ray Lader |
 | 260 | 261 | Tasha Wesson-Torrence |
 | 261 | 261 | Tiffany Ford |
 | 262 | 260 | Grams |
@@ -288,16 +288,16 @@
 | 280 | 239 | Michael Johnson |
 | 281 | 238 | LaTanya GeminiondaRise Johnson |
 | 282 | 236 | Angela Scott |
-| 283 | 236 | Lys |
-| 284 | 236 | Jess Bissett |
+| 283 | 236 | Jess Bissett |
+| 284 | 236 | Lys |
 | 285 | 235 | Cozy Snaplink |
 | 286 | 233 | Josh Borquez |
 | 287 | 232 | Donna |
 | 288 | 227 | Meowsa |
 | 289 | 227 | Krystal Gerstberger |
 | 290 | 227 | ROODBOY |
-| 291 | 225 | Dirtgirl27 |
-| 292 | 225 | Stephanie Hill |
+| 291 | 225 | Stephanie Hill |
+| 292 | 225 | Dirtgirl27 |
 | 293 | 225 | Steffi Chris Dacones |
 | 294 | 223 | Michael Lucado |
 | 295 | 221 | Vaners |
@@ -402,8 +402,8 @@
 | 394 | 166 | Snarky McFace |
 | 395 | 166 | Rashad Green |
 | 396 | 165 | Kali Kelz Williams |
-| 397 | 164 | momo |
-| 398 | 164 | TazB |
+| 397 | 164 | TazB |
+| 398 | 164 | momo |
 | 399 | 164 | Ashley Rufus Bythcez |
 | 400 | 163 | Diana Ibarra |
 | 401 | 163 | Christine Trester |
@@ -522,7 +522,7 @@
 | 514 | 127 | Scidone Perez |
 | 515 | 127 | Jason-Ashley Ludlow |
 | 516 | 127 | Kevin Russell |
-| 517 | 126 | Lush Balance |
+| 517 | 126 | demon14 |
 | 518 | 126 | Mindy Phelps |
 | 519 | 126 | Lush Balance |
 | 520 | 126 | Spicy Caster |
@@ -569,8 +569,8 @@
 | 561 | 119 | toony |
 | 562 | 119 | Amy Jeffers |
 | 563 | 119 | Michelle Ramirez |
-| 564 | 118 | Scott Doss |
-| 565 | 118 | Martin Bernier |
+| 564 | 118 | Martin Bernier |
+| 565 | 118 | Scott Doss |
 | 566 | 118 | Damian Reid |
 | 567 | 117 | Dee Pratt |
 | 568 | 117 | Elyse Grabowsky |

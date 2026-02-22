@@ -111,8 +111,8 @@
 | 103 | 1564 | Charie Holland |
 | 104 | 1535 | Donnie Hunt |
 | 105 | 1534 | Loopy Clusterbuilder |
-| 106 | 1516 | Stephen Stephen |
-| 107 | 1516 | Mindy Leigh Head |
+| 106 | 1516 | Mindy Leigh Head |
+| 107 | 1516 | Stephen Stephen |
 | 108 | 1513 | blackq |
 | 109 | 1507 | Stephanie Chapman |
 | 110 | 1507 | Linda Pierce |
@@ -356,8 +356,8 @@
 | 348 | 650 | tejas25 |
 | 349 | 650 | Shiny Rollzone |
 | 350 | 643 | Hoppy Brickmatch |
-| 351 | 640 | Kara Gillen |
-| 352 | 640 | BYM4L |
+| 351 | 640 | BYM4L |
+| 352 | 640 | Kara Gillen |
 | 353 | 639 | Crystie Hicks |
 | 354 | 639 | Jelly |
 | 355 | 639 | Rebecca Miller |
@@ -378,8 +378,8 @@
 | 370 | 606 | Brittney Jean |
 | 371 | 603 | Cassie Maynard |
 | 372 | 602 | KhaosLord |
-| 373 | 602 | Biggest thing |
-| 374 | 602 | Christine Bollig |
+| 373 | 602 | Christine Bollig |
+| 374 | 602 | Biggest thing |
 | 375 | 601 | Vonceial Boone |
 | 376 | 597 | Steven Marshaun |
 | 377 | 591 | AgileDragon |

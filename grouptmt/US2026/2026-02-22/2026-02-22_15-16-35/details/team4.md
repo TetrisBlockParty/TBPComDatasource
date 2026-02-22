@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1289 | Roger Coulter |
 | 15 | 1194 | Clarence Patawaran |
@@ -141,8 +141,8 @@
 | 133 | 318 | Carrie Brian |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Jason Hart |
-| 137 | 300 | Dana Scott |
+| 136 | 300 | Dana Scott |
+| 137 | 300 | Jason Hart |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -164,7 +164,7 @@
 | 156 | 267 | Damn Libra |
 | 157 | 265 | Jeff Brian Gates |
 | 158 | 265 | Angela Srubar-Norman |
-| 159 | 264 | Alyssa Papen |
+| 159 | 264 | Epic Curvetile |
 | 160 | 264 | Girl |
 | 161 | 264 | Alyssa Papen |
 | 162 | 263 | Chris Bernstein |
@@ -219,8 +219,8 @@
 | 211 | 204 | Carlos Ramirez |
 | 212 | 203 | Katherine Crane |
 | 213 | 202 | Patron Anderson |
-| 214 | 201 | Melvin Baird |
-| 215 | 201 | Zesty Twistbuilder |
+| 214 | 201 | Zesty Twistbuilder |
+| 215 | 201 | Melvin Baird |
 | 216 | 200 | Lori |
 | 217 | 200 | Laura |
 | 218 | 198 | Keith Kelley |
@@ -257,8 +257,8 @@
 | 249 | 179 | AyeKay |
 | 250 | 175 | Lorena Guerrero-Barron |
 | 251 | 172 | Ziggy |
-| 252 | 171 | Autumn Kumzi |
-| 253 | 171 | June Hoffman |
+| 252 | 171 | June Hoffman |
+| 253 | 171 | Autumn Kumzi |
 | 254 | 168 | 23 |
 | 255 | 167 | Cozy Balancer |
 | 256 | 166 | Jenny Wells-Oakley |
@@ -276,8 +276,8 @@
 | 268 | 159 | DonMega |
 | 269 | 159 | Marcus Todd |
 | 270 | 158 | Chair |
-| 271 | 157 | Bethany Ison |
-| 272 | 157 | KayM |
+| 271 | 157 | KayM |
+| 272 | 157 | Bethany Ison |
 | 273 | 157 | Paige Kittles |
 | 274 | 157 | B Renee Desjardin |
 | 275 | 156 | Ultramarine |
