@@ -175,8 +175,8 @@
 | 167 | 455 | Tessina Dewey-Mancino |
 | 168 | 453 | Shannon Matthew Byers |
 | 169 | 452 | Danielle Rhoades |
-| 170 | 451 | Rachel |
-| 171 | 451 | FuzzyNavel |
+| 170 | 451 | FuzzyNavel |
+| 171 | 451 | Rachel |
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 439 | Tasha Gillespie |
@@ -211,9 +211,9 @@
 | 203 | 378 | Chris Bell |
 | 204 | 377 | Darlene McMillan |
 | 205 | 376 | Loopy Clusterer |
-| 206 | 372 | Tom Nault |
-| 207 | 372 | Rich LeBlanc |
-| 208 | 372 | Giddy Twistbuilder |
+| 206 | 372 | Rich LeBlanc |
+| 207 | 372 | Giddy Twistbuilder |
+| 208 | 372 | Tom Nault |
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
@@ -230,11 +230,11 @@
 | 222 | 350 | Kammy Hill |
 | 223 | 349 | Amanda J. Mcneil-Anderson |
 | 224 | 348 | Kristal C Lee |
-| 225 | 347 | Philip Rock |
-| 226 | 347 | Trisha Balmer |
+| 225 | 347 | Trisha Balmer |
+| 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Rania Zaqout |
-| 229 | 344 | Roary Danner |
+| 228 | 344 | Roary Danner |
+| 229 | 344 | Rania Zaqout |
 | 230 | 343 | Ashley Raines |
 | 231 | 341 | Noyb Adam |
 | 232 | 341 | Ashley Tookes |
@@ -329,8 +329,8 @@
 | 321 | 240 | Jimmie Clemons |
 | 322 | 238 | Niki Dalrymple |
 | 323 | 237 | Jennifer Alvey |
-| 324 | 236 | Lys |
-| 325 | 236 | Jess Bissett |
+| 324 | 236 | Jess Bissett |
+| 325 | 236 | Lys |
 | 326 | 233 | Tony Waters |
 | 327 | 232 | Nicholas Roddy |
 | 328 | 232 | Donna |
@@ -387,8 +387,8 @@
 | 379 | 206 | Tammy Rosenberry |
 | 380 | 206 | Cesar Barraza |
 | 381 | 205 | Rachel Napper |
-| 382 | 204 | Frilly Stackzone |
-| 383 | 204 | Samantha Worley |
+| 382 | 204 | Samantha Worley |
+| 383 | 204 | Frilly Stackzone |
 | 384 | 203 | DanceLuvLaugh |
 | 385 | 203 | Loopy Fallzone |
 | 386 | 203 | Angella Lyons |

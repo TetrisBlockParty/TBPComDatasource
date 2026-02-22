@@ -525,8 +525,8 @@
 | 517 | 497 | June E Hanson |
 | 518 | 495 | Bubbly Snapbuild |
 | 519 | 494 | Venita Ray |
-| 520 | 493 | Sarah DeHart |
-| 521 | 493 | Sue Leard |
+| 520 | 493 | Sue Leard |
+| 521 | 493 | Sarah DeHart |
 | 522 | 493 | Besma Ao |
 | 523 | 492 | Maya June |
 | 524 | 492 | Breezy Clusterer |
@@ -545,10 +545,10 @@
 | 537 | 484 | Ashley Collins |
 | 538 | 484 | Street Sweeper |
 | 539 | 482 | Kathleen Driskell |
-| 540 | 482 | Amélie Cadieux |
-| 541 | 482 | Drwatson187 |
-| 542 | 481 | Anthony Huebel |
-| 543 | 481 | Quirky Twistline |
+| 540 | 482 | Drwatson187 |
+| 541 | 482 | Amélie Cadieux |
+| 542 | 481 | Quirky Twistline |
+| 543 | 481 | Anthony Huebel |
 | 544 | 480 | Ryan Meilleur |
 | 545 | 480 | Dar |
 | 546 | 479 | James Smith |
@@ -578,21 +578,21 @@
 | 570 | 469 | Christy Long |
 | 571 | 468 | Tina Marie |
 | 572 | 468 | Jennifer Monroe Kelly |
-| 573 | 467 | Audrey Jones |
-| 574 | 467 | SwampRebel |
+| 573 | 467 | SwampRebel |
+| 574 | 467 | Audrey Jones |
 | 575 | 466 | Koa N Sharon Chen |
-| 576 | 466 | Ebony Deloach Bryant |
+| 576 | 466 | Crystal Greene |
 | 577 | 466 | Kori Beth Babb |
-| 578 | 466 | Crystal Greene |
+| 578 | 466 | Ebony Deloach Bryant |
 | 579 | 464 | Ryan Stadel |
 | 580 | 463 | Jaye EL Hunter |
 | 581 | 462 | Jennifer Scott |
 | 582 | 462 | Daphne Jordan |
 | 583 | 461 | Lucy Marshall |
 | 584 | 460 | LaWanda Powell |
-| 585 | 460 | Tara Lynn Janes |
+| 585 | 460 | Funky Caster |
 | 586 | 460 | Gloria Ininahazwe |
-| 587 | 460 | Funky Caster |
+| 587 | 460 | Tara Lynn Janes |
 | 588 | 459 | Shyenn Gadsby |
 | 589 | 458 | Jessica S Flecha |
 | 590 | 457 | Snazzy Basepiece |
@@ -603,8 +603,8 @@
 | 595 | 453 | Samantha Scibelli |
 | 596 | 452 | BK Queen |
 | 597 | 451 | Sabrina Burton |
-| 598 | 450 | Rich Sullivan |
-| 599 | 450 | Mike Aprilliano |
+| 598 | 450 | Mike Aprilliano |
+| 599 | 450 | Rich Sullivan |
 | 600 | 449 | Kristi Biddinger |
 | 601 | 448 | Darlene Bowman |
 | 602 | 448 | Lina Sanders |
@@ -656,19 +656,19 @@
 | 648 | 417 | Alexx Anaya |
 | 649 | 417 | Oscar Bernie |
 | 650 | 416 | Mo Shine On |
-| 651 | 414 | Jasmine Kenney |
-| 652 | 414 | John |
+| 651 | 414 | John |
+| 652 | 414 | Jasmine Kenney |
 | 653 | 414 | Daniel Amos |
 | 654 | 413 | Kristen O'Neal |
-| 655 | 413 | Kimberly Ann |
-| 656 | 413 | Moist_B-hole |
+| 655 | 413 | Moist_B-hole |
+| 656 | 413 | Kimberly Ann |
 | 657 | 412 | Jason H Baker |
 | 658 | 411 | Christina Ashley |
 | 659 | 410 | Belle |
 | 660 | 409 | Alexis Richardson |
 | 661 | 409 | Cleo Sims |
-| 662 | 408 | Boogie SoAnimated Johnson |
-| 663 | 408 | Qiana Sanders |
+| 662 | 408 | Qiana Sanders |
+| 663 | 408 | Boogie SoAnimated Johnson |
 | 664 | 408 | Brandon Jones |
 | 665 | 407 | Tipsy Filler |
 | 666 | 406 | Erin StFrancis |
