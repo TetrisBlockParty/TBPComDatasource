@@ -117,8 +117,8 @@
 | 109 | 277 | Ly Phethmany |
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
-| 112 | 273 | Happy Basegrid |
-| 113 | 273 | Katie Daniels |
+| 112 | 273 | Katie Daniels |
+| 113 | 273 | Happy Basegrid |
 | 114 | 265 | Dandy Basegrid |
 | 115 | 263 | Sharon Reynolds |
 | 116 | 263 | Jason Jones |
@@ -133,8 +133,8 @@
 | 125 | 237 | Greg Hart |
 | 126 | 236 | Mandyy Rae |
 | 127 | 232 | Jessi Sauer |
-| 128 | 230 | Frothy Pattern |
-| 129 | 230 | Billie Dawn Sparks |
+| 128 | 230 | Billie Dawn Sparks |
+| 129 | 230 | Frothy Pattern |
 | 130 | 229 | Jennifer Hardman |
 | 131 | 228 | Jenny Gingrich Fuentes |
 | 132 | 226 | Kandae |
@@ -142,8 +142,8 @@
 | 134 | 216 | MRdot Rooski |
 | 135 | 216 | Shauntina Burke |
 | 136 | 214 | GATOR |
-| 137 | 212 | Lori Bales |
-| 138 | 212 | Jaimie Lynn |
+| 137 | 212 | Jaimie Lynn |
+| 138 | 212 | Lori Bales |
 | 139 | 211 | Marianita Garcia |
 | 140 | 208 | Giggly Builderline |
 | 141 | 207 | Leslie Bush Yarbrough |
@@ -174,8 +174,8 @@
 | 166 | 183 | lil mickey |
 | 167 | 180 | Erez Yosef |
 | 168 | 180 | BigWeenie69 |
-| 169 | 179 | Danielle Little-Daugherty |
-| 170 | 179 | femmefatale |
+| 169 | 179 | femmefatale |
+| 170 | 179 | Danielle Little-Daugherty |
 | 171 | 178 | Chad Atchley |
 | 172 | 177 | Irual Hctrab |
 | 173 | 177 | Jacqueline Unique |
@@ -222,8 +222,8 @@
 | 214 | 144 | Gary Gobin |
 | 215 | 143 | Guest |
 | 216 | 142 | Colleen Wise |
-| 217 | 141 | Blaire Bruckoff |
-| 218 | 141 | Dino |
+| 217 | 141 | Dino |
+| 218 | 141 | Blaire Bruckoff |
 | 219 | 139 | Flashy Rotator |
 | 220 | 138 | Mark Smith |
 | 221 | 138 | Hector Cruz |

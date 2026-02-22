@@ -518,8 +518,8 @@
 | 510 | 354 | Rickey Johnson |
 | 511 | 354 | Connie Lepore-Mann |
 | 512 | 353 | Cheery Matchzone |
-| 513 | 352 | Jean FU Jagielski |
-| 514 | 352 | Andrea Maher |
+| 513 | 352 | Andrea Maher |
+| 514 | 352 | Jean FU Jagielski |
 | 515 | 352 | ruth |
 | 516 | 350 | Chris Harr |
 | 517 | 350 | Eric Carlson |

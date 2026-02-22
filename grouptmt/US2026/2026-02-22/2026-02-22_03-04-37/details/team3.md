@@ -117,12 +117,12 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Elissa S-k |
-| 113 | 428 | Betty Ivy |
+| 112 | 428 | Betty Ivy |
+| 113 | 428 | Elissa S-k |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Blkpep Davidson |
-| 117 | 410 | Stephanie Simpson |
+| 116 | 410 | Stephanie Simpson |
+| 117 | 410 | Stephanie Blkpep Davidson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 402 | Shannon Matthew Byers |
@@ -197,8 +197,8 @@
 | 189 | 262 | Joe-Maggie Mathews |
 | 190 | 261 | Tiffany Ford |
 | 191 | 261 | Brittany |
-| 192 | 260 | Dee Franklin |
-| 193 | 260 | Grams |
+| 192 | 260 | Grams |
+| 193 | 260 | Dee Franklin |
 | 194 | 258 | Tamara Deherrera |
 | 195 | 257 | Ashley Jones |
 | 196 | 256 | Brenda Lee Vander Molen |
@@ -288,10 +288,10 @@
 | 280 | 167 | fraulila |
 | 281 | 167 | Shicken Nuggit |
 | 282 | 166 | Betty Rosas |
-| 283 | 165 | Irene Arreguin |
-| 284 | 165 | Kali Kelz Williams |
-| 285 | 163 | Diana Ibarra |
-| 286 | 163 | Stephanie Hill |
+| 283 | 165 | Kali Kelz Williams |
+| 284 | 165 | Irene Arreguin |
+| 285 | 163 | Stephanie Hill |
+| 286 | 163 | Diana Ibarra |
 | 287 | 163 | Christine Trester |
 | 288 | 162 | Stephanie Whitefield |
 | 289 | 162 | Loopy Fallzone |

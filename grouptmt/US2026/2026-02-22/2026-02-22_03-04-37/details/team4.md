@@ -167,8 +167,8 @@
 | 159 | 185 | Andy Cabral |
 | 160 | 185 | Ren Mc |
 | 161 | 185 | Lori |
-| 162 | 184 | Ak Jones |
-| 163 | 184 | Jason Allen |
+| 162 | 184 | Jason Allen |
+| 163 | 184 | Ak Jones |
 | 164 | 182 | Matt Summer |
 | 165 | 181 | Carter Jones |
 | 166 | 181 | Klo |
@@ -195,7 +195,7 @@
 | 187 | 153 | Empress Oasis |
 | 188 | 152 | John Brunetti |
 | 189 | 151 | Bethany Ison |
-| 190 | 149 | Shainne Brewer |
+| 190 | 149 | Judy Cox |
 | 191 | 149 | Megan Cutshaw |
 | 192 | 149 | Shainne Brewer |
 | 193 | 148 | Janita Parrish |
@@ -207,8 +207,8 @@
 | 199 | 146 | Laura Hosford |
 | 200 | 145 | Mimi |
 | 201 | 144 | Tanner Lund |
-| 202 | 143 | Lauren Lamb |
-| 203 | 143 | Sam Bishop |
+| 202 | 143 | Sam Bishop |
+| 203 | 143 | Lauren Lamb |
 | 204 | 142 | Stephme310 |
 | 205 | 142 | Zippy Gridlock |
 | 206 | 141 | ĥuf |
@@ -223,8 +223,8 @@
 | 215 | 137 | TinyLegoRose |
 | 216 | 137 | PeaceOs |
 | 217 | 134 | Kristina Black |
-| 218 | 134 | Kim Klutz Olson |
-| 219 | 134 | Chirpy Basepiece |
+| 218 | 134 | Chirpy Basepiece |
+| 219 | 134 | Kim Klutz Olson |
 | 220 | 133 | Angela Geist Jusinski |
 | 221 | 132 | Melissa Priest Sellers |
 | 222 | 132 | Degenerate |
@@ -266,8 +266,8 @@
 | 258 | 119 | rebel4lyfe |
 | 259 | 119 | Gwendolyn Pitcairn |
 | 260 | 118 | Porkobello |
-| 261 | 117 | LS |
-| 262 | 117 | BigSammy420 |
+| 261 | 117 | BigSammy420 |
+| 262 | 117 | LS |
 | 263 | 116 | Maureen Flanigan |
 | 264 | 116 | Adam Stephanie Parker |
 | 265 | 115 | Jayk |
