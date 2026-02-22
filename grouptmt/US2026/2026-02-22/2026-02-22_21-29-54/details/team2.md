@@ -147,8 +147,8 @@
 | 139 | 1452 | Poppy Snapper |
 | 140 | 1450 | Cody Smith-Candelaria |
 | 141 | 1418 | L3sli3 |
-| 142 | 1411 | Zappy Cascade |
-| 143 | 1411 | niecy |
+| 142 | 1411 | niecy |
+| 143 | 1411 | Zappy Cascade |
 | 144 | 1401 | Brandy Andre |
 | 145 | 1397 | Bussyiano Page |
 | 146 | 1395 | Jose Mendoza |
@@ -280,8 +280,8 @@
 | 272 | 883 | nikki |
 | 273 | 880 | Sam Joe |
 | 274 | 878 | Missie Lawson Gebhardt |
-| 275 | 875 | Jamie Otero |
-| 276 | 875 | William Hunt |
+| 275 | 875 | William Hunt |
+| 276 | 875 | Jamie Otero |
 | 277 | 874 | Giggy Blocker |
 | 278 | 872 | Felicia Lynn |
 | 279 | 867 | Peppy Zone |
@@ -348,8 +348,8 @@
 | 340 | 743 | Tiara Elizabeth Baker |
 | 341 | 741 | Mandi Douglas Hilt |
 | 342 | 740 | Jerry Tempelmeyer |
-| 343 | 739 | Brenda Utphall |
-| 344 | 739 | Jánine Riggs |
+| 343 | 739 | Jánine Riggs |
+| 344 | 739 | Brenda Utphall |
 | 345 | 737 | Ginger |
 | 346 | 737 | Jeremy Parodi |
 | 347 | 734 | Deborah Miller |
@@ -564,13 +564,13 @@
 | 556 | 484 | Wendy Unsain |
 | 557 | 483 | Kyle LeRoy Harris |
 | 558 | 482 | Drwatson187 |
-| 559 | 482 | Amélie Cadieux |
-| 560 | 482 | Snippy Rumbler |
+| 559 | 482 | Snippy Rumbler |
+| 560 | 482 | Amélie Cadieux |
 | 561 | 482 | Kathleen Driskell |
 | 562 | 481 | Quirky Twistline |
 | 563 | 480 | Ryan Meilleur |
-| 564 | 480 | Dar |
-| 565 | 480 | Kori Beth Babb |
+| 564 | 480 | Kori Beth Babb |
+| 565 | 480 | Dar |
 | 566 | 479 | James Smith |
 | 567 | 477 | Rhonda Petro |
 | 568 | 476 | Christy Krissie |

@@ -100,8 +100,8 @@
 | 92 | 539 | Chris Baggett |
 | 93 | 523 | Samantha Peterson |
 | 94 | 519 | Nugget |
-| 95 | 513 | Erin Thomas |
-| 96 | 513 | YoMomma |
+| 95 | 513 | YoMomma |
+| 96 | 513 | Erin Thomas |
 | 97 | 512 | Casey Jeffcoat |
 | 98 | 511 | Zippy Gridlock |
 | 99 | 509 | Diana Houts |
@@ -114,8 +114,8 @@
 | 106 | 475 | Isabella Blanco |
 | 107 | 474 | Jenna Ingersoll |
 | 108 | 472 | Chilly Crasher |
-| 109 | 462 | Scott Jameson |
-| 110 | 462 | Lori Walker |
+| 109 | 462 | Lori Walker |
+| 110 | 462 | Scott Jameson |
 | 111 | 457 | Alyssa Papen |
 | 112 | 456 | Twisty Clicky |
 | 113 | 449 | shar |
@@ -244,9 +244,9 @@
 | 236 | 221 | Rheanda Weaskus |
 | 237 | 220 | Joanna |
 | 238 | 220 | Chair |
-| 239 | 219 | BigSammy420 |
-| 240 | 219 | Malakai Darien Fox |
-| 241 | 219 | Dizzy Matchzone |
+| 239 | 219 | Malakai Darien Fox |
+| 240 | 219 | Dizzy Matchzone |
+| 241 | 219 | BigSammy420 |
 | 242 | 218 | Lori |
 | 243 | 216 | Cristy Duerksen |
 | 244 | 216 | Chance Strickland |

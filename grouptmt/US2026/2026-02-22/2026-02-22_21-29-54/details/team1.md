@@ -249,8 +249,8 @@
 | 241 | 223 | Thorne Shumate |
 | 242 | 223 | Christina Backer |
 | 243 | 222 | Debbie Davis |
-| 244 | 221 | Amy Hess |
-| 245 | 221 | Daring Fitclear |
+| 244 | 221 | Daring Fitclear |
+| 245 | 221 | Amy Hess |
 | 246 | 220 | Bouncy Grid |
 | 247 | 219 | Joe Coon |
 | 248 | 219 | Chuck Gannon |
@@ -306,8 +306,8 @@
 | 298 | 191 | Herm Junior |
 | 299 | 191 | John Garza |
 | 300 | 190 | Sweetts |
-| 301 | 189 | Tawnya Peltonen |
-| 302 | 189 | Bird Person |
+| 301 | 189 | Bird Person |
+| 302 | 189 | Tawnya Peltonen |
 | 303 | 188 | Brave Wrecker |
 | 304 | 187 | Speedy Snapfall |
 | 305 | 187 | Tipsy Riseclear |

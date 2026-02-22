@@ -72,8 +72,8 @@
 | 64 | 1027 | Gracie |
 | 65 | 1019 | Joey Banks |
 | 66 | 954 | Nate Burnside |
-| 67 | 926 | Angela M. Fletcher |
-| 68 | 926 | Judi Dobson |
+| 67 | 926 | Judi Dobson |
+| 68 | 926 | Angela M. Fletcher |
 | 69 | 924 | Shonna Roberts |
 | 70 | 919 | Jennifer |
 | 71 | 910 | Corie A. Brinson |
@@ -220,8 +220,8 @@
 | 212 | 369 | Sarah Moyer |
 | 213 | 369 | RickyG |
 | 214 | 368 | Stephanie Woods |
-| 215 | 367 | Loopy Fallmatch |
-| 216 | 367 | Marci Mize Fandrich |
+| 215 | 367 | Marci Mize Fandrich |
+| 216 | 367 | Loopy Fallmatch |
 | 217 | 366 | Demetrious Shaw Sr. |
 | 218 | 365 | Chummy Caster |
 | 219 | 365 | Michael Johnson |
@@ -248,8 +248,8 @@
 | 240 | 340 | Ammmmmmy |
 | 241 | 338 | Gumbo |
 | 242 | 332 | Bmo |
-| 243 | 330 | victory |
-| 244 | 330 | Peppy Shifter |
+| 243 | 330 | Peppy Shifter |
+| 244 | 330 | victory |
 | 245 | 329 | Brittany |
 | 246 | 326 | Dee Franklin |
 | 247 | 324 | Sissy Lowery Davis |
@@ -300,7 +300,7 @@
 | 292 | 276 | Hasty Gridpiece |
 | 293 | 276 | _melisa223_ |
 | 294 | 276 | Crimson |
-| 295 | 276 | Hasty Gridpiece |
+| 295 | 276 | Heather De Vries Cobb |
 | 296 | 275 | Cassandra Bryant |
 | 297 | 273 | Troy |
 | 298 | 273 | Dannie Litchard |
@@ -338,10 +338,10 @@
 | 330 | 243 | Josh Borquez |
 | 331 | 243 | Michael Kimbro |
 | 332 | 242 | Randy Clevenger |
-| 333 | 240 | Tegan Chapman |
-| 334 | 240 | Eric Caccavale |
-| 335 | 238 | Fancy Curver |
-| 336 | 238 | Niki Dalrymple |
+| 333 | 240 | Eric Caccavale |
+| 334 | 240 | Tegan Chapman |
+| 335 | 238 | Niki Dalrymple |
+| 336 | 238 | Fancy Curver |
 | 337 | 237 | Jennifer Alvey |
 | 338 | 236 | Jess Bissett |
 | 339 | 236 | Lys |
