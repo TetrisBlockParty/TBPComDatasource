@@ -68,8 +68,8 @@
 | 60 | 735 | Avy Absol |
 | 61 | 731 | Anthony Bryan Riva |
 | 62 | 722 | Dustee Craddock-Harrison |
-| 63 | 721 | Chilly Line |
-| 64 | 721 | Edward White |
+| 63 | 721 | Edward White |
+| 64 | 721 | Chilly Line |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
@@ -78,13 +78,13 @@
 | 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
-| 78 | 617 | Jason Hart |
-| 79 | 617 | Savannah Overdorf |
+| 78 | 617 | Savannah Overdorf |
+| 79 | 617 | Jason Hart |
 | 80 | 614 | TheNeesh50 |
 | 81 | 597 | Eric Mcgaughy |
 | 82 | 596 | Judy Cox |
@@ -275,8 +275,8 @@
 | 267 | 200 | Googenheim |
 | 268 | 199 | TinyLegoRose |
 | 269 | 198 | Silly SeaWeed |
-| 270 | 198 | Calvin Dennis |
-| 271 | 198 | Shainne Brewer |
+| 270 | 198 | Shainne Brewer |
+| 271 | 198 | Calvin Dennis |
 | 272 | 197 | Gilles Lanctot |
 | 273 | 195 | 中山成巳 |
 | 274 | 194 | Zany Twisterfit |

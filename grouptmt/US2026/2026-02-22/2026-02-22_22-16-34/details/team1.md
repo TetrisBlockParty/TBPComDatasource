@@ -166,8 +166,8 @@
 | 158 | 318 | Virginia Gray Floyd |
 | 159 | 318 | Jessica Sheehan |
 | 160 | 313 | Jason Savage |
-| 161 | 310 | Basment Living |
-| 162 | 310 | Kimberly Garcia |
+| 161 | 310 | Kimberly Garcia |
+| 162 | 310 | Basment Living |
 | 163 | 309 | Rachael |
 | 164 | 307 | Sarah Roberts |
 | 165 | 306 | Rat666 |
@@ -213,12 +213,12 @@
 | 205 | 260 | Cheeky Pop |
 | 206 | 256 | Chris65 |
 | 207 | 255 | Speedy Liney |
-| 208 | 254 | Giggly Builderline |
-| 209 | 254 | Al Smith Jr |
+| 208 | 254 | Al Smith Jr |
+| 209 | 254 | Giggly Builderline |
 | 210 | 253 | Jamie Jury |
 | 211 | 252 | Dena Kayy |
-| 212 | 249 | Sam Williams |
-| 213 | 249 | Lakeisha Chapman |
+| 212 | 249 | Lakeisha Chapman |
+| 213 | 249 | Sam Williams |
 | 214 | 248 | Jen Nystrom |
 | 215 | 247 | John J. Cronin |
 | 216 | 247 | Snappy Matcher |
@@ -232,8 +232,8 @@
 | 224 | 240 | DaRascal |
 | 225 | 240 | Daring Fitclear |
 | 226 | 239 | Lacy Wolfe |
-| 227 | 238 | Sarah Somers Gray |
-| 228 | 238 | Tiffany Smith |
+| 227 | 238 | Tiffany Smith |
+| 228 | 238 | Sarah Somers Gray |
 | 229 | 235 | Bindi |
 | 230 | 234 | Jessie Lynn |
 | 231 | 234 | Shanae Grant |

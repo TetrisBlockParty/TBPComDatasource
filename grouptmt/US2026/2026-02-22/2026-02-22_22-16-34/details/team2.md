@@ -150,8 +150,8 @@
 | 142 | 1450 | Cody Smith-Candelaria |
 | 143 | 1418 | L3sli3 |
 | 144 | 1412 | Angi Harrison |
-| 145 | 1411 | niecy |
-| 146 | 1411 | Zappy Cascade |
+| 145 | 1411 | Zappy Cascade |
+| 146 | 1411 | niecy |
 | 147 | 1401 | Brandy Andre |
 | 148 | 1397 | Bussyiano Page |
 | 149 | 1390 | Erica Williams |
@@ -653,8 +653,8 @@
 | 645 | 433 | Tabs Reichert |
 | 646 | 433 | Tom Steffen |
 | 647 | 431 | Joel Rosado |
-| 648 | 431 | Hunter Connors |
-| 649 | 431 | Quinn |
+| 648 | 431 | Quinn |
+| 649 | 431 | Hunter Connors |
 | 650 | 430 | De Hawkins |
 | 651 | 429 | Goofy Catcher |
 | 652 | 429 | Angel Hunnewell |

@@ -193,8 +193,8 @@
 | 185 | 432 | Christine Trester |
 | 186 | 432 | Jenny Hrndz |
 | 187 | 431 | Sarah Cowan Burgos |
-| 188 | 430 | Joye Sims Binion |
-| 189 | 430 | Jeni Dow |
+| 188 | 430 | Jeni Dow |
+| 189 | 430 | Joye Sims Binion |
 | 190 | 427 | Wendy Dearden |
 | 191 | 426 | Rochelle Hazelett |
 | 192 | 425 | Michael Johnson |
@@ -244,8 +244,8 @@
 | 236 | 344 | Rania Zaqout |
 | 237 | 343 | Ashley Raines |
 | 238 | 341 | Ashley Tookes |
-| 239 | 341 | Noyb Adam |
-| 240 | 341 | Samantha Lynn |
+| 239 | 341 | Samantha Lynn |
+| 240 | 341 | Noyb Adam |
 | 241 | 340 | Ammmmmmy |
 | 242 | 339 | Kelly |
 | 243 | 339 | Danielle Weikel |
@@ -286,8 +286,8 @@
 | 278 | 293 | Tye Stovall |
 | 279 | 292 | Cheeky Snapper |
 | 280 | 291 | Carrie Huskey |
-| 281 | 289 | Duane Bright |
-| 282 | 289 | DidIdothat |
+| 281 | 289 | DidIdothat |
+| 282 | 289 | Duane Bright |
 | 283 | 288 | Connie Mohler-Fair |
 | 284 | 287 | Sabrina Hardrick |
 | 285 | 283 | Heather Green |
@@ -376,10 +376,10 @@
 | 368 | 224 | Carol Cain Thurman |
 | 369 | 222 | gremicx |
 | 370 | 222 | 4girls |
-| 371 | 221 | Mariah Williams |
+| 371 | 221 | Vaners |
 | 372 | 221 | Ryan Williams |
 | 373 | 221 | Bleu Sun Beams |
-| 374 | 221 | Vaners |
+| 374 | 221 | Mariah Williams |
 | 375 | 220 | Loopy Fallzone |
 | 376 | 219 | TotoCherue |
 | 377 | 218 | Khaleada McGill Banks |
