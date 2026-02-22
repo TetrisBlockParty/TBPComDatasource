@@ -262,11 +262,11 @@
 | 254 | 957 | Block Master |
 | 255 | 957 | Keri Womack |
 | 256 | 957 | Crystal Hoffman |
-| 257 | 955 | Angela Bonquiqui Dinish |
-| 258 | 955 | Kevin Walp |
+| 257 | 955 | Kevin Walp |
+| 258 | 955 | Angela Bonquiqui Dinish |
 | 259 | 951 | Cynthia Ward |
-| 260 | 941 | Cool Clearer |
-| 261 | 941 | Glitzy Stackzone |
+| 260 | 941 | Glitzy Stackzone |
+| 261 | 941 | Cool Clearer |
 | 262 | 937 | Cindy Sechler Taninecz |
 | 263 | 936 | Rickey Johnson |
 | 264 | 934 | April Dawn Gussler |

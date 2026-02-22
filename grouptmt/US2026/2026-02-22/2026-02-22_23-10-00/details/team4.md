@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -171,8 +171,8 @@
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
 | 165 | 314 | TRCuse |
-| 166 | 314 | 🥔🥔 Spudz |
-| 167 | 314 | Andy Cabral |
+| 166 | 314 | Andy Cabral |
+| 167 | 314 | 🥔🥔 Spudz |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
 | 170 | 311 | JIGsaw ~(•¿°)~ |
@@ -220,14 +220,14 @@
 | 212 | 261 | Dihcheese444 |
 | 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | Cheery Risebuilder |
-| 216 | 257 | PeaceOs |
+| 215 | 257 | PeaceOs |
+| 216 | 257 | Cheery Risebuilder |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Carlos Ramirez |
 | 225 | 246 | Zethra Prenisha Rahming |

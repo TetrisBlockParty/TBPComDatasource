@@ -211,8 +211,8 @@
 | 203 | 415 | Cass Mendoza |
 | 204 | 413 | Loopy Clusterer |
 | 205 | 410 | Stephanie Simpson |
-| 206 | 405 | Tom Nault |
-| 207 | 405 | Sherry Ogden |
+| 206 | 405 | Sherry Ogden |
+| 207 | 405 | Tom Nault |
 | 208 | 404 | Chasity |
 | 209 | 403 | Scott Lindsay |
 | 210 | 401 | Demetrious Shaw Sr. |
@@ -235,8 +235,8 @@
 | 227 | 368 | Stephanie Woods |
 | 228 | 368 | Rebecca Funderburk Kirby |
 | 229 | 366 | Marquita Sheard |
-| 230 | 365 | Chummy Caster |
-| 231 | 365 | Tiffany Ford |
+| 230 | 365 | Tiffany Ford |
+| 231 | 365 | Chummy Caster |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
 | 234 | 357 | Ammmmmmy |
