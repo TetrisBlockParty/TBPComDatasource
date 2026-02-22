@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -186,8 +186,8 @@
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
 | 180 | 338 | Gumbo |
-| 181 | 338 | Raven Dudley |
-| 182 | 338 | Leah Barnett |
+| 181 | 338 | Leah Barnett |
+| 182 | 338 | Raven Dudley |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -195,8 +195,8 @@
 | 187 | 319 | Rebecca Funderburk Kirby |
 | 188 | 317 | Ashley Tookes |
 | 189 | 315 | Kammy Hill |
-| 190 | 311 | Rochelle Hazelett |
-| 191 | 311 | Araceli Parra |
+| 190 | 311 | Araceli Parra |
+| 191 | 311 | Rochelle Hazelett |
 | 192 | 310 | Danielle Balcom |
 | 193 | 308 | Daryn Elliott |
 | 194 | 308 | Rania Zaqout |
@@ -318,12 +318,12 @@
 | 310 | 182 | Melanie Sherwood |
 | 311 | 181 | Nicholas Roddy |
 | 312 | 181 | Denita Mungro |
-| 313 | 180 | Beth Ingham |
-| 314 | 180 | Criss |
+| 313 | 180 | Criss |
+| 314 | 180 | Beth Ingham |
 | 315 | 179 | Christian Werndl |
 | 316 | 179 | DanceLuvLaugh |
-| 317 | 179 | Tipsy Zonebuilder |
-| 318 | 179 | Rachel Napper |
+| 317 | 179 | Rachel Napper |
+| 318 | 179 | Tipsy Zonebuilder |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
 | 321 | 176 | Melissa Orth Hunter |
@@ -338,8 +338,8 @@
 | 330 | 168 | Trice Thomas |
 | 331 | 168 | April Matthew Kibble |
 | 332 | 167 | Shicken Nuggit |
-| 333 | 167 | Romeo |
-| 334 | 167 | Irene Arreguin |
+| 333 | 167 | Irene Arreguin |
+| 334 | 167 | Romeo |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
 | 337 | 165 | Ashley Lynn Marchese |
@@ -349,9 +349,9 @@
 | 341 | 163 | Christine Trester |
 | 342 | 162 | Nicole Summers-Nelson |
 | 343 | 162 | Loopy Fallzone |
-| 344 | 162 | Stephanie Whitefield |
-| 345 | 162 | Kristin Delibac Corrigan |
-| 346 | 162 | Ava Petito |
+| 344 | 162 | Ava Petito |
+| 345 | 162 | Stephanie Whitefield |
+| 346 | 162 | Kristin Delibac Corrigan |
 | 347 | 161 | Michael Johnson |
 | 348 | 161 | Julia Nicole |
 | 349 | 161 | Bouncy Blockbuilder |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Lys |
-| 362 | 153 | Sheila M Frazier |
+| 361 | 153 | Sheila M Frazier |
+| 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |
@@ -416,18 +416,18 @@
 | 408 | 134 | Tammy |
 | 409 | 134 | Maia |
 | 410 | 133 | Jen Lewis |
-| 411 | 132 | Hanna Kim |
-| 412 | 132 | Andrew Thorson |
+| 411 | 132 | Andrew Thorson |
+| 412 | 132 | Hanna Kim |
 | 413 | 131 | Cheeky Setter |
 | 414 | 130 | Sarah Whalen |
-| 415 | 130 | Brian Battjes |
+| 415 | 130 | TotoCherue |
 | 416 | 130 | Karen Picaboo |
-| 417 | 130 | TotoCherue |
-| 418 | 129 | Stella |
-| 419 | 129 | luluraine |
+| 417 | 130 | Brian Battjes |
+| 418 | 129 | luluraine |
+| 419 | 129 | Stella |
 | 420 | 129 | Juliana Dottore |
-| 421 | 129 | Amanda Neal |
-| 422 | 129 | TLM |
+| 421 | 129 | TLM |
+| 422 | 129 | Amanda Neal |
 | 423 | 128 | David Kozen |
 | 424 | 127 | Jumpy Wrecker |
 | 425 | 126 | Tipsy Puzzle |
