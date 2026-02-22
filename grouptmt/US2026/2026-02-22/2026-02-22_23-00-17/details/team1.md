@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -252,12 +252,12 @@
 | 244 | 228 | Adele Rahman |
 | 245 | 228 | Michael |
 | 246 | 228 | Shiny Gridmatch |
-| 247 | 228 | Michael |
+| 247 | 228 | Giddy Cascade |
 | 248 | 224 | Tipsy Riseclear |
 | 249 | 223 | Erez Yosef |
 | 250 | 223 | Christina Backer |
-| 251 | 222 | Debbie Davis |
-| 252 | 222 | Snappy Bridgepiece |
+| 251 | 222 | Snappy Bridgepiece |
+| 252 | 222 | Debbie Davis |
 | 253 | 221 | Amy Hess |
 | 254 | 220 | Bouncy Grid |
 | 255 | 219 | Joe Coon |
@@ -490,7 +490,7 @@
 | 482 | 121 | John Ramirez |
 | 483 | 121 | Jacob Shaddock |
 | 484 | 121 | Amber Nixon |
-| 485 | 121 | Jacob Shaddock |
+| 485 | 121 | Brad MG |
 | 486 | 119 | Edgar Algiere |
 | 487 | 118 | Mighty Shatterfit |
 | 488 | 118 | Kerry Lee Powell |

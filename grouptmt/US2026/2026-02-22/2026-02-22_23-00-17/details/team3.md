@@ -113,8 +113,8 @@
 | 105 | 733 | mzcatzy |
 | 106 | 723 | Mandy Smith Oldham |
 | 107 | 720 | Raya |
-| 108 | 716 | Calista Jo Dickson |
-| 109 | 716 | Kristie |
+| 108 | 716 | Kristie |
+| 109 | 716 | Calista Jo Dickson |
 | 110 | 715 | Keith J Oshman Jr. |
 | 111 | 712 | Katrina Schroeder |
 | 112 | 708 | Speedy Bridger |

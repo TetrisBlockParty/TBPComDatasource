@@ -175,8 +175,8 @@
 | 167 | 314 | Andy Cabral |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
-| 170 | 307 | Girl |
-| 171 | 307 | Bio Nelly |
+| 170 | 307 | Bio Nelly |
+| 171 | 307 | Girl |
 | 172 | 304 | Chaz Duncan |
 | 173 | 303 | shark tato |
 | 174 | 302 | Cursed Hag |
@@ -456,7 +456,7 @@
 | 448 | 131 | Smiley Tiltbuilder |
 | 449 | 130 | KoolMom9907 |
 | 450 | 130 | Shiny Pivoty |
-| 451 | 130 | KoolMom9907 |
+| 451 | 130 | Shukee Lo |
 | 452 | 130 | Riverdale |
 | 453 | 129 | Sherri |
 | 454 | 129 | Groovy Brickmatch |

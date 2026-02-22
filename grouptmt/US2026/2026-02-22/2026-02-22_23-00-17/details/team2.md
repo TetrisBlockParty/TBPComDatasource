@@ -336,8 +336,8 @@
 | 328 | 788 | Erika Densmore |
 | 329 | 782 | Beth |
 | 330 | 781 | Cassie Mercer |
-| 331 | 777 | Jessicah Myers |
-| 332 | 777 | Tesha Oldaker |
+| 331 | 777 | Tesha Oldaker |
+| 332 | 777 | Jessicah Myers |
 | 333 | 777 | Samantha Jo |
 | 334 | 777 | Em Chen |
 | 335 | 774 | Ashley Dow |
@@ -471,8 +471,8 @@
 | 463 | 589 | Kelly Templeton |
 | 464 | 588 | Denise Rickman |
 | 465 | 585 | Sheronda Jackson |
-| 466 | 584 | Ryan Stadel |
-| 467 | 584 | snkylnk |
+| 466 | 584 | snkylnk |
+| 467 | 584 | Ryan Stadel |
 | 468 | 583 | Kitybox |
 | 469 | 582 | Bee |
 | 470 | 582 | Gauri Shrotriya |
@@ -746,8 +746,8 @@
 | 738 | 390 | Aireka Roman |
 | 739 | 390 | Cini |
 | 740 | 389 | Montez Mancil |
-| 741 | 389 | Eunique Griffin |
-| 742 | 389 | Mandy Kachenmeister |
+| 741 | 389 | Mandy Kachenmeister |
+| 742 | 389 | Eunique Griffin |
 | 743 | 388 | Sarah block |
 | 744 | 388 | CC |
 | 745 | 388 | ruth |
