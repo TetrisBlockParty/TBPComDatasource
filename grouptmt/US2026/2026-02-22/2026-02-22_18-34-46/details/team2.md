@@ -157,8 +157,8 @@
 | 149 | 1290 | Bussyiano Page |
 | 150 | 1286 | Altamirano Michael |
 | 151 | 1286 | Eileen Hale |
-| 152 | 1282 | Ashley Rose Frederick |
-| 153 | 1282 | Tanya Parsons |
+| 152 | 1282 | Tanya Parsons |
+| 153 | 1282 | Ashley Rose Frederick |
 | 154 | 1273 | Cool Rollpiece |
 | 155 | 1271 | Shandrica Lowe |
 | 156 | 1248 | Isabela Shaw |
@@ -253,8 +253,8 @@
 | 245 | 894 | Auntie B |
 | 246 | 892 | Rebecca Doughman |
 | 247 | 890 | Kevin Walp |
-| 248 | 884 | Adira Brown |
-| 249 | 884 | Boldy Cascadepiece |
+| 248 | 884 | Boldy Cascadepiece |
+| 249 | 884 | Adira Brown |
 | 250 | 883 | nikki |
 | 251 | 880 | Sam Joe |
 | 252 | 879 | Tony Lea |
@@ -471,8 +471,8 @@
 | 463 | 533 | Davetta Sanford |
 | 464 | 533 | Gauri Shrotriya |
 | 465 | 532 | Ann Matzkanin |
-| 466 | 531 | Aishah Brice |
-| 467 | 531 | Briana Alexander |
+| 466 | 531 | Briana Alexander |
+| 467 | 531 | Aishah Brice |
 | 468 | 529 | Victoria Regina Girolami |
 | 469 | 528 | Anita Rose Green |
 | 470 | 527 | Ryan Gunther |
@@ -557,10 +557,10 @@
 | 549 | 467 | SwampRebel |
 | 550 | 466 | Tina Marie |
 | 551 | 466 | Koa N Sharon Chen |
-| 552 | 466 | Crystal Greene |
-| 553 | 466 | Kori Beth Babb |
-| 554 | 463 | Cody Nishimura |
-| 555 | 463 | Jaye EL Hunter |
+| 552 | 466 | Kori Beth Babb |
+| 553 | 466 | Crystal Greene |
+| 554 | 463 | Jaye EL Hunter |
+| 555 | 463 | Cody Nishimura |
 | 556 | 463 | Véronique Lévesque Sabourin |
 | 557 | 463 | Mia Muse Best |
 | 558 | 462 | Amanda Ferrell |
@@ -810,8 +810,8 @@
 | 802 | 327 | Polly Pritchard Chesler |
 | 803 | 326 | Mandi Marie Smith |
 | 804 | 326 | Jennifer Mahon |
-| 805 | 325 | Noel Tarmy |
-| 806 | 325 | August Hale |
+| 805 | 325 | August Hale |
+| 806 | 325 | Noel Tarmy |
 | 807 | 325 | Justin Hines |
 | 808 | 324 | Dale Haanpaa |
 | 809 | 323 | Trista Carter |
@@ -832,9 +832,9 @@
 | 824 | 317 | Jumpy Gridclear |
 | 825 | 316 | Epic Spinfit |
 | 826 | 315 | Sinistah42o |
-| 827 | 314 | Christina Walker |
-| 828 | 314 | Jennifer Aiken |
-| 829 | 314 | Jennifer Coe |
+| 827 | 314 | Jennifer Aiken |
+| 828 | 314 | Jennifer Coe |
+| 829 | 314 | Christina Walker |
 | 830 | 314 | Amanda West |
 | 831 | 313 | Angela Yantz |
 | 832 | 313 | Marina Linda |

@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michelle Becker |
-| 134 | 521 | Michael Nowogorski |
+| 133 | 521 | Michael Nowogorski |
+| 134 | 521 | Michelle Becker |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -149,8 +149,8 @@
 | 141 | 492 | Daira Largen |
 | 142 | 491 | Chauntee Alfrey-Cardinale |
 | 143 | 488 | CeceGeGe |
-| 144 | 479 | Annie Marie |
-| 145 | 479 | Poppy Splitter |
+| 144 | 479 | Poppy Splitter |
+| 145 | 479 | Annie Marie |
 | 146 | 479 | Patti Skiles |
 | 147 | 473 | mzcatzy |
 | 148 | 471 | Mendoza Lee Christy |

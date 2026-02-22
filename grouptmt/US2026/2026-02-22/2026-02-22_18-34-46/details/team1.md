@@ -394,8 +394,8 @@
 | 386 | 135 | Mrs.Patrica |
 | 387 | 135 | Ramona Shaver |
 | 388 | 134 | Dizzy Rackham |
-| 389 | 134 | Rachel Copas |
-| 390 | 134 | TristansDad |
+| 389 | 134 | TristansDad |
+| 390 | 134 | Rachel Copas |
 | 391 | 133 | Jasmine Riley |
 | 392 | 133 | Teri Oehlke |
 | 393 | 133 | Nate Funk |

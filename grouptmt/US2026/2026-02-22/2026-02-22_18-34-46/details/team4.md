@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 671 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -134,8 +134,8 @@
 | 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | ThaEviLJeNiuZ |
-| 130 | 338 | Lucas J Sutton |
+| 129 | 338 | Lucas J Sutton |
+| 130 | 338 | ThaEviLJeNiuZ |
 | 131 | 336 | Austin Owens |
 | 132 | 335 | Diana Houts |
 | 133 | 332 | Desi Desporte |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Kathy Brookins |
-| 177 | 267 | Holly |
+| 176 | 267 | Holly |
+| 177 | 267 | Kathy Brookins |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -196,12 +196,12 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | jim |
-| 192 | 247 | Dennis Bradley |
+| 191 | 247 | Dennis Bradley |
+| 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Andria Lynn |
-| 195 | 245 | Autum Leigh |
-| 196 | 245 | 23 |
+| 195 | 245 | 23 |
+| 196 | 245 | Autum Leigh |
 | 197 | 244 | Twisty Cascadezone |
 | 198 | 243 | Jose Dejesus |
 | 199 | 243 | Mr. Party |
@@ -210,8 +210,8 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -255,8 +255,8 @@
 | 247 | 198 | Silly SeaWeed |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | Snippy Puzzle |
-| 251 | 195 | 中山成巳 |
+| 250 | 195 | 中山成巳 |
+| 251 | 195 | Snippy Puzzle |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |
