@@ -190,8 +190,8 @@
 | 182 | 281 | Desiree Deschaine Havee |
 | 183 | 279 | Tana |
 | 184 | 277 | Christy Jones |
-| 185 | 276 | Damon J. Martin |
-| 186 | 276 | Shiny Snapfit |
+| 185 | 276 | Shiny Snapfit |
+| 186 | 276 | Damon J. Martin |
 | 187 | 273 | Shannon Marie Pitts |
 | 188 | 272 | Sleepysloath5745 |
 | 189 | 270 | Mandyy Rae |
@@ -207,8 +207,8 @@
 | 199 | 261 | Witty Builderfit |
 | 200 | 260 | Cheeky Pop |
 | 201 | 256 | Chris65 |
-| 202 | 254 | Al Smith Jr |
-| 203 | 254 | Giggly Builderline |
+| 202 | 254 | Giggly Builderline |
+| 203 | 254 | Al Smith Jr |
 | 204 | 253 | Jamie Jury |
 | 205 | 253 | Debbie Kane |
 | 206 | 252 | Dena Kayy |

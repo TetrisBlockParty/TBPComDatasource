@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Savannah Overdorf |
@@ -122,8 +122,8 @@
 | 114 | 440 | shar |
 | 115 | 440 | Lori Walker |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | KJ Pool |
-| 118 | 427 | Jolly Dashfit |
+| 117 | 427 | Jolly Dashfit |
+| 118 | 427 | KJ Pool |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | Andy Cabral |
-| 157 | 314 | 🥔🥔 Spudz |
+| 156 | 314 | 🥔🥔 Spudz |
+| 157 | 314 | Andy Cabral |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -197,8 +197,8 @@
 | 189 | 267 | Kathy Brookins |
 | 190 | 267 | Casey Grabner |
 | 191 | 267 | Holly |
-| 192 | 266 | Chris Bernstein |
-| 193 | 266 | Laura |
+| 192 | 266 | Laura |
+| 193 | 266 | Chris Bernstein |
 | 194 | 265 | J-Rizzle |
 | 195 | 264 | Epic Curvetile |
 | 196 | 262 | Holly Jolly |
@@ -211,10 +211,10 @@
 | 203 | 256 | Mylo Lipscomb |
 | 204 | 250 | A5! |
 | 205 | 250 | Matt Dell'Olio |
-| 206 | 249 | Ak Jones |
-| 207 | 249 | Cheery Risebuilder |
-| 208 | 248 | Lindsey Gonzalez |
-| 209 | 248 | Chirpy Basepiece |
+| 206 | 249 | Cheery Risebuilder |
+| 207 | 249 | Ak Jones |
+| 208 | 248 | Chirpy Basepiece |
+| 209 | 248 | Lindsey Gonzalez |
 | 210 | 246 | Carlos Ramirez |
 | 211 | 245 | Autum Leigh |
 | 212 | 245 | 23 |
@@ -312,7 +312,7 @@
 | 304 | 165 | Brittany Marsh |
 | 305 | 165 | Jim Hart |
 | 306 | 165 | Amanda Christine |
-| 307 | 165 | Brittany Marsh |
+| 307 | 165 | Zappy Buildgrid |
 | 308 | 165 | ChasingZen |
 | 309 | 164 | Marvetta Williams |
 | 310 | 163 | Montiette Mcglown |

@@ -414,8 +414,8 @@
 | 406 | 640 | Crystie Hicks |
 | 407 | 640 | BYM4L |
 | 408 | 640 | Gary Stash |
-| 409 | 639 | Rebecca Miller |
-| 410 | 639 | Steven Marshaun |
+| 409 | 639 | Steven Marshaun |
+| 410 | 639 | Rebecca Miller |
 | 411 | 639 | Melissa Penelope Ann Dodge |
 | 412 | 635 | Dennis McLaurin |
 | 413 | 630 | Brittney Jean |
@@ -436,8 +436,8 @@
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | Shaun Church |
-| 432 | 602 | KhaosLord |
+| 431 | 602 | KhaosLord |
+| 432 | 602 | Shaun Church |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
@@ -730,8 +730,8 @@
 | 722 | 385 | Tansaria Couch-Butler |
 | 723 | 385 | DefaultUser |
 | 724 | 384 | Lawanda Forbes |
-| 725 | 384 | Shea Edison |
-| 726 | 384 | Kelly |
+| 725 | 384 | Kelly |
+| 726 | 384 | Shea Edison |
 | 727 | 384 | Party d |
 | 728 | 383 | Chummy Blockbuilder |
 | 729 | 383 | Loony Basepiece |

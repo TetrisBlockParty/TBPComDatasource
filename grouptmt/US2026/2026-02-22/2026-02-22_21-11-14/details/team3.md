@@ -93,8 +93,8 @@
 | 85 | 836 | Jamie Lang |
 | 86 | 835 | Snappy Glidepiece |
 | 87 | 831 | Angeline Joseph |
-| 88 | 830 | Stephanie Allmon |
-| 89 | 830 | Sarajane Lokan |
+| 88 | 830 | Sarajane Lokan |
+| 89 | 830 | Stephanie Allmon |
 | 90 | 826 | Shane Wilson Jr. |
 | 91 | 811 | Jay Horn |
 | 92 | 800 | Lauren Girouard |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Louise Stacy Sisson |
-| 132 | 562 | Dave Herzog |
+| 131 | 562 | Dave Herzog |
+| 132 | 562 | Louise Stacy Sisson |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -163,8 +163,8 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
@@ -184,9 +184,9 @@
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
 | 178 | 438 | Araceli Parra |
-| 179 | 432 | Jenny Hrndz |
+| 179 | 432 | Christine Trester |
 | 180 | 432 | Luciana Braganca Vieira |
-| 181 | 432 | Christine Trester |
+| 181 | 432 | Jenny Hrndz |
 | 182 | 431 | Sarah Cowan Burgos |
 | 183 | 430 | Joye Sims Binion |
 | 184 | 430 | Jeni Dow |
@@ -246,8 +246,8 @@
 | 238 | 340 | Ammmmmmy |
 | 239 | 338 | Gumbo |
 | 240 | 332 | Bmo |
-| 241 | 330 | Peppy Shifter |
-| 242 | 330 | victory |
+| 241 | 330 | victory |
+| 242 | 330 | Peppy Shifter |
 | 243 | 329 | Brittany |
 | 244 | 329 | Jaime Monhaut-Reed |
 | 245 | 326 | Dee Franklin |
