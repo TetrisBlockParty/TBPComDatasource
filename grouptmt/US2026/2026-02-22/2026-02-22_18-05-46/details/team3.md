@@ -199,8 +199,8 @@
 | 191 | 383 | Nicole Flippo |
 | 192 | 382 | Scott Carleton |
 | 193 | 378 | Chris Bell |
-| 194 | 377 | rosy |
-| 195 | 377 | Danielle Balcom |
+| 194 | 377 | Danielle Balcom |
+| 195 | 377 | rosy |
 | 196 | 376 | Loopy Clusterer |
 | 197 | 374 | Darlene McMillan |
 | 198 | 372 | Giddy Twistbuilder |
@@ -221,8 +221,8 @@
 | 213 | 346 | Tamara Deherrera |
 | 214 | 344 | Roary Danner |
 | 215 | 343 | Ashley Raines |
-| 216 | 341 | Noyb Adam |
-| 217 | 341 | Samantha Lynn |
+| 216 | 341 | Samantha Lynn |
+| 217 | 341 | Noyb Adam |
 | 218 | 341 | Ashley Tookes |
 | 219 | 340 | Ammmmmmy |
 | 220 | 339 | Rania Zaqout |

@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -133,8 +133,8 @@
 | 125 | 353 | Tyler Terrific |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
-| 128 | 338 | Lucas J Sutton |
-| 129 | 338 | ThaEviLJeNiuZ |
+| 128 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | Lucas J Sutton |
 | 130 | 336 | Austin Owens |
 | 131 | 332 | HastyGrabber |
 | 132 | 332 | Desi Desporte |
@@ -149,15 +149,15 @@
 | 141 | 319 | Guy Incognito |
 | 142 | 318 | Lauren Scott |
 | 143 | 314 | Andy Cabral |
-| 144 | 307 | Bio Nelly |
-| 145 | 307 | Angela Srubar-Norman |
-| 146 | 300 | Jason Hart |
-| 147 | 300 | Dana Scott |
+| 144 | 307 | Angela Srubar-Norman |
+| 145 | 307 | Bio Nelly |
+| 146 | 300 | Dana Scott |
+| 147 | 300 | Jason Hart |
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
-| 151 | 294 | Calvin Cannon |
-| 152 | 294 | Meagan Nicole |
+| 151 | 294 | Meagan Nicole |
+| 152 | 294 | Calvin Cannon |
 | 153 | 290 | Keshia Lyons |
 | 154 | 290 | Chaz Duncan |
 | 155 | 290 | 🥔🥔 Spudz |
@@ -175,8 +175,8 @@
 | 167 | 271 | Sarah Brown |
 | 168 | 269 | Nikki Rae Gordon |
 | 169 | 268 | Mimi |
-| 170 | 267 | Damn Libra |
-| 171 | 267 | Casey Grabner |
+| 170 | 267 | Casey Grabner |
+| 171 | 267 | Damn Libra |
 | 172 | 267 | Holly |
 | 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |

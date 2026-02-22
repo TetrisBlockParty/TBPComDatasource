@@ -147,8 +147,8 @@
 | 139 | 318 | Jessica Sheehan |
 | 140 | 316 | Dizzy Party |
 | 141 | 313 | Virginia Gray Floyd |
-| 142 | 308 | Erin Hodges Plumb |
-| 143 | 308 | Sharon Reynolds |
+| 142 | 308 | Sharon Reynolds |
+| 143 | 308 | Erin Hodges Plumb |
 | 144 | 307 | Kimberly Garcia |
 | 145 | 306 | Happy Basegrid |
 | 146 | 306 | Bloknboy |

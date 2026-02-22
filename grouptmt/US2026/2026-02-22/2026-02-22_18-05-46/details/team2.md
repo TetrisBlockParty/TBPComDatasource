@@ -513,8 +513,8 @@
 | 505 | 491 | Alezandra Smith |
 | 506 | 491 | Jedi |
 | 507 | 488 | Christina Wsn |
-| 508 | 487 | Morgan Easter |
-| 509 | 487 | MrsCandyfine As Wine Truss |
+| 508 | 487 | MrsCandyfine As Wine Truss |
+| 509 | 487 | Morgan Easter |
 | 510 | 486 | JAG$*V¡LL£•FL•DuuuVaL |
 | 511 | 485 | Mamachelle Eisweirth |
 | 512 | 484 | Street Sweeper |
@@ -914,8 +914,8 @@
 | 906 | 285 | Elizabeth Leinen |
 | 907 | 285 | Kimberly Mitchell |
 | 908 | 285 | Candace Cece Joseph |
-| 909 | 284 | Josh Webster |
-| 910 | 284 | Loopy Shatterfit |
+| 909 | 284 | Loopy Shatterfit |
+| 910 | 284 | Josh Webster |
 | 911 | 284 | Hillary Franklin |
 | 912 | 284 | Candice Mack |
 | 913 | 282 | Bec |
