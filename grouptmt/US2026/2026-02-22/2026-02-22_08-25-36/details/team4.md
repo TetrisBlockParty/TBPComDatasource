@@ -84,8 +84,8 @@
 | 76 | 483 | TeeJ |
 | 77 | 483 | Amelpss |
 | 78 | 467 | Dawn Alexander |
-| 79 | 447 | Erin Thomas |
-| 80 | 447 | Samantha Peterson |
+| 79 | 447 | Samantha Peterson |
+| 80 | 447 | Erin Thomas |
 | 81 | 440 | Kristin Manee |
 | 82 | 427 | KJ Pool |
 | 83 | 420 | Chilly Crasher |
@@ -135,13 +135,13 @@
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
 | 129 | 278 | Desi Desporte |
-| 130 | 277 | Mary Ann Pabukis |
-| 131 | 277 | Scott Jameson |
+| 130 | 277 | Scott Jameson |
+| 131 | 277 | Mary Ann Pabukis |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Epic Curvetile |
+| 134 | 264 | Girl |
 | 135 | 264 | Dana Scott |
-| 136 | 264 | Girl |
+| 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 260 | Chris Baggett |
 | 139 | 256 | Mylo Lipscomb |
@@ -157,8 +157,8 @@
 | 149 | 230 | Autum Leigh |
 | 150 | 229 | Chris Bernstein |
 | 151 | 228 | J-Rizzle |
-| 152 | 227 | Alyssa Papen |
-| 153 | 227 | Swanky Fitline |
+| 152 | 227 | Swanky Fitline |
+| 153 | 227 | Alyssa Papen |
 | 154 | 225 | Damn Libra |
 | 155 | 224 | Matt Summer |
 | 156 | 224 | Andy Cabral |
@@ -182,8 +182,8 @@
 | 174 | 204 | Jen Caldwell |
 | 175 | 203 | Katherine Crane |
 | 176 | 202 | TRCuse |
-| 177 | 201 | Melvin Baird |
-| 178 | 201 | Chance Strickland |
+| 177 | 201 | Chance Strickland |
+| 178 | 201 | Melvin Baird |
 | 179 | 199 | Zethra Prenisha Rahming |
 | 180 | 198 | Jessica Lynn Cutlip |
 | 181 | 196 | Oscar Alberto Perez |
@@ -223,8 +223,8 @@
 | 215 | 162 | Joanna |
 | 216 | 161 | Jenny Wells-Oakley |
 | 217 | 160 | Carlos Ramirez |
-| 218 | 160 | Brittany Marsh |
-| 219 | 160 | Laura Hosford |
+| 218 | 160 | Laura Hosford |
+| 219 | 160 | Brittany Marsh |
 | 220 | 159 | Marcus Todd |
 | 221 | 158 | Avy Absol |
 | 222 | 158 | Chair |
@@ -320,7 +320,7 @@
 | 312 | 120 | Porkobello |
 | 313 | 119 | rebel4lyfe |
 | 314 | 119 | River Shady Sr. |
-| 315 | 119 | rebel4lyfe |
+| 315 | 119 | Gwendolyn Pitcairn |
 | 316 | 118 | Christina Black |
 | 317 | 117 | Gracie Ann Taylor |
 | 318 | 117 | BigSammy420 |
@@ -338,7 +338,7 @@
 | 330 | 113 | @ |
 | 331 | 113 | Adam Randall |
 | 332 | 113 | Stephanie Mico |
-| 333 | 113 | @ |
+| 333 | 113 | Dandy Cascadefit |
 | 334 | 112 | Chris Alexinas |
 | 335 | 111 | Lazy Blocker |
 | 336 | 111 | Michael Orris |

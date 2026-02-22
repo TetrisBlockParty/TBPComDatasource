@@ -251,7 +251,7 @@
 | 243 | 767 | Jessica Wayne Cornwall |
 | 244 | 765 | Jodi Blake |
 | 245 | 763 | Lisa Ongtowasruk |
-| 246 | 763 | Wakanda Forever |
+| 246 | 763 | Samantha Jo |
 | 247 | 763 | Mischelle Clay |
 | 248 | 763 | Wakanda Forever |
 | 249 | 763 | Beth |
@@ -277,8 +277,8 @@
 | 269 | 703 | Gold Rose |
 | 270 | 700 | Hong Tang |
 | 271 | 700 | Vincent Petrella |
-| 272 | 700 | Rosemadder |
-| 273 | 700 | Beverly Owens |
+| 272 | 700 | Beverly Owens |
+| 273 | 700 | Rosemadder |
 | 274 | 698 | Mighty Shatterfit |
 | 275 | 697 | Dreamy Blast |
 | 276 | 692 | Chelle |
@@ -314,8 +314,8 @@
 | 306 | 651 | Unica Rector |
 | 307 | 650 | Shiny Rollzone |
 | 308 | 643 | Hoppy Brickmatch |
-| 309 | 641 | Angie Bolton Workman |
-| 310 | 641 | Joce Lynn |
+| 309 | 641 | Joce Lynn |
+| 310 | 641 | Angie Bolton Workman |
 | 311 | 640 | BYM4L |
 | 312 | 639 | Crystie Hicks |
 | 313 | 639 | Rebecca Miller |
@@ -330,8 +330,8 @@
 | 322 | 617 | Leslie Ann Carter |
 | 323 | 613 | Ellie Jonas |
 | 324 | 611 | Em Chen |
-| 325 | 611 | Carl Bradshaw |
-| 326 | 611 | Julio A Laracuente |
+| 325 | 611 | Julio A Laracuente |
+| 326 | 611 | Carl Bradshaw |
 | 327 | 605 | Jelly |
 | 328 | 603 | Ginger |
 | 329 | 603 | Cassie Maynard |
@@ -348,8 +348,8 @@
 | 340 | 583 | Bri Lynn |
 | 341 | 582 | Gary Stash |
 | 342 | 581 | Jerry Tempelmeyer |
-| 343 | 579 | Jackie Avila |
-| 344 | 579 | AgileDragon |
+| 343 | 579 | AgileDragon |
+| 344 | 579 | Jackie Avila |
 | 345 | 579 | Juliana Marques Do Nascimento Gordy |
 | 346 | 579 | Roy Salyer |
 | 347 | 576 | Leslie Johnson Guinto |

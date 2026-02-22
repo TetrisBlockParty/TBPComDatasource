@@ -104,8 +104,8 @@
 | 96 | 581 | Danielle Mogg |
 | 97 | 579 | Jd Morris |
 | 98 | 566 | Dolores Falco |
-| 99 | 565 | Patty Allen |
-| 100 | 565 | Rachael McClain Owens |
+| 99 | 565 | Rachael McClain Owens |
+| 100 | 565 | Patty Allen |
 | 101 | 562 | Louise Stacy Sisson |
 | 102 | 562 | Dave Herzog |
 | 103 | 559 | Morgan Martinez |
@@ -120,8 +120,8 @@
 | 112 | 506 | Sashay Tapae Simpson |
 | 113 | 502 | Justin Ritter |
 | 114 | 502 | Elissa S-k |
-| 115 | 500 | Domo Washington |
-| 116 | 500 | Kristie |
+| 115 | 500 | Kristie |
+| 116 | 500 | Domo Washington |
 | 117 | 497 | Mykal Burton |
 | 118 | 492 | Daira Largen |
 | 119 | 491 | Chauntee Alfrey-Cardinale |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Gumbo |
-| 182 | 338 | Leah Barnett |
+| 181 | 338 | Leah Barnett |
+| 182 | 338 | Gumbo |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 327 | Noyb Adam |
@@ -293,8 +293,8 @@
 | 285 | 208 | AlsoJess |
 | 286 | 207 | Jessica |
 | 287 | 207 | angieelyn |
-| 288 | 206 | Tammy Rosenberry |
-| 289 | 206 | Tracy Martin |
+| 288 | 206 | Tracy Martin |
+| 289 | 206 | Tammy Rosenberry |
 | 290 | 206 | Jone |
 | 291 | 204 | Aerian Preston |
 | 292 | 203 | Angie Harper |

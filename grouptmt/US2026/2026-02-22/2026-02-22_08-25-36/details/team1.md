@@ -114,14 +114,14 @@
 | 106 | 328 | Shauna Loe |
 | 107 | 326 | Monica Donato |
 | 108 | 321 | Maria C. Hernandez |
-| 109 | 319 | Seante Bullock |
+| 109 | 319 | Deanna L Hermanson |
 | 110 | 319 | Patrick Luckenbill |
 | 111 | 319 | Seante Bullock |
 | 112 | 316 | Ly Phethmany |
 | 113 | 313 | Tanya Carpenter-Reynolds |
 | 114 | 310 | phrmblk24 |
-| 115 | 310 | Seth Wesson |
-| 116 | 310 | Jason Jones |
+| 115 | 310 | Jason Jones |
+| 116 | 310 | Seth Wesson |
 | 117 | 306 | Happy Basegrid |
 | 118 | 304 | Nicole Roseberry Weber |
 | 119 | 301 | Lehrin Maria |
@@ -170,8 +170,8 @@
 | 162 | 224 | Dizzy Party |
 | 163 | 218 | LC |
 | 164 | 217 | ParisandCory Champagne |
-| 165 | 216 | Shauntina Burke |
-| 166 | 216 | MRdot Rooski |
+| 165 | 216 | MRdot Rooski |
+| 166 | 216 | Shauntina Burke |
 | 167 | 213 | Daring Fitclear |
 | 168 | 212 | Jaimie Lynn |
 | 169 | 211 | Kimberly Garcia |
@@ -306,8 +306,8 @@
 | 298 | 127 | Danielle Mae |
 | 299 | 127 | Lynn Adams |
 | 300 | 126 | Zany Tiler |
-| 301 | 125 | Matt Iaccheo |
-| 302 | 125 | Melissa Bires Hussar |
+| 301 | 125 | Melissa Bires Hussar |
+| 302 | 125 | Matt Iaccheo |
 | 303 | 125 | Angela Spann |
 | 304 | 124 | DoodleBug |
 | 305 | 124 | Madison Wicks |
@@ -330,7 +330,7 @@
 | 322 | 116 | Brad MG |
 | 323 | 116 | Fresno Beotoni |
 | 324 | 115 | Brave Slice |
-| 325 | 114 | Carrie Smith |
+| 325 | 114 | Plucky Stacky |
 | 326 | 114 | Constance Risner |
 | 327 | 114 | Chris Sigurdson |
 | 328 | 114 | Carrie Smith |
