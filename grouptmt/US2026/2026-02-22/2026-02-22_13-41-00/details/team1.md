@@ -143,8 +143,8 @@
 | 135 | 290 | Sarah Roberts |
 | 136 | 289 | David Miller |
 | 137 | 285 | Ananda Mendez |
-| 138 | 284 | Rachael |
-| 139 | 284 | Emily Adelaide Wheatley |
+| 138 | 284 | Emily Adelaide Wheatley |
+| 139 | 284 | Rachael |
 | 140 | 283 | Franswa |
 | 141 | 282 | Snippy Wipebuilder |
 | 142 | 282 | Cool Shiftsnap |

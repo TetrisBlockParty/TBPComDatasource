@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 874 | Nate Burnside |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -148,8 +148,8 @@
 | 140 | 449 | Danielle Rhoades |
 | 141 | 448 | Karon Griffin |
 | 142 | 445 | Shannon Matthew Byers |
-| 143 | 445 | Kristie McFarland |
-| 144 | 445 | Jacqueline Rodriguez |
+| 143 | 445 | Jacqueline Rodriguez |
+| 144 | 445 | Kristie McFarland |
 | 145 | 435 | Michelle |
 | 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
@@ -253,8 +253,8 @@
 | 245 | 267 | Terry Jo Jones |
 | 246 | 264 | Tiffany Davie |
 | 247 | 262 | Joe-Maggie Mathews |
-| 248 | 261 | Tiffany Ford |
-| 249 | 261 | Tasha Wesson-Torrence |
+| 248 | 261 | Tasha Wesson-Torrence |
+| 249 | 261 | Tiffany Ford |
 | 250 | 261 | Marquita Sheard |
 | 251 | 260 | Nikki Pags |
 | 252 | 260 | Grams |

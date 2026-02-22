@@ -89,8 +89,8 @@
 | 81 | 509 | Ashley Ingram |
 | 82 | 500 | Rodney McMath Jr. |
 | 83 | 493 | Judy Cox |
-| 84 | 486 | Landon Keith Graffeo |
-| 85 | 486 | Carmethia Clemons Haslerig |
+| 84 | 486 | Carmethia Clemons Haslerig |
+| 85 | 486 | Landon Keith Graffeo |
 | 86 | 468 | Shane Kalamata Platoon |
 | 87 | 447 | Samantha Peterson |
 | 88 | 447 | Erin Thomas |
@@ -135,8 +135,8 @@
 | 127 | 303 | Lauren Scott |
 | 128 | 300 | Jason Hart |
 | 129 | 298 | Lucas J Sutton |
-| 130 | 296 | Desi Desporte |
-| 131 | 296 | HastyGrabber |
+| 130 | 296 | HastyGrabber |
+| 131 | 296 | Desi Desporte |
 | 132 | 294 | Kesha Brady |
 | 133 | 290 | 🥔🥔 Spudz |
 | 134 | 289 | Jessica Lynn Cutlip |
@@ -207,8 +207,8 @@
 | 199 | 201 | Melvin Baird |
 | 200 | 200 | Lori |
 | 201 | 200 | Laura |
-| 202 | 198 | Keith Kelley |
-| 203 | 198 | Zesty Twistbuilder |
+| 202 | 198 | Zesty Twistbuilder |
+| 203 | 198 | Keith Kelley |
 | 204 | 197 | Silly SeaWeed |
 | 205 | 196 | Mr. Party |
 | 206 | 196 | scott |
@@ -226,8 +226,8 @@
 | 218 | 191 | Klo |
 | 219 | 190 | Cheery Risebuilder |
 | 220 | 189 | Calvin Dennis |
-| 221 | 189 | Dihcheese444 |
-| 222 | 189 | Stacey Stano |
+| 221 | 189 | Stacey Stano |
+| 222 | 189 | Dihcheese444 |
 | 223 | 186 | Holly |
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Ak Jones |
@@ -287,8 +287,8 @@
 | 279 | 147 | Jay28 |
 | 280 | 147 | Adam Stephanie Parker |
 | 281 | 146 | KimoKoala |
-| 282 | 145 | Mimi |
-| 283 | 145 | Sandra Safford |
+| 282 | 145 | Sandra Safford |
+| 283 | 145 | Mimi |
 | 284 | 144 | Sticherella |
 | 285 | 144 | Circuit8 |
 | 286 | 143 | Metsfan |

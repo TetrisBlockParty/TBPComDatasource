@@ -261,8 +261,8 @@
 | 253 | 783 | Lisa Ongtowasruk |
 | 254 | 778 | Desire Rice |
 | 255 | 778 | Mischelle Clay |
-| 256 | 777 | Tesha Oldaker |
-| 257 | 777 | Jessicah Myers |
+| 256 | 777 | Jessicah Myers |
+| 257 | 777 | Tesha Oldaker |
 | 258 | 772 | William Hunt |
 | 259 | 772 | Sam Joe |
 | 260 | 771 | Terri McKelvey McKinley |
@@ -348,13 +348,13 @@
 | 340 | 635 | Diana Fitzwater |
 | 341 | 631 | Marie Walker |
 | 342 | 629 | Jelly |
-| 343 | 627 | Allan Wayne Lamia |
-| 344 | 627 | Victoria Moore-Smith |
+| 343 | 627 | Victoria Moore-Smith |
+| 344 | 627 | Allan Wayne Lamia |
 | 345 | 626 | Dylan Thomason |
 | 346 | 620 | Brandon Armstrong |
 | 347 | 613 | Ellie Jonas |
-| 348 | 613 | Caitlyn Blackwell |
-| 349 | 613 | Breezy Filler |
+| 348 | 613 | Breezy Filler |
+| 349 | 613 | Caitlyn Blackwell |
 | 350 | 611 | Carl Bradshaw |
 | 351 | 611 | Julio A Laracuente |
 | 352 | 611 | Em Chen |
@@ -386,8 +386,8 @@
 | 378 | 561 | Irene Jones |
 | 379 | 561 | Traci Johnson |
 | 380 | 560 | Phil J. Grombliniak |
-| 381 | 558 | Mikayala Szaz |
-| 382 | 558 | Libby Hicks |
+| 381 | 558 | Libby Hicks |
+| 382 | 558 | Mikayala Szaz |
 | 383 | 556 | Slip |
 | 384 | 554 | Rachael Senard |
 | 385 | 554 | Santana Miyagi |
@@ -407,8 +407,8 @@
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
-| 402 | 536 | Caitlin Schmid |
-| 403 | 536 | Shaun Church |
+| 402 | 536 | Shaun Church |
+| 403 | 536 | Caitlin Schmid |
 | 404 | 535 | Paul Huber |
 | 405 | 534 | Kenny Alvarado |
 | 406 | 533 | Gauri Shrotriya |
@@ -467,8 +467,8 @@
 | 459 | 487 | Morgan Easter |
 | 460 | 487 | MrsCandyfine As Wine Truss |
 | 461 | 485 | Mamachelle Eisweirth |
-| 462 | 485 | Ann Matzkanin |
-| 463 | 485 | Dapper Dasher |
+| 462 | 485 | Dapper Dasher |
+| 463 | 485 | Ann Matzkanin |
 | 464 | 484 | Street Sweeper |
 | 465 | 483 | Alezandra Smith |
 | 466 | 483 | Dennis McLaurin |
