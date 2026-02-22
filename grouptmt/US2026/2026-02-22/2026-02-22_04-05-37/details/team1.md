@@ -90,8 +90,8 @@
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
 | 84 | 353 | Hyper |
-| 85 | 347 | pjbeta |
-| 86 | 347 | june october |
+| 85 | 347 | june october |
+| 86 | 347 | pjbeta |
 | 87 | 345 | Dee Perry |
 | 88 | 338 | Tipsy Strikerpiece |
 | 89 | 333 | Brandi Huntington |
@@ -124,8 +124,8 @@
 | 116 | 275 | Bhelle Sumile |
 | 117 | 273 | Happy Basegrid |
 | 118 | 264 | Lexuriuos Lifestlye |
-| 119 | 263 | Jason Jones |
-| 120 | 263 | Sharon Reynolds |
+| 119 | 263 | Sharon Reynolds |
+| 120 | 263 | Jason Jones |
 | 121 | 256 | David Miller |
 | 122 | 252 | Dena Kayy |
 | 123 | 252 | Elaine Elaine |
@@ -143,11 +143,11 @@
 | 135 | 226 | Kandae |
 | 136 | 217 | ParisandCory Champagne |
 | 137 | 217 | Dizzy Party |
-| 138 | 216 | Shauntina Burke |
-| 139 | 216 | MRdot Rooski |
+| 138 | 216 | MRdot Rooski |
+| 139 | 216 | Shauntina Burke |
 | 140 | 214 | GATOR |
-| 141 | 212 | Jaimie Lynn |
-| 142 | 212 | Lori Bales |
+| 141 | 212 | Lori Bales |
+| 142 | 212 | Jaimie Lynn |
 | 143 | 211 | Marianita Garcia |
 | 144 | 210 | Giggly Builderline |
 | 145 | 209 | Kimmie Kimms |
@@ -183,8 +183,8 @@
 | 175 | 179 | Erin Hodges Plumb |
 | 176 | 179 | femmefatale |
 | 177 | 178 | Chad Atchley |
-| 178 | 177 | Irual Hctrab |
-| 179 | 177 | Jacqueline Unique |
+| 178 | 177 | Jacqueline Unique |
+| 179 | 177 | Irual Hctrab |
 | 180 | 176 | Mel Hogan |
 | 181 | 175 | John Barron |
 | 182 | 174 | Cheeky Pop |

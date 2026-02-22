@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 1012 | Danielle Cutler |
 | 41 | 998 | Liv Whetson |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Simpson |
-| 122 | 410 | Stephanie Blkpep Davidson |
+| 121 | 410 | Stephanie Blkpep Davidson |
+| 122 | 410 | Stephanie Simpson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Christine Filson |
@@ -138,8 +138,8 @@
 | 130 | 399 | ren |
 | 131 | 399 | Mcathen |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Tasha Gillespie |
-| 134 | 392 | Katie Knaus |
+| 133 | 392 | Katie Knaus |
+| 134 | 392 | Tasha Gillespie |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Marcie Bressler |
 | 137 | 390 | Hasty Cascadefit |
@@ -165,12 +165,12 @@
 | 157 | 343 | Ashley Raines |
 | 158 | 343 | Chasity |
 | 159 | 338 | Leah Barnett |
-| 160 | 332 | Fallorina Susana |
-| 161 | 332 | Rich LeBlanc |
+| 160 | 332 | Rich LeBlanc |
+| 161 | 332 | Fallorina Susana |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
-| 164 | 320 | Or Reznitsky |
-| 165 | 320 | Tom Nault |
+| 164 | 320 | Tom Nault |
+| 165 | 320 | Or Reznitsky |
 | 166 | 317 | Ashley Tookes |
 | 167 | 311 | Raya |
 | 168 | 308 | Rania Zaqout |
@@ -258,8 +258,8 @@
 | 250 | 203 | Angie Harper |
 | 251 | 202 | Staci George Fitzsimmons |
 | 252 | 200 | glichmod |
-| 253 | 200 | angieelyn |
-| 254 | 200 | Sharisse Baltimore |
+| 253 | 200 | Sharisse Baltimore |
+| 254 | 200 | angieelyn |
 | 255 | 199 | Hyper Matchzone |
 | 256 | 197 | Raven Dudley |
 | 257 | 195 | Nicha Hooker |
