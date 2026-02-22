@@ -27,8 +27,8 @@
 | 19 | 1562 | Trezure Gonzalez |
 | 20 | 1554 | Ashley Kiara |
 | 21 | 1474 | Jennie Beranek |
-| 22 | 1470 | Zippy Strikesnap |
-| 23 | 1470 | Shandrea Crawford |
+| 22 | 1470 | Shandrea Crawford |
+| 23 | 1470 | Zippy Strikesnap |
 | 24 | 1460 | Briarblack |
 | 25 | 1402 | cowboy25469 |
 | 26 | 1297 | Shelby Michelle |
@@ -240,8 +240,8 @@
 | 232 | 179 | Rachel Napper |
 | 233 | 178 | Sarajane Lokan |
 | 234 | 178 | Ryan Williams |
-| 235 | 176 | Jim Mathews |
-| 236 | 176 | rosy |
+| 235 | 176 | rosy |
+| 236 | 176 | Jim Mathews |
 | 237 | 174 | Marquita Sheard |
 | 238 | 172 | Grams |
 | 239 | 170 | Lesley Perez |

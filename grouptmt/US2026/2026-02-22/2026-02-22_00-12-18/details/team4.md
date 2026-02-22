@@ -80,8 +80,8 @@
 | 72 | 370 | Leslie Thomas |
 | 73 | 369 | Nope Young |
 | 74 | 359 | Jamie Mann-Deichmann |
-| 75 | 358 | Nugget |
-| 76 | 358 | Shane Kalamata Platoon |
+| 75 | 358 | Shane Kalamata Platoon |
+| 76 | 358 | Nugget |
 | 77 | 356 | shar |
 | 78 | 345 | Ancient Intuition |
 | 79 | 328 | Dustee Craddock-Harrison |
@@ -103,8 +103,8 @@
 | 95 | 281 | Leslie Nicole |
 | 96 | 277 | KJ Pool |
 | 97 | 274 | Desi Desporte |
-| 98 | 273 | shark tato |
-| 99 | 273 | Carrie Brian |
+| 98 | 273 | Carrie Brian |
+| 99 | 273 | shark tato |
 | 100 | 271 | Sarah Brown |
 | 101 | 268 | Meagan Nicole |
 | 102 | 264 | Epic Curvetile |
@@ -112,8 +112,8 @@
 | 104 | 258 | Brittney Orengo |
 | 105 | 257 | Holly Jolly |
 | 106 | 255 | Lindsay Ball |
-| 107 | 230 | Lucas J Sutton |
-| 108 | 230 | Daria Rycewicz |
+| 107 | 230 | Daria Rycewicz |
+| 108 | 230 | Lucas J Sutton |
 | 109 | 230 | Autum Leigh |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
@@ -125,12 +125,12 @@
 | 117 | 212 | Mike Solo |
 | 118 | 211 | Dizzy Tiley |
 | 119 | 210 | Damn Libra |
-| 120 | 208 | Chastity Mitchell |
-| 121 | 208 | Twisty Cascadezone |
+| 120 | 208 | Twisty Cascadezone |
+| 121 | 208 | Chastity Mitchell |
 | 122 | 206 | Mylo Lipscomb |
 | 123 | 205 | Sarah Neathery |
-| 124 | 204 | Dana Scott |
-| 125 | 204 | Jen Caldwell |
+| 124 | 204 | Jen Caldwell |
+| 125 | 204 | Dana Scott |
 | 126 | 202 | Monica Daley |
 | 127 | 201 | Swanky Fitline |
 | 128 | 201 | Melvin Baird |
@@ -314,8 +314,8 @@
 | 306 | 87 | Alan George LaRage |
 | 307 | 86 | Tony Pavelka |
 | 308 | 86 | amy |
-| 309 | 86 | BigSammy420 |
-| 310 | 86 | Tony Pavelka |
+| 309 | 86 | Jason Frehner |
+| 310 | 86 | BigSammy420 |
 | 311 | 86 | Destiney Carter |
 | 312 | 85 | Joseph Gray |
 | 313 | 85 | Nick Gray |

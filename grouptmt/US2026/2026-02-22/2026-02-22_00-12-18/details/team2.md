@@ -197,13 +197,13 @@
 | 189 | 692 | Jennifer Casey-Kay |
 | 190 | 690 | Deborah Miller |
 | 191 | 688 | Dreamy Blast |
-| 192 | 686 | Ashley Guernsey-Martin |
-| 193 | 686 | Dannette Goldberg-Richards |
+| 192 | 686 | Dannette Goldberg-Richards |
+| 193 | 686 | Ashley Guernsey-Martin |
 | 194 | 679 | Gold Rose |
 | 195 | 671 | Pacynthia Williams |
 | 196 | 671 | Morgue Chick |
-| 197 | 669 | Amber Shoemaker |
-| 198 | 669 | Melissa Holsinger |
+| 197 | 669 | Melissa Holsinger |
+| 198 | 669 | Amber Shoemaker |
 | 199 | 667 | Lisa Ongtowasruk |
 | 200 | 666 | Charvi' Carter |
 | 201 | 666 | Ashie Ann |
@@ -294,8 +294,8 @@
 | 286 | 502 | Sparkles |
 | 287 | 502 | Poppy Snap |
 | 288 | 500 | Sarah Ridenour |
-| 289 | 500 | Em Chen |
-| 290 | 500 | Glitzy Stackzone |
+| 289 | 500 | Glitzy Stackzone |
+| 290 | 500 | Em Chen |
 | 291 | 499 | Alisa Lamb |
 | 292 | 497 | Jeremy Parodi |
 | 293 | 493 | Lylymom |
