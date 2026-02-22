@@ -159,15 +159,15 @@
 | 151 | 517 | Denise Nardoni |
 | 152 | 516 | Elissa S-k |
 | 153 | 512 | Silly Twist |
-| 154 | 506 | Stephanie Blkpep Davidson |
-| 155 | 506 | Sashay Tapae Simpson |
+| 154 | 506 | Sashay Tapae Simpson |
+| 155 | 506 | Stephanie Blkpep Davidson |
 | 156 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 157 | 502 | Snappy Balancer |
 | 158 | 501 | Patti Skiles |
 | 159 | 492 | Daira Largen |
 | 160 | 491 | Chauntee Alfrey-Cardinale |
-| 161 | 484 | Samantha Greco |
-| 162 | 484 | Dapper Snap |
+| 161 | 484 | Dapper Snap |
+| 162 | 484 | Samantha Greco |
 | 163 | 481 | Tasha Gillespie |
 | 164 | 479 | Poppy Splitter |
 | 165 | 479 | Annie Marie |
@@ -182,8 +182,8 @@
 | 174 | 464 | Makelini Mausia |
 | 175 | 464 | Michelle |
 | 176 | 461 | Shunta Jacobs |
-| 177 | 460 | Danielle Allison |
-| 178 | 460 | Araceli Parra |
+| 177 | 460 | Araceli Parra |
+| 178 | 460 | Danielle Allison |
 | 179 | 459 | Tasha Schriewer |
 | 180 | 458 | Danielle Rhoades |
 | 181 | 457 | Jim Mathews |
@@ -256,8 +256,8 @@
 | 248 | 339 | MsBee |
 | 249 | 338 | Gumbo |
 | 250 | 330 | Brittany |
-| 251 | 330 | victory |
-| 252 | 330 | Peppy Shifter |
+| 251 | 330 | Peppy Shifter |
+| 252 | 330 | victory |
 | 253 | 329 | block chick |
 | 254 | 326 | Dee Franklin |
 | 255 | 324 | Sissy Lowery Davis |
@@ -568,11 +568,11 @@
 | 560 | 154 | Martin Bernier |
 | 561 | 154 | Crystal Johnson |
 | 562 | 153 | Tracey Cox |
-| 563 | 153 | Jada Cox |
-| 564 | 153 | Kathleen Taylor |
-| 565 | 152 | Elisha L Allman |
-| 566 | 152 | Beejangles |
-| 567 | 152 | Shiny Zonebuilder |
+| 563 | 153 | Kathleen Taylor |
+| 564 | 153 | Jada Cox |
+| 565 | 152 | Beejangles |
+| 566 | 152 | Shiny Zonebuilder |
+| 567 | 152 | Elisha L Allman |
 | 568 | 152 | lashanda |
 | 569 | 151 | Cheery Brickster |
 | 570 | 151 | Lisa Bard |

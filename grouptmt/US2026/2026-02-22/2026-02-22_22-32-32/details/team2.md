@@ -314,12 +314,12 @@
 | 306 | 833 | Cody Nishimura |
 | 307 | 833 | Moni Foxe |
 | 308 | 824 | Chirpy Staggerpiece |
-| 309 | 821 | Angie Bolton Workman |
-| 310 | 821 | Diallo Sparkman |
+| 309 | 821 | Diallo Sparkman |
+| 310 | 821 | Angie Bolton Workman |
 | 311 | 818 | Lola Contreras |
 | 312 | 817 | Nett |
-| 313 | 816 | Jessica Wayne Cornwall |
-| 314 | 816 | James Simms III |
+| 313 | 816 | James Simms III |
+| 314 | 816 | Jessica Wayne Cornwall |
 | 315 | 810 | Andrea Maher |
 | 316 | 808 | Melissa McCall |
 | 317 | 808 | Desire Rice |
@@ -343,8 +343,8 @@
 | 335 | 773 | Diana Fitzwater |
 | 336 | 772 | Danielle Simmons |
 | 337 | 768 | Joshua Self |
-| 338 | 767 | Fancy Twister |
-| 339 | 767 | Ashley Lopez |
+| 338 | 767 | Ashley Lopez |
+| 339 | 767 | Fancy Twister |
 | 340 | 763 | Heather Causey |
 | 341 | 761 | Hyper Cluster |
 | 342 | 760 | Cheech Dta |
@@ -356,8 +356,8 @@
 | 348 | 751 | Loony Snapper |
 | 349 | 746 | Jerilyn Andrina |
 | 350 | 745 | Kiely Tomaskovich |
-| 351 | 743 | Melissa Cole |
-| 352 | 743 | Tiara Elizabeth Baker |
+| 351 | 743 | Tiara Elizabeth Baker |
+| 352 | 743 | Melissa Cole |
 | 353 | 741 | Mandi Douglas Hilt |
 | 354 | 740 | Jerry Tempelmeyer |
 | 355 | 739 | Jánine Riggs |
@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Tonya Lee |
-| 441 | 613 | Lylymom |
+| 440 | 613 | Lylymom |
+| 441 | 613 | Tonya Lee |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -581,8 +581,8 @@
 | 573 | 483 | Kyle LeRoy Harris |
 | 574 | 482 | Drwatson187 |
 | 575 | 482 | Kathleen Driskell |
-| 576 | 482 | Lina Sanders |
-| 577 | 482 | Amélie Cadieux |
+| 576 | 482 | Amélie Cadieux |
+| 577 | 482 | Lina Sanders |
 | 578 | 480 | Ryan Meilleur |
 | 579 | 480 | Brandon Jones |
 | 580 | 480 | Dar |

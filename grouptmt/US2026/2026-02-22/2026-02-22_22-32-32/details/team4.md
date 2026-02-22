@@ -108,8 +108,8 @@
 | 100 | 512 | Casey Jeffcoat |
 | 101 | 510 | Scott Jameson |
 | 102 | 500 | Rodney McMath Jr. |
-| 103 | 499 | Christina LR |
-| 104 | 499 | Trista Leah |
+| 103 | 499 | Trista Leah |
+| 104 | 499 | Christina LR |
 | 105 | 488 | Jen Allison |
 | 106 | 487 | Alyssa Papen |
 | 107 | 481 | Serena Goodridge |
