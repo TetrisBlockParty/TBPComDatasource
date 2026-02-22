@@ -351,8 +351,8 @@
 | 343 | 158 | Willow |
 | 344 | 157 | Katrina E Jelks |
 | 345 | 157 | Angel Mendez |
-| 346 | 156 | Ava Petito |
-| 347 | 156 | kacihall |
+| 346 | 156 | kacihall |
+| 347 | 156 | Ava Petito |
 | 348 | 156 | Nichole Greene |
 | 349 | 155 | Chummy Caster |
 | 350 | 155 | Michael Leblanc |
@@ -449,9 +449,9 @@
 | 441 | 119 | Everret Maxine |
 | 442 | 118 | Damian Reid |
 | 443 | 118 | Fancy Curver |
-| 444 | 117 | Rayzer |
+| 444 | 117 | Anabela Ruiz |
 | 445 | 117 | Dee Pratt |
-| 446 | 117 | Anabela Ruiz |
+| 446 | 117 | Rayzer |
 | 447 | 117 | James Lykes |
 | 448 | 116 | Elisha L Allman |
 | 449 | 116 | Dapper Towerfit |

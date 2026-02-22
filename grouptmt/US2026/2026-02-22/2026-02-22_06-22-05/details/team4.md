@@ -125,8 +125,8 @@
 | 117 | 281 | Meagan Nicole |
 | 118 | 278 | Desi Desporte |
 | 119 | 278 | Carrie Brian |
-| 120 | 277 | Mary Ann Pabukis |
-| 121 | 277 | Scott Jameson |
+| 120 | 277 | Scott Jameson |
+| 121 | 277 | Mary Ann Pabukis |
 | 122 | 275 | Dizzy Tiley |
 | 123 | 271 | Tyler Terrific |
 | 124 | 271 | Sarah Brown |
@@ -228,12 +228,12 @@
 | 220 | 153 | Empress Oasis |
 | 221 | 153 | Mr. Party |
 | 222 | 153 | Zany Shatterer |
-| 223 | 152 | Austin Owens |
-| 224 | 152 | Faja |
+| 223 | 152 | Faja |
+| 224 | 152 | Austin Owens |
 | 225 | 150 | Brittany Marsh |
 | 226 | 149 | Megan Cutshaw |
-| 227 | 149 | Shainne Brewer |
-| 228 | 149 | Tanner Lund |
+| 227 | 149 | Tanner Lund |
+| 228 | 149 | Shainne Brewer |
 | 229 | 148 | Janita Parrish |
 | 230 | 147 | Jared Gutwein |
 | 231 | 147 | Jay28 |
@@ -285,8 +285,8 @@
 | 277 | 128 | Kristin MacDonald |
 | 278 | 127 | Kim Hunt |
 | 279 | 126 | icequeenx |
-| 280 | 125 | Daresha Fair |
-| 281 | 125 | Lush Linkfall |
+| 280 | 125 | Lush Linkfall |
+| 281 | 125 | Daresha Fair |
 | 282 | 125 | Steph Marie |
 | 283 | 125 | KimoKoala |
 | 284 | 124 | Sam Middleton |

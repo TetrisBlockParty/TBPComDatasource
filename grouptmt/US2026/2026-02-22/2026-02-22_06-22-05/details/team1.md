@@ -300,11 +300,11 @@
 | 292 | 118 | Virginia Gray Floyd |
 | 293 | 118 | Kerry Lee Powell |
 | 294 | 118 | Tyler Hertzog |
-| 295 | 117 | Beazel75 |
-| 296 | 117 | Bob |
-| 297 | 116 | Debbie Davis |
-| 298 | 116 | Fresno Beotoni |
-| 299 | 116 | Brad MG |
+| 295 | 117 | Bob |
+| 296 | 117 | Beazel75 |
+| 297 | 116 | Brad MG |
+| 298 | 116 | Debbie Davis |
+| 299 | 116 | Fresno Beotoni |
 | 300 | 115 | Mrs.Patrica |
 | 301 | 114 | Constance Risner |
 | 302 | 114 | Chris Sigurdson |
