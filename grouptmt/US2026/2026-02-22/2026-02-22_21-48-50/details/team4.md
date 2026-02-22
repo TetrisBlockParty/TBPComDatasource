@@ -375,9 +375,9 @@
 | 367 | 146 | PennyCandee |
 | 368 | 146 | Jarred Falls |
 | 369 | 145 | Sandra Safford |
-| 370 | 145 | Jackie Clark |
-| 371 | 145 | Glitzy Crasher |
-| 372 | 145 | Sallie Sanborn |
+| 370 | 145 | Glitzy Crasher |
+| 371 | 145 | Sallie Sanborn |
+| 372 | 145 | Jackie Clark |
 | 373 | 144 | Squeezy Pearsall |
 | 374 | 143 | Daresha Fair |
 | 375 | 143 | Groovy Gridlock |
@@ -439,10 +439,10 @@
 | 431 | 130 | Riverdale |
 | 432 | 130 | Shukee Lo |
 | 433 | 130 | icequeenx |
-| 434 | 129 | Dreamy Snapgrid |
-| 435 | 129 | Groovy Brickmatch |
+| 434 | 129 | Sherri |
+| 435 | 129 | Dreamy Snapgrid |
 | 436 | 129 | Shiny Pivoty |
-| 437 | 129 | Sherri |
+| 437 | 129 | Groovy Brickmatch |
 | 438 | 128 | Raymond Roberts |
 | 439 | 128 | Dapper Balancer |
 | 440 | 127 | Robert Rodriguez |
@@ -488,7 +488,7 @@
 | 480 | 116 | Kametsunoyaiba |
 | 481 | 116 | Ernest Maxwell |
 | 482 | 115 | Kujuanna Hammon |
-| 483 | 115 | Lynn Marie |
+| 483 | 115 | Jayk |
 | 484 | 115 | Susan Williams |
 | 485 | 115 | Lynn Marie |
 | 486 | 114 | The Murphy |

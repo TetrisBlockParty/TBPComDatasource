@@ -127,8 +127,8 @@
 | 119 | 391 | Lori Bales |
 | 120 | 390 | Goose egg |
 | 121 | 387 | Emily Adelaide Wheatley |
-| 122 | 386 | David Miller |
-| 123 | 386 | Plucky Ziggy |
+| 122 | 386 | Plucky Ziggy |
+| 123 | 386 | David Miller |
 | 124 | 386 | Ty Brown |
 | 125 | 383 | pjbeta |
 | 126 | 380 | Maria C. Hernandez |
@@ -140,8 +140,8 @@
 | 132 | 372 | Sweet Baker |
 | 133 | 370 | Ly Phethmany |
 | 134 | 364 | Shauna Loe |
-| 135 | 360 | Wisa |
-| 136 | 360 | phrmblk24 |
+| 135 | 360 | phrmblk24 |
+| 136 | 360 | Wisa |
 | 137 | 359 | Chirpy Smasher |
 | 138 | 357 | Amanda Johnson Huffman |
 | 139 | 350 | Tipsy Strikerpiece |
@@ -246,9 +246,9 @@
 | 238 | 228 | Michael |
 | 239 | 225 | Jessie Lynn |
 | 240 | 224 | ParisandCory Champagne |
-| 241 | 223 | Erez Yosef |
-| 242 | 223 | Christina Backer |
-| 243 | 223 | Thorne Shumate |
+| 241 | 223 | Thorne Shumate |
+| 242 | 223 | Erez Yosef |
+| 243 | 223 | Christina Backer |
 | 244 | 222 | Debbie Davis |
 | 245 | 221 | Amy Hess |
 | 246 | 221 | Daring Fitclear |

@@ -191,8 +191,8 @@
 | 183 | 432 | Luciana Braganca Vieira |
 | 184 | 432 | Jenny Hrndz |
 | 185 | 431 | Sarah Cowan Burgos |
-| 186 | 430 | Joye Sims Binion |
-| 187 | 430 | Jeni Dow |
+| 186 | 430 | Jeni Dow |
+| 187 | 430 | Joye Sims Binion |
 | 188 | 427 | Wendy Dearden |
 | 189 | 426 | Rochelle Hazelett |
 | 190 | 422 | Fallorina Susana |
@@ -239,8 +239,8 @@
 | 231 | 347 | Trisha Balmer |
 | 232 | 347 | Philip Rock |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Rania Zaqout |
-| 235 | 344 | Roary Danner |
+| 234 | 344 | Roary Danner |
+| 235 | 344 | Rania Zaqout |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Samantha Lynn |
 | 238 | 341 | Ashley Tookes |
@@ -259,8 +259,8 @@
 | 251 | 320 | Ashley Muncey |
 | 252 | 317 | Kelly |
 | 253 | 315 | Charles Perrone |
-| 254 | 312 | Christian Werndl |
-| 255 | 312 | LadyTorad |
+| 254 | 312 | LadyTorad |
+| 255 | 312 | Christian Werndl |
 | 256 | 309 | Felicia Rocha |
 | 257 | 308 | Cynthia Herrmann Egland |
 | 258 | 308 | Katrina Turner |
