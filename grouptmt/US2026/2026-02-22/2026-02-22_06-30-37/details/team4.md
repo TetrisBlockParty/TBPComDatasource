@@ -89,8 +89,8 @@
 | 81 | 405 | Shane Kalamata Platoon |
 | 82 | 404 | Courtney Cicoria |
 | 83 | 402 | Julian Garcia |
-| 84 | 396 | Amy Suckarieh |
-| 85 | 396 | Alicia Bass |
+| 84 | 396 | Alicia Bass |
+| 85 | 396 | Amy Suckarieh |
 | 86 | 392 | Ericca Eldridge |
 | 87 | 391 | Ramel Rhodes |
 | 88 | 390 | Carlton Unfiltered |
@@ -196,10 +196,10 @@
 | 188 | 185 | Eric Mcgaughy |
 | 189 | 185 | Lori |
 | 190 | 184 | Ak Jones |
-| 191 | 181 | Alan George LaRage |
-| 192 | 181 | Carter Jones |
-| 193 | 180 | Orchislactea |
-| 194 | 180 | Rafael Valentin |
+| 191 | 181 | Carter Jones |
+| 192 | 181 | Alan George LaRage |
+| 193 | 180 | Rafael Valentin |
+| 194 | 180 | Orchislactea |
 | 195 | 179 | blockstar |
 | 196 | 174 | Dihcheese444 |
 | 197 | 172 | Gilles Lanctot |

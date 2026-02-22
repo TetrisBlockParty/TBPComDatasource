@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Suki Kaur |
-| 150 | 1043 | Brave Dropmatch |
+| 149 | 1043 | Brave Dropmatch |
+| 150 | 1043 | Suki Kaur |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -282,8 +282,8 @@
 | 274 | 679 | Dee |
 | 275 | 678 | Scott Treadway |
 | 276 | 677 | Mema |
-| 277 | 675 | Tommy Tha Boss Gunz |
-| 278 | 675 | Brenda Utphall |
+| 277 | 675 | Brenda Utphall |
+| 278 | 675 | Tommy Tha Boss Gunz |
 | 279 | 674 | Kathryn Townsley |
 | 280 | 673 | Claire Noland |
 | 281 | 672 | Danielle Simmons |
@@ -305,8 +305,8 @@
 | 297 | 640 | BYM4L |
 | 298 | 639 | Crystie Hicks |
 | 299 | 639 | Rebecca Miller |
-| 300 | 635 | William Hunt |
-| 301 | 635 | Diana Fitzwater |
+| 300 | 635 | Diana Fitzwater |
+| 301 | 635 | William Hunt |
 | 302 | 632 | Beth |
 | 303 | 631 | Marie Walker |
 | 304 | 629 | Sleepypanda67 |
@@ -591,8 +591,8 @@
 | 583 | 361 | Lewis Sturgeon |
 | 584 | 360 | Jroc |
 | 585 | 359 | Cheyenne Donovan |
-| 586 | 358 | Sydney Busse |
-| 587 | 358 | Alyssaaelena |
+| 586 | 358 | Alyssaaelena |
+| 587 | 358 | Sydney Busse |
 | 588 | 358 | Veronics |
 | 589 | 357 | Tristan Szolek |
 | 590 | 357 | Shannon Byrd |
@@ -614,8 +614,8 @@
 | 606 | 347 | Zesty Pivot |
 | 607 | 346 | Morgan Easter |
 | 608 | 346 | Stephanie Fortune |
-| 609 | 345 | Frisky Clearpiece |
-| 610 | 345 | Rhianna DiLorenzo |
+| 609 | 345 | Rhianna DiLorenzo |
+| 610 | 345 | Frisky Clearpiece |
 | 611 | 345 | Gina Caulder |
 | 612 | 344 | Tra Barnum |
 | 613 | 344 | Glenn Cobbins |
