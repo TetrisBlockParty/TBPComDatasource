@@ -53,8 +53,8 @@
 | 45 | 783 | Redlicious 1 |
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
-| 48 | 770 | Zappy Curvetile |
-| 49 | 770 | Lawrence Belanger |
+| 48 | 770 | Lawrence Belanger |
+| 49 | 770 | Zappy Curvetile |
 | 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
@@ -174,7 +174,7 @@
 | 166 | 295 | David Lutcher |
 | 167 | 293 | Letson Melissa |
 | 168 | 293 | Rachael |
-| 169 | 293 | Letson Melissa |
+| 169 | 293 | Sarah Roberts |
 | 170 | 289 | ALFD |
 | 171 | 283 | Franswa |
 | 172 | 282 | Tyler Werts |

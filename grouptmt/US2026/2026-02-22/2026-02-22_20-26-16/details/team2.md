@@ -161,8 +161,8 @@
 | 153 | 1300 | Tacara Cummings |
 | 154 | 1296 | Kristin Ruest |
 | 155 | 1286 | Altamirano Michael |
-| 156 | 1282 | Tanya Parsons |
-| 157 | 1282 | Ashley Rose Frederick |
+| 156 | 1282 | Ashley Rose Frederick |
+| 157 | 1282 | Tanya Parsons |
 | 158 | 1273 | Cool Rollpiece |
 | 159 | 1271 | Shandrica Lowe |
 | 160 | 1260 | Joshua Sommerville |

@@ -216,8 +216,8 @@
 | 208 | 244 | Twisty Cascadezone |
 | 209 | 243 | Jose Dejesus |
 | 210 | 243 | Mr. Party |
-| 211 | 241 | Allen Lloyd |
-| 212 | 241 | Kristina Black |
+| 211 | 241 | Kristina Black |
+| 212 | 241 | Allen Lloyd |
 | 213 | 240 | Zethra Prenisha Rahming |
 | 214 | 238 | JPW |
 | 215 | 236 | Kim Hunt |
@@ -298,8 +298,8 @@
 | 290 | 170 | PeaceOs |
 | 291 | 170 | Elie Pean |
 | 292 | 169 | Ellen Durfee |
-| 293 | 169 | Jessica Atkinson |
-| 294 | 169 | Daring Pivot |
+| 293 | 169 | Daring Pivot |
+| 294 | 169 | Jessica Atkinson |
 | 295 | 168 | Zippy Tilt |
 | 296 | 168 | Kathy Allen |
 | 297 | 166 | KimoKoala |
@@ -425,9 +425,9 @@
 | 417 | 128 | Denise B |
 | 418 | 128 | Dapper Balancer |
 | 419 | 128 | Raymond Roberts |
-| 420 | 127 | Grann8 |
-| 421 | 127 | Robert Rodriguez |
-| 422 | 127 | Gdiguy |
+| 420 | 127 | Robert Rodriguez |
+| 421 | 127 | Gdiguy |
+| 422 | 127 | Grann8 |
 | 423 | 127 | Frank Cook |
 | 424 | 126 | Cheryl Johnson |
 | 425 | 126 | Snippy Clearer |
@@ -922,8 +922,8 @@
 | 914 | 49 | Kenna Gunderland |
 | 915 | 48 | Mathew Dissinger |
 | 916 | 48 | Loopy Rollbuilder |
-| 917 | 48 | Austin Trent Weaver |
-| 918 | 48 | Amanda Loren |
+| 917 | 48 | Amanda Loren |
+| 918 | 48 | Austin Trent Weaver |
 | 919 | 48 | OneBuke FollowMe |
 | 920 | 47 | Zer0h |
 | 921 | 47 | Nutty Lifter |

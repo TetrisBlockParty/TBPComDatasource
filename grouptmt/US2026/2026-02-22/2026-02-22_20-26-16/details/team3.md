@@ -144,8 +144,8 @@
 | 136 | 551 | Alaina Lee |
 | 137 | 531 | Mykal Burton |
 | 138 | 529 | Michael Nowogorski |
-| 139 | 526 | Michelle Becker |
-| 140 | 526 | Cynthia Castros-Hampton |
+| 139 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Michelle Becker |
 | 141 | 525 | Justin Ritter |
 | 142 | 520 | JerseyJess |
 | 143 | 517 | Denise Nardoni |
@@ -237,8 +237,8 @@
 | 229 | 344 | Roary Danner |
 | 230 | 344 | Rania Zaqout |
 | 231 | 343 | Ashley Raines |
-| 232 | 341 | Noyb Adam |
-| 233 | 341 | Samantha Lynn |
+| 232 | 341 | Samantha Lynn |
+| 233 | 341 | Noyb Adam |
 | 234 | 341 | Ashley Tookes |
 | 235 | 340 | Ammmmmmy |
 | 236 | 338 | Gumbo |
@@ -249,10 +249,10 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Ashley Muncey |
-| 245 | 320 | Or Reznitsky |
-| 246 | 319 | Jaime Monhaut-Reed |
-| 247 | 319 | Michael Johnson |
+| 244 | 320 | Or Reznitsky |
+| 245 | 320 | Ashley Muncey |
+| 246 | 319 | Michael Johnson |
+| 247 | 319 | Jaime Monhaut-Reed |
 | 248 | 317 | Kelly |
 | 249 | 314 | Peppy Shifter |
 | 250 | 312 | Charles Perrone |
@@ -316,8 +316,8 @@
 | 308 | 254 | Sharisse Baltimore |
 | 309 | 252 | Geoffrey Nash |
 | 310 | 252 | Snazzy Filler |
-| 311 | 251 | Twisty Brick LT |
-| 312 | 251 | Naur |
+| 311 | 251 | Naur |
+| 312 | 251 | Twisty Brick LT |
 | 313 | 250 | Tosha Griffey |
 | 314 | 247 | Jessica |
 | 315 | 246 | Erika Thornton |
@@ -396,15 +396,15 @@
 | 388 | 202 | BŘŰŤİÇŨŚ |
 | 389 | 202 | Andrew Thorson |
 | 390 | 202 | Melanie Sherwood |
-| 391 | 202 | BŘŰŤİÇŨŚ |
+| 391 | 202 | Tipsy Zonebuilder |
 | 392 | 201 | Hyper Matchzone |
 | 393 | 200 | glichmod |
 | 394 | 200 | Colleen Phelps |
 | 395 | 199 | Fancy Curver |
 | 396 | 198 | Zac Hudak |
 | 397 | 198 | Brian Battjes |
-| 398 | 196 | Salena Whitlock |
-| 399 | 196 | Rainbow77375 |
+| 398 | 196 | Rainbow77375 |
+| 399 | 196 | Salena Whitlock |
 | 400 | 195 | Nicha Hooker |
 | 401 | 194 | Erykah |
 | 402 | 194 | Block Baddie |
