@@ -79,8 +79,8 @@
 | 71 | 413 | Steve Schneider |
 | 72 | 412 | Anaid Sanchez |
 | 73 | 412 | Jazzy Framezone |
-| 74 | 390 | Candy Jones |
-| 75 | 390 | Cynthia Bradley |
+| 74 | 390 | Cynthia Bradley |
+| 75 | 390 | Candy Jones |
 | 76 | 388 | Yvonne Marie |
 | 77 | 388 | cc |
 | 78 | 388 | Jennifer ManWarren |
@@ -134,13 +134,13 @@
 | 126 | 278 | Rachael |
 | 127 | 276 | Dandy Basegrid |
 | 128 | 265 | SkipTheSadSauce |
-| 129 | 264 | Jenny Gingrich Fuentes |
-| 130 | 264 | Lexuriuos Lifestlye |
+| 129 | 264 | Lexuriuos Lifestlye |
+| 130 | 264 | Jenny Gingrich Fuentes |
 | 131 | 263 | Sharon Reynolds |
 | 132 | 257 | Amanda Jarnagin |
 | 133 | 256 | David Miller |
-| 134 | 252 | Elaine Elaine |
-| 135 | 252 | Dena Kayy |
+| 134 | 252 | Dena Kayy |
+| 135 | 252 | Elaine Elaine |
 | 136 | 248 | Lori Bales |
 | 137 | 247 | Tana |
 | 138 | 246 | Chelsea Dahlquist |
@@ -172,8 +172,8 @@
 | 164 | 206 | BadG52 |
 | 165 | 205 | Tater |
 | 166 | 204 | Lacy Wolfe |
-| 167 | 203 | Paula Martin |
-| 168 | 203 | LaFontaine Leslie |
+| 167 | 203 | LaFontaine Leslie |
+| 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
 | 171 | 198 | Happy Snapbuild |
@@ -208,8 +208,8 @@
 | 200 | 175 | John Barron |
 | 201 | 174 | Cheeky Pop |
 | 202 | 173 | Gabrielle Louise Malloch |
-| 203 | 171 | Greg Premoe |
-| 204 | 171 | David DeSantis |
+| 203 | 171 | David DeSantis |
+| 204 | 171 | Greg Premoe |
 | 205 | 170 | Standia Civil |
 | 206 | 170 | Cece Ibarra |
 | 207 | 170 | Rico Rico |

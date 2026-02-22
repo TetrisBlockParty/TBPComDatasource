@@ -153,8 +153,8 @@
 | 145 | 1051 | Shandrica Lowe |
 | 146 | 1048 | PsychKIRAtrist |
 | 147 | 1047 | Amy Sayers |
-| 148 | 1043 | Brave Dropmatch |
-| 149 | 1043 | Suki Kaur |
+| 148 | 1043 | Suki Kaur |
+| 149 | 1043 | Brave Dropmatch |
 | 150 | 1035 | Sarah Freitas |
 | 151 | 1026 | Heather Westrum |
 | 152 | 1023 | Brainy Smurf |
@@ -305,8 +305,8 @@
 | 297 | 632 | Beth |
 | 298 | 631 | Marie Walker |
 | 299 | 629 | Sleepypanda67 |
-| 300 | 627 | Victoria Moore-Smith |
-| 301 | 627 | Allan Wayne Lamia |
+| 300 | 627 | Allan Wayne Lamia |
+| 301 | 627 | Victoria Moore-Smith |
 | 302 | 619 | Jánine Riggs |
 | 303 | 617 | tejas25 |
 | 304 | 617 | Leslie Ann Carter |
@@ -1262,8 +1262,8 @@
 | 1254 | 163 | Macy Jarrett |
 | 1255 | 163 | Draizen Montrell Thomas |
 | 1256 | 163 | Zee |
-| 1257 | 163 | Gina Bahn |
-| 1258 | 163 | Heide Shree |
+| 1257 | 163 | Heide Shree |
+| 1258 | 163 | Gina Bahn |
 | 1259 | 162 | Dreamy Fitclear |
 | 1260 | 162 | Makayla Harris |
 | 1261 | 162 | Alice Samm |

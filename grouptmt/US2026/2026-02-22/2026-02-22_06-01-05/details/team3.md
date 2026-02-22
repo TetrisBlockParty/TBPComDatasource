@@ -142,16 +142,16 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
-| 141 | 399 | Marcie Bressler |
-| 142 | 399 | Mcathen |
+| 141 | 399 | Mcathen |
+| 142 | 399 | Marcie Bressler |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
-| 145 | 392 | Katie Knaus |
-| 146 | 392 | Tasha Gillespie |
+| 145 | 392 | Tasha Gillespie |
+| 146 | 392 | Katie Knaus |
 | 147 | 391 | Calista Jo Dickson |
 | 148 | 390 | Hasty Cascadefit |
 | 149 | 389 | Jeni Dow |
@@ -240,8 +240,8 @@
 | 232 | 256 | Tiffany Davie |
 | 233 | 256 | KayB |
 | 234 | 251 | Sabrina Hardrick |
-| 235 | 249 | Annie Marie |
-| 236 | 249 | JerseyJess |
+| 235 | 249 | JerseyJess |
+| 236 | 249 | Annie Marie |
 | 237 | 246 | Eon Harris |
 | 238 | 246 | Peppy Shifter |
 | 239 | 246 | Rochelle Hazelett |

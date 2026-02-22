@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | HastyGrabber |
-| 109 | 296 | Justin Hannigan |
+| 108 | 296 | Justin Hannigan |
+| 109 | 296 | HastyGrabber |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -124,8 +124,8 @@
 | 116 | 284 | shark tato |
 | 117 | 281 | Meagan Nicole |
 | 118 | 278 | Carrie Brian |
-| 119 | 277 | Scott Jameson |
-| 120 | 277 | Mary Ann Pabukis |
+| 119 | 277 | Mary Ann Pabukis |
+| 120 | 277 | Scott Jameson |
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |
