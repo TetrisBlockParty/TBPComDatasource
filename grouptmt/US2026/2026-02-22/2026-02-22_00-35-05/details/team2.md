@@ -194,8 +194,8 @@
 | 186 | 705 | Lola Contreras |
 | 187 | 705 | Roger Grabbit |
 | 188 | 703 | Debra Williams |
-| 189 | 700 | Beverly Owens |
-| 190 | 700 | Rosemadder |
+| 189 | 700 | Rosemadder |
+| 190 | 700 | Beverly Owens |
 | 191 | 700 | Vincent Petrella |
 | 192 | 699 | Vo'Landa Reels |
 | 193 | 697 | Real Ri |
@@ -428,8 +428,8 @@
 | 420 | 369 | Tara Lynn Janes |
 | 421 | 367 | Deyawn Smith |
 | 422 | 366 | Darcy Mae |
-| 423 | 366 | Courtney Burcham |
-| 424 | 366 | Smashanator |
+| 423 | 366 | Smashanator |
+| 424 | 366 | Courtney Burcham |
 | 425 | 365 | Christina Lewis-Vickers |
 | 426 | 365 | Audrey Jones |
 | 427 | 365 | Susan Arnburg |
@@ -449,8 +449,8 @@
 | 441 | 353 | Cheery Matchzone |
 | 442 | 352 | Jean FU Jagielski |
 | 443 | 352 | ruth |
-| 444 | 350 | Chris Harr |
-| 445 | 350 | Jessica Lamb |
+| 444 | 350 | Jessica Lamb |
+| 445 | 350 | Chris Harr |
 | 446 | 350 | Fi Ne |
 | 447 | 350 | F-X |
 | 448 | 348 | Richard Horton |
@@ -470,7 +470,7 @@
 | 462 | 341 | Daniel Amos |
 | 463 | 341 | Traci Johnson |
 | 464 | 339 | Cool Rollpiece |
-| 465 | 338 | Ryan Meilleur |
+| 465 | 338 | Shorty |
 | 466 | 338 | Peppy Snapfall |
 | 467 | 338 | Ryan Meilleur |
 | 468 | 337 | Sassy Pattern |

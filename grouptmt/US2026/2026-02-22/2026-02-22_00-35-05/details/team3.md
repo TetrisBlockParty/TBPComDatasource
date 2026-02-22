@@ -55,8 +55,8 @@
 | 47 | 879 | Shonna Roberts |
 | 48 | 874 | Jessica Pineda-Lopez |
 | 49 | 840 | Corie A. Brinson |
-| 50 | 828 | Angela M. Fletcher |
-| 51 | 828 | Jessica Ann |
+| 50 | 828 | Jessica Ann |
+| 51 | 828 | Angela M. Fletcher |
 | 52 | 810 | Shane Wilson Jr. |
 | 53 | 744 | Gracie |
 | 54 | 730 | Snappy Glidepiece |
@@ -65,18 +65,18 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -105,8 +105,8 @@
 | 97 | 458 | Domo Washington |
 | 98 | 447 | Mykal Burton |
 | 99 | 446 | Danielle Rhoades |
-| 100 | 445 | Kristie McFarland |
-| 101 | 445 | Silly Twist |
+| 100 | 445 | Silly Twist |
+| 101 | 445 | Kristie McFarland |
 | 102 | 430 | Patricia White |
 | 103 | 428 | Elissa S-k |
 | 104 | 424 | Bea Miles |
@@ -266,7 +266,7 @@
 | 258 | 163 | Stephanie Hill |
 | 259 | 162 | Stephanie Whitefield |
 | 260 | 162 | Cesar Barraza |
-| 261 | 162 | Stephanie Whitefield |
+| 261 | 162 | Loopy Fallzone |
 | 262 | 161 | Kristian Thurman |
 | 263 | 160 | Tiffany Davie |
 | 264 | 160 | Eon Harris |
