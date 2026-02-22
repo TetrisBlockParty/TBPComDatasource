@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 874 | Nate Burnside |
@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -165,8 +165,8 @@
 | 157 | 403 | Scott Lindsay |
 | 158 | 401 | Katie Knaus |
 | 159 | 400 | Luciana Braganca Vieira |
-| 160 | 399 | Marcie Bressler |
-| 161 | 399 | Mcathen |
+| 160 | 399 | Mcathen |
+| 161 | 399 | Marcie Bressler |
 | 162 | 397 | Annie Déè |
 | 163 | 393 | Fallorina Susana |
 | 164 | 391 | Calista Jo Dickson |
@@ -191,8 +191,8 @@
 | 183 | 361 | Jamie Lang |
 | 184 | 358 | Chummy Caster |
 | 185 | 358 | RickyG |
-| 186 | 357 | Tom Nault |
-| 187 | 357 | Stephanie Burtin |
+| 186 | 357 | Stephanie Burtin |
+| 187 | 357 | Tom Nault |
 | 188 | 353 | Nora Rogers |
 | 189 | 352 | Rochelle Hazelett |
 | 190 | 348 | Chasity |
@@ -268,8 +268,8 @@
 | 260 | 246 | Peppy Shifter |
 | 261 | 245 | Latoya Mayne |
 | 262 | 244 | LaNette Morgan |
-| 263 | 243 | Foltz Lee Kelli |
-| 264 | 243 | Brenda Schmid Wood |
+| 263 | 243 | Brenda Schmid Wood |
+| 264 | 243 | Foltz Lee Kelli |
 | 265 | 240 | Jimmie Clemons |
 | 266 | 238 | Connie Mohler-Fair |
 | 267 | 238 | LaTanya GeminiondaRise Johnson |

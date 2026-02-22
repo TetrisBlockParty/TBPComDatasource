@@ -402,8 +402,8 @@
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Deidre Shaffer |
 | 396 | 544 | Leah Keesling |
-| 397 | 543 | Julie Kresal |
-| 398 | 543 | Vanessa Moreno |
+| 397 | 543 | Vanessa Moreno |
+| 398 | 543 | Julie Kresal |
 | 399 | 542 | AISlop |
 | 400 | 541 | g |
 | 401 | 540 | Dizzy Zone |
@@ -615,8 +615,8 @@
 | 607 | 384 | Kelly |
 | 608 | 383 | Jessica Conaway |
 | 609 | 383 | Belle Mari |
-| 610 | 382 | Lively Edgepiece |
-| 611 | 382 | David Holliday |
+| 610 | 382 | David Holliday |
+| 611 | 382 | Lively Edgepiece |
 | 612 | 382 | Amber Gray |
 | 613 | 381 | Nicky Jackson |
 | 614 | 381 | Happy Caster |
@@ -693,8 +693,8 @@
 | 685 | 341 | Daniel Amos |
 | 686 | 341 | Shorty |
 | 687 | 339 | Denise Rickman |
-| 688 | 339 | Twisty Tetriblast |
-| 689 | 339 | Cynthia Louann Rose |
+| 688 | 339 | Cynthia Louann Rose |
+| 689 | 339 | Twisty Tetriblast |
 | 690 | 338 | Janitta Alvarez |
 | 691 | 337 | Sassy Pattern |
 | 692 | 337 | Tum |
@@ -714,8 +714,8 @@
 | 706 | 329 | Chummy Blockbuilder |
 | 707 | 329 | Jane Crew |
 | 708 | 329 | Snappy Shatterfit |
-| 709 | 328 | Jamie Carter Bierce |
-| 710 | 328 | BabyBird |
+| 709 | 328 | BabyBird |
+| 710 | 328 | Jamie Carter Bierce |
 | 711 | 326 | Ann Knutson Anderson |
 | 712 | 325 | Justin Hines |
 | 713 | 325 | Mike73 |
@@ -726,8 +726,8 @@
 | 718 | 322 | Christina Jarvis-Swarbrick |
 | 719 | 322 | Michelle Pike |
 | 720 | 322 | Lea Stewart |
-| 721 | 321 | Tamara Bailey |
-| 722 | 321 | Ashley Criner |
+| 721 | 321 | Ashley Criner |
+| 722 | 321 | Tamara Bailey |
 | 723 | 320 | Peachy Blockbuilder |
 | 724 | 320 | Tash Bell |
 | 725 | 320 | Mary Boss |

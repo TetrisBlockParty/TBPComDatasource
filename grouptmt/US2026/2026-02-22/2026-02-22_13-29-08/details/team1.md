@@ -94,8 +94,8 @@
 | 86 | 400 | Cynthia Bradley |
 | 87 | 399 | Nerdy Linkblock |
 | 88 | 397 | Tdub |
-| 89 | 390 | Lori Bales |
-| 90 | 390 | Goose egg |
+| 89 | 390 | Goose egg |
+| 90 | 390 | Lori Bales |
 | 91 | 390 | Candy Jones |
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
@@ -135,11 +135,11 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Chelsea Dahlquist |
-| 131 | 300 | Elaine Elaine |
+| 130 | 300 | Elaine Elaine |
+| 131 | 300 | Chelsea Dahlquist |
 | 132 | 298 | Erin Hodges Plumb |
-| 133 | 290 | Death |
-| 134 | 290 | Sarah Roberts |
+| 133 | 290 | Sarah Roberts |
+| 134 | 290 | Death |
 | 135 | 289 | David Miller |
 | 136 | 285 | Ananda Mendez |
 | 137 | 284 | Emily Adelaide Wheatley |
