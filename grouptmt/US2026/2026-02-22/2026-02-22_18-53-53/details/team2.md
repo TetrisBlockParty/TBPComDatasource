@@ -569,8 +569,8 @@
 | 561 | 463 | Jaye EL Hunter |
 | 562 | 463 | Mia Muse Best |
 | 563 | 462 | Jennifer Monroe Kelly |
-| 564 | 462 | Amanda Ferrell |
-| 565 | 462 | Daphne Jordan |
+| 564 | 462 | Daphne Jordan |
+| 565 | 462 | Amanda Ferrell |
 | 566 | 462 | Jennifer Scott |
 | 567 | 460 | Tara Lynn Janes |
 | 568 | 460 | LaWanda Powell |
@@ -636,10 +636,10 @@
 | 628 | 419 | Frilly Fallzone |
 | 629 | 418 | Dawn L Washington-Feuquay |
 | 630 | 417 | Lauren Fitzgerald Thomas |
-| 631 | 417 | Oscar Bernie |
-| 632 | 417 | Alexx Anaya |
-| 633 | 416 | Ricky Fortune |
-| 634 | 416 | Mo Shine On |
+| 631 | 417 | Alexx Anaya |
+| 632 | 417 | Oscar Bernie |
+| 633 | 416 | Mo Shine On |
+| 634 | 416 | Ricky Fortune |
 | 635 | 414 | Daniel Amos |
 | 636 | 414 | John |
 | 637 | 413 | Ebony Deloach Bryant |

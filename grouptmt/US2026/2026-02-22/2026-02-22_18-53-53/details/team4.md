@@ -131,24 +131,24 @@
 | 123 | 373 | Joseph Guthrie |
 | 124 | 369 | Nope Young |
 | 125 | 356 | Serena Goodridge |
-| 126 | 353 | Livvy |
-| 127 | 353 | Tyler Terrific |
+| 126 | 353 | Tyler Terrific |
+| 127 | 353 | Livvy |
 | 128 | 344 | Lush Linkfall |
 | 129 | 343 | Latisha Davis |
 | 130 | 338 | Lucas J Sutton |
 | 131 | 338 | ThaEviLJeNiuZ |
 | 132 | 336 | Austin Owens |
 | 133 | 336 | Jessica Bohlken |
-| 134 | 332 | HastyGrabber |
-| 135 | 332 | Desi Desporte |
+| 134 | 332 | Desi Desporte |
+| 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
 | 137 | 328 | Kris Bartlett |
 | 138 | 328 | Leslie Nicole |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
-| 142 | 321 | Klo |
-| 143 | 321 | Trista Leah |
+| 142 | 321 | Trista Leah |
+| 143 | 321 | Klo |
 | 144 | 319 | Guy Incognito |
 | 145 | 318 | Lauren Scott |
 | 146 | 314 | Andy Cabral |
@@ -196,14 +196,14 @@
 | 188 | 251 | Matt Summer |
 | 189 | 250 | Matt Dell'Olio |
 | 190 | 248 | Chirpy Basepiece |
-| 191 | 247 | jim |
-| 192 | 247 | Dennis Bradley |
+| 191 | 247 | Dennis Bradley |
+| 192 | 247 | jim |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | 23 |
 | 195 | 245 | Autum Leigh |
 | 196 | 245 | Andria Lynn |
-| 197 | 244 | Twisty Cascadezone |
-| 198 | 244 | Lindsey Gonzalez |
+| 197 | 244 | Lindsey Gonzalez |
+| 198 | 244 | Twisty Cascadezone |
 | 199 | 243 | Jose Dejesus |
 | 200 | 243 | Mr. Party |
 | 201 | 241 | Allen Lloyd |
@@ -522,7 +522,7 @@
 | 514 | 96 | Nicole McMurray |
 | 515 | 96 | Snippy Clearer |
 | 516 | 96 | Jessica Petersen |
-| 517 | 96 | Shirl |
+| 517 | 96 | Rebecca Blake |
 | 518 | 96 | Christy |
 | 519 | 95 | RedBoots82 |
 | 520 | 95 | Tina Lopez |

@@ -94,8 +94,8 @@
 | 86 | 456 | Arianna O'Brien |
 | 87 | 453 | Brandi Huntington |
 | 88 | 448 | Loony Fitzone |
-| 89 | 444 | Hyper |
-| 90 | 444 | Lexuriuos Lifestlye |
+| 89 | 444 | Lexuriuos Lifestlye |
+| 90 | 444 | Hyper |
 | 91 | 443 | Steve Schneider |
 | 92 | 439 | Trina Gee |
 | 93 | 436 | Tonya Beasley |
@@ -212,8 +212,8 @@
 | 204 | 238 | Tiffany Smith |
 | 205 | 237 | Veronica Eve |
 | 206 | 236 | femmefatale |
-| 207 | 235 | MRdot Rooski |
-| 208 | 235 | Desiree Deschaine Havee |
+| 207 | 235 | Desiree Deschaine Havee |
+| 208 | 235 | MRdot Rooski |
 | 209 | 234 | Paula Martin |
 | 210 | 233 | LC |
 | 211 | 230 | BigWeenie69 |
@@ -221,8 +221,8 @@
 | 213 | 228 | Cheeky Pop |
 | 214 | 227 | Cody Gates |
 | 215 | 226 | Michael |
-| 216 | 225 | Bindi |
-| 217 | 225 | Jessie Lynn |
+| 216 | 225 | Jessie Lynn |
+| 217 | 225 | Bindi |
 | 218 | 224 | ParisandCory Champagne |
 | 219 | 223 | Basment Living |
 | 220 | 223 | Shiny Gridmatch |
