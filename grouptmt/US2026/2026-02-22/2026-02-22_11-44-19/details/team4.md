@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 747 | BertMofo |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Clarence Patawaran |
-| 45 | 707 | Rachel Anne |
+| 44 | 707 | Rachel Anne |
+| 45 | 707 | Clarence Patawaran |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 614 | TheNeesh50 |
 | 61 | 599 | Brittney Griggs |
@@ -266,8 +266,8 @@
 | 258 | 147 | B Renee Desjardin |
 | 259 | 147 | Jay28 |
 | 260 | 147 | Jared Gutwein |
-| 261 | 145 | Mimi |
-| 262 | 145 | Sandra Safford |
+| 261 | 145 | Sandra Safford |
+| 262 | 145 | Mimi |
 | 263 | 144 | Sticherella |
 | 264 | 143 | Zesty Twistbuilder |
 | 265 | 143 | Asher |
@@ -426,8 +426,8 @@
 | 418 | 97 | Rosemary Foster |
 | 419 | 97 | Brandon Crabbs |
 | 420 | 96 | Rebecca Blake |
-| 421 | 95 | Jobadia Steelerton |
-| 422 | 95 | Chirpy Slammer |
+| 421 | 95 | Chirpy Slammer |
+| 422 | 95 | Jobadia Steelerton |
 | 423 | 95 | RedBoots82 |
 | 424 | 94 | Ahleek Mitchell |
 | 425 | 94 | Jeff Roberts |

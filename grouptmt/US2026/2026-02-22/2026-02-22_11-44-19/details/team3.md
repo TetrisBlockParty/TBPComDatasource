@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -176,8 +176,8 @@
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Santeria Trece Candles |
-| 172 | 370 | Danielle Allison |
+| 171 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -217,8 +217,8 @@
 | 209 | 301 | Chelsea Hall |
 | 210 | 300 | Sherika C. McDaniels |
 | 211 | 298 | MsBee |
-| 212 | 297 | Keis |
-| 213 | 297 | Jojo M |
+| 212 | 297 | Jojo M |
+| 213 | 297 | Keis |
 | 214 | 296 | Ammmmmmy |
 | 215 | 296 | Katrina Turner |
 | 216 | 296 | Brandon Givens |
@@ -233,8 +233,8 @@
 | 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
-| 228 | 278 | Rufus Lincoln |
-| 229 | 278 | Sabrina Hardrick |
+| 228 | 278 | Sabrina Hardrick |
+| 229 | 278 | Rufus Lincoln |
 | 230 | 276 | Crimson |
 | 231 | 276 | _melisa223_ |
 | 232 | 275 | Cassandra Bryant |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -306,8 +306,8 @@
 | 298 | 207 | Daring Builder |
 | 299 | 207 | Jessica |
 | 300 | 207 | angieelyn |
-| 301 | 206 | Stephanie Hill |
-| 302 | 206 | Tammy Rosenberry |
+| 301 | 206 | Tammy Rosenberry |
+| 302 | 206 | Stephanie Hill |
 | 303 | 206 | Tracy Martin |
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Salena Whitlock |
-| 332 | 183 | Cesar Barraza |
+| 331 | 183 | Cesar Barraza |
+| 332 | 183 | Salena Whitlock |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -357,16 +357,16 @@
 | 349 | 170 | Colleen Phelps |
 | 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
 | 357 | 166 | Angella Lyons |
 | 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Rainbow77375 |
-| 361 | 165 | Ashley Lynn Marchese |
+| 360 | 165 | Ashley Lynn Marchese |
+| 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
 | 364 | 163 | Diana Ibarra |

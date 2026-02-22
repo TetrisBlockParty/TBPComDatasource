@@ -330,8 +330,8 @@
 | 322 | 650 | Shiny Rollzone |
 | 323 | 645 | tejas25 |
 | 324 | 643 | Hoppy Brickmatch |
-| 325 | 641 | Joce Lynn |
-| 326 | 641 | Angie Bolton Workman |
+| 325 | 641 | Angie Bolton Workman |
+| 326 | 641 | Joce Lynn |
 | 327 | 640 | BYM4L |
 | 328 | 639 | Crystie Hicks |
 | 329 | 639 | Rebecca Miller |
@@ -580,8 +580,8 @@
 | 572 | 396 | Candy Pitts |
 | 573 | 396 | AkaLefty |
 | 574 | 396 | Boogie SoAnimated Johnson |
-| 575 | 393 | bbv |
-| 576 | 393 | Jamie West |
+| 575 | 393 | Jamie West |
+| 576 | 393 | bbv |
 | 577 | 393 | Deyawn Smith |
 | 578 | 391 | Qiana Sanders |
 | 579 | 391 | Chilly Bridgepiece |
@@ -703,8 +703,8 @@
 | 695 | 329 | Chummy Blockbuilder |
 | 696 | 329 | Snappy Shatterfit |
 | 697 | 329 | Jane Crew |
-| 698 | 328 | Jamie Carter Bierce |
-| 699 | 328 | BabyBird |
+| 698 | 328 | BabyBird |
+| 699 | 328 | Jamie Carter Bierce |
 | 700 | 326 | Ann Knutson Anderson |
 | 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
@@ -795,8 +795,8 @@
 | 787 | 287 | N00D3S |
 | 788 | 286 | Kelsey Sullivan |
 | 789 | 286 | Sveta Lana |
-| 790 | 285 | Court |
-| 791 | 285 | Epic Stackbuilder |
+| 790 | 285 | Epic Stackbuilder |
+| 791 | 285 | Court |
 | 792 | 285 | Kimberly Mitchell |
 | 793 | 284 | Hillary Franklin |
 | 794 | 282 | Nutty Slice |
@@ -863,8 +863,8 @@
 | 855 | 265 | Theresa Sterrett |
 | 856 | 265 | trabuco |
 | 857 | 264 | Nicki Stephens |
-| 858 | 264 | Rachel Switala |
-| 859 | 264 | Ocean-Brianna McGregor |
+| 858 | 264 | Ocean-Brianna McGregor |
+| 859 | 264 | Rachel Switala |
 | 860 | 264 | Edna Combs |
 | 861 | 263 | Elizabeth Leinen |
 | 862 | 263 | Amy Humphreys |
@@ -898,8 +898,8 @@
 | 890 | 258 | Kara Tolbert |
 | 891 | 257 | Queen |
 | 892 | 257 | Mama T |
-| 893 | 257 | Ys Muhammed |
-| 894 | 257 | Jackie Jackie Lee |
+| 893 | 257 | Jackie Jackie Lee |
+| 894 | 257 | Ys Muhammed |
 | 895 | 256 | Slinky Racker |
 | 896 | 256 | Nikki Vaughn |
 | 897 | 256 | Brenna Yearian |
@@ -928,8 +928,8 @@
 | 920 | 250 | Kay Stevenson |
 | 921 | 250 | Drew Berkelbach |
 | 922 | 249 | J.L. Roberts |
-| 923 | 249 | Joshua Mullings |
-| 924 | 249 | Kamilya Rembert |
+| 923 | 249 | Kamilya Rembert |
+| 924 | 249 | Joshua Mullings |
 | 925 | 249 | Angela Yantz |
 | 926 | 248 | Jaybee Nguyen |
 | 927 | 248 | Angelina Marie |
@@ -1024,8 +1024,8 @@
 | 1016 | 225 | Anastacio Hernandez |
 | 1017 | 225 | Quiksilver |
 | 1018 | 225 | Caitlin Johnson |
-| 1019 | 225 | Tyler C. Jung |
-| 1020 | 225 | Samantha Morgan |
+| 1019 | 225 | Samantha Morgan |
+| 1020 | 225 | Tyler C. Jung |
 | 1021 | 224 | Joann |
 | 1022 | 224 | Wil Allen |
 | 1023 | 223 | Erin Garlanger |
@@ -1047,15 +1047,15 @@
 | 1039 | 222 | Angel Moorhead |
 | 1040 | 222 | Lovely |
 | 1041 | 220 | Amy Reynolds |
-| 1042 | 220 | Marcie McLain Dodd |
-| 1043 | 220 | HarleyJane |
+| 1042 | 220 | HarleyJane |
+| 1043 | 220 | Marcie McLain Dodd |
 | 1044 | 220 | Sandra McNab |
 | 1045 | 220 | Natalie M Wells |
 | 1046 | 219 | Cathy Bitters |
 | 1047 | 219 | Jenn Morin |
 | 1048 | 219 | Kimberly Ashley-Stevens |
-| 1049 | 218 | Clever Dashgrid |
-| 1050 | 218 | Shea Edison |
+| 1049 | 218 | Shea Edison |
+| 1050 | 218 | Clever Dashgrid |
 | 1051 | 217 | Wedance Fong |
 | 1052 | 217 | Christine Lockwood |
 | 1053 | 217 | Elizabeth Pearson |
@@ -1626,9 +1626,9 @@
 | 1618 | 144 | Brandy |
 | 1619 | 144 | Raesey |
 | 1620 | 143 | Brittany Sweetland |
-| 1621 | 143 | Kristina Marie Hanna |
-| 1622 | 143 | Tammisto Jodi |
-| 1623 | 143 | Arianna Cook |
+| 1621 | 143 | Arianna Cook |
+| 1622 | 143 | Kristina Marie Hanna |
+| 1623 | 143 | Tammisto Jodi |
 | 1624 | 143 | Sherika Walker |
 | 1625 | 143 | Tracie |
 | 1626 | 143 | Anita Ortiz |
