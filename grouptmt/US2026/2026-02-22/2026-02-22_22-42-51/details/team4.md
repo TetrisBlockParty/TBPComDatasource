@@ -74,8 +74,8 @@
 | 66 | 704 | Crystal Carroll |
 | 67 | 696 | D3TROITB0RN74 |
 | 68 | 671 | Kimyatta Cavin |
-| 69 | 664 | Julian Garcia |
-| 70 | 664 | Valerie Roberts |
+| 69 | 664 | Valerie Roberts |
+| 70 | 664 | Julian Garcia |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
 | 73 | 647 | KM8 |
@@ -123,8 +123,8 @@
 | 115 | 458 | Twisty Clicky |
 | 116 | 448 | Kristin Manee |
 | 117 | 435 | Leslie Thomas |
-| 118 | 431 | Courtney Cicoria |
-| 119 | 431 | Jolly Dashfit |
+| 118 | 431 | Jolly Dashfit |
+| 119 | 431 | Courtney Cicoria |
 | 120 | 429 | Ren Mc |
 | 121 | 427 | KJ Pool |
 | 122 | 418 | Dizzy Tiley |
@@ -147,8 +147,8 @@
 | 139 | 372 | Swanky Fitline |
 | 140 | 371 | Jessica Lynn Cutlip |
 | 141 | 355 | Kristina Black |
-| 142 | 353 | Tyler Terrific |
-| 143 | 353 | Livvy |
+| 142 | 353 | Livvy |
+| 143 | 353 | Tyler Terrific |
 | 144 | 350 | Angela Srubar-Norman |
 | 145 | 348 | Silly Zonebuilder |
 | 146 | 347 | Daria Rycewicz |
@@ -168,8 +168,8 @@
 | 160 | 321 | jim |
 | 161 | 320 | Lauren Scott |
 | 162 | 316 | Meagan Nicole |
-| 163 | 314 | Andy Cabral |
-| 164 | 314 | 🥔🥔 Spudz |
+| 163 | 314 | 🥔🥔 Spudz |
+| 164 | 314 | Andy Cabral |
 | 165 | 314 | TRCuse |
 | 166 | 312 | Rafael Valentin |
 | 167 | 311 | A5! |
@@ -194,8 +194,8 @@
 | 186 | 286 | Brittney Orengo |
 | 187 | 282 | Sue Joyce Staats |
 | 188 | 281 | Laura |
-| 189 | 277 | Mary Ann Pabukis |
-| 190 | 277 | Kim Klutz Olson |
+| 189 | 277 | Kim Klutz Olson |
+| 190 | 277 | Mary Ann Pabukis |
 | 191 | 276 | Joeliecea Cobb |
 | 192 | 273 | Jamie Gustafson |
 | 193 | 272 | Alan George LaRage |

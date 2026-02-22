@@ -340,8 +340,8 @@
 | 332 | 254 | Desiree Gold |
 | 333 | 253 | Salena Whitlock |
 | 334 | 252 | Blair Erin Waite |
-| 335 | 251 | Alice |
-| 336 | 251 | Naur |
+| 335 | 251 | Naur |
+| 336 | 251 | Alice |
 | 337 | 250 | Tosha Griffey |
 | 338 | 247 | Daring Builder |
 | 339 | 247 | Jessica |

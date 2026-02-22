@@ -101,8 +101,8 @@
 | 93 | 483 | Jennifer ManWarren |
 | 94 | 477 | Loony Fitzone |
 | 95 | 474 | cc |
-| 96 | 472 | April Carroll |
-| 97 | 472 | Kristen Gideon |
+| 96 | 472 | Kristen Gideon |
+| 97 | 472 | April Carroll |
 | 98 | 466 | Hasbro Bros |
 | 99 | 462 | Tdub |
 | 100 | 453 | Brandi Huntington |
@@ -234,8 +234,8 @@
 | 226 | 240 | Daring Fitclear |
 | 227 | 240 | DaRascal |
 | 228 | 239 | Lacy Wolfe |
-| 229 | 238 | Tiffany Smith |
-| 230 | 238 | Sarah Somers Gray |
+| 229 | 238 | Sarah Somers Gray |
+| 230 | 238 | Tiffany Smith |
 | 231 | 235 | Bindi |
 | 232 | 234 | Shanae Grant |
 | 233 | 234 | Paula Martin |
@@ -672,7 +672,7 @@
 | 664 | 84 | Ramona Mittelstadt |
 | 665 | 84 | Ma stoken |
 | 666 | 83 | Garrett Burket |
-| 667 | 83 | Marc Abney |
+| 667 | 83 | Bucketsmasher |
 | 668 | 83 | Kevin Prothro |
 | 669 | 83 | Larry Fritzinger |
 | 670 | 83 | Doris Hall |

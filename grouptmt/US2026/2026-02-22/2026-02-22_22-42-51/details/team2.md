@@ -592,8 +592,8 @@
 | 584 | 478 | Christina Ashley |
 | 585 | 477 | Juanita Lyons |
 | 586 | 476 | Chummy Blockbuilder |
-| 587 | 476 | Cecilia A Jenkins |
-| 588 | 476 | Ashlee Cruz |
+| 587 | 476 | Ashlee Cruz |
+| 588 | 476 | Cecilia A Jenkins |
 | 589 | 476 | Kiana Boschh |
 | 590 | 475 | Lee Harper |
 | 591 | 475 | Mia Muse Best |
@@ -744,8 +744,8 @@
 | 736 | 389 | Eunique Griffin |
 | 737 | 389 | Mandy Kachenmeister |
 | 738 | 389 | Montez Mancil |
-| 739 | 388 | TF Dyer |
-| 740 | 388 | ruth |
+| 739 | 388 | ruth |
+| 740 | 388 | TF Dyer |
 | 741 | 388 | James Zaragoza |
 | 742 | 388 | Tamara Bailey |
 | 743 | 388 | CC |
