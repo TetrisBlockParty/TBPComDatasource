@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -149,8 +149,8 @@
 | 141 | 449 | Danielle Rhoades |
 | 142 | 448 | Karon Griffin |
 | 143 | 445 | Shannon Matthew Byers |
-| 144 | 445 | Jacqueline Rodriguez |
-| 145 | 445 | Kristie McFarland |
+| 144 | 445 | Kristie McFarland |
+| 145 | 445 | Jacqueline Rodriguez |
 | 146 | 439 | Michelle |
 | 147 | 435 | Daryn Elliott |
 | 148 | 432 | Jenny Hrndz |
@@ -227,8 +227,8 @@
 | 219 | 300 | Sherika C. McDaniels |
 | 220 | 298 | MsBee |
 | 221 | 297 | Jojo M |
-| 222 | 296 | Katrina Turner |
-| 223 | 296 | Ammmmmmy |
+| 222 | 296 | Ammmmmmy |
+| 223 | 296 | Katrina Turner |
 | 224 | 296 | Brandon Givens |
 | 225 | 291 | JerseyJess |
 | 226 | 289 | DidIdothat |

@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -114,8 +114,8 @@
 | 106 | 395 | Marie-Pier Desjardins |
 | 107 | 393 | Carlton Unfiltered |
 | 108 | 392 | Ericca Eldridge |
-| 109 | 391 | Monica Daley |
-| 110 | 391 | Ramel Rhodes |
+| 109 | 391 | Ramel Rhodes |
+| 110 | 391 | Monica Daley |
 | 111 | 387 | Denise Carlson |
 | 112 | 382 | Lori Walker |
 | 113 | 373 | Joseph Guthrie |
@@ -217,8 +217,8 @@
 | 209 | 198 | Zesty Twistbuilder |
 | 210 | 198 | Keith Kelley |
 | 211 | 197 | Silly SeaWeed |
-| 212 | 196 | Mr. Party |
-| 213 | 196 | Oscar Alberto Perez |
+| 212 | 196 | Oscar Alberto Perez |
+| 213 | 196 | Mr. Party |
 | 214 | 195 | Malakai Darien Fox |
 | 215 | 195 | 中山成巳 |
 | 216 | 194 | Zany Twisterfit |
@@ -263,8 +263,8 @@
 | 255 | 165 | James Hurley Jr. |
 | 256 | 164 | 030Synner |
 | 257 | 163 | Kristina Black |
-| 258 | 162 | conceptCollector |
-| 259 | 162 | John Brunetti |
+| 258 | 162 | John Brunetti |
+| 259 | 162 | conceptCollector |
 | 260 | 161 | Tanner Lund |
 | 261 | 160 | Brittany Marsh |
 | 262 | 160 | Ellen Durfee |
@@ -644,7 +644,7 @@
 | 636 | 64 | Christian Torres |
 | 637 | 64 | Larry Agan |
 | 638 | 64 | Brad Campbell |
-| 639 | 64 | Larry Agan |
+| 639 | 64 | Rick SJ |
 | 640 | 63 | Paul-Eunice Mathewson |
 | 641 | 63 | Allen Johnson |
 | 642 | 63 | MistyBayou |

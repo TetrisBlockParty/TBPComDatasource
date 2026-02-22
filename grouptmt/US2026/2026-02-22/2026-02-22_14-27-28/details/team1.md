@@ -55,8 +55,8 @@
 | 47 | 671 | Lawrence Belanger |
 | 48 | 663 | Drew Magnus |
 | 49 | 646 | Susanna Guerry |
-| 50 | 635 | Marianne Louise West |
-| 51 | 635 | Angel Fowler |
+| 50 | 635 | Angel Fowler |
+| 51 | 635 | Marianne Louise West |
 | 52 | 634 | comrade fish |
 | 53 | 627 | Katie Daniels |
 | 54 | 614 | Snappy Swiper |
@@ -76,8 +76,8 @@
 | 68 | 491 | Sarah Lombardo |
 | 69 | 489 | Deanna L Hermanson |
 | 70 | 485 | Cartier |
-| 71 | 483 | Ryan Lunnin |
-| 72 | 483 | Evie Khalil |
+| 71 | 483 | Evie Khalil |
+| 72 | 483 | Ryan Lunnin |
 | 73 | 480 | Nancy Green |
 | 74 | 472 | April Carroll |
 | 75 | 458 | Jennifer ManWarren |
@@ -97,13 +97,13 @@
 | 89 | 399 | Nerdy Linkblock |
 | 90 | 397 | Tdub |
 | 91 | 390 | Goose egg |
-| 92 | 390 | Candy Jones |
-| 93 | 390 | Lori Bales |
+| 92 | 390 | Lori Bales |
+| 93 | 390 | Candy Jones |
 | 94 | 389 | Trina Gee |
 | 95 | 383 | Loony Fitzone |
 | 96 | 382 | Jacqueline Williams |
-| 97 | 379 | Kimmie Kimms |
-| 98 | 379 | Austin James |
+| 97 | 379 | Austin James |
+| 98 | 379 | Kimmie Kimms |
 | 99 | 376 | lil mickey |
 | 100 | 374 | Tinah Montanna |
 | 101 | 364 | Shauna Loe |
@@ -141,12 +141,12 @@
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 300 | Elaine Elaine |
 | 135 | 298 | Erin Hodges Plumb |
-| 136 | 290 | Sarah Roberts |
-| 137 | 290 | Death |
+| 136 | 290 | Death |
+| 137 | 290 | Sarah Roberts |
 | 138 | 289 | David Miller |
 | 139 | 285 | Ananda Mendez |
-| 140 | 284 | Emily Adelaide Wheatley |
-| 141 | 284 | Rachael |
+| 140 | 284 | Rachael |
+| 141 | 284 | Emily Adelaide Wheatley |
 | 142 | 283 | Franswa |
 | 143 | 282 | Cool Shiftsnap |
 | 144 | 282 | Snippy Wipebuilder |
@@ -205,8 +205,8 @@
 | 197 | 210 | Giggly Builderline |
 | 198 | 209 | Cece Ibarra |
 | 199 | 208 | Bouncy Grid |
-| 200 | 208 | Michelle Beres |
-| 201 | 208 | Donna Addison Williams |
+| 200 | 208 | Donna Addison Williams |
+| 201 | 208 | Michelle Beres |
 | 202 | 207 | Leslie Bush Yarbrough |
 | 203 | 207 | Brenda Alexander |
 | 204 | 207 | Speedy Liney |
@@ -214,15 +214,15 @@
 | 206 | 205 | Tater |
 | 207 | 205 | Snappy Matcher |
 | 208 | 204 | Lacy Wolfe |
-| 209 | 202 | Fmp |
-| 210 | 202 | Amanda Holibaugh |
+| 209 | 202 | Amanda Holibaugh |
+| 210 | 202 | Fmp |
 | 211 | 201 | Colleen Wise |
 | 212 | 200 | Breanna Luna |
 | 213 | 200 | Flashy Rotator |
 | 214 | 200 | DaRascal |
 | 215 | 199 | Alenoush Karimian |
-| 216 | 198 | Shiny Gridmatch |
-| 217 | 198 | Happy Snapbuild |
+| 216 | 198 | Happy Snapbuild |
+| 217 | 198 | Shiny Gridmatch |
 | 218 | 197 | Melissa Lemmon |
 | 219 | 195 | Jennifer Olewnik Soborowski |
 | 220 | 195 | Bindi |
