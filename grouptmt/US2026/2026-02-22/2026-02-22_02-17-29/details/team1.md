@@ -184,7 +184,7 @@
 | 176 | 170 | Christy Jones |
 | 177 | 170 | Veronica Eve |
 | 178 | 169 | Abbey Crespo |
-| 179 | 168 | Standia Civil |
+| 179 | 168 | Lori Bales |
 | 180 | 168 | Jessie Lynn |
 | 181 | 168 | Standia Civil |
 | 182 | 167 | Nery Martinez |

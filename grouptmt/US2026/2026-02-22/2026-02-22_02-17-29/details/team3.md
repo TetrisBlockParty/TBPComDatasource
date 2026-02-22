@@ -71,16 +71,16 @@
 | 63 | 649 | MissTaylor |
 | 64 | 639 | Elaine Webb Graves |
 | 65 | 628 | Tiff Vs Tiffany |
-| 66 | 621 | Jessica Bechler |
-| 67 | 621 | Cherry Parker |
+| 66 | 621 | Cherry Parker |
+| 67 | 621 | Jessica Bechler |
 | 68 | 619 | Jennifer |
 | 69 | 618 | Brandon Green |
 | 70 | 613 | Amber Hughes |
 | 71 | 604 | Danielle Becker |
 | 72 | 588 | yoyo |
 | 73 | 582 | Jay Horn |
-| 74 | 582 | Katrina Schroeder |
-| 75 | 582 | Natasha Jones |
+| 74 | 582 | Natasha Jones |
+| 75 | 582 | Katrina Schroeder |
 | 76 | 581 | Danielle Mogg |
 | 77 | 580 | Amanda L Baker |
 | 78 | 577 | Speedy Bridger |
@@ -114,11 +114,11 @@
 | 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
 | 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Elissa S-k |
-| 110 | 428 | Betty Ivy |
+| 109 | 428 | Betty Ivy |
+| 110 | 428 | Elissa S-k |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Simpson |
-| 113 | 410 | Stephanie Blkpep Davidson |
+| 112 | 410 | Stephanie Blkpep Davidson |
+| 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
 | 115 | 403 | Christine Filson |
 | 116 | 403 | FuzzyNavel |
@@ -142,8 +142,8 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 350 | Darlene McMillan |
 | 140 | 348 | Louise Stacy Sisson |
 | 141 | 348 | CeceGeGe |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tom Nault |
-| 180 | 261 | Tiffany Ford |
+| 179 | 261 | Tiffany Ford |
+| 180 | 261 | Tom Nault |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Sissy Lowery Davis |
-| 211 | 219 | Shunta Jacobs |
+| 210 | 219 | Shunta Jacobs |
+| 211 | 219 | Sissy Lowery Davis |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 216 | Tasha Wesson-Torrence |
@@ -230,8 +230,8 @@
 | 222 | 207 | Chris Bell |
 | 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
-| 225 | 204 | Aerian Preston |
-| 226 | 204 | Danielle Allison |
+| 225 | 204 | Danielle Allison |
+| 226 | 204 | Aerian Preston |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
 | 229 | 200 | glichmod |

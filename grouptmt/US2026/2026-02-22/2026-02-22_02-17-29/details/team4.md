@@ -112,8 +112,8 @@
 | 104 | 273 | Carrie Brian |
 | 105 | 271 | Sarah Brown |
 | 106 | 268 | Meagan Nicole |
-| 107 | 264 | Epic Curvetile |
-| 108 | 264 | Girl |
+| 107 | 264 | Girl |
+| 108 | 264 | Epic Curvetile |
 | 109 | 262 | Monica Daley |
 | 110 | 258 | Brittney Orengo |
 | 111 | 257 | Holly Jolly |
@@ -136,8 +136,8 @@
 | 128 | 217 | loulou |
 | 129 | 217 | Chaz Duncan |
 | 130 | 215 | Jessica Bohlken |
-| 131 | 212 | Mike Solo |
-| 132 | 212 | Calvin Cannon |
+| 131 | 212 | Calvin Cannon |
+| 132 | 212 | Mike Solo |
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |
@@ -160,8 +160,8 @@
 | 152 | 188 | Andria Lynn |
 | 153 | 187 | TheNeesh50 |
 | 154 | 186 | Holly |
-| 155 | 185 | Andy Cabral |
-| 156 | 185 | Lori |
+| 155 | 185 | Lori |
+| 156 | 185 | Andy Cabral |
 | 157 | 184 | Ak Jones |
 | 158 | 182 | Matt Summer |
 | 159 | 181 | Carter Jones |
