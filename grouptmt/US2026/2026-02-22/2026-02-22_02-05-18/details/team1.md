@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Tipsy Strikerpiece |
-| 77 | 338 | Stephanie Zahn |
+| 76 | 338 | Stephanie Zahn |
+| 77 | 338 | Tipsy Strikerpiece |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Gracie |
@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Sharon Reynolds |
-| 111 | 263 | Jason Jones |
+| 110 | 263 | Jason Jones |
+| 111 | 263 | Sharon Reynolds |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 257 | june october |
 | 114 | 252 | Dena Kayy |
@@ -153,8 +153,8 @@
 | 145 | 194 | Ash Galvan |
 | 146 | 194 | Tyler Werts |
 | 147 | 193 | Lachelle Dillon |
-| 148 | 192 | Shaykmia |
-| 149 | 192 | Jessica Sheehan |
+| 148 | 192 | Jessica Sheehan |
+| 149 | 192 | Shaykmia |
 | 150 | 191 | Diane Byrd |
 | 151 | 190 | Thorne Shumate |
 | 152 | 190 | Sweetts |
@@ -219,8 +219,8 @@
 | 211 | 141 | Dino |
 | 212 | 139 | Flashy Rotator |
 | 213 | 138 | Mark Smith |
-| 214 | 137 | Marci Sanders |
-| 215 | 137 | Witty Builderfit |
+| 214 | 137 | Witty Builderfit |
+| 215 | 137 | Marci Sanders |
 | 216 | 137 | Cody Gates |
 | 217 | 136 | Breanna Luna |
 | 218 | 136 | Tipsy Riseclear |
@@ -230,7 +230,7 @@
 | 222 | 135 | Guest |
 | 223 | 134 | LD1 |
 | 224 | 133 | Fmp |
-| 225 | 132 | Jessi Sauer |
+| 225 | 132 | Layzietyme |
 | 226 | 132 | Larry Tilton |
 | 227 | 132 | Jessi Sauer |
 | 228 | 131 | Jessie |

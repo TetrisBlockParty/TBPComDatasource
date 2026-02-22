@@ -117,8 +117,8 @@
 | 109 | 428 | Betty Ivy |
 | 110 | 428 | Elissa S-k |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Simpson |
-| 113 | 410 | Stephanie Blkpep Davidson |
+| 112 | 410 | Stephanie Blkpep Davidson |
+| 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
 | 115 | 403 | FuzzyNavel |
 | 116 | 403 | Christine Filson |
@@ -149,8 +149,8 @@
 | 141 | 347 | Nicole Flippo |
 | 142 | 347 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
-| 144 | 328 | Dapper Snap |
-| 145 | 328 | Aaron Pitkin |
+| 144 | 328 | Aaron Pitkin |
+| 145 | 328 | Dapper Snap |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -199,8 +199,8 @@
 | 191 | 245 | Latoya Mayne |
 | 192 | 245 | Annie Marie |
 | 193 | 243 | Rochelle Hazelett |
-| 194 | 240 | Jimmie Clemons |
-| 195 | 240 | Brandon Givens |
+| 194 | 240 | Brandon Givens |
+| 195 | 240 | Jimmie Clemons |
 | 196 | 238 | Araceli Parra |
 | 197 | 237 | Eon Harris |
 | 198 | 236 | Jess Bissett |
@@ -214,8 +214,8 @@
 | 206 | 224 | Nicole Myers |
 | 207 | 223 | Jeana Gilbert |
 | 208 | 221 | Jaime Monhaut-Reed |
-| 209 | 219 | Sissy Lowery Davis |
-| 210 | 219 | Shunta Jacobs |
+| 209 | 219 | Shunta Jacobs |
+| 210 | 219 | Sissy Lowery Davis |
 | 211 | 219 | Keis |
 | 212 | 218 | LaNette Morgan |
 | 213 | 218 | Michael Lucado |
@@ -223,15 +223,15 @@
 | 215 | 215 | IamJust Neyamijah Washington Sr. |
 | 216 | 214 | Amy Fuller Heaton |
 | 217 | 212 | Twisty Brick LT |
-| 218 | 211 | Khaleada McGill Banks |
-| 219 | 211 | Giddy Twistbuilder |
+| 218 | 211 | Giddy Twistbuilder |
+| 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
 | 222 | 207 | Chris Bell |
 | 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
-| 225 | 204 | Aerian Preston |
-| 226 | 204 | Danielle Allison |
+| 225 | 204 | Danielle Allison |
+| 226 | 204 | Aerian Preston |
 | 227 | 204 | Sunny Rotater |
 | 228 | 201 | Karon Griffin |
 | 229 | 200 | Sharisse Baltimore |
@@ -251,8 +251,8 @@
 | 243 | 189 | Katie Leigh Blankenship |
 | 244 | 188 | JerseyJess |
 | 245 | 185 | AlsoJess |
-| 246 | 184 | France Vézina |
-| 247 | 184 | Troy |
+| 246 | 184 | Troy |
+| 247 | 184 | France Vézina |
 | 248 | 181 | Nicholas Roddy |
 | 249 | 180 | Ryan Williams |
 | 250 | 180 | Loopy Fallmatch |
@@ -351,8 +351,8 @@
 | 343 | 130 | TotoCherue |
 | 344 | 130 | El Chapa |
 | 345 | 130 | Chummy Caster |
-| 346 | 129 | Danielle Weikel |
-| 347 | 129 | luluraine |
+| 346 | 129 | luluraine |
+| 347 | 129 | Danielle Weikel |
 | 348 | 129 | Juliana Dottore |
 | 349 | 128 | Linda Draper |
 | 350 | 128 | Josh Borquez |

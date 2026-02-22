@@ -232,8 +232,8 @@
 | 224 | 671 | Pacynthia Williams |
 | 225 | 666 | Speedy Spinblock |
 | 226 | 666 | Charvi' Carter |
-| 227 | 661 | Claire Noland |
-| 228 | 661 | Kristin Gower |
+| 227 | 661 | Kristin Gower |
+| 228 | 661 | Claire Noland |
 | 229 | 660 | Bussyiano Page |
 | 230 | 659 | Roseanna Peloso |
 | 231 | 659 | Poldo Ilano |
@@ -676,8 +676,8 @@
 | 668 | 259 | Man of Steel |
 | 669 | 259 | Sarah Sims |
 | 670 | 258 | Tee Jaleesa |
-| 671 | 258 | Mordoks Pyrography |
-| 672 | 258 | Shylee Tilman |
+| 671 | 258 | Shylee Tilman |
+| 672 | 258 | Mordoks Pyrography |
 | 673 | 258 | Ocean-Brianna McGregor |
 | 674 | 257 | Mary Boss |
 | 675 | 257 | Luke Califf |
@@ -751,8 +751,8 @@
 | 743 | 233 | Jessica Sutter |
 | 744 | 233 | Epic Spinfit |
 | 745 | 233 | Myleaha Holley |
-| 746 | 233 | Allison Hewitt |
-| 747 | 233 | Jumpy Gridclear |
+| 746 | 233 | Jumpy Gridclear |
+| 747 | 233 | Allison Hewitt |
 | 748 | 232 | Zappy Dropmatch |
 | 749 | 231 | Matthew Joseph Acevedo |
 | 750 | 231 | BK Queen |
