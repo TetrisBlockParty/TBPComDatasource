@@ -126,8 +126,8 @@
 | 118 | 240 | Leah Kutz Zirbel |
 | 119 | 239 | Kristin Manee |
 | 120 | 237 | Peachy Fall |
-| 121 | 235 | Lucas J Sutton |
-| 122 | 235 | Scott Jameson |
+| 121 | 235 | Scott Jameson |
+| 122 | 235 | Lucas J Sutton |
 | 123 | 232 | Crystal Nicolette Moore |
 | 124 | 231 | Chastity Mitchell |
 | 125 | 230 | Autum Leigh |
@@ -189,8 +189,8 @@
 | 181 | 160 | ZeeZee |
 | 182 | 160 | Carlos Ramirez |
 | 183 | 159 | Marcus Todd |
-| 184 | 158 | Chair |
-| 185 | 158 | Avy Absol |
+| 184 | 158 | Avy Absol |
+| 185 | 158 | Chair |
 | 186 | 155 | AyeKay |
 | 187 | 154 | Laura Hosford |
 | 188 | 154 | scott |

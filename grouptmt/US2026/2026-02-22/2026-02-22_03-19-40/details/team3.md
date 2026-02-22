@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Kay |
-| 43 | 989 | Joey Banks |
+| 42 | 989 | Joey Banks |
+| 43 | 989 | Kay |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -83,8 +83,8 @@
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
 | 77 | 582 | Natasha Jones |
-| 78 | 582 | Jay Horn |
-| 79 | 582 | Speedy Bridger |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Jay Horn |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -121,8 +121,8 @@
 | 113 | 428 | Betty Ivy |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Simpson |
-| 117 | 410 | Stephanie Blkpep Davidson |
+| 116 | 410 | Stephanie Blkpep Davidson |
+| 117 | 410 | Stephanie Simpson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 403 | Scott Lindsay |
@@ -132,8 +132,8 @@
 | 124 | 399 | Mcathen |
 | 125 | 399 | ren |
 | 126 | 397 | Annie Déè |
-| 127 | 392 | Katie Knaus |
-| 128 | 392 | Tasha Gillespie |
+| 127 | 392 | Tasha Gillespie |
+| 128 | 392 | Katie Knaus |
 | 129 | 391 | Calista Jo Dickson |
 | 130 | 390 | Hasty Cascadefit |
 | 131 | 380 | Karon Griffin |
@@ -301,9 +301,9 @@
 | 293 | 163 | Diana Ibarra |
 | 294 | 162 | Valerie Gendron |
 | 295 | 162 | Stephanie Whitefield |
-| 296 | 162 | Valerie Gendron |
-| 297 | 161 | Michael Johnson |
-| 298 | 161 | Bouncy Blockbuilder |
+| 296 | 162 | Loopy Fallzone |
+| 297 | 161 | Bouncy Blockbuilder |
+| 298 | 161 | Michael Johnson |
 | 299 | 160 | Rachel |
 | 300 | 159 | Joshua David Huie |
 | 301 | 159 | Jone |

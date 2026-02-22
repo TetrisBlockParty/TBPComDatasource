@@ -139,8 +139,8 @@
 | 131 | 1051 | Shandrica Lowe |
 | 132 | 1048 | PsychKIRAtrist |
 | 133 | 1047 | Amy Sayers |
-| 134 | 1043 | Suki Kaur |
-| 135 | 1043 | Brave Dropmatch |
+| 134 | 1043 | Brave Dropmatch |
+| 135 | 1043 | Suki Kaur |
 | 136 | 1032 | Sarah Freitas |
 | 137 | 1020 | Heather Westrum |
 | 138 | 1018 | LordZophar |
@@ -347,8 +347,8 @@
 | 339 | 492 | Armonie Smith |
 | 340 | 491 | Michael Buckner |
 | 341 | 489 | Osun Anuket Esu |
-| 342 | 488 | Andrew Willis |
-| 343 | 488 | Venita Ray |
+| 342 | 488 | Venita Ray |
+| 343 | 488 | Andrew Willis |
 | 344 | 487 | MrsCandyfine As Wine Truss |
 | 345 | 483 | Alezandra Smith |
 | 346 | 483 | Victor Obiakarije |
@@ -439,8 +439,8 @@
 | 431 | 402 | SwampRebel |
 | 432 | 402 | Michelle Fields |
 | 433 | 401 | Lee Harper |
-| 434 | 401 | Taylor Flowers |
-| 435 | 401 | De Hawkins |
+| 434 | 401 | De Hawkins |
+| 435 | 401 | Taylor Flowers |
 | 436 | 400 | Tammy Allen |
 | 437 | 400 | Victoria Regina Girolami |
 | 438 | 399 | Goofy Dasher |
@@ -593,9 +593,9 @@
 | 585 | 311 | Diallo Sparkman |
 | 586 | 311 | Johanna Massaro |
 | 587 | 311 | Mary Marie |
-| 588 | 310 | Wendy Ducheney |
+| 588 | 310 | Cheeky Brickmatch |
 | 589 | 310 | Lonne Emade |
-| 590 | 310 | Cheeky Brickmatch |
+| 590 | 310 | Wendy Ducheney |
 | 591 | 310 | Sharon Mills |
 | 592 | 310 | Audra Williams |
 | 593 | 309 | Candy Pitts |
@@ -682,17 +682,17 @@
 | 674 | 270 | Santana Miyagi |
 | 675 | 270 | Tim Dyer |
 | 676 | 269 | Steve Man |
-| 677 | 269 | Dandy Combo |
-| 678 | 269 | Reece Smith |
+| 677 | 269 | Reece Smith |
+| 678 | 269 | Dandy Combo |
 | 679 | 268 | Kelly |
 | 680 | 268 | Danielle Ayoub |
 | 681 | 266 | Man of Steel |
 | 682 | 266 | Jason Garnatz |
 | 683 | 265 | LeVeL27 |
 | 684 | 265 | Sandra Link-Gable |
-| 685 | 263 | Lazy Riseclear |
-| 686 | 263 | Alyssia Tancredi |
-| 687 | 263 | Elizabeth Leinen |
+| 685 | 263 | Elizabeth Leinen |
+| 686 | 263 | Lazy Riseclear |
+| 687 | 263 | Alyssia Tancredi |
 | 688 | 263 | Sara Pennington |
 | 689 | 263 | Alishac Marie |
 | 690 | 262 | Sarah block |
