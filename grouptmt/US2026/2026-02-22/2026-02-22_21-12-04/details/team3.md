@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Louise Stacy Sisson |
-| 132 | 562 | Dave Herzog |
+| 131 | 562 | Dave Herzog |
+| 132 | 562 | Louise Stacy Sisson |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -163,11 +163,11 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Adrian Marcel Pate |
-| 162 | 469 | Melissa Orth Hunter |
+| 161 | 469 | Melissa Orth Hunter |
+| 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Tasha Gillespie |
 | 165 | 464 | Michelle |
@@ -184,12 +184,12 @@
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
 | 178 | 438 | Araceli Parra |
-| 179 | 432 | Jenny Hrndz |
+| 179 | 432 | Christine Trester |
 | 180 | 432 | Luciana Braganca Vieira |
-| 181 | 432 | Christine Trester |
+| 181 | 432 | Jenny Hrndz |
 | 182 | 431 | Sarah Cowan Burgos |
-| 183 | 430 | Joye Sims Binion |
-| 184 | 430 | Jeni Dow |
+| 183 | 430 | Jeni Dow |
+| 184 | 430 | Joye Sims Binion |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
 | 187 | 422 | Fallorina Susana |
@@ -218,7 +218,7 @@
 | 210 | 372 | Rich LeBlanc |
 | 211 | 369 | Sarah Moyer |
 | 212 | 368 | Stephanie Woods |
-| 213 | 367 | RickyG |
+| 213 | 367 | Marci Mize Fandrich |
 | 214 | 367 | Loopy Fallmatch |
 | 215 | 367 | RickyG |
 | 216 | 365 | Tiffany Ford |

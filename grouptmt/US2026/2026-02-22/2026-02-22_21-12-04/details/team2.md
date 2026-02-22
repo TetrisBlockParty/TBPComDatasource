@@ -173,15 +173,15 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Ambyre Patterson |
-| 169 | 1232 | Groovy Puzzle |
+| 168 | 1232 | Groovy Puzzle |
+| 169 | 1232 | Ambyre Patterson |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
 | 173 | 1211 | Lucky Ladybug |
 | 174 | 1207 | David Cudicio-Hayden |
-| 175 | 1192 | Ashley House |
-| 176 | 1192 | Denisha Dawkins |
+| 175 | 1192 | Denisha Dawkins |
+| 176 | 1192 | Ashley House |
 | 177 | 1177 | Joyce Johnson Vaughn |
 | 178 | 1174 | Jennifer Casey-Kay |
 | 179 | 1174 | Poppy Snap |
@@ -328,8 +328,8 @@
 | 320 | 777 | Samantha Jo |
 | 321 | 774 | Ashley Dow |
 | 322 | 774 | Ginnell Browner |
-| 323 | 773 | Diana Fitzwater |
-| 324 | 773 | Heather Schelkopf |
+| 323 | 773 | Heather Schelkopf |
+| 324 | 773 | Diana Fitzwater |
 | 325 | 770 | Danielle Simmons |
 | 326 | 768 | Michele Morgan |
 | 327 | 767 | Ashley Lopez |
@@ -431,13 +431,13 @@
 | 423 | 616 | Jackie Avila |
 | 424 | 615 | Julio A Laracuente |
 | 425 | 614 | Emilee Burke |
-| 426 | 613 | Caitlyn Blackwell |
-| 427 | 613 | Tonya Lee |
+| 426 | 613 | Tonya Lee |
+| 427 | 613 | Caitlyn Blackwell |
 | 428 | 613 | Lylymom |
 | 429 | 605 | Biggest thing |
 | 430 | 603 | Casper The Chonk |
-| 431 | 602 | Shaun Church |
-| 432 | 602 | KhaosLord |
+| 431 | 602 | KhaosLord |
+| 432 | 602 | Shaun Church |
 | 433 | 601 | Moua Ying |
 | 434 | 601 | Slinky Racker |
 | 435 | 600 | Véronique Lévesque Sabourin |
@@ -802,8 +802,8 @@
 | 794 | 354 | Rachel Kaminski |
 | 795 | 354 | Rickey Johnson |
 | 796 | 352 | apokolypse |
-| 797 | 352 | Jean FU Jagielski |
-| 798 | 352 | Mary Boss |
+| 797 | 352 | Mary Boss |
+| 798 | 352 | Jean FU Jagielski |
 | 799 | 351 | NickyBrooks |
 | 800 | 351 | Christina Walker |
 | 801 | 351 | Twisty Tetriblast |

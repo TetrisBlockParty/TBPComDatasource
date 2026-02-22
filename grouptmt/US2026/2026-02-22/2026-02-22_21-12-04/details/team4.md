@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
@@ -145,8 +145,8 @@
 | 137 | 353 | Tyler Terrific |
 | 138 | 350 | Angela Srubar-Norman |
 | 139 | 344 | Lush Linkfall |
-| 140 | 343 | Latisha Davis |
-| 141 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | ThaEviLJeNiuZ |
+| 141 | 343 | Latisha Davis |
 | 142 | 339 | David Lay |
 | 143 | 336 | Jessica Bohlken |
 | 144 | 334 | Guy Incognito |
@@ -197,12 +197,12 @@
 | 189 | 267 | Casey Grabner |
 | 190 | 267 | Kathy Brookins |
 | 191 | 267 | Holly |
-| 192 | 266 | Chris Bernstein |
-| 193 | 266 | Laura |
+| 192 | 266 | Laura |
+| 193 | 266 | Chris Bernstein |
 | 194 | 265 | J-Rizzle |
 | 195 | 264 | Epic Curvetile |
-| 196 | 262 | Holly Jolly |
-| 197 | 262 | Joeliecea Cobb |
+| 196 | 262 | Joeliecea Cobb |
+| 197 | 262 | Holly Jolly |
 | 198 | 261 | scott |
 | 199 | 260 | Sue Joyce Staats |
 | 200 | 259 | Melvin Baird |
@@ -374,7 +374,7 @@
 | 366 | 145 | Glitzy Crasher |
 | 367 | 145 | Sallie Sanborn |
 | 368 | 145 | Sandra Safford |
-| 369 | 145 | Glitzy Crasher |
+| 369 | 145 | Jackie Clark |
 | 370 | 144 | Squeezy Pearsall |
 | 371 | 143 | Groovy Gridlock |
 | 372 | 143 | Asher |
@@ -594,7 +594,7 @@
 | 586 | 90 | Laurie McGregor |
 | 587 | 89 | Shiny Fit |
 | 588 | 89 | Kayley Kara Gaudin |
-| 589 | 89 | Shiny Fit |
+| 589 | 89 | Rampai |
 | 590 | 89 | Lauren R. Walls |
 | 591 | 89 | Rebecca A Rit |
 | 592 | 88 | Nicole Silvers |
