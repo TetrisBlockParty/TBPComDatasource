@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 784 | Nerdy Riseclear |
@@ -277,8 +277,8 @@
 | 269 | 278 | Sabrina Hardrick |
 | 270 | 278 | LaShey Thompson |
 | 271 | 277 | Tracy Martin |
-| 272 | 276 | _melisa223_ |
-| 273 | 276 | Crimson |
+| 272 | 276 | Crimson |
+| 273 | 276 | _melisa223_ |
 | 274 | 275 | Cassandra Bryant |
 | 275 | 273 | Troy |
 | 276 | 272 | fraulila |
@@ -408,9 +408,9 @@
 | 400 | 191 | Maia |
 | 401 | 191 | Becca Engle |
 | 402 | 190 | Juliana Dottore |
-| 403 | 189 | Deseree Ewing |
-| 404 | 189 | Katheline Lazo Luizaga |
-| 405 | 189 | Katie Leigh Blankenship |
+| 403 | 189 | Katheline Lazo Luizaga |
+| 404 | 189 | Katie Leigh Blankenship |
+| 405 | 189 | Deseree Ewing |
 | 406 | 188 | Crystal Hine |
 | 407 | 186 | Sameerah Smith |
 | 408 | 186 | Noettín Kan Zasnemoore |
@@ -420,8 +420,8 @@
 | 412 | 182 | gremicx |
 | 413 | 182 | Joy Petroski |
 | 414 | 181 | Fancy Curver |
-| 415 | 180 | Beth Ingham |
-| 416 | 180 | Sarah Whalen |
+| 415 | 180 | Sarah Whalen |
+| 416 | 180 | Beth Ingham |
 | 417 | 180 | Ava Petito |
 | 418 | 179 | Betty Bóò |
 | 419 | 179 | Skinny Baldez |
@@ -536,8 +536,8 @@
 | 528 | 148 | neci |
 | 529 | 147 | Carrie Resler |
 | 530 | 147 | Heather Bateman |
-| 531 | 147 | Carrie Resler |
-| 532 | 146 | lady lua |
+| 531 | 147 | Megan Rathmanner |
+| 532 | 146 | Sara Dunn |
 | 533 | 146 | Amanda Declue |
 | 534 | 146 | lady lua |
 | 535 | 145 | Christine Vosburgh |

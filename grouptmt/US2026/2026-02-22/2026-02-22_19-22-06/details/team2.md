@@ -311,8 +311,8 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Tesha Oldaker |
-| 307 | 777 | Jessicah Myers |
+| 306 | 777 | Jessicah Myers |
+| 307 | 777 | Tesha Oldaker |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
@@ -517,8 +517,8 @@
 | 509 | 496 | Erika Densmore |
 | 510 | 495 | Bubbly Snapbuild |
 | 511 | 494 | Venita Ray |
-| 512 | 493 | Sarah DeHart |
-| 513 | 493 | Sue Leard |
+| 512 | 493 | Sue Leard |
+| 513 | 493 | Sarah DeHart |
 | 514 | 492 | Breezy Clusterer |
 | 515 | 492 | Maya June |
 | 516 | 492 | Armonie Smith |

@@ -54,8 +54,8 @@
 | 46 | 779 | Andrea Dañielle Ortiz |
 | 47 | 777 | Patrick Luckenbill |
 | 48 | 770 | Zappy Curvetile |
-| 49 | 760 | Kristen Roles Robben |
-| 50 | 760 | Lawrence Belanger |
+| 49 | 760 | Lawrence Belanger |
+| 50 | 760 | Kristen Roles Robben |
 | 51 | 749 | Jacqueline Williams |
 | 52 | 746 | Stef Hu |
 | 53 | 734 | Michelle Nicole |
@@ -86,8 +86,8 @@
 | 78 | 489 | Deanna L Hermanson |
 | 79 | 486 | Tater |
 | 80 | 485 | Cartier |
-| 81 | 483 | MomMom |
-| 82 | 483 | Ryan Lunnin |
+| 81 | 483 | Ryan Lunnin |
+| 82 | 483 | MomMom |
 | 83 | 480 | Nancy Green |
 | 84 | 472 | April Carroll |
 | 85 | 471 | Jennifer ManWarren |
@@ -126,8 +126,8 @@
 | 118 | 370 | Jason Jones |
 | 119 | 370 | Dandy Basegrid |
 | 120 | 367 | Ly Phethmany |
-| 121 | 366 | Ty Brown |
-| 122 | 366 | David Miller |
+| 121 | 366 | David Miller |
+| 122 | 366 | Ty Brown |
 | 123 | 364 | Shauna Loe |
 | 124 | 362 | Plucky Ziggy |
 | 125 | 360 | phrmblk24 |

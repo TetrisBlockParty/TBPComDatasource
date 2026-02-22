@@ -45,8 +45,8 @@
 | 37 | 908 | Misty Hollibaugh |
 | 38 | 886 | Dustin Robert |
 | 39 | 871 | Denny Shives |
-| 40 | 846 | Lucille Truesdale |
-| 41 | 846 | Christine Marie |
+| 40 | 846 | Christine Marie |
+| 41 | 846 | Lucille Truesdale |
 | 42 | 843 | Jae Job |
 | 43 | 843 | Shelly Chandler |
 | 44 | 836 | LisaJo Picken Buchanan |
@@ -154,13 +154,13 @@
 | 146 | 316 | Meagan Nicole |
 | 147 | 314 | Andy Cabral |
 | 148 | 308 | Jeff Brian Gates |
-| 149 | 307 | Angela Srubar-Norman |
-| 150 | 307 | Bio Nelly |
-| 151 | 300 | Dana Scott |
-| 152 | 300 | Jason Hart |
+| 149 | 307 | Bio Nelly |
+| 150 | 307 | Angela Srubar-Norman |
+| 151 | 300 | Jason Hart |
+| 152 | 300 | Dana Scott |
 | 153 | 299 | TRCuse |
-| 154 | 294 | Calvin Cannon |
-| 155 | 294 | Kesha Brady |
+| 154 | 294 | Kesha Brady |
+| 155 | 294 | Calvin Cannon |
 | 156 | 292 | Cursed Hag |
 | 157 | 292 | Rafael Valentin |
 | 158 | 291 | shark tato |
