@@ -77,8 +77,8 @@
 | 69 | 501 | H.R. Block |
 | 70 | 500 | Rodney McMath Jr. |
 | 71 | 486 | Landon Keith Graffeo |
-| 72 | 483 | TeeJ |
-| 73 | 483 | Carmethia Clemons Haslerig |
+| 72 | 483 | Carmethia Clemons Haslerig |
+| 73 | 483 | TeeJ |
 | 74 | 467 | Dawn Alexander |
 | 75 | 447 | Samantha Peterson |
 | 76 | 440 | Kristin Manee |
@@ -125,8 +125,8 @@
 | 117 | 290 | 🥔🥔 Spudz |
 | 118 | 288 | Leslie Nicole |
 | 119 | 287 | Shannon Ferrari |
-| 120 | 286 | shark tato |
-| 121 | 286 | Daria Rycewicz |
+| 120 | 286 | Daria Rycewicz |
+| 121 | 286 | shark tato |
 | 122 | 281 | Meagan Nicole |
 | 123 | 278 | Desi Desporte |
 | 124 | 278 | Carrie Brian |
@@ -151,9 +151,9 @@
 | 143 | 230 | Cursed Hag |
 | 144 | 230 | Autum Leigh |
 | 145 | 228 | J-Rizzle |
-| 146 | 227 | Swanky Fitline |
-| 147 | 227 | Alyssa Papen |
-| 148 | 227 | Chris Bernstein |
+| 146 | 227 | Chris Bernstein |
+| 147 | 227 | Swanky Fitline |
+| 148 | 227 | Alyssa Papen |
 | 149 | 225 | Damn Libra |
 | 150 | 224 | Matt Summer |
 | 151 | 223 | Antony Dwayne Beasley |
@@ -168,8 +168,8 @@
 | 160 | 215 | Jessica Bohlken |
 | 161 | 215 | Ren Mc |
 | 162 | 214 | Twisty Cascadezone |
-| 163 | 213 | Jason Allen |
-| 164 | 213 | Sarah Neathery |
+| 163 | 213 | Sarah Neathery |
+| 164 | 213 | Jason Allen |
 | 165 | 212 | Mike Solo |
 | 166 | 212 | Calvin Cannon |
 | 167 | 211 | Jenna McGeorge |
@@ -306,9 +306,9 @@
 | 298 | 120 | Porkobello |
 | 299 | 120 | Rebecca Morris |
 | 300 | 119 | Gwendolyn Pitcairn |
-| 301 | 119 | Circuit8 |
-| 302 | 119 | River Shady Sr. |
-| 303 | 119 | rebel4lyfe |
+| 301 | 119 | rebel4lyfe |
+| 302 | 119 | Circuit8 |
+| 303 | 119 | River Shady Sr. |
 | 304 | 118 | Christina Black |
 | 305 | 117 | BigSammy420 |
 | 306 | 117 | PennyCandee |

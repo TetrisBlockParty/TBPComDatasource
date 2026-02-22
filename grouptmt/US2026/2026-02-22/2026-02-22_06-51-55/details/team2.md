@@ -311,8 +311,8 @@
 | 303 | 640 | BYM4L |
 | 304 | 639 | Crystie Hicks |
 | 305 | 639 | Rebecca Miller |
-| 306 | 635 | Diana Fitzwater |
-| 307 | 635 | William Hunt |
+| 306 | 635 | William Hunt |
+| 307 | 635 | Diana Fitzwater |
 | 308 | 631 | Marie Walker |
 | 309 | 629 | Sleepypanda67 |
 | 310 | 627 | Victoria Moore-Smith |
@@ -498,8 +498,8 @@
 | 490 | 414 | Sabrina Burton |
 | 491 | 414 | John |
 | 492 | 413 | Juanita Lyons |
-| 493 | 413 | Biggest thing |
-| 494 | 413 | Lauren Fitzgerald Thomas |
+| 493 | 413 | Lauren Fitzgerald Thomas |
+| 494 | 413 | Biggest thing |
 | 495 | 411 | Kristen O'Neal |
 | 496 | 410 | Nicole Cannon |
 | 497 | 408 | Abimbola Bimbo |
@@ -710,10 +710,10 @@
 | 702 | 304 | NFLPITMOM |
 | 703 | 304 | Isaac Trappiel IV |
 | 704 | 303 | Amanda Schaffer |
-| 705 | 303 | Devin |
-| 706 | 303 | Peachy Blockbuilder |
-| 707 | 303 | Angie Marie |
-| 708 | 303 | Ashlyn Berner |
+| 705 | 303 | Peachy Blockbuilder |
+| 706 | 303 | Devin |
+| 707 | 303 | Ashlyn Berner |
+| 708 | 303 | Angie Marie |
 | 709 | 302 | Kena T. Tanner |
 | 710 | 302 | Maxwell Escalera |
 | 711 | 300 | LaWanda Powell |
@@ -755,8 +755,8 @@
 | 747 | 284 | Hillary Franklin |
 | 748 | 283 | Tash Bell |
 | 749 | 282 | Nutty Slice |
-| 750 | 280 | Danielle DeLozier Plesec |
-| 751 | 280 | Reece Smith |
+| 750 | 280 | Reece Smith |
+| 751 | 280 | Danielle DeLozier Plesec |
 | 752 | 280 | Belle |
 | 753 | 279 | Loony Basepiece |
 | 754 | 278 | AndrewandShela Gornik |

@@ -275,10 +275,10 @@
 | 267 | 216 | Cheryl Hinch Tenbrook |
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
 | 269 | 214 | Angela Scott |
-| 270 | 214 | Rebel124 |
-| 271 | 214 | Amy Fuller Heaton |
-| 272 | 212 | Twisty Brick LT |
-| 273 | 212 | Desiree Gold |
+| 270 | 214 | Amy Fuller Heaton |
+| 271 | 214 | Rebel124 |
+| 272 | 212 | Desiree Gold |
+| 273 | 212 | Twisty Brick LT |
 | 274 | 212 | Sunny Rotater |
 | 275 | 211 | El Chapa |
 | 276 | 211 | Khaleada McGill Banks |
@@ -527,7 +527,7 @@
 | 519 | 104 | Jana Fagg |
 | 520 | 104 | Johnathan Dowe |
 | 521 | 103 | Snappy Balancer |
-| 522 | 103 | Lisa Lisa |
+| 522 | 103 | Breanna Marsden |
 | 523 | 103 | Heather Bateman |
 | 524 | 103 | Lisa Lisa |
 | 525 | 102 | Me,Him,Yu |
