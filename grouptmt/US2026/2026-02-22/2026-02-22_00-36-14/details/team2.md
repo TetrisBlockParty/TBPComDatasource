@@ -378,8 +378,8 @@
 | 370 | 411 | Kristen O'Neal |
 | 371 | 411 | Ricky Fortune |
 | 372 | 406 | Erin StFrancis |
-| 373 | 406 | Tj Ball |
-| 374 | 406 | Julie Kresal |
+| 373 | 406 | Julie Kresal |
+| 374 | 406 | Tj Ball |
 | 375 | 405 | Christy Krissie |
 | 376 | 403 | Tonya Lee |
 | 377 | 403 | Snippy Rumbler |
@@ -419,8 +419,8 @@
 | 411 | 378 | Christina Ashley |
 | 412 | 376 | Darlene Bowman |
 | 413 | 374 | Gloria Ininahazwe |
-| 414 | 371 | Brenda Messer |
-| 415 | 371 | AkaLefty |
+| 414 | 371 | AkaLefty |
+| 415 | 371 | Brenda Messer |
 | 416 | 371 | Wuntayk |
 | 417 | 371 | Jaycee |
 | 418 | 370 | Angela Lynn |

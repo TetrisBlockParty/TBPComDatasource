@@ -65,8 +65,8 @@
 | 57 | 696 | Judi Dobson |
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
-| 60 | 621 | Ebony West-Cundiff |
-| 61 | 621 | Cherry Parker |
+| 60 | 621 | Cherry Parker |
+| 61 | 621 | Ebony West-Cundiff |
 | 62 | 620 | Elaine Webb Graves |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
@@ -105,8 +105,8 @@
 | 97 | 458 | Domo Washington |
 | 98 | 447 | Mykal Burton |
 | 99 | 446 | Danielle Rhoades |
-| 100 | 445 | Kristie McFarland |
-| 101 | 445 | Silly Twist |
+| 100 | 445 | Silly Twist |
+| 101 | 445 | Kristie McFarland |
 | 102 | 430 | Patricia White |
 | 103 | 428 | Elissa S-k |
 | 104 | 424 | Bea Miles |
@@ -126,10 +126,10 @@
 | 118 | 389 | FuzzyNavel |
 | 119 | 386 | Katie Knaus |
 | 120 | 383 | Jesse Olive |
-| 121 | 378 | Tasha Schriewer |
-| 122 | 378 | Makelini Mausia |
+| 121 | 378 | Makelini Mausia |
+| 122 | 378 | Tasha Schriewer |
 | 123 | 374 | Loopy Clusterer |
-| 124 | 368 | Betty Ivy |
+| 124 | 368 | Stephanie Woods |
 | 125 | 368 | Stephanie Blkpep Davidson |
 | 126 | 368 | Betty Ivy |
 | 127 | 367 | mjl574 |

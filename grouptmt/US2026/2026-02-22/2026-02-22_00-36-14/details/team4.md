@@ -108,12 +108,12 @@
 | 100 | 273 | Carrie Brian |
 | 101 | 271 | Sarah Brown |
 | 102 | 268 | Meagan Nicole |
-| 103 | 264 | Girl |
-| 104 | 264 | Epic Curvetile |
+| 103 | 264 | Epic Curvetile |
+| 104 | 264 | Girl |
 | 105 | 258 | Brittney Orengo |
 | 106 | 257 | Holly Jolly |
 | 107 | 255 | Lindsay Ball |
-| 108 | 230 | Daria Rycewicz |
+| 108 | 230 | Lucas J Sutton |
 | 109 | 230 | Autum Leigh |
 | 110 | 230 | Daria Rycewicz |
 | 111 | 225 | Damn Libra |
@@ -142,8 +142,8 @@
 | 134 | 196 | Jenna McGeorge |
 | 135 | 194 | Zany Twisterfit |
 | 136 | 192 | Shauna Havard |
-| 137 | 189 | Stacey Stano |
-| 138 | 189 | Calvin Dennis |
+| 137 | 189 | Calvin Dennis |
+| 138 | 189 | Stacey Stano |
 | 139 | 187 | TheNeesh50 |
 | 140 | 185 | Andy Cabral |
 | 141 | 185 | Malakai Darien Fox |
@@ -182,8 +182,8 @@
 | 174 | 148 | Mr. Party |
 | 175 | 147 | B Renee Desjardin |
 | 176 | 147 | Jay28 |
-| 177 | 145 | Mimi |
-| 178 | 145 | Zany Shatterer |
+| 177 | 145 | Zany Shatterer |
+| 178 | 145 | Mimi |
 | 179 | 142 | Zippy Gridlock |
 | 180 | 141 | Kathy Allen |
 | 181 | 141 | ĥuf |
