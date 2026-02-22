@@ -259,8 +259,8 @@
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 921 | Glitzy Stackzone |
 | 253 | 920 | Phil J. Grombliniak |
-| 254 | 919 | Joshua Mandel |
-| 255 | 919 | Isaac Trappiel IV |
+| 254 | 919 | Isaac Trappiel IV |
+| 255 | 919 | Joshua Mandel |
 | 256 | 916 | Butta |
 | 257 | 915 | Robin Kerby |
 | 258 | 915 | Kelly Trent |
@@ -621,8 +621,8 @@
 | 613 | 453 | Brandon Jones |
 | 614 | 452 | Samuel Macon |
 | 615 | 452 | Jessica Lamb |
-| 616 | 451 | Michelle Pike |
-| 617 | 451 | Sabrina Burton |
+| 616 | 451 | Sabrina Burton |
+| 617 | 451 | Michelle Pike |
 | 618 | 450 | Rich Sullivan |
 | 619 | 449 | Kristi Biddinger |
 | 620 | 448 | Darlene Bowman |
@@ -635,8 +635,8 @@
 | 627 | 444 | Chab |
 | 628 | 444 | Fi Ne |
 | 629 | 443 | Christina Ashley |
-| 630 | 442 | Juan Castillo |
-| 631 | 442 | Niceday |
+| 630 | 442 | Niceday |
+| 631 | 442 | Juan Castillo |
 | 632 | 442 | Kayla |
 | 633 | 438 | Crystal Heller Gonzalez |
 | 634 | 438 | Lynda Toland |
