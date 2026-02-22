@@ -49,8 +49,8 @@
 | 41 | 1036 | Ant Ant |
 | 42 | 1015 | Amber Jones |
 | 43 | 998 | Liv Whetson |
-| 44 | 989 | Joey Banks |
-| 45 | 989 | Kay |
+| 44 | 989 | Kay |
+| 45 | 989 | Joey Banks |
 | 46 | 985 | Stephanie Rice |
 | 47 | 983 | Brandon Green |
 | 48 | 956 | Gracie |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Amanda L Baker |
-| 57 | 895 | Shonna Roberts |
+| 56 | 895 | Shonna Roberts |
+| 57 | 895 | Amanda L Baker |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -102,8 +102,8 @@
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
 | 96 | 566 | Dolores Falco |
-| 97 | 565 | Patty Allen |
-| 98 | 565 | Rachael McClain Owens |
+| 97 | 565 | Rachael McClain Owens |
+| 98 | 565 | Patty Allen |
 | 99 | 562 | Louise Stacy Sisson |
 | 100 | 559 | Morgan Martinez |
 | 101 | 549 | Nicole Myers |
@@ -194,11 +194,11 @@
 | 186 | 319 | Rebecca Funderburk Kirby |
 | 187 | 317 | Ashley Tookes |
 | 188 | 315 | Kammy Hill |
-| 189 | 311 | Rochelle Hazelett |
-| 190 | 311 | Araceli Parra |
+| 189 | 311 | Araceli Parra |
+| 190 | 311 | Rochelle Hazelett |
 | 191 | 310 | Danielle Balcom |
-| 192 | 308 | Rania Zaqout |
-| 193 | 308 | Daryn Elliott |
+| 192 | 308 | Daryn Elliott |
+| 193 | 308 | Rania Zaqout |
 | 194 | 307 | rnr junky |
 | 195 | 307 | Blocked |
 | 196 | 302 | Rebecca Bailey |
@@ -246,8 +246,8 @@
 | 238 | 256 | KayB |
 | 239 | 251 | Sabrina Hardrick |
 | 240 | 250 | fraulila |
-| 241 | 249 | Raven Dudley |
-| 242 | 249 | Annie Marie |
+| 241 | 249 | Annie Marie |
+| 242 | 249 | Raven Dudley |
 | 243 | 249 | JerseyJess |
 | 244 | 246 | Peppy Shifter |
 | 245 | 246 | Eon Harris |
@@ -274,10 +274,10 @@
 | 266 | 218 | Michael Lucado |
 | 267 | 216 | Cheryl Hinch Tenbrook |
 | 268 | 215 | IamJust Neyamijah Washington Sr. |
-| 269 | 214 | Amy Fuller Heaton |
-| 270 | 214 | Twisty Brick LT |
-| 271 | 214 | Angela Scott |
-| 272 | 214 | Rebel124 |
+| 269 | 214 | Angela Scott |
+| 270 | 214 | Rebel124 |
+| 271 | 214 | Amy Fuller Heaton |
+| 272 | 214 | Twisty Brick LT |
 | 273 | 212 | Desiree Gold |
 | 274 | 212 | Sunny Rotater |
 | 275 | 211 | Velma Mull |
@@ -287,9 +287,9 @@
 | 279 | 208 | AlsoJess |
 | 280 | 207 | Jessica |
 | 281 | 207 | angieelyn |
-| 282 | 206 | Tammy Rosenberry |
+| 282 | 206 | Jone |
 | 283 | 206 | Tracy Martin |
-| 284 | 206 | Jone |
+| 284 | 206 | Tammy Rosenberry |
 | 285 | 204 | Aerian Preston |
 | 286 | 203 | Angie Harper |
 | 287 | 202 | Staci George Fitzsimmons |
@@ -314,11 +314,11 @@
 | 306 | 182 | Melanie Sherwood |
 | 307 | 181 | Nicholas Roddy |
 | 308 | 181 | Denita Mungro |
-| 309 | 180 | Criss |
-| 310 | 180 | Beth Ingham |
-| 311 | 179 | Christian Werndl |
-| 312 | 179 | Rachel Napper |
-| 313 | 179 | DanceLuvLaugh |
+| 309 | 180 | Beth Ingham |
+| 310 | 180 | Criss |
+| 311 | 179 | DanceLuvLaugh |
+| 312 | 179 | Christian Werndl |
+| 313 | 179 | Rachel Napper |
 | 314 | 179 | Tipsy Zonebuilder |
 | 315 | 178 | Wendy Dearden |
 | 316 | 178 | Jess Dearborn |
@@ -335,8 +335,8 @@
 | 327 | 168 | Trice Thomas |
 | 328 | 168 | April Matthew Kibble |
 | 329 | 167 | Shicken Nuggit |
-| 330 | 167 | Romeo |
-| 331 | 167 | Irene Arreguin |
+| 330 | 167 | Irene Arreguin |
+| 331 | 167 | Romeo |
 | 332 | 166 | Noettín Kan Zasnemoore |
 | 333 | 166 | Snarky McFace |
 | 334 | 165 | Kali Kelz Williams |
@@ -367,8 +367,8 @@
 | 359 | 153 | Sheila M Frazier |
 | 360 | 153 | Tony Waters |
 | 361 | 152 | Goofy Fall |
-| 362 | 152 | Eric Caccavale |
-| 363 | 152 | Shiny Zonebuilder |
+| 362 | 152 | Shiny Zonebuilder |
+| 363 | 152 | Eric Caccavale |
 | 364 | 151 | Sarah Cowan Burgos |
 | 365 | 149 | Alexis Taylor |
 | 366 | 148 | Pam Holt Powell |
@@ -383,8 +383,8 @@
 | 375 | 146 | Sara Dunn |
 | 376 | 146 | Wettnippz |
 | 377 | 146 | Sdot |
-| 378 | 144 | Blair Erin Waite |
-| 379 | 144 | Tenisha Semidey |
+| 378 | 144 | Tenisha Semidey |
+| 379 | 144 | Blair Erin Waite |
 | 380 | 142 | Gray Hicks |
 | 381 | 142 | Jl |
 | 382 | 142 | Erica Anderson |
@@ -759,9 +759,9 @@
 | 751 | 74 | Monnie Parra |
 | 752 | 74 | Ann Hammac |
 | 753 | 73 | Speedy Builder |
-| 754 | 73 | Nerdy Wipeout |
-| 755 | 73 | TheNikkiJ |
-| 756 | 73 | Carrie Wheetley |
+| 754 | 73 | Carrie Wheetley |
+| 755 | 73 | Nerdy Wipeout |
+| 756 | 73 | TheNikkiJ |
 | 757 | 73 | Misstery |
 | 758 | 72 | Alicia |
 | 759 | 72 | Spzy |

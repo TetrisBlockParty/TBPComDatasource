@@ -91,8 +91,8 @@
 | 83 | 407 | Erin Thomas |
 | 84 | 405 | Shane Kalamata Platoon |
 | 85 | 404 | Courtney Cicoria |
-| 86 | 396 | Alicia Bass |
-| 87 | 396 | Amy Suckarieh |
+| 86 | 396 | Amy Suckarieh |
+| 87 | 396 | Alicia Bass |
 | 88 | 392 | Ericca Eldridge |
 | 89 | 391 | Ramel Rhodes |
 | 90 | 390 | Carlton Unfiltered |
@@ -171,8 +171,8 @@
 | 163 | 215 | Ren Mc |
 | 164 | 213 | Jason Allen |
 | 165 | 213 | Sarah Neathery |
-| 166 | 212 | Calvin Cannon |
-| 167 | 212 | Mike Solo |
+| 166 | 212 | Mike Solo |
+| 167 | 212 | Calvin Cannon |
 | 168 | 211 | Jenna McGeorge |
 | 169 | 207 | Chirpy Basepiece |
 | 170 | 205 | Kathy Brookins |
@@ -229,8 +229,8 @@
 | 221 | 157 | scott |
 | 222 | 156 | John Brunetti |
 | 223 | 155 | AyeKay |
-| 224 | 153 | Empress Oasis |
-| 225 | 153 | Zany Shatterer |
+| 224 | 153 | Zany Shatterer |
+| 225 | 153 | Empress Oasis |
 | 226 | 153 | Mr. Party |
 | 227 | 152 | Faja |
 | 228 | 152 | Austin Owens |

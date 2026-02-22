@@ -234,7 +234,7 @@
 | 226 | 801 | Debra Williams |
 | 227 | 800 | Danielle Johnson-Chandler |
 | 228 | 787 | Laura McCarthey |
-| 229 | 777 | Barbra Miller |
+| 229 | 777 | Tesha Oldaker |
 | 230 | 777 | Jessicah Myers |
 | 231 | 777 | Barbra Miller |
 | 232 | 777 | Eric Carlson |
@@ -298,8 +298,8 @@
 | 290 | 670 | Kassandra Hunt |
 | 291 | 669 | Charvi' Carter |
 | 292 | 666 | Speedy Spinblock |
-| 293 | 663 | Mandi Douglas Hilt |
-| 294 | 663 | Ashle Scranton |
+| 293 | 663 | Ashle Scranton |
+| 294 | 663 | Mandi Douglas Hilt |
 | 295 | 659 | Roseanna Peloso |
 | 296 | 658 | Erica Williams |
 | 297 | 653 | goofinoff |
@@ -379,12 +379,12 @@
 | 371 | 520 | Angela Lynn |
 | 372 | 520 | AISlop |
 | 373 | 519 | Rob Brown |
-| 374 | 517 | Amber Brion |
+| 374 | 517 | Poppy Snap |
 | 375 | 517 | Porsche' Nicole |
-| 376 | 517 | Poppy Snap |
+| 376 | 517 | Amber Brion |
 | 377 | 516 | Diamond Scott |
-| 378 | 515 | Laquetta Royston |
-| 379 | 515 | Lonne Emade |
+| 378 | 515 | Lonne Emade |
+| 379 | 515 | Laquetta Royston |
 | 380 | 514 | Karen Posadas Centeno |
 | 381 | 511 | Laura Mclean |
 | 382 | 509 | Jordan Kaiser |
@@ -724,8 +724,8 @@
 | 716 | 302 | Maxwell Escalera |
 | 717 | 300 | Alice Ball |
 | 718 | 300 | Kacee Conrad Bock |
-| 719 | 299 | Danielle Ayoub |
-| 720 | 299 | Cassie Newton |
+| 719 | 299 | Cassie Newton |
+| 720 | 299 | Danielle Ayoub |
 | 721 | 298 | Frilly Fallzone |
 | 722 | 298 | Lazy Riseclear |
 | 723 | 298 | RetroLemur |
@@ -736,8 +736,8 @@
 | 728 | 297 | Ashley Robbins |
 | 729 | 296 | Jennifer Darby |
 | 730 | 296 | Frisky Riserbuilder |
-| 731 | 296 | Amber Gray |
-| 732 | 296 | Zappy Dropmatch |
+| 731 | 296 | Zappy Dropmatch |
+| 732 | 296 | Amber Gray |
 | 733 | 295 | Noel Tarmy |
 | 734 | 294 | Epic Fitzone |
 | 735 | 294 | Hyper Riseclear |
@@ -773,8 +773,8 @@
 | 765 | 276 | Patrick Bartlett |
 | 766 | 276 | Lindsey Leigh |
 | 767 | 275 | Alishac Marie |
-| 768 | 275 | Tammy Mitchell |
-| 769 | 275 | LeVeL27 |
+| 768 | 275 | LeVeL27 |
+| 769 | 275 | Tammy Mitchell |
 | 770 | 275 | Alyssia Tancredi |
 | 771 | 275 | Crystal Elam |
 | 772 | 274 | KT Macadocious |
@@ -989,8 +989,8 @@
 | 981 | 214 | Dane Reing |
 | 982 | 214 | Perk Diggler |
 | 983 | 214 | Daring Lift |
-| 984 | 214 | Michele Phelps |
-| 985 | 214 | Happy Puzzle |
+| 984 | 214 | Happy Puzzle |
+| 985 | 214 | Michele Phelps |
 | 986 | 214 | Luciano Andre Versace Grismondie |
 | 987 | 213 | Cynthia Knox |
 | 988 | 213 | Janai Vrabel |
