@@ -100,8 +100,8 @@
 | 92 | 539 | Chris Baggett |
 | 93 | 523 | Samantha Peterson |
 | 94 | 519 | Nugget |
-| 95 | 513 | YoMomma |
-| 96 | 513 | Erin Thomas |
+| 95 | 513 | Erin Thomas |
+| 96 | 513 | YoMomma |
 | 97 | 512 | Casey Jeffcoat |
 | 98 | 511 | Zippy Gridlock |
 | 99 | 509 | Diana Houts |
@@ -170,9 +170,9 @@
 | 162 | 307 | TRCuse |
 | 163 | 307 | Bio Nelly |
 | 164 | 303 | shark tato |
-| 165 | 301 | Crystal Nicolette Moore |
-| 166 | 301 | Damn Libra |
-| 167 | 301 | Andria Lynn |
+| 165 | 301 | Andria Lynn |
+| 166 | 301 | Crystal Nicolette Moore |
+| 167 | 301 | Damn Libra |
 | 168 | 300 | Dana Scott |
 | 169 | 295 | Cursed Hag |
 | 170 | 294 | Calvin Cannon |
@@ -237,8 +237,8 @@
 | 229 | 230 | blockstar |
 | 230 | 230 | Jade Rian |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Jenna McGeorge |
-| 233 | 225 | Perky Patternblock |
+| 232 | 225 | Perky Patternblock |
+| 233 | 225 | Jenna McGeorge |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |

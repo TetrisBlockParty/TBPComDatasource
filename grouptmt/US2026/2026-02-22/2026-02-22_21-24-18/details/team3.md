@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -166,8 +166,8 @@
 | 158 | 471 | Nora Rogers |
 | 159 | 471 | Mendoza Lee Christy |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Adrian Marcel Pate |
-| 162 | 469 | Melissa Orth Hunter |
+| 161 | 469 | Melissa Orth Hunter |
+| 162 | 469 | Adrian Marcel Pate |
 | 163 | 468 | Betty Ivy |
 | 164 | 465 | Tasha Gillespie |
 | 165 | 464 | Michelle |
@@ -343,8 +343,8 @@
 | 335 | 238 | Niki Dalrymple |
 | 336 | 238 | Fancy Curver |
 | 337 | 237 | Jennifer Alvey |
-| 338 | 236 | Lys |
-| 339 | 236 | Jess Bissett |
+| 338 | 236 | Jess Bissett |
+| 339 | 236 | Lys |
 | 340 | 235 | Cheryl Hinch Tenbrook |
 | 341 | 233 | Tony Waters |
 | 342 | 232 | Nicholas Roddy |
@@ -356,12 +356,12 @@
 | 348 | 227 | Rebel124 |
 | 349 | 227 | Meowsa |
 | 350 | 227 | Wettnippz |
-| 351 | 226 | Stephanie Hill |
+| 351 | 226 | Cyd061769 |
 | 352 | 226 | Jana Polk |
-| 353 | 226 | Cyd061769 |
-| 354 | 225 | Michael Latasha Gray |
+| 353 | 226 | Stephanie Hill |
+| 354 | 225 | Jessica Lynn French |
 | 355 | 225 | Dirtgirl27 |
-| 356 | 225 | Jessica Lynn French |
+| 356 | 225 | Michael Latasha Gray |
 | 357 | 221 | Ryan Williams |
 | 358 | 221 | Mariah Williams |
 | 359 | 221 | Vaners |

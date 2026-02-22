@@ -55,8 +55,8 @@
 | 47 | 779 | Andrea Dañielle Ortiz |
 | 48 | 777 | Patrick Luckenbill |
 | 49 | 770 | Zappy Curvetile |
-| 50 | 760 | Kristen Roles Robben |
-| 51 | 760 | Katie Daniels |
+| 50 | 760 | Katie Daniels |
+| 51 | 760 | Kristen Roles Robben |
 | 52 | 749 | Jacqueline Williams |
 | 53 | 746 | Stef Hu |
 | 54 | 743 | TSwag |
@@ -166,7 +166,7 @@
 | 158 | 308 | Sharon Reynolds |
 | 159 | 308 | Jason Savage |
 | 160 | 307 | Sarah Roberts |
-| 161 | 306 | Happy Basegrid |
+| 161 | 306 | Bloknboy |
 | 162 | 306 | Jessi Sauer |
 | 163 | 306 | Happy Basegrid |
 | 164 | 305 | Emily Adelaide Wheatley |
