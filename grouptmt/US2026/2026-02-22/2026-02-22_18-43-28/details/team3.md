@@ -273,8 +273,8 @@
 | 265 | 278 | LaShey Thompson |
 | 266 | 277 | Tracy Martin |
 | 267 | 276 | Crimson |
-| 268 | 276 | Connie Mohler-Fair |
-| 269 | 276 | _melisa223_ |
+| 268 | 276 | _melisa223_ |
+| 269 | 276 | Connie Mohler-Fair |
 | 270 | 275 | Cassandra Bryant |
 | 271 | 273 | Troy |
 | 272 | 272 | fraulila |
@@ -284,8 +284,8 @@
 | 276 | 271 | Cass Mendoza |
 | 277 | 269 | Micayah Stevens |
 | 278 | 268 | Krystal Gerstberger |
-| 279 | 267 | Tiffany Davie |
-| 280 | 267 | April Matthew Kibble |
+| 279 | 267 | April Matthew Kibble |
+| 280 | 267 | Tiffany Davie |
 | 281 | 266 | Snappy Balancer |
 | 282 | 266 | Quirky Dropzone |
 | 283 | 265 | Nikki Pags |
@@ -365,8 +365,8 @@
 | 357 | 209 | TotoCherue |
 | 358 | 209 | Daring Builder |
 | 359 | 208 | Karent524 |
-| 360 | 207 | angieelyn |
-| 361 | 207 | Kristian Thurman |
+| 360 | 207 | Kristian Thurman |
+| 361 | 207 | angieelyn |
 | 362 | 206 | Tammy Rosenberry |
 | 363 | 205 | Michael Kimbro |
 | 364 | 205 | Rachel Napper |

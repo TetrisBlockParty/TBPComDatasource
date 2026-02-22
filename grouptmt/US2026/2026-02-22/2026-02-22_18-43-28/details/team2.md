@@ -134,8 +134,8 @@
 | 126 | 1439 | Jumpy Gridpiece |
 | 127 | 1435 | Jessie McDougald |
 | 128 | 1418 | L3sli3 |
-| 129 | 1411 | niecy |
-| 130 | 1411 | Zappy Cascade |
+| 129 | 1411 | Zappy Cascade |
+| 130 | 1411 | niecy |
 | 131 | 1384 | Katrina Williams Balmir |
 | 132 | 1383 | Ladyrainbootz |
 | 133 | 1380 | Jose Mendoza |
@@ -155,8 +155,8 @@
 | 147 | 1297 | Maegan Beaule |
 | 148 | 1296 | Kristin Ruest |
 | 149 | 1290 | Bussyiano Page |
-| 150 | 1286 | Eileen Hale |
-| 151 | 1286 | Altamirano Michael |
+| 150 | 1286 | Altamirano Michael |
+| 151 | 1286 | Eileen Hale |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1282 | Tanya Parsons |
 | 154 | 1273 | Cool Rollpiece |
@@ -165,8 +165,8 @@
 | 157 | 1242 | Mischelle Clay |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1216 | Nancy Reid |
 | 163 | 1211 | Lucky Ladybug |
 | 164 | 1203 | Suki Kaur |
@@ -347,8 +347,8 @@
 | 339 | 704 | Shelley Thornburgh Wright |
 | 340 | 703 | Gold Rose |
 | 341 | 700 | Vincent Petrella |
-| 342 | 700 | Rosemadder |
-| 343 | 700 | Beverly Owens |
+| 342 | 700 | Beverly Owens |
+| 343 | 700 | Rosemadder |
 | 344 | 699 | tejas25 |
 | 345 | 697 | Ashle Scranton |
 | 346 | 697 | Dreamy Blast |
@@ -616,8 +616,8 @@
 | 608 | 429 | Angel Hunnewell |
 | 609 | 428 | Shyenn Gadsby |
 | 610 | 428 | Lynda Toland |
-| 611 | 427 | Sabrina Burton |
-| 612 | 427 | Destiny Cozier |
+| 611 | 427 | Destiny Cozier |
+| 612 | 427 | Sabrina Burton |
 | 613 | 426 | De Hawkins |
 | 614 | 426 | Joel Rosado |
 | 615 | 426 | Tom Steffen |
@@ -809,8 +809,8 @@
 | 801 | 328 | BabyBird |
 | 802 | 327 | Amanda Chamberlain |
 | 803 | 327 | Polly Pritchard Chesler |
-| 804 | 326 | Jennifer Mahon |
-| 805 | 326 | Mandi Marie Smith |
+| 804 | 326 | Mandi Marie Smith |
+| 805 | 326 | Jennifer Mahon |
 | 806 | 325 | August Hale |
 | 807 | 325 | Noel Tarmy |
 | 808 | 325 | Justin Hines |
@@ -854,8 +854,8 @@
 | 846 | 309 | Jason Garnatz |
 | 847 | 308 | Hyper Riseclear |
 | 848 | 308 | Katie Joy McCombs |
-| 849 | 308 | Claire |
-| 850 | 308 | Samuel Labruno |
+| 849 | 308 | Samuel Labruno |
+| 850 | 308 | Claire |
 | 851 | 307 | Ethan Stienbarger |
 | 852 | 306 | Bryan Werleman |
 | 853 | 305 | Neaomi Favro |

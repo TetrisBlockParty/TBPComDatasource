@@ -155,8 +155,8 @@
 | 147 | 307 | Angela Srubar-Norman |
 | 148 | 307 | Bio Nelly |
 | 149 | 306 | Klo |
-| 150 | 300 | Dana Scott |
-| 151 | 300 | Jason Hart |
+| 150 | 300 | Jason Hart |
+| 151 | 300 | Dana Scott |
 | 152 | 299 | TRCuse |
 | 153 | 294 | Kesha Brady |
 | 154 | 294 | Meagan Nicole |
@@ -196,8 +196,8 @@
 | 188 | 250 | Matt Dell'Olio |
 | 189 | 248 | Chirpy Basepiece |
 | 190 | 247 | Sam Bishop |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Autum Leigh |
 | 195 | 245 | 23 |
@@ -210,8 +210,8 @@
 | 202 | 240 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | Ruben Wheeler |
-| 206 | 233 | April Rondinone |
+| 205 | 233 | April Rondinone |
+| 206 | 233 | Ruben Wheeler |
 | 207 | 230 | Kristina Black |
 | 208 | 230 | blockstar |
 | 209 | 228 | Antony Dwayne Beasley |
@@ -242,8 +242,8 @@
 | 234 | 208 | Stacey Stano |
 | 235 | 208 | Oscar Alberto Perez |
 | 236 | 205 | James Hurley Jr. |
-| 237 | 205 | Christina Black |
-| 238 | 205 | Keith Kelley |
+| 237 | 205 | Keith Kelley |
+| 238 | 205 | Christina Black |
 | 239 | 203 | Katherine Crane |
 | 240 | 202 | Patron Anderson |
 | 241 | 201 | Melvin Baird |
@@ -367,8 +367,8 @@
 | 359 | 138 | Jasmine S Caldwell |
 | 360 | 138 | Zippy Tilt |
 | 361 | 138 | Moonsterix |
-| 362 | 137 | Brianna Walker |
-| 363 | 137 | Carlos Hernandez |
+| 362 | 137 | Carlos Hernandez |
+| 363 | 137 | Brianna Walker |
 | 364 | 137 | PeaceOs |
 | 365 | 137 | Red |
 | 366 | 136 | Jen Hallin |
@@ -388,11 +388,11 @@
 | 380 | 132 | Adam Randall |
 | 381 | 132 | Melissa Priest Sellers |
 | 382 | 131 | Peppy Drop |
-| 383 | 131 | Ryry |
-| 384 | 131 | Smiley Tiltbuilder |
-| 385 | 130 | Zach Kerbs |
-| 386 | 130 | Shukee Lo |
-| 387 | 130 | icequeenx |
+| 383 | 131 | Smiley Tiltbuilder |
+| 384 | 131 | Ryry |
+| 385 | 130 | icequeenx |
+| 386 | 130 | Zach Kerbs |
+| 387 | 130 | Shukee Lo |
 | 388 | 129 | Dreamy Snapgrid |
 | 389 | 129 | Bradley Reeves |
 | 390 | 129 | Sherri |
