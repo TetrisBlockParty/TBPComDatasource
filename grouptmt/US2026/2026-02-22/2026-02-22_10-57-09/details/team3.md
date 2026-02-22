@@ -184,8 +184,8 @@
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Tom Nault |
-| 180 | 357 | Stephanie Burtin |
+| 179 | 357 | Stephanie Burtin |
+| 180 | 357 | Tom Nault |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -194,8 +194,8 @@
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -207,8 +207,8 @@
 | 199 | 311 | Araceli Parra |
 | 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -239,8 +239,8 @@
 | 231 | 275 | Cassandra Bryant |
 | 232 | 274 | Tye Stovall |
 | 233 | 272 | Dee Franklin |
-| 234 | 271 | Ashley Muncey |
-| 235 | 271 | Cass Mendoza |
+| 234 | 271 | Cass Mendoza |
+| 235 | 271 | Ashley Muncey |
 | 236 | 269 | Trisha Balmer |
 | 237 | 267 | Terry Jo Jones |
 | 238 | 265 | Sarah Moyer |
@@ -270,8 +270,8 @@
 | 262 | 238 | LaTanya GeminiondaRise Johnson |
 | 263 | 236 | Jess Bissett |
 | 264 | 235 | Cozy Snaplink |
-| 265 | 234 | Connie Mohler-Fair |
-| 266 | 234 | Nikki Pags |
+| 265 | 234 | Nikki Pags |
+| 266 | 234 | Connie Mohler-Fair |
 | 267 | 233 | Josh Borquez |
 | 268 | 233 | Ray Lader |
 | 269 | 232 | Brenda Schmid Wood |
@@ -317,8 +317,8 @@
 | 309 | 201 | Hyper Matchzone |
 | 310 | 201 | Daring Builder |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | Sharisse Baltimore |
-| 313 | 200 | glichmod |
+| 312 | 200 | glichmod |
+| 313 | 200 | Sharisse Baltimore |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
 | 316 | 195 | Nicha Hooker |
@@ -342,8 +342,8 @@
 | 334 | 179 | Rachel Napper |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
-| 337 | 176 | Emma |
-| 338 | 176 | Melissa Orth Hunter |
+| 337 | 176 | Melissa Orth Hunter |
+| 338 | 176 | Emma |
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Salena Whitlock |
 | 341 | 174 | Lesley Perez |
@@ -367,9 +367,9 @@
 | 359 | 165 | Ashley Lynn Marchese |
 | 360 | 164 | Ashley Rufus Bythcez |
 | 361 | 164 | momo |
-| 362 | 163 | Colleen Phelps |
-| 363 | 163 | Diana Ibarra |
-| 364 | 163 | Christine Trester |
+| 362 | 163 | Diana Ibarra |
+| 363 | 163 | Christine Trester |
+| 364 | 163 | Colleen Phelps |
 | 365 | 163 | Ava Petito |
 | 366 | 162 | Eric Caccavale |
 | 367 | 162 | Stephanie Whitefield |
@@ -413,8 +413,8 @@
 | 405 | 147 | Funky Jumper |
 | 406 | 147 | Hasty Gridpiece |
 | 407 | 147 | sofaking |
-| 408 | 146 | Wettnippz |
-| 409 | 146 | Sara Dunn |
+| 408 | 146 | Sara Dunn |
+| 409 | 146 | Wettnippz |
 | 410 | 146 | ROODBOY |
 | 411 | 146 | Sdot |
 | 412 | 144 | Crystal Hine |
@@ -426,10 +426,10 @@
 | 418 | 142 | Gray Hicks |
 | 419 | 142 | Jl |
 | 420 | 142 | Joy Petroski |
-| 421 | 141 | Melissa Snyder |
-| 422 | 141 | Bhreagh Gentile |
-| 423 | 141 | Reina Roth |
-| 424 | 141 | Weerae |
+| 421 | 141 | Bhreagh Gentile |
+| 422 | 141 | Melissa Snyder |
+| 423 | 141 | Weerae |
+| 424 | 141 | Reina Roth |
 | 425 | 140 | Jumpy Curvebuilder |
 | 426 | 140 | Boldy Corner |
 | 427 | 140 | Linda Draper |
@@ -664,9 +664,9 @@
 | 656 | 92 | Cary M. Fong |
 | 657 | 92 | Patty White |
 | 658 | 92 | Jennifer Caputo |
-| 659 | 92 | Patty White |
-| 660 | 91 | Alisha Osborne |
-| 661 | 91 | Stormy Anguish |
+| 659 | 92 | Jackie-Lynne Goertzen |
+| 660 | 91 | Stormy Anguish |
+| 661 | 91 | Alisha Osborne |
 | 662 | 91 | Brave Bruno |
 | 663 | 91 | Block Dropper |
 | 664 | 91 | Christen Cannon Layhew |
@@ -2133,11 +2133,11 @@
 | 2125 | 15 | Zesty Riser |
 | 2126 | 15 | Spunky Grid |
 | 2127 | 15 | Plucky Stagger |
-| 2128 | 15 | Stella Mariz |
-| 2129 | 15 | Kelli Johnston |
+| 2128 | 15 | Kelli Johnston |
+| 2129 | 15 | Stella Mariz |
 | 2130 | 15 | Wendy Zerucha Sargent |
-| 2131 | 14 | Becky Brannen-DeGuido |
-| 2132 | 14 | Sara Alvarado |
+| 2131 | 14 | Sara Alvarado |
+| 2132 | 14 | Becky Brannen-DeGuido |
 | 2133 | 14 | Sandra Parker |
 | 2134 | 14 | IsaLynn Roberta Sequeira |
 | 2135 | 14 | Taylor Middleton |

@@ -289,8 +289,8 @@
 | 281 | 703 | Gold Rose |
 | 282 | 700 | Hong Tang |
 | 283 | 700 | Vincent Petrella |
-| 284 | 700 | Rosemadder |
-| 285 | 700 | Beverly Owens |
+| 284 | 700 | Beverly Owens |
+| 285 | 700 | Rosemadder |
 | 286 | 698 | Mighty Shatterfit |
 | 287 | 697 | Dreamy Blast |
 | 288 | 696 | Kathryn Townsley |
@@ -376,8 +376,8 @@
 | 368 | 557 | Block Master |
 | 369 | 557 | Brandy Andre |
 | 370 | 556 | Slip |
-| 371 | 554 | Rachael Senard |
-| 372 | 554 | Santana Miyagi |
+| 371 | 554 | Santana Miyagi |
+| 372 | 554 | Rachael Senard |
 | 373 | 554 | Autumn Schaeffer |
 | 374 | 550 | Nashu |
 | 375 | 549 | Darcy Mae |
@@ -609,8 +609,8 @@
 | 601 | 378 | TF Dyer |
 | 602 | 378 | Tina Marie |
 | 603 | 378 | Jasmine Kenney |
-| 604 | 376 | James Zaragoza |
-| 605 | 376 | Darlene Bowman |
+| 604 | 376 | Darlene Bowman |
+| 605 | 376 | James Zaragoza |
 | 606 | 375 | Cecilia A Jenkins |
 | 607 | 375 | Lively Edgepiece |
 | 608 | 373 | Hunter Connors |
@@ -634,8 +634,8 @@
 | 626 | 365 | Audrey Jones |
 | 627 | 364 | Shinette Dobson |
 | 628 | 363 | Michelle Sager |
-| 629 | 363 | Kia Humphery |
-| 630 | 363 | Jes Norris |
+| 629 | 363 | Jes Norris |
+| 630 | 363 | Kia Humphery |
 | 631 | 363 | Stephanie Fortune |
 | 632 | 362 | Veronics |
 | 633 | 362 | Andrea Maher |
@@ -646,8 +646,8 @@
 | 638 | 361 | Lewis Sturgeon |
 | 639 | 360 | Jroc |
 | 640 | 359 | Cheyenne Donovan |
-| 641 | 358 | Alyssaaelena |
-| 642 | 358 | Sydney Busse |
+| 641 | 358 | Sydney Busse |
+| 642 | 358 | Alyssaaelena |
 | 643 | 357 | Shannon Byrd |
 | 644 | 357 | Tristan Szolek |
 | 645 | 355 | Amanda Perez |
@@ -730,8 +730,8 @@
 | 722 | 312 | Sassy Linkbuilder |
 | 723 | 312 | Heather Renee Jeffers |
 | 724 | 311 | Megan Phillips |
-| 725 | 310 | Wendy Ducheney |
-| 726 | 310 | Cheeky Brickmatch |
+| 725 | 310 | Cheeky Brickmatch |
+| 726 | 310 | Wendy Ducheney |
 | 727 | 310 | Beth Decker |
 | 728 | 310 | Audra Williams |
 | 729 | 309 | Byung Bae Park |
@@ -928,8 +928,8 @@
 | 920 | 249 | J.L. Roberts |
 | 921 | 249 | Angela Yantz |
 | 922 | 248 | Jaybee Nguyen |
-| 923 | 248 | Angelina Marie |
-| 924 | 248 | CleverAngel |
+| 923 | 248 | CleverAngel |
+| 924 | 248 | Angelina Marie |
 | 925 | 247 | Linda Miltenburg |
 | 926 | 247 | Karyn Yurcho Dooley |
 | 927 | 247 | Wizz |
@@ -1699,7 +1699,7 @@
 | 1691 | 137 | Tiberia Chasse |
 | 1692 | 137 | Gloria Malloy |
 | 1693 | 137 | Jannette Kimes |
-| 1694 | 137 | Brett Addison Jr. |
+| 1694 | 137 | Chummy Caster |
 | 1695 | 137 | Snippy Party |
 | 1696 | 137 | Brett Addison Jr. |
 | 1697 | 136 | Brenda Fortner |
@@ -1909,7 +1909,7 @@
 | 1901 | 121 | Groovy Linkmatch |
 | 1902 | 121 | Destiny Rose Mansfield |
 | 1903 | 121 | Bailey H. |
-| 1904 | 121 | Denise Johnston |
+| 1904 | 121 | Jacqueline Gibson |
 | 1905 | 121 | Tipsy Clusterer |
 | 1906 | 121 | Denise Johnston |
 | 1907 | 121 | Brooks Brooks |
@@ -1935,8 +1935,8 @@
 | 1927 | 120 | Doug Small |
 | 1928 | 120 | Cat |
 | 1929 | 119 | Terry Paulson |
-| 1930 | 119 | Barb |
-| 1931 | 119 | Erica Messina |
+| 1930 | 119 | Erica Messina |
+| 1931 | 119 | Barb |
 | 1932 | 119 | Ashley Wise |
 | 1933 | 119 | Diane Louise |
 | 1934 | 119 | Damien Reinbold |

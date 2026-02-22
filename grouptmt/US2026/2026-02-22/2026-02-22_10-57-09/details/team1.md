@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -123,8 +123,8 @@
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Jennifer Hardman |
-| 119 | 316 | Ly Phethmany |
+| 118 | 316 | Ly Phethmany |
+| 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -250,13 +250,13 @@
 | 242 | 170 | Standia Civil |
 | 243 | 170 | Cece Ibarra |
 | 244 | 169 | Abbey Crespo |
-| 245 | 168 | Amber Stoker |
-| 246 | 168 | Angela Fairbank |
+| 245 | 168 | Angela Fairbank |
+| 246 | 168 | Amber Stoker |
 | 247 | 167 | Cranky Pattern |
 | 248 | 167 | Nery Martinez |
 | 249 | 166 | Carrie Smith |
-| 250 | 165 | Silly Align |
-| 251 | 165 | Nadine Velardo |
+| 250 | 165 | Nadine Velardo |
+| 251 | 165 | Silly Align |
 | 252 | 164 | Desiree Deschaine Havee |
 | 253 | 163 | Tyler Whitley |
 | 254 | 163 | Blaire Bruckoff |

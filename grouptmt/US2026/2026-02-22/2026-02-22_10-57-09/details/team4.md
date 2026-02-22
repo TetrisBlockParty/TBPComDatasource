@@ -127,8 +127,8 @@
 | 119 | 303 | Lauren Scott |
 | 120 | 300 | Jason Hart |
 | 121 | 298 | Lucas J Sutton |
-| 122 | 296 | HastyGrabber |
-| 123 | 296 | Justin Hannigan |
+| 122 | 296 | Justin Hannigan |
+| 123 | 296 | HastyGrabber |
 | 124 | 294 | Kesha Brady |
 | 125 | 290 | Andy Cabral |
 | 126 | 290 | 🥔🥔 Spudz |
@@ -212,9 +212,9 @@
 | 204 | 185 | Nikki Rae Gordon |
 | 205 | 184 | Ak Jones |
 | 206 | 181 | Carter Jones |
-| 207 | 180 | Dihcheese444 |
-| 208 | 180 | Orchislactea |
-| 209 | 180 | Rafael Valentin |
+| 207 | 180 | Orchislactea |
+| 208 | 180 | Rafael Valentin |
+| 209 | 180 | Dihcheese444 |
 | 210 | 179 | TinyLegoRose |
 | 211 | 179 | blockstar |
 | 212 | 175 | Lorena Guerrero-Barron |
