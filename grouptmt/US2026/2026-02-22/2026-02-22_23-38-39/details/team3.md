@@ -137,8 +137,8 @@
 | 129 | 621 | Cherry Parker |
 | 130 | 618 | Bea Miles |
 | 131 | 617 | Leah Barnett |
-| 132 | 595 | Patricia White |
-| 133 | 595 | Giddy Drop |
+| 132 | 595 | Giddy Drop |
+| 133 | 595 | Patricia White |
 | 134 | 590 | Santeria Trece Candles |
 | 135 | 588 | Justin Ritter |
 | 136 | 587 | Daryn Elliott |
@@ -188,8 +188,8 @@
 | 180 | 460 | Danielle Allison |
 | 181 | 460 | Araceli Parra |
 | 182 | 458 | Danielle Rhoades |
-| 183 | 457 | Jim Mathews |
-| 184 | 457 | Shannon Matthew Byers |
+| 183 | 457 | Shannon Matthew Byers |
+| 184 | 457 | Jim Mathews |
 | 185 | 455 | Bmo |
 | 186 | 452 | Jacqueline Rodriguez |
 | 187 | 451 | Sarah Cowan Burgos |
@@ -547,8 +547,8 @@
 | 539 | 163 | neci |
 | 540 | 163 | Denise Marie |
 | 541 | 162 | Stephanie Whitefield |
-| 542 | 161 | Giggy Glidepiece |
-| 543 | 161 | Julia Nicole |
+| 542 | 161 | Julia Nicole |
+| 543 | 161 | Giggy Glidepiece |
 | 544 | 161 | Paul Larsen |
 | 545 | 160 | Sarah Morris |
 | 546 | 160 | Sdot |

@@ -103,14 +103,14 @@
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
-| 100 | 512 | Diana Houts |
-| 101 | 512 | Casey Jeffcoat |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
+| 100 | 512 | Casey Jeffcoat |
+| 101 | 512 | Diana Houts |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Courtney Cicoria |
-| 121 | 431 | Jolly Dashfit |
+| 120 | 431 | Jolly Dashfit |
+| 121 | 431 | Courtney Cicoria |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -172,8 +172,8 @@
 | 164 | 321 | jim |
 | 165 | 320 | Lauren Scott |
 | 166 | 316 | Meagan Nicole |
-| 167 | 314 | Andy Cabral |
-| 168 | 314 | TRCuse |
+| 167 | 314 | TRCuse |
+| 168 | 314 | Andy Cabral |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
 | 171 | 307 | Bio Nelly |
@@ -182,10 +182,10 @@
 | 174 | 304 | Chaz Duncan |
 | 175 | 303 | shark tato |
 | 176 | 302 | Cursed Hag |
-| 177 | 301 | Damn Libra |
+| 177 | 301 | Andria Lynn |
 | 178 | 301 | Crystal Nicolette Moore |
-| 179 | 301 | J-Rizzle |
-| 180 | 301 | Andria Lynn |
+| 179 | 301 | Damn Libra |
+| 180 | 301 | J-Rizzle |
 | 181 | 300 | Dana Scott |
 | 182 | 300 | Zakia Monae |
 | 183 | 297 | Melvin Baird |
@@ -217,8 +217,8 @@
 | 209 | 267 | Holly |
 | 210 | 267 | Kathy Brookins |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | Dihcheese444 |
-| 213 | 261 | scott |
+| 212 | 261 | scott |
+| 213 | 261 | Dihcheese444 |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | PeaceOs |
 | 216 | 257 | Cheery Risebuilder |
@@ -243,16 +243,16 @@
 | 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | Jade Rian |
-| 239 | 230 | blockstar |
+| 238 | 230 | blockstar |
+| 239 | 230 | Jade Rian |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Jenna McGeorge |
 | 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
-| 245 | 221 | Chair |
+| 245 | 221 | Rheanda Weaskus |
 | 246 | 221 | PurpleMoonMa |
-| 247 | 221 | Rheanda Weaskus |
+| 247 | 221 | Chair |
 | 248 | 220 | Joanna |
 | 249 | 219 | Christine Therrien |
 | 250 | 219 | Lori |

@@ -337,17 +337,17 @@
 | 329 | 807 | Khalil Lowe |
 | 330 | 799 | Joy LaJeunesse |
 | 331 | 797 | Offonar Facey |
-| 332 | 793 | Heather Schelkopf |
-| 333 | 793 | Lisa Ongtowasruk |
+| 332 | 793 | Lisa Ongtowasruk |
+| 333 | 793 | Heather Schelkopf |
 | 334 | 792 | Gold Rose |
 | 335 | 790 | Brenda Pierpoint |
 | 336 | 788 | Erika Densmore |
 | 337 | 782 | Beth |
 | 338 | 781 | Cassie Mercer |
-| 339 | 777 | Tesha Oldaker |
-| 340 | 777 | Jessicah Myers |
-| 341 | 774 | Ginnell Browner |
-| 342 | 774 | Ashley Dow |
+| 339 | 777 | Jessicah Myers |
+| 340 | 777 | Tesha Oldaker |
+| 341 | 774 | Ashley Dow |
+| 342 | 774 | Ginnell Browner |
 | 343 | 773 | Diana Fitzwater |
 | 344 | 772 | Danielle Simmons |
 | 345 | 771 | Amber Brion |
