@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -152,8 +152,8 @@
 | 144 | 365 | Logan Naccarato |
 | 145 | 363 | Alaina Lee |
 | 146 | 359 | Dapper Snap |
-| 147 | 355 | Tessina Dewey-Mancino |
-| 148 | 355 | Sherry Ogden |
+| 147 | 355 | Sherry Ogden |
+| 148 | 355 | Tessina Dewey-Mancino |
 | 149 | 353 | CeceGeGe |
 | 150 | 350 | Darlene McMillan |
 | 151 | 347 | Nicole Flippo |
@@ -279,8 +279,8 @@
 | 271 | 179 | Tipsy Zonebuilder |
 | 272 | 178 | Jess Dearborn |
 | 273 | 176 | Beth Ingham |
-| 274 | 175 | Eileen Brady Thurber |
-| 275 | 175 | Marquita Sheard |
+| 274 | 175 | Marquita Sheard |
+| 275 | 175 | Eileen Brady Thurber |
 | 276 | 174 | Lesley Perez |
 | 277 | 174 | Jennifer Alvey |
 | 278 | 173 | BŘŰŤİÇŨŚ |
@@ -356,8 +356,8 @@
 | 348 | 138 | Boldy Corner |
 | 349 | 137 | kacihall |
 | 350 | 136 | Blair Erin Waite |
-| 351 | 136 | Sabrina Mansfield |
-| 352 | 136 | Bleu Sun Beams |
+| 351 | 136 | Bleu Sun Beams |
+| 352 | 136 | Sabrina Mansfield |
 | 353 | 135 | Angela Scott |
 | 354 | 134 | Jd Morris |
 | 355 | 134 | MizzMonick Smith |

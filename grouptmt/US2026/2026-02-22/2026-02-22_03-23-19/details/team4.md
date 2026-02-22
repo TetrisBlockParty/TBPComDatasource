@@ -181,8 +181,8 @@
 | 173 | 173 | ThaEviLJeNiuZ |
 | 174 | 171 | Diana Houts |
 | 175 | 169 | Kesha Brady |
-| 176 | 166 | Cozy Balancer |
-| 177 | 166 | SammieJo Guy |
+| 176 | 166 | SammieJo Guy |
+| 177 | 166 | Cozy Balancer |
 | 178 | 164 | 030Synner |
 | 179 | 162 | Joanna |
 | 180 | 160 | ZeeZee |

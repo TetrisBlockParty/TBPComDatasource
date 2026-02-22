@@ -147,8 +147,8 @@
 | 139 | 212 | Jaimie Lynn |
 | 140 | 212 | Lori Bales |
 | 141 | 211 | Marianita Garcia |
-| 142 | 208 | Bouncy Grid |
-| 143 | 208 | Giggly Builderline |
+| 142 | 208 | Giggly Builderline |
+| 143 | 208 | Bouncy Grid |
 | 144 | 207 | Leslie Bush Yarbrough |
 | 145 | 206 | Kimberly Garcia |
 | 146 | 203 | Paula Martin |
@@ -316,12 +316,12 @@
 | 308 | 102 | Barrbaric |
 | 309 | 101 | Mizzledagod |
 | 310 | 101 | Liliana Pena |
-| 311 | 100 | Plucky Fallzone |
-| 312 | 100 | Erin Rosberg |
-| 313 | 100 | Jessica Weed |
-| 314 | 100 | Brandi Egbert |
-| 315 | 99 | Lush Zoney |
-| 316 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 311 | 100 | Brandi Egbert |
+| 312 | 100 | Jessica Weed |
+| 313 | 100 | Erin Rosberg |
+| 314 | 100 | Plucky Fallzone |
+| 315 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 316 | 99 | Lush Zoney |
 | 317 | 98 | Amy Hess |
 | 318 | 98 | Virginia Gray Floyd |
 | 319 | 98 | Kirk Torrey |
