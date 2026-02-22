@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Jenna Ingersoll |
-| 112 | 412 | Scott Jameson |
+| 111 | 412 | Scott Jameson |
+| 112 | 412 | Jenna Ingersoll |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -134,8 +134,8 @@
 | 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
-| 129 | 338 | Lucas J Sutton |
-| 130 | 338 | ThaEviLJeNiuZ |
+| 129 | 338 | ThaEviLJeNiuZ |
+| 130 | 338 | Lucas J Sutton |
 | 131 | 336 | Austin Owens |
 | 132 | 332 | Desi Desporte |
 | 133 | 332 | HastyGrabber |
@@ -210,24 +210,24 @@
 | 202 | 239 | Zethra Prenisha Rahming |
 | 203 | 237 | Jen Caldwell |
 | 204 | 236 | Swanky Fitline |
-| 205 | 233 | April Rondinone |
-| 206 | 233 | Ruben Wheeler |
+| 205 | 233 | Ruben Wheeler |
+| 206 | 233 | April Rondinone |
 | 207 | 230 | Kristina Black |
 | 208 | 228 | Antony Dwayne Beasley |
 | 209 | 226 | Zesty Twistbuilder |
 | 210 | 225 | Perky Patternblock |
 | 211 | 222 | blockstar |
 | 212 | 221 | Kim Klutz Olson |
-| 213 | 221 | PurpleMoonMa |
-| 214 | 221 | Rheanda Weaskus |
-| 215 | 219 | Malakai Darien Fox |
-| 216 | 219 | JPW |
+| 213 | 221 | Rheanda Weaskus |
+| 214 | 221 | PurpleMoonMa |
+| 215 | 219 | JPW |
+| 216 | 219 | Malakai Darien Fox |
 | 217 | 217 | Kim Hunt |
 | 218 | 216 | Cristy Duerksen |
 | 219 | 216 | ZeeZee |
 | 220 | 216 | Chance Strickland |
-| 221 | 215 | Ziggy |
-| 222 | 215 | John Brunetti |
+| 221 | 215 | John Brunetti |
+| 222 | 215 | Ziggy |
 | 223 | 214 | Michele Plunkett |
 | 224 | 213 | Sarah Neathery |
 | 225 | 213 | Rio Rocha |
@@ -339,8 +339,8 @@
 | 331 | 147 | Maureen Flanigan |
 | 332 | 147 | Jay28 |
 | 333 | 146 | Brave Spinbuilder |
-| 334 | 145 | Glitzy Crasher |
-| 335 | 145 | Sandra Safford |
+| 334 | 145 | Sandra Safford |
+| 335 | 145 | Glitzy Crasher |
 | 336 | 145 | Daring Pivot |
 | 337 | 144 | Squeezy Pearsall |
 | 338 | 143 | Metsfan |

@@ -266,8 +266,8 @@
 | 258 | 282 | Angie Harper |
 | 259 | 282 | Marquita Sheard |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Sabrina Hardrick |
-| 262 | 278 | Rufus Lincoln |
+| 261 | 278 | Rufus Lincoln |
+| 262 | 278 | Sabrina Hardrick |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
 | 265 | 276 | LaShey Thompson |
@@ -394,14 +394,14 @@
 | 386 | 192 | Kelly Ann Child |
 | 387 | 192 | Katrina E Jelks |
 | 388 | 191 | Becca Engle |
-| 389 | 189 | Katheline Lazo Luizaga |
-| 390 | 189 | Deseree Ewing |
-| 391 | 189 | Katie Leigh Blankenship |
-| 392 | 189 | Erykah |
+| 389 | 189 | Katie Leigh Blankenship |
+| 390 | 189 | Erykah |
+| 391 | 189 | Katheline Lazo Luizaga |
+| 392 | 189 | Deseree Ewing |
 | 393 | 188 | Crystal Hine |
 | 394 | 187 | Andrew Thorson |
-| 395 | 186 | Noettín Kan Zasnemoore |
-| 396 | 186 | Bryan Byrd |
+| 395 | 186 | Bryan Byrd |
+| 396 | 186 | Noettín Kan Zasnemoore |
 | 397 | 186 | Sameerah Smith |
 | 398 | 184 | Shanon R Jackson |
 | 399 | 183 | Smiley Zone |
@@ -409,8 +409,8 @@
 | 401 | 182 | gremicx |
 | 402 | 181 | Juliana Dottore |
 | 403 | 181 | Fancy Curver |
-| 404 | 180 | Funky Jumper |
-| 405 | 180 | Beth Ingham |
+| 404 | 180 | Beth Ingham |
+| 405 | 180 | Funky Jumper |
 | 406 | 180 | Ava Petito |
 | 407 | 179 | Betty Bóò |
 | 408 | 179 | Skinny Baldez |

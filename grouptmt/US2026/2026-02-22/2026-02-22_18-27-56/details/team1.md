@@ -92,8 +92,8 @@
 | 84 | 471 | Jennifer ManWarren |
 | 85 | 456 | Arianna O'Brien |
 | 86 | 453 | Brandi Huntington |
-| 87 | 444 | Hyper |
-| 88 | 444 | Lexuriuos Lifestlye |
+| 87 | 444 | Lexuriuos Lifestlye |
+| 88 | 444 | Hyper |
 | 89 | 443 | Steve Schneider |
 | 90 | 436 | Tonya Beasley |
 | 91 | 434 | Loony Fitzone |
@@ -217,8 +217,8 @@
 | 209 | 230 | BigWeenie69 |
 | 210 | 228 | Cheeky Pop |
 | 211 | 226 | Michael |
-| 212 | 225 | Jessie Lynn |
-| 213 | 225 | Bindi |
+| 212 | 225 | Bindi |
+| 213 | 225 | Jessie Lynn |
 | 214 | 224 | ParisandCory Champagne |
 | 215 | 223 | Basment Living |
 | 216 | 223 | Christina Backer |

@@ -121,8 +121,8 @@
 | 113 | 1519 | Mindy Leigh Head |
 | 114 | 1513 | blackq |
 | 115 | 1509 | Whitney Nicole Waterman |
-| 116 | 1507 | Linda Pierce |
-| 117 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Stephanie Chapman |
+| 117 | 1507 | Linda Pierce |
 | 118 | 1495 | Tj Ball |
 | 119 | 1493 | Mari Ac |
 | 120 | 1487 | Kristopher Miller |
@@ -133,8 +133,8 @@
 | 125 | 1439 | Jumpy Gridpiece |
 | 126 | 1435 | Jessie McDougald |
 | 127 | 1418 | L3sli3 |
-| 128 | 1411 | Zappy Cascade |
-| 129 | 1411 | niecy |
+| 128 | 1411 | niecy |
+| 129 | 1411 | Zappy Cascade |
 | 130 | 1384 | Katrina Williams Balmir |
 | 131 | 1383 | Ladyrainbootz |
 | 132 | 1380 | Jose Mendoza |
@@ -266,8 +266,8 @@
 | 258 | 867 | Peppy Zone |
 | 259 | 865 | Kristin Gower |
 | 260 | 862 | Brittany Radaszewski |
-| 261 | 860 | John Bednarik |
-| 262 | 860 | Sheniya Spurgeon |
+| 261 | 860 | Sheniya Spurgeon |
+| 262 | 860 | John Bednarik |
 | 263 | 860 | April Dawn Gussler |
 | 264 | 860 | William Hunt |
 | 265 | 858 | Maria Escobar |
@@ -300,8 +300,8 @@
 | 292 | 787 | Dee |
 | 293 | 783 | Lisa Ongtowasruk |
 | 294 | 781 | Hong Tang |
-| 295 | 777 | Jessicah Myers |
-| 296 | 777 | Tesha Oldaker |
+| 295 | 777 | Tesha Oldaker |
+| 296 | 777 | Jessicah Myers |
 | 297 | 777 | Samantha Jo |
 | 298 | 773 | Diana Fitzwater |
 | 299 | 768 | Michele Morgan |
@@ -493,11 +493,11 @@
 | 485 | 516 | Diamond Scott |
 | 486 | 514 | Karen Posadas Centeno |
 | 487 | 512 | Leslie Jorgenson |
-| 488 | 511 | Adam Simmons |
-| 489 | 511 | Laura Mclean |
-| 490 | 509 | Jarboe |
-| 491 | 509 | Jordan Kaiser |
-| 492 | 509 | Kelli Wells |
+| 488 | 511 | Laura Mclean |
+| 489 | 511 | Adam Simmons |
+| 490 | 509 | Kelli Wells |
+| 491 | 509 | Jarboe |
+| 492 | 509 | Jordan Kaiser |
 | 493 | 507 | Kitybox |
 | 494 | 507 | Daniell Martinez |
 | 495 | 499 | Sarah Massey |
@@ -508,8 +508,8 @@
 | 500 | 496 | Erika Densmore |
 | 501 | 495 | Bubbly Snapbuild |
 | 502 | 494 | Venita Ray |
-| 503 | 493 | Sue Leard |
-| 504 | 493 | Sarah DeHart |
+| 503 | 493 | Sarah DeHart |
+| 504 | 493 | Sue Leard |
 | 505 | 492 | Breezy Clusterer |
 | 506 | 492 | Maya June |
 | 507 | 492 | Armonie Smith |
@@ -526,8 +526,8 @@
 | 518 | 484 | Wendy Unsain |
 | 519 | 482 | Drwatson187 |
 | 520 | 482 | Amélie Cadieux |
-| 521 | 481 | Anthony Huebel |
-| 522 | 481 | Quirky Twistline |
+| 521 | 481 | Quirky Twistline |
+| 522 | 481 | Anthony Huebel |
 | 523 | 481 | Klee |
 | 524 | 480 | Ashley Collins |
 | 525 | 480 | Dar |
