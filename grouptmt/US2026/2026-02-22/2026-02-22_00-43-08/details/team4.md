@@ -52,8 +52,8 @@
 | 44 | 530 | Clarence Patawaran |
 | 45 | 526 | Goatimus Lombardi |
 | 46 | 504 | Ash |
-| 47 | 500 | Savannah Overdorf |
-| 48 | 500 | Rodney McMath Jr. |
+| 47 | 500 | Rodney McMath Jr. |
+| 48 | 500 | Savannah Overdorf |
 | 49 | 496 | Carolyn Wallace |
 | 50 | 491 | Casey Jeffcoat |
 | 51 | 486 | Landon Keith Graffeo |
@@ -113,9 +113,9 @@
 | 105 | 258 | Brittney Orengo |
 | 106 | 257 | Holly Jolly |
 | 107 | 255 | Lindsay Ball |
-| 108 | 230 | Daria Rycewicz |
-| 109 | 230 | Lucas J Sutton |
-| 110 | 230 | Autum Leigh |
+| 108 | 230 | Lucas J Sutton |
+| 109 | 230 | Autum Leigh |
+| 110 | 230 | Daria Rycewicz |
 | 111 | 225 | Damn Libra |
 | 112 | 222 | Joeliecea Cobb |
 | 113 | 221 | Alyssa Papen |

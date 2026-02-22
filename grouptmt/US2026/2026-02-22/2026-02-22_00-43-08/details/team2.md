@@ -295,7 +295,7 @@
 | 287 | 509 | Jordan Kaiser |
 | 288 | 506 | Cherica Taylor |
 | 289 | 503 | Matt Johnson |
-| 290 | 502 | Poppy Snap |
+| 290 | 502 | Sparkles |
 | 291 | 502 | Magic steve |
 | 292 | 502 | Poppy Snap |
 | 293 | 500 | Glitzy Stackzone |
@@ -330,8 +330,8 @@
 | 322 | 459 | Brainy Smurf |
 | 323 | 459 | Doowop40 |
 | 324 | 455 | Shuany Arias |
-| 325 | 454 | Nashu |
-| 326 | 454 | Casey Schumacher |
+| 325 | 454 | Casey Schumacher |
+| 326 | 454 | Nashu |
 | 327 | 454 | Blacc Blac |
 | 328 | 453 | Cozy Filler |
 | 329 | 453 | Rhonda Petro |
@@ -383,8 +383,8 @@
 | 375 | 406 | Julie Kresal |
 | 376 | 406 | Tj Ball |
 | 377 | 405 | Christy Krissie |
-| 378 | 403 | Tonya Lee |
-| 379 | 403 | Snippy Rumbler |
+| 378 | 403 | Snippy Rumbler |
+| 379 | 403 | Tonya Lee |
 | 380 | 402 | Gauri Shrotriya |
 | 381 | 402 | Spunkysmom |
 | 382 | 401 | Taylor Flowers |
@@ -402,8 +402,8 @@
 | 394 | 391 | Chilly Bridgepiece |
 | 395 | 391 | Qiana Sanders |
 | 396 | 389 | Alexis Richardson |
-| 397 | 387 | Johnny Yeates |
-| 398 | 387 | Ann Matzkanin |
+| 397 | 387 | Ann Matzkanin |
+| 398 | 387 | Johnny Yeates |
 | 399 | 387 | Jennifer Malloy - Cardy |
 | 400 | 386 | Irene Jones |
 | 401 | 384 | Mike Aprilliano |
@@ -442,8 +442,8 @@
 | 434 | 362 | Tracy Wise |
 | 435 | 362 | Adam Simmons |
 | 436 | 359 | Offonar Facey |
-| 437 | 358 | Alyssaaelena |
-| 438 | 358 | Michelle Sager |
+| 437 | 358 | Michelle Sager |
+| 438 | 358 | Alyssaaelena |
 | 439 | 357 | Shannon Byrd |
 | 440 | 354 | Jessica Lamb |
 | 441 | 354 | Lawanda Forbes |
@@ -551,8 +551,8 @@
 | 543 | 296 | Jennifer Darby |
 | 544 | 296 | Amber Gray |
 | 545 | 295 | Noel Tarmy |
-| 546 | 294 | Janitta Alvarez |
-| 547 | 294 | Venita Ray |
+| 546 | 294 | Venita Ray |
+| 547 | 294 | Janitta Alvarez |
 | 548 | 294 | Amanda Edwards |
 | 549 | 294 | Frilly Fallzone |
 | 550 | 294 | Frisky Riserbuilder |
@@ -600,8 +600,8 @@
 | 592 | 272 | Ryan Lauer |
 | 593 | 272 | Witty Piecebuilder |
 | 594 | 270 | Court |
-| 595 | 270 | Ben Barkley |
-| 596 | 270 | Tim Dyer |
+| 595 | 270 | Tim Dyer |
+| 596 | 270 | Ben Barkley |
 | 597 | 270 | Santana Miyagi |
 | 598 | 269 | Reece Smith |
 | 599 | 269 | Pocho Zavala |

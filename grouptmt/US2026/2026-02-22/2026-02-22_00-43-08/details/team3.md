@@ -139,8 +139,8 @@
 | 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
-| 134 | 347 | Darlene McMillan |
-| 135 | 347 | Nicole Flippo |
+| 134 | 347 | Nicole Flippo |
+| 135 | 347 | Darlene McMillan |
 | 136 | 343 | Chasity |
 | 137 | 328 | Aaron Pitkin |
 | 138 | 328 | Jeni Dow |
@@ -226,11 +226,11 @@
 | 218 | 195 | Rebel124 |
 | 219 | 195 | Nicha Hooker |
 | 220 | 194 | Nora Rogers |
-| 221 | 193 | Clever Shiftsnap |
-| 222 | 193 | Stephanie Burtin |
+| 221 | 193 | Stephanie Burtin |
+| 222 | 193 | Clever Shiftsnap |
 | 223 | 192 | Kelly Ann Child |
-| 224 | 191 | Scott Carleton |
-| 225 | 191 | Brenda Lee Vander Molen |
+| 224 | 191 | Brenda Lee Vander Molen |
+| 225 | 191 | Scott Carleton |
 | 226 | 190 | Raven Dudley |
 | 227 | 190 | Hyper Matchzone |
 | 228 | 189 | Sissy Lowery Davis |
