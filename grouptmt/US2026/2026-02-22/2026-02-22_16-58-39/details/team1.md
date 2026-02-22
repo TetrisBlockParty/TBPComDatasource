@@ -89,8 +89,8 @@
 | 81 | 471 | Jennifer ManWarren |
 | 82 | 456 | Arianna O'Brien |
 | 83 | 453 | Brandi Huntington |
-| 84 | 444 | Lexuriuos Lifestlye |
-| 85 | 444 | Hyper |
+| 84 | 444 | Hyper |
+| 85 | 444 | Lexuriuos Lifestlye |
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
@@ -110,8 +110,8 @@
 | 102 | 389 | Nery Martinez |
 | 103 | 383 | pjbeta |
 | 104 | 380 | Dee Perry |
-| 105 | 379 | Kimmie Kimms |
-| 106 | 379 | Austin James |
+| 105 | 379 | Austin James |
+| 106 | 379 | Kimmie Kimms |
 | 107 | 376 | lil mickey |
 | 108 | 374 | Tinah Montanna |
 | 109 | 364 | Shauna Loe |
@@ -121,13 +121,13 @@
 | 113 | 355 | Hasbro Bros |
 | 114 | 354 | phrmblk24 |
 | 115 | 352 | Jason Jones |
-| 116 | 350 | Sweet Baker |
-| 117 | 350 | Tipsy Strikerpiece |
+| 116 | 350 | Tipsy Strikerpiece |
+| 117 | 350 | Sweet Baker |
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | David Miller |
-| 122 | 341 | Nick R Montague |
+| 121 | 341 | Nick R Montague |
+| 122 | 341 | David Miller |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -142,11 +142,11 @@
 | 134 | 316 | Dizzy Party |
 | 135 | 316 | GATOR |
 | 136 | 313 | Virginia Gray Floyd |
-| 137 | 308 | Erin Hodges Plumb |
-| 138 | 308 | Sharon Reynolds |
+| 137 | 308 | Sharon Reynolds |
+| 138 | 308 | Erin Hodges Plumb |
 | 139 | 307 | Kimberly Garcia |
-| 140 | 306 | Happy Basegrid |
-| 141 | 306 | Bloknboy |
+| 140 | 306 | Bloknboy |
+| 141 | 306 | Happy Basegrid |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
 | 144 | 301 | Lehrin Maria |
@@ -155,8 +155,8 @@
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
 | 149 | 285 | Ananda Mendez |
-| 150 | 284 | Emily Adelaide Wheatley |
-| 151 | 284 | Rachael |
+| 150 | 284 | Rachael |
+| 151 | 284 | Emily Adelaide Wheatley |
 | 152 | 283 | Franswa |
 | 153 | 282 | Timothy Dew |
 | 154 | 282 | Snippy Wipebuilder |
@@ -166,8 +166,8 @@
 | 158 | 273 | Sassy Builderline |
 | 159 | 272 | Tana |
 | 160 | 272 | Sleepysloath5745 |
-| 161 | 270 | Angela Renea Lester |
-| 162 | 270 | Mandyy Rae |
+| 161 | 270 | Mandyy Rae |
+| 162 | 270 | Angela Renea Lester |
 | 163 | 270 | Ash Galvan |
 | 164 | 268 | Jessi Sauer |
 | 165 | 268 | Shannon Marie Pitts |
@@ -459,8 +459,8 @@
 | 451 | 105 | Lucinda Thacker |
 | 452 | 105 | Bye Love |
 | 453 | 105 | Josh Riemer |
-| 454 | 104 | Charla Pross-Fugleberg |
-| 455 | 104 | Jamie Catlett |
+| 454 | 104 | Jamie Catlett |
+| 455 | 104 | Charla Pross-Fugleberg |
 | 456 | 104 | Craig Mcgonigle |
 | 457 | 103 | Mariah Cornell |
 | 458 | 103 | Glitzy Grid |

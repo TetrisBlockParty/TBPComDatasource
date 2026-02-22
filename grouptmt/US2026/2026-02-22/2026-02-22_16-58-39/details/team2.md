@@ -263,8 +263,8 @@
 | 255 | 860 | William Hunt |
 | 256 | 857 | Della Hole |
 | 257 | 855 | F-X |
-| 258 | 853 | Maria Escobar |
-| 259 | 853 | Meghan M |
+| 258 | 853 | Meghan M |
+| 259 | 853 | Maria Escobar |
 | 260 | 845 | Sheniya Spurgeon |
 | 261 | 844 | Terri McKelvey McKinley |
 | 262 | 842 | Elizabeth Wilbanks |
@@ -291,9 +291,9 @@
 | 283 | 786 | Jessica Wayne Cornwall |
 | 284 | 784 | Offonar Facey |
 | 285 | 783 | Lisa Ongtowasruk |
-| 286 | 777 | Angie Bolton Workman |
+| 286 | 777 | Tesha Oldaker |
 | 287 | 777 | Jessicah Myers |
-| 288 | 777 | Tesha Oldaker |
+| 288 | 777 | Angie Bolton Workman |
 | 289 | 777 | Samantha Jo |
 | 290 | 772 | Kristin Gower |
 | 291 | 768 | Michele Morgan |
@@ -332,8 +332,8 @@
 | 324 | 700 | Beverly Owens |
 | 325 | 700 | Rosemadder |
 | 326 | 699 | tejas25 |
-| 327 | 697 | Dreamy Blast |
-| 328 | 697 | Ashle Scranton |
+| 327 | 697 | Ashle Scranton |
+| 328 | 697 | Dreamy Blast |
 | 329 | 695 | Deborah Miller |
 | 330 | 695 | Lakeysha Dortch |
 | 331 | 692 | Dannette Goldberg-Richards |
@@ -528,16 +528,16 @@
 | 520 | 472 | Kyle LeRoy Harris |
 | 521 | 471 | Rae Rae |
 | 522 | 470 | Arlene Joy Belicina |
-| 523 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
-| 524 | 470 | Snippy Rumbler |
-| 525 | 469 | Christy Long |
-| 526 | 469 | Johnny Yeates |
-| 527 | 469 | Spunkysmom |
+| 523 | 470 | Snippy Rumbler |
+| 524 | 470 | JAG$*V¡LL£•FL•DuuuVaL |
+| 525 | 469 | Johnny Yeates |
+| 526 | 469 | Spunkysmom |
+| 527 | 469 | Christy Long |
 | 528 | 467 | Audrey Jones |
 | 529 | 466 | Tina Marie |
 | 530 | 466 | Koa N Sharon Chen |
-| 531 | 466 | Kori Beth Babb |
-| 532 | 466 | Crystal Greene |
+| 531 | 466 | Crystal Greene |
+| 532 | 466 | Kori Beth Babb |
 | 533 | 465 | Davetta Sanford |
 | 534 | 463 | Mia Muse Best |
 | 535 | 463 | Cody Nishimura |
@@ -1008,8 +1008,8 @@
 | 1000 | 259 | Mary Ahne |
 | 1001 | 259 | Jay Dreamer-x Shelly |
 | 1002 | 259 | Maurice Bundy |
-| 1003 | 258 | Kara Tolbert |
-| 1004 | 258 | DesertDreamer24 |
+| 1003 | 258 | DesertDreamer24 |
+| 1004 | 258 | Kara Tolbert |
 | 1005 | 258 | Tee Jaleesa |
 | 1006 | 258 | Scott |
 | 1007 | 258 | Kristen Casale Berry |

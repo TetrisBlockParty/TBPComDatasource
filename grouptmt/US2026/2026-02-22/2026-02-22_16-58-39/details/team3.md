@@ -214,8 +214,8 @@
 | 206 | 346 | Tamara Deherrera |
 | 207 | 344 | Trisha Balmer |
 | 208 | 343 | Ashley Raines |
-| 209 | 341 | Noyb Adam |
-| 210 | 341 | Samantha Lynn |
+| 209 | 341 | Samantha Lynn |
+| 210 | 341 | Noyb Adam |
 | 211 | 340 | Ammmmmmy |
 | 212 | 338 | Gumbo |
 | 213 | 332 | Ashley Tookes |
@@ -373,8 +373,8 @@
 | 365 | 196 | Denita Mungro |
 | 366 | 195 | Nicha Hooker |
 | 367 | 194 | Kevin Fountain |
-| 368 | 193 | BŘŰŤİÇŨŚ |
-| 369 | 193 | Clever Shiftsnap |
+| 368 | 193 | Clever Shiftsnap |
+| 369 | 193 | BŘŰŤİÇŨŚ |
 | 370 | 193 | Loopy Fallzone |
 | 371 | 192 | Melanie Sherwood |
 | 372 | 192 | Kelly Ann Child |
