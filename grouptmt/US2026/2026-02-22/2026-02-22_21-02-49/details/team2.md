@@ -230,8 +230,8 @@
 | 222 | 1022 | Shannon Joslin |
 | 223 | 1020 | Eric Carlson |
 | 224 | 1019 | Kyle Swanson |
-| 225 | 1016 | Jodi Blake |
-| 226 | 1016 | Amber Shoemaker |
+| 225 | 1016 | Amber Shoemaker |
+| 226 | 1016 | Jodi Blake |
 | 227 | 1016 | Julay |
 | 228 | 1015 | Catina Hutchison |
 | 229 | 1012 | Dany Murillo |
@@ -278,8 +278,8 @@
 | 270 | 883 | nikki |
 | 271 | 880 | Sam Joe |
 | 272 | 878 | Missie Lawson Gebhardt |
-| 273 | 875 | William Hunt |
-| 274 | 875 | Jamie Otero |
+| 273 | 875 | Jamie Otero |
+| 274 | 875 | William Hunt |
 | 275 | 874 | Giggy Blocker |
 | 276 | 872 | Felicia Lynn |
 | 277 | 867 | Peppy Zone |
@@ -327,12 +327,12 @@
 | 319 | 777 | Samantha Jo |
 | 320 | 774 | Ashley Dow |
 | 321 | 774 | Ginnell Browner |
-| 322 | 773 | Heather Schelkopf |
-| 323 | 773 | Diana Fitzwater |
+| 322 | 773 | Diana Fitzwater |
+| 323 | 773 | Heather Schelkopf |
 | 324 | 770 | Danielle Simmons |
 | 325 | 768 | Michele Morgan |
-| 326 | 767 | Ashley Lopez |
-| 327 | 767 | Fancy Twister |
+| 326 | 767 | Fancy Twister |
+| 327 | 767 | Ashley Lopez |
 | 328 | 763 | Heather Causey |
 | 329 | 762 | Melissa McCall |
 | 330 | 761 | Hyper Cluster |
@@ -498,8 +498,8 @@
 | 490 | 533 | Gauri Shrotriya |
 | 491 | 533 | Davetta Sanford |
 | 492 | 532 | Belle Mari |
-| 493 | 531 | Briana Alexander |
-| 494 | 531 | Aishah Brice |
+| 493 | 531 | Aishah Brice |
+| 494 | 531 | Briana Alexander |
 | 495 | 529 | Victoria Regina Girolami |
 | 496 | 528 | Sarah Berger |
 | 497 | 528 | Anita Rose Green |
@@ -752,10 +752,10 @@
 | 744 | 373 | Michelle Shrum |
 | 745 | 373 | Jane Crew |
 | 746 | 372 | Mandy Kachenmeister |
-| 747 | 371 | Mandi Marie Smith |
-| 748 | 371 | Gina Caulder |
-| 749 | 370 | Sassy Linkbuilder |
-| 750 | 370 | Brave Gridpiece |
+| 747 | 371 | Gina Caulder |
+| 748 | 371 | Mandi Marie Smith |
+| 749 | 370 | Brave Gridpiece |
+| 750 | 370 | Sassy Linkbuilder |
 | 751 | 369 | Amanda Canterbury |
 | 752 | 368 | Anthony D Gritz Jr |
 | 753 | 368 | Veronics |
@@ -903,8 +903,8 @@
 | 895 | 311 | SwifftFox |
 | 896 | 311 | Audra Williams |
 | 897 | 310 | Cozy Drop |
-| 898 | 310 | Wendy Ducheney |
-| 899 | 310 | Cheeky Brickmatch |
+| 898 | 310 | Cheeky Brickmatch |
+| 899 | 310 | Wendy Ducheney |
 | 900 | 309 | Byung Bae Park |
 | 901 | 308 | Spicy Riser |
 | 902 | 308 | Hyper Riseclear |

@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Chilly Line |
-| 63 | 721 | Edward White |
+| 62 | 721 | Edward White |
+| 63 | 721 | Chilly Line |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -122,8 +122,8 @@
 | 114 | 440 | Lori Walker |
 | 115 | 438 | shar |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -133,8 +133,8 @@
 | 125 | 400 | Ericca Eldridge |
 | 126 | 393 | Carlton Unfiltered |
 | 127 | 391 | Nope Young |
-| 128 | 391 | Ramel Rhodes |
-| 129 | 391 | Austin Owens |
+| 128 | 391 | Austin Owens |
+| 129 | 391 | Ramel Rhodes |
 | 130 | 377 | Carrie Brian |
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | ThaEviLJeNiuZ |
-| 140 | 343 | Latisha Davis |
+| 139 | 343 | Latisha Davis |
+| 140 | 343 | ThaEviLJeNiuZ |
 | 141 | 339 | David Lay |
 | 142 | 338 | Angela Srubar-Norman |
 | 143 | 336 | Jessica Bohlken |
@@ -153,9 +153,9 @@
 | 145 | 333 | Twisty Cascadezone |
 | 146 | 332 | HastyGrabber |
 | 147 | 332 | Desi Desporte |
-| 148 | 328 | Brandon Crabbs |
+| 148 | 328 | Kris Bartlett |
 | 149 | 328 | Leslie Nicole |
-| 150 | 328 | Kris Bartlett |
+| 150 | 328 | Brandon Crabbs |
 | 151 | 325 | Peachy Fall |
 | 152 | 323 | Daria Rycewicz |
 | 153 | 321 | Klo |
@@ -252,8 +252,8 @@
 | 244 | 215 | John Brunetti |
 | 245 | 215 | Ziggy |
 | 246 | 214 | Stacey Stano |
-| 247 | 213 | Sarah Neathery |
-| 248 | 213 | Rio Rocha |
+| 247 | 213 | Rio Rocha |
+| 248 | 213 | Sarah Neathery |
 | 249 | 213 | Angela Geist Jusinski |
 | 250 | 212 | Mike Solo |
 | 251 | 208 | Rebecca Morris |
@@ -261,11 +261,11 @@
 | 253 | 205 | Keith Kelley |
 | 254 | 205 | James Hurley Jr. |
 | 255 | 203 | Katherine Crane |
-| 256 | 202 | Patron Anderson |
-| 257 | 202 | Orchislactea |
+| 256 | 202 | Orchislactea |
+| 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
-| 259 | 200 | Googenheim |
-| 260 | 200 | Lori |
+| 259 | 200 | Lori |
+| 260 | 200 | Googenheim |
 | 261 | 199 | TinyLegoRose |
 | 262 | 198 | Snippy Puzzle |
 | 263 | 198 | Calvin Dennis |
