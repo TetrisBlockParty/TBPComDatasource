@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Loopy Clusterbuilder |
 | 101 | 1534 | Laura Marie Pelletier |
-| 102 | 1516 | Stephen Stephen |
-| 103 | 1516 | Mindy Leigh Head |
+| 102 | 1516 | Mindy Leigh Head |
+| 103 | 1516 | Stephen Stephen |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -653,13 +653,13 @@
 | 645 | 360 | Jroc |
 | 646 | 359 | Diallo Sparkman |
 | 647 | 359 | Cheyenne Donovan |
-| 648 | 358 | Alyssaaelena |
-| 649 | 358 | Sydney Busse |
+| 648 | 358 | Sydney Busse |
+| 649 | 358 | Alyssaaelena |
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rickey Johnson |
-| 654 | 354 | Rachel Kaminski |
+| 653 | 354 | Rachel Kaminski |
+| 654 | 354 | Rickey Johnson |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -701,8 +701,8 @@
 | 693 | 330 | Toni Roberson |
 | 694 | 330 | Jennifer Monroe Kelly |
 | 695 | 329 | Chummy Blockbuilder |
-| 696 | 329 | Jane Crew |
-| 697 | 329 | Snappy Shatterfit |
+| 696 | 329 | Snappy Shatterfit |
+| 697 | 329 | Jane Crew |
 | 698 | 328 | Jamie Carter Bierce |
 | 699 | 328 | BabyBird |
 | 700 | 326 | Ann Knutson Anderson |
@@ -1163,8 +1163,8 @@
 | 1155 | 199 | Melissa May |
 | 1156 | 198 | Majed Tawk |
 | 1157 | 198 | Alice Samm |
-| 1158 | 197 | Octavio Garza |
-| 1159 | 197 | Kati Russeau |
+| 1158 | 197 | Kati Russeau |
+| 1159 | 197 | Octavio Garza |
 | 1160 | 197 | Jermaine Johnson |
 | 1161 | 197 | Erica Dale |
 | 1162 | 197 | Tammie Siegfried |

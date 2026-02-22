@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Jonathan Kimbrough |
-| 52 | 659 | Rebecca Moulton Pinciaro |
+| 51 | 659 | Rebecca Moulton Pinciaro |
+| 52 | 659 | Jonathan Kimbrough |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -215,8 +215,8 @@
 | 207 | 188 | Andria Lynn |
 | 208 | 187 | blockstar |
 | 209 | 186 | Holly |
-| 210 | 185 | Nikki Rae Gordon |
-| 211 | 185 | Laura Hosford |
+| 210 | 185 | Laura Hosford |
+| 211 | 185 | Nikki Rae Gordon |
 | 212 | 184 | Ak Jones |
 | 213 | 181 | Carter Jones |
 | 214 | 180 | Googenheim |
@@ -398,8 +398,8 @@
 | 390 | 106 | Zappy Snaplink |
 | 391 | 106 | Jacob Richard |
 | 392 | 106 | Lynn Marie |
-| 393 | 106 | Nick Horn |
-| 394 | 106 | Verna Neal |
+| 393 | 106 | Verna Neal |
+| 394 | 106 | Nick Horn |
 | 395 | 105 | meowmew |
 | 396 | 105 | Zesty Linkgrid |
 | 397 | 105 | Michelle Parker |
