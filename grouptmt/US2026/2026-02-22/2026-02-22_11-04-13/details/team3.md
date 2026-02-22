@@ -290,8 +290,8 @@
 | 282 | 216 | Cheryl Hinch Tenbrook |
 | 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |
@@ -317,8 +317,8 @@
 | 309 | 201 | Alexmac |
 | 310 | 201 | Hyper Matchzone |
 | 311 | 200 | Saucy Buildout |
-| 312 | 200 | glichmod |
-| 313 | 200 | Sharisse Baltimore |
+| 312 | 200 | Sharisse Baltimore |
+| 313 | 200 | glichmod |
 | 314 | 199 | Mariah Williams |
 | 315 | 198 | kacihall |
 | 316 | 195 | Nicha Hooker |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | France Vézina |
-| 324 | 189 | Katie Leigh Blankenship |
+| 323 | 189 | Katie Leigh Blankenship |
+| 324 | 189 | France Vézina |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Bryan Byrd |
 | 327 | 186 | Sameerah Smith |
@@ -371,10 +371,10 @@
 | 363 | 163 | Christine Trester |
 | 364 | 163 | Diana Ibarra |
 | 365 | 163 | Ava Petito |
-| 366 | 162 | Stephanie Whitefield |
+| 366 | 162 | Kristin Delibac Corrigan |
 | 367 | 162 | Eric Caccavale |
-| 368 | 162 | Kristin Delibac Corrigan |
-| 369 | 162 | Loopy Fallzone |
+| 368 | 162 | Loopy Fallzone |
+| 369 | 162 | Stephanie Whitefield |
 | 370 | 162 | Beaudie Stroebel |
 | 371 | 162 | Nicole Summers-Nelson |
 | 372 | 161 | Julia Nicole |
@@ -389,8 +389,8 @@
 | 381 | 157 | Wetwet |
 | 382 | 157 | Katrina E Jelks |
 | 383 | 156 | Nichole Greene |
-| 384 | 155 | Michael Leblanc |
-| 385 | 155 | Michell Hendershott Jackson |
+| 384 | 155 | Michell Hendershott Jackson |
+| 385 | 155 | Michael Leblanc |
 | 386 | 154 | Shanon R Jackson |
 | 387 | 153 | Stefanie LaPointe |
 | 388 | 153 | Tony Waters |
@@ -441,8 +441,8 @@
 | 433 | 138 | Bleu Sun Beams |
 | 434 | 137 | Giggly Brickroll |
 | 435 | 136 | Karen Picaboo |
-| 436 | 136 | Sabrina Mansfield |
-| 437 | 136 | Stephanie Zahm |
+| 436 | 136 | Stephanie Zahm |
+| 437 | 136 | Sabrina Mansfield |
 | 438 | 135 | Morgan Cudo |
 | 439 | 134 | Tammy |
 | 440 | 134 | Sarah Morris |
@@ -578,10 +578,10 @@
 | 570 | 105 | Zac Hudak |
 | 571 | 105 | Kristi Taylor |
 | 572 | 105 | Amy Wheeler |
-| 573 | 104 | Jessica Rose-Morgan |
-| 574 | 104 | bean |
-| 575 | 104 | Jana Fagg |
-| 576 | 104 | Johnathan Dowe |
+| 573 | 104 | bean |
+| 574 | 104 | Jessica Rose-Morgan |
+| 575 | 104 | Johnathan Dowe |
+| 576 | 104 | Jana Fagg |
 | 577 | 103 | Snappy Balancer |
 | 578 | 103 | Melissa Parlow-Callaway |
 | 579 | 103 | Tony Mia Christian |
