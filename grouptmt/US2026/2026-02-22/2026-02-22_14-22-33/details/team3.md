@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 546 | Kristie |
@@ -134,8 +134,8 @@
 | 126 | 492 | Daira Largen |
 | 127 | 491 | Chauntee Alfrey-Cardinale |
 | 128 | 480 | Stephanie Blkpep Davidson |
-| 129 | 479 | Patti Skiles |
-| 130 | 479 | Poppy Splitter |
+| 129 | 479 | Poppy Splitter |
+| 130 | 479 | Patti Skiles |
 | 131 | 478 | CeceGeGe |
 | 132 | 473 | mzcatzy |
 | 133 | 471 | Mendoza Lee Christy |
@@ -227,8 +227,8 @@
 | 219 | 300 | Sherika C. McDaniels |
 | 220 | 298 | MsBee |
 | 221 | 297 | Jojo M |
-| 222 | 296 | Ammmmmmy |
-| 223 | 296 | Katrina Turner |
+| 222 | 296 | Katrina Turner |
+| 223 | 296 | Ammmmmmy |
 | 224 | 296 | Brandon Givens |
 | 225 | 291 | JerseyJess |
 | 226 | 289 | DidIdothat |
@@ -242,8 +242,8 @@
 | 234 | 281 | Valerie Gendron |
 | 235 | 281 | Carrie Huskey |
 | 236 | 279 | Brittany |
-| 237 | 278 | Rufus Lincoln |
-| 238 | 278 | Sabrina Hardrick |
+| 237 | 278 | Sabrina Hardrick |
+| 238 | 278 | Rufus Lincoln |
 | 239 | 276 | _melisa223_ |
 | 240 | 276 | Crimson |
 | 241 | 275 | Eon Harris |
@@ -258,11 +258,11 @@
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
 | 252 | 262 | Joe-Maggie Mathews |
-| 253 | 261 | Tasha Wesson-Torrence |
-| 254 | 261 | Tiffany Ford |
+| 253 | 261 | Tiffany Ford |
+| 254 | 261 | Tasha Wesson-Torrence |
 | 255 | 261 | Marquita Sheard |
-| 256 | 260 | Grams |
-| 257 | 260 | Nikki Pags |
+| 256 | 260 | Nikki Pags |
+| 257 | 260 | Grams |
 | 258 | 259 | Danielle Weikel |
 | 259 | 257 | Ashley Jones |
 | 260 | 256 | KayB |

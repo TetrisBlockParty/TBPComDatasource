@@ -192,8 +192,8 @@
 | 184 | 229 | Chris K |
 | 185 | 226 | Kandae |
 | 186 | 224 | ParisandCory Champagne |
-| 187 | 223 | Erez Yosef |
-| 188 | 223 | Basment Living |
+| 187 | 223 | Basment Living |
+| 188 | 223 | Erez Yosef |
 | 189 | 222 | Debbie Davis |
 | 190 | 219 | Chuck Gannon |
 | 191 | 218 | LC |

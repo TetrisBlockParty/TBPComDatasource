@@ -717,8 +717,8 @@
 | 709 | 335 | Brooke Leigh Strube |
 | 710 | 335 | Alexandrea |
 | 711 | 334 | Melissa James |
-| 712 | 333 | Woodys Glass |
-| 713 | 333 | Adrian Benitez |
+| 712 | 333 | Adrian Benitez |
+| 713 | 333 | Woodys Glass |
 | 714 | 331 | Johanna Massaro |
 | 715 | 330 | Toni Roberson |
 | 716 | 330 | Jennifer Monroe Kelly |
