@@ -176,8 +176,8 @@
 | 168 | 1154 | Stacy Stickle |
 | 169 | 1147 | Kiok |
 | 170 | 1131 | Stacey Clement |
-| 171 | 1124 | Jessie McDougald |
-| 172 | 1124 | Brandy Andre |
+| 171 | 1124 | Brandy Andre |
+| 172 | 1124 | Jessie McDougald |
 | 173 | 1121 | Megan Ferguson Leone |
 | 174 | 1117 | Ricardo Burton |
 | 175 | 1113 | Anna Edwards |
@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1032 | Ashley Rose Frederick |
 | 191 | 1024 | Bri Lynn |
@@ -206,8 +206,8 @@
 | 198 | 998 | Tralonda Weeks |
 | 199 | 993 | Eric Carlson |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Desiree Harris Rosch |
-| 202 | 989 | Teddi Notyalc |
+| 201 | 989 | Teddi Notyalc |
+| 202 | 989 | Desiree Harris Rosch |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -625,8 +625,8 @@
 | 617 | 407 | Tipsy Filler |
 | 618 | 406 | Erin StFrancis |
 | 619 | 404 | Dawn L Washington-Feuquay |
-| 620 | 403 | Nate Skidmore |
-| 621 | 403 | Goofy Dasher |
+| 620 | 403 | Goofy Dasher |
+| 621 | 403 | Nate Skidmore |
 | 622 | 401 | Jasmine Kenney |
 | 623 | 400 | Kathleen Driskell |
 | 624 | 400 | Tammy Allen |
@@ -647,8 +647,8 @@
 | 639 | 391 | Chilly Bridgepiece |
 | 640 | 390 | Moist_B-hole |
 | 641 | 390 | Frisky Riserbuilder |
-| 642 | 389 | Swanky Columnbuilder |
-| 643 | 389 | Alexis Richardson |
+| 642 | 389 | Alexis Richardson |
+| 643 | 389 | Swanky Columnbuilder |
 | 644 | 389 | Julie Hamilton |
 | 645 | 388 | ruth |
 | 646 | 388 | Connie Jimenez |
@@ -715,8 +715,8 @@
 | 707 | 356 | Kelsey Sullivan |
 | 708 | 356 | Shorty |
 | 709 | 355 | Mike73 |
-| 710 | 354 | Rickey Johnson |
-| 711 | 354 | Rachel Kaminski |
+| 710 | 354 | Rachel Kaminski |
+| 711 | 354 | Rickey Johnson |
 | 712 | 352 | Jean FU Jagielski |
 | 713 | 352 | Savannah Alexander |
 | 714 | 350 | Chris Harr |

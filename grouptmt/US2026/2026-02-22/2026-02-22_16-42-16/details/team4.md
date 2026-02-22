@@ -213,8 +213,8 @@
 | 205 | 221 | Rheanda Weaskus |
 | 206 | 219 | Malakai Darien Fox |
 | 207 | 217 | Kim Hunt |
-| 208 | 216 | ZeeZee |
-| 209 | 216 | Cristy Duerksen |
+| 208 | 216 | Cristy Duerksen |
+| 209 | 216 | ZeeZee |
 | 210 | 216 | Chance Strickland |
 | 211 | 215 | Ziggy |
 | 212 | 213 | Shauna Havard |
@@ -298,8 +298,8 @@
 | 290 | 152 | Faja |
 | 291 | 151 | Shanon Klair |
 | 292 | 151 | Joseph Pace |
-| 293 | 151 | Sarah Hoffman |
-| 294 | 151 | Amanda Christine |
+| 293 | 151 | Amanda Christine |
+| 294 | 151 | Sarah Hoffman |
 | 295 | 150 | Brandon Link |
 | 296 | 150 | GBR |
 | 297 | 149 | Jason Bosco |

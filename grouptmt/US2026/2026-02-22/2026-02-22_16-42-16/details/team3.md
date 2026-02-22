@@ -131,8 +131,8 @@
 | 123 | 526 | Cynthia Castros-Hampton |
 | 124 | 525 | Justin Ritter |
 | 125 | 521 | Michael Nowogorski |
-| 126 | 521 | Michelle Becker |
-| 127 | 521 | Daryn Elliott |
+| 126 | 521 | Daryn Elliott |
+| 127 | 521 | Michelle Becker |
 | 128 | 518 | opf |
 | 129 | 511 | Domo Washington |
 | 130 | 506 | Sashay Tapae Simpson |
@@ -212,15 +212,15 @@
 | 204 | 346 | Tamara Deherrera |
 | 205 | 344 | Trisha Balmer |
 | 206 | 343 | Ashley Raines |
-| 207 | 341 | Noyb Adam |
-| 208 | 341 | Samantha Lynn |
+| 207 | 341 | Samantha Lynn |
+| 208 | 341 | Noyb Adam |
 | 209 | 340 | Ammmmmmy |
 | 210 | 338 | Gumbo |
 | 211 | 332 | Rich LeBlanc |
 | 212 | 330 | Rebecca Funderburk Kirby |
 | 213 | 330 | Danielle Balcom |
-| 214 | 324 | Kristal C Lee |
-| 215 | 324 | Sissy Lowery Davis |
+| 214 | 324 | Sissy Lowery Davis |
+| 215 | 324 | Kristal C Lee |
 | 216 | 323 | Demetrious Shaw Sr. |
 | 217 | 320 | Keis |
 | 218 | 320 | Ashley Muncey |
@@ -234,8 +234,8 @@
 | 226 | 312 | Charles Perrone |
 | 227 | 308 | Rania Zaqout |
 | 228 | 307 | rnr junky |
-| 229 | 307 | Blocked |
-| 230 | 307 | Marci Mize Fandrich |
+| 229 | 307 | Marci Mize Fandrich |
+| 230 | 307 | Blocked |
 | 231 | 305 | Rebecca Bailey |
 | 232 | 301 | Betty Rosas |
 | 233 | 300 | Sherika C. McDaniels |
@@ -306,8 +306,8 @@
 | 298 | 230 | BigE |
 | 299 | 228 | Naur |
 | 300 | 227 | Rebel124 |
-| 301 | 227 | ROODBOY |
-| 302 | 227 | Meowsa |
+| 301 | 227 | Meowsa |
+| 302 | 227 | ROODBOY |
 | 303 | 226 | Jana Polk |
 | 304 | 226 | Kiki |
 | 305 | 225 | Stephanie Hill |
@@ -380,8 +380,8 @@
 | 372 | 191 | Becca Engle |
 | 373 | 191 | Rainbow77375 |
 | 374 | 190 | Willow |
-| 375 | 189 | Deseree Ewing |
-| 376 | 189 | Erykah |
+| 375 | 189 | Erykah |
+| 376 | 189 | Deseree Ewing |
 | 377 | 189 | Katheline Lazo Luizaga |
 | 378 | 189 | Katie Leigh Blankenship |
 | 379 | 186 | Noettín Kan Zasnemoore |
