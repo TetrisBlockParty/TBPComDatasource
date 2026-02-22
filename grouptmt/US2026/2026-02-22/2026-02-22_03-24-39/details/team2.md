@@ -139,8 +139,8 @@
 | 131 | 1051 | Shandrica Lowe |
 | 132 | 1048 | PsychKIRAtrist |
 | 133 | 1047 | Amy Sayers |
-| 134 | 1043 | Brave Dropmatch |
-| 135 | 1043 | Suki Kaur |
+| 134 | 1043 | Suki Kaur |
+| 135 | 1043 | Brave Dropmatch |
 | 136 | 1032 | Sarah Freitas |
 | 137 | 1020 | Heather Westrum |
 | 138 | 1018 | LordZophar |
@@ -247,8 +247,8 @@
 | 239 | 678 | Scott Treadway |
 | 240 | 677 | Mema |
 | 241 | 676 | Pacynthia Williams |
-| 242 | 675 | Brenda Utphall |
-| 243 | 675 | Tommy Tha Boss Gunz |
+| 242 | 675 | Tommy Tha Boss Gunz |
+| 243 | 675 | Brenda Utphall |
 | 244 | 674 | Auntie B |
 | 245 | 672 | Danielle Simmons |
 | 246 | 669 | Claire Noland |

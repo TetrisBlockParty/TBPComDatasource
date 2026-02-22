@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Kristie |
-| 100 | 500 | Domo Washington |
+| 99 | 500 | Domo Washington |
+| 100 | 500 | Kristie |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
@@ -161,8 +161,8 @@
 | 153 | 332 | Fallorina Susana |
 | 154 | 331 | Leah Barnett |
 | 155 | 328 | Aaron Pitkin |
-| 156 | 323 | Demetrious Shaw Sr. |
-| 157 | 323 | Ashley Raines |
+| 156 | 323 | Ashley Raines |
+| 157 | 323 | Demetrious Shaw Sr. |
 | 158 | 320 | Or Reznitsky |
 | 159 | 317 | Ashley Tookes |
 | 160 | 316 | Rich LeBlanc |
@@ -180,8 +180,8 @@
 | 172 | 289 | Hoppy Buildout |
 | 173 | 289 | Daryn Elliott |
 | 174 | 288 | Giddy Twistbuilder |
-| 175 | 286 | Cynthia Herrmann Egland |
-| 176 | 286 | Jacqueline Rodriguez |
+| 175 | 286 | Jacqueline Rodriguez |
+| 176 | 286 | Cynthia Herrmann Egland |
 | 177 | 285 | Rebecca Bailey |
 | 178 | 284 | Edwin Calvillo Jr. |
 | 179 | 283 | Joye Sims Binion |
@@ -667,7 +667,7 @@
 | 659 | 75 | Reesiecup93 |
 | 660 | 75 | Alixandra Delao |
 | 661 | 75 | SaSa Mac |
-| 662 | 75 | Alixandra Delao |
+| 662 | 75 | Melissa Price |
 | 663 | 74 | Everret Maxine |
 | 664 | 74 | Isaac Meighan |
 | 665 | 74 | Muk |
