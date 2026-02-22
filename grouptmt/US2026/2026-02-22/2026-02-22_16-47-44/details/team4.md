@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |

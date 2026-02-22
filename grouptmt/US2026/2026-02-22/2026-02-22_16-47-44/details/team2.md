@@ -176,8 +176,8 @@
 | 168 | 1154 | Stacy Stickle |
 | 169 | 1147 | Kiok |
 | 170 | 1131 | Stacey Clement |
-| 171 | 1124 | Brandy Andre |
-| 172 | 1124 | Jessie McDougald |
+| 171 | 1124 | Jessie McDougald |
+| 172 | 1124 | Brandy Andre |
 | 173 | 1121 | Megan Ferguson Leone |
 | 174 | 1117 | Ricardo Burton |
 | 175 | 1113 | Anna Edwards |

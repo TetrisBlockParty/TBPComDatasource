@@ -126,8 +126,8 @@
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | David Miller |
-| 122 | 341 | Nick R Montague |
+| 121 | 341 | Nick R Montague |
+| 122 | 341 | David Miller |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -188,8 +188,8 @@
 | 180 | 251 | Giggly Builderline |
 | 181 | 249 | Lakeisha Chapman |
 | 182 | 246 | Mike Ames |
-| 183 | 244 | Marianita Garcia |
-| 184 | 244 | Eddie Dillon |
+| 183 | 244 | Eddie Dillon |
+| 184 | 244 | Marianita Garcia |
 | 185 | 243 | Trippy Redd |
 | 186 | 242 | John Kim |
 | 187 | 241 | John J. Cronin |
@@ -274,7 +274,7 @@
 | 266 | 182 | Phu ckalldems |
 | 267 | 181 | David DeSantis |
 | 268 | 180 | Beau Galvan |
-| 269 | 180 | Mel Hogan |
+| 269 | 180 | BigWeenie69 |
 | 270 | 180 | Matt Iaccheo |
 | 271 | 179 | Ryan White |
 | 272 | 179 | Danielle Little-Daugherty |

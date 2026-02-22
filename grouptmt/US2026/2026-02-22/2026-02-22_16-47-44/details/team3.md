@@ -60,8 +60,8 @@
 | 52 | 1036 | Ant Ant |
 | 53 | 1023 | Stephanie Rice |
 | 54 | 1005 | Liv Whetson |
-| 55 | 990 | Amanda L Baker |
-| 56 | 990 | Joey Banks |
+| 55 | 990 | Joey Banks |
+| 56 | 990 | Amanda L Baker |
 | 57 | 983 | Brandon Green |
 | 58 | 983 | Elaine Webb Graves |
 | 59 | 976 | Gracie |
@@ -182,9 +182,9 @@
 | 174 | 399 | Mcathen |
 | 175 | 397 | Annie Déè |
 | 176 | 393 | Fallorina Susana |
-| 177 | 391 | Araceli Parra |
-| 178 | 391 | Calista Jo Dickson |
-| 179 | 391 | Sarah Cowan Burgos |
+| 177 | 391 | Calista Jo Dickson |
+| 178 | 391 | Sarah Cowan Burgos |
+| 179 | 391 | Araceli Parra |
 | 180 | 391 | Dapper Snap |
 | 181 | 390 | Chasity |
 | 182 | 385 | Shunta Jacobs |
