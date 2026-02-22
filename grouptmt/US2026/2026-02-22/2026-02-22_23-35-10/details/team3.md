@@ -137,23 +137,23 @@
 | 129 | 621 | Cherry Parker |
 | 130 | 618 | Bea Miles |
 | 131 | 617 | Leah Barnett |
-| 132 | 595 | Giddy Drop |
-| 133 | 595 | Patricia White |
+| 132 | 595 | Patricia White |
+| 133 | 595 | Giddy Drop |
 | 134 | 590 | Santeria Trece Candles |
 | 135 | 588 | Justin Ritter |
 | 136 | 587 | Daryn Elliott |
 | 137 | 585 | opf |
 | 138 | 583 | Karon Griffin |
 | 139 | 582 | Natasha Jones |
-| 140 | 579 | Jaime Monhaut-Reed |
-| 141 | 579 | Annie Marie |
+| 140 | 579 | Annie Marie |
+| 141 | 579 | Jaime Monhaut-Reed |
 | 142 | 574 | Morgan Martinez |
 | 143 | 572 | CeceGeGe |
 | 144 | 571 | Nicole Myers |
 | 145 | 568 | Rachael McClain Owens |
 | 146 | 565 | Domo Washington |
-| 147 | 562 | Dave Herzog |
-| 148 | 562 | Louise Stacy Sisson |
+| 147 | 562 | Louise Stacy Sisson |
+| 148 | 562 | Dave Herzog |
 | 149 | 553 | LaTanya GeminiondaRise Johnson |
 | 150 | 551 | Alaina Lee |
 | 151 | 546 | Cynthia Castros-Hampton |
@@ -247,8 +247,8 @@
 | 239 | 351 | Eon Harris |
 | 240 | 350 | Kammy Hill |
 | 241 | 349 | Amanda J. Mcneil-Anderson |
-| 242 | 347 | Rebecca Bailey |
-| 243 | 347 | Philip Rock |
+| 242 | 347 | Philip Rock |
+| 243 | 347 | Rebecca Bailey |
 | 244 | 346 | Tamara Deherrera |
 | 245 | 345 | Kelly |
 | 246 | 344 | Rania Zaqout |
@@ -272,8 +272,8 @@
 | 264 | 324 | Sissy Lowery Davis |
 | 265 | 322 | Nena Somerville Kelly |
 | 266 | 321 | Charles Perrone |
-| 267 | 320 | Or Reznitsky |
-| 268 | 320 | Ashley Muncey |
+| 267 | 320 | Ashley Muncey |
+| 268 | 320 | Or Reznitsky |
 | 269 | 312 | LadyTorad |
 | 270 | 309 | Felicia Rocha |
 | 271 | 308 | Katrina Turner |

@@ -97,8 +97,8 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | Amy Suckarieh |
-| 93 | 561 | H.R. Block |
+| 92 | 561 | H.R. Block |
+| 93 | 561 | Amy Suckarieh |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Courtney Cicoria |
-| 121 | 431 | Jolly Dashfit |
+| 120 | 431 | Jolly Dashfit |
+| 121 | 431 | Courtney Cicoria |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -208,8 +208,8 @@
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Sam Bishop |
 | 207 | 268 | Mimi |
@@ -235,24 +235,24 @@
 | 227 | 245 | Adam Stephanie Parker |
 | 228 | 245 | 23 |
 | 229 | 243 | Mr. Party |
-| 230 | 241 | Chris Hartig |
+| 230 | 241 | JPW |
 | 231 | 241 | Allen Lloyd |
-| 232 | 241 | JPW |
+| 232 | 241 | Chris Hartig |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Chaz |
-| 235 | 238 | Zesty Twistbuilder |
+| 234 | 238 | Zesty Twistbuilder |
+| 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | blockstar |
-| 239 | 230 | Jade Rian |
+| 238 | 230 | Jade Rian |
+| 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Jenna McGeorge |
 | 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
-| 245 | 221 | Chair |
+| 245 | 221 | PurpleMoonMa |
 | 246 | 221 | Rheanda Weaskus |
-| 247 | 221 | PurpleMoonMa |
+| 247 | 221 | Chair |
 | 248 | 220 | Joanna |
 | 249 | 219 | Malakai Darien Fox |
 | 250 | 219 | BigSammy420 |
@@ -322,9 +322,9 @@
 | 314 | 174 | Shane Vick |
 | 315 | 174 | Kathy Allen |
 | 316 | 171 | Chris Alexinas |
-| 317 | 171 | Dapper Balancer |
+| 317 | 171 | Autumn Kumzi |
 | 318 | 171 | KimoKoala |
-| 319 | 171 | Autumn Kumzi |
+| 319 | 171 | Dapper Balancer |
 | 320 | 170 | Elie Pean |
 | 321 | 169 | Jessica Atkinson |
 | 322 | 169 | Dante Korleon |
@@ -536,8 +536,8 @@
 | 528 | 108 | Chao Ma |
 | 529 | 108 | Tyler Bechtel |
 | 530 | 107 | Hyper Matchclear |
-| 531 | 107 | Cranky Glidebuilder |
-| 532 | 107 | Robert Rangel |
+| 531 | 107 | Robert Rangel |
+| 532 | 107 | Cranky Glidebuilder |
 | 533 | 107 | Laura McPheeters |
 | 534 | 106 | Jacob Richard |
 | 535 | 106 | Saundra Miller |

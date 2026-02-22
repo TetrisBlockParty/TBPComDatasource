@@ -332,8 +332,8 @@
 | 324 | 812 | Jackie Lucas |
 | 325 | 812 | Samantha Jo |
 | 326 | 808 | Melissa McCall |
-| 327 | 808 | Desire Rice |
-| 328 | 808 | Laura McCarthey |
+| 327 | 808 | Laura McCarthey |
+| 328 | 808 | Desire Rice |
 | 329 | 807 | Khalil Lowe |
 | 330 | 799 | Joy LaJeunesse |
 | 331 | 797 | Offonar Facey |
@@ -465,8 +465,8 @@
 | 457 | 605 | Santana Miyagi |
 | 458 | 603 | Casper The Chonk |
 | 459 | 603 | Denise Rickman |
-| 460 | 602 | Shaun Church |
-| 461 | 602 | KhaosLord |
+| 460 | 602 | KhaosLord |
+| 461 | 602 | Shaun Church |
 | 462 | 601 | Moua Ying |
 | 463 | 597 | Jamie Schmitt |
 | 464 | 596 | Qiana Sanders |
@@ -672,8 +672,8 @@
 | 664 | 443 | Regina Young |
 | 665 | 442 | Niceday |
 | 666 | 442 | Juan Castillo |
-| 667 | 438 | Crystal Heller Gonzalez |
-| 668 | 438 | Deyawn Smith |
+| 667 | 438 | Deyawn Smith |
+| 668 | 438 | Crystal Heller Gonzalez |
 | 669 | 438 | Lynda Toland |
 | 670 | 436 | Tom Steffen |
 | 671 | 436 | Giggy Mover |
@@ -707,8 +707,8 @@
 | 699 | 419 | Josh Dill |
 | 700 | 419 | Pocho Zavala |
 | 701 | 417 | Alexx Anaya |
-| 702 | 417 | N00D3S |
-| 703 | 417 | Giggy Grabber |
+| 702 | 417 | Giggy Grabber |
+| 703 | 417 | N00D3S |
 | 704 | 415 | Lathasa Newkirk |
 | 705 | 414 | John |
 | 706 | 413 | Moist_B-hole |

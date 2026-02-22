@@ -242,8 +242,8 @@
 | 234 | 238 | Tiffany Smith |
 | 235 | 238 | Sarah Somers Gray |
 | 236 | 235 | Bindi |
-| 237 | 234 | Paula Martin |
-| 238 | 234 | Shanae Grant |
+| 237 | 234 | Shanae Grant |
+| 238 | 234 | Paula Martin |
 | 239 | 233 | LC |
 | 240 | 232 | Erin Rosberg |
 | 241 | 230 | BigWeenie69 |
@@ -251,9 +251,9 @@
 | 243 | 230 | Thorne Shumate |
 | 244 | 230 | Diane Byrd |
 | 245 | 228 | Michael |
-| 246 | 228 | Shiny Gridmatch |
+| 246 | 228 | Giddy Cascade |
 | 247 | 228 | Adele Rahman |
-| 248 | 228 | Giddy Cascade |
+| 248 | 228 | Shiny Gridmatch |
 | 249 | 226 | Glitzy Buildsnap |
 | 250 | 224 | Tipsy Riseclear |
 | 251 | 223 | Erez Yosef |
@@ -269,8 +269,8 @@
 | 261 | 218 | Jessie Welch |
 | 262 | 216 | Chad Atchley |
 | 263 | 216 | Shauntina Burke |
-| 264 | 215 | Panda Thagreat |
-| 265 | 215 | Shaykmia |
+| 264 | 215 | Shaykmia |
+| 265 | 215 | Panda Thagreat |
 | 266 | 214 | Sarah Marie |
 | 267 | 213 | John Barron |
 | 268 | 213 | Angela Fairbank |
@@ -411,8 +411,8 @@
 | 403 | 150 | Jennifer Corrado |
 | 404 | 150 | 윤이나 |
 | 405 | 149 | MIKOZ |
-| 406 | 149 | Logan McFarland |
-| 407 | 149 | Kimberly Davis |
+| 406 | 149 | Kimberly Davis |
+| 407 | 149 | Logan McFarland |
 | 408 | 148 | Sir-Franchise Drake |
 | 409 | 148 | Dizzy Rackham |
 | 410 | 148 | Nate Price |
