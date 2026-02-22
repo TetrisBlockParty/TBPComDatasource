@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -100,8 +100,8 @@
 | 92 | 389 | Trina Gee |
 | 93 | 383 | Loony Fitzone |
 | 94 | 382 | Jacqueline Williams |
-| 95 | 379 | Austin James |
-| 96 | 379 | Kimmie Kimms |
+| 95 | 379 | Kimmie Kimms |
+| 96 | 379 | Austin James |
 | 97 | 376 | lil mickey |
 | 98 | 374 | Tinah Montanna |
 | 99 | 364 | Shauna Loe |
@@ -220,8 +220,8 @@
 | 212 | 198 | Shiny Gridmatch |
 | 213 | 195 | Bindi |
 | 214 | 195 | Jennifer Olewnik Soborowski |
-| 215 | 194 | Christy Jones |
-| 216 | 194 | Desiree Deschaine Havee |
+| 215 | 194 | Desiree Deschaine Havee |
+| 216 | 194 | Christy Jones |
 | 217 | 193 | Lachelle Dillon |
 | 218 | 193 | Michael |
 | 219 | 191 | Perky Shiftsnap |
@@ -265,8 +265,8 @@
 | 257 | 171 | Greg Premoe |
 | 258 | 171 | David DeSantis |
 | 259 | 170 | Standia Civil |
-| 260 | 170 | Spunky Builderpiece |
-| 261 | 170 | Tina Englert |
+| 260 | 170 | Tina Englert |
+| 261 | 170 | Spunky Builderpiece |
 | 262 | 169 | Abbey Crespo |
 | 263 | 168 | Brave Wrecker |
 | 264 | 168 | Angela Fairbank |
@@ -333,8 +333,8 @@
 | 325 | 133 | MommaKFC |
 | 326 | 132 | John Kim |
 | 327 | 132 | Layzietyme |
-| 328 | 131 | Dizzy Riseclear |
-| 329 | 131 | Plucky Wrecker |
+| 328 | 131 | Plucky Wrecker |
+| 329 | 131 | Dizzy Riseclear |
 | 330 | 130 | Carl Claunch |
 | 331 | 129 | Madison Wicks |
 | 332 | 129 | Sherri E Woods Hess |

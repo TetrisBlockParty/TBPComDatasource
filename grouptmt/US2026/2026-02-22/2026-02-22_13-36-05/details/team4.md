@@ -167,8 +167,8 @@
 | 159 | 250 | Matt Dell'Olio |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | J-Rizzle |
-| 163 | 244 | Twisty Cascadezone |
+| 162 | 244 | Twisty Cascadezone |
+| 163 | 244 | J-Rizzle |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 232 | Crystal Nicolette Moore |
@@ -374,7 +374,7 @@
 | 366 | 116 | Smiley Shifter |
 | 367 | 116 | Kate |
 | 368 | 116 | Bradley Reeves |
-| 369 | 115 | Meg |
+| 369 | 115 | Jayk |
 | 370 | 115 | Kevin Bush |
 | 371 | 115 | Alexandra Karavias |
 | 372 | 115 | Meg |
@@ -437,8 +437,8 @@
 | 429 | 98 | Morti |
 | 430 | 98 | Brenda Bird |
 | 431 | 97 | Brandon Crabbs |
-| 432 | 97 | Serena Butter |
-| 433 | 97 | Cool Gridzone |
+| 432 | 97 | Cool Gridzone |
+| 433 | 97 | Serena Butter |
 | 434 | 96 | Rebecca Blake |
 | 435 | 95 | Susan Williams |
 | 436 | 95 | Jobadia Steelerton |
@@ -454,9 +454,9 @@
 | 446 | 93 | Nicole McMurray |
 | 447 | 93 | Matt Gooder |
 | 448 | 92 | Krash |
-| 449 | 92 | Frilly Blocky |
-| 450 | 92 | bloat princess |
-| 451 | 92 | RogueRebel |
+| 449 | 92 | bloat princess |
+| 450 | 92 | RogueRebel |
+| 451 | 92 | Frilly Blocky |
 | 452 | 91 | Kametsunoyaiba |
 | 453 | 90 | Abigail Murphy |
 | 454 | 90 | Carol Ricks Raymond |
