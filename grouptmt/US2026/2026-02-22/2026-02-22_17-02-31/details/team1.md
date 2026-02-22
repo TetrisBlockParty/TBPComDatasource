@@ -139,18 +139,18 @@
 | 131 | 321 | Maria C. Hernandez |
 | 132 | 320 | Wisa |
 | 133 | 318 | Jessica Sheehan |
-| 134 | 316 | Dizzy Party |
-| 135 | 316 | GATOR |
+| 134 | 316 | GATOR |
+| 135 | 316 | Dizzy Party |
 | 136 | 313 | Virginia Gray Floyd |
 | 137 | 308 | Erin Hodges Plumb |
 | 138 | 308 | Sharon Reynolds |
 | 139 | 307 | Kimberly Garcia |
-| 140 | 306 | Bloknboy |
-| 141 | 306 | Happy Basegrid |
+| 140 | 306 | Happy Basegrid |
+| 141 | 306 | Bloknboy |
 | 142 | 304 | Nicole Roseberry Weber |
 | 143 | 303 | Chelsea Dahlquist |
-| 144 | 301 | Dandy Basegrid |
-| 145 | 301 | Lehrin Maria |
+| 144 | 301 | Lehrin Maria |
+| 145 | 301 | Dandy Basegrid |
 | 146 | 297 | Constance Risner |
 | 147 | 293 | Sarah Roberts |
 | 148 | 292 | David Lutcher |
@@ -172,7 +172,7 @@
 | 164 | 268 | Amanda Jarnagin |
 | 165 | 268 | Christy Jones |
 | 166 | 268 | Shannon Marie Pitts |
-| 167 | 268 | Amanda Jarnagin |
+| 167 | 268 | Jessi Sauer |
 | 168 | 266 | And |
 | 169 | 265 | Nutty Spinblock |
 | 170 | 265 | SkipTheSadSauce |

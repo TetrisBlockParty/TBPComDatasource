@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Shelly Chandler |
-| 40 | 843 | Lucille Truesdale |
+| 39 | 843 | Lucille Truesdale |
+| 40 | 843 | Shelly Chandler |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 831 | Jae Job |
@@ -127,8 +127,8 @@
 | 119 | 369 | Nope Young |
 | 120 | 362 | Carrie Brian |
 | 121 | 354 | Serena Goodridge |
-| 122 | 353 | Livvy |
-| 123 | 353 | Tyler Terrific |
+| 122 | 353 | Tyler Terrific |
+| 123 | 353 | Livvy |
 | 124 | 344 | Lush Linkfall |
 | 125 | 343 | Latisha Davis |
 | 126 | 338 | ThaEviLJeNiuZ |
@@ -215,16 +215,16 @@
 | 207 | 221 | Rheanda Weaskus |
 | 208 | 219 | Malakai Darien Fox |
 | 209 | 217 | Kim Hunt |
-| 210 | 216 | ZeeZee |
-| 211 | 216 | Cristy Duerksen |
+| 210 | 216 | Cristy Duerksen |
+| 211 | 216 | ZeeZee |
 | 212 | 216 | Chance Strickland |
 | 213 | 215 | Ziggy |
 | 214 | 213 | Sarah Neathery |
 | 215 | 212 | Joanna |
 | 216 | 212 | Mike Solo |
 | 217 | 211 | Jenna McGeorge |
-| 218 | 208 | scott |
-| 219 | 208 | Stacey Stano |
+| 218 | 208 | Stacey Stano |
+| 219 | 208 | scott |
 | 220 | 208 | Dizzy Matchzone |
 | 221 | 208 | Oscar Alberto Perez |
 | 222 | 207 | Chirpy Basepiece |
@@ -273,18 +273,18 @@
 | 265 | 166 | SammieJo Guy |
 | 266 | 166 | Jenny Wells-Oakley |
 | 267 | 166 | Megan Cutshaw |
-| 268 | 165 | Brittany Marsh |
-| 269 | 165 | James Hurley Jr. |
+| 268 | 165 | James Hurley Jr. |
+| 269 | 165 | Brittany Marsh |
 | 270 | 165 | Zappy Buildgrid |
 | 271 | 164 | KimoKoala |
 | 272 | 163 | Ellen Durfee |
 | 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | John Brunetti |
 | 275 | 162 | conceptCollector |
-| 276 | 161 | Twisty Risebuilder |
-| 277 | 161 | Tanner Lund |
-| 278 | 159 | Marcus Todd |
-| 279 | 159 | DonMega |
+| 276 | 161 | Tanner Lund |
+| 277 | 161 | Twisty Risebuilder |
+| 278 | 159 | DonMega |
+| 279 | 159 | Marcus Todd |
 | 280 | 157 | Bethany Ison |
 | 281 | 157 | B Renee Desjardin |
 | 282 | 157 | Gracie Ann Taylor |
@@ -446,8 +446,8 @@
 | 438 | 110 | JoAnna Zalkovsky |
 | 439 | 109 | Verna Neal |
 | 440 | 109 | Jessica Miller |
-| 441 | 108 | Hasty Fitzone |
-| 442 | 108 | Walter Beltran |
+| 441 | 108 | Walter Beltran |
+| 442 | 108 | Hasty Fitzone |
 | 443 | 108 | mike |
 | 444 | 108 | Ali Ian |
 | 445 | 107 | Brandi Durig |

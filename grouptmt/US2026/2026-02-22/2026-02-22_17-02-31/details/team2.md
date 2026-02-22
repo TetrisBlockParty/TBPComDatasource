@@ -210,8 +210,8 @@
 | 202 | 998 | Tralonda Weeks |
 | 203 | 993 | Eric Carlson |
 | 204 | 991 | Moose Griffith |
-| 205 | 989 | Teddi Notyalc |
-| 206 | 989 | Desiree Harris Rosch |
+| 205 | 989 | Desiree Harris Rosch |
+| 206 | 989 | Teddi Notyalc |
 | 207 | 988 | Cherica Taylor |
 | 208 | 986 | RAEPR05 |
 | 209 | 979 | Hillary Crawford |
@@ -235,8 +235,8 @@
 | 227 | 919 | Joshua Mandel |
 | 228 | 919 | Isaac Trappiel IV |
 | 229 | 916 | Butta |
-| 230 | 915 | Angela Bonquiqui Dinish |
-| 231 | 915 | Robin Kerby |
+| 230 | 915 | Robin Kerby |
+| 231 | 915 | Angela Bonquiqui Dinish |
 | 232 | 915 | Kelly Trent |
 | 233 | 910 | Shuany Arias |
 | 234 | 907 | Gene Mills |
@@ -255,8 +255,8 @@
 | 247 | 875 | Jamie Otero |
 | 248 | 874 | Giggy Blocker |
 | 249 | 869 | Felicia Lynn |
-| 250 | 867 | Michele Gabriel |
-| 251 | 867 | Peppy Zone |
+| 250 | 867 | Peppy Zone |
+| 251 | 867 | Michele Gabriel |
 | 252 | 862 | Brittany Radaszewski |
 | 253 | 860 | William Hunt |
 | 254 | 860 | April Dawn Gussler |
@@ -269,8 +269,8 @@
 | 261 | 844 | Terri McKelvey McKinley |
 | 262 | 842 | Elizabeth Wilbanks |
 | 263 | 840 | Alyssa Hileman |
-| 264 | 840 | Glitzy Stackzone |
-| 265 | 840 | Mighty Shatterfit |
+| 264 | 840 | Mighty Shatterfit |
+| 265 | 840 | Glitzy Stackzone |
 | 266 | 836 | Ashie Ann |
 | 267 | 835 | Katrina Weston |
 | 268 | 833 | Tim Dyer |
@@ -358,13 +358,13 @@
 | 350 | 665 | Taryece Gause |
 | 351 | 664 | Sleepypanda67 |
 | 352 | 662 | Melissa Rebbe-Lehman |
-| 353 | 661 | goofinoff |
-| 354 | 661 | BeQuo |
-| 355 | 661 | Christine Bollig |
+| 353 | 661 | Christine Bollig |
+| 354 | 661 | goofinoff |
+| 355 | 661 | BeQuo |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
-| 358 | 650 | Amber Brion |
-| 359 | 650 | Shiny Rollzone |
+| 358 | 650 | Shiny Rollzone |
+| 359 | 650 | Amber Brion |
 | 360 | 644 | AgileDragon |
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 641 | Vonceial Boone |
@@ -451,8 +451,8 @@
 | 443 | 540 | Melissa Kay Gibson |
 | 444 | 536 | Caitlin Schmid |
 | 445 | 533 | Gauri Shrotriya |
-| 446 | 531 | Aishah Brice |
-| 447 | 531 | Briana Alexander |
+| 446 | 531 | Briana Alexander |
+| 447 | 531 | Aishah Brice |
 | 448 | 529 | Ben Barkley |
 | 449 | 528 | Anita Rose Green |
 | 450 | 527 | Ryan Gunther |
@@ -505,8 +505,8 @@
 | 497 | 487 | MrsCandyfine As Wine Truss |
 | 498 | 487 | Michael Artis |
 | 499 | 485 | Mamachelle Eisweirth |
-| 500 | 484 | Wendy Unsain |
-| 501 | 484 | Street Sweeper |
+| 500 | 484 | Street Sweeper |
+| 501 | 484 | Wendy Unsain |
 | 502 | 483 | Alezandra Smith |
 | 503 | 482 | Amélie Cadieux |
 | 504 | 482 | Drwatson187 |
@@ -659,11 +659,11 @@
 | 651 | 387 | Bold Brickster |
 | 652 | 385 | Tansaria Couch-Butler |
 | 653 | 384 | Mary Marie |
-| 654 | 384 | Party d |
-| 655 | 384 | Heather Johnson |
-| 656 | 384 | Kelly |
+| 654 | 384 | Kelly |
+| 655 | 384 | Party d |
+| 656 | 384 | Heather Johnson |
 | 657 | 384 | Lawanda Forbes |
-| 658 | 382 | James Zaragoza |
+| 658 | 382 | Austin Wilson |
 | 659 | 382 | Amber Gray |
 | 660 | 382 | James Zaragoza |
 | 661 | 382 | David Holliday |
@@ -716,8 +716,8 @@
 | 708 | 356 | Kelsey Sullivan |
 | 709 | 356 | Shorty |
 | 710 | 355 | Mike73 |
-| 711 | 354 | Rachel Kaminski |
-| 712 | 354 | Rickey Johnson |
+| 711 | 354 | Rickey Johnson |
+| 712 | 354 | Rachel Kaminski |
 | 713 | 353 | Anthony D Gritz Jr |
 | 714 | 352 | Savannah Alexander |
 | 715 | 352 | Jean FU Jagielski |
@@ -736,8 +736,8 @@
 | 728 | 346 | Danielle Ayoub |
 | 729 | 345 | Rhianna DiLorenzo |
 | 730 | 345 | Gina Caulder |
-| 731 | 344 | Glenn Cobbins |
-| 732 | 344 | Sarah block |
+| 731 | 344 | Sarah block |
+| 732 | 344 | Glenn Cobbins |
 | 733 | 344 | stacey |
 | 734 | 343 | Cris cris |
 | 735 | 343 | Snappy Shatterfit |
