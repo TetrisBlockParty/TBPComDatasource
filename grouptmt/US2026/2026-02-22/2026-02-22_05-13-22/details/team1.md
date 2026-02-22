@@ -65,8 +65,8 @@
 | 57 | 495 | Sevens4L |
 | 58 | 491 | Sarah Lombardo |
 | 59 | 483 | Ryan Lunnin |
-| 60 | 458 | Kellie |
-| 61 | 458 | April Carroll |
+| 60 | 458 | April Carroll |
+| 61 | 458 | Kellie |
 | 62 | 449 | Lola Adkhambekovna |
 | 63 | 444 | Evie Khalil |
 | 64 | 441 | Robert Benito |
@@ -129,15 +129,15 @@
 | 121 | 276 | Dandy Basegrid |
 | 122 | 266 | Jason Jones |
 | 123 | 265 | SkipTheSadSauce |
-| 124 | 264 | Jenny Gingrich Fuentes |
-| 125 | 264 | Lexuriuos Lifestlye |
+| 124 | 264 | Lexuriuos Lifestlye |
+| 125 | 264 | Jenny Gingrich Fuentes |
 | 126 | 263 | Sharon Reynolds |
 | 127 | 256 | David Miller |
 | 128 | 252 | Dena Kayy |
 | 129 | 252 | Elaine Elaine |
 | 130 | 249 | Kimmie Kimms |
-| 131 | 248 | Hasbro Bros |
-| 132 | 248 | Lori Bales |
+| 131 | 248 | Lori Bales |
+| 132 | 248 | Hasbro Bros |
 | 133 | 247 | Tana |
 | 134 | 243 | Trippy Redd |
 | 135 | 243 | Chelsea Dahlquist |
@@ -233,11 +233,11 @@
 | 225 | 152 | Tavia |
 | 226 | 152 | Strig |
 | 227 | 152 | Brave Wrecker |
-| 228 | 150 | Agustin Duarte Orozco |
-| 229 | 150 | Adele Rahman |
+| 228 | 150 | Adele Rahman |
+| 229 | 150 | Agustin Duarte Orozco |
 | 230 | 149 | Chirpy Smasher |
-| 231 | 147 | J.F. Fields |
-| 232 | 147 | Davery Spencer Adair |
+| 231 | 147 | Davery Spencer Adair |
+| 232 | 147 | J.F. Fields |
 | 233 | 146 | Witty Builderfit |
 | 234 | 145 | Tipsy Riseclear |
 | 235 | 144 | Gary Gobin |
@@ -257,8 +257,8 @@
 | 249 | 138 | Hector Cruz |
 | 250 | 138 | Giddy Cascade |
 | 251 | 137 | Jo Kerley |
-| 252 | 137 | Cody Gates |
-| 253 | 137 | Marci Sanders |
+| 252 | 137 | Marci Sanders |
+| 253 | 137 | Cody Gates |
 | 254 | 136 | Jessie |
 | 255 | 136 | Breanna Luna |
 | 256 | 133 | Jamie Jury |
@@ -306,7 +306,7 @@
 | 298 | 111 | Damon J. Martin |
 | 299 | 110 | Brave Slice |
 | 300 | 110 | Jodee Woods |
-| 301 | 110 | Jen |
+| 301 | 110 | Dandy Towerbuilder |
 | 302 | 110 | Loony Fitzone |
 | 303 | 110 | Jen |
 | 304 | 109 | MommaKFC |

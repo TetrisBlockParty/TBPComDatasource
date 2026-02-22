@@ -111,8 +111,8 @@
 | 103 | 506 | Sashay Tapae Simpson |
 | 104 | 503 | Susan Valentino |
 | 105 | 502 | Justin Ritter |
-| 106 | 500 | Domo Washington |
-| 107 | 500 | Kristie |
+| 106 | 500 | Kristie |
+| 107 | 500 | Domo Washington |
 | 108 | 497 | Mykal Burton |
 | 109 | 492 | Daira Largen |
 | 110 | 491 | Chauntee Alfrey-Cardinale |
@@ -138,8 +138,8 @@
 | 130 | 407 | Louise Stacy Sisson |
 | 131 | 407 | Joye Sims Binion |
 | 132 | 405 | Michelle |
-| 133 | 403 | Scott Lindsay |
-| 134 | 403 | Christine Filson |
+| 133 | 403 | Christine Filson |
+| 134 | 403 | Scott Lindsay |
 | 135 | 402 | Shannon Matthew Byers |
 | 136 | 400 | Luciana Braganca Vieira |
 | 137 | 399 | Mcathen |
@@ -165,8 +165,8 @@
 | 157 | 362 | Darlene McMillan |
 | 158 | 359 | Dapper Snap |
 | 159 | 355 | Tessina Dewey-Mancino |
-| 160 | 353 | Shunta Jacobs |
-| 161 | 353 | CeceGeGe |
+| 160 | 353 | CeceGeGe |
+| 161 | 353 | Shunta Jacobs |
 | 162 | 352 | Chris Bell |
 | 163 | 351 | Tom Nault |
 | 164 | 348 | Chasity |
@@ -443,9 +443,9 @@
 | 435 | 116 | TazB |
 | 436 | 116 | Jason-Ashley Ludlow |
 | 437 | 116 | Niki Dalrymple |
-| 438 | 115 | Whitney Manuel |
+| 438 | 115 | Brave Brickster |
 | 439 | 115 | FATTY |
-| 440 | 115 | Brave Brickster |
+| 440 | 115 | Whitney Manuel |
 | 441 | 114 | Elizabeth Renee |
 | 442 | 114 | Dapper Towerfit |
 | 443 | 113 | Gideon Walker |

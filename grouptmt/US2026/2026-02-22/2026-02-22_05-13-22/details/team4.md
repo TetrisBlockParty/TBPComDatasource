@@ -109,8 +109,8 @@
 | 101 | 303 | Lauren Scott |
 | 102 | 300 | Jason Hart |
 | 103 | 298 | Lucas J Sutton |
-| 104 | 296 | HastyGrabber |
-| 105 | 296 | Justin Hannigan |
+| 104 | 296 | Justin Hannigan |
+| 105 | 296 | HastyGrabber |
 | 106 | 295 | Latisha Davis |
 | 107 | 294 | Kesha Brady |
 | 108 | 288 | Leslie Nicole |
@@ -146,8 +146,8 @@
 | 138 | 224 | Matt Summer |
 | 139 | 223 | Antony Dwayne Beasley |
 | 140 | 222 | Joeliecea Cobb |
-| 141 | 221 | PurpleMoonMa |
-| 142 | 221 | Rheanda Weaskus |
+| 141 | 221 | Rheanda Weaskus |
+| 142 | 221 | PurpleMoonMa |
 | 143 | 220 | Matt Dell'Olio |
 | 144 | 218 | Casey Grabner |
 | 145 | 217 | Swanky Fitline |

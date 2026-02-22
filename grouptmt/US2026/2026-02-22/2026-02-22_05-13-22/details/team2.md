@@ -120,8 +120,8 @@
 | 112 | 1252 | Katrina Williams Balmir |
 | 113 | 1248 | Howard Forest |
 | 114 | 1242 | Altamirano Michael |
-| 115 | 1232 | Groovy Puzzle |
-| 116 | 1232 | Isabela Shaw |
+| 115 | 1232 | Isabela Shaw |
+| 116 | 1232 | Groovy Puzzle |
 | 117 | 1226 | Vo'Landa Reels |
 | 118 | 1216 | Kristin Ruest |
 | 119 | 1215 | Megan Garrick |
@@ -225,8 +225,8 @@
 | 217 | 777 | Jessicah Myers |
 | 218 | 777 | Eric Carlson |
 | 219 | 771 | Terri McKelvey McKinley |
-| 220 | 765 | Stephen Stephen |
-| 221 | 765 | Jodi Blake |
+| 220 | 765 | Jodi Blake |
+| 221 | 765 | Stephen Stephen |
 | 222 | 763 | Samantha Jo |
 | 223 | 761 | Lisa Ongtowasruk |
 | 224 | 756 | Stephanie Neuburger |
@@ -312,8 +312,8 @@
 | 304 | 589 | Thomas Hedrick |
 | 305 | 589 | Shavonna Haynes |
 | 306 | 582 | Gary Stash |
-| 307 | 579 | Juliana Marques Do Nascimento Gordy |
-| 308 | 579 | Roy Salyer |
+| 307 | 579 | Roy Salyer |
+| 308 | 579 | Juliana Marques Do Nascimento Gordy |
 | 309 | 576 | Ginger |
 | 310 | 574 | Steven Marshaun |
 | 311 | 572 | Chris Wanner |
