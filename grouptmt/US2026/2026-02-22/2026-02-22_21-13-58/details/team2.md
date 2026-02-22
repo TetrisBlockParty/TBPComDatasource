@@ -318,8 +318,8 @@
 | 310 | 796 | Angie Bolton Workman |
 | 311 | 790 | Brenda Pierpoint |
 | 312 | 790 | Jackie Lucas |
-| 313 | 787 | Laura McCarthey |
-| 314 | 787 | Lisa Ongtowasruk |
+| 313 | 787 | Lisa Ongtowasruk |
+| 314 | 787 | Laura McCarthey |
 | 315 | 782 | Beth |
 | 316 | 781 | Hong Tang |
 | 317 | 778 | Lola Contreras |
@@ -328,8 +328,8 @@
 | 320 | 777 | Samantha Jo |
 | 321 | 774 | Ashley Dow |
 | 322 | 774 | Ginnell Browner |
-| 323 | 773 | Diana Fitzwater |
-| 324 | 773 | Heather Schelkopf |
+| 323 | 773 | Heather Schelkopf |
+| 324 | 773 | Diana Fitzwater |
 | 325 | 770 | Danielle Simmons |
 | 326 | 768 | Michele Morgan |
 | 327 | 767 | Ashley Lopez |
@@ -411,11 +411,11 @@
 | 403 | 643 | Hoppy Brickmatch |
 | 404 | 642 | Arkei Luster |
 | 405 | 642 | Cassie Maynard |
-| 406 | 640 | Crystie Hicks |
-| 407 | 640 | BYM4L |
+| 406 | 640 | BYM4L |
+| 407 | 640 | Crystie Hicks |
 | 408 | 640 | Gary Stash |
-| 409 | 639 | Rebecca Miller |
-| 410 | 639 | Steven Marshaun |
+| 409 | 639 | Steven Marshaun |
+| 410 | 639 | Rebecca Miller |
 | 411 | 639 | Melissa Penelope Ann Dodge |
 | 412 | 635 | Dennis McLaurin |
 | 413 | 630 | Brittney Jean |
@@ -730,8 +730,8 @@
 | 722 | 385 | Tansaria Couch-Butler |
 | 723 | 385 | DefaultUser |
 | 724 | 384 | Lawanda Forbes |
-| 725 | 384 | Kelly |
-| 726 | 384 | Shea Edison |
+| 725 | 384 | Shea Edison |
+| 726 | 384 | Kelly |
 | 727 | 384 | Party d |
 | 728 | 383 | Chummy Blockbuilder |
 | 729 | 383 | Loony Basepiece |
@@ -823,8 +823,8 @@
 | 815 | 347 | Jason Garnatz |
 | 816 | 346 | bru |
 | 817 | 346 | Zappy Dropmatch |
-| 818 | 345 | Rhianna DiLorenzo |
-| 819 | 345 | Jennie Lee Huntley |
+| 818 | 345 | Jennie Lee Huntley |
+| 819 | 345 | Rhianna DiLorenzo |
 | 820 | 344 | Glenn Cobbins |
 | 821 | 344 | Kelsey |
 | 822 | 343 | Timothy Jesuwole |

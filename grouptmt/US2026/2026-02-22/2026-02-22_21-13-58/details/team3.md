@@ -214,8 +214,8 @@
 | 206 | 378 | Chris Bell |
 | 207 | 377 | Darlene McMillan |
 | 208 | 376 | Loopy Clusterer |
-| 209 | 372 | Rich LeBlanc |
-| 210 | 372 | Giddy Twistbuilder |
+| 209 | 372 | Giddy Twistbuilder |
+| 210 | 372 | Rich LeBlanc |
 | 211 | 369 | Sarah Moyer |
 | 212 | 368 | Stephanie Woods |
 | 213 | 367 | RickyG |

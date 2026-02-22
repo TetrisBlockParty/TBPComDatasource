@@ -82,8 +82,8 @@
 | 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Jason Hart |
-| 78 | 617 | Savannah Overdorf |
+| 77 | 617 | Savannah Overdorf |
+| 78 | 617 | Jason Hart |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -99,8 +99,8 @@
 | 91 | 539 | Chris Baggett |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | YoMomma |
-| 95 | 513 | Erin Thomas |
+| 94 | 513 | Erin Thomas |
+| 95 | 513 | YoMomma |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 501 | Zippy Gridlock |
@@ -161,8 +161,8 @@
 | 153 | 321 | Klo |
 | 154 | 320 | Lauren Scott |
 | 155 | 316 | Meagan Nicole |
-| 156 | 314 | 🥔🥔 Spudz |
-| 157 | 314 | Andy Cabral |
+| 156 | 314 | Andy Cabral |
+| 157 | 314 | 🥔🥔 Spudz |
 | 158 | 312 | Rafael Valentin |
 | 159 | 311 | Kristina Black |
 | 160 | 308 | Jeff Brian Gates |
@@ -170,8 +170,8 @@
 | 162 | 307 | Bio Nelly |
 | 163 | 307 | TRCuse |
 | 164 | 303 | shark tato |
-| 165 | 301 | Crystal Nicolette Moore |
-| 166 | 301 | Andria Lynn |
+| 165 | 301 | Andria Lynn |
+| 166 | 301 | Crystal Nicolette Moore |
 | 167 | 300 | Dana Scott |
 | 168 | 295 | Cursed Hag |
 | 169 | 294 | Calvin Cannon |
@@ -201,8 +201,8 @@
 | 193 | 266 | Laura |
 | 194 | 265 | J-Rizzle |
 | 195 | 264 | Epic Curvetile |
-| 196 | 262 | Holly Jolly |
-| 197 | 262 | Joeliecea Cobb |
+| 196 | 262 | Joeliecea Cobb |
+| 197 | 262 | Holly Jolly |
 | 198 | 261 | scott |
 | 199 | 260 | Sue Joyce Staats |
 | 200 | 259 | Melvin Baird |
