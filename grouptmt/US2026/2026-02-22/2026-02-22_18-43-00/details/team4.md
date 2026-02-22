@@ -142,8 +142,8 @@
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Kris Bartlett |
-| 138 | 328 | Leslie Nicole |
+| 137 | 328 | Leslie Nicole |
+| 138 | 328 | Kris Bartlett |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -255,8 +255,8 @@
 | 247 | 198 | Silly SeaWeed |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | 中山成巳 |
-| 251 | 195 | Snippy Puzzle |
+| 250 | 195 | Snippy Puzzle |
+| 251 | 195 | 中山成巳 |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |
@@ -341,8 +341,8 @@
 | 333 | 147 | ĥuf |
 | 334 | 147 | Jay28 |
 | 335 | 146 | Brave Spinbuilder |
-| 336 | 145 | Sandra Safford |
-| 337 | 145 | Glitzy Crasher |
+| 336 | 145 | Glitzy Crasher |
+| 337 | 145 | Sandra Safford |
 | 338 | 144 | Squeezy Pearsall |
 | 339 | 143 | Metsfan |
 | 340 | 143 | Daresha Fair |
@@ -417,8 +417,8 @@
 | 409 | 123 | Sunny Filler |
 | 410 | 123 | Jennifer Perkins |
 | 411 | 122 | Spicy Cascadezone |
-| 412 | 122 | Blessedmama |
-| 413 | 122 | PennyCandee |
+| 412 | 122 | PennyCandee |
+| 413 | 122 | Blessedmama |
 | 414 | 122 | Kate |
 | 415 | 121 | Cool Gridzone |
 | 416 | 121 | Riverdale |

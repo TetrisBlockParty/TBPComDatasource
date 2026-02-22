@@ -155,8 +155,8 @@
 | 147 | 1297 | Maegan Beaule |
 | 148 | 1296 | Kristin Ruest |
 | 149 | 1290 | Bussyiano Page |
-| 150 | 1286 | Eileen Hale |
-| 151 | 1286 | Altamirano Michael |
+| 150 | 1286 | Altamirano Michael |
+| 151 | 1286 | Eileen Hale |
 | 152 | 1282 | Ashley Rose Frederick |
 | 153 | 1282 | Tanya Parsons |
 | 154 | 1273 | Cool Rollpiece |
@@ -165,8 +165,8 @@
 | 157 | 1242 | Mischelle Clay |
 | 158 | 1232 | Groovy Puzzle |
 | 159 | 1230 | Megan Garrick |
-| 160 | 1226 | Vo'Landa Reels |
-| 161 | 1226 | Brandy Andre |
+| 160 | 1226 | Brandy Andre |
+| 161 | 1226 | Vo'Landa Reels |
 | 162 | 1216 | Nancy Reid |
 | 163 | 1211 | Lucky Ladybug |
 | 164 | 1203 | Suki Kaur |
