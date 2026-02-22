@@ -126,8 +126,8 @@
 | 118 | 344 | Bhelle Sumile |
 | 119 | 343 | Death |
 | 120 | 342 | Brenda Stewart |
-| 121 | 341 | Nick R Montague |
-| 122 | 341 | David Miller |
+| 121 | 341 | David Miller |
+| 122 | 341 | Nick R Montague |
 | 123 | 334 | Jaimie Lynn |
 | 124 | 333 | Gracie |
 | 125 | 332 | Kristen Gideon |
@@ -180,8 +180,8 @@
 | 172 | 264 | Brian Richardsson |
 | 173 | 263 | Ty Brown |
 | 174 | 261 | Witty Builderfit |
-| 175 | 254 | Letson Melissa |
-| 176 | 254 | Al Smith Jr |
+| 175 | 254 | Al Smith Jr |
+| 176 | 254 | Letson Melissa |
 | 177 | 253 | Jamie Jury |
 | 178 | 252 | Billie Dawn Sparks |
 | 179 | 252 | Dena Kayy |
@@ -219,8 +219,8 @@
 | 211 | 220 | Jessie Lynn |
 | 212 | 219 | Chuck Gannon |
 | 213 | 216 | Shauntina Burke |
-| 214 | 215 | Panda Thagreat |
-| 215 | 215 | Standia Civil |
+| 214 | 215 | Standia Civil |
+| 215 | 215 | Panda Thagreat |
 | 216 | 215 | Shaykmia |
 | 217 | 214 | Michael |
 | 218 | 213 | Shanae Grant |

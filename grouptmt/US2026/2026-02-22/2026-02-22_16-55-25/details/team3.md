@@ -214,8 +214,8 @@
 | 206 | 346 | Tamara Deherrera |
 | 207 | 344 | Trisha Balmer |
 | 208 | 343 | Ashley Raines |
-| 209 | 341 | Noyb Adam |
-| 210 | 341 | Samantha Lynn |
+| 209 | 341 | Samantha Lynn |
+| 210 | 341 | Noyb Adam |
 | 211 | 340 | Ammmmmmy |
 | 212 | 338 | Gumbo |
 | 213 | 332 | Rich LeBlanc |
@@ -259,8 +259,8 @@
 | 251 | 282 | Angie Harper |
 | 252 | 281 | Carrie Huskey |
 | 253 | 280 | Terry Jo Jones |
-| 254 | 278 | Rufus Lincoln |
-| 255 | 278 | Sabrina Hardrick |
+| 254 | 278 | Sabrina Hardrick |
+| 255 | 278 | Rufus Lincoln |
 | 256 | 277 | Tracy Martin |
 | 257 | 276 | Crimson |
 | 258 | 276 | _melisa223_ |
@@ -299,8 +299,8 @@
 | 291 | 240 | Jimmie Clemons |
 | 292 | 238 | Niki Dalrymple |
 | 293 | 236 | Angela Scott |
-| 294 | 236 | Jess Bissett |
-| 295 | 236 | Lys |
+| 294 | 236 | Lys |
+| 295 | 236 | Jess Bissett |
 | 296 | 233 | Tony Waters |
 | 297 | 232 | Donna |
 | 298 | 231 | Kiki |
@@ -308,8 +308,8 @@
 | 300 | 229 | Kevin Russell |
 | 301 | 228 | Naur |
 | 302 | 227 | Rebel124 |
-| 303 | 227 | ROODBOY |
-| 304 | 227 | Meowsa |
+| 303 | 227 | Meowsa |
+| 304 | 227 | ROODBOY |
 | 305 | 226 | Jana Polk |
 | 306 | 225 | Stephanie Hill |
 | 307 | 225 | Dirtgirl27 |
@@ -376,9 +376,9 @@
 | 368 | 193 | Clever Shiftsnap |
 | 369 | 193 | BŘŰŤİÇŨŚ |
 | 370 | 193 | Loopy Fallzone |
-| 371 | 192 | Katrina E Jelks |
+| 371 | 192 | Kelly Ann Child |
 | 372 | 192 | Melanie Sherwood |
-| 373 | 192 | Kelly Ann Child |
+| 373 | 192 | Katrina E Jelks |
 | 374 | 191 | Becca Engle |
 | 375 | 191 | Rainbow77375 |
 | 376 | 190 | Willow |

@@ -144,8 +144,8 @@
 | 136 | 319 | Guy Incognito |
 | 137 | 318 | Lauren Scott |
 | 138 | 314 | Andy Cabral |
-| 139 | 307 | Bio Nelly |
-| 140 | 307 | Angela Srubar-Norman |
+| 139 | 307 | Angela Srubar-Norman |
+| 140 | 307 | Bio Nelly |
 | 141 | 300 | Jason Hart |
 | 142 | 300 | Dana Scott |
 | 143 | 299 | TRCuse |
@@ -251,7 +251,7 @@
 | 243 | 186 | Holly |
 | 244 | 185 | Stephme310 |
 | 245 | 185 | Laura Hosford |
-| 246 | 184 | Chair |
+| 246 | 184 | Lauren Lamb |
 | 247 | 184 | Ak Jones |
 | 248 | 184 | Chair |
 | 249 | 183 | JPW |
@@ -421,9 +421,9 @@
 | 413 | 116 | Funky Risepiece |
 | 414 | 115 | Alexandra Karavias |
 | 415 | 115 | Susan Williams |
-| 416 | 115 | Kujuanna Hammon |
+| 416 | 115 | Jayk |
 | 417 | 115 | Kevin Bush |
-| 418 | 115 | Jayk |
+| 418 | 115 | Kujuanna Hammon |
 | 419 | 114 | Jason Frehner |
 | 420 | 114 | Rosemary Foster |
 | 421 | 113 | Peppy Strike |
@@ -518,10 +518,10 @@
 | 510 | 90 | Abigail Murphy |
 | 511 | 89 | Shiny Fit |
 | 512 | 89 | Jonathan Mahfood |
-| 513 | 88 | Joe Lonnemann |
-| 514 | 88 | Eric Wren |
-| 515 | 88 | Renee Marshall |
-| 516 | 88 | April Spoelma |
+| 513 | 88 | Eric Wren |
+| 514 | 88 | Renee Marshall |
+| 515 | 88 | April Spoelma |
+| 516 | 88 | Joe Lonnemann |
 | 517 | 88 | Chao Ma |
 | 518 | 87 | Derek Pendarvis |
 | 519 | 87 | Martha Lucinda Bishop |
