@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | Stef Hu |
-| 57 | 746 | TSwag |
+| 56 | 746 | TSwag |
+| 57 | 746 | Stef Hu |
 | 58 | 738 | Michelle Nicole |
 | 59 | 720 | Zippy Align |
 | 60 | 716 | Marianne Louise West |
@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Debbie Kane |
-| 206 | 267 | Cody Gates |
+| 205 | 267 | Cody Gates |
+| 206 | 267 | Debbie Kane |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jenny Gingrich Fuentes |
@@ -230,8 +230,8 @@
 | 222 | 247 | John J. Cronin |
 | 223 | 245 | Matt Iaccheo |
 | 224 | 245 | MRdot Rooski |
-| 225 | 244 | Marianita Garcia |
-| 226 | 244 | Eddie Dillon |
+| 225 | 244 | Eddie Dillon |
+| 226 | 244 | Marianita Garcia |
 | 227 | 244 | LaFontaine Leslie |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
@@ -360,9 +360,9 @@
 | 352 | 169 | Davery Spencer Adair |
 | 353 | 169 | Ward Leandrea |
 | 354 | 169 | Abbey Crespo |
-| 355 | 169 | Davery Spencer Adair |
-| 356 | 168 | Test |
-| 357 | 168 | Amber Dee |
+| 355 | 169 | Allena Craft |
+| 356 | 168 | Amber Dee |
+| 357 | 168 | Test |
 | 358 | 167 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 359 | 166 | Sylvia Vasquez |
 | 360 | 166 | Glitzy Curvebuilder |

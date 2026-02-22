@@ -265,8 +265,8 @@
 | 257 | 957 | Keri Womack |
 | 258 | 957 | Block Master |
 | 259 | 957 | Crystal Hoffman |
-| 260 | 955 | Angela Bonquiqui Dinish |
-| 261 | 955 | Kevin Walp |
+| 260 | 955 | Kevin Walp |
+| 261 | 955 | Angela Bonquiqui Dinish |
 | 262 | 951 | Cynthia Ward |
 | 263 | 941 | Glitzy Stackzone |
 | 264 | 941 | Cool Clearer |
@@ -382,8 +382,8 @@
 | 374 | 728 | Tom Riefer |
 | 375 | 725 | Vonceial Boone |
 | 376 | 724 | goofinoff |
-| 377 | 724 | Dreamy Blast |
-| 378 | 724 | Melissa Holsinger |
+| 377 | 724 | Melissa Holsinger |
+| 378 | 724 | Dreamy Blast |
 | 379 | 723 | Leslie Ann Carter |
 | 380 | 719 | Melissa Penelope Ann Dodge |
 | 381 | 716 | Arkei Luster |
