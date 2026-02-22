@@ -161,8 +161,8 @@
 | 153 | 800 | Tacara Cummings |
 | 154 | 792 | Jumpy Gridpiece |
 | 155 | 791 | Chirpy Staggerpiece |
-| 156 | 789 | James Simms III |
-| 157 | 789 | Stephanie Chapman |
+| 156 | 789 | Stephanie Chapman |
+| 157 | 789 | James Simms III |
 | 158 | 787 | Laura McCarthey |
 | 159 | 785 | YiFei |
 | 160 | 780 | Amanda Grohmann |
@@ -289,10 +289,10 @@
 | 281 | 504 | Cherica Taylor |
 | 282 | 503 | Matt Johnson |
 | 283 | 502 | Magic steve |
-| 284 | 502 | Sparkles |
-| 285 | 502 | Poppy Snap |
-| 286 | 500 | Sarah Ridenour |
-| 287 | 500 | Glitzy Stackzone |
+| 284 | 502 | Poppy Snap |
+| 285 | 502 | Sparkles |
+| 286 | 500 | Glitzy Stackzone |
+| 287 | 500 | Sarah Ridenour |
 | 288 | 500 | Em Chen |
 | 289 | 499 | Alisa Lamb |
 | 290 | 497 | Jeremy Parodi |

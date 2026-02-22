@@ -117,21 +117,21 @@
 | 109 | 394 | joclisa |
 | 110 | 392 | Michelle |
 | 111 | 391 | Calista Jo Dickson |
-| 112 | 390 | Hasty Cascadefit |
-| 113 | 390 | Patti Skiles |
+| 112 | 390 | Patti Skiles |
+| 113 | 390 | Hasty Cascadefit |
 | 114 | 389 | FuzzyNavel |
 | 115 | 389 | Jessica Bechler |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
-| 118 | 378 | Tasha Schriewer |
-| 119 | 378 | Makelini Mausia |
+| 118 | 378 | Makelini Mausia |
+| 119 | 378 | Tasha Schriewer |
 | 120 | 377 | Jesse Olive |
 | 121 | 368 | Stephanie Woods |
 | 122 | 368 | Stephanie Blkpep Davidson |
 | 123 | 367 | mjl574 |
 | 124 | 366 | Adrian Marcel Pate |
-| 125 | 355 | Tessina Dewey-Mancino |
-| 126 | 355 | Sherry Ogden |
+| 125 | 355 | Sherry Ogden |
+| 126 | 355 | Tessina Dewey-Mancino |
 | 127 | 348 | CeceGeGe |
 | 128 | 348 | Loopy Clusterer |
 | 129 | 347 | Darlene McMillan |
@@ -150,13 +150,13 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Jacqueline Rodriguez |
-| 146 | 286 | Marci Mize Fandrich |
+| 145 | 286 | Marci Mize Fandrich |
+| 146 | 286 | Jacqueline Rodriguez |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |
-| 150 | 272 | rnr junky |
-| 151 | 272 | opf |
+| 150 | 272 | opf |
+| 151 | 272 | rnr junky |
 | 152 | 271 | Ashley Muncey |
 | 153 | 271 | Leah Barnett |
 | 154 | 267 | Denise Nardoni |
@@ -197,9 +197,9 @@
 | 189 | 215 | Araceli Parra |
 | 190 | 214 | Amy Fuller Heaton |
 | 191 | 214 | Jenny Hrndz |
-| 192 | 211 | Giddy Twistbuilder |
-| 193 | 211 | Khaleada McGill Banks |
-| 194 | 211 | Katrina Turner |
+| 192 | 211 | Katrina Turner |
+| 193 | 211 | Giddy Twistbuilder |
+| 194 | 211 | Khaleada McGill Banks |
 | 195 | 210 | Michael Lucado |
 | 196 | 209 | Twisty Brick LT |
 | 197 | 207 | Jessica |
@@ -226,8 +226,8 @@
 | 218 | 189 | Sissy Lowery Davis |
 | 219 | 188 | JerseyJess |
 | 220 | 186 | Aerian Preston |
-| 221 | 186 | Hyper Matchzone |
-| 222 | 186 | Sunny Rotater |
+| 221 | 186 | Sunny Rotater |
+| 222 | 186 | Hyper Matchzone |
 | 223 | 184 | Troy |
 | 224 | 183 | Ashley Jones |
 | 225 | 181 | Nicholas Roddy |
@@ -284,9 +284,9 @@
 | 276 | 148 | Gumbo |
 | 277 | 148 | Carrie Huskey |
 | 278 | 147 | Ashley Lynn Marchese |
-| 279 | 146 | Tony Waters |
-| 280 | 146 | Ava Petito |
-| 281 | 146 | Rachel |
+| 279 | 146 | Rachel |
+| 280 | 146 | Tony Waters |
+| 281 | 146 | Ava Petito |
 | 282 | 145 | Bryan Byrd |
 | 283 | 144 | fraulila |
 | 284 | 144 | Tenisha Semidey |

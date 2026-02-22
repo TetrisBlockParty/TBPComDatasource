@@ -113,8 +113,8 @@
 | 105 | 255 | Lindsay Ball |
 | 106 | 250 | Dustee Craddock-Harrison |
 | 107 | 230 | Daria Rycewicz |
-| 108 | 230 | Autum Leigh |
-| 109 | 230 | Lucas J Sutton |
+| 108 | 230 | Lucas J Sutton |
+| 109 | 230 | Autum Leigh |
 | 110 | 222 | Joeliecea Cobb |
 | 111 | 221 | Alyssa Papen |
 | 112 | 218 | Antony Dwayne Beasley |
@@ -143,8 +143,8 @@
 | 135 | 189 | Calvin Dennis |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Andy Cabral |
-| 139 | 185 | Malakai Darien Fox |
+| 138 | 185 | Malakai Darien Fox |
+| 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Carter Jones |
 | 142 | 181 | Klo |
