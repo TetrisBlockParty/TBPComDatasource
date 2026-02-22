@@ -122,8 +122,8 @@
 | 114 | 410 | Stephanie Simpson |
 | 115 | 405 | Michelle |
 | 116 | 404 | joclisa |
-| 117 | 403 | Christine Filson |
-| 118 | 403 | FuzzyNavel |
+| 117 | 403 | FuzzyNavel |
+| 118 | 403 | Christine Filson |
 | 119 | 400 | Luciana Braganca Vieira |
 | 120 | 399 | Shannon Matthew Byers |
 | 121 | 399 | Patti Skiles |
@@ -134,8 +134,8 @@
 | 126 | 391 | Calista Jo Dickson |
 | 127 | 390 | Hasty Cascadefit |
 | 128 | 386 | Katie Knaus |
-| 129 | 378 | Tasha Schriewer |
-| 130 | 378 | Makelini Mausia |
+| 129 | 378 | Makelini Mausia |
+| 130 | 378 | Tasha Schriewer |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
@@ -143,8 +143,8 @@
 | 135 | 368 | Stephanie Woods |
 | 136 | 366 | Adrian Marcel Pate |
 | 137 | 365 | Logan Naccarato |
-| 138 | 355 | Tessina Dewey-Mancino |
-| 139 | 355 | Sherry Ogden |
+| 138 | 355 | Sherry Ogden |
+| 139 | 355 | Tessina Dewey-Mancino |
 | 140 | 353 | Louise Stacy Sisson |
 | 141 | 350 | Darlene McMillan |
 | 142 | 348 | CeceGeGe |

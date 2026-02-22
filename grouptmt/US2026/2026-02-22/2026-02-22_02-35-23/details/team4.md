@@ -56,8 +56,8 @@
 | 48 | 594 | Ancient Intuition |
 | 49 | 590 | Valerie Roberts |
 | 50 | 555 | Clarence Patawaran |
-| 51 | 546 | Kimberly Love |
-| 52 | 546 | Savannah Overdorf |
+| 51 | 546 | Savannah Overdorf |
+| 52 | 546 | Kimberly Love |
 | 53 | 526 | Goatimus Lombardi |
 | 54 | 518 | Carolyn Wallace |
 | 55 | 512 | Casey Jeffcoat |
@@ -76,8 +76,8 @@
 | 68 | 409 | Isabella Blanco |
 | 69 | 402 | Courtney Cicoria |
 | 70 | 399 | Jenna Ingersoll |
-| 71 | 396 | Amy Suckarieh |
-| 72 | 396 | Alicia Bass |
+| 71 | 396 | Alicia Bass |
+| 72 | 396 | Amy Suckarieh |
 | 73 | 391 | Ramel Rhodes |
 | 74 | 390 | Carlton Unfiltered |
 | 75 | 388 | YoMomma |
@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -144,8 +144,8 @@
 | 136 | 212 | Calvin Cannon |
 | 137 | 211 | Twisty Cascadezone |
 | 138 | 210 | Swanky Fitline |
-| 139 | 205 | Sarah Neathery |
-| 140 | 205 | Tyler Terrific |
+| 139 | 205 | Tyler Terrific |
+| 140 | 205 | Sarah Neathery |
 | 141 | 204 | Jen Caldwell |
 | 142 | 203 | Katherine Crane |
 | 143 | 201 | Melvin Baird |

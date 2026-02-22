@@ -361,8 +361,8 @@
 | 353 | 459 | Cassie Mercer |
 | 354 | 459 | Brainy Smurf |
 | 355 | 458 | Casper The Chonk |
-| 356 | 454 | Nashu |
-| 357 | 454 | Casey Schumacher |
+| 356 | 454 | Casey Schumacher |
+| 357 | 454 | Nashu |
 | 358 | 453 | Rhonda Petro |
 | 359 | 453 | Joshua Sommerville |
 | 360 | 452 | Alezandra Smith |
@@ -388,8 +388,8 @@
 | 380 | 437 | Arwa Fatimah |
 | 381 | 436 | Snippy Rumbler |
 | 382 | 435 | Regina Young |
-| 383 | 433 | Victor Obiakarije |
-| 384 | 433 | Caitlin Schmid |
+| 383 | 433 | Caitlin Schmid |
+| 384 | 433 | Victor Obiakarije |
 | 385 | 432 | Spunkysmom |
 | 386 | 432 | Lucy Marshall |
 | 387 | 429 | Christy Krissie |
