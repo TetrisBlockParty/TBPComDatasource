@@ -83,8 +83,8 @@
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
 | 77 | 582 | Jay Horn |
-| 78 | 582 | Speedy Bridger |
-| 79 | 582 | Natasha Jones |
+| 78 | 582 | Natasha Jones |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -120,12 +120,12 @@
 | 112 | 443 | Alaina Lee |
 | 113 | 438 | Bea Miles |
 | 114 | 432 | Jenny Hrndz |
-| 115 | 428 | Elissa S-k |
-| 116 | 428 | Betty Ivy |
+| 115 | 428 | Betty Ivy |
+| 116 | 428 | Elissa S-k |
 | 117 | 416 | Mary Pellegrino |
 | 118 | 411 | FuzzyNavel |
-| 119 | 410 | Stephanie Simpson |
-| 120 | 410 | Stephanie Blkpep Davidson |
+| 119 | 410 | Stephanie Blkpep Davidson |
+| 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
 | 123 | 403 | Scott Lindsay |
@@ -152,8 +152,8 @@
 | 144 | 366 | Adrian Marcel Pate |
 | 145 | 365 | Logan Naccarato |
 | 146 | 359 | Dapper Snap |
-| 147 | 355 | Tessina Dewey-Mancino |
-| 148 | 355 | Sherry Ogden |
+| 147 | 355 | Sherry Ogden |
+| 148 | 355 | Tessina Dewey-Mancino |
 | 149 | 353 | CeceGeGe |
 | 150 | 350 | Darlene McMillan |
 | 151 | 347 | Nicole Flippo |
@@ -182,8 +182,8 @@
 | 174 | 289 | DidIdothat |
 | 175 | 289 | Hoppy Buildout |
 | 176 | 288 | Giddy Twistbuilder |
-| 177 | 286 | Cynthia Herrmann Egland |
-| 178 | 286 | Jacqueline Rodriguez |
+| 177 | 286 | Jacqueline Rodriguez |
+| 178 | 286 | Cynthia Herrmann Egland |
 | 179 | 285 | Rebecca Bailey |
 | 180 | 284 | Edwin Calvillo Jr. |
 | 181 | 283 | Joye Sims Binion |
@@ -219,12 +219,12 @@
 | 211 | 246 | Rochelle Hazelett |
 | 212 | 246 | Peppy Shifter |
 | 213 | 245 | Latoya Mayne |
-| 214 | 240 | Brandon Givens |
-| 215 | 240 | Jimmie Clemons |
+| 214 | 240 | Jimmie Clemons |
+| 215 | 240 | Brandon Givens |
 | 216 | 236 | Jess Bissett |
 | 217 | 235 | LaNette Morgan |
-| 218 | 234 | Nikki Pags |
-| 219 | 234 | Grego Daniel |
+| 218 | 234 | Grego Daniel |
+| 219 | 234 | Nikki Pags |
 | 220 | 233 | Ray Lader |
 | 221 | 232 | Donna |
 | 222 | 227 | Krystal Gerstberger |
@@ -330,8 +330,8 @@
 | 322 | 152 | Shiny Zonebuilder |
 | 323 | 152 | LaTanya GeminiondaRise Johnson |
 | 324 | 152 | Goofy Fall |
-| 325 | 151 | Rainbow77375 |
-| 326 | 151 | El Chapa |
+| 325 | 151 | El Chapa |
+| 326 | 151 | Rainbow77375 |
 | 327 | 150 | Gumbo |
 | 328 | 149 | Ava Petito |
 | 329 | 149 | Angel Mendez |
@@ -343,11 +343,11 @@
 | 335 | 145 | Funky Jumper |
 | 336 | 144 | Tenisha Semidey |
 | 337 | 143 | Alice |
-| 338 | 142 | Jl |
-| 339 | 142 | Erica Anderson |
-| 340 | 142 | Joy Petroski |
-| 341 | 142 | Michael Leblanc |
-| 342 | 142 | Erykah |
+| 338 | 142 | Erykah |
+| 339 | 142 | Michael Leblanc |
+| 340 | 142 | Jl |
+| 341 | 142 | Erica Anderson |
+| 342 | 142 | Joy Petroski |
 | 343 | 142 | Gray Hicks |
 | 344 | 141 | Weerae |
 | 345 | 141 | Melissa Snyder |
@@ -427,8 +427,8 @@
 | 419 | 113 | Leticia Lynn Lowe |
 | 420 | 113 | Tia Moore |
 | 421 | 112 | Shanon R Jackson |
-| 422 | 111 | Stephanie Zahm |
-| 423 | 111 | Morgan Cudo |
+| 422 | 111 | Morgan Cudo |
+| 423 | 111 | Stephanie Zahm |
 | 424 | 110 | Kate Farok |
 | 425 | 110 | Kristin Delibac Corrigan |
 | 426 | 110 | Angela VanOstrand |
@@ -472,8 +472,8 @@
 | 464 | 102 | TLM |
 | 465 | 102 | Kevin Russell |
 | 466 | 101 | Hyper Bridger |
-| 467 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 468 | 101 | Alexsandran Valdivia |
+| 467 | 101 | Alexsandran Valdivia |
+| 468 | 101 | Sabrina Ruth Archuletta-Gauna |
 | 469 | 101 | Quirky Dropzone |
 | 470 | 100 | TEDDY |
 | 471 | 100 | Brooke Bauer |

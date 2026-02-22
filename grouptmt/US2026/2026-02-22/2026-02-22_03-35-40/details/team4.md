@@ -141,8 +141,8 @@
 | 133 | 221 | PurpleMoonMa |
 | 134 | 220 | Mary Ann Pabukis |
 | 135 | 220 | Matt Dell'Olio |
-| 136 | 218 | Antony Dwayne Beasley |
-| 137 | 218 | Casey Grabner |
+| 136 | 218 | Casey Grabner |
+| 137 | 218 | Antony Dwayne Beasley |
 | 138 | 217 | Chaz Duncan |
 | 139 | 215 | Ren Mc |
 | 140 | 215 | Jessica Bohlken |
@@ -171,8 +171,8 @@
 | 163 | 189 | Stacey Stano |
 | 164 | 188 | Andria Lynn |
 | 165 | 186 | Holly |
-| 166 | 185 | Lori |
-| 167 | 185 | Andy Cabral |
+| 166 | 185 | Andy Cabral |
+| 167 | 185 | Lori |
 | 168 | 184 | Ak Jones |
 | 169 | 181 | Carter Jones |
 | 170 | 181 | Klo |
@@ -194,15 +194,15 @@
 | 186 | 158 | Chair |
 | 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
-| 189 | 154 | Laura Hosford |
-| 190 | 154 | scott |
+| 189 | 154 | scott |
+| 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | John Brunetti |
 | 193 | 152 | Austin Owens |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
-| 196 | 149 | Shainne Brewer |
-| 197 | 149 | Judy Cox |
+| 196 | 149 | Judy Cox |
+| 197 | 149 | Shainne Brewer |
 | 198 | 149 | Megan Cutshaw |
 | 199 | 148 | Janita Parrish |
 | 200 | 148 | Mr. Party |
