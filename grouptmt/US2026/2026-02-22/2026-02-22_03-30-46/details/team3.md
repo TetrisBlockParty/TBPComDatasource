@@ -83,8 +83,8 @@
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
 | 77 | 582 | Jay Horn |
-| 78 | 582 | Natasha Jones |
-| 79 | 582 | Speedy Bridger |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -104,8 +104,8 @@
 | 96 | 506 | Sashay Tapae Simpson |
 | 97 | 503 | Susan Valentino |
 | 98 | 502 | Justin Ritter |
-| 99 | 500 | Domo Washington |
-| 100 | 500 | Kristie |
+| 99 | 500 | Kristie |
+| 100 | 500 | Domo Washington |
 | 101 | 497 | Mykal Burton |
 | 102 | 491 | Chauntee Alfrey-Cardinale |
 | 103 | 482 | Jennifer Lynn Fahrenholtz-Summers |
@@ -152,8 +152,8 @@
 | 144 | 366 | Adrian Marcel Pate |
 | 145 | 365 | Logan Naccarato |
 | 146 | 359 | Dapper Snap |
-| 147 | 355 | Sherry Ogden |
-| 148 | 355 | Tessina Dewey-Mancino |
+| 147 | 355 | Tessina Dewey-Mancino |
+| 148 | 355 | Sherry Ogden |
 | 149 | 353 | CeceGeGe |
 | 150 | 350 | Darlene McMillan |
 | 151 | 347 | Nicole Flippo |
@@ -161,8 +161,8 @@
 | 153 | 335 | Leah Barnett |
 | 154 | 332 | Fallorina Susana |
 | 155 | 328 | Aaron Pitkin |
-| 156 | 323 | Ashley Raines |
-| 157 | 323 | Demetrious Shaw Sr. |
+| 156 | 323 | Demetrious Shaw Sr. |
+| 157 | 323 | Ashley Raines |
 | 158 | 320 | Or Reznitsky |
 | 159 | 317 | Ashley Tookes |
 | 160 | 316 | Rich LeBlanc |
@@ -602,7 +602,7 @@
 | 594 | 82 | Dakota Lee DeMarrias |
 | 595 | 82 | Carrie Linkous |
 | 596 | 81 | Miranda Taylor |
-| 597 | 81 | Spunky Combofall |
+| 597 | 81 | Jason |
 | 598 | 81 | Philip Rock |
 | 599 | 81 | Alexi Pryor |
 | 600 | 81 | Spunky Combofall |

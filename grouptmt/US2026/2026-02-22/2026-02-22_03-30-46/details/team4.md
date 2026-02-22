@@ -171,8 +171,8 @@
 | 163 | 189 | Calvin Dennis |
 | 164 | 188 | Andria Lynn |
 | 165 | 186 | Holly |
-| 166 | 185 | Andy Cabral |
-| 167 | 185 | Lori |
+| 166 | 185 | Lori |
+| 167 | 185 | Andy Cabral |
 | 168 | 184 | Ak Jones |
 | 169 | 181 | Klo |
 | 170 | 181 | Carter Jones |
@@ -194,13 +194,13 @@
 | 186 | 158 | Chair |
 | 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
-| 189 | 154 | scott |
-| 190 | 154 | Laura Hosford |
+| 189 | 154 | Laura Hosford |
+| 190 | 154 | scott |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | Austin Owens |
 | 193 | 152 | John Brunetti |
 | 194 | 151 | Bethany Ison |
-| 195 | 149 | Megan Cutshaw |
+| 195 | 149 | Judy Cox |
 | 196 | 149 | Shainne Brewer |
 | 197 | 149 | Megan Cutshaw |
 | 198 | 148 | Brittany Marsh |

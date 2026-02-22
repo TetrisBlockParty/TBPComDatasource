@@ -454,8 +454,8 @@
 | 446 | 396 | Stefanie Zonzini-Gagliardi |
 | 447 | 394 | Taryece Gause |
 | 448 | 393 | Ryan Meilleur |
-| 449 | 393 | Hillary Crawford |
-| 450 | 393 | Jamie West |
+| 449 | 393 | Jamie West |
+| 450 | 393 | Hillary Crawford |
 | 451 | 392 | Christine Bollig |
 | 452 | 391 | Cleo Sims |
 | 453 | 391 | Chilly Bridgepiece |
@@ -635,8 +635,8 @@
 | 627 | 295 | Noel Tarmy |
 | 628 | 294 | Amanda Edwards |
 | 629 | 294 | Frisky Riserbuilder |
-| 630 | 293 | Ann Marie Davis |
-| 631 | 293 | Kiorah Blaze |
+| 630 | 293 | Kiorah Blaze |
+| 631 | 293 | Ann Marie Davis |
 | 632 | 293 | Carl Bradshaw |
 | 633 | 292 | Epic Fitzone |
 | 634 | 292 | Deana |
@@ -645,8 +645,8 @@
 | 637 | 289 | Britney M. |
 | 638 | 289 | Bella Novia |
 | 639 | 288 | August Hale |
-| 640 | 288 | Kristi Biddinger |
-| 641 | 288 | Jenna Nance |
+| 640 | 288 | Jenna Nance |
+| 641 | 288 | Kristi Biddinger |
 | 642 | 288 | Ashley Criner |
 | 643 | 287 | Toni Roberson |
 | 644 | 286 | Kelsey Sullivan |

@@ -263,12 +263,12 @@
 | 255 | 123 | Zany Tiler |
 | 256 | 122 | Nate Funk |
 | 257 | 121 | Jacob Shaddock |
-| 258 | 120 | DoodleBug |
-| 259 | 120 | Kimmie Kimms |
+| 258 | 120 | Kimmie Kimms |
+| 259 | 120 | DoodleBug |
 | 260 | 119 | Strig |
 | 261 | 119 | Tater |
-| 262 | 118 | Garcia Bailey |
-| 263 | 118 | Tyler Hertzog |
+| 262 | 118 | Tyler Hertzog |
+| 263 | 118 | Garcia Bailey |
 | 264 | 116 | Fresno Beotoni |
 | 265 | 116 | Debbie Davis |
 | 266 | 115 | Mrs.Patrica |
