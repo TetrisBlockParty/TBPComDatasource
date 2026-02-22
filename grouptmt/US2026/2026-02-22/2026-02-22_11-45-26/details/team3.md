@@ -110,8 +110,8 @@
 | 102 | 566 | Dolores Falco |
 | 103 | 565 | Patty Allen |
 | 104 | 565 | Rachael McClain Owens |
-| 105 | 562 | Louise Stacy Sisson |
-| 106 | 562 | Dave Herzog |
+| 105 | 562 | Dave Herzog |
+| 106 | 562 | Louise Stacy Sisson |
 | 107 | 559 | Morgan Martinez |
 | 108 | 549 | Nicole Myers |
 | 109 | 543 | Giddy Drop |
@@ -176,8 +176,8 @@
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Santeria Trece Candles |
-| 172 | 370 | Danielle Allison |
+| 171 | 370 | Danielle Allison |
+| 172 | 370 | Santeria Trece Candles |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -233,8 +233,8 @@
 | 225 | 283 | Cheeky Snapper |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
-| 228 | 278 | Rufus Lincoln |
-| 229 | 278 | Sabrina Hardrick |
+| 228 | 278 | Sabrina Hardrick |
+| 229 | 278 | Rufus Lincoln |
 | 230 | 276 | Crimson |
 | 231 | 276 | _melisa223_ |
 | 232 | 275 | Cassandra Bryant |
@@ -282,8 +282,8 @@
 | 274 | 225 | Steffi Chris Dacones |
 | 275 | 224 | Quirky Dropzone |
 | 276 | 221 | Vaners |
-| 277 | 221 | Jaime Monhaut-Reed |
-| 278 | 221 | Alice |
+| 277 | 221 | Alice |
+| 278 | 221 | Jaime Monhaut-Reed |
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
@@ -336,8 +336,8 @@
 | 328 | 186 | Bryan Byrd |
 | 329 | 186 | Sameerah Smith |
 | 330 | 184 | Troy |
-| 331 | 183 | Salena Whitlock |
-| 332 | 183 | Cesar Barraza |
+| 331 | 183 | Cesar Barraza |
+| 332 | 183 | Salena Whitlock |
 | 333 | 182 | Melanie Sherwood |
 | 334 | 181 | Denita Mungro |
 | 335 | 180 | Beth Ingham |
@@ -357,20 +357,20 @@
 | 349 | 170 | Colleen Phelps |
 | 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
 | 357 | 166 | Angella Lyons |
 | 358 | 166 | Snarky McFace |
 | 359 | 165 | Kali Kelz Williams |
-| 360 | 165 | Rainbow77375 |
-| 361 | 165 | Ashley Lynn Marchese |
+| 360 | 165 | Ashley Lynn Marchese |
+| 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Stephanie Whitefield |
 | 368 | 162 | Eric Caccavale |
@@ -447,8 +447,8 @@
 | 439 | 138 | Bleu Sun Beams |
 | 440 | 137 | Giggly Brickroll |
 | 441 | 136 | Karen Picaboo |
-| 442 | 136 | Sabrina Mansfield |
-| 443 | 136 | Stephanie Zahm |
+| 442 | 136 | Stephanie Zahm |
+| 443 | 136 | Sabrina Mansfield |
 | 444 | 135 | Morgan Cudo |
 | 445 | 134 | Maia |
 | 446 | 134 | Sharon Dudley Lawson |
@@ -500,7 +500,7 @@
 | 492 | 121 | Jason-Ashley Ludlow |
 | 493 | 121 | Groovy Blockclear |
 | 494 | 121 | Brave Brickster |
-| 495 | 121 | Groovy Blockclear |
+| 495 | 121 | Jenna Baker |
 | 496 | 120 | Giggy Glidepiece |
 | 497 | 120 | Carol Cain Thurman |
 | 498 | 119 | Michelle Ramirez |

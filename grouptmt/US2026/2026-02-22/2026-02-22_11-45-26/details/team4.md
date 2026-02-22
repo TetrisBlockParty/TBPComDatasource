@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 455 | Ashley Ingram |
@@ -138,16 +138,16 @@
 | 130 | 286 | shark tato |
 | 131 | 283 | Brittney Orengo |
 | 132 | 281 | Meagan Nicole |
-| 133 | 278 | Desi Desporte |
-| 134 | 278 | Carrie Brian |
+| 133 | 278 | Carrie Brian |
+| 134 | 278 | Desi Desporte |
 | 135 | 277 | Mary Ann Pabukis |
 | 136 | 277 | Scott Jameson |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
 | 139 | 272 | Keshia Lyons |
 | 140 | 271 | Sarah Brown |
-| 141 | 264 | Dana Scott |
-| 142 | 264 | Epic Curvetile |
+| 141 | 264 | Epic Curvetile |
+| 142 | 264 | Dana Scott |
 | 143 | 264 | Girl |
 | 144 | 262 | Holly Jolly |
 | 145 | 258 | Bio Nelly |
@@ -207,8 +207,8 @@
 | 199 | 191 | Klo |
 | 200 | 191 | Sam Bishop |
 | 201 | 190 | Cheery Risebuilder |
-| 202 | 189 | Stacey Stano |
-| 203 | 189 | Calvin Dennis |
+| 202 | 189 | Calvin Dennis |
+| 203 | 189 | Stacey Stano |
 | 204 | 188 | Andria Lynn |
 | 205 | 187 | blockstar |
 | 206 | 186 | Holly |
@@ -238,8 +238,8 @@
 | 230 | 165 | Zappy Buildgrid |
 | 231 | 164 | 030Synner |
 | 232 | 163 | Kristina Black |
-| 233 | 162 | John Brunetti |
-| 234 | 162 | Joanna |
+| 233 | 162 | Joanna |
+| 234 | 162 | John Brunetti |
 | 235 | 161 | Jenny Wells-Oakley |
 | 236 | 160 | Brittany Marsh |
 | 237 | 159 | DonMega |
@@ -261,13 +261,13 @@
 | 253 | 151 | Joseph Pace |
 | 254 | 149 | Shainne Brewer |
 | 255 | 148 | Janita Parrish |
-| 256 | 148 | Nubian1 |
-| 257 | 148 | Ruby Khalisadar |
+| 256 | 148 | Ruby Khalisadar |
+| 257 | 148 | Nubian1 |
 | 258 | 147 | B Renee Desjardin |
 | 259 | 147 | Jay28 |
 | 260 | 147 | Jared Gutwein |
-| 261 | 145 | Mimi |
-| 262 | 145 | Sandra Safford |
+| 261 | 145 | Sandra Safford |
+| 262 | 145 | Mimi |
 | 263 | 144 | Sticherella |
 | 264 | 143 | Daresha Fair |
 | 265 | 143 | Dennis Bradley |

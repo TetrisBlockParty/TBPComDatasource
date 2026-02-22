@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | MomMom |
-| 73 | 434 | Hyper |
+| 72 | 434 | Hyper |
+| 73 | 434 | MomMom |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -113,18 +113,18 @@
 | 105 | 344 | Bhelle Sumile |
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
-| 108 | 333 | Gracie |
-| 109 | 333 | Brandi Huntington |
-| 110 | 332 | Kristen Gideon |
-| 111 | 332 | Luciano Moreira |
+| 108 | 333 | Brandi Huntington |
+| 109 | 333 | Gracie |
+| 110 | 332 | Luciano Moreira |
+| 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
 | 115 | 319 | Deanna L Hermanson |
 | 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Jennifer Hardman |
+| 118 | 316 | Jennifer Hardman |
+| 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
 | 121 | 310 | Seth Wesson |
 | 122 | 310 | Jason Jones |
@@ -237,15 +237,15 @@
 | 229 | 180 | BigWeenie69 |
 | 230 | 179 | Danielle Little-Daugherty |
 | 231 | 179 | Erin Rosberg |
-| 232 | 179 | Danielle Little-Daugherty |
+| 232 | 179 | femmefatale |
 | 233 | 178 | Chad Atchley |
 | 234 | 177 | Irual Hctrab |
 | 235 | 177 | Sarah Marie |
 | 236 | 177 | Jacqueline Unique |
 | 237 | 177 | Perky Shiftsnap |
 | 238 | 176 | Mel Hogan |
-| 239 | 175 | John Barron |
-| 240 | 175 | Kellie Tunstall |
+| 239 | 175 | Kellie Tunstall |
+| 240 | 175 | John Barron |
 | 241 | 174 | Cheeky Pop |
 | 242 | 173 | Tiger Lily |
 | 243 | 173 | Gabrielle Louise Malloch |
@@ -323,8 +323,8 @@
 | 315 | 131 | Plucky Wrecker |
 | 316 | 131 | Dizzy Riseclear |
 | 317 | 130 | Carl Claunch |
-| 318 | 129 | Sherri E Woods Hess |
-| 319 | 129 | Madison Wicks |
+| 318 | 129 | Madison Wicks |
+| 319 | 129 | Sherri E Woods Hess |
 | 320 | 128 | Alyssa Ingram |
 | 321 | 128 | George Dalton |
 | 322 | 127 | Danielle Mae |

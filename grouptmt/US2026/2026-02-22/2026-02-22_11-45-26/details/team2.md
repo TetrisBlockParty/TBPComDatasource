@@ -330,8 +330,8 @@
 | 322 | 650 | Shiny Rollzone |
 | 323 | 645 | tejas25 |
 | 324 | 643 | Hoppy Brickmatch |
-| 325 | 641 | Joce Lynn |
-| 326 | 641 | Angie Bolton Workman |
+| 325 | 641 | Angie Bolton Workman |
+| 326 | 641 | Joce Lynn |
 | 327 | 640 | BYM4L |
 | 328 | 639 | Crystie Hicks |
 | 329 | 639 | Rebecca Miller |
@@ -656,8 +656,8 @@
 | 648 | 357 | Shannon Byrd |
 | 649 | 357 | Tristan Szolek |
 | 650 | 355 | Amanda Perez |
-| 651 | 354 | Rachel Kaminski |
-| 652 | 354 | Rickey Johnson |
+| 651 | 354 | Rickey Johnson |
+| 652 | 354 | Rachel Kaminski |
 | 653 | 352 | Rose Fx |
 | 654 | 352 | Jean FU Jagielski |
 | 655 | 352 | ruth |
@@ -709,15 +709,15 @@
 | 701 | 326 | Angela Murgia-Owen |
 | 702 | 325 | Justin Hines |
 | 703 | 325 | Mike73 |
-| 704 | 324 | Tasia Stinson |
-| 705 | 324 | Dale Haanpaa |
+| 704 | 324 | Dale Haanpaa |
+| 705 | 324 | Tasia Stinson |
 | 706 | 323 | Briana Alexander |
 | 707 | 322 | Lea Stewart |
 | 708 | 322 | Michelle Pike |
 | 709 | 322 | Christina Jarvis-Swarbrick |
 | 710 | 321 | Samantha Scibelli |
-| 711 | 321 | Tamara Bailey |
-| 712 | 321 | Ashley Criner |
+| 711 | 321 | Ashley Criner |
+| 712 | 321 | Tamara Bailey |
 | 713 | 320 | Tash Bell |
 | 714 | 320 | Mary Boss |
 | 715 | 319 | Prado |
@@ -863,8 +863,8 @@
 | 855 | 265 | Theresa Sterrett |
 | 856 | 265 | trabuco |
 | 857 | 264 | Nicki Stephens |
-| 858 | 264 | Rachel Switala |
-| 859 | 264 | Ocean-Brianna McGregor |
+| 858 | 264 | Ocean-Brianna McGregor |
+| 859 | 264 | Rachel Switala |
 | 860 | 264 | Edna Combs |
 | 861 | 263 | Elizabeth Leinen |
 | 862 | 263 | Amy Humphreys |
@@ -1038,8 +1038,8 @@
 | 1030 | 223 | LegoCarpet |
 | 1031 | 223 | Zak Dunn |
 | 1032 | 223 | Nancy Pohlman |
-| 1033 | 223 | Michele Moren |
-| 1034 | 223 | Sarah DeHart |
+| 1033 | 223 | Sarah DeHart |
+| 1034 | 223 | Michele Moren |
 | 1035 | 223 | Natasha Marie |
 | 1036 | 222 | Daring Lift |
 | 1037 | 222 | Crystal Herndon |
@@ -1047,8 +1047,8 @@
 | 1039 | 222 | Angel Moorhead |
 | 1040 | 222 | Lovely |
 | 1041 | 220 | Amy Reynolds |
-| 1042 | 220 | Marcie McLain Dodd |
-| 1043 | 220 | HarleyJane |
+| 1042 | 220 | HarleyJane |
+| 1043 | 220 | Marcie McLain Dodd |
 | 1044 | 220 | Sandra McNab |
 | 1045 | 220 | Natalie M Wells |
 | 1046 | 219 | Cathy Bitters |
