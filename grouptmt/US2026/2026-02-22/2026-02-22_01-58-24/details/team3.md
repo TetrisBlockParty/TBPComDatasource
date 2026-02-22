@@ -134,19 +134,19 @@
 | 126 | 390 | Hasty Cascadefit |
 | 127 | 386 | Katie Knaus |
 | 128 | 383 | Jesse Olive |
-| 129 | 378 | Tasha Schriewer |
-| 130 | 378 | Makelini Mausia |
+| 129 | 378 | Makelini Mausia |
+| 130 | 378 | Tasha Schriewer |
 | 131 | 376 | Loopy Clusterer |
 | 132 | 371 | mjl574 |
 | 133 | 370 | Santeria Trece Candles |
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Tessina Dewey-Mancino |
-| 138 | 355 | Sherry Ogden |
+| 137 | 355 | Sherry Ogden |
+| 138 | 355 | Tessina Dewey-Mancino |
 | 139 | 348 | CeceGeGe |
-| 140 | 347 | Nicole Flippo |
-| 141 | 347 | Darlene McMillan |
+| 140 | 347 | Darlene McMillan |
+| 141 | 347 | Nicole Flippo |
 | 142 | 346 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
 | 144 | 328 | Aaron Pitkin |
@@ -330,8 +330,8 @@
 | 322 | 141 | Weerae |
 | 323 | 138 | Boldy Corner |
 | 324 | 138 | sofaking |
-| 325 | 138 | Skinny Baldez |
-| 326 | 138 | Boldy Corner |
+| 325 | 138 | Pam Holt Powell |
+| 326 | 138 | Skinny Baldez |
 | 327 | 137 | April Matthew Kibble |
 | 328 | 137 | kacihall |
 | 329 | 136 | Blair Erin Waite |
@@ -412,8 +412,8 @@
 | 404 | 109 | Sarah Morris |
 | 405 | 108 | Rachel Grant |
 | 406 | 108 | Scouty |
-| 407 | 108 | Sierra Spencer |
-| 408 | 108 | Jack Bo |
+| 407 | 108 | Jack Bo |
+| 408 | 108 | Sierra Spencer |
 | 409 | 107 | Megan Stanley |
 | 410 | 106 | Joseph Vargas |
 | 411 | 106 | Lush Risebuilder |
@@ -730,7 +730,7 @@
 | 722 | 65 | Dee Dee |
 | 723 | 65 | Byron Baptiste |
 | 724 | 65 | Precious Cramer |
-| 725 | 65 | Byron Baptiste |
+| 725 | 65 | Rashad Green |
 | 726 | 64 | Loopy Glide |
 | 727 | 64 | Chris Wallace |
 | 728 | 64 | Emily Dahl |

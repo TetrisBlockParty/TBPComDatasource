@@ -135,13 +135,13 @@
 | 127 | 217 | Chaz Duncan |
 | 128 | 215 | Jessica Bohlken |
 | 129 | 214 | Monica Daley |
-| 130 | 212 | Mike Solo |
-| 131 | 212 | Calvin Cannon |
+| 130 | 212 | Calvin Cannon |
+| 131 | 212 | Mike Solo |
 | 132 | 211 | Twisty Cascadezone |
 | 133 | 210 | Swanky Fitline |
 | 134 | 207 | Scott Jameson |
-| 135 | 205 | Sarah Neathery |
-| 136 | 205 | Tyler Terrific |
+| 135 | 205 | Tyler Terrific |
+| 136 | 205 | Sarah Neathery |
 | 137 | 204 | Jen Caldwell |
 | 138 | 204 | Dana Scott |
 | 139 | 203 | Katherine Crane |
@@ -156,8 +156,8 @@
 | 148 | 189 | Calvin Dennis |
 | 149 | 187 | TheNeesh50 |
 | 150 | 186 | Holly |
-| 151 | 185 | Lori |
-| 152 | 185 | Andy Cabral |
+| 151 | 185 | Andy Cabral |
+| 152 | 185 | Lori |
 | 153 | 184 | Ak Jones |
 | 154 | 184 | Chilly Crasher |
 | 155 | 182 | Matt Summer |

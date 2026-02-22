@@ -112,8 +112,8 @@
 | 104 | 280 | Sarah Roberts |
 | 105 | 277 | Ly Phethmany |
 | 106 | 275 | Cynthia Bradley |
-| 107 | 273 | Happy Basegrid |
-| 108 | 273 | Bhelle Sumile |
+| 107 | 273 | Bhelle Sumile |
+| 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
 | 110 | 263 | Sharon Reynolds |
 | 111 | 262 | Dandy Basegrid |
@@ -204,8 +204,8 @@
 | 196 | 153 | Barry Mac'Ockner |
 | 197 | 152 | Speedy Snapfall |
 | 198 | 150 | Adele Rahman |
-| 199 | 147 | DaRascal |
-| 200 | 147 | Davery Spencer Adair |
+| 199 | 147 | Davery Spencer Adair |
+| 200 | 147 | DaRascal |
 | 201 | 146 | Brave Wrecker |
 | 202 | 145 | Agustin Duarte Orozco |
 | 203 | 144 | Miguel Teixeira |
@@ -218,11 +218,11 @@
 | 210 | 141 | Dino |
 | 211 | 139 | Flashy Rotator |
 | 212 | 138 | Mark Smith |
-| 213 | 137 | Witty Builderfit |
-| 214 | 137 | Marci Sanders |
-| 215 | 137 | Cody Gates |
-| 216 | 136 | Tavia |
-| 217 | 136 | Tipsy Riseclear |
+| 213 | 137 | Marci Sanders |
+| 214 | 137 | Cody Gates |
+| 215 | 137 | Witty Builderfit |
+| 216 | 136 | Tipsy Riseclear |
+| 217 | 136 | Tavia |
 | 218 | 136 | Breanna Luna |
 | 219 | 135 | Aimee Horton |
 | 220 | 135 | Giddy Cascade |
