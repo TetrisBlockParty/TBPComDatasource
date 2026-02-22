@@ -250,15 +250,15 @@
 | 242 | 321 | Rebecca Bailey |
 | 243 | 320 | Or Reznitsky |
 | 244 | 320 | Ashley Muncey |
-| 245 | 320 | Or Reznitsky |
+| 245 | 320 | Brittany |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
 | 249 | 312 | Charles Perrone |
 | 250 | 308 | Cynthia Herrmann Egland |
-| 251 | 307 | Blocked |
-| 252 | 307 | Snappy Balancer |
-| 253 | 307 | rnr junky |
+| 251 | 307 | Snappy Balancer |
+| 252 | 307 | rnr junky |
+| 253 | 307 | Blocked |
 | 254 | 306 | Felicia Rocha |
 | 255 | 304 | Marquita Sheard |
 | 256 | 301 | Betty Rosas |
@@ -304,8 +304,8 @@
 | 296 | 266 | Quirky Dropzone |
 | 297 | 262 | Ray Lader |
 | 298 | 261 | ROODBOY |
-| 299 | 261 | Angela Scott |
-| 300 | 261 | Foltz Lee Kelli |
+| 299 | 261 | Foltz Lee Kelli |
+| 300 | 261 | Angela Scott |
 | 301 | 260 | France Vézina |
 | 302 | 258 | IamJust Neyamijah Washington Sr. |
 | 303 | 256 | KayB |
@@ -585,7 +585,7 @@
 | 577 | 136 | Karen Picaboo |
 | 578 | 135 | Jennifer Neiman Gaal |
 | 579 | 135 | Cranky Fitzone |
-| 580 | 134 | Elyse Grabowsky |
+| 580 | 134 | Glenn Loving |
 | 581 | 134 | Hyper Bridger |
 | 582 | 134 | Elyse Grabowsky |
 | 583 | 134 | Schmoo Cat |

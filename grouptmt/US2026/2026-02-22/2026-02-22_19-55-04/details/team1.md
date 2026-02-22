@@ -302,8 +302,8 @@
 | 294 | 183 | Tina Englert |
 | 295 | 183 | Dino |
 | 296 | 181 | David DeSantis |
-| 297 | 179 | Ryan White |
-| 298 | 179 | Speedy Snapfall |
+| 297 | 179 | Speedy Snapfall |
+| 298 | 179 | Ryan White |
 | 299 | 178 | Gabrielle Louise Malloch |
 | 300 | 178 | Silly Align |
 | 301 | 177 | Jessica Russell |

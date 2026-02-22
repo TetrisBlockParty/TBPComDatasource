@@ -279,8 +279,8 @@
 | 271 | 867 | Peppy Zone |
 | 272 | 865 | Kristin Gower |
 | 273 | 862 | Brittany Radaszewski |
-| 274 | 860 | William Hunt |
-| 275 | 860 | April Dawn Gussler |
+| 274 | 860 | April Dawn Gussler |
+| 275 | 860 | William Hunt |
 | 276 | 857 | Kara Gillen |
 | 277 | 855 | F-X |
 | 278 | 853 | Meghan M |
@@ -485,12 +485,12 @@
 | 477 | 543 | Julie Kresal |
 | 478 | 542 | Alexandra Weir |
 | 479 | 540 | Dizzy Zone |
-| 480 | 533 | Gauri Shrotriya |
-| 481 | 533 | Davetta Sanford |
+| 480 | 533 | Davetta Sanford |
+| 481 | 533 | Gauri Shrotriya |
 | 482 | 532 | Ann Matzkanin |
 | 483 | 532 | Belle Mari |
-| 484 | 531 | Aishah Brice |
-| 485 | 531 | Briana Alexander |
+| 484 | 531 | Briana Alexander |
+| 485 | 531 | Aishah Brice |
 | 486 | 530 | Denise Rickman |
 | 487 | 529 | Victoria Regina Girolami |
 | 488 | 528 | Anita Rose Green |
@@ -625,8 +625,8 @@
 | 617 | 435 | Regina Young |
 | 618 | 434 | bbv |
 | 619 | 432 | Abimbola Bimbo |
-| 620 | 431 | Quinn |
-| 621 | 431 | Hunter Connors |
+| 620 | 431 | Hunter Connors |
+| 621 | 431 | Quinn |
 | 622 | 429 | Goofy Catcher |
 | 623 | 429 | Angel Hunnewell |
 | 624 | 429 | Tabs Reichert |

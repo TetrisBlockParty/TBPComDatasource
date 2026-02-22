@@ -237,8 +237,8 @@
 | 229 | 219 | Matt Gooder |
 | 230 | 219 | Dizzy Matchzone |
 | 231 | 217 | A5! |
-| 232 | 216 | Chance Strickland |
-| 233 | 216 | ZeeZee |
+| 232 | 216 | ZeeZee |
+| 233 | 216 | Chance Strickland |
 | 234 | 216 | Cristy Duerksen |
 | 235 | 215 | Ziggy |
 | 236 | 215 | John Brunetti |
@@ -263,8 +263,8 @@
 | 255 | 200 | Googenheim |
 | 256 | 199 | Orchislactea |
 | 257 | 198 | Angelito |
-| 258 | 198 | Silly SeaWeed |
-| 259 | 198 | Calvin Dennis |
+| 258 | 198 | Calvin Dennis |
+| 259 | 198 | Silly SeaWeed |
 | 260 | 197 | Gilles Lanctot |
 | 261 | 196 | Zany Shatterer |
 | 262 | 195 | Snippy Puzzle |
@@ -326,8 +326,8 @@
 | 318 | 157 | Paige Kittles |
 | 319 | 157 | LunaMoon |
 | 320 | 157 | Bethany Ison |
-| 321 | 156 | Ultramarine |
-| 322 | 156 | Terrance Fung |
+| 321 | 156 | Terrance Fung |
+| 322 | 156 | Ultramarine |
 | 323 | 154 | Circuit8 |
 | 324 | 154 | Chummy Towerzone |
 | 325 | 153 | O block |
@@ -384,8 +384,8 @@
 | 376 | 140 | Rico |
 | 377 | 140 | Sallie Sanborn |
 | 378 | 139 | Bradley Reeves |
-| 379 | 139 | Ann G. Carrillo |
-| 380 | 139 | Lori Goudy |
+| 379 | 139 | Lori Goudy |
+| 380 | 139 | Ann G. Carrillo |
 | 381 | 138 | Jasmine S Caldwell |
 | 382 | 138 | Moonsterix |
 | 383 | 138 | Janis Brown |
@@ -477,8 +477,8 @@
 | 469 | 111 | Raegan Lane-Ross |
 | 470 | 111 | Zocko Ellet |
 | 471 | 111 | Lazy Blocker |
-| 472 | 110 | Jennifer Dineen |
-| 473 | 110 | Thomas Hettenhaus |
+| 472 | 110 | Thomas Hettenhaus |
+| 473 | 110 | Jennifer Dineen |
 | 474 | 110 | JoAnna Zalkovsky |
 | 475 | 109 | Jessica Miller |
 | 476 | 109 | Verna Neal |
