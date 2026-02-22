@@ -139,13 +139,13 @@
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
 | 133 | 357 | Trista Leah |
-| 134 | 354 | Jessica Lynn Cutlip |
-| 135 | 354 | Kesha Brady |
+| 134 | 354 | Kesha Brady |
+| 135 | 354 | Jessica Lynn Cutlip |
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -203,8 +203,8 @@
 | 195 | 262 | Holly Jolly |
 | 196 | 262 | Joeliecea Cobb |
 | 197 | 261 | scott |
-| 198 | 259 | Melvin Baird |
-| 199 | 259 | Sam Bishop |
+| 198 | 259 | Sam Bishop |
+| 199 | 259 | Melvin Baird |
 | 200 | 258 | Jen Caldwell |
 | 201 | 256 | Mylo Lipscomb |
 | 202 | 255 | Sue Joyce Staats |
@@ -264,8 +264,8 @@
 | 256 | 202 | Orchislactea |
 | 257 | 202 | Patron Anderson |
 | 258 | 201 | Chaz |
-| 259 | 200 | Googenheim |
-| 260 | 200 | Lori |
+| 259 | 200 | Lori |
+| 260 | 200 | Googenheim |
 | 261 | 199 | TinyLegoRose |
 | 262 | 198 | Silly SeaWeed |
 | 263 | 198 | Calvin Dennis |
@@ -309,8 +309,8 @@
 | 301 | 166 | SammieJo Guy |
 | 302 | 165 | Zappy Buildgrid |
 | 303 | 165 | Brittany Marsh |
-| 304 | 165 | Zappy Buildgrid |
-| 305 | 165 | Jim Hart |
+| 304 | 165 | Jim Hart |
+| 305 | 165 | Amanda Christine |
 | 306 | 165 | ChasingZen |
 | 307 | 164 | Marvetta Williams |
 | 308 | 163 | Jason Bosco |

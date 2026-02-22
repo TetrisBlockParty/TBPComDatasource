@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 905 | Jessica Ann |
@@ -91,8 +91,8 @@
 | 83 | 836 | Jamie Lang |
 | 84 | 835 | Snappy Glidepiece |
 | 85 | 831 | Angeline Joseph |
-| 86 | 830 | Stephanie Allmon |
-| 87 | 830 | Sarajane Lokan |
+| 86 | 830 | Sarajane Lokan |
+| 87 | 830 | Stephanie Allmon |
 | 88 | 828 | Christine Filson |
 | 89 | 826 | Shane Wilson Jr. |
 | 90 | 811 | Jay Horn |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -166,8 +166,8 @@
 | 158 | 471 | Mendoza Lee Christy |
 | 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
-| 161 | 469 | Melissa Orth Hunter |
-| 162 | 469 | Adrian Marcel Pate |
+| 161 | 469 | Adrian Marcel Pate |
+| 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
 | 164 | 464 | Makelini Mausia |
 | 165 | 464 | Michelle |
@@ -178,8 +178,8 @@
 | 170 | 455 | Tessina Dewey-Mancino |
 | 171 | 455 | Danielle Rhoades |
 | 172 | 453 | Shannon Matthew Byers |
-| 173 | 451 | Rachel |
-| 174 | 451 | FuzzyNavel |
+| 173 | 451 | FuzzyNavel |
+| 174 | 451 | Rachel |
 | 175 | 447 | Shunta Jacobs |
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
@@ -187,8 +187,8 @@
 | 179 | 432 | Jenny Hrndz |
 | 180 | 432 | Luciana Braganca Vieira |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Joye Sims Binion |
-| 183 | 430 | Jeni Dow |
+| 182 | 430 | Jeni Dow |
+| 183 | 430 | Joye Sims Binion |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -219,8 +219,8 @@
 | 211 | 368 | Stephanie Woods |
 | 212 | 367 | Marci Mize Fandrich |
 | 213 | 367 | Loopy Fallmatch |
-| 214 | 365 | Tiffany Ford |
-| 215 | 365 | Chummy Caster |
+| 214 | 365 | Chummy Caster |
+| 215 | 365 | Tiffany Ford |
 | 216 | 362 | Brandon Givens |
 | 217 | 361 | RickyG |
 | 218 | 360 | Sheila M Frazier |
@@ -264,10 +264,10 @@
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
 | 258 | 301 | Betty Rosas |
-| 259 | 299 | Ray Lader |
-| 260 | 299 | Angie Harper |
-| 261 | 298 | MsBee |
-| 262 | 298 | Grams |
+| 259 | 299 | Angie Harper |
+| 260 | 299 | Ray Lader |
+| 261 | 298 | Grams |
+| 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
 | 264 | 296 | Katrina Turner |
 | 265 | 296 | Hoppy Buildout |

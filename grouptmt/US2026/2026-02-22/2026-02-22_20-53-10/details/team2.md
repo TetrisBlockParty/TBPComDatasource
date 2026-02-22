@@ -257,8 +257,8 @@
 | 249 | 935 | Kevin Walp |
 | 250 | 933 | Cindy Sechler Taninecz |
 | 251 | 920 | Phil J. Grombliniak |
-| 252 | 919 | Isaac Trappiel IV |
-| 253 | 919 | Joshua Mandel |
+| 252 | 919 | Joshua Mandel |
+| 253 | 919 | Isaac Trappiel IV |
 | 254 | 916 | Butta |
 | 255 | 915 | Robin Kerby |
 | 256 | 915 | Kelly Trent |
@@ -303,8 +303,8 @@
 | 295 | 821 | Diallo Sparkman |
 | 296 | 820 | Chirpy Staggerpiece |
 | 297 | 817 | Nett |
-| 298 | 816 | James Simms III |
-| 299 | 816 | Jessica Wayne Cornwall |
+| 298 | 816 | Jessica Wayne Cornwall |
+| 299 | 816 | James Simms III |
 | 300 | 810 | Caitlin Schmid |
 | 301 | 810 | Andrea Maher |
 | 302 | 808 | Desire Rice |
@@ -342,8 +342,8 @@
 | 334 | 746 | Kathryn Townsley |
 | 335 | 746 | Jerilyn Andrina |
 | 336 | 745 | Kiely Tomaskovich |
-| 337 | 743 | Tiara Elizabeth Baker |
-| 338 | 743 | Melissa Cole |
+| 337 | 743 | Melissa Cole |
+| 338 | 743 | Tiara Elizabeth Baker |
 | 339 | 741 | Mandi Douglas Hilt |
 | 340 | 740 | Jerry Tempelmeyer |
 | 341 | 739 | Brenda Utphall |

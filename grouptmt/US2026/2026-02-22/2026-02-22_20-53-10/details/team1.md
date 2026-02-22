@@ -281,8 +281,8 @@
 | 273 | 198 | Happy Snapbuild |
 | 274 | 198 | Adele Rahman |
 | 275 | 197 | Joe Coon |
-| 276 | 196 | Marci Sanders |
-| 277 | 196 | Perky Shiftsnap |
+| 276 | 196 | Perky Shiftsnap |
+| 277 | 196 | Marci Sanders |
 | 278 | 195 | Jennifer Olewnik Soborowski |
 | 279 | 194 | Glitzy Buildsnap |
 | 280 | 194 | Poppy Riserpiece |
@@ -311,8 +311,8 @@
 | 303 | 184 | Cranky Pattern |
 | 304 | 183 | Dino |
 | 305 | 181 | David DeSantis |
-| 306 | 179 | Slinky Rotater |
-| 307 | 179 | Ryan White |
+| 306 | 179 | Ryan White |
+| 307 | 179 | Slinky Rotater |
 | 308 | 178 | Gabrielle Louise Malloch |
 | 309 | 177 | Larry Tilton |
 | 310 | 177 | Jessica Russell |
