@@ -120,13 +120,13 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Deanna L Hermanson |
-| 116 | 319 | Patrick Luckenbill |
+| 115 | 319 | Patrick Luckenbill |
+| 116 | 319 | Deanna L Hermanson |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
-| 120 | 310 | Jason Jones |
-| 121 | 310 | Seth Wesson |
+| 120 | 310 | Seth Wesson |
+| 121 | 310 | Jason Jones |
 | 122 | 306 | Happy Basegrid |
 | 123 | 304 | Nicole Roseberry Weber |
 | 124 | 301 | Lehrin Maria |
@@ -249,8 +249,8 @@
 | 241 | 168 | Amber Stoker |
 | 242 | 167 | Nery Martinez |
 | 243 | 167 | Cranky Pattern |
-| 244 | 165 | Nadine Velardo |
-| 245 | 165 | Silly Align |
+| 244 | 165 | Silly Align |
+| 245 | 165 | Nadine Velardo |
 | 246 | 164 | Desiree Deschaine Havee |
 | 247 | 163 | Davery Spencer Adair |
 | 248 | 163 | Tyler Whitley |
@@ -335,7 +335,7 @@
 | 327 | 121 | Jacob Shaddock |
 | 328 | 120 | Jasmine Riley |
 | 329 | 120 | Shiny Rotate |
-| 330 | 118 | Kerry Lee Powell |
+| 330 | 118 | Snappy Brickbuilder |
 | 331 | 118 | Garcia Bailey |
 | 332 | 118 | Kerry Lee Powell |
 | 333 | 118 | Plucky Stacky |
@@ -390,7 +390,7 @@
 | 382 | 101 | Liliana Pena |
 | 383 | 100 | MayMay Echevarria |
 | 384 | 100 | Jessica Weed |
-| 385 | 100 | Billie Ann Eason |
+| 385 | 100 | Margie Olivas |
 | 386 | 100 | Brandi Egbert |
 | 387 | 100 | Billie Ann Eason |
 | 388 | 100 | Jason Philp |
@@ -415,8 +415,8 @@
 | 407 | 93 | Frisky Base |
 | 408 | 93 | Mighty Shatterfit |
 | 409 | 92 | Stoney Smith |
-| 410 | 92 | Grace Joanne Agnant |
-| 411 | 92 | Nathan William |
+| 410 | 92 | Nathan William |
+| 411 | 92 | Grace Joanne Agnant |
 | 412 | 92 | Teri Oehlke |
 | 413 | 91 | Charlie Walker |
 | 414 | 91 | Joe Coon |

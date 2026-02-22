@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -160,8 +160,8 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Autum Leigh |
-| 156 | 230 | Cursed Hag |
+| 155 | 230 | Cursed Hag |
+| 156 | 230 | Autum Leigh |
 | 157 | 228 | J-Rizzle |
 | 158 | 227 | Alyssa Papen |
 | 159 | 227 | Swanky Fitline |
@@ -230,8 +230,8 @@
 | 222 | 165 | James Hurley Jr. |
 | 223 | 164 | 030Synner |
 | 224 | 163 | Kristina Black |
-| 225 | 162 | John Brunetti |
-| 226 | 162 | Joanna |
+| 225 | 162 | Joanna |
+| 226 | 162 | John Brunetti |
 | 227 | 161 | Jenny Wells-Oakley |
 | 228 | 160 | Laura Hosford |
 | 229 | 160 | Brittany Marsh |
