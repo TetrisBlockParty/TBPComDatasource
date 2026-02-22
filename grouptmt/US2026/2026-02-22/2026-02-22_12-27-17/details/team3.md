@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -225,8 +225,8 @@
 | 217 | 296 | Brandon Givens |
 | 218 | 295 | Marci Mize Fandrich |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Hoppy Buildout |
-| 221 | 289 | Duane Bright |
+| 220 | 289 | Duane Bright |
+| 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -279,13 +279,13 @@
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Dirtgirl27 |
-| 275 | 225 | Stephanie Hill |
+| 274 | 225 | Stephanie Hill |
+| 275 | 225 | Dirtgirl27 |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
-| 279 | 221 | Jaime Monhaut-Reed |
-| 280 | 221 | Alice |
+| 279 | 221 | Alice |
+| 280 | 221 | Jaime Monhaut-Reed |
 | 281 | 220 | Tosha Griffey |
 | 282 | 220 | rosy |
 | 283 | 218 | Michael Lucado |
@@ -459,8 +459,8 @@
 | 451 | 134 | Cheery Brickster |
 | 452 | 134 | Sharon Dudley Lawson |
 | 453 | 134 | gremicx |
-| 454 | 133 | Chummy Rumbler |
-| 455 | 133 | Jen Lewis |
+| 454 | 133 | Jen Lewis |
+| 455 | 133 | Chummy Rumbler |
 | 456 | 132 | Hanna Kim |
 | 457 | 132 | Andrew Thorson |
 | 458 | 131 | Cheeky Setter |

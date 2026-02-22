@@ -145,8 +145,8 @@
 | 137 | 282 | Cool Shiftsnap |
 | 138 | 282 | Timothy Dew |
 | 139 | 276 | Dandy Basegrid |
-| 140 | 270 | Mandyy Rae |
-| 141 | 270 | Ash Galvan |
+| 140 | 270 | Ash Galvan |
+| 141 | 270 | Mandyy Rae |
 | 142 | 268 | GATOR |
 | 143 | 265 | Nutty Spinblock |
 | 144 | 265 | SkipTheSadSauce |
@@ -200,8 +200,8 @@
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | Paula Martin |
-| 196 | 203 | LaFontaine Leslie |
+| 195 | 203 | LaFontaine Leslie |
+| 196 | 203 | Paula Martin |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |
