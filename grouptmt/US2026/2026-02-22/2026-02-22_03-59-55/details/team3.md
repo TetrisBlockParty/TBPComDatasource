@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
-| 78 | 582 | Natasha Jones |
-| 79 | 582 | Jay Horn |
+| 77 | 582 | Natasha Jones |
+| 78 | 582 | Jay Horn |
+| 79 | 582 | Speedy Bridger |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 571 | Fancy Cascader |
@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Blkpep Davidson |
-| 122 | 410 | Stephanie Simpson |
+| 121 | 410 | Stephanie Simpson |
+| 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Scott Lindsay |
@@ -182,7 +182,7 @@
 | 174 | 295 | RickyG |
 | 175 | 293 | Marci Mize Fandrich |
 | 176 | 291 | Daryn Elliott |
-| 177 | 289 | Duane Bright |
+| 177 | 289 | DidIdothat |
 | 178 | 289 | Hoppy Buildout |
 | 179 | 289 | Duane Bright |
 | 180 | 289 | Rebecca Bailey |
@@ -364,8 +364,8 @@
 | 356 | 137 | Arden White Kirsch |
 | 357 | 137 | kacihall |
 | 358 | 136 | Blair Erin Waite |
-| 359 | 136 | Sabrina Mansfield |
-| 360 | 136 | Bleu Sun Beams |
+| 359 | 136 | Bleu Sun Beams |
+| 360 | 136 | Sabrina Mansfield |
 | 361 | 135 | Angela Scott |
 | 362 | 134 | Tammy |
 | 363 | 134 | Glenn Loving |

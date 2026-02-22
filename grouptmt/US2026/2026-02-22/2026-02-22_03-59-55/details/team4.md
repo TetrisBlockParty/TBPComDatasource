@@ -73,8 +73,8 @@
 | 65 | 486 | Landon Keith Graffeo |
 | 66 | 483 | Carmethia Clemons Haslerig |
 | 67 | 466 | Dawn Alexander |
-| 68 | 447 | TeeJ |
-| 69 | 447 | Samantha Peterson |
+| 68 | 447 | Samantha Peterson |
+| 69 | 447 | TeeJ |
 | 70 | 434 | Jamie Mann-Deichmann |
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
@@ -157,8 +157,8 @@
 | 149 | 205 | Sarah Neathery |
 | 150 | 205 | Kathy Brookins |
 | 151 | 204 | Jen Caldwell |
-| 152 | 203 | Chris Bernstein |
-| 153 | 203 | Katherine Crane |
+| 152 | 203 | Katherine Crane |
+| 153 | 203 | Chris Bernstein |
 | 154 | 202 | 🥔🥔 Spudz |
 | 155 | 201 | Melvin Baird |
 | 156 | 199 | TheNeesh50 |

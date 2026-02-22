@@ -389,8 +389,8 @@
 | 381 | 466 | Crystal Greene |
 | 382 | 463 | Jaye EL Hunter |
 | 383 | 463 | Sue Leard |
-| 384 | 462 | Amanda Ferrell |
-| 385 | 462 | Daphne Jordan |
+| 384 | 462 | Daphne Jordan |
+| 385 | 462 | Amanda Ferrell |
 | 386 | 461 | Hong Tang |
 | 387 | 460 | Cody Smith-Candelaria |
 | 388 | 459 | Cassie Mercer |
