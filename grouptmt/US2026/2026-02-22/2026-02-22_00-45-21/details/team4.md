@@ -119,13 +119,13 @@
 | 111 | 225 | Damn Libra |
 | 112 | 222 | Joeliecea Cobb |
 | 113 | 221 | Alyssa Papen |
-| 114 | 218 | Casey Grabner |
-| 115 | 218 | Antony Dwayne Beasley |
+| 114 | 218 | Antony Dwayne Beasley |
+| 115 | 218 | Casey Grabner |
 | 116 | 216 | Chaz Duncan |
 | 117 | 213 | loulou |
-| 118 | 212 | Toots |
+| 118 | 212 | Mike Solo |
 | 119 | 212 | Calvin Cannon |
-| 120 | 212 | Mike Solo |
+| 120 | 212 | Toots |
 | 121 | 211 | Dizzy Tiley |
 | 122 | 211 | Twisty Cascadezone |
 | 123 | 208 | Chastity Mitchell |
@@ -135,8 +135,8 @@
 | 127 | 204 | Dana Scott |
 | 128 | 203 | Katherine Crane |
 | 129 | 202 | Monica Daley |
-| 130 | 201 | Melvin Baird |
-| 131 | 201 | Swanky Fitline |
+| 130 | 201 | Swanky Fitline |
+| 131 | 201 | Melvin Baird |
 | 132 | 197 | Peachy Fall |
 | 133 | 196 | Jeff Brian Gates |
 | 134 | 196 | Jenna McGeorge |
@@ -185,8 +185,8 @@
 | 177 | 145 | Zany Shatterer |
 | 178 | 145 | Mimi |
 | 179 | 142 | Zippy Gridlock |
-| 180 | 141 | Marcus Todd |
-| 181 | 141 | ĥuf |
+| 180 | 141 | ĥuf |
+| 181 | 141 | Kathy Allen |
 | 182 | 141 | Victoria Faniel |
 | 183 | 141 | Marcus Todd |
 | 184 | 140 | John Brunetti |

@@ -188,8 +188,8 @@
 | 180 | 156 | Shanae Grant |
 | 181 | 154 | Christy Jones |
 | 182 | 153 | ALFD |
-| 183 | 152 | Jacqueline Unique |
-| 184 | 152 | Speedy Snapfall |
+| 183 | 152 | Speedy Snapfall |
+| 184 | 152 | Jacqueline Unique |
 | 185 | 150 | Adele Rahman |
 | 186 | 148 | Shauntina Burke |
 | 187 | 148 | Bouncy Grid |

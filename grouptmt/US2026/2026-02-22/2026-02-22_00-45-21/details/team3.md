@@ -69,14 +69,14 @@
 | 61 | 621 | Cherry Parker |
 | 62 | 621 | Ebony West-Cundiff |
 | 63 | 619 | Jennifer |
-| 64 | 618 | Brandon Green |
-| 65 | 618 | MissTaylor |
+| 64 | 618 | MissTaylor |
+| 65 | 618 | Brandon Green |
 | 66 | 613 | Amber Hughes |
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |

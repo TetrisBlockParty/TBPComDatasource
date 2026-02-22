@@ -194,8 +194,8 @@
 | 186 | 705 | Lola Contreras |
 | 187 | 705 | Roger Grabbit |
 | 188 | 703 | Debra Williams |
-| 189 | 700 | Beverly Owens |
-| 190 | 700 | Rosemadder |
+| 189 | 700 | Rosemadder |
+| 190 | 700 | Beverly Owens |
 | 191 | 700 | Vincent Petrella |
 | 192 | 699 | Vo'Landa Reels |
 | 193 | 697 | Real Ri |
@@ -402,8 +402,8 @@
 | 394 | 391 | Chilly Bridgepiece |
 | 395 | 391 | Qiana Sanders |
 | 396 | 389 | Alexis Richardson |
-| 397 | 387 | Ann Matzkanin |
-| 398 | 387 | Johnny Yeates |
+| 397 | 387 | Johnny Yeates |
+| 398 | 387 | Ann Matzkanin |
 | 399 | 387 | Jennifer Malloy - Cardy |
 | 400 | 386 | Irene Jones |
 | 401 | 384 | Mike Aprilliano |
