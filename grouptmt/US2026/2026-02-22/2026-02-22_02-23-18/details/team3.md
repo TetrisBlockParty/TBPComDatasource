@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tiffany Ford |
-| 180 | 261 | Tom Nault |
+| 179 | 261 | Tom Nault |
+| 180 | 261 | Tiffany Ford |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |

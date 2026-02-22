@@ -505,8 +505,8 @@
 | 497 | 347 | Zesty Pivot |
 | 498 | 347 | Cheyenne Donovan |
 | 499 | 346 | Morgan Easter |
-| 500 | 346 | Nicole Cannon |
-| 501 | 346 | Lewis Sturgeon |
+| 500 | 346 | Lewis Sturgeon |
+| 501 | 346 | Nicole Cannon |
 | 502 | 346 | Brittany Radaszewski |
 | 503 | 345 | Frisky Clearpiece |
 | 504 | 345 | Rhianna DiLorenzo |
@@ -518,7 +518,7 @@
 | 510 | 343 | Kia Humphery |
 | 511 | 342 | Sydney Busse |
 | 512 | 342 | Ebony Deloach Bryant |
-| 513 | 342 | Sydney Busse |
+| 513 | 342 | Angi Harrison |
 | 514 | 341 | Daniel Amos |
 | 515 | 340 | Brittney Jean |
 | 516 | 338 | Shorty |

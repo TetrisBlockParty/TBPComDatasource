@@ -149,8 +149,8 @@
 | 141 | 203 | Katherine Crane |
 | 142 | 201 | Melvin Baird |
 | 143 | 198 | Jessica Lynn Cutlip |
-| 144 | 196 | Jenna McGeorge |
-| 145 | 196 | Jeff Brian Gates |
+| 144 | 196 | Jeff Brian Gates |
+| 145 | 196 | Jenna McGeorge |
 | 146 | 195 | Malakai Darien Fox |
 | 147 | 194 | Zany Twisterfit |
 | 148 | 192 | Shauna Havard |
@@ -182,8 +182,8 @@
 | 174 | 160 | Carlos Ramirez |
 | 175 | 160 | James Hurley Jr. |
 | 176 | 159 | Marcus Todd |
-| 177 | 158 | Avy Absol |
-| 178 | 158 | Chair |
+| 177 | 158 | Chair |
+| 178 | 158 | Avy Absol |
 | 179 | 156 | Cozy Balancer |
 | 180 | 155 | AyeKay |
 | 181 | 154 | scott |
