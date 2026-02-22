@@ -237,8 +237,8 @@
 | 229 | 618 | Brenda Utphall |
 | 230 | 618 | Gabby Jenner |
 | 231 | 612 | Brandon Armstrong |
-| 232 | 608 | Sommer Shope |
-| 233 | 608 | goofinoff |
+| 232 | 608 | goofinoff |
+| 233 | 608 | Sommer Shope |
 | 234 | 606 | Ellie Jonas |
 | 235 | 605 | Jelly |
 | 236 | 603 | Cassie Maynard |
@@ -310,10 +310,10 @@
 | 302 | 480 | Dar |
 | 303 | 478 | Ashley Collins |
 | 304 | 474 | Calandra Shaya Robinson |
-| 305 | 471 | Rae Rae |
-| 306 | 471 | Maya June |
+| 305 | 471 | Maya June |
+| 306 | 471 | Rae Rae |
 | 307 | 470 | Jerry Tempelmeyer |
-| 308 | 469 | Ashley Lopez |
+| 308 | 469 | Jai Jackson |
 | 309 | 469 | Amélie Cadieux |
 | 310 | 469 | Ashley Lopez |
 | 311 | 469 | Ashley Rose Frederick |
@@ -324,8 +324,8 @@
 | 316 | 463 | Sue Leard |
 | 317 | 460 | Barbra Miller |
 | 318 | 460 | Cody Smith-Candelaria |
-| 319 | 459 | Brainy Smurf |
-| 320 | 459 | Doowop40 |
+| 319 | 459 | Doowop40 |
+| 320 | 459 | Brainy Smurf |
 | 321 | 454 | Casey Schumacher |
 | 322 | 454 | Nashu |
 | 323 | 454 | Blacc Blac |

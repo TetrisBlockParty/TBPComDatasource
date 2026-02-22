@@ -261,8 +261,8 @@
 | 253 | 108 | Ali Ian |
 | 254 | 108 | Rebecca Morris |
 | 255 | 107 | Chris Alexinas |
-| 256 | 106 | Brandi Durig |
-| 257 | 106 | Zappy Snaplink |
+| 256 | 106 | Zappy Snaplink |
+| 257 | 106 | Brandi Durig |
 | 258 | 105 | Kim Hunt |
 | 259 | 104 | mike |
 | 260 | 104 | Cheery Risebuilder |
