@@ -62,8 +62,8 @@
 | 54 | 698 | Anthony Bryan Riva |
 | 55 | 697 | Edward White |
 | 56 | 690 | Dustee Craddock-Harrison |
-| 57 | 664 | D3TROITB0RN74 |
-| 58 | 664 | Valerie Roberts |
+| 57 | 664 | Valerie Roberts |
+| 58 | 664 | D3TROITB0RN74 |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |
@@ -97,8 +97,8 @@
 | 89 | 485 | YoMomma |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Samantha Peterson |
-| 93 | 447 | Shannon Ferrari |
+| 92 | 447 | Shannon Ferrari |
+| 93 | 447 | Samantha Peterson |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |

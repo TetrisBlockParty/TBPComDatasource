@@ -208,8 +208,8 @@
 | 200 | 979 | Hillary Crawford |
 | 201 | 974 | Dolores Russworn |
 | 202 | 973 | Kim Dean |
-| 203 | 960 | Jennifer Kistner |
-| 204 | 960 | Juliana Marques Do Nascimento Gordy |
+| 203 | 960 | Juliana Marques Do Nascimento Gordy |
+| 204 | 960 | Jennifer Kistner |
 | 205 | 957 | Block Master |
 | 206 | 954 | Shannon Joslin |
 | 207 | 951 | Cynthia Ward |
@@ -224,8 +224,8 @@
 | 216 | 919 | Isaac Trappiel IV |
 | 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
-| 219 | 915 | Robin Kerby |
-| 220 | 915 | Angela Bonquiqui Dinish |
+| 219 | 915 | Angela Bonquiqui Dinish |
+| 220 | 915 | Robin Kerby |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | John Bednarik |
-| 239 | 860 | April Dawn Gussler |
+| 238 | 860 | April Dawn Gussler |
+| 239 | 860 | John Bednarik |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Meghan M |
@@ -687,8 +687,8 @@
 | 679 | 357 | Tristan Szolek |
 | 680 | 356 | Kelsey Sullivan |
 | 681 | 355 | Mike73 |
-| 682 | 354 | Rachel Kaminski |
-| 683 | 354 | Rickey Johnson |
+| 682 | 354 | Rickey Johnson |
+| 683 | 354 | Rachel Kaminski |
 | 684 | 352 | Rose Fx |
 | 685 | 352 | Jean FU Jagielski |
 | 686 | 352 | Savannah Alexander |
@@ -719,8 +719,8 @@
 | 711 | 337 | Tum |
 | 712 | 336 | bru |
 | 713 | 336 | Austin Wilson |
-| 714 | 335 | Brooke Leigh Strube |
-| 715 | 335 | Alexandrea |
+| 714 | 335 | Alexandrea |
+| 715 | 335 | Brooke Leigh Strube |
 | 716 | 335 | Maria Louise |
 | 717 | 334 | Melissa James |
 | 718 | 333 | Adrian Benitez |
@@ -964,14 +964,14 @@
 | 956 | 258 | Mordoks Pyrography |
 | 957 | 258 | Kara Tolbert |
 | 958 | 258 | DesertDreamer24 |
-| 959 | 258 | Scott |
-| 960 | 258 | Joy LaJeunesse |
+| 959 | 258 | Joy LaJeunesse |
+| 960 | 258 | Scott |
 | 961 | 258 | Tee Jaleesa |
 | 962 | 257 | Jackie Jackie Lee |
 | 963 | 257 | Ys Muhammed |
 | 964 | 256 | Gursharan Sandhu |
-| 965 | 256 | Monarca26 |
-| 966 | 256 | Brenna Yearian |
+| 965 | 256 | Brenna Yearian |
+| 966 | 256 | Monarca26 |
 | 967 | 256 | Allyson Marra |
 | 968 | 255 | Jas |
 | 969 | 255 | Amanda Canterbury |
