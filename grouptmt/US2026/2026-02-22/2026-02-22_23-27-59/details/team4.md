@@ -109,8 +109,8 @@
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
 | 103 | 500 | Rodney McMath Jr. |
-| 104 | 499 | Christina LR |
-| 105 | 499 | Trista Leah |
+| 104 | 499 | Trista Leah |
+| 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
 | 107 | 487 | shar |
 | 108 | 487 | Alyssa Papen |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Jolly Dashfit |
-| 121 | 431 | Courtney Cicoria |
+| 120 | 431 | Courtney Cicoria |
+| 121 | 431 | Jolly Dashfit |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -140,8 +140,8 @@
 | 132 | 393 | Trish |
 | 133 | 393 | Carlton Unfiltered |
 | 134 | 392 | Cristy Duerksen |
-| 135 | 391 | Lush Linkfall |
-| 136 | 391 | Ramel Rhodes |
+| 135 | 391 | Ramel Rhodes |
+| 136 | 391 | Lush Linkfall |
 | 137 | 380 | Swanky Fitline |
 | 138 | 378 | Lucas J Sutton |
 | 139 | 377 | Jessica Bohlken |
@@ -247,8 +247,8 @@
 | 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Perky Patternblock |
-| 243 | 225 | Jenna McGeorge |
+| 242 | 225 | Jenna McGeorge |
+| 243 | 225 | Perky Patternblock |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | Chair |
 | 246 | 221 | PurpleMoonMa |
