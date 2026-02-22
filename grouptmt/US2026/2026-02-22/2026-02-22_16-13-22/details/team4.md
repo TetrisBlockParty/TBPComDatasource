@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -95,8 +95,8 @@
 | 87 | 512 | Casey Jeffcoat |
 | 88 | 500 | Rodney McMath Jr. |
 | 89 | 493 | Judy Cox |
-| 90 | 488 | Shane Kalamata Platoon |
-| 91 | 488 | Jen Allison |
+| 90 | 488 | Jen Allison |
+| 91 | 488 | Shane Kalamata Platoon |
 | 92 | 486 | Carmethia Clemons Haslerig |
 | 93 | 448 | Kristin Manee |
 | 94 | 447 | Erin Thomas |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -176,8 +176,8 @@
 | 168 | 262 | Holly Jolly |
 | 169 | 262 | Joeliecea Cobb |
 | 170 | 262 | Juls |
-| 171 | 256 | Mylo Lipscomb |
-| 172 | 256 | Porkobello |
+| 171 | 256 | Porkobello |
+| 172 | 256 | Mylo Lipscomb |
 | 173 | 255 | Diana Houts |
 | 174 | 253 | Casey Grabner |
 | 175 | 251 | Matt Summer |
@@ -185,8 +185,8 @@
 | 177 | 245 | Peachy Fall |
 | 178 | 245 | Autum Leigh |
 | 179 | 244 | Twisty Cascadezone |
-| 180 | 244 | Mimi |
-| 181 | 244 | J-Rizzle |
+| 180 | 244 | J-Rizzle |
+| 181 | 244 | Mimi |
 | 182 | 241 | Allen Lloyd |
 | 183 | 241 | Jose Dejesus |
 | 184 | 239 | Zethra Prenisha Rahming |
@@ -251,8 +251,8 @@
 | 243 | 184 | Ak Jones |
 | 244 | 184 | Lauren Lamb |
 | 245 | 183 | JPW |
-| 246 | 181 | Jackie Marie |
-| 247 | 181 | Carter Jones |
+| 246 | 181 | Carter Jones |
+| 247 | 181 | Jackie Marie |
 | 248 | 180 | Orchislactea |
 | 249 | 179 | Stephme310 |
 | 250 | 179 | Christina Black |
@@ -295,10 +295,10 @@
 | 287 | 152 | Jared Gutwein |
 | 288 | 152 | Faja |
 | 289 | 152 | Angela Geist Jusinski |
-| 290 | 151 | Shanon Klair |
-| 291 | 151 | Joseph Pace |
-| 292 | 151 | Sarah Hoffman |
-| 293 | 151 | Amanda Christine |
+| 290 | 151 | Joseph Pace |
+| 291 | 151 | Shanon Klair |
+| 292 | 151 | Amanda Christine |
+| 293 | 151 | Sarah Hoffman |
 | 294 | 150 | Brandon Link |
 | 295 | 150 | GBR |
 | 296 | 148 | Cranky Rollpiece |
@@ -332,8 +332,8 @@
 | 324 | 141 | Montiette Mcglown |
 | 325 | 141 | Tony Pavelka |
 | 326 | 140 | Rico |
-| 327 | 139 | Lori Goudy |
-| 328 | 139 | O block |
+| 327 | 139 | O block |
+| 328 | 139 | Lori Goudy |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Moonsterix |
 | 331 | 138 | Jasmine S Caldwell |
@@ -639,8 +639,8 @@
 | 631 | 68 | Bold Buildsnap |
 | 632 | 68 | Nita Wells |
 | 633 | 68 | Aly Eggers |
-| 634 | 68 | Jen May |
-| 635 | 68 | Joni Marie Flanary |
+| 634 | 68 | Joni Marie Flanary |
+| 635 | 68 | Jen May |
 | 636 | 68 | KanVus |
 | 637 | 68 | zelda Morgan |
 | 638 | 67 | Kayley Kara Gaudin |

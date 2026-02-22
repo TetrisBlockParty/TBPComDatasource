@@ -175,8 +175,8 @@
 | 167 | 1154 | Stacy Stickle |
 | 168 | 1147 | Kiok |
 | 169 | 1131 | Stacey Clement |
-| 170 | 1124 | Brandy Andre |
-| 171 | 1124 | Jessie McDougald |
+| 170 | 1124 | Jessie McDougald |
+| 171 | 1124 | Brandy Andre |
 | 172 | 1121 | Megan Ferguson Leone |
 | 173 | 1117 | Ricardo Burton |
 | 174 | 1113 | Anna Edwards |
@@ -214,9 +214,9 @@
 | 206 | 972 | Juliana Marques Do Nascimento Gordy |
 | 207 | 972 | Ashley Rose Frederick |
 | 208 | 960 | Jennifer Kistner |
-| 209 | 957 | Crystal Hoffman |
-| 210 | 957 | Keri Womack |
-| 211 | 957 | Block Master |
+| 209 | 957 | Keri Womack |
+| 210 | 957 | Block Master |
+| 211 | 957 | Crystal Hoffman |
 | 212 | 954 | Shannon Joslin |
 | 213 | 951 | Cynthia Ward |
 | 214 | 950 | Teresa Gillmore |
@@ -229,8 +229,8 @@
 | 221 | 919 | Joshua Mandel |
 | 222 | 919 | Isaac Trappiel IV |
 | 223 | 916 | Butta |
-| 224 | 915 | Angela Bonquiqui Dinish |
-| 225 | 915 | Robin Kerby |
+| 224 | 915 | Robin Kerby |
+| 225 | 915 | Angela Bonquiqui Dinish |
 | 226 | 915 | Kelly Trent |
 | 227 | 910 | Shuany Arias |
 | 228 | 907 | Gene Mills |
@@ -362,8 +362,8 @@
 | 354 | 650 | Shiny Rollzone |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | BYM4L |
-| 358 | 640 | Kara Gillen |
+| 357 | 640 | Kara Gillen |
+| 358 | 640 | BYM4L |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 633 | Breezy Filler |

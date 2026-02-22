@@ -85,8 +85,8 @@
 | 77 | 472 | April Carroll |
 | 78 | 471 | Jennifer ManWarren |
 | 79 | 456 | Arianna O'Brien |
-| 80 | 444 | Lexuriuos Lifestlye |
-| 81 | 444 | Hyper |
+| 80 | 444 | Hyper |
+| 81 | 444 | Lexuriuos Lifestlye |
 | 82 | 443 | Steve Schneider |
 | 83 | 436 | Tonya Beasley |
 | 84 | 433 | Trina Gee |
@@ -193,8 +193,8 @@
 | 185 | 239 | Sam Williams |
 | 186 | 237 | LaFontaine Leslie |
 | 187 | 236 | femmefatale |
-| 188 | 235 | MRdot Rooski |
-| 189 | 235 | Desiree Deschaine Havee |
+| 188 | 235 | Desiree Deschaine Havee |
+| 189 | 235 | MRdot Rooski |
 | 190 | 234 | Paula Martin |
 | 191 | 231 | Amanda Johnson Huffman |
 | 192 | 230 | Frothy Pattern |
@@ -202,8 +202,8 @@
 | 194 | 226 | Kandae |
 | 195 | 225 | Bindi |
 | 196 | 224 | ParisandCory Champagne |
-| 197 | 223 | Basment Living |
-| 198 | 223 | Erez Yosef |
+| 197 | 223 | Erez Yosef |
+| 198 | 223 | Basment Living |
 | 199 | 222 | Debbie Davis |
 | 200 | 221 | Daring Fitclear |
 | 201 | 220 | Giddy Cascade |
@@ -297,8 +297,8 @@
 | 289 | 166 | LD1 |
 | 290 | 166 | Gary Gobin |
 | 291 | 166 | Carrie Smith |
-| 292 | 165 | Nadine Velardo |
-| 293 | 165 | Silly Align |
+| 292 | 165 | Silly Align |
+| 293 | 165 | Nadine Velardo |
 | 294 | 164 | Poppy Riserpiece |
 | 295 | 163 | Blaire Bruckoff |
 | 296 | 163 | Tyler Whitley |
@@ -339,8 +339,8 @@
 | 331 | 145 | Chantelle Ceno |
 | 332 | 145 | Rachel Nichole Henry |
 | 333 | 145 | Robert |
-| 334 | 144 | Miguel Teixeira |
-| 335 | 144 | Toph |
+| 334 | 144 | Toph |
+| 335 | 144 | Miguel Teixeira |
 | 336 | 143 | Guest |
 | 337 | 142 | Nathan Sealander |
 | 338 | 142 | Mario Cab |

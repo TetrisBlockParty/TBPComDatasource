@@ -217,8 +217,8 @@
 | 209 | 332 | Rich LeBlanc |
 | 210 | 330 | Rebecca Funderburk Kirby |
 | 211 | 330 | Danielle Balcom |
-| 212 | 324 | Kristal C Lee |
-| 213 | 324 | Sissy Lowery Davis |
+| 212 | 324 | Sissy Lowery Davis |
+| 213 | 324 | Kristal C Lee |
 | 214 | 323 | Demetrious Shaw Sr. |
 | 215 | 320 | Keis |
 | 216 | 320 | Ashley Muncey |
@@ -291,8 +291,8 @@
 | 283 | 244 | LaNette Morgan |
 | 284 | 244 | Christian Werndl |
 | 285 | 243 | Foltz Lee Kelli |
-| 286 | 241 | LaShey Thompson |
-| 287 | 241 | France Vézina |
+| 286 | 241 | France Vézina |
+| 287 | 241 | LaShey Thompson |
 | 288 | 240 | Jimmie Clemons |
 | 289 | 239 | Michael Johnson |
 | 290 | 236 | Jess Bissett |
@@ -321,8 +321,8 @@
 | 313 | 216 | Frothy Snapper |
 | 314 | 216 | Cheryl Hinch Tenbrook |
 | 315 | 214 | Jennifer Alvey |
-| 316 | 214 | Lizabeth Fox |
-| 317 | 214 | Randy Clevenger |
+| 316 | 214 | Randy Clevenger |
+| 317 | 214 | Lizabeth Fox |
 | 318 | 214 | Amy Fuller Heaton |
 | 319 | 213 | Nicholas Roddy |
 | 320 | 213 | Romeo |
@@ -333,8 +333,8 @@
 | 325 | 211 | El Chapa |
 | 326 | 210 | Criss |
 | 327 | 210 | Eileen Brady Thurber |
-| 328 | 209 | TotoCherue |
-| 329 | 209 | Micayah Stevens |
+| 328 | 209 | Micayah Stevens |
+| 329 | 209 | TotoCherue |
 | 330 | 209 | Philip Rock |
 | 331 | 208 | AlsoJess |
 | 332 | 208 | Niki Dalrymple |
