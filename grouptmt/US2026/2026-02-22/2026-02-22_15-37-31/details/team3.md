@@ -268,8 +268,8 @@
 | 260 | 262 | Ray Lader |
 | 261 | 262 | Joe-Maggie Mathews |
 | 262 | 261 | Tiffany Ford |
-| 263 | 260 | Nikki Pags |
-| 264 | 260 | Grams |
+| 263 | 260 | Grams |
+| 264 | 260 | Nikki Pags |
 | 265 | 259 | Danielle Weikel |
 | 266 | 257 | Ashley Jones |
 | 267 | 256 | Connie Mohler-Fair |
@@ -372,12 +372,12 @@
 | 364 | 186 | Noettín Kan Zasnemoore |
 | 365 | 186 | Bryan Byrd |
 | 366 | 185 | Angella Lyons |
-| 367 | 184 | Shanon R Jackson |
-| 368 | 184 | Troy |
+| 367 | 184 | Troy |
+| 368 | 184 | Shanon R Jackson |
 | 369 | 184 | Salena Whitlock |
 | 370 | 183 | Naur |
-| 371 | 182 | Kevin Russell |
-| 372 | 182 | gremicx |
+| 371 | 182 | gremicx |
+| 372 | 182 | Kevin Russell |
 | 373 | 181 | Denita Mungro |
 | 374 | 180 | Ava Petito |
 | 375 | 180 | Loopy Fallzone |
@@ -516,15 +516,15 @@
 | 508 | 133 | Jumpy Wrecker |
 | 509 | 133 | Chummy Rumbler |
 | 510 | 132 | Andrew Thorson |
-| 511 | 131 | Jolly Dashpiece |
-| 512 | 131 | Erin Ervin |
+| 511 | 131 | Erin Ervin |
+| 512 | 131 | Jolly Dashpiece |
 | 513 | 130 | Alexi Pryor |
-| 514 | 129 | Amanda Neal |
-| 515 | 129 | luluraine |
+| 514 | 129 | luluraine |
+| 515 | 129 | Amanda Neal |
 | 516 | 129 | TLM |
-| 517 | 129 | Juliana Dottore |
+| 517 | 129 | Stella |
 | 518 | 129 | LIL BIT |
-| 519 | 129 | Stella |
+| 519 | 129 | Juliana Dottore |
 | 520 | 128 | David Kozen |
 | 521 | 128 | Glitzy Rotate |
 | 522 | 127 | Scidone Perez |

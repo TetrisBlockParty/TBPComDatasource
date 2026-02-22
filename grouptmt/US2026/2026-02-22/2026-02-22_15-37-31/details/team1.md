@@ -280,8 +280,8 @@
 | 272 | 177 | Jacqueline Unique |
 | 273 | 175 | John Barron |
 | 274 | 175 | Kellie Tunstall |
-| 275 | 174 | Tavia |
-| 276 | 174 | Alex Gauthier |
+| 275 | 174 | Alex Gauthier |
+| 276 | 174 | Tavia |
 | 277 | 173 | Rico Rico |
 | 278 | 173 | Cranky Pattern |
 | 279 | 171 | Greg Premoe |
@@ -381,7 +381,7 @@
 | 373 | 123 | Jumpy Rotate |
 | 374 | 123 | Betsy |
 | 375 | 122 | Tyler L Hunt |
-| 376 | 121 | John Ramirez |
+| 376 | 121 | Amber Nixon |
 | 377 | 121 | Jacob Shaddock |
 | 378 | 121 | John Ramirez |
 | 379 | 120 | Billie Ann Eason |

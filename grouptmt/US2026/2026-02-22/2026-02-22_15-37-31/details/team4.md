@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Dee Kay |
-| 46 | 775 | Rebecca Moulton Pinciaro |
+| 45 | 775 | Rebecca Moulton Pinciaro |
+| 46 | 775 | Dee Kay |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 740 | Robin Getchel |
@@ -247,8 +247,8 @@
 | 239 | 186 | Cristy Duerksen |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |
-| 242 | 184 | Lauren Lamb |
-| 243 | 184 | Ak Jones |
+| 242 | 184 | Ak Jones |
+| 243 | 184 | Lauren Lamb |
 | 244 | 183 | JPW |
 | 245 | 181 | Jackie Marie |
 | 246 | 181 | Carter Jones |
@@ -270,13 +270,13 @@
 | 262 | 165 | James Hurley Jr. |
 | 263 | 165 | Zappy Buildgrid |
 | 264 | 163 | Ellen Durfee |
-| 265 | 162 | conceptCollector |
+| 265 | 162 | Gwendolyn Pitcairn |
 | 266 | 162 | John Brunetti |
-| 267 | 162 | Gwendolyn Pitcairn |
-| 268 | 161 | Twisty Risebuilder |
-| 269 | 161 | Tanner Lund |
-| 270 | 159 | Marcus Todd |
-| 271 | 159 | DonMega |
+| 267 | 162 | conceptCollector |
+| 268 | 161 | Tanner Lund |
+| 269 | 161 | Twisty Risebuilder |
+| 270 | 159 | DonMega |
+| 271 | 159 | Marcus Todd |
 | 272 | 158 | Chair |
 | 273 | 157 | KayM |
 | 274 | 157 | Bethany Ison |

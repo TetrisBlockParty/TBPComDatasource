@@ -478,8 +478,8 @@
 | 470 | 496 | Erika Densmore |
 | 471 | 495 | Bubbly Snapbuild |
 | 472 | 494 | Venita Ray |
-| 473 | 493 | Sue Leard |
-| 474 | 493 | Sarah DeHart |
+| 473 | 493 | Sarah DeHart |
+| 474 | 493 | Sue Leard |
 | 475 | 492 | Breezy Clusterer |
 | 476 | 492 | Armonie Smith |
 | 477 | 492 | Maya June |
@@ -535,8 +535,8 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | Anthony Huebel |
-| 531 | 451 | Funky Caster |
+| 530 | 451 | Funky Caster |
+| 531 | 451 | Anthony Huebel |
 | 532 | 450 | Cheery Matchzone |
 | 533 | 448 | Liberty |
 | 534 | 447 | Boozi |
@@ -863,8 +863,8 @@
 | 855 | 284 | Hillary Franklin |
 | 856 | 284 | David Rehse |
 | 857 | 284 | Candice Mack |
-| 858 | 284 | Josh Webster |
-| 859 | 284 | Loopy Shatterfit |
+| 858 | 284 | Loopy Shatterfit |
+| 859 | 284 | Josh Webster |
 | 860 | 282 | Albert McKnight |
 | 861 | 282 | Witty Piecebuilder |
 | 862 | 282 | Bec |
