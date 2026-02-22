@@ -150,8 +150,8 @@
 | 142 | 445 | Shannon Matthew Byers |
 | 143 | 445 | Kristie McFarland |
 | 144 | 445 | Jacqueline Rodriguez |
-| 145 | 435 | Daryn Elliott |
-| 146 | 435 | Michelle |
+| 145 | 435 | Michelle |
+| 146 | 435 | Daryn Elliott |
 | 147 | 432 | Jenny Hrndz |
 | 148 | 427 | Wendy Dearden |
 | 149 | 427 | Logan Naccarato |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tasha Wesson-Torrence |
-| 247 | 261 | Tiffany Ford |
+| 246 | 261 | Tiffany Ford |
+| 247 | 261 | Tasha Wesson-Torrence |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 260 | Nikki Pags |
@@ -268,8 +268,8 @@
 | 260 | 246 | Peppy Shifter |
 | 261 | 245 | Latoya Mayne |
 | 262 | 244 | LaNette Morgan |
-| 263 | 243 | Brenda Schmid Wood |
-| 264 | 243 | Foltz Lee Kelli |
+| 263 | 243 | Foltz Lee Kelli |
+| 264 | 243 | Brenda Schmid Wood |
 | 265 | 240 | Jimmie Clemons |
 | 266 | 238 | Connie Mohler-Fair |
 | 267 | 238 | LaTanya GeminiondaRise Johnson |
@@ -299,8 +299,8 @@
 | 291 | 214 | Amy Fuller Heaton |
 | 292 | 214 | Rebel124 |
 | 293 | 213 | Nicholas Roddy |
-| 294 | 212 | Sunny Rotater |
-| 295 | 212 | Desiree Gold |
+| 294 | 212 | Desiree Gold |
+| 295 | 212 | Sunny Rotater |
 | 296 | 212 | Jana Polk |
 | 297 | 211 | Velma Mull |
 | 298 | 211 | El Chapa |

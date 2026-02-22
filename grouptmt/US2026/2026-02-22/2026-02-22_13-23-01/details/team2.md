@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Crystal Hoffman |
-| 211 | 910 | Shuany Arias |
+| 210 | 910 | Shuany Arias |
+| 211 | 910 | Crystal Hoffman |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 899 | Hillary Crawford |
@@ -351,15 +351,15 @@
 | 343 | 626 | Dylan Thomason |
 | 344 | 620 | Brandon Armstrong |
 | 345 | 613 | Ellie Jonas |
-| 346 | 613 | Caitlyn Blackwell |
-| 347 | 613 | Breezy Filler |
+| 346 | 613 | Breezy Filler |
+| 347 | 613 | Caitlyn Blackwell |
 | 348 | 611 | Julio A Laracuente |
 | 349 | 611 | Carl Bradshaw |
 | 350 | 611 | Em Chen |
 | 351 | 603 | Cassie Maynard |
 | 352 | 602 | KhaosLord |
-| 353 | 602 | Biggest thing |
-| 354 | 602 | Christine Bollig |
+| 353 | 602 | Christine Bollig |
+| 354 | 602 | Biggest thing |
 | 355 | 601 | Michele Morgan |
 | 356 | 600 | Demeka Dangerous-kisses Johnson |
 | 357 | 597 | Steven Marshaun |
@@ -421,8 +421,8 @@
 | 413 | 525 | Desiree Anderson |
 | 414 | 524 | Lonne Emade |
 | 415 | 523 | Matt Johnson |
-| 416 | 522 | Lylymom |
-| 417 | 522 | Joseph Musick |
+| 416 | 522 | Joseph Musick |
+| 417 | 522 | Lylymom |
 | 418 | 521 | Tj Ball |
 | 419 | 520 | Maddy Petersen |
 | 420 | 520 | Angela Lynn |
@@ -559,8 +559,8 @@
 | 551 | 416 | Ricky Fortune |
 | 552 | 414 | John |
 | 553 | 413 | Angi Harrison |
-| 554 | 413 | Lauren Fitzgerald Thomas |
-| 555 | 413 | Fancy Twister |
+| 554 | 413 | Fancy Twister |
+| 555 | 413 | Lauren Fitzgerald Thomas |
 | 556 | 412 | Jason H Baker |
 | 557 | 411 | Kristen O'Neal |
 | 558 | 411 | Mighty Spinbuilder |

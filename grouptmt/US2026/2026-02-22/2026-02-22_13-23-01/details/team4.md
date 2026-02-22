@@ -67,8 +67,8 @@
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
 | 61 | 646 | Jacqueline Helm |
-| 62 | 636 | Dustee Craddock-Harrison |
-| 63 | 636 | Kimyatta Cavin |
+| 62 | 636 | Kimyatta Cavin |
+| 63 | 636 | Dustee Craddock-Harrison |
 | 64 | 614 | TheNeesh50 |
 | 65 | 599 | Brittney Griggs |
 | 66 | 593 | Lisa Davis |

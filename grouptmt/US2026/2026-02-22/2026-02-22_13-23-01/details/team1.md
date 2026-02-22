@@ -269,14 +269,14 @@
 | 261 | 170 | Tina Englert |
 | 262 | 169 | Abbey Crespo |
 | 263 | 168 | Angela Fairbank |
-| 264 | 167 | Cranky Pattern |
-| 265 | 167 | Nery Martinez |
+| 264 | 167 | Nery Martinez |
+| 265 | 167 | Cranky Pattern |
 | 266 | 166 | Carrie Smith |
-| 267 | 165 | Nadine Velardo |
-| 268 | 165 | Silly Align |
-| 269 | 163 | Blaire Bruckoff |
+| 267 | 165 | Silly Align |
+| 268 | 165 | Nadine Velardo |
+| 269 | 163 | Davery Spencer Adair |
 | 270 | 163 | Tyler Whitley |
-| 271 | 163 | Davery Spencer Adair |
+| 271 | 163 | Blaire Bruckoff |
 | 272 | 161 | SavageBooty98 |
 | 273 | 160 | Tedashi |
 | 274 | 159 | Jason Savage |
