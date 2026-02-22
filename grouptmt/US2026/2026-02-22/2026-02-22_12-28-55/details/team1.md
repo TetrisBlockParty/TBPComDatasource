@@ -77,8 +77,8 @@
 | 69 | 461 | April Carroll |
 | 70 | 456 | Arianna O'Brien |
 | 71 | 447 | Evie Khalil |
-| 72 | 434 | Hyper |
-| 73 | 434 | MomMom |
+| 72 | 434 | MomMom |
+| 73 | 434 | Hyper |
 | 74 | 430 | Nancy Green |
 | 75 | 428 | Stephanie Zahn |
 | 76 | 418 | Jazzy Framezone |
@@ -98,8 +98,8 @@
 | 90 | 388 | Jennifer ManWarren |
 | 91 | 383 | Loony Fitzone |
 | 92 | 382 | Jacqueline Williams |
-| 93 | 379 | Austin James |
-| 94 | 379 | Kimmie Kimms |
+| 93 | 379 | Kimmie Kimms |
+| 94 | 379 | Austin James |
 | 95 | 376 | lil mickey |
 | 96 | 374 | Tinah Montanna |
 | 97 | 364 | Shauna Loe |
@@ -120,11 +120,11 @@
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
-| 118 | 316 | Ly Phethmany |
-| 119 | 316 | Dizzy Party |
+| 118 | 316 | Dizzy Party |
+| 119 | 316 | Ly Phethmany |
 | 120 | 316 | Jennifer Hardman |
 | 121 | 313 | Tanya Carpenter-Reynolds |
 | 122 | 310 | Jason Jones |
@@ -234,7 +234,7 @@
 | 226 | 183 | Amy Hess |
 | 227 | 183 | Andrew Boone |
 | 228 | 182 | Phu ckalldems |
-| 229 | 180 | BigWeenie69 |
+| 229 | 180 | Beau Galvan |
 | 230 | 180 | Jessie Lynn |
 | 231 | 180 | BigWeenie69 |
 | 232 | 179 | Danielle Little-Daugherty |

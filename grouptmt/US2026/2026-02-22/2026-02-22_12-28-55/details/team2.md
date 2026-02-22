@@ -373,8 +373,8 @@
 | 365 | 578 | BeQuo |
 | 366 | 576 | Leslie Johnson Guinto |
 | 367 | 572 | Chris Wanner |
-| 368 | 571 | Emily Lyric Converse |
-| 369 | 571 | Dylan Thomason |
+| 368 | 571 | Dylan Thomason |
+| 369 | 571 | Emily Lyric Converse |
 | 370 | 569 | Vaniel Glover |
 | 371 | 562 | Ashley Lopez |
 | 372 | 561 | Irene Jones |
@@ -439,8 +439,8 @@
 | 431 | 500 | Sarah Ridenour |
 | 432 | 499 | Sarah Massey |
 | 433 | 498 | Rhonda Milstead |
-| 434 | 497 | Doowop40 |
-| 435 | 497 | June E Hanson |
+| 434 | 497 | June E Hanson |
+| 435 | 497 | Doowop40 |
 | 436 | 494 | Venita Ray |
 | 437 | 493 | Kara Gillen |
 | 438 | 492 | Maya June |
@@ -454,8 +454,8 @@
 | 446 | 487 | MrsCandyfine As Wine Truss |
 | 447 | 487 | Morgan Easter |
 | 448 | 485 | Mamachelle Eisweirth |
-| 449 | 485 | Dapper Dasher |
-| 450 | 485 | Ann Matzkanin |
+| 449 | 485 | Ann Matzkanin |
+| 450 | 485 | Dapper Dasher |
 | 451 | 484 | Brenna Ann |
 | 452 | 484 | Street Sweeper |
 | 453 | 483 | Victor Obiakarije |
@@ -465,13 +465,13 @@
 | 457 | 482 | Eckoman518 |
 | 458 | 482 | Ben Barkley |
 | 459 | 481 | Klee |
-| 460 | 480 | Dar |
-| 461 | 480 | Ashley Collins |
+| 460 | 480 | Ashley Collins |
+| 461 | 480 | Dar |
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Calandra Shaya Robinson |
-| 466 | 474 | Steve Man |
+| 465 | 474 | Steve Man |
+| 466 | 474 | Calandra Shaya Robinson |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 473 | Biggest thing |

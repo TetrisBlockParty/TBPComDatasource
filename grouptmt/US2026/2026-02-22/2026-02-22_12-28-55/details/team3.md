@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -279,8 +279,8 @@
 | 271 | 232 | Donna |
 | 272 | 227 | Krystal Gerstberger |
 | 273 | 227 | Meowsa |
-| 274 | 225 | Dirtgirl27 |
-| 275 | 225 | Stephanie Hill |
+| 274 | 225 | Stephanie Hill |
+| 275 | 225 | Dirtgirl27 |
 | 276 | 225 | Steffi Chris Dacones |
 | 277 | 224 | Quirky Dropzone |
 | 278 | 221 | Vaners |
@@ -448,8 +448,8 @@
 | 440 | 139 | Paula Little |
 | 441 | 138 | Bleu Sun Beams |
 | 442 | 137 | Giggly Brickroll |
-| 443 | 136 | Stephanie Zahm |
-| 444 | 136 | Sabrina Mansfield |
+| 443 | 136 | Sabrina Mansfield |
+| 444 | 136 | Stephanie Zahm |
 | 445 | 136 | Karen Picaboo |
 | 446 | 135 | Jen Lewis |
 | 447 | 135 | Morgan Cudo |
