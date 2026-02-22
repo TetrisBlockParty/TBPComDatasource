@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Carmethia Clemons Haslerig |
-| 80 | 486 | Landon Keith Graffeo |
+| 79 | 486 | Landon Keith Graffeo |
+| 80 | 486 | Carmethia Clemons Haslerig |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -136,11 +136,11 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Scott Jameson |
-| 132 | 283 | Brittney Orengo |
+| 131 | 283 | Brittney Orengo |
+| 132 | 283 | Scott Jameson |
 | 133 | 281 | Meagan Nicole |
-| 134 | 278 | Carrie Brian |
-| 135 | 278 | Desi Desporte |
+| 134 | 278 | Desi Desporte |
+| 135 | 278 | Carrie Brian |
 | 136 | 277 | Mary Ann Pabukis |
 | 137 | 275 | Dizzy Tiley |
 | 138 | 274 | Calvin Cannon |
@@ -148,7 +148,7 @@
 | 140 | 271 | Sarah Brown |
 | 141 | 267 | Damn Libra |
 | 142 | 265 | Jeff Brian Gates |
-| 143 | 264 | Girl |
+| 143 | 264 | Dana Scott |
 | 144 | 264 | Epic Curvetile |
 | 145 | 264 | Girl |
 | 146 | 262 | Alan George LaRage |
@@ -178,8 +178,8 @@
 | 170 | 221 | Rheanda Weaskus |
 | 171 | 221 | PurpleMoonMa |
 | 172 | 219 | Sammy Noguera |
-| 173 | 217 | Kim Hunt |
-| 174 | 217 | Chaz Duncan |
+| 173 | 217 | Chaz Duncan |
+| 174 | 217 | Kim Hunt |
 | 175 | 217 | Angela Srubar-Norman |
 | 176 | 215 | Jessica Bohlken |
 | 177 | 213 | Sarah Neathery |

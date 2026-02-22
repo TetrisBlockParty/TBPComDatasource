@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Gracie |
-| 110 | 333 | Brandi Huntington |
+| 109 | 333 | Brandi Huntington |
+| 110 | 333 | Gracie |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -137,8 +137,8 @@
 | 129 | 290 | Sarah Roberts |
 | 130 | 290 | Death |
 | 131 | 285 | Ananda Mendez |
-| 132 | 284 | Rachael |
-| 133 | 284 | Emily Adelaide Wheatley |
+| 132 | 284 | Emily Adelaide Wheatley |
+| 133 | 284 | Rachael |
 | 134 | 283 | Franswa |
 | 135 | 282 | Cool Shiftsnap |
 | 136 | 282 | Tyler Werts |
@@ -161,8 +161,8 @@
 | 153 | 255 | Elaine Elaine |
 | 154 | 254 | Al Smith Jr |
 | 155 | 254 | Ty Brown |
-| 156 | 253 | Witty Builderfit |
-| 157 | 253 | Plucky Fallzone |
+| 156 | 253 | Plucky Fallzone |
+| 157 | 253 | Witty Builderfit |
 | 158 | 252 | Dena Kayy |
 | 159 | 247 | Tana |
 | 160 | 246 | Lakeisha Chapman |
@@ -200,8 +200,8 @@
 | 192 | 205 | Snappy Matcher |
 | 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
-| 195 | 203 | LaFontaine Leslie |
-| 196 | 203 | Paula Martin |
+| 195 | 203 | Paula Martin |
+| 196 | 203 | LaFontaine Leslie |
 | 197 | 202 | Amanda Holibaugh |
 | 198 | 201 | Colleen Wise |
 | 199 | 200 | Flashy Rotator |
@@ -289,8 +289,8 @@
 | 281 | 151 | Gilbert Ortiz Jr. |
 | 282 | 150 | Adele Rahman |
 | 283 | 150 | Agustin Duarte Orozco |
-| 284 | 149 | Jessica Russell |
-| 285 | 149 | Melissa Bires Hussar |
+| 284 | 149 | Melissa Bires Hussar |
+| 285 | 149 | Jessica Russell |
 | 286 | 148 | Howdi Duty |
 | 287 | 147 | J.F. Fields |
 | 288 | 146 | Fresno Beotoni |

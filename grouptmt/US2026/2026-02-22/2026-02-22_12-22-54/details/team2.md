@@ -293,10 +293,10 @@
 | 285 | 713 | Chelle |
 | 286 | 704 | Shelley Thornburgh Wright |
 | 287 | 703 | Gold Rose |
-| 288 | 700 | Hong Tang |
-| 289 | 700 | Vincent Petrella |
-| 290 | 700 | Rosemadder |
-| 291 | 700 | Beverly Owens |
+| 288 | 700 | Beverly Owens |
+| 289 | 700 | Rosemadder |
+| 290 | 700 | Hong Tang |
+| 291 | 700 | Vincent Petrella |
 | 292 | 697 | Dreamy Blast |
 | 293 | 696 | Kathryn Townsley |
 | 294 | 696 | Jánine Riggs |
@@ -306,8 +306,8 @@
 | 298 | 690 | Deborah Miller |
 | 299 | 689 | Giggy Blocker |
 | 300 | 688 | Brenda Utphall |
-| 301 | 688 | ShinyRose |
-| 302 | 688 | Tiara Elizabeth Baker |
+| 301 | 688 | Tiara Elizabeth Baker |
+| 302 | 688 | ShinyRose |
 | 303 | 687 | Dee |
 | 304 | 686 | Ashley Guernsey-Martin |
 | 305 | 685 | Binyah-Binyah |
@@ -461,8 +461,8 @@
 | 453 | 483 | Victor Obiakarije |
 | 454 | 483 | Alezandra Smith |
 | 455 | 482 | Amélie Cadieux |
-| 456 | 482 | Eckoman518 |
-| 457 | 482 | Drwatson187 |
+| 456 | 482 | Drwatson187 |
+| 457 | 482 | Eckoman518 |
 | 458 | 482 | Ben Barkley |
 | 459 | 481 | Klee |
 | 460 | 480 | Ashley Collins |
@@ -470,8 +470,8 @@
 | 462 | 477 | Julay |
 | 463 | 476 | Kitybox |
 | 464 | 475 | Michelle Lee |
-| 465 | 474 | Steve Man |
-| 466 | 474 | Calandra Shaya Robinson |
+| 465 | 474 | Calandra Shaya Robinson |
+| 466 | 474 | Steve Man |
 | 467 | 473 | coleksquad |
 | 468 | 473 | Lyndi Robinson Wakefield |
 | 469 | 472 | Arwa Fatimah |
@@ -543,8 +543,8 @@
 | 535 | 424 | Lina Sanders |
 | 536 | 423 | Sam |
 | 537 | 421 | Vonceial Boone |
-| 538 | 420 | Juanita Lyons |
-| 539 | 420 | LaWanda Powell |
+| 538 | 420 | LaWanda Powell |
+| 539 | 420 | Juanita Lyons |
 | 540 | 419 | Pocho Zavala |
 | 541 | 419 | Josh Dill |
 | 542 | 418 | Véronique Lévesque Sabourin |
@@ -558,8 +558,8 @@
 | 550 | 413 | Biggest thing |
 | 551 | 413 | Fancy Twister |
 | 552 | 412 | Jason H Baker |
-| 553 | 411 | Mighty Spinbuilder |
-| 554 | 411 | Kristen O'Neal |
+| 553 | 411 | Kristen O'Neal |
+| 554 | 411 | Mighty Spinbuilder |
 | 555 | 410 | Nicole Cannon |
 | 556 | 408 | Abimbola Bimbo |
 | 557 | 408 | Stefanie Zonzini-Gagliardi |
@@ -627,8 +627,8 @@
 | 619 | 371 | Brenda Messer |
 | 620 | 371 | Saucy Fitzone |
 | 621 | 370 | Heather Sawtelle-Mckenzie |
-| 622 | 369 | RaeVan Worthington |
-| 623 | 369 | Tony Lea |
+| 622 | 369 | Tony Lea |
+| 623 | 369 | RaeVan Worthington |
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |

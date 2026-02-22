@@ -103,8 +103,8 @@
 | 95 | 595 | Patricia White |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 577 | Giddy Drop |
@@ -162,8 +162,8 @@
 | 154 | 403 | Scott Lindsay |
 | 155 | 401 | Katie Knaus |
 | 156 | 400 | Luciana Braganca Vieira |
-| 157 | 399 | Mcathen |
-| 158 | 399 | Marcie Bressler |
+| 157 | 399 | Marcie Bressler |
+| 158 | 399 | Mcathen |
 | 159 | 397 | Annie Déè |
 | 160 | 393 | Fallorina Susana |
 | 161 | 391 | Calista Jo Dickson |
@@ -177,8 +177,8 @@
 | 169 | 376 | Loopy Clusterer |
 | 170 | 374 | Sherry Ogden |
 | 171 | 371 | Michael Nowogorski |
-| 172 | 370 | Santeria Trece Candles |
-| 173 | 370 | Danielle Allison |
+| 172 | 370 | Danielle Allison |
+| 173 | 370 | Santeria Trece Candles |
 | 174 | 368 | Stephanie Woods |
 | 175 | 366 | Adrian Marcel Pate |
 | 176 | 362 | Darlene McMillan |
@@ -220,13 +220,13 @@
 | 212 | 298 | MsBee |
 | 213 | 297 | Jojo M |
 | 214 | 297 | Keis |
-| 215 | 296 | Katrina Turner |
-| 216 | 296 | Ammmmmmy |
+| 215 | 296 | Ammmmmmy |
+| 216 | 296 | Katrina Turner |
 | 217 | 296 | Brandon Givens |
 | 218 | 295 | Marci Mize Fandrich |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Duane Bright |
-| 221 | 289 | Hoppy Buildout |
+| 220 | 289 | Hoppy Buildout |
+| 221 | 289 | Duane Bright |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Cheeky Snapper |
@@ -305,8 +305,8 @@
 | 297 | 210 | Lizabeth Fox |
 | 298 | 209 | Micayah Stevens |
 | 299 | 208 | AlsoJess |
-| 300 | 207 | Jessica |
-| 301 | 207 | Daring Builder |
+| 300 | 207 | Daring Builder |
+| 301 | 207 | Jessica |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
 | 304 | 206 | Tracy Martin |
@@ -442,8 +442,8 @@
 | 434 | 141 | Reina Roth |
 | 435 | 140 | Jumpy Curvebuilder |
 | 436 | 140 | Alison Baus |
-| 437 | 140 | Linda Draper |
-| 438 | 140 | Boldy Corner |
+| 437 | 140 | Boldy Corner |
+| 438 | 140 | Linda Draper |
 | 439 | 139 | Beppy |
 | 440 | 139 | Paula Little |
 | 441 | 138 | Bleu Sun Beams |
