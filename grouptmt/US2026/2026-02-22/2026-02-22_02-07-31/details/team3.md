@@ -117,8 +117,8 @@
 | 109 | 428 | Elissa S-k |
 | 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
-| 112 | 410 | Stephanie Simpson |
-| 113 | 410 | Stephanie Blkpep Davidson |
+| 112 | 410 | Stephanie Blkpep Davidson |
+| 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
 | 115 | 403 | Christine Filson |
 | 116 | 403 | FuzzyNavel |

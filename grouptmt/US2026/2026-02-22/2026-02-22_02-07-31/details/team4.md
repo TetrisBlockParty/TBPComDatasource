@@ -122,8 +122,8 @@
 | 114 | 235 | Lucas J Sutton |
 | 115 | 232 | Peachy Fall |
 | 116 | 231 | Chastity Mitchell |
-| 117 | 230 | Daria Rycewicz |
-| 118 | 230 | Autum Leigh |
+| 117 | 230 | Autum Leigh |
+| 118 | 230 | Daria Rycewicz |
 | 119 | 225 | Damn Libra |
 | 120 | 224 | Monica Daley |
 | 121 | 222 | Joeliecea Cobb |
@@ -136,8 +136,8 @@
 | 128 | 217 | loulou |
 | 129 | 217 | Chaz Duncan |
 | 130 | 215 | Jessica Bohlken |
-| 131 | 212 | Calvin Cannon |
-| 132 | 212 | Mike Solo |
+| 131 | 212 | Mike Solo |
+| 132 | 212 | Calvin Cannon |
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |
@@ -154,15 +154,15 @@
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
 | 148 | 190 | Justin Hannigan |
-| 149 | 189 | Stacey Stano |
-| 150 | 189 | Calvin Dennis |
+| 149 | 189 | Calvin Dennis |
+| 150 | 189 | Stacey Stano |
 | 151 | 188 | Andria Lynn |
 | 152 | 187 | TheNeesh50 |
 | 153 | 186 | Holly |
 | 154 | 185 | Lori |
 | 155 | 185 | Andy Cabral |
-| 156 | 184 | Chilly Crasher |
-| 157 | 184 | Ak Jones |
+| 156 | 184 | Ak Jones |
+| 157 | 184 | Chilly Crasher |
 | 158 | 182 | Matt Summer |
 | 159 | 181 | Carter Jones |
 | 160 | 181 | Klo |
@@ -265,8 +265,8 @@
 | 257 | 115 | Jayk |
 | 258 | 114 | PennyCandee |
 | 259 | 114 | Christina Black |
-| 260 | 113 | Dandy Cascadefit |
-| 261 | 113 | Adam Randall |
+| 260 | 113 | Adam Randall |
+| 261 | 113 | Dandy Cascadefit |
 | 262 | 112 | Jeremy Steines |
 | 263 | 111 | Lazy Blocker |
 | 264 | 110 | Zach Kerbs |

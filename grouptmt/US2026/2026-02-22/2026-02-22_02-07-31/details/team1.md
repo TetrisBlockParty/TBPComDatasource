@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Sharon Reynolds |
-| 111 | 263 | Jason Jones |
+| 110 | 263 | Jason Jones |
+| 111 | 263 | Sharon Reynolds |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 257 | june october |
 | 114 | 252 | Dena Kayy |
@@ -125,8 +125,8 @@
 | 117 | 243 | Chelsea Dahlquist |
 | 118 | 243 | Trippy Redd |
 | 119 | 241 | John J. Cronin |
-| 120 | 240 | Lexuriuos Lifestlye |
-| 121 | 240 | Tana |
+| 120 | 240 | Tana |
+| 121 | 240 | Lexuriuos Lifestlye |
 | 122 | 236 | Mandyy Rae |
 | 123 | 230 | Frothy Pattern |
 | 124 | 230 | Billie Dawn Sparks |
@@ -150,11 +150,11 @@
 | 142 | 198 | Happy Snapbuild |
 | 143 | 198 | Shiny Gridmatch |
 | 144 | 195 | Daring Fitclear |
-| 145 | 194 | Ash Galvan |
-| 146 | 194 | Tyler Werts |
+| 145 | 194 | Tyler Werts |
+| 146 | 194 | Ash Galvan |
 | 147 | 193 | Lachelle Dillon |
-| 148 | 192 | Shaykmia |
-| 149 | 192 | Jessica Sheehan |
+| 148 | 192 | Jessica Sheehan |
+| 149 | 192 | Shaykmia |
 | 150 | 191 | Diane Byrd |
 | 151 | 190 | Sweetts |
 | 152 | 190 | Thorne Shumate |
@@ -171,17 +171,17 @@
 | 163 | 179 | femmefatale |
 | 164 | 179 | Danielle Little-Daugherty |
 | 165 | 178 | Chad Atchley |
-| 166 | 177 | Jacqueline Unique |
-| 167 | 177 | Irual Hctrab |
-| 168 | 177 | ParisandCory Champagne |
+| 166 | 177 | Irual Hctrab |
+| 167 | 177 | ParisandCory Champagne |
+| 168 | 177 | Jacqueline Unique |
 | 169 | 175 | John Barron |
 | 170 | 174 | Cheeky Pop |
 | 171 | 173 | Gabrielle Louise Malloch |
 | 172 | 172 | Mel Hogan |
 | 173 | 171 | Greg Premoe |
 | 174 | 171 | David DeSantis |
-| 175 | 170 | Veronica Eve |
-| 176 | 170 | Cartier |
+| 175 | 170 | Cartier |
+| 176 | 170 | Veronica Eve |
 | 177 | 169 | Abbey Crespo |
 | 178 | 168 | Standia Civil |
 | 179 | 168 | Jessie Lynn |
