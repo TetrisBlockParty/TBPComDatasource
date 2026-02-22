@@ -127,8 +127,8 @@
 | 119 | 270 | Jennifer Hardman |
 | 120 | 264 | Jenny Gingrich Fuentes |
 | 121 | 264 | Lexuriuos Lifestlye |
-| 122 | 263 | Jason Jones |
-| 123 | 263 | Sharon Reynolds |
+| 122 | 263 | Sharon Reynolds |
+| 123 | 263 | Jason Jones |
 | 124 | 256 | David Miller |
 | 125 | 252 | Elaine Elaine |
 | 126 | 252 | Dena Kayy |
@@ -164,8 +164,8 @@
 | 156 | 201 | Sam Williams |
 | 157 | 201 | Sleepysloath5745 |
 | 158 | 199 | Basment Living |
-| 159 | 198 | Happy Snapbuild |
-| 160 | 198 | Shiny Gridmatch |
+| 159 | 198 | Shiny Gridmatch |
+| 160 | 198 | Happy Snapbuild |
 | 161 | 195 | Daring Fitclear |
 | 162 | 194 | Tyler Werts |
 | 163 | 193 | Lachelle Dillon |
@@ -206,8 +206,8 @@
 | 198 | 168 | LaFontaine Leslie |
 | 199 | 167 | Nery Martinez |
 | 200 | 167 | Bindi |
-| 201 | 165 | Silly Align |
-| 202 | 165 | Nadine Velardo |
+| 201 | 165 | Nadine Velardo |
+| 202 | 165 | Silly Align |
 | 203 | 164 | Shanae Grant |
 | 204 | 163 | Angela Fairbank |
 | 205 | 163 | DaRascal |
@@ -229,8 +229,8 @@
 | 221 | 150 | Agustin Duarte Orozco |
 | 222 | 150 | Adele Rahman |
 | 223 | 149 | Chirpy Smasher |
-| 224 | 147 | J.F. Fields |
-| 225 | 147 | Davery Spencer Adair |
+| 224 | 147 | Davery Spencer Adair |
+| 225 | 147 | J.F. Fields |
 | 226 | 146 | Witty Builderfit |
 | 227 | 145 | Tipsy Riseclear |
 | 228 | 144 | Fmp |
@@ -315,7 +315,7 @@
 | 307 | 106 | Josh Smith |
 | 308 | 106 | Bloknboy |
 | 309 | 105 | Kayla Marie Stevenson |
-| 310 | 105 | Eddie Dillon |
+| 310 | 105 | Ty Brown |
 | 311 | 105 | George Dalton |
 | 312 | 105 | Eddie Dillon |
 | 313 | 104 | Charla Pross-Fugleberg |

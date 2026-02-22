@@ -109,8 +109,8 @@
 | 101 | 506 | Sashay Tapae Simpson |
 | 102 | 503 | Susan Valentino |
 | 103 | 502 | Justin Ritter |
-| 104 | 500 | Kristie |
-| 105 | 500 | Domo Washington |
+| 104 | 500 | Domo Washington |
+| 105 | 500 | Kristie |
 | 106 | 497 | Mykal Burton |
 | 107 | 492 | Daira Largen |
 | 108 | 491 | Chauntee Alfrey-Cardinale |
@@ -120,8 +120,8 @@
 | 112 | 479 | Poppy Splitter |
 | 113 | 471 | Mendoza Lee Christy |
 | 114 | 469 | Patricia White |
-| 115 | 459 | Nerdy Riseclear |
-| 116 | 459 | mjl574 |
+| 115 | 459 | mjl574 |
+| 116 | 459 | Nerdy Riseclear |
 | 117 | 453 | Silly Twist |
 | 118 | 449 | Danielle Rhoades |
 | 119 | 445 | Kristie McFarland |
@@ -245,8 +245,8 @@
 | 237 | 221 | Jaime Monhaut-Reed |
 | 238 | 219 | Sissy Lowery Davis |
 | 239 | 218 | Michael Lucado |
-| 240 | 216 | rosy |
-| 241 | 216 | Samantha Lynn |
+| 240 | 216 | Samantha Lynn |
+| 241 | 216 | rosy |
 | 242 | 215 | Alice |
 | 243 | 215 | IamJust Neyamijah Washington Sr. |
 | 244 | 214 | Rebel124 |
@@ -254,8 +254,8 @@
 | 246 | 214 | Amy Fuller Heaton |
 | 247 | 213 | Trisha Balmer |
 | 248 | 213 | Stephanie Burtin |
-| 249 | 212 | Twisty Brick LT |
-| 250 | 212 | Desiree Gold |
+| 249 | 212 | Desiree Gold |
+| 250 | 212 | Twisty Brick LT |
 | 251 | 212 | Sunny Rotater |
 | 252 | 211 | Katrina Turner |
 | 253 | 211 | Khaleada McGill Banks |
@@ -297,11 +297,11 @@
 | 289 | 178 | Jess Dearborn |
 | 290 | 176 | Melissa Orth Hunter |
 | 291 | 175 | Eileen Brady Thurber |
-| 292 | 174 | Betty Rosas |
-| 293 | 174 | fraulila |
+| 292 | 174 | fraulila |
+| 293 | 174 | Betty Rosas |
 | 294 | 174 | Lesley Perez |
-| 295 | 173 | Denita Mungro |
-| 296 | 173 | BŘŰŤİÇŨŚ |
+| 295 | 173 | BŘŰŤİÇŨŚ |
+| 296 | 173 | Denita Mungro |
 | 297 | 171 | Emma |
 | 298 | 170 | Cesar Barraza |
 | 299 | 169 | Peachy Rollfit |

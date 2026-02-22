@@ -398,24 +398,24 @@
 | 390 | 465 | Michelle Fields |
 | 391 | 463 | Jaye EL Hunter |
 | 392 | 463 | Sue Leard |
-| 393 | 462 | Daphne Jordan |
-| 394 | 462 | Tonya Lee |
-| 395 | 462 | Amanda Ferrell |
+| 393 | 462 | Tonya Lee |
+| 394 | 462 | Amanda Ferrell |
+| 395 | 462 | Daphne Jordan |
 | 396 | 461 | Hong Tang |
 | 397 | 460 | Cody Smith-Candelaria |
 | 398 | 459 | Cassie Mercer |
 | 399 | 458 | Casper The Chonk |
 | 400 | 454 | Casey Schumacher |
-| 401 | 453 | Rhonda Petro |
-| 402 | 453 | Joshua Sommerville |
+| 401 | 453 | Joshua Sommerville |
+| 402 | 453 | Rhonda Petro |
 | 403 | 451 | Melissa Kay Gibson |
 | 404 | 451 | Funky Caster |
 | 405 | 451 | Cody Nishimura |
 | 406 | 451 | Dylan Thomason |
 | 407 | 449 | Davetta Sanford |
 | 408 | 447 | Heather Schelkopf |
-| 409 | 447 | Brandy Andre |
-| 410 | 447 | Ann Matzkanin |
+| 409 | 447 | Ann Matzkanin |
+| 410 | 447 | Brandy Andre |
 | 411 | 447 | Lourisha |
 | 412 | 445 | Mar Q Thomas |
 | 413 | 444 | Emily Lyric Converse |
@@ -991,8 +991,8 @@
 | 983 | 191 | Dorinda Palato |
 | 984 | 191 | Samuel Labruno |
 | 985 | 190 | LaFaye Rivers |
-| 986 | 190 | Joann |
-| 987 | 190 | Crystal Herndon |
+| 986 | 190 | Crystal Herndon |
+| 987 | 190 | Joann |
 | 988 | 190 | Elizabeth Pearson |
 | 989 | 190 | Nerdy Blockpiece |
 | 990 | 190 | Jessica Kaye DeAguero |

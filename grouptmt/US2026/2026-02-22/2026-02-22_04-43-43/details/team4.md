@@ -43,8 +43,8 @@
 | 35 | 766 | Robin Watters |
 | 36 | 717 | BertMofo |
 | 37 | 704 | Crystal Carroll |
-| 38 | 697 | Edward White |
-| 39 | 697 | Rachel Anne |
+| 38 | 697 | Rachel Anne |
+| 39 | 697 | Edward White |
 | 40 | 659 | Rebecca Moulton Pinciaro |
 | 41 | 646 | Jacqueline Helm |
 | 42 | 634 | Anthony Bryan Riva |
@@ -114,8 +114,8 @@
 | 106 | 287 | Shannon Ferrari |
 | 107 | 286 | Daria Rycewicz |
 | 108 | 284 | shark tato |
-| 109 | 278 | Lucas J Sutton |
-| 110 | 278 | Carrie Brian |
+| 109 | 278 | Carrie Brian |
+| 110 | 278 | Lucas J Sutton |
 | 111 | 277 | KJ Pool |
 | 112 | 275 | Dizzy Tiley |
 | 113 | 274 | Desi Desporte |
@@ -175,8 +175,8 @@
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Lori |
-| 170 | 185 | Andy Cabral |
-| 171 | 185 | Diana Houts |
+| 170 | 185 | Diana Houts |
+| 171 | 185 | Andy Cabral |
 | 172 | 184 | Ak Jones |
 | 173 | 183 | Chance Strickland |
 | 174 | 181 | Alan George LaRage |
@@ -188,8 +188,8 @@
 | 180 | 174 | Dihcheese444 |
 | 181 | 173 | ThaEviLJeNiuZ |
 | 182 | 168 | TinyLegoRose |
-| 183 | 166 | SammieJo Guy |
-| 184 | 166 | Cozy Balancer |
+| 183 | 166 | Cozy Balancer |
+| 184 | 166 | SammieJo Guy |
 | 185 | 164 | 030Synner |
 | 186 | 162 | Joanna |
 | 187 | 160 | ZeeZee |
@@ -246,8 +246,8 @@
 | 238 | 132 | Melissa Priest Sellers |
 | 239 | 132 | Degenerate |
 | 240 | 132 | Jessica Cagle |
-| 241 | 131 | Vanessa Smart |
-| 242 | 131 | Smiley Tiltbuilder |
+| 241 | 131 | Smiley Tiltbuilder |
+| 242 | 131 | Vanessa Smart |
 | 243 | 131 | Michelle Morris |
 | 244 | 130 | Angelito |
 | 245 | 130 | Shukee Lo |
