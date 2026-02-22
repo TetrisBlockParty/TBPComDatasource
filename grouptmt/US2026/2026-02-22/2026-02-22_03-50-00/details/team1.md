@@ -89,8 +89,8 @@
 | 81 | 362 | Plucky Ziggy |
 | 82 | 361 | Trina Gee |
 | 83 | 359 | Nerdy Linkblock |
-| 84 | 347 | pjbeta |
-| 85 | 347 | june october |
+| 84 | 347 | june october |
+| 85 | 347 | pjbeta |
 | 86 | 345 | Dee Perry |
 | 87 | 338 | Tipsy Strikerpiece |
 | 88 | 337 | Hyper |
@@ -100,9 +100,9 @@
 | 92 | 326 | Monica Donato |
 | 93 | 323 | Sweet Baker |
 | 94 | 321 | Maria C. Hernandez |
-| 95 | 319 | Shauna Loe |
+| 95 | 319 | Deanna L Hermanson |
 | 96 | 319 | Patrick Luckenbill |
-| 97 | 319 | Deanna L Hermanson |
+| 97 | 319 | Shauna Loe |
 | 98 | 313 | Tanya Carpenter-Reynolds |
 | 99 | 313 | Spunky Piecebuilder |
 | 100 | 310 | Seth Wesson |
@@ -129,8 +129,8 @@
 | 121 | 252 | Elaine Elaine |
 | 122 | 252 | Dena Kayy |
 | 123 | 247 | Tana |
-| 124 | 243 | Trippy Redd |
-| 125 | 243 | Chelsea Dahlquist |
+| 124 | 243 | Chelsea Dahlquist |
+| 125 | 243 | Trippy Redd |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | David Miller |
 | 128 | 236 | Mandyy Rae |
@@ -159,8 +159,8 @@
 | 151 | 201 | Sleepysloath5745 |
 | 152 | 200 | Ash Galvan |
 | 153 | 199 | Basment Living |
-| 154 | 198 | Shiny Gridmatch |
-| 155 | 198 | Happy Snapbuild |
+| 154 | 198 | Happy Snapbuild |
+| 155 | 198 | Shiny Gridmatch |
 | 156 | 195 | Daring Fitclear |
 | 157 | 194 | Tyler Werts |
 | 158 | 193 | Lachelle Dillon |
@@ -168,8 +168,8 @@
 | 160 | 192 | Jessica Sheehan |
 | 161 | 192 | Shaykmia |
 | 162 | 191 | Diane Byrd |
-| 163 | 190 | Thorne Shumate |
-| 164 | 190 | Sweetts |
+| 163 | 190 | Sweetts |
+| 164 | 190 | Thorne Shumate |
 | 165 | 189 | Michael |
 | 166 | 188 | Sam Williams |
 | 167 | 187 | Snippy Wipebuilder |
@@ -181,8 +181,8 @@
 | 173 | 179 | Danielle Little-Daugherty |
 | 174 | 179 | femmefatale |
 | 175 | 178 | Chad Atchley |
-| 176 | 177 | Jacqueline Unique |
-| 177 | 177 | Irual Hctrab |
+| 176 | 177 | Irual Hctrab |
+| 177 | 177 | Jacqueline Unique |
 | 178 | 176 | Mel Hogan |
 | 179 | 175 | John Barron |
 | 180 | 174 | Cheeky Pop |
@@ -275,8 +275,8 @@
 | 267 | 115 | Mrs.Patrica |
 | 268 | 115 | Chuck Gannon |
 | 269 | 114 | Rachel Nichole Henry |
-| 270 | 114 | Constance Risner |
-| 271 | 114 | Angela Rena Brooks |
+| 270 | 114 | Angela Rena Brooks |
+| 271 | 114 | Constance Risner |
 | 272 | 113 | Jamie Jury |
 | 273 | 112 | Crystal Joslin |
 | 274 | 112 | Chris65 |

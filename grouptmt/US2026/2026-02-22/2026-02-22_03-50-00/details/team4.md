@@ -139,10 +139,10 @@
 | 131 | 224 | Matt Summer |
 | 132 | 222 | Joeliecea Cobb |
 | 133 | 221 | PurpleMoonMa |
-| 134 | 220 | Matt Dell'Olio |
-| 135 | 220 | Mary Ann Pabukis |
-| 136 | 218 | Casey Grabner |
-| 137 | 218 | Antony Dwayne Beasley |
+| 134 | 220 | Mary Ann Pabukis |
+| 135 | 220 | Matt Dell'Olio |
+| 136 | 218 | Antony Dwayne Beasley |
+| 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
 | 139 | 215 | Ren Mc |
 | 140 | 215 | Jessica Bohlken |
@@ -172,8 +172,8 @@
 | 164 | 189 | Chilly Crasher |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
-| 167 | 185 | Lori |
-| 168 | 185 | Andy Cabral |
+| 167 | 185 | Andy Cabral |
+| 168 | 185 | Lori |
 | 169 | 184 | Ak Jones |
 | 170 | 181 | Klo |
 | 171 | 181 | Carter Jones |
@@ -191,14 +191,14 @@
 | 183 | 160 | Carlos Ramirez |
 | 184 | 160 | James Hurley Jr. |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Avy Absol |
-| 187 | 158 | Chair |
+| 186 | 158 | Chair |
+| 187 | 158 | Avy Absol |
 | 188 | 155 | AyeKay |
 | 189 | 154 | scott |
 | 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
-| 192 | 152 | Austin Owens |
-| 193 | 152 | John Brunetti |
+| 192 | 152 | John Brunetti |
+| 193 | 152 | Austin Owens |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
 | 196 | 149 | Judy Cox |

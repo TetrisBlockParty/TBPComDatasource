@@ -164,8 +164,8 @@
 | 156 | 953 | Ladyrainbootz |
 | 157 | 951 | Cynthia Ward |
 | 158 | 950 | Teresa Gillmore |
-| 159 | 941 | Marie Boyd Faulk |
-| 160 | 941 | Desiree Harris Rosch |
+| 159 | 941 | Desiree Harris Rosch |
+| 160 | 941 | Marie Boyd Faulk |
 | 161 | 937 | Shannon Joslin |
 | 162 | 935 | William Meussner |
 | 163 | 933 | Jumpy Gridpiece |
