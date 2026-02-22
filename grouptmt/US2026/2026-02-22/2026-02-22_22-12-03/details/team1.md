@@ -136,8 +136,8 @@
 | 128 | 379 | Kimmie Kimms |
 | 129 | 379 | Austin James |
 | 130 | 376 | Brian Richardsson |
-| 131 | 376 | lil mickey |
-| 132 | 376 | And |
+| 131 | 376 | And |
+| 132 | 376 | lil mickey |
 | 133 | 372 | Sweet Baker |
 | 134 | 370 | Ly Phethmany |
 | 135 | 364 | Shauna Loe |
@@ -146,8 +146,8 @@
 | 138 | 360 | Wisa |
 | 139 | 359 | Chirpy Smasher |
 | 140 | 357 | Amanda Johnson Huffman |
-| 141 | 350 | Tipsy Strikerpiece |
-| 142 | 350 | Death |
+| 141 | 350 | Death |
+| 142 | 350 | Tipsy Strikerpiece |
 | 143 | 344 | Monica Donato |
 | 144 | 343 | Tanya Carpenter-Reynolds |
 | 145 | 341 | Nick R Montague |
@@ -166,8 +166,8 @@
 | 158 | 318 | Virginia Gray Floyd |
 | 159 | 318 | Jessica Sheehan |
 | 160 | 313 | Jason Savage |
-| 161 | 310 | Kimberly Garcia |
-| 162 | 310 | Basment Living |
+| 161 | 310 | Basment Living |
+| 162 | 310 | Kimberly Garcia |
 | 163 | 309 | Rachael |
 | 164 | 307 | Sarah Roberts |
 | 165 | 306 | Rat666 |
@@ -252,7 +252,7 @@
 | 244 | 224 | ParisandCory Champagne |
 | 245 | 223 | Erez Yosef |
 | 246 | 223 | Christina Backer |
-| 247 | 223 | Erez Yosef |
+| 247 | 223 | Thorne Shumate |
 | 248 | 222 | Debbie Davis |
 | 249 | 222 | Snappy Bridgepiece |
 | 250 | 221 | Amy Hess |
@@ -316,7 +316,7 @@
 | 308 | 187 | Fresno Beotoni |
 | 309 | 187 | Speedy Snapfall |
 | 310 | 187 | GringaLinga |
-| 311 | 187 | Fresno Beotoni |
+| 311 | 187 | Jessica Weed |
 | 312 | 186 | Nikki Fridley |
 | 313 | 185 | Hasty Columnbuilder |
 | 314 | 185 | Oscar Zamora |

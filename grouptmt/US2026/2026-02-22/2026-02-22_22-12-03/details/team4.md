@@ -61,15 +61,15 @@
 | 53 | 766 | Robin Watters |
 | 54 | 763 | Ashley Ingram |
 | 55 | 757 | Ancient Intuition |
-| 56 | 751 | Jason Allen |
-| 57 | 751 | Rachel Anne |
+| 56 | 751 | Rachel Anne |
+| 57 | 751 | Jason Allen |
 | 58 | 745 | Robin Getchel |
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 731 | Anthony Bryan Riva |
 | 62 | 722 | Dustee Craddock-Harrison |
-| 63 | 721 | Edward White |
-| 64 | 721 | Chilly Line |
+| 63 | 721 | Chilly Line |
+| 64 | 721 | Edward White |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
@@ -144,8 +144,8 @@
 | 136 | 373 | Joseph Guthrie |
 | 137 | 355 | Kristina Black |
 | 138 | 354 | Jessica Lynn Cutlip |
-| 139 | 353 | Tyler Terrific |
-| 140 | 353 | Livvy |
+| 139 | 353 | Livvy |
+| 140 | 353 | Tyler Terrific |
 | 141 | 350 | Angela Srubar-Norman |
 | 142 | 348 | Silly Zonebuilder |
 | 143 | 343 | ThaEviLJeNiuZ |
@@ -173,8 +173,8 @@
 | 165 | 312 | Rafael Valentin |
 | 166 | 309 | Cristy Duerksen |
 | 167 | 308 | Jeff Brian Gates |
-| 168 | 307 | Girl |
-| 169 | 307 | Bio Nelly |
+| 168 | 307 | Bio Nelly |
+| 169 | 307 | Girl |
 | 170 | 303 | shark tato |
 | 171 | 302 | Cursed Hag |
 | 172 | 301 | J-Rizzle |

@@ -189,9 +189,9 @@
 | 181 | 454 | FuzzyNavel |
 | 182 | 452 | Jacqueline Rodriguez |
 | 183 | 447 | Shunta Jacobs |
-| 184 | 432 | Luciana Braganca Vieira |
-| 185 | 432 | Christine Trester |
-| 186 | 432 | Jenny Hrndz |
+| 184 | 432 | Jenny Hrndz |
+| 185 | 432 | Luciana Braganca Vieira |
+| 186 | 432 | Christine Trester |
 | 187 | 431 | Sarah Cowan Burgos |
 | 188 | 430 | Joye Sims Binion |
 | 189 | 430 | Jeni Dow |
@@ -320,12 +320,12 @@
 | 312 | 268 | Krystal Gerstberger |
 | 313 | 268 | Denita Mungro |
 | 314 | 267 | April Matthew Kibble |
-| 315 | 266 | Donna |
-| 316 | 266 | Quirky Dropzone |
-| 317 | 266 | Snazzy Filler |
+| 315 | 266 | Quirky Dropzone |
+| 316 | 266 | Snazzy Filler |
+| 317 | 266 | Donna |
 | 318 | 263 | Jimmie Clemons |
 | 319 | 261 | Angela Scott |
-| 320 | 258 | Kiki |
+| 320 | 258 | Michael Kimbro |
 | 321 | 258 | IamJust Neyamijah Washington Sr. |
 | 322 | 258 | Kiki |
 | 323 | 256 | KayB |

@@ -445,8 +445,8 @@
 | 437 | 616 | Jackie Avila |
 | 438 | 615 | Julio A Laracuente |
 | 439 | 614 | Emilee Burke |
-| 440 | 613 | Lylymom |
-| 441 | 613 | Tonya Lee |
+| 440 | 613 | Tonya Lee |
+| 441 | 613 | Lylymom |
 | 442 | 611 | Biggest thing |
 | 443 | 605 | Santana Miyagi |
 | 444 | 603 | Véronique Lévesque Sabourin |
@@ -659,17 +659,17 @@
 | 651 | 429 | Goofy Catcher |
 | 652 | 429 | Angel Hunnewell |
 | 653 | 428 | Epic Stackzone |
-| 654 | 427 | RaeVan Worthington |
-| 655 | 427 | Destiny Cozier |
-| 656 | 426 | Austin Wilson |
-| 657 | 426 | Cleo Sims |
-| 658 | 426 | Tyler C. Jung |
-| 659 | 426 | Courtney Burcham |
+| 654 | 427 | Destiny Cozier |
+| 655 | 427 | RaeVan Worthington |
+| 656 | 426 | Courtney Burcham |
+| 657 | 426 | Tyler C. Jung |
+| 658 | 426 | Austin Wilson |
+| 659 | 426 | Cleo Sims |
 | 660 | 425 | Snappy snappers |
 | 661 | 424 | Saucy Fitzone |
-| 662 | 423 | Smashanator |
-| 663 | 423 | Taylor Flowers |
-| 664 | 422 | Kimberly Ann |
+| 662 | 423 | Taylor Flowers |
+| 663 | 423 | Smashanator |
+| 664 | 422 | Oscar Bernie |
 | 665 | 422 | Stefanie Zonzini-Gagliardi |
 | 666 | 422 | Kimberly Ann |
 | 667 | 421 | Nina Nav |
@@ -846,12 +846,12 @@
 | 838 | 344 | Glenn Cobbins |
 | 839 | 344 | Kelsey |
 | 840 | 343 | Alexandrea |
-| 841 | 343 | Timothy Jesuwole |
-| 842 | 343 | Snappy Shatterfit |
+| 841 | 343 | Snappy Shatterfit |
+| 842 | 343 | Timothy Jesuwole |
 | 843 | 343 | Victoria Marie Bunch |
 | 844 | 342 | Danielle DeLozier Plesec |
-| 845 | 342 | SwifftFox |
-| 846 | 342 | Johanna Massaro |
+| 845 | 342 | Johanna Massaro |
+| 846 | 342 | SwifftFox |
 | 847 | 342 | Patrick Fleming |
 | 848 | 341 | Robin L. Vial |
 | 849 | 341 | Angela Yantz |
