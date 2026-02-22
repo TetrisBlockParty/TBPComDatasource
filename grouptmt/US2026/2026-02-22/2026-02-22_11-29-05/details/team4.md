@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -77,8 +77,8 @@
 | 69 | 530 | Yoset Mejia |
 | 70 | 524 | Amelpss |
 | 71 | 521 | Dawn Alexander |
-| 72 | 518 | Eric Mcgaughy |
-| 73 | 518 | Carolyn Wallace |
+| 72 | 518 | Carolyn Wallace |
+| 73 | 518 | Eric Mcgaughy |
 | 74 | 517 | H.R. Block |
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
@@ -165,8 +165,8 @@
 | 157 | 230 | Autum Leigh |
 | 158 | 230 | Cursed Hag |
 | 159 | 228 | J-Rizzle |
-| 160 | 227 | Alyssa Papen |
-| 161 | 227 | Swanky Fitline |
+| 160 | 227 | Swanky Fitline |
+| 161 | 227 | Alyssa Papen |
 | 162 | 225 | Damn Libra |
 | 163 | 224 | Matt Summer |
 | 164 | 223 | Kris Bartlett |
@@ -177,17 +177,17 @@
 | 169 | 218 | Casey Grabner |
 | 170 | 217 | Chaz Duncan |
 | 171 | 217 | Kim Hunt |
-| 172 | 215 | Jessica Bohlken |
-| 173 | 215 | Ren Mc |
-| 174 | 213 | Sarah Neathery |
-| 175 | 213 | Jason Allen |
+| 172 | 215 | Ren Mc |
+| 173 | 215 | Jessica Bohlken |
+| 174 | 213 | Jason Allen |
+| 175 | 213 | Sarah Neathery |
 | 176 | 212 | Mike Solo |
 | 177 | 211 | Jenna McGeorge |
 | 178 | 210 | Zethra Prenisha Rahming |
 | 179 | 207 | Chirpy Basepiece |
 | 180 | 205 | Kathy Brookins |
-| 181 | 204 | Carlos Ramirez |
-| 182 | 204 | Jen Caldwell |
+| 181 | 204 | Jen Caldwell |
+| 182 | 204 | Carlos Ramirez |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
 | 185 | 201 | Chance Strickland |
@@ -205,10 +205,10 @@
 | 197 | 192 | Shauna Havard |
 | 198 | 191 | Sam Bishop |
 | 199 | 191 | Klo |
-| 200 | 190 | Cheery Risebuilder |
-| 201 | 190 | Alan George LaRage |
-| 202 | 189 | Calvin Dennis |
-| 203 | 189 | Stacey Stano |
+| 200 | 190 | Alan George LaRage |
+| 201 | 190 | Cheery Risebuilder |
+| 202 | 189 | Stacey Stano |
+| 203 | 189 | Calvin Dennis |
 | 204 | 188 | Andria Lynn |
 | 205 | 187 | blockstar |
 | 206 | 186 | Holly |

@@ -89,9 +89,9 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Candy Jones |
-| 85 | 390 | Lori Bales |
-| 86 | 390 | Goose egg |
+| 84 | 390 | Lori Bales |
+| 85 | 390 | Goose egg |
+| 86 | 390 | Candy Jones |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |

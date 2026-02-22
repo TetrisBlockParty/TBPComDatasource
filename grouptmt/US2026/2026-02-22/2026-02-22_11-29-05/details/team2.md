@@ -329,8 +329,8 @@
 | 321 | 650 | Shiny Rollzone |
 | 322 | 645 | tejas25 |
 | 323 | 643 | Hoppy Brickmatch |
-| 324 | 641 | Joce Lynn |
-| 325 | 641 | Angie Bolton Workman |
+| 324 | 641 | Angie Bolton Workman |
+| 325 | 641 | Joce Lynn |
 | 326 | 640 | BYM4L |
 | 327 | 639 | Crystie Hicks |
 | 328 | 639 | Rebecca Miller |
@@ -344,8 +344,8 @@
 | 336 | 613 | Breezy Filler |
 | 337 | 613 | Ellie Jonas |
 | 338 | 611 | Em Chen |
-| 339 | 611 | Carl Bradshaw |
-| 340 | 611 | Julio A Laracuente |
+| 339 | 611 | Julio A Laracuente |
+| 340 | 611 | Carl Bradshaw |
 | 341 | 605 | Jelly |
 | 342 | 603 | Cassie Maynard |
 | 343 | 602 | KhaosLord |
@@ -408,8 +408,8 @@
 | 400 | 522 | Lylymom |
 | 401 | 522 | Joseph Musick |
 | 402 | 521 | Tj Ball |
-| 403 | 520 | Maddy Petersen |
-| 404 | 520 | Angela Lynn |
+| 403 | 520 | Angela Lynn |
+| 404 | 520 | Maddy Petersen |
 | 405 | 519 | Rob Brown |
 | 406 | 517 | Alex Dungo Hoang |
 | 407 | 517 | Amber Brion |
@@ -493,8 +493,8 @@
 | 485 | 456 | Melissa Rebbe-Lehman |
 | 486 | 455 | Morgan Easter |
 | 487 | 454 | Casey Schumacher |
-| 488 | 453 | Joshua Sommerville |
-| 489 | 453 | Rhonda Petro |
+| 488 | 453 | Rhonda Petro |
+| 489 | 453 | Joshua Sommerville |
 | 490 | 451 | Funky Caster |
 | 491 | 450 | Cheery Matchzone |
 | 492 | 447 | Jessica S Flecha |
@@ -582,9 +582,9 @@
 | 574 | 393 | bbv |
 | 575 | 393 | Jamie West |
 | 576 | 393 | Deyawn Smith |
-| 577 | 391 | Anthony Huebel |
-| 578 | 391 | Adam Simmons |
-| 579 | 391 | Chilly Bridgepiece |
+| 577 | 391 | Chilly Bridgepiece |
+| 578 | 391 | Anthony Huebel |
+| 579 | 391 | Adam Simmons |
 | 580 | 391 | Qiana Sanders |
 | 581 | 390 | Moist_B-hole |
 | 582 | 390 | Joice Hansen |
@@ -594,12 +594,12 @@
 | 586 | 389 | Kayla |
 | 587 | 389 | Julie Hamilton |
 | 588 | 388 | Christina Ashley |
-| 589 | 387 | Misti Markijohn |
-| 590 | 387 | Bold Brickster |
+| 589 | 387 | Bold Brickster |
+| 590 | 387 | Misti Markijohn |
 | 591 | 386 | Wuntayk |
 | 592 | 385 | Tansaria Couch-Butler |
-| 593 | 384 | Kelly |
-| 594 | 384 | Party d |
+| 593 | 384 | Party d |
+| 594 | 384 | Kelly |
 | 595 | 383 | Jessica Conaway |
 | 596 | 383 | Belle Mari |
 | 597 | 382 | David Holliday |
@@ -616,16 +616,16 @@
 | 608 | 376 | James Zaragoza |
 | 609 | 375 | Cecilia A Jenkins |
 | 610 | 375 | Lively Edgepiece |
-| 611 | 373 | Jessica Hughes |
-| 612 | 373 | Hunter Connors |
+| 611 | 373 | Hunter Connors |
+| 612 | 373 | Jessica Hughes |
 | 613 | 373 | Ashley Marie |
 | 614 | 372 | Ebony Deloach Bryant |
 | 615 | 371 | Brenda Messer |
 | 616 | 371 | Angi Harrison |
 | 617 | 371 | Saucy Fitzone |
 | 618 | 370 | Heather Sawtelle-Mckenzie |
-| 619 | 369 | RaeVan Worthington |
-| 620 | 369 | Tony Lea |
+| 619 | 369 | Tony Lea |
+| 620 | 369 | RaeVan Worthington |
 | 621 | 369 | Juan Castillo |
 | 622 | 367 | Connie Lepore-Mann |
 | 623 | 367 | Jessica Lamb |
@@ -806,8 +806,8 @@
 | 798 | 280 | Belle |
 | 799 | 280 | Luke Califf |
 | 800 | 279 | Laura Wyatt |
-| 801 | 279 | Jennifer Coe |
-| 802 | 279 | Loony Basepiece |
+| 801 | 279 | Loony Basepiece |
+| 802 | 279 | Jennifer Coe |
 | 803 | 279 | Katherin Camacho |
 | 804 | 278 | Timothy Jesuwole |
 | 805 | 278 | AndrewandShela Gornik |
@@ -1730,8 +1730,8 @@
 | 1722 | 136 | Misti Xgipsonx |
 | 1723 | 136 | Oke Raph |
 | 1724 | 135 | William Bresee |
-| 1725 | 135 | Samie Dayle |
-| 1726 | 135 | Jennifer Roe |
+| 1725 | 135 | Jennifer Roe |
+| 1726 | 135 | Samie Dayle |
 | 1727 | 135 | BrokeBetty |
 | 1728 | 135 | Romero Luisajavi |
 | 1729 | 135 | Carrie Beth Coward |
