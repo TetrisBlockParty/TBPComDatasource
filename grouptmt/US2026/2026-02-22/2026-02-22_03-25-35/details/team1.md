@@ -70,8 +70,8 @@
 | 62 | 430 | Nancy Green |
 | 63 | 428 | Stephanie Zahn |
 | 64 | 413 | Steve Schneider |
-| 65 | 412 | Anaid Sanchez |
-| 66 | 412 | Jazzy Framezone |
+| 65 | 412 | Jazzy Framezone |
+| 66 | 412 | Anaid Sanchez |
 | 67 | 391 | Robert Benito |
 | 68 | 388 | Yvonne Marie |
 | 69 | 388 | Jennifer ManWarren |
@@ -152,11 +152,11 @@
 | 144 | 207 | Leslie Bush Yarbrough |
 | 145 | 206 | Kimberly Garcia |
 | 146 | 203 | Paula Martin |
-| 147 | 200 | Ash Galvan |
-| 148 | 200 | Lacy Wolfe |
+| 147 | 200 | Lacy Wolfe |
+| 148 | 200 | Ash Galvan |
 | 149 | 199 | Basment Living |
-| 150 | 198 | Shiny Gridmatch |
-| 151 | 198 | Happy Snapbuild |
+| 150 | 198 | Happy Snapbuild |
+| 151 | 198 | Shiny Gridmatch |
 | 152 | 195 | Daring Fitclear |
 | 153 | 194 | Tyler Werts |
 | 154 | 193 | lil mickey |
@@ -265,8 +265,8 @@
 | 257 | 121 | Jacob Shaddock |
 | 258 | 120 | Kimmie Kimms |
 | 259 | 120 | DoodleBug |
-| 260 | 119 | Strig |
-| 261 | 119 | Tater |
+| 260 | 119 | Tater |
+| 261 | 119 | Strig |
 | 262 | 118 | Tyler Hertzog |
 | 263 | 118 | Garcia Bailey |
 | 264 | 116 | Fresno Beotoni |

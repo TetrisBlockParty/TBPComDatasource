@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Nugget |
-| 85 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Nugget |
 | 86 | 352 | Monica Daley |
 | 87 | 319 | Livvy |
 | 88 | 317 | Lori Walker |
@@ -211,8 +211,8 @@
 | 203 | 147 | B Renee Desjardin |
 | 204 | 145 | Mimi |
 | 205 | 144 | Tanner Lund |
-| 206 | 143 | Lauren Lamb |
-| 207 | 143 | Sam Bishop |
+| 206 | 143 | Sam Bishop |
+| 207 | 143 | Lauren Lamb |
 | 208 | 142 | Stephme310 |
 | 209 | 142 | Zippy Gridlock |
 | 210 | 141 | Kathy Allen |
@@ -285,8 +285,8 @@
 | 277 | 113 | Dandy Cascadefit |
 | 278 | 112 | Chris Alexinas |
 | 279 | 112 | Jeremy Steines |
-| 280 | 111 | Michael Orris |
-| 281 | 111 | Lazy Blocker |
+| 280 | 111 | Lazy Blocker |
+| 281 | 111 | Michael Orris |
 | 282 | 110 | No Strings Attached Ra |
 | 283 | 110 | Zach Kerbs |
 | 284 | 109 | Stephanie Mico |

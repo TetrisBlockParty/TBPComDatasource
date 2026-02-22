@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Speedy Bridger |
-| 78 | 582 | Jay Horn |
-| 79 | 582 | Natasha Jones |
+| 77 | 582 | Natasha Jones |
+| 78 | 582 | Speedy Bridger |
+| 79 | 582 | Jay Horn |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |

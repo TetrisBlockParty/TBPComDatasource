@@ -139,8 +139,8 @@
 | 131 | 1051 | Shandrica Lowe |
 | 132 | 1048 | PsychKIRAtrist |
 | 133 | 1047 | Amy Sayers |
-| 134 | 1043 | Brave Dropmatch |
-| 135 | 1043 | Suki Kaur |
+| 134 | 1043 | Suki Kaur |
+| 135 | 1043 | Brave Dropmatch |
 | 136 | 1032 | Sarah Freitas |
 | 137 | 1020 | Heather Westrum |
 | 138 | 1018 | LordZophar |
@@ -247,8 +247,8 @@
 | 239 | 678 | Scott Treadway |
 | 240 | 677 | Mema |
 | 241 | 676 | Pacynthia Williams |
-| 242 | 675 | Brenda Utphall |
-| 243 | 675 | Tommy Tha Boss Gunz |
+| 242 | 675 | Tommy Tha Boss Gunz |
+| 243 | 675 | Brenda Utphall |
 | 244 | 674 | Auntie B |
 | 245 | 672 | Danielle Simmons |
 | 246 | 669 | Claire Noland |
@@ -283,13 +283,13 @@
 | 275 | 605 | Jelly |
 | 276 | 603 | Cassie Maynard |
 | 277 | 601 | Michele Morgan |
-| 278 | 589 | Thomas Hedrick |
-| 279 | 589 | Shavonna Haynes |
+| 278 | 589 | Shavonna Haynes |
+| 279 | 589 | Thomas Hedrick |
 | 280 | 587 | Hyper Cluster |
 | 281 | 583 | Jessicah Myers |
 | 282 | 582 | Gary Stash |
-| 283 | 579 | Roy Salyer |
-| 284 | 579 | Juliana Marques Do Nascimento Gordy |
+| 283 | 579 | Juliana Marques Do Nascimento Gordy |
+| 284 | 579 | Roy Salyer |
 | 285 | 578 | Sally Dennis |
 | 286 | 576 | Ginger |
 | 287 | 572 | tejas25 |
@@ -565,8 +565,8 @@
 | 557 | 330 | CC |
 | 558 | 329 | Chummy Blockbuilder |
 | 559 | 329 | Jane Crew |
-| 560 | 328 | BabyBird |
-| 561 | 328 | bru |
+| 560 | 328 | bru |
+| 561 | 328 | BabyBird |
 | 562 | 328 | Demeka Dangerous-kisses Johnson |
 | 563 | 326 | Jennifer Monroe Kelly |
 | 564 | 326 | Denise Rickman |
@@ -612,7 +612,7 @@
 | 604 | 304 | NFLPITMOM |
 | 605 | 304 | Michelle Shrum |
 | 606 | 303 | Angie Marie |
-| 607 | 303 | Byung Bae Park |
+| 607 | 303 | Amanda Schaffer |
 | 608 | 303 | Peachy Blockbuilder |
 | 609 | 303 | Byung Bae Park |
 | 610 | 302 | stacey |
@@ -645,8 +645,8 @@
 | 637 | 289 | Britney M. |
 | 638 | 289 | Bella Novia |
 | 639 | 288 | August Hale |
-| 640 | 288 | Kristi Biddinger |
-| 641 | 288 | Jenna Nance |
+| 640 | 288 | Jenna Nance |
+| 641 | 288 | Kristi Biddinger |
 | 642 | 288 | Ashley Criner |
 | 643 | 287 | Toni Roberson |
 | 644 | 286 | Kelsey Sullivan |
@@ -1150,8 +1150,8 @@
 | 1142 | 163 | Jackson Smith |
 | 1143 | 163 | R |
 | 1144 | 162 | Alice Samm |
-| 1145 | 162 | LC Hamilton |
-| 1146 | 162 | Brenda |
+| 1145 | 162 | Brenda |
+| 1146 | 162 | LC Hamilton |
 | 1147 | 162 | Dreamy Fitclear |
 | 1148 | 162 | Wacky Edgefit |
 | 1149 | 161 | Perry Hubert |
