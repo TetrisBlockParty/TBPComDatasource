@@ -71,8 +71,8 @@
 | 63 | 649 | MissTaylor |
 | 64 | 639 | Elaine Webb Graves |
 | 65 | 628 | Tiff Vs Tiffany |
-| 66 | 621 | Cherry Parker |
-| 67 | 621 | Jessica Bechler |
+| 66 | 621 | Jessica Bechler |
+| 67 | 621 | Cherry Parker |
 | 68 | 619 | Jennifer |
 | 69 | 618 | Brandon Green |
 | 70 | 613 | Amber Hughes |
@@ -111,8 +111,8 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jenny Hrndz |
-| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
 | 109 | 428 | Betty Ivy |
 | 110 | 428 | Elissa S-k |
@@ -120,8 +120,8 @@
 | 112 | 410 | Stephanie Blkpep Davidson |
 | 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
-| 115 | 403 | FuzzyNavel |
-| 116 | 403 | Christine Filson |
+| 115 | 403 | Christine Filson |
+| 116 | 403 | FuzzyNavel |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 400 | Jesse Olive |
 | 119 | 399 | Mcathen |
@@ -142,15 +142,15 @@
 | 134 | 368 | Stephanie Woods |
 | 135 | 366 | Adrian Marcel Pate |
 | 136 | 365 | Logan Naccarato |
-| 137 | 355 | Sherry Ogden |
-| 138 | 355 | Tessina Dewey-Mancino |
+| 137 | 355 | Tessina Dewey-Mancino |
+| 138 | 355 | Sherry Ogden |
 | 139 | 350 | Darlene McMillan |
 | 140 | 348 | CeceGeGe |
 | 141 | 347 | Louise Stacy Sisson |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Dapper Snap |
-| 145 | 328 | Aaron Pitkin |
+| 144 | 328 | Aaron Pitkin |
+| 145 | 328 | Dapper Snap |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -184,8 +184,8 @@
 | 176 | 267 | Denise Nardoni |
 | 177 | 263 | Angeline Joseph |
 | 178 | 262 | Joe-Maggie Mathews |
-| 179 | 261 | Tiffany Ford |
-| 180 | 261 | Tom Nault |
+| 179 | 261 | Tom Nault |
+| 180 | 261 | Tiffany Ford |
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Shunta Jacobs |
-| 211 | 219 | Sissy Lowery Davis |
+| 210 | 219 | Sissy Lowery Davis |
+| 211 | 219 | Shunta Jacobs |
 | 212 | 219 | Keis |
 | 213 | 218 | Michael Lucado |
 | 214 | 216 | Tasha Wesson-Torrence |
@@ -316,8 +316,8 @@
 | 308 | 147 | David Bardo |
 | 309 | 146 | Ava Petito |
 | 310 | 146 | Tony Waters |
-| 311 | 145 | Bryan Byrd |
-| 312 | 145 | Funky Jumper |
+| 311 | 145 | Funky Jumper |
+| 312 | 145 | Bryan Byrd |
 | 313 | 144 | Tenisha Semidey |
 | 314 | 143 | Alice |
 | 315 | 143 | Melissa Orth Hunter |
@@ -473,7 +473,7 @@
 | 465 | 96 | Daisy Rocha |
 | 466 | 96 | Rima Mackelburger |
 | 467 | 96 | James Lykes |
-| 468 | 95 | Me,Him,Yu |
+| 468 | 95 | Sassy Tiler |
 | 469 | 95 | JustGiGi |
 | 470 | 95 | Me,Him,Yu |
 | 471 | 94 | Gimmegimmebeer |

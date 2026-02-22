@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 314 | Amanda Pauldo-Ivy |
 | 87 | 311 | David Lay |
@@ -133,11 +133,11 @@
 | 125 | 220 | Mary Ann Pabukis |
 | 126 | 218 | Casey Grabner |
 | 127 | 218 | Antony Dwayne Beasley |
-| 128 | 217 | Chaz Duncan |
-| 129 | 217 | loulou |
+| 128 | 217 | loulou |
+| 129 | 217 | Chaz Duncan |
 | 130 | 215 | Jessica Bohlken |
-| 131 | 212 | Calvin Cannon |
-| 132 | 212 | Mike Solo |
+| 131 | 212 | Mike Solo |
+| 132 | 212 | Calvin Cannon |
 | 133 | 211 | Twisty Cascadezone |
 | 134 | 210 | Swanky Fitline |
 | 135 | 207 | Scott Jameson |
@@ -148,8 +148,8 @@
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jenna McGeorge |
-| 144 | 196 | Jeff Brian Gates |
+| 143 | 196 | Jeff Brian Gates |
+| 144 | 196 | Jenna McGeorge |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |
@@ -240,10 +240,10 @@
 | 232 | 128 | Rio Rocha |
 | 233 | 128 | Jackie Marie |
 | 234 | 127 | Joshua Cuellar |
-| 235 | 126 | Angelito |
-| 236 | 126 | icequeenx |
-| 237 | 125 | KimoKoala |
-| 238 | 125 | Lush Linkfall |
+| 235 | 126 | icequeenx |
+| 236 | 126 | Angelito |
+| 237 | 125 | Lush Linkfall |
+| 238 | 125 | KimoKoala |
 | 239 | 124 | Sam Middleton |
 | 240 | 124 | Allen Lloyd |
 | 241 | 123 | Austin Owens |

@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Tipsy Strikerpiece |
-| 77 | 338 | Stephanie Zahn |
+| 76 | 338 | Stephanie Zahn |
+| 77 | 338 | Tipsy Strikerpiece |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Kellie |
@@ -90,16 +90,16 @@
 | 82 | 323 | Sweet Baker |
 | 83 | 323 | Candy Jones |
 | 84 | 321 | Maria C. Hernandez |
-| 85 | 319 | Shauna Loe |
-| 86 | 319 | Deanna L Hermanson |
+| 85 | 319 | Deanna L Hermanson |
+| 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
 | 89 | 305 | Patrick Luckenbill |
 | 90 | 305 | Cynthia Bradley |
 | 91 | 304 | Nicole Roseberry Weber |
 | 92 | 303 | cc |
-| 93 | 301 | Hyper |
-| 94 | 301 | Lehrin Maria |
+| 93 | 301 | Lehrin Maria |
+| 94 | 301 | Hyper |
 | 95 | 300 | Spunky Piecebuilder |
 | 96 | 298 | Carrie Beck Geartz |
 | 97 | 293 | Adam Byrd |
@@ -147,11 +147,11 @@
 | 139 | 206 | Kimberly Garcia |
 | 140 | 203 | Paula Martin |
 | 141 | 200 | Lacy Wolfe |
-| 142 | 198 | Shiny Gridmatch |
-| 143 | 198 | Happy Snapbuild |
+| 142 | 198 | Happy Snapbuild |
+| 143 | 198 | Shiny Gridmatch |
 | 144 | 195 | Daring Fitclear |
-| 145 | 194 | Tyler Werts |
-| 146 | 194 | Ash Galvan |
+| 145 | 194 | Ash Galvan |
+| 146 | 194 | Tyler Werts |
 | 147 | 193 | Lachelle Dillon |
 | 148 | 192 | Jessica Sheehan |
 | 149 | 192 | Shaykmia |
@@ -207,8 +207,8 @@
 | 199 | 152 | Brave Wrecker |
 | 200 | 152 | Speedy Snapfall |
 | 201 | 150 | Adele Rahman |
-| 202 | 147 | DaRascal |
-| 203 | 147 | Davery Spencer Adair |
+| 202 | 147 | Davery Spencer Adair |
+| 203 | 147 | DaRascal |
 | 204 | 145 | Agustin Duarte Orozco |
 | 205 | 144 | Toph |
 | 206 | 144 | Cranky Pattern |
