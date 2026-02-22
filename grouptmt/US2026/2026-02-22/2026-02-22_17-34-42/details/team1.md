@@ -117,8 +117,8 @@
 | 109 | 379 | Kimmie Kimms |
 | 110 | 376 | lil mickey |
 | 111 | 366 | David Miller |
-| 112 | 364 | Ly Phethmany |
-| 113 | 364 | Shauna Loe |
+| 112 | 364 | Shauna Loe |
+| 113 | 364 | Ly Phethmany |
 | 114 | 362 | Plucky Ziggy |
 | 115 | 360 | Wisa |
 | 116 | 359 | Chirpy Smasher |

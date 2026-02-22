@@ -229,9 +229,9 @@
 | 221 | 210 | Adam Stephanie Parker |
 | 222 | 209 | Chris Hartig |
 | 223 | 208 | scott |
-| 224 | 208 | Oscar Alberto Perez |
+| 224 | 208 | Dizzy Matchzone |
 | 225 | 208 | Stacey Stano |
-| 226 | 208 | Dizzy Matchzone |
+| 226 | 208 | Oscar Alberto Perez |
 | 227 | 207 | Chirpy Basepiece |
 | 228 | 204 | Carlos Ramirez |
 | 229 | 203 | Katherine Crane |
@@ -327,16 +327,16 @@
 | 319 | 147 | Andrew Dang |
 | 320 | 147 | Sticherella |
 | 321 | 146 | Brave Spinbuilder |
-| 322 | 145 | Glitzy Crasher |
-| 323 | 145 | Sandra Safford |
-| 324 | 145 | Daring Pivot |
-| 325 | 145 | Maureen Flanigan |
+| 322 | 145 | Sandra Safford |
+| 323 | 145 | Glitzy Crasher |
+| 324 | 145 | Maureen Flanigan |
+| 325 | 145 | Daring Pivot |
 | 326 | 144 | Squeezy Pearsall |
 | 327 | 143 | Asher |
 | 328 | 143 | Daresha Fair |
 | 329 | 143 | Metsfan |
-| 330 | 142 | Nerdy Twisterfit |
-| 331 | 142 | Chaz |
+| 330 | 142 | Chaz |
+| 331 | 142 | Nerdy Twisterfit |
 | 332 | 142 | Chantilly Laace |
 | 333 | 141 | Tony Pavelka |
 | 334 | 141 | Montiette Mcglown |

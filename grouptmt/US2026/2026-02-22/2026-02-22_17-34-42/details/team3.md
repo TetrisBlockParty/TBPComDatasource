@@ -201,8 +201,8 @@
 | 193 | 377 | rosy |
 | 194 | 376 | Loopy Clusterer |
 | 195 | 374 | Darlene McMillan |
-| 196 | 372 | Tom Nault |
-| 197 | 372 | Giddy Twistbuilder |
+| 196 | 372 | Giddy Twistbuilder |
+| 197 | 372 | Tom Nault |
 | 198 | 370 | Santeria Trece Candles |
 | 199 | 368 | Stephanie Woods |
 | 200 | 362 | Rochelle Hazelett |
@@ -314,8 +314,8 @@
 | 306 | 230 | BigE |
 | 307 | 228 | Naur |
 | 308 | 227 | Rebel124 |
-| 309 | 227 | ROODBOY |
-| 310 | 227 | Meowsa |
+| 309 | 227 | Meowsa |
+| 310 | 227 | ROODBOY |
 | 311 | 226 | Jana Polk |
 | 312 | 225 | Dirtgirl27 |
 | 313 | 225 | Stephanie Hill |
@@ -517,7 +517,7 @@
 | 509 | 144 | Janay Darkstallion Robinson |
 | 510 | 144 | Rachel Grant |
 | 511 | 143 | Tracey Cox |
-| 512 | 142 | Megan Riggins |
+| 512 | 142 | Amanda Declue |
 | 513 | 142 | Gray Hicks |
 | 514 | 142 | Megan Riggins |
 | 515 | 141 | Bhreagh Gentile |

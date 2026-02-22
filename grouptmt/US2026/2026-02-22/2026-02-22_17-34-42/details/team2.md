@@ -118,8 +118,8 @@
 | 110 | 1519 | Mindy Leigh Head |
 | 111 | 1513 | blackq |
 | 112 | 1509 | Whitney Nicole Waterman |
-| 113 | 1507 | Linda Pierce |
-| 114 | 1507 | Stephanie Chapman |
+| 113 | 1507 | Stephanie Chapman |
+| 114 | 1507 | Linda Pierce |
 | 115 | 1495 | Tj Ball |
 | 116 | 1493 | Mari Ac |
 | 117 | 1489 | Karen Martini-Stapleton |
@@ -153,8 +153,8 @@
 | 145 | 1290 | Bussyiano Page |
 | 146 | 1286 | Kristin Ruest |
 | 147 | 1286 | Altamirano Michael |
-| 148 | 1282 | Tanya Parsons |
-| 149 | 1282 | Ashley Rose Frederick |
+| 148 | 1282 | Ashley Rose Frederick |
+| 149 | 1282 | Tanya Parsons |
 | 150 | 1273 | Cool Rollpiece |
 | 151 | 1271 | Shandrica Lowe |
 | 152 | 1257 | Eileen Hale |
@@ -249,8 +249,8 @@
 | 241 | 894 | Auntie B |
 | 242 | 892 | Rebecca Doughman |
 | 243 | 890 | Kevin Walp |
-| 244 | 884 | Adira Brown |
-| 245 | 884 | Boldy Cascadepiece |
+| 244 | 884 | Boldy Cascadepiece |
+| 245 | 884 | Adira Brown |
 | 246 | 883 | nikki |
 | 247 | 880 | Sam Joe |
 | 248 | 879 | Tony Lea |
@@ -335,8 +335,8 @@
 | 327 | 700 | Beverly Owens |
 | 328 | 700 | Rosemadder |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Ashle Scranton |
-| 331 | 697 | Dreamy Blast |
+| 330 | 697 | Dreamy Blast |
+| 331 | 697 | Ashle Scranton |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -345,8 +345,8 @@
 | 337 | 688 | Leslie Ann Carter |
 | 338 | 688 | ShinyRose |
 | 339 | 686 | Ashley Guernsey-Martin |
-| 340 | 685 | Brenda Pierpoint |
-| 341 | 685 | Binyah-Binyah |
+| 340 | 685 | Binyah-Binyah |
+| 341 | 685 | Brenda Pierpoint |
 | 342 | 682 | Poldo Ilano |
 | 343 | 680 | blume |
 | 344 | 679 | Kassandra Hunt |
