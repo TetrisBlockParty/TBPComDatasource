@@ -249,8 +249,8 @@
 | 241 | 213 | Angela Geist Jusinski |
 | 242 | 212 | Mike Solo |
 | 243 | 211 | Jenna McGeorge |
-| 244 | 210 | Dihcheese444 |
-| 245 | 210 | Adam Stephanie Parker |
+| 244 | 210 | Adam Stephanie Parker |
+| 245 | 210 | Dihcheese444 |
 | 246 | 209 | Ak Jones |
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
@@ -303,9 +303,9 @@
 | 295 | 166 | SammieJo Guy |
 | 296 | 166 | Megan Cutshaw |
 | 297 | 165 | ChasingZen |
-| 298 | 165 | Zappy Buildgrid |
-| 299 | 165 | Amanda Christine |
-| 300 | 165 | Brittany Marsh |
+| 298 | 165 | Brittany Marsh |
+| 299 | 165 | Zappy Buildgrid |
+| 300 | 165 | Amanda Christine |
 | 301 | 164 | Marvetta Williams |
 | 302 | 163 | Jason Bosco |
 | 303 | 163 | Joseph Edmonson |
@@ -450,9 +450,9 @@
 | 442 | 119 | rebel4lyfe |
 | 443 | 118 | bloat princess |
 | 444 | 118 | Mackenzie Forrester |
-| 445 | 118 | Badatvs |
+| 445 | 118 | Darrin Rubalcava |
 | 446 | 118 | Perky Piecegrid |
-| 447 | 118 | Darrin Rubalcava |
+| 447 | 118 | Badatvs |
 | 448 | 117 | David V. Bowers |
 | 449 | 117 | Shiny Pivoty |
 | 450 | 117 | Sharyn Lemire |

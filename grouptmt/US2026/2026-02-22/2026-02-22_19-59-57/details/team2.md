@@ -361,8 +361,8 @@
 | 353 | 703 | Gold Rose |
 | 354 | 700 | Vincent Petrella |
 | 355 | 700 | Beverly Owens |
-| 356 | 697 | Dreamy Blast |
-| 357 | 697 | Ashle Scranton |
+| 356 | 697 | Ashle Scranton |
+| 357 | 697 | Dreamy Blast |
 | 358 | 695 | Mama T |
 | 359 | 695 | Lakeysha Dortch |
 | 360 | 695 | Dannette Goldberg-Richards |
@@ -625,8 +625,8 @@
 | 617 | 435 | Regina Young |
 | 618 | 434 | bbv |
 | 619 | 432 | Abimbola Bimbo |
-| 620 | 431 | Hunter Connors |
-| 621 | 431 | Quinn |
+| 620 | 431 | Quinn |
+| 621 | 431 | Hunter Connors |
 | 622 | 429 | Goofy Catcher |
 | 623 | 429 | Angel Hunnewell |
 | 624 | 429 | Tabs Reichert |
@@ -759,8 +759,8 @@
 | 751 | 363 | Jes Norris |
 | 752 | 363 | Stephanie Fortune |
 | 753 | 363 | Veronica Stevenson |
-| 754 | 362 | Snappy Matchbuilder |
-| 755 | 362 | Janai Vrabel |
+| 754 | 362 | Janai Vrabel |
+| 755 | 362 | Snappy Matchbuilder |
 | 756 | 361 | Donald Nowland |
 | 757 | 359 | Polly Pritchard Chesler |
 | 758 | 359 | Cheyenne Donovan |

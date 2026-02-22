@@ -132,8 +132,8 @@
 | 124 | 574 | Morgan Martinez |
 | 125 | 568 | Rachael McClain Owens |
 | 126 | 565 | Daryn Elliott |
-| 127 | 562 | Louise Stacy Sisson |
-| 128 | 562 | Dave Herzog |
+| 127 | 562 | Dave Herzog |
+| 128 | 562 | Louise Stacy Sisson |
 | 129 | 557 | Domo Washington |
 | 130 | 555 | Nicole Myers |
 | 131 | 551 | Alaina Lee |
@@ -175,8 +175,8 @@
 | 167 | 455 | Tessina Dewey-Mancino |
 | 168 | 453 | Shannon Matthew Byers |
 | 169 | 452 | Danielle Rhoades |
-| 170 | 451 | Rachel |
-| 171 | 451 | FuzzyNavel |
+| 170 | 451 | FuzzyNavel |
+| 171 | 451 | Rachel |
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 439 | Tasha Gillespie |
