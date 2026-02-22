@@ -136,8 +136,8 @@
 | 128 | 399 | Patti Skiles |
 | 129 | 399 | ren |
 | 130 | 397 | Annie Déè |
-| 131 | 392 | Katie Knaus |
-| 132 | 392 | Tasha Gillespie |
+| 131 | 392 | Tasha Gillespie |
+| 132 | 392 | Katie Knaus |
 | 133 | 391 | Calista Jo Dickson |
 | 134 | 390 | Hasty Cascadefit |
 | 135 | 381 | Lauren Girouard |
@@ -237,8 +237,8 @@
 | 229 | 218 | Michael Lucado |
 | 230 | 216 | Tasha Wesson-Torrence |
 | 231 | 215 | IamJust Neyamijah Washington Sr. |
-| 232 | 214 | Amy Fuller Heaton |
-| 233 | 214 | Rebel124 |
+| 232 | 214 | Rebel124 |
+| 233 | 214 | Amy Fuller Heaton |
 | 234 | 213 | Stephanie Burtin |
 | 235 | 212 | Twisty Brick LT |
 | 236 | 212 | Desiree Gold |
@@ -310,8 +310,8 @@
 | 302 | 161 | Bouncy Blockbuilder |
 | 303 | 161 | Michael Johnson |
 | 304 | 160 | Rachel |
-| 305 | 159 | Jone |
-| 306 | 159 | Joshua David Huie |
+| 305 | 159 | Joshua David Huie |
+| 306 | 159 | Jone |
 | 307 | 158 | Willow |
 | 308 | 157 | Katrina E Jelks |
 | 309 | 157 | Danielle Balcom |

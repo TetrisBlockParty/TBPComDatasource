@@ -117,8 +117,8 @@
 | 109 | 283 | Franswa |
 | 110 | 282 | Timothy Dew |
 | 111 | 280 | Sarah Roberts |
-| 112 | 277 | Katie Daniels |
-| 113 | 277 | Ly Phethmany |
+| 112 | 277 | Ly Phethmany |
+| 113 | 277 | Katie Daniels |
 | 114 | 276 | Rachael |
 | 115 | 275 | Bhelle Sumile |
 | 116 | 273 | Happy Basegrid |
@@ -129,8 +129,8 @@
 | 121 | 252 | Dena Kayy |
 | 122 | 252 | Elaine Elaine |
 | 123 | 247 | Tana |
-| 124 | 243 | Chelsea Dahlquist |
-| 125 | 243 | Trippy Redd |
+| 124 | 243 | Trippy Redd |
+| 125 | 243 | Chelsea Dahlquist |
 | 126 | 241 | John J. Cronin |
 | 127 | 236 | Mandyy Rae |
 | 128 | 232 | Jessi Sauer |
@@ -144,8 +144,8 @@
 | 136 | 216 | MRdot Rooski |
 | 137 | 216 | Shauntina Burke |
 | 138 | 214 | GATOR |
-| 139 | 212 | Jaimie Lynn |
-| 140 | 212 | Lori Bales |
+| 139 | 212 | Lori Bales |
+| 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
 | 142 | 208 | Bouncy Grid |
 | 143 | 208 | lil mickey |
@@ -243,8 +243,8 @@
 | 235 | 136 | Tavia |
 | 236 | 135 | Aimee Horton |
 | 237 | 134 | Jessie |
-| 238 | 132 | Larry Tilton |
-| 239 | 132 | Layzietyme |
+| 238 | 132 | Layzietyme |
+| 239 | 132 | Larry Tilton |
 | 240 | 131 | Uhog SF |
 | 241 | 131 | Tawnya Peltonen |
 | 242 | 130 | Gilbert Ortiz Jr. |
@@ -270,8 +270,8 @@
 | 262 | 119 | Tater |
 | 263 | 118 | Tyler Hertzog |
 | 264 | 118 | Garcia Bailey |
-| 265 | 116 | Fresno Beotoni |
-| 266 | 116 | Debbie Davis |
+| 265 | 116 | Debbie Davis |
+| 266 | 116 | Fresno Beotoni |
 | 267 | 115 | Chuck Gannon |
 | 268 | 115 | Mrs.Patrica |
 | 269 | 114 | Constance Risner |

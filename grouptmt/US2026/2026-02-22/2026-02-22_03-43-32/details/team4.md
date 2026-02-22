@@ -47,8 +47,8 @@
 | 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
-| 42 | 630 | Dustee Craddock-Harrison |
-| 43 | 630 | Chilly Line |
+| 42 | 630 | Chilly Line |
+| 43 | 630 | Dustee Craddock-Harrison |
 | 44 | 627 | Jonathan Kimbrough |
 | 45 | 620 | Cassie Michaux |
 | 46 | 614 | KM8 |
@@ -78,8 +78,8 @@
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
-| 73 | 396 | Amy Suckarieh |
-| 74 | 396 | Alicia Bass |
+| 73 | 396 | Alicia Bass |
+| 74 | 396 | Amy Suckarieh |
 | 75 | 392 | YoMomma |
 | 76 | 391 | Ramel Rhodes |
 | 77 | 390 | Carlton Unfiltered |
@@ -144,8 +144,8 @@
 | 136 | 218 | Antony Dwayne Beasley |
 | 137 | 218 | Casey Grabner |
 | 138 | 217 | Chaz Duncan |
-| 139 | 215 | Jessica Bohlken |
-| 140 | 215 | Ren Mc |
+| 139 | 215 | Ren Mc |
+| 140 | 215 | Jessica Bohlken |
 | 141 | 213 | Jason Allen |
 | 142 | 212 | Calvin Cannon |
 | 143 | 212 | Mike Solo |
@@ -194,15 +194,15 @@
 | 186 | 158 | Avy Absol |
 | 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
-| 189 | 154 | Laura Hosford |
-| 190 | 154 | scott |
+| 189 | 154 | scott |
+| 190 | 154 | Laura Hosford |
 | 191 | 153 | Empress Oasis |
 | 192 | 152 | John Brunetti |
 | 193 | 152 | Austin Owens |
 | 194 | 151 | Bethany Ison |
 | 195 | 150 | Rio Rocha |
-| 196 | 149 | Megan Cutshaw |
-| 197 | 149 | Shainne Brewer |
+| 196 | 149 | Shainne Brewer |
+| 197 | 149 | Megan Cutshaw |
 | 198 | 149 | Judy Cox |
 | 199 | 148 | Zany Shatterer |
 | 200 | 148 | Brittany Marsh |

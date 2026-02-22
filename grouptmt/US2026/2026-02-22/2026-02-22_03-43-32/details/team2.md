@@ -507,8 +507,8 @@
 | 499 | 366 | Courtney Burcham |
 | 500 | 366 | Smashanator |
 | 501 | 365 | Christina Lewis-Vickers |
-| 502 | 365 | Susan Arnburg |
-| 503 | 365 | Audrey Jones |
+| 502 | 365 | Audrey Jones |
+| 503 | 365 | Susan Arnburg |
 | 504 | 364 | Shinette Dobson |
 | 505 | 363 | Michelle Sager |
 | 506 | 363 | Happy Caster |
@@ -528,8 +528,8 @@
 | 520 | 357 | Shannon Byrd |
 | 521 | 355 | Amanda Perez |
 | 522 | 354 | Connie Lepore-Mann |
-| 523 | 354 | Demeka Dangerous-kisses Johnson |
-| 524 | 354 | Rickey Johnson |
+| 523 | 354 | Rickey Johnson |
+| 524 | 354 | Demeka Dangerous-kisses Johnson |
 | 525 | 353 | Cheery Matchzone |
 | 526 | 352 | Jean FU Jagielski |
 | 527 | 352 | Andrea Maher |
