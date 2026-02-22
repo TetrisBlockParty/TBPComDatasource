@@ -263,8 +263,8 @@
 | 255 | 692 | Chelle |
 | 256 | 690 | Deborah Miller |
 | 257 | 689 | Giggy Blocker |
-| 258 | 688 | Tiara Elizabeth Baker |
-| 259 | 688 | ShinyRose |
+| 258 | 688 | ShinyRose |
+| 259 | 688 | Tiara Elizabeth Baker |
 | 260 | 687 | Jai Jackson |
 | 261 | 686 | Ashley Guernsey-Martin |
 | 262 | 685 | Binyah-Binyah |
@@ -529,14 +529,14 @@
 | 521 | 385 | Tim Dyer |
 | 522 | 385 | Tansaria Couch-Butler |
 | 523 | 384 | Christina Ashley |
-| 524 | 384 | Mike Aprilliano |
+| 524 | 384 | Kelly |
 | 525 | 384 | Party d |
-| 526 | 384 | Kelly |
-| 527 | 382 | David Holliday |
-| 528 | 382 | KhaosLord |
+| 526 | 384 | Mike Aprilliano |
+| 527 | 382 | KhaosLord |
+| 528 | 382 | David Holliday |
 | 529 | 381 | Melissa Rebbe-Lehman |
-| 530 | 381 | Happy Caster |
-| 531 | 381 | Jessica S Flecha |
+| 530 | 381 | Jessica S Flecha |
+| 531 | 381 | Happy Caster |
 | 532 | 379 | Mary Marie |
 | 533 | 378 | Tina Marie |
 | 534 | 378 | TF Dyer |
@@ -546,8 +546,8 @@
 | 538 | 375 | Lively Edgepiece |
 | 539 | 375 | Wuntayk |
 | 540 | 374 | Elisheva Mizrachi |
-| 541 | 373 | Hunter Connors |
-| 542 | 373 | Jessica Hughes |
+| 541 | 373 | Jessica Hughes |
+| 542 | 373 | Hunter Connors |
 | 543 | 372 | Ebony Deloach Bryant |
 | 544 | 371 | Brittany Radaszewski |
 | 545 | 371 | Brenda Messer |

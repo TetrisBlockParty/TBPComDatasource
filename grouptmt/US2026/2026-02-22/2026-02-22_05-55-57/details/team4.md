@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Michelle Pearman |
-| 27 | 873 | Elizabeth Sallas |
+| 26 | 873 | Elizabeth Sallas |
+| 27 | 873 | Michelle Pearman |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -124,8 +124,8 @@
 | 116 | 284 | shark tato |
 | 117 | 281 | Meagan Nicole |
 | 118 | 278 | Carrie Brian |
-| 119 | 277 | Mary Ann Pabukis |
-| 120 | 277 | Scott Jameson |
+| 119 | 277 | Scott Jameson |
+| 120 | 277 | Mary Ann Pabukis |
 | 121 | 275 | Dizzy Tiley |
 | 122 | 274 | Desi Desporte |
 | 123 | 271 | Sarah Brown |

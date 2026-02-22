@@ -176,8 +176,8 @@
 | 168 | 203 | Paula Martin |
 | 169 | 201 | Sam Williams |
 | 170 | 199 | Basment Living |
-| 171 | 198 | Shiny Gridmatch |
-| 172 | 198 | Happy Snapbuild |
+| 171 | 198 | Happy Snapbuild |
+| 172 | 198 | Shiny Gridmatch |
 | 173 | 195 | Shaykmia |
 | 174 | 194 | Christy Jones |
 | 175 | 193 | Lachelle Dillon |
@@ -201,8 +201,8 @@
 | 193 | 179 | femmefatale |
 | 194 | 179 | Danielle Little-Daugherty |
 | 195 | 178 | Chad Atchley |
-| 196 | 177 | Irual Hctrab |
-| 197 | 177 | Jacqueline Unique |
+| 196 | 177 | Jacqueline Unique |
+| 197 | 177 | Irual Hctrab |
 | 198 | 176 | Mel Hogan |
 | 199 | 175 | John Barron |
 | 200 | 175 | Cartier |

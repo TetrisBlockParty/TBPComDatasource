@@ -112,8 +112,8 @@
 | 104 | 512 | Christine Niles |
 | 105 | 506 | Sashay Tapae Simpson |
 | 106 | 503 | Susan Valentino |
-| 107 | 502 | Elissa S-k |
-| 108 | 502 | Justin Ritter |
+| 107 | 502 | Justin Ritter |
+| 108 | 502 | Elissa S-k |
 | 109 | 500 | Domo Washington |
 | 110 | 500 | Kristie |
 | 111 | 497 | Mykal Burton |
@@ -146,12 +146,12 @@
 | 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
-| 141 | 399 | Mcathen |
-| 142 | 399 | Marcie Bressler |
+| 141 | 399 | Marcie Bressler |
+| 142 | 399 | Mcathen |
 | 143 | 397 | Annie Déè |
 | 144 | 396 | Aaron Pitkin |
-| 145 | 392 | Tasha Gillespie |
-| 146 | 392 | Katie Knaus |
+| 145 | 392 | Katie Knaus |
+| 146 | 392 | Tasha Gillespie |
 | 147 | 391 | Calista Jo Dickson |
 | 148 | 390 | Hasty Cascadefit |
 | 149 | 389 | Jeni Dow |
@@ -168,8 +168,8 @@
 | 160 | 362 | Darlene McMillan |
 | 161 | 359 | Dapper Snap |
 | 162 | 355 | Tessina Dewey-Mancino |
-| 163 | 353 | CeceGeGe |
-| 164 | 353 | Shunta Jacobs |
+| 163 | 353 | Shunta Jacobs |
+| 164 | 353 | CeceGeGe |
 | 165 | 352 | Chris Bell |
 | 166 | 351 | Tom Nault |
 | 167 | 348 | Chasity |
@@ -202,8 +202,8 @@
 | 194 | 295 | Marci Mize Fandrich |
 | 195 | 295 | Jim Mathews |
 | 196 | 295 | RickyG |
-| 197 | 289 | Duane Bright |
-| 198 | 289 | Hoppy Buildout |
+| 197 | 289 | Hoppy Buildout |
+| 198 | 289 | Duane Bright |
 | 199 | 289 | Rebecca Bailey |
 | 200 | 289 | DidIdothat |
 | 201 | 286 | Cynthia Herrmann Egland |
