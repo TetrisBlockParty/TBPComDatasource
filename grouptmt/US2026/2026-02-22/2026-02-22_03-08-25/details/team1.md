@@ -109,8 +109,8 @@
 | 101 | 290 | Death |
 | 102 | 288 | Seante Bullock |
 | 103 | 285 | Ananda Mendez |
-| 104 | 284 | Theo Pinnow |
-| 105 | 284 | Emily Adelaide Wheatley |
+| 104 | 284 | Emily Adelaide Wheatley |
+| 105 | 284 | Theo Pinnow |
 | 106 | 283 | Franswa |
 | 107 | 282 | Timothy Dew |
 | 108 | 280 | Sarah Roberts |
@@ -158,11 +158,11 @@
 | 150 | 194 | Tyler Werts |
 | 151 | 193 | Lachelle Dillon |
 | 152 | 192 | Jessica Sheehan |
-| 153 | 192 | Shaykmia |
-| 154 | 192 | Christy Jones |
+| 153 | 192 | Christy Jones |
+| 154 | 192 | Shaykmia |
 | 155 | 191 | Diane Byrd |
-| 156 | 190 | Sweetts |
-| 157 | 190 | Thorne Shumate |
+| 156 | 190 | Thorne Shumate |
+| 157 | 190 | Sweetts |
 | 158 | 189 | Michael |
 | 159 | 188 | Sam Williams |
 | 160 | 187 | Snippy Wipebuilder |

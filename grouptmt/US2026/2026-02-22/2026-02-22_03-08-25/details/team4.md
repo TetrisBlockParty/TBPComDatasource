@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Jacqueline Helm |
-| 39 | 646 | Rachel Anne |
+| 38 | 646 | Rachel Anne |
+| 39 | 646 | Jacqueline Helm |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -147,8 +147,8 @@
 | 139 | 211 | Twisty Cascadezone |
 | 140 | 211 | Jenna McGeorge |
 | 141 | 210 | Swanky Fitline |
-| 142 | 205 | Tyler Terrific |
-| 143 | 205 | Sarah Neathery |
+| 142 | 205 | Sarah Neathery |
+| 143 | 205 | Tyler Terrific |
 | 144 | 204 | Jen Caldwell |
 | 145 | 203 | Katherine Crane |
 | 146 | 201 | Melvin Baird |

@@ -225,8 +225,8 @@
 | 217 | 709 | Jerilyn Andrina |
 | 218 | 705 | Lola Contreras |
 | 219 | 705 | Roger Grabbit |
-| 220 | 700 | Beverly Owens |
-| 221 | 700 | Rosemadder |
+| 220 | 700 | Rosemadder |
+| 221 | 700 | Beverly Owens |
 | 222 | 700 | Vincent Petrella |
 | 223 | 699 | Vo'Landa Reels |
 | 224 | 698 | Mighty Shatterfit |
