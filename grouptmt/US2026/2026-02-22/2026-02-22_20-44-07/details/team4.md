@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -173,8 +173,8 @@
 | 165 | 295 | Cursed Hag |
 | 166 | 294 | Calvin Cannon |
 | 167 | 291 | Crystal Nicolette Moore |
-| 168 | 290 | Damn Libra |
-| 169 | 290 | Keshia Lyons |
+| 168 | 290 | Keshia Lyons |
+| 169 | 290 | Damn Libra |
 | 170 | 290 | Chaz Duncan |
 | 171 | 289 | Michele Plunkett |
 | 172 | 289 | Lindsay Ball |
@@ -274,8 +274,8 @@
 | 266 | 195 | 中山成巳 |
 | 267 | 195 | Snippy Puzzle |
 | 268 | 194 | Zany Twisterfit |
-| 269 | 193 | Shainne Brewer |
-| 270 | 193 | Stephme310 |
+| 269 | 193 | Stephme310 |
+| 270 | 193 | Shainne Brewer |
 | 271 | 192 | Andrew Dang |
 | 272 | 191 | Earnest Thompson |
 | 273 | 190 | Stella |
@@ -317,8 +317,8 @@
 | 309 | 163 | Cheaneen Livingston |
 | 310 | 163 | Jason Bosco |
 | 311 | 162 | conceptCollector |
-| 312 | 162 | Victoria Faniel |
-| 313 | 162 | Gwendolyn Pitcairn |
+| 312 | 162 | Gwendolyn Pitcairn |
+| 313 | 162 | Victoria Faniel |
 | 314 | 162 | Chummy Towerzone |
 | 315 | 161 | Tanner Lund |
 | 316 | 160 | wombat |

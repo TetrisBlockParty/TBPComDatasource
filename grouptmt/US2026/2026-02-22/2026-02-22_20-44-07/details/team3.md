@@ -78,8 +78,8 @@
 | 70 | 892 | Corie A. Brinson |
 | 71 | 882 | Tiff Vs Tiffany |
 | 72 | 878 | Katie Knaus |
-| 73 | 874 | Shari Garber |
-| 74 | 874 | Jessica Pineda-Lopez |
+| 73 | 874 | Jessica Pineda-Lopez |
+| 74 | 874 | Shari Garber |
 | 75 | 870 | Nerdy Riseclear |
 | 76 | 866 | Ebony West-Cundiff |
 | 77 | 864 | Mary Pellegrino |
@@ -125,8 +125,8 @@
 | 117 | 625 | Shavette |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
-| 120 | 595 | Patricia White |
-| 121 | 595 | Giddy Drop |
+| 120 | 595 | Giddy Drop |
+| 121 | 595 | Patricia White |
 | 122 | 585 | opf |
 | 123 | 583 | Karon Griffin |
 | 124 | 582 | Natasha Jones |
@@ -169,8 +169,8 @@
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
 | 163 | 468 | Betty Ivy |
-| 164 | 464 | Makelini Mausia |
-| 165 | 464 | Michelle |
+| 164 | 464 | Michelle |
+| 165 | 464 | Makelini Mausia |
 | 166 | 461 | Jone |
 | 167 | 460 | Danielle Allison |
 | 168 | 457 | Jim Mathews |
@@ -183,9 +183,9 @@
 | 175 | 447 | Shunta Jacobs |
 | 176 | 445 | Jacqueline Rodriguez |
 | 177 | 441 | Tasha Schriewer |
-| 178 | 432 | Jenny Hrndz |
+| 178 | 432 | Luciana Braganca Vieira |
 | 179 | 432 | Christine Trester |
-| 180 | 432 | Luciana Braganca Vieira |
+| 180 | 432 | Jenny Hrndz |
 | 181 | 431 | Sarah Cowan Burgos |
 | 182 | 430 | Jeni Dow |
 | 183 | 430 | Joye Sims Binion |
@@ -226,13 +226,13 @@
 | 218 | 360 | Sheila M Frazier |
 | 219 | 357 | Stephanie Burtin |
 | 220 | 355 | Keis |
-| 221 | 351 | Rebecca Funderburk Kirby |
-| 222 | 351 | Eon Harris |
+| 221 | 351 | Eon Harris |
+| 222 | 351 | Rebecca Funderburk Kirby |
 | 223 | 350 | Kammy Hill |
 | 224 | 349 | Amanda J. Mcneil-Anderson |
 | 225 | 348 | Kristal C Lee |
-| 226 | 347 | Trisha Balmer |
-| 227 | 347 | Philip Rock |
+| 226 | 347 | Philip Rock |
+| 227 | 347 | Trisha Balmer |
 | 228 | 346 | Tamara Deherrera |
 | 229 | 344 | Rania Zaqout |
 | 230 | 344 | Roary Danner |
@@ -257,9 +257,9 @@
 | 249 | 317 | Kelly |
 | 250 | 312 | Charles Perrone |
 | 251 | 308 | Cynthia Herrmann Egland |
-| 252 | 307 | Blocked |
-| 253 | 307 | Snappy Balancer |
-| 254 | 307 | rnr junky |
+| 252 | 307 | Snappy Balancer |
+| 253 | 307 | rnr junky |
+| 254 | 307 | Blocked |
 | 255 | 306 | Felicia Rocha |
 | 256 | 304 | Marquita Sheard |
 | 257 | 302 | Gray Hicks |
@@ -269,8 +269,8 @@
 | 261 | 298 | Grams |
 | 262 | 298 | MsBee |
 | 263 | 297 | Jojo M |
-| 264 | 296 | Hoppy Buildout |
-| 265 | 296 | Katrina Turner |
+| 264 | 296 | Katrina Turner |
+| 265 | 296 | Hoppy Buildout |
 | 266 | 295 | Tiffany Davie |
 | 267 | 292 | Cheeky Snapper |
 | 268 | 291 | Carrie Huskey |
@@ -278,9 +278,9 @@
 | 270 | 289 | DidIdothat |
 | 271 | 289 | Duane Bright |
 | 272 | 287 | Sabrina Hardrick |
-| 273 | 286 | Christian Werndl |
-| 274 | 286 | Terry Jo Jones |
-| 275 | 286 | Tye Stovall |
+| 273 | 286 | Tye Stovall |
+| 274 | 286 | Christian Werndl |
+| 275 | 286 | Terry Jo Jones |
 | 276 | 283 | Heather Green |
 | 277 | 279 | Connie Mohler-Fair |
 | 278 | 278 | LaShey Thompson |
