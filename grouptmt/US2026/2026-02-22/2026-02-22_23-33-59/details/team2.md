@@ -262,8 +262,8 @@
 | 254 | 971 | Robin Kerby |
 | 255 | 970 | Maria Escobar |
 | 256 | 958 | Brenda Messer |
-| 257 | 957 | Keri Womack |
-| 258 | 957 | Block Master |
+| 257 | 957 | Block Master |
+| 258 | 957 | Keri Womack |
 | 259 | 957 | Crystal Hoffman |
 | 260 | 955 | Angela Bonquiqui Dinish |
 | 261 | 955 | Kevin Walp |
@@ -293,8 +293,8 @@
 | 285 | 892 | Boldy Cascadepiece |
 | 286 | 887 | Barbra Miller |
 | 287 | 884 | Adira Brown |
-| 288 | 883 | Hong Tang |
-| 289 | 883 | nikki |
+| 288 | 883 | nikki |
+| 289 | 883 | Hong Tang |
 | 290 | 882 | Nashu |
 | 291 | 880 | Sam Joe |
 | 292 | 878 | Felicia Lynn |
@@ -332,8 +332,8 @@
 | 324 | 812 | Jackie Lucas |
 | 325 | 812 | Samantha Jo |
 | 326 | 808 | Melissa McCall |
-| 327 | 808 | Desire Rice |
-| 328 | 808 | Laura McCarthey |
+| 327 | 808 | Laura McCarthey |
+| 328 | 808 | Desire Rice |
 | 329 | 807 | Khalil Lowe |
 | 330 | 799 | Joy LaJeunesse |
 | 331 | 797 | Offonar Facey |
@@ -344,8 +344,8 @@
 | 336 | 788 | Erika Densmore |
 | 337 | 782 | Beth |
 | 338 | 781 | Cassie Mercer |
-| 339 | 777 | Jessicah Myers |
-| 340 | 777 | Tesha Oldaker |
+| 339 | 777 | Tesha Oldaker |
+| 340 | 777 | Jessicah Myers |
 | 341 | 774 | Ashley Dow |
 | 342 | 774 | Ginnell Browner |
 | 343 | 773 | Diana Fitzwater |
@@ -465,8 +465,8 @@
 | 457 | 605 | Santana Miyagi |
 | 458 | 603 | Casper The Chonk |
 | 459 | 603 | Denise Rickman |
-| 460 | 602 | Shaun Church |
-| 461 | 602 | KhaosLord |
+| 460 | 602 | KhaosLord |
+| 461 | 602 | Shaun Church |
 | 462 | 601 | Moua Ying |
 | 463 | 597 | Jamie Schmitt |
 | 464 | 596 | Qiana Sanders |

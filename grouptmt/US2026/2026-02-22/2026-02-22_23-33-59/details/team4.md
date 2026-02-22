@@ -208,8 +208,8 @@
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Mimi |
 | 207 | 268 | Porkobello |
@@ -220,14 +220,14 @@
 | 212 | 261 | Dihcheese444 |
 | 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
-| 215 | 257 | PeaceOs |
-| 216 | 257 | Cheery Risebuilder |
+| 215 | 257 | Cheery Risebuilder |
+| 216 | 257 | PeaceOs |
 | 217 | 256 | Mylo Lipscomb |
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Chirpy Basepiece |
-| 222 | 248 | Jose Dejesus |
+| 221 | 248 | Jose Dejesus |
+| 222 | 248 | Chirpy Basepiece |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Carlos Ramirez |
 | 225 | 246 | Zethra Prenisha Rahming |
@@ -243,8 +243,8 @@
 | 235 | 238 | Zesty Twistbuilder |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
-| 238 | 230 | blockstar |
-| 239 | 230 | Jade Rian |
+| 238 | 230 | Jade Rian |
+| 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
 | 242 | 225 | Perky Patternblock |

@@ -210,8 +210,8 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Cody Gates |
-| 206 | 267 | Debbie Kane |
+| 205 | 267 | Debbie Kane |
+| 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
@@ -342,7 +342,7 @@
 | 334 | 177 | Jacqueline Unique |
 | 335 | 176 | Damian Salem |
 | 336 | 176 | Mark Smith |
-| 337 | 176 | Damian Salem |
+| 337 | 176 | Vivienne Carter |
 | 338 | 176 | Наталья Солоид |
 | 339 | 175 | Kellie Tunstall |
 | 340 | 175 | Agustin Duarte Orozco |
@@ -411,8 +411,8 @@
 | 403 | 150 | 윤이나 |
 | 404 | 150 | Jennifer Corrado |
 | 405 | 149 | MIKOZ |
-| 406 | 149 | Logan McFarland |
-| 407 | 149 | Kimberly Davis |
+| 406 | 149 | Kimberly Davis |
+| 407 | 149 | Logan McFarland |
 | 408 | 148 | Sir-Franchise Drake |
 | 409 | 148 | Nate Price |
 | 410 | 148 | Dizzy Rackham |
