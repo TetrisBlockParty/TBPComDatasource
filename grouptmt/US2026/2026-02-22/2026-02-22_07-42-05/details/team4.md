@@ -48,8 +48,8 @@
 | 40 | 757 | Ancient Intuition |
 | 41 | 736 | Goatimus Lombardi |
 | 42 | 734 | BertMofo |
-| 43 | 707 | Clarence Patawaran |
-| 44 | 707 | Rachel Anne |
+| 43 | 707 | Rachel Anne |
+| 44 | 707 | Clarence Patawaran |
 | 45 | 704 | Crystal Carroll |
 | 46 | 697 | Edward White |
 | 47 | 695 | LisaJo Picken Buchanan |
@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | TeeJ |
-| 75 | 483 | Carmethia Clemons Haslerig |
+| 74 | 483 | Carmethia Clemons Haslerig |
+| 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Erin Thomas |
 | 78 | 447 | Samantha Peterson |
@@ -132,10 +132,10 @@
 | 124 | 286 | Daria Rycewicz |
 | 125 | 283 | Brittney Orengo |
 | 126 | 281 | Meagan Nicole |
-| 127 | 278 | Desi Desporte |
-| 128 | 278 | Carrie Brian |
-| 129 | 277 | Mary Ann Pabukis |
-| 130 | 277 | Scott Jameson |
+| 127 | 278 | Carrie Brian |
+| 128 | 278 | Desi Desporte |
+| 129 | 277 | Scott Jameson |
+| 130 | 277 | Mary Ann Pabukis |
 | 131 | 275 | Dizzy Tiley |
 | 132 | 271 | Sarah Brown |
 | 133 | 264 | Dana Scott |
@@ -267,8 +267,8 @@
 | 259 | 138 | Brandon Link |
 | 260 | 137 | PeaceOs |
 | 261 | 137 | Brianna Walker |
-| 262 | 136 | Michelle Morris |
-| 263 | 136 | Maureen Flanigan |
+| 262 | 136 | Maureen Flanigan |
+| 263 | 136 | Michelle Morris |
 | 264 | 135 | Joshua Guess |
 | 265 | 134 | Duck |
 | 266 | 134 | Kim Klutz Olson |

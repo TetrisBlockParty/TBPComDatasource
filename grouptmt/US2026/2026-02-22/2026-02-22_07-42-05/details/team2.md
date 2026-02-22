@@ -341,8 +341,8 @@
 | 333 | 582 | Gary Stash |
 | 334 | 581 | Jerry Tempelmeyer |
 | 335 | 579 | AgileDragon |
-| 336 | 579 | Roy Salyer |
-| 337 | 579 | Juliana Marques Do Nascimento Gordy |
+| 336 | 579 | Juliana Marques Do Nascimento Gordy |
+| 337 | 579 | Roy Salyer |
 | 338 | 576 | Leslie Johnson Guinto |
 | 339 | 573 | Carl Bradshaw |
 | 340 | 572 | Chris Wanner |
@@ -414,8 +414,8 @@
 | 406 | 489 | Osun Anuket Esu |
 | 407 | 489 | Cassie Mercer |
 | 408 | 488 | Venita Ray |
-| 409 | 487 | MrsCandyfine As Wine Truss |
-| 410 | 487 | Maya June |
+| 409 | 487 | Maya June |
+| 410 | 487 | MrsCandyfine As Wine Truss |
 | 411 | 486 | Caitlin Schmid |
 | 412 | 485 | Mamachelle Eisweirth |
 | 413 | 485 | Ann Matzkanin |
@@ -715,8 +715,8 @@
 | 707 | 308 | Claire |
 | 708 | 307 | stacey |
 | 709 | 306 | Kiorah Blaze |
-| 710 | 305 | MamaBear11 |
-| 711 | 305 | Zany Clusterbuilder |
+| 710 | 305 | Zany Clusterbuilder |
+| 711 | 305 | MamaBear11 |
 | 712 | 305 | Libby Hicks |
 | 713 | 304 | Michelle Shrum |
 | 714 | 304 | NFLPITMOM |

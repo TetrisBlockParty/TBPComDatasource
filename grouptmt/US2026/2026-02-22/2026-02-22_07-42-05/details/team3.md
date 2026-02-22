@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Kay |
-| 46 | 989 | Joey Banks |
+| 45 | 989 | Joey Banks |
+| 46 | 989 | Kay |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | France Vézina |
-| 307 | 184 | Troy |
+| 306 | 184 | Troy |
+| 307 | 184 | France Vézina |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -326,8 +326,8 @@
 | 318 | 179 | Rachel Napper |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Melissa Orth Hunter |
-| 322 | 176 | Emma |
+| 321 | 176 | Emma |
+| 322 | 176 | Melissa Orth Hunter |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
@@ -342,8 +342,8 @@
 | 334 | 167 | Irene Arreguin |
 | 335 | 166 | Noettín Kan Zasnemoore |
 | 336 | 166 | Snarky McFace |
-| 337 | 165 | Ashley Lynn Marchese |
-| 338 | 165 | Rainbow77375 |
+| 337 | 165 | Rainbow77375 |
+| 338 | 165 | Ashley Lynn Marchese |
 | 339 | 165 | Kali Kelz Williams |
 | 340 | 163 | Diana Ibarra |
 | 341 | 163 | Christine Trester |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Lys |
-| 362 | 153 | Sheila M Frazier |
+| 361 | 153 | Sheila M Frazier |
+| 362 | 153 | Lys |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |
