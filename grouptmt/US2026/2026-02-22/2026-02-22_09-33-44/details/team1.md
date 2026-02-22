@@ -123,8 +123,8 @@
 | 115 | 318 | Jessica Sheehan |
 | 116 | 316 | Ly Phethmany |
 | 117 | 313 | Tanya Carpenter-Reynolds |
-| 118 | 310 | Seth Wesson |
-| 119 | 310 | Jason Jones |
+| 118 | 310 | Jason Jones |
+| 119 | 310 | Seth Wesson |
 | 120 | 306 | Happy Basegrid |
 | 121 | 304 | Nicole Roseberry Weber |
 | 122 | 301 | Lehrin Maria |
@@ -165,23 +165,23 @@
 | 157 | 241 | John J. Cronin |
 | 158 | 239 | Jamie Jury |
 | 159 | 232 | Jessi Sauer |
-| 160 | 230 | Billie Dawn Sparks |
-| 161 | 230 | Frothy Pattern |
+| 160 | 230 | Frothy Pattern |
+| 161 | 230 | Billie Dawn Sparks |
 | 162 | 229 | David Lutcher |
-| 163 | 226 | Sleepysloath5745 |
-| 164 | 226 | Kandae |
+| 163 | 226 | Kandae |
+| 164 | 226 | Sleepysloath5745 |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
 | 167 | 217 | ParisandCory Champagne |
-| 168 | 216 | MRdot Rooski |
-| 169 | 216 | Shauntina Burke |
+| 168 | 216 | Shauntina Burke |
+| 169 | 216 | MRdot Rooski |
 | 170 | 215 | Sam Williams |
 | 171 | 213 | Daring Fitclear |
 | 172 | 212 | Jaimie Lynn |
-| 173 | 211 | Marianita Garcia |
-| 174 | 211 | Kimberly Garcia |
-| 175 | 210 | Giggly Builderline |
-| 176 | 210 | Letson Melissa |
+| 173 | 211 | Kimberly Garcia |
+| 174 | 211 | Marianita Garcia |
+| 175 | 210 | Letson Melissa |
+| 176 | 210 | Giggly Builderline |
 | 177 | 209 | Debbie Davis |
 | 178 | 208 | Donna Addison Williams |
 | 179 | 208 | Bouncy Grid |
@@ -217,8 +217,8 @@
 | 209 | 186 | Margo Wagner |
 | 210 | 186 | Erin Hodges Plumb |
 | 211 | 184 | Chris Sigurdson |
-| 212 | 183 | Andrew Boone |
-| 213 | 183 | Amy Hess |
+| 212 | 183 | Amy Hess |
+| 213 | 183 | Andrew Boone |
 | 214 | 182 | Phu ckalldems |
 | 215 | 180 | Jessie Lynn |
 | 216 | 180 | Beau Galvan |
@@ -243,8 +243,8 @@
 | 235 | 170 | Cece Ibarra |
 | 236 | 170 | Standia Civil |
 | 237 | 169 | Abbey Crespo |
-| 238 | 168 | Angela Fairbank |
-| 239 | 168 | Amber Stoker |
+| 238 | 168 | Amber Stoker |
+| 239 | 168 | Angela Fairbank |
 | 240 | 167 | Cranky Pattern |
 | 241 | 167 | Nery Martinez |
 | 242 | 165 | Silly Align |
@@ -274,7 +274,7 @@
 | 266 | 147 | J.F. Fields |
 | 267 | 145 | Rachel Nichole Henry |
 | 268 | 145 | Tipsy Riseclear |
-| 269 | 144 | Barrbaric |
+| 269 | 144 | Miguel Teixeira |
 | 270 | 144 | Fmp |
 | 271 | 144 | Toph |
 | 272 | 144 | Barrbaric |

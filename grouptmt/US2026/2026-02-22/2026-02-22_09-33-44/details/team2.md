@@ -172,8 +172,8 @@
 | 164 | 1048 | PsychKIRAtrist |
 | 165 | 1047 | Amy Sayers |
 | 166 | 1045 | Lourisha |
-| 167 | 1043 | Brave Dropmatch |
-| 168 | 1043 | Suki Kaur |
+| 167 | 1043 | Suki Kaur |
+| 168 | 1043 | Brave Dropmatch |
 | 169 | 1035 | Sarah Freitas |
 | 170 | 1024 | Bri Lynn |
 | 171 | 1023 | Brainy Smurf |
@@ -245,9 +245,9 @@
 | 237 | 801 | Ashlen Dorrell |
 | 238 | 800 | Danielle Johnson-Chandler |
 | 239 | 787 | Laura McCarthey |
-| 240 | 777 | Barbra Miller |
-| 241 | 777 | Tesha Oldaker |
-| 242 | 777 | Jessicah Myers |
+| 240 | 777 | Jessicah Myers |
+| 241 | 777 | Barbra Miller |
+| 242 | 777 | Tesha Oldaker |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | William Hunt |
 | 245 | 772 | Sam Joe |
@@ -330,8 +330,8 @@
 | 322 | 639 | Rebecca Miller |
 | 323 | 635 | Diana Fitzwater |
 | 324 | 631 | Marie Walker |
-| 325 | 627 | Victoria Moore-Smith |
-| 326 | 627 | Allan Wayne Lamia |
+| 325 | 627 | Allan Wayne Lamia |
+| 326 | 627 | Victoria Moore-Smith |
 | 327 | 620 | Brandon Armstrong |
 | 328 | 619 | Jánine Riggs |
 | 329 | 617 | Leslie Ann Carter |
@@ -564,8 +564,8 @@
 | 556 | 396 | Candy Pitts |
 | 557 | 396 | Boogie SoAnimated Johnson |
 | 558 | 394 | Taryece Gause |
-| 559 | 393 | Arlene Joy Belicina |
-| 560 | 393 | Alexandra Weir |
+| 559 | 393 | Alexandra Weir |
+| 560 | 393 | Arlene Joy Belicina |
 | 561 | 393 | Deyawn Smith |
 | 562 | 393 | Jamie West |
 | 563 | 393 | bbv |
@@ -601,8 +601,8 @@
 | 593 | 378 | Tina Marie |
 | 594 | 378 | Jasmine Kenney |
 | 595 | 377 | Jason H Baker |
-| 596 | 376 | James Zaragoza |
-| 597 | 376 | Darlene Bowman |
+| 596 | 376 | Darlene Bowman |
+| 597 | 376 | James Zaragoza |
 | 598 | 375 | Cecilia A Jenkins |
 | 599 | 375 | Lively Edgepiece |
 | 600 | 373 | Ashley Marie |
@@ -613,15 +613,15 @@
 | 605 | 371 | Brenda Messer |
 | 606 | 371 | AkaLefty |
 | 607 | 371 | Saucy Fitzone |
-| 608 | 369 | RaeVan Worthington |
-| 609 | 369 | Tony Lea |
+| 608 | 369 | Tony Lea |
+| 609 | 369 | RaeVan Worthington |
 | 610 | 369 | Juan Castillo |
 | 611 | 368 | Angi Harrison |
 | 612 | 367 | Jessica Lamb |
 | 613 | 367 | Connie Lepore-Mann |
-| 614 | 366 | Smashanator |
-| 615 | 366 | Courtney Burcham |
-| 616 | 366 | Lawanda Forbes |
+| 614 | 366 | Lawanda Forbes |
+| 615 | 366 | Smashanator |
+| 616 | 366 | Courtney Burcham |
 | 617 | 365 | Christina Lewis-Vickers |
 | 618 | 365 | Susan Arnburg |
 | 619 | 365 | Audrey Jones |
@@ -683,8 +683,8 @@
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Woodys Glass |
-| 679 | 333 | Adrian Benitez |
+| 678 | 333 | Adrian Benitez |
+| 679 | 333 | Woodys Glass |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
@@ -743,8 +743,8 @@
 | 735 | 304 | Melissa McCall |
 | 736 | 304 | James Smith |
 | 737 | 303 | Angie Marie |
-| 738 | 303 | Devin |
-| 739 | 303 | Amanda Schaffer |
+| 738 | 303 | Amanda Schaffer |
+| 739 | 303 | Devin |
 | 740 | 302 | Kena T. Tanner |
 | 741 | 302 | Aishah Brice |
 | 742 | 302 | Maxwell Escalera |
@@ -1109,9 +1109,9 @@
 | 1101 | 204 | Ali Gralski |
 | 1102 | 204 | Lakeela Wise |
 | 1103 | 204 | Edralin Custodio |
-| 1104 | 202 | BIG BABY |
-| 1105 | 202 | Joshua Yonker |
-| 1106 | 202 | Chirpy Snapper |
+| 1104 | 202 | Joshua Yonker |
+| 1105 | 202 | Chirpy Snapper |
+| 1106 | 202 | BIG BABY |
 | 1107 | 201 | Jennifer Rajek |
 | 1108 | 201 | LintFunk |
 | 1109 | 201 | Betty Ruth Hale |
@@ -1166,8 +1166,8 @@
 | 1158 | 192 | Joy Marie |
 | 1159 | 192 | Donna M Carter |
 | 1160 | 191 | Netty |
-| 1161 | 191 | Andre Love |
-| 1162 | 191 | Samuel Labruno |
+| 1161 | 191 | Samuel Labruno |
+| 1162 | 191 | Andre Love |
 | 1163 | 191 | Casaundra Little-Abeling |
 | 1164 | 190 | Cherry |
 | 1165 | 190 | Lola |

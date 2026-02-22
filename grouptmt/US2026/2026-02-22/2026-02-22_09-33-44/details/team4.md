@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | JPW |
-| 210 | 174 | Rio Rocha |
+| 209 | 174 | Rio Rocha |
+| 210 | 174 | JPW |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
@@ -363,7 +363,7 @@
 | 355 | 110 | No Strings Attached Ra |
 | 356 | 110 | Spicy Cascadezone |
 | 357 | 110 | Glitzy Crasher |
-| 358 | 110 | No Strings Attached Ra |
+| 358 | 110 | Ruby Khalisadar |
 | 359 | 109 | Jumpy Zonepiece |
 | 360 | 109 | Frank Cook |
 | 361 | 109 | Jessica Miller |
