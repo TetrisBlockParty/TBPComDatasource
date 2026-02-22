@@ -161,8 +161,8 @@
 | 153 | 439 | FuzzyNavel |
 | 154 | 438 | Logan Naccarato |
 | 155 | 438 | Valerie Gendron |
-| 156 | 432 | Luciana Braganca Vieira |
-| 157 | 432 | Jenny Hrndz |
+| 156 | 432 | Jenny Hrndz |
+| 157 | 432 | Luciana Braganca Vieira |
 | 158 | 430 | Joye Sims Binion |
 | 159 | 430 | Tasha Gillespie |
 | 160 | 427 | Wendy Dearden |
@@ -1266,7 +1266,7 @@
 | 1258 | 55 | Tammy Hubbard |
 | 1259 | 55 | A4dapay |
 | 1260 | 54 | Ivie Halftown |
-| 1261 | 54 | Victoria Neiderman |
+| 1261 | 54 | Shea Ladynick Henderson |
 | 1262 | 54 | Tipsy Dashgrid |
 | 1263 | 54 | Victoria Neiderman |
 | 1264 | 54 | Manda Panda |

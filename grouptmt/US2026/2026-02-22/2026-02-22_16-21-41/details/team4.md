@@ -229,8 +229,8 @@
 | 221 | 203 | Katherine Crane |
 | 222 | 202 | Patron Anderson |
 | 223 | 201 | Melvin Baird |
-| 224 | 200 | Googenheim |
-| 225 | 200 | Rebecca Morris |
+| 224 | 200 | Rebecca Morris |
+| 225 | 200 | Googenheim |
 | 226 | 200 | Lori |
 | 227 | 199 | April Rondinone |
 | 228 | 198 | Calvin Dennis |
@@ -332,8 +332,8 @@
 | 324 | 141 | Montiette Mcglown |
 | 325 | 141 | Tony Pavelka |
 | 326 | 140 | Rico |
-| 327 | 139 | O block |
-| 328 | 139 | Lori Goudy |
+| 327 | 139 | Lori Goudy |
+| 328 | 139 | O block |
 | 329 | 138 | Ashlee Carnes |
 | 330 | 138 | Jasmine S Caldwell |
 | 331 | 138 | Moonsterix |

@@ -192,8 +192,8 @@
 | 184 | 1055 | Maegan Beaule |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Suki Kaur |
-| 188 | 1043 | Brave Dropmatch |
+| 187 | 1043 | Brave Dropmatch |
+| 188 | 1043 | Suki Kaur |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -358,12 +358,12 @@
 | 350 | 661 | goofinoff |
 | 351 | 659 | Draizen Montrell Thomas |
 | 352 | 651 | Unica Rector |
-| 353 | 650 | Shiny Rollzone |
-| 354 | 650 | Amber Brion |
+| 353 | 650 | Amber Brion |
+| 354 | 650 | Shiny Rollzone |
 | 355 | 644 | Desiree Anderson |
 | 356 | 643 | Hoppy Brickmatch |
-| 357 | 640 | Kara Gillen |
-| 358 | 640 | BYM4L |
+| 357 | 640 | BYM4L |
+| 358 | 640 | Kara Gillen |
 | 359 | 639 | Crystie Hicks |
 | 360 | 639 | Rebecca Miller |
 | 361 | 634 | Gary Stash |
@@ -371,8 +371,8 @@
 | 363 | 631 | Dylan Thomason |
 | 364 | 631 | Marie Walker |
 | 365 | 628 | Brownie Sheena |
-| 366 | 627 | Allan Wayne Lamia |
-| 367 | 627 | Victoria Moore-Smith |
+| 366 | 627 | Victoria Moore-Smith |
+| 367 | 627 | Allan Wayne Lamia |
 | 368 | 621 | AgileDragon |
 | 369 | 620 | Demeka Dangerous-kisses Johnson |
 | 370 | 620 | Brandon Armstrong |
