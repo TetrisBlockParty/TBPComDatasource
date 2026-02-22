@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -191,12 +191,12 @@
 | 183 | 192 | Shauna Havard |
 | 184 | 191 | Klo |
 | 185 | 190 | Cheery Risebuilder |
-| 186 | 189 | Stacey Stano |
-| 187 | 189 | Calvin Dennis |
+| 186 | 189 | Calvin Dennis |
+| 187 | 189 | Stacey Stano |
 | 188 | 188 | Andria Lynn |
 | 189 | 186 | Holly |
-| 190 | 185 | Andy Cabral |
-| 191 | 185 | Lori |
+| 190 | 185 | Lori |
+| 191 | 185 | Andy Cabral |
 | 192 | 184 | Ak Jones |
 | 193 | 181 | Alan George LaRage |
 | 194 | 181 | Carter Jones |

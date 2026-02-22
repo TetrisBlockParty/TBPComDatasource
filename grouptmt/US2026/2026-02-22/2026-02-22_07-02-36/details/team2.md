@@ -122,8 +122,8 @@
 | 114 | 1273 | Cool Rollpiece |
 | 115 | 1257 | Eileen Hale |
 | 116 | 1252 | Katrina Williams Balmir |
-| 117 | 1248 | Howard Forest |
-| 118 | 1248 | Isabela Shaw |
+| 117 | 1248 | Isabela Shaw |
+| 118 | 1248 | Howard Forest |
 | 119 | 1242 | Altamirano Michael |
 | 120 | 1233 | Mr. Street Stack |
 | 121 | 1232 | Groovy Puzzle |
@@ -195,8 +195,8 @@
 | 187 | 921 | Morgue Chick |
 | 188 | 916 | Butta |
 | 189 | 915 | Kelly Trent |
-| 190 | 910 | Shuany Arias |
-| 191 | 910 | Crystal Hoffman |
+| 190 | 910 | Crystal Hoffman |
+| 191 | 910 | Shuany Arias |
 | 192 | 907 | Gene Mills |
 | 193 | 902 | Murrae Lynn Rebarchek |
 | 194 | 901 | Jennifer Peachey |
@@ -206,8 +206,8 @@
 | 198 | 867 | Michele Gabriel |
 | 199 | 865 | Dedra Steward |
 | 200 | 863 | Auntie B |
-| 201 | 862 | Brittany Radaszewski |
-| 202 | 862 | Robin Kerby |
+| 201 | 862 | Robin Kerby |
+| 202 | 862 | Brittany Radaszewski |
 | 203 | 860 | April Dawn Gussler |
 | 204 | 857 | Della Hole |
 | 205 | 850 | Missie Lawson Gebhardt |
@@ -217,8 +217,8 @@
 | 209 | 838 | Tralonda Weeks |
 | 210 | 837 | Ashley Rose Frederick |
 | 211 | 835 | Katrina Weston |
-| 212 | 834 | Nika Bee |
-| 213 | 834 | Rebecca Doughman |
+| 212 | 834 | Rebecca Doughman |
+| 213 | 834 | Nika Bee |
 | 214 | 828 | Cindy Sechler Taninecz |
 | 215 | 820 | Chirpy Staggerpiece |
 | 216 | 818 | Angela Bonquiqui Dinish |
@@ -236,7 +236,7 @@
 | 228 | 787 | Laura McCarthey |
 | 229 | 777 | Tesha Oldaker |
 | 230 | 777 | Jessicah Myers |
-| 231 | 777 | Tesha Oldaker |
+| 231 | 777 | Barbra Miller |
 | 232 | 777 | Eric Carlson |
 | 233 | 772 | Stephen Stephen |
 | 234 | 771 | Terri McKelvey McKinley |
@@ -420,8 +420,8 @@
 | 412 | 483 | Victor Obiakarije |
 | 413 | 482 | Ben Barkley |
 | 414 | 482 | Amélie Cadieux |
-| 415 | 482 | Drwatson187 |
-| 416 | 482 | Eckoman518 |
+| 415 | 482 | Eckoman518 |
+| 416 | 482 | Drwatson187 |
 | 417 | 481 | Klee |
 | 418 | 480 | Dar |
 | 419 | 478 | Ashley Collins |
@@ -447,8 +447,8 @@
 | 439 | 459 | Melissa Kay Gibson |
 | 440 | 458 | Casper The Chonk |
 | 441 | 454 | Casey Schumacher |
-| 442 | 453 | Rhonda Petro |
-| 443 | 453 | Joshua Sommerville |
+| 442 | 453 | Joshua Sommerville |
+| 443 | 453 | Rhonda Petro |
 | 444 | 451 | Funky Caster |
 | 445 | 451 | Cody Nishimura |
 | 446 | 451 | Dylan Thomason |
@@ -460,8 +460,8 @@
 | 452 | 444 | Ryan Meilleur |
 | 453 | 442 | Leah |
 | 454 | 441 | Christina Wsn |
-| 455 | 440 | Sarah Berger |
-| 456 | 440 | Liberty |
+| 455 | 440 | Liberty |
+| 456 | 440 | Sarah Berger |
 | 457 | 440 | Snippy Rumbler |
 | 458 | 438 | Johnny Yeates |
 | 459 | 437 | Bubbly Snapfit |
@@ -528,8 +528,8 @@
 | 520 | 396 | Boogie SoAnimated Johnson |
 | 521 | 394 | Taryece Gause |
 | 522 | 393 | Alexandra Weir |
-| 523 | 393 | bbv |
-| 524 | 393 | Jamie West |
+| 523 | 393 | Jamie West |
+| 524 | 393 | bbv |
 | 525 | 391 | Qiana Sanders |
 | 526 | 391 | Tipsy Filler |
 | 527 | 391 | Adam Simmons |
@@ -765,8 +765,8 @@
 | 757 | 280 | Reece Smith |
 | 758 | 279 | Loony Basepiece |
 | 759 | 278 | AndrewandShela Gornik |
-| 760 | 277 | Amanda Chamberlain |
-| 761 | 277 | Anthony Mignacca |
+| 760 | 277 | Anthony Mignacca |
+| 761 | 277 | Amanda Chamberlain |
 | 762 | 277 | NickyBrooks |
 | 763 | 276 | Lindsey Leigh |
 | 764 | 276 | Patrick Bartlett |

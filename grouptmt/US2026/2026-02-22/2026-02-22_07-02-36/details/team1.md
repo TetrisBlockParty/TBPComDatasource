@@ -153,8 +153,8 @@
 | 145 | 239 | GATOR |
 | 146 | 236 | Mandyy Rae |
 | 147 | 232 | Jessi Sauer |
-| 148 | 230 | Billie Dawn Sparks |
-| 149 | 230 | Frothy Pattern |
+| 148 | 230 | Frothy Pattern |
+| 149 | 230 | Billie Dawn Sparks |
 | 150 | 229 | David Lutcher |
 | 151 | 226 | Kandae |
 | 152 | 226 | Sleepysloath5745 |
@@ -168,9 +168,9 @@
 | 160 | 212 | Jaimie Lynn |
 | 161 | 211 | Kimberly Garcia |
 | 162 | 211 | Marianita Garcia |
-| 163 | 210 | Giggly Builderline |
-| 164 | 210 | Ash Galvan |
-| 165 | 210 | Letson Melissa |
+| 163 | 210 | Ash Galvan |
+| 164 | 210 | Letson Melissa |
+| 165 | 210 | Giggly Builderline |
 | 166 | 208 | Bouncy Grid |
 | 167 | 207 | Leslie Bush Yarbrough |
 | 168 | 207 | Brenda Alexander |
