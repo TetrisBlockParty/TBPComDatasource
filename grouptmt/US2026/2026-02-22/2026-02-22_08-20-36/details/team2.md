@@ -371,8 +371,8 @@
 | 363 | 541 | g |
 | 364 | 538 | Eric Castaneda |
 | 365 | 537 | Cherica Taylor |
-| 366 | 535 | Jessie McDougald |
-| 367 | 535 | Paul Huber |
+| 366 | 535 | Paul Huber |
+| 367 | 535 | Jessie McDougald |
 | 368 | 533 | Gauri Shrotriya |
 | 369 | 531 | Dizzy Zone |
 | 370 | 527 | Ryan Gunther |
@@ -401,8 +401,8 @@
 | 393 | 509 | Kelli Wells |
 | 394 | 509 | Jordan Kaiser |
 | 395 | 507 | Irene Jones |
-| 396 | 507 | Joshua Mandel |
-| 397 | 507 | Magic steve |
+| 396 | 507 | Magic steve |
+| 397 | 507 | Joshua Mandel |
 | 398 | 504 | Kimmy Newman |
 | 399 | 502 | Sparkles |
 | 400 | 500 | Sarah Ridenour |
@@ -780,8 +780,8 @@
 | 772 | 279 | Jennifer Coe |
 | 773 | 279 | Loony Basepiece |
 | 774 | 278 | AndrewandShela Gornik |
-| 775 | 277 | Amanda Chamberlain |
-| 776 | 277 | Anthony Mignacca |
+| 775 | 277 | Anthony Mignacca |
+| 776 | 277 | Amanda Chamberlain |
 | 777 | 277 | Min |
 | 778 | 276 | Dandy Combo |
 | 779 | 276 | Josh Webster |
@@ -805,8 +805,8 @@
 | 797 | 273 | Britt Stunkel |
 | 798 | 272 | Witty Piecebuilder |
 | 799 | 271 | Pam Doughty |
-| 800 | 271 | Shalisa Hill |
-| 801 | 271 | Beverly Hodge |
+| 800 | 271 | Beverly Hodge |
+| 801 | 271 | Shalisa Hill |
 | 802 | 270 | BK Queen |
 | 803 | 270 | Nat |
 | 804 | 269 | Katherin Camacho |

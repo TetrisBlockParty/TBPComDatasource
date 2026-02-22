@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | CeceGeGe |
@@ -170,8 +170,8 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Danielle Allison |
-| 166 | 370 | Santeria Trece Candles |
+| 165 | 370 | Santeria Trece Candles |
+| 166 | 370 | Danielle Allison |
 | 167 | 370 | Logan Naccarato |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
@@ -186,8 +186,8 @@
 | 178 | 347 | Nicole Flippo |
 | 179 | 343 | Ashley Raines |
 | 180 | 341 | Samantha Lynn |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 181 | 338 | Gumbo |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -280,9 +280,9 @@
 | 272 | 216 | Twisty Brick LT |
 | 273 | 216 | Cheryl Hinch Tenbrook |
 | 274 | 215 | IamJust Neyamijah Washington Sr. |
-| 275 | 214 | Angela Scott |
+| 275 | 214 | Rebel124 |
 | 276 | 214 | Amy Fuller Heaton |
-| 277 | 214 | Rebel124 |
+| 277 | 214 | Angela Scott |
 | 278 | 212 | Desiree Gold |
 | 279 | 212 | Sunny Rotater |
 | 280 | 211 | Velma Mull |

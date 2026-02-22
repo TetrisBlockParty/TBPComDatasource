@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | cc |
-| 82 | 388 | Jennifer ManWarren |
+| 81 | 388 | Jennifer ManWarren |
+| 82 | 388 | cc |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Kimmie Kimms |
@@ -133,8 +133,8 @@
 | 125 | 284 | Rachael |
 | 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
-| 128 | 282 | Timothy Dew |
-| 129 | 282 | Cool Shiftsnap |
+| 128 | 282 | Cool Shiftsnap |
+| 129 | 282 | Timothy Dew |
 | 130 | 280 | Sarah Roberts |
 | 131 | 280 | Jennifer Hardman |
 | 132 | 276 | Goose egg |
@@ -340,7 +340,7 @@
 | 332 | 112 | Glitzy Curvebuilder |
 | 333 | 112 | Crystal Joslin |
 | 334 | 112 | Negan Mallory Knoxx Spence |
-| 335 | 112 | Crystal Joslin |
+| 335 | 112 | Lush Zoney |
 | 336 | 111 | Damon J. Martin |
 | 337 | 110 | Jen |
 | 338 | 110 | Dandy Towerbuilder |
