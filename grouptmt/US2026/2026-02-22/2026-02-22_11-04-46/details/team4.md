@@ -56,8 +56,8 @@
 | 48 | 697 | Edward White |
 | 49 | 695 | LisaJo Picken Buchanan |
 | 50 | 661 | D3TROITB0RN74 |
-| 51 | 659 | Rebecca Moulton Pinciaro |
-| 52 | 659 | Jonathan Kimbrough |
+| 51 | 659 | Jonathan Kimbrough |
+| 52 | 659 | Rebecca Moulton Pinciaro |
 | 53 | 658 | loulou |
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
@@ -299,7 +299,7 @@
 | 291 | 136 | Michelle Morris |
 | 292 | 135 | KimoKoala |
 | 293 | 135 | Joshua Guess |
-| 294 | 134 | Marvetta Williams |
+| 294 | 134 | Duck |
 | 295 | 134 | Kim Klutz Olson |
 | 296 | 134 | Marvetta Williams |
 | 297 | 132 | Melissa Priest Sellers |

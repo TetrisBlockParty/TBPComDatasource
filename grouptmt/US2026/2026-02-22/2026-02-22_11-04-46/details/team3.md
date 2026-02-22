@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -108,8 +108,8 @@
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
-| 103 | 565 | Patty Allen |
-| 104 | 565 | Rachael McClain Owens |
+| 103 | 565 | Rachael McClain Owens |
+| 104 | 565 | Patty Allen |
 | 105 | 562 | Louise Stacy Sisson |
 | 106 | 562 | Dave Herzog |
 | 107 | 559 | Morgan Martinez |
@@ -176,8 +176,8 @@
 | 168 | 374 | Sherry Ogden |
 | 169 | 371 | Michael Nowogorski |
 | 170 | 370 | Logan Naccarato |
-| 171 | 370 | Danielle Allison |
-| 172 | 370 | Santeria Trece Candles |
+| 171 | 370 | Santeria Trece Candles |
+| 172 | 370 | Danielle Allison |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -207,8 +207,8 @@
 | 199 | 311 | Rochelle Hazelett |
 | 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Daryn Elliott |
-| 203 | 308 | Rania Zaqout |
+| 202 | 308 | Rania Zaqout |
+| 203 | 308 | Daryn Elliott |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 304 | Sissy Lowery Davis |
@@ -217,8 +217,8 @@
 | 209 | 300 | Sherika C. McDaniels |
 | 210 | 298 | MsBee |
 | 211 | 297 | Jojo M |
-| 212 | 296 | Katrina Turner |
-| 213 | 296 | Ammmmmmy |
+| 212 | 296 | Ammmmmmy |
+| 213 | 296 | Katrina Turner |
 | 214 | 296 | Brandon Givens |
 | 215 | 295 | Marci Mize Fandrich |
 | 216 | 291 | Kristal C Lee |
@@ -259,8 +259,8 @@
 | 251 | 256 | Tiffany Davie |
 | 252 | 250 | fraulila |
 | 253 | 250 | Eon Harris |
-| 254 | 249 | Annie Marie |
-| 255 | 249 | JerseyJess |
+| 254 | 249 | JerseyJess |
+| 255 | 249 | Annie Marie |
 | 256 | 247 | Carrie Huskey |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
@@ -328,8 +328,8 @@
 | 320 | 192 | Kelly Ann Child |
 | 321 | 191 | Becca Engle |
 | 322 | 191 | Philip Rock |
-| 323 | 189 | France Vézina |
-| 324 | 189 | Katie Leigh Blankenship |
+| 323 | 189 | Katie Leigh Blankenship |
+| 324 | 189 | France Vézina |
 | 325 | 188 | Loopy Fallmatch |
 | 326 | 186 | Bryan Byrd |
 | 327 | 186 | Sameerah Smith |
@@ -396,7 +396,7 @@
 | 388 | 153 | Tony Waters |
 | 389 | 153 | Betty Bóò |
 | 390 | 153 | Lys |
-| 391 | 153 | Betty Bóò |
+| 391 | 153 | Sheila M Frazier |
 | 392 | 152 | Shiny Zonebuilder |
 | 393 | 152 | Silver Marchán |
 | 394 | 151 | Sarah Cowan Burgos |

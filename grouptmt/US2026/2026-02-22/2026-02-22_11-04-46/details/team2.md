@@ -287,8 +287,8 @@
 | 279 | 713 | Chelle |
 | 280 | 704 | Shelley Thornburgh Wright |
 | 281 | 703 | Gold Rose |
-| 282 | 700 | Hong Tang |
-| 283 | 700 | Vincent Petrella |
+| 282 | 700 | Vincent Petrella |
+| 283 | 700 | Hong Tang |
 | 284 | 700 | Beverly Owens |
 | 285 | 700 | Rosemadder |
 | 286 | 698 | Mighty Shatterfit |
@@ -305,8 +305,8 @@
 | 297 | 685 | Binyah-Binyah |
 | 298 | 681 | Melissa Holsinger |
 | 299 | 679 | Offonar Facey |
-| 300 | 679 | Brenda Utphall |
-| 301 | 679 | Dee |
+| 300 | 679 | Dee |
+| 301 | 679 | Brenda Utphall |
 | 302 | 679 | Kassandra Hunt |
 | 303 | 678 | Scott Treadway |
 | 304 | 677 | Mema |
@@ -328,8 +328,8 @@
 | 320 | 650 | Shiny Rollzone |
 | 321 | 645 | tejas25 |
 | 322 | 643 | Hoppy Brickmatch |
-| 323 | 641 | Angie Bolton Workman |
-| 324 | 641 | Joce Lynn |
+| 323 | 641 | Joce Lynn |
+| 324 | 641 | Angie Bolton Workman |
 | 325 | 640 | BYM4L |
 | 326 | 639 | Crystie Hicks |
 | 327 | 639 | Rebecca Miller |
@@ -698,14 +698,14 @@
 | 690 | 329 | Chummy Blockbuilder |
 | 691 | 329 | Jane Crew |
 | 692 | 329 | Snappy Shatterfit |
-| 693 | 328 | Jamie Carter Bierce |
-| 694 | 328 | BabyBird |
+| 693 | 328 | BabyBird |
+| 694 | 328 | Jamie Carter Bierce |
 | 695 | 326 | Ann Knutson Anderson |
 | 696 | 326 | Angela Murgia-Owen |
 | 697 | 325 | Justin Hines |
 | 698 | 325 | Mike73 |
-| 699 | 324 | Tasia Stinson |
-| 700 | 324 | Dale Haanpaa |
+| 699 | 324 | Dale Haanpaa |
+| 700 | 324 | Tasia Stinson |
 | 701 | 323 | Kyla Louise |
 | 702 | 323 | Briana Alexander |
 | 703 | 322 | Christina Jarvis-Swarbrick |
@@ -716,8 +716,8 @@
 | 708 | 320 | Mary Boss |
 | 709 | 319 | RetroLemur |
 | 710 | 318 | Jennifer Mahon |
-| 711 | 317 | Ashlyn Berner |
-| 712 | 317 | Zombi3 |
+| 711 | 317 | Zombi3 |
+| 712 | 317 | Ashlyn Berner |
 | 713 | 317 | Aireka Roman |
 | 714 | 316 | Jenn Marie |
 | 715 | 316 | Epic Spinfit |
@@ -744,8 +744,8 @@
 | 736 | 307 | Peachy Blockbuilder |
 | 737 | 306 | Kiorah Blaze |
 | 738 | 305 | Zany Clusterbuilder |
-| 739 | 305 | MamaBear11 |
-| 740 | 305 | Narutofreak13 |
+| 739 | 305 | Narutofreak13 |
+| 740 | 305 | MamaBear11 |
 | 741 | 304 | NFLPITMOM |
 | 742 | 304 | Melissa McCall |
 | 743 | 304 | James Smith |
@@ -932,8 +932,8 @@
 | 924 | 248 | CleverAngel |
 | 925 | 248 | Angelina Marie |
 | 926 | 247 | Linda Miltenburg |
-| 927 | 247 | Karyn Yurcho Dooley |
-| 928 | 247 | Wizz |
+| 927 | 247 | Wizz |
+| 928 | 247 | Karyn Yurcho Dooley |
 | 929 | 246 | Stacey Tranchida |
 | 930 | 246 | Laura McConnell |
 | 931 | 245 | Abby Klaski |
@@ -952,8 +952,8 @@
 | 944 | 242 | Donna Chandler |
 | 945 | 242 | Juan Killyoselfifudontlikeme Ronaldo |
 | 946 | 242 | Groovy Tilefall |
-| 947 | 241 | Ronda Cary |
-| 948 | 241 | Emoney Sanchez |
+| 947 | 241 | Emoney Sanchez |
+| 948 | 241 | Ronda Cary |
 | 949 | 241 | Travis Tinsley |
 | 950 | 240 | Renee Bowers |
 | 951 | 239 | Shilo Anderson |
@@ -1000,9 +1000,9 @@
 | 992 | 229 | ItsJennifer Neriss |
 | 993 | 229 | Deidre Jenkins |
 | 994 | 229 | Heather Anspaugh |
-| 995 | 228 | Lee |
-| 996 | 228 | Asha Nichols-Collins |
-| 997 | 228 | Yasmin Guzman |
+| 995 | 228 | Asha Nichols-Collins |
+| 996 | 228 | Yasmin Guzman |
+| 997 | 228 | Lee |
 | 998 | 228 | Dara |
 | 999 | 228 | Kandy Charmz |
 | 1000 | 227 | William David Swallow |
@@ -1050,8 +1050,8 @@
 | 1042 | 219 | Jenn Morin |
 | 1043 | 219 | Kimberly Ashley-Stevens |
 | 1044 | 219 | Cathy Bitters |
-| 1045 | 218 | Clever Dashgrid |
-| 1046 | 218 | Shea Edison |
+| 1045 | 218 | Shea Edison |
+| 1046 | 218 | Clever Dashgrid |
 | 1047 | 217 | Wedance Fong |
 | 1048 | 217 | Trisha Gallagher |
 | 1049 | 217 | Elizabeth Pearson |
@@ -1424,9 +1424,9 @@
 | 1416 | 163 | Macy Jarrett |
 | 1417 | 163 | Thickness |
 | 1418 | 163 | Zee |
-| 1419 | 163 | Tajiri Valentine |
+| 1419 | 163 | Gina Bahn |
 | 1420 | 163 | Heide Shree |
-| 1421 | 163 | Gina Bahn |
+| 1421 | 163 | Tajiri Valentine |
 | 1422 | 162 | Nessie Zamora |
 | 1423 | 162 | Tinishia Amie |
 | 1424 | 162 | Michelle Spires |

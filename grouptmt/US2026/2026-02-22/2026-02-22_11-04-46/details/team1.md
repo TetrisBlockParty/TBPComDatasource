@@ -126,8 +126,8 @@
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Seth Wesson |
-| 122 | 310 | Jason Jones |
+| 121 | 310 | Jason Jones |
+| 122 | 310 | Seth Wesson |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -143,8 +143,8 @@
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
 | 137 | 274 | Tyler Werts |
-| 138 | 270 | Mandyy Rae |
-| 139 | 270 | Ash Galvan |
+| 138 | 270 | Ash Galvan |
+| 139 | 270 | Mandyy Rae |
 | 140 | 268 | GATOR |
 | 141 | 265 | SkipTheSadSauce |
 | 142 | 265 | Nutty Spinblock |
