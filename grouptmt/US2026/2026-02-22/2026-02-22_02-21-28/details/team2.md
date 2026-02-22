@@ -368,8 +368,8 @@
 | 360 | 451 | Funky Caster |
 | 361 | 451 | Cody Nishimura |
 | 362 | 451 | Dylan Thomason |
-| 363 | 449 | Shelley Thornburgh Wright |
-| 364 | 449 | Davetta Sanford |
+| 363 | 449 | Davetta Sanford |
+| 364 | 449 | Shelley Thornburgh Wright |
 | 365 | 448 | Jojo Momma |
 | 366 | 448 | Kimberly Randesi |
 | 367 | 447 | Ann Matzkanin |

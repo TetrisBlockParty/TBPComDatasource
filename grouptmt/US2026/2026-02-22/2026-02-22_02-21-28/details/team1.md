@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Candy Jones |
@@ -124,11 +124,11 @@
 | 116 | 249 | Elaine Elaine |
 | 117 | 246 | Katie Daniels |
 | 118 | 244 | Franswa |
-| 119 | 243 | Trippy Redd |
-| 120 | 243 | Chelsea Dahlquist |
+| 119 | 243 | Chelsea Dahlquist |
+| 120 | 243 | Trippy Redd |
 | 121 | 241 | John J. Cronin |
-| 122 | 240 | Lexuriuos Lifestlye |
-| 123 | 240 | Tana |
+| 122 | 240 | Tana |
+| 123 | 240 | Lexuriuos Lifestlye |
 | 124 | 236 | Mandyy Rae |
 | 125 | 230 | Billie Dawn Sparks |
 | 126 | 230 | Frothy Pattern |
@@ -147,8 +147,8 @@
 | 139 | 206 | Kimberly Garcia |
 | 140 | 203 | Paula Martin |
 | 141 | 200 | Lacy Wolfe |
-| 142 | 198 | Shiny Gridmatch |
-| 143 | 198 | Happy Snapbuild |
+| 142 | 198 | Happy Snapbuild |
+| 143 | 198 | Shiny Gridmatch |
 | 144 | 195 | Daring Fitclear |
 | 145 | 194 | Tyler Werts |
 | 146 | 194 | Ash Galvan |

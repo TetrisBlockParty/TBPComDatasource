@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 317 | Lori Walker |
 | 87 | 314 | Amanda Pauldo-Ivy |
@@ -359,7 +359,7 @@
 | 351 | 85 | Staci Robinson Jones |
 | 352 | 85 | Joseph Gray |
 | 353 | 85 | Jennifer Renee |
-| 354 | 85 | Joseph Gray |
+| 354 | 85 | conceptCollector |
 | 355 | 85 | Zippy Block |
 | 356 | 84 | Jen Hallin |
 | 357 | 84 | Ahleek Mitchell |
