@@ -191,8 +191,8 @@
 | 183 | 951 | Cynthia Ward |
 | 184 | 950 | Teresa Gillmore |
 | 185 | 942 | Keri Womack |
-| 186 | 941 | Marie Boyd Faulk |
-| 187 | 941 | Cool Clearer |
+| 186 | 941 | Cool Clearer |
+| 187 | 941 | Marie Boyd Faulk |
 | 188 | 935 | William Meussner |
 | 189 | 932 | Catina Hutchison |
 | 190 | 925 | Moose Griffith |
@@ -308,8 +308,8 @@
 | 300 | 651 | Unica Rector |
 | 301 | 650 | Shiny Rollzone |
 | 302 | 643 | Hoppy Brickmatch |
-| 303 | 641 | Joce Lynn |
-| 304 | 641 | Angie Bolton Workman |
+| 303 | 641 | Angie Bolton Workman |
+| 304 | 641 | Joce Lynn |
 | 305 | 640 | BYM4L |
 | 306 | 639 | Crystie Hicks |
 | 307 | 639 | Rebecca Miller |
@@ -317,8 +317,8 @@
 | 309 | 635 | William Hunt |
 | 310 | 631 | Marie Walker |
 | 311 | 629 | Sleepypanda67 |
-| 312 | 627 | Allan Wayne Lamia |
-| 313 | 627 | Victoria Moore-Smith |
+| 312 | 627 | Victoria Moore-Smith |
+| 313 | 627 | Allan Wayne Lamia |
 | 314 | 619 | Brandon Armstrong |
 | 315 | 619 | Jánine Riggs |
 | 316 | 617 | Leslie Ann Carter |

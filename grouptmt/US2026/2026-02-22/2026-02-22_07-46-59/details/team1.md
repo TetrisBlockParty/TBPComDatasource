@@ -158,8 +158,8 @@
 | 150 | 236 | Mandyy Rae |
 | 151 | 236 | Snippy Wipebuilder |
 | 152 | 232 | Jessi Sauer |
-| 153 | 230 | Billie Dawn Sparks |
-| 154 | 230 | Frothy Pattern |
+| 153 | 230 | Frothy Pattern |
+| 154 | 230 | Billie Dawn Sparks |
 | 155 | 229 | David Lutcher |
 | 156 | 228 | Witty Builderfit |
 | 157 | 226 | Sleepysloath5745 |
@@ -227,8 +227,8 @@
 | 219 | 172 | Phu ckalldems |
 | 220 | 171 | David DeSantis |
 | 221 | 171 | Greg Premoe |
-| 222 | 170 | Standia Civil |
-| 223 | 170 | Cece Ibarra |
+| 222 | 170 | Cece Ibarra |
+| 223 | 170 | Standia Civil |
 | 224 | 169 | Abbey Crespo |
 | 225 | 168 | Amber Stoker |
 | 226 | 167 | Bindi |

@@ -50,8 +50,8 @@
 | 42 | 1036 | Ant Ant |
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
-| 45 | 989 | Joey Banks |
-| 46 | 989 | Kay |
+| 45 | 989 | Kay |
+| 46 | 989 | Joey Banks |
 | 47 | 985 | Stephanie Rice |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
@@ -185,9 +185,9 @@
 | 177 | 347 | Nicole Flippo |
 | 178 | 343 | Ashley Raines |
 | 179 | 341 | Samantha Lynn |
-| 180 | 338 | Raven Dudley |
-| 181 | 338 | Leah Barnett |
-| 182 | 338 | Gumbo |
+| 180 | 338 | Gumbo |
+| 181 | 338 | Raven Dudley |
+| 182 | 338 | Leah Barnett |
 | 183 | 332 | Rich LeBlanc |
 | 184 | 328 | Giddy Twistbuilder |
 | 185 | 323 | Demetrious Shaw Sr. |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | Troy |
-| 307 | 184 | France Vézina |
+| 306 | 184 | France Vézina |
+| 307 | 184 | Troy |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -326,8 +326,8 @@
 | 318 | 179 | Tipsy Zonebuilder |
 | 319 | 178 | Jess Dearborn |
 | 320 | 178 | Jennifer Alvey |
-| 321 | 176 | Emma |
-| 322 | 176 | Melissa Orth Hunter |
+| 321 | 176 | Melissa Orth Hunter |
+| 322 | 176 | Emma |
 | 323 | 175 | Eileen Brady Thurber |
 | 324 | 174 | Betty Rosas |
 | 325 | 174 | Lesley Perez |
@@ -335,8 +335,8 @@
 | 327 | 169 | Peachy Rollfit |
 | 328 | 169 | Naur |
 | 329 | 169 | Kristian Thurman |
-| 330 | 168 | Trice Thomas |
-| 331 | 168 | April Matthew Kibble |
+| 330 | 168 | April Matthew Kibble |
+| 331 | 168 | Trice Thomas |
 | 332 | 167 | Shicken Nuggit |
 | 333 | 167 | Irene Arreguin |
 | 334 | 167 | Romeo |
@@ -360,8 +360,8 @@
 | 352 | 159 | Joshua David Huie |
 | 353 | 158 | Willow |
 | 354 | 157 | Katrina E Jelks |
-| 355 | 157 | Angel Mendez |
-| 356 | 157 | Steffi Chris Dacones |
+| 355 | 157 | Steffi Chris Dacones |
+| 356 | 157 | Angel Mendez |
 | 357 | 157 | Wetwet |
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
@@ -377,12 +377,12 @@
 | 369 | 149 | Alexis Taylor |
 | 370 | 148 | Pam Holt Powell |
 | 371 | 148 | Erykah |
-| 372 | 148 | Flashy Rumbler |
-| 373 | 148 | Bryan Byrd |
-| 374 | 147 | Erika Thornton |
-| 375 | 147 | Funky Jumper |
-| 376 | 147 | David Bardo |
-| 377 | 147 | Kiki |
+| 372 | 148 | Bryan Byrd |
+| 373 | 148 | Flashy Rumbler |
+| 374 | 147 | David Bardo |
+| 375 | 147 | Erika Thornton |
+| 376 | 147 | Kiki |
+| 377 | 147 | Funky Jumper |
 | 378 | 147 | sofaking |
 | 379 | 146 | ROODBOY |
 | 380 | 146 | Sara Dunn |
@@ -404,8 +404,8 @@
 | 396 | 139 | Betty Bóò |
 | 397 | 139 | Beppy |
 | 398 | 139 | Paula Little |
-| 399 | 138 | Skinny Baldez |
-| 400 | 138 | Bleu Sun Beams |
+| 399 | 138 | Bleu Sun Beams |
+| 400 | 138 | Skinny Baldez |
 | 401 | 137 | Reina Roth |
 | 402 | 137 | Giggly Brickroll |
 | 403 | 137 | Arden White Kirsch |

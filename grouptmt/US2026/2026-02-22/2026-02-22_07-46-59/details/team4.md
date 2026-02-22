@@ -34,8 +34,8 @@
 | 26 | 886 | Dustin Robert |
 | 27 | 880 | Koshin Abdirahman |
 | 28 | 879 | Heather Tushner |
-| 29 | 873 | Michelle Pearman |
-| 30 | 873 | Elizabeth Sallas |
+| 29 | 873 | Elizabeth Sallas |
+| 30 | 873 | Michelle Pearman |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
 | 33 | 843 | Lucille Truesdale |
@@ -128,14 +128,14 @@
 | 120 | 290 | 🥔🥔 Spudz |
 | 121 | 288 | Leslie Nicole |
 | 122 | 287 | Shannon Ferrari |
-| 123 | 286 | Daria Rycewicz |
-| 124 | 286 | shark tato |
+| 123 | 286 | shark tato |
+| 124 | 286 | Daria Rycewicz |
 | 125 | 283 | Brittney Orengo |
 | 126 | 281 | Meagan Nicole |
 | 127 | 278 | Desi Desporte |
 | 128 | 278 | Carrie Brian |
-| 129 | 277 | Scott Jameson |
-| 130 | 277 | Mary Ann Pabukis |
+| 129 | 277 | Mary Ann Pabukis |
+| 130 | 277 | Scott Jameson |
 | 131 | 275 | Dizzy Tiley |
 | 132 | 271 | Sarah Brown |
 | 133 | 264 | Dana Scott |
@@ -155,9 +155,9 @@
 | 147 | 230 | Autum Leigh |
 | 148 | 230 | Calvin Cannon |
 | 149 | 228 | J-Rizzle |
-| 150 | 227 | Chris Bernstein |
-| 151 | 227 | Swanky Fitline |
-| 152 | 227 | Alyssa Papen |
+| 150 | 227 | Alyssa Papen |
+| 151 | 227 | Chris Bernstein |
+| 152 | 227 | Swanky Fitline |
 | 153 | 225 | Damn Libra |
 | 154 | 224 | Matt Summer |
 | 155 | 223 | Kris Bartlett |
