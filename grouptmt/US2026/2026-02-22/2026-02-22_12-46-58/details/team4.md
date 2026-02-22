@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -75,8 +75,8 @@
 | 67 | 556 | Jamie Mann-Deichmann |
 | 68 | 554 | Julian Garcia |
 | 69 | 544 | Amy Suckarieh |
-| 70 | 533 | Chris Baggett |
-| 71 | 533 | Eric Mcgaughy |
+| 70 | 533 | Eric Mcgaughy |
+| 71 | 533 | Chris Baggett |
 | 72 | 530 | Yoset Mejia |
 | 73 | 527 | Sammy Noguera |
 | 74 | 526 | TeeJ |
@@ -279,8 +279,8 @@
 | 271 | 147 | Adam Stephanie Parker |
 | 272 | 147 | Jay28 |
 | 273 | 146 | KimoKoala |
-| 274 | 145 | Mimi |
-| 275 | 145 | Sandra Safford |
+| 274 | 145 | Sandra Safford |
+| 275 | 145 | Mimi |
 | 276 | 144 | Sticherella |
 | 277 | 143 | Daresha Fair |
 | 278 | 143 | Asher |
@@ -339,14 +339,14 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Elie Pean |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |
 | 339 | 124 | Circuit8 |
-| 340 | 124 | Sam Middleton |
-| 341 | 124 | Atia Scott |
+| 340 | 124 | Atia Scott |
+| 341 | 124 | Sam Middleton |
 | 342 | 123 | Lora |
 | 343 | 123 | Joseph Edmonson |
 | 344 | 121 | Riverdale |
@@ -415,8 +415,8 @@
 | 407 | 102 | Christina O'Dell-Ishau |
 | 408 | 102 | Bigeddie |
 | 409 | 101 | Saulc1991 |
-| 410 | 100 | Sallie Sanborn |
-| 411 | 100 | Marcus TheeyoungWoe Gilmore |
+| 410 | 100 | Marcus TheeyoungWoe Gilmore |
+| 411 | 100 | Sallie Sanborn |
 | 412 | 100 | Rico |
 | 413 | 99 | Heather Layne Smith |
 | 414 | 99 | Dapper Frame |
@@ -424,7 +424,7 @@
 | 416 | 98 | Squeezy Pearsall |
 | 417 | 98 | LunaMoon |
 | 418 | 98 | Hyper Builder |
-| 419 | 98 | Squeezy Pearsall |
+| 419 | 98 | Groovy Gridlock |
 | 420 | 98 | Brenda Bird |
 | 421 | 97 | Serena Butter |
 | 422 | 97 | Cool Gridzone |

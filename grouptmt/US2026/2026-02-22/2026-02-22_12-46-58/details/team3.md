@@ -220,15 +220,15 @@
 | 212 | 301 | Chelsea Hall |
 | 213 | 300 | Sherika C. McDaniels |
 | 214 | 298 | MsBee |
-| 215 | 297 | Jojo M |
-| 216 | 297 | Keis |
+| 215 | 297 | Keis |
+| 216 | 297 | Jojo M |
 | 217 | 296 | Ammmmmmy |
 | 218 | 296 | Katrina Turner |
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Hoppy Buildout |
-| 223 | 289 | Duane Bright |
+| 222 | 289 | Duane Bright |
+| 223 | 289 | Hoppy Buildout |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -262,8 +262,8 @@
 | 254 | 252 | Roary Danner |
 | 255 | 251 | Nikki Pags |
 | 256 | 250 | fraulila |
-| 257 | 249 | Annie Marie |
-| 258 | 249 | JerseyJess |
+| 257 | 249 | JerseyJess |
+| 258 | 249 | Annie Marie |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -293,8 +293,8 @@
 | 285 | 216 | Twisty Brick LT |
 | 286 | 216 | Cheryl Hinch Tenbrook |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
-| 288 | 214 | Angela Scott |
-| 289 | 214 | Amy Fuller Heaton |
+| 288 | 214 | Amy Fuller Heaton |
+| 289 | 214 | Angela Scott |
 | 290 | 214 | Rebel124 |
 | 291 | 213 | Nicholas Roddy |
 | 292 | 212 | Sunny Rotater |
@@ -376,8 +376,8 @@
 | 368 | 165 | Rainbow77375 |
 | 369 | 164 | Ashley Rufus Bythcez |
 | 370 | 164 | momo |
-| 371 | 163 | Christine Trester |
-| 372 | 163 | Diana Ibarra |
+| 371 | 163 | Diana Ibarra |
+| 372 | 163 | Christine Trester |
 | 373 | 163 | Ava Petito |
 | 374 | 162 | Eric Caccavale |
 | 375 | 162 | Skinny Baldez |
@@ -426,8 +426,8 @@
 | 418 | 147 | Erika Thornton |
 | 419 | 147 | Megan Rathmanner |
 | 420 | 146 | Sdot |
-| 421 | 146 | Wettnippz |
-| 422 | 146 | Sara Dunn |
+| 421 | 146 | Sara Dunn |
+| 422 | 146 | Wettnippz |
 | 423 | 144 | Blair Erin Waite |
 | 424 | 144 | Amber Groover Taylor |
 | 425 | 144 | Tenisha Semidey |
@@ -657,7 +657,7 @@
 | 649 | 96 | Swanky Snapclear |
 | 650 | 96 | Jason |
 | 651 | 96 | Kelly |
-| 652 | 96 | Swanky Snapclear |
+| 652 | 96 | Mainhia Thao |
 | 653 | 96 | D3NO |
 | 654 | 95 | BingoStarr |
 | 655 | 95 | Chilly Pop |

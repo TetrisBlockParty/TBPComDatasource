@@ -214,8 +214,8 @@
 | 206 | 919 | Isaac Trappiel IV |
 | 207 | 916 | Butta |
 | 208 | 915 | Kelly Trent |
-| 209 | 910 | Crystal Hoffman |
-| 210 | 910 | Shuany Arias |
+| 209 | 910 | Shuany Arias |
+| 210 | 910 | Crystal Hoffman |
 | 211 | 907 | Gene Mills |
 | 212 | 901 | Jennifer Peachey |
 | 213 | 897 | Block Master |
@@ -473,8 +473,8 @@
 | 465 | 477 | Julay |
 | 466 | 476 | Kitybox |
 | 467 | 475 | Michelle Lee |
-| 468 | 474 | Steve Man |
-| 469 | 474 | Calandra Shaya Robinson |
+| 468 | 474 | Calandra Shaya Robinson |
+| 469 | 474 | Steve Man |
 | 470 | 473 | coleksquad |
 | 471 | 473 | Lyndi Robinson Wakefield |
 | 472 | 472 | Arwa Fatimah |
@@ -636,8 +636,8 @@
 | 628 | 369 | Juan Castillo |
 | 629 | 367 | Connie Lepore-Mann |
 | 630 | 367 | Jessica Lamb |
-| 631 | 366 | Courtney Burcham |
-| 632 | 366 | Lawanda Forbes |
+| 631 | 366 | Lawanda Forbes |
+| 632 | 366 | Courtney Burcham |
 | 633 | 365 | Christina Lewis-Vickers |
 | 634 | 365 | Susan Arnburg |
 | 635 | 365 | Audrey Jones |
@@ -798,8 +798,8 @@
 | 790 | 289 | Min |
 | 791 | 289 | August Hale |
 | 792 | 289 | Ryan Chan |
-| 793 | 288 | Jenna Nance |
-| 794 | 288 | Samantha Angelo |
+| 793 | 288 | Samantha Angelo |
+| 794 | 288 | Jenna Nance |
 | 795 | 288 | thranduil |
 | 796 | 287 | N00D3S |
 | 797 | 287 | Epic Stackzone |
@@ -852,8 +852,8 @@
 | 844 | 274 | Sabrena Yeisley |
 | 845 | 274 | KT Macadocious |
 | 846 | 273 | Britt Stunkel |
-| 847 | 273 | Boldy Block |
-| 848 | 273 | Jennifer Aiken |
+| 847 | 273 | Jennifer Aiken |
+| 848 | 273 | Boldy Block |
 | 849 | 272 | Gina Justbeingme Chillis |
 | 850 | 272 | Witty Piecebuilder |
 | 851 | 271 | Pam Doughty |
