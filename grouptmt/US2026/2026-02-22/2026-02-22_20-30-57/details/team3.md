@@ -198,15 +198,15 @@
 | 190 | 416 | Staci George Fitzsimmons |
 | 191 | 415 | ren |
 | 192 | 410 | Stephanie Simpson |
-| 193 | 405 | Marcie Bressler |
-| 194 | 405 | Sherry Ogden |
+| 193 | 405 | Sherry Ogden |
+| 194 | 405 | Marcie Bressler |
 | 195 | 403 | Scott Lindsay |
 | 196 | 400 | Sherika C. McDaniels |
 | 197 | 399 | Mcathen |
 | 198 | 392 | Chasity |
 | 199 | 391 | Cozy Snaplink |
-| 200 | 383 | Nicole Flippo |
-| 201 | 383 | rosy |
+| 200 | 383 | rosy |
+| 201 | 383 | Nicole Flippo |
 | 202 | 382 | Scott Carleton |
 | 203 | 381 | Tom Nault |
 | 204 | 378 | Chris Bell |
@@ -342,13 +342,13 @@
 | 334 | 230 | Michael Lucado |
 | 335 | 230 | BigE |
 | 336 | 228 | Beaudie Stroebel |
-| 337 | 227 | Rebel124 |
-| 338 | 227 | Wettnippz |
+| 337 | 227 | Wettnippz |
+| 338 | 227 | Rebel124 |
 | 339 | 227 | Meowsa |
-| 340 | 226 | Jana Polk |
-| 341 | 226 | Stephanie Hill |
-| 342 | 225 | Jessica Lynn French |
-| 343 | 225 | Steffi Chris Dacones |
+| 340 | 226 | Stephanie Hill |
+| 341 | 226 | Jana Polk |
+| 342 | 225 | Steffi Chris Dacones |
+| 343 | 225 | Jessica Lynn French |
 | 344 | 225 | Dirtgirl27 |
 | 345 | 222 | Cheryl Hinch Tenbrook |
 | 346 | 221 | Alice |

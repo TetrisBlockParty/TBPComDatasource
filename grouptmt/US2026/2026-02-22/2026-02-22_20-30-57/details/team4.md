@@ -98,8 +98,8 @@
 | 90 | 537 | Dawn Alexander |
 | 91 | 531 | Amelpss |
 | 92 | 519 | Nugget |
-| 93 | 513 | YoMomma |
-| 94 | 513 | Erin Thomas |
+| 93 | 513 | Erin Thomas |
+| 94 | 513 | YoMomma |
 | 95 | 512 | Casey Jeffcoat |
 | 96 | 509 | Carmethia Clemons Haslerig |
 | 97 | 509 | Diana Houts |
@@ -616,9 +616,9 @@
 | 608 | 83 | Groovy Brickmatch |
 | 609 | 83 | JoJo |
 | 610 | 82 | Oleg Zakharskiy |
-| 611 | 82 | Kimberlee Jan Beckstead |
-| 612 | 82 | Josh Chapell |
-| 613 | 82 | Christina Hyde |
+| 611 | 82 | Josh Chapell |
+| 612 | 82 | Christina Hyde |
+| 613 | 82 | Kimberlee Jan Beckstead |
 | 614 | 82 | Deb Rubeck |
 | 615 | 81 | ThriftySpice |
 | 616 | 81 | Tiffany Root |

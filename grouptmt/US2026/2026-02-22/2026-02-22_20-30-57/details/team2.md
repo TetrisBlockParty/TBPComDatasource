@@ -450,8 +450,8 @@
 | 442 | 584 | Kimberly Randesi |
 | 443 | 582 | Bee |
 | 444 | 581 | Angie Marie |
-| 445 | 580 | Angela Lynn |
-| 446 | 580 | Joshua Self |
+| 445 | 580 | Joshua Self |
+| 446 | 580 | Angela Lynn |
 | 447 | 579 | Roy Salyer |
 | 448 | 576 | Leslie Johnson Guinto |
 | 449 | 574 | Santana Miyagi |
@@ -470,8 +470,8 @@
 | 462 | 563 | snkylnk |
 | 463 | 562 | AISlop |
 | 464 | 559 | Blacc Blac |
-| 465 | 558 | Frisky Clearpiece |
-| 466 | 558 | Cheery Matchzone |
+| 465 | 558 | Cheery Matchzone |
+| 466 | 558 | Frisky Clearpiece |
 | 467 | 558 | Libby Hicks |
 | 468 | 556 | Slip |
 | 469 | 554 | Rachael Senard |
@@ -536,8 +536,8 @@
 | 528 | 491 | Alezandra Smith |
 | 529 | 489 | Elisheva Mizrachi |
 | 530 | 488 | Christina Wsn |
-| 531 | 487 | Morgan Easter |
-| 532 | 487 | MrsCandyfine As Wine Truss |
+| 531 | 487 | MrsCandyfine As Wine Truss |
+| 532 | 487 | Morgan Easter |
 | 533 | 486 | Amanda Ferrell |
 | 534 | 486 | Ann Knutson Anderson |
 | 535 | 485 | Klee |
@@ -546,8 +546,8 @@
 | 538 | 484 | Wendy Unsain |
 | 539 | 484 | Street Sweeper |
 | 540 | 482 | Kathleen Driskell |
-| 541 | 482 | Amélie Cadieux |
-| 542 | 482 | Snippy Rumbler |
+| 541 | 482 | Snippy Rumbler |
+| 542 | 482 | Amélie Cadieux |
 | 543 | 482 | Drwatson187 |
 | 544 | 481 | Quirky Twistline |
 | 545 | 481 | Anthony Huebel |
@@ -583,8 +583,8 @@
 | 575 | 467 | Audrey Jones |
 | 576 | 466 | Koa N Sharon Chen |
 | 577 | 466 | Ebony Deloach Bryant |
-| 578 | 466 | Kori Beth Babb |
-| 579 | 466 | Crystal Greene |
+| 578 | 466 | Crystal Greene |
+| 579 | 466 | Kori Beth Babb |
 | 580 | 464 | Ryan Stadel |
 | 581 | 463 | Jaye EL Hunter |
 | 582 | 462 | Jennifer Scott |
@@ -599,8 +599,8 @@
 | 591 | 458 | Jessica S Flecha |
 | 592 | 457 | Abimbola Bimbo |
 | 593 | 456 | Misty Mitchell |
-| 594 | 456 | Kacee Conrad Bock |
-| 595 | 456 | Skyler Morgan |
+| 594 | 456 | Skyler Morgan |
+| 595 | 456 | Kacee Conrad Bock |
 | 596 | 454 | Joice Hansen |
 | 597 | 453 | Samantha Scibelli |
 | 598 | 452 | BK Queen |
@@ -631,8 +631,8 @@
 | 623 | 434 | bbv |
 | 624 | 433 | Tom Steffen |
 | 625 | 431 | Joel Rosado |
-| 626 | 431 | Hunter Connors |
-| 627 | 431 | Quinn |
+| 626 | 431 | Quinn |
+| 627 | 431 | Hunter Connors |
 | 628 | 429 | Goofy Catcher |
 | 629 | 429 | Angel Hunnewell |
 | 630 | 429 | Tabs Reichert |
