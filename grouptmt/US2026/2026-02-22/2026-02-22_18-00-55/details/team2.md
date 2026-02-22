@@ -201,8 +201,8 @@
 | 193 | 1045 | Lourisha |
 | 194 | 1043 | Brave Dropmatch |
 | 195 | 1036 | Allison Lockyer |
-| 196 | 1024 | Bri Lynn |
-| 197 | 1024 | Desiree Anderson |
+| 196 | 1024 | Desiree Anderson |
+| 197 | 1024 | Bri Lynn |
 | 198 | 1023 | Brainy Smurf |
 | 199 | 1020 | Eric Carlson |
 | 200 | 1019 | Taylor Phillips |
@@ -403,8 +403,8 @@
 | 395 | 605 | Biggest thing |
 | 396 | 605 | g |
 | 397 | 604 | Dennis McLaurin |
-| 398 | 602 | KhaosLord |
-| 399 | 602 | Shaun Church |
+| 398 | 602 | Shaun Church |
+| 399 | 602 | KhaosLord |
 | 400 | 601 | Moua Ying |
 | 401 | 600 | Arkei Luster |
 | 402 | 600 | Connie Jimenez |
@@ -551,8 +551,8 @@
 | 543 | 466 | Tina Marie |
 | 544 | 466 | Kori Beth Babb |
 | 545 | 466 | Crystal Greene |
-| 546 | 463 | Cody Nishimura |
-| 547 | 463 | Jaye EL Hunter |
+| 546 | 463 | Jaye EL Hunter |
+| 547 | 463 | Cody Nishimura |
 | 548 | 463 | Mia Muse Best |
 | 549 | 462 | Daphne Jordan |
 | 550 | 462 | Amanda Ferrell |

@@ -168,8 +168,8 @@
 | 160 | 445 | Shannon Matthew Byers |
 | 161 | 438 | Logan Naccarato |
 | 162 | 438 | Valerie Gendron |
-| 163 | 432 | Jenny Hrndz |
-| 164 | 432 | Luciana Braganca Vieira |
+| 163 | 432 | Luciana Braganca Vieira |
+| 164 | 432 | Jenny Hrndz |
 | 165 | 430 | Jeni Dow |
 | 166 | 430 | Tasha Gillespie |
 | 167 | 430 | Joye Sims Binion |
@@ -179,8 +179,8 @@
 | 171 | 415 | ren |
 | 172 | 410 | Stephanie Simpson |
 | 173 | 407 | Jone |
-| 174 | 405 | JerseyJess |
-| 175 | 405 | Marcie Bressler |
+| 174 | 405 | Marcie Bressler |
+| 175 | 405 | JerseyJess |
 | 176 | 403 | Scott Lindsay |
 | 177 | 402 | Araceli Parra |
 | 178 | 401 | Katie Knaus |
@@ -306,9 +306,9 @@
 | 298 | 240 | Eric Caccavale |
 | 299 | 240 | Jimmie Clemons |
 | 300 | 238 | Niki Dalrymple |
-| 301 | 236 | Angela Scott |
+| 301 | 236 | Lys |
 | 302 | 236 | Jess Bissett |
-| 303 | 236 | Lys |
+| 303 | 236 | Angela Scott |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
 | 306 | 231 | Kiki |

@@ -156,8 +156,8 @@
 | 148 | 299 | TRCuse |
 | 149 | 296 | Klo |
 | 150 | 294 | Kesha Brady |
-| 151 | 294 | Meagan Nicole |
-| 152 | 294 | Calvin Cannon |
+| 151 | 294 | Calvin Cannon |
+| 152 | 294 | Meagan Nicole |
 | 153 | 290 | Keshia Lyons |
 | 154 | 290 | 🥔🥔 Spudz |
 | 155 | 290 | Chaz Duncan |
@@ -180,8 +180,8 @@
 | 172 | 267 | Kathy Brookins |
 | 173 | 267 | Holly |
 | 174 | 266 | Laura |
-| 175 | 265 | Jeff Brian Gates |
-| 176 | 265 | Chris Bernstein |
+| 175 | 265 | Chris Bernstein |
+| 176 | 265 | Jeff Brian Gates |
 | 177 | 264 | Girl |
 | 178 | 264 | Epic Curvetile |
 | 179 | 262 | Holly Jolly |

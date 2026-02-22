@@ -222,8 +222,8 @@
 | 214 | 223 | Erez Yosef |
 | 215 | 222 | Debbie Davis |
 | 216 | 221 | Daring Fitclear |
-| 217 | 220 | Jessie Lynn |
-| 218 | 220 | Giddy Cascade |
+| 217 | 220 | Giddy Cascade |
+| 218 | 220 | Jessie Lynn |
 | 219 | 219 | Chuck Gannon |
 | 220 | 217 | Jason Savage |
 | 221 | 216 | Shauntina Burke |
