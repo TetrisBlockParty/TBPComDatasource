@@ -192,8 +192,8 @@
 | 184 | 346 | Chummy Caster |
 | 185 | 343 | Ashley Raines |
 | 186 | 341 | Samantha Lynn |
-| 187 | 338 | Leah Barnett |
-| 188 | 338 | Gumbo |
+| 187 | 338 | Gumbo |
+| 188 | 338 | Leah Barnett |
 | 189 | 332 | Rich LeBlanc |
 | 190 | 332 | Noyb Adam |
 | 191 | 330 | Rebecca Funderburk Kirby |
@@ -207,8 +207,8 @@
 | 199 | 311 | Stephanie Burtin |
 | 200 | 311 | Rochelle Hazelett |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -216,8 +216,8 @@
 | 208 | 300 | Sherika C. McDaniels |
 | 209 | 298 | MsBee |
 | 210 | 297 | Jojo M |
-| 211 | 296 | Katrina Turner |
-| 212 | 296 | Ammmmmmy |
+| 211 | 296 | Ammmmmmy |
+| 212 | 296 | Katrina Turner |
 | 213 | 296 | Brandon Givens |
 | 214 | 295 | Marci Mize Fandrich |
 | 215 | 291 | Kristal C Lee |
@@ -226,8 +226,8 @@
 | 218 | 289 | Duane Bright |
 | 219 | 286 | Cynthia Herrmann Egland |
 | 220 | 284 | Denise Nardoni |
-| 221 | 283 | Charles Perrone |
-| 222 | 283 | Cheeky Snapper |
+| 221 | 283 | Cheeky Snapper |
+| 222 | 283 | Charles Perrone |
 | 223 | 281 | Valerie Gendron |
 | 224 | 278 | Rufus Lincoln |
 | 225 | 277 | Keis |
@@ -236,24 +236,24 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Cass Mendoza |
-| 232 | 271 | Ashley Muncey |
+| 231 | 271 | Ashley Muncey |
+| 232 | 271 | Cass Mendoza |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
 | 236 | 264 | Grego Daniel |
 | 237 | 263 | Brittany |
 | 238 | 262 | Joe-Maggie Mathews |
-| 239 | 261 | Tasha Wesson-Torrence |
-| 240 | 261 | Tiffany Ford |
+| 239 | 261 | Tiffany Ford |
+| 240 | 261 | Tasha Wesson-Torrence |
 | 241 | 261 | Marquita Sheard |
 | 242 | 260 | Grams |
 | 243 | 259 | Danielle Weikel |
 | 244 | 258 | Tamara Deherrera |
 | 245 | 257 | Ashley Jones |
 | 246 | 256 | Brenda Lee Vander Molen |
-| 247 | 256 | KayB |
-| 248 | 256 | Tiffany Davie |
+| 247 | 256 | Tiffany Davie |
+| 248 | 256 | KayB |
 | 249 | 251 | Sabrina Hardrick |
 | 250 | 250 | fraulila |
 | 251 | 249 | JerseyJess |
@@ -349,17 +349,17 @@
 | 341 | 170 | Tina Smith Roy |
 | 342 | 169 | Kristian Thurman |
 | 343 | 169 | Peachy Rollfit |
-| 344 | 168 | Trice Thomas |
-| 345 | 168 | April Matthew Kibble |
+| 344 | 168 | April Matthew Kibble |
+| 345 | 168 | Trice Thomas |
 | 346 | 167 | Shicken Nuggit |
 | 347 | 167 | Irene Arreguin |
 | 348 | 167 | Romeo |
 | 349 | 166 | Noettín Kan Zasnemoore |
-| 350 | 166 | Snarky McFace |
-| 351 | 166 | Angella Lyons |
+| 350 | 166 | Angella Lyons |
+| 351 | 166 | Snarky McFace |
 | 352 | 165 | Kali Kelz Williams |
-| 353 | 165 | Rainbow77375 |
-| 354 | 165 | Ashley Lynn Marchese |
+| 353 | 165 | Ashley Lynn Marchese |
+| 354 | 165 | Rainbow77375 |
 | 355 | 164 | Ashley Rufus Bythcez |
 | 356 | 164 | momo |
 | 357 | 163 | Colleen Phelps |
@@ -526,8 +526,8 @@
 | 518 | 112 | Shanon R Jackson |
 | 519 | 111 | Jennifer Neiman Gaal |
 | 520 | 111 | Geronimo |
-| 521 | 111 | Victoria Wangler Lewis |
-| 522 | 111 | Chenoa Urban Sophicated Redy |
+| 521 | 111 | Chenoa Urban Sophicated Redy |
+| 522 | 111 | Victoria Wangler Lewis |
 | 523 | 110 | Kate Farok |
 | 524 | 110 | Isabel Ocasio |
 | 525 | 110 | Tony Tran |
@@ -621,8 +621,8 @@
 | 613 | 98 | Adrea Ann |
 | 614 | 98 | Christine Vosburgh |
 | 615 | 97 | Daisy Rocha |
-| 616 | 97 | Rebecca Lynn |
-| 617 | 97 | Tina Baurdau |
+| 616 | 97 | Tina Baurdau |
+| 617 | 97 | Rebecca Lynn |
 | 618 | 96 | D3NO |
 | 619 | 96 | Jason |
 | 620 | 96 | Kelly |

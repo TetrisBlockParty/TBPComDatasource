@@ -81,8 +81,8 @@
 | 73 | 512 | Casey Jeffcoat |
 | 74 | 511 | Michelle Marie |
 | 75 | 500 | Rodney McMath Jr. |
-| 76 | 486 | Carmethia Clemons Haslerig |
-| 77 | 486 | Landon Keith Graffeo |
+| 76 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Carmethia Clemons Haslerig |
 | 78 | 483 | TeeJ |
 | 79 | 471 | Dawn Alexander |
 | 80 | 447 | Samantha Peterson |
@@ -126,8 +126,8 @@
 | 118 | 303 | Lauren Scott |
 | 119 | 300 | Jason Hart |
 | 120 | 298 | Lucas J Sutton |
-| 121 | 296 | HastyGrabber |
-| 122 | 296 | Justin Hannigan |
+| 121 | 296 | Justin Hannigan |
+| 122 | 296 | HastyGrabber |
 | 123 | 294 | Kesha Brady |
 | 124 | 290 | 🥔🥔 Spudz |
 | 125 | 287 | Shannon Ferrari |
@@ -158,8 +158,8 @@
 | 150 | 240 | Peachy Fall |
 | 151 | 237 | Chris Bernstein |
 | 152 | 232 | Crystal Nicolette Moore |
-| 153 | 230 | Autum Leigh |
-| 154 | 230 | Cursed Hag |
+| 153 | 230 | Cursed Hag |
+| 154 | 230 | Autum Leigh |
 | 155 | 228 | J-Rizzle |
 | 156 | 227 | Alyssa Papen |
 | 157 | 227 | Swanky Fitline |
@@ -246,10 +246,10 @@
 | 238 | 156 | Juls |
 | 239 | 155 | AyeKay |
 | 240 | 154 | Zany Shatterer |
-| 241 | 153 | Empress Oasis |
-| 242 | 153 | Mr. Party |
-| 243 | 152 | Austin Owens |
-| 244 | 152 | Faja |
+| 241 | 153 | Mr. Party |
+| 242 | 153 | Empress Oasis |
+| 243 | 152 | Faja |
+| 244 | 152 | Austin Owens |
 | 245 | 149 | Shainne Brewer |
 | 246 | 149 | Tanner Lund |
 | 247 | 148 | Nubian1 |
@@ -415,14 +415,14 @@
 | 407 | 95 | Chirpy Slammer |
 | 408 | 95 | Jobadia Steelerton |
 | 409 | 95 | RedBoots82 |
-| 410 | 94 | Jeff Roberts |
-| 411 | 94 | Ahleek Mitchell |
+| 410 | 94 | Ahleek Mitchell |
+| 411 | 94 | DonMega |
 | 412 | 94 | Jeff Roberts |
 | 413 | 93 | Mousey406 |
 | 414 | 93 | Matt Gooder |
 | 415 | 92 | Frilly Blocky |
-| 416 | 92 | bloat princess |
-| 417 | 92 | Frilly Blocky |
+| 416 | 92 | RogueRebel |
+| 417 | 92 | bloat princess |
 | 418 | 92 | Krash |
 | 419 | 91 | Kametsunoyaiba |
 | 420 | 91 | Lee Silpe |
