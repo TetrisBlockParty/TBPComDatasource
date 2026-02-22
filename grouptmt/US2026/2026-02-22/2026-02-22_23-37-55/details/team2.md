@@ -449,8 +449,8 @@
 | 441 | 628 | Brownie Sheena |
 | 442 | 628 | g |
 | 443 | 626 | Demeka Dangerous-kisses Johnson |
-| 444 | 620 | Traci Johnson |
-| 445 | 620 | Brandon Armstrong |
+| 444 | 620 | Brandon Armstrong |
+| 445 | 620 | Traci Johnson |
 | 446 | 618 | Caitlyn Blackwell |
 | 447 | 618 | Vanessa Moreno |
 | 448 | 617 | Darcy Mae |

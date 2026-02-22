@@ -152,8 +152,8 @@
 | 144 | 571 | Nicole Myers |
 | 145 | 568 | Rachael McClain Owens |
 | 146 | 565 | Domo Washington |
-| 147 | 562 | Dave Herzog |
-| 148 | 562 | Louise Stacy Sisson |
+| 147 | 562 | Louise Stacy Sisson |
+| 148 | 562 | Dave Herzog |
 | 149 | 553 | LaTanya GeminiondaRise Johnson |
 | 150 | 551 | Alaina Lee |
 | 151 | 546 | Cynthia Castros-Hampton |
@@ -185,8 +185,8 @@
 | 177 | 465 | Tasha Schriewer |
 | 178 | 464 | Makelini Mausia |
 | 179 | 461 | Shunta Jacobs |
-| 180 | 460 | Danielle Allison |
-| 181 | 460 | Araceli Parra |
+| 180 | 460 | Araceli Parra |
+| 181 | 460 | Danielle Allison |
 | 182 | 458 | Danielle Rhoades |
 | 183 | 457 | Jim Mathews |
 | 184 | 457 | Shannon Matthew Byers |
@@ -251,14 +251,14 @@
 | 243 | 347 | Philip Rock |
 | 244 | 346 | Tamara Deherrera |
 | 245 | 345 | Kelly |
-| 246 | 344 | Roary Danner |
-| 247 | 344 | Rania Zaqout |
-| 248 | 343 | Ashley Raines |
-| 249 | 343 | Ashley Rufus Bythcez |
-| 250 | 341 | Samantha Lynn |
-| 251 | 341 | Noyb Adam |
-| 252 | 341 | Ashley Tookes |
-| 253 | 341 | MsBee |
+| 246 | 344 | Rania Zaqout |
+| 247 | 344 | Roary Danner |
+| 248 | 343 | Ashley Rufus Bythcez |
+| 249 | 343 | Ashley Raines |
+| 250 | 341 | Noyb Adam |
+| 251 | 341 | Ashley Tookes |
+| 252 | 341 | MsBee |
+| 253 | 341 | Samantha Lynn |
 | 254 | 339 | Danielle Weikel |
 | 255 | 339 | Cynthia Herrmann Egland |
 | 256 | 338 | Gumbo |
@@ -272,8 +272,8 @@
 | 264 | 324 | Sissy Lowery Davis |
 | 265 | 322 | Nena Somerville Kelly |
 | 266 | 321 | Charles Perrone |
-| 267 | 320 | Or Reznitsky |
-| 268 | 320 | Ashley Muncey |
+| 267 | 320 | Ashley Muncey |
+| 268 | 320 | Or Reznitsky |
 | 269 | 312 | LadyTorad |
 | 270 | 309 | Felicia Rocha |
 | 271 | 308 | Katrina Turner |
@@ -413,9 +413,9 @@
 | 405 | 215 | Saucy Buildout |
 | 406 | 215 | AlsoJess |
 | 407 | 214 | Amy Fuller Heaton |
-| 408 | 213 | Cheeky Twisterfit |
+| 408 | 213 | Romeo |
 | 409 | 213 | Jess Dearborn |
-| 410 | 213 | Romeo |
+| 410 | 213 | Cheeky Twisterfit |
 | 411 | 212 | BŘŰŤİÇŨŚ |
 | 412 | 211 | El Chapa |
 | 413 | 210 | Ava Petito |

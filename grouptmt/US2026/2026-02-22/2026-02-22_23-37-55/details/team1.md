@@ -113,8 +113,8 @@
 | 105 | 444 | Hyper |
 | 106 | 443 | Steve Schneider |
 | 107 | 440 | Stephanie Zahn |
-| 108 | 439 | Trina Gee |
-| 109 | 439 | Anaid Sanchez |
+| 108 | 439 | Anaid Sanchez |
+| 109 | 439 | Trina Gee |
 | 110 | 436 | Tonya Beasley |
 | 111 | 433 | Jazzy Framezone |
 | 112 | 431 | Veronica Eve |
@@ -151,8 +151,8 @@
 | 143 | 359 | Chirpy Smasher |
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 356 | Jason Savage |
-| 146 | 350 | Death |
-| 147 | 350 | Tipsy Strikerpiece |
+| 146 | 350 | Tipsy Strikerpiece |
+| 147 | 350 | Death |
 | 148 | 344 | Monica Donato |
 | 149 | 341 | Nick R Montague |
 | 150 | 336 | Fmp |
@@ -214,8 +214,8 @@
 | 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
-| 209 | 264 | Jen Nystrom |
-| 210 | 264 | Jenny Gingrich Fuentes |
+| 209 | 264 | Jenny Gingrich Fuentes |
+| 210 | 264 | Jen Nystrom |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
 | 213 | 256 | Standia Civil |
@@ -236,14 +236,14 @@
 | 228 | 244 | Eddie Dillon |
 | 229 | 242 | ParisandCory Champagne |
 | 230 | 241 | Tyler Hertzog |
-| 231 | 240 | DaRascal |
-| 232 | 240 | Daring Fitclear |
+| 231 | 240 | Daring Fitclear |
+| 232 | 240 | DaRascal |
 | 233 | 239 | Lacy Wolfe |
 | 234 | 238 | Tiffany Smith |
 | 235 | 238 | Sarah Somers Gray |
 | 236 | 235 | Bindi |
-| 237 | 234 | Paula Martin |
-| 238 | 234 | Shanae Grant |
+| 237 | 234 | Shanae Grant |
+| 238 | 234 | Paula Martin |
 | 239 | 233 | LC |
 | 240 | 232 | Erin Rosberg |
 | 241 | 230 | Thorne Shumate |
@@ -256,10 +256,10 @@
 | 248 | 228 | Shiny Gridmatch |
 | 249 | 226 | Glitzy Buildsnap |
 | 250 | 224 | Tipsy Riseclear |
-| 251 | 223 | Erez Yosef |
-| 252 | 223 | Christina Backer |
-| 253 | 222 | Debbie Davis |
-| 254 | 222 | Snappy Bridgepiece |
+| 251 | 223 | Christina Backer |
+| 252 | 223 | Erez Yosef |
+| 253 | 222 | Snappy Bridgepiece |
+| 254 | 222 | Debbie Davis |
 | 255 | 221 | Amy Hess |
 | 256 | 220 | Bouncy Grid |
 | 257 | 219 | Chuck Gannon |
@@ -274,8 +274,8 @@
 | 266 | 214 | Sarah Marie |
 | 267 | 213 | John Barron |
 | 268 | 213 | Angela Fairbank |
-| 269 | 212 | Cece Ibarra |
-| 270 | 212 | Michelle Beres |
+| 269 | 212 | Michelle Beres |
+| 270 | 212 | Cece Ibarra |
 | 271 | 211 | Jeanna Dunn |
 | 272 | 209 | Tiger Lily |
 | 273 | 209 | Breanna Luna |
@@ -476,7 +476,7 @@
 | 468 | 128 | Sarah Henniker |
 | 469 | 128 | poopypants |
 | 470 | 128 | George Dalton |
-| 471 | 127 | Frisky Risebuilder |
+| 471 | 127 | Brave Slice |
 | 472 | 127 | Laurie Sanderson |
 | 473 | 127 | Frisky Risebuilder |
 | 474 | 126 | Frisky Base |

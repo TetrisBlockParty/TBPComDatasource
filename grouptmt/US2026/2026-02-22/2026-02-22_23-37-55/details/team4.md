@@ -112,8 +112,8 @@
 | 104 | 499 | Christina LR |
 | 105 | 499 | Trista Leah |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | shar |
-| 108 | 487 | Alyssa Papen |
+| 107 | 487 | Alyssa Papen |
+| 108 | 487 | shar |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -125,8 +125,8 @@
 | 117 | 448 | Kristin Manee |
 | 118 | 435 | Leslie Thomas |
 | 119 | 433 | Jamie Gustafson |
-| 120 | 431 | Courtney Cicoria |
-| 121 | 431 | Jolly Dashfit |
+| 120 | 431 | Jolly Dashfit |
+| 121 | 431 | Courtney Cicoria |
 | 122 | 429 | Ren Mc |
 | 123 | 427 | KJ Pool |
 | 124 | 417 | Monica Daley |
@@ -162,8 +162,8 @@
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
 | 156 | 339 | David Lay |
-| 157 | 333 | Twisty Cascadezone |
-| 158 | 333 | Peachy Fall |
+| 157 | 333 | Peachy Fall |
+| 158 | 333 | Twisty Cascadezone |
 | 159 | 332 | Leslie Nicole |
 | 160 | 332 | HastyGrabber |
 | 161 | 330 | Oscar Alberto Perez |
@@ -172,8 +172,8 @@
 | 164 | 321 | jim |
 | 165 | 320 | Lauren Scott |
 | 166 | 316 | Meagan Nicole |
-| 167 | 314 | Andy Cabral |
-| 168 | 314 | TRCuse |
+| 167 | 314 | TRCuse |
+| 168 | 314 | Andy Cabral |
 | 169 | 312 | Rafael Valentin |
 | 170 | 311 | A5! |
 | 171 | 307 | Bio Nelly |
@@ -202,14 +202,14 @@
 | 194 | 281 | Laura |
 | 195 | 281 | Kim Klutz Olson |
 | 196 | 277 | Mary Ann Pabukis |
-| 197 | 276 | Joeliecea Cobb |
-| 198 | 276 | Matt Dell'Olio |
+| 197 | 276 | Matt Dell'Olio |
+| 198 | 276 | Joeliecea Cobb |
 | 199 | 273 | Casey Grabner |
 | 200 | 272 | Dennis Bradley |
 | 201 | 272 | Alan George LaRage |
 | 202 | 271 | Sarah Brown |
-| 203 | 270 | Juls |
-| 204 | 270 | Melissa Adams |
+| 203 | 270 | Melissa Adams |
+| 204 | 270 | Juls |
 | 205 | 269 | Nikki Rae Gordon |
 | 206 | 268 | Sam Bishop |
 | 207 | 268 | Mimi |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Chirpy Basepiece |
-| 222 | 248 | Jose Dejesus |
+| 221 | 248 | Jose Dejesus |
+| 222 | 248 | Chirpy Basepiece |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
@@ -239,16 +239,16 @@
 | 231 | 241 | JPW |
 | 232 | 241 | Allen Lloyd |
 | 233 | 240 | Kim Hunt |
-| 234 | 238 | Chaz |
-| 235 | 238 | Zesty Twistbuilder |
+| 234 | 238 | Zesty Twistbuilder |
+| 235 | 238 | Chaz |
 | 236 | 235 | LaDonna LovinmesomeMe Lambert |
 | 237 | 233 | Ruben Wheeler |
 | 238 | 230 | Jade Rian |
 | 239 | 230 | blockstar |
 | 240 | 228 | Antony Dwayne Beasley |
 | 241 | 226 | Dizzy Matchzone |
-| 242 | 225 | Jenna McGeorge |
-| 243 | 225 | Perky Patternblock |
+| 242 | 225 | Perky Patternblock |
+| 243 | 225 | Jenna McGeorge |
 | 244 | 222 | Brandi Durig |
 | 245 | 221 | Chair |
 | 246 | 221 | PurpleMoonMa |
@@ -277,8 +277,8 @@
 | 269 | 209 | Zany Shatterer |
 | 270 | 208 | Rebecca Morris |
 | 271 | 207 | Snippy Puzzle |
-| 272 | 205 | James Hurley Jr. |
-| 273 | 205 | Stella |
+| 272 | 205 | Stella |
+| 273 | 205 | James Hurley Jr. |
 | 274 | 203 | Katherine Crane |
 | 275 | 202 | Angelito |
 | 276 | 201 | Silly SeaWeed |
@@ -314,8 +314,8 @@
 | 306 | 181 | Nikki Wilson |
 | 307 | 179 | AyeKay |
 | 308 | 178 | Zippy Tilt |
-| 309 | 177 | Ernest Maxwell |
-| 310 | 177 | Shanon Klair |
+| 309 | 177 | Shanon Klair |
+| 310 | 177 | Ernest Maxwell |
 | 311 | 177 | Michelle Morris |
 | 312 | 175 | Lorena Guerrero-Barron |
 | 313 | 175 | Megan Cutshaw |
@@ -490,11 +490,11 @@
 | 482 | 124 | Cheery Towerzone |
 | 483 | 124 | Stacy |
 | 484 | 123 | Jennifer Perkins |
-| 485 | 123 | Sunny Filler |
-| 486 | 123 | MOCHA |
-| 487 | 122 | Kate |
-| 488 | 122 | @ |
-| 489 | 122 | bloat princess |
+| 485 | 123 | MOCHA |
+| 486 | 123 | Sunny Filler |
+| 487 | 122 | bloat princess |
+| 488 | 122 | Kate |
+| 489 | 122 | @ |
 | 490 | 121 | Jesse Saville |
 | 491 | 120 | Christina O'Dell-Ishau |
 | 492 | 120 | Jay You |
@@ -514,7 +514,7 @@
 | 506 | 115 | Ron |
 | 507 | 114 | Jason Frehner |
 | 508 | 114 | Rosemary Foster |
-| 509 | 114 | Jason Frehner |
+| 509 | 114 | The Murphy |
 | 510 | 113 | DQ Martin |
 | 511 | 112 | Verna Neal |
 | 512 | 111 | Lazy Blocker |
