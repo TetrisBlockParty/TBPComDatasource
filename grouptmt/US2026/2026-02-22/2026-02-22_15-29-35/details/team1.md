@@ -122,8 +122,8 @@
 | 114 | 342 | Brenda Stewart |
 | 115 | 341 | Nick R Montague |
 | 116 | 334 | Jaimie Lynn |
-| 117 | 333 | Gracie |
-| 118 | 333 | Brandi Huntington |
+| 117 | 333 | Brandi Huntington |
+| 118 | 333 | Gracie |
 | 119 | 332 | Kristen Gideon |
 | 120 | 330 | Sweet Baker |
 | 121 | 326 | Monica Donato |
@@ -185,8 +185,8 @@
 | 177 | 243 | Trippy Redd |
 | 178 | 242 | ALFD |
 | 179 | 241 | John J. Cronin |
-| 180 | 239 | Sam Williams |
-| 181 | 239 | Billie Dawn Sparks |
+| 180 | 239 | Billie Dawn Sparks |
+| 181 | 239 | Sam Williams |
 | 182 | 237 | LaFontaine Leslie |
 | 183 | 237 | Kimberly Garcia |
 | 184 | 236 | femmefatale |

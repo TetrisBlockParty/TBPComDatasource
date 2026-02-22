@@ -2342,7 +2342,7 @@
 | 2334 | 11 | Linda Topps |
 | 2335 | 11 | Spunky Snapline |
 | 2336 | 11 | Lana Nelson |
-| 2337 | 10 | Groovy Setter |
+| 2337 | 10 | pretty face |
 | 2338 | 10 | Blockhead |
 | 2339 | 10 | Groovy Setter |
 | 2340 | 10 | sirpiff |
