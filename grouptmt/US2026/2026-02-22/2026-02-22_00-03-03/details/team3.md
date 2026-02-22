@@ -119,8 +119,8 @@
 | 111 | 391 | Calista Jo Dickson |
 | 112 | 390 | Hasty Cascadefit |
 | 113 | 390 | Patti Skiles |
-| 114 | 389 | Jessica Bechler |
-| 115 | 389 | FuzzyNavel |
+| 114 | 389 | FuzzyNavel |
+| 115 | 389 | Jessica Bechler |
 | 116 | 386 | Katie Knaus |
 | 117 | 384 | Shannon Matthew Byers |
 | 118 | 383 | Jesse Olive |
@@ -150,8 +150,8 @@
 | 142 | 300 | Sherika C. McDaniels |
 | 143 | 293 | Poppy Splitter |
 | 144 | 289 | Hoppy Buildout |
-| 145 | 286 | Jacqueline Rodriguez |
-| 146 | 286 | Marci Mize Fandrich |
+| 145 | 286 | Marci Mize Fandrich |
+| 146 | 286 | Jacqueline Rodriguez |
 | 147 | 283 | Joye Sims Binion |
 | 148 | 278 | Rufus Lincoln |
 | 149 | 276 | Crimson |

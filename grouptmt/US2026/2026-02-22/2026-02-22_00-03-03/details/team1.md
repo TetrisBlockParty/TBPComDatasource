@@ -177,8 +177,8 @@
 | 169 | 161 | Jessie Lynn |
 | 170 | 161 | SavageBooty98 |
 | 171 | 159 | Bindi |
-| 172 | 158 | Sarah Marie |
-| 173 | 158 | Arianna O'Brien |
+| 172 | 158 | Arianna O'Brien |
+| 173 | 158 | Sarah Marie |
 | 174 | 157 | Angela Fairbank |
 | 175 | 154 | Christy Jones |
 | 176 | 152 | Jacqueline Unique |
@@ -209,8 +209,8 @@
 | 201 | 135 | Aimee Horton |
 | 202 | 134 | Brave Wrecker |
 | 203 | 133 | Kimberly Garcia |
-| 204 | 133 | Fmp |
-| 205 | 133 | LD1 |
+| 204 | 133 | LD1 |
+| 205 | 133 | Fmp |
 | 206 | 132 | Layzietyme |
 | 207 | 131 | Uhog SF |
 | 208 | 130 | Gilbert Ortiz Jr. |

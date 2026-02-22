@@ -51,8 +51,8 @@
 | 43 | 526 | Goatimus Lombardi |
 | 44 | 519 | Anthony Bryan Riva |
 | 45 | 504 | Ash |
-| 46 | 500 | Rodney McMath Jr. |
-| 47 | 500 | Savannah Overdorf |
+| 46 | 500 | Savannah Overdorf |
+| 47 | 500 | Rodney McMath Jr. |
 | 48 | 496 | Carolyn Wallace |
 | 49 | 491 | Casey Jeffcoat |
 | 50 | 486 | Landon Keith Graffeo |
@@ -139,12 +139,12 @@
 | 131 | 196 | Jeff Brian Gates |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Shauna Havard |
-| 134 | 189 | Stacey Stano |
-| 135 | 189 | Calvin Dennis |
+| 134 | 189 | Calvin Dennis |
+| 135 | 189 | Stacey Stano |
 | 136 | 188 | Katherine Crane |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Andy Cabral |
-| 139 | 185 | Malakai Darien Fox |
+| 138 | 185 | Malakai Darien Fox |
+| 139 | 185 | Andy Cabral |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Carter Jones |
 | 142 | 181 | Klo |
@@ -158,8 +158,8 @@
 | 150 | 172 | Jessica Bohlken |
 | 151 | 171 | Diana Houts |
 | 152 | 169 | Scott Jameson |
-| 153 | 164 | ThaEviLJeNiuZ |
-| 154 | 164 | 030Synner |
+| 153 | 164 | 030Synner |
+| 154 | 164 | ThaEviLJeNiuZ |
 | 155 | 160 | ZeeZee |
 | 156 | 156 | Holly |
 | 157 | 155 | AyeKay |
@@ -173,8 +173,8 @@
 | 165 | 148 | Mr. Party |
 | 166 | 148 | Janita Parrish |
 | 167 | 148 | Brittany Marsh |
-| 168 | 147 | B Renee Desjardin |
-| 169 | 147 | Jay28 |
+| 168 | 147 | Jay28 |
+| 169 | 147 | B Renee Desjardin |
 | 170 | 145 | Mimi |
 | 171 | 144 | Ak Jones |
 | 172 | 142 | Zippy Gridlock |
@@ -256,8 +256,8 @@
 | 248 | 109 | Frank Cook |
 | 249 | 109 | LS |
 | 250 | 108 | Ali Ian |
-| 251 | 108 | Rebecca Morris |
-| 252 | 108 | Kate |
+| 251 | 108 | Kate |
+| 252 | 108 | Rebecca Morris |
 | 253 | 107 | Chris Alexinas |
 | 254 | 106 | Brandi Durig |
 | 255 | 106 | Zappy Snaplink |
@@ -296,8 +296,8 @@
 | 288 | 95 | Tina Martinez |
 | 289 | 94 | DonMega |
 | 290 | 93 | No Strings Attached Ra |
-| 291 | 92 | Hyper Builder |
-| 292 | 92 | Frilly Blocky |
+| 291 | 92 | Frilly Blocky |
+| 292 | 92 | Hyper Builder |
 | 293 | 91 | wombat |
 | 294 | 91 | Sunny Filler |
 | 295 | 90 | Chirpy Slammer |
