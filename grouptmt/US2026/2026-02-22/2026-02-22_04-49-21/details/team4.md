@@ -142,8 +142,8 @@
 | 134 | 224 | Matt Summer |
 | 135 | 223 | Antony Dwayne Beasley |
 | 136 | 222 | Joeliecea Cobb |
-| 137 | 221 | PurpleMoonMa |
-| 138 | 221 | Rheanda Weaskus |
+| 137 | 221 | Rheanda Weaskus |
+| 138 | 221 | PurpleMoonMa |
 | 139 | 220 | Matt Dell'Olio |
 | 140 | 218 | Casey Grabner |
 | 141 | 217 | Swanky Fitline |

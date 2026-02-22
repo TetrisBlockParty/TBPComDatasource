@@ -119,8 +119,8 @@
 | 111 | 1248 | Howard Forest |
 | 112 | 1242 | Altamirano Michael |
 | 113 | 1241 | Eileen Hale |
-| 114 | 1232 | Groovy Puzzle |
-| 115 | 1232 | Isabela Shaw |
+| 114 | 1232 | Isabela Shaw |
+| 115 | 1232 | Groovy Puzzle |
 | 116 | 1226 | Vo'Landa Reels |
 | 117 | 1216 | Kristin Ruest |
 | 118 | 1215 | Megan Garrick |
@@ -171,8 +171,8 @@
 | 163 | 953 | Ladyrainbootz |
 | 164 | 951 | Cynthia Ward |
 | 165 | 950 | Teresa Gillmore |
-| 166 | 941 | Desiree Harris Rosch |
-| 167 | 941 | Marie Boyd Faulk |
+| 166 | 941 | Marie Boyd Faulk |
+| 167 | 941 | Desiree Harris Rosch |
 | 168 | 940 | Cool Clearer |
 | 169 | 937 | Shannon Joslin |
 | 170 | 935 | William Meussner |
@@ -188,8 +188,8 @@
 | 180 | 878 | L3sli3 |
 | 181 | 871 | Jamie Otero |
 | 182 | 867 | Michele Gabriel |
-| 183 | 867 | YiFei |
-| 184 | 867 | Rosa Franklin |
+| 183 | 867 | Rosa Franklin |
+| 184 | 867 | YiFei |
 | 185 | 865 | Dedra Steward |
 | 186 | 862 | Robin Kerby |
 | 187 | 861 | Jennifer Peachey |
