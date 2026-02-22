@@ -179,8 +179,8 @@
 | 171 | 1047 | Amy Sayers |
 | 172 | 1046 | Poppy Snap |
 | 173 | 1045 | Lourisha |
-| 174 | 1043 | Brave Dropmatch |
-| 175 | 1043 | Suki Kaur |
+| 174 | 1043 | Suki Kaur |
+| 175 | 1043 | Brave Dropmatch |
 | 176 | 1036 | Allison Lockyer |
 | 177 | 1035 | Sarah Freitas |
 | 178 | 1025 | Brandy Andre |
@@ -195,8 +195,8 @@
 | 187 | 993 | Tralonda Weeks |
 | 188 | 991 | Moose Griffith |
 | 189 | 989 | Teddi Notyalc |
-| 190 | 988 | Maegan Beaule |
-| 191 | 988 | Cherica Taylor |
+| 190 | 988 | Cherica Taylor |
+| 191 | 988 | Maegan Beaule |
 | 192 | 986 | RAEPR05 |
 | 193 | 984 | Nika Bee |
 | 194 | 982 | Desiree Harris Rosch |
@@ -390,11 +390,11 @@
 | 382 | 563 | Irene Jones |
 | 383 | 561 | Traci Johnson |
 | 384 | 560 | Phil J. Grombliniak |
-| 385 | 558 | Mikayala Szaz |
-| 386 | 558 | Libby Hicks |
+| 385 | 558 | Libby Hicks |
+| 386 | 558 | Mikayala Szaz |
 | 387 | 556 | Slip |
-| 388 | 554 | Rachael Senard |
-| 389 | 554 | Santana Miyagi |
+| 388 | 554 | Santana Miyagi |
+| 389 | 554 | Rachael Senard |
 | 390 | 554 | Autumn Schaeffer |
 | 391 | 554 | Nicole Cannon |
 | 392 | 553 | Blacc Blac |
@@ -486,8 +486,8 @@
 | 478 | 476 | Kiana Boschh |
 | 479 | 475 | Michelle Lee |
 | 480 | 474 | Calandra Shaya Robinson |
-| 481 | 473 | Wuntayk |
-| 482 | 473 | coleksquad |
+| 481 | 473 | coleksquad |
+| 482 | 473 | Wuntayk |
 | 483 | 473 | Tracy Wise |
 | 484 | 473 | Lyndi Robinson Wakefield |
 | 485 | 472 | Arwa Fatimah |

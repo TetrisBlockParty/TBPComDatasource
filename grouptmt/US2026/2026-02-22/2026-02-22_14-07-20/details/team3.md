@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Louise Stacy Sisson |
-| 109 | 562 | Dave Herzog |
+| 108 | 562 | Dave Herzog |
+| 109 | 562 | Louise Stacy Sisson |
 | 110 | 559 | Morgan Martinez |
 | 111 | 549 | Nicole Myers |
 | 112 | 533 | Alaina Lee |
@@ -278,8 +278,8 @@
 | 270 | 238 | Connie Mohler-Fair |
 | 271 | 238 | LaTanya GeminiondaRise Johnson |
 | 272 | 236 | Angela Scott |
-| 273 | 236 | Jess Bissett |
-| 274 | 236 | Melissa Orth Hunter |
+| 273 | 236 | Melissa Orth Hunter |
+| 274 | 236 | Jess Bissett |
 | 275 | 235 | Cozy Snaplink |
 | 276 | 234 | Lys |
 | 277 | 233 | Josh Borquez |
@@ -1845,8 +1845,8 @@
 | 1837 | 26 | Ashley Woods |
 | 1838 | 26 | Jolly Wipegrid |
 | 1839 | 25 | Mrs. Jones |
-| 1840 | 25 | Magnificent |
-| 1841 | 25 | Melvenia Wright-Muller |
+| 1840 | 25 | Jessica Prim |
+| 1841 | 25 | Jessica Sanchez |
 | 1842 | 25 | Amanda Colvard Lockman |
 | 1843 | 25 | Blove |
 | 1844 | 25 | Melvenia Wright-Muller |

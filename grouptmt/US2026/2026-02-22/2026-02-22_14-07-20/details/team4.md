@@ -212,8 +212,8 @@
 | 204 | 201 | Melvin Baird |
 | 205 | 200 | Lori |
 | 206 | 200 | Laura |
-| 207 | 198 | Keith Kelley |
-| 208 | 198 | Zesty Twistbuilder |
+| 207 | 198 | Zesty Twistbuilder |
+| 208 | 198 | Keith Kelley |
 | 209 | 197 | Silly SeaWeed |
 | 210 | 196 | Oscar Alberto Perez |
 | 211 | 196 | Mr. Party |
@@ -386,8 +386,8 @@
 | 378 | 115 | Jayk |
 | 379 | 114 | Jason Frehner |
 | 380 | 114 | Rosemary Foster |
-| 381 | 113 | Dandy Cascadefit |
-| 382 | 113 | Stephanie Mico |
+| 381 | 113 | Stephanie Mico |
+| 382 | 113 | Dandy Cascadefit |
 | 383 | 113 | @ |
 | 384 | 113 | Raymond Roberts |
 | 385 | 111 | Heather Bruce |

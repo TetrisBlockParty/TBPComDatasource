@@ -137,15 +137,15 @@
 | 129 | 306 | Happy Basegrid |
 | 130 | 304 | Nicole Roseberry Weber |
 | 131 | 301 | Lehrin Maria |
-| 132 | 300 | Chelsea Dahlquist |
-| 133 | 300 | Elaine Elaine |
+| 132 | 300 | Elaine Elaine |
+| 133 | 300 | Chelsea Dahlquist |
 | 134 | 298 | Erin Hodges Plumb |
 | 135 | 290 | Death |
 | 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Rachael |
-| 140 | 284 | Emily Adelaide Wheatley |
+| 139 | 284 | Emily Adelaide Wheatley |
+| 140 | 284 | Rachael |
 | 141 | 283 | Franswa |
 | 142 | 282 | Cool Shiftsnap |
 | 143 | 282 | Tyler Werts |
@@ -209,8 +209,8 @@
 | 201 | 207 | Brenda Alexander |
 | 202 | 207 | Leslie Bush Yarbrough |
 | 203 | 206 | BadG52 |
-| 204 | 205 | Snappy Matcher |
-| 205 | 205 | Tater |
+| 204 | 205 | Tater |
+| 205 | 205 | Snappy Matcher |
 | 206 | 204 | Lacy Wolfe |
 | 207 | 202 | Fmp |
 | 208 | 202 | Amanda Holibaugh |
