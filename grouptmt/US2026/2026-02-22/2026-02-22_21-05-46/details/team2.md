@@ -258,8 +258,8 @@
 | 250 | 935 | Kevin Walp |
 | 251 | 933 | Cindy Sechler Taninecz |
 | 252 | 920 | Phil J. Grombliniak |
-| 253 | 919 | Isaac Trappiel IV |
-| 254 | 919 | Joshua Mandel |
+| 253 | 919 | Joshua Mandel |
+| 254 | 919 | Isaac Trappiel IV |
 | 255 | 916 | Butta |
 | 256 | 915 | Robin Kerby |
 | 257 | 915 | Kelly Trent |
@@ -278,8 +278,8 @@
 | 270 | 883 | nikki |
 | 271 | 880 | Sam Joe |
 | 272 | 878 | Missie Lawson Gebhardt |
-| 273 | 875 | William Hunt |
-| 274 | 875 | Jamie Otero |
+| 273 | 875 | Jamie Otero |
+| 274 | 875 | William Hunt |
 | 275 | 874 | Giggy Blocker |
 | 276 | 872 | Felicia Lynn |
 | 277 | 867 | Peppy Zone |
@@ -317,13 +317,13 @@
 | 309 | 793 | Binyah-Binyah |
 | 310 | 790 | Brenda Pierpoint |
 | 311 | 790 | Jackie Lucas |
-| 312 | 787 | Lisa Ongtowasruk |
-| 313 | 787 | Laura McCarthey |
+| 312 | 787 | Laura McCarthey |
+| 313 | 787 | Lisa Ongtowasruk |
 | 314 | 782 | Beth |
 | 315 | 781 | Hong Tang |
 | 316 | 778 | Lola Contreras |
-| 317 | 777 | Tesha Oldaker |
-| 318 | 777 | Jessicah Myers |
+| 317 | 777 | Jessicah Myers |
+| 318 | 777 | Tesha Oldaker |
 | 319 | 777 | Samantha Jo |
 | 320 | 774 | Ashley Dow |
 | 321 | 774 | Ginnell Browner |
@@ -343,8 +343,8 @@
 | 335 | 746 | Kathryn Townsley |
 | 336 | 746 | Jerilyn Andrina |
 | 337 | 745 | Kiely Tomaskovich |
-| 338 | 743 | Melissa Cole |
-| 339 | 743 | Tiara Elizabeth Baker |
+| 338 | 743 | Tiara Elizabeth Baker |
+| 339 | 743 | Melissa Cole |
 | 340 | 741 | Mandi Douglas Hilt |
 | 341 | 740 | Jerry Tempelmeyer |
 | 342 | 739 | Jánine Riggs |
@@ -464,8 +464,8 @@
 | 456 | 571 | Julie Kresal |
 | 457 | 571 | Emily Lyric Converse |
 | 458 | 570 | Lonne Emade |
-| 459 | 569 | Joseph Musick |
-| 460 | 569 | Vaniel Glover |
+| 459 | 569 | Vaniel Glover |
+| 460 | 569 | Joseph Musick |
 | 461 | 569 | Sparkles |
 | 462 | 567 | Irene Jones |
 | 463 | 566 | Leah Keesling |
@@ -605,8 +605,8 @@
 | 597 | 459 | Shyenn Gadsby |
 | 598 | 459 | Snazzy Basepiece |
 | 599 | 457 | Abimbola Bimbo |
-| 600 | 456 | Samantha Scibelli |
-| 601 | 456 | Misty Mitchell |
+| 600 | 456 | Misty Mitchell |
+| 601 | 456 | Samantha Scibelli |
 | 602 | 456 | Kacee Conrad Bock |
 | 603 | 456 | Skyler Morgan |
 | 604 | 454 | Joice Hansen |

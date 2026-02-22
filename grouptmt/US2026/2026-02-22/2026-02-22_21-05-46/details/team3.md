@@ -80,8 +80,8 @@
 | 72 | 895 | Corie A. Brinson |
 | 73 | 882 | Tiff Vs Tiffany |
 | 74 | 878 | Katie Knaus |
-| 75 | 874 | Jessica Pineda-Lopez |
-| 76 | 874 | Shari Garber |
+| 75 | 874 | Shari Garber |
+| 76 | 874 | Jessica Pineda-Lopez |
 | 77 | 870 | Nerdy Riseclear |
 | 78 | 866 | Ebony West-Cundiff |
 | 79 | 864 | Mary Pellegrino |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Dave Herzog |
-| 132 | 562 | Louise Stacy Sisson |
+| 131 | 562 | Louise Stacy Sisson |
+| 132 | 562 | Dave Herzog |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -198,9 +198,9 @@
 | 190 | 416 | Staci George Fitzsimmons |
 | 191 | 415 | ren |
 | 192 | 410 | Stephanie Simpson |
-| 193 | 405 | Sherry Ogden |
+| 193 | 405 | Marcie Bressler |
 | 194 | 405 | Tom Nault |
-| 195 | 405 | Marcie Bressler |
+| 195 | 405 | Sherry Ogden |
 | 196 | 404 | Chasity |
 | 197 | 403 | Scott Lindsay |
 | 198 | 400 | Sherika C. McDaniels |

@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -78,8 +78,8 @@
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -295,8 +295,8 @@
 | 287 | 179 | AyeKay |
 | 288 | 175 | Lorena Guerrero-Barron |
 | 289 | 174 | Shane Vick |
-| 290 | 171 | Nikki Wilson |
-| 291 | 171 | Autumn Kumzi |
+| 290 | 171 | Autumn Kumzi |
+| 291 | 171 | Nikki Wilson |
 | 292 | 170 | Elie Pean |
 | 293 | 170 | PeaceOs |
 | 294 | 169 | Dante Korleon |
