@@ -113,8 +113,8 @@
 | 105 | 568 | Rachael McClain Owens |
 | 106 | 566 | Dolores Falco |
 | 107 | 565 | Patty Allen |
-| 108 | 562 | Dave Herzog |
-| 109 | 562 | Louise Stacy Sisson |
+| 108 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Dave Herzog |
 | 110 | 560 | Christine Filson |
 | 111 | 559 | Morgan Martinez |
 | 112 | 551 | Kristie |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 432 | Jenny Hrndz |
@@ -195,8 +195,8 @@
 | 187 | 361 | Jamie Lang |
 | 188 | 358 | Chummy Caster |
 | 189 | 358 | RickyG |
-| 190 | 357 | Stephanie Burtin |
-| 191 | 357 | Tom Nault |
+| 190 | 357 | Tom Nault |
+| 191 | 357 | Stephanie Burtin |
 | 192 | 353 | Nora Rogers |
 | 193 | 349 | Amanda J. Mcneil-Anderson |
 | 194 | 348 | Chasity |
@@ -260,8 +260,8 @@
 | 252 | 269 | Loopy Fallmatch |
 | 253 | 267 | Tiffany Davie |
 | 254 | 262 | Joe-Maggie Mathews |
-| 255 | 261 | Tiffany Ford |
-| 256 | 261 | Tasha Wesson-Torrence |
+| 255 | 261 | Tasha Wesson-Torrence |
+| 256 | 261 | Tiffany Ford |
 | 257 | 261 | Marquita Sheard |
 | 258 | 260 | Nikki Pags |
 | 259 | 260 | Grams |
@@ -296,8 +296,8 @@
 | 288 | 225 | Dirtgirl27 |
 | 289 | 225 | Steffi Chris Dacones |
 | 290 | 224 | Quirky Dropzone |
-| 291 | 221 | Vaners |
-| 292 | 221 | Jaime Monhaut-Reed |
+| 291 | 221 | Jaime Monhaut-Reed |
+| 292 | 221 | Vaners |
 | 293 | 221 | Alice |
 | 294 | 221 | kacihall |
 | 295 | 220 | Tosha Griffey |
@@ -366,8 +366,8 @@
 | 358 | 183 | Frothy Snapper |
 | 359 | 182 | gremicx |
 | 360 | 181 | Denita Mungro |
-| 361 | 180 | Loopy Fallzone |
-| 362 | 180 | Ava Petito |
+| 361 | 180 | Ava Petito |
+| 362 | 180 | Loopy Fallzone |
 | 363 | 180 | Beth Ingham |
 | 364 | 179 | DanceLuvLaugh |
 | 365 | 179 | Rachel Napper |
@@ -493,8 +493,8 @@
 | 485 | 134 | Maia |
 | 486 | 134 | Sharon Dudley Lawson |
 | 487 | 134 | Brian Battjes |
-| 488 | 133 | Jumpy Wrecker |
-| 489 | 133 | Chummy Rumbler |
+| 488 | 133 | Chummy Rumbler |
+| 489 | 133 | Jumpy Wrecker |
 | 490 | 132 | Andrew Thorson |
 | 491 | 131 | Erin Ervin |
 | 492 | 131 | Jolly Dashpiece |

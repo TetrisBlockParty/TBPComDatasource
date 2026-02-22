@@ -378,8 +378,8 @@
 | 370 | 602 | Christine Bollig |
 | 371 | 597 | Steven Marshaun |
 | 372 | 591 | AgileDragon |
-| 373 | 589 | Shavonna Haynes |
-| 374 | 589 | Thomas Hedrick |
+| 373 | 589 | Thomas Hedrick |
+| 374 | 589 | Shavonna Haynes |
 | 375 | 586 | Heather Schelkopf |
 | 376 | 585 | Taryece Gause |
 | 377 | 584 | Eckoman518 |
@@ -422,8 +422,8 @@
 | 414 | 539 | Dapper Dasher |
 | 415 | 538 | Tra Barnum |
 | 416 | 536 | Shaun Church |
-| 417 | 536 | Cassie Mercer |
-| 418 | 536 | Caitlin Schmid |
+| 417 | 536 | Caitlin Schmid |
+| 418 | 536 | Cassie Mercer |
 | 419 | 535 | Paul Huber |
 | 420 | 534 | Kenny Alvarado |
 | 421 | 533 | Gauri Shrotriya |

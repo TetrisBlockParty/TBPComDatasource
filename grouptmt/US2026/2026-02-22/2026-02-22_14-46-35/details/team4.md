@@ -84,8 +84,8 @@
 | 76 | 544 | Amy Suckarieh |
 | 77 | 533 | Chris Baggett |
 | 78 | 530 | Yoset Mejia |
-| 79 | 524 | Amelpss |
-| 80 | 524 | Carolyn Wallace |
+| 79 | 524 | Carolyn Wallace |
+| 80 | 524 | Amelpss |
 | 81 | 523 | Dawn Alexander |
 | 82 | 517 | H.R. Block |
 | 83 | 512 | Casey Jeffcoat |
@@ -226,8 +226,8 @@
 | 218 | 195 | Malakai Darien Fox |
 | 219 | 195 | Rebecca Morris |
 | 220 | 194 | Zany Twisterfit |
-| 221 | 193 | Nikki Rae Gordon |
-| 222 | 193 | Rio Rocha |
+| 221 | 193 | Rio Rocha |
+| 222 | 193 | Nikki Rae Gordon |
 | 223 | 192 | Dizzy Matchzone |
 | 224 | 192 | Shauna Havard |
 | 225 | 191 | Klo |
@@ -375,8 +375,8 @@
 | 367 | 119 | rebel4lyfe |
 | 368 | 119 | River Shady Sr. |
 | 369 | 118 | Perky Piecegrid |
-| 370 | 118 | Darrin Rubalcava |
-| 371 | 118 | Mackenzie Forrester |
+| 370 | 118 | Mackenzie Forrester |
+| 371 | 118 | Darrin Rubalcava |
 | 372 | 117 | David V. Bowers |
 | 373 | 117 | PennyCandee |
 | 374 | 117 | Grann8 |
@@ -791,7 +791,7 @@
 | 783 | 49 | Jessica Graham |
 | 784 | 49 | Geetara |
 | 785 | 49 | Angela Gould |
-| 786 | 49 | Geetara |
+| 786 | 49 | Lou Ie |
 | 787 | 49 | Juan Barron |
 | 788 | 49 | L Bear Champion |
 | 789 | 48 | Tyler Brown |

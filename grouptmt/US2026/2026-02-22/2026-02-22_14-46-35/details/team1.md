@@ -146,8 +146,8 @@
 | 138 | 290 | Death |
 | 139 | 289 | David Miller |
 | 140 | 285 | Ananda Mendez |
-| 141 | 284 | Rachael |
-| 142 | 284 | Emily Adelaide Wheatley |
+| 141 | 284 | Emily Adelaide Wheatley |
+| 142 | 284 | Rachael |
 | 143 | 283 | Franswa |
 | 144 | 282 | Timothy Dew |
 | 145 | 282 | Tyler Werts |
@@ -204,8 +204,8 @@
 | 196 | 215 | Shaykmia |
 | 197 | 214 | LaFontaine Leslie |
 | 198 | 213 | Daring Fitclear |
-| 199 | 210 | Letson Melissa |
-| 200 | 210 | Giggly Builderline |
+| 199 | 210 | Giggly Builderline |
+| 200 | 210 | Letson Melissa |
 | 201 | 209 | Cece Ibarra |
 | 202 | 208 | Michelle Beres |
 | 203 | 208 | Donna Addison Williams |
@@ -248,8 +248,8 @@
 | 240 | 186 | Margo Wagner |
 | 241 | 184 | Chris Sigurdson |
 | 242 | 183 | Andrew Boone |
-| 243 | 183 | Brave Wrecker |
-| 244 | 183 | Amy Hess |
+| 243 | 183 | Amy Hess |
+| 244 | 183 | Brave Wrecker |
 | 245 | 183 | Chad Atchley |
 | 246 | 182 | Phu ckalldems |
 | 247 | 180 | Matt Iaccheo |
@@ -283,8 +283,8 @@
 | 275 | 169 | Abbey Crespo |
 | 276 | 168 | Angela Fairbank |
 | 277 | 166 | Carrie Smith |
-| 278 | 165 | Nadine Velardo |
-| 279 | 165 | Silly Align |
+| 278 | 165 | Silly Align |
+| 279 | 165 | Nadine Velardo |
 | 280 | 164 | Poppy Riserpiece |
 | 281 | 163 | Tyler Whitley |
 | 282 | 163 | Davery Spencer Adair |
