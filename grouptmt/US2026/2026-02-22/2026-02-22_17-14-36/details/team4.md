@@ -169,11 +169,11 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Trista Leah |
-| 165 | 268 | Cursed Hag |
+| 164 | 268 | Cursed Hag |
+| 165 | 268 | Trista Leah |
 | 166 | 267 | Kathy Brookins |
-| 167 | 267 | Damn Libra |
-| 168 | 267 | Casey Grabner |
+| 167 | 267 | Casey Grabner |
+| 168 | 267 | Damn Libra |
 | 169 | 266 | Laura |
 | 170 | 265 | Chris Bernstein |
 | 171 | 265 | Jeff Brian Gates |
@@ -271,8 +271,8 @@
 | 263 | 170 | Elie Pean |
 | 264 | 168 | 23 |
 | 265 | 167 | Cozy Balancer |
-| 266 | 166 | SammieJo Guy |
-| 267 | 166 | Jenny Wells-Oakley |
+| 266 | 166 | Jenny Wells-Oakley |
+| 267 | 166 | SammieJo Guy |
 | 268 | 166 | Megan Cutshaw |
 | 269 | 166 | KimoKoala |
 | 270 | 165 | James Hurley Jr. |
@@ -417,9 +417,9 @@
 | 409 | 117 | Shiny Pivoty |
 | 410 | 117 | David V. Bowers |
 | 411 | 117 | Grann8 |
-| 412 | 116 | Zesty Linkgrid |
-| 413 | 116 | Smiley Shifter |
-| 414 | 116 | Kate |
+| 412 | 116 | Smiley Shifter |
+| 413 | 116 | Kate |
+| 414 | 116 | Zesty Linkgrid |
 | 415 | 116 | Funky Risepiece |
 | 416 | 115 | Susan Williams |
 | 417 | 115 | Alexandra Karavias |

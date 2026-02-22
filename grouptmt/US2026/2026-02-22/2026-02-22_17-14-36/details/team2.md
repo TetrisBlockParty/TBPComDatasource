@@ -136,8 +136,8 @@
 | 128 | 1380 | Jose Mendoza |
 | 129 | 1371 | Zappy Cascade |
 | 130 | 1347 | Alisa Lamb |
-| 131 | 1342 | Eboni Banks |
-| 132 | 1342 | Christi Hulet |
+| 131 | 1342 | Christi Hulet |
+| 132 | 1342 | Eboni Banks |
 | 133 | 1342 | Bob |
 | 134 | 1339 | Karen Martini-Stapleton |
 | 135 | 1338 | Dawn Geist-Weasner |
@@ -335,8 +335,8 @@
 | 327 | 700 | Vincent Petrella |
 | 328 | 700 | Hong Tang |
 | 329 | 699 | tejas25 |
-| 330 | 697 | Ashle Scranton |
-| 331 | 697 | Dreamy Blast |
+| 330 | 697 | Dreamy Blast |
+| 331 | 697 | Ashle Scranton |
 | 332 | 695 | Deborah Miller |
 | 333 | 695 | Lakeysha Dortch |
 | 334 | 692 | Dannette Goldberg-Richards |
@@ -358,9 +358,9 @@
 | 350 | 665 | Taryece Gause |
 | 351 | 665 | Prette Qui |
 | 352 | 664 | Sleepypanda67 |
-| 353 | 661 | goofinoff |
-| 354 | 661 | BeQuo |
-| 355 | 661 | Christine Bollig |
+| 353 | 661 | BeQuo |
+| 354 | 661 | Christine Bollig |
+| 355 | 661 | goofinoff |
 | 356 | 659 | Draizen Montrell Thomas |
 | 357 | 651 | Unica Rector |
 | 358 | 650 | Amber Brion |
@@ -369,8 +369,8 @@
 | 361 | 643 | Hoppy Brickmatch |
 | 362 | 642 | Cassie Maynard |
 | 363 | 641 | Vonceial Boone |
-| 364 | 640 | BYM4L |
-| 365 | 640 | Kara Gillen |
+| 364 | 640 | Kara Gillen |
+| 365 | 640 | BYM4L |
 | 366 | 639 | Crystie Hicks |
 | 367 | 639 | Rebecca Miller |
 | 368 | 634 | Gary Stash |
@@ -387,8 +387,8 @@
 | 379 | 620 | Traci Johnson |
 | 380 | 617 | Ellie Jonas |
 | 381 | 616 | Cassie Mercer |
-| 382 | 613 | Caitlyn Blackwell |
-| 383 | 613 | Tonya Lee |
+| 382 | 613 | Tonya Lee |
+| 383 | 613 | Caitlyn Blackwell |
 | 384 | 612 | Nicole Cannon |
 | 385 | 611 | Em Chen |
 | 386 | 611 | Julio A Laracuente |
@@ -593,16 +593,16 @@
 | 585 | 429 | Tabs Reichert |
 | 586 | 428 | Lynda Toland |
 | 587 | 428 | Shyenn Gadsby |
-| 588 | 427 | Destiny Cozier |
-| 589 | 427 | Sabrina Burton |
+| 588 | 427 | Sabrina Burton |
+| 589 | 427 | Destiny Cozier |
 | 590 | 426 | De Hawkins |
 | 591 | 426 | Ashley Dow |
 | 592 | 425 | Samantha Scibelli |
 | 593 | 424 | Saucy Fitzone |
 | 594 | 423 | Taylor Flowers |
 | 595 | 421 | Joel Rosado |
-| 596 | 420 | Joice Hansen |
-| 597 | 420 | LaWanda Powell |
+| 596 | 420 | LaWanda Powell |
+| 597 | 420 | Joice Hansen |
 | 598 | 419 | Pocho Zavala |
 | 599 | 419 | Goofy Catcher |
 | 600 | 419 | Josh Dill |
