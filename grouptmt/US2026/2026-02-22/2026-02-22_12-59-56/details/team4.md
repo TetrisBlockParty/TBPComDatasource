@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -80,8 +80,8 @@
 | 72 | 533 | Eric Mcgaughy |
 | 73 | 533 | Chris Baggett |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -183,8 +183,8 @@
 | 175 | 217 | Chaz Duncan |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -215,16 +215,16 @@
 | 207 | 193 | Rio Rocha |
 | 208 | 192 | Shauna Havard |
 | 209 | 192 | Dizzy Matchzone |
-| 210 | 191 | Klo |
-| 211 | 191 | Sam Bishop |
+| 210 | 191 | Sam Bishop |
+| 211 | 191 | Klo |
 | 212 | 190 | Cheery Risebuilder |
-| 213 | 189 | Stacey Stano |
-| 214 | 189 | Calvin Dennis |
+| 213 | 189 | Calvin Dennis |
+| 214 | 189 | Stacey Stano |
 | 215 | 188 | Andria Lynn |
 | 216 | 187 | blockstar |
 | 217 | 186 | Holly |
-| 218 | 185 | Laura Hosford |
-| 219 | 185 | Lindsey Gonzalez |
+| 218 | 185 | Lindsey Gonzalez |
+| 219 | 185 | Laura Hosford |
 | 220 | 184 | Ak Jones |
 | 221 | 184 | Lauren Lamb |
 | 222 | 181 | Carter Jones |

@@ -174,8 +174,8 @@
 | 166 | 389 | Jeni Dow |
 | 167 | 382 | Scott Carleton |
 | 168 | 380 | Tasha Schriewer |
-| 169 | 378 | Nicole Flippo |
-| 170 | 378 | Chris Bell |
+| 169 | 378 | Chris Bell |
+| 170 | 378 | Nicole Flippo |
 | 171 | 376 | Loopy Clusterer |
 | 172 | 375 | Shunta Jacobs |
 | 173 | 374 | Sherry Ogden |
@@ -189,8 +189,8 @@
 | 181 | 359 | Dapper Snap |
 | 182 | 358 | RickyG |
 | 183 | 358 | Chummy Caster |
-| 184 | 357 | Stephanie Burtin |
-| 185 | 357 | Tom Nault |
+| 184 | 357 | Tom Nault |
+| 185 | 357 | Stephanie Burtin |
 | 186 | 355 | Tessina Dewey-Mancino |
 | 187 | 353 | Nora Rogers |
 | 188 | 348 | Chasity |
@@ -220,8 +220,8 @@
 | 212 | 301 | Chelsea Hall |
 | 213 | 300 | Sherika C. McDaniels |
 | 214 | 298 | MsBee |
-| 215 | 297 | Jojo M |
-| 216 | 297 | Keis |
+| 215 | 297 | Keis |
+| 216 | 297 | Jojo M |
 | 217 | 296 | Katrina Turner |
 | 218 | 296 | Ammmmmmy |
 | 219 | 296 | Brandon Givens |
@@ -232,8 +232,8 @@
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
-| 227 | 283 | Cheeky Snapper |
-| 228 | 283 | Charles Perrone |
+| 227 | 283 | Charles Perrone |
+| 228 | 283 | Cheeky Snapper |
 | 229 | 281 | Valerie Gendron |
 | 230 | 278 | Sabrina Hardrick |
 | 231 | 278 | Rufus Lincoln |
@@ -308,8 +308,8 @@
 | 300 | 210 | Lizabeth Fox |
 | 301 | 209 | Micayah Stevens |
 | 302 | 208 | AlsoJess |
-| 303 | 207 | Daring Builder |
-| 304 | 207 | Jessica |
+| 303 | 207 | Jessica |
+| 304 | 207 | Daring Builder |
 | 305 | 207 | angieelyn |
 | 306 | 206 | Tammy Rosenberry |
 | 307 | 206 | Tracy Martin |
@@ -344,22 +344,22 @@
 | 336 | 186 | Noettín Kan Zasnemoore |
 | 337 | 186 | Sameerah Smith |
 | 338 | 185 | Angella Lyons |
-| 339 | 184 | Troy |
-| 340 | 184 | Shanon R Jackson |
+| 339 | 184 | Shanon R Jackson |
+| 340 | 184 | Troy |
 | 341 | 183 | Cesar Barraza |
 | 342 | 183 | Salena Whitlock |
 | 343 | 181 | Denita Mungro |
 | 344 | 181 | Michael Johnson |
 | 345 | 180 | Beth Ingham |
-| 346 | 179 | Rachel Napper |
-| 347 | 179 | DanceLuvLaugh |
-| 348 | 178 | Jess Dearborn |
-| 349 | 178 | ROODBOY |
+| 346 | 179 | DanceLuvLaugh |
+| 347 | 179 | Rachel Napper |
+| 348 | 178 | ROODBOY |
+| 349 | 178 | Jess Dearborn |
 | 350 | 178 | Jennifer Alvey |
 | 351 | 177 | Kristin Delibac Corrigan |
-| 352 | 176 | Ashley Lynn Marchese |
-| 353 | 176 | Melissa Orth Hunter |
-| 354 | 176 | Emma |
+| 352 | 176 | Melissa Orth Hunter |
+| 353 | 176 | Emma |
+| 354 | 176 | Ashley Lynn Marchese |
 | 355 | 175 | Eileen Brady Thurber |
 | 356 | 174 | TotoCherue |
 | 357 | 174 | Lesley Perez |
@@ -400,8 +400,8 @@
 | 392 | 157 | Angel Mendez |
 | 393 | 157 | Kevin Fountain |
 | 394 | 157 | Katrina E Jelks |
-| 395 | 156 | Courtney Conboy |
-| 396 | 156 | Nichole Greene |
+| 395 | 156 | Nichole Greene |
+| 396 | 156 | Courtney Conboy |
 | 397 | 155 | Michael Leblanc |
 | 398 | 154 | Everret Maxine |
 | 399 | 153 | Tony Waters |
@@ -503,7 +503,7 @@
 | 495 | 122 | Scouty |
 | 496 | 122 | BabyTonj Evans |
 | 497 | 122 | Nichol Graham |
-| 498 | 121 | Oliver Neal II |
+| 498 | 121 | Jason-Ashley Ludlow |
 | 499 | 121 | Fredd Thomas |
 | 500 | 121 | Oliver Neal II |
 | 501 | 121 | Brave Brickster |

@@ -565,8 +565,8 @@
 | 557 | 411 | Mighty Spinbuilder |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Stefanie Zonzini-Gagliardi |
-| 561 | 408 | Abimbola Bimbo |
+| 560 | 408 | Abimbola Bimbo |
+| 561 | 408 | Stefanie Zonzini-Gagliardi |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -602,8 +602,8 @@
 | 594 | 389 | Kayla |
 | 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
-| 597 | 387 | Misti Markijohn |
-| 598 | 387 | Bold Brickster |
+| 597 | 387 | Bold Brickster |
+| 598 | 387 | Misti Markijohn |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
 | 601 | 384 | Kelly |
@@ -721,8 +721,8 @@
 | 713 | 322 | Michelle Pike |
 | 714 | 322 | Christina Jarvis-Swarbrick |
 | 715 | 321 | Samantha Scibelli |
-| 716 | 321 | Ashley Criner |
-| 717 | 321 | Tamara Bailey |
+| 716 | 321 | Tamara Bailey |
+| 717 | 321 | Ashley Criner |
 | 718 | 320 | Tash Bell |
 | 719 | 320 | Mary Boss |
 | 720 | 319 | Prado |
@@ -956,8 +956,8 @@
 | 948 | 248 | CleverAngel |
 | 949 | 248 | Jaybee Nguyen |
 | 950 | 248 | Angelina Marie |
-| 951 | 247 | Wizz |
-| 952 | 247 | Karyn Yurcho Dooley |
+| 951 | 247 | Karyn Yurcho Dooley |
+| 952 | 247 | Wizz |
 | 953 | 247 | Linda Miltenburg |
 | 954 | 246 | Stacey Tranchida |
 | 955 | 246 | Laura McConnell |
