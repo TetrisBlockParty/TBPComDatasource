@@ -78,8 +78,8 @@
 | 70 | 409 | Isabella Blanco |
 | 71 | 404 | Courtney Cicoria |
 | 72 | 399 | Jenna Ingersoll |
-| 73 | 396 | Alicia Bass |
-| 74 | 396 | Amy Suckarieh |
+| 73 | 396 | Amy Suckarieh |
+| 74 | 396 | Alicia Bass |
 | 75 | 392 | YoMomma |
 | 76 | 391 | Ramel Rhodes |
 | 77 | 390 | Carlton Unfiltered |
@@ -261,7 +261,7 @@
 | 253 | 125 | KimoKoala |
 | 254 | 125 | Lush Linkfall |
 | 255 | 125 | Daresha Fair |
-| 256 | 125 | Lush Linkfall |
+| 256 | 125 | Steph Marie |
 | 257 | 124 | Sam Middleton |
 | 258 | 123 | Sandra Safford |
 | 259 | 123 | Joseph Edmonson |
@@ -361,8 +361,8 @@
 | 353 | 91 | Kametsunoyaiba |
 | 354 | 91 | Lee Silpe |
 | 355 | 90 | Thomas Hettenhaus |
-| 356 | 90 | Carol Ricks Raymond |
-| 357 | 90 | Kris Bartlett |
+| 356 | 90 | Kris Bartlett |
+| 357 | 90 | Carol Ricks Raymond |
 | 358 | 89 | Zappy Buildgrid |
 | 359 | 89 | Cristy Duerksen |
 | 360 | 89 | Jonathan Mahfood |

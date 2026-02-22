@@ -106,8 +106,8 @@
 | 98 | 506 | Sashay Tapae Simpson |
 | 99 | 503 | Susan Valentino |
 | 100 | 502 | Justin Ritter |
-| 101 | 500 | Domo Washington |
-| 102 | 500 | Kristie |
+| 101 | 500 | Kristie |
+| 102 | 500 | Domo Washington |
 | 103 | 497 | Mykal Burton |
 | 104 | 491 | Chauntee Alfrey-Cardinale |
 | 105 | 487 | Alaina Lee |
@@ -138,8 +138,8 @@
 | 130 | 399 | Patti Skiles |
 | 131 | 399 | ren |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Katie Knaus |
-| 134 | 392 | Tasha Gillespie |
+| 133 | 392 | Tasha Gillespie |
+| 134 | 392 | Katie Knaus |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Hasty Cascadefit |
 | 137 | 378 | Makelini Mausia |
@@ -188,8 +188,8 @@
 | 180 | 286 | Jacqueline Rodriguez |
 | 181 | 286 | Cynthia Herrmann Egland |
 | 182 | 285 | Rebecca Bailey |
-| 183 | 284 | Duane Bright |
-| 184 | 284 | Edwin Calvillo Jr. |
+| 183 | 284 | Edwin Calvillo Jr. |
+| 184 | 284 | Duane Bright |
 | 185 | 283 | Joye Sims Binion |
 | 186 | 278 | Araceli Parra |
 | 187 | 278 | Rufus Lincoln |
@@ -210,23 +210,23 @@
 | 202 | 260 | Grams |
 | 203 | 258 | Tamara Deherrera |
 | 204 | 257 | Ashley Jones |
-| 205 | 256 | KayB |
-| 206 | 256 | Tiffany Davie |
-| 207 | 256 | Brenda Lee Vander Molen |
+| 205 | 256 | Brenda Lee Vander Molen |
+| 206 | 256 | KayB |
+| 207 | 256 | Tiffany Davie |
 | 208 | 253 | Nora Rogers |
 | 209 | 249 | JerseyJess |
 | 210 | 249 | Annie Marie |
 | 211 | 247 | Rebecca Funderburk Kirby |
-| 212 | 246 | Eon Harris |
-| 213 | 246 | Rochelle Hazelett |
+| 212 | 246 | Rochelle Hazelett |
+| 213 | 246 | Eon Harris |
 | 214 | 246 | Peppy Shifter |
 | 215 | 245 | Latoya Mayne |
 | 216 | 240 | Jimmie Clemons |
 | 217 | 240 | Brandon Givens |
 | 218 | 236 | Jess Bissett |
 | 219 | 235 | LaNette Morgan |
-| 220 | 234 | Grego Daniel |
-| 221 | 234 | Nikki Pags |
+| 220 | 234 | Nikki Pags |
+| 221 | 234 | Grego Daniel |
 | 222 | 233 | Ray Lader |
 | 223 | 232 | Donna |
 | 224 | 227 | Krystal Gerstberger |
@@ -300,8 +300,8 @@
 | 292 | 167 | Romeo |
 | 293 | 167 | Shicken Nuggit |
 | 294 | 166 | April Matthew Kibble |
-| 295 | 165 | Kali Kelz Williams |
-| 296 | 165 | Irene Arreguin |
+| 295 | 165 | Irene Arreguin |
+| 296 | 165 | Kali Kelz Williams |
 | 297 | 163 | Christine Trester |
 | 298 | 163 | Diana Ibarra |
 | 299 | 163 | Stephanie Hill |
@@ -533,8 +533,8 @@
 | 525 | 93 | Flashy Rumbler |
 | 526 | 93 | Katheline Lazo Luizaga |
 | 527 | 92 | Amy Wheeler |
-| 528 | 92 | Jennifer Caputo |
-| 529 | 92 | Patty White |
+| 528 | 92 | Patty White |
+| 529 | 92 | Jennifer Caputo |
 | 530 | 92 | Jackie-Lynne Goertzen |
 | 531 | 91 | Jennifer Kahler |
 | 532 | 91 | Donna S. Greene-Brathwaite |
