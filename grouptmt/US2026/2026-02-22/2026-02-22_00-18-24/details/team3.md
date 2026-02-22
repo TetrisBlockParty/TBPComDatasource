@@ -395,8 +395,8 @@
 | 387 | 109 | Sarah Whalen |
 | 388 | 109 | mommablock |
 | 389 | 108 | Scouty |
-| 390 | 107 | Bouncy Blockbuilder |
-| 391 | 107 | Megan Stanley |
+| 390 | 107 | Megan Stanley |
+| 391 | 107 | Bouncy Blockbuilder |
 | 392 | 106 | Cheeky Setter |
 | 393 | 105 | Dapper Towerfit |
 | 394 | 105 | Snarky McFace |

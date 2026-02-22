@@ -324,10 +324,10 @@
 | 316 | 463 | Sue Leard |
 | 317 | 460 | Barbra Miller |
 | 318 | 460 | Cody Smith-Candelaria |
-| 319 | 459 | Doowop40 |
-| 320 | 459 | Brainy Smurf |
-| 321 | 454 | Casey Schumacher |
-| 322 | 454 | Nashu |
+| 319 | 459 | Brainy Smurf |
+| 320 | 459 | Doowop40 |
+| 321 | 454 | Nashu |
+| 322 | 454 | Casey Schumacher |
 | 323 | 454 | Blacc Blac |
 | 324 | 453 | Cozy Filler |
 | 325 | 453 | Rhonda Petro |
@@ -336,11 +336,11 @@
 | 328 | 451 | Melissa Kay Gibson |
 | 329 | 451 | Daphne Jordan |
 | 330 | 451 | Dylan Thomason |
-| 331 | 449 | Davetta Sanford |
-| 332 | 449 | Shelley Thornburgh Wright |
+| 331 | 449 | Shelley Thornburgh Wright |
+| 332 | 449 | Davetta Sanford |
 | 333 | 448 | Jojo Momma |
-| 334 | 447 | Lourisha |
-| 335 | 447 | Heather Schelkopf |
+| 334 | 447 | Heather Schelkopf |
+| 335 | 447 | Lourisha |
 | 336 | 445 | Mar Q Thomas |
 | 337 | 443 | Joseph Musick |
 | 338 | 442 | Leah |
@@ -577,8 +577,8 @@
 | 569 | 278 | Demeka Dangerous-kisses Johnson |
 | 570 | 277 | Anthony Mignacca |
 | 571 | 277 | Stephanie Lumanlan |
-| 572 | 277 | NickyBrooks |
-| 573 | 277 | Dapper Dasher |
+| 572 | 277 | Dapper Dasher |
+| 573 | 277 | NickyBrooks |
 | 574 | 276 | Lindsey Leigh |
 | 575 | 276 | Loony Basepiece |
 | 576 | 276 | Vonceial Boone |
@@ -598,8 +598,8 @@
 | 590 | 269 | Reece Smith |
 | 591 | 269 | Pocho Zavala |
 | 592 | 269 | Susan Arnburg |
-| 593 | 268 | Min |
-| 594 | 268 | Christina Wsn |
+| 593 | 268 | Christina Wsn |
+| 594 | 268 | Min |
 | 595 | 267 | Lauren Fitzgerald Thomas |
 | 596 | 267 | Kelsey Sullivan |
 | 597 | 266 | Jason Garnatz |

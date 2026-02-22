@@ -135,16 +135,16 @@
 | 127 | 201 | Melvin Baird |
 | 128 | 201 | Swanky Fitline |
 | 129 | 197 | Peachy Fall |
-| 130 | 196 | Jenna McGeorge |
-| 131 | 196 | Jeff Brian Gates |
+| 130 | 196 | Jeff Brian Gates |
+| 131 | 196 | Jenna McGeorge |
 | 132 | 194 | Zany Twisterfit |
 | 133 | 192 | Katherine Crane |
 | 134 | 192 | Shauna Havard |
 | 135 | 189 | Stacey Stano |
 | 136 | 189 | Calvin Dennis |
 | 137 | 187 | TheNeesh50 |
-| 138 | 185 | Malakai Darien Fox |
-| 139 | 185 | Andy Cabral |
+| 138 | 185 | Andy Cabral |
+| 139 | 185 | Malakai Darien Fox |
 | 140 | 184 | Justin Hannigan |
 | 141 | 181 | Klo |
 | 142 | 181 | Carter Jones |

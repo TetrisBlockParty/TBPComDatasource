@@ -201,8 +201,8 @@
 | 193 | 142 | Colleen Wise |
 | 194 | 141 | Dino |
 | 195 | 141 | Blaire Bruckoff |
-| 196 | 139 | Mel Hogan |
-| 197 | 139 | Flashy Rotator |
+| 196 | 139 | Flashy Rotator |
+| 197 | 139 | Mel Hogan |
 | 198 | 137 | Cody Gates |
 | 199 | 137 | Witty Builderfit |
 | 200 | 136 | Breanna Luna |
@@ -211,9 +211,9 @@
 | 203 | 135 | Guest |
 | 204 | 135 | Giddy Cascade |
 | 205 | 134 | Brave Wrecker |
-| 206 | 133 | LD1 |
+| 206 | 133 | Fmp |
 | 207 | 133 | Kimberly Garcia |
-| 208 | 133 | Fmp |
+| 208 | 133 | LD1 |
 | 209 | 132 | Layzietyme |
 | 210 | 131 | Uhog SF |
 | 211 | 130 | Gilbert Ortiz Jr. |
@@ -231,8 +231,8 @@
 | 223 | 119 | Tater |
 | 224 | 119 | Strig |
 | 225 | 119 | Desiree Deschaine Havee |
-| 226 | 118 | Jacob Shaddock |
-| 227 | 118 | Jessi Sauer |
+| 226 | 118 | Jessi Sauer |
+| 227 | 118 | Jacob Shaddock |
 | 228 | 117 | Chantelle Ceno |
 | 229 | 116 | MomMom |
 | 230 | 116 | Jessica Russell |
