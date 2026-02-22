@@ -175,8 +175,8 @@
 | 167 | 188 | Andria Lynn |
 | 168 | 186 | Holly |
 | 169 | 185 | Lori |
-| 170 | 185 | Andy Cabral |
-| 171 | 185 | Diana Houts |
+| 170 | 185 | Diana Houts |
+| 171 | 185 | Andy Cabral |
 | 172 | 184 | Ak Jones |
 | 173 | 183 | Chance Strickland |
 | 174 | 181 | Alan George LaRage |
@@ -274,8 +274,8 @@
 | 266 | 125 | Lush Linkfall |
 | 267 | 125 | KimoKoala |
 | 268 | 124 | Sam Middleton |
-| 269 | 123 | Joseph Edmonson |
-| 270 | 123 | Sandra Safford |
+| 269 | 123 | Sandra Safford |
+| 270 | 123 | Joseph Edmonson |
 | 271 | 121 | Joseph Pace |
 | 272 | 120 | Bryan Hodgins |
 | 273 | 120 | Porkobello |
@@ -297,8 +297,8 @@
 | 289 | 115 | Jayk |
 | 290 | 115 | Alexandra Karavias |
 | 291 | 114 | Christina Black |
-| 292 | 113 | Adam Randall |
-| 293 | 113 | Dandy Cascadefit |
+| 292 | 113 | Dandy Cascadefit |
+| 293 | 113 | Adam Randall |
 | 294 | 112 | Chris Alexinas |
 | 295 | 111 | Ellen Durfee |
 | 296 | 111 | Zocko Ellet |
@@ -356,8 +356,8 @@
 | 348 | 96 | Sammy Noguera |
 | 349 | 96 | JPW |
 | 350 | 96 | Rebecca Blake |
-| 351 | 95 | Tina Martinez |
-| 352 | 95 | Jobadia Steelerton |
+| 351 | 95 | Jobadia Steelerton |
+| 352 | 95 | Tina Martinez |
 | 353 | 95 | Chirpy Slammer |
 | 354 | 94 | DonMega |
 | 355 | 93 | Matt Gooder |

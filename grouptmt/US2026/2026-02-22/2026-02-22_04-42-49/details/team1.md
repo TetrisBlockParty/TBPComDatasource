@@ -73,8 +73,8 @@
 | 65 | 430 | Nancy Green |
 | 66 | 428 | Stephanie Zahn |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Anaid Sanchez |
-| 69 | 412 | Jazzy Framezone |
+| 68 | 412 | Jazzy Framezone |
+| 69 | 412 | Anaid Sanchez |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
@@ -130,8 +130,8 @@
 | 122 | 263 | Jason Jones |
 | 123 | 263 | Sharon Reynolds |
 | 124 | 256 | David Miller |
-| 125 | 252 | Elaine Elaine |
-| 126 | 252 | Dena Kayy |
+| 125 | 252 | Dena Kayy |
+| 126 | 252 | Elaine Elaine |
 | 127 | 249 | Kimmie Kimms |
 | 128 | 247 | Tana |
 | 129 | 243 | Chelsea Dahlquist |
@@ -184,11 +184,11 @@
 | 176 | 186 | Margo Wagner |
 | 177 | 180 | BigWeenie69 |
 | 178 | 180 | Erez Yosef |
-| 179 | 179 | femmefatale |
-| 180 | 179 | Danielle Little-Daugherty |
+| 179 | 179 | Danielle Little-Daugherty |
+| 180 | 179 | femmefatale |
 | 181 | 178 | Chad Atchley |
-| 182 | 177 | Jacqueline Unique |
-| 183 | 177 | Irual Hctrab |
+| 182 | 177 | Irual Hctrab |
+| 183 | 177 | Jacqueline Unique |
 | 184 | 176 | Mel Hogan |
 | 185 | 175 | John Barron |
 | 186 | 174 | Cheeky Pop |

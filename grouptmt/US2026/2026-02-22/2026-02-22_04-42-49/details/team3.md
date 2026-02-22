@@ -48,8 +48,8 @@
 | 40 | 1015 | Amber Jones |
 | 41 | 1012 | Danielle Cutler |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 935 | Snappy Fitzone |
 | 47 | 931 | Fancy Slam |
@@ -131,8 +131,8 @@
 | 123 | 416 | Mary Pellegrino |
 | 124 | 415 | ren |
 | 125 | 411 | FuzzyNavel |
-| 126 | 410 | Stephanie Simpson |
-| 127 | 410 | Stephanie Blkpep Davidson |
+| 126 | 410 | Stephanie Blkpep Davidson |
+| 127 | 410 | Stephanie Simpson |
 | 128 | 409 | Karon Griffin |
 | 129 | 407 | Joye Sims Binion |
 | 130 | 405 | Michelle |
@@ -162,8 +162,8 @@
 | 154 | 365 | Logan Naccarato |
 | 155 | 359 | Dapper Snap |
 | 156 | 355 | Tessina Dewey-Mancino |
-| 157 | 353 | Shunta Jacobs |
-| 158 | 353 | CeceGeGe |
+| 157 | 353 | CeceGeGe |
+| 158 | 353 | Shunta Jacobs |
 | 159 | 352 | Chris Bell |
 | 160 | 350 | Darlene McMillan |
 | 161 | 348 | Chasity |
