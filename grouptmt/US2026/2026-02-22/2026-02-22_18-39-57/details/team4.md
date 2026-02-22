@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 671 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -130,8 +130,8 @@
 | 122 | 373 | Joseph Guthrie |
 | 123 | 369 | Nope Young |
 | 124 | 356 | Serena Goodridge |
-| 125 | 353 | Livvy |
-| 126 | 353 | Tyler Terrific |
+| 125 | 353 | Tyler Terrific |
+| 126 | 353 | Livvy |
 | 127 | 344 | Lush Linkfall |
 | 128 | 343 | Latisha Davis |
 | 129 | 338 | Lucas J Sutton |
@@ -142,8 +142,8 @@
 | 134 | 332 | HastyGrabber |
 | 135 | 331 | Jessica Bohlken |
 | 136 | 330 | David Lay |
-| 137 | 328 | Kris Bartlett |
-| 138 | 328 | Leslie Nicole |
+| 137 | 328 | Leslie Nicole |
+| 138 | 328 | Kris Bartlett |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -218,8 +218,8 @@
 | 210 | 227 | Kim Hunt |
 | 211 | 226 | Zesty Twistbuilder |
 | 212 | 225 | Perky Patternblock |
-| 213 | 221 | PurpleMoonMa |
-| 214 | 221 | Rheanda Weaskus |
+| 213 | 221 | Rheanda Weaskus |
+| 214 | 221 | PurpleMoonMa |
 | 215 | 221 | Kim Klutz Olson |
 | 216 | 220 | Michele Plunkett |
 | 217 | 219 | Malakai Darien Fox |
@@ -255,8 +255,8 @@
 | 247 | 198 | Silly SeaWeed |
 | 248 | 198 | Calvin Dennis |
 | 249 | 197 | Gilles Lanctot |
-| 250 | 195 | 中山成巳 |
-| 251 | 195 | Snippy Puzzle |
+| 250 | 195 | Snippy Puzzle |
+| 251 | 195 | 中山成巳 |
 | 252 | 194 | Zany Twisterfit |
 | 253 | 192 | Stephme310 |
 | 254 | 192 | Andrew Dang |
@@ -269,8 +269,8 @@
 | 261 | 185 | Laura Hosford |
 | 262 | 184 | Matt Gooder |
 | 263 | 184 | Lauren Lamb |
-| 264 | 183 | Nubian1 |
-| 265 | 183 | Twisty Risebuilder |
+| 264 | 183 | Twisty Risebuilder |
+| 265 | 183 | Nubian1 |
 | 266 | 182 | TinyLegoRose |
 | 267 | 181 | Carter Jones |
 | 268 | 181 | Jackie Marie |
@@ -374,8 +374,8 @@
 | 366 | 136 | Jen Hallin |
 | 367 | 136 | Michelle Morris |
 | 368 | 135 | Joshua Guess |
-| 369 | 134 | Kristin MacDonald |
-| 370 | 134 | Hyper Builder |
+| 369 | 134 | Hyper Builder |
+| 370 | 134 | Kristin MacDonald |
 | 371 | 133 | Berklie Apedaile |
 | 372 | 133 | Jesus Garcia |
 | 373 | 132 | Degenerate |

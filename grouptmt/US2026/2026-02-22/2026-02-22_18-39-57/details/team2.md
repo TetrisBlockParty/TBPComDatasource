@@ -777,8 +777,8 @@
 | 769 | 344 | Mary Boss |
 | 770 | 344 | Glenn Cobbins |
 | 771 | 343 | Sabrena Yeisley |
-| 772 | 343 | Snappy Shatterfit |
-| 773 | 343 | bru |
+| 772 | 343 | bru |
+| 773 | 343 | Snappy Shatterfit |
 | 774 | 342 | Danielle DeLozier Plesec |
 | 775 | 342 | Christy Green |
 | 776 | 341 | Robin L. Vial |

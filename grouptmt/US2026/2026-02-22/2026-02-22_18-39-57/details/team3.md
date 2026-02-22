@@ -138,8 +138,8 @@
 | 130 | 526 | Cynthia Castros-Hampton |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -439,9 +439,9 @@
 | 431 | 170 | Melissa Snyder |
 | 432 | 169 | Stella |
 | 433 | 169 | Peachy Rollfit |
-| 434 | 168 | Trice Thomas |
+| 434 | 168 | Snarky McFace |
 | 435 | 168 | Glitzy Rotate |
-| 436 | 168 | Snarky McFace |
+| 436 | 168 | Trice Thomas |
 | 437 | 167 | Irene Arreguin |
 | 438 | 167 | Boldy Blocker |
 | 439 | 167 | Shicken Nuggit |
