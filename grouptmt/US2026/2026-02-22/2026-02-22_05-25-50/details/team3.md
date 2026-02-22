@@ -85,8 +85,8 @@
 | 77 | 628 | Tiff Vs Tiffany |
 | 78 | 626 | mjl574 |
 | 79 | 621 | Cherry Parker |
-| 80 | 618 | Brandon Green |
-| 81 | 618 | Katrina Schroeder |
+| 80 | 618 | Katrina Schroeder |
+| 81 | 618 | Brandon Green |
 | 82 | 613 | Amber Hughes |
 | 83 | 608 | Danielle Becker |
 | 84 | 591 | Jesse Olive |

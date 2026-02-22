@@ -120,9 +120,9 @@
 | 112 | 286 | Daria Rycewicz |
 | 113 | 284 | shark tato |
 | 114 | 278 | Carrie Brian |
-| 115 | 277 | Scott Jameson |
-| 116 | 277 | KJ Pool |
-| 117 | 277 | Mary Ann Pabukis |
+| 115 | 277 | KJ Pool |
+| 116 | 277 | Mary Ann Pabukis |
+| 117 | 277 | Scott Jameson |
 | 118 | 275 | Dizzy Tiley |
 | 119 | 274 | Desi Desporte |
 | 120 | 271 | Sarah Brown |
