@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -93,8 +93,8 @@
 | 85 | 510 | Dave Herzog |
 | 86 | 507 | Jennifer Petrie |
 | 87 | 506 | Sashay Tapae Simpson |
-| 88 | 503 | Nate Burnside |
-| 89 | 503 | Susan Valentino |
+| 88 | 503 | Susan Valentino |
+| 89 | 503 | Nate Burnside |
 | 90 | 502 | Justin Ritter |
 | 91 | 501 | Jessica Bechler |
 | 92 | 493 | Mandy Smith Oldham |
@@ -110,8 +110,8 @@
 | 102 | 445 | Kristie McFarland |
 | 103 | 438 | Bea Miles |
 | 104 | 430 | Patricia White |
-| 105 | 428 | Betty Ivy |
-| 106 | 428 | Elissa S-k |
+| 105 | 428 | Elissa S-k |
+| 106 | 428 | Betty Ivy |
 | 107 | 416 | Mary Pellegrino |
 | 108 | 410 | Stephanie Simpson |
 | 109 | 403 | Christine Filson |
@@ -131,8 +131,8 @@
 | 123 | 378 | Tasha Gillespie |
 | 124 | 378 | Tasha Schriewer |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Blkpep Davidson |
-| 127 | 368 | Stephanie Woods |
+| 126 | 368 | Stephanie Woods |
+| 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
 | 130 | 365 | Logan Naccarato |
@@ -228,13 +228,13 @@
 | 220 | 200 | Connie Mohler-Fair |
 | 221 | 200 | glichmod |
 | 222 | 198 | Rebel124 |
-| 223 | 197 | Staci George Fitzsimmons |
-| 224 | 197 | Angie Harper |
+| 223 | 197 | Angie Harper |
+| 224 | 197 | Staci George Fitzsimmons |
 | 225 | 195 | Nicha Hooker |
 | 226 | 194 | Raven Dudley |
 | 227 | 194 | Nora Rogers |
-| 228 | 193 | Stephanie Burtin |
-| 229 | 193 | Clever Shiftsnap |
+| 228 | 193 | Clever Shiftsnap |
+| 229 | 193 | Stephanie Burtin |
 | 230 | 193 | Hyper Matchzone |
 | 231 | 192 | Kelly Ann Child |
 | 232 | 191 | Scott Carleton |

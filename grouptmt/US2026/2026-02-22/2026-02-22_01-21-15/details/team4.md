@@ -84,8 +84,8 @@
 | 76 | 370 | Leslie Thomas |
 | 77 | 369 | Nope Young |
 | 78 | 359 | Jamie Mann-Deichmann |
-| 79 | 358 | Shane Kalamata Platoon |
-| 80 | 358 | Nugget |
+| 79 | 358 | Nugget |
+| 80 | 358 | Shane Kalamata Platoon |
 | 81 | 331 | Robin Getchel |
 | 82 | 319 | Livvy |
 | 83 | 318 | Amy Suckarieh |
@@ -275,8 +275,8 @@
 | 267 | 106 | Brandi Durig |
 | 268 | 106 | Zappy Snaplink |
 | 269 | 105 | Kim Hunt |
-| 270 | 104 | Cheery Risebuilder |
-| 271 | 104 | mike |
+| 270 | 104 | mike |
+| 271 | 104 | Cheery Risebuilder |
 | 272 | 103 | Paige Kittles |
 | 273 | 103 | Richard-April Kice |
 | 274 | 102 | Jumpy Zonepiece |
@@ -894,7 +894,7 @@
 | 886 | 25 | Zołza 😈 |
 | 887 | 25 | Seraphim |
 | 888 | 25 | Lisa Bush |
-| 889 | 25 | Zappy Piecefit |
+| 889 | 25 | Aleshia Harrity |
 | 890 | 25 | AnitaMann |
 | 891 | 25 | Zappy Piecefit |
 | 892 | 25 | Ashley Ingram |

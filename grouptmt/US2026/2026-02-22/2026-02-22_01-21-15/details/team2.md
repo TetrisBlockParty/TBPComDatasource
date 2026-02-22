@@ -167,10 +167,10 @@
 | 159 | 826 | Cindy Sechler Taninecz |
 | 160 | 815 | Moni Foxe |
 | 161 | 815 | Chirpy Staggerpiece |
-| 162 | 811 | James Simms III |
-| 163 | 811 | Rebecca Doughman |
-| 164 | 808 | Missie Lawson Gebhardt |
-| 165 | 808 | John Bednarik |
+| 162 | 811 | Rebecca Doughman |
+| 163 | 811 | James Simms III |
+| 164 | 808 | John Bednarik |
+| 165 | 808 | Missie Lawson Gebhardt |
 | 166 | 807 | Khalil Lowe |
 | 167 | 805 | Robin Kerby |
 | 168 | 804 | Cozy Filler |
@@ -264,8 +264,8 @@
 | 256 | 583 | Jessicah Myers |
 | 257 | 583 | Steve Grotto |
 | 258 | 582 | Gary Stash |
-| 259 | 579 | Juliana Marques Do Nascimento Gordy |
-| 260 | 579 | Roy Salyer |
+| 259 | 579 | Roy Salyer |
+| 260 | 579 | Juliana Marques Do Nascimento Gordy |
 | 261 | 578 | Sally Dennis |
 | 262 | 576 | Ginger |
 | 263 | 573 | Shavonna Haynes |
@@ -323,8 +323,8 @@
 | 315 | 480 | Dar |
 | 316 | 478 | Ashley Collins |
 | 317 | 474 | Calandra Shaya Robinson |
-| 318 | 471 | Rae Rae |
-| 319 | 471 | Maya June |
+| 318 | 471 | Maya June |
+| 319 | 471 | Rae Rae |
 | 320 | 470 | Jerry Tempelmeyer |
 | 321 | 469 | Jai Jackson |
 | 322 | 469 | Ashley Rose Frederick |
@@ -351,8 +351,8 @@
 | 343 | 451 | Funky Caster |
 | 344 | 451 | Cody Nishimura |
 | 345 | 451 | Dylan Thomason |
-| 346 | 449 | Shelley Thornburgh Wright |
-| 347 | 449 | Davetta Sanford |
+| 346 | 449 | Davetta Sanford |
+| 347 | 449 | Shelley Thornburgh Wright |
 | 348 | 448 | Jojo Momma |
 | 349 | 447 | Heather Schelkopf |
 | 350 | 447 | Lourisha |
