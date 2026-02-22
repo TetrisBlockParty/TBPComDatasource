@@ -47,8 +47,8 @@
 | 39 | 1015 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
-| 42 | 989 | Joey Banks |
-| 43 | 989 | Kay |
+| 42 | 989 | Kay |
+| 43 | 989 | Joey Banks |
 | 44 | 954 | Stephanie Rice |
 | 45 | 935 | Snappy Fitzone |
 | 46 | 931 | Fancy Slam |
@@ -128,16 +128,16 @@
 | 120 | 410 | Stephanie Simpson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
-| 123 | 403 | Christine Filson |
-| 124 | 403 | Scott Lindsay |
+| 123 | 403 | Scott Lindsay |
+| 124 | 403 | Christine Filson |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
 | 127 | 399 | Mcathen |
 | 128 | 399 | ren |
 | 129 | 399 | Patti Skiles |
 | 130 | 397 | Annie Déè |
-| 131 | 392 | Tasha Gillespie |
-| 132 | 392 | Katie Knaus |
+| 131 | 392 | Katie Knaus |
+| 132 | 392 | Tasha Gillespie |
 | 133 | 391 | Calista Jo Dickson |
 | 134 | 390 | Hasty Cascadefit |
 | 135 | 378 | Makelini Mausia |
@@ -215,8 +215,8 @@
 | 207 | 249 | Annie Marie |
 | 208 | 249 | JerseyJess |
 | 209 | 247 | Rebecca Funderburk Kirby |
-| 210 | 246 | Eon Harris |
-| 211 | 246 | Rochelle Hazelett |
+| 210 | 246 | Rochelle Hazelett |
+| 211 | 246 | Eon Harris |
 | 212 | 246 | Peppy Shifter |
 | 213 | 245 | Latoya Mayne |
 | 214 | 241 | Lauren Girouard |
@@ -330,8 +330,8 @@
 | 322 | 152 | LaTanya GeminiondaRise Johnson |
 | 323 | 152 | Shiny Zonebuilder |
 | 324 | 152 | Goofy Fall |
-| 325 | 151 | El Chapa |
-| 326 | 151 | Rainbow77375 |
+| 325 | 151 | Rainbow77375 |
+| 326 | 151 | El Chapa |
 | 327 | 150 | Gumbo |
 | 328 | 149 | Ava Petito |
 | 329 | 149 | Angel Mendez |
@@ -349,8 +349,8 @@
 | 341 | 142 | Joy Petroski |
 | 342 | 142 | Jl |
 | 343 | 142 | Gray Hicks |
-| 344 | 141 | Weerae |
-| 345 | 141 | Melissa Snyder |
+| 344 | 141 | Melissa Snyder |
+| 345 | 141 | Weerae |
 | 346 | 140 | Linda Draper |
 | 347 | 139 | Paula Little |
 | 348 | 138 | Skinny Baldez |

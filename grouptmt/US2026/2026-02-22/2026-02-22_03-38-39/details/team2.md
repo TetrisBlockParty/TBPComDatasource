@@ -215,8 +215,8 @@
 | 207 | 763 | Samantha Jo |
 | 208 | 759 | Lisa Ongtowasruk |
 | 209 | 756 | Stephanie Neuburger |
-| 210 | 755 | Katrina Weston |
-| 211 | 755 | Ashley House |
+| 210 | 755 | Ashley House |
+| 211 | 755 | Katrina Weston |
 | 212 | 753 | SaraMarie Eveland |
 | 213 | 751 | Loony Snapper |
 | 214 | 749 | Debra Williams |
@@ -458,8 +458,8 @@
 | 450 | 396 | Stefanie Zonzini-Gagliardi |
 | 451 | 394 | Taryece Gause |
 | 452 | 393 | Ryan Meilleur |
-| 453 | 393 | Jamie West |
-| 454 | 393 | Hillary Crawford |
+| 453 | 393 | Hillary Crawford |
+| 454 | 393 | Jamie West |
 | 455 | 392 | Christine Bollig |
 | 456 | 391 | Cleo Sims |
 | 457 | 391 | Qiana Sanders |
@@ -479,7 +479,7 @@
 | 471 | 382 | KhaosLord |
 | 472 | 382 | David Holliday |
 | 473 | 381 | Melissa Rebbe-Lehman |
-| 474 | 381 | Jessica S Flecha |
+| 474 | 381 | Bubbly Snapfit |
 | 475 | 381 | Moist_B-hole |
 | 476 | 381 | Jessica S Flecha |
 | 477 | 378 | TF Dyer |
@@ -516,8 +516,8 @@
 | 508 | 362 | KayLynn Ogden McClelland |
 | 509 | 362 | Tracy Wise |
 | 510 | 362 | Jennifer Scott |
-| 511 | 360 | Jroc |
-| 512 | 360 | Juan Castillo |
+| 511 | 360 | Juan Castillo |
+| 512 | 360 | Jroc |
 | 513 | 359 | Cheyenne Donovan |
 | 514 | 358 | Alyssaaelena |
 | 515 | 358 | Sydney Busse |
@@ -979,7 +979,7 @@
 | 971 | 188 | Kii |
 | 972 | 188 | Tammie Siegfried |
 | 973 | 188 | Goofy Blockfall |
-| 974 | 188 | Big Daddy 70 |
+| 974 | 188 | Dane Reing |
 | 975 | 188 | Lively Catcher |
 | 976 | 188 | Big Daddy 70 |
 | 977 | 187 | Kiely Tomaskovich |
@@ -990,8 +990,8 @@
 | 982 | 187 | Allyson Marra |
 | 983 | 187 | Eddie Perez |
 | 984 | 187 | Trevor Jordan |
-| 985 | 187 | Lively Piecefit |
-| 986 | 187 | Hoppy Patternbuilder |
+| 985 | 187 | Hoppy Patternbuilder |
+| 986 | 187 | Lively Piecefit |
 | 987 | 187 | Brandon McDonald |
 | 988 | 186 | Bette Prieto |
 | 989 | 186 | Jamie Dayton |
