@@ -194,8 +194,8 @@
 | 186 | 347 | Jone |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -208,8 +208,8 @@
 | 200 | 311 | Rochelle Hazelett |
 | 201 | 311 | Araceli Parra |
 | 202 | 310 | Danielle Balcom |
-| 203 | 308 | Rania Zaqout |
-| 204 | 308 | Daryn Elliott |
+| 203 | 308 | Daryn Elliott |
+| 204 | 308 | Rania Zaqout |
 | 205 | 307 | rnr junky |
 | 206 | 307 | Blocked |
 | 207 | 304 | Sissy Lowery Davis |
@@ -314,8 +314,8 @@
 | 306 | 203 | Angie Harper |
 | 307 | 202 | Tipsy Zonebuilder |
 | 308 | 202 | Staci George Fitzsimmons |
-| 309 | 201 | Alexmac |
-| 310 | 201 | Hyper Matchzone |
+| 309 | 201 | Hyper Matchzone |
+| 310 | 201 | Alexmac |
 | 311 | 200 | Sharisse Baltimore |
 | 312 | 200 | glichmod |
 | 313 | 200 | Saucy Buildout |
@@ -347,8 +347,8 @@
 | 339 | 178 | Jess Dearborn |
 | 340 | 178 | Jennifer Alvey |
 | 341 | 177 | Kristin Delibac Corrigan |
-| 342 | 176 | Melissa Orth Hunter |
-| 343 | 176 | Emma |
+| 342 | 176 | Emma |
+| 343 | 176 | Melissa Orth Hunter |
 | 344 | 175 | Eileen Brady Thurber |
 | 345 | 174 | Lesley Perez |
 | 346 | 173 | Naur |
@@ -369,8 +369,8 @@
 | 361 | 165 | Rainbow77375 |
 | 362 | 164 | Ashley Rufus Bythcez |
 | 363 | 164 | momo |
-| 364 | 163 | Diana Ibarra |
-| 365 | 163 | Christine Trester |
+| 364 | 163 | Christine Trester |
+| 365 | 163 | Diana Ibarra |
 | 366 | 163 | Ava Petito |
 | 367 | 162 | Eric Caccavale |
 | 368 | 162 | Loopy Fallzone |

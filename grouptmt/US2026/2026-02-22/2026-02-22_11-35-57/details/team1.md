@@ -126,8 +126,8 @@
 | 118 | 316 | Jennifer Hardman |
 | 119 | 316 | Ly Phethmany |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Seth Wesson |
-| 122 | 310 | Jason Jones |
+| 121 | 310 | Jason Jones |
+| 122 | 310 | Seth Wesson |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -147,11 +147,11 @@
 | 139 | 270 | Mandyy Rae |
 | 140 | 270 | Ash Galvan |
 | 141 | 268 | GATOR |
-| 142 | 265 | Nutty Spinblock |
-| 143 | 265 | SkipTheSadSauce |
-| 144 | 264 | Brian Richardsson |
+| 142 | 265 | SkipTheSadSauce |
+| 143 | 265 | Nutty Spinblock |
+| 144 | 264 | Lexuriuos Lifestlye |
 | 145 | 264 | Jenny Gingrich Fuentes |
-| 146 | 264 | Lexuriuos Lifestlye |
+| 146 | 264 | Brian Richardsson |
 | 147 | 263 | Sharon Reynolds |
 | 148 | 258 | Virginia Gray Floyd |
 | 149 | 257 | Amanda Jarnagin |
@@ -232,8 +232,8 @@
 | 224 | 183 | Amy Hess |
 | 225 | 183 | Andrew Boone |
 | 226 | 182 | Phu ckalldems |
-| 227 | 180 | BigWeenie69 |
-| 228 | 180 | Beau Galvan |
+| 227 | 180 | Beau Galvan |
+| 228 | 180 | BigWeenie69 |
 | 229 | 180 | Jessie Lynn |
 | 230 | 179 | Danielle Little-Daugherty |
 | 231 | 179 | Erin Rosberg |
@@ -270,8 +270,8 @@
 | 262 | 160 | Tedashi |
 | 263 | 159 | Uhog SF |
 | 264 | 159 | Amber Dee |
-| 265 | 156 | Spunky Builderpiece |
-| 266 | 156 | Mark Smith |
+| 265 | 156 | Mark Smith |
+| 266 | 156 | Spunky Builderpiece |
 | 267 | 155 | Barry Mac'Ockner |
 | 268 | 154 | Gary Gobin |
 | 269 | 154 | Melissa Lemmon |
@@ -300,9 +300,9 @@
 | 292 | 142 | Plucky Stacky |
 | 293 | 142 | Jerry Danowski |
 | 294 | 141 | Kayla Marie Stevenson |
-| 295 | 139 | LD1 |
-| 296 | 139 | Aimee Horton |
-| 297 | 138 | Ruthie Mahoney Saunders-Browne |
+| 295 | 139 | Aimee Horton |
+| 296 | 139 | LD1 |
+| 297 | 138 | Hector Cruz |
 | 298 | 138 | Giddy Cascade |
 | 299 | 138 | Ruthie Mahoney Saunders-Browne |
 | 300 | 137 | Jo Kerley |
@@ -345,12 +345,12 @@
 | 337 | 121 | Jacob Shaddock |
 | 338 | 120 | Shiny Rotate |
 | 339 | 119 | Joe Coon |
-| 340 | 118 | Kerry Lee Powell |
-| 341 | 118 | Snappy Brickbuilder |
+| 340 | 118 | Snappy Brickbuilder |
+| 341 | 118 | Kerry Lee Powell |
 | 342 | 118 | Garcia Bailey |
 | 343 | 117 | Beazel75 |
-| 344 | 117 | Bob |
-| 345 | 117 | Brad MG |
+| 344 | 117 | Brad MG |
+| 345 | 117 | Bob |
 | 346 | 116 | Mary Love |
 | 347 | 116 | Fresno Beotoni |
 | 348 | 115 | Brave Slice |

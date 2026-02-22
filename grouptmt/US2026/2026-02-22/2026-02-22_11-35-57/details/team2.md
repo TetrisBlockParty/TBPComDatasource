@@ -389,8 +389,8 @@
 | 381 | 544 | Deidre Shaffer |
 | 382 | 544 | Leah Keesling |
 | 383 | 543 | Irene Jones |
-| 384 | 543 | Julie Kresal |
-| 385 | 543 | Vanessa Moreno |
+| 384 | 543 | Vanessa Moreno |
+| 385 | 543 | Julie Kresal |
 | 386 | 541 | g |
 | 387 | 540 | Dizzy Zone |
 | 388 | 538 | AISlop |
@@ -485,8 +485,8 @@
 | 477 | 463 | Cody Nishimura |
 | 478 | 463 | Jaye EL Hunter |
 | 479 | 462 | Jarboe |
-| 480 | 462 | Daphne Jordan |
-| 481 | 462 | Amanda Ferrell |
+| 480 | 462 | Amanda Ferrell |
+| 481 | 462 | Daphne Jordan |
 | 482 | 460 | Tara Lynn Janes |
 | 483 | 459 | Melissa Kay Gibson |
 | 484 | 458 | Casper The Chonk |
@@ -507,8 +507,8 @@
 | 499 | 444 | Ryan Meilleur |
 | 500 | 442 | Leah |
 | 501 | 442 | Darlene Bowman |
-| 502 | 440 | Sarah Berger |
-| 503 | 440 | Liberty |
+| 502 | 440 | Liberty |
+| 503 | 440 | Sarah Berger |
 | 504 | 438 | Kristi Biddinger |
 | 505 | 438 | Johnny Yeates |
 | 506 | 437 | Bubbly Snapfit |
@@ -553,8 +553,8 @@
 | 545 | 413 | Fancy Twister |
 | 546 | 413 | Biggest thing |
 | 547 | 412 | Jason H Baker |
-| 548 | 411 | Kristen O'Neal |
-| 549 | 411 | Mighty Spinbuilder |
+| 548 | 411 | Mighty Spinbuilder |
+| 549 | 411 | Kristen O'Neal |
 | 550 | 410 | Nicole Cannon |
 | 551 | 408 | Abimbola Bimbo |
 | 552 | 408 | Stefanie Zonzini-Gagliardi |
@@ -656,8 +656,8 @@
 | 648 | 357 | Shannon Byrd |
 | 649 | 357 | Tristan Szolek |
 | 650 | 355 | Amanda Perez |
-| 651 | 354 | Rachel Kaminski |
-| 652 | 354 | Rickey Johnson |
+| 651 | 354 | Rickey Johnson |
+| 652 | 354 | Rachel Kaminski |
 | 653 | 352 | Rose Fx |
 | 654 | 352 | Jean FU Jagielski |
 | 655 | 352 | ruth |
@@ -991,8 +991,8 @@
 | 983 | 233 | Andrew Engman |
 | 984 | 232 | Chirpy Snapper |
 | 985 | 232 | P. D. Paige |
-| 986 | 231 | Vung Nguyen |
-| 987 | 231 | Michelle Fleming Luna |
+| 986 | 231 | Michelle Fleming Luna |
+| 987 | 231 | Vung Nguyen |
 | 988 | 231 | Stanley Vanekelenburg |
 | 989 | 231 | Emily Valentine |
 | 990 | 230 | lady |

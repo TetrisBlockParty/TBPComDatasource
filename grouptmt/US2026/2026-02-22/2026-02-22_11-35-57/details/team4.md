@@ -190,8 +190,8 @@
 | 182 | 204 | Carlos Ramirez |
 | 183 | 203 | Katherine Crane |
 | 184 | 202 | TRCuse |
-| 185 | 201 | Melvin Baird |
-| 186 | 201 | Chance Strickland |
+| 185 | 201 | Chance Strickland |
+| 186 | 201 | Melvin Baird |
 | 187 | 200 | Laura |
 | 188 | 198 | Keith Kelley |
 | 189 | 198 | Ruben Wheeler |
@@ -266,8 +266,8 @@
 | 258 | 147 | Jay28 |
 | 259 | 147 | Jared Gutwein |
 | 260 | 146 | Dizzy Matchzone |
-| 261 | 145 | Sandra Safford |
-| 262 | 145 | Mimi |
+| 261 | 145 | Mimi |
+| 262 | 145 | Sandra Safford |
 | 263 | 144 | Sticherella |
 | 264 | 143 | Dennis Bradley |
 | 265 | 143 | Lauren Lamb |
