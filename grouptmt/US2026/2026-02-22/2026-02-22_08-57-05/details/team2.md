@@ -132,8 +132,8 @@
 | 124 | 1273 | Cool Rollpiece |
 | 125 | 1257 | Eileen Hale |
 | 126 | 1252 | Katrina Williams Balmir |
-| 127 | 1248 | Isabela Shaw |
-| 128 | 1248 | Howard Forest |
+| 127 | 1248 | Howard Forest |
+| 128 | 1248 | Isabela Shaw |
 | 129 | 1242 | Altamirano Michael |
 | 130 | 1237 | L3sli3 |
 | 131 | 1232 | Groovy Puzzle |
@@ -246,8 +246,8 @@
 | 238 | 777 | Barbra Miller |
 | 239 | 777 | Tesha Oldaker |
 | 240 | 772 | Stephen Stephen |
-| 241 | 772 | Sam Joe |
-| 242 | 772 | William Hunt |
+| 241 | 772 | William Hunt |
+| 242 | 772 | Sam Joe |
 | 243 | 771 | Terri McKelvey McKinley |
 | 244 | 769 | Adira Brown |
 | 245 | 767 | Jessica Wayne Cornwall |
@@ -280,8 +280,8 @@
 | 272 | 703 | Gold Rose |
 | 273 | 700 | Hong Tang |
 | 274 | 700 | Vincent Petrella |
-| 275 | 700 | Rosemadder |
-| 276 | 700 | Beverly Owens |
+| 275 | 700 | Beverly Owens |
+| 276 | 700 | Rosemadder |
 | 277 | 698 | Mighty Shatterfit |
 | 278 | 697 | Dreamy Blast |
 | 279 | 692 | Jennifer Casey-Kay |
@@ -305,8 +305,8 @@
 | 297 | 670 | Kassandra Hunt |
 | 298 | 669 | Charvi' Carter |
 | 299 | 666 | Speedy Spinblock |
-| 300 | 663 | Ashle Scranton |
-| 301 | 663 | Mandi Douglas Hilt |
+| 300 | 663 | Mandi Douglas Hilt |
+| 301 | 663 | Ashle Scranton |
 | 302 | 661 | Ginger |
 | 303 | 659 | Draizen Montrell Thomas |
 | 304 | 659 | Roseanna Peloso |
@@ -316,8 +316,8 @@
 | 308 | 650 | Shiny Rollzone |
 | 309 | 645 | tejas25 |
 | 310 | 643 | Hoppy Brickmatch |
-| 311 | 641 | Joce Lynn |
-| 312 | 641 | Angie Bolton Workman |
+| 311 | 641 | Angie Bolton Workman |
+| 312 | 641 | Joce Lynn |
 | 313 | 640 | BYM4L |
 | 314 | 639 | Crystie Hicks |
 | 315 | 639 | Rebecca Miller |
@@ -783,8 +783,8 @@
 | 775 | 281 | Anthony |
 | 776 | 280 | Danielle DeLozier Plesec |
 | 777 | 280 | Reece Smith |
-| 778 | 280 | Belle |
-| 779 | 280 | Sandra Link-Gable |
+| 778 | 280 | Sandra Link-Gable |
+| 779 | 280 | Belle |
 | 780 | 280 | Luke Califf |
 | 781 | 279 | Laura Wyatt |
 | 782 | 279 | Loony Basepiece |

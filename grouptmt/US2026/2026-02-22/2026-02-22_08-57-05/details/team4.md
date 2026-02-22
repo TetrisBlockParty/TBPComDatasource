@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -94,8 +94,8 @@
 | 86 | 418 | Chastity Mitchell |
 | 87 | 416 | YoMomma |
 | 88 | 412 | Jenna Ingersoll |
-| 89 | 409 | Jolly Dashfit |
-| 90 | 409 | Isabella Blanco |
+| 89 | 409 | Isabella Blanco |
+| 90 | 409 | Jolly Dashfit |
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
@@ -124,14 +124,14 @@
 | 116 | 303 | Lauren Scott |
 | 117 | 300 | Jason Hart |
 | 118 | 298 | Lucas J Sutton |
-| 119 | 296 | Justin Hannigan |
-| 120 | 296 | HastyGrabber |
+| 119 | 296 | HastyGrabber |
+| 120 | 296 | Justin Hannigan |
 | 121 | 295 | Latisha Davis |
 | 122 | 294 | Kesha Brady |
 | 123 | 290 | 🥔🥔 Spudz |
 | 124 | 287 | Shannon Ferrari |
-| 125 | 286 | Daria Rycewicz |
-| 126 | 286 | shark tato |
+| 125 | 286 | shark tato |
+| 126 | 286 | Daria Rycewicz |
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 278 | Desi Desporte |
