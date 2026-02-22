@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Avy Absol |
-| 72 | 608 | Savannah Overdorf |
+| 71 | 608 | Savannah Overdorf |
+| 72 | 608 | Avy Absol |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -250,11 +250,11 @@
 | 242 | 189 | 030Synner |
 | 243 | 186 | Holly |
 | 244 | 185 | Laura Hosford |
-| 245 | 184 | Ak Jones |
-| 246 | 184 | Lauren Lamb |
+| 245 | 184 | Lauren Lamb |
+| 246 | 184 | Ak Jones |
 | 247 | 183 | JPW |
-| 248 | 181 | Jackie Marie |
-| 249 | 181 | Carter Jones |
+| 248 | 181 | Carter Jones |
+| 249 | 181 | Jackie Marie |
 | 250 | 180 | Orchislactea |
 | 251 | 179 | Stephme310 |
 | 252 | 179 | Christina Black |
@@ -281,8 +281,8 @@
 | 273 | 162 | conceptCollector |
 | 274 | 161 | Twisty Risebuilder |
 | 275 | 161 | Tanner Lund |
-| 276 | 159 | Marcus Todd |
-| 277 | 159 | DonMega |
+| 276 | 159 | DonMega |
+| 277 | 159 | Marcus Todd |
 | 278 | 158 | Adam Stephanie Parker |
 | 279 | 157 | KayM |
 | 280 | 157 | Paige Kittles |

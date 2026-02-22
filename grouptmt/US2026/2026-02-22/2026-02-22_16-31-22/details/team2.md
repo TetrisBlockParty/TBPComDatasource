@@ -106,16 +106,16 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Rob Riggin |
-| 102 | 1599 | Janel Turley-Garner |
+| 101 | 1599 | Janel Turley-Garner |
+| 102 | 1599 | Rob Riggin |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1562 | Loopy Clusterbuilder |
 | 106 | 1555 | blarg |
 | 107 | 1543 | Mr. Street Stack |
 | 108 | 1535 | Donnie Hunt |
-| 109 | 1516 | Stephen Stephen |
-| 110 | 1516 | Mindy Leigh Head |
+| 109 | 1516 | Mindy Leigh Head |
+| 110 | 1516 | Stephen Stephen |
 | 111 | 1513 | blackq |
 | 112 | 1509 | Whitney Nicole Waterman |
 | 113 | 1507 | Stephanie Chapman |
@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -215,8 +215,8 @@
 | 207 | 973 | Kim Dean |
 | 208 | 972 | Juliana Marques Do Nascimento Gordy |
 | 209 | 960 | Jennifer Kistner |
-| 210 | 957 | Block Master |
-| 211 | 957 | Keri Womack |
+| 210 | 957 | Keri Womack |
+| 211 | 957 | Block Master |
 | 212 | 957 | Crystal Hoffman |
 | 213 | 954 | Shannon Joslin |
 | 214 | 951 | Cynthia Ward |
@@ -321,8 +321,8 @@
 | 313 | 715 | Stephanie Lumanlan |
 | 314 | 713 | Chelle |
 | 315 | 711 | Melissa Holsinger |
-| 316 | 704 | Shelley Thornburgh Wright |
-| 317 | 704 | Jánine Riggs |
+| 316 | 704 | Jánine Riggs |
+| 317 | 704 | Shelley Thornburgh Wright |
 | 318 | 703 | Gold Rose |
 | 319 | 700 | Rosemadder |
 | 320 | 700 | Beverly Owens |
@@ -471,10 +471,10 @@
 | 463 | 514 | Karen Posadas Centeno |
 | 464 | 514 | Sarah Berger |
 | 465 | 512 | Leslie Jorgenson |
-| 466 | 511 | Laura Mclean |
-| 467 | 511 | Doowop40 |
-| 468 | 509 | Jordan Kaiser |
-| 469 | 509 | Kelli Wells |
+| 466 | 511 | Doowop40 |
+| 467 | 511 | Laura Mclean |
+| 468 | 509 | Kelli Wells |
+| 469 | 509 | Jordan Kaiser |
 | 470 | 507 | Kitybox |
 | 471 | 507 | Magic steve |
 | 472 | 501 | Ann Matzkanin |
@@ -486,15 +486,15 @@
 | 478 | 496 | Erika Densmore |
 | 479 | 495 | Bubbly Snapbuild |
 | 480 | 494 | Venita Ray |
-| 481 | 493 | Sue Leard |
-| 482 | 493 | Sarah DeHart |
+| 481 | 493 | Sarah DeHart |
+| 482 | 493 | Sue Leard |
 | 483 | 492 | Breezy Clusterer |
-| 484 | 492 | Maya June |
-| 485 | 492 | Armonie Smith |
-| 486 | 491 | Michael Buckner |
-| 487 | 491 | Jedi |
-| 488 | 491 | Victor Obiakarije |
-| 489 | 491 | Adam Simmons |
+| 484 | 492 | Armonie Smith |
+| 485 | 492 | Maya June |
+| 486 | 491 | Jedi |
+| 487 | 491 | Victor Obiakarije |
+| 488 | 491 | Adam Simmons |
+| 489 | 491 | Michael Buckner |
 | 490 | 488 | Christina Wsn |
 | 491 | 487 | Morgan Easter |
 | 492 | 487 | Michael Artis |
@@ -558,8 +558,8 @@
 | 550 | 448 | Liberty |
 | 551 | 447 | Boozi |
 | 552 | 447 | Besma Ao |
-| 553 | 445 | Elisheva Mizrachi |
-| 554 | 445 | Mar Q Thomas |
+| 553 | 445 | Mar Q Thomas |
+| 554 | 445 | Elisheva Mizrachi |
 | 555 | 445 | Sharon Mills |
 | 556 | 444 | Chab |
 | 557 | 444 | Fi Ne |
@@ -749,8 +749,8 @@
 | 741 | 335 | Alexandrea |
 | 742 | 335 | Brooke Leigh Strube |
 | 743 | 334 | Melissa James |
-| 744 | 333 | Woodys Glass |
-| 745 | 333 | Adrian Benitez |
+| 744 | 333 | Adrian Benitez |
+| 745 | 333 | Woodys Glass |
 | 746 | 333 | trabuco |
 | 747 | 332 | Sabrena Yeisley |
 | 748 | 332 | Tosa Puvapiromquan |
@@ -847,8 +847,8 @@
 | 839 | 295 | Mama T |
 | 840 | 294 | Giggly Snap |
 | 841 | 294 | Angel Hunnewell |
-| 842 | 294 | Amanda Edwards |
-| 843 | 294 | Swanky Snap |
+| 842 | 294 | Swanky Snap |
+| 843 | 294 | Amanda Edwards |
 | 844 | 293 | Harrison Littrell |
 | 845 | 293 | Ann Marie Davis |
 | 846 | 293 | Bing |
@@ -1008,16 +1008,16 @@
 | 1000 | 256 | Brenna Yearian |
 | 1001 | 256 | Allyson Marra |
 | 1002 | 255 | Jas |
-| 1003 | 255 | Ronald Broad |
-| 1004 | 255 | Loopy Brickmatch |
-| 1005 | 255 | ElizabethAnn Dickinson |
+| 1003 | 255 | ElizabethAnn Dickinson |
+| 1004 | 255 | Ronald Broad |
+| 1005 | 255 | Loopy Brickmatch |
 | 1006 | 255 | Aprill Bolton |
 | 1007 | 255 | Charles E Mccardell |
 | 1008 | 255 | Marget Kay |
 | 1009 | 254 | Elizabeth Diraffaele |
-| 1010 | 254 | Wungun Shun |
+| 1010 | 254 | Matthew Turner |
 | 1011 | 254 | Dane Reing |
-| 1012 | 254 | Matthew Turner |
+| 1012 | 254 | Wungun Shun |
 | 1013 | 254 | Paula Martinez |
 | 1014 | 253 | Chipper Dashpiece |
 | 1015 | 253 | Lynzekwi |

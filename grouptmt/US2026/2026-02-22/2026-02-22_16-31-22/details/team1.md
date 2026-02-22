@@ -79,10 +79,10 @@
 | 71 | 489 | Deanna L Hermanson |
 | 72 | 485 | Cartier |
 | 73 | 483 | MomMom |
-| 74 | 483 | Evie Khalil |
-| 75 | 483 | Ryan Lunnin |
-| 76 | 480 | Spunky Piecebuilder |
-| 77 | 480 | Nancy Green |
+| 74 | 483 | Ryan Lunnin |
+| 75 | 483 | Evie Khalil |
+| 76 | 480 | Nancy Green |
+| 77 | 480 | Spunky Piecebuilder |
 | 78 | 472 | April Carroll |
 | 79 | 471 | Jennifer ManWarren |
 | 80 | 456 | Arianna O'Brien |
@@ -109,8 +109,8 @@
 | 101 | 389 | Nery Martinez |
 | 102 | 383 | pjbeta |
 | 103 | 380 | Dee Perry |
-| 104 | 379 | Kimmie Kimms |
-| 105 | 379 | Austin James |
+| 104 | 379 | Austin James |
+| 105 | 379 | Kimmie Kimms |
 | 106 | 376 | lil mickey |
 | 107 | 374 | Tinah Montanna |
 | 108 | 364 | Ly Phethmany |
@@ -134,8 +134,8 @@
 | 126 | 326 | Monica Donato |
 | 127 | 325 | Jennifer Hardman |
 | 128 | 322 | Fmp |
-| 129 | 321 | Maria C. Hernandez |
-| 130 | 321 | Tanya Carpenter-Reynolds |
+| 129 | 321 | Tanya Carpenter-Reynolds |
+| 130 | 321 | Maria C. Hernandez |
 | 131 | 318 | Jessica Sheehan |
 | 132 | 316 | Dizzy Party |
 | 133 | 313 | Virginia Gray Floyd |

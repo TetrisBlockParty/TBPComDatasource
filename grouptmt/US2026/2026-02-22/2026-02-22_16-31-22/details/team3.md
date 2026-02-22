@@ -121,8 +121,8 @@
 | 113 | 568 | Rachael McClain Owens |
 | 114 | 566 | Dolores Falco |
 | 115 | 565 | Patty Allen |
-| 116 | 562 | Dave Herzog |
-| 117 | 562 | Louise Stacy Sisson |
+| 116 | 562 | Louise Stacy Sisson |
+| 117 | 562 | Dave Herzog |
 | 118 | 554 | joclisa |
 | 119 | 550 | Nicole Myers |
 | 120 | 542 | Hasty Cascadefit |
@@ -194,8 +194,8 @@
 | 186 | 376 | Loopy Clusterer |
 | 187 | 374 | Darlene McMillan |
 | 188 | 374 | Sherry Ogden |
-| 189 | 372 | Giddy Twistbuilder |
-| 190 | 372 | Tom Nault |
+| 189 | 372 | Tom Nault |
+| 190 | 372 | Giddy Twistbuilder |
 | 191 | 370 | Santeria Trece Candles |
 | 192 | 370 | Danielle Allison |
 | 193 | 368 | Stephanie Woods |
@@ -233,8 +233,8 @@
 | 225 | 312 | Charles Perrone |
 | 226 | 308 | Rania Zaqout |
 | 227 | 307 | rnr junky |
-| 228 | 307 | Marci Mize Fandrich |
-| 229 | 307 | Blocked |
+| 228 | 307 | Blocked |
+| 229 | 307 | Marci Mize Fandrich |
 | 230 | 305 | Rebecca Bailey |
 | 231 | 301 | Betty Rosas |
 | 232 | 300 | Sherika C. McDaniels |
@@ -265,8 +265,8 @@
 | 257 | 276 | _melisa223_ |
 | 258 | 275 | Cassandra Bryant |
 | 259 | 272 | Tasha Wesson-Torrence |
-| 260 | 271 | Alexmac |
-| 261 | 271 | Cass Mendoza |
+| 260 | 271 | Cass Mendoza |
+| 261 | 271 | Alexmac |
 | 262 | 271 | Grego Daniel |
 | 263 | 269 | Danielle Weikel |
 | 264 | 268 | Krystal Gerstberger |
