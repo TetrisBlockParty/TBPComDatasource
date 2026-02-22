@@ -66,8 +66,8 @@
 | 58 | 632 | Jamie Furr |
 | 59 | 628 | Tiff Vs Tiffany |
 | 60 | 625 | Elaine Webb Graves |
-| 61 | 621 | Cherry Parker |
-| 62 | 621 | Ebony West-Cundiff |
+| 61 | 621 | Ebony West-Cundiff |
+| 62 | 621 | Cherry Parker |
 | 63 | 619 | Jennifer |
 | 64 | 618 | Brandon Green |
 | 65 | 618 | MissTaylor |
@@ -75,8 +75,8 @@
 | 67 | 604 | Danielle Becker |
 | 68 | 591 | Suzieq |
 | 69 | 588 | yoyo |
-| 70 | 582 | Natasha Jones |
-| 71 | 582 | Katrina Schroeder |
+| 70 | 582 | Katrina Schroeder |
+| 71 | 582 | Natasha Jones |
 | 72 | 581 | Danielle Mogg |
 | 73 | 580 | Amanda L Baker |
 | 74 | 576 | Dan Rob |
@@ -121,10 +121,10 @@
 | 113 | 394 | joclisa |
 | 114 | 392 | Michelle |
 | 115 | 391 | Calista Jo Dickson |
-| 116 | 390 | Patti Skiles |
-| 117 | 390 | Hasty Cascadefit |
-| 118 | 389 | Jessica Bechler |
-| 119 | 389 | FuzzyNavel |
+| 116 | 390 | Hasty Cascadefit |
+| 117 | 390 | Patti Skiles |
+| 118 | 389 | FuzzyNavel |
+| 119 | 389 | Jessica Bechler |
 | 120 | 386 | Katie Knaus |
 | 121 | 383 | Jesse Olive |
 | 122 | 378 | Tasha Gillespie |
@@ -194,8 +194,8 @@
 | 186 | 228 | Jennifer Lynn Fahrenholtz-Summers |
 | 187 | 227 | Krystal Gerstberger |
 | 188 | 226 | Grego Daniel |
-| 189 | 224 | Araceli Parra |
-| 190 | 224 | Nicole Myers |
+| 189 | 224 | Nicole Myers |
+| 190 | 224 | Araceli Parra |
 | 191 | 223 | Jeana Gilbert |
 | 192 | 220 | Brenda Lee Vander Molen |
 | 193 | 220 | Jim Mathews |
@@ -388,8 +388,8 @@
 | 380 | 113 | Gideon Walker |
 | 381 | 113 | Boldy Blocker |
 | 382 | 112 | Tia Moore |
-| 383 | 111 | Leticia Lynn Lowe |
-| 384 | 111 | Stephanie Zahm |
+| 383 | 111 | Stephanie Zahm |
+| 384 | 111 | Leticia Lynn Lowe |
 | 385 | 110 | Tracey Cox |
 | 386 | 110 | Danielle Weikel |
 | 387 | 109 | Diana Ibarra |

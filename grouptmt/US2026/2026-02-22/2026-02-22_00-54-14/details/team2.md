@@ -359,15 +359,15 @@
 | 351 | 437 | Arwa Fatimah |
 | 352 | 435 | Kimberly Randesi |
 | 353 | 433 | Victor Obiakarije |
-| 354 | 428 | Crystie Hicks |
-| 355 | 428 | Rhonda Milstead |
+| 354 | 428 | Rhonda Milstead |
+| 355 | 428 | Crystie Hicks |
 | 356 | 427 | Amanda Ferrell |
 | 357 | 427 | Destiny Cozier |
 | 358 | 425 | Skyler Morgan |
-| 359 | 424 | Regina Young |
-| 360 | 424 | Caitlin Schmid |
-| 361 | 423 | Shaun Church |
-| 362 | 423 | Sam |
+| 359 | 424 | Caitlin Schmid |
+| 360 | 424 | Regina Young |
+| 361 | 423 | Sam |
+| 362 | 423 | Shaun Church |
 | 363 | 422 | Mamachelle Eisweirth |
 | 364 | 421 | Vanessa Moreno |
 | 365 | 417 | Sam Joe |
@@ -622,8 +622,8 @@
 | 614 | 264 | Danielle Ayoub |
 | 615 | 263 | Alyssia Tancredi |
 | 616 | 263 | Sara Pennington |
-| 617 | 262 | James Smith |
-| 618 | 262 | Sarah block |
+| 617 | 262 | Sarah block |
+| 618 | 262 | James Smith |
 | 619 | 262 | Taren Cowan |
 | 620 | 261 | Fancy Twister |
 | 621 | 261 | Maria Hammett |
