@@ -170,8 +170,8 @@
 | 162 | 261 | Tiffany Ford |
 | 163 | 260 | Louise Stacy Sisson |
 | 164 | 258 | Tamara Deherrera |
-| 165 | 256 | KayB |
-| 166 | 256 | ren |
+| 165 | 256 | ren |
+| 166 | 256 | KayB |
 | 167 | 255 | Tom Nault |
 | 168 | 254 | Duane Bright |
 | 169 | 250 | Cynthia Herrmann Egland |

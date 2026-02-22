@@ -245,8 +245,8 @@
 | 237 | 596 | Maegan Beaule |
 | 238 | 589 | Thomas Hedrick |
 | 239 | 587 | Hyper Cluster |
-| 240 | 586 | Hoppy Brickmatch |
-| 241 | 586 | Stephen Stephen |
+| 240 | 586 | Stephen Stephen |
+| 241 | 586 | Hoppy Brickmatch |
 | 242 | 585 | Jánine Riggs |
 | 243 | 583 | Steve Grotto |
 | 244 | 583 | Jessicah Myers |
@@ -384,8 +384,8 @@
 | 376 | 403 | Tonya Lee |
 | 377 | 401 | Taylor Flowers |
 | 378 | 400 | Tammy Allen |
-| 379 | 399 | Juanita Lyons |
-| 380 | 399 | Steven Marshaun |
+| 379 | 399 | Steven Marshaun |
+| 380 | 399 | Juanita Lyons |
 | 381 | 398 | Lee Harper |
 | 382 | 397 | coleksquad |
 | 383 | 396 | Stefanie Zonzini-Gagliardi |
@@ -508,8 +508,8 @@
 | 500 | 314 | Amanda West |
 | 501 | 313 | Natasha Edmonds |
 | 502 | 312 | Michelle Pike |
-| 503 | 312 | Andrea Maher |
-| 504 | 312 | Justin Hines |
+| 503 | 312 | Justin Hines |
+| 504 | 312 | Andrea Maher |
 | 505 | 311 | Kitybox |
 | 506 | 311 | Mary Marie |
 | 507 | 310 | Lonne Emade |
@@ -548,11 +548,11 @@
 | 540 | 295 | Noel Tarmy |
 | 541 | 294 | Venita Ray |
 | 542 | 294 | Amanda Edwards |
-| 543 | 294 | Frilly Fallzone |
-| 544 | 294 | Frisky Riserbuilder |
+| 543 | 294 | Frisky Riserbuilder |
+| 544 | 294 | Frilly Fallzone |
 | 545 | 293 | Ann Marie Davis |
-| 546 | 293 | Carl Bradshaw |
-| 547 | 293 | Giggy Grabber |
+| 546 | 293 | Giggy Grabber |
+| 547 | 293 | Carl Bradshaw |
 | 548 | 292 | BeQuo |
 | 549 | 292 | Deana |
 | 550 | 288 | Snippy Block |
@@ -715,7 +715,7 @@
 | 707 | 225 | Anna Mayo |
 | 708 | 225 | BK Queen |
 | 709 | 224 | Artemus Darnell |
-| 710 | 223 | J.L. Roberts |
+| 710 | 223 | Jess Morrison |
 | 711 | 223 | LegoCarpet |
 | 712 | 223 | J.L. Roberts |
 | 713 | 223 | Michele Moren |
