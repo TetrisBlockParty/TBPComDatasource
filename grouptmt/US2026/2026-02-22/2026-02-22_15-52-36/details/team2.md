@@ -141,8 +141,8 @@
 | 133 | 1330 | Erica Williams |
 | 134 | 1316 | Rosa Franklin |
 | 135 | 1312 | Katrina Williams Balmir |
-| 136 | 1306 | Becca Widmer |
-| 137 | 1306 | Howard Forest |
+| 136 | 1306 | Howard Forest |
+| 137 | 1306 | Becca Widmer |
 | 138 | 1300 | Tacara Cummings |
 | 139 | 1298 | Scott Treadway |
 | 140 | 1290 | Bussyiano Page |
@@ -243,13 +243,13 @@
 | 235 | 878 | Rebecca Doughman |
 | 236 | 877 | Eric Carlson |
 | 237 | 875 | Jamie Otero |
-| 238 | 869 | Tony Lea |
-| 239 | 869 | Felicia Lynn |
+| 238 | 869 | Felicia Lynn |
+| 239 | 869 | Tony Lea |
 | 240 | 867 | Michele Gabriel |
 | 241 | 867 | Peppy Zone |
 | 242 | 862 | Brittany Radaszewski |
-| 243 | 860 | April Dawn Gussler |
-| 244 | 860 | John Bednarik |
+| 243 | 860 | John Bednarik |
+| 244 | 860 | April Dawn Gussler |
 | 245 | 857 | Della Hole |
 | 246 | 855 | Sam Joe |
 | 247 | 855 | F-X |
@@ -357,8 +357,8 @@
 | 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | tejas25 |
-| 353 | 650 | Shiny Rollzone |
+| 352 | 650 | Shiny Rollzone |
+| 353 | 650 | tejas25 |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
 | 356 | 640 | Kara Gillen |
@@ -368,8 +368,8 @@
 | 360 | 631 | Dylan Thomason |
 | 361 | 631 | Marie Walker |
 | 362 | 628 | Brownie Sheena |
-| 363 | 627 | Victoria Moore-Smith |
-| 364 | 627 | Allan Wayne Lamia |
+| 363 | 627 | Allan Wayne Lamia |
+| 364 | 627 | Victoria Moore-Smith |
 | 365 | 621 | AgileDragon |
 | 366 | 620 | Brandon Armstrong |
 | 367 | 620 | Demeka Dangerous-kisses Johnson |
@@ -412,8 +412,8 @@
 | 404 | 563 | Irene Jones |
 | 405 | 563 | snkylnk |
 | 406 | 561 | Traci Johnson |
-| 407 | 558 | Libby Hicks |
-| 408 | 558 | Mikayala Szaz |
+| 407 | 558 | Mikayala Szaz |
+| 408 | 558 | Libby Hicks |
 | 409 | 556 | Slip |
 | 410 | 554 | Santana Miyagi |
 | 411 | 554 | Rachael Senard |
@@ -749,8 +749,8 @@
 | 741 | 330 | Toni Roberson |
 | 742 | 329 | Snappy Shatterfit |
 | 743 | 329 | Nikki Nikki |
-| 744 | 328 | Jamie Carter Bierce |
-| 745 | 328 | BabyBird |
+| 744 | 328 | BabyBird |
+| 745 | 328 | Jamie Carter Bierce |
 | 746 | 328 | Sarah block |
 | 747 | 327 | Polly Pritchard Chesler |
 | 748 | 327 | Luke Califf |
@@ -795,8 +795,8 @@
 | 787 | 313 | Marina Linda |
 | 788 | 312 | Heather Renee Jeffers |
 | 789 | 312 | Kiorah Blaze |
-| 790 | 311 | SwifftFox |
-| 791 | 311 | Audra Williams |
+| 790 | 311 | Audra Williams |
+| 791 | 311 | SwifftFox |
 | 792 | 311 | Megan Phillips |
 | 793 | 310 | Wendy Ducheney |
 | 794 | 310 | Cozy Drop |
@@ -815,11 +815,11 @@
 | 807 | 305 | Zany Clusterbuilder |
 | 808 | 304 | Melissa McCall |
 | 809 | 304 | NFLPITMOM |
-| 810 | 303 | Amanda Schaffer |
-| 811 | 303 | Devin |
+| 810 | 303 | Devin |
+| 811 | 303 | Amanda Schaffer |
 | 812 | 303 | Alyssia Tancredi |
-| 813 | 302 | Epic Stackbuilder |
-| 814 | 302 | Kena T. Tanner |
+| 813 | 302 | Kena T. Tanner |
+| 814 | 302 | Epic Stackbuilder |
 | 815 | 301 | Tom Steffen |
 | 816 | 300 | Jay Levy |
 | 817 | 300 | Warren Marleau |

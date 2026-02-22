@@ -121,8 +121,8 @@
 | 113 | 344 | Bhelle Sumile |
 | 114 | 343 | Death |
 | 115 | 342 | Brenda Stewart |
-| 116 | 341 | David Miller |
-| 117 | 341 | Nick R Montague |
+| 116 | 341 | Nick R Montague |
+| 117 | 341 | David Miller |
 | 118 | 334 | Jaimie Lynn |
 | 119 | 333 | Brandi Huntington |
 | 120 | 333 | Gracie |
@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Tyler Werts |
 | 149 | 282 | Timothy Dew |
@@ -311,8 +311,8 @@
 | 303 | 157 | Jo Kerley |
 | 304 | 157 | Adele Rahman |
 | 305 | 156 | Nerdy Curvebuilder |
-| 306 | 156 | Mark Smith |
-| 307 | 156 | Jessie |
+| 306 | 156 | Jessie |
+| 307 | 156 | Mark Smith |
 | 308 | 155 | Barry Mac'Ockner |
 | 309 | 155 | Strig |
 | 310 | 154 | Larry Tilton |

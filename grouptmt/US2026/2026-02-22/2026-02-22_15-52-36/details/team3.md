@@ -117,8 +117,8 @@
 | 109 | 568 | Rachael McClain Owens |
 | 110 | 566 | Dolores Falco |
 | 111 | 565 | Patty Allen |
-| 112 | 562 | Louise Stacy Sisson |
-| 113 | 562 | Dave Herzog |
+| 112 | 562 | Dave Herzog |
+| 113 | 562 | Louise Stacy Sisson |
 | 114 | 551 | Kristie |
 | 115 | 549 | Nicole Myers |
 | 116 | 533 | Alaina Lee |
@@ -207,8 +207,8 @@
 | 199 | 349 | Amanda J. Mcneil-Anderson |
 | 200 | 346 | Tamara Deherrera |
 | 201 | 343 | Ashley Raines |
-| 202 | 341 | Noyb Adam |
-| 203 | 341 | Samantha Lynn |
+| 202 | 341 | Samantha Lynn |
+| 203 | 341 | Noyb Adam |
 | 204 | 340 | Ammmmmmy |
 | 205 | 338 | Gumbo |
 | 206 | 332 | Rich LeBlanc |
@@ -584,8 +584,8 @@
 | 576 | 118 | Scott Doss |
 | 577 | 118 | Norma JulieMay |
 | 578 | 117 | Anabela Ruiz |
-| 579 | 117 | Jennifer Neiman Gaal |
-| 580 | 117 | Daisy Rocha |
+| 579 | 117 | Daisy Rocha |
+| 580 | 117 | Jennifer Neiman Gaal |
 | 581 | 117 | Elyse Grabowsky |
 | 582 | 116 | Gina Marie |
 | 583 | 116 | Dapper Towerfit |

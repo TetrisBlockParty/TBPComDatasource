@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -184,8 +184,8 @@
 | 176 | 247 | Kathy Brookins |
 | 177 | 245 | Peachy Fall |
 | 178 | 245 | Autum Leigh |
-| 179 | 244 | Mimi |
-| 180 | 244 | J-Rizzle |
+| 179 | 244 | J-Rizzle |
+| 180 | 244 | Mimi |
 | 181 | 244 | Twisty Cascadezone |
 | 182 | 241 | Allen Lloyd |
 | 183 | 239 | Zethra Prenisha Rahming |
@@ -313,8 +313,8 @@
 | 305 | 144 | Sticherella |
 | 306 | 144 | Circuit8 |
 | 307 | 144 | Maureen Flanigan |
-| 308 | 143 | Asher |
-| 309 | 143 | Metsfan |
+| 308 | 143 | Metsfan |
+| 309 | 143 | Asher |
 | 310 | 143 | Daresha Fair |
 | 311 | 142 | Chantilly Laace |
 | 312 | 142 | Cynthia Boudreau |
