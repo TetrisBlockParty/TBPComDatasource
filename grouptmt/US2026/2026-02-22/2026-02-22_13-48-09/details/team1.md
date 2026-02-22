@@ -187,8 +187,8 @@
 | 179 | 229 | Chris K |
 | 180 | 226 | Sleepysloath5745 |
 | 181 | 226 | Kandae |
-| 182 | 223 | Erez Yosef |
-| 183 | 223 | Basment Living |
+| 182 | 223 | Basment Living |
+| 183 | 223 | Erez Yosef |
 | 184 | 222 | Debbie Davis |
 | 185 | 222 | Amanda Johnson Huffman |
 | 186 | 219 | Chuck Gannon |

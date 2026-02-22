@@ -106,8 +106,8 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 588 | yoyo |
 | 100 | 585 | Giddy Drop |
-| 101 | 582 | Jay Horn |
-| 102 | 582 | Natasha Jones |
+| 101 | 582 | Natasha Jones |
+| 102 | 582 | Jay Horn |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
@@ -133,8 +133,8 @@
 | 125 | 491 | Chauntee Alfrey-Cardinale |
 | 126 | 485 | Christine Filson |
 | 127 | 480 | Stephanie Blkpep Davidson |
-| 128 | 479 | Poppy Splitter |
-| 129 | 479 | Patti Skiles |
+| 128 | 479 | Patti Skiles |
+| 129 | 479 | Poppy Splitter |
 | 130 | 478 | CeceGeGe |
 | 131 | 478 | Silly Twist |
 | 132 | 473 | mzcatzy |
@@ -176,8 +176,8 @@
 | 168 | 384 | Dapper Snap |
 | 169 | 382 | Scott Carleton |
 | 170 | 380 | Tasha Schriewer |
-| 171 | 378 | Nicole Flippo |
-| 172 | 378 | Chris Bell |
+| 171 | 378 | Chris Bell |
+| 172 | 378 | Nicole Flippo |
 | 173 | 376 | Loopy Clusterer |
 | 174 | 375 | Shunta Jacobs |
 | 175 | 374 | Sherry Ogden |
@@ -507,7 +507,7 @@
 | 499 | 124 | victory |
 | 500 | 124 | xsiv |
 | 501 | 123 | Michael Latasha Gray |
-| 502 | 123 | Denise Marie |
+| 502 | 123 | Randy Clevenger |
 | 503 | 123 | Chenoa Urban Sophicated Redy |
 | 504 | 123 | Denise Marie |
 | 505 | 123 | Amanda Declue |

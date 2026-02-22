@@ -61,8 +61,8 @@
 | 53 | 697 | Edward White |
 | 54 | 664 | Valerie Roberts |
 | 55 | 661 | D3TROITB0RN74 |
-| 56 | 659 | Jonathan Kimbrough |
-| 57 | 659 | Rebecca Moulton Pinciaro |
+| 56 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Jonathan Kimbrough |
 | 58 | 658 | loulou |
 | 59 | 654 | Chilly Line |
 | 60 | 647 | KM8 |
@@ -135,8 +135,8 @@
 | 127 | 303 | Lauren Scott |
 | 128 | 300 | Jason Hart |
 | 129 | 298 | Lucas J Sutton |
-| 130 | 296 | HastyGrabber |
-| 131 | 296 | Desi Desporte |
+| 130 | 296 | Desi Desporte |
+| 131 | 296 | HastyGrabber |
 | 132 | 294 | Kesha Brady |
 | 133 | 290 | 🥔🥔 Spudz |
 | 134 | 289 | Jessica Lynn Cutlip |
@@ -167,8 +167,8 @@
 | 159 | 250 | Matt Dell'Olio |
 | 160 | 249 | Chris Bernstein |
 | 161 | 245 | Diana Houts |
-| 162 | 244 | J-Rizzle |
-| 163 | 244 | Twisty Cascadezone |
+| 162 | 244 | Twisty Cascadezone |
+| 163 | 244 | J-Rizzle |
 | 164 | 240 | Peachy Fall |
 | 165 | 236 | Swanky Fitline |
 | 166 | 234 | Porkobello |
@@ -225,9 +225,9 @@
 | 217 | 192 | Shauna Havard |
 | 218 | 191 | Klo |
 | 219 | 190 | Cheery Risebuilder |
-| 220 | 189 | Calvin Dennis |
+| 220 | 189 | Dihcheese444 |
 | 221 | 189 | Stacey Stano |
-| 222 | 189 | Dihcheese444 |
+| 222 | 189 | Calvin Dennis |
 | 223 | 186 | Holly |
 | 224 | 185 | Laura Hosford |
 | 225 | 184 | Lauren Lamb |
@@ -285,8 +285,8 @@
 | 277 | 148 | Nubian1 |
 | 278 | 148 | Ruby Khalisadar |
 | 279 | 148 | Janita Parrish |
-| 280 | 147 | Adam Stephanie Parker |
-| 281 | 147 | Jay28 |
+| 280 | 147 | Jay28 |
+| 281 | 147 | Adam Stephanie Parker |
 | 282 | 146 | KimoKoala |
 | 283 | 145 | Mimi |
 | 284 | 145 | Stephme310 |
@@ -319,8 +319,8 @@
 | 311 | 137 | Red |
 | 312 | 137 | Brianna Walker |
 | 313 | 137 | PeaceOs |
-| 314 | 136 | Maureen Flanigan |
-| 315 | 136 | Michelle Morris |
+| 314 | 136 | Michelle Morris |
+| 315 | 136 | Maureen Flanigan |
 | 316 | 135 | Joshua Guess |
 | 317 | 135 | Vanessa Smart |
 | 318 | 134 | Kim Klutz Olson |
@@ -334,9 +334,9 @@
 | 326 | 132 | Kristin MacDonald |
 | 327 | 132 | Vamp |
 | 328 | 131 | Smiley Tiltbuilder |
-| 329 | 130 | Zach Kerbs |
-| 330 | 130 | Shukee Lo |
-| 331 | 129 | Dreamy Snapgrid |
+| 329 | 130 | Shukee Lo |
+| 330 | 130 | Zach Kerbs |
+| 331 | 129 | Sherri |
 | 332 | 129 | Berklie Apedaile |
 | 333 | 129 | Dreamy Snapgrid |
 | 334 | 128 | Elie Pean |

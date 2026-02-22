@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Howard Forest |
-| 136 | 1248 | Isabela Shaw |
+| 135 | 1248 | Isabela Shaw |
+| 136 | 1248 | Howard Forest |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1230 | Megan Garrick |
@@ -248,8 +248,8 @@
 | 240 | 823 | SaraMarie Eveland |
 | 241 | 820 | Chirpy Staggerpiece |
 | 242 | 816 | James Simms III |
-| 243 | 815 | Alyssa Hileman |
-| 244 | 815 | Moni Foxe |
+| 243 | 815 | Moni Foxe |
+| 244 | 815 | Alyssa Hileman |
 | 245 | 808 | John Bednarik |
 | 246 | 808 | Wakanda Forever |
 | 247 | 807 | Khalil Lowe |
@@ -338,8 +338,8 @@
 | 330 | 658 | Erica Williams |
 | 331 | 651 | Unica Rector |
 | 332 | 650 | Glitzy Stackzone |
-| 333 | 650 | tejas25 |
-| 334 | 650 | Shiny Rollzone |
+| 333 | 650 | Shiny Rollzone |
+| 334 | 650 | tejas25 |
 | 335 | 643 | Hoppy Brickmatch |
 | 336 | 641 | Angie Bolton Workman |
 | 337 | 640 | BYM4L |
@@ -348,15 +348,15 @@
 | 340 | 635 | Diana Fitzwater |
 | 341 | 631 | Marie Walker |
 | 342 | 629 | Jelly |
-| 343 | 627 | Victoria Moore-Smith |
-| 344 | 627 | Allan Wayne Lamia |
+| 343 | 627 | Allan Wayne Lamia |
+| 344 | 627 | Victoria Moore-Smith |
 | 345 | 626 | Dylan Thomason |
 | 346 | 620 | Brandon Armstrong |
 | 347 | 613 | Ellie Jonas |
-| 348 | 613 | Caitlyn Blackwell |
-| 349 | 613 | Breezy Filler |
-| 350 | 611 | Julio A Laracuente |
-| 351 | 611 | Carl Bradshaw |
+| 348 | 613 | Breezy Filler |
+| 349 | 613 | Caitlyn Blackwell |
+| 350 | 611 | Carl Bradshaw |
+| 351 | 611 | Julio A Laracuente |
 | 352 | 611 | Em Chen |
 | 353 | 603 | Cassie Maynard |
 | 354 | 602 | KhaosLord |
@@ -389,16 +389,16 @@
 | 381 | 558 | Libby Hicks |
 | 382 | 558 | Mikayala Szaz |
 | 383 | 556 | Slip |
-| 384 | 554 | Santana Miyagi |
-| 385 | 554 | Rachael Senard |
+| 384 | 554 | Rachael Senard |
+| 385 | 554 | Santana Miyagi |
 | 386 | 554 | Autumn Schaeffer |
 | 387 | 553 | Blacc Blac |
 | 388 | 552 | Michelle Fields |
 | 389 | 550 | Nashu |
 | 390 | 549 | Darcy Mae |
 | 391 | 549 | Kaylee McCafferty |
-| 392 | 548 | Taryece Gause |
-| 393 | 548 | Brownie Sheena |
+| 392 | 548 | Brownie Sheena |
+| 393 | 548 | Taryece Gause |
 | 394 | 545 | Frisky Clearpiece |
 | 395 | 544 | Steve Man |
 | 396 | 544 | Deidre Shaffer |
@@ -429,8 +429,8 @@
 | 421 | 520 | Angela Lynn |
 | 422 | 519 | Rob Brown |
 | 423 | 517 | Alex Dungo Hoang |
-| 424 | 517 | Porsche' Nicole |
-| 425 | 517 | Amber Brion |
+| 424 | 517 | Amber Brion |
+| 425 | 517 | Porsche' Nicole |
 | 426 | 516 | Diamond Scott |
 | 427 | 515 | Victoria Regina Girolami |
 | 428 | 515 | Laquetta Royston |
@@ -645,8 +645,8 @@
 | 637 | 369 | Juan Castillo |
 | 638 | 367 | Connie Lepore-Mann |
 | 639 | 367 | Jessica Lamb |
-| 640 | 366 | Lawanda Forbes |
-| 641 | 366 | Courtney Burcham |
+| 640 | 366 | Courtney Burcham |
+| 641 | 366 | Lawanda Forbes |
 | 642 | 365 | Christina Lewis-Vickers |
 | 643 | 365 | Audrey Jones |
 | 644 | 365 | Susan Arnburg |
