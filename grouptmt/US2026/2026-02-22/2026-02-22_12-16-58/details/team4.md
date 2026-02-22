@@ -49,8 +49,8 @@
 | 41 | 766 | Robin Watters |
 | 42 | 757 | Ancient Intuition |
 | 43 | 736 | Goatimus Lombardi |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 698 | Anthony Bryan Riva |
 | 48 | 697 | Edward White |
@@ -84,8 +84,8 @@
 | 76 | 512 | Casey Jeffcoat |
 | 77 | 511 | Michelle Marie |
 | 78 | 500 | Rodney McMath Jr. |
-| 79 | 486 | Landon Keith Graffeo |
-| 80 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Carmethia Clemons Haslerig |
+| 80 | 486 | Landon Keith Graffeo |
 | 81 | 485 | TeeJ |
 | 82 | 469 | Ashley Ingram |
 | 83 | 468 | Shane Kalamata Platoon |
@@ -136,8 +136,8 @@
 | 128 | 289 | Jessica Lynn Cutlip |
 | 129 | 287 | Shannon Ferrari |
 | 130 | 286 | shark tato |
-| 131 | 283 | Brittney Orengo |
-| 132 | 283 | Scott Jameson |
+| 131 | 283 | Scott Jameson |
+| 132 | 283 | Brittney Orengo |
 | 133 | 281 | Meagan Nicole |
 | 134 | 278 | Desi Desporte |
 | 135 | 278 | Carrie Brian |
@@ -307,7 +307,7 @@
 | 299 | 138 | Brandon Link |
 | 300 | 137 | Brianna Walker |
 | 301 | 137 | PeaceOs |
-| 302 | 137 | Brianna Walker |
+| 302 | 137 | Red |
 | 303 | 136 | Maureen Flanigan |
 | 304 | 136 | Michelle Morris |
 | 305 | 135 | Joshua Guess |

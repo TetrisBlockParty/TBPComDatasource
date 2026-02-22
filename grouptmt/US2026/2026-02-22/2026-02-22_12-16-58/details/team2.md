@@ -107,8 +107,8 @@
 | 99 | 1535 | Donnie Hunt |
 | 100 | 1534 | Laura Marie Pelletier |
 | 101 | 1534 | Loopy Clusterbuilder |
-| 102 | 1516 | Stephen Stephen |
-| 103 | 1516 | Mindy Leigh Head |
+| 102 | 1516 | Mindy Leigh Head |
+| 103 | 1516 | Stephen Stephen |
 | 104 | 1513 | Jamie Main |
 | 105 | 1507 | Linda Pierce |
 | 106 | 1495 | blackq |
@@ -583,8 +583,8 @@
 | 575 | 396 | AkaLefty |
 | 576 | 396 | Candy Pitts |
 | 577 | 396 | Boogie SoAnimated Johnson |
-| 578 | 393 | bbv |
-| 579 | 393 | Jamie West |
+| 578 | 393 | Jamie West |
+| 579 | 393 | bbv |
 | 580 | 393 | Deyawn Smith |
 | 581 | 391 | Anthony Huebel |
 | 582 | 391 | Adam Simmons |
@@ -597,8 +597,8 @@
 | 589 | 389 | Kayla |
 | 590 | 389 | Julie Hamilton |
 | 591 | 388 | Christina Ashley |
-| 592 | 387 | Bold Brickster |
-| 593 | 387 | Misti Markijohn |
+| 592 | 387 | Misti Markijohn |
+| 593 | 387 | Bold Brickster |
 | 594 | 386 | Wuntayk |
 | 595 | 385 | Tansaria Couch-Butler |
 | 596 | 384 | Mary Marie |
@@ -613,8 +613,8 @@
 | 605 | 380 | Giggy Grabber |
 | 606 | 380 | Christy Long |
 | 607 | 379 | Cini |
-| 608 | 378 | TF Dyer |
-| 609 | 378 | Tina Marie |
+| 608 | 378 | Tina Marie |
+| 609 | 378 | TF Dyer |
 | 610 | 378 | Jasmine Kenney |
 | 611 | 376 | James Zaragoza |
 | 612 | 375 | Cecilia A Jenkins |
@@ -632,8 +632,8 @@
 | 624 | 369 | Juan Castillo |
 | 625 | 367 | Connie Lepore-Mann |
 | 626 | 367 | Jessica Lamb |
-| 627 | 366 | Lawanda Forbes |
-| 628 | 366 | Courtney Burcham |
+| 627 | 366 | Courtney Burcham |
+| 628 | 366 | Lawanda Forbes |
 | 629 | 366 | Smashanator |
 | 630 | 365 | Christina Lewis-Vickers |
 | 631 | 365 | Susan Arnburg |
@@ -658,8 +658,8 @@
 | 650 | 357 | Shannon Byrd |
 | 651 | 357 | Tristan Szolek |
 | 652 | 355 | Amanda Perez |
-| 653 | 354 | Rachel Kaminski |
-| 654 | 354 | Rickey Johnson |
+| 653 | 354 | Rickey Johnson |
+| 654 | 354 | Rachel Kaminski |
 | 655 | 352 | Rose Fx |
 | 656 | 352 | Jean FU Jagielski |
 | 657 | 352 | ruth |
@@ -944,16 +944,16 @@
 | 936 | 248 | Angelina Marie |
 | 937 | 248 | CleverAngel |
 | 938 | 247 | Linda Miltenburg |
-| 939 | 247 | Karyn Yurcho Dooley |
-| 940 | 247 | Wizz |
+| 939 | 247 | Wizz |
+| 940 | 247 | Karyn Yurcho Dooley |
 | 941 | 246 | Stacey Tranchida |
 | 942 | 246 | Laura McConnell |
 | 943 | 245 | Cassi Owens |
 | 944 | 245 | Lively Piecefit |
 | 945 | 245 | Shindee |
 | 946 | 245 | Abby Klaski |
-| 947 | 244 | David Rehse |
-| 948 | 244 | Jumpy Gridclear |
+| 947 | 244 | Jumpy Gridclear |
+| 948 | 244 | David Rehse |
 | 949 | 244 | David M. Platz |
 | 950 | 244 | Erika Deer Kauffman |
 | 951 | 244 | Brooklynn Huckaby |
@@ -996,8 +996,8 @@
 | 988 | 233 | Nerdy Riserfit |
 | 989 | 232 | P. D. Paige |
 | 990 | 232 | Chirpy Snapper |
-| 991 | 231 | Stanley Vanekelenburg |
-| 992 | 231 | Emily Valentine |
+| 991 | 231 | Emily Valentine |
+| 992 | 231 | Stanley Vanekelenburg |
 | 993 | 231 | Michelle Fleming Luna |
 | 994 | 231 | Vung Nguyen |
 | 995 | 230 | Lonna Matthews |

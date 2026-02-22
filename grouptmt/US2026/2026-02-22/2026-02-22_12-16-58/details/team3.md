@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -186,8 +186,8 @@
 | 178 | 359 | Dapper Snap |
 | 179 | 358 | RickyG |
 | 180 | 358 | Chummy Caster |
-| 181 | 357 | Tom Nault |
-| 182 | 357 | Stephanie Burtin |
+| 181 | 357 | Stephanie Burtin |
+| 182 | 357 | Tom Nault |
 | 183 | 355 | Tessina Dewey-Mancino |
 | 184 | 353 | Shunta Jacobs |
 | 185 | 353 | Nora Rogers |
@@ -207,8 +207,8 @@
 | 199 | 320 | Or Reznitsky |
 | 200 | 317 | Ashley Tookes |
 | 201 | 315 | Kammy Hill |
-| 202 | 311 | Rochelle Hazelett |
-| 203 | 311 | Araceli Parra |
+| 202 | 311 | Araceli Parra |
+| 203 | 311 | Rochelle Hazelett |
 | 204 | 310 | Danielle Balcom |
 | 205 | 308 | Rania Zaqout |
 | 206 | 307 | rnr junky |
@@ -225,8 +225,8 @@
 | 217 | 296 | Brandon Givens |
 | 218 | 295 | Marci Mize Fandrich |
 | 219 | 289 | DidIdothat |
-| 220 | 289 | Hoppy Buildout |
-| 221 | 289 | Duane Bright |
+| 220 | 289 | Duane Bright |
+| 221 | 289 | Hoppy Buildout |
 | 222 | 286 | Cynthia Herrmann Egland |
 | 223 | 284 | Denise Nardoni |
 | 224 | 283 | Charles Perrone |
@@ -251,8 +251,8 @@
 | 243 | 264 | Grego Daniel |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tasha Wesson-Torrence |
-| 247 | 261 | Tiffany Ford |
+| 246 | 261 | Tiffany Ford |
+| 247 | 261 | Tasha Wesson-Torrence |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
@@ -260,8 +260,8 @@
 | 252 | 256 | Tiffany Davie |
 | 253 | 256 | KayB |
 | 254 | 250 | fraulila |
-| 255 | 249 | JerseyJess |
-| 256 | 249 | Annie Marie |
+| 255 | 249 | Annie Marie |
+| 256 | 249 | JerseyJess |
 | 257 | 246 | Peppy Shifter |
 | 258 | 245 | Latoya Mayne |
 | 259 | 244 | LaNette Morgan |
@@ -289,24 +289,24 @@
 | 281 | 220 | Tosha Griffey |
 | 282 | 220 | rosy |
 | 283 | 218 | Michael Lucado |
-| 284 | 216 | Twisty Brick LT |
-| 285 | 216 | Cheryl Hinch Tenbrook |
+| 284 | 216 | Cheryl Hinch Tenbrook |
+| 285 | 216 | Twisty Brick LT |
 | 286 | 215 | IamJust Neyamijah Washington Sr. |
-| 287 | 214 | Amy Fuller Heaton |
-| 288 | 214 | Angela Scott |
+| 287 | 214 | Angela Scott |
+| 288 | 214 | Amy Fuller Heaton |
 | 289 | 214 | Rebel124 |
 | 290 | 213 | Nicholas Roddy |
 | 291 | 212 | Sunny Rotater |
 | 292 | 212 | Desiree Gold |
-| 293 | 211 | El Chapa |
-| 294 | 211 | Velma Mull |
-| 295 | 211 | Khaleada McGill Banks |
+| 293 | 211 | Velma Mull |
+| 294 | 211 | Khaleada McGill Banks |
+| 295 | 211 | El Chapa |
 | 296 | 210 | Lizabeth Fox |
 | 297 | 210 | Criss |
 | 298 | 209 | Micayah Stevens |
 | 299 | 208 | AlsoJess |
-| 300 | 207 | Daring Builder |
-| 301 | 207 | Jessica |
+| 300 | 207 | Jessica |
+| 301 | 207 | Daring Builder |
 | 302 | 207 | angieelyn |
 | 303 | 206 | Tammy Rosenberry |
 | 304 | 206 | Tracy Martin |
@@ -459,8 +459,8 @@
 | 451 | 134 | Sharon Dudley Lawson |
 | 452 | 134 | Glenn Loving |
 | 453 | 134 | gremicx |
-| 454 | 133 | Chummy Rumbler |
-| 455 | 133 | Jen Lewis |
+| 454 | 133 | Jen Lewis |
+| 455 | 133 | Chummy Rumbler |
 | 456 | 132 | Hanna Kim |
 | 457 | 132 | Andrew Thorson |
 | 458 | 131 | Cheeky Setter |

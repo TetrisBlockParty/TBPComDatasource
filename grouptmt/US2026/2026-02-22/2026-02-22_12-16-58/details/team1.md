@@ -114,8 +114,8 @@
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
 | 108 | 335 | Luciano Moreira |
-| 109 | 333 | Brandi Huntington |
-| 110 | 333 | Gracie |
+| 109 | 333 | Gracie |
+| 110 | 333 | Brandi Huntington |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
 | 113 | 326 | Monica Donato |
@@ -197,8 +197,8 @@
 | 189 | 207 | Leslie Bush Yarbrough |
 | 190 | 207 | Brenda Alexander |
 | 191 | 206 | BadG52 |
-| 192 | 205 | Tater |
-| 193 | 205 | Snappy Matcher |
+| 192 | 205 | Snappy Matcher |
+| 193 | 205 | Tater |
 | 194 | 204 | Lacy Wolfe |
 | 195 | 203 | Paula Martin |
 | 196 | 203 | LaFontaine Leslie |
@@ -214,8 +214,8 @@
 | 206 | 195 | Jennifer Olewnik Soborowski |
 | 207 | 195 | Bindi |
 | 208 | 194 | Christy Jones |
-| 209 | 193 | Michael |
-| 210 | 193 | Lachelle Dillon |
+| 209 | 193 | Lachelle Dillon |
+| 210 | 193 | Michael |
 | 211 | 191 | Diane Byrd |
 | 212 | 191 | Shanae Grant |
 | 213 | 190 | Erez Yosef |
@@ -237,8 +237,8 @@
 | 229 | 180 | Beau Galvan |
 | 230 | 180 | BigWeenie69 |
 | 231 | 179 | Danielle Little-Daugherty |
-| 232 | 179 | femmefatale |
-| 233 | 179 | Erin Rosberg |
+| 232 | 179 | Erin Rosberg |
+| 233 | 179 | femmefatale |
 | 234 | 178 | Chad Atchley |
 | 235 | 177 | Irual Hctrab |
 | 236 | 177 | Perky Shiftsnap |
