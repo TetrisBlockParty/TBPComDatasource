@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Keshia Lyons |
-| 158 | 272 | Alan George LaRage |
+| 157 | 272 | Alan George LaRage |
+| 158 | 272 | Keshia Lyons |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -250,8 +250,8 @@
 | 242 | 184 | Lauren Lamb |
 | 243 | 184 | Ak Jones |
 | 244 | 183 | JPW |
-| 245 | 181 | Jackie Marie |
-| 246 | 181 | Carter Jones |
+| 245 | 181 | Carter Jones |
+| 246 | 181 | Jackie Marie |
 | 247 | 180 | Orchislactea |
 | 248 | 179 | TinyLegoRose |
 | 249 | 179 | Stephme310 |

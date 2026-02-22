@@ -175,9 +175,9 @@
 | 167 | 399 | Mcathen |
 | 168 | 397 | Annie Déè |
 | 169 | 393 | Fallorina Susana |
-| 170 | 391 | Araceli Parra |
+| 170 | 391 | Calista Jo Dickson |
 | 171 | 391 | Sarah Cowan Burgos |
-| 172 | 391 | Calista Jo Dickson |
+| 172 | 391 | Araceli Parra |
 | 173 | 390 | Hasty Cascadefit |
 | 174 | 389 | Jeni Dow |
 | 175 | 385 | Shunta Jacobs |
@@ -190,8 +190,8 @@
 | 182 | 376 | Loopy Clusterer |
 | 183 | 374 | Sherry Ogden |
 | 184 | 372 | Giddy Twistbuilder |
-| 185 | 370 | Danielle Allison |
-| 186 | 370 | Santeria Trece Candles |
+| 185 | 370 | Santeria Trece Candles |
+| 186 | 370 | Danielle Allison |
 | 187 | 368 | Stephanie Woods |
 | 188 | 366 | Adrian Marcel Pate |
 | 189 | 363 | Tom Nault |
@@ -235,21 +235,21 @@
 | 227 | 305 | Rebecca Bailey |
 | 228 | 301 | Betty Rosas |
 | 229 | 300 | Sherika C. McDaniels |
-| 230 | 299 | Brandon Givens |
-| 231 | 299 | Melissa Orth Hunter |
+| 230 | 299 | Melissa Orth Hunter |
+| 231 | 299 | Brandon Givens |
 | 232 | 298 | MsBee |
 | 233 | 297 | Jojo M |
 | 234 | 296 | Peppy Shifter |
 | 235 | 296 | Katrina Turner |
 | 236 | 289 | Hoppy Buildout |
 | 237 | 289 | DidIdothat |
-| 238 | 289 | Hoppy Buildout |
+| 238 | 289 | Duane Bright |
 | 239 | 286 | Tye Stovall |
 | 240 | 286 | Cynthia Herrmann Egland |
 | 241 | 284 | Denise Nardoni |
 | 242 | 283 | Cheeky Snapper |
-| 243 | 283 | Sarah Moyer |
-| 244 | 283 | Eon Harris |
+| 243 | 283 | Eon Harris |
+| 244 | 283 | Sarah Moyer |
 | 245 | 282 | Marquita Sheard |
 | 246 | 281 | Carrie Huskey |
 | 247 | 279 | Terry Jo Jones |
@@ -265,8 +265,8 @@
 | 257 | 271 | Grego Daniel |
 | 258 | 267 | Tiffany Davie |
 | 259 | 266 | Quirky Dropzone |
-| 260 | 262 | Ray Lader |
-| 261 | 262 | Joe-Maggie Mathews |
+| 260 | 262 | Joe-Maggie Mathews |
+| 261 | 262 | Ray Lader |
 | 262 | 261 | Tiffany Ford |
 | 263 | 260 | Nikki Pags |
 | 264 | 260 | Grams |
@@ -317,9 +317,9 @@
 | 309 | 216 | Tina Smith Roy |
 | 310 | 216 | Frothy Snapper |
 | 311 | 214 | Amy Fuller Heaton |
-| 312 | 214 | Jennifer Alvey |
+| 312 | 214 | Randy Clevenger |
 | 313 | 214 | Lizabeth Fox |
-| 314 | 214 | Randy Clevenger |
+| 314 | 214 | Jennifer Alvey |
 | 315 | 213 | Nicholas Roddy |
 | 316 | 212 | Sunny Rotater |
 | 317 | 212 | Ryan Williams |
@@ -344,8 +344,8 @@
 | 336 | 205 | Kirhonda Autmon |
 | 337 | 204 | Aerian Preston |
 | 338 | 204 | Cesar Barraza |
-| 339 | 203 | Angie Harper |
-| 340 | 203 | Snazzy Filler |
+| 339 | 203 | Snazzy Filler |
+| 340 | 203 | Angie Harper |
 | 341 | 202 | Tipsy Zonebuilder |
 | 342 | 201 | Hyper Matchzone |
 | 343 | 200 | Everret Maxine |

@@ -368,10 +368,10 @@
 | 360 | 631 | Dylan Thomason |
 | 361 | 631 | Marie Walker |
 | 362 | 628 | Brownie Sheena |
-| 363 | 627 | Allan Wayne Lamia |
-| 364 | 627 | Victoria Moore-Smith |
-| 365 | 620 | Demeka Dangerous-kisses Johnson |
-| 366 | 620 | Brandon Armstrong |
+| 363 | 627 | Victoria Moore-Smith |
+| 364 | 627 | Allan Wayne Lamia |
+| 365 | 620 | Brandon Armstrong |
+| 366 | 620 | Demeka Dangerous-kisses Johnson |
 | 367 | 618 | Gary Stash |
 | 368 | 616 | Cassie Mercer |
 | 369 | 613 | Caitlyn Blackwell |
@@ -412,8 +412,8 @@
 | 404 | 563 | Irene Jones |
 | 405 | 563 | snkylnk |
 | 406 | 561 | Traci Johnson |
-| 407 | 558 | Mikayala Szaz |
-| 408 | 558 | Libby Hicks |
+| 407 | 558 | Libby Hicks |
+| 408 | 558 | Mikayala Szaz |
 | 409 | 556 | Slip |
 | 410 | 554 | Santana Miyagi |
 | 411 | 554 | Rachael Senard |
@@ -515,10 +515,10 @@
 | 507 | 469 | Johnny Yeates |
 | 508 | 469 | Spunkysmom |
 | 509 | 467 | Audrey Jones |
-| 510 | 466 | Tina Marie |
-| 511 | 466 | Koa N Sharon Chen |
-| 512 | 466 | Crystal Greene |
-| 513 | 466 | Kori Beth Babb |
+| 510 | 466 | Koa N Sharon Chen |
+| 511 | 466 | Tina Marie |
+| 512 | 466 | Kori Beth Babb |
+| 513 | 466 | Crystal Greene |
 | 514 | 465 | Davetta Sanford |
 | 515 | 463 | Cody Nishimura |
 | 516 | 463 | Jaye EL Hunter |
@@ -535,7 +535,7 @@
 | 527 | 453 | Rhonda Petro |
 | 528 | 452 | Juanita Lyons |
 | 529 | 451 | Lee Harper |
-| 530 | 451 | KayLynn Ogden McClelland |
+| 530 | 451 | Anthony Huebel |
 | 531 | 451 | Funky Caster |
 | 532 | 451 | KayLynn Ogden McClelland |
 | 533 | 450 | Cheery Matchzone |
@@ -547,9 +547,9 @@
 | 539 | 445 | Sharon Mills |
 | 540 | 445 | Mar Q Thomas |
 | 541 | 445 | Elisheva Mizrachi |
-| 542 | 444 | Fi Ne |
-| 543 | 444 | Ryan Meilleur |
-| 544 | 444 | Fi Ne |
+| 542 | 444 | Ryan Meilleur |
+| 543 | 444 | Fi Ne |
+| 544 | 444 | Chab |
 | 545 | 443 | Christy Long |
 | 546 | 442 | Darlene Bowman |
 | 547 | 442 | Bubbly Snapfit |
