@@ -207,8 +207,8 @@
 | 199 | 377 | rosy |
 | 200 | 376 | Loopy Clusterer |
 | 201 | 374 | Darlene McMillan |
-| 202 | 372 | Giddy Twistbuilder |
-| 203 | 372 | Tom Nault |
+| 202 | 372 | Tom Nault |
+| 203 | 372 | Giddy Twistbuilder |
 | 204 | 370 | Santeria Trece Candles |
 | 205 | 368 | Stephanie Woods |
 | 206 | 367 | Loopy Fallmatch |
@@ -276,8 +276,8 @@
 | 268 | 278 | LaShey Thompson |
 | 269 | 277 | Tracy Martin |
 | 270 | 276 | Crimson |
-| 271 | 276 | _melisa223_ |
-| 272 | 276 | Connie Mohler-Fair |
+| 271 | 276 | Connie Mohler-Fair |
+| 272 | 276 | _melisa223_ |
 | 273 | 275 | Cassandra Bryant |
 | 274 | 273 | Troy |
 | 275 | 272 | fraulila |
@@ -324,8 +324,8 @@
 | 316 | 233 | Tony Waters |
 | 317 | 232 | Nicholas Roddy |
 | 318 | 232 | Donna |
-| 319 | 231 | Kevin Russell |
-| 320 | 231 | Kiki |
+| 319 | 231 | Kiki |
+| 320 | 231 | Kevin Russell |
 | 321 | 230 | BigE |
 | 322 | 228 | Beaudie Stroebel |
 | 323 | 228 | Naur |
@@ -365,8 +365,8 @@
 | 357 | 210 | Ashley Lynn Marchese |
 | 358 | 210 | Criss |
 | 359 | 210 | Saucy Buildout |
-| 360 | 209 | Daring Builder |
-| 361 | 209 | TotoCherue |
+| 360 | 209 | TotoCherue |
+| 361 | 209 | Daring Builder |
 | 362 | 208 | Karent524 |
 | 363 | 207 | angieelyn |
 | 364 | 207 | Kristian Thurman |

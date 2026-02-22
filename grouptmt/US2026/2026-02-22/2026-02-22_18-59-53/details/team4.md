@@ -70,8 +70,8 @@
 | 62 | 698 | Anthony Bryan Riva |
 | 63 | 675 | D3TROITB0RN74 |
 | 64 | 671 | Kimyatta Cavin |
-| 65 | 664 | Valerie Roberts |
-| 66 | 664 | loulou |
+| 65 | 664 | loulou |
+| 66 | 664 | Valerie Roberts |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -142,8 +142,8 @@
 | 134 | 332 | Desi Desporte |
 | 135 | 332 | HastyGrabber |
 | 136 | 330 | David Lay |
-| 137 | 328 | Leslie Nicole |
-| 138 | 328 | Kris Bartlett |
+| 137 | 328 | Kris Bartlett |
+| 138 | 328 | Leslie Nicole |
 | 139 | 325 | Dizzy Tiley |
 | 140 | 324 | Jessica Lynn Cutlip |
 | 141 | 323 | Daria Rycewicz |
@@ -166,8 +166,8 @@
 | 158 | 291 | shark tato |
 | 159 | 290 | 🥔🥔 Spudz |
 | 160 | 290 | Keshia Lyons |
-| 161 | 290 | Chaz Duncan |
-| 162 | 290 | Damn Libra |
+| 161 | 290 | Damn Libra |
+| 162 | 290 | Chaz Duncan |
 | 163 | 288 | Leah Kutz Zirbel |
 | 164 | 286 | Brittney Orengo |
 | 165 | 281 | Lindsay Ball |
@@ -181,8 +181,8 @@
 | 173 | 269 | Nikki Rae Gordon |
 | 174 | 268 | Mimi |
 | 175 | 267 | Casey Grabner |
-| 176 | 267 | Holly |
-| 177 | 267 | Kathy Brookins |
+| 176 | 267 | Kathy Brookins |
+| 177 | 267 | Holly |
 | 178 | 266 | Laura |
 | 179 | 265 | Chris Bernstein |
 | 180 | 264 | Girl |
@@ -196,8 +196,8 @@
 | 188 | 251 | Matt Summer |
 | 189 | 250 | Matt Dell'Olio |
 | 190 | 248 | Chirpy Basepiece |
-| 191 | 247 | Dennis Bradley |
-| 192 | 247 | jim |
+| 191 | 247 | jim |
+| 192 | 247 | Dennis Bradley |
 | 193 | 246 | Carlos Ramirez |
 | 194 | 245 | Autum Leigh |
 | 195 | 245 | 23 |
@@ -224,10 +224,10 @@
 | 216 | 221 | PurpleMoonMa |
 | 217 | 221 | Kim Klutz Olson |
 | 218 | 220 | Joanna |
-| 219 | 219 | Malakai Darien Fox |
-| 220 | 219 | Dizzy Matchzone |
-| 221 | 216 | Chance Strickland |
-| 222 | 216 | ZeeZee |
+| 219 | 219 | Dizzy Matchzone |
+| 220 | 219 | Malakai Darien Fox |
+| 221 | 216 | ZeeZee |
+| 222 | 216 | Chance Strickland |
 | 223 | 216 | Cristy Duerksen |
 | 224 | 215 | Ziggy |
 | 225 | 215 | John Brunetti |
@@ -250,8 +250,8 @@
 | 242 | 202 | Patron Anderson |
 | 243 | 202 | Rebecca Morris |
 | 244 | 201 | Melvin Baird |
-| 245 | 200 | Chair |
-| 246 | 200 | Googenheim |
+| 245 | 200 | Googenheim |
+| 246 | 200 | Chair |
 | 247 | 200 | Lori |
 | 248 | 199 | Orchislactea |
 | 249 | 198 | Silly SeaWeed |
@@ -266,8 +266,8 @@
 | 258 | 192 | Andrew Dang |
 | 259 | 191 | Chaz |
 | 260 | 189 | Shainne Brewer |
-| 261 | 189 | Dihcheese444 |
-| 262 | 189 | 030Synner |
+| 261 | 189 | 030Synner |
+| 262 | 189 | Dihcheese444 |
 | 263 | 188 | A5! |
 | 264 | 185 | Morti |
 | 265 | 185 | Laura Hosford |
@@ -303,8 +303,8 @@
 | 295 | 162 | conceptCollector |
 | 296 | 161 | Tanner Lund |
 | 297 | 160 | wombat |
-| 298 | 160 | Lora |
-| 299 | 160 | Angela Geist Jusinski |
+| 298 | 160 | Angela Geist Jusinski |
+| 299 | 160 | Lora |
 | 300 | 159 | Marcus Todd |
 | 301 | 159 | Jason Bosco |
 | 302 | 159 | DonMega |

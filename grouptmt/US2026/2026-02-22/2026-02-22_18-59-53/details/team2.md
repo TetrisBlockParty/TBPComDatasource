@@ -351,14 +351,14 @@
 | 343 | 703 | Gold Rose |
 | 344 | 702 | Leslie Ann Carter |
 | 345 | 700 | Vincent Petrella |
-| 346 | 700 | Beverly Owens |
-| 347 | 700 | Rosemadder |
+| 346 | 700 | Rosemadder |
+| 347 | 700 | Beverly Owens |
 | 348 | 699 | tejas25 |
 | 349 | 697 | Dreamy Blast |
 | 350 | 697 | Ashle Scranton |
 | 351 | 695 | Mama T |
-| 352 | 695 | Dannette Goldberg-Richards |
-| 353 | 695 | Lakeysha Dortch |
+| 352 | 695 | Lakeysha Dortch |
+| 353 | 695 | Dannette Goldberg-Richards |
 | 354 | 694 | Doowop40 |
 | 355 | 692 | Binyah-Binyah |
 | 356 | 691 | Joce Lynn |
@@ -417,8 +417,8 @@
 | 409 | 613 | Caitlyn Blackwell |
 | 410 | 605 | Biggest thing |
 | 411 | 605 | g |
-| 412 | 602 | KhaosLord |
-| 413 | 602 | Shaun Church |
+| 412 | 602 | Shaun Church |
+| 413 | 602 | KhaosLord |
 | 414 | 601 | Moua Ying |
 | 415 | 600 | Arkei Luster |
 | 416 | 599 | Nashu |
@@ -474,8 +474,8 @@
 | 466 | 540 | Joshua Self |
 | 467 | 540 | Dizzy Zone |
 | 468 | 534 | Alexandra Weir |
-| 469 | 533 | Davetta Sanford |
-| 470 | 533 | Gauri Shrotriya |
+| 469 | 533 | Gauri Shrotriya |
+| 470 | 533 | Davetta Sanford |
 | 471 | 532 | Ann Matzkanin |
 | 472 | 531 | Aishah Brice |
 | 473 | 531 | Briana Alexander |
@@ -535,8 +535,8 @@
 | 527 | 481 | Quirky Twistline |
 | 528 | 481 | Anthony Huebel |
 | 529 | 481 | Klee |
-| 530 | 480 | Ryan Meilleur |
-| 531 | 480 | Ashley Collins |
+| 530 | 480 | Ashley Collins |
+| 531 | 480 | Ryan Meilleur |
 | 532 | 480 | Dar |
 | 533 | 477 | Rhonda Petro |
 | 534 | 476 | Christy Krissie |
@@ -599,9 +599,9 @@
 | 591 | 444 | Chab |
 | 592 | 444 | Fi Ne |
 | 593 | 443 | Snazzy Basepiece |
-| 594 | 442 | Bubbly Snapfit |
-| 595 | 442 | Juan Castillo |
-| 596 | 442 | Niceday |
+| 594 | 442 | Juan Castillo |
+| 595 | 442 | Niceday |
+| 596 | 442 | Bubbly Snapfit |
 | 597 | 437 | Brenda Messer |
 | 598 | 436 | Kia Humphery |
 | 599 | 436 | Kayla |
@@ -762,8 +762,8 @@
 | 754 | 351 | NickyBrooks |
 | 755 | 351 | Twisty Tetriblast |
 | 756 | 351 | Maria Louise |
-| 757 | 350 | Kelly Templeton |
-| 758 | 350 | Kyla Louise |
+| 757 | 350 | Kyla Louise |
+| 758 | 350 | Kelly Templeton |
 | 759 | 350 | Maria Hammett |
 | 760 | 350 | Chris Harr |
 | 761 | 350 | Epic Fitzone |
@@ -1390,8 +1390,8 @@
 | 1382 | 202 | BIG BABY |
 | 1383 | 202 | JessieP123 |
 | 1384 | 202 | Ha Ab |
-| 1385 | 201 | Jennifer Rajek |
-| 1386 | 201 | LintFunk |
+| 1385 | 201 | LintFunk |
+| 1386 | 201 | Jennifer Rajek |
 | 1387 | 201 | Cosmo |
 | 1388 | 201 | Jadelynn Sarbacher |
 | 1389 | 201 | Betty Ruth Hale |

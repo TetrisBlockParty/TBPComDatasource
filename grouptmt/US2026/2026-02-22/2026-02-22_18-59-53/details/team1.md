@@ -159,8 +159,8 @@
 | 151 | 308 | Sharon Reynolds |
 | 152 | 306 | Happy Basegrid |
 | 153 | 306 | Bloknboy |
-| 154 | 304 | Nicole Roseberry Weber |
-| 155 | 304 | Constance Risner |
+| 154 | 304 | Constance Risner |
+| 155 | 304 | Nicole Roseberry Weber |
 | 156 | 303 | Chelsea Dahlquist |
 | 157 | 297 | Danielle Little-Daugherty |
 | 158 | 296 | Madison Wicks |
@@ -180,8 +180,8 @@
 | 172 | 276 | Damon J. Martin |
 | 173 | 274 | Angela Renea Lester |
 | 174 | 273 | Shannon Marie Pitts |
-| 175 | 272 | Tana |
-| 176 | 272 | Sleepysloath5745 |
+| 175 | 272 | Sleepysloath5745 |
+| 176 | 272 | Tana |
 | 177 | 270 | Mandyy Rae |
 | 178 | 268 | Christy Jones |
 | 179 | 268 | Amanda Jarnagin |
@@ -221,8 +221,8 @@
 | 213 | 228 | Cheeky Pop |
 | 214 | 227 | Cody Gates |
 | 215 | 226 | Michael |
-| 216 | 225 | Jessie Lynn |
-| 217 | 225 | Bindi |
+| 216 | 225 | Bindi |
+| 217 | 225 | Jessie Lynn |
 | 218 | 224 | ParisandCory Champagne |
 | 219 | 223 | Erez Yosef |
 | 220 | 223 | Christina Backer |
