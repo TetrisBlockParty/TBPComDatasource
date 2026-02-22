@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | MissTaylor |
-| 93 | 838 | Sarajane Lokan |
+| 92 | 838 | Sarajane Lokan |
+| 93 | 838 | MissTaylor |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -228,8 +228,8 @@
 | 220 | 382 | Giddy Twistbuilder |
 | 221 | 382 | Scott Carleton |
 | 222 | 378 | Chris Bell |
-| 223 | 375 | Duane Bright |
-| 224 | 375 | Kristal C Lee |
+| 223 | 375 | Kristal C Lee |
+| 224 | 375 | Duane Bright |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 372 | Sarah Moyer |
 | 227 | 370 | RickyG |

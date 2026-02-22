@@ -362,10 +362,10 @@
 | 354 | 763 | Heather Causey |
 | 355 | 761 | Hyper Cluster |
 | 356 | 760 | Doowop40 |
-| 357 | 760 | Andrew Willis |
-| 358 | 760 | Cheech Dta |
-| 359 | 758 | Quirky Twistline |
-| 360 | 758 | Stephanie Neuburger |
+| 357 | 760 | Cheech Dta |
+| 358 | 760 | Andrew Willis |
+| 359 | 758 | Stephanie Neuburger |
+| 360 | 758 | Quirky Twistline |
 | 361 | 751 | Loony Snapper |
 | 362 | 748 | Brenda Utphall |
 | 363 | 748 | Stephanie Lumanlan |
@@ -885,8 +885,8 @@
 | 877 | 343 | Victoria Marie Bunch |
 | 878 | 343 | Snappy Shatterfit |
 | 879 | 342 | Danielle DeLozier Plesec |
-| 880 | 342 | Theresa Sterrett |
-| 881 | 342 | SwifftFox |
+| 880 | 342 | SwifftFox |
+| 881 | 342 | Theresa Sterrett |
 | 882 | 342 | Patrick Fleming |
 | 883 | 341 | Angela Yantz |
 | 884 | 341 | Robin L. Vial |
@@ -972,8 +972,8 @@
 | 964 | 315 | Himothy |
 | 965 | 314 | Allyson Marra |
 | 966 | 314 | John Quiring |
-| 967 | 314 | Sveta Lana |
-| 968 | 314 | Amanda West |
+| 967 | 314 | Amanda West |
+| 968 | 314 | Sveta Lana |
 | 969 | 313 | Dad |
 | 970 | 312 | Kimmy McKay |
 | 971 | 312 | Daring Matchfit |

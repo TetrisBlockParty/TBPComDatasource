@@ -81,8 +81,8 @@
 | 73 | 671 | Kimyatta Cavin |
 | 74 | 664 | Valerie Roberts |
 | 75 | 659 | Jonathan Kimbrough |
-| 76 | 647 | Shauna Havard |
-| 77 | 647 | KM8 |
+| 76 | 647 | KM8 |
+| 77 | 647 | Shauna Havard |
 | 78 | 646 | Jacqueline Helm |
 | 79 | 639 | TheNeesh50 |
 | 80 | 633 | Lisa Davis |
