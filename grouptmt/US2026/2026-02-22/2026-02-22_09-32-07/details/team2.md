@@ -1106,8 +1106,8 @@
 | 1098 | 205 | Ashley McCarthy-Arnone |
 | 1099 | 205 | Tiffney Wroten |
 | 1100 | 205 | Desiree Hargrove Moore |
-| 1101 | 204 | Ali Gralski |
-| 1102 | 204 | Lakeela Wise |
+| 1101 | 204 | Lakeela Wise |
+| 1102 | 204 | Ali Gralski |
 | 1103 | 204 | Edralin Custodio |
 | 1104 | 202 | BIG BABY |
 | 1105 | 202 | Joshua Yonker |

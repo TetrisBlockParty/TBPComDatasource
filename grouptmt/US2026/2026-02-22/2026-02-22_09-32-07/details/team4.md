@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Shelly Chandler |
-| 34 | 843 | Lucille Truesdale |
+| 33 | 843 | Lucille Truesdale |
+| 34 | 843 | Shelly Chandler |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -143,9 +143,9 @@
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
 | 137 | 271 | Sarah Brown |
-| 138 | 264 | Epic Curvetile |
+| 138 | 264 | Girl |
 | 139 | 264 | Dana Scott |
-| 140 | 264 | Girl |
+| 140 | 264 | Epic Curvetile |
 | 141 | 262 | Holly Jolly |
 | 142 | 256 | Mylo Lipscomb |
 | 143 | 255 | Lindsay Ball |
@@ -192,9 +192,9 @@
 | 184 | 198 | Keith Kelley |
 | 185 | 198 | Jessica Lynn Cutlip |
 | 186 | 196 | Oscar Alberto Perez |
-| 187 | 195 | Malakai Darien Fox |
-| 188 | 195 | ZeeZee |
-| 189 | 195 | 中山成巳 |
+| 187 | 195 | ZeeZee |
+| 188 | 195 | 中山成巳 |
+| 189 | 195 | Malakai Darien Fox |
 | 190 | 194 | Zany Twisterfit |
 | 191 | 192 | Shauna Havard |
 | 192 | 191 | Klo |
