@@ -73,13 +73,13 @@
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | Valerie Roberts |
-| 69 | 664 | loulou |
+| 68 | 664 | loulou |
+| 69 | 664 | Valerie Roberts |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
-| 73 | 647 | KM8 |
-| 74 | 647 | Shauna Havard |
+| 73 | 647 | Shauna Havard |
+| 74 | 647 | KM8 |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
 | 77 | 617 | Jason Hart |
@@ -122,8 +122,8 @@
 | 114 | 450 | shar |
 | 115 | 448 | Kristin Manee |
 | 116 | 435 | Leslie Thomas |
-| 117 | 427 | Jolly Dashfit |
-| 118 | 427 | KJ Pool |
+| 117 | 427 | KJ Pool |
+| 118 | 427 | Jolly Dashfit |
 | 119 | 426 | Ren Mc |
 | 120 | 418 | Dizzy Tiley |
 | 121 | 415 | Monica Daley |
@@ -203,8 +203,8 @@
 | 195 | 267 | Holly |
 | 196 | 266 | Laura |
 | 197 | 264 | Epic Curvetile |
-| 198 | 262 | Holly Jolly |
-| 199 | 262 | Joeliecea Cobb |
+| 198 | 262 | Joeliecea Cobb |
+| 199 | 262 | Holly Jolly |
 | 200 | 261 | scott |
 | 201 | 259 | Sam Bishop |
 | 202 | 259 | Melvin Baird |
@@ -237,8 +237,8 @@
 | 229 | 230 | Jade Rian |
 | 230 | 230 | blockstar |
 | 231 | 228 | Antony Dwayne Beasley |
-| 232 | 225 | Perky Patternblock |
-| 233 | 225 | Jenna McGeorge |
+| 232 | 225 | Jenna McGeorge |
+| 233 | 225 | Perky Patternblock |
 | 234 | 222 | Brandi Durig |
 | 235 | 221 | PurpleMoonMa |
 | 236 | 221 | Rheanda Weaskus |
@@ -377,7 +377,7 @@
 | 369 | 145 | Sandra Safford |
 | 370 | 145 | Glitzy Crasher |
 | 371 | 144 | Squeezy Pearsall |
-| 372 | 143 | Metsfan |
+| 372 | 143 | Steph Marie |
 | 373 | 143 | Daresha Fair |
 | 374 | 143 | Metsfan |
 | 375 | 143 | Asher |

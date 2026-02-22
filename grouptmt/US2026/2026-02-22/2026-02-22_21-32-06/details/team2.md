@@ -147,8 +147,8 @@
 | 139 | 1452 | Poppy Snapper |
 | 140 | 1450 | Cody Smith-Candelaria |
 | 141 | 1418 | L3sli3 |
-| 142 | 1411 | Zappy Cascade |
-| 143 | 1411 | niecy |
+| 142 | 1411 | niecy |
+| 143 | 1411 | Zappy Cascade |
 | 144 | 1401 | Brandy Andre |
 | 145 | 1397 | Bussyiano Page |
 | 146 | 1395 | Jose Mendoza |
@@ -267,8 +267,8 @@
 | 259 | 912 | Dedra Steward |
 | 260 | 910 | Shuany Arias |
 | 261 | 907 | Gene Mills |
-| 262 | 905 | Osun Anuket Esu |
-| 263 | 905 | Kristin Gower |
+| 262 | 905 | Kristin Gower |
+| 263 | 905 | Osun Anuket Esu |
 | 264 | 904 | Ashlen Dorrell |
 | 265 | 899 | John Bednarik |
 | 266 | 897 | Shelley Thornburgh Wright |
@@ -324,13 +324,13 @@
 | 316 | 782 | Beth |
 | 317 | 781 | Hong Tang |
 | 318 | 778 | Lola Contreras |
-| 319 | 777 | Jessicah Myers |
-| 320 | 777 | Tesha Oldaker |
+| 319 | 777 | Tesha Oldaker |
+| 320 | 777 | Jessicah Myers |
 | 321 | 777 | Samantha Jo |
 | 322 | 774 | Ashley Dow |
 | 323 | 774 | Ginnell Browner |
-| 324 | 773 | Diana Fitzwater |
-| 325 | 773 | Heather Schelkopf |
+| 324 | 773 | Heather Schelkopf |
+| 325 | 773 | Diana Fitzwater |
 | 326 | 772 | Danielle Simmons |
 | 327 | 768 | Michele Morgan |
 | 328 | 767 | Ashley Lopez |
@@ -344,8 +344,8 @@
 | 336 | 746 | Kathryn Townsley |
 | 337 | 746 | Jerilyn Andrina |
 | 338 | 745 | Kiely Tomaskovich |
-| 339 | 743 | Melissa Cole |
-| 340 | 743 | Tiara Elizabeth Baker |
+| 339 | 743 | Tiara Elizabeth Baker |
+| 340 | 743 | Melissa Cole |
 | 341 | 741 | Mandi Douglas Hilt |
 | 342 | 740 | Jerry Tempelmeyer |
 | 343 | 739 | Brenda Utphall |
@@ -544,8 +544,8 @@
 | 536 | 495 | Bubbly Snapbuild |
 | 537 | 494 | Venita Ray |
 | 538 | 493 | Sue Leard |
-| 539 | 493 | Jessica S Flecha |
-| 540 | 493 | Besma Ao |
+| 539 | 493 | Besma Ao |
+| 540 | 493 | Jessica S Flecha |
 | 541 | 492 | Breezy Clusterer |
 | 542 | 492 | Maya June |
 | 543 | 491 | Alezandra Smith |
@@ -569,8 +569,8 @@
 | 561 | 482 | Kathleen Driskell |
 | 562 | 481 | Quirky Twistline |
 | 563 | 480 | Ryan Meilleur |
-| 564 | 480 | Dar |
-| 565 | 480 | Kori Beth Babb |
+| 564 | 480 | Kori Beth Babb |
+| 565 | 480 | Dar |
 | 566 | 479 | James Smith |
 | 567 | 477 | Rhonda Petro |
 | 568 | 476 | Christy Krissie |

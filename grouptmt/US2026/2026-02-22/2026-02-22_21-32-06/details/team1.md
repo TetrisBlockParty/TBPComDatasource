@@ -249,8 +249,8 @@
 | 241 | 223 | Erez Yosef |
 | 242 | 223 | Christina Backer |
 | 243 | 222 | Debbie Davis |
-| 244 | 221 | Amy Hess |
-| 245 | 221 | Daring Fitclear |
+| 244 | 221 | Daring Fitclear |
+| 245 | 221 | Amy Hess |
 | 246 | 220 | Bouncy Grid |
 | 247 | 219 | Negan Mallory Knoxx Spence |
 | 248 | 219 | Erin Rosberg |
