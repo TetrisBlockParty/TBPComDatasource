@@ -534,8 +534,8 @@
 | 526 | 361 | Lewis Sturgeon |
 | 527 | 360 | Jroc |
 | 528 | 359 | Cheyenne Donovan |
-| 529 | 358 | Alyssaaelena |
-| 530 | 358 | Sydney Busse |
+| 529 | 358 | Sydney Busse |
+| 530 | 358 | Alyssaaelena |
 | 531 | 358 | Veronics |
 | 532 | 358 | Jessica Lamb |
 | 533 | 357 | Quinn |
@@ -642,8 +642,8 @@
 | 634 | 302 | Kena T. Tanner |
 | 635 | 302 | Maxwell Escalera |
 | 636 | 300 | Kacee Conrad Bock |
-| 637 | 299 | Cassie Newton |
-| 638 | 299 | Beth Decker |
+| 637 | 299 | Beth Decker |
+| 638 | 299 | Cassie Newton |
 | 639 | 298 | Frilly Fallzone |
 | 640 | 298 | RetroLemur |
 | 641 | 298 | Ryan Stadel |

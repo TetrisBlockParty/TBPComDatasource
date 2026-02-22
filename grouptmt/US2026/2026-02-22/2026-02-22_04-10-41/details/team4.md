@@ -52,8 +52,8 @@
 | 44 | 630 | Dustee Craddock-Harrison |
 | 45 | 627 | Jonathan Kimbrough |
 | 46 | 620 | Cassie Michaux |
-| 47 | 614 | KM8 |
-| 48 | 614 | Robin Getchel |
+| 47 | 614 | Robin Getchel |
+| 48 | 614 | KM8 |
 | 49 | 608 | Denny Shives |
 | 50 | 603 | LisaJo Picken Buchanan |
 | 51 | 599 | Brittney Griggs |
@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Alicia Bass |
-| 75 | 396 | Amy Suckarieh |
+| 74 | 396 | Amy Suckarieh |
+| 75 | 396 | Alicia Bass |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -172,8 +172,8 @@
 | 164 | 189 | Stacey Stano |
 | 165 | 188 | Andria Lynn |
 | 166 | 186 | Holly |
-| 167 | 185 | Lori |
-| 168 | 185 | Diana Houts |
+| 167 | 185 | Diana Houts |
+| 168 | 185 | Lori |
 | 169 | 185 | Andy Cabral |
 | 170 | 184 | Ak Jones |
 | 171 | 181 | Carter Jones |

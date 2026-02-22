@@ -126,8 +126,8 @@
 | 118 | 428 | Betty Ivy |
 | 119 | 416 | Mary Pellegrino |
 | 120 | 411 | FuzzyNavel |
-| 121 | 410 | Stephanie Blkpep Davidson |
-| 122 | 410 | Stephanie Simpson |
+| 121 | 410 | Stephanie Simpson |
+| 122 | 410 | Stephanie Blkpep Davidson |
 | 123 | 409 | Karon Griffin |
 | 124 | 405 | Michelle |
 | 125 | 403 | Scott Lindsay |
@@ -157,16 +157,16 @@
 | 149 | 359 | Dapper Snap |
 | 150 | 355 | Tessina Dewey-Mancino |
 | 151 | 355 | Sherry Ogden |
-| 152 | 353 | CeceGeGe |
-| 153 | 353 | Shunta Jacobs |
+| 152 | 353 | Shunta Jacobs |
+| 153 | 353 | CeceGeGe |
 | 154 | 352 | Chris Bell |
 | 155 | 350 | Darlene McMillan |
 | 156 | 348 | Chasity |
 | 157 | 347 | Nicole Flippo |
 | 158 | 343 | Ashley Raines |
 | 159 | 338 | Leah Barnett |
-| 160 | 332 | Rich LeBlanc |
-| 161 | 332 | Fallorina Susana |
+| 160 | 332 | Fallorina Susana |
+| 161 | 332 | Rich LeBlanc |
 | 162 | 328 | Aaron Pitkin |
 | 163 | 323 | Demetrious Shaw Sr. |
 | 164 | 320 | Tom Nault |

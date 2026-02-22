@@ -73,8 +73,8 @@
 | 65 | 428 | Stephanie Zahn |
 | 66 | 423 | Kellie |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Jazzy Framezone |
-| 69 | 412 | Anaid Sanchez |
+| 68 | 412 | Anaid Sanchez |
+| 69 | 412 | Jazzy Framezone |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Cynthia Bradley |
 | 72 | 390 | Candy Jones |
@@ -268,8 +268,8 @@
 | 260 | 124 | Howdi Duty |
 | 261 | 123 | Zany Tiler |
 | 262 | 122 | Nate Funk |
-| 263 | 121 | Jacob Shaddock |
-| 264 | 121 | Jamie Jury |
+| 263 | 121 | Jamie Jury |
+| 264 | 121 | Jacob Shaddock |
 | 265 | 120 | DoodleBug |
 | 266 | 120 | Letson Melissa |
 | 267 | 119 | Tater |
@@ -386,7 +386,7 @@
 | 378 | 85 | Jolly Climber |
 | 379 | 85 | Kimberly Sharp-Bowen |
 | 380 | 84 | Jennifer Duttry |
-| 381 | 84 | Jason Savage |
+| 381 | 84 | Amber Nixon |
 | 382 | 84 | Christina Torres |
 | 383 | 84 | Jason Savage |
 | 384 | 83 | Ric Hard Hernandez |
