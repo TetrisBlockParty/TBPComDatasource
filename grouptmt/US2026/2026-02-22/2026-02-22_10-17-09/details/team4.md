@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -82,8 +82,8 @@
 | 74 | 512 | Casey Jeffcoat |
 | 75 | 511 | Michelle Marie |
 | 76 | 500 | Rodney McMath Jr. |
-| 77 | 486 | Carmethia Clemons Haslerig |
-| 78 | 486 | Landon Keith Graffeo |
+| 77 | 486 | Landon Keith Graffeo |
+| 78 | 486 | Carmethia Clemons Haslerig |
 | 79 | 485 | TeeJ |
 | 80 | 447 | Samantha Peterson |
 | 81 | 447 | Erin Thomas |
@@ -136,18 +136,18 @@
 | 128 | 286 | shark tato |
 | 129 | 283 | Brittney Orengo |
 | 130 | 281 | Meagan Nicole |
-| 131 | 278 | Carrie Brian |
-| 132 | 278 | Desi Desporte |
-| 133 | 277 | Mary Ann Pabukis |
-| 134 | 277 | Scott Jameson |
+| 131 | 278 | Desi Desporte |
+| 132 | 278 | Carrie Brian |
+| 133 | 277 | Scott Jameson |
+| 134 | 277 | Mary Ann Pabukis |
 | 135 | 275 | Dizzy Tiley |
 | 136 | 274 | Calvin Cannon |
 | 137 | 272 | Keshia Lyons |
 | 138 | 271 | Sarah Brown |
 | 139 | 265 | Andy Cabral |
-| 140 | 264 | Girl |
+| 140 | 264 | Dana Scott |
 | 141 | 264 | Epic Curvetile |
-| 142 | 264 | Dana Scott |
+| 142 | 264 | Girl |
 | 143 | 262 | Holly Jolly |
 | 144 | 258 | Bio Nelly |
 | 145 | 256 | Mylo Lipscomb |
@@ -160,18 +160,18 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Swanky Fitline |
-| 159 | 227 | Alyssa Papen |
+| 158 | 227 | Alyssa Papen |
+| 159 | 227 | Swanky Fitline |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
 | 163 | 223 | Kris Bartlett |
 | 164 | 222 | Joeliecea Cobb |
-| 165 | 221 | PurpleMoonMa |
-| 166 | 221 | Rheanda Weaskus |
+| 165 | 221 | Rheanda Weaskus |
+| 166 | 221 | PurpleMoonMa |
 | 167 | 220 | Matt Dell'Olio |
 | 168 | 218 | Casey Grabner |
 | 169 | 217 | Chaz Duncan |
@@ -249,8 +249,8 @@
 | 241 | 155 | Lindsey Gonzalez |
 | 242 | 154 | Zany Shatterer |
 | 243 | 153 | Empress Oasis |
-| 244 | 152 | Austin Owens |
-| 245 | 152 | Faja |
+| 244 | 152 | Faja |
+| 245 | 152 | Austin Owens |
 | 246 | 149 | Shainne Brewer |
 | 247 | 149 | Tanner Lund |
 | 248 | 148 | Nubian1 |
@@ -317,8 +317,8 @@
 | 309 | 128 | Silly Zonebuilder |
 | 310 | 128 | Madison Sweere |
 | 311 | 127 | Kim Hunt |
-| 312 | 126 | Cheryl Johnson |
-| 313 | 126 | icequeenx |
+| 312 | 126 | icequeenx |
+| 313 | 126 | Cheryl Johnson |
 | 314 | 126 | PAPatty |
 | 315 | 125 | Ann G. Carrillo |
 | 316 | 125 | Daresha Fair |
@@ -327,8 +327,8 @@
 | 319 | 124 | Circuit8 |
 | 320 | 124 | Atia Scott |
 | 321 | 124 | Sam Middleton |
-| 322 | 123 | Lora |
-| 323 | 123 | Joseph Edmonson |
+| 322 | 123 | Joseph Edmonson |
+| 323 | 123 | Lora |
 | 324 | 121 | Jim Hart |
 | 325 | 121 | Riverdale |
 | 326 | 120 | Rebecca Morris |

@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -76,8 +76,8 @@
 | 68 | 473 | Kellie |
 | 69 | 461 | April Carroll |
 | 70 | 447 | Evie Khalil |
-| 71 | 434 | Hyper |
-| 72 | 434 | MomMom |
+| 71 | 434 | MomMom |
+| 72 | 434 | Hyper |
 | 73 | 430 | Nancy Green |
 | 74 | 428 | Stephanie Zahn |
 | 75 | 418 | Jazzy Framezone |
@@ -95,9 +95,9 @@
 | 87 | 388 | Jennifer ManWarren |
 | 88 | 383 | Loony Fitzone |
 | 89 | 382 | Jacqueline Williams |
-| 90 | 379 | Kimmie Kimms |
+| 90 | 379 | Nerdy Linkblock |
 | 91 | 379 | Austin James |
-| 92 | 379 | Nerdy Linkblock |
+| 92 | 379 | Kimmie Kimms |
 | 93 | 376 | lil mickey |
 | 94 | 374 | Tinah Montanna |
 | 95 | 369 | Arianna O'Brien |
@@ -120,8 +120,8 @@
 | 112 | 328 | Gracie |
 | 113 | 326 | Monica Donato |
 | 114 | 321 | Maria C. Hernandez |
-| 115 | 319 | Patrick Luckenbill |
-| 116 | 319 | Deanna L Hermanson |
+| 115 | 319 | Deanna L Hermanson |
+| 116 | 319 | Patrick Luckenbill |
 | 117 | 318 | Jessica Sheehan |
 | 118 | 316 | Ly Phethmany |
 | 119 | 313 | Tanya Carpenter-Reynolds |
@@ -303,8 +303,8 @@
 | 295 | 136 | Jessie |
 | 296 | 136 | Chuck Gannon |
 | 297 | 135 | Mrs.Patrica |
-| 298 | 133 | MommaKFC |
-| 299 | 133 | Lynn Adams |
+| 298 | 133 | Lynn Adams |
+| 299 | 133 | MommaKFC |
 | 300 | 132 | Layzietyme |
 | 301 | 132 | Larry Tilton |
 | 302 | 131 | Tiger Lily |

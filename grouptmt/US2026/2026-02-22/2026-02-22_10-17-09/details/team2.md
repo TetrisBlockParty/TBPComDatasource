@@ -326,8 +326,8 @@
 | 318 | 650 | Shiny Rollzone |
 | 319 | 645 | tejas25 |
 | 320 | 643 | Hoppy Brickmatch |
-| 321 | 641 | Joce Lynn |
-| 322 | 641 | Angie Bolton Workman |
+| 321 | 641 | Angie Bolton Workman |
+| 322 | 641 | Joce Lynn |
 | 323 | 640 | BYM4L |
 | 324 | 639 | Crystie Hicks |
 | 325 | 639 | Rebecca Miller |
@@ -424,8 +424,8 @@
 | 416 | 500 | Sarah Ridenour |
 | 417 | 499 | Sarah Massey |
 | 418 | 498 | Rhonda Milstead |
-| 419 | 497 | June E Hanson |
-| 420 | 497 | Doowop40 |
+| 419 | 497 | Doowop40 |
+| 420 | 497 | June E Hanson |
 | 421 | 497 | Kimberly Randesi |
 | 422 | 496 | Blacc Blac |
 | 423 | 493 | Kara Gillen |
@@ -482,8 +482,8 @@
 | 474 | 456 | Melissa Rebbe-Lehman |
 | 475 | 455 | Kiana Boschh |
 | 476 | 454 | Casey Schumacher |
-| 477 | 453 | Joshua Sommerville |
-| 478 | 453 | Rhonda Petro |
+| 477 | 453 | Rhonda Petro |
+| 478 | 453 | Joshua Sommerville |
 | 479 | 451 | Funky Caster |
 | 480 | 451 | Dylan Thomason |
 | 481 | 450 | Cheery Matchzone |
@@ -614,8 +614,8 @@
 | 606 | 373 | Jessica Hughes |
 | 607 | 373 | Hunter Connors |
 | 608 | 372 | Ebony Deloach Bryant |
-| 609 | 371 | AkaLefty |
-| 610 | 371 | Brenda Messer |
+| 609 | 371 | Brenda Messer |
+| 610 | 371 | AkaLefty |
 | 611 | 371 | Saucy Fitzone |
 | 612 | 369 | RaeVan Worthington |
 | 613 | 369 | Tony Lea |
@@ -766,8 +766,8 @@
 | 758 | 297 | Ashley Robbins |
 | 759 | 296 | Jennifer Darby |
 | 760 | 296 | Frisky Riserbuilder |
-| 761 | 296 | Zappy Dropmatch |
-| 762 | 296 | Epic Fitzone |
+| 761 | 296 | Epic Fitzone |
+| 762 | 296 | Zappy Dropmatch |
 | 763 | 295 | Noel Tarmy |
 | 764 | 294 | Amanda Edwards |
 | 765 | 293 | Ann Marie Davis |

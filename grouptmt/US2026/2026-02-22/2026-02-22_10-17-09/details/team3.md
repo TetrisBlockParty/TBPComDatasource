@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -103,8 +103,8 @@
 | 95 | 594 | Queen Kam |
 | 96 | 591 | Jesse Olive |
 | 97 | 588 | yoyo |
-| 98 | 582 | Jay Horn |
-| 99 | 582 | Natasha Jones |
+| 98 | 582 | Natasha Jones |
+| 99 | 582 | Jay Horn |
 | 100 | 581 | Danielle Mogg |
 | 101 | 579 | Jd Morris |
 | 102 | 566 | Dolores Falco |
@@ -204,11 +204,11 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
-| 202 | 308 | Rania Zaqout |
-| 203 | 308 | Daryn Elliott |
+| 202 | 308 | Daryn Elliott |
+| 203 | 308 | Rania Zaqout |
 | 204 | 307 | rnr junky |
 | 205 | 307 | Blocked |
 | 206 | 302 | Rebecca Bailey |
@@ -245,8 +245,8 @@
 | 237 | 264 | Grego Daniel |
 | 238 | 263 | Brittany |
 | 239 | 262 | Joe-Maggie Mathews |
-| 240 | 261 | Tiffany Ford |
-| 241 | 261 | Tasha Wesson-Torrence |
+| 240 | 261 | Tasha Wesson-Torrence |
+| 241 | 261 | Tiffany Ford |
 | 242 | 261 | Marquita Sheard |
 | 243 | 260 | Grams |
 | 244 | 259 | Danielle Weikel |
@@ -258,8 +258,8 @@
 | 250 | 256 | Tiffany Davie |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | Annie Marie |
-| 254 | 249 | JerseyJess |
+| 253 | 249 | JerseyJess |
+| 254 | 249 | Annie Marie |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -290,16 +290,16 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 215 | IamJust Neyamijah Washington Sr. |
 | 284 | 214 | Angela Scott |
-| 285 | 214 | Rebel124 |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Rebel124 |
 | 287 | 213 | Nicholas Roddy |
 | 288 | 212 | Desiree Gold |
 | 289 | 212 | Sunny Rotater |
-| 290 | 211 | El Chapa |
-| 291 | 211 | Khaleada McGill Banks |
+| 290 | 211 | Khaleada McGill Banks |
+| 291 | 211 | El Chapa |
 | 292 | 211 | Velma Mull |
-| 293 | 210 | Criss |
-| 294 | 210 | Lizabeth Fox |
+| 293 | 210 | Lizabeth Fox |
+| 294 | 210 | Criss |
 | 295 | 209 | Micayah Stevens |
 | 296 | 208 | AlsoJess |
 | 297 | 207 | Jessica |
@@ -354,8 +354,8 @@
 | 346 | 168 | April Matthew Kibble |
 | 347 | 168 | Trice Thomas |
 | 348 | 167 | Shicken Nuggit |
-| 349 | 167 | Romeo |
-| 350 | 167 | Irene Arreguin |
+| 349 | 167 | Irene Arreguin |
+| 350 | 167 | Romeo |
 | 351 | 166 | Noettín Kan Zasnemoore |
 | 352 | 166 | Angella Lyons |
 | 353 | 166 | Snarky McFace |
@@ -364,9 +364,9 @@
 | 356 | 165 | Ashley Lynn Marchese |
 | 357 | 164 | Ashley Rufus Bythcez |
 | 358 | 164 | momo |
-| 359 | 163 | Colleen Phelps |
-| 360 | 163 | Christine Trester |
-| 361 | 163 | Diana Ibarra |
+| 359 | 163 | Diana Ibarra |
+| 360 | 163 | Colleen Phelps |
+| 361 | 163 | Christine Trester |
 | 362 | 163 | Ava Petito |
 | 363 | 162 | Eric Caccavale |
 | 364 | 162 | Kristin Delibac Corrigan |
