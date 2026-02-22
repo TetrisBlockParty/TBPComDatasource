@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 447 | Samantha Peterson |
 | 78 | 447 | Erin Thomas |
@@ -129,8 +129,8 @@
 | 121 | 290 | 🥔🥔 Spudz |
 | 122 | 288 | Leslie Nicole |
 | 123 | 287 | Shannon Ferrari |
-| 124 | 286 | Daria Rycewicz |
-| 125 | 286 | shark tato |
+| 124 | 286 | shark tato |
+| 125 | 286 | Daria Rycewicz |
 | 126 | 283 | Brittney Orengo |
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
@@ -139,8 +139,8 @@
 | 131 | 277 | Scott Jameson |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
-| 134 | 264 | Girl |
-| 135 | 264 | Dana Scott |
+| 134 | 264 | Dana Scott |
+| 135 | 264 | Girl |
 | 136 | 264 | Epic Curvetile |
 | 137 | 262 | Holly Jolly |
 | 138 | 256 | Mylo Lipscomb |
@@ -186,15 +186,15 @@
 | 178 | 199 | Zethra Prenisha Rahming |
 | 179 | 198 | Jessica Lynn Cutlip |
 | 180 | 196 | Oscar Alberto Perez |
-| 181 | 195 | Malakai Darien Fox |
+| 181 | 195 | 中山成巳 |
 | 182 | 195 | ZeeZee |
-| 183 | 195 | 中山成巳 |
+| 183 | 195 | Malakai Darien Fox |
 | 184 | 194 | Zany Twisterfit |
 | 185 | 192 | Shauna Havard |
 | 186 | 191 | Klo |
 | 187 | 190 | Cheery Risebuilder |
-| 188 | 189 | Stacey Stano |
-| 189 | 189 | Calvin Dennis |
+| 188 | 189 | Calvin Dennis |
+| 189 | 189 | Stacey Stano |
 | 190 | 188 | Andria Lynn |
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
@@ -314,9 +314,9 @@
 | 306 | 120 | Bryan Hodgins |
 | 307 | 119 | rebel4lyfe |
 | 308 | 119 | River Shady Sr. |
-| 309 | 119 | rebel4lyfe |
+| 309 | 119 | Gwendolyn Pitcairn |
 | 310 | 118 | Christina Black |
-| 311 | 117 | PennyCandee |
+| 311 | 117 | Gracie Ann Taylor |
 | 312 | 117 | BigSammy420 |
 | 313 | 117 | PennyCandee |
 | 314 | 116 | Bradley Reeves |
