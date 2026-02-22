@@ -401,13 +401,13 @@
 | 393 | 545 | Frisky Clearpiece |
 | 394 | 544 | Deidre Shaffer |
 | 395 | 544 | Leah Keesling |
-| 396 | 543 | Vanessa Moreno |
-| 397 | 543 | Julie Kresal |
+| 396 | 543 | Julie Kresal |
+| 397 | 543 | Vanessa Moreno |
 | 398 | 542 | AISlop |
 | 399 | 541 | g |
 | 400 | 540 | Dizzy Zone |
-| 401 | 536 | Shaun Church |
-| 402 | 536 | Caitlin Schmid |
+| 401 | 536 | Caitlin Schmid |
+| 402 | 536 | Shaun Church |
 | 403 | 535 | Paul Huber |
 | 404 | 534 | Kenny Alvarado |
 | 405 | 533 | Gauri Shrotriya |
@@ -583,8 +583,8 @@
 | 575 | 400 | Joshua Self |
 | 576 | 400 | Tammy Allen |
 | 577 | 400 | Kathleen Driskell |
-| 578 | 399 | Jennifer Scott |
-| 579 | 399 | Oscar Bernie |
+| 578 | 399 | Oscar Bernie |
+| 579 | 399 | Jennifer Scott |
 | 580 | 398 | Crystal Heller Gonzalez |
 | 581 | 396 | Candy Pitts |
 | 582 | 396 | AkaLefty |
@@ -592,8 +592,8 @@
 | 584 | 394 | Joel Rosado |
 | 585 | 393 | Smashanator |
 | 586 | 393 | Deyawn Smith |
-| 587 | 393 | Jamie West |
-| 588 | 393 | bbv |
+| 587 | 393 | bbv |
+| 588 | 393 | Jamie West |
 | 589 | 391 | Qiana Sanders |
 | 590 | 391 | Adam Simmons |
 | 591 | 391 | Anthony Huebel |
@@ -609,8 +609,8 @@
 | 601 | 387 | Misti Markijohn |
 | 602 | 385 | Tansaria Couch-Butler |
 | 603 | 384 | Mary Marie |
-| 604 | 384 | Party d |
-| 605 | 384 | Kelly |
+| 604 | 384 | Kelly |
+| 605 | 384 | Party d |
 | 606 | 383 | Jessica Conaway |
 | 607 | 383 | Belle Mari |
 | 608 | 382 | David Holliday |
