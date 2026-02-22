@@ -84,8 +84,8 @@
 | 76 | 370 | Leslie Thomas |
 | 77 | 369 | Nope Young |
 | 78 | 359 | Jamie Mann-Deichmann |
-| 79 | 358 | Shane Kalamata Platoon |
-| 80 | 358 | Nugget |
+| 79 | 358 | Nugget |
+| 80 | 358 | Shane Kalamata Platoon |
 | 81 | 331 | Robin Getchel |
 | 82 | 319 | Livvy |
 | 83 | 318 | Amy Suckarieh |
@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Epic Curvetile |
-| 105 | 264 | Girl |
+| 104 | 264 | Girl |
+| 105 | 264 | Epic Curvetile |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -167,8 +167,8 @@
 | 159 | 173 | Jessica Lynn Cutlip |
 | 160 | 171 | Diana Houts |
 | 161 | 166 | SammieJo Guy |
-| 162 | 164 | ThaEviLJeNiuZ |
-| 163 | 164 | 030Synner |
+| 162 | 164 | 030Synner |
+| 163 | 164 | ThaEviLJeNiuZ |
 | 164 | 160 | Carlos Ramirez |
 | 165 | 160 | ZeeZee |
 | 166 | 155 | AyeKay |

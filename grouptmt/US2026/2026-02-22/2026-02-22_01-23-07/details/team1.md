@@ -86,8 +86,8 @@
 | 78 | 328 | Kellie |
 | 79 | 328 | Gracie |
 | 80 | 326 | Luciano Moreira |
-| 81 | 323 | Sweet Baker |
-| 82 | 323 | Candy Jones |
+| 81 | 323 | Candy Jones |
+| 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
 | 84 | 319 | Deanna L Hermanson |
 | 85 | 319 | Shauna Loe |
@@ -119,8 +119,8 @@
 | 111 | 249 | Elaine Elaine |
 | 112 | 248 | Jason Jones |
 | 113 | 244 | Franswa |
-| 114 | 243 | Chelsea Dahlquist |
-| 115 | 243 | Trippy Redd |
+| 114 | 243 | Trippy Redd |
+| 115 | 243 | Chelsea Dahlquist |
 | 116 | 241 | John J. Cronin |
 | 117 | 240 | Tana |
 | 118 | 236 | Mandyy Rae |
@@ -136,8 +136,8 @@
 | 128 | 211 | Marianita Garcia |
 | 129 | 208 | Giggly Builderline |
 | 130 | 207 | Leslie Bush Yarbrough |
-| 131 | 203 | Paula Martin |
-| 132 | 203 | GATOR |
+| 131 | 203 | GATOR |
+| 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
 | 134 | 198 | Shiny Gridmatch |
 | 135 | 198 | Happy Snapbuild |
@@ -148,8 +148,8 @@
 | 140 | 192 | Jessica Sheehan |
 | 141 | 192 | Shaykmia |
 | 142 | 191 | Diane Byrd |
-| 143 | 190 | Thorne Shumate |
-| 144 | 190 | Sweetts |
+| 143 | 190 | Sweetts |
+| 144 | 190 | Thorne Shumate |
 | 145 | 188 | Sam Williams |
 | 146 | 187 | Jennifer Olewnik Soborowski |
 | 147 | 187 | Snippy Wipebuilder |

@@ -264,8 +264,8 @@
 | 256 | 583 | Steve Grotto |
 | 257 | 583 | Jessicah Myers |
 | 258 | 582 | Gary Stash |
-| 259 | 579 | Roy Salyer |
-| 260 | 579 | Juliana Marques Do Nascimento Gordy |
+| 259 | 579 | Juliana Marques Do Nascimento Gordy |
+| 260 | 579 | Roy Salyer |
 | 261 | 578 | Sally Dennis |
 | 262 | 576 | Ginger |
 | 263 | 573 | Shavonna Haynes |
@@ -343,8 +343,8 @@
 | 335 | 458 | Casper The Chonk |
 | 336 | 454 | Nashu |
 | 337 | 454 | Casey Schumacher |
-| 338 | 453 | Joshua Sommerville |
-| 339 | 453 | Rhonda Petro |
+| 338 | 453 | Rhonda Petro |
+| 339 | 453 | Joshua Sommerville |
 | 340 | 452 | Alezandra Smith |
 | 341 | 451 | Daphne Jordan |
 | 342 | 451 | Melissa Kay Gibson |

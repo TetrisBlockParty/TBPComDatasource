@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -110,8 +110,8 @@
 | 102 | 445 | Kristie McFarland |
 | 103 | 438 | Bea Miles |
 | 104 | 430 | Patricia White |
-| 105 | 428 | Betty Ivy |
-| 106 | 428 | Elissa S-k |
+| 105 | 428 | Elissa S-k |
+| 106 | 428 | Betty Ivy |
 | 107 | 416 | Mary Pellegrino |
 | 108 | 412 | Jenny Hrndz |
 | 109 | 410 | Stephanie Simpson |
