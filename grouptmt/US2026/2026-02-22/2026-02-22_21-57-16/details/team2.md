@@ -170,8 +170,8 @@
 | 162 | 1296 | Kristin Ruest |
 | 163 | 1294 | Ashley House |
 | 164 | 1286 | Altamirano Michael |
-| 165 | 1282 | Ashley Rose Frederick |
-| 166 | 1282 | Tanya Parsons |
+| 165 | 1282 | Tanya Parsons |
+| 166 | 1282 | Ashley Rose Frederick |
 | 167 | 1271 | Shandrica Lowe |
 | 168 | 1260 | Joshua Sommerville |
 | 169 | 1257 | Michele Gabriel |
@@ -248,8 +248,8 @@
 | 240 | 972 | Juliana Marques Do Nascimento Gordy |
 | 241 | 972 | Della Hole |
 | 242 | 965 | Maria Escobar |
-| 243 | 957 | Block Master |
-| 244 | 957 | Keri Womack |
+| 243 | 957 | Keri Womack |
+| 244 | 957 | Block Master |
 | 245 | 957 | Crystal Hoffman |
 | 246 | 955 | Angela Bonquiqui Dinish |
 | 247 | 951 | Cynthia Ward |

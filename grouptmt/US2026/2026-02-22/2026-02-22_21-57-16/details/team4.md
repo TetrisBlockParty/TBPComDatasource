@@ -223,9 +223,9 @@
 | 215 | 248 | Chirpy Basepiece |
 | 216 | 246 | Carlos Ramirez |
 | 217 | 246 | Zethra Prenisha Rahming |
-| 218 | 245 | Adam Stephanie Parker |
+| 218 | 245 | Autum Leigh |
 | 219 | 245 | 23 |
-| 220 | 245 | Autum Leigh |
+| 220 | 245 | Adam Stephanie Parker |
 | 221 | 243 | Mr. Party |
 | 222 | 241 | Allen Lloyd |
 | 223 | 238 | Zesty Twistbuilder |
@@ -239,11 +239,11 @@
 | 231 | 230 | Jade Rian |
 | 232 | 230 | blockstar |
 | 233 | 228 | Antony Dwayne Beasley |
-| 234 | 225 | Jenna McGeorge |
-| 235 | 225 | Perky Patternblock |
+| 234 | 225 | Perky Patternblock |
+| 235 | 225 | Jenna McGeorge |
 | 236 | 222 | Brandi Durig |
-| 237 | 221 | PurpleMoonMa |
-| 238 | 221 | Rheanda Weaskus |
+| 237 | 221 | Rheanda Weaskus |
+| 238 | 221 | PurpleMoonMa |
 | 239 | 220 | Joanna |
 | 240 | 220 | Chair |
 | 241 | 219 | Malakai Darien Fox |
@@ -279,13 +279,13 @@
 | 271 | 195 | Shainne Brewer |
 | 272 | 194 | Zany Twisterfit |
 | 273 | 193 | Stephme310 |
-| 274 | 192 | Andrew Dang |
-| 275 | 192 | Stella |
+| 274 | 192 | Stella |
+| 275 | 192 | Andrew Dang |
 | 276 | 191 | Earnest Thompson |
 | 277 | 189 | 030Synner |
 | 278 | 187 | Nita Wells |
 | 279 | 187 | Cynthia Boudreau |
-| 280 | 186 | Lauren Lamb |
+| 280 | 186 | wombat |
 | 281 | 186 | June Hoffman |
 | 282 | 186 | Lauren Lamb |
 | 283 | 185 | Laura Hosford |

@@ -139,8 +139,8 @@
 | 131 | 574 | Morgan Martinez |
 | 132 | 572 | CeceGeGe |
 | 133 | 568 | Rachael McClain Owens |
-| 134 | 562 | Dave Herzog |
-| 135 | 562 | Louise Stacy Sisson |
+| 134 | 562 | Louise Stacy Sisson |
+| 135 | 562 | Dave Herzog |
 | 136 | 558 | Nicole Myers |
 | 137 | 557 | Domo Washington |
 | 138 | 554 | Leah Barnett |
@@ -239,8 +239,8 @@
 | 231 | 347 | Philip Rock |
 | 232 | 347 | Trisha Balmer |
 | 233 | 346 | Tamara Deherrera |
-| 234 | 344 | Roary Danner |
-| 235 | 344 | Rania Zaqout |
+| 234 | 344 | Rania Zaqout |
+| 235 | 344 | Roary Danner |
 | 236 | 343 | Ashley Raines |
 | 237 | 341 | Noyb Adam |
 | 238 | 341 | Ashley Tookes |
@@ -272,8 +272,8 @@
 | 264 | 302 | Gray Hicks |
 | 265 | 301 | Betty Rosas |
 | 266 | 300 | Tiffany Davie |
-| 267 | 299 | Angie Harper |
-| 268 | 299 | Ray Lader |
+| 267 | 299 | Ray Lader |
+| 268 | 299 | Angie Harper |
 | 269 | 298 | Grams |
 | 270 | 297 | kacihall |
 | 271 | 297 | Jojo M |
@@ -284,8 +284,8 @@
 | 276 | 293 | Beaudie Stroebel |
 | 277 | 292 | Cheeky Snapper |
 | 278 | 291 | Carrie Huskey |
-| 279 | 289 | Duane Bright |
-| 280 | 289 | DidIdothat |
+| 279 | 289 | DidIdothat |
+| 280 | 289 | Duane Bright |
 | 281 | 288 | Connie Mohler-Fair |
 | 282 | 287 | Sabrina Hardrick |
 | 283 | 283 | Heather Green |
