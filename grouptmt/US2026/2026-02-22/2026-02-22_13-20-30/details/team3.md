@@ -104,8 +104,8 @@
 | 96 | 595 | Patricia White |
 | 97 | 591 | Jesse Olive |
 | 98 | 588 | yoyo |
-| 99 | 582 | Jay Horn |
-| 100 | 582 | Natasha Jones |
+| 99 | 582 | Natasha Jones |
+| 100 | 582 | Jay Horn |
 | 101 | 581 | Danielle Mogg |
 | 102 | 579 | Jd Morris |
 | 103 | 577 | Giddy Drop |
@@ -340,16 +340,16 @@
 | 332 | 191 | Philip Rock |
 | 333 | 191 | Becca Engle |
 | 334 | 189 | Katie Leigh Blankenship |
-| 335 | 188 | Romeo |
-| 336 | 188 | Loopy Fallmatch |
-| 337 | 186 | Bryan Byrd |
-| 338 | 186 | Noettín Kan Zasnemoore |
+| 335 | 188 | Loopy Fallmatch |
+| 336 | 188 | Romeo |
+| 337 | 186 | Noettín Kan Zasnemoore |
+| 338 | 186 | Bryan Byrd |
 | 339 | 186 | Sameerah Smith |
 | 340 | 185 | Angella Lyons |
 | 341 | 184 | Troy |
 | 342 | 184 | Shanon R Jackson |
-| 343 | 183 | Salena Whitlock |
-| 344 | 183 | Cesar Barraza |
+| 343 | 183 | Cesar Barraza |
+| 344 | 183 | Salena Whitlock |
 | 345 | 182 | gremicx |
 | 346 | 181 | Denita Mungro |
 | 347 | 181 | Michael Johnson |
@@ -388,8 +388,8 @@
 | 380 | 162 | Beaudie Stroebel |
 | 381 | 162 | Nicole Summers-Nelson |
 | 382 | 162 | Loopy Fallzone |
-| 383 | 162 | Eric Caccavale |
-| 384 | 162 | Stephanie Whitefield |
+| 383 | 162 | Stephanie Whitefield |
+| 384 | 162 | Eric Caccavale |
 | 385 | 161 | Betty Bóò |
 | 386 | 161 | Bouncy Blockbuilder |
 | 387 | 161 | Julia Nicole |
@@ -403,8 +403,8 @@
 | 395 | 157 | Angel Mendez |
 | 396 | 157 | Kevin Fountain |
 | 397 | 156 | Nichole Greene |
-| 398 | 156 | Courtney Conboy |
-| 399 | 156 | Niki Dalrymple |
+| 398 | 156 | Niki Dalrymple |
+| 399 | 156 | Courtney Conboy |
 | 400 | 155 | Michael Leblanc |
 | 401 | 154 | Everret Maxine |
 | 402 | 153 | Stefanie LaPointe |
@@ -537,8 +537,8 @@
 | 529 | 117 | Jennifer Neiman Gaal |
 | 530 | 117 | Dee Pratt |
 | 531 | 116 | Dapper Towerfit |
-| 532 | 116 | Shelby Crawford |
-| 533 | 116 | Mel Murr |
+| 532 | 116 | Mel Murr |
+| 533 | 116 | Shelby Crawford |
 | 534 | 115 | Will Miller |
 | 535 | 115 | Whitney Manuel |
 | 536 | 115 | Beejangles |

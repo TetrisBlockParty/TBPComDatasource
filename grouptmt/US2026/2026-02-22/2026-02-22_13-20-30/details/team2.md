@@ -313,8 +313,8 @@
 | 305 | 688 | ShinyRose |
 | 306 | 687 | Dee |
 | 307 | 686 | Ashley Guernsey-Martin |
-| 308 | 685 | Brenda Pierpoint |
-| 309 | 685 | Binyah-Binyah |
+| 308 | 685 | Binyah-Binyah |
+| 309 | 685 | Brenda Pierpoint |
 | 310 | 681 | Melissa Holsinger |
 | 311 | 679 | Eric Castaneda |
 | 312 | 679 | Kassandra Hunt |
@@ -385,8 +385,8 @@
 | 377 | 561 | Irene Jones |
 | 378 | 561 | Traci Johnson |
 | 379 | 560 | Phil J. Grombliniak |
-| 380 | 558 | Mikayala Szaz |
-| 381 | 558 | Libby Hicks |
+| 380 | 558 | Libby Hicks |
+| 381 | 558 | Mikayala Szaz |
 | 382 | 556 | Slip |
 | 383 | 554 | Santana Miyagi |
 | 384 | 554 | Rachael Senard |
@@ -506,8 +506,8 @@
 | 498 | 459 | Melissa Kay Gibson |
 | 499 | 458 | Casper The Chonk |
 | 500 | 454 | Casey Schumacher |
-| 501 | 453 | Rhonda Petro |
-| 502 | 453 | Joshua Sommerville |
+| 501 | 453 | Joshua Sommerville |
+| 502 | 453 | Rhonda Petro |
 | 503 | 452 | Sarah Berger |
 | 504 | 452 | Juanita Lyons |
 | 505 | 451 | Funky Caster |
@@ -515,8 +515,8 @@
 | 507 | 448 | Lee Harper |
 | 508 | 448 | Liberty |
 | 509 | 447 | Boozi |
-| 510 | 447 | Jessica S Flecha |
-| 511 | 447 | Besma Ao |
+| 510 | 447 | Besma Ao |
+| 511 | 447 | Jessica S Flecha |
 | 512 | 446 | Snippy Rumbler |
 | 513 | 445 | Mar Q Thomas |
 | 514 | 445 | Sharon Mills |
@@ -540,8 +540,8 @@
 | 532 | 429 | Tabs Reichert |
 | 533 | 428 | Arkei Luster |
 | 534 | 428 | Shyenn Gadsby |
-| 535 | 427 | Destiny Cozier |
-| 536 | 427 | Sabrina Burton |
+| 535 | 427 | Sabrina Burton |
+| 536 | 427 | Destiny Cozier |
 | 537 | 427 | Alexandra Weir |
 | 538 | 426 | Ashley Dow |
 | 539 | 425 | Skyler Morgan |
@@ -562,8 +562,8 @@
 | 554 | 413 | Lauren Fitzgerald Thomas |
 | 555 | 413 | Fancy Twister |
 | 556 | 412 | Jason H Baker |
-| 557 | 411 | Mighty Spinbuilder |
-| 558 | 411 | Kristen O'Neal |
+| 557 | 411 | Kristen O'Neal |
+| 558 | 411 | Mighty Spinbuilder |
 | 559 | 410 | Nicole Cannon |
 | 560 | 408 | Brandon Jones |
 | 561 | 408 | Stefanie Zonzini-Gagliardi |
@@ -586,8 +586,8 @@
 | 578 | 399 | Oscar Bernie |
 | 579 | 399 | Jennifer Scott |
 | 580 | 398 | Crystal Heller Gonzalez |
-| 581 | 396 | AkaLefty |
-| 582 | 396 | Candy Pitts |
+| 581 | 396 | Candy Pitts |
+| 582 | 396 | AkaLefty |
 | 583 | 396 | Boogie SoAnimated Johnson |
 | 584 | 395 | Bubbly Snapbuild |
 | 585 | 394 | Joel Rosado |

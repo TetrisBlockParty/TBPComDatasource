@@ -135,8 +135,8 @@
 | 127 | 306 | Happy Basegrid |
 | 128 | 304 | Nicole Roseberry Weber |
 | 129 | 301 | Lehrin Maria |
-| 130 | 300 | Elaine Elaine |
-| 131 | 300 | Chelsea Dahlquist |
+| 130 | 300 | Chelsea Dahlquist |
+| 131 | 300 | Elaine Elaine |
 | 132 | 298 | Erin Hodges Plumb |
 | 133 | 290 | Death |
 | 134 | 290 | Sarah Roberts |
@@ -166,8 +166,8 @@
 | 158 | 253 | Witty Builderfit |
 | 159 | 252 | Dena Kayy |
 | 160 | 247 | Tana |
-| 161 | 246 | Lakeisha Chapman |
-| 162 | 246 | Mike Ames |
+| 161 | 246 | Mike Ames |
+| 162 | 246 | Lakeisha Chapman |
 | 163 | 244 | Marianita Garcia |
 | 164 | 243 | Trippy Redd |
 | 165 | 242 | ALFD |
@@ -429,8 +429,8 @@
 | 421 | 98 | Alfredo Vasquez |
 | 422 | 97 | Edgar Algiere |
 | 423 | 97 | Steve Bomkamp |
-| 424 | 96 | Evan Richmond |
-| 425 | 96 | Lisa Marie |
+| 424 | 96 | Lisa Marie |
+| 425 | 96 | Evan Richmond |
 | 426 | 95 | Jolly Climber |
 | 427 | 95 | Jay Tressler |
 | 428 | 94 | TristansDad |
