@@ -117,14 +117,14 @@
 | 109 | 277 | Ly Phethmany |
 | 110 | 276 | Rachael |
 | 111 | 275 | Bhelle Sumile |
-| 112 | 273 | Happy Basegrid |
-| 113 | 273 | Katie Daniels |
+| 112 | 273 | Katie Daniels |
+| 113 | 273 | Happy Basegrid |
 | 114 | 265 | Dandy Basegrid |
-| 115 | 263 | Jason Jones |
-| 116 | 263 | Sharon Reynolds |
+| 115 | 263 | Sharon Reynolds |
+| 116 | 263 | Jason Jones |
 | 117 | 257 | june october |
-| 118 | 252 | Elaine Elaine |
-| 119 | 252 | Dena Kayy |
+| 118 | 252 | Dena Kayy |
+| 119 | 252 | Elaine Elaine |
 | 120 | 249 | Lexuriuos Lifestlye |
 | 121 | 243 | Trippy Redd |
 | 122 | 243 | Chelsea Dahlquist |
@@ -168,14 +168,14 @@
 | 160 | 187 | Jennifer Olewnik Soborowski |
 | 161 | 187 | Snippy Wipebuilder |
 | 162 | 186 | Margo Wagner |
-| 163 | 185 | Basment Living |
-| 164 | 185 | ParisandCory Champagne |
-| 165 | 183 | Sleepysloath5745 |
-| 166 | 183 | lil mickey |
+| 163 | 185 | ParisandCory Champagne |
+| 164 | 185 | Basment Living |
+| 165 | 183 | lil mickey |
+| 166 | 183 | Sleepysloath5745 |
 | 167 | 180 | Erez Yosef |
 | 168 | 180 | BigWeenie69 |
-| 169 | 179 | Danielle Little-Daugherty |
-| 170 | 179 | femmefatale |
+| 169 | 179 | femmefatale |
+| 170 | 179 | Danielle Little-Daugherty |
 | 171 | 178 | Chad Atchley |
 | 172 | 177 | Jacqueline Unique |
 | 173 | 177 | Irual Hctrab |
@@ -209,8 +209,8 @@
 | 201 | 158 | Sarah Marie |
 | 202 | 154 | Melissa Lemmon |
 | 203 | 153 | Barry Mac'Ockner |
-| 204 | 152 | Speedy Snapfall |
-| 205 | 152 | Brave Wrecker |
+| 204 | 152 | Brave Wrecker |
+| 205 | 152 | Speedy Snapfall |
 | 206 | 150 | Adele Rahman |
 | 207 | 150 | Agustin Duarte Orozco |
 | 208 | 147 | DaRascal |
@@ -258,12 +258,12 @@
 | 250 | 123 | Jerry Danowski |
 | 251 | 123 | Zany Tiler |
 | 252 | 122 | Nate Funk |
-| 253 | 121 | Carl Claunch |
-| 254 | 121 | Jacob Shaddock |
-| 255 | 120 | DoodleBug |
-| 256 | 120 | Kimmie Kimms |
-| 257 | 119 | Tater |
-| 258 | 119 | Strig |
+| 253 | 121 | Jacob Shaddock |
+| 254 | 121 | Carl Claunch |
+| 255 | 120 | Kimmie Kimms |
+| 256 | 120 | DoodleBug |
+| 257 | 119 | Strig |
+| 258 | 119 | Tater |
 | 259 | 118 | Garcia Bailey |
 | 260 | 118 | Tyler Hertzog |
 | 261 | 116 | Fresno Beotoni |

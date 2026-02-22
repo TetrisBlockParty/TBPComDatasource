@@ -139,8 +139,8 @@
 | 131 | 220 | Mary Ann Pabukis |
 | 132 | 218 | Casey Grabner |
 | 133 | 218 | Antony Dwayne Beasley |
-| 134 | 217 | Chaz Duncan |
-| 135 | 217 | loulou |
+| 134 | 217 | loulou |
+| 135 | 217 | Chaz Duncan |
 | 136 | 215 | Jessica Bohlken |
 | 137 | 212 | Mike Solo |
 | 138 | 212 | Calvin Cannon |
@@ -170,8 +170,8 @@
 | 162 | 184 | Ak Jones |
 | 163 | 184 | Jason Allen |
 | 164 | 182 | Matt Summer |
-| 165 | 181 | Carter Jones |
-| 166 | 181 | Klo |
+| 165 | 181 | Klo |
+| 166 | 181 | Carter Jones |
 | 167 | 179 | blockstar |
 | 168 | 176 | Zethra Prenisha Rahming |
 | 169 | 175 | Kathy Brookins |

@@ -117,12 +117,12 @@
 | 109 | 445 | Kristie McFarland |
 | 110 | 438 | Bea Miles |
 | 111 | 432 | Jenny Hrndz |
-| 112 | 428 | Betty Ivy |
-| 113 | 428 | Elissa S-k |
+| 112 | 428 | Elissa S-k |
+| 113 | 428 | Betty Ivy |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Blkpep Davidson |
-| 117 | 410 | Stephanie Simpson |
+| 116 | 410 | Stephanie Simpson |
+| 117 | 410 | Stephanie Blkpep Davidson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 402 | Shannon Matthew Byers |
@@ -131,8 +131,8 @@
 | 123 | 399 | Mcathen |
 | 124 | 399 | ren |
 | 125 | 397 | Annie Déè |
-| 126 | 392 | Katie Knaus |
-| 127 | 392 | Tasha Gillespie |
+| 126 | 392 | Tasha Gillespie |
+| 127 | 392 | Katie Knaus |
 | 128 | 391 | Calista Jo Dickson |
 | 129 | 390 | Hasty Cascadefit |
 | 130 | 378 | Makelini Mausia |
@@ -168,7 +168,7 @@
 | 160 | 300 | Sherika C. McDaniels |
 | 161 | 298 | MsBee |
 | 162 | 295 | RickyG |
-| 163 | 295 | Scott Lindsay |
+| 163 | 295 | Jim Mathews |
 | 164 | 293 | Poppy Splitter |
 | 165 | 290 | Marci Mize Fandrich |
 | 166 | 289 | DidIdothat |
@@ -194,8 +194,8 @@
 | 186 | 267 | Denise Nardoni |
 | 187 | 263 | Angeline Joseph |
 | 188 | 262 | Joe-Maggie Mathews |
-| 189 | 261 | Tom Nault |
-| 190 | 261 | Tiffany Ford |
+| 189 | 261 | Tiffany Ford |
+| 190 | 261 | Tom Nault |
 | 191 | 261 | Brittany |
 | 192 | 260 | Dee Franklin |
 | 193 | 260 | Grams |
@@ -241,8 +241,8 @@
 | 233 | 208 | Karon Griffin |
 | 234 | 207 | Chris Bell |
 | 235 | 207 | Jessica |
-| 236 | 205 | Sarah Moyer |
-| 237 | 205 | Connie Mohler-Fair |
+| 236 | 205 | Connie Mohler-Fair |
+| 237 | 205 | Sarah Moyer |
 | 238 | 204 | Aerian Preston |
 | 239 | 204 | Danielle Allison |
 | 240 | 203 | Angie Harper |

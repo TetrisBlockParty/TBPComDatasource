@@ -137,8 +137,8 @@
 | 129 | 1051 | Shandrica Lowe |
 | 130 | 1048 | PsychKIRAtrist |
 | 131 | 1047 | Amy Sayers |
-| 132 | 1043 | Suki Kaur |
-| 133 | 1043 | Brave Dropmatch |
+| 132 | 1043 | Brave Dropmatch |
+| 133 | 1043 | Suki Kaur |
 | 134 | 1032 | Sarah Freitas |
 | 135 | 1020 | Heather Westrum |
 | 136 | 1018 | LordZophar |
@@ -705,12 +705,12 @@
 | 697 | 258 | Mordoks Pyrography |
 | 698 | 258 | Tee Jaleesa |
 | 699 | 257 | Mary Boss |
-| 700 | 257 | Luke Califf |
-| 701 | 257 | Jackie Jackie Lee |
+| 700 | 257 | Jackie Jackie Lee |
+| 701 | 257 | Luke Califf |
 | 702 | 256 | Brenna Yearian |
 | 703 | 256 | Quirky Twistline |
-| 704 | 256 | Amy Humphreys |
-| 705 | 256 | Andrea Devery Beck |
+| 704 | 256 | Andrea Devery Beck |
+| 705 | 256 | Amy Humphreys |
 | 706 | 255 | DefaultUser |
 | 707 | 255 | Tom Steffen |
 | 708 | 255 | ElizabethAnn Dickinson |
