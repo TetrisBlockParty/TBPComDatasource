@@ -104,8 +104,8 @@
 | 96 | 390 | Goose egg |
 | 97 | 390 | Candy Jones |
 | 98 | 389 | Nery Martinez |
-| 99 | 383 | Loony Fitzone |
-| 100 | 383 | pjbeta |
+| 99 | 383 | pjbeta |
+| 100 | 383 | Loony Fitzone |
 | 101 | 380 | Dee Perry |
 | 102 | 379 | Austin James |
 | 103 | 379 | Kimmie Kimms |
@@ -131,8 +131,8 @@
 | 123 | 326 | Monica Donato |
 | 124 | 325 | Jennifer Hardman |
 | 125 | 322 | Ly Phethmany |
-| 126 | 321 | Maria C. Hernandez |
-| 127 | 321 | Tanya Carpenter-Reynolds |
+| 126 | 321 | Tanya Carpenter-Reynolds |
+| 127 | 321 | Maria C. Hernandez |
 | 128 | 318 | Jessica Sheehan |
 | 129 | 316 | Dizzy Party |
 | 130 | 313 | Virginia Gray Floyd |
@@ -150,8 +150,8 @@
 | 142 | 292 | David Lutcher |
 | 143 | 288 | GATOR |
 | 144 | 285 | Ananda Mendez |
-| 145 | 284 | Emily Adelaide Wheatley |
-| 146 | 284 | Rachael |
+| 145 | 284 | Rachael |
+| 146 | 284 | Emily Adelaide Wheatley |
 | 147 | 283 | Franswa |
 | 148 | 282 | Tyler Werts |
 | 149 | 282 | Snippy Wipebuilder |
@@ -385,9 +385,9 @@
 | 377 | 126 | Shiny Rotate |
 | 378 | 125 | Angela Spann |
 | 379 | 124 | Rodney Schmerfeld |
-| 380 | 123 | Jumpy Rotate |
+| 380 | 123 | Funky Piecebuilder |
 | 381 | 123 | Betsy |
-| 382 | 123 | Funky Piecebuilder |
+| 382 | 123 | Jumpy Rotate |
 | 383 | 122 | Tyler L Hunt |
 | 384 | 121 | Jacob Shaddock |
 | 385 | 121 | John Ramirez |

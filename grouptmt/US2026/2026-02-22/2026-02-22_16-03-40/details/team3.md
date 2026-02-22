@@ -140,8 +140,8 @@
 | 132 | 492 | Daira Largen |
 | 133 | 491 | Chauntee Alfrey-Cardinale |
 | 134 | 480 | Stephanie Blkpep Davidson |
-| 135 | 479 | Poppy Splitter |
-| 136 | 479 | Patti Skiles |
+| 135 | 479 | Patti Skiles |
+| 136 | 479 | Poppy Splitter |
 | 137 | 478 | CeceGeGe |
 | 138 | 474 | Annie Marie |
 | 139 | 473 | mzcatzy |
@@ -254,8 +254,8 @@
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 279 | Terry Jo Jones |
-| 249 | 278 | Sabrina Hardrick |
-| 250 | 278 | Rufus Lincoln |
+| 249 | 278 | Rufus Lincoln |
+| 250 | 278 | Sabrina Hardrick |
 | 251 | 276 | _melisa223_ |
 | 252 | 276 | Crimson |
 | 253 | 275 | Cassandra Bryant |
@@ -338,8 +338,8 @@
 | 330 | 208 | Niki Dalrymple |
 | 331 | 208 | AlsoJess |
 | 332 | 207 | angieelyn |
-| 333 | 207 | Jessica |
-| 334 | 207 | Daring Builder |
+| 333 | 207 | Daring Builder |
+| 334 | 207 | Jessica |
 | 335 | 206 | Tammy Rosenberry |
 | 336 | 205 | Rachel Napper |
 | 337 | 205 | Kirhonda Autmon |

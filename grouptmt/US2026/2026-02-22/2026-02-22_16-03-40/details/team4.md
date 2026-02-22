@@ -17,8 +17,8 @@
 | 9 | 1834 | Clarence Patawaran |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1289 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -231,8 +231,8 @@
 | 223 | 200 | Googenheim |
 | 224 | 200 | Lori |
 | 225 | 199 | April Rondinone |
-| 226 | 198 | Calvin Dennis |
-| 227 | 198 | Keith Kelley |
+| 226 | 198 | Keith Kelley |
+| 227 | 198 | Calvin Dennis |
 | 228 | 197 | Silly SeaWeed |
 | 229 | 197 | Gilles Lanctot |
 | 230 | 196 | Mr. Party |
@@ -524,7 +524,7 @@
 | 516 | 85 | Neirrah B Olailjeel |
 | 517 | 85 | Staci Robinson Jones |
 | 518 | 85 | Zippy Block |
-| 519 | 85 | Staci Robinson Jones |
+| 519 | 85 | Joseph Gray |
 | 520 | 84 | mini |
 | 521 | 84 | Roseanna Anderson |
 | 522 | 84 | Marta Savchuk |

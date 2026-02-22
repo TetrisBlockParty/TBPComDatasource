@@ -357,8 +357,8 @@
 | 349 | 661 | BeQuo |
 | 350 | 659 | Draizen Montrell Thomas |
 | 351 | 651 | Unica Rector |
-| 352 | 650 | tejas25 |
-| 353 | 650 | Shiny Rollzone |
+| 352 | 650 | Shiny Rollzone |
+| 353 | 650 | tejas25 |
 | 354 | 644 | Desiree Anderson |
 | 355 | 643 | Hoppy Brickmatch |
 | 356 | 640 | Kara Gillen |
@@ -482,8 +482,8 @@
 | 474 | 495 | Bubbly Snapbuild |
 | 475 | 494 | Leah |
 | 476 | 494 | Venita Ray |
-| 477 | 493 | Sue Leard |
-| 478 | 493 | Sarah DeHart |
+| 477 | 493 | Sarah DeHart |
+| 478 | 493 | Sue Leard |
 | 479 | 492 | Breezy Clusterer |
 | 480 | 492 | Armonie Smith |
 | 481 | 492 | Maya June |
@@ -706,8 +706,8 @@
 | 698 | 356 | Shorty |
 | 699 | 356 | Kelsey Sullivan |
 | 700 | 355 | Mike73 |
-| 701 | 354 | Rachel Kaminski |
-| 702 | 354 | Rickey Johnson |
+| 701 | 354 | Rickey Johnson |
+| 702 | 354 | Rachel Kaminski |
 | 703 | 354 | Loony Basepiece |
 | 704 | 352 | Savannah Alexander |
 | 705 | 352 | Jean FU Jagielski |
@@ -802,16 +802,16 @@
 | 794 | 310 | Cozy Drop |
 | 795 | 310 | Wendy Ducheney |
 | 796 | 310 | Beth Decker |
-| 797 | 309 | Daniell Martinez |
-| 798 | 309 | Byung Bae Park |
+| 797 | 309 | Byung Bae Park |
+| 798 | 309 | Daniell Martinez |
 | 799 | 308 | Hyper Riseclear |
 | 800 | 308 | Kristina Marie Hanna |
 | 801 | 308 | Claire |
 | 802 | 308 | Katie Joy McCombs |
 | 803 | 307 | Brave Gridpiece |
-| 804 | 305 | Epic Fitzone |
-| 805 | 305 | Narutofreak13 |
-| 806 | 305 | Frisky Patternline |
+| 804 | 305 | Frisky Patternline |
+| 805 | 305 | Epic Fitzone |
+| 806 | 305 | Narutofreak13 |
 | 807 | 305 | Zany Clusterbuilder |
 | 808 | 304 | Melissa McCall |
 | 809 | 304 | NFLPITMOM |
@@ -835,8 +835,8 @@
 | 827 | 297 | Ashley Robbins |
 | 828 | 296 | Jennifer Darby |
 | 829 | 296 | Zappy Dropmatch |
-| 830 | 295 | Devlin Ogg |
-| 831 | 295 | Sveta Lana |
+| 830 | 295 | Sveta Lana |
+| 831 | 295 | Devlin Ogg |
 | 832 | 295 | Mama T |
 | 833 | 294 | Swanky Snap |
 | 834 | 294 | Amanda Edwards |
@@ -1267,9 +1267,9 @@
 | 1259 | 204 | ນາງ ບີ ລາດຊະຈັກ |
 | 1260 | 204 | Eddie Perez |
 | 1261 | 204 | Ali Gralski |
-| 1262 | 204 | Andre Love |
-| 1263 | 204 | Tash |
-| 1264 | 204 | Abby Jensen |
+| 1262 | 204 | Tash |
+| 1263 | 204 | Abby Jensen |
+| 1264 | 204 | Andre Love |
 | 1265 | 204 | Edralin Custodio |
 | 1266 | 202 | Jen Sippel |
 | 1267 | 202 | Shanae Dillahunty |
