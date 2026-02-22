@@ -31,8 +31,8 @@
 | 23 | 886 | Dustin Robert |
 | 24 | 880 | Koshin Abdirahman |
 | 25 | 879 | Heather Tushner |
-| 26 | 873 | Elizabeth Sallas |
-| 27 | 873 | Michelle Pearman |
+| 26 | 873 | Michelle Pearman |
+| 27 | 873 | Elizabeth Sallas |
 | 28 | 871 | Denny Shives |
 | 29 | 866 | Devinlee Brown |
 | 30 | 846 | Christine Marie |
@@ -151,10 +151,10 @@
 | 143 | 227 | Swanky Fitline |
 | 144 | 225 | Damn Libra |
 | 145 | 224 | Matt Summer |
-| 146 | 223 | Antony Dwayne Beasley |
-| 147 | 223 | Kris Bartlett |
-| 148 | 222 | Joeliecea Cobb |
-| 149 | 222 | TheNeesh50 |
+| 146 | 223 | Kris Bartlett |
+| 147 | 223 | Antony Dwayne Beasley |
+| 148 | 222 | TheNeesh50 |
+| 149 | 222 | Joeliecea Cobb |
 | 150 | 221 | PurpleMoonMa |
 | 151 | 221 | Rheanda Weaskus |
 | 152 | 220 | Matt Dell'Olio |
@@ -301,10 +301,10 @@
 | 293 | 119 | rebel4lyfe |
 | 294 | 119 | River Shady Sr. |
 | 295 | 118 | Christina Black |
-| 296 | 117 | PennyCandee |
-| 297 | 117 | BigSammy420 |
-| 298 | 116 | Kate |
-| 299 | 116 | Adam Stephanie Parker |
+| 296 | 117 | BigSammy420 |
+| 297 | 117 | PennyCandee |
+| 298 | 116 | Adam Stephanie Parker |
+| 299 | 116 | Kate |
 | 300 | 116 | Bradley Reeves |
 | 301 | 115 | Berklie Apedaile |
 | 302 | 115 | Jayk |

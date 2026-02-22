@@ -154,8 +154,8 @@
 | 146 | 1051 | Shandrica Lowe |
 | 147 | 1048 | PsychKIRAtrist |
 | 148 | 1047 | Amy Sayers |
-| 149 | 1043 | Brave Dropmatch |
-| 150 | 1043 | Suki Kaur |
+| 149 | 1043 | Suki Kaur |
+| 150 | 1043 | Brave Dropmatch |
 | 151 | 1035 | Sarah Freitas |
 | 152 | 1026 | Heather Westrum |
 | 153 | 1023 | Brainy Smurf |
@@ -477,8 +477,8 @@
 | 469 | 421 | Vonceial Boone |
 | 470 | 421 | Vanessa Moreno |
 | 471 | 419 | Pocho Zavala |
-| 472 | 418 | Kristi Biddinger |
-| 473 | 418 | Véronique Lévesque Sabourin |
+| 472 | 418 | Véronique Lévesque Sabourin |
+| 473 | 418 | Kristi Biddinger |
 | 474 | 417 | snkylnk |
 | 475 | 417 | Alexx Anaya |
 | 476 | 416 | Ricky Fortune |
@@ -717,8 +717,8 @@
 | 709 | 292 | Deana |
 | 710 | 291 | Brave Gridpiece |
 | 711 | 290 | Danielle Ayoub |
-| 712 | 289 | August Hale |
-| 713 | 289 | Bella Novia |
+| 712 | 289 | Bella Novia |
+| 713 | 289 | August Hale |
 | 714 | 288 | thranduil |
 | 715 | 288 | Ashley Criner |
 | 716 | 288 | Jenna Nance |

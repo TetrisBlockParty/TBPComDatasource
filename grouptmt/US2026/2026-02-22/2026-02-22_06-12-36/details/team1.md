@@ -244,8 +244,8 @@
 | 236 | 150 | Agustin Duarte Orozco |
 | 237 | 149 | Chirpy Smasher |
 | 238 | 148 | Dino |
-| 239 | 147 | J.F. Fields |
-| 240 | 147 | Davery Spencer Adair |
+| 239 | 147 | Davery Spencer Adair |
+| 240 | 147 | J.F. Fields |
 | 241 | 145 | Tipsy Riseclear |
 | 242 | 144 | Fmp |
 | 243 | 144 | Toph |
