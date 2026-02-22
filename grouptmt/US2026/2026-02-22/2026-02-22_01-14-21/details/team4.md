@@ -156,8 +156,8 @@
 | 148 | 181 | Andria Lynn |
 | 149 | 181 | Carter Jones |
 | 150 | 180 | Leah Kutz Zirbel |
-| 151 | 179 | Ak Jones |
-| 152 | 179 | Scott Jameson |
+| 151 | 179 | Scott Jameson |
+| 152 | 179 | Ak Jones |
 | 153 | 176 | Zethra Prenisha Rahming |
 | 154 | 175 | Jessica Bohlken |
 | 155 | 175 | blockstar |

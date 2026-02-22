@@ -118,8 +118,8 @@
 | 110 | 400 | Luciana Braganca Vieira |
 | 111 | 399 | Mcathen |
 | 112 | 396 | Shannon Matthew Byers |
-| 113 | 394 | Annie Déè |
-| 114 | 394 | joclisa |
+| 113 | 394 | joclisa |
+| 114 | 394 | Annie Déè |
 | 115 | 392 | Michelle |
 | 116 | 391 | Calista Jo Dickson |
 | 117 | 390 | Patti Skiles |
@@ -131,8 +131,8 @@
 | 123 | 378 | Makelini Mausia |
 | 124 | 378 | Tasha Gillespie |
 | 125 | 374 | Loopy Clusterer |
-| 126 | 368 | Stephanie Blkpep Davidson |
-| 127 | 368 | Stephanie Woods |
+| 126 | 368 | Stephanie Woods |
+| 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
 | 130 | 365 | Logan Naccarato |
@@ -145,7 +145,7 @@
 | 137 | 343 | Chasity |
 | 138 | 328 | Dapper Snap |
 | 139 | 328 | Aaron Pitkin |
-| 140 | 328 | Dapper Snap |
+| 140 | 328 | Jeni Dow |
 | 141 | 326 | Fancy Cascader |
 | 142 | 323 | Ashley Raines |
 | 143 | 320 | Or Reznitsky |

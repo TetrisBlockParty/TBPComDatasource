@@ -259,8 +259,8 @@
 | 251 | 589 | Thomas Hedrick |
 | 252 | 587 | Hyper Cluster |
 | 253 | 586 | Hoppy Brickmatch |
-| 254 | 583 | Steve Grotto |
-| 255 | 583 | Jessicah Myers |
+| 254 | 583 | Jessicah Myers |
+| 255 | 583 | Steve Grotto |
 | 256 | 582 | Gary Stash |
 | 257 | 579 | Barbra Miller |
 | 258 | 579 | Juliana Marques Do Nascimento Gordy |

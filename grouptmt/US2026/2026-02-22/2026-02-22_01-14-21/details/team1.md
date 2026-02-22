@@ -86,8 +86,8 @@
 | 78 | 328 | Gracie |
 | 79 | 328 | Kellie |
 | 80 | 326 | Luciano Moreira |
-| 81 | 323 | Sweet Baker |
-| 82 | 323 | Candy Jones |
+| 81 | 323 | Candy Jones |
+| 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
 | 84 | 319 | Deanna L Hermanson |
 | 85 | 319 | Shauna Loe |
@@ -128,8 +128,8 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | Shauntina Burke |
-| 124 | 216 | MRdot Rooski |
+| 123 | 216 | MRdot Rooski |
+| 124 | 216 | Shauntina Burke |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
@@ -139,8 +139,8 @@
 | 131 | 203 | Paula Martin |
 | 132 | 203 | GATOR |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Shiny Gridmatch |
-| 135 | 198 | Happy Snapbuild |
+| 134 | 198 | Happy Snapbuild |
+| 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
 | 137 | 194 | Tyler Werts |
 | 138 | 194 | Ash Galvan |
@@ -162,8 +162,8 @@
 | 154 | 180 | BigWeenie69 |
 | 155 | 179 | Danielle Little-Daugherty |
 | 156 | 178 | Chad Atchley |
-| 157 | 177 | Irual Hctrab |
-| 158 | 177 | ParisandCory Champagne |
+| 157 | 177 | ParisandCory Champagne |
+| 158 | 177 | Irual Hctrab |
 | 159 | 175 | John Barron |
 | 160 | 173 | Gabrielle Louise Malloch |
 | 161 | 171 | femmefatale |
@@ -194,8 +194,8 @@
 | 186 | 154 | Christy Jones |
 | 187 | 153 | Barry Mac'Ockner |
 | 188 | 153 | ALFD |
-| 189 | 152 | Speedy Snapfall |
-| 190 | 152 | Jacqueline Unique |
+| 189 | 152 | Jacqueline Unique |
+| 190 | 152 | Speedy Snapfall |
 | 191 | 150 | Adele Rahman |
 | 192 | 148 | Bouncy Grid |
 | 193 | 147 | Emily Adelaide Wheatley |
@@ -224,8 +224,8 @@
 | 216 | 133 | Fmp |
 | 217 | 133 | Kimberly Garcia |
 | 218 | 132 | Layzietyme |
-| 219 | 131 | Jessie |
-| 220 | 131 | Uhog SF |
+| 219 | 131 | Uhog SF |
+| 220 | 131 | Jessie |
 | 221 | 130 | Gilbert Ortiz Jr. |
 | 222 | 129 | Sherri E Woods Hess |
 | 223 | 129 | Larry Tilton |
