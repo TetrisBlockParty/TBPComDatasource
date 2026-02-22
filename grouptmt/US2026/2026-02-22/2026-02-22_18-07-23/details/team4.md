@@ -116,8 +116,8 @@
 | 108 | 426 | Ren Mc |
 | 109 | 419 | shar |
 | 110 | 415 | Monica Daley |
-| 111 | 412 | Scott Jameson |
-| 112 | 412 | Jenna Ingersoll |
+| 111 | 412 | Jenna Ingersoll |
+| 112 | 412 | Scott Jameson |
 | 113 | 409 | Isabella Blanco |
 | 114 | 407 | Marie-Pier Desjardins |
 | 115 | 404 | Courtney Cicoria |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | HastyGrabber |
-| 132 | 332 | Desi Desporte |
+| 131 | 332 | Desi Desporte |
+| 132 | 332 | HastyGrabber |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -175,10 +175,10 @@
 | 167 | 271 | Sarah Brown |
 | 168 | 269 | Nikki Rae Gordon |
 | 169 | 268 | Mimi |
-| 170 | 267 | Casey Grabner |
-| 171 | 267 | Damn Libra |
-| 172 | 267 | Kathy Brookins |
-| 173 | 267 | Holly |
+| 170 | 267 | Damn Libra |
+| 171 | 267 | Casey Grabner |
+| 172 | 267 | Holly |
+| 173 | 267 | Kathy Brookins |
 | 174 | 266 | Laura |
 | 175 | 265 | Jeff Brian Gates |
 | 176 | 265 | Chris Bernstein |
@@ -770,7 +770,7 @@
 | 762 | 58 | Cheery Fitline |
 | 763 | 58 | Bold Matcher |
 | 764 | 58 | JEan Price |
-| 765 | 57 | Kimberly Paxton |
+| 765 | 57 | Boldy Linkfall |
 | 766 | 57 | Harold M. |
 | 767 | 57 | Kimberly Paxton |
 | 768 | 57 | Koral Hanke |

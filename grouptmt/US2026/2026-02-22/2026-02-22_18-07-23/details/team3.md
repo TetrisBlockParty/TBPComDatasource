@@ -210,8 +210,8 @@
 | 202 | 362 | Rochelle Hazelett |
 | 203 | 362 | Brandon Givens |
 | 204 | 362 | Loopy Fallmatch |
-| 205 | 358 | Chummy Caster |
-| 206 | 358 | RickyG |
+| 205 | 358 | RickyG |
+| 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
 | 208 | 353 | Nora Rogers |
 | 209 | 351 | Eon Harris |
@@ -311,8 +311,8 @@
 | 303 | 236 | Angela Scott |
 | 304 | 233 | Tony Waters |
 | 305 | 232 | Donna |
-| 306 | 231 | Kevin Russell |
-| 307 | 231 | Kiki |
+| 306 | 231 | Kiki |
+| 307 | 231 | Kevin Russell |
 | 308 | 230 | BigE |
 | 309 | 228 | Beaudie Stroebel |
 | 310 | 228 | Naur |
@@ -341,8 +341,8 @@
 | 333 | 218 | Khaleada McGill Banks |
 | 334 | 217 | Snazzy Filler |
 | 335 | 217 | Goofy Fall |
-| 336 | 216 | Cheryl Hinch Tenbrook |
-| 337 | 216 | Frothy Snapper |
+| 336 | 216 | Frothy Snapper |
+| 337 | 216 | Cheryl Hinch Tenbrook |
 | 338 | 215 | Everret Maxine |
 | 339 | 214 | Amy Fuller Heaton |
 | 340 | 214 | Randy Clevenger |
