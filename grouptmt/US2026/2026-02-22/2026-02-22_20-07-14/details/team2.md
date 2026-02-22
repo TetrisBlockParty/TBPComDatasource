@@ -240,8 +240,8 @@
 | 232 | 972 | Juliana Marques Do Nascimento Gordy |
 | 233 | 972 | Della Hole |
 | 234 | 965 | Maria Escobar |
-| 235 | 957 | Block Master |
-| 236 | 957 | Keri Womack |
+| 235 | 957 | Keri Womack |
+| 236 | 957 | Block Master |
 | 237 | 957 | Crystal Hoffman |
 | 238 | 955 | Angela Bonquiqui Dinish |
 | 239 | 951 | Cynthia Ward |
@@ -448,8 +448,8 @@
 | 440 | 583 | Jackie Avila |
 | 441 | 582 | Bee |
 | 442 | 581 | Angie Marie |
-| 443 | 580 | Angela Lynn |
-| 444 | 580 | Joshua Self |
+| 443 | 580 | Joshua Self |
+| 444 | 580 | Angela Lynn |
 | 445 | 579 | Roy Salyer |
 | 446 | 576 | Leslie Johnson Guinto |
 | 447 | 574 | Santana Miyagi |
@@ -534,8 +534,8 @@
 | 526 | 491 | Michael Buckner |
 | 527 | 489 | Elisheva Mizrachi |
 | 528 | 488 | Christina Wsn |
-| 529 | 487 | MrsCandyfine As Wine Truss |
-| 530 | 487 | Morgan Easter |
+| 529 | 487 | Morgan Easter |
+| 530 | 487 | MrsCandyfine As Wine Truss |
 | 531 | 486 | Amanda Ferrell |
 | 532 | 485 | Bubbly Snapfit |
 | 533 | 485 | Mamachelle Eisweirth |
@@ -546,8 +546,8 @@
 | 538 | 482 | Amélie Cadieux |
 | 539 | 482 | Drwatson187 |
 | 540 | 482 | Kathleen Driskell |
-| 541 | 481 | Anthony Huebel |
-| 542 | 481 | Quirky Twistline |
+| 541 | 481 | Quirky Twistline |
+| 542 | 481 | Anthony Huebel |
 | 543 | 480 | Ryan Meilleur |
 | 544 | 480 | Dar |
 | 545 | 479 | James Smith |
@@ -805,9 +805,9 @@
 | 797 | 344 | Glenn Cobbins |
 | 798 | 344 | Mary Boss |
 | 799 | 343 | Sabrena Yeisley |
-| 800 | 343 | Snappy Shatterfit |
-| 801 | 343 | Timothy Jesuwole |
-| 802 | 343 | bru |
+| 800 | 343 | Timothy Jesuwole |
+| 801 | 343 | bru |
+| 802 | 343 | Snappy Shatterfit |
 | 803 | 342 | Danielle DeLozier Plesec |
 | 804 | 342 | Johanna Massaro |
 | 805 | 341 | Angela Yantz |
@@ -831,8 +831,8 @@
 | 823 | 333 | Woodys Glass |
 | 824 | 332 | Tosa Puvapiromquan |
 | 825 | 332 | Lively Piecebuilder |
-| 826 | 330 | Christina Loftus |
-| 827 | 330 | Toni Roberson |
+| 826 | 330 | Toni Roberson |
+| 827 | 330 | Christina Loftus |
 | 828 | 329 | Jason Garnatz |
 | 829 | 329 | Joanna L. Abad |
 | 830 | 329 | Toni Whipple |
@@ -843,8 +843,8 @@
 | 835 | 327 | Sarah Dean |
 | 836 | 326 | RetroLemur |
 | 837 | 326 | Jennifer Mahon |
-| 838 | 325 | August Hale |
-| 839 | 325 | Noel Tarmy |
+| 838 | 325 | Noel Tarmy |
+| 839 | 325 | August Hale |
 | 840 | 325 | Justin Hines |
 | 841 | 324 | Persipnei Cuesta |
 | 842 | 324 | Dale Haanpaa |
@@ -876,8 +876,8 @@
 | 868 | 313 | Natasha Edmonds |
 | 869 | 313 | N00D3S |
 | 870 | 312 | Heather Renee Jeffers |
-| 871 | 311 | SwifftFox |
-| 872 | 311 | Audra Williams |
+| 871 | 311 | Audra Williams |
+| 872 | 311 | SwifftFox |
 | 873 | 311 | Megan Phillips |
 | 874 | 311 | Nat |
 | 875 | 310 | Cozy Drop |

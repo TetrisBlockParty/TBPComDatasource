@@ -147,8 +147,8 @@
 | 139 | 340 | Tanya Carpenter-Reynolds |
 | 140 | 336 | Elaine Elaine |
 | 141 | 334 | Jaimie Lynn |
-| 142 | 333 | Gracie |
-| 143 | 333 | GATOR |
+| 142 | 333 | GATOR |
+| 143 | 333 | Gracie |
 | 144 | 332 | Lehrin Maria |
 | 145 | 332 | Kristen Gideon |
 | 146 | 332 | Fmp |
@@ -218,8 +218,8 @@
 | 210 | 239 | Lacy Wolfe |
 | 211 | 238 | Tiffany Smith |
 | 212 | 236 | Matt Iaccheo |
-| 213 | 235 | MRdot Rooski |
-| 214 | 235 | Desiree Deschaine Havee |
+| 213 | 235 | Desiree Deschaine Havee |
+| 214 | 235 | MRdot Rooski |
 | 215 | 234 | Paula Martin |
 | 216 | 233 | LC |
 | 217 | 232 | Basment Living |

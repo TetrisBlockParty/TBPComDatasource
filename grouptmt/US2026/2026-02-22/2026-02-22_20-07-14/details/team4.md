@@ -147,8 +147,8 @@
 | 139 | 338 | Lucas J Sutton |
 | 140 | 336 | Jessica Bohlken |
 | 141 | 334 | Guy Incognito |
-| 142 | 332 | HastyGrabber |
-| 143 | 332 | Desi Desporte |
+| 142 | 332 | Desi Desporte |
+| 143 | 332 | HastyGrabber |
 | 144 | 330 | David Lay |
 | 145 | 328 | Leslie Nicole |
 | 146 | 328 | Kris Bartlett |
@@ -504,8 +504,8 @@
 | 496 | 105 | Undeniable Williams |
 | 497 | 105 | Lakesha Johnson |
 | 498 | 104 | Kametsunoyaiba |
-| 499 | 104 | Marcus TheeyoungWoe Gilmore |
-| 500 | 104 | Amy Jean |
+| 499 | 104 | Amy Jean |
+| 500 | 104 | Marcus TheeyoungWoe Gilmore |
 | 501 | 104 | Melissa VanBourgondien |
 | 502 | 104 | Jessica Johnston |
 | 503 | 103 | Mary Miller |
@@ -532,8 +532,8 @@
 | 524 | 99 | Caitlyn Brown |
 | 525 | 98 | Brenda Bird |
 | 526 | 98 | Carla Harris |
-| 527 | 97 | Tyler Bechtel |
-| 528 | 97 | Serena Butter |
+| 527 | 97 | Serena Butter |
+| 528 | 97 | Tyler Bechtel |
 | 529 | 97 | Flavoredsausage |
 | 530 | 96 | Destiney Carter |
 | 531 | 96 | Nicole McMurray |

@@ -161,8 +161,8 @@
 | 153 | 479 | Poppy Splitter |
 | 154 | 479 | Patti Skiles |
 | 155 | 474 | Danielle Balcom |
-| 156 | 471 | Mendoza Lee Christy |
-| 157 | 471 | Nora Rogers |
+| 156 | 471 | Nora Rogers |
+| 157 | 471 | Mendoza Lee Christy |
 | 158 | 470 | Logan Naccarato |
 | 159 | 469 | Adrian Marcel Pate |
 | 160 | 468 | Betty Ivy |
@@ -175,8 +175,8 @@
 | 167 | 455 | Tessina Dewey-Mancino |
 | 168 | 453 | Shannon Matthew Byers |
 | 169 | 452 | Danielle Rhoades |
-| 170 | 451 | FuzzyNavel |
-| 171 | 451 | Rachel |
+| 170 | 451 | Rachel |
+| 171 | 451 | FuzzyNavel |
 | 172 | 445 | Jacqueline Rodriguez |
 | 173 | 441 | Tasha Schriewer |
 | 174 | 439 | Tasha Gillespie |
@@ -233,11 +233,11 @@
 | 225 | 347 | Trisha Balmer |
 | 226 | 347 | Philip Rock |
 | 227 | 346 | Tamara Deherrera |
-| 228 | 344 | Roary Danner |
-| 229 | 344 | Rania Zaqout |
+| 228 | 344 | Rania Zaqout |
+| 229 | 344 | Roary Danner |
 | 230 | 343 | Ashley Raines |
-| 231 | 341 | Samantha Lynn |
-| 232 | 341 | Ashley Tookes |
+| 231 | 341 | Ashley Tookes |
+| 232 | 341 | Samantha Lynn |
 | 233 | 341 | Noyb Adam |
 | 234 | 340 | Ammmmmmy |
 | 235 | 338 | Gumbo |
@@ -249,8 +249,8 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Ashley Muncey |
-| 245 | 320 | Or Reznitsky |
+| 244 | 320 | Or Reznitsky |
+| 245 | 320 | Ashley Muncey |
 | 246 | 319 | Michael Johnson |
 | 247 | 317 | Kelly |
 | 248 | 314 | Peppy Shifter |
@@ -271,13 +271,13 @@
 | 263 | 292 | Cheeky Snapper |
 | 264 | 292 | Tiffany Davie |
 | 265 | 291 | Carrie Huskey |
-| 266 | 289 | DidIdothat |
-| 267 | 289 | Duane Bright |
-| 268 | 289 | Danielle Weikel |
+| 266 | 289 | Duane Bright |
+| 267 | 289 | Danielle Weikel |
+| 268 | 289 | DidIdothat |
 | 269 | 287 | Sabrina Hardrick |
 | 270 | 286 | Terry Jo Jones |
-| 271 | 286 | Tye Stovall |
-| 272 | 286 | Christian Werndl |
+| 271 | 286 | Christian Werndl |
+| 272 | 286 | Tye Stovall |
 | 273 | 283 | Heather Green |
 | 274 | 279 | Connie Mohler-Fair |
 | 275 | 279 | Jaime Monhaut-Reed |
