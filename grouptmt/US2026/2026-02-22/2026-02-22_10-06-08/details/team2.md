@@ -251,8 +251,8 @@
 | 243 | 777 | Tesha Oldaker |
 | 244 | 777 | Eric Carlson |
 | 245 | 772 | Stephen Stephen |
-| 246 | 772 | William Hunt |
-| 247 | 772 | Sam Joe |
+| 246 | 772 | Sam Joe |
+| 247 | 772 | William Hunt |
 | 248 | 771 | Terri McKelvey McKinley |
 | 249 | 769 | Adira Brown |
 | 250 | 767 | Jessica Wayne Cornwall |
@@ -623,9 +623,9 @@
 | 615 | 368 | Angi Harrison |
 | 616 | 367 | Jessica Lamb |
 | 617 | 367 | Connie Lepore-Mann |
-| 618 | 366 | Courtney Burcham |
-| 619 | 366 | Lawanda Forbes |
-| 620 | 366 | Smashanator |
+| 618 | 366 | Smashanator |
+| 619 | 366 | Courtney Burcham |
+| 620 | 366 | Lawanda Forbes |
 | 621 | 365 | Christina Lewis-Vickers |
 | 622 | 365 | Susan Arnburg |
 | 623 | 365 | Audrey Jones |
@@ -634,8 +634,8 @@
 | 626 | 363 | Jes Norris |
 | 627 | 363 | Michelle Sager |
 | 628 | 363 | Stephanie Fortune |
-| 629 | 362 | Andrea Maher |
-| 630 | 362 | Veronics |
+| 629 | 362 | Veronics |
+| 630 | 362 | Andrea Maher |
 | 631 | 362 | Tracy Wise |
 | 632 | 362 | Jennifer Scott |
 | 633 | 362 | Aishah Brice |
@@ -861,8 +861,8 @@
 | 853 | 263 | Amy Humphreys |
 | 854 | 263 | Sara Pennington |
 | 855 | 262 | Taren Cowan |
-| 856 | 261 | Dany Murillo |
-| 857 | 261 | Gina Gina |
+| 856 | 261 | Gina Gina |
+| 857 | 261 | Dany Murillo |
 | 858 | 261 | MrsClaudette Will'sIam Matthews |
 | 859 | 260 | Lynda Toland |
 | 860 | 260 | Michael David Hollis |
@@ -1411,8 +1411,8 @@
 | 1403 | 162 | Michelle Spires |
 | 1404 | 162 | Alice Samm |
 | 1405 | 162 | Sherilyn Huie |
-| 1406 | 162 | Delfina Marie Villasenor |
-| 1407 | 162 | LC Hamilton |
+| 1406 | 162 | LC Hamilton |
+| 1407 | 162 | Delfina Marie Villasenor |
 | 1408 | 161 | whitmama3220 |
 | 1409 | 161 | Dee Blokk |
 | 1410 | 161 | Hasty Riseclear |
@@ -1549,8 +1549,8 @@
 | 1541 | 146 | LML |
 | 1542 | 146 | Layla LS |
 | 1543 | 146 | Samuel Macon |
-| 1544 | 146 | Nutty Splitter |
-| 1545 | 146 | Kimmae Kimbrough |
+| 1544 | 146 | Kimmae Kimbrough |
+| 1545 | 146 | Nutty Splitter |
 | 1546 | 146 | Sherry Aguinaga |
 | 1547 | 146 | Brandy Sutton |
 | 1548 | 146 | Britt Woolston |

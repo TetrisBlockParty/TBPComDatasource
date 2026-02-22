@@ -231,8 +231,8 @@
 | 223 | 179 | Danielle Little-Daugherty |
 | 224 | 178 | Chad Atchley |
 | 225 | 177 | Jacqueline Unique |
-| 226 | 177 | Irual Hctrab |
-| 227 | 177 | Perky Shiftsnap |
+| 226 | 177 | Perky Shiftsnap |
+| 227 | 177 | Irual Hctrab |
 | 228 | 176 | Mel Hogan |
 | 229 | 175 | John Barron |
 | 230 | 174 | Cheeky Pop |
