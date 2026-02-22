@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -229,8 +229,8 @@
 | 221 | 203 | Katherine Crane |
 | 222 | 202 | Patron Anderson |
 | 223 | 201 | Melvin Baird |
-| 224 | 200 | Googenheim |
-| 225 | 200 | Rebecca Morris |
+| 224 | 200 | Rebecca Morris |
+| 225 | 200 | Googenheim |
 | 226 | 200 | Lori |
 | 227 | 199 | April Rondinone |
 | 228 | 198 | Calvin Dennis |
@@ -249,8 +249,8 @@
 | 241 | 189 | 030Synner |
 | 242 | 186 | Holly |
 | 243 | 185 | Laura Hosford |
-| 244 | 184 | Lauren Lamb |
-| 245 | 184 | Ak Jones |
+| 244 | 184 | Ak Jones |
+| 245 | 184 | Lauren Lamb |
 | 246 | 183 | JPW |
 | 247 | 181 | Carter Jones |
 | 248 | 181 | Jackie Marie |
@@ -426,12 +426,12 @@
 | 418 | 111 | Zocko Ellet |
 | 419 | 111 | Richard-April Kice |
 | 420 | 111 | Lazy Blocker |
-| 421 | 111 | Jennifer Perkins |
-| 422 | 111 | Jackson Karen |
+| 421 | 111 | Jackson Karen |
+| 422 | 111 | Jennifer Perkins |
 | 423 | 110 | JoAnna Zalkovsky |
 | 424 | 110 | Shane Vick |
-| 425 | 110 | No Strings Attached Ra |
-| 426 | 110 | Jennifer Dineen |
+| 425 | 110 | Jennifer Dineen |
+| 426 | 110 | No Strings Attached Ra |
 | 427 | 110 | Thomas Hettenhaus |
 | 428 | 109 | Matt Gooder |
 | 429 | 109 | Verna Neal |

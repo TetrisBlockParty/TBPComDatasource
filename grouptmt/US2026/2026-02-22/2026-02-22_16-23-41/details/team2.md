@@ -135,8 +135,8 @@
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1371 | Zappy Cascade |
 | 129 | 1347 | Alisa Lamb |
-| 130 | 1342 | Eboni Banks |
-| 131 | 1342 | Christi Hulet |
+| 130 | 1342 | Christi Hulet |
+| 131 | 1342 | Eboni Banks |
 | 132 | 1342 | Bob |
 | 133 | 1338 | Dawn Geist-Weasner |
 | 134 | 1330 | Erica Williams |
@@ -231,8 +231,8 @@
 | 223 | 919 | Joshua Mandel |
 | 224 | 919 | Isaac Trappiel IV |
 | 225 | 916 | Butta |
-| 226 | 915 | Robin Kerby |
-| 227 | 915 | Angela Bonquiqui Dinish |
+| 226 | 915 | Angela Bonquiqui Dinish |
+| 227 | 915 | Robin Kerby |
 | 228 | 915 | Kelly Trent |
 | 229 | 910 | Shuany Arias |
 | 230 | 907 | Gene Mills |
@@ -371,8 +371,8 @@
 | 363 | 631 | Dylan Thomason |
 | 364 | 631 | Marie Walker |
 | 365 | 628 | Brownie Sheena |
-| 366 | 627 | Allan Wayne Lamia |
-| 367 | 627 | Victoria Moore-Smith |
+| 366 | 627 | Victoria Moore-Smith |
+| 367 | 627 | Allan Wayne Lamia |
 | 368 | 621 | AgileDragon |
 | 369 | 620 | Brandon Armstrong |
 | 370 | 620 | Demeka Dangerous-kisses Johnson |

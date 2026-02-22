@@ -195,8 +195,8 @@
 | 187 | 374 | Darlene McMillan |
 | 188 | 374 | Sherry Ogden |
 | 189 | 372 | Giddy Twistbuilder |
-| 190 | 370 | Danielle Allison |
-| 191 | 370 | Santeria Trece Candles |
+| 190 | 370 | Santeria Trece Candles |
+| 191 | 370 | Danielle Allison |
 | 192 | 368 | Stephanie Woods |
 | 193 | 366 | Adrian Marcel Pate |
 | 194 | 363 | Tom Nault |

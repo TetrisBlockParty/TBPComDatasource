@@ -74,8 +74,8 @@
 | 66 | 510 | Colena Davenport |
 | 67 | 496 | Sarah Lombardo |
 | 68 | 493 | Robert Benito |
-| 69 | 492 | Seth Wesson |
-| 70 | 492 | Lola Adkhambekovna |
+| 69 | 492 | Lola Adkhambekovna |
+| 70 | 492 | Seth Wesson |
 | 71 | 489 | Deanna L Hermanson |
 | 72 | 485 | Cartier |
 | 73 | 483 | Evie Khalil |
@@ -177,8 +177,8 @@
 | 169 | 263 | Ty Brown |
 | 170 | 261 | Witty Builderfit |
 | 171 | 257 | Shannon Marie Pitts |
-| 172 | 254 | Al Smith Jr |
-| 173 | 254 | Letson Melissa |
+| 172 | 254 | Letson Melissa |
+| 173 | 254 | Al Smith Jr |
 | 174 | 253 | Jamie Jury |
 | 175 | 252 | Dena Kayy |
 | 176 | 251 | Giggly Builderline |
