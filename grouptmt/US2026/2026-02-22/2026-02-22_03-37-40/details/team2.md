@@ -211,12 +211,12 @@
 | 203 | 771 | Terri McKelvey McKinley |
 | 204 | 765 | Jodi Blake |
 | 205 | 763 | Dineisha Carpenter |
-| 206 | 763 | Samantha Jo |
-| 207 | 763 | Foxxo |
+| 206 | 763 | Foxxo |
+| 207 | 763 | Samantha Jo |
 | 208 | 759 | Lisa Ongtowasruk |
 | 209 | 756 | Stephanie Neuburger |
-| 210 | 755 | Katrina Weston |
-| 211 | 755 | Ashley House |
+| 210 | 755 | Ashley House |
+| 211 | 755 | Katrina Weston |
 | 212 | 753 | SaraMarie Eveland |
 | 213 | 751 | Loony Snapper |
 | 214 | 749 | Debra Williams |
@@ -267,8 +267,8 @@
 | 259 | 647 | Ashle Scranton |
 | 260 | 643 | Hoppy Brickmatch |
 | 261 | 641 | Joce Lynn |
-| 262 | 640 | Alisa Lamb |
-| 263 | 640 | BYM4L |
+| 262 | 640 | BYM4L |
+| 263 | 640 | Alisa Lamb |
 | 264 | 639 | Rebecca Miller |
 | 265 | 638 | Jessicah Myers |
 | 266 | 637 | Crystie Hicks |
@@ -432,11 +432,11 @@
 | 424 | 419 | Pocho Zavala |
 | 425 | 415 | Véronique Lévesque Sabourin |
 | 426 | 414 | Sabrina Burton |
-| 427 | 414 | Steven Marshaun |
-| 428 | 414 | John |
-| 429 | 414 | Emily Lyric Converse |
-| 430 | 413 | Lauren Fitzgerald Thomas |
-| 431 | 413 | Biggest thing |
+| 427 | 414 | John |
+| 428 | 414 | Emily Lyric Converse |
+| 429 | 414 | Steven Marshaun |
+| 430 | 413 | Biggest thing |
+| 431 | 413 | Lauren Fitzgerald Thomas |
 | 432 | 413 | Ricky Fortune |
 | 433 | 411 | Kristen O'Neal |
 | 434 | 408 | Brandon Jones |
@@ -463,8 +463,8 @@
 | 455 | 392 | Christine Bollig |
 | 456 | 391 | Cleo Sims |
 | 457 | 391 | Qiana Sanders |
-| 458 | 391 | Adam Simmons |
-| 459 | 391 | Chilly Bridgepiece |
+| 458 | 391 | Chilly Bridgepiece |
+| 459 | 391 | Adam Simmons |
 | 460 | 390 | Alexandra Weir |
 | 461 | 389 | Alexis Richardson |
 | 462 | 389 | Kayla |
@@ -498,8 +498,8 @@
 | 490 | 371 | Jessica Hughes |
 | 491 | 371 | Giggy Grabber |
 | 492 | 371 | Saucy Fitzone |
-| 493 | 369 | RaeVan Worthington |
-| 494 | 369 | Tony Lea |
+| 493 | 369 | Tony Lea |
+| 494 | 369 | RaeVan Worthington |
 | 495 | 369 | Tara Lynn Janes |
 | 496 | 368 | Elisheva Mizrachi |
 | 497 | 367 | Deyawn Smith |
@@ -513,8 +513,8 @@
 | 505 | 363 | Michelle Sager |
 | 506 | 363 | Happy Caster |
 | 507 | 363 | Lawanda Forbes |
-| 508 | 362 | KayLynn Ogden McClelland |
-| 509 | 362 | Tracy Wise |
+| 508 | 362 | Tracy Wise |
+| 509 | 362 | KayLynn Ogden McClelland |
 | 510 | 362 | Jennifer Scott |
 | 511 | 360 | Jroc |
 | 512 | 360 | Juan Castillo |
@@ -1304,7 +1304,7 @@
 | 1296 | 144 | James Lucas |
 | 1297 | 144 | Joshua Yonker |
 | 1298 | 144 | Elyse Rivera |
-| 1299 | 144 | Brandy |
+| 1299 | 144 | Nicki Stephens |
 | 1300 | 144 | Ms806 |
 | 1301 | 144 | candy |
 | 1302 | 144 | Tinishia Amie |

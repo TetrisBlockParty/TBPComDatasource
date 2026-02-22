@@ -117,9 +117,9 @@
 | 109 | 274 | Desi Desporte |
 | 110 | 271 | Sarah Brown |
 | 111 | 268 | Meagan Nicole |
-| 112 | 264 | Dana Scott |
-| 113 | 264 | Epic Curvetile |
-| 114 | 264 | Girl |
+| 112 | 264 | Girl |
+| 113 | 264 | Dana Scott |
+| 114 | 264 | Epic Curvetile |
 | 115 | 258 | Brittney Orengo |
 | 116 | 257 | Holly Jolly |
 | 117 | 256 | Mylo Lipscomb |
@@ -174,8 +174,8 @@
 | 166 | 185 | Andy Cabral |
 | 167 | 185 | Lori |
 | 168 | 184 | Ak Jones |
-| 169 | 181 | Carter Jones |
-| 170 | 181 | Klo |
+| 169 | 181 | Klo |
+| 170 | 181 | Carter Jones |
 | 171 | 179 | blockstar |
 | 172 | 176 | Zethra Prenisha Rahming |
 | 173 | 174 | Dihcheese444 |
@@ -191,8 +191,8 @@
 | 183 | 160 | ZeeZee |
 | 184 | 160 | Carlos Ramirez |
 | 185 | 159 | Marcus Todd |
-| 186 | 158 | Chair |
-| 187 | 158 | Avy Absol |
+| 186 | 158 | Avy Absol |
+| 187 | 158 | Chair |
 | 188 | 155 | AyeKay |
 | 189 | 154 | scott |
 | 190 | 154 | Laura Hosford |
@@ -213,18 +213,18 @@
 | 205 | 147 | Jay28 |
 | 206 | 145 | Mimi |
 | 207 | 144 | Tanner Lund |
-| 208 | 143 | Lauren Lamb |
-| 209 | 143 | Sam Bishop |
+| 208 | 143 | Sam Bishop |
+| 209 | 143 | Lauren Lamb |
 | 210 | 142 | Stephme310 |
 | 211 | 142 | Zippy Gridlock |
 | 212 | 142 | Victoria Faniel |
 | 213 | 141 | Montiette Mcglown |
 | 214 | 141 | Kathy Allen |
 | 215 | 141 | ĥuf |
-| 216 | 139 | Kristina Black |
-| 217 | 139 | Chaz |
+| 216 | 139 | Chaz |
+| 217 | 139 | Lori Goudy |
 | 218 | 139 | Nerdy Twisterfit |
-| 219 | 139 | Lori Goudy |
+| 219 | 139 | Kristina Black |
 | 220 | 138 | Brandon Link |
 | 221 | 137 | PeaceOs |
 | 222 | 137 | Brianna Walker |

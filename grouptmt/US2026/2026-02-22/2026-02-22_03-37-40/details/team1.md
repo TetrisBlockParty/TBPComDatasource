@@ -141,14 +141,14 @@
 | 133 | 226 | Kandae |
 | 134 | 226 | ALFD |
 | 135 | 217 | ParisandCory Champagne |
-| 136 | 216 | MRdot Rooski |
-| 137 | 216 | Shauntina Burke |
+| 136 | 216 | Shauntina Burke |
+| 137 | 216 | MRdot Rooski |
 | 138 | 214 | GATOR |
 | 139 | 212 | Lori Bales |
 | 140 | 212 | Jaimie Lynn |
 | 141 | 211 | Marianita Garcia |
-| 142 | 208 | Giggly Builderline |
-| 143 | 208 | Bouncy Grid |
+| 142 | 208 | Bouncy Grid |
+| 143 | 208 | Giggly Builderline |
 | 144 | 207 | Leslie Bush Yarbrough |
 | 145 | 206 | Kimberly Garcia |
 | 146 | 204 | Lacy Wolfe |
@@ -222,17 +222,17 @@
 | 214 | 145 | Tipsy Riseclear |
 | 215 | 144 | Cranky Pattern |
 | 216 | 144 | Gary Gobin |
-| 217 | 144 | Miguel Teixeira |
-| 218 | 144 | Toph |
-| 219 | 143 | Guest |
-| 220 | 143 | Herm Junior |
+| 217 | 144 | Toph |
+| 218 | 144 | Miguel Teixeira |
+| 219 | 143 | Herm Junior |
+| 220 | 143 | Guest |
 | 221 | 142 | Colleen Wise |
 | 222 | 142 | Fmp |
 | 223 | 141 | Blaire Bruckoff |
 | 224 | 141 | Dino |
 | 225 | 139 | Flashy Rotator |
 | 226 | 139 | LD1 |
-| 227 | 138 | Giddy Cascade |
+| 227 | 138 | Hector Cruz |
 | 228 | 138 | Mark Smith |
 | 229 | 138 | Giddy Cascade |
 | 230 | 137 | Cody Gates |
@@ -255,8 +255,8 @@
 | 247 | 128 | Desiree Deschaine Havee |
 | 248 | 128 | Alyssa Ingram |
 | 249 | 127 | Chantelle Ceno |
-| 250 | 126 | Tami Luce Martin |
-| 251 | 126 | Alenoush Karimian |
+| 250 | 126 | Alenoush Karimian |
+| 251 | 126 | Tami Luce Martin |
 | 252 | 125 | Melissa Bires Hussar |
 | 253 | 124 | Rodney Schmerfeld |
 | 254 | 124 | Howdi Duty |

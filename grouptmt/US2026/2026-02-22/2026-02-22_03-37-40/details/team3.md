@@ -82,9 +82,9 @@
 | 74 | 608 | Danielle Becker |
 | 75 | 590 | Katrina Schroeder |
 | 76 | 588 | yoyo |
-| 77 | 582 | Jay Horn |
-| 78 | 582 | Natasha Jones |
-| 79 | 582 | Speedy Bridger |
+| 77 | 582 | Speedy Bridger |
+| 78 | 582 | Jay Horn |
+| 79 | 582 | Natasha Jones |
 | 80 | 581 | Danielle Mogg |
 | 81 | 576 | Dan Rob |
 | 82 | 566 | Dolores Falco |
@@ -124,17 +124,17 @@
 | 116 | 428 | Betty Ivy |
 | 117 | 416 | Mary Pellegrino |
 | 118 | 411 | FuzzyNavel |
-| 119 | 410 | Stephanie Blkpep Davidson |
-| 120 | 410 | Stephanie Simpson |
+| 119 | 410 | Stephanie Simpson |
+| 120 | 410 | Stephanie Blkpep Davidson |
 | 121 | 409 | Karon Griffin |
 | 122 | 405 | Michelle |
 | 123 | 403 | Christine Filson |
 | 124 | 403 | Scott Lindsay |
 | 125 | 402 | Shannon Matthew Byers |
 | 126 | 400 | Luciana Braganca Vieira |
-| 127 | 399 | Mcathen |
-| 128 | 399 | ren |
-| 129 | 399 | Patti Skiles |
+| 127 | 399 | ren |
+| 128 | 399 | Patti Skiles |
+| 129 | 399 | Mcathen |
 | 130 | 397 | Annie Déè |
 | 131 | 392 | Tasha Gillespie |
 | 132 | 392 | Katie Knaus |
@@ -238,24 +238,24 @@
 | 230 | 214 | Rebel124 |
 | 231 | 214 | Amy Fuller Heaton |
 | 232 | 213 | Stephanie Burtin |
-| 233 | 212 | Twisty Brick LT |
-| 234 | 212 | Desiree Gold |
+| 233 | 212 | Desiree Gold |
+| 234 | 212 | Twisty Brick LT |
 | 235 | 212 | Sunny Rotater |
 | 236 | 211 | Katrina Turner |
-| 237 | 211 | Khaleada McGill Banks |
-| 238 | 211 | Trisha Balmer |
+| 237 | 211 | Trisha Balmer |
+| 238 | 211 | Khaleada McGill Banks |
 | 239 | 207 | Jessica |
 | 240 | 205 | Sarah Moyer |
 | 241 | 205 | Connie Mohler-Fair |
-| 242 | 204 | Aerian Preston |
-| 243 | 204 | Danielle Allison |
+| 242 | 204 | Danielle Allison |
+| 243 | 204 | Aerian Preston |
 | 244 | 203 | Angie Harper |
 | 245 | 202 | Scott Carleton |
 | 246 | 200 | glichmod |
 | 247 | 200 | Sharisse Baltimore |
 | 248 | 200 | angieelyn |
-| 249 | 199 | Hyper Matchzone |
-| 250 | 199 | Staci George Fitzsimmons |
+| 249 | 199 | Staci George Fitzsimmons |
+| 250 | 199 | Hyper Matchzone |
 | 251 | 198 | AlsoJess |
 | 252 | 195 | Nicha Hooker |
 | 253 | 195 | Cheryl Hinch Tenbrook |
@@ -312,10 +312,10 @@
 | 304 | 159 | Jone |
 | 305 | 159 | Joshua David Huie |
 | 306 | 158 | Willow |
-| 307 | 157 | Katrina E Jelks |
-| 308 | 157 | Samantha Lynn |
-| 309 | 157 | Danielle Balcom |
-| 310 | 157 | Sabrina Hardrick |
+| 307 | 157 | Sabrina Hardrick |
+| 308 | 157 | Katrina E Jelks |
+| 309 | 157 | Samantha Lynn |
+| 310 | 157 | Danielle Balcom |
 | 311 | 156 | Josh Borquez |
 | 312 | 156 | Noettín Kan Zasnemoore |
 | 313 | 155 | mzcatzy |
