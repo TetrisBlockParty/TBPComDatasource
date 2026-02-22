@@ -347,8 +347,8 @@
 | 339 | 788 | Erika Densmore |
 | 340 | 785 | Amber Brion |
 | 341 | 782 | Beth |
-| 342 | 777 | Jessicah Myers |
-| 343 | 777 | Tesha Oldaker |
+| 342 | 777 | Tesha Oldaker |
+| 343 | 777 | Jessicah Myers |
 | 344 | 774 | Ginnell Browner |
 | 345 | 774 | Ashley Dow |
 | 346 | 773 | Diana Fitzwater |

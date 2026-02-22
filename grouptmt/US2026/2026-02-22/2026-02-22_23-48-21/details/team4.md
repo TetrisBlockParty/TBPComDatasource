@@ -51,8 +51,8 @@
 | 43 | 899 | Dustin Robert |
 | 44 | 855 | Marvin Lou Martin |
 | 45 | 851 | Jae Job |
-| 46 | 846 | Christine Marie |
-| 47 | 846 | Lucille Truesdale |
+| 46 | 846 | Lucille Truesdale |
+| 47 | 846 | Christine Marie |
 | 48 | 843 | Shelly Chandler |
 | 49 | 839 | LisaJo Picken Buchanan |
 | 50 | 838 | TeeJ |
@@ -138,8 +138,8 @@
 | 130 | 406 | Lush Linkfall |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Trish |
-| 134 | 393 | Carlton Unfiltered |
+| 133 | 393 | Carlton Unfiltered |
+| 134 | 393 | Trish |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -156,8 +156,8 @@
 | 148 | 353 | Tyler Terrific |
 | 149 | 353 | Livvy |
 | 150 | 349 | Desi Desporte |
-| 151 | 348 | Silly Zonebuilder |
-| 152 | 348 | 🥔🥔 Spudz |
+| 151 | 348 | 🥔🥔 Spudz |
+| 152 | 348 | Silly Zonebuilder |
 | 153 | 347 | Daria Rycewicz |
 | 154 | 343 | Latisha Davis |
 | 155 | 342 | Klo |
@@ -410,8 +410,8 @@
 | 402 | 147 | ĥuf |
 | 403 | 147 | Maureen Flanigan |
 | 404 | 146 | Brave Spinbuilder |
-| 405 | 145 | Jackie Clark |
-| 406 | 145 | Glitzy Crasher |
+| 405 | 145 | Glitzy Crasher |
+| 406 | 145 | Jackie Clark |
 | 407 | 144 | Squeezy Pearsall |
 | 408 | 143 | Groovy Gridlock |
 | 409 | 143 | Jasmine S Caldwell |

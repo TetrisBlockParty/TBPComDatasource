@@ -26,8 +26,8 @@
 | 18 | 1272 | Odell Barnett |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -85,8 +85,8 @@
 | 77 | 552 | Aaron Garnett |
 | 78 | 551 | Greg Hart |
 | 79 | 535 | Denice Dee |
-| 80 | 534 | Loony Fitzone |
-| 81 | 534 | Cynthia Bradley |
+| 80 | 534 | Cynthia Bradley |
+| 81 | 534 | Loony Fitzone |
 | 82 | 524 | Erin Hodges Plumb |
 | 83 | 522 | Robert Benito |
 | 84 | 519 | Ryan Lunnin |
@@ -152,8 +152,8 @@
 | 144 | 357 | Amanda Johnson Huffman |
 | 145 | 357 | Jason Savage |
 | 146 | 353 | Josh Riemer |
-| 147 | 350 | Death |
-| 148 | 350 | Tipsy Strikerpiece |
+| 147 | 350 | Tipsy Strikerpiece |
+| 148 | 350 | Death |
 | 149 | 344 | Monica Donato |
 | 150 | 343 | Elaine Elaine |
 | 151 | 341 | Nick R Montague |
@@ -170,8 +170,8 @@
 | 162 | 318 | Jessica Sheehan |
 | 163 | 318 | Virginia Gray Floyd |
 | 164 | 317 | Rachael |
-| 165 | 315 | Danielle Little-Daugherty |
-| 166 | 315 | Tyler Werts |
+| 165 | 315 | Tyler Werts |
+| 166 | 315 | Danielle Little-Daugherty |
 | 167 | 312 | Kimberly Garcia |
 | 168 | 311 | Madison Wicks |
 | 169 | 310 | Basment Living |
@@ -210,25 +210,25 @@
 | 202 | 270 | Mandyy Rae |
 | 203 | 269 | Amanda Jarnagin |
 | 204 | 268 | Reesey Enyart |
-| 205 | 267 | Cody Gates |
-| 206 | 267 | Debbie Kane |
+| 205 | 267 | Debbie Kane |
+| 206 | 267 | Cody Gates |
 | 207 | 266 | BadG52 |
 | 208 | 265 | Kandae |
 | 209 | 264 | Jen Nystrom |
 | 210 | 264 | Jenny Gingrich Fuentes |
 | 211 | 263 | Jessie Lynn |
 | 212 | 260 | Cheeky Pop |
-| 213 | 256 | Chris65 |
-| 214 | 256 | Standia Civil |
+| 213 | 256 | Standia Civil |
+| 214 | 256 | Chris65 |
 | 215 | 255 | Speedy Liney |
 | 216 | 254 | Al Smith Jr |
 | 217 | 254 | Giggly Builderline |
 | 218 | 253 | Jamie Jury |
 | 219 | 252 | Dena Kayy |
-| 220 | 249 | Lakeisha Chapman |
-| 221 | 249 | Sam Williams |
-| 222 | 247 | John J. Cronin |
-| 223 | 247 | Snappy Matcher |
+| 220 | 249 | Sam Williams |
+| 221 | 249 | Lakeisha Chapman |
+| 222 | 247 | Snappy Matcher |
+| 223 | 247 | John J. Cronin |
 | 224 | 245 | Matt Iaccheo |
 | 225 | 245 | MRdot Rooski |
 | 226 | 245 | LaFontaine Leslie |
