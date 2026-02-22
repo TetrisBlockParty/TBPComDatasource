@@ -112,8 +112,8 @@
 | 104 | 499 | Trista Leah |
 | 105 | 499 | Christina LR |
 | 106 | 488 | Jen Allison |
-| 107 | 487 | Alyssa Papen |
-| 108 | 487 | shar |
+| 107 | 487 | shar |
+| 108 | 487 | Alyssa Papen |
 | 109 | 481 | Serena Goodridge |
 | 110 | 476 | Matt Summer |
 | 111 | 474 | Jenna Ingersoll |
@@ -137,8 +137,8 @@
 | 129 | 406 | Jessica Lynn Cutlip |
 | 130 | 400 | Ericca Eldridge |
 | 131 | 394 | Austin Owens |
-| 132 | 393 | Trish |
-| 133 | 393 | Carlton Unfiltered |
+| 132 | 393 | Carlton Unfiltered |
+| 133 | 393 | Trish |
 | 134 | 392 | Cristy Duerksen |
 | 135 | 391 | Lush Linkfall |
 | 136 | 391 | Ramel Rhodes |
@@ -199,14 +199,14 @@
 | 191 | 286 | Brittney Orengo |
 | 192 | 282 | Chris Bernstein |
 | 193 | 282 | Sue Joyce Staats |
-| 194 | 281 | Kim Klutz Olson |
-| 195 | 281 | Laura |
+| 194 | 281 | Laura |
+| 195 | 281 | Kim Klutz Olson |
 | 196 | 277 | Mary Ann Pabukis |
 | 197 | 276 | Matt Dell'Olio |
 | 198 | 276 | Joeliecea Cobb |
 | 199 | 273 | Casey Grabner |
-| 200 | 272 | Dennis Bradley |
-| 201 | 272 | Alan George LaRage |
+| 200 | 272 | Alan George LaRage |
+| 201 | 272 | Dennis Bradley |
 | 202 | 271 | Sarah Brown |
 | 203 | 270 | Melissa Adams |
 | 204 | 270 | Juls |
@@ -217,8 +217,8 @@
 | 209 | 267 | Kathy Brookins |
 | 210 | 267 | Holly |
 | 211 | 264 | Holly Jolly |
-| 212 | 261 | scott |
-| 213 | 261 | Dihcheese444 |
+| 212 | 261 | Dihcheese444 |
+| 213 | 261 | scott |
 | 214 | 258 | Jen Caldwell |
 | 215 | 257 | PeaceOs |
 | 216 | 257 | Cheery Risebuilder |

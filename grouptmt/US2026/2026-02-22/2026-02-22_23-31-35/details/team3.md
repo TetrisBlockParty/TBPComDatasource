@@ -165,8 +165,8 @@
 | 157 | 517 | Denise Nardoni |
 | 158 | 516 | Elissa S-k |
 | 159 | 512 | Silly Twist |
-| 160 | 506 | Stephanie Blkpep Davidson |
-| 161 | 506 | Sashay Tapae Simpson |
+| 160 | 506 | Sashay Tapae Simpson |
+| 161 | 506 | Stephanie Blkpep Davidson |
 | 162 | 505 | Danielle Balcom |
 | 163 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 164 | 502 | Snappy Balancer |
@@ -200,7 +200,7 @@
 | 192 | 431 | Wendy Dearden |
 | 193 | 430 | Jeni Dow |
 | 194 | 430 | Joye Sims Binion |
-| 195 | 430 | Jeni Dow |
+| 195 | 430 | Terry Jo Jones |
 | 196 | 426 | Rochelle Hazelett |
 | 197 | 425 | Michael Johnson |
 | 198 | 422 | Fallorina Susana |
@@ -283,8 +283,8 @@
 | 275 | 302 | Gray Hicks |
 | 276 | 301 | Betty Rosas |
 | 277 | 300 | Tiffany Davie |
-| 278 | 299 | Ray Lader |
-| 279 | 299 | Angie Harper |
+| 278 | 299 | Angie Harper |
+| 279 | 299 | Ray Lader |
 | 280 | 298 | Grams |
 | 281 | 297 | Cheeky Snapper |
 | 282 | 297 | kacihall |
@@ -330,8 +330,8 @@
 | 322 | 268 | Michael Lucado |
 | 323 | 268 | Dirtgirl27 |
 | 324 | 267 | April Matthew Kibble |
-| 325 | 266 | Quirky Dropzone |
-| 326 | 266 | Donna |
+| 325 | 266 | Donna |
+| 326 | 266 | Quirky Dropzone |
 | 327 | 263 | Jimmie Clemons |
 | 328 | 262 | Cyd061769 |
 | 329 | 262 | Kristin Delibac Corrigan |
@@ -484,7 +484,7 @@
 | 476 | 181 | Sarah Whalen |
 | 477 | 180 | Beth Ingham |
 | 478 | 179 | Snarky McFace |
-| 479 | 178 | Sarah Tschee |
+| 479 | 178 | Flashy Rumbler |
 | 480 | 178 | Christian Luna |
 | 481 | 178 | Morgan Cudo |
 | 482 | 178 | Sarah Tschee |
@@ -566,8 +566,8 @@
 | 558 | 158 | Whitney Manuel |
 | 559 | 158 | TLM |
 | 560 | 157 | Angel Mendez |
-| 561 | 157 | Michelle Ramirez |
-| 562 | 157 | DeeDee13 |
+| 561 | 157 | DeeDee13 |
+| 562 | 157 | Michelle Ramirez |
 | 563 | 157 | Emberblaze |
 | 564 | 156 | Brittany K Ward |
 | 565 | 156 | Silly Curvetile |

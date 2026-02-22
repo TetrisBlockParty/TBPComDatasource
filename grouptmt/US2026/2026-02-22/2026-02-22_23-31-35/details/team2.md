@@ -268,8 +268,8 @@
 | 260 | 955 | Angela Bonquiqui Dinish |
 | 261 | 955 | Kevin Walp |
 | 262 | 951 | Cynthia Ward |
-| 263 | 941 | Glitzy Stackzone |
-| 264 | 941 | Cool Clearer |
+| 263 | 941 | Cool Clearer |
+| 264 | 941 | Glitzy Stackzone |
 | 265 | 937 | Cindy Sechler Taninecz |
 | 266 | 936 | Rickey Johnson |
 | 267 | 934 | April Dawn Gussler |
@@ -293,8 +293,8 @@
 | 285 | 892 | Boldy Cascadepiece |
 | 286 | 887 | Barbra Miller |
 | 287 | 884 | Adira Brown |
-| 288 | 883 | Hong Tang |
-| 289 | 883 | nikki |
+| 288 | 883 | nikki |
+| 289 | 883 | Hong Tang |
 | 290 | 882 | Nashu |
 | 291 | 880 | Sam Joe |
 | 292 | 878 | Felicia Lynn |
