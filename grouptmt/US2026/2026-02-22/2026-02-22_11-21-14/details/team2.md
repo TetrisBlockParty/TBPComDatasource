@@ -428,8 +428,8 @@
 | 420 | 504 | Kimmy Newman |
 | 421 | 502 | Sparkles |
 | 422 | 502 | Sheniya Spurgeon |
-| 423 | 500 | Sarah Ridenour |
-| 424 | 500 | Blacc Blac |
+| 423 | 500 | Blacc Blac |
+| 424 | 500 | Sarah Ridenour |
 | 425 | 499 | Sarah Massey |
 | 426 | 498 | Rhonda Milstead |
 | 427 | 497 | June E Hanson |
@@ -624,8 +624,8 @@
 | 616 | 371 | Angi Harrison |
 | 617 | 371 | Saucy Fitzone |
 | 618 | 370 | Heather Sawtelle-Mckenzie |
-| 619 | 369 | Tony Lea |
-| 620 | 369 | RaeVan Worthington |
+| 619 | 369 | RaeVan Worthington |
+| 620 | 369 | Tony Lea |
 | 621 | 369 | Juan Castillo |
 | 622 | 367 | Connie Lepore-Mann |
 | 623 | 367 | Jessica Lamb |
@@ -654,8 +654,8 @@
 | 646 | 357 | Shannon Byrd |
 | 647 | 357 | Tristan Szolek |
 | 648 | 355 | Amanda Perez |
-| 649 | 354 | Rickey Johnson |
-| 650 | 354 | Rachel Kaminski |
+| 649 | 354 | Rachel Kaminski |
+| 650 | 354 | Rickey Johnson |
 | 651 | 352 | Rose Fx |
 | 652 | 352 | Jean FU Jagielski |
 | 653 | 352 | ruth |
@@ -682,8 +682,8 @@
 | 674 | 339 | Denise Rickman |
 | 675 | 338 | Janitta Alvarez |
 | 676 | 337 | Sassy Pattern |
-| 677 | 337 | Diallo Sparkman |
-| 678 | 337 | Tum |
+| 677 | 337 | Tum |
+| 678 | 337 | Diallo Sparkman |
 | 679 | 337 | Savannah Alexander |
 | 680 | 336 | Austin Wilson |
 | 681 | 336 | bru |

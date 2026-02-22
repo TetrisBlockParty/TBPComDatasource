@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Jessica Pineda-Lopez |
@@ -142,8 +142,8 @@
 | 134 | 454 | Makelini Mausia |
 | 135 | 453 | Silly Twist |
 | 136 | 449 | Danielle Rhoades |
-| 137 | 445 | Jacqueline Rodriguez |
-| 138 | 445 | Kristie McFarland |
+| 137 | 445 | Kristie McFarland |
+| 138 | 445 | Jacqueline Rodriguez |
 | 139 | 435 | Michelle |
 | 140 | 432 | Jenny Hrndz |
 | 141 | 428 | Betty Ivy |
@@ -184,8 +184,8 @@
 | 176 | 361 | Jamie Lang |
 | 177 | 359 | Dapper Snap |
 | 178 | 358 | Chummy Caster |
-| 179 | 357 | Tom Nault |
-| 180 | 357 | Stephanie Burtin |
+| 179 | 357 | Stephanie Burtin |
+| 180 | 357 | Tom Nault |
 | 181 | 355 | Tessina Dewey-Mancino |
 | 182 | 353 | Shunta Jacobs |
 | 183 | 353 | Nora Rogers |
@@ -287,8 +287,8 @@
 | 279 | 220 | Tosha Griffey |
 | 280 | 220 | rosy |
 | 281 | 218 | Michael Lucado |
-| 282 | 216 | Twisty Brick LT |
-| 283 | 216 | Cheryl Hinch Tenbrook |
+| 282 | 216 | Cheryl Hinch Tenbrook |
+| 283 | 216 | Twisty Brick LT |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 214 | Angela Scott |
@@ -306,8 +306,8 @@
 | 298 | 207 | Jessica |
 | 299 | 207 | Daring Builder |
 | 300 | 207 | angieelyn |
-| 301 | 206 | Tammy Rosenberry |
-| 302 | 206 | Stephanie Hill |
+| 301 | 206 | Stephanie Hill |
+| 302 | 206 | Tammy Rosenberry |
 | 303 | 206 | Tracy Martin |
 | 304 | 205 | Kirhonda Autmon |
 | 305 | 204 | Aerian Preston |
@@ -357,13 +357,13 @@
 | 349 | 170 | Colleen Phelps |
 | 350 | 170 | Tina Smith Roy |
 | 351 | 169 | Peachy Rollfit |
-| 352 | 168 | Trice Thomas |
-| 353 | 168 | April Matthew Kibble |
+| 352 | 168 | April Matthew Kibble |
+| 353 | 168 | Trice Thomas |
 | 354 | 167 | Shicken Nuggit |
 | 355 | 167 | Irene Arreguin |
 | 356 | 166 | Noettín Kan Zasnemoore |
-| 357 | 166 | Angella Lyons |
-| 358 | 166 | Snarky McFace |
+| 357 | 166 | Snarky McFace |
+| 358 | 166 | Angella Lyons |
 | 359 | 165 | Kali Kelz Williams |
 | 360 | 165 | Ashley Lynn Marchese |
 | 361 | 165 | Rainbow77375 |
@@ -388,18 +388,18 @@
 | 380 | 157 | Wetwet |
 | 381 | 157 | Miranda Taylor |
 | 382 | 157 | Katrina E Jelks |
-| 383 | 156 | Courtney Conboy |
-| 384 | 156 | Nichole Greene |
-| 385 | 155 | Michell Hendershott Jackson |
-| 386 | 155 | Michael Leblanc |
+| 383 | 156 | Nichole Greene |
+| 384 | 156 | Courtney Conboy |
+| 385 | 155 | Michael Leblanc |
+| 386 | 155 | Michell Hendershott Jackson |
 | 387 | 155 | Betty Bóò |
 | 388 | 154 | Shanon R Jackson |
 | 389 | 153 | Tony Waters |
 | 390 | 153 | Stefanie LaPointe |
 | 391 | 153 | Lys |
 | 392 | 153 | Sheila M Frazier |
-| 393 | 152 | Silver Marchán |
-| 394 | 152 | Shiny Zonebuilder |
+| 393 | 152 | Shiny Zonebuilder |
+| 394 | 152 | Silver Marchán |
 | 395 | 151 | Sarah Cowan Burgos |
 | 396 | 150 | Sassy Brickmatch |
 | 397 | 149 | Alexis Taylor |
@@ -420,8 +420,8 @@
 | 412 | 146 | Sara Dunn |
 | 413 | 146 | Sdot |
 | 414 | 144 | Crystal Hine |
-| 415 | 144 | Tenisha Semidey |
-| 416 | 144 | Blair Erin Waite |
+| 415 | 144 | Blair Erin Waite |
+| 416 | 144 | Tenisha Semidey |
 | 417 | 143 | Deseree Ewing |
 | 418 | 142 | Erica Anderson |
 | 419 | 142 | Frothy Snapper |

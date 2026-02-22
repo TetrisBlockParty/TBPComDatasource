@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Angel Fowler |
-| 50 | 635 | Marianne Louise West |
+| 49 | 635 | Marianne Louise West |
+| 50 | 635 | Angel Fowler |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -126,8 +126,8 @@
 | 118 | 316 | Ly Phethmany |
 | 119 | 316 | Jennifer Hardman |
 | 120 | 313 | Tanya Carpenter-Reynolds |
-| 121 | 310 | Jason Jones |
-| 122 | 310 | Seth Wesson |
+| 121 | 310 | Seth Wesson |
+| 122 | 310 | Jason Jones |
 | 123 | 306 | Happy Basegrid |
 | 124 | 304 | Nicole Roseberry Weber |
 | 125 | 301 | Lehrin Maria |
@@ -208,8 +208,8 @@
 | 200 | 200 | DaRascal |
 | 201 | 199 | Alenoush Karimian |
 | 202 | 199 | Basment Living |
-| 203 | 198 | Shiny Gridmatch |
-| 204 | 198 | Happy Snapbuild |
+| 203 | 198 | Happy Snapbuild |
+| 204 | 198 | Shiny Gridmatch |
 | 205 | 195 | Bindi |
 | 206 | 195 | Jennifer Olewnik Soborowski |
 | 207 | 194 | Christy Jones |
@@ -239,8 +239,8 @@
 | 231 | 179 | Erin Rosberg |
 | 232 | 178 | Chad Atchley |
 | 233 | 177 | Perky Shiftsnap |
-| 234 | 177 | Irual Hctrab |
-| 235 | 177 | Jacqueline Unique |
+| 234 | 177 | Jacqueline Unique |
+| 235 | 177 | Irual Hctrab |
 | 236 | 176 | Mel Hogan |
 | 237 | 175 | Kellie Tunstall |
 | 238 | 175 | John Barron |

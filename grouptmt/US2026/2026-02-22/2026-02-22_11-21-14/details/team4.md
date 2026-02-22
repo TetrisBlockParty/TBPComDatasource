@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Dustee Craddock-Harrison |
-| 58 | 636 | Kimyatta Cavin |
+| 57 | 636 | Kimyatta Cavin |
+| 58 | 636 | Dustee Craddock-Harrison |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -83,8 +83,8 @@
 | 75 | 512 | Casey Jeffcoat |
 | 76 | 511 | Michelle Marie |
 | 77 | 500 | Rodney McMath Jr. |
-| 78 | 486 | Landon Keith Graffeo |
-| 79 | 486 | Carmethia Clemons Haslerig |
+| 78 | 486 | Carmethia Clemons Haslerig |
+| 79 | 486 | Landon Keith Graffeo |
 | 80 | 485 | TeeJ |
 | 81 | 468 | Shane Kalamata Platoon |
 | 82 | 447 | Samantha Peterson |
@@ -235,10 +235,10 @@
 | 227 | 165 | James Hurley Jr. |
 | 228 | 165 | Zappy Buildgrid |
 | 229 | 164 | 030Synner |
-| 230 | 163 | Kristina Black |
-| 231 | 163 | Juls |
-| 232 | 162 | John Brunetti |
-| 233 | 162 | Joanna |
+| 230 | 163 | Juls |
+| 231 | 163 | Kristina Black |
+| 232 | 162 | Joanna |
+| 233 | 162 | John Brunetti |
 | 234 | 161 | Jenny Wells-Oakley |
 | 235 | 160 | Brittany Marsh |
 | 236 | 159 | Marcus Todd |
@@ -438,8 +438,8 @@
 | 430 | 92 | Frilly Blocky |
 | 431 | 92 | bloat princess |
 | 432 | 92 | Krash |
-| 433 | 91 | Sunny Filler |
-| 434 | 91 | Lee Silpe |
+| 433 | 91 | Lee Silpe |
+| 434 | 91 | Sunny Filler |
 | 435 | 91 | Kametsunoyaiba |
 | 436 | 90 | Thomas Hettenhaus |
 | 437 | 90 | Abigail Murphy |
