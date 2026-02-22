@@ -186,8 +186,8 @@
 | 178 | 1061 | Sarah Freitas |
 | 179 | 1050 | Amy Sayers |
 | 180 | 1045 | Lourisha |
-| 181 | 1043 | Suki Kaur |
-| 182 | 1043 | Brave Dropmatch |
+| 181 | 1043 | Brave Dropmatch |
+| 182 | 1043 | Suki Kaur |
 | 183 | 1036 | Allison Lockyer |
 | 184 | 1025 | Brandy Andre |
 | 185 | 1024 | Bri Lynn |
@@ -221,8 +221,8 @@
 | 213 | 932 | Catina Hutchison |
 | 214 | 924 | Crystal Hoffman |
 | 215 | 921 | Morgue Chick |
-| 216 | 919 | Joshua Mandel |
-| 217 | 919 | Isaac Trappiel IV |
+| 216 | 919 | Isaac Trappiel IV |
+| 217 | 919 | Joshua Mandel |
 | 218 | 916 | Butta |
 | 219 | 915 | Angela Bonquiqui Dinish |
 | 220 | 915 | Robin Kerby |
@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | April Dawn Gussler |
-| 239 | 860 | John Bednarik |
+| 238 | 860 | John Bednarik |
+| 239 | 860 | April Dawn Gussler |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Maria Escobar |
@@ -272,8 +272,8 @@
 | 264 | 778 | Desire Rice |
 | 265 | 778 | Mischelle Clay |
 | 266 | 777 | Samantha Jo |
-| 267 | 777 | Tesha Oldaker |
-| 268 | 777 | Jessicah Myers |
+| 267 | 777 | Jessicah Myers |
+| 268 | 777 | Tesha Oldaker |
 | 269 | 772 | William Hunt |
 | 270 | 772 | Sam Joe |
 | 271 | 771 | Terri McKelvey McKinley |
@@ -327,8 +327,8 @@
 | 319 | 688 | ShinyRose |
 | 320 | 687 | Dee |
 | 321 | 686 | Ashley Guernsey-Martin |
-| 322 | 685 | Brenda Pierpoint |
-| 323 | 685 | Binyah-Binyah |
+| 322 | 685 | Binyah-Binyah |
+| 323 | 685 | Brenda Pierpoint |
 | 324 | 682 | Poldo Ilano |
 | 325 | 681 | Melissa Holsinger |
 | 326 | 680 | Glitzy Stackzone |
@@ -395,8 +395,8 @@
 | 387 | 572 | Chris Wanner |
 | 388 | 571 | Emily Lyric Converse |
 | 389 | 569 | Vaniel Glover |
-| 390 | 565 | Jaycee |
-| 391 | 565 | Steve Man |
+| 390 | 565 | Steve Man |
+| 391 | 565 | Jaycee |
 | 392 | 563 | Irene Jones |
 | 393 | 563 | snkylnk |
 | 394 | 561 | Traci Johnson |
@@ -424,9 +424,9 @@
 | 416 | 540 | Dizzy Zone |
 | 417 | 539 | Dapper Dasher |
 | 418 | 538 | Tra Barnum |
-| 419 | 536 | Shaun Church |
-| 420 | 536 | Cassie Mercer |
-| 421 | 536 | Caitlin Schmid |
+| 419 | 536 | Caitlin Schmid |
+| 420 | 536 | Shaun Church |
+| 421 | 536 | Cassie Mercer |
 | 422 | 535 | Paul Huber |
 | 423 | 534 | Kenny Alvarado |
 | 424 | 533 | Gauri Shrotriya |
@@ -742,8 +742,8 @@
 | 734 | 326 | Ann Knutson Anderson |
 | 735 | 325 | Justin Hines |
 | 736 | 324 | Britney M. |
-| 737 | 324 | Tasia Stinson |
-| 738 | 324 | Dale Haanpaa |
+| 737 | 324 | Dale Haanpaa |
+| 738 | 324 | Tasia Stinson |
 | 739 | 323 | stacey |
 | 740 | 323 | Briana Alexander |
 | 741 | 322 | Luke Califf |

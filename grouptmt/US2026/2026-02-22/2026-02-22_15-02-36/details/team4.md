@@ -75,8 +75,8 @@
 | 67 | 613 | Ashley Ingram |
 | 68 | 608 | Avy Absol |
 | 69 | 600 | Michelle Marie |
-| 70 | 599 | Brittney Griggs |
-| 71 | 599 | Savannah Overdorf |
+| 70 | 599 | Savannah Overdorf |
+| 71 | 599 | Brittney Griggs |
 | 72 | 593 | Lisa Davis |
 | 73 | 588 | Eric Mcgaughy |
 | 74 | 575 | Jeremy Steines |
@@ -128,8 +128,8 @@
 | 120 | 351 | Serena Goodridge |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | HastyGrabber |
-| 124 | 332 | Desi Desporte |
+| 123 | 332 | Desi Desporte |
+| 124 | 332 | HastyGrabber |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Lindsay Ball |
-| 147 | 281 | Meagan Nicole |
+| 146 | 281 | Meagan Nicole |
+| 147 | 281 | Lindsay Ball |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |
@@ -240,9 +240,9 @@
 | 232 | 186 | Holly |
 | 233 | 186 | Cristy Duerksen |
 | 234 | 185 | Laura Hosford |
-| 235 | 184 | Lauren Lamb |
-| 236 | 184 | Ak Jones |
-| 237 | 184 | April Rondinone |
+| 235 | 184 | April Rondinone |
+| 236 | 184 | Lauren Lamb |
+| 237 | 184 | Ak Jones |
 | 238 | 183 | JPW |
 | 239 | 182 | Kristina Black |
 | 240 | 181 | Carter Jones |
@@ -291,15 +291,15 @@
 | 283 | 151 | Shanon Klair |
 | 284 | 151 | Joseph Pace |
 | 285 | 150 | GBR |
-| 286 | 150 | Jared Gutwein |
-| 287 | 150 | Brandon Link |
+| 286 | 150 | Brandon Link |
+| 287 | 150 | Jared Gutwein |
 | 288 | 149 | Shainne Brewer |
 | 289 | 148 | Nubian1 |
 | 290 | 148 | Cranky Rollpiece |
-| 291 | 148 | Ruby Khalisadar |
-| 292 | 148 | Janita Parrish |
-| 293 | 147 | Adam Stephanie Parker |
-| 294 | 147 | Jay28 |
+| 291 | 148 | Janita Parrish |
+| 292 | 148 | Ruby Khalisadar |
+| 293 | 147 | Jay28 |
+| 294 | 147 | Adam Stephanie Parker |
 | 295 | 145 | Sandra Safford |
 | 296 | 145 | Glitzy Crasher |
 | 297 | 145 | Amanda Christine |
@@ -602,7 +602,7 @@
 | 594 | 70 | PlatinumRose |
 | 595 | 70 | Katie Linneman-Rowland |
 | 596 | 69 | Yvonne MAguilar |
-| 597 | 69 | Tammy Lewis |
+| 597 | 69 | Perky Riser |
 | 598 | 69 | ZZZZZZZ |
 | 599 | 69 | Tina Connick |
 | 600 | 69 | Tammy Lewis |

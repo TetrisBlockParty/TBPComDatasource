@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -108,14 +108,14 @@
 | 100 | 589 | Giddy Drop |
 | 101 | 588 | yoyo |
 | 102 | 585 | Christine Filson |
-| 103 | 582 | Jay Horn |
-| 104 | 582 | Natasha Jones |
+| 103 | 582 | Natasha Jones |
+| 104 | 582 | Jay Horn |
 | 105 | 579 | Jd Morris |
 | 106 | 568 | Rachael McClain Owens |
 | 107 | 566 | Dolores Falco |
 | 108 | 565 | Patty Allen |
-| 109 | 562 | Dave Herzog |
-| 110 | 562 | Louise Stacy Sisson |
+| 109 | 562 | Louise Stacy Sisson |
+| 110 | 562 | Dave Herzog |
 | 111 | 559 | Morgan Martinez |
 | 112 | 552 | Keith J Oshman Jr. |
 | 113 | 551 | Kristie |
@@ -151,8 +151,8 @@
 | 143 | 449 | Danielle Rhoades |
 | 144 | 448 | Karon Griffin |
 | 145 | 445 | Shannon Matthew Byers |
-| 146 | 445 | Jacqueline Rodriguez |
-| 147 | 445 | Kristie McFarland |
+| 146 | 445 | Kristie McFarland |
+| 147 | 445 | Jacqueline Rodriguez |
 | 148 | 439 | Michelle |
 | 149 | 434 | Logan Naccarato |
 | 150 | 433 | Michael Nowogorski |
@@ -182,8 +182,8 @@
 | 174 | 384 | Dapper Snap |
 | 175 | 382 | Scott Carleton |
 | 176 | 380 | Tasha Schriewer |
-| 177 | 378 | Chris Bell |
-| 178 | 378 | Nicole Flippo |
+| 177 | 378 | Nicole Flippo |
+| 178 | 378 | Chris Bell |
 | 179 | 376 | Loopy Clusterer |
 | 180 | 374 | Sherry Ogden |
 | 181 | 372 | Giddy Twistbuilder |
@@ -196,8 +196,8 @@
 | 188 | 361 | Jamie Lang |
 | 189 | 358 | Chummy Caster |
 | 190 | 358 | RickyG |
-| 191 | 357 | Stephanie Burtin |
-| 192 | 357 | Tom Nault |
+| 191 | 357 | Tom Nault |
+| 192 | 357 | Stephanie Burtin |
 | 193 | 353 | Nora Rogers |
 | 194 | 349 | Amanda J. Mcneil-Anderson |
 | 195 | 348 | Chasity |
@@ -286,8 +286,8 @@
 | 278 | 239 | Michael Johnson |
 | 279 | 238 | LaTanya GeminiondaRise Johnson |
 | 280 | 236 | Angela Scott |
-| 281 | 236 | Lys |
-| 282 | 236 | Jess Bissett |
+| 281 | 236 | Jess Bissett |
+| 282 | 236 | Lys |
 | 283 | 235 | Cozy Snaplink |
 | 284 | 233 | Ray Lader |
 | 285 | 233 | Josh Borquez |
