@@ -171,8 +171,8 @@
 | 163 | 1048 | PsychKIRAtrist |
 | 164 | 1047 | Amy Sayers |
 | 165 | 1045 | Lourisha |
-| 166 | 1043 | Suki Kaur |
-| 167 | 1043 | Brave Dropmatch |
+| 166 | 1043 | Brave Dropmatch |
+| 167 | 1043 | Suki Kaur |
 | 168 | 1035 | Sarah Freitas |
 | 169 | 1023 | William Meussner |
 | 170 | 1023 | Brainy Smurf |
@@ -365,8 +365,8 @@
 | 357 | 561 | Traci Johnson |
 | 358 | 557 | Block Master |
 | 359 | 556 | Slip |
-| 360 | 554 | Santana Miyagi |
-| 361 | 554 | Rachael Senard |
+| 360 | 554 | Rachael Senard |
+| 361 | 554 | Santana Miyagi |
 | 362 | 550 | Nashu |
 | 363 | 549 | Darcy Mae |
 | 364 | 549 | Jojo Momma |
@@ -542,8 +542,8 @@
 | 534 | 408 | Brandon Jones |
 | 535 | 407 | Tipsy Filler |
 | 536 | 406 | Erin StFrancis |
-| 537 | 406 | Kimberly Ann |
-| 538 | 406 | Sheniya Spurgeon |
+| 537 | 406 | Sheniya Spurgeon |
+| 538 | 406 | Kimberly Ann |
 | 539 | 404 | Dawn L Washington-Feuquay |
 | 540 | 404 | Goofy Catcher |
 | 541 | 404 | Snappy snappers |
@@ -742,8 +742,8 @@
 | 734 | 304 | James Smith |
 | 735 | 304 | Melissa McCall |
 | 736 | 303 | Angie Marie |
-| 737 | 303 | Devin |
-| 738 | 303 | Amanda Schaffer |
+| 737 | 303 | Amanda Schaffer |
+| 738 | 303 | Devin |
 | 739 | 302 | Kena T. Tanner |
 | 740 | 302 | Maxwell Escalera |
 | 741 | 300 | Alice Ball |
@@ -751,8 +751,8 @@
 | 743 | 300 | Katie Joy McCombs |
 | 744 | 299 | Cassie Newton |
 | 745 | 298 | Frilly Fallzone |
-| 746 | 298 | Ryan Stadel |
-| 747 | 298 | Lazy Riseclear |
+| 746 | 298 | Lazy Riseclear |
+| 747 | 298 | Ryan Stadel |
 | 748 | 297 | Toni Lynn |
 | 749 | 297 | Frisky Patternline |
 | 750 | 297 | Ashley Robbins |
@@ -817,8 +817,8 @@
 | 809 | 274 | KT Macadocious |
 | 810 | 274 | Jamie Stevey |
 | 811 | 274 | Robin L. Vial |
-| 812 | 274 | Matthew Joseph Acevedo |
-| 813 | 274 | Amanda Michelle Pigeon |
+| 812 | 274 | Amanda Michelle Pigeon |
+| 813 | 274 | Matthew Joseph Acevedo |
 | 814 | 273 | Jennifer Aiken |
 | 815 | 273 | Swanky Snap |
 | 816 | 273 | Britt Stunkel |
@@ -1058,8 +1058,8 @@
 | 1050 | 212 | Sarah Dean |
 | 1051 | 212 | Crafty Brickline |
 | 1052 | 212 | Sassy Linkroll |
-| 1053 | 211 | Melissa Koria |
-| 1054 | 211 | Scherrie Smith |
+| 1053 | 211 | Scherrie Smith |
+| 1054 | 211 | Melissa Koria |
 | 1055 | 211 | Nerdy Blockpiece |
 | 1056 | 211 | Neko Preston |
 | 1057 | 210 | Joshua Switzer |
@@ -1093,7 +1093,7 @@
 | 1085 | 206 | Allyson Marra |
 | 1086 | 206 | Seth Wrieden |
 | 1087 | 206 | Tristan Lamothe |
-| 1088 | 206 | Allyson Marra |
+| 1088 | 206 | Crystal EatableCupcake Stepney |
 | 1089 | 206 | Antonia Pike |
 | 1090 | 205 | SafetyEyes16 |
 | 1091 | 205 | Aprill Bolton |

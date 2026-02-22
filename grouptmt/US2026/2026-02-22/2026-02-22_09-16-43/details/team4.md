@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -80,8 +80,8 @@
 | 72 | 512 | Casey Jeffcoat |
 | 73 | 511 | Michelle Marie |
 | 74 | 500 | Rodney McMath Jr. |
-| 75 | 486 | Landon Keith Graffeo |
-| 76 | 486 | Carmethia Clemons Haslerig |
+| 75 | 486 | Carmethia Clemons Haslerig |
+| 76 | 486 | Landon Keith Graffeo |
 | 77 | 483 | TeeJ |
 | 78 | 471 | Chris Baggett |
 | 79 | 467 | Dawn Alexander |
@@ -99,8 +99,8 @@
 | 91 | 407 | Leslie Thomas |
 | 92 | 404 | Courtney Cicoria |
 | 93 | 401 | Zippy Gridlock |
-| 94 | 396 | Alicia Bass |
-| 95 | 396 | Amy Suckarieh |
+| 94 | 396 | Amy Suckarieh |
+| 95 | 396 | Alicia Bass |
 | 96 | 392 | Ericca Eldridge |
 | 97 | 391 | Ramel Rhodes |
 | 98 | 390 | Carlton Unfiltered |
@@ -173,8 +173,8 @@
 | 165 | 220 | Matt Dell'Olio |
 | 166 | 218 | Casey Grabner |
 | 167 | 217 | Chaz Duncan |
-| 168 | 215 | Ren Mc |
-| 169 | 215 | Jessica Bohlken |
+| 168 | 215 | Jessica Bohlken |
+| 169 | 215 | Ren Mc |
 | 170 | 213 | Sarah Neathery |
 | 171 | 213 | Jason Allen |
 | 172 | 212 | Mike Solo |
@@ -214,8 +214,8 @@
 | 206 | 179 | blockstar |
 | 207 | 178 | TinyLegoRose |
 | 208 | 175 | Lorena Guerrero-Barron |
-| 209 | 174 | Rio Rocha |
-| 210 | 174 | JPW |
+| 209 | 174 | JPW |
+| 210 | 174 | Rio Rocha |
 | 211 | 172 | Gilles Lanctot |
 | 212 | 171 | Autumn Kumzi |
 | 213 | 167 | Cozy Balancer |
@@ -225,18 +225,18 @@
 | 217 | 165 | James Hurley Jr. |
 | 218 | 164 | 030Synner |
 | 219 | 163 | Kristina Black |
-| 220 | 162 | Joanna |
-| 221 | 162 | John Brunetti |
+| 220 | 162 | John Brunetti |
+| 221 | 162 | Joanna |
 | 222 | 161 | Jenny Wells-Oakley |
 | 223 | 160 | Brittany Marsh |
 | 224 | 160 | Laura Hosford |
 | 225 | 160 | Carlos Ramirez |
 | 226 | 159 | Marcus Todd |
-| 227 | 158 | Chair |
-| 228 | 158 | Avy Absol |
-| 229 | 157 | KayM |
-| 230 | 157 | scott |
-| 231 | 157 | Paige Kittles |
+| 227 | 158 | Avy Absol |
+| 228 | 158 | Chair |
+| 229 | 157 | scott |
+| 230 | 157 | Paige Kittles |
+| 231 | 157 | KayM |
 | 232 | 157 | Bethany Ison |
 | 233 | 156 | Ultramarine |
 | 234 | 155 | AyeKay |

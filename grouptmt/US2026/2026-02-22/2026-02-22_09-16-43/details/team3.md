@@ -52,8 +52,8 @@
 | 44 | 1006 | Dan Rob |
 | 45 | 998 | Liv Whetson |
 | 46 | 996 | Stephanie Rice |
-| 47 | 989 | Kay |
-| 48 | 989 | Joey Banks |
+| 47 | 989 | Joey Banks |
+| 48 | 989 | Kay |
 | 49 | 983 | Brandon Green |
 | 50 | 956 | Gracie |
 | 51 | 953 | mjl574 |
@@ -100,8 +100,8 @@
 | 92 | 594 | Queen Kam |
 | 93 | 591 | Jesse Olive |
 | 94 | 588 | yoyo |
-| 95 | 582 | Natasha Jones |
-| 96 | 582 | Jay Horn |
+| 95 | 582 | Jay Horn |
+| 96 | 582 | Natasha Jones |
 | 97 | 581 | Danielle Mogg |
 | 98 | 579 | Jd Morris |
 | 99 | 566 | Dolores Falco |
@@ -206,8 +206,8 @@
 | 198 | 311 | Rochelle Hazelett |
 | 199 | 311 | Stephanie Burtin |
 | 200 | 310 | Danielle Balcom |
-| 201 | 308 | Rania Zaqout |
-| 202 | 308 | Daryn Elliott |
+| 201 | 308 | Daryn Elliott |
+| 202 | 308 | Rania Zaqout |
 | 203 | 307 | rnr junky |
 | 204 | 307 | Blocked |
 | 205 | 302 | Rebecca Bailey |
@@ -275,8 +275,8 @@
 | 267 | 232 | Donna |
 | 268 | 227 | Krystal Gerstberger |
 | 269 | 227 | Meowsa |
-| 270 | 225 | Cozy Snaplink |
-| 271 | 225 | Dirtgirl27 |
+| 270 | 225 | Dirtgirl27 |
+| 271 | 225 | Cozy Snaplink |
 | 272 | 224 | Quirky Dropzone |
 | 273 | 221 | Vaners |
 | 274 | 221 | Jaime Monhaut-Reed |
@@ -293,8 +293,8 @@
 | 285 | 214 | Amy Fuller Heaton |
 | 286 | 212 | Sunny Rotater |
 | 287 | 212 | Desiree Gold |
-| 288 | 211 | Velma Mull |
-| 289 | 211 | El Chapa |
+| 288 | 211 | El Chapa |
+| 289 | 211 | Velma Mull |
 | 290 | 211 | Khaleada McGill Banks |
 | 291 | 210 | Lizabeth Fox |
 | 292 | 209 | Micayah Stevens |
@@ -302,8 +302,8 @@
 | 294 | 207 | Jessica |
 | 295 | 207 | angieelyn |
 | 296 | 206 | Betty Rosas |
-| 297 | 206 | Tracy Martin |
-| 298 | 206 | Tammy Rosenberry |
+| 297 | 206 | Tammy Rosenberry |
+| 298 | 206 | Tracy Martin |
 | 299 | 205 | Kirhonda Autmon |
 | 300 | 204 | Aerian Preston |
 | 301 | 203 | Angie Harper |
@@ -346,11 +346,11 @@
 | 338 | 173 | Naur |
 | 339 | 169 | Peachy Rollfit |
 | 340 | 169 | Kristian Thurman |
-| 341 | 168 | April Matthew Kibble |
-| 342 | 168 | Trice Thomas |
+| 341 | 168 | Trice Thomas |
+| 342 | 168 | April Matthew Kibble |
 | 343 | 167 | Shicken Nuggit |
-| 344 | 167 | Irene Arreguin |
-| 345 | 167 | Romeo |
+| 344 | 167 | Romeo |
+| 345 | 167 | Irene Arreguin |
 | 346 | 166 | Noettín Kan Zasnemoore |
 | 347 | 166 | Angella Lyons |
 | 348 | 166 | Snarky McFace |
@@ -385,12 +385,12 @@
 | 377 | 153 | Sheila M Frazier |
 | 378 | 153 | Tony Waters |
 | 379 | 152 | Goofy Fall |
-| 380 | 152 | Eric Caccavale |
-| 381 | 152 | Shiny Zonebuilder |
+| 380 | 152 | Shiny Zonebuilder |
+| 381 | 152 | Eric Caccavale |
 | 382 | 151 | Sarah Cowan Burgos |
 | 383 | 150 | Sassy Brickmatch |
-| 384 | 149 | Wacky Crasher |
-| 385 | 149 | Alexis Taylor |
+| 384 | 149 | Alexis Taylor |
+| 385 | 149 | Wacky Crasher |
 | 386 | 148 | Pam Holt Powell |
 | 387 | 148 | Flashy Rumbler |
 | 388 | 148 | Bryan Byrd |
