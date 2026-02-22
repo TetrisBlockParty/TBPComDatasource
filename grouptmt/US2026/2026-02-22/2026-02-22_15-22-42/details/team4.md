@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -128,8 +128,8 @@
 | 120 | 353 | Tyler Terrific |
 | 121 | 344 | Livvy |
 | 122 | 343 | Latisha Davis |
-| 123 | 332 | Desi Desporte |
-| 124 | 332 | HastyGrabber |
+| 123 | 332 | HastyGrabber |
+| 124 | 332 | Desi Desporte |
 | 125 | 331 | ThaEviLJeNiuZ |
 | 126 | 330 | David Lay |
 | 127 | 330 | Twisty Clicky |
@@ -141,8 +141,8 @@
 | 133 | 323 | Daria Rycewicz |
 | 134 | 314 | Andy Cabral |
 | 135 | 303 | Lauren Scott |
-| 136 | 300 | Dana Scott |
-| 137 | 300 | Jason Hart |
+| 136 | 300 | Jason Hart |
+| 137 | 300 | Dana Scott |
 | 138 | 299 | TRCuse |
 | 139 | 298 | Lucas J Sutton |
 | 140 | 295 | Bio Nelly |
@@ -267,11 +267,11 @@
 | 259 | 166 | SammieJo Guy |
 | 260 | 165 | Brittany Marsh |
 | 261 | 165 | Zappy Buildgrid |
-| 262 | 165 | Brittany Marsh |
+| 262 | 165 | James Hurley Jr. |
 | 263 | 163 | Ellen Durfee |
-| 264 | 162 | conceptCollector |
+| 264 | 162 | Gwendolyn Pitcairn |
 | 265 | 162 | John Brunetti |
-| 266 | 162 | Gwendolyn Pitcairn |
+| 266 | 162 | conceptCollector |
 | 267 | 161 | Tanner Lund |
 | 268 | 159 | DonMega |
 | 269 | 159 | Marcus Todd |
@@ -292,8 +292,8 @@
 | 284 | 151 | Joseph Pace |
 | 285 | 151 | Shanon Klair |
 | 286 | 151 | Amanda Christine |
-| 287 | 150 | Brandon Link |
-| 288 | 150 | Jared Gutwein |
+| 287 | 150 | Jared Gutwein |
+| 288 | 150 | Brandon Link |
 | 289 | 150 | GBR |
 | 290 | 148 | Nubian1 |
 | 291 | 148 | Cranky Rollpiece |
@@ -818,7 +818,7 @@
 | 810 | 47 | Angelson |
 | 811 | 47 | Zer0h |
 | 812 | 47 | Shane Hicks |
-| 813 | 47 | Angelson |
+| 813 | 47 | Volodymyr Teslyuk |
 | 814 | 47 | Jelly |
 | 815 | 47 | Nita Wells |
 | 816 | 46 | mistresscoundrl1 |
@@ -1226,7 +1226,7 @@
 | 1218 | 19 | Jeffrey Carl Carter |
 | 1219 | 19 | Allison Moody |
 | 1220 | 19 | Finn |
-| 1221 | 19 | Bubbly Crawler |
+| 1221 | 19 | Justin Decker |
 | 1222 | 19 | Niki Bush |
 | 1223 | 19 | Loony Rotater |
 | 1224 | 18 | Jadiel Bermudez |

@@ -245,12 +245,12 @@
 | 237 | 867 | Peppy Zone |
 | 238 | 867 | Michele Gabriel |
 | 239 | 862 | Brittany Radaszewski |
-| 240 | 860 | April Dawn Gussler |
-| 241 | 860 | John Bednarik |
+| 240 | 860 | John Bednarik |
+| 241 | 860 | April Dawn Gussler |
 | 242 | 857 | Della Hole |
 | 243 | 855 | F-X |
-| 244 | 853 | Meghan M |
-| 245 | 853 | Maria Escobar |
+| 244 | 853 | Maria Escobar |
+| 245 | 853 | Meghan M |
 | 246 | 850 | Missie Lawson Gebhardt |
 | 247 | 849 | Tony Lea |
 | 248 | 839 | Ashlen Dorrell |
@@ -302,8 +302,8 @@
 | 294 | 743 | Melissa Cole |
 | 295 | 740 | Cheech Dta |
 | 296 | 739 | Michele Morgan |
-| 297 | 737 | Jeremy Parodi |
-| 298 | 737 | Ginger |
+| 297 | 737 | Ginger |
+| 298 | 737 | Jeremy Parodi |
 | 299 | 733 | Brenda Utphall |
 | 300 | 730 | Jackie Lucas |
 | 301 | 727 | Tom Riefer |
@@ -759,8 +759,8 @@
 | 751 | 322 | Michelle Pike |
 | 752 | 321 | Tamara Bailey |
 | 753 | 321 | Ashley Criner |
-| 754 | 320 | Peachy Blockbuilder |
-| 755 | 320 | Tash Bell |
+| 754 | 320 | Tash Bell |
+| 755 | 320 | Peachy Blockbuilder |
 | 756 | 320 | Mary Boss |
 | 757 | 319 | Cheery Puzzler |
 | 758 | 319 | RetroLemur |

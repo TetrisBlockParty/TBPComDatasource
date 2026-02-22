@@ -198,8 +198,8 @@
 | 190 | 229 | Chris K |
 | 191 | 226 | Kandae |
 | 192 | 224 | ParisandCory Champagne |
-| 193 | 223 | Basment Living |
-| 194 | 223 | Erez Yosef |
+| 193 | 223 | Erez Yosef |
+| 194 | 223 | Basment Living |
 | 195 | 222 | Debbie Davis |
 | 196 | 221 | Christy Jones |
 | 197 | 221 | Daring Fitclear |
