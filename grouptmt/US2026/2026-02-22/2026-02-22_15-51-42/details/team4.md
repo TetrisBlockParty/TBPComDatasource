@@ -50,8 +50,8 @@
 | 42 | 823 | Jae Job |
 | 43 | 818 | Marvin Lou Martin |
 | 44 | 798 | BertMofo |
-| 45 | 775 | Rebecca Moulton Pinciaro |
-| 46 | 775 | Dee Kay |
+| 45 | 775 | Dee Kay |
+| 46 | 775 | Rebecca Moulton Pinciaro |
 | 47 | 766 | Robin Watters |
 | 48 | 757 | Ancient Intuition |
 | 49 | 756 | TeeJ |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
