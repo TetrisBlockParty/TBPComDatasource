@@ -133,8 +133,8 @@
 | 125 | 252 | Dena Kayy |
 | 126 | 249 | Kimmie Kimms |
 | 127 | 247 | Tana |
-| 128 | 243 | Trippy Redd |
-| 129 | 243 | Chelsea Dahlquist |
+| 128 | 243 | Chelsea Dahlquist |
+| 129 | 243 | Trippy Redd |
 | 130 | 241 | John J. Cronin |
 | 131 | 236 | Mandyy Rae |
 | 132 | 232 | Jessi Sauer |
@@ -161,8 +161,8 @@
 | 153 | 203 | Paula Martin |
 | 154 | 201 | Sleepysloath5745 |
 | 155 | 199 | Basment Living |
-| 156 | 198 | Shiny Gridmatch |
-| 157 | 198 | Happy Snapbuild |
+| 156 | 198 | Happy Snapbuild |
+| 157 | 198 | Shiny Gridmatch |
 | 158 | 195 | Daring Fitclear |
 | 159 | 194 | Tyler Werts |
 | 160 | 193 | Lachelle Dillon |
@@ -175,8 +175,8 @@
 | 167 | 189 | Michael |
 | 168 | 189 | Jeanna Dunn |
 | 169 | 188 | Sam Williams |
-| 170 | 187 | Snippy Wipebuilder |
-| 171 | 187 | Jennifer Olewnik Soborowski |
+| 170 | 187 | Jennifer Olewnik Soborowski |
+| 171 | 187 | Snippy Wipebuilder |
 | 172 | 186 | Erin Hodges Plumb |
 | 173 | 186 | Margo Wagner |
 | 174 | 181 | phrmblk24 |

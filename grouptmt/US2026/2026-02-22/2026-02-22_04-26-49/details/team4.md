@@ -79,8 +79,8 @@
 | 71 | 409 | Isabella Blanco |
 | 72 | 404 | Courtney Cicoria |
 | 73 | 399 | Jenna Ingersoll |
-| 74 | 396 | Amy Suckarieh |
-| 75 | 396 | Alicia Bass |
+| 74 | 396 | Alicia Bass |
+| 75 | 396 | Amy Suckarieh |
 | 76 | 392 | YoMomma |
 | 77 | 391 | Ramel Rhodes |
 | 78 | 390 | Carlton Unfiltered |
@@ -296,8 +296,8 @@
 | 288 | 115 | Berklie Apedaile |
 | 289 | 115 | Jayk |
 | 290 | 114 | Christina Black |
-| 291 | 113 | Adam Randall |
-| 292 | 113 | Dandy Cascadefit |
+| 291 | 113 | Dandy Cascadefit |
+| 292 | 113 | Adam Randall |
 | 293 | 112 | Chris Alexinas |
 | 294 | 111 | Zocko Ellet |
 | 295 | 111 | Ellen Durfee |

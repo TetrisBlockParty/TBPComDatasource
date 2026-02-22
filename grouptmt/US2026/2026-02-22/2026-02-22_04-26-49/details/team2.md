@@ -186,8 +186,8 @@
 | 178 | 881 | Tanya Parsons |
 | 179 | 878 | L3sli3 |
 | 180 | 871 | Jamie Otero |
-| 181 | 867 | YiFei |
-| 182 | 867 | Rosa Franklin |
+| 181 | 867 | Rosa Franklin |
+| 182 | 867 | YiFei |
 | 183 | 867 | Michele Gabriel |
 | 184 | 865 | Dedra Steward |
 | 185 | 862 | Robin Kerby |
@@ -410,8 +410,8 @@
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
 | 404 | 447 | Heather Schelkopf |
-| 405 | 447 | Brandy Andre |
-| 406 | 447 | Ann Matzkanin |
+| 405 | 447 | Ann Matzkanin |
+| 406 | 447 | Brandy Andre |
 | 407 | 447 | Lourisha |
 | 408 | 446 | Jaycee |
 | 409 | 445 | Mar Q Thomas |

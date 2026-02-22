@@ -108,8 +108,8 @@
 | 100 | 506 | Sashay Tapae Simpson |
 | 101 | 503 | Susan Valentino |
 | 102 | 502 | Justin Ritter |
-| 103 | 500 | Kristie |
-| 104 | 500 | Domo Washington |
+| 103 | 500 | Domo Washington |
+| 104 | 500 | Kristie |
 | 105 | 497 | Mykal Burton |
 | 106 | 491 | Chauntee Alfrey-Cardinale |
 | 107 | 487 | Alaina Lee |
@@ -136,8 +136,8 @@
 | 128 | 403 | Scott Lindsay |
 | 129 | 402 | Shannon Matthew Byers |
 | 130 | 400 | Luciana Braganca Vieira |
-| 131 | 399 | Patti Skiles |
-| 132 | 399 | Mcathen |
+| 131 | 399 | Mcathen |
+| 132 | 399 | Patti Skiles |
 | 133 | 397 | Annie Déè |
 | 134 | 392 | Tasha Gillespie |
 | 135 | 392 | Katie Knaus |
@@ -204,15 +204,15 @@
 | 196 | 272 | opf |
 | 197 | 272 | Dee Franklin |
 | 198 | 271 | Ashley Muncey |
-| 199 | 267 | Terry Jo Jones |
-| 200 | 267 | Denise Nardoni |
+| 199 | 267 | Denise Nardoni |
+| 200 | 267 | Terry Jo Jones |
 | 201 | 265 | Sarah Moyer |
 | 202 | 265 | Scott Carleton |
 | 203 | 263 | Angeline Joseph |
 | 204 | 262 | Joe-Maggie Mathews |
 | 205 | 261 | Brittany |
-| 206 | 261 | Tiffany Ford |
-| 207 | 261 | Marquita Sheard |
+| 206 | 261 | Marquita Sheard |
+| 207 | 261 | Tiffany Ford |
 | 208 | 260 | Grams |
 | 209 | 258 | Tamara Deherrera |
 | 210 | 257 | Ashley Jones |
@@ -233,8 +233,8 @@
 | 225 | 239 | Tasha Wesson-Torrence |
 | 226 | 236 | Jess Bissett |
 | 227 | 235 | LaNette Morgan |
-| 228 | 234 | Grego Daniel |
-| 229 | 234 | Nikki Pags |
+| 228 | 234 | Nikki Pags |
+| 229 | 234 | Grego Daniel |
 | 230 | 233 | Ray Lader |
 | 231 | 232 | Donna |
 | 232 | 227 | Krystal Gerstberger |
@@ -258,8 +258,8 @@
 | 250 | 211 | Khaleada McGill Banks |
 | 251 | 207 | Jessica |
 | 252 | 206 | AlsoJess |
-| 253 | 204 | Aerian Preston |
-| 254 | 204 | Danielle Allison |
+| 253 | 204 | Danielle Allison |
+| 254 | 204 | Aerian Preston |
 | 255 | 203 | Angie Harper |
 | 256 | 202 | Staci George Fitzsimmons |
 | 257 | 202 | Charles Perrone |
