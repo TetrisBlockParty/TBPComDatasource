@@ -51,8 +51,8 @@
 | 43 | 1015 | Amber Jones |
 | 44 | 998 | Liv Whetson |
 | 45 | 996 | Stephanie Rice |
-| 46 | 989 | Joey Banks |
-| 47 | 989 | Kay |
+| 46 | 989 | Kay |
+| 47 | 989 | Joey Banks |
 | 48 | 983 | Brandon Green |
 | 49 | 956 | Gracie |
 | 50 | 953 | mjl574 |
@@ -61,8 +61,8 @@
 | 53 | 908 | Alanna Rogers |
 | 54 | 907 | Judi Dobson |
 | 55 | 903 | Sarah Fehring |
-| 56 | 895 | Shonna Roberts |
-| 57 | 895 | Amanda L Baker |
+| 56 | 895 | Amanda L Baker |
+| 57 | 895 | Shonna Roberts |
 | 58 | 886 | Khristen AC |
 | 59 | 874 | Jessica Pineda-Lopez |
 | 60 | 867 | Corie A. Brinson |
@@ -127,8 +127,8 @@
 | 119 | 491 | Chauntee Alfrey-Cardinale |
 | 120 | 487 | Alaina Lee |
 | 121 | 482 | Jennifer Lynn Fahrenholtz-Summers |
-| 122 | 480 | Stephanie Blkpep Davidson |
-| 123 | 480 | Christine Filson |
+| 122 | 480 | Christine Filson |
+| 123 | 480 | Stephanie Blkpep Davidson |
 | 124 | 479 | Patti Skiles |
 | 125 | 479 | Poppy Splitter |
 | 126 | 473 | mzcatzy |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -170,9 +170,9 @@
 | 162 | 376 | Loopy Clusterer |
 | 163 | 374 | Sherry Ogden |
 | 164 | 371 | Michael Nowogorski |
-| 165 | 370 | Danielle Allison |
+| 165 | 370 | Santeria Trece Candles |
 | 166 | 370 | Logan Naccarato |
-| 167 | 370 | Santeria Trece Candles |
+| 167 | 370 | Danielle Allison |
 | 168 | 368 | Stephanie Woods |
 | 169 | 366 | Adrian Marcel Pate |
 | 170 | 362 | Darlene McMillan |
@@ -293,9 +293,9 @@
 | 285 | 208 | AlsoJess |
 | 286 | 207 | Jessica |
 | 287 | 207 | angieelyn |
-| 288 | 206 | Tracy Martin |
+| 288 | 206 | Tammy Rosenberry |
 | 289 | 206 | Jone |
-| 290 | 206 | Tammy Rosenberry |
+| 290 | 206 | Tracy Martin |
 | 291 | 204 | Aerian Preston |
 | 292 | 203 | Angie Harper |
 | 293 | 202 | Staci George Fitzsimmons |
@@ -313,8 +313,8 @@
 | 305 | 189 | Katie Leigh Blankenship |
 | 306 | 188 | Loopy Fallmatch |
 | 307 | 186 | Carrie Huskey |
-| 308 | 184 | Troy |
-| 309 | 184 | France Vézina |
+| 308 | 184 | France Vézina |
+| 309 | 184 | Troy |
 | 310 | 184 | Stephanie Hill |
 | 311 | 183 | Cesar Barraza |
 | 312 | 182 | Melanie Sherwood |

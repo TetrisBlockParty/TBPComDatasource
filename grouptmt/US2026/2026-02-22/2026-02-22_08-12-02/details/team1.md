@@ -86,8 +86,8 @@
 | 78 | 400 | Cynthia Bradley |
 | 79 | 390 | Candy Jones |
 | 80 | 389 | Trina Gee |
-| 81 | 388 | cc |
-| 82 | 388 | Jennifer ManWarren |
+| 81 | 388 | Jennifer ManWarren |
+| 82 | 388 | cc |
 | 83 | 383 | Loony Fitzone |
 | 84 | 382 | Jacqueline Williams |
 | 85 | 379 | Austin James |
@@ -113,8 +113,8 @@
 | 105 | 326 | Monica Donato |
 | 106 | 323 | Shauna Loe |
 | 107 | 321 | Maria C. Hernandez |
-| 108 | 319 | Patrick Luckenbill |
-| 109 | 319 | Deanna L Hermanson |
+| 108 | 319 | Deanna L Hermanson |
+| 109 | 319 | Patrick Luckenbill |
 | 110 | 313 | Tanya Carpenter-Reynolds |
 | 111 | 311 | Lori Bales |
 | 112 | 310 | phrmblk24 |
@@ -133,8 +133,8 @@
 | 125 | 284 | Rachael |
 | 126 | 284 | Emily Adelaide Wheatley |
 | 127 | 283 | Franswa |
-| 128 | 282 | Cool Shiftsnap |
-| 129 | 282 | Timothy Dew |
+| 128 | 282 | Timothy Dew |
+| 129 | 282 | Cool Shiftsnap |
 | 130 | 280 | Sarah Roberts |
 | 131 | 280 | Jennifer Hardman |
 | 132 | 276 | Dandy Basegrid |
@@ -160,8 +160,8 @@
 | 152 | 239 | Jamie Jury |
 | 153 | 236 | Mandyy Rae |
 | 154 | 232 | Jessi Sauer |
-| 155 | 230 | Billie Dawn Sparks |
-| 156 | 230 | Frothy Pattern |
+| 155 | 230 | Frothy Pattern |
+| 156 | 230 | Billie Dawn Sparks |
 | 157 | 229 | David Lutcher |
 | 158 | 226 | Sleepysloath5745 |
 | 159 | 226 | Kandae |
@@ -224,19 +224,19 @@
 | 216 | 176 | Mel Hogan |
 | 217 | 175 | John Barron |
 | 218 | 174 | Cheeky Pop |
-| 219 | 173 | Rico Rico |
-| 220 | 173 | Gabrielle Louise Malloch |
-| 221 | 173 | Erin Rosberg |
+| 219 | 173 | Gabrielle Louise Malloch |
+| 220 | 173 | Erin Rosberg |
+| 221 | 173 | Rico Rico |
 | 222 | 172 | Phu ckalldems |
-| 223 | 171 | Greg Premoe |
-| 224 | 171 | David DeSantis |
+| 223 | 171 | David DeSantis |
+| 224 | 171 | Greg Premoe |
 | 225 | 170 | Cece Ibarra |
 | 226 | 170 | Standia Civil |
 | 227 | 169 | Alenoush Karimian |
 | 228 | 169 | Abbey Crespo |
 | 229 | 168 | Amber Stoker |
-| 230 | 167 | Cranky Pattern |
-| 231 | 167 | Nery Martinez |
+| 230 | 167 | Nery Martinez |
+| 231 | 167 | Cranky Pattern |
 | 232 | 167 | Bindi |
 | 233 | 165 | Nadine Velardo |
 | 234 | 165 | Silly Align |

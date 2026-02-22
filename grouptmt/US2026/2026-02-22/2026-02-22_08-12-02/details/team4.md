@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 811 | Jae Job |
@@ -79,8 +79,8 @@
 | 71 | 511 | Michelle Marie |
 | 72 | 500 | Rodney McMath Jr. |
 | 73 | 486 | Landon Keith Graffeo |
-| 74 | 483 | Carmethia Clemons Haslerig |
-| 75 | 483 | TeeJ |
+| 74 | 483 | TeeJ |
+| 75 | 483 | Carmethia Clemons Haslerig |
 | 76 | 467 | Dawn Alexander |
 | 77 | 455 | Amelpss |
 | 78 | 447 | Samantha Peterson |
@@ -91,8 +91,8 @@
 | 83 | 416 | YoMomma |
 | 84 | 414 | Chilly Crasher |
 | 85 | 412 | Jenna Ingersoll |
-| 86 | 409 | Jolly Dashfit |
-| 87 | 409 | Isabella Blanco |
+| 86 | 409 | Isabella Blanco |
+| 87 | 409 | Jolly Dashfit |
 | 88 | 407 | Leslie Thomas |
 | 89 | 405 | Shane Kalamata Platoon |
 | 90 | 404 | Courtney Cicoria |
@@ -135,8 +135,8 @@
 | 127 | 281 | Meagan Nicole |
 | 128 | 278 | Carrie Brian |
 | 129 | 278 | Desi Desporte |
-| 130 | 277 | Scott Jameson |
-| 131 | 277 | Mary Ann Pabukis |
+| 130 | 277 | Mary Ann Pabukis |
+| 131 | 277 | Scott Jameson |
 | 132 | 275 | Dizzy Tiley |
 | 133 | 271 | Sarah Brown |
 | 134 | 264 | Girl |
