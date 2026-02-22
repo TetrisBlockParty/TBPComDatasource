@@ -241,8 +241,8 @@
 | 233 | 867 | Peppy Zone |
 | 234 | 862 | Brittany Radaszewski |
 | 235 | 860 | Felicia Lynn |
-| 236 | 860 | John Bednarik |
-| 237 | 860 | April Dawn Gussler |
+| 236 | 860 | April Dawn Gussler |
+| 237 | 860 | John Bednarik |
 | 238 | 857 | Della Hole |
 | 239 | 855 | F-X |
 | 240 | 853 | Meghan M |
@@ -343,8 +343,8 @@
 | 335 | 661 | BeQuo |
 | 336 | 659 | Draizen Montrell Thomas |
 | 337 | 651 | Unica Rector |
-| 338 | 650 | Shiny Rollzone |
-| 339 | 650 | tejas25 |
+| 338 | 650 | tejas25 |
+| 339 | 650 | Shiny Rollzone |
 | 340 | 643 | Hoppy Brickmatch |
 | 341 | 640 | BYM4L |
 | 342 | 639 | Crystie Hicks |
@@ -394,8 +394,8 @@
 | 386 | 558 | Mikayala Szaz |
 | 387 | 558 | Libby Hicks |
 | 388 | 556 | Slip |
-| 389 | 554 | Rachael Senard |
-| 390 | 554 | Santana Miyagi |
+| 389 | 554 | Santana Miyagi |
+| 390 | 554 | Rachael Senard |
 | 391 | 554 | Autumn Schaeffer |
 | 392 | 554 | Nicole Cannon |
 | 393 | 553 | Blacc Blac |
@@ -513,8 +513,8 @@
 | 505 | 462 | Jarboe |
 | 506 | 460 | Tara Lynn Janes |
 | 507 | 459 | Melissa Kay Gibson |
-| 508 | 458 | SwampRebel |
-| 509 | 458 | Casper The Chonk |
+| 508 | 458 | Casper The Chonk |
+| 509 | 458 | SwampRebel |
 | 510 | 456 | Skyler Morgan |
 | 511 | 454 | Casey Schumacher |
 | 512 | 453 | Rhonda Petro |
@@ -741,8 +741,8 @@
 | 733 | 322 | Robin L. Vial |
 | 734 | 322 | Michelle Pike |
 | 735 | 322 | Lea Stewart |
-| 736 | 321 | Tamara Bailey |
-| 737 | 321 | Ashley Criner |
+| 736 | 321 | Ashley Criner |
+| 737 | 321 | Tamara Bailey |
 | 738 | 320 | Tash Bell |
 | 739 | 320 | Peachy Blockbuilder |
 | 740 | 320 | Mary Boss |
@@ -804,8 +804,8 @@
 | 796 | 296 | Cozy Drop |
 | 797 | 295 | Noel Tarmy |
 | 798 | 295 | Sveta Lana |
-| 799 | 294 | Swanky Snap |
-| 800 | 294 | Amanda Edwards |
+| 799 | 294 | Amanda Edwards |
+| 800 | 294 | Swanky Snap |
 | 801 | 294 | Kristina Marie Hanna |
 | 802 | 293 | trabuco |
 | 803 | 293 | Ann Marie Davis |
@@ -1225,10 +1225,10 @@
 | 1217 | 199 | Dorinda Palato |
 | 1218 | 199 | Courtney Clark |
 | 1219 | 199 | Quels Whidbee |
-| 1220 | 199 | Dottie Turbeville Creel |
-| 1221 | 199 | Melissa May |
-| 1222 | 198 | Majed Tawk |
-| 1223 | 198 | Alice Samm |
+| 1220 | 199 | Melissa May |
+| 1221 | 199 | Dottie Turbeville Creel |
+| 1222 | 198 | Alice Samm |
+| 1223 | 198 | Majed Tawk |
 | 1224 | 198 | Ericka Marie Smith |
 | 1225 | 197 | Sunny Pusher |
 | 1226 | 197 | Arlet Alba |

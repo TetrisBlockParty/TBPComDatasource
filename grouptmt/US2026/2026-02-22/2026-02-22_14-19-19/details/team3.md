@@ -106,8 +106,8 @@
 | 98 | 591 | Jesse Olive |
 | 99 | 589 | Giddy Drop |
 | 100 | 588 | yoyo |
-| 101 | 582 | Natasha Jones |
-| 102 | 582 | Jay Horn |
+| 101 | 582 | Jay Horn |
+| 102 | 582 | Natasha Jones |
 | 103 | 581 | Danielle Mogg |
 | 104 | 579 | Jd Morris |
 | 105 | 568 | Rachael McClain Owens |
@@ -170,15 +170,15 @@
 | 162 | 399 | Marcie Bressler |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Sarah Cowan Burgos |
-| 166 | 391 | Calista Jo Dickson |
+| 165 | 391 | Calista Jo Dickson |
+| 166 | 391 | Sarah Cowan Burgos |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
 | 170 | 382 | Scott Carleton |
 | 171 | 380 | Tasha Schriewer |
-| 172 | 378 | Nicole Flippo |
-| 173 | 378 | Chris Bell |
+| 172 | 378 | Chris Bell |
+| 173 | 378 | Nicole Flippo |
 | 174 | 376 | Loopy Clusterer |
 | 175 | 375 | Shunta Jacobs |
 | 176 | 374 | Sherry Ogden |
@@ -193,8 +193,8 @@
 | 185 | 361 | Jamie Lang |
 | 186 | 358 | Chummy Caster |
 | 187 | 358 | RickyG |
-| 188 | 357 | Tom Nault |
-| 189 | 357 | Stephanie Burtin |
+| 188 | 357 | Stephanie Burtin |
+| 189 | 357 | Tom Nault |
 | 190 | 353 | Nora Rogers |
 | 191 | 349 | Amanda J. Mcneil-Anderson |
 | 192 | 348 | Chasity |
@@ -227,8 +227,8 @@
 | 219 | 300 | Sherika C. McDaniels |
 | 220 | 298 | MsBee |
 | 221 | 297 | Jojo M |
-| 222 | 296 | Katrina Turner |
-| 223 | 296 | Ammmmmmy |
+| 222 | 296 | Ammmmmmy |
+| 223 | 296 | Katrina Turner |
 | 224 | 296 | Brandon Givens |
 | 225 | 291 | JerseyJess |
 | 226 | 289 | DidIdothat |
@@ -253,7 +253,7 @@
 | 245 | 271 | Alexmac |
 | 246 | 271 | Ashley Muncey |
 | 247 | 271 | Grego Daniel |
-| 248 | 271 | Alexmac |
+| 248 | 271 | Cass Mendoza |
 | 249 | 269 | Loopy Fallmatch |
 | 250 | 267 | Terry Jo Jones |
 | 251 | 267 | Tiffany Davie |
@@ -492,8 +492,8 @@
 | 484 | 131 | Jolly Dashpiece |
 | 485 | 131 | Erin Ervin |
 | 486 | 130 | Alexi Pryor |
-| 487 | 129 | TLM |
-| 488 | 129 | Amanda Neal |
+| 487 | 129 | Amanda Neal |
+| 488 | 129 | TLM |
 | 489 | 129 | luluraine |
 | 490 | 129 | Stella |
 | 491 | 129 | Juliana Dottore |
