@@ -81,8 +81,8 @@
 | 73 | 646 | Jacqueline Helm |
 | 74 | 645 | Carolyn Wallace |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Jason Hart |
-| 77 | 617 | Savannah Overdorf |
+| 76 | 617 | Savannah Overdorf |
+| 77 | 617 | Jason Hart |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -255,8 +255,8 @@
 | 247 | 208 | Oscar Alberto Perez |
 | 248 | 208 | Rebecca Morris |
 | 249 | 205 | Christina Black |
-| 250 | 205 | James Hurley Jr. |
-| 251 | 205 | Keith Kelley |
+| 250 | 205 | Keith Kelley |
+| 251 | 205 | James Hurley Jr. |
 | 252 | 203 | Katherine Crane |
 | 253 | 202 | Patron Anderson |
 | 254 | 202 | Orchislactea |
@@ -268,8 +268,8 @@
 | 260 | 198 | Angelito |
 | 261 | 197 | Gilles Lanctot |
 | 262 | 196 | Zany Shatterer |
-| 263 | 195 | 中山成巳 |
-| 264 | 195 | Snippy Puzzle |
+| 263 | 195 | Snippy Puzzle |
+| 264 | 195 | 中山成巳 |
 | 265 | 194 | Zany Twisterfit |
 | 266 | 192 | Stephme310 |
 | 267 | 192 | Andrew Dang |
@@ -349,7 +349,7 @@
 | 341 | 150 | Brandon Link |
 | 342 | 149 | Duck |
 | 343 | 149 | Madison Sweere |
-| 344 | 149 | Duck |
+| 344 | 149 | Sticherella |
 | 345 | 148 | Ruby Khalisadar |
 | 346 | 148 | Mighty Edgepiece |
 | 347 | 148 | Janita Parrish |
@@ -399,9 +399,9 @@
 | 391 | 137 | Funky Risepiece |
 | 392 | 137 | Hyper Builder |
 | 393 | 137 | Brianna Walker |
-| 394 | 136 | Dandy Cascadefit |
-| 395 | 136 | Michelle Morris |
-| 396 | 136 | Jen Hallin |
+| 394 | 136 | Jen Hallin |
+| 395 | 136 | Dandy Cascadefit |
+| 396 | 136 | Michelle Morris |
 | 397 | 135 | Joshua Guess |
 | 398 | 134 | Kristin MacDonald |
 | 399 | 134 | Jobadia Steelerton |
@@ -422,12 +422,12 @@
 | 414 | 129 | Sherri |
 | 415 | 129 | Dreamy Snapgrid |
 | 416 | 129 | Amy Sanford |
-| 417 | 128 | Raymond Roberts |
-| 418 | 128 | Denise B |
-| 419 | 128 | Dapper Balancer |
-| 420 | 127 | Grann8 |
-| 421 | 127 | Robert Rodriguez |
-| 422 | 127 | Gdiguy |
+| 417 | 128 | Denise B |
+| 418 | 128 | Dapper Balancer |
+| 419 | 128 | Raymond Roberts |
+| 420 | 127 | Robert Rodriguez |
+| 421 | 127 | Gdiguy |
+| 422 | 127 | Grann8 |
 | 423 | 127 | Frank Cook |
 | 424 | 126 | Snippy Clearer |
 | 425 | 126 | Cheryl Johnson |
@@ -471,7 +471,7 @@
 | 463 | 115 | Jayk |
 | 464 | 114 | Rosemary Foster |
 | 465 | 114 | The Murphy |
-| 466 | 114 | Rosemary Foster |
+| 466 | 114 | Jackson Karen |
 | 467 | 114 | Jason Frehner |
 | 468 | 113 | Michael Orris |
 | 469 | 113 | DQ Martin |
@@ -481,7 +481,7 @@
 | 473 | 111 | Raegan Lane-Ross |
 | 474 | 111 | Zocko Ellet |
 | 475 | 111 | Lazy Blocker |
-| 476 | 110 | Thomas Hettenhaus |
+| 476 | 110 | Jennifer Dineen |
 | 477 | 110 | JoAnna Zalkovsky |
 | 478 | 110 | Thomas Hettenhaus |
 | 479 | 109 | Jessica Miller |
@@ -505,8 +505,8 @@
 | 497 | 105 | Undeniable Williams |
 | 498 | 105 | meowmew |
 | 499 | 104 | Kametsunoyaiba |
-| 500 | 104 | Amy Jean |
-| 501 | 104 | Marcus TheeyoungWoe Gilmore |
+| 500 | 104 | Marcus TheeyoungWoe Gilmore |
+| 501 | 104 | Amy Jean |
 | 502 | 104 | Melissa VanBourgondien |
 | 503 | 104 | Jessica Johnston |
 | 504 | 103 | Mary Miller |

@@ -324,8 +324,8 @@
 | 316 | 173 | Rico Rico |
 | 317 | 173 | Cranky Pattern |
 | 318 | 172 | Nathan Sealander |
-| 319 | 171 | Debbie Kane |
-| 320 | 171 | Bruce Cruz |
+| 319 | 171 | Bruce Cruz |
+| 320 | 171 | Debbie Kane |
 | 321 | 171 | Greg Premoe |
 | 322 | 170 | Spunky Builderpiece |
 | 323 | 170 | Jessie |

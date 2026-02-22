@@ -91,8 +91,8 @@
 | 83 | 828 | Jessica Ann |
 | 84 | 826 | Shane Wilson Jr. |
 | 85 | 824 | Shari Garber |
-| 86 | 811 | Jay Horn |
-| 87 | 811 | Sarajane Lokan |
+| 86 | 811 | Sarajane Lokan |
+| 87 | 811 | Jay Horn |
 | 88 | 809 | Snappy Glidepiece |
 | 89 | 801 | Aaron Pitkin |
 | 90 | 800 | Lauren Girouard |
@@ -157,9 +157,9 @@
 | 149 | 492 | Daira Largen |
 | 150 | 491 | Chauntee Alfrey-Cardinale |
 | 151 | 484 | Samantha Greco |
-| 152 | 479 | Patti Skiles |
+| 152 | 479 | Annie Marie |
 | 153 | 479 | Poppy Splitter |
-| 154 | 479 | Annie Marie |
+| 154 | 479 | Patti Skiles |
 | 155 | 474 | Danielle Balcom |
 | 156 | 473 | Calista Jo Dickson |
 | 157 | 471 | Mendoza Lee Christy |
