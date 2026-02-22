@@ -365,8 +365,8 @@
 | 357 | 517 | Poppy Snap |
 | 358 | 517 | Porsche' Nicole |
 | 359 | 516 | Diamond Scott |
-| 360 | 515 | Laquetta Royston |
-| 361 | 515 | Lonne Emade |
+| 360 | 515 | Lonne Emade |
+| 361 | 515 | Laquetta Royston |
 | 362 | 514 | Joseph Musick |
 | 363 | 511 | Laura Mclean |
 | 364 | 509 | Jordan Kaiser |
@@ -432,8 +432,8 @@
 | 424 | 459 | Melissa Kay Gibson |
 | 425 | 458 | Casper The Chonk |
 | 426 | 454 | Casey Schumacher |
-| 427 | 453 | Rhonda Petro |
-| 428 | 453 | Joshua Sommerville |
+| 427 | 453 | Joshua Sommerville |
+| 428 | 453 | Rhonda Petro |
 | 429 | 451 | Funky Caster |
 | 430 | 451 | Cody Nishimura |
 | 431 | 451 | Dylan Thomason |
