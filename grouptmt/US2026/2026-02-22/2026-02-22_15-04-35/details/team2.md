@@ -224,8 +224,8 @@
 | 216 | 919 | Joshua Mandel |
 | 217 | 919 | Isaac Trappiel IV |
 | 218 | 916 | Butta |
-| 219 | 915 | Angela Bonquiqui Dinish |
-| 220 | 915 | Robin Kerby |
+| 219 | 915 | Robin Kerby |
+| 220 | 915 | Angela Bonquiqui Dinish |
 | 221 | 915 | Kelly Trent |
 | 222 | 910 | Shuany Arias |
 | 223 | 907 | Cindy Sechler Taninecz |
@@ -243,8 +243,8 @@
 | 235 | 867 | Peppy Zone |
 | 236 | 867 | Michele Gabriel |
 | 237 | 862 | Brittany Radaszewski |
-| 238 | 860 | April Dawn Gussler |
-| 239 | 860 | John Bednarik |
+| 238 | 860 | John Bednarik |
+| 239 | 860 | April Dawn Gussler |
 | 240 | 857 | Della Hole |
 | 241 | 855 | F-X |
 | 242 | 853 | Meghan M |
@@ -395,8 +395,8 @@
 | 387 | 572 | Chris Wanner |
 | 388 | 571 | Emily Lyric Converse |
 | 389 | 569 | Vaniel Glover |
-| 390 | 565 | Jaycee |
-| 391 | 565 | Steve Man |
+| 390 | 565 | Steve Man |
+| 391 | 565 | Jaycee |
 | 392 | 563 | Irene Jones |
 | 393 | 563 | snkylnk |
 | 394 | 561 | Traci Johnson |
@@ -534,8 +534,8 @@
 | 526 | 448 | Lee Harper |
 | 527 | 448 | Liberty |
 | 528 | 447 | Boozi |
-| 529 | 447 | Jessica S Flecha |
-| 530 | 447 | Besma Ao |
+| 529 | 447 | Besma Ao |
+| 530 | 447 | Jessica S Flecha |
 | 531 | 445 | Sharon Mills |
 | 532 | 445 | Elisheva Mizrachi |
 | 533 | 445 | Mar Q Thomas |

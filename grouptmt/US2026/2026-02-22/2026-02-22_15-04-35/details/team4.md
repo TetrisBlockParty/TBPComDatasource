@@ -16,8 +16,8 @@
 | 8 | 1835 | East Mamba |
 | 9 | 1775 | Ash |
 | 10 | 1676 | Ayanna Soto |
-| 11 | 1447 | Juggalo |
-| 12 | 1447 | GreenJeepGirl |
+| 11 | 1447 | GreenJeepGirl |
+| 12 | 1447 | Juggalo |
 | 13 | 1318 | Cassie Michaux |
 | 14 | 1284 | Roger Coulter |
 | 15 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -97,8 +97,8 @@
 | 89 | 468 | Shane Kalamata Platoon |
 | 90 | 465 | YoMomma |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Shannon Ferrari |
-| 93 | 447 | Samantha Peterson |
+| 92 | 447 | Samantha Peterson |
+| 93 | 447 | Shannon Ferrari |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -273,8 +273,8 @@
 | 265 | 162 | conceptCollector |
 | 266 | 161 | Tanner Lund |
 | 267 | 160 | Ellen Durfee |
-| 268 | 159 | Marcus Todd |
-| 269 | 159 | DonMega |
+| 268 | 159 | DonMega |
+| 269 | 159 | Marcus Todd |
 | 270 | 158 | Chair |
 | 271 | 157 | KayM |
 | 272 | 157 | Bethany Ison |
@@ -291,8 +291,8 @@
 | 283 | 151 | Shanon Klair |
 | 284 | 151 | Joseph Pace |
 | 285 | 150 | GBR |
-| 286 | 150 | Brandon Link |
-| 287 | 150 | Jared Gutwein |
+| 286 | 150 | Jared Gutwein |
+| 287 | 150 | Brandon Link |
 | 288 | 149 | Shainne Brewer |
 | 289 | 148 | Nubian1 |
 | 290 | 148 | Cranky Rollpiece |

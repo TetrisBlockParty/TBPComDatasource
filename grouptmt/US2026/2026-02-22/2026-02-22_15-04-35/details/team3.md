@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 893 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -174,8 +174,8 @@
 | 166 | 399 | Mcathen |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
-| 169 | 391 | Calista Jo Dickson |
-| 170 | 391 | Sarah Cowan Burgos |
+| 169 | 391 | Sarah Cowan Burgos |
+| 170 | 391 | Calista Jo Dickson |
 | 171 | 390 | Hasty Cascadefit |
 | 172 | 389 | Jeni Dow |
 | 173 | 385 | Shunta Jacobs |
@@ -324,8 +324,8 @@
 | 316 | 208 | AlsoJess |
 | 317 | 208 | Niki Dalrymple |
 | 318 | 207 | angieelyn |
-| 319 | 207 | Daring Builder |
-| 320 | 207 | Jessica |
+| 319 | 207 | Jessica |
+| 320 | 207 | Daring Builder |
 | 321 | 206 | Tracy Martin |
 | 322 | 206 | Tammy Rosenberry |
 | 323 | 205 | Rachel Napper |
@@ -343,8 +343,8 @@
 | 335 | 200 | Colleen Phelps |
 | 336 | 200 | Sharisse Baltimore |
 | 337 | 200 | Saucy Buildout |
-| 338 | 199 | Kristian Thurman |
-| 339 | 199 | Mariah Williams |
+| 338 | 199 | Mariah Williams |
+| 339 | 199 | Kristian Thurman |
 | 340 | 198 | Goofy Fall |
 | 341 | 196 | Ashley Lynn Marchese |
 | 342 | 195 | Nicha Hooker |
@@ -469,8 +469,8 @@
 | 461 | 142 | Cheery Brickster |
 | 462 | 142 | Gray Hicks |
 | 463 | 142 | Jl |
-| 464 | 141 | Jen Lewis |
-| 465 | 141 | Bhreagh Gentile |
+| 464 | 141 | Bhreagh Gentile |
+| 465 | 141 | Jen Lewis |
 | 466 | 141 | Heather Bateman |
 | 467 | 141 | Reina Roth |
 | 468 | 141 | Tipsy Puzzle |
@@ -698,7 +698,7 @@
 | 690 | 98 | Jess Reppert |
 | 691 | 98 | Moneyvybz |
 | 692 | 97 | Moimyzean |
-| 693 | 97 | Jennifer Kahler |
+| 693 | 97 | Kell Cinn |
 | 694 | 97 | Trissy Collins |
 | 695 | 97 | atomictrin |
 | 696 | 97 | Jennifer Kahler |
@@ -732,7 +732,7 @@
 | 724 | 93 | Samantha Long |
 | 725 | 93 | Kimberly Walker |
 | 726 | 93 | Lazy Matchfit |
-| 727 | 93 | Katheline Lazo Luizaga |
+| 727 | 93 | Mari |
 | 728 | 93 | Tucker Allen |
 | 729 | 92 | Cary M. Fong |
 | 730 | 92 | Jennifer Caputo |
