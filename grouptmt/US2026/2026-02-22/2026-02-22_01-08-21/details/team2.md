@@ -257,8 +257,8 @@
 | 249 | 589 | Thomas Hedrick |
 | 250 | 587 | Hyper Cluster |
 | 251 | 586 | Hoppy Brickmatch |
-| 252 | 583 | Jessicah Myers |
-| 253 | 583 | Steve Grotto |
+| 252 | 583 | Steve Grotto |
+| 253 | 583 | Jessicah Myers |
 | 254 | 582 | Gary Stash |
 | 255 | 579 | Roy Salyer |
 | 256 | 579 | Juliana Marques Do Nascimento Gordy |
@@ -398,8 +398,8 @@
 | 390 | 401 | Taylor Flowers |
 | 391 | 400 | Tammy Allen |
 | 392 | 400 | Lee Harper |
-| 393 | 399 | Steven Marshaun |
-| 394 | 399 | Juanita Lyons |
+| 393 | 399 | Juanita Lyons |
+| 394 | 399 | Steven Marshaun |
 | 395 | 398 | Véronique Lévesque Sabourin |
 | 396 | 397 | coleksquad |
 | 397 | 396 | Stefanie Zonzini-Gagliardi |
@@ -528,16 +528,16 @@
 | 520 | 310 | Audra Williams |
 | 521 | 310 | Sharon Mills |
 | 522 | 309 | Brenna Ann |
-| 523 | 308 | Christina Jarvis-Swarbrick |
-| 524 | 308 | Ann Knutson Anderson |
-| 525 | 308 | Claire |
+| 523 | 308 | Claire |
+| 524 | 308 | Christina Jarvis-Swarbrick |
+| 525 | 308 | Ann Knutson Anderson |
 | 526 | 308 | Venita Ray |
 | 527 | 307 | Diallo Sparkman |
 | 528 | 307 | Johanna Massaro |
 | 529 | 306 | Gina Caulder |
 | 530 | 305 | Libby Hicks |
-| 531 | 305 | Samantha Scibelli |
-| 532 | 305 | Zany Clusterbuilder |
+| 531 | 305 | Zany Clusterbuilder |
+| 532 | 305 | Samantha Scibelli |
 | 533 | 304 | Melissa McCall |
 | 534 | 304 | NFLPITMOM |
 | 535 | 304 | Michelle Shrum |

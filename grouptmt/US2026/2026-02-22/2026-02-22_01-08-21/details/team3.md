@@ -43,8 +43,8 @@
 | 35 | 1059 | Lori Barnaby |
 | 36 | 1058 | Tetris Master |
 | 37 | 1036 | Mahman |
-| 38 | 1013 | Amber Jones |
-| 39 | 1013 | Laura Melton |
+| 38 | 1013 | Laura Melton |
+| 39 | 1013 | Amber Jones |
 | 40 | 998 | Liv Whetson |
 | 41 | 996 | Danielle Cutler |
 | 42 | 989 | Kay |
@@ -135,8 +135,8 @@
 | 127 | 368 | Stephanie Blkpep Davidson |
 | 128 | 367 | mjl574 |
 | 129 | 366 | Adrian Marcel Pate |
-| 130 | 355 | Tessina Dewey-Mancino |
-| 131 | 355 | Sherry Ogden |
+| 130 | 355 | Sherry Ogden |
+| 131 | 355 | Tessina Dewey-Mancino |
 | 132 | 352 | Logan Naccarato |
 | 133 | 348 | CeceGeGe |
 | 134 | 347 | Nicole Flippo |
@@ -328,8 +328,8 @@
 | 320 | 134 | MizzMonick Smith |
 | 321 | 134 | Bleu Sun Beams |
 | 322 | 134 | Tammy |
-| 323 | 133 | April Matthew Kibble |
-| 324 | 133 | Jen Lewis |
+| 323 | 133 | Jen Lewis |
+| 324 | 133 | April Matthew Kibble |
 | 325 | 132 | Angela Scott |
 | 326 | 131 | Noettín Kan Zasnemoore |
 | 327 | 131 | Cheeky Snapper |

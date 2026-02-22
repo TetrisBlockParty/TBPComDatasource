@@ -109,8 +109,8 @@
 | 101 | 273 | Carrie Brian |
 | 102 | 271 | Sarah Brown |
 | 103 | 268 | Meagan Nicole |
-| 104 | 264 | Girl |
-| 105 | 264 | Epic Curvetile |
+| 104 | 264 | Epic Curvetile |
+| 105 | 264 | Girl |
 | 106 | 258 | Brittney Orengo |
 | 107 | 257 | Holly Jolly |
 | 108 | 256 | Mylo Lipscomb |
@@ -121,8 +121,8 @@
 | 113 | 225 | Damn Libra |
 | 114 | 222 | Joeliecea Cobb |
 | 115 | 221 | Alyssa Papen |
-| 116 | 218 | Casey Grabner |
-| 117 | 218 | Antony Dwayne Beasley |
+| 116 | 218 | Antony Dwayne Beasley |
+| 117 | 218 | Casey Grabner |
 | 118 | 217 | Chaz Duncan |
 | 119 | 213 | loulou |
 | 120 | 212 | Toots |
@@ -139,8 +139,8 @@
 | 131 | 202 | Monica Daley |
 | 132 | 201 | Melvin Baird |
 | 133 | 197 | Peachy Fall |
-| 134 | 196 | Jeff Brian Gates |
-| 135 | 196 | Jenna McGeorge |
+| 134 | 196 | Jenna McGeorge |
+| 135 | 196 | Jeff Brian Gates |
 | 136 | 194 | Zany Twisterfit |
 | 137 | 192 | Shauna Havard |
 | 138 | 190 | Mary Ann Pabukis |
@@ -193,8 +193,8 @@
 | 185 | 141 | ĥuf |
 | 186 | 140 | John Brunetti |
 | 187 | 140 | Stephme310 |
-| 188 | 138 | Tanner Lund |
-| 189 | 138 | Brandon Link |
+| 188 | 138 | Brandon Link |
+| 189 | 138 | Tanner Lund |
 | 190 | 137 | PeaceOs |
 | 191 | 137 | Lauren Lamb |
 | 192 | 136 | Chaz |

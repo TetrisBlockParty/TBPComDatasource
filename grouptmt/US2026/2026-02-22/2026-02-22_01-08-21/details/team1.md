@@ -67,8 +67,8 @@
 | 59 | 412 | Anaid Sanchez |
 | 60 | 409 | Jazzy Framezone |
 | 61 | 391 | Robert Benito |
-| 62 | 388 | Jennifer ManWarren |
-| 63 | 388 | Yvonne Marie |
+| 62 | 388 | Yvonne Marie |
+| 63 | 388 | Jennifer ManWarren |
 | 64 | 382 | Lori Sanders- Davis |
 | 65 | 379 | Austin James |
 | 66 | 374 | Tinah Montanna |
@@ -89,8 +89,8 @@
 | 81 | 323 | Candy Jones |
 | 82 | 323 | Sweet Baker |
 | 83 | 321 | Maria C. Hernandez |
-| 84 | 319 | Shauna Loe |
-| 85 | 319 | Deanna L Hermanson |
+| 84 | 319 | Deanna L Hermanson |
+| 85 | 319 | Shauna Loe |
 | 86 | 311 | Tanya Carpenter-Reynolds |
 | 87 | 310 | Seth Wesson |
 | 88 | 305 | Patrick Luckenbill |
@@ -119,8 +119,8 @@
 | 111 | 249 | Elaine Elaine |
 | 112 | 248 | Jason Jones |
 | 113 | 244 | Franswa |
-| 114 | 243 | Trippy Redd |
-| 115 | 243 | Chelsea Dahlquist |
+| 114 | 243 | Chelsea Dahlquist |
+| 115 | 243 | Trippy Redd |
 | 116 | 241 | John J. Cronin |
 | 117 | 240 | Tana |
 | 118 | 236 | Mandyy Rae |
@@ -128,28 +128,28 @@
 | 120 | 228 | Jenny Gingrich Fuentes |
 | 121 | 226 | Kandae |
 | 122 | 219 | Lexuriuos Lifestlye |
-| 123 | 216 | Shauntina Burke |
-| 124 | 216 | MRdot Rooski |
+| 123 | 216 | MRdot Rooski |
+| 124 | 216 | Shauntina Burke |
 | 125 | 214 | Billie Dawn Sparks |
 | 126 | 212 | Jaimie Lynn |
 | 127 | 211 | Marianita Garcia |
 | 128 | 208 | Giggly Builderline |
 | 129 | 207 | Leslie Bush Yarbrough |
 | 130 | 204 | Ananda Mendez |
-| 131 | 203 | Paula Martin |
-| 132 | 203 | GATOR |
+| 131 | 203 | GATOR |
+| 132 | 203 | Paula Martin |
 | 133 | 199 | Jennifer Hardman |
-| 134 | 198 | Shiny Gridmatch |
-| 135 | 198 | Happy Snapbuild |
+| 134 | 198 | Happy Snapbuild |
+| 135 | 198 | Shiny Gridmatch |
 | 136 | 195 | Daring Fitclear |
-| 137 | 194 | Ash Galvan |
-| 138 | 194 | Tyler Werts |
+| 137 | 194 | Tyler Werts |
+| 138 | 194 | Ash Galvan |
 | 139 | 193 | Lachelle Dillon |
-| 140 | 192 | Jessica Sheehan |
-| 141 | 192 | Shaykmia |
+| 140 | 192 | Shaykmia |
+| 141 | 192 | Jessica Sheehan |
 | 142 | 191 | Diane Byrd |
-| 143 | 190 | Sweetts |
-| 144 | 190 | Thorne Shumate |
+| 143 | 190 | Thorne Shumate |
+| 144 | 190 | Sweetts |
 | 145 | 188 | Sam Williams |
 | 146 | 187 | Snippy Wipebuilder |
 | 147 | 186 | Margo Wagner |
