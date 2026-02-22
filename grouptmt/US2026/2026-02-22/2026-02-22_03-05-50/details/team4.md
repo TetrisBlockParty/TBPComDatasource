@@ -142,8 +142,8 @@
 | 134 | 217 | loulou |
 | 135 | 217 | Chaz Duncan |
 | 136 | 215 | Jessica Bohlken |
-| 137 | 212 | Mike Solo |
-| 138 | 212 | Calvin Cannon |
+| 137 | 212 | Calvin Cannon |
+| 138 | 212 | Mike Solo |
 | 139 | 211 | Jenna McGeorge |
 | 140 | 211 | Twisty Cascadezone |
 | 141 | 210 | Swanky Fitline |
@@ -158,9 +158,9 @@
 | 150 | 194 | Zany Twisterfit |
 | 151 | 192 | Shauna Havard |
 | 152 | 190 | Justin Hannigan |
-| 153 | 189 | Stacey Stano |
-| 154 | 189 | Chilly Crasher |
-| 155 | 189 | Calvin Dennis |
+| 153 | 189 | Chilly Crasher |
+| 154 | 189 | Calvin Dennis |
+| 155 | 189 | Stacey Stano |
 | 156 | 188 | Andria Lynn |
 | 157 | 187 | TheNeesh50 |
 | 158 | 186 | Holly |
@@ -181,8 +181,8 @@
 | 173 | 169 | Kesha Brady |
 | 174 | 169 | Chris Bernstein |
 | 175 | 168 | 🥔🥔 Spudz |
-| 176 | 166 | Cozy Balancer |
-| 177 | 166 | SammieJo Guy |
+| 176 | 166 | SammieJo Guy |
+| 177 | 166 | Cozy Balancer |
 | 178 | 164 | 030Synner |
 | 179 | 160 | ZeeZee |
 | 180 | 160 | Carlos Ramirez |

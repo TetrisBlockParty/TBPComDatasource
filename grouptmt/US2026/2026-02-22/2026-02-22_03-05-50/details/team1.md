@@ -123,8 +123,8 @@
 | 115 | 263 | Sharon Reynolds |
 | 116 | 263 | Jason Jones |
 | 117 | 257 | june october |
-| 118 | 252 | Dena Kayy |
-| 119 | 252 | Elaine Elaine |
+| 118 | 252 | Elaine Elaine |
+| 119 | 252 | Dena Kayy |
 | 120 | 249 | Lexuriuos Lifestlye |
 | 121 | 243 | Chelsea Dahlquist |
 | 122 | 243 | Trippy Redd |
@@ -154,19 +154,19 @@
 | 146 | 198 | Shiny Gridmatch |
 | 147 | 198 | Happy Snapbuild |
 | 148 | 195 | Daring Fitclear |
-| 149 | 194 | Ash Galvan |
-| 150 | 194 | Tyler Werts |
+| 149 | 194 | Tyler Werts |
+| 150 | 194 | Ash Galvan |
 | 151 | 193 | Lachelle Dillon |
 | 152 | 192 | Jessica Sheehan |
 | 153 | 192 | Christy Jones |
 | 154 | 192 | Shaykmia |
 | 155 | 191 | Diane Byrd |
-| 156 | 190 | Thorne Shumate |
-| 157 | 190 | Sweetts |
+| 156 | 190 | Sweetts |
+| 157 | 190 | Thorne Shumate |
 | 158 | 189 | Michael |
 | 159 | 188 | Sam Williams |
-| 160 | 187 | Jennifer Olewnik Soborowski |
-| 161 | 187 | Snippy Wipebuilder |
+| 160 | 187 | Snippy Wipebuilder |
+| 161 | 187 | Jennifer Olewnik Soborowski |
 | 162 | 186 | Margo Wagner |
 | 163 | 185 | Basment Living |
 | 164 | 185 | ParisandCory Champagne |
@@ -262,13 +262,13 @@
 | 254 | 121 | Jacob Shaddock |
 | 255 | 120 | DoodleBug |
 | 256 | 120 | Kimmie Kimms |
-| 257 | 119 | Strig |
-| 258 | 119 | Tater |
+| 257 | 119 | Tater |
+| 258 | 119 | Strig |
 | 259 | 118 | Garcia Bailey |
 | 260 | 118 | Tyler Hertzog |
 | 261 | 116 | Fresno Beotoni |
-| 262 | 115 | Chuck Gannon |
-| 263 | 115 | Mrs.Patrica |
+| 262 | 115 | Mrs.Patrica |
+| 263 | 115 | Chuck Gannon |
 | 264 | 114 | Constance Risner |
 | 265 | 113 | Jamie Jury |
 | 266 | 112 | Nerdy Curvebuilder |
