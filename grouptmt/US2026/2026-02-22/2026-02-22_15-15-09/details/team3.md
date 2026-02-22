@@ -96,8 +96,8 @@
 | 88 | 704 | Suzieq |
 | 89 | 696 | Christine Niles |
 | 90 | 694 | MissTaylor |
-| 91 | 662 | Speedy Bridger |
-| 92 | 662 | Jay Horn |
+| 91 | 662 | Jay Horn |
+| 92 | 662 | Speedy Bridger |
 | 93 | 641 | Queen Kam |
 | 94 | 638 | Keith J Oshman Jr. |
 | 95 | 635 | Danielle Mogg |
@@ -345,8 +345,8 @@
 | 337 | 200 | Sharisse Baltimore |
 | 338 | 200 | Saucy Buildout |
 | 339 | 199 | Samantha Worley |
-| 340 | 199 | Kristian Thurman |
-| 341 | 199 | Mariah Williams |
+| 340 | 199 | Mariah Williams |
+| 341 | 199 | Kristian Thurman |
 | 342 | 198 | Goofy Fall |
 | 343 | 196 | Cesar Barraza |
 | 344 | 196 | Ashley Lynn Marchese |
@@ -412,8 +412,8 @@
 | 404 | 162 | Nicole Summers-Nelson |
 | 405 | 162 | Eric Caccavale |
 | 406 | 161 | Betty Bóò |
-| 407 | 161 | Julia Nicole |
-| 408 | 161 | Bouncy Blockbuilder |
+| 407 | 161 | Boldy Blocker |
+| 408 | 161 | Julia Nicole |
 | 409 | 161 | AC Yeater |
 | 410 | 161 | Bouncy Blockbuilder |
 | 411 | 160 | Sunny Lift |
@@ -569,8 +569,8 @@
 | 561 | 119 | Peachy Westbrook |
 | 562 | 119 | Brian Quigley |
 | 563 | 119 | Michelle Ramirez |
-| 564 | 118 | Scott Doss |
-| 565 | 118 | Martin Bernier |
+| 564 | 118 | Martin Bernier |
+| 565 | 118 | Scott Doss |
 | 566 | 118 | Damian Reid |
 | 567 | 117 | Jennifer Neiman Gaal |
 | 568 | 117 | Elyse Grabowsky |

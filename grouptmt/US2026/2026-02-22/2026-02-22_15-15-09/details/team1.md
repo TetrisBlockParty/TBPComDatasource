@@ -218,8 +218,8 @@
 | 210 | 207 | Leslie Bush Yarbrough |
 | 211 | 207 | Speedy Liney |
 | 212 | 206 | BadG52 |
-| 213 | 205 | Snappy Matcher |
-| 214 | 205 | Tater |
+| 213 | 205 | Tater |
+| 214 | 205 | Snappy Matcher |
 | 215 | 204 | Lacy Wolfe |
 | 216 | 202 | Amanda Holibaugh |
 | 217 | 201 | Colleen Wise |
@@ -251,7 +251,7 @@
 | 243 | 186 | Margo Wagner |
 | 244 | 186 | Marci Sanders |
 | 245 | 184 | Chris Sigurdson |
-| 246 | 183 | Tiger Lily |
+| 246 | 183 | Brave Wrecker |
 | 247 | 183 | Andrew Boone |
 | 248 | 183 | Chad Atchley |
 | 249 | 183 | Amy Hess |

@@ -97,8 +97,8 @@
 | 89 | 486 | Carmethia Clemons Haslerig |
 | 90 | 468 | Shane Kalamata Platoon |
 | 91 | 448 | Kristin Manee |
-| 92 | 447 | Shannon Ferrari |
-| 93 | 447 | Samantha Peterson |
+| 92 | 447 | Samantha Peterson |
+| 93 | 447 | Shannon Ferrari |
 | 94 | 447 | Erin Thomas |
 | 95 | 444 | Chilly Crasher |
 | 96 | 441 | Chastity Mitchell |
@@ -158,8 +158,8 @@
 | 150 | 275 | Dizzy Tiley |
 | 151 | 274 | Calvin Cannon |
 | 152 | 273 | Crystal Nicolette Moore |
-| 153 | 272 | Keshia Lyons |
-| 154 | 272 | Alan George LaRage |
+| 153 | 272 | Alan George LaRage |
+| 154 | 272 | Keshia Lyons |
 | 155 | 271 | Sarah Brown |
 | 156 | 267 | Damn Libra |
 | 157 | 265 | Jeff Brian Gates |
@@ -262,8 +262,8 @@
 | 254 | 168 | 23 |
 | 255 | 167 | Cozy Balancer |
 | 256 | 166 | Jenny Wells-Oakley |
-| 257 | 166 | Angelito |
-| 258 | 166 | Megan Cutshaw |
+| 257 | 166 | Megan Cutshaw |
+| 258 | 166 | Angelito |
 | 259 | 166 | SammieJo Guy |
 | 260 | 165 | Zappy Buildgrid |
 | 261 | 165 | Brittany Marsh |
@@ -276,8 +276,8 @@
 | 268 | 159 | DonMega |
 | 269 | 159 | Marcus Todd |
 | 270 | 158 | Chair |
-| 271 | 157 | Bethany Ison |
-| 272 | 157 | KayM |
+| 271 | 157 | KayM |
+| 272 | 157 | Bethany Ison |
 | 273 | 157 | Paige Kittles |
 | 274 | 157 | B Renee Desjardin |
 | 275 | 156 | Ultramarine |
