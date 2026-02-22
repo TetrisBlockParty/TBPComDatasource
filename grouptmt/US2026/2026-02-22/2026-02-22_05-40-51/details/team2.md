@@ -229,8 +229,8 @@
 | 221 | 771 | Terri McKelvey McKinley |
 | 222 | 769 | Adira Brown |
 | 223 | 767 | Jessica Wayne Cornwall |
-| 224 | 765 | Jodi Blake |
-| 225 | 765 | Stephen Stephen |
+| 224 | 765 | Stephen Stephen |
+| 225 | 765 | Jodi Blake |
 | 226 | 763 | Samantha Jo |
 | 227 | 761 | Lisa Ongtowasruk |
 | 228 | 756 | Stephanie Neuburger |
@@ -404,8 +404,8 @@
 | 396 | 481 | Klee |
 | 397 | 480 | Dar |
 | 398 | 478 | Ashley Collins |
-| 399 | 477 | Brenna Ann |
-| 400 | 477 | Michelle Fields |
+| 399 | 477 | Michelle Fields |
+| 400 | 477 | Brenna Ann |
 | 401 | 477 | Julay |
 | 402 | 476 | Kitybox |
 | 403 | 476 | Maya June |
@@ -492,8 +492,8 @@
 | 484 | 402 | Juanita Lyons |
 | 485 | 401 | Lee Harper |
 | 486 | 401 | Niceday |
-| 487 | 401 | De Hawkins |
-| 488 | 401 | Taylor Flowers |
+| 487 | 401 | Taylor Flowers |
+| 488 | 401 | De Hawkins |
 | 489 | 401 | Moua Ying |
 | 490 | 400 | Victoria Regina Girolami |
 | 491 | 400 | Tammy Allen |

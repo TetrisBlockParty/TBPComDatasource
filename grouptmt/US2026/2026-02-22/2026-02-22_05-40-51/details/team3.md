@@ -179,8 +179,8 @@
 | 171 | 325 | Giddy Twistbuilder |
 | 172 | 323 | Demetrious Shaw Sr. |
 | 173 | 320 | Or Reznitsky |
-| 174 | 317 | Ashley Tookes |
-| 175 | 317 | Rebecca Funderburk Kirby |
+| 174 | 317 | Rebecca Funderburk Kirby |
+| 175 | 317 | Ashley Tookes |
 | 176 | 315 | Kammy Hill |
 | 177 | 311 | Raya |
 | 178 | 310 | Danielle Allison |
@@ -336,8 +336,8 @@
 | 328 | 163 | Christine Trester |
 | 329 | 162 | Loopy Fallzone |
 | 330 | 162 | Stephanie Whitefield |
-| 331 | 161 | Bouncy Blockbuilder |
-| 332 | 161 | Michael Johnson |
+| 331 | 161 | Michael Johnson |
+| 332 | 161 | Bouncy Blockbuilder |
 | 333 | 160 | Rachel |
 | 334 | 159 | Salena Whitlock |
 | 335 | 159 | Jone |
@@ -366,8 +366,8 @@
 | 358 | 147 | sofaking |
 | 359 | 147 | Kiki |
 | 360 | 146 | Sdot |
-| 361 | 146 | ROODBOY |
-| 362 | 146 | Sara Dunn |
+| 361 | 146 | Sara Dunn |
+| 362 | 146 | ROODBOY |
 | 363 | 144 | Tenisha Semidey |
 | 364 | 144 | Danielle Weikel |
 | 365 | 142 | Micayah Stevens |
