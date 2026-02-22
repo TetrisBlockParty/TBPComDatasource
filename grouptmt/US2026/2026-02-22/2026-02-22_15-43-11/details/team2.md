@@ -581,8 +581,8 @@
 | 573 | 423 | Taylor Flowers |
 | 574 | 421 | Véronique Lévesque Sabourin |
 | 575 | 421 | Joel Rosado |
-| 576 | 420 | LaWanda Powell |
-| 577 | 420 | Joice Hansen |
+| 576 | 420 | Joice Hansen |
+| 577 | 420 | LaWanda Powell |
 | 578 | 419 | Josh Dill |
 | 579 | 419 | Goofy Catcher |
 | 580 | 419 | Pocho Zavala |
@@ -606,8 +606,8 @@
 | 598 | 407 | Tipsy Filler |
 | 599 | 406 | Erin StFrancis |
 | 600 | 404 | Dawn L Washington-Feuquay |
-| 601 | 403 | Nate Skidmore |
-| 602 | 403 | Goofy Dasher |
+| 601 | 403 | Goofy Dasher |
+| 602 | 403 | Nate Skidmore |
 | 603 | 402 | Denise Rickman |
 | 604 | 401 | Jasmine Kenney |
 | 605 | 401 | Moua Ying |

@@ -62,8 +62,8 @@
 | 54 | 704 | Crystal Carroll |
 | 55 | 698 | Anthony Bryan Riva |
 | 56 | 697 | Edward White |
-| 57 | 664 | Valerie Roberts |
-| 58 | 664 | D3TROITB0RN74 |
+| 57 | 664 | D3TROITB0RN74 |
+| 58 | 664 | Valerie Roberts |
 | 59 | 659 | Jonathan Kimbrough |
 | 60 | 658 | loulou |
 | 61 | 654 | Chilly Line |
@@ -243,7 +243,7 @@
 | 235 | 190 | Cheery Risebuilder |
 | 236 | 189 | Ziggy |
 | 237 | 189 | Dihcheese444 |
-| 238 | 189 | Ziggy |
+| 238 | 189 | 030Synner |
 | 239 | 186 | Cristy Duerksen |
 | 240 | 186 | Holly |
 | 241 | 185 | Laura Hosford |

@@ -243,8 +243,8 @@
 | 235 | 193 | Lachelle Dillon |
 | 236 | 191 | J.F. Fields |
 | 237 | 191 | Perky Shiftsnap |
-| 238 | 190 | Thorne Shumate |
-| 239 | 190 | And |
+| 238 | 190 | And |
+| 239 | 190 | Thorne Shumate |
 | 240 | 190 | Sweetts |
 | 241 | 189 | Veronica Eve |
 | 242 | 187 | Jessica Weed |

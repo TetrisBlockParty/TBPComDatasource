@@ -175,8 +175,8 @@
 | 167 | 399 | Marcie Bressler |
 | 168 | 397 | Annie Déè |
 | 169 | 393 | Fallorina Susana |
-| 170 | 391 | Sarah Cowan Burgos |
-| 171 | 391 | Araceli Parra |
+| 170 | 391 | Araceli Parra |
+| 171 | 391 | Sarah Cowan Burgos |
 | 172 | 391 | Calista Jo Dickson |
 | 173 | 390 | Hasty Cascadefit |
 | 174 | 389 | Jeni Dow |
@@ -190,8 +190,8 @@
 | 182 | 374 | Sherry Ogden |
 | 183 | 373 | Chasity |
 | 184 | 372 | Giddy Twistbuilder |
-| 185 | 370 | Santeria Trece Candles |
-| 186 | 370 | Danielle Allison |
+| 185 | 370 | Danielle Allison |
+| 186 | 370 | Santeria Trece Candles |
 | 187 | 368 | Stephanie Woods |
 | 188 | 366 | Adrian Marcel Pate |
 | 189 | 363 | Tom Nault |
@@ -411,8 +411,8 @@
 | 403 | 166 | Rashad Green |
 | 404 | 166 | Joshua David Huie |
 | 405 | 165 | Kali Kelz Williams |
-| 406 | 164 | TazB |
-| 407 | 164 | momo |
+| 406 | 164 | momo |
+| 407 | 164 | TazB |
 | 408 | 164 | Ashley Rufus Bythcez |
 | 409 | 163 | Diana Ibarra |
 | 410 | 163 | Block Baddie |
@@ -475,8 +475,8 @@
 | 467 | 145 | Alison Baus |
 | 468 | 145 | Cheery Brickster |
 | 469 | 144 | Amber Groover Taylor |
-| 470 | 144 | Rachel Grant |
-| 471 | 144 | Blair Erin Waite |
+| 470 | 144 | Blair Erin Waite |
+| 471 | 144 | Rachel Grant |
 | 472 | 144 | Crystal Hine |
 | 473 | 143 | Deseree Ewing |
 | 474 | 143 | Tracey Cox |
