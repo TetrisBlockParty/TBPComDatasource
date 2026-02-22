@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 559 | H.R. Block |
 | 84 | 544 | Amy Suckarieh |
@@ -136,8 +136,8 @@
 | 128 | 338 | Lucas J Sutton |
 | 129 | 338 | ThaEviLJeNiuZ |
 | 130 | 336 | Austin Owens |
-| 131 | 332 | Desi Desporte |
-| 132 | 332 | HastyGrabber |
+| 131 | 332 | HastyGrabber |
+| 132 | 332 | Desi Desporte |
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
@@ -323,10 +323,10 @@
 | 315 | 150 | GBR |
 | 316 | 150 | Brandon Link |
 | 317 | 149 | Lora |
-| 318 | 148 | Sam Middleton |
-| 319 | 148 | Cranky Rollpiece |
-| 320 | 148 | Ruby Khalisadar |
-| 321 | 148 | Janita Parrish |
+| 318 | 148 | Cranky Rollpiece |
+| 319 | 148 | Sam Middleton |
+| 320 | 148 | Janita Parrish |
+| 321 | 148 | Ruby Khalisadar |
 | 322 | 147 | Sticherella |
 | 323 | 147 | Maureen Flanigan |
 | 324 | 147 | Jay28 |
@@ -538,8 +538,8 @@
 | 530 | 89 | Shiny Fit |
 | 531 | 89 | Jonathan Mahfood |
 | 532 | 88 | Chao Ma |
-| 533 | 88 | Nicole Silvers |
-| 534 | 88 | Joe Lonnemann |
+| 533 | 88 | Joe Lonnemann |
+| 534 | 88 | Nicole Silvers |
 | 535 | 88 | Eric Wren |
 | 536 | 87 | Martha Lucinda Bishop |
 | 537 | 87 | Derek Pendarvis |

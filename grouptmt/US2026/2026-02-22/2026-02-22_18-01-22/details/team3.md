@@ -179,8 +179,8 @@
 | 171 | 415 | ren |
 | 172 | 410 | Stephanie Simpson |
 | 173 | 407 | Jone |
-| 174 | 405 | JerseyJess |
-| 175 | 405 | Marcie Bressler |
+| 174 | 405 | Marcie Bressler |
+| 175 | 405 | JerseyJess |
 | 176 | 403 | Scott Lindsay |
 | 177 | 402 | Araceli Parra |
 | 178 | 401 | Katie Knaus |
@@ -208,8 +208,8 @@
 | 200 | 370 | Santeria Trece Candles |
 | 201 | 368 | Stephanie Woods |
 | 202 | 362 | Rochelle Hazelett |
-| 203 | 362 | Brandon Givens |
-| 204 | 362 | Loopy Fallmatch |
+| 203 | 362 | Loopy Fallmatch |
+| 204 | 362 | Brandon Givens |
 | 205 | 358 | RickyG |
 | 206 | 358 | Chummy Caster |
 | 207 | 357 | Stephanie Burtin |
@@ -350,17 +350,17 @@
 | 342 | 213 | Nicholas Roddy |
 | 343 | 213 | Jess Dearborn |
 | 344 | 212 | AlsoJess |
-| 345 | 211 | El Chapa |
-| 346 | 211 | Velma Mull |
-| 347 | 210 | Ashley Lynn Marchese |
-| 348 | 210 | Criss |
+| 345 | 211 | Velma Mull |
+| 346 | 211 | El Chapa |
+| 347 | 210 | Criss |
+| 348 | 210 | Ashley Lynn Marchese |
 | 349 | 210 | Saucy Buildout |
-| 350 | 209 | Kirhonda Autmon |
-| 351 | 209 | TotoCherue |
+| 350 | 209 | TotoCherue |
+| 351 | 209 | Kirhonda Autmon |
 | 352 | 209 | Daring Builder |
 | 353 | 208 | Karent524 |
-| 354 | 207 | angieelyn |
-| 355 | 207 | Kristian Thurman |
+| 354 | 207 | Kristian Thurman |
+| 355 | 207 | angieelyn |
 | 356 | 206 | Tammy Rosenberry |
 | 357 | 205 | Rachel Napper |
 | 358 | 204 | Cesar Barraza |
@@ -439,8 +439,8 @@
 | 431 | 167 | Arden White Kirsch |
 | 432 | 167 | Irene Arreguin |
 | 433 | 167 | Boldy Blocker |
-| 434 | 166 | Block Baddie |
-| 435 | 166 | Armi |
+| 434 | 166 | Armi |
+| 435 | 166 | Block Baddie |
 | 436 | 166 | Rashad Green |
 | 437 | 165 | Kali Kelz Williams |
 | 438 | 165 | Mary Giorgenti |

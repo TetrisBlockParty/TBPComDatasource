@@ -132,8 +132,8 @@
 | 124 | 1439 | Jumpy Gridpiece |
 | 125 | 1435 | Jessie McDougald |
 | 126 | 1418 | L3sli3 |
-| 127 | 1411 | Zappy Cascade |
-| 128 | 1411 | niecy |
+| 127 | 1411 | niecy |
+| 128 | 1411 | Zappy Cascade |
 | 129 | 1384 | Katrina Williams Balmir |
 | 130 | 1383 | Ladyrainbootz |
 | 131 | 1380 | Jose Mendoza |
@@ -369,8 +369,8 @@
 | 361 | 661 | Christine Bollig |
 | 362 | 658 | Dylan Thomason |
 | 363 | 651 | Unica Rector |
-| 364 | 650 | Shiny Rollzone |
-| 365 | 650 | Amber Brion |
+| 364 | 650 | Amber Brion |
+| 365 | 650 | Shiny Rollzone |
 | 366 | 647 | Osun Anuket Esu |
 | 367 | 644 | AgileDragon |
 | 368 | 643 | Hoppy Brickmatch |
@@ -396,8 +396,8 @@
 | 388 | 619 | Melissa Penelope Ann Dodge |
 | 389 | 617 | Darcy Mae |
 | 390 | 616 | Cassie Mercer |
-| 391 | 613 | Caitlyn Blackwell |
-| 392 | 613 | Tonya Lee |
+| 391 | 613 | Tonya Lee |
+| 392 | 613 | Caitlyn Blackwell |
 | 393 | 612 | Nicole Cannon |
 | 394 | 611 | Julio A Laracuente |
 | 395 | 605 | Biggest thing |
@@ -509,12 +509,12 @@
 | 501 | 492 | Maya June |
 | 502 | 492 | Armonie Smith |
 | 503 | 491 | Michael Buckner |
-| 504 | 491 | Victor Obiakarije |
+| 504 | 491 | Alezandra Smith |
 | 505 | 491 | Jedi |
-| 506 | 491 | Alezandra Smith |
+| 506 | 491 | Victor Obiakarije |
 | 507 | 488 | Christina Wsn |
-| 508 | 487 | Morgan Easter |
-| 509 | 487 | MrsCandyfine As Wine Truss |
+| 508 | 487 | MrsCandyfine As Wine Truss |
+| 509 | 487 | Morgan Easter |
 | 510 | 486 | JAG$*V¡LL£•FL•DuuuVaL |
 | 511 | 485 | Mamachelle Eisweirth |
 | 512 | 484 | Street Sweeper |
@@ -542,8 +542,8 @@
 | 534 | 472 | Kyle LeRoy Harris |
 | 535 | 471 | Christy Krissie |
 | 536 | 471 | Rae Rae |
-| 537 | 470 | Arlene Joy Belicina |
-| 538 | 470 | Snippy Rumbler |
+| 537 | 470 | Snippy Rumbler |
+| 538 | 470 | Arlene Joy Belicina |
 | 539 | 469 | Christy Long |
 | 540 | 469 | Spunkysmom |
 | 541 | 467 | Audrey Jones |
@@ -595,8 +595,8 @@
 | 587 | 436 | Kia Humphery |
 | 588 | 436 | Kayla |
 | 589 | 435 | CupCake |
-| 590 | 435 | James Louie |
-| 591 | 435 | Regina Young |
+| 590 | 435 | Regina Young |
+| 591 | 435 | James Louie |
 | 592 | 434 | Brenda Messer |
 | 593 | 434 | bbv |
 | 594 | 432 | Abimbola Bimbo |
@@ -607,8 +607,8 @@
 | 599 | 429 | Tabs Reichert |
 | 600 | 428 | Lynda Toland |
 | 601 | 428 | Shyenn Gadsby |
-| 602 | 427 | Sabrina Burton |
-| 603 | 427 | Destiny Cozier |
+| 602 | 427 | Destiny Cozier |
+| 603 | 427 | Sabrina Burton |
 | 604 | 426 | De Hawkins |
 | 605 | 426 | Ashley Dow |
 | 606 | 424 | Saucy Fitzone |
@@ -918,8 +918,8 @@
 | 910 | 284 | Loopy Shatterfit |
 | 911 | 284 | Candice Mack |
 | 912 | 284 | Hillary Franklin |
-| 913 | 282 | Albert McKnight |
-| 914 | 282 | Witty Piecebuilder |
+| 913 | 282 | Witty Piecebuilder |
+| 914 | 282 | Albert McKnight |
 | 915 | 282 | Poppy |
 | 916 | 282 | Abby Jensen |
 | 917 | 282 | Jannan Haimour |
@@ -932,8 +932,8 @@
 | 924 | 280 | Shindee |
 | 925 | 280 | Sandra Link-Gable |
 | 926 | 280 | Elena Vap |
-| 927 | 280 | Squirrel |
-| 928 | 280 | Emilie Desma |
+| 927 | 280 | Emilie Desma |
+| 928 | 280 | Squirrel |
 | 929 | 279 | Synn |
 | 930 | 279 | FloJo |
 | 931 | 279 | Katherin Camacho |
@@ -970,8 +970,8 @@
 | 962 | 274 | CleverAngel |
 | 963 | 274 | KT Macadocious |
 | 964 | 274 | Jamie Stevey |
-| 965 | 274 | Tim Galle |
-| 966 | 274 | Tammy Coppoletta |
+| 965 | 274 | Tammy Coppoletta |
+| 966 | 274 | Tim Galle |
 | 967 | 273 | Britt Stunkel |
 | 968 | 273 | Michele Moren |
 | 969 | 273 | Erika Deer Kauffman |
@@ -991,8 +991,8 @@
 | 983 | 271 | Sedo |
 | 984 | 271 | Amber N Koepp |
 | 985 | 270 | Lexa Craft Davidson |
-| 986 | 270 | Meganator42 |
-| 987 | 270 | BK Queen |
+| 986 | 270 | BK Queen |
+| 987 | 270 | Meganator42 |
 | 988 | 270 | Kimmie Zimmerman-Rocha |
 | 989 | 269 | Queen |
 | 990 | 268 | Chummy Breaker |

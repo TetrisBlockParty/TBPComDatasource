@@ -108,8 +108,8 @@
 | 100 | 400 | Cynthia Bradley |
 | 101 | 395 | Nery Martinez |
 | 102 | 390 | Candy Jones |
-| 103 | 390 | Goose egg |
-| 104 | 390 | Lori Bales |
+| 103 | 390 | Lori Bales |
+| 104 | 390 | Goose egg |
 | 105 | 385 | Brenda Stewart |
 | 106 | 383 | pjbeta |
 | 107 | 380 | Dee Perry |
@@ -138,8 +138,8 @@
 | 130 | 333 | Gracie |
 | 131 | 332 | Kristen Gideon |
 | 132 | 328 | Fmp |
-| 133 | 326 | Monica Donato |
-| 134 | 326 | Lehrin Maria |
+| 133 | 326 | Lehrin Maria |
+| 134 | 326 | Monica Donato |
 | 135 | 325 | Jennifer Hardman |
 | 136 | 321 | Maria C. Hernandez |
 | 137 | 321 | Tanya Carpenter-Reynolds |
@@ -209,8 +209,8 @@
 | 201 | 238 | Tiffany Smith |
 | 202 | 237 | Veronica Eve |
 | 203 | 236 | femmefatale |
-| 204 | 235 | MRdot Rooski |
-| 205 | 235 | Desiree Deschaine Havee |
+| 204 | 235 | Desiree Deschaine Havee |
+| 205 | 235 | MRdot Rooski |
 | 206 | 234 | Paula Martin |
 | 207 | 233 | LC |
 | 208 | 228 | Cheeky Pop |
