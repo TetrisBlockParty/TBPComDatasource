@@ -44,8 +44,8 @@
 | 36 | 873 | Elizabeth Sallas |
 | 37 | 871 | Denny Shives |
 | 38 | 846 | Christine Marie |
-| 39 | 843 | Lucille Truesdale |
-| 40 | 843 | Shelly Chandler |
+| 39 | 843 | Shelly Chandler |
+| 40 | 843 | Lucille Truesdale |
 | 41 | 836 | LisaJo Picken Buchanan |
 | 42 | 834 | quicksand420 |
 | 43 | 832 | Jae Job |
@@ -169,16 +169,16 @@
 | 161 | 271 | Sarah Brown |
 | 162 | 269 | Nikki Rae Gordon |
 | 163 | 268 | Mimi |
-| 164 | 268 | Cursed Hag |
-| 165 | 268 | Trista Leah |
+| 164 | 268 | Trista Leah |
+| 165 | 268 | Cursed Hag |
 | 166 | 267 | Kathy Brookins |
 | 167 | 267 | Casey Grabner |
 | 168 | 267 | Damn Libra |
 | 169 | 266 | Laura |
 | 170 | 265 | Jeff Brian Gates |
 | 171 | 265 | Chris Bernstein |
-| 172 | 264 | Epic Curvetile |
-| 173 | 264 | Girl |
+| 172 | 264 | Girl |
+| 173 | 264 | Epic Curvetile |
 | 174 | 262 | Joeliecea Cobb |
 | 175 | 262 | Holly Jolly |
 | 176 | 262 | Juls |
@@ -280,12 +280,12 @@
 | 272 | 165 | Zappy Buildgrid |
 | 273 | 164 | Marvetta Williams |
 | 274 | 163 | Ellen Durfee |
-| 275 | 162 | John Brunetti |
-| 276 | 162 | Gwendolyn Pitcairn |
-| 277 | 162 | Cynthia Boudreau |
-| 278 | 162 | conceptCollector |
-| 279 | 161 | Tanner Lund |
-| 280 | 161 | Matt Gooder |
+| 275 | 162 | Gwendolyn Pitcairn |
+| 276 | 162 | John Brunetti |
+| 277 | 162 | conceptCollector |
+| 278 | 162 | Cynthia Boudreau |
+| 279 | 161 | Matt Gooder |
+| 280 | 161 | Tanner Lund |
 | 281 | 161 | Twisty Risebuilder |
 | 282 | 159 | Marcus Todd |
 | 283 | 159 | DonMega |
@@ -347,8 +347,8 @@
 | 339 | 141 | Montiette Mcglown |
 | 340 | 141 | Tony Pavelka |
 | 341 | 140 | Rico |
-| 342 | 139 | Lori Goudy |
-| 343 | 139 | O block |
+| 342 | 139 | O block |
+| 343 | 139 | Lori Goudy |
 | 344 | 138 | Ashlee Carnes |
 | 345 | 138 | Jasmine S Caldwell |
 | 346 | 138 | Moonsterix |
@@ -385,9 +385,9 @@
 | 377 | 128 | Denise B |
 | 378 | 127 | Frank Cook |
 | 379 | 127 | Robert Rodriguez |
-| 380 | 126 | PAPatty |
+| 380 | 126 | Jim Hart |
 | 381 | 126 | Cheryl Johnson |
-| 382 | 126 | Jim Hart |
+| 382 | 126 | PAPatty |
 | 383 | 126 | Amy Sanford |
 | 384 | 125 | Steph Marie |
 | 385 | 125 | Sallie Sanborn |
@@ -1250,7 +1250,7 @@
 | 1242 | 20 | Sarah Lee |
 | 1243 | 20 | Kim Houston Vickrey |
 | 1244 | 20 | Kaung San |
-| 1245 | 20 | Kim Houston Vickrey |
+| 1245 | 20 | Malisa Brookins |
 | 1246 | 19 | Loony Rotater |
 | 1247 | 19 | Niki Bush |
 | 1248 | 19 | Bubbly Crawler |

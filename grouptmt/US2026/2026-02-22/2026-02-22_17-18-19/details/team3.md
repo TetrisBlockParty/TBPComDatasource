@@ -234,8 +234,8 @@
 | 226 | 320 | Ashley Muncey |
 | 227 | 316 | Staci George Fitzsimmons |
 | 228 | 315 | Kammy Hill |
-| 229 | 312 | Charles Perrone |
-| 230 | 312 | Marci Mize Fandrich |
+| 229 | 312 | Marci Mize Fandrich |
+| 230 | 312 | Charles Perrone |
 | 231 | 311 | Peppy Shifter |
 | 232 | 311 | Rania Zaqout |
 | 233 | 307 | rnr junky |
@@ -280,10 +280,10 @@
 | 272 | 266 | Snappy Balancer |
 | 273 | 265 | Nikki Pags |
 | 274 | 263 | Brenda Schmid Wood |
-| 275 | 262 | Joe-Maggie Mathews |
-| 276 | 262 | Ray Lader |
-| 277 | 261 | Tiffany Ford |
-| 278 | 261 | Foltz Lee Kelli |
+| 275 | 262 | Ray Lader |
+| 276 | 262 | Joe-Maggie Mathews |
+| 277 | 261 | Foltz Lee Kelli |
+| 278 | 261 | Tiffany Ford |
 | 279 | 260 | Grams |
 | 280 | 259 | Michael Johnson |
 | 281 | 258 | IamJust Neyamijah Washington Sr. |

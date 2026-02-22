@@ -94,8 +94,8 @@
 | 86 | 443 | Steve Schneider |
 | 87 | 436 | Tonya Beasley |
 | 88 | 434 | Loony Fitzone |
-| 89 | 433 | Trina Gee |
-| 90 | 433 | Tinah Montanna |
+| 89 | 433 | Tinah Montanna |
+| 90 | 433 | Trina Gee |
 | 91 | 429 | Tdub |
 | 92 | 428 | Stephanie Zahn |
 | 93 | 418 | Jazzy Framezone |
