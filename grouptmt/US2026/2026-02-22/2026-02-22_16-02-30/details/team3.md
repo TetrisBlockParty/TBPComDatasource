@@ -117,8 +117,8 @@
 | 109 | 568 | Rachael McClain Owens |
 | 110 | 566 | Dolores Falco |
 | 111 | 565 | Patty Allen |
-| 112 | 562 | Dave Herzog |
-| 113 | 562 | Louise Stacy Sisson |
+| 112 | 562 | Louise Stacy Sisson |
+| 113 | 562 | Dave Herzog |
 | 114 | 554 | joclisa |
 | 115 | 554 | Kristie |
 | 116 | 549 | Nicole Myers |
@@ -249,13 +249,13 @@
 | 241 | 286 | Cynthia Herrmann Egland |
 | 242 | 284 | Denise Nardoni |
 | 243 | 283 | Cheeky Snapper |
-| 244 | 283 | Eon Harris |
-| 245 | 283 | Sarah Moyer |
+| 244 | 283 | Sarah Moyer |
+| 245 | 283 | Eon Harris |
 | 246 | 282 | Marquita Sheard |
 | 247 | 281 | Carrie Huskey |
 | 248 | 279 | Terry Jo Jones |
-| 249 | 278 | Sabrina Hardrick |
-| 250 | 278 | Rufus Lincoln |
+| 249 | 278 | Rufus Lincoln |
+| 250 | 278 | Sabrina Hardrick |
 | 251 | 276 | _melisa223_ |
 | 252 | 276 | Crimson |
 | 253 | 275 | Cassandra Bryant |
@@ -317,8 +317,8 @@
 | 309 | 220 | Tosha Griffey |
 | 310 | 217 | Twisty Brick LT |
 | 311 | 216 | Cheryl Hinch Tenbrook |
-| 312 | 216 | Frothy Snapper |
-| 313 | 216 | Tina Smith Roy |
+| 312 | 216 | Tina Smith Roy |
+| 313 | 216 | Frothy Snapper |
 | 314 | 214 | Amy Fuller Heaton |
 | 315 | 214 | Randy Clevenger |
 | 316 | 214 | Jennifer Alvey |
@@ -338,8 +338,8 @@
 | 330 | 208 | AlsoJess |
 | 331 | 208 | Niki Dalrymple |
 | 332 | 207 | angieelyn |
-| 333 | 207 | Jessica |
-| 334 | 207 | Daring Builder |
+| 333 | 207 | Daring Builder |
+| 334 | 207 | Jessica |
 | 335 | 206 | Tammy Rosenberry |
 | 336 | 205 | Rachel Napper |
 | 337 | 205 | Kirhonda Autmon |
@@ -392,12 +392,12 @@
 | 384 | 178 | Joy Petroski |
 | 385 | 178 | Christian Luna |
 | 386 | 177 | Kristin Delibac Corrigan |
-| 387 | 176 | Skinny Baldez |
-| 388 | 176 | Emma |
+| 387 | 176 | Emma |
+| 388 | 176 | Skinny Baldez |
 | 389 | 175 | Michael Latasha Gray |
 | 390 | 175 | Wacky Crasher |
-| 391 | 174 | Lesley Perez |
-| 392 | 174 | Sierra Spencer |
+| 391 | 174 | Sierra Spencer |
+| 392 | 174 | Lesley Perez |
 | 393 | 173 | Kiki |
 | 394 | 173 | MizzMonick Smith |
 | 395 | 172 | Jl |

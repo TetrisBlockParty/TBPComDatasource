@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -75,8 +75,8 @@
 | 67 | 638 | Julian Garcia |
 | 68 | 620 | Landon Keith Graffeo |
 | 69 | 614 | TheNeesh50 |
-| 70 | 608 | Savannah Overdorf |
-| 71 | 608 | Avy Absol |
+| 70 | 608 | Avy Absol |
+| 71 | 608 | Savannah Overdorf |
 | 72 | 600 | Michelle Marie |
 | 73 | 599 | Brittney Griggs |
 | 74 | 593 | Lisa Davis |
@@ -168,8 +168,8 @@
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
 | 162 | 267 | Damn Libra |
-| 163 | 265 | Chris Bernstein |
-| 164 | 265 | Jeff Brian Gates |
+| 163 | 265 | Jeff Brian Gates |
+| 164 | 265 | Chris Bernstein |
 | 165 | 264 | Epic Curvetile |
 | 166 | 264 | Girl |
 | 167 | 262 | Holly Jolly |
@@ -182,10 +182,10 @@
 | 174 | 253 | Casey Grabner |
 | 175 | 251 | Matt Summer |
 | 176 | 250 | Matt Dell'Olio |
-| 177 | 245 | Peachy Fall |
-| 178 | 245 | Autum Leigh |
-| 179 | 244 | J-Rizzle |
-| 180 | 244 | Mimi |
+| 177 | 245 | Autum Leigh |
+| 178 | 245 | Peachy Fall |
+| 179 | 244 | Mimi |
+| 180 | 244 | J-Rizzle |
 | 181 | 244 | Twisty Cascadezone |
 | 182 | 241 | Jose Dejesus |
 | 183 | 241 | Allen Lloyd |
@@ -202,13 +202,13 @@
 | 194 | 221 | PurpleMoonMa |
 | 195 | 221 | Rheanda Weaskus |
 | 196 | 217 | Kim Hunt |
-| 197 | 216 | Cristy Duerksen |
-| 198 | 216 | ZeeZee |
+| 197 | 216 | ZeeZee |
+| 198 | 216 | Cristy Duerksen |
 | 199 | 216 | Chance Strickland |
 | 200 | 215 | Laura |
 | 201 | 215 | Ziggy |
-| 202 | 213 | Jason Allen |
-| 203 | 213 | Sarah Neathery |
+| 202 | 213 | Sarah Neathery |
+| 203 | 213 | Jason Allen |
 | 204 | 212 | Mike Solo |
 | 205 | 212 | Joanna |
 | 206 | 211 | Jenna McGeorge |
