@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Lucille Truesdale |
-| 39 | 843 | Shelly Chandler |
+| 38 | 843 | Shelly Chandler |
+| 39 | 843 | Lucille Truesdale |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -75,8 +75,8 @@
 | 67 | 614 | TheNeesh50 |
 | 68 | 608 | Avy Absol |
 | 69 | 600 | Michelle Marie |
-| 70 | 599 | Savannah Overdorf |
-| 71 | 599 | Brittney Griggs |
+| 70 | 599 | Brittney Griggs |
+| 71 | 599 | Savannah Overdorf |
 | 72 | 593 | Lisa Davis |
 | 73 | 588 | Eric Mcgaughy |
 | 74 | 575 | Jeremy Steines |
@@ -151,8 +151,8 @@
 | 143 | 289 | Jessica Lynn Cutlip |
 | 144 | 286 | shark tato |
 | 145 | 283 | Brittney Orengo |
-| 146 | 281 | Meagan Nicole |
-| 147 | 281 | Lindsay Ball |
+| 146 | 281 | Lindsay Ball |
+| 147 | 281 | Meagan Nicole |
 | 148 | 278 | Leah Kutz Zirbel |
 | 149 | 277 | Mary Ann Pabukis |
 | 150 | 275 | Dizzy Tiley |

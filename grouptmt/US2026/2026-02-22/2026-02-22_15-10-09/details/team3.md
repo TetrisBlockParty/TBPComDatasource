@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Shonna Roberts |
-| 60 | 895 | Amanda L Baker |
+| 59 | 895 | Amanda L Baker |
+| 60 | 895 | Shonna Roberts |
 | 61 | 893 | Khristen AC |
 | 62 | 892 | Raven Dudley |
 | 63 | 882 | Susan Valentino |
@@ -115,8 +115,8 @@
 | 107 | 568 | Rachael McClain Owens |
 | 108 | 566 | Dolores Falco |
 | 109 | 565 | Patty Allen |
-| 110 | 562 | Dave Herzog |
-| 111 | 562 | Louise Stacy Sisson |
+| 110 | 562 | Louise Stacy Sisson |
+| 111 | 562 | Dave Herzog |
 | 112 | 559 | Morgan Martinez |
 | 113 | 551 | Kristie |
 | 114 | 549 | Nicole Myers |
@@ -136,8 +136,8 @@
 | 128 | 492 | Daira Largen |
 | 129 | 491 | Chauntee Alfrey-Cardinale |
 | 130 | 480 | Stephanie Blkpep Davidson |
-| 131 | 479 | Patti Skiles |
-| 132 | 479 | Poppy Splitter |
+| 131 | 479 | Poppy Splitter |
+| 132 | 479 | Patti Skiles |
 | 133 | 478 | CeceGeGe |
 | 134 | 473 | mzcatzy |
 | 135 | 471 | Mendoza Lee Christy |
@@ -170,8 +170,8 @@
 | 162 | 403 | Scott Lindsay |
 | 163 | 401 | Katie Knaus |
 | 164 | 400 | Luciana Braganca Vieira |
-| 165 | 399 | Mcathen |
-| 166 | 399 | Marcie Bressler |
+| 165 | 399 | Marcie Bressler |
+| 166 | 399 | Mcathen |
 | 167 | 397 | Annie Déè |
 | 168 | 393 | Fallorina Susana |
 | 169 | 391 | Sarah Cowan Burgos |
@@ -366,8 +366,8 @@
 | 358 | 186 | Noettín Kan Zasnemoore |
 | 359 | 186 | Sameerah Smith |
 | 360 | 185 | Angella Lyons |
-| 361 | 184 | Shanon R Jackson |
-| 362 | 184 | Troy |
+| 361 | 184 | Troy |
+| 362 | 184 | Shanon R Jackson |
 | 363 | 184 | Salena Whitlock |
 | 364 | 183 | Naur |
 | 365 | 182 | gremicx |
@@ -402,8 +402,8 @@
 | 394 | 166 | Rashad Green |
 | 395 | 166 | Snarky McFace |
 | 396 | 165 | Kali Kelz Williams |
-| 397 | 164 | TazB |
-| 398 | 164 | momo |
+| 397 | 164 | momo |
+| 398 | 164 | TazB |
 | 399 | 164 | Ashley Rufus Bythcez |
 | 400 | 163 | Christine Trester |
 | 401 | 163 | Diana Ibarra |
