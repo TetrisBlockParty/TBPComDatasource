@@ -71,8 +71,8 @@
 | 63 | 649 | MissTaylor |
 | 64 | 639 | Elaine Webb Graves |
 | 65 | 628 | Tiff Vs Tiffany |
-| 66 | 621 | Cherry Parker |
-| 67 | 621 | Jessica Bechler |
+| 66 | 621 | Jessica Bechler |
+| 67 | 621 | Cherry Parker |
 | 68 | 619 | Jennifer |
 | 69 | 618 | Brandon Green |
 | 70 | 613 | Amber Hughes |
@@ -120,8 +120,8 @@
 | 112 | 410 | Stephanie Blkpep Davidson |
 | 113 | 410 | Stephanie Simpson |
 | 114 | 405 | Michelle |
-| 115 | 403 | FuzzyNavel |
-| 116 | 403 | Christine Filson |
+| 115 | 403 | Christine Filson |
+| 116 | 403 | FuzzyNavel |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 400 | Jesse Olive |
 | 119 | 399 | Patti Skiles |
@@ -149,8 +149,8 @@
 | 141 | 347 | Louise Stacy Sisson |
 | 142 | 347 | Nicole Flippo |
 | 143 | 343 | Chasity |
-| 144 | 328 | Dapper Snap |
-| 145 | 328 | Aaron Pitkin |
+| 144 | 328 | Aaron Pitkin |
+| 145 | 328 | Dapper Snap |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |
@@ -251,8 +251,8 @@
 | 243 | 189 | Katie Leigh Blankenship |
 | 244 | 188 | JerseyJess |
 | 245 | 185 | AlsoJess |
-| 246 | 184 | France Vézina |
-| 247 | 184 | Troy |
+| 246 | 184 | Troy |
+| 247 | 184 | France Vézina |
 | 248 | 181 | Nicholas Roddy |
 | 249 | 180 | Brittany |
 | 250 | 180 | Loopy Fallmatch |

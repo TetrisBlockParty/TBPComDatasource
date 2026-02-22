@@ -85,10 +85,10 @@
 | 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
-| 80 | 328 | Kellie |
-| 81 | 328 | Gracie |
-| 82 | 323 | Sweet Baker |
-| 83 | 323 | Candy Jones |
+| 80 | 328 | Gracie |
+| 81 | 328 | Kellie |
+| 82 | 323 | Candy Jones |
+| 83 | 323 | Sweet Baker |
 | 84 | 321 | Maria C. Hernandez |
 | 85 | 319 | Deanna L Hermanson |
 | 86 | 319 | Shauna Loe |
@@ -115,8 +115,8 @@
 | 107 | 275 | Bhelle Sumile |
 | 108 | 273 | Happy Basegrid |
 | 109 | 272 | Rachael |
-| 110 | 263 | Sharon Reynolds |
-| 111 | 263 | Jason Jones |
+| 110 | 263 | Jason Jones |
+| 111 | 263 | Sharon Reynolds |
 | 112 | 262 | Dandy Basegrid |
 | 113 | 261 | Monica Donato |
 | 114 | 257 | june october |
@@ -150,8 +150,8 @@
 | 142 | 198 | Shiny Gridmatch |
 | 143 | 198 | Happy Snapbuild |
 | 144 | 195 | Daring Fitclear |
-| 145 | 194 | Tyler Werts |
-| 146 | 194 | Ash Galvan |
+| 145 | 194 | Ash Galvan |
+| 146 | 194 | Tyler Werts |
 | 147 | 193 | Lachelle Dillon |
 | 148 | 192 | Shaykmia |
 | 149 | 192 | Jessica Sheehan |
@@ -215,8 +215,8 @@
 | 207 | 144 | Gary Gobin |
 | 208 | 144 | Miguel Teixeira |
 | 209 | 142 | Colleen Wise |
-| 210 | 141 | Blaire Bruckoff |
-| 211 | 141 | Dino |
+| 210 | 141 | Dino |
+| 211 | 141 | Blaire Bruckoff |
 | 212 | 139 | Flashy Rotator |
 | 213 | 138 | Giddy Cascade |
 | 214 | 138 | Mark Smith |

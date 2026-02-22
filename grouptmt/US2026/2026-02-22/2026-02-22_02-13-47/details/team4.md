@@ -88,8 +88,8 @@
 | 80 | 370 | Leslie Thomas |
 | 81 | 369 | Nope Young |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Shane Kalamata Platoon |
-| 84 | 358 | Nugget |
+| 83 | 358 | Nugget |
+| 84 | 358 | Shane Kalamata Platoon |
 | 85 | 319 | Livvy |
 | 86 | 314 | Amanda Pauldo-Ivy |
 | 87 | 311 | David Lay |
@@ -129,8 +129,8 @@
 | 121 | 222 | Joeliecea Cobb |
 | 122 | 221 | Alyssa Papen |
 | 123 | 221 | PurpleMoonMa |
-| 124 | 220 | Matt Dell'Olio |
-| 125 | 220 | Mary Ann Pabukis |
+| 124 | 220 | Mary Ann Pabukis |
+| 125 | 220 | Matt Dell'Olio |
 | 126 | 218 | Casey Grabner |
 | 127 | 218 | Antony Dwayne Beasley |
 | 128 | 217 | Chaz Duncan |
@@ -148,8 +148,8 @@
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jenna McGeorge |
-| 144 | 196 | Jeff Brian Gates |
+| 143 | 196 | Jeff Brian Gates |
+| 144 | 196 | Jenna McGeorge |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |

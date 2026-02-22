@@ -309,8 +309,8 @@
 | 301 | 513 | Matt Johnson |
 | 302 | 513 | Crystie Hicks |
 | 303 | 511 | Laura Mclean |
-| 304 | 509 | Kelli Wells |
-| 305 | 509 | Jordan Kaiser |
+| 304 | 509 | Jordan Kaiser |
+| 305 | 509 | Kelli Wells |
 | 306 | 507 | Magic steve |
 | 307 | 502 | Sparkles |
 | 308 | 502 | Em Chen |
