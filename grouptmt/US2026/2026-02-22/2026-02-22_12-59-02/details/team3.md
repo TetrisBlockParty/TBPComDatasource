@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Amanda L Baker |
-| 59 | 895 | Shonna Roberts |
+| 58 | 895 | Shonna Roberts |
+| 59 | 895 | Amanda L Baker |
 | 60 | 886 | Khristen AC |
 | 61 | 882 | Susan Valentino |
 | 62 | 874 | Nate Burnside |
@@ -222,18 +222,18 @@
 | 214 | 298 | MsBee |
 | 215 | 297 | Jojo M |
 | 216 | 297 | Keis |
-| 217 | 296 | Katrina Turner |
-| 218 | 296 | Ammmmmmy |
+| 217 | 296 | Ammmmmmy |
+| 218 | 296 | Katrina Turner |
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Hoppy Buildout |
-| 223 | 289 | Duane Bright |
+| 222 | 289 | Duane Bright |
+| 223 | 289 | Hoppy Buildout |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
-| 227 | 283 | Cheeky Snapper |
-| 228 | 283 | Charles Perrone |
+| 227 | 283 | Charles Perrone |
+| 228 | 283 | Cheeky Snapper |
 | 229 | 281 | Valerie Gendron |
 | 230 | 278 | Sabrina Hardrick |
 | 231 | 278 | Rufus Lincoln |
@@ -251,8 +251,8 @@
 | 243 | 267 | Terry Jo Jones |
 | 244 | 263 | Brittany |
 | 245 | 262 | Joe-Maggie Mathews |
-| 246 | 261 | Tasha Wesson-Torrence |
-| 247 | 261 | Tiffany Ford |
+| 246 | 261 | Tiffany Ford |
+| 247 | 261 | Tasha Wesson-Torrence |
 | 248 | 261 | Marquita Sheard |
 | 249 | 260 | Grams |
 | 250 | 259 | Danielle Weikel |
@@ -271,8 +271,8 @@
 | 263 | 240 | Jimmie Clemons |
 | 264 | 238 | LaTanya GeminiondaRise Johnson |
 | 265 | 236 | Jess Bissett |
-| 266 | 235 | Brenda Schmid Wood |
-| 267 | 235 | Cozy Snaplink |
+| 266 | 235 | Cozy Snaplink |
+| 267 | 235 | Brenda Schmid Wood |
 | 268 | 234 | Connie Mohler-Fair |
 | 269 | 233 | Ray Lader |
 | 270 | 233 | Josh Borquez |

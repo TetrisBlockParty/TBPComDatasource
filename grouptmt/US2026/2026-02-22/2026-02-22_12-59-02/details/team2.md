@@ -215,8 +215,8 @@
 | 207 | 919 | Isaac Trappiel IV |
 | 208 | 916 | Butta |
 | 209 | 915 | Kelly Trent |
-| 210 | 910 | Shuany Arias |
-| 211 | 910 | Crystal Hoffman |
+| 210 | 910 | Crystal Hoffman |
+| 211 | 910 | Shuany Arias |
 | 212 | 907 | Gene Mills |
 | 213 | 901 | Jennifer Peachey |
 | 214 | 894 | Auntie B |
@@ -312,8 +312,8 @@
 | 304 | 688 | ShinyRose |
 | 305 | 687 | Dee |
 | 306 | 686 | Ashley Guernsey-Martin |
-| 307 | 685 | Binyah-Binyah |
-| 308 | 685 | Brenda Pierpoint |
+| 307 | 685 | Brenda Pierpoint |
+| 308 | 685 | Binyah-Binyah |
 | 309 | 681 | Melissa Holsinger |
 | 310 | 679 | Eric Castaneda |
 | 311 | 679 | Kassandra Hunt |
@@ -452,8 +452,8 @@
 | 444 | 492 | Breezy Clusterer |
 | 445 | 492 | Armonie Smith |
 | 446 | 491 | Michael Buckner |
-| 447 | 491 | Jedi |
-| 448 | 491 | Victor Obiakarije |
+| 447 | 491 | Victor Obiakarije |
+| 448 | 491 | Jedi |
 | 449 | 489 | Cassie Mercer |
 | 450 | 489 | Andrea Maher |
 | 451 | 489 | Osun Anuket Esu |
@@ -565,8 +565,8 @@
 | 557 | 411 | Mighty Spinbuilder |
 | 558 | 410 | Nicole Cannon |
 | 559 | 409 | Angi Harrison |
-| 560 | 408 | Stefanie Zonzini-Gagliardi |
-| 561 | 408 | Abimbola Bimbo |
+| 560 | 408 | Abimbola Bimbo |
+| 561 | 408 | Stefanie Zonzini-Gagliardi |
 | 562 | 408 | Brandon Jones |
 | 563 | 407 | Tipsy Filler |
 | 564 | 407 | Goofy Catcher |
@@ -602,8 +602,8 @@
 | 594 | 389 | Kayla |
 | 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
-| 597 | 387 | Misti Markijohn |
-| 598 | 387 | Bold Brickster |
+| 597 | 387 | Bold Brickster |
+| 598 | 387 | Misti Markijohn |
 | 599 | 385 | Tansaria Couch-Butler |
 | 600 | 384 | Mary Marie |
 | 601 | 384 | Jennifer Scott |

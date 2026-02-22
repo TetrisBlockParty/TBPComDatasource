@@ -80,8 +80,8 @@
 | 72 | 533 | Chris Baggett |
 | 73 | 533 | Eric Mcgaughy |
 | 74 | 530 | Yoset Mejia |
-| 75 | 524 | Amelpss |
-| 76 | 524 | Carolyn Wallace |
+| 75 | 524 | Carolyn Wallace |
+| 76 | 524 | Amelpss |
 | 77 | 523 | Dawn Alexander |
 | 78 | 517 | H.R. Block |
 | 79 | 512 | Casey Jeffcoat |
@@ -109,8 +109,8 @@
 | 101 | 396 | Alicia Bass |
 | 102 | 393 | Carlton Unfiltered |
 | 103 | 392 | Ericca Eldridge |
-| 104 | 391 | Ramel Rhodes |
-| 105 | 391 | Monica Daley |
+| 104 | 391 | Monica Daley |
+| 105 | 391 | Ramel Rhodes |
 | 106 | 387 | Denise Carlson |
 | 107 | 387 | Ren Mc |
 | 108 | 382 | Marie-Pier Desjardins |
@@ -183,8 +183,8 @@
 | 175 | 217 | Kim Hunt |
 | 176 | 217 | Angela Srubar-Norman |
 | 177 | 215 | Jessica Bohlken |
-| 178 | 213 | Sarah Neathery |
-| 179 | 213 | Jason Allen |
+| 178 | 213 | Jason Allen |
+| 179 | 213 | Sarah Neathery |
 | 180 | 212 | Mike Solo |
 | 181 | 211 | Jenna McGeorge |
 | 182 | 210 | Zethra Prenisha Rahming |
@@ -192,8 +192,8 @@
 | 184 | 209 | Porkobello |
 | 185 | 207 | Chirpy Basepiece |
 | 186 | 205 | Kathy Brookins |
-| 187 | 204 | Carlos Ramirez |
-| 188 | 204 | Jen Caldwell |
+| 187 | 204 | Jen Caldwell |
+| 188 | 204 | Carlos Ramirez |
 | 189 | 203 | Katherine Crane |
 | 190 | 202 | TRCuse |
 | 191 | 202 | Patron Anderson |
@@ -339,8 +339,8 @@
 | 331 | 128 | Kristin MacDonald |
 | 332 | 128 | Elie Pean |
 | 333 | 127 | Robert Rodriguez |
-| 334 | 126 | PAPatty |
-| 335 | 126 | Cheryl Johnson |
+| 334 | 126 | Cheryl Johnson |
+| 335 | 126 | PAPatty |
 | 336 | 126 | icequeenx |
 | 337 | 125 | Steph Marie |
 | 338 | 125 | Ann G. Carrillo |
