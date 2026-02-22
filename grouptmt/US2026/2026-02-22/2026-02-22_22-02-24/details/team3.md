@@ -154,8 +154,8 @@
 | 146 | 517 | Denise Nardoni |
 | 147 | 516 | Elissa S-k |
 | 148 | 512 | Silly Twist |
-| 149 | 506 | Sashay Tapae Simpson |
-| 150 | 506 | Stephanie Blkpep Davidson |
+| 149 | 506 | Stephanie Blkpep Davidson |
+| 150 | 506 | Sashay Tapae Simpson |
 | 151 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 152 | 501 | Patti Skiles |
 | 153 | 500 | Marcie Bressler |

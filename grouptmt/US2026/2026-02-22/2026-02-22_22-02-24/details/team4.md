@@ -78,8 +78,8 @@
 | 70 | 664 | loulou |
 | 71 | 659 | Jonathan Kimbrough |
 | 72 | 655 | Carolyn Wallace |
-| 73 | 647 | Shauna Havard |
-| 74 | 647 | KM8 |
+| 73 | 647 | KM8 |
+| 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 633 | Lisa Davis |
 | 77 | 626 | Brittney Griggs |
@@ -198,8 +198,8 @@
 | 190 | 272 | Alan George LaRage |
 | 191 | 272 | Dennis Bradley |
 | 192 | 271 | Sarah Brown |
-| 193 | 270 | Juls |
-| 194 | 270 | Joeliecea Cobb |
+| 193 | 270 | Joeliecea Cobb |
+| 194 | 270 | Juls |
 | 195 | 269 | Nikki Rae Gordon |
 | 196 | 268 | Mimi |
 | 197 | 268 | Porkobello |

@@ -149,8 +149,8 @@
 | 141 | 1450 | Cody Smith-Candelaria |
 | 142 | 1418 | L3sli3 |
 | 143 | 1412 | Angi Harrison |
-| 144 | 1411 | niecy |
-| 145 | 1411 | Zappy Cascade |
+| 144 | 1411 | Zappy Cascade |
+| 145 | 1411 | niecy |
 | 146 | 1401 | Brandy Andre |
 | 147 | 1397 | Bussyiano Page |
 | 148 | 1390 | Erica Williams |
@@ -170,8 +170,8 @@
 | 162 | 1296 | Kristin Ruest |
 | 163 | 1294 | Ashley House |
 | 164 | 1286 | Altamirano Michael |
-| 165 | 1282 | Tanya Parsons |
-| 166 | 1282 | Ashley Rose Frederick |
+| 165 | 1282 | Ashley Rose Frederick |
+| 166 | 1282 | Tanya Parsons |
 | 167 | 1271 | Shandrica Lowe |
 | 168 | 1260 | Joshua Sommerville |
 | 169 | 1257 | Michele Gabriel |
@@ -461,8 +461,8 @@
 | 453 | 594 | Irene Jones |
 | 454 | 591 | Kimberly Hope Howell |
 | 455 | 589 | Shavonna Haynes |
-| 456 | 589 | Kelly Templeton |
-| 457 | 589 | Thomas Hedrick |
+| 456 | 589 | Thomas Hedrick |
+| 457 | 589 | Kelly Templeton |
 | 458 | 585 | Sheronda Jackson |
 | 459 | 584 | Ryan Stadel |
 | 460 | 583 | Ann Matzkanin |
@@ -617,8 +617,8 @@
 | 609 | 459 | Shyenn Gadsby |
 | 610 | 458 | Kia Humphery |
 | 611 | 457 | Abimbola Bimbo |
-| 612 | 456 | Misty Mitchell |
-| 613 | 456 | Samantha Scibelli |
+| 612 | 456 | Samantha Scibelli |
+| 613 | 456 | Misty Mitchell |
 | 614 | 456 | Kacee Conrad Bock |
 | 615 | 454 | Joice Hansen |
 | 616 | 453 | Mike Aprilliano |
@@ -650,8 +650,8 @@
 | 642 | 433 | Tabs Reichert |
 | 643 | 433 | Tom Steffen |
 | 644 | 431 | Joel Rosado |
-| 645 | 431 | Hunter Connors |
-| 646 | 431 | Quinn |
+| 645 | 431 | Quinn |
+| 646 | 431 | Hunter Connors |
 | 647 | 430 | De Hawkins |
 | 648 | 430 | Chummy Blockbuilder |
 | 649 | 429 | Goofy Catcher |
@@ -659,8 +659,8 @@
 | 651 | 428 | Epic Stackzone |
 | 652 | 427 | Destiny Cozier |
 | 653 | 427 | RaeVan Worthington |
-| 654 | 426 | Tyler C. Jung |
-| 655 | 426 | Courtney Burcham |
+| 654 | 426 | Courtney Burcham |
+| 655 | 426 | Tyler C. Jung |
 | 656 | 426 | Cleo Sims |
 | 657 | 426 | Austin Wilson |
 | 658 | 425 | Snappy snappers |
@@ -816,8 +816,8 @@
 | 808 | 354 | Katherin Camacho |
 | 809 | 354 | Del Davis |
 | 810 | 353 | Danielle Ayoub |
-| 811 | 352 | Jean FU Jagielski |
-| 812 | 352 | Mary Boss |
+| 811 | 352 | Mary Boss |
+| 812 | 352 | Jean FU Jagielski |
 | 813 | 352 | apokolypse |
 | 814 | 351 | Christina Walker |
 | 815 | 351 | Twisty Tetriblast |
@@ -862,8 +862,8 @@
 | 854 | 338 | Adrian Benitez |
 | 855 | 338 | Luke Califf |
 | 856 | 338 | Rebecca Garland |
-| 857 | 337 | Sassy Pattern |
-| 858 | 337 | Catherine Marsh Gruda |
+| 857 | 337 | Catherine Marsh Gruda |
+| 858 | 337 | Sassy Pattern |
 | 859 | 337 | Tum |
 | 860 | 336 | Crystal Cornelius |
 | 861 | 336 | Ashley Criner |
@@ -912,10 +912,10 @@
 | 904 | 317 | Jumpy Gridclear |
 | 905 | 317 | Nancy Pohlman |
 | 906 | 316 | Macy Jarrett |
-| 907 | 316 | Nutty Slice |
+| 907 | 316 | LeVeL27 |
 | 908 | 316 | Megan Phillips |
 | 909 | 316 | Funky Drop |
-| 910 | 316 | LeVeL27 |
+| 910 | 316 | Nutty Slice |
 | 911 | 316 | Epic Spinfit |
 | 912 | 315 | Sinistah42o |
 | 913 | 314 | Amanda West |
@@ -1125,15 +1125,15 @@
 | 1117 | 271 | Amandacolle |
 | 1118 | 271 | Pam Doughty |
 | 1119 | 271 | Shalisa Hill |
-| 1120 | 270 | Sharon Crawford |
-| 1121 | 270 | Missie Sue |
+| 1120 | 270 | Missie Sue |
+| 1121 | 270 | Sharon Crawford |
 | 1122 | 270 | Amy John Mills |
 | 1123 | 269 | Chummy Breaker |
 | 1124 | 269 | Chummy Caster |
 | 1125 | 269 | Chill Strike |
 | 1126 | 268 | Wil Allen |
-| 1127 | 268 | Hopeanna |
-| 1128 | 268 | Dione |
+| 1127 | 268 | Dione |
+| 1128 | 268 | Hopeanna |
 | 1129 | 268 | Sassy Linkroll |
 | 1130 | 267 | Sanaa Nounoussa |
 | 1131 | 267 | Anthony McAlister |

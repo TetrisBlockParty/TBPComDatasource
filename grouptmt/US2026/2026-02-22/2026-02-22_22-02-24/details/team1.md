@@ -64,8 +64,8 @@
 | 56 | 734 | Michelle Nicole |
 | 57 | 720 | Zippy Align |
 | 58 | 703 | Angel Fowler |
-| 59 | 691 | Marianne Louise West |
-| 60 | 691 | Seante Bullock |
+| 59 | 691 | Seante Bullock |
+| 60 | 691 | Marianne Louise West |
 | 61 | 687 | comrade fish |
 | 62 | 675 | Sevens4L |
 | 63 | 674 | Drew Magnus |
@@ -136,8 +136,8 @@
 | 128 | 379 | Kimmie Kimms |
 | 129 | 379 | Austin James |
 | 130 | 376 | Brian Richardsson |
-| 131 | 376 | lil mickey |
-| 132 | 376 | And |
+| 131 | 376 | And |
+| 132 | 376 | lil mickey |
 | 133 | 372 | Sweet Baker |
 | 134 | 370 | Ly Phethmany |
 | 135 | 364 | Shauna Loe |
@@ -211,8 +211,8 @@
 | 203 | 261 | Witty Builderfit |
 | 204 | 260 | Cheeky Pop |
 | 205 | 256 | Chris65 |
-| 206 | 254 | Giggly Builderline |
-| 207 | 254 | Al Smith Jr |
+| 206 | 254 | Al Smith Jr |
+| 207 | 254 | Giggly Builderline |
 | 208 | 253 | Jamie Jury |
 | 209 | 252 | Dena Kayy |
 | 210 | 249 | Lakeisha Chapman |
@@ -238,8 +238,8 @@
 | 230 | 234 | Paula Martin |
 | 231 | 233 | LC |
 | 232 | 231 | Tyler Hertzog |
-| 233 | 230 | BigWeenie69 |
-| 234 | 230 | Diane Byrd |
+| 233 | 230 | Diane Byrd |
+| 234 | 230 | BigWeenie69 |
 | 235 | 229 | Standia Civil |
 | 236 | 228 | Shiny Gridmatch |
 | 237 | 228 | Giddy Cascade |
@@ -410,7 +410,7 @@
 | 402 | 148 | Sir-Franchise Drake |
 | 403 | 147 | Jamise Brown |
 | 404 | 147 | Isaiah |
-| 405 | 147 | Jamise Brown |
+| 405 | 147 | Jodee Woods |
 | 406 | 147 | Brian Spotts |
 | 407 | 146 | Tazz |
 | 408 | 145 | Chantelle Ceno |
