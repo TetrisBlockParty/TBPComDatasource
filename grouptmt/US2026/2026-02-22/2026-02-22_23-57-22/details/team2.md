@@ -347,10 +347,10 @@
 | 339 | 788 | Erika Densmore |
 | 340 | 785 | Amber Brion |
 | 341 | 782 | Beth |
-| 342 | 777 | Tesha Oldaker |
-| 343 | 777 | Jessicah Myers |
-| 344 | 774 | Ginnell Browner |
-| 345 | 774 | Ashley Dow |
+| 342 | 777 | Jessicah Myers |
+| 343 | 777 | Tesha Oldaker |
+| 344 | 774 | Ashley Dow |
+| 345 | 774 | Ginnell Browner |
 | 346 | 773 | Diana Fitzwater |
 | 347 | 772 | Danielle Simmons |
 | 348 | 769 | Melissa Cole |
@@ -394,8 +394,8 @@
 | 386 | 713 | Breezy Filler |
 | 387 | 713 | Chelle |
 | 388 | 710 | tejas25 |
-| 389 | 709 | Draizen Montrell Thomas |
-| 390 | 709 | Marie Walker |
+| 389 | 709 | Marie Walker |
+| 390 | 709 | Draizen Montrell Thomas |
 | 391 | 708 | Jelly |
 | 392 | 704 | Johnny Yeates |
 | 393 | 704 | Montez Mancil |
@@ -466,8 +466,8 @@
 | 458 | 613 | Ann Matzkanin |
 | 459 | 612 | Slinky Racker |
 | 460 | 611 | Biggest thing |
-| 461 | 607 | Michelle Lee |
-| 462 | 607 | Véronique Lévesque Sabourin |
+| 461 | 607 | Véronique Lévesque Sabourin |
+| 462 | 607 | Michelle Lee |
 | 463 | 605 | Santana Miyagi |
 | 464 | 603 | Casper The Chonk |
 | 465 | 602 | KhaosLord |
@@ -929,14 +929,14 @@
 | 921 | 330 | AndrewandShela Gornik |
 | 922 | 330 | John Rodriguez |
 | 923 | 330 | Samuel Labruno |
-| 924 | 329 | Joanna L. Abad |
-| 925 | 329 | Epic Stackbuilder |
+| 924 | 329 | Epic Stackbuilder |
+| 925 | 329 | Joanna L. Abad |
 | 926 | 328 | BabyBird |
 | 927 | 328 | Brianna Cerney |
 | 928 | 328 | Ashlyn Berner |
 | 929 | 328 | Dee Blokk |
-| 930 | 327 | Persipnei Cuesta |
-| 931 | 327 | Sarah Dean |
+| 930 | 327 | Sarah Dean |
+| 931 | 327 | Persipnei Cuesta |
 | 932 | 326 | Jamie Dayton |
 | 933 | 326 | Jennifer Mahon |
 | 934 | 325 | Ann Marie Davis |
@@ -958,9 +958,9 @@
 | 950 | 319 | Lexa Craft Davidson |
 | 951 | 319 | Loopy Shatterfit |
 | 952 | 318 | Natasha Marie |
-| 953 | 317 | Jumpy Gridclear |
-| 954 | 317 | Nancy Pohlman |
-| 955 | 317 | Zombi3 |
+| 953 | 317 | Nancy Pohlman |
+| 954 | 317 | Jumpy Gridclear |
+| 955 | 317 | Jennifer Rose |
 | 956 | 317 | R |
 | 957 | 317 | Kimmy McKay |
 | 958 | 317 | Zombi3 |

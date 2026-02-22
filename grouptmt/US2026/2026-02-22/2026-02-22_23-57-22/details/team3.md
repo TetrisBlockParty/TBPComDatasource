@@ -97,8 +97,8 @@
 | 89 | 860 | Sunny Rotater |
 | 90 | 849 | Danielle Becker |
 | 91 | 848 | Patricia Gadsden |
-| 92 | 838 | Sarajane Lokan |
-| 93 | 838 | MissTaylor |
+| 92 | 838 | MissTaylor |
+| 93 | 838 | Sarajane Lokan |
 | 94 | 831 | Angeline Joseph |
 | 95 | 830 | Stephanie Allmon |
 | 96 | 826 | Shane Wilson Jr. |
@@ -166,8 +166,8 @@
 | 158 | 517 | Denise Nardoni |
 | 159 | 516 | Elissa S-k |
 | 160 | 512 | Silly Twist |
-| 161 | 506 | Stephanie Blkpep Davidson |
-| 162 | 506 | Sashay Tapae Simpson |
+| 161 | 506 | Sashay Tapae Simpson |
+| 162 | 506 | Stephanie Blkpep Davidson |
 | 163 | 505 | Danielle Balcom |
 | 164 | 504 | Jennifer Lynn Fahrenholtz-Summers |
 | 165 | 502 | Snappy Balancer |
@@ -228,10 +228,10 @@
 | 220 | 382 | Giddy Twistbuilder |
 | 221 | 382 | Scott Carleton |
 | 222 | 378 | Chris Bell |
-| 223 | 375 | Kristal C Lee |
-| 224 | 375 | Duane Bright |
-| 225 | 372 | Sarah Moyer |
-| 226 | 372 | Rich LeBlanc |
+| 223 | 375 | Duane Bright |
+| 224 | 375 | Kristal C Lee |
+| 225 | 372 | Rich LeBlanc |
+| 226 | 372 | Sarah Moyer |
 | 227 | 370 | RickyG |
 | 228 | 369 | Keis |
 | 229 | 368 | Stephanie Woods |
@@ -290,8 +290,8 @@
 | 282 | 302 | Gray Hicks |
 | 283 | 301 | Betty Rosas |
 | 284 | 300 | Tiffany Davie |
-| 285 | 299 | Angie Harper |
-| 286 | 299 | Ray Lader |
+| 285 | 299 | Ray Lader |
+| 286 | 299 | Angie Harper |
 | 287 | 298 | Grams |
 | 288 | 297 | Cheeky Snapper |
 | 289 | 297 | Jojo M |

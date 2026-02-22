@@ -97,14 +97,14 @@
 | 89 | 590 | Denise Carlson |
 | 90 | 568 | Chris Baggett |
 | 91 | 566 | Amelpss |
-| 92 | 561 | H.R. Block |
-| 93 | 561 | Amy Suckarieh |
+| 92 | 561 | Amy Suckarieh |
+| 93 | 561 | H.R. Block |
 | 94 | 557 | Carmethia Clemons Haslerig |
 | 95 | 533 | Samantha Peterson |
 | 96 | 531 | Zippy Gridlock |
 | 97 | 519 | Nugget |
-| 98 | 513 | YoMomma |
-| 99 | 513 | Erin Thomas |
+| 98 | 513 | Erin Thomas |
+| 99 | 513 | YoMomma |
 | 100 | 512 | Diana Houts |
 | 101 | 512 | Casey Jeffcoat |
 | 102 | 510 | Scott Jameson |
@@ -138,8 +138,8 @@
 | 130 | 408 | Amanda Pauldo-Ivy |
 | 131 | 400 | Ericca Eldridge |
 | 132 | 394 | Austin Owens |
-| 133 | 393 | Carlton Unfiltered |
-| 134 | 393 | Trish |
+| 133 | 393 | Trish |
+| 134 | 393 | Carlton Unfiltered |
 | 135 | 392 | Cristy Duerksen |
 | 136 | 391 | Ramel Rhodes |
 | 137 | 380 | Swanky Fitline |
@@ -207,8 +207,8 @@
 | 199 | 276 | Joeliecea Cobb |
 | 200 | 276 | Matt Dell'Olio |
 | 201 | 273 | Casey Grabner |
-| 202 | 272 | Alan George LaRage |
-| 203 | 272 | Dennis Bradley |
+| 202 | 272 | Dennis Bradley |
+| 203 | 272 | Alan George LaRage |
 | 204 | 271 | Sarah Brown |
 | 205 | 270 | Juls |
 | 206 | 269 | Nikki Rae Gordon |
@@ -289,8 +289,8 @@
 | 281 | 200 | Googenheim |
 | 282 | 199 | Carter Jones |
 | 283 | 198 | Calvin Dennis |
-| 284 | 197 | Stephme310 |
-| 285 | 197 | Gilles Lanctot |
+| 284 | 197 | Gilles Lanctot |
+| 285 | 197 | Stephme310 |
 | 286 | 195 | 中山成巳 |
 | 287 | 194 | Zany Twisterfit |
 | 288 | 192 | Jackie Marie |

@@ -26,8 +26,8 @@
 | 18 | 1408 | Mara Hilker |
 | 19 | 1234 | Jennifer Cates |
 | 20 | 1215 | LaQuetta Faith Hines |
-| 21 | 1191 | Roger Aschbrenner |
-| 22 | 1191 | Nerdy Linkblock |
+| 21 | 1191 | Nerdy Linkblock |
+| 22 | 1191 | Roger Aschbrenner |
 | 23 | 1177 | Carolyn Smith |
 | 24 | 1145 | Tyler Alcock |
 | 25 | 1136 | Rahna Underwood |
@@ -61,8 +61,8 @@
 | 53 | 770 | Zappy Curvetile |
 | 54 | 767 | Kristen Roles Robben |
 | 55 | 752 | Jacqueline Williams |
-| 56 | 746 | TSwag |
-| 57 | 746 | Stef Hu |
+| 56 | 746 | Stef Hu |
+| 57 | 746 | TSwag |
 | 58 | 738 | Michelle Nicole |
 | 59 | 730 | Spunky Piecebuilder |
 | 60 | 720 | Zippy Align |
@@ -221,8 +221,8 @@
 | 213 | 256 | Standia Civil |
 | 214 | 256 | Chris65 |
 | 215 | 255 | Speedy Liney |
-| 216 | 254 | Al Smith Jr |
-| 217 | 254 | Giggly Builderline |
+| 216 | 254 | Giggly Builderline |
+| 217 | 254 | Al Smith Jr |
 | 218 | 253 | Jamie Jury |
 | 219 | 252 | Dena Kayy |
 | 220 | 249 | Lakeisha Chapman |
@@ -292,8 +292,8 @@
 | 284 | 205 | Tyler L Hunt |
 | 285 | 205 | Agustin Duarte Orozco |
 | 286 | 204 | Chris Sigurdson |
-| 287 | 203 | Spunky Builderpiece |
-| 288 | 203 | Andrew Boone |
+| 287 | 203 | Andrew Boone |
+| 288 | 203 | Spunky Builderpiece |
 | 289 | 202 | Amanda Holibaugh |
 | 290 | 201 | Colleen Wise |
 | 291 | 201 | Beau Galvan |
