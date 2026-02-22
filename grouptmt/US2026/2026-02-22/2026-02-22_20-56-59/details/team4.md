@@ -67,8 +67,8 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 704 | Crystal Carroll |
 | 65 | 703 | Anthony Bryan Riva |
 | 66 | 675 | D3TROITB0RN74 |
@@ -99,8 +99,8 @@
 | 91 | 539 | Dawn Alexander |
 | 92 | 531 | Amelpss |
 | 93 | 519 | Nugget |
-| 94 | 513 | Erin Thomas |
-| 95 | 513 | YoMomma |
+| 94 | 513 | YoMomma |
+| 95 | 513 | Erin Thomas |
 | 96 | 512 | Casey Jeffcoat |
 | 97 | 509 | Diana Houts |
 | 98 | 500 | Rodney McMath Jr. |
@@ -133,8 +133,8 @@
 | 125 | 400 | Ericca Eldridge |
 | 126 | 393 | Carlton Unfiltered |
 | 127 | 391 | Nope Young |
-| 128 | 391 | Austin Owens |
-| 129 | 391 | Ramel Rhodes |
+| 128 | 391 | Ramel Rhodes |
+| 129 | 391 | Austin Owens |
 | 130 | 377 | Carrie Brian |
 | 131 | 373 | Joseph Guthrie |
 | 132 | 368 | Lucas J Sutton |
@@ -144,8 +144,8 @@
 | 136 | 353 | Livvy |
 | 137 | 353 | Tyler Terrific |
 | 138 | 344 | Lush Linkfall |
-| 139 | 343 | Latisha Davis |
-| 140 | 343 | ThaEviLJeNiuZ |
+| 139 | 343 | ThaEviLJeNiuZ |
+| 140 | 343 | Latisha Davis |
 | 141 | 339 | David Lay |
 | 142 | 336 | Jessica Bohlken |
 | 143 | 334 | Guy Incognito |
@@ -212,8 +212,8 @@
 | 204 | 250 | Matt Dell'Olio |
 | 205 | 249 | Ak Jones |
 | 206 | 249 | Cheery Risebuilder |
-| 207 | 248 | Chirpy Basepiece |
-| 208 | 248 | Lindsey Gonzalez |
+| 207 | 248 | Lindsey Gonzalez |
+| 208 | 248 | Chirpy Basepiece |
 | 209 | 247 | Dennis Bradley |
 | 210 | 246 | Carlos Ramirez |
 | 211 | 245 | Adam Stephanie Parker |
@@ -261,8 +261,8 @@
 | 253 | 205 | James Hurley Jr. |
 | 254 | 205 | Christina Black |
 | 255 | 203 | Katherine Crane |
-| 256 | 202 | Orchislactea |
-| 257 | 202 | Patron Anderson |
+| 256 | 202 | Patron Anderson |
+| 257 | 202 | Orchislactea |
 | 258 | 201 | Chaz |
 | 259 | 200 | Lori |
 | 260 | 200 | Googenheim |
@@ -272,8 +272,8 @@
 | 264 | 198 | Angelito |
 | 265 | 197 | Gilles Lanctot |
 | 266 | 196 | Zany Shatterer |
-| 267 | 195 | 中山成巳 |
-| 268 | 195 | Snippy Puzzle |
+| 267 | 195 | Snippy Puzzle |
+| 268 | 195 | 中山成巳 |
 | 269 | 194 | Zany Twisterfit |
 | 270 | 193 | Shainne Brewer |
 | 271 | 193 | Stephme310 |

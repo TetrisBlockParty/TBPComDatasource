@@ -70,8 +70,8 @@
 | 62 | 1027 | Gracie |
 | 63 | 1019 | Joey Banks |
 | 64 | 954 | Nate Burnside |
-| 65 | 926 | Judi Dobson |
-| 66 | 926 | Angela M. Fletcher |
+| 65 | 926 | Angela M. Fletcher |
+| 66 | 926 | Judi Dobson |
 | 67 | 924 | Shonna Roberts |
 | 68 | 909 | Jennifer |
 | 69 | 906 | Aaron Pitkin |
@@ -136,8 +136,8 @@
 | 128 | 572 | CeceGeGe |
 | 129 | 569 | Daryn Elliott |
 | 130 | 568 | Rachael McClain Owens |
-| 131 | 562 | Louise Stacy Sisson |
-| 132 | 562 | Dave Herzog |
+| 131 | 562 | Dave Herzog |
+| 132 | 562 | Louise Stacy Sisson |
 | 133 | 558 | Nicole Myers |
 | 134 | 557 | Domo Washington |
 | 135 | 554 | Leah Barnett |
@@ -145,8 +145,8 @@
 | 137 | 551 | Alaina Lee |
 | 138 | 531 | Mykal Burton |
 | 139 | 529 | Michael Nowogorski |
-| 140 | 526 | Michelle Becker |
-| 141 | 526 | Cynthia Castros-Hampton |
+| 140 | 526 | Cynthia Castros-Hampton |
+| 141 | 526 | Michelle Becker |
 | 142 | 525 | Justin Ritter |
 | 143 | 517 | Denise Nardoni |
 | 144 | 516 | Elissa S-k |
@@ -163,8 +163,8 @@
 | 155 | 479 | Annie Marie |
 | 156 | 474 | Danielle Balcom |
 | 157 | 473 | Calista Jo Dickson |
-| 158 | 471 | Nora Rogers |
-| 159 | 471 | Mendoza Lee Christy |
+| 158 | 471 | Mendoza Lee Christy |
+| 159 | 471 | Nora Rogers |
 | 160 | 470 | Logan Naccarato |
 | 161 | 469 | Adrian Marcel Pate |
 | 162 | 469 | Melissa Orth Hunter |
@@ -187,8 +187,8 @@
 | 179 | 432 | Jenny Hrndz |
 | 180 | 432 | Luciana Braganca Vieira |
 | 181 | 431 | Sarah Cowan Burgos |
-| 182 | 430 | Jeni Dow |
-| 183 | 430 | Joye Sims Binion |
+| 182 | 430 | Joye Sims Binion |
+| 183 | 430 | Jeni Dow |
 | 184 | 428 | Araceli Parra |
 | 185 | 427 | Wendy Dearden |
 | 186 | 425 | Rochelle Hazelett |
@@ -217,8 +217,8 @@
 | 209 | 370 | Santeria Trece Candles |
 | 210 | 369 | Sarah Moyer |
 | 211 | 368 | Stephanie Woods |
-| 212 | 367 | Loopy Fallmatch |
-| 213 | 367 | Marci Mize Fandrich |
+| 212 | 367 | Marci Mize Fandrich |
+| 213 | 367 | Loopy Fallmatch |
 | 214 | 365 | Tiffany Ford |
 | 215 | 365 | Chummy Caster |
 | 216 | 362 | Brandon Givens |
@@ -235,8 +235,8 @@
 | 227 | 347 | Trisha Balmer |
 | 228 | 346 | Michael Johnson |
 | 229 | 346 | Tamara Deherrera |
-| 230 | 344 | Roary Danner |
-| 231 | 344 | Rania Zaqout |
+| 230 | 344 | Rania Zaqout |
+| 231 | 344 | Roary Danner |
 | 232 | 343 | Ashley Raines |
 | 233 | 341 | Samantha Lynn |
 | 234 | 341 | Noyb Adam |

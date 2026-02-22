@@ -59,8 +59,8 @@
 | 51 | 754 | Katie Daniels |
 | 52 | 749 | Jacqueline Williams |
 | 53 | 746 | Stef Hu |
-| 54 | 734 | Michelle Nicole |
-| 55 | 734 | TSwag |
+| 54 | 734 | TSwag |
+| 55 | 734 | Michelle Nicole |
 | 56 | 703 | Angel Fowler |
 | 57 | 691 | Seante Bullock |
 | 58 | 687 | comrade fish |
@@ -165,12 +165,12 @@
 | 157 | 306 | Bloknboy |
 | 158 | 306 | Happy Basegrid |
 | 159 | 305 | Constance Risner |
-| 160 | 304 | Nicole Roseberry Weber |
-| 161 | 304 | Rachael |
+| 160 | 304 | Rachael |
+| 161 | 304 | Nicole Roseberry Weber |
 | 162 | 303 | Chelsea Dahlquist |
 | 163 | 302 | Mike Ames |
-| 164 | 298 | femmefatale |
-| 165 | 298 | Danielle Little-Daugherty |
+| 164 | 298 | Danielle Little-Daugherty |
+| 165 | 298 | femmefatale |
 | 166 | 296 | Madison Wicks |
 | 167 | 295 | David Lutcher |
 | 168 | 295 | Emily Adelaide Wheatley |
@@ -237,15 +237,15 @@
 | 229 | 228 | Giddy Cascade |
 | 230 | 228 | Shiny Gridmatch |
 | 231 | 226 | Michael |
-| 232 | 225 | Bindi |
-| 233 | 225 | Jessie Lynn |
+| 232 | 225 | Jessie Lynn |
+| 233 | 225 | Bindi |
 | 234 | 224 | ParisandCory Champagne |
-| 235 | 223 | Christina Backer |
-| 236 | 223 | Thorne Shumate |
-| 237 | 223 | Erez Yosef |
+| 235 | 223 | Erez Yosef |
+| 236 | 223 | Christina Backer |
+| 237 | 223 | Thorne Shumate |
 | 238 | 222 | Debbie Davis |
-| 239 | 221 | Daring Fitclear |
-| 240 | 221 | Amy Hess |
+| 239 | 221 | Amy Hess |
+| 240 | 221 | Daring Fitclear |
 | 241 | 220 | Bouncy Grid |
 | 242 | 219 | Chuck Gannon |
 | 243 | 219 | Negan Mallory Knoxx Spence |
