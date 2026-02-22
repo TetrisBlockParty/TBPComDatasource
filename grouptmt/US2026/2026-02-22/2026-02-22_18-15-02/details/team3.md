@@ -138,8 +138,8 @@
 | 130 | 526 | Daryn Elliott |
 | 131 | 525 | Justin Ritter |
 | 132 | 521 | Leah Barnett |
-| 133 | 521 | Michael Nowogorski |
-| 134 | 521 | Michelle Becker |
+| 133 | 521 | Michelle Becker |
+| 134 | 521 | Michael Nowogorski |
 | 135 | 518 | opf |
 | 136 | 506 | Sashay Tapae Simpson |
 | 137 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -221,8 +221,8 @@
 | 213 | 346 | Tamara Deherrera |
 | 214 | 344 | Roary Danner |
 | 215 | 343 | Ashley Raines |
-| 216 | 341 | Samantha Lynn |
-| 217 | 341 | Noyb Adam |
+| 216 | 341 | Noyb Adam |
+| 217 | 341 | Samantha Lynn |
 | 218 | 341 | Ashley Tookes |
 | 219 | 340 | Ammmmmmy |
 | 220 | 339 | Rania Zaqout |
@@ -266,8 +266,8 @@
 | 258 | 282 | Angie Harper |
 | 259 | 282 | Marquita Sheard |
 | 260 | 281 | Carrie Huskey |
-| 261 | 278 | Sabrina Hardrick |
-| 262 | 278 | Rufus Lincoln |
+| 261 | 278 | Rufus Lincoln |
+| 262 | 278 | Sabrina Hardrick |
 | 263 | 277 | Tracy Martin |
 | 264 | 276 | Crimson |
 | 265 | 276 | _melisa223_ |
@@ -306,8 +306,8 @@
 | 298 | 240 | Eric Caccavale |
 | 299 | 240 | Jimmie Clemons |
 | 300 | 238 | Niki Dalrymple |
-| 301 | 236 | Jess Bissett |
-| 302 | 236 | Angela Scott |
+| 301 | 236 | Angela Scott |
+| 302 | 236 | Jess Bissett |
 | 303 | 236 | Lys |
 | 304 | 234 | Kaycee Kay |
 | 305 | 233 | Tony Waters |
@@ -365,8 +365,8 @@
 | 357 | 206 | Tammy Rosenberry |
 | 358 | 205 | Rachel Napper |
 | 359 | 204 | Cesar Barraza |
-| 360 | 203 | DanceLuvLaugh |
-| 361 | 203 | Angella Lyons |
+| 360 | 203 | Angella Lyons |
+| 361 | 203 | DanceLuvLaugh |
 | 362 | 202 | Tipsy Zonebuilder |
 | 363 | 202 | Melanie Sherwood |
 | 364 | 202 | Kristin Delibac Corrigan |

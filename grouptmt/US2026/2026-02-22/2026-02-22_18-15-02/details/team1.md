@@ -84,8 +84,8 @@
 | 76 | 486 | Tater |
 | 77 | 485 | Cartier |
 | 78 | 483 | Evie Khalil |
-| 79 | 483 | Ryan Lunnin |
-| 80 | 483 | MomMom |
+| 79 | 483 | MomMom |
+| 80 | 483 | Ryan Lunnin |
 | 81 | 480 | Nancy Green |
 | 82 | 472 | April Carroll |
 | 83 | 471 | Jennifer ManWarren |
@@ -114,8 +114,8 @@
 | 106 | 385 | Brenda Stewart |
 | 107 | 383 | pjbeta |
 | 108 | 380 | Dee Perry |
-| 109 | 379 | Kimmie Kimms |
-| 110 | 379 | Austin James |
+| 109 | 379 | Austin James |
+| 110 | 379 | Kimmie Kimms |
 | 111 | 376 | lil mickey |
 | 112 | 367 | Ly Phethmany |
 | 113 | 366 | David Miller |
@@ -136,10 +136,10 @@
 | 128 | 340 | Tanya Carpenter-Reynolds |
 | 129 | 336 | Elaine Elaine |
 | 130 | 334 | Jaimie Lynn |
-| 131 | 333 | Gracie |
-| 132 | 333 | GATOR |
-| 133 | 332 | Kristen Gideon |
-| 134 | 332 | Lehrin Maria |
+| 131 | 333 | GATOR |
+| 132 | 333 | Gracie |
+| 133 | 332 | Lehrin Maria |
+| 134 | 332 | Kristen Gideon |
 | 135 | 328 | Fmp |
 | 136 | 326 | Monica Donato |
 | 137 | 325 | Jennifer Hardman |
@@ -280,8 +280,8 @@
 | 272 | 186 | Margo Wagner |
 | 273 | 185 | Hasty Columnbuilder |
 | 274 | 184 | Chris Sigurdson |
-| 275 | 183 | Brave Wrecker |
-| 276 | 183 | Tiger Lily |
+| 275 | 183 | Tiger Lily |
+| 276 | 183 | Brave Wrecker |
 | 277 | 181 | David DeSantis |
 | 278 | 180 | Beau Galvan |
 | 279 | 180 | Matt Iaccheo |

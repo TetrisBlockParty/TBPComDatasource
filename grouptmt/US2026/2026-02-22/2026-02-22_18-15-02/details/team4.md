@@ -85,8 +85,8 @@
 | 77 | 590 | Jamie Mann-Deichmann |
 | 78 | 588 | Eric Mcgaughy |
 | 79 | 581 | Yoset Mejia |
-| 80 | 575 | Carolyn Wallace |
-| 81 | 575 | Jeremy Steines |
+| 80 | 575 | Jeremy Steines |
+| 81 | 575 | Carolyn Wallace |
 | 82 | 564 | Shane Kalamata Platoon |
 | 83 | 560 | Jason Allen |
 | 84 | 559 | H.R. Block |
@@ -129,8 +129,8 @@
 | 121 | 369 | Nope Young |
 | 122 | 362 | Carrie Brian |
 | 123 | 356 | Serena Goodridge |
-| 124 | 353 | Tyler Terrific |
-| 125 | 353 | Livvy |
+| 124 | 353 | Livvy |
+| 125 | 353 | Tyler Terrific |
 | 126 | 344 | Lush Linkfall |
 | 127 | 343 | Latisha Davis |
 | 128 | 338 | ThaEviLJeNiuZ |
@@ -141,8 +141,8 @@
 | 133 | 330 | David Lay |
 | 134 | 329 | Amanda Pauldo-Ivy |
 | 135 | 329 | Jessica Bohlken |
-| 136 | 328 | Kris Bartlett |
-| 137 | 328 | Leslie Nicole |
+| 136 | 328 | Leslie Nicole |
+| 137 | 328 | Kris Bartlett |
 | 138 | 325 | Dizzy Tiley |
 | 139 | 324 | Jessica Lynn Cutlip |
 | 140 | 323 | Daria Rycewicz |
@@ -160,8 +160,8 @@
 | 152 | 294 | Kesha Brady |
 | 153 | 292 | Cursed Hag |
 | 154 | 290 | Keshia Lyons |
-| 155 | 290 | Chaz Duncan |
-| 156 | 290 | 🥔🥔 Spudz |
+| 155 | 290 | 🥔🥔 Spudz |
+| 156 | 290 | Chaz Duncan |
 | 157 | 288 | Leah Kutz Zirbel |
 | 158 | 286 | Brittney Orengo |
 | 159 | 286 | shark tato |
@@ -180,8 +180,8 @@
 | 172 | 267 | Kathy Brookins |
 | 173 | 267 | Holly |
 | 174 | 266 | Laura |
-| 175 | 265 | Chris Bernstein |
-| 176 | 265 | Jeff Brian Gates |
+| 175 | 265 | Jeff Brian Gates |
+| 176 | 265 | Chris Bernstein |
 | 177 | 264 | Girl |
 | 178 | 264 | Epic Curvetile |
 | 179 | 262 | Juls |
@@ -254,8 +254,8 @@
 | 246 | 198 | Keith Kelley |
 | 247 | 198 | Calvin Dennis |
 | 248 | 197 | Gilles Lanctot |
-| 249 | 195 | Snippy Puzzle |
-| 250 | 195 | 中山成巳 |
+| 249 | 195 | 中山成巳 |
+| 250 | 195 | Snippy Puzzle |
 | 251 | 194 | Zany Twisterfit |
 | 252 | 193 | Rio Rocha |
 | 253 | 192 | Andrew Dang |
@@ -770,8 +770,8 @@
 | 762 | 58 | Cheery Fitline |
 | 763 | 58 | Garrett G-luv Kyser |
 | 764 | 58 | JEan Price |
-| 765 | 57 | Kimberly Paxton |
-| 766 | 57 | Boldy Linkfall |
+| 765 | 57 | Koral Hanke |
+| 766 | 57 | Kimberly Paxton |
 | 767 | 57 | Harold M. |
 | 768 | 57 | Boldy Linkfall |
 | 769 | 57 | Shelly Matthews |
