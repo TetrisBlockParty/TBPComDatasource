@@ -236,8 +236,8 @@
 | 228 | 225 | Bindi |
 | 229 | 225 | Jessie Lynn |
 | 230 | 224 | ParisandCory Champagne |
-| 231 | 223 | Erez Yosef |
-| 232 | 223 | Christina Backer |
+| 231 | 223 | Christina Backer |
+| 232 | 223 | Erez Yosef |
 | 233 | 222 | Debbie Davis |
 | 234 | 221 | Daring Fitclear |
 | 235 | 221 | Amy Hess |

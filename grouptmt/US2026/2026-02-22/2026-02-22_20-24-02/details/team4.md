@@ -81,8 +81,8 @@
 | 73 | 647 | KM8 |
 | 74 | 646 | Jacqueline Helm |
 | 75 | 626 | Brittney Griggs |
-| 76 | 617 | Savannah Overdorf |
-| 77 | 617 | Jason Hart |
+| 76 | 617 | Jason Hart |
+| 77 | 617 | Savannah Overdorf |
 | 78 | 614 | TheNeesh50 |
 | 79 | 603 | Jason Allen |
 | 80 | 597 | Eric Mcgaughy |
@@ -294,8 +294,8 @@
 | 286 | 174 | June Hoffman |
 | 287 | 174 | Shane Vick |
 | 288 | 171 | Autumn Kumzi |
-| 289 | 170 | Cynthia Boudreau |
-| 290 | 170 | PeaceOs |
+| 289 | 170 | PeaceOs |
+| 290 | 170 | Cynthia Boudreau |
 | 291 | 170 | Elie Pean |
 | 292 | 169 | Ellen Durfee |
 | 293 | 169 | Jessica Atkinson |
@@ -391,8 +391,8 @@
 | 383 | 139 | Bradley Reeves |
 | 384 | 139 | Lori Goudy |
 | 385 | 139 | Ann G. Carrillo |
-| 386 | 138 | Moonsterix |
-| 387 | 138 | Janis Brown |
+| 386 | 138 | Janis Brown |
+| 387 | 138 | Moonsterix |
 | 388 | 138 | Jasmine S Caldwell |
 | 389 | 137 | Hyper Builder |
 | 390 | 137 | Funky Risepiece |

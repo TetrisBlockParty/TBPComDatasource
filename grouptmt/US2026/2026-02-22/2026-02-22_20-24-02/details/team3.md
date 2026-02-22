@@ -137,8 +137,8 @@
 | 129 | 562 | Dave Herzog |
 | 130 | 562 | Louise Stacy Sisson |
 | 131 | 557 | Domo Washington |
-| 132 | 555 | opf |
-| 133 | 555 | Nicole Myers |
+| 132 | 555 | Nicole Myers |
+| 133 | 555 | opf |
 | 134 | 554 | Leah Barnett |
 | 135 | 553 | LaTanya GeminiondaRise Johnson |
 | 136 | 551 | Alaina Lee |
@@ -249,10 +249,10 @@
 | 241 | 324 | Sissy Lowery Davis |
 | 242 | 323 | Demetrious Shaw Sr. |
 | 243 | 321 | Rebecca Bailey |
-| 244 | 320 | Ashley Muncey |
-| 245 | 320 | Or Reznitsky |
-| 246 | 319 | Jaime Monhaut-Reed |
-| 247 | 319 | Michael Johnson |
+| 244 | 320 | Or Reznitsky |
+| 245 | 320 | Ashley Muncey |
+| 246 | 319 | Michael Johnson |
+| 247 | 319 | Jaime Monhaut-Reed |
 | 248 | 317 | Kelly |
 | 249 | 314 | Peppy Shifter |
 | 250 | 312 | Charles Perrone |
@@ -381,8 +381,8 @@
 | 373 | 210 | Saucy Buildout |
 | 374 | 210 | Ashley Lynn Marchese |
 | 375 | 209 | Daring Builder |
-| 376 | 208 | Karent524 |
-| 377 | 208 | Michael Kimbro |
+| 376 | 208 | Michael Kimbro |
+| 377 | 208 | Karent524 |
 | 378 | 207 | Kristian Thurman |
 | 379 | 207 | angieelyn |
 | 380 | 206 | Tammy Rosenberry |
