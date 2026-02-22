@@ -239,8 +239,8 @@
 | 231 | 972 | Juliana Marques Do Nascimento Gordy |
 | 232 | 965 | Maria Escobar |
 | 233 | 957 | Crystal Hoffman |
-| 234 | 957 | Keri Womack |
-| 235 | 957 | Block Master |
+| 234 | 957 | Block Master |
+| 235 | 957 | Keri Womack |
 | 236 | 955 | Angela Bonquiqui Dinish |
 | 237 | 951 | Cynthia Ward |
 | 238 | 944 | Kimberly Hauck-Rausch |
@@ -298,8 +298,8 @@
 | 290 | 820 | Chirpy Staggerpiece |
 | 291 | 819 | Carl Bradshaw |
 | 292 | 817 | Nett |
-| 293 | 816 | James Simms III |
-| 294 | 816 | Jessica Wayne Cornwall |
+| 293 | 816 | Jessica Wayne Cornwall |
+| 294 | 816 | James Simms III |
 | 295 | 810 | Caitlin Schmid |
 | 296 | 810 | Andrea Maher |
 | 297 | 808 | Desire Rice |
@@ -311,15 +311,15 @@
 | 303 | 787 | Laura McCarthey |
 | 304 | 783 | Lisa Ongtowasruk |
 | 305 | 781 | Hong Tang |
-| 306 | 777 | Jessicah Myers |
-| 307 | 777 | Tesha Oldaker |
+| 306 | 777 | Tesha Oldaker |
+| 307 | 777 | Jessicah Myers |
 | 308 | 777 | Samantha Jo |
 | 309 | 774 | Ginnell Browner |
 | 310 | 773 | Diana Fitzwater |
 | 311 | 770 | Danielle Simmons |
 | 312 | 768 | Michele Morgan |
-| 313 | 767 | Ashley Lopez |
-| 314 | 767 | Fancy Twister |
+| 313 | 767 | Fancy Twister |
+| 314 | 767 | Ashley Lopez |
 | 315 | 763 | Heather Causey |
 | 316 | 763 | Beth |
 | 317 | 762 | Melissa McCall |
@@ -398,8 +398,8 @@
 | 390 | 643 | Hoppy Brickmatch |
 | 391 | 642 | Cassie Maynard |
 | 392 | 640 | Gary Stash |
-| 393 | 640 | Crystie Hicks |
-| 394 | 640 | BYM4L |
+| 393 | 640 | BYM4L |
+| 394 | 640 | Crystie Hicks |
 | 395 | 639 | Rebecca Miller |
 | 396 | 636 | Mighty Spinbuilder |
 | 397 | 635 | Dennis McLaurin |
@@ -428,8 +428,8 @@
 | 420 | 599 | Nashu |
 | 421 | 595 | Kenny Alvarado |
 | 422 | 594 | Autumn Schaeffer |
-| 423 | 594 | Rhonda Milstead |
-| 424 | 594 | Lylymom |
+| 423 | 594 | Lylymom |
+| 424 | 594 | Rhonda Milstead |
 | 425 | 590 | Amanda Woodruff |
 | 426 | 589 | Shavonna Haynes |
 | 427 | 589 | Kelly Templeton |
@@ -484,8 +484,8 @@
 | 476 | 543 | Julie Kresal |
 | 477 | 542 | Alexandra Weir |
 | 478 | 540 | Dizzy Zone |
-| 479 | 533 | Gauri Shrotriya |
-| 480 | 533 | Davetta Sanford |
+| 479 | 533 | Davetta Sanford |
+| 480 | 533 | Gauri Shrotriya |
 | 481 | 532 | Ann Matzkanin |
 | 482 | 531 | Belle Mari |
 | 483 | 531 | Aishah Brice |
@@ -500,8 +500,8 @@
 | 492 | 520 | Maddy Petersen |
 | 493 | 519 | Rob Brown |
 | 494 | 517 | Sarah Berger |
-| 495 | 517 | Porsche' Nicole |
-| 496 | 517 | Brenna Ann |
+| 495 | 517 | Brenna Ann |
+| 496 | 517 | Porsche' Nicole |
 | 497 | 516 | Diamond Scott |
 | 498 | 514 | Karen Posadas Centeno |
 | 499 | 512 | Leslie Jorgenson |

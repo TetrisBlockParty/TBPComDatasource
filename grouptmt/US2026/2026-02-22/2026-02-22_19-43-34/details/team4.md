@@ -134,8 +134,8 @@
 | 126 | 377 | Carrie Brian |
 | 127 | 373 | Joseph Guthrie |
 | 128 | 369 | Nope Young |
-| 129 | 353 | Tyler Terrific |
-| 130 | 353 | Livvy |
+| 129 | 353 | Livvy |
+| 130 | 353 | Tyler Terrific |
 | 131 | 344 | Jessica Lynn Cutlip |
 | 132 | 344 | Lush Linkfall |
 | 133 | 343 | Latisha Davis |
@@ -721,7 +721,7 @@
 | 713 | 67 | Nig |
 | 714 | 66 | Amanda Maciel Clarke |
 | 715 | 66 | TwistyMcTwist |
-| 716 | 66 | Amanda Maciel Clarke |
+| 716 | 66 | Carlos G Reyes |
 | 717 | 66 | Bubbly Twistpiece |
 | 718 | 65 | MoonChild |
 | 719 | 65 | Rampai |

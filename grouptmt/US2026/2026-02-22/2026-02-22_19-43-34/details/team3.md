@@ -89,8 +89,8 @@
 | 81 | 828 | Jessica Ann |
 | 82 | 826 | Shane Wilson Jr. |
 | 83 | 824 | Shari Garber |
-| 84 | 811 | Sarajane Lokan |
-| 85 | 811 | Jay Horn |
+| 84 | 811 | Jay Horn |
+| 85 | 811 | Sarajane Lokan |
 | 86 | 807 | Snappy Glidepiece |
 | 87 | 800 | Lauren Girouard |
 | 88 | 789 | Aaron Pitkin |
@@ -119,8 +119,8 @@
 | 111 | 635 | Danielle Mogg |
 | 112 | 633 | mzcatzy |
 | 113 | 630 | yoyo |
-| 114 | 625 | Amber Hughes |
-| 115 | 625 | Shavette |
+| 114 | 625 | Shavette |
+| 115 | 625 | Amber Hughes |
 | 116 | 621 | Cherry Parker |
 | 117 | 618 | Bea Miles |
 | 118 | 618 | Kristie |
@@ -163,8 +163,8 @@
 | 155 | 470 | Logan Naccarato |
 | 156 | 469 | Adrian Marcel Pate |
 | 157 | 468 | Betty Ivy |
-| 158 | 464 | Makelini Mausia |
-| 159 | 464 | Michelle |
+| 158 | 464 | Michelle |
+| 159 | 464 | Makelini Mausia |
 | 160 | 461 | Jone |
 | 161 | 460 | Danielle Allison |
 | 162 | 457 | Jim Mathews |
@@ -606,9 +606,9 @@
 | 598 | 131 | Mindy Phelps |
 | 599 | 131 | Barb Wensink Johnson |
 | 600 | 130 | Spicy Caster |
-| 601 | 129 | joz |
+| 601 | 129 | LIL BIT |
 | 602 | 129 | Amanda Neal |
-| 603 | 129 | LIL BIT |
+| 603 | 129 | joz |
 | 604 | 129 | Tiffany's TwinsRus Thrifty |
 | 605 | 128 | David Kozen |
 | 606 | 128 | Dee Pratt |
