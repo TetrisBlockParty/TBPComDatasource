@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | Juggalo |
-| 13 | 1447 | GreenJeepGirl |
+| 12 | 1447 | GreenJeepGirl |
+| 13 | 1447 | Juggalo |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -43,8 +43,8 @@
 | 35 | 873 | Elizabeth Sallas |
 | 36 | 871 | Denny Shives |
 | 37 | 846 | Christine Marie |
-| 38 | 843 | Shelly Chandler |
-| 39 | 843 | Lucille Truesdale |
+| 38 | 843 | Lucille Truesdale |
+| 39 | 843 | Shelly Chandler |
 | 40 | 834 | quicksand420 |
 | 41 | 829 | LisaJo Picken Buchanan |
 | 42 | 823 | Jae Job |
@@ -76,8 +76,8 @@
 | 68 | 646 | Jacqueline Helm |
 | 69 | 638 | Julian Garcia |
 | 70 | 614 | TheNeesh50 |
-| 71 | 608 | Savannah Overdorf |
-| 72 | 608 | Avy Absol |
+| 71 | 608 | Avy Absol |
+| 72 | 608 | Savannah Overdorf |
 | 73 | 600 | Michelle Marie |
 | 74 | 599 | Brittney Griggs |
 | 75 | 593 | Lisa Davis |
@@ -249,8 +249,8 @@
 | 241 | 189 | 030Synner |
 | 242 | 186 | Holly |
 | 243 | 185 | Laura Hosford |
-| 244 | 184 | Lauren Lamb |
-| 245 | 184 | Ak Jones |
+| 244 | 184 | Ak Jones |
+| 245 | 184 | Lauren Lamb |
 | 246 | 183 | JPW |
 | 247 | 181 | Carter Jones |
 | 248 | 181 | Jackie Marie |
@@ -284,9 +284,9 @@
 | 276 | 159 | DonMega |
 | 277 | 159 | Marcus Todd |
 | 278 | 158 | Adam Stephanie Parker |
-| 279 | 157 | KayM |
-| 280 | 157 | B Renee Desjardin |
-| 281 | 157 | Paige Kittles |
+| 279 | 157 | B Renee Desjardin |
+| 280 | 157 | Paige Kittles |
+| 281 | 157 | KayM |
 | 282 | 157 | Bethany Ison |
 | 283 | 156 | Terrance Fung |
 | 284 | 156 | Ultramarine |
@@ -373,8 +373,8 @@
 | 365 | 127 | Frank Cook |
 | 366 | 127 | Bradley Reeves |
 | 367 | 127 | Robert Rodriguez |
-| 368 | 126 | Cheryl Johnson |
-| 369 | 126 | Brave Spinbuilder |
+| 368 | 126 | Paito |
+| 369 | 126 | Cheryl Johnson |
 | 370 | 126 | Jim Hart |
 | 371 | 126 | Brave Spinbuilder |
 | 372 | 126 | PAPatty |

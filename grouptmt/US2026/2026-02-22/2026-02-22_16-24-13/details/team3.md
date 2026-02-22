@@ -130,8 +130,8 @@
 | 122 | 526 | Cynthia Castros-Hampton |
 | 123 | 525 | Justin Ritter |
 | 124 | 521 | Michael Nowogorski |
-| 125 | 521 | Michelle Becker |
-| 126 | 521 | Daryn Elliott |
+| 125 | 521 | Daryn Elliott |
+| 126 | 521 | Michelle Becker |
 | 127 | 518 | opf |
 | 128 | 506 | Sashay Tapae Simpson |
 | 129 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -142,8 +142,8 @@
 | 134 | 491 | Chauntee Alfrey-Cardinale |
 | 135 | 480 | Stephanie Blkpep Davidson |
 | 136 | 479 | Patti Skiles |
-| 137 | 479 | Poppy Splitter |
-| 138 | 479 | Annie Marie |
+| 137 | 479 | Annie Marie |
+| 138 | 479 | Poppy Splitter |
 | 139 | 478 | CeceGeGe |
 | 140 | 476 | Mary Pellegrino |
 | 141 | 473 | mzcatzy |
@@ -332,12 +332,12 @@
 | 324 | 212 | Jana Polk |
 | 325 | 211 | Wettnippz |
 | 326 | 211 | Velma Mull |
-| 327 | 211 | Khaleada McGill Banks |
-| 328 | 211 | El Chapa |
+| 327 | 211 | El Chapa |
+| 328 | 211 | Khaleada McGill Banks |
 | 329 | 210 | Criss |
 | 330 | 210 | Eileen Brady Thurber |
-| 331 | 209 | Micayah Stevens |
-| 332 | 209 | TotoCherue |
+| 331 | 209 | TotoCherue |
+| 332 | 209 | Micayah Stevens |
 | 333 | 209 | Philip Rock |
 | 334 | 208 | AlsoJess |
 | 335 | 208 | Troy |
