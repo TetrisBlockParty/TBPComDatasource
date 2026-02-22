@@ -76,8 +76,8 @@
 | 68 | 489 | Deanna L Hermanson |
 | 69 | 488 | Kellie |
 | 70 | 485 | Cartier |
-| 71 | 483 | Evie Khalil |
-| 72 | 483 | Ryan Lunnin |
+| 71 | 483 | Ryan Lunnin |
+| 72 | 483 | Evie Khalil |
 | 73 | 461 | April Carroll |
 | 74 | 458 | Jennifer ManWarren |
 | 75 | 456 | Arianna O'Brien |
@@ -101,8 +101,8 @@
 | 93 | 389 | Trina Gee |
 | 94 | 383 | Loony Fitzone |
 | 95 | 382 | Jacqueline Williams |
-| 96 | 379 | Kimmie Kimms |
-| 97 | 379 | Austin James |
+| 96 | 379 | Austin James |
+| 97 | 379 | Kimmie Kimms |
 | 98 | 376 | lil mickey |
 | 99 | 374 | Tinah Montanna |
 | 100 | 364 | Shauna Loe |
@@ -127,11 +127,11 @@
 | 119 | 326 | Monica Donato |
 | 120 | 321 | Maria C. Hernandez |
 | 121 | 318 | Jessica Sheehan |
-| 122 | 316 | Jennifer Hardman |
-| 123 | 316 | Ly Phethmany |
+| 122 | 316 | Ly Phethmany |
+| 123 | 316 | Jennifer Hardman |
 | 124 | 316 | Dizzy Party |
-| 125 | 313 | Virginia Gray Floyd |
-| 126 | 313 | Tanya Carpenter-Reynolds |
+| 125 | 313 | Tanya Carpenter-Reynolds |
+| 126 | 313 | Virginia Gray Floyd |
 | 127 | 310 | Seth Wesson |
 | 128 | 308 | Sharon Reynolds |
 | 129 | 306 | Happy Basegrid |
@@ -147,10 +147,10 @@
 | 139 | 284 | Rachael |
 | 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
-| 142 | 282 | Tyler Werts |
-| 143 | 282 | Timothy Dew |
-| 144 | 282 | Snippy Wipebuilder |
-| 145 | 282 | Cool Shiftsnap |
+| 142 | 282 | Timothy Dew |
+| 143 | 282 | Tyler Werts |
+| 144 | 282 | Cool Shiftsnap |
+| 145 | 282 | Snippy Wipebuilder |
 | 146 | 276 | Dandy Basegrid |
 | 147 | 270 | Ash Galvan |
 | 148 | 270 | Mandyy Rae |
@@ -287,8 +287,8 @@
 | 279 | 160 | Plucky Stacky |
 | 280 | 160 | Tedashi |
 | 281 | 159 | Jason Savage |
-| 282 | 159 | Amber Dee |
-| 283 | 159 | Uhog SF |
+| 282 | 159 | Uhog SF |
+| 283 | 159 | Amber Dee |
 | 284 | 157 | Adele Rahman |
 | 285 | 157 | Jo Kerley |
 | 286 | 156 | Nerdy Curvebuilder |
@@ -297,9 +297,9 @@
 | 289 | 154 | Gary Gobin |
 | 290 | 153 | Tami Luce Martin |
 | 291 | 153 | Dino |
-| 292 | 152 | Speedy Snapfall |
-| 293 | 152 | Tavia |
-| 294 | 152 | Strig |
+| 292 | 152 | Tavia |
+| 293 | 152 | Strig |
+| 294 | 152 | Speedy Snapfall |
 | 295 | 151 | Gilbert Ortiz Jr. |
 | 296 | 151 | Jessie |
 | 297 | 151 | Bruce Cruz |
@@ -1597,10 +1597,10 @@
 | 1589 | 6 | Scott Reynolds |
 | 1590 | 6 | ~Tintta~ |
 | 1591 | 6 | And |
-| 1592 | 6 | Blanca Perez |
-| 1593 | 6 | Brian K Young II |
-| 1594 | 6 | Jaime Sunshine |
-| 1595 | 6 | Clever Pivotfall |
+| 1592 | 6 | Marcellus Royal |
+| 1593 | 6 | Jack Shafer |
+| 1594 | 6 | Terry Leon Osborne Jr. |
+| 1595 | 6 | Cory Ford |
 | 1596 | 6 | Lee Corum |
 | 1597 | 6 | Frisky Twistslam |
 | 1598 | 6 | Blanca Perez |

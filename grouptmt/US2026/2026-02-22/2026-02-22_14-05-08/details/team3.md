@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |
@@ -170,15 +170,15 @@
 | 162 | 399 | Mcathen |
 | 163 | 397 | Annie Déè |
 | 164 | 393 | Fallorina Susana |
-| 165 | 391 | Sarah Cowan Burgos |
-| 166 | 391 | Calista Jo Dickson |
+| 165 | 391 | Calista Jo Dickson |
+| 166 | 391 | Sarah Cowan Burgos |
 | 167 | 390 | Hasty Cascadefit |
 | 168 | 389 | Jeni Dow |
 | 169 | 384 | Dapper Snap |
 | 170 | 382 | Scott Carleton |
 | 171 | 380 | Tasha Schriewer |
-| 172 | 378 | Chris Bell |
-| 173 | 378 | Nicole Flippo |
+| 172 | 378 | Nicole Flippo |
+| 173 | 378 | Chris Bell |
 | 174 | 376 | Loopy Clusterer |
 | 175 | 375 | Shunta Jacobs |
 | 176 | 374 | Sherry Ogden |

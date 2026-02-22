@@ -179,8 +179,8 @@
 | 171 | 1047 | Amy Sayers |
 | 172 | 1046 | Poppy Snap |
 | 173 | 1045 | Lourisha |
-| 174 | 1043 | Brave Dropmatch |
-| 175 | 1043 | Suki Kaur |
+| 174 | 1043 | Suki Kaur |
+| 175 | 1043 | Brave Dropmatch |
 | 176 | 1036 | Allison Lockyer |
 | 177 | 1035 | Sarah Freitas |
 | 178 | 1025 | Brandy Andre |
@@ -195,8 +195,8 @@
 | 187 | 993 | Tralonda Weeks |
 | 188 | 991 | Moose Griffith |
 | 189 | 989 | Teddi Notyalc |
-| 190 | 988 | Maegan Beaule |
-| 191 | 988 | Cherica Taylor |
+| 190 | 988 | Cherica Taylor |
+| 191 | 988 | Maegan Beaule |
 | 192 | 986 | RAEPR05 |
 | 193 | 984 | Nika Bee |
 | 194 | 982 | Desiree Harris Rosch |
@@ -614,8 +614,8 @@
 | 606 | 389 | Kayla |
 | 607 | 388 | Connie Jimenez |
 | 608 | 388 | Christina Ashley |
-| 609 | 387 | Misti Markijohn |
-| 610 | 387 | Bold Brickster |
+| 609 | 387 | Bold Brickster |
+| 610 | 387 | Misti Markijohn |
 | 611 | 385 | Tansaria Couch-Butler |
 | 612 | 385 | Tom Riefer |
 | 613 | 385 | Nate Skidmore |
@@ -788,15 +788,15 @@
 | 780 | 300 | Warren Marleau |
 | 781 | 300 | Kacee Conrad Bock |
 | 782 | 299 | Cassie Newton |
-| 783 | 298 | Ryan Stadel |
-| 784 | 298 | Lazy Riseclear |
-| 785 | 297 | Toni Lynn |
-| 786 | 297 | Frisky Patternline |
+| 783 | 298 | Lazy Riseclear |
+| 784 | 298 | Ryan Stadel |
+| 785 | 297 | Frisky Patternline |
+| 786 | 297 | Toni Lynn |
 | 787 | 297 | Ashley Robbins |
 | 788 | 296 | Jennifer Darby |
 | 789 | 296 | Frisky Riserbuilder |
-| 790 | 296 | Cozy Drop |
-| 791 | 296 | Zappy Dropmatch |
+| 790 | 296 | Zappy Dropmatch |
+| 791 | 296 | Cozy Drop |
 | 792 | 295 | Noel Tarmy |
 | 793 | 295 | Sveta Lana |
 | 794 | 294 | Amanda Edwards |

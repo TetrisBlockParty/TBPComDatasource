@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -62,8 +62,8 @@
 | 54 | 671 | TeeJ |
 | 55 | 664 | Valerie Roberts |
 | 56 | 661 | D3TROITB0RN74 |
-| 57 | 659 | Jonathan Kimbrough |
-| 58 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Rebecca Moulton Pinciaro |
+| 58 | 659 | Jonathan Kimbrough |
 | 59 | 658 | loulou |
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
@@ -83,8 +83,8 @@
 | 75 | 544 | Amy Suckarieh |
 | 76 | 533 | Chris Baggett |
 | 77 | 530 | Yoset Mejia |
-| 78 | 524 | Carolyn Wallace |
-| 79 | 524 | Amelpss |
+| 78 | 524 | Amelpss |
+| 79 | 524 | Carolyn Wallace |
 | 80 | 523 | Dawn Alexander |
 | 81 | 517 | H.R. Block |
 | 82 | 512 | Casey Jeffcoat |
@@ -143,8 +143,8 @@
 | 135 | 287 | Shannon Ferrari |
 | 136 | 286 | shark tato |
 | 137 | 283 | Brittney Orengo |
-| 138 | 281 | Meagan Nicole |
-| 139 | 281 | Lindsay Ball |
+| 138 | 281 | Lindsay Ball |
+| 139 | 281 | Meagan Nicole |
 | 140 | 278 | Leah Kutz Zirbel |
 | 141 | 278 | Carrie Brian |
 | 142 | 277 | Mary Ann Pabukis |
@@ -158,8 +158,8 @@
 | 150 | 264 | Dana Scott |
 | 151 | 264 | Girl |
 | 152 | 262 | Holly Jolly |
-| 153 | 262 | Joeliecea Cobb |
-| 154 | 262 | Alan George LaRage |
+| 153 | 262 | Alan George LaRage |
+| 154 | 262 | Joeliecea Cobb |
 | 155 | 261 | Twisty Clicky |
 | 156 | 258 | Bio Nelly |
 | 157 | 256 | Mylo Lipscomb |
@@ -226,14 +226,14 @@
 | 218 | 192 | Shauna Havard |
 | 219 | 191 | Klo |
 | 220 | 190 | Cheery Risebuilder |
-| 221 | 189 | Calvin Dennis |
-| 222 | 189 | Stacey Stano |
-| 223 | 189 | Dihcheese444 |
+| 221 | 189 | Stacey Stano |
+| 222 | 189 | Dihcheese444 |
+| 223 | 189 | Calvin Dennis |
 | 224 | 186 | Holly |
 | 225 | 185 | Rebecca Morris |
 | 226 | 185 | Laura Hosford |
-| 227 | 184 | Lauren Lamb |
-| 228 | 184 | Ak Jones |
+| 227 | 184 | Ak Jones |
+| 228 | 184 | Lauren Lamb |
 | 229 | 181 | Jackie Marie |
 | 230 | 181 | Carter Jones |
 | 231 | 180 | Orchislactea |
@@ -423,8 +423,8 @@
 | 415 | 105 | Michelle Parker |
 | 416 | 105 | Zesty Linkgrid |
 | 417 | 104 | Jessica Johnston |
-| 418 | 104 | Blessedmama |
-| 419 | 104 | Gdiguy |
+| 418 | 104 | Gdiguy |
+| 419 | 104 | Blessedmama |
 | 420 | 104 | Ryry |
 | 421 | 102 | Bigeddie |
 | 422 | 102 | Christina O'Dell-Ishau |
