@@ -121,8 +121,8 @@
 | 113 | 638 | Jesse Olive |
 | 114 | 630 | yoyo |
 | 115 | 627 | Kristie |
-| 116 | 625 | Shavette |
-| 117 | 625 | Amber Hughes |
+| 116 | 625 | Amber Hughes |
+| 117 | 625 | Shavette |
 | 118 | 621 | Cherry Parker |
 | 119 | 618 | Bea Miles |
 | 120 | 595 | Patricia White |
@@ -203,8 +203,8 @@
 | 195 | 400 | Sherika C. McDaniels |
 | 196 | 399 | Mcathen |
 | 197 | 392 | Chasity |
-| 198 | 391 | Cozy Snaplink |
-| 199 | 391 | Sarah Cowan Burgos |
+| 198 | 391 | Sarah Cowan Burgos |
+| 199 | 391 | Cozy Snaplink |
 | 200 | 383 | rosy |
 | 201 | 383 | Nicole Flippo |
 | 202 | 382 | Scott Carleton |
@@ -542,7 +542,7 @@
 | 534 | 151 | Paula Little |
 | 535 | 150 | Steph Arcari |
 | 536 | 150 | Sassy Brickmatch |
-| 537 | 149 | Alexis Taylor |
+| 537 | 149 | xsiv |
 | 538 | 149 | Todd Hall |
 | 539 | 149 | Alexis Taylor |
 | 540 | 148 | Kate Farok |

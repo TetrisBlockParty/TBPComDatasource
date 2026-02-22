@@ -403,8 +403,8 @@
 | 395 | 136 | Dandy Cascadefit |
 | 396 | 136 | Michelle Morris |
 | 397 | 135 | Joshua Guess |
-| 398 | 134 | Kristin MacDonald |
-| 399 | 134 | Jobadia Steelerton |
+| 398 | 134 | Jobadia Steelerton |
+| 399 | 134 | Kristin MacDonald |
 | 400 | 133 | Jesus Garcia |
 | 401 | 132 | Vamp |
 | 402 | 132 | No Strings Attached Ra |
@@ -422,7 +422,7 @@
 | 414 | 129 | Dreamy Snapgrid |
 | 415 | 129 | Sherri |
 | 416 | 129 | Amy Sanford |
-| 417 | 128 | Raymond Roberts |
+| 417 | 128 | Dapper Balancer |
 | 418 | 128 | Denise B |
 | 419 | 128 | Raymond Roberts |
 | 420 | 127 | Robert Rodriguez |
@@ -481,7 +481,7 @@
 | 473 | 111 | Zocko Ellet |
 | 474 | 111 | Michelle Parker |
 | 475 | 111 | Lazy Blocker |
-| 476 | 110 | Thomas Hettenhaus |
+| 476 | 110 | Jennifer Dineen |
 | 477 | 110 | JoAnna Zalkovsky |
 | 478 | 110 | Thomas Hettenhaus |
 | 479 | 109 | Jeff Roberts |
@@ -501,7 +501,7 @@
 | 493 | 106 | Cassandra Stewart |
 | 494 | 106 | Jessica Wells |
 | 495 | 105 | MoP11 |
-| 496 | 105 | Lakesha Johnson |
+| 496 | 105 | meowmew |
 | 497 | 105 | Undeniable Williams |
 | 498 | 105 | Lakesha Johnson |
 | 499 | 104 | Kametsunoyaiba |
