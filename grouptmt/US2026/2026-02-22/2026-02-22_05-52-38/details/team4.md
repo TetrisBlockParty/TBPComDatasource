@@ -161,8 +161,8 @@
 | 153 | 215 | Jessica Bohlken |
 | 154 | 215 | Chris Bernstein |
 | 155 | 214 | Twisty Cascadezone |
-| 156 | 213 | Sarah Neathery |
-| 157 | 213 | Jason Allen |
+| 156 | 213 | Jason Allen |
+| 157 | 213 | Sarah Neathery |
 | 158 | 212 | Mike Solo |
 | 159 | 212 | Calvin Cannon |
 | 160 | 211 | Jenna McGeorge |
@@ -180,10 +180,10 @@
 | 172 | 195 | Malakai Darien Fox |
 | 173 | 194 | Zany Twisterfit |
 | 174 | 192 | Shauna Havard |
-| 175 | 191 | Klo |
-| 176 | 191 | Chirpy Basepiece |
-| 177 | 189 | Stacey Stano |
-| 178 | 189 | Calvin Dennis |
+| 175 | 191 | Chirpy Basepiece |
+| 176 | 191 | Klo |
+| 177 | 189 | Calvin Dennis |
+| 178 | 189 | Stacey Stano |
 | 179 | 188 | Andria Lynn |
 | 180 | 188 | Zethra Prenisha Rahming |
 | 181 | 186 | Holly |
@@ -336,8 +336,8 @@
 | 328 | 106 | Zappy Snaplink |
 | 329 | 106 | Jacob Richard |
 | 330 | 105 | Zesty Linkgrid |
-| 331 | 105 | Jim Hart |
-| 332 | 105 | GBR |
+| 331 | 105 | GBR |
+| 332 | 105 | Jim Hart |
 | 333 | 105 | meowmew |
 | 334 | 104 | Jessica Johnston |
 | 335 | 104 | Cranky Rollpiece |

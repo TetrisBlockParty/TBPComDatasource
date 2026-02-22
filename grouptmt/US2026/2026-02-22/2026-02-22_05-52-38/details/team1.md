@@ -148,8 +148,8 @@
 | 140 | 241 | John J. Cronin |
 | 141 | 236 | Mandyy Rae |
 | 142 | 232 | Jessi Sauer |
-| 143 | 230 | Billie Dawn Sparks |
-| 144 | 230 | Frothy Pattern |
+| 143 | 230 | Frothy Pattern |
+| 144 | 230 | Billie Dawn Sparks |
 | 145 | 229 | David Lutcher |
 | 146 | 228 | ALFD |
 | 147 | 226 | Kandae |
@@ -183,8 +183,8 @@
 | 175 | 193 | Lachelle Dillon |
 | 176 | 192 | Jessica Sheehan |
 | 177 | 191 | Diane Byrd |
-| 178 | 190 | Sweetts |
-| 179 | 190 | Thorne Shumate |
+| 178 | 190 | Thorne Shumate |
+| 179 | 190 | Sweetts |
 | 180 | 189 | Jeanna Dunn |
 | 181 | 189 | Michael |
 | 182 | 187 | Amanda Johnson Huffman |
@@ -232,7 +232,7 @@
 | 224 | 155 | Barry Mac'Ockner |
 | 225 | 154 | Melissa Lemmon |
 | 226 | 153 | Desiree Deschaine Havee |
-| 227 | 152 | Speedy Snapfall |
+| 227 | 152 | Brave Wrecker |
 | 228 | 152 | Strig |
 | 229 | 152 | Tavia |
 | 230 | 152 | Speedy Snapfall |

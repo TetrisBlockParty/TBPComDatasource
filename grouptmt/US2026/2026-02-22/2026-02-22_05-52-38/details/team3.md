@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Scott Lindsay |
-| 138 | 403 | Christine Filson |
+| 137 | 403 | Christine Filson |
+| 138 | 403 | Scott Lindsay |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 400 | Luciana Braganca Vieira |
 | 141 | 399 | Mcathen |
@@ -168,8 +168,8 @@
 | 160 | 362 | Darlene McMillan |
 | 161 | 359 | Dapper Snap |
 | 162 | 355 | Tessina Dewey-Mancino |
-| 163 | 353 | CeceGeGe |
-| 164 | 353 | Shunta Jacobs |
+| 163 | 353 | Shunta Jacobs |
+| 164 | 353 | CeceGeGe |
 | 165 | 352 | Chris Bell |
 | 166 | 351 | Tom Nault |
 | 167 | 348 | Chasity |

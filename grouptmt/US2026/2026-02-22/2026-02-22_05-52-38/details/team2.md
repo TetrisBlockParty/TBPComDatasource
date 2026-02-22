@@ -553,10 +553,10 @@
 | 545 | 371 | AkaLefty |
 | 546 | 371 | Brenda Messer |
 | 547 | 371 | Saucy Fitzone |
-| 548 | 369 | Tony Lea |
-| 549 | 369 | RaeVan Worthington |
-| 550 | 369 | Juan Castillo |
-| 551 | 369 | Brenda Pierpoint |
+| 548 | 369 | RaeVan Worthington |
+| 549 | 369 | Tony Lea |
+| 550 | 369 | Brenda Pierpoint |
+| 551 | 369 | Juan Castillo |
 | 552 | 367 | Deyawn Smith |
 | 553 | 367 | Ashley Marie |
 | 554 | 367 | Jessica Lamb |
@@ -689,8 +689,8 @@
 | 681 | 302 | Maxwell Escalera |
 | 682 | 300 | Kacee Conrad Bock |
 | 683 | 299 | Cassie Newton |
-| 684 | 298 | Alice Ball |
-| 685 | 298 | Frilly Fallzone |
+| 684 | 298 | Frilly Fallzone |
+| 685 | 298 | Alice Ball |
 | 686 | 298 | RetroLemur |
 | 687 | 298 | Ryan Stadel |
 | 688 | 297 | Toni Lynn |
@@ -765,8 +765,8 @@
 | 757 | 263 | Alyssia Tancredi |
 | 758 | 263 | Chummy Breaker |
 | 759 | 263 | Sunshine711 |
-| 760 | 263 | Sara Pennington |
-| 761 | 263 | Laura Wyatt |
+| 760 | 263 | Laura Wyatt |
+| 761 | 263 | Sara Pennington |
 | 762 | 262 | Maria Hammett |
 | 763 | 262 | Nat |
 | 764 | 262 | Taren Cowan |
