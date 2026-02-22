@@ -88,8 +88,8 @@
 | 80 | 369 | Nope Young |
 | 81 | 360 | Cassie Michaux |
 | 82 | 359 | Jamie Mann-Deichmann |
-| 83 | 358 | Nugget |
-| 84 | 358 | Shane Kalamata Platoon |
+| 83 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Nugget |
 | 85 | 319 | Livvy |
 | 86 | 311 | David Lay |
 | 87 | 309 | Denise Carlson |
@@ -262,11 +262,11 @@
 | 254 | 116 | Maureen Flanigan |
 | 255 | 115 | Alexandra Karavias |
 | 256 | 115 | Nubian1 |
-| 257 | 115 | Alexandra Karavias |
+| 257 | 115 | Jayk |
 | 258 | 114 | PennyCandee |
 | 259 | 114 | Christina Black |
-| 260 | 113 | Dandy Cascadefit |
-| 261 | 113 | Adam Randall |
+| 260 | 113 | Adam Randall |
+| 261 | 113 | Dandy Cascadefit |
 | 262 | 112 | Jeremy Steines |
 | 263 | 111 | Lazy Blocker |
 | 264 | 110 | Porkobello |
@@ -325,8 +325,8 @@
 | 317 | 93 | No Strings Attached Ra |
 | 318 | 93 | Matt Gooder |
 | 319 | 93 | JPW |
-| 320 | 92 | Frilly Blocky |
-| 321 | 92 | Bigeddie |
+| 320 | 92 | Bigeddie |
+| 321 | 92 | Frilly Blocky |
 | 322 | 91 | Sunny Filler |
 | 323 | 91 | wombat |
 | 324 | 91 | Lee Silpe |

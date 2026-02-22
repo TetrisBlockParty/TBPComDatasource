@@ -69,8 +69,8 @@
 | 61 | 412 | Anaid Sanchez |
 | 62 | 409 | Jazzy Framezone |
 | 63 | 391 | Robert Benito |
-| 64 | 388 | Jennifer ManWarren |
-| 65 | 388 | Yvonne Marie |
+| 64 | 388 | Yvonne Marie |
+| 65 | 388 | Jennifer ManWarren |
 | 66 | 382 | Lori Sanders- Davis |
 | 67 | 379 | Austin James |
 | 68 | 374 | Tinah Montanna |
@@ -94,8 +94,8 @@
 | 86 | 319 | Shauna Loe |
 | 87 | 311 | Tanya Carpenter-Reynolds |
 | 88 | 310 | Seth Wesson |
-| 89 | 305 | Cynthia Bradley |
-| 90 | 305 | Patrick Luckenbill |
+| 89 | 305 | Patrick Luckenbill |
+| 90 | 305 | Cynthia Bradley |
 | 91 | 304 | Nicole Roseberry Weber |
 | 92 | 303 | cc |
 | 93 | 301 | Lehrin Maria |
@@ -150,11 +150,11 @@
 | 142 | 198 | Shiny Gridmatch |
 | 143 | 198 | Happy Snapbuild |
 | 144 | 195 | Daring Fitclear |
-| 145 | 194 | Ash Galvan |
-| 146 | 194 | Tyler Werts |
+| 145 | 194 | Tyler Werts |
+| 146 | 194 | Ash Galvan |
 | 147 | 193 | Lachelle Dillon |
-| 148 | 192 | Shaykmia |
-| 149 | 192 | Jessica Sheehan |
+| 148 | 192 | Jessica Sheehan |
+| 149 | 192 | Shaykmia |
 | 150 | 191 | Diane Byrd |
 | 151 | 190 | Sweetts |
 | 152 | 190 | Thorne Shumate |
@@ -166,10 +166,10 @@
 | 158 | 186 | Margo Wagner |
 | 159 | 185 | Basment Living |
 | 160 | 183 | Sleepysloath5745 |
-| 161 | 180 | Erez Yosef |
-| 162 | 180 | BigWeenie69 |
-| 163 | 179 | femmefatale |
-| 164 | 179 | Danielle Little-Daugherty |
+| 161 | 180 | BigWeenie69 |
+| 162 | 180 | Erez Yosef |
+| 163 | 179 | Danielle Little-Daugherty |
+| 164 | 179 | femmefatale |
 | 165 | 178 | Chad Atchley |
 | 166 | 177 | Jacqueline Unique |
 | 167 | 177 | Irual Hctrab |
@@ -315,15 +315,15 @@
 | 307 | 98 | Jeanna Dunn |
 | 308 | 97 | Steve Bomkamp |
 | 309 | 97 | Josh Smith |
-| 310 | 96 | Nutty Spinblock |
-| 311 | 96 | Lisa Marie |
+| 310 | 96 | Lisa Marie |
+| 311 | 96 | Nutty Spinblock |
 | 312 | 96 | Bob |
-| 313 | 94 | Mitchel White |
-| 314 | 94 | Sylvia Vasquez |
+| 313 | 94 | Mario Cab |
+| 314 | 94 | Mitchel White |
 | 315 | 94 | Patty Lavigne Craddock |
-| 316 | 94 | Mario Cab |
-| 317 | 93 | Amy Hess |
-| 318 | 93 | Jay Tressler |
+| 316 | 94 | Sylvia Vasquez |
+| 317 | 93 | Jay Tressler |
+| 318 | 93 | Amy Hess |
 | 319 | 93 | Mighty Shatterfit |
 | 320 | 92 | Colleen Pinette |
 | 321 | 92 | Grace Joanne Agnant |

@@ -232,8 +232,8 @@
 | 224 | 671 | Pacynthia Williams |
 | 225 | 666 | Speedy Spinblock |
 | 226 | 666 | Charvi' Carter |
-| 227 | 661 | Claire Noland |
-| 228 | 661 | Kristin Gower |
+| 227 | 661 | Kristin Gower |
+| 228 | 661 | Claire Noland |
 | 229 | 660 | Bussyiano Page |
 | 230 | 659 | Roseanna Peloso |
 | 231 | 659 | Poldo Ilano |
@@ -352,10 +352,10 @@
 | 344 | 460 | Cody Smith-Candelaria |
 | 345 | 459 | Brainy Smurf |
 | 346 | 458 | Casper The Chonk |
-| 347 | 454 | Nashu |
-| 348 | 454 | Casey Schumacher |
-| 349 | 453 | Rhonda Petro |
-| 350 | 453 | Joshua Sommerville |
+| 347 | 454 | Casey Schumacher |
+| 348 | 454 | Nashu |
+| 349 | 453 | Joshua Sommerville |
+| 350 | 453 | Rhonda Petro |
 | 351 | 452 | Alezandra Smith |
 | 352 | 451 | Funky Caster |
 | 353 | 451 | Daphne Jordan |
@@ -794,8 +794,8 @@
 | 786 | 219 | Abby Klaski |
 | 787 | 219 | Cathy Bitters |
 | 788 | 219 | Beverly Hodge |
-| 789 | 218 | Ashlyn Berner |
-| 790 | 218 | Joy LaJeunesse |
+| 789 | 218 | Joy LaJeunesse |
+| 790 | 218 | Ashlyn Berner |
 | 791 | 218 | Jannan Haimour |
 | 792 | 217 | Michael Artis |
 | 793 | 217 | Erika Meaux |
