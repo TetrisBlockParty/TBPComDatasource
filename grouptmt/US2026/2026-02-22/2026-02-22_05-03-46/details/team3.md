@@ -48,8 +48,8 @@
 | 40 | 1036 | Ant Ant |
 | 41 | 1015 | Amber Jones |
 | 42 | 998 | Liv Whetson |
-| 43 | 989 | Kay |
-| 44 | 989 | Joey Banks |
+| 43 | 989 | Joey Banks |
+| 44 | 989 | Kay |
 | 45 | 968 | Stephanie Rice |
 | 46 | 956 | Gracie |
 | 47 | 935 | Snappy Fitzone |
@@ -285,8 +285,8 @@
 | 277 | 189 | Katie Leigh Blankenship |
 | 278 | 188 | Loopy Fallmatch |
 | 279 | 186 | Carrie Huskey |
-| 280 | 184 | France Vézina |
-| 281 | 184 | Troy |
+| 280 | 184 | Troy |
+| 281 | 184 | France Vézina |
 | 282 | 184 | El Chapa |
 | 283 | 182 | Melanie Sherwood |
 | 284 | 181 | Nicholas Roddy |
@@ -462,9 +462,9 @@
 | 454 | 110 | Bekah Dietrich |
 | 455 | 110 | Angela VanOstrand |
 | 456 | 109 | Peachy Westbrook |
-| 457 | 109 | xsiv |
+| 457 | 109 | mommablock |
 | 458 | 109 | Martin Bernier |
-| 459 | 109 | mommablock |
+| 459 | 109 | xsiv |
 | 460 | 109 | Christopher Woost |
 | 461 | 109 | Katie Bolich |
 | 462 | 108 | Lush Risebuilder |
@@ -582,8 +582,8 @@
 | 574 | 88 | Bree Sexton |
 | 575 | 88 | Dapper Dashpiece |
 | 576 | 87 | monied |
-| 577 | 87 | Payden Dover |
-| 578 | 87 | Pizzi |
+| 577 | 87 | Nerdy Snapbuild |
+| 578 | 87 | gravelgrinder |
 | 579 | 87 | Richard Rowell |
 | 580 | 87 | Pizzi |
 | 581 | 87 | Payden Dover |

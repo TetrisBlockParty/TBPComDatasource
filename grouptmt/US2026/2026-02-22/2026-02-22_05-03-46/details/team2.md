@@ -202,8 +202,8 @@
 | 194 | 845 | Felicia Lynn |
 | 195 | 838 | Tralonda Weeks |
 | 196 | 837 | Ashley Rose Frederick |
-| 197 | 834 | Nika Bee |
-| 198 | 834 | Rebecca Doughman |
+| 197 | 834 | Rebecca Doughman |
+| 198 | 834 | Nika Bee |
 | 199 | 828 | Cindy Sechler Taninecz |
 | 200 | 826 | Moose Griffith |
 | 201 | 820 | Chirpy Staggerpiece |
