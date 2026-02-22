@@ -140,20 +140,20 @@
 | 132 | 300 | Elaine Elaine |
 | 133 | 300 | Chelsea Dahlquist |
 | 134 | 298 | Erin Hodges Plumb |
-| 135 | 290 | Sarah Roberts |
-| 136 | 290 | Death |
+| 135 | 290 | Death |
+| 136 | 290 | Sarah Roberts |
 | 137 | 289 | David Miller |
 | 138 | 285 | Ananda Mendez |
-| 139 | 284 | Emily Adelaide Wheatley |
-| 140 | 284 | Rachael |
+| 139 | 284 | Rachael |
+| 140 | 284 | Emily Adelaide Wheatley |
 | 141 | 283 | Franswa |
 | 142 | 282 | Tyler Werts |
 | 143 | 282 | Timothy Dew |
 | 144 | 282 | Snippy Wipebuilder |
 | 145 | 282 | Cool Shiftsnap |
 | 146 | 276 | Dandy Basegrid |
-| 147 | 270 | Ash Galvan |
-| 148 | 270 | Mandyy Rae |
+| 147 | 270 | Mandyy Rae |
+| 148 | 270 | Ash Galvan |
 | 149 | 268 | GATOR |
 | 150 | 265 | SkipTheSadSauce |
 | 151 | 265 | Nutty Spinblock |

@@ -140,8 +140,8 @@
 | 132 | 1273 | Cool Rollpiece |
 | 133 | 1265 | Katrina Williams Balmir |
 | 134 | 1257 | Eileen Hale |
-| 135 | 1248 | Howard Forest |
-| 136 | 1248 | Isabela Shaw |
+| 135 | 1248 | Isabela Shaw |
+| 136 | 1248 | Howard Forest |
 | 137 | 1242 | Altamirano Michael |
 | 138 | 1232 | Groovy Puzzle |
 | 139 | 1231 | Bussyiano Page |
@@ -179,8 +179,8 @@
 | 171 | 1047 | Amy Sayers |
 | 172 | 1046 | Poppy Snap |
 | 173 | 1045 | Lourisha |
-| 174 | 1043 | Suki Kaur |
-| 175 | 1043 | Brave Dropmatch |
+| 174 | 1043 | Brave Dropmatch |
+| 175 | 1043 | Suki Kaur |
 | 176 | 1036 | Allison Lockyer |
 | 177 | 1035 | Sarah Freitas |
 | 178 | 1025 | Brandy Andre |
@@ -509,8 +509,8 @@
 | 501 | 462 | Jarboe |
 | 502 | 460 | Tara Lynn Janes |
 | 503 | 459 | Melissa Kay Gibson |
-| 504 | 458 | Casper The Chonk |
-| 505 | 458 | SwampRebel |
+| 504 | 458 | SwampRebel |
+| 505 | 458 | Casper The Chonk |
 | 506 | 454 | Casey Schumacher |
 | 507 | 453 | Rhonda Petro |
 | 508 | 453 | Joshua Sommerville |
@@ -534,8 +534,8 @@
 | 526 | 438 | Kristi Biddinger |
 | 527 | 437 | Bubbly Snapfit |
 | 528 | 436 | Niceday |
-| 529 | 435 | Regina Young |
-| 530 | 435 | James Louie |
+| 529 | 435 | James Louie |
+| 530 | 435 | Regina Young |
 | 531 | 433 | KayLynn Ogden McClelland |
 | 532 | 432 | Lucy Marshall |
 | 533 | 431 | Quinn |
@@ -860,8 +860,8 @@
 | 852 | 275 | Tammy Mitchell |
 | 853 | 275 | LeVeL27 |
 | 854 | 275 | Neaomi Favro |
-| 855 | 275 | David Duncan |
-| 856 | 275 | Alishac Marie |
+| 855 | 275 | Alishac Marie |
+| 856 | 275 | David Duncan |
 | 857 | 274 | Shylee Tilman |
 | 858 | 274 | Tammy Coppoletta |
 | 859 | 274 | Michael David Hollis |
@@ -877,8 +877,8 @@
 | 869 | 272 | Witty Piecebuilder |
 | 870 | 271 | Michelle Ettrick |
 | 871 | 271 | Pam Doughty |
-| 872 | 271 | Shalisa Hill |
-| 873 | 271 | Beverly Hodge |
+| 872 | 271 | Beverly Hodge |
+| 873 | 271 | Shalisa Hill |
 | 874 | 271 | Amber N Koepp |
 | 875 | 270 | Lazy Builderfit |
 | 876 | 270 | BK Queen |
@@ -916,7 +916,7 @@
 | 908 | 261 | Dany Murillo |
 | 909 | 261 | MrsClaudette Will'sIam Matthews |
 | 910 | 261 | Mellissa Evans |
-| 911 | 260 | Lianne Giandalone LaBounty |
+| 911 | 260 | Giggly Snap |
 | 912 | 260 | Elena Vap |
 | 913 | 260 | Manny Trindade |
 | 914 | 260 | Michelle Fleming Luna |

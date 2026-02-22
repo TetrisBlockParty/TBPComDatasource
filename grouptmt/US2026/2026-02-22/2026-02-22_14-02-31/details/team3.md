@@ -64,8 +64,8 @@
 | 56 | 909 | Jennifer |
 | 57 | 908 | Alanna Rogers |
 | 58 | 903 | Sarah Fehring |
-| 59 | 895 | Amanda L Baker |
-| 60 | 895 | Shonna Roberts |
+| 59 | 895 | Shonna Roberts |
+| 60 | 895 | Amanda L Baker |
 | 61 | 886 | Khristen AC |
 | 62 | 882 | Susan Valentino |
 | 63 | 881 | Nate Burnside |

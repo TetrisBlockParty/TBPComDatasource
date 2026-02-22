@@ -62,8 +62,8 @@
 | 54 | 671 | TeeJ |
 | 55 | 664 | Valerie Roberts |
 | 56 | 661 | D3TROITB0RN74 |
-| 57 | 659 | Jonathan Kimbrough |
-| 58 | 659 | Rebecca Moulton Pinciaro |
+| 57 | 659 | Rebecca Moulton Pinciaro |
+| 58 | 659 | Jonathan Kimbrough |
 | 59 | 658 | loulou |
 | 60 | 654 | Chilly Line |
 | 61 | 647 | KM8 |
@@ -176,8 +176,8 @@
 | 168 | 237 | Jen Caldwell |
 | 169 | 236 | Swanky Fitline |
 | 170 | 232 | Crystal Nicolette Moore |
-| 171 | 230 | Cursed Hag |
-| 172 | 230 | Autum Leigh |
+| 171 | 230 | Autum Leigh |
+| 172 | 230 | Cursed Hag |
 | 173 | 227 | Alyssa Papen |
 | 174 | 227 | Andria Lynn |
 | 175 | 224 | Matt Summer |
@@ -215,10 +215,10 @@
 | 207 | 198 | Zesty Twistbuilder |
 | 208 | 198 | Keith Kelley |
 | 209 | 197 | Silly SeaWeed |
-| 210 | 196 | Mr. Party |
-| 211 | 196 | Oscar Alberto Perez |
-| 212 | 195 | 中山成巳 |
-| 213 | 195 | Malakai Darien Fox |
+| 210 | 196 | Oscar Alberto Perez |
+| 211 | 196 | Mr. Party |
+| 212 | 195 | Malakai Darien Fox |
+| 213 | 195 | 中山成巳 |
 | 214 | 194 | Zany Twisterfit |
 | 215 | 193 | Nikki Rae Gordon |
 | 216 | 193 | Rio Rocha |
