@@ -164,8 +164,8 @@
 | 156 | 403 | Scott Lindsay |
 | 157 | 401 | Katie Knaus |
 | 158 | 400 | Luciana Braganca Vieira |
-| 159 | 399 | Mcathen |
-| 160 | 399 | Marcie Bressler |
+| 159 | 399 | Marcie Bressler |
+| 160 | 399 | Mcathen |
 | 161 | 397 | Annie Déè |
 | 162 | 393 | Leah Barnett |
 | 163 | 393 | Fallorina Susana |
@@ -227,8 +227,8 @@
 | 219 | 296 | Brandon Givens |
 | 220 | 295 | Marci Mize Fandrich |
 | 221 | 289 | DidIdothat |
-| 222 | 289 | Duane Bright |
-| 223 | 289 | Hoppy Buildout |
+| 222 | 289 | Hoppy Buildout |
+| 223 | 289 | Duane Bright |
 | 224 | 286 | Cynthia Herrmann Egland |
 | 225 | 284 | Denise Nardoni |
 | 226 | 283 | Sarah Moyer |
@@ -262,8 +262,8 @@
 | 254 | 252 | Nikki Pags |
 | 255 | 252 | Roary Danner |
 | 256 | 250 | fraulila |
-| 257 | 249 | JerseyJess |
-| 258 | 249 | Annie Marie |
+| 257 | 249 | Annie Marie |
+| 258 | 249 | JerseyJess |
 | 259 | 246 | Peppy Shifter |
 | 260 | 245 | Latoya Mayne |
 | 261 | 244 | LaNette Morgan |
@@ -290,15 +290,15 @@
 | 282 | 220 | Tosha Griffey |
 | 283 | 220 | rosy |
 | 284 | 218 | Michael Lucado |
-| 285 | 216 | Cheryl Hinch Tenbrook |
-| 286 | 216 | Twisty Brick LT |
+| 285 | 216 | Twisty Brick LT |
+| 286 | 216 | Cheryl Hinch Tenbrook |
 | 287 | 215 | IamJust Neyamijah Washington Sr. |
 | 288 | 214 | Angela Scott |
 | 289 | 214 | Amy Fuller Heaton |
 | 290 | 214 | Rebel124 |
 | 291 | 213 | Nicholas Roddy |
-| 292 | 212 | Desiree Gold |
-| 293 | 212 | Sunny Rotater |
+| 292 | 212 | Sunny Rotater |
+| 293 | 212 | Desiree Gold |
 | 294 | 212 | Jana Polk |
 | 295 | 211 | Velma Mull |
 | 296 | 211 | El Chapa |
@@ -328,8 +328,8 @@
 | 320 | 199 | Kristian Thurman |
 | 321 | 198 | Goofy Fall |
 | 322 | 195 | Nicha Hooker |
-| 323 | 193 | Clever Shiftsnap |
-| 324 | 193 | Lys |
+| 323 | 193 | Lys |
+| 324 | 193 | Clever Shiftsnap |
 | 325 | 192 | Ryan Williams |
 | 326 | 192 | Kelly Ann Child |
 | 327 | 192 | Melanie Sherwood |

@@ -147,8 +147,8 @@
 | 139 | 282 | Timothy Dew |
 | 140 | 282 | Cool Shiftsnap |
 | 141 | 276 | Dandy Basegrid |
-| 142 | 270 | Ash Galvan |
-| 143 | 270 | Mandyy Rae |
+| 142 | 270 | Mandyy Rae |
+| 143 | 270 | Ash Galvan |
 | 144 | 268 | GATOR |
 | 145 | 265 | SkipTheSadSauce |
 | 146 | 265 | Nutty Spinblock |

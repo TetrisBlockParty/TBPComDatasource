@@ -87,8 +87,8 @@
 | 79 | 512 | Casey Jeffcoat |
 | 80 | 511 | Michelle Marie |
 | 81 | 500 | Rodney McMath Jr. |
-| 82 | 486 | Carmethia Clemons Haslerig |
-| 83 | 486 | Landon Keith Graffeo |
+| 82 | 486 | Landon Keith Graffeo |
+| 83 | 486 | Carmethia Clemons Haslerig |
 | 84 | 469 | Ashley Ingram |
 | 85 | 468 | Shane Kalamata Platoon |
 | 86 | 447 | Samantha Peterson |
@@ -337,7 +337,7 @@
 | 329 | 128 | Madison Sweere |
 | 330 | 128 | Jeremy Steines |
 | 331 | 128 | Elie Pean |
-| 332 | 128 | Madison Sweere |
+| 332 | 128 | Kristin MacDonald |
 | 333 | 127 | Robert Rodriguez |
 | 334 | 126 | Cheryl Johnson |
 | 335 | 126 | PAPatty |

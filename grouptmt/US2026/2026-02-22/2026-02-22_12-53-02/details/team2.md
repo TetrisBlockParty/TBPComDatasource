@@ -599,8 +599,8 @@
 | 591 | 390 | Joice Hansen |
 | 592 | 390 | Moist_B-hole |
 | 593 | 389 | Julie Hamilton |
-| 594 | 389 | Alexis Richardson |
-| 595 | 389 | Kayla |
+| 594 | 389 | Kayla |
+| 595 | 389 | Alexis Richardson |
 | 596 | 388 | Christina Ashley |
 | 597 | 387 | Bold Brickster |
 | 598 | 387 | Misti Markijohn |
@@ -661,8 +661,8 @@
 | 653 | 357 | Shannon Byrd |
 | 654 | 357 | Tristan Szolek |
 | 655 | 355 | Amanda Perez |
-| 656 | 354 | Rickey Johnson |
-| 657 | 354 | Rachel Kaminski |
+| 656 | 354 | Rachel Kaminski |
+| 657 | 354 | Rickey Johnson |
 | 658 | 352 | Rose Fx |
 | 659 | 352 | Jean FU Jagielski |
 | 660 | 352 | ruth |
@@ -710,8 +710,8 @@
 | 702 | 328 | BabyBird |
 | 703 | 328 | Jamie Carter Bierce |
 | 704 | 326 | Ann Knutson Anderson |
-| 705 | 325 | James Smith |
-| 706 | 325 | Justin Hines |
+| 705 | 325 | Justin Hines |
+| 706 | 325 | James Smith |
 | 707 | 325 | Mike73 |
 | 708 | 324 | Dale Haanpaa |
 | 709 | 324 | Tasia Stinson |
@@ -780,8 +780,8 @@
 | 772 | 297 | Frisky Patternline |
 | 773 | 297 | Ashley Robbins |
 | 774 | 296 | Jennifer Darby |
-| 775 | 296 | Zappy Dropmatch |
-| 776 | 296 | Frisky Riserbuilder |
+| 775 | 296 | Frisky Riserbuilder |
+| 776 | 296 | Zappy Dropmatch |
 | 777 | 295 | Noel Tarmy |
 | 778 | 294 | Amanda Edwards |
 | 779 | 294 | Swanky Snap |
@@ -798,14 +798,14 @@
 | 790 | 289 | August Hale |
 | 791 | 289 | Min |
 | 792 | 289 | Ryan Chan |
-| 793 | 288 | Samantha Angelo |
-| 794 | 288 | Jenna Nance |
+| 793 | 288 | Jenna Nance |
+| 794 | 288 | Samantha Angelo |
 | 795 | 288 | thranduil |
 | 796 | 287 | N00D3S |
 | 797 | 287 | Epic Stackzone |
 | 798 | 287 | Trista Carter |
-| 799 | 285 | Angelica |
-| 800 | 285 | Kimberly Mitchell |
+| 799 | 285 | Kimberly Mitchell |
+| 800 | 285 | Angelica |
 | 801 | 285 | Court |
 | 802 | 284 | Bing |
 | 803 | 284 | Candice Mack |
@@ -814,8 +814,8 @@
 | 806 | 282 | Nutty Slice |
 | 807 | 281 | Amy McManus |
 | 808 | 281 | Anthony |
-| 809 | 280 | Danielle DeLozier Plesec |
-| 810 | 280 | Reece Smith |
+| 809 | 280 | Reece Smith |
+| 810 | 280 | Danielle DeLozier Plesec |
 | 811 | 280 | Luke Califf |
 | 812 | 280 | Sandra Link-Gable |
 | 813 | 279 | Jennifer Coe |
