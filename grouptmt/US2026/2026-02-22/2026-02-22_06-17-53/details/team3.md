@@ -94,9 +94,9 @@
 | 86 | 593 | Christine Niles |
 | 87 | 591 | Jesse Olive |
 | 88 | 588 | yoyo |
-| 89 | 582 | Jay Horn |
-| 90 | 582 | Speedy Bridger |
-| 91 | 582 | Natasha Jones |
+| 89 | 582 | Natasha Jones |
+| 90 | 582 | Jay Horn |
+| 91 | 582 | Speedy Bridger |
 | 92 | 581 | Danielle Mogg |
 | 93 | 579 | Jd Morris |
 | 94 | 566 | Dolores Falco |
@@ -115,8 +115,8 @@
 | 107 | 506 | Sashay Tapae Simpson |
 | 108 | 502 | Justin Ritter |
 | 109 | 502 | Elissa S-k |
-| 110 | 500 | Kristie |
-| 111 | 500 | Domo Washington |
+| 110 | 500 | Domo Washington |
+| 111 | 500 | Kristie |
 | 112 | 497 | Mykal Burton |
 | 113 | 492 | Daira Largen |
 | 114 | 491 | Chauntee Alfrey-Cardinale |
@@ -142,8 +142,8 @@
 | 134 | 409 | Karon Griffin |
 | 135 | 407 | Joye Sims Binion |
 | 136 | 405 | Michelle |
-| 137 | 403 | Christine Filson |
-| 138 | 403 | Scott Lindsay |
+| 137 | 403 | Scott Lindsay |
+| 138 | 403 | Christine Filson |
 | 139 | 402 | Shannon Matthew Byers |
 | 140 | 401 | Katie Knaus |
 | 141 | 400 | Luciana Braganca Vieira |
@@ -191,8 +191,8 @@
 | 183 | 315 | Kammy Hill |
 | 184 | 311 | Araceli Parra |
 | 185 | 311 | Raya |
-| 186 | 308 | Daryn Elliott |
-| 187 | 308 | Rania Zaqout |
+| 186 | 308 | Rania Zaqout |
+| 187 | 308 | Daryn Elliott |
 | 188 | 307 | rnr junky |
 | 189 | 307 | Blocked |
 | 190 | 301 | Stephanie Burtin |
@@ -302,8 +302,8 @@
 | 294 | 189 | Katie Leigh Blankenship |
 | 295 | 188 | Loopy Fallmatch |
 | 296 | 186 | Carrie Huskey |
-| 297 | 184 | Troy |
-| 298 | 184 | France Vézina |
+| 297 | 184 | France Vézina |
+| 298 | 184 | Troy |
 | 299 | 182 | Melanie Sherwood |
 | 300 | 181 | Nicholas Roddy |
 | 301 | 181 | Denita Mungro |
@@ -316,8 +316,8 @@
 | 308 | 178 | Jennifer Alvey |
 | 309 | 178 | Jess Dearborn |
 | 310 | 177 | Cozy Snaplink |
-| 311 | 176 | Emma |
-| 312 | 176 | Melissa Orth Hunter |
+| 311 | 176 | Melissa Orth Hunter |
+| 312 | 176 | Emma |
 | 313 | 175 | Eileen Brady Thurber |
 | 314 | 175 | Stephanie Hill |
 | 315 | 174 | Lesley Perez |
@@ -449,9 +449,9 @@
 | 441 | 119 | Everret Maxine |
 | 442 | 118 | Damian Reid |
 | 443 | 118 | Fancy Curver |
-| 444 | 117 | Anabela Ruiz |
-| 445 | 117 | Dee Pratt |
-| 446 | 117 | Rayzer |
+| 444 | 117 | Rayzer |
+| 445 | 117 | Anabela Ruiz |
+| 446 | 117 | Dee Pratt |
 | 447 | 117 | James Lykes |
 | 448 | 116 | Elisha L Allman |
 | 449 | 116 | Dapper Towerfit |

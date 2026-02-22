@@ -113,8 +113,8 @@
 | 105 | 319 | Deanna L Hermanson |
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 313 | Tanya Carpenter-Reynolds |
-| 108 | 310 | Jason Jones |
-| 109 | 310 | Seth Wesson |
+| 108 | 310 | Seth Wesson |
+| 109 | 310 | Jason Jones |
 | 110 | 306 | Happy Basegrid |
 | 111 | 304 | phrmblk24 |
 | 112 | 304 | Nicole Roseberry Weber |
@@ -164,8 +164,8 @@
 | 156 | 216 | Shauntina Burke |
 | 157 | 213 | Daring Fitclear |
 | 158 | 212 | Jaimie Lynn |
-| 159 | 211 | Marianita Garcia |
-| 160 | 211 | Kimberly Garcia |
+| 159 | 211 | Kimberly Garcia |
+| 160 | 211 | Marianita Garcia |
 | 161 | 210 | Letson Melissa |
 | 162 | 210 | Ash Galvan |
 | 163 | 210 | Giggly Builderline |
