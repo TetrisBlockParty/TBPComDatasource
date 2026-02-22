@@ -357,8 +357,8 @@
 | 349 | 157 | Steffi Chris Dacones |
 | 350 | 156 | Nichole Greene |
 | 351 | 155 | Chummy Caster |
-| 352 | 155 | Michell Hendershott Jackson |
-| 353 | 155 | Michael Leblanc |
+| 352 | 155 | Michael Leblanc |
+| 353 | 155 | Michell Hendershott Jackson |
 | 354 | 154 | Wendy Dearden |
 | 355 | 153 | Tony Waters |
 | 356 | 153 | Wetwet |

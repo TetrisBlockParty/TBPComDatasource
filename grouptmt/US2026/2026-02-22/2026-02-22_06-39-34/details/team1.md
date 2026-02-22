@@ -177,8 +177,8 @@
 | 169 | 206 | BadG52 |
 | 170 | 205 | Tater |
 | 171 | 204 | Lacy Wolfe |
-| 172 | 203 | LaFontaine Leslie |
-| 173 | 203 | Paula Martin |
+| 172 | 203 | Paula Martin |
+| 173 | 203 | LaFontaine Leslie |
 | 174 | 201 | Sam Williams |
 | 175 | 199 | Basment Living |
 | 176 | 198 | Shiny Gridmatch |

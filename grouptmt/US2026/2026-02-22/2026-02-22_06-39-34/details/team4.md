@@ -100,8 +100,8 @@
 | 92 | 370 | Leslie Thomas |
 | 93 | 369 | Nope Young |
 | 94 | 358 | Nugget |
-| 95 | 352 | Zippy Gridlock |
-| 96 | 352 | Monica Daley |
+| 95 | 352 | Monica Daley |
+| 96 | 352 | Zippy Gridlock |
 | 97 | 344 | Livvy |
 | 98 | 337 | Lori Walker |
 | 99 | 319 | Amanda Pauldo-Ivy |
@@ -165,21 +165,21 @@
 | 157 | 220 | Matt Dell'Olio |
 | 158 | 218 | Casey Grabner |
 | 159 | 217 | Chaz Duncan |
-| 160 | 215 | Ren Mc |
-| 161 | 215 | Jessica Bohlken |
+| 160 | 215 | Jessica Bohlken |
+| 161 | 215 | Ren Mc |
 | 162 | 214 | Twisty Cascadezone |
-| 163 | 213 | Sarah Neathery |
-| 164 | 213 | Jason Allen |
-| 165 | 212 | Mike Solo |
-| 166 | 212 | Calvin Cannon |
+| 163 | 213 | Jason Allen |
+| 164 | 213 | Sarah Neathery |
+| 165 | 212 | Calvin Cannon |
+| 166 | 212 | Mike Solo |
 | 167 | 211 | Jenna McGeorge |
 | 168 | 207 | Chirpy Basepiece |
 | 169 | 205 | Kathy Brookins |
 | 170 | 204 | Jen Caldwell |
 | 171 | 203 | Katherine Crane |
 | 172 | 202 | TRCuse |
-| 173 | 201 | Melvin Baird |
-| 174 | 201 | Chance Strickland |
+| 173 | 201 | Chance Strickland |
+| 174 | 201 | Melvin Baird |
 | 175 | 198 | Jessica Lynn Cutlip |
 | 176 | 196 | Zethra Prenisha Rahming |
 | 177 | 196 | Oscar Alberto Perez |
@@ -193,13 +193,13 @@
 | 185 | 189 | Calvin Dennis |
 | 186 | 188 | Andria Lynn |
 | 187 | 186 | Holly |
-| 188 | 185 | Andy Cabral |
-| 189 | 185 | Lori |
+| 188 | 185 | Lori |
+| 189 | 185 | Andy Cabral |
 | 190 | 184 | Ak Jones |
-| 191 | 181 | Alan George LaRage |
-| 192 | 181 | Carter Jones |
-| 193 | 180 | Rafael Valentin |
-| 194 | 180 | Orchislactea |
+| 191 | 181 | Carter Jones |
+| 192 | 181 | Alan George LaRage |
+| 193 | 180 | Orchislactea |
+| 194 | 180 | Rafael Valentin |
 | 195 | 179 | blockstar |
 | 196 | 175 | TinyLegoRose |
 | 197 | 174 | Dihcheese444 |
@@ -233,9 +233,9 @@
 | 225 | 152 | Faja |
 | 226 | 152 | Austin Owens |
 | 227 | 150 | Amelpss |
-| 228 | 149 | Tanner Lund |
-| 229 | 149 | Megan Cutshaw |
-| 230 | 149 | Shainne Brewer |
+| 228 | 149 | Megan Cutshaw |
+| 229 | 149 | Shainne Brewer |
+| 230 | 149 | Tanner Lund |
 | 231 | 148 | Janita Parrish |
 | 232 | 147 | B Renee Desjardin |
 | 233 | 147 | Jared Gutwein |
@@ -290,10 +290,10 @@
 | 282 | 127 | Kim Hunt |
 | 283 | 126 | PAPatty |
 | 284 | 126 | icequeenx |
-| 285 | 125 | Daresha Fair |
-| 286 | 125 | Steph Marie |
-| 287 | 125 | Lush Linkfall |
-| 288 | 125 | KimoKoala |
+| 285 | 125 | Lush Linkfall |
+| 286 | 125 | KimoKoala |
+| 287 | 125 | Steph Marie |
+| 288 | 125 | Daresha Fair |
 | 289 | 124 | Sam Middleton |
 | 290 | 124 | Atia Scott |
 | 291 | 123 | Joseph Edmonson |
