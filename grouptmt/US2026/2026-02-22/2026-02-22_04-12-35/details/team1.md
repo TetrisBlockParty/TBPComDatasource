@@ -73,8 +73,8 @@
 | 65 | 428 | Stephanie Zahn |
 | 66 | 423 | Kellie |
 | 67 | 413 | Steve Schneider |
-| 68 | 412 | Jazzy Framezone |
-| 69 | 412 | Anaid Sanchez |
+| 68 | 412 | Anaid Sanchez |
+| 69 | 412 | Jazzy Framezone |
 | 70 | 391 | Robert Benito |
 | 71 | 390 | Candy Jones |
 | 72 | 390 | Cynthia Bradley |

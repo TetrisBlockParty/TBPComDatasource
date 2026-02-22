@@ -90,8 +90,8 @@
 | 82 | 373 | Joseph Guthrie |
 | 83 | 370 | Leslie Thomas |
 | 84 | 369 | Nope Young |
-| 85 | 358 | Nugget |
-| 86 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Shane Kalamata Platoon |
+| 86 | 358 | Nugget |
 | 87 | 352 | Monica Daley |
 | 88 | 337 | Julian Garcia |
 | 89 | 337 | Lori Walker |
@@ -148,7 +148,7 @@
 | 140 | 215 | Ren Mc |
 | 141 | 215 | Jessica Bohlken |
 | 142 | 213 | Jason Allen |
-| 143 | 212 | Tyler Terrific |
+| 143 | 212 | Mike Solo |
 | 144 | 212 | Calvin Cannon |
 | 145 | 212 | Tyler Terrific |
 | 146 | 211 | Twisty Cascadezone |
@@ -176,8 +176,8 @@
 | 168 | 185 | Diana Houts |
 | 169 | 185 | Lori |
 | 170 | 184 | Ak Jones |
-| 171 | 181 | Klo |
-| 172 | 181 | Carter Jones |
+| 171 | 181 | Carter Jones |
+| 172 | 181 | Klo |
 | 173 | 180 | Orchislactea |
 | 174 | 179 | blockstar |
 | 175 | 176 | Zethra Prenisha Rahming |

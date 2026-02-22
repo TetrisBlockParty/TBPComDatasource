@@ -352,10 +352,10 @@
 | 344 | 502 | Sparkles |
 | 345 | 500 | Sarah Ridenour |
 | 346 | 499 | Sarah Massey |
-| 347 | 497 | Kimberly Randesi |
-| 348 | 497 | Jeremy Parodi |
-| 349 | 496 | Nashu |
-| 350 | 496 | Blacc Blac |
+| 347 | 497 | Jeremy Parodi |
+| 348 | 497 | Kimberly Randesi |
+| 349 | 496 | Blacc Blac |
+| 350 | 496 | Nashu |
 | 351 | 495 | William Hunt |
 | 352 | 494 | Doowop40 |
 | 353 | 493 | Kara Gillen |
@@ -364,8 +364,8 @@
 | 356 | 491 | Michael Buckner |
 | 357 | 489 | BeQuo |
 | 358 | 489 | Osun Anuket Esu |
-| 359 | 488 | Venita Ray |
-| 360 | 488 | Andrew Willis |
+| 359 | 488 | Andrew Willis |
+| 360 | 488 | Venita Ray |
 | 361 | 487 | MrsCandyfine As Wine Truss |
 | 362 | 485 | Mamachelle Eisweirth |
 | 363 | 483 | Alezandra Smith |
@@ -391,11 +391,11 @@
 | 383 | 467 | Sam Joe |
 | 384 | 466 | Crystal Greene |
 | 385 | 465 | Michelle Fields |
-| 386 | 463 | Jaye EL Hunter |
-| 387 | 463 | Sue Leard |
-| 388 | 462 | Tonya Lee |
-| 389 | 462 | Amanda Ferrell |
-| 390 | 462 | Daphne Jordan |
+| 386 | 463 | Sue Leard |
+| 387 | 463 | Jaye EL Hunter |
+| 388 | 462 | Daphne Jordan |
+| 389 | 462 | Tonya Lee |
+| 390 | 462 | Amanda Ferrell |
 | 391 | 461 | Hong Tang |
 | 392 | 460 | Cody Smith-Candelaria |
 | 393 | 459 | Cassie Mercer |
@@ -410,8 +410,8 @@
 | 402 | 451 | Dylan Thomason |
 | 403 | 449 | Davetta Sanford |
 | 404 | 447 | Heather Schelkopf |
-| 405 | 447 | Brandy Andre |
-| 406 | 447 | Ann Matzkanin |
+| 405 | 447 | Ann Matzkanin |
+| 406 | 447 | Brandy Andre |
 | 407 | 447 | Lourisha |
 | 408 | 445 | Mar Q Thomas |
 | 409 | 443 | Joseph Musick |
@@ -438,8 +438,8 @@
 | 430 | 422 | Bri Lynn |
 | 431 | 421 | Vonceial Boone |
 | 432 | 421 | Vanessa Moreno |
-| 433 | 419 | Arkei Luster |
-| 434 | 419 | Pocho Zavala |
+| 433 | 419 | Pocho Zavala |
+| 434 | 419 | Arkei Luster |
 | 435 | 415 | Ricky Fortune |
 | 436 | 415 | Véronique Lévesque Sabourin |
 | 437 | 414 | Sabrina Burton |

@@ -138,8 +138,8 @@
 | 130 | 399 | Mcathen |
 | 131 | 399 | Patti Skiles |
 | 132 | 397 | Annie Déè |
-| 133 | 392 | Katie Knaus |
-| 134 | 392 | Tasha Gillespie |
+| 133 | 392 | Tasha Gillespie |
+| 134 | 392 | Katie Knaus |
 | 135 | 391 | Calista Jo Dickson |
 | 136 | 390 | Marcie Bressler |
 | 137 | 390 | Hasty Cascadefit |
@@ -222,15 +222,15 @@
 | 214 | 249 | JerseyJess |
 | 215 | 247 | Rebecca Funderburk Kirby |
 | 216 | 246 | Eon Harris |
-| 217 | 246 | Rochelle Hazelett |
-| 218 | 246 | Peppy Shifter |
+| 217 | 246 | Peppy Shifter |
+| 218 | 246 | Rochelle Hazelett |
 | 219 | 245 | Latoya Mayne |
 | 220 | 240 | Brandon Givens |
 | 221 | 240 | Jimmie Clemons |
 | 222 | 236 | Jess Bissett |
 | 223 | 235 | LaNette Morgan |
-| 224 | 234 | Grego Daniel |
-| 225 | 234 | Nikki Pags |
+| 224 | 234 | Nikki Pags |
+| 225 | 234 | Grego Daniel |
 | 226 | 233 | Ray Lader |
 | 227 | 232 | Donna |
 | 228 | 228 | Tasha Wesson-Torrence |
