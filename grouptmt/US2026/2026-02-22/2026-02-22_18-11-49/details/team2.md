@@ -120,8 +120,8 @@
 | 112 | 1519 | Mindy Leigh Head |
 | 113 | 1513 | blackq |
 | 114 | 1509 | Whitney Nicole Waterman |
-| 115 | 1507 | Linda Pierce |
-| 116 | 1507 | Stephanie Chapman |
+| 115 | 1507 | Stephanie Chapman |
+| 116 | 1507 | Linda Pierce |
 | 117 | 1495 | Tj Ball |
 | 118 | 1493 | Mari Ac |
 | 119 | 1487 | Kristopher Miller |
@@ -351,8 +351,8 @@
 | 343 | 688 | ShinyRose |
 | 344 | 688 | Leslie Ann Carter |
 | 345 | 686 | Ashley Guernsey-Martin |
-| 346 | 685 | Binyah-Binyah |
-| 347 | 685 | Brenda Pierpoint |
+| 346 | 685 | Brenda Pierpoint |
+| 347 | 685 | Binyah-Binyah |
 | 348 | 682 | Poldo Ilano |
 | 349 | 680 | blume |
 | 350 | 679 | Kassandra Hunt |
@@ -914,7 +914,7 @@
 | 906 | 285 | Reece Smith |
 | 907 | 285 | Elizabeth Leinen |
 | 908 | 285 | Candace Cece Joseph |
-| 909 | 284 | Dottie Turbeville Creel |
+| 909 | 284 | Josh Webster |
 | 910 | 284 | Loopy Shatterfit |
 | 911 | 284 | Dottie Turbeville Creel |
 | 912 | 284 | David Duncan |
@@ -1158,9 +1158,9 @@
 | 1150 | 234 | Ashe Corso |
 | 1151 | 234 | Lonnie Brown |
 | 1152 | 233 | Kat |
-| 1153 | 233 | Nerdy Riserfit |
-| 1154 | 233 | Tammie Siegfried |
-| 1155 | 233 | Allison Hewitt |
+| 1153 | 233 | Jessica Sutter |
+| 1154 | 233 | Allison Hewitt |
+| 1155 | 233 | Tammie Siegfried |
 | 1156 | 232 | Smiley Strike |
 | 1157 | 232 | Alicia Moreno |
 | 1158 | 232 | Chirpy Snapper |
@@ -1170,8 +1170,8 @@
 | 1162 | 232 | Melissa Moat |
 | 1163 | 232 | Kirsten Marie Lomupo |
 | 1164 | 231 | Emily Valentine |
-| 1165 | 231 | TK Boles |
-| 1166 | 231 | BbqGuru |
+| 1165 | 231 | BbqGuru |
+| 1166 | 231 | TK Boles |
 | 1167 | 231 | Shannon Jackson |
 | 1168 | 231 | Goofy Cascadeclear |
 | 1169 | 230 | Anna Mayo |

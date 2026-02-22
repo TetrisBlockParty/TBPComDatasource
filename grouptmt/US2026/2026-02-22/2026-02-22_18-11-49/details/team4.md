@@ -70,8 +70,8 @@
 | 62 | 688 | Avy Absol |
 | 63 | 671 | Kimyatta Cavin |
 | 64 | 671 | D3TROITB0RN74 |
-| 65 | 664 | loulou |
-| 66 | 664 | Valerie Roberts |
+| 65 | 664 | Valerie Roberts |
+| 66 | 664 | loulou |
 | 67 | 659 | Jonathan Kimbrough |
 | 68 | 654 | Chilly Line |
 | 69 | 647 | KM8 |
@@ -281,10 +281,10 @@
 | 273 | 171 | Autumn Kumzi |
 | 274 | 170 | Cynthia Boudreau |
 | 275 | 170 | Elie Pean |
-| 276 | 166 | Megan Cutshaw |
-| 277 | 166 | KimoKoala |
-| 278 | 166 | Jenny Wells-Oakley |
-| 279 | 166 | SammieJo Guy |
+| 276 | 166 | KimoKoala |
+| 277 | 166 | Megan Cutshaw |
+| 278 | 166 | SammieJo Guy |
+| 279 | 166 | Jenny Wells-Oakley |
 | 280 | 165 | Zappy Buildgrid |
 | 281 | 165 | Brittany Marsh |
 | 282 | 164 | Marvetta Williams |
