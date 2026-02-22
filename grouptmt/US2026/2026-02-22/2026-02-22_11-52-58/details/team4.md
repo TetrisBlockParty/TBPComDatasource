@@ -38,8 +38,8 @@
 | 30 | 873 | Elizabeth Sallas |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
-| 33 | 843 | Lucille Truesdale |
-| 34 | 843 | Shelly Chandler |
+| 33 | 843 | Shelly Chandler |
+| 34 | 843 | Lucille Truesdale |
 | 35 | 834 | quicksand420 |
 | 36 | 827 | Toots |
 | 37 | 818 | Marvin Lou Martin |
@@ -168,8 +168,8 @@
 | 160 | 230 | Autum Leigh |
 | 161 | 230 | Cursed Hag |
 | 162 | 228 | J-Rizzle |
-| 163 | 227 | Alyssa Papen |
-| 164 | 227 | Swanky Fitline |
+| 163 | 227 | Swanky Fitline |
+| 164 | 227 | Alyssa Papen |
 | 165 | 224 | Matt Summer |
 | 166 | 223 | Kris Bartlett |
 | 167 | 223 | Antony Dwayne Beasley |
@@ -187,16 +187,16 @@
 | 179 | 210 | Zethra Prenisha Rahming |
 | 180 | 207 | Chirpy Basepiece |
 | 181 | 205 | Kathy Brookins |
-| 182 | 204 | Jen Caldwell |
-| 183 | 204 | Carlos Ramirez |
+| 182 | 204 | Carlos Ramirez |
+| 183 | 204 | Jen Caldwell |
 | 184 | 203 | Katherine Crane |
 | 185 | 202 | TRCuse |
 | 186 | 201 | Chance Strickland |
 | 187 | 201 | Melvin Baird |
 | 188 | 200 | Laura |
-| 189 | 198 | Keith Kelley |
-| 190 | 198 | Ruben Wheeler |
-| 191 | 196 | Lori |
+| 189 | 198 | Ruben Wheeler |
+| 190 | 198 | Keith Kelley |
+| 191 | 196 | Oscar Alberto Perez |
 | 192 | 196 | Mr. Party |
 | 193 | 196 | Lori |
 | 194 | 195 | ZeeZee |
@@ -408,8 +408,8 @@
 | 400 | 104 | Cranky Rollpiece |
 | 401 | 104 | Jessica Johnston |
 | 402 | 103 | Sammy Noguera |
-| 403 | 102 | Christina O'Dell-Ishau |
-| 404 | 102 | Brave Spinbuilder |
+| 403 | 102 | Brave Spinbuilder |
+| 404 | 102 | Christina O'Dell-Ishau |
 | 405 | 102 | Bigeddie |
 | 406 | 101 | Saulc1991 |
 | 407 | 100 | Sallie Sanborn |

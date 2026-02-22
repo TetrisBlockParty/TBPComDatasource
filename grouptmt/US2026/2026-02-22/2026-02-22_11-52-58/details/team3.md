@@ -176,8 +176,8 @@
 | 168 | 376 | Loopy Clusterer |
 | 169 | 374 | Sherry Ogden |
 | 170 | 371 | Michael Nowogorski |
-| 171 | 370 | Danielle Allison |
-| 172 | 370 | Santeria Trece Candles |
+| 171 | 370 | Santeria Trece Candles |
+| 172 | 370 | Danielle Allison |
 | 173 | 368 | Stephanie Woods |
 | 174 | 366 | Adrian Marcel Pate |
 | 175 | 362 | Darlene McMillan |
@@ -233,8 +233,8 @@
 | 225 | 283 | Charles Perrone |
 | 226 | 281 | Betty Rosas |
 | 227 | 281 | Valerie Gendron |
-| 228 | 278 | Sabrina Hardrick |
-| 229 | 278 | Rufus Lincoln |
+| 228 | 278 | Rufus Lincoln |
+| 229 | 278 | Sabrina Hardrick |
 | 230 | 276 | Crimson |
 | 231 | 276 | _melisa223_ |
 | 232 | 275 | Cassandra Bryant |
@@ -257,8 +257,8 @@
 | 249 | 259 | Danielle Weikel |
 | 250 | 257 | Ashley Jones |
 | 251 | 256 | Brenda Lee Vander Molen |
-| 252 | 256 | Tiffany Davie |
-| 253 | 256 | KayB |
+| 252 | 256 | KayB |
+| 253 | 256 | Tiffany Davie |
 | 254 | 250 | fraulila |
 | 255 | 249 | JerseyJess |
 | 256 | 249 | Annie Marie |
@@ -290,8 +290,8 @@
 | 282 | 216 | Twisty Brick LT |
 | 283 | 216 | Cheryl Hinch Tenbrook |
 | 284 | 215 | IamJust Neyamijah Washington Sr. |
-| 285 | 214 | Angela Scott |
-| 286 | 214 | Amy Fuller Heaton |
+| 285 | 214 | Amy Fuller Heaton |
+| 286 | 214 | Angela Scott |
 | 287 | 214 | Rebel124 |
 | 288 | 213 | Nicholas Roddy |
 | 289 | 212 | Sunny Rotater |

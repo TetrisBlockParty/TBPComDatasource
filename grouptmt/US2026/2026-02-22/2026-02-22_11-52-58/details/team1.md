@@ -89,9 +89,9 @@
 | 81 | 406 | Yvonne Marie |
 | 82 | 401 | cc |
 | 83 | 400 | Cynthia Bradley |
-| 84 | 390 | Lori Bales |
+| 84 | 390 | Candy Jones |
 | 85 | 390 | Goose egg |
-| 86 | 390 | Candy Jones |
+| 86 | 390 | Lori Bales |
 | 87 | 389 | Trina Gee |
 | 88 | 388 | Jennifer ManWarren |
 | 89 | 383 | Loony Fitzone |
@@ -113,8 +113,8 @@
 | 105 | 344 | Bhelle Sumile |
 | 106 | 342 | Brenda Stewart |
 | 107 | 341 | Nick R Montague |
-| 108 | 333 | Gracie |
-| 109 | 333 | Brandi Huntington |
+| 108 | 333 | Brandi Huntington |
+| 109 | 333 | Gracie |
 | 110 | 332 | Luciano Moreira |
 | 111 | 332 | Kristen Gideon |
 | 112 | 330 | Sweet Baker |
@@ -159,10 +159,10 @@
 | 151 | 257 | Amanda Jarnagin |
 | 152 | 256 | David Miller |
 | 153 | 255 | Elaine Elaine |
-| 154 | 254 | Ty Brown |
-| 155 | 254 | Al Smith Jr |
-| 156 | 253 | Witty Builderfit |
-| 157 | 253 | Plucky Fallzone |
+| 154 | 254 | Al Smith Jr |
+| 155 | 254 | Ty Brown |
+| 156 | 253 | Plucky Fallzone |
+| 157 | 253 | Witty Builderfit |
 | 158 | 252 | Dena Kayy |
 | 159 | 247 | Tana |
 | 160 | 246 | Lakeisha Chapman |
@@ -194,8 +194,8 @@
 | 186 | 209 | Debbie Davis |
 | 187 | 208 | Donna Addison Williams |
 | 188 | 208 | Bouncy Grid |
-| 189 | 207 | Leslie Bush Yarbrough |
-| 190 | 207 | Brenda Alexander |
+| 189 | 207 | Brenda Alexander |
+| 190 | 207 | Leslie Bush Yarbrough |
 | 191 | 206 | BadG52 |
 | 192 | 205 | Tater |
 | 193 | 205 | Snappy Matcher |
@@ -220,7 +220,7 @@
 | 212 | 191 | Shanae Grant |
 | 213 | 190 | Thorne Shumate |
 | 214 | 190 | Erez Yosef |
-| 215 | 190 | Thorne Shumate |
+| 215 | 190 | Sweetts |
 | 216 | 189 | Jeanna Dunn |
 | 217 | 189 | Veronica Eve |
 | 218 | 187 | Cool Towerzone |
@@ -284,8 +284,8 @@
 | 276 | 152 | Strig |
 | 277 | 151 | Bruce Cruz |
 | 278 | 151 | Gilbert Ortiz Jr. |
-| 279 | 150 | Adele Rahman |
-| 280 | 150 | Agustin Duarte Orozco |
+| 279 | 150 | Agustin Duarte Orozco |
+| 280 | 150 | Adele Rahman |
 | 281 | 149 | Jessica Russell |
 | 282 | 148 | Melissa Bires Hussar |
 | 283 | 148 | Howdi Duty |
@@ -298,8 +298,8 @@
 | 290 | 144 | Miguel Teixeira |
 | 291 | 143 | Chantelle Ceno |
 | 292 | 143 | Guest |
-| 293 | 142 | Jerry Danowski |
-| 294 | 142 | Plucky Stacky |
+| 293 | 142 | Plucky Stacky |
+| 294 | 142 | Jerry Danowski |
 | 295 | 141 | Kayla Marie Stevenson |
 | 296 | 139 | Jessica Weed |
 | 297 | 139 | Aimee Horton |
