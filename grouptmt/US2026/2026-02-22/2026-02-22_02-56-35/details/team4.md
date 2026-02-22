@@ -43,8 +43,8 @@
 | 35 | 704 | Crystal Carroll |
 | 36 | 697 | Edward White |
 | 37 | 659 | Rebecca Moulton Pinciaro |
-| 38 | 646 | Rachel Anne |
-| 39 | 646 | Jacqueline Helm |
+| 38 | 646 | Jacqueline Helm |
+| 39 | 646 | Rachel Anne |
 | 40 | 634 | Anthony Bryan Riva |
 | 41 | 632 | Kimyatta Cavin |
 | 42 | 630 | Dustee Craddock-Harrison |
@@ -77,8 +77,8 @@
 | 69 | 409 | Isabella Blanco |
 | 70 | 402 | Courtney Cicoria |
 | 71 | 399 | Jenna Ingersoll |
-| 72 | 396 | Amy Suckarieh |
-| 73 | 396 | Alicia Bass |
+| 72 | 396 | Alicia Bass |
+| 73 | 396 | Amy Suckarieh |
 | 74 | 391 | Ramel Rhodes |
 | 75 | 390 | Carlton Unfiltered |
 | 76 | 388 | YoMomma |
@@ -89,8 +89,8 @@
 | 81 | 370 | Leslie Thomas |
 | 82 | 369 | Nope Young |
 | 83 | 359 | Jamie Mann-Deichmann |
-| 84 | 358 | Nugget |
-| 85 | 358 | Shane Kalamata Platoon |
+| 84 | 358 | Shane Kalamata Platoon |
+| 85 | 358 | Nugget |
 | 86 | 319 | Livvy |
 | 87 | 317 | Lori Walker |
 | 88 | 314 | Amanda Pauldo-Ivy |
@@ -164,14 +164,14 @@
 | 156 | 188 | Andria Lynn |
 | 157 | 187 | TheNeesh50 |
 | 158 | 186 | Holly |
-| 159 | 185 | Ren Mc |
-| 160 | 185 | Andy Cabral |
+| 159 | 185 | Andy Cabral |
+| 160 | 185 | Ren Mc |
 | 161 | 185 | Lori |
-| 162 | 184 | Ak Jones |
-| 163 | 184 | Jason Allen |
+| 162 | 184 | Jason Allen |
+| 163 | 184 | Ak Jones |
 | 164 | 182 | Matt Summer |
-| 165 | 181 | Klo |
-| 166 | 181 | Carter Jones |
+| 165 | 181 | Carter Jones |
+| 166 | 181 | Klo |
 | 167 | 179 | blockstar |
 | 168 | 176 | Zethra Prenisha Rahming |
 | 169 | 175 | Kathy Brookins |
@@ -290,8 +290,8 @@
 | 282 | 109 | Lori Goudy |
 | 283 | 109 | Chris Alexinas |
 | 284 | 108 | Walter Beltran |
-| 285 | 108 | Kate |
-| 286 | 108 | Ali Ian |
+| 285 | 108 | Ali Ian |
+| 286 | 108 | Kate |
 | 287 | 107 | Brandi Durig |
 | 288 | 106 | Zappy Snaplink |
 | 289 | 106 | Jacob Richard |

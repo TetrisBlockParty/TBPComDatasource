@@ -121,8 +121,8 @@
 | 113 | 428 | Elissa S-k |
 | 114 | 416 | Mary Pellegrino |
 | 115 | 411 | FuzzyNavel |
-| 116 | 410 | Stephanie Simpson |
-| 117 | 410 | Stephanie Blkpep Davidson |
+| 116 | 410 | Stephanie Blkpep Davidson |
+| 117 | 410 | Stephanie Simpson |
 | 118 | 405 | Michelle |
 | 119 | 403 | Christine Filson |
 | 120 | 402 | Shannon Matthew Byers |
@@ -161,8 +161,8 @@
 | 153 | 316 | Rich LeBlanc |
 | 154 | 311 | Raya |
 | 155 | 309 | Leah Barnett |
-| 156 | 307 | rnr junky |
-| 157 | 307 | Blocked |
+| 156 | 307 | Blocked |
+| 157 | 307 | rnr junky |
 | 158 | 303 | Rania Zaqout |
 | 159 | 300 | Sherika C. McDaniels |
 | 160 | 298 | MsBee |
@@ -212,8 +212,8 @@
 | 204 | 243 | Araceli Parra |
 | 205 | 241 | Eon Harris |
 | 206 | 241 | Keis |
-| 207 | 240 | Brandon Givens |
-| 208 | 240 | Jimmie Clemons |
+| 207 | 240 | Jimmie Clemons |
+| 208 | 240 | Brandon Givens |
 | 209 | 236 | Jess Bissett |
 | 210 | 235 | LaNette Morgan |
 | 211 | 234 | Nikki Pags |
@@ -223,8 +223,8 @@
 | 215 | 227 | Krystal Gerstberger |
 | 216 | 223 | Jeana Gilbert |
 | 217 | 221 | Jaime Monhaut-Reed |
-| 218 | 219 | Sissy Lowery Davis |
-| 219 | 219 | Shunta Jacobs |
+| 218 | 219 | Shunta Jacobs |
+| 219 | 219 | Sissy Lowery Davis |
 | 220 | 218 | Michael Lucado |
 | 221 | 216 | Tasha Wesson-Torrence |
 | 222 | 215 | IamJust Neyamijah Washington Sr. |

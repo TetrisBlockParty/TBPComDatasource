@@ -187,8 +187,8 @@
 | 179 | 837 | Ashley Rose Frederick |
 | 180 | 828 | Cindy Sechler Taninecz |
 | 181 | 820 | Chirpy Staggerpiece |
-| 182 | 815 | YiFei |
-| 183 | 815 | Moni Foxe |
+| 182 | 815 | Moni Foxe |
+| 183 | 815 | YiFei |
 | 184 | 815 | Rebecca Doughman |
 | 185 | 811 | James Simms III |
 | 186 | 808 | John Bednarik |
@@ -301,13 +301,13 @@
 | 293 | 543 | Teresa Gillmore |
 | 294 | 543 | Adira Brown |
 | 295 | 537 | Cherica Taylor |
-| 296 | 535 | Jessie McDougald |
-| 297 | 535 | Paul Huber |
+| 296 | 535 | Paul Huber |
+| 297 | 535 | Jessie McDougald |
 | 298 | 531 | Chris Wanner |
 | 299 | 528 | Brownie Sheena |
 | 300 | 527 | Offonar Facey |
-| 301 | 527 | Ryan Gunther |
-| 302 | 527 | Heather Causey |
+| 301 | 527 | Heather Causey |
+| 302 | 527 | Ryan Gunther |
 | 303 | 526 | Sheronda Jackson |
 | 304 | 525 | Desiree Anderson |
 | 305 | 521 | Tj Ball |
@@ -469,7 +469,7 @@
 | 461 | 381 | Melissa Rebbe-Lehman |
 | 462 | 381 | Bubbly Snapfit |
 | 463 | 378 | Niceday |
-| 464 | 378 | Tina Marie |
+| 464 | 378 | Christina Ashley |
 | 465 | 378 | TF Dyer |
 | 466 | 378 | Tina Marie |
 | 467 | 376 | Darlene Bowman |
@@ -553,8 +553,8 @@
 | 545 | 330 | CC |
 | 546 | 329 | Chummy Blockbuilder |
 | 547 | 329 | Jane Crew |
-| 548 | 328 | BabyBird |
-| 549 | 328 | bru |
+| 548 | 328 | bru |
+| 549 | 328 | BabyBird |
 | 550 | 328 | Demeka Dangerous-kisses Johnson |
 | 551 | 327 | Kiana Boschh |
 | 552 | 326 | Jennifer Monroe Kelly |

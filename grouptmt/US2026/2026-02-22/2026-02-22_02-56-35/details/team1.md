@@ -70,8 +70,8 @@
 | 62 | 412 | Jazzy Framezone |
 | 63 | 412 | Anaid Sanchez |
 | 64 | 391 | Robert Benito |
-| 65 | 388 | Yvonne Marie |
-| 66 | 388 | Jennifer ManWarren |
+| 65 | 388 | Jennifer ManWarren |
+| 66 | 388 | Yvonne Marie |
 | 67 | 386 | Candy Jones |
 | 68 | 382 | Lori Sanders- Davis |
 | 69 | 379 | Austin James |
@@ -94,8 +94,8 @@
 | 86 | 326 | Monica Donato |
 | 87 | 323 | Sweet Baker |
 | 88 | 321 | Maria C. Hernandez |
-| 89 | 319 | Shauna Loe |
-| 90 | 319 | Deanna L Hermanson |
+| 89 | 319 | Deanna L Hermanson |
+| 90 | 319 | Shauna Loe |
 | 91 | 315 | Cynthia Bradley |
 | 92 | 313 | Tanya Carpenter-Reynolds |
 | 93 | 310 | Seth Wesson |
@@ -195,15 +195,15 @@
 | 187 | 167 | Erin Hodges Plumb |
 | 188 | 167 | Nery Martinez |
 | 189 | 166 | Rico Rico |
-| 190 | 165 | Nadine Velardo |
-| 191 | 165 | Silly Align |
+| 190 | 165 | Silly Align |
+| 191 | 165 | Nadine Velardo |
 | 192 | 164 | Shanae Grant |
 | 193 | 163 | Tyler Whitley |
 | 194 | 163 | Angela Fairbank |
 | 195 | 162 | Cece Ibarra |
 | 196 | 161 | SavageBooty98 |
-| 197 | 160 | Tedashi |
-| 198 | 160 | David Miller |
+| 197 | 160 | David Miller |
+| 198 | 160 | Tedashi |
 | 199 | 159 | Bindi |
 | 200 | 158 | Sarah Marie |
 | 201 | 154 | Melissa Lemmon |
@@ -224,11 +224,11 @@
 | 216 | 141 | Dino |
 | 217 | 141 | Blaire Bruckoff |
 | 218 | 139 | Flashy Rotator |
-| 219 | 138 | Hector Cruz |
-| 220 | 138 | Mark Smith |
+| 219 | 138 | Mark Smith |
+| 220 | 138 | Hector Cruz |
 | 221 | 138 | Giddy Cascade |
-| 222 | 137 | Marci Sanders |
-| 223 | 137 | Cody Gates |
+| 222 | 137 | Cody Gates |
+| 223 | 137 | Marci Sanders |
 | 224 | 136 | Breanna Luna |
 | 225 | 136 | Tavia |
 | 226 | 136 | Tipsy Riseclear |
