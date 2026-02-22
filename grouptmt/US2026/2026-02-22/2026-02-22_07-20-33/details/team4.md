@@ -33,8 +33,8 @@
 | 25 | 886 | Dustin Robert |
 | 26 | 880 | Koshin Abdirahman |
 | 27 | 879 | Heather Tushner |
-| 28 | 873 | Michelle Pearman |
-| 29 | 873 | Elizabeth Sallas |
+| 28 | 873 | Elizabeth Sallas |
+| 29 | 873 | Michelle Pearman |
 | 30 | 871 | Denny Shives |
 | 31 | 846 | Christine Marie |
 | 32 | 843 | Lucille Truesdale |
@@ -119,8 +119,8 @@
 | 111 | 303 | Tyler Terrific |
 | 112 | 300 | Jason Hart |
 | 113 | 298 | Lucas J Sutton |
-| 114 | 296 | Justin Hannigan |
-| 115 | 296 | HastyGrabber |
+| 114 | 296 | HastyGrabber |
+| 115 | 296 | Justin Hannigan |
 | 116 | 295 | Latisha Davis |
 | 117 | 294 | Kesha Brady |
 | 118 | 290 | 🥔🥔 Spudz |
@@ -169,10 +169,10 @@
 | 161 | 217 | Chaz Duncan |
 | 162 | 215 | Jessica Bohlken |
 | 163 | 215 | Ren Mc |
-| 164 | 213 | Jason Allen |
-| 165 | 213 | Sarah Neathery |
-| 166 | 212 | Calvin Cannon |
-| 167 | 212 | Mike Solo |
+| 164 | 213 | Sarah Neathery |
+| 165 | 213 | Jason Allen |
+| 166 | 212 | Mike Solo |
+| 167 | 212 | Calvin Cannon |
 | 168 | 211 | Jenna McGeorge |
 | 169 | 207 | Chirpy Basepiece |
 | 170 | 205 | Kathy Brookins |
@@ -269,8 +269,8 @@
 | 261 | 136 | Michelle Morris |
 | 262 | 136 | Maureen Flanigan |
 | 263 | 135 | Joshua Guess |
-| 264 | 134 | Duck |
-| 265 | 134 | Kim Klutz Olson |
+| 264 | 134 | Kim Klutz Olson |
+| 265 | 134 | Duck |
 | 266 | 134 | Angelito |
 | 267 | 133 | KimoKoala |
 | 268 | 132 | Vamp |

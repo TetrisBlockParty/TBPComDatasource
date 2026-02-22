@@ -96,8 +96,8 @@
 | 88 | 595 | Patricia White |
 | 89 | 591 | Jesse Olive |
 | 90 | 588 | yoyo |
-| 91 | 582 | Jay Horn |
-| 92 | 582 | Natasha Jones |
+| 91 | 582 | Natasha Jones |
+| 92 | 582 | Jay Horn |
 | 93 | 582 | Speedy Bridger |
 | 94 | 581 | Danielle Mogg |
 | 95 | 579 | Jd Morris |
@@ -117,8 +117,8 @@
 | 109 | 506 | Sashay Tapae Simpson |
 | 110 | 502 | Justin Ritter |
 | 111 | 502 | Elissa S-k |
-| 112 | 500 | Domo Washington |
-| 113 | 500 | Kristie |
+| 112 | 500 | Kristie |
+| 113 | 500 | Domo Washington |
 | 114 | 497 | Mykal Burton |
 | 115 | 492 | Daira Largen |
 | 116 | 491 | Chauntee Alfrey-Cardinale |
@@ -197,8 +197,8 @@
 | 189 | 311 | Rochelle Hazelett |
 | 190 | 311 | Araceli Parra |
 | 191 | 310 | Danielle Balcom |
-| 192 | 308 | Rania Zaqout |
-| 193 | 308 | Daryn Elliott |
+| 192 | 308 | Daryn Elliott |
+| 193 | 308 | Rania Zaqout |
 | 194 | 307 | rnr junky |
 | 195 | 307 | Blocked |
 | 196 | 302 | Rebecca Bailey |
@@ -207,8 +207,8 @@
 | 199 | 300 | Sherika C. McDaniels |
 | 200 | 298 | MsBee |
 | 201 | 296 | Katrina Turner |
-| 202 | 296 | Brandon Givens |
-| 203 | 296 | Ammmmmmy |
+| 202 | 296 | Ammmmmmy |
+| 203 | 296 | Brandon Givens |
 | 204 | 295 | RickyG |
 | 205 | 295 | Marci Mize Fandrich |
 | 206 | 289 | Duane Bright |
@@ -246,8 +246,8 @@
 | 238 | 256 | Tiffany Davie |
 | 239 | 251 | Sabrina Hardrick |
 | 240 | 250 | fraulila |
-| 241 | 249 | Raven Dudley |
-| 242 | 249 | Annie Marie |
+| 241 | 249 | Annie Marie |
+| 242 | 249 | Raven Dudley |
 | 243 | 249 | JerseyJess |
 | 244 | 246 | Peppy Shifter |
 | 245 | 246 | Eon Harris |
@@ -653,7 +653,7 @@
 | 645 | 86 | Anna Fuerstenau |
 | 646 | 85 | neci |
 | 647 | 85 | Loony Slider |
-| 648 | 85 | neci |
+| 648 | 85 | lema ean |
 | 649 | 85 | Heather De Vries Cobb |
 | 650 | 85 | Danny Matthews |
 | 651 | 85 | Jm |

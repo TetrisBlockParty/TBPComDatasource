@@ -63,8 +63,8 @@
 | 55 | 517 | Jen Sartain |
 | 56 | 510 | Colena Davenport |
 | 57 | 495 | Sevens4L |
-| 58 | 493 | Robert Benito |
-| 59 | 493 | Katie Daniels |
+| 58 | 493 | Katie Daniels |
+| 59 | 493 | Robert Benito |
 | 60 | 491 | Sarah Lombardo |
 | 61 | 483 | Ryan Lunnin |
 | 62 | 476 | Cartier |
@@ -85,8 +85,8 @@
 | 77 | 400 | Cynthia Bradley |
 | 78 | 390 | Candy Jones |
 | 79 | 389 | Trina Gee |
-| 80 | 388 | Jennifer ManWarren |
-| 81 | 388 | cc |
+| 80 | 388 | cc |
+| 81 | 388 | Jennifer ManWarren |
 | 82 | 382 | Jacqueline Williams |
 | 83 | 379 | Austin James |
 | 84 | 379 | Kimmie Kimms |
@@ -114,9 +114,9 @@
 | 106 | 319 | Patrick Luckenbill |
 | 107 | 319 | Deanna L Hermanson |
 | 108 | 313 | Tanya Carpenter-Reynolds |
-| 109 | 310 | Seth Wesson |
+| 109 | 310 | phrmblk24 |
 | 110 | 310 | Jason Jones |
-| 111 | 310 | phrmblk24 |
+| 111 | 310 | Seth Wesson |
 | 112 | 306 | Happy Basegrid |
 | 113 | 304 | Nicole Roseberry Weber |
 | 114 | 301 | Lehrin Maria |
@@ -124,11 +124,11 @@
 | 116 | 290 | Death |
 | 117 | 288 | Seante Bullock |
 | 118 | 287 | Chelsea Dahlquist |
-| 119 | 286 | Ly Phethmany |
-| 120 | 286 | Arianna O'Brien |
+| 119 | 286 | Arianna O'Brien |
+| 120 | 286 | Ly Phethmany |
 | 121 | 285 | Ananda Mendez |
-| 122 | 284 | Rachael |
-| 123 | 284 | Emily Adelaide Wheatley |
+| 122 | 284 | Emily Adelaide Wheatley |
+| 123 | 284 | Rachael |
 | 124 | 283 | Franswa |
 | 125 | 282 | Cool Shiftsnap |
 | 126 | 282 | Timothy Dew |
@@ -286,8 +286,8 @@
 | 278 | 135 | Mrs.Patrica |
 | 279 | 135 | Chantelle Ceno |
 | 280 | 133 | MommaKFC |
-| 281 | 132 | Larry Tilton |
-| 282 | 132 | Layzietyme |
+| 281 | 132 | Layzietyme |
+| 282 | 132 | Larry Tilton |
 | 283 | 132 | Loony Fitzone |
 | 284 | 131 | Uhog SF |
 | 285 | 131 | Dizzy Riseclear |
