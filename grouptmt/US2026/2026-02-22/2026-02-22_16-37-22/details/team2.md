@@ -135,8 +135,8 @@
 | 127 | 1380 | Jose Mendoza |
 | 128 | 1371 | Zappy Cascade |
 | 129 | 1347 | Alisa Lamb |
-| 130 | 1342 | Christi Hulet |
-| 131 | 1342 | Eboni Banks |
+| 130 | 1342 | Eboni Banks |
+| 131 | 1342 | Christi Hulet |
 | 132 | 1342 | Bob |
 | 133 | 1338 | Dawn Geist-Weasner |
 | 134 | 1330 | Erica Williams |
@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Suki Kaur |
-| 188 | 1043 | Brave Dropmatch |
+| 187 | 1043 | Brave Dropmatch |
+| 188 | 1043 | Suki Kaur |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1024 | Bri Lynn |
 | 191 | 1023 | Brainy Smurf |
@@ -206,8 +206,8 @@
 | 198 | 993 | Eric Carlson |
 | 199 | 992 | Ashley Rose Frederick |
 | 200 | 991 | Moose Griffith |
-| 201 | 989 | Teddi Notyalc |
-| 202 | 989 | Desiree Harris Rosch |
+| 201 | 989 | Desiree Harris Rosch |
+| 202 | 989 | Teddi Notyalc |
 | 203 | 988 | Cherica Taylor |
 | 204 | 986 | RAEPR05 |
 | 205 | 979 | Hillary Crawford |
@@ -464,8 +464,8 @@
 | 456 | 519 | Rob Brown |
 | 457 | 518 | Dennis McLaurin |
 | 458 | 517 | Alex Dungo Hoang |
-| 459 | 517 | Brenna Ann |
-| 460 | 517 | Porsche' Nicole |
+| 459 | 517 | Porsche' Nicole |
+| 460 | 517 | Brenna Ann |
 | 461 | 516 | Diamond Scott |
 | 462 | 515 | Victoria Regina Girolami |
 | 463 | 515 | Laquetta Royston |
@@ -668,8 +668,8 @@
 | 660 | 381 | Happy Caster |
 | 661 | 381 | Nicky Jackson |
 | 662 | 380 | Giggy Grabber |
-| 663 | 379 | Cini |
-| 664 | 379 | Austin Wilson |
+| 663 | 379 | Austin Wilson |
+| 664 | 379 | Cini |
 | 665 | 379 | DefaultUser |
 | 666 | 378 | TF Dyer |
 | 667 | 378 | Kelly Walters |
@@ -810,8 +810,8 @@
 | 802 | 310 | Wendy Ducheney |
 | 803 | 310 | Cheeky Brickmatch |
 | 804 | 310 | Cozy Drop |
-| 805 | 309 | Daniell Martinez |
-| 806 | 309 | Byung Bae Park |
+| 805 | 309 | Byung Bae Park |
+| 806 | 309 | Daniell Martinez |
 | 807 | 308 | Hyper Riseclear |
 | 808 | 308 | Samuel Labruno |
 | 809 | 308 | Claire |
@@ -820,8 +820,8 @@
 | 812 | 307 | Ethan Stienbarger |
 | 813 | 305 | Zany Clusterbuilder |
 | 814 | 305 | Narutofreak13 |
-| 815 | 305 | Frisky Patternline |
-| 816 | 305 | Epic Fitzone |
+| 815 | 305 | Epic Fitzone |
+| 816 | 305 | Frisky Patternline |
 | 817 | 304 | Melissa McCall |
 | 818 | 304 | NFLPITMOM |
 | 819 | 303 | Alyssia Tancredi |

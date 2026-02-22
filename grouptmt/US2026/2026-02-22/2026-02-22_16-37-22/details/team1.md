@@ -328,8 +328,8 @@
 | 320 | 153 | Tami Luce Martin |
 | 321 | 153 | Dino |
 | 322 | 152 | Speedy Snapfall |
-| 323 | 151 | Bruce Cruz |
-| 324 | 151 | Gilbert Ortiz Jr. |
+| 323 | 151 | Gilbert Ortiz Jr. |
+| 324 | 151 | Bruce Cruz |
 | 325 | 150 | Barrbaric |
 | 326 | 150 | Agustin Duarte Orozco |
 | 327 | 149 | Cody Gates |

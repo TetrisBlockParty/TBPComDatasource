@@ -131,8 +131,8 @@
 | 123 | 526 | Cynthia Castros-Hampton |
 | 124 | 525 | Justin Ritter |
 | 125 | 521 | Michael Nowogorski |
-| 126 | 521 | Daryn Elliott |
-| 127 | 521 | Michelle Becker |
+| 126 | 521 | Michelle Becker |
+| 127 | 521 | Daryn Elliott |
 | 128 | 518 | opf |
 | 129 | 506 | Sashay Tapae Simpson |
 | 130 | 504 | Jennifer Lynn Fahrenholtz-Summers |
@@ -265,9 +265,9 @@
 | 257 | 276 | _melisa223_ |
 | 258 | 275 | Cassandra Bryant |
 | 259 | 272 | Tasha Wesson-Torrence |
-| 260 | 271 | Cass Mendoza |
-| 261 | 271 | Grego Daniel |
-| 262 | 271 | Alexmac |
+| 260 | 271 | Alexmac |
+| 261 | 271 | Cass Mendoza |
+| 262 | 271 | Grego Daniel |
 | 263 | 269 | Danielle Weikel |
 | 264 | 268 | Krystal Gerstberger |
 | 265 | 267 | April Matthew Kibble |

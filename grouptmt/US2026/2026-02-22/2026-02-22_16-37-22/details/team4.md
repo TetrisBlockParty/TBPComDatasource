@@ -133,8 +133,8 @@
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | Desi Desporte |
-| 129 | 332 | HastyGrabber |
+| 128 | 332 | HastyGrabber |
+| 129 | 332 | Desi Desporte |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -224,8 +224,8 @@
 | 216 | 211 | Jenna McGeorge |
 | 217 | 208 | Stacey Stano |
 | 218 | 208 | scott |
-| 219 | 208 | Dizzy Matchzone |
-| 220 | 208 | Oscar Alberto Perez |
+| 219 | 208 | Oscar Alberto Perez |
+| 220 | 208 | Dizzy Matchzone |
 | 221 | 207 | Chirpy Basepiece |
 | 222 | 206 | Kim Klutz Olson |
 | 223 | 204 | Carlos Ramirez |
@@ -277,8 +277,8 @@
 | 269 | 164 | Adam Stephanie Parker |
 | 270 | 164 | KimoKoala |
 | 271 | 163 | Ellen Durfee |
-| 272 | 162 | Gwendolyn Pitcairn |
-| 273 | 162 | John Brunetti |
+| 272 | 162 | John Brunetti |
+| 273 | 162 | Gwendolyn Pitcairn |
 | 274 | 162 | conceptCollector |
 | 275 | 161 | Tanner Lund |
 | 276 | 161 | Twisty Risebuilder |
