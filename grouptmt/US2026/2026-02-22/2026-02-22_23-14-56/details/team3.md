@@ -181,8 +181,8 @@
 | 173 | 469 | Melissa Orth Hunter |
 | 174 | 468 | Betty Ivy |
 | 175 | 465 | Tasha Schriewer |
-| 176 | 464 | Makelini Mausia |
-| 177 | 464 | Michelle |
+| 176 | 464 | Michelle |
+| 177 | 464 | Makelini Mausia |
 | 178 | 461 | Shunta Jacobs |
 | 179 | 460 | Danielle Allison |
 | 180 | 460 | Araceli Parra |
@@ -232,8 +232,8 @@
 | 224 | 372 | Sarah Moyer |
 | 225 | 372 | Rich LeBlanc |
 | 226 | 370 | RickyG |
-| 227 | 368 | Stephanie Woods |
-| 228 | 368 | Rebecca Funderburk Kirby |
+| 227 | 368 | Rebecca Funderburk Kirby |
+| 228 | 368 | Stephanie Woods |
 | 229 | 366 | Marquita Sheard |
 | 230 | 365 | Chummy Caster |
 | 231 | 365 | Tiffany Ford |

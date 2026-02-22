@@ -235,8 +235,8 @@
 | 227 | 244 | LaFontaine Leslie |
 | 228 | 242 | ParisandCory Champagne |
 | 229 | 241 | Tyler Hertzog |
-| 230 | 240 | DaRascal |
-| 231 | 240 | Daring Fitclear |
+| 230 | 240 | Daring Fitclear |
+| 231 | 240 | DaRascal |
 | 232 | 239 | Lacy Wolfe |
 | 233 | 238 | Sarah Somers Gray |
 | 234 | 238 | Tiffany Smith |
