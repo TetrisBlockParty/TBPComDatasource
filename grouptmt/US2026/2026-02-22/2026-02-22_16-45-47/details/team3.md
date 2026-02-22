@@ -371,8 +371,8 @@
 | 363 | 196 | Denita Mungro |
 | 364 | 195 | Nicha Hooker |
 | 365 | 194 | Kevin Fountain |
-| 366 | 193 | BŘŰŤİÇŨŚ |
-| 367 | 193 | Clever Shiftsnap |
+| 366 | 193 | Clever Shiftsnap |
+| 367 | 193 | BŘŰŤİÇŨŚ |
 | 368 | 193 | Loopy Fallzone |
 | 369 | 192 | Melanie Sherwood |
 | 370 | 192 | Katrina E Jelks |

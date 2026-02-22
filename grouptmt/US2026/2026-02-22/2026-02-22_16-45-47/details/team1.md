@@ -142,8 +142,8 @@
 | 134 | 313 | Virginia Gray Floyd |
 | 135 | 308 | Sharon Reynolds |
 | 136 | 307 | Kimberly Garcia |
-| 137 | 306 | Happy Basegrid |
-| 138 | 306 | Bloknboy |
+| 137 | 306 | Bloknboy |
+| 138 | 306 | Happy Basegrid |
 | 139 | 304 | Nicole Roseberry Weber |
 | 140 | 303 | Chelsea Dahlquist |
 | 141 | 301 | Dandy Basegrid |
@@ -154,8 +154,8 @@
 | 146 | 293 | Sarah Roberts |
 | 147 | 292 | David Lutcher |
 | 148 | 285 | Ananda Mendez |
-| 149 | 284 | Rachael |
-| 150 | 284 | Emily Adelaide Wheatley |
+| 149 | 284 | Emily Adelaide Wheatley |
+| 150 | 284 | Rachael |
 | 151 | 283 | Franswa |
 | 152 | 282 | Cool Shiftsnap |
 | 153 | 282 | Timothy Dew |
@@ -188,8 +188,8 @@
 | 180 | 251 | Giggly Builderline |
 | 181 | 249 | Lakeisha Chapman |
 | 182 | 246 | Mike Ames |
-| 183 | 244 | Marianita Garcia |
-| 184 | 244 | Eddie Dillon |
+| 183 | 244 | Eddie Dillon |
+| 184 | 244 | Marianita Garcia |
 | 185 | 243 | Trippy Redd |
 | 186 | 242 | John Kim |
 | 187 | 241 | John J. Cronin |

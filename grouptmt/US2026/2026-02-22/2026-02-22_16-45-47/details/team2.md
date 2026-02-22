@@ -192,8 +192,8 @@
 | 184 | 1062 | Crystal Slaughter |
 | 185 | 1050 | Amy Sayers |
 | 186 | 1045 | Lourisha |
-| 187 | 1043 | Brave Dropmatch |
-| 188 | 1043 | Suki Kaur |
+| 187 | 1043 | Suki Kaur |
+| 188 | 1043 | Brave Dropmatch |
 | 189 | 1036 | Allison Lockyer |
 | 190 | 1032 | Ashley Rose Frederick |
 | 191 | 1024 | Bri Lynn |
@@ -390,8 +390,8 @@
 | 382 | 610 | Traci Johnson |
 | 383 | 606 | Brittney Jean |
 | 384 | 603 | Cassie Maynard |
-| 385 | 602 | KhaosLord |
-| 386 | 602 | Shaun Church |
+| 385 | 602 | Shaun Church |
+| 386 | 602 | KhaosLord |
 | 387 | 602 | Biggest thing |
 | 388 | 601 | Vonceial Boone |
 | 389 | 601 | Steven Marshaun |

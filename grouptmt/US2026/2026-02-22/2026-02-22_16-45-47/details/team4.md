@@ -17,8 +17,8 @@
 | 9 | 1835 | East Mamba |
 | 10 | 1775 | Ash |
 | 11 | 1676 | Ayanna Soto |
-| 12 | 1447 | GreenJeepGirl |
-| 13 | 1447 | Juggalo |
+| 12 | 1447 | Juggalo |
+| 13 | 1447 | GreenJeepGirl |
 | 14 | 1318 | Cassie Michaux |
 | 15 | 1292 | Roger Coulter |
 | 16 | 1132 | Jayna Anoc |
@@ -67,8 +67,8 @@
 | 59 | 698 | Anthony Bryan Riva |
 | 60 | 697 | Edward White |
 | 61 | 671 | D3TROITB0RN74 |
-| 62 | 664 | Kimyatta Cavin |
-| 63 | 664 | Valerie Roberts |
+| 62 | 664 | Valerie Roberts |
+| 63 | 664 | Kimyatta Cavin |
 | 64 | 659 | Jonathan Kimbrough |
 | 65 | 658 | loulou |
 | 66 | 654 | Chilly Line |
@@ -126,15 +126,15 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Tyler Terrific |
-| 122 | 353 | Livvy |
+| 121 | 353 | Livvy |
+| 122 | 353 | Tyler Terrific |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
 | 126 | 338 | Lucas J Sutton |
 | 127 | 333 | Twisty Clicky |
-| 128 | 332 | HastyGrabber |
-| 129 | 332 | Desi Desporte |
+| 128 | 332 | Desi Desporte |
+| 129 | 332 | HastyGrabber |
 | 130 | 330 | David Lay |
 | 131 | 329 | Jessica Bohlken |
 | 132 | 329 | Amanda Pauldo-Ivy |
@@ -213,8 +213,8 @@
 | 205 | 221 | Rheanda Weaskus |
 | 206 | 219 | Malakai Darien Fox |
 | 207 | 217 | Kim Hunt |
-| 208 | 216 | ZeeZee |
-| 209 | 216 | Cristy Duerksen |
+| 208 | 216 | Cristy Duerksen |
+| 209 | 216 | ZeeZee |
 | 210 | 216 | Chance Strickland |
 | 211 | 215 | Ziggy |
 | 212 | 213 | Shauna Havard |
@@ -222,10 +222,10 @@
 | 214 | 212 | Joanna |
 | 215 | 212 | Mike Solo |
 | 216 | 211 | Jenna McGeorge |
-| 217 | 208 | scott |
-| 218 | 208 | Stacey Stano |
-| 219 | 208 | Dizzy Matchzone |
-| 220 | 208 | Oscar Alberto Perez |
+| 217 | 208 | Stacey Stano |
+| 218 | 208 | scott |
+| 219 | 208 | Oscar Alberto Perez |
+| 220 | 208 | Dizzy Matchzone |
 | 221 | 207 | Chirpy Basepiece |
 | 222 | 206 | Kim Klutz Olson |
 | 223 | 204 | Carlos Ramirez |
@@ -285,11 +285,11 @@
 | 277 | 159 | Marcus Todd |
 | 278 | 159 | DonMega |
 | 279 | 157 | Bethany Ison |
-| 280 | 157 | B Renee Desjardin |
+| 280 | 157 | KayM |
 | 281 | 157 | Paige Kittles |
-| 282 | 157 | KayM |
-| 283 | 156 | Ultramarine |
-| 284 | 156 | Terrance Fung |
+| 282 | 157 | B Renee Desjardin |
+| 283 | 156 | Terrance Fung |
+| 284 | 156 | Ultramarine |
 | 285 | 154 | Zany Shatterer |
 | 286 | 153 | Shainne Brewer |
 | 287 | 153 | Empress Oasis |
@@ -318,8 +318,8 @@
 | 310 | 145 | Sandra Safford |
 | 311 | 144 | Circuit8 |
 | 312 | 143 | Metsfan |
-| 313 | 143 | Daresha Fair |
-| 314 | 143 | Asher |
+| 313 | 143 | Asher |
+| 314 | 143 | Daresha Fair |
 | 315 | 142 | Chantilly Laace |
 | 316 | 142 | Cynthia Boudreau |
 | 317 | 142 | Victoria Faniel |
