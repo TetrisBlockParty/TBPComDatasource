@@ -650,8 +650,8 @@
 | 642 | 357 | Shannon Byrd |
 | 643 | 357 | Tristan Szolek |
 | 644 | 355 | Amanda Perez |
-| 645 | 354 | Rickey Johnson |
-| 646 | 354 | Rachel Kaminski |
+| 645 | 354 | Rachel Kaminski |
+| 646 | 354 | Rickey Johnson |
 | 647 | 352 | Rose Fx |
 | 648 | 352 | Jean FU Jagielski |
 | 649 | 352 | ruth |
@@ -750,8 +750,8 @@
 | 742 | 304 | James Smith |
 | 743 | 304 | Melissa McCall |
 | 744 | 303 | Angie Marie |
-| 745 | 303 | Devin |
-| 746 | 303 | Amanda Schaffer |
+| 745 | 303 | Amanda Schaffer |
+| 746 | 303 | Devin |
 | 747 | 302 | Kena T. Tanner |
 | 748 | 302 | Maxwell Escalera |
 | 749 | 300 | Alice Ball |
@@ -810,9 +810,9 @@
 | 802 | 277 | Anthony Mignacca |
 | 803 | 277 | Amanda Chamberlain |
 | 804 | 276 | Jamie Dayton |
-| 805 | 276 | Jennifer Leigh |
-| 806 | 276 | Ryan Lauer |
-| 807 | 276 | Josh Webster |
+| 805 | 276 | Ryan Lauer |
+| 806 | 276 | Josh Webster |
+| 807 | 276 | Jennifer Leigh |
 | 808 | 276 | Dandy Combo |
 | 809 | 276 | Lindsey Leigh |
 | 810 | 276 | Patrick Bartlett |
@@ -887,8 +887,8 @@
 | 879 | 258 | DesertDreamer24 |
 | 880 | 258 | Tee Jaleesa |
 | 881 | 257 | Mama T |
-| 882 | 257 | Jackie Jackie Lee |
-| 883 | 257 | Ys Muhammed |
+| 882 | 257 | Ys Muhammed |
+| 883 | 257 | Jackie Jackie Lee |
 | 884 | 256 | Gursharan Sandhu |
 | 885 | 256 | Brenna Yearian |
 | 886 | 256 | Nikki Vaughn |
@@ -1069,8 +1069,8 @@
 | 1061 | 214 | Luciano Andre Versace Grismondie |
 | 1062 | 213 | Chirpy Tilt |
 | 1063 | 213 | Janai Vrabel |
-| 1064 | 213 | Hannah Leigh Pelofsky |
-| 1065 | 213 | Cynthia Knox |
+| 1064 | 213 | Cynthia Knox |
+| 1065 | 213 | Hannah Leigh Pelofsky |
 | 1066 | 212 | Sarah Dean |
 | 1067 | 212 | JP Parks |
 | 1068 | 212 | Denelle Wendt-Ramalho |
@@ -2403,7 +2403,7 @@
 | 2395 | 94 | Cass |
 | 2396 | 94 | Stacy Figuracion |
 | 2397 | 94 | Carolyn Pegouske |
-| 2398 | 94 | Stacy Figuracion |
+| 2398 | 94 | Danielle Perno |
 | 2399 | 93 | Frilly Edgefit |
 | 2400 | 93 | Tom Jenner |
 | 2401 | 93 | Bridgette Sargent |

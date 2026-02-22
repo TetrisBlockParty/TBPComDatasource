@@ -62,8 +62,8 @@
 | 54 | 654 | Chilly Line |
 | 55 | 647 | KM8 |
 | 56 | 646 | Jacqueline Helm |
-| 57 | 636 | Kimyatta Cavin |
-| 58 | 636 | Dustee Craddock-Harrison |
+| 57 | 636 | Dustee Craddock-Harrison |
+| 58 | 636 | Kimyatta Cavin |
 | 59 | 623 | Robin Getchel |
 | 60 | 599 | Brittney Griggs |
 | 61 | 593 | Lisa Davis |
@@ -160,11 +160,11 @@
 | 152 | 240 | Peachy Fall |
 | 153 | 237 | Chris Bernstein |
 | 154 | 232 | Crystal Nicolette Moore |
-| 155 | 230 | Cursed Hag |
-| 156 | 230 | Autum Leigh |
+| 155 | 230 | Autum Leigh |
+| 156 | 230 | Cursed Hag |
 | 157 | 228 | J-Rizzle |
-| 158 | 227 | Alyssa Papen |
-| 159 | 227 | Swanky Fitline |
+| 158 | 227 | Swanky Fitline |
+| 159 | 227 | Alyssa Papen |
 | 160 | 225 | Damn Libra |
 | 161 | 224 | Matt Summer |
 | 162 | 223 | Antony Dwayne Beasley |
@@ -253,8 +253,8 @@
 | 245 | 152 | Faja |
 | 246 | 149 | Shainne Brewer |
 | 247 | 149 | Tanner Lund |
-| 248 | 148 | Nubian1 |
-| 249 | 148 | Janita Parrish |
+| 248 | 148 | Janita Parrish |
+| 249 | 148 | Nubian1 |
 | 250 | 147 | B Renee Desjardin |
 | 251 | 147 | Jay28 |
 | 252 | 147 | Jared Gutwein |

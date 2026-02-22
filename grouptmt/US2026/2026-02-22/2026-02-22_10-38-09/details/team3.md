@@ -63,8 +63,8 @@
 | 55 | 909 | Jennifer |
 | 56 | 908 | Alanna Rogers |
 | 57 | 903 | Sarah Fehring |
-| 58 | 895 | Shonna Roberts |
-| 59 | 895 | Amanda L Baker |
+| 58 | 895 | Amanda L Baker |
+| 59 | 895 | Shonna Roberts |
 | 60 | 886 | Khristen AC |
 | 61 | 874 | Jessica Pineda-Lopez |
 | 62 | 867 | Corie A. Brinson |
@@ -194,8 +194,8 @@
 | 186 | 346 | RickyG |
 | 187 | 343 | Ashley Raines |
 | 188 | 341 | Samantha Lynn |
-| 189 | 338 | Gumbo |
-| 190 | 338 | Leah Barnett |
+| 189 | 338 | Leah Barnett |
+| 190 | 338 | Gumbo |
 | 191 | 332 | Rich LeBlanc |
 | 192 | 332 | Noyb Adam |
 | 193 | 330 | Rebecca Funderburk Kirby |
@@ -204,8 +204,8 @@
 | 196 | 320 | Or Reznitsky |
 | 197 | 317 | Ashley Tookes |
 | 198 | 315 | Kammy Hill |
-| 199 | 311 | Araceli Parra |
-| 200 | 311 | Rochelle Hazelett |
+| 199 | 311 | Rochelle Hazelett |
+| 200 | 311 | Araceli Parra |
 | 201 | 310 | Danielle Balcom |
 | 202 | 308 | Rania Zaqout |
 | 203 | 308 | Daryn Elliott |
@@ -246,8 +246,8 @@
 | 238 | 264 | Grego Daniel |
 | 239 | 263 | Brittany |
 | 240 | 262 | Joe-Maggie Mathews |
-| 241 | 261 | Tiffany Ford |
-| 242 | 261 | Tasha Wesson-Torrence |
+| 241 | 261 | Tasha Wesson-Torrence |
+| 242 | 261 | Tiffany Ford |
 | 243 | 261 | Marquita Sheard |
 | 244 | 260 | Grams |
 | 245 | 259 | Danielle Weikel |
@@ -258,8 +258,8 @@
 | 250 | 256 | KayB |
 | 251 | 251 | Sabrina Hardrick |
 | 252 | 250 | fraulila |
-| 253 | 249 | Annie Marie |
-| 254 | 249 | JerseyJess |
+| 253 | 249 | JerseyJess |
+| 254 | 249 | Annie Marie |
 | 255 | 247 | Carrie Huskey |
 | 256 | 246 | Eon Harris |
 | 257 | 246 | Peppy Shifter |
@@ -305,8 +305,8 @@
 | 297 | 208 | AlsoJess |
 | 298 | 207 | Jessica |
 | 299 | 207 | angieelyn |
-| 300 | 206 | Stephanie Hill |
-| 301 | 206 | Tammy Rosenberry |
+| 300 | 206 | Tammy Rosenberry |
+| 301 | 206 | Stephanie Hill |
 | 302 | 206 | Tracy Martin |
 | 303 | 205 | Kirhonda Autmon |
 | 304 | 204 | Aerian Preston |
@@ -338,8 +338,8 @@
 | 330 | 181 | Denita Mungro |
 | 331 | 180 | Beth Ingham |
 | 332 | 179 | Christian Werndl |
-| 333 | 179 | DanceLuvLaugh |
-| 334 | 179 | Rachel Napper |
+| 333 | 179 | Rachel Napper |
+| 334 | 179 | DanceLuvLaugh |
 | 335 | 178 | Jess Dearborn |
 | 336 | 178 | Jennifer Alvey |
 | 337 | 176 | Melissa Orth Hunter |
@@ -347,13 +347,13 @@
 | 339 | 175 | Eileen Brady Thurber |
 | 340 | 174 | Lesley Perez |
 | 341 | 173 | Naur |
-| 342 | 173 | MizzMonick Smith |
-| 343 | 173 | BŘŰŤİÇŨŚ |
+| 342 | 173 | BŘŰŤİÇŨŚ |
+| 343 | 173 | MizzMonick Smith |
 | 344 | 170 | Tina Smith Roy |
 | 345 | 169 | Kristian Thurman |
 | 346 | 169 | Peachy Rollfit |
-| 347 | 168 | Trice Thomas |
-| 348 | 168 | April Matthew Kibble |
+| 347 | 168 | April Matthew Kibble |
+| 348 | 168 | Trice Thomas |
 | 349 | 167 | Shicken Nuggit |
 | 350 | 167 | Salena Whitlock |
 | 351 | 167 | Irene Arreguin |
@@ -577,8 +577,8 @@
 | 569 | 105 | Amy Wheeler |
 | 570 | 104 | Jessica Rose-Morgan |
 | 571 | 104 | bean |
-| 572 | 104 | Johnathan Dowe |
-| 573 | 104 | Jana Fagg |
+| 572 | 104 | Jana Fagg |
+| 573 | 104 | Johnathan Dowe |
 | 574 | 103 | Snappy Balancer |
 | 575 | 103 | Melissa Parlow-Callaway |
 | 576 | 103 | Lisa Lisa |

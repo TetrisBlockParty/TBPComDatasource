@@ -54,8 +54,8 @@
 | 46 | 671 | Lawrence Belanger |
 | 47 | 663 | Drew Magnus |
 | 48 | 646 | Susanna Guerry |
-| 49 | 635 | Marianne Louise West |
-| 50 | 635 | Angel Fowler |
+| 49 | 635 | Angel Fowler |
+| 50 | 635 | Marianne Louise West |
 | 51 | 631 | comrade fish |
 | 52 | 627 | Katie Daniels |
 | 53 | 614 | Snappy Swiper |
@@ -142,13 +142,13 @@
 | 134 | 282 | Timothy Dew |
 | 135 | 280 | Sarah Roberts |
 | 136 | 276 | Dandy Basegrid |
-| 137 | 270 | Ash Galvan |
-| 138 | 270 | Mandyy Rae |
+| 137 | 270 | Mandyy Rae |
+| 138 | 270 | Ash Galvan |
 | 139 | 268 | GATOR |
-| 140 | 265 | Nutty Spinblock |
-| 141 | 265 | SkipTheSadSauce |
-| 142 | 264 | Lexuriuos Lifestlye |
-| 143 | 264 | Jenny Gingrich Fuentes |
+| 140 | 265 | SkipTheSadSauce |
+| 141 | 265 | Nutty Spinblock |
+| 142 | 264 | Jenny Gingrich Fuentes |
+| 143 | 264 | Lexuriuos Lifestlye |
 | 144 | 263 | Sharon Reynolds |
 | 145 | 258 | Virginia Gray Floyd |
 | 146 | 257 | Amanda Jarnagin |
@@ -172,8 +172,8 @@
 | 164 | 226 | Kandae |
 | 165 | 224 | Dizzy Party |
 | 166 | 218 | LC |
-| 167 | 217 | Kimberly Garcia |
-| 168 | 217 | ParisandCory Champagne |
+| 167 | 217 | ParisandCory Champagne |
+| 168 | 217 | Kimberly Garcia |
 | 169 | 216 | MRdot Rooski |
 | 170 | 216 | Shauntina Burke |
 | 171 | 215 | Sam Williams |
@@ -181,8 +181,8 @@
 | 173 | 212 | Jaimie Lynn |
 | 174 | 211 | Marianita Garcia |
 | 175 | 210 | Giggly Builderline |
-| 176 | 210 | Letson Melissa |
-| 177 | 210 | Ty Brown |
+| 176 | 210 | Ty Brown |
+| 177 | 210 | Letson Melissa |
 | 178 | 209 | Debbie Davis |
 | 179 | 209 | Chris K |
 | 180 | 208 | Donna Addison Williams |
