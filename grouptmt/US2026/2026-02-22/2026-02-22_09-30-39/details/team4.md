@@ -49,8 +49,8 @@
 | 41 | 757 | Ancient Intuition |
 | 42 | 736 | Goatimus Lombardi |
 | 43 | 734 | BertMofo |
-| 44 | 707 | Rachel Anne |
-| 45 | 707 | Clarence Patawaran |
+| 44 | 707 | Clarence Patawaran |
+| 45 | 707 | Rachel Anne |
 | 46 | 704 | Crystal Carroll |
 | 47 | 697 | Edward White |
 | 48 | 695 | LisaJo Picken Buchanan |
@@ -135,10 +135,10 @@
 | 127 | 283 | Brittney Orengo |
 | 128 | 281 | Meagan Nicole |
 | 129 | 280 | Ashley Ingram |
-| 130 | 278 | Carrie Brian |
-| 131 | 278 | Desi Desporte |
-| 132 | 277 | Mary Ann Pabukis |
-| 133 | 277 | Scott Jameson |
+| 130 | 278 | Desi Desporte |
+| 131 | 278 | Carrie Brian |
+| 132 | 277 | Scott Jameson |
+| 133 | 277 | Mary Ann Pabukis |
 | 134 | 275 | Dizzy Tiley |
 | 135 | 274 | Calvin Cannon |
 | 136 | 272 | Keshia Lyons |
@@ -157,11 +157,11 @@
 | 149 | 240 | Peachy Fall |
 | 150 | 237 | Chris Bernstein |
 | 151 | 232 | Crystal Nicolette Moore |
-| 152 | 230 | Cursed Hag |
-| 153 | 230 | Autum Leigh |
+| 152 | 230 | Autum Leigh |
+| 153 | 230 | Cursed Hag |
 | 154 | 228 | J-Rizzle |
-| 155 | 227 | Swanky Fitline |
-| 156 | 227 | Alyssa Papen |
+| 155 | 227 | Alyssa Papen |
+| 156 | 227 | Swanky Fitline |
 | 157 | 225 | Damn Libra |
 | 158 | 224 | Matt Summer |
 | 159 | 223 | Kris Bartlett |
@@ -327,7 +327,7 @@
 | 319 | 123 | Lora |
 | 320 | 123 | Joseph Edmonson |
 | 321 | 121 | Jim Hart |
-| 322 | 120 | Porkobello |
+| 322 | 120 | Bryan Hodgins |
 | 323 | 120 | Rebecca Morris |
 | 324 | 120 | Porkobello |
 | 325 | 120 | Metsfan |

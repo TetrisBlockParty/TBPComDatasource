@@ -187,8 +187,8 @@
 | 179 | 353 | Shunta Jacobs |
 | 180 | 353 | Nora Rogers |
 | 181 | 348 | Chasity |
-| 182 | 347 | Nicole Flippo |
-| 183 | 347 | Jone |
+| 182 | 347 | Jone |
+| 183 | 347 | Nicole Flippo |
 | 184 | 343 | Ashley Raines |
 | 185 | 341 | Samantha Lynn |
 | 186 | 340 | Chummy Caster |
@@ -236,8 +236,8 @@
 | 228 | 275 | Cassandra Bryant |
 | 229 | 274 | Tye Stovall |
 | 230 | 272 | Dee Franklin |
-| 231 | 271 | Cass Mendoza |
-| 232 | 271 | Ashley Muncey |
+| 231 | 271 | Ashley Muncey |
+| 232 | 271 | Cass Mendoza |
 | 233 | 269 | Trisha Balmer |
 | 234 | 267 | Terry Jo Jones |
 | 235 | 265 | Sarah Moyer |
@@ -285,8 +285,8 @@
 | 277 | 220 | Tosha Griffey |
 | 278 | 219 | Sissy Lowery Davis |
 | 279 | 218 | Michael Lucado |
-| 280 | 216 | Twisty Brick LT |
-| 281 | 216 | Cheryl Hinch Tenbrook |
+| 280 | 216 | Cheryl Hinch Tenbrook |
+| 281 | 216 | Twisty Brick LT |
 | 282 | 215 | IamJust Neyamijah Washington Sr. |
 | 283 | 214 | Rebel124 |
 | 284 | 214 | Angela Scott |
@@ -371,8 +371,8 @@
 | 363 | 161 | Bouncy Blockbuilder |
 | 364 | 161 | Julia Nicole |
 | 365 | 160 | Sunny Lift |
-| 366 | 159 | Joshua David Huie |
-| 367 | 159 | Salena Whitlock |
+| 366 | 159 | Salena Whitlock |
+| 367 | 159 | Joshua David Huie |
 | 368 | 158 | Willow |
 | 369 | 157 | Katrina E Jelks |
 | 370 | 157 | Steffi Chris Dacones |
@@ -826,7 +826,7 @@
 | 818 | 72 | Spzy |
 | 819 | 72 | Bouncy Line |
 | 820 | 72 | Jodi Kaczynski-O'Dowd |
-| 821 | 72 | AC Yeater |
+| 821 | 72 | Snazzy Strikerbuilder |
 | 822 | 72 | Johnny Hill |
 | 823 | 71 | Daniel Davis |
 | 824 | 71 | LaKisha Legrone |

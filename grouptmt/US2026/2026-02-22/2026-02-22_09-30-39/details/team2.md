@@ -250,8 +250,8 @@
 | 242 | 777 | Jessicah Myers |
 | 243 | 777 | Eric Carlson |
 | 244 | 772 | Stephen Stephen |
-| 245 | 772 | William Hunt |
-| 246 | 772 | Sam Joe |
+| 245 | 772 | Sam Joe |
+| 246 | 772 | William Hunt |
 | 247 | 771 | Terri McKelvey McKinley |
 | 248 | 769 | Adira Brown |
 | 249 | 767 | Jessica Wayne Cornwall |
@@ -330,8 +330,8 @@
 | 322 | 639 | Rebecca Miller |
 | 323 | 635 | Diana Fitzwater |
 | 324 | 631 | Marie Walker |
-| 325 | 627 | Allan Wayne Lamia |
-| 326 | 627 | Victoria Moore-Smith |
+| 325 | 627 | Victoria Moore-Smith |
+| 326 | 627 | Allan Wayne Lamia |
 | 327 | 620 | Brandon Armstrong |
 | 328 | 619 | Jánine Riggs |
 | 329 | 617 | Leslie Ann Carter |
@@ -478,8 +478,8 @@
 | 470 | 459 | Melissa Kay Gibson |
 | 471 | 458 | Casper The Chonk |
 | 472 | 454 | Casey Schumacher |
-| 473 | 453 | Rhonda Petro |
-| 474 | 453 | Joshua Sommerville |
+| 473 | 453 | Joshua Sommerville |
+| 474 | 453 | Rhonda Petro |
 | 475 | 451 | Funky Caster |
 | 476 | 451 | Cody Nishimura |
 | 477 | 451 | Dylan Thomason |
@@ -683,8 +683,8 @@
 | 675 | 335 | Maria Louise |
 | 676 | 334 | Melissa James |
 | 677 | 333 | Veronica Stevenson |
-| 678 | 333 | Adrian Benitez |
-| 679 | 333 | Woodys Glass |
+| 678 | 333 | Woodys Glass |
+| 679 | 333 | Adrian Benitez |
 | 680 | 332 | Lathasa Newkirk |
 | 681 | 330 | Jennifer Monroe Kelly |
 | 682 | 329 | Chummy Blockbuilder |
@@ -922,8 +922,8 @@
 | 914 | 246 | Stacey Tranchida |
 | 915 | 245 | Mellissa Evans |
 | 916 | 245 | Abby Klaski |
-| 917 | 244 | David Rehse |
-| 918 | 244 | Jumpy Gridclear |
+| 917 | 244 | Jumpy Gridclear |
+| 918 | 244 | David Rehse |
 | 919 | 244 | Brooklynn Huckaby |
 | 920 | 244 | Nakiiya Dreamcatcher Gore |
 | 921 | 244 | Erika Deer Kauffman |
@@ -934,8 +934,8 @@
 | 926 | 242 | Meganator42 |
 | 927 | 242 | Donna Chandler |
 | 928 | 242 | Groovy Tilefall |
-| 929 | 241 | Emoney Sanchez |
-| 930 | 241 | Ronda Cary |
+| 929 | 241 | Ronda Cary |
+| 930 | 241 | Emoney Sanchez |
 | 931 | 241 | Travis Tinsley |
 | 932 | 240 | Alison Emmons |
 | 933 | 240 | Renee Bowers |
