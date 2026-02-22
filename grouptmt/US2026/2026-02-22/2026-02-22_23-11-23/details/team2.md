@@ -154,8 +154,8 @@
 | 146 | 1450 | Cody Smith-Candelaria |
 | 147 | 1418 | L3sli3 |
 | 148 | 1416 | Nancy Reid |
-| 149 | 1411 | niecy |
-| 150 | 1411 | Zappy Cascade |
+| 149 | 1411 | Zappy Cascade |
+| 150 | 1411 | niecy |
 | 151 | 1401 | Brandy Andre |
 | 152 | 1397 | Bussyiano Page |
 | 153 | 1390 | Erica Williams |
@@ -262,11 +262,11 @@
 | 254 | 957 | Block Master |
 | 255 | 957 | Keri Womack |
 | 256 | 957 | Crystal Hoffman |
-| 257 | 955 | Angela Bonquiqui Dinish |
-| 258 | 955 | Kevin Walp |
+| 257 | 955 | Kevin Walp |
+| 258 | 955 | Angela Bonquiqui Dinish |
 | 259 | 951 | Cynthia Ward |
-| 260 | 941 | Cool Clearer |
-| 261 | 941 | Glitzy Stackzone |
+| 260 | 941 | Glitzy Stackzone |
+| 261 | 941 | Cool Clearer |
 | 262 | 937 | Cindy Sechler Taninecz |
 | 263 | 936 | Rickey Johnson |
 | 264 | 934 | April Dawn Gussler |
@@ -703,8 +703,8 @@
 | 695 | 413 | Moist_B-hole |
 | 696 | 413 | Ashley Robbins |
 | 697 | 413 | Kristen O'Neal |
-| 698 | 412 | Boogie SoAnimated Johnson |
-| 699 | 412 | Jason H Baker |
+| 698 | 412 | Jason H Baker |
+| 699 | 412 | Boogie SoAnimated Johnson |
 | 700 | 412 | Lewis Sturgeon |
 | 701 | 411 | Rose Fx |
 | 702 | 409 | Alexis Richardson |

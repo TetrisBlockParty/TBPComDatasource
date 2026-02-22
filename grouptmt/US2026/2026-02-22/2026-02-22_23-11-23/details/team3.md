@@ -220,8 +220,8 @@
 | 212 | 399 | Mcathen |
 | 213 | 393 | Cozy Snaplink |
 | 214 | 387 | rosy |
-| 215 | 383 | Heather Green |
-| 216 | 383 | Nicole Flippo |
+| 215 | 383 | Nicole Flippo |
+| 216 | 383 | Heather Green |
 | 217 | 382 | Scott Carleton |
 | 218 | 382 | Giddy Twistbuilder |
 | 219 | 378 | Chris Bell |
@@ -239,8 +239,8 @@
 | 231 | 365 | Tiffany Ford |
 | 232 | 362 | Brandon Givens |
 | 233 | 360 | Sheila M Frazier |
-| 234 | 357 | Ammmmmmy |
-| 235 | 357 | Stephanie Burtin |
+| 234 | 357 | Stephanie Burtin |
+| 235 | 357 | Ammmmmmy |
 | 236 | 355 | Keis |
 | 237 | 353 | Kristal C Lee |
 | 238 | 351 | Eon Harris |

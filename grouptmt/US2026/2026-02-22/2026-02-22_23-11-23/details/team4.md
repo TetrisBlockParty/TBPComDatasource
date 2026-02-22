@@ -162,7 +162,7 @@
 | 154 | 333 | Twisty Cascadezone |
 | 155 | 332 | Desi Desporte |
 | 156 | 332 | HastyGrabber |
-| 157 | 332 | Desi Desporte |
+| 157 | 332 | Leslie Nicole |
 | 158 | 330 | Oscar Alberto Perez |
 | 159 | 329 | Jeff Brian Gates |
 | 160 | 328 | Kris Bartlett |
@@ -171,8 +171,8 @@
 | 163 | 320 | Lauren Scott |
 | 164 | 316 | Meagan Nicole |
 | 165 | 314 | TRCuse |
-| 166 | 314 | 🥔🥔 Spudz |
-| 167 | 314 | Andy Cabral |
+| 166 | 314 | Andy Cabral |
+| 167 | 314 | 🥔🥔 Spudz |
 | 168 | 312 | Rafael Valentin |
 | 169 | 311 | A5! |
 | 170 | 311 | JIGsaw ~(•¿°)~ |
@@ -226,8 +226,8 @@
 | 218 | 251 | Carol Ricks Raymond |
 | 219 | 250 | Matt Gooder |
 | 220 | 249 | Ak Jones |
-| 221 | 248 | Jose Dejesus |
-| 222 | 248 | Chirpy Basepiece |
+| 221 | 248 | Chirpy Basepiece |
+| 222 | 248 | Jose Dejesus |
 | 223 | 247 | April Rondinone |
 | 224 | 246 | Zethra Prenisha Rahming |
 | 225 | 246 | Carlos Ramirez |
