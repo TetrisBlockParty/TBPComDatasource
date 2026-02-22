@@ -191,8 +191,8 @@
 | 183 | 951 | Cynthia Ward |
 | 184 | 950 | Teresa Gillmore |
 | 185 | 942 | Keri Womack |
-| 186 | 941 | Marie Boyd Faulk |
-| 187 | 941 | Cool Clearer |
+| 186 | 941 | Cool Clearer |
+| 187 | 941 | Marie Boyd Faulk |
 | 188 | 935 | William Meussner |
 | 189 | 932 | Catina Hutchison |
 | 190 | 925 | Moose Griffith |
@@ -209,8 +209,8 @@
 | 201 | 868 | Auntie B |
 | 202 | 867 | Michele Gabriel |
 | 203 | 865 | Dedra Steward |
-| 204 | 862 | Brittany Radaszewski |
-| 205 | 862 | Robin Kerby |
+| 204 | 862 | Robin Kerby |
+| 205 | 862 | Brittany Radaszewski |
 | 206 | 860 | April Dawn Gussler |
 | 207 | 857 | Della Hole |
 | 208 | 853 | Felicia Lynn |
@@ -219,8 +219,8 @@
 | 211 | 841 | Tralonda Weeks |
 | 212 | 837 | Ashley Rose Frederick |
 | 213 | 835 | Katrina Weston |
-| 214 | 834 | Rebecca Doughman |
-| 215 | 834 | Nika Bee |
+| 214 | 834 | Nika Bee |
+| 215 | 834 | Rebecca Doughman |
 | 216 | 828 | Cindy Sechler Taninecz |
 | 217 | 820 | Chirpy Staggerpiece |
 | 218 | 818 | Angela Bonquiqui Dinish |
@@ -299,8 +299,8 @@
 | 291 | 670 | Kassandra Hunt |
 | 292 | 669 | Charvi' Carter |
 | 293 | 666 | Speedy Spinblock |
-| 294 | 663 | Mandi Douglas Hilt |
-| 295 | 663 | Ashle Scranton |
+| 294 | 663 | Ashle Scranton |
+| 295 | 663 | Mandi Douglas Hilt |
 | 296 | 659 | Roseanna Peloso |
 | 297 | 659 | Draizen Montrell Thomas |
 | 298 | 658 | Erica Williams |
@@ -1275,8 +1275,8 @@
 | 1267 | 170 | party pooch |
 | 1268 | 170 | Orla Aherne |
 | 1269 | 170 | Tigro Ace |
-| 1270 | 169 | Chummy Shiftsnap |
-| 1271 | 169 | Corey Ross |
+| 1270 | 169 | Corey Ross |
+| 1271 | 169 | Chummy Shiftsnap |
 | 1272 | 169 | Ubu |
 | 1273 | 169 | Dapper Blockroll |
 | 1274 | 169 | Christy Green |

@@ -34,8 +34,8 @@
 | 26 | 886 | Dustin Robert |
 | 27 | 880 | Koshin Abdirahman |
 | 28 | 879 | Heather Tushner |
-| 29 | 873 | Michelle Pearman |
-| 30 | 873 | Elizabeth Sallas |
+| 29 | 873 | Elizabeth Sallas |
+| 30 | 873 | Michelle Pearman |
 | 31 | 871 | Denny Shives |
 | 32 | 846 | Christine Marie |
 | 33 | 843 | Lucille Truesdale |
@@ -82,8 +82,8 @@
 | 74 | 483 | Carmethia Clemons Haslerig |
 | 75 | 483 | TeeJ |
 | 76 | 467 | Dawn Alexander |
-| 77 | 447 | Samantha Peterson |
-| 78 | 447 | Erin Thomas |
+| 77 | 447 | Erin Thomas |
+| 78 | 447 | Samantha Peterson |
 | 79 | 440 | Kristin Manee |
 | 80 | 429 | Amelpss |
 | 81 | 427 | KJ Pool |
@@ -106,8 +106,8 @@
 | 98 | 373 | Joseph Guthrie |
 | 99 | 369 | Nope Young |
 | 100 | 358 | Nugget |
-| 101 | 352 | Monica Daley |
-| 102 | 352 | Zippy Gridlock |
+| 101 | 352 | Zippy Gridlock |
+| 102 | 352 | Monica Daley |
 | 103 | 344 | Livvy |
 | 104 | 337 | Lori Walker |
 | 105 | 331 | ThaEviLJeNiuZ |
@@ -121,8 +121,8 @@
 | 113 | 303 | Lauren Scott |
 | 114 | 300 | Jason Hart |
 | 115 | 298 | Lucas J Sutton |
-| 116 | 296 | Justin Hannigan |
-| 117 | 296 | HastyGrabber |
+| 116 | 296 | HastyGrabber |
+| 117 | 296 | Justin Hannigan |
 | 118 | 295 | Latisha Davis |
 | 119 | 294 | Kesha Brady |
 | 120 | 290 | 🥔🥔 Spudz |
@@ -153,7 +153,7 @@
 | 145 | 239 | Marvin Lou Martin |
 | 146 | 232 | Crystal Nicolette Moore |
 | 147 | 230 | Cursed Hag |
-| 148 | 230 | Calvin Cannon |
+| 148 | 230 | Autum Leigh |
 | 149 | 228 | J-Rizzle |
 | 150 | 227 | Swanky Fitline |
 | 151 | 227 | Chris Bernstein |
@@ -199,8 +199,8 @@
 | 191 | 186 | Holly |
 | 192 | 185 | Lori |
 | 193 | 184 | Ak Jones |
-| 194 | 181 | Alan George LaRage |
-| 195 | 181 | Carter Jones |
+| 194 | 181 | Carter Jones |
+| 195 | 181 | Alan George LaRage |
 | 196 | 180 | Orchislactea |
 | 197 | 180 | Dihcheese444 |
 | 198 | 180 | Rafael Valentin |
@@ -421,8 +421,8 @@
 | 413 | 88 | Chris Hartig |
 | 414 | 88 | Michelle Parker |
 | 415 | 87 | Martha Lucinda Bishop |
-| 416 | 86 | Peppy Strike |
-| 417 | 86 | Destiney Carter |
+| 416 | 86 | Destiney Carter |
+| 417 | 86 | Peppy Strike |
 | 418 | 86 | amy |
 | 419 | 85 | conceptCollector |
 | 420 | 85 | Jennifer Renee |

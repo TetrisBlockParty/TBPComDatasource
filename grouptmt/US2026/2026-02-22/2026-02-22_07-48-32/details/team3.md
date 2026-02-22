@@ -119,8 +119,8 @@
 | 111 | 506 | Sashay Tapae Simpson |
 | 112 | 502 | Justin Ritter |
 | 113 | 502 | Elissa S-k |
-| 114 | 500 | Domo Washington |
-| 115 | 500 | Kristie |
+| 114 | 500 | Kristie |
+| 115 | 500 | Domo Washington |
 | 116 | 497 | Mykal Burton |
 | 117 | 492 | Daira Largen |
 | 118 | 491 | Chauntee Alfrey-Cardinale |
@@ -156,8 +156,8 @@
 | 148 | 401 | Katie Knaus |
 | 149 | 400 | Luciana Braganca Vieira |
 | 150 | 399 | Marcie Bressler |
-| 151 | 399 | Jacqueline Rodriguez |
-| 152 | 399 | Mcathen |
+| 151 | 399 | Mcathen |
+| 152 | 399 | Jacqueline Rodriguez |
 | 153 | 397 | Annie Déè |
 | 154 | 393 | Fallorina Susana |
 | 155 | 392 | Tasha Gillespie |
@@ -210,10 +210,10 @@
 | 202 | 296 | Katrina Turner |
 | 203 | 296 | Ammmmmmy |
 | 204 | 296 | Brandon Givens |
-| 205 | 295 | Marci Mize Fandrich |
-| 206 | 295 | RickyG |
-| 207 | 289 | Hoppy Buildout |
-| 208 | 289 | Duane Bright |
+| 205 | 295 | RickyG |
+| 206 | 295 | Marci Mize Fandrich |
+| 207 | 289 | Duane Bright |
+| 208 | 289 | Hoppy Buildout |
 | 209 | 289 | DidIdothat |
 | 210 | 286 | Cynthia Herrmann Egland |
 | 211 | 284 | Denise Nardoni |
@@ -282,11 +282,11 @@
 | 274 | 214 | Rebel124 |
 | 275 | 212 | Desiree Gold |
 | 276 | 212 | Sunny Rotater |
-| 277 | 211 | Velma Mull |
-| 278 | 211 | El Chapa |
+| 277 | 211 | El Chapa |
+| 278 | 211 | Velma Mull |
 | 279 | 211 | Khaleada McGill Banks |
-| 280 | 210 | Rachel |
-| 281 | 210 | Lizabeth Fox |
+| 280 | 210 | Lizabeth Fox |
+| 281 | 210 | Rachel |
 | 282 | 209 | Micayah Stevens |
 | 283 | 208 | AlsoJess |
 | 284 | 207 | Jessica |
@@ -311,8 +311,8 @@
 | 303 | 189 | Katie Leigh Blankenship |
 | 304 | 188 | Loopy Fallmatch |
 | 305 | 186 | Carrie Huskey |
-| 306 | 184 | Troy |
-| 307 | 184 | France Vézina |
+| 306 | 184 | France Vézina |
+| 307 | 184 | Troy |
 | 308 | 184 | Stephanie Hill |
 | 309 | 183 | Cesar Barraza |
 | 310 | 182 | Melanie Sherwood |
@@ -366,8 +366,8 @@
 | 358 | 156 | Nichole Greene |
 | 359 | 155 | Michell Hendershott Jackson |
 | 360 | 155 | Michael Leblanc |
-| 361 | 153 | Sheila M Frazier |
-| 362 | 153 | Lys |
+| 361 | 153 | Lys |
+| 362 | 153 | Sheila M Frazier |
 | 363 | 153 | Tony Waters |
 | 364 | 152 | Noyb Adam |
 | 365 | 152 | Goofy Fall |
@@ -386,8 +386,8 @@
 | 378 | 147 | sofaking |
 | 379 | 146 | ROODBOY |
 | 380 | 146 | Sara Dunn |
-| 381 | 146 | Sdot |
-| 382 | 146 | Wettnippz |
+| 381 | 146 | Wettnippz |
+| 382 | 146 | Sdot |
 | 383 | 144 | Tenisha Semidey |
 | 384 | 144 | Blair Erin Waite |
 | 385 | 142 | Gray Hicks |

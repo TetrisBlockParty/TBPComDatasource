@@ -113,8 +113,8 @@
 | 105 | 326 | Monica Donato |
 | 106 | 323 | Shauna Loe |
 | 107 | 321 | Maria C. Hernandez |
-| 108 | 319 | Patrick Luckenbill |
-| 109 | 319 | Deanna L Hermanson |
+| 108 | 319 | Deanna L Hermanson |
+| 109 | 319 | Patrick Luckenbill |
 | 110 | 313 | Tanya Carpenter-Reynolds |
 | 111 | 310 | phrmblk24 |
 | 112 | 310 | Jason Jones |
@@ -126,8 +126,8 @@
 | 118 | 291 | Seante Bullock |
 | 119 | 290 | Death |
 | 120 | 287 | Chelsea Dahlquist |
-| 121 | 286 | Ly Phethmany |
-| 122 | 286 | Arianna O'Brien |
+| 121 | 286 | Arianna O'Brien |
+| 122 | 286 | Ly Phethmany |
 | 123 | 285 | Ananda Mendez |
 | 124 | 284 | Emily Adelaide Wheatley |
 | 125 | 284 | Rachael |
@@ -138,8 +138,8 @@
 | 130 | 280 | Jennifer Hardman |
 | 131 | 276 | Dandy Basegrid |
 | 132 | 265 | SkipTheSadSauce |
-| 133 | 264 | Jenny Gingrich Fuentes |
-| 134 | 264 | Lexuriuos Lifestlye |
+| 133 | 264 | Lexuriuos Lifestlye |
+| 134 | 264 | Jenny Gingrich Fuentes |
 | 135 | 263 | Sharon Reynolds |
 | 136 | 258 | Virginia Gray Floyd |
 | 137 | 257 | Amanda Jarnagin |
@@ -198,8 +198,8 @@
 | 190 | 193 | Michael |
 | 191 | 193 | Jennifer Olewnik Soborowski |
 | 192 | 192 | Jessica Sheehan |
-| 193 | 191 | Shanae Grant |
-| 194 | 191 | Diane Byrd |
+| 193 | 191 | Diane Byrd |
+| 194 | 191 | Shanae Grant |
 | 195 | 190 | Sweetts |
 | 196 | 190 | Thorne Shumate |
 | 197 | 189 | Jeanna Dunn |
@@ -225,10 +225,10 @@
 | 217 | 173 | Rico Rico |
 | 218 | 173 | Gabrielle Louise Malloch |
 | 219 | 172 | Phu ckalldems |
-| 220 | 171 | Greg Premoe |
-| 221 | 171 | David DeSantis |
-| 222 | 170 | Cece Ibarra |
-| 223 | 170 | Standia Civil |
+| 220 | 171 | David DeSantis |
+| 221 | 171 | Greg Premoe |
+| 222 | 170 | Standia Civil |
+| 223 | 170 | Cece Ibarra |
 | 224 | 169 | Abbey Crespo |
 | 225 | 168 | Amber Stoker |
 | 226 | 167 | Nery Martinez |
@@ -244,8 +244,8 @@
 | 236 | 161 | SavageBooty98 |
 | 237 | 160 | Tedashi |
 | 238 | 158 | Sarah Marie |
-| 239 | 156 | Erin Rosberg |
-| 240 | 156 | Mark Smith |
+| 239 | 156 | Mark Smith |
+| 240 | 156 | Erin Rosberg |
 | 241 | 155 | Barry Mac'Ockner |
 | 242 | 154 | Gary Gobin |
 | 243 | 154 | Melissa Lemmon |
@@ -264,10 +264,10 @@
 | 256 | 147 | Davery Spencer Adair |
 | 257 | 145 | Tipsy Riseclear |
 | 258 | 144 | Miguel Teixeira |
-| 259 | 144 | Fmp |
-| 260 | 144 | Toph |
-| 261 | 143 | Herm Junior |
-| 262 | 143 | Guest |
+| 259 | 144 | Toph |
+| 260 | 144 | Fmp |
+| 261 | 143 | Guest |
+| 262 | 143 | Herm Junior |
 | 263 | 142 | Jerry Danowski |
 | 264 | 140 | Tawnya Peltonen |
 | 265 | 139 | LD1 |
