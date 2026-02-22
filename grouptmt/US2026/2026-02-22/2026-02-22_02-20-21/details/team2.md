@@ -297,26 +297,26 @@
 | 289 | 535 | Paul Huber |
 | 290 | 535 | Jessie McDougald |
 | 291 | 531 | Chris Wanner |
-| 292 | 528 | Taylor Phillips |
-| 293 | 528 | Brownie Sheena |
-| 294 | 527 | Heather Causey |
-| 295 | 527 | Ryan Gunther |
+| 292 | 528 | Brownie Sheena |
+| 293 | 528 | Taylor Phillips |
+| 294 | 527 | Ryan Gunther |
+| 295 | 527 | Heather Causey |
 | 296 | 525 | Desiree Anderson |
 | 297 | 520 | Maddy Petersen |
 | 298 | 520 | Cheech Dta |
 | 299 | 519 | Rob Brown |
-| 300 | 518 | AISlop |
-| 301 | 518 | Scott Treadway |
+| 300 | 518 | Scott Treadway |
+| 301 | 518 | AISlop |
 | 302 | 515 | Matt Johnson |
 | 303 | 514 | Dizzy Zone |
 | 304 | 514 | Laquetta Royston |
 | 305 | 511 | Laura Mclean |
-| 306 | 509 | Jordan Kaiser |
-| 307 | 509 | Kelli Wells |
+| 306 | 509 | Kelli Wells |
+| 307 | 509 | Jordan Kaiser |
 | 308 | 507 | Magic steve |
-| 309 | 502 | Sparkles |
-| 310 | 502 | Em Chen |
-| 311 | 502 | Poppy Snap |
+| 309 | 502 | Poppy Snap |
+| 310 | 502 | Sparkles |
+| 311 | 502 | Em Chen |
 | 312 | 500 | Sarah Ridenour |
 | 313 | 500 | Glitzy Stackzone |
 | 314 | 499 | Sarah Massey |

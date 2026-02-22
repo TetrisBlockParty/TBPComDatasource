@@ -81,8 +81,8 @@
 | 73 | 353 | Trina Gee |
 | 74 | 347 | pjbeta |
 | 75 | 345 | Dee Perry |
-| 76 | 338 | Stephanie Zahn |
-| 77 | 338 | Tipsy Strikerpiece |
+| 76 | 338 | Tipsy Strikerpiece |
+| 77 | 338 | Stephanie Zahn |
 | 78 | 333 | Brandi Huntington |
 | 79 | 332 | Luciano Moreira |
 | 80 | 328 | Gracie |
@@ -107,8 +107,8 @@
 | 99 | 290 | Death |
 | 100 | 288 | Seante Bullock |
 | 101 | 285 | Ananda Mendez |
-| 102 | 284 | Emily Adelaide Wheatley |
-| 103 | 284 | Theo Pinnow |
+| 102 | 284 | Theo Pinnow |
+| 103 | 284 | Emily Adelaide Wheatley |
 | 104 | 282 | Timothy Dew |
 | 105 | 280 | Sarah Roberts |
 | 106 | 277 | Ly Phethmany |

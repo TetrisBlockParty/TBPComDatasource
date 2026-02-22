@@ -54,8 +54,8 @@
 | 46 | 594 | Ancient Intuition |
 | 47 | 590 | Valerie Roberts |
 | 48 | 555 | Clarence Patawaran |
-| 49 | 546 | Kimberly Love |
-| 50 | 546 | Savannah Overdorf |
+| 49 | 546 | Savannah Overdorf |
+| 50 | 546 | Kimberly Love |
 | 51 | 545 | KM8 |
 | 52 | 540 | Cassie Michaux |
 | 53 | 526 | Goatimus Lombardi |

@@ -89,8 +89,8 @@
 | 81 | 561 | Rachael McClain Owens |
 | 82 | 559 | Morgan Martinez |
 | 83 | 548 | Dave Herzog |
-| 84 | 541 | Nate Burnside |
-| 85 | 541 | Patty Allen |
+| 84 | 541 | Patty Allen |
+| 85 | 541 | Nate Burnside |
 | 86 | 536 | Giddy Drop |
 | 87 | 533 | Sarah Fehring |
 | 88 | 526 | Cynthia Castros-Hampton |
@@ -111,11 +111,11 @@
 | 103 | 446 | Danielle Rhoades |
 | 104 | 445 | Kristie McFarland |
 | 105 | 438 | Bea Miles |
-| 106 | 432 | Jenny Hrndz |
-| 107 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 106 | 432 | Jennifer Lynn Fahrenholtz-Summers |
+| 107 | 432 | Jenny Hrndz |
 | 108 | 430 | Patricia White |
-| 109 | 428 | Betty Ivy |
-| 110 | 428 | Elissa S-k |
+| 109 | 428 | Elissa S-k |
+| 110 | 428 | Betty Ivy |
 | 111 | 416 | Mary Pellegrino |
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
@@ -174,8 +174,8 @@
 | 166 | 286 | Jacqueline Rodriguez |
 | 167 | 283 | Joye Sims Binion |
 | 168 | 278 | Rufus Lincoln |
-| 169 | 276 | _melisa223_ |
-| 170 | 276 | Crimson |
+| 169 | 276 | Crimson |
+| 170 | 276 | _melisa223_ |
 | 171 | 274 | Tye Stovall |
 | 172 | 272 | opf |
 | 173 | 272 | Rebecca Bailey |
@@ -189,7 +189,7 @@
 | 181 | 260 | Grams |
 | 182 | 258 | Tamara Deherrera |
 | 183 | 257 | Ashley Jones |
-| 184 | 256 | Tiffany Davie |
+| 184 | 256 | Brenda Lee Vander Molen |
 | 185 | 256 | KayB |
 | 186 | 256 | Tiffany Davie |
 | 187 | 254 | Duane Bright |
@@ -201,8 +201,8 @@
 | 193 | 245 | Latoya Mayne |
 | 194 | 243 | Rochelle Hazelett |
 | 195 | 241 | Eon Harris |
-| 196 | 240 | Jimmie Clemons |
-| 197 | 240 | Brandon Givens |
+| 196 | 240 | Brandon Givens |
+| 197 | 240 | Jimmie Clemons |
 | 198 | 238 | Araceli Parra |
 | 199 | 236 | Jess Bissett |
 | 200 | 236 | Rania Zaqout |
@@ -215,8 +215,8 @@
 | 207 | 224 | Nicole Myers |
 | 208 | 223 | Jeana Gilbert |
 | 209 | 221 | Jaime Monhaut-Reed |
-| 210 | 219 | Shunta Jacobs |
-| 211 | 219 | Sissy Lowery Davis |
+| 210 | 219 | Sissy Lowery Davis |
+| 211 | 219 | Shunta Jacobs |
 | 212 | 219 | Keis |
 | 213 | 218 | Giddy Twistbuilder |
 | 214 | 218 | Michael Lucado |
@@ -227,8 +227,8 @@
 | 219 | 211 | Khaleada McGill Banks |
 | 220 | 211 | Katrina Turner |
 | 221 | 209 | Trisha Balmer |
-| 222 | 207 | Jessica |
-| 223 | 207 | Chris Bell |
+| 222 | 207 | Chris Bell |
+| 223 | 207 | Jessica |
 | 224 | 205 | Sarah Moyer |
 | 225 | 204 | Danielle Allison |
 | 226 | 204 | Aerian Preston |
