@@ -113,8 +113,8 @@
 | 105 | 303 | Lauren Scott |
 | 106 | 300 | Jason Hart |
 | 107 | 298 | Lucas J Sutton |
-| 108 | 296 | Justin Hannigan |
-| 109 | 296 | HastyGrabber |
+| 108 | 296 | HastyGrabber |
+| 109 | 296 | Justin Hannigan |
 | 110 | 295 | Latisha Davis |
 | 111 | 294 | Kesha Brady |
 | 112 | 290 | 🥔🥔 Spudz |
@@ -174,8 +174,8 @@
 | 166 | 204 | Jen Caldwell |
 | 167 | 203 | Katherine Crane |
 | 168 | 202 | TRCuse |
-| 169 | 201 | Chance Strickland |
-| 170 | 201 | Melvin Baird |
+| 169 | 201 | Melvin Baird |
+| 170 | 201 | Chance Strickland |
 | 171 | 200 | Jeff Brian Gates |
 | 172 | 198 | Jessica Lynn Cutlip |
 | 173 | 196 | Oscar Alberto Perez |
@@ -216,9 +216,9 @@
 | 208 | 160 | Carlos Ramirez |
 | 209 | 160 | Rio Rocha |
 | 210 | 159 | Marcus Todd |
-| 211 | 158 | Chair |
+| 211 | 158 | Avy Absol |
 | 212 | 158 | Sam Bishop |
-| 213 | 158 | Avy Absol |
+| 213 | 158 | Chair |
 | 214 | 157 | KayM |
 | 215 | 157 | Bethany Ison |
 | 216 | 157 | scott |

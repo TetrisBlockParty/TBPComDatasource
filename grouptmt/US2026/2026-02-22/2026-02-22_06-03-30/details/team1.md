@@ -134,8 +134,8 @@
 | 126 | 278 | Rachael |
 | 127 | 276 | Dandy Basegrid |
 | 128 | 265 | SkipTheSadSauce |
-| 129 | 264 | Lexuriuos Lifestlye |
-| 130 | 264 | Jenny Gingrich Fuentes |
+| 129 | 264 | Jenny Gingrich Fuentes |
+| 130 | 264 | Lexuriuos Lifestlye |
 | 131 | 263 | Sharon Reynolds |
 | 132 | 257 | Amanda Jarnagin |
 | 133 | 256 | David Miller |
@@ -178,8 +178,8 @@
 | 170 | 199 | Basment Living |
 | 171 | 198 | Shiny Gridmatch |
 | 172 | 198 | Happy Snapbuild |
-| 173 | 195 | Shaykmia |
-| 174 | 195 | Cartier |
+| 173 | 195 | Cartier |
+| 174 | 195 | Shaykmia |
 | 175 | 194 | Christy Jones |
 | 176 | 193 | Lachelle Dillon |
 | 177 | 192 | Jessica Sheehan |
@@ -202,8 +202,8 @@
 | 194 | 179 | Danielle Little-Daugherty |
 | 195 | 179 | femmefatale |
 | 196 | 178 | Chad Atchley |
-| 197 | 177 | Irual Hctrab |
-| 198 | 177 | Jacqueline Unique |
+| 197 | 177 | Jacqueline Unique |
+| 198 | 177 | Irual Hctrab |
 | 199 | 176 | Mel Hogan |
 | 200 | 175 | John Barron |
 | 201 | 174 | Cheeky Pop |
@@ -245,9 +245,9 @@
 | 237 | 147 | Davery Spencer Adair |
 | 238 | 145 | Tipsy Riseclear |
 | 239 | 144 | Fmp |
-| 240 | 144 | Toph |
+| 240 | 144 | Miguel Teixeira |
 | 241 | 144 | Gary Gobin |
-| 242 | 144 | Miguel Teixeira |
+| 242 | 144 | Toph |
 | 243 | 143 | Herm Junior |
 | 244 | 143 | Amber Stoker |
 | 245 | 143 | Guest |
@@ -305,9 +305,9 @@
 | 297 | 116 | Fresno Beotoni |
 | 298 | 116 | Brad MG |
 | 299 | 115 | Mrs.Patrica |
-| 300 | 114 | Angela Rena Brooks |
+| 300 | 114 | Chris Sigurdson |
 | 301 | 114 | Constance Risner |
-| 302 | 114 | Chris Sigurdson |
+| 302 | 114 | Angela Rena Brooks |
 | 303 | 113 | Itspaigebro |
 | 304 | 112 | Crystal Joslin |
 | 305 | 112 | Chris65 |

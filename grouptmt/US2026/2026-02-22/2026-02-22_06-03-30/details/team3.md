@@ -93,8 +93,8 @@
 | 85 | 591 | Jesse Olive |
 | 86 | 588 | yoyo |
 | 87 | 582 | Jay Horn |
-| 88 | 582 | Speedy Bridger |
-| 89 | 582 | Natasha Jones |
+| 88 | 582 | Natasha Jones |
+| 89 | 582 | Speedy Bridger |
 | 90 | 581 | Danielle Mogg |
 | 91 | 579 | Jd Morris |
 | 92 | 577 | Sarajane Lokan |
@@ -222,8 +222,8 @@
 | 214 | 272 | Dee Franklin |
 | 215 | 272 | opf |
 | 216 | 271 | Ashley Muncey |
-| 217 | 267 | Denise Nardoni |
-| 218 | 267 | Terry Jo Jones |
+| 217 | 267 | Terry Jo Jones |
+| 218 | 267 | Denise Nardoni |
 | 219 | 265 | Sarah Moyer |
 | 220 | 265 | Trisha Balmer |
 | 221 | 264 | Grego Daniel |
@@ -237,8 +237,8 @@
 | 229 | 258 | Tamara Deherrera |
 | 230 | 257 | Ashley Jones |
 | 231 | 256 | Brenda Lee Vander Molen |
-| 232 | 256 | KayB |
-| 233 | 256 | Tiffany Davie |
+| 232 | 256 | Tiffany Davie |
+| 233 | 256 | KayB |
 | 234 | 251 | Sabrina Hardrick |
 | 235 | 249 | JerseyJess |
 | 236 | 249 | Annie Marie |
@@ -440,7 +440,7 @@
 | 432 | 121 | Fredd Thomas |
 | 433 | 120 | Carol Cain Thurman |
 | 434 | 120 | Maia |
-| 435 | 119 | Everret Maxine |
+| 435 | 119 | Angella Lyons |
 | 436 | 119 | Brian Quigley |
 | 437 | 119 | Everret Maxine |
 | 438 | 119 | Boldy Blocker |
