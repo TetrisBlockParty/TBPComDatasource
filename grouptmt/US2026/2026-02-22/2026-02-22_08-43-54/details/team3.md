@@ -154,8 +154,8 @@
 | 146 | 407 | Edwin Calvillo Jr. |
 | 147 | 403 | Scott Lindsay |
 | 148 | 402 | Shannon Matthew Byers |
-| 149 | 401 | Katie Knaus |
-| 150 | 401 | Rachel |
+| 149 | 401 | Rachel |
+| 150 | 401 | Katie Knaus |
 | 151 | 400 | Luciana Braganca Vieira |
 | 152 | 399 | Marcie Bressler |
 | 153 | 399 | Mcathen |
@@ -172,8 +172,8 @@
 | 164 | 374 | Sherry Ogden |
 | 165 | 371 | Michael Nowogorski |
 | 166 | 370 | Santeria Trece Candles |
-| 167 | 370 | Logan Naccarato |
-| 168 | 370 | Danielle Allison |
+| 167 | 370 | Danielle Allison |
+| 168 | 370 | Logan Naccarato |
 | 169 | 368 | Stephanie Woods |
 | 170 | 366 | Adrian Marcel Pate |
 | 171 | 362 | Darlene McMillan |
@@ -270,8 +270,8 @@
 | 262 | 230 | Connie Mohler-Fair |
 | 263 | 227 | Krystal Gerstberger |
 | 264 | 227 | Meowsa |
-| 265 | 225 | Cozy Snaplink |
-| 266 | 225 | Dirtgirl27 |
+| 265 | 225 | Dirtgirl27 |
+| 266 | 225 | Cozy Snaplink |
 | 267 | 221 | Vaners |
 | 268 | 221 | Alice |
 | 269 | 221 | Jaime Monhaut-Reed |

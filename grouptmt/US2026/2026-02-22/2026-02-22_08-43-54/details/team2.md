@@ -215,8 +215,8 @@
 | 207 | 867 | Michele Gabriel |
 | 208 | 867 | Peppy Zone |
 | 209 | 865 | Dedra Steward |
-| 210 | 862 | Robin Kerby |
-| 211 | 862 | Brittany Radaszewski |
+| 210 | 862 | Brittany Radaszewski |
+| 211 | 862 | Robin Kerby |
 | 212 | 860 | April Dawn Gussler |
 | 213 | 857 | Della Hole |
 | 214 | 853 | Felicia Lynn |
@@ -360,8 +360,8 @@
 | 352 | 562 | Ashley Lopez |
 | 353 | 561 | Traci Johnson |
 | 354 | 557 | Block Master |
-| 355 | 554 | Rachael Senard |
-| 356 | 554 | Santana Miyagi |
+| 355 | 554 | Santana Miyagi |
+| 356 | 554 | Rachael Senard |
 | 357 | 550 | Nashu |
 | 358 | 549 | Darcy Mae |
 | 359 | 549 | Kaylee McCafferty |
@@ -438,7 +438,7 @@
 | 430 | 482 | Amélie Cadieux |
 | 431 | 482 | Drwatson187 |
 | 432 | 482 | Eckoman518 |
-| 433 | 482 | Drwatson187 |
+| 433 | 482 | Ben Barkley |
 | 434 | 481 | Klee |
 | 435 | 480 | Ashley Collins |
 | 436 | 480 | Dar |
@@ -482,8 +482,8 @@
 | 474 | 444 | Chab |
 | 475 | 442 | Leah |
 | 476 | 441 | Christina Wsn |
-| 477 | 440 | Sarah Berger |
-| 478 | 440 | Liberty |
+| 477 | 440 | Liberty |
+| 478 | 440 | Sarah Berger |
 | 479 | 438 | Johnny Yeates |
 | 480 | 437 | Bubbly Snapfit |
 | 481 | 436 | Brenda Pierpoint |
@@ -498,8 +498,8 @@
 | 490 | 428 | Kiana Boschh |
 | 491 | 428 | Arkei Luster |
 | 492 | 428 | Shyenn Gadsby |
-| 493 | 427 | Destiny Cozier |
-| 494 | 427 | Quinn |
+| 493 | 427 | Quinn |
+| 494 | 427 | Destiny Cozier |
 | 495 | 427 | Kori Beth Babb |
 | 496 | 426 | Ashley Dow |
 | 497 | 425 | Skyler Morgan |
@@ -604,8 +604,8 @@
 | 596 | 371 | AkaLefty |
 | 597 | 371 | Brenda Messer |
 | 598 | 369 | Juan Castillo |
-| 599 | 369 | RaeVan Worthington |
-| 600 | 369 | Tony Lea |
+| 599 | 369 | Tony Lea |
+| 600 | 369 | RaeVan Worthington |
 | 601 | 368 | Angi Harrison |
 | 602 | 367 | Jessica Lamb |
 | 603 | 367 | Connie Lepore-Mann |
@@ -617,9 +617,9 @@
 | 609 | 365 | Audrey Jones |
 | 610 | 365 | Susan Arnburg |
 | 611 | 364 | Shinette Dobson |
-| 612 | 363 | Michelle Sager |
+| 612 | 363 | Kia Humphery |
 | 613 | 363 | Jes Norris |
-| 614 | 363 | Kia Humphery |
+| 614 | 363 | Michelle Sager |
 | 615 | 363 | Stephanie Fortune |
 | 616 | 362 | Andrea Maher |
 | 617 | 362 | Tracy Wise |
@@ -639,8 +639,8 @@
 | 631 | 354 | Rickey Johnson |
 | 632 | 352 | Rose Fx |
 | 633 | 352 | Jean FU Jagielski |
-| 634 | 352 | Mikayala Szaz |
-| 635 | 352 | ruth |
+| 634 | 352 | ruth |
+| 635 | 352 | Mikayala Szaz |
 | 636 | 351 | Connie Jimenez |
 | 637 | 350 | Fi Ne |
 | 638 | 350 | Chris Harr |
@@ -666,8 +666,8 @@
 | 658 | 337 | Sassy Pattern |
 | 659 | 337 | Tum |
 | 660 | 337 | Savannah Alexander |
-| 661 | 336 | Austin Wilson |
-| 662 | 336 | bru |
+| 661 | 336 | bru |
+| 662 | 336 | Austin Wilson |
 | 663 | 336 | Swanky Columnbuilder |
 | 664 | 335 | Brooke Leigh Strube |
 | 665 | 335 | Maria Louise |
@@ -699,8 +699,8 @@
 | 691 | 320 | Mary Boss |
 | 692 | 319 | RetroLemur |
 | 693 | 318 | Jennifer Mahon |
-| 694 | 317 | Ashlyn Berner |
-| 695 | 317 | Zombi3 |
+| 694 | 317 | Zombi3 |
+| 695 | 317 | Ashlyn Berner |
 | 696 | 317 | Aireka Roman |
 | 697 | 316 | Jenn Marie |
 | 698 | 316 | Epic Spinfit |
@@ -715,10 +715,10 @@
 | 707 | 312 | Sassy Linkbuilder |
 | 708 | 311 | Megan Phillips |
 | 709 | 311 | Diallo Sparkman |
-| 710 | 310 | Beth Decker |
-| 711 | 310 | Audra Williams |
-| 712 | 310 | Cheeky Brickmatch |
-| 713 | 310 | Wendy Ducheney |
+| 710 | 310 | Audra Williams |
+| 711 | 310 | Beth Decker |
+| 712 | 310 | Wendy Ducheney |
+| 713 | 310 | Cheeky Brickmatch |
 | 714 | 309 | Byung Bae Park |
 | 715 | 308 | Prado |
 | 716 | 308 | Claire |
@@ -751,8 +751,8 @@
 | 743 | 297 | Ashley Robbins |
 | 744 | 296 | Jennifer Darby |
 | 745 | 296 | Frisky Riserbuilder |
-| 746 | 296 | Zappy Dropmatch |
-| 747 | 296 | Epic Fitzone |
+| 746 | 296 | Epic Fitzone |
+| 747 | 296 | Zappy Dropmatch |
 | 748 | 295 | Noel Tarmy |
 | 749 | 294 | Amanda Edwards |
 | 750 | 293 | Ann Marie Davis |
@@ -786,9 +786,9 @@
 | 778 | 279 | Jennifer Coe |
 | 779 | 278 | AndrewandShela Gornik |
 | 780 | 278 | Katherin Camacho |
-| 781 | 277 | Amanda Chamberlain |
-| 782 | 277 | Cris cris |
-| 783 | 277 | Anthony Mignacca |
+| 781 | 277 | Cris cris |
+| 782 | 277 | Anthony Mignacca |
+| 783 | 277 | Amanda Chamberlain |
 | 784 | 277 | Min |
 | 785 | 276 | Dandy Combo |
 | 786 | 276 | Ryan Lauer |
@@ -803,8 +803,8 @@
 | 795 | 275 | Tammy Mitchell |
 | 796 | 275 | Neaomi Favro |
 | 797 | 275 | Crystal Elam |
-| 798 | 274 | Jamie Stevey |
-| 799 | 274 | Sabrena Yeisley |
+| 798 | 274 | Sabrena Yeisley |
+| 799 | 274 | Jamie Stevey |
 | 800 | 274 | KT Macadocious |
 | 801 | 274 | Robin L. Vial |
 | 802 | 273 | Jennifer Aiken |
@@ -813,8 +813,8 @@
 | 805 | 272 | Alexandrea |
 | 806 | 272 | Witty Piecebuilder |
 | 807 | 271 | Pam Doughty |
-| 808 | 271 | Beverly Hodge |
-| 809 | 271 | Shalisa Hill |
+| 808 | 271 | Shalisa Hill |
+| 809 | 271 | Beverly Hodge |
 | 810 | 270 | BK Queen |
 | 811 | 270 | Nat |
 | 812 | 270 | Lazy Builderfit |

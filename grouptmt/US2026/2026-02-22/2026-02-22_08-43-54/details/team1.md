@@ -115,8 +115,8 @@
 | 107 | 328 | Shauna Loe |
 | 108 | 326 | Monica Donato |
 | 109 | 321 | Maria C. Hernandez |
-| 110 | 319 | Patrick Luckenbill |
-| 111 | 319 | Deanna L Hermanson |
+| 110 | 319 | Deanna L Hermanson |
+| 111 | 319 | Patrick Luckenbill |
 | 112 | 316 | Ly Phethmany |
 | 113 | 313 | Tanya Carpenter-Reynolds |
 | 114 | 310 | Seth Wesson |
@@ -151,8 +151,8 @@
 | 143 | 256 | David Miller |
 | 144 | 255 | Elaine Elaine |
 | 145 | 254 | Al Smith Jr |
-| 146 | 253 | Plucky Fallzone |
-| 147 | 253 | Witty Builderfit |
+| 146 | 253 | Witty Builderfit |
+| 147 | 253 | Plucky Fallzone |
 | 148 | 252 | Dena Kayy |
 | 149 | 251 | Nutty Spinblock |
 | 150 | 247 | Tana |
@@ -166,8 +166,8 @@
 | 158 | 230 | Billie Dawn Sparks |
 | 159 | 230 | Frothy Pattern |
 | 160 | 229 | David Lutcher |
-| 161 | 226 | Sleepysloath5745 |
-| 162 | 226 | Kandae |
+| 161 | 226 | Kandae |
+| 162 | 226 | Sleepysloath5745 |
 | 163 | 224 | Dizzy Party |
 | 164 | 218 | LC |
 | 165 | 217 | ParisandCory Champagne |
@@ -199,12 +199,12 @@
 | 191 | 198 | Happy Snapbuild |
 | 192 | 195 | Shaykmia |
 | 193 | 194 | Christy Jones |
-| 194 | 193 | Jennifer Olewnik Soborowski |
+| 194 | 193 | Lachelle Dillon |
 | 195 | 193 | Michael |
-| 196 | 193 | Lachelle Dillon |
+| 196 | 193 | Jennifer Olewnik Soborowski |
 | 197 | 192 | Jessica Sheehan |
-| 198 | 191 | Diane Byrd |
-| 199 | 191 | Shanae Grant |
+| 198 | 191 | Shanae Grant |
+| 199 | 191 | Diane Byrd |
 | 200 | 190 | Sweetts |
 | 201 | 190 | Thorne Shumate |
 | 202 | 189 | Veronica Eve |
@@ -365,7 +365,7 @@
 | 357 | 105 | George Dalton |
 | 358 | 104 | Jamie Catlett |
 | 359 | 104 | Serina Marie |
-| 360 | 104 | Jamie Catlett |
+| 360 | 104 | Charla Pross-Fugleberg |
 | 361 | 103 | Alex Gauthier |
 | 362 | 103 | Tiger Lily |
 | 363 | 103 | Mariah Cornell |
