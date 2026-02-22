@@ -76,8 +76,8 @@
 | 68 | 489 | Deanna L Hermanson |
 | 69 | 488 | Kellie |
 | 70 | 485 | Cartier |
-| 71 | 483 | Ryan Lunnin |
-| 72 | 483 | Evie Khalil |
+| 71 | 483 | Evie Khalil |
+| 72 | 483 | Ryan Lunnin |
 | 73 | 461 | April Carroll |
 | 74 | 458 | Jennifer ManWarren |
 | 75 | 456 | Arianna O'Brien |
@@ -137,8 +137,8 @@
 | 129 | 306 | Happy Basegrid |
 | 130 | 304 | Nicole Roseberry Weber |
 | 131 | 301 | Lehrin Maria |
-| 132 | 300 | Elaine Elaine |
-| 133 | 300 | Chelsea Dahlquist |
+| 132 | 300 | Chelsea Dahlquist |
+| 133 | 300 | Elaine Elaine |
 | 134 | 298 | Erin Hodges Plumb |
 | 135 | 290 | Sarah Roberts |
 | 136 | 290 | Death |
@@ -181,8 +181,8 @@
 | 173 | 241 | John J. Cronin |
 | 174 | 239 | Sam Williams |
 | 175 | 237 | Kimberly Garcia |
-| 176 | 235 | Desiree Deschaine Havee |
-| 177 | 235 | MRdot Rooski |
+| 176 | 235 | MRdot Rooski |
+| 177 | 235 | Desiree Deschaine Havee |
 | 178 | 234 | Paula Martin |
 | 179 | 231 | Amanda Johnson Huffman |
 | 180 | 230 | Frothy Pattern |

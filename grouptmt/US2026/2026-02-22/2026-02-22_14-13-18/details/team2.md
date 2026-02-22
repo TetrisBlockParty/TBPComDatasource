@@ -412,8 +412,8 @@
 | 404 | 543 | Vanessa Moreno |
 | 405 | 541 | g |
 | 406 | 540 | Dizzy Zone |
-| 407 | 536 | Shaun Church |
-| 408 | 536 | Caitlin Schmid |
+| 407 | 536 | Caitlin Schmid |
+| 408 | 536 | Shaun Church |
 | 409 | 535 | Paul Huber |
 | 410 | 534 | Kenny Alvarado |
 | 411 | 533 | Gauri Shrotriya |
@@ -571,21 +571,21 @@
 | 563 | 416 | Ricky Fortune |
 | 564 | 416 | Samantha Scibelli |
 | 565 | 414 | John |
-| 566 | 413 | Lauren Fitzgerald Thomas |
-| 567 | 413 | Fancy Twister |
-| 568 | 413 | Angi Harrison |
+| 566 | 413 | Angi Harrison |
+| 567 | 413 | Lauren Fitzgerald Thomas |
+| 568 | 413 | Fancy Twister |
 | 569 | 412 | Jason H Baker |
 | 570 | 411 | Mighty Spinbuilder |
 | 571 | 411 | Kristen O'Neal |
 | 572 | 410 | Belle |
-| 573 | 408 | Brandon Jones |
-| 574 | 408 | Abimbola Bimbo |
-| 575 | 408 | Stefanie Zonzini-Gagliardi |
-| 576 | 407 | Goofy Catcher |
-| 577 | 407 | Cleo Sims |
-| 578 | 407 | Tipsy Filler |
-| 579 | 406 | Erin StFrancis |
-| 580 | 406 | Kimberly Ann |
+| 573 | 408 | Abimbola Bimbo |
+| 574 | 408 | Stefanie Zonzini-Gagliardi |
+| 575 | 408 | Brandon Jones |
+| 576 | 407 | Tipsy Filler |
+| 577 | 407 | Goofy Catcher |
+| 578 | 407 | Cleo Sims |
+| 579 | 406 | Kimberly Ann |
+| 580 | 406 | Erin StFrancis |
 | 581 | 404 | Dawn L Washington-Feuquay |
 | 582 | 403 | Goofy Dasher |
 | 583 | 403 | Sarah DeHart |
@@ -629,8 +629,8 @@
 | 621 | 382 | Amber Gray |
 | 622 | 381 | Nicky Jackson |
 | 623 | 381 | Happy Caster |
-| 624 | 380 | Christy Long |
-| 625 | 380 | Giggy Grabber |
+| 624 | 380 | Giggy Grabber |
+| 625 | 380 | Christy Long |
 | 626 | 379 | Cini |
 | 627 | 378 | TF Dyer |
 | 628 | 377 | DefaultUser |
@@ -844,8 +844,8 @@
 | 836 | 280 | Sandra Link-Gable |
 | 837 | 279 | Laura Wyatt |
 | 838 | 279 | Katherin Camacho |
-| 839 | 279 | Jennifer Coe |
-| 840 | 279 | Cheery Puzzler |
+| 839 | 279 | Cheery Puzzler |
+| 840 | 279 | Jennifer Coe |
 | 841 | 278 | Amanda Segura |
 | 842 | 278 | AndrewandShela Gornik |
 | 843 | 277 | Amanda Chamberlain |
@@ -866,8 +866,8 @@
 | 858 | 275 | Kalief Wheeler |
 | 859 | 275 | Alishac Marie |
 | 860 | 275 | David Duncan |
-| 861 | 274 | Tammy Coppoletta |
-| 862 | 274 | Michael David Hollis |
+| 861 | 274 | Michael David Hollis |
+| 862 | 274 | Tammy Coppoletta |
 | 863 | 274 | Shylee Tilman |
 | 864 | 274 | Amanda Michelle Pigeon |
 | 865 | 274 | Rachel Switala |
@@ -1107,7 +1107,7 @@
 | 1099 | 222 | Daring Lift |
 | 1100 | 221 | Sabrina Smith |
 | 1101 | 221 | Tim Galle |
-| 1102 | 221 | Sabrina Smith |
+| 1102 | 221 | Persipnei Cuesta |
 | 1103 | 221 | Leslie |
 | 1104 | 221 | Chummy Caster |
 | 1105 | 220 | J-nae Kettoman |

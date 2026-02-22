@@ -42,8 +42,8 @@
 | 34 | 873 | Elizabeth Sallas |
 | 35 | 871 | Denny Shives |
 | 36 | 846 | Christine Marie |
-| 37 | 843 | Lucille Truesdale |
-| 38 | 843 | Shelly Chandler |
+| 37 | 843 | Shelly Chandler |
+| 38 | 843 | Lucille Truesdale |
 | 39 | 834 | quicksand420 |
 | 40 | 818 | Marvin Lou Martin |
 | 41 | 811 | Jae Job |
@@ -83,8 +83,8 @@
 | 75 | 544 | Amy Suckarieh |
 | 76 | 533 | Chris Baggett |
 | 77 | 530 | Yoset Mejia |
-| 78 | 524 | Amelpss |
-| 79 | 524 | Carolyn Wallace |
+| 78 | 524 | Carolyn Wallace |
+| 79 | 524 | Amelpss |
 | 80 | 523 | Dawn Alexander |
 | 81 | 517 | H.R. Block |
 | 82 | 512 | Casey Jeffcoat |
@@ -261,8 +261,8 @@
 | 253 | 164 | 030Synner |
 | 254 | 163 | Stephme310 |
 | 255 | 163 | Kristina Black |
-| 256 | 162 | John Brunetti |
-| 257 | 162 | conceptCollector |
+| 256 | 162 | conceptCollector |
+| 257 | 162 | John Brunetti |
 | 258 | 161 | Tanner Lund |
 | 259 | 160 | Brittany Marsh |
 | 260 | 160 | Ellen Durfee |
@@ -288,8 +288,8 @@
 | 280 | 148 | Ruby Khalisadar |
 | 281 | 148 | Cranky Rollpiece |
 | 282 | 148 | Janita Parrish |
-| 283 | 147 | Adam Stephanie Parker |
-| 284 | 147 | Jay28 |
+| 283 | 147 | Jay28 |
+| 284 | 147 | Adam Stephanie Parker |
 | 285 | 146 | KimoKoala |
 | 286 | 145 | Mimi |
 | 287 | 145 | Shanon Klair |
