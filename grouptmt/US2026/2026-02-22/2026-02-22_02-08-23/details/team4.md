@@ -143,13 +143,13 @@
 | 135 | 207 | Scott Jameson |
 | 136 | 205 | Sarah Neathery |
 | 137 | 205 | Tyler Terrific |
-| 138 | 204 | Jen Caldwell |
-| 139 | 204 | Dana Scott |
+| 138 | 204 | Dana Scott |
+| 139 | 204 | Jen Caldwell |
 | 140 | 203 | Katherine Crane |
 | 141 | 201 | Melvin Baird |
 | 142 | 198 | Jessica Lynn Cutlip |
-| 143 | 196 | Jeff Brian Gates |
-| 144 | 196 | Jenna McGeorge |
+| 143 | 196 | Jenna McGeorge |
+| 144 | 196 | Jeff Brian Gates |
 | 145 | 195 | Malakai Darien Fox |
 | 146 | 194 | Zany Twisterfit |
 | 147 | 192 | Shauna Havard |

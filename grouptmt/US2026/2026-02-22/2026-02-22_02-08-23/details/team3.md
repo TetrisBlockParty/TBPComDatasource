@@ -120,8 +120,8 @@
 | 112 | 410 | Stephanie Simpson |
 | 113 | 410 | Stephanie Blkpep Davidson |
 | 114 | 405 | Michelle |
-| 115 | 403 | Christine Filson |
-| 116 | 403 | FuzzyNavel |
+| 115 | 403 | FuzzyNavel |
+| 116 | 403 | Christine Filson |
 | 117 | 400 | Luciana Braganca Vieira |
 | 118 | 399 | Mcathen |
 | 119 | 399 | ren |
@@ -149,8 +149,8 @@
 | 141 | 347 | Nicole Flippo |
 | 142 | 347 | Louise Stacy Sisson |
 | 143 | 343 | Chasity |
-| 144 | 328 | Aaron Pitkin |
-| 145 | 328 | Dapper Snap |
+| 144 | 328 | Dapper Snap |
+| 145 | 328 | Aaron Pitkin |
 | 146 | 328 | Jeni Dow |
 | 147 | 326 | Fancy Cascader |
 | 148 | 323 | Ashley Raines |

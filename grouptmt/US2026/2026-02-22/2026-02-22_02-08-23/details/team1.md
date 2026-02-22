@@ -150,8 +150,8 @@
 | 142 | 198 | Happy Snapbuild |
 | 143 | 198 | Shiny Gridmatch |
 | 144 | 195 | Daring Fitclear |
-| 145 | 194 | Ash Galvan |
-| 146 | 194 | Tyler Werts |
+| 145 | 194 | Tyler Werts |
+| 146 | 194 | Ash Galvan |
 | 147 | 193 | Lachelle Dillon |
 | 148 | 192 | Jessica Sheehan |
 | 149 | 192 | Shaykmia |
@@ -171,9 +171,9 @@
 | 163 | 179 | femmefatale |
 | 164 | 179 | Danielle Little-Daugherty |
 | 165 | 178 | Chad Atchley |
-| 166 | 177 | Jacqueline Unique |
-| 167 | 177 | Irual Hctrab |
-| 168 | 177 | ParisandCory Champagne |
+| 166 | 177 | Irual Hctrab |
+| 167 | 177 | ParisandCory Champagne |
+| 168 | 177 | Jacqueline Unique |
 | 169 | 175 | John Barron |
 | 170 | 174 | Cheeky Pop |
 | 171 | 173 | Gabrielle Louise Malloch |
