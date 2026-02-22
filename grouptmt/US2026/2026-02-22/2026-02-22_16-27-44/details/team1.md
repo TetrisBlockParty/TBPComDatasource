@@ -86,8 +86,8 @@
 | 78 | 472 | April Carroll |
 | 79 | 471 | Jennifer ManWarren |
 | 80 | 456 | Arianna O'Brien |
-| 81 | 444 | Hyper |
-| 82 | 444 | Lexuriuos Lifestlye |
+| 81 | 444 | Lexuriuos Lifestlye |
+| 82 | 444 | Hyper |
 | 83 | 443 | Steve Schneider |
 | 84 | 436 | Tonya Beasley |
 | 85 | 433 | Trina Gee |
@@ -231,12 +231,12 @@
 | 223 | 207 | Leslie Bush Yarbrough |
 | 224 | 206 | BadG52 |
 | 225 | 205 | Tater |
-| 226 | 204 | Jason Savage |
-| 227 | 204 | Lacy Wolfe |
+| 226 | 204 | Lacy Wolfe |
+| 227 | 204 | Jason Savage |
 | 228 | 202 | Amanda Holibaugh |
 | 229 | 201 | Colleen Wise |
-| 230 | 200 | Breanna Luna |
-| 231 | 200 | Flashy Rotator |
+| 230 | 200 | Flashy Rotator |
+| 231 | 200 | Breanna Luna |
 | 232 | 200 | Diane Byrd |
 | 233 | 199 | Cheeky Pop |
 | 234 | 199 | Alenoush Karimian |
@@ -258,8 +258,8 @@
 | 250 | 187 | Jessica Weed |
 | 251 | 187 | GringaLinga |
 | 252 | 187 | Tawnya Peltonen |
-| 253 | 186 | Margo Wagner |
-| 254 | 186 | Marci Sanders |
+| 253 | 186 | Marci Sanders |
+| 254 | 186 | Margo Wagner |
 | 255 | 184 | Chris Sigurdson |
 | 256 | 184 | Jerry Danowski |
 | 257 | 183 | Amy Hess |
@@ -392,9 +392,9 @@
 | 384 | 124 | Dandy Towerbuilder |
 | 385 | 124 | Rodney Schmerfeld |
 | 386 | 123 | Jumpy Rotate |
-| 387 | 123 | Joe Coon |
-| 388 | 123 | Funky Piecebuilder |
-| 389 | 123 | Betsy |
+| 387 | 123 | Betsy |
+| 388 | 123 | Joe Coon |
+| 389 | 123 | Funky Piecebuilder |
 | 390 | 122 | Tyler L Hunt |
 | 391 | 121 | Amber Nixon |
 | 392 | 121 | Jacob Shaddock |

@@ -106,8 +106,8 @@
 | 98 | 1640 | Sam Smith |
 | 99 | 1603 | Gabby Jenner |
 | 100 | 1601 | Ray Ray Prado |
-| 101 | 1599 | Janel Turley-Garner |
-| 102 | 1599 | Rob Riggin |
+| 101 | 1599 | Rob Riggin |
+| 102 | 1599 | Janel Turley-Garner |
 | 103 | 1567 | Sally Dennis |
 | 104 | 1564 | Charie Holland |
 | 105 | 1562 | Loopy Clusterbuilder |
@@ -329,8 +329,8 @@
 | 321 | 700 | Beverly Owens |
 | 322 | 700 | Rosemadder |
 | 323 | 699 | tejas25 |
-| 324 | 697 | Dreamy Blast |
-| 325 | 697 | Ashle Scranton |
+| 324 | 697 | Ashle Scranton |
+| 325 | 697 | Dreamy Blast |
 | 326 | 695 | Deborah Miller |
 | 327 | 695 | Lakeysha Dortch |
 | 328 | 692 | Dannette Goldberg-Richards |
@@ -1690,7 +1690,7 @@
 | 1682 | 157 | James Lucas |
 | 1683 | 157 | Greg Foulk |
 | 1684 | 157 | Dakota Brown |
-| 1685 | 157 | Lorinda Reamer |
+| 1685 | 157 | Madysen Holt |
 | 1686 | 157 | jennmmmm |
 | 1687 | 157 | Lorinda Reamer |
 | 1688 | 157 | Preya Patel |

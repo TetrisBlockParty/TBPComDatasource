@@ -126,8 +126,8 @@
 | 118 | 369 | Nope Young |
 | 119 | 362 | Carrie Brian |
 | 120 | 354 | Serena Goodridge |
-| 121 | 353 | Livvy |
-| 122 | 353 | Tyler Terrific |
+| 121 | 353 | Tyler Terrific |
+| 122 | 353 | Livvy |
 | 123 | 344 | Lush Linkfall |
 | 124 | 343 | Latisha Davis |
 | 125 | 338 | ThaEviLJeNiuZ |
@@ -162,8 +162,8 @@
 | 154 | 275 | Dizzy Tiley |
 | 155 | 274 | Calvin Cannon |
 | 156 | 273 | Crystal Nicolette Moore |
-| 157 | 272 | Alan George LaRage |
-| 158 | 272 | Keshia Lyons |
+| 157 | 272 | Keshia Lyons |
+| 158 | 272 | Alan George LaRage |
 | 159 | 271 | Sarah Brown |
 | 160 | 269 | Nikki Rae Gordon |
 | 161 | 268 | Cursed Hag |
@@ -284,9 +284,9 @@
 | 276 | 159 | Marcus Todd |
 | 277 | 159 | DonMega |
 | 278 | 158 | Adam Stephanie Parker |
-| 279 | 157 | B Renee Desjardin |
+| 279 | 157 | Paige Kittles |
 | 280 | 157 | KayM |
-| 281 | 157 | Paige Kittles |
+| 281 | 157 | B Renee Desjardin |
 | 282 | 157 | Bethany Ison |
 | 283 | 156 | Terrance Fung |
 | 284 | 156 | Ultramarine |
