@@ -67,14 +67,14 @@
 | 59 | 736 | Goatimus Lombardi |
 | 60 | 735 | Avy Absol |
 | 61 | 722 | Dustee Craddock-Harrison |
-| 62 | 721 | Edward White |
-| 63 | 721 | Chilly Line |
+| 62 | 721 | Chilly Line |
+| 63 | 721 | Edward White |
 | 64 | 712 | Anthony Bryan Riva |
 | 65 | 704 | Crystal Carroll |
 | 66 | 679 | D3TROITB0RN74 |
 | 67 | 671 | Kimyatta Cavin |
-| 68 | 664 | loulou |
-| 69 | 664 | Valerie Roberts |
+| 68 | 664 | Valerie Roberts |
+| 69 | 664 | loulou |
 | 70 | 659 | Jonathan Kimbrough |
 | 71 | 655 | Carolyn Wallace |
 | 72 | 654 | Julian Garcia |
@@ -82,8 +82,8 @@
 | 74 | 647 | Shauna Havard |
 | 75 | 646 | Jacqueline Helm |
 | 76 | 626 | Brittney Griggs |
-| 77 | 617 | Savannah Overdorf |
-| 78 | 617 | Jason Hart |
+| 77 | 617 | Jason Hart |
+| 78 | 617 | Savannah Overdorf |
 | 79 | 614 | TheNeesh50 |
 | 80 | 597 | Eric Mcgaughy |
 | 81 | 594 | Jamie Mann-Deichmann |
@@ -202,8 +202,8 @@
 | 194 | 266 | Chris Bernstein |
 | 195 | 266 | J-Rizzle |
 | 196 | 264 | Epic Curvetile |
-| 197 | 262 | Holly Jolly |
-| 198 | 262 | Joeliecea Cobb |
+| 197 | 262 | Joeliecea Cobb |
+| 198 | 262 | Holly Jolly |
 | 199 | 261 | scott |
 | 200 | 260 | Sue Joyce Staats |
 | 201 | 259 | Melvin Baird |
@@ -255,8 +255,8 @@
 | 247 | 215 | John Brunetti |
 | 248 | 214 | Stacey Stano |
 | 249 | 213 | Angela Geist Jusinski |
-| 250 | 213 | Rio Rocha |
-| 251 | 213 | Sarah Neathery |
+| 250 | 213 | Sarah Neathery |
+| 251 | 213 | Rio Rocha |
 | 252 | 212 | Mike Solo |
 | 253 | 208 | Rebecca Morris |
 | 254 | 205 | James Hurley Jr. |

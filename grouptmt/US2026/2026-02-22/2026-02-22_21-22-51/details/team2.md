@@ -173,8 +173,8 @@
 | 165 | 1260 | Joshua Sommerville |
 | 166 | 1248 | Isabela Shaw |
 | 167 | 1242 | Mischelle Clay |
-| 168 | 1232 | Ambyre Patterson |
-| 169 | 1232 | Groovy Puzzle |
+| 168 | 1232 | Groovy Puzzle |
+| 169 | 1232 | Ambyre Patterson |
 | 170 | 1230 | Megan Garrick |
 | 171 | 1224 | Liberty |
 | 172 | 1216 | Nancy Reid |
@@ -348,8 +348,8 @@
 | 340 | 743 | Melissa Cole |
 | 341 | 741 | Mandi Douglas Hilt |
 | 342 | 740 | Jerry Tempelmeyer |
-| 343 | 739 | Jánine Riggs |
-| 344 | 739 | Brenda Utphall |
+| 343 | 739 | Brenda Utphall |
+| 344 | 739 | Jánine Riggs |
 | 345 | 737 | Ginger |
 | 346 | 737 | Jeremy Parodi |
 | 347 | 734 | Deborah Miller |
@@ -706,8 +706,8 @@
 | 698 | 398 | Angela Murgia-Owen |
 | 699 | 398 | Frisky Riserbuilder |
 | 700 | 396 | Cassie Newton |
-| 701 | 396 | Julie Hamilton |
-| 702 | 396 | Candy Pitts |
+| 701 | 396 | Candy Pitts |
+| 702 | 396 | Julie Hamilton |
 | 703 | 395 | Vung Nguyen |
 | 704 | 395 | Susan Arnburg |
 | 705 | 394 | Christina Jarvis-Swarbrick |
