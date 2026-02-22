@@ -335,14 +335,14 @@
 | 327 | 98 | Alfredo Vasquez |
 | 328 | 98 | Virginia Gray Floyd |
 | 329 | 97 | Steve Bomkamp |
-| 330 | 96 | Nutty Spinblock |
-| 331 | 96 | Lisa Marie |
+| 330 | 96 | Lisa Marie |
+| 331 | 96 | Nutty Spinblock |
 | 332 | 95 | Angela Spann |
 | 333 | 95 | Jay Tressler |
 | 334 | 94 | Lynn Adams |
 | 335 | 94 | Mitchel White |
 | 336 | 94 | Logan McFarland |
-| 337 | 94 | Patty Lavigne Craddock |
+| 337 | 94 | Sylvia Vasquez |
 | 338 | 94 | Mario Cab |
 | 339 | 94 | Patty Lavigne Craddock |
 | 340 | 94 | Billie Ann Eason |
